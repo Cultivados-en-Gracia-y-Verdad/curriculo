@@ -150,7 +150,7 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 1:1a "*Pablo, apóstol de Cristo Jesús por mandato de Dios nuestro Salvador, y de Cristo Jesús*" Pablo es el apóstol que firma la carta. 1 Timoteo 1:1, 13, 15, 2:7
 
-### 1 Timoteo 1:1b "*nuestra esperanza,*"
+### 1 Timoteo 1:1b "*nuestra esperanza,*". Jesucristo era la esperanza de Pablo y le recuerda a Timoteo que debe ser su esperanza también. 
 
 ## B. Receptor de la carta: El bien amado de Pablo (1:1-2): 
 
@@ -166,27 +166,37 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 1:2e "*de parte de Dios Padre*"
 
-### 1 Timoteo 1:2f "*y de Cristo Jesús nuestro Señor.*"
+### 1 Timoteo 1:2f "*y de Cristo Jesús nuestro Señor*". Cristo no solo es "*nuestra esperanza*", es también "*nuestro Señor*". Pablo y Timoteo servían a Jesucristo. 
 
 # IV.1 Timoteo 1:3-20 -- Batallando por la Gracia
 
 ## La perversión de la Ley de Moisés (3:1-4)
 
-### 3. 1 Timoteo 1:3a "*Tal como te rogué al salir para Macedonia*"
+### 1 Timoteo 1:3a "*Tal como te rogué al salir para Macedonia*"
 
-### 4. 1 Timoteo 1:3b "*que te quedaras en Éfeso para que instruyeras a algunos que no enseñaran doctrinas extrañas*"
+### 1 Timoteo 1:3b "*que te quedaras en Éfeso para que instruyeras a algunos que no enseñaran doctrinas extrañas*" Algunos en la congregación estaban enseñando algo que no enseñaban doctrinas que la Biblia enseña. 
 
-### 5. 1 Timoteo 1:4a "*ni prestaran atención*"
+La frase enseñaran doctrinas extrañas es la palabra HETERODIDASKALEO en griego. Significa enseñar "otra doctrina" o "desviar de la verdad". 
 
-### 6. 1 Timoteo 1:4b "*a mitos*"
+La enseñanza en la iglesia no debe se provenir de un lugar que no sea La Palabra de Dios correctamente enseñada según el contexto. 
 
-### 7. 1 Timoteo 1:4c "*y genealogías interminables*"
+### 1 Timoteo 1:4a "*ni prestaran atención*..." La observación del Texto bíblico es muy importante. A lo que prestemos atención afectará los resultados de nuestra instrucción. 
 
-### 8. 1 Timoteo 1:4d "*lo que da lugar a discusiones inútiles*"
+### 1 Timoteo 1:4b "*a mitos*..." Mitos se refiere a prestar atención a fabulas o cosas de ficción. 
 
-### 9. 1 Timoteo 1:4e "*en vez de hacer avanzar el plan de Dios que es por fe*"
+### 1 Timoteo 1:4c "*y genealogías interminables*..." la genealogía es importante entre la cultura judia. La descendencia de uno definia de que tribu  y quien era su ancestro. 
 
-### 10. 1 Timoteo 1:4f "*así te encargo ahora.*"
+Sin embargo, se estaba usando el púlpito para enseñar a la iglesia genealogías que nunca terminaban como un recuento de la historia. 
+
+### 1 Timoteo 1:4d "*lo que da lugar a discusiones inútiles*". El resultado de enseñar fabulas y genealogías lleva a disputar inútilmente entre los hermanos. Tito 1:10
+
+### 1 Timoteo 1:4e "*en vez de hacer avanzar el plan de Dios que es por fe*". La única manera que haya crecimiento (madurez) entre los hermanos es enseñando la gracia que es avanzar el plan de Dios que es por fe. 
+
+La gracia y la fe armonizan perfectamente. 
+
+Cualquier enseñanza extraña a las Escrituras apartará para prestar atención a cosas que producen más bien más carnalidad y se manifestará en contiendas y discusiones sin propósito espiritual alguno. 
+
+### 1 Timoteo 1:4f "*así te encargo ahora*". 
 
 ## 1 Timoteo 1:5-7 El propósito de la instrucción de Pablo
 
@@ -310,33 +320,31 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 1:19b "*que algunos han rechazado y naufragaron en lo que toca a la fe*"
 
-### 1 Timoteo 1:20a "*Entre ellos están Himeneo y Alejandro*"
+### 1 Timoteo 1:20a "*Entre ellos están Himeneo y Alejandro*". Interesantemente, Pablo los llaman por nombre sin disfrazarlos en la anonimidad. 
 
-### 1 Timoteo 1:20b "*a quienes he entregado a Satanás*"
+#### Al contrario de una mentalidad moderna que dice funcionemos bajo distintos mensajes pero en paz, Pablo señaló a estos hombres que enseñaban diferentemente. 
 
-### 1 Timoteo 1:20c "*para que aprendan a no blasfemar.*"
+### 1 Timoteo 1:20b "*a quienes he entregado a Satanás*". No solo los señaló a estos hombres, sino los mando a que ya no puedan influenciar a la congregación con sus distorsiones. 
+
+### 1 Timoteo 1:20c "*para que aprendan a no blasfemar*". Pablo los llamo como eran, blasfemos. La intención de Pablo no era menospreciar, pero si era necesario que estos hombres aprendan a no blasfemar. 
 
 ## En Síntesis (1 Timoteo 18-20)
 
-### Pelea la buena batalla (1:18).
+### Pelea la buena batalla. 1 Timoteo 1:18
 
-### Mantén la fe (1:19a).
+### Mantén la fe. 1 Timoteo 1:19a
 
-### Mantén una conciencia limpia (1:19b).
+### Mantén una conciencia limpia. 1 Timoteo 1:19b
 
-### Lo que Himeneo y Alejandro han hecho (1:19c-20)
+### Lo que Himeneo y Alejandro han hecho.  1 Timoteo 1:19c-20
 
-### Su perversión (1:19c): Han hecho naufragar su fe, avergonzando el nombre de Cristo.
+### Su perversión (1 Timoteo1:19c): Han hecho naufragar su fe, avergonzando el nombre de Cristo.
 
-### Su castigo (1:20): Pablo los ha entregado a Satanás.
+### Su castigo (1 Timoteo 1:20): Pablo los ha entregado a Satanás.
 
 # V. Breve Doctrina sobre la Disciplina en la Iglesia
 
 # VI. 1 Timoteo 2:1-15 -- Instrucción Sobre la Adoración
-
-### Por qué debemos orar (2:2b): "*Para que podamos vivir en paz y tranquilidad*".
-
-### Cómo debemos orar (2:8): "*Con manos santas levantadas a Dios, libres de ira y controversia*".
 
 ### 1 Timoteo 2:1a "*Exhorto, pues, ante todo que se hagan plegarias, oraciones, peticiones y acciones de gracias*"
 
@@ -416,47 +424,51 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 2:15c "*si permanece*...*en fe,*"
 
-### 1 Timoteo 2:15d "*si permanece*...*amor*"
+### 1 Timoteo 2:15d "*si permanece*...*amor y santidad*"
 
-### 1 Timoteo 2:15e "*si permanece*...*y santidad, con modestia.*"
+### 1 Timoteo 2:15e "*si permanece*...*con modestia.*"
 
 ## En Síntesis (1 Timoteo 2:1-15)
 
 ### Pablo escribe sobre la adoración apropiada de Dios.
 
-### Por quién debemos orar (2:1-2a)
+### Por quién debemos orar (1 Timoteo 2:1-2a)
 
-### Para los que tienen autoridad (2:2a)
+### Para los que tienen autoridad (1 Timoteo 2:2a)
 
-### Para todos (2:1)
+### Para todos (1 Timoteo 2:1)
 
-### LA VOLUNTAD DE DIOS (2:3-7)
+### Por qué debemos orar (1 Timoteo 2:2b): "*Para que podamos vivir en paz y tranquilidad*".
 
-### La misión (2,3-4): «*Dios... quiere que todos se salven*". El mediador (2:5): Jesucristo se interpone entre Dios y las personas.
+### Cómo debemos orar (1 Timoteo 2:8): "*Con manos santas levantadas a Dios, libres de ira y controversia*".
 
-### El método (2:6): La salvación se efectuó por la muerte de Cristo.
+### LA VOLUNTAD DE DIOS (1 Timoteo 2:3-7)
 
-### El mensajero (2:7): Pablo ha sido elegido por Dios para servir como misionero a los gentiles.
+### La misión (1 Timoteo 2, 3-4): «*Dios... quiere que todos se salven*". El mediador (1 Timoteo  2:5): Jesucristo se interpone entre Dios y las personas.
 
-### LA MUJER DE DIOS (2:9-15)
+### El método (1 Timoteo 2:6): La salvación se efectuó por la muerte de Cristo.
 
-### Sus responsabilidades (2:9-11)
+### El mensajero (1 Timoteo 2:7): Pablo ha sido elegido por Dios para servir como misionero a los gentiles.
 
-### En materia de vestimenta (2:9-10): Debe vestirse modestamente como alguien que profesa adorar a Dios.
+### LA MUJER DE DIOS (1 Timoteo 2:9-15)
 
-### En cuestiones de actitud (2:11): Debe escuchar y aprender en silencio y con humildad.
+### Sus responsabilidades (1 Timoteo 2:9-11)
 
-### Sus restricciones (2:12-14)
+### En materia de vestimenta (1 Timoteo 2:9-10): Debe vestirse modestamente como alguien que profesa adorar a Dios.
 
-### La regla (2:12): A la mujer no se le permite enseñar o tener autoridad sobre un hombre.
+### En cuestiones de actitud (1 Timoteo 2:11): Debe escuchar y aprender en silencio y con humildad.
 
-### La razón (2:13-14): Se dan dos factores.
+### Sus restricciones (1 Timoteo 2:12-14)
 
-### El factor de la creación original (2:13): Adán fue creado antes que Eva.
+### La regla (1 Timoteo 2:12): A la mujer no se le permite enseñar o tener autoridad sobre un hombre.
 
-### El factor de la corrupción original (2:14): Adán no fue engañado por Satanás como lo fue el mujer.
+### La razón (1 Timoteo 2:13-14): Se dan dos factores.
 
-### Su redención (2:15): Ella será "salva" a través de la maternidad y viviendo en fe, amor, santidad y modestia.
+### El factor de la creación original (1 Timoteo 2:13): Adán fue creado antes que Eva.
+
+### El factor de la corrupción original (1 Timoteo 2:14): Adán no fue engañado por Satanás como lo fue el mujer.
+
+### Su redención (1 Timoteo 2:15): Ella será "salva" a través de la maternidad y viviendo en fe, amor, santidad y modestia.
 
 ### Pablo da calificaciones para pastores y diáconos en la iglesia y da un resumen séxtuple del ministerio terrenal de Jesús.
 
@@ -522,49 +534,49 @@ Title: 1 Timoteo
 
 ## En Síntesis (1 Timoteo 3:1-8)
 
-### Requisitos para un pastor (3:1-7)
+### Requisitos para un pastor (1 Timoteo 3:1-7)
 
-### Calificaciones positivas (3:1-2, 3c-5, 7)
+### Calificaciones positivas (1 Timoteo 3:1-2, 3c-5, 7)
 
-### Debe ser irreprochable (3:1-2a).
+### Debe ser irreprochable (1 Timoteo 3:1-2a).
 
-### Debe tener una sola esposa y serle fiel (3:2b).
+### Debe tener una sola esposa y serle fiel (1 Timoteo 3:2b).
 
-### Debe ser moderado, autocontrolado, respetable, hospitalario y capaz de enseñar (3:2c).
+### Debe ser moderado, autocontrolado, respetable, hospitalario y capaz de enseñar (1 Timoteo 3:2c).
 
-### Debe ser amable y tener una familia que se comporte bien (3:3c-5).
+### Debe ser amable y tener una familia que se comporte bien (1 Timoteo 3:3c-5).
 
-### Debe ser respetado por los que están fuera de la iglesia (3:7).
+### Debe ser respetado por los que están fuera de la iglesia (1 Timoteo 3:7).
 
-### Calificaciones negativas (3:3a-3b, 3d, 6)
+### Calificaciones negativas (1 Timoteo 3:3a-3b, 3d, 6)
 
-### No debe ser un bebedor empedernido (3:3a).
+### No debe ser un bebedor empedernido (1 Timoteo 3:3a).
 
-### No debe ser violento (3:3b).
+### No debe ser violento (1 Timoteo 3:3b).
 
-### No debe ser orgulloso (3:6b).
+### No debe ser orgulloso (1 Timoteo 3:6b).
 
-### No debe ser codicioso (3:3d).
+### No debe ser codicioso (1 Timoteo 3:3d).
 
-### No debe ser un nuevo cristiano (3:6a).
+### No debe ser un nuevo cristiano (1 Timoteo 3:6a).
 
-### Requisitos para un diácono (3:8-13)
+### Requisitos para un diácono (1 Timoteo 3:8-13)
 
-### Calificaciones positivas (3:8a, 9-13)
+### Calificaciones positivas (1 Timoteo 3:8a, 9-13)
 
-### Debe ser sincero y digno de respeto (3:8a).
+### Debe ser sincero y digno de respeto (1 Timoteo 3:8a).
 
-### Debe ser un hombre de profundidad espiritual (3:9).
+### Debe ser un hombre de profundidad espiritual (1 Timoteo 3:9).
 
-### Debe ser un hombre de carácter y habilidad probados (3:10).
+### Debe ser un hombre de carácter y habilidad probados (1 Timoteo 3:10).
 
-### Debe ser fiel a su esposa, y su esposa debe ser una mujer de buen carácter (3:11-13).
+### Debe ser fiel a su esposa, y su esposa debe ser una mujer de buen carácter (1 Timoteo 3:11-13).
 
-### Calificaciones negativas (3:8b-8c)
+### Calificaciones negativas (1 Timoteo 3:8b-8c)
 
-### No debe ser un bebedor empedernido (3:8b).
+### No debe ser un bebedor empedernido (1 Timoteo 3:8b).
 
-### No debe ser codicioso (3:8c).
+### No debe ser codicioso (1 Timoteo 3:8c).
 
 ## Titulo de Sección
 
@@ -602,19 +614,19 @@ Title: 1 Timoteo
 
 ## En Síntesis (1 Timoteo 3:9-13)
 
-### LAS OVEJAS EN LA IGLESIA (3:14-15): Pablo le dice a Timoteo que instruya a la congregación sobre cómo deben comportarse en la casa de Dios.
+### LAS OVEJAS EN LA IGLESIA (1 Timoteo 3:14-15): Pablo le dice a Timoteo que instruya a la congregación sobre cómo deben comportarse en la casa de Dios.
 
-### EL SALVADOR DE LA IGLESIA (3:16): En este versículo único y supremo, Pablo da un resumen séxtuple del ministerio terrenal de Jesús. Un. Apareció en un cuerpo (3:16a).
+### EL SALVADOR DE LA IGLESIA (1 Timoteo 3:16): En este versículo único y supremo, Pablo da un resumen séxtuple del ministerio terrenal de Jesús. Un. Apareció en un cuerpo (1 Timoteo 3:16a).
 
-### Fue vindicado por el Espíritu (3:16b).
+### Fue vindicado por el Espíritu (1 Timoteo 3:16b).
 
-### Fue visto por ángeles (3:16c).
+### Fue visto por ángeles (1 Timoteo 3:16c).
 
-### Fue anunciado a las naciones (3:16d).
+### Fue anunciado a las naciones (1 Timoteo 3:16d).
 
-### Se creía en él en el mundo (3:16e).
+### Se creía en él en el mundo (1 Timoteo 3:16e).
 
-### Fue llevado al cielo (3:16s).
+### Fue llevado al cielo (1 Timoteo 3:16s).
 
 ### Pablo contrasta dos tipos de pastores.
 
@@ -672,23 +684,23 @@ Title: 1 Timoteo
 
 ## En Síntesis (1 Timoteo 4:1-5)
 
-### Quiénes son (4:2): Líderes religiosos hipócritas y mentirosos.
+### Quiénes son (1 Timoteo 4:2): Líderes religiosos hipócritas y mentirosos.
 
-### Lo que harán (4:1b-1c, 3)
+### Lo que harán (1 Timoteo 4:1b-1c, 3)
 
-### Abandonar la fe (4:1b)
+### Abandonar la fe (1 Timoteo 4:1b)
 
-### Seguir las enseñanzas que provienen de espíritus mentirosos y demonios (4:1c)
+### Seguir las enseñanzas que provienen de espíritus mentirosos y demonios (1 Timoteo 4:1c)
 
-### Prohibir el matrimonio y el consumo de ciertos alimentos (4:3)
+### Prohibir el matrimonio y el consumo de ciertos alimentos (1 Timoteo 4:3)
 
-### Cuándo lo harán (4:1a): En los "últimos tiempos" antes de la venida de Jesús.
+### Cuándo lo harán (1 Timoteo 4:1a): En los "últimos tiempos" antes de la venida de Jesús.
 
-### Por qué están equivocados (4:4-5)
+### Por qué están equivocados (1 Timoteo 4:4-5)
 
-### Todo lo que Dios creó es bueno y, por lo tanto, no debe ser rechazado (4:4).
+### Todo lo que Dios creó es bueno y, por lo tanto, no debe ser rechazado (1 Timoteo 4:4).
 
-### Todo lo que Dios creó es santificado por la Palabra de Dios y por la oración (4:5).
+### Todo lo que Dios creó es santificado por la Palabra de Dios y por la oración (1 Timoteo 4:5).
 
 ## II\. LIDERES PIADOSOS (4:6-16): Pablo enumera algunas cosas que se deben y no se deben hacer con respecto al ministerio cristiano.
 
@@ -766,27 +778,27 @@ Title: 1 Timoteo
 
 ## En Síntesis (1 Timoteo 4:6-16)
 
-### Lo que no se debe hacer (4:7a, 12a, 14)
+### Lo que no se debe hacer (1 Timoteo 4:7a, 12a, 14)
 
-### No pierdas el tiempo discutiendo sobre ideas tontas y mitos tontos (4:7a).
+### No pierdas el tiempo discutiendo sobre ideas tontas y mitos tontos (1 Timoteo 4:7a).
 
 ### No te dejes intimidar por tu juventud (4:12a).
 
-### No descuides tu don espiritual (4:14).
+### No descuides tu don espiritual (1 Timoteo 4:14).
 
-### Lo que se debe hacer (4:6, 7b-11, 12b-13, 15-16)
+### Lo que se debe hacer (1 Timoteo 4:6, 7b-11, 12b-13, 15-16)
 
-### Advierta a los miembros de la iglesia con respecto a la apostasía (4:6).
+### Advierta a los miembros de la iglesia con respecto a la apostasía (1 Timoteo 4:6).
 
-### Manténgase espiritualmente en forma (4:7b-11).
+### Manténgase espiritualmente en forma (1 Timoteo 4:7b-11).
 
-### Sé un modelo piadoso en todo lo que hagas (4:12b).
+### Sé un modelo piadoso en todo lo que hagas (1 Timoteo 4:12b).
 
-### Continúe leyendo, enseñando y predicando públicamente la Palabra de Dios (4:13).
+### Continúe leyendo, enseñando y predicando públicamente la Palabra de Dios (1 Timoteo 4:13).
 
-### Entrégate por completo al ministerio (4:15).
+### Entrégate por completo al ministerio (1 Timoteo 4:15).
 
-### Vigila de cerca tu propia vida (4:16).
+### Vigila de cerca tu propia vida (1 Timoteo 4:16).
 
 ### Pablo da consejos sobre hombres mayores y jóvenes, mujeres mayores y jóvenes, viudas y ancianos de la iglesia.
 
@@ -866,31 +878,31 @@ Title: 1 Timoteo
 
 ## En Síntesis (1 Timoteo 5:1-16)
 
-### Con respecto a los hombres mayores (5:1a): Trátalos como padres respetados.
+### Con respecto a los hombres mayores (1 Timoteo 5:1a): Trátalos como padres respetados.
 
-### Con respecto a los hombres más jóvenes (5:1b): Trátalos como hermanos.
+### Con respecto a los hombres más jóvenes (1 Timoteo 5:1b): Trátalos como hermanos.
 
-### Con respecto a las mujeres mayores (5:2a): Trátalas como madres.
+### Con respecto a las mujeres mayores (1 Timoteo 5:2a): Trátalas como madres.
 
-### Con respecto a las mujeres más jóvenes (5:2b): Trátalas como hermanas.
+### Con respecto a las mujeres más jóvenes (1 Timoteo 5:2b): Trátalas como hermanas.
 
-### Con respecto a las viudas (5:3-16)
+### Con respecto a las viudas (1 Timoteo 5:3-16)
 
-### Viudas mayores (5:3-10, 16)
+### Viudas mayores (1 Timoteo 5:3-10, 16)
 
-### Las viudas mayores de sesenta años, piadosas y sin hijos vivos (5:3, 5, 9-10, 16): Éstas deben ser honradas y provistas.
+### Las viudas mayores de sesenta años, piadosas y sin hijos vivos (1 Timoteo 5:3, 5, 9-10, 16): Éstas deben ser honradas y provistas.
 
-### Viudas que tienen hijos y nietos vivos (5:4, 8, 16): Deben ser cuidadas por sus familias.
+### Viudas que tienen hijos y nietos vivos (1 Timoteo 5:4, 8, 16): Deben ser cuidadas por sus familias.
 
-### Viudas que son carnales y viven solo para el placer (5:6-7): No deben recibir ayuda.
+### Viudas que son carnales y viven solo para el placer (1 Timoteo 5:6-7): No deben recibir ayuda.
 
-### Viudas más jóvenes (5:11-15)
+### Viudas más jóvenes (1 Timoteo 5:11-15)
 
-### La regla (5:11-12, 14): Que se vuelvan a casar y críen hijos.
+### La regla (1 Timoteo 5:11-12, 14): Que se vuelvan a casar y críen hijos.
 
-### La razón (5:13, 15): Esto los mantendrá alejados de la inmoralidad y de la palabrería.
+### La razón (1 Timoteo 5:13, 15): Esto los mantendrá alejados de la inmoralidad y de la palabrería.
 
-## II\. LOS PREDICADORES (5:17-25): El consejo de Pablo con respecto a los ancianos de la iglesia.
+## II\. LOS PREDICADORES (1 Timoteo 5:17-25): El consejo de Pablo con respecto a los ancianos de la iglesia.
 
 ### 1 Timoteo 5:17a "*Los ancianos que gobiernan bien*" 
 
@@ -940,19 +952,19 @@ Title: 1 Timoteo
 
 ## En Síntesis (1 Timoteo 5:17-25)
 
-### Ancianos en general (5:17-22, 24-25)
+### Ancianos en general (1 Timoteo 5:17-22, 24-25)
 
-### Son dignos de doble honor (5:17-18).
+### Son dignos de doble honor (1 Timoteo 5:17-18).
 
-### Nunca deben ser acusados injustamente (5:19-20, 24-25).
+### Nunca deben ser acusados injustamente (1 Timoteo 5:19-20, 24-25).
 
-### Deben ser imparciales (5:21).
+### Deben ser imparciales (1 Timoteo 5:21).
 
-### Deben probarse antes de ser ordenados (5:22a).
+### Deben probarse antes de ser ordenados (1 Timoteo 5:22a).
 
-### Deben mantenerse puros (5:22b).
+### Deben mantenerse puros (1 Timoteo 5:22b).
 
-### Timoteo en particular (5:23): "Bebe un poco de vino por amor a tu estómago porque estás enfermo muy a menudo".
+### Timoteo en particular (1 Timoteo 5:23): "Bebe un poco de vino por amor a tu estómago porque estás enfermo muy a menudo".
 
 ### Pablo se dirige a los obreros, a los impíos, a los sabios y a los ricos. Cierra su carta con algunas instrucciones finales para Timoteo.
 
@@ -1024,25 +1036,25 @@ Title: 1 Timoteo
 
 ## En Síntesis (1 Timoteo 6:1-10)
 
-### Los obreros (6:1-2): Pablo insta a los siervos cristianos a rendir servicio fiel a sus amos, para que el nombre de Dios no sea calumniado.
+### Los obreros (1 Timoteo 6:1-2): Pablo insta a los siervos cristianos a rendir servicio fiel a sus amos, para que el nombre de Dios no sea calumniado.
 
-### Los inicuos (6:3-5)
+### Los inicuos (1 Timoteo 6:3-5)
 
-### Niegan la fe (6:3-4a).
+### Niegan la fe (1 Timoteo 6:3-4a).
 
-### Son engreídos y discutidores (6:4b).
+### Son engreídos y discutidores (1 Timoteo 6:4b).
 
-### Causan confusión, envidia y fricción (6:4c).
+### Causan confusión, envidia y fricción (1 Timoteo 6:4c).
 
-### Usan las cosas espirituales para obtener ganancias financieras (6:5).
+### Usan las cosas espirituales para obtener ganancias financieras (1 Timoteo 6:5).
 
-### Los sabios (6:6-8): Se dan cuenta de que la piedad con contentamiento es una gran ganancia.
+### Los sabios (1 Timoteo 6:6-8): Se dan cuenta de que la piedad con contentamiento es una gran ganancia.
 
-### Los ricos (6:9-10)
+### Los ricos (1 Timoteo 6:9-10)
 
-### El deseo (6:10): "El amor al dinero está en la raíz de toda clase de males".
+### El deseo (1 Timoteo 6:10): "El amor al dinero está en la raíz de toda clase de males".
 
-### La destrucción (6:9): Este tipo de codicia, si no se controla, resultará en ruina y destrucción.
+### La destrucción (1 Timoteo 6:9): Este tipo de codicia, si no se controla, resultará en ruina y destrucción.
 
 # II\. LAS PALABRAS DE PABLO A TIMOTEO (6:11-21)
 
@@ -1140,37 +1152,37 @@ Title: 1 Timoteo
 
 ## En Síntesis (1 Timoteo 6:11-21)
 
-### Lo que Timoteo debe hacer (6:11-14, 17-21)
+### Lo que Timoteo debe hacer (1 Timoteo 6:11-14, 17-21)
 
-### Huye del mal y sigue el bien (6:11).
+### Huye del mal y sigue el bien. 1 Timoteo 6:11
 
-### Pelea la buena batalla de la fe (6:12).
+### Pelea la buena batalla de la fe. 1 Timoteo 6:12
 
-### Cumple fielmente tu ministerio (6:13-14, 20a).
+### Cumple fielmente tu ministerio. 1 Timoteo 6:13-14, 20a
 
-### Por quien Timoteo debe hacerlo (6:15-16): Dios.
+### Por quien Timoteo debe hacerlo (1 Timoteo 6:15-16): Dios.
 
-### El bendito y único Dios Todopoderoso (6:15a)
+### El bendito y único Dios Todopoderoso. 1 Timoteo 6:15a
 
-### El Rey de Reyes (6:15b)
+### El Rey de Reyes. 1 Timoteo 6:15b
 
-### El Señor de Señores (6:15c)
+### El Señor de Señores. 1 Timoteo 6:15c
 
-### El Dios inmortal e invisible (6:16a)
+### El Dios inmortal e invisible. 1 Timoteo 6:16a
 
-### El Único que habita en luz inaccesible (6:16b)
+### El Único que habita en luz inaccesible. 1 Timoteo 6:16b
 
-### Advierte a los ricos (6:17-19).
+### Advierte a los ricos. 1 Timoteo 6:17-19
 
-### Lo que deben hacer (6:17-18) 
+### Lo que deben hacer. 1 Timoteo 6:17-18 
 
-#### No confíes en tu dinero (6:17).
+#### No confíes en tu dinero. 1 Timoteo 6:17
 
-#### Úselo para ayudar a otros (6:18).
+#### Úselo para ayudar a otros. 1 Timoteo 6:18
 
-### Por qué deberían hacerlo (6:19): Dios los recompensará tanto en la tierra como en el cielo.
+### Por qué deberían hacerlo (1 Timoteo 6:19): Dios los recompensará tanto en la tierra como en el cielo.
 
-### Rechaza las filosofías ateas (6:20b-21).
+### Rechaza las filosofías ateas. 1 Timoteo 6:20b-21
 
 [^1]: Robertson Word Pictures
 [^2]: BibleRef, 1 Timothy, https://www.bibleref.com/1-Timothy/index.html
