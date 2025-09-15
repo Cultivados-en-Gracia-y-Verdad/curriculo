@@ -170,7 +170,7 @@ Title: 1 Timoteo
 
 # IV.1 Timoteo 1:3-20 -- Batallando por la Gracia
 
-## La perversión de la Ley de Moisés (3:1-4)
+## 1 Timoteo 3:1-4 El apartarse de la instrucción bíblica
 
 ### 1 Timoteo 1:3a "*Tal como te rogué al salir para Macedonia*"
 
@@ -190,15 +190,15 @@ Sin embargo, se estaba usando el púlpito para enseñar a la iglesia genealogía
 
 ### 1 Timoteo 1:4d "*lo que da lugar a discusiones inútiles*". El resultado de enseñar fabulas y genealogías lleva a disputar inútilmente entre los hermanos. Tito 1:10
 
-### 1 Timoteo 1:4e "*en vez de hacer avanzar el plan de Dios que es por fe*". La única manera que haya crecimiento (madurez) entre los hermanos es enseñando la gracia que es avanzar el plan de Dios que es por fe. 
+### 1 Timoteo 1:4e "*en vez de hacer avanzar el plan de Dios que es por fe*". La única manera que haya crecimiento (madurez) en la iglesia es enseñando la gracia De Dios que es "*avanzar el plan de Dios que es por fe*". 
 
-La gracia y la fe armonizan perfectamente. 
+### La gracia y la fe armonizan perfectamente. 
 
-Cualquier enseñanza extraña a las Escrituras apartará para prestar atención a cosas que producen más bien más carnalidad y se manifestará en contiendas y discusiones sin propósito espiritual alguno. 
+### Cualquier enseñanza extraña a las Escrituras apartará para prestar atención a cosas que producen más bien más carnalidad y se manifestará en contiendas y discusiones sin propósito espiritual alguno. 
 
 ### 1 Timoteo 1:4f "*así te encargo ahora*". 
 
-## 1 Timoteo 1:5-7 El propósito de la instrucción de Pablo
+## 1 Timoteo 1:5 El propósito correcto de la instrucción
 
 ### 1 Timoteo 1:5a "*Pero el propósito de nuestra instrucción*"
 
@@ -210,21 +210,35 @@ Cualquier enseñanza extraña a las Escrituras apartará para prestar atención 
 
 ### 1 Timoteo 1:5e "*es el amor...y de una fe sincera,*"
 
-### 1 Timoteo 1:6a "*Pues algunos, desviándose de estas cosas*"
+## 1 Timoteo 1:6-7 El desviar la instrucción bíblica para pervertir el uso de La Ley 
 
-### 1 Timoteo 1:6b "*se han apartado hacia una vana palabrería*"
+### 1 Timoteo 1:6a "*Pues algunos, desviándose de estas cosas* *se han apartado hacia una vana palabrería*" Al apartarse del propósito correcto de la instrucción terminaron enseñando meramente palabras huecas sin conseguir el amor de corazon puro, una buena consciencia y una fe sincera. 
 
-### 1 Timoteo 1:7a "*Quieren ser maestros de la ley*"
+#### El error que cometieron fue de enseñar cosas extrañas y eso terminó en vana palabrería. 
+
+### 1 Timoteo 1:7a "*Quieren ser maestros de la ley*" Su intención es querer ser "doctos" en la ley. 
+
+#### Cuando una herramienta es utilizada para algo que no es su uso, puede resultar ser peligroso y dañino. 
+
+#### Al querer ser maestros de La Ley, estas personas estaban dando un mal uso a una buena herramienta y terminó en algo dañino para la iglesia. 
 
 ### 1 Timoteo 1:7b "*aunque no saben lo que dicen ni entienden las cosas acerca de las cuales hacen declaraciones categóricas.*"
 
+#### ¿Como pueden enseñar algo que ellos ni siquiera entienden? 
+
+#### Al querer usar La Ley para santificar a los hermanos, claramente demuestra que no saben lo que dicen. 
+
+#### Al querer ser maestros de La Ley muestran que no han entendido la relación que el creyente tiene con La Ley. 
+
+#### Declaraciones categóricas es la palabra DIADEBAIMOOMAI que conlleva la idea de hablar confiadamente o dogmaticamente declarar las cosas. 
+
 ## En Síntesis
 
-### Los pervertidores (1:3a): Son autoproclamados "expertos" de la ley, que se dedican a esparcir su veneno.
+### Los pervertidores (1 Timoteo 1:3a): Son autoproclamados "expertos" de la ley, que se dedican a esparcir su veneno.
 
-### La perversión (1:3b-7): Estos hombres han agregado una dolorosa mezcla de mitos, fábulas y genealogías interminables a la ley.
+### La perversión (1 Timoteo 1:3b-7): Estos hombres han agregado una dolorosa mezcla de mitos, fábulas y genealogías interminables a la ley.
 
-## El propósito de la Ley de Moisés (3:8-11)
+## El propósito de la Ley de Moisés (1 Timoteo 3:8-11)
 
 ### 1 Timoteo 1:8 "*Pero nosotros sabemos que la ley es buena, si uno la usa legítimamente.*"
 
@@ -262,7 +276,7 @@ Cualquier enseñanza extraña a las Escrituras apartará para prestar atención 
 
 ### La Ley fue hecho para controlar a las personas que no son salvas. 1 Timoteo 1:8b-11
 
-## EL TESTIMONIO DE PABLO (1,12-17): Aquí el apóstol expresa su profunda acción de gracias por la fidelidad de Dios.
+## 1 Timoteo 1:12-17 EL TESTIMONIO DE PABLO: Aquí el apóstol expresa su profunda acción de gracias por la fidelidad de Dios.
 
 ### 1 Timoteo 1:12 "*Doy gracias a Cristo Jesús nuestro Señor, que me ha fortalecido, porque me tuvo por fiel, poniéndome en el ministerio*"
 
@@ -296,19 +310,19 @@ Cualquier enseñanza extraña a las Escrituras apartará para prestar atención 
 
 ## En Síntesis (1 Timoteo 1:12-17)
 
-### Lo que Dios hizo (1:12, 14-15)
+### Lo que Dios hizo. 1 Timoteo 1:12, 14-15
 
-### Salvó a Pablo (1:14-15).
+### Salvó a Pablo. 1 Timoteo 1:14-15
 
-### Seleccionó a Pablo (1:12).
+### Seleccionó a Pablo. 1 Timoteo 1:12
 
-### Cuando Dios lo hizo (1:13): En ese momento, el apóstol era un blasfemo y un perseguidor violento de los cristianos.
+### Cuando Dios lo hizo (1 Timoteo 1:13): En ese momento, el apóstol era un blasfemo y un perseguidor violento de los cristianos.
 
-### Por qué Dios lo hizo (1:16-17): Lo hizo para demostrar su asombrosa gracia incluso a los peores pecadores.
+### Por qué Dios lo hizo (1 Timoteo 1:16-17): Lo hizo para demostrar su asombrosa gracia incluso a los peores pecadores.
 
-## LA SABIDURÍA DE PABLO (1:18-20) 
+## 1 Timoteo 1:18-20 LA SABIDURÍA DE PABLO 
 
-## Lo que Timoteo debe hacer (1:18-19b)
+## 1 Timoteo 1:18-19b Lo que Timoteo debe hacer
 
 ### 1 Timoteo 1:18a "*Esta comisión te confío, hijo Timoteo*"
 
@@ -343,6 +357,100 @@ Cualquier enseñanza extraña a las Escrituras apartará para prestar atención 
 ### Su castigo (1 Timoteo 1:20): Pablo los ha entregado a Satanás.
 
 # V. Breve Doctrina sobre la Disciplina en la Iglesia
+
+## Introducción
+
+### Para algunos cristianos, la disciplina eclesiástica parece contradecir la esencia misma de la historia bíblica. ¿Acaso el evangelio no se centra en Jesús dando la bienvenida a los recaudadores de impuestos y pecadores? [^5]
+
+### ¿No estamos retrocediendo el tiempo y sometiendo a los creyentes de nuevo a la ley si empezamos a excluir a personas de la iglesia por ciertos pecados?[^5]
+
+### Como veremos, la disciplina de Dios a su pueblo es parte integral de toda la historia bíblica, desde el Edén hasta la nueva creación. 
+
+## Jardín del Edén
+
+### En el principio, Dios creó a Adán y a Eva. Los trajo consigo y los unió. Los puso en el jardín que había preparado para ellos. Caminó con ellos y habló con ellos cara a cara. Génesis 1:26-28, 2:4-25
+
+### Pero no duró. Adán y Eva pecaron, y Dios les impuso una sentencia de muerte y los desterró. Los expulsó hacia el este, de su jardín y lejos de su presencia. Esto fué la disciplina de Dios a Adan y Eva.[^5]Génesis 3:1-24
+
+## Disciplina en el desierto
+
+### A pesar de las asombrosas obras que Dios realizó ante los ojos de Israel, no creyeron y se quejaron. Se negaron a confiar en que el Dios que rompió sus cadenas pudiera llenar sus estómagos (Éxodo 16-17; Números 11). 
+
+### Se negaron a confiar en que el Dios que venció a Faraón pudiera controlar a los enemigos que se les presentaban (Números 14).[^5]
+
+### Dios disciplina a su pueblo para que aprenda a no depender de sí mismo ni correr tras otros dioses, sino a buscarlo todo y encontrarlo todo en él.[^5]
+
+## El pacto mosaico: disciplina para evitar la destrucción
+
+### Dios guió a su pueblo a la Tierra Prometida, expulsó a sus enemigos y los estableció allí. En el pacto que Dios hizo con Israel por medio de Moisés en el Sinaí, los convirtió no solo en un pueblo, sino en una nación (Éxodo 19:5-6). 
+
+### Les dio una ley que no solo debía asegurar su obediencia, sino también gobernar su sociedad. Bajo el pacto mosaico, Dios responsabilizó a Israel ante esta ley y autorizó al gobierno humano de Israel a imponer las sanciones correspondientes por la deserción del pacto. 
+
+### Los falsos profetas debían ser ejecutados (Deuteronomio 13:1-5), al igual que los idólatras (Deuteronomio 13:6-18; 17:2-7). El objetivo de Dios al autorizar al pueblo a ejecutar a los idólatras era "*purgar al malvado* [o "persona malvada"] de en *medio de ustedes*".[^5]
+
+### En el pacto mosaico, Dios también empleó otros medios de disciplina. Si el pueblo no obedecía, amenazaba con enfermedad y derrota (Levítico 26:14-17). Si no se arrepentían, Dios prometía una mayor "disciplina" que consistía en arruinar su tierra y quebrantar su fuerza (Levítico 26:18-20). Y otras consecuencias aún más terribles les aguardaban si el pueblo persistía en la rebelión (Levítico 26:21-39; véase "disciplina" en los versículos 23 y 28).[^5]
+
+### Toda esta disciplina tenía como objetivo evitar el desastre del exilio. Dios disciplinó a su pueblo para ofrecerle un salvavidas ante un juicio aún mayor.[^5]
+
+## Exilio: La disciplina como retribución, para la restauración
+
+### Pero Israel falló su intento. A lo largo de cientos de años, a pesar de las advertencias de docenas de profetas, el pueblo rechazó persistentemente a Dios y se negó a hacer su voluntad. Así que Dios finalmente impuso las sanciones del pacto, primero a Israel en el norte, y luego a Judá en el sur (véanse Levítico 26; Deuteronomio 28; 2 Reyes 17:1-23; 25:1-21).[^5]
+
+### Como Israel se negó a confiar a Dios, Dios les impuso una especie de sentencia capital (Levítico 28:38; Deuteronomio 4:27). Los desterró. Los expulsó hacia el este, de su tierra y lejos de su presencia.[^5]
+
+### Dios promete destrucción total y definitiva a las naciones que ignoran sus advertencias. Sin embargo, Dios disciplina a su pueblo con la devastación del exilio para restaurarlos a la comunión con él, al arrepentimiento y a un andar por la fe.
+
+## La iglesia
+
+### El pacto mosaico exigía obediencia, pero no otorgaba el poder para obedecer. [^5]
+
+### Dios sigue disciplinando de igual manera pero ahora a la iglesia. Puede usar la persecución y providencias difíciles, alejándonos del mundo y aferrándonos más a sus promesas (Hebreos 12:5-11). 
+
+### Dios sigue disciplinando hoy, en la iglesia por el pecado, incluso hasta el punto de infligir la muerte.[^5]Hechos 5:1-11; 1 Corintios 11:27-31 
+
+### El propósito, como antes, es que al aceptar la disciplina de Dios ahora, finalmente escapemos del juicio de entonces: «*Pero cuando somos juzgados por el Señor, somos disciplinados para que no seamos condenados junto con el mundo*» [^5]1 Corintios 11:32
+
+### Pero también provee nuevos medios para preservar la pureza de su pueblo. Además de la provisión interna del Espíritu, Dios provee el apoyo externo de la rendición de cuentas de la iglesia. Ahora, quienes afirman ser el pueblo de Dios, pero cuyas vidas contradicen esa afirmación, son advertidos, exhortados, suplicados y, si es necesario, excluidos de la membresía de la iglesia.[^5]Mateo 18:15-17; 1 Corintios 5:1-13; 2 Corintios 2:5-8; Tito 3:10-11
+
+### La enseñanza del Nuevo Testamento sobre la disciplina eclesiástica presupone que los miembros de la iglesia profesan la fe en Cristo y que sus vidas suelen confirmar esa afirmación. Cuando la vida de alguien socava fundamentalmente su profesión, la respuesta del Nuevo Testamento debe ser, esto no alinea con quienes somos. 
+
+## Reino Milenial
+
+### Cuando regreso Cristo para reinar, la Iglesia ya no necesitará disciplina. Veremos a Cristo cara a cara y seremos como él (1 Juan 3:1-2). La disciplina que Dios aplica a su pueblo ahora —ya sea la disciplina formativa de la enseñanza y la formación, la disciplina correctiva de la reprensión o la exclusión, o la disciplina providencial de la persecución y las dificultades— tiene como objetivo nuestra conformidad con Cristo, que un día se perfeccionará. 
+
+### La disciplina que Dios ha aplicado a su pueblo a lo largo de la historia siempre ha tenido como objetivo su restauración y transformación, y un día esa transformación será completa.[^5]
+
+### Sin embargo durante el Milenio, las naciones si recibirán disciplina por no venir a adorar al rey en la fiesta de tabernaculos. La disciplina será no tener lluvia por un año. Zacarías 14:16-19
+
+## Consumación: No más disciplina, sino una división final
+
+### Pero en el nuevo cielo y nueva tierra, Dios también decretará una división definitiva. Efectuará una exclusión irreversible. Así como Adán y Eva fueron desterrados del Edén, así como Israel fue exiliado de su tierra, así también todos los que no confían en Cristo ni lo siguen, todos los que persisten en el pecado, serán excluidos de la nueva creación de Dios para siempre.[^5]
+
+### Apocalipsis 22:14-15 "*Bienaventurados los que lavan sus vestiduras para tener derecho al árbol de la vida y entrar en la ciudad por las puertas. Afuera están los perros, los hechiceros, los inmorales, los asesinos, los idólatras y todo aquel que ama y practica la mentira*".  
+
+## En Síntesis (Disciplina Bíblica)
+
+### ¿Qué aprendemos de Dios y su manera de disciplinar a través de la historia?
+
+### En primer lugar, de este lado del juicio final, todo acto de disciplina divina tiene como objetivo reformar y renovar a su pueblo. De este lado del juicio final, ningún juicio es definitivo.[^5]
+
+#### A lo largo de la larga y tortuosa historia de Dios con su pueblo, a menudo desobediente, a menudo ha recurrido a la disciplina para sacarnos del estupor pecaminoso. El objetivo siempre fue el arrepentimiento y la renovación espiritual. De igual manera, cuando excluimos a alguien de la iglesia, no estamos anunciando su destino final, sino advirtiéndole de lo que podría ser. Excluir a alguien de la comunión con los santos, no es anunciar su condenación final, sino buscar evitarla. 
+
+#### Cuando excluimos a alguien, debemos seguir trabajando, orando y esperando su arrepentimiento, renovación y restauración.[^5]
+
+### En segundo lugar, incluso al disciplinar a su pueblo, Dios distingue entre ellos y el mundo. En Jeremías, Dios promete a las naciones un fin definitivo; le promete a su pueblo un nuevo comienzo. 
+
+#### Este es un pronóstico temporal de destinos eternos. Todos los que se oponen a Dios sufrirán el "fin definitivo" del castigo eterno; todos los que confían en Cristo experimentarán el nuevo comienzo eterno de la nueva creación.[^5]
+
+### En tercer lugar, Dios “nos disciplina para nuestro bien, para que participemos de su santidad” (Hebreos 12:10). La disciplina de Dios nos beneficia; busca un bien mucho mayor que el que solemos aceptar. 
+
+#### Necesitamos recordar constantemente que las providencias severas no significan que Dios tenga un corazón duro. Si Dios usa medidas duras, debemos considerar nuestros corazones duros como el blanco, no acusar a Dios. [^5]
+
+##### Solo un martillo neumático puede partir el concreto.[^5]
+
+### El amor no siempre es agradable, la bondad no siempre es indulgente y la tolerancia no siempre es una virtud. Un "no" suele ser la respuesta más amorosa que un padre, un líder o una iglesia puede dar. [^5]
+
+#### Y si ese "no" no se escucha, entonces no es cruel, sino amoroso, seguir el ejemplo de Dios y obedecer sus instrucciones al disciplinar a alguien ahora, con la esperanza de que sea salvo en el día final.[^5]
 
 # VI. 1 Timoteo 2:1-15 -- Instrucción Sobre la Adoración
 
@@ -1189,3 +1297,4 @@ Cualquier enseñanza extraña a las Escrituras apartará para prestar atención 
 [^3]: Biblia de Estudio ESV, Introducción al libro de 1 Timoteo
 
 [^4]:Compelling Truth, https://www.compellingtruth.org/Espanol/definicion-ekklesia.html
+[^5]: 9 Marks, Bobby Jamieson, A Biblical Theology of Church Discipline, https://www.9marks.org/article/a-biblical-theology-of-church-discipline/
