@@ -22,27 +22,57 @@ Title: 1 Timoteo
 # I. Introducción 
 ## A. A primera vista
 
-### La maravilla de la iglesia esta en el hecho que Cristo la concibió, la compró, la estableció y la promete preservar eternamente. 
+### La maravilla de la iglesia esta en el hecho que Cristo la concibió antes de la fundación del mundo (Efesios 1:4), la compró con Su sangre (Hechos 20:28), la estableció (Mateo 16:18) y la promete preservar eternamente (Mateo 16:18). 
 
-### La Iglesia no pertenece a una institución humana como decir el vaticano, las denominaciones, las naciones unidas, algún país, algún hombre en particular. 
+### La Iglesia no pertenece a ninguna institución humana como decir el vaticano, las denominaciones, las naciones unidas, algún país, algún hombre en particular. 
 
-### Tradicionalmente, el libro de 1 Timoteo ha sido descrito como una de las cartas pastorales. La tendencia entonces ha sido que líderes cristianos son enseñados 1 Timoteo para capacitarlos pero la congregación ha quedado con el concepto que no es para ella sino para líderes. 
+### La iglesia no pertenece a personas como misioneros, primeros fundadores, ancestros, maestros, ancianos,  diáconos. La iglesia no pertenece a personas que ofrendaron por comprar el lote y un edificio. 
 
-### 1 Timoteo es tan provechoso para la congregación como para personas que están siendo equipados para servir. 
+### Tradicionalmente, el libro de 1 Timoteo ha sido descrito como una de las cartas pastorales. La tendencia de la Iglesia entonces, ha sido que líderes cristianos son enseñados 1 Timoteo para capacitarlos pero la congregación se ha quedado sin comprender las verdades que contiene. 
+
+### 1 Timoteo es escrito para todo creyente. Es tan provechoso para la persona mayor como para el jóven. También para personas que están siendo equipados para servir. 
 
 ### Este precioso libro contiene instrucción importante para hermanos mayores, hermanas mayores, hermanas jóvenes y hermanos jóvenes. 
 
-### El contenido de este libro nos regresa a la esencia de que es la Iglesia de Jesucristo y como debe andar ordenadamente. Asi que, creyente, ¡pon atención a este hermoso y valioso libro!
+### El contenido de este libro nos regresa a la esencia de que es la Iglesia de Jesucristo y como debe andar ordenadamente. Asi que creyente, ¡pon atención a este hermoso y valioso libro!
 
 ## B. Información General
+
+### El género del libro es Epístola, una carta escrita a alguien. Timoteo es el único individuo que recibió dos cartas inspiradas. 
+
+### El libro de 1 Timoteo contiene tres poemas. 1 Timoteo 1:17, 3:16, 6:15-16
+
+### Eventos importantes en referencia a 1 Timoteo
+
+</hr>
+
+###### ![1-Timothy-Timeline-1024x569 (1)](/Users/johnwry/Nextcloud/Documents/GitHub/curriculo/12. 1Timoteo/1-Timothy-Timeline-1024x569 (1).png)*(Imagen de la Biblia ESV de estudio)*
+
+</hr>
+
+### Tres veces Pablo dice que una declaración que hace es  palabra “fiel”.  1 Timoteo 1:15, 3:1, 4:9[^3]
 
 ## C. Autor y receptor del libro 
 
 ### Pablo escribe su primera carta a Timoteo. 1 Timoteo 1:1
 
+### Timoteo era de Listra, en la actual Turquía, hijo de padre griego y madre judía. Su madre, Eunice, y su abuela, Loida, también eran creyentes (2 Timoteo 1:5).[^2] 
+
+### Ellas lo habían criado en el conocimiento del Antiguo Testamento (2 Timoteo 3:15).[^2] 
+
+### Pablo lo convirtió al cristianismo (1 Timoteo 1:2). En Hechos 16:1-5, aprendemos que los creyentes de Listra e Iconio hablaban bien de Timoteo.[^2] 
+
+### Pablo quería llevarlo en su viaje misionero, pero Timoteo no estaba circuncidado. Pablo lo circuncidó y viajaron juntos en su segundo viaje misionero.[^2]
+
+### Timoteo estaría con Pablo durante su primer encarcelamiento en Roma. Sin embargo, cuando se escribió 1 Timoteo, Timoteo se encontraba en Éfeso, sirviendo como líder entre las diversas iglesias domésticas que existían entonces.[^2] 
+
+### Su labor incluía la evangelización, la enseñanza, la lectura de las Escrituras, el nombramiento de ancianos y diáconos, y la oposición a las falsas enseñanzas. Pablo le escribió, probablemente desde Macedonia, para animarlo en su fiel servicio a Cristo.[^2] 
+
+### Timoteo cumplió algún tiempo en la cárcel por su fe, y luego fue liberado (Hebreos 13:23).[^2]
+
 ## D. Trasfondo Histórico
 
-### La fecha de escritura es probablemente 65 d.C. desde Macedonia.[^1]
+### La fecha de escritura es probablemente de 62 a 65 d.C. desde Macedonia.
 
 ### Pablo había estado en Éfeso (1 Timoteo 1:3) después de su llegada de Roma, lo cual fue ciertamente antes del incendio de Roma en el 64 d.C. [^1]
 
@@ -54,27 +84,79 @@ Title: 1 Timoteo
 
 ## E. Tema Principal del libro
 
+### Como establecer y conducir una iglesia como columna y sostén de la verdad apta para resistir la falsa enseñanza.
+
 ### 1 Timoteo 3:14-15 "*Te escribo estas cosas, esperando ir a verte pronto, pero en caso que me tarde, **te escribo para que sepas cómo debe conducirse uno en la casa de Dios**, que es la iglesia del Dios vivo, columna y sostén de la verdad.*"
 
-# II. Características Distintivas de la Iglesia del Nuevo Testamento
+### En 1 Timoteo, se encuentran instrucciones para establecer iglesias, corregir abusos, falsas doctrinas, prácticas de adoración, hábitos de discipulado, vida familiar, responder a la persecución y más. 
+
+### En resumen, podemos decir que Pablo le escribió a Timoteo por su inmenso amor y aprecio por la obra que Timoteo había sido llamado a realizar al servicio del Señor Jesús.
+
+# II. La Iglesia del Nuevo Testamento.
 
 ## La Palabra Iglesia y su orígen
 
+### Mateo 16:18 "*Yo también te digo que tú eres Pedro, y sobre esta roca edificaré Mi iglesia; y las puertas del Hades no prevalecerán contra ella.*"
+
+### *Ekklesia* (o eclesia) es la palabra griega traducida en el Nuevo Testamento como "iglesia". Proviene de *ek*, que significa "salir de hacia a" y *kaleo*, que significa "llamar", y tiene que ver con un grupo de personas llamadas de un lugar a otro. [^4]
+
+### Romanos 1:6 "*entre los cuales están también ustedes, llamados de Jesucristo.*"
+
 ## ¿Llamada afuera de que?
+
+### Es una asamblea o una congregación. La *ekklesia* en el Nuevo Testamento es un grupo de personas que han sido llamadas fuera del mundo hacia Dios. Esa es la iglesia.[^4]
+
+### 1 Tesalonicenses 4:7 "*Porque Dios no nos ha llamado a impureza, sino a santificación.*"
+
+### 2 Timoteo 1:9 "*Él nos ha salvado y nos ha llamado con un llamamiento santo, no según nuestras obras, sino según Su propósito y según la gracia que nos fue dada en Cristo Jesús desde la eternidad*"
 
 ## ¿A donde es llamada?
 
-# III.1 Timoteo 1:1-2 - Saludos e Información Biográfica
+### 1 Corintios 1:9 "*Fiel es Dios, por medio de quien fueron llamados a la comunión con Su Hijo Jesucristo, nuestro Señor.*"
 
-## A. Autor:  Un Apostol de Jesucristo
+### Aunque vivimos en el mundo y somos parte de él, la iglesia debe ser distinta. Debemos estar separados de los caminos del mundo y señalar la verdad de Dios. 
 
-### 1 Timoteo 1:1a "*Pablo, apóstol de Jesucristo por mandato de Dios nuestro Salvador, y del Señor Jesucristo*" Pablo es el apóstol que firma la carta. 1 Timoteo 1:1, 13, 15, 2:7
+### Debemos amar a las personas como Dios lo hace, compartir Su invitación a la salvación con ellos y orar para que ellos también escuchen Su llamado y se unan a Su iglesia. 1 Pedro 3:9
+
+### Hebreos 10:23–25 es un estímulo para cada uno de nosotros que pertenecemos a la *ekklesia* de Dios: "*Mantengamos firme la esperanza que profesamos, porque fiel es el que hizo la promesa. Preocupémonos los unos por los otros, a fin de estimularnos al amor y a las buenas obras. No dejemos de congregarnos, como acostumbran hacerlo algunos, sino animémonos unos a otros, y con mayor razón ahora que vemos que aquel día se acerca.*"[^4]
+
+### Gálatas 5:13 "*Porque ustedes, hermanos, **a libertad fueron llamados**; solo que no usen la libertad como pretexto para la carne, sino sírvanse por amor los unos a los otros.*"
+
+## ¿Como es llamada, por quién?
+
+### Gálatas 1:6 "*Me maravillo de que tan pronto ustedes hayan abandonado **a Aquel que los llamó por la gracia de Cristo**, para seguir un evangelio diferente*"
+
+## Ekklesia local vs Ekklesia Universal
+
+### La Iglesia universal se refiere al cuerpo espiritual de Cristo que está representado por muchas iglesias locales. Si bien hay una sola Iglesia de Jesucristo, tiene muchas diferentes representaciones en diferentes lugares. 
+
+### Representaciónes locales:
+
+#### 1 Corintios 1:2 "*a la iglesia de Dios que está **en Corinto**, a los que han sido santificados en Cristo Jesús, llamados a ser santos...*" 
+
+#### Romanos 1:7 "*A todos los amados de Dios que están en Roma, llamados a ser santos...*"
+
+### Representación universal:
+
+#### Efesios 4:4 "*Hay un solo cuerpo y un solo Espíritu, así como también ustedes fueron llamados en una misma esperanza de su vocación;*"
+
+#### Colosenses 3:15 "*Que la paz de Cristo reine en sus corazones, a la cual en verdad fueron llamados en un solo cuerpo; y sean agradecidos.*"
+
+#### Judas 1:1 "*Judas , siervo de Jesucristo y hermano de Jacobo, a los llamados, amados en Dios Padre y guardados para Jesucristo:*"
+
+# III.1 Timoteo 1:1-2 - Saludos 
+
+## A. Autor de la carta:  Un Apostol de Jesucristo
+
+### 1 Timoteo 1:1a "*Pablo, apóstol de Cristo Jesús por mandato de Dios nuestro Salvador, y de Cristo Jesús*" Pablo es el apóstol que firma la carta. 1 Timoteo 1:1, 13, 15, 2:7
 
 ### 1 Timoteo 1:1b "*nuestra esperanza,*"
 
-## B. Receptor: El bien amado de Pablo (1:1-2): 
+## B. Receptor de la carta: El bien amado de Pablo (1:1-2): 
 
 ### 1 Timoteo 1:2a "*a Timoteo, verdadero hijo en la fe:*" ...Timoteo es el hijo espiritual amado de Pablo en la fe.
+
+### De las numerosas instrucciones y mandatos que Pablo dio a Timoteo en 1 Timoteo, es evidente que Pablo lo tenía en alta estima y le confió una inmensa carga de trabajo. 
 
 ### 1 Timoteo 1:2b "*Gracia,*"
 
@@ -82,47 +164,49 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 1:2d "*y paz,*"
 
-### 1 Timoteo 1:2e "*de Dios nuestro Padre*"
+### 1 Timoteo 1:2e "*de parte de Dios Padre*"
 
 ### 1 Timoteo 1:2f "*y de Cristo Jesús nuestro Señor.*"
 
 # IV.1 Timoteo 1:3-20 -- Batallando por la Gracia
 
-## A.  La perversión de la Ley de Moisés (3:1-7)
+## La perversión de la Ley de Moisés (3:1-4)
 
-### 3. 1 Timoteo 1:3a "*Como te rogué que te quedases en Éfeso, cuando fui a Macedonia,*"
+### 3. 1 Timoteo 1:3a "*Tal como te rogué al salir para Macedonia*"
 
-### 4. 1 Timoteo 1:3b "*para que mandases a algunos que no enseñen diferente doctrina,*"
+### 4. 1 Timoteo 1:3b "*que te quedaras en Éfeso para que instruyeras a algunos que no enseñaran doctrinas extrañas*"
 
-### 5. 1 Timoteo 1:4a "*ni presten atención*"
+### 5. 1 Timoteo 1:4a "*ni prestaran atención*"
 
-### 6. 1 Timoteo 1:4b "*a fábulas*"
+### 6. 1 Timoteo 1:4b "*a mitos*"
 
-### 7. 1 Timoteo 1:4c "*y genealogías interminables,*"
+### 7. 1 Timoteo 1:4c "*y genealogías interminables*"
 
-### 8. 1 Timoteo 1:4d "*que acarrean disputas más bien*"
+### 8. 1 Timoteo 1:4d "*lo que da lugar a discusiones inútiles*"
 
-### 9. 1 Timoteo 1:4e "*que edificación de Dios que es por fe,*"
+### 9. 1 Timoteo 1:4e "*en vez de hacer avanzar el plan de Dios que es por fe*"
 
 ### 10. 1 Timoteo 1:4f "*así te encargo ahora.*"
 
-### 1 Timoteo 1:5a "*Pues el propósito de este mandamiento*"
+## 1 Timoteo 1:5-7 El propósito de la instrucción de Pablo
 
-### 1 Timoteo 1:5b "*es el amor*"
+### 1 Timoteo 1:5a "*Pero el propósito de nuestra instrucción*"
 
-### 1 Timoteo 1:5c "*es el amor...nacido de corazón limpio,*"
+### 1 Timoteo 1:5b "*es el amor*". Sin la instrucción en verdad, no puede haber amor. Sin amor, no se recibe la verdad. 
 
-### 1 Timoteo 1:5d "*es el amor...y de buena conciencia,*"
+### 1 Timoteo 1:5c "*es el amor...nacido de corazón puro,*"
 
-### 1 Timoteo 1:5e "*es el amor...y de fe no fingida,*"
+### 1 Timoteo 1:5d "*es el amor...de una buena conciencia,*"
 
-### 1 Timoteo 1:6f "*de las cuales cosas desviándose algunos,*"
+### 1 Timoteo 1:5e "*es el amor...y de una fe sincera,*"
 
-### 1 Timoteo 1:6f "*se apartaron a vana palabrería,*"
+### 1 Timoteo 1:6a "*Pues algunos, desviándose de estas cosas*"
 
-### 1 Timoteo 1:7a "*queriendo ser doctores de la ley,*"
+### 1 Timoteo 1:6b "*se han apartado hacia una vana palabrería*"
 
-### 1 Timoteo 1:7a "*sin entender ni lo que hablan ni lo que afirman.*"
+### 1 Timoteo 1:7a "*Quieren ser maestros de la ley*"
+
+### 1 Timoteo 1:7b "*aunque no saben lo que dicen ni entienden las cosas acerca de las cuales hacen declaraciones categóricas.*"
 
 ## En Síntesis
 
@@ -132,75 +216,75 @@ Title: 1 Timoteo
 
 ## El propósito de la Ley de Moisés (3:8-11)
 
-### 1 Timoteo 1:8 "*Pero sabemos que la ley es buena, si uno la usa legítimamente;*"
+### 1 Timoteo 1:8 "*Pero nosotros sabemos que la ley es buena, si uno la usa legítimamente.*"
 
-### 1 Timoteo 1:9a "*conociendo esto, que la ley no fue dada para el justo,*"
+### 1 Timoteo 1:9a "*Reconozcamos esto: que la ley no ha sido instituida para el justo*"
 
 ### 1 Timoteo 1:9b "*sino para los transgresores*"
 
-### 1 Timoteo 1:9c "*y desobedientes,*"
+### 1 Timoteo 1:9c "*y rebeldes*"
 
 ### 1 Timoteo 1:9d "*para los impíos y pecadores,*"
 
 ### 1 Timoteo 1:9e "*para los irreverentes y profanos,*"
 
-### 1 Timoteo 1:9f "*para los parricidas y matricidas,*"
+### 1 Timoteo 1:9f "*para los que matan a sus padres o a sus madres*"
 
-### 1 Timoteo 1:9g "*para los homicidas,*"
+### 1 Timoteo 1:9g "*para los asesinos*"
 
-### 1 Timoteo 1:10a "*para los fornicarios,*"
+### 1 Timoteo 1:10a "*para los inmorales*"
 
-### 1 Timoteo 1:10a "*para los sodomitas,*"
+### 1 Timoteo 1:10a "*para los...homosexuales*"
 
-### 1 Timoteo 1:10a "*para los secuestradores,*"
+### 1 Timoteo 1:10a "*para los...secuestradores,*"
 
-### 1 Timoteo 1:10a "*para los mentirosos y perjuros,*"
+### 1 Timoteo 1:10a "*para los...mentirosos y los que juran en falso*"
 
-### 1 Timoteo 1:10a "*y para cuanto se oponga a la sana doctrina,*"
+### 1 Timoteo 1:10a "*y para cualquier otra cosa que es contraria a la sana doctrina*"
 
 ### 1 Timoteo 1:11a "*según el glorioso evangelio del Dios bendito,*"
 
-### 1 Timoteo 1:11b "*que a mí me ha sido encomendado.*"
+### 1 Timoteo 1:11b "*que me ha sido encomendado*"
 
-## En Síntesis
+## En Síntesis (1 Timoteo 1:8-11)
 
-### No fue hecho para controlar a las personas salvas (1:8a).
+### La Ley no fue hecho para controlar a las personas salvas. 1 Timoteo 1:8a
 
-### Fue hecho para controlar a las personas que no son salvas (1:8b-11).
+### La Ley fue hecho para controlar a las personas que no son salvas. 1 Timoteo 1:8b-11
 
 ## EL TESTIMONIO DE PABLO (1,12-17): Aquí el apóstol expresa su profunda acción de gracias por la fidelidad de Dios.
 
-### 1 Timoteo 1:12 "*Doy gracias al que me fortaleció, a Cristo Jesús nuestro Señor, porque me tuvo por fiel, poniéndome en el ministerio,*"
+### 1 Timoteo 1:12 "*Doy gracias a Cristo Jesús nuestro Señor, que me ha fortalecido, porque me tuvo por fiel, poniéndome en el ministerio*"
 
-### 1 Timoteo 1:13 "*habiendo yo sido antes blasfemo, perseguidor e injuriador; mas fui recibido a misericordia porque lo hice por ignorancia, en incredulidad.*"
+### 1 Timoteo 1:13 "*aun habiendo sido yo antes blasfemo, perseguidor y agresor. Sin embargo, se me mostró misericordia porque lo hice por ignorancia en mi incredulidad*"
 
-### 1 Timoteo 1:14 "*Pero la gracia de nuestro Señor fue más abundante con la fe y el amor que es en Cristo Jesús.*"
+### 1 Timoteo 1:14 "*Pero la gracia de nuestro Señor fue más que abundante, con la fe y el amor que se hallan en Cristo Jesús.*"
 
-### 1 Timoteo 1:15a "*Palabra fiel y digna de ser recibida por todos:*"
+### 1 Timoteo 1:15a "*Palabra fiel y digna de ser aceptada por todos:*"
 
-### 1 Timoteo 1:15b *que Cristo Jesús vino al mundo para salvar a los pecadores,*"
+### 1 Timoteo 1:15b *Cristo Jesús vino al mundo para salvar a los pecadores*"
 
-### 1 Timoteo 1:15c *de los cuales yo soy el primero.*"
+### 1 Timoteo 1:15c *entre los cuales yo soy el primero*"
 
-### 1 Timoteo 1:16a "*Pero por esto fui recibido a misericordia,*"
+### 1 Timoteo 1:16a "*Sin embargo, por esto hallé misericordia*"
 
-### 1 Timoteo 1:16b *para que Jesucristo mostrase en mí el primero toda su clemencia,*"
+### 1 Timoteo 1:16b *para que en mí, como el primero, Jesucristo demostrara toda Su paciencia*"
 
-### 1 Timoteo 1:16c *para ejemplo de los que habrían de creer en él para vida eterna.*"
+### 1 Timoteo 1:16c *como un ejemplo para los que habrían de creer en Él para vida eterna*"
 
 ### 1 Timoteo 1:17a "*Por tanto, al Rey*"
 
-### 1 Timoteo 1:17b *de los siglos,*"
+### 1 Timoteo 1:17b *eterno,*"
 
 ### 1 Timoteo 1:17c *inmortal,*"
 
 ### 1 Timoteo 1:17d *invisible,*"
 
-### 1 Timoteo 1:17e *al único y sabio Dios,*"
+### 1 Timoteo 1:17e *único Dios*"
 
-### 1 Timoteo 1:17f *sea honor y gloria por los siglos de los siglos. Amén.*"
+### 1 Timoteo 1:17f *a Él sea honor y gloria por los siglos de los siglos. Amén*"
 
-## En Síntesis
+## En Síntesis (1 Timoteo 1:12-17)
 
 ### Lo que Dios hizo (1:12, 14-15)
 
@@ -214,25 +298,25 @@ Title: 1 Timoteo
 
 ## LA SABIDURÍA DE PABLO (1:18-20) 
 
-## A. Lo que Timoteo debe hacer (1:18-19b)
+## Lo que Timoteo debe hacer (1:18-19b)
 
-### 1 Timoteo 1:18a "*Este mandamiento, hijo Timoteo, te encargo,*"
+### 1 Timoteo 1:18a "*Esta comisión te confío, hijo Timoteo*"
 
-### 1 Timoteo 1:18b "*para que conforme a las profecías que se hicieron antes en cuanto a ti,*"
+### 1 Timoteo 1:18b "*conforme a las profecías que antes se hicieron en cuanto a ti*"
 
-### 1 Timoteo 1:18c "*milites por ellas la buena milicia,*"
+### 1 Timoteo 1:18c "*a fin de que por ellas pelees la buena batalla*"
 
-### 1 Timoteo 1:19a "*manteniendo la fe y buena conciencia,*"
+### 1 Timoteo 1:19a "*guardando la fe y una buena conciencia*"
 
-### 1 Timoteo 1:19b "*desechando la cual naufragaron en cuanto a la fe algunos,*"
+### 1 Timoteo 1:19b "*que algunos han rechazado y naufragaron en lo que toca a la fe*"
 
-### 1 Timoteo 1:20a "*de los cuales son Himeneo y Alejandro,*"
+### 1 Timoteo 1:20a "*Entre ellos están Himeneo y Alejandro*"
 
-### 1 Timoteo 1:20b "*a quienes entregué a Satanás*"
+### 1 Timoteo 1:20b "*a quienes he entregado a Satanás*"
 
 ### 1 Timoteo 1:20c "*para que aprendan a no blasfemar.*"
 
-## En Síntesis
+## En Síntesis (1 Timoteo 18-20)
 
 ### Pelea la buena batalla (1:18).
 
@@ -245,8 +329,6 @@ Title: 1 Timoteo
 ### Su perversión (1:19c): Han hecho naufragar su fe, avergonzando el nombre de Cristo.
 
 ### Su castigo (1:20): Pablo los ha entregado a Satanás.
-
-### Pablo escribe sobre la adoración apropiada de Dios.
 
 # V. Breve Doctrina sobre la Disciplina en la Iglesia
 
@@ -338,7 +420,9 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 2:15e "*si permanece*...*y santidad, con modestia.*"
 
-## En Síntesis
+## En Síntesis (1 Timoteo 2:1-15)
+
+### Pablo escribe sobre la adoración apropiada de Dios.
 
 ### Por quién debemos orar (2:1-2a)
 
@@ -436,7 +520,7 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 3:8e "*ni amantes de ganancias deshonestas,*"
 
-## En Síntesis
+## En Síntesis (1 Timoteo 3:1-8)
 
 ### Requisitos para un pastor (3:1-7)
 
@@ -516,7 +600,7 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 3:13c "*y gran confianza en la fe que es en Cristo Jesús.*"
 
-## En Síntesis
+## En Síntesis (1 Timoteo 3:9-13)
 
 ### LAS OVEJAS EN LA IGLESIA (3:14-15): Pablo le dice a Timoteo que instruya a la congregación sobre cómo deben comportarse en la casa de Dios.
 
@@ -562,7 +646,7 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 3:16f "*Recibido arriba en gloria*".
 
-## En Síntesis
+## En Síntesis (1 Timoteo 3:14-16)
 
 # VIII. 1 Timoteo 4:1-16 -- Protección Contra la Apostasía
 
@@ -586,7 +670,7 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 4:5 "*porque es santificado mediante la palabra de Dios y la oración*".
 
-## En Síntesis
+## En Síntesis (1 Timoteo 4:1-5)
 
 ### Quiénes son (4:2): Líderes religiosos hipócritas y mentirosos.
 
@@ -680,7 +764,7 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 4:16e "*como para los que te escuchan*".
 
-## En Síntesis
+## En Síntesis (1 Timoteo 4:6-16)
 
 ### Lo que no se debe hacer (4:7a, 12a, 14)
 
@@ -780,7 +864,7 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 5:16b "*y que la iglesia no lleve la carga para que pueda ayudar a las que en verdad son viudas.*"
 
-## En Síntesis
+## En Síntesis (1 Timoteo 5:1-16)
 
 ### Con respecto a los hombres mayores (5:1a): Trátalos como padres respetados.
 
@@ -854,7 +938,7 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 5:25a "*y las que no lo son no se pueden ocultar.*"
 
-## En Síntesis
+## En Síntesis (1 Timoteo 5:17-25)
 
 ### Ancianos en general (5:17-22, 24-25)
 
@@ -938,7 +1022,7 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 6:10d "*y se torturaron con muchos dolores.*"
 
-## En Síntesis
+## En Síntesis (1 Timoteo 6:1-10)
 
 ### Los obreros (6:1-2): Pablo insta a los siervos cristianos a rendir servicio fiel a sus amos, para que el nombre de Dios no sea calumniado.
 
@@ -1054,7 +1138,7 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 6:21c "*La gracia sea con ustedes.*"
 
-## En Síntesis
+## En Síntesis (1 Timoteo 6:11-21)
 
 ### Lo que Timoteo debe hacer (6:11-14, 17-21)
 
@@ -1089,3 +1173,7 @@ Title: 1 Timoteo
 ### Rechaza las filosofías ateas (6:20b-21).
 
 [^1]: Robertson Word Pictures
+[^2]: BibleRef, 1 Timothy, https://www.bibleref.com/1-Timothy/index.html
+[^3]: Biblia de Estudio ESV, Introducción al libro de 1 Timoteo
+
+[^4]:Compelling Truth, https://www.compellingtruth.org/Espanol/definicion-ekklesia.html
