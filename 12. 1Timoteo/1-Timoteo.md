@@ -454,81 +454,81 @@ Sin embargo, se estaba usando el púlpito para enseñar a la iglesia genealogía
 
 # VI. 1 Timoteo 2:1-15 -- Instrucción Sobre la Adoración
 
-### 1 Timoteo 2:1a "*Exhorto, pues, ante todo que se hagan plegarias, oraciones, peticiones y acciones de gracias*"
+### 1 Timoteo 2:1a "*Exhorto, pues, ante todo que se hagan plegarias, oraciones, peticiones y acciones de gracias*..."
 
-### 1 Timoteo 2:1a "*por todos los hombres,*"
+### 1 Timoteo 2:1a "*por todos los hombres*...*"
 
-### 1 Timoteo 2:2a "*por los reyes*"
+### 1 Timoteo 2:2a "*por los reyes*...*"
 
-### 1 Timoteo 2:2b "*y por todos los que están en autoridad,*"
+### 1 Timoteo 2:2b "*y por todos los que están en autoridad*...*"
 
-### 1 Timoteo 2:2c "*para que podamos vivir una vida tranquila y sosegada*"
+### 1 Timoteo 2:2c "*para que podamos vivir una vida tranquila y sosegada*...*"
 
-### 1 Timoteo 2:2d "*con toda piedad y dignidad.*"
+### 1 Timoteo 2:2d "*con toda piedad y dignidad*...*"
 
-### 1 Timoteo 2:3 "*Porque esto es bueno y agradable delante de Dios nuestro Salvador,*"
+### 1 Timoteo 2:3 "*Porque esto es bueno y agradable delante de Dios nuestro Salvador*...*"
 
-### 1 Timoteo 2:4a "*el cual quiere*"
+### 1 Timoteo 2:4a "*el cual quiere*..."
 
-### 1 Timoteo 2:4b "*que todos los hombres sean salvos*"
+### 1 Timoteo 2:4b "*que todos los hombres sean salvos*..."
 
-### 1 Timoteo 2:4c "*y vengan al pleno conocimiento de la verdad*".
+### 1 Timoteo 2:4c "*y vengan al pleno conocimiento de la verdad*...".
 
-### 1 Timoteo 2:5a "*Porque hay un solo Dios,*"
+### 1 Timoteo 2:5a "*Porque hay un solo Dios*..."
 
-### 1 Timoteo 2:5b "*y también un solo Mediador entre Dios y los hombres,*"
+### 1 Timoteo 2:5b "*y también un solo Mediador entre Dios y los hombres...*"
 
-### 1 Timoteo 2:5c "*Cristo Jesús hombre,*"
+### 1 Timoteo 2:5c "*Cristo Jesús hombre...*"
 
-### 1 Timoteo 2:6a "*quien se dio a sí mismo*"
+### 1 Timoteo 2:6a "*quien se dio a sí mismo...*"
 
-### 1 Timoteo 2:6b "*en rescate por todos,*"
+### 1 Timoteo 2:6b "*en rescate por todos...*"
 
-### 1 Timoteo 2:6c "*testimonio dado a su debido tiempo*".
+### 1 Timoteo 2:6c "*testimonio dado a su debido tiempo...*".
 
-### 1 Timoteo 2:7a "*Y para esto yo fui constituido predicador y apóstol, (digo la verdad en Cristo, no miento),*"
+### 1 Timoteo 2:7a "*Y para esto yo fui constituido predicador y apóstol, (digo la verdad en Cristo, no miento)...*"
 
-### 1 Timoteo 2:7b "*como maestro de los gentiles en fe y verdad.*"
+### 1 Timoteo 2:7b "*como maestro de los gentiles en fe y verdad...*"
 
-### 1 Timoteo 2:8a "*Por tanto, quiero que en todo lugar*"
+### 1 Timoteo 2:8a "*Por tanto, quiero que en todo lugar...*"
 
-### 1 Timoteo 2:8b "*los hombres oren levantando manos santas,*"
+### 1 Timoteo 2:8b "*los hombres oren levantando manos santas...*"
 
-### 1 Timoteo 2:8c "*sin ira ni discusiones.*"
+### 1 Timoteo 2:8c "*sin ira ni discusiones...*"
 
-### 1 Timoteo 2:9a "*Asimismo, que las mujeres se vistan*"
+### 1 Timoteo 2:9a "*Asimismo, que las mujeres se vistan...*"
 
-### 1 Timoteo 2:9b "*con ropa decorosa,*"
+### 1 Timoteo 2:9b "*con ropa decorosa...*"
 
-### 1 Timoteo 2:9c "*con pudor y modestia,*"
+### 1 Timoteo 2:9c "*con pudor y modestia...*"
 
-### 1 Timoteo 2:9d "*no con peinado ostentoso,*"
+### 1 Timoteo 2:9d "*no con peinado ostentoso...*"
 
-### 1 Timoteo 2:9e "*no con oro, o perlas, o vestidos costosos,*"
+### 1 Timoteo 2:9e "*no con oro, o perlas, o vestidos costosos...*"
 
-### 1 Timoteo 2:10 "*sino con buenas obras, como corresponde a las mujeres que profesan la piedad*".
+### 1 Timoteo 2:10 "*sino con buenas obras, como corresponde a las mujeres que profesan la piedad...*".
 
-### 1 Timoteo 2:11a "*Que la mujer aprenda calladamente,*"
+### 1 Timoteo 2:11a "*Que la mujer aprenda calladamente...*"
 
-### 1 Timoteo 2:11b "*con toda obediencia.*"
+### 1 Timoteo 2:11b "*con toda obediencia...*"
 
-### 1 Timoteo 2:12a "*Yo no permito que la mujer enseñe*"
+### 1 Timoteo 2:12a "*Yo no permito que la mujer enseñe...*"
 
-### 1 Timoteo 2:12b "*ni que ejerza autoridad sobre el hombre,*"
+### 1 Timoteo 2:12b "*ni que ejerza autoridad sobre el hombre...*"
 
-### 1 Timoteo 2:12c "*sino que permanezca callada.*"
+### 1 Timoteo 2:12c "*sino que permanezca callada...*"
 
-### 1 Timoteo 2:13 "*Porque Adán fue creado primero, después Eva.*"
+### 1 Timoteo 2:13 "*Porque Adán fue creado primero, después Eva...*"
 
-### 1 Timoteo 2:14a "*Y Adán no fue el engañado, sino que la mujer,*"
+### 1 Timoteo 2:14a "*Y Adán no fue el engañado, sino que la mujer...*"
 
-### 1 Timoteo 2:14b "*siendo engañada completamente,*"
+### 1 Timoteo 2:14b "*siendo engañada completamente...*"
 
-### 1 Timoteo 2:14c "*cayó en transgresión.*"
+### 1 Timoteo 2:14c "*cayó en transgresión...*"
 
-### 1 Timoteo 2:15a "*Pero se salvará engendrando hijos,*"
+### 1 Timoteo 2:15a "*Pero se salvará engendrando hijos...*"
 
-### 1 Timoteo 2:15b "*si permanece*"
+### 1 Timoteo 2:15b "*si permanece*..."
 
 ### 1 Timoteo 2:15c "*si permanece*...*en fe,*"
 
@@ -558,15 +558,15 @@ Sin embargo, se estaba usando el púlpito para enseñar a la iglesia genealogía
 
 ### El mensajero (1 Timoteo 2:7): Pablo ha sido elegido por Dios para servir como misionero a los gentiles.
 
-### LA MUJER DE DIOS (1 Timoteo 2:9-15)
+### LA MUJER DE DIOS 1 Timoteo 2:9-15
 
-### Sus responsabilidades (1 Timoteo 2:9-11)
+### Sus responsabilidades. 1 Timoteo 2:9-11
 
 ### En materia de vestimenta (1 Timoteo 2:9-10): Debe vestirse modestamente como alguien que profesa adorar a Dios.
 
 ### En cuestiones de actitud (1 Timoteo 2:11): Debe escuchar y aprender en silencio y con humildad.
 
-### Sus restricciones (1 Timoteo 2:12-14)
+### Sus restricciones. 1 Timoteo 2:12-14
 
 ### La regla (1 Timoteo 2:12): A la mujer no se le permite enseñar o tener autoridad sobre un hombre.
 
@@ -582,109 +582,109 @@ Sin embargo, se estaba usando el púlpito para enseñar a la iglesia genealogía
 
 # VII. 1 Timoteo 3:1-16 -- Instrucción en la selección de líderes en la iglesia
 
-### 1 Timoteo 3:1a "*Palabra fiel es esta:*"
+### 1 Timoteo 3:1a "*Palabra fiel es esta:...*"
 
-### 1 Timoteo 3:1b "*si alguien aspira al cargo de obispo,*"
+### 1 Timoteo 3:1b "*si alguien aspira al cargo de obispo...*"
 
-### 1 Timoteo 3:1c "*buena obra desea hacer*".
+### 1 Timoteo 3:1c "*buena obra desea hacer*...".
 
-### 1 Timoteo 3:2a "*Un obispo debe ser, pues,*"
+### 1 Timoteo 3:2a "*Un obispo debe ser, pues...*"
 
-### 1 Timoteo 3:2b "*irreprochable,*"
+### 1 Timoteo 3:2b "*irreprochable...*"
 
-### 1 Timoteo 3:2c "*marido de una sola mujer,*"
+### 1 Timoteo 3:2c "*marido de una sola mujer...*"
 
-### 1 Timoteo 3:2d "*sobrio,*"
+### 1 Timoteo 3:2d "*sobrio*..."
 
-### 1 Timoteo 3:2e "*prudente,*"
+### 1 Timoteo 3:2e "*prudente...*"
 
-### 1 Timoteo 3:2f "*de conducta decorosa,*"
+### 1 Timoteo 3:2f "*de conducta decorosa...*"
 
-### 1 Timoteo 3:2g "*hospitalario,*"
+### 1 Timoteo 3:2g "*hospitalario...*"
 
-### 1 Timoteo 3:2h "*apto para enseñar,*"
+### 1 Timoteo 3:2h "*apto para enseñar...*"
 
-### 1 Timoteo 3:3a "*no dado a la bebida,*"
+### 1 Timoteo 3:3a "*no dado a la bebida...*"
 
-### 1 Timoteo 3:3a "*no pendenciero,*"
+### 1 Timoteo 3:3a "*no pendenciero...*"
 
-### 1 Timoteo 3:3b "*sino amable,*"
+### 1 Timoteo 3:3b "*sino amable...*"
 
-### 1 Timoteo 3:3c "*no contencioso,*"
+### 1 Timoteo 3:3c "*no contencioso...*"
 
-### 1 Timoteo 3:3d "*no avaricioso.*"
+### 1 Timoteo 3:3d "*no avaricioso...*"
 
-### 1 Timoteo 3:4a "*Que gobierne bien su casa,*"
+### 1 Timoteo 3:4a "*Que gobierne bien su casa...*"
 
-### 1 Timoteo 3:4b "*teniendo a sus hijos sujetos con toda dignidad;*"
+### 1 Timoteo 3:4b "*teniendo a sus hijos sujetos con toda dignidad;...*"
 
-### 1 Timoteo 3:5 "*(pues si un hombre no sabe cómo gobernar su propia casa, ¿cómo podrá cuidar de la iglesia de Dios?).*"
+### 1 Timoteo 3:5 "*(pues si un hombre no sabe cómo gobernar su propia casa, ¿cómo podrá cuidar de la iglesia de Dios?)...*"
 
-### 1 Timoteo 3:6a "*No debe ser un recién convertido,*"
+### 1 Timoteo 3:6a "*No debe ser un recién convertido...*"
 
-### 1 Timoteo 3:6b "*no sea que se envanezca*"
+### 1 Timoteo 3:6b "*no sea que se envanezca...*"
 
-### 1 Timoteo 3:6c "*y caiga en la condenación en que cayó el diablo.*"
+### 1 Timoteo 3:6c "*y caiga en la condenación en que cayó el diablo...*"
 
-### 1 Timoteo 3:7a "*Debe gozar también de una buena reputación entre los de afuera de la iglesia,*"
+### 1 Timoteo 3:7a "*Debe gozar también de una buena reputación entre los de afuera de la iglesia...*"
 
-### 1 Timoteo 3:7b "*para que no caiga en descrédito y en el lazo del diablo.*"
+### 1 Timoteo 3:7b "*para que no caiga en descrédito y en el lazo del diablo...*"
 
-### 1 Timoteo 3:8a "*De la misma manera, también los diáconos*"
+### 1 Timoteo 3:8a "*De la misma manera, también los diáconos...*"
 
-### 1 Timoteo 3:8b "*deben serdignos,*"
+### 1 Timoteo 3:8b "*deben serdignos...*"
 
-### 1 Timoteo 3:8c "*de una sola palabra,*"
+### 1 Timoteo 3:8c "*de una sola palabra...*"
 
-### 1 Timoteo 3:8d "*no dados al mucho vino,*"
+### 1 Timoteo 3:8d "*no dados al mucho vino...*"
 
-### 1 Timoteo 3:8e "*ni amantes de ganancias deshonestas,*"
+### 1 Timoteo 3:8e "*ni amantes de ganancias deshonestas...*"
 
 ## En Síntesis (1 Timoteo 3:1-8)
 
-### Requisitos para un pastor (1 Timoteo 3:1-7)
+### Requisitos para un pastor. 1 Timoteo 3:1-7
 
-### Calificaciones positivas (1 Timoteo 3:1-2, 3c-5, 7)
+### Calificaciones positivas. 1 Timoteo 3:1-2, 3c-5, 7
 
-### Debe ser irreprochable (1 Timoteo 3:1-2a).
+### Debe ser irreprochable. 1 Timoteo 3:1-2a
 
-### Debe tener una sola esposa y serle fiel (1 Timoteo 3:2b).
+### Debe tener una sola esposa y serle fiel. 1 Timoteo 3:2b
 
-### Debe ser moderado, autocontrolado, respetable, hospitalario y capaz de enseñar (1 Timoteo 3:2c).
+### Debe ser moderado, autocontrolado, respetable, hospitalario y capaz de enseñar. 1 Timoteo 3:2c
 
-### Debe ser amable y tener una familia que se comporte bien (1 Timoteo 3:3c-5).
+### Debe ser amable y tener una familia que se comporte bien. 1 Timoteo 3:3c-5
 
-### Debe ser respetado por los que están fuera de la iglesia (1 Timoteo 3:7).
+### Debe ser respetado por los que están fuera de la iglesia. 1 Timoteo 3:7
 
-### Calificaciones negativas (1 Timoteo 3:3a-3b, 3d, 6)
+### Calificaciones negativas. 1 Timoteo 3:3a-3b, 3d, 6
 
-### No debe ser un bebedor empedernido (1 Timoteo 3:3a).
+### No debe ser un bebedor empedernido. 1 Timoteo 3:3a
 
-### No debe ser violento (1 Timoteo 3:3b).
+### No debe ser violento. 1 Timoteo 3:3b
 
-### No debe ser orgulloso (1 Timoteo 3:6b).
+### No debe ser orgulloso. 1 Timoteo 3:6b
 
-### No debe ser codicioso (1 Timoteo 3:3d).
+### No debe ser codicioso. 1 Timoteo 3:3d
 
-### No debe ser un nuevo cristiano (1 Timoteo 3:6a).
+### No debe ser un nuevo cristiano. 1 Timoteo 3:6a
 
-### Requisitos para un diácono (1 Timoteo 3:8-13)
+### Requisitos para un diácono. 1 Timoteo 3:8-13
 
-### Calificaciones positivas (1 Timoteo 3:8a, 9-13)
+### Calificaciones positivas. 1 Timoteo 3:8a, 9-13
 
-### Debe ser sincero y digno de respeto (1 Timoteo 3:8a).
+### Debe ser sincero y digno de respeto. 1 Timoteo 3:8a
 
-### Debe ser un hombre de profundidad espiritual (1 Timoteo 3:9).
+### Debe ser un hombre de profundidad espiritual. 1 Timoteo 3:9
 
-### Debe ser un hombre de carácter y habilidad probados (1 Timoteo 3:10).
+### Debe ser un hombre de carácter y habilidad probados. 1 Timoteo 3:10
 
-### Debe ser fiel a su esposa, y su esposa debe ser una mujer de buen carácter (1 Timoteo 3:11-13).
+### Debe ser fiel a su esposa, y su esposa debe ser una mujer de buen carácter. 1 Timoteo 3:11-13
 
-### Calificaciones negativas (1 Timoteo 3:8b-8c)
+### Calificaciones negativas. 1 Timoteo 3:8b-8c
 
-### No debe ser un bebedor empedernido (1 Timoteo 3:8b).
+### No debe ser un bebedor empedernido. 1 Timoteo 3:8b
 
-### No debe ser codicioso (1 Timoteo 3:8c).
+### No debe ser codicioso. 1 Timoteo 3:8c
 
 ## Titulo de Sección
 
@@ -724,17 +724,17 @@ Sin embargo, se estaba usando el púlpito para enseñar a la iglesia genealogía
 
 ### LAS OVEJAS EN LA IGLESIA (1 Timoteo 3:14-15): Pablo le dice a Timoteo que instruya a la congregación sobre cómo deben comportarse en la casa de Dios.
 
-### EL SALVADOR DE LA IGLESIA (1 Timoteo 3:16): En este versículo único y supremo, Pablo da un resumen séxtuple del ministerio terrenal de Jesús. Un. Apareció en un cuerpo (1 Timoteo 3:16a).
+### EL SALVADOR DE LA IGLESIA (1 Timoteo 3:16): En este versículo único y supremo, Pablo da un resumen séxtuple del ministerio terrenal de Jesús. Un. Apareció en un cuerpo. 1 Timoteo 3:16a
 
-### Fue vindicado por el Espíritu (1 Timoteo 3:16b).
+### Fue vindicado por el Espíritu. 1 Timoteo 3:16b
 
-### Fue visto por ángeles (1 Timoteo 3:16c).
+### Fue visto por ángeles. 1 Timoteo 3:16c
 
-### Fue anunciado a las naciones (1 Timoteo 3:16d).
+### Fue anunciado a las naciones. 1 Timoteo 3:16d
 
-### Se creía en él en el mundo (1 Timoteo 3:16e).
+### Se creía en él en el mundo. 1 Timoteo 3:16e
 
-### Fue llevado al cielo (1 Timoteo 3:16s).
+### Fue llevado al cielo. 1 Timoteo 3:16s
 
 ### Pablo contrasta dos tipos de pastores.
 
@@ -794,23 +794,23 @@ Sin embargo, se estaba usando el púlpito para enseñar a la iglesia genealogía
 
 ### Quiénes son (1 Timoteo 4:2): Líderes religiosos hipócritas y mentirosos.
 
-### Lo que harán (1 Timoteo 4:1b-1c, 3)
+### Lo que harán. 1 Timoteo 4:1b-1c, 3
 
-### Abandonar la fe (1 Timoteo 4:1b)
+### Abandonar la fe. 1 Timoteo 4:1b
 
-### Seguir las enseñanzas que provienen de espíritus mentirosos y demonios (1 Timoteo 4:1c)
+### Seguir las enseñanzas que provienen de espíritus mentirosos y demonios. 1 Timoteo 4:1c
 
-### Prohibir el matrimonio y el consumo de ciertos alimentos (1 Timoteo 4:3)
+### Prohibir el matrimonio y el consumo de ciertos alimentos. 1 Timoteo 4:3
 
 ### Cuándo lo harán (1 Timoteo 4:1a): En los "últimos tiempos" antes de la venida de Jesús.
 
-### Por qué están equivocados (1 Timoteo 4:4-5)
+### Por qué están equivocados. 1 Timoteo 4:4-5
 
-### Todo lo que Dios creó es bueno y, por lo tanto, no debe ser rechazado (1 Timoteo 4:4).
+### Todo lo que Dios creó es bueno y, por lo tanto, no debe ser rechazado. 1 Timoteo 4:4
 
-### Todo lo que Dios creó es santificado por la Palabra de Dios y por la oración (1 Timoteo 4:5).
+### Todo lo que Dios creó es santificado por la Palabra de Dios y por la oración. 1 Timoteo 4:5
 
-## II\. LIDERES PIADOSOS (4:6-16): Pablo enumera algunas cosas que se deben y no se deben hacer con respecto al ministerio cristiano.
+## II\. 1 Timoteo 4:6-16 Líderes piadosos: Pablo enumera algunas cosas que se deben y no se deben hacer con respecto al ministerio cristiano.
 
 ### 1 Timoteo 4:6a "*Al señalar estas cosas a los hermanos serás un buen ministro de Cristo Jesús*",
 
@@ -886,27 +886,27 @@ Sin embargo, se estaba usando el púlpito para enseñar a la iglesia genealogía
 
 ## En Síntesis (1 Timoteo 4:6-16)
 
-### Lo que no se debe hacer (1 Timoteo 4:7a, 12a, 14)
+### Lo que no se debe hacer. 1 Timoteo 4:7a, 12a, 14
 
-### No pierdas el tiempo discutiendo sobre ideas tontas y mitos tontos (1 Timoteo 4:7a).
+### No pierdas el tiempo discutiendo sobre ideas tontas y mitos tontos. 1 Timoteo 4:7a
 
-### No te dejes intimidar por tu juventud (4:12a).
+### No te dejes intimidar por tu juventud. 1 Timoteo 4:12a
 
-### No descuides tu don espiritual (1 Timoteo 4:14).
+### No descuides tu don espiritual. 1 Timoteo 4:14
 
-### Lo que se debe hacer (1 Timoteo 4:6, 7b-11, 12b-13, 15-16)
+### Lo que se debe hacer. 1 Timoteo 4:6, 7b-11, 12b-13, 15-16
 
-### Advierta a los miembros de la iglesia con respecto a la apostasía (1 Timoteo 4:6).
+### Advierta a los miembros de la iglesia con respecto a la apostasía. 1 Timoteo 4:6
 
-### Manténgase espiritualmente en forma (1 Timoteo 4:7b-11).
+### Manténgase espiritualmente en forma. 1 Timoteo 4:7b-11
 
-### Sé un modelo piadoso en todo lo que hagas (1 Timoteo 4:12b).
+### Sé un modelo piadoso en todo lo que hagas. 1 Timoteo 4:12b
 
-### Continúe leyendo, enseñando y predicando públicamente la Palabra de Dios (1 Timoteo 4:13).
+### Continúe leyendo, enseñando y predicando públicamente la Palabra de Dios. 1 Timoteo 4:13
 
-### Entrégate por completo al ministerio (1 Timoteo 4:15).
+### Entrégate por completo al ministerio. 1 Timoteo 4:15
 
-### Vigila de cerca tu propia vida (1 Timoteo 4:16).
+### Vigila de cerca tu propia vida. 1 Timoteo 4:16
 
 ### Pablo da consejos sobre hombres mayores y jóvenes, mujeres mayores y jóvenes, viudas y ancianos de la iglesia.
 
