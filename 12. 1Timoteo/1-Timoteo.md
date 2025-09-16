@@ -220,25 +220,29 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 1:3a "*Tal como te rogué al salir para Macedonia que te quedaras en Éfeso*..." Evidéntemente, al salir para Macedonia, Pablo había rogado a Timoteo que se quedara en Efeso. 
 
-### 1 Timoteo 1:3b "*...para que instruyeras a algunos que no enseñaran doctrinas extrañas...*" Algunos en la congregación estaban enseñando algo que no enseñaban doctrinas que la Biblia enseña. 
+### 1 Timoteo 1:3b "*...para que instruyeras a algunos que no enseñaran doctrinas extrañas...*" Algunos en la congregación estaban enseñando una doctrina difentente a la que enseña la Biblia . 
 
-#### La frase enseñaran doctrinas extrañas es la palabra HETERODIDASKALEO en griego. Significa enseñar "otra doctrina" o "desviar de la verdad". 
+#### La frase "enseñaran doctrinas extrañas" es la palabra HETERODIDASKALEO en griego. Significa enseñar "otra doctrina" o "desviar de la verdad". 
 
-#### La enseñanza en la iglesia no debe se provenir de un lugar que no sea La Palabra de Dios correctamente enseñada según el contexto. 
+#### Debemos comprender que tipo de enseñanza que cambie el evangelio o que vaya en contra de la escritura es considerdo una doctrina extreña. 1Co 15:3-4, Gal 1:6-9
+
+#### La enseñanza en la iglesia no debe provenir de un lugar que no sea La Palabra de Dios correctamente enseñada según el contexto. 
 
 ### 1 Timoteo 1:4a "*ni prestaran atención*..." La observación del Texto bíblico es muy importante. A lo que prestemos atención afectará los resultados de nuestra instrucción. 
 
-### 1 Timoteo 1:4b "*a mitos*..." Mitos se refiere a prestar atención a fabulas o cosas de ficción. 
+### 1 Timoteo 1:4b "*a mitos*..." Se refiere a prestar atención a fabulas o cosas de ficción.
 
-### 1 Timoteo 1:4c "*y genealogías interminables*..." la genealogía es importante entre la cultura judia. La descendencia de uno definia de que tribu  y quien era su ancestro. 
+### 1 Timoteo 1:4c "*y genealogías interminables*..." la genealogía es importante entre la cultura judia. La descendencia de uno definia su tribu  y quien era su ancestro. 
 
 #### Sin embargo, se estaba usando el púlpito para enseñar a la iglesia genealogías que nunca terminaban. 
 
-#### Haciendo largos recuentos de la historia no es enseñanza que llevaría a la madurez. 
+#### Hacer largos recuentos de la historia o genalogía no es enseñanza que llevaría a la madurez. 
 
 ### 1 Timoteo 1:4d "*lo que da lugar a discusiones inútiles*". El resultado de enseñar fabulas y genealogías lleva a disputar inútilmente entre los hermanos. Tito 1:10
 
-### 1 Timoteo 1:4e "*en vez de hacer avanzar el plan de Dios que es por fe*". La única manera que haya crecimiento (madurez) en la iglesia es enseñando la gracia De Dios que es "*avanzar el plan de Dios que es por fe*". 
+#### Es poco provechoso que la iglesia se ocupe en estas discusiones inútiles.
+
+### 1 Timoteo 1:4e "*en vez de hacer avanzar el plan de Dios que es por fe*". La única manera que haya crecimiento (madurez) en la iglesia es enseñando la gracia de Dios, esto es "*avanzar el plan de Dios que es por fe*". 
 
 ### La gracia y la fe armonizan juntos perfectamente. 
 
@@ -247,7 +251,7 @@ Title: 1 Timoteo
 ### 1 Timoteo 1:4f "*así te encargo ahora*". En otra ocación Pablo le dirá a Timoteo que encargue hombres fieles que sean idoneos para enseñar a otros. 2 Timoteo 2:2
 
 ## 1 Timoteo 1:5 El propósito correcto de la instrucción
-
+ 
 ### 1 Timoteo 1:5a "*Pero el propósito de nuestra instrucción...*" Pablo prosigue buscando abrir el entendimiento de Timoteo al mostrarle la motivación de la enseñanza en la iglesia. 
 
 ### 1 Timoteo 1:5b "*es el amor*". Sin la instrucción en verdad, no puede haber amor. Sin amor, no se recibe la verdad. 
