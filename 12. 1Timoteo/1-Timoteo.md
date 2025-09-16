@@ -706,13 +706,21 @@ La piedad es algo que agrada a Dios y sirve como medio para el alcance del mundo
 
 ### 1 Timoteo 3:1b "*si alguien aspira al cargo de obispo buena obra desea hacer*..." Pablo aquí le aclara a Timoteo que se hay algún hermano que aspira ser anciano que lo reciba la intención con buen ánimo. 
 
-#### Obispo y anciano son términos sinónimos. En realidad hay tres palabras en el griego que son usadas para describir la misma posición de lider en la iglesia. 
+#### Obispo, anciano y sobreveedor son términos sinónimos. En realidad hay tres palabras en el griego que son usadas para describir la misma posición de lider en la iglesia. 
 
 ##### EPISCOPOS - 
 
 ##### PRESBUTEROS - 
 
 ##### POIMEN - 
+
+En cada caso, siempre los vemos a estos líderes en plural. El cual nos lleva a pensar en la práctica de la pluralidad de liderazgo. Si bien puede haber un anciano que se llama pastor que tiene el don de pastorear, no es el único anciano. El es parte del concilio de ancianos. 
+
+¿Es necesario que una iglesia local coloque ancianos? 
+
+Aunque el rol de anciano es bíblico y justamente el trabajo de Timoteo en Efeso fue establecer ancianos y diáconos, es una mala practica colocar personas indebidas (que no califican) como ancianos. Estas personas pueden llevar a toda la iglesia al descarrio. 
+
+Es mejor estar sin ancianos y diaconos que escogerlos sin que califiquen bíblicamente. 
 
 ## Requisitos para los anciano 
 
@@ -722,15 +730,15 @@ La piedad es algo que agrada a Dios y sirve como medio para el alcance del mundo
 
 ### 1 Timoteo 3:2a "*Un obispo* [EPISCOPOS] *debe ser, pues...*"
 
-### 1 Timoteo 3:2b "*irreprochable...*"
+### 1 Timoteo 3:2b "*irreprochable...*" ANEPILEPTOS es sin crítica.
 
 ### 1 Timoteo 3:2c "*marido de una sola mujer...*"
 
-### 1 Timoteo 3:2d "*sobrio*..." ANEPILEPTOS es sin crítica.
+### 1 Timoteo 3:2d "*sobrio*..." NEFALIOS quiere decir que es sobrio
 
-### 1 Timoteo 3:2e "*prudente...*" NEFALIOS quiere decir que es sobrio
+### 1 Timoteo 3:2e "*prudente...*" SOFRONE quiere decir moderado. 
 
-### 1 Timoteo 3:2f "*de conducta decorosa...*" SOFRONE quiere decir moderado. 
+### 1 Timoteo 3:2f "*de conducta decorosa...*" KOSMIOS bien ordenado, respetuoso
 
 ### 1 Timoteo 3:2g "*hospitalario...*" FILOXENOS es amable con sus visitas. 
 
@@ -740,13 +748,13 @@ La piedad es algo que agrada a Dios y sirve como medio para el alcance del mundo
 
 ### 1 Timoteo 3:3a "*no pendenciero sino amable...*" no es peleón
 
-### 1 Timoteo 3:3b "*no contencioso...*"
+### 1 Timoteo 3:3b "*no contencioso...*" 
 
 ### 1 Timoteo 3:3c "*no avaricioso...*"
 
-### 1 Timoteo 3:4a "*Que gobierne bien su casa...*"
+### 1 Timoteo 3:4a "*Que gobierne bien su casa...*" gobierne es la palabra PROISTEMI. Significa mantener, estar al frente de, ser protector o guardian. 
 
-### 1 Timoteo 3:4b "*teniendo a sus hijos sujetos con toda dignidad;...*"
+### 1 Timoteo 3:4b "*teniendo a sus hijos sujetos con toda dignidad...*" sus hijos deben conducirse respetuosamente.  
 
 ### 1 Timoteo 3:5 "*(pues si un hombre no sabe cómo gobernar su propia casa, ¿cómo podrá cuidar de la iglesia de Dios?)...*" La sabiduría para gobernar bien su propia casa es necesario para sobreveer sobre la cada de Dios. 
 
@@ -756,11 +764,13 @@ La piedad es algo que agrada a Dios y sirve como medio para el alcance del mundo
 
 ### 1 Timoteo 3:7a "*Debe gozar también de una buena reputación entre los de afuera de la iglesia...*" Tener un buen testimonio entre los vecinos es un requisito para ser anciano. 
 
-### 1 Timoteo 3:7b "*para que no caiga en descrédito y en el lazo del diablo...*"
+### 1 Timoteo 3:7b "*para que no caiga en descrédito*"
+
+### 1 Timoteo 3:7c "*y en el lazo del diablo...*"
 
 ## En Síntesis (1 Timoteo 3:1-7)
 
-### Requisitos para un pastor. 1 Timoteo 3:1-7
+### Requisitos para los lideres. 1 Timoteo 3:1-7
 
 ### Calificaciones positivas. 1 Timoteo 3:1-2, 3c-5, 7
 
@@ -1274,7 +1284,7 @@ La piedad es algo que agrada a Dios y sirve como medio para el alcance del mundo
 
 ## En Síntesis (1 Timoteo 6:1-10)
 
-### Los obreros (1 Timoteo 6:1-2): Pablo insta a los siervos cristianos a rendir servicio fiel a sus amos, para que el nombre de Dios no sea calumniado.
+### Los obreros: Pablo insta a los siervos cristianos a rendir servicio fiel a sus amos, para que el nombre de Dios no sea calumniado. (1 Timoteo 6:1-2)
 
 ### Los inicuos. 1 Timoteo 6:3-5
 
@@ -1286,7 +1296,7 @@ La piedad es algo que agrada a Dios y sirve como medio para el alcance del mundo
 
 ### Usan las cosas espirituales para obtener ganancias financieras. 1 Timoteo 6:5
 
-### Los sabios (1 Timoteo 6:6-8): Se dan cuenta de que la piedad con contentamiento es una gran ganancia.
+### Los sabios : Se dan cuenta de que la piedad con contentamiento es una gran ganancia.(1 Timoteo 6:6-8)
 
 ### Los ricos. 1 Timoteo 6:9-10
 
