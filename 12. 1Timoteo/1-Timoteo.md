@@ -92,7 +92,7 @@ Title: 1 Timoteo
 
 ### En resumen, podemos decir que Pablo le escribió a Timoteo por su inmenso amor y aprecio por la obra que Timoteo había sido llamado a realizar al servicio del Señor Jesús.
 
-# II. La Iglesia del Nuevo Testamento
+# II. La Iglesia de Jesucristo
 
 ## La Palabra Iglesia y su orígen
 
@@ -251,7 +251,7 @@ Title: 1 Timoteo
 ### 1 Timoteo 1:4f "*así te encargo ahora*". En otra ocación Pablo le dirá a Timoteo que encargue hombres fieles que sean idoneos para enseñar a otros. 2 Timoteo 2:2
 
 ## 1 Timoteo 1:5 El propósito correcto de la instrucción
- 
+
 ### 1 Timoteo 1:5a "*Pero el propósito de nuestra instrucción...*" Pablo prosigue buscando abrir el entendimiento de Timoteo al mostrarle la motivación de la enseñanza en la iglesia. 
 
 ### 1 Timoteo 1:5b "*es el amor*". Sin la instrucción en verdad, no puede haber amor. Sin amor, no se recibe la verdad. 
