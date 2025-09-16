@@ -22,7 +22,7 @@ Title: 1 Timoteo
 # I. Introducción 
 ## A. A primera vista
 
-### La maravilla de la iglesia esta en el hecho que Cristo la concibió antes de la fundación del mundo (Efesios 1:4), la compró con Su sangre (Hechos 20:28), la estableció (Mateo 16:18) y la promete preservar eternamente (Mateo 16:18). 
+### La maravilla de la iglesia esta en el hecho que Cristo la concibió antes de la fundación del mundo (Efesios 1:4), la compró con Su sangre (Hechos 20:28), la estableció (Mateo 16:18) y la promete preservar eternamente (Mateo 16:18). Prueba
 
 ### La Iglesia no pertenece a ninguna institución humana como decir el vaticano, las denominaciones, las naciones unidas, algún país, algún hombre en particular. 
 
