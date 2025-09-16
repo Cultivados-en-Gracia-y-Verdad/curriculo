@@ -22,19 +22,19 @@ Title: 1 Timoteo
 # I. Introducción 
 ## A. A primera vista
 
-### La maravilla de la iglesia esta en el hecho que Cristo la concibió antes de la fundación del mundo (Efesios 1:4), la compró con Su sangre (Hechos 20:28), la estableció (Mateo 16:18) y la promete preservar eternamente (Mateo 16:18). 
+### La maravilla de la iglesia esta en el hecho que Cristo la concibió en sus planes desde antes de la fundación del mundo (Efesios 1:4), la compró con Su sangre (Hechos 20:28), la estableció (Mateo 16:18) y promete preservarla eternamente (Mateo 16:18). 
 
-### La Iglesia no pertenece a ninguna institución humana como decir el vaticano, las denominaciones, las naciones unidas, algún país, algún hombre en particular. 
+### La Iglesia no pertenece a ninguna institución humana como decir el vaticano, alguna denominación, las naciones unidas, algún país, algún hombre en particular. Efesios 5:27
 
-### La iglesia no pertenece a personas como misioneros, primeros fundadores, ancestros, maestros, ancianos,  diáconos. La iglesia no pertenece a personas que ofrendaron por comprar el lote y un edificio. 
+### La iglesia no pertenece a personas como misioneros, primeros fundadores, ancestros, maestros, ancianos,  diáconos. La iglesia no pertenece a personas que ofrendaron por comprar el lote y un edificio. 3 Juan 1:9-10
 
-### Tradicionalmente, el libro de 1 Timoteo ha sido descrito como una de las cartas pastorales. La tendencia de la Iglesia entonces, ha sido que líderes cristianos son enseñados 1 Timoteo para capacitarlos pero la congregación se ha quedado sin comprender las verdades que contiene. 
+### Tradicionalmente, el libro de 1 Timoteo ha sido descrito como una carta pastoral, junto con 2 Timoteo y Tito. La tendencia de la Iglesia entonces, ha sido que solo líderes cristianos sean enseñados en 1 Timoteo para capacitarlos en su ministerio, pero la congregación se ha quedado sin comprender las verdades que contiene. 1 Timoteo 3:15
 
-### 1 Timoteo es escrito para todo creyente. Es tan provechoso para la persona mayor como para el jóven. También para personas que están siendo equipados para servir. 
+### Vemos en 2 Timoteo 3:16 que toda la revelación de nuestro Señor es util para cada uno de Sus santos, entonces 1 Timoteo es escrito para todo creyente tambien. Es tan provechoso para la persona mayor como para el jóven. También para personas que están siendo equipados para servir.
 
 ### Este precioso libro contiene instrucción importante para hermanos mayores, hermanas mayores, hermanas jóvenes y hermanos jóvenes. 
 
-### El contenido de este libro nos regresa a la esencia de que es la Iglesia de Jesucristo y como debe andar ordenadamente. Asi que creyente, ¡pon atención a este hermoso y valioso libro!
+### Si alguna vez te preguntaste "¿Qué es la Iglesia?", "¿Cual es mi parte dentro de la Iglesia?", "¿Cómo debemos conducirnos en ella?", entonces el contenido de este libro te guiará a la esencia de que es la Iglesia de Jesucristo y como debe andar ordenadamente. Asi que creyente, ¡pon atención a este hermoso y valioso libro!
 
 ## B. Información General
 
@@ -50,15 +50,15 @@ Title: 1 Timoteo
 
 </hr>
 
-### Tres veces Pablo dice que una declaración que hace es  palabra “fiel”.  1 Timoteo 1:15, 3:1, 4:9[^3]
+### En tres ocaciones encontramos a Pablo indicando una declaración como "fiel". 1 Timoteo 1:15, 3:1, 4:9[^3]
 
 ## C. Autor y receptor del libro 
 
-### Pablo escribe su primera carta a Timoteo. 1 Timoteo 1:1
+### Encontramos esta epistola como la primera carta escrita por Pablo hacia su hijo en la fe Timoteo. 1 Timoteo 1:1
 
-### Timoteo era de Listra, en la actual Turquía, hijo de padre griego y madre judía. Su madre, Eunice, y su abuela, Loida, también eran creyentes (2 Timoteo 1:5).[^2] 
+### Timoteo era un joven nacido Listra, en la actual Turquía, hijo de padre griego y madre judía. Su madre, Eunice, y su abuela, Loida, también eran creyentes (2 Timoteo 1:5).[^2] 
 
-### Ellas lo habían criado en el conocimiento del Antiguo Testamento (2 Timoteo 3:15).[^2] 
+### Ellas lo habían instruido en el conocimiento de las Sagradas Escrituras (Antiguo Testamento). 2 Timoteo 3:15[^2] 
 
 ### Pablo lo convirtió al cristianismo (1 Timoteo 1:2). En Hechos 16:1-5, aprendemos que los creyentes de Listra e Iconio hablaban bien de Timoteo.[^2] 
 
