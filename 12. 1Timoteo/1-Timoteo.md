@@ -70,7 +70,7 @@ Title: 1 Timoteo
 
 ### Timoteo cumplió algún tiempo en la cárcel por su fe, y luego fue liberado (Hebreos 13:23).[^2]
 
-## D. Trasfondo Histórico
+## D. Trasfondo Cultural/Histórico
 
 ### La fecha de escritura es probablemente de 62 a 65 d.C. desde Macedonia.
 
@@ -82,9 +82,9 @@ Title: 1 Timoteo
 
 ### Aquí encontramos sabias palabras del Apostol Pablo a un joven ministro a quien estimaba.
 
-## E. Tema Principal del libro
+## E. Tema Principal
 
-### Como establecer y conducir una iglesia como columna y sostén de la verdad apta para resistir la falsa enseñanza.
+### El tema principal de la carta: como establecer y conducir una iglesia como columna y sostén de la verdad apta para resistir la falsa enseñanza.
 
 ### 1 Timoteo 3:14-15 "*Te escribo estas cosas, esperando ir a verte pronto, pero en caso que me tarde, **te escribo para que sepas cómo debe conducirse uno en la casa de Dios**, que es la iglesia del Dios vivo, columna y sostén de la verdad.*"
 
@@ -92,7 +92,7 @@ Title: 1 Timoteo
 
 ### En resumen, podemos decir que Pablo le escribió a Timoteo por su inmenso amor y aprecio por la obra que Timoteo había sido llamado a realizar al servicio del Señor Jesús.
 
-# II. La Iglesia del Nuevo Testamento.
+# II. La Iglesia del Nuevo Testamento
 
 ## La Palabra Iglesia y su orígen
 
@@ -150,35 +150,81 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 1:1a "*Pablo, apóstol de Cristo Jesús por mandato de Dios nuestro Salvador, y de Cristo Jesús*" Pablo es el apóstol que firma la carta. 1 Timoteo 1:1, 13, 15, 2:7
 
-### 1 Timoteo 1:1b "*nuestra esperanza,*". Jesucristo era la esperanza de Pablo y le recuerda a Timoteo que debe ser su esperanza también. 
+### 1 Timoteo 1:1b "*nuestra esperanza...*". Jesucristo era la esperanza de Pablo y le recuerda a Timoteo que debe ser su esperanza también. 1 Pedro 1:3; Romanos 5:1-2, 8:24-25
 
-## B. Receptor de la carta: El bien amado de Pablo (1:1-2): 
+## B. Receptor de la carta: El bien amado de Pablo
 
 ### 1 Timoteo 1:2a "*a Timoteo, verdadero hijo en la fe:*" ...Timoteo es el hijo espiritual amado de Pablo en la fe.
 
 ### De las numerosas instrucciones y mandatos que Pablo dio a Timoteo en 1 Timoteo, es evidente que Pablo lo tenía en alta estima y le confió una inmensa carga de trabajo. 
 
-### 1 Timoteo 1:2b "*Gracia,*"
+### 1 Timoteo 1:2b "*Gracia...*" gracia es CHARIS.  Significaba varias cosas que veremos. 
 
-### 1 Timoteo 1:2c "*misericordia*"
+#### La palabra gracia en el griego del primer siglo abarca tres sentidos principales.[^6] 
 
-### 1 Timoteo 1:2d "*y paz,*"
+##### Bondad - es amabilidad de una persona respecto a otra.[^7] Lucas 4:22
 
-### 1 Timoteo 1:2e "*de parte de Dios Padre*"
+##### Favor - significa, "ayuda o socorro que se concede a alguien".[^7]Lucas 1:30, 2:52; Hechos 2:47
 
-### 1 Timoteo 1:2f "*y de Cristo Jesús nuestro Señor*". Cristo no solo es "*nuestra esperanza*", es también "*nuestro Señor*". Pablo y Timoteo servían a Jesucristo. 
+##### Gratitud - significa, "sentimiento de la persona que agradece un favor recibido".[^8] Lucas 17:9; Romanos 6:17; 1 Timoteo 1:12; 2 Timoteo 1:3; Hebreos 12:28
+
+##### Un saludo - en muchas ocaciones Pablo usaba la palabra gracia para saludar y despedirse. Romanos 1:7
+
+#### Bíblicamente la palabra gracia en la edad de la iglesia es muy importante y llega a tener un significado propio. 
+
+##### La gracia fué profetizada e indigada por los profetas de la antigüedad. 1 Pedro 1:10
+
+##### La gracia para salvación fue manifiésta en la cruz. Tito 2:11
+
+##### Así como La Ley vino por medio de Moises, la gracia fue realizado por medio de Jesucristo. Juan 1:17, Hebreos 2:9
+
+##### La gracia para el creyente proviene de Dios. Juan 1:16; 1 Corintios 1:4, 16:23; Gálatas 6:18, 1 Tesalonicenses 5:28
+
+##### La gracia es gratuita, no es por obras o merecimiento. Romanos 11:6, 3:24; Efesios 4:7
+
+##### Dios llama por medio de la gracia. Hechos 18:27; Gálatas 1:6, Colosenses 1:6, 2 Timoteo 1:9
+
+##### La salvación es por gracia - buena voluntad libremente difundida (por Dios); especialmente para beneficio del receptor, independientemente del beneficio acumulado para el difundidor.[^9] Efesios 2:8; Hechos 15:11
+
+###### Somos justificados libremente por su gracia. Romanos 3:24, Tito 3:7
+
+###### Redención y perdón de pecados es según la riqueza de Su gracia. Efesios 1:7
+
+##### La fe y la gracia armonizan perfectamente. Romanos 4:16
+
+##### El creyente está firme en y bajo la gracia. Romanos 5:2, 6:14
+
+##### La gracia es suficiente para todo el andar del creyente. 2 Corintios 12:9, 1 Timoteo 1:14
+
+##### La gracia es lo que edifica al creyente. Hechos 20:32, Tito 2:12
+
+###### Pablo siempre animaba a los hermanos a permanecer en la gracia. Hechos 13:43, 20:24, Filipenses 4:23, 2 Timothy 2:1
+
+###### Pedro animó a sus lectores a crecer en la gracia. 2 Pedro 1:2, 3:18
+
+### 1 Timoteo 1:2c "*misericordia*..." esta palabra, ELEOS, también es traducido compasión. 
+
+### 1 Timoteo 1:2d "*y paz...*" EIRENE es posible que Pablo juntó dos saludos (griego-favor y hebreo-paz) para hacer el suyo. 
+
+#### más que un simple saludo, Pablo deseaba que la paz de Cristo gobierne en el corazón de Timoteo. 2 Timoteo 2:22; 1 Tesalonicenses 5:23
+
+### 1 Timoteo 1:2e "*de parte de Dios Padre...*"
+
+### 1 Timoteo 1:2f "*y de Cristo Jesús nuestro Señor*". Cristo no solo es "*nuestra esperanza*", también es "*nuestro Señor*". Pablo y Timoteo servían a Jesucristo. 
+
+#### La gracia, la misericordia y la paz provienen de Jesucristo. La expresión de Pablo es que Timoteo los podría experimentar plenamente. 
 
 # IV.1 Timoteo 1:3-20 -- Batallando por la Gracia
 
 ## 1 Timoteo 3:1-4 El apartarse de la instrucción bíblica
 
-### 1 Timoteo 1:3a "*Tal como te rogué al salir para Macedonia*"
+### 1 Timoteo 1:3a "*Tal como te rogué al salir para Macedonia que te quedaras en Éfeso*..." Evidéntemente, al salir para Macedonia, Pablo había rogado a Timoteo que se quedara en Efeso. 
 
-### 1 Timoteo 1:3b "*que te quedaras en Éfeso para que instruyeras a algunos que no enseñaran doctrinas extrañas*" Algunos en la congregación estaban enseñando algo que no enseñaban doctrinas que la Biblia enseña. 
+### 1 Timoteo 1:3b "*...para que instruyeras a algunos que no enseñaran doctrinas extrañas...*" Algunos en la congregación estaban enseñando algo que no enseñaban doctrinas que la Biblia enseña. 
 
-La frase enseñaran doctrinas extrañas es la palabra HETERODIDASKALEO en griego. Significa enseñar "otra doctrina" o "desviar de la verdad". 
+#### La frase enseñaran doctrinas extrañas es la palabra HETERODIDASKALEO en griego. Significa enseñar "otra doctrina" o "desviar de la verdad". 
 
-La enseñanza en la iglesia no debe se provenir de un lugar que no sea La Palabra de Dios correctamente enseñada según el contexto. 
+#### La enseñanza en la iglesia no debe se provenir de un lugar que no sea La Palabra de Dios correctamente enseñada según el contexto. 
 
 ### 1 Timoteo 1:4a "*ni prestaran atención*..." La observación del Texto bíblico es muy importante. A lo que prestemos atención afectará los resultados de nuestra instrucción. 
 
@@ -186,25 +232,29 @@ La enseñanza en la iglesia no debe se provenir de un lugar que no sea La Palabr
 
 ### 1 Timoteo 1:4c "*y genealogías interminables*..." la genealogía es importante entre la cultura judia. La descendencia de uno definia de que tribu  y quien era su ancestro. 
 
-Sin embargo, se estaba usando el púlpito para enseñar a la iglesia genealogías que nunca terminaban como un recuento de la historia. 
+#### Sin embargo, se estaba usando el púlpito para enseñar a la iglesia genealogías que nunca terminaban. 
+
+#### Haciendo largos recuentos de la historia no es enseñanza que llevaría a la madurez. 
 
 ### 1 Timoteo 1:4d "*lo que da lugar a discusiones inútiles*". El resultado de enseñar fabulas y genealogías lleva a disputar inútilmente entre los hermanos. Tito 1:10
 
 ### 1 Timoteo 1:4e "*en vez de hacer avanzar el plan de Dios que es por fe*". La única manera que haya crecimiento (madurez) en la iglesia es enseñando la gracia De Dios que es "*avanzar el plan de Dios que es por fe*". 
 
-### La gracia y la fe armonizan perfectamente. 
+### La gracia y la fe armonizan juntos perfectamente. 
 
-### Cualquier enseñanza extraña a las Escrituras apartará para prestar atención a cosas que producen más bien más carnalidad y se manifestará en contiendas y discusiones sin propósito espiritual alguno. 
+### Cualquier enseñanza extraña distraerá de las Escrituras para prestar atención a cosas que producen más bien más carnalidad y se manifestará en contiendas y discusiones sin propósito espiritual alguno. 
 
-### 1 Timoteo 1:4f "*así te encargo ahora*". 
+### 1 Timoteo 1:4f "*así te encargo ahora*". En otra ocación Pablo le dirá a Timoteo que encargue hombres fieles que sean idoneos para enseñar a otros. 2 Timoteo 2:2
 
 ## 1 Timoteo 1:5 El propósito correcto de la instrucción
 
-### 1 Timoteo 1:5a "*Pero el propósito de nuestra instrucción*"
+### 1 Timoteo 1:5a "*Pero el propósito de nuestra instrucción...*" Pablo prosigue buscando abrir el entendimiento de Timoteo al mostrarle la motivación de la enseñanza en la iglesia. 
 
 ### 1 Timoteo 1:5b "*es el amor*". Sin la instrucción en verdad, no puede haber amor. Sin amor, no se recibe la verdad. 
 
-### 1 Timoteo 1:5c "*es el amor...nacido de corazón puro,*"
+#### Pablo no enseñaba por enseñar. Sus intenciones en enseñar no eran para beneficio personal 
+
+### 1 Timoteo 1:5c "*es el amor...nacido de corazón puro,*" 
 
 ### 1 Timoteo 1:5d "*es el amor...de una buena conciencia,*"
 
@@ -276,15 +326,19 @@ Sin embargo, se estaba usando el púlpito para enseñar a la iglesia genealogía
 
 ### La Ley fue hecho para controlar a las personas que no son salvas. 1 Timoteo 1:8b-11
 
-## 1 Timoteo 1:12-17 EL TESTIMONIO DE PABLO: Aquí el apóstol expresa su profunda acción de gracias por la fidelidad de Dios.
+## 1 Timoteo 1:12-17 EL TESTIMONIO DE PABLO: Profunda gratitud por la fidelidad de Dios.
 
-### 1 Timoteo 1:12 "*Doy gracias a Cristo Jesús nuestro Señor, que me ha fortalecido, porque me tuvo por fiel, poniéndome en el ministerio*"
+### 1 Timoteo 1:12a "*Doy gracias a Cristo Jesús nuestro Señor, que me ha fortalecido...*" Nuevamente vemos el uso (tercera vez en 12 versículos) de "*nuestro*". Timoteo necesitaba acordarse que Pablo era colaborador con Timoteo en su servicio por el Señor. 
+
+El testimonio de Pablo seria de animo para Timoteo. Pablo había pasado toda clase de tribulaciónes pero lo mismo que le sostuvo a Pablo puede sostener a Timoteo ahora. 
+
+### 1 Timoteo 1:12a "*porque me tuvo por fiel, poniéndome en el ministerio*..."
 
 ### 1 Timoteo 1:13 "*aun habiendo sido yo antes blasfemo, perseguidor y agresor. Sin embargo, se me mostró misericordia porque lo hice por ignorancia en mi incredulidad*"
 
 ### 1 Timoteo 1:14 "*Pero la gracia de nuestro Señor fue más que abundante, con la fe y el amor que se hallan en Cristo Jesús.*"
 
-### 1 Timoteo 1:15a "*Palabra fiel y digna de ser aceptada por todos:*"
+### 1 Timoteo 1:15a "*Palabra fiel y digna de ser aceptada por todos:*" 
 
 ### 1 Timoteo 1:15b *Cristo Jesús vino al mundo para salvar a los pecadores*"
 
@@ -322,7 +376,7 @@ Sin embargo, se estaba usando el púlpito para enseñar a la iglesia genealogía
 
 ## 1 Timoteo 1:18-20 LA SABIDURÍA DE PABLO 
 
-## 1 Timoteo 1:18-19b Lo que Timoteo debe hacer
+## 1 Timoteo 1:18-19b La comisión de Timoteo
 
 ### 1 Timoteo 1:18a "*Esta comisión te confío, hijo Timoteo*"
 
@@ -1060,17 +1114,17 @@ Sin embargo, se estaba usando el púlpito para enseñar a la iglesia genealogía
 
 ## En Síntesis (1 Timoteo 5:17-25)
 
-### Ancianos en general (1 Timoteo 5:17-22, 24-25)
+### Ancianos en general. 1 Timoteo 5:17-22, 24-25
 
-### Son dignos de doble honor (1 Timoteo 5:17-18).
+### Son dignos de doble honor. 1 Timoteo 5:17-18
 
-### Nunca deben ser acusados injustamente (1 Timoteo 5:19-20, 24-25).
+### Nunca deben ser acusados injustamente. 1 Timoteo 5:19-20, 24-25
 
-### Deben ser imparciales (1 Timoteo 5:21).
+### Deben ser imparciales. 1 Timoteo 5:21
 
-### Deben probarse antes de ser ordenados (1 Timoteo 5:22a).
+### Deben probarse antes de ser ordenados. 1 Timoteo 5:22a
 
-### Deben mantenerse puros (1 Timoteo 5:22b).
+### Deben mantenerse puros. 1 Timoteo 5:22b
 
 ### Timoteo en particular (1 Timoteo 5:23): "Bebe un poco de vino por amor a tu estómago porque estás enfermo muy a menudo".
 
@@ -1146,19 +1200,19 @@ Sin embargo, se estaba usando el púlpito para enseñar a la iglesia genealogía
 
 ### Los obreros (1 Timoteo 6:1-2): Pablo insta a los siervos cristianos a rendir servicio fiel a sus amos, para que el nombre de Dios no sea calumniado.
 
-### Los inicuos (1 Timoteo 6:3-5)
+### Los inicuos. 1 Timoteo 6:3-5
 
-### Niegan la fe (1 Timoteo 6:3-4a).
+### Niegan la fe. 1 Timoteo 6:3-4a
 
-### Son engreídos y discutidores (1 Timoteo 6:4b).
+### Son engreídos y discutidores. 1 Timoteo 6:4b
 
-### Causan confusión, envidia y fricción (1 Timoteo 6:4c).
+### Causan confusión, envidia y fricción. 1 Timoteo 6:4c
 
-### Usan las cosas espirituales para obtener ganancias financieras (1 Timoteo 6:5).
+### Usan las cosas espirituales para obtener ganancias financieras. 1 Timoteo 6:5
 
 ### Los sabios (1 Timoteo 6:6-8): Se dan cuenta de que la piedad con contentamiento es una gran ganancia.
 
-### Los ricos (1 Timoteo 6:9-10)
+### Los ricos. 1 Timoteo 6:9-10
 
 ### El deseo (1 Timoteo 6:10): "El amor al dinero está en la raíz de toda clase de males".
 
@@ -1260,7 +1314,7 @@ Sin embargo, se estaba usando el púlpito para enseñar a la iglesia genealogía
 
 ## En Síntesis (1 Timoteo 6:11-21)
 
-### Lo que Timoteo debe hacer (1 Timoteo 6:11-14, 17-21)
+### Lo que Timoteo debe hacer. 1 Timoteo 6:11-14, 17-21
 
 ### Huye del mal y sigue el bien. 1 Timoteo 6:11
 
@@ -1298,3 +1352,7 @@ Sin embargo, se estaba usando el púlpito para enseñar a la iglesia genealogía
 
 [^4]:Compelling Truth, https://www.compellingtruth.org/Espanol/definicion-ekklesia.html
 [^5]: 9 Marks, Bobby Jamieson, A Biblical Theology of Church Discipline, https://www.9marks.org/article/a-biblical-theology-of-church-discipline/
+[^6]: James Hope Moulton y George Milligan, The Vocabulary of the Greek Testament (Londres: Hodder and Stoughton, 1930), 684.
+[^7]: Diccionario de la lengua Española, https://dle.rae.es/
+[^8]: The Free Dictionary, https://es.thefreedictionary.com/
+[^9]: Bible Sense Lexicon, Ephesians 2:8
