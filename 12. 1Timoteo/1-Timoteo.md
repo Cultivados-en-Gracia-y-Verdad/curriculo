@@ -60,7 +60,7 @@ Title: 1 Timoteo
 
 ### Ellas lo habían instruido en el conocimiento de las Sagradas Escrituras (Antiguo Testamento). 2 Timoteo 3:15[^2] 
 
-### Pablo lo convirtió al cristianismo (1 Timoteo 1:2). En Hechos 16:1-5, aprendemos que los creyentes de Listra e Iconio hablaban bien de Timoteo.[^2] 
+### Pablo lo convirtió al cristianismo (1 Timoteo 1:2). En Hechos 16:1-5, aprendemos que Timoteo tenía buen testimonio delante de los creyentes de Listra e Iconio.[^2] 
 
 ### Pablo quería llevarlo en su viaje misionero, pero Timoteo no estaba circuncidado. Pablo lo circuncidó y viajaron juntos en su segundo viaje misionero.[^2]
 
