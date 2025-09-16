@@ -598,25 +598,29 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 2:7b "*como maestro de los gentiles en fe y verdad...*" Dios estableció a Pablo como maestro para enseñar el pleno conocimiento de la verdad. 
 
-## La importancia de la piedad
+## En base a la voluntad de Dios, Pablo desea una vida piadosa
 
-### 1 Timoteo 2:8a "*Por tanto, quiero que en todo lugar...*"
+la piedad ha llegado a tener una mala conotación. Muchas religiones exigen piedad para salvación. Esto no es lo que enseña la Biblia. 
 
-### 1 Timoteo 2:8b "*los hombres oren levantando manos santas...*"
+La piedad es algo que agrada a Dios y sirve como medio para el alcance del mundo perdido. Son hechos palpables que el mundo puedo observar. 
 
-### 1 Timoteo 2:8c "*sin ira ni discusiones...*"
+### 1 Timoteo 2:8a "*Por tanto, quiero que en todo lugar...*" Entones, a la luz de lo que hemos visto en los versículos anteriores, Pablo expresa su deseo que todos en todo lugar puedan participar. 
 
-### 1 Timoteo 2:9a "*Asimismo, que las mujeres se vistan...*"
+### 1 Timoteo 2:8b "*los hombres oren levantando manos santas...*" Esto es una expresión externa y es con el propósito de mostrar piedad. 
 
-### 1 Timoteo 2:9b "*con ropa decorosa...*"
+### 1 Timoteo 2:8c "*sin ira ni discusiones...*" la ira y las discusiones no deben representarnos como creyentes. 
 
-### 1 Timoteo 2:9c "*con pudor y modestia...*"
+### 1 Timoteo 2:9a "*Asimismo, que las mujeres se vistan...*" Después de hablar a los hombres, ahora Pablo se dirige a las hermanas. 
+
+### 1 Timoteo 2:9b "*con ropa decorosa...*" Pablo no esta sugiriendo vestirse mal o de mal aspecto. Esto seria el mismo error de atraer atención a uno mismo. 
+
+### 1 Timoteo 2:9c "*con pudor y modestia...*" 
 
 ### 1 Timoteo 2:9d "*no con peinado ostentoso...*"
 
 ### 1 Timoteo 2:9e "*no con oro, o perlas, o vestidos costosos...*"
 
-### 1 Timoteo 2:10 "*sino con buenas obras, como corresponde a las mujeres que profesan la piedad...*"
+### 1 Timoteo 2:10 "*sino con buenas obras, como corresponde a las mujeres que profesan la piedad...*" Las mujeres vestidas de buenas obras es palpable y alinea correctamente con lo que profesan. 
 
 ### 1 Timoteo 2:11a "*Que la mujer aprenda calladamente...*"
 
@@ -650,11 +654,11 @@ Title: 1 Timoteo
 
 ### Pablo escribe sobre la adoración apropiada de Dios.
 
-### Por quién debemos orar (1 Timoteo 2:1-2a)
+### Por quién debemos orar. 1 Timoteo 2:1-2a
 
-### Para los que tienen autoridad (1 Timoteo 2:2a)
+### Para los que tienen autoridad. 1 Timoteo 2:2a
 
-### Para todos (1 Timoteo 2:1)
+### Para todos. 1 Timoteo 2:1
 
 ### Por qué debemos orar (1 Timoteo 2:2b): "*Para que podamos vivir en paz y tranquilidad...*".
 
@@ -690,67 +694,71 @@ Title: 1 Timoteo
 
 ### Pablo da calificaciones para pastores y diáconos en la iglesia y da un resumen séxtuple del ministerio terrenal de Jesús.
 
-# VII. 1 Timoteo 3:1-16 -- Instrucción en la selección de líderes en la iglesia
+# VII. 1 Timoteo 3:1-16 - Lideres en la iglesia
 
-### 1 Timoteo 3:1a "*Palabra fiel es esta:...*"
+### 1 Timoteo 3:1a "*Palabra fiel es esta:...*" La frase "*Palabra fiel*" aparece tres veces en 1 Timoteo. 1 Timoteo 1:15, 3:1, 4:9
 
-### 1 Timoteo 3:1b "*si alguien aspira al cargo de obispo...*"
+1 Timoteo 1:15 "*Palabra fiel*" - Cristo vino al mundo para salvar a los pecadores...
 
-### 1 Timoteo 3:1c "*buena obra desea hacer*...".
+1 Timoteo 3:1 "*Palabra fiel*" - si alguien desea obispado buena cosa desea...
 
-### 1 Timoteo 3:2a "*Un obispo debe ser, pues...*"
+1 Timoteo 4:9 "*Palabra fiel*" - por esto trabajamos y sufrimos, porque esperamos al Dios viviente...
+
+### 1 Timoteo 3:1b "*si alguien aspira al cargo de obispo buena obra desea hacer*..." Pablo aquí le aclara a Timoteo que se hay algún hermano que aspira ser anciano que lo reciba la intención con buen ánimo. 
+
+#### Obispo y anciano son términos sinónimos. En realidad hay tres palabras en el griego que son usadas para describir la misma posición de lider en la iglesia. 
+
+##### EPISCOPOS - 
+
+##### PRESBUTEROS - 
+
+##### POIMEN - 
+
+## Requisitos para los anciano 
+
+### Es importante reconocer que TODOS los requisitos dados para el anciano están en tiempo presente. Quiere decir que las condiciones deben ser cumplidos en todo tiempo, no solo un punto en el pasado. 
+
+#### Un anciano que no cumple estos requisitos en cualquier momento, debe dejar a un lado su cargo al menos hasta poner en orden sus cosas. 
+
+### 1 Timoteo 3:2a "*Un obispo* [EPISCOPOS] *debe ser, pues...*"
 
 ### 1 Timoteo 3:2b "*irreprochable...*"
 
 ### 1 Timoteo 3:2c "*marido de una sola mujer...*"
 
-### 1 Timoteo 3:2d "*sobrio*..."
+### 1 Timoteo 3:2d "*sobrio*..." ANEPILEPTOS es sin crítica.
 
-### 1 Timoteo 3:2e "*prudente...*"
+### 1 Timoteo 3:2e "*prudente...*" NEFALIOS quiere decir que es sobrio
 
-### 1 Timoteo 3:2f "*de conducta decorosa...*"
+### 1 Timoteo 3:2f "*de conducta decorosa...*" SOFRONE quiere decir moderado. 
 
-### 1 Timoteo 3:2g "*hospitalario...*"
+### 1 Timoteo 3:2g "*hospitalario...*" FILOXENOS es amable con sus visitas. 
 
-### 1 Timoteo 3:2h "*apto para enseñar...*"
+### 1 Timoteo 3:2h "*apto para enseñar...*" apto para enseñar es una sola palabra DIDAKTIKOS en el griego. Debe ser idóneo para enseñar. 
 
-### 1 Timoteo 3:3a "*no dado a la bebida...*"
+### 1 Timoteo 3:3a "*no dado a la bebida...*" PAROINOS, no dado al vino significa que no se embriaga. No tiene el vicio de la bebida. 
 
-### 1 Timoteo 3:3a "*no pendenciero...*"
+### 1 Timoteo 3:3a "*no pendenciero sino amable...*" no es peleón
 
-### 1 Timoteo 3:3b "*sino amable...*"
+### 1 Timoteo 3:3b "*no contencioso...*"
 
-### 1 Timoteo 3:3c "*no contencioso...*"
-
-### 1 Timoteo 3:3d "*no avaricioso...*"
+### 1 Timoteo 3:3c "*no avaricioso...*"
 
 ### 1 Timoteo 3:4a "*Que gobierne bien su casa...*"
 
 ### 1 Timoteo 3:4b "*teniendo a sus hijos sujetos con toda dignidad;...*"
 
-### 1 Timoteo 3:5 "*(pues si un hombre no sabe cómo gobernar su propia casa, ¿cómo podrá cuidar de la iglesia de Dios?)...*"
+### 1 Timoteo 3:5 "*(pues si un hombre no sabe cómo gobernar su propia casa, ¿cómo podrá cuidar de la iglesia de Dios?)...*" La sabiduría para gobernar bien su propia casa es necesario para sobreveer sobre la cada de Dios. 
 
-### 1 Timoteo 3:6a "*No debe ser un recién convertido...*"
-
-### 1 Timoteo 3:6b "*no sea que se envanezca...*"
+### 1 Timoteo 3:6a "*No debe ser un recién convertido no sea que se envanezca...*" Un creyente nuevo no tiene la madurez de poder estar al frente sin que sea afectado por el orgullo. 
 
 ### 1 Timoteo 3:6c "*y caiga en la condenación en que cayó el diablo...*"
 
-### 1 Timoteo 3:7a "*Debe gozar también de una buena reputación entre los de afuera de la iglesia...*"
+### 1 Timoteo 3:7a "*Debe gozar también de una buena reputación entre los de afuera de la iglesia...*" Tener un buen testimonio entre los vecinos es un requisito para ser anciano. 
 
 ### 1 Timoteo 3:7b "*para que no caiga en descrédito y en el lazo del diablo...*"
 
-### 1 Timoteo 3:8a "*De la misma manera, también los diáconos...*"
-
-### 1 Timoteo 3:8b "*deben serdignos...*"
-
-### 1 Timoteo 3:8c "*de una sola palabra...*"
-
-### 1 Timoteo 3:8d "*no dados al mucho vino...*"
-
-### 1 Timoteo 3:8e "*ni amantes de ganancias deshonestas...*"
-
-## En Síntesis (1 Timoteo 3:1-8)
+## En Síntesis (1 Timoteo 3:1-7)
 
 ### Requisitos para un pastor. 1 Timoteo 3:1-7
 
@@ -778,25 +786,17 @@ Title: 1 Timoteo
 
 ### No debe ser un nuevo cristiano. 1 Timoteo 3:6a
 
-### Requisitos para un diácono. 1 Timoteo 3:8-13
+## Requisitos para los diaconos
 
-### Calificaciones positivas. 1 Timoteo 3:8a, 9-13
+### 1 Timoteo 3:8a "*De la misma manera, también los diáconos...*"
 
-### Debe ser sincero y digno de respeto. 1 Timoteo 3:8a
+### 1 Timoteo 3:8b "*deben ser dignos...*"
 
-### Debe ser un hombre de profundidad espiritual. 1 Timoteo 3:9
+### 1 Timoteo 3:8c "*de una sola palabra...*"
 
-### Debe ser un hombre de carácter y habilidad probados. 1 Timoteo 3:10
+### 1 Timoteo 3:8d "*no dados al mucho vino...*"
 
-### Debe ser fiel a su esposa, y su esposa debe ser una mujer de buen carácter. 1 Timoteo 3:11-13
-
-### Calificaciones negativas. 1 Timoteo 3:8b-8c
-
-### No debe ser un bebedor empedernido. 1 Timoteo 3:8b
-
-### No debe ser codicioso. 1 Timoteo 3:8c
-
-## Titulo de Sección
+### 1 Timoteo 3:8e "*ni amantes de ganancias deshonestas...*"
 
 ### 1 Timoteo 3:9a "*sino guardando el misterio de la fe...*"
 
@@ -830,25 +830,27 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 3:13c "*y gran confianza en la fe que es en Cristo Jesús...*"
 
-## En Síntesis (1 Timoteo 3:9-13)
+## En Síntesis (1 Timoteo 3:8-13)
 
-### LAS OVEJAS EN LA IGLESIA (1 Timoteo 3:14-15): Pablo le dice a Timoteo que instruya a la congregación sobre cómo deben comportarse en la casa de Dios.
+### Requisitos para un diácono. 1 Timoteo 3:8-13
 
-### EL SALVADOR DE LA IGLESIA (1 Timoteo 3:16): En este versículo único y supremo, Pablo da un resumen séxtuple del ministerio terrenal de Jesús. Un. Apareció en un cuerpo. 1 Timoteo 3:16a
+### Calificaciones positivas. 1 Timoteo 3:8a, 9-13
 
-### Fue vindicado por el Espíritu. 1 Timoteo 3:16b
+### Debe ser sincero y digno de respeto. 1 Timoteo 3:8a
 
-### Fue visto por ángeles. 1 Timoteo 3:16c
+### Debe ser un hombre de profundidad espiritual. 1 Timoteo 3:9
 
-### Fue anunciado a las naciones. 1 Timoteo 3:16d
+### Debe ser un hombre de carácter y habilidad probados. 1 Timoteo 3:10
 
-### Se creía en él en el mundo. 1 Timoteo 3:16e
+### Debe ser fiel a su esposa, y su esposa debe ser una mujer de buen carácter. 1 Timoteo 3:11-13
 
-### Fue llevado al cielo. 1 Timoteo 3:16s
+### Calificaciones negativas. 1 Timoteo 3:8b-8c
 
-### Pablo contrasta dos tipos de pastores.
+### No debe ser un bebedor empedernido. 1 Timoteo 3:8b
 
-## Titulo de Sección
+### No debe ser codicioso. 1 Timoteo 3:8c
+
+## La casa de Dios
 
 ### 1 Timoteo 3:14 "*Te escribo estas cosas, esperando ir a verte pronto...*"
 
@@ -861,6 +863,8 @@ Title: 1 Timoteo
 ### 1 Timoteo 3:15d "*que es la iglesia del Dios vivo...*"
 
 ### 1 Timoteo 3:15e "*columna y sostén de la verdad...*"
+
+## El misterio de la piedad
 
 ### 1 Timoteo 3:16a "*E indiscutiblemente, grande es el misterio de la piedad:*"
 
@@ -877,6 +881,22 @@ Title: 1 Timoteo
 ### 1 Timoteo 3:16f "*Recibido arriba en gloria...*"
 
 ## En Síntesis (1 Timoteo 3:14-16)
+
+### LAS OVEJAS EN LA IGLESIA (1 Timoteo 3:14-15): Pablo le dice a Timoteo que instruya a la congregación sobre cómo deben comportarse en la casa de Dios.
+
+### EL SALVADOR DE LA IGLESIA (1 Timoteo 3:16): En este versículo único y supremo, Pablo da un resumen séxtuple del ministerio terrenal de Jesús. Un. Apareció en un cuerpo. 1 Timoteo 3:16a
+
+### Fue vindicado por el Espíritu. 1 Timoteo 3:16b
+
+### Fue visto por ángeles. 1 Timoteo 3:16c
+
+### Fue anunciado a las naciones. 1 Timoteo 3:16d
+
+### Se creía en él en el mundo. 1 Timoteo 3:16e
+
+### Fue llevado al cielo. 1 Timoteo 3:16s
+
+### Pablo contrasta dos tipos de pastores.
 
 # VIII. 1 Timoteo 4:1-16 -- Protección Contra la Apostasía
 
@@ -902,9 +922,9 @@ Title: 1 Timoteo
 
 ## En Síntesis (1 Timoteo 4:1-5)
 
-### Quiénes son (1 Timoteo 4:2): Líderes religiosos hipócritas y mentirosos.
+### Quiénes son: Líderes religiosos hipócritas y mentirosos. 1 Timoteo 4:2
 
-### Lo que harán. 1 Timoteo 4:1b-1c, 3
+### Lo que harán. 1 Timoteo 4:1, 3
 
 ### Abandonar la fe. 1 Timoteo 4:1b
 
@@ -912,7 +932,7 @@ Title: 1 Timoteo
 
 ### Prohibir el matrimonio y el consumo de ciertos alimentos. 1 Timoteo 4:3
 
-### Cuándo lo harán (1 Timoteo 4:1a): En los "últimos tiempos" antes de la venida de Jesús.
+### Cuándo lo harán: En los "últimos tiempos" antes de la venida de Jesús. 1 Timoteo 4:1a
 
 ### Por qué están equivocados. 1 Timoteo 4:4-5
 
@@ -1120,7 +1140,7 @@ Title: 1 Timoteo
 
 ### La razón (1 Timoteo 5:13, 15): Esto los mantendrá alejados de la inmoralidad y de la palabrería.
 
-## II\. LOS PREDICADORES (1 Timoteo 5:17-25): El consejo de Pablo con respecto a los ancianos de la iglesia.
+## II\. La Responsabilidad de la Iglesia por sus obreros (1 Timoteo 5:17-25): El consejo de Pablo con respecto a los ancianos de la iglesia.
 
 ### 1 Timoteo 5:17a "*Los ancianos que gobiernan bien*" 
 
