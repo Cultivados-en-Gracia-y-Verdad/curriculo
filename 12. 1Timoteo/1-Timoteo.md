@@ -168,9 +168,43 @@ Title: 1 Timoteo
 
 ## Autor de la carta:  Un Apostol de Jesucristo
 
-### 1 Timoteo 1:1a "*Pablo, apóstol de Cristo Jesús por mandato de Dios nuestro Salvador, y de Cristo Jesús*" Pablo es el apóstol que firma la carta. 1 Timoteo 1:1, 13, 15, 2:7
+### 1 Timoteo 1:1 "*Pablo, apóstol de Cristo Jesús por mandato de Dios nuestro Salvador, y de Cristo Jesús nuestra esperanza*" 
 
-### 1 Timoteo 1:1b "*nuestra esperanza...*". Jesucristo era la esperanza de Pablo y le recuerda a Timoteo que debe ser su esperanza también. 1 Pedro 1:3; Romanos 5:1-2, 8:24-25
+#### 1 Timoteo 1:1a "*Pablo...*" vemos el nombre de Pablo como firma de esta epistola. 1 Timoteo 1:13, 15, 2:7
+
+##### Pablo, anteriormente llamado Saulo, nacido en la ciudad de Tarso. Hechos 22:3
+
+##### En su vida como incredulo fue un fiel religioso judío (Filipenses 3:4-9) y un fiel perseguidor de los del "Camino", la Iglesia de Dios (Hechos 20:4, Gálatas 1:13).
+
+##### En Hechos 9 podemos encontrar registros de su salvación al ver a Cristo resucitado
+
+##### Hechos 13:9 muestra: "*Entonces **Saulo**, llamado también **Pablo**...*" ahí encontramos que Saulo pasa a ser llamado Pablo durante los días de su primer viaje como apostol de Cristo hasta el día de su martirio en el año 67 d.C aproximadamente.
+
+#### 1 Timoteo 1:1b "*Pablo, apóstol de Cristo Jesús...*" Pablo se describe como un apostol.
+
+##### Cristo escoge a Pablo como Su apostol (enviado, emisario, mensajero) a los gentiles. Hechos 9:15, 22:21; Romanos 11:13; 2 Timoteo 1:11
+
+##### Si bien, encontramos otros apostoles (enviados) mencionados en la escritura (Hechos 14:14, Filipenses 2:25, 2 Corintios 8:23)
+
+##### En la Biblia observamos solo doce apóstoles de Cristo. Apocalipsis 21:14
+
+##### Encontramos que Pablo estaría dentro del grupo de los doce apóstoles:
+
+###### Escogidos directamento por nuestro Señor Jesucristo. 1 Corintios 9:1-2
+
+###### Utilizados como el fundamento de la Iglesia. Efesios 2:19-20, 4:11-12; 2 Pedro 3:2
+
+###### Designados como principales autoridades espirituales bajo la autoridad de Cristo. 1 Corintios 12:28
+
+##### Al día de hoy no encontramos apóstoles de Cristo, directamente designados por Él.
+
+#### 1 Timoteo 1:1c "*...por mandato de Dios nuestro Salvador...*" La designación como apostol hacia Pablo no fue iniciativa del mismo, sino fue por medio de la autoridad e iniciativa de Dios padre.
+
+##### No pasa desapercibido 
+
+#### 1 Timoteo 1:1d "*...por mandato... de Cristo Jesús...*" Pablo es el apóstol que firma la carta. 1 Timoteo 1:1, 13, 15, 2:7
+
+#### 1 Timoteo 1:1e "*...Cristo Jesús nuestra esperanza...*". Jesucristo era la esperanza de Pablo y le recuerda a Timoteo que debe ser su esperanza también. 1 Pedro 1:3; Romanos 5:1-2, 8:24-25
 
 ## Receptor de la carta: El bien amado de Pablo
 
