@@ -218,13 +218,23 @@ Title: 1 Timoteo
 
 ##### Al día de hoy no encontramos apóstoles de Cristo, directamente designados por Él.
 
-#### 1 Timoteo 1:1c "*...por mandato de Dios nuestro Salvador...*" La designación como apostol hacia Pablo no fue iniciativa del mismo, sino fue por medio de la autoridad e iniciativa de Dios padre.
+#### 1 Timoteo 1:1c "*...por mandato de Dios nuestro Salvador...*" la iniciativa y la autoridad en designar a Pablo como apostol a los gentiles vino directamente de Dios Padre.
 
-##### No pasa desapercibido 
+##### Las primeras palabras en esta carta demuestran quien es el que esta al control del trabajo de Pablo, quien es el iniciador y proveedor en su apostolado, Dios mismo. Gálatas 1:1, 11-12
 
-#### 1 Timoteo 1:1d "*...por mandato... de Cristo Jesús...*" Pablo es el apóstol que firma la carta. 1 Timoteo 1:1, 13, 15, 2:7
+##### Dios Padre es descrito aquí como Salvador (Redentor, Libertador). No se queda ahí sino que el Espiritu Santo inspiro las palabras "*...nuestro Salvador...*", no solo era el Salvador único y eterno de Pablo, sino tambien lo era de su hijo en la fe, Timoteo. Judas 1:24-25
 
-#### 1 Timoteo 1:1e "*...Cristo Jesús nuestra esperanza...*". Jesucristo era la esperanza de Pablo y le recuerda a Timoteo que debe ser su esperanza también. 1 Pedro 1:3; Romanos 5:1-2, 8:24-25
+##### Vemos que el apostolado de Pablo no fue por iniciativa propia, sino que era orquestado por su Salvador.
+
+#### 1 Timoteo 1:1d "*...por mandato... de Cristo Jesús...*" en total armonia con el Padre, Cristo tambien es el originador del trabajo de Pablo para Su Obra, la edificación de Su Iglesia (Sus llamados afuera). Hechos 26:15-18
+
+#### 1 Timoteo 1:1e "*...Cristo Jesús nuestra esperanza...*". Notese las palabras de este versiculo, no dice que Jesucristo nos da esperanza. Sino que Jesucristo era la esperanza de Pablo y le recuerda a Timoteo que tambien era su esperanza. Romanos 8:24-25
+
+##### Jesucristo es tambien ahora la esperanza de cada persona que creyó en Él, en Su persona y Su obra completa (Su muerte por los pecados, Su sepultura y Su resurección). Si tú tambien creiste en Jesucristo, como Pablo y Timoteo, Él tambien es ahora y para siempre tu esperanza.
+
+##### 1 Pedro 1:3, Jesucristo es por medio de quien tienes una esperanza viva, porque Él vive.
+
+##### Romanos 5:1-2, Jesucristo es por medio de quien has sido declarado justo delante del Padre y ahora puedes gozarte en la esperanza de Su Gloria.
 
 ## Receptor de la carta: El bien amado de Pablo
 
