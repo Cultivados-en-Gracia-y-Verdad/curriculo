@@ -64,7 +64,7 @@ Title: 1 Timoteo
 
 ### Pablo quería llevarlo en su viaje misionero, pero Timoteo no estaba circuncidado. Pablo lo circuncidó y viajaron juntos en su segundo viaje misionero.[^2]
 
-### Timoteo estaría con Pablo durante su primer encarcelamiento en Roma. Sin embargo, cuando se escribió 1 Timoteo, Timoteo se encontraba en Éfeso, sirviendo como líder entre las diversas iglesias domésticas que existían entonces.[^2] 
+### Timoteo estaría con Pablo durante su primer encarcelamiento en Roma. Sin embargo, cuando se escribió 1 Timoteo, Timoteo se encontraba en Éfeso, sirviendo como líder entre las diversas iglesias domésticas que existían entonces.[^2]
 
 ### Su labor incluía la evangelización, la enseñanza, la lectura de las Escrituras, el nombramiento de ancianos y diáconos, y la oposición a las falsas enseñanzas. Pablo le escribió, probablemente desde Macedonia, para animarlo en su fiel servicio a Cristo.[^2] 
 
@@ -96,37 +96,35 @@ Title: 1 Timoteo
 
 ## La Palabra Iglesia y su orígen
 
-### Mateo 16:18 "*Yo también te digo que tú eres Pedro, y sobre esta roca edificaré Mi iglesia; y las puertas del Hades no prevalecerán contra ella.*"
+### Mateo 16:18 "*Yo también te digo que tú eres Pedro, y sobre esta roca **edificaré Mi iglesia**; y las puertas del Hades no prevalecerán contra ella.*"
 
-### *Ekklesia* (o eclesia) es la palabra griega traducida en el Nuevo Testamento como "iglesia". Proviene de *ek*, que significa "salir de hacia a" y *kaleo*, que significa "llamar", y tiene que ver con un grupo de personas llamadas de un lugar a otro. [^4]
+### *Ekklesia* es la palabra griega traducida en el Nuevo Testamento como "iglesia". Proviene de *ek*, que significa "salir de" y *kaleo*, que significa "llamar hacia", y tiene que ver con un grupo de personas llamadas de un lugar a otro. 
 
-### Romanos 1:6 "*entre los cuales están también ustedes, llamados de Jesucristo.*"
+#### Romanos 1:6 "*entre los cuales están también ustedes, llamados de Jesucristo.*"
 
-## ¿Llamada afuera de que?
+#### 1 Tesalonicenses 4:7 "*Porque Dios no nos ha llamado a impureza, sino a santificación.*"
 
-### Es una asamblea o una congregación. La *ekklesia* en el Nuevo Testamento es un grupo de personas que han sido llamadas fuera del mundo hacia Dios. Esa es la iglesia.[^4]
+## ¿Llamada de donde?
 
-### 1 Tesalonicenses 4:7 "*Porque Dios no nos ha llamado a impureza, sino a santificación.*"
-
-### 2 Timoteo 1:9 "*Él nos ha salvado y nos ha llamado con un llamamiento santo, no según nuestras obras, sino según Su propósito y según la gracia que nos fue dada en Cristo Jesús desde la eternidad*"
+#### 2 Timoteo 1:9 "*Él nos ha salvado y nos ha llamado con un llamamiento santo, no según nuestras obras, sino según Su propósito y según la gracia que nos fue dada en Cristo Jesús desde la eternidad*"
 
 ## ¿A donde es llamada?
 
 ### 1 Corintios 1:9 "*Fiel es Dios, por medio de quien fueron llamados a la comunión con Su Hijo Jesucristo, nuestro Señor.*"
 
-### Aunque vivimos en el mundo y somos parte de él, la iglesia debe ser distinta. Debemos estar separados de los caminos del mundo y señalar la verdad de Dios. 
+#### Aunque vivimos en el mundo y somos parte de él, la iglesia debe ser distinta. Debemos estar separados de los caminos del mundo y señalar la verdad de Dios. 
 
-### Debemos amar a las personas como Dios lo hace, compartir Su invitación a la salvación con ellos y orar para que ellos también escuchen Su llamado y se unan a Su iglesia. 1 Pedro 3:9
+#### Debemos amar a las personas como Dios lo hace, compartir Su invitación a la salvación con ellos y orar para que ellos también escuchen Su llamado y se unan a Su iglesia. 1 Pedro 3:9
 
-### Hebreos 10:23–25 es un estímulo para cada uno de nosotros que pertenecemos a la *ekklesia* de Dios: "*Mantengamos firme la esperanza que profesamos, porque fiel es el que hizo la promesa. Preocupémonos los unos por los otros, a fin de estimularnos al amor y a las buenas obras. No dejemos de congregarnos, como acostumbran hacerlo algunos, sino animémonos unos a otros, y con mayor razón ahora que vemos que aquel día se acerca.*"[^4]
+#### Hebreos 10:23–25 es un estímulo para cada uno de nosotros que pertenecemos a la *ekklesia* de Dios: "*Mantengamos firme la esperanza que profesamos, porque fiel es el que hizo la promesa. Preocupémonos los unos por los otros, a fin de estimularnos al amor y a las buenas obras. No dejemos de congregarnos, como acostumbran hacerlo algunos, sino animémonos unos a otros, y con mayor razón ahora que vemos que aquel día se acerca.*"[^4]
 
-### Gálatas 5:13 "*Porque ustedes, hermanos, **a libertad fueron llamados**; solo que no usen la libertad como pretexto para la carne, sino sírvanse por amor los unos a los otros.*"
+#### Gálatas 5:13 "*Porque ustedes, hermanos, **a libertad fueron llamados**; solo que no usen la libertad como pretexto para la carne, sino sírvanse por amor los unos a los otros.*"
 
 ## ¿Como es llamada, por quién?
 
 ### Gálatas 1:6 "*Me maravillo de que tan pronto ustedes hayan abandonado **a Aquel que los llamó por la gracia de Cristo**, para seguir un evangelio diferente*"
 
-## Ekklesia local vs Ekklesia Universal
+## Ekklesia local vs ekklesia universal
 
 ### La Iglesia universal se refiere al cuerpo espiritual de Cristo que está representado por muchas iglesias locales. Si bien hay una sola Iglesia de Jesucristo, tiene muchas diferentes representaciones en diferentes lugares. 
 
@@ -138,35 +136,35 @@ Title: 1 Timoteo
 
 ### Representación universal:
 
-#### Efesios 4:4 "*Hay un solo cuerpo y un solo Espíritu, así como también ustedes fueron llamados en una misma esperanza de su vocación;*"
+#### Efesios 4:4 "*Hay **un solo cuerpo** y un solo Espíritu, así como también ustedes fueron llamados en una misma esperanza de su vocación;*"
 
-#### Colosenses 3:15 "*Que la paz de Cristo reine en sus corazones, a la cual en verdad fueron llamados en un solo cuerpo; y sean agradecidos.*"
+#### Colosenses 3:15 "*Que la paz de Cristo reine en sus corazones, a la cual en verdad fueron llamados en **un solo cuerpo**; y sean agradecidos.*"
 
-#### Judas 1:1 "*Judas , siervo de Jesucristo y hermano de Jacobo, a los llamados, amados en Dios Padre y guardados para Jesucristo:*"
+#### Judas 1:1 "*Judas , siervo de Jesucristo y hermano de Jacobo, a los **llamados**, amados en Dios Padre y guardados para Jesucristo:*"
 
 # III.1 Timoteo 1:1-2 - Saludos 
 
-## A. Autor de la carta:  Un Apostol de Jesucristo
+## Autor de la carta:  Un Apostol de Jesucristo
 
 ### 1 Timoteo 1:1a "*Pablo, apóstol de Cristo Jesús por mandato de Dios nuestro Salvador, y de Cristo Jesús*" Pablo es el apóstol que firma la carta. 1 Timoteo 1:1, 13, 15, 2:7
 
 ### 1 Timoteo 1:1b "*nuestra esperanza...*". Jesucristo era la esperanza de Pablo y le recuerda a Timoteo que debe ser su esperanza también. 1 Pedro 1:3; Romanos 5:1-2, 8:24-25
 
-## B. Receptor de la carta: El bien amado de Pablo
+## Receptor de la carta: El bien amado de Pablo
 
 ### 1 Timoteo 1:2a "*a Timoteo, verdadero hijo en la fe:*" ...Timoteo es el hijo espiritual amado de Pablo en la fe.
 
-### De las numerosas instrucciones y mandatos que Pablo dio a Timoteo en 1 Timoteo, es evidente que Pablo lo tenía en alta estima y le confió una inmensa carga de trabajo. 
+#### De las numerosas instrucciones y mandatos que Pablo dio a Timoteo en 1 Timoteo, es evidente que Pablo lo tenía en alta estima y le confió una inmensa carga de trabajo. 
 
-### 1 Timoteo 1:2b "*Gracia...*" gracia es CHARIS.  Significaba varias cosas que veremos. 
+### 1 Timoteo 1:2b "*Gracia...*" es la palabra CHARIS.  Significaba varias cosas en el primer siglo como veremos. 
 
-#### La palabra gracia en el griego del primer siglo abarca tres sentidos principales.[^6] 
+#### El uso de la  palabra gracia en el griego del primer siglo abarca tres sentidos principales.[^6] 
 
-##### Bondad - es amabilidad de una persona respecto a otra.[^7] Lucas 4:22
+##### **Gracia como Bondad** - amabilidad de una persona respecto a otra.[^7] Lucas 4:22
 
-##### Favor - significa, "ayuda o socorro que se concede a alguien".[^7]Lucas 1:30, 2:52; Hechos 2:47
+##### **Gracia como Favor** - ayuda o socorro que se concede a alguien.[^7]Lucas 1:30, 2:52; Hechos 2:47
 
-##### Gratitud - significa, "sentimiento de la persona que agradece un favor recibido".[^8] Lucas 17:9; Romanos 6:17; 1 Timoteo 1:12; 2 Timoteo 1:3; Hebreos 12:28
+##### **Gracia como Gratitud** - sentimiento de la persona que agradece un favor recibido.[^8] Lucas 17:9; Romanos 6:17; 1 Timoteo 1:12; 2 Timoteo 1:3; Hebreos 12:28
 
 ##### Un saludo - en muchas ocaciones Pablo usaba la palabra gracia para saludar y despedirse. Romanos 1:7
 
@@ -251,12 +249,25 @@ Title: 1 Timoteo
 ### 1 Timoteo 1:4f "*así te encargo ahora*". En otra ocación Pablo le dirá a Timoteo que encargue hombres fieles que sean idoneos para enseñar a otros. 2 Timoteo 2:2
 
 ## 1 Timoteo 1:5 El propósito correcto de la instrucción
+<<<<<<< Updated upstream
  
 ### 1 Timoteo 1:5a "*Pero el propósito de nuestra instrucción...*" Pablo prosigue buscando abrir el entendimiento de Timoteo al mostrarle la motivación de la enseñanza en la iglesia. 
+=======
+
+### 1 Timoteo 1:5a "*Pero el propósito de nuestra instrucción...*" Pero, en contraste con la enseñanza desviada de la verdad, Pablo prosigue buscando abrir el entendimiento de Timoteo al mostrarle la motivación de la enseñanza en la iglesia. 
+
+La enseñanza de Pablo y Timoteo es una instrucción diferente. No son compatibles. Tener a las dos enseñanzas al mismo tiempo no llevaría a la iglesia a crecer. 
+
+No es que Pablo tiene algo personal contra uno de ellos. Es que simplemente su enseñanza se ha desviado del Evangelio.  
+>>>>>>> Stashed changes
 
 ### 1 Timoteo 1:5b "*es el amor*". Sin la instrucción en verdad, no puede haber amor. Sin amor, no se recibe la verdad. 
 
-#### Pablo no enseñaba por enseñar. Sus intenciones en enseñar no eran para beneficio personal 
+#### Pablo no enseñaba por enseñar. Sus intenciones en enseñar no eran para beneficio personal era el amor que nace de la verdad. 
+
+Sin la verdad, no hay amor. 
+
+Sin la verdad, no puede haber unidad. La unidad es en base a la verdad. 
 
 ### 1 Timoteo 1:5c "*es el amor...nacido de corazón puro,*" 
 
@@ -275,6 +286,10 @@ Title: 1 Timoteo
 #### Cuando una herramienta es utilizada para algo que no es su uso, puede resultar ser peligroso y dañino. 
 
 #### Al querer ser maestros de La Ley, estas personas estaban dando un mal uso a una buena herramienta y terminó en algo dañino para la iglesia. 
+
+Se apartaron de la verdad para apuntar hacia vana palabrería. Hacen declaraciones categóricas al intentar ser maestros de la ley. Se apartaron de la gracia creando algo nuevo. Algo estéril, un cancer, doctrina de demonios. 1 Timoteo 4:1, Gálatas 3:12-13
+
+Su mensaje contenia Palabras vanas tales como: la auto-negación religiosa, el formalismo religioso, las disciplinas espirituales, la vestimenta, las reuniones, la comida, etc. etc.. 
 
 ### 1 Timoteo 1:7b "*aunque no saben lo que dicen ni entienden las cosas acerca de las cuales hacen declaraciones categóricas.*"
 
@@ -718,13 +733,13 @@ La piedad es algo que agrada a Dios y sirve como medio para el alcance del mundo
 
 ##### POIMEN - 
 
-En cada caso, siempre los vemos a estos líderes en plural. El cual nos lleva a pensar en la práctica de la pluralidad de liderazgo. Si bien puede haber un anciano que se llama pastor que tiene el don de pastorear, no es el único anciano. El es parte del concilio de ancianos. 
+#### En cada caso, siempre los vemos a estos líderes en plural. El cual nos lleva a pensar en la práctica de la pluralidad de liderazgo. Si bien puede haber un anciano que se llama pastor que tiene el don de pastorear, no es el único anciano. El es parte del concilio de ancianos. 
 
-¿Es necesario que una iglesia local coloque ancianos? 
+#### ¿Es necesario que una iglesia local coloque ancianos? 
 
-Aunque el rol de anciano es bíblico y justamente el trabajo de Timoteo en Efeso fue establecer ancianos y diáconos, es una mala practica colocar personas indebidas (que no califican) como ancianos. Estas personas pueden llevar a toda la iglesia al descarrio. 
+#### Aunque el rol de anciano es bíblico y justamente el trabajo de Timoteo en Efeso fue establecer ancianos y diáconos, es una mala practica colocar personas indebidas (que no califican) como ancianos. Estas personas pueden llevar a toda la iglesia al descarrio. 
 
-Es mejor estar sin ancianos y diaconos que escogerlos sin que califiquen bíblicamente. 
+#### Es mejor estar sin ancianos y diaconos que escogerlos sin que califiquen bíblicamente. 
 
 ## Requisitos para los anciano 
 
@@ -802,7 +817,7 @@ Es mejor estar sin ancianos y diaconos que escogerlos sin que califiquen bíblic
 
 ## Requisitos para los diaconos
 
-### 1 Timoteo 3:8a "*De la misma manera, también los diáconos...*"
+### 1 Timoteo 3:8a "*De la misma manera, también los diáconos...*" la condiciónes para diáconos son de la misma manera. Deben ser cumplidos de manera continua. 
 
 ### 1 Timoteo 3:8b "*deben ser dignos...*"
 
@@ -873,6 +888,8 @@ Es mejor estar sin ancianos y diaconos que escogerlos sin que califiquen bíblic
 ### 1 Timoteo 3:15b "*te escribo...*"
 
 ### 1 Timoteo 3:15c "*para que sepas cómo debe conducirse uno en la casa de Dios...*"
+
+La casa De Dios. Mateo 12:4, Marcos 2:26, Lucas 6:4, 11:51; 1 Timoteo 3:15, Hebreos 3:2, 5, 6, 10:21; 1 Pedro 4:17
 
 ### 1 Timoteo 3:15d "*que es la iglesia del Dios vivo...*"
 
@@ -1008,7 +1025,7 @@ Es mejor estar sin ancianos y diaconos que escogerlos sin que califiquen bíblic
 
 ### 1 Timoteo 4:13e "*y la enseñanza*".
 
-### 1 Timoteo 4:14a "*No descuides el don espiritual que está en ti*",
+### 1 Timoteo 4:14a "*No descuides el don espiritual que está en ti*"
 
 ### 1 Timoteo 4:14b "*que te fue conferido por medio de la profecía con la imposición de manos del presbiterio*".
 
