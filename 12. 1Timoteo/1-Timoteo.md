@@ -22,23 +22,23 @@ Title: 1 Timoteo
 # I. Introducción 
 ## A. A primera vista
 
-### La maravilla de la iglesia esta en el hecho que Cristo la concibió en sus planes desde antes de la fundación del mundo (Efesios 1:4), la compró con Su sangre (Hechos 20:28), la estableció (Mateo 16:18) y promete preservarla eternamente (Mateo 16:18). 
+### La maravilla de la iglesia esta en el hecho que Cristo la concibió en sus planes desde antes de la fundación del mundo (Efesios 1:4), la compró con Su sangre (Hechos 20:28), la estableció (Mateo 16:18) y prometió preservarla eternamente (Mateo 16:18). 
 
-### La Iglesia no pertenece a ninguna institución humana como decir el vaticano, alguna denominación, las naciones unidas, algún país, algún hombre en particular. Efesios 5:27
+### La Iglesia no pertenece a ninguna institución humana como decir el vaticano, alguna denominación, las naciones unidas, algún país o algún hombre en particular. Efesios 5:27
 
 ### La iglesia no pertenece a personas como misioneros, primeros fundadores, ancestros, maestros, ancianos,  diáconos. La iglesia no pertenece a personas que ofrendaron por comprar el lote y un edificio. 3 Juan 1:9-10
 
-### Tradicionalmente, el libro de 1 Timoteo ha sido descrito como una carta pastoral, junto con 2 Timoteo y Tito. La tendencia de la Iglesia entonces, ha sido que solo líderes cristianos sean enseñados en 1 Timoteo para capacitarlos en su ministerio, pero la congregación se ha quedado sin comprender las verdades que contiene. 1 Timoteo 3:15
+### Tradicionalmente, el libro de 1 Timoteo ha sido descrito como una carta pastoral, junto con 2 Timoteo y Tito. La tendencia de la Iglesia entonces, ha sido que solo líderes cristianos tengan la necesidad de estudiar 1 Timoteo para así ser capacitados en su ministerio. Lamentablemente este pensamiento concluyo en congregaciones que se quedaron sin comprender las verdades que contiene esta epistola. 1 Timoteo 3:15
 
-### Vemos en 2 Timoteo 3:16 que toda la revelación de nuestro Señor es util para cada uno de Sus santos, entonces 1 Timoteo es escrito para todo creyente tambien. Es tan provechoso para la persona mayor como para el jóven. También para personas que están siendo equipados para servir.
+### Vemos en 2 Timoteo 3:16 que toda la revelación de nuestro Señor es util para la instrucción de cada uno de Sus santos, por lo tanto, 1 Timoteo ha sido escrito para todo creyente. 
 
-### Este precioso libro contiene instrucción importante para hermanos mayores, hermanas mayores, hermanas jóvenes y hermanos jóvenes. 
+### Este precioso libro tambien contiene instrucción importante para hermanos mayores, hermanas mayores, hermanas jóvenes y hermanos jóvenes. 
 
 ### Si alguna vez te preguntaste "¿Qué es la Iglesia?", "¿Cual es mi parte dentro de la Iglesia?", "¿Cómo debemos conducirnos en ella?", entonces el contenido de este libro te guiará a la esencia de que es la Iglesia de Jesucristo y como debe andar ordenadamente. Asi que creyente, ¡pon atención a este hermoso y valioso libro!
 
 ## B. Información General
 
-### El género del libro es Epístola, una carta escrita a alguien. Timoteo es el único individuo que recibió dos cartas inspiradas. 
+### El género del libro es didactico, una carta escrita a alguien. Timoteo es el único individuo que recibió dos cartas inspiradas. 
 
 ### El libro de 1 Timoteo contiene tres poemas. 1 Timoteo 1:17, 3:16, 6:15-16
 
@@ -50,7 +50,7 @@ Title: 1 Timoteo
 
 </hr>
 
-### En tres ocaciones encontramos a Pablo indicando una declaración como "fiel". 1 Timoteo 1:15, 3:1, 4:9[^3]
+### En tres ocaciones encontramos a Pablo indicando una declaración como "palabra fiel". 1 Timoteo 1:15, 3:1, 4:9[^3]
 
 ## C. Autor y receptor del libro 
 
@@ -58,17 +58,17 @@ Title: 1 Timoteo
 
 ### Timoteo era un joven nacido Listra, en la actual Turquía, hijo de padre griego y madre judía. Su madre, Eunice, y su abuela, Loida, también eran creyentes (2 Timoteo 1:5).[^2] 
 
-### Ellas lo habían instruido en el conocimiento de las Sagradas Escrituras (Antiguo Testamento). 2 Timoteo 3:15[^2] 
+### Ellas lo habían instruido en el conocimiento de las Sagradas Escrituras. 2 Timoteo 3:15[^2] 
 
-### Pablo lo convirtió al cristianismo (1 Timoteo 1:2). En Hechos 16:1-5, aprendemos que Timoteo tenía buen testimonio delante de los creyentes de Listra e Iconio.[^2] 
+### Timoteo fue discipulado por Pablo (1 Timoteo 1:2). En Hechos 16:1-5, aprendemos que Timoteo tenía buen testimonio delante de los hermanos de Listra e Iconio.[^2] 
 
-### Pablo quería llevarlo en su viaje misionero, pero Timoteo no estaba circuncidado. Pablo lo circuncidó y viajaron juntos en su segundo viaje misionero.[^2]
+### Pablo deseaba llevarlo en su segundo viaje misionero, por lo que tuvo que circunsidarlo por causa de los judios. Entonces Timoteo lo acompaño en su viaje. Timoteo llego a ser un fiel compañero en el Señor para Pablo. 1 Corintios 4:17[^2]
 
-### Timoteo estaría con Pablo durante su primer encarcelamiento en Roma. Sin embargo, cuando se escribió 1 Timoteo, Timoteo se encontraba en Éfeso, sirviendo como líder entre las diversas iglesias domésticas que existían entonces.[^2]
+### Timoteo estaría con Pablo durante su primer encarcelamiento en Roma. Sin embargo, al momento de la escritura de 1 Timoteo, el joven Timoteo se encontraba en Éfeso, sirviendo como evangelista entre las diversas iglesias domésticas que existían en ese entonces. 1 Timoteo 1:3[^2]
 
-### Su labor incluía la evangelización, la enseñanza, la lectura de las Escrituras, el nombramiento de ancianos y diáconos, y la oposición a las falsas enseñanzas. Pablo le escribió, probablemente desde Macedonia, para animarlo en su fiel servicio a Cristo.[^2] 
+### Su labor incluía la proclamación del evangelio, la enseñanza, la lectura de las Escrituras, el nombramiento de ancianos y diáconos, y la oposición a las falsas enseñanzas. Pablo le escribió, probablemente desde Macedonia, para animarlo en su fiel servicio a Cristo. 1 Timoteo 1:18[^2]
 
-### Timoteo cumplió algún tiempo en la cárcel por su fe, y luego fue liberado (Hebreos 13:23).[^2]
+### Timoteo cumplió algún tiempo en la cárcel por la fe, y luego fue liberado (Hebreos 13:23).[^2]
 
 ## D. Trasfondo Cultural/Histórico
 
@@ -78,13 +78,13 @@ Title: 1 Timoteo
 
 ### Había dejado a Timoteo a cargo de la obra en Éfeso y se había ido a Macedonia (1 Timoteo 1:3), posiblemente a Filipos, como esperaba.  Filipenses 2:24[^1]
 
-### Deseaba ayudar a Timoteo a afrontar los problemas de doctrina, disciplina y formación eclesiástica, que eran cada vez más urgentes. [^1]
+### Deseaba ayudar a Timoteo a afrontar los problemas de doctrina, disciplina y formación eclesiástica, que eran cada vez más urgentes. 1 Timoteo 4:16[^1]
 
-### Aquí encontramos sabias palabras del Apostol Pablo a un joven ministro a quien estimaba.
+### Aquí encontramos sabias palabras del Apostol Pablo a un joven ministro a quien estimaba. 1 Timoteo 6:11-12
 
 ## E. Tema Principal
 
-### El tema principal de la carta: como establecer y conducir una iglesia como columna y sostén de la verdad apta para resistir la falsa enseñanza.
+### El tema principal de la carta: Como establecer y conducir una iglesia como columna y sostén de la verdad apta para resistir la falsa enseñanza.
 
 ### 1 Timoteo 3:14-15 "*Te escribo estas cosas, esperando ir a verte pronto, pero en caso que me tarde, **te escribo para que sepas cómo debe conducirse uno en la casa de Dios**, que es la iglesia del Dios vivo, columna y sostén de la verdad.*"
 
@@ -103,6 +103,8 @@ Title: 1 Timoteo
 ### Dios uso diferentes agentes para la predicación de su palabra, con el propósito de alcanzar al mundo perdido, entre ellos, específicamente, en este tiempo, Dios lo esta llevando a cabo, a través de la iglesia. Colosenses 1:25; 1 Timoteo 3:15.
 
 ### Por tal motivo es bueno que nos hagamos la pregunta ¿qué es la iglesia?, ¿quien fundo la iglesia?, ¿a quien le pertenece la iglesia?, ¿cuando inicio?, ¿cuando termina? y ¿quienes forman parte de ella?.
+
+# II. La Iglesia de Jesucristo
 
 ## La Palabra Iglesia y su orígen
 
@@ -124,17 +126,21 @@ Title: 1 Timoteo
 
 ### 1 Corintios 1:9 "*Fiel es Dios, por medio de quien fueron llamados a la comunión con Su Hijo Jesucristo, nuestro Señor.*"
 
-#### Aunque vivimos en el mundo y somos parte de él, la iglesia debe ser distinta. Debemos estar separados de los caminos del mundo y señalar la verdad de Dios. 
+#### Aunque vivimos en el mundo y somos parte de él, la iglesia debe ser distinta. Debemos estar separados de los caminos del mundo y señalar la verdad de Dios. Filipenses 2:12-16 
 
-#### Debemos amar a las personas como Dios lo hace, compartir Su invitación a la salvación con ellos y orar para que ellos también escuchen Su llamado y se unan a Su iglesia. 1 Pedro 3:9
+#### Debemos amar a las personas como Dios lo hace, compartir Su invitación a la salvación con ellos y orar para que ellos también escuchen Su llamado y se unan a Su iglesia. 1 Timotemo 2:1-4; 1 Pedro 3:9
 
 #### Hebreos 10:23–25 es un estímulo para cada uno de nosotros que pertenecemos a la *ekklesia* de Dios: "*Mantengamos firme la esperanza que profesamos, porque fiel es el que hizo la promesa. Preocupémonos los unos por los otros, a fin de estimularnos al amor y a las buenas obras. No dejemos de congregarnos, como acostumbran hacerlo algunos, sino animémonos unos a otros, y con mayor razón ahora que vemos que aquel día se acerca.*"[^4]
 
 #### Gálatas 5:13 "*Porque ustedes, hermanos, **a libertad fueron llamados**; solo que no usen la libertad como pretexto para la carne, sino sírvanse por amor los unos a los otros.*"
 
+#### 1 Timoteo 4:9-10 "*Palabra fiel es esta, y digna de ser recibida por todos. Que por esto mismo trabajamos y sufrimos oprobios, **porque esperamos en el Dios viviente**, que es el Salvador de todos los hombres, mayormente de los que creen.*"
+
 ## ¿Como es llamada, por quién?
 
 ### Gálatas 1:6 "*Me maravillo de que tan pronto ustedes hayan abandonado **a Aquel que los llamó por la gracia de Cristo**, para seguir un evangelio diferente*"
+
+### 2 Tesalonicenses 2:14 "*a lo cual **os llamó mediante nuestro evangelio**, para alcanzar la gloria de nuestro Señor Jesucristo.*"
 
 ## Ekklesia local vs ekklesia universal
 
@@ -144,15 +150,19 @@ Title: 1 Timoteo
 
 #### 1 Corintios 1:2 "*a la iglesia de Dios que está **en Corinto**, a los que han sido santificados en Cristo Jesús, llamados a ser santos...*" 
 
-#### Romanos 1:7 "*A todos los amados de Dios que están en Roma, llamados a ser santos...*"
+#### Romanos 1:7 "*A todos los amados de Dios que están **en Roma**, llamados a ser santos...*"
 
 ### Representación universal:
+
+#### Efesios 1:22-23 "*Y todo lo sometió bajo Sus pies, y a Él lo dio por cabeza sobre todas las cosas a **la iglesia, la cual es Su cuerpo,** la plenitud de Aquel que lo llena todo en todo. *"
+
+#### Efesios 2:15 "*...para crear en Él [Cristo] mismo de los dos un **nuevo hombre**, estableciendo así la paz,*"
 
 #### Efesios 4:4 "*Hay **un solo cuerpo** y un solo Espíritu, así como también ustedes fueron llamados en una misma esperanza de su vocación;*"
 
 #### Colosenses 3:15 "*Que la paz de Cristo reine en sus corazones, a la cual en verdad fueron llamados en **un solo cuerpo**; y sean agradecidos.*"
 
-#### Judas 1:1 "*Judas , siervo de Jesucristo y hermano de Jacobo, a los **llamados**, amados en Dios Padre y guardados para Jesucristo:*"
+#### Judas 1:1 "*Judas , siervo de Jesucristo y hermano de Jacobo, a los **llamados**, **amados en Dios Padre** y **guardados para Jesucristo**:*"
 
 # III.1 Timoteo 1:1-2 - Saludos 
 
@@ -164,7 +174,7 @@ Title: 1 Timoteo
 
 ## Receptor de la carta: El bien amado de Pablo
 
-### 1 Timoteo 1:2a "*a Timoteo, verdadero hijo en la fe:*" ...Timoteo es el hijo espiritual amado de Pablo en la fe.
+### 1 Timoteo 1:2a "*a Timoteo, verdadero hijo en la fe:*" ...Timoteo un hijo espiritual, amado de Pablo.
 
 #### De las numerosas instrucciones y mandatos que Pablo dio a Timoteo en 1 Timoteo, es evidente que Pablo lo tenía en alta estima y le confió una inmensa carga de trabajo. 
 
@@ -178,9 +188,9 @@ Title: 1 Timoteo
 
 ##### **Gracia como Gratitud** - sentimiento de la persona que agradece un favor recibido.[^8] Lucas 17:9; Romanos 6:17; 1 Timoteo 1:12; 2 Timoteo 1:3; Hebreos 12:28
 
-##### Un saludo - en muchas ocaciones Pablo usaba la palabra gracia para saludar y despedirse. Romanos 1:7
+##### Gracia como saludo - en cada ocacion, Pablo usó la palabra gracia para saludar y despedirse en su escritos. Romanos 1:7
 
-#### Bíblicamente la palabra gracia en la edad de la iglesia es muy importante y llega a tener un significado propio. 
+#### Bíblicamente, en la edad de la iglesia, la palabra gracia es muy importante y llega a tener un significado propio. 
 
 ##### La gracia fué profetizada e indigada por los profetas de la antigüedad. 1 Pedro 1:10
 
@@ -192,9 +202,9 @@ Title: 1 Timoteo
 
 ##### La gracia es gratuita, no es por obras o merecimiento. Romanos 11:6, 3:24; Efesios 4:7
 
-##### Dios llama por medio de la gracia. Hechos 18:27; Gálatas 1:6, Colosenses 1:6, 2 Timoteo 1:9
+##### Dios nos llama por medio de la gracia. Hechos 18:27; Gálatas 1:6, Colosenses 1:6, 2 Timoteo 1:9
 
-##### La salvación es por gracia - buena voluntad libremente difundida (por Dios); especialmente para beneficio del receptor, independientemente del beneficio acumulado para el difundidor.[^9] Efesios 2:8; Hechos 15:11
+##### La salvación por gracia - buena voluntad libremente difundida (por Dios); especialmente para beneficio del receptor, independientemente del beneficio acumulado para el difundidor.[^9] Efesios 2:8; Hechos 15:11
 
 ###### Somos justificados libremente por su gracia. Romanos 3:24, Tito 3:7
 
@@ -208,84 +218,105 @@ Title: 1 Timoteo
 
 ##### La gracia es lo que edifica al creyente. Hechos 20:32, Tito 2:12
 
-###### Pablo siempre animaba a los hermanos a permanecer en la gracia. Hechos 13:43, 20:24, Filipenses 4:23, 2 Timothy 2:1
+###### Pablo siempre animaba a los hermanos a permanecer en la gracia. Hechos 13:43, 20:24, Filipenses 4:23, 2 Timoteo 2:1
 
 ###### Pedro animó a sus lectores a crecer en la gracia. 2 Pedro 1:2, 3:18
 
-### 1 Timoteo 1:2c "*misericordia*..." esta palabra, ELEOS, también es traducido compasión. 
+### 1 Timoteo 1:2c "*misericordia*..." esta palabra, ELEOS, puede ser traducido compasión. 
 
 ### 1 Timoteo 1:2d "*y paz...*" EIRENE es posible que Pablo juntó dos saludos (griego-favor y hebreo-paz) para hacer el suyo. 
 
 #### más que un simple saludo, Pablo deseaba que la paz de Cristo gobierne en el corazón de Timoteo. 2 Timoteo 2:22; 1 Tesalonicenses 5:23
 
-### 1 Timoteo 1:2e "*de parte de Dios Padre...*"
+### 1 Timoteo 1:2e "*de parte de Dios Padre...*" la gracia, misericordia y paz que Pablo deseaba para Timoteo provienen de Dios Padre.  
 
-### 1 Timoteo 1:2f "*y de Cristo Jesús nuestro Señor*". Cristo no solo es "*nuestra esperanza*", también es "*nuestro Señor*". Pablo y Timoteo servían a Jesucristo. 
+### 1 Timoteo 1:2f "*y de Cristo Jesús nuestro Señor*". No solo de Dios Padre sino también de parte de Jesucristo. 
 
-#### La gracia, la misericordia y la paz provienen de Jesucristo. La expresión de Pablo es que Timoteo los podría experimentar plenamente. 
+#### Pablo introdujo a Cristo en la carta como Señor. Cristo no solo es "*nuestra esperanza*", también es "*nuestro Señor*". Pablo y Timoteo compartían el mismo Señor,  Jesucristo. 
+
+### La expresión de Pablo indica que deseaba que Timoteo podría experimentar más plenamente la gracia, misericordia y paz de Dios. 
 
 # IV.1 Timoteo 1:3-20 -- Batallando por la Gracia
 
 ## 1 Timoteo 3:1-4 El apartarse de la instrucción bíblica
 
-### 1 Timoteo 1:3a "*Tal como te rogué al salir para Macedonia que te quedaras en Éfeso*..." Evidéntemente, al salir para Macedonia, Pablo había rogado a Timoteo que se quedara en Efeso. 
+### 1 Timoteo 1:3a "*Tal como te rogué al salir para Macedonia que te quedaras en Éfeso*..." Evidentemente, al salir para Macedonia, Pablo había rogado a Timoteo que se quedara en Efeso. Hechos 18:21
 
-### 1 Timoteo 1:3b "*...para que instruyeras a algunos que no enseñaran doctrinas extrañas...*" Algunos en la congregación estaban enseñando una doctrina difentente a la que enseña la Biblia . 
+### 1 Timoteo 1:3b "*...para que instruyeras a algunos que no enseñaran doctrinas extrañas...*" Algunos en la congregación estaban enseñando una doctrina difentente al mensaje de la Biblia. 
 
-#### La frase "enseñaran doctrinas extrañas" es la palabra HETERODIDASKALEO en griego. Significa enseñar "otra doctrina" o "desviar de la verdad". 
+#### La frase "*enseñaran doctrinas extrañas*" es la palabra HETERODIDASKALEO. Significa enseñar "otra doctrina" o "desviarse de la verdad". 
 
-#### Debemos comprender que tipo de enseñanza que cambie el evangelio o que vaya en contra de la escritura es considerdo una doctrina extreña. 1Co 15:3-4, Gal 1:6-9
-
-#### La enseñanza en la iglesia no debe provenir de un lugar que no sea La Palabra de Dios correctamente enseñada según el contexto. 
+#### Debemos comprender que cualquier tipo de enseñanza que cambie el evangelio, que vaya en contra de la escritura es considerdo una doctrina extraña. 1 Corintios 15:3-4, Gálatas 1:6-9
+### La enseñanza en la iglesia no debe provenir de un lugar que no sea La Palabra de Dios correctamente entendida dentro de su contexto. 
 
 ### 1 Timoteo 1:4a "*ni prestaran atención*..." La observación del Texto bíblico es muy importante. A lo que prestemos atención afectará los resultados de nuestra instrucción. 
 
-### 1 Timoteo 1:4b "*a mitos*..." Se refiere a prestar atención a fabulas o cosas de ficción.
+Algunos estaban dedicando su atención a cosas que desviaban del verdadero conocimiento de Cristo. 
 
-### 1 Timoteo 1:4c "*y genealogías interminables*..." la genealogía es importante entre la cultura judia. La descendencia de uno definia su tribu  y quien era su ancestro. 
+### 1 Timoteo 1:4b "*a mitos*..." pusieron su atención en fabulas o cosas de ficción.
 
-#### Sin embargo, se estaba usando el púlpito para enseñar a la iglesia genealogías que nunca terminaban. 
+### 1 Timoteo 1:4c "*y genealogías interminables*..." sabemos que la genealogía era importante entre la cultura judia. La descendencia de uno definía su tribu y quien era su ancestro. 
 
-#### Hacer largos recuentos de la historia o genalogía no es enseñanza que llevaría a la madurez. 
+#### Hacer largos recuentos de la historia y genalogías no es enseñanza que llevaría a la madurez. Timoteo debía instruir a estos maestros que dejen de enseñar este tipo de cosas. 
 
-### 1 Timoteo 1:4d "*lo que da lugar a discusiones inútiles*". El resultado de enseñar fabulas y genealogías lleva a disputar inútilmente entre los hermanos. Tito 1:10
+### 1 Timoteo 1:4d "*lo que da lugar a discusiones inútiles*". El resultado de enseñar fabulas y genealogías interminables es que lleva a disputar inútilmente entre los hermanos. Tito 1:10
 
-#### Es poco provechoso que la iglesia se ocupe en estas discusiones inútiles.
+#### La frase "discusiones inútiles" es EKZETESIS. La palabra significa sobre investigación de las cosas. 
+
+#### Es nada provechoso que la iglesia se ocupe en la sobre investigación de cosas inútiles.
 
 ### 1 Timoteo 1:4e "*en vez de hacer avanzar el plan de Dios que es por fe*". La única manera que haya crecimiento (madurez) en la iglesia es enseñando la gracia de Dios, esto es "*avanzar el plan de Dios que es por fe*". 
 
-### La gracia y la fe armonizan juntos perfectamente. 
+#### La gracia y la fe armonizan juntos perfectamente. 
 
-### Cualquier enseñanza extraña distraerá de las Escrituras para prestar atención a cosas que producen más bien más carnalidad y se manifestará en contiendas y discusiones sin propósito espiritual alguno. 
+#### Cualquier enseñanza extraña distraerla del mensaje de las Escrituras para prestar atención a cosas que producen más bien más carnalidad y se manifestará en contiendas y discusiones sin propósito espiritual alguno. 1 Timoteo 6:4
 
-### 1 Timoteo 1:4f "*así te encargo ahora*". En otra ocación Pablo le dirá a Timoteo que encargue hombres fieles que sean idoneos para enseñar a otros. 2 Timoteo 2:2
+### 1 Timoteo 1:4f "*así te encargo ahora*". Pablo le confió esta importante tarea a Timoteo. Debía hacerlo con urgencia pues los resultados serian devastadores. 
+
+## 1 Timoteo 1:5 El propósito de la instrucción verdadera
+### 1 Timoteo 1:5a "*Pero...* en un claro contraste con esos que enseñan doctrinas extrañas, Pablo explica...  
+### 1 Timoteo 1:5b *el propósito de nuestra instrucción...*" En contraste con la enseñanza desviada de la verdad, Pablo prosigue buscando abrir el entendimiento de Timoteo para mostrarle la finalidad de la enseñanza verdadera en la iglesia. 
+#### La enseñanza de Pablo y Timoteo es una instrucción diferente. No son compatibles. Cada instrucción tiene su resultado. 
+
+#### Al separarse de algunos que enseñan incorrectamente, Pablo no esta dividiendo la iglesia. Al contrario, la unidad de la iglesia depende de la verdad. 
+
+#### No es que Pablo tiene algo personal contra uno de ellos. Es que simplemente su enseñanza se había desviado.  
+
+### 1 Timoteo 1:5b "*es el amor*". El propósito de la instrucción es el amor. Una instrucción sana, verdaderamente bíblica llevará al amor. 
 
 ## 1 Timoteo 1:5 El propósito correcto de la instrucción
-<<<<<<< Updated upstream
 
 ### 1 Timoteo 1:5a "*Pero el propósito de nuestra instrucción...*" Pablo prosigue buscando abrir el entendimiento de Timoteo al mostrarle la motivación de la enseñanza en la iglesia. 
-=======
 
-### 1 Timoteo 1:5a "*Pero el propósito de nuestra instrucción...*" Pero, en contraste con la enseñanza desviada de la verdad, Pablo prosigue buscando abrir el entendimiento de Timoteo al mostrarle la motivación de la enseñanza en la iglesia. 
+#### Sin instrucción de la verdad, no puede haber amor. 
 
-La enseñanza de Pablo y Timoteo es una instrucción diferente. No son compatibles. Tener a las dos enseñanzas al mismo tiempo no llevaría a la iglesia a crecer. 
+#### Pablo no enseñaba por enseñar cosas interesantes para llevarles a discusiones que alimentan la carne. Sus intenciones en enseñar la verdad era para beneficio de los hermanos.  Por medio de la instrucción tendrian amor. 
 
-No es que Pablo tiene algo personal contra uno de ellos. Es que simplemente su enseñanza se ha desviado del Evangelio.  
->>>>>>> Stashed changes
+##### El amor proviene de Dios. Juan 15:10; Romanos 5:8; 1 Timoteo 1:14
 
-### 1 Timoteo 1:5b "*es el amor*". Sin la instrucción en verdad, no puede haber amor. Sin amor, no se recibe la verdad. 
+##### Sin la verdad, no puede haber amor.  Juan 13:35; Romanos 12:9; 1 Corintios 13:6; 2 Corintios 6:6; 1 Timoteo 6:14
 
-#### Pablo no enseñaba por enseñar. Sus intenciones en enseñar no eran para beneficio personal era el amor que nace de la verdad. 
+##### Sin la verdad, no puede haber unidad. La unidad es en base a la verdad. Juan 17:26; 2 Corintios 13:11
 
-Sin la verdad, no hay amor. 
+### 1 Timoteo 1:5c "*es el amor...nacido de corazón puro,*" El permanecer en la enseñanza que es segun verdad tendra como fruto el amor nacido de un corazon puro.  Salmo 51:10
 
-Sin la verdad, no puede haber unidad. La unidad es en base a la verdad. 
+#### Un corazon puro es una condicion de nuestro andar, de no haberse contaminado por cambiar o tergiversar la verdad. 1 Corintios 4:2; Gálatas 5:22
 
-### 1 Timoteo 1:5c "*es el amor...nacido de corazón puro,*" 
+#### Sin la verdad, no hay amor. 1Corintios 13:6
 
-### 1 Timoteo 1:5d "*es el amor...de una buena conciencia,*"
+#### Sin la verdad, no puede haber unidad. La verdad es la base de la unidad. Efesios 2:13-19
 
-### 1 Timoteo 1:5e "*es el amor...y de una fe sincera,*"
+### 1 Timoteo 1:5d "*es el amor...de una buena conciencia,*" En nuestro andar diario podemos gozar de una buena conciencia o no.
+
+#### Para este caso en espesifico, una buena conciencia esta estrechamente realacionada con el mensaje de la escritura, al permancer en el mesaje sin alterarlo estaremos gozando de una buena conciencia.
+
+#### El resutado de la verdad adoptada por la fe tendra como fruto el amor.
+
+### 1 Timoteo 1:5e "*es el amor...y de una fe sincera,*" El amor que vine de una fe sincera habla de un amor que viene de la confianza sin hipocresia o falsedad.
+
+#### Pablo no esta hablando de fe para salvacion de la condena del pecado, poniendo asi en tela de duda la salvaacion eterna.
+
+#### Mas bien habla de fe en nuestro diario andar, fe sin hipocresia, hablando de una doble dependencia, esto en contraste con la sola dependencia de la verdad de la escritura. 
 
 ## 1 Timoteo 1:6-7 El desviar la instrucción bíblica para pervertir el uso de La Ley 
 
@@ -299,9 +330,9 @@ Sin la verdad, no puede haber unidad. La unidad es en base a la verdad.
 
 #### Al querer ser maestros de La Ley, estas personas estaban dando un mal uso a una buena herramienta y terminó en algo dañino para la iglesia. 
 
-Se apartaron de la verdad para apuntar hacia vana palabrería. Hacen declaraciones categóricas al intentar ser maestros de la ley. Se apartaron de la gracia creando algo nuevo. Algo estéril, un cancer, doctrina de demonios. 1 Timoteo 4:1, Gálatas 3:12-13
+#### Se apartaron de la verdad para apuntar hacia vana palabrería. Hacen declaraciones categóricas al intentar ser maestros de la ley. Se apartaron de la gracia creando algo nuevo. Algo estéril, un cancer, doctrina de demonios. 1 Timoteo 4:1, Gálatas 3:12-13
 
-Su mensaje contenia Palabras vanas tales como: la auto-negación religiosa, el formalismo religioso, las disciplinas espirituales, la vestimenta, las reuniones, la comida, etc. etc.. 
+##### Su mensaje contenia Palabras vanas tales como: la auto-negación religiosa, el formalismo religioso, las disciplinas espirituales, la vestimenta, las reuniones, la comida, etc. etc.. 
 
 ### 1 Timoteo 1:7b "*aunque no saben lo que dicen ni entienden las cosas acerca de las cuales hacen declaraciones categóricas.*"
 
@@ -309,7 +340,7 @@ Su mensaje contenia Palabras vanas tales como: la auto-negación religiosa, el f
 
 #### Al querer usar La Ley para santificar a los hermanos, claramente demuestra que no saben lo que dicen. 
 
-#### Al querer ser maestros de La Ley muestran que no han entendido la relación que el creyente tiene con La Ley. 
+#### Al querer ser maestros de La Ley muestran que no han entendido la relación que el creyente tiene con La Ley. Romanos 7:4
 
 #### Declaraciones categóricas es la palabra DIADEBAIMOOMAI que conlleva la idea de hablar confiadamente o dogmaticamente declarar las cosas. 
 
@@ -319,43 +350,73 @@ Su mensaje contenia Palabras vanas tales como: la auto-negación religiosa, el f
 
 ### La perversión (1 Timoteo 1:3b-7): Estos hombres han agregado una dolorosa mezcla de mitos, fábulas y genealogías interminables a la ley.
 
-## El propósito de la Ley de Moisés (1 Timoteo 3:8-11)
+## El propósito de la Ley  Moisés (1 Timoteo 3:8-11)
 
-### 1 Timoteo 1:8 "*Pero nosotros sabemos que la ley es buena, si uno la usa legítimamente.*"
+### 1 Timoteo 1:8a "*Pero nosotros sabemos que la ley es buena, si uno la usa legítimamente.*" Pablo quiere aclarnos en cuanto a la ley, debido a su mal uso, esto no solo es para conocimiento de Timoteo, posteriormente lo seria para toda la iglesia.
 
-### 1 Timoteo 1:9a "*Reconozcamos esto: que la ley no ha sido instituida para el justo*"
+#### Como cryentes jamas debemos persibir a la ley como malvada e inutil.
 
-### 1 Timoteo 1:9b "*sino para los transgresores*"
+#### La ley fue dada por Dios, esta se muestra como un reflejo de su Santidad y Justicia, y en ultima insatancia de su propia persona. Romanos 7:6,12,16, Salmos 19:7-8
 
-### 1 Timoteo 1:9c "*y rebeldes*"
+### 1 Timoteo 1:8b "* si uno la usa legítimamente.*" La ley puede ser usada de manera legitima, asi como ilegitima.
 
-### 1 Timoteo 1:9d "*para los impíos y pecadores,*"
+####  La ley consta de un uso y proposito segun las escrituras. Romanos 3:20, Galatas 3:23-25 
+
+### 1 Timoteo 1:9a "*Reconozcamos esto: que la ley no ha sido instituida para el justo*" Podemos ver algo de manera clara en este versiculo, la ley no esta dada para el justo (creyente). Romanos 6:14
+
+### 1 Timoteo 1:9b "*sino para los transgresores*" Pablo nos aclara para quien esta instituida la ley
+
+#### Transgresores son aquellos que quebrantan la ley o mejor descritos como los que ni siquiera tienen ley.
+
+### 1 Timoteo 1:9c "*y rebeldes*" Son los que no se sujetan a Dios, también descritos como los que van conta Dios.
+
+### 1 Timoteo 1:9d "*para los impíos y pecadores,*" 
+
+#### Los impios, también traducido como irreverente o falto de respeto, esto es dirigido a Dios, en cuanto su persona y carácter.
+
+#### Los pecadores, es un calificativo para describir a un grupo de personas que cometen pecado.
 
 ### 1 Timoteo 1:9e "*para los irreverentes y profanos,*"
 
-### 1 Timoteo 1:9f "*para los que matan a sus padres o a sus madres*"
+#### Los irreverentes, aunque parece repetitivo esta palabra se distingue en el griego con ANOSIOS, alguien sin respeto a lo establecido por Dios a diferencia de su persona.
 
-### 1 Timoteo 1:9g "*para los asesinos*"
+#### Los profanos, también llamados mundanos, contiene la idea de traspasar lo sagrado o santo, contaminándolo 
 
-### 1 Timoteo 1:10a "*para los inmorales*"
+### 1 Timoteo 1:9f "*para los que matan a sus padres o a sus madres*" Específicamente dirigido a aquellos que son asesinos de los progenitores, el odio también entra como parte del asesinato.
 
-### 1 Timoteo 1:10a "*para los...homosexuales*"
+### 1 Timoteo 1:9g "*para los asesinos*" Son los que sustraen la vida a otro ser humano, odiar o aborrecer a tu hermano es considerado como un crimen de asesinato.
 
-### 1 Timoteo 1:10a "*para los...secuestradores,*"
+### 1 Timoteo 1:10a "*para los inmorales*" PORNOS es la palabra utilizada aquí, no solo es cualquier tipo de inmoralidad sexual también incluye la pornografía de cualquier tipo, lascivia o lujuria.
+
+### 1 Timoteo 1:10a "*para los...homosexuales*" Describe a los hombres que se acuestan con hombres, así mismo las mujeres que se acuestan con mujeres, la homosexualidad es parte de la inmoralidad.
+
+### 1 Timoteo 1:10a "*para los...secuestradores,*" Literalmente habla de privar de la libertad o esclavizar.
 
 ### 1 Timoteo 1:10a "*para los...mentirosos y los que juran en falso*"
 
-### 1 Timoteo 1:10a "*y para cualquier otra cosa que es contraria a la sana doctrina*"
+#### Los mentirosos, un mentiroso es alguien que no tiene verdad o habla verdad, también incluye a los que cambian la verdad o le agregan.
 
-### 1 Timoteo 1:11a "*según el glorioso evangelio del Dios bendito,*"
+#### Los que juran en falso, esto es parte de engañar debido a que el juramento es inexistente ya que es quebrantado.
 
-### 1 Timoteo 1:11b "*que me ha sido encomendado*"
+### 1 Timoteo 1:10a "*y para cualquier otra cosa que es contraria a la sana doctrina*" la Biblia NET traduce "para cualquira que viva contrario a la sana doctrina".
+
+#### Lo que observamos anteriormente son adjetivos calificativos que señalan caracteristicas que definen a un grupo de personas.
+
+#### En conclusion podemos decir que la ley esta instituida para todo incredulo.
+
+#### Sana doctrina quiere decir enseñanza saludable.
+
+### 1 Timoteo 1:11a "*según el glorioso evangelio del Dios bendito,*" Aqui tenemos un termino muy asombroso, la Sana doctrina es segun el glorioso Evangelio.
+
+#### Si cambiamos el evangelio, deja de haber una enseñanza saludable para la iglesia.
+
+### 1 Timoteo 1:11b "*que me ha sido encomendado*" Jesucristo encomendo el mensaje del evangwelio a Pablo. Galatas 1:11-12
 
 ## En Síntesis (1 Timoteo 1:8-11)
 
-### La Ley no fue hecho para controlar a las personas salvas. 1 Timoteo 1:8a
+### La Ley no fue hecha para controlar a las personas salvas. 1 Timoteo 1:8a
 
-### La Ley fue hecho para controlar a las personas que no son salvas. 1 Timoteo 1:8b-11
+### La Ley fue hecha para controlar a las personas que no son salvas. 1 Timoteo 1:8b-11
 
 ## 1 Timoteo 1:12-17 EL TESTIMONIO DE PABLO: Profunda gratitud por la fidelidad de Dios.
 
@@ -365,27 +426,28 @@ Su mensaje contenia Palabras vanas tales como: la auto-negación religiosa, el f
 
 #### El mundo vive buscando fortalecimiento externo. Los cosméticos para mejorar la apariencia, seguridad en el sustento económico, vivir con tranquilidad circustancial y mucho más. 
 
-#### El creyente puede vivir siendo fortalecido internamente por la gracia de Dios. Pablo le invitó a Timoteo a esforzarse (voz pasiva) en la gracia de Dios por esta razón. 2 Timoteo 2:1, Efesios 3:16
+#### El creyente puede vivir siendo fortalecido internamente por la gracia de Dios. Pablo invitó a Timoteo a esforzarse (voz pasiva) en la gracia de Dios por esta razón. 2 Timoteo 2:1, Efesios 3:16
 
 #### El testimonio de Pablo de como Dios le había fortalecido, seria de mucho animo para Timoteo. 
 
-#### Aunque había pasado toda clase de tribulaciónes,  lo mismo que le sostuvo a Pablo puede también sostener a Timoteo ahora. Efesios 6:10
+#### Aunque había pasado toda clase de tribulaciónes, Él mismo que sostuvo a Pablo puede también sostener a Timoteo ahora. Efesios 6:10
 
 ### 1 Timoteo 1:12a "*porque me tuvo por fiel, poniéndome en el ministerio*..." Esto es una declaración inusual. Antes que Dios le ponga en el ministerio, Pablo era todo menos fiel. 
 
-#### Pablo persiguió a los creyentes para matarlos, encadenarlos o meterlos en la prisión. Ni siquiera importaba si era hombre o mujer. 
+#### Pablo persiguió a los creyentes para matarlos, encadenarlos o meterlos en la prisión. Ni siquiera le importaba si era hombre o mujer. 
 
-##### Buscamos entender esta frase de como Dios halló fiel a Pablo y llegamos a la conclusión que lo que se consideró fiel en Pablo era su pasión entregada a lo que se dedicaba. 
+##### Buscamos entender esta frase de como Dios halló fiel a Pablo y llegamos a la conclusión de que lo que se consideró fiel en Pablo era su pasión entregada a lo que se dedicaba. 
 
-##### Aquí el término fiel no debe ser visto desde la perspectiva de una creyente fiel por ejemplo. 
+##### Aquí el término fiel no debe ser visto desde la perspectiva de, un creyente fiel, por ejemplo. 
 
-#### Fiel en este contexto simplemente significa uno que es constante y confiable a lo que se dedica. 
+#### Fiel en este contexto simplemente significa, uno que es constante y confiable en lo que se dedica. 
 
-##### Esto es una persona que uno puede dedicar tiempo y esfuerzo para discipular. 2 Timoteo 2:2
+##### Esto es una persona a la que uno puede dedicar tiempo y esfuerzo para discipular. 2 Timoteo 2:2
 
 ### 1 Timoteo 1:13a "*aun habiendo sido yo antes blasfemo, perseguidor y agresor...*" Pablo era religiosamente fariseo. Había ascendido más que sus co-iguales. Era entregado (fiel) a lo que se dedicaba. ¡Y hacía todo en nombre de Dios! 
 
 #### Sin embargo, ahora desde la perspectiva divina, Pablo ve que era blasfemo (difamador), perseguidor y agresor (violento a creyentes inocentes). 
+
 
 ### 1 Timoteo 1:13a "*Sin embargo, se me mostró misericordia porque lo hice por ignorancia en mi incredulidad...*"
 
@@ -565,15 +627,31 @@ Su mensaje contenia Palabras vanas tales como: la auto-negación religiosa, el f
 
 ## Orando juntos por la paz para llevar el Evangelio
 
-### 1 Timoteo 2:1a "*Exhorto, pues, ante todo que se hagan plegarias, oraciones, peticiones y acciones de gracias por todos los hombres*..."
+### 1 Timoteo 2:1 "*Exhorto, pues, ante todo que se hagan plegarias, oraciones, peticiones y acciones de gracias por todos los hombres,*". Pablo les estaba animando a los creyentes a que puedan orar continuamente por todos. 
 
-### 1 Timoteo 2:2b "*por los reyes*..." Los reyes son aquellas máximas autoridades nacionales. En este momento, el "rey" romano durante el tiempo de Pablo era el emperador Nerón (54d.C. - 68d.C.). 
+### 1 Timoteo 2:1a *Exhorto, pues,*...La palabra exhortar [parakaléo] expresa la intención de orar, alentar, amonestar y animar. 
 
-#### Nerón llegó a ser emperador a sus 16 años. Su reinado terminó cuando murió unos 14 años más tarde. 
+### 1 Timoteo 2:1b *ante todo*... habla enfáticamente de colocar como una prioridad esta instrucción.
 
-#### Sería ante Nerón que Pablo por voluntad propia haría su defensa y por último perderia su vida. 2 Timoteo 4:16-18
+### 1 Timoteo 2:1c *que se hagan plegarias, oraciones, peticiones y acciones de gracias por todos los hombres*...
 
-### 1 Timoteo 2:2c "*y por todos los que están en autoridad*..." Pablo pidió que todos los hermanos oren por todos los que están en autoridad, no solo los reyes. Esto incluye toda autoridad civil. 
+#### *plegarias*... Súplicas hechas con humildad con el fin de pedir algo. Efesios 6:18.
+
+#### *oraciones*... Las oraciones de los creyentes expresan sus deseos y emociones hacia Dios en plena confianza que el nos escucha. 1 Juan 5:14-15.
+
+#### *peticiones*...Podemos acercarnos a el confiadamente y pedir por nuestras necesidades personales como también de otra persona. Filipenses 4:6-7
+
+#### *y acciones de gracias por todos los hombres*... expresa gratitud por todos los hombres, sin una actitud excluyente a los que son buenos o malos.
+
+### 1 Timoteo 2:2 "*por los reyes y por todos los que están en autoridad, para que podamos vivir una vida tranquila y sosegada con toda piedad y dignidad.*" 
+
+### 1 Timoteo 2:2a "*por los reyes*..." Los reyes son las máximas autoridades nacionales, en el momento que fue escrita esta carta el "rey" romano era el emperador Nerón (54 d.C. - 68 d.C.). 
+
+#### Nerón llegó a ser emperador a sus 16 años, durante su reinado se asocia con la tiranía, ejecuciones públicas y persecución a los cristianos.
+
+#### Sería ante Nerón que Pablo por voluntad propia haría su defensa y por último perdería su vida. 2 Timoteo 4:16-18.
+
+### 1 Timoteo 2:2b "*y por todos los que están en autoridad*..." Pablo pidió que todos los hermanos oren por todos los que están en autoridad, no solo los reyes. Esto incluye toda autoridad civil. 
 
 ### 1 Timoteo 2:2d "*para que podamos vivir una vida tranquila y sosegada*..." El propósito de orar por los reyes y todos los que están en autoridad es para que haya tranquilidad civil. 
 
@@ -643,13 +721,9 @@ La piedad es algo que agrada a Dios y sirve como medio para el alcance del mundo
 
 ### 1 Timoteo 2:9a "*Asimismo, que las mujeres se vistan...*" Después de hablar a los hombres, ahora Pablo se dirige a las hermanas. 
 
-### 1 Timoteo 2:9b "*con ropa decorosa...*" Pablo no esta sugiriendo vestirse mal o de mal aspecto. Esto seria el mismo error de atraer atención a uno mismo. 
+### 1 Timoteo 2:9b "*con ropa decorosa con pudor y modestia no con peinado ostentoso no con oro, o perlas, o vestidos costosos...*" Pablo no esta sugiriendo vestirse mal o de mal aspecto. Esto seria el mismo error de atraer atención a uno mismo.  
 
-### 1 Timoteo 2:9c "*con pudor y modestia...*" 
-
-### 1 Timoteo 2:9d "*no con peinado ostentoso...*"
-
-### 1 Timoteo 2:9e "*no con oro, o perlas, o vestidos costosos...*"
+La idea aquí es que las mujeres no busquen que foco sea sobre ellas. 
 
 ### 1 Timoteo 2:10 "*sino con buenas obras, como corresponde a las mujeres que profesan la piedad...*" Las mujeres vestidas de buenas obras es palpable y alinea correctamente con lo que profesan. 
 
