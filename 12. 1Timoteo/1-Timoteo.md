@@ -94,7 +94,7 @@ Title: 1 Timoteo
 
 # II. La iglesia el cuerpo de Cristo y casa del Dios vivo
 
-## Introducción
+## A. Introducción
 
 ### Generación a generación Dios ha estado buscando incanzablemente a este mundo perdido, con el único proposito de salvarlo y rescatarlo de las tinieblas y del rumbo del hombre que se dirige hacia la condena eterna. Salmo 8:4
 
@@ -104,19 +104,37 @@ Title: 1 Timoteo
 
 ### Por tal motivo es bueno que nos hagamos la pregunta ¿qué es la iglesia?, ¿quien fundo la iglesia?, ¿a quien le pertenece la iglesia?, ¿cuando inicio?, ¿cuando termina? y ¿quienes forman parte de ella?.
 
-# II. La Iglesia de Jesucristo
-
-## La Palabra Iglesia y su orígen
+## B. La Palabra Iglesia y su orígen
 
 ### La palabra iglesia tiene su origen en la sorprendente promesa hecha por el Señor Jesucristo cuando “*Simón Pedro respondió: «Tú eres el Cristo, el Hijo del **Dios viviente»**.*” Mateo 16:16
 
 ### Mateo 16:18 "*Yo también te digo que tú eres Pedro, y sobre esta roca **edificaré Mi iglesia**; y las puertas del Hades no prevalecerán contra ella.*" Es en este pasaje que el Señor Jesucristo dio su origen a la palabra iglesia, en pertenencia, propósito, cuidado y protección de ella.
 
-### *Ekklesia* es la palabra griega traducida en el Nuevo Testamento como "iglesia". Proviene de *ek*, que significa "salir de" y *kaleo*, que significa "llamar hacia", y tiene que ver con un grupo de personas llamadas de un lugar a otro. 
+### *Ekklesia* es la palabra griega traducida en el Nuevo Testamento como "iglesia". Proviene de *ek*, que significa "salir de" y *kaleo*, que significa "llamar hacia", y tiene que ver con un grupo de personas llamadas de un lugar a otro.
 
-#### Romanos 1:6 "*entre los cuales están también ustedes, llamados de Jesucristo.*"
+### Inicialmente el significado de la palabra *ekklesia* era simplemente los llamados afuera a una asamblea, o a una reunión. En las antiguas ciudades griegas, una *ekklesía* era una asamblea de ciudadanos que se reunían para tomar decisiones sobre asuntos de la ciudad. [^10].
 
-#### 1 Tesalonicenses 4:7 "*Porque Dios no nos ha llamado a impureza, sino a santificación.*"
+### Etimológicamente no tiene un significado dirigido a un edificio físico, y tampoco era utilizado con un fin religioso, un ejemplo que podemos ver, es en Hechos 19:23-25 en la que un hombre hace un llamado a salir afuera para reunir a toda la ciudad.
+
+### En Hechos 19:29 muestra que no todos los ciudadanos sabían porque se les había llamado a salir afuera a reunirse Hechos 19:32 y muy probablemente los que llegaban a la reunión no tenían claro porque los ciudadanos estaban en "Ekklesía" Hechos 19:33.
+
+### Fue el Señor Jesucristo que el dio el significado propio cuando dijo "*edificaré mi Iglesia*" dando a entender que en un tiempo futuro el tendría sus llamados (a salir de "EK" y llamar hacia"Kaleo). 
+
+####  Y eso mismo se ve en Romanos 1:6 "*entre los cuales están también ustedes, **llamados de Jesucristo.***"
+
+#### 1 Corintios 1:2 "*a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cristo Jesús, **llamados** a ser santos, con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo, Señor de ellos y nuestro:*"
+
+#### 1 Corintios 1:9 "*Fiel es Dios, por medio de quien **fueron llamados** a la comunión con su hijo Jesucristo, nuestro Señor*"
+
+#### Este llamado lo hizo sin acepción de personas, 1 Corintios 1:24 "*Sin embargo, para los **llamados** tanto judíos como griegos, Cristo es poder de Dios y sabiduría de Dios*"
+
+## C. Fundación e inicios de la Iglesia
+
+### Hechos 1:8 “*pero recibirán poder cuando el Espíritu Santo venga sobre ustedes; y serán Mis testigos en Jerusalén, en toda Judea y Samaria, y hasta los confines de la tierra».*“ Con la llegada del Espíritu Santo ellos llegarían a ser testigos de Jesucristo.
+
+### Hechos 1:8a “*pero recibirán poder cuando el Espíritu Santo venga sobre ustedes...*"
+
+### Hechos 1:8b "*... y serán Mis testigos en Jerusalén, en toda Judea y Samaria, y hasta los confines de la tierra».*“
 
 ## ¿Llamada de donde?
 
@@ -1549,3 +1567,4 @@ La casa De Dios. Mateo 12:4, Marcos 2:26, Lucas 6:4, 11:51; 1 Timoteo 3:15, Hebr
 [^7]: Diccionario de la lengua Española, https://dle.rae.es/
 [^8]: The Free Dictionary, https://es.thefreedictionary.com/
 [^9]: Bible Sense Lexicon, Ephesians 2:8
+[^10]: Study.com https://study.com/academy/lesson/ecclesia-ancient-greece-history-facts.html
