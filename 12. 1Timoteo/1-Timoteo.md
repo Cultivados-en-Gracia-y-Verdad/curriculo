@@ -586,13 +586,13 @@ El uso correcto de la ley es con el pecador impío, es decir el incrédulo. ¿Po
 
 #### La salvación únicamente viene por el medio de la fe en Jesucristo. 
 
-##### No es por la obras de fe que uno es salvo. 
+##### No es por las obras de fe que uno es salvo. Por ejemplo una oración de fe.  
 
-##### No es por obras de caridad que uno se salva. 
+##### No es por obras de caridad que uno se salva. Por ejemplo, por darse a uno mismo para ayudar a los mayores de edad en un geriatrico. 
 
-##### No es por obras de benevolencia que uno consigue salvación. 
+##### No es por obras de benevolencia que uno consigue salvación. Por ejemplo, no por donar un hospital. 
 
-##### No es por obras que uno confirma su salvación. 
+##### No es por obras que uno confirma su salvación. Por ejemplo, si veo obras en mi vida entonces me da seguridad que soy un hijo de Dios. 
 
 ##### La salvación es obra de Dios por gracia, únicamente a los que creen. 
 
