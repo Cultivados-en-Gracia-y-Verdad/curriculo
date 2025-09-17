@@ -204,7 +204,6 @@ Title: 1 Timoteo
 
 ##### La gracia es lo que edifica al creyente. Hechos 20:32, Tito 2:12
 
-###### Pablo siempre animaba a los hermanos a permanecer en la gracia. Hechos 13:43, 20:24, Filipenses 4:23, 2 Timothy 2:1
 ###### Pablo siempre animaba a los hermanos a permanecer en la gracia. Hechos 13:43, 20:24, Filipenses 4:23, 2 Timoteo 2:1
 
 ###### Pedro animó a sus lectores a crecer en la gracia. 2 Pedro 1:2, 3:18
