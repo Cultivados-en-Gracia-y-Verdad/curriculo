@@ -227,7 +227,11 @@ Title: 1 Timoteo
 ## 1 Timoteo 3:1-4 El apartarse de la instrucción bíblica
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ### 1 Timoteo 1:3a "*Tal como te rogué al salir para Macedonia que te quedaras en Éfeso*..." Evidéntemente, al salir para Macedonia, Pablo había rogado a Timoteo que se quedara en Efeso. 
+=======
+### 1 Timoteo 1:3a "*Tal como te rogué al salir para Macedonia que te quedaras en Éfeso*..." Evidentemente, al salir para Macedonia, Pablo había rogado a Timoteo que se quedara en Efeso. Hechos 18:21
+>>>>>>> Stashed changes
 =======
 ### 1 Timoteo 1:3a "*Tal como te rogué al salir para Macedonia que te quedaras en Éfeso*..." Evidentemente, al salir para Macedonia, Pablo había rogado a Timoteo que se quedara en Efeso. Hechos 18:21
 >>>>>>> Stashed changes
@@ -267,11 +271,15 @@ Algunos estaban dedicando su atención a cosas que desviaban del verdadero conoc
 ### 1 Timoteo 1:4f "*así te encargo ahora*". Pablo le confió esta importante tarea a Timoteo. Debía hacerlo con urgencia pues los resultados serian devastadores. 
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ## 1 Timoteo 1:5 El propósito correcto de la instrucción
 <<<<<<< Updated upstream
  
 ### 1 Timoteo 1:5a "*Pero el propósito de nuestra instrucción...*" Pablo prosigue buscando abrir el entendimiento de Timoteo al mostrarle la motivación de la enseñanza en la iglesia. 
 =======
+=======
+#### En su siguiente carta Pablo le dirá a Timoteo que encargue "*hombres fieles que sean idoneos para enseñar a otros*". 2 Timoteo 2:2
+>>>>>>> Stashed changes
 =======
 #### En su siguiente carta Pablo le dirá a Timoteo que encargue "*hombres fieles que sean idoneos para enseñar a otros*". 2 Timoteo 2:2
 >>>>>>> Stashed changes
@@ -281,7 +289,11 @@ Algunos estaban dedicando su atención a cosas que desviaban del verdadero conoc
 ### 1 Timoteo 1:5a "*Pero...* en un claro contraste con esos que enseñan doctrinas extrañas, Pablo explica...
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 No es que Pablo tiene algo personal contra uno de ellos. Es que simplemente su enseñanza se ha desviado del Evangelio.  
+>>>>>>> Stashed changes
+=======
+### 1 Timoteo 1:5b *el propósito de nuestra instrucción...*" En contraste con la enseñanza desviada de la verdad, Pablo prosigue buscando abrir el entendimiento de Timoteo para mostrarle la finalidad de la enseñanza verdadera en la iglesia. 
 >>>>>>> Stashed changes
 =======
 ### 1 Timoteo 1:5b *el propósito de nuestra instrucción...*" En contraste con la enseñanza desviada de la verdad, Pablo prosigue buscando abrir el entendimiento de Timoteo para mostrarle la finalidad de la enseñanza verdadera en la iglesia. 
