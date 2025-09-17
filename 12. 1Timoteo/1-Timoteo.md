@@ -1152,17 +1152,45 @@ El misterio de la piedad es El (Cristo) en nosotros.
 
 ### 1 Timoteo 3:16a "*El...fue manifestado en la carne...*" El fue manifestado en un cuerpo. No fue solo una representación de Cristo. Los hombres lo vieron tal como era, Dios encarnado. 
 
+Todos podian mirar a Jesus el Cristo. Fue manifestado para que todos lo vieran. No solo su manera de andar sino su muerte en la cruz por nuestros pecados. Juan 3:14, 12:32; 1 Juan 3:5
+
 ### 1 Timoteo 3:16b "*El...fue vindicado en el Espíritu...*" El Espíritu dio testimonio en defensa de quien era El. El Espíritu autentifico su identidad. Aprobó el Cristo. 
+
+#### El Espiritu Santo descendió sobre el. Lucas 3:21-22 
+
+#### El Espiritu Santo estuvo con el durante su ministerio. Lucas 4:18-21 
+
+#### El Espiritu Santo le levantó de los muertos. Romanos 1:4
 
 ### 1 Timoteo 3:16c "*El...fue contemplado por ángeles...*" Los ángeles le pusieron grán atención. 
 
+#### Los angeles fueron testigos de la vida de Jesus. 
+
+##### Nacimiento, 
+
+##### vida, 
+
+##### tentación en el desierto, 
+
+##### agonia en el jardín, 
+
+##### su muerte 
+
+##### y resurrección. 
+
 ### 1 Timoteo 3:16d "*El...fue proclamado entre las naciones...*" La proclamación de su nombre ha llegado a los confines de la tierra. Su nombre ha sido anunciado a las naciones. 
+
+#### Los Apostoles lo proclamaron
+
+#### Los discípulos lo proclamaron
+
+#### Seguimos proclamando la persona y obra de Cristo.
 
 ### 1 Timoteo 3:16e "*El...fue creído en el mundo...*" Al proclamar su nombre a las naciones, muchos en el mundo pusieron su confianza en El. 
 
+#### Después de escuchar el mensaje de la verdad, el evangelio de Jesucristo, las personas a través del mundo entero pusieron su fe en El. 
+
 ### 1 Timoteo 3:16f "*El...fue recibido arriba en gloria...*" Después que El murio por nuestros pecados y fue sepultado, el Espíritu Santo le levantó de los muertos y el Padre lo recibió en gloria. 
-
-
 
 ## En Síntesis (1 Timoteo 3:14-16)
 
