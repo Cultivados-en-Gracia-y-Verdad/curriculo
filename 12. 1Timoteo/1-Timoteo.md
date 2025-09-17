@@ -1104,35 +1104,81 @@ Title: 1 Timoteo
 
 ## La casa de Dios
 
-### 1 Timoteo 3:14 "*Te escribo estas cosas, esperando ir a verte pronto...*"
+### 1 Timoteo 3:14 "*Te escribo estas cosas, esperando ir a verte pronto...*" Pablo tenía toda intención de reunirse con Timoteo en Efeso. Sin embargo, su situación no le permitía hacer planes. 
 
-### 1 Timoteo 3:15a "*pero en caso que me tarde...*"
+### La carta de Pablo iria antes de el y aclararia todo para Timoteo. Gracias a Dios tenemos esta carta para poder poner en orden las cosas del Señor 2000 años después. 
 
-### 1 Timoteo 3:15b "*te escribo...*"
+### 1 Timoteo 3:15a "*pero en caso que me tarde...*" Posiblemente Pablo sospechaba demorarse. Queria prevenir cualquier cosa y dejar bien encargado a Timoteo. 
 
-### 1 Timoteo 3:15c "*para que sepas cómo debe conducirse uno en la casa de Dios...*"
+### 1 Timoteo 3:15b "*te escribo...*" Aunque Pablo no podia ir, si le llegó la carta escrita al estilo de Pablo inspirado por el Espíritu Santa. 
 
-La casa De Dios. Mateo 12:4, Marcos 2:26, Lucas 6:4, 11:51; 1 Timoteo 3:15, Hebreos 3:2, 5, 6, 10:21; 1 Pedro 4:17
+### 1 Timoteo 3:15c "*para que sepas cómo debe conducirse uno en la casa de Dios...*" Como habia la posibilidad que Pablo no llegara a tiempo, dejó todo en claro a Timoteo con esta carta en cuanto a como debía llevarse acabo la familia de Dios en la casa de Dios. 
 
-### 1 Timoteo 3:15d "*que es la iglesia del Dios vivo...*"
+### Con el tiempo, y por falta de discipulado a las siguientes generaciones las iglesias se pueden desviar. La historia nos muestra que muchas veces la iglesia se ha desviado de su escencia y propósito. Muchas iglesias aceptan esta situación por no causar problemas entre los hermanos. 
 
-### 1 Timoteo 3:15e "*columna y sostén de la verdad...*"
+### Gracias a la carta de Pablo a Timoteo, podemos saber que es la iglesia y como ella debe andar. Es poderoso entender que cada generación de creyentes durante la era de la iglesia puede retornar a la verdadera escencia de la iglesia simplemente regresando a las Escrituras, específicamente con libros de Efesios, Tito y 1 y 2 Timoteo. 
+
+### 1 Timoteo 3:15d "*que es la iglesia del Dios vivo...*" La iglesia (universal) es "*del*" Dios vivo. La iglesia es propiedad de Dios. 
+
+#### Aunque muchas organizaciones toman iniciativas para ayudar a la iglesia, no les pertenece la iglesia. 
+
+##### La iglesia no es propiedad del estado.
+
+##### Las organizaciones que representan a la iglesia ante el gobierno en el país donde se encuenta no es dueño de la iglesia. 
+
+##### Las denominaciones no son dueños de la iglesia. 
+
+##### Los misioneros no han comprado la iglesia. 
+
+##### Los hermanos de la iglesia no son dueños de la iglesia. 
+
+##### Una iglesia local no es propiedad de las personas que compraron el local donde se reune la iglesia. 
+
+##### La iglesia no pertenece a ningún pastor, anciano, diacono o hermano. 
+
+#### La iglesia es del "*Dios vivo*". En contraste con las religiones paganas que tienen dioses muertos, la iglesia es del único Dios vivo y verdadero. 
+
+#### La iglesia es la casa De Dios. Mateo 12:4, Marcos 2:26, Lucas 6:4, 11:51; 1 Timoteo 3:15, Hebreos 3:2, 5, 6, 10:21; 1 Pedro 4:17
+
+### 1 Timoteo 3:15e "*columna y sostén de la verdad...*" La iglesia no es solo propiedad de Dios. Tiene también un propósito establecido por Dios. Es columna y sostén  de la verdad en esta dispensación. 
 
 ## El misterio de la piedad
 
-### 1 Timoteo 3:16a "*E indiscutiblemente, grande es el misterio de la piedad:*"
+### 1 Timoteo 3:16a "*E indiscutiblemente, grande es el misterio de la piedad:*" Ahora Pablo procederá a explicar como es posible un andar piadoso visible ante los hombres. 
 
-### 1 Timoteo 3:16a "*Él fue manifestado en la carne...*"
+#### La solución no proviene del hombre. El hombre no tiene la capacidad de producir verdadera piedad sin terminar en la hipocresía. Mateo 23:27
 
-### 1 Timoteo 3:16b "*Vindicado en el Espíritu...*"
+#### Dios ha provisto una fuente interminable y misterioso que lleva a la verdadera piedad. El misterio de la piedad será revelado en los siguientes versículos. 
 
-### 1 Timoteo 3:16c "*Contemplado por ángeles...*"
+#### Dios ha provisto la forma que la iglesia viva piadosamente para poder vivir en este siglo justa y piadosamente. Tito 2:11-12
 
-### 1 Timoteo 3:16d "*Proclamado entre las naciones...*"
+##### No es por un método que lleva a la piedad. La oración y la lectura matutina no producen piedad verdadera.  
 
-### 1 Timoteo 3:16e "*Creído en el mundo...*"
+##### No es un ejercicio espiritual que producirá piedad.  El ayuno, la yoga, las vigilias, las prohibiciones de alimentos etc. etc. no producen piedad genuina. 
 
-### 1 Timoteo 3:16f "*Recibido arriba en gloria...*"
+##### No es una serie de actividades en la congregación como estudios bíblicos, campamentos, retiros espirituales, asistencia regular a las reuniones semanales son ejemplos de maneras que los hombres buscan tener la piedad. 
+
+#### El siguiente versículo es probablemente un himno que se cantaba que resume La Fe cristiana de manera simple pero profunda. 
+
+### 1 Timoteo 3:16a "*Él...*" La piedad proviene de una Persona. El misterio de la piedad empieza con El. El misterio de la piedad es la persona de Jesucristo como veremos en este versículo. Juan 15:4-5
+
+El misterio de la piedad es El (Cristo) en nosotros. 
+
+#### Veamos a continuación como Pablo presenta la provision de Dios para la piedad de su pueblo.
+
+### 1 Timoteo 3:16a "*El...fue manifestado en la carne...*" El fue manifestado en un cuerpo. No fue solo una representación de Cristo. Los hombres lo vieron tal como era, Dios encarnado. 
+
+### 1 Timoteo 3:16b "*El...fue vindicado en el Espíritu...*" El Espíritu dio testimonio en defensa de quien era El. El Espíritu autentifico su identidad. Aprobó el Cristo. 
+
+### 1 Timoteo 3:16c "*El...fue contemplado por ángeles...*" Los ángeles le pusieron grán atención. 
+
+### 1 Timoteo 3:16d "*El...fue proclamado entre las naciones...*" La proclamación de su nombre ha llegado a los confines de la tierra. Su nombre ha sido anunciado a las naciones. 
+
+### 1 Timoteo 3:16e "*El...fue creído en el mundo...*" Al proclamar su nombre a las naciones, muchos en el mundo pusieron su confianza en El. 
+
+### 1 Timoteo 3:16f "*El...fue recibido arriba en gloria...*" Después que El murio por nuestros pecados y fue sepultado, el Espíritu Santo le levantó de los muertos y el Padre lo recibió en gloria. 
+
+
 
 ## En Síntesis (1 Timoteo 3:14-16)
 
