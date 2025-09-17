@@ -205,6 +205,7 @@ Title: 1 Timoteo
 ##### La gracia es lo que edifica al creyente. Hechos 20:32, Tito 2:12
 
 ###### Pablo siempre animaba a los hermanos a permanecer en la gracia. Hechos 13:43, 20:24, Filipenses 4:23, 2 Timothy 2:1
+###### Pablo siempre animaba a los hermanos a permanecer en la gracia. Hechos 13:43, 20:24, Filipenses 4:23, 2 Timoteo 2:1
 
 ###### Pedro animó a sus lectores a crecer en la gracia. 2 Pedro 1:2, 3:18
 
@@ -230,7 +231,7 @@ Title: 1 Timoteo
 
 #### La frase "enseñaran doctrinas extrañas" es la palabra HETERODIDASKALEO en griego. Significa enseñar "otra doctrina" o "desviar de la verdad". 
 
-#### Debemos comprender que tipo de enseñanza que cambie el evangelio o que vaya en contra de la escritura es considerdo una doctrina extreña. 1Co 15:3-4, Gal 1:6-9
+#### Debemos comprender que tipo de enseñanza que cambie el evangelio o que vaya en contra de la escritura es considerdo una doctrina extreña. 1Corintios 15:3-4, Galatas 1:6-9
 
 #### La enseñanza en la iglesia no debe provenir de un lugar que no sea La Palabra de Dios correctamente enseñada según el contexto. 
 
@@ -242,7 +243,7 @@ Title: 1 Timoteo
 
 #### Sin embargo, se estaba usando el púlpito para enseñar a la iglesia genealogías que nunca terminaban. 
 
-#### Hacer largos recuentos de la historia o genalogía no es enseñanza que llevaría a la madurez. 
+#### Hacer largos recuentos de historia o genealogía no es enseñanza que llevaría a la madurez. 
 
 ### 1 Timoteo 1:4d "*lo que da lugar a discusiones inútiles*". El resultado de enseñar fabulas y genealogías lleva a disputar inútilmente entre los hermanos. Tito 1:10
 
@@ -257,31 +258,34 @@ Title: 1 Timoteo
 ### 1 Timoteo 1:4f "*así te encargo ahora*". En otra ocación Pablo le dirá a Timoteo que encargue hombres fieles que sean idoneos para enseñar a otros. 2 Timoteo 2:2
 
 ## 1 Timoteo 1:5 El propósito correcto de la instrucción
-<<<<<<< Updated upstream
  
 ### 1 Timoteo 1:5a "*Pero el propósito de nuestra instrucción...*" Pablo prosigue buscando abrir el entendimiento de Timoteo al mostrarle la motivación de la enseñanza en la iglesia. 
-=======
 
-### 1 Timoteo 1:5a "*Pero el propósito de nuestra instrucción...*" Pero, en contraste con la enseñanza desviada de la verdad, Pablo prosigue buscando abrir el entendimiento de Timoteo al mostrarle la motivación de la enseñanza en la iglesia. 
-
-La enseñanza de Pablo y Timoteo es una instrucción diferente. No son compatibles. Tener a las dos enseñanzas al mismo tiempo no llevaría a la iglesia a crecer. 
-
-No es que Pablo tiene algo personal contra uno de ellos. Es que simplemente su enseñanza se ha desviado del Evangelio.  
->>>>>>> Stashed changes
-
-### 1 Timoteo 1:5b "*es el amor*". Sin la instrucción en verdad, no puede haber amor. Sin amor, no se recibe la verdad. 
+### 1 Timoteo 1:5b "*es el amor*". Sin la instrucción en la verdad, no puede haber amor. Sin amor, no se recibe la verdad. 
 
 #### Pablo no enseñaba por enseñar. Sus intenciones en enseñar no eran para beneficio personal era el amor que nace de la verdad. 
 
-Sin la verdad, no hay amor. 
+#### Sin la verdad, no hay amor. 1Corintios 1 13:6
 
-Sin la verdad, no puede haber unidad. La unidad es en base a la verdad. 
+#### Sin la verdad, no puede haber unidad. La verdad es la base de la unidad. Efesios 2:13-19
 
-### 1 Timoteo 1:5c "*es el amor...nacido de corazón puro,*" 
+#### El amor llega a ser fruto de andar segun la verdad. Galatas 5:22
 
-### 1 Timoteo 1:5d "*es el amor...de una buena conciencia,*"
+### 1 Timoteo 1:5c "*es el amor...nacido de corazón puro,*" El permanecer en la enseñanza que es segun verdad tendra como fruto el amor nacido de un corazon puro.
 
-### 1 Timoteo 1:5e "*es el amor...y de una fe sincera,*"
+#### Un corazon puro es una condicion de nuestro andar, de no haberse contaminado por cambiar o tergiversar la verdad. 1 Corintios 4:2
+
+### 1 Timoteo 1:5d "*es el amor...de una buena conciencia,*" En nuestro andar diario podemos gozar de una buena conciencia o no.
+
+#### Para este caso en espesifico, una buena conciencia esta estrechamente realacionada con el mensaje de la escritura, al permancer en el mesaje sin alterarlo estaremos gozando de una buena conciencia.
+
+#### El resutado de la verdad adoptada por la fe tendra como fruto el amor.
+
+### 1 Timoteo 1:5e "*es el amor...y de una fe sincera,*" El amor que vine de una fe sincera habla de un amor que viene de la confianza sin hipocresia o falsedad.
+
+#### Pablo no esta hablando de fe para salvacion de la condena del pecado, poniendo asi en tela de duda la salvaacion eterna.
+
+#### Mas bien habla de fe en nuestro diario andar, fe sin hipocresia, hablando de una doble dependencia, esto en contraste con la sola dependencia de la verdad de la escritura. 
 
 ## 1 Timoteo 1:6-7 El desviar la instrucción bíblica para pervertir el uso de La Ley 
 
@@ -295,9 +299,9 @@ Sin la verdad, no puede haber unidad. La unidad es en base a la verdad.
 
 #### Al querer ser maestros de La Ley, estas personas estaban dando un mal uso a una buena herramienta y terminó en algo dañino para la iglesia. 
 
-Se apartaron de la verdad para apuntar hacia vana palabrería. Hacen declaraciones categóricas al intentar ser maestros de la ley. Se apartaron de la gracia creando algo nuevo. Algo estéril, un cancer, doctrina de demonios. 1 Timoteo 4:1, Gálatas 3:12-13
+#### Se apartaron de la verdad para apuntar hacia vana palabrería. Hacen declaraciones categóricas al intentar ser maestros de la ley. Se apartaron de la gracia creando algo nuevo. Algo estéril, un cancer, doctrina de demonios. 1 Timoteo 4:1, Gálatas 3:12-13
 
-Su mensaje contenia Palabras vanas tales como: la auto-negación religiosa, el formalismo religioso, las disciplinas espirituales, la vestimenta, las reuniones, la comida, etc. etc.. 
+##### Su mensaje contenia Palabras vanas tales como: la auto-negación religiosa, el formalismo religioso, las disciplinas espirituales, la vestimenta, las reuniones, la comida, etc. etc.. 
 
 ### 1 Timoteo 1:7b "*aunque no saben lo que dicen ni entienden las cosas acerca de las cuales hacen declaraciones categóricas.*"
 
@@ -305,7 +309,7 @@ Su mensaje contenia Palabras vanas tales como: la auto-negación religiosa, el f
 
 #### Al querer usar La Ley para santificar a los hermanos, claramente demuestra que no saben lo que dicen. 
 
-#### Al querer ser maestros de La Ley muestran que no han entendido la relación que el creyente tiene con La Ley. 
+#### Al querer ser maestros de La Ley muestran que no han entendido la relación que el creyente tiene con La Ley. Romanos 7:4
 
 #### Declaraciones categóricas es la palabra DIADEBAIMOOMAI que conlleva la idea de hablar confiadamente o dogmaticamente declarar las cosas. 
 
@@ -315,43 +319,73 @@ Su mensaje contenia Palabras vanas tales como: la auto-negación religiosa, el f
 
 ### La perversión (1 Timoteo 1:3b-7): Estos hombres han agregado una dolorosa mezcla de mitos, fábulas y genealogías interminables a la ley.
 
-## El propósito de la Ley de Moisés (1 Timoteo 3:8-11)
+## El propósito de la Ley  Moisés (1 Timoteo 3:8-11)
 
-### 1 Timoteo 1:8 "*Pero nosotros sabemos que la ley es buena, si uno la usa legítimamente.*"
+### 1 Timoteo 1:8a "*Pero nosotros sabemos que la ley es buena, si uno la usa legítimamente.*" Pablo quiere aclarnos en cuanto a la ley, debido a su mal uso, esto no solo es para conocimiento de Timoteo, posteriormente lo seria para toda la iglesia.
 
-### 1 Timoteo 1:9a "*Reconozcamos esto: que la ley no ha sido instituida para el justo*"
+#### Como cryentes jamas debemos persibir a la ley como malvada e inutil.
 
-### 1 Timoteo 1:9b "*sino para los transgresores*"
+#### La ley fue dada por Dios, esta se muestra como un reflejo de su Santidad y Justicia, y en ultima insatancia de su propia persona. Romanos 7:6,12,16, Salmos 19:7-8
 
-### 1 Timoteo 1:9c "*y rebeldes*"
+### 1 Timoteo 1:8b "* si uno la usa legítimamente.*" La ley puede ser usada de manera legitima, asi como ilegitima.
 
-### 1 Timoteo 1:9d "*para los impíos y pecadores,*"
+####  La ley consta de un uso y proposito segun las escrituras. Romanos 3:20, Galatas 3:23-25 
+
+### 1 Timoteo 1:9a "*Reconozcamos esto: que la ley no ha sido instituida para el justo*" Podemos ver algo de manera clara en este versiculo, la ley no esta dada para el justo (creyente). Romanos 6:14
+
+### 1 Timoteo 1:9b "*sino para los transgresores*" Pablo nos aclara para quien esta instituida la ley
+
+#### Transgresores son aquellos que quebrantan la ley o mejor descritos como los que ni siquiera tienen ley.
+
+### 1 Timoteo 1:9c "*y rebeldes*" Son los que no se sujetan a Dios, también descritos como los que van conta Dios.
+
+### 1 Timoteo 1:9d "*para los impíos y pecadores,*" 
+
+#### Los impios, también traducido como irreverente o falto de respeto, esto es dirigido a Dios, en cuanto su persona y carácter.
+
+#### Los pecadores, es un calificativo para describir a un grupo de personas que cometen pecado.
 
 ### 1 Timoteo 1:9e "*para los irreverentes y profanos,*"
 
-### 1 Timoteo 1:9f "*para los que matan a sus padres o a sus madres*"
+#### Los irreverentes, aunque parece repetitivo esta palabra se distingue en el griego con ANOSIOS, alguien sin respeto a lo establecido por Dios a diferencia de su persona.
 
-### 1 Timoteo 1:9g "*para los asesinos*"
+#### Los profanos, también llamados mundanos, contiene la idea de traspasar lo sagrado o santo, contaminándolo 
 
-### 1 Timoteo 1:10a "*para los inmorales*"
+### 1 Timoteo 1:9f "*para los que matan a sus padres o a sus madres*" Específicamente dirigido a aquellos que son asesinos de los progenitores, el odio también entra como parte del asesinato.
 
-### 1 Timoteo 1:10a "*para los...homosexuales*"
+### 1 Timoteo 1:9g "*para los asesinos*" Son los que sustraen la vida a otro ser humano, odiar o aborrecer a tu hermano es considerado como un crimen de asesinato.
 
-### 1 Timoteo 1:10a "*para los...secuestradores,*"
+### 1 Timoteo 1:10a "*para los inmorales*" PORNOS es la palabra utilizada aquí, no solo es cualquier tipo de inmoralidad sexual también incluye la pornografía de cualquier tipo, lascivia o lujuria.
+
+### 1 Timoteo 1:10a "*para los...homosexuales*" Describe a los hombres que se acuestan con hombres, así mismo las mujeres que se acuestan con mujeres, la homosexualidad es parte de la inmoralidad.
+
+### 1 Timoteo 1:10a "*para los...secuestradores,*" Literalmente habla de privar de la libertad o esclavizar.
 
 ### 1 Timoteo 1:10a "*para los...mentirosos y los que juran en falso*"
 
-### 1 Timoteo 1:10a "*y para cualquier otra cosa que es contraria a la sana doctrina*"
+#### Los mentirosos, un mentiroso es alguien que no tiene verdad o habla verdad, también incluye a los que cambian la verdad o le agregan.
 
-### 1 Timoteo 1:11a "*según el glorioso evangelio del Dios bendito,*"
+#### Los que juran en falso, esto es parte de engañar debido a que el juramento es inexistente ya que es quebrantado.
 
-### 1 Timoteo 1:11b "*que me ha sido encomendado*"
+### 1 Timoteo 1:10a "*y para cualquier otra cosa que es contraria a la sana doctrina*" la Biblia NET traduce "para cualquira que viva contrario a la sana doctrina".
+
+#### Lo que observamos anteriormente son adjetivos calificativos que señalan caracteristicas que definen a un grupo de personas.
+
+#### En conclusion podemos decir que la ley esta instituida para todo incredulo.
+
+#### Sana doctrina quiere decir enseñanza saludable.
+
+### 1 Timoteo 1:11a "*según el glorioso evangelio del Dios bendito,*" Aqui tenemos un termino muy asombroso, la Sana doctrina es segun el glorioso Evangelio.
+
+#### Si cambiamos el evangelio, deja de haber una enseñanza saludable para la iglesia.
+
+### 1 Timoteo 1:11b "*que me ha sido encomendado*" Jesucristo encomendo el mensaje del evangwelio a Pablo. Galatas 1:11-12
 
 ## En Síntesis (1 Timoteo 1:8-11)
 
-### La Ley no fue hecho para controlar a las personas salvas. 1 Timoteo 1:8a
+### La Ley no fue hecha para controlar a las personas salvas. 1 Timoteo 1:8a
 
-### La Ley fue hecho para controlar a las personas que no son salvas. 1 Timoteo 1:8b-11
+### La Ley fue hecha para controlar a las personas que no son salvas. 1 Timoteo 1:8b-11
 
 ## 1 Timoteo 1:12-17 EL TESTIMONIO DE PABLO: Profunda gratitud por la fidelidad de Dios.
 
@@ -361,27 +395,28 @@ Su mensaje contenia Palabras vanas tales como: la auto-negación religiosa, el f
 
 #### El mundo vive buscando fortalecimiento externo. Los cosméticos para mejorar la apariencia, seguridad en el sustento económico, vivir con tranquilidad circustancial y mucho más. 
 
-#### El creyente puede vivir siendo fortalecido internamente por la gracia de Dios. Pablo le invitó a Timoteo a esforzarse (voz pasiva) en la gracia de Dios por esta razón. 2 Timoteo 2:1, Efesios 3:16
+#### El creyente puede vivir siendo fortalecido internamente por la gracia de Dios. Pablo invitó a Timoteo a esforzarse (voz pasiva) en la gracia de Dios por esta razón. 2 Timoteo 2:1, Efesios 3:16
 
 #### El testimonio de Pablo de como Dios le había fortalecido, seria de mucho animo para Timoteo. 
 
-#### Aunque había pasado toda clase de tribulaciónes,  lo mismo que le sostuvo a Pablo puede también sostener a Timoteo ahora. Efesios 6:10
+#### Aunque había pasado toda clase de tribulaciónes, Él mismo que sostuvo a Pablo puede también sostener a Timoteo ahora. Efesios 6:10
 
 ### 1 Timoteo 1:12a "*porque me tuvo por fiel, poniéndome en el ministerio*..." Esto es una declaración inusual. Antes que Dios le ponga en el ministerio, Pablo era todo menos fiel. 
 
-#### Pablo persiguió a los creyentes para matarlos, encadenarlos o meterlos en la prisión. Ni siquiera importaba si era hombre o mujer. 
+#### Pablo persiguió a los creyentes para matarlos, encadenarlos o meterlos en la prisión. Ni siquiera le importaba si era hombre o mujer. 
 
-##### Buscamos entender esta frase de como Dios halló fiel a Pablo y llegamos a la conclusión que lo que se consideró fiel en Pablo era su pasión entregada a lo que se dedicaba. 
+##### Buscamos entender esta frase de como Dios halló fiel a Pablo y llegamos a la conclusión de que lo que se consideró fiel en Pablo era su pasión entregada a lo que se dedicaba. 
 
-##### Aquí el término fiel no debe ser visto desde la perspectiva de una creyente fiel por ejemplo. 
+##### Aquí el término fiel no debe ser visto desde la perspectiva de, un creyente fiel, por ejemplo. 
 
-#### Fiel en este contexto simplemente significa uno que es constante y confiable a lo que se dedica. 
+#### Fiel en este contexto simplemente significa, uno que es constante y confiable en lo que se dedica. 
 
-##### Esto es una persona que uno puede dedicar tiempo y esfuerzo para discipular. 2 Timoteo 2:2
+##### Esto es una persona a la que uno puede dedicar tiempo y esfuerzo para discipular. 2 Timoteo 2:2
 
 ### 1 Timoteo 1:13a "*aun habiendo sido yo antes blasfemo, perseguidor y agresor...*" Pablo era religiosamente fariseo. Había ascendido más que sus co-iguales. Era entregado (fiel) a lo que se dedicaba. ¡Y hacía todo en nombre de Dios! 
 
 #### Sin embargo, ahora desde la perspectiva divina, Pablo ve que era blasfemo (difamador), perseguidor y agresor (violento a creyentes inocentes). 
+
 
 ### 1 Timoteo 1:13a "*Sin embargo, se me mostró misericordia porque lo hice por ignorancia en mi incredulidad...*"
 
