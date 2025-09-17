@@ -272,7 +272,7 @@ Title: 1 Timoteo
 
 # IV.1 Timoteo 1:3-20 -- Batallando por la Gracia
 
-## 1 Timoteo 3:1-4 El apartarse de la instrucción bíblica
+## 1 Timoteo 1:1-4 El apartarse de la instrucción bíblica
 
 ### 1 Timoteo 1:3a "*Tal como te rogué al salir para Macedonia que te quedaras en Éfeso*..." Evidentemente, al salir para Macedonia, Pablo había rogado a Timoteo que se quedara en Efeso. Hechos 18:21
 
@@ -281,11 +281,11 @@ Title: 1 Timoteo
 #### La frase "*enseñaran doctrinas extrañas*" es la palabra HETERODIDASKALEO. Significa enseñar "otra doctrina" o "desviarse de la verdad". 
 
 #### Debemos comprender que cualquier tipo de enseñanza que cambie el evangelio, que vaya en contra de la escritura es considerdo una doctrina extraña. 1 Corintios 15:3-4, Gálatas 1:6-9
-### La enseñanza en la iglesia no debe provenir de un lugar que no sea La Palabra de Dios correctamente entendida dentro de su contexto. 
+#### La enseñanza en la iglesia no debe provenir de un lugar que no sea La Palabra de Dios correctamente entendida dentro de su contexto. 
 
 ### 1 Timoteo 1:4a "*ni prestaran atención*..." La observación del Texto bíblico es muy importante. A lo que prestemos atención afectará los resultados de nuestra instrucción. 
 
-Algunos estaban dedicando su atención a cosas que desviaban del verdadero conocimiento de Cristo. 
+#### Algunos estaban dedicando su atención a cosas que desviaban del verdadero conocimiento de Cristo. 
 
 ### 1 Timoteo 1:4b "*a mitos*..." pusieron su atención en fabulas o cosas de ficción.
 
@@ -306,10 +306,12 @@ Algunos estaban dedicando su atención a cosas que desviaban del verdadero conoc
 #### Cualquier enseñanza extraña distraerla del mensaje de las Escrituras para prestar atención a cosas que producen más bien más carnalidad y se manifestará en contiendas y discusiones sin propósito espiritual alguno. 1 Timoteo 6:4
 
 ### 1 Timoteo 1:4f "*así te encargo ahora*". Pablo le confió esta importante tarea a Timoteo. Debía hacerlo con urgencia pues los resultados serian devastadores. 
-
 ## 1 Timoteo 1:5 El propósito de la instrucción verdadera
-### 1 Timoteo 1:5a "*Pero...* en un claro contraste con esos que enseñan doctrinas extrañas, Pablo explica...  
+
+### 1 Timoteo 1:5a "*Pero...* en un claro contraste con esos que enseñan doctrinas extrañas, Pablo explica...
+
 ### 1 Timoteo 1:5b *el propósito de nuestra instrucción...*" En contraste con la enseñanza desviada de la verdad, Pablo prosigue buscando abrir el entendimiento de Timoteo para mostrarle la finalidad de la enseñanza verdadera en la iglesia. 
+
 #### La enseñanza de Pablo y Timoteo es una instrucción diferente. No son compatibles. Cada instrucción tiene su resultado. 
 
 #### Al separarse de algunos que enseñan incorrectamente, Pablo no esta dividiendo la iglesia. Al contrario, la unidad de la iglesia depende de la verdad. 
@@ -317,10 +319,6 @@ Algunos estaban dedicando su atención a cosas que desviaban del verdadero conoc
 #### No es que Pablo tiene algo personal contra uno de ellos. Es que simplemente su enseñanza se había desviado.  
 
 ### 1 Timoteo 1:5b "*es el amor*". El propósito de la instrucción es el amor. Una instrucción sana, verdaderamente bíblica llevará al amor. 
-
-## 1 Timoteo 1:5 El propósito correcto de la instrucción
-
-### 1 Timoteo 1:5a "*Pero el propósito de nuestra instrucción...*" Pablo prosigue buscando abrir el entendimiento de Timoteo al mostrarle la motivación de la enseñanza en la iglesia. 
 
 #### Sin instrucción de la verdad, no puede haber amor. 
 
@@ -332,10 +330,7 @@ Algunos estaban dedicando su atención a cosas que desviaban del verdadero conoc
 
 ##### Sin la verdad, no puede haber unidad. La unidad es en base a la verdad. Juan 17:26; 2 Corintios 13:11
 
-### 1 Timoteo 1:5c "*es el amor...nacido de corazón puro,*" El permanecer en la enseñanza que es segun verdad tendra como fruto el amor nacido de un corazon puro.  Salmo 51:10
-
-#### Un corazon puro es una condicion de nuestro andar, de no haberse contaminado por cambiar o tergiversar la verdad. 1 Corintios 4:2; Gálatas 5:22
-
+### 1 Timoteo 1:5c "*es el amor...nacido de corazón puro,*" Salmo 51:10
 #### Sin la verdad, no hay amor. 1Corintios 13:6
 
 #### Sin la verdad, no puede haber unidad. La verdad es la base de la unidad. Efesios 2:13-19
@@ -515,13 +510,13 @@ Algunos estaban dedicando su atención a cosas que desviaban del verdadero conoc
 
 ### Lo que Dios hizo. 1 Timoteo 1:12, 14-15
 
-#### Salvó a Pablo. 1 Timoteo 1:14-15
+### Salvó a Pablo. 1 Timoteo 1:14-15
 
-#### Seleccionó a Pablo. 1 Timoteo 1:12
+### Seleccionó a Pablo. 1 Timoteo 1:12
 
-#### Cuando Dios lo hizo (1 Timoteo 1:13): En ese momento, el apóstol era un blasfemo y un perseguidor violento de los cristianos.
+### Cuando Dios lo hizo: En ese momento, el apóstol era un blasfemo y un perseguidor violento de los cristianos.  1 Timoteo 1:13
 
-#### Por qué Dios lo hizo (1 Timoteo 1:16-17): Lo hizo para demostrar su asombrosa gracia incluso a los peores pecadores.
+### Por qué Dios lo hizo: Lo hizo para demostrar su asombrosa gracia incluso a los peores pecadores. 1 Timoteo 1:16-17
 
 # 1 Timoteo 1:18-20 LA SABIDURÍA EN PABLO 
 
@@ -703,91 +698,133 @@ Algunos estaban dedicando su atención a cosas que desviaban del verdadero conoc
 
 #### Pablo pidió que todos oren para que haya tranquilidad civil para poder vivir piadosamente. ¿Porque? 
 
-#### Porque por medio de un vivir piadoso de la iglesia, el Espíritu Santo convence al mundo de justicia, juicio y pecado. Juan 16:8-10
+##### Porque por medio de un verdadero vivir piadoso de la iglesia, el Espíritu Santo convence al mundo de justicia, juicio y pecado. Juan 16:8-10
 
-#### La iglesia no tiene potestad de salvar a las personas, pero si puede andar de una manera que sea agradable al Señor y sirve para persuadir al inconverso de su pecaminosidad y necesidad de salvación. 
+##### La iglesia no tiene potestad de salvar a las personas, pero si puede andar de una manera que sea agradable al Señor y sirve para persuadir al inconverso de su pecaminosidad y necesidad de salvación. 
 
-#### La salvación únicamente viene por el medio de la fe en Jesucristo. 
+#### La salvación únicamente viene por el medio de la fe en Jesucristo. Hechos 4:12
 
-##### No es por la obras de fe que uno es salvo. 
+##### No es por la "*obras de fe*" que uno es salvo. Efesios 2:9, Romanos 3:20, Gálatas 3:10
 
-##### No es por obras de caridad que uno se salva. 
+##### No es por "*obras de caridad*" que uno se salva. Hechos 10:31-33, 11:4-18
 
-##### No es por obras de benevolencia que uno consigue salvación. 
+##### No es por "*obras de benevolencia*" que uno consigue salvación. Romanos 4:6
 
-##### No es por obras que uno confirma su salvación. 
+##### No es por obras que uno "*confirma*" su salvación. Hechos 7:40-41, Romanos 9:32
 
-##### La salvación es obra de Dios por gracia, únicamente a los que creen. 
+##### La salvación es obra de Dios por gracia, únicamente a los que creen. Gálatas 3:2, 
 
-### 1 Timoteo 2:4c "*y vengan al pleno conocimiento de la verdad*..." La salvación es la primera parte de la voluntad de Dios. El segundo aspecto de la voluntad de Dios es que desea que todas las personas que salva lleguen a un conocimiento completo de la verdad. 
+### 1 Timoteo 2:4c "*y vengan al pleno conocimiento de la verdad*..." La salvación es la primera parte de la voluntad de Dios. El **segundo aspecto** de la voluntad de Dios es que desea que todas las personas que El salva por medio de la fe en Jesucristo lleguen a un conocimiento completo de la verdad. Gálatas 2:5; Efesios 4:15; Colosenses 1:5
 
-### 1 Timoteo 2:5a "*Porque hay un solo Dios*..." Un pleno conocimiento empieza por saber que hay un solo Dios. 
+### 1 Timoteo 2:5a "*Porque hay un solo Dios*..." Un pleno conocimiento empieza por saber que hay un solo Dios. Hechos 14:15
 
-### 1 Timoteo 2:5b "*y también un solo Mediador entre Dios y los hombres...*" Un pleno conocimiento de la verdad incluye que hay un solo mediador entre Dios y el hombre. 
+### 1 Timoteo 2:5b "*y también un solo Mediador entre Dios y los hombres...*" Un pleno conocimiento de la verdad incluye que hay un solo mediador entre Dios y el hombre. Hebreos 8:6
 
-### 1 Timoteo 2:5c "*Cristo Jesús hombre...*" el único y solo mediador es Cristo [Dios] Jesús el hombre. 
+### 1 Timoteo 2:5c "*Cristo Jesús hombre...*" el único y solo mediador es Cristo [Dios] Jesús el hombre. Marcos 14:62
 
-### 1 Timoteo 2:6a "*quien se dio a sí mismo en rescate por todos...*" la voluntad de Dios es que se llegue a al pleno conocimiento de que Cristo se dio a si mismo para dar posibilidad de rescate a todos. 
+### 1 Timoteo 2:6a "*quien se dio a sí mismo en rescate por todos...*" la voluntad de Dios es que se llegue a al pleno conocimiento de que Cristo se dio a si mismo para dar posibilidad de rescate a todos. Filipenses 2:7; Romanos 15:3; 1 Corintios 15:3; Gálatas 1:4; Hebreos 7:27
 
 ### 1 Timoteo 2:6b "*testimonio dado a su debido tiempo...*" La plabra testimonio es MARTURION, que es donde viene nuestra palabra martir. 
 
 #### Según el Diccionario de la Lengua Española, "Un martir es una persona que muere o sufre grandes padecimientos en defensa de sus creencias o convicciones". 
 
-#### Otra manera de entenderlo es una persona que evidencia (mediante la muerte) su firme convicción y así se debe entender en este contexto. 
+#### Otra manera de expresarlo seria, "es una persona que evidencia (mediante la muerte) su firme convicción" y así creemos que se debe entender en este contexto. 
 
-### En otras palabras, Cristo dió evidencia que se dio en rescate por todos al entregarse a si mismo en la cruz. 
+#### En otras palabras, Cristo estuvo dispuesto a evidenciar su firme convicción por nosotros en que se dio en rescate por todos al entregarse a si mismo en la cruz. 
 
-### 1 Timoteo 2:7a "*Y para esto yo fui constituido predicador y apóstol, (digo la verdad en Cristo, no miento)...*" ahora Pablo constituido, según la voluntad de Dios, como testigo de estos hechos. 
+### 1 Timoteo 2:7a "*Y para esto yo fui constituido predicador y apóstol, (digo la verdad en Cristo, no miento)...*" ahora Pablo es constituido, según la voluntad de Dios, como predicador de estos hechos. 
 
 ### 1 Timoteo 2:7b "*como maestro de los gentiles en fe y verdad...*" Dios estableció a Pablo como maestro para enseñar el pleno conocimiento de la verdad. 
 
 ## En base a la voluntad de Dios, Pablo desea una vida piadosa
 
-la piedad ha llegado a tener una mala conotación. Muchas religiones exigen piedad para salvación. Esto no es lo que enseña la Biblia. 
+### la piedad ha llegado a tener una mala conotación en nuestra generación. Queremos aclarar que obras de piedad no salvan a nadie. 
 
-La piedad es algo que agrada a Dios y sirve como medio para el alcance del mundo perdido. Son hechos palpables que el mundo puedo observar. 
+### La religiónes del mundo exigen piedad para salvación. Esto no es lo que enseña la Biblia. 
+
+### Pero nunca queremos llegar a concluir que la verdadera piedad producida por el amor de Cristo en nosotros es innecesario o sin valor. 
+
+### La piedad es algo que agrada a Dios y sirve como medio para el alcance del mundo perdido. Son hechos palpables, externos que el mundo puedo observar. 
 
 ### 1 Timoteo 2:8a "*Por tanto, quiero que en todo lugar...*" Entones, a la luz de lo que hemos visto en los versículos anteriores, Pablo expresa su deseo que todos en todo lugar puedan participar. 
 
-### 1 Timoteo 2:8b "*los hombres oren levantando manos santas...*" Esto es una expresión externa y es con el propósito de mostrar piedad. 
+#### El deseo de Pablo es que todo creyente en todo lugar participe. 
 
-### 1 Timoteo 2:8c "*sin ira ni discusiones...*" la ira y las discusiones no deben representarnos como creyentes. 
+#### El propósito de Pablo parece ser que en todo lugar se refiere a cada iglesia local cuando se reune. 
 
-### 1 Timoteo 2:9a "*Asimismo, que las mujeres se vistan...*" Después de hablar a los hombres, ahora Pablo se dirige a las hermanas. 
+### 1 Timoteo 2:8b "*los hombres oren levantando manos santas sin ira ni discusiones...*" Esto es una expresión externa y es con el propósito de mostrar piedad. 
 
-### 1 Timoteo 2:9b "*con ropa decorosa con pudor y modestia no con peinado ostentoso no con oro, o perlas, o vestidos costosos...*" Pablo no esta sugiriendo vestirse mal o de mal aspecto. Esto seria el mismo error de atraer atención a uno mismo.  
+#### En ciertas culturas, la oración era frecuentemente delegado a otros. Especialmente a las mujeres.[^10]
 
-La idea aquí es que las mujeres no busquen que foco sea sobre ellas. 
+#### Pablo manda a los hombres en todo lugar a que oren. 
+
+#### Manos santas levantadas puede tener varios significados. Siempre está en el contexto de oración y adoración:
+
+##### Habla de adoración en los Salmos. Salmo 26:6, 28:2, 63:4, 88:9, 141:2
+
+##### Habla de una postura de reverencia. Nehemias 8:6
+
+##### Habla de un corazón libre de enojo y disputa. Job 16:17
+
+##### Habla de un corazón puro y consciencia limpia ante Dios. Salmo 24:4; Job 17:9; Santiago 4:8 
+
+#### la ira y las discusiones no deben representarnos como creyentes. Al parecer había ira y discusiones en la iglesia por la enseñanza desviada. 
+
+##### Ira es la palabra ORGE significa furia — un sentimiento de ira intensa que no desaparece; a menudo en una escala épica.[^9] Efesios 4:31
+
+##### Discusiones es la palabra DIALOGISMOS es debate — discusión en la que se exponen razones a favor y en contra de alguna proposición o propuesta.[^9]  Colosenses 3:8
+
+### 1 Timoteo 2:9a "*Asimismo, que las mujeres se vistan...*" Después de hablar del actuar de los hombres en adoración pública, ahora Pablo se dirige a las hermanas. 
+
+### 1 Timoteo 2:9b "*con ropa decorosa con pudor y modestia no con peinado ostentoso no con oro, o perlas, o vestidos costosos...*" Pablo no esta sugiriendo vestirse mal o de mal aspecto. Esto seria el mismo error de atraer atención a uno mismo.  1 Pedro 3:5
+
+#### La idea aquí es que las mujeres demuestren piedad.  
 
 ### 1 Timoteo 2:10 "*sino con buenas obras, como corresponde a las mujeres que profesan la piedad...*" Las mujeres vestidas de buenas obras es palpable y alinea correctamente con lo que profesan. 
 
-### 1 Timoteo 2:11a "*Que la mujer aprenda calladamente...*"
+#### La religiósidad invita a la piedad aunque fingida. La Palabra nos enseña que la piedad sea un resultado de la verdad y sin fingimiento. Romanos 12:9-10 
 
-### 1 Timoteo 2:11b "*con toda obediencia...*"
+#### La siguiente lista de obras son manifestaciones de piedad. Es contrario a la cultura y es contrario a la naturaleza humana pero es impactante dentro de cualquier cultura y poderoso para avanzar la voluntad de Dios. 1 Timoteo 2:4-6
 
-### 1 Timoteo 2:12a "*Yo no permito que la mujer enseñe...*"
+### 1 Timoteo 2:11a "*Que la mujer aprenda calladamente con toda obediencia...*" Es contrario a la cultura del tiempo de la escritura que la mujer pueda estudiar. Esto nos muestra que había libertad en las reuniones para que las mujeres sean enseñadas. 
 
-### 1 Timoteo 2:12b "*ni que ejerza autoridad sobre el hombre...*"
+#### Sin embargo, Pablo instruye que aprendan en silencio. Esto habla de enfoque más en el aprendizaje más que prohibición. Las mujeres no deben estar interumpiendo en las reuniones. 1 Corintios 14:33-35, 40
 
-### 1 Timoteo 2:12c "*sino que permanezca callada...*"
+#### En toda obediencia se refiere a tener sujeción. Es un término militar que tiene la idea de estar subordinado en firmeza. Habla de escuchar de manera ordenada y con atención. 
 
-### 1 Timoteo 2:13 "*Porque Adán fue creado primero, después Eva...*"
+### 1 Timoteo 2:12a "*Yo no permito que la mujer enseñe ni que ejerza autoridad sobre el hombre...*" El rol de la enseñanza pública a la congregación ha sido designado por Dios a los hombres. 
 
-### 1 Timoteo 2:14a "*Y Adán no fue el engañado, sino que la mujer...*"
+#### Las hermanas pueden (y deben) enseñar a los niños y las hermanas, pero Dios limita su enseñanza en la iglesia de hacerlo a los hombres. 
 
-### 1 Timoteo 2:14b "*siendo engañada completamente...*"
+### 1 Timoteo 2:12b "*sino que permanezca callada...*" Nuevamente Pablo instruye a las mujeres que permanezcan calladas en la congregación. Tiene mayor piedad y dignidad la mujer que voluntariamente permanece en silencio. Dios llama a las mujeres de esta postura y está incluido en esta lista de buenas obras. 
 
-### 1 Timoteo 2:14c "*cayó en transgresión...*"
+#### Estas instrucciones no implican que la mujer sea inferior en posición o que tienen menos valor ante Dios. 1 Pedro 3:7; Gálatas 3:28
 
-### 1 Timoteo 2:15a "*Pero se salvará engendrando hijos...*"
+## Pablo da las razones por hacerlo de esta manera. 
 
-### 1 Timoteo 2:15b "*si permanece*..."
+### 1 Timoteo 2:13 "*Porque Adán fue creado primero, después Eva...*" El orden de Dios en la creación antes de la caida es simbólizado en la congregación. 
 
-### 1 Timoteo 2:15c "*si permanece*...*en fe,*"
+#### Adán fue creado primero y es cabeza. Eva fue creada para ser ayuda idónea para Adán. Cada uno tenía propósito individual y complementaron el uno al otro para cumplir el propósito de Dios.  
 
-### 1 Timoteo 2:15d "*si permanece*...*amor y santidad*"
+### 1 Timoteo 2:14a "*Y Adán no fue el engañado, sino que la mujer...*" Las mujeres no deben ejercer autoridad sobre los hombres. 
 
-### 1 Timoteo 2:15e "*si permanece*...*con modestia*"
+#### ¿Porque no debe tomar autoridad sobre el hombre? Génesis 2:16-17
+
+### 1 Timoteo 2:14b "*siendo engañada completamente...*"  Asi como Eva fué engañada por la serpiente, la mujer no debe tomar una posición de autoridad sobre el hombre. 
+
+### 1 Timoteo 2:14c "*cayó en transgresión...*" Ella pecó siendo engañada. El pecó deliberadamente. Adán fue hecho responsable por el pecado que entró. Romanos 5:12
+
+#### Claramente vemos el razonamiento es en base a diseño y no la cultura del día. El hombre ha sido diseñado por Dios con ciertas aptitudes y la mujer también. De la misma manera deben llevar diferentes roles en la congregación. Es complementario y no divisor. 
+
+### 1 Timoteo 2:15a "*Pero se salvará engendrando hijos...*"¿Será que la mujer puede ser salva por tener hijos? 
+
+#### No en el sentido que sea salva del infierno para ir al cielo. 
+
+#### La palabra salvación (SOZO) puede ser utilizada para referirse a salvación física o salvación de la condenación como también salvación para ser santificado. Este versículo es un ejemplo de la salvación en un sentido santificación. 
+
+#### Es decir, como las mujeres tienen el rol de tener hijos (claramente no dado a los hombres) tienen una bendición especial, única para ellas de parte de Dios. 
+
+### 1 Timoteo 2:15b "*si permanece en fe, amor y santidad, con modestia*" Una cosa es tener hijos, otra cosa en criarlos en piedad. La mujer que recibe esta instrucción y lo toma por la fe. 1 Timothy 5:14, 1:5, 1:14
 
 ## En Síntesis (1 Timoteo 2:1-15)
 
@@ -799,13 +836,15 @@ La idea aquí es que las mujeres no busquen que foco sea sobre ellas.
 
 ### Para todos. 1 Timoteo 2:1
 
-### Por qué debemos orar (1 Timoteo 2:2b): "*Para que podamos vivir en paz y tranquilidad...*".
+### Por qué debemos orar: "*Para que podamos vivir en paz y tranquilidad...*". 1 Timoteo 2:2b
 
-### Cómo debemos orar (1 Timoteo 2:8): "*Con manos santas levantadas a Dios, libres de ira y controversia...*"
+### Cómo debemos orar: "*Con manos santas levantadas a Dios, libres de ira y controversia...*" 1 Timoteo 2:8
 
 ### LA VOLUNTAD DE DIOS (1 Timoteo 2:3-7)
 
-### La misión (1 Timoteo 2, 3-4): «*Dios...quiere que todos se salven...*". El mediador (1 Timoteo  2:5): Jesucristo se interpone entre Dios y las personas.
+### La misión (1 Timoteo 2, 3-4): «*Dios...quiere que todos se salven...*". 
+
+### El mediador (1 Timoteo  2:5): Jesucristo se interpone entre Dios y las personas.
 
 ### El método (1 Timoteo 2:6): La salvación se efectuó por la muerte de Cristo.
 
@@ -847,11 +886,11 @@ La idea aquí es que las mujeres no busquen que foco sea sobre ellas.
 
 #### Obispo, anciano y sobreveedor son términos sinónimos. En realidad hay tres palabras en el griego que son usadas para describir la misma posición de lider en la iglesia. 
 
-##### EPISCOPOS - 
+##### EPISCOPOS - el oficio de velar, dirigir y cuidar una iglesia.[^9]
 
-##### PRESBUTEROS - 
+##### PRESBUTEROS - un anciano encargado de una asamblea de creyentes cristianos (como cargo designado o elegido).[^9]
 
-##### POIMEN - 
+##### POIMEN - gobernar a un grupo de personas, entendido como cuidar ovejas o cabras.[^9]
 
 #### En cada caso, siempre los vemos a estos líderes en plural. El cual nos lleva a pensar en la práctica de la pluralidad de liderazgo. Si bien puede haber un anciano que se llama pastor que tiene el don de pastorear, no es el único anciano. El es parte del concilio de ancianos. 
 
@@ -1583,3 +1622,4 @@ La casa De Dios. Mateo 12:4, Marcos 2:26, Lucas 6:4, 11:51; 1 Timoteo 3:15, Hebr
 [^7]: Diccionario de la lengua Española, https://dle.rae.es/
 [^8]: The Free Dictionary, https://es.thefreedictionary.com/
 [^9]: Bible Sense Lexicon, Ephesians 2:8
+[^10]: BibleRef, https://www.bibleref.com/1-Timothy/2/1-Timothy-2-8.html
