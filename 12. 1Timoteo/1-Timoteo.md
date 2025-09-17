@@ -811,59 +811,79 @@ Algunos estaban dedicando su atención a cosas que desviaban del verdadero conoc
 
 #### El propósito de Pablo parece ser que en todo lugar se refiere a cada iglesia local cuando se reune. 
 
-### 1 Timoteo 2:8b "*los hombres oren levantando manos santas sin ira ni discusiones...*" Esto es una expresión externa y es con el propósito de mostrar piedad. Salmo 26:6, 28:2, 63:4, 88:9, 141:2
+### 1 Timoteo 2:8b "*los hombres oren levantando manos santas sin ira ni discusiones...*" Esto es una expresión externa y es con el propósito de mostrar piedad. 
 
-En ciertas culturas, la oración era frecuentemente delegado a otros. Especialmente a las mujeres.[^10]
+#### En ciertas culturas, la oración era frecuentemente delegado a otros. Especialmente a las mujeres.[^10]
 
-#### Manos santas levantadas tiene varios significados:
+#### Pablo manda a los hombres en todo lugar a que oren. 
 
-#### habla de una postura de reverencia. 
+#### Manos santas levantadas puede tener varios significados. Siempre está en el contexto de oración y adoración:
 
-### Un corazón libre de enojo y disputa. 
+##### Habla de adoración en los Salmos. Salmo 26:6, 28:2, 63:4, 88:9, 141:2
 
-### Habla de un corazón puro y consciencia limpia ante Dios. Santiago 4:8 
+##### Habla de una postura de reverencia. Nehemias 8:6
 
-#### la ira y las discusiones no deben representarnos como creyentes. 
+##### Habla de un corazón libre de enojo y disputa. Job 16:17
 
-##### Ira es la palabra 
+##### Habla de un corazón puro y consciencia limpia ante Dios. Salmo 24:4; Job 17:9; Santiago 4:8 
 
-##### Discusiones es la palabra 
+#### la ira y las discusiones no deben representarnos como creyentes. Al parecer había ira y discusiones en la iglesia por la enseñanza desviada. 
 
-### 1 Timoteo 2:9a "*Asimismo, que las mujeres se vistan...*" Después de hablar a los hombres, ahora Pablo se dirige a las hermanas. 
+##### Ira es la palabra ORGE significa furia — un sentimiento de ira intensa que no desaparece; a menudo en una escala épica.[^9] Efesios 4:31
 
-### 1 Timoteo 2:9b "*con ropa decorosa con pudor y modestia no con peinado ostentoso no con oro, o perlas, o vestidos costosos...*" Pablo no esta sugiriendo vestirse mal o de mal aspecto. Esto seria el mismo error de atraer atención a uno mismo.  
+##### Discusiones es la palabra DIALOGISMOS es debate — discusión en la que se exponen razones a favor y en contra de alguna proposición o propuesta.[^9]  Colosenses 3:8
 
-La idea aquí es que las mujeres no busquen que foco sea sobre ellas. 
+### 1 Timoteo 2:9a "*Asimismo, que las mujeres se vistan...*" Después de hablar del actuar de los hombres en adoración pública, ahora Pablo se dirige a las hermanas. 
+
+### 1 Timoteo 2:9b "*con ropa decorosa con pudor y modestia no con peinado ostentoso no con oro, o perlas, o vestidos costosos...*" Pablo no esta sugiriendo vestirse mal o de mal aspecto. Esto seria el mismo error de atraer atención a uno mismo.  1 Pedro 3:5
+
+#### La idea aquí es que las mujeres demuestren piedad.  
 
 ### 1 Timoteo 2:10 "*sino con buenas obras, como corresponde a las mujeres que profesan la piedad...*" Las mujeres vestidas de buenas obras es palpable y alinea correctamente con lo que profesan. 
 
-### 1 Timoteo 2:11a "*Que la mujer aprenda calladamente...*"
+#### La religiósidad invita a la piedad aunque fingida. La Palabra nos enseña que la piedad sea un resultado de la verdad y sin fingimiento. Romanos 12:9-10 
 
-### 1 Timoteo 2:11b "*con toda obediencia...*"
+#### La siguiente lista de obras son manifestaciones de piedad. Es contrario a la cultura y es contrario a la naturaleza humana pero es impactante dentro de cualquier cultura y poderoso para avanzar la voluntad de Dios. 1 Timoteo 2:4-6
 
-### 1 Timoteo 2:12a "*Yo no permito que la mujer enseñe...*"
+### 1 Timoteo 2:11a "*Que la mujer aprenda calladamente con toda obediencia...*" Es contrario a la cultura del tiempo de la escritura que la mujer pueda estudiar. Esto nos muestra que había libertad en las reuniones para que las mujeres sean enseñadas. 
 
-### 1 Timoteo 2:12b "*ni que ejerza autoridad sobre el hombre...*"
+#### Sin embargo, Pablo instruye que aprendan en silencio. Esto habla de enfoque más en el aprendizaje más que prohibición. Las mujeres no deben estar interumpiendo en las reuniones. 1 Corintios 14:33-35, 40
 
-### 1 Timoteo 2:12c "*sino que permanezca callada...*"
+#### En toda obediencia se refiere a tener sujeción. Es un término militar que tiene la idea de estar subordinado en firmeza. Habla de escuchar de manera ordenada y con atención. 
 
-### 1 Timoteo 2:13 "*Porque Adán fue creado primero, después Eva...*"
+### 1 Timoteo 2:12a "*Yo no permito que la mujer enseñe ni que ejerza autoridad sobre el hombre...*" El rol de la enseñanza pública a la congregación ha sido designado por Dios a los hombres. 
 
-### 1 Timoteo 2:14a "*Y Adán no fue el engañado, sino que la mujer...*"
+#### Las hermanas pueden (y deben) enseñar a los niños y las hermanas, pero Dios limita su enseñanza en la iglesia de hacerlo a los hombres. 
 
-### 1 Timoteo 2:14b "*siendo engañada completamente...*"
+### 1 Timoteo 2:12b "*sino que permanezca callada...*" Nuevamente Pablo instruye a las mujeres que permanezcan calladas en la congregación. Tiene mayor piedad y dignidad la mujer que voluntariamente permanece en silencio. Dios llama a las mujeres de esta postura y está incluido en esta lista de buenas obras. 
 
-### 1 Timoteo 2:14c "*cayó en transgresión...*"
+#### Estas instrucciones no implican que la mujer sea inferior en posición o que tienen menos valor ante Dios. 1 Pedro 3:7; Gálatas 3:28
 
-### 1 Timoteo 2:15a "*Pero se salvará engendrando hijos...*"
+## Pablo da las razones por hacerlo de esta manera. 
 
-### 1 Timoteo 2:15b "*si permanece*..."
+### 1 Timoteo 2:13 "*Porque Adán fue creado primero, después Eva...*" El orden de Dios en la creación antes de la caida es simbólizado en la congregación. 
 
-### 1 Timoteo 2:15c "*si permanece*...*en fe,*"
+#### Adán fue creado primero y es cabeza. Eva fue creada para ser ayuda idónea para Adán. Cada uno tenía propósito individual y complementaron el uno al otro para cumplir el propósito de Dios.  
 
-### 1 Timoteo 2:15d "*si permanece*...*amor y santidad*"
+### 1 Timoteo 2:14a "*Y Adán no fue el engañado, sino que la mujer...*" Las mujeres no deben ejercer autoridad sobre los hombres. 
 
-### 1 Timoteo 2:15e "*si permanece*...*con modestia*"
+#### ¿Porque no debe tomar autoridad sobre el hombre? Génesis 2:16-17
+
+### 1 Timoteo 2:14b "*siendo engañada completamente...*"  Asi como Eva fué engañada por la serpiente, la mujer no debe tomar una posición de autoridad sobre el hombre. 
+
+### 1 Timoteo 2:14c "*cayó en transgresión...*" Ella pecó siendo engañada. El pecó deliberadamente. Adán fue hecho responsable por el pecado que entró. Romanos 5:12
+
+#### Claramente vemos el razonamiento es en base a diseño y no la cultura del día. El hombre ha sido diseñado por Dios con ciertas aptitudes y la mujer también. De la misma manera deben llevar diferentes roles en la congregación. Es complementario y no divisor. 
+
+### 1 Timoteo 2:15a "*Pero se salvará engendrando hijos...*"¿Será que la mujer puede ser salva por tener hijos? 
+
+#### No en el sentido que sea salva del infierno para ir al cielo. 
+
+#### La palabra salvación (SOZO) puede ser utilizada para referirse a salvación física o salvación de la condenación como también salvación para ser santificado. Este versículo es un ejemplo de la salvación en un sentido santificación. 
+
+#### Es decir, como las mujeres tienen el rol de tener hijos (claramente no dado a los hombres) tienen una bendición especial, única para ellas de parte de Dios. 
+
+### 1 Timoteo 2:15b "*si permanece en fe, amor y santidad, con modestia*" Una cosa es tener hijos, otra cosa en criarlos en piedad. La mujer que recibe esta instrucción y lo toma por la fe. 1 Timothy 5:14, 1:5, 1:14
 
 ## En Síntesis (1 Timoteo 2:1-15)
 
@@ -875,9 +895,9 @@ La idea aquí es que las mujeres no busquen que foco sea sobre ellas.
 
 ### Para todos. 1 Timoteo 2:1
 
-### Por qué debemos orar (1 Timoteo 2:2b): "*Para que podamos vivir en paz y tranquilidad...*".
+### Por qué debemos orar: "*Para que podamos vivir en paz y tranquilidad...*". 1 Timoteo 2:2b
 
-### Cómo debemos orar (1 Timoteo 2:8): "*Con manos santas levantadas a Dios, libres de ira y controversia...*"
+### Cómo debemos orar: "*Con manos santas levantadas a Dios, libres de ira y controversia...*" 1 Timoteo 2:8
 
 ### LA VOLUNTAD DE DIOS (1 Timoteo 2:3-7)
 
