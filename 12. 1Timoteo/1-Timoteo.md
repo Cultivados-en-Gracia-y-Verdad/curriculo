@@ -508,33 +508,35 @@ Title: 1 Timoteo
 #### Sin embargo, ahora desde la perspectiva divina, Pablo ve que era blasfemo (difamador), perseguidor y agresor (violento a creyentes inocentes). 
 
 
-### 1 Timoteo 1:13a "*Sin embargo, se me mostró misericordia porque lo hice por ignorancia en mi incredulidad...*"
+### 1 Timoteo 1:13a "*Sin embargo, se me mostró misericordia porque lo hice por ignorancia en mi incredulidad...*" Aunque Pablo habia perseguido a la iglesia y todo lo que hizo, Dios le mostró misericordia porque le puso en el ministerio a pesar de ello. Pablo nos explica porque lo había hecho por ignorancia como incrédulo. 1 Corintios 3:17; Hechos 17:30
 
-### 1 Timoteo 1:14 "*Pero la gracia de nuestro Señor fue más que abundante, con la fe y el amor que se hallan en Cristo Jesús...*"
+### 1 Timoteo 1:14 "*Pero la gracia de nuestro Señor fue más que abundante, con la fe y el amor que se hallan en Cristo Jesús...*" No solo fue mostrado misericordia, sino la gracia de Jesucristo fue más abundante para perdonar que su pecado era para condenar. Efesios 2:7, 1 Timoteo 1:16
 
 ### 1 Timoteo 1:15a "*Palabra fiel y digna de ser aceptada por todos:*" 
 
-### 1 Timoteo 1:15b "*Cristo Jesús vino al mundo para salvar a los pecadores...*"
+### 1 Timoteo 1:15b "*Cristo Jesús vino al mundo para salvar a los pecadores...*" Cristo no vino para curar a los sanos. No vino para salvar a los justos, sino a pecadores. Significa que las personas que se creen demasiado buenos no pueden ser salvos por Jesucristo porque el vino a salvar a los pecadores. Marcos 2:17; Salmo 14:1-3; Lucas 19:10
 
-### 1 Timoteo 1:15c "*entre los cuales yo soy el primero...*"
+### 1 Timoteo 1:15c "*entre los cuales yo soy el primero...*" Pablo comprendió mas y mas que era un pecador indigno. 
 
-### 1 Timoteo 1:16a "*Sin embargo, por esto hallé misericordia...*"
+#### Pablo llegó al final de su vida para hacer esta declaración. No dijo que yo era sino yo soy (presente, activo, indicativo). Entendia que debía depender de la gracia de Dios para todo momento. 
 
-### 1 Timoteo 1:16b "*para que en mí, como el primero, Jesucristo demostrara toda Su paciencia...*"
+### 1 Timoteo 1:16 "*Sin embargo, por esto hallé misericordia para que en mí, como el primero, Jesucristo demostrara toda Su paciencia como un ejemplo para los que habrían de creer en Él para vida eterna...*" Dios cambió todo. De un perseguidor de la iglesia llegó a ser un ejemplo para que otros crean en Jesucristo para recibir vida eternal. 
 
-### 1 Timoteo 1:16c "*como un ejemplo para los que habrían de creer en Él para vida eterna...*"
+#### En otras palabras, si Dios podia salvar a un judio fariseo, asesino, blasfemo como Pablo, podría salvar a cualquiera. 
 
-### 1 Timoteo 1:17a "*Por tanto, al Rey...*"
+#### Pablo era un trofeo de la gracia de Dios. Un ejemplo de lo que Dios por medio de su gracia en Jesucristo podia lograr. 
 
-### 1 Timoteo 1:17b "*eterno...*"
+### 1 Timoteo 1:17a "*Por tanto, al Rey...*" Por esta razón Pablo brota en exaltación de alabanza al Rey, su salvador Jesucristo. Apocalipsis 19:16
 
-### 1 Timoteo 1:17c "*inmortal...*"
+### 1 Timoteo 1:17b "*eterno...*" Jesucristo como Dios es el eterno Yo Soy. Hebreos 9:14; Juan 1:15; 8:58; 
 
-### 1 Timoteo 1:17d "*invisible...*"
+### 1 Timoteo 1:17c "*inmortal...*" Jesucristo el hombre es inmortal. 2 Timoteo 1:10; Juan 3:13, 6:40
 
-### 1 Timoteo 1:17e "*único Dios...*"
+### 1 Timoteo 1:17d "*invisible...*" imposible de ver. Colosenses 1:15;
 
-### 1 Timoteo 1:17f "*a Él sea honor y gloria por los siglos de los siglos. Amén*"
+### 1 Timoteo 1:17e "*único Dios...*" 1 Timoteo 6:15-16
+
+### 1 Timoteo 1:17f "*a Él sea honor y gloria por los siglos de los siglos. Amén*" Pablo expresa gratitud al Rey en eternos agradecimientos.
 
 ## En Síntesis (1 Timoteo 1:12-17)
 
@@ -686,13 +688,11 @@ Title: 1 Timoteo
 
 ## Orando juntos por la paz para llevar el Evangelio
 
-### 1 Timoteo 2:1 "*Exhorto, pues, ante todo que se hagan plegarias, oraciones, peticiones y acciones de gracias por todos los hombres,*". Pablo les estaba animando a los creyentes a que puedan orar continuamente por todos. 
-
 ### 1 Timoteo 2:1a *Exhorto, pues,*...La palabra exhortar [parakaléo] expresa la intención de orar, alentar, amonestar y animar. 
 
 ### 1 Timoteo 2:1b *ante todo*... habla enfáticamente de colocar como una prioridad esta instrucción.
 
-### 1 Timoteo 2:1c *que se hagan plegarias, oraciones, peticiones y acciones de gracias por todos los hombres*...
+### 1 Timoteo 2:1c *que se hagan plegarias, oraciones, peticiones y acciones de gracias por todos los hombres*...Pablo les estaba animando a los creyentes a que puedan orar continuamente por todos. 
 
 #### *plegarias*... Súplicas hechas con humildad con el fin de pedir algo. Efesios 6:18.
 
@@ -808,7 +808,7 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 2:9b "*con ropa decorosa con pudor y modestia no con peinado ostentoso no con oro, o perlas, o vestidos costosos...*" Pablo no esta sugiriendo vestirse mal o de mal aspecto. Esto seria el mismo error de atraer atención a uno mismo.  1 Pedro 3:5
 
-#### La idea aquí es que las mujeres demuestren piedad.  
+#### La idea aquí es que las mujeres que entiendan como se manifiesta verdadera  piedad.  
 
 ### 1 Timoteo 2:10 "*sino con buenas obras, como corresponde a las mujeres que profesan la piedad...*" Las mujeres vestidas de buenas obras es palpable y alinea correctamente con lo que profesan. 
 
@@ -936,7 +936,7 @@ Title: 1 Timoteo
 
 #### Un anciano que no cumple estos requisitos en cualquier momento, debe dejar a un lado su cargo al menos hasta poner en orden sus cosas. 
 
-### 1 Timoteo 3:2a "*Un obispo* [EPISCOPOS] *debe ser, pues...*"
+### 1 Timoteo 3:2a "*Un obispo* [EPISCOPOS] *debe ser, pues...*" Las condiciones para ancianos no son sugerencias que deben tratarse de cumplir. Son requisitos que tienen que ser cumplidos en todo momento. 
 
 ### 1 Timoteo 3:2b "*irreprochable...*" ANEPILEPTOS es sin crítica.
 
@@ -954,11 +954,11 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 3:3a "*no dado a la bebida...*" PAROINOS, no dado al vino significa que no se embriaga. No tiene el vicio de la bebida. 
 
-### 1 Timoteo 3:3a "*no pendenciero sino amable...*" no es peleón
+### 1 Timoteo 3:3a "*no pendenciero sino amable...*" misericordioso o tolerante.
 
-### 1 Timoteo 3:3b "*no contencioso...*" 
+### 1 Timoteo 3:3b "*no contencioso...*" inclinado hacia la paz siempre. 
 
-### 1 Timoteo 3:3c "*no avaricioso...*"
+### 1 Timoteo 3:3c "*no avaricioso...*" es libre del amor al dinero. 
 
 ### 1 Timoteo 3:4a "*Que gobierne bien su casa...*" gobierne es la palabra PROISTEMI. Significa mantener, estar al frente de, ser protector o guardian. 
 
@@ -966,15 +966,11 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 3:5 "*(pues si un hombre no sabe cómo gobernar su propia casa, ¿cómo podrá cuidar de la iglesia de Dios?)...*" La sabiduría para gobernar bien su propia casa es necesario para sobreveer sobre la cada de Dios. 
 
-### 1 Timoteo 3:6a "*No debe ser un recién convertido no sea que se envanezca...*" Un creyente nuevo no tiene la madurez de poder estar al frente sin que sea afectado por el orgullo. 
-
-### 1 Timoteo 3:6c "*y caiga en la condenación en que cayó el diablo...*"
+### 1 Timoteo 3:6 "*No debe ser un recién convertido no sea que se envanezca y caiga en la condenación en que cayó el diablo...*" Un creyente nuevo no tiene la madurez de poder estar al frente sin que sea afectado por el orgullo. 
 
 ### 1 Timoteo 3:7a "*Debe gozar también de una buena reputación entre los de afuera de la iglesia...*" Tener un buen testimonio entre los vecinos es un requisito para ser anciano. 
 
-### 1 Timoteo 3:7b "*para que no caiga en descrédito*"
-
-### 1 Timoteo 3:7c "*y en el lazo del diablo...*"
+### 1 Timoteo 3:7b "*para que no caiga en descrédito y en el lazo del diablo*" una comunicación grosera que menosprecia u ofende a alguien o algo injustamente.
 
 ## En Síntesis (1 Timoteo 3:1-7)
 
@@ -1008,17 +1004,19 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 3:8a "*De la misma manera, también los diáconos...*" la condiciónes para diáconos son de la misma manera. Deben ser cumplidos de manera continua. 
 
-### 1 Timoteo 3:8b "*deben ser dignos...*"
+### 1 Timoteo 3:8b "*deben ser dignos...*" que es digno de estima o respeto; especialmente debido a su comportamiento.
 
-### 1 Timoteo 3:8c "*de una sola palabra...*"
+### 1 Timoteo 3:8c "*de una sola palabra...*" su discurso no es hipócrita o insincero debido a la equivocación o la duplicidad.
 
-### 1 Timoteo 3:8d "*no dados al mucho vino...*"
+### 1 Timoteo 3:8d "*no dados al mucho vino...*" no se embriaga. 
 
-### 1 Timoteo 3:8e "*ni amantes de ganancias deshonestas...*"
+### 1 Timoteo 3:8e "*ni amantes de ganancias deshonestas...*" auque todos los requisitos son necesarios, este requisito es primordial porque los diaconos son los que manejan el dinero. 
 
-### 1 Timoteo 3:9a "*sino guardando el misterio de la fe...*"
+### 1 Timoteo 3:9a "*sino guardando el misterio de la fe...*" Sostienen el tema de la fe con una consciencia limpia. 1 Corintios 2:7; Gálatas 1:23
 
-### 1 Timoteo 3:9b "*con limpia conciencia...*"
+1 Timoteo 3:9b "*con limpia conciencia*..." Ellos expresan pureza y sinceridad conscientes. Es como si la consciencia limpia es el lugar donde vive guardado el misterio de la fe. 
+
+Los diaconos están en contraste con aquellos que son descritos como marcados en su propia conciencia, y que por lo tanto hacen que sus seguidores se alejen de la fe.[^12] 1 Timoteo 4:1-2
 
 ### 1 Timoteo 3:10a "*Que también estos sean sometidos a prueba primero...*"
 
@@ -1654,3 +1652,4 @@ La casa De Dios. Mateo 12:4, Marcos 2:26, Lucas 6:4, 11:51; 1 Timoteo 3:15, Hebr
 [^9]: Bible Sense Lexicon, Ephesians 2:8
 [^10]: BibleRef, https://www.bibleref.com/1-Timothy/2/1-Timothy-2-8.html
 [^11]: Studi.com, https://study.com/academy/lesson/ecclesia-ancient-greece-history-facts.html
+[^12]: Vincent Word Studies
