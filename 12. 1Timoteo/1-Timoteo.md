@@ -257,7 +257,7 @@ Title: 1 Timoteo
 ### 1 Timoteo 1:4f "*así te encargo ahora*". En otra ocación Pablo le dirá a Timoteo que encargue hombres fieles que sean idoneos para enseñar a otros. 2 Timoteo 2:2
 
 ## 1 Timoteo 1:5 El propósito correcto de la instrucción
- 
+
 ### 1 Timoteo 1:5a "*Pero el propósito de nuestra instrucción...*" Pablo prosigue buscando abrir el entendimiento de Timoteo al mostrarle la motivación de la enseñanza en la iglesia. 
 
 ### 1 Timoteo 1:5b "*es el amor*". Sin la instrucción en la verdad, no puede haber amor. Sin amor, no se recibe la verdad. 
@@ -595,15 +595,31 @@ Title: 1 Timoteo
 
 ## Orando juntos por la paz para llevar el Evangelio
 
-### 1 Timoteo 2:1a "*Exhorto, pues, ante todo que se hagan plegarias, oraciones, peticiones y acciones de gracias por todos los hombres*..."
+### 1 Timoteo 2:1 "*Exhorto, pues, ante todo que se hagan plegarias, oraciones, peticiones y acciones de gracias por todos los hombres,*". Pablo les estaba animando a los creyentes a que puedan orar continuamente por todos. 
 
-### 1 Timoteo 2:2b "*por los reyes*..." Los reyes son aquellas máximas autoridades nacionales. En este momento, el "rey" romano durante el tiempo de Pablo era el emperador Nerón (54d.C. - 68d.C.). 
+### 1 Timoteo 2:1a *Exhorto, pues,*...La palabra exhortar [parakaléo] expresa la intención de orar, alentar, amonestar y animar. 
 
-#### Nerón llegó a ser emperador a sus 16 años. Su reinado terminó cuando murió unos 14 años más tarde. 
+### 1 Timoteo 2:1b *ante todo*... habla enfáticamente de colocar como una prioridad esta instrucción.
 
-#### Sería ante Nerón que Pablo por voluntad propia haría su defensa y por último perderia su vida. 2 Timoteo 4:16-18
+### 1 Timoteo 2:1c *que se hagan plegarias, oraciones, peticiones y acciones de gracias por todos los hombres*...
 
-### 1 Timoteo 2:2c "*y por todos los que están en autoridad*..." Pablo pidió que todos los hermanos oren por todos los que están en autoridad, no solo los reyes. Esto incluye toda autoridad civil. 
+#### *plegarias*... Súplicas hechas con humildad con el fin de pedir algo. Efesios 6:18.
+
+#### *oraciones*... Las oraciones de los creyentes expresan sus deseos y emociones hacia Dios en plena confianza que el nos escucha. 1 Juan 5:14-15.
+
+#### *peticiones*...Podemos acercarnos a el confiadamente y pedir por nuestras necesidades personales como también de otra persona. Filipenses 4:6-7
+
+#### *y acciones de gracias por todos los hombres*... expresa gratitud por todos los hombres, sin una actitud excluyente a los que son buenos o malos.
+
+### 1 Timoteo 2:2 "*por los reyes y por todos los que están en autoridad, para que podamos vivir una vida tranquila y sosegada con toda piedad y dignidad.*" 
+
+### 1 Timoteo 2:2a "*por los reyes*..." Los reyes son las máximas autoridades nacionales, en el momento que fue escrita esta carta el "rey" romano era el emperador Nerón (54 d.C. - 68 d.C.). 
+
+#### Nerón llegó a ser emperador a sus 16 años, durante su reinado se asocia con la tiranía, ejecuciones públicas y persecución a los cristianos.
+
+#### Sería ante Nerón que Pablo por voluntad propia haría su defensa y por último perdería su vida. 2 Timoteo 4:16-18.
+
+### 1 Timoteo 2:2b "*y por todos los que están en autoridad*..." Pablo pidió que todos los hermanos oren por todos los que están en autoridad, no solo los reyes. Esto incluye toda autoridad civil. 
 
 ### 1 Timoteo 2:2d "*para que podamos vivir una vida tranquila y sosegada*..." El propósito de orar por los reyes y todos los que están en autoridad es para que haya tranquilidad civil. 
 
