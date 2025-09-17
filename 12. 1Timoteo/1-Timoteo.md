@@ -463,13 +463,13 @@ Algunos estaban dedicando su atención a cosas que desviaban del verdadero conoc
 
 ### Lo que Dios hizo. 1 Timoteo 1:12, 14-15
 
-#### Salvó a Pablo. 1 Timoteo 1:14-15
+### Salvó a Pablo. 1 Timoteo 1:14-15
 
-#### Seleccionó a Pablo. 1 Timoteo 1:12
+### Seleccionó a Pablo. 1 Timoteo 1:12
 
-#### Cuando Dios lo hizo (1 Timoteo 1:13): En ese momento, el apóstol era un blasfemo y un perseguidor violento de los cristianos.
+### Cuando Dios lo hizo: En ese momento, el apóstol era un blasfemo y un perseguidor violento de los cristianos.  1 Timoteo 1:13
 
-#### Por qué Dios lo hizo (1 Timoteo 1:16-17): Lo hizo para demostrar su asombrosa gracia incluso a los peores pecadores.
+### Por qué Dios lo hizo: Lo hizo para demostrar su asombrosa gracia incluso a los peores pecadores. 1 Timoteo 1:16-17
 
 # 1 Timoteo 1:18-20 LA SABIDURÍA EN PABLO 
 
@@ -651,55 +651,77 @@ Algunos estaban dedicando su atención a cosas que desviaban del verdadero conoc
 
 #### Pablo pidió que todos oren para que haya tranquilidad civil para poder vivir piadosamente. ¿Porque? 
 
-#### Porque por medio de un vivir piadoso de la iglesia, el Espíritu Santo convence al mundo de justicia, juicio y pecado. Juan 16:8-10
+##### Porque por medio de un verdadero vivir piadoso de la iglesia, el Espíritu Santo convence al mundo de justicia, juicio y pecado. Juan 16:8-10
 
-#### La iglesia no tiene potestad de salvar a las personas, pero si puede andar de una manera que sea agradable al Señor y sirve para persuadir al inconverso de su pecaminosidad y necesidad de salvación. 
+##### La iglesia no tiene potestad de salvar a las personas, pero si puede andar de una manera que sea agradable al Señor y sirve para persuadir al inconverso de su pecaminosidad y necesidad de salvación. 
 
-#### La salvación únicamente viene por el medio de la fe en Jesucristo. 
+#### La salvación únicamente viene por el medio de la fe en Jesucristo. Hechos 4:12
 
-##### No es por la obras de fe que uno es salvo. 
+##### No es por la "*obras de fe*" que uno es salvo. Efesios 2:9, Romanos 3:20, Gálatas 3:10
 
-##### No es por obras de caridad que uno se salva. 
+##### No es por "*obras de caridad*" que uno se salva. Hechos 10:31-33, 11:4-18
 
-##### No es por obras de benevolencia que uno consigue salvación. 
+##### No es por "*obras de benevolencia*" que uno consigue salvación. Romanos 4:6
 
-##### No es por obras que uno confirma su salvación. 
+##### No es por obras que uno "*confirma*" su salvación. Hechos 7:40-41, Romanos 9:32
 
-##### La salvación es obra de Dios por gracia, únicamente a los que creen. 
+##### La salvación es obra de Dios por gracia, únicamente a los que creen. Gálatas 3:2, 
 
-### 1 Timoteo 2:4c "*y vengan al pleno conocimiento de la verdad*..." La salvación es la primera parte de la voluntad de Dios. El segundo aspecto de la voluntad de Dios es que desea que todas las personas que salva lleguen a un conocimiento completo de la verdad. 
+### 1 Timoteo 2:4c "*y vengan al pleno conocimiento de la verdad*..." La salvación es la primera parte de la voluntad de Dios. El **segundo aspecto** de la voluntad de Dios es que desea que todas las personas que El salva por medio de la fe en Jesucristo lleguen a un conocimiento completo de la verdad. Gálatas 2:5; Efesios 4:15; Colosenses 1:5
 
-### 1 Timoteo 2:5a "*Porque hay un solo Dios*..." Un pleno conocimiento empieza por saber que hay un solo Dios. 
+### 1 Timoteo 2:5a "*Porque hay un solo Dios*..." Un pleno conocimiento empieza por saber que hay un solo Dios. Hechos 14:15
 
-### 1 Timoteo 2:5b "*y también un solo Mediador entre Dios y los hombres...*" Un pleno conocimiento de la verdad incluye que hay un solo mediador entre Dios y el hombre. 
+### 1 Timoteo 2:5b "*y también un solo Mediador entre Dios y los hombres...*" Un pleno conocimiento de la verdad incluye que hay un solo mediador entre Dios y el hombre. Hebreos 8:6
 
-### 1 Timoteo 2:5c "*Cristo Jesús hombre...*" el único y solo mediador es Cristo [Dios] Jesús el hombre. 
+### 1 Timoteo 2:5c "*Cristo Jesús hombre...*" el único y solo mediador es Cristo [Dios] Jesús el hombre. Marcos 14:62
 
-### 1 Timoteo 2:6a "*quien se dio a sí mismo en rescate por todos...*" la voluntad de Dios es que se llegue a al pleno conocimiento de que Cristo se dio a si mismo para dar posibilidad de rescate a todos. 
+### 1 Timoteo 2:6a "*quien se dio a sí mismo en rescate por todos...*" la voluntad de Dios es que se llegue a al pleno conocimiento de que Cristo se dio a si mismo para dar posibilidad de rescate a todos. Filipenses 2:7; Romanos 15:3; 1 Corintios 15:3; Gálatas 1:4; Hebreos 7:27
 
 ### 1 Timoteo 2:6b "*testimonio dado a su debido tiempo...*" La plabra testimonio es MARTURION, que es donde viene nuestra palabra martir. 
 
 #### Según el Diccionario de la Lengua Española, "Un martir es una persona que muere o sufre grandes padecimientos en defensa de sus creencias o convicciones". 
 
-#### Otra manera de entenderlo es una persona que evidencia (mediante la muerte) su firme convicción y así se debe entender en este contexto. 
+#### Otra manera de expresarlo seria, "es una persona que evidencia (mediante la muerte) su firme convicción" y así creemos que se debe entender en este contexto. 
 
-### En otras palabras, Cristo dió evidencia que se dio en rescate por todos al entregarse a si mismo en la cruz. 
+#### En otras palabras, Cristo estuvo dispuesto a evidenciar su firme convicción por nosotros en que se dio en rescate por todos al entregarse a si mismo en la cruz. 
 
-### 1 Timoteo 2:7a "*Y para esto yo fui constituido predicador y apóstol, (digo la verdad en Cristo, no miento)...*" ahora Pablo constituido, según la voluntad de Dios, como testigo de estos hechos. 
+### 1 Timoteo 2:7a "*Y para esto yo fui constituido predicador y apóstol, (digo la verdad en Cristo, no miento)...*" ahora Pablo es constituido, según la voluntad de Dios, como predicador de estos hechos. 
 
 ### 1 Timoteo 2:7b "*como maestro de los gentiles en fe y verdad...*" Dios estableció a Pablo como maestro para enseñar el pleno conocimiento de la verdad. 
 
 ## En base a la voluntad de Dios, Pablo desea una vida piadosa
 
-la piedad ha llegado a tener una mala conotación. Muchas religiones exigen piedad para salvación. Esto no es lo que enseña la Biblia. 
+### la piedad ha llegado a tener una mala conotación en nuestra generación. Queremos aclarar que obras de piedad no salvan a nadie. 
 
-La piedad es algo que agrada a Dios y sirve como medio para el alcance del mundo perdido. Son hechos palpables que el mundo puedo observar. 
+### La religiónes del mundo exigen piedad para salvación. Esto no es lo que enseña la Biblia. 
+
+### Pero nunca queremos llegar a concluir que la verdadera piedad producida por el amor de Cristo en nosotros es innecesario o sin valor. 
+
+### La piedad es algo que agrada a Dios y sirve como medio para el alcance del mundo perdido. Son hechos palpables, externos que el mundo puedo observar. 
 
 ### 1 Timoteo 2:8a "*Por tanto, quiero que en todo lugar...*" Entones, a la luz de lo que hemos visto en los versículos anteriores, Pablo expresa su deseo que todos en todo lugar puedan participar. 
 
-### 1 Timoteo 2:8b "*los hombres oren levantando manos santas...*" Esto es una expresión externa y es con el propósito de mostrar piedad. 
+#### El deseo de Pablo es que todo creyente en todo lugar participe. 
 
-### 1 Timoteo 2:8c "*sin ira ni discusiones...*" la ira y las discusiones no deben representarnos como creyentes. 
+#### El propósito de Pablo parece ser que en todo lugar se refiere a cada iglesia local cuando se reune. 
+
+### 1 Timoteo 2:8b "*los hombres oren levantando manos santas sin ira ni discusiones...*" Esto es una expresión externa y es con el propósito de mostrar piedad. Salmo 26:6, 28:2, 63:4, 88:9, 141:2
+
+En ciertas culturas, la oración era frecuentemente delegado a otros. Especialmente a las mujeres.[^10]
+
+#### Manos santas levantadas tiene varios significados:
+
+#### habla de una postura de reverencia. 
+
+### Un corazón libre de enojo y disputa. 
+
+### Habla de un corazón puro y consciencia limpia ante Dios. Santiago 4:8 
+
+#### la ira y las discusiones no deben representarnos como creyentes. 
+
+##### Ira es la palabra 
+
+##### Discusiones es la palabra 
 
 ### 1 Timoteo 2:9a "*Asimismo, que las mujeres se vistan...*" Después de hablar a los hombres, ahora Pablo se dirige a las hermanas. 
 
@@ -1531,3 +1553,4 @@ La casa De Dios. Mateo 12:4, Marcos 2:26, Lucas 6:4, 11:51; 1 Timoteo 3:15, Hebr
 [^7]: Diccionario de la lengua Española, https://dle.rae.es/
 [^8]: The Free Dictionary, https://es.thefreedictionary.com/
 [^9]: Bible Sense Lexicon, Ephesians 2:8
+[^10]: BibleRef, https://www.bibleref.com/1-Timothy/2/1-Timothy-2-8.html
