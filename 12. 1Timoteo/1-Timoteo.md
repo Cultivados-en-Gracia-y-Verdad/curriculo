@@ -1002,6 +1002,12 @@ Title: 1 Timoteo
 
 ## Requisitos para los diaconos
 
+### Muchos creen que el rol de diaconos se estableció en Hechos 6:1-7 cuando hubo necesidad de atención a las necesidades físicas de los hermanos. Ahi, los apostoles decidieron que era necesario cuidar de los hermanos pero sin descuidar la enseñanza. 
+
+### La palabra DIAKONO significa servidor. Una persona en el oficio de diácono que se preocupa por las necesidades y el sustento de una asamblea de creyentes.[^9]
+
+### Entonces establecieron diaconos o siervos que estarían pendientes de las necesidades físicas. 
+
 ### 1 Timoteo 3:8a "*De la misma manera, también los diáconos...*" la condiciónes para diáconos son de la misma manera. Deben ser cumplidos de manera continua. 
 
 ### 1 Timoteo 3:8b "*deben ser dignos...*" que es digno de estima o respeto; especialmente debido a su comportamiento.
@@ -1014,37 +1020,51 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 3:9a "*sino guardando el misterio de la fe...*" Sostienen el tema de la fe con una consciencia limpia. 1 Corintios 2:7; Gálatas 1:23
 
-1 Timoteo 3:9b "*con limpia conciencia*..." Ellos expresan pureza y sinceridad conscientes. Es como si la consciencia limpia es el lugar donde vive guardado el misterio de la fe. 
+### 1 Timoteo 3:9b "*con limpia conciencia*..." Ellos expresan pureza y sinceridad conscientes. Es como si la consciencia limpia es el lugar donde vive guardado el misterio de la fe. 
 
-Los diaconos están en contraste con aquellos que son descritos como marcados en su propia conciencia, y que por lo tanto hacen que sus seguidores se alejen de la fe.[^12] 1 Timoteo 4:1-2
+#### Los diaconos están en contraste con aquellos que son descritos como marcados en su propia conciencia, y que por lo tanto hacen que sus seguidores se alejen de la fe.[^12] 1 Timoteo 4:1-2
 
-### 1 Timoteo 3:10a "*Que también estos sean sometidos a prueba primero...*"
+### 1 Timoteo 3:10a "*Que también estos sean sometidos a prueba primero...*" La palabra prueba es DOKIMAZO - ser o llegar a ser examinado de manera crítica o minuciosa, o con minucioso detalle (comprobar que sea genuino o no).[^9] 
 
-### 1 Timoteo 3:10b "*y si son irreprensibles...*"
+### 1 Timoteo 3:10b "*y si son irreprensibles...*" Irreprensibles es ANANKLETOS  - no sujeto a, merecedor o digno de una acusación de maldad. 
 
-### 1 Timoteo 3:10c "*que entonces sirvan como diáconos...*"
+### El único resultado aceptables de ser examinado es ser hallado sin acusación alguna. Es irreprensible. 
 
-### 1 Timoteo 3:11a "*De igual manera, las mujeres...*"
+### 1 Timoteo 3:10c "*que entonces sirvan como diáconos...*" al igual que los ancianos, los diaconos son vistos en plural. Si pasan la prueba y cumplen los otros requisitos entonces recien pueden servir como diaconos. 
 
-### 1 Timoteo 3:11b "*deben ser dignas...*"
+## Requisitos para las esposas de los diaconos
 
-### 1 Timoteo 3:11c "*no calumniadoras...*"
+### Esta porción puede ser interpretado de dos maneras válidas. Algunos ven que las mujeres mencionadas en este pasaje se refiere a mujeres como diaconisas. Romanos 16:1-2
 
-### 1 Timoteo 3:11d "*sino sobrias...*"
+### Sin embargo, dado que después de hablar de las mujeres continua hablando de los diaconos, parece que es mejor interpretar que esta hablando de las esposas de los diaconos y no diaconisas. 
 
-### 1 Timoteo 3:11e "*fieles en todo...*"
+### Tampoco menciona requisitos de liderazgo sino de apoyo a sus esposos. 
 
-### 1 Timoteo 3:12a "*Que los diáconos...*"
+### Aunque no menciona las esposas de los ancianos, se podrían aplicar los mismos requisitos para ellas también. 
 
-### 1 Timoteo 3:12b "*sean maridos de una sola mujer...*"
+### 1 Timoteo 3:11a "*De igual manera, las mujeres...*" En muchos sentidos que los ancianos y diaconos, las esposas de los líderes tienen ciertos requisitos que cumplir. 
 
-### 1 Timoteo 3:12c "*y que gobiernen bien sus hijos y sus propias casas...*"
+### 1 Timoteo 3:11b "*deben ser dignas...*" deben conducirse con dignidad. 
 
-### 1 Timoteo 3:13a "*Pues los que han servido bien como diáconos...*"
+### 1 Timoteo 3:11c "*no calumniadoras...*" Muchas veces se confían cosas delicadas a las esposas de los líderes. Ellas deben saber guardar esa información y no ser chismosas. 
 
-### 1 Timoteo 3:13b "*obtienen para sí una posición honrosa...*"
+#### La palabra calumniadora es DIABOLOS - caracterizado por atacar la reputación de otra persona mediante calumnias o difamaciones.
 
-### 1 Timoteo 3:13c "*y gran confianza en la fe que es en Cristo Jesús...*"
+### 1 Timoteo 3:11d "*sino sobrias...*" que actuen con templanza. 
+
+### 1 Timoteo 3:11e "*fieles en todo...*" fieles es PISTOS - caracterizado por la creencia, la confianza y la dependencia. Es decir son confiables en todo. 
+
+### 1 Timoteo 3:12a "*Que los diáconos...*" Luego Pablo vuelve a mensionar más requisitos para los diaconos. 
+
+### 1 Timoteo 3:12b "*sean maridos de una sola mujer...*" Marido de una sola mujer significa que en este momento presente esta siendo hombre de una mujer. No es un hombre que anda con más de una mujer. 
+
+### 1 Timoteo 3:12c "*y que gobiernen bien sus hijos y sus propias casas...*" Este es el mismo requisito que vimos en 1 Timoteo 3:4 para los ancianos. Si los diaconos no gobiernan bien en sus casas, no son adecuados para servir en los asuntos delicados en las finanzas y necesidades físicas de la iglesia. 
+
+### 1 Timoteo 3:13a "*Pues los que han servido bien como diáconos obtienen para sí una posición honrosa...*" El rol de diacono no es un servicio glamoroso y siempre visto ante los hombres. Sin embargo no viene sin recompensa ante Dios. El diacono que sirve bien es considerado por el Señor de tener un alto grado honroso. 
+
+#### La ayuda que los diaconos proveen para los ancianos les permite dedicarse al estudio y enseñanza de La Palabra de Dios. Hechos 6:5, 8:6
+
+### 1 Timoteo 3:13c "*y gran confianza en la fe que es en Cristo Jesús...*" La idea es que por medio de un fiel servicio como diacono, uno gana confianza y libertad en cuanto a la fe. El hablar se hace más facil. 
 
 ## En Síntesis (1 Timoteo 3:8-13)
 
