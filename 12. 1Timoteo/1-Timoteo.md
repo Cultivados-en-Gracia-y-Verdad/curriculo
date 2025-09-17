@@ -678,13 +678,11 @@ Title: 1 Timoteo
 
 ## Orando juntos por la paz para llevar el Evangelio
 
-### 1 Timoteo 2:1 "*Exhorto, pues, ante todo que se hagan plegarias, oraciones, peticiones y acciones de gracias por todos los hombres,*". Pablo les estaba animando a los creyentes a que puedan orar continuamente por todos. 
-
 ### 1 Timoteo 2:1a *Exhorto, pues,*...La palabra exhortar [parakaléo] expresa la intención de orar, alentar, amonestar y animar. 
 
 ### 1 Timoteo 2:1b *ante todo*... habla enfáticamente de colocar como una prioridad esta instrucción.
 
-### 1 Timoteo 2:1c *que se hagan plegarias, oraciones, peticiones y acciones de gracias por todos los hombres*...
+### 1 Timoteo 2:1c *que se hagan plegarias, oraciones, peticiones y acciones de gracias por todos los hombres*...Pablo les estaba animando a los creyentes a que puedan orar continuamente por todos. 
 
 #### *plegarias*... Súplicas hechas con humildad con el fin de pedir algo. Efesios 6:18.
 
@@ -800,7 +798,7 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 2:9b "*con ropa decorosa con pudor y modestia no con peinado ostentoso no con oro, o perlas, o vestidos costosos...*" Pablo no esta sugiriendo vestirse mal o de mal aspecto. Esto seria el mismo error de atraer atención a uno mismo.  1 Pedro 3:5
 
-#### La idea aquí es que las mujeres demuestren piedad.  
+#### La idea aquí es que las mujeres que entiendan como se manifiesta verdadera  piedad.  
 
 ### 1 Timoteo 2:10 "*sino con buenas obras, como corresponde a las mujeres que profesan la piedad...*" Las mujeres vestidas de buenas obras es palpable y alinea correctamente con lo que profesan. 
 
