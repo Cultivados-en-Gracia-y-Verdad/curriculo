@@ -92,7 +92,7 @@ Title: 1 Timoteo
 
 ### En resumen, podemos decir que Pablo le escribió a Timoteo por su inmenso amor y aprecio por la obra que Timoteo había sido llamado a realizar al servicio del Señor Jesús.
 
-# II. La Iglesia del Nuevo Testamento
+# II. La Iglesia de Jesucristo
 
 ## La Palabra Iglesia y su orígen
 
@@ -216,7 +216,7 @@ Title: 1 Timoteo
 
 ## 1 Timoteo 3:1-4 El apartarse de la instrucción bíblica
 
-### 1 Timoteo 1:3a "*Tal como te rogué al salir para Macedonia que te quedaras en Éfeso*..." Evidéntemente, al salir para Macedonia, Pablo había rogado a Timoteo que se quedara en Efeso. 
+### 1 Timoteo 1:3a "*Tal como te rogué al salir para Macedonia que te quedaras en Éfeso*..." Evidentemente, al salir para Macedonia, Pablo había rogado a Timoteo que se quedara en Efeso. 
 
 ### 1 Timoteo 1:3b "*...para que instruyeras a algunos que no enseñaran doctrinas extrañas...*" Algunos en la congregación estaban enseñando una doctrina difentente a la que enseña la Biblia . 
 
@@ -249,17 +249,12 @@ Title: 1 Timoteo
 ### 1 Timoteo 1:4f "*así te encargo ahora*". En otra ocación Pablo le dirá a Timoteo que encargue hombres fieles que sean idoneos para enseñar a otros. 2 Timoteo 2:2
 
 ## 1 Timoteo 1:5 El propósito correcto de la instrucción
-<<<<<<< Updated upstream
- 
-### 1 Timoteo 1:5a "*Pero el propósito de nuestra instrucción...*" Pablo prosigue buscando abrir el entendimiento de Timoteo al mostrarle la motivación de la enseñanza en la iglesia. 
-=======
 
 ### 1 Timoteo 1:5a "*Pero el propósito de nuestra instrucción...*" Pero, en contraste con la enseñanza desviada de la verdad, Pablo prosigue buscando abrir el entendimiento de Timoteo al mostrarle la motivación de la enseñanza en la iglesia. 
 
 La enseñanza de Pablo y Timoteo es una instrucción diferente. No son compatibles. Tener a las dos enseñanzas al mismo tiempo no llevaría a la iglesia a crecer. 
 
 No es que Pablo tiene algo personal contra uno de ellos. Es que simplemente su enseñanza se ha desviado del Evangelio.  
->>>>>>> Stashed changes
 
 ### 1 Timoteo 1:5b "*es el amor*". Sin la instrucción en verdad, no puede haber amor. Sin amor, no se recibe la verdad. 
 
@@ -309,35 +304,25 @@ Su mensaje contenia Palabras vanas tales como: la auto-negación religiosa, el f
 
 ## El propósito de la Ley de Moisés (1 Timoteo 3:8-11)
 
-### 1 Timoteo 1:8 "*Pero nosotros sabemos que la ley es buena, si uno la usa legítimamente.*"
+### 1 Timoteo 1:8 "*Pero nosotros sabemos que la ley es buena, si uno la usa legítimamente.*" El uso apropiado de la ley es importante. 
+
+Si uno usa un termometro, es para medir la temperatura de algo no como desarmador. Un termometro es bueno y cumple su función bastante bien pero solo dentro de su capacidad. 
+
+No debes usar un termometro para extraer un tornillo, eso seria malo, el vidrio del termometro puede quebrar y cortar la mano. 
+
+Lo mismo con la ley. La ley es buena si se usa apropiadamente. 
 
 ### 1 Timoteo 1:9a "*Reconozcamos esto: que la ley no ha sido instituida para el justo*"
 
-### 1 Timoteo 1:9b "*sino para los transgresores*"
+Usar la ley con el justo es como usar el termometro para sacar un tornillo del juguete de un niño. Simplemente no funciona para eso. 
 
-### 1 Timoteo 1:9c "*y rebeldes*"
+La ley no ha sido establecida para santificar al justo. En realidad, la ley hace mucho daño, es peligroso si uno trata de usarlo con el justo. 
 
-### 1 Timoteo 1:9d "*para los impíos y pecadores,*"
+### 1 Timoteo 1:9b "*sino para los transgresores y rebeldes, para los impíos y pecadores, para los irreverentes y profanos, para los que matan a sus padres o a sus madres, para los asesinos, para los inmorales, homosexuales, secuestradores, mentirosos y los que juran en falso ...*"
 
-### 1 Timoteo 1:9e "*para los irreverentes y profanos,*"
+El uso correcto de la ley es con el pecador impío, es decir el incrédulo. ¿Porque es que es bueno la ley con el injusto pero no es bueno para el justo? Porque el ministerio de la ley es condenar, es apuntar a la necesidad de salvación. El justo (justificado por la fe) ya tiene salvación. Ya no esta bajo condenación entonces usar la ley con el justo es contrario a lo que ya es esa persona. 
 
-### 1 Timoteo 1:9f "*para los que matan a sus padres o a sus madres*"
-
-### 1 Timoteo 1:9g "*para los asesinos*"
-
-### 1 Timoteo 1:10a "*para los inmorales*"
-
-### 1 Timoteo 1:10a "*para los...homosexuales*"
-
-### 1 Timoteo 1:10a "*para los...secuestradores,*"
-
-### 1 Timoteo 1:10a "*para los...mentirosos y los que juran en falso*"
-
-### 1 Timoteo 1:10a "*y para cualquier otra cosa que es contraria a la sana doctrina*"
-
-### 1 Timoteo 1:11a "*según el glorioso evangelio del Dios bendito,*"
-
-### 1 Timoteo 1:11b "*que me ha sido encomendado*"
+### 1 Timoteo 1:11 "*y para cualquier otra cosa que es contraria a la sana doctrina según el glorioso evangelio del Dios bendito, que me ha sido encomendado*" La ley es para aquel que es contrario a la verdad según el evangelio. 
 
 ## En Síntesis (1 Timoteo 1:8-11)
 
@@ -565,7 +550,23 @@ Su mensaje contenia Palabras vanas tales como: la auto-negación religiosa, el f
 
 ### 1 Timoteo 2:2d "*para que podamos vivir una vida tranquila y sosegada*..." El propósito de orar por los reyes y todos los que están en autoridad es para que haya tranquilidad civil. 
 
-### 1 Timoteo 2:2e "*con toda piedad y dignidad*..." la palabra piedad es EUSEBIA que tiene el sentido de llevar una vida buena, justa y moral. Dignidad (SEMNOTES) es la idea de honorabilidad en el diario andar de uno. 
+### 1 Timoteo 2:2e "*con toda piedad y dignidad*..." 
+
+#### la palabra piedad es EUSEBIA. Significa reverencia bien diseccionada. Aparece 15 veces en el Nuevo Testamento. 8 Veces aparece en 1 Timoteo. 
+
+#### La piedad no es algo interno, sino externo. 
+
+#### Por ejemplo, la persecución viene en reacción a la piedad. Claramente no es algo interno, sino externo. 2 Timoteo 3:12
+
+#### Hechos 3:12 *Al ver esto, Pedro dijo al pueblo: «Hombres de Israel, ¿por qué se maravillan de esto, o por qué nos miran así, como si por nuestro propio poder o piedad le hubiéramos hecho andar?* 2 Pedro 1:3-7
+
+#### 1 Timoteo 4:7-8 *Pero nada tengas que ver con las fábulas profanas propias de viejas. Más bien disciplínate a ti mismo para la piedad. Porque el ejercicio físico aprovecha poco, pero la piedad es provechosa para todo, pues tiene promesa para la vida presente y también para la futura.*
+
+####  2 Pedro 1:3 *Pues Su divino poder nos ha concedido todo cuanto concierne a la vida y a la piedad, mediante el verdadero conocimiento de Aquel que nos llamó por Su gloria y excelencia.*
+
+##### El descanso y paz que provienen del interior mediante Cristo y se hacen visibles en “*piedad y dignidad*”.
+
+#### Dignidad (SEMNOTES) es la idea de honorabilidad en el diario andar de uno. 
 
 ### 1 Timoteo 2:3 "*Porque esto es bueno y agradable delante de Dios nuestro Salvador*..." Estas virtudes son agradables y aceptables delante de Dios. 
 
@@ -585,13 +586,13 @@ Su mensaje contenia Palabras vanas tales como: la auto-negación religiosa, el f
 
 #### La salvación únicamente viene por el medio de la fe en Jesucristo. 
 
-##### No es por la obras de fe que uno es salvo. 
+##### No es por las obras de fe que uno es salvo. Por ejemplo una oración de fe.  
 
-##### No es por obras de caridad que uno se salva. 
+##### No es por obras de caridad que uno se salva. Por ejemplo, por darse a uno mismo para ayudar a los mayores de edad en un geriatrico. 
 
-##### No es por obras de benevolencia que uno consigue salvación. 
+##### No es por obras de benevolencia que uno consigue salvación. Por ejemplo, no por donar un hospital. 
 
-##### No es por obras que uno confirma su salvación. 
+##### No es por obras que uno confirma su salvación. Por ejemplo, si veo obras en mi vida entonces me da seguridad que soy un hijo de Dios. 
 
 ##### La salvación es obra de Dios por gracia, únicamente a los que creen. 
 
