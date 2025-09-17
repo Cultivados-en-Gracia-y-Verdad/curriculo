@@ -926,7 +926,7 @@ Title: 1 Timoteo
 
 #### Un anciano que no cumple estos requisitos en cualquier momento, debe dejar a un lado su cargo al menos hasta poner en orden sus cosas. 
 
-### 1 Timoteo 3:2a "*Un obispo* [EPISCOPOS] *debe ser, pues...*"
+### 1 Timoteo 3:2a "*Un obispo* [EPISCOPOS] *debe ser, pues...*" Las condiciones para ancianos no son sugerencias que deben tratarse de cumplir. Son requisitos que tienen que ser cumplidos en todo momento. 
 
 ### 1 Timoteo 3:2b "*irreprochable...*" ANEPILEPTOS es sin crítica.
 
@@ -944,11 +944,11 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 3:3a "*no dado a la bebida...*" PAROINOS, no dado al vino significa que no se embriaga. No tiene el vicio de la bebida. 
 
-### 1 Timoteo 3:3a "*no pendenciero sino amable...*" no es peleón
+### 1 Timoteo 3:3a "*no pendenciero sino amable...*" misericordioso o tolerante.
 
-### 1 Timoteo 3:3b "*no contencioso...*" 
+### 1 Timoteo 3:3b "*no contencioso...*" inclinado hacia la paz siempre. 
 
-### 1 Timoteo 3:3c "*no avaricioso...*"
+### 1 Timoteo 3:3c "*no avaricioso...*" es libre del amor al dinero. 
 
 ### 1 Timoteo 3:4a "*Que gobierne bien su casa...*" gobierne es la palabra PROISTEMI. Significa mantener, estar al frente de, ser protector o guardian. 
 
@@ -956,15 +956,11 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 3:5 "*(pues si un hombre no sabe cómo gobernar su propia casa, ¿cómo podrá cuidar de la iglesia de Dios?)...*" La sabiduría para gobernar bien su propia casa es necesario para sobreveer sobre la cada de Dios. 
 
-### 1 Timoteo 3:6a "*No debe ser un recién convertido no sea que se envanezca...*" Un creyente nuevo no tiene la madurez de poder estar al frente sin que sea afectado por el orgullo. 
-
-### 1 Timoteo 3:6c "*y caiga en la condenación en que cayó el diablo...*"
+### 1 Timoteo 3:6 "*No debe ser un recién convertido no sea que se envanezca y caiga en la condenación en que cayó el diablo...*" Un creyente nuevo no tiene la madurez de poder estar al frente sin que sea afectado por el orgullo. 
 
 ### 1 Timoteo 3:7a "*Debe gozar también de una buena reputación entre los de afuera de la iglesia...*" Tener un buen testimonio entre los vecinos es un requisito para ser anciano. 
 
-### 1 Timoteo 3:7b "*para que no caiga en descrédito*"
-
-### 1 Timoteo 3:7c "*y en el lazo del diablo...*"
+### 1 Timoteo 3:7b "*para que no caiga en descrédito y en el lazo del diablo*" una comunicación grosera que menosprecia u ofende a alguien o algo injustamente.
 
 ## En Síntesis (1 Timoteo 3:1-7)
 
@@ -998,17 +994,19 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 3:8a "*De la misma manera, también los diáconos...*" la condiciónes para diáconos son de la misma manera. Deben ser cumplidos de manera continua. 
 
-### 1 Timoteo 3:8b "*deben ser dignos...*"
+### 1 Timoteo 3:8b "*deben ser dignos...*" que es digno de estima o respeto; especialmente debido a su comportamiento.
 
-### 1 Timoteo 3:8c "*de una sola palabra...*"
+### 1 Timoteo 3:8c "*de una sola palabra...*" su discurso no es hipócrita o insincero debido a la equivocación o la duplicidad.
 
-### 1 Timoteo 3:8d "*no dados al mucho vino...*"
+### 1 Timoteo 3:8d "*no dados al mucho vino...*" no se embriaga. 
 
-### 1 Timoteo 3:8e "*ni amantes de ganancias deshonestas...*"
+### 1 Timoteo 3:8e "*ni amantes de ganancias deshonestas...*" auque todos los requisitos son necesarios, este requisito es primordial porque los diaconos son los que manejan el dinero. 
 
-### 1 Timoteo 3:9a "*sino guardando el misterio de la fe...*"
+### 1 Timoteo 3:9a "*sino guardando el misterio de la fe...*" Sostienen el tema de la fe con una consciencia limpia. 1 Corintios 2:7; Gálatas 1:23
 
-### 1 Timoteo 3:9b "*con limpia conciencia...*"
+1 Timoteo 3:9b "*con limpia conciencia*..." Ellos expresan pureza y sinceridad conscientes. Es como si la consciencia limpia es el lugar donde vive guardado el misterio de la fe. 
+
+Los diaconos están en contraste con aquellos que son descritos como marcados en su propia conciencia, y que por lo tanto hacen que sus seguidores se alejen de la fe.[^12] 1 Timoteo 4:1-2
 
 ### 1 Timoteo 3:10a "*Que también estos sean sometidos a prueba primero...*"
 
@@ -1644,3 +1642,4 @@ La casa De Dios. Mateo 12:4, Marcos 2:26, Lucas 6:4, 11:51; 1 Timoteo 3:15, Hebr
 [^9]: Bible Sense Lexicon, Ephesians 2:8
 [^10]: BibleRef, https://www.bibleref.com/1-Timothy/2/1-Timothy-2-8.html
 [^11]: Studi.com, https://study.com/academy/lesson/ecclesia-ancient-greece-history-facts.html
+[^12]: Vincent Word Studies
