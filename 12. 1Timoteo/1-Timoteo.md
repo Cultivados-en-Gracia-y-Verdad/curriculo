@@ -216,7 +216,7 @@ Title: 1 Timoteo
 
 ## 1 Timoteo 3:1-4 El apartarse de la instrucción bíblica
 
-### 1 Timoteo 1:3a "*Tal como te rogué al salir para Macedonia que te quedaras en Éfeso*..." Evidéntemente, al salir para Macedonia, Pablo había rogado a Timoteo que se quedara en Efeso. 
+### 1 Timoteo 1:3a "*Tal como te rogué al salir para Macedonia que te quedaras en Éfeso*..." Evidentemente, al salir para Macedonia, Pablo había rogado a Timoteo que se quedara en Efeso. 
 
 ### 1 Timoteo 1:3b "*...para que instruyeras a algunos que no enseñaran doctrinas extrañas...*" Algunos en la congregación estaban enseñando una doctrina difentente a la que enseña la Biblia . 
 
