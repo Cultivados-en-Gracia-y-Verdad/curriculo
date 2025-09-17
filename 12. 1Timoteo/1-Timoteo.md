@@ -136,7 +136,7 @@ Title: 1 Timoteo
 
 #### 1 Corintios 1:2 "*a la iglesia de Dios que está **en Corinto**, a los que han sido santificados en Cristo Jesús, llamados a ser santos...*" 
 
-#### Romanos 1:7 "*A todos los amados de Dios que están en Roma, llamados a ser santos...*"
+#### Romanos 1:7 "*A todos los amados de Dios que están **en Roma**, llamados a ser santos...*"
 
 ### Representación universal:
 
@@ -148,7 +148,7 @@ Title: 1 Timoteo
 
 #### Colosenses 3:15 "*Que la paz de Cristo reine en sus corazones, a la cual en verdad fueron llamados en **un solo cuerpo**; y sean agradecidos.*"
 
-#### Judas 1:1 "*Judas , siervo de Jesucristo y hermano de Jacobo, a los **llamados**, amados en Dios Padre y guardados para Jesucristo:*"
+#### Judas 1:1 "*Judas , siervo de Jesucristo y hermano de Jacobo, a los **llamados**, **amados en Dios Padre** y **guardados para Jesucristo**:*"
 
 # III.1 Timoteo 1:1-2 - Saludos 
 
@@ -160,7 +160,7 @@ Title: 1 Timoteo
 
 ## Receptor de la carta: El bien amado de Pablo
 
-### 1 Timoteo 1:2a "*a Timoteo, verdadero hijo en la fe:*" ...Timoteo es el hijo espiritual amado de Pablo en la fe.
+### 1 Timoteo 1:2a "*a Timoteo, verdadero hijo en la fe:*" ...Timoteo un hijo espiritual, amado de Pablo.
 
 #### De las numerosas instrucciones y mandatos que Pablo dio a Timoteo en 1 Timoteo, es evidente que Pablo lo tenía en alta estima y le confió una inmensa carga de trabajo. 
 
@@ -174,9 +174,9 @@ Title: 1 Timoteo
 
 ##### **Gracia como Gratitud** - sentimiento de la persona que agradece un favor recibido.[^8] Lucas 17:9; Romanos 6:17; 1 Timoteo 1:12; 2 Timoteo 1:3; Hebreos 12:28
 
-##### Un saludo - en muchas ocaciones Pablo usaba la palabra gracia para saludar y despedirse. Romanos 1:7
+##### Gracia como saludo - en cada ocacion, Pablo usó la palabra gracia para saludar y despedirse en su escritos. Romanos 1:7
 
-#### Bíblicamente la palabra gracia en la edad de la iglesia es muy importante y llega a tener un significado propio. 
+#### Bíblicamente, en la edad de la iglesia, la palabra gracia es muy importante y llega a tener un significado propio. 
 
 ##### La gracia fué profetizada e indigada por los profetas de la antigüedad. 1 Pedro 1:10
 
@@ -188,9 +188,9 @@ Title: 1 Timoteo
 
 ##### La gracia es gratuita, no es por obras o merecimiento. Romanos 11:6, 3:24; Efesios 4:7
 
-##### Dios llama por medio de la gracia. Hechos 18:27; Gálatas 1:6, Colosenses 1:6, 2 Timoteo 1:9
+##### Dios nos llama por medio de la gracia. Hechos 18:27; Gálatas 1:6, Colosenses 1:6, 2 Timoteo 1:9
 
-##### La salvación es por gracia - buena voluntad libremente difundida (por Dios); especialmente para beneficio del receptor, independientemente del beneficio acumulado para el difundidor.[^9] Efesios 2:8; Hechos 15:11
+##### La salvación por gracia - buena voluntad libremente difundida (por Dios); especialmente para beneficio del receptor, independientemente del beneficio acumulado para el difundidor.[^9] Efesios 2:8; Hechos 15:11
 
 ###### Somos justificados libremente por su gracia. Romanos 3:24, Tito 3:7
 
@@ -208,76 +208,104 @@ Title: 1 Timoteo
 
 ###### Pedro animó a sus lectores a crecer en la gracia. 2 Pedro 1:2, 3:18
 
-### 1 Timoteo 1:2c "*misericordia*..." esta palabra, ELEOS, también es traducido compasión. 
+### 1 Timoteo 1:2c "*misericordia*..." esta palabra, ELEOS, puede ser traducido compasión. 
 
 ### 1 Timoteo 1:2d "*y paz...*" EIRENE es posible que Pablo juntó dos saludos (griego-favor y hebreo-paz) para hacer el suyo. 
 
 #### más que un simple saludo, Pablo deseaba que la paz de Cristo gobierne en el corazón de Timoteo. 2 Timoteo 2:22; 1 Tesalonicenses 5:23
 
-### 1 Timoteo 1:2e "*de parte de Dios Padre...*"
+### 1 Timoteo 1:2e "*de parte de Dios Padre...*" la gracia, misericordia y paz que Pablo deseaba para Timoteo provienen de Dios Padre.  
 
-### 1 Timoteo 1:2f "*y de Cristo Jesús nuestro Señor*". Cristo no solo es "*nuestra esperanza*", también es "*nuestro Señor*". Pablo y Timoteo servían a Jesucristo. 
+### 1 Timoteo 1:2f "*y de Cristo Jesús nuestro Señor*". No solo de Dios Padre sino también de parte de Jesucristo. 
 
-#### La gracia, la misericordia y la paz provienen de Jesucristo. La expresión de Pablo es que Timoteo los podría experimentar plenamente. 
+#### Pablo introdujo a Cristo en la carta como Señor. Cristo no solo es "*nuestra esperanza*", también es "*nuestro Señor*". Pablo y Timoteo compartían el mismo Señor,  Jesucristo. 
+
+### La expresión de Pablo indica que deseaba que Timoteo podría experimentar más plenamente la gracia, misericordia y paz de Dios. 
 
 # IV.1 Timoteo 1:3-20 -- Batallando por la Gracia
 
 ## 1 Timoteo 3:1-4 El apartarse de la instrucción bíblica
 
+<<<<<<< Updated upstream
 ### 1 Timoteo 1:3a "*Tal como te rogué al salir para Macedonia que te quedaras en Éfeso*..." Evidéntemente, al salir para Macedonia, Pablo había rogado a Timoteo que se quedara en Efeso. 
+=======
+### 1 Timoteo 1:3a "*Tal como te rogué al salir para Macedonia que te quedaras en Éfeso*..." Evidentemente, al salir para Macedonia, Pablo había rogado a Timoteo que se quedara en Efeso. Hechos 18:21
+>>>>>>> Stashed changes
 
-### 1 Timoteo 1:3b "*...para que instruyeras a algunos que no enseñaran doctrinas extrañas...*" Algunos en la congregación estaban enseñando una doctrina difentente a la que enseña la Biblia . 
+### 1 Timoteo 1:3b "*...para que instruyeras a algunos que no enseñaran doctrinas extrañas...*" Algunos en la congregación estaban enseñando una doctrina difentente al mensaje de la Biblia. 
 
-#### La frase "enseñaran doctrinas extrañas" es la palabra HETERODIDASKALEO en griego. Significa enseñar "otra doctrina" o "desviar de la verdad". 
+#### La frase "*enseñaran doctrinas extrañas*" es la palabra HETERODIDASKALEO. Significa enseñar "otra doctrina" o "desviarse de la verdad". 
 
-#### Debemos comprender que tipo de enseñanza que cambie el evangelio o que vaya en contra de la escritura es considerdo una doctrina extreña. 1Co 15:3-4, Gal 1:6-9
+#### Debemos comprender que cualquier tipo de enseñanza que cambie el evangelio, que vaya en contra de la escritura es considerdo una doctrina extraña. 1 Corintios 15:3-4, Gálatas 1:6-9
 
-#### La enseñanza en la iglesia no debe provenir de un lugar que no sea La Palabra de Dios correctamente enseñada según el contexto. 
+### La enseñanza en la iglesia no debe provenir de un lugar que no sea La Palabra de Dios correctamente entendida dentro de su contexto. 
 
 ### 1 Timoteo 1:4a "*ni prestaran atención*..." La observación del Texto bíblico es muy importante. A lo que prestemos atención afectará los resultados de nuestra instrucción. 
 
-### 1 Timoteo 1:4b "*a mitos*..." Se refiere a prestar atención a fabulas o cosas de ficción.
+Algunos estaban dedicando su atención a cosas que desviaban del verdadero conocimiento de Cristo. 
 
-### 1 Timoteo 1:4c "*y genealogías interminables*..." la genealogía es importante entre la cultura judia. La descendencia de uno definia su tribu  y quien era su ancestro. 
+### 1 Timoteo 1:4b "*a mitos*..." pusieron su atención en fabulas o cosas de ficción.
 
-#### Sin embargo, se estaba usando el púlpito para enseñar a la iglesia genealogías que nunca terminaban. 
+### 1 Timoteo 1:4c "*y genealogías interminables*..." sabemos que la genealogía era importante entre la cultura judia. La descendencia de uno definía su tribu y quien era su ancestro. 
 
-#### Hacer largos recuentos de la historia o genalogía no es enseñanza que llevaría a la madurez. 
+#### Sin embargo, se estaba usando el púlpito para enseñar a la iglesia genealogías. 
 
-### 1 Timoteo 1:4d "*lo que da lugar a discusiones inútiles*". El resultado de enseñar fabulas y genealogías lleva a disputar inútilmente entre los hermanos. Tito 1:10
+#### Hacer largos recuentos de la historia y genalogías no es enseñanza que llevaría a la madurez. Timoteo debía instruir a estos maestros que dejen de enseñar este tipo de cosas. 
 
-#### Es poco provechoso que la iglesia se ocupe en estas discusiones inútiles.
+### 1 Timoteo 1:4d "*lo que da lugar a discusiones inútiles*". El resultado de enseñar fabulas y genealogías interminables es que lleva a disputar inútilmente entre los hermanos. Tito 1:10
+
+#### La frase "discusiones inútiles" es EKZETESIS. La palabra significa sobre investigación de las cosas. 
+
+#### Es nada provechoso que la iglesia se ocupe en la sobre investigación de cosas inútiles.
 
 ### 1 Timoteo 1:4e "*en vez de hacer avanzar el plan de Dios que es por fe*". La única manera que haya crecimiento (madurez) en la iglesia es enseñando la gracia de Dios, esto es "*avanzar el plan de Dios que es por fe*". 
 
-### La gracia y la fe armonizan juntos perfectamente. 
+#### La gracia y la fe armonizan juntos perfectamente. 
 
-### Cualquier enseñanza extraña distraerá de las Escrituras para prestar atención a cosas que producen más bien más carnalidad y se manifestará en contiendas y discusiones sin propósito espiritual alguno. 
+#### Cualquier enseñanza extraña distraerla del mensaje de las Escrituras para prestar atención a cosas que producen más bien más carnalidad y se manifestará en contiendas y discusiones sin propósito espiritual alguno. 1 Timoteo 6:4
 
-### 1 Timoteo 1:4f "*así te encargo ahora*". En otra ocación Pablo le dirá a Timoteo que encargue hombres fieles que sean idoneos para enseñar a otros. 2 Timoteo 2:2
+### 1 Timoteo 1:4f "*así te encargo ahora*". Pablo le confió esta importante tarea a Timoteo. Debía hacerlo con urgencia pues los resultados serian devastadores. 
 
+<<<<<<< Updated upstream
 ## 1 Timoteo 1:5 El propósito correcto de la instrucción
 <<<<<<< Updated upstream
  
 ### 1 Timoteo 1:5a "*Pero el propósito de nuestra instrucción...*" Pablo prosigue buscando abrir el entendimiento de Timoteo al mostrarle la motivación de la enseñanza en la iglesia. 
 =======
-
-### 1 Timoteo 1:5a "*Pero el propósito de nuestra instrucción...*" Pero, en contraste con la enseñanza desviada de la verdad, Pablo prosigue buscando abrir el entendimiento de Timoteo al mostrarle la motivación de la enseñanza en la iglesia. 
-
-La enseñanza de Pablo y Timoteo es una instrucción diferente. No son compatibles. Tener a las dos enseñanzas al mismo tiempo no llevaría a la iglesia a crecer. 
-
-No es que Pablo tiene algo personal contra uno de ellos. Es que simplemente su enseñanza se ha desviado del Evangelio.  
+=======
+#### En su siguiente carta Pablo le dirá a Timoteo que encargue "*hombres fieles que sean idoneos para enseñar a otros*". 2 Timoteo 2:2
 >>>>>>> Stashed changes
 
-### 1 Timoteo 1:5b "*es el amor*". Sin la instrucción en verdad, no puede haber amor. Sin amor, no se recibe la verdad. 
+## 1 Timoteo 1:5 El propósito de la instrucción verdadera
 
-#### Pablo no enseñaba por enseñar. Sus intenciones en enseñar no eran para beneficio personal era el amor que nace de la verdad. 
+### 1 Timoteo 1:5a "*Pero...* en un claro contraste con esos que enseñan doctrinas extrañas, Pablo explica...
 
-Sin la verdad, no hay amor. 
+<<<<<<< Updated upstream
+No es que Pablo tiene algo personal contra uno de ellos. Es que simplemente su enseñanza se ha desviado del Evangelio.  
+>>>>>>> Stashed changes
+=======
+### 1 Timoteo 1:5b *el propósito de nuestra instrucción...*" En contraste con la enseñanza desviada de la verdad, Pablo prosigue buscando abrir el entendimiento de Timoteo para mostrarle la finalidad de la enseñanza verdadera en la iglesia. 
+>>>>>>> Stashed changes
 
-Sin la verdad, no puede haber unidad. La unidad es en base a la verdad. 
+#### La enseñanza de Pablo y Timoteo es una instrucción diferente. No son compatibles. Cada instrucción tiene su resultado. 
 
-### 1 Timoteo 1:5c "*es el amor...nacido de corazón puro,*" 
+#### Al separarse de algunos que enseñan incorrectamente, Pablo no esta dividiendo la iglesia. Al contrario, la unidad de la iglesia depende de la verdad. 
+
+#### No es que Pablo tiene algo personal contra uno de ellos. Es que simplemente su enseñanza se había desviado.  
+
+### 1 Timoteo 1:5b "*es el amor*". El propósito de la instrucción es el amor. Una instrucción sana, verdaderamente bíblica llevará al amor. 
+
+#### Sin instrucción de la verdad, no puede haber amor. 
+
+#### Pablo no enseñaba por enseñar cosas interesantes para llevarles a discusiones que alimentan la carne. Sus intenciones en enseñar la verdad era para beneficio de los hermanos.  Por medio de la instrucción tendrian amor. 
+
+##### El amor proviene de Dios. Juan 15:10; Romanos 5:8; 1 Timoteo 1:14
+
+##### Sin la verdad, no puede haber amor.  Juan 13:35; Romanos 12:9; 1 Corintios 13:6; 2 Corintios 6:6; 1 Timoteo 6:14
+
+##### Sin la verdad, no puede haber unidad. La unidad es en base a la verdad. Juan 17:26; 2 Corintios 13:11
+
+### 1 Timoteo 1:5c "*es el amor...nacido de corazón puro,*" Salmo 51:10
 
 ### 1 Timoteo 1:5d "*es el amor...de una buena conciencia,*"
 
@@ -639,13 +667,9 @@ La piedad es algo que agrada a Dios y sirve como medio para el alcance del mundo
 
 ### 1 Timoteo 2:9a "*Asimismo, que las mujeres se vistan...*" Después de hablar a los hombres, ahora Pablo se dirige a las hermanas. 
 
-### 1 Timoteo 2:9b "*con ropa decorosa...*" Pablo no esta sugiriendo vestirse mal o de mal aspecto. Esto seria el mismo error de atraer atención a uno mismo. 
+### 1 Timoteo 2:9b "*con ropa decorosa con pudor y modestia no con peinado ostentoso no con oro, o perlas, o vestidos costosos...*" Pablo no esta sugiriendo vestirse mal o de mal aspecto. Esto seria el mismo error de atraer atención a uno mismo.  
 
-### 1 Timoteo 2:9c "*con pudor y modestia...*" 
-
-### 1 Timoteo 2:9d "*no con peinado ostentoso...*"
-
-### 1 Timoteo 2:9e "*no con oro, o perlas, o vestidos costosos...*"
+La idea aquí es que las mujeres no busquen que foco sea sobre ellas. 
 
 ### 1 Timoteo 2:10 "*sino con buenas obras, como corresponde a las mujeres que profesan la piedad...*" Las mujeres vestidas de buenas obras es palpable y alinea correctamente con lo que profesan. 
 
