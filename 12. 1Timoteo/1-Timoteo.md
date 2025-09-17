@@ -238,7 +238,7 @@ Title: 1 Timoteo
 
 # IV.1 Timoteo 1:3-20 -- Batallando por la Gracia
 
-## 1 Timoteo 3:1-4 El apartarse de la instrucción bíblica
+## 1 Timoteo 1:1-4 El apartarse de la instrucción bíblica
 
 ### 1 Timoteo 1:3a "*Tal como te rogué al salir para Macedonia que te quedaras en Éfeso*..." Evidentemente, al salir para Macedonia, Pablo había rogado a Timoteo que se quedara en Efeso. Hechos 18:21
 
@@ -247,46 +247,20 @@ Title: 1 Timoteo
 #### La frase "*enseñaran doctrinas extrañas*" es la palabra HETERODIDASKALEO. Significa enseñar "otra doctrina" o "desviarse de la verdad". 
 
 #### Debemos comprender que cualquier tipo de enseñanza que cambie el evangelio, que vaya en contra de la escritura es considerdo una doctrina extraña. 1 Corintios 15:3-4, Gálatas 1:6-9
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-
->>>>>>> Stashed changes
-=======
-
->>>>>>> Stashed changes
-### La enseñanza en la iglesia no debe provenir de un lugar que no sea La Palabra de Dios correctamente entendida dentro de su contexto. 
+#### La enseñanza en la iglesia no debe provenir de un lugar que no sea La Palabra de Dios correctamente entendida dentro de su contexto. 
 
 ### 1 Timoteo 1:4a "*ni prestaran atención*..." La observación del Texto bíblico es muy importante. A lo que prestemos atención afectará los resultados de nuestra instrucción. 
 
-Algunos estaban dedicando su atención a cosas que desviaban del verdadero conocimiento de Cristo. 
+#### Algunos estaban dedicando su atención a cosas que desviaban del verdadero conocimiento de Cristo. 
 
 ### 1 Timoteo 1:4b "*a mitos*..." pusieron su atención en fabulas o cosas de ficción.
 
 ### 1 Timoteo 1:4c "*y genealogías interminables*..." sabemos que la genealogía era importante entre la cultura judia. La descendencia de uno definía su tribu y quien era su ancestro. 
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 #### Hacer largos recuentos de la historia y genalogías no es enseñanza que llevaría a la madurez. Timoteo debía instruir a estos maestros que dejen de enseñar este tipo de cosas. 
 
 ### 1 Timoteo 1:4d "*lo que da lugar a discusiones inútiles*". El resultado de enseñar fabulas y genealogías interminables es que lleva a disputar inútilmente entre los hermanos. Tito 1:10
 
-=======
-#### Sin embargo, se estaba usando el púlpito para enseñar a la iglesia genealogías. 
-
-#### Hacer largos recuentos de la historia y genalogías no es enseñanza que llevaría a la madurez. Timoteo debía instruir a estos maestros que dejen de enseñar este tipo de cosas. 
-
-### 1 Timoteo 1:4d "*lo que da lugar a discusiones inútiles*". El resultado de enseñar fabulas y genealogías interminables es que lleva a disputar inútilmente entre los hermanos. Tito 1:10
-
->>>>>>> Stashed changes
-=======
-#### Sin embargo, se estaba usando el púlpito para enseñar a la iglesia genealogías. 
-
-#### Hacer largos recuentos de la historia y genalogías no es enseñanza que llevaría a la madurez. Timoteo debía instruir a estos maestros que dejen de enseñar este tipo de cosas. 
-
-### 1 Timoteo 1:4d "*lo que da lugar a discusiones inútiles*". El resultado de enseñar fabulas y genealogías interminables es que lleva a disputar inútilmente entre los hermanos. Tito 1:10
-
->>>>>>> Stashed changes
 #### La frase "discusiones inútiles" es EKZETESIS. La palabra significa sobre investigación de las cosas. 
 
 #### Es nada provechoso que la iglesia se ocupe en la sobre investigación de cosas inútiles.
@@ -298,36 +272,6 @@ Algunos estaban dedicando su atención a cosas que desviaban del verdadero conoc
 #### Cualquier enseñanza extraña distraerla del mensaje de las Escrituras para prestar atención a cosas que producen más bien más carnalidad y se manifestará en contiendas y discusiones sin propósito espiritual alguno. 1 Timoteo 6:4
 
 ### 1 Timoteo 1:4f "*así te encargo ahora*". Pablo le confió esta importante tarea a Timoteo. Debía hacerlo con urgencia pues los resultados serian devastadores. 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-
-## 1 Timoteo 1:5 El propósito de la instrucción verdadera
-### 1 Timoteo 1:5a "*Pero...* en un claro contraste con esos que enseñan doctrinas extrañas, Pablo explica...  
-### 1 Timoteo 1:5b *el propósito de nuestra instrucción...*" En contraste con la enseñanza desviada de la verdad, Pablo prosigue buscando abrir el entendimiento de Timoteo para mostrarle la finalidad de la enseñanza verdadera en la iglesia. 
-#### La enseñanza de Pablo y Timoteo es una instrucción diferente. No son compatibles. Cada instrucción tiene su resultado. 
-
-#### Al separarse de algunos que enseñan incorrectamente, Pablo no esta dividiendo la iglesia. Al contrario, la unidad de la iglesia depende de la verdad. 
-
-#### No es que Pablo tiene algo personal contra uno de ellos. Es que simplemente su enseñanza se había desviado.  
-
-### 1 Timoteo 1:5b "*es el amor*". El propósito de la instrucción es el amor. Una instrucción sana, verdaderamente bíblica llevará al amor. 
-=======
->>>>>>> Stashed changes
-
-#### En su siguiente carta Pablo le dirá a Timoteo que encargue "*hombres fieles que sean idoneos para enseñar a otros*". 2 Timoteo 2:2
-
-<<<<<<< Updated upstream
-### 1 Timoteo 1:5a "*Pero el propósito de nuestra instrucción...*" Pablo prosigue buscando abrir el entendimiento de Timoteo al mostrarle la motivación de la enseñanza en la iglesia. 
-
-#### Sin instrucción de la verdad, no puede haber amor. 
-
-#### Pablo no enseñaba por enseñar cosas interesantes para llevarles a discusiones que alimentan la carne. Sus intenciones en enseñar la verdad era para beneficio de los hermanos.  Por medio de la instrucción tendrian amor. 
-
-##### El amor proviene de Dios. Juan 15:10; Romanos 5:8; 1 Timoteo 1:14
-=======
-
-#### En su siguiente carta Pablo le dirá a Timoteo que encargue "*hombres fieles que sean idoneos para enseñar a otros*". 2 Timoteo 2:2
-
 ## 1 Timoteo 1:5 El propósito de la instrucción verdadera
 
 ### 1 Timoteo 1:5a "*Pero...* en un claro contraste con esos que enseñan doctrinas extrañas, Pablo explica...
@@ -353,43 +297,6 @@ Algunos estaban dedicando su atención a cosas que desviaban del verdadero conoc
 ##### Sin la verdad, no puede haber unidad. La unidad es en base a la verdad. Juan 17:26; 2 Corintios 13:11
 
 ### 1 Timoteo 1:5c "*es el amor...nacido de corazón puro,*" Salmo 51:10
->>>>>>> Stashed changes
-
-##### Sin la verdad, no puede haber amor.  Juan 13:35; Romanos 12:9; 1 Corintios 13:6; 2 Corintios 6:6; 1 Timoteo 6:14
-
-##### Sin la verdad, no puede haber unidad. La unidad es en base a la verdad. Juan 17:26; 2 Corintios 13:11
-
-### 1 Timoteo 1:5c "*es el amor...nacido de corazón puro,*" El permanecer en la enseñanza que es segun verdad tendra como fruto el amor nacido de un corazon puro.  Salmo 51:10
-
-#### Un corazon puro es una condicion de nuestro andar, de no haberse contaminado por cambiar o tergiversar la verdad. 1 Corintios 4:2; Gálatas 5:22
-=======
-## 1 Timoteo 1:5 El propósito de la instrucción verdadera
-
-### 1 Timoteo 1:5a "*Pero...* en un claro contraste con esos que enseñan doctrinas extrañas, Pablo explica...
-
-### 1 Timoteo 1:5b *el propósito de nuestra instrucción...*" En contraste con la enseñanza desviada de la verdad, Pablo prosigue buscando abrir el entendimiento de Timoteo para mostrarle la finalidad de la enseñanza verdadera en la iglesia. 
-
-#### La enseñanza de Pablo y Timoteo es una instrucción diferente. No son compatibles. Cada instrucción tiene su resultado. 
-
-#### Al separarse de algunos que enseñan incorrectamente, Pablo no esta dividiendo la iglesia. Al contrario, la unidad de la iglesia depende de la verdad. 
-
-#### No es que Pablo tiene algo personal contra uno de ellos. Es que simplemente su enseñanza se había desviado.  
-
-### 1 Timoteo 1:5b "*es el amor*". El propósito de la instrucción es el amor. Una instrucción sana, verdaderamente bíblica llevará al amor. 
-
-#### Sin instrucción de la verdad, no puede haber amor. 
-
-#### Pablo no enseñaba por enseñar cosas interesantes para llevarles a discusiones que alimentan la carne. Sus intenciones en enseñar la verdad era para beneficio de los hermanos.  Por medio de la instrucción tendrian amor. 
-
-##### El amor proviene de Dios. Juan 15:10; Romanos 5:8; 1 Timoteo 1:14
-
-##### Sin la verdad, no puede haber amor.  Juan 13:35; Romanos 12:9; 1 Corintios 13:6; 2 Corintios 6:6; 1 Timoteo 6:14
-
-##### Sin la verdad, no puede haber unidad. La unidad es en base a la verdad. Juan 17:26; 2 Corintios 13:11
-
-### 1 Timoteo 1:5c "*es el amor...nacido de corazón puro,*" Salmo 51:10
->>>>>>> Stashed changes
-
 #### Sin la verdad, no hay amor. 1Corintios 13:6
 
 #### Sin la verdad, no puede haber unidad. La verdad es la base de la unidad. Efesios 2:13-19
@@ -901,7 +808,9 @@ Algunos estaban dedicando su atención a cosas que desviaban del verdadero conoc
 
 ### LA VOLUNTAD DE DIOS (1 Timoteo 2:3-7)
 
-### La misión (1 Timoteo 2, 3-4): «*Dios...quiere que todos se salven...*". El mediador (1 Timoteo  2:5): Jesucristo se interpone entre Dios y las personas.
+### La misión (1 Timoteo 2, 3-4): «*Dios...quiere que todos se salven...*". 
+
+### El mediador (1 Timoteo  2:5): Jesucristo se interpone entre Dios y las personas.
 
 ### El método (1 Timoteo 2:6): La salvación se efectuó por la muerte de Cristo.
 
@@ -943,11 +852,11 @@ Algunos estaban dedicando su atención a cosas que desviaban del verdadero conoc
 
 #### Obispo, anciano y sobreveedor son términos sinónimos. En realidad hay tres palabras en el griego que son usadas para describir la misma posición de lider en la iglesia. 
 
-##### EPISCOPOS - 
+##### EPISCOPOS - el oficio de velar, dirigir y cuidar una iglesia.[^9]
 
-##### PRESBUTEROS - 
+##### PRESBUTEROS - un anciano encargado de una asamblea de creyentes cristianos (como cargo designado o elegido).[^9]
 
-##### POIMEN - 
+##### POIMEN - gobernar a un grupo de personas, entendido como cuidar ovejas o cabras.[^9]
 
 #### En cada caso, siempre los vemos a estos líderes en plural. El cual nos lleva a pensar en la práctica de la pluralidad de liderazgo. Si bien puede haber un anciano que se llama pastor que tiene el don de pastorear, no es el único anciano. El es parte del concilio de ancianos. 
 
