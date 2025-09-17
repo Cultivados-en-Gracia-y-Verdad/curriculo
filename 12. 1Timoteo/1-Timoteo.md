@@ -92,11 +92,23 @@ Title: 1 Timoteo
 
 ### En resumen, podemos decir que Pablo le escribió a Timoteo por su inmenso amor y aprecio por la obra que Timoteo había sido llamado a realizar al servicio del Señor Jesús.
 
-# II. La Iglesia del Nuevo Testamento
+# II. La iglesia el cuerpo de Cristo y casa del Dios vivo
+
+## Introducción
+
+### Generación a generación Dios ha estado buscando incanzablemente a este mundo perdido, con el único proposito de salvarlo y rescatarlo de las tinieblas y del rumbo del hombre que se dirige hacia la condena eterna. Salmo 8:4
+
+### Dios siendo proactivo, no le tomo por sorpresa la caída del hombre, sino que el mismo se anticipo en proveer un medio de salvación, ya que el mismo ideo un solo camino de verdad y vida que posibilite acercase nuevamente al Padre. 2 Timoteo 1:9;  Juan 14:6; 1 Pedro 1:20.
+
+### Dios uso diferentes agentes para la predicación de su palabra, con el propósito de alcanzar al mundo perdido, entre ellos, específicamente, en este tiempo, Dios lo esta llevando a cabo, a través de la iglesia. Colosenses 1:25; 1 Timoteo 3:15.
+
+### Por tal motivo es bueno que nos hagamos la pregunta ¿qué es la iglesia?, ¿quien fundo la iglesia?, ¿a quien le pertenece la iglesia?, ¿cuando inicio?, ¿cuando termina? y ¿quienes forman parte de ella?.
 
 ## La Palabra Iglesia y su orígen
 
-### Mateo 16:18 "*Yo también te digo que tú eres Pedro, y sobre esta roca **edificaré Mi iglesia**; y las puertas del Hades no prevalecerán contra ella.*"
+### La palabra iglesia tiene su origen en la sorprendente promesa hecha por el Señor Jesucristo cuando “*Simón Pedro respondió: «Tú eres el Cristo, el Hijo del **Dios viviente»**.*” Mateo 16:16
+
+### Mateo 16:18 "*Yo también te digo que tú eres Pedro, y sobre esta roca **edificaré Mi iglesia**; y las puertas del Hades no prevalecerán contra ella.*" Es en este pasaje que el Señor Jesucristo dio su origen a la palabra iglesia, en pertenencia, propósito, cuidado y protección de ella.
 
 ### *Ekklesia* es la palabra griega traducida en el Nuevo Testamento como "iglesia". Proviene de *ek*, que significa "salir de" y *kaleo*, que significa "llamar hacia", y tiene que ver con un grupo de personas llamadas de un lugar a otro. 
 
@@ -250,7 +262,7 @@ Title: 1 Timoteo
 
 ## 1 Timoteo 1:5 El propósito correcto de la instrucción
 <<<<<<< Updated upstream
- 
+
 ### 1 Timoteo 1:5a "*Pero el propósito de nuestra instrucción...*" Pablo prosigue buscando abrir el entendimiento de Timoteo al mostrarle la motivación de la enseñanza en la iglesia. 
 =======
 
