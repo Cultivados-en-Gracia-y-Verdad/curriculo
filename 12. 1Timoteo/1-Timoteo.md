@@ -138,6 +138,32 @@ aTitle: 1 Timoteo
 
 #### El mundo (incrédulos) no puede recibir al Espíritu Santo, solo aquellos que han creído en la obra de Jesucristo son los que pueden recibirlo. Juan 14:17; Romanos 8:16.
 
+#### El ministerio del Espiritu Santo en el creyente seria de enseñar y recordar todas las cosas que el Señor Jesucristo habia dicho a sus discipulos Juan 14:26.
+
+#### Es por eso que cuando llegó el Espiritu Santo en el día de pentecostes inicio la obra y el ministerio de la predicación del evangelio. Hechos 2:1-4.
+
+#### Hechos 2:41b "*...y se añadieron aquel día como 3,000 almas.*"
+
+#### Hechos 2:44 "*Todos los que habían creído estaban juntos y tenían todas las cosas en común*"
+
+#### Hechos 2:47 "*alabando a Dios y hallando favor con todo el pueblo. Y el Señor añadía cada día a la ("**iglesia**" RVR60) los que iban siendo salvos*".
+
+### Hechos 1:8b "*...y serán Mis testigos en Jerusalén, en toda Judea y Samaria, y hasta los confines de la tierra».*“ Con la llegada del Espíritu Santo Dios identifico a todo creyente como testigos de la obra de Jesucristo. Hechos 2:37-39; Juan 17:16; Juan 17:20.
+
+#### Todo creyente ha sido incluido a la obra que esta haciendo el Espíritu Santo de alcanzar al mundo perdido, por medio de la predicación del evangelio. Romanos 1:9; Filipenses 1:27.
+
+#### Juan 16:8-10 "*Y cuando él venga, convencerá al mundo de pecado, de justicia y de juicio. De pecado, por cuanto no creen en mí; de justicia, por cuanto voy al Padre, y no me veréis más; y de juicio, por cuanto el príncipe de este mundo ha sido ya juzgado.*".
+
+### Por lo cual podemos concluir que la fundación y el inicio de la iglesia fue con la llegada del Espíritu Santo, ya que fue el quien inicio la obra.
+
+### Es por medio del Espíritu Santo que el Señor Jesucristo esta llevando a cabo la edificación de la iglesia. Mateo 16:18; Juan 14:18; Juan 14:20
+
+#### En el tiempo actual, el Espíritu Santo continua llevando a cabo su ministerio, tanto con los creyentes de la iglesia, guiándolos a toda verdad (Juan 16:13) y convenciendo por medio de la predicación de la palabra de Dios al mundo perdido. (Juan 16:8).
+
+## Propiedad, autoridad y comunidad
+
+### Existen 77 menciones de la palabra iglesia en la biblia versión (NBLA).
+
 ## ¿Llamada de donde?
 
 #### 2 Timoteo 1:9 "*Él nos ha salvado y nos ha llamado con un llamamiento santo, no según nuestras obras, sino según Su propósito y según la gracia que nos fue dada en Cristo Jesús desde la eternidad*"
