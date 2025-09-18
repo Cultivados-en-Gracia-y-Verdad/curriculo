@@ -1698,9 +1698,11 @@ Saber como debe ser el andar del creyente en cualquier circunstancia es provecho
 
 # II\. LAS PALABRAS DE PABLO A TIMOTEO (6:11-21)
 
-### 1 Timoteo 6:11a "*Pero tú, oh hombre de Dios,*"
+### 1 Timoteo 6:11a "*Pero tú, oh hombre de Dios,*" Nuevamente Pablo le habla diréctamente a Timoteo ya no como hijo sino hombre de Dios. 
 
-### 1 Timoteo 6:11a "*huye de estas cosas,*"
+### 1 Timoteo 6:11a "*huye de estas cosas,*" la instrucción aqui es de huir. 
+
+La idea es escaparse de estas cosas. 
 
 ### 1 Timoteo 6:11a "*y sigue la justicia,*"
 
