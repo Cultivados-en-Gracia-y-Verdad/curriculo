@@ -946,17 +946,15 @@ aTitle: 1 Timoteo
 
 #### Este pasaje nos expresa que el rescate realizado por medio de él, fue por hecho para toda la humanidad. 1 Juan 2:2, 2 Corintios 5:15.
 
+### 1 Timoteo 2:6b "*testimonio dado a su debido tiempo...*" este testimonio de rescate hecho por Jesucristo fue realizado en un tiempo específico planificado por el Padre y llegó a cumplirse. Marcos 1:15; Gálatas 4:4;
 
+#### La palabra *testimonio* es [MARTURION], que es donde viene nuestra palabra mártir. 
 
-### 
+#### El testimonio es un relato o una declaración que una persona hace para afirmar la veracidad de algo que ha visto, experimentado o de lo que tiene conocimiento. 
 
-### 1 Timoteo 2:6b "*testimonio dado a su debido tiempo...*" La plabra testimonio es [MARTURION], que es donde viene nuestra palabra martir. 
+#### Una traducción mas literal nos da a entender mejor el significado de testimonio. *El cual se dio a sí mismo en rescate por todos, Cuyo testimonio fue dado en sus propios tiempos.*(BTX4)
 
-#### Según el Diccionario de la Lengua Española, "Un martir es una persona que muere o sufre grandes padecimientos en defensa de sus creencias o convicciones". 
-
-#### Otra manera de expresarlo seria, "es una persona que evidencia (mediante la muerte) su firme convicción" y así creemos que se debe entender en este contexto. 
-
-#### En otras palabras, Cristo estuvo dispuesto a evidenciar su firme convicción por nosotros en que se dio en rescate por todos al entregarse a si mismo en la cruz. 
+#### El testimonio de Jesucristo es la obra que el hizo por nosotros en la Cruz, este es testimonio que los creyentes confirman.1 Corintios 1:6, 2 Tesalonicenses 1:10, 1 Timoteo 2:6,  2 Timoteo 1:8, Apocalipsis 1:2.
 
 ### 1 Timoteo 2:7a "*Y para esto yo fui constituido predicador y apóstol, (digo la verdad en Cristo, no miento)...*" ahora Pablo es constituido, según la voluntad de Dios, como predicador de estos hechos. 
 
