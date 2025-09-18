@@ -178,6 +178,18 @@ aTitle: 1 Timoteo
 
 #### Las 77 menciones de "Ekklesía" del antiguo testamento no se refieren al cuerpo de Cristo que es la iglesia, habla de una asamblea o una reunión como lo vimos en la definición de la palabra. 1Cronicas 11:4; 2 Cronicas 28:14.
 
+#### Y en el nuevo testamento 37 menicones no se refiere a la "Ekklesía" como cuerpo de Cristo, sino a una reunion o asamblea. Hechos 19:41.
+
+#### El libro de Hechos lleva 17 menciones, por ejemplo Hechos 8:1; Hechos 9:31; Hechos 11:26; Hechos 20:28
+
+#### En las epistolas del apostol Pablo se hace mención de 46 veces Romanos 16:1; Efesios 1:22; Filemon 1:2
+
+#### En el resto de las epistolas y cartas se hacen mención de 11 veces Santiago 5:14 ; 3Juan 1:6 ; Apocalipsis 1:4
+
+#### Y el Señor Jesucristo lo menciono 3 veces Mateo 16:18; Mateo 18:17
+
+### Es de notar que el apóstol Pedro no hace mención de iniciar la iglesia o que sea el apóstol Pedro la cabeza de la iglesia, o como muchos piensan que él sea el primer papa.
+
 ## ¿Llamada de donde?
 
 #### 2 Timoteo 1:9 "*Él nos ha salvado y nos ha llamado con un llamamiento santo, no según nuestras obras, sino según Su propósito y según la gracia que nos fue dada en Cristo Jesús desde la eternidad*"
