@@ -170,6 +170,10 @@ Title: 1 Timoteo
 
 ### Hoy, la iglesia es el agente que Dios esta usando para alcanzar a todas las naciones, así también alcanzar a los perdidos de la nación de Israel, ya que el evangelio es el mensaje de Dios para todo el mundo. Romanos 11:14, Romanos 1:14; Romanos 1:16.
 
+### 1 Timoteo 3:15b: "*...Es la iglesia del Dios vivo, columna y sostén de la verdad*"
+
+### Efesios 3:10-11: "*para dar a conocer ahora a los principados y a las potestades en los cielos las múltiples formas de la sabiduría de Dios, **por medio de la Iglesia**, conforme al plan eterno que ha realizado por medio de Cristo Jesús, Señor nuestro,*"
+
 ### Existen 191 menciones de la palabra Ekklesía en la biblia, 77 veces en el antiguo testamento, 114 veces en el nuevo testamento, de los cuales 77 menciones son las que se refieren específicamente a la iglesia que el Señor Jesucristo esta edificando.
 
 #### Las 77 menciones de "Ekklesía" del antiguo testamento no se refieren al cuerpo de Cristo que es la iglesia, habla de una asamblea o una reunión como lo vimos en la definición de la palabra. 1Cronicas 11:4; 2 Cronicas 28:14.
