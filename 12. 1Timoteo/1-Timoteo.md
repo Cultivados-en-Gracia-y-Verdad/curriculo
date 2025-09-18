@@ -212,31 +212,31 @@ aTitle: 1 Timoteo
 
 # III.1 Timoteo 1:1-2 - Saludos 
 
-## Autor de la carta:  Un Apostol de Jesucristo
+## Autor de la carta:  Un Apóstol de Jesucristo
 
 ### 1 Timoteo 1:1 "*Pablo, apóstol de Cristo Jesús por mandato de Dios nuestro Salvador, y de Cristo Jesús nuestra esperanza*" 
 
-#### 1 Timoteo 1:1a "*Pablo...*" vemos el nombre de Pablo como firma de esta epistola. 1 Timoteo 1:13, 15, 2:7
+#### 1 Timoteo 1:1a "*Pablo...*" Vemos el nombre de Pablo como firma de esta epístola. 1 Timoteo 1:13, 15, 2:7
 
 ##### Pablo, anteriormente llamado Saulo, nacido en la ciudad de Tarso. Hechos 22:3
 
-##### En su vida como incredulo fue un fiel religioso judío (Filipenses 3:4-9) y un fiel perseguidor de los del "Camino", la Iglesia de Dios (Hechos 20:4, Gálatas 1:13).
+##### En su vida como incrédulo fue un fiel religioso judío (Filipenses 3:4-9) y un fiel perseguidor de los del "Camino", la Iglesia de Dios (Hechos 20:4, Gálatas 1:13).
 
-##### En Hechos 9 podemos encontrar registros de su salvación al ver a Cristo resucitado
+##### En Hechos 9 podemos encontrar registros de su salvación al ver a Cristo resucitado.
 
-##### Hechos 13:9 muestra: "*Entonces **Saulo**, llamado también **Pablo**...*" ahí encontramos que Saulo pasa a ser llamado Pablo durante los días de su primer viaje como apostol de Cristo hasta el día de su martirio en el año 67 d.C aproximadamente.
+##### Hechos 13:9 muestra: "*Entonces **Saulo**, llamado también **Pablo**...*" ahí encontramos que Saulo pasa a ser llamado Pablo durante los días de su primer viaje como apóstol de Cristo hasta el día de su martirio en el año 67 d.C aproximadamente.
 
-#### 1 Timoteo 1:1b "*Pablo, apóstol de Cristo Jesús...*" Pablo se describe como un apostol.
+#### 1 Timoteo 1:1b "*Pablo, apóstol de Cristo Jesús...*" Pablo se describe como un apóstol.
 
-##### Cristo escoge a Pablo como Su apostol (enviado, emisario, mensajero) a los gentiles. Hechos 9:15, 22:21; Romanos 11:13; 2 Timoteo 1:11
+##### Cristo escoge a Pablo como Su apóstol (enviado, emisario, mensajero) a los gentiles. Hechos 9:15, 22:21; Romanos 11:13; 2 Timoteo 1:11
 
-##### Si bien, encontramos otros apostoles (enviados) mencionados en la escritura (Hechos 14:14, Filipenses 2:25, 2 Corintios 8:23)
+##### Si bien, encontramos otros apóstoles (enviados) mencionados en la escritura (Hechos 14:14, Filipenses 2:25, 2 Corintios 8:23)
 
 ##### En la Biblia observamos solo doce apóstoles de Cristo. Apocalipsis 21:14
 
 ##### Encontramos que Pablo estaría dentro del grupo de los doce apóstoles:
 
-###### Escogidos directamento por nuestro Señor Jesucristo. 1 Corintios 9:1-2
+###### Escogidos directamente por nuestro Señor Jesucristo. 1 Corintios 9:1-2
 
 ###### Utilizados como el fundamento de la Iglesia. Efesios 2:19-20, 4:11-12; 2 Pedro 3:2
 
@@ -244,19 +244,19 @@ aTitle: 1 Timoteo
 
 ##### Al día de hoy no encontramos apóstoles de Cristo, directamente designados por Él.
 
-#### 1 Timoteo 1:1c "*...por mandato de Dios nuestro Salvador...*" la iniciativa y la autoridad en designar a Pablo como apostol a los gentiles vino directamente de Dios Padre.
+#### 1 Timoteo 1:1c "*...por mandato de Dios nuestro Salvador...*" La iniciativa y la autoridad en designar a Pablo como apóstol a los gentiles vino directamente de Dios Padre.
 
-##### Las primeras palabras en esta carta demuestran quien es el que esta al control del trabajo de Pablo, quien es el iniciador y proveedor en su apostolado, Dios mismo. Gálatas 1:1, 11-12
+##### Las primeras palabras en esta carta demuestran quien es el que está al control del trabajo de Pablo, quien es el iniciador y proveedor en su apostolado, Dios mismo. Gálatas 1:1, 11-12
 
-##### Dios Padre es descrito aquí como Salvador (Redentor, Libertador). No se queda ahí sino que el Espiritu Santo inspiro las palabras "*...nuestro Salvador...*", no solo era el Salvador único y eterno de Pablo, sino tambien lo era de su hijo en la fe, Timoteo. Judas 1:24-25
+##### Dios Padre es descrito aquí como Salvador (Redentor, Libertador). No se queda ahí, sino que el Espíritu Santo inspiro las palabras "*...nuestro Salvador...*", no solo era el Salvador único y eterno de Pablo, sino también lo era de su hijo en la fe, Timoteo. Judas 1:24-25
 
 ##### Vemos que el apostolado de Pablo no fue por iniciativa propia, sino que era orquestado por su Salvador.
 
-#### 1 Timoteo 1:1d "*...por mandato... de Cristo Jesús...*" en total armonia con el Padre, Cristo tambien es el originador del trabajo de Pablo para Su Obra, la edificación de Su Iglesia (Sus llamados afuera). Hechos 26:15-18
+#### 1 Timoteo 1:1d "*...por mandato... de Cristo Jesús...*" En total armonía con el Padre, Cristo también es el originador del trabajo de Pablo para Su Obra, la edificación de Su Iglesia (Sus llamados afuera). Hechos 26:15-18
 
-#### 1 Timoteo 1:1e "*...Cristo Jesús nuestra esperanza...*". Notese las palabras de este versiculo, no dice que Jesucristo nos da esperanza. Sino que Jesucristo era la esperanza de Pablo y le recuerda a Timoteo que tambien era su esperanza. Romanos 8:24-25
+#### 1 Timoteo 1:1e "*...Cristo Jesús nuestra esperanza...*". Nótese las palabras de este versículo, no dice que Jesucristo nos da esperanza. Sino que Jesucristo era la esperanza de Pablo y le recuerda a Timoteo que también era su esperanza. Romanos 8:24-25
 
-##### Jesucristo es tambien ahora la esperanza de cada persona que creyó en Él, en Su persona y Su obra completa (Su muerte por los pecados, Su sepultura y Su resurección). Si tú tambien creiste en Jesucristo, como Pablo y Timoteo, Él tambien es ahora y para siempre tu esperanza.
+##### Jesucristo es también ahora la esperanza de cada persona que creyó en Él, en Su persona y Su obra completa (Su muerte por los pecados, Su sepultura y Su resurrección). Si tú también creíste en Jesucristo, como Pablo y Timoteo, Él también es ahora y para siempre tu esperanza.
 
 ##### 1 Pedro 1:3, Jesucristo es por medio de quien tienes una esperanza viva, porque Él vive.
 
@@ -264,41 +264,41 @@ aTitle: 1 Timoteo
 
 ## Receptor de la carta: El bien amado de Pablo
 
-### 1 Timoteo 1:2a "*a Timoteo, verdadero hijo en la fe:...*" Timoteo un creyente en Jesucristo y tambien hijo espiritual amado de Pablo.
+### 1 Timoteo 1:2a "*a Timoteo, verdadero hijo en la fe:...*" Timoteo un creyente en Jesucristo y también el hijo espiritual amado de Pablo.
 
-#### Por Hechos 16:1-2 sabemos que Timoteo era un joven discipulo (creyente) crecido en Listra, de madre judía creyente y padre griego. Tambien gozaba de buen testimonio entre los hermanos de Listra e Iconio.
+#### Por Hechos 16:1-2 sabemos que Timoteo era un joven discípulo (creyente) crecido en Listra, de madre judía creyente y padre griego. También gozaba de buen testimonio entre los hermanos de Listra e Iconio.
 
 #### Observando un poco la manera en la cual Pablo se dirige a Timoteo:
 
-##### La palabra *verdadero* viene del griego GNÉSIOS que significa legítimo, genuino, fiel.  Esta palabra no solo refleja autenticidad sino tambien confiabilidad.
+##### La palabra *verdadero* viene del griego GNÉSIOS que significa legítimo, genuino, fiel.  Esta palabra no solo refleja autenticidad sino también confiabilidad.
 
-##### La palabra *hijo* viene del griego TEKNON que significa tambien niño, descendiente. Esta palabra muestra un vinculo muy cercano y de mucho aprecio entre Pablo y Timoteo
+##### La palabra *hijo* viene del griego TEKNON que significa también niño, descendiente. Esta palabra muestra un vínculo muy cercano y de mucho aprecio entre Pablo y Timoteo.
 
-##### Timoteo llego a ser alguien de mucho estima para Pablo (1 Corintios 4:17), colaborador en el ministerio (Romanos 16:21), compañero fiel (1 Corintios 4:17, 16:10; 1 Tesalonicenses 3:2)
+##### Timoteo llego a ser alguien de mucha estima para Pablo (1 Corintios 4:17), colaborador en el ministerio (Romanos 16:21), compañero fiel (1 Corintios 4:17, 16:10; 1 Tesalonicenses 3:2)
 
-#### De las numerosas instrucciones y mandatos que Pablo da a Timoteo en esta epistola, es evidente que Pablo lo tenía en alta estima.
+#### De las numerosas instrucciones y mandatos que Pablo da a Timoteo en esta epístola, es evidente que Pablo lo tenía en alta estima.
 
-#### Tambien veremos que le confió una inmensa responsabilidad en el ministerio del evangelio. 
+#### También veremos que le confió una inmensa responsabilidad en el ministerio del evangelio. 
 
-### 1 Timoteo 1:2b "*Gracia...*" es la palabra CHARIS en griego. Significaba varias cosas en el primer siglo como veremos. 
+### 1 Timoteo 1:2b "*Gracia...*" es la palabra CHARIS en griego. Significaba varias cosas en el primer siglo como veremos a continuación. 
 
-#### El uso de la  palabra gracia en el griego del primer siglo abarca tres sentidos principales.[^6] 
+#### El uso de la palabra gracia en el griego del primer siglo abarca tres sentidos principales. [^6] 
 
-##### **Gracia como Bondad** - Amabilidad de una persona respecto a otra.[^7] Lucas 4:22
+##### **Gracia como Bondad** - Amabilidad de una persona respecto a otra. [^7] Lucas 4:22
 
-##### **Gracia como Favor** - Ayuda o socorro que se concede a alguien.[^7]Lucas 1:30, 2:52; Hechos 2:47
+##### **Gracia como Favor** - Ayuda o socorro que se concede a alguien. [^7]Lucas 1:30, 2:52; Hechos 2:47
 
-##### **Gracia como Gratitud** - Sentimiento de la persona que agradece un favor recibido.[^8] Lucas 17:9; Romanos 6:17; 1 Timoteo 1:12; 2 Timoteo 1:3; Hebreos 12:28
+##### **Gracia como Gratitud** - Sentimiento de la persona que agradece un favor recibido. [^8] Lucas 17:9; Romanos 6:17; 1 Timoteo 1:12; 2 Timoteo 1:3; Hebreos 12:28
 
-##### **Gracia como saludo** - En cada ocacion, Pablo usó la palabra gracia para saludar y despedirse en su escritos. Romanos 1:7
+##### **Gracia como saludo** - En cada ocasión, Pablo usó la palabra gracia para saludar y despedirse en su escritos. Romanos 1:7
 
 #### Bíblicamente, en la edad de la iglesia, la palabra gracia es muy importante y llega a tener un significado propio. 
 
-##### La gracia fué profetizada e indigada por los profetas de la antigüedad. 1 Pedro 1:10-11
+##### La gracia fue profetizada e indagada por los profetas de la antigüedad. 1 Pedro 1:10-11
 
-##### La gracia para salvación fue manifiésta en la cruz. Tito 2:11
+##### La gracia para salvación fue manifiesta en la cruz. Tito 2:11
 
-##### Así como La Ley vino por medio de Moises, la gracia fue hecha realidad por medio de Jesucristo. Juan 1:17, Hebreos 2:9
+##### Así como La Ley vino por medio de Moisés, la gracia fue hecha realidad por medio de Jesucristo. Juan 1:17, Hebreos 2:9
 
 ##### La gracia para el creyente proviene de Dios. Juan 1:16; 1 Corintios 1:4, 16:23; Gálatas 6:18, 1 Tesalonicenses 5:28
 
@@ -306,11 +306,11 @@ aTitle: 1 Timoteo
 
 ##### Dios nos llama por medio de la gracia. Hechos 18:27; Gálatas 1:6, Colosenses 1:6, 2 Timoteo 1:9
 
-##### La salvación por gracia - buena voluntad libremente difundida (por Dios); es especialmente para beneficio del receptor y es independiente del beneficio acumulado para el difundidor.[^9] Efesios 2:8; Hechos 15:11
+##### La salvación por gracia - buena voluntad libremente difundida (por Dios); es especialmente para beneficio del receptor y es independiente del beneficio acumulado para el difundidor. [^9] Efesios 2:8; Hechos 15:11
 
 ###### Somos justificados libremente por su gracia. Romanos 3:24, Tito 3:7
 
-###### Redención y perdón de pecados es según la riqueza de Su gracia. Efesios 1:7
+###### La redención y perdón de pecados es según la riqueza de Su gracia. Efesios 1:7
 
 ##### La fe y la gracia armonizan perfectamente. Romanos 4:16
 
@@ -324,21 +324,21 @@ aTitle: 1 Timoteo
 
 ###### Pedro animó a sus lectores a crecer en la gracia. 2 Pedro 1:2, 3:18
 
-### 1 Timoteo 1:2c "*misericordia*..." esta palabra, ELEOS, puede ser traducido compasión. 
+### 1 Timoteo 1:2c "*misericordia*..." Esta palabra, ELEOS, puede ser traducido compasión. 
 
 #### Podríamos decir que es la manifestación externa de la compasión; da por sentado la necesidad en aquel que la recibe, y recursos adecuados para afrontar la necesidad de parte de aquel que la exhibe.
 
-#### La mayor muestra de misericordia de nuestro Dios es no dar el castigo que merecemos por nuestras injusticias. Y esta misericordía es por medio de la persona y obra de Jesucristo. Tito 3:5-7
+#### La mayor muestra de misericordia de nuestro Dios es no dar el castigo que merecemos por nuestras injusticias. Y esta misericordia es por medio de la persona y obra de Jesucristo. Tito 3:5-7
 
 ### 1 Timoteo 1:2d "*y paz...*" EIRENE es posible que Pablo juntó dos saludos (griego-favor y hebreo-paz) para hacer el suyo. 
 
 #### Más que un simple saludo, Pablo deseaba que la paz de Cristo gobierne en el corazón de Timoteo. 2 Timoteo 2:22; 1 Tesalonicenses 5:23
 
-### 1 Timoteo 1:2e "*de parte de Dios Padre...*" la gracia, misericordia y paz que Pablo deseaba para Timoteo provienen de Dios Padre.  
+### 1 Timoteo 1:2e "*de parte de Dios Padre...*" La gracia, misericordia y paz que Pablo deseaba para Timoteo provienen de Dios Padre.  
 
-### 1 Timoteo 1:2f "*y de Cristo Jesús nuestro Señor*". No solo de Dios Padre sino también de parte de Jesucristo. 
+### 1 Timoteo 1:2f "*y de Cristo Jesús nuestro Señor.*" No solo de Dios Padre sino también de parte de Jesucristo. 
 
-#### Pablo introdujo a Cristo en la carta como Señor. Cristo no solo es "*nuestra esperanza*", también es "*nuestro Señor*". Pablo y Timoteo compartían el mismo Señor,  Jesucristo. 
+#### Pablo introdujo a Cristo en la carta como Señor. Cristo no solo es "*nuestra esperanza*", también es "*nuestro Señor*". Pablo y Timoteo compartían el mismo Señor Jesucristo. 
 
 ### La expresión de Pablo indica que deseaba que Timoteo pudiera experimentar más plenamente la gracia, misericordia y paz de Dios. 
 
