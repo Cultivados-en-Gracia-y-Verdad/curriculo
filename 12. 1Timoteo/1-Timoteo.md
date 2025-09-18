@@ -160,9 +160,15 @@ aTitle: 1 Timoteo
 
 #### En el tiempo actual, el Espíritu Santo continua llevando a cabo su ministerio, tanto con los creyentes de la iglesia, guiándolos a toda verdad (Juan 16:13) y convenciendo por medio de la predicación de la palabra de Dios al mundo perdido. (Juan 16:8).
 
-## Propiedad, autoridad y comunidad
+## Misterio el Plan de Dios con la Iglesia
 
-### Existen 77 menciones de la palabra iglesia en la biblia versión (NBLA).
+### La plan de Dios siempre ha sido llegar a los gentiles (a todo el mundo), y en ese plan la nación de Israel, era antiguamente el agente por el cual, anunciaba la luz a las naciones. Éxodo 19:5-6; Genesis 12:3.
+
+### Por causa del rechazo de la nación de Israel al Señor Jesucristo Hechos 3:13-15, los gentiles llegaron a ser participantes en los planes de Dios. Romanos 11:17.
+
+#### No debemos llegar a la conclucion de que Dios ha desechado a su pueblo, un día Dios retomara sus planes con la nación de Israel Romanos 11:1-2.
+
+### Hoy, la iglesia es el agente que Dios esta usando para alcanzar a todas las naciones, así también alcanzar a los perdidos de la nación de Israel, ya que el evangelio es el mensaje de Dios para todo el mundo. Romanos 11:14, Romanos 1:14; Romanos 1:16.
 
 ## ¿Llamada de donde?
 
