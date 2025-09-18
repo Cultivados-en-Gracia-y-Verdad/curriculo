@@ -1066,9 +1066,13 @@ Exposición por que escuchar a pablo debido a que el es apóstol de Jesucristo.
 
 ### 1 Timoteo 3:2a "*Un obispo* [EPISCOPOS] *debe ser, pues...*" Las condiciones para ancianos no son sugerencias que deben tratarse de cumplir. Son requisitos que tienen que ser cumplidos en todo momento y en plenitud. 
 
-### 1 Timoteo 3:2b "*irreprochable...*" ANEPILEPTOS es sin crítica.
+### 1 Timoteo 3:2b "*irreprochable...*" [ANEPILEPTOS] es sin crítica.
 
-### 1 Timoteo 3:2c "*marido de una sola mujer...*"
+### 1 Timoteo 3:2c "*marido de una sola mujer...*" El lider de la iglesia, si esta casado, debe ser marido de una sola mujer.
+
+#### Esto excluye cualquier pensamiento poligamo. Dios instituyo el matrimo unicamente entre un solo hombre y una sola mujer. Efesios 5:22-33
+
+#### Por el requisito observado encontramos que este rol dentro de la iglesia es exclusivamente para varones creyentes.
 
 ### 1 Timoteo 3:2d "*sobrio*..." NEFALIOS quiere decir que es sobrio
 
