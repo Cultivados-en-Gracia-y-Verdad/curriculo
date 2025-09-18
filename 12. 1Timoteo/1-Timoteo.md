@@ -782,39 +782,37 @@ aTitle: 1 Timoteo
 
 ### 1 Timoteo 2:4  ''*el cual quiere que todos los hombres sean salvos y vengan al pleno conocimiento de la verdad*''. Podemos ver lo que Dios quiere para todos los hombres.
 
-### 1 Timoteo 2:4a "*el cual quiere*..." La palabra quiere [DSELO] nos indica el deseo o voluntad.
+### 1 Timoteo 2:4a "*el cual quiere*..." La palabra quiere [THELO] nos indica el deseo o voluntad.
 
-#### En un contraste podemos ver lo contrario, Dios no desea la muerte del impío, sino que  se arrepienta [METANOIA-cambiar de mente] de sus malos caminos. Ezequiel. 18:23, 32; 2 Pedro 3:9.
+#### En un contraste podemos ver lo contrario, Dios no desea la muerte del impío, sino que  se arrepienta [METANOIA-cambiar de mente] de sus malos caminos. Ezequiel. 18:23, 32; 2 Pedro 3:9
 
 #### Un aspecto de la soberanía de Dios es: lo que el quiere lo puede hacer, sin embargo no vemos que todos los hombres sean salvos y vengan al conocimiento de la verdad, ¿que paso?, este pasaje nos aclarará mas detalles acerca de la voluntad de Dios y  el deseo que tiene por la humanidad.
 
-##### la voluntad de Dios no debe confundirse con la soberanía de Dios
+##### La voluntad de Dios no debe confundirse con la soberanía de Dios
 
-##### que es lo que Dios quiere Vs que es lo que Dios se propone Hacer
+##### Que es lo que Dios quiere Vs que es lo que Dios se propone Hacer
 
-##### Lo que DIos quiere es que todos los hombres sean salvos (Deseo, anhelo, Voluntad)
+##### Lo que DIos quiere es que todos los hombres sean salvos (deseo, anhelo, voluntad)
 
 ##### El no quiere que sean salvos obligadamente, sinó de manera libre.
 
-##### Todo lo que Dios se propone hacer lo hace (Hizo posible la salvación por fe), vemos en la creación este aspecto de la soberanía y el deseo de Dios.
+##### Todo lo que Dios se propone hacer lo hace (hizo posible la salvación por fe), vemos en la creación este aspecto de la soberanía y la voluntad de Dios.
 
-### 1 Timoteo 2:4b "*que todos los hombres sean salvos*..." El primer aspecto de la voluntad de Dios es
+### 1 Timoteo 2:4b "*que todos los hombres sean salvos*..." El primer aspecto de la voluntad de Dios es que desea que todos sean salvos. 
 
-#### La pregunta es como Dios quiere que los hombres sean salvos?
+#### Lo primero que Dios desea es que todos los hombres sean salvos. Esto debería ser suficiente motivación para que estemos buscando compartir el Evangelio con otros. Dios quiere salvarlos. 
 
-#### el quiere que sean salvos por medio de la fe, por medio de creer en el evangelio.
+#### La pregunta es ¿como quiere Dios que los hombres sean salvos?
 
-#### por medio de anunciar las buenas noticias a todas las personas y crean en el mensaje de Jesucristo.
+##### El quiere que todos los hombres sean salvos por medio de la fe, por medio de creer en el evangelio.
 
-###  Lo primero que Dios quiere es que todos los hombres sean salvos. Esto debería ser suficiente motivación para que estemos buscando compartir el Evangelio con otros. Dios quiere salvarlos. 
+#### El espera que puedan responder de manera libre, voluntaria, respetando su libre albedrio, la decisión de creer en el con respecto a su salvación que es por medio de la fe en el evangelio. 
 
-#### El espera que puedan responder de manera libre, voluntaria, respetando su libre albedrio, la decisión de Creer en el con respecto a su salvación que es por medio de la fe en el evangelio. 
+##### Para con los hombres con respecto a la salvación, 
 
-#### para con los hombres con respecto a la salvación, 
+##### No es forzada, obligada u predeterminada para salvación , sino es en base a una completa libertad de elegir.
 
-#### no es forzada, obligada u predeterminada para salvación , sino es en base a una completa libertad de elegir.
-
-####  el quiere que todos los hombres sean salvos. Ahora la pregunta, Todos los hombres son salvos?
+#####  El quiere que todos los hombres sean salvos. Ahora la pregunta, Todos los hombres son salvos?
 
 ##### Nos muestra que este es un deseo el cual Dios no obliga a las personas a salvarse, sino que es por medio de la predicación del evangelio, y obtienen la salvación por fe respetando su libre albeldrio de creerle a Dios o rechazarlo.
 
@@ -846,7 +844,7 @@ aTitle: 1 Timoteo
 
 ### 1 Timoteo 2:6a "*quien se dio a sí mismo en rescate por todos...*" la voluntad de Dios es que se llegue a al pleno conocimiento de que Cristo se dio a si mismo para dar posibilidad de rescate a todos. Filipenses 2:7; Romanos 15:3; 1 Corintios 15:3; Gálatas 1:4; Hebreos 7:27
 
-### 1 Timoteo 2:6b "*testimonio dado a su debido tiempo...*" La plabra testimonio es MARTURION, que es donde viene nuestra palabra martir. 
+### 1 Timoteo 2:6b "*testimonio dado a su debido tiempo...*" La plabra testimonio es [MARTURION], que es donde viene nuestra palabra martir. 
 
 #### Según el Diccionario de la Lengua Española, "Un martir es una persona que muere o sufre grandes padecimientos en defensa de sus creencias o convicciones". 
 
@@ -998,21 +996,21 @@ aTitle: 1 Timoteo
 
 ### 1 Timoteo 3:1a "*Palabra fiel es esta:...*" La frase "*Palabra fiel*" aparece tres veces en 1 Timoteo. 1 Timoteo 1:15, 3:1, 4:9
 
-1 Timoteo 1:15 "*Palabra fiel*" - Cristo vino al mundo para salvar a los pecadores...
+#### 1 Timoteo 1:15 "*Palabra fiel*" - Cristo vino al mundo para salvar a los pecadores...
 
-1 Timoteo 3:1 "*Palabra fiel*" - si alguien desea obispado buena cosa desea...
+#### 1 Timoteo 3:1 "*Palabra fiel*" - si alguien desea obispado buena cosa desea...
 
-1 Timoteo 4:9 "*Palabra fiel*" - por esto trabajamos y sufrimos, porque esperamos al Dios viviente...
+#### 1 Timoteo 4:9 "*Palabra fiel*" - por esto trabajamos y sufrimos, porque esperamos al Dios viviente...
 
 ### 1 Timoteo 3:1b "*si alguien aspira al cargo de obispo buena obra desea hacer*..." Pablo aquí le aclara a Timoteo que se hay algún hermano que aspira ser anciano que lo reciba la intención con buen ánimo. 
 
 #### Obispo, anciano y sobreveedor son términos sinónimos. En realidad hay tres palabras en el griego que son usadas para describir la misma posición de lider en la iglesia. 
 
-##### EPISCOPOS - el oficio de velar, dirigir y cuidar una iglesia.[^9]
+##### [EPISCOPOS] - el oficio de velar, dirigir y cuidar una iglesia.[^9]
 
-##### PRESBUTEROS - un anciano encargado de una asamblea de creyentes cristianos (como cargo designado o elegido).[^9]
+##### [PRESBUTEROS] - un anciano encargado de una asamblea de creyentes cristianos (como cargo designado o elegido).[^9]
 
-##### POIMEN - gobernar a un grupo de personas, entendido como cuidar ovejas o cabras.[^9]
+##### [POIMEN] - gobernar a un grupo de personas, entendido como cuidar ovejas o cabras.[^9]
 
 #### En cada caso, siempre los vemos a estos líderes en plural. El cual nos lleva a pensar en la práctica de la pluralidad de liderazgo. Si bien puede haber un anciano que se llama pastor que tiene el don de pastorear, no es el único anciano. El es parte del concilio de ancianos. 
 
@@ -1030,21 +1028,21 @@ aTitle: 1 Timoteo
 
 ### 1 Timoteo 3:2a "*Un obispo* [EPISCOPOS] *debe ser, pues...*" Las condiciones para ancianos no son sugerencias que deben tratarse de cumplir. Son requisitos que tienen que ser cumplidos en todo momento. 
 
-### 1 Timoteo 3:2b "*irreprochable...*" ANEPILEPTOS es sin crítica.
+### 1 Timoteo 3:2b "*irreprochable...*" [ANEPILEPTOS] es sin crítica.
 
 ### 1 Timoteo 3:2c "*marido de una sola mujer...*"
 
-### 1 Timoteo 3:2d "*sobrio*..." NEFALIOS quiere decir que es sobrio
+### 1 Timoteo 3:2d "*sobrio*..." [NEFALIOS] quiere decir que es sobrio
 
-### 1 Timoteo 3:2e "*prudente...*" SOFRONE quiere decir moderado. 
+### 1 Timoteo 3:2e "*prudente...*" [SOFRONE] quiere decir moderado. 
 
-### 1 Timoteo 3:2f "*de conducta decorosa...*" KOSMIOS bien ordenado, respetuoso
+### 1 Timoteo 3:2f "*de conducta decorosa...*" [KOSMIOS] bien ordenado, respetuoso
 
-### 1 Timoteo 3:2g "*hospitalario...*" FILOXENOS es amable con sus visitas. 
+### 1 Timoteo 3:2g "*hospitalario...*" [FILOXENOS] es amable con sus visitas. 
 
-### 1 Timoteo 3:2h "*apto para enseñar...*" apto para enseñar es una sola palabra DIDAKTIKOS en el griego. Debe ser idóneo para enseñar. 
+### 1 Timoteo 3:2h "*apto para enseñar...*" apto para enseñar es una sola palabra [DIDAKTIKOS] en el griego. Debe ser idóneo para enseñar. 
 
-### 1 Timoteo 3:3a "*no dado a la bebida...*" PAROINOS, no dado al vino significa que no se embriaga. No tiene el vicio de la bebida. 
+### 1 Timoteo 3:3a "*no dado a la bebida...*" [PAROINOS], no dado al vino significa que no se embriaga. No tiene el vicio de la bebida. 
 
 ### 1 Timoteo 3:3a "*no pendenciero sino amable...*" misericordioso o tolerante.
 
@@ -1052,7 +1050,7 @@ aTitle: 1 Timoteo
 
 ### 1 Timoteo 3:3c "*no avaricioso...*" es libre del amor al dinero. 
 
-### 1 Timoteo 3:4a "*Que gobierne bien su casa...*" gobierne es la palabra PROISTEMI. Significa mantener, estar al frente de, ser protector o guardian. 
+### 1 Timoteo 3:4a "*Que gobierne bien su casa...*" gobierne es la palabra [PROISTEMI]. Significa mantener, estar al frente de, ser protector o guardian. 
 
 ### 1 Timoteo 3:4b "*teniendo a sus hijos sujetos con toda dignidad...*" sus hijos deben conducirse respetuosamente.  
 
@@ -1096,7 +1094,7 @@ aTitle: 1 Timoteo
 
 ### Muchos creen que el rol de diaconos se estableció en Hechos 6:1-7 cuando hubo necesidad de atención a las necesidades físicas de los hermanos. Ahi, los apostoles decidieron que era necesario cuidar de los hermanos pero sin descuidar la enseñanza. 
 
-### La palabra DIAKONO significa servidor. Una persona en el oficio de diácono que se preocupa por las necesidades y el sustento de una asamblea de creyentes.[^9]
+### La palabra [DIAKONO] significa servidor. Una persona en el oficio de diácono que se preocupa por las necesidades y el sustento de una asamblea de creyentes.[^9]
 
 ### Entonces establecieron diaconos o siervos que estarían pendientes de las necesidades físicas. 
 
@@ -1116,9 +1114,9 @@ aTitle: 1 Timoteo
 
 #### Los diaconos están en contraste con aquellos que son descritos como marcados en su propia conciencia, y que por lo tanto hacen que sus seguidores se alejen de la fe.[^12] 1 Timoteo 4:1-2
 
-### 1 Timoteo 3:10a "*Que también estos sean sometidos a prueba primero...*" La palabra prueba es DOKIMAZO - ser o llegar a ser examinado de manera crítica o minuciosa, o con minucioso detalle (comprobar que sea genuino o no).[^9] 
+### 1 Timoteo 3:10a "*Que también estos sean sometidos a prueba primero...*" La palabra prueba es [DOKIMAZO] - ser o llegar a ser examinado de manera crítica o minuciosa, o con minucioso detalle (comprobar que sea genuino o no).[^9] 
 
-### 1 Timoteo 3:10b "*y si son irreprensibles...*" Irreprensibles es ANANKLETOS  - no sujeto a, merecedor o digno de una acusación de maldad. 
+### 1 Timoteo 3:10b "*y si son irreprensibles...*" Irreprensibles es [ANANKLETOS]  - no sujeto a, merecedor o digno de una acusación de maldad. 
 
 ### El único resultado aceptables de ser examinado es ser hallado sin acusación alguna. Es irreprensible. 
 
@@ -1140,11 +1138,11 @@ aTitle: 1 Timoteo
 
 ### 1 Timoteo 3:11c "*no calumniadoras...*" Muchas veces se confían cosas delicadas a las esposas de los líderes. Ellas deben saber guardar esa información y no ser chismosas. 
 
-#### La palabra calumniadora es DIABOLOS - caracterizado por atacar la reputación de otra persona mediante calumnias o difamaciones.
+#### La palabra calumniadora es [DIABOLOS] - caracterizado por atacar la reputación de otra persona mediante calumnias o difamaciones.
 
 ### 1 Timoteo 3:11d "*sino sobrias...*" que actuen con templanza. 
 
-### 1 Timoteo 3:11e "*fieles en todo...*" fieles es PISTOS - caracterizado por la creencia, la confianza y la dependencia. Es decir son confiables en todo. 
+### 1 Timoteo 3:11e "*fieles en todo...*" fieles es [PISTOS] - caracterizado por la creencia, la confianza y la dependencia. Es decir son confiables en todo. 
 
 ### 1 Timoteo 3:12a "*Que los diáconos...*" Luego Pablo vuelve a mensionar más requisitos para los diaconos. 
 
@@ -1178,7 +1176,7 @@ aTitle: 1 Timoteo
 
 ### No debe ser codicioso. 1 Timoteo 3:8c
 
-## La casa de Dios
+## 1 Timoteo 3:14-16 Te Escribo para que sepas...
 
 ### 1 Timoteo 3:14 "*Te escribo estas cosas, esperando ir a verte pronto...*" Pablo tenía toda intención de reunirse con Timoteo en Efeso. Sin embargo, su situación no le permitía hacer planes. 
 
@@ -1214,7 +1212,7 @@ aTitle: 1 Timoteo
 
 #### La iglesia es del "*Dios vivo*". En contraste con las religiones paganas que tienen dioses muertos, la iglesia es del único Dios vivo y verdadero. 
 
-#### La iglesia es la casa De Dios. Mateo 12:4, Marcos 2:26, Lucas 6:4, 11:51; 1 Timoteo 3:15, Hebreos 3:2, 5, 6, 10:21; 1 Pedro 4:17
+#### La iglesia es la casa de Dios. Mateo 12:4, Marcos 2:26, Lucas 6:4, 11:51; 1 Timoteo 3:15, Hebreos 3:2, 5, 6, 10:21; 1 Pedro 4:17
 
 ### 1 Timoteo 3:15e "*columna y sostén de la verdad...*" La iglesia no es solo propiedad de Dios. Tiene también un propósito establecido por Dios. Es columna y sostén  de la verdad en esta dispensación. 
 
@@ -1242,9 +1240,9 @@ El misterio de la piedad es El (Cristo) en nosotros.
 
 #### Veamos a continuación como Pablo presenta la provision de Dios para la piedad de su pueblo.
 
-### 1 Timoteo 3:16a "*El...fue manifestado en la carne...*" El fue manifestado en un cuerpo. No fue solo una representación de Cristo. Los hombres lo vieron tal como era, Dios encarnado. 
+### 1 Timoteo 3:16a "*El...fue manifestado en la carne...*" El fue manifestado en un cuerpo. No fue solo una representación de Cristo. Los hombres lo vieron tal como era, Dios encarnado. Juan 1:14, Romanos 1:3
 
-Todos podian mirar a Jesus el Cristo. Fue manifestado para que todos lo vieran. No solo su manera de andar sino su muerte en la cruz por nuestros pecados. Juan 3:14, 12:32; 1 Juan 3:5
+#### Todos podian mirar a Jesus el Cristo. Fue manifestado para que todos lo vieran. No solo su manera de andar sino su muerte en la cruz por nuestros pecados. Juan 3:14, 12:32; 1 Juan 3:5
 
 ### 1 Timoteo 3:16b "*El...fue vindicado en el Espíritu...*" El Espíritu dio testimonio en defensa de quien era El. El Espíritu autentifico su identidad. Aprobó el Cristo. 
 
@@ -1252,23 +1250,15 @@ Todos podian mirar a Jesus el Cristo. Fue manifestado para que todos lo vieran. 
 
 #### El Espiritu Santo estuvo con el durante su ministerio. Lucas 4:18-21 
 
-#### El Espiritu Santo le levantó de los muertos. Romanos 1:4
+#### El Espiritu Santo le levantó de los muertos. Romanos 1:4, 8:11
 
 ### 1 Timoteo 3:16c "*El...fue contemplado por ángeles...*" Los ángeles le pusieron grán atención. 
 
-#### Los angeles fueron testigos de la vida de Jesus. 
+#### Los angeles fueron testigos a traves de la vida de Jesus. Efesios 3:10
 
-##### Nacimiento, 
+##### 1 Pedro 1:12 "*A ellos les fue revelado que no se servían a sí mismos, sino a ustedes, en estas cosas que ahora les han sido anunciadas mediante los que les predicaron el evangelio por el Espíritu Santo enviado del cielo; cosas a las cuales los ángeles anhelan mirar*".
 
-##### vida, 
-
-##### tentación en el desierto, 
-
-##### agonia en el jardín, 
-
-##### su muerte 
-
-##### y resurrección. 
+##### Angeles fueron testigos de Su nacimiento (Lucas 2:9-14), Su tentación en el desierto (Mateo 4:11), Su agonia en el jardín (Lucas 22:43) y Su resurrección (Mateo 28:5-6).
 
 ### 1 Timoteo 3:16d "*El...fue proclamado entre las naciones...*" La proclamación de su nombre ha llegado a los confines de la tierra. Su nombre ha sido anunciado a las naciones. 
 
@@ -1282,7 +1272,7 @@ Todos podian mirar a Jesus el Cristo. Fue manifestado para que todos lo vieran. 
 
 #### Después de escuchar el mensaje de la verdad, el evangelio de Jesucristo, las personas a través del mundo entero pusieron su fe en El. 
 
-### 1 Timoteo 3:16f "*El...fue recibido arriba en gloria...*" Después que El murio por nuestros pecados y fue sepultado, el Espíritu Santo le levantó de los muertos y el Padre lo recibió en gloria. 
+### 1 Timoteo 3:16f "*El...fue recibido arriba en gloria...*" Después que El murio por nuestros pecados y fue sepultado, el Espíritu Santo le levantó de los muertos (Romanos 8:11) y el Padre lo recibió en gloria. Hechos 1:9-11
 
 ## En Síntesis (1 Timoteo 3:14-16)
 
@@ -1304,17 +1294,17 @@ Todos podian mirar a Jesus el Cristo. Fue manifestado para que todos lo vieran. 
 
 # VIII. 1 Timoteo 4:1-16 -- Protección Contra la Apostasía
 
-### 1 Timoteo 4:1a "*El Espíritu dice claramente...*"
+### 1 Timoteo 4:1a "*El Espíritu dice claramente que en los últimos tiempos...*" Aquí Pablo transmite que el Espiritu Santo anunciaba que algo pasaría después de su partida. Hechos 20:17-38
 
-###  Timoteo 4:1b "*que en los últimos tiempos...*"
+#### El verbo, dice esta en tiempo presente modo indicativo. Quiere decir que era una continuo decir del Espíritu Santo que esto sucedería y que era un hecho seguro. 2 Timoteo 3:1
 
-###  Timoteo 4:1c "*algunos se apartarán de la fe...*"
+###  Timoteo 4:1b "*algunos se apartarán de la fe...*" En los últimos tiempos será similar pero peor que los maestros que Timoteo estaba luchando. 1 Timoteo 1:3, 19, 6:10
 
-###  Timoteo 4:1d "*prestando atención a espíritus engañadores...*"
+###  Timoteo 4:1c "*prestando atención a espíritus engañadores...*" Espíritus seductores. 2 Juan 1:7, Hebreos 13:9, Colosenses 2:18
 
-###  Timoteo 4:1e "*y a doctrinas de demonios...*"
+###  Timoteo 4:1d "*y a doctrinas de demonios...*" Enseñanzas que vienen inspirados por demonios. Santiago 3:5, 2 Corintios 4:4, 1 Corintios 10:20
 
-### 1 Timoteo 4:2a "*mediante la hipocresía de mentirosos...*"
+### 1 Timoteo 4:2a "*mediante la hipocresía de mentirosos...*" 
 
 ### 1 Timoteo 4:2b "*que tienen cauterizada la conciencia...*"
 
@@ -1344,7 +1334,7 @@ Todos podian mirar a Jesus el Cristo. Fue manifestado para que todos lo vieran. 
 
 ### Todo lo que Dios creó es santificado por la Palabra de Dios y por la oración. 1 Timoteo 4:5
 
-## II\. 1 Timoteo 4:6-16 Líderes piadosos: Pablo enumera algunas cosas que se deben y no se deben hacer con respecto al ministerio cristiano.
+## II\. 1 Timoteo 4:6-16 Pablo instruye a Timoteo
 
 ### 1 Timoteo 4:6a "*Al señalar estas cosas a los hermanos serás un buen ministro de Cristo Jesús...*"
 
@@ -1446,13 +1436,23 @@ Todos podian mirar a Jesus el Cristo. Fue manifestado para que todos lo vieran. 
 
 # IX. 1 Timoteo 5:1-6:21 -- Relaciones dentro de la Iglesia
 
+## Los ancianos
+
 ### 1 Timoteo 5:1a "*No reprendas con dureza al anciano, sino, más bien, exhórtalo como a padre;*"
+
+## Los jóvenes
 
 ### 1 Timoteo 5:1b "*a los más jóvenes, como a hermanos,*"
 
-### 1 Timoteo 5:2  "*a las ancianas, como a madres;*"
+## Las ancianas
 
-### "*a las más jóvenes, como a hermanas, con toda pureza*".
+### 1 Timoteo 5:2a  "*a las ancianas, como a madres;*"
+
+## Las jóvenes
+
+### 1 Timoteo 5:2b "*a las más jóvenes, como a hermanas, con toda pureza*".
+
+## Las Viudas
 
 ### 1 Timoteo 5:3 "*Honra a las viudas que en verdad son viudas*".
 
@@ -1544,7 +1544,7 @@ Todos podian mirar a Jesus el Cristo. Fue manifestado para que todos lo vieran. 
 
 ### La razón (1 Timoteo 5:13, 15): Esto los mantendrá alejados de la inmoralidad y de la palabrería.
 
-## II\. La Responsabilidad de la Iglesia por sus obreros (1 Timoteo 5:17-25): El consejo de Pablo con respecto a los ancianos de la iglesia.
+## II\. 1 Timoteo 5:17-25 La Responsabilidad de la Iglesia por sus obreros : El consejo de Pablo con respecto a los ancianos de la iglesia.
 
 ### 1 Timoteo 5:17a "*Los ancianos que gobiernan bien*" 
 
