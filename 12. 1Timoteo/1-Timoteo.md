@@ -635,9 +635,11 @@ aTitle: 1 Timoteo
 
 ### 1 Timoteo 1:18c "*a fin de que por ellas pelees la buena batalla...*" La profecias debían ser motivación de Timoteo de no mirar las circunstancias sino acordarse de las palabras de Dios por medio de la profecía. 
 
-### 1 Timoteo 1:19a "*guardando la fe y una buena conciencia...*" 
+### 1 Timoteo 1:19a "*guardando la fe y una buena conciencia...*" La buena batalla se pelea en guardar la fe con una buena conciencia.
 
-### 1 Timoteo 1:19b "*que algunos han rechazado y naufragaron en lo que toca a la fe...*"
+#### Guardar la fe se refiere a retener toda la verdad, como el conjunto de la enseñanza de la escritura. Tito 1:9
+
+### 1 Timoteo 1:19b "*que algunos han rechazado y naufragaron en lo que toca a la fe...*" Vemos que algunos rehusaron guardar la fe con buena conciencia, desviandose a otra enseñanza o dejando la enseñanza, han dejado la buena batalla, de la gracia cayeron.
 
 ### 1 Timoteo 1:20a "*Entre ellos están Himeneo y Alejandro...*". Interesantemente, Pablo los llaman por nombre sin disfrazarlos en la anonimidad. 
 
