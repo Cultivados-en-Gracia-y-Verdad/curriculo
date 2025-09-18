@@ -242,31 +242,31 @@ Title: 1 Timoteo
 
 # III.1 Timoteo 1:1-2 - Saludos 
 
-## Autor de la carta:  Un Apostol de Jesucristo
+## Autor de la carta:  Un Apóstol de Jesucristo
 
 ### 1 Timoteo 1:1 "*Pablo, apóstol de Cristo Jesús por mandato de Dios nuestro Salvador, y de Cristo Jesús nuestra esperanza*" 
 
-#### 1 Timoteo 1:1a "*Pablo...*" vemos el nombre de Pablo como firma de esta epistola. 1 Timoteo 1:13, 15, 2:7
+#### 1 Timoteo 1:1a "*Pablo...*" Vemos el nombre de Pablo como firma de esta epístola. 1 Timoteo 1:13, 15, 2:7
 
 ##### Pablo, anteriormente llamado Saulo, nacido en la ciudad de Tarso. Hechos 22:3
 
-##### En su vida como incredulo fue un fiel religioso judío (Filipenses 3:4-9) y un fiel perseguidor de los del "Camino", la Iglesia de Dios (Hechos 20:4, Gálatas 1:13).
+##### En su vida como incrédulo fue un fiel religioso judío (Filipenses 3:4-9) y un fiel perseguidor de los del "Camino", la Iglesia de Dios (Hechos 20:4, Gálatas 1:13).
 
-##### En Hechos 9 podemos encontrar registros de su salvación al ver a Cristo resucitado
+##### En Hechos 9 podemos encontrar registros de su salvación al ver a Cristo resucitado.
 
-##### Hechos 13:9 muestra: "*Entonces **Saulo**, llamado también **Pablo**...*" ahí encontramos que Saulo pasa a ser llamado Pablo durante los días de su primer viaje como apostol de Cristo hasta el día de su martirio en el año 67 d.C aproximadamente.
+##### Hechos 13:9 muestra: "*Entonces **Saulo**, llamado también **Pablo**...*" ahí encontramos que Saulo pasa a ser llamado Pablo durante los días de su primer viaje como apóstol de Cristo hasta el día de su martirio en el año 67 d.C aproximadamente.
 
-#### 1 Timoteo 1:1b "*Pablo, apóstol de Cristo Jesús...*" Pablo se describe como un apostol.
+#### 1 Timoteo 1:1b "*Pablo, apóstol de Cristo Jesús...*" Pablo se describe como un apóstol.
 
-##### Cristo escoge a Pablo como Su apostol (enviado, emisario, mensajero) a los gentiles. Hechos 9:15, 22:21; Romanos 11:13; 2 Timoteo 1:11
+##### Cristo escoge a Pablo como Su apóstol (enviado, emisario, mensajero) a los gentiles. Hechos 9:15, 22:21; Romanos 11:13; 2 Timoteo 1:11
 
-##### Si bien, encontramos otros apostoles (enviados) mencionados en la escritura (Hechos 14:14, Filipenses 2:25, 2 Corintios 8:23)
+##### Si bien, encontramos otros apóstoles (enviados) mencionados en la escritura (Hechos 14:14, Filipenses 2:25, 2 Corintios 8:23)
 
 ##### En la Biblia observamos solo doce apóstoles de Cristo. Apocalipsis 21:14
 
 ##### Encontramos que Pablo estaría dentro del grupo de los doce apóstoles:
 
-###### Escogidos directamento por nuestro Señor Jesucristo. 1 Corintios 9:1-2
+###### Escogidos directamente por nuestro Señor Jesucristo. 1 Corintios 9:1-2
 
 ###### Utilizados como el fundamento de la Iglesia. Efesios 2:19-20, 4:11-12; 2 Pedro 3:2
 
@@ -280,17 +280,39 @@ Title: 1 Timoteo
 
 #### 1 Timoteo 1:1d "*...por mandato... de Cristo Jesús...*" Pablo es el apóstol que firma la carta. 1 Timoteo 1:1, 13, 15, 2:7
 
-#### 1 Timoteo 1:1e "*...Cristo Jesús nuestra esperanza...*". Jesucristo era la esperanza de Pablo y le recuerda a Timoteo que debe ser su esperanza también. 1 Pedro 1:3; Romanos 5:1-2, 8:24-25
+#### 1 Timoteo 1:1c "*...por mandato de Dios nuestro Salvador...*" La iniciativa y la autoridad en designar a Pablo como apóstol a los gentiles vino directamente de Dios Padre.
+
+##### Las primeras palabras en esta carta demuestran quien es el que está al control del trabajo de Pablo, quien es el iniciador y proveedor en su apostolado, Dios mismo. Gálatas 1:1, 11-12
+
+##### Dios Padre es descrito aquí como Salvador (Redentor, Libertador). No se queda ahí, sino que el Espíritu Santo inspiro las palabras "*...nuestro Salvador...*", no solo era el Salvador único y eterno de Pablo, sino también lo era de su hijo en la fe, Timoteo. Judas 1:24-25
+
+##### Vemos que el apostolado de Pablo no fue por iniciativa propia, sino que era orquestado por su Salvador.
+
+#### 1 Timoteo 1:1d "*...por mandato... de Cristo Jesús...*" En total armonía con el Padre, Cristo también es el originador del trabajo de Pablo para Su Obra, la edificación de Su Iglesia (Sus llamados afuera). Hechos 26:15-18
+
+#### 1 Timoteo 1:1e "*...Cristo Jesús nuestra esperanza...*". Nótese las palabras de este versículo, no dice que Jesucristo nos da esperanza. Sino que Jesucristo era la esperanza de Pablo y le recuerda a Timoteo que también era su esperanza. Romanos 8:24-25
+
+##### Jesucristo es también ahora la esperanza de cada persona que creyó en Él, en Su persona y Su obra completa (Su muerte por los pecados, Su sepultura y Su resurrección). Si tú también creíste en Jesucristo, como Pablo y Timoteo, Él también es ahora y para siempre tu esperanza.
 
 ## Receptor de la carta: El bien amado de Pablo
 
-### 1 Timoteo 1:2a "*a Timoteo, verdadero hijo en la fe:*" ...Timoteo un hijo espiritual, amado de Pablo.
+### 1 Timoteo 1:2a "*a Timoteo, verdadero hijo en la fe:...*" Timoteo un creyente en Jesucristo y también el hijo espiritual amado de Pablo.
 
-#### De las numerosas instrucciones y mandatos que Pablo dio a Timoteo en 1 Timoteo, es evidente que Pablo lo tenía en alta estima y le confió una inmensa carga de trabajo. 
+#### Por Hechos 16:1-2 sabemos que Timoteo era un joven discípulo (creyente) crecido en Listra, de madre judía creyente y padre griego. También gozaba de buen testimonio entre los hermanos de Listra e Iconio.
 
-### 1 Timoteo 1:2b "*Gracia...*" es la palabra CHARIS.  Significaba varias cosas en el primer siglo como veremos. 
+#### Observando un poco la manera en la cual Pablo se dirige a Timoteo:
 
-#### El uso de la  palabra gracia en el griego del primer siglo abarca tres sentidos principales.[^6] 
+##### La palabra *verdadero* viene del griego GNÉSIOS que significa legítimo, genuino, fiel.  Esta palabra no solo refleja autenticidad sino también confiabilidad.
+
+##### La palabra *hijo* viene del griego TEKNON que significa también niño, descendiente. Esta palabra muestra un vínculo muy cercano y de mucho aprecio entre Pablo y Timoteo.
+
+##### Timoteo llego a ser alguien de mucha estima para Pablo (1 Corintios 4:17), colaborador en el ministerio (Romanos 16:21), compañero fiel (1 Corintios 4:17, 16:10; 1 Tesalonicenses 3:2)
+
+#### De las numerosas instrucciones y mandatos que Pablo da a Timoteo en esta epístola, es evidente que Pablo lo tenía en alta estima.
+
+#### También veremos que le confió una inmensa responsabilidad en el ministerio del evangelio. 
+
+### 1 Timoteo 1:2b "*Gracia...*" es la palabra CHARIS en griego. Significaba varias cosas en el primer siglo como veremos a continuación. 
 
 ##### **Gracia como Bondad** - amabilidad de una persona respecto a otra.[^7] Lucas 4:22
 
@@ -304,7 +326,19 @@ Title: 1 Timoteo
 
 ##### La gracia fué profetizada e indigada por los profetas de la antigüedad. 1 Pedro 1:10
 
-##### La gracia para salvación fue manifiésta en la cruz. Tito 2:11
+##### **Gracia como Bondad** - Amabilidad de una persona respecto a otra. [^7] Lucas 4:22
+
+##### **Gracia como Favor** - Ayuda o socorro que se concede a alguien. [^7]Lucas 1:30, 2:52; Hechos 2:47
+
+##### **Gracia como Gratitud** - Sentimiento de la persona que agradece un favor recibido. [^8] Lucas 17:9; Romanos 6:17; 1 Timoteo 1:12; 2 Timoteo 1:3; Hebreos 12:28
+
+##### **Gracia como saludo** - En cada ocasión, Pablo usó la palabra gracia para saludar y despedirse en su escritos. Romanos 1:7
+
+#### Bíblicamente, en la edad de la iglesia, la palabra gracia es muy importante y llega a tener un significado propio. 
+
+##### La gracia fue profetizada e indagada por los profetas de la antigüedad. 1 Pedro 1:10-11
+
+##### La gracia para salvación fue manifiesta en la cruz. Tito 2:11
 
 ##### Así como La Ley vino por medio de Moises, la gracia fue realizado por medio de Jesucristo. Juan 1:17, Hebreos 2:9
 
@@ -318,7 +352,7 @@ Title: 1 Timoteo
 
 ###### Somos justificados libremente por su gracia. Romanos 3:24, Tito 3:7
 
-###### Redención y perdón de pecados es según la riqueza de Su gracia. Efesios 1:7
+###### La redención y perdón de pecados es según la riqueza de Su gracia. Efesios 1:7
 
 ##### La fe y la gracia armonizan perfectamente. Romanos 4:16
 
@@ -332,17 +366,19 @@ Title: 1 Timoteo
 
 ###### Pedro animó a sus lectores a crecer en la gracia. 2 Pedro 1:2, 3:18
 
-### 1 Timoteo 1:2c "*misericordia*..." esta palabra, ELEOS, puede ser traducido compasión. 
+### 1 Timoteo 1:2c "*misericordia*..." Esta palabra, ELEOS, puede ser traducido compasión. 
+
+#### Podríamos decir que es la manifestación externa de la compasión; da por sentado la necesidad en aquel que la recibe, y recursos adecuados para afrontar la necesidad de parte de aquel que la exhibe.
 
 ### 1 Timoteo 1:2d "*y paz...*" EIRENE es posible que Pablo juntó dos saludos (griego-favor y hebreo-paz) para hacer el suyo. 
 
 #### más que un simple saludo, Pablo deseaba que la paz de Cristo gobierne en el corazón de Timoteo. 2 Timoteo 2:22; 1 Tesalonicenses 5:23
 
-### 1 Timoteo 1:2e "*de parte de Dios Padre...*" la gracia, misericordia y paz que Pablo deseaba para Timoteo provienen de Dios Padre.  
+### 1 Timoteo 1:2e "*de parte de Dios Padre...*" La gracia, misericordia y paz que Pablo deseaba para Timoteo provienen de Dios Padre.  
 
-### 1 Timoteo 1:2f "*y de Cristo Jesús nuestro Señor*". No solo de Dios Padre sino también de parte de Jesucristo. 
+### 1 Timoteo 1:2f "*y de Cristo Jesús nuestro Señor.*" No solo de Dios Padre sino también de parte de Jesucristo. 
 
-#### Pablo introdujo a Cristo en la carta como Señor. Cristo no solo es "*nuestra esperanza*", también es "*nuestro Señor*". Pablo y Timoteo compartían el mismo Señor,  Jesucristo. 
+#### Pablo introdujo a Cristo en la carta como Señor. Cristo no solo es "*nuestra esperanza*", también es "*nuestro Señor*". Pablo y Timoteo compartían el mismo Señor Jesucristo. 
 
 ### La expresión de Pablo indica que deseaba que Timoteo podría experimentar más plenamente la gracia, misericordia y paz de Dios. 
 
@@ -350,41 +386,43 @@ Title: 1 Timoteo
 
 ## 1 Timoteo 1:1-4 El apartarse de la instrucción bíblica
 
-### 1 Timoteo 1:3a "*Tal como te rogué al salir para Macedonia que te quedaras en Éfeso*..." Evidentemente, al salir para Macedonia, Pablo había rogado a Timoteo que se quedara en Efeso. Hechos 18:21
+### 1 Timoteo 1:3a "*Tal como te rogué al salir para Macedonia que te quedaras en Éfeso*..." Evidentemente, al salir para Macedonia, Pablo había rogado a Timoteo que se quedara en Éfeso. Hechos 18:21
 
-### 1 Timoteo 1:3b "*...para que instruyeras a algunos que no enseñaran doctrinas extrañas...*" Algunos en la congregación estaban enseñando una doctrina difentente al mensaje de la Biblia. 
+### 1 Timoteo 1:3b "*...para que instruyeras a algunos que no enseñaran doctrinas extrañas...*" Algunos en la congregación estaban enseñando una doctrina diferente al mensaje de la Biblia. 
 
-#### La frase "*enseñaran doctrinas extrañas*" es la palabra HETERODIDASKALEO. Significa enseñar "otra doctrina" o "desviarse de la verdad". 
+#### La frase "*enseñaran doctrinas extrañas*" Es la palabra HETERODIDASKALEO. Significa enseñar "otra doctrina" o "desviarse de la verdad". 
 
-#### Debemos comprender que cualquier tipo de enseñanza que cambie el evangelio, que vaya en contra de la escritura es considerdo una doctrina extraña. 1 Corintios 15:3-4, Gálatas 1:6-9
+#### Debemos comprender que cualquier tipo de enseñanza que cambie el evangelio o que vaya en contra de la escritura es considerada una doctrina extraña. 1 Corintios 15:3-4, Gálatas 1:6-9
+
 #### La enseñanza en la iglesia no debe provenir de un lugar que no sea La Palabra de Dios correctamente entendida dentro de su contexto. 
 
 ### 1 Timoteo 1:4a "*ni prestaran atención*..." La observación del Texto bíblico es muy importante. A lo que prestemos atención afectará los resultados de nuestra instrucción. 
 
 #### Algunos estaban dedicando su atención a cosas que desviaban del verdadero conocimiento de Cristo. 
 
-### 1 Timoteo 1:4b "*a mitos*..." pusieron su atención en fabulas o cosas de ficción.
+### 1 Timoteo 1:4b "*a mitos*..." Pusieron su atención en fabulas o cosas de ficción.
 
-### 1 Timoteo 1:4c "*y genealogías interminables*..." sabemos que la genealogía era importante entre la cultura judia. La descendencia de uno definía su tribu y quien era su ancestro. 
+### 1 Timoteo 1:4c "*y genealogías interminables*..." Sabemos que la genealogía era importante entre la cultura judía. La descendencia de uno definía su tribu y quien era su ancestro. 
 
-#### Hacer largos recuentos de la historia y genalogías no es enseñanza que llevaría a la madurez. Timoteo debía instruir a estos maestros que dejen de enseñar este tipo de cosas. 
+#### Hacer largos recuentos de historia y genealogías no es enseñanza que llevaría a la madurez. Timoteo debía instruir a estos maestros que dejen de enseñar este tipo de cosas. 
 
 ### 1 Timoteo 1:4d "*lo que da lugar a discusiones inútiles*". El resultado de enseñar fabulas y genealogías interminables es que lleva a disputar inútilmente entre los hermanos. Tito 1:10
 
 #### La frase "discusiones inútiles" es EKZETESIS. La palabra significa sobre investigación de las cosas. 
 
-#### Es nada provechoso que la iglesia se ocupe en la sobre investigación de cosas inútiles.
+#### Es sin provecho que la iglesia se ocupe en la sobre investigación de cosas inútiles.
 
 ### 1 Timoteo 1:4e "*en vez de hacer avanzar el plan de Dios que es por fe*". La única manera que haya crecimiento (madurez) en la iglesia es enseñando la gracia de Dios, esto es "*avanzar el plan de Dios que es por fe*". 
 
 #### La gracia y la fe armonizan juntos perfectamente. 
 
-#### Cualquier enseñanza extraña distraerla del mensaje de las Escrituras para prestar atención a cosas que producen más bien más carnalidad y se manifestará en contiendas y discusiones sin propósito espiritual alguno. 1 Timoteo 6:4
+#### Cualquier enseñanza extraña distraera del mensaje de las Escrituras para prestar atención a cosas que producen más bien carnalidad y se manifestará en contiendas y discusiones sin propósito espiritual alguno. 1 Timoteo 6:4
 
 ### 1 Timoteo 1:4f "*así te encargo ahora*". Pablo le confió esta importante tarea a Timoteo. Debía hacerlo con urgencia pues los resultados serian devastadores. 
+
 ## 1 Timoteo 1:5 El propósito de la instrucción verdadera
 
-### 1 Timoteo 1:5a "*Pero...* en un claro contraste con esos que enseñan doctrinas extrañas, Pablo explica...
+### 1 Timoteo 1:5a "*Pero...* En un claro contraste con esos que enseñan doctrinas extrañas, Pablo explica...
 
 ### 1 Timoteo 1:5b *el propósito de nuestra instrucción...*" En contraste con la enseñanza desviada de la verdad, Pablo prosigue buscando abrir el entendimiento de Timoteo para mostrarle la finalidad de la enseñanza verdadera en la iglesia. 
 
@@ -398,30 +436,29 @@ Title: 1 Timoteo
 
 #### Sin instrucción de la verdad, no puede haber amor. 
 
-#### Pablo no e9999999999999999999nseñaba por enseñar cosas interesantes para llevarles a discusiones que alimentan la carne. Sus intenciones en enseñar la verdad era para beneficio de los hermanos.  Por medio de la instrucción tendrian amor. 
+#### Pablo no enseñaba por enseñar cosas interesantes para llevarles a discusiones que alimentan la carne. Sus intenciones en enseñar la verdad era para beneficio de los hermanos.  Por medio de la instrucción tendrian amor. 
 
 ##### El amor proviene de Dios. Juan 15:10; Romanos 5:8; 1 Timoteo 1:14
 
-##### Sin la verdad, no puede haber amor.  Juan 13:35; Romanos 12:9; 1 Corintios 13:6; 2 Corintios 6:6; 1 Timoteo 6:14
+##### Sin la verdad, no puede haber amor. Juan 13:35; Romanos 12:9; 1 Corintios 13:6; 2 Corintios 6:6; 1 Timoteo 6:14; Efesios 2:13-19
 
 ##### Sin la verdad, no puede haber unidad. La unidad es en base a la verdad. Juan 17:26; 2 Corintios 13:11
 
 ### 1 Timoteo 1:5c "*es el amor...nacido de corazón puro,*" Salmo 51:10
-#### Sin la verdad, no hay amor. 1Corintios 13:6
 
-#### Sin la verdad, no puede haber unidad. La verdad es la base de la unidad. Efesios 2:13-19
+#### Sin la verdad, no hay amor. 1 Corintios 13:6
 
 ### 1 Timoteo 1:5d "*es el amor...de una buena conciencia,*" En nuestro andar diario podemos gozar de una buena conciencia o no.
 
-#### Para este caso en espesifico, una buena conciencia esta estrechamente realacionada con el mensaje de la escritura, al permancer en el mesaje sin alterarlo estaremos gozando de una buena conciencia.
+#### Para este caso en específico, una buena conciencia está estrechamente relacionada con el mensaje de la escritura, al permancer en el mensaje sin alterarlo estaremos gozando de una buena conciencia.
 
-#### El resutado de la verdad adoptada por la fe tendra como fruto el amor.
+#### El resultado de la verdad adoptada por la fe tendrá como fruto el amor.
 
-### 1 Timoteo 1:5e "*es el amor...y de una fe sincera,*" El amor que vine de una fe sincera habla de un amor que viene de la confianza sin hipocresia o falsedad.
+### 1 Timoteo 1:5e "*es el amor...y de una fe sincera,*" El amor que vine de una fe sincera habla de un amor que viene de la confianza sin hipocresía o falsedad.
 
-#### Pablo no esta hablando de fe para salvacion de la condena del pecado, poniendo asi en tela de duda la salvaacion eterna.
+#### Pablo no está hablando de fe para salvación de la condena del pecado, poniendo así en tela de duda la salvación eterna.
 
-#### Mas bien habla de fe en nuestro diario andar, fe sin hipocresia, hablando de una doble dependencia, esto en contraste con la sola dependencia de la verdad de la escritura. 
+#### Mas bien habla de fe en nuestro diario andar, fe sin hipocresía, hablando de una doble dependencia, esto en contraste con la sola dependencia de la verdad de la escritura. 
 
 ## 1 Timoteo 1:6-7 El desviar la instrucción bíblica para pervertir el uso de La Ley 
 
@@ -552,7 +589,6 @@ Title: 1 Timoteo
 ### 1 Timoteo 1:13a "*aun habiendo sido yo antes blasfemo, perseguidor y agresor...*" Pablo era religiosamente fariseo. Había ascendido más que sus co-iguales. Era entregado (fiel) a lo que se dedicaba. ¡Y hacía todo en nombre de Dios! 
 
 #### Sin embargo, ahora desde la perspectiva divina, Pablo ve que era blasfemo (difamador), perseguidor y agresor (violento a creyentes inocentes). 
-
 
 ### 1 Timoteo 1:13a "*Sin embargo, se me mostró misericordia porque lo hice por ignorancia en mi incredulidad...*"
 
@@ -958,31 +994,45 @@ Title: 1 Timoteo
 
 1 Timoteo 4:9 "*Palabra fiel*" - por esto trabajamos y sufrimos, porque esperamos al Dios viviente...
 
-### 1 Timoteo 3:1b "*si alguien aspira al cargo de obispo buena obra desea hacer*..." Pablo aquí le aclara a Timoteo que se hay algún hermano que aspira ser anciano que lo reciba la intención con buen ánimo. 
+#### "Palabra" en este versiculo es LÓGOS (mensaje, enseñanza, comunicado) y la palabra "fiel" es PISTOS (confiable, digno de confianza, seguro, verdadero) en griego.
 
-#### Obispo, anciano y sobreveedor son términos sinónimos. En realidad hay tres palabras en el griego que son usadas para describir la misma posición de lider en la iglesia. 
+#### La declaración que encontraremos en los siguientes versiculos es un mensaje, un anuncio  de Dios, el cual es confiable y seguro de prestar atención. 
 
-##### EPISCOPOS - el oficio de velar, dirigir y cuidar una iglesia.[^9]
+### 1 Timoteo 3:1b "*si alguien aspira al cargo de obispo buena obra desea hacer*..." Pablo aquí le aclara a Timoteo que se hay algún hermano que aspira ser anciano que vea esa intención con buen ánimo. 
 
-##### PRESBUTEROS - un anciano encargado de una asamblea de creyentes cristianos (como cargo designado o elegido).[^9]
+#### Obispo, anciano y pastor son términos sinónimos. En realidad hay tres palabras en el griego que son usadas para describir la misma posición de lider en cada iglesia local. 
 
-##### POIMEN - gobernar a un grupo de personas, entendido como cuidar ovejas o cabras.[^9]
+##### [EPISCOPOS] Obispo - El oficio de velar, dirigir y cuidar una iglesia.[^9] Hechos 20:28; Filipenses 1:1; 1 Timoteo  3:1; Tito 1:7
 
-#### En cada caso, siempre los vemos a estos líderes en plural. El cual nos lleva a pensar en la práctica de la pluralidad de liderazgo. Si bien puede haber un anciano que se llama pastor que tiene el don de pastorear, no es el único anciano. El es parte del concilio de ancianos. 
+##### [PRESBUTEROS] Anciano - Un anciano encargado de una asamblea de creyentes cristianos (como cargo designado o elegido).[^9] Hechos 20:17; Tito 1:5, 6; 1 Pedro 5:1
+
+##### [POIMEN] Pastor - Gobernar a un grupo de personas, entendido como cuidar ovejas o cabras.[^9] Hechos 20:28; Efesios 4:11; 1 Pedro 5:2
+
+#### En cada caso, siempre los vemos a estos líderes en plural. El cual nos lleva a pensar en la práctica de la pluralidad de liderazgo (Hechos 14:23; Tito 1:5; Hebreos 13:7). Si bien puede haber un anciano que se llama pastor que tiene el don de pastorear, no es el único anciano. El es parte del concilio de ancianos. 
 
 #### ¿Es necesario que una iglesia local coloque ancianos? 
 
 #### Aunque el rol de anciano es bíblico y justamente el trabajo de Timoteo en Efeso fue establecer ancianos y diáconos, es una mala practica colocar personas indebidas (que no califican) como ancianos. Estas personas pueden llevar a toda la iglesia al descarrio. 
 
-#### Es mejor estar sin ancianos y diaconos que escogerlos sin que califiquen bíblicamente. 
+#### Es mejor estar sin ancianos y diaconos que escogerlos sin que califiquen bíblicamente.
+
+#### La siguiente lista de requisitos que veremos para que un creyente de la iglesia sea designado como anciano va acorde a la responsabilidad y rol que debe cumplir dentro de la iglesia local, veremos algunos aspectos de la importancia de que estos requisitos sean cumplidos en totalidad:
+
+##### Tito 1:9-10, los lideres (ancianos, pastores u obispos) de la iglesia local, deben estar capacitados en el mensaje claro de la Escritura, de esa manera podrían animar y tambien corregir en mansedumbre a los miembros de la iglesia. Debe tener la capacidad de demostrar por la Escritura enseñanzas erroneas que pueden surgir dentro o desde afuera de la iglesia.
+
+##### Hechos 20:28-31, la designación bíblica de lideres no viene de iniciativa humana, sino por la guía Divina que nos a sido provista en las Escrituras. El lider debe andar en continua examinación propia y de los miembros de la iglesia por medio de las Escrituras.
+
+###### La iglesia esta en constante ataque, Dios no dijo que talvez vengan ataques hacia la iglesia, Dios indico que efectivamente vendrán doctrinas extrañas. ¿Cómo podría un pastor cuidar al rebaño de esos ataques si no esta capacitado en el mensaje de Cristo?
+
+##### 1 Timoteo 3:6-7, La designación de un lider dentro de la iglesia local, influira tanto en el pensamiento del creyente en el nuevo rol, como la manera de que el y la iglesia sean persividas por las personas de afuera de la iglesia.
 
 ## Requisitos para los anciano 
 
 ### Es importante reconocer que TODOS los requisitos dados para el anciano están en tiempo presente. Quiere decir que las condiciones deben ser cumplidos en todo tiempo, no solo un punto en el pasado. 
 
-#### Un anciano que no cumple estos requisitos en cualquier momento, debe dejar a un lado su cargo al menos hasta poner en orden sus cosas. 
+#### Por esa razón, un anciano que no cumple estos requisitos en cualquier momento, debe dejar a un lado su cargo al menos hasta poner en orden sus cosas. 
 
-### 1 Timoteo 3:2a "*Un obispo* [EPISCOPOS] *debe ser, pues...*"
+### 1 Timoteo 3:2a "*Un obispo* [EPISCOPOS] *debe ser, pues...*" Las condiciones para ancianos no son sugerencias que deben tratarse de cumplir. Son requisitos que tienen que ser cumplidos en todo momento y en plenitud. 
 
 ### 1 Timoteo 3:2b "*irreprochable...*" ANEPILEPTOS es sin crítica.
 
@@ -1240,7 +1290,19 @@ La casa De Dios. Mateo 12:4, Marcos 2:26, Lucas 6:4, 11:51; 1 Timoteo 3:15, Hebr
 
 ### 1 Timoteo 4:12a "*No permitas que nadie menosprecie tu juventud*",
 
-### 1 Timoteo 4:12b "*sino sé ejemplo de los creyentes*"
+#### La palabra ejemplo [TUPOS]  una forma o patrón representativo; a menudo para imitación o réplica. Tiene una variedad de aplicaciones. 
+
+##### "*se ejemplo*" - como patrón - (ej: ollas en buen estado según el patrón mencionado)[^13]
+
+##### "*se ejemplo*" - como plano - (ej: para registrarse según el siguiente plan) [^13]
+
+##### "*se ejemplo*" - como forma - (ej: manera de escribir)[^13]
+
+##### "*se ejemplo*" - como emitir juicio - (Solo que existe un principio según el cual he juzgado a menudo.) [^13]
+
+##### "*se ejemplo*" -  como sentencia - (ej: por la sentencia de los honorables hombres)[^13]
+
+#### Aquí vemos que la piedad no solo es provechosa para el mundo incoverso. También es provechoso para el jóven dentro de la casa de Dios. 
 
 ### 1 Timoteo 4:12c "*se ejemplo...en palabra*",
 
@@ -1260,25 +1322,39 @@ La casa De Dios. Mateo 12:4, Marcos 2:26, Lucas 6:4, 11:51; 1 Timoteo 3:15, Hebr
 
 ### 1 Timoteo 4:13e "*y la enseñanza*".
 
-### 1 Timoteo 4:14a "*No descuides el don espiritual que está en ti*"
+#### "*Ocupate*" [PROSECHO] - dedicar (parte de) la propia vida o esfuerzos a; como a religiones o instituciones.
 
-### 1 Timoteo 4:14b "*que te fue conferido por medio de la profecía con la imposición de manos del presbiterio*".
+#### El crecimiento espiritual esta estrechamente ligado a crecer en el conocimiento de Cristo y Su gracia por medio de ocuparse en las Escrituras. 
 
-### 1 Timoteo 4:15a "*Reflexiona sobre estas cosas;*"
+### 1 Timoteo 4:13c "*ocúpate...la exhortación*" la exhortación es valuable cuando proviene de las Escrituras. Pablo mensiona 5 veces que Timoteo debe denunciar, exhortar el error. 1 Timoteo 1:3, 4:11, 5:7, 6:13, 6:17
 
-### 1 Timoteo 4:15b "*dedícate a ellas,*"
+### 1 Timoteo 4:13e "*ocúpate...y la enseñanza*". La enseñanza o instrucción es la tarea principal de Timoteo. Pablo le dice, ocupate en enseñar.
 
-### 1 Timoteo 4:15c "*para que tu aprovechamiento sea evidente a todos*".
+### 1 Timoteo 4:14a "*No descuides el don espiritual que está en ti*" ¿Cual era el don de Timoteo? Hay indicaciones que era el de evangelista. En el contexto inmediato, entenderiamos ese don a ser uno de enseñanza. 
 
-### 1 Timoteo 4:16a "*Ten cuidado de ti mismo y de la enseñanza*".
+#### Don [CARISMA]
 
-### 1 Timoteo 4:16b "*Persevera en estas cosas*",
+### 1 Timoteo 4:14b "*que te fue conferido por medio de la profecía con la imposición de manos del presbiterio*". No fué el presbiterio que le dieron el don. Ellos simplemente lo encomendaron al ministerio, haciendo publico su don, 
 
-### 1 Timoteo 4:16c "*porque haciéndolo asegurarás la salvación*"
+### 1 Timoteo 4:15a "*Reflexiona sobre estas cosas;"* ¿Porque tendría que pensar en la seriedad de su llamado? ¿Estaba pensando jubilarse del ministerio?
 
-### 1 Timoteo 4:16d "*tanto para ti mismo*"
+### 1 Timoteo 4:15b "*dedícate a ellas,*" las cosas de las cuales Timoteo debía ser ejemplo. 
 
-### 1 Timoteo 4:16e "*como para los que te escuchan*".
+### 1 Timoteo 4:15c "*para que tu aprovechamiento sea evidente a todos*". Ser ejemplo se trata más de un efoque de quien uno es y no en lo que piensen los demás. Timoteo debía dejar que su ejemplo sea evidente a los demás. 
+
+#### aprovechamiento [PROKOPE] mejora o crecimiento o desarrollo gradual.
+
+### 1 Timoteo 4:16a "*Ten cuidado de ti mismo y de la enseñanza*". Timoteo debía cuidarse primeramente y de su enseñanza. 
+
+### 1 Timoteo 4:16b "*Persevera en estas cosas*", Debia continuar pacientemente.
+
+#### "*Persevera*" [EPIMENO] - continuar un determinado estado, condición o actividad.
+
+### 1 Timoteo 4:16c "*porque haciéndolo asegurarás la salvación*" ¿Porque continuar? Porque el provecho vendría de Dios. 
+
+### 1 Timoteo 4:16d "*tanto para ti mismo*" Seria bueno para Timoteo
+
+### 1 Timoteo 4:16e "*como para los que te escuchan*". Y también para la congregación
 
 ## En Síntesis (1 Timoteo 4:6-16)
 
@@ -1308,15 +1384,25 @@ La casa De Dios. Mateo 12:4, Marcos 2:26, Lucas 6:4, 11:51; 1 Timoteo 3:15, Hebr
 
 # IX. 1 Timoteo 5:1-6:21 -- Relaciones dentro de la Iglesia
 
-### 1 Timoteo 5:1a "*No reprendas con dureza al anciano, sino, más bien, exhórtalo como a padre;*"
+## Los ancianos
 
-### 1 Timoteo 5:1b "*a los más jóvenes, como a hermanos,*"
+### 1 Timoteo 5:1a "*No reprendas con dureza al anciano, sino, más bien, exhórtalo como a padre;*" El trato de los mayores en la iglesia debe ser siempre con respeto y dignidad. Los hermanos mayores en la iglesia son considerados como padres.
+
+## Los jóvenes
+
+### 1 Timoteo 5:1b "*a los más jóvenes, como a hermanos,*" Los jóvenes son considerados como hermanos de sangre.
 
 ### 1 Timoteo 5:2  "*a las ancianas, como a madres;*"
 
-### "*a las más jóvenes, como a hermanas, con toda pureza*".
+### 1 Timoteo 5:2a  "*a las ancianas, como a madres;*" Ancianas deben ser vistos como madres. 
 
-### 1 Timoteo 5:3 "*Honra a las viudas que en verdad son viudas*".
+## Las jóvenes
+
+### 1 Timoteo 5:2b "*a las más jóvenes, como a hermanas, con toda pureza*". Las hermanas jóvenes son tratadas como hermanas de sangre.
+
+## Las Viudas
+
+### 1 Timoteo 5:3 "*Honra a las viudas que en verdad son viudas*". a Las viudas se extiende honor. 
 
 ### 1 Timoteo 5:4a "*Pero si alguna viuda tiene hijos o nietos*",
 
@@ -1442,17 +1528,31 @@ La casa De Dios. Mateo 12:4, Marcos 2:26, Lucas 6:4, 11:51; 1 Timoteo 3:15, Hebr
 
 ### 1 Timoteo 5:22c "*guárdate libre de pecado.*"
 
-### 1 Timoteo 5:23 "*Ya no bebas agua sola, sino usa un poco de vino por causa de tu estómago y de tus frecuentes enfermedades.*"
+### 1 Timoteo 5:23 "*Ya no bebas agua sola, sino usa un poco de vino por causa de tu estómago y de tus frecuentes enfermedades.*" El mismo libro que enseña que los ancianos y diaconos no sean dados al vino, dice a Timoteo que tome vino ayudar sus frecuentes enfermedades. 
 
-### 1 Timoteo 5:24a "*Los pecados de algunos hombres ya son evidentes,*"
+#### Vale la pena mencionar que mientras que la borrachera y adiccion al alcohol es demarcado como prohibido, tomar bebidas alcohólicas no es. 
 
-### 1 Timoteo 5:24b "*yendo delante de ellos al juicio;*"
+#### Asi como muchas cosas en la vida que son buenas, pueden llegar a sernos daño si abusamos. 
 
-### 1 Timoteo 5:24c "*pero a otros, sus pecadoslos siguen.*"
+#### Por ejemplo, la sal es buena. La sal añade sabor a los alimentos. Pero mucha sal no solo da un mal sabor, es malo para la salud. En el caso de personas con hipertensión, la sal debe ser consumida medidamente. 
 
-### 1 Timoteo 5:25a "*De la misma manera, las buenas obras son evidentes,*"
+Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alcohol en una bebida antes de beberla es necesario. 
 
-### 1 Timoteo 5:25a "*y las que no lo son no se pueden ocultar.*"
+#### Similarmente con las bebidas alcohólicas. Si bien no esta mal tomar una bebida alcohólica, debe ser tratado responsablemente. Embriagarse por no medir la cantidad de bebida es pecado. Aquí Pablo enseña a Timoteo que tome vino para promover una mejor salúd. 
+
+#### Por ejemplo, en el caso de la presión baja, es provechoso tomar un vaso de vino que ayuda elevar la presión sanguínea. 
+
+#### Después del conocimiento sobre las bebidas alcohólicas y lo que se puede y no hacer, debemos tomar más consideraciones. Si un hermano tiene la convicción que no se debe tomar en absoluto, entonces no debo imponer mi punto de vista y por amor considerar que es mejor no participar en una bebida alcohólica. 
+
+### 1 Timoteo 5:24a "*Los pecados de algunos hombres ya son evidentes,*" Algunos ya manifestaban pecado en sus vidas como consecuencia inminente de falsa enseñanza. 
+
+#### Si los pecados de alguien son manifiéstos, es porque dejaron de caminar en comunión con el Señor y andaron según la carne y como resultado termina manifestandose en pecado evidente. Luego procederá la muerte como síntoma evidente de haber caminado influenciado por la carne. 
+
+### 1 Timoteo 5:24b "*yendo delante de ellos al juicio;*" El creyente que piensa que esta bien pecar no esta considerando que aunque el creyente ha sido salvo de la ira De Dios, si será juzgado. Seremos juzgados según la ley de la libertad. 
+
+### 1 Timoteo 5:24c "*pero a otros, sus pecados los siguen*". Solo porque los pecados no se han hecho manifiéstos no quiere decir que Cristo no los juzgará también. La ley de la libertad es según la intención del corazon no solo por lo que es externamente visible.  
+
+### 1 Timoteo 5:25a "*De la misma manera, las buenas obras son evidentes, y las que no lo son no se pueden ocultar...*" Era necesario para Timoteo observar detenidamente a los que consideró candidatos para el ancianato antes de colocarlos en el rol. 
 
 ## En Síntesis (1 Timoteo 5:17-25)
 
@@ -1472,25 +1572,29 @@ La casa De Dios. Mateo 12:4, Marcos 2:26, Lucas 6:4, 11:51; 1 Timoteo 3:15, Hebr
 
 ### Pablo se dirige a los obreros, a los impíos, a los sabios y a los ricos. Cierra su carta con algunas instrucciones finales para Timoteo.
 
-# X. 1 Timoteo 6:3-21 -- Asuntos Relacionados con la Iglesia
+# X. 1 Timoteo 6:3-21 - Asuntos Relacionados con la Iglesia
 
-### 1 Timoteo 6:1a "*Todos los que están bajo yugo como esclavos,*"
+## 1 Timoteo 6:1-2 Los Esclavos
 
-### 1 Timoteo 6:1b "*consideren a sus propios amos como dignos de todo honor,*"
+### 1 Timoteo 6:1a "*Todos los que están bajo yugo como esclavos,*" Ahora en cuanto a los esclavos creyentes. 
 
-### 1 Timoteo 6:1c "*para que el nombre de Dios y nuestra doctrina no sean blasfemados.*"
+### Es interesante que dentro de la iglesia, aunque teniendo el mismo valor, no se ignora la realidad social de cada uno. Esto añade variedad a la familia de Dios y demuestra que la unión espiritual de la iglesia no es en base a igualdad civil. 
 
-### 1 Timoteo 6:2a "*Y los que tienen amos que son creyentes,*"
+### 1 Timoteo 6:1b "*consideren a sus propios amos como dignos de todo honor,*" El esclavo creyente puede mostrar piedad en su trabajo forzado. ¿Como lo hace si igualmente es obligatorio? Lo hace mostrando honor. 
 
-### 1 Timoteo 6:2b "*no les falten el respeto, porque son hermanos,*"
+### 1 Timoteo 6:1c "*para que el nombre de Dios y nuestra doctrina no sean blasfemados*". Es poderoso entender que una persona, aunque esclava, puede alinear con la voluntad de Dios también de una manera igualmente valiosa. 
 
-### 1 Timoteo 6:2c "*sino sírvanles aún mejor,*"
+### 1 Timoteo 6:2a "*Y los que tienen amos que son creyentes, no les falten el respeto, porque son hermanos,*" Esta aclaración es importante porque puede ser que el esclavo que es tan afortunado de tener un amo creyente quiera tomar esa relación a la lijera. 
 
-### 1 Timoteo 6:2d "*ya que son creyentes y amados los que se benefician de su servicio.*"
+### 1 Timoteo 6:2b "*sino sírvanles aún mejor,*" En vez de faltarles el respeto, deberían más bien servirles aún mejor. 
 
-### 1 Timoteo 6:2e "*Enseña y predica estos principios.*"
+### 1 Timoteo 6:2c "*ya que son creyentes y amados los que se benefician de su servicio.*" La motivación es porque sus amos creyentes son familia y servirles es para bendecion. 
 
-### 1 Timoteo 6:3f "*Si alguien enseña una doctrina diferente*" 
+### 1 Timoteo 6:2e "*Enseña y predica estos principios.*" Timoteo debía enseñar estas cosas, no solo esperar que sucedan. 
+
+Saber como debe ser el andar del creyente en cualquier circunstancia es provechoso. Saber como se logra vivir piadosamente también es absolutamente esencial. 
+
+### 1 Timoteo 6:3f "*Si alguien enseña una doctrina diferente...*" una doctrina que difiere 
 
 ### 1 Timoteo 6:3g "*y no se conforma a las sanas palabras,*"
 
@@ -1700,3 +1804,5 @@ La casa De Dios. Mateo 12:4, Marcos 2:26, Lucas 6:4, 11:51; 1 Timoteo 3:15, Hebr
 [^9]: Bible Sense Lexicon, Ephesians 2:8
 [^10]: BibleRef, https://www.bibleref.com/1-Timothy/2/1-Timothy-2-8.html
 [^11]: Studi.com, https://study.com/academy/lesson/ecclesia-ancient-greece-history-facts.html
+[^12]: Vincent Word Studies
+[^13]: Vocabulary of Greek Testament
