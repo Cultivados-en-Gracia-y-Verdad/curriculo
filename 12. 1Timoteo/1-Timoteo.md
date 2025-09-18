@@ -218,13 +218,15 @@ aTitle: 1 Timoteo
 
 #### Efesios 5:27 a fin de presentársela a sí mismo, una iglesia en toda su gloria, sin que tenga mancha ni arruga ni cosa semejante, sino que fuera santa e inmaculada.
 
-### En Hechos 20:28 podemos encontrar que Dios compro la iglesia, mostrando claramente la deidad de Cristo, ya que dice, la compró con Su propia sangre. 
+### En Hechos 20:28 podemos encontrar que Dios compro la iglesia, mostrando claramente la deidad de Cristo, ya que dice, la compró con Su propia sangre.
 
-## ¿Llamada de donde?
+### Esto significa que la iglesia le pertenece a Dios como a Jesucristo. 1 Tesalonicenses 1:1; 2 Tesalonicenses 1:1.
+
+### Es Cristo el que esta llevando a cabo la edificación de la iglesia "*...hasta que haya entrado la plenitud de los gentiles.*" Romanos 11:25b
+
+#### Por aquel motivo el nos ha llamado salir "Ek" de las tinieblas hacia "Kaleo" su luz admirable. 1 Pedro 2:9
 
 #### 2 Timoteo 1:9 "*Él nos ha salvado y nos ha llamado con un llamamiento santo, no según nuestras obras, sino según Su propósito y según la gracia que nos fue dada en Cristo Jesús desde la eternidad*"
-
-## ¿A donde es llamada?
 
 ### 1 Corintios 1:9 "*Fiel es Dios, por medio de quien fueron llamados a la comunión con Su Hijo Jesucristo, nuestro Señor.*"
 
@@ -238,11 +240,11 @@ aTitle: 1 Timoteo
 
 #### 1 Timoteo 4:9-10 "*Palabra fiel es esta, y digna de ser recibida por todos. Que por esto mismo trabajamos y sufrimos oprobios, **porque esperamos en el Dios viviente**, que es el Salvador de todos los hombres, mayormente de los que creen.*"
 
-## ¿Como es llamada, por quién?
+### Este llamado no es por merito del hombre, ya que ningun miembro de la iglesia podria decir que se gano el ser incluidos dentro de la iglesia del Dios vivo Efesios 2:13
 
-### Gálatas 1:6 "*Me maravillo de que tan pronto ustedes hayan abandonado **a Aquel que los llamó por la gracia de Cristo**, para seguir un evangelio diferente*"
+#### Gálatas 1:6 "*Me maravillo de que tan pronto ustedes hayan abandonado **a Aquel que los llamó por la gracia de Cristo**, para seguir un evangelio diferente*" Este llamado es solamente y única por su gracia.
 
-### 2 Tesalonicenses 2:14 "*a lo cual **os llamó mediante nuestro evangelio**, para alcanzar la gloria de nuestro Señor Jesucristo.*"
+#### 2 Tesalonicenses 2:14 "*a lo cual **os llamó mediante nuestro evangelio**, para alcanzar la gloria de nuestro Señor Jesucristo.*" es al momento de creer en el evangelio que uno llega a formar parte de los llamados ("*Ekklesía*") de Jesucristo.
 
 ## Ekklesia local vs ekklesia universal
 
@@ -510,6 +512,20 @@ aTitle: 1 Timoteo
 
 ## En Síntesis
 
+### Pablo designo una tarea muy importante a su preciado hijo Timoteo.
+
+### Él debía impedir las enseñanzas que no eran conforme al de Dios  y tampoco debían prestarles atención.
+
+### Así la iglesia no se perdería en información vacia, inutil. 
+
+### Así la iglesia andaría conforme al plan de Dios para ellos, que es por la fe.
+
+### El proposito era un amor (agape) en los creyentes. 
+
+### Toda iglesia local busca amor en los hermanos. Pero lo que realmente hace posible eso es una iglesia que se aferra a la verdad de Dios.
+
+### Habían creyentes que estaban desviando a la iglesia por medio de enseñanzas falsas de la ley.
+
 ### Los pervertidores (1 Timoteo 1:3a): Son autoproclamados "expertos" de la ley, que se dedican a esparcir su veneno.
 
 ### La perversión (1 Timoteo 1:3b-7): Estos hombres han agregado una dolorosa mezcla de mitos, fábulas y genealogías interminables a la ley.
@@ -578,9 +594,11 @@ aTitle: 1 Timoteo
 
 ## En Síntesis (1 Timoteo 1:8-11)
 
-### La Ley no fue hecha para controlar a las personas salvas. 1 Timoteo 1:8a
+### La Ley no fue hecha para guiar los justos (creyentes) en su vida. 1 Timoteo 1:8a;  1 Corintios 6:9-11
 
-### La Ley fue hecha para controlar a las personas que no son salvas. 1 Timoteo 1:8b-11
+### La Ley fue hecha para guíar a los injustos (incredulos) a Cristo. 1 Timoteo 1:8b-11, Gálatas 3:24
+
+### Por el momento vemos que la sana doctrina (doctrina que sana) es en base solo al evangelio de Dios.
 
 ## 1 Timoteo 1:12-17 EL TESTIMONIO DE PABLO: Profunda gratitud por la fidelidad de Dios.
 
