@@ -1816,9 +1816,11 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 ### 1 Timoteo 6:5b "*que están privados de la verdad...*" lo que les falta y no se han detenido para mirar fijamente la verdad entonces están privados de la verdad. 
 
-"*privados*" [] es estar o llegar a estar sin algo; no obtener o tener.[^9]
+#### "*privados*" [APOSTEREOMAI] es estar o llegar a estar sin algo; no obtener o tener.[^9]
 
 ### 1 Timoteo 6:5c "*que suponen que la piedad es un medio de ganancia.*"
+
+Suponen [DOKEO] - pensar o creer (algo) sin estar totalmente decidido en mente u opinión.
 
 ### 1 Timoteo 6:6 "*Pero la piedad, en efecto, es un medio de gran ganancia cuando va acompañada de contentamiento.*"
 
