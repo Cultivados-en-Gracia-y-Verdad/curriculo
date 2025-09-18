@@ -218,7 +218,11 @@ aTitle: 1 Timoteo
 
 #### Efesios 5:27 a fin de presentársela a sí mismo, una iglesia en toda su gloria, sin que tenga mancha ni arruga ni cosa semejante, sino que fuera santa e inmaculada.
 
-### En Hechos 20:28 podemos encontrar que Dios compro la iglesia, mostrando claramente la deidad de Cristo, ya que dice, la compró con Su propia sangre. 
+### En Hechos 20:28 podemos encontrar que Dios compro la iglesia, mostrando claramente la deidad de Cristo, ya que dice, la compró con Su propia sangre.
+
+### Esto significa que la iglesia le pertenece a Dios como a Jesucristo. 1 Tesalonicenses 1:1; 2 Tesalonicenses 1:1.
+
+### Es Cristo el que esta llevando a cabo la edificación de la iglesia "*...hasta que haya entrado la plenitud de los gentiles.*" Romanos 11:25b
 
 ## ¿Llamada de donde?
 
