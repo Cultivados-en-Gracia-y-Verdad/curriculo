@@ -500,6 +500,20 @@ aTitle: 1 Timoteo
 
 ## En Síntesis
 
+### Pablo designo una tarea muy importante a su preciado hijo Timoteo.
+
+### Él debía impedir las enseñanzas que no eran conforme al de Dios  y tampoco debían prestarles atención.
+
+### Así la iglesia no se perdería en información vacia, inutil. 
+
+### Así la iglesia andaría conforme al plan de Dios para ellos, que es por la fe.
+
+### El proposito era un amor (agape) en los creyentes. 
+
+### Toda iglesia local busca amor en los hermanos. Pero lo que realmente hace posible eso es una iglesia que se aferra a la verdad de Dios.
+
+### Habían creyentes que estaban desviando a la iglesia por medio de enseñanzas falsas de la ley.
+
 ### Los pervertidores (1 Timoteo 1:3a): Son autoproclamados "expertos" de la ley, que se dedican a esparcir su veneno.
 
 ### La perversión (1 Timoteo 1:3b-7): Estos hombres han agregado una dolorosa mezcla de mitos, fábulas y genealogías interminables a la ley.
