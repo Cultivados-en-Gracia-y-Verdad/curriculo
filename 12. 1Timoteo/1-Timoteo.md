@@ -864,6 +864,10 @@ Title: 1 Timoteo
 
 ### Pablo explica su rol de apóstol y maestro en el evangelio.
 
+### 1 Timoteo 2:5 "*Porque hay un solo Dios, y también un solo Mediador entre Dios y los hombres, Cristo Jesús hombre,*
+
+#### Este pasaje nos muestra que Dios es único y también su mediador es único. No existe otro mediador fuera de Jesucristo.
+
 ### 1 Timoteo 2:5a "*Porque hay un solo Dios*..." Un pleno conocimiento de la verdad empieza por saber que hay un solo Dios. Hechos 14:15.
 
 ### 1 Timoteo 2:5b "...*y también un solo Mediador entre Dios y los hombres...*" Un entendimiento pleno de la verdad es que existe un solo mediador entre Dios y el hombre y es el único. Hebreos 8:6, 9:15.
@@ -878,7 +882,9 @@ Title: 1 Timoteo
 
 #### Sin embargo vemos una línea de sangre real (Humana) desde David, cumpliendo así las promesas hechas en el antiguo testamento a David y a Judá. Mateo 1:1; Romanos 1:3.
 
-### 1 Timoteo 2:6a "*quien se dio a sí mismo en rescate por todos...*" la voluntad de Dios es que se llegue a al pleno conocimiento de que Cristo se dio a si mismo para dar posibilidad de rescate a todos. Filipenses 2:7; Romanos 15:3; 1 Corintios 15:3; Gálatas 1:4; Hebreos 7:27
+### 1 Timoteo 2:6 "*quien se dio a sí mismo en rescate por todos, testimonio dado a su debido tiempo.*" 
+
+### 1 Timoteo 2:6a "*quien se dio a sí mismo en rescate por todos*" Un entendimiento pleno de su voluntad es que lleguemos a comprender que Dios (Cristo Jesús hombre) se dio a sí mismo para rescatarnos a todos. Filipenses 2:7; Romanos 15:3; 1 Corintios 15:3; Gálatas 1:4; Hebreos 7:27.
 
 ### 1 Timoteo 2:6b "*testimonio dado a su debido tiempo...*" La plabra testimonio es MARTURION, que es donde viene nuestra palabra martir. 
 
