@@ -1078,7 +1078,11 @@ aTitle: 1 Timoteo
 
 ### 1 Timoteo 3:2b "*irreprochable...*" [ANEPILEPTOS] es sin crítica.
 
-### 1 Timoteo 3:2c "*marido de una sola mujer...*"
+### 1 Timoteo 3:2c "*marido de una sola mujer...*" El lider de la iglesia, si esta casado, debe ser marido de una sola mujer.
+
+#### Esto excluye cualquier pensamiento poligamo. Dios instituyo el matrimo unicamente entre un solo hombre y una sola mujer. Efesios 5:22-33
+
+#### Por el requisito observado encontramos que este rol dentro de la iglesia es exclusivamente para varones creyentes.
 
 ### 1 Timoteo 3:2d "*sobrio*..." [NEFALIOS] quiere decir que es sobrio
 
