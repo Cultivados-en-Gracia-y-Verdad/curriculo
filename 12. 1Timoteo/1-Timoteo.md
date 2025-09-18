@@ -160,9 +160,55 @@ aTitle: 1 Timoteo
 
 #### En el tiempo actual, el Espíritu Santo continua llevando a cabo su ministerio, tanto con los creyentes de la iglesia, guiándolos a toda verdad (Juan 16:13) y convenciendo por medio de la predicación de la palabra de Dios al mundo perdido. (Juan 16:8).
 
-## Propiedad, autoridad y comunidad
+## Misterio el Plan de Dios con la Iglesia
 
-### Existen 77 menciones de la palabra iglesia en la biblia versión (NBLA).
+### La plan de Dios siempre ha sido llegar a los gentiles (a todo el mundo), y en ese plan la nación de Israel, era antiguamente el agente por el cual, anunciaba la luz a las naciones. Éxodo 19:5-6; Genesis 12:3.
+
+### Por causa del rechazo de la nación de Israel al Señor Jesucristo Hechos 3:13-15, los gentiles llegaron a ser participantes en los planes de Dios. Romanos 11:17.
+
+#### No debemos llegar a la conclucion de que Dios ha desechado a su pueblo, un día Dios retomara sus planes con la nación de Israel Romanos 11:1-2.
+
+### Hoy, la iglesia es el agente que Dios esta usando para alcanzar a todas las naciones, así también alcanzar a los perdidos de la nación de Israel, ya que el evangelio es el mensaje de Dios para todo el mundo. Romanos 11:14, Romanos 1:14; Romanos 1:16.
+
+### 1 Timoteo 3:15b: "*...Es la iglesia del Dios vivo, columna y sostén de la verdad*"
+
+### Efesios 3:10-11: "*para dar a conocer ahora a los principados y a las potestades en los cielos las múltiples formas de la sabiduría de Dios, **por medio de la Iglesia**, conforme al plan eterno que ha realizado por medio de Cristo Jesús, Señor nuestro,*"
+
+### Existen 191 menciones de la palabra Ekklesía en la biblia, 77 veces en el antiguo testamento, 114 veces en el nuevo testamento, de los cuales 77 menciones son las que se refieren específicamente a la iglesia que el Señor Jesucristo esta edificando.
+
+#### Las 77 menciones de "Ekklesía" del antiguo testamento no se refieren al cuerpo de Cristo que es la iglesia, habla de una asamblea o una reunión como lo vimos en la definición de la palabra. 1Cronicas 11:4; 2 Cronicas 28:14.
+
+#### Y en el nuevo testamento 37 menicones no se refiere a la "Ekklesía" como cuerpo de Cristo, sino a una reunion o asamblea. Hechos 19:41.
+
+#### El libro de Hechos lleva 17 menciones, por ejemplo Hechos 8:1; Hechos 9:31; Hechos 11:26; Hechos 20:28
+
+#### En las epistolas del apostol Pablo se hace mención de 46 veces Romanos 16:1; Efesios 1:22; Filemon 1:2
+
+#### En el resto de las epistolas y cartas se hacen mención de 11 veces Santiago 5:14 ; 3Juan 1:6 ; Apocalipsis 1:4
+
+#### Y el Señor Jesucristo lo menciono 3 veces Mateo 16:18; Mateo 18:17
+
+### Es de notar que el apóstol Pedro no hace mención de iniciar la iglesia o que sea el apóstol Pedro la cabeza de la iglesia, o como muchos piensan que él sea el primer papa.
+
+### También podemos notar que las veces que el Señor Jesucristo menciona a la iglesia lo menciona en que Él seria quien se encargaría de edificar la iglesia. Mateo 16:18.
+
+### En Mateo 18:17 el Señor Jesucristo va preparando a sus discipulos sobre la iglesia, aunque para ese momento, para ellos la iglesia seguía siendo un misterio. Efesios 3:9.
+
+### Pablo dijo en Efesios 3:2-3 que por la gracia de Dios este misterio ha sido dado a conocer a esta generación, ya que en otras generaciones estaba oculta Efesios 3:4-6
+
+## Funcionamiento y vigencia de la iglesia
+
+### Toda casa tiene su propietario,1 Timoteo 3:5 dice, "*(pues si un hombre no sabe cómo gobernar su propia casa, ¿cómo podrá cuidar de la iglesia de Dios*?).",  la iglesia es la casa del Dios vivo y tiene su propio orden y gobierno 1 Timoteo 3:15.
+
+### Y en ésta casa, que es la iglesia, Dios estableció su propio orden, Efesios 5:23b "*... Cristo es cabeza de la iglesia, siendo El mismo Salvador del cuerpo.*"
+
+### Colosenses 1:18 “*Él es también la cabeza del cuerpo que es la iglesia. Él es el principio, el primogénito de entre los muertos, a fin de que Él tenga en todo la primacía.*”
+
+###  Podemos encontrar 12 pasajes bíblicos de la iglesia haciendo mención de pertenencia a Dios, “**la iglesia de Dios**” 1 Corintios 1:2; 1 Corintios 10:32; 1 Corintios 11:22; 1 Corintios 11:16; 1 Corintios 15:9; 2 Corintios 1:1; Gálatas 1:13; 1 Tesalonicenses 1:1; 1Tesalonicenses 2:14; 2 Tesalonicenses 1:1; 2 Tesalonicenses 1:4; 1 Timoteo 3:5; 1 Timoteo 3:15.
+
+### Existe una sola mención de la iglesia como “iglesia de Cristo” Romanos 16:16.
+
+### Pero eso no significa que la iglesia no pertenece a Cristo, ya que el mismo dijo en Mateo 16:18 “*…edificaré **Mi iglesia**; y las puertas del Hades no prevalecerán contra ella.*”
 
 ## ¿Llamada de donde?
 
@@ -1102,11 +1148,15 @@ aTitle: 1 Timoteo
 
 ### 1 Timoteo 3:2a "*Un obispo* [EPISCOPOS] *debe ser, pues...*" Las condiciones para ancianos no son sugerencias que deben tratarse de cumplir. Son requisitos que tienen que ser cumplidos en todo momento y en plenitud. 
 
-### 1 Timoteo 3:2b "*irreprochable...*" [ANEPILEPTOS] es sin crítica.
+### 1 Timoteo 3:2b "*irreprochable...*" [ANEPILEPTOS] es sin crítica. Se refiere a que el creyente debe estar libre de cualquier crítica justifica delante de los de la iglesia. Esto tambien incluye el hecho de estar libre de cualquier cargo legal. Tito 1:6-7
 
-### 1 Timoteo 3:2c "*marido de una sola mujer...*"
+### 1 Timoteo 3:2c "*marido de una sola mujer...*" El lider de la iglesia, si esta casado, debe ser marido de una sola mujer.
 
-### 1 Timoteo 3:2d "*sobrio*..." [NEFALIOS] quiere decir que es sobrio
+#### Esto excluye cualquier pensamiento poligamo. Dios instituyo el matrimo unicamente entre un solo hombre y una sola mujer. Efesios 5:22-33
+
+#### Por el requisito observado encontramos que este rol dentro de la iglesia es exclusivamente para varones creyentes.
+
+### 1 Timoteo 3:2d "*sobrio*..." [NEFALIOS] quiere decir tambien templado, moderado. La palabra da el significado directo a una persona libre de vino. También, podria referirse a un creyente libre de un estado mental libre del control de las pasiones y lujuria 
 
 ### 1 Timoteo 3:2e "*prudente...*" [SOFRONE] quiere decir moderado. 
 
@@ -1704,13 +1754,9 @@ Sin embargo, Pablo llama a Timoteo a ser ejemplo en su conducta no maestro en la
 
 ### 1 Timoteo 5:17a "*Los ancianos que gobiernan bien*" 
 
-### 1 Timoteo 5:17b "*sean considerados dignos de doble honor,*"
+### 1 Timoteo 5:17b "*sean considerados dignos de doble honor,*" esto se refiere a un honor encima del respeto que merecen. El doble honor es la responsabilidad de la iglesia. La iglesia debe preocuparse de recompensar al anciano que se dedica a gobernar bien. 
 
-### 1 Timoteo 5:17c "*principalmente los que trabajan*"
-
-### 1 Timoteo 5:17d "*en la predicación*"
-
-### 1 Timoteo 5:17e *y en la enseñanza.*"
+### 1 Timoteo 5:17c "*principalmente los que trabajan en la predicación y en la enseñanza*" 
 
 ### 1 Timoteo 5:18a "*Porque la Escritura dice: «NO PONDRÁS BOZAL AL BUEY CUANDO TRILLA»,*"
 
@@ -1776,7 +1822,7 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 ### Deben mantenerse puros. 1 Timoteo 5:22b
 
-### Timoteo en particular (1 Timoteo 5:23): "Bebe un poco de vino por amor a tu estómago porque estás enfermo muy a menudo".
+### Timoteo en particular: "Bebe un poco de vino por amor a tu estómago porque estás enfermo muy a menudo".  1 Timoteo 5:23
 
 ### Pablo se dirige a los obreros, a los impíos, a los sabios y a los ricos. Cierra su carta con algunas instrucciones finales para Timoteo.
 
@@ -1842,25 +1888,35 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 ### 1 Timoteo 6:5b "*que están privados de la verdad...*" lo que les falta y no se han detenido para mirar fijamente la verdad entonces están privados de la verdad. 
 
-"*privados*" [] es estar o llegar a estar sin algo; no obtener o tener.[^9]
+#### "*privados*" [APOSTEREOMAI] es estar o llegar a estar sin algo; no obtener o tener.[^9]
 
-### 1 Timoteo 6:5c "*que suponen que la piedad es un medio de ganancia.*"
+### 1 Timoteo 6:5c "*que suponen que la piedad es un medio de ganancia.*" estas personas asumen el hecho que la piedad es para su ganancia. 
 
-### 1 Timoteo 6:6 "*Pero la piedad, en efecto, es un medio de gran ganancia cuando va acompañada de contentamiento.*"
+falsos maestros se aprovechan de la apariencia de piedad para conseguir ganancia economica. Erroneamente asumen que la piedad tiene ese fin. 1 Timoteo 6:9
 
-### 1 Timoteo 6:7 "*Porque nada hemos traído al mundo, así que nada podemos sacar de él.*"
+"*suponen*" [DOKEO] - pensar o creer (algo) sin estar totalmente decidido en mente u opinión. 
 
-### 1 Timoteo 6:8 "*Y si tenemos qué comer y con qué cubrirnos, con eso estaremos contentos.*"
+### 1 Timoteo 6:6 "*Pero la piedad, en efecto, es un medio de gran ganancia cuando va acompañada de contentamiento.*" La piedad es un medio para mucho beneficio pero solo cuando viene con contentamiento. ¿Que significa esto?
 
-### 1 Timoteo 6:9 "*Pero los que quieren enriquecerse caen en tentación y lazo y en muchos deseos necios y dañosos que hunden a los hombres en la ruina y en la perdición.*"
+#### "*contentamiento*" [AUTARKEIA] adecuación que resulta especialmente en satisfacción con la propia situación en la vida. [^9]
 
-### 1 Timoteo 6:10a "*Porque la raíz de todos los males es el amor al dinero,*"
+#### La piedad acompañada de satisfacción por si sola es de gran ganancia. 
 
-### 1 Timoteo 6:10b "*por el cual, codiciándolo algunos, se extraviaron*"
+### 1 Timoteo 6:7 "*Porque nada hemos traído al mundo, así que nada podemos sacar de él.*" ¿Porque nos enfocariamos en cosas terrenales si no llevaremos las cosas de la tierra con nosotros?
 
-### 1 Timoteo 6:10c "*de la fe*"
+### 1 Timoteo 6:8 "*Y si tenemos qué comer y con qué cubrirnos, con eso estaremos contentos.*" Si estamos contentos con un techo y la comida, la piedad es gran ganancia y somos satisfechos. 
 
-### 1 Timoteo 6:10d "*y se torturaron con muchos dolores.*"
+### 1 Timoteo 6:9 "*Pero los que quieren enriquecerse caen en tentación y lazo y en muchos deseos necios y dañosos que hunden a los hombres en la ruina y en la perdición.*" Los falsos maestros, por querer ser ricos, caen en tentación y hacen a otros caer en la ruina y perdición. 
+
+### 1 Timoteo 6:10a "*Porque la raíz de todos los males es el amor al dinero,*" El dinero no es culpable de los males. La raíz de todos los males es amar al dinero. Esto se llama avaricia. 
+
+### 1 Timoteo 6:10b "*por el cual, codiciándolo algunos, se extraviaron de la fe*" En vez de perseguir la verdad en Jesucristo, estos hombres codician el dinero y como consecuencia se extravian de la verdad, la fe. 
+
+### 1 Timoteo 6:10d "*y se torturaron con muchos dolores.*" 
+
+#### "*dolores*" [ODYNE] sentimientos de dolor mental o físico. 
+
+#### estos hombres se ocasionan estrés, anciedad y más. 
 
 ## En Síntesis (1 Timoteo 6:1-10)
 
@@ -1888,23 +1944,31 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 ### 1 Timoteo 6:11a "*Pero tú, oh hombre de Dios...*" Nuevamente Pablo le habla diréctamente a Timoteo ya no como hijo sino hombre de Dios. 
 
+#### No te hace más hombre tener mucho dinero. 
+
+#### No te hace más hombre ser famoso. 
+
+#### No te hace más hombre caerles bien a todos. 
+
+#### Pablo le recuerda a Timoteo, el ya todo un hombre y hombre de Dios. 
+
 ### 1 Timoteo 6:11a "*huye de estas cosas...*" la instrucción aqui es de huir. 
 
-#### La idea es escaparse de estas cosas. 
+#### ¡escapa de estas cosas! No te dejes distraer en absoluto por estas cosas. 
 
-### 1 Timoteo 6:11a "*y sigue la justicia...*"
+### 1 Timoteo 6:11a "*y sigue la justicia...*" más bien, macérate en la justicia.  
 
-### 1 Timoteo 6:11a "*sigue...la piedad...*"
+### 1 Timoteo 6:11a "*sigue...la piedad...*" Sigue la piedad
 
-### 1 Timoteo 6:11a "*sigue...la fe...*"
+### 1 Timoteo 6:11a "*sigue...la fe...*" sigue la fe, el cuerpo de verdad que tenemos.
 
-### 1 Timoteo 6:11a "*sigue...el amor,*"
+### 1 Timoteo 6:11a "*sigue...el amor,*" sigue el amor
 
-### 1 Timoteo 6:11a "*sigue...la perseverancia*"
+### 1 Timoteo 6:11a "*sigue...la perseverancia*" 
 
 ### 1 Timoteo 6:11a "*sigue...y la amabilidad.*"
 
-### 1 Timoteo 6:12a "*Pelea la buena batalla de la fe.*"
+### 1 Timoteo 6:12a "*Pelea la buena batalla de la fe.*" 
 
 ### 1 Timoteo 6:12b "*Echa mano de la vida eterna a la cual fuiste llamado,*"
 
