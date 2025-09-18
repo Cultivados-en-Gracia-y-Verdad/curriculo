@@ -1698,11 +1698,9 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 ### 1 Timoteo 5:24b "*yendo delante de ellos al juicio;*" El creyente que piensa que esta bien pecar no esta considerando que aunque el creyente ha sido salvo de la ira De Dios, si será juzgado. Seremos juzgados según la ley de la libertad. 
 
-### 1 Timoteo 5:24c "*pero a otros, sus pecados los siguen.*"
+### 1 Timoteo 5:24c "*pero a otros, sus pecados los siguen*". Solo porque los pecados no se han hecho manifiéstos no quiere decir que Cristo no los juzgará también. La ley de la libertad es según la intención del corazon no solo por lo que es externamente visible.  
 
-### 1 Timoteo 5:25a "*De la misma manera, las buenas obras son evidentes,*"
-
-### 1 Timoteo 5:25a "*y las que no lo son no se pueden ocultar.*"
+### 1 Timoteo 5:25a "*De la misma manera, las buenas obras son evidentes, y las que no lo son no se pueden ocultar...*" Era necesario para Timoteo observar detenidamente a los que consideró candidatos para el ancianato antes de colocarlos en el rol. 
 
 ## En Síntesis (1 Timoteo 5:17-25)
 
@@ -1724,21 +1722,21 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 # X. 1 Timoteo 6:3-21 - Asuntos Relacionados con la Iglesia
 
-## Los Esclavos
+## 1 Timoteo 6:1-2 Los Esclavos
 
-### 1 Timoteo 6:1a "*Todos los que están bajo yugo como esclavos,*"
+### 1 Timoteo 6:1a "*Todos los que están bajo yugo como esclavos,*" Ahora en cuanto a los esclavos creyentes. 
 
-### 1 Timoteo 6:1b "*consideren a sus propios amos como dignos de todo honor,*"
+### Es interesante que dentro de la iglesia, aunque teniendo el mismo valor, no se ignora la realidad social de cada uno. Esto añade variedad a la familia de Dios y demuestra que la unión espiritual de la iglesia no es en base a igualdad civil. 
 
-### 1 Timoteo 6:1c "*para que el nombre de Dios y nuestra doctrina no sean blasfemados.*"
+### 1 Timoteo 6:1b "*consideren a sus propios amos como dignos de todo honor,*" El esclavo creyente puede mostrar piedad en su trabajo forzado. ¿Como lo hace si igualmente es obligatorio? Lo hace mostrando honor. 
 
-### 1 Timoteo 6:2a "*Y los que tienen amos que son creyentes,*"
+### 1 Timoteo 6:1c "*para que el nombre de Dios y nuestra doctrina no sean blasfemados*". Es poderoso entender que una persona, aunque esclava, puede alinear con la voluntad de Dios también de una manera igualmente valiosa. 
 
-### 1 Timoteo 6:2b "*no les falten el respeto, porque son hermanos,*"
+### 1 Timoteo 6:2a "*Y los que tienen amos que son creyentes, no les falten el respeto, porque son hermanos,*" 
 
-### 1 Timoteo 6:2c "*sino sírvanles aún mejor,*"
+### 1 Timoteo 6:2b "*sino sírvanles aún mejor,*"
 
-### 1 Timoteo 6:2d "*ya que son creyentes y amados los que se benefician de su servicio.*"
+### 1 Timoteo 6:2c "*ya que son creyentes y amados los que se benefician de su servicio.*"
 
 ### 1 Timoteo 6:2e "*Enseña y predica estos principios.*"
 
