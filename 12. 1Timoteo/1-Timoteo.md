@@ -1472,7 +1472,19 @@ Timoteo, un jóven, no debe exigir respeto de los demás. Hacer demandas y trata
 
 ### 1 Timoteo 4:12b "*sino sé ejemplo de los creyentes*" En vez de exigir, puede demostrar la diferencia. Esto conlleva un andar de fe en dependencia De Dios. 
 
-#### La piedad no solo es provechosa para el mundo incoverso. También es provechoso para el jóven dentro de la casa de Dios. 
+#### La palabra ejemplo [TUPOS]  una forma o patrón representativo; a menudo para imitación o réplica. Tiene una variedad de aplicaciones. 
+
+##### "*se ejemplo*" - como patrón - (ej: ollas en buen estado según el patrón mencionado)[^13]
+
+##### "*se ejemplo*" - como plano - (ej: para registrarse según el siguiente plan) [^13]
+
+##### "*se ejemplo*" - como forma - (ej: manera de escribir)[^13]
+
+##### "*se ejemplo*" - como emitir juicio - (Solo que existe un principio según el cual he juzgado a menudo.) [^13]
+
+##### "*se ejemplo*" -  como sentencia - (ej: por la sentencia de los honorables hombres)[^13]
+
+#### Aquí vemos que la piedad no solo es provechosa para el mundo incoverso. También es provechoso para el jóven dentro de la casa de Dios. 
 
 ### 1 Timoteo 4:12c "*se ejemplo...en palabra*", La forma, no solo las palabras, es importante. La manera de expresarse aveces habla más fuerte que el mismo contenido. El jóven que no se expresa como ejemplo en palabra no debe pensar que será tan bien recibido que aquel que se expresa siendo ejemplar en como habla. 
 
@@ -1492,17 +1504,19 @@ Sin embargo, Pablo llama a Timoteo a ser ejemplo en su conducta no maestro en la
 
 ### 1 Timoteo 4:13b "*ocúpate...en la lectura de las Escrituras*", La lectura de las Escrituras es una piedad valiosa. El estudio de la Palabra sin embargo es absolutamente esencial para la persona que desea ser usado como instrumento. 
 
-El crecimiento espiritual esta estrechamente ligado a crecer en el conocimiento de Cristo y Su gracia. 
+#### "*Ocupate*" [PROSECHO] - dedicar (parte de) la propia vida o esfuerzos a; como a religiones o instituciones.
+
+#### El crecimiento espiritual esta estrechamente ligado a crecer en el conocimiento de Cristo y Su gracia por medio de ocuparse en las Escrituras. 
 
 ### 1 Timoteo 4:13c "*ocúpate...la exhortación*" la exhortación es valuable cuando proviene de las Escrituras. Pablo mensiona 5 veces que Timoteo debe denunciar, exhortar el error. 1 Timoteo 1:3, 4:11, 5:7, 6:13, 6:17
 
 ### 1 Timoteo 4:13e "*ocúpate...y la enseñanza*". La enseñanza o instrucción es la tarea principal de Timoteo. Pablo le dice, ocupate en enseñar.
 
-### 1 Timoteo 4:14a "*No descuides el don espiritual que está en ti*" ¿Cual era el don de Timoteo? Hay indicaciones que era el de evangelista. 
+### 1 Timoteo 4:14a "*No descuides el don espiritual que está en ti*" ¿Cual era el don de Timoteo? Hay indicaciones que era el de evangelista. En el contexto inmediato, entenderiamos ese don a ser uno de enseñanza. 
 
-### 1 Timoteo 4:14b "*que te fue conferido por medio de la profecía con la imposición de manos del presbiterio*".
+### 1 Timoteo 4:14b "*que te fue conferido por medio de la profecía con la imposición de manos del presbiterio*". No fué el presbiterio que le dieron el don. Ellos simplemente lo encomendaron al ministerio, haciendo publico su don, 
 
-### 1 Timoteo 4:15a "*Reflexiona sobre estas cosas;"*
+### 1 Timoteo 4:15a "*Reflexiona sobre estas cosas;"* ¿Porque tendría que pensar en la seriedad de su llamado? ¿Estaba pensando jubilarse del ministerio?
 
 ### 1 Timoteo 4:15b "*dedícate a ellas,*"
 
@@ -1746,15 +1760,17 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 ### 1 Timoteo 6:1c "*para que el nombre de Dios y nuestra doctrina no sean blasfemados*". Es poderoso entender que una persona, aunque esclava, puede alinear con la voluntad de Dios también de una manera igualmente valiosa. 
 
-### 1 Timoteo 6:2a "*Y los que tienen amos que son creyentes, no les falten el respeto, porque son hermanos,*" 
+### 1 Timoteo 6:2a "*Y los que tienen amos que son creyentes, no les falten el respeto, porque son hermanos,*" Esta aclaración es importante porque puede ser que el esclavo que es tan afortunado de tener un amo creyente quiera tomar esa relación a la lijera. 
 
-### 1 Timoteo 6:2b "*sino sírvanles aún mejor,*"
+### 1 Timoteo 6:2b "*sino sírvanles aún mejor,*" En vez de faltarles el respeto, deberían más bien servirles aún mejor. 
 
-### 1 Timoteo 6:2c "*ya que son creyentes y amados los que se benefician de su servicio.*"
+### 1 Timoteo 6:2c "*ya que son creyentes y amados los que se benefician de su servicio.*" La motivación es porque sus amos creyentes son familia y servirles es para bendecion. 
 
-### 1 Timoteo 6:2e "*Enseña y predica estos principios.*"
+### 1 Timoteo 6:2e "*Enseña y predica estos principios.*" Timoteo debía enseñar estas cosas, no solo esperar que sucedan. 
 
-### 1 Timoteo 6:3f "*Si alguien enseña una doctrina diferente*" 
+Saber como debe ser el andar del creyente en cualquier circunstancia es provechoso. Saber como se logra vivir piadosamente también es absolutamente esencial. 
+
+### 1 Timoteo 6:3f "*Si alguien enseña una doctrina diferente...*" una doctrina que difiere 
 
 ### 1 Timoteo 6:3g "*y no se conforma a las sanas palabras,*"
 
@@ -1965,3 +1981,4 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 [^10]: BibleRef, https://www.bibleref.com/1-Timothy/2/1-Timothy-2-8.html
 [^11]: Studi.com, https://study.com/academy/lesson/ecclesia-ancient-greece-history-facts.html
 [^12]: Vincent Word Studies
+[^13]: Vocabulary of Greek Testament
