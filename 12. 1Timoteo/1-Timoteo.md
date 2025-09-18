@@ -557,25 +557,47 @@ aTitle: 1 Timoteo
 
 ### 1 Timoteo 1:13a "*Sin embargo, se me mostró misericordia porque lo hice por ignorancia en mi incredulidad...*" Pablo estaria recibiendo misericordia al ser encomendado como apostol para proclacar y enseñar el evangelio.
 
-### 1 Timoteo 1:13a "*porque lo hice por ignorancia en mi incredulidad...*" En la ignorancia de su incredulidad, esto mostrado como un ferviente ceso y devocion por Dios Pablo persigui a la iglesia, plenamente convencido de que estaba haciendo la voluntad de Dios.
+### 1 Timoteo 1:13b "*porque lo hice por ignorancia en mi incredulidad...*" En la ignorancia de su incredulidad, esto mostrado como un ferviente ceso y devocion por Dios Pablo persiguio a la iglesia, plenamente convencido de que estaba haciendo la voluntad de Dios.
 
 #### Jesucristo le mostro misericordia a Pablo al no darle lo que merecia, pero no solamente recibiria misericordia, a medida que camine estara conociendo aun mucho mas de quien es Jesucristo.
 
 ### 1 Timoteo 1:14 "*Pero la gracia de nuestro Señor fue más que abundante, con la fe y el amor que se hallan en Cristo Jesús...*" La gracia de Dios en Cristo no solo se mostro en misericordia, esta es mucho mas abundante.
 
-### 1 Timoteo 1:15a "*Palabra fiel y digna de ser aceptada por todos:*" 
+#### Podemos notar una brecha entre el versículo 13 y 14, al inicio Pablo conoció la misericordia de Dios, mas adelante estaría conociendo todo lo que la gracia de Dios en Cristo contiene para el creyente.
 
-### 1 Timoteo 1:15b "*Cristo Jesús vino al mundo para salvar a los pecadores...*" Cristo no vino para curar a los sanos. No vino para salvar a los justos, sino a pecadores. Significa que las personas que se creen demasiado buenos no pueden ser salvos por Jesucristo porque el vino a salvar a los pecadores. Marcos 2:17; Salmo 14:1-3; Lucas 19:10
+#### Menciona la fe y el amor que solo pueden ser hallados en Cristo. Hebreos 12:2
+
+### 1 Timoteo 1:15a "*Palabra fiel y digna de ser aceptada por todos:*" Iniciar con esta declaración nos da seguridad y veracidad en lo que se dirá a continuación. Podemos confiar en esa declaración.
+
+### 1 Timoteo 1:15b "*Cristo Jesús vino al mundo para salvar a los pecadores...*" Es una certeza que el Padre entrego a su Hijo unico, enviandolo al mundo. Juan 1:14, 3:16, Hebreos 1:6
+
+#### Cristo no vino para curar a los sanos. No vino para salvar a los justos, sino a pecadores. Significa que las personas que se creen demasiado buenos no pueden ser salvos por Jesucristo porque el vino a salvar a los pecadores. Marcos 2:17; Salmo 14:1-3; Lucas 19:10
+
+#### Cristo viene al mundo con un proposito, viene ha hacer una obra, el tendria que morir en la cruz tomando el lugar de los pecadores, dejando al Padre satisfecho, provisionando salvacion a los pecadores por medio de la fe. Romanos 5:8, 2 Corintios 5:21, 1 Pedro 3:8, Juan 19:18-20
 
 ### 1 Timoteo 1:15c "*entre los cuales yo soy el primero...*" Pablo comprendió mas y mas que era un pecador indigno. 
 
 #### Pablo llegó al final de su vida para hacer esta declaración. No dijo que yo era sino yo soy (presente, activo, indicativo). Entendia que debía depender de la gracia de Dios para todo momento. 
 
-### 1 Timoteo 1:16 "*Sin embargo, por esto hallé misericordia para que en mí, como el primero, Jesucristo demostrara toda Su paciencia como un ejemplo para los que habrían de creer en Él para vida eterna...*" Dios cambió todo. De un perseguidor de la iglesia llegó a ser un ejemplo para que otros crean en Jesucristo para recibir vida eternal. 
+### 1 Timoteo 1:16a "*Sin embargo, por esto hallé misericordia para que en mí, como el primero, Jesucristo demostrara toda Su paciencia como un ejemplo para los que habrían de creer en Él para vida eterna...*" Dios cambió todo. De un perseguidor de la iglesia llegó a ser un ejemplo para que otros crean en Jesucristo para recibir vida eternal. 
 
 #### En otras palabras, si Dios podia salvar a un judio fariseo, asesino, blasfemo como Pablo, podría salvar a cualquiera. 
 
 #### Pablo era un trofeo de la gracia de Dios. Un ejemplo de lo que Dios por medio de su gracia en Jesucristo podia lograr. 
+
+### 1 Timoteo 1:16b "*para que en mí, como el primero, Jesucristo demostrara toda Su paciencia...*" Pablo como el mayor pecador, Cristo mostro toda su paciencia con gracia.
+
+#### A veces pensamos que un asesino, un violador, un borracho o un secuestror son los que se merecen todo el odio y jamas Dios los salvaria, ellos no lo merecen. Bueno, ¿Quien merece ser salvado? seria la pregunta. Romanos 3:23
+
+#### La realidad es que no hay diferencia, si nos comparamos ante el estandar perfecto de Dios (La ley) todo somos hallados como pecadores culpables, merecedores no de salvacion sino de muerte. Romanos 6:23, Santiago 2:10
+
+#### Lo asombroso, el milagro es que la salvación provista en Cristo es por gracia por medio de la fe. Romanos 3:21-22, 4:4, Efesios 2:8
+
+#### Vemos su paciencia que Dios no quiere la muerte del impio, por eso dio a su Hijo, el quiere que cambien de mente y salvarlos, aun al mas cruel o abominable según nuestra perspectiva, Ezequiel 18:23, 33:11, Hechos 17:30, 2 Pedro 3:9
+
+### 1 Timoteo 1:16c "*como un ejemplo para los que habrían de creer en Él para vida eterna...*" Esta parte esta dirigida a futuros creyentes, Dios esta ofreciendo salvación en Cristo.
+
+#### Los que creen en Cristo gozarán de vida eterna, no verán jamás condenación.
 
 ### 1 Timoteo 1:17a "*Por tanto, al Rey...*" Por esta razón Pablo brota en exaltación de alabanza al Rey, su salvador Jesucristo. Apocalipsis 19:16
 
