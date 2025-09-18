@@ -1610,7 +1610,9 @@ El misterio de la piedad es El (Cristo) en nosotros.
 
 ### Pablo se dirige a los obreros, a los impíos, a los sabios y a los ricos. Cierra su carta con algunas instrucciones finales para Timoteo.
 
-# X. 1 Timoteo 6:3-21 -- Asuntos Relacionados con la Iglesia
+# X. 1 Timoteo 6:3-21 - Asuntos Relacionados con la Iglesia
+
+## Los Esclavos
 
 ### 1 Timoteo 6:1a "*Todos los que están bajo yugo como esclavos,*"
 
