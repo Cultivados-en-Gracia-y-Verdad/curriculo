@@ -1027,37 +1027,51 @@ aTitle: 1 Timoteo
 
 ### 1 Timoteo 3:1a "*Palabra fiel es esta:...*" La frase "*Palabra fiel*" aparece tres veces en 1 Timoteo. 1 Timoteo 1:15, 3:1, 4:9
 
-#### 1 Timoteo 1:15 "*Palabra fiel*" - Cristo vino al mundo para salvar a los pecadores...
+#### 1 Timoteo 1:15 "*Palabra fiel...*" - Cristo vino al mundo para salvar a los pecadores...
 
-#### 1 Timoteo 3:1 "*Palabra fiel*" - si alguien desea obispado buena cosa desea...
+#### 1 Timoteo 3:1 "*Palabra fiel...*" - Si alguien desea obispado buena cosa desea...
 
-#### 1 Timoteo 4:9 "*Palabra fiel*" - por esto trabajamos y sufrimos, porque esperamos al Dios viviente...
+#### 1 Timoteo 4:9 "*Palabra fiel....*" - Por esto trabajamos y sufrimos, porque esperamos al Dios viviente...
 
-### 1 Timoteo 3:1b "*si alguien aspira al cargo de obispo buena obra desea hacer*..." Pablo aquí le aclara a Timoteo que se hay algún hermano que aspira ser anciano que lo reciba la intención con buen ánimo. 
+#### "Palabra" en este versiculo es LÓGOS (mensaje, enseñanza, comunicado) y la palabra "fiel" es PISTOS (confiable, digno de confianza, seguro, verdadero) en griego.
 
-#### Obispo, anciano y sobreveedor son términos sinónimos. En realidad hay tres palabras en el griego que son usadas para describir la misma posición de lider en la iglesia. 
+#### La declaración que encontraremos en los siguientes versiculos es un mensaje, un anuncio  de Dios, el cual es confiable y seguro de prestar atención. 
 
-##### [EPISCOPOS] - el oficio de velar, dirigir y cuidar una iglesia.[^9]
+### 1 Timoteo 3:1b "*si alguien aspira al cargo de obispo buena obra desea hacer*..." Pablo aquí le aclara a Timoteo que se hay algún hermano que aspira ser anciano que vea esa intención con buen ánimo. 
 
-##### [PRESBUTEROS] - un anciano encargado de una asamblea de creyentes cristianos (como cargo designado o elegido).[^9]
+#### Obispo, anciano y pastor son términos sinónimos. En realidad hay tres palabras en el griego que son usadas para describir la misma posición de lider en cada iglesia local. 
 
-##### [POIMEN] - gobernar a un grupo de personas, entendido como cuidar ovejas o cabras.[^9]
+##### [EPISCOPOS] Obispo - El oficio de velar, dirigir y cuidar una iglesia.[^9] Hechos 20:28; Filipenses 1:1; 1 Timoteo  3:1; Tito 1:7
 
-#### En cada caso, siempre los vemos a estos líderes en plural. El cual nos lleva a pensar en la práctica de la pluralidad de liderazgo. Si bien puede haber un anciano que se llama pastor que tiene el don de pastorear, no es el único anciano. El es parte del concilio de ancianos. 
+##### [PRESBUTEROS] Anciano - Un anciano encargado de una asamblea de creyentes cristianos (como cargo designado o elegido).[^9] Hechos 20:17; Tito 1:5, 6; 1 Pedro 5:1
+
+##### [POIMEN] Pastor - Gobernar a un grupo de personas, entendido como cuidar ovejas o cabras.[^9] Hechos 20:28; Efesios 4:11; 1 Pedro 5:2
+
+#### En cada caso, siempre los vemos a estos líderes en plural. El cual nos lleva a pensar en la práctica de la pluralidad de liderazgo (Hechos 14:23; Tito 1:5; Hebreos 13:7). Si bien puede haber un anciano que se llama pastor que tiene el don de pastorear, no es el único anciano. El es parte del concilio de ancianos. 
 
 #### ¿Es necesario que una iglesia local coloque ancianos? 
 
 #### Aunque el rol de anciano es bíblico y justamente el trabajo de Timoteo en Efeso fue establecer ancianos y diáconos, es una mala practica colocar personas indebidas (que no califican) como ancianos. Estas personas pueden llevar a toda la iglesia al descarrio. 
 
-#### Es mejor estar sin ancianos y diaconos que escogerlos sin que califiquen bíblicamente. 
+#### Es mejor estar sin ancianos y diaconos que escogerlos sin que califiquen bíblicamente.
+
+#### La siguiente lista de requisitos que veremos para que un creyente de la iglesia sea designado como anciano va acorde a la responsabilidad y rol que debe cumplir dentro de la iglesia local, veremos algunos aspectos de la importancia de que estos requisitos sean cumplidos en totalidad:
+
+##### Tito 1:9-10, los lideres (ancianos, pastores u obispos) de la iglesia local, deben estar capacitados en el mensaje claro de la Escritura, de esa manera podrían animar y tambien corregir en mansedumbre a los miembros de la iglesia. Debe tener la capacidad de demostrar por la Escritura enseñanzas erroneas que pueden surgir dentro o desde afuera de la iglesia.
+
+##### Hechos 20:28-31, la designación bíblica de lideres no viene de iniciativa humana, sino por la guía Divina que nos a sido provista en las Escrituras. El lider debe andar en continua examinación propia y de los miembros de la iglesia por medio de las Escrituras.
+
+###### La iglesia esta en constante ataque, Dios no dijo que talvez vengan ataques hacia la iglesia, Dios indico que efectivamente vendrán doctrinas extrañas. ¿Cómo podría un pastor cuidar al rebaño de esos ataques si no esta capacitado en el mensaje de Cristo?
+
+##### 1 Timoteo 3:6-7, La designación de un lider dentro de la iglesia local, influira tanto en el pensamiento del creyente en el nuevo rol, como la manera de que el y la iglesia sean persividas por las personas de afuera de la iglesia.
 
 ## Requisitos para los anciano 
 
 ### Es importante reconocer que TODOS los requisitos dados para el anciano están en tiempo presente. Quiere decir que las condiciones deben ser cumplidos en todo tiempo, no solo un punto en el pasado. 
 
-#### Un anciano que no cumple estos requisitos en cualquier momento, debe dejar a un lado su cargo al menos hasta poner en orden sus cosas. 
+#### Por esa razón, un anciano que no cumple estos requisitos en cualquier momento, debe dejar a un lado su cargo al menos hasta poner en orden sus cosas. 
 
-### 1 Timoteo 3:2a "*Un obispo* [EPISCOPOS] *debe ser, pues...*" Las condiciones para ancianos no son sugerencias que deben tratarse de cumplir. Son requisitos que tienen que ser cumplidos en todo momento. 
+### 1 Timoteo 3:2a "*Un obispo* [EPISCOPOS] *debe ser, pues...*" Las condiciones para ancianos no son sugerencias que deben tratarse de cumplir. Son requisitos que tienen que ser cumplidos en todo momento y en plenitud. 
 
 ### 1 Timoteo 3:2b "*irreprochable...*" [ANEPILEPTOS] es sin crítica.
 
