@@ -190,6 +190,14 @@ aTitle: 1 Timoteo
 
 ### Es de notar que el apóstol Pedro no hace mención de iniciar la iglesia o que sea el apóstol Pedro la cabeza de la iglesia, o como muchos piensan que él sea el primer papa.
 
+### También podemos notar que las veces que el Señor Jesucristo menciona a la iglesia lo menciona en que Él seria quien se encargaría de edificar la iglesia. Mateo 16:18.
+
+### En Mateo 18:17 el Señor Jesucristo va preparando a sus discipulos sobre la iglesia, aunque para ese momento, para ellos la iglesia seguía siendo un misterio. Efesios 3:9.
+
+### Pablo dijo en Efesios 3:2-3 que por la gracia de Dios este misterio ha sido dado a conocer a esta generación, ya que en otras generaciones estaba oculta Efesios 3:4-6
+
+## Funcionamiento y vigencia de la iglesia
+
 ## ¿Llamada de donde?
 
 #### 2 Timoteo 1:9 "*Él nos ha salvado y nos ha llamado con un llamamiento santo, no según nuestras obras, sino según Su propósito y según la gracia que nos fue dada en Cristo Jesús desde la eternidad*"
