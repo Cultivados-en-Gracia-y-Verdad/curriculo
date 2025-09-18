@@ -1399,63 +1399,93 @@ Similarmente, en el futuro, cuando hayan estos mentirosos engañadores que escuc
 
 ## II\. 1 Timoteo 4:6-16 Pablo instruye a Timoteo
 
-### 1 Timoteo 4:6a "*Al señalar estas cosas a los hermanos serás un buen ministro de Cristo Jesús...*"
+## Pablo pasa a prestar atención a Timoteo
 
-### 1 Timoteo 4:6a "*nutrido con las palabras de la fe...*"
+### 1 Timoteo 4:6a "*Al señalar estas cosas a los hermanos serás un buen ministro de Cristo Jesús...*" Timoteo debe tomar coraje por la fe que confrontar esta situación es  ser hallado un buen siervo de Jesucristo. Gálatas 1:10
 
-### 1 Timoteo 4:6a "*y de la buena doctrina que has seguido...*"
+### 1 Timoteo 4:6a "*nutrido con las palabras de la fe...*" Al contrario de algunos que se apartaron de la fe, Timoteo debe mantener su mirada fija en nutrirse bien. 
 
-### 1 Timoteo 4:7a "*Pero nada tengas que ver...*"
+¿Qué comida será la de Timoteo? Las palabras de la fe. Judas 1:3
 
-### 1 Timoteo 4:7a "*con las fábulas profanas propias de viejas...*"
+### 1 Timoteo 4:6a "*y de la buena doctrina que has seguido...*" Timoteo simplemente debía seguir como había hecho. Fidelidad a la fe entregada es la manera hacia su propio cuidado. 
 
-### 1 Timoteo 4:7a "*Más bien disciplínate a ti mismo para la piedad...*"
+### 1 Timoteo 4:7a "*Pero nada tengas que ver con las fábulas profanas propias de viejas...*" Pablo le aclara, no te distraigas ni por un momento con mitos de viejas. 
 
-### 1 Timoteo 4:8a "*Porque el ejercicio físico aprovecha poco...*"
+### 1 Timoteo 4:7b "*Más bien disciplínate a ti mismo para la piedad...*" 
+
+#### Pablo no está animando a Timoteo a prestar atención a las disciplina espirituales para llevarle a una meta deseada. Ya estableció que Timoteo debe fijarse en nutrirse de la fe. 
+
+#### Timoteo debía ejercitarse, entrenarse hacia la piedad. La verdad es lo que lleva a la piedad. El misterio para la piedad es Cristo. 1 Timoteo 3:16
+
+### 1 Timoteo 4:8a "*Porque el ejercicio físico aprovecha poco...*" ¿Qué aprovecha el ejercicio físico? La mayoria de las personas que dan atención al ejercicio es para mejorar la salúd y apariencia de uno mismo. 
+
+Es tan importante que el foco de nuestra vida sea para la salúd y apariencia personal? ¿Viviremos para siempre de esa manera? ¿De que aprovechará mis seres queridos? ¿Es provechoso dentro del plan y propósito que Dios tiene para mi vida?
 
 ### 1 Timoteo 4:8b "*pero la piedad es provechosa para todo...*"
 
+#### Aunque el ejercicio es bueno en parte, la piedad es bueno para todo. 
+
 ### 1 Timoteo 4:8c "*pues tiene promesa para la vida presente y también para la futura...*"
+
+Ambos tratan con la apariencia, pero uno solo solo sirve lo que es temporal. La piedad sirve para propósitos eternos. ¿Como? 
+
+A continuación Pablo le explica como a Timoteo...prestemos atención. 
 
 ### 1 Timoteo 4:9 "*Palabra fiel es esta, y digna de ser aceptada por todos...*"
 
-### 1 Timoteo 4:10a "*Porque por esto trabajamos y nos esforzamos...*"
+### 1 Timoteo 4:10a "*Porque por esto trabajamos y nos esforzamos...*" En el sentido de la piedad. Conlleva esfuerzo, trabajo. 
 
-### 1 Timoteo 4:10b "*porque hemos puesto nuestra esperanza en el Dios vivo*",
+### 1 Timoteo 4:10b "*porque hemos puesto nuestra esperanza en el Dios vivo*", El motivo que trabajamos y esforzamos en la piedad es por motivos mucho mayores que nuestra salúd y apariencia. Es porque nuestra mirada esta fijada en el porvenir. Esperamos confiadamente en el Dios vivo... 
 
-### 1 Timoteo 4:10c "*que es el Salvador de todos los hombres*",
+### 1 Timoteo 4:10c "*que es el Salvador de todos los hombres*", La voluntad de Dios es que todos lleguen a ser salvos por la fe en Jesucristo. La piedad del creyente es un medio que Dios usa para promover la necesidad de un salvador. 
 
-### 1 Timoteo 4:10d "*especialmente de los creyentes*".
+### 1 Timoteo 4:10d "*especialmente de los creyentes*". La voluntad de Dios no es solo para la salvación del incrédulo. La segunda parte de la voluntad de Dios es para los creyentes. Que lleguen a conocerlo plenamente. 
 
-### 1 Timoteo 4:11 "*Esto manda y enseña*".
+#### Esto se traduce como salvación de Dios. Esto es la salvación del creyente. Dios nos salva del poder del pecado para servirle. 
 
-### 1 Timoteo 4:12a "*No permitas que nadie menosprecie tu juventud*",
+### 1 Timoteo 4:11 "*Esto manda y enseña*". Lo que es bueno y necesario para Timoteo es lo que debe enseñar a los demás también. Pablo no enseña una receta secreta para el ministro y otra receta para los creyentes. 
 
-### 1 Timoteo 4:12b "*sino sé ejemplo de los creyentes*"
+#### La salvación de Timoteo es la misma salvación para los que le oyen. Unicamente viene por medio de nutrirse de la fe y ejercitados en la piedad. 
 
-### 1 Timoteo 4:12c "*se ejemplo...en palabra*",
+## La piedad de Timoteo en acción
 
-### 1 Timoteo 4:12d "*se ejemplo en...conducta*",
+### 1 Timoteo 4:12a "*No permitas que nadie menosprecie tu juventud*", El menosprecio a la juventud viene de parte de los que se olvidan que un día eran jóvenes. Aquí haría bien en prestar atención también el que es mayor para tomar en cuenta la juventud. Son los jóvenes que tienen energia para trabajar. Se equivocan pero no necesitan ser aplastados por criticas sino direccionados en amor. 
 
-### 1 Timoteo 4:12e "*se ejemplo en...amor*",
+Timoteo, un jóven, no debe exigir respeto de los demás. Hacer demandas y tratar de imponer su manera de pensar (sea bíblico o no) no será el consejo de Pablo. Veremos...
 
-### 1 Timoteo 4:12f "*se ejemplo en...fe*"
+### 1 Timoteo 4:12b "*sino sé ejemplo de los creyentes*" En vez de exigir, puede demostrar la diferencia. Esto conlleva un andar de fe en dependencia De Dios. 
 
-### 1 Timoteo 4:12g "*se ejemplo en...pureza*".
+#### La piedad no solo es provechosa para el mundo incoverso. También es provechoso para el jóven dentro de la casa de Dios. 
 
-### 1 Timoteo 4:13a "*Entretanto que llego, ocúpate*"
+### 1 Timoteo 4:12c "*se ejemplo...en palabra*", La forma, no solo las palabras, es importante. La manera de expresarse aveces habla más fuerte que el mismo contenido. El jóven que no se expresa como ejemplo en palabra no debe pensar que será tan bien recibido que aquel que se expresa siendo ejemplar en como habla. 
 
-### 1 Timoteo 4:13b "*en la lectura de las Escrituras*",
+### 1 Timoteo 4:12d "*se ejemplo en...conducta*", su conducta de Timoteo debe ser ejemplo. Aveces el jóven tiende a criticar a los hermanos por ser "legalistas", "tradicionales" y aburridos sin permitir ni un cambio. 
 
-### 1 Timoteo 4:13c "*la exhortación*"
+Puede que el "legalismo" de los mayores es años de ejercitarse en la piedad pero mal comprendido por jóven. Puede ser que sea legalismo. 
 
-### 1 Timoteo 4:13e "*y la enseñanza*".
+Sin embargo, Pablo llama a Timoteo a ser ejemplo en su conducta no maestro en la crítica de los demás. 
 
-### 1 Timoteo 4:14a "*No descuides el don espiritual que está en ti*"
+### 1 Timoteo 4:12e "*se ejemplo en...amor*", Timoteo como un ejemplar de lo que es el amor seria una bendición a la congregación. De ser asi, su enseñanza seria mucho mejor recibido por los hermanos y hermanas. 
+
+### 1 Timoteo 4:12f "*se ejemplo en...fe*" Ejemplo de un andar por fe. 
+
+### 1 Timoteo 4:12g "*se ejemplo en...pureza*". Pureza es propio de una persona que pone su esperanza en Dios. 1 Juan 3:3-5
+
+### 1 Timoteo 4:13a "*Entretanto que llego,*" Pablo queria que Timoteo sea hallado bien aunque Pablo no esté presente con el. 
+
+### 1 Timoteo 4:13b "*ocúpate...en la lectura de las Escrituras*", La lectura de las Escrituras es una piedad valiosa. El estudio de la Palabra sin embargo es absolutamente esencial para la persona que desea ser usado como instrumento. 
+
+El crecimiento espiritual esta estrechamente ligado a crecer en el conocimiento de Cristo y Su gracia. 
+
+### 1 Timoteo 4:13c "*ocúpate...la exhortación*" la exhortación es valuable cuando proviene de las Escrituras. Pablo mensiona 5 veces que Timoteo debe denunciar, exhortar el error. 1 Timoteo 1:3, 4:11, 5:7, 6:13, 6:17
+
+### 1 Timoteo 4:13e "*ocúpate...y la enseñanza*". La enseñanza o instrucción es la tarea principal de Timoteo. Pablo le dice, ocupate en enseñar.
+
+### 1 Timoteo 4:14a "*No descuides el don espiritual que está en ti*" ¿Cual era el don de Timoteo? Hay indicaciones que era el de evangelista. 
 
 ### 1 Timoteo 4:14b "*que te fue conferido por medio de la profecía con la imposición de manos del presbiterio*".
 
-### 1 Timoteo 4:15a "*Reflexiona sobre estas cosas;*"
+### 1 Timoteo 4:15a "*Reflexiona sobre estas cosas;"*
 
 ### 1 Timoteo 4:15b "*dedícate a ellas,*"
 
