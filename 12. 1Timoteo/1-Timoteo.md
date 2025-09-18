@@ -1728,13 +1728,9 @@ Sin embargo, Pablo llama a Timoteo a ser ejemplo en su conducta no maestro en la
 
 ### 1 Timoteo 5:17a "*Los ancianos que gobiernan bien*" 
 
-### 1 Timoteo 5:17b "*sean considerados dignos de doble honor,*"
+### 1 Timoteo 5:17b "*sean considerados dignos de doble honor,*" esto se refiere a un honor encima del respeto que merecen. El doble honor es la responsabilidad de la iglesia. La iglesia debe preocuparse de recompensar al anciano que se dedica a gobernar bien. 
 
-### 1 Timoteo 5:17c "*principalmente los que trabajan*"
-
-### 1 Timoteo 5:17d "*en la predicación*"
-
-### 1 Timoteo 5:17e *y en la enseñanza.*"
+### 1 Timoteo 5:17c "*principalmente los que trabajan en la predicación y en la enseñanza*" 
 
 ### 1 Timoteo 5:18a "*Porque la Escritura dice: «NO PONDRÁS BOZAL AL BUEY CUANDO TRILLA»,*"
 
