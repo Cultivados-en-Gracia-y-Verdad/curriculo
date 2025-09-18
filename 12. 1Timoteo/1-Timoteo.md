@@ -346,13 +346,14 @@ aTitle: 1 Timoteo
 
 ## 1 Timoteo 1:1-4 El apartarse de la instrucción bíblica
 
-### 1 Timoteo 1:3a "*Tal como te rogué al salir para Macedonia que te quedaras en Éfeso*..." Evidentemente, al salir para Macedonia, Pablo había rogado a Timoteo que se quedara en Efeso. Hechos 18:21
+### 1 Timoteo 1:3a "*Tal como te rogué al salir para Macedonia que te quedaras en Éfeso*..." Evidentemente, al salir para Macedonia, Pablo había rogado a Timoteo que se quedara en Éfeso. Hechos 18:21
 
-### 1 Timoteo 1:3b "*...para que instruyeras a algunos que no enseñaran doctrinas extrañas...*" Algunos en la congregación estaban enseñando una doctrina difentente al mensaje de la Biblia. 
+### 1 Timoteo 1:3b "*...para que instruyeras a algunos que no enseñaran doctrinas extrañas...*" Algunos en la congregación estaban enseñando una doctrina diferente al mensaje de la Biblia. 
 
-#### La frase "*enseñaran doctrinas extrañas*" es la palabra HETERODIDASKALEO. Significa enseñar "otra doctrina" o "desviarse de la verdad". 
+#### La frase "*enseñaran doctrinas extrañas*" Es la palabra HETERODIDASKALEO. Significa enseñar "otra doctrina" o "desviarse de la verdad". 
 
-#### Debemos comprender que cualquier tipo de enseñanza que cambie el evangelio, que vaya en contra de la escritura es considerdo una doctrina extraña. 1 Corintios 15:3-4, Gálatas 1:6-9
+#### Debemos comprender que cualquier tipo de enseñanza que cambie el evangelio o que vaya en contra de la escritura es considerada una doctrina extraña. 1 Corintios 15:3-4, Gálatas 1:6-9
+
 #### La enseñanza en la iglesia no debe provenir de un lugar que no sea La Palabra de Dios correctamente entendida dentro de su contexto. 
 
 ### 1 Timoteo 1:4a "*ni prestaran atención*..." La observación del Texto bíblico es muy importante. A lo que prestemos atención afectará los resultados de nuestra instrucción. 
@@ -365,28 +366,29 @@ aTitle: 1 Timoteo
 
 #### Algunos estaban dedicando su atención [PROSECHO] a cosas que desviaban del verdadero conocimiento de Cristo. 
 
-### 1 Timoteo 1:4b "*a mitos*..." pusieron su atención en fabulas o cosas de ficción.
+### 1 Timoteo 1:4b "*a mitos*..." Pusieron su atención en fabulas o cosas de ficción.
 
-### 1 Timoteo 1:4c "*y genealogías interminables*..." sabemos que la genealogía era importante entre la cultura judia. La descendencia de uno definía su tribu y quien era su ancestro. 
+### 1 Timoteo 1:4c "*y genealogías interminables*..." Sabemos que la genealogía era importante entre la cultura judía. La descendencia de uno definía su tribu y quien era su ancestro. 
 
-#### Hacer largos recuentos de la historia y genalogías no es enseñanza que llevaría a la madurez. Timoteo debía instruir a estos maestros que dejen de enseñar este tipo de cosas. 
+#### Hacer largos recuentos de historia y genealogías no es enseñanza que llevaría a la madurez. Timoteo debía instruir a estos maestros que dejen de enseñar este tipo de cosas. 
 
 ### 1 Timoteo 1:4d "*lo que da lugar a discusiones inútiles*". El resultado de enseñar fabulas y genealogías interminables es que lleva a disputar inútilmente entre los hermanos. Tito 1:10
 
 #### La frase "discusiones inútiles" es EKZETESIS. La palabra significa sobre investigación de las cosas. 
 
-#### Es nada provechoso que la iglesia se ocupe en la sobre investigación de cosas inútiles.
+#### Es sin provecho que la iglesia se ocupe en la sobre investigación de cosas inútiles.
 
 ### 1 Timoteo 1:4e "*en vez de hacer avanzar el plan de Dios que es por fe*". La única manera que haya crecimiento (madurez) en la iglesia es enseñando la gracia de Dios, esto es "*avanzar el plan de Dios que es por fe*". 
 
 #### La gracia y la fe armonizan juntos perfectamente. 
 
-#### Cualquier enseñanza extraña distraerla del mensaje de las Escrituras para prestar atención a cosas que producen más bien más carnalidad y se manifestará en contiendas y discusiones sin propósito espiritual alguno. 1 Timoteo 6:4
+#### Cualquier enseñanza extraña distraera del mensaje de las Escrituras para prestar atención a cosas que producen más bien carnalidad y se manifestará en contiendas y discusiones sin propósito espiritual alguno. 1 Timoteo 6:4
 
 ### 1 Timoteo 1:4f "*así te encargo ahora*". Pablo le confió esta importante tarea a Timoteo. Debía hacerlo con urgencia pues los resultados serian devastadores. 
+
 ## 1 Timoteo 1:5 El propósito de la instrucción verdadera
 
-### 1 Timoteo 1:5a "*Pero...* en un claro contraste con esos que enseñan doctrinas extrañas, Pablo explica...
+### 1 Timoteo 1:5a "*Pero...* En un claro contraste con esos que enseñan doctrinas extrañas, Pablo explica...
 
 ### 1 Timoteo 1:5b *el propósito de nuestra instrucción...*" En contraste con la enseñanza desviada de la verdad, Pablo prosigue buscando abrir el entendimiento de Timoteo para mostrarle la finalidad de la enseñanza verdadera en la iglesia. 
 
@@ -400,30 +402,29 @@ aTitle: 1 Timoteo
 
 #### Sin instrucción de la verdad, no puede haber amor. 
 
-#### Pablo no enseñaba por enseñar cosas interesantes para llevarles a discusiones que alimentan la carne. Sus intenciones en enseñar la verdad era para beneficio de los hermanos.  Por medio de la instrucción tendrian amor. 
+#### Pablo no enseñaba por enseñar cosas interesantes para llevarlos a discusiones que alimentan la carne. Sus intenciones en enseñar la verdad eran para beneficio de los hermanos.  Por medio de la instrucción tendrían amor. 
 
 ##### El amor proviene de Dios. Juan 15:10; Romanos 5:8; 1 Timoteo 1:14
 
-##### Sin la verdad, no puede haber amor.  Juan 13:35; Romanos 12:9; 1 Corintios 13:6; 2 Corintios 6:6; 1 Timoteo 6:14
+##### Sin la verdad, no puede haber amor. Juan 13:35; Romanos 12:9; 1 Corintios 13:6; 2 Corintios 6:6; 1 Timoteo 6:14; Efesios 2:13-19
 
 ##### Sin la verdad, no puede haber unidad. La unidad es en base a la verdad. Juan 17:26; 2 Corintios 13:11
 
 ### 1 Timoteo 1:5c "*es el amor...nacido de corazón puro,*" Salmo 51:10
-#### Sin la verdad, no hay amor. 1Corintios 13:6
 
-#### Sin la verdad, no puede haber unidad. La verdad es la base de la unidad. Efesios 2:13-19
+#### Sin la verdad, no hay amor. 1 Corintios 13:6
 
 ### 1 Timoteo 1:5d "*es el amor...de una buena conciencia,*" En nuestro andar diario podemos gozar de una buena conciencia o no.
 
-#### Para este caso en espesifico, una buena conciencia esta estrechamente realacionada con el mensaje de la escritura, al permancer en el mesaje sin alterarlo estaremos gozando de una buena conciencia.
+#### Para este caso en específico, una buena conciencia está estrechamente relacionada con el mensaje de la escritura, al permancer en el mensaje sin alterarlo estaremos gozando de una buena conciencia.
 
-#### El resutado de la verdad adoptada por la fe tendra como fruto el amor.
+#### El resultado de la verdad adoptada por la fe tendrá como fruto el amor.
 
-### 1 Timoteo 1:5e "*es el amor...y de una fe sincera,*" El amor que vine de una fe sincera habla de un amor que viene de la confianza sin hipocresia o falsedad.
+### 1 Timoteo 1:5e "*es el amor...y de una fe sincera,*" El amor que vine de una fe sincera habla de un amor que viene de la confianza sin hipocresía o falsedad.
 
-#### Pablo no esta hablando de fe para salvacion de la condena del pecado, poniendo asi en tela de duda la salvaacion eterna.
+#### Pablo no está hablando de fe para salvación de la condena del pecado, poniendo así en tela de duda la salvación eterna.
 
-#### Mas bien habla de fe en nuestro diario andar, fe sin hipocresia, hablando de una doble dependencia, esto en contraste con la sola dependencia de la verdad de la escritura. 
+#### Mas bien habla de fe en nuestro diario andar, fe sin hipocresía, hablando de una doble dependencia, esto en contraste con la sola dependencia de la verdad de la escritura. 
 
 ## 1 Timoteo 1:6-7 El desviar la instrucción bíblica para pervertir el uso de La Ley 
 
