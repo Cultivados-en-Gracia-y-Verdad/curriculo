@@ -1523,29 +1523,29 @@ El misterio de la piedad es El (Cristo) en nosotros.
 
 ## En Síntesis (1 Timoteo 5:1-16)
 
-### Con respecto a los hombres mayores (1 Timoteo 5:1a): Trátalos como padres respetados.
+### Con respecto a los hombres mayores : Trátalos como padres respetados. (1 Timoteo 5:1a)
 
-### Con respecto a los hombres más jóvenes (1 Timoteo 5:1b): Trátalos como hermanos.
+### Con respecto a los hombres más jóvenes : Trátalos como hermanos. (1 Timoteo 5:1b)
 
-### Con respecto a las mujeres mayores (1 Timoteo 5:2a): Trátalas como madres.
+### Con respecto a las mujeres mayores : Trátalas como madres. (1 Timoteo 5:2a)
 
-### Con respecto a las mujeres más jóvenes (1 Timoteo 5:2b): Trátalas como hermanas.
+### Con respecto a las mujeres más jóvenes : Trátalas como hermanas. (1 Timoteo 5:2b)
 
 ### Con respecto a las viudas (1 Timoteo 5:3-16)
 
 ### Viudas mayores (1 Timoteo 5:3-10, 16)
 
-### Las viudas mayores de sesenta años, piadosas y sin hijos vivos (1 Timoteo 5:3, 5, 9-10, 16): Éstas deben ser honradas y provistas.
+### Las viudas mayores de sesenta años, piadosas y sin hijos vivos : Éstas deben ser honradas y provistas. (1 Timoteo 5:3, 5, 9-10, 16)
 
-### Viudas que tienen hijos y nietos vivos (1 Timoteo 5:4, 8, 16): Deben ser cuidadas por sus familias.
+### Viudas que tienen hijos y nietos vivos: Deben ser cuidadas por sus familias. (1 Timoteo 5:4, 8, 16)
 
-### Viudas que son carnales y viven solo para el placer (1 Timoteo 5:6-7): No deben recibir ayuda.
+### Viudas que son carnales y viven solo para el placer: No deben recibir ayuda. 1 Timoteo 5:6-7
 
-### Viudas más jóvenes (1 Timoteo 5:11-15)
+### Viudas más jóvenes. 1 Timoteo 5:11-15
 
-### La regla (1 Timoteo 5:11-12, 14): Que se vuelvan a casar y críen hijos.
+### La regla: Que se vuelvan a casar y críen hijos. 1 Timoteo 5:11-12, 14
 
-### La razón (1 Timoteo 5:13, 15): Esto los mantendrá alejados de la inmoralidad y de la palabrería.
+### La razón: Esto los mantendrá alejados de la inmoralidad y de la palabrería. 1 Timoteo 5:13, 15
 
 ## II\. 1 Timoteo 5:17-25 La Responsabilidad de la Iglesia por sus obreros : El consejo de Pablo con respecto a los ancianos de la iglesia.
 
@@ -1683,7 +1683,7 @@ El misterio de la piedad es El (Cristo) en nosotros.
 
 ## En Síntesis (1 Timoteo 6:1-10)
 
-### Los obreros: Pablo insta a los siervos cristianos a rendir servicio fiel a sus amos, para que el nombre de Dios no sea calumniado. (1 Timoteo 6:1-2)
+### Los obreros: Pablo insta a los siervos cristianos a rendir servicio fiel a sus amos, para que el nombre de Dios no sea calumniado. 1 Timoteo 6:1-2 
 
 ### Los inicuos. 1 Timoteo 6:3-5
 
@@ -1695,31 +1695,31 @@ El misterio de la piedad es El (Cristo) en nosotros.
 
 ### Usan las cosas espirituales para obtener ganancias financieras. 1 Timoteo 6:5
 
-### Los sabios : Se dan cuenta de que la piedad con contentamiento es una gran ganancia.(1 Timoteo 6:6-8)
+### Los sabios : Se dan cuenta de que la piedad con contentamiento es una gran ganancia. 1 Timoteo 6:6-8
 
 ### Los ricos. 1 Timoteo 6:9-10
 
-### El deseo (1 Timoteo 6:10): "El amor al dinero está en la raíz de toda clase de males".
+### El deseo: "El amor al dinero está en la raíz de toda clase de males". 1 Timoteo 6:10
 
-### La destrucción (1 Timoteo 6:9): Este tipo de codicia, si no se controla, resultará en ruina y destrucción.
+### La destrucción: Este tipo de codicia, si no se controla, resultará en ruina y destrucción. 1 Timoteo 6:9
 
 # II\. LAS PALABRAS DE PABLO A TIMOTEO (6:11-21)
 
 ### 1 Timoteo 6:11a "*Pero tú, oh hombre de Dios,*"
 
-### 1 Timoteo 6:11a "*huye de estas cosas,*"
+### 1 Timoteo 6:11b "*huye de estas cosas,*"
 
-### 1 Timoteo 6:11a "*y sigue la justicia,*"
+### 1 Timoteo 6:11c "*y sigue la justicia,*"
 
-### 1 Timoteo 6:11a "*la piedad,*"
+### 1 Timoteo 6:11d "*la piedad,*"
 
-### 1 Timoteo 6:11a "*la fe,*"
+### 1 Timoteo 6:11e "*la fe,*"
 
-### 1 Timoteo 6:11a "*el amor,*"
+### 1 Timoteo 6:11f "*el amor,*"
 
-### 1 Timoteo 6:11a "*la perseverancia*"
+### 1 Timoteo 6:11g "*la perseverancia*"
 
-### 1 Timoteo 6:11a "*y la amabilidad.*"
+### 1 Timoteo 6:11h "*y la amabilidad.*"
 
 ### 1 Timoteo 6:12a "*Pelea la buena batalla de la fe.*"
 
