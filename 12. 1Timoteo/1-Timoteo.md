@@ -817,57 +817,57 @@ aTitle: 1 Timoteo
 
 ### 1 Timoteo 2:4a "*el cual quiere*..." La palabra quiere [THELO] nos indica el deseo o voluntad.
 
-#### En un contraste podemos ver lo contrario, Dios no desea la muerte del impío, sino que  se arrepienta [METANOIA-cambiar de mente] de sus malos caminos. Ezequiel. 18:23, 32; 2 Pedro 3:9
+#### Lo que Dios quiere es que todos los hombres sean salvos (deseo, anhelo, voluntad).
 
-#### Un aspecto de la soberanía de Dios es: lo que el quiere lo puede hacer, sin embargo no vemos que todos los hombres sean salvos y vengan al conocimiento de la verdad, ¿que paso?, este pasaje nos aclarará mas detalles acerca de la voluntad de Dios y  el deseo que tiene por la humanidad.
+#### Contrastando podemos ver lo que Dios no quiere, el no quiere la muerte del impío, sino que  se arrepienta [METANOIA-cambiar de mente] de sus malos caminos. Ezequiel. 18:23, 32; 2 Pedro 3:9
 
-##### La voluntad de Dios no debe confundirse con la soberanía de Dios
+#### La voluntad de Dios no debe confundirse con la soberanía de Dios. 
 
-##### Que es lo que Dios quiere Vs que es lo que Dios se propone Hacer
+##### Un aspecto de la soberanía de Dios es: lo que el quiere lo puede hacer, sin embargo no vemos que todos los hombres sean salvos y vengan al conocimiento de la verdad, ¿que paso?, este pasaje nos aclarará mas detalles acerca de la voluntad de Dios y el deseo que el tiene por la humanidad.
 
-##### Lo que DIos quiere es que todos los hombres sean salvos (deseo, anhelo, voluntad)
+##### La soberanía de Dios se puede ver en la creación, con respecto a todo lo que se propuso hacer, fue hecho. También vemos este atributo en que el se propuso salvar a las personas por medio de la fe en Jesucristo. y lo hizo posible.
 
-##### El no quiere que sean salvos obligadamente, sinó de manera libre.
+### 1 Timoteo 2:4b "*que todos los hombres sean salvos*..." **El primer aspecto de la voluntad de Dios** es que el desea que todos sean salvos. 
 
-##### Todo lo que Dios se propone hacer lo hace (hizo posible la salvación por fe), vemos en la creación este aspecto de la soberanía y la voluntad de Dios.
+#### La pregunta es ¿Cómo quiere Dios que los hombres sean salvos?.
 
-### 1 Timoteo 2:4b "*que todos los hombres sean salvos*..." El primer aspecto de la voluntad de Dios es que desea que todos sean salvos. 
+##### El quiere que todos los hombres sean salvos por medio de la fe en Jesucristo, por medio de creer en el evangelio. Hechos 4:12.
 
-#### Lo primero que Dios desea es que todos los hombres sean salvos. Esto debería ser suficiente motivación para que estemos buscando compartir el Evangelio con otros. Dios quiere salvarlos. 
+##### El no quiere que sean salvos obligadamente, o predeterminadamente sino el hizo posible la salvación por medio de confiar en el anuncio de una buena noticia y creerla de manera libre.
 
-#### La pregunta es ¿como quiere Dios que los hombres sean salvos?
+#### La salvación no es algo que se pueda ganar o merecer.
 
-##### El quiere que todos los hombres sean salvos por medio de la fe, por medio de creer en el evangelio.
-
-#### El espera que puedan responder de manera libre, voluntaria, respetando su libre albedrio, la decisión de creer en el con respecto a su salvación que es por medio de la fe en el evangelio. 
-
-##### Para con los hombres con respecto a la salvación, 
-
-##### No es forzada, obligada u predeterminada para salvación , sino es en base a una completa libertad de elegir.
-
-#####  El quiere que todos los hombres sean salvos. Ahora la pregunta, Todos los hombres son salvos?
-
-##### Nos muestra que este es un deseo el cual Dios no obliga a las personas a salvarse, sino que es por medio de la predicación del evangelio, y obtienen la salvación por fe respetando su libre albeldrio de creerle a Dios o rechazarlo.
-
-#### Pablo pidió que todos oren para que haya tranquilidad civil para poder vivir piadosamente. ¿Porque? 
-
-##### Porque por medio de un verdadero vivir piadoso de la iglesia, el Espíritu Santo convence al mundo de justicia, juicio y pecado. Juan 16:8-10
-
-##### La iglesia no tiene potestad de salvar a las personas, pero si puede andar de una manera que sea agradable al Señor y sirve para persuadir al inconverso de su pecaminosidad y necesidad de salvación. 
-
-#### La salvación únicamente viene por el medio de la fe en Jesucristo. Hechos 4:12
-
-##### No es por la "*obras de fe*" que uno es salvo. Efesios 2:9, Romanos 3:20, Gálatas 3:10
+##### No es por la "*obras de fe*" que uno es salvo. Efesios 2:9, Romanos 3:20. Gálatas 3:10.
 
 ##### No es por "*obras de caridad*" que uno se salva. Hechos 10:31-33, 11:4-18
 
-##### No es por "*obras de benevolencia*" que uno consigue salvación. Romanos 4:6
+##### No es por "*obras de benevolencia*" que uno consigue salvación. Romanos 4:6.
 
-##### No es por obras que uno "*confirma*" su salvación. Hechos 7:40-41, Romanos 9:32
+##### No es por obras que uno "*confirma*" su salvación. Hechos 7:40-41. Romanos 9:32.
 
-##### La salvación es obra de Dios por gracia, únicamente a los que creen. Gálatas 3:2, 
+##### No es ni siquiera por las mejores ''*obras de justicia*'' lo mas justo que hubiéramos hecho para salvarnos. Tito 3:5.
 
-### 1 Timoteo 2:4c "*y vengan al pleno conocimiento de la verdad*..." La salvación es la primera parte de la voluntad de Dios. El **segundo aspecto** de la voluntad de Dios es que desea que todas las personas que El salva por medio de la fe en Jesucristo lleguen a un conocimiento completo de la verdad. Gálatas 2:5; Efesios 4:15; Colosenses 1:5
+##### La salvación es la obra que Dios hizo por gracia, únicamente a los que creen. Gálatas 3:2.
+
+#### Dios espera que todos las personas puedan responder positivamente en su decisión de creer en el mensaje del evangelio anunciado por medio de vasos de barro, hombres sencillos.
+
+#### Pablo pidió que a los creyentes que oren por tranquilidad civil para poder vivir piadosamente. ¿Porque? 
+
+##### Entendemos que el Espíritu Santo convence al mundo de justicia, juicio y pecado. Juan 16:8-10.
+
+##### La iglesia no tiene potestad de salvar a las personas, pero si puede andar de una manera que sea agradable al Señor, de manera que aún los no creyentes pueden ver la conducta piadosa de los creyentes y ser llevados a conocer el evangelio.
+
+### 1 Timoteo 2:4c "*y vengan al pleno conocimiento de la verdad*..." El **segundo aspecto de la voluntad de Dios** es que el desea que todas las personas salvas lleguen a un conocimiento plano de la verdad. Gálatas 2:5; Efesios 4:15; Colosenses 1:5
+
+#### La palabra *vengan* [ERJOMAI] es un verbo que se encuentra en tiempo aoristo, activo, infinitivo, dando a entender una acción iniciada en un  punto del tiempo que se muestra de manera continua, estén viniendo activamente, es una invitación constante a los creyentes.
+
+#### La palabra *pleno conocimiento* es [EPIGNOSIS]  o también pleno discernimiento, contiene una preposición EPI, que significa acertado o apropiado y GNOSIS conocimiento. Enseña un conocimiento completamente acertado y un pleno discernimiento. 
+
+#### Dios no solo quiere que conozcamos teóricamente de el, sino que seamos plenamente capaces para comprender y discernir la verdad,  esa es su voluntad. Romanos 10:2, Colosenses 1:9-10, Efesios 1:16-18, 3:18-19.
+
+## 1 Timoteo 2:5-7 Dios - Jesus-hombre - Apostol pablo - Maestro a los gentiles
+
+Exposición por que escuchar a pablo debido a que el es apóstol de Jesucristo.
 
 ### 1 Timoteo 2:5a "*Porque hay un solo Dios*..." Un pleno conocimiento empieza por saber que hay un solo Dios. Hechos 14:15
 
@@ -889,7 +889,7 @@ aTitle: 1 Timoteo
 
 ### 1 Timoteo 2:7b "*como maestro de los gentiles en fe y verdad...*" Dios estableció a Pablo como maestro para enseñar el pleno conocimiento de la verdad. 
 
-## En base a la voluntad de Dios, Pablo desea una vida piadosa
+## 1 Timoteo 2:8 En base a la voluntad de Dios, Pablo desea una vida piadosa a los Hombres creyentes.
 
 ### la piedad ha llegado a tener una mala conotación en nuestra generación. Queremos aclarar que obras de piedad no salvan a nadie. 
 
@@ -926,6 +926,8 @@ aTitle: 1 Timoteo
 ##### Ira es la palabra ORGE significa furia — un sentimiento de ira intensa que no desaparece; a menudo en una escala épica.[^9] Efesios 4:31
 
 ##### Discusiones es la palabra DIALOGISMOS es debate — discusión en la que se exponen razones a favor y en contra de alguna proposición o propuesta.[^9]  Colosenses 3:8
+
+## 1 Timoteo 2:9-15 En base a la voluntad de Dios, Pablo desea una vida piadosa a las Mujeres creyentes.
 
 ### 1 Timoteo 2:9a "*Asimismo, que las mujeres se vistan...*" Después de hablar del actuar de los hombres en adoración pública, ahora Pablo se dirige a las hermanas. 
 
