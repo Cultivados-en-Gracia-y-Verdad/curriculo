@@ -357,7 +357,13 @@ aTitle: 1 Timoteo
 
 ### 1 Timoteo 1:4a "*ni prestaran atención*..." La observación del Texto bíblico es muy importante. A lo que prestemos atención afectará los resultados de nuestra instrucción. 
 
-#### Algunos estaban dedicando su atención a cosas que desviaban del verdadero conocimiento de Cristo. 
+#### Prestar atención [PROSECHO] es dar atención continua a algo, como en una adicción. Es ser llevado a algo. Aparece 4 veces en 1 Timoteo. 1 Timoteo 1:4, 3:8, 4:1, 4:13
+
+##### 1 Timoteo 3:8 "*no dados*" [PROSECHO] "*al vino*". Cuando alguien tiene una adicción al vino su mente esta puesta continuamente en tomar. 
+
+##### [PROSECHO] da la idea de que la atención de uno esta fijado detenidamente en algo. 
+
+#### Algunos estaban dedicando su atención [PROSECHO] a cosas que desviaban del verdadero conocimiento de Cristo. 
 
 ### 1 Timoteo 1:4b "*a mitos*..." pusieron su atención en fabulas o cosas de ficción.
 
@@ -1107,7 +1113,7 @@ aTitle: 1 Timoteo
 
 ### 1 Timoteo 3:8c "*de una sola palabra...*" su discurso no es hipócrita o insincero debido a la equivocación o la duplicidad.
 
-### 1 Timoteo 3:8d "*no dados al mucho vino...*" no se embriaga. 
+### 1 Timoteo 3:8d "*no dados al mucho vino...*" no se embriaga. Dados [PROSECHO] Sin una adicción al vino. 
 
 ### 1 Timoteo 3:8e "*ni amantes de ganancias deshonestas...*" auque todos los requisitos son necesarios, este requisito es primordial porque los diaconos son los que manejan el dinero. 
 
@@ -1303,13 +1309,29 @@ El misterio de la piedad es El (Cristo) en nosotros.
 
 ###  Timoteo 4:1b "*algunos se apartarán de la fe...*" En los últimos tiempos será similar pero peor que los maestros que Timoteo estaba luchando. 1 Timoteo 1:3, 19, 6:10
 
-###  Timoteo 4:1c "*prestando atención a espíritus engañadores...*" Espíritus seductores. 2 Juan 1:7, Hebreos 13:9, Colosenses 2:18
+#### apartarse [APHISTEMI] apartarse de. En un tiempo futuro algunos (como en el tiempo de Timoteo) se apartarán (modo indicativo) de la fe.  
 
-###  Timoteo 4:1d "*y a doctrinas de demonios...*" Enseñanzas que vienen inspirados por demonios. Santiago 3:5, 2 Corintios 4:4, 1 Corintios 10:20
+#### ¿Qué causará que se aparten de la fe? 
 
-### 1 Timoteo 4:2a "*mediante la hipocresía de mentirosos...*" 
+###  Timoteo 4:1c "*prestando atención a espíritus engañadores...*" escucharán espíritus seductores.  2 Juan 1:7, Hebreos 13:9, Colosenses 2:18
 
-### 1 Timoteo 4:2b "*que tienen cauterizada la conciencia...*"
+#### Nuevamente vemos la palabra [PROSECHO], "*prestando atención*" que describe a estas personas poniendo una mirada fija sobre espíritus engañadores. 1 Timoteo 1:4, 3:8, 4:1, 4:13
+
+#### Durante su tiempo en Efeso, Timoteo debía enseñar a "*algunos*" que no enseñaran doctrinas extrañas. Estaban prestando atención [PROSECHO] a mitos y genealogías interminables y por eso se desviaron. 
+
+#### En un tiempo futuro, "*algunos*", no todos se apartarán de la fe. Esto no se está refiriéndo a un día cuando todos se apartarían.
+
+##### Se apartarán de la fe, significa que son creyentes que se desvian de la fe entregada una vez por todas por los Apostoles. Judas 1:3 
+
+##### Esto no es para crear una expectativa de cuando iría a suceder. Es para alertar de este peligro para que no tenga que suceder. Cualquier iglesia que presta atención a esta advertencia puede evitar que esto suceda. Judas 1:24-25
+
+###  Timoteo 4:1d "*y a doctrinas de demonios...*" y también enseñanzas que vienen de demonios. Santiago 3:5, 2 Corintios 4:4, 1 Corintios 10:20
+
+#### En un tiempo futuro de esto, Pablo dijo que el Espíritu Santo noticio que vendrían algunos prestando atención a espiritus engañadores y enseñanzas inspiradas por demonios. 
+
+### 1 Timoteo 4:2a "*mediante la hipocresía de mentirosos...*" Estas personas creyentes son mentirosas son hipócritas y son usados por espiritus que engañan y doctrinas inspiradas por demonios. 
+
+### 1 Timoteo 4:2b "*que tienen cauterizada la conciencia...*" Estos mentirosos tienen una consciencia insensible. 
 
 ### 1 Timoteo 4:3 "*Esos prohibirán casarse y mandarán abstenerse de algunos alimentos, que Dios los ha creado para que con acción de gracias participen de ellos los que creen y que han conocido la verdad...*"
 
