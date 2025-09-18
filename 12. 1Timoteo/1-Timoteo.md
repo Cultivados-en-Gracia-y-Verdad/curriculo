@@ -404,7 +404,7 @@ Algunos estaban dedicando su atención a cosas que desviaban del verdadero conoc
 
 #### En conclusion podemos decir que la ley esta instituida para todo incredulo.
 
-#### Sana doctrina quiere decir enseñanza saludable.
+#### Sana doctrina literalmente significa enseñanza saludable.
 
 ### 1 Timoteo 1:11a "*según el glorioso evangelio del Dios bendito,*" Aqui tenemos un termino muy asombroso, la Sana doctrina es segun el glorioso Evangelio.
 
@@ -432,26 +432,31 @@ Algunos estaban dedicando su atención a cosas que desviaban del verdadero conoc
 
 #### Aunque había pasado toda clase de tribulaciónes, Él mismo que sostuvo a Pablo puede también sostener a Timoteo ahora. Efesios 6:10
 
-### 1 Timoteo 1:12a "*porque me tuvo por fiel, poniéndome en el ministerio*..." Esto es una declaración inusual. Antes que Dios le ponga en el ministerio, Pablo era todo menos fiel. 
+### 1 Timoteo 1:12a "*porque me tuvo por fiel, poniéndome en el ministerio*..." Esto es una declaración inusual. Antes que Dios le ponga en el ministerio, Pablo era todo menos fiel. Hechos 9:15-16
 
-#### Pablo persiguió a los creyentes para matarlos, encadenarlos o meterlos en la prisión. Ni siquiera le importaba si era hombre o mujer. 
+#### Pablo persiguió a los creyentes para matarlos, encadenarlos o meterlos en la prisión. Ni siquiera le importaba si era hombre o mujer. Hechos 8:3,9:13-14
 
-##### Buscamos entender esta frase de como Dios halló fiel a Pablo y llegamos a la conclusión de que lo que se consideró fiel en Pablo era su pasión entregada a lo que se dedicaba. 
+##### Buscamos entender esta frase de como Dios halló fiel a Pablo y llegamos a la conclusión, se concidero fiel a Pablo en su pasion y entrega a perseguir a la iglesia de Cristo. Hechos 8:3,9:1-5
 
-##### Aquí el término fiel no debe ser visto desde la perspectiva de, un creyente fiel, por ejemplo. 
+##### Aquí, el término fiel no debe ser visto como fidelidad de un creyente. 
 
 #### Fiel en este contexto simplemente significa, uno que es constante y confiable en lo que se dedica. 
 
-##### Esto es una persona a la que uno puede dedicar tiempo y esfuerzo para discipular. 2 Timoteo 2:2
+##### Esta es una persona a la que uno puede dedicar tiempo y esfuerzo para discipular. 2 Timoteo 2:2
 
 ### 1 Timoteo 1:13a "*aun habiendo sido yo antes blasfemo, perseguidor y agresor...*" Pablo era religiosamente fariseo. Había ascendido más que sus co-iguales. Era entregado (fiel) a lo que se dedicaba. ¡Y hacía todo en nombre de Dios! 
 
-#### Sin embargo, ahora desde la perspectiva divina, Pablo ve que era blasfemo (difamador), perseguidor y agresor (violento a creyentes inocentes). 
+#### Sin embargo, ahora desde la perspectiva divina, Pablo ve que era blasfemo (difamador), perseguidor y agresor (violento a creyentes inocentes). Galatas 1:13
+
+### 1 Timoteo 1:13a "*Sin embargo, se me mostró misericordia porque lo hice por ignorancia en mi incredulidad...*" Pablo estaria recibiendo misericordia al ser encomendado como apostol para proclacar y enseñar el evangelio.
+
+### 1 Timoteo 1:13a "*porque lo hice por ignorancia en mi incredulidad...*" En la ignorancia de su incredulidad, esto mostrado como un ferviente ceso y devocion por Dios Pablo persigui a la iglesia, plenamente convencido de que estaba haciendo la voluntad de Dios.
+
+#### Jesucristo le mostro misericordia a Pablo al no darle lo que merecia, pero no solamente recibiria misericordia, a medida que camine estara conociendo aun mucho mas de quien es Jesucristo.
+
+### 1 Timoteo 1:14 "*Pero la gracia de nuestro Señor fue más que abundante, con la fe y el amor que se hallan en Cristo Jesús...*" La gracia de Dios en Cristo no solo se mostro en misericordia, esta es mucho mas abundante.
 
 
-### 1 Timoteo 1:13a "*Sin embargo, se me mostró misericordia porque lo hice por ignorancia en mi incredulidad...*"
-
-### 1 Timoteo 1:14 "*Pero la gracia de nuestro Señor fue más que abundante, con la fe y el amor que se hallan en Cristo Jesús...*"
 
 ### 1 Timoteo 1:15a "*Palabra fiel y digna de ser aceptada por todos:*" 
 
@@ -491,7 +496,7 @@ Algunos estaban dedicando su atención a cosas que desviaban del verdadero conoc
 
 # 1 Timoteo 1:18-20 LA SABIDURÍA EN PABLO 
 
-## 1 Timoteo 1:18-19b La comisión de Timoteo
+## 1 Timoteo 1:18-19b La comisión de Timoteo 
 
 ### 1 Timoteo 1:18a "*Esta comisión te confío, hijo Timoteo...*" Aquí vemos la relación de un padre espiritual a su hijo. 
 
