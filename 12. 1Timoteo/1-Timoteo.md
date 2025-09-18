@@ -1327,7 +1327,7 @@ El misterio de la piedad es El (Cristo) en nosotros.
 
 ### 1 Timoteo 4:1a "*El Espíritu dice claramente que en los últimos tiempos...*" Aquí Pablo transmite que el Espiritu Santo anunciaba que algo pasaría después de su partida. Hechos 20:17-38
 
-#### El verbo, dice esta en tiempo presente modo indicativo. Quiere decir que era una continuo decir del Espíritu Santo que esto sucedería y que era un hecho seguro. 2 Timoteo 3:1
+#### El verbo, dice esta en tiempo presente modo indicativo. Quiere decir que era un continuo avisar del Espíritu Santo que esto sucedería y que era un hecho seguro. 2 Timoteo 3:1
 
 ###  Timoteo 4:1b "*algunos se apartarán de la fe...*" En los últimos tiempos será similar pero peor que los maestros que Timoteo estaba luchando. 1 Timoteo 1:3, 19, 6:10
 
@@ -1355,13 +1355,27 @@ El misterio de la piedad es El (Cristo) en nosotros.
 
 ### 1 Timoteo 4:2b "*que tienen cauterizada la conciencia...*" Estos mentirosos tienen una consciencia insensible. 
 
-En el tiempo de Timoteo, prestar atención a mitos y genealogías interminables causó que 
+En el tiempo de Timoteo, prestar atención a mitos y genealogías interminables causó que terminaran en vana palabrería. 
 
-### 1 Timoteo 4:3 "*Esos prohibirán casarse y mandarán abstenerse de algunos alimentos, que Dios los ha creado para que con acción de gracias participen de ellos los que creen y que han conocido la verdad...*"
+Similarmente, en el futuro, cuando hayan estos mentirosos engañadores que escuchan a espiritus engañadores y doctrinas de demonios, llevarán a la conclusiones peores. 
 
-### 1 Timoteo 4:4 "*Porque todo lo creado por Dios es bueno y nada se debe rechazar si se recibe con acción de gracias;*"
+### 1 Timoteo 4:3a "*Esos prohibirán casarse y mandarán abstenerse de algunos alimentos,*"
 
-### 1 Timoteo 4:5 "*porque es santificado mediante la palabra de Dios y la oración...*"
+#### La prohibición de matrimónio y abstención de ciertos alimentos es una consecuencia al desvio de la verdad. 
+
+### 1 Timoteo 4:3b *que Dios los ha creado para que con acción de gracias participen de ellos los que creen y que han conocido la verdad...*" La realidad es que Dios ha creado estas cosas para disfrutar y para estar agradecidos a Dios.
+
+####  Estos perversos tergiversan lo que resulta en el agradecimiento por la bondad de Dios en causar el sufrimiento para Dios. Produce dependencia en estos hombres según sus reglamentos. 
+
+##### Esto equivale a una falsa espiritualidad por medio de la tristeza producida por falsa enseñanza. 
+
+### 1 Timoteo 4:4 "*Porque todo lo creado por Dios es bueno y nada se debe rechazar si se recibe con acción de gracias;*" Dios desea que lo que El ha creado sea recibido de manera que ocacione gratitud a El. 
+
+### 1 Timoteo 4:5 "*porque es santificado mediante la palabra de Dios y la oración...*" Es santificado por Dios y bueno. 
+
+#### Santificado esta voz pasiva. En este caso, Dios es el actor que santificó estas cosas. 
+
+#### Por medio de la Palabra y la fe en oración estamos de acuerdo en lo que dice Dios de que es bueno. 
 
 ## En Síntesis (1 Timoteo 4:1-5)
 
