@@ -596,9 +596,11 @@ aTitle: 1 Timoteo
 
 ## En Síntesis (1 Timoteo 1:8-11)
 
-### La Ley no fue hecha para controlar a las personas salvas. 1 Timoteo 1:8a
+### La Ley no fue hecha para guiar los justos (creyentes) en su vida. 1 Timoteo 1:8a;  1 Corintios 6:9-11
 
-### La Ley fue hecha para controlar a las personas que no son salvas. 1 Timoteo 1:8b-11
+### La Ley fue hecha para guíar a los injustos (incredulos) a Cristo. 1 Timoteo 1:8b-11, Gálatas 3:24
+
+### Por el momento vemos que la sana doctrina (doctrina que sana) es en base solo al evangelio de Dios.
 
 ## 1 Timoteo 1:12-17 EL TESTIMONIO DE PABLO: Profunda gratitud por la fidelidad de Dios.
 
