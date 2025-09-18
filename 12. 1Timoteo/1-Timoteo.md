@@ -1,5 +1,5 @@
 ---
-Title: 1 Timoteo
+aTitle: 1 Timoteo
 ---
 <u>**1 Timoteo**</u>
 **En la Casa de Dios**
@@ -625,51 +625,104 @@ Algunos estaban dedicando su atención a cosas que desviaban del verdadero conoc
 
 # VI. 1 Timoteo 2:1-15 -- Entendiendo la voluntad de Dios
 
-## Orando juntos por la paz para llevar el Evangelio
-
+## 1 Timoteo 2:1-4 - Llamado a la oración por todos los hombres.
 ### 1 Timoteo 2:1 "*Exhorto, pues, ante todo que se hagan plegarias, oraciones, peticiones y acciones de gracias por todos los hombres,*". Pablo les estaba animando a los creyentes a que puedan orar continuamente por todos. 
 
-### 1 Timoteo 2:1a *Exhorto, pues,*...La palabra exhortar [parakaléo] expresa la intención de orar, alentar, amonestar y animar. 
+### 1 Timoteo 2:1a "*Exhorto, pues,*"...La palabra exhortar [parakaléo] expresa la intención de orar, alentar, amonestar y animar. 
 
-### 1 Timoteo 2:1b *ante todo*... habla enfáticamente de colocar como una prioridad esta instrucción.
+### 1 Timoteo 2:1b "*ante todo*"... habla enfáticamente de colocar como una prioridad esta instrucción.
 
-### 1 Timoteo 2:1c *que se hagan plegarias, oraciones, peticiones y acciones de gracias por todos los hombres*...
+### 1 Timoteo 2:1c "*que se hagan plegarias, oraciones, peticiones y acciones de gracias por todos los hombres*"...
 
-#### *plegarias*... Súplicas hechas con humildad con el fin de pedir algo. Efesios 6:18.
+#### "*plegarias*"... Súplicas hechas con humildad con el fin de pedir algo. Efesios 6:18.
 
-#### *oraciones*... Las oraciones de los creyentes expresan sus deseos y emociones hacia Dios en plena confianza que el nos escucha. 1 Juan 5:14-15.
+#### "*oraciones*"... Las oraciones de los creyentes expresan sus deseos y emociones hacia Dios en plena confianza que el nos escucha. 1 Juan 5:14-15.
 
-#### *peticiones*...Podemos acercarnos a el confiadamente y pedir por nuestras necesidades personales como también de otra persona. Filipenses 4:6-7
+#### "*peticiones*"...Podemos acercarnos a el confiadamente y pedir por nuestras necesidades personales como también de otra persona. Filipenses 4:6-7
 
-#### *y acciones de gracias por todos los hombres*... expresa gratitud por todos los hombres, sin una actitud excluyente a los que son buenos o malos.
+#### "*y acciones de gracias por todos los hombres*"... expresa gratitud por todos los hombres, sin una actitud excluyente a los que son buenos o malos.
 
-### 1 Timoteo 2:2 "*por los reyes y por todos los que están en autoridad, para que podamos vivir una vida tranquila y sosegada con toda piedad y dignidad.*" 
+### 1 Timoteo 2:2 "*por los reyes y por todos los que están en autoridad, para que podamos vivir una vida tranquila y sosegada con toda piedad y dignidad.*". 
 
-### 1 Timoteo 2:2a "*por los reyes*..." Los reyes son las máximas autoridades nacionales, en el momento que fue escrita esta carta el "rey" romano era el emperador Nerón (54 d.C. - 68 d.C.). 
+####  ¿Por que orar por los que están en autoridad? con el fin de que todos las ciudadanos podamos vivir una vidas tranquilas y sosegadas.
 
-#### Nerón llegó a ser emperador a sus 16 años, durante su reinado se asocia con la tiranía, ejecuciones públicas y persecución a los cristianos.
+#### Nos anima a poder orar por nuestras autoridades, gobiernos y todos los que ejercen control sobre los ciudadanos.
 
-#### Sería ante Nerón que Pablo por voluntad propia haría su defensa y por último perdería su vida. 2 Timoteo 4:16-18.
+#### El señor ha entregado en manos del hombre el sistema de gobierno humano ejerciendo autoridad y justicia sobre la vida de los hombres. Génesis 9:6.
 
-### 1 Timoteo 2:2b "*y por todos los que están en autoridad*..." Pablo pidió que todos los hermanos oren por todos los que están en autoridad, no solo los reyes. Esto incluye toda autoridad civil. 
+### 1 Timoteo 2:2a "*por los reyes*..." Los reyes son las máximas autoridades nacionales, en nuestro contexto vendrían a ser los presidentes y gobiernos.
 
-### 1 Timoteo 2:2d "*para que podamos vivir una vida tranquila y sosegada*..." El propósito de orar por los reyes y todos los que están en autoridad es para que haya tranquilidad civil. 
+####  En el momento que fue escrita esta carta el "rey" romano era el emperador Nerón (54 d.C. - 68 d.C.). , llegó a ser emperador a sus 16 años y reinó durante 14 años, su reinado se asocia con la tiranía absoluta, ejecuciones públicas y persecución a los cristianos.
 
-### 1 Timoteo 2:2e "*con toda piedad y dignidad*..." la palabra piedad es EUSEBIA que tiene el sentido de llevar una vida buena, justa y moral. Dignidad (SEMNOTES) es la idea de honorabilidad en el diario andar de uno. 
+#### Parece poco lógico orar por un tirano y dictador, pero Pablo animó a los creyentes mostrándoles un propósito para el gobierno humano el cual es bueno y agradable a Dios.
 
-### 1 Timoteo 2:3 "*Porque esto es bueno y agradable delante de Dios nuestro Salvador*..." Estas virtudes son agradables y aceptables delante de Dios. 
+#### Se deduce que Pablo tuvo una defensa ante Nerón y fue librado. 2 Timoteo 4:16-18.
 
-#### Nuevamente vemos el uso de "*nuestro*" Salvador. "*Nuestro Salvador*", "*nuestro padre*" o "*nuestro Señor*" aparece 7 veces a través de la carta a Timoteo. 
+#### Pocos años mas tarde según el historiador Eusebio de la iglesia primitiva escribió que Pablo fue decapitado por orden del emperador romano Nerón o uno de sus subordinados.
 
-## Dos aspectos impactantes de la voluntad de Dios
+### 1 Timoteo 2:2b "...*y por todos los que están en autoridad*..." Pablo pidió a los creyentes  oren por todos los que están en autoridad o eminencia, no solo los reyes. Esto incluye toda autoridad civil. 
 
-### 1 Timoteo 2:4a "*el cual quiere*..." El primer aspecto de la voluntad de Dios es comunicado aquí. Dios quiere algo y esto nos debe importar. 
+### 1 Timoteo 2:2c "...*para que podamos vivir una vida tranquila y sosegada*..." El propósito de orar por los reyes y todos los que están en autoridad es para que haya tranquilidad civil. 
 
-### 1 Timoteo 2:4b "*que todos los hombres sean salvos*..." Lo primero que Dios quiere es que todos los hombres sean salvos. Esto debería ser suficiente motivación para que estemos buscando compartir el Evangelio con otros. Dios quiere salvarlos. 
+#### Es interesante saber que podemos orar por los que gobiernan con el fin para tener vidas tranquilas mientras estamos en este mundo caótico y lleno de maldad.
+
+### 1 Timoteo 2:2d "*con toda piedad y dignidad*..." Es bueno orar por las autoridades para que los creyentes podamos vivir tranquilamente en una manera de vivir piadosa y digna sin estorbo.
+
+#### La palabra *piedad* es [EUSEBIA] que tiene el sentido de llevar una vida buena, justa y moral ante los hombres. 
+
+#### La palabra *dignidad* es [SEMNOTES] muestra la honorabilidad u seriedad en el diario andar de uno, una vida venerable digna de respeto.
+
+###  1 Timoteo 2:3 "*Porque esto es bueno y agradable delante de Dios nuestro Salvador*..." La conducta piadosa y digna del creyente es muy buena y agradable ante Dios.
+
+#### La frase de *Dios nuestro Salvador* expresa que el es el único que nos salva y vemos esta expresión usada en varios pasajes de esta carta. 1 Timoteo 1:1, 2:3, 4:10.
+
+## 1 Timoteo 2:4 Dos aspectos impactantes de la voluntad de Dios
+
+### 1 Timoteo 2:4  ''*el cual quiere que todos los hombres sean salvos y vengan al pleno conocimiento de la verdad*''. Podemos ver lo que Dios quiere para todos los hombres.
+
+### 1 Timoteo 2:4a "*el cual quiere*..." La palabra quiere [DSELO] nos indica el deseo o voluntad.
+
+#### En un contraste podemos ver lo contrario, Dios no desea la muerte del impío, sino que  se arrepienta [METANOIA-cambiar de mente] de sus malos caminos. Ezequiel. 18:23, 32; 2 Pedro 3:9.
+
+#### Un aspecto de la soberanía de Dios es: lo que el quiere lo puede hacer, sin embargo no vemos que todos los hombres sean salvos y vengan al conocimiento de la verdad, ¿que paso?, este pasaje nos aclarará mas detalles acerca de la voluntad de Dios y  el deseo que tiene por la humanidad.
+
+la voluntad de Dios no debe confundirse con la soberanía de Dios
+
+que es lo que Dios quiere Vs que es lo que Dios se propone Hacer
+
+Lo que DIos quiere es que todos los hombres sean salvos (Deseo, anhelo, Voluntad)
+
+El no quiere que sean salvos obligadamente, sinó de manera libre.
+
+Todo lo que Dios se propone hacer lo hace (Hizo posible la salvación por fe), vemos en la creación este aspecto de la soberanía y el deseo de Dios.
+
+### 1 Timoteo 2:4b "*que todos los hombres sean salvos*..." El primer aspecto de la voluntad de Dios es
+
+La pregunta es como DIos quiere que los hombres sean salvos?
+
+el quiere que sean salvos por medio de la fe, por medio de creer en el evangelio.
+
+por medio de anunciar las buenas noticias a todas las personas y crean en el mensaje de Jesucristo.
+
+###  Lo primero que Dios quiere es que todos los hombres sean salvos. Esto debería ser suficiente motivación para que estemos buscando compartir el Evangelio con otros. Dios quiere salvarlos. 
+
+#### El espera que puedan responder de manera libre, voluntaria, respetando su libre albedrio, la decisión de Creer en el con respecto a su salvación que es por medio de la fe en el evangelio. 
+
+#### para con los hombres con respecto a la salvación, 
+
+#### no es forzada, obligada u predeterminada para salvación , sino es en base a una completa libertad de elegir.
+
+####  el quiere que todos los hombres sean salvos. Ahora la pregunta, Todos los hombres son salvos?
+
+##### Nos muestra que este es un deseo el cual Dios no obliga a las personas a salvarse, sino que es por medio de la predicación del evangelio, y obtienen la salvación por fe respetando su libre albeldrio de creerle a Dios o rechazarlo.
+
+
 
 #### Pablo pidió que todos oren para que haya tranquilidad civil para poder vivir piadosamente. ¿Porque? 
 
-#### Porque por medio de un vivir piadoso de la iglesia, el Espíritu Santo convence al mundo de justicia, juicio y pecado. Juan 16:8-10
+#### Porque por medio de un vivir piadoso de la iglesia, el Espíritu Santo convence al mundo de justicia, juicio y pecado. Juan 16:8-10 
+
+#### no es siempre asi
 
 #### La iglesia no tiene potestad de salvar a las personas, pero si puede andar de una manera que sea agradable al Señor y sirve para persuadir al inconverso de su pecaminosidad y necesidad de salvación. 
 
@@ -685,7 +738,7 @@ Algunos estaban dedicando su atención a cosas que desviaban del verdadero conoc
 
 ##### La salvación es obra de Dios por gracia, únicamente a los que creen. 
 
-### 1 Timoteo 2:4c "*y vengan al pleno conocimiento de la verdad*..." La salvación es la primera parte de la voluntad de Dios. El segundo aspecto de la voluntad de Dios es que desea que todas las personas que salva lleguen a un conocimiento completo de la verdad. 
+### 1 Timoteo 2:4c "*y vengan al pleno conocimiento de la verdad*..." La salvación es la segunda parte de la voluntad de Dios. El segundo aspecto de la voluntad de Dios es que desea que todas las personas que salva lleguen a un conocimiento completo de la verdad. 
 
 ### 1 Timoteo 2:5a "*Porque hay un solo Dios*..." Un pleno conocimiento empieza por saber que hay un solo Dios. 
 
