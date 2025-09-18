@@ -1750,7 +1750,7 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 ### Deben mantenerse puros. 1 Timoteo 5:22b
 
-### Timoteo en particular (1 Timoteo 5:23): "Bebe un poco de vino por amor a tu estómago porque estás enfermo muy a menudo".
+### Timoteo en particular: "Bebe un poco de vino por amor a tu estómago porque estás enfermo muy a menudo".  1 Timoteo 5:23
 
 ### Pablo se dirige a los obreros, a los impíos, a los sabios y a los ricos. Cierra su carta con algunas instrucciones finales para Timoteo.
 
@@ -1820,23 +1820,31 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 ### 1 Timoteo 6:5c "*que suponen que la piedad es un medio de ganancia.*" estas personas asumen el hecho que la piedad es para su ganancia. 
 
+falsos maestros se aprovechan de la apariencia de piedad para conseguir ganancia economica. Erroneamente asumen que la piedad tiene ese fin. 1 Timoteo 6:9
+
 "*suponen*" [DOKEO] - pensar o creer (algo) sin estar totalmente decidido en mente u opinión. 
 
-### 1 Timoteo 6:6 "*Pero la piedad, en efecto, es un medio de gran ganancia cuando va acompañada de contentamiento.*"
+### 1 Timoteo 6:6 "*Pero la piedad, en efecto, es un medio de gran ganancia cuando va acompañada de contentamiento.*" La piedad es un medio para mucho beneficio pero solo cuando viene con contentamiento. ¿Que significa esto?
 
-### 1 Timoteo 6:7 "*Porque nada hemos traído al mundo, así que nada podemos sacar de él.*"
+#### "*contentamiento*" [AUTARKEIA] adecuación que resulta especialmente en satisfacción con la propia situación en la vida. [^9]
 
-### 1 Timoteo 6:8 "*Y si tenemos qué comer y con qué cubrirnos, con eso estaremos contentos.*"
+#### La piedad acompañada de satisfacción por si sola es de gran ganancia. 
 
-### 1 Timoteo 6:9 "*Pero los que quieren enriquecerse caen en tentación y lazo y en muchos deseos necios y dañosos que hunden a los hombres en la ruina y en la perdición.*"
+### 1 Timoteo 6:7 "*Porque nada hemos traído al mundo, así que nada podemos sacar de él.*" ¿Porque nos enfocariamos en cosas terrenales si no llevaremos las cosas de la tierra con nosotros?
 
-### 1 Timoteo 6:10a "*Porque la raíz de todos los males es el amor al dinero,*"
+### 1 Timoteo 6:8 "*Y si tenemos qué comer y con qué cubrirnos, con eso estaremos contentos.*" Si estamos contentos con un techo y la comida, la piedad es gran ganancia y somos satisfechos. 
 
-### 1 Timoteo 6:10b "*por el cual, codiciándolo algunos, se extraviaron*"
+### 1 Timoteo 6:9 "*Pero los que quieren enriquecerse caen en tentación y lazo y en muchos deseos necios y dañosos que hunden a los hombres en la ruina y en la perdición.*" Los falsos maestros, por querer ser ricos, caen en tentación y hacen a otros caer en la ruina y perdición. 
 
-### 1 Timoteo 6:10c "*de la fe*"
+### 1 Timoteo 6:10a "*Porque la raíz de todos los males es el amor al dinero,*" El dinero no es culpable de los males. La raíz de todos los males es amar al dinero. Esto se llama avaricia. 
 
-### 1 Timoteo 6:10d "*y se torturaron con muchos dolores.*"
+### 1 Timoteo 6:10b "*por el cual, codiciándolo algunos, se extraviaron de la fe*" En vez de perseguir la verdad en Jesucristo, estos hombres codician el dinero y como consecuencia se extravian de la verdad, la fe. 
+
+### 1 Timoteo 6:10d "*y se torturaron con muchos dolores.*" 
+
+#### "*dolores*" [ODYNE] sentimientos de dolor mental o físico. 
+
+#### estos hombres se ocasionan estrés, anciedad y más. 
 
 ## En Síntesis (1 Timoteo 6:1-10)
 
@@ -1864,23 +1872,31 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 ### 1 Timoteo 6:11a "*Pero tú, oh hombre de Dios...*" Nuevamente Pablo le habla diréctamente a Timoteo ya no como hijo sino hombre de Dios. 
 
+#### No te hace más hombre tener mucho dinero. 
+
+#### No te hace más hombre ser famoso. 
+
+#### No te hace más hombre caerles bien a todos. 
+
+#### Pablo le recuerda a Timoteo, el ya todo un hombre y hombre de Dios. 
+
 ### 1 Timoteo 6:11a "*huye de estas cosas...*" la instrucción aqui es de huir. 
 
-#### La idea es escaparse de estas cosas. 
+#### ¡escapa de estas cosas! No te dejes distraer en absoluto por estas cosas. 
 
-### 1 Timoteo 6:11a "*y sigue la justicia...*"
+### 1 Timoteo 6:11a "*y sigue la justicia...*" más bien, macérate en la justicia.  
 
-### 1 Timoteo 6:11a "*sigue...la piedad...*"
+### 1 Timoteo 6:11a "*sigue...la piedad...*" Sigue la piedad
 
-### 1 Timoteo 6:11a "*sigue...la fe...*"
+### 1 Timoteo 6:11a "*sigue...la fe...*" sigue la fe, el cuerpo de verdad que tenemos.
 
-### 1 Timoteo 6:11a "*sigue...el amor,*"
+### 1 Timoteo 6:11a "*sigue...el amor,*" sigue el amor
 
-### 1 Timoteo 6:11a "*sigue...la perseverancia*"
+### 1 Timoteo 6:11a "*sigue...la perseverancia*" 
 
 ### 1 Timoteo 6:11a "*sigue...y la amabilidad.*"
 
-### 1 Timoteo 6:12a "*Pelea la buena batalla de la fe.*"
+### 1 Timoteo 6:12a "*Pelea la buena batalla de la fe.*" 
 
 ### 1 Timoteo 6:12b "*Echa mano de la vida eterna a la cual fuiste llamado,*"
 
