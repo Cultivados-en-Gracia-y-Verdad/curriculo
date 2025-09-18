@@ -162,17 +162,19 @@ Title: 1 Timoteo
 
 ## Misterio el Plan de Dios con la Iglesia
 
-### La plan de Dios siempre ha sido llegar a los gentiles (a todo el mundo), y en ese plan la nación de Israel, era antiguamente el medio por el cual, anunciaba la luz a las naciones. Exodo 19:5-6
+### La plan de Dios siempre ha sido llegar a los gentiles (a todo el mundo), y en ese plan la nación de Israel, era antiguamente el agente por el cual, anunciaba la luz a las naciones. Éxodo 19:5-6; Genesis 12:3.
 
-### Dios le dijo a Abraham que haria de Él una nacion grande y por la promesa hecha a Abraham Dios bendeciria a todas las familas de la tierra. Genesis 12:3
-
-### Por causa del rechazo de la nación de Israel al Señor Jesucristo Hechos 3:13-15, los gentiles fueron incluidos en sus planes. Romanos 11:17.
+### Por causa del rechazo de la nación de Israel al Señor Jesucristo Hechos 3:13-15, los gentiles llegaron a ser participantes en los planes de Dios. Romanos 11:17.
 
 #### No debemos llegar a la conclucion de que Dios ha desechado a su pueblo, un día Dios retomara sus planes con la nación de Israel Romanos 11:1-2.
 
-#### Hoy, la iglesia es el medio que Dios esta usando para alcanzar a todas las naciones, así también alcanzar a los perdidos de la nación de Israel, ya que el evangelio es el mensaje de Dios para todo el mundo. Romanos 11:14, Romanos 1:14; Romanos 1:16.
+### Hoy, la iglesia es el agente que Dios esta usando para alcanzar a todas las naciones, así también alcanzar a los perdidos de la nación de Israel, ya que el evangelio es el mensaje de Dios para todo el mundo. Romanos 11:14, Romanos 1:14; Romanos 1:16.
 
-### Existen 77 menciones de la palabra iglesia en la biblia versión (NBLA). 
+### Existen 191 menciones de la palabra Ekklesía en la biblia, 77 veces en el antiguo testamento, 114 veces en el nuevo testamento, de los cuales 77 menciones son las que se refieren específicamente a la iglesia que el Señor Jesucristo esta edificando.
+
+#### Las 77 menciones de "Ekklesía" del antiguo testamento no se refieren al cuerpo de Cristo que es la iglesia, habla de una asamblea o una reunión como lo vimos en la definición de la palabra. 1Cronicas 11:4; 2 Cronicas 28:14.
+
+#### Y en el nuevo testamento 37 menicones no se refiere a la "Ekklesía" como cuerpo de Cristo, sino a una reunion o asamblea. Hechos 19:41.
 
 #### El libro de Hechos lleva 17 menciones, por ejemplo Hechos 8:1; Hechos 9:31; Hechos 11:26; Hechos 20:28
 
