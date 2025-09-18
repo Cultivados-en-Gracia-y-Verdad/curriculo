@@ -762,7 +762,9 @@ aTitle: 1 Timoteo
 
 # VI. 1 Timoteo 2:1-15 -- Entendiendo la voluntad de Dios
 
-## 1 Timoteo 2:1-4 Orando juntos por la paz para llevar el Evangelio
+## 1 Timoteo 2:1-3 Orando juntos por la paz para llevar el Evangelio
+
+### 1 Timoteo 2:1 "*Exhorto, pues, ante todo que se hagan plegarias, oraciones, peticiones y acciones de gracias por todos los hombres,*". Pablo les estaba animando a los creyentes a que puedan orar continuamente por todos.
 
 ### 1 Timoteo 2:1a "*Exhorto, pues,*"...La palabra exhortar [PARAKALEO] expresa la intención de orar, alentar, amonestar y animar. 
 
@@ -774,7 +776,7 @@ aTitle: 1 Timoteo
 
 #### "*oraciones*"... Las oraciones de los creyentes expresan sus deseos y emociones hacia Dios en plena confianza que el nos escucha. 1 Juan 5:14-15.
 
-#### "*peticiones*"...Podemos acercarnos a el confiadamente y pedir por nuestras necesidades personales como también de otra persona. Filipenses 4:6-7
+#### "*peticiones*"... Podemos acercarnos a el confiadamente y pedir por nuestras necesidades personales como también de otra persona. Filipenses 4:6-7
 
 #### "*y acciones de gracias por todos los hombres*"... expresa gratitud por todos los hombres, sin una actitud excluyente a los que son buenos o malos.
 
@@ -808,7 +810,9 @@ aTitle: 1 Timoteo
 
 #### La palabra *dignidad* es [SEMNOTES] muestra la honorabilidad u seriedad en el diario andar de uno, una vida venerable digna de respeto.
 
-###  1 Timoteo 2:3 "*Porque esto es bueno y agradable delante de Dios nuestro Salvador*..." La conducta piadosa y digna del creyente es muy buena y agradable ante Dios.
+###  1 Timoteo 2:3 "*Porque esto es bueno y agradable delante de Dios nuestro Salvador*..."
+
+#### Con referente a lo anterior podemos ver que la piedad y dignidad en el andar de un creyente es visto de buena manera ante Dios.
 
 #### La frase de *Dios nuestro Salvador* expresa que el es el único que nos salva y vemos esta expresión usada en varios pasajes de esta carta. 1 Timoteo 1:1, 2:3, 4:10.
 
@@ -818,65 +822,87 @@ aTitle: 1 Timoteo
 
 ### 1 Timoteo 2:4a "*el cual quiere*..." La palabra quiere [THELO] nos indica el deseo o voluntad.
 
-#### En un contraste podemos ver lo contrario, Dios no desea la muerte del impío, sino que  se arrepienta [METANOIA-cambiar de mente] de sus malos caminos. Ezequiel. 18:23, 32; 2 Pedro 3:9
+#### Contrastando podemos ver lo que Dios no quiere, el no quiere la muerte del impío, sino que se arrepienta [METANOIA-cambiar de mente] de sus malos caminos. Ezequiel. 18:23, 32; 2 Pedro 3:9
 
-#### Un aspecto de la soberanía de Dios es: lo que el quiere lo puede hacer, sin embargo no vemos que todos los hombres sean salvos y vengan al conocimiento de la verdad, ¿que paso?, este pasaje nos aclarará mas detalles acerca de la voluntad de Dios y  el deseo que tiene por la humanidad.
+#### La voluntad de Dios no debe confundirse con la soberanía de Dios.
 
-##### La voluntad de Dios no debe confundirse con la soberanía de Dios
+##### Un aspecto de la soberanía de Dios es: lo que el quiere lo puede hacer, sin embargo no vemos que todos los hombres sean salvos y vengan al conocimiento de la verdad, ¿que paso?, este pasaje nos aclarará mas detalles acerca de la voluntad de Dios y el deseo que el tiene por la humanidad.
 
-##### Que es lo que Dios quiere Vs que es lo que Dios se propone Hacer
+##### La soberanía de Dios se puede ver en la creación, con respecto a todo lo que se propuso hacer, fue hecho. También vemos este atributo en que el se propuso salvar a las personas por medio de la fe en Jesucristo. y lo hizo posible.
 
-##### Lo que DIos quiere es que todos los hombres sean salvos (deseo, anhelo, voluntad)
-
-##### El no quiere que sean salvos obligadamente, sinó de manera libre.
-
-##### Todo lo que Dios se propone hacer lo hace (hizo posible la salvación por fe), vemos en la creación este aspecto de la soberanía y la voluntad de Dios.
-
-### 1 Timoteo 2:4b "*que todos los hombres sean salvos*..." El primer aspecto de la voluntad de Dios es que desea que todos sean salvos. 
-
-#### Lo primero que Dios desea es que todos los hombres sean salvos. Esto debería ser suficiente motivación para que estemos buscando compartir el Evangelio con otros. Dios quiere salvarlos. 
+### 1 Timoteo 2:4b "*que todos los hombres sean salvos*..."**El primer aspecto de la voluntad de Dios** es que desea que todos sean salvos. 
 
 #### La pregunta es ¿como quiere Dios que los hombres sean salvos?
 
-##### El quiere que todos los hombres sean salvos por medio de la fe, por medio de creer en el evangelio.
+##### El quiere que todos los hombres sean salvos por medio de la fe en Jesucristo, por medio de creer en el evangelio. Hechos 4:12.
 
-#### El espera que puedan responder de manera libre, voluntaria, respetando su libre albedrio, la decisión de creer en el con respecto a su salvación que es por medio de la fe en el evangelio. 
+##### El no quiere que sean salvos obligadamente, o predeterminadamente sino el hizo posible la salvación por medio de confiar en el anuncio de una buena noticia y creerla de manera libre.
 
-##### Para con los hombres con respecto a la salvación, 
+#### La salvación no es algo que se pueda ganar o merecer.
 
-##### No es forzada, obligada u predeterminada para salvación , sino es en base a una completa libertad de elegir.
-
-#####  El quiere que todos los hombres sean salvos. Ahora la pregunta, Todos los hombres son salvos?
-
-##### Nos muestra que este es un deseo el cual Dios no obliga a las personas a salvarse, sino que es por medio de la predicación del evangelio, y obtienen la salvación por fe respetando su libre albeldrio de creerle a Dios o rechazarlo.
-
-#### Pablo pidió que todos oren para que haya tranquilidad civil para poder vivir piadosamente. ¿Porque? 
-
-##### Porque por medio de un verdadero vivir piadoso de la iglesia, el Espíritu Santo convence al mundo de justicia, juicio y pecado. Juan 16:8-10
-
-##### La iglesia no tiene potestad de salvar a las personas, pero si puede andar de una manera que sea agradable al Señor y sirve para persuadir al inconverso de su pecaminosidad y necesidad de salvación. 
-
-#### La salvación únicamente viene por el medio de la fe en Jesucristo. Hechos 4:12
-
-##### No es por la "*obras de fe*" que uno es salvo. Efesios 2:9, Romanos 3:20, Gálatas 3:10
+#####  No es por la "*obras de fe*" que uno es salvo. Efesios 2:9, Romanos 3:20. Gálatas 3:10.
 
 ##### No es por "*obras de caridad*" que uno se salva. Hechos 10:31-33, 11:4-18
 
-##### No es por "*obras de benevolencia*" que uno consigue salvación. Romanos 4:6
+##### No es por "*obras de benevolencia*" que uno consigue salvación. Romanos 4:6.
 
-##### No es por obras que uno "*confirma*" su salvación. Hechos 7:40-41, Romanos 9:32
+#####  No es por obras que uno "*confirma*" su salvación. Hechos 7:40-41. Romanos 9:32.
 
-##### La salvación es obra de Dios por gracia, únicamente a los que creen. Gálatas 3:2, 
+##### No es ni siquiera por las mejores ''*obras de justicia*'' lo mas justo que hubiéramos hecho para salvarnos. Tito 3:5.
 
-### 1 Timoteo 2:4c "*y vengan al pleno conocimiento de la verdad*..." La salvación es la primera parte de la voluntad de Dios. El **segundo aspecto** de la voluntad de Dios es que desea que todas las personas que El salva por medio de la fe en Jesucristo lleguen a un conocimiento completo de la verdad. Gálatas 2:5; Efesios 4:15; Colosenses 1:5
+#### La salvación es la obra que Dios hizo por gracia, únicamente a los que creen. Gálatas 3:2.
 
-### 1 Timoteo 2:5a "*Porque hay un solo Dios*..." Un pleno conocimiento empieza por saber que hay un solo Dios. Hechos 14:15
+#### Dios espera que todos las personas puedan responder positivamente en su decisión de creer en el mensaje del evangelio anunciado por medio de vasos de barro, hombres sencillos.
 
-### 1 Timoteo 2:5b "*y también un solo Mediador entre Dios y los hombres...*" Un pleno conocimiento de la verdad incluye que hay un solo mediador entre Dios y el hombre. Hebreos 8:6
+#### Pablo pidió que a los creyentes que oren por tranquilidad civil para poder vivir piadosamente. ¿Porque? 
 
-### 1 Timoteo 2:5c "*Cristo Jesús hombre...*" el único y solo mediador es Cristo [Dios] Jesús el hombre. Marcos 14:62
+#### Entendemos que el Espíritu Santo convence al mundo de justicia, juicio y pecado. Juan 16:8-10.
 
-### 1 Timoteo 2:6a "*quien se dio a sí mismo en rescate por todos...*" la voluntad de Dios es que se llegue a al pleno conocimiento de que Cristo se dio a si mismo para dar posibilidad de rescate a todos. Filipenses 2:7; Romanos 15:3; 1 Corintios 15:3; Gálatas 1:4; Hebreos 7:27
+####  La iglesia no tiene potestad de salvar a las personas, pero si puede andar de una manera que sea agradable al Señor, de manera que aún los no creyentes pueden ver la conducta piadosa de los creyentes y ser llevados a conocer el evangelio.
+
+### 1 Timoteo 2:4c "*y vengan al pleno conocimiento de la verdad*..." El **segundo aspecto de la voluntad de Dios** es que el desea que todas las personas salvas lleguen a un conocimiento plano de la verdad. Gálatas 2:5; Efesios 4:15; Colosenses 1:5.
+
+#### La palabra *vengan* [ERJOMAI] es un verbo que se encuentra en tiempo aoristo, activo, infinitivo, dando a entender una acción iniciada en un punto del tiempo que se muestra de manera continua, estén viniendo activamente, es una invitación constante a los creyentes.
+
+#### La palabra *pleno conocimiento* es [EPIGNOSIS] o también pleno discernimiento, contiene una preposición EPI, que significa acertado o apropiado y GNOSIS conocimiento. Enseña un conocimiento completamente acertado y un pleno discernimiento. 
+
+#### Dios no solo quiere que conozcamos teóricamente de el, sino que seamos plenamente capaces para comprender y discernir la verdad, esa es su voluntad. Romanos 10:2, Colosenses 1:9-10, Efesios 1:16-18, 3:18-19.
+
+## 1 Timoteo 2:5-7 Apóstol Pablo Maestro a los gentiles. 
+
+### Pablo explica su rol de apóstol y maestro en el evangelio.
+
+### 1 Timoteo 2:5 "*Porque hay un solo Dios, y también un solo Mediador entre Dios y los hombres, Cristo Jesús hombre,*
+
+#### Este pasaje nos muestra que Dios es único y también su mediador es único. No existe otro mediador fuera de Jesucristo.
+
+### 1 Timoteo 2:5a "*Porque hay un solo Dios*..." Un pleno conocimiento de la verdad empieza por saber que hay un solo Dios. Hechos 14:15.
+
+### 1 Timoteo 2:5b "...*y también un solo Mediador entre Dios y los hombres...*" Un entendimiento pleno de la verdad es que existe un solo mediador entre Dios y el hombre. Hebreos 8:6, 9:15.
+
+#### Jesús afirma que no existe otro medio para ir al Padre. Juan 14:6.
+
+#### El es nuestro único intercesor ante el Padre. Romanos 8:34.
+
+### 1 Timoteo 2:5c "*Cristo Jesús hombre...*" el único y solo mediador es Cristo Jesús el hombre (Completamente humano). 
+
+#### Cuando Jesús hablaba se presentaba como el hijo del hombre expresando su naturaleza humana y profecía con respecto al mesías venidero. Marcos 14:62.
+
+#### Es importante mencionar la humanidad de Jesucristo, esto es debido a que muchos solo creían que es Dios pero no era completamente humano.
+
+#### Sin embargo vemos una línea de sangre real (Humana) desde David, cumpliendo así las promesas hechas en el antiguo testamento a David y a Judá. Mateo 1:1; Romanos 1:3.
+
+#### Jesucristo-Hombre es el único que podría sustituirnos de manera perfecta, hebreos nos aclara que la sangre de toros no era un sustituto adecuado. Hebreos 10:4-14.
+
+### 1 Timoteo 2:6 "*quien se dio a sí mismo en rescate por todos, testimonio dado a su debido tiempo.*" 
+
+### 1 Timoteo 2:6a "*quien se dio a sí mismo en rescate por todos*" Un entendimiento pleno de su voluntad es que lleguemos a comprender que Dios (Cristo Jesús hombre) se dio a sí mismo para rescatarnos a todos. Filipenses 2:7; Romanos 15:3; 1 Corintios 15:3; Gálatas 1:4; Hebreos 7:27.
+
+#### Este pasaje nos expresa que el rescate realizado por medio de él, fue por hecho para toda la humanidad. 1 Juan 2:2, 2 Corintios 5:15.
+
+
+
+### 
 
 ### 1 Timoteo 2:6b "*testimonio dado a su debido tiempo...*" La plabra testimonio es [MARTURION], que es donde viene nuestra palabra martir. 
 
