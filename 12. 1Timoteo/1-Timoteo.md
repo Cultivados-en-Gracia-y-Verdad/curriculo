@@ -1042,15 +1042,27 @@ aTitle: 1 Timoteo
 
 ## 1 Timoteo 2: 9-15 En base a la voluntad de Dios, Pablo desea una vida piadosa a las Mujeres creyentes. 
 
-### 1 Timoteo 2:9a "*Asimismo, que las mujeres se vistan...*" Después de hablar del actuar de los hombres en adoración pública, ahora Pablo se dirige a las hermanas. 
+### 1 Timoteo 2:9 "*Asimismo, que las mujeres se vistan con ropa decorosa, con pudor y modestia, no con peinado ostentoso, no con oro, o perlas, o vestidos costosos,*" Después de hablar del actuar de los hombres en la adoración pública, ahora Pablo se dirige a las mujeres creyentes que profesan piedad al mundo. 
 
-### 1 Timoteo 2:9b "*con ropa decorosa con pudor y modestia no con peinado ostentoso no con oro, o perlas, o vestidos costosos...*" Pablo no esta sugiriendo vestirse mal o de mal aspecto. Esto seria el mismo error de atraer atención a uno mismo.  1 Pedro 3:5
+### 1 Timoteo 2:9a "*Asimismo, que las mujeres se vistan con ropa decorosa,...*" Podemos ver que había un problema con la expresión  piadosa de la mujer y la manera de expresarse al mundo.
 
-#### La idea aquí es que las mujeres que entiendan como se manifiesta verdadera  piedad.  
+#### Podría verse de dos puntos de vista, vestirse totalmente sin decoro, para mostrar una falsa piedad, o estar completamente enfocada a la vestimenta ostentosa.
 
-### 1 Timoteo 2:10 "*sino con buenas obras, como corresponde a las mujeres que profesan la piedad...*" Las mujeres vestidas de buenas obras es palpable y alinea correctamente con lo que profesan. 
+### 1 Timoteo 2:9b "*...con pudor y modestia...*"La manera correcta nos muestra que no es enfocada a lo visible, sino modestamente, con la vestimenta apropiada a cada contexto de población. 
 
-#### La religiósidad invita a la piedad aunque fingida. La Palabra nos enseña que la piedad sea un resultado de la verdad y sin fingimiento. Romanos 12:9-10 
+### 1 Timoteo 2:9c "*...no con peinado ostentoso,...*Literalmente con trenzas, vemos que la manera de realización de trenzas requería bastante tiempo y era enfocado en la expresión ostentosa y presuntuosa del peinado.
+
+### 1 Timoteo 2:9d " *...no con oro,o perlas,...*" Los accesorios valiosos de materiales caros eran el adorno externo visible de las mujeres con mucho valor y estatus, sin embargo menciona que ese no sea el foco principal de la mujer en su expresión pública.
+
+### 1 Timoteo 2:9e "...*o vestidos costosos...*" Los vestidos costosos eran elaborados y diseñados por personas dedicadas al corte, confección y moda, demostrando visiblemente el adorno de la mujer en la ropa y prendas de vestir.
+
+#### Sin embargo Pablo no esta sugiriendo vestirse mal o andrajosamente, sino que era diferente el enfoque principal de expresión pública de una mujer piadosa. 1 Pedro 3:3-5.
+
+#### La idea central de este pasaje es que las mujeres creyentes entiendan que la piedad no se manifiesta en algo externamente visible. 
+
+### 1 Timoteo 2:10 "*sino con buenas obras, como corresponde a las mujeres que profesan la piedad.*" Las mujeres vestidas de buenas obras es palpable y alinea correctamente con lo que profesan. 
+
+#### La religiosidad invita a la piedad aunque fingida. La Palabra nos enseña que la piedad sea un resultado de la verdad y sin fingimiento. Romanos 12:9-10 
 
 #### La siguiente lista de obras son manifestaciones de piedad. Es contrario a la cultura y es contrario a la naturaleza humana pero es impactante dentro de cualquier cultura y poderoso para avanzar la voluntad de Dios. 1 Timoteo 2:4-6
 
