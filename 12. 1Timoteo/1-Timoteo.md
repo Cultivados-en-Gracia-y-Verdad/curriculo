@@ -1122,7 +1122,7 @@ aTitle: 1 Timoteo
 
 ### 1 Timoteo 3:2a "*Un obispo* [EPISCOPOS] *debe ser, pues...*" Las condiciones para ancianos no son sugerencias que deben tratarse de cumplir. Son requisitos que tienen que ser cumplidos en todo momento y en plenitud. 
 
-### 1 Timoteo 3:2b "*irreprochable...*" [ANEPILEPTOS] es sin crítica.
+### 1 Timoteo 3:2b "*irreprochable...*" [ANEPILEPTOS] es sin crítica. Se refiere a que el creyente debe estar libre de cualquier crítica justifica delante de los de la iglesia. Esto tambien incluye el hecho de estar libre de cualquier cargo legal. Tito 1:6-7
 
 ### 1 Timoteo 3:2c "*marido de una sola mujer...*" El lider de la iglesia, si esta casado, debe ser marido de una sola mujer.
 
@@ -1130,7 +1130,7 @@ aTitle: 1 Timoteo
 
 #### Por el requisito observado encontramos que este rol dentro de la iglesia es exclusivamente para varones creyentes.
 
-### 1 Timoteo 3:2d "*sobrio*..." [NEFALIOS] quiere decir que es sobrio
+### 1 Timoteo 3:2d "*sobrio*..." [NEFALIOS] quiere decir tambien templado, moderado. La palabra da el significado directo a una persona libre de vino. También, podria referirse a un creyente libre de un estado mental libre del control de las pasiones y lujuria 
 
 ### 1 Timoteo 3:2e "*prudente...*" [SOFRONE] quiere decir moderado. 
 
