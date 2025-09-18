@@ -964,11 +964,23 @@ aTitle: 1 Timoteo
 
 #### Una traducción mas literal nos da a entender mejor el significado de testimonio. *El cual se dio a sí mismo en rescate por todos, Cuyo testimonio fue dado en sus propios tiempos.*(BTX4)
 
-#### El testimonio de Jesucristo es la obra que el hizo por nosotros en la Cruz, este es testimonio que los creyentes confirman.1 Corintios 1:6, 2 Tesalonicenses 1:10, 1 Timoteo 2:6,  2 Timoteo 1:8, Apocalipsis 1:2.
+#### El testimonio de Jesucristo es la obra que el hizo por nosotros en la Cruz, este es el testimonio que los creyentes confirman.1 Corintios 1:6, 2 Tesalonicenses 1:10, 1 Timoteo 2:6,  2 Timoteo 1:8, Apocalipsis 1:2.
 
-### 1 Timoteo 2:7a "*Y para esto yo fui constituido predicador y apóstol, (digo la verdad en Cristo, no miento)...*" ahora Pablo es constituido, según la voluntad de Dios, como predicador de estos hechos. 
+### 1 Timoteo 2:7 *Y para esto yo fui constituido predicador y apóstol, (digo la verdad en Cristo, no miento), como maestro de los gentiles en fe y verdad.* 
 
-### 1 Timoteo 2:7b "*como maestro de los gentiles en fe y verdad...*" Dios estableció a Pablo como maestro para enseñar el pleno conocimiento de la verdad. 
+#### El apóstol pablo hace una afirmación con respecto al propósito de enseñar a los creyentes los misterios concernientes a la iglesia y la vida de piedad entre los hermanos.
+
+### 1 Timoteo 2:7a "*Y para esto yo fui constituido predicador y apóstol,*
+
+#### Al apóstol Pablo se le concedió esta gracia con un rol importante para la iglesia. Efesios 3:8; 1 Timoteo 1:11; 2 Timoteo 1:11.
+
+#### La palabra predicador [KERUX] puede ser también expresada como pregonero o heraldo, alguien que primeramente va anunciando un mensaje.
+
+#### Podemos ver en la mayoría de sus cartas que expresa su apostolado encomendado por Jesucristo mismo, y con esa autoridad escribe a las iglesias.
+
+### 1 Timoteo 2:7b *(digo la verdad en Cristo, no miento)...*" Nos llama la atención afirmar la verdad en Cristo, delante de el como testigo de estos hechos.
+
+### 1 Timoteo 2:7c "*como maestro de los gentiles en fe y verdad...*" Dios estableció a Pablo como maestro para enseñar el pleno conocimiento de la verdad. Hechos 9:15.
 
 ## En base a la voluntad de Dios, Pablo desea una vida piadosa
 
