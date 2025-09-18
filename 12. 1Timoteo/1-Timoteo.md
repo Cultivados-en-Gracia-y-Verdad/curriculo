@@ -272,7 +272,13 @@ aTitle: 1 Timoteo
 
 ### Representación universal:
 
-#### Efesios 1:22-23 "*Y todo lo sometió bajo Sus pies, y a Él lo dio por cabeza sobre todas las cosas a **la iglesia, la cual es Su cuerpo,** la plenitud de Aquel que lo llena todo en todo. *"
+### Al momento en creer en el Señor Jesucristo uno llega a formar parte de la iglesia universal de Dios, llega a ser un miembro del cuerpo de Cristo en cualquier lugar que se encuentre. Efesios 2:18
+
+#### 1 Corintios 6:15a "*¿No saben que sus cuerpos son miembros de Cristo?*"
+
+#### 1Corintios 6:19  "*¿O no saben que su cuerpo es templo del Espíritu Santo que está en ustedes, el cual tienen de Dios, y que ustedes no se pertenecen a sí mismos?*"
+
+#### Efesios 1:22-23 "*Y todo lo sometió bajo Sus pies, y a Él lo dio por cabeza sobre todas las cosas a **la iglesia, la cual es Su cuerpo,** la plenitud de Aquel que lo llena todo en todo.*"
 
 #### Efesios 2:15 "*...para crear en Él [Cristo] mismo de los dos un **nuevo hombre**, estableciendo así la paz,*"
 
