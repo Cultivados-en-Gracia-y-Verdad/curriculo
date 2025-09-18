@@ -982,43 +982,47 @@ aTitle: 1 Timoteo
 
 ### 1 Timoteo 2:7c "*como maestro de los gentiles en fe y verdad...*" Dios estableció a Pablo como maestro para enseñar el pleno conocimiento de la verdad. Hechos 9:15.
 
-## En base a la voluntad de Dios, Pablo desea una vida piadosa
+## 1 Timoteo 2:8 En base a la voluntad de Dios, Pablo desea una vida piadosa a los Hombres creyentes. 
 
-### la piedad ha llegado a tener una mala conotación en nuestra generación. Queremos aclarar que obras de piedad no salvan a nadie. 
+### La vida piadosa ha llegado a tener una mala fama en esta generación torcida y perversa.
 
-### La religiónes del mundo exigen piedad para salvación. Esto no es lo que enseña la Biblia. 
+### Podemos ver que las religiones en el mundo instan a formar piedad para ganar de alguna manera la salvación, sin embargo no vemos esto en la Biblia. 
 
-### Pero nunca queremos llegar a concluir que la verdadera piedad producida por el amor de Cristo en nosotros es innecesario o sin valor. 
+### Entendemos que no somos salvos por una conducta u obras piadosas sino únicamente por medio de la fe en el evangelio. 
 
-### La piedad es algo que agrada a Dios y sirve como medio para el alcance del mundo perdido. Son hechos palpables, externos que el mundo puedo observar. 
+### La vida piadosa en el creyente es un resultado de Cristo en nosotros y es de mucho valor ante Dios y ante los hombres que pueden observar esto y estar dispuestos a escuchar este mensaje de salvación. 
 
-### 1 Timoteo 2:8a "*Por tanto, quiero que en todo lugar...*" Entones, a la luz de lo que hemos visto en los versículos anteriores, Pablo expresa su deseo que todos en todo lugar puedan participar. 
+### 1 Timoteo 2:8 ''*Por tanto, quiero que en todo lugar los hombres oren levantando manos santas, sin ira ni discusiones.*'' El deseo Pablo es que el creyente en cualquier lugar exprese una actitud santa demostrando el carácter propio de un hombre de piedad.
 
-#### El deseo de Pablo es que todo creyente en todo lugar participe. 
+### 1 Timoteo 2:8a "*Por tanto, quiero que en todo lugar...*" 
 
-#### El propósito de Pablo parece ser que en todo lugar se refiere a cada iglesia local cuando se reune. 
+#### El deseo de Pablo es que todo creyente en todo lugar manifieste lo que ya es en Cristo, sea en las iglesias o en todas partes.  1 Corintios 1:2; 2 Corintios 2:14; 1 Tesalonicenses 1:8.
 
-### 1 Timoteo 2:8b "*los hombres oren levantando manos santas sin ira ni discusiones...*" Esto es una expresión externa y es con el propósito de mostrar piedad. 
+### 1 Timoteo 2:8b "...*los hombres oren levantando manos santas*,..."
 
 #### En ciertas culturas, la oración era frecuentemente delegado a otros. Especialmente a las mujeres.[^10]
 
-#### Pablo manda a los hombres en todo lugar a que oren. 
+#### Pablo manda a los hombres creyentes en todo lugar a estén orando. 
 
-#### Manos santas levantadas puede tener varios significados. Siempre está en el contexto de oración y adoración:
+#### Las manos santas levantadas puede tener varios significados. Siempre está en el contexto de oración y adoración:
 
 ##### Habla de adoración en los Salmos. Salmo 26:6, 28:2, 63:4, 88:9, 141:2
 
-##### Habla de una postura de reverencia. Nehemias 8:6
+##### Habla de una postura de reverencia. Nehemías 8:6
 
 ##### Habla de un corazón libre de enojo y disputa. Job 16:17
 
 ##### Habla de un corazón puro y consciencia limpia ante Dios. Salmo 24:4; Job 17:9; Santiago 4:8 
 
-#### la ira y las discusiones no deben representarnos como creyentes. Al parecer había ira y discusiones en la iglesia por la enseñanza desviada. 
+### 1 Timoteo 2:8c "*...sin ira ni discusiones.*" Esto es una expresión externa  y es con el propósito de mostrar piedad, resultado de Cristo en nosotros. 
 
-##### Ira es la palabra ORGE significa furia — un sentimiento de ira intensa que no desaparece; a menudo en una escala épica.[^9] Efesios 4:31
+#### La ira y las discusiones no deben representarnos como creyentes, considerando el contexto la ira y discusiones en la iglesia era notoria debido a una enseñanza desviada de la verdad piadosa en Cristo. 
 
-##### Discusiones es la palabra DIALOGISMOS es debate — discusión en la que se exponen razones a favor y en contra de alguna proposición o propuesta.[^9]  Colosenses 3:8
+##### La palabra *ira*  [ORGE] significa furia — un sentimiento de ira intensa que no desaparece; a menudo en una escala épica.[^9] Efesios 4:31.
+
+##### La palabra *discusiones* [DIALOGISMOS] es debate — discusión en la que se exponen razones a favor y en contra de alguna proposición o propuesta.[^9]  Colosenses 3:8
+
+## 1 Timoteo 2: 9-15 En base a la voluntad de Dios, Pablo desea una vida piadosa a las Mujeres creyentes. 
 
 ### 1 Timoteo 2:9a "*Asimismo, que las mujeres se vistan...*" Después de hablar del actuar de los hombres en adoración pública, ahora Pablo se dirige a las hermanas. 
 
