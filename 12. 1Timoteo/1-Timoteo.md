@@ -194,7 +194,7 @@ Title: 1 Timoteo
 
 ## Funcionamiento y vigencia de la iglesia
 
-### Toda casa tiene su propietario, 
+### Toda casa tiene su propietario,1 Timoteo 3:5 dice, "*(pues si un hombre no sabe cómo gobernar su propia casa, ¿cómo podrá cuidar de la iglesia de Dios*?).",  la iglesia es la casa del Dios vivo y tiene su propio orden y gobierno 1 Timoteo 3:15.
 
 ## ¿Llamada de donde?
 
