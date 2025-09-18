@@ -870,17 +870,21 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 2:5a "*Porque hay un solo Dios*..." Un pleno conocimiento de la verdad empieza por saber que hay un solo Dios. Hechos 14:15.
 
-### 1 Timoteo 2:5b "...*y también un solo Mediador entre Dios y los hombres...*" Un entendimiento pleno de la verdad es que existe un solo mediador entre Dios y el hombre y es el único. Hebreos 8:6, 9:15.
+### 1 Timoteo 2:5b "...*y también un solo Mediador entre Dios y los hombres...*" Un entendimiento pleno de la verdad es que existe un solo mediador entre Dios y el hombre. Hebreos 8:6, 9:15.
 
 #### Jesús afirma que no existe otro medio para ir al Padre. Juan 14:6.
 
-### 1 Timoteo 2:5c "*Cristo Jesús hombre...*" el único y solo mediador es Cristo [Dios] Jesús el hombre. Marcos 14:62.
+#### El es nuestro único intercesor ante el Padre. Romanos 8:34.
 
-#### El es nuestro único intercesor ante el padre. Romanos 8:34.
+### 1 Timoteo 2:5c "*Cristo Jesús hombre...*" el único y solo mediador es Cristo Jesús el hombre (Completamente humano). 
+
+#### Cuando Jesús hablaba se presentaba como el hijo del hombre expresando su naturaleza humana y profecía con respecto al mesías venidero. Marcos 14:62.
 
 #### Es importante mencionar la humanidad de Jesucristo, esto es debido a que muchos solo creían que es Dios pero no era completamente humano.
 
 #### Sin embargo vemos una línea de sangre real (Humana) desde David, cumpliendo así las promesas hechas en el antiguo testamento a David y a Judá. Mateo 1:1; Romanos 1:3.
+
+#### Jesucristo-Hombre es el único que podría sustituirnos de manera perfecta, hebreos nos aclara que la sangre de toros no era un sustituto adecuado. Hebreos 10:4-14.
 
 ### 1 Timoteo 2:6 "*quien se dio a sí mismo en rescate por todos, testimonio dado a su debido tiempo.*" 
 
