@@ -1514,23 +1514,29 @@ Sin embargo, Pablo llama a Timoteo a ser ejemplo en su conducta no maestro en la
 
 ### 1 Timoteo 4:14a "*No descuides el don espiritual que está en ti*" ¿Cual era el don de Timoteo? Hay indicaciones que era el de evangelista. En el contexto inmediato, entenderiamos ese don a ser uno de enseñanza. 
 
+#### Don [CARISMA]
+
 ### 1 Timoteo 4:14b "*que te fue conferido por medio de la profecía con la imposición de manos del presbiterio*". No fué el presbiterio que le dieron el don. Ellos simplemente lo encomendaron al ministerio, haciendo publico su don, 
 
 ### 1 Timoteo 4:15a "*Reflexiona sobre estas cosas;"* ¿Porque tendría que pensar en la seriedad de su llamado? ¿Estaba pensando jubilarse del ministerio?
 
-### 1 Timoteo 4:15b "*dedícate a ellas,*"
+### 1 Timoteo 4:15b "*dedícate a ellas,*" las cosas de las cuales Timoteo debía ser ejemplo. 
 
-### 1 Timoteo 4:15c "*para que tu aprovechamiento sea evidente a todos*".
+### 1 Timoteo 4:15c "*para que tu aprovechamiento sea evidente a todos*". Ser ejemplo se trata más de un efoque de quien uno es y no en lo que piensen los demás. Timoteo debía dejar que su ejemplo sea evidente a los demás. 
 
-### 1 Timoteo 4:16a "*Ten cuidado de ti mismo y de la enseñanza*".
+#### aprovechamiento [PROKOPE] mejora o crecimiento o desarrollo gradual.
 
-### 1 Timoteo 4:16b "*Persevera en estas cosas*",
+### 1 Timoteo 4:16a "*Ten cuidado de ti mismo y de la enseñanza*". Timoteo debía cuidarse primeramente y de su enseñanza. 
 
-### 1 Timoteo 4:16c "*porque haciéndolo asegurarás la salvación*"
+### 1 Timoteo 4:16b "*Persevera en estas cosas*", Debia continuar pacientemente.
 
-### 1 Timoteo 4:16d "*tanto para ti mismo*"
+#### "*Persevera*" [EPIMENO] - continuar un determinado estado, condición o actividad.
 
-### 1 Timoteo 4:16e "*como para los que te escuchan*".
+### 1 Timoteo 4:16c "*porque haciéndolo asegurarás la salvación*" ¿Porque continuar? Porque el provecho vendría de Dios. 
+
+### 1 Timoteo 4:16d "*tanto para ti mismo*" Seria bueno para Timoteo
+
+### 1 Timoteo 4:16e "*como para los que te escuchan*". Y también para la congregación
 
 ## En Síntesis (1 Timoteo 4:6-16)
 
@@ -1562,23 +1568,23 @@ Sin embargo, Pablo llama a Timoteo a ser ejemplo en su conducta no maestro en la
 
 ## Los ancianos
 
-### 1 Timoteo 5:1a "*No reprendas con dureza al anciano, sino, más bien, exhórtalo como a padre;*"
+### 1 Timoteo 5:1a "*No reprendas con dureza al anciano, sino, más bien, exhórtalo como a padre;*" El trato de los mayores en la iglesia debe ser siempre con respeto y dignidad. Los hermanos mayores en la iglesia son considerados como padres.
 
 ## Los jóvenes
 
-### 1 Timoteo 5:1b "*a los más jóvenes, como a hermanos,*"
+### 1 Timoteo 5:1b "*a los más jóvenes, como a hermanos,*" Los jóvenes son considerados como hermanos de sangre.
 
 ## Las ancianas
 
-### 1 Timoteo 5:2a  "*a las ancianas, como a madres;*"
+### 1 Timoteo 5:2a  "*a las ancianas, como a madres;*" Ancianas deben ser vistos como madres. 
 
 ## Las jóvenes
 
-### 1 Timoteo 5:2b "*a las más jóvenes, como a hermanas, con toda pureza*".
+### 1 Timoteo 5:2b "*a las más jóvenes, como a hermanas, con toda pureza*". Las hermanas jóvenes son tratadas como hermanas de sangre.
 
 ## Las Viudas
 
-### 1 Timoteo 5:3 "*Honra a las viudas que en verdad son viudas*".
+### 1 Timoteo 5:3 "*Honra a las viudas que en verdad son viudas*". a Las viudas se extiende honor. 
 
 ### 1 Timoteo 5:4a "*Pero si alguna viuda tiene hijos o nietos*",
 
