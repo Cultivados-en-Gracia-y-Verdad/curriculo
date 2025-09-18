@@ -198,6 +198,18 @@ aTitle: 1 Timoteo
 
 ## Funcionamiento y vigencia de la iglesia
 
+### Toda casa tiene su propietario,1 Timoteo 3:5 dice, "*(pues si un hombre no sabe cómo gobernar su propia casa, ¿cómo podrá cuidar de la iglesia de Dios*?).",  la iglesia es la casa del Dios vivo y tiene su propio orden y gobierno 1 Timoteo 3:15.
+
+### Y en ésta casa, que es la iglesia, Dios estableció su propio orden, Efesios 5:23b "*... Cristo es cabeza de la iglesia, siendo El mismo Salvador del cuerpo.*"
+
+### Colosenses 1:18 “*Él es también la cabeza del cuerpo que es la iglesia. Él es el principio, el primogénito de entre los muertos, a fin de que Él tenga en todo la primacía.*”
+
+###  Podemos encontrar 12 pasajes bíblicos de la iglesia haciendo mención de pertenencia a Dios, “**la iglesia de Dios**” 1 Corintios 1:2; 1 Corintios 10:32; 1 Corintios 11:22; 1 Corintios 11:16; 1 Corintios 15:9; 2 Corintios 1:1; Gálatas 1:13; 1 Tesalonicenses 1:1; 1Tesalonicenses 2:14; 2 Tesalonicenses 1:1; 2 Tesalonicenses 1:4; 1 Timoteo 3:5; 1 Timoteo 3:15.
+
+### Existe una sola mención de la iglesia como “iglesia de Cristo” Romanos 16:16.
+
+### Pero eso no significa que la iglesia no pertenece a Cristo, ya que el mismo dijo en Mateo 16:18 “*…edificaré **Mi iglesia**; y las puertas del Hades no prevalecerán contra ella.*”
+
 ## ¿Llamada de donde?
 
 #### 2 Timoteo 1:9 "*Él nos ha salvado y nos ha llamado con un llamamiento santo, no según nuestras obras, sino según Su propósito y según la gracia que nos fue dada en Cristo Jesús desde la eternidad*"
