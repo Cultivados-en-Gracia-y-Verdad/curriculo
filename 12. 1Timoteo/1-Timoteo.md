@@ -1636,17 +1636,25 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 Saber como debe ser el andar del creyente en cualquier circunstancia es provechoso. Saber como se logra vivir piadosamente también es absolutamente esencial. 
 
-### 1 Timoteo 6:3f "*Si alguien enseña una doctrina diferente...*" una doctrina que difiere 
+### 1 Timoteo 6:3f "*Si alguien enseña una doctrina diferente y no se conforma a las sanas palabras...*" una doctrina que difiere de las sanas palabras. 
 
-### 1 Timoteo 6:3g "*y no se conforma a las sanas palabras,*"
+Aquí Pablo usa un término interesante, palabras "*sanas*" [HUGIAINO] -  ser correcto o preciso, concebido como estar libre de enfermedad o dolencia. Sanas (participio presente activo) da a entender que son palabras libres de enfermedad o dolencia, son saludables. El participio hace entender que sana describe una acción. Son palabra sanadoras. 
 
-### 1 Timoteo 6:3h "*las de nuestro Señor Jesucristo,*"
+### 1 Timoteo 6:3h "*las de nuestro Señor Jesucristo, y a la doctrina que es conforme a la piedad,*" Las palabras sanadoras de nuestro Señor Jesucristo, dice Pablo, es enseñanza que va conforme o lleva a la piedad. 
 
-### 1 Timoteo 6:3i "*y a la doctrina que es conforme a la piedad,*"
+Si alguien no esta de acuerdo y no enseña la misma enseñanza, es decir, estando de acuerdo con la palabra de Jesucristo y conforme a la piedad, debe saber algunas cosas importantes... 
 
-### 1 Timoteo 6:4a "*está envanecido y nada entiende,*"
+### 1 Timoteo 6:4a "*está envanecido y nada entiende,*" 
 
-### 1 Timoteo 6:4b "*sino que tiene un interés corrompido*"
+"*Envanecido*" [TYFOOMAI] - estar o llegar a estar engañado acerca de la realidad que le concierne a uno mismo, especialmente acerca de la propia inteligencia o superioridad; concebido como estar cubierto de nubes o vapor de modo que no se puede ver con claridad.[^9]
+
+"*Nada entiende*" [SYNEIMI] - conocer y comprender la naturaleza o el significado.[^9]
+
+Primero, esta envanecido, o engañado acerca de la realidad. Segundo, nada entiende. 
+
+### 1 Timoteo 6:4b "*sino que tiene un interés corrompido*" Tercero, tiene un interés incorrecto. 
+
+"*corrompido*" [NOSEO] - estar languideciendo por un deseo insatisfecho; concebido como estar físicamente enfermo por falta de satisfacción.[^9]
 
 ### 1 Timoteo 6:4c "*en discusione*"
 
