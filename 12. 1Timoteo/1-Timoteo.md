@@ -210,6 +210,16 @@ aTitle: 1 Timoteo
 
 ### Pero eso no significa que la iglesia no pertenece a Cristo, ya que el mismo dijo en Mateo 16:18 “*…edificaré **Mi iglesia**; y las puertas del Hades no prevalecerán contra ella.*”
 
+#### Claramente la palabra Mi iglesia le da el sentido de pertenencia al mismo Señor Jesucristo, ya que el mismo dio su vida por ella, para rescatarla y purificarla Efesio 5:24
+
+#### Efesios 5:25 “*…así como Cristo amó a la iglesia y se dio Él mismo por ella,*”
+
+#### Cristo en la cruz no solo nos rescató de la condena del pecado, sino que Él se dio por la iglesia con un propósito Efesios 5:26 “*para santificarla, habiéndola purificado por el lavamiento del agua con la palabra, *”.
+
+#### Efesios 5:27 a fin de presentársela a sí mismo, una iglesia en toda su gloria, sin que tenga mancha ni arruga ni cosa semejante, sino que fuera santa e inmaculada.
+
+### En Hechos 20:28 podemos encontrar que Dios compro la iglesia, mostrando claramente la deidad de Cristo, ya que dice, la compró con Su propia sangre. 
+
 ## ¿Llamada de donde?
 
 #### 2 Timoteo 1:9 "*Él nos ha salvado y nos ha llamado con un llamamiento santo, no según nuestras obras, sino según Su propósito y según la gracia que nos fue dada en Cristo Jesús desde la eternidad*"
