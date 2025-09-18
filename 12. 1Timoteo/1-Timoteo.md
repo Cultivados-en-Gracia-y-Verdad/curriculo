@@ -890,7 +890,9 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 2:6a "*quien se dio a sí mismo en rescate por todos*" Un entendimiento pleno de su voluntad es que lleguemos a comprender que Dios (Cristo Jesús hombre) se dio a sí mismo para rescatarnos a todos. Filipenses 2:7; Romanos 15:3; 1 Corintios 15:3; Gálatas 1:4; Hebreos 7:27.
 
-### 1 Timoteo 2:6b "*testimonio dado a su debido tiempo...*" La plabra testimonio es MARTURION, que es donde viene nuestra palabra martir. 
+#### Este pasaje nos expresa que el rescate realizado por medio de él, fue por hecho para toda la humanidad. 1 Juan 2:2, 2 Corintios 5:15.
+
+### 1 Timoteo 2:6b "*testimonio dado a su debido tiempo...*" La palabra testimonio es MARTURION, que es donde viene nuestra palabra martir. 
 
 #### Según el Diccionario de la Lengua Española, "Un martir es una persona que muere o sufre grandes padecimientos en defensa de sus creencias o convicciones". 
 
