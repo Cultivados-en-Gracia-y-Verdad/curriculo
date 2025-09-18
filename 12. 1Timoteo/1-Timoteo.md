@@ -704,7 +704,7 @@ aTitle: 1 Timoteo
 
 ## 1 Timoteo 2:1-4 Orando juntos por la paz para llevar el Evangelio
 
-### 1 Timoteo 2:1a "*Exhorto, pues,*"...La palabra exhortar [parakaléo] expresa la intención de orar, alentar, amonestar y animar. 
+### 1 Timoteo 2:1a "*Exhorto, pues,*"...La palabra exhortar [PARAKALEO] expresa la intención de orar, alentar, amonestar y animar. 
 
 ### 1 Timoteo 2:1b "*ante todo*"... habla enfáticamente de colocar como una prioridad esta instrucción.
 
@@ -762,23 +762,23 @@ aTitle: 1 Timoteo
 
 #### Un aspecto de la soberanía de Dios es: lo que el quiere lo puede hacer, sin embargo no vemos que todos los hombres sean salvos y vengan al conocimiento de la verdad, ¿que paso?, este pasaje nos aclarará mas detalles acerca de la voluntad de Dios y  el deseo que tiene por la humanidad.
 
-la voluntad de Dios no debe confundirse con la soberanía de Dios
+##### la voluntad de Dios no debe confundirse con la soberanía de Dios
 
-que es lo que Dios quiere Vs que es lo que Dios se propone Hacer
+##### que es lo que Dios quiere Vs que es lo que Dios se propone Hacer
 
-Lo que DIos quiere es que todos los hombres sean salvos (Deseo, anhelo, Voluntad)
+##### Lo que DIos quiere es que todos los hombres sean salvos (Deseo, anhelo, Voluntad)
 
-El no quiere que sean salvos obligadamente, sinó de manera libre.
+##### El no quiere que sean salvos obligadamente, sinó de manera libre.
 
-Todo lo que Dios se propone hacer lo hace (Hizo posible la salvación por fe), vemos en la creación este aspecto de la soberanía y el deseo de Dios.
+##### Todo lo que Dios se propone hacer lo hace (Hizo posible la salvación por fe), vemos en la creación este aspecto de la soberanía y el deseo de Dios.
 
 ### 1 Timoteo 2:4b "*que todos los hombres sean salvos*..." El primer aspecto de la voluntad de Dios es
 
-La pregunta es como Dios quiere que los hombres sean salvos?
+#### La pregunta es como Dios quiere que los hombres sean salvos?
 
-el quiere que sean salvos por medio de la fe, por medio de creer en el evangelio.
+#### el quiere que sean salvos por medio de la fe, por medio de creer en el evangelio.
 
-por medio de anunciar las buenas noticias a todas las personas y crean en el mensaje de Jesucristo.
+#### por medio de anunciar las buenas noticias a todas las personas y crean en el mensaje de Jesucristo.
 
 ###  Lo primero que Dios quiere es que todos los hombres sean salvos. Esto debería ser suficiente motivación para que estemos buscando compartir el Evangelio con otros. Dios quiere salvarlos. 
 
