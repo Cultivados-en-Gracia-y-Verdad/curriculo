@@ -1355,6 +1355,8 @@ El misterio de la piedad es El (Cristo) en nosotros.
 
 ### 1 Timoteo 4:2b "*que tienen cauterizada la conciencia...*" Estos mentirosos tienen una consciencia insensible. 
 
+En el tiempo de Timoteo, prestar atención a mitos y genealogías interminables causó que 
+
 ### 1 Timoteo 4:3 "*Esos prohibirán casarse y mandarán abstenerse de algunos alimentos, que Dios los ha creado para que con acción de gracias participen de ellos los que creen y que han conocido la verdad...*"
 
 ### 1 Timoteo 4:4 "*Porque todo lo creado por Dios es bueno y nada se debe rechazar si se recibe con acción de gracias;*"
