@@ -860,7 +860,7 @@ Title: 1 Timoteo
 
 Exposición por que escuchar a pablo debido a que el es apóstol de Jesucristo.
 
-### 1 Timoteo 2:5a "*Porque hay un solo Dios*..." Un pleno conocimiento empieza por saber que hay un solo Dios y único. Hechos 14:15
+### 1 Timoteo 2:5a "*Porque hay un solo Dios*..." Un pleno conocimiento empieza por saber que hay un solo Dios y único y no hay ni uno solo mas. Hechos 14:15
 
 ### 1 Timoteo 2:5b "*y también un solo Mediador entre Dios y los hombres...*" Un pleno conocimiento de la verdad incluye que hay un solo mediador entre Dios y el hombre y es el único. Hebreos 8:6
 
