@@ -1675,13 +1675,29 @@ El crecimiento espiritual esta estrechamente ligado a crecer en el conocimiento 
 
 ### 1 Timoteo 5:22c "*guárdate libre de pecado.*"
 
-### 1 Timoteo 5:23 "*Ya no bebas agua sola, sino usa un poco de vino por causa de tu estómago y de tus frecuentes enfermedades.*"
+### 1 Timoteo 5:23 "*Ya no bebas agua sola, sino usa un poco de vino por causa de tu estómago y de tus frecuentes enfermedades.*" El mismo libro que enseña que los ancianos y diaconos no sean dados al vino, dice a Timoteo que tome vino ayudar sus frecuentes enfermedades. 
 
-### 1 Timoteo 5:24a "*Los pecados de algunos hombres ya son evidentes,*"
+#### Vale la pena mencionar que mientras que la borrachera y adiccion al alcohol es demarcado como prohibido, tomar bebidas alcohólicas no es. 
 
-### 1 Timoteo 5:24b "*yendo delante de ellos al juicio;*"
+#### Asi como muchas cosas en la vida que son buenas, pueden llegar a sernos daño si abusamos. 
 
-### 1 Timoteo 5:24c "*pero a otros, sus pecadoslos siguen.*"
+#### Por ejemplo, la sal es buena. La sal añade sabor a los alimentos. Pero mucha sal no solo da un mal sabor, es malo para la salud. En el caso de personas con hipertensión, la sal debe ser consumida medidamente. 
+
+Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alcohol en una bebida antes de beberla es necesario. 
+
+#### Similarmente con las bebidas alcohólicas. Si bien no esta mal tomar una bebida alcohólica, debe ser tratado responsablemente. Embriagarse por no medir la cantidad de bebida es pecado. Aquí Pablo enseña a Timoteo que tome vino para promover una mejor salúd. 
+
+#### Por ejemplo, en el caso de la presión baja, es provechoso tomar un vaso de vino que ayuda elevar la presión sanguínea. 
+
+#### Después del conocimiento sobre las bebidas alcohólicas y lo que se puede y no hacer, debemos tomar más consideraciones. Si un hermano tiene la convicción que no se debe tomar en absoluto, entonces no debo imponer mi punto de vista y por amor considerar que es mejor no participar en una bebida alcohólica. 
+
+### 1 Timoteo 5:24a "*Los pecados de algunos hombres ya son evidentes,*" Algunos ya manifestaban pecado en sus vidas como consecuencia inminente de falsa enseñanza. 
+
+#### Si los pecados de alguien son manifiéstos, es porque dejaron de caminar en comunión con el Señor y andaron según la carne y como resultado termina manifestandose en pecado evidente. Luego procederá la muerte como síntoma evidente de haber caminado influenciado por la carne. 
+
+### 1 Timoteo 5:24b "*yendo delante de ellos al juicio;*" El creyente que piensa que esta bien pecar no esta considerando que aunque el creyente ha sido salvo de la ira De Dios, si será juzgado. Seremos juzgados según la ley de la libertad. 
+
+### 1 Timoteo 5:24c "*pero a otros, sus pecados los siguen.*"
 
 ### 1 Timoteo 5:25a "*De la misma manera, las buenas obras son evidentes,*"
 
