@@ -860,15 +860,23 @@ Title: 1 Timoteo
 
 #### Dios no solo quiere que conozcamos teóricamente de el, sino que seamos plenamente capaces para comprender y discernir la verdad,  esa es su voluntad. Romanos 10:2, Colosenses 1:9-10, Efesios 1:16-18, 3:18-19.
 
-## 1 Timoteo 2:5-7 Dios - Jesus-hombre - Apostol pablo - Maestro a los gentiles
+## 1 Timoteo 2:5-7 Apóstol Pablo Maestro a los gentiles. 
 
-Exposición por que escuchar a pablo debido a que el es apóstol de Jesucristo.
+### Pablo explica su rol de apóstol y maestro en el evangelio.
 
-### 1 Timoteo 2:5a "*Porque hay un solo Dios*..." Un pleno conocimiento empieza por saber que hay un solo Dios y único y no hay ni uno solo mas y no hay otro como jehová. Hechos 14:15
+### 1 Timoteo 2:5a "*Porque hay un solo Dios*..." Un pleno conocimiento de la verdad empieza por saber que hay un solo Dios. Hechos 14:15.
 
-### 1 Timoteo 2:5b "*y también un solo Mediador entre Dios y los hombres...*" Un pleno conocimiento de la verdad incluye que hay un solo mediador entre Dios y el hombre y es el único. Hebreos 8:6
+### 1 Timoteo 2:5b "...*y también un solo Mediador entre Dios y los hombres...*" Un entendimiento pleno de la verdad es que existe un solo mediador entre Dios y el hombre y es el único. Hebreos 8:6, 9:15.
 
-### 1 Timoteo 2:5c "*Cristo Jesús hombre...*" el único y solo mediador es Cristo [Dios] Jesús el hombre. Marcos 14:62
+#### Jesús afirma que no existe otro medio para ir al Padre. Juan 14:6.
+
+### 1 Timoteo 2:5c "*Cristo Jesús hombre...*" el único y solo mediador es Cristo [Dios] Jesús el hombre. Marcos 14:62.
+
+#### El es nuestro único intercesor ante el padre. Romanos 8:34.
+
+#### Es importante mencionar la humanidad de Jesucristo, esto es debido a que muchos solo creían que es Dios pero no era completamente humano.
+
+#### Sin embargo vemos una línea de sangre real (Humana) desde David, cumpliendo así las promesas hechas en el antiguo testamento a David y a Judá. Mateo 1:1; Romanos 1:3.
 
 ### 1 Timoteo 2:6a "*quien se dio a sí mismo en rescate por todos...*" la voluntad de Dios es que se llegue a al pleno conocimiento de que Cristo se dio a si mismo para dar posibilidad de rescate a todos. Filipenses 2:7; Romanos 15:3; 1 Corintios 15:3; Gálatas 1:4; Hebreos 7:27
 
