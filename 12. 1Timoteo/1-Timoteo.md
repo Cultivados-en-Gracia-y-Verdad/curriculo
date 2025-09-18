@@ -252,9 +252,23 @@ aTitle: 1 Timoteo
 
 ### Representaciónes locales:
 
-#### 1 Corintios 1:2 "*a la iglesia de Dios que está **en Corinto**, a los que han sido santificados en Cristo Jesús, llamados a ser santos...*" 
+### Una iglesia local se considera desde el momento en que 2, 3 o más personas se reunen en el nombre del Señor Jesucristo con un proposito común. Mateo 18:20; Hechos 2:42.
 
-#### Romanos 1:7 "*A todos los amados de Dios que están **en Roma**, llamados a ser santos...*"
+#### 1 Corintios 1:2 "*a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cristo Jesús, llamados a ser santos, **con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo**, Señor de ellos y nuestro:*".
+
+### El proposito principal de la iglesia esta en la instrucción del Señor Jesucristo. (la Gran Comisión) Mateo 28:18-20. 
+
+#### Es verdad que cada miembro de la iglesia no debe descuidar la misión de anunciar y predicar el evangelio de la salvación. Marcos 16:15; Hechos 4:12.
+
+#### Pero una iglesia que no hace discipulos su fin es seguro, ya que no quedará nadie quien enseñe a guardar todas las cosas que el Señor Jesucristo ha enseñado. Mateo 25:20
+
+#### La iglesia debe persistir en continuar con la gran comisión y permanecer firmes en el evangelio, enseñando a los fieles de la iglesia a enseñar a otros fielmente la palabra de Dios 2 Timoteo 3:14-16
+
+#### 2 Timoteo 3:17 "*a fin de que el hombre de Dios sea perfecto, equipado para toda buena obra.*"
+
+#### 1 Corintios 1:2 "*a la iglesia de Dios que está **en Corinto**, a los que han sido santificados en Cristo Jesús, llamados a ser santos...*" Este llamado a ser santos es posible solamente a traves del verdadero conocimiento de la palabra de Dios
+
+#### Romanos 1:7 "*A todos los amados de Dios que están **en Roma**, llamados a ser santos...*" Es solo a traves del discipulado que un creyente puede ser guiado a la santidad diaria siendo enseñado en toda la escritura.
 
 ### Representación universal:
 
