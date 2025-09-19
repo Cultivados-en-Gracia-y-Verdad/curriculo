@@ -1498,13 +1498,13 @@ aTitle: 1 Timoteo
 
 # VIII. 1 Timoteo 4:1-16 -- Protección Contra la Apostasía
 
-### 1 Timoteo 4:1a "*El Espíritu dice claramente que en los últimos tiempos...*" Aquí Pablo transmite que el Espiritu Santo anunciaba que algo pasaría después de su partida. Hechos 20:17-38.
+### 1 Timoteo 4:1a "*El Espíritu dice claramente que en los últimos tiempos...*" Aquí Pablo transmite que el Espiritu Santo anunciaba que algo pasaría después de su partida. Hechos 20:17-38
 
-#### El verbo, dice esta en tiempo presente modo indicativo. Quiere decir que era un continuo avisar del Espíritu Santo que esto sucedería y que era un hecho seguro. 2 Timoteo 3:1
+#### El verbo "dice" esta en tiempo presente modo indicativo. Quiere decir que era un continuo avisar del Espíritu Santo que esto sucedería y que era un hecho seguro. 2 Timoteo 3:1
 
-###  Timoteo 4:1b "*algunos se apartarán de la fe...*" En los últimos tiempos será similar pero peor que los maestros que Timoteo estaba luchando. 1 Timoteo 1:3, 19, 6:10
+### 1 Timoteo 4:1b "*algunos se apartarán de la fe...*" En los últimos tiempos será similar pero peor que los maestros que Timoteo estaba luchando. 1 Timoteo 1:3, 19, 6:10
 
-#### apartarse [APHISTEMI] apartarse de. En un tiempo futuro algunos (como en el tiempo de Timoteo) se apartarán (modo indicativo) de la fe.  
+#### Apartarse [APHISTEMI] apartarse de. En un tiempo futuro algunos (como en el tiempo de Timoteo) se apartarán (modo indicativo) de la fe.  
 
 #### ¿Qué causará que se aparten de la fe? 
 
@@ -1516,7 +1516,7 @@ aTitle: 1 Timoteo
 
 #### En un tiempo futuro, "*algunos*", no todos se apartarán de la fe. Esto no se está refiriéndo a un día cuando todos se apartarían.
 
-##### Se apartarán de la fe, significa que son creyentes que se desvian de la fe entregada una vez por todas por los Apostoles. Judas 1:3 
+##### Se apartarán de la fe, significa que son creyentes que se desvian de la fe, la verdad enseñada por los Apostoles en Cristo. Judas 1:3 
 
 ##### Esto no es para crear una expectativa de cuando iría a suceder. Es para alertar de este peligro para que no tenga que suceder. Cualquier iglesia que presta atención a esta advertencia puede evitar que esto suceda. Judas 1:24-25
 
