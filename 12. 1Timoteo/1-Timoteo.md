@@ -1062,7 +1062,7 @@ Title: 1 Timoteo
 
 ##### La palabra *discusiones* [DIALOGISMOS] es debate — discusión en la que se exponen razones a favor y en contra de alguna proposición o propuesta.[^9]  Colosenses 3:8
 
-## 1 Timoteo 2: 9-15 En base a la voluntad de Dios, Pablo desea una vida piadosa a las Mujeres creyentes. 
+## 1 Timoteo 2:9-15 En base a la voluntad de Dios, Pablo desea una vida piadosa a las Mujeres creyentes. 
 
 ### 1 Timoteo 2:9 "*Asimismo, que las mujeres se vistan con ropa decorosa, con pudor y modestia, no con peinado ostentoso, no con oro, o perlas, o vestidos costosos,*" Después de hablar del actuar de los hombres en la adoración pública, ahora Pablo se dirige a las mujeres creyentes que profesan piedad al mundo. 
 
@@ -1094,7 +1094,7 @@ Title: 1 Timoteo
 
 #### La siguiente lista de obras son manifestaciones de piedad. Esta lista es completamente contraria a la cultura y a la naturaleza humana. La piedad en la vida de los creyentes tiene un mensaje poderoso que trasciende culturas y es conforme a la voluntad de Dios. 1 Timoteo 2:4-6
 
-## 1 Timoteo 2: 11-12 La mujer dentro de la congregación.
+## 1 Timoteo 2:11-12 La mujer dentro de la congregación.
 
 ### 1 Timoteo 2:11 "*Que la mujer aprenda calladamente, con toda obediencia.*" En el contexto cultural al que Pablo escribió esta carta, las mujeres no podían estudiar, sin embargo vemos el deseo de Pablo que las mujeres también puedan aprender en la congregación.
 
@@ -1105,8 +1105,6 @@ Title: 1 Timoteo
 #### Esto nos muestra que había libertad en las reuniones de iglesia para que las mujeres sean enseñadas en la verdad de igual manera que los varones. 
 
 #### Sin embargo, Pablo instruye que aprendan en silencio. Esto habla de que el enfoque principal estaba en el aprendizaje más que prohibición. Las mujeres no deben estar interrumpiendo en las reuniones, con el fin de que puedan escuchar la enseñanza. 1 Corintios 14:33-35, 40.
-
-#### En una cultura que las mujeres no podían ser enseñadas, era de esperarse que haya interrupciones constantes sin dejar avanzar la enseñanza. 
 
 ### 1 Timoteo 2:11b "...*con toda obediencia.*"
 
@@ -1132,31 +1130,69 @@ Title: 1 Timoteo
 
 #### Esto no significa que las mujeres no puedan superarse profesionalmente, o intelectualmente y progresar en diversas áreas de la vida, sino que estas instrucciones son dentro de la iglesia en el orden de autoridad que Dios estableció.
 
-### 1 Timoteo 2:12c *...sino que permanezca callada.*" Nuevamente Pablo instruye a las mujeres que permanezcan manteniendo silencio,
+#### Estas instrucciones hacia la mujer creyente no implican sea inferior en posición, o de menor valor ante Dios. 1 Pedro 3:7; Gálatas 3:28
 
-###  en la congregación. La manifestación visible de una mujer piadosa será visible en una actitud sumisa, contrastando con una actitud escandalosa.
+### 1 Timoteo 2:12c *...sino que permanezca callada.*" Nuevamente Pablo instruye a las mujeres que permanezcan manteniendo silencio en la congregación.
 
-### piedad y dignidad la mujer que voluntariamente permanece en silencio. Dios llama a las mujeres de esta postura y está incluido en esta lista de buenas obras. 
+#### En una cultura que las mujeres no podían ser enseñadas, era de esperarse que haya interrupciones constantes sin dejar avanzar la enseñanza. 
 
-#### Estas instrucciones no implican que la mujer sea inferior en posición o que tienen menos valor ante Dios. 1 Pedro 3:7; Gálatas 3:28
+#### Una actitud visible de una mujer que profesa piedad es el de es de permanecer en silencio, facilitando la comprensión y enseñanza dentro de la iglesia, esta postura está incluida dentro de lista de buenas obras. 
 
+## 1 Timoteo 2:13-15 Pablo da las razones por hacerlo de esta manera. 
 
+#### Pablo empezará a dar instrucciones concernientes a la creación expresando el por que una mujer debería sujetarse voluntariamente conforme al plan y orden elaborado de Dios desde la creación.
 
-## 1 Timoteo 2: 13-15 Pablo da las razones por hacerlo de esta manera. 
+#### Cabe recalcar que esto no es machista, o feminista, sino es un orden que Dios lo realizó desde mucho antes de la caída, cuando no había pecado en el mundo.
 
-### 1 Timoteo 2:13 "*Porque Adán fue creado primero, después Eva...*" El orden de Dios en la creación antes de la caida es simbólizado en la congregación. 
+#### En estos pasajes podemos ver el error de no obedecer el orden que Dios realizo para Adán y Eva. Adán falló en ser la cabeza  y obedecer a su mujer, y Eva falló en sujetarse a su cabeza.
 
-#### Adán fue creado primero y es cabeza. Eva fue creada para ser ayuda idónea para Adán. Cada uno tenía propósito individual y complementaron el uno al otro para cumplir el propósito de Dios.  
+#### Si ambos hubieran obedecido al orden de creación que Dios estableció, no hubieran transgredido ambos, este ejemplo de la caída usará Pablo  para explicar argumentos de sujeción en la iglesia.  
 
-### 1 Timoteo 2:14a "*Y Adán no fue el engañado, sino que la mujer...*" Las mujeres no deben ejercer autoridad sobre los hombres. 
+### 1 Timoteo 2:13 "*Porque Adán fue creado primero, después Eva.*" El orden que Dios hizo en la creación es simbolizado dentro de la congregación.
 
-#### ¿Porque no debe tomar autoridad sobre el hombre? Génesis 2:16-17
+#### Cada uno tenía propósito individual y complementaron el uno al otro para cumplir el propósito de Dios.  
 
-### 1 Timoteo 2:14b "*siendo engañada completamente...*"  Asi como Eva fué engañada por la serpiente, la mujer no debe tomar una posición de autoridad sobre el hombre. 
+#### Podemos ver este orden en la creación, Adán como cabeza y Eva como ayuda idónea.
 
-### 1 Timoteo 2:14c "*cayó en transgresión...*" Ella pecó siendo engañada. El pecó deliberadamente. Adán fue hecho responsable por el pecado que entró. Romanos 5:12
+### 1 Timoteo 2:13a "*Porque Adán fue creado primero,*..." 
 
-#### Claramente vemos el razonamiento es en base a diseño y no la cultura del día. El hombre ha sido diseñado por Dios con ciertas aptitudes y la mujer también. De la misma manera deben llevar diferentes roles en la congregación. Es complementario y no divisor. 
+#### Adán fue creado primero y es cabeza, esto conlleva responsabilidad sobre la creación. Génesis 2:7, 15-16, 19-20.
+
+#### Dios dio a Adán un mandato específico, y luego también se le exigió dar cuentas sobre esto. Génesis 2:16-17, Génesis 3:17.
+
+### 1 Timoteo 2:13b "*...después Eva.*"
+
+#### Eva fue creada después, para ser ayuda idónea para Adán. Génesis 2:18, 21-22.
+
+#### De acuerdo al orden de creación que Dios estableció la mujer no debe tomar autoridad (Ser cabeza) sobre el hombre.
+
+### 1 Timoteo 2:14 "*Y Adán no fue el engañado, sino que la mujer, siendo engañada completamente, cayó en transgresión.*"
+
+#### Eva pecó siendo engañada, sin embargo Adán pecó deliberadamente y fue hecho responsable por el pecado que entró al mundo. Romanos 5:12
+
+#### Este argumento que Pablo usa de la creación nos explicará el los roles que Dios planificó dentro de la congregación, el rol de la mujer piadosa  y el rol de responsabilidad sobre los hombres en la iglesia.
+
+### 1 Timoteo 2:14a "*Y Adán no fue el engañado,...*" 
+
+#### En este pasaje nos muestra que Adán no cayó en el engaño de la serpiente, sino el verdadero problema fue que obedeció a su mujer. Génesis 3:17.
+
+#### Se podría decir que Adán obedeció a la mujer en lugar de a Dios.
+
+### 1 Timoteo 2:14b "...*sino que la mujer, siendo engañada completamente...*"  
+
+#### Eva fue completamente engañada por la serpiente, sin embargo adán no.
+
+####  ¿Como podía la mujer (Eva) salvarse de ser engañada? Sujetarse voluntariamente a su cabeza (Adán).
+
+#### ¿Como Adán no podría caer en transgresión? obedecer completamente al mandato de Dios  y no obedecer a la voz de su mujer en lugar de Dios.
+
+#### Es justamente eso lo que Dios quería para Adán y Eva en el respectivo rol que tenían. Esta ilustración explica referente a los roles que la mujer y el varón tienen en la iglesia.
+
+### 1 Timoteo 2:14c "*cayó en transgresión...*" El resultado de la mujer siendo engañada fue la transgresión.
+
+#### Esta exposición de la caída nos muestra un ejemplo de como no fallar en base a los roles dados por Dios.
+
+#### La cultura en nuestros días insta a la igualdad de género también dentro de las congregaciones, sin embargo vemos en la escritura desde la creación, roles específicos para el hombre y para la mujer, no iguales, complementarios uno al otro.
 
 ### 1 Timoteo 2:15a "*Pero se salvará engendrando hijos...*"¿Será que la mujer puede ser salva por tener hijos? 
 
