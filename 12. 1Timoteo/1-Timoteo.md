@@ -2124,13 +2124,17 @@ La carta de Timoteo no es solo para líderes. La carta de Timoteo es para que to
 
 #### Entonces Pablo anima a estas mujeres a casarse, sin ser llevadas por sus deseos carnales, sino por medio de la instrucción nacida de un corazón puro. 1Timoteo 1:5
 
-### 1 Timoteo 5:14c "*que tengan hijos,*"
+### 1 Timoteo 5:14c "*que tengan hijos,*" habíamos visto que en la vida de una mujer que profesa piedad, ella es santificada teniendo hijos sujetos  con toda dignidad. 1 Timoteo 2:15; 1 Timoteo 3;4
 
-### 1 Timoteo 5:14d "*que cuiden su casa*"
+### 1 Timoteo 5:14d "*que cuiden su casa*" una mujer que esta al cuidado de su hogar se adorna y reluce sus mejores vestidos de buenas obras, y su valor es aún mayor que a las perlas preciosas. Proverbios 31:1
 
-### 1 Timoteo 5:14e "*y no den al adversario ocasión de reproche.*"
+### 1 Timoteo 5:14e "*y no den al adversario ocasión de reproche.*" El que una mujer se vista de buenas obras, hace que la palabra de Dios no sea blasfemada Tito 2:4-5
 
-### 1 Timoteo 5:15 "*Pues algunas ya se han apartado para seguir a Satanás.*"
+### 1 Timoteo 5:15 "*Pues algunas ya se han apartado para seguir a Satanás.*" Es lamentable esta realidad, ya que no es la voluntad de Dios que una mujer se aparte de su amor y provisión. 
+
+#### Cuando una mujer viuda es joven, fácilmente puede ser llevada por las vanas palabrerías, ya que ella misma va aprendiendo a estar ociosa, y esto llevarle a apartarse. 1 Timoteo 1:6
+
+#### Esto no debe ser así, ya que las mujeres viudas más jóvenes también pueden aprender de la sana doctrina, y del misterio de la piedad. Tito 2:3-4
 
 ### 1 Timoteo 5:16a "*Si alguna creyente tiene viudas en la familia, que las mantenga,*"
 
