@@ -1486,19 +1486,31 @@ Title: 1 Timoteo
 
 ## En Síntesis (1 Timoteo 3:14-16)
 
-### LAS OVEJAS EN LA IGLESIA (1 Timoteo 3:14-15): Pablo le dice a Timoteo que instruya a la congregación sobre cómo deben comportarse en la casa de Dios.
+### Pablo debía informar sobre algo muy importante a Timoteo y a las iglesias de efeso, por lo que escribio esta epistola. 1 Timoteo 3:14-15a
 
-### EL SALVADOR DE LA IGLESIA (1 Timoteo 3:16): En este versículo único y supremo, Pablo da un resumen séxtuple del ministerio terrenal de Jesús. Un. Apareció en un cuerpo. 1 Timoteo 3:16a
+#### ¿Qué necesitaban saber?
 
-### Fue vindicado por el Espíritu. 1 Timoteo 3:16b
+##### LAS OVEJAS EN LA IGLESIA (1 Timoteo 3:15b): Pablo escribio esta carta para que Timoteo y la congregación sepan cómo deben dirigirse cada uno en la casa (familia) de Dios.
 
-### Fue visto por ángeles. 1 Timoteo 3:16c
+##### La iglesia pertenece al único Dios, es Su casa, Su familia. 1 Timoteo 3:15c
 
-### Fue anunciado a las naciones. 1 Timoteo 3:16d
+##### Dios puso La Iglesia como único instrumento de Su verdad en esta era. 1 Timoteo 3:15d
 
-### Se creía en él en el mundo. 1 Timoteo 3:16e
+##### EL SALVADOR DE LA IGLESIA (1 Timoteo 3:16): En este versículo único y supremo, Pablo da un resumen séxtuple del ministerio terrenal de Jesús.
 
-### Fue llevado al cielo. 1 Timoteo 3:16s
+##### Cristo, nuestro Salvador es el misterio de la piedad:
+
+###### Él vino a la tierra como Dios-Hombre. 1 Timoteo 3:16a
+
+###### Él fue anunciado y confirmado por el Espíritu Santo. 1 Timoteo 3:16b
+
+###### Él fue contemplado por todos Sus ángeles. 1 Timoteo 3:16c
+
+###### Él fue y es predicado en todo el mundo. 1 Timoteo 3:16d
+
+###### Él fue y continua siendo creído en el mundo. 1 Timoteo 3:16e
+
+###### Él fue recibido y sentado a la diestra de Su Padre. 1 Timoteo 3:16s
 
 ### Pablo contrasta dos tipos de pastores.
 
