@@ -2311,7 +2311,7 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 ##### No te hace más hombre de Dios caerles bien a todos. 
 
-##### Pablo le recuerda a Timoteo, no le faltaba nada para ser hombre de Dios. 
+##### Pablo le recuerda a Timoteo que no le faltaba nada para ser hombre de Dios. 
 
 ### 1 Timoteo 6:11a "*huye de estas cosas...*" la instrucción aqui es de huir. 
 
@@ -2325,17 +2325,27 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 ### 1 Timoteo 6:11a "*sigue...el amor...*" sigue el amor. Juan 13:35
 
-### 1 Timoteo 6:11a "*sigue...la perseverancia...*" 
+### 1 Timoteo 6:11a "*sigue...la perseverancia...*" Seguir caminando pacientemente.
 
 ### 1 Timoteo 6:11a "*sigue...y la amabilidad...*"
 
 ### 1 Timoteo 6:12a "*Pelea la buena batalla de la fe...*" Pelear la batalla de la fe es permanecer fiel al mensaje del Evangelio. 2 Timoteo 4:7
 
-### 1 Timoteo 6:12b "*Echa mano de la vida eterna a la cual fuiste llamado...*"
+### 1 Timoteo 6:12b "*Echa mano de la vida eterna a la cual fuiste llamado...*" Timoteo fue llamado a se participe de la vida eterna.
 
-### 1 Timoteo 6:12c "*y de la que hiciste buena profesión en presencia de muchos testigos...*"
+#### Todo creyente es llamado a ser participe de la vida eterna por medio de la fe en Crito.
 
-### 1 Timoteo 6:13a "*Te mando delante de Dios, que da vida a todas las cosas...*"
+#### "Echa mano"tiene una connotacion de urgencia en tomar posesion de la vida eterna, Timoteo debia estar apropiandose en el presente de lo que tiene en Crito.
+
+#### Vida eterna en el contexto de santificacion es calidad de vida en Cristo. Juan 10:10, 17:3; Romanos 6:22-23
+
+### 1 Timoteo 6:12c "*y de la que hiciste buena profesión en presencia de muchos testigos...*" Timoteo habria declarado publicamente la  buena profesion de la vida eterna a la que fue llamado en presencia de testigos.
+
+#### "Buena profesion" tambien traducido la buena declaracion publica, en contextp, Timoteo habria declarado publicamente la vida eterna por medio de Cristo asi como de la vida abundate por medio de Cristo.
+
+### 1 Timoteo 6:13a "*Te mando delante de Dios, que da vida a todas las cosas...*" Pablo encomienda a Timoteo en el ministerio delante de Dios. Timoteo seria utilizado como un instrumento de parte de Dios para Anunciar el buen mensaje de Cristo.
+
+#### Dios es el unico que puede dar Vida al pecador, lo hace por medio de la fe en Crito Jesus. 
 
 ### 1 Timoteo 6:13b "*y de Cristo Jesús, que dio testimonio de la buena profesión delante de Poncio Pilato...*" Poncio Pilato era el gobernador Romano de Judea quien presidió sobre el juicio y execución de Jesús. 
 
