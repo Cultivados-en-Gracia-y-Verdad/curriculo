@@ -2511,6 +2511,8 @@ vivimos engañandonos a nosotros mismos. 1 Juan 1:8
 
 ### 1 Timoteo 6:17f "*para que las disfrutemos.*" Eclesiástes 2:24; Deuteronomio 26:11
 
+#### Hay un riqueza incomparable en Dios para nosotros, el nos da abundantemente todas las cosas, esto no habla necesariamente de que seremos prosperos economicamente, mas bien de abundancia de su persona en Plenitud, El quiere que DIsfrutemos de todas las cosas que temos en Cristo.
+
 ### 1 Timoteo 6:18a "*Enséñales que hagan bien,*" Timoteo debía enseñarles a ocuparse en cosas que tienen que ver con hacer bien. TIto 3:8; Gálatas 6:10
 
 ### 1 Timoteo 6:18b "*que sean ricos en buenas obras,*" Tito 2:14
