@@ -1994,9 +1994,17 @@ Title: 1 Timoteo
 
 #### De todos modos habla de una mujer que ha quedado viuda y que tiene buen testimonio de mostrar preocupación y brindar cuidado por los siervos del Señor.
 
-### 1 Timoteo 5:10e "*si ha ayudado a los afligidos*"
+### 1 Timoteo 5:10e "*si ha ayudado a los afligidos*" Una vez más vemos que una mujer viuda que muestra el amor de Cristo sobre los afligidos debía ser considerada dentro de los requisitos de una verdadera viuda. 
 
-### 1 Timoteo 5:10f "*y si se ha consagrado a toda buena obra*".
+#### La palabra “EPARQUEO” es un verbo en tiempo aoristo, modo indicativo en vos activa, y habla sobre el mantenimiento o socorro, lo que quiere decir que si de hecho en algún tiempo ha ayudado en provisión y consuelo para los afligidos. 
+
+#### La mejor provisión de consuelo para un afligido es el mensaje de la obra de Jesucristo ya que el mismo vino a anunciar las buenas nuevas a los afligidos Isaías 61:1; Lucas 4:18; Mateo 11:28
+
+### 1 Timoteo 5:10f "*y si se ha consagrado a toda buena obra*". Todo creyente es llamado a andar en las buenas obras que Dios ha preparado, nada bueno puede venir de uno mismo, el andar de Fe de una mujer viuda le llevara a estar dedicada a toda buena obra. Efesios 2:10.
+
+#### La palabra “EPAKOLUTHEO” “*si se ha consagrado*” y es un verbo en tiempo aoristo, modo indicativo y voz activa, referido a que se ha dedicado o ha practicado (RVR60) toda buena obra.
+
+#### Toda buena obra solo es nacido de una sana enseñanza sobre la gracia de Dios y de evitar vanas palabrerías. Tito 1:16, Tito 2:11-13; 2 Timoteo 2:16
 
 ### 1 Timoteo 5:11a "*Pero rehúsa poner en la lista a viudas más jóvenes,*"
 
