@@ -50,7 +50,7 @@ Title: 1 Timoteo
 
 **Eventos importantes en referencia a 1 Timoteo**
 
-###### ![1-Timothy-Timeline-1024x569 (1)](/Users/johnwry/Nextcloud/Documents/GitHub/curriculo/12. 1Timoteo/1-Timothy-Timeline-1024x569 (1).png)*(Imagen de la Biblia ESV de estudio)*
+###### ![1-Timothy-Timeline-1024x569 (1)](1tim.png)*(Imagen de la Biblia ESV de estudio)*
 
 </hr>
 
@@ -94,7 +94,9 @@ Title: 1 Timoteo
 
 ### En 1 Timoteo, se encuentran instrucciones para establecer iglesias, corregir abusos, falsas doctrinas, prácticas de adoración, hábitos de discipulado, vida familiar, responder a la persecución y más. 
 
-### En resumen, podemos decir que Pablo le escribió a Timoteo por su inmenso amor y aprecio por Timoteo y la obra que había sido llamado a realizar al servicio del Señor Jesús.
+### En resumen, podemos decir que Pablo le escribió a Timoteo por su inmenso amor y aprecio por Timoteo y la obra que había sido llamado a realizar al servicio del Señor Jesús. A través de esta carta Timoteo podía enseñar a los hermanos en Efeso y nosotros aprendemos también. 
+
+La carta de Timoteo no es solo para líderes. La carta de Timoteo es para que todo creyente sepa como conducirse en la casa de Dios. 
 
 # La iglesia: el cuerpo de Cristo y casa del Dios vivo
 
@@ -1006,11 +1008,11 @@ Title: 1 Timoteo
 
 #### El testimonio de Jesucristo es la obra que el hizo por nosotros en la Cruz, este es el testimonio que los creyentes confirman.1 Corintios 1:6, 2 Tesalonicenses 1:10, 1 Timoteo 2:6,  2 Timoteo 1:8, Apocalipsis 1:2.
 
-### 1 Timoteo 2:7 *Y para esto yo fui constituido predicador y apóstol, (digo la verdad en Cristo, no miento), como maestro de los gentiles en fe y verdad.* 
+### 1 Timoteo 2:7 "*Y para esto yo fui constituido predicador y apóstol, (digo la verdad en Cristo, no miento), como maestro de los gentiles en fe y verdad.*"
 
 #### El apóstol pablo hace una afirmación con respecto al propósito de enseñar a los creyentes los misterios concernientes a la iglesia y la vida de piedad entre los hermanos.
 
-### 1 Timoteo 2:7a "*Y para esto yo fui constituido predicador y apóstol,*
+### 1 Timoteo 2:7a "*Y para esto yo fui constituido predicador y apóstol,*"
 
 #### Al apóstol Pablo se le concedió esta gracia con un rol importante para la iglesia. Efesios 3:8; 1 Timoteo 1:11; 2 Timoteo 1:11.
 
@@ -1086,23 +1088,63 @@ Title: 1 Timoteo
 
 #### La religiosidad invita a la piedad aunque fingida. La Palabra nos enseña que la piedad sea un resultado de la verdad y sin fingimiento. Romanos 12:9-10 
 
-#### La siguiente lista de obras son manifestaciones de piedad. Es contrario a la cultura y es contrario a la naturaleza humana pero es impactante dentro de cualquier cultura y poderoso para avanzar la voluntad de Dios. 1 Timoteo 2:4-6
+### 1 Timoteo 2:10a "*sino con buenas obras,...* Pablo expresa claramente que el propósito de manifestar piedad es con buenas obras y no con vestimenta o apariencia externa.
 
-### 1 Timoteo 2:11a "*Que la mujer aprenda calladamente con toda obediencia...*" Es contrario a la cultura del tiempo de la escritura que la mujer pueda estudiar. Esto nos muestra que había libertad en las reuniones para que las mujeres sean enseñadas. 
+#### Estas buenas obras no son hechas o impulsadas por la autodeterminación humana, sino es el resultado de Cristo en cada creyente, esto será de manera visible hacia las personas.
 
-#### Sin embargo, Pablo instruye que aprendan en silencio. Esto habla de enfoque más en el aprendizaje más que prohibición. Las mujeres no deben estar interumpiendo en las reuniones. 1 Corintios 14:33-35, 40
+### 1 Timoteo 2:10b "*...como corresponde a las mujeres que profesan la piedad.*" las mujeres que profesa piedad expresaran de manera visible su mensaje en sus vidas, dando igualdad a lo que profesan con lo que hacen.
 
-#### En toda obediencia se refiere a tener sujeción. Es un término militar que tiene la idea de estar subordinado en firmeza. Habla de escuchar de manera ordenada y con atención. 
+#### La siguiente lista de obras son manifestaciones de piedad. Esta lista es completamente contraria a la cultura y a la naturaleza humana. La piedad en la vida de los creyentes tiene un mensaje poderoso que trasciende culturas y es conforme a la voluntad de Dios. 1 Timoteo 2:4-6
 
-### 1 Timoteo 2:12a "*Yo no permito que la mujer enseñe ni que ejerza autoridad sobre el hombre...*" El rol de la enseñanza pública a la congregación ha sido designado por Dios a los hombres. 
+## 1 Timoteo 2: 11-12 La mujer dentro de la congregación.
 
-#### Las hermanas pueden (y deben) enseñar a los niños y las hermanas, pero Dios limita su enseñanza en la iglesia de hacerlo a los hombres. 
+### 1 Timoteo 2:11 "*Que la mujer aprenda calladamente, con toda obediencia.*" En el contexto cultural al que Pablo escribió esta carta, las mujeres no podían estudiar, sin embargo vemos el deseo de Pablo que las mujeres también puedan aprender en la congregación.
 
-### 1 Timoteo 2:12b "*sino que permanezca callada...*" Nuevamente Pablo instruye a las mujeres que permanezcan calladas en la congregación. Tiene mayor piedad y dignidad la mujer que voluntariamente permanece en silencio. Dios llama a las mujeres de esta postura y está incluido en esta lista de buenas obras. 
+### 1 Timoteo 2:11a "*Que la mujer aprenda calladamente,...*
+
+#### Ahora vemos un verbo imperativo de Pablo, una orden en tiempo presente que aprenda.
+
+#### Esto nos muestra que había libertad en las reuniones de iglesia para que las mujeres sean enseñadas en la verdad de igual manera que los varones. 
+
+#### Sin embargo, Pablo instruye que aprendan en silencio. Esto habla de que el enfoque principal estaba en el aprendizaje más que prohibición. Las mujeres no deben estar interrumpiendo en las reuniones, con el fin de que puedan escuchar la enseñanza. 1 Corintios 14:33-35, 40.
+
+#### En una cultura que las mujeres no podían ser enseñadas, era de esperarse que haya interrupciones constantes sin dejar avanzar la enseñanza. 
+
+### 1 Timoteo 2:11b "...*con toda obediencia.*"
+
+#### En toda obediencia [JUPOTAGE] se refiere a tener sujeción. Es un término militar que tiene la idea de estar subordinado en firmeza. Habla de escuchar con atención y de manera ordenada.
+
+#### Esta enseñanza de sujeción en las mujeres era contraria a la cultura pagana, en la que había profetizas prominentes que tenían autoridad sobre los varones.
+
+### 1 Timoteo 2:12 "*Yo no permito que la mujer enseñe ni que ejerza autoridad sobre el hombre, sino que permanezca callada.*" 
+
+#### En el anterior verso animaba a las mujeres el aprender dentro de la congregación, sin embargo en este explica el rol de la enseñanza con respecto a varones y mujeres creyentes. 
+
+### 1 Timoteo 2:12a "*Yo no permito que la mujer enseñe...*
+
+#### Pablo explica que el rol de la mujer dentro de la congregación no es el de la enseñanza pública. 1 Corintios 14:34.
+
+#### Vemos una limitante en la enseñanza de mujeres en la iglesia de hacerlo a los hombres, esto es debido a que este rol de la enseñanza pública ha sido designado por Dios a los hombres. 
+
+#### Sin embargo, esto no quiere decir que las mujeres creyentes no puedan enseñar a los niños y entre mujeres.
+
+### 1 Timoteo 2:12b *...ni que ejerza autoridad sobre el hombre,...*
+
+#### La mujer no puede ejercer autoridad sobre el hombre dentro de la iglesia, debido a que Dios estableció un orden de sujeción dentro de la iglesia.
+
+#### Esto no significa que las mujeres no puedan superarse profesionalmente, o intelectualmente y progresar en diversas áreas de la vida, sino que estas instrucciones son dentro de la iglesia en el orden de autoridad que Dios estableció.
+
+### 1 Timoteo 2:12c *...sino que permanezca callada.*" Nuevamente Pablo instruye a las mujeres que permanezcan manteniendo silencio,
+
+###  en la congregación. La manifestación visible de una mujer piadosa será visible en una actitud sumisa, contrastando con una actitud escandalosa.
+
+### piedad y dignidad la mujer que voluntariamente permanece en silencio. Dios llama a las mujeres de esta postura y está incluido en esta lista de buenas obras. 
 
 #### Estas instrucciones no implican que la mujer sea inferior en posición o que tienen menos valor ante Dios. 1 Pedro 3:7; Gálatas 3:28
 
-## Pablo da las razones por hacerlo de esta manera. 
+
+
+## 1 Timoteo 2: 13-15 Pablo da las razones por hacerlo de esta manera. 
 
 ### 1 Timoteo 2:13 "*Porque Adán fue creado primero, después Eva...*" El orden de Dios en la creación antes de la caida es simbólizado en la congregación. 
 
@@ -1948,11 +1990,41 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 5:10c "*si ha mostrado hospitalidad a extraños,*"  la mujer viuda debe tener testimonio haber sido hospitalaria con extranjeros, o la cualidad de ser hospedadora.
 
-### 1 Timoteo 5:10d "*si ha lavado los pies de los santos,*"
+#### Aquí podemos ver otro pasaje en la que Dios no ha cambiado y que aún el sigue velando por el bien estar de los extranjeros, el dio a la nación de Israel de cuidar y ser hospitalarios con los extranjeros. Exodo 22:21.
 
-### 1 Timoteo 5:10e "*si ha ayudado a los afligidos*"
+#### Igualmente el Señor Jesucristo enseño sobre la hospitalidad a los extranjeros, llevando a un nivel superior. Mateo 25:25
 
-### 1 Timoteo 5:10f "*y si se ha consagrado a toda buena obra*".
+#### Esta labor piadosa es lo que debe caracterizar a una verdadera viuda, que extiende el amor del Señor hacia el extranjero, mostrando hospitalidad.
+
+### 1 Timoteo 5:10d "*si ha lavado los pies de los santos,*" El lavado de los pies por lo general era la labor de un siervo a los siervos de un rey o de alguien que tenía alta reputación 1 Samuel 25:41
+
+#### Juan 12:3 vemos a una mujer que es reconocida por el Señor Jesucristo y es alaba por haber ungido los pies del Señor con perfume.
+
+#### Tambien en Lucas 7:44 podemos ver que, cuando alguien lavaba los pies de los invitados a su casa, era porque representaba que su invitado tenia alto honor al recibirlo con el lavado de pies.
+
+#### Juan 13:5-14 En estos pasajes podemos ver que el mismo Señor Jesus, lavo los pies de sus discípulos, mostrándose como un siervo a ellos. Juan 13:14
+
+#### También en sentido figurado estaba enseñando sobre la limpieza que el Señor realiza en el andar diario de los discípulos. Juan 13:8.
+
+#### Juan 13:15 “*»Porque les he dado ejemplo, para que como Yo les he hecho, también ustedes lo hagan. *”
+
+#### Esto puede significar en sentido literal el lavado de pies  a los santos, que el mismo Señor Jesus lavo los pies de sus discípulos.
+
+#### O también puede significar también en sentido figurado, prestar servicio a los santos, de recibirlos como al mismo Señor Jesús, mostrar preocupación en su cuidado y su bienestar. Juan 13:20, 
+
+#### De todos modos habla de una mujer que ha quedado viuda y que tiene buen testimonio de mostrar preocupación y brindar cuidado por los siervos del Señor.
+
+### 1 Timoteo 5:10e "*si ha ayudado a los afligidos*" Una vez más vemos que una mujer viuda que muestra el amor de Cristo sobre los afligidos debía ser considerada dentro de los requisitos de una verdadera viuda. 
+
+#### La palabra “EPARQUEO” es un verbo en tiempo aoristo, modo indicativo en vos activa, y habla sobre el mantenimiento o socorro, lo que quiere decir que si de hecho en algún tiempo ha ayudado en provisión y consuelo para los afligidos. 
+
+#### La mejor provisión de consuelo para un afligido es el mensaje de la obra de Jesucristo ya que el mismo vino a anunciar las buenas nuevas a los afligidos Isaías 61:1; Lucas 4:18; Mateo 11:28
+
+### 1 Timoteo 5:10f "*y si se ha consagrado a toda buena obra*". Todo creyente es llamado a andar en las buenas obras que Dios ha preparado, nada bueno puede venir de uno mismo, el andar de Fe de una mujer viuda le llevara a estar dedicada a toda buena obra. Efesios 2:10.
+
+#### La palabra “EPAKOLUTHEO” “*si se ha consagrado*” y es un verbo en tiempo aoristo, modo indicativo y voz activa, referido a que se ha dedicado o ha practicado (RVR60) toda buena obra.
+
+#### Toda buena obra solo es nacido de una sana enseñanza sobre la gracia de Dios y de evitar vanas palabrerías. Tito 1:16, Tito 2:11-13; 2 Timoteo 2:16
 
 ### 1 Timoteo 5:11a "*Pero rehúsa poner en la lista a viudas más jóvenes,*"
 
@@ -2158,7 +2230,7 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 #### "*entiende*" [SYNEIMI] - conocer y comprender la naturaleza o el significado.[^9]
 
-### 1 Timoteo 6:4b "*sino que tiene un interés corrompido*" tercero, tiene un interés enfermizo.  
+### 1 Timoteo 6:4b "*sino que tiene un interés corrompido*" Tercero, tiene un interés enfermizo.  
 
 #### "*corrompido*" [NOSEO] - estar languideciendo por un deseo insatisfecho; concebido como estar físicamente enfermo por falta de satisfacción.[^9]
 
@@ -2201,7 +2273,7 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 #### La piedad acompañada de satisfacion es algo incomparable, no vivimos piadosamente para obtener satisfacion o completarla, sino que nuestra satisfacion esta completa en Cristo. 
 
-### 1 Timoteo 6:7 "*Porque nada hemos traído al mundo, así que nada podemos sacar de él.*" ¿Porque nos enfocariamos en cosas terrenales si no llevaremos las cosas de la tierra con nosotros?
+### 1 Timoteo 6:7 "*Porque nada hemos traído al mundo, así que nada podemos sacar de él.*" ¿Porque nos enfocariamos en cosas terrenales si no llevaremos las cosas de la tierra con nosotros? 
 
 #### Pablo enfatiza la piedad sobre el bienestar material. 
 
@@ -2221,7 +2293,7 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 #### "*dolores*" [ODYNE] sentimientos de dolor mental o físico. 
 
-#### estos hombres se ocasionan estrés, anciedad y más. 
+#### estos hombres se ocasionan estrés, ansiedad y más. 
 
 ## En Síntesis (1 Timoteo 6:1-10)
 
@@ -2246,17 +2318,18 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 ### La destrucción: Este tipo de codicia, si no se controla, resultará en ruina y destrucción. 1 Timoteo 6:9
 
 # PALABRAS DE PABLO A TIMOTEO (6:11-21)
+
 ### 1 Timoteo 6:11a "*Pero tú, oh hombre de Dios...*" Nuevamente Pablo le habla diréctamente a Timoteo ya no como hijo sino hombre de Dios. 2 Timoteo 3:17
 
 #### La expresión que usa Pablo acerca de Timoteo era usado de hombres como Moises, David y otros profetas. Deuteronomio 33:1; Nehemias 12:24; 1 Samuel 9:6
 
-#### No te hace más hombre tener mucho dinero. 
+##### No te hace más hombre de Dios tener mucho dinero.  
 
-#### No te hace más hombre ser famoso. 
+##### No te hace más hombre de Dios ser famoso. 
 
-#### No te hace más hombre caerles bien a todos. 
+##### No te hace más hombre de Dios caerles bien a todos. 
 
-#### Pablo le recuerda a Timoteo, el ya todo un hombre y hombre de Dios. 
+##### Pablo le recuerda a Timoteo, no le faltaba nada para ser hombre de Dios. 
 
 ### 1 Timoteo 6:11a "*huye de estas cosas...*" la instrucción aqui es de huir. 
 
@@ -2286,71 +2359,103 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 ### 1 Timoteo 6:14a "*que guardes el mandamiento*" 2 Pedro 2:21, 3:2
 
-#### El mandamiento al que se refiere aqui es visto en 1 Timoteo 1:5.
+#### "*guardes*" [TEREO] mantener en un determinado estado, posición o actividad.[^9]
 
-#### 1 Timothy 1:5 Pero el propósito de nuestra instrucción es el amor *nacido* de un corazón puro, de una buena conciencia y de una fe sincera. Juan 14:15
+#### 1Pedro 1:4 "*para obtener una herencia incorruptible, inmaculada, y que no se marchitará, reservada* [TEREO] *en los cielos para ustedes*".
 
-#### Se refiere al Evangelio. 2 Timoteo 1:14
+#### Judas 1:21 "*consérvense* [TEREO] *en el amor de Dios, esperando ansiosamente la misericordia de nuestro Señor Jesucristo para vida eterna*".
 
-### 1 Timoteo 6:14b "*sin mancha ni reproche*" 2 Pedro 3:14
+#### El mandamiento al que se refiere aqui es visto en 1 Timoteo 1:5, "*Pero el propósito de nuestra instrucción es el amor nacido de un corazón puro, de una buena conciencia y de una fe sincera*". Juan 14:15
 
-### 1 Timoteo 6:14c "*hasta la manifestación de nuestro Señor Jesucristo,*" Tito 2:13
+#### Mandamiento o instrucción parece referirse a la enseñanza total, la fe. 2 Timoteo 1:14
 
-### 1 Timoteo 6:15a "*la cual manifestará a su debido tiempo*" 
+### 1 Timoteo 6:14b "*sin mancha ni reproche*" guardar el mandamiento es mantenerla sin mancha ni reproche. 2 Pedro 3:14
 
-### 1 Timoteo 6:15c "*el bienaventurado y único Soberano,*"
+#### "*mancha*" [AMOMOS] - libre de defectos fisicos o morales[^9]Santiago 1:19
 
-### 1 Timoteo 6:15d "*el Rey de reyes y Señor de señores;*"
+#### "*reproche*" [AKATAGNOSTOS] - no merece ninguna reprensión o crítica[^9]
 
-### 1 Timoteo 6:16a "*el único que tiene inmortalidad*"
+### 1 Timoteo 6:14c "*hasta la manifestación de nuestro Señor Jesucristo,*" La manifestación de Jesucristo se refiere a la segunda venida de Cristo cuando será manifestado como Rey de Reyes y Señor de Señores. 2 Timoteo 1:10, 4:1; Tito 2:13; Colosenses 3:4
 
-### 1 Timoteo 6:16b "*y habita en luz inaccesible,*"
+#### Esto no debe ser confundido con el rapto de la iglesia. 1 Tesalonicenses 4:15-18
 
-### 1 Timoteo 6:16c "*a quien ningún hombre ha visto ni puede ver.*"
+### 1 Timoteo 6:15a "*la cual manifestará a su debido tiempo*" El cambio aquí es sutíl pero al parecer cambia de Jesus quien será manifestado al Padre quien lo manifestará a su  debido tiempo. Solo el Padre sabe la fecha y la hora de la maniifestación de Jesucristo. Hechos 1:6-7
 
-### 1 Timoteo 6:16d "*A Él sea la honra*"
+### 1 Timoteo 6:15c "*el bienaventurado y único Soberano,*" Dios esta en el lugar más alto de cualquier otro en la creación. 1 Timoteo 1:11; Marcos 14:61; 2 Corintios 11:31
 
-### 1 Timoteo 6:16e "*y el dominio eterno.*"
+#### "*Soberano*" [DYNASTES] - persona que gobierna o manda; especialmente entendido como alguien que tiene gran influencia controladora.[^9] Es traducido poderoso, y gobernador. 
 
-### 1 Timoteo 6:16f "*Amén.*"
+### 1 Timoteo 6:15d "*el Rey de reyes y Señor de señores;*" Este título lleva Jesucristo cuando que viene en poder. Sin embargo, se refiere al Padre en este contexto. Salmo 10:16; Malaquias 1:14; Daniel 4:34-35
 
-### 1 Timoteo 6:17a  "*A los ricos en este mundo,*"
+#### Según vemos la transición del libro, Zacarías muestra al Angel del Señor (Jesucristo Pre-encarnado) tomando el título de Señor de los Ejércitos. Zacarías 1:12, 14:17; Apocalipsis 19:16; 1 Corintios 15:24-28; 
 
-### 1 Timoteo 6:17b "*enséñales que no sean altaneros*"
+### 1 Timoteo 6:16a "*el único que tiene inmortalidad*" No solo es el único soberano, es el único que tiene inmortalidad. Dios es eterno. Es el único que tiene estos atributos. 
 
-### 1 Timoteo 6:17c "*ni pongan su esperanza en la incertidumbre de las riquezas,*"
+### 1 Timoteo 6:16b "*y habita en luz inaccesible, a quien ningún hombre ha visto ni puede ver*" Dios habita en luz imposible de penetrar o alcanzar. Ningún hombre jamás lo ha visto. Exodo 33:20
 
-### 1 Timoteo 6:17d "*sino en Dios,*"
+### 1 Timoteo 6:16d "*A Él sea la honra y el dominio eterno. Amen.*" Dios merece toda la gloria, todo respeto y honor. Que así sea. 
 
-### 1 Timoteo 6:17e "*el cual nos da abundantemente todas las cosas*"
+## Los Ricos
 
-### 1 Timoteo 6:17f "*para que las disfrutemos.*"
+### 1 Timoteo 6:17a  "*A los ricos en este mundo,*" Pablo no esta hablando a todos los ricos del mundo, sino a creyentes ricos. 
 
-### 1 Timoteo 6:18a "*Enséñales que hagan bien,*"
+#### Pablo dió un calificativo para aclarar valores al llamarlos ricos "en este mundo". Según el mundo, el dinero es riqueza. Sin embargo, Santiago nos dice que los pobres son ricos. Ricos en fe. Santiago 2:5
 
-### 1 Timoteo 6:18b "*que sean ricos en buenas obras,*"
+### 1 Timoteo 6:17b "*enséñales que no sean altaneros*" Timoteo es responsable de enseñar a los creyentes ricos que no sean orgullosos. Proverbios 30:8-9
 
-### 1 Timoteo 6:18c "*generosos*"
+#### El dinero tiende a poder arreglar muchas cosas. El rico puede llegar a ser vanidoso o arrogante con su dinero. Oseas 13:6
 
-### 1 Timoteo 6:18d "*y prontos a compartir,*"
+### 1 Timoteo 6:17c "*ni pongan su esperanza en la incertidumbre de las riquezas,*" La riqueza es algo terrenal, nunca debe ser objeto de esperanza para el creyente. Proverbios 11:28
 
-### 1 Timoteo 6:19a "*acumulando para sí el tesoro*"
+### 1 Timoteo 6:17d "*sino en Dios,*" O bien la esperanza del creyente rico está en su riqueza o en Dios. No puede ser ambos. 
 
-### 1 Timoteo 6:19b "*de un buen fundamento para el futuro,*"
+### 1 Timoteo 6:17e "*el cual nos da abundantemente todas las cosas*" El rico debe entender que su riqueza proviene de Dios y no es razon para alabarse o volverse altanero. Salmo 104:28
 
-### 1 Timoteo 6:19c "*para que puedan echar mano de lo que en verdad es vida.*"
+### 1 Timoteo 6:17f "*para que las disfrutemos.*" Eclesiástes 2:24; Deuteronomio 26:11
 
-### 1 Timoteo 6:20a  "*Timoteo, guarda lo que se te ha encomendado,*"
+### 1 Timoteo 6:18a "*Enséñales que hagan bien,*" Timoteo debía enseñarles a ocuparse en cosas que tienen que ver con hacer bien. TIto 3:8; Gálatas 6:10
 
-### 1 Timoteo 6:20b  "*y evita las palabrerías vacías y profanas,*"
+### 1 Timoteo 6:18b "*que sean ricos en buenas obras,*" Tito 2:14
 
-### 1 Timoteo 6:20c  "*y las objeciones de lo que falsamente se llama ciencia,*"
+### 1 Timoteo 6:18c "*generosos*" Proverbios 3:28; 
 
-### 1 Timoteo 6:21a "*la cual profesándola algunos,*"
+### 1 Timoteo 6:18d "*y prontos a compartir,*" Filipenses 4:14; Romanos 12:13; Hebreos 13:16
 
-### 1 Timoteo 6:21b "*se han desviado de la fe.*"
+### 1 Timoteo 6:19a "*acumulando para sí el tesoro*" Puede ir acumulando un tesoro para si en los cielos por compartir y participar en buenas obras. Mateo 6:20; Proverbios 11:25
 
-### 1 Timoteo 6:21c "*La gracia sea con ustedes.*"
+#### El rico entiende el concepto de acumular para si tesoro. Pablo aplica esto al creyente rico para enseñarle una verdad espiritual de inversión de otra forma usando los principios aprendidos en la acumulación de dinero. 
+
+### 1 Timoteo 6:19b "*de un buen fundamento para el futuro,*" Su inversión será firme y será para el futuro. Hebreos 10:34
+
+#### En la eternidad, los que serán incalculablemente ricos, son aquellos que invirtiéron en el futuro. Pusieron su inversión en cosas eternas y no de este mundo. 
+
+### 1 Timoteo 6:19c "*para que puedan echar mano de lo que en verdad es vida.*" 1 Pedro 1:4; 2 Timoteo 2:1; 1 Juan 2:25
+
+## Timoteo, antes de despedirme
+
+### 1 Timoteo 6:20a  "*Timoteo, guarda lo que se te ha encomendado,*" Pablo reitera lo que ya le había dicho, dando mayor importancia al tema. 2 Timoteo 1:14
+
+#### El cuidado en la iglesia de Efeso era importante y debía ser cuidado. El saber conducirse en la casa de Dios había sido mostrado en la carta de Pablo. Le tocaba a Timoteo enseñar los mismos principios a los hermanos para que todos sepan conducirse. 
+
+### 1 Timoteo 6:20b  "*y evita las palabrerías vacías y profanas,*" Nuevamente, Timoteo es recordado a no meterse en enseñar o participar en palabrerías vacías y profanas. 
+
+### 1 Timoteo 6:20c  "*...y evita...las objeciones de lo que falsamente se llama ciencia,*" Timoteo no estaba llamado a entretener o responder las objeciones que procede de conocimiento. 
+
+#### La palabra ciencia [GNOSIS] de aquí proviene una secta llamada gnosticismo. En el tiempo de Timoteo ya habia indicios de gnósticos que acusaban en nombre del conocimiento. 
+
+### 1 Timoteo 6:21a "*la cual profesándola algunos,*" Vemos que estos profesaban ya algunos. Marcos 14:11
+
+#### Algunos de habían dejado llevar por las promesas de los que profesaban vida mediante el gnosis (conocimiento). 
+
+### 1 Timoteo 6:21b "*se han desviado de la fe.*" Lo que ocacionó fue que se desviaron de la fe, el conocimiento de Jesucristo. 
+
+### 1 Timoteo 6:21c "*La gracia sea con ustedes.*" Para mantenerse sin desviar, para mantenerse animados, para no desviarse de la fe, debían enfocarse en la gracia. 
+
+#### Es interesante que Pablo cierra su carta con ustedes. ¿Será que su intención era que Timoteo lea la carta a la iglesia en Efeso y así todos estar en la misma página?
+
+#### Posiblemente, sin embargo nosotros si podemos leer la carta y de esa manera aprender sobre la Iglesia del Dios Vivo, que es el sostén de la verdad y como debe conducirse. 
+
+#### ¡Que la gracia de Dios sea con nosotros! 
 
 ## En Síntesis (1 Timoteo 6:11-21)
 
