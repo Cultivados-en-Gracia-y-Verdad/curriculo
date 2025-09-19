@@ -50,35 +50,35 @@ aTitle: 1 Timoteo
 
 </hr>
 
-### En tres ocaciones encontramos a Pablo indicando una declaración como "palabra fiel". 1 Timoteo 1:15, 3:1, 4:9[^3]
+### En tres ocaciones encontramos a Pablo indicando la declaración, "*palabra fiel*". 1 Timoteo 1:15, 3:1, 4:9
 
 ## C. Autor y receptor del libro 
 
 ### Encontramos esta epistola como la primera carta escrita por Pablo hacia su hijo en la fe Timoteo. 1 Timoteo 1:1
 
-### Timoteo era un joven nacido Listra, en la actual Turquía, hijo de padre griego y madre judía. Su madre, Eunice, y su abuela, Loida, también eran creyentes (2 Timoteo 1:5).[^2] 
+### Timoteo era un joven nacido en Listra, (Turquía en la actualidad), hijo de padre griego y madre judía. Su madre, Eunice, y su abuela, Loida, también eran creyentes (2 Timoteo 1:5).[^2] 
 
-### Ellas lo habían instruido en el conocimiento de las Sagradas Escrituras. 2 Timoteo 3:15[^2] 
+### Su madre y abuela lo habían instruido en el conocimiento de las Sagradas Escrituras. 2 Timoteo 3:15
 
-### Timoteo fue discipulado por Pablo (1 Timoteo 1:2). En Hechos 16:1-5, aprendemos que Timoteo tenía buen testimonio delante de los hermanos de Listra e Iconio.[^2] 
+### Timoteo fue discipulado por Pablo (1 Timoteo 1:2). En Hechos 16:1-5, aprendemos que Timoteo tenía buen testimonio delante de los hermanos de Listra e Iconio.
 
-### Pablo deseaba llevarlo en su segundo viaje misionero, por lo que tuvo que circunsidarlo por causa de los judios. Entonces Timoteo lo acompaño en su viaje. Timoteo llego a ser un fiel compañero en el Señor para Pablo. 1 Corintios 4:17[^2]
+### Pablo deseaba llevarlo en su segundo viaje misionero, por lo que tuvo que circunsidarlo por causa de los judios. Entonces Timoteo lo acompaño en su viaje. Timoteo llego a ser un fiel compañero en el Señor para Pablo. 1 Corintios 4:17
 
-### Timoteo estaría con Pablo durante su primer encarcelamiento en Roma. Sin embargo, al momento de la escritura de 1 Timoteo, el joven Timoteo se encontraba en Éfeso, sirviendo como evangelista entre las diversas iglesias domésticas que existían en ese entonces. 1 Timoteo 1:3[^2]
+### Timoteo estaría con Pablo durante su primer encarcelamiento en Roma. Sin embargo, al momento de la escritura de 1 Timoteo, el joven Timoteo se encontraba en Éfeso, sirviendo como evangelista entre las diversas iglesias domésticas que existían en ese entonces. 1 Timoteo 1:3
 
 ### Su labor incluía la proclamación del evangelio, la enseñanza, la lectura de las Escrituras, el nombramiento de ancianos y diáconos, y la oposición a las falsas enseñanzas. Pablo le escribió, probablemente desde Macedonia, para animarlo en su fiel servicio a Cristo. 1 Timoteo 1:18[^2]
 
-### Timoteo cumplió algún tiempo en la cárcel por la fe, y luego fue liberado (Hebreos 13:23).[^2]
+### Timoteo cumplió algún tiempo en la cárcel por la fe, y luego fue liberado (Hebreos 13:23).
 
 ## D. Trasfondo Cultural/Histórico
 
-### La fecha de escritura es probablemente de 62 a 65 d.C. desde Macedonia.
+### La fecha de escritura es entre 62 y 65 d.C. desde Macedonia.
 
 ### Pablo había estado en Éfeso (1 Timoteo 1:3) después de su llegada de Roma, lo cual fue ciertamente antes del incendio de Roma en el 64 d.C. [^1]
 
-### Había dejado a Timoteo a cargo de la obra en Éfeso y se había ido a Macedonia (1 Timoteo 1:3), posiblemente a Filipos, como esperaba.  Filipenses 2:24[^1]
+### Había dejado a Timoteo a cargo de la obra en Éfeso y se había ido a Macedonia (1 Timoteo 1:3), posiblemente a Filipos, como esperaba.  Filipenses 2:24
 
-### Deseaba ayudar a Timoteo a afrontar los problemas de doctrina, disciplina y formación eclesiástica, que eran cada vez más urgentes. 1 Timoteo 4:16[^1]
+### Deseaba ayudar a Timoteo a afrontar los problemas de doctrina, disciplina y formación eclesiástica, que eran cada vez más urgentes. 1 Timoteo 4:16
 
 ### Aquí encontramos sabias palabras del Apostol Pablo a un joven ministro a quien estimaba. 1 Timoteo 6:11-12
 
@@ -90,107 +90,99 @@ aTitle: 1 Timoteo
 
 ### En 1 Timoteo, se encuentran instrucciones para establecer iglesias, corregir abusos, falsas doctrinas, prácticas de adoración, hábitos de discipulado, vida familiar, responder a la persecución y más. 
 
-### En resumen, podemos decir que Pablo le escribió a Timoteo por su inmenso amor y aprecio por la obra que Timoteo había sido llamado a realizar al servicio del Señor Jesús.
+### En resumen, podemos decir que Pablo le escribió a Timoteo por su inmenso amor y aprecio por Timoteo y la obra que había sido llamado a realizar al servicio del Señor Jesús.
 
-# II. La iglesia el cuerpo de Cristo y casa del Dios vivo
+# II. La iglesia: el cuerpo de Cristo y casa del Dios vivo
 
 ## Introducción
 
 ### Generación a generación Dios ha estado buscando incanzablemente a este mundo perdido, con el único proposito de salvarlo y rescatarlo de las tinieblas y del rumbo del hombre que se dirige hacia la condena eterna. Salmo 8:4
 
-### Dios siendo proactivo, no le tomo por sorpresa la caída del hombre, sino que el mismo se anticipo en proveer un medio de salvación, ya que el mismo ideo un solo camino de verdad y vida que posibilite acercase nuevamente al Padre. 2 Timoteo 1:9;  Juan 14:6; 1 Pedro 1:20.
+### Dios siendo omnisciente, no fué tomado por sorpresa en la caída del hombre, sino que El mismo anticipó proveer un medio de salvación. El mismo ideó un solo camino de verdad y vida que posibilite acercase nuevamente al Padre. 2 Timoteo 1:9;  Juan 14:6; 1 Pedro 1:20
 
-### Dios uso diferentes agentes para la predicación de su palabra, con el propósito de alcanzar al mundo perdido, entre ellos, específicamente, en este tiempo, Dios lo esta llevando a cabo, a través de la iglesia. Colosenses 1:25; 1 Timoteo 3:15.
+### A través de la historia, Dios ha usado diferentes agentes (como testigos) para la predicación de Su Palabra. Dios usó a Set, Enoch y Noé. Más adelante Dios usó a Israel como agente pare proclamar Su mensaje de salvación. Hoy, en nuestro tiempo,   Dios sigue anunciando Su mensaje, a través de la Iglesia. Colosenses 1:25; 1 Timoteo 3:15
 
-### Por tal motivo es bueno que nos hagamos la pregunta ¿qué es la iglesia?, ¿quien fundo la iglesia?, ¿a quien le pertenece la iglesia?, ¿cuando inicio?, ¿cuando termina? y ¿quienes forman parte de ella?.
+### Por tal motivo es bueno que nos hagamos las preguntas, ¿qué es la Iglesia?, ¿quien fundo la Iglesia?, ¿a quien le pertenece la Iglesia?, ¿cuando inicio?, ¿cuando termina? y ¿quienes forman parte de ella?.
 
 ## La Palabra Iglesia y su orígen
 
-### La palabra iglesia tiene su origen en la sorprendente promesa hecha por el Señor Jesucristo cuando “*Simón Pedro respondió: «Tú eres el Cristo, el Hijo del **Dios viviente»**.*” Mateo 16:16
-
-### Mateo 16:18 "*Yo también te digo que tú eres Pedro, y sobre esta roca **edificaré Mi iglesia**; y las puertas del Hades no prevalecerán contra ella.*" Es en este pasaje que el Señor Jesucristo dio su origen a la palabra iglesia, en pertenencia, propósito, cuidado y protección de ella.
+### Inicialmente el significado de la palabra *ekklesia* era simplemente los llamados afuera a una asamblea, o a una reunión. En las antiguas ciudades griegas, una *ekklesía* era una asamblea de ciudadanos que se reunían para tomar decisiones sobre asuntos de la ciudad. [^11].
 
 ### *Ekklesia* es la palabra griega traducida en el Nuevo Testamento como "iglesia". Proviene de *ek*, que significa "salir de" y *kaleo*, que significa "llamar hacia", y tiene que ver con un grupo de personas llamadas de un lugar a otro. 
-
-### Inicialmente el significado de la palabra *ekklesia* era simplemente los llamados afuera a una asamblea, o a una reunión. En las antiguas ciudades griegas, una *ekklesía* era una asamblea de ciudadanos que se reunían para tomar decisiones sobre asuntos de la ciudad. [^11].
 
 ### Etimológicamente no tiene un significado dirigido a un edificio físico, y tampoco era utilizado con un fin religioso, un ejemplo que podemos ver, es en Hechos 19:23-25 en la que un hombre hace un llamado a salir afuera para reunir a toda la ciudad.
 
 ### En Hechos 19:29 muestra que no todos los ciudadanos sabían porque se les había llamado a salir afuera a reunirse Hechos 19:32 y muy probablemente los que llegaban a la reunión no tenían claro porque los ciudadanos estaban en "Ekklesía" Hechos 19:33.
 
-### Fue el Señor Jesucristo que el dio el significado propio cuando dijo "*edificaré mi Iglesia*" dando a entender que en un tiempo futuro el tendría sus llamados (a salir de "EK" y llamar hacia"Kaleo). 
+#### Existen 191 menciones de la palabra EKKLESIA en la Biblia. 77 veces en el Antiguo Testamento (Septuaginta - traducido asamblea), 114 veces en el Nuevo Testamento. 77 menciones son las que se refieren específicamente a la iglesia del Señor Jesucristo.
 
-####  Y eso mismo se ve en Romanos 1:6 "*entre los cuales están también ustedes, **llamados de Jesucristo.***"
+#### De las 77 menciones de EKKLESIA del Antiguo Testamento, ninguno se refiere al cuerpo de Cristo que es la iglesia. Habla de una asamblea o una reunión como lo vimos en el uso común de la palabra. 1 Cronicas 11:4; 2 Cronicas 28:14
 
-#### 1 Corintios 1:2 "*a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cristo Jesús, **llamados** a ser santos, con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo, Señor de ellos y nuestro:*"
+#### En el Nuevo Testamento, 37 menicones no se refieren a la "Ekklesía" como cuerpo de Cristo, sino a una reunion o asamblea. Hechos 19:41
 
-#### 1 Corintios 1:9 "*Fiel es Dios, por medio de quien **fueron llamados** a la comunión con su hijo Jesucristo, nuestro Señor*"
+#### El libro de Hechos lleva 17 menciones. Hechos 8:1; Hechos 9:31; Hechos 11:26; Hechos 20:28
 
-#### Este llamado lo hizo sin acepción de personas, 1 Corintios 1:24 "*Sin embargo, para los **llamados** tanto judíos como griegos, Cristo es poder de Dios y sabiduría de Dios*"
+#### En las epistolas del apostol Pablo se hace mención 46 veces. Romanos 16:1; Efesios 1:22; Filemon 1:2
 
-## C. Fundación e inicios de la Iglesia
-
-### Hechos 1:8 “*pero recibirán poder cuando el Espíritu Santo venga sobre ustedes; y serán Mis testigos en Jerusalén, en toda Judea y Samaria, y hasta los confines de la tierra».*“ Con la llegada del Espíritu Santo ellos llegarían a ser testigos de Jesucristo.
-
-### Hechos 1:8a “*pero recibirán poder cuando el Espíritu Santo venga sobre ustedes...*" La instrucción dada por el Señor Jesucristo era que ellos no debian hacer absolutamente nada hasta que haya venido el Espiritu Santo.
-
-#### En Juan 14:16 El Señor Jesucristo rogaría al Padre para que el Espíritu Santo more en cada creyente del tiempo de la iglesia Efesios 1:13.
-
-#### El mundo (incrédulos) no puede recibir al Espíritu Santo, solo aquellos que han creído en la obra de Jesucristo son los que pueden recibirlo. Juan 14:17; Romanos 8:16.
-
-#### El ministerio del Espiritu Santo en el creyente seria de enseñar y recordar todas las cosas que el Señor Jesucristo habia dicho a sus discipulos Juan 14:26.
-
-#### Es por eso que cuando llegó el Espiritu Santo en el día de pentecostes inicio la obra y el ministerio de la predicación del evangelio. Hechos 2:1-4.
-
-#### Hechos 2:41b "*...y se añadieron aquel día como 3,000 almas.*"
-
-#### Hechos 2:44 "*Todos los que habían creído estaban juntos y tenían todas las cosas en común*"
-
-#### Hechos 2:47 "*alabando a Dios y hallando favor con todo el pueblo. Y el Señor añadía cada día a la ("**iglesia**" RVR60) los que iban siendo salvos*".
-
-### Hechos 1:8b "*...y serán Mis testigos en Jerusalén, en toda Judea y Samaria, y hasta los confines de la tierra».*“ Con la llegada del Espíritu Santo Dios identifico a todo creyente como testigos de la obra de Jesucristo. Hechos 2:37-39; Juan 17:16; Juan 17:20.
-
-#### Todo creyente ha sido incluido a la obra que esta haciendo el Espíritu Santo de alcanzar al mundo perdido, por medio de la predicación del evangelio. Romanos 1:9; Filipenses 1:27.
-
-#### Juan 16:8-10 "*Y cuando él venga, convencerá al mundo de pecado, de justicia y de juicio. De pecado, por cuanto no creen en mí; de justicia, por cuanto voy al Padre, y no me veréis más; y de juicio, por cuanto el príncipe de este mundo ha sido ya juzgado.*".
-
-### Por lo cual podemos concluir que la fundación y el inicio de la iglesia fue con la llegada del Espíritu Santo, ya que fue el quien inicio la obra.
-
-### Es por medio del Espíritu Santo que el Señor Jesucristo esta llevando a cabo la edificación de la iglesia. Mateo 16:18; Juan 14:18; Juan 14:20
-
-#### En el tiempo actual, el Espíritu Santo continua llevando a cabo su ministerio, tanto con los creyentes de la iglesia, guiándolos a toda verdad (Juan 16:13) y convenciendo por medio de la predicación de la palabra de Dios al mundo perdido. (Juan 16:8).
-
-## Misterio el Plan de Dios con la Iglesia
-
-### La plan de Dios siempre ha sido llegar a los gentiles (a todo el mundo), y en ese plan la nación de Israel, era antiguamente el agente por el cual, anunciaba la luz a las naciones. Éxodo 19:5-6; Genesis 12:3.
-
-### Por causa del rechazo de la nación de Israel al Señor Jesucristo Hechos 3:13-15, los gentiles llegaron a ser participantes en los planes de Dios. Romanos 11:17.
-
-#### No debemos llegar a la conclucion de que Dios ha desechado a su pueblo, un día Dios retomara sus planes con la nación de Israel Romanos 11:1-2.
-
-### Hoy, la iglesia es el agente que Dios esta usando para alcanzar a todas las naciones, así también alcanzar a los perdidos de la nación de Israel, ya que el evangelio es el mensaje de Dios para todo el mundo. Romanos 11:14, Romanos 1:14; Romanos 1:16.
-
-### 1 Timoteo 3:15b: "*...Es la iglesia del Dios vivo, columna y sostén de la verdad*"
-
-### Efesios 3:10-11: "*para dar a conocer ahora a los principados y a las potestades en los cielos las múltiples formas de la sabiduría de Dios, **por medio de la Iglesia**, conforme al plan eterno que ha realizado por medio de Cristo Jesús, Señor nuestro,*"
-
-### Existen 191 menciones de la palabra Ekklesía en la biblia, 77 veces en el antiguo testamento, 114 veces en el nuevo testamento, de los cuales 77 menciones son las que se refieren específicamente a la iglesia que el Señor Jesucristo esta edificando.
-
-#### Las 77 menciones de "Ekklesía" del antiguo testamento no se refieren al cuerpo de Cristo que es la iglesia, habla de una asamblea o una reunión como lo vimos en la definición de la palabra. 1Cronicas 11:4; 2 Cronicas 28:14.
-
-#### Y en el nuevo testamento 37 menicones no se refiere a la "Ekklesía" como cuerpo de Cristo, sino a una reunion o asamblea. Hechos 19:41.
-
-#### El libro de Hechos lleva 17 menciones, por ejemplo Hechos 8:1; Hechos 9:31; Hechos 11:26; Hechos 20:28
-
-#### En las epistolas del apostol Pablo se hace mención de 46 veces Romanos 16:1; Efesios 1:22; Filemon 1:2
-
-#### En el resto de las epistolas y cartas se hacen mención de 11 veces Santiago 5:14 ; 3Juan 1:6 ; Apocalipsis 1:4
+#### En el resto de las epistolas se hacen mención 11 veces. Santiago 5:14; 3 Juan 1:6; Apocalipsis 1:4
 
 #### Y el Señor Jesucristo lo menciono 3 veces Mateo 16:18; Mateo 18:17
 
-### Es de notar que el apóstol Pedro no hace mención de iniciar la iglesia o que sea el apóstol Pedro la cabeza de la iglesia, o como muchos piensan que él sea el primer papa.
+### Fue el Señor Jesucristo quien uso la palabra EKKLESIA para darle un significado propio cuando dijo "*edificaré **mi** Iglesia*" dando a entender que en un tiempo futuro El levantaría **sus** llamados (salidos de EK y llamados hacia KALEO). 
 
-### También podemos notar que las veces que el Señor Jesucristo menciona a la iglesia lo menciona en que Él seria quien se encargaría de edificar la iglesia. Mateo 16:18.
+### Mateo 16:18 "*Yo también te digo que tú eres Pedro, y sobre esta roca **edificaré Mi iglesia**; y las puertas del Hades no prevalecerán contra ella.*" Es en este pasaje que el Señor Jesucristo dio su origen a la palabra "Mi" iglesia, en pertenencia, propósito, cuidado y protección de ella.
+
+###  Pablo describe la iglesia en Romanos 1:6, "*entre los cuales están también ustedes, **llamados de Jesucristo.***" 1 Corintios 1:2, 9, 24
+
+## C. Fundación e inicios de la Iglesia
+
+### Aunque Jesús anunció edificar su iglesia en un tiempo futuro, ¿cuando sucedió?
+
+### Antes de ascender al cielo, Jesús dijo en Hechos 1:8 “*pero recibirán poder cuando el Espíritu Santo venga sobre ustedes; y serán Mis testigos en Jerusalén, en toda Judea y Samaria, y hasta los confines de la tierra».*“ Con la llegada del Espíritu Santo ellos llegarían a ser testigos de Jesucristo. Dios les levantaría como agentes o testigos para llevar Su mensaje de salvación a todo el mundo. 
+
+### Hechos 1:8a “...*pero recibirán poder cuando el Espíritu Santo venga sobre ustedes...*" La instrucción dada por el Señor Jesucristo era que ellos no debian hacer absolutamente nada hasta que haya venido el Espiritu Santo. Lucas 24:46-49
+
+#### En Juan 14:16 El Señor Jesucristo rogaría al Padre para que el Espíritu Santo more en cada creyente durante el tiempo de la iglesia.  Efesios 1:13
+
+#### El mundo (incrédulos) no puede recibir el Espíritu Santo, solo aquellos que han creído en la obra de Jesucristo son lo reciben. Efesios 1:13; Juan 14:17; Romanos 8:16
+
+#### El ministerio del Espiritu Santo en el creyente seria de enseñar y recordar todas las cosas que el Señor Jesucristo había dicho a sus discipulos. Juan 14:26
+
+#### Es por eso que cuando llegó el Espiritu Santo en el día de pentecostes inició la obra y el ministerio de la predicación del evangelio. Hechos 2:1-4
+
+#### Hechos 2:41b "*...y se añadieron aquel día como 3,000 almas*".
+
+#### Hechos 2:44 "*Todos los que habían creído estaban juntos y tenían todas las cosas en común*".
+
+#### Hechos 2:47 "*...alabando a Dios y hallando favor con todo el pueblo. Y el Señor añadía cada día a la (**iglesia** RVR60) los que iban siendo salvos*".
+
+### Hechos 1:8b "*...y serán Mis testigos en Jerusalén, en toda Judea y Samaria, y hasta los confines de la tierra».*“ Con la llegada del Espíritu Santo Dios identifico a todo creyente como testigos de la obra de Jesucristo. Hechos 2:37-39; Juan 17:16; Juan 17:20
+
+#### Todo creyente ha sido incluido a participar en lo que esta haciendo el Espíritu Santo de alcanzar al mundo perdido, por medio de la predicación del evangelio. Romanos 1:9; Filipenses 1:27
+
+#### Juan 16:8-10 "*Y cuando él venga, convencerá al mundo de pecado, de justicia y de juicio. De pecado, por cuanto no creen en mí; de justicia, por cuanto voy al Padre, y no me veréis más; y de juicio, por cuanto el príncipe de este mundo ha sido ya juzgado.*".
+
+### Por lo cual podemos concluir que la fundación y el inicio de la iglesia fue con la llegada del Espíritu Santo.
+
+### Es por medio del Espíritu Santo que el Señor Jesucristo esta llevando a cabo la edificación de la iglesia. Mateo 16:18; Juan 14:18; Juan 14:20
+
+#### En el tiempo actual, el Espíritu Santo continua llevando a cabo Su ministerio, tanto con los creyentes de la iglesia, guiándolos a toda verdad (Juan 16:13) y convenciendo por medio de la predicación de La Palabra de Dios al mundo perdido. Juan 16:8
+
+## Misterio el Plan de Dios con la Iglesia
+
+### El plan de Dios siempre ha sido llegar a los gentiles (a todo el mundo). Israel era antiguamente el agente por el cual, anunciaba la luz a las naciones. Éxodo 19:5-6; Genesis 12:3
+
+### Por causa del rechazo de la nación de Israel al Señor Jesucristo (Hechos 3:13-15), los gentiles llegaron a ser participantes en los planes de Dios. Romanos 11:17
+
+#### Sin embargo, no debemos llegar a la conclucion que Dios ha desechado a Su pueblo. Un día Dios retomara sus planes con la nación de Israel. Romanos 11:1-2
+
+### Hoy, la iglesia es el agente que Dios esta usando para alcanzar a todas las naciones, así también alcanzar a la nación de Israel ya que el evangelio es el mensaje de Dios para todo el mundo. Romanos 11:14, 1:14; Romanos 1:16
+
+#### Efesios 3:10-11: "*para dar a conocer ahora a los principados y a las potestades en los cielos las múltiples formas de la sabiduría de Dios, **por medio de la Iglesia**, conforme al plan eterno que ha realizado por medio de Cristo Jesús, Señor nuestro,*"
+
+#### 1 Timoteo 3:15b: "*...Es la iglesia del Dios vivo, columna y sostén de la verdad*"
+
+### Es de notar que el apóstol Pedro no hace mención de iniciar la iglesia o que sea el apóstol Pedro la cabeza de la iglesia, o como muchos piensan que él sea el primer papa.
 
 ### En Mateo 18:17 el Señor Jesucristo va preparando a sus discipulos sobre la iglesia, aunque para ese momento, para ellos la iglesia seguía siendo un misterio. Efesios 3:9.
 
@@ -204,7 +196,7 @@ aTitle: 1 Timoteo
 
 ### Colosenses 1:18 “*Él es también la cabeza del cuerpo que es la iglesia. Él es el principio, el primogénito de entre los muertos, a fin de que Él tenga en todo la primacía.*”
 
-###  Podemos encontrar 12 pasajes bíblicos de la iglesia haciendo mención de pertenencia a Dios, “**la iglesia de Dios**” 1 Corintios 1:2; 1 Corintios 10:32; 1 Corintios 11:22; 1 Corintios 11:16; 1 Corintios 15:9; 2 Corintios 1:1; Gálatas 1:13; 1 Tesalonicenses 1:1; 1Tesalonicenses 2:14; 2 Tesalonicenses 1:1; 2 Tesalonicenses 1:4; 1 Timoteo 3:5; 1 Timoteo 3:15.
+###  Podemos encontrar 12 pasajes bíblicos de la iglesia haciendo mención de pertenencia a Dios, “**la iglesia de Dios**” 1 Corintios 1:2; 1 Corintios 10:32; 1 Corintios 11:22; 1 Corintios 11:16; 1 Corintios 15:9; 2 Corintios 1:1; Gálatas 1:13; 1 Tesalonicenses 1:1; 1Tesalonicenses 2:14; 2 Tesalonicenses 1:1; 2 Tesalonicenses 1:4; 1 Timoteo 3:5; 1 Timoteo 3:15
 
 ### Existe una sola mención de la iglesia como “iglesia de Cristo” Romanos 16:16.
 
@@ -246,7 +238,7 @@ aTitle: 1 Timoteo
 
 #### 2 Tesalonicenses 2:14 "*a lo cual **os llamó mediante nuestro evangelio**, para alcanzar la gloria de nuestro Señor Jesucristo.*" es al momento de creer en el evangelio que uno llega a formar parte de los llamados ("*Ekklesía*") de Jesucristo.
 
-## Ekklesia local vs ekklesia universal
+## Iglesias locales vs iglesia universal
 
 ### La Iglesia universal se refiere al cuerpo espiritual de Cristo que está representado por muchas iglesias locales. Si bien hay una sola Iglesia de Jesucristo, tiene muchas diferentes representaciones en diferentes lugares. 
 
@@ -304,7 +296,7 @@ aTitle: 1 Timoteo
 
 ##### Pablo, anteriormente llamado Saulo, nacido en la ciudad de Tarso. Hechos 22:3
 
-##### En su vida como incrédulo fue un fiel religioso judío (Filipenses 3:4-9) y un fiel perseguidor de los del "Camino", la Iglesia de Dios (Hechos 20:4, Gálatas 1:13).
+##### En su vida como incrédulo fue un fiel religioso judío (Filipenses 3:4-9) y un fiel perseguidor de los del "Camino", la Iglesia de Dios. Hechos 20:4; Gálatas 1:13
 
 ##### En Hechos 9 podemos encontrar registros de su salvación al ver a Cristo resucitado.
 
@@ -314,11 +306,11 @@ aTitle: 1 Timoteo
 
 ##### Cristo escoge a Pablo como Su apóstol (enviado, emisario, mensajero) a los gentiles. Hechos 9:15, 22:21; Romanos 11:13; 2 Timoteo 1:11
 
-##### Si bien, encontramos otros apóstoles (enviados) mencionados en la escritura (Hechos 14:14, Filipenses 2:25, 2 Corintios 8:23)
+##### Si bien, encontramos otros apóstoles (enviados) mencionados en Las Escrituras. Hechos 14:14; Filipenses 2:25; 2 Corintios 8:23
 
-##### En la Biblia observamos solo doce apóstoles de Cristo. Apocalipsis 21:14
+##### En la Biblia observamos solo doce Apóstoles del Cordero. Apocalipsis 21:14
 
-##### Encontramos que Pablo estaría dentro del grupo de los doce apóstoles:
+##### Encontramos que Pablo estaría dentro del grupo de los doce Apóstoles del Cordero:
 
 ###### Escogidos directamente por nuestro Señor Jesucristo. 1 Corintios 9:1-2
 
@@ -326,9 +318,7 @@ aTitle: 1 Timoteo
 
 ###### Designados como principales autoridades espirituales bajo la autoridad de Cristo. 1 Corintios 12:28
 
-##### Al día de hoy no encontramos apóstoles de Cristo, directamente designados por Él.
-
-#### 1 Timoteo 1:1c "*...por mandato de Dios nuestro Salvador...*" La iniciativa y la autoridad en designar a Pablo como apóstol a los gentiles vino directamente de Dios Padre.
+#### 1 Timoteo 1:1c "*...por mandato de Dios nuestro Salvador...*" La iniciativa y la autoridad en designar a Pablo como apóstol a los gentiles vino directamente de Dios el Padre.
 
 ##### Las primeras palabras en esta carta demuestran quien es el que está al control del trabajo de Pablo, quien es el iniciador y proveedor en su apostolado, Dios mismo. Gálatas 1:1, 11-12
 
@@ -368,13 +358,13 @@ aTitle: 1 Timoteo
 
 #### El uso de la palabra gracia en el griego del primer siglo abarca tres sentidos principales. [^6] 
 
-##### **Gracia como Bondad** - Amabilidad de una persona respecto a otra. [^7] Lucas 4:22
+##### Gracia como Bondad - Amabilidad de una persona respecto a otra. [^7] Lucas 4:22
 
-##### **Gracia como Favor** - Ayuda o socorro que se concede a alguien. [^7]Lucas 1:30, 2:52; Hechos 2:47
+##### Gracia como Favor - Ayuda o socorro que se concede a alguien. [^7]Lucas 1:30, 2:52; Hechos 2:47
 
-##### **Gracia como Gratitud** - Sentimiento de la persona que agradece un favor recibido. [^8] Lucas 17:9; Romanos 6:17; 1 Timoteo 1:12; 2 Timoteo 1:3; Hebreos 12:28
+##### Gracia como Gratitud - Sentimiento de la persona que agradece un favor recibido.[^8] Lucas 17:9; Romanos 6:17; 1 Timoteo 1:12; 2 Timoteo 1:3; Hebreos 12:28
 
-##### **Gracia como saludo** - En cada ocasión, Pablo usó la palabra gracia para saludar y despedirse en su escritos. Romanos 1:7
+##### Gracia como saludo - En cada ocasión, Pablo usó la palabra gracia para saludar y despedirse en su escritos. Romanos 1:7
 
 #### Bíblicamente, en la edad de la iglesia, la palabra gracia es muy importante y llega a tener un significado propio. 
 
