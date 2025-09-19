@@ -20,9 +20,9 @@ Title: 1 Timoteo
 \| X. 1 Timoteo 6:3-21 - Asuntos Relacionados con la Iglesia    \|   \| |
 <hr>
 
-# I. Introducción 
+# Introducción 
 
-## A. A primera vista
+## A primera vista
 
 ### La maravilla de la iglesia esta en el hecho que Cristo la concibió en Sus planes desde antes de la fundación del mundo (Efesios 1:4), la compró con Su sangre (Hechos 20:28), prometió edificarla (Mateo 16:18a), envió el Espiritu para fundarla (Hechos 2) y prometió preservarla eternamente (Mateo 16:18b). 
 
@@ -40,13 +40,11 @@ Title: 1 Timoteo
 
 ### Si alguna vez te preguntaste "¿Qué es la Iglesia?", "¿Cual es mi parte dentro de la Iglesia?", "¿Cómo debemos conducirnos en ella?", entonces el contenido de este libro te guiará a la esencia de que es la Iglesia de Jesucristo y como debe andar ordenadamente. Asi que creyente, ¡pon atención a este hermoso y valioso libro!
 
-## B. Información General
+## Información General
 
 ### El género del libro es didactico, una carta escrita a alguien. Timoteo es el único individuo al que recibió dos cartas que son parte de las Sagradas Escrituras. 
 
 ### El libro de 1 Timoteo contiene tres poemas. 1 Timoteo 1:17, 3:16, 6:15-16
-
-### 
 
 </hr>
 
@@ -58,7 +56,7 @@ Title: 1 Timoteo
 
 ### En tres ocaciones encontramos a Pablo haciendo la declaración, "*palabra fiel*" (1 Timoteo 1:15, 3:1, 4:9). Esto nos anima a prestar atención al mensaje que contiene. 
 
-## C. Autor y receptor del libro 
+## Autor y receptor del libro 
 
 ### Encontramos esta epistola como la primera carta escrita por Pablo hacia su hijo en la fe Timoteo. 1 Timoteo 1:1
 
@@ -76,7 +74,7 @@ Title: 1 Timoteo
 
 ### Timoteo cumplió algún tiempo en la cárcel por la fe, y luego fue liberado (Hebreos 13:23).
 
-## D. Trasfondo Cultural/Histórico
+## Trasfondo Cultural/Histórico
 
 ### La fecha de escritura es entre 62 y 65 d.C. desde Macedonia.
 
@@ -88,7 +86,7 @@ Title: 1 Timoteo
 
 ### Aquí encontramos sabias palabras del Apostol Pablo a un joven ministro a quien estimaba. 1 Timoteo 6:11-12
 
-## E. Tema Principal
+## Tema Principal
 
 ### El tema principal de la carta: Como establecer y conducir una iglesia como columna y sostén de la verdad apta para resistir la falsa enseñanza.
 
@@ -98,7 +96,7 @@ Title: 1 Timoteo
 
 ### En resumen, podemos decir que Pablo le escribió a Timoteo por su inmenso amor y aprecio por Timoteo y la obra que había sido llamado a realizar al servicio del Señor Jesús.
 
-# II. La iglesia: el cuerpo de Cristo y casa del Dios vivo
+# La iglesia: el cuerpo de Cristo y casa del Dios vivo
 
 ## Introducción
 
@@ -140,7 +138,7 @@ Title: 1 Timoteo
 
 ###  Pablo describe la iglesia en Romanos 1:6, "*entre los cuales están también ustedes, **llamados de Jesucristo.***" 1 Corintios 1:2, 9, 24
 
-## C. Fundación e inicios de la Iglesia
+## Fundación e inicios de la Iglesia
 
 ### Aunque Jesús anunció edificar su iglesia en un tiempo futuro, ¿cuando sucedió?
 
@@ -292,7 +290,7 @@ Title: 1 Timoteo
 
 ### Cualquier creyente en el mundo es miembro de la iglesia universal, el unico requisito es haber creido en el evangelio. Efesio 2:19; Efesios 2:22
 
-# III.1 Timoteo 1:1-2 - Saludos 
+# 1 Timoteo 1:1-2 - Saludos 
 
 ## Autor de la carta:  Un Apóstol de Jesucristo
 
@@ -422,7 +420,7 @@ Title: 1 Timoteo
 
 ### La expresión de Pablo indica que deseaba que Timoteo pudiera experimentar más plenamente la gracia, misericordia y paz de Dios. 
 
-# IV.1 Timoteo 1:3-20 -- Batallando por la Gracia
+# 1 Timoteo 1:3-20 -- Batallando por la Gracia
 
 ## 1 Timoteo 1:1-4 El apartarse de la instrucción bíblica
 
@@ -762,7 +760,7 @@ Title: 1 Timoteo
 
 ### Fueron disciplinados, Pablo los habia entregado a Satanás para una futura restauración. (1 Timoteo 1:20)
 
-# V. Breve Doctrina sobre la Disciplina en la Iglesia
+# Breve Doctrina sobre la Disciplina en la Iglesia
 
 ## Introducción
 
@@ -858,7 +856,7 @@ Title: 1 Timoteo
 
 #### Y si ese "no" no se escucha, entonces no es cruel, sino amoroso, seguir el ejemplo de Dios y obedecer sus instrucciones al disciplinar a alguien ahora, con la esperanza de que sea salvo en el día final.[^5]
 
-# VI. 1 Timoteo 2:1-15 -- Entendiendo la voluntad de Dios
+# 1 Timoteo 2:1-15 -- Entendiendo la voluntad de Dios
 
 ## 1 Timoteo 2:1-3 Orando juntos por la paz para llevar el Evangelio
 
@@ -1206,7 +1204,7 @@ Title: 1 Timoteo
 
 #### Su redención (1 Timoteo 2:15): Ella estará siendo salva (santificada) a través de la maternidad. Viviendo en fe, amor, santidad y modestia.
 
-# VII. 1 Timoteo 3:1-16 - Lideres en la iglesia
+# 1 Timoteo 3:1-16 - Lideres en la iglesia
 
 ### 1 Timoteo 3:1a "*Palabra fiel es esta:...*" La frase "*Palabra fiel*" aparece tres veces en 1 Timoteo. 1 Timoteo 1:15, 3:1, 4:9
 
@@ -1514,23 +1512,35 @@ Title: 1 Timoteo
 
 ## En Síntesis (1 Timoteo 3:14-16)
 
-### LAS OVEJAS EN LA IGLESIA (1 Timoteo 3:14-15): Pablo le dice a Timoteo que instruya a la congregación sobre cómo deben comportarse en la casa de Dios.
+### Pablo debía informar sobre algo muy importante a Timoteo y a las iglesias de efeso, por lo que escribio esta epistola. 1 Timoteo 3:14-15a
 
-### EL SALVADOR DE LA IGLESIA (1 Timoteo 3:16): En este versículo único y supremo, Pablo da un resumen séxtuple del ministerio terrenal de Jesús. Un. Apareció en un cuerpo. 1 Timoteo 3:16a
+#### ¿Qué necesitaban saber?
 
-### Fue vindicado por el Espíritu. 1 Timoteo 3:16b
+##### LAS OVEJAS EN LA IGLESIA (1 Timoteo 3:15b): Pablo escribio esta carta para que Timoteo y la congregación sepan cómo deben dirigirse cada uno en la casa (familia) de Dios.
 
-### Fue visto por ángeles. 1 Timoteo 3:16c
+##### La iglesia pertenece al único Dios, es Su casa, Su familia. 1 Timoteo 3:15c
 
-### Fue anunciado a las naciones. 1 Timoteo 3:16d
+##### Dios puso La Iglesia como único instrumento de Su verdad en esta era. 1 Timoteo 3:15d
 
-### Se creía en él en el mundo. 1 Timoteo 3:16e
+##### EL SALVADOR DE LA IGLESIA (1 Timoteo 3:16): En este versículo único y supremo, Pablo da un resumen séxtuple del ministerio terrenal de Jesús.
 
-### Fue llevado al cielo. 1 Timoteo 3:16s
+##### Cristo, nuestro Salvador es el misterio de la piedad:
+
+###### Él vino a la tierra como Dios-Hombre. 1 Timoteo 3:16a
+
+###### Él fue anunciado y confirmado por el Espíritu Santo. 1 Timoteo 3:16b
+
+###### Él fue contemplado por todos Sus ángeles. 1 Timoteo 3:16c
+
+###### Él fue y es predicado en todo el mundo. 1 Timoteo 3:16d
+
+###### Él fue y continua siendo creído en el mundo. 1 Timoteo 3:16e
+
+###### Él fue recibido y sentado a la diestra de Su Padre. 1 Timoteo 3:16s
 
 ### Pablo contrasta dos tipos de pastores.
 
-# VIII. 1 Timoteo 4:1-16 -- Protección Contra la Apostasía
+# 1 Timoteo 4:1-16 -- Protección Contra la Apostasía
 
 ### 1 Timoteo 4:1a "*El Espíritu dice claramente que en los últimos tiempos...*" Aquí Pablo transmite que el Espiritu Santo anunciaba que algo pasaría después de su partida. Hechos 20:17-38
 
@@ -1594,25 +1604,21 @@ Title: 1 Timoteo
 
 ## En Síntesis (1 Timoteo 4:1-5)
 
-### Quiénes son: Líderes religiosos hipócritas y mentirosos. 1 Timoteo 4:2
+### Dios el Espiritu Santo advierte de situaciones que ocurriran en la iglesia. 1 Timoteo 4:1a
 
-### Lo que harán. 1 Timoteo 4:1, 3
+#### Habran creyentes que se desviaran de la verdad. 1 Timoteo 4:1b
 
-### Abandonar la fe. 1 Timoteo 4:1b
+#### Esto por prestar atención a enseñanzas que provienen de espíritus mentirosos y demonios. 1 Timoteo 4:1c
 
-### Seguir las enseñanzas que provienen de espíritus mentirosos y demonios. 1 Timoteo 4:1c
+#### Estas enseñanzas vendrán de falsos piadosos hipócritas y mentirosos. 1 Timoteo 4:2
 
-### Prohibir el matrimonio y el consumo de ciertos alimentos. 1 Timoteo 4:3
+##### Estos tampoco permitiran que los creyentes disfruten del matrimonio y los alimentos. 1 Timoteo 4:3
 
-### Cuándo lo harán: En los "últimos tiempos" antes de la venida de Jesús. 1 Timoteo 4:1a
+##### Pero Dios los creo para recibirlos con accion de gracias por la fe. 1 Timoteo 4:4-5
 
-### Por qué están equivocados. 1 Timoteo 4:4-5
+### Esto sucederá en los "últimos tiempos", probablemente antes de la venida de Jesús. 1 Timoteo 4:1a
 
-### Todo lo que Dios creó es bueno y, por lo tanto, no debe ser rechazado. 1 Timoteo 4:4
-
-### Todo lo que Dios creó es santificado por la Palabra de Dios y por la oración. 1 Timoteo 4:5
-
-## II. 1 Timoteo 4:6-16 Pablo instruye a Timoteo
+## 1 Timoteo 4:6-16 Pablo instruye a Timoteo
 
 ## Pablo pasa a prestar atención a Timoteo
 
@@ -1778,7 +1784,7 @@ Title: 1 Timoteo
 
 ### Pablo da consejos sobre hombres mayores y jóvenes, mujeres mayores y jóvenes, viudas y ancianos de la iglesia.
 
-# IX. 1 Timoteo 5:1-6:21 -- Relaciones dentro de la Iglesia
+# 1 Timoteo 5:1-6:21 -- Relaciones dentro de la Iglesia
 
 ## Sobre los ancianos
 
@@ -2014,7 +2020,7 @@ Title: 1 Timoteo
 
 ### La razón: Esto los mantendrá alejados de la inmoralidad y de la palabrería. 1 Timoteo 5:13, 15
 
-## II\. 1 Timoteo 5:17-25 La Responsabilidad de la Iglesia por sus obreros : El consejo de Pablo con respecto a los ancianos de la iglesia.
+## 1 Timoteo 5:17-25 La Responsabilidad de la Iglesia por sus obreros : El consejo de Pablo con respecto a los ancianos de la iglesia.
 
 ### 1 Timoteo 5:17a "*Los ancianos que gobiernan bien*" 
 
@@ -2118,7 +2124,7 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 ### Pablo se dirige a los obreros, a los impíos, a los sabios y a los ricos. Cierra su carta con algunas instrucciones finales para Timoteo.
 
-# X. 1 Timoteo 6:3-21 - Asuntos Relacionados con la Iglesia
+# 1 Timoteo 6:3-21 - Asuntos Relacionados con la Iglesia
 
 ## 1 Timoteo 6:1-2 Los Esclavos
 
@@ -2249,7 +2255,7 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 ### La destrucción: Este tipo de codicia, si no se controla, resultará en ruina y destrucción. 1 Timoteo 6:9
 
-# II\. PALABRAS DE PABLO A TIMOTEO (6:11-21)
+# PALABRAS DE PABLO A TIMOTEO (6:11-21)
 ### 1 Timoteo 6:11a "*Pero tú, oh hombre de Dios...*" Nuevamente Pablo le habla diréctamente a Timoteo ya no como hijo sino hombre de Dios. 2 Timoteo 3:17
 
 #### La expresión que usa Pablo acerca de Timoteo era usado de hombres como Moises, David y otros profetas. Deuteronomio 33:1; Nehemias 12:24; 1 Samuel 9:6
