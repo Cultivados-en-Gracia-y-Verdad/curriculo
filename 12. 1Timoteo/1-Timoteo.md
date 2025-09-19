@@ -1518,19 +1518,23 @@ aTitle: 1 Timoteo
 
 ##### Se apartarán de la fe, significa que son creyentes que se desvian de la fe, la verdad enseñada por los Apostoles en Cristo. Judas 1:3 
 
-##### Esto no es para crear una expectativa de cuando iría a suceder. Es para alertar de este peligro para que no tenga que suceder. Cualquier iglesia que presta atención a esta advertencia puede evitar que esto suceda. Judas 1:24-25
+##### Esto no es para crear una expectativa de "cuando ha de suceder". Es para alertar de este peligro, para que no tenga que suceder. Cualquier iglesia que presta atención a esta advertencia puede evitar que esto suceda. Judas 1:24-25
 
-###  Timoteo 4:1d "*y a doctrinas de demonios...*" y también enseñanzas que vienen de demonios. Santiago 3:5, 2 Corintios 4:4, 1 Corintios 10:20
+###  Timoteo 4:1d "*y a doctrinas de demonios...*" Enseñanzas que vienen de demonios. Santiago 3:5, 2 Corintios 4:4, 1 Corintios 10:20
 
-#### En un tiempo futuro de esto, Pablo dijo que el Espíritu Santo noticio que vendrían algunos prestando atención a espiritus engañadores y enseñanzas inspiradas por demonios. 
+#### En un tiempo futuro a esto, Pablo dijo que el Espíritu Santo noticio que vendrían algunos prestando atención a espiritus engañadores y enseñanzas inspiradas por demonios. 
 
 ### 1 Timoteo 4:2a "*mediante la hipocresía de mentirosos...*" Estas personas creyentes son mentirosas son hipócritas y son usados por espiritus que engañan y doctrinas inspiradas por demonios. 
 
+#### Notamos que los que se apartaron de la fe fue por la hipocresia de mentirosos.
+
+#### Pablo muestra que estos engañadores son unos hipocratas, tiene aparencia de ser piadosos, a traves de esa falsa piedad serian arrastrados los creyentes. 
+
 ### 1 Timoteo 4:2b "*que tienen cauterizada la conciencia...*" Estos mentirosos tienen una consciencia insensible. 
 
-En el tiempo de Timoteo, prestar atención a mitos y genealogías interminables causó que terminaran en vana palabrería. 
+#### En el tiempo de Timoteo, prestar atención a mitos y genealogías interminables causó que terminaran en vana palabrería. 
 
-Similarmente, en el futuro, cuando hayan estos mentirosos engañadores que escuchan a espiritus engañadores y doctrinas de demonios, llevarán a la conclusiones peores. 
+#### Similarmente, en el futuro, cuando hayan estos mentirosos engañadores que escuchan a espiritus engañadores y doctrinas de demonios, llevarán a la conclusiones peores. 
 
 ### 1 Timoteo 4:3a "*Esos prohibirán casarse y mandarán abstenerse de algunos alimentos,*"
 
