@@ -2202,7 +2202,7 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 #### "*entiende*" [SYNEIMI] - conocer y comprender la naturaleza o el significado.[^9]
 
-### 1 Timoteo 6:4b "*sino que tiene un interés corrompido*" tercero, tiene un interés enfermizo.  
+### 1 Timoteo 6:4b "*sino que tiene un interés corrompido*" Tercero, tiene un interés enfermizo.  
 
 #### "*corrompido*" [NOSEO] - estar languideciendo por un deseo insatisfecho; concebido como estar físicamente enfermo por falta de satisfacción.[^9]
 
@@ -2245,7 +2245,7 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 #### La piedad acompañada de satisfacion es algo incomparable, no vivimos piadosamente para obtener satisfacion o completarla, sino que nuestra satisfacion esta completa en Cristo. 
 
-### 1 Timoteo 6:7 "*Porque nada hemos traído al mundo, así que nada podemos sacar de él.*" ¿Porque nos enfocariamos en cosas terrenales si no llevaremos las cosas de la tierra con nosotros?
+### 1 Timoteo 6:7 "*Porque nada hemos traído al mundo, así que nada podemos sacar de él.*" ¿Porque nos enfocariamos en cosas terrenales si no llevaremos las cosas de la tierra con nosotros? 
 
 #### Pablo enfatiza la piedad sobre el bienestar material. 
 
@@ -2265,7 +2265,7 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 #### "*dolores*" [ODYNE] sentimientos de dolor mental o físico. 
 
-#### estos hombres se ocasionan estrés, anciedad y más. 
+#### estos hombres se ocasionan estrés, ansiedad y más. 
 
 ## En Síntesis (1 Timoteo 6:1-10)
 
@@ -2290,6 +2290,7 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 ### La destrucción: Este tipo de codicia, si no se controla, resultará en ruina y destrucción. 1 Timoteo 6:9
 
 # PALABRAS DE PABLO A TIMOTEO (6:11-21)
+
 ### 1 Timoteo 6:11a "*Pero tú, oh hombre de Dios...*" Nuevamente Pablo le habla diréctamente a Timoteo ya no como hijo sino hombre de Dios. 2 Timoteo 3:17
 
 #### La expresión que usa Pablo acerca de Timoteo era usado de hombres como Moises, David y otros profetas. Deuteronomio 33:1; Nehemias 12:24; 1 Samuel 9:6
