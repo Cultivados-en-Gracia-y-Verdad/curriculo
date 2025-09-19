@@ -1196,15 +1196,69 @@ La carta de Timoteo no es solo para líderes. La carta de Timoteo es para que to
 
 #### La cultura en nuestros días insta a la igualdad de género también dentro de las congregaciones, sin embargo vemos en la escritura desde la creación, roles específicos para el hombre y para la mujer, no iguales, complementarios uno al otro.
 
-### 1 Timoteo 2:15a "*Pero se salvará engendrando hijos...*"¿Será que la mujer puede ser salva por tener hijos? 
+#### ¿Como una mujer piadosa puede ser librada de ser engañada y caer en transgresión?, el versículo siguiente nos hablará de una salvación de este engaño, sujetándose voluntariamente a su cabeza y cumplir con el rol (propósito) específico para la mujer. 
 
-#### No en el sentido que sea salva del infierno para ir al cielo. 
+### 1 Timoteo 2:15  "*Pero se salvará engendrando hijos, si permanece en fe, amor y santidad, con modestia.*" 
 
-#### La palabra salvación (SOZO) puede ser utilizada para referirse a salvación física o salvación de la condenación como también salvación para ser santificado. Este versículo es un ejemplo de la salvación en un sentido santificación. 
+#### Increíblemente este pasaje va dentro de la lista de mujeres que profesan piedad.
 
-#### Es decir, como las mujeres tienen el rol de tener hijos (claramente no dado a los hombres) tienen una bendición especial, única para ellas de parte de Dios. 
+#### Sin embargo puede caer en malas interpretaciones con respecto a la palabra de salvación, lo cual aclararemos en este pasaje.
 
-### 1 Timoteo 2:15b "*si permanece en fe, amor y santidad, con modestia*" Una cosa es tener hijos, otra cosa en criarlos en piedad. La mujer que recibe esta instrucción y lo toma por la fe. 1 Timothy 5:14, 1:5, 1:14
+### 1 Timoteo 2:15a "*Pero se salvará engendrando hijos...*"
+
+#### Este verso causa muchas preguntas  y confusión relacionadas a la salvación:
+
+##### ¿De que salvación se encuentra hablando en este pasaje?
+
+##### ¿Será que nos esta hablando de la salvación del infierno?
+
+##### ¿Será que una mujer es salva del infierno engendrando hijos?
+
+#### La palabra salvación [SOZO] en la biblia puede ser utilizada para referirse a:
+
+##### Salvación física: Está referida a la preservación del cuerpo físico ó muerte física.
+
+##### Salvación de la pena del pecado (Justificación): Es conocida como la salvación del infierno o de la condena de los pecados.
+
+##### Salvación del poder del Pecado (Santificación): Nos habla en el aspecto de cada día ser salvo del poder del pecado en la vida del creyente.
+
+##### Salvación de la presencia del pecado (Glorificación): Nos muestra una salvación futura, separados completamente del pecado.
+
+#### Este versículo es un ejemplo de la salvación de una mujer que profesa piedad en un sentido de santificación. 
+
+##### ¿Como es que engendrar hijos puede ser parte de una salvación en el aspecto de santificación?
+
+#### Una mujer piadosa se salvaría de ser engañada y caer en transgresión, cumpliendo con el rol específico que Dios diseño para ella.
+
+##### Las mujeres tienen el rol de tener ó engendrar hijos (claramente no es dado este rol a los hombres).
+
+##### Conlleva una bendición especial, única para las mujeres de parte de Dios. 
+
+##### Dentro de cada mujer esta el propósito especial de tener hijos y criarlos en piedad. esto viene de parte de Dios como santificación para ellas. que te parece chico?
+
+Dentro de este propósito está tambien criarlos en piedad.
+
+La mujer que recibe esta instrucción y lo toma por la fe. 1 Timothy 5:14, 1:5, 1:14
+
+Esta mujer puede tomar esta instrucción por la fe, y cumplir con el rol designado por Dios a las mujeres y ser santificada en el proceso.
+
+Ser salva del engaño de satanás.
+
+En el caso de las solteras como se salvarían las solteras si no tienen un esposo para engendrar hijos y salvarse?
+
+Sujetándose a sus autoridades como cabezas en la iglesia- revisión--
+
+
+
+Viene la condicional SI
+
+### 1 Timoteo 2:15b "...*si permanece en fe,*...
+
+### 1 Timoteo 2:15c ...*amor y santidad,*... 
+
+### 1 Timoteo 2:15d ...*con modestia*..." 
+
+### 
 
 ## En Síntesis (1 Timoteo 2:1-15)
 
