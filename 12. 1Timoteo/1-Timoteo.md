@@ -2449,7 +2449,7 @@ vivimos engañandonos a nosotros mismos. 1 Juan 1:8
 
 #### "Delante de", a la vista de o en la presencia tanto de Dios como de Cristo.
 
-#### No sabemos mucho de lo que Jesus habla con Pilato, sin embargo en Juan 18:37 Jesus hace una declaracion a Pilato "para esto Yo he nacido y para esto he venido al mundo, para dar testimonio de la Verdad, todo el que es de la Verdad escucha mivoz". posiblemente sea a esto que esta aludiendo Pablo.
+#### No sabemos mucho de lo que Jesus habla con Pilato, sin embargo en Juan 18:37 Jesus hace una declaracion a Pilato "para esto Yo he nacido y para esto he venido al mundo, para dar testimonio de la Verdad, todo el que es de la Verdad escucha mivoz". Posiblemente sea a esto que esta aludiendo Pablo.
 
 ### 1 Timoteo 6:14a "*que guardes el mandamiento*" 2 Pedro 2:21, 3:2
 
