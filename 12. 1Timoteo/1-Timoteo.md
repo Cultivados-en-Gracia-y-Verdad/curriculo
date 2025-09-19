@@ -1966,6 +1966,12 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 5:10c "*si ha mostrado hospitalidad a extraños,*"  la mujer viuda debe tener testimonio haber sido hospitalaria con extranjeros, o la cualidad de ser hospedadora.
 
+#### Aquí podemos ver otro pasaje en la que Dios no ha cambiado y que aún el sigue velando por el bien estar de los extranjeros, el dio a la nación de Israel de cuidar y ser hospitalarios con los extranjeros. Exodo 22:21.
+
+#### Igualmente el Señor Jesucristo enseño sobre la hospitalidad a los extranjeros, llevando a un nivel superior. Mateo 25:25
+
+#### Esta labor piadosa es lo que debe caracterizar a una verdadera viuda, que extiende el amor del Señor hacia el extranjero, mostrando hospitalidad.
+
 ### 1 Timoteo 5:10d "*si ha lavado los pies de los santos,*"
 
 ### 1 Timoteo 5:10e "*si ha ayudado a los afligidos*"
