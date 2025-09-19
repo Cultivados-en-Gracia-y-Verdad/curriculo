@@ -2026,9 +2026,13 @@ La carta de Timoteo no es solo para líderes. La carta de Timoteo es para que to
 
 #### Toda buena obra solo es nacido de una sana enseñanza sobre la gracia de Dios y de evitar vanas palabrerías. Tito 1:16, Tito 2:11-13; 2 Timoteo 2:16
 
-### 1 Timoteo 5:11a "*Pero rehúsa poner en la lista a viudas más jóvenes,*"
+### 1 Timoteo 5:11a "*Pero rehúsa poner en la lista a viudas más jóvenes,*" En contraste a la lista que califican a una verdadera viuda, aquí Pablo deja una segunda lista, de las que son viudas, pero que ellas deben aprender a andar piadosamente.
 
-### 1 Timoteo 5:11b "*porque cuando sienten deseos sensuales,*"
+#### Pero rehúsa “PARAITEOMAI” es un verbo en tiempo presente, modo imperativo y voz media/pasiva, lo que significa que tanto el y como la iglesia, debía rehusarse en poner en la lista de verdaderas viudas.
+
+#### Uno de los motivos que nos dice es que ellas son más jóvenes, osea que no son mayores de 60 años, por lo cual están descalificadas. 1 Timoteo 5:9.
+
+### 1 Timoteo 5:11b "*porque cuando sienten deseos sensuales,*" otro de los motivos por lo cual no califica dentro de la lista, es porque es dominada por sus propios deseos, lo que claramente muestra que no califica como una mujer piadosa, y que más bien corre peligro de andar desenfrenadamente en sus propios placeres. 1Timoteo 5:6 
 
 ### 1 Timoteo 5:11c "*contrarios a Cristo, se quieren casar,*"
 
