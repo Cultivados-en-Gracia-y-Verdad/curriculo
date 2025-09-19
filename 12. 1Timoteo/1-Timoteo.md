@@ -1808,13 +1808,31 @@ aTitle: 1 Timoteo
 
 ### **Características para recompensar a una viuda que en verdad es viuda:**
 
-### 1 Timoteo 5:4a "*Pero si alguna viuda tiene hijos o nietos*",
+### No significa que existen viudas que son falsas, sino se refiere a las viudas que no tiene ningún apoyo y están completamente solas y sin ayuda. 
 
-### 1 Timoteo 5:4b "*que aprendan estos primero a mostrar piedad para con su propia familia y a recompensar a sus padres,*"
+### 1 Timoteo 5:3 “*Sean solidarios con las viudas que realmente estén desamparadas. *”
 
-### 1 Timoteo 5:4c "*porque esto es agradable delante de Dios*".
+### En el antiguo testamento Dios siempre mostro tener amor y cuidado por las mujeres que son viudas. Exodo 22:22; Deuteronomio 24:21.
+
+### También mostraba protección y hacia justicia por las mujeres viudas, ya que Dios mismo conoce la necesidad y la fragilidad de una mujer que está completamente desamparada. Deuteronomio 10:18; Deuteronomio 24:17; Salmo 68:5.
+
+### 1 Timoteo 5:4a "*Pero si alguna viuda tiene hijos o nietos*", Entonces si una mujer viuda tiene hijos o nietos ella no esta desamparada, sino más bien, tiene hijos o nietos que pueden cuidar de ella.
+
+### 1 Timoteo 5:4b "*que aprendan estos primero a mostrar piedad para con su propia familia y a recompensar a sus padres,*"  Los hijo y los nietos deben aprender a trabajar para recompensar a sus padres eso es agradable a los ojos de Dios. Efesios 6:2-3
+
+#### Muchas veces un hijo puede independizarse y olvidar su propia madre que ha quedado viuda, dejándola sola y sin cuidado.
+
+#### Estos deben aprender del misterio de la piedad y manifestar su amor a los miembros de su propia familia.
+
+### 1 Timoteo 5:4c "*porque esto es agradable delante de Dios*". Ya que Dios mismo establecio el cuidado de las mujeres viudas, que un hijo o un nieto cuide de su propia familia le agrada a Dios. Isaías 1:17.
 
 ### 1 Timoteo 5:5 "*Sin embargo la que en verdad es viuda y se ha quedado sola, tiene puesta su esperanza en Dios y continúa en súplicas y oraciones noche y día*".
+
+#### 1 Timoteo 5:5a "*Sin embargo…*” nos da entender que hay una clara diferencia entre la mujer viuda que tiene hijos que puedan cuidar de ella, con la nadie puede cuidar de ella.
+
+#### 1 Timoteo 5:5b “*…la que en verdad es viuda…*” Nuevamente se repite “la que en verdad es viuda” dando a entender hay una viuda en la iglesia que en verdad esta desamparada “*... y se ha quedado sola…,*”.
+
+#### La viuda que ha quedado desamparada para Dios es muy importante dentro de la iglesia, ya que ella tiene puesta su esperanza en Dios. 
 
 ### 1 Timoteo 5:6 "*Pero la que se entrega a los placeres desenfrenados, aun viviendo, está muerta*".
 
