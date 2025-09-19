@@ -1006,11 +1006,11 @@ Title: 1 Timoteo
 
 #### El testimonio de Jesucristo es la obra que el hizo por nosotros en la Cruz, este es el testimonio que los creyentes confirman.1 Corintios 1:6, 2 Tesalonicenses 1:10, 1 Timoteo 2:6,  2 Timoteo 1:8, Apocalipsis 1:2.
 
-### 1 Timoteo 2:7 *Y para esto yo fui constituido predicador y apóstol, (digo la verdad en Cristo, no miento), como maestro de los gentiles en fe y verdad.* 
+### 1 Timoteo 2:7 "*Y para esto yo fui constituido predicador y apóstol, (digo la verdad en Cristo, no miento), como maestro de los gentiles en fe y verdad.*"
 
 #### El apóstol pablo hace una afirmación con respecto al propósito de enseñar a los creyentes los misterios concernientes a la iglesia y la vida de piedad entre los hermanos.
 
-### 1 Timoteo 2:7a "*Y para esto yo fui constituido predicador y apóstol,*
+### 1 Timoteo 2:7a "*Y para esto yo fui constituido predicador y apóstol,*"
 
 #### Al apóstol Pablo se le concedió esta gracia con un rol importante para la iglesia. Efesios 3:8; 1 Timoteo 1:11; 2 Timoteo 1:11.
 
@@ -1116,13 +1116,21 @@ Title: 1 Timoteo
 
 ### 1 Timoteo 2:12 "*Yo no permito que la mujer enseñe ni que ejerza autoridad sobre el hombre, sino que permanezca callada.*" 
 
-### El rol de la enseñanza pública a la congregación ha sido designado por Dios a los hombres. 
-
-#### Las hermanas pueden (y deben) enseñar a los niños y las hermanas, pero Dios limita su enseñanza en la iglesia de hacerlo a los hombres. 
+#### En el anterior verso animaba a las mujeres el aprender dentro de la congregación, sin embargo en este explica el rol de la enseñanza con respecto a varones y mujeres creyentes. 
 
 ### 1 Timoteo 2:12a "*Yo no permito que la mujer enseñe...*
 
+#### Pablo explica que el rol de la mujer dentro de la congregación no es el de la enseñanza pública. 1 Corintios 14:34.
+
+#### Vemos una limitante en la enseñanza de mujeres en la iglesia de hacerlo a los hombres, esto es debido a que este rol de la enseñanza pública ha sido designado por Dios a los hombres. 
+
+#### Sin embargo, esto no quiere decir que las mujeres creyentes no puedan enseñar a los niños y entre mujeres.
+
 ### 1 Timoteo 2:12b *...ni que ejerza autoridad sobre el hombre,...*
+
+#### La mujer no puede ejercer autoridad sobre el hombre dentro de la iglesia, debido a que Dios estableció un orden de sujeción dentro de la iglesia.
+
+#### Esto no significa que las mujeres no puedan superarse profesionalmente, o intelectualmente y progresar en diversas áreas de la vida, sino que estas instrucciones son dentro de la iglesia en el orden de autoridad que Dios estableció.
 
 ### 1 Timoteo 2:12c *...sino que permanezca callada.*" Nuevamente Pablo instruye a las mujeres que permanezcan calladas en la congregación. Tiene mayor piedad y dignidad la mujer que voluntariamente permanece en silencio. Dios llama a las mujeres de esta postura y está incluido en esta lista de buenas obras. 
 
