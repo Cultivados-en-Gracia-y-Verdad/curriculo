@@ -1614,11 +1614,13 @@ aTitle: 1 Timoteo
 
 #### A continuación Pablo le explica como a Timoteo...prestemos atención. 
 
-### 1 Timoteo 4:9 "*Palabra fiel es esta, y digna de ser aceptada por todos...*"
+### 1 Timoteo 4:9 "*Palabra fiel es esta, y digna de ser aceptada por todos...*" Podemos confiar en la verdad de que la verdadera piedad poriniente de la verdad es provechosa para el hoy y contine promesa aun para la eternidad.
+
+#### Estos es un gran contraste a la falsa piedad ofrecidad por maestros mentiros.
 
 ### 1 Timoteo 4:10a "*Porque por esto trabajamos y nos esforzamos...*" En el sentido de la piedad. Conlleva esfuerzo, trabajo. 
 
-### 1 Timoteo 4:10b "*porque hemos puesto nuestra esperanza en el Dios vivo*", El motivo que trabajamos y esforzamos en la piedad es por motivos mucho mayores que nuestra salúd y apariencia. Es porque nuestra mirada esta fijada en el porvenir. Esperamos confiadamente en el Dios vivo... 
+### 1 Timoteo 4:10b "*porque hemos puesto nuestra esperanza en el Dios vivo*" El motivo por trabajar y esforzarse en la piedad es por motivos mucho mayores que nuestra salúd y apariencia. Es porque nuestra mirada esta fijada en el porvenir. Esperamos confiadamente en el Dios vivo... 
 
 ### 1 Timoteo 4:10c "*que es el Salvador de todos los hombres*", La voluntad de Dios es que todos lleguen a ser salvos por la fe en Jesucristo. La piedad del creyente es un medio que Dios usa para promover la necesidad de un salvador. 
 
