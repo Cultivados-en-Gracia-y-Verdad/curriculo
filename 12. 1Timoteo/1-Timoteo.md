@@ -2449,7 +2449,7 @@ vivimos engañandonos a nosotros mismos. 1 Juan 1:8
 
 ### 1 Timoteo 6:14a "*que guardes el mandamiento*" 2 Pedro 2:21, 3:2
 
-#### "*guardes*" [TEREO] mantener en un determinado estado, posición o actividad.[^9]
+#### "*guardes*" [TEREO] mantener en un determinado estado, posición o actividad. [^9]
 
 #### 1Pedro 1:4 "*para obtener una herencia incorruptible, inmaculada, y que no se marchitará, reservada* [TEREO] *en los cielos para ustedes*".
 
