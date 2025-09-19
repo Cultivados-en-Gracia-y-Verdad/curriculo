@@ -1742,9 +1742,27 @@ aTitle: 1 Timoteo
 
 ### 1 Timoteo 5:1a "*No reprendas con dureza al anciano, sino, más bien, exhórtalo como a padre;*" El trato de los mayores en la iglesia debe ser siempre con respeto y dignidad. Los hermanos mayores en la iglesia son considerados como padres.
 
+#### La palabra reprendas (EPIPLESSO) significa literalmente “golpear con las palabras”, o “castigar con palabras” 
+
+#### Al igual que un mayor podría menospreciar la juventud de Timoteo, así también él no debía menospreciar a los que son adultos y mayores de edad.
+
+#### Muchas veces para un joven es fácil humillar a un mayor de edad cuando se equivoca.
+
+#### Timoteo debía ser ejemplo en palabra, conducta y amor también con los mayores y a los que debía reprender, no debía reprenderlos con dureza. 
+
+#### En ejemplo de amor, Timoteo debía animar a los mayores de la congregación como si fuera su propio padre, ya que a ningún hijo le gustaría ver a su padre siendo humillado con palabras que golpean. 2 Timoteo 2:25.
+
 ## Sobre los jóvenes
 
 ### 1 Timoteo 5:1b "*a los más jóvenes, como a hermanos,*" Los jóvenes son considerados como hermanos de sangre.
+
+#### De la misma manera, Timoteo debía animar a los jóvenes a ejercitarse en la piedad, siendo el mismo ejemplo de un joven que sabe cómo conducirse en la casa de Dios.
+
+#### Enseñando también a ellos que un joven si puede vivir una vida piadosa agradable a Dios. Eclesiastes 12:1
+
+#### Muchas veces solemos tener preconceptos de la juventud, de que a ellos no les gusta aprender de los caminos de Dios y que ellos prefieren distraerse en vanidades.
+
+#### Entendiendo claramente que esta epístola no esta dirigida solamente a los pastores o lideres de la iglesia, podemos ver claramente que los jóvenes creyentes pueden beneficiarse del misterio de la piedad.
 
 ## Sobre las ancianas
 
