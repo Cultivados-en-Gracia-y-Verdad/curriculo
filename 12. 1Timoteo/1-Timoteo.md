@@ -1132,7 +1132,11 @@ Title: 1 Timoteo
 
 #### Esto no significa que las mujeres no puedan superarse profesionalmente, o intelectualmente y progresar en diversas áreas de la vida, sino que estas instrucciones son dentro de la iglesia en el orden de autoridad que Dios estableció.
 
-### 1 Timoteo 2:12c *...sino que permanezca callada.*" Nuevamente Pablo instruye a las mujeres que permanezcan calladas en la congregación. Tiene mayor piedad y dignidad la mujer que voluntariamente permanece en silencio. Dios llama a las mujeres de esta postura y está incluido en esta lista de buenas obras. 
+### 1 Timoteo 2:12c *...sino que permanezca callada.*" Nuevamente Pablo instruye a las mujeres que permanezcan manteniendo silencio,
+
+###  en la congregación. La manifestación visible de una mujer piadosa será visible en una actitud sumisa, contrastando con una actitud escandalosa.
+
+### piedad y dignidad la mujer que voluntariamente permanece en silencio. Dios llama a las mujeres de esta postura y está incluido en esta lista de buenas obras. 
 
 #### Estas instrucciones no implican que la mujer sea inferior en posición o que tienen menos valor ante Dios. 1 Pedro 3:7; Gálatas 3:28
 
