@@ -1844,7 +1844,25 @@ aTitle: 1 Timoteo
 
 #### 1 Timoteo 5:5e “*…y oraciones noche y día*". La que en verdad es viuda es dedicada a la oración, pidiendo noche y día por los demás y no para si misma.
 
-### 1 Timoteo 5:6 "*Pero la que se entrega a los placeres desenfrenados, aun viviendo, está muerta*".
+### 1 Timoteo 5:6 "*Pero la que se entrega a los placeres desenfrenados, aun viviendo, está muerta*". Aquí podemos ver que también hay viudas que su andar no es según piedad.
+
+#### 1 Timoteo 5:6a "*Pero…*” Pablo quería dejar en claro, que hay gran diferencia de “*una viuda que en verdad es viuda*”, a la que se debe honor, con una mujer viuda que hay que se entrega a los placeres desenfrenados.
+
+#### 1 Timoteo 5:6b “…la que se entrega a los placeres desenfrenados,*” muy diferente a la que en verdad es viuda que hace rogativas y oraciones noche y dia por los demás y no para si misma.
+
+#### Esta característica de viuda solo busca de manera egoísta sus propios placeres de forma desenfrenada.
+
+#### por esa causa Pablo la describe como 1 Timoteo 5:6c “*… aún viviendo, está muerta*”.
+
+#### En este pasaje podemos encontrar 2 verdades fundamentales del evangelio que la iglesia no debería olvidar. 
+
+#### *Primero*: Que Pablo diga que “*aún viviendo*” nos muestra la fidelidad de Dios sobre la salvación por medio de la fe en el evangelio. Juan 5:24
+
+#### Por el Señor Jesucristo sabemos que todo el que cree en Él pasa de muerte a vida, a una vida nueva, en un nuevo nacimiento. Juan 3:3
+
+#### 2 Timoteo 2:13 “*Si somos infieles, Él permanede fiel, pues no puede negarse a si mismo*” la salvación no se pierde, y para que Dios tenga que negarnos, tendría que negar primero a Cristo, y eso nunca pasara, ya que Él no puede negarse a si mismo.
+
+#### Entonces Pablo no dejo en duda de la salvación de esta mujer viuda. 
 
 ### 1 Timoteo 5:7 "*Ordena también estas cosas, para que sean irreprochables*".
 
