@@ -94,7 +94,9 @@ Title: 1 Timoteo
 
 ### En 1 Timoteo, se encuentran instrucciones para establecer iglesias, corregir abusos, falsas doctrinas, prácticas de adoración, hábitos de discipulado, vida familiar, responder a la persecución y más. 
 
-### En resumen, podemos decir que Pablo le escribió a Timoteo por su inmenso amor y aprecio por Timoteo y la obra que había sido llamado a realizar al servicio del Señor Jesús.
+### En resumen, podemos decir que Pablo le escribió a Timoteo por su inmenso amor y aprecio por Timoteo y la obra que había sido llamado a realizar al servicio del Señor Jesús. A través de esta carta Timoteo podía enseñar a los hermanos en Efeso y nosotros aprendemos también. 
+
+La carta de Timoteo no es solo para líderes. La carta de Timoteo es para que todo creyente sepa como conducirse en la casa de Dios. 
 
 # La iglesia: el cuerpo de Cristo y casa del Dios vivo
 
@@ -1994,9 +1996,17 @@ Title: 1 Timoteo
 
 #### De todos modos habla de una mujer que ha quedado viuda y que tiene buen testimonio de mostrar preocupación y brindar cuidado por los siervos del Señor.
 
-### 1 Timoteo 5:10e "*si ha ayudado a los afligidos*"
+### 1 Timoteo 5:10e "*si ha ayudado a los afligidos*" Una vez más vemos que una mujer viuda que muestra el amor de Cristo sobre los afligidos debía ser considerada dentro de los requisitos de una verdadera viuda. 
 
-### 1 Timoteo 5:10f "*y si se ha consagrado a toda buena obra*".
+#### La palabra “EPARQUEO” es un verbo en tiempo aoristo, modo indicativo en vos activa, y habla sobre el mantenimiento o socorro, lo que quiere decir que si de hecho en algún tiempo ha ayudado en provisión y consuelo para los afligidos. 
+
+#### La mejor provisión de consuelo para un afligido es el mensaje de la obra de Jesucristo ya que el mismo vino a anunciar las buenas nuevas a los afligidos Isaías 61:1; Lucas 4:18; Mateo 11:28
+
+### 1 Timoteo 5:10f "*y si se ha consagrado a toda buena obra*". Todo creyente es llamado a andar en las buenas obras que Dios ha preparado, nada bueno puede venir de uno mismo, el andar de Fe de una mujer viuda le llevara a estar dedicada a toda buena obra. Efesios 2:10.
+
+#### La palabra “EPAKOLUTHEO” “*si se ha consagrado*” y es un verbo en tiempo aoristo, modo indicativo y voz activa, referido a que se ha dedicado o ha practicado (RVR60) toda buena obra.
+
+#### Toda buena obra solo es nacido de una sana enseñanza sobre la gracia de Dios y de evitar vanas palabrerías. Tito 1:16, Tito 2:11-13; 2 Timoteo 2:16
 
 ### 1 Timoteo 5:11a "*Pero rehúsa poner en la lista a viudas más jóvenes,*"
 
@@ -2295,13 +2305,13 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 #### La expresión que usa Pablo acerca de Timoteo era usado de hombres como Moises, David y otros profetas. Deuteronomio 33:1; Nehemias 12:24; 1 Samuel 9:6
 
-#### No te hace más hombre de Dios tener mucho dinero.  
+##### No te hace más hombre de Dios tener mucho dinero.  
 
-#### No te hace más hombre de Dios ser famoso. 
+##### No te hace más hombre de Dios ser famoso. 
 
-#### No te hace más hombre de Dios caerles bien a todos. 
+##### No te hace más hombre de Dios caerles bien a todos. 
 
-#### Pablo le recuerda a Timoteo, no le faltaba nada para ser hombre de Dios. 
+##### Pablo le recuerda a Timoteo, no le faltaba nada para ser hombre de Dios. 
 
 ### 1 Timoteo 6:11a "*huye de estas cosas...*" la instrucción aqui es de huir. 
 
@@ -2351,67 +2361,83 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 #### Esto no debe ser confundido con el rapto de la iglesia. 1 Tesalonicenses 4:15-18
 
-### 1 Timoteo 6:15a "*la cual manifestará a su debido tiempo*" El mandamiento manifestará a su debido tiempo. Hechos 1:6-7
+### 1 Timoteo 6:15a "*la cual manifestará a su debido tiempo*" El cambio aquí es sutíl pero al parecer cambia de Jesus quien será manifestado al Padre quien lo manifestará a su  debido tiempo. Solo el Padre sabe la fecha y la hora de la maniifestación de Jesucristo. Hechos 1:6-7
 
-### 1 Timoteo 6:15c "*el bienaventurado y único Soberano,*" 1 Timoteo 1:11; Marcos 14:61; 2 Corintios 11:31
+### 1 Timoteo 6:15c "*el bienaventurado y único Soberano,*" Dios esta en el lugar más alto de cualquier otro en la creación. 1 Timoteo 1:11; Marcos 14:61; 2 Corintios 11:31
 
 #### "*Soberano*" [DYNASTES] - persona que gobierna o manda; especialmente entendido como alguien que tiene gran influencia controladora.[^9] Es traducido poderoso, y gobernador. 
 
-### 1 Timoteo 6:15d "*el Rey de reyes y Señor de señores;*" Este es un título que lleva una sola persona, Jesucristo. No será publicado hasta que venga e poder. Apocalipsis 19:16
+### 1 Timoteo 6:15d "*el Rey de reyes y Señor de señores;*" Este título lleva Jesucristo cuando que viene en poder. Sin embargo, se refiere al Padre en este contexto. Salmo 10:16; Malaquias 1:14; Daniel 4:34-35
 
-### 1 Timoteo 6:16a "*el único que tiene inmortalidad*" No solo es el único soberano, es el único que tiene inmortalidad. 
+#### Según vemos la transición del libro, Zacarías muestra al Angel del Señor (Jesucristo Pre-encarnado) tomando el título de Señor de los Ejércitos. Zacarías 1:12, 14:17; Apocalipsis 19:16; 1 Corintios 15:24-28; 
 
-### 1 Timoteo 6:16b "*y habita en luz inaccesible,*" 
+### 1 Timoteo 6:16a "*el único que tiene inmortalidad*" No solo es el único soberano, es el único que tiene inmortalidad. Dios es eterno. Es el único que tiene estos atributos. 
 
-### 1 Timoteo 6:16c "*a quien ningún hombre ha visto ni puede ver*". Jesucristo, feliz y único soberano, únicos
+### 1 Timoteo 6:16b "*y habita en luz inaccesible, a quien ningún hombre ha visto ni puede ver*" Dios habita en luz imposible de penetrar o alcanzar. Ningún hombre jamás lo ha visto. Exodo 33:20
 
-### 1 Timoteo 6:16d "*A Él sea la honra*"
-
-### 1 Timoteo 6:16e "*y el dominio eterno*".
-
-### 1 Timoteo 6:16f "*Amén*".
+### 1 Timoteo 6:16d "*A Él sea la honra y el dominio eterno. Amen.*" Dios merece toda la gloria, todo respeto y honor. Que así sea. 
 
 ## Los Ricos
 
-### 1 Timoteo 6:17a  "*A los ricos en este mundo,*"
+### 1 Timoteo 6:17a  "*A los ricos en este mundo,*" Pablo no esta hablando a todos los ricos del mundo, sino a creyentes ricos. 
 
-### 1 Timoteo 6:17b "*enséñales que no sean altaneros*"
+#### Pablo dió un calificativo para aclarar valores al llamarlos ricos "en este mundo". Según el mundo, el dinero es riqueza. Sin embargo, Santiago nos dice que los pobres son ricos. Ricos en fe. Santiago 2:5
 
-### 1 Timoteo 6:17c "*ni pongan su esperanza en la incertidumbre de las riquezas,*"
+### 1 Timoteo 6:17b "*enséñales que no sean altaneros*" Timoteo es responsable de enseñar a los creyentes ricos que no sean orgullosos. Proverbios 30:8-9
 
-### 1 Timoteo 6:17d "*sino en Dios,*"
+#### El dinero tiende a poder arreglar muchas cosas. El rico puede llegar a ser vanidoso o arrogante con su dinero. Oseas 13:6
 
-### 1 Timoteo 6:17e "*el cual nos da abundantemente todas las cosas*"
+### 1 Timoteo 6:17c "*ni pongan su esperanza en la incertidumbre de las riquezas,*" La riqueza es algo terrenal, nunca debe ser objeto de esperanza para el creyente. Proverbios 11:28
 
-### 1 Timoteo 6:17f "*para que las disfrutemos.*"
+### 1 Timoteo 6:17d "*sino en Dios,*" O bien la esperanza del creyente rico está en su riqueza o en Dios. No puede ser ambos. 
 
-### 1 Timoteo 6:18a "*Enséñales que hagan bien,*"
+### 1 Timoteo 6:17e "*el cual nos da abundantemente todas las cosas*" El rico debe entender que su riqueza proviene de Dios y no es razon para alabarse o volverse altanero. Salmo 104:28
 
-### 1 Timoteo 6:18b "*que sean ricos en buenas obras,*"
+### 1 Timoteo 6:17f "*para que las disfrutemos.*" Eclesiástes 2:24; Deuteronomio 26:11
 
-### 1 Timoteo 6:18c "*generosos*"
+### 1 Timoteo 6:18a "*Enséñales que hagan bien,*" Timoteo debía enseñarles a ocuparse en cosas que tienen que ver con hacer bien. TIto 3:8; Gálatas 6:10
 
-### 1 Timoteo 6:18d "*y prontos a compartir,*"
+### 1 Timoteo 6:18b "*que sean ricos en buenas obras,*" Tito 2:14
 
-### 1 Timoteo 6:19a "*acumulando para sí el tesoro*"
+### 1 Timoteo 6:18c "*generosos*" Proverbios 3:28; 
 
-### 1 Timoteo 6:19b "*de un buen fundamento para el futuro,*"
+### 1 Timoteo 6:18d "*y prontos a compartir,*" Filipenses 4:14; Romanos 12:13; Hebreos 13:16
 
-### 1 Timoteo 6:19c "*para que puedan echar mano de lo que en verdad es vida.*"
+### 1 Timoteo 6:19a "*acumulando para sí el tesoro*" Puede ir acumulando un tesoro para si en los cielos por compartir y participar en buenas obras. Mateo 6:20; Proverbios 11:25
+
+#### El rico entiende el concepto de acumular para si tesoro. Pablo aplica esto al creyente rico para enseñarle una verdad espiritual de inversión de otra forma usando los principios aprendidos en la acumulación de dinero. 
+
+### 1 Timoteo 6:19b "*de un buen fundamento para el futuro,*" Su inversión será firme y será para el futuro. Hebreos 10:34
+
+#### En la eternidad, los que serán incalculablemente ricos, son aquellos que invirtiéron en el futuro. Pusieron su inversión en cosas eternas y no de este mundo. 
+
+### 1 Timoteo 6:19c "*para que puedan echar mano de lo que en verdad es vida.*" 1 Pedro 1:4; 2 Timoteo 2:1; 1 Juan 2:25
 
 ## Timoteo, antes de despedirme
 
-### 1 Timoteo 6:20a  "*Timoteo, guarda lo que se te ha encomendado,*"
+### 1 Timoteo 6:20a  "*Timoteo, guarda lo que se te ha encomendado,*" Pablo reitera lo que ya le había dicho, dando mayor importancia al tema. 2 Timoteo 1:14
 
-### 1 Timoteo 6:20b  "*y evita las palabrerías vacías y profanas,*"
+#### El cuidado en la iglesia de Efeso era importante y debía ser cuidado. El saber conducirse en la casa de Dios había sido mostrado en la carta de Pablo. Le tocaba a Timoteo enseñar los mismos principios a los hermanos para que todos sepan conducirse. 
 
-### 1 Timoteo 6:20c  "*y las objeciones de lo que falsamente se llama ciencia,*"
+### 1 Timoteo 6:20b  "*y evita las palabrerías vacías y profanas,*" Nuevamente, Timoteo es recordado a no meterse en enseñar o participar en palabrerías vacías y profanas. 
 
-### 1 Timoteo 6:21a "*la cual profesándola algunos,*"
+### 1 Timoteo 6:20c  "*...y evita...las objeciones de lo que falsamente se llama ciencia,*" Timoteo no estaba llamado a entretener o responder las objeciones que procede de conocimiento. 
 
-### 1 Timoteo 6:21b "*se han desviado de la fe.*"
+#### La palabra ciencia [GNOSIS] de aquí proviene una secta llamada gnosticismo. En el tiempo de Timoteo ya habia indicios de gnósticos que acusaban en nombre del conocimiento. 
 
-### 1 Timoteo 6:21c "*La gracia sea con ustedes.*"
+### 1 Timoteo 6:21a "*la cual profesándola algunos,*" Vemos que estos profesaban ya algunos. Marcos 14:11
+
+#### Algunos de habían dejado llevar por las promesas de los que profesaban vida mediante el gnosis (conocimiento). 
+
+### 1 Timoteo 6:21b "*se han desviado de la fe.*" Lo que ocacionó fue que se desviaron de la fe, el conocimiento de Jesucristo. 
+
+### 1 Timoteo 6:21c "*La gracia sea con ustedes.*" Para mantenerse sin desviar, para mantenerse animados, para no desviarse de la fe, debían enfocarse en la gracia. 
+
+#### Es interesante que Pablo cierra su carta con ustedes. ¿Será que su intención era que Timoteo lea la carta a la iglesia en Efeso y así todos estar en la misma página?
+
+#### Posiblemente, sin embargo nosotros si podemos leer la carta y de esa manera aprender sobre la Iglesia del Dios Vivo, que es el sostén de la verdad y como debe conducirse. 
+
+#### ¡Que la gracia de Dios sea con nosotros! 
 
 ## En Síntesis (1 Timoteo 6:11-21)
 
