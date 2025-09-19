@@ -1722,23 +1722,23 @@ Sin embargo, Pablo llama a Timoteo a ser ejemplo en su conducta no maestro en la
 
 # IX. 1 Timoteo 5:1-6:21 -- Relaciones dentro de la Iglesia
 
-## Los ancianos
+## Sobre los ancianos
 
 ### 1 Timoteo 5:1a "*No reprendas con dureza al anciano, sino, más bien, exhórtalo como a padre;*" El trato de los mayores en la iglesia debe ser siempre con respeto y dignidad. Los hermanos mayores en la iglesia son considerados como padres.
 
-## Los jóvenes
+## Sobre los jóvenes
 
 ### 1 Timoteo 5:1b "*a los más jóvenes, como a hermanos,*" Los jóvenes son considerados como hermanos de sangre.
 
-## Las ancianas
+## Sobre las ancianas
 
 ### 1 Timoteo 5:2a  "*a las ancianas, como a madres;*" Ancianas deben ser vistos como madres. 
 
-## Las jóvenes
+## Sobre las jóvenes
 
 ### 1 Timoteo 5:2b "*a las más jóvenes, como a hermanas, con toda pureza*". Las hermanas jóvenes son tratadas como hermanas de sangre.
 
-## Las Viudas
+## Sobre Las Viudas
 
 ### 1 Timoteo 5:3 "*Honra a las viudas que en verdad son viudas*". a Las viudas se extiende honor. 
 
