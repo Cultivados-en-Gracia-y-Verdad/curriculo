@@ -1263,31 +1263,33 @@ aTitle: 1 Timoteo
 
 ## En Síntesis (1 Timoteo 3:1-7)
 
-### Requisitos para los lideres. 1 Timoteo 3:1-7
+### Requisitos para la designación de lideres en la iglesia local. 1 Timoteo 3:1-7
 
-### Calificaciones positivas. 1 Timoteo 3:1-2, 3c-5, 7
+#### Calificaciones positivas. 1 Timoteo 3:1-2, 3c-5, 7
 
-### Debe ser irreprochable. 1 Timoteo 3:1-2a
+##### Libre de criticas justificables y ante la ley civil. 1 Timoteo 3:1-2a
 
-### Debe tener una sola esposa y serle fiel. 1 Timoteo 3:2b
+##### Debe tener una sola esposa y serle fiel. (Implisitamente, creyente varon) 1 Timoteo 3:2b
 
-### Debe ser moderado, autocontrolado, respetable, hospitalario y capaz de enseñar. 1 Timoteo 3:2c
+##### Debe ser moderado, autocontrolado, respetable, hospitalario y capaz de enseñar. 1 Timoteo 3:2c
 
-### Debe ser amable y tener una familia que se comporte bien. 1 Timoteo 3:3c-5
+##### Debe ser amable y tener una familia que se comporte bien. 1 Timoteo 3:3c-5
 
-### Debe ser respetado por los que están fuera de la iglesia. 1 Timoteo 3:7
+##### Debe tener buen testimonio entre los no creyentes. 1 Timoteo 3:7
 
-### Calificaciones negativas. 1 Timoteo 3:3a-3b, 3d, 6
+#### Calificaciones negativas. 1 Timoteo 3:3a-3b, 3d, 6
 
-### No debe ser un bebedor empedernido. 1 Timoteo 3:3a
+##### No debe ser un bebedor empedernido. 1 Timoteo 3:3a
 
-### No debe ser violento. 1 Timoteo 3:3b
+##### No debe ser violento. 1 Timoteo 3:3b
 
-### No debe ser orgulloso. 1 Timoteo 3:6b
+##### No debe ser orgulloso. 1 Timoteo 3:6b
 
-### No debe ser codicioso. 1 Timoteo 3:3d
+##### No debe ser codicioso. 1 Timoteo 3:3d
 
-### No debe ser un nuevo cristiano. 1 Timoteo 3:6a
+##### No debe ser un creyente nuevo. 1 Timoteo 3:6a
+
+### Cada requisito debe ser cumplido en el tiempo presente.
 
 ## Requisitos para los diaconos
 
