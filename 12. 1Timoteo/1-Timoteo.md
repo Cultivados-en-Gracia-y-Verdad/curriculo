@@ -1836,19 +1836,47 @@ Sin embargo, Pablo llama a Timoteo a ser ejemplo en su conducta no maestro en la
 
 ### 1 Timoteo 5:17b "*sean considerados dignos de doble honor,*" esto se refiere a un honor encima del respeto que merecen. El doble honor es la responsabilidad de la iglesia. La iglesia debe preocuparse de recompensar al anciano que se dedica a gobernar bien. 
 
-### 1 Timoteo 5:17c "*principalmente los que trabajan en la predicación y en la enseñanza*" 
+### 1 Timoteo 5:17c "*principalmente los que trabajan en la predicación y en la enseñanza*" el anciano que pone su foco en trabajar en la predicación y enseñanza hace excelentemente bien. Debe tener un respaldo económico para poder continuar haciéndolo. La iglesia es responsable por hacerlo. 
 
-### 1 Timoteo 5:18a "*Porque la Escritura dice: «NO PONDRÁS BOZAL AL BUEY CUANDO TRILLA»,*"
+#### La voluntad de Dios es que el anciano que trabaja en la exposición de La Palabra sea cubierto por la iglesia. 
 
-### 1 Timoteo 5:18b "*y: «El obrero es digno de su salario».*"
+### 1 Timoteo 5:18a "*Porque la Escritura dice: «NO PONDRÁS BOZAL AL BUEY CUANDO TRILLA»,*" La iglesia que no toma responsabilidad en cuidar de sus ancianos es como una persona que abusa sus animales, haciendolos trabajar pisando grano sin poder fortalecerse porque tiene un bosal sobre su boca. Esto es ser abusivo. 
 
-### 1 Timoteo 5:19a "*No admitas acusación contra un anciano,*"
+### 1 Timoteo 5:18b "*y: «El obrero es digno de su salario».*" El que trabaja, merece ser pagado. 
 
-### 1 Timoteo 5:19b "*a menos de que haya dos o tres testigos.*"
+#### Solo porque el anciano que enseña esté dedicado a cosas espirituales no significa que su comida solo es espiritual. Merece comer bien, vivir comodamente para dedicarse más a La Palabra. 
 
-### 1 Timoteo 5:20a "*A los que continúan en pecado, repréndelos en presencia de todos*"
+### 1 Timoteo 5:19a "*No admitas acusación contra un anciano,*" Tipicamente las personas son rapidas para criticar a los ancianos. Sin embargo, la instrucción a Timoteo (e indirectamente a la iglesia) es de no recibir una acusación contra el anciano. 
 
-### 1 Timoteo 5:20b "*para que los demás tengan temor de pecar.*"
+### 1 Timoteo 5:19b "*a menos de que haya dos o tres testigos.*" únicamente en el caso que haya dos o tres testigos que están de acuerdo en acusar al anciano. 
+
+#### Los ancianos no son perfectos. También son sujetos a caer en el error como toda persona. 
+
+#### Aquí hay una clausula para que la iglesia no tenga que sufrir bajo un lider que anda en el error, la iglesia puede reprenderlo. 
+
+### 1 Timoteo 5:20a "*A los que continúan en pecado, repréndelos en presencia de todos*" Aquí hay otra clausula en el caso donde el anciano no cambia de mente después de ser acusado con testigos, entonces se lleva a la presencia de toda la iglesia. 
+
+### 1 Timoteo 5:20b "*para que los demás tengan temor de pecar.*" Al ver esta manera de tratar con la falta de corregir pecado en la vida del líder, causa que la congregación tome mayor importancia en no andar en el pecado. 
+
+#### Existen enseñanzas hoy que enfatizan que el pecado ha sido pagado por completo y que solo es necesario andar según nuestro parecer por la fe. Esto es una manera sujetiva de ver la vida cristiana. 
+
+#### La Palabra de Dios es clara. El pecado en la vida del creyente nunca es aceptable. Un creyente que anda en la luz, confiesa su pecado y no lo esconde. 1 Juan 1:6-9 
+
+#### ¿Porque confesar nuestros pecados? Porque cuando pecamos es necesario admitir haber hecho algo que es contrario a quien es Dios y quienes somos como sus hijos. Reconocemos honestamente los pecados sin racionalizarlos ni echar culpas a otros.
+
+#### El pecado que va sin confesar siempre tiene serias consecuencias. 
+
+Proverbios 28:13, 
+
+##### Corrompe el alma. Salmo 32:3-4
+
+##### Ancallece la consciencia. Salmo 51:10
+
+##### Permanece la culpa. Salmo 31:10
+
+##### Sientes distante de Dios. Salmo 66:18
+
+vivimos engañandonos a nosotros mismos. 1 Juan 1:8
 
 ### 1 Timoteo 5:21a "*Te encargo solemnemente en la presencia de Dios y de Cristo Jesús y de Sus ángeles escogidos,*"
 
