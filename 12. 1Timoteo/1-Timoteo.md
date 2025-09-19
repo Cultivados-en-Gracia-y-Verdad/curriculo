@@ -2112,7 +2112,7 @@ La carta de Timoteo no es solo para líderes. La carta de Timoteo es para que to
 
 ## 1 Timoteo 5:17-25 La Responsabilidad de la Iglesia por sus obreros : El consejo de Pablo con respecto a los ancianos de la iglesia.
 
-### 1 Timoteo 5:17a "*Los ancianos que gobiernan bien*" para algunos gobernar bien significa que representan bien a sus deseos. Uno puede ir y reclamarles alguna cosa y le hacen caso a uno, posiblemente por temor a ofender a alguien. 
+### 1 Timoteo 5:17a "*Los ancianos que gobiernan bien*" para algunos gobernar bien significa que representan bien a los asuntos de los miembros de la iglesia. Uno puede ir y reclamarles alguna cosa y le hacen caso a uno, posiblemente por temor a ofender a alguien. 
 
 #### Gobernar bien no es mantener a todos animados. No es mantener una supuesta unidad para que no se vayan los hermanos ofendidos. 
 
@@ -2210,21 +2210,19 @@ vivimos engañandonos a nosotros mismos. 1 Juan 1:8
 
 ## En Síntesis (1 Timoteo 5:17-25)
 
-### Ancianos en general. 1 Timoteo 5:17-22, 24-25
+### Asuntos sobre los ancianos en la iglesia. 1 Timoteo 5:17-22, 24-25
 
-### Son dignos de doble honor. 1 Timoteo 5:17-18
+### Los ancianos que dirigen en base a la piedad dentro de la iglesia Son dignos de muchos respeto y un sustento por su servicio, mucho mas si tambien estan dedicados a la enseñanza. 1 Timoteo 5:17-18
 
-### Nunca deben ser acusados injustamente. 1 Timoteo 5:19-20, 24-25
+### Cualquier acusación contra un anciano debe ser cuidadosamente observado. Debe haber mas de un testigo. Si se confirman las acusaciones de pecado, se debe reprenderlos delante de toda la congregación1 Timoteo 5:19-20, 24-25
 
-### Deben ser imparciales. 1 Timoteo 5:21
+### Timoteo debía ser imparcial respecto solucionar ciertos problemas dentro de la iglesia. 1 Timoteo 5:21
 
-### Deben probarse antes de ser ordenados. 1 Timoteo 5:22a
+### Antes de designar ancianos Timoteo debía examinar cuidadosamente a cada candidato, ya que la responsabilidad de cualquier pecado recaería sobre él. 1 Timoteo 5:22a
 
-### Deben mantenerse puros. 1 Timoteo 5:22b
+### Así podía mantenerse puro de pecado. 1 Timoteo 5:22b
 
 ### Timoteo en particular: "*Bebe un poco de vino por amor a tu estómago porque estás enfermo muy a menudo*".  1 Timoteo 5:23
-
-### Pablo se dirige a los obreros, a los impíos, a los sabios y a los ricos. Cierra su carta con algunas instrucciones finales para Timoteo.
 
 # 1 Timoteo 6:3-21 - Asuntos Relacionados con la Iglesia
 
