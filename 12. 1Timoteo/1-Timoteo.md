@@ -1594,23 +1594,25 @@ aTitle: 1 Timoteo
 
 ### 1 Timoteo 4:7b "*Más bien disciplínate a ti mismo para la piedad...*" 
 
-#### Pablo no está animando a Timoteo a prestar atención a las disciplina espirituales para llevarle a una meta deseada. Ya estableció que Timoteo debe fijarse en nutrirse de la fe. 
+#### Pablo no está animando a Timoteo a prestar atención a las disciplinas espirituales para llevarle a una meta deseada. Ya estableció que Timoteo debe fijarse en nutrirse de la fe. 
 
-#### Timoteo debía ejercitarse, entrenarse hacia la piedad. La verdad es lo que lleva a la piedad. El misterio para la piedad es Cristo. 1 Timoteo 3:16
+#### Timoteo debía ejercitarse, entrenarse hacia la piedad. La verdad es lo que lleva a la piedad. El misterio para la piedad es Cristo. 1 Timoteo 3:16; Hebreos 5:14
 
 ### 1 Timoteo 4:8a "*Porque el ejercicio físico aprovecha poco...*" ¿Qué aprovecha el ejercicio físico? La mayoria de las personas que dan atención al ejercicio es para mejorar la salúd y apariencia de uno mismo. 
 
-Es tan importante que el foco de nuestra vida sea para la salúd y apariencia personal? ¿Viviremos para siempre de esa manera? ¿De que aprovechará mis seres queridos? ¿Es provechoso dentro del plan y propósito que Dios tiene para mi vida?
+#### Es tan importante que el foco de nuestra vida sea para la salúd y apariencia personal? ¿Viviremos para siempre de esa manera? ¿De que aprovechará mis seres queridos? ¿Es provechoso dentro del plan y propósito que Dios tiene para mi vida?
 
 ### 1 Timoteo 4:8b "*pero la piedad es provechosa para todo...*"
 
 #### Aunque el ejercicio es bueno en parte, la piedad es bueno para todo. 
 
+#### La piedad provista de Cristo llega a ser provechosa en todos los aspectos de la vida y aun mas entre el cuerpo de Cristo.
+
 ### 1 Timoteo 4:8c "*pues tiene promesa para la vida presente y también para la futura...*"
 
-Ambos tratan con la apariencia, pero uno solo solo sirve lo que es temporal. La piedad sirve para propósitos eternos. ¿Como? 
+#### Ambos tratan con la apariencia (lo exterior), pero uno solo sirve para lo que es temporal. La piedad sirve para propósitos eternos. ¿Como? 
 
-A continuación Pablo le explica como a Timoteo...prestemos atención. 
+#### A continuación Pablo le explica como a Timoteo...prestemos atención. 
 
 ### 1 Timoteo 4:9 "*Palabra fiel es esta, y digna de ser aceptada por todos...*"
 
