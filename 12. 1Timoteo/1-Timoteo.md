@@ -2034,7 +2034,17 @@ La carta de Timoteo no es solo para líderes. La carta de Timoteo es para que to
 
 ### 1 Timoteo 5:11b "*porque cuando sienten deseos sensuales,*" otro de los motivos por lo cual no califica dentro de la lista, es porque es dominada por sus propios deseos, lo que claramente muestra que no califica como una mujer piadosa, y que más bien corre peligro de andar desenfrenadamente en sus propios placeres. 1Timoteo 5:6 
 
-### 1 Timoteo 5:11c "*contrarios a Cristo, se quieren casar,*"
+### 1 Timoteo 5:11c "*contrarios a Cristo, se quieren casar,*" no solo se entregan a sus deseos sensuales, sino que también se (“*rebelan contra*” RVR60) Cristo.
+
+#### cualquiera que se entregan a su naturaleza pecaminosa (“*a sus propios deseos sensuales*”) se constituye enemigo de Dios, siendo contrarios a Cristo, teniendo amor por las cosas vanas del mundo, siendo guiados por sus propios apetitos. Santiago 4:4; 
+
+#### Romanos 8:7 “*porque la manera de pensar de la carne es enemistad contra DIOS, pues no se sujeta a la ley de DIOS, porque tampoco puede.*”
+
+#### Romanos 8:8 “*Así que, los que están en la carne no pueden agradar a DIOS. *”
+
+#### Siendo guiadas por sus deseos egoístas estas mujeres solo quieren casarse con el fin de satisfacer sus deseos sensuales, y esto solo acarrea corrupción Gálatas 6:7-8.
+
+#### Entonces si Timoteo o la iglesia incluía a estas mujeres viudas, solamente estarían recompensando las obras impías y corruptas de la carne y no la recompensa de las obras piadosas y consagradas de las que en verdad son viudas.
 
 ### 1 Timoteo 5:12 "*incurriendo así en condenación, por haber abandonado su promesa anterior.*"
 
