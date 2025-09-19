@@ -536,35 +536,35 @@ aTitle: 1 Timoteo
 
 #### Declaraciones categóricas es la palabra DIADEBAIMOOMAI que conlleva la idea de hablar confiadamente o dogmaticamente declarar las cosas. 
 
-## En Síntesis
+## En Síntesis (1 Timoteo 1:1-7)
 
-### Pablo designo una tarea muy importante a su preciado hijo Timoteo.
+### Pablo el apostol designo una tarea muy importante a su preciado hijo Timoteo. 1 Timoteo 1:3a
 
-### Él debía impedir las enseñanzas que no eran conforme al de Dios  y tampoco debían prestarles atención.
+### Él debía impedir las enseñanzas que no eran conforme al de Dios  y tampoco debían prestarles atención. 1 Timoteo 1:3b-4
 
-### Así la iglesia no se perdería en información vacia, inutil. 
+### Así la iglesia no se perdería en información vacia, inutil. 1 Timoteo 1:4b
 
-### Así la iglesia andaría conforme al plan de Dios para ellos, que es por la fe.
+### Así la iglesia andaría conforme al plan de Dios para ellos, que es por la fe. 1 Timoteo 1:4c
 
-### El proposito era un amor (agape) en los creyentes. 
+### El proposito era un amor (agape) en los creyentes. 1 Timoteo 1:5
 
 ### Toda iglesia local busca amor en los hermanos. Pero lo que realmente hace posible eso es una iglesia que se aferra a la verdad de Dios.
 
-### Habían creyentes que estaban desviando a la iglesia por medio de enseñanzas falsas de la ley.
+### Habían creyentes que estaban desviando a la iglesia por medio de enseñanzas falsas de la ley. 1 Timoteo 1:6-7
 
 ### Los pervertidores (1 Timoteo 1:3a): Son autoproclamados "expertos" de la ley, que se dedican a esparcir su veneno.
 
 ### La perversión (1 Timoteo 1:3b-7): Estos hombres han agregado una dolorosa mezcla de mitos, fábulas y genealogías interminables a la ley.
 
-## El propósito de la Ley  Moisés (1 Timoteo 3:8-11)
+## El propósito de la Ley  Moisés (1 Timoteo 1:8-11)
 
 ### 1 Timoteo 1:8a "*Pero nosotros sabemos que la ley es buena, si uno la usa legítimamente.*" Pablo quiere aclarnos en cuanto a la ley, debido a su mal uso, esto no solo es para conocimiento de Timoteo, posteriormente lo seria para toda la iglesia.
 
-#### Como cryentes jamas debemos persibir a la ley como malvada e inutil.
+#### Como creyentes jamas debemos persibir a la ley como malvada e inutil.
 
 #### La ley fue dada por Dios, esta se muestra como un reflejo de su Santidad y Justicia, y en ultima insatancia de su propia persona. Romanos 7:6,12,16, Salmos 19:7-8
 
-### 1 Timoteo 1:8b "* si uno la usa legítimamente.*" La ley puede ser usada de manera legitima, asi como ilegitima.
+### 1 Timoteo 1:8b "*...si uno la usa legítimamente.*" La ley puede ser usada de manera legitima, asi como ilegitima.
 
 ####  La ley consta de un uso y proposito segun las escrituras. Romanos 3:20, Galatas 3:23-25 
 
@@ -616,7 +616,7 @@ aTitle: 1 Timoteo
 
 #### Si cambiamos el evangelio, deja de haber una enseñanza saludable para la iglesia.
 
-### 1 Timoteo 1:11b "*que me ha sido encomendado*" Jesucristo encomendo el mensaje del evangwelio a Pablo. Galatas 1:11-12
+### 1 Timoteo 1:11b "*que me ha sido encomendado*" Jesucristo encomendo el mensaje del evangelio a Pablo. Galatas 1:11-12
 
 ## En Síntesis (1 Timoteo 1:8-11)
 
@@ -624,7 +624,7 @@ aTitle: 1 Timoteo
 
 ### La Ley fue hecha para guíar a los injustos (incredulos) a Cristo. 1 Timoteo 1:8b-11, Gálatas 3:24
 
-### Por el momento vemos que la sana doctrina (doctrina que sana) es en base solo al evangelio de Dios.
+### Vemos que la sana doctrina (doctrina que sana) viene solo por medio del evangelio de Dios.
 
 ## 1 Timoteo 1:12-17 EL TESTIMONIO DE PABLO: Profunda gratitud por la fidelidad de Dios.
 
@@ -714,15 +714,17 @@ aTitle: 1 Timoteo
 
 ## En Síntesis (1 Timoteo 1:12-17)
 
-### Lo que Dios hizo. 1 Timoteo 1:12, 14-15
+### Cristo, en Su Gracia era el "en-fortalecedor" de Pablo. Debía ser igual para Timoteo. 1 Timote 1:12a
 
-### Salvó a Pablo. 1 Timoteo 1:14-15
+### Cristo, en Su Gracia es el que puso a Pablo en el ministerio. 1 Timoteo 1:12b
 
-### Seleccionó a Pablo. 1 Timoteo 1:12
+### Cuando Cristo salvo a Pablo, cuando el era un blasfemo y un perseguidor violento de los cristianos.  1 Timoteo 1:13-14
 
-### Cuando Dios lo hizo: En ese momento, el apóstol era un blasfemo y un perseguidor violento de los cristianos.  1 Timoteo 1:13
+### Solo Cristo cura hasta al mas enfermo. Solo Cristo salva hasta al mas pecador. 1 Timoteo 1:15
 
-### Por qué Dios lo hizo: Lo hizo para demostrar su asombrosa gracia incluso a los peores pecadores. 1 Timoteo 1:16-17
+### Pablo es el ejemplo de la paciencia, misericordia y gracia de Jesucristo para todo pecador que cree en Él para vida eterna. 1 Timoteo 1:16
+
+### Alabanza a nuestro Dios.
 
 # 1 Timoteo 1:18-20 LA SABIDURÍA EN PABLO 
 
