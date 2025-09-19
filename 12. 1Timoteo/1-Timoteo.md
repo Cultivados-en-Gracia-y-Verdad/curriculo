@@ -26,29 +26,33 @@ Title: 1 Timoteo
 
 ### La maravilla de la iglesia esta en el hecho que Cristo la concibió en Sus planes desde antes de la fundación del mundo (Efesios 1:4), la compró con Su sangre (Hechos 20:28), prometió edificarla (Mateo 16:18a), envió el Espiritu para fundarla (Hechos 2) y prometió preservarla eternamente (Mateo 16:18b). 
 
-### La Iglesia no pertenece a ninguna institución humana como decir el vaticano, alguna denominación, las naciones unidas o algún país. Efesios 5:27
+### La Iglesia no pertenece a ninguna institución humana como decir el Vaticano, alguna denominación, las naciones unidas o algún país. Efesios 5:27
 
 ### La iglesia no pertenece a personas como los reformadores, misioneros, "padres fundadores", ancestros, maestros, ancianos o diáconos. La iglesia no pertenece a personas que ofrendaron por comprar el lote y un edificio. 3 Juan 1:9-10
 
 ### La Iglesia pertenece a Jesucristo quien la compró con Su sangre. Hechos 20:28; 1 Corintios 7:23
 
-### Tradicionalmente, el libro de 1 Timoteo ha sido descrito como una "carta pastoral" junto con 2 Timoteo y Tito. La tendencia de la Iglesia entonces, ha sido que solo líderes cristianos tengan la necesidad de estudiar 1 Timoteo para así ser capacitados en su ministerio. Lamentablemente este pensamiento concluyo en congregaciones que se quedaron sin comprender las verdades que contiene esta epistola. 1 Timoteo 3:15
+### Tradicionalmente, las cartas de 1 Timoteo, 2 Timoteo y Tito han sido descritos como "cartas pastorales". Ese pensamiento ha impregnado en el pensamiento actual y que solo líderes cristianos tienen la necesidad de estudiarlos  para así ser capacitados para liderar en el ministerio. 2 Corintios 2:1-5
+
+### Lamentablemente este pensamiento resultó en congregaciones que se quedaron con una falta por comprender las verdades que contiene estas epistolas. 1 Timoteo 3:15
 
 ### Vemos en 2 Timoteo 3:16 que toda la revelación de nuestro Señor es util para la instrucción de cada uno de Sus santos, por lo tanto, 1 Timoteo ha sido escrito para todo creyente también. 
 
-### Este precioso libro tambien contiene instrucción importante para hermanos mayores, hermanas mayores, hermanas jóvenes y hermanos jóvenes. 
+### Este precioso libro contiene instrucción importante para hermanos mayores, hermanas mayores, hermanas jóvenes y hermanos jóvenes. Personas en posiciónes humildes (esclavos) y personas en posición de altura (ricos). 
 
-### Si alguna vez te preguntaste "¿Qué es la Iglesia?", "¿Cual es mi parte dentro de la Iglesia?", "¿Cómo debemos conducirnos en ella?", entonces el contenido de este libro te guiará a la esencia de que es la Iglesia de Jesucristo y como debe andar ordenadamente. Asi que creyente, ¡pon atención a este hermoso y valioso libro!
+### Si alguna vez te preguntaste "¿Qué es la Iglesia?", "¿Cómo se define la Iglesia?", "¿Cual es mi parte dentro de la Iglesia?", "¿Cómo debemos conducirnos en ella?",  entonces el contenido de este libro te guiará a la esencia de que es la Iglesia de Jesucristo y como debe andar ordenadamente. Asi que creyente, ¡pon atención a este hermoso y valioso libro!
 
 ## Información General
 
-### El género del libro es didactico, una carta escrita a alguien. Timoteo es el único individuo al que recibió dos cartas que son parte de las Sagradas Escrituras. 
+### Género: El género del libro es didactico, es una carta escrita a alguien con el propósito de dar enseñanza. 
 
-### El libro de 1 Timoteo contiene tres poemas. 1 Timoteo 1:17, 3:16, 6:15-16
+##### Timoteo es el único individuo al que recibió dos cartas que son parte de las Sagradas Escrituras. 
+
+##### El libro de 1 Timoteo contiene tres poemas. 1 Timoteo 1:17, 3:16, 6:15-16
 
 </hr>
 
-**Eventos importantes en referencia a 1 Timoteo**
+### Eventos importantes en referencia a 1 Timoteo
 
 ###### ![1-Timothy-Timeline-1024x569 (1)](1tim.png)
 
@@ -2148,27 +2152,51 @@ Viene la condicional SI
 
 #### Que una iglesia pueda prestar atención de este hecho, es de gran importancia, ya que al no llevar a cabo una disciplina de corrección para un cambio de mente puede llevar a abandonar la Fe, no solo ella sino a toda la iglesia, ya que la palabra “ATHETEO” es una palabra en tercera persona plural. 1 Corintios 5:2
 
-### 1 Timoteo 5:13a "*Y además, aprenden a estar ociosas,*"
+### 1 Timoteo 5:13a "*Y además, aprenden a estar ociosas,*" El ignorar esta realidad, lleva a que una mujer viuda joven a aprenda a estar ociosa.
 
-### 1 Timoteo 5:13b "*yendo de casa en casa.*"
+#### la palabra aprenden “MANTHANO” es un verbo en tiempo presente, modo indicativo, y vos activa, lo que quiere decir que ellas en tiempo pasado no eran ociosas, sino que de hecho aprendieron a estar ociosas.
+
+#### Lo cual no es el propósito de la enseñanza de la sana doctrina, ya ellas también pueden aprender a ocuparse en buenas obras. 1 Timoteo 2:10; Tito 3:8 
+
+### 1 Timoteo 5:13b "*yendo de casa en casa.*" Al estar ociosas y no ocupadas en buenas obras ni en su propio hogar, estas mujeres están yendo casa en casa llevando vanas palabrerías. 1 Timoteo 1:6
 
 ### 1 Timoteo 5:13c "*Y no solo son ociosas, sino también charlatanas y entremetidas, hablando de cosas que no son dignas.*"
 
-### 1 Timoteo 5:14a "*Por tanto, quiero que las viudas más jóvenes*"
+#### 1 Timoteo 4:7 “*Pero evita las fábulas profanas y propias de viejas; ejercítate en la piedad*” 
 
-### 1 Timoteo 5:14b "*se casen,*"
+### 1 Timoteo 5:14a "*Por tanto, quiero que las viudas más jóvenes*" por todos los motivos que Pablo mostro a Timoteo, es completamente necesario considerar que las mujeres mas jóvenes aprendan también a profesar piedad.
 
-### 1 Timoteo 5:14c "*que tengan hijos,*"
+### 1 Timoteo 5:14b "*se casen,*" este pasaje probablemente tiene una aparente contradicción con 1 Timoteo 5:11, pero no es asi, veamos porque:
 
-### 1 Timoteo 5:14d "*que cuiden su casa*"
+#### Viudas jóvenes quieren casarse, pero el siguiente pasaje 1 Timoteo 5:12 muestra que esta “incurriendo así en condenación”
 
-### 1 Timoteo 5:14e "*y no den al adversario ocasión de reproche.*"
+#### ¿Entonces como podemos entender este pasaje?.
 
-### 1 Timoteo 5:15 "*Pues algunas ya se han apartado para seguir a Satanás.*"
+#### Primero. Ellas guiadas por sus  propios “*deseos sensuales,*” se dejan llevar y van en rebeldía al Señor “*contrarios a Cristo*”. Ellas son guiadas por su carnalidad. 1Timoteo 5:6
 
-### 1 Timoteo 5:16a "*Si alguna creyente tiene viudas en la familia, que las mantenga,*"
+#### *Segundo* al ser guiadas por sus deseos carnales, ellas han abandonado su primera Fe, yendo por medio de las obras de la carne Gálatas 6:7-8
 
-### 1 Timoteo 5:16b "*y que la iglesia no lleve la carga para que pueda ayudar a las que en verdad son viudas.*"
+#### Entonces Pablo anima a estas mujeres a casarse, sin ser llevadas por sus deseos carnales, sino por medio de la instrucción nacida de un corazón puro. 1Timoteo 1:5
+
+### 1 Timoteo 5:14c "*que tengan hijos,*" habíamos visto que en la vida de una mujer que profesa piedad, ella es santificada teniendo hijos sujetos  con toda dignidad. 1 Timoteo 2:15; 1 Timoteo 3;4
+
+### 1 Timoteo 5:14d "*que cuiden su casa*" una mujer que esta al cuidado de su hogar se adorna y reluce sus mejores vestidos de buenas obras, y su valor es aún mayor que a las perlas preciosas. Proverbios 31:1
+
+### 1 Timoteo 5:14e "*y no den al adversario ocasión de reproche.*" El que una mujer se vista de buenas obras, hace que la palabra de Dios no sea blasfemada Tito 2:4-5
+
+### 1 Timoteo 5:15 "*Pues algunas ya se han apartado para seguir a Satanás.*" Es lamentable esta realidad, ya que no es la voluntad de Dios que una mujer se aparte de su amor y provisión. 
+
+#### Cuando una mujer viuda es joven, fácilmente puede ser llevada por las vanas palabrerías, ya que ella misma va aprendiendo a estar ociosa, y esto llevarle a apartarse. 1 Timoteo 1:6
+
+#### Esto no debe ser así, ya que las mujeres viudas más jóvenes también pueden aprender de la sana doctrina, y del misterio de la piedad. Tito 2:3-4
+
+### 1 Timoteo 5:16a "*Si alguna creyente tiene viudas en la familia, que las mantenga,*" volviendo al rol de los hijos, como conclusión por el bien del cuerpo de la iglesia la familia que tiene mujeres viudas en su hogar deben proveer para su manutención.
+
+### 1 Timoteo 5:16b "*y que la iglesia no lleve la carga para que pueda ayudar a las que en verdad son viudas.*" Cuando una familia se ocupa de cuidar a las viudas de su propia familia alivia a la iglesia de poder proveer el reconocimiento para las viudas que en verdad son viudas y están desamparadas.
+
+#### En estos pasajes logramos ver que una mujer llega a tener un rol muy importante en la congregación, que muchas veces no logramos notar, son de edificación de la iglesia, de manera espiritual (como Timoteo 5:5) también de manera física (1 Timoteo 5:10). Ese es un rol que muchas veces los hombres no vemos y descuidamos. 
+
+#### Por eso es que la que en verdad es viuda debe ser recompensada por su labor, ya que Dios mismo la ve agradable a su andar piadoso. 1 Timoteo 5:3
 
 ## En Síntesis (1 Timoteo 5:1-16)
 
@@ -2202,7 +2230,7 @@ Viene la condicional SI
 
 ## 1 Timoteo 5:17-25 La Responsabilidad de la Iglesia por sus obreros : El consejo de Pablo con respecto a los ancianos de la iglesia.
 
-### 1 Timoteo 5:17a "*Los ancianos que gobiernan bien*" para algunos gobernar bien significa que representan bien a sus deseos. Uno puede ir y reclamarles alguna cosa y le hacen caso a uno, posiblemente por temor a ofender a alguien. 
+### 1 Timoteo 5:17a "*Los ancianos que gobiernan bien*" para algunos gobernar bien significa que representan bien a los asuntos de los miembros de la iglesia. Uno puede ir y reclamarles alguna cosa y le hacen caso a uno, posiblemente por temor a ofender a alguien. 
 
 #### Gobernar bien no es mantener a todos animados. No es mantener una supuesta unidad para que no se vayan los hermanos ofendidos. 
 
@@ -2300,21 +2328,19 @@ vivimos engañandonos a nosotros mismos. 1 Juan 1:8
 
 ## En Síntesis (1 Timoteo 5:17-25)
 
-### Ancianos en general. 1 Timoteo 5:17-22, 24-25
+### Asuntos sobre los ancianos en la iglesia. 1 Timoteo 5:17-22, 24-25
 
-### Son dignos de doble honor. 1 Timoteo 5:17-18
+### Los ancianos que dirigen en base a la piedad dentro de la iglesia Son dignos de muchos respeto y un sustento por su servicio, mucho mas si tambien estan dedicados a la enseñanza. 1 Timoteo 5:17-18
 
-### Nunca deben ser acusados injustamente. 1 Timoteo 5:19-20, 24-25
+### Cualquier acusación contra un anciano debe ser cuidadosamente observado. Debe haber mas de un testigo. Si se confirman las acusaciones de pecado, se debe reprenderlos delante de toda la congregación1 Timoteo 5:19-20, 24-25
 
-### Deben ser imparciales. 1 Timoteo 5:21
+### Timoteo debía ser imparcial respecto solucionar ciertos problemas dentro de la iglesia. 1 Timoteo 5:21
 
-### Deben probarse antes de ser ordenados. 1 Timoteo 5:22a
+### Antes de designar ancianos Timoteo debía examinar cuidadosamente a cada candidato, ya que la responsabilidad de cualquier pecado recaería sobre él. 1 Timoteo 5:22a
 
-### Deben mantenerse puros. 1 Timoteo 5:22b
+### Así podía mantenerse puro de pecado. 1 Timoteo 5:22b
 
 ### Timoteo en particular: "*Bebe un poco de vino por amor a tu estómago porque estás enfermo muy a menudo*".  1 Timoteo 5:23
-
-### Pablo se dirige a los obreros, a los impíos, a los sabios y a los ricos. Cierra su carta con algunas instrucciones finales para Timoteo.
 
 # 1 Timoteo 6:3-21 - Asuntos Relacionados con la Iglesia
 
@@ -2497,9 +2523,13 @@ vivimos engañandonos a nosotros mismos. 1 Juan 1:8
 
 ### 1 Timoteo 6:13b "*y de Cristo Jesús, que dio testimonio de la buena profesión delante de Poncio Pilato...*" Poncio Pilato era el gobernador Romano de Judea quien presidió sobre el juicio y execución de Jesús. 
 
+#### "Delante de", a la vista de o en la presencia tanto de Dios como de Cristo.
+
+#### No sabemos mucho de lo que Jesus habla con Pilato, sin embargo en Juan 18:37 Jesus hace una declaracion a Pilato "para esto Yo he nacido y para esto he venido al mundo, para dar testimonio de la Verdad, todo el que es de la Verdad escucha mivoz". Posiblemente sea a esto que esta aludiendo Pablo.
+
 ### 1 Timoteo 6:14a "*que guardes el mandamiento*" 2 Pedro 2:21, 3:2
 
-#### "*guardes*" [TEREO] mantener en un determinado estado, posición o actividad.[^9]
+#### "*guardes*" [TEREO] mantener en un determinado estado, posición o actividad. [^9]
 
 #### 1Pedro 1:4 "*para obtener una herencia incorruptible, inmaculada, y que no se marchitará, reservada* [TEREO] *en los cielos para ustedes*".
 
@@ -2519,7 +2549,7 @@ vivimos engañandonos a nosotros mismos. 1 Juan 1:8
 
 #### Esto no debe ser confundido con el rapto de la iglesia. 1 Tesalonicenses 4:15-18
 
-### 1 Timoteo 6:15a "*la cual manifestará a su debido tiempo*" El cambio aquí es sutíl pero al parecer cambia de Jesus quien será manifestado al Padre quien lo manifestará a su  debido tiempo. Solo el Padre sabe la fecha y la hora de la maniifestación de Jesucristo. Hechos 1:6-7
+### 1 Timoteo 6:15a "*la cual manifestará a su debido tiempo*" El cambio aquí es sutíl pero al parecer cambia de Jesus, quien será manifestado, al Padre quien lo manifestará a su debido tiempo. Solo el Padre sabe la fecha y la hora de la maniifestación de Jesucristo. Hechos 1:6-7
 
 ### 1 Timoteo 6:15c "*el bienaventurado y único Soberano,*" Dios esta en el lugar más alto de cualquier otro en la creación. 1 Timoteo 1:11; Marcos 14:61; 2 Corintios 11:31
 
