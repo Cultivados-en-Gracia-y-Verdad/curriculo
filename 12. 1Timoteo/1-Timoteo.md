@@ -6,19 +6,18 @@ Title: 1 Timoteo
 
 **ÍNDICE**
 
-| **1 Timoteo - En la Casa de Dios**   |      |
-|-----------------------------------|----|----|
-| I. La Iglesia: Información General   |      |
-| II. Características Distintivas de la Iglesia del Nuevo Testamento |      |
-| III. 1 Timoteo 1:1-2 - Saludos e Información Biográfica      |      |
-| IV. 1 Timoteo 1:3-20 - Batallando por la Gracia              |      |
-| V. Breve Doctrina sobre la Disciplina en la Iglesia          |      |
-| VI. 1 Timoteo 2:1-15 - Instrucción Sobre la Adoración        |      |
-| VII. 1 Timoteo 3:1-16 - Instrucción en la selección de líderes en la iglesia |      |
-| VIII. 1 Timoteo 4:1-16 - Protección Contra la Apostasía      |      |
-| IX. 1 Timoteo 5:1-6:21 - Relaciones dentro de la Iglesia     |      |
-| X. 1 Timoteo 6:3-21 - Asuntos Relacionados con la Iglesia    |   |
-
+| **1 Timoteo - En la Casa de Dios** |        |
+| ---------------------------------- | ------ |
+| I. La Iglesia: Información General |      |
+\| II. Características Distintivas de la Iglesia del Nuevo Testamento \|      \|
+\| III. 1 Timoteo 1:1-2 - Saludos e Información Biográfica      \|      \|
+\| IV. 1 Timoteo 1:3-20 - Batallando por la Gracia              \|      \|
+\| V. Breve Doctrina sobre la Disciplina en la Iglesia          \|      \|
+\| VI. 1 Timoteo 2:1-15 - Instrucción Sobre la Adoración        \|      \|
+\| VII. 1 Timoteo 3:1-16 - Instrucción en la selección de líderes en la iglesia \|      \|
+\| VIII. 1 Timoteo 4:1-16 - Protección Contra la Apostasía      \|      \|
+\| IX. 1 Timoteo 5:1-6:21 - Relaciones dentro de la Iglesia     \|      \|
+\| X. 1 Timoteo 6:3-21 - Asuntos Relacionados con la Iglesia    \|   \| |
 <hr>
 
 # I. Introducción 
