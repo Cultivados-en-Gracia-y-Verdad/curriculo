@@ -1644,6 +1644,30 @@ Title: 1 Timoteo
 
 #### La salvación de Timoteo es la misma salvación para los que le oyen. Unicamente viene por medio de nutrirse de la fe y ejercitados en la piedad. 
 
+## En Síntesis (1 Timoteo 4:6-11)
+
+### Al Timoteo estar atento al:
+
+#### Cuidar a los creyentes de las doctrinas extrañas
+
+#### Enseñar la doctrina de Dios
+
+### Entonces sería un buen siervo delante de Dios y la iglesia. 1 Timoteo 4:6a
+
+### Que esta alimentado, maduro en la verdad de Dios. 1 Timoteo 4:6b
+
+### Debía evitar completamente cualquier información que llevará a murmuraciones constantes y desviara de la verdad a él y la Iglesia. 1 Timoteo 4:7a
+
+### Debía ejercitarse en la piedad, conociendo el misterio de la piedad, a Jesucristo. 1 Timoteo 4:7b
+
+#### El ejercicio físico es solo para esta vida temporal en la tierra. 1 Timote 4:8a
+
+#### Una vida piadosa a traves de Cristo viviendo en nosotros, es de provecho presente y futuro. 1 Timoteo 4:8b
+
+#### La esperanza del creyente es el Dios vivo, Su Salvador. 1 Timoteo 4:9-10
+
+### Estas cosas tenian que ser el enfoque para cada miembro de la iglesia. 1 Timoteo 4:11
+
 ## La piedad de Timoteo en acción
 
 ### 1 Timoteo 4:12a "*No permitas que nadie menosprecie tu juventud*" El menosprecio a la juventud viene de parte de los que se olvidan que un día eran jóvenes. Aquí haría bien en prestar atención también el que es mayor, para tomar en cuenta la juventud. Son los jóvenes que tienen energia para trabajar. Se equivocan pero no necesitan ser aplastados por criticas sino direccionados en amor. 
@@ -1730,31 +1754,25 @@ Title: 1 Timoteo
 
 #### Este sera el resultado solo si los creyentes son nutridos en la verdad. AL retener la enseñanza.
 
-## En Síntesis (1 Timoteo 4:6-16)
+## En Síntesis (1 Timoteo 4:12-16)
 
-### Lo que no se debe hacer. 1 Timoteo 4:7a, 12a, 14
+### La mirada de Timoteo no debía estar en su edad. 1 Timote 4:12a
 
-### No pierdas el tiempo discutiendo sobre ideas tontas y mitos tontos. 1 Timoteo 4:7a
+### Su mirada debía estar en una vida piadosa por medio de la Gracia de Cristo. Esto sería de bendición para los incredulos y hermanos de la congregación. 1 Timoteo 4:12b
 
-### No te dejes intimidar por tu juventud. 1 Timoteo 4:12a
+### Timoteo debía dedicarse:
 
-### No descuides tu don espiritual. 1 Timoteo 4:14
+#### A la lectura de la Palabra de Dios en la iglesia. 1 Timoteo 4:13a
 
-### Lo que se debe hacer. 1 Timoteo 4:6, 7b-11, 12b-13, 15-16
+#### Alentar a la iglesia por medio de la Palabra de Dios. 1 Timoteo 4:13b
 
-### Advierte a los miembros de la iglesia con respecto a la apostasía. 1 Timoteo 4:6
+#### A discipular a la iglesia en la Palabra de Dios. 1 Timoteo 4:13c
 
-### Manténgase espiritualmente en forma. 1 Timoteo 4:7b-11
+### No debía ignorar la responsabilidad que se le habia confiado, debía meditar y dedicarse de completo a ella en la verdad de la Escritura. 1 Timoteo 4:14-15
 
-### Sé un modelo piadoso en todo lo que hagas. 1 Timoteo 4:12b
+### Timoteo debía estar antento en su andar diarío y de la doctrina que confiaba y enseñaba.
 
-### Continúe leyendo, enseñando y predicando públicamente la Palabra de Dios. 1 Timoteo 4:13
-
-### Entrégate por completo al ministerio. 1 Timoteo 4:15
-
-### Vigila de cerca tu propia vida. 1 Timoteo 4:16
-
-### Pablo da consejos sobre hombres mayores y jóvenes, mujeres mayores y jóvenes, viudas y ancianos de la iglesia.
+### Esto protegería a Timoteo y a los miembros de la iglesia de ser engañados y andar conforme al plan de Dios que es por la fe. 1 Timoteo 4:16
 
 # 1 Timoteo 5:1-6:21 -- Relaciones dentro de la Iglesia
 
