@@ -2147,20 +2147,21 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 ### 1 Timoteo 6:5c "*que suponen que la piedad es un medio de ganancia.*" Estas personas asumen el hecho que la piedad es para su ganancia. 
 
 #### Falsos maestros se aprovechan de la apariencia de piedad para conseguir ganancia economica. Erroneamente asumen que la piedad tiene ese fin. 1 Timoteo 6:9
-
 #### "*suponen*" [DOKEO] - pensar o creer (algo) sin estar totalmente decidido en mente u opinión. 
 
 ### 1 Timoteo 6:6 "*Pero la piedad, en efecto, es un medio de gran ganancia cuando va acompañada de contentamiento.*" La piedad es un medio para mucho beneficio pero solo cuando viene con contentamiento. ¿Que significa esto?
 
 #### "*contentamiento*" [AUTARKEIA] adecuación que resulta especialmente en satisfacción con la propia situación en la vida. [^9]
 
-#### La piedad acompañada de satisfacción por si sola es de gran ganancia. 
+#### La piedad acompañada de satisfacción por si sola es de gran ganancia. El Apostol Pablo colocaba gran valor sobre contentamiento por indica la suficiencia de Cristo. Filipenses 4:11, 13
 
 #### El contentamiendo no vendra de la circunstancia sino mas bien de la confianza en nuestro gran Dios y Cristo, esto en nuestro diario andar.
 
 #### La piedad acompañada de satisfacion es algo incomparable, no vivimos piadosamente para obtener satisfacion o completarla, sino que nuestra satisfacion esta completa en Cristo. 
 
 ### 1 Timoteo 6:7 "*Porque nada hemos traído al mundo, así que nada podemos sacar de él.*" ¿Porque nos enfocariamos en cosas terrenales si no llevaremos las cosas de la tierra con nosotros?
+
+#### Pablo enfatiza la piedad sobre el bienestar material. 
 
 ### 1 Timoteo 6:8 "*Y si tenemos qué comer y con qué cubrirnos, con eso estaremos contentos.*" Si estamos contentos con un techo y la comida, la piedad es gran ganancia y somos satisfechos. 
 
@@ -2202,9 +2203,10 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 ### La destrucción: Este tipo de codicia, si no se controla, resultará en ruina y destrucción. 1 Timoteo 6:9
 
-# II. LAS PALABRAS DE PABLO A TIMOTEO (6:11-21)
+# II\. PALABRAS DE PABLO A TIMOTEO (6:11-21)
+### 1 Timoteo 6:11a "*Pero tú, oh hombre de Dios...*" Nuevamente Pablo le habla diréctamente a Timoteo ya no como hijo sino hombre de Dios. 2 Timoteo 3:17
 
-### 1 Timoteo 6:11a "*Pero tú, oh hombre de Dios...*" Nuevamente Pablo le habla diréctamente a Timoteo ya no como hijo sino hombre de Dios. 
+#### La expresión que usa Pablo acerca de Timoteo era usado de hombres como Moises, David y otros profetas. Deuteronomio 33:1; Nehemias 12:24; 1 Samuel 9:6
 
 #### No te hace más hombre tener mucho dinero. 
 
@@ -2224,33 +2226,35 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 ### 1 Timoteo 6:11a "*sigue...la fe...*" sigue la fe, el cuerpo de verdad que tenemos.
 
-### 1 Timoteo 6:11a "*sigue...el amor,*" sigue el amor
+### 1 Timoteo 6:11a "*sigue...el amor...*" sigue el amor. Juan 13:35
 
-### 1 Timoteo 6:11a "*sigue...la perseverancia*" 
+### 1 Timoteo 6:11a "*sigue...la perseverancia...*" 
 
-### 1 Timoteo 6:11a "*sigue...y la amabilidad.*"
+### 1 Timoteo 6:11a "*sigue...y la amabilidad...*"
 
-### 1 Timoteo 6:12a "*Pelea la buena batalla de la fe.*" 
+### 1 Timoteo 6:12a "*Pelea la buena batalla de la fe...*" Pelear la batalla de la fe es permanecer fiel al mensaje del Evangelio. 2 Timoteo 4:7
 
-### 1 Timoteo 6:12b "*Echa mano de la vida eterna a la cual fuiste llamado,*"
+### 1 Timoteo 6:12b "*Echa mano de la vida eterna a la cual fuiste llamado...*"
 
-### 1 Timoteo 6:12c "*y de la que hiciste buena profesión en presencia de muchos testigos.*"
+### 1 Timoteo 6:12c "*y de la que hiciste buena profesión en presencia de muchos testigos...*"
 
-### 1 Timoteo 6:13a "*Te mando delante de Dios, que da vida a todas las cosas,*"
+### 1 Timoteo 6:13a "*Te mando delante de Dios, que da vida a todas las cosas...*"
 
-### 1 Timoteo 6:13b "*y de Cristo Jesús, que dio testimonio de la buena profesión delante de Poncio Pilato,*"
+### 1 Timoteo 6:13b "*y de Cristo Jesús, que dio testimonio de la buena profesión delante de Poncio Pilato...*" Poncio Pilato era el gobernador Romano de Judea quien presidió sobre el juicio y execución de Jesús. 
 
-### 1 Timoteo 6:14a "*que guardes el mandamiento*"
+### 1 Timoteo 6:14a "*que guardes el mandamiento*" 2 Pedro 2:21, 3:2
 
-### 1 Timoteo 6:14b "*sin mancha*"
+#### El mandamiento al que se refiere aqui es visto en 1 Timoteo 1:5.
 
-### 1 Timoteo 6:14c "*ni reproche*"
+#### 1 Timothy 1:5 Pero el propósito de nuestra instrucción es el amor *nacido* de un corazón puro, de una buena conciencia y de una fe sincera. Juan 14:15
 
-### 1 Timoteo 6:14d "*hasta la manifestación de nuestro Señor Jesucristo,*"
+#### Se refiere al Evangelio. 2 Timoteo 1:14
 
-### 1 Timoteo 6:15a "*la cual manifestará*"
+### 1 Timoteo 6:14b "*sin mancha ni reproche*" 2 Pedro 3:14
 
-### 1 Timoteo 6:15b "*a su debido tiempo*"
+### 1 Timoteo 6:14c "*hasta la manifestación de nuestro Señor Jesucristo,*" Tito 2:13
+
+### 1 Timoteo 6:15a "*la cual manifestará a su debido tiempo*" 
 
 ### 1 Timoteo 6:15c "*el bienaventurado y único Soberano,*"
 
