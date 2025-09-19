@@ -1864,6 +1864,26 @@ aTitle: 1 Timoteo
 
 #### Entonces Pablo no dejo en duda de la salvación de esta mujer viuda. 
 
+#### *Segundo*: Sin embargo, el andar diario de esta mujer viuda no es en la vida provista por el Señor. Apocalipsis 3:1
+
+#### Por Romanos 6:23 podemos entender que: “*porque la paga del pecado es muerte…*” y este pasaje lo habla en un contexto de santificación.
+
+#### Muerte en la biblia no significa inexistencia, sino que su significado es separación, en este caso hay muerte de comunión, ósea separación de comunión con Dios de parte de la mujer viuda (creyente) a Dios, y no de Dios hacia la mujer (creyente). 1 Juan 1:6
+
+#### La forma en la que un creyente tiene comunión con Dios es por medio de la fe en Jesucristo, que nos limpia en nuestro andar diario de todo pecado (santificación). 1 Juan 1:7
+
+#### Un creyente que no considera su realidad, de estar muerto al pecado y vivo para Dios Romanos 6:11 y que tampoco se presenta a Dios como vivo de entre los muertos Romanos 6:13, es dominado por el pecado.
+
+#### Habiéndose presentado el creyente al pecado, resulta en muerte, y posteriormente se ve manifestado en pecados visibles. Un andar que no es según piedad. Romanos 6:16; Gálatas 5:19-21.
+
+#### La manifestación del pecado es porque el creyente dejo de andar en la provisión de Dios, que es por el Espíritu Santo y es de esa manera que su andar está satisfaciendo la carne. Gálatas 5:16-17
+
+#### Por lo cual, cualquier creyente que anda por la carne, tarde o temprano, las obras de la carne se manifestarán de manera visible los cuales indudablemente serán manifestación de pecados. Gálatas 5:19-21
+
+#### La muerte no viene cuando los pecados son manifestados, sino que la muerte se produjo antes cuando el creyente se presentó al pecado y resulto en muerte. Romanos 6:16; Santiago 1:15.
+
+#### Entonces podemos ver que la mujer viuda que se ha entregado a los placeres desenfrenados, viviendo (salva de la pena del pecado); está muerta (no está siendo salva en tiempo presente del poder del pecado).
+
 ### 1 Timoteo 5:7 "*Ordena también estas cosas, para que sean irreprochables*".
 
 ### 1 Timoteo 5:8 "*Pero si alguien no provee para los suyos, y especialmente para los de su casa, ha negado la fe y es peor que un incrédulo*".
