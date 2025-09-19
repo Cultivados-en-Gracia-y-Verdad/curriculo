@@ -26,31 +26,35 @@ Title: 1 Timoteo
 
 ### La maravilla de la iglesia esta en el hecho que Cristo la concibió en Sus planes desde antes de la fundación del mundo (Efesios 1:4), la compró con Su sangre (Hechos 20:28), prometió edificarla (Mateo 16:18a), envió el Espiritu para fundarla (Hechos 2) y prometió preservarla eternamente (Mateo 16:18b). 
 
-### La Iglesia no pertenece a ninguna institución humana como decir el vaticano, alguna denominación, las naciones unidas o algún país. Efesios 5:27
+### La Iglesia no pertenece a ninguna institución humana como decir el Vaticano, alguna denominación, las naciones unidas o algún país. Efesios 5:27
 
 ### La iglesia no pertenece a personas como los reformadores, misioneros, "padres fundadores", ancestros, maestros, ancianos o diáconos. La iglesia no pertenece a personas que ofrendaron por comprar el lote y un edificio. 3 Juan 1:9-10
 
 ### La Iglesia pertenece a Jesucristo quien la compró con Su sangre. Hechos 20:28; 1 Corintios 7:23
 
-### Tradicionalmente, el libro de 1 Timoteo ha sido descrito como una "carta pastoral" junto con 2 Timoteo y Tito. La tendencia de la Iglesia entonces, ha sido que solo líderes cristianos tengan la necesidad de estudiar 1 Timoteo para así ser capacitados en su ministerio. Lamentablemente este pensamiento concluyo en congregaciones que se quedaron sin comprender las verdades que contiene esta epistola. 1 Timoteo 3:15
+### Tradicionalmente, las cartas de 1 Timoteo, 2 Timoteo y Tito han sido descritos como "cartas pastorales". Ese pensamiento ha impregnado en el pensamiento actual y que solo líderes cristianos tienen la necesidad de estudiarlos  para así ser capacitados para liderar en el ministerio. 2 Corintios 2:1-5
+
+### Lamentablemente este pensamiento resultó en congregaciones que se quedaron con una falta por comprender las verdades que contiene estas epistolas. 1 Timoteo 3:15
 
 ### Vemos en 2 Timoteo 3:16 que toda la revelación de nuestro Señor es util para la instrucción de cada uno de Sus santos, por lo tanto, 1 Timoteo ha sido escrito para todo creyente también. 
 
-### Este precioso libro tambien contiene instrucción importante para hermanos mayores, hermanas mayores, hermanas jóvenes y hermanos jóvenes. 
+### Este precioso libro contiene instrucción importante para hermanos mayores, hermanas mayores, hermanas jóvenes y hermanos jóvenes. Personas en posiciónes humildes (esclavos) y personas en posición de altura (ricos). 
 
-### Si alguna vez te preguntaste "¿Qué es la Iglesia?", "¿Cual es mi parte dentro de la Iglesia?", "¿Cómo debemos conducirnos en ella?", entonces el contenido de este libro te guiará a la esencia de que es la Iglesia de Jesucristo y como debe andar ordenadamente. Asi que creyente, ¡pon atención a este hermoso y valioso libro!
+### Si alguna vez te preguntaste "¿Qué es la Iglesia?", "¿Cómo se define la Iglesia?", "¿Cual es mi parte dentro de la Iglesia?", "¿Cómo debemos conducirnos en ella?",  entonces el contenido de este libro te guiará a la esencia de que es la Iglesia de Jesucristo y como debe andar ordenadamente. Asi que creyente, ¡pon atención a este hermoso y valioso libro!
 
 ## Información General
 
-### El género del libro es didactico, una carta escrita a alguien. Timoteo es el único individuo al que recibió dos cartas que son parte de las Sagradas Escrituras. 
+### Género: El género del libro es didactico, es una carta escrita a alguien con el propósito de dar enseñanza. 
 
-### El libro de 1 Timoteo contiene tres poemas. 1 Timoteo 1:17, 3:16, 6:15-16
+##### Timoteo es el único individuo al que recibió dos cartas que son parte de las Sagradas Escrituras. 
+
+##### El libro de 1 Timoteo contiene tres poemas. 1 Timoteo 1:17, 3:16, 6:15-16
 
 </hr>
 
-**Eventos importantes en referencia a 1 Timoteo**
+### Eventos importantes en referencia a 1 Timoteo
 
-###### ![1-Timothy-Timeline-1024x569 (1)](1tim.png)*(Imagen de la Biblia ESV de estudio)*
+###### ![1-Timothy-Timeline-1024x569 (1)](1tim.png)
 
 </hr>
 
@@ -1064,7 +1068,7 @@ La carta de Timoteo no es solo para líderes. La carta de Timoteo es para que to
 
 ##### La palabra *discusiones* [DIALOGISMOS] es debate — discusión en la que se exponen razones a favor y en contra de alguna proposición o propuesta.[^9]  Colosenses 3:8
 
-## 1 Timoteo 2: 9-15 En base a la voluntad de Dios, Pablo desea una vida piadosa a las Mujeres creyentes. 
+## 1 Timoteo 2:9-15 En base a la voluntad de Dios, Pablo desea una vida piadosa a las Mujeres creyentes. 
 
 ### 1 Timoteo 2:9 "*Asimismo, que las mujeres se vistan con ropa decorosa, con pudor y modestia, no con peinado ostentoso, no con oro, o perlas, o vestidos costosos,*" Después de hablar del actuar de los hombres en la adoración pública, ahora Pablo se dirige a las mujeres creyentes que profesan piedad al mundo. 
 
@@ -1096,7 +1100,7 @@ La carta de Timoteo no es solo para líderes. La carta de Timoteo es para que to
 
 #### La siguiente lista de obras son manifestaciones de piedad. Esta lista es completamente contraria a la cultura y a la naturaleza humana. La piedad en la vida de los creyentes tiene un mensaje poderoso que trasciende culturas y es conforme a la voluntad de Dios. 1 Timoteo 2:4-6
 
-## 1 Timoteo 2: 11-12 La mujer dentro de la congregación.
+## 1 Timoteo 2:11-12 La mujer dentro de la congregación.
 
 ### 1 Timoteo 2:11 "*Que la mujer aprenda calladamente, con toda obediencia.*" En el contexto cultural al que Pablo escribió esta carta, las mujeres no podían estudiar, sin embargo vemos el deseo de Pablo que las mujeres también puedan aprender en la congregación.
 
@@ -1107,8 +1111,6 @@ La carta de Timoteo no es solo para líderes. La carta de Timoteo es para que to
 #### Esto nos muestra que había libertad en las reuniones de iglesia para que las mujeres sean enseñadas en la verdad de igual manera que los varones. 
 
 #### Sin embargo, Pablo instruye que aprendan en silencio. Esto habla de que el enfoque principal estaba en el aprendizaje más que prohibición. Las mujeres no deben estar interrumpiendo en las reuniones, con el fin de que puedan escuchar la enseñanza. 1 Corintios 14:33-35, 40.
-
-#### En una cultura que las mujeres no podían ser enseñadas, era de esperarse que haya interrupciones constantes sin dejar avanzar la enseñanza. 
 
 ### 1 Timoteo 2:11b "...*con toda obediencia.*"
 
@@ -1134,31 +1136,69 @@ La carta de Timoteo no es solo para líderes. La carta de Timoteo es para que to
 
 #### Esto no significa que las mujeres no puedan superarse profesionalmente, o intelectualmente y progresar en diversas áreas de la vida, sino que estas instrucciones son dentro de la iglesia en el orden de autoridad que Dios estableció.
 
-### 1 Timoteo 2:12c *...sino que permanezca callada.*" Nuevamente Pablo instruye a las mujeres que permanezcan manteniendo silencio,
+#### Estas instrucciones hacia la mujer creyente no implican sea inferior en posición, o de menor valor ante Dios. 1 Pedro 3:7; Gálatas 3:28
 
-###  en la congregación. La manifestación visible de una mujer piadosa será visible en una actitud sumisa, contrastando con una actitud escandalosa.
+### 1 Timoteo 2:12c *...sino que permanezca callada.*" Nuevamente Pablo instruye a las mujeres que permanezcan manteniendo silencio en la congregación.
 
-### piedad y dignidad la mujer que voluntariamente permanece en silencio. Dios llama a las mujeres de esta postura y está incluido en esta lista de buenas obras. 
+#### En una cultura que las mujeres no podían ser enseñadas, era de esperarse que haya interrupciones constantes sin dejar avanzar la enseñanza. 
 
-#### Estas instrucciones no implican que la mujer sea inferior en posición o que tienen menos valor ante Dios. 1 Pedro 3:7; Gálatas 3:28
+#### Una actitud visible de una mujer que profesa piedad es el de es de permanecer en silencio, facilitando la comprensión y enseñanza dentro de la iglesia, esta postura está incluida dentro de lista de buenas obras. 
 
+## 1 Timoteo 2:13-15 Pablo da las razones por hacerlo de esta manera. 
 
+#### Pablo empezará a dar instrucciones concernientes a la creación expresando el por que una mujer debería sujetarse voluntariamente conforme al plan y orden elaborado de Dios desde la creación.
 
-## 1 Timoteo 2: 13-15 Pablo da las razones por hacerlo de esta manera. 
+#### Cabe recalcar que esto no es machista, o feminista, sino es un orden que Dios lo realizó desde mucho antes de la caída, cuando no había pecado en el mundo.
 
-### 1 Timoteo 2:13 "*Porque Adán fue creado primero, después Eva...*" El orden de Dios en la creación antes de la caida es simbólizado en la congregación. 
+#### En estos pasajes podemos ver el error de no obedecer el orden que Dios realizo para Adán y Eva. Adán falló en ser la cabeza  y obedecer a su mujer, y Eva falló en sujetarse a su cabeza.
 
-#### Adán fue creado primero y es cabeza. Eva fue creada para ser ayuda idónea para Adán. Cada uno tenía propósito individual y complementaron el uno al otro para cumplir el propósito de Dios.  
+#### Si ambos hubieran obedecido al orden de creación que Dios estableció, no hubieran transgredido ambos, este ejemplo de la caída usará Pablo  para explicar argumentos de sujeción en la iglesia.  
 
-### 1 Timoteo 2:14a "*Y Adán no fue el engañado, sino que la mujer...*" Las mujeres no deben ejercer autoridad sobre los hombres. 
+### 1 Timoteo 2:13 "*Porque Adán fue creado primero, después Eva.*" El orden que Dios hizo en la creación es simbolizado dentro de la congregación.
 
-#### ¿Porque no debe tomar autoridad sobre el hombre? Génesis 2:16-17
+#### Cada uno tenía propósito individual y complementaron el uno al otro para cumplir el propósito de Dios.  
 
-### 1 Timoteo 2:14b "*siendo engañada completamente...*"  Asi como Eva fué engañada por la serpiente, la mujer no debe tomar una posición de autoridad sobre el hombre. 
+#### Podemos ver este orden en la creación, Adán como cabeza y Eva como ayuda idónea.
 
-### 1 Timoteo 2:14c "*cayó en transgresión...*" Ella pecó siendo engañada. El pecó deliberadamente. Adán fue hecho responsable por el pecado que entró. Romanos 5:12
+### 1 Timoteo 2:13a "*Porque Adán fue creado primero,*..." 
 
-#### Claramente vemos el razonamiento es en base a diseño y no la cultura del día. El hombre ha sido diseñado por Dios con ciertas aptitudes y la mujer también. De la misma manera deben llevar diferentes roles en la congregación. Es complementario y no divisor. 
+#### Adán fue creado primero y es cabeza, esto conlleva responsabilidad sobre la creación. Génesis 2:7, 15-16, 19-20.
+
+#### Dios dio a Adán un mandato específico, y luego también se le exigió dar cuentas sobre esto. Génesis 2:16-17, Génesis 3:17.
+
+### 1 Timoteo 2:13b "*...después Eva.*"
+
+#### Eva fue creada después, para ser ayuda idónea para Adán. Génesis 2:18, 21-22.
+
+#### De acuerdo al orden de creación que Dios estableció la mujer no debe tomar autoridad (Ser cabeza) sobre el hombre.
+
+### 1 Timoteo 2:14 "*Y Adán no fue el engañado, sino que la mujer, siendo engañada completamente, cayó en transgresión.*"
+
+#### Eva pecó siendo engañada, sin embargo Adán pecó deliberadamente y fue hecho responsable por el pecado que entró al mundo. Romanos 5:12
+
+#### Este argumento que Pablo usa de la creación nos explicará el los roles que Dios planificó dentro de la congregación, el rol de la mujer piadosa  y el rol de responsabilidad sobre los hombres en la iglesia.
+
+### 1 Timoteo 2:14a "*Y Adán no fue el engañado,...*" 
+
+#### En este pasaje nos muestra que Adán no cayó en el engaño de la serpiente, sino el verdadero problema fue que obedeció a su mujer. Génesis 3:17.
+
+#### Se podría decir que Adán obedeció a la mujer en lugar de a Dios.
+
+### 1 Timoteo 2:14b "...*sino que la mujer, siendo engañada completamente...*"  
+
+#### Eva fue completamente engañada por la serpiente, sin embargo adán no.
+
+####  ¿Como podía la mujer (Eva) salvarse de ser engañada? Sujetarse voluntariamente a su cabeza (Adán).
+
+#### ¿Como Adán no podría caer en transgresión? obedecer completamente al mandato de Dios  y no obedecer a la voz de su mujer en lugar de Dios.
+
+#### Es justamente eso lo que Dios quería para Adán y Eva en el respectivo rol que tenían. Esta ilustración explica referente a los roles que la mujer y el varón tienen en la iglesia.
+
+### 1 Timoteo 2:14c "*cayó en transgresión...*" El resultado de la mujer siendo engañada fue la transgresión.
+
+#### Esta exposición de la caída nos muestra un ejemplo de como no fallar en base a los roles dados por Dios.
+
+#### La cultura en nuestros días insta a la igualdad de género también dentro de las congregaciones, sin embargo vemos en la escritura desde la creación, roles específicos para el hombre y para la mujer, no iguales, complementarios uno al otro.
 
 ### 1 Timoteo 2:15a "*Pero se salvará engendrando hijos...*"¿Será que la mujer puede ser salva por tener hijos? 
 
@@ -2405,9 +2445,13 @@ vivimos engañandonos a nosotros mismos. 1 Juan 1:8
 
 ### 1 Timoteo 6:13b "*y de Cristo Jesús, que dio testimonio de la buena profesión delante de Poncio Pilato...*" Poncio Pilato era el gobernador Romano de Judea quien presidió sobre el juicio y execución de Jesús. 
 
+#### "Delante de", a la vista de o en la presencia tanto de Dios como de Cristo.
+
+#### No sabemos mucho de lo que Jesus habla con Pilato, sin embargo en Juan 18:37 Jesus hace una declaracion a Pilato "para esto Yo he nacido y para esto he venido al mundo, para dar testimonio de la Verdad, todo el que es de la Verdad escucha mivoz". posiblemente sea a esto que esta aludiendo Pablo.
+
 ### 1 Timoteo 6:14a "*que guardes el mandamiento*" 2 Pedro 2:21, 3:2
 
-#### "*guardes*" [TEREO] mantener en un determinado estado, posición o actividad.[^9]
+#### "*guardes*" [TEREO] mantener en un determinado estado, posición o actividad. [^9]
 
 #### 1Pedro 1:4 "*para obtener una herencia incorruptible, inmaculada, y que no se marchitará, reservada* [TEREO] *en los cielos para ustedes*".
 
