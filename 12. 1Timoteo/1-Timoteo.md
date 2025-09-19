@@ -50,7 +50,7 @@ Title: 1 Timoteo
 
 **Eventos importantes en referencia a 1 Timoteo**
 
-###### ![1-Timothy-Timeline-1024x569 (1)](/Users/johnwry/Nextcloud/Documents/GitHub/curriculo/12. 1Timoteo/1-Timothy-Timeline-1024x569 (1).png)*(Imagen de la Biblia ESV de estudio)*
+###### ![1-Timothy-Timeline-1024x569 (1)](1tim.png)*(Imagen de la Biblia ESV de estudio)*
 
 </hr>
 
@@ -2290,13 +2290,13 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 #### La expresión que usa Pablo acerca de Timoteo era usado de hombres como Moises, David y otros profetas. Deuteronomio 33:1; Nehemias 12:24; 1 Samuel 9:6
 
-#### No te hace más hombre tener mucho dinero. 
+#### No te hace más hombre de Dios tener mucho dinero.  
 
-#### No te hace más hombre ser famoso. 
+#### No te hace más hombre de Dios ser famoso. 
 
-#### No te hace más hombre caerles bien a todos. 
+#### No te hace más hombre de Dios caerles bien a todos. 
 
-#### Pablo le recuerda a Timoteo, el ya todo un hombre y hombre de Dios. 
+#### Pablo le recuerda a Timoteo, no le faltaba nada para ser hombre de Dios. 
 
 ### 1 Timoteo 6:11a "*huye de estas cosas...*" la instrucción aqui es de huir. 
 
@@ -2326,33 +2326,47 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 ### 1 Timoteo 6:14a "*que guardes el mandamiento*" 2 Pedro 2:21, 3:2
 
-#### El mandamiento al que se refiere aqui es visto en 1 Timoteo 1:5.
+#### "*guardes*" [TEREO] mantener en un determinado estado, posición o actividad.[^9]
 
-#### 1 Timothy 1:5 Pero el propósito de nuestra instrucción es el amor *nacido* de un corazón puro, de una buena conciencia y de una fe sincera. Juan 14:15
+#### 1Pedro 1:4 "*para obtener una herencia incorruptible, inmaculada, y que no se marchitará, reservada* [TEREO] *en los cielos para ustedes*".
 
-#### Se refiere al Evangelio. 2 Timoteo 1:14
+#### Judas 1:21 "*consérvense* [TEREO] *en el amor de Dios, esperando ansiosamente la misericordia de nuestro Señor Jesucristo para vida eterna*".
 
-### 1 Timoteo 6:14b "*sin mancha ni reproche*" 2 Pedro 3:14
+#### El mandamiento al que se refiere aqui es visto en 1 Timoteo 1:5, "*Pero el propósito de nuestra instrucción es el amor nacido de un corazón puro, de una buena conciencia y de una fe sincera*". Juan 14:15
 
-### 1 Timoteo 6:14c "*hasta la manifestación de nuestro Señor Jesucristo,*" Tito 2:13
+#### Mandamiento o instrucción parece referirse a la enseñanza total, la fe. 2 Timoteo 1:14
 
-### 1 Timoteo 6:15a "*la cual manifestará a su debido tiempo*" 
+### 1 Timoteo 6:14b "*sin mancha ni reproche*" guardar el mandamiento es mantenerla sin mancha ni reproche. 2 Pedro 3:14
 
-### 1 Timoteo 6:15c "*el bienaventurado y único Soberano,*"
+#### "*mancha*" [AMOMOS] - libre de defectos fisicos o morales[^9]Santiago 1:19
 
-### 1 Timoteo 6:15d "*el Rey de reyes y Señor de señores;*"
+#### "*reproche*" [AKATAGNOSTOS] - no merece ninguna reprensión o crítica[^9]
 
-### 1 Timoteo 6:16a "*el único que tiene inmortalidad*"
+### 1 Timoteo 6:14c "*hasta la manifestación de nuestro Señor Jesucristo,*" La manifestación de Jesucristo se refiere a la segunda venida de Cristo cuando será manifestado como Rey de Reyes y Señor de Señores. 2 Timoteo 1:10, 4:1; Tito 2:13; Colosenses 3:4
 
-### 1 Timoteo 6:16b "*y habita en luz inaccesible,*"
+#### Esto no debe ser confundido con el rapto de la iglesia. 1 Tesalonicenses 4:15-18
 
-### 1 Timoteo 6:16c "*a quien ningún hombre ha visto ni puede ver.*"
+### 1 Timoteo 6:15a "*la cual manifestará a su debido tiempo*" El mandamiento manifestará a su debido tiempo. Hechos 1:6-7
+
+### 1 Timoteo 6:15c "*el bienaventurado y único Soberano,*" 1 Timoteo 1:11; Marcos 14:61; 2 Corintios 11:31
+
+#### "*Soberano*" [DYNASTES] - persona que gobierna o manda; especialmente entendido como alguien que tiene gran influencia controladora.[^9] Es traducido poderoso, y gobernador. 
+
+### 1 Timoteo 6:15d "*el Rey de reyes y Señor de señores;*" Este es un título que lleva una sola persona, Jesucristo. No será publicado hasta que venga e poder. Apocalipsis 19:16
+
+### 1 Timoteo 6:16a "*el único que tiene inmortalidad*" No solo es el único soberano, es el único que tiene inmortalidad. 
+
+### 1 Timoteo 6:16b "*y habita en luz inaccesible,*" 
+
+### 1 Timoteo 6:16c "*a quien ningún hombre ha visto ni puede ver*". Jesucristo, feliz y único soberano, únicos
 
 ### 1 Timoteo 6:16d "*A Él sea la honra*"
 
-### 1 Timoteo 6:16e "*y el dominio eterno.*"
+### 1 Timoteo 6:16e "*y el dominio eterno*".
 
-### 1 Timoteo 6:16f "*Amén.*"
+### 1 Timoteo 6:16f "*Amén*".
+
+## Los Ricos
 
 ### 1 Timoteo 6:17a  "*A los ricos en este mundo,*"
 
@@ -2379,6 +2393,8 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 ### 1 Timoteo 6:19b "*de un buen fundamento para el futuro,*"
 
 ### 1 Timoteo 6:19c "*para que puedan echar mano de lo que en verdad es vida.*"
+
+## Timoteo, antes de despedirme
 
 ### 1 Timoteo 6:20a  "*Timoteo, guarda lo que se te ha encomendado,*"
 
