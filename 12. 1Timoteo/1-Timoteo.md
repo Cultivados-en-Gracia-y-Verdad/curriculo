@@ -26,29 +26,33 @@ Title: 1 Timoteo
 
 ### La maravilla de la iglesia esta en el hecho que Cristo la concibió en Sus planes desde antes de la fundación del mundo (Efesios 1:4), la compró con Su sangre (Hechos 20:28), prometió edificarla (Mateo 16:18a), envió el Espiritu para fundarla (Hechos 2) y prometió preservarla eternamente (Mateo 16:18b). 
 
-### La Iglesia no pertenece a ninguna institución humana como decir el vaticano, alguna denominación, las naciones unidas o algún país. Efesios 5:27
+### La Iglesia no pertenece a ninguna institución humana como decir el Vaticano, alguna denominación, las naciones unidas o algún país. Efesios 5:27
 
 ### La iglesia no pertenece a personas como los reformadores, misioneros, "padres fundadores", ancestros, maestros, ancianos o diáconos. La iglesia no pertenece a personas que ofrendaron por comprar el lote y un edificio. 3 Juan 1:9-10
 
 ### La Iglesia pertenece a Jesucristo quien la compró con Su sangre. Hechos 20:28; 1 Corintios 7:23
 
-### Tradicionalmente, el libro de 1 Timoteo ha sido descrito como una "carta pastoral" junto con 2 Timoteo y Tito. La tendencia de la Iglesia entonces, ha sido que solo líderes cristianos tengan la necesidad de estudiar 1 Timoteo para así ser capacitados en su ministerio. Lamentablemente este pensamiento concluyo en congregaciones que se quedaron sin comprender las verdades que contiene esta epistola. 1 Timoteo 3:15
+### Tradicionalmente, las cartas de 1 Timoteo, 2 Timoteo y Tito han sido descritos como "cartas pastorales". Ese pensamiento ha impregnado en el pensamiento actual y que solo líderes cristianos tienen la necesidad de estudiarlos  para así ser capacitados para liderar en el ministerio. 2 Corintios 2:1-5
+
+### Lamentablemente este pensamiento resultó en congregaciones que se quedaron con una falta por comprender las verdades que contiene estas epistolas. 1 Timoteo 3:15
 
 ### Vemos en 2 Timoteo 3:16 que toda la revelación de nuestro Señor es util para la instrucción de cada uno de Sus santos, por lo tanto, 1 Timoteo ha sido escrito para todo creyente también. 
 
-### Este precioso libro tambien contiene instrucción importante para hermanos mayores, hermanas mayores, hermanas jóvenes y hermanos jóvenes. 
+### Este precioso libro contiene instrucción importante para hermanos mayores, hermanas mayores, hermanas jóvenes y hermanos jóvenes. Personas en posiciónes humildes (esclavos) y personas en posición de altura (ricos). 
 
-### Si alguna vez te preguntaste "¿Qué es la Iglesia?", "¿Cual es mi parte dentro de la Iglesia?", "¿Cómo debemos conducirnos en ella?", entonces el contenido de este libro te guiará a la esencia de que es la Iglesia de Jesucristo y como debe andar ordenadamente. Asi que creyente, ¡pon atención a este hermoso y valioso libro!
+### Si alguna vez te preguntaste "¿Qué es la Iglesia?", "¿Cómo se define la Iglesia?", "¿Cual es mi parte dentro de la Iglesia?", "¿Cómo debemos conducirnos en ella?",  entonces el contenido de este libro te guiará a la esencia de que es la Iglesia de Jesucristo y como debe andar ordenadamente. Asi que creyente, ¡pon atención a este hermoso y valioso libro!
 
 ## Información General
 
-### El género del libro es didactico, una carta escrita a alguien. Timoteo es el único individuo al que recibió dos cartas que son parte de las Sagradas Escrituras. 
+### Género: El género del libro es didactico, es una carta escrita a alguien con el propósito de dar enseñanza. 
 
-### El libro de 1 Timoteo contiene tres poemas. 1 Timoteo 1:17, 3:16, 6:15-16
+##### Timoteo es el único individuo al que recibió dos cartas que son parte de las Sagradas Escrituras. 
+
+##### El libro de 1 Timoteo contiene tres poemas. 1 Timoteo 1:17, 3:16, 6:15-16
 
 </hr>
 
-**Eventos importantes en referencia a 1 Timoteo**
+### Eventos importantes en referencia a 1 Timoteo
 
 ###### ![1-Timothy-Timeline-1024x569 (1)](1tim.png)
 
