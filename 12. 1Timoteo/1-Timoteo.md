@@ -1884,7 +1884,11 @@ aTitle: 1 Timoteo
 
 #### Entonces podemos ver que la mujer viuda que se ha entregado a los placeres desenfrenados, viviendo (salva de la pena del pecado); está muerta (no está siendo salva en tiempo presente del poder del pecado).
 
-### 1 Timoteo 5:7 "*Ordena también estas cosas, para que sean irreprochables*".
+### 1 Timoteo 5:7 "*Ordena también estas cosas, para que sean irreprochables*". Esta es una labor importante en la iglesia de Dios, ya que Dios en ningún momento ve agradable el pecado. Romanos 6:15
+
+#### Nunca la gracia va asociado con seguir pecando, es más ir por el pecado es en contra de la gracia de Dios, ya que la gracia es que nos enseña a vivir un vida libre de los placeres desenfrenados Tito 1:12.
+
+#### Timoteo debía ordenar también estas cosas para que por medio de la provisión de la gracia de Dios todo miembro de la iglesia sea irreprochable en su andar diario. 2 Pedro 1:8-9
 
 ### 1 Timoteo 5:8 "*Pero si alguien no provee para los suyos, y especialmente para los de su casa, ha negado la fe y es peor que un incrédulo*".
 
