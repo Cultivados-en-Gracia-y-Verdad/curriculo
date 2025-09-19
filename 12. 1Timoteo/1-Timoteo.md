@@ -2084,13 +2084,25 @@ La carta de Timoteo no es solo para líderes. La carta de Timoteo es para que to
 
 ## 1 Timoteo 5:17-25 La Responsabilidad de la Iglesia por sus obreros : El consejo de Pablo con respecto a los ancianos de la iglesia.
 
-### 1 Timoteo 5:17a "*Los ancianos que gobiernan bien*" 
+### 1 Timoteo 5:17a "*Los ancianos que gobiernan bien*" para algunos gobernar bien significa que representan bien a sus deseos. Uno puede ir y reclamarles alguna cosa y le hacen caso a uno, posiblemente por temor a ofender a alguien. 
+
+#### Gobernar bien no es mantener a todos animados. No es mantener una supuesta unidad para que no se vayan los hermanos ofendidos. 
+
+#### Gobernar bien no es ganar la aceptación de los hermanos a costas de la verdad. 
+
+#### Gobernar bien no es sujetarse a los hombres o a un grupo de hombres porque nos falta examinar las Escrituras por cuenta propia. 
+
+#### Gobernar bien es estar sujeto a la autoridad de Jesucristo como cabeza. La manera que se demuestra esto como lider es sujeto a las Escrituras como máxima autoridad. Es revelación de Dios al hombre. No se puede gobernar bien y no alinear con la Biblia. 
+
+#### Gobernar bien es entregar la verdad como Dios la ha revelado. Es mantenerse fiel a la fe una vez entregada. Es estar dispuesto a ser enseñado por medio de La Palabra y el Espíritu Santo, admitiendo cuando uno tiene que cambiar de mente e inclusive reconocer si ha enseñado algo erróneo por falta de comprensión. 
+
+#### Gobernar bien es hacer entender que todos estamos en proceso de aprendizage y dar el ejemplo de aquello. No es sostener mi opinión, es sostener la verdad. 
 
 ### 1 Timoteo 5:17b "*sean considerados dignos de doble honor,*" esto se refiere a un honor encima del respeto que merecen. El doble honor es la responsabilidad de la iglesia. La iglesia debe preocuparse de recompensar al anciano que se dedica a gobernar bien. 
 
 ### 1 Timoteo 5:17c "*principalmente los que trabajan en la predicación y en la enseñanza*" el anciano que pone su foco en trabajar en la predicación y enseñanza hace excelentemente bien. Debe tener un respaldo económico para poder continuar haciéndolo. La iglesia es responsable por hacerlo. 
 
-#### La voluntad de Dios es que el anciano que trabaja en la exposición de La Palabra sea cubierto por la iglesia. 
+#### La voluntad de Dios es que el anciano que quiere trabaja enteramente en la exposición de La Palabra sea respaldado por la iglesia para poder hacerlo. Una iglesia que tiene líderes dispuestos debe ser dados doble honor, son una bendición y no una carga. 
 
 ### 1 Timoteo 5:18a "*Porque la Escritura dice: «NO PONDRÁS BOZAL AL BUEY CUANDO TRILLA»,*" La iglesia que no toma responsabilidad en cuidar de sus ancianos es como una persona que abusa sus animales, haciendolos trabajar pisando grano sin poder fortalecerse porque tiene un bosal sobre su boca. Esto es ser abusivo. 
 
@@ -2146,11 +2158,11 @@ vivimos engañandonos a nosotros mismos. 1 Juan 1:8
 
 #### Vale la pena mencionar que mientras que la borrachera y adiccion al alcohol es demarcado como prohibido, tomar bebidas alcohólicas no es. 
 
-#### Asi como muchas cosas en la vida que son buenas, pueden llegar a sernos daño si abusamos. 
+##### Asi como muchas cosas en la vida que son buenas, pueden llegar a sernos daño si abusamos. 
 
 #### Por ejemplo, la sal es buena. La sal añade sabor a los alimentos. Pero mucha sal no solo da un mal sabor, es malo para la salud. En el caso de personas con hipertensión, la sal debe ser consumida medidamente. 
 
-Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alcohol en una bebida antes de beberla es necesario. 
+##### Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alcohol en una bebida antes de beberla es necesario. 
 
 #### Similarmente con las bebidas alcohólicas. Si bien no esta mal tomar una bebida alcohólica, debe ser tratado responsablemente. Embriagarse por no medir la cantidad de bebida es pecado. Aquí Pablo enseña a Timoteo que tome vino para promover una mejor salúd. 
 
@@ -2182,7 +2194,7 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 ### Deben mantenerse puros. 1 Timoteo 5:22b
 
-### Timoteo en particular: "Bebe un poco de vino por amor a tu estómago porque estás enfermo muy a menudo".  1 Timoteo 5:23
+### Timoteo en particular: "*Bebe un poco de vino por amor a tu estómago porque estás enfermo muy a menudo*".  1 Timoteo 5:23
 
 ### Pablo se dirige a los obreros, a los impíos, a los sabios y a los ricos. Cierra su carta con algunas instrucciones finales para Timoteo.
 
