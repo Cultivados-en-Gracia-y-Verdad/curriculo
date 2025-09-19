@@ -9,15 +9,15 @@ Title: 1 Timoteo
 | **1 Timoteo - En la Casa de Dios** |        |
 | ---------------------------------- | ------ |
 | I. La Iglesia: Información General |      |
-\| II. Características Distintivas de la Iglesia del Nuevo Testamento \|      \|
-\| III. 1 Timoteo 1:1-2 - Saludos e Información Biográfica      \|      \|
-\| IV. 1 Timoteo 1:3-20 - Batallando por la Gracia              \|      \|
-\| V. Breve Doctrina sobre la Disciplina en la Iglesia          \|      \|
-\| VI. 1 Timoteo 2:1-15 - Instrucción Sobre la Adoración        \|      \|
-\| VII. 1 Timoteo 3:1-16 - Instrucción en la selección de líderes en la iglesia \|      \|
-\| VIII. 1 Timoteo 4:1-16 - Protección Contra la Apostasía      \|      \|
-\| IX. 1 Timoteo 5:1-6:21 - Relaciones dentro de la Iglesia     \|      \|
-\| X. 1 Timoteo 6:3-21 - Asuntos Relacionados con la Iglesia    \|   \| |
+|\| Características Distintivas de la Iglesia del Nuevo Testamento \|      \|||
+|\| 1 Timoteo 1:1-2 - Saludos e Información Biográfica      \|      \|||
+|\| 1 Timoteo 1:3-20 - Batallando por la Gracia              \|      \|||
+|\| Breve Doctrina sobre la Disciplina en la Iglesia          \|      \|||
+|\| 1 Timoteo 2:1-15 - Instrucción Sobre la Adoración        \|      \|||
+|\| 1 Timoteo 3:1-16 - Instrucción en la selección de líderes en la iglesia \|      \|||
+|\| 1 Timoteo 4:1-16 - Protección Contra la Apostasía      \|      \|||
+|\| 1 Timoteo 5:1-6:21 - Relaciones dentro de la Iglesia     \|      \|||
+|\| 1 Timoteo 6:3-21 - Asuntos Relacionados con la Iglesia    \|   \| ||
 <hr>
 
 # Introducción 
@@ -50,7 +50,7 @@ Title: 1 Timoteo
 
 **Eventos importantes en referencia a 1 Timoteo**
 
-###### ![1-Timothy-Timeline-1024x569 (1)](1tim.png)*(Imagen de la Biblia ESV de estudio)*
+###### ![1-Timothy-Timeline-1024x569 (1)](1tim.png)
 
 </hr>
 
@@ -94,7 +94,9 @@ Title: 1 Timoteo
 
 ### En 1 Timoteo, se encuentran instrucciones para establecer iglesias, corregir abusos, falsas doctrinas, prácticas de adoración, hábitos de discipulado, vida familiar, responder a la persecución y más. 
 
-### En resumen, podemos decir que Pablo le escribió a Timoteo por su inmenso amor y aprecio por Timoteo y la obra que había sido llamado a realizar al servicio del Señor Jesús.
+### En resumen, podemos decir que Pablo le escribió a Timoteo por su inmenso amor y aprecio por Timoteo y la obra que había sido llamado a realizar al servicio del Señor Jesús. A través de esta carta Timoteo podía enseñar a los hermanos en Efeso y nosotros aprendemos también. 
+
+La carta de Timoteo no es solo para líderes. La carta de Timoteo es para que todo creyente sepa como conducirse en la casa de Dios. 
 
 # La iglesia: el cuerpo de Cristo y casa del Dios vivo
 
@@ -1720,6 +1722,30 @@ Title: 1 Timoteo
 
 #### La salvación de Timoteo es la misma salvación para los que le oyen. Unicamente viene por medio de nutrirse de la fe y ejercitados en la piedad. 
 
+## En Síntesis (1 Timoteo 4:6-11)
+
+### Al Timoteo estar atento al:
+
+#### Cuidar a los creyentes de las doctrinas extrañas
+
+#### Enseñar la doctrina de Dios
+
+### Entonces sería un buen siervo delante de Dios y la iglesia. 1 Timoteo 4:6a
+
+### Que esta alimentado, maduro en la verdad de Dios. 1 Timoteo 4:6b
+
+### Debía evitar completamente cualquier información que llevará a murmuraciones constantes y desviara de la verdad a él y la Iglesia. 1 Timoteo 4:7a
+
+### Debía ejercitarse en la piedad, conociendo el misterio de la piedad, a Jesucristo. 1 Timoteo 4:7b
+
+#### El ejercicio físico es solo para esta vida temporal en la tierra. 1 Timote 4:8a
+
+#### Una vida piadosa a traves de Cristo viviendo en nosotros, es de provecho presente y futuro. 1 Timoteo 4:8b
+
+#### La esperanza del creyente es el Dios vivo, Su Salvador. 1 Timoteo 4:9-10
+
+### Estas cosas tenian que ser el enfoque para cada miembro de la iglesia. 1 Timoteo 4:11
+
 ## La piedad de Timoteo en acción
 
 ### 1 Timoteo 4:12a "*No permitas que nadie menosprecie tu juventud*" El menosprecio a la juventud viene de parte de los que se olvidan que un día eran jóvenes. Aquí haría bien en prestar atención también el que es mayor, para tomar en cuenta la juventud. Son los jóvenes que tienen energia para trabajar. Se equivocan pero no necesitan ser aplastados por criticas sino direccionados en amor. 
@@ -1806,31 +1832,25 @@ Title: 1 Timoteo
 
 #### Este sera el resultado solo si los creyentes son nutridos en la verdad. AL retener la enseñanza.
 
-## En Síntesis (1 Timoteo 4:6-16)
+## En Síntesis (1 Timoteo 4:12-16)
 
-### Lo que no se debe hacer. 1 Timoteo 4:7a, 12a, 14
+### La mirada de Timoteo no debía estar en su edad. 1 Timote 4:12a
 
-### No pierdas el tiempo discutiendo sobre ideas tontas y mitos tontos. 1 Timoteo 4:7a
+### Su mirada debía estar en una vida piadosa por medio de la Gracia de Cristo. Esto sería de bendición para los incredulos y hermanos de la congregación. 1 Timoteo 4:12b
 
-### No te dejes intimidar por tu juventud. 1 Timoteo 4:12a
+### Timoteo debía dedicarse:
 
-### No descuides tu don espiritual. 1 Timoteo 4:14
+#### A la lectura de la Palabra de Dios en la iglesia. 1 Timoteo 4:13a
 
-### Lo que se debe hacer. 1 Timoteo 4:6, 7b-11, 12b-13, 15-16
+#### Alentar a la iglesia por medio de la Palabra de Dios. 1 Timoteo 4:13b
 
-### Advierte a los miembros de la iglesia con respecto a la apostasía. 1 Timoteo 4:6
+#### A discipular a la iglesia en la Palabra de Dios. 1 Timoteo 4:13c
 
-### Manténgase espiritualmente en forma. 1 Timoteo 4:7b-11
+### No debía ignorar la responsabilidad que se le habia confiado, debía meditar y dedicarse de completo a ella en la verdad de la Escritura. 1 Timoteo 4:14-15
 
-### Sé un modelo piadoso en todo lo que hagas. 1 Timoteo 4:12b
+### Timoteo debía estar antento en su andar diarío y de la doctrina que confiaba y enseñaba.
 
-### Continúe leyendo, enseñando y predicando públicamente la Palabra de Dios. 1 Timoteo 4:13
-
-### Entrégate por completo al ministerio. 1 Timoteo 4:15
-
-### Vigila de cerca tu propia vida. 1 Timoteo 4:16
-
-### Pablo da consejos sobre hombres mayores y jóvenes, mujeres mayores y jóvenes, viudas y ancianos de la iglesia.
+### Esto protegería a Timoteo y a los miembros de la iglesia de ser engañados y andar conforme al plan de Dios que es por la fe. 1 Timoteo 4:16
 
 # 1 Timoteo 5:1-6:21 -- Relaciones dentro de la Iglesia
 
@@ -2030,17 +2050,49 @@ Title: 1 Timoteo
 
 #### De todos modos habla de una mujer que ha quedado viuda y que tiene buen testimonio de mostrar preocupación y brindar cuidado por los siervos del Señor.
 
-### 1 Timoteo 5:10e "*si ha ayudado a los afligidos*"
+### 1 Timoteo 5:10e "*si ha ayudado a los afligidos*" Una vez más vemos que una mujer viuda que muestra el amor de Cristo sobre los afligidos debía ser considerada dentro de los requisitos de una verdadera viuda. 
 
-### 1 Timoteo 5:10f "*y si se ha consagrado a toda buena obra*".
+#### La palabra “EPARQUEO” es un verbo en tiempo aoristo, modo indicativo en vos activa, y habla sobre el mantenimiento o socorro, lo que quiere decir que si de hecho en algún tiempo ha ayudado en provisión y consuelo para los afligidos. 
 
-### 1 Timoteo 5:11a "*Pero rehúsa poner en la lista a viudas más jóvenes,*"
+#### La mejor provisión de consuelo para un afligido es el mensaje de la obra de Jesucristo ya que el mismo vino a anunciar las buenas nuevas a los afligidos Isaías 61:1; Lucas 4:18; Mateo 11:28
 
-### 1 Timoteo 5:11b "*porque cuando sienten deseos sensuales,*"
+### 1 Timoteo 5:10f "*y si se ha consagrado a toda buena obra*". Todo creyente es llamado a andar en las buenas obras que Dios ha preparado, nada bueno puede venir de uno mismo, el andar de Fe de una mujer viuda le llevara a estar dedicada a toda buena obra. Efesios 2:10.
 
-### 1 Timoteo 5:11c "*contrarios a Cristo, se quieren casar,*"
+#### La palabra “EPAKOLUTHEO” “*si se ha consagrado*” y es un verbo en tiempo aoristo, modo indicativo y voz activa, referido a que se ha dedicado o ha practicado (RVR60) toda buena obra.
 
-### 1 Timoteo 5:12 "*incurriendo así en condenación, por haber abandonado su promesa anterior.*"
+#### Toda buena obra solo es nacido de una sana enseñanza sobre la gracia de Dios y de evitar vanas palabrerías. Tito 1:16, Tito 2:11-13; 2 Timoteo 2:16
+
+### 1 Timoteo 5:11a "*Pero rehúsa poner en la lista a viudas más jóvenes,*" En contraste a la lista que califican a una verdadera viuda, aquí Pablo deja una segunda lista, de las que son viudas, pero que ellas deben aprender a andar piadosamente.
+
+#### Pero rehúsa “PARAITEOMAI” es un verbo en tiempo presente, modo imperativo y voz media/pasiva, lo que significa que tanto el y como la iglesia, debía rehusarse en poner en la lista de verdaderas viudas.
+
+#### Uno de los motivos que nos dice es que ellas son más jóvenes, osea que no son mayores de 60 años, por lo cual están descalificadas. 1 Timoteo 5:9.
+
+### 1 Timoteo 5:11b "*porque cuando sienten deseos sensuales,*" otro de los motivos por lo cual no califica dentro de la lista, es porque es dominada por sus propios deseos, lo que claramente muestra que no califica como una mujer piadosa, y que más bien corre peligro de andar desenfrenadamente en sus propios placeres. 1Timoteo 5:6 
+
+### 1 Timoteo 5:11c "*contrarios a Cristo, se quieren casar,*" no solo se entregan a sus deseos sensuales, sino que también se (“*rebelan contra*” RVR60) Cristo.
+
+#### cualquiera que se entregan a su naturaleza pecaminosa (“*a sus propios deseos sensuales*”) se constituye enemigo de Dios, siendo contrarios a Cristo, teniendo amor por las cosas vanas del mundo, siendo guiados por sus propios apetitos. Santiago 4:4; 
+
+#### Romanos 8:7 “*porque la manera de pensar de la carne es enemistad contra DIOS, pues no se sujeta a la ley de DIOS, porque tampoco puede.*”
+
+#### Romanos 8:8 “*Así que, los que están en la carne no pueden agradar a DIOS. *”
+
+#### Siendo guiadas por sus deseos egoístas estas mujeres solo quieren casarse con el fin de satisfacer sus deseos sensuales, y esto solo acarrea corrupción Gálatas 6:7-8.
+
+#### Entonces si Timoteo o la iglesia incluía a estas mujeres viudas, solamente estarían recompensando las obras impías y corruptas de la carne y no la recompensa de las obras piadosas y consagradas de las que en verdad son viudas.
+
+### 1 Timoteo 5:12 "*incurriendo así en condenación, por haber abandonado su promesa anterior.*" Esta es una advertencia en la cual tanto Timoteo como la iglesia haría bien en prestar atención.
+
+#### porque podemos ver en 1 Timoteo 1:5 “* pero el propósito del mandato ° es el amor nacido de un corazón puro, de buena conciencia y de una fe no fingida,*”, el reconomiento de honor a las mujeres viudas son por un andar piadoso de una Fe no fingida. Filipenses 1:5
+
+#### “*Incurriendo así en condenación*” hace referencia que mientras que a las verdaderas viudas se les recompensara, ellas recibirán recompensa de ser acusadas de haber abandonado su primer amor, pero nunca de perdida de salvación. 1 Corintios 11:32
+
+#### Posiblemente se refiera a una acusación de disciplina por parte de la iglesia, para que pueda cambiar de mente. Mateo 18:15-17; 2 Corintios 2:5-8
+
+#### o también puede referirse a la disciplina del Señor de ir en rebeldía contra Cristo, habiendo quebrantado su primera fe. Hebreos 15:5-11.
+
+#### Que una iglesia pueda prestar atención de este hecho, es de gran importancia, ya que al no llevar a cabo una disciplina de corrección para un cambio de mente puede llevar a abandonar la Fe, no solo ella sino a toda la iglesia, ya que la palabra “ATHETEO” es una palabra en tercera persona plural. 1 Corintios 5:2
 
 ### 1 Timoteo 5:13a "*Y además, aprenden a estar ociosas,*"
 
@@ -2066,39 +2118,55 @@ Title: 1 Timoteo
 
 ## En Síntesis (1 Timoteo 5:1-16)
 
-### Con respecto a los hombres mayores : Trátalos como padres respetados. (1 Timoteo 5:1a)
+### Los primeros dos versiculos de este capitulo nos muestra una perspectiva como lo que realmente es, la familia de Dios, casa de Dios.
 
-### Con respecto a los hombres más jóvenes : Trátalos como hermanos. (1 Timoteo 5:1b)
+### Timoteo debía mostrar piedad en el trato a los miembros de la casa de Dios:
 
-### Con respecto a las mujeres mayores : Trátalas como madres. (1 Timoteo 5:2a)
+#### Con respecto a los hombres mayores : Trátalos como padres respetados. (1 Timoteo 5:1a)
 
-### Con respecto a las mujeres más jóvenes : Trátalas como hermanas. (1 Timoteo 5:2b)
+#### Con respecto a los hombres más jóvenes : Trátalos como hermanos. (1 Timoteo 5:1b)
 
-### Con respecto a las viudas (1 Timoteo 5:3-16)
+#### Con respecto a las mujeres mayores : Trátalas como madres. (1 Timoteo 5:2a)
 
-### Viudas mayores (1 Timoteo 5:3-10, 16)
+#### Con respecto a las mujeres más jóvenes : Trátalas como hermanas. (1 Timoteo 5:2b)
 
-### Las viudas mayores de sesenta años, piadosas y sin hijos vivos : Éstas deben ser honradas y provistas. (1 Timoteo 5:3, 5, 9-10, 16)
+### No pasa desapercibido que se toman catorce versiculos para aclarar sobre el cuidado de las verdaderas viudas de la iglesia:
 
-### Viudas que tienen hijos y nietos vivos: Deben ser cuidadas por sus familias. (1 Timoteo 5:4, 8, 16)
+#### Viudas mayores (1 Timoteo 5:3-10, 16)
 
-### Viudas que son carnales y viven solo para el placer: No deben recibir ayuda. 1 Timoteo 5:6-7
+#### Las viudas mayores de sesenta años, piadosas y sin hijos vivos : Éstas deben ser honradas y provistas. (1 Timoteo 5:3, 5, 9-10, 16)
 
-### Viudas más jóvenes. 1 Timoteo 5:11-15
+#### Viudas que tienen hijos y nietos creyentes vivos, estos primeros deben sustentar a las viudas de sus familias. (1 Timoteo 5:4, 8, 16)
 
-### La regla: Que se vuelvan a casar y críen hijos. 1 Timoteo 5:11-12, 14
+#### Viudas que son carnales y viven solo para el placer: No deben recibir ayuda. 1 Timoteo 5:6-7
 
-### La razón: Esto los mantendrá alejados de la inmoralidad y de la palabrería. 1 Timoteo 5:13, 15
+### Las viudas más jóvenes, menores de 60 años. 1 Timoteo 5:11-15
+
+#### La regla: Que se vuelvan a casar y críen hijos. 1 Timoteo 5:11-12, 14
+
+#### La razón: Esto los mantendrá alejados de la inmoralidad y de la palabrería. 1 Timoteo 5:13, 15
 
 ## 1 Timoteo 5:17-25 La Responsabilidad de la Iglesia por sus obreros : El consejo de Pablo con respecto a los ancianos de la iglesia.
 
-### 1 Timoteo 5:17a "*Los ancianos que gobiernan bien*" 
+### 1 Timoteo 5:17a "*Los ancianos que gobiernan bien*" para algunos gobernar bien significa que representan bien a sus deseos. Uno puede ir y reclamarles alguna cosa y le hacen caso a uno, posiblemente por temor a ofender a alguien. 
+
+#### Gobernar bien no es mantener a todos animados. No es mantener una supuesta unidad para que no se vayan los hermanos ofendidos. 
+
+#### Gobernar bien no es ganar la aceptación de los hermanos a costas de la verdad. 
+
+#### Gobernar bien no es sujetarse a los hombres o a un grupo de hombres porque nos falta examinar las Escrituras por cuenta propia. 
+
+#### Gobernar bien es estar sujeto a la autoridad de Jesucristo como cabeza. La manera que se demuestra esto como lider es sujeto a las Escrituras como máxima autoridad. Es revelación de Dios al hombre. No se puede gobernar bien y no alinear con la Biblia. 
+
+#### Gobernar bien es entregar la verdad como Dios la ha revelado. Es mantenerse fiel a la fe una vez entregada. Es estar dispuesto a ser enseñado por medio de La Palabra y el Espíritu Santo, admitiendo cuando uno tiene que cambiar de mente e inclusive reconocer si ha enseñado algo erróneo por falta de comprensión. 
+
+#### Gobernar bien es hacer entender que todos estamos en proceso de aprendizage y dar el ejemplo de aquello. No es sostener mi opinión, es sostener la verdad. 
 
 ### 1 Timoteo 5:17b "*sean considerados dignos de doble honor,*" esto se refiere a un honor encima del respeto que merecen. El doble honor es la responsabilidad de la iglesia. La iglesia debe preocuparse de recompensar al anciano que se dedica a gobernar bien. 
 
 ### 1 Timoteo 5:17c "*principalmente los que trabajan en la predicación y en la enseñanza*" el anciano que pone su foco en trabajar en la predicación y enseñanza hace excelentemente bien. Debe tener un respaldo económico para poder continuar haciéndolo. La iglesia es responsable por hacerlo. 
 
-#### La voluntad de Dios es que el anciano que trabaja en la exposición de La Palabra sea cubierto por la iglesia. 
+#### La voluntad de Dios es que el anciano que quiere trabaja enteramente en la exposición de La Palabra sea respaldado por la iglesia para poder hacerlo. Una iglesia que tiene líderes dispuestos debe ser dados doble honor, son una bendición y no una carga. 
 
 ### 1 Timoteo 5:18a "*Porque la Escritura dice: «NO PONDRÁS BOZAL AL BUEY CUANDO TRILLA»,*" La iglesia que no toma responsabilidad en cuidar de sus ancianos es como una persona que abusa sus animales, haciendolos trabajar pisando grano sin poder fortalecerse porque tiene un bosal sobre su boca. Esto es ser abusivo. 
 
@@ -2154,11 +2222,11 @@ vivimos engañandonos a nosotros mismos. 1 Juan 1:8
 
 #### Vale la pena mencionar que mientras que la borrachera y adiccion al alcohol es demarcado como prohibido, tomar bebidas alcohólicas no es. 
 
-#### Asi como muchas cosas en la vida que son buenas, pueden llegar a sernos daño si abusamos. 
+##### Asi como muchas cosas en la vida que son buenas, pueden llegar a sernos daño si abusamos. 
 
 #### Por ejemplo, la sal es buena. La sal añade sabor a los alimentos. Pero mucha sal no solo da un mal sabor, es malo para la salud. En el caso de personas con hipertensión, la sal debe ser consumida medidamente. 
 
-Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alcohol en una bebida antes de beberla es necesario. 
+##### Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alcohol en una bebida antes de beberla es necesario. 
 
 #### Similarmente con las bebidas alcohólicas. Si bien no esta mal tomar una bebida alcohólica, debe ser tratado responsablemente. Embriagarse por no medir la cantidad de bebida es pecado. Aquí Pablo enseña a Timoteo que tome vino para promover una mejor salúd. 
 
@@ -2190,7 +2258,7 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 ### Deben mantenerse puros. 1 Timoteo 5:22b
 
-### Timoteo en particular: "Bebe un poco de vino por amor a tu estómago porque estás enfermo muy a menudo".  1 Timoteo 5:23
+### Timoteo en particular: "*Bebe un poco de vino por amor a tu estómago porque estás enfermo muy a menudo*".  1 Timoteo 5:23
 
 ### Pablo se dirige a los obreros, a los impíos, a los sabios y a los ricos. Cierra su carta con algunas instrucciones finales para Timoteo.
 
@@ -2238,7 +2306,7 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 #### "*entiende*" [SYNEIMI] - conocer y comprender la naturaleza o el significado.[^9]
 
-### 1 Timoteo 6:4b "*sino que tiene un interés corrompido*" tercero, tiene un interés enfermizo.  
+### 1 Timoteo 6:4b "*sino que tiene un interés corrompido*" Tercero, tiene un interés enfermizo.  
 
 #### "*corrompido*" [NOSEO] - estar languideciendo por un deseo insatisfecho; concebido como estar físicamente enfermo por falta de satisfacción.[^9]
 
@@ -2281,7 +2349,7 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 #### La piedad acompañada de satisfacion es algo incomparable, no vivimos piadosamente para obtener satisfacion o completarla, sino que nuestra satisfacion esta completa en Cristo. 
 
-### 1 Timoteo 6:7 "*Porque nada hemos traído al mundo, así que nada podemos sacar de él.*" ¿Porque nos enfocariamos en cosas terrenales si no llevaremos las cosas de la tierra con nosotros?
+### 1 Timoteo 6:7 "*Porque nada hemos traído al mundo, así que nada podemos sacar de él.*" ¿Porque nos enfocariamos en cosas terrenales si no llevaremos las cosas de la tierra con nosotros? 
 
 #### Pablo enfatiza la piedad sobre el bienestar material. 
 
@@ -2301,7 +2369,7 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 #### "*dolores*" [ODYNE] sentimientos de dolor mental o físico. 
 
-#### estos hombres se ocasionan estrés, anciedad y más. 
+#### estos hombres se ocasionan estrés, ansiedad y más. 
 
 ## En Síntesis (1 Timoteo 6:1-10)
 
@@ -2326,17 +2394,18 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 ### La destrucción: Este tipo de codicia, si no se controla, resultará en ruina y destrucción. 1 Timoteo 6:9
 
 # PALABRAS DE PABLO A TIMOTEO (6:11-21)
+
 ### 1 Timoteo 6:11a "*Pero tú, oh hombre de Dios...*" Nuevamente Pablo le habla diréctamente a Timoteo ya no como hijo sino hombre de Dios. 2 Timoteo 3:17
 
 #### La expresión que usa Pablo acerca de Timoteo era usado de hombres como Moises, David y otros profetas. Deuteronomio 33:1; Nehemias 12:24; 1 Samuel 9:6
 
-#### No te hace más hombre de Dios tener mucho dinero.  
+##### No te hace más hombre de Dios tener mucho dinero.  
 
-#### No te hace más hombre de Dios ser famoso. 
+##### No te hace más hombre de Dios ser famoso. 
 
-#### No te hace más hombre de Dios caerles bien a todos. 
+##### No te hace más hombre de Dios caerles bien a todos. 
 
-#### Pablo le recuerda a Timoteo, no le faltaba nada para ser hombre de Dios. 
+##### Pablo le recuerda a Timoteo que no le faltaba nada para ser hombre de Dios. 
 
 ### 1 Timoteo 6:11a "*huye de estas cosas...*" la instrucción aqui es de huir. 
 
@@ -2350,17 +2419,27 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 ### 1 Timoteo 6:11a "*sigue...el amor...*" sigue el amor. Juan 13:35
 
-### 1 Timoteo 6:11a "*sigue...la perseverancia...*" 
+### 1 Timoteo 6:11a "*sigue...la perseverancia...*" Seguir caminando pacientemente.
 
 ### 1 Timoteo 6:11a "*sigue...y la amabilidad...*"
 
 ### 1 Timoteo 6:12a "*Pelea la buena batalla de la fe...*" Pelear la batalla de la fe es permanecer fiel al mensaje del Evangelio. 2 Timoteo 4:7
 
-### 1 Timoteo 6:12b "*Echa mano de la vida eterna a la cual fuiste llamado...*"
+### 1 Timoteo 6:12b "*Echa mano de la vida eterna a la cual fuiste llamado...*" Timoteo fue llamado a se participe de la vida eterna.
 
-### 1 Timoteo 6:12c "*y de la que hiciste buena profesión en presencia de muchos testigos...*"
+#### Todo creyente es llamado a ser participe de la vida eterna por medio de la fe en Crito.
 
-### 1 Timoteo 6:13a "*Te mando delante de Dios, que da vida a todas las cosas...*"
+#### "Echa mano"tiene una connotacion de urgencia en tomar posesion de la vida eterna, Timoteo debia estar apropiandose en el presente de lo que tiene en Crito.
+
+#### Vida eterna en el contexto de santificacion es calidad de vida en Cristo. Juan 10:10, 17:3; Romanos 6:22-23
+
+### 1 Timoteo 6:12c "*y de la que hiciste buena profesión en presencia de muchos testigos...*" Timoteo habria declarado publicamente la  buena profesion de la vida eterna a la que fue llamado en presencia de testigos.
+
+#### "Buena profesion" tambien traducido la buena declaracion publica, en contextp, Timoteo habria declarado publicamente la vida eterna por medio de Cristo asi como de la vida abundate por medio de Cristo.
+
+### 1 Timoteo 6:13a "*Te mando delante de Dios, que da vida a todas las cosas...*" Pablo encomienda a Timoteo en el ministerio delante de Dios. Timoteo seria utilizado como un instrumento de parte de Dios para Anunciar el buen mensaje de Cristo.
+
+#### Dios es el unico que puede dar Vida al pecador, lo hace por medio de la fe en Crito Jesus. 
 
 ### 1 Timoteo 6:13b "*y de Cristo Jesús, que dio testimonio de la buena profesión delante de Poncio Pilato...*" Poncio Pilato era el gobernador Romano de Judea quien presidió sobre el juicio y execución de Jesús. 
 
@@ -2386,67 +2465,83 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 #### Esto no debe ser confundido con el rapto de la iglesia. 1 Tesalonicenses 4:15-18
 
-### 1 Timoteo 6:15a "*la cual manifestará a su debido tiempo*" El mandamiento manifestará a su debido tiempo. Hechos 1:6-7
+### 1 Timoteo 6:15a "*la cual manifestará a su debido tiempo*" El cambio aquí es sutíl pero al parecer cambia de Jesus quien será manifestado al Padre quien lo manifestará a su  debido tiempo. Solo el Padre sabe la fecha y la hora de la maniifestación de Jesucristo. Hechos 1:6-7
 
-### 1 Timoteo 6:15c "*el bienaventurado y único Soberano,*" 1 Timoteo 1:11; Marcos 14:61; 2 Corintios 11:31
+### 1 Timoteo 6:15c "*el bienaventurado y único Soberano,*" Dios esta en el lugar más alto de cualquier otro en la creación. 1 Timoteo 1:11; Marcos 14:61; 2 Corintios 11:31
 
 #### "*Soberano*" [DYNASTES] - persona que gobierna o manda; especialmente entendido como alguien que tiene gran influencia controladora.[^9] Es traducido poderoso, y gobernador. 
 
-### 1 Timoteo 6:15d "*el Rey de reyes y Señor de señores;*" Este es un título que lleva una sola persona, Jesucristo. No será publicado hasta que venga e poder. Apocalipsis 19:16
+### 1 Timoteo 6:15d "*el Rey de reyes y Señor de señores;*" Este título lleva Jesucristo cuando que viene en poder. Sin embargo, se refiere al Padre en este contexto. Salmo 10:16; Malaquias 1:14; Daniel 4:34-35
 
-### 1 Timoteo 6:16a "*el único que tiene inmortalidad*" No solo es el único soberano, es el único que tiene inmortalidad. 
+#### Según vemos la transición del libro, Zacarías muestra al Angel del Señor (Jesucristo Pre-encarnado) tomando el título de Señor de los Ejércitos. Zacarías 1:12, 14:17; Apocalipsis 19:16; 1 Corintios 15:24-28; 
 
-### 1 Timoteo 6:16b "*y habita en luz inaccesible,*" 
+### 1 Timoteo 6:16a "*el único que tiene inmortalidad*" No solo es el único soberano, es el único que tiene inmortalidad. Dios es eterno. Es el único que tiene estos atributos. 
 
-### 1 Timoteo 6:16c "*a quien ningún hombre ha visto ni puede ver*". Jesucristo, feliz y único soberano, únicos
+### 1 Timoteo 6:16b "*y habita en luz inaccesible, a quien ningún hombre ha visto ni puede ver*" Dios habita en luz imposible de penetrar o alcanzar. Ningún hombre jamás lo ha visto. Exodo 33:20
 
-### 1 Timoteo 6:16d "*A Él sea la honra*"
-
-### 1 Timoteo 6:16e "*y el dominio eterno*".
-
-### 1 Timoteo 6:16f "*Amén*".
+### 1 Timoteo 6:16d "*A Él sea la honra y el dominio eterno. Amen.*" Dios merece toda la gloria, todo respeto y honor. Que así sea. 
 
 ## Los Ricos
 
-### 1 Timoteo 6:17a  "*A los ricos en este mundo,*"
+### 1 Timoteo 6:17a  "*A los ricos en este mundo,*" Pablo no esta hablando a todos los ricos del mundo, sino a creyentes ricos. 
 
-### 1 Timoteo 6:17b "*enséñales que no sean altaneros*"
+#### Pablo dió un calificativo para aclarar valores al llamarlos ricos "en este mundo". Según el mundo, el dinero es riqueza. Sin embargo, Santiago nos dice que los pobres son ricos. Ricos en fe. Santiago 2:5
 
-### 1 Timoteo 6:17c "*ni pongan su esperanza en la incertidumbre de las riquezas,*"
+### 1 Timoteo 6:17b "*enséñales que no sean altaneros*" Timoteo es responsable de enseñar a los creyentes ricos que no sean orgullosos. Proverbios 30:8-9
 
-### 1 Timoteo 6:17d "*sino en Dios,*"
+#### El dinero tiende a poder arreglar muchas cosas. El rico puede llegar a ser vanidoso o arrogante con su dinero. Oseas 13:6
 
-### 1 Timoteo 6:17e "*el cual nos da abundantemente todas las cosas*"
+### 1 Timoteo 6:17c "*ni pongan su esperanza en la incertidumbre de las riquezas,*" La riqueza es algo terrenal, nunca debe ser objeto de esperanza para el creyente. Proverbios 11:28
 
-### 1 Timoteo 6:17f "*para que las disfrutemos.*"
+### 1 Timoteo 6:17d "*sino en Dios,*" O bien la esperanza del creyente rico está en su riqueza o en Dios. No puede ser ambos. 
 
-### 1 Timoteo 6:18a "*Enséñales que hagan bien,*"
+### 1 Timoteo 6:17e "*el cual nos da abundantemente todas las cosas*" El rico debe entender que su riqueza proviene de Dios y no es razon para alabarse o volverse altanero. Salmo 104:28
 
-### 1 Timoteo 6:18b "*que sean ricos en buenas obras,*"
+### 1 Timoteo 6:17f "*para que las disfrutemos.*" Eclesiástes 2:24; Deuteronomio 26:11
 
-### 1 Timoteo 6:18c "*generosos*"
+### 1 Timoteo 6:18a "*Enséñales que hagan bien,*" Timoteo debía enseñarles a ocuparse en cosas que tienen que ver con hacer bien. TIto 3:8; Gálatas 6:10
 
-### 1 Timoteo 6:18d "*y prontos a compartir,*"
+### 1 Timoteo 6:18b "*que sean ricos en buenas obras,*" Tito 2:14
 
-### 1 Timoteo 6:19a "*acumulando para sí el tesoro*"
+### 1 Timoteo 6:18c "*generosos*" Proverbios 3:28; 
 
-### 1 Timoteo 6:19b "*de un buen fundamento para el futuro,*"
+### 1 Timoteo 6:18d "*y prontos a compartir,*" Filipenses 4:14; Romanos 12:13; Hebreos 13:16
 
-### 1 Timoteo 6:19c "*para que puedan echar mano de lo que en verdad es vida.*"
+### 1 Timoteo 6:19a "*acumulando para sí el tesoro*" Puede ir acumulando un tesoro para si en los cielos por compartir y participar en buenas obras. Mateo 6:20; Proverbios 11:25
+
+#### El rico entiende el concepto de acumular para si tesoro. Pablo aplica esto al creyente rico para enseñarle una verdad espiritual de inversión de otra forma usando los principios aprendidos en la acumulación de dinero. 
+
+### 1 Timoteo 6:19b "*de un buen fundamento para el futuro,*" Su inversión será firme y será para el futuro. Hebreos 10:34
+
+#### En la eternidad, los que serán incalculablemente ricos, son aquellos que invirtiéron en el futuro. Pusieron su inversión en cosas eternas y no de este mundo. 
+
+### 1 Timoteo 6:19c "*para que puedan echar mano de lo que en verdad es vida.*" 1 Pedro 1:4; 2 Timoteo 2:1; 1 Juan 2:25
 
 ## Timoteo, antes de despedirme
 
-### 1 Timoteo 6:20a  "*Timoteo, guarda lo que se te ha encomendado,*"
+### 1 Timoteo 6:20a  "*Timoteo, guarda lo que se te ha encomendado,*" Pablo reitera lo que ya le había dicho, dando mayor importancia al tema. 2 Timoteo 1:14
 
-### 1 Timoteo 6:20b  "*y evita las palabrerías vacías y profanas,*"
+#### El cuidado en la iglesia de Efeso era importante y debía ser cuidado. El saber conducirse en la casa de Dios había sido mostrado en la carta de Pablo. Le tocaba a Timoteo enseñar los mismos principios a los hermanos para que todos sepan conducirse. 
 
-### 1 Timoteo 6:20c  "*y las objeciones de lo que falsamente se llama ciencia,*"
+### 1 Timoteo 6:20b  "*y evita las palabrerías vacías y profanas,*" Nuevamente, Timoteo es recordado a no meterse en enseñar o participar en palabrerías vacías y profanas. 
 
-### 1 Timoteo 6:21a "*la cual profesándola algunos,*"
+### 1 Timoteo 6:20c  "*...y evita...las objeciones de lo que falsamente se llama ciencia,*" Timoteo no estaba llamado a entretener o responder las objeciones que procede de conocimiento. 
 
-### 1 Timoteo 6:21b "*se han desviado de la fe.*"
+#### La palabra ciencia [GNOSIS] de aquí proviene una secta llamada gnosticismo. En el tiempo de Timoteo ya habia indicios de gnósticos que acusaban en nombre del conocimiento. 
 
-### 1 Timoteo 6:21c "*La gracia sea con ustedes.*"
+### 1 Timoteo 6:21a "*la cual profesándola algunos,*" Vemos que estos profesaban ya algunos. Marcos 14:11
+
+#### Algunos de habían dejado llevar por las promesas de los que profesaban vida mediante el gnosis (conocimiento). 
+
+### 1 Timoteo 6:21b "*se han desviado de la fe.*" Lo que ocacionó fue que se desviaron de la fe, el conocimiento de Jesucristo. 
+
+### 1 Timoteo 6:21c "*La gracia sea con ustedes.*" Para mantenerse sin desviar, para mantenerse animados, para no desviarse de la fe, debían enfocarse en la gracia. 
+
+#### Es interesante que Pablo cierra su carta con ustedes. ¿Será que su intención era que Timoteo lea la carta a la iglesia en Efeso y así todos estar en la misma página?
+
+#### Posiblemente, sin embargo nosotros si podemos leer la carta y de esa manera aprender sobre la Iglesia del Dios Vivo, que es el sostén de la verdad y como debe conducirse. 
+
+#### ¡Que la gracia de Dios sea con nosotros! 
 
 ## En Síntesis (1 Timoteo 6:11-21)
 
