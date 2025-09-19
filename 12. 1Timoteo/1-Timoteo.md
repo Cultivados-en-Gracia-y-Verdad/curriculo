@@ -1800,6 +1800,14 @@ aTitle: 1 Timoteo
 
 ### 1 Timoteo 5:3 "*Honra a las viudas que en verdad son viudas*". a Las viudas se extiende honor. 
 
+#### Honra “TIMAO” Es un verbo en tiempo presente, modo imperativo y voz activa, lo que significa que es una orden que debe hacer ahora mismo y no debe olvidarse de realizarlo.
+
+#### Honrar a las viudas que en verdad son viudas y no olvidar que merecen ser honradas. 
+
+#### El término, "*las que en verdad son viudas*" tiene un significado específico a viudas que cumplen requisitos que han sido enseñados en esta carta, ya que la iglesia no debería olvidar la importancia de esta orden.
+
+### **Características para recompensar a una viuda que en verdad es viuda:**
+
 ### 1 Timoteo 5:4a "*Pero si alguna viuda tiene hijos o nietos*",
 
 ### 1 Timoteo 5:4b "*que aprendan estos primero a mostrar piedad para con su propia familia y a recompensar a sus padres,*"
