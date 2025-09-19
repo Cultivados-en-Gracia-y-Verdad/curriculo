@@ -1540,7 +1540,11 @@ aTitle: 1 Timoteo
 
 #### La prohibición de matrimónio y abstención de ciertos alimentos es una consecuencia al desvio de la verdad. 
 
+#### Estos instruiran prohibiciones para un aparente crecimiento espiritual, reflejado en el auto-control.
+
 ### 1 Timoteo 4:3b *que Dios los ha creado para que con acción de gracias participen de ellos los que creen y que han conocido la verdad...*" La realidad es que Dios ha creado estas cosas para disfrutar y para estar agradecidos a Dios.
+
+#### En contraste con su enseñamza, Pablo muestra lo que Dios dice acerca del tema, participen con accion de gracias por su provision.
 
 ####  Estos perversos tergiversan lo que resulta en el agradecimiento por la bondad de Dios en causar el sufrimiento para Dios. Produce dependencia en estos hombres según sus reglamentos. 
 
@@ -1548,7 +1552,7 @@ aTitle: 1 Timoteo
 
 ### 1 Timoteo 4:4 "*Porque todo lo creado por Dios es bueno y nada se debe rechazar si se recibe con acción de gracias;*" Dios desea que lo que El ha creado sea recibido de manera que ocacione gratitud a El. 
 
-### 1 Timoteo 4:5 "*porque es santificado mediante la palabra de Dios y la oración...*" Es santificado por Dios y bueno. 
+### 1 Timoteo 4:5 "*porque es santificado mediante la palabra de Dios y la oración...*" Es santificado por Dios y bueno para ser tomado. 
 
 #### Santificado esta voz pasiva. En este caso, Dios es el actor que santificó estas cosas. 
 
@@ -1574,15 +1578,15 @@ aTitle: 1 Timoteo
 
 ### Todo lo que Dios creó es santificado por la Palabra de Dios y por la oración. 1 Timoteo 4:5
 
-## II\. 1 Timoteo 4:6-16 Pablo instruye a Timoteo
+## II. 1 Timoteo 4:6-16 Pablo instruye a Timoteo
 
 ## Pablo pasa a prestar atención a Timoteo
 
-### 1 Timoteo 4:6a "*Al señalar estas cosas a los hermanos serás un buen ministro de Cristo Jesús...*" Timoteo debe tomar coraje por la fe que confrontar esta situación es  ser hallado un buen siervo de Jesucristo. Gálatas 1:10
+### 1 Timoteo 4:6a "*Al señalar estas cosas a los hermanos serás un buen ministro de Cristo Jesús...*" Timoteo debe tomar coraje de la gracia por la fe, el confrontar esta situación es ser hallado un buen siervo de Jesucristo. Gálatas 1:10
 
 ### 1 Timoteo 4:6a "*nutrido con las palabras de la fe...*" Al contrario de algunos que se apartaron de la fe, Timoteo debe mantener su mirada fija en nutrirse bien. 
 
-¿Qué comida será la de Timoteo? Las palabras de la fe. Judas 1:3
+#### ¿Qué comida será la de Timoteo? Las palabras de la fe. Judas 1:3
 
 ### 1 Timoteo 4:6a "*y de la buena doctrina que has seguido...*" Timoteo simplemente debía seguir como había hecho. Fidelidad a la fe entregada es la manera hacia su propio cuidado. 
 
