@@ -2136,9 +2136,13 @@ La carta de Timoteo no es solo para líderes. La carta de Timoteo es para que to
 
 #### Esto no debe ser así, ya que las mujeres viudas más jóvenes también pueden aprender de la sana doctrina, y del misterio de la piedad. Tito 2:3-4
 
-### 1 Timoteo 5:16a "*Si alguna creyente tiene viudas en la familia, que las mantenga,*"
+### 1 Timoteo 5:16a "*Si alguna creyente tiene viudas en la familia, que las mantenga,*" volviendo al rol de los hijos, como conclusión por el bien del cuerpo de la iglesia la familia que tiene mujeres viudas en su hogar deben proveer para su manutención.
 
-### 1 Timoteo 5:16b "*y que la iglesia no lleve la carga para que pueda ayudar a las que en verdad son viudas.*"
+### 1 Timoteo 5:16b "*y que la iglesia no lleve la carga para que pueda ayudar a las que en verdad son viudas.*" Cuando una familia se ocupa de cuidar a las viudas de su propia familia alivia a la iglesia de poder proveer el reconocimiento para las viudas que en verdad son viudas y están desamparadas.
+
+#### En estos pasajes logramos ver que una mujer llega a tener un rol muy importante en la congregación, que muchas veces no logramos notar, son de edificación de la iglesia, de manera espiritual (como Timoteo 5:5) también de manera física (1 Timoteo 5:10). Ese es un rol que muchas veces los hombres no vemos y descuidamos. 
+
+#### Por eso es que la que en verdad es viuda debe ser recompensada por su labor, ya que Dios mismo la ve agradable a su andar piadoso. 1 Timoteo 5:3
 
 ## En Síntesis (1 Timoteo 5:1-16)
 
