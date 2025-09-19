@@ -1088,23 +1088,51 @@ Title: 1 Timoteo
 
 #### La religiosidad invita a la piedad aunque fingida. La Palabra nos enseña que la piedad sea un resultado de la verdad y sin fingimiento. Romanos 12:9-10 
 
-#### La siguiente lista de obras son manifestaciones de piedad. Es contrario a la cultura y es contrario a la naturaleza humana pero es impactante dentro de cualquier cultura y poderoso para avanzar la voluntad de Dios. 1 Timoteo 2:4-6
+### 1 Timoteo 2:10a "*sino con buenas obras,...* Pablo expresa claramente que el propósito de manifestar piedad es con buenas obras y no con vestimenta o apariencia externa.
 
-### 1 Timoteo 2:11a "*Que la mujer aprenda calladamente con toda obediencia...*" Es contrario a la cultura del tiempo de la escritura que la mujer pueda estudiar. Esto nos muestra que había libertad en las reuniones para que las mujeres sean enseñadas. 
+#### Estas buenas obras no son hechas o impulsadas por la autodeterminación humana, sino es el resultado de Cristo en cada creyente, esto será de manera visible hacia las personas.
 
-#### Sin embargo, Pablo instruye que aprendan en silencio. Esto habla de enfoque más en el aprendizaje más que prohibición. Las mujeres no deben estar interumpiendo en las reuniones. 1 Corintios 14:33-35, 40
+### 1 Timoteo 2:10b "*...como corresponde a las mujeres que profesan la piedad.*" las mujeres que profesa piedad expresaran de manera visible su mensaje en sus vidas, dando igualdad a lo que profesan con lo que hacen.
 
-#### En toda obediencia se refiere a tener sujeción. Es un término militar que tiene la idea de estar subordinado en firmeza. Habla de escuchar de manera ordenada y con atención. 
+#### La siguiente lista de obras son manifestaciones de piedad. Esta lista es completamente contraria a la cultura y a la naturaleza humana. La piedad en la vida de los creyentes tiene un mensaje poderoso que trasciende culturas y es conforme a la voluntad de Dios. 1 Timoteo 2:4-6
 
-### 1 Timoteo 2:12a "*Yo no permito que la mujer enseñe ni que ejerza autoridad sobre el hombre...*" El rol de la enseñanza pública a la congregación ha sido designado por Dios a los hombres. 
+## 1 Timoteo 2: 11-12 La mujer dentro de la congregación.
+
+### 1 Timoteo 2:11 "*Que la mujer aprenda calladamente, con toda obediencia.*" En el contexto cultural al que Pablo escribió esta carta, las mujeres no podían estudiar, sin embargo vemos el deseo de Pablo que las mujeres también puedan aprender en la congregación.
+
+### 1 Timoteo 2:11a "*Que la mujer aprenda calladamente,...*
+
+#### Ahora vemos un verbo imperativo de Pablo, una orden en tiempo presente que aprenda.
+
+#### Esto nos muestra que había libertad en las reuniones de iglesia para que las mujeres sean enseñadas en la verdad de igual manera que los varones. 
+
+#### Sin embargo, Pablo instruye que aprendan en silencio. Esto habla de que el enfoque principal estaba en el aprendizaje más que prohibición. Las mujeres no deben estar interrumpiendo en las reuniones, con el fin de que puedan escuchar la enseñanza. 1 Corintios 14:33-35, 40.
+
+#### En una cultura que las mujeres no podían ser enseñadas, era de esperarse que haya interrupciones constantes sin dejar avanzar la enseñanza. 
+
+### 1 Timoteo 2:11b "...*con toda obediencia.*"
+
+#### En toda obediencia [JUPOTAGE] se refiere a tener sujeción. Es un término militar que tiene la idea de estar subordinado en firmeza. Habla de escuchar con atención y de manera ordenada.
+
+#### Esta enseñanza de sujeción en las mujeres era contraria a la cultura pagana, en la que había profetizas prominentes que tenían autoridad sobre los varones.
+
+### 1 Timoteo 2:12 "*Yo no permito que la mujer enseñe ni que ejerza autoridad sobre el hombre, sino que permanezca callada.*" 
+
+### El rol de la enseñanza pública a la congregación ha sido designado por Dios a los hombres. 
 
 #### Las hermanas pueden (y deben) enseñar a los niños y las hermanas, pero Dios limita su enseñanza en la iglesia de hacerlo a los hombres. 
 
-### 1 Timoteo 2:12b "*sino que permanezca callada...*" Nuevamente Pablo instruye a las mujeres que permanezcan calladas en la congregación. Tiene mayor piedad y dignidad la mujer que voluntariamente permanece en silencio. Dios llama a las mujeres de esta postura y está incluido en esta lista de buenas obras. 
+### 1 Timoteo 2:12a "*Yo no permito que la mujer enseñe...*
+
+### 1 Timoteo 2:12b *...ni que ejerza autoridad sobre el hombre,...*
+
+### 1 Timoteo 2:12c *...sino que permanezca callada.*" Nuevamente Pablo instruye a las mujeres que permanezcan calladas en la congregación. Tiene mayor piedad y dignidad la mujer que voluntariamente permanece en silencio. Dios llama a las mujeres de esta postura y está incluido en esta lista de buenas obras. 
 
 #### Estas instrucciones no implican que la mujer sea inferior en posición o que tienen menos valor ante Dios. 1 Pedro 3:7; Gálatas 3:28
 
-## Pablo da las razones por hacerlo de esta manera. 
+
+
+## 1 Timoteo 2: 13-15 Pablo da las razones por hacerlo de esta manera. 
 
 ### 1 Timoteo 2:13 "*Porque Adán fue creado primero, después Eva...*" El orden de Dios en la creación antes de la caida es simbólizado en la congregación. 
 
