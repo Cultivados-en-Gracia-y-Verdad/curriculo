@@ -2098,11 +2098,17 @@ La carta de Timoteo no es solo para líderes. La carta de Timoteo es para que to
 
 #### Que una iglesia pueda prestar atención de este hecho, es de gran importancia, ya que al no llevar a cabo una disciplina de corrección para un cambio de mente puede llevar a abandonar la Fe, no solo ella sino a toda la iglesia, ya que la palabra “ATHETEO” es una palabra en tercera persona plural. 1 Corintios 5:2
 
-### 1 Timoteo 5:13a "*Y además, aprenden a estar ociosas,*"
+### 1 Timoteo 5:13a "*Y además, aprenden a estar ociosas,*" El ignorar esta realidad, lleva a que una mujer viuda joven a aprenda a estar ociosa.
 
-### 1 Timoteo 5:13b "*yendo de casa en casa.*"
+#### la palabra aprenden “MANTHANO” es un verbo en tiempo presente, modo indicativo, y vos activa, lo que quiere decir que ellas en tiempo pasado no eran ociosas, sino que de hecho aprendieron a estar ociosas.
+
+#### Lo cual no es el propósito de la enseñanza de la sana doctrina, ya ellas también pueden aprender a ocuparse en buenas obras. 1 Timoteo 2:10; Tito 3:8 
+
+### 1 Timoteo 5:13b "*yendo de casa en casa.*" Al estar ociosas y no ocupadas en buenas obras ni en su propio hogar, estas mujeres están yendo casa en casa llevando vanas palabrerías. 1 Timoteo 1:6
 
 ### 1 Timoteo 5:13c "*Y no solo son ociosas, sino también charlatanas y entremetidas, hablando de cosas que no son dignas.*"
+
+#### 1 Timoteo 4:7 “*Pero evita las fábulas profanas y propias de viejas; ejercítate en la piedad*” 
 
 ### 1 Timoteo 5:14a "*Por tanto, quiero que las viudas más jóvenes*"
 
