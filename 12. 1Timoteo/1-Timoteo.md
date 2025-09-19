@@ -1,36 +1,39 @@
 ---
-aTitle: 1 Timoteo
+Title: 1 Timoteo
 ---
 <u>**1 Timoteo**</u>
 **En la Casa de Dios**
 
 **ÍNDICE**
-| **1 Timoteo En la Casa de Dios**                             |      |
+
+| **1 Timoteo - En la Casa de Dios**                           |      |
 | ------------------------------------------------------------ | ---- |
 | I. La Iglesia: Información General                           |      |
 | II. Características Distintivas de la Iglesia del Nuevo Testamento |      |
-| III. 1 Timoteo 1:1-2 -- Saludos e Información Biográfica     |      |
-| IV. 1 Timoteo 1:3-20 -- Batallando por la Gracia             |      |
+| III. 1 Timoteo 1:1-2 - Saludos e Información Biográfica      |      |
+| IV. 1 Timoteo 1:3-20 - Batallando por la Gracia              |      |
 | V. Breve Doctrina sobre la Disciplina en la Iglesia          |      |
-| VI. 1 Timoteo 2:1-15 -- Instrucción Sobre la Adoración       |      |
-| VII. 1 Timoteo 3:1-16 -- Instrucción en la selección de líderes en la iglesia |      |
-| VIII. 1 Timoteo 4:1-16 -- Protección Contra la Apostasía     |      |
-| IX. 1 Timoteo 5:1-6:21 -- Relaciones dentro de la Iglesia    |      |
-| X. 1 Timoteo 6:3-21 -- Asuntos Relacionados con la Iglesia   |      |
+| VI. 1 Timoteo 2:1-15 - Instrucción Sobre la Adoración        |      |
+| VII. 1 Timoteo 3:1-16 - Instrucción en la selección de líderes en la iglesia |      |
+| VIII. 1 Timoteo 4:1-16 - Protección Contra la Apostasía      |      |
+| IX. 1 Timoteo 5:1-6:21 - Relaciones dentro de la Iglesia     |      |
+| X. 1 Timoteo 6:3-21 - Asuntos Relacionados con la Iglesia    |      |
 <hr>
 
 # I. Introducción 
 ## A. A primera vista
 
-### La maravilla de la iglesia esta en el hecho que Cristo la concibió en sus planes desde antes de la fundación del mundo (Efesios 1:4), la compró con Su sangre (Hechos 20:28), la estableció (Mateo 16:18) y prometió preservarla eternamente (Mateo 16:18). 
+### La maravilla de la iglesia esta en el hecho que Cristo la concibió en Sus planes desde antes de la fundación del mundo (Efesios 1:4), la compró con Su sangre (Hechos 20:28), prometió edificarla (Mateo 16:18a), envió el Espiritu para fundarla (Hechos 2) y prometió preservarla eternamente (Mateo 16:18b). 
 
-### La Iglesia no pertenece a ninguna institución humana como decir el vaticano, alguna denominación, las naciones unidas, algún país o algún hombre en particular. Efesios 5:27
+### La Iglesia no pertenece a ninguna institución humana como decir el vaticano, alguna denominación, las naciones unidas o algún país. Efesios 5:27
 
-### La iglesia no pertenece a personas como misioneros, primeros fundadores, ancestros, maestros, ancianos,  diáconos. La iglesia no pertenece a personas que ofrendaron por comprar el lote y un edificio. 3 Juan 1:9-10
+### La iglesia no pertenece a personas como los reformadores, misioneros, "padres fundadores", ancestros, maestros, ancianos o diáconos. La iglesia no pertenece a personas que ofrendaron por comprar el lote y un edificio. 3 Juan 1:9-10
 
-### Tradicionalmente, el libro de 1 Timoteo ha sido descrito como una carta pastoral, junto con 2 Timoteo y Tito. La tendencia de la Iglesia entonces, ha sido que solo líderes cristianos tengan la necesidad de estudiar 1 Timoteo para así ser capacitados en su ministerio. Lamentablemente este pensamiento concluyo en congregaciones que se quedaron sin comprender las verdades que contiene esta epistola. 1 Timoteo 3:15
+### La Iglesia pertenece a Jesucristo quien la compró con Su sangre. Hechos 20:28; 1 Corintios 7:23
 
-### Vemos en 2 Timoteo 3:16 que toda la revelación de nuestro Señor es util para la instrucción de cada uno de Sus santos, por lo tanto, 1 Timoteo ha sido escrito para todo creyente. 
+### Tradicionalmente, el libro de 1 Timoteo ha sido descrito como una "carta pastoral" junto con 2 Timoteo y Tito. La tendencia de la Iglesia entonces, ha sido que solo líderes cristianos tengan la necesidad de estudiar 1 Timoteo para así ser capacitados en su ministerio. Lamentablemente este pensamiento concluyo en congregaciones que se quedaron sin comprender las verdades que contiene esta epistola. 1 Timoteo 3:15
+
+### Vemos en 2 Timoteo 3:16 que toda la revelación de nuestro Señor es util para la instrucción de cada uno de Sus santos, por lo tanto, 1 Timoteo ha sido escrito para todo creyente también. 
 
 ### Este precioso libro tambien contiene instrucción importante para hermanos mayores, hermanas mayores, hermanas jóvenes y hermanos jóvenes. 
 
@@ -38,19 +41,21 @@ aTitle: 1 Timoteo
 
 ## B. Información General
 
-### El género del libro es didactico, una carta escrita a alguien. Timoteo es el único individuo que recibió dos cartas inspiradas. 
+### El género del libro es didactico, una carta escrita a alguien. Timoteo es el único individuo al que recibió dos cartas que son parte de las Sagradas Escrituras. 
 
 ### El libro de 1 Timoteo contiene tres poemas. 1 Timoteo 1:17, 3:16, 6:15-16
 
-### Eventos importantes en referencia a 1 Timoteo
+### 
 
 </hr>
+
+**Eventos importantes en referencia a 1 Timoteo**
 
 ###### ![1-Timothy-Timeline-1024x569 (1)](/Users/johnwry/Nextcloud/Documents/GitHub/curriculo/12. 1Timoteo/1-Timothy-Timeline-1024x569 (1).png)*(Imagen de la Biblia ESV de estudio)*
 
 </hr>
 
-### En tres ocaciones encontramos a Pablo indicando la declaración, "*palabra fiel*". 1 Timoteo 1:15, 3:1, 4:9
+### En tres ocaciones encontramos a Pablo haciendo la declaración, "*palabra fiel*" (1 Timoteo 1:15, 3:1, 4:9). Esto nos anima a prestar atención al mensaje que contiene. 
 
 ## C. Autor y receptor del libro 
 
