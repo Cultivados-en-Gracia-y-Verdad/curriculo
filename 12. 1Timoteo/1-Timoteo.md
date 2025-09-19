@@ -2058,29 +2058,33 @@ La carta de Timoteo no es solo para líderes. La carta de Timoteo es para que to
 
 ## En Síntesis (1 Timoteo 5:1-16)
 
-### Con respecto a los hombres mayores : Trátalos como padres respetados. (1 Timoteo 5:1a)
+### Los primeros dos versiculos de este capitulo nos muestra una perspectiva como lo que realmente es, la familia de Dios, casa de Dios.
 
-### Con respecto a los hombres más jóvenes : Trátalos como hermanos. (1 Timoteo 5:1b)
+### Timoteo debía mostrar piedad en el trato a los miembros de la casa de Dios:
 
-### Con respecto a las mujeres mayores : Trátalas como madres. (1 Timoteo 5:2a)
+#### Con respecto a los hombres mayores : Trátalos como padres respetados. (1 Timoteo 5:1a)
 
-### Con respecto a las mujeres más jóvenes : Trátalas como hermanas. (1 Timoteo 5:2b)
+#### Con respecto a los hombres más jóvenes : Trátalos como hermanos. (1 Timoteo 5:1b)
 
-### Con respecto a las viudas (1 Timoteo 5:3-16)
+#### Con respecto a las mujeres mayores : Trátalas como madres. (1 Timoteo 5:2a)
 
-### Viudas mayores (1 Timoteo 5:3-10, 16)
+#### Con respecto a las mujeres más jóvenes : Trátalas como hermanas. (1 Timoteo 5:2b)
 
-### Las viudas mayores de sesenta años, piadosas y sin hijos vivos : Éstas deben ser honradas y provistas. (1 Timoteo 5:3, 5, 9-10, 16)
+### No pasa desapercibido que se toman catorce versiculos para aclarar sobre el cuidado de las verdaderas viudas de la iglesia:
 
-### Viudas que tienen hijos y nietos vivos: Deben ser cuidadas por sus familias. (1 Timoteo 5:4, 8, 16)
+#### Viudas mayores (1 Timoteo 5:3-10, 16)
 
-### Viudas que son carnales y viven solo para el placer: No deben recibir ayuda. 1 Timoteo 5:6-7
+#### Las viudas mayores de sesenta años, piadosas y sin hijos vivos : Éstas deben ser honradas y provistas. (1 Timoteo 5:3, 5, 9-10, 16)
 
-### Viudas más jóvenes. 1 Timoteo 5:11-15
+#### Viudas que tienen hijos y nietos creyentes vivos, estos primeros deben sustentar a las viudas de sus familias. (1 Timoteo 5:4, 8, 16)
 
-### La regla: Que se vuelvan a casar y críen hijos. 1 Timoteo 5:11-12, 14
+#### Viudas que son carnales y viven solo para el placer: No deben recibir ayuda. 1 Timoteo 5:6-7
 
-### La razón: Esto los mantendrá alejados de la inmoralidad y de la palabrería. 1 Timoteo 5:13, 15
+### Las viudas más jóvenes, menores de 60 años. 1 Timoteo 5:11-15
+
+#### La regla: Que se vuelvan a casar y críen hijos. 1 Timoteo 5:11-12, 14
+
+#### La razón: Esto los mantendrá alejados de la inmoralidad y de la palabrería. 1 Timoteo 5:13, 15
 
 ## 1 Timoteo 5:17-25 La Responsabilidad de la Iglesia por sus obreros : El consejo de Pablo con respecto a los ancianos de la iglesia.
 
