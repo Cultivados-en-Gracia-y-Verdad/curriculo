@@ -1706,9 +1706,17 @@ aTitle: 1 Timoteo
 
 ### 1 Timoteo 4:16c "*porque haciéndolo asegurarás la salvación*" ¿Por que continuar? Porque el provecho vendría de Dios. 
 
+#### Asegurar la salvacion, no esta referido a salvacion eterna, todo creyente esta asegurado etermanente, Colosenses 3:3
+
+#### Mas bien observemos la preosicion "haciendolo", ¿Que debia hacer?. 
+
+#### Bueno en el contexto inmediado, son las instruciones y recomendaciones de Pablo, a permanecer firme en la verdad, cuidandose y de la enseñanza. Al andar permaneciendo en la verdad asegurara la salvacion en el tiempo presente.
+
 ### 1 Timoteo 4:16d "*tanto para ti mismo*" Seria bueno para Timoteo
 
-### 1 Timoteo 4:16e "*como para los que te escuchan*". Y también para la congregación
+### 1 Timoteo 4:16e "*como para los que te escuchan*" Y también para la congregación.
+
+#### Este sera el resultado solo si los creyentes son nutridos en la verdad. AL retener la enseñanza.
 
 ## En Síntesis (1 Timoteo 4:6-16)
 
@@ -1722,7 +1730,7 @@ aTitle: 1 Timoteo
 
 ### Lo que se debe hacer. 1 Timoteo 4:6, 7b-11, 12b-13, 15-16
 
-### Advierta a los miembros de la iglesia con respecto a la apostasía. 1 Timoteo 4:6
+### Advierte a los miembros de la iglesia con respecto a la apostasía. 1 Timoteo 4:6
 
 ### Manténgase espiritualmente en forma. 1 Timoteo 4:7b-11
 
