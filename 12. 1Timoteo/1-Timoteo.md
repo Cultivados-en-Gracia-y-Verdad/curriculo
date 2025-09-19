@@ -254,13 +254,17 @@ aTitle: 1 Timoteo
 
 ### Una iglesia local se considera desde el momento en que 2, 3 o más personas se reunen en el nombre del Señor Jesucristo con un proposito común. Mateo 18:20; Hechos 2:42.
 
+#### Efesios 4:3-4 "*esforzándose por preservar la unidad del Espíritu en el vínculo de la paz. Hay un solo cuerpo y un solo Espíritu, así como también ustedes fueron llamados en una misma esperanza de su vocación;*"
+
+#### Efesios 4:5-6 "*un solo Señor, una sola fe, un solo bautismo, un solo Dios y Padre de todos, que está sobre todos, por todos y en todos.*"
+
 #### 1 Corintios 1:2 "*a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cristo Jesús, llamados a ser santos, **con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo**, Señor de ellos y nuestro:*".
 
 ### El proposito principal de la iglesia esta en la instrucción del Señor Jesucristo. (la Gran Comisión) Mateo 28:18-20. 
 
 #### Es verdad que cada miembro de la iglesia no debe descuidar la misión de anunciar y predicar el evangelio de la salvación. Marcos 16:15; Hechos 4:12.
 
-#### Pero una iglesia que no hace discipulos su fin es seguro, ya que no quedará nadie quien enseñe a guardar todas las cosas que el Señor Jesucristo ha enseñado. Mateo 25:20
+#### Pero una iglesia que no hace discipulos su fin es seguro, ya que no quedará nadie quien enseñe a guardar todas las cosas que el Señor Jesucristo ha enseñado. Mateo 28:20
 
 #### La iglesia debe persistir en continuar con la gran comisión y permanecer firmes en el evangelio, enseñando a los fieles de la iglesia a enseñar a otros fielmente la palabra de Dios 2 Timoteo 3:14-16
 
@@ -272,7 +276,7 @@ aTitle: 1 Timoteo
 
 ### Representación universal:
 
-### Al momento en creer en el Señor Jesucristo uno llega a formar parte de la iglesia universal de Dios, llega a ser un miembro del cuerpo de Cristo en cualquier lugar que se encuentre. Efesios 2:18
+### Al momento en creer en el Señor Jesucristo uno llega a formar parte de la iglesia universal de Dios, llega a ser un miembro del cuerpo de Cristo en cualquier lugar que se encuentre. Efesios 2:18; Juan 17:20-21
 
 #### 1 Corintios 6:15a "*¿No saben que sus cuerpos son miembros de Cristo?*"
 
@@ -287,6 +291,8 @@ aTitle: 1 Timoteo
 #### Colosenses 3:15 "*Que la paz de Cristo reine en sus corazones, a la cual en verdad fueron llamados en **un solo cuerpo**; y sean agradecidos.*"
 
 #### Judas 1:1 "*Judas , siervo de Jesucristo y hermano de Jacobo, a los **llamados**, **amados en Dios Padre** y **guardados para Jesucristo**:*"
+
+### Cualquier creyente en el mundo es miembro de la iglesia universal, el unico requisito es haber creido en el evangelio. Efesio 2:19; Efesios 2:22
 
 # III.1 Timoteo 1:1-2 - Saludos 
 
