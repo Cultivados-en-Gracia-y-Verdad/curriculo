@@ -2112,15 +2112,19 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 #### La piedad acompañada de satisfacción por si sola es de gran ganancia. 
 
-#### El contentamindo no vendra de la sircunstancia sino mas bien de la condianza en nuestro gran Dios y Cristo, esto en nuestro diario andar.
+#### El contentamiendo no vendra de la circunstancia sino mas bien de la confianza en nuestro gran Dios y Cristo, esto en nuestro diario andar.
 
-#### La piedad acompañada de satisfacion es algo incomparable, no vivimos piadosamente para obtener satisfacion o completarla, sino que nuestra satisfacion esta completa en Cristo. Lo interno en el creyente se ve reflejado hacia el exterior.
+#### La piedad acompañada de satisfacion es algo incomparable, no vivimos piadosamente para obtener satisfacion o completarla, sino que nuestra satisfacion esta completa en Cristo. 
 
 ### 1 Timoteo 6:7 "*Porque nada hemos traído al mundo, así que nada podemos sacar de él.*" ¿Porque nos enfocariamos en cosas terrenales si no llevaremos las cosas de la tierra con nosotros?
 
 ### 1 Timoteo 6:8 "*Y si tenemos qué comer y con qué cubrirnos, con eso estaremos contentos.*" Si estamos contentos con un techo y la comida, la piedad es gran ganancia y somos satisfechos. 
 
 ### 1 Timoteo 6:9 "*Pero los que quieren enriquecerse caen en tentación y lazo y en muchos deseos necios y dañosos que hunden a los hombres en la ruina y en la perdición.*" Los falsos maestros, por querer ser ricos, caen en tentación y hacen a otros caer en la ruina y perdición. 
+
+#### Vemos una gran contraste en el versiculo 8 y 9, el foco del primero esta fijada en Cristo, hallando contentamiento en el. El segundo tiene su foco en su circunstancia, quiere enriqueserse, su satisfacion viene de su deseo.
+
+#### Son dos enseñanzas totalmente distintas, con dos resultados distintos, uno segun la verdad, y otro en el engaño.
 
 ### 1 Timoteo 6:10a "*Porque la raíz de todos los males es el amor al dinero,*" El dinero no es culpable de los males. La raíz de todos los males es amar al dinero. Esto se llama avaricia. 
 
@@ -2154,7 +2158,7 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 ### La destrucción: Este tipo de codicia, si no se controla, resultará en ruina y destrucción. 1 Timoteo 6:9
 
-# II\. LAS PALABRAS DE PABLO A TIMOTEO (6:11-21)
+# II. LAS PALABRAS DE PABLO A TIMOTEO (6:11-21)
 
 ### 1 Timoteo 6:11a "*Pero tú, oh hombre de Dios...*" Nuevamente Pablo le habla diréctamente a Timoteo ya no como hijo sino hombre de Dios. 
 
