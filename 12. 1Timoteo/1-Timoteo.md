@@ -1832,7 +1832,17 @@ aTitle: 1 Timoteo
 
 #### 1 Timoteo 5:5b “*…la que en verdad es viuda…*” Nuevamente se repite “la que en verdad es viuda” dando a entender hay una viuda en la iglesia que en verdad esta desamparada “*... y se ha quedado sola…,*”.
 
-#### La viuda que ha quedado desamparada para Dios es muy importante dentro de la iglesia, ya que ella tiene puesta su esperanza en Dios. 
+#### Dios es inmutable, su carácter nunca cambia, en la era de la iglesia para Dios la mujer viuda que ha quedado desamparada no ha dejado de ser importante para Él.
+
+#### 1 Timoteo 5:5c “*…tiene puesta su esperanza en Dios…*”. La palabra esperanza “ELPIZO” es un verbo en tiempo perfecto, modo indicativo y voz activa, lo que quiere decir, que de hecho esta esperando y continua esperando en Dios.
+
+#### Eso significa que la que en verdad es viuda tiene la característica piadosa de tener puesta su esperanza continuamente en el Dios vivo.
+
+#### 1 Timoteo 5:5d “*…y continúa en súplicas…*” otra carectistica que sobresale es que la que en verdad es viuda continua en suplicas.
+
+#### La palabra continua “PROSMENO” es un verbo que está en tercera persona, lo que significa que ella realiza suplicas no para sí misma, sino que sus rogativas son por otros miembros de la iglesia, o incluso por los todos. 1 Timoteo 2:1-3.
+
+#### 1 Timoteo 5:5e “*…y oraciones noche y día*". La que en verdad es viuda es dedicada a la oración, pidiendo noche y día por los demás y no para si misma.
 
 ### 1 Timoteo 5:6 "*Pero la que se entrega a los placeres desenfrenados, aun viviendo, está muerta*".
 
