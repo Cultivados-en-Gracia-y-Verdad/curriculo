@@ -9,15 +9,15 @@ Title: 1 Timoteo
 | **1 Timoteo - En la Casa de Dios** |        |
 | ---------------------------------- | ------ |
 | I. La Iglesia: Información General |      |
-\| II. Características Distintivas de la Iglesia del Nuevo Testamento \|      \|
-\| III. 1 Timoteo 1:1-2 - Saludos e Información Biográfica      \|      \|
-\| IV. 1 Timoteo 1:3-20 - Batallando por la Gracia              \|      \|
-\| V. Breve Doctrina sobre la Disciplina en la Iglesia          \|      \|
-\| VI. 1 Timoteo 2:1-15 - Instrucción Sobre la Adoración        \|      \|
-\| VII. 1 Timoteo 3:1-16 - Instrucción en la selección de líderes en la iglesia \|      \|
-\| VIII. 1 Timoteo 4:1-16 - Protección Contra la Apostasía      \|      \|
-\| IX. 1 Timoteo 5:1-6:21 - Relaciones dentro de la Iglesia     \|      \|
-\| X. 1 Timoteo 6:3-21 - Asuntos Relacionados con la Iglesia    \|   \| |
+|\| Características Distintivas de la Iglesia del Nuevo Testamento \|      \|||
+|\| 1 Timoteo 1:1-2 - Saludos e Información Biográfica      \|      \|||
+|\| 1 Timoteo 1:3-20 - Batallando por la Gracia              \|      \|||
+|\| Breve Doctrina sobre la Disciplina en la Iglesia          \|      \|||
+|\| 1 Timoteo 2:1-15 - Instrucción Sobre la Adoración        \|      \|||
+|\| 1 Timoteo 3:1-16 - Instrucción en la selección de líderes en la iglesia \|      \|||
+|\| 1 Timoteo 4:1-16 - Protección Contra la Apostasía      \|      \|||
+|\| 1 Timoteo 5:1-6:21 - Relaciones dentro de la Iglesia     \|      \|||
+|\| 1 Timoteo 6:3-21 - Asuntos Relacionados con la Iglesia    \|   \| ||
 <hr>
 
 # Introducción 
@@ -2026,13 +2026,37 @@ La carta de Timoteo no es solo para líderes. La carta de Timoteo es para que to
 
 #### Toda buena obra solo es nacido de una sana enseñanza sobre la gracia de Dios y de evitar vanas palabrerías. Tito 1:16, Tito 2:11-13; 2 Timoteo 2:16
 
-### 1 Timoteo 5:11a "*Pero rehúsa poner en la lista a viudas más jóvenes,*"
+### 1 Timoteo 5:11a "*Pero rehúsa poner en la lista a viudas más jóvenes,*" En contraste a la lista que califican a una verdadera viuda, aquí Pablo deja una segunda lista, de las que son viudas, pero que ellas deben aprender a andar piadosamente.
 
-### 1 Timoteo 5:11b "*porque cuando sienten deseos sensuales,*"
+#### Pero rehúsa “PARAITEOMAI” es un verbo en tiempo presente, modo imperativo y voz media/pasiva, lo que significa que tanto el y como la iglesia, debía rehusarse en poner en la lista de verdaderas viudas.
 
-### 1 Timoteo 5:11c "*contrarios a Cristo, se quieren casar,*"
+#### Uno de los motivos que nos dice es que ellas son más jóvenes, osea que no son mayores de 60 años, por lo cual están descalificadas. 1 Timoteo 5:9.
 
-### 1 Timoteo 5:12 "*incurriendo así en condenación, por haber abandonado su promesa anterior.*"
+### 1 Timoteo 5:11b "*porque cuando sienten deseos sensuales,*" otro de los motivos por lo cual no califica dentro de la lista, es porque es dominada por sus propios deseos, lo que claramente muestra que no califica como una mujer piadosa, y que más bien corre peligro de andar desenfrenadamente en sus propios placeres. 1Timoteo 5:6 
+
+### 1 Timoteo 5:11c "*contrarios a Cristo, se quieren casar,*" no solo se entregan a sus deseos sensuales, sino que también se (“*rebelan contra*” RVR60) Cristo.
+
+#### cualquiera que se entregan a su naturaleza pecaminosa (“*a sus propios deseos sensuales*”) se constituye enemigo de Dios, siendo contrarios a Cristo, teniendo amor por las cosas vanas del mundo, siendo guiados por sus propios apetitos. Santiago 4:4; 
+
+#### Romanos 8:7 “*porque la manera de pensar de la carne es enemistad contra DIOS, pues no se sujeta a la ley de DIOS, porque tampoco puede.*”
+
+#### Romanos 8:8 “*Así que, los que están en la carne no pueden agradar a DIOS. *”
+
+#### Siendo guiadas por sus deseos egoístas estas mujeres solo quieren casarse con el fin de satisfacer sus deseos sensuales, y esto solo acarrea corrupción Gálatas 6:7-8.
+
+#### Entonces si Timoteo o la iglesia incluía a estas mujeres viudas, solamente estarían recompensando las obras impías y corruptas de la carne y no la recompensa de las obras piadosas y consagradas de las que en verdad son viudas.
+
+### 1 Timoteo 5:12 "*incurriendo así en condenación, por haber abandonado su promesa anterior.*" Esta es una advertencia en la cual tanto Timoteo como la iglesia haría bien en prestar atención.
+
+#### porque podemos ver en 1 Timoteo 1:5 “* pero el propósito del mandato ° es el amor nacido de un corazón puro, de buena conciencia y de una fe no fingida,*”, el reconomiento de honor a las mujeres viudas son por un andar piadoso de una Fe no fingida. Filipenses 1:5
+
+#### “*Incurriendo así en condenación*” hace referencia que mientras que a las verdaderas viudas se les recompensara, ellas recibirán recompensa de ser acusadas de haber abandonado su primer amor, pero nunca de perdida de salvación. 1 Corintios 11:32
+
+#### Posiblemente se refiera a una acusación de disciplina por parte de la iglesia, para que pueda cambiar de mente. Mateo 18:15-17; 2 Corintios 2:5-8
+
+#### o también puede referirse a la disciplina del Señor de ir en rebeldía contra Cristo, habiendo quebrantado su primera fe. Hebreos 15:5-11.
+
+#### Que una iglesia pueda prestar atención de este hecho, es de gran importancia, ya que al no llevar a cabo una disciplina de corrección para un cambio de mente puede llevar a abandonar la Fe, no solo ella sino a toda la iglesia, ya que la palabra “ATHETEO” es una palabra en tercera persona plural. 1 Corintios 5:2
 
 ### 1 Timoteo 5:13a "*Y además, aprenden a estar ociosas,*"
 
@@ -2088,13 +2112,25 @@ La carta de Timoteo no es solo para líderes. La carta de Timoteo es para que to
 
 ## 1 Timoteo 5:17-25 La Responsabilidad de la Iglesia por sus obreros : El consejo de Pablo con respecto a los ancianos de la iglesia.
 
-### 1 Timoteo 5:17a "*Los ancianos que gobiernan bien*" 
+### 1 Timoteo 5:17a "*Los ancianos que gobiernan bien*" para algunos gobernar bien significa que representan bien a sus deseos. Uno puede ir y reclamarles alguna cosa y le hacen caso a uno, posiblemente por temor a ofender a alguien. 
+
+#### Gobernar bien no es mantener a todos animados. No es mantener una supuesta unidad para que no se vayan los hermanos ofendidos. 
+
+#### Gobernar bien no es ganar la aceptación de los hermanos a costas de la verdad. 
+
+#### Gobernar bien no es sujetarse a los hombres o a un grupo de hombres porque nos falta examinar las Escrituras por cuenta propia. 
+
+#### Gobernar bien es estar sujeto a la autoridad de Jesucristo como cabeza. La manera que se demuestra esto como lider es sujeto a las Escrituras como máxima autoridad. Es revelación de Dios al hombre. No se puede gobernar bien y no alinear con la Biblia. 
+
+#### Gobernar bien es entregar la verdad como Dios la ha revelado. Es mantenerse fiel a la fe una vez entregada. Es estar dispuesto a ser enseñado por medio de La Palabra y el Espíritu Santo, admitiendo cuando uno tiene que cambiar de mente e inclusive reconocer si ha enseñado algo erróneo por falta de comprensión. 
+
+#### Gobernar bien es hacer entender que todos estamos en proceso de aprendizage y dar el ejemplo de aquello. No es sostener mi opinión, es sostener la verdad. 
 
 ### 1 Timoteo 5:17b "*sean considerados dignos de doble honor,*" esto se refiere a un honor encima del respeto que merecen. El doble honor es la responsabilidad de la iglesia. La iglesia debe preocuparse de recompensar al anciano que se dedica a gobernar bien. 
 
 ### 1 Timoteo 5:17c "*principalmente los que trabajan en la predicación y en la enseñanza*" el anciano que pone su foco en trabajar en la predicación y enseñanza hace excelentemente bien. Debe tener un respaldo económico para poder continuar haciéndolo. La iglesia es responsable por hacerlo. 
 
-#### La voluntad de Dios es que el anciano que trabaja en la exposición de La Palabra sea cubierto por la iglesia. 
+#### La voluntad de Dios es que el anciano que quiere trabaja enteramente en la exposición de La Palabra sea respaldado por la iglesia para poder hacerlo. Una iglesia que tiene líderes dispuestos debe ser dados doble honor, son una bendición y no una carga. 
 
 ### 1 Timoteo 5:18a "*Porque la Escritura dice: «NO PONDRÁS BOZAL AL BUEY CUANDO TRILLA»,*" La iglesia que no toma responsabilidad en cuidar de sus ancianos es como una persona que abusa sus animales, haciendolos trabajar pisando grano sin poder fortalecerse porque tiene un bosal sobre su boca. Esto es ser abusivo. 
 
@@ -2150,11 +2186,11 @@ vivimos engañandonos a nosotros mismos. 1 Juan 1:8
 
 #### Vale la pena mencionar que mientras que la borrachera y adiccion al alcohol es demarcado como prohibido, tomar bebidas alcohólicas no es. 
 
-#### Asi como muchas cosas en la vida que son buenas, pueden llegar a sernos daño si abusamos. 
+##### Asi como muchas cosas en la vida que son buenas, pueden llegar a sernos daño si abusamos. 
 
 #### Por ejemplo, la sal es buena. La sal añade sabor a los alimentos. Pero mucha sal no solo da un mal sabor, es malo para la salud. En el caso de personas con hipertensión, la sal debe ser consumida medidamente. 
 
-Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alcohol en una bebida antes de beberla es necesario. 
+##### Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alcohol en una bebida antes de beberla es necesario. 
 
 #### Similarmente con las bebidas alcohólicas. Si bien no esta mal tomar una bebida alcohólica, debe ser tratado responsablemente. Embriagarse por no medir la cantidad de bebida es pecado. Aquí Pablo enseña a Timoteo que tome vino para promover una mejor salúd. 
 
@@ -2186,7 +2222,7 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 ### Deben mantenerse puros. 1 Timoteo 5:22b
 
-### Timoteo en particular: "Bebe un poco de vino por amor a tu estómago porque estás enfermo muy a menudo".  1 Timoteo 5:23
+### Timoteo en particular: "*Bebe un poco de vino por amor a tu estómago porque estás enfermo muy a menudo*".  1 Timoteo 5:23
 
 ### Pablo se dirige a los obreros, a los impíos, a los sabios y a los ricos. Cierra su carta con algunas instrucciones finales para Timoteo.
 
