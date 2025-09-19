@@ -2110,9 +2110,19 @@ La carta de Timoteo no es solo para líderes. La carta de Timoteo es para que to
 
 #### 1 Timoteo 4:7 “*Pero evita las fábulas profanas y propias de viejas; ejercítate en la piedad*” 
 
-### 1 Timoteo 5:14a "*Por tanto, quiero que las viudas más jóvenes*"
+### 1 Timoteo 5:14a "*Por tanto, quiero que las viudas más jóvenes*" por todos los motivos que Pablo mostro a Timoteo, es completamente necesario considerar que las mujeres mas jóvenes aprendan también a profesar piedad.
 
-### 1 Timoteo 5:14b "*se casen,*"
+### 1 Timoteo 5:14b "*se casen,*" este pasaje probablemente tiene una aparente contradicción con 1 Timoteo 5:11, pero no es asi, veamos porque:
+
+#### Viudas jóvenes quieren casarse, pero el siguiente pasaje 1 Timoteo 5:12 muestra que esta “incurriendo así en condenación”
+
+#### ¿Entonces como podemos entender este pasaje?.
+
+#### Primero. Ellas guiadas por sus  propios “*deseos sensuales,*” se dejan llevar y van en rebeldía al Señor “*contrarios a Cristo*”. Ellas son guiadas por su carnalidad. 1Timoteo 5:6
+
+#### *Segundo* al ser guiadas por sus deseos carnales, ellas han abandonado su primera Fe, yendo por medio de las obras de la carne Gálatas 6:7-8
+
+#### Entonces Pablo anima a estas mujeres a casarse, sin ser llevadas por sus deseos carnales, sino por medio de la instrucción nacida de un corazón puro. 1Timoteo 1:5
 
 ### 1 Timoteo 5:14c "*que tengan hijos,*"
 
