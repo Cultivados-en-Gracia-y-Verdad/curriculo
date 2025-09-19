@@ -1846,9 +1846,51 @@ aTitle: 1 Timoteo
 
 #### 1 Timoteo 5:5e “*…y oraciones noche y día*". La que en verdad es viuda es dedicada a la oración, pidiendo noche y día por los demás y no para si misma.
 
-### 1 Timoteo 5:6 "*Pero la que se entrega a los placeres desenfrenados, aun viviendo, está muerta*".
+### 1 Timoteo 5:6 "*Pero la que se entrega a los placeres desenfrenados, aun viviendo, está muerta*". Aquí podemos ver que también hay viudas que su andar no es según piedad.
 
-### 1 Timoteo 5:7 "*Ordena también estas cosas, para que sean irreprochables*".
+#### 1 Timoteo 5:6a "*Pero…*” Pablo quería dejar en claro, que hay gran diferencia de “*una viuda que en verdad es viuda*”, a la que se debe honor, con una mujer viuda que hay que se entrega a los placeres desenfrenados.
+
+#### 1 Timoteo 5:6b “…la que se entrega a los placeres desenfrenados,*” muy diferente a la que en verdad es viuda que hace rogativas y oraciones noche y dia por los demás y no para si misma.
+
+#### Esta característica de viuda solo busca de manera egoísta sus propios placeres de forma desenfrenada.
+
+#### por esa causa Pablo la describe como 1 Timoteo 5:6c “*… aún viviendo, está muerta*”.
+
+#### En este pasaje podemos encontrar 2 verdades fundamentales del evangelio que la iglesia no debería olvidar. 
+
+#### *Primero*: Que Pablo diga que “*aún viviendo*” nos muestra la fidelidad de Dios sobre la salvación por medio de la fe en el evangelio. Juan 5:24
+
+#### Por el Señor Jesucristo sabemos que todo el que cree en Él pasa de muerte a vida, a una vida nueva, en un nuevo nacimiento. Juan 3:3
+
+#### 2 Timoteo 2:13 “*Si somos infieles, Él permanede fiel, pues no puede negarse a si mismo*” la salvación no se pierde, y para que Dios tenga que negarnos, tendría que negar primero a Cristo, y eso nunca pasara, ya que Él no puede negarse a si mismo.
+
+#### Entonces Pablo no dejo en duda de la salvación de esta mujer viuda. 
+
+#### *Segundo*: Sin embargo, el andar diario de esta mujer viuda no es en la vida provista por el Señor. Apocalipsis 3:1
+
+#### Por Romanos 6:23 podemos entender que: “*porque la paga del pecado es muerte…*” y este pasaje lo habla en un contexto de santificación.
+
+#### Muerte en la biblia no significa inexistencia, sino que su significado es separación, en este caso hay muerte de comunión, ósea separación de comunión con Dios de parte de la mujer viuda (creyente) a Dios, y no de Dios hacia la mujer (creyente). 1 Juan 1:6
+
+#### La forma en la que un creyente tiene comunión con Dios es por medio de la fe en Jesucristo, que nos limpia en nuestro andar diario de todo pecado (santificación). 1 Juan 1:7
+
+#### Un creyente que no considera su realidad, de estar muerto al pecado y vivo para Dios Romanos 6:11 y que tampoco se presenta a Dios como vivo de entre los muertos Romanos 6:13, es dominado por el pecado.
+
+#### Habiéndose presentado el creyente al pecado, resulta en muerte, y posteriormente se ve manifestado en pecados visibles. Un andar que no es según piedad. Romanos 6:16; Gálatas 5:19-21.
+
+#### La manifestación del pecado es porque el creyente dejo de andar en la provisión de Dios, que es por el Espíritu Santo y es de esa manera que su andar está satisfaciendo la carne. Gálatas 5:16-17
+
+#### Por lo cual, cualquier creyente que anda por la carne, tarde o temprano, las obras de la carne se manifestarán de manera visible los cuales indudablemente serán manifestación de pecados. Gálatas 5:19-21
+
+#### La muerte no viene cuando los pecados son manifestados, sino que la muerte se produjo antes cuando el creyente se presentó al pecado y resulto en muerte. Romanos 6:16; Santiago 1:15.
+
+#### Entonces podemos ver que la mujer viuda que se ha entregado a los placeres desenfrenados, viviendo (salva de la pena del pecado); está muerta (no está siendo salva en tiempo presente del poder del pecado).
+
+### 1 Timoteo 5:7 "*Ordena también estas cosas, para que sean irreprochables*". Esta es una labor importante en la iglesia de Dios, ya que Dios en ningún momento ve agradable el pecado. Romanos 6:15
+
+#### Nunca la gracia va asociado con seguir pecando, es más ir por el pecado es en contra de la gracia de Dios, ya que la gracia es que nos enseña a vivir un vida libre de los placeres desenfrenados Tito 1:12.
+
+#### Timoteo debía ordenar también estas cosas para que por medio de la provisión de la gracia de Dios todo miembro de la iglesia sea irreprochable en su andar diario. 2 Pedro 1:8-9
 
 ### 1 Timoteo 5:8 "*Pero si alguien no provee para los suyos, y especialmente para los de su casa, ha negado la fe y es peor que un incrédulo*".
 
