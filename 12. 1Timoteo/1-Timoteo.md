@@ -2487,7 +2487,7 @@ vivimos engañandonos a nosotros mismos. 1 Juan 1:8
 
 #### Esto no debe ser confundido con el rapto de la iglesia. 1 Tesalonicenses 4:15-18
 
-### 1 Timoteo 6:15a "*la cual manifestará a su debido tiempo*" El cambio aquí es sutíl pero al parecer cambia de Jesus quien será manifestado al Padre quien lo manifestará a su  debido tiempo. Solo el Padre sabe la fecha y la hora de la maniifestación de Jesucristo. Hechos 1:6-7
+### 1 Timoteo 6:15a "*la cual manifestará a su debido tiempo*" El cambio aquí es sutíl pero al parecer cambia de Jesus, quien será manifestado, al Padre quien lo manifestará a su debido tiempo. Solo el Padre sabe la fecha y la hora de la maniifestación de Jesucristo. Hechos 1:6-7
 
 ### 1 Timoteo 6:15c "*el bienaventurado y único Soberano,*" Dios esta en el lugar más alto de cualquier otro en la creación. 1 Timoteo 1:11; Marcos 14:61; 2 Corintios 11:31
 
