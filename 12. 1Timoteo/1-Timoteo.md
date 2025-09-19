@@ -1908,11 +1908,17 @@ aTitle: 1 Timoteo
 
 #### Entonces si la mujer viuda se vuelve a casar o tuvo 2 maridos, ella no cumple con los requisitos de una verdadera viuda.
 
-### 1 Timoteo 5:10a "*que tenga testimonio de buenas obras;*"
+### 1 Timoteo 5:10a "*que tenga testimonio de buenas obras;*" Las buenas obras puede referirse a que hayan enseñado lo bueno y también instruido a las más jóvenes, hacendosas en el hogar, amables y sujetas a sus maridos Tito 2:4-5.
 
-### 1 Timoteo 5:10b "*si ha criado hijos,*"
+#### O también puede referirse a las cualidades de una mujer que profesa piedad. 1 Timoteo 2:9-10. 1 Timoteo 5:5
 
-### 1 Timoteo 5:10c "*si ha mostrado hospitalidad a extraños,*"
+### 1 Timoteo 5:10b "*si ha criado hijos,*" Si una viuda a criado a sus hijos y no los ha abandonado, entonces si califica con este requisito. Tito 1:6.
+
+#### La palabra (“TEKNOTROFEO”) ha criado hijos, podría contradecir con 1 timoteo 5:4, pero la palabra para hijos en ese pasaje es “TEKNON”. 
+
+#### “TEKNOTROFEO” Significa que ha terminado el tiempo de crianza de sus hijos, en nuestro contexto, que ha dejado de vivir bajo el techo o la tutoría de la mujer que quedo viuda.
+
+### 1 Timoteo 5:10c "*si ha mostrado hospitalidad a extraños,*"  la mujer viuda debe tener testimonio haber sido hospitalaria con extranjeros, o la cualidad de ser hospedadora.
 
 ### 1 Timoteo 5:10d "*si ha lavado los pies de los santos,*"
 
