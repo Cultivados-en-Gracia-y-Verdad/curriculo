@@ -5,6 +5,7 @@ aTitle: 1 Timoteo
 **En la Casa de Dios**
 
 **ÍNDICE**
+
 | **1 Timoteo En la Casa de Dios**                             |      |
 | ------------------------------------------------------------ | ---- |
 | I. La Iglesia: Información General                           |      |
@@ -724,7 +725,7 @@ aTitle: 1 Timoteo
 
 ### Pablo es el ejemplo de la paciencia, misericordia y gracia de Jesucristo para todo pecador que cree en Él para vida eterna. 1 Timoteo 1:16
 
-### Alabanza a nuestro Dios.
+### Alabanza a nuestro Dios. 1 Timoteo 1:17
 
 # 1 Timoteo 1:18-20 LA SABIDURÍA EN PABLO 
 
@@ -754,17 +755,17 @@ aTitle: 1 Timoteo
 
 ## En Síntesis (1 Timoteo 18-20)
 
-### Pelea la buena batalla. 1 Timoteo 1:18
+### Lo escrito en el pasaje anterior es la base para volver a la comisión que le estaba siendo dada a Timoteo. 1 Timoteo 1:18a
 
-### Mantén la fe. 1 Timoteo 1:19a
+### Timoteo debía pelear la buena batalla de la fe, esto iría acorde a su rol designado como evangelista anteriormente. 1 Timoteo 1:18b
 
-### Mantén una conciencia limpia. 1 Timoteo 1:19b
+### Pelear la buena batalla era mantenerse fiel a la verdad de Dios. 1 Timoteo 1:19a
 
-### Lo que Himeneo y Alejandro han hecho.  1 Timoteo 1:19c-20
+### Pelear la buena batalla era tener una limpia conciencia delante de Dios, resultado de una dependencia de la verdad de Dios. 1 Timoteo 1:19b
 
-### Su perversión: Han hecho naufragar su fe, avergonzando el nombre de Cristo. (1 Timoteo1:19c)
+### Pablo muestra que algunos se habian apartado de la fe, Himeneo y Alejandro. 1 Timoteo 1:19c-20
 
-### Su castigo: Pablo los ha entregado a Satanás. (1 Timoteo 1:20)
+### Fueron disciplinados, Pablo los habia entregado a Satanás para una futura restauración. (1 Timoteo 1:20)
 
 # V. Breve Doctrina sobre la Disciplina en la Iglesia
 
@@ -844,7 +845,7 @@ aTitle: 1 Timoteo
 
 ### En primer lugar, de este lado del juicio final, todo acto de disciplina divina tiene como objetivo reformar y renovar a su pueblo. De este lado del juicio final, ningún juicio es definitivo.[^5]
 
-#### A lo largo de la larga y tortuosa historia de Dios con su pueblo, a menudo desobediente, a menudo ha recurrido a la disciplina para sacarnos del estupor pecaminoso. El objetivo siempre fue el arrepentimiento y la renovación espiritual. De igual manera, cuando excluimos a alguien de la iglesia, no estamos anunciando su destino final, sino advirtiéndole de lo que podría ser. Excluir a alguien de la comunión con los santos, no es anunciar su condenación final, sino buscar evitarla. 
+#### A lo largo de la larga y tortuosa historia de Dios con su pueblo, a menudo desobediente, a menudo ha recurrido a la disciplina para sacarnos del estupor pecaminoso. El objetivo siempre fue el arrepentimiento (cambio de mente) y la renovación espiritual. De igual manera, cuando excluimos a alguien de la iglesia, no estamos anunciando su destino final, sino advirtiéndole de lo que podría ser. Excluir a alguien de la comunión con los santos, no es anunciar su condenación final, sino buscar evitarla. 
 
 #### Cuando excluimos a alguien, debemos seguir trabajando, orando y esperando su arrepentimiento, renovación y restauración.[^5]
 
@@ -1138,47 +1139,49 @@ aTitle: 1 Timoteo
 
 ### Pablo escribe sobre la adoración apropiada de Dios.
 
-### Por quién debemos orar. 1 Timoteo 2:1-2a
+### Pablo insta grandemente a orar por:
 
-### Para los que tienen autoridad. 1 Timoteo 2:2a
+#### Todos los hombres. 1 Timoteo 2:1
 
-### Para todos. 1 Timoteo 2:1
+#### Por todos los que estan en autoridad en la sociedad. 1 Timoteo 2:2a
 
-### Por qué debemos orar: "*Para que podamos vivir en paz y tranquilidad...*". 1 Timoteo 2:2b
+#### Para que los creyentes puedan vivir en piedad y honesta delante de Dios y vista por los hombre. 1 Timoteo 2:2b
 
-### Cómo debemos orar: "*Con manos santas levantadas a Dios, libres de ira y controversia...*" 1 Timoteo 2:8
+### Dios el Salvador ve esto como bueno ¿Porqué? 1 Timoteo 2:3 
 
-### LA VOLUNTAD DE DIOS (1 Timoteo 2:3-7)
+#### Dios quiere que todo hombre sea salvo. 1 Timote 2:4a
 
-### La misión (1 Timoteo 2, 3-4): «*Dios...quiere que todos se salven...*". 
+#### Dios quiere que todo salvo crezca en el conocimiento de Su verdad. 1 Timote 2:4b
 
-### El mediador (1 Timoteo  2:5): Jesucristo se interpone entre Dios y las personas.
+#### Esto Dios lo hace por medio del andar piadoso de sus creyentes
+
+### El Mediador (1 Timoteo  2:5): Jesucristo intercede entre Dios y las personas.
 
 ### El método (1 Timoteo 2:6): La salvación se efectuó por la muerte de Cristo.
 
-### El mensajero (1 Timoteo 2:7): Pablo ha sido elegido por Dios para servir como misionero a los gentiles.
+### Un mensajero (1 Timoteo 2:7): Pablo ha sido elegido por Dios para servir como apostol a los gentiles.
 
-### LA MUJER DE DIOS 1 Timoteo 2:9-15
+### Un muestra de una andar de piedad por el creyente varon. 1 Timoteo 2:8
 
-### Sus responsabilidades. 1 Timoteo 2:9-11
+### La mujer piadosa. 1 Timoteo 2:9-15
 
-### En materia de vestimenta (1 Timoteo 2:9-10): Debe vestirse modestamente como alguien que profesa adorar a Dios.
+#### Sus responsabilidades. 1 Timoteo 2:9-11
 
-### En cuestiones de actitud (1 Timoteo 2:11): Debe escuchar y aprender en silencio y con humildad.
+##### En materia de vestimenta (1 Timoteo 2:9-10): Debe vestirse modestamente como alguien que profesa adorar a Dios.
 
-### Sus restricciones. 1 Timoteo 2:12-14
+##### En cuestiones de actitud (1 Timoteo 2:11): Debe escuchar y aprender en silencio y con humildad.
 
-### La regla (1 Timoteo 2:12): A la mujer no se le permite enseñar o tener autoridad sobre un hombre.
+#### Sus restricciones. 1 Timoteo 2:12-14
 
-### La razón (1 Timoteo 2:13-14): Se dan dos factores.
+##### La regla (1 Timoteo 2:12): A la mujer no se le permite enseñar o tener autoridad sobre un hombre.
 
-### El factor de la creación original (1 Timoteo 2:13): Adán fue creado antes que Eva.
+##### La razón (1 Timoteo 2:13-14): Se dan dos factores.
 
-### El factor de la corrupción original (1 Timoteo 2:14): Adán no fue engañado por Satanás como lo fue el mujer.
+###### El factor de la creación original (1 Timoteo 2:13): Adán fue creado antes que Eva.
 
-### Su redención (1 Timoteo 2:15): Ella será "salva" a través de la maternidad y viviendo en fe, amor, santidad y modestia.
+###### El factor de la corrupción original (1 Timoteo 2:14): Adán no fue engañado por Satanás como lo fue el mujer.
 
-### Pablo da calificaciones para pastores y diáconos en la iglesia y da un resumen séxtuple del ministerio terrenal de Jesús.
+#### Su redención (1 Timoteo 2:15): Ella estará siendo salva (santificada) a través de la maternidad. Viviendo en fe, amor, santidad y modestia.
 
 # VII. 1 Timoteo 3:1-16 - Lideres en la iglesia
 
