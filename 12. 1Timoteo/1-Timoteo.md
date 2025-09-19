@@ -1440,7 +1440,7 @@ aTitle: 1 Timoteo
 
 ### 1 Timoteo 3:16a "*Él...*" La piedad proviene de una Persona. El misterio de la piedad empieza con El. El misterio de la piedad es la persona de Jesucristo como veremos en este versículo. Juan 15:4-5
 
-El misterio de la piedad es El (Cristo) en nosotros. 
+### El misterio de la piedad es El (Cristo) en nosotros. 
 
 #### Veamos a continuación como Pablo presenta la provision de Dios para la piedad de su pueblo.
 
@@ -1498,7 +1498,7 @@ El misterio de la piedad es El (Cristo) en nosotros.
 
 # VIII. 1 Timoteo 4:1-16 -- Protección Contra la Apostasía
 
-### 1 Timoteo 4:1a "*El Espíritu dice claramente que en los últimos tiempos...*" Aquí Pablo transmite que el Espiritu Santo anunciaba que algo pasaría después de su partida. Hechos 20:17-38
+### 1 Timoteo 4:1a "*El Espíritu dice claramente que en los últimos tiempos...*" Aquí Pablo transmite que el Espiritu Santo anunciaba que algo pasaría después de su partida. Hechos 20:17-38.
 
 #### El verbo, dice esta en tiempo presente modo indicativo. Quiere decir que era un continuo avisar del Espíritu Santo que esto sucedería y que era un hecho seguro. 2 Timoteo 3:1
 
