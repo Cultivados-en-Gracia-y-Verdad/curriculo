@@ -2028,11 +2028,19 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 ### 1 Timoteo 6:1b "*consideren a sus propios amos como dignos de todo honor,*" El esclavo creyente puede mostrar piedad en su trabajo forzado. ¿Como lo hace si igualmente es obligatorio? Lo hace mostrando honor. 
 
+#### En una relacion de trabajo, normalmente esperamos un trato equitativo, si soy respetado por mi señor lo repetare, Pablo no dice tal cosa, como siervos podemos vivir piadosamente para con un amo.
+
 ### 1 Timoteo 6:1c "*para que el nombre de Dios y nuestra doctrina no sean blasfemados*". Es poderoso entender que una persona, aunque esclava, puede alinear con la voluntad de Dios también de una manera igualmente valiosa. 
+
+#### Esto va mas alla de las apariencias, el vivir en piedad como creyentes es utlizado por Dios para con los que observan, Dios se glorifica a traves de esto. 
+
+#### El caso contrario tambien es posible, el nombre de Dios puede ser blasfemado , asi como el evangelio por causa de los mismos creyentes.
 
 ### 1 Timoteo 6:2a "*Y los que tienen amos que son creyentes, no les falten el respeto, porque son hermanos,*" Esta aclaración es importante porque puede ser que el esclavo que es tan afortunado de tener un amo creyente quiera tomar esa relación a la lijera. 
 
-### 1 Timoteo 6:2b "*sino sírvanles aún mejor,*" En vez de faltarles el respeto, deberían más bien servirles aún mejor. 
+### 1 Timoteo 6:2b "*sino sírvanles aún mejor,*" En vez de faltarles el respeto, deberían más bien servirles aún mejor.
+
+#### Si tenemos un amo incredulo, sirvamosle como digno de toda honrra, pero si nuestro amo es un hermano cuanto aun mas podemos hacer bien a los de la familia de fe en toda piedad como siervos. Galatas 6:10
 
 ### 1 Timoteo 6:2c "*ya que son creyentes y amados los que se benefician de su servicio.*" La motivación es porque sus amos creyentes son familia y servirles es para bendecion. 
 
@@ -2040,7 +2048,7 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 #### Saber como debe ser el andar del creyente en cualquier circunstancia es provechoso. Saber como se logra vivir piadosamente también es absolutamente esencial. 
 
-### 1 Timoteo 6:3f "*Si alguien enseña una doctrina diferente y no se conforma a las sanas palabras...*" una doctrina que difiere de las sanas palabras. 
+### 1 Timoteo 6:3f "*Si alguien enseña una doctrina diferente y no se conforma a las sanas palabras...*" Una doctrina que difiere de las sanas palabras. 
 
 #### Aquí Pablo usa un término interesante, palabras "*sanas*" [HUGIAINO] -  ser correcto o preciso, concebido como estar libre de enfermedad o dolencia. Sanas (participio presente activo) da a entender que son palabras libres de enfermedad o dolencia, son saludables. El participio hace entender que sana describe una acción. Son palabra sanadoras. 
 
@@ -2058,7 +2066,7 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 #### "*corrompido*" [NOSEO] - estar languideciendo por un deseo insatisfecho; concebido como estar físicamente enfermo por falta de satisfacción.[^9]
 
-### 1 Timoteo 6:4c "*en discusiones y contiendas de palabras...*"
+### 1 Timoteo 6:4c "*en discusiones y contiendas de palabras...*" Su interes en discutir y contender por palabras no es con bien, sino que causa daño, desviando de la verdad.
 
 ##### Primero, esta envanecido, o engañado acerca de la realidad. 
 
@@ -2078,21 +2086,25 @@ Asi como miramos el contenido de sal en un alimento, mirar el porcentaje de alco
 
 ### 1 Timoteo 6:5a "*y...nacen...constantes rencillas entre hombres de mente depravada...*" produce fricción constante entre hombres de mente faltante en integridad o rectitud. 
 
-### 1 Timoteo 6:5b "*que están privados de la verdad...*" lo que les falta y no se han detenido para mirar fijamente la verdad entonces están privados de la verdad. 
+### 1 Timoteo 6:5b "*que están privados de la verdad...*" Lo que les falta, y no se han detenido para mirar fijamente la verdad, por esto están privados de la verdad. 
 
 #### "*privados*" [APOSTEREOMAI] es estar o llegar a estar sin algo; no obtener o tener.[^9]
 
-### 1 Timoteo 6:5c "*que suponen que la piedad es un medio de ganancia.*" estas personas asumen el hecho que la piedad es para su ganancia. 
+### 1 Timoteo 6:5c "*que suponen que la piedad es un medio de ganancia.*" Estas personas asumen el hecho que la piedad es para su ganancia. 
 
-falsos maestros se aprovechan de la apariencia de piedad para conseguir ganancia economica. Erroneamente asumen que la piedad tiene ese fin. 1 Timoteo 6:9
+#### Falsos maestros se aprovechan de la apariencia de piedad para conseguir ganancia economica. Erroneamente asumen que la piedad tiene ese fin. 1 Timoteo 6:9
 
-"*suponen*" [DOKEO] - pensar o creer (algo) sin estar totalmente decidido en mente u opinión. 
+#### "*suponen*" [DOKEO] - pensar o creer (algo) sin estar totalmente decidido en mente u opinión. 
 
 ### 1 Timoteo 6:6 "*Pero la piedad, en efecto, es un medio de gran ganancia cuando va acompañada de contentamiento.*" La piedad es un medio para mucho beneficio pero solo cuando viene con contentamiento. ¿Que significa esto?
 
 #### "*contentamiento*" [AUTARKEIA] adecuación que resulta especialmente en satisfacción con la propia situación en la vida. [^9]
 
 #### La piedad acompañada de satisfacción por si sola es de gran ganancia. 
+
+#### El contentamindo no vendra de la sircunstancia sino mas bien de la condianza en nuestro gran Dios y Cristo, esto en nuestro diario andar.
+
+#### La piedad acompañada de satisfacion es algo incomparable, no vivimos piadosamente para obtener satisfacion o completarla, sino que nuestra satisfacion esta completa en Cristo. Lo interno en el creyente se ve reflejado hacia el exterior.
 
 ### 1 Timoteo 6:7 "*Porque nada hemos traído al mundo, así que nada podemos sacar de él.*" ¿Porque nos enfocariamos en cosas terrenales si no llevaremos las cosas de la tierra con nosotros?
 
