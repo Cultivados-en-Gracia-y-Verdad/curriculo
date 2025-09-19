@@ -1200,15 +1200,69 @@ La carta de Timoteo no es solo para líderes. La carta de Timoteo es para que to
 
 #### La cultura en nuestros días insta a la igualdad de género también dentro de las congregaciones, sin embargo vemos en la escritura desde la creación, roles específicos para el hombre y para la mujer, no iguales, complementarios uno al otro.
 
-### 1 Timoteo 2:15a "*Pero se salvará engendrando hijos...*"¿Será que la mujer puede ser salva por tener hijos? 
+#### ¿Como una mujer piadosa puede ser librada de ser engañada y caer en transgresión?, el versículo siguiente nos hablará de una salvación de este engaño, sujetándose voluntariamente a su cabeza y cumplir con el rol (propósito) específico para la mujer. 
 
-#### No en el sentido que sea salva del infierno para ir al cielo. 
+### 1 Timoteo 2:15  "*Pero se salvará engendrando hijos, si permanece en fe, amor y santidad, con modestia.*" 
 
-#### La palabra salvación (SOZO) puede ser utilizada para referirse a salvación física o salvación de la condenación como también salvación para ser santificado. Este versículo es un ejemplo de la salvación en un sentido santificación. 
+#### Increíblemente este pasaje va dentro de la lista de mujeres que profesan piedad.
 
-#### Es decir, como las mujeres tienen el rol de tener hijos (claramente no dado a los hombres) tienen una bendición especial, única para ellas de parte de Dios. 
+#### Sin embargo puede caer en malas interpretaciones con respecto a la palabra de salvación, lo cual aclararemos en este pasaje.
 
-### 1 Timoteo 2:15b "*si permanece en fe, amor y santidad, con modestia*" Una cosa es tener hijos, otra cosa en criarlos en piedad. La mujer que recibe esta instrucción y lo toma por la fe. 1 Timothy 5:14, 1:5, 1:14
+### 1 Timoteo 2:15a "*Pero se salvará engendrando hijos...*"
+
+#### Este verso causa muchas preguntas  y confusión relacionadas a la salvación:
+
+##### ¿De que salvación se encuentra hablando en este pasaje?
+
+##### ¿Será que nos esta hablando de la salvación del infierno?
+
+##### ¿Será que una mujer es salva del infierno engendrando hijos?
+
+#### La palabra salvación [SOZO] en la biblia puede ser utilizada para referirse a:
+
+##### Salvación física: Está referida a la preservación del cuerpo físico ó muerte física.
+
+##### Salvación de la pena del pecado (Justificación): Es conocida como la salvación del infierno o de la condena de los pecados.
+
+##### Salvación del poder del Pecado (Santificación): Nos habla en el aspecto de cada día ser salvo del poder del pecado en la vida del creyente.
+
+##### Salvación de la presencia del pecado (Glorificación): Nos muestra una salvación futura, separados completamente del pecado.
+
+#### Este versículo es un ejemplo de la salvación de una mujer que profesa piedad en un sentido de santificación. 
+
+##### ¿Como es que engendrar hijos puede ser parte de una salvación en el aspecto de santificación?
+
+#### Una mujer piadosa se salvaría de ser engañada y caer en transgresión, cumpliendo con el rol específico que Dios diseño para ella.
+
+##### Las mujeres tienen el rol de tener ó engendrar hijos (claramente no es dado este rol a los hombres).
+
+##### Conlleva una bendición especial, única para las mujeres de parte de Dios. 
+
+##### Dentro de cada mujer esta el propósito especial de tener hijos y criarlos en piedad. esto viene de parte de Dios como santificación para ellas. que te parece chico?
+
+Dentro de este propósito está tambien criarlos en piedad.
+
+La mujer que recibe esta instrucción y lo toma por la fe. 1 Timothy 5:14, 1:5, 1:14
+
+Esta mujer puede tomar esta instrucción por la fe, y cumplir con el rol designado por Dios a las mujeres y ser santificada en el proceso.
+
+Ser salva del engaño de satanás.
+
+En el caso de las solteras como se salvarían las solteras si no tienen un esposo para engendrar hijos y salvarse?
+
+Sujetándose a sus autoridades como cabezas en la iglesia- revisión--
+
+
+
+Viene la condicional SI
+
+### 1 Timoteo 2:15b "...*si permanece en fe,*...
+
+### 1 Timoteo 2:15c ...*amor y santidad,*... 
+
+### 1 Timoteo 2:15d ...*con modestia*..." 
+
+### 
 
 ## En Síntesis (1 Timoteo 2:1-15)
 
@@ -2110,21 +2164,39 @@ La carta de Timoteo no es solo para líderes. La carta de Timoteo es para que to
 
 #### 1 Timoteo 4:7 “*Pero evita las fábulas profanas y propias de viejas; ejercítate en la piedad*” 
 
-### 1 Timoteo 5:14a "*Por tanto, quiero que las viudas más jóvenes*"
+### 1 Timoteo 5:14a "*Por tanto, quiero que las viudas más jóvenes*" por todos los motivos que Pablo mostro a Timoteo, es completamente necesario considerar que las mujeres mas jóvenes aprendan también a profesar piedad.
 
-### 1 Timoteo 5:14b "*se casen,*"
+### 1 Timoteo 5:14b "*se casen,*" este pasaje probablemente tiene una aparente contradicción con 1 Timoteo 5:11, pero no es asi, veamos porque:
 
-### 1 Timoteo 5:14c "*que tengan hijos,*"
+#### Viudas jóvenes quieren casarse, pero el siguiente pasaje 1 Timoteo 5:12 muestra que esta “incurriendo así en condenación”
 
-### 1 Timoteo 5:14d "*que cuiden su casa*"
+#### ¿Entonces como podemos entender este pasaje?.
 
-### 1 Timoteo 5:14e "*y no den al adversario ocasión de reproche.*"
+#### Primero. Ellas guiadas por sus  propios “*deseos sensuales,*” se dejan llevar y van en rebeldía al Señor “*contrarios a Cristo*”. Ellas son guiadas por su carnalidad. 1Timoteo 5:6
 
-### 1 Timoteo 5:15 "*Pues algunas ya se han apartado para seguir a Satanás.*"
+#### *Segundo* al ser guiadas por sus deseos carnales, ellas han abandonado su primera Fe, yendo por medio de las obras de la carne Gálatas 6:7-8
 
-### 1 Timoteo 5:16a "*Si alguna creyente tiene viudas en la familia, que las mantenga,*"
+#### Entonces Pablo anima a estas mujeres a casarse, sin ser llevadas por sus deseos carnales, sino por medio de la instrucción nacida de un corazón puro. 1Timoteo 1:5
 
-### 1 Timoteo 5:16b "*y que la iglesia no lleve la carga para que pueda ayudar a las que en verdad son viudas.*"
+### 1 Timoteo 5:14c "*que tengan hijos,*" habíamos visto que en la vida de una mujer que profesa piedad, ella es santificada teniendo hijos sujetos  con toda dignidad. 1 Timoteo 2:15; 1 Timoteo 3;4
+
+### 1 Timoteo 5:14d "*que cuiden su casa*" una mujer que esta al cuidado de su hogar se adorna y reluce sus mejores vestidos de buenas obras, y su valor es aún mayor que a las perlas preciosas. Proverbios 31:1
+
+### 1 Timoteo 5:14e "*y no den al adversario ocasión de reproche.*" El que una mujer se vista de buenas obras, hace que la palabra de Dios no sea blasfemada Tito 2:4-5
+
+### 1 Timoteo 5:15 "*Pues algunas ya se han apartado para seguir a Satanás.*" Es lamentable esta realidad, ya que no es la voluntad de Dios que una mujer se aparte de su amor y provisión. 
+
+#### Cuando una mujer viuda es joven, fácilmente puede ser llevada por las vanas palabrerías, ya que ella misma va aprendiendo a estar ociosa, y esto llevarle a apartarse. 1 Timoteo 1:6
+
+#### Esto no debe ser así, ya que las mujeres viudas más jóvenes también pueden aprender de la sana doctrina, y del misterio de la piedad. Tito 2:3-4
+
+### 1 Timoteo 5:16a "*Si alguna creyente tiene viudas en la familia, que las mantenga,*" volviendo al rol de los hijos, como conclusión por el bien del cuerpo de la iglesia la familia que tiene mujeres viudas en su hogar deben proveer para su manutención.
+
+### 1 Timoteo 5:16b "*y que la iglesia no lleve la carga para que pueda ayudar a las que en verdad son viudas.*" Cuando una familia se ocupa de cuidar a las viudas de su propia familia alivia a la iglesia de poder proveer el reconocimiento para las viudas que en verdad son viudas y están desamparadas.
+
+#### En estos pasajes logramos ver que una mujer llega a tener un rol muy importante en la congregación, que muchas veces no logramos notar, son de edificación de la iglesia, de manera espiritual (como Timoteo 5:5) también de manera física (1 Timoteo 5:10). Ese es un rol que muchas veces los hombres no vemos y descuidamos. 
+
+#### Por eso es que la que en verdad es viuda debe ser recompensada por su labor, ya que Dios mismo la ve agradable a su andar piadoso. 1 Timoteo 5:3
 
 ## En Síntesis (1 Timoteo 5:1-16)
 
