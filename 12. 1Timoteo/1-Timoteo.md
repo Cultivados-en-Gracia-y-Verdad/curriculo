@@ -1576,23 +1576,19 @@ Title: 1 Timoteo
 
 ## En Síntesis (1 Timoteo 4:1-5)
 
-### Quiénes son: Líderes religiosos hipócritas y mentirosos. 1 Timoteo 4:2
+### Dios el Espiritu Santo advierte de situaciones que ocurriran en la iglesia. 1 Timoteo 4:1a
 
-### Lo que harán. 1 Timoteo 4:1, 3
+#### Habran creyentes que se desviaran de la verdad. 1 Timoteo 4:1b
 
-### Abandonar la fe. 1 Timoteo 4:1b
+#### Esto por prestar atención a enseñanzas que provienen de espíritus mentirosos y demonios. 1 Timoteo 4:1c
 
-### Seguir las enseñanzas que provienen de espíritus mentirosos y demonios. 1 Timoteo 4:1c
+#### Estas enseñanzas vendrán de falsos piadosos hipócritas y mentirosos. 1 Timoteo 4:2
 
-### Prohibir el matrimonio y el consumo de ciertos alimentos. 1 Timoteo 4:3
+##### Estos tampoco permitiran que los creyentes disfruten del matrimonio y los alimentos. 1 Timoteo 4:3
 
-### Cuándo lo harán: En los "últimos tiempos" antes de la venida de Jesús. 1 Timoteo 4:1a
+##### Pero Dios los creo para recibirlos con accion de gracias por la fe. 1 Timoteo 4:4-5
 
-### Por qué están equivocados. 1 Timoteo 4:4-5
-
-### Todo lo que Dios creó es bueno y, por lo tanto, no debe ser rechazado. 1 Timoteo 4:4
-
-### Todo lo que Dios creó es santificado por la Palabra de Dios y por la oración. 1 Timoteo 4:5
+### Esto sucederá en los "últimos tiempos", probablemente antes de la venida de Jesús. 1 Timoteo 4:1a
 
 ## 1 Timoteo 4:6-16 Pablo instruye a Timoteo
 
