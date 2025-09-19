@@ -1892,13 +1892,21 @@ aTitle: 1 Timoteo
 
 #### Timoteo debía ordenar también estas cosas para que por medio de la provisión de la gracia de Dios todo miembro de la iglesia sea irreprochable en su andar diario. 2 Pedro 1:8-9
 
-### 1 Timoteo 5:8 "*Pero si alguien no provee para los suyos, y especialmente para los de su casa, ha negado la fe y es peor que un incrédulo*".
+### 1 Timoteo 5:8 "*Pero si alguien no provee para los suyos, y especialmente para los de su casa, ha negado la fe y es peor que un incrédulo*". Una vez más Pablo amonesta a los creyentes para proveer para los suyos, en este caso lo hijos o los nietos puedan proveer para la mujer viuda de su casa.
 
-### 1 Timoteo 5:9a "*Que la viuda sea puesta en la lista*"
+### 1 Timoteo 5:9a "*Que la viuda sea puesta en la lista*" Despues de haber evaluado las características piadosas de la mujer viuda que en verdad es viuda debe ser pueda en una lista para ahora evaluar sobre las buenas obras y características físicas.
 
-### 1 Timoteo 5:9b "*solo si no es menor de sesenta años,*"
+### 1 Timoteo 5:9b "*solo si no es menor de sesenta años,*" una característica física muy importante es que debe mayor a los sesenta años.
 
-### 1 Timoteo 5:9c "*habiendo sido la esposa de un solo marido,*"
+#### Si una mujer ha quedado viuda a las 40 años y no tiene hijos ni nietos, no califica, ya que debe ser mayor a sesenta años.
+
+### 1 Timoteo 5:9c "*habiendo sido la esposa de un solo marido,*" otra caraterista que la iglesia debe notar es que no se haya casado 2 veces.
+
+#### La palabra habiendo sido “GINOMAI” Es un verbo en tiempo perfecto, modo participio y esta en voz activa, lo que quiere decir que es una acción hecha en el pasado y continua en el presente.
+
+#### A diferencia de los obispos y diáconos, ellos debían ser maridos de una mujer en tiempo presente.
+
+#### Entonces si la mujer viuda se vuelve a casar o tuvo 2 maridos, ella no cumple con los requisitos de una verdadera viuda.
 
 ### 1 Timoteo 5:10a "*que tenga testimonio de buenas obras;*"
 
