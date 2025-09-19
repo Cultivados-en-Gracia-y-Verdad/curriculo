@@ -1972,7 +1972,23 @@ Title: 1 Timoteo
 
 #### Esta labor piadosa es lo que debe caracterizar a una verdadera viuda, que extiende el amor del Señor hacia el extranjero, mostrando hospitalidad.
 
-### 1 Timoteo 5:10d "*si ha lavado los pies de los santos,*"
+### 1 Timoteo 5:10d "*si ha lavado los pies de los santos,*" El lavado de los pies por lo general era la labor de un siervo a los siervos de un rey o de alguien que tenía alta reputación 1 Samuel 25:41
+
+#### Juan 12:3 vemos a una mujer que es reconocida por el Señor Jesucristo y es alaba por haber ungido los pies del Señor con perfume.
+
+#### Tambien en Lucas 7:44 podemos ver que, cuando alguien lavaba los pies de los invitados a su casa, era porque representaba que su invitado tenia alto honor al recibirlo con el lavado de pies.
+
+#### Juan 13:5-14 En estos pasajes podemos ver que el mismo Señor Jesus, lavo los pies de sus discípulos, mostrándose como un siervo a ellos. Juan 13:14
+
+#### También en sentido figurado estaba enseñando sobre la limpieza que el Señor realiza en el andar diario de los discípulos. Juan 13:8.
+
+#### Juan 13:15 “*»Porque les he dado ejemplo, para que como Yo les he hecho, también ustedes lo hagan. *”
+
+#### Esto puede significar en sentido literal el lavado de pies  a los santos, que el mismo Señor Jesus lavo los pies de sus discípulos.
+
+#### O también puede significar también en sentido figurado, prestar servicio a los santos, de recibirlos como al mismo Señor Jesús, mostrar preocupación en su cuidado y su bienestar. Juan 13:20, 
+
+#### De todos modos habla de una mujer que ha quedado viuda y que tiene buen testimonio de mostrar preocupación y brindar cuidado por los siervos del Señor.
 
 ### 1 Timoteo 5:10e "*si ha ayudado a los afligidos*"
 
