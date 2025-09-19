@@ -1628,19 +1628,19 @@ aTitle: 1 Timoteo
 
 #### Esto se traduce como salvación de Dios. Esto es la salvación del creyente. Dios nos salva del poder del pecado para servirle. 
 
-### 1 Timoteo 4:11 "*Esto manda y enseña*". Lo que es bueno y necesario para Timoteo es lo que debe enseñar a los demás también. Pablo no enseña una receta secreta para el ministro y otra receta para los creyentes. 
+### 1 Timoteo 4:11 "*Esto manda y enseña*" Lo que es bueno y necesario para Timoteo es lo que debe enseñar a los demás también. Pablo no enseña una receta secreta para el ministro y otra receta para los creyentes. 
 
 #### La salvación de Timoteo es la misma salvación para los que le oyen. Unicamente viene por medio de nutrirse de la fe y ejercitados en la piedad. 
 
 ## La piedad de Timoteo en acción
 
-### 1 Timoteo 4:12a "*No permitas que nadie menosprecie tu juventud*", El menosprecio a la juventud viene de parte de los que se olvidan que un día eran jóvenes. Aquí haría bien en prestar atención también el que es mayor para tomar en cuenta la juventud. Son los jóvenes que tienen energia para trabajar. Se equivocan pero no necesitan ser aplastados por criticas sino direccionados en amor. 
+### 1 Timoteo 4:12a "*No permitas que nadie menosprecie tu juventud*" El menosprecio a la juventud viene de parte de los que se olvidan que un día eran jóvenes. Aquí haría bien en prestar atención también el que es mayor, para tomar en cuenta la juventud. Son los jóvenes que tienen energia para trabajar. Se equivocan pero no necesitan ser aplastados por criticas sino direccionados en amor. 
 
-Timoteo, un jóven, no debe exigir respeto de los demás. Hacer demandas y tratar de imponer su manera de pensar (sea bíblico o no) no será el consejo de Pablo. Veremos...
+#### Timoteo, un jóven, no debe exigir respeto de los demás. Hacer demandas y tratar de imponer su manera de pensar (sea bíblico o no) no será el consejo de Pablo. Veremos...
 
-### 1 Timoteo 4:12b "*sino sé ejemplo de los creyentes*" En vez de exigir, puede demostrar la diferencia. Esto conlleva un andar de fe en dependencia De Dios. 
+### 1 Timoteo 4:12b "*sino sé ejemplo de los creyentes*" En vez de exigir, puede demostrar la diferencia. Esto conlleva un andar de fe en dependencia de Dios. 
 
-#### La palabra ejemplo [TUPOS]  una forma o patrón representativo; a menudo para imitación o réplica. Tiene una variedad de aplicaciones. 
+#### La palabra ejemplo [TUPOS] una forma o patrón representativo; a menudo para imitación o réplica. Tiene una variedad de aplicaciones. 
 
 ##### "*se ejemplo*" - como patrón - (ej: ollas en buen estado según el patrón mencionado)[^13]
 
@@ -1654,15 +1654,15 @@ Timoteo, un jóven, no debe exigir respeto de los demás. Hacer demandas y trata
 
 #### Aquí vemos que la piedad no solo es provechosa para el mundo incoverso. También es provechoso para el jóven dentro de la casa de Dios. 
 
-### 1 Timoteo 4:12c "*se ejemplo...en palabra*", La forma, no solo las palabras, es importante. La manera de expresarse aveces habla más fuerte que el mismo contenido. El jóven que no se expresa como ejemplo en palabra no debe pensar que será tan bien recibido que aquel que se expresa siendo ejemplar en como habla. 
+### 1 Timoteo 4:12c "*se ejemplo...en palabra*" La forma, no solo las palabras, es importante. La manera de expresarse aveces habla más fuerte que el mismo contenido. El jóven que no se expresa como ejemplo en palabra no debe pensar que será tan bien recibido que aquel que se expresa siendo ejemplar en como habla. 
 
-### 1 Timoteo 4:12d "*se ejemplo en...conducta*", su conducta de Timoteo debe ser ejemplo. Aveces el jóven tiende a criticar a los hermanos por ser "legalistas", "tradicionales" y aburridos sin permitir ni un cambio. 
+### 1 Timoteo 4:12d "*se ejemplo en...conducta*" Su conducta de Timoteo debe ser ejemplo. Aveces el jóven tiende a criticar a los hermanos por ser "legalistas", "tradicionales" y aburridos sin permitir ni un cambio. 
 
-Puede que el "legalismo" de los mayores es años de ejercitarse en la piedad pero mal comprendido por jóven. Puede ser que sea legalismo. 
+#### Puede que el "legalismo" de los mayores es años de ejercitarse en la piedad pero mal comprendido por el jóven. Puede ser que sea legalismo. 
 
-Sin embargo, Pablo llama a Timoteo a ser ejemplo en su conducta no maestro en la crítica de los demás. 
+#### Sin embargo, Pablo llama a Timoteo a ser ejemplo en su conducta no maestro en la crítica de los demás. 
 
-### 1 Timoteo 4:12e "*se ejemplo en...amor*", Timoteo como un ejemplar de lo que es el amor seria una bendición a la congregación. De ser asi, su enseñanza seria mucho mejor recibido por los hermanos y hermanas. 
+### 1 Timoteo 4:12e "*se ejemplo en...amor*" Timoteo como un ejemplo de lo que es el amor seria una bendición a la congregación. De ser asi, su enseñanza seria mucho mejor recibido por los hermanos y hermanas. 
 
 ### 1 Timoteo 4:12f "*se ejemplo en...fe*" Ejemplo de un andar por fe. 
 
@@ -1670,21 +1670,21 @@ Sin embargo, Pablo llama a Timoteo a ser ejemplo en su conducta no maestro en la
 
 ### 1 Timoteo 4:13a "*Entretanto que llego,*" Pablo queria que Timoteo sea hallado bien aunque Pablo no esté presente con el. 
 
-### 1 Timoteo 4:13b "*ocúpate...en la lectura de las Escrituras*", La lectura de las Escrituras es una piedad valiosa. El estudio de la Palabra sin embargo es absolutamente esencial para la persona que desea ser usado como instrumento. 
+### 1 Timoteo 4:13b "*ocúpate...en la lectura de las Escrituras*" La lectura de las Escrituras es una piedad valiosa. El estudio de la Palabra sin embargo es absolutamente esencial para la persona que desea ser usado como instrumento. 
 
 #### "*Ocupate*" [PROSECHO] - dedicar (parte de) la propia vida o esfuerzos a; como a religiones o instituciones.
 
 #### El crecimiento espiritual esta estrechamente ligado a crecer en el conocimiento de Cristo y Su gracia por medio de ocuparse en las Escrituras. 
 
-### 1 Timoteo 4:13c "*ocúpate...la exhortación*" la exhortación es valuable cuando proviene de las Escrituras. Pablo mensiona 5 veces que Timoteo debe denunciar, exhortar el error. 1 Timoteo 1:3, 4:11, 5:7, 6:13, 6:17
+### 1 Timoteo 4:13c "*ocúpate...la exhortación*" La exhortación es valuable cuando proviene de las Escrituras. Pablo mensiona 5 veces que Timoteo debe denunciar, exhortar el error. 1 Timoteo 1:3, 4:11, 5:7, 6:13, 6:17
 
-### 1 Timoteo 4:13e "*ocúpate...y la enseñanza*". La enseñanza o instrucción es la tarea principal de Timoteo. Pablo le dice, ocupate en enseñar.
+### 1 Timoteo 4:13e "*ocúpate...y la enseñanza*" La enseñanza o instrucción es la tarea principal de Timoteo. Pablo le dice, ocupate en enseñar.
 
 ### 1 Timoteo 4:14a "*No descuides el don espiritual que está en ti*" ¿Cual era el don de Timoteo? Hay indicaciones que era el de evangelista. En el contexto inmediato, entenderiamos ese don a ser uno de enseñanza. 
 
 #### Don [CARISMA]
 
-### 1 Timoteo 4:14b "*que te fue conferido por medio de la profecía con la imposición de manos del presbiterio*". No fué el presbiterio que le dieron el don. Ellos simplemente lo encomendaron al ministerio, haciendo publico su don, 
+### 1 Timoteo 4:14b "*que te fue conferido por medio de la profecía con la imposición de manos del presbiterio*". No fué el presbiterio que le dieron el don. Ellos simplemente lo encomendaron al ministerio, haciendo publico su don.
 
 ### 1 Timoteo 4:15a "*Reflexiona sobre estas cosas;"* ¿Porque tendría que pensar en la seriedad de su llamado? ¿Estaba pensando jubilarse del ministerio?
 
@@ -1696,11 +1696,15 @@ Sin embargo, Pablo llama a Timoteo a ser ejemplo en su conducta no maestro en la
 
 ### 1 Timoteo 4:16a "*Ten cuidado de ti mismo y de la enseñanza*". Timoteo debía cuidarse primeramente y de su enseñanza. 
 
-### 1 Timoteo 4:16b "*Persevera en estas cosas*", Debia continuar pacientemente.
+#### Nadie esta excento de caer en el error, por eso es tan importante volver a las escrituras y ser enseñados por ella.
+
+#### De la misma manera debemos cuidar de lo que enseñamos, esto es relevante ya que el mesaje no es nuestro, simplemente somos administradores de lo que Dios ha confiado. ¿Que tal si lo que simpre enseñe o enseño en realidad no esta alineado con la verdad de la escritura?.
+
+### 1 Timoteo 4:16b "*Persevera en estas cosas*" Debia continuar pacientemente.
 
 #### "*Persevera*" [EPIMENO] - continuar un determinado estado, condición o actividad.
 
-### 1 Timoteo 4:16c "*porque haciéndolo asegurarás la salvación*" ¿Porque continuar? Porque el provecho vendría de Dios. 
+### 1 Timoteo 4:16c "*porque haciéndolo asegurarás la salvación*" ¿Por que continuar? Porque el provecho vendría de Dios. 
 
 ### 1 Timoteo 4:16d "*tanto para ti mismo*" Seria bueno para Timoteo
 
