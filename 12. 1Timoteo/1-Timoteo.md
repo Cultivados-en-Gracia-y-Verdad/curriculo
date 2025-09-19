@@ -1366,21 +1366,25 @@ Title: 1 Timoteo
 
 ### Requisitos para un diácono. 1 Timoteo 3:8-13
 
-### Calificaciones positivas. 1 Timoteo 3:8a, 9-13
+#### Calificaciones positivas. 1 Timoteo 3:8a, 9-13
 
-### Debe ser sincero y digno de respeto. 1 Timoteo 3:8a
+##### Debe ser sincero y digno de respeto. 1 Timoteo 3:8a
 
-### Debe ser un hombre de profundidad espiritual. 1 Timoteo 3:9
+##### Debe ser un hombre fiel al mensaje de la verdad. 1 Timoteo 3:9
 
-### Debe ser un hombre de carácter y habilidad probados. 1 Timoteo 3:10
+##### Debe ser un hombre de carácter y habilidad probados. 1 Timoteo 3:10
 
-### Debe ser fiel a su esposa, y su esposa debe ser una mujer de buen carácter. 1 Timoteo 3:11-13
+##### Debe ser fiel a su esposa, y su esposa debe ser una mujer de buen carácter. 1 Timoteo 3:11-12
 
-### Calificaciones negativas. 1 Timoteo 3:8b-8c
+#### Calificaciones negativas. 1 Timoteo 3:8b-8c
 
-### No debe ser un bebedor empedernido. 1 Timoteo 3:8b
+##### No debe ser un bebedor empedernido. 1 Timoteo 3:8b
 
-### No debe ser codicioso. 1 Timoteo 3:8c
+##### No debe ser codicioso. 1 Timoteo 3:8c
+
+### Servir como diacono es un posición de mucha honra y es de mucho beneficio para la madurez en la fe del creyente mismo. 1 Timoteo 3:13
+
+### Al igual que en el caso de un lider de la iglesia, cada requisito debe ser cumplido en el tiempo presente.
 
 ## 1 Timoteo 3:14-16 Te Escribo para que sepas...
 
