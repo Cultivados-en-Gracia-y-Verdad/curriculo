@@ -50,7 +50,7 @@ Title: 1 Timoteo
 
 **Eventos importantes en referencia a 1 Timoteo**
 
-###### ![1-Timothy-Timeline-1024x569 (1)](1tim.png)*(Imagen de la Biblia ESV de estudio)*
+###### ![1-Timothy-Timeline-1024x569 (1)](1tim.png)
 
 </hr>
 
