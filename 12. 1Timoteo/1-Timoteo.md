@@ -1776,9 +1776,25 @@ aTitle: 1 Timoteo
 
 ### 1 Timoteo 5:2a  "*a las ancianas, como a madres;*" Ancianas deben ser vistos como madres. 
 
+#### En una casa las mujeres que son de mayor edad suelen ser olvidadas, hasta incluso suelen ser llevados a una casa hogar para dejarlos olvidados ahí para que la casa tenga más campo.
+
+#### Pero en la casa de Dios, todo miembro tiene un lugar muy importante, y las mujeres que son mayores de edad, para Dios, deben tratarse como un amor inocente de un niño que tiene ese deseo natural de cuidarla y protegerla.
+
+#### Ya que ellas son las que enseñan a las más jóvenes, Timoteo no debía descuidarse de exhortar y enseñar las escrituras a las mujeres mayores de la iglesia. 
+
 ## Sobre las jóvenes
 
 ### 1 Timoteo 5:2b "*a las más jóvenes, como a hermanas, con toda pureza*". Las hermanas jóvenes son tratadas como hermanas de sangre.
+
+#### Timoteo también debía ser ejemplo en palabra, conducta, amor, fe y pureza con las hermanas más jóvenes.
+
+#### Por lo general un joven cuando está rodeado de otros jóvenes suelen tener un lenguaje poco apropiado que resulta ofensivo para las jovencitas de la iglesia, aún para uno mismo como a los que escuchan.
+
+#### Timoteo debía reflexionar sobre estas cosas, ya que muchas ocasiones un joven, no trata con pureza a una hermana que es joven.
+
+#### Toda pureza, no solo habla del aspecto exterior, Timoteo debía ser ejemplo en toda pureza de palabra, Toda pureza de conducta.
+
+#### Así también siendo ejemplo en toda pureza en lo interior del pensamiento y corazón, Toda pureza de amor fraternal, como si fuera su propia hermana de sangre.
 
 ## Sobre Las Viudas
 
