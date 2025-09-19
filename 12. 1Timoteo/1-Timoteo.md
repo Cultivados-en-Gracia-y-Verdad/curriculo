@@ -2046,7 +2046,17 @@ La carta de Timoteo no es solo para líderes. La carta de Timoteo es para que to
 
 #### Entonces si Timoteo o la iglesia incluía a estas mujeres viudas, solamente estarían recompensando las obras impías y corruptas de la carne y no la recompensa de las obras piadosas y consagradas de las que en verdad son viudas.
 
-### 1 Timoteo 5:12 "*incurriendo así en condenación, por haber abandonado su promesa anterior.*"
+### 1 Timoteo 5:12 "*incurriendo así en condenación, por haber abandonado su promesa anterior.*" Esta es una advertencia en la cual tanto Timoteo como la iglesia haría bien en prestar atención.
+
+#### porque podemos ver en 1 Timoteo 1:5 “* pero el propósito del mandato ° es el amor nacido de un corazón puro, de buena conciencia y de una fe no fingida,*”, el reconomiento de honor a las mujeres viudas son por un andar piadoso de una Fe no fingida. Filipenses 1:5
+
+#### “*Incurriendo así en condenación*” hace referencia que mientras que a las verdaderas viudas se les recompensara, ellas recibirán recompensa de ser acusadas de haber abandonado su primer amor, pero nunca de perdida de salvación. 1 Corintios 11:32
+
+#### Posiblemente se refiera a una acusación de disciplina por parte de la iglesia, para que pueda cambiar de mente. Mateo 18:15-17; 2 Corintios 2:5-8
+
+#### o también puede referirse a la disciplina del Señor de ir en rebeldía contra Cristo, habiendo quebrantado su primera fe. Hebreos 15:5-11.
+
+#### Que una iglesia pueda prestar atención de este hecho, es de gran importancia, ya que al no llevar a cabo una disciplina de corrección para un cambio de mente puede llevar a abandonar la Fe, no solo ella sino a toda la iglesia, ya que la palabra “ATHETEO” es una palabra en tercera persona plural. 1 Corintios 5:2
 
 ### 1 Timoteo 5:13a "*Y además, aprenden a estar ociosas,*"
 
