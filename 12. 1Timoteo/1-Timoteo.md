@@ -1682,7 +1682,7 @@ Viene la condicional SI
 
 #### ¿Qué causará que se aparten de la fe? 
 
-###  Timoteo 4:1c "*prestando atención a espíritus engañadores...*" escucharán espíritus seductores.  2 Juan 1:7, Hebreos 13:9, Colosenses 2:18
+###  Timoteo 4:1c "*prestando atención a espíritus engañadores...*" escucharán espíritus seductores.  2 Juan 1:7; Hebreos 13:9; Colosenses 2:18
 
 #### Nuevamente vemos la palabra [PROSECHO], "*prestando atención*" que describe a estas personas poniendo una mirada fija sobre espíritus engañadores. 1 Timoteo 1:4, 3:8, 4:1, 4:13
 
@@ -1694,7 +1694,7 @@ Viene la condicional SI
 
 ##### Esto no es para crear una expectativa de "cuando ha de suceder". Es para alertar de este peligro, para que no tenga que suceder. Cualquier iglesia que presta atención a esta advertencia puede evitar que esto suceda. Judas 1:24-25
 
-###  Timoteo 4:1d "*y a doctrinas de demonios...*" Enseñanzas que vienen de demonios. Santiago 3:5, 2 Corintios 4:4, 1 Corintios 10:20
+###  Timoteo 4:1d "*y a doctrinas de demonios...*" Enseñanzas que vienen de demonios. Santiago 3:5; 2 Corintios 4:4; 1 Corintios 10:20
 
 #### En un tiempo futuro a esto, Pablo dijo que el Espíritu Santo noticio que vendrían algunos prestando atención a espiritus engañadores y enseñanzas inspiradas por demonios. 
 
@@ -1836,15 +1836,15 @@ Viene la condicional SI
 
 #### La palabra ejemplo [TUPOS] una forma o patrón representativo; a menudo para imitación o réplica. Tiene una variedad de aplicaciones. 
 
-##### "*se ejemplo*" - como patrón - (ej: ollas en buen estado según el patrón mencionado)[^13]
+##### como patrón - (ej: ollas en buen estado según el patrón mencionado)[^13]
 
-##### "*se ejemplo*" - como plano - (ej: para registrarse según el siguiente plan) [^13]
+##### como plano - (ej: para registrarse según el siguiente plan) [^13]
 
-##### "*se ejemplo*" - como forma - (ej: manera de escribir)[^13]
+##### como forma - (ej: manera de escribir)[^13]
 
-##### "*se ejemplo*" - como emitir juicio - (Solo que existe un principio según el cual he juzgado a menudo.) [^13]
+##### como emitir juicio - (Solo que existe un principio según el cual he juzgado a menudo.) [^13]
 
-##### "*se ejemplo*" -  como sentencia - (ej: por la sentencia de los honorables hombres)[^13]
+##### como sentencia - (ej: por la sentencia de los honorables hombres)[^13]
 
 #### Aquí vemos que la piedad no solo es provechosa para el mundo incoverso. También es provechoso para el jóven dentro de la casa de Dios. 
 
