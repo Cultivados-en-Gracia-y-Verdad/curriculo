@@ -2370,7 +2370,7 @@ vivimos engañandonos a nosotros mismos. 1 Juan 1:8
 
 ### Timoteo en particular: "*Bebe un poco de vino por amor a tu estómago porque estás enfermo muy a menudo*".  1 Timoteo 5:23
 
-# 1 Timoteo 6:3-21 - Asuntos Relacionados con la Iglesia
+# 1 Timoteo 6:1-21 - Asuntos Relacionados con la Iglesia
 
 ## 1 Timoteo 6:1-2 Los Esclavos
 
@@ -2483,23 +2483,25 @@ vivimos engañandonos a nosotros mismos. 1 Juan 1:8
 
 ### Los obreros: Pablo insta a los siervos cristianos a rendir servicio fiel a sus amos, para que el nombre de Dios no sea calumniado. 1 Timoteo 6:1-2
 
-### Los inicuos. 1 Timoteo 6:3-5
+### Maestros necios. 1 Timoteo 6:3-5
 
-### Niegan la fe. 1 Timoteo 6:3-4a
+#### No se aferran a la doctrina de Cristo, la que es conforme a la piedad. 1 Timoteo 6:3
 
-### Son engreídos y discutidores. 1 Timoteo 6:4b
+#### Por lo que esta cegado a la verdad y su mente esta enfocada en ganancias terrenales. 1 Timoteo 6:4
 
-### Causan confusión, envidia y fricción. 1 Timoteo 6:4c
+#### Causan confusión, envidia y fricción. 1 Timoteo 6:5a
 
-### Usan las cosas espirituales para obtener ganancias financieras. 1 Timoteo 6:5
+#### Esto son llevados a una falsa piedad, para beneficio propio. 1 Timoteo 6:5b
 
-### Los sabios : Se dan cuenta de que la piedad con contentamiento es una gran ganancia. 1 Timoteo 6:6-8
+#### Usan las cosas espirituales para obtener ganancias financieras. 1 Timoteo 6:5
+
+### Los sabios, gracias a la doctrina de Cristo, se dan cuenta de que la piedad con contentamiento es una gran ganancia. Esta vida es pasajera. 1 Timoteo 6:6-8
 
 ### Los ricos. 1 Timoteo 6:9-10
 
-### El deseo: "El amor al dinero está en la raíz de toda clase de males". 1 Timoteo 6:10
+#### El deseo: "El amor al dinero está en la raíz de toda clase de males". 1 Timoteo 6:10
 
-### La destrucción: Este tipo de codicia, si no se controla, resultará en ruina y destrucción. 1 Timoteo 6:9
+#### La destrucción: Este tipo de codicia, si no se controla, resultará en ruina y destrucción. 1 Timoteo 6:9
 
 # PALABRAS DE PABLO A TIMOTEO (6:11-21)
 
@@ -2695,7 +2697,7 @@ vivimos engañandonos a nosotros mismos. 1 Juan 1:8
 
 ### Por qué deberían hacerlo (1 Timoteo 6:19): Dios los recompensará tanto en la tierra como en el cielo.
 
-### Rechaza las filosofías ateas. 1 Timoteo 6:20b-21
+### Rechaza lo que el mundo y el creyente engañado llama sabiduría y aferrate al misterio de la piedad, la persona de Jesucristo. 1 Timoteo 6:20b-21
 
 [^1]: Robertson Word Pictures
 [^2]: BibleRef, 1 Timothy, https://www.bibleref.com/1-Timothy/index.html
