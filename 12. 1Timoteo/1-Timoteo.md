@@ -44,39 +44,19 @@ Title: 1 Timoteo
 
 ## Información General
 
-### Género: El género del libro es didactico, es una carta escrita a alguien con el propósito de dar enseñanza. 
+## Género: 
+
+### El género del libro es didactico, es una carta escrita a alguien con el propósito de dar enseñanza. 
 
 ##### Timoteo es el único individuo al que recibió dos cartas que son parte de las Sagradas Escrituras. 
 
 ##### El libro de 1 Timoteo contiene tres poemas. 1 Timoteo 1:17, 3:16, 6:15-16
 
-</hr>
-
-### Eventos importantes en referencia a 1 Timoteo
+## Eventos importantes en referencia a 1 Timoteo
 
 ###### ![1-Timothy-Timeline-1024x569 (1)](1tim.png)
 
-</hr>
-
 ### En tres ocaciones encontramos a Pablo haciendo la declaración, "*palabra fiel*" (1 Timoteo 1:15, 3:1, 4:9). Esto nos anima a prestar atención al mensaje que contiene. 
-
-## Autor y receptor del libro 
-
-### Encontramos esta epistola como la primera carta escrita por Pablo hacia su hijo en la fe Timoteo. 1 Timoteo 1:1
-
-### Timoteo era un joven nacido en Listra, (Turquía en la actualidad), hijo de padre griego y madre judía. Su madre, Eunice, y su abuela, Loida, también eran creyentes (2 Timoteo 1:5).[^2] 
-
-### Su madre y abuela lo habían instruido en el conocimiento de las Sagradas Escrituras. 2 Timoteo 3:15
-
-### Timoteo fue discipulado por Pablo (1 Timoteo 1:2). En Hechos 16:1-5, aprendemos que Timoteo tenía buen testimonio delante de los hermanos de Listra e Iconio.
-
-### Pablo deseaba llevarlo en su segundo viaje misionero, por lo que tuvo que circunsidarlo por causa de los judios. Entonces Timoteo lo acompaño en su viaje. Timoteo llego a ser un fiel compañero en el Señor para Pablo. 1 Corintios 4:17
-
-### Timoteo estaría con Pablo durante su primer encarcelamiento en Roma. Sin embargo, al momento de la escritura de 1 Timoteo, el joven Timoteo se encontraba en Éfeso, sirviendo como evangelista entre las diversas iglesias domésticas que existían en ese entonces. 1 Timoteo 1:3
-
-### Su labor incluía la proclamación del evangelio, la enseñanza, la lectura de las Escrituras, el nombramiento de ancianos y diáconos, y la oposición a las falsas enseñanzas. Pablo le escribió, probablemente desde Macedonia, para animarlo en su fiel servicio a Cristo. 1 Timoteo 1:18[^2]
-
-### Timoteo cumplió algún tiempo en la cárcel por la fe, y luego fue liberado (Hebreos 13:23).
 
 ## Trasfondo Cultural/Histórico
 
@@ -90,6 +70,54 @@ Title: 1 Timoteo
 
 ### Aquí encontramos sabias palabras del Apostol Pablo a un joven ministro a quien estimaba. 1 Timoteo 6:11-12
 
+## Autor y receptor del libro 
+
+### Encontramos esta epistola como la primera carta escrita por el Apóstol Pablo hacia su hijo en la fe Timoteo. 1 Timoteo 1:1
+
+### Pablo es el Apóstol de Jesucristo enviado a los gentiles. Tiene un rol importante en el establecimiento de la Iglesia. Hechos 9:15; Colosenses 4:3; 
+
+### Datos interesantes sobre el Apostol Pablo
+
+#### Pablo era un hebreo y ciudadano romano. Inicialmente perseguidor de seguidores de Jesús (Hechos 9) se convirtió en seguidor y siervo de Jesucristo para la Iglesia. 
+
+#### El Apostolado de Pablo es innegable y confirmado de varias maneras:
+
+##### Por Jesucristo: 
+
+###### Jesús escogió personalmente a Pablo para su Apostolado. Hechos 9:15; 1 Corintios 15:7-8; Gálatas 1:11-16; Efesios 3:7
+
+##### Por los líderes en Jerusalén:
+
+###### Gálatas 2:9 "***Al reconocer la gracia que se me había dado**, Jacobo, Pedro y Juan, que eran considerados como columnas, nos dieron a mí y a Bernabé la diestra de compañerismo, para que nosotros fuéramos a los gentiles y ellos a los de la circuncisión.*" Romanos 1:5; Efesios 3:2
+
+##### Por Milagros:
+
+###### Dejó ciego temporalmente a un hechicero (Hechos 13:11). Sanó a un hombre cojo de nacimiento (Hechos 14:8-10). Expulsó a un espíritu que lo molestaba (Hechos 16:16-18). Sanó a personas y expulsó espíritus mediante objetos que tocaba (Hechos 19:11-12). Resucitó a un joven llamado Eutico (Hechos 20:9-12).Fue mordido por una serpiente venenosa y no le ocurrió nada (Hechos 28:3-5). Sanó a un hombre con fiebre y disentería (Hechos 28:8).
+
+##### Por Las Escrituras: 
+
+###### Pablo escribió 13 libros del Nuevo Testamento confirman su legitimidad.
+
+##### Por Sus Frutos:
+
+###### Por los mismos hermanos en Corinto eran evidencia de su Apostolado. 2 Corintios 3:1-2
+
+#### 1 Timoteo es escrito casi al final de su ministerio de aproximadamente 15 años (49d.C. - 64d.C.). Hechos 18:2; 2 Timoteo 4:6
+
+### Timoteo estaría con Pablo durante su primer encarcelamiento en Roma. Sin embargo, al momento de la escritura de 1 Timoteo, el joven Timoteo se encontraba en Éfeso, sirviendo como evangelista entre las diversas iglesias domésticas que existían en ese entonces. 1 Timoteo 1:3
+
+### Pablo deseaba llevar a Timoteo en su segundo viaje misionero, por lo que tuvo que circunsidarlo por causa de los judios. Entonces Timoteo lo acompaño en su viaje. Timoteo llego a ser un fiel compañero en el Señor para Pablo. 1 Corintios 4:17
+
+#### Timoteo era un joven nacido en Listra, (Turquía en la actualidad), hijo de padre griego y madre judía. Su madre, Eunice, y su abuela, Loida, también eran creyentes (2 Timoteo 1:5).[^2] 
+
+##### Su madre y abuela lo habían instruido en el conocimiento de las Sagradas Escrituras. 2 Timoteo 3:15
+
+##### Timoteo fue discipulado por Pablo (1 Timoteo 1:2). En Hechos 16:1-5, aprendemos que Timoteo tenía buen testimonio delante de los hermanos de Listra e Iconio.
+
+##### Su labor incluía la proclamación del evangelio, la enseñanza, la lectura de las Escrituras, el nombramiento de ancianos y diáconos, y la oposición a las falsas enseñanzas. Pablo le escribió, probablemente desde Macedonia, para animarlo en su fiel servicio a Cristo. 1 Timoteo 1:18[^2]
+
+##### Timoteo cumplió algún tiempo en la cárcel por la fe, y luego fue liberado (Hebreos 13:23).
+
 ## Tema Principal
 
 ### El tema principal de la carta: Como establecer y conducir una iglesia como columna y sostén de la verdad apta para resistir la falsa enseñanza.
@@ -100,7 +128,7 @@ Title: 1 Timoteo
 
 ### En resumen, podemos decir que Pablo le escribió a Timoteo por su inmenso amor y aprecio por Timoteo y la obra que había sido llamado a realizar al servicio del Señor Jesús. A través de esta carta Timoteo podía enseñar a los hermanos en Efeso y nosotros aprendemos también. 
 
-La carta de Timoteo no es solo para líderes. La carta de Timoteo es para que todo creyente sepa como conducirse en la casa de Dios. 
+### La carta de Timoteo no es solo para líderes. La carta de Timoteo es para que todo creyente sepa como conducirse en la casa de Dios. 
 
 # La iglesia: el cuerpo de Cristo y casa del Dios vivo
 
