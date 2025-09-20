@@ -1256,83 +1256,87 @@ Title: 1 Timoteo
 
 #### Una mujer piadosa se salvaría de ser engañada y caer en transgresión, cumpliendo con el rol específico que Dios diseño para ella.
 
-##### Las mujeres tienen el rol de tener ó engendrar hijos (claramente no es dado este rol a los hombres).
+##### Las mujeres cumplen el rol biológicamente de tener ó engendrar hijos (claramente no es dado este rol a los hombres).
 
-##### Conlleva una bendición especial, única para las mujeres de parte de Dios. 
+##### El tener hijos conlleva una gran bendición especial y única para las mujeres de parte de Dios. 
 
-##### Dentro de cada mujer esta el propósito especial de tener hijos y criarlos en piedad. esto viene de parte de Dios como santificación para ellas. que te parece chico?
+##### Dentro de cada mujer esta el propósito especial de tener hijos y criarlos en piedad.
 
-Dentro de este propósito está tambien criarlos en piedad.
+#### Como una mujer puede ser santificada en esto?
 
-La mujer que recibe esta instrucción y lo toma por la fe. 1 Timothy 5:14, 1:5, 1:14
+##### Entendiendo que es parte del propósito que Dios tiene para hombres y mujeres es fructificad y multiplicaos. Génesis 1:28, 9:7.
 
-Esta mujer puede tomar esta instrucción por la fe, y cumplir con el rol designado por Dios a las mujeres y ser santificada en el proceso.
+##### Las mujeres pueden recibir esta instrucción y lo tomarlo por la fe, entendiendo que es parte del propósito de Dios para la familia, y ser santificadas en el proceso. 1 Timoteo 5:14; 1:5.
 
-Ser salva del engaño de satanás.
+#### Dios le da a la mujer piadosa en la familia y con sus hijos un propósito en su vida, el cual también va de criarlos en piedad y sabiduría. Proverbios 31:10-31, 19:14, 12:4, 14:1.
 
-En el caso de las solteras como se salvarían las solteras si no tienen un esposo para engendrar hijos y salvarse?
+#### En el caso de las mujeres solteras, ¿Cómo se salvarían si no tienen un esposo para engendrar hijos?
 
-Sujetándose a sus autoridades como cabezas en la iglesia- revisión--
+##### La mujer soltera puede dedicarse completamente a las cosas del Señor. 1 Corintios 7:34-35.
 
+### 1 Timoteo 2:15b "...*si permanece en fe,*...  Podemos ver esta condicional en el andar de una mujer creyente.
 
+#### La palabra permanece [MENO] significa mantener, persistir, perseverar, se encuentra en tiempo aoristo activo subjuntivo, enfatizando que es el deseo que lo haga así.
 
-Viene la condicional SI
+#### Si permanece en fe, enfatizando el deseo de mantenerse en la fe, será de provecho para su santificación.
 
-### 1 Timoteo 2:15b "...*si permanece en fe,*...
+### 1 Timoteo 2:15c "*si permanece en...amor y santidad,*... " Este amor y santidad no provienen de esfuerzo propio o autodeterminación, sino es el resultado de un andar continuo en la fe, 
 
-### 1 Timoteo 2:15c ...*amor y santidad,*... 
+#### Entendemos que no podemos producir amor, sin embargo vemos que son frutos del espíritu en el creyente. Gálatas 5:22-25.
 
-### 1 Timoteo 2:15d ...*con modestia*..." 
+#### La santidad es el deseo en el cual Dios quiere que andemos. Hebreos 12:14. 1 Tesalonicenses 4:3.
 
-### 
+### 1 Timoteo 2:15d ...*con modestia*..." La palabra modestia expresa cordura de mente, dominio propio o sensatez.
 
 ## En Síntesis (1 Timoteo 2:1-15)
 
-### Pablo escribe sobre la adoración apropiada de Dios.
+### Pablo escribe sobre la adoración apropiada a Dios para hombres y mujeres que profesan piedad.
 
 ### Pablo insta grandemente a orar por:
 
-#### Todos los hombres. 1 Timoteo 2:1
+#### Todos los hombres. 1 Timoteo 2:1.
 
-#### Por todos los que estan en autoridad en la sociedad. 1 Timoteo 2:2a
+#### Por todos los que están en autoridad en la sociedad. 1 Timoteo 2:2a.
 
-#### Para que los creyentes puedan vivir en piedad y honesta delante de Dios y vista por los hombre. 1 Timoteo 2:2b
+#### Para que los creyentes puedan vivir en piedad y honesta delante de Dios y vista por los hombre. 1 Timoteo 2:2b.
 
-### Dios el Salvador ve esto como bueno ¿Porqué? 1 Timoteo 2:3 
+### Pablo expresa lo que es bueno y agradable ante Dios. 1 Timoteo 2:3. 
 
-#### Dios quiere que todo hombre sea salvo. 1 Timote 2:4a
+#### Dios quiere que toda la humanidad sean salva. 1 Timoteo 2:4a.
 
-#### Dios quiere que todo salvo crezca en el conocimiento de Su verdad. 1 Timote 2:4b
+#### Dios quiere que todo creyente crezca en el conocimiento de la verdad. 1 Timoteo 2:4b.
 
 #### Esto Dios lo hace por medio del andar piadoso de sus creyentes
 
-### El Mediador (1 Timoteo  2:5): Jesucristo intercede entre Dios y las personas.
+### Tenemos un sólo mediador (Jesucristo) el cual intercede entre Dios y las personas. 1 Timoteo  2:5
 
-### El método (1 Timoteo 2:6): La salvación se efectuó por la muerte de Cristo.
+### Tenemos un medio para la salvación que el efectuó, por la muerte de Cristo. 1 Timoteo 2:6.
 
-### Un mensajero (1 Timoteo 2:7): Pablo ha sido elegido por Dios para servir como apostol a los gentiles.
+### Pablo constituido un apóstol elegido por Dios para servir como predicador y maestro a los gentiles.1 Timoteo 2:7.
 
-### Un muestra de una andar de piedad por el creyente varon. 1 Timoteo 2:8
+### Una muestra de un andar de piadoso para los creyentes varones. 1 Timoteo 2:8
 
-### La mujer piadosa. 1 Timoteo 2:9-15
+### Una muestra de un andar para las mujeres que profesan piedad. 1 Timoteo 2:9-15
 
-#### Sus responsabilidades. 1 Timoteo 2:9-11
+#### La expresión piadosa, no material. 1 Timoteo 2:9-11.
 
-##### En materia de vestimenta (1 Timoteo 2:9-10): Debe vestirse modestamente como alguien que profesa adorar a Dios.
+##### En materia de vestimenta: Debe vestirse modestamente como alguien que profesa adorar a Dios. 1 Timoteo 2:9-10.
 
-##### En cuestiones de actitud (1 Timoteo 2:11): Debe escuchar y aprender en silencio y con humildad.
+##### En cuestiones de actitud: Debe escuchar y aprender en silencio y con humildad. 1 Timoteo 2:11.
 
-#### Sus restricciones. 1 Timoteo 2:12-14
+#### Los roles dentro de la congregación y sus limitantes. 1 Timoteo 2:12-14.
 
-##### La regla (1 Timoteo 2:12): A la mujer no se le permite enseñar o tener autoridad sobre un hombre.
+##### El rol de la mujer dentro de la congregación no es enseñar públicamente o tener autoridad sobre el hombre. 1 Timoteo 2:12.
 
-##### La razón (1 Timoteo 2:13-14): Se dan dos factores.
+##### Pablo toma dos ejemplos de la creación para mostrar el orden de los roles en la iglesia. 1 Timoteo 2:13-14
 
-###### El factor de la creación original (1 Timoteo 2:13): Adán fue creado antes que Eva.
+###### El orden de la creación y su responsabilidad: Adán fue creado antes que Eva.1 Timoteo 2:13
 
-###### El factor de la corrupción original (1 Timoteo 2:14): Adán no fue engañado por Satanás como lo fue el mujer.
+###### El problema de la corrupción original: Adán no fue engañado por Satanás como lo fue el mujer.1 Timoteo 2:14
 
-#### Su redención (1 Timoteo 2:15): Ella estará siendo salva (santificada) a través de la maternidad. Viviendo en fe, amor, santidad y modestia.
+#### La redención: Ella estará siendo salva (santificada) a través de la maternidad. Viviendo en fe, amor, santidad y modestia. 1 Timoteo 2:15.
+
+##### Así es como una mujer que profesa piedad puede ser salva del engaño de satanás, en el que cayó Eva también.
 
 # 1 Timoteo 3:1-16 - Lideres en la iglesia
 
