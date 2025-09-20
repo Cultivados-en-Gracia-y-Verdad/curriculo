@@ -2691,7 +2691,7 @@ vivimos engañandonos a nosotros mismos. 1 Juan 1:8
 
 ### Por qué deberían hacerlo (1 Timoteo 6:19): Dios los recompensará tanto en la tierra como en el cielo.
 
-### Rechaza las filosofías ateas. 1 Timoteo 6:20b-21
+### Rechaza lo que el mundo y el creyente engañado llama sabiduría y aferrate al misterio de la piedad, la persona de Jesucristo. 1 Timoteo 6:20b-21
 
 [^1]: Robertson Word Pictures
 [^2]: BibleRef, 1 Timothy, https://www.bibleref.com/1-Timothy/index.html
