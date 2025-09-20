@@ -1876,7 +1876,9 @@ Viene la condicional SI
 
 ### 1 Timoteo 4:14a "*No descuides el don espiritual que está en ti*" ¿Cual era el don de Timoteo? Hay indicaciones que era el de evangelista. En el contexto inmediato, entenderiamos ese don a ser uno de enseñanza. 
 
-#### Don [CARISMA]
+#### La palabra "*don*" [CARISMA] - significa un presente dado como señal de favor benéfico. Este no era un don natural como un talento. Era un don espiritual. 
+
+#### Cada creyente tiene al menos un don [CARISMA]...
 
 ### 1 Timoteo 4:14b "*que te fue conferido por medio de la profecía con la imposición de manos del presbiterio*". No fué el presbiterio que le dieron el don. Ellos simplemente lo encomendaron al ministerio, haciendo publico su don.
 
@@ -1900,7 +1902,7 @@ Viene la condicional SI
 
 ### 1 Timoteo 4:16c "*porque haciéndolo asegurarás la salvación*" ¿Por que continuar? Porque el provecho vendría de Dios. 
 
-#### Asegurar la salvacion, no esta referido a salvacion eterna, todo creyente esta asegurado etermanente, Colosenses 3:3
+#### Asegurar la salvacion, no esta referido a salvacion eterna, todo creyente esta asegurado etermanente. Colosenses 3:3
 
 #### Mas bien observemos la preosicion "haciendolo", ¿Que debia hacer?. 
 
@@ -1946,7 +1948,7 @@ Viene la condicional SI
 
 #### Timoteo debía ser ejemplo en palabra, conducta y amor también con los mayores y a los que debía reprender, no debía reprenderlos con dureza. 
 
-#### En ejemplo de amor, Timoteo debía animar a los mayores de la congregación como si fuera su propio padre, ya que a ningún hijo le gustaría ver a su padre siendo humillado con palabras que golpean. 2 Timoteo 2:25.
+#### En ejemplo de amor, Timoteo debía animar a los mayores de la congregación como si fuera su propio padre, ya que a ningún hijo le gustaría ver a su padre siendo humillado con palabras que golpean. 2 Timoteo 2:25
 
 ## Sobre los jóvenes
 
@@ -1998,11 +2000,11 @@ Viene la condicional SI
 
 ### No significa que existen viudas que son falsas, sino se refiere a las viudas que no tiene ningún apoyo y están completamente solas y sin ayuda. 
 
-### 1 Timoteo 5:3 “*Sean solidarios con las viudas que realmente estén desamparadas. *”
+### 1 Timoteo 5:3 “*Sean solidarios con las viudas que realmente estén desamparadas*”.
 
-### En el antiguo testamento Dios siempre mostro tener amor y cuidado por las mujeres que son viudas. Exodo 22:22; Deuteronomio 24:21.
+### En el antiguo testamento Dios siempre mostro tener amor y cuidado por las mujeres que son viudas. Exodo 22:22; Deuteronomio 24:21
 
-### También mostraba protección y hacia justicia por las mujeres viudas, ya que Dios mismo conoce la necesidad y la fragilidad de una mujer que está completamente desamparada. Deuteronomio 10:18; Deuteronomio 24:17; Salmo 68:5.
+### También mostraba protección y hacia justicia por las mujeres viudas, ya que Dios mismo conoce la necesidad y la fragilidad de una mujer que está completamente desamparada. Deuteronomio 10:18; Deuteronomio 24:17; Salmo 68:5
 
 ### 1 Timoteo 5:4a "*Pero si alguna viuda tiene hijos o nietos*", Entonces si una mujer viuda tiene hijos o nietos ella no esta desamparada, sino más bien, tiene hijos o nietos que pueden cuidar de ella.
 
@@ -2012,7 +2014,7 @@ Viene la condicional SI
 
 #### Estos deben aprender del misterio de la piedad y manifestar su amor a los miembros de su propia familia.
 
-### 1 Timoteo 5:4c "*porque esto es agradable delante de Dios*". Ya que Dios mismo establecio el cuidado de las mujeres viudas, que un hijo o un nieto cuide de su propia familia le agrada a Dios. Isaías 1:17.
+### 1 Timoteo 5:4c "*porque esto es agradable delante de Dios*". Ya que Dios mismo establecio el cuidado de las mujeres viudas, que un hijo o un nieto cuide de su propia familia le agrada a Dios. Isaías 1:17
 
 ### 1 Timoteo 5:5 "*Sin embargo la que en verdad es viuda y se ha quedado sola, tiene puesta su esperanza en Dios y continúa en súplicas y oraciones noche y día*".
 
@@ -2028,7 +2030,7 @@ Viene la condicional SI
 
 #### 1 Timoteo 5:5d “*…y continúa en súplicas…*” otra carectistica que sobresale es que la que en verdad es viuda continua en suplicas.
 
-#### La palabra continua “PROSMENO” es un verbo que está en tercera persona, lo que significa que ella realiza suplicas no para sí misma, sino que sus rogativas son por otros miembros de la iglesia, o incluso por los todos. 1 Timoteo 2:1-3.
+#### La palabra continua “PROSMENO” es un verbo que está en tercera persona, lo que significa que ella realiza suplicas no para sí misma, sino que sus rogativas son por otros miembros de la iglesia, o incluso por los todos. 1 Timoteo 2:1-3
 
 #### 1 Timoteo 5:5e “*…y oraciones noche y día*". La que en verdad es viuda es dedicada a la oración, pidiendo noche y día por los demás y no para si misma.
 
@@ -2062,19 +2064,19 @@ Viene la condicional SI
 
 #### Un creyente que no considera su realidad, de estar muerto al pecado y vivo para Dios Romanos 6:11 y que tampoco se presenta a Dios como vivo de entre los muertos Romanos 6:13, es dominado por el pecado.
 
-#### Habiéndose presentado el creyente al pecado, resulta en muerte, y posteriormente se ve manifestado en pecados visibles. Un andar que no es según piedad. Romanos 6:16; Gálatas 5:19-21.
+#### Habiéndose presentado el creyente al pecado, resulta en muerte, y posteriormente se ve manifestado en pecados visibles. Un andar que no es según piedad. Romanos 6:16; Gálatas 5:19-21
 
 #### La manifestación del pecado es porque el creyente dejo de andar en la provisión de Dios, que es por el Espíritu Santo y es de esa manera que su andar está satisfaciendo la carne. Gálatas 5:16-17
 
 #### Por lo cual, cualquier creyente que anda por la carne, tarde o temprano, las obras de la carne se manifestarán de manera visible los cuales indudablemente serán manifestación de pecados. Gálatas 5:19-21
 
-#### La muerte no viene cuando los pecados son manifestados, sino que la muerte se produjo antes cuando el creyente se presentó al pecado y resulto en muerte. Romanos 6:16; Santiago 1:15.
+#### La muerte no viene cuando los pecados son manifestados, sino que la muerte se produjo antes cuando el creyente se presentó al pecado y resulto en muerte. Romanos 6:16; Santiago 1:15
 
 #### Entonces podemos ver que la mujer viuda que se ha entregado a los placeres desenfrenados, viviendo (salva de la pena del pecado); está muerta (no está siendo salva en tiempo presente del poder del pecado).
 
 ### 1 Timoteo 5:7 "*Ordena también estas cosas, para que sean irreprochables*". Esta es una labor importante en la iglesia de Dios, ya que Dios en ningún momento ve agradable el pecado. Romanos 6:15
 
-#### Nunca la gracia va asociado con seguir pecando, es más ir por el pecado es en contra de la gracia de Dios, ya que la gracia es que nos enseña a vivir un vida libre de los placeres desenfrenados Tito 1:12.
+#### Nunca la gracia va asociado con seguir pecando, es más ir por el pecado es en contra de la gracia de Dios, ya que la gracia es que nos enseña a vivir un vida libre de los placeres desenfrenados. Tito 1:12
 
 #### Timoteo debía ordenar también estas cosas para que por medio de la provisión de la gracia de Dios todo miembro de la iglesia sea irreprochable en su andar diario. 2 Pedro 1:8-9
 
