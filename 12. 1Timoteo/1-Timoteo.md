@@ -2595,7 +2595,7 @@ vivimos engañandonos a nosotros mismos. 1 Juan 1:8
 
 ## Los Ricos
 
-### 1 Timoteo 6:17a  "*A los ricos en este mundo,*" Pablo no esta hablando a todos los ricos del mundo, sino a creyentes ricos. 
+### 1 Timoteo 6:17a "*A los ricos en este mundo,*" Pablo no esta hablando a todos los ricos del mundo, sino a creyentes ricos. 
 
 #### Pablo dió un calificativo para aclarar valores al llamarlos ricos "en este mundo". Según el mundo, el dinero es riqueza. Sin embargo, Santiago nos dice que los pobres son ricos. Ricos en fe. Santiago 2:5
 
@@ -2613,13 +2613,17 @@ vivimos engañandonos a nosotros mismos. 1 Juan 1:8
 
 #### Hay un riqueza incomparable en Dios para nosotros, el nos da abundantemente todas las cosas, esto no habla necesariamente de que seremos prosperos economicamente, mas bien de abundancia de su persona en Plenitud, El quiere que DIsfrutemos de todas las cosas que temos en Cristo.
 
-### 1 Timoteo 6:18a "*Enséñales que hagan bien,*" Timoteo debía enseñarles a ocuparse en cosas que tienen que ver con hacer bien. TIto 3:8; Gálatas 6:10
+### 1 Timoteo 6:18a "*Enséñales que hagan bien,*" Timoteo debía enseñarles a ocuparse en cosas que tienen que ver con hacer bien. Tito 3:8; Gálatas 6:10
 
 ### 1 Timoteo 6:18b "*que sean ricos en buenas obras,*" Tito 2:14
 
-### 1 Timoteo 6:18c "*generosos*" Proverbios 3:28; 
+#### El sentido de ser ricos en buenas obras es a abundar en buenas obras.
 
-### 1 Timoteo 6:18d "*y prontos a compartir,*" Filipenses 4:14; Romanos 12:13; Hebreos 13:16
+### 1 Timoteo 6:18c "*generosos*" Pueden abundar en generosidad. Proverbios 3:28; 
+
+### 1 Timoteo 6:18d "*y prontos a compartir,*" Normalmente los ricos tienden a ser avaros, vemos el contraste en estos creyente al ser prontos en compartir. Filipenses 4:14; Romanos 12:13; Hebreos 13:16
+
+#### Compartir es el opuesto a acumular (retener), en esto vemos como una esperanza puesta en Dios que nos da abundatemente nos anima a compartir de lo que recibimos. 
 
 ### 1 Timoteo 6:19a "*acumulando para sí el tesoro*" Puede ir acumulando un tesoro para si en los cielos por compartir y participar en buenas obras. Mateo 6:20; Proverbios 11:25
 
@@ -2629,7 +2633,9 @@ vivimos engañandonos a nosotros mismos. 1 Juan 1:8
 
 #### En la eternidad, los que serán incalculablemente ricos, son aquellos que invirtiéron en el futuro. Pusieron su inversión en cosas eternas y no de este mundo. 
 
-### 1 Timoteo 6:19c "*para que puedan echar mano de lo que en verdad es vida.*" 1 Pedro 1:4; 2 Timoteo 2:1; 1 Juan 2:25
+### 1 Timoteo 6:19c "*para que puedan echar mano de lo que en verdad es vida.*" Los ricos pueden estar tomando provecho de lo en verdad es vida. 1 Pedro 1:4; 2 Timoteo 2:1; 1 Juan 2:25
+
+#### La verdadera vida no son las riquezas o lo material, "Es Cristo", Cristo viendo a traves de nosotros, ejercitandonos en toda piedad haciendo bien entre los mienbros del cuerpo de Cristo.
 
 ## Timoteo, antes de despedirme
 
