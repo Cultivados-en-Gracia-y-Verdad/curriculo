@@ -35,7 +35,7 @@ www.discipuladocgv.org
 | La Iglesia: Información General                              |      |
 | Características Distintivas de la Iglesia del Nuevo Testamento |      |
 | 1 Timoteo 1:1-2 - Saludos e Información Biográfica           |      |
-| 1 Timoteo 1:3-20 - Batallando por la Gracia                  |      |
+| 1 Timoteo 1:3-20 - Batallando por la Verdad                  |      |
 | Breve Doctrina sobre la Disciplina en la Iglesia             |      |
 | 1 Timoteo 2:1-15 - Instrucción Sobre la Adoración            |      |
 | 1 Timoteo 3:1-16 - Instrucción en la selección de líderes en la iglesia |      |
@@ -236,7 +236,7 @@ www.discipuladocgv.org
 
 #### 2 Timoteo 1:9 "*Él nos ha salvado...según Su propósito y según la gracia que nos fue dada en Cristo Jesús desde la eternidad*"
 
-### 1 Corintios 1:9 "*...fueron llamados a la comunión con Su Hijo Jesucristo...*"
+#### 1 Corintios 1:9 "*...fueron llamados a la comunión con Su Hijo Jesucristo...*"
 
 #### Aunque vivimos en el mundo y somos __<u>parte</u>__ de él, la iglesia debe ser distinta. Debemos estar separados de los caminos del mundo y señalar la verdad de Dios. Filipenses 2:12-16
 
@@ -264,9 +264,11 @@ www.discipuladocgv.org
 
 ### Representaciones __<u>locales</u>__:
 
-#### 1 Corintios 1:2 "*a la iglesia de Dios que está __<u>en Corinto</u>__, a los que han sido santificados en Cristo Jesús...*"
+#### La Iglesia universal se ve expresada de forma local, en una ciudad, una comunidad o aldea. 
 
-#### Romanos 1:7 "*A todos los amados de Dios que están __<u>en Roma</u>__...*"
+##### 1 Corintios 1:2 "*a la iglesia de Dios que está __<u>en Corinto</u>__, a los que han sido santificados en Cristo Jesús...*"
+
+##### Romanos 1:7 "*A todos los amados de Dios que están __<u>en Roma</u>__...*"
 
 #### ¿Cuando se concidera establecida un iglesia local?
 
@@ -285,8 +287,6 @@ www.discipuladocgv.org
 # 1 Timoteo 1:1-2 - Saludos 
 
 ## Autor de la carta: Un Apóstol de Jesucristo
-
-### 1 Timoteo 1:1 "*Pablo, apóstol de Cristo Jesús por mandato de Dios nuestro Salvador, y de Cristo __<u>Jesús</u>__ nuestra esperanza*" 
 
 ### 1 Timoteo 1:1a "*Pablo...*" Vemos el nombre de Pablo como __<u>firma</u>__ de esta epístola. 1 Timoteo 1:13, 15, 2:7
 
@@ -352,11 +352,11 @@ www.discipuladocgv.org
 
 ##### 1 Pedro 1:3 "*Jesucristo es por medio de __<u>quien</u>__ tienes una esperanza viva, porque Él vive*".
 
-##### Romanos 5:1-2 "*Jesucristo es por __<u>medio</u>__ de quien has sido declarado justo delante del Padre y ahora puedes gozarte en la esperanza de Su Gloria*".
+##### Romanos 5:2 Jesucristo es... "*por __<u>medio</u>__ de quien has sido declarado justo delante del Padre y ahora puedes gozarte en la esperanza de Su Gloria*".
 
 ## Receptor de la carta: El bien amado de Pablo
 
-### 1 Timoteo 1:2a "*a Timoteo, verdadero hijo en la fe:...*" Timoteo un creyente en Jesucristo y también el hijo espiritual __<u>amado</u>__ de Pablo.
+### 1 Timoteo 1:2a "*a Timoteo, verdadero hijo en la fe...*" Timoteo un creyente en Jesucristo y también el hijo espiritual __<u>amado</u>__ de Pablo.
 
 #### Timoteo estaría con Pablo durante su __<u>primer</u>__ encarcelamiento en Roma. Sin embargo, al momento de la escritura de 1 Timoteo, el joven Timoteo se encontraba en Éfeso, sirviendo como evangelista entre las diversas iglesias domésticas que existían en ese entonces. 1 Timoteo 1:3
 
@@ -384,6 +384,8 @@ www.discipuladocgv.org
 
 #### De las numerosas instrucciones y mandatos que Pablo da a Timoteo en esta epístola, es evidente que Pablo lo tenía en alta __<u>estima</u>__.
 
+## 1 Timoteo 1:2b-2f El Saludo
+
 ### 1 Timoteo 1:2b "*Gracia...*" es la palabra CHARIS en griego. Significaba varias cosas en el primer siglo __<u>como</u>__ veremos a continuación. 
 
 #### El uso de la palabra __<u>gracia</u>__ en el griego del primer siglo abarca cuatro sentidos principales. 
@@ -410,7 +412,7 @@ www.discipuladocgv.org
 
 ##### Dios nos llama por __<u>medio</u>__ de la gracia. Hechos 18:27; Gálatas 1:6, Colosenses 1:6, 2 Timoteo 1:9
 
-##### La salvación por gracia - buena voluntad libremente difundida (por Dios); es especialmente __<u>para</u>__ beneficio del receptor y es independiente del beneficio acumulado para el difundidor.[^9] Efesios 2:8; Hechos 15:11
+##### La salvación es por gracia - buena voluntad libremente difundida (por Dios); es especialmente __<u>para</u>__ beneficio del receptor y es independiente del beneficio acumulado para el difundidor.[^9] Efesios 2:8; Hechos 15:11
 
 ###### Somos justificados libremente por su __<u>gracia</u>__. Romanos 3:24; Tito 3:7
 
@@ -430,6 +432,8 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 1:2c "*misericordia*..." Esta palabra, ELEOS, también __<u>puede</u>__ ser traducido compasión. 
 
+#### Mientras que la gracia es recibir gratuitamente lo que uno no merece, la misericordia es no recibir lo que si merece. 
+
 #### Podríamos decir que es la manifestación externa de la compasión; da por sentado la necesidad en __<u>aquel</u>__ que la recibe, y recursos adecuados para afrontar la necesidad de parte de aquel que la exhibe.
 
 #### La mayor muestra de misericordia de __<u>nuestro</u>__ Dios es no dar el castigo que merecemos por nuestras injusticias. Y esta misericordia es por medio de la persona y obra de Jesucristo. Tito 3:5-7
@@ -446,9 +450,9 @@ www.discipuladocgv.org
 
 ### La expresión de Pablo __<u>indica</u>__ que deseaba que Timoteo pudiera experimentar más plenamente la gracia, misericordia y paz de Dios. 
 
-# 1 Timoteo 1:3-20 - Batallando por la Gracia
+# 1 Timoteo 1:3-20 - Batallando por la Verdad
 
-## 1 Timoteo 1:1-4 El apartarse de la instrucción bíblica
+## 1 Timoteo 1:1-4 Enseña que no enseñen doctrinas extrañas
 
 ### 1 Timoteo 1:3a "*Tal como te rogué al salir para Macedonia que te quedaras en Éfeso*..." Evidentemente, al salir para Macedonia, Pablo había __<u>rogado</u>__ a Timoteo que se quedara en Éfeso. Hechos 18:21
 
@@ -504,7 +508,7 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 1:5b "*es el amor*". El propósito de la instrucción es el amor. Una instrucción sana, verdaderamente __<u>bíblica</u>__ llevará al amor. 
 
-#### Sin instrucción de la __<u>verdad</u>__, no puede haber amor. 
+#### Sin instrucción de la __<u>verdad</u>__, no puede haber verdadero amor. 
 
 #### Pablo no enseñaba por enseñar cosas interesantes para llevarlos a discusiones que alimentan la __<u>carne</u>__. Sus intenciones en enseñar la verdad eran para beneficio de los hermanos. Por medio de la instrucción tendrían amor. 
 
@@ -586,7 +590,7 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 1:8b "*...si uno la usa legítimamente.*" La ley puede ser __<u>usada</u>__ de manera legitima, asi como ilegitima.
 
-#### La ley consta de un __<u>uso</u>__ y propósito según las escrituras. Romanos 3:20; Galatas 3:23-25 
+#### La ley consta de un __<u>uso</u>__ y propósito según las escrituras. Romanos 3:20; Gálatas 3:23-25 
 
 ### 1 Timoteo 1:9a "*Reconozcamos esto: que la ley no ha sido instituida para el justo*" Podemos ver algo de __<u>manera</u>__ clara en este versículo, la ley no esta dada para el justo (creyente). Romanos 6:14
 
@@ -632,7 +636,7 @@ www.discipuladocgv.org
 
 #### Si cambiamos el evangelio, __<u>deja</u>__ de haber una enseñanza saludable para la iglesia.
 
-### 1 Timoteo 1:11b "*que me ha sido encomendado*" Jesucristo encomendo el mensaje del evangelio a __<u>Pablo</u>__. Galatas 1:11-12
+### 1 Timoteo 1:11b "*que me ha sido encomendado*" Jesucristo encomendo el mensaje del evangelio a __<u>Pablo</u>__. Gálatas 1:11-12
 
 ## En Síntesis (1 Timoteo 1:8-11)
 
@@ -670,7 +674,7 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 1:13a "*aun habiendo sido yo antes blasfemo, perseguidor y agresor...*" Pablo era religiosamente __<u>fariseo</u>__. Había ascendido más que sus co-iguales. Era entregado (fiel) a lo que se dedicaba. ¡Y hacía todo en nombre de Dios! 
 
-#### Sin embargo, ahora desde la perspectiva divina, Pablo ve que era blasfemo (difamador), perseguidor y __<u>agresor</u>__ (violento a creyentes inocentes). Galatas 1:13
+#### Sin embargo, ahora desde la perspectiva divina, Pablo ve que era blasfemo (difamador), perseguidor y __<u>agresor</u>__ (violento a creyentes inocentes). Gálatas 1:13
 
 ### 1 Timoteo 1:13a "*Sin embargo, se me mostró misericordia porque lo hice por ignorancia en mi incredulidad...*" Pablo estaria recibiendo misericordia al ser encomendado como Apóstol __<u>para</u>__ proclamar y enseñar el evangelio.
 
