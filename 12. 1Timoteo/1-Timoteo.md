@@ -153,6 +153,11 @@ www.discipuladocgv.org
 
 ### La carta de Timoteo no es __<u>solo</u>__ para líderes. La carta de Timoteo es para que todo creyente sepa como conducirse en la casa de Dios. 
 
+## Bosquejo del libro
+| Capítulo 1                                                   | Capítulo 2                          | Capítulo 3                            | Capítulo 4                            | Capítulo 5-6                             |
+| ------------------------------------------------------------ | ----------------------------------- | ------------------------------------- | ------------------------------------- | ---------------------------------------- |
+| 1 Timoteo 1:1-2 Saludos   1 Timoteo 1:3-10 Batallando por la gracia | 1 Timoteo 2:1-15 Sobre la adoración | 1 Timoteo 3:1-16 Selección de Líderes | 4:1-16 Protección contra la Apostacía | 5:1-6:21 Relaciones dentro de la Iglesia |
+
 # La iglesia: el cuerpo de Cristo y casa del Dios vivo
 
 ## Introducción
@@ -209,7 +214,7 @@ www.discipuladocgv.org
 
 #### El mundo (incrédulos) no puede recibir el Espíritu Santo, solo aquellos que han creído en la __<u>obra</u>__ de Jesucristo lo reciben. Efesios 1:13; Juan 14:17; Romanos 8:16
 
-##### Efesios 1:13 "*En Él también ustedes, después de escuchar el mensaje de la verdad, el evangelio de su salvación, y habiendo creído, fueron sellados en Él con el Espíritu Santo de la promesa,*"
+##### Efesios 1:13 "*En Él también ustedes, después de escuchar el mensaje de la verdad, el evangelio de su salvación, y habiendo creído, **fueron sellados en Él con el Espíritu Santo de la promesa**,*"
 
 #### El ministerio del Espiritu Santo en el creyente seria de enseñar y recordar todas las __<u>cosas</u>__ que el Señor Jesucristo había dicho a sus discipulos. Juan 14:26
 
@@ -223,9 +228,9 @@ www.discipuladocgv.org
 
 ### Hechos 1:8b "*...y serán __<u>Mis</u>__ testigos en Jerusalén, en toda Judea y Samaria, y hasta los confines de la tierra».*“ Con la llegada del Espíritu Santo Dios identificó a todo creyente como testigos de la obra de Jesucristo. Hechos 2:37-39; Juan 17:16; Juan 17:20
 
-#### __<u>Todo</u>__ creyente ha sido incluido para participar en lo que esta haciendo el Espíritu Santo de alcanzar al mundo perdido por medio de la predicación del evangelio. Romanos 1:9; Filipenses 1:27
+#### __<u>Todo</u>__ creyente ha sido incluido para participar en lo que esta haciendo el Espíritu Santo por medio de la iglesia de alcanzar al mundo perdido por medio de la predicación del evangelio. Romanos 1:9; Filipenses 1:27
 
-#### Juan 16:8-10 "*Y cuando él venga, convencerá al mundo de pecado, de justicia y de juicio. De pecado, por cuanto no creen en mí; de justicia, por cuanto voy al Padre, y no me veréis más; y de juicio, por cuanto el príncipe de este mundo ha sido ya juzgado.*".
+#### Juan 16:8-10 "*Y cuando él venga, convencerá al mundo de pecado, de justicia y de juicio. De pecado, por cuanto no creen en mí; de justicia, por cuanto voy al Padre, y no me veréis más; y de juicio, por cuanto el príncipe de este mundo ha sido ya juzgado*".
 
 ### Concluimos entonces que la fundación y el __<u>inicio</u>__ de la iglesia fue con la llegada del Espíritu Santo.
 
@@ -243,9 +248,9 @@ www.discipuladocgv.org
 
 ### Hoy, la iglesia es el __<u>agente</u>__ que Dios esta usando para alcanzar a todas las naciones, incluyendo a la nación de Israel ya que el evangelio es el mensaje de Dios para todo el mundo. Romanos 11:14, 1:14; 1:16
 
-#### Efesios 3:10-11: "*para dar a conocer ahora a los principados y a las potestades en los cielos las múltiples formas de la sabiduría de Dios, por __<u>medio</u>__ de la Iglesia, conforme al plan eterno que ha realizado por medio de Cristo Jesús, Señor nuestro,*"
+#### Efesios 3:10-11- "*para dar a conocer ahora a los principados y a las potestades en los cielos las múltiples formas de la sabiduría de Dios, por __<u>medio</u>__ de la Iglesia, conforme al plan eterno que ha realizado por medio de Cristo Jesús, Señor nuestro,*"
 
-#### 1 Timoteo 3:15b: "*...Es la iglesia del Dios vivo, __<u>columna</u>__ y sostén de la verda*"
+#### 1 Timoteo 3:15b - "*...Es la iglesia del Dios vivo, __<u>columna</u>__ y sostén de la verda*"
 
 ### Es de __<u>notar</u>__ que el Apóstol Pedro no hace mención de iniciar la iglesia o que sea el Apóstol Pedro la cabeza de la iglesia, o como muchos piensan que él sea el primer papa.
 
@@ -265,9 +270,11 @@ www.discipuladocgv.org
 
 #### Efesios 5:25 “*…así como Cristo __<u>amó</u>__ a la iglesia y se dio Él mismo por ella,*”
 
-#### Cristo en la cruz no solo nos __<u>rescató</u>__ de la condena del pecado, sino que Él se dio por la iglesia con un propósito Efesios 5:26 “*para santificarla, habiéndola purificado por el lavamiento del agua con la palabra,*”.
+#### Cristo en la cruz no solo nos __<u>rescató</u>__ de la condena del pecado, sino que Él se dio por la iglesia con un propósito. 
 
-#### Efesios 5:27 a fin de presentársela a sí mismo, __<u>una</u>__ iglesia en toda su gloria, sin que tenga mancha ni arruga ni cosa semejante, sino que fuera santa e inmaculada.
+#### Efesios 5:26 “*para santificarla, habiéndola purificado por el lavamiento del __<u>agua</u>__ con la palabra,*”.
+
+#### Efesios 5:27 "*a fin de presentársela a sí mismo, __<u>una</u>__ iglesia en toda su gloria, sin que tenga mancha ni arruga ni cosa semejante, sino que fuera santa e inmaculada*".
 
 ### En Hechos 20:28 podemos encontrar que Dios compró la iglesia, mostrando claramente la __<u>deidad</u>__ de Cristo, ya que dice, la compró con Su propia sangre.
 
