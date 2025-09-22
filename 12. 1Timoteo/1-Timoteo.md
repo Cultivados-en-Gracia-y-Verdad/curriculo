@@ -472,11 +472,11 @@ www.discipuladocgv.org
 
 #### Debemos comprender que cualquier tipo de enseñanza que cambie el evangelio o que vaya en __<u>contra</u>__ de la escritura es considerada una doctrina extraña. 1 Corintios 15:3-4; Gálatas 1:6-9
 
-#### La enseñanza en la __<u>iglesia</u>__ no debe provenir de un lugar que no sea La Palabra de Dios correctamente entendida dentro de su contexto. 
+#### La enseñanza en la __<u>iglesia</u>__ no debe provenir de un lugar que no sea, La Palabra de Dios correctamente entendida dentro de su contexto. 
 
 ### 1 Timoteo 1:4a "*ni prestaran atención*..." La observación del __<u>Texto</u>__ bíblico es muy importante. A lo que prestemos atención afectará los resultados de nuestra instrucción. 
 
-#### Prestar atención PROSECHO es dar __<u>atención</u>__ continua a algo, como en una adicción. Es ser llevado a algo. Aparece 4 veces en 1 Timoteo. 1 Timoteo 1:4, 3:8, 4:1, 4:13
+#### Prestar atención PROSECHO es dar __<u>atención</u>__ continua a algo, como alguien que tiene una adicción. Es ser llevado a algo. Aparece 4 veces en 1 Timoteo. 1 Timoteo 1:4, 3:8, 4:1, 4:13
 
 ##### 1 Timoteo 3:8 "*no dados*" PROSECHO "*al vino*". Cuando alguien tiene una adicción al vino su __<u>mente</u>__ esta puesta continuamente en tomar. 
 
