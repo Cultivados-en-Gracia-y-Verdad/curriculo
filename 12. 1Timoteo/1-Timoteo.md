@@ -93,6 +93,8 @@ www.discipuladocgv.org
 
 ### Encontramos esta epístola como la primera __<u>carta</u>__ escrita por el Apóstol Pablo hacia su hijo en la fe, Timoteo. 1 Timoteo 1:1
 
+### La carta de 1 Timoteo fue escrita  por el apóstol Pablo casi al __<u>final</u>__ del ministerio de Timoteo el cual duró aproximadamente 15 años (49d.C. - 64d.C.). Hechos 18:2; 2 Timoteo 4:6
+
 ## Tema Principal
 
 ### El __<u>tema</u>__ principal de la carta: Como establecer y conducir una iglesia como columna y sostén de la verdad apta para resistir la falsa enseñanza.
@@ -296,23 +298,21 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 1:1a "*Pablo...*" Vemos el nombre de Pablo como __<u>firma</u>__ de esta epístola. 1 Timoteo 1:13, 15, 2:7
 
-#### Pablo, anteriormente llamado __<u>Saulo</u>__, nacido en la ciudad de Tarso. Hechos 22:3
+#### Pablo era un hebreo y ciudadano __<u>romano</u>__, anteriormente llamado __<u>Saulo</u>__, nacido en la ciudad de Tarso. Hechos 22:3
 
-#### En su vida como incrédulo fue un fiel religioso __<u>judío</u>__ (Filipenses 3:4-9) y un fiel perseguidor de los del "Camino", la Iglesia de Dios. Hechos 20:4; Gálatas 1:13
+#### En su vida como incrédulo fue un fiel religioso __<u>judío</u>__ (Filipenses 3:4-9) y un fiel perseguidor de los del "Camino", la Iglesia de Dios. Hechos 22:4; Gálatas 1:13
 
 #### En Hechos 9 podemos encontrar __<u>registros</u>__ de su salvación al ver a Cristo resucitado.
 
 #### Hechos 13:9 muestra: "*Entonces __<u>Saulo</u>__, llamado también __<u>Pablo</u>__...*" ahí encontramos que Saulo __<u>pasa</u>__ a ser llamado Pablo durante los días de su primer viaje como apóstol de Cristo hasta el día de su martirio en el año 67 d.C aproximadamente.
 
-### 1 Timoteo 1:1b "*Pablo, apóstol de Cristo Jesús...*" Pablo se describe __<u>como</u>__ un apóstol.
+### 1 Timoteo 1:1b "*Pablo, apóstol de Cristo Jesús...*" Pablo se presenta en esta carta __<u>como</u>__ un apóstol de Jesucristo.
 
-#### Cristo escoge a Pablo __<u>como</u>__ Su Apóstol (enviado, emisario, mensajero) a los gentiles. Hechos 9:15, 22:21; Romanos 11:13; 2 Timoteo 1:11
+#### Cristo escogió a Pablo __<u>como</u>__ Su Apóstol (enviado, emisario, mensajero) a los gentiles. Hechos 9:15, 22:21; Romanos 11:13; 2 Timoteo 1:11
 
-#### Si bien, encontramos __<u>otros</u>__ apóstoles (enviados) mencionados en Las Escrituras. Hechos 14:14; Filipenses 2:25; 2 Corintios 8:23
+#### Podemos también encontrar en la escritura __<u>otras</u>__ personas enviadas. Hechos 14:14; Filipenses 2:25; 2 Corintios 8:23
 
-#### En la Biblia observamos solo __<u>doce</u>__ Apóstoles del Cordero. Apocalipsis 21:14
-
-##### Deducimos que Pablo esta __<u>dentro</u>__ del grupo de los doce Apóstoles del Cordero:
+#### Sin embargo, en toda la escritura observamos __<u>doce</u>__ Apóstoles del Cordero, especificamente enviados por Jesucristo mismo. Apocalipsis 21:14
 
 ###### Escogidos directamente por __<u>nuestro</u>__ Señor Jesucristo. 1 Corintios 9:1-2
 
@@ -320,29 +320,7 @@ www.discipuladocgv.org
 
 ###### Designados como principales autoridades espirituales __<u>bajo</u>__ la autoridad de Cristo. 1 Corintios 12:28
 
-#### 1 Timoteo 1:1c "*...por mandato de Dios nuestro Salvador...*" La iniciativa y la autoridad en designar a Pablo como apóstol a los __<u>gentiles</u>__ vino directamente de Dios el Padre.
-
-##### Las primeras palabras en esta carta demuestran quien es el que está al control del trabajo de Pablo, __<u>quien</u>__ es el iniciador y proveedor en su apostolado, Dios mismo. Gálatas 1:1, 11-12
-
-##### Dios Padre es descrito aquí como Salvador (Redentor, Libertador). No se queda ahí, sino que el Espíritu Santo __<u>inspiró</u>__ las palabras "*...nuestro Salvador...*", no solo era el Salvador único y eterno de Pablo, sino también lo era de su hijo en la fe, Timoteo. Judas 1:24-25
-
-##### Vemos que el apostolado de Pablo no __<u>fue</u>__ por iniciativa propia, sino que era orquestado por su Salvador..."*por mandato de Dios*".
-
-#### 1 Timoteo 1:1d "*...y de Cristo Jesús...*" En __<u>total</u>__ armonía con el Padre, Cristo también es el originador del trabajo de Pablo para Su Obra, la edificación de Su Iglesia (Sus llamados afuera). Hechos 26:15-18
-
-#### 1 Timoteo 1:1e "*...Cristo Jesús nuestra esperanza...*". Nótese las palabras de este versículo, no dice que Jesucristo nos da esperanza. Sino que Jesucristo __<u>era</u>__ la esperanza de Pablo y le recuerda a Timoteo que también era su esperanza. Romanos 8:24-25
-
-##### Jesucristo es también ahora la __<u>esperanza</u>__ de cada persona que creyó en Él, en Su persona y Su obra completa (Su muerte por los pecados, Su sepultura y Su resurrección). Si tú también creíste en Jesucristo como Pablo y Timoteo, Él también es ahora y para siempre tu esperanza.
-
-##### 1 Pedro 1:3 "*Jesucristo es por medio de __<u>quien</u>__ tienes una esperanza viva, porque Él vive*".
-
-##### Romanos 5:1-2 "*Jesucristo es por __<u>medio</u>__ de quien has sido declarado justo delante del Padre y ahora puedes gozarte en la esperanza de Su Gloria*".
-
-### Pablo es el Apóstol de Jesucristo enviado a los gentiles. Tiene un __<u>rol</u>__ importante en el establecimiento de la Iglesia. Hechos 9:15; Colosenses 4:3 
-
-### Datos interesantes __<u>sobre</u>__ el Apóstol Pablo
-
-#### Pablo era un hebreo y ciudadano __<u>romano</u>__. Inicialmente perseguidor de seguidores de Jesús (Hechos 9) se convirtió en seguidor y siervo de Jesucristo para la Iglesia. 
+#### Pablo como apóstol de Jesucristo fue comisionado a los gentiles, fue designado con un __<u>rol</u>__ importante en el establecimiento de la Iglesia. Hechos 9:15; Colosenses 4:3 
 
 #### El Apostolado de Pablo es innegable y confirmado de __<u>varias</u>__ maneras:
 
@@ -366,9 +344,29 @@ www.discipuladocgv.org
 
 ###### Los __<u>mismos</u>__ hermanos en Corinto eran evidencia de su Apostolado. 2 Corintios 3:1-2
 
-#### 1 Timoteo es escrito casi al __<u>final</u>__ de su ministerio de aproximadamente 15 años (49d.C. - 64d.C.). Hechos 18:2; 2 Timoteo 4:6
+#### 1 Timoteo 1:1c "*...por mandato de Dios nuestro Salvador...*" La iniciativa y la autoridad en designar a Pablo como apóstol a los __<u>gentiles</u>__ vino directamente de Dios el Padre.
 
-### Timoteo estaría con Pablo durante su __<u>primer</u>__ encarcelamiento en Roma. Sin embargo, al momento de la escritura de 1 Timoteo, el joven Timoteo se encontraba en Éfeso, sirviendo como evangelista entre las diversas iglesias domésticas que existían en ese entonces. 1 Timoteo 1:3
+##### Las primeras palabras en esta carta demuestran quien es el que está al control del trabajo de Pablo, __<u>quien</u>__ es el iniciador y proveedor en su apostolado, Dios mismo. Gálatas 1:1, 11-12
+
+##### Dios Padre es descrito aquí como Salvador (Redentor, Libertador). No se queda ahí, sino que el Espíritu Santo __<u>inspiró</u>__ las palabras "*...nuestro Salvador...*", no solo era el Salvador único y eterno de Pablo, sino también lo era de su hijo en la fe, Timoteo. Judas 1:24-25
+
+##### Vemos que el apostolado de Pablo no __<u>fue</u>__ por iniciativa propia, sino que era orquestado por su Salvador..."*por mandato de Dios*".
+
+#### 1 Timoteo 1:1d "*...y de Cristo Jesús...*" En __<u>total</u>__ armonía con el Padre, Cristo también es el originador del trabajo de Pablo para Su Obra, la edificación de Su Iglesia (Sus llamados afuera). Hechos 26:15-18
+
+#### 1 Timoteo 1:1e "*...Cristo Jesús nuestra esperanza...*". Nótese las palabras de este versículo, no dice que Jesucristo nos da esperanza. Sino que Jesucristo __<u>era</u>__ la esperanza de Pablo y le recuerda a Timoteo que también era su esperanza. Romanos 8:24-25
+
+##### Jesucristo es también ahora la __<u>esperanza</u>__ de cada persona que creyó en Él, en Su persona y Su obra completa (Su muerte por los pecados, Su sepultura y Su resurrección). Si tú también creíste en Jesucristo como Pablo y Timoteo, Él también es ahora y para siempre tu esperanza.
+
+##### 1 Pedro 1:3 "*Jesucristo es por medio de __<u>quien</u>__ tienes una esperanza viva, porque Él vive*".
+
+##### Romanos 5:1-2 "*Jesucristo es por __<u>medio</u>__ de quien has sido declarado justo delante del Padre y ahora puedes gozarte en la esperanza de Su Gloria*".
+
+## Receptor de la carta: El bien amado de Pablo
+
+### 1 Timoteo 1:2a "*a Timoteo, verdadero hijo en la fe:...*" Timoteo un creyente en Jesucristo y también el hijo espiritual __<u>amado</u>__ de Pablo.
+
+#### Timoteo estaría con Pablo durante su __<u>primer</u>__ encarcelamiento en Roma. Sin embargo, al momento de la escritura de 1 Timoteo, el joven Timoteo se encontraba en Éfeso, sirviendo como evangelista entre las diversas iglesias domésticas que existían en ese entonces. 1 Timoteo 1:3
 
 #### Pablo deseaba llevar a Timoteo en su segundo viaje misionero, por lo que tuvo que circunsidarlo por __<u>causa</u>__ de los judios. Entonces Timoteo lo acompañó en su viaje. Timoteo llegó a ser un fiel compañero en el Señor para Pablo. 1 Corintios 4:17
 
@@ -381,10 +379,6 @@ www.discipuladocgv.org
 ##### Su __<u>labor</u>__ incluía la proclamación del evangelio, la enseñanza, la lectura de las Escrituras, el nombramiento de ancianos y diáconos, y la oposición a las falsas enseñanzas. Pablo le escribió, probablemente desde Macedonia, para animarlo en su fiel servicio a Cristo. 1 Timoteo 1:18 [^3]
 
 ##### Timoteo cumplió algún tiempo en la __<u>cárcel</u>__ por su fe en Jesucristo, y luego fue liberado. Hebreos 13:23
-
-## Receptor de la carta: El bien amado de Pablo
-
-### 1 Timoteo 1:2a "*a Timoteo, verdadero hijo en la fe:...*" Timoteo un creyente en Jesucristo y también el hijo espiritual __<u>amado</u>__ de Pablo.
 
 #### Por Hechos 16:1-2 sabemos que Timoteo era un joven discípulo (creyente) crecido en Listra, de __<u>madre</u>__ judía creyente y padre griego. También gozaba de buen testimonio entre los hermanos de Listra e Iconio.
 
