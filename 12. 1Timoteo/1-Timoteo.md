@@ -258,7 +258,7 @@ www.discipuladocgv.org
 
 #### Colosenses 3:15 "*...fueron llamados en __<u>un</u>__ solo cuerpo...*"
 
-#### Cualquier creyente en Jesucristo es __<u>miembro</u>__ de la iglesia universal, el unico requisito es haber creido en el evangelio. Efesios 2:19; Efesios 2:22
+#### Cualquier creyente en Jesucristo es __<u>miembro</u>__ de la iglesia universal. Efesios 1:13, 2:19, 22
 
 ### Representaciones __<u>locales</u>__:
 
@@ -266,25 +266,17 @@ www.discipuladocgv.org
 
 #### Romanos 1:7 "*A todos los amados de Dios que están __<u>en Roma</u>__...*"
 
+#### ¿Cuando se concidera establecida un iglesia local?
+
 #### Se considera una iglesia __<u>local</u>__ desde el momento en que 2, 3 o más personas se reunen regularmente en el nombre del Señor Jesucristo con un propósito de adorar, estudiar La Palabra y tener comunión entre los santos. Mateo 18:20; Hechos 2:42
-
-##### Efesios 4:3-4 "*esforzándose por preservar la unidad del Espíritu en el vínculo de la paz. Hay un solo __<u>cuerpo</u>__ y un solo Espíritu, así como también ustedes fueron llamados en una misma esperanza de su vocación;*"
-
-##### Efesios 4:5-6 "*un solo Señor, una sola fe, un solo bautismo, un solo Dios y Padre de todos, que está sobre __<u>todos</u>__, por todos y en todos.*"
-
-##### 1 Corintios 1:2 "*a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cristo Jesús, llamados a ser santos, con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo, Señor de ellos y __<u>nuestro</u>__*".
 
 #### El propósito principal de la iglesia está en la instrucción del Señor Jesucristo. La Gran Comisión. Ir y hacer discipulos __<u>incluye</u>__ evangelizar, discipular y encargar a hombres fieles a discipular a otros y establecer iglesias locales. Mateo 28:18-20, 2 Timoteo 2:2
 
 ##### Es verdad que cada miembro de la __<u>iglesia</u>__ no debe descuidar la misión de anunciar y predicar el evangelio de la salvación. Marcos 16:15; Hechos 4:12.
 
-##### Pero una iglesia que no hace discipulos su fin es seguro, ya que no quedará nadie quien enseñe a __<u>guardar</u>__ todas las cosas que el Señor Jesucristo ha enseñado. Mateo 28:20
+##### Pero una iglesia que no hace discipulos su fin es seguro, ya que no quedará nadie quien enseñe a __<u>guardar</u>__ todas las cosas que el Señor Jesucristo ha enseñado. Mateo 28:20; 2 Timoteo 2:2
 
-#### La iglesia debe persistir en continuar firmes en el evangelio, enseñando a los fieles de la iglesia a __<u>enseñar</u>__ a otros fielmente La Palabra de Dios. 2 Timoteo 2:2, 3:14-16
-
-##### 2 Timoteo 3:17 "*a fin de que el hombre de Dios sea perfecto, equipado para __<u>toda</u>__ buena obra.*"
-
-##### Una iglesia local es parte de la iglesia universal sin embargo ella es autónoma en funcionamiento.
+#### Una iglesia local es parte de la iglesia universal sin embargo ella es autónoma en funcionamiento.
 
 #### Cuando una iglesia local establece otra iglesia local, la nueva iglesia llega a funcionar independientemente de la __<u>primera</u>__. Una iglesia local que tiene otras iglesias locales bajo los mismos ancianos no esta siendo autónoma ni permitiendo a otros ser autónomos. Hechos 20:17; Santiago 5:14
 
