@@ -1,14 +1,32 @@
 ---
 Title: 1 Timoteo
 ---
-___-___
+1 Timoteo  
+En la Casa de Dios
 
-# 1 Timoteo  
-## La Iglesia del Dios Vivo
+
+
+
+
+
+
+
 
 El material de CGV es desarrollado para el uso libre de la iglesia. Nuestro animo es que sea de bendición para la iglesia. Este material esta diseñado para promover el discipulado dentro de la Iglesia local. Creemos que el mejor lugar para cumplir la Gran Comisión (discipular y enseñar) es dentro de la Iglesia. 
 
 www.discipuladocgv.org
+
+
+
+
+
+
+
+
+
+
+
+
 
 ÍNDICE
 
@@ -594,7 +612,7 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 1:9f "*para los que matan a sus padres o a sus madres*" Específicamente dirigido a aquellos que son __<u>asesinos</u>__ de los progenitores, el odio también entra como parte del asesinato.
 
-### 1 Timoteo 1:9g "*para los asesinos*" Son los que sustraen la vida a otro ser humano, odiar o aborrecer a tu __<u>hermano</u>__ es considerado como un crimen de asesinato. 
+### 1 Timoteo 1:9g "*para los asesinos*" Son los que sustraen la vida a otro ser humano, odiar o aborrecer a tu __<u>hermano</u>__ es considerado como un crimen de asesinato.
 
 ### 1 Timoteo 1:10a "*para los inmorales*" PORNOS es la palabra utilizada aquí, no solo es cualquier tipo de inmoralidad sexual también __<u>incluye</u>__ la pornografía de cualquier tipo, lascivia o lujuria.
 
@@ -2689,8 +2707,6 @@ www.discipuladocgv.org
 ### ¿Por qué deberían hacerlo?: Dios los recompensará tanto en la __<u>tierra</u>__ como en el cielo. 1 Timoteo 6:19
 
 ### Rechaza lo que el __<u>mundo</u>__ y el creyente engañado llama sabiduría y aférrate al misterio de la piedad, la persona de Jesucristo. 1 Timoteo 6:20b-21
-
-___-___
 
 [^1]: Robertson Word Pictures
 
