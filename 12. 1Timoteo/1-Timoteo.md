@@ -532,7 +532,7 @@ www.discipuladocgv.org
 
 ## 1 Timoteo 1:6-7 - El desvío de la instrucción bíblica al pervertir el uso de La Ley 
 
-### 1 Timoteo 1:6a "*Pues algunos, desviándose de estas cosas* *se han apartado hacia una vana palabrería*" Al apartarse del propósito correcto de la instrucción terminaron enseñando meramente palabras __<u>huecas</u>__ sin conseguir el amor de corazon puro, una buena consciencia y una fe sincera. 
+### 1 Timoteo 1:6a "*Pues algunos, desviándose de estas cosas* *se han apartado hacia una vana palabrería*" Al apartarse del propósito correcto de la instrucción, terminaron enseñando meramente palabras __<u>huecas</u>__ sin conseguir el amor de corazon puro, una buena consciencia y una fe sincera. 
 
 #### El error que cometieron fue de enseñar __<u>cosas</u>__ extrañas y eso terminó en vana palabrería. 
 
@@ -568,7 +568,7 @@ www.discipuladocgv.org
 
 ### El proposito era un __<u>amor</u>__ (agape) en los creyentes. 1 Timoteo 1:5
 
-### Toda iglesia local __<u>busca</u>__ amor en los hermanos. Pero lo que realmente hace posible eso es una iglesia que se aferra a la verdad de Dios.
+### Toda iglesia local __<u>busca</u>__ amor en los hermanos. Pero lo que realmente hace posible eso, es una iglesia que se aferra a la verdad de Dios.
 
 ### Habían creyentes que estaban desviando a la iglesia por __<u>medio</u>__ de enseñanzas falsas de la ley. 1 Timoteo 1:6-7
 
