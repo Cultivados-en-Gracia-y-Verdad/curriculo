@@ -504,7 +504,7 @@ www.discipuladocgv.org
 
 #### La enseñanza de Pablo y Timoteo es __<u>una</u>__ instrucción diferente. No son compatibles. Cada instrucción tiene su resultado. 
 
-#### Al separarse de algunos que enseñan incorrectamente, Pablo no esta dividiendo la iglesia. Al contrario, la unidad de la __<u>iglesia</u>__ depende de la verdad. 
+#### Al callar a algunos que enseñan incorrectamente, Pablo no esta dividiendo la iglesia. Al contrario, la unidad de la __<u>iglesia</u>__ depende de la verdad. 
 
 #### No es que Pablo __<u>tiene</u>__ algo personal contra uno de ellos. Es que simplemente su enseñanza se había desviado. 
 
@@ -994,8 +994,6 @@ www.discipuladocgv.org
 
 #### Dios no solo __<u>quiere</u>__ que conozcamos teóricamente de el, sino que seamos plenamente capaces para comprender y discernir la verdad, esa es su voluntad. Romanos 10:2; Colosenses 1:9-10; Efesios 1:16-18, 3:18-19
 
-//* Inicio - Extraido de la introducción
-
 #### Debemos amar a las personas como Dios lo hace, compartir Su invitación a la salvación con ellos y __<u>orar</u>__ para que ellos también escuchen Su llamado y se unan a Su iglesia. 1 Timoteo 2:1-4; 1 Pedro 3:9
 
 #### Hebreos 10:23–25 es un estímulo para __<u>cada</u>__ uno de nosotros que pertenecemos a la *ekklesia* de Dios: "*Mantengamos firme la esperanza que profesamos, porque fiel es el que hizo la promesa. Preocupémonos los unos por los otros, a fin de estimularnos al amor y a las buenas obras. No dejemos de congregarnos, como acostumbran hacerlo algunos, sino animémonos unos a otros, y con mayor razón ahora que vemos que aquel día se acerca.*"[^5]
@@ -1009,8 +1007,6 @@ www.discipuladocgv.org
 #### Gálatas 1:6 "*Me maravillo de que tan pronto ustedes hayan abandonado a Aquel que los llamó por la gracia de Cristo, para seguir un evangelio diferente*" Este llamado es solamente y única por su __<u>gracia</u>__.
 
 #### 2 Tesalonicenses 2:14 "*a lo cual os llamó mediante nuestro evangelio, para alcanzar la gloria de nuestro Señor Jesucristo.*" es al momento de creer en el evangelio que uno llega a __<u>formar</u>__ parte de los llamados ("*Ekklesía*") de Jesucristo.
-
-//* Fin
 
 ## 1 Timoteo 2:5-7 - El ministerio de Pablo
 
@@ -1130,7 +1126,9 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 2:10b "*...como corresponde a las mujeres que profesan la piedad.*" las mujeres que profesan piedad expresarán de manera __<u>visible</u>__ su mensaje en sus vidas, dando igualdad a lo que profesan con lo que hacen.
 
-#### La siguiente lista de obras son manifestaciones de piedad. Esta lista es completamente contraria a la __<u>cultura</u>__ y a la naturaleza humana. La piedad en la vida de los creyentes tiene un mensaje poderoso que trasciende culturas y es conforme a la voluntad de Dios. 1 Timoteo 2:4-6
+#### La siguiente lista de obras son manifestaciones de piedad. Esta lista es completamente contraria a la __<u>cultura</u>__ y a la naturaleza humana.
+
+####  La piedad en la vida de los creyentes tiene un mensaje poderoso que trasciende culturas y es conforme a la voluntad de Dios. 1 Timoteo 2:4-6
 
 ## 1 Timoteo 2:11-12 - La mujer dentro de la congregación
 
