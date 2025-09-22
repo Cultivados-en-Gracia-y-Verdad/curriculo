@@ -278,7 +278,7 @@ www.discipuladocgv.org
 
 ### En Hechos 20:28 podemos encontrar que Dios compró la iglesia, mostrando claramente la __<u>deidad</u>__ de Cristo, ya que dice, la compró con Su propia sangre.
 
-### Esto significa que la iglesia le pertenece a Dios __<u>como</u>__ a Jesucristo. 1 Tesalonicenses 1:1; 2 Tesalonicenses 1:1
+### Esto significa que la iglesia le pertenece a Dios Padre __<u>como</u>__ a Jesucristo. 1 Tesalonicenses 1:1; 2 Tesalonicenses 1:1
 
 ### Es Cristo el que esta llevando a __<u>cabo</u>__ la edificación de la iglesia "*...hasta que haya entrado la plenitud de los gentiles.*" Romanos 11:25b
 
