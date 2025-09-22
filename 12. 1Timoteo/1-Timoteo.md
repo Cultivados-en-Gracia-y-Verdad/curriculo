@@ -530,7 +530,7 @@ www.discipuladocgv.org
 
 #### Mas bien habla de fe en nuestro diario andar, fe sin hipocresía, hablando de una doble dependencia, esto en contraste con la __<u>sola</u>__ dependencia de la verdad de la escritura. 
 
-## 1 Timoteo 1:6-7 - El desviar la instrucción bíblica para pervertir el uso de La Ley 
+## 1 Timoteo 1:6-7 - El desvío de la instrucción bíblica al pervertir el uso de La Ley 
 
 ### 1 Timoteo 1:6a "*Pues algunos, desviándose de estas cosas* *se han apartado hacia una vana palabrería*" Al apartarse del propósito correcto de la instrucción terminaron enseñando meramente palabras __<u>huecas</u>__ sin conseguir el amor de corazon puro, una buena consciencia y una fe sincera. 
 
