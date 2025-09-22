@@ -49,10 +49,6 @@ www.discipuladocgv.org
 
 ### La maravilla de la iglesia __<u>está</u>__ en el hecho que Cristo la concibió en Sus planes desde antes de la fundación del mundo (Efesios 1:4), la compró con Su sangre (Hechos 20:28), prometió edificarla (Mateo 16:18a), envió el Espiritu para fundarla (Hechos 2), la santifica (Efesios 5:26) y prometió preservarla eternamente (Mateo 16:18b). 
 
-### La Iglesia no pertenece a ninguna institución humana como decir el Vaticano, alguna denominación, las naciones unidas o algún __<u>país</u>__. La iglesia no es de una institución que represente ante el gobierno. Efesios 5:27
-
-### La iglesia no pertenece a personas como los reformadores, misioneros, "padres fundadores", ancestros, maestros, ancianos o diáconos. La iglesia no pertenece a personas que ofrendaron por comprar el __<u>lote</u>__ y un edificio. 3 Juan 1:9-10
-
 ### La Iglesia pertenece únicamente a Jesucristo quien la compró __<u>con</u>__ Su sangre. Hechos 20:28; 1 Corintios 7:23
 
 ### Tradicionalmente, las cartas de 1 Timoteo, 2 Timoteo y Tito han sido descritos como "cartas pastorales". Ese pensamiento ha impregnado en el pensamiento actual y dió a entender que __<u>solo</u>__ líderes cristianos tienen la necesidad de estudiarlos para así ser capacitados para liderar en el ministerio. 2 Corintios 2:1-5
@@ -198,6 +194,10 @@ www.discipuladocgv.org
 
 ### Mateo 16:18 "*Yo también te digo que tú eres Pedro, y sobre esta roca edificaré Mi iglesia; y las puertas del Hades no prevalecerán contra ella.*" Es en este pasaje que el Señor Jesucristo dió su __<u>origen</u>__ a la palabra "Mi" iglesia, en pertenencia, propósito, cuidado y protección de ella.
 
+### La Iglesia no pertenece a ninguna institución humana como decir el Vaticano, alguna denominación, las naciones unidas o algún __<u>país</u>__. La iglesia no es de una institución que represente ante el gobierno. Efesios 5:27
+
+### La iglesia no pertenece a personas como los reformadores, misioneros, "padres fundadores", ancestros, maestros, ancianos o diáconos. La iglesia no pertenece a personas que ofrendaron por comprar el __<u>lote</u>__ y un edificio. 3 Juan 1:9-10
+
 ### Pablo describe la __<u>iglesia</u>__ en Romanos 1:6, "*entre los cuales están también ustedes, llamados de Jesucristo.*" 1 Corintios 1:2, 9, 24
 
 ## Fundación e inicios de la Iglesia
@@ -340,7 +340,7 @@ www.discipuladocgv.org
 
 ##### Efesios 4:5-6 "*un solo Señor, una sola fe, un solo bautismo, un solo Dios y Padre de todos, que está sobre __<u>todos</u>__, por todos y en todos.*"
 
-##### 1 Corintios 1:2 "*a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cristo Jesús, llamados a ser santos, con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo, Señor de ellos y __<u>nuestro</u>__:*".
+##### 1 Corintios 1:2 "*a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cristo Jesús, llamados a ser santos, con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo, Señor de ellos y __<u>nuestro</u>__*".
 
 #### El propósito principal de la iglesia está en la instrucción del Señor Jesucristo. La Gran Comisión. Ir y hacer discipulos __<u>incluye</u>__ evangelizar, discipular y encargar a hombres fieles a discipular a otros y establecer iglesias locales. Mateo 28:18-20, 2 Timoteo 2:2
 
