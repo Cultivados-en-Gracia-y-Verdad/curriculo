@@ -28,20 +28,20 @@ www.discipuladocgv.org
 
 
 
-1.  **ÍNDICE**
+**ÍNDICE**
 
 | **1 Timoteo - En la Casa de Dios**                           |      |
 | ------------------------------------------------------------ | ---- |
-| I. La Iglesia: Información General                           |      |
-| \| Características Distintivas de la Iglesia del Nuevo Testamento \| \| |      |
-| \| 1 Timoteo 1:1-2 - Saludos e Información Biográfica \| \|  |      |
-| \| 1 Timoteo 1:3-20 - Batallando por la Gracia \| \|         |      |
-| \| Breve Doctrina sobre la Disciplina en la Iglesia \| \|    |      |
-| \| 1 Timoteo 2:1-15 - Instrucción Sobre la Adoración \| \|   |      |
-| \| 1 Timoteo 3:1-16 - Instrucción en la selección de líderes en la iglesia \| \| |      |
-| \| 1 Timoteo 4:1-16 - Protección Contra la Apostasía \| \|   |      |
-| \| 1 Timoteo 5:1-6:21 - Relaciones dentro de la Iglesia \| \| |      |
-| \| 1 Timoteo 6:3-21 - Asuntos Relacionados con la Iglesia \| \| |      |
+| La Iglesia: Información General                              |      |
+| Características Distintivas de la Iglesia del Nuevo Testamento |      |
+| 1 Timoteo 1:1-2 - Saludos e Información Biográfica           |      |
+| 1 Timoteo 1:3-20 - Batallando por la Gracia                  |      |
+| Breve Doctrina sobre la Disciplina en la Iglesia             |      |
+| 1 Timoteo 2:1-15 - Instrucción Sobre la Adoración            |      |
+| 1 Timoteo 3:1-16 - Instrucción en la selección de líderes en la iglesia |      |
+| 1 Timoteo 4:1-16 - Protección Contra la Apostasía            |      |
+| 1 Timoteo 5:1-6:21 - Relaciones dentro de la Iglesia         |      |
+| 1 Timoteo 6:3-21 - Asuntos Relacionados con la Iglesia       |      |
 
 # Introducción 
 
@@ -49,19 +49,19 @@ www.discipuladocgv.org
 
 ### La maravilla de la iglesia está en el hecho que Cristo la concibió en Sus planes desde antes de la fundación del mundo (Efesios 1:4), la compró con Su sangre (Hechos 20:28), prometió edificarla (Mateo 16:18a), envió el Espiritu para fundarla (Hechos 2), la santifica (Efesios 5:26) y prometió preservarla eternamente (Mateo 16:18b). 
 
-### La Iglesia no pertenece a ninguna institución humana como decir el Vaticano, alguna denominación, las naciones unidas o algún país. Efesios 5:27
+### La Iglesia no pertenece a ninguna institución humana como decir el Vaticano, alguna denominación, las naciones unidas o algún país. La iglesia no es de una institución que represente ante el gobierno. Efesios 5:27
 
 ### La iglesia no pertenece a personas como los reformadores, misioneros, "padres fundadores", ancestros, maestros, ancianos o diáconos. La iglesia no pertenece a personas que ofrendaron por comprar el lote y un edificio. 3 Juan 1:9-10
 
-### La Iglesia pertenece a Jesucristo quien la compró con Su sangre. Hechos 20:28; 1 Corintios 7:23
+### La Iglesia pertenece únicamente a Jesucristo quien la compró con Su sangre. Hechos 20:28; 1 Corintios 7:23
 
-### Tradicionalmente, las cartas de 1 Timoteo, 2 Timoteo y Tito han sido descritos como "cartas pastorales". Ese pensamiento ha impregnado en el pensamiento actual y que solo líderes cristianos tienen la necesidad de estudiarlos para así ser capacitados para liderar en el ministerio. 2 Corintios 2:1-5
+### Tradicionalmente, las cartas de 1 Timoteo, 2 Timoteo y Tito han sido descritos como "cartas pastorales". Ese pensamiento ha impregnado en el pensamiento actual y dió a entender que solo líderes cristianos tienen la necesidad de estudiarlos para así ser capacitados para liderar en el ministerio. 2 Corintios 2:1-5
 
 ### Lamentablemente este pensamiento resultó en congregaciones que se quedaron con una falta por comprender las verdades que contiene estas epistolas. 1 Timoteo 3:15
 
 ### Vemos en 2 Timoteo 3:16 que toda la revelación de nuestro Señor es útil para la instrucción de cada uno de Sus santos, por lo tanto, 1 Timoteo ha sido escrito para todo creyente también. 
 
-### Este precioso libro contiene instrucción importante para hermanos mayores, hermanas mayores, hermanas jóvenes y hermanos jóvenes. Personas en posiciones humildes (esclavos) y personas en posición de altura (ricos). 
+### Este precioso libro contiene instrucción importante para hermanos mayores, hermanas mayores, hermanas jóvenes y hermanos jóvenes. Personas en posiciones de empleados (esclavos) y empresarios (ricos). 
 
 ### Si alguna vez te preguntaste "¿Qué es la Iglesia?", "¿Cómo se define la Iglesia?", "¿Cuál es mi parte dentro de la Iglesia?", "¿Cómo debemos conducirnos en ella?", entonces el contenido de este libro te guiará a la esencia de que es la Iglesia de Jesucristo y como debe andar ordenadamente. Asi que, creyente, ¡pon atención a este hermoso y valioso libro!
 
@@ -79,7 +79,7 @@ www.discipuladocgv.org
 
 ## Eventos importantes en referencia a 1 Timoteo
 
-### En tres ocaciones encontramos a Pablo haciendo la declaración, "*palabra fiel*" (1 Timoteo 1:15, 3:1, 4:9). Esto nos anima a prestar atención al mensaje que contiene. 
+### En tres ocaciones encontramos a Pablo haciendo la declaración, "*palabra fiel*" (1 Timoteo 1:15, 3:1, 4:9). El hecho que es "*palabra fiel*" nos anima a prestar atención al mensaje que contiene. 
 
 ## Trasfondo Cultural/Histórico
 
@@ -127,7 +127,7 @@ www.discipuladocgv.org
 
 #### 1 Timoteo es escrito casi al final de su ministerio de aproximadamente 15 años (49d.C. - 64d.C.). Hechos 18:2; 2 Timoteo 4:6
 
-### Timoteo estaría con Pablo durante su primer encarcelamiento en Roma. Sin embargo, al momento de la escritura de 1 Timoteo, el joven Timoteo se encontraba en Éfeso, sirviendo como evangelista entre las diversas iglesias domésticas que existían en ese entonces. 1Timoteo 1:3
+### Timoteo estaría con Pablo durante su primer encarcelamiento en Roma. Sin embargo, al momento de la escritura de 1 Timoteo, el joven Timoteo se encontraba en Éfeso, sirviendo como evangelista entre las diversas iglesias domésticas que existían en ese entonces. 1 Timoteo 1:3
 
 #### Pablo deseaba llevar a Timoteo en su segundo viaje misionero, por lo que tuvo que circunsidarlo por causa de los judios. Entonces Timoteo lo acompañó en su viaje. Timoteo llegó a ser un fiel compañero en el Señor para Pablo. 1 Corintios 4:17
 
@@ -139,7 +139,7 @@ www.discipuladocgv.org
 
 ##### Su labor incluía la proclamación del evangelio, la enseñanza, la lectura de las Escrituras, el nombramiento de ancianos y diáconos, y la oposición a las falsas enseñanzas. Pablo le escribió, probablemente desde Macedonia, para animarlo en su fiel servicio a Cristo. 1 Timoteo 1:18 [^3]
 
-##### Timoteo cumplió algún tiempo en la cárcel por la fe, y luego fue liberado. Hebreos 13:23
+##### Timoteo cumplió algún tiempo en la cárcel por su fe en Jesucristo, y luego fue liberado. Hebreos 13:23
 
 ## Tema Principal
 
@@ -311,7 +311,7 @@ www.discipuladocgv.org
 
 #### Efesios 1:22-23 "*Y todo lo sometió bajo Sus pies, y a Él lo dio por cabeza sobre todas las cosas a **la iglesia, la cual es Su cuerpo,** la plenitud de Aquel que lo llena todo en todo.*"
 
-#### Efesios 2:15 "*...para crear en Él \[Cristo\] mismo de los dos un **nuevo hombre**, estableciendo así la paz,*"
+#### Efesios 2:15 "*...para crear en Él Cristo mismo de los dos un **nuevo hombre**, estableciendo así la paz,*"
 
 #### Efesios 4:4 "*Hay **un solo cuerpo** y un solo Espíritu, así como también ustedes fueron llamados en una misma esperanza de su vocación;*"
 
@@ -489,13 +489,13 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 1:4a "*ni prestaran atención*..." La observación del Texto bíblico es muy importante. A lo que prestemos atención afectará los resultados de nuestra instrucción. 
 
-#### Prestar atención \[PROSECHO\] es dar atención continua a algo, como en una adicción. Es ser llevado a algo. Aparece 4 veces en 1 Timoteo. 1 Timoteo 1:4, 3:8, 4:1, 4:13
+#### Prestar atención PROSECHO es dar atención continua a algo, como en una adicción. Es ser llevado a algo. Aparece 4 veces en 1 Timoteo. 1 Timoteo 1:4, 3:8, 4:1, 4:13
 
-##### 1 Timoteo 3:8 "*no dados*" \[PROSECHO\] "*al vino*". Cuando alguien tiene una adicción al vino su mente esta puesta continuamente en tomar. 
+##### 1 Timoteo 3:8 "*no dados*" PROSECHO "*al vino*". Cuando alguien tiene una adicción al vino su mente esta puesta continuamente en tomar. 
 
-##### \[PROSECHO\] da la idea de que la atención de uno esta fijado detenidamente en algo. 
+##### PROSECHO da la idea de que la atención de uno esta fijado detenidamente en algo. 
 
-#### Algunos estaban dedicando su atención \[PROSECHO\] a cosas que desviaban del verdadero conocimiento de Cristo. 
+#### Algunos estaban dedicando su atención PROSECHO a cosas que desviaban del verdadero conocimiento de Cristo. 
 
 ### 1 Timoteo 1:4b "*a mitos*..." Pusieron su atención en fabulas o cosas de ficción.
 
@@ -969,9 +969,9 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 2:4 ''*el cual quiere que todos los hombres sean salvos y vengan al pleno conocimiento de la verdad*''. Podemos ver lo que Dios quiere para todos los hombres.
 
-### 1 Timoteo 2:4a "*el cual quiere*..." La palabra quiere [THELO\] nos indica el deseo o voluntad.
+### 1 Timoteo 2:4a "*el cual quiere*..." La palabra quiere [THELO nos indica el deseo o voluntad.
 
-#### Contrastando podemos ver lo que Dios no quiere, el no quiere la muerte del impío, sino que se arrepienta [METANOIA-cambiar de mente\] de sus malos caminos. Ezequiel 18:23, 32; 2 Pedro 3:9
+#### Contrastando podemos ver lo que Dios no quiere, el no quiere la muerte del impío, sino que se arrepienta [METANOIA-cambiar de mente de sus malos caminos. Ezequiel 18:23, 32; 2 Pedro 3:9
 
 #### La voluntad de Dios no debe confundirse con la soberanía de Dios.
 
@@ -1387,7 +1387,7 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 3:2g "*hospitalario...*" FILOXENOS es amable con sus visitas. 
 
-### 1 Timoteo 3:2h "*apto para enseñar...*" apto para enseñar es una sola palabra \[DIDAKTIKOS\] en el griego. Debe ser idóneo para enseñar. 
+### 1 Timoteo 3:2h "*apto para enseñar...*" apto para enseñar es una sola palabra DIDAKTIKOS en el griego. Debe ser idóneo para enseñar. 
 
 ### 1 Timoteo 3:3a "*no dado a la bebida...*" PAROINOS, no dado al vino significa que no se embriaga. No tiene el vicio de la bebida. 
 
@@ -1397,7 +1397,7 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 3:3c "*no avaricioso...*" es libre del amor al dinero. 
 
-### 1 Timoteo 3:4a "*Que gobierne bien su casa...*" gobierne es la palabra \[PROISTEMI\]. Significa mantener, estar al frente de, ser protector o guardian. 
+### 1 Timoteo 3:4a "*Que gobierne bien su casa...*" gobierne es la palabra PROISTEMI. Significa mantener, estar al frente de, ser protector o guardian. 
 
 ### 1 Timoteo 3:4b "*teniendo a sus hijos sujetos con toda dignidad...*" sus hijos deben conducirse respetuosamente. 
 
@@ -1445,7 +1445,7 @@ www.discipuladocgv.org
 
 ### Muchos creen que el rol de diaconos se estableció en Hechos 6:1-7 cuando hubo necesidad de atención a las necesidades físicas de los hermanos. Ahi, los apóstoles decidieron que era necesario cuidar de los hermanos pero sin descuidar la enseñanza. 
 
-### La palabra DIAKONO\] significa servidor. Una persona en el oficio de diácono que se preocupa por las necesidades y el sustento de una asamblea de creyentes.[^39]
+### La palabra DIAKONO significa servidor. Una persona en el oficio de diácono que se preocupa por las necesidades y el sustento de una asamblea de creyentes.[^39]
 
 ### Entonces establecieron diáconos o siervos que estarían pendientes de las necesidades físicas. 
 
@@ -1455,7 +1455,7 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 3:8c "*de una sola palabra...*" su discurso no es hipócrita o insincero debido a la equivocación o la duplicidad.
 
-### 1 Timoteo 3:8d "*no dados al mucho vino...*" no se embriaga. Dados \[PROSECHO\] Sin una adicción al vino. 
+### 1 Timoteo 3:8d "*no dados al mucho vino...*" no se embriaga. Dados PROSECHO Sin una adicción al vino. 
 
 ### 1 Timoteo 3:8e "*ni amantes de ganancias deshonestas...*" aunque todos los requisitos son necesarios, este requisito es primordial porque los diaconos son los que manejan el dinero. 
 
@@ -2719,7 +2719,7 @@ www.discipuladocgv.org
 
 #### Úselo para ayudar a otros. 1 Timoteo 6:18
 
-### ¿Por qué deberían hacerlo? (1 Timoteo 6:19): Dios los recompensará tanto en la tierra como en el cielo.
+### ¿Por qué deberían hacerlo?: Dios los recompensará tanto en la tierra como en el cielo. 1 Timoteo 6:19
 
 ### Rechaza lo que el mundo y el creyente engañado llama sabiduría y aférrate al misterio de la piedad, la persona de Jesucristo. 1 Timoteo 6:20b-21
 
