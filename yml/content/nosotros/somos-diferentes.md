@@ -51,13 +51,13 @@ Como parte de CGV, hemos planeado dos o tres viajes por carretera a otro lugar p
 
 ## BAJO COSTO
 
-El Centro de Capacitación 3D se compromete a mantener un costo lo más bajo posible para el estudiante. Debido a la intensidad del trabajo del curso, los estudiantes no podrán realizar un trabajo secular. Por lo tanto, nos esforzamos por hacer que este programa sea lo más asequible posible. Gracias a la generosidad de todos los profesores, ofrecen generosamente sus servicios de forma gratuita. Los manuales del alumno para cada curso serán proporcionados por DM2 sin costo alguno para los alumnos. Más allá de esto, los gastos de los estudiantes incluirán alimentos y artículos de tocador, alojamiento, libros (para la lectura asignada), viajes y cualquier costo misceláneo.
+El Discipulado de CGV se compromete a mantener un costo lo más bajo posible para el estudiante. Debido a la intensidad del trabajo del curso, los estudiantes no podrán realizar un trabajo secular. Por lo tanto, nos esforzamos por hacer que este programa sea lo más asequible posible. Gracias a la generosidad de todos los profesores, ofrecen generosamente sus servicios de forma gratuita. Los manuales del alumno para cada curso serán proporcionados por CGV sin costo alguno para los alumnos. Más allá de esto, los gastos de los estudiantes incluirán alimentos y artículos de tocador, alojamiento, libros (para la lectura asignada), viajes y cualquier costo misceláneo.
 
 
 
 ## BECAS UNIVERSALES
 
-Cualquier fondo de beca que reciba DM2 o CGV se aplicará por igual en todos los ámbitos a todos los estudiantes. Por ejemplo, si tenemos 10 estudiantes y recibimos $ 100.00 para becas, cada estudiante recibirá $ 10.00. Para cualquier persona que desee donar al fondo de becas, las contribuciones son deducibles de impuestos a través de DM2.
+Cualquier fondo de beca que reciba CGV se aplicará por igual en todos los ámbitos a todos los estudiantes. Por ejemplo, si tenemos 10 estudiantes y recibimos $ 100.00 para becas, cada estudiante recibirá $ 10.00. Para cualquier persona que desee donar al fondo de becas, las contribuciones son deducibles de impuestos a través de CGV.
 
 
 
