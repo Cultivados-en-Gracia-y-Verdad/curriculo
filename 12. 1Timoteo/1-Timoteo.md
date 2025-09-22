@@ -808,7 +808,7 @@ www.discipuladocgv.org
 
 ## La disciplina por exilio
 
-### Pero Israel falló su intento. A lo largo de cientos de años, a pesar de las advertencias de __<u>docenas</u>__ de profetas, el pueblo rechazó persistentemente a Dios y se negó a hacer su voluntad. Así que Dios finalmente impuso las sanciones del pacto, primero a Israel en el norte, y luego a Judá en el sur.[^18] Levítico 26; Deuteronomio 28; 2 Reyes 17:1-23; 25:1-21
+### Pero Israel falló su intento. A lo largo de cientos de años, a pesar de las advertencias de __<u>docenas</u>__ de profetas, el pueblo rechazó persistentemente a Dios y se negó a hacer su voluntad. Así que Dios finalmente impuso las sanciones del pacto, primero a Israel en el norte, y luego a Judá en el sur.[^18] Levítico 26; Deuteronomio 28; 2 Reyes 17:1-23, 25:1-21
 
 ### Como Israel se negó a __<u>confiar</u>__ a Dios, Dios les impuso una especie de sentencia capital (Levítico 28:38; Deuteronomio 4:27). Los desterró. Los expulsó hacia el este, de su tierra y lejos de su presencia.[^19]
 
@@ -822,7 +822,7 @@ www.discipuladocgv.org
 
 ### Dios sigue disciplinando hoy, en la __<u>iglesia</u>__ por el pecado, incluso hasta el punto de infligir la muerte.[^21]Hechos 5:1-11; 1 Corintios 11:27-31 
 
-### El propósito, como antes, es que al aceptar la disciplina de Dios ahora, finalmente escapemos del __<u>juicio</u>__ de entonces: «*Pero cuando somos juzgados por el Señor, somos disciplinados para que no seamos condenados junto con el mundo*».[^22]1 Corintios 11:32
+### El propósito, como antes, es que al aceptar la disciplina de Dios ahora, finalmente escapemos del __<u>juicio</u>__ de entonces: «*Pero cuando somos juzgados por el Señor, somos disciplinados para que no seamos condenados junto con el mundo*».[^22] 1 Corintios 11:32
 
 ### Pero también provee nuevos medios para preservar la pureza de su pueblo. Además de la provisión interna del Espíritu, Dios __<u>provee</u>__ el apoyo externo de la rendición de cuentas de la iglesia. Ahora, quienes afirman ser el pueblo de Dios, pero cuyas vidas contradicen esa afirmación, son advertidos, exhortados, suplicados y, si es necesario, excluidos de la membresía de la iglesia.[^23] Mateo 18:15-17; 1 Corintios 5:1-13; 2 Corintios 2:5-8; Tito 3:10-11
 
@@ -830,11 +830,11 @@ www.discipuladocgv.org
 
 ## Disciplina en el Reino Milenial
 
-### Cuando regreso Cristo para reinar, la Iglesia ya no necesitará disciplina. Veremos a Cristo cara a __<u>cara</u>__ y seremos como él (1 Juan 3:1-2). La disciplina que Dios aplica a su pueblo ahora —ya sea la disciplina formativa de la enseñanza y la formación, la disciplina correctiva de la reprensión o la exclusión, o la disciplina providencial de la persecución y las dificultades— tiene como objetivo nuestra conformidad con Cristo, que un día se perfeccionará. 
+### Cuando regrese Cristo para reinar, la Iglesia ya no necesitará disciplina. Veremos a Cristo cara a __<u>cara</u>__ y seremos como él (1 Juan 3:1-2). La disciplina que Dios aplica a su pueblo ahora —ya sea la disciplina formativa de la enseñanza y la formación, la disciplina correctiva de la reprensión o la exclusión, o la disciplina providencial de la persecución y las dificultades— tiene como objetivo nuestra conformidad con Cristo, que un día se perfeccionará. 
 
 ### La disciplina que Dios ha aplicado a su pueblo a lo largo de la historia siempre ha tenido __<u>como</u>__ objetivo su restauración y transformación, y un día esa transformación será completa.[^24]
 
-### Sin embargo durante el Milenio, las naciones si recibirán disciplina por no venir a adorar al rey en la __<u>fiesta</u>__ de tabernaculos. La disciplina será no tener lluvia por un año. Zacarías 14:16-19
+### Sin embargo durante el Milenio, las naciones si recibirán disciplina por no venir a adorar al rey en la __<u>fiesta</u>__ de tabernáculos. La disciplina será no tener lluvia por un año. Zacarías 14:16-19
 
 ## Consumación de los tiempos: No más disciplina, sino una división final
 
@@ -848,7 +848,7 @@ www.discipuladocgv.org
 
 ### En __<u>primer</u>__ lugar, de este lado del juicio final, todo acto de disciplina divina tiene como objetivo reformar y renovar a su pueblo. De este lado del juicio final, ningún juicio es definitivo.[^26]
 
-#### A lo largo de la larga y tortuosa historia de Dios con su pueblo, a menudo desobediente, a menudo ha recurrido a la disciplina para sacarnos del estupor pecaminoso. El objetivo siempre fue el arrepentimiento (__<u>cambio</u>__ de mente) y la renovación espiritual. De igual manera, cuando excluimos a alguien de la iglesia, no estamos anunciando su destino final, sino advirtiéndole de lo que podría ser. Excluir a alguien de la comunión con los santos, no es anunciar su condenación final, sino buscar evitarla. 
+#### A través de la larga y tortuosa historia de Dios con su pueblo, a menudo desobediente, a menudo ha recurrido a la disciplina para sacarnos del estupor pecaminoso. El objetivo siempre fue el arrepentimiento (__<u>cambio</u>__ de mente) y la renovación espiritual. De igual manera, cuando excluimos a alguien de la iglesia, no estamos anunciando su destino final, sino advirtiéndole de lo que podría ser. Excluir a alguien de la comunión con los santos, no es anunciar su condenación final, sino buscar evitarla. 
 
 #### Cuando excluimos a alguien, debemos __<u>seguir</u>__ trabajando, orando y esperando su arrepentimiento, renovación y restauración.[^27]
 
@@ -856,7 +856,7 @@ www.discipuladocgv.org
 
 #### Este es un pronóstico temporal de destinos eternos. Todos los que se oponen a Dios sufrirán el "fin definitivo" del __<u>castigo</u>__ eterno; todos los que confían en Cristo experimentarán el nuevo comienzo eterno de la nueva creación.[^28]
 
-### En tercer lugar, Dios “nos disciplina para nuestro bien, para que participemos de su santidad” (Hebreos 12:10). La disciplina de Dios nos beneficia; __<u>busca</u>__ un bien mucho mayor que el que solemos aceptar. 
+### En tercer lugar, Dios “nos disciplina para nuestro bien, para que participemos de su santidad” (Hebreos 12:10). La disciplina de Dios nos beneficia; __<u>busca</u>__ un bien mucho mayor del que solemos aceptar. 
 
 #### Necesitamos recordar constantemente que las providencias severas no significan que Dios tenga un corazón __<u>duro</u>__. Si Dios usa medidas duras, debemos considerar nuestros corazones duros como el blanco, no acusar a Dios. [^29]
 
