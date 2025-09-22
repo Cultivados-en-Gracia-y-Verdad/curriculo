@@ -57,7 +57,7 @@ www.discipuladocgv.org
 
 ### Tradicionalmente, las cartas de 1 Timoteo, 2 Timoteo y Tito han sido descritos como "cartas pastorales". Ese pensamiento ha impregnado en el pensamiento actual y dió a entender que __<u>solo</u>__ líderes cristianos tienen la necesidad de estudiarlos para así ser capacitados para liderar en el ministerio. 2 Corintios 2:1-5
 
-### Lamentablemente este pensamiento resultó en congregaciones que se quedaron con una f**alta</u>__ por comprender las verdades que contiene estas epistolas. 1 Timoteo 3:15
+### Lamentablemente este pensamiento resultó en congregaciones que se quedaron con una __<u>falta</u>__ por comprender las verdades que contiene estas epistolas. 1 Timoteo 3:15
 
 ### Vemos en 2 Timoteo 3:16 que toda la revelación de nuestro Señor es __<u>útil</u>__ para la instrucción de cada uno de Sus santos, por lo tanto, 1 Timoteo ha sido escrito para todo creyente también. 
 
@@ -2311,7 +2311,7 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 5:21c "*no haciendo nada con espíritu de parcialidad.*" Timoteo no debía permitir que su __<u>opinión</u>__ (sea buena o mala) influya. 
 
-#### "*...te encargo que hagas todo esto sin tomar partido ni tener preferencias* "(PDT). 
+#### "*...te encargo que hagas todo esto sin tomar partido ni tener **preferencias***"(PDT). 
 
 #### "*parcialidad*" PROSKLISIS - parcialidad que __<u>impide</u>__ la consideración objetiva de una cuestión o situación.[^48]
 
