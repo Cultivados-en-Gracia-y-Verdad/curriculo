@@ -93,55 +93,11 @@ www.discipuladocgv.org
 
 ### Encontramos esta epístola como la primera __<u>carta</u>__ escrita por el Apóstol Pablo hacia su hijo en la fe, Timoteo. 1 Timoteo 1:1
 
-### Pablo es el Apóstol de Jesucristo enviado a los gentiles. Tiene un __<u>rol</u>__ importante en el establecimiento de la Iglesia. Hechos 9:15; Colosenses 4:3 
-
-### Datos interesantes __<u>sobre</u>__ el Apóstol Pablo
-
-#### Pablo era un hebreo y ciudadano __<u>romano</u>__. Inicialmente perseguidor de seguidores de Jesús (Hechos 9) se convirtió en seguidor y siervo de Jesucristo para la Iglesia. 
-
-#### El Apostolado de Pablo es innegable y confirmado de __<u>varias</u>__ maneras:
-
-##### Por Jesucristo: 
-
-###### Jesús escogió personalmente a __<u>Pablo</u>__ para su Apostolado. Hechos 9:15; 1 Corintios 15:7-8; Gálatas 1:11-16; Efesios 3:7
-
-##### Por los líderes en Jerusalén:
-
-###### Gálatas 2:9 "*Al reconocer la gracia que se me había dado, Jacobo, Pedro y Juan, que eran considerados como columnas, nos dieron a mí y a Bernabé la diestra de compañerismo, para que nosotros fuéramos a los gentiles y ellos a los de la circuncisión.*" Romanos 1:5; Efesios 3:2
-
-##### Por Milagros:
-
-###### Dejó __<u>ciego</u>__ temporalmente a un hechicero (Hechos 13:11). Sanó a un hombre cojo de nacimiento (Hechos 14:8-10). Expulsó a un espíritu que lo molestaba (Hechos 16:16-18). Sanó a personas y expulsó espíritus mediante objetos que tocaba (Hechos 19:11-12). Resucitó a un joven llamado Eutico (Hechos 20:9-12).Fue mordido por una serpiente venenosa y no le ocurrió nada (Hechos 28:3-5). Sanó a un hombre con fiebre y disentería (Hechos 28:8).
-
-##### Por Las Escrituras: 
-
-###### Pablo escribió 13 __<u>libros</u>__ del Nuevo Testamento que confirman su legitimidad.
-
-##### Por Sus Frutos:
-
-###### Los __<u>mismos</u>__ hermanos en Corinto eran evidencia de su Apostolado. 2 Corintios 3:1-2
-
-#### 1 Timoteo es escrito casi al __<u>final</u>__ de su ministerio de aproximadamente 15 años (49d.C. - 64d.C.). Hechos 18:2; 2 Timoteo 4:6
-
-### Timoteo estaría con Pablo durante su __<u>primer</u>__ encarcelamiento en Roma. Sin embargo, al momento de la escritura de 1 Timoteo, el joven Timoteo se encontraba en Éfeso, sirviendo como evangelista entre las diversas iglesias domésticas que existían en ese entonces. 1 Timoteo 1:3
-
-#### Pablo deseaba llevar a Timoteo en su segundo viaje misionero, por lo que tuvo que circunsidarlo por __<u>causa</u>__ de los judios. Entonces Timoteo lo acompañó en su viaje. Timoteo llegó a ser un fiel compañero en el Señor para Pablo. 1 Corintios 4:17
-
-#### Timoteo era un jóven nacido en Listra, (Turquía en la actualidad), hijo de __<u>padre</u>__ griego y madre judía. Su madre, Eunice, y su abuela, Loida, también eran creyentes. 2 Timoteo 1:5[^2] 
-
-##### Su __<u>madre</u>__ y abuela lo habían instruido en el conocimiento de las Sagradas Escrituras. 2 Timoteo 3:15
-
-##### Timoteo fue discipulado por Pablo (1 Timoteo 1:2). En Hechos 16:1-5, aprendemos que Timoteo tenía __<u>buen</u>__ testimonio delante de los hermanos en Listra e Iconio.
-
-##### Su __<u>labor</u>__ incluía la proclamación del evangelio, la enseñanza, la lectura de las Escrituras, el nombramiento de ancianos y diáconos, y la oposición a las falsas enseñanzas. Pablo le escribió, probablemente desde Macedonia, para animarlo en su fiel servicio a Cristo. 1 Timoteo 1:18 [^3]
-
-##### Timoteo cumplió algún tiempo en la __<u>cárcel</u>__ por su fe en Jesucristo, y luego fue liberado. Hebreos 13:23
-
 ## Tema Principal
 
 ### El __<u>tema</u>__ principal de la carta: Como establecer y conducir una iglesia como columna y sostén de la verdad apta para resistir la falsa enseñanza.
 
-### 1 Timoteo 3:14-15 "*Te escribo estas cosas, esperando ir a verte pronto, pero en caso que me tarde, te escribo para que sepas cómo debe conducirse uno en la casa de Dios, que es la iglesia del Dios vivo, columna y sostén de la verdad.*"
+### 1 Timoteo 3:14-15 "*...te escribo para que sepas cómo debe conducirse uno en la casa de Dios, que es la iglesia del Dios vivo, columna y sostén de la verdad.*"
 
 ### En 1 Timoteo, se encuentran instrucciones para establecer iglesias, corregir abusos, __<u>falsas</u>__ doctrinas, prácticas de adoración, hábitos de discipulado, vida familiar, responder a la persecución y más. 
 
@@ -192,7 +148,7 @@ www.discipuladocgv.org
 
 ### Fue el Señor Jesucristo quien usó la palabra EKKLESIA para darle un significado propio cuando dijo "*edificaré mi Iglesia*" dando a entender que en un tiempo futuro El levantaría __<u>sus</u>__ llamados (salidos de EK y llamados hacia KALEO). 
 
-### Mateo 16:18 "*Yo también te digo que tú eres Pedro, y sobre esta roca edificaré Mi iglesia; y las puertas del Hades no prevalecerán contra ella.*" Es en este pasaje que el Señor Jesucristo dió su __<u>origen</u>__ a la palabra "Mi" iglesia, en pertenencia, propósito, cuidado y protección de ella.
+### Mateo 16:18 "*...edificaré Mi iglesia...*" Es en este pasaje que el Señor Jesucristo dió su __<u>origen</u>__ a la palabra "Mi" iglesia, en pertenencia, propósito, cuidado y protección de ella.
 
 ### La Iglesia no pertenece a ninguna institución humana como decir el Vaticano, alguna denominación, las naciones unidas o algún __<u>país</u>__. La iglesia no es de una institución que represente ante el gobierno. Efesios 5:27
 
@@ -214,7 +170,7 @@ www.discipuladocgv.org
 
 #### El mundo (incrédulos) no puede recibir el Espíritu Santo, solo aquellos que han creído en la __<u>obra</u>__ de Jesucristo lo reciben. Efesios 1:13; Juan 14:17; Romanos 8:16
 
-##### Efesios 1:13 "*En Él también ustedes, después de escuchar el mensaje de la verdad, el evangelio de su salvación, y habiendo creído, **fueron sellados en Él con el Espíritu Santo de la promesa**,*"
+##### Efesios 1:13 "*...fueron **sellados** en Él con el Espíritu Santo de la promesa,*"
 
 #### El ministerio del Espiritu Santo en el creyente seria de enseñar y recordar todas las __<u>cosas</u>__ que el Señor Jesucristo había dicho a sus discipulos. Juan 14:26
 
@@ -248,33 +204,25 @@ www.discipuladocgv.org
 
 ### Hoy, la iglesia es el __<u>agente</u>__ que Dios esta usando para alcanzar a todas las naciones, incluyendo a la nación de Israel ya que el evangelio es el mensaje de Dios para todo el mundo. Romanos 11:14, 1:14; 1:16
 
-#### Efesios 3:10-11- "*para dar a conocer ahora a los principados y a las potestades en los cielos las múltiples formas de la sabiduría de Dios, por __<u>medio</u>__ de la Iglesia, conforme al plan eterno que ha realizado por medio de Cristo Jesús, Señor nuestro,*"
+#### Efesios 3:10-11- "*para dar a conocer...de la sabiduría de Dios, por __<u>medio</u>__ de la Iglesia, conforme al plan eterno que ha realizado por medio de Cristo Jesús, Señor nuestro,*" 1 Timoteo 3:15
 
-#### 1 Timoteo 3:15b - "*...Es la iglesia del Dios vivo, __<u>columna</u>__ y sostén de la verda*"
-
-### Es de __<u>notar</u>__ que el Apóstol Pedro no hace mención de iniciar la iglesia o que sea el Apóstol Pedro la cabeza de la iglesia, o como muchos piensan que él sea el primer papa.
-
-### En Mateo 18:17 el Señor Jesucristo va preparando a sus discipulos __<u>sobre</u>__ la iglesia, aunque para ese momento, para ellos la iglesia seguía siendo un misterio. Efesios 3:9
-
-### Pablo dijo en Efesios 3:2-3 que por la __<u>gracia</u>__ de Dios este misterio ha sido dado a conocer a esta generación, ya que en otras generaciones estaba oculta Efesios 3:4-6
+### En Mateo 18 el Señor Jesucristo va preparando a sus discipulos __<u>sobre</u>__ la iglesia, aunque para ese momento, para ellos la iglesia seguía siendo un misterio. Efesios 3:2-6, 9
 
 ## Funcionamiento y vigencia de la iglesia
 
-### Toda casa tiene su propietario. 1 Timoteo 3:5 dice, "*pues si un hombre no sabe cómo gobernar su propia casa, ¿cómo podrá cuidar de la iglesia de Dios*?", la iglesia es la casa del Dios vivo y __<u>tiene</u>__ su propio orden y gobierno. 1 Timoteo 3:15
+### Toda casa tiene su propietario. 1 Timoteo 3:5 dice, "*...de la iglesia de Dios*?", la iglesia es la casa del Dios vivo y __<u>tiene</u>__ su propio orden y gobierno. 1 Timoteo 3:15
 
-### Y en ésta __<u>casa</u>__, que es la iglesia, Dios estableció su propio orden, Efesios 5:23b "*... Cristo es cabeza de la iglesia, siendo El mismo Salvador del cuerpo*".[^4]
-
-### Colosenses 1:18 “*Él es también la cabeza del cuerpo que es la iglesia. Él es el principio, el primogénito de entre los muertos, a fin de que Él tenga en __<u>todo</u>__ la primacía*".
+### Y en ésta __<u>casa</u>__, que es la iglesia, Dios estableció su propio orden, Efesios 5:23b "*... Cristo es cabeza de la iglesia, siendo El mismo Salvador del cuerpo*".[^4] Colosenses 1:18
 
 ### La palabra Mi iglesia le da el sentido de pertenencia al mismo Señor Jesucristo, ya que el mismo dió su vida por ella, __<u>para</u>__ rescatarla y purificarla Mateo 16:18; Efesio 5:24; Romanos 16:16
 
 #### Efesios 5:25 “*…así como Cristo __<u>amó</u>__ a la iglesia y se dio Él mismo por ella,*”
 
-#### Cristo en la cruz no solo nos __<u>rescató</u>__ de la condena del pecado, sino que Él se dio por la iglesia con un propósito. 
+#### Cristo en la cruz no solo nos __<u>rescató</u>__ de la condena del pecado, sino que Él se dio por la iglesia para: 
 
-#### Efesios 5:26 “*para santificarla, habiéndola purificado por el lavamiento del __<u>agua</u>__ con la palabra,*”.
+##### Efesios 5:26 “*...santificarla, habiéndola purificado por el lavamiento del __<u>agua</u>__ con la palabra,*”.
 
-#### Efesios 5:27 "*a fin de presentársela a sí mismo, __<u>una</u>__ iglesia en toda su gloria, sin que tenga mancha ni arruga ni cosa semejante, sino que fuera santa e inmaculada*".
+##### Efesios 5:27 "*a fin de presentársela a sí mismo, __<u>una</u>__ iglesia en toda su gloria, sin que tenga mancha ni arruga ni cosa semejante, sino que fuera santa e inmaculada*".
 
 ### En Hechos 20:28 podemos encontrar que Dios compró la iglesia, mostrando claramente la __<u>deidad</u>__ de Cristo, ya que dice, la compró con Su propia sangre.
 
@@ -284,25 +232,11 @@ www.discipuladocgv.org
 
 #### Por aquel motivo el nos ha llamado __<u>salir</u>__ "Ek" de las tinieblas hacia "Kaleo" su luz admirable. 1 Pedro 2:9
 
-#### 2 Timoteo 1:9 "*Él nos ha salvado y nos ha llamado con un llamamiento santo, no según nuestras obras, sino según Su propósito y según la gracia que nos fue dada en Cristo Jesús desde la eternidad*"
+#### 2 Timoteo 1:9 "*Él nos ha salvado...según Su propósito y según la gracia que nos fue dada en Cristo Jesús desde la eternidad*"
 
-### 1 Corintios 1:9 "*Fiel es Dios, por medio de quien fueron llamados a la comunión con Su Hijo Jesucristo, nuestro Señor.*"
+### 1 Corintios 1:9 "*...fueron llamados a la comunión con Su Hijo Jesucristo...*"
 
-#### Aunque vivimos en el mundo y somos __<u>parte</u>__ de él, la iglesia debe ser distinta. Debemos estar separados de los caminos del mundo y señalar la verdad de Dios. Filipenses 2:12-16 
-
-#### Debemos amar a las personas como Dios lo hace, compartir Su invitación a la salvación con ellos y __<u>orar</u>__ para que ellos también escuchen Su llamado y se unan a Su iglesia. 1 Timoteo 2:1-4; 1 Pedro 3:9
-
-#### Hebreos 10:23–25 es un estímulo para __<u>cada</u>__ uno de nosotros que pertenecemos a la *ekklesia* de Dios: "*Mantengamos firme la esperanza que profesamos, porque fiel es el que hizo la promesa. Preocupémonos los unos por los otros, a fin de estimularnos al amor y a las buenas obras. No dejemos de congregarnos, como acostumbran hacerlo algunos, sino animémonos unos a otros, y con mayor razón ahora que vemos que aquel día se acerca.*"[^5]
-
-#### Gálatas 5:13 "*Porque ustedes, hermanos, a libertad fueron llamados; solo que no usen la libertad como pretexto para la carne, sino sírvanse por __<u>amor</u>__ los unos a los otros.*"
-
-#### 1 Timoteo 4:9-10 "*Palabra fiel es esta, y digna de ser recibida por todos. Que por esto mismo trabajamos y sufrimos oprobios, porque esperamos en el Dios viviente, que es el Salvador de todos los hombres, mayormente de los que __<u>creen</u>__.*"
-
-##### Este llamado no es por mérito del hombre, ya que ningun miembro de la iglesia podria decir que se __<u>ganó</u>__ el ser incluidos dentro de la iglesia del Dios vivo. Efesios 2:13
-
-#### Gálatas 1:6 "*Me maravillo de que tan pronto ustedes hayan abandonado a Aquel que los llamó por la gracia de Cristo, para seguir un evangelio diferente*" Este llamado es solamente y única por su __<u>gracia</u>__.
-
-#### 2 Tesalonicenses 2:14 "*a lo cual os llamó mediante nuestro evangelio, para alcanzar la gloria de nuestro Señor Jesucristo.*" es al momento de creer en el evangelio que uno llega a __<u>formar</u>__ parte de los llamados ("*Ekklesía*") de Jesucristo.
+#### Aunque vivimos en el mundo y somos __<u>parte</u>__ de él, la iglesia debe ser distinta. Debemos estar separados de los caminos del mundo y señalar la verdad de Dios. Filipenses 2:12-16
 
 ## Iglesia universal versus iglesias locales
 
@@ -316,17 +250,15 @@ www.discipuladocgv.org
 
 #### 1Corintios 6:19 "*¿O no saben que su cuerpo es templo del Espíritu Santo que está en ustedes, el cual tienen de Dios, y que ustedes no se pertenecen a sí mismos?*"
 
-#### Efesios 1:22-23 "*Y todo lo sometió bajo Sus pies, y a Él lo dio por cabeza sobre todas las cosas a la iglesia, la cual es Su cuerpo, la plenitud de Aquel que lo llena todo en todo.*"
+#### Efesios 1:22-23 "*...a Él lo dio por cabeza sobre todas las cosas a la iglesia, la cual es Su cuerpo, la plenitud de Aquel que lo llena todo en todo.*"
 
-#### Efesios 2:15 "*...para crear en Él Cristo mismo de los dos un __<u>nuevo</u>__ hombre, estableciendo así la paz,*"
+#### Efesios 2:15 "*...para crear en Él* [Cristo] *mismo de los dos un __<u>nuevo</u>__ hombre...*"
 
-#### Efesios 4:4 "*Hay un __<u>solo</u>__ cuerpo y un solo Espíritu, así como también ustedes fueron llamados en una misma esperanza de su vocación;*"
+#### Efesios 4:4 "*Hay un __<u>solo</u>__ cuerpo y un solo Espíritu...*"
 
-#### Colosenses 3:15 "*Que la paz de Cristo reine en sus corazones, a la cual en verdad fueron llamados en __<u>un</u>__ solo cuerpo; y sean agradecidos.*"
+#### Colosenses 3:15 "*...fueron llamados en __<u>un</u>__ solo cuerpo...*"
 
-#### Judas 1:1 "*Judas , siervo de Jesucristo y hermano de Jacobo, a los llamados, __<u>amados</u>__ en Dios Padre y guardados para Jesucristo:*"
-
-#### Cualquier creyente en el mundo es __<u>miembro</u>__ de la iglesia universal, el unico requisito es haber creido en el evangelio. Efesios 2:19; Efesios 2:22
+#### Cualquier creyente en Jesucristo es __<u>miembro</u>__ de la iglesia universal, el unico requisito es haber creido en el evangelio. Efesios 2:19; Efesios 2:22
 
 ### Representaciones __<u>locales</u>__:
 
@@ -405,6 +337,50 @@ www.discipuladocgv.org
 ##### 1 Pedro 1:3 "*Jesucristo es por medio de __<u>quien</u>__ tienes una esperanza viva, porque Él vive*".
 
 ##### Romanos 5:1-2 "*Jesucristo es por __<u>medio</u>__ de quien has sido declarado justo delante del Padre y ahora puedes gozarte en la esperanza de Su Gloria*".
+
+### Pablo es el Apóstol de Jesucristo enviado a los gentiles. Tiene un __<u>rol</u>__ importante en el establecimiento de la Iglesia. Hechos 9:15; Colosenses 4:3 
+
+### Datos interesantes __<u>sobre</u>__ el Apóstol Pablo
+
+#### Pablo era un hebreo y ciudadano __<u>romano</u>__. Inicialmente perseguidor de seguidores de Jesús (Hechos 9) se convirtió en seguidor y siervo de Jesucristo para la Iglesia. 
+
+#### El Apostolado de Pablo es innegable y confirmado de __<u>varias</u>__ maneras:
+
+##### Por Jesucristo: 
+
+###### Jesús escogió personalmente a __<u>Pablo</u>__ para su Apostolado. Hechos 9:15; 1 Corintios 15:7-8; Gálatas 1:11-16; Efesios 3:7
+
+##### Por los líderes en Jerusalén:
+
+###### Gálatas 2:9 "*Al reconocer la gracia que se me había dado, Jacobo, Pedro y Juan, que eran considerados como columnas, nos dieron a mí y a Bernabé la diestra de compañerismo, para que nosotros fuéramos a los gentiles y ellos a los de la circuncisión.*" Romanos 1:5; Efesios 3:2
+
+##### Por Milagros:
+
+###### Dejó __<u>ciego</u>__ temporalmente a un hechicero (Hechos 13:11). Sanó a un hombre cojo de nacimiento (Hechos 14:8-10). Expulsó a un espíritu que lo molestaba (Hechos 16:16-18). Sanó a personas y expulsó espíritus mediante objetos que tocaba (Hechos 19:11-12). Resucitó a un joven llamado Eutico (Hechos 20:9-12).Fue mordido por una serpiente venenosa y no le ocurrió nada (Hechos 28:3-5). Sanó a un hombre con fiebre y disentería (Hechos 28:8).
+
+##### Por Las Escrituras: 
+
+###### Pablo escribió 13 __<u>libros</u>__ del Nuevo Testamento que confirman su legitimidad.
+
+##### Por Sus Frutos:
+
+###### Los __<u>mismos</u>__ hermanos en Corinto eran evidencia de su Apostolado. 2 Corintios 3:1-2
+
+#### 1 Timoteo es escrito casi al __<u>final</u>__ de su ministerio de aproximadamente 15 años (49d.C. - 64d.C.). Hechos 18:2; 2 Timoteo 4:6
+
+### Timoteo estaría con Pablo durante su __<u>primer</u>__ encarcelamiento en Roma. Sin embargo, al momento de la escritura de 1 Timoteo, el joven Timoteo se encontraba en Éfeso, sirviendo como evangelista entre las diversas iglesias domésticas que existían en ese entonces. 1 Timoteo 1:3
+
+#### Pablo deseaba llevar a Timoteo en su segundo viaje misionero, por lo que tuvo que circunsidarlo por __<u>causa</u>__ de los judios. Entonces Timoteo lo acompañó en su viaje. Timoteo llegó a ser un fiel compañero en el Señor para Pablo. 1 Corintios 4:17
+
+#### Timoteo era un jóven nacido en Listra, (Turquía en la actualidad), hijo de __<u>padre</u>__ griego y madre judía. Su madre, Eunice, y su abuela, Loida, también eran creyentes. 2 Timoteo 1:5[^2] 
+
+##### Su __<u>madre</u>__ y abuela lo habían instruido en el conocimiento de las Sagradas Escrituras. 2 Timoteo 3:15
+
+##### Timoteo fue discipulado por Pablo (1 Timoteo 1:2). En Hechos 16:1-5, aprendemos que Timoteo tenía __<u>buen</u>__ testimonio delante de los hermanos en Listra e Iconio.
+
+##### Su __<u>labor</u>__ incluía la proclamación del evangelio, la enseñanza, la lectura de las Escrituras, el nombramiento de ancianos y diáconos, y la oposición a las falsas enseñanzas. Pablo le escribió, probablemente desde Macedonia, para animarlo en su fiel servicio a Cristo. 1 Timoteo 1:18 [^3]
+
+##### Timoteo cumplió algún tiempo en la __<u>cárcel</u>__ por su fe en Jesucristo, y luego fue liberado. Hebreos 13:23
 
 ## Receptor de la carta: El bien amado de Pablo
 
@@ -1025,6 +1001,24 @@ www.discipuladocgv.org
 #### La palabra *pleno conocimiento* es EPIGNOSIS o también pleno discernimiento, contiene una preposición EPI, que significa acertado o apropiado y GNOSIS conocimiento. __<u>Enseña</u>__ un conocimiento completamente acertado y un pleno discernimiento. 
 
 #### Dios no solo __<u>quiere</u>__ que conozcamos teóricamente de el, sino que seamos plenamente capaces para comprender y discernir la verdad, esa es su voluntad. Romanos 10:2; Colosenses 1:9-10; Efesios 1:16-18, 3:18-19
+
+//* Inicio - Extraido de la introducción
+
+#### Debemos amar a las personas como Dios lo hace, compartir Su invitación a la salvación con ellos y __<u>orar</u>__ para que ellos también escuchen Su llamado y se unan a Su iglesia. 1 Timoteo 2:1-4; 1 Pedro 3:9
+
+#### Hebreos 10:23–25 es un estímulo para __<u>cada</u>__ uno de nosotros que pertenecemos a la *ekklesia* de Dios: "*Mantengamos firme la esperanza que profesamos, porque fiel es el que hizo la promesa. Preocupémonos los unos por los otros, a fin de estimularnos al amor y a las buenas obras. No dejemos de congregarnos, como acostumbran hacerlo algunos, sino animémonos unos a otros, y con mayor razón ahora que vemos que aquel día se acerca.*"[^5]
+
+#### Gálatas 5:13 "*Porque ustedes, hermanos, a libertad fueron llamados; solo que no usen la libertad como pretexto para la carne, sino sírvanse por __<u>amor</u>__ los unos a los otros.*"
+
+#### 1 Timoteo 4:9-10 "*Palabra fiel es esta, y digna de ser recibida por todos. Que por esto mismo trabajamos y sufrimos oprobios, porque esperamos en el Dios viviente, que es el Salvador de todos los hombres, mayormente de los que __<u>creen</u>__.*"
+
+##### Este llamado no es por mérito del hombre, ya que ningun miembro de la iglesia podria decir que se __<u>ganó</u>__ el ser incluidos dentro de la iglesia del Dios vivo. Efesios 2:13
+
+#### Gálatas 1:6 "*Me maravillo de que tan pronto ustedes hayan abandonado a Aquel que los llamó por la gracia de Cristo, para seguir un evangelio diferente*" Este llamado es solamente y única por su __<u>gracia</u>__.
+
+#### 2 Tesalonicenses 2:14 "*a lo cual os llamó mediante nuestro evangelio, para alcanzar la gloria de nuestro Señor Jesucristo.*" es al momento de creer en el evangelio que uno llega a __<u>formar</u>__ parte de los llamados ("*Ekklesía*") de Jesucristo.
+
+//* Fin
 
 ## 1 Timoteo 2:5-7 - El ministerio de Pablo
 
