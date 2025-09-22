@@ -323,27 +323,31 @@ www.discipuladocgv.org
 
 ### Representaciones locales:
 
-#### Una iglesia local se considera desde el momento en que 2, 3 o más personas se reunen regularmente en el nombre del Señor Jesucristo con un propósito de adorar, estudiar La Palabra, tener comunión. Mateo 18:20; Hechos 2:42
+#### 1 Corintios 1:2 "*a la iglesia de Dios que está **en Corinto**, a los que han sido santificados en Cristo Jesús, llamados a ser santos...*" Este llamado a ser santos es posible solamente a traves del verdadero conocimiento de la palabra de Dios
 
-#### Efesios 4:3-4 "*esforzándose por preservar la unidad del Espíritu en el vínculo de la paz. Hay un solo cuerpo y un solo Espíritu, así como también ustedes fueron llamados en una misma esperanza de su vocación;*"
+#### Romanos 1:7 "*A todos los amados de Dios que están **en Roma**, llamados a ser santos...*" Es solo a traves del discipulado que un creyente puede ser guiado a la santidad diaria siendo enseñado en toda la escritura.
 
-#### Efesios 4:5-6 "*un solo Señor, una sola fe, un solo bautismo, un solo Dios y Padre de todos, que está sobre todos, por todos y en todos.*"
+#### Se considera una iglesia local desde el momento en que 2, 3 o más personas se reunen regularmente en el nombre del Señor Jesucristo con un propósito de adorar, estudiar La Palabra y tener comunión entre los santos. Mateo 18:20; Hechos 2:42
 
-#### 1 Corintios 1:2 "*a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cristo Jesús, llamados a ser santos, **con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo**, Señor de ellos y nuestro:*".
+##### Efesios 4:3-4 "*esforzándose por preservar la unidad del Espíritu en el vínculo de la paz. Hay un solo cuerpo y un solo Espíritu, así como también ustedes fueron llamados en una misma esperanza de su vocación;*"
 
-#### El propósito principal de la iglesia está en la instrucción del Señor Jesucristo. La Gran Comisión. Ir y hacer discipulos incluye evangelizar, discipular y encargar a hombres fieles. Mateo 28:18-20, 2 Timoteo 2:2
+##### Efesios 4:5-6 "*un solo Señor, una sola fe, un solo bautismo, un solo Dios y Padre de todos, que está sobre todos, por todos y en todos.*"
+
+##### 1 Corintios 1:2 "*a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cristo Jesús, llamados a ser santos, **con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo**, Señor de ellos y nuestro:*".
+
+#### El propósito principal de la iglesia está en la instrucción del Señor Jesucristo. La Gran Comisión. Ir y hacer discipulos incluye evangelizar, discipular y encargar a hombres fieles a discipular a otros y establecer iglesias locales. Mateo 28:18-20, 2 Timoteo 2:2
 
 ##### Es verdad que cada miembro de la iglesia no debe descuidar la misión de anunciar y predicar el evangelio de la salvación. Marcos 16:15; Hechos 4:12.
 
 ##### Pero una iglesia que no hace discipulos su fin es seguro, ya que no quedará nadie quien enseñe a guardar todas las cosas que el Señor Jesucristo ha enseñado. Mateo 28:20
 
-#### La iglesia debe persistir en continuar en La Gran Comisión y permanecer firmes en el evangelio, enseñando a los fieles de la iglesia a enseñar a otros fielmente La Palabra de Dios. 2 Timoteo 2:2, 3:14-16
+#### La iglesia debe persistir en continuar firmes en el evangelio, enseñando a los fieles de la iglesia a enseñar a otros fielmente La Palabra de Dios. 2 Timoteo 2:2, 3:14-16
 
 ##### 2 Timoteo 3:17 "*a fin de que el hombre de Dios sea perfecto, equipado para toda buena obra.*"
 
-##### 1 Corintios 1:2 "*a la iglesia de Dios que está **en Corinto**, a los que han sido santificados en Cristo Jesús, llamados a ser santos...*" Este llamado a ser santos es posible solamente a traves del verdadero conocimiento de la palabra de Dios
+##### Una iglesia local es parte de la iglesia universal sin embargo ella es autónoma en funcionamiento. Los líderes de una iglesia local no son líderes en otra iglesia local también. 
 
-##### Romanos 1:7 "*A todos los amados de Dios que están **en Roma**, llamados a ser santos...*" Es solo a traves del discipulado que un creyente puede ser guiado a la santidad diaria siendo enseñado en toda la escritura.
+#### Cuando una iglesia local establecer otra iglesia local, la nueva iglesia llega a funcionar independientemente de la primera. Una iglesia local que tiene otras iglesias locales bajo los mismos ancianos no esta siendo autónoma ni permitiendo a otros ser autónomos. Hechos 20:17; Santiago 5:14
 
 # 1 Timoteo 1:1-2 - Saludos 
 
