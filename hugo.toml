@@ -277,12 +277,15 @@ pluralizelisttitles = false
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
     contact_url = "/contacto"
-    address = """<p class="text-uppercase"><strong>Yo Soy</strong>
+    address = """<p class="text-uppercase"><strong>Centros en Bolivia</strong>
         <br>Iglesia Yo Soy
         <br>Cochabamba
         <br>
-        <strong>Bolivia</strong>
       </p>
+      Iglesia Bíblica Misionera
+      <br>Tupiza
+      <br>
+
       """
 UglifyURLs = true
 CanonifyURLs = true
