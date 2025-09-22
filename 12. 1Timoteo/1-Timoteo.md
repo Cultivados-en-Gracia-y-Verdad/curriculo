@@ -330,9 +330,9 @@ www.discipuladocgv.org
 
 ### Representaciones __<u>locales</u>__:
 
-#### 1 Corintios 1:2 "*a la iglesia de Dios que está __<u>en Corinto</u>__, a los que han sido santificados en Cristo Jesús, llamados a ser santos...*" Este llamado a ser santos es posible solamente a __<u>traves</u>__ del verdadero conocimiento de la palabra de Dios
+#### 1 Corintios 1:2 "*a la iglesia de Dios que está __<u>en Corinto</u>__, a los que han sido santificados en Cristo Jesús...*"
 
-#### Romanos 1:7 "*A todos los amados de Dios que están __<u>en Roma</u>__, llamados a ser santos...*" Es __<u>solo</u>__ a traves del discipulado que un creyente puede ser guiado a la santidad diaria siendo enseñado en toda la escritura.
+#### Romanos 1:7 "*A todos los amados de Dios que están __<u>en Roma</u>__...*"
 
 #### Se considera una iglesia __<u>local</u>__ desde el momento en que 2, 3 o más personas se reunen regularmente en el nombre del Señor Jesucristo con un propósito de adorar, estudiar La Palabra y tener comunión entre los santos. Mateo 18:20; Hechos 2:42
 
@@ -352,9 +352,9 @@ www.discipuladocgv.org
 
 ##### 2 Timoteo 3:17 "*a fin de que el hombre de Dios sea perfecto, equipado para __<u>toda</u>__ buena obra.*"
 
-##### Una iglesia local es parte de la iglesia universal sin embargo ella es autónoma en funcionamiento. Los líderes de una __<u>iglesia</u>__ local no son líderes en otra iglesia local también. 
+##### Una iglesia local es parte de la iglesia universal sin embargo ella es autónoma en funcionamiento.
 
-#### Cuando una iglesia local establecer otra iglesia local, la nueva iglesia llega a funcionar independientemente de la __<u>primera</u>__. Una iglesia local que tiene otras iglesias locales bajo los mismos ancianos no esta siendo autónoma ni permitiendo a otros ser autónomos. Hechos 20:17; Santiago 5:14
+#### Cuando una iglesia local establece otra iglesia local, la nueva iglesia llega a funcionar independientemente de la __<u>primera</u>__. Una iglesia local que tiene otras iglesias locales bajo los mismos ancianos no esta siendo autónoma ni permitiendo a otros ser autónomos. Hechos 20:17; Santiago 5:14
 
 # 1 Timoteo 1:1-2 - Saludos 
 
