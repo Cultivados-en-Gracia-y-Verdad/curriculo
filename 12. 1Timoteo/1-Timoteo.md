@@ -323,7 +323,7 @@ www.discipuladocgv.org
 
 ### Representaciones locales:
 
-#### Una iglesia local se considera desde el momento en que 2, 3 o más personas se reunen en el nombre del Señor Jesucristo con un propósito común. Mateo 18:20; Hechos 2:42
+#### Una iglesia local se considera desde el momento en que 2, 3 o más personas se reunen regularmente en el nombre del Señor Jesucristo con un propósito de adorar, estudiar La Palabra, tener comunión. Mateo 18:20; Hechos 2:42
 
 #### Efesios 4:3-4 "*esforzándose por preservar la unidad del Espíritu en el vínculo de la paz. Hay un solo cuerpo y un solo Espíritu, así como también ustedes fueron llamados en una misma esperanza de su vocación;*"
 
@@ -331,13 +331,13 @@ www.discipuladocgv.org
 
 #### 1 Corintios 1:2 "*a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cristo Jesús, llamados a ser santos, **con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo**, Señor de ellos y nuestro:*".
 
-#### El propósito principal de la iglesia está en la instrucción del Señor Jesucristo (la Gran Comisión). Mateo 28:18-20 
+#### El propósito principal de la iglesia está en la instrucción del Señor Jesucristo. La Gran Comisión. Ir y hacer discipulos incluye evangelizar, discipular y encargar a hombres fieles. Mateo 28:18-20, 2 Timoteo 2:2
 
 ##### Es verdad que cada miembro de la iglesia no debe descuidar la misión de anunciar y predicar el evangelio de la salvación. Marcos 16:15; Hechos 4:12.
 
-#### Pero una iglesia que no hace discipulos su fin es seguro, ya que no quedará nadie quien enseñe a guardar todas las cosas que el Señor Jesucristo ha enseñado. Mateo 28:20
+##### Pero una iglesia que no hace discipulos su fin es seguro, ya que no quedará nadie quien enseñe a guardar todas las cosas que el Señor Jesucristo ha enseñado. Mateo 28:20
 
-#### La iglesia debe persistir en continuar con la gran comisión y permanecer firmes en el evangelio, enseñando a los fieles de la iglesia a enseñar a otros fielmente la palabra de Dios. 2 Timoteo 3:14-16
+#### La iglesia debe persistir en continuar en La Gran Comisión y permanecer firmes en el evangelio, enseñando a los fieles de la iglesia a enseñar a otros fielmente La Palabra de Dios. 2 Timoteo 2:2, 3:14-16
 
 ##### 2 Timoteo 3:17 "*a fin de que el hombre de Dios sea perfecto, equipado para toda buena obra.*"
 
@@ -1417,11 +1417,11 @@ www.discipuladocgv.org
 
 ##### Libre de criticas justificables y ante la ley civil. 1 Timoteo 3:1-2a
 
-##### Debe tener una sola esposa y serle fiel. (Implisitamente, creyente varón) 1 Timoteo 3:2b
+##### Debe tener una sola esposa y serle fiel. 1 Timoteo 3:2b
 
-##### Debe ser moderado, autocontrolado, respetable, hospitalario y capaz de enseñar. 
+##### Debe ser moderado, autocontrolado, respetable, hospitalario. 1 Timoteo 3:2c
 
-##### 1 Timoteo 3:2c
+##### capaz de enseñar. 1 Timoteo 3:2c
 
 ##### Debe ser amable y tener una familia que se comporte bien. 1 Timoteo 3:3c-5
 
@@ -1439,7 +1439,7 @@ www.discipuladocgv.org
 
 ##### No debe ser un creyente nuevo. 1 Timoteo 3:6a
 
-### Cada requisito debe ser cumplido en el tiempo presente.
+### Cada uno de estos requisitos deben ser cumplidos en el tiempo presente.
 
 ## Requisitos para los diaconos
 
