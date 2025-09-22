@@ -782,13 +782,13 @@ www.discipuladocgv.org
 
 ### Fueron disciplinados, Pablo los __<u>habia</u>__ entregado a Satanás para una futura restauración. 1 Timoteo 1:20
 
-# Breve Doctrina sobre la Disciplina en la Iglesia
+# Breve Doctrina sobre la Disciplina en la Iglesia.
 
 ## Introducción
 
 ### Para algunos cristianos, la disciplina eclesiástica parece contradecir la esencia __<u>misma</u>__ de la historia bíblica. ¿Acaso el Evangelio no se centra en Jesús dando la bienvenida a los recaudadores de impuestos y pecadores? [^10]
 
-### ¿No estamos retrocediendo el tiempo y sometiendo a los creyentes de nuevo a la ley si empezamos a excluir a personas de la __<u>iglesia</u>__ por ciertos pecados?[^11]
+### ¿No estamos retrocediendo el tiempo y sometiendo a los creyentes de nuevo a la ley si empezamos a excluir a personas de la __<u>iglesia</u>__ por ciertos pecados? [^11]
 
 ### Como veremos, la disciplina de Dios a su pueblo es parte integral de toda la historia bíblica, __<u>desde</u>__ el Edén hasta la nueva creación. 
 
@@ -796,23 +796,23 @@ www.discipuladocgv.org
 
 ### En el principio, Dios creó a Adán y a Eva. Los trajo consigo y los unió. Los puso en el jardín que había preparado para __<u>ellos</u>__. Caminó con ellos y habló con ellos cara a cara. Génesis 1:26-28, 2:4-25
 
-### Pero no duró. Adán y Eva pecaron, y Dios les impuso una sentencia de muerte y los desterró. Los expulsó __<u>hacia</u>__ el este, de su jardín y lejos de su presencia. Esto fué la disciplina de Dios a Adán y Eva.[^12] Génesis 3:1-24
+### Pero no duró. Adán y Eva pecaron, y Dios les impuso una sentencia de muerte y los desterró. Los expulsó __<u>hacia</u>__ el este, de su jardín y lejos de su presencia. Esto fue la disciplina de Dios a Adán y Eva. [^12] Génesis 3:1-24
 
 ## Disciplina en el desierto
 
 ### A pesar de las asombrosas obras que Dios realizó ante los ojos de Israel, no creyeron y se quejaron. Se negaron a __<u>confiar</u>__ en que el Dios que rompió sus cadenas pudiera llenar sus estómagos. Éxodo 16-17; Números 11
 
-### Se negaron a __<u>confiar</u>__ en que el Dios que venció a Faraón pudiera controlar a los enemigos que se les presentaban.[^13] Números 14
+### Se negaron a __<u>confiar</u>__ en que el Dios que venció a Faraón pudiera controlar a los enemigos que se les presentaban. [^13] Números 14
 
-### Dios disciplina a su pueblo para que __<u>aprenda</u>__ a no depender de sí mismo ni correr tras otros dioses, sino a buscarlo todo y encontrarlo todo en él.[^14]
+### Dios disciplina a su pueblo para que __<u>aprenda</u>__ a no depender de sí mismo ni correr tras otros dioses, sino a buscarlo todo y encontrarlo todo en él. [^14]
 
 ## Disciplina para evitar la destrucción
 
-### Dios guió a su pueblo a la Tierra Prometida, expulsó a sus enemigos y los estableció allí. En el __<u>pacto</u>__ que Dios hizo con Israel por medio de Moisés en el Sinaí, los convirtió no solo en un pueblo, sino en una nación (Éxodo 19:5-6). 
+### Dios guio a su pueblo a la Tierra Prometida, expulsó a sus enemigos y los estableció allí. En el __<u>pacto</u>__ que Dios hizo con Israel por medio de Moisés en el Sinaí, los convirtió no solo en un pueblo, sino en una nación (Éxodo 19:5-6). 
 
 ### Les dio una ley que no solo debía asegurar su obediencia, sino también gobernar su sociedad. Bajo el pacto mosaico, Dios responsabilizó a Israel ante esta ley y autorizó al gobierno humano de Israel a __<u>imponer</u>__ las sanciones correspondientes por la deserción del pacto. 
 
-### Los falsos profetas debían ser ejecutados (Deuteronomio 13:1-5), al igual que los idólatras (Deuteronomio 13:6-18, 17:2-7). El objetivo de Dios al autorizar al pueblo a __<u>ejecutar</u>__ a los idólatras era "*purgar al malvado*  "persona malvada" *de en medio de ustedes*".[^15]
+### Los falsos profetas debían ser ejecutados (Deuteronomio 13:1-5), al igual que los idólatras (Deuteronomio 13:6-18, 17:2-7). El objetivo de Dios al autorizar al pueblo a __<u>ejecutar</u>__ a los idólatras era "*purgar al malvado* "persona malvada" *de en medio de ustedes*".[^15]
 
 ### En el pacto mosaico, Dios también empleó otros medios de disciplina. Si el pueblo no obedecía, amenazaba con enfermedad y derrota (Levítico 26:14-17). Si no se arrepentían, Dios prometía una __<u>mayor</u>__ "disciplina" que consistía en arruinar su tierra y quebrantar su fuerza (Levítico 26:18-20). Y otras consecuencias aún más terribles les aguardaban si el pueblo persistía en la rebelión.[^16]
 
@@ -820,7 +820,7 @@ www.discipuladocgv.org
 
 ### Toda esta disciplina tenía como objetivo evitar el desastre del exilio. Dios disciplinó a su pueblo __<u>para</u>__ ofrecerle un salvavidas ante un juicio aún mayor.[^17]
 
-## La disciplina por exílio
+## La disciplina por exilio
 
 ### Pero Israel falló su intento. A lo largo de cientos de años, a pesar de las advertencias de __<u>docenas</u>__ de profetas, el pueblo rechazó persistentemente a Dios y se negó a hacer su voluntad. Así que Dios finalmente impuso las sanciones del pacto, primero a Israel en el norte, y luego a Judá en el sur.[^18] Levítico 26; Deuteronomio 28; 2 Reyes 17:1-23; 25:1-21
 
@@ -832,7 +832,7 @@ www.discipuladocgv.org
 
 ### El pacto mosaico __<u>exigía</u>__ obediencia, pero no otorgaba el poder para obedecer. [^20]
 
-### Dios sigue disciplinando de igual manera pero ahora a la iglesia. Puede usar la persecución y providencias difíciles, alejándonos del __<u>mundo</u>__ y aferrándonos más a sus promesas. Hebreos 12:5-11 
+### Dios sigue disciplinando de igual manera, pero ahora a la iglesia. Puede usar la persecución y providencias difíciles, alejándonos del __<u>mundo</u>__ y aferrándonos más a sus promesas. Hebreos 12:5-11 
 
 ### Dios sigue disciplinando hoy, en la __<u>iglesia</u>__ por el pecado, incluso hasta el punto de infligir la muerte.[^21]Hechos 5:1-11; 1 Corintios 11:27-31 
 
