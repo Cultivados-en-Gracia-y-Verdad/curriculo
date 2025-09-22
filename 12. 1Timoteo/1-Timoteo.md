@@ -47,173 +47,173 @@ www.discipuladocgv.org
 
 ## A primera vista
 
-### La maravilla de la iglesia está en el hecho que Cristo la concibió en Sus planes desde antes de la fundación del mundo (Efesios 1:4), la compró con Su sangre (Hechos 20:28), prometió edificarla (Mateo 16:18a), envió el Espiritu para fundarla (Hechos 2), la santifica (Efesios 5:26) y prometió preservarla eternamente (Mateo 16:18b). 
+### La maravilla de la iglesia **está** en el hecho que Cristo la concibió en Sus planes desde antes de la fundación del mundo (Efesios 1:4), la compró con Su sangre (Hechos 20:28), prometió edificarla (Mateo 16:18a), envió el Espiritu para fundarla (Hechos 2), la santifica (Efesios 5:26) y prometió preservarla eternamente (Mateo 16:18b). 
 
-### La Iglesia no pertenece a ninguna institución humana como decir el Vaticano, alguna denominación, las naciones unidas o algún país. La iglesia no es de una institución que represente ante el gobierno. Efesios 5:27
+### La Iglesia no pertenece a ninguna institución humana como decir el Vaticano, alguna denominación, las naciones unidas o algún **país**. La iglesia no es de una institución que represente ante el gobierno. Efesios 5:27
 
-### La iglesia no pertenece a personas como los reformadores, misioneros, "padres fundadores", ancestros, maestros, ancianos o diáconos. La iglesia no pertenece a personas que ofrendaron por comprar el lote y un edificio. 3 Juan 1:9-10
+### La iglesia no pertenece a personas como los reformadores, misioneros, "padres fundadores", ancestros, maestros, ancianos o diáconos. La iglesia no pertenece a personas que ofrendaron por comprar el **lote** y un edificio. 3 Juan 1:9-10
 
-### La Iglesia pertenece únicamente a Jesucristo quien la compró con Su sangre. Hechos 20:28; 1 Corintios 7:23
+### La Iglesia pertenece únicamente a Jesucristo quien la compró **con** Su sangre. Hechos 20:28; 1 Corintios 7:23
 
-### Tradicionalmente, las cartas de 1 Timoteo, 2 Timoteo y Tito han sido descritos como "cartas pastorales". Ese pensamiento ha impregnado en el pensamiento actual y dió a entender que solo líderes cristianos tienen la necesidad de estudiarlos para así ser capacitados para liderar en el ministerio. 2 Corintios 2:1-5
+### Tradicionalmente, las cartas de 1 Timoteo, 2 Timoteo y Tito han sido descritos como "cartas pastorales". Ese pensamiento ha impregnado en el pensamiento actual y dió a entender que **solo** líderes cristianos tienen la necesidad de estudiarlos para así ser capacitados para liderar en el ministerio. 2 Corintios 2:1-5
 
-### Lamentablemente este pensamiento resultó en congregaciones que se quedaron con una falta por comprender las verdades que contiene estas epistolas. 1 Timoteo 3:15
+### Lamentablemente este pensamiento resultó en congregaciones que se quedaron con una f**alta** por comprender las verdades que contiene estas epistolas. 1 Timoteo 3:15
 
-### Vemos en 2 Timoteo 3:16 que toda la revelación de nuestro Señor es útil para la instrucción de cada uno de Sus santos, por lo tanto, 1 Timoteo ha sido escrito para todo creyente también. 
+### Vemos en 2 Timoteo 3:16 que toda la revelación de nuestro Señor es **útil** para la instrucción de cada uno de Sus santos, por lo tanto, 1 Timoteo ha sido escrito para todo creyente también. 
 
-### Este precioso libro contiene instrucción importante para hermanos mayores, hermanas mayores, hermanas jóvenes y hermanos jóvenes. Personas en posiciones de empleados (esclavos) y empresarios (ricos). 
+### Este precioso **libro** contiene instrucción importante para hermanos mayores, hermanas mayores, hermanas jóvenes y hermanos jóvenes. Personas en posiciones de empleados (esclavos) y empresarios (ricos). 
 
-### Si alguna vez te preguntaste "¿Qué es la Iglesia?", "¿Cómo se define la Iglesia?", "¿Cuál es mi parte dentro de la Iglesia?", "¿Cómo debemos conducirnos en ella?", entonces el contenido de este libro te guiará a la esencia de que es la Iglesia de Jesucristo y como debe andar ordenadamente. Asi que, creyente, ¡pon atención a este hermoso y valioso libro!
+### Si alguna vez te preguntaste "¿Qué es la Iglesia?", "¿Cómo se define la Iglesia?", "¿Cuál es mi **parte** dentro de la Iglesia?", "¿Cómo debemos conducirnos en ella?", entonces el contenido de este libro te guiará a la esencia de que es la Iglesia de Jesucristo y como debe andar ordenadamente. Asi que, creyente, ¡pon atención a este hermoso y valioso libro!
 
 ## Información General
 
 ## Género: 
 
-### El género del libro es didáctico, es una carta escrita a alguien con el propósito de dar enseñanza. 
+### El género del libro es didáctico, es una __<u>carta</u>__ escrita a alguien con el propósito de dar enseñanza. 
 
-##### Timoteo es el único individuo que recibió dos cartas que son parte de las Sagradas Escrituras. 
+##### Timoteo es el único individuo que recibió __<u>dos</u>__ cartas que son parte de las Sagradas Escrituras. 
 
-##### El libro de 1 Timoteo contiene tres poemas. 1 Timoteo 1:17, 3:16, 6:15-16
+##### El libro de 1 Timoteo contiene __<u>tres</u>__ poemas. 1 Timoteo 1:17, 3:16, 6:15-16
 
-## ![](1tim.png)
+![](1tim.png)
 
 ## Eventos importantes en referencia a 1 Timoteo
 
-### En tres ocaciones encontramos a Pablo haciendo la declaración, "*palabra fiel*" (1 Timoteo 1:15, 3:1, 4:9). El hecho que es "*palabra fiel*" nos anima a prestar atención al mensaje que contiene. 
+### En **tres** ocaciones encontramos a Pablo haciendo la declaración, "*palabra fiel*" (1 Timoteo 1:15, 3:1, 4:9). El hecho que es "*palabra fiel*" nos __<u>anima</u>__ a prestar atención al mensaje que contiene. 
 
 ## Trasfondo Cultural/Histórico
 
-### La fecha de escritura es entre 62 y 65 d.C. desde Macedonia.
+### La fecha de escritura es entre 62 y 65 d.C. __<u>desde</u>__ Macedonia.
 
 ### Pablo había estado en Éfeso (1 Timoteo 1:3) después de su llegada de Roma, lo cual fue ciertamente antes del incendio de Roma en el 64 d.C. [^1]
 
-### Había dejado a Timoteo a cargo de la obra en Éfeso y se había ido a Macedonia (1 Timoteo 1:3), posiblemente a Filipos, como esperaba. Filipenses 2:24
+### Había dejado a Timoteo a cargo de la **obra** en Éfeso y se había ido a Macedonia (1 Timoteo 1:3), posiblemente a Filipos, como esperaba. Filipenses 2:24
 
-### Deseaba ayudar a Timoteo a afrontar los problemas de doctrina, disciplina y formación eclesiástica, que eran cada vez más urgentes. 1 Timoteo 4:16
+### Deseaba ayudar a Timoteo a afrontar los problemas de doctrina, disciplina y formación eclesiástica, que eran **cada** vez más urgentes. 1 Timoteo 4:16
 
-### Aquí encontramos sabias palabras del Apóstol Pablo a un joven ministro a quien estimaba. 1 Timoteo 6:11-12
+### Aquí encontramos sabias palabras del Apóstol Pablo a un **jóven** ministro a quien estimaba. 1 Timoteo 6:11-12
 
 ## Autor y Receptor del libro 
 
-### Encontramos esta epístola como la primera carta escrita por el Apóstol Pablo hacia su hijo en la fe, Timoteo. 1 Timoteo 1:1
+### Encontramos esta epístola como la primera **carta** escrita por el Apóstol Pablo hacia su hijo en la fe, Timoteo. 1 Timoteo 1:1
 
-### Pablo es el Apóstol de Jesucristo enviado a los gentiles. Tiene un rol importante en el establecimiento de la Iglesia. Hechos 9:15; Colosenses 4:3 
+### Pablo es el Apóstol de Jesucristo enviado a los gentiles. Tiene un **rol** importante en el establecimiento de la Iglesia. Hechos 9:15; Colosenses 4:3 
 
-### Datos interesantes sobre el Apóstol Pablo
+### Datos interesantes **sobre** el Apóstol Pablo
 
-#### Pablo era un hebreo y ciudadano romano. Inicialmente perseguidor de seguidores de Jesús (Hechos 9) se convirtió en seguidor y siervo de Jesucristo para la Iglesia. 
+#### Pablo era un hebreo y ciudadano **romano**. Inicialmente perseguidor de seguidores de Jesús (Hechos 9) se convirtió en seguidor y siervo de Jesucristo para la Iglesia. 
 
-#### El Apostolado de Pablo es innegable y confirmado de varias maneras:
+#### El Apostolado de Pablo es innegable y confirmado de **varias** maneras:
 
 ##### Por Jesucristo: 
 
-###### Jesús escogió personalmente a Pablo para su Apostolado. Hechos 9:15; 1 Corintios 15:7-8; Gálatas 1:11-16; Efesios 3:7
+###### Jesús escogió personalmente a **Pablo** para su Apostolado. Hechos 9:15; 1 Corintios 15:7-8; Gálatas 1:11-16; Efesios 3:7
 
 ##### Por los líderes en Jerusalén:
 
-###### Gálatas 2:9 "***Al reconocer la gracia que se me había dado**, Jacobo, Pedro y Juan, que eran considerados como columnas, nos dieron a mí y a Bernabé la diestra de compañerismo, para que nosotros fuéramos a los gentiles y ellos a los de la circuncisión.*" Romanos 1:5; Efesios 3:2
+###### Gálatas 2:9 "*Al reconocer la gracia que se me había dado, Jacobo, Pedro y Juan, que eran considerados como columnas, nos dieron a mí y a Bernabé la diestra de compañerismo, para que nosotros fuéramos a los gentiles y ellos a los de la circuncisión.*" Romanos 1:5; Efesios 3:2
 
 ##### Por Milagros:
 
-###### Dejó ciego temporalmente a un hechicero (Hechos 13:11). Sanó a un hombre cojo de nacimiento (Hechos 14:8-10). Expulsó a un espíritu que lo molestaba (Hechos 16:16-18). Sanó a personas y expulsó espíritus mediante objetos que tocaba (Hechos 19:11-12). Resucitó a un joven llamado Eutico (Hechos 20:9-12).Fue mordido por una serpiente venenosa y no le ocurrió nada (Hechos 28:3-5). Sanó a un hombre con fiebre y disentería (Hechos 28:8).
+###### Dejó **ciego** temporalmente a un hechicero (Hechos 13:11). Sanó a un hombre cojo de nacimiento (Hechos 14:8-10). Expulsó a un espíritu que lo molestaba (Hechos 16:16-18). Sanó a personas y expulsó espíritus mediante objetos que tocaba (Hechos 19:11-12). Resucitó a un joven llamado Eutico (Hechos 20:9-12).Fue mordido por una serpiente venenosa y no le ocurrió nada (Hechos 28:3-5). Sanó a un hombre con fiebre y disentería (Hechos 28:8).
 
 ##### Por Las Escrituras: 
 
-###### Pablo escribió 13 libros del Nuevo Testamento que confirman su legitimidad.
+###### Pablo escribió 13 **libros** del Nuevo Testamento que confirman su legitimidad.
 
 ##### Por Sus Frutos:
 
-###### Los mismos hermanos en Corinto eran evidencia de su Apostolado. 2 Corintios 3:1-2
+###### Los **mismos** hermanos en Corinto eran evidencia de su Apostolado. 2 Corintios 3:1-2
 
-#### 1 Timoteo es escrito casi al final de su ministerio de aproximadamente 15 años (49d.C. - 64d.C.). Hechos 18:2; 2 Timoteo 4:6
+#### 1 Timoteo es escrito casi al **final** de su ministerio de aproximadamente 15 años (49d.C. - 64d.C.). Hechos 18:2; 2 Timoteo 4:6
 
-### Timoteo estaría con Pablo durante su primer encarcelamiento en Roma. Sin embargo, al momento de la escritura de 1 Timoteo, el joven Timoteo se encontraba en Éfeso, sirviendo como evangelista entre las diversas iglesias domésticas que existían en ese entonces. 1 Timoteo 1:3
+### Timoteo estaría con Pablo durante su **primer** encarcelamiento en Roma. Sin embargo, al momento de la escritura de 1 Timoteo, el joven Timoteo se encontraba en Éfeso, sirviendo como evangelista entre las diversas iglesias domésticas que existían en ese entonces. 1 Timoteo 1:3
 
-#### Pablo deseaba llevar a Timoteo en su segundo viaje misionero, por lo que tuvo que circunsidarlo por causa de los judios. Entonces Timoteo lo acompañó en su viaje. Timoteo llegó a ser un fiel compañero en el Señor para Pablo. 1 Corintios 4:17
+#### Pablo deseaba llevar a Timoteo en su segundo viaje misionero, por lo que tuvo que circunsidarlo por **causa** de los judios. Entonces Timoteo lo acompañó en su viaje. Timoteo llegó a ser un fiel compañero en el Señor para Pablo. 1 Corintios 4:17
 
-#### Timoteo era un joven nacido en Listra, (Turquía en la actualidad), hijo de padre griego y madre judía. Su madre, Eunice, y su abuela, Loida, también eran creyentes. 2 Timoteo 1:5[^2] 
+#### Timoteo era un jóven nacido en Listra, (Turquía en la actualidad), hijo de **padre** griego y madre judía. Su madre, Eunice, y su abuela, Loida, también eran creyentes. 2 Timoteo 1:5[^2] 
 
-##### Su madre y abuela lo habían instruido en el conocimiento de las Sagradas Escrituras. 2 Timoteo 3:15
+##### Su **madre** y abuela lo habían instruido en el conocimiento de las Sagradas Escrituras. 2 Timoteo 3:15
 
-##### Timoteo fue discipulado por Pablo (1 Timoteo 1:2). En Hechos 16:1-5, aprendemos que Timoteo tenía buen testimonio delante de los hermanos en Listra e Iconio.
+##### Timoteo fue discipulado por Pablo (1 Timoteo 1:2). En Hechos 16:1-5, aprendemos que Timoteo tenía **buen** testimonio delante de los hermanos en Listra e Iconio.
 
-##### Su labor incluía la proclamación del evangelio, la enseñanza, la lectura de las Escrituras, el nombramiento de ancianos y diáconos, y la oposición a las falsas enseñanzas. Pablo le escribió, probablemente desde Macedonia, para animarlo en su fiel servicio a Cristo. 1 Timoteo 1:18 [^3]
+##### Su **labor** incluía la proclamación del evangelio, la enseñanza, la lectura de las Escrituras, el nombramiento de ancianos y diáconos, y la oposición a las falsas enseñanzas. Pablo le escribió, probablemente desde Macedonia, para animarlo en su fiel servicio a Cristo. 1 Timoteo 1:18 [^3]
 
-##### Timoteo cumplió algún tiempo en la cárcel por su fe en Jesucristo, y luego fue liberado. Hebreos 13:23
+##### Timoteo cumplió algún tiempo en la **cárcel** por su fe en Jesucristo, y luego fue liberado. Hebreos 13:23
 
 ## Tema Principal
 
-### El tema principal de la carta: Como establecer y conducir una iglesia como columna y sostén de la verdad apta para resistir la falsa enseñanza.
+### El **tema** principal de la carta: Como establecer y conducir una iglesia como columna y sostén de la verdad apta para resistir la falsa enseñanza.
 
-### 1 Timoteo 3:14-15 "*Te escribo estas cosas, esperando ir a verte pronto, pero en caso que me tarde, **te escribo para que sepas cómo debe conducirse uno en la casa de Dios**, que es la iglesia del Dios vivo, columna y sostén de la verdad.*"
+### 1 Timoteo 3:14-15 "*Te escribo estas cosas, esperando ir a verte pronto, pero en caso que me tarde, te escribo para que sepas cómo debe conducirse uno en la casa de Dios, que es la iglesia del Dios vivo, columna y sostén de la verdad.*"
 
-### En 1 Timoteo, se encuentran instrucciones para establecer iglesias, corregir abusos, falsas doctrinas, prácticas de adoración, hábitos de discipulado, vida familiar, responder a la persecución y más. 
+### En 1 Timoteo, se encuentran instrucciones para establecer iglesias, corregir abusos, **falsas** doctrinas, prácticas de adoración, hábitos de discipulado, vida familiar, responder a la persecución y más. 
 
-### En resumen, podemos decir que Pablo le escribió a Timoteo por su inmenso amor y aprecio por Timoteo y la obra que había sido llamado a realizar al servicio del Señor Jesús. A través de esta carta Timoteo podía enseñar a los hermanos en Efeso y nosotros aprendemos también. 
+### En resumen, podemos decir que Pablo le escribió a Timoteo por su inmenso amor y aprecio por Timoteo y la **obra** que había sido llamado a realizar al servicio del Señor Jesús. A través de esta carta Timoteo podía enseñar a los hermanos en Efeso y nosotros aprendemos también. 
 
-### La carta de Timoteo no es solo para líderes. La carta de Timoteo es para que todo creyente sepa como conducirse en la casa de Dios. 
+### La carta de Timoteo no es **solo** para líderes. La carta de Timoteo es para que todo creyente sepa como conducirse en la casa de Dios. 
 
 # La iglesia: el cuerpo de Cristo y casa del Dios vivo
 
 ## Introducción
 
-### Generación a generación Dios ha estado buscando incanzablemente a este mundo perdido, con el único proposito de salvarlo y rescatarlo de las tinieblas y del rumbo del hombre que se dirige hacia la condena eterna. Salmos 8:4
+### Generación a generación Dios ha **estado** buscando incanzablemente a este mundo perdido, con el único proposito de salvarlo y rescatarlo de las tinieblas y del rumbo del hombre que se dirige hacia la condena eterna. Salmos 8:4
 
-### Dios siendo omnisciente, no fué tomado por sorpresa en la caída del hombre, sino que El mismo anticipó proveer un medio de salvación. El mismo ideó un solo camino de verdad y vida que posibilite acercase nuevamente al Padre. 2 Timoteo 1:9; Juan 14:6; 1 Pedro 1:20
+### Dios siendo omnisciente, no fué tomado por sorpresa en la caída del hombre, sino que El mismo anticipó proveer un **medio** de salvación. El mismo ideó un solo camino de verdad y vida que posibilite acercase nuevamente al Padre. 2 Timoteo 1:9; Juan 14:6; 1 Pedro 1:20
 
-### A través de la historia, Dios ha usado diferentes agentes (como testigos) para la predicación de Su Palabra. Dios usó a Set, Enoch y Noé. Más adelante Dios usó a Israel como agente pare proclamar Su mensaje de salvación. Hoy, en nuestro tiempo, Dios sigue anunciando Su mensaje, a través de la Iglesia. Colosenses 1:25; 1 Timoteo 3:15
+### A través de la historia, Dios ha usado diferentes agentes (como testigos) para la predicación de Su Palabra. Dios usó a Set, Enoch y Noé. Más adelante Dios usó a Israel como **agente** para proclamar Su mensaje de salvación. Hoy, en nuestro tiempo, Dios sigue anunciando Su mensaje, a través de la Iglesia. Colosenses 1:25; 1 Timoteo 3:15
 
-### Por tal motivo es bueno que nos hagamos las preguntas, ¿qué es la Iglesia?, ¿quien fundó la Iglesia?, ¿a quién le pertenece la Iglesia?, ¿cuándo inicio?, ¿cuándo termina? y ¿quiénes forman parte de ella?.
+### Por tal motivo es bueno que nos hagamos las preguntas, ¿qué es la Iglesia?, ¿quien fundó la Iglesia?, ¿a quién le pertenece la Iglesia?, ¿cuándo inicio?, ¿cuándo termina? y ¿quiénes forman **parte** de ella?.
 
 ## La Palabra Iglesia y su orígen
 
-### Inicialmente el significado de la palabra *ekklesia* era simplemente los llamados afuera a una asamblea, o a una reunión. En las antiguas ciudades griegas, una *ekklesía* era una asamblea de ciudadanos que se reunían para tomar decisiones sobre asuntos de la ciudad.
+### Inicialmente el significado de la palabra *ekklesia* era simplemente los llamados afuera a una asamblea, o a una **reunión**. En las antiguas ciudades griegas, una *ekklesía* era una asamblea de ciudadanos que se reunían para tomar decisiones sobre asuntos de la ciudad.
 
-### *Ekklesia* es la palabra griega traducida en el Nuevo Testamento como "iglesia". Proviene de *ek*, que significa "salir de" y *kaleo*, que significa "llamar hacia", y tiene que ver con un grupo de personas llamadas de un lugar a otro. 
+### *Ekklesia* es la palabra griega traducida en el Nuevo Testamento como "iglesia". Proviene de *ek*, que significa "salir de" y *kaleo*, que significa "llamar hacia", y tiene que ver con un **grupo** de personas llamadas de un lugar a otro. 
 
-### Etimológicamente no tiene un significado dirigido a un edificio físico, y tampoco era utilizado con un fin religioso, un ejemplo que podemos ver, es en Hechos 19:23-25 en la que un hombre hace un llamado a salir afuera para reunir a toda la ciudad.
+### Etimológicamente no tiene un significado dirigido a un edificio físico, y tampoco era utilizado con un fin religioso, un ejemplo que podemos **ver**, es en Hechos 19:23-25 en la que un hombre hace un llamado a salir afuera para reunir a toda la ciudad.
 
-### En Hechos 19:29 muestra que no todos los ciudadanos sabían porque se les había llamado a salir afuera a reunirse Hechos 19:32 y muy probablemente los que llegaban a la reunión no tenían claro porque los ciudadanos estaban en "Ekklesía" Hechos 19:33.
+### En Hechos 19:29 muestra que no todos los ciudadanos sabían porque se les había llamado a salir **afuera** a reunirse Hechos 19:32 y muy probablemente los que llegaban a la reunión no tenían claro porque los ciudadanos estaban en "Ekklesía" Hechos 19:33.
 
-#### Existen 191 menciones de la palabra EKKLESIA en la Biblia. 77 veces en el Antiguo Testamento (Septuaginta - traducido asamblea), 114 veces en el Nuevo Testamento. 77 menciones son las que se refieren específicamente a la iglesia del Señor Jesucristo.
+#### Existen 191 menciones de la palabra EKKLESIA en la Biblia. 77 veces en el Antiguo Testamento (Septuaginta - traducido asamblea), 114 veces en el Nuevo Testamento. 77 menciones son las que se **refieren** específicamente a la iglesia del Señor Jesucristo.
 
-#### De las 77 menciones de EKKLESIA del Antiguo Testamento, ninguno se refiere al cuerpo de Cristo que es la iglesia. Habla de una asamblea o una reunión como lo vimos en el uso común de la palabra. 1 Crónicas 11:4; 2 Crónicas 28:14
+#### De las 77 menciones de EKKLESIA del Antiguo Testamento, ninguno se refiere al cuerpo de **Cristo** que es la iglesia. Habla de una asamblea o una reunión como lo vimos en el uso común de la palabra. 1 Crónicas 11:4; 2 Crónicas 28:14
 
-#### En el Nuevo Testamento, 37 menciones no se refieren a la "Ekklesía" como cuerpo de Cristo, sino a una reunión o asamblea. Hechos 19:41
+#### En el Nuevo Testamento, 37 menciones no se refieren a la "Ekklesía" como **cuerpo** de Cristo, sino a una reunión o asamblea. Hechos 19:41
 
-#### El libro de Hechos lleva 17 menciones. Hechos 8:1; Hechos 9:31; Hechos 11:26; Hechos 20:28
+#### El libro de Hechos **lleva** 17 menciones. Hechos 8:1; Hechos 9:31; Hechos 11:26; Hechos 20:28
 
-#### En las epístolas del Apóstol Pablo se hace mención 46 veces. Romanos 16:1; Efésios 1:22; Filemón 1:2
+#### En las epístolas del Apóstol Pablo se **hace** mención 46 veces. Romanos 16:1; Efésios 1:22; Filemón 1:2
 
-#### En el resto de las epístolas se hacen mención 11 veces. Santiago 5:14; 3 Juan 1:6; Apocalipsis 1:4
+#### En el resto de las epístolas se **hacen** mención 11 veces. Santiago 5:14; 3 Juan 1:6; Apocalipsis 1:4
 
-#### Y el Señor Jesucristo lo mencionó 3 veces . Mateo 16:18; Mateo 18:17
+#### Y el Señor Jesucristo lo mencionó 3 **veces**. Mateo 16:18; Mateo 18:17
 
-### Fue el Señor Jesucristo quien usó la palabra EKKLESIA para darle un significado propio cuando dijo "*edificaré **mi** Iglesia*" dando a entender que en un tiempo futuro El levantaría **sus** llamados (salidos de EK y llamados hacia KALEO). 
+### Fue el Señor Jesucristo quien usó la palabra EKKLESIA para darle un significado propio cuando dijo "*edificaré mi Iglesia*" dando a entender que en un tiempo futuro El levantaría **sus** llamados (salidos de EK y llamados hacia KALEO). 
 
-### Mateo 16:18 "*Yo también te digo que tú eres Pedro, y sobre esta roca **edificaré Mi iglesia**; y las puertas del Hades no prevalecerán contra ella.*" Es en este pasaje que el Señor Jesucristo dió su origen a la palabra "Mi" iglesia, en pertenencia, propósito, cuidado y protección de ella.
+### Mateo 16:18 "*Yo también te digo que tú eres Pedro, y sobre esta roca edificaré Mi iglesia; y las puertas del Hades no prevalecerán contra ella.*" Es en este pasaje que el Señor Jesucristo dió su **origen** a la palabra "Mi" iglesia, en pertenencia, propósito, cuidado y protección de ella.
 
-### Pablo describe la iglesia en Romanos 1:6, "*entre los cuales están también ustedes, **llamados de Jesucristo.***" 1 Corintios 1:2, 9, 24
+### Pablo describe la **iglesia** en Romanos 1:6, "*entre los cuales están también ustedes, llamados de Jesucristo.*" 1 Corintios 1:2, 9, 24
 
 ## Fundación e inicios de la Iglesia
 
-### Aunque Jesús anunció edificar su iglesia en un tiempo futuro, ¿cuándo sucedió?
+### Aunque Jesús anunció **edificar** su iglesia en un tiempo futuro, ¿cuándo sucedió?
 
-### Antes de ascender al cielo, Jesús dijo en Hechos 1:8 “*pero recibirán poder cuando el Espíritu Santo venga sobre ustedes; **y serán Mis testigos** en Jerusalén, en toda Judea y Samaria, y hasta los confines de la tierra».*“ 
+### Antes de ascender al **cielo**, Jesús dijo en Hechos 1:8 “*pero recibirán poder cuando el Espíritu Santo venga sobre ustedes; y serán Mis testigos en Jerusalén, en toda Judea y Samaria, y hasta los confines de la tierra».*“ 
 
-### Con la llegada del Espíritu Santo ellos llegarían a ser testigos de Jesucristo. Dios les levantaría como agentes o testigos para llevar Su mensaje de salvación a todo el mundo. 
+### Con la llegada del Espíritu Santo ellos llegarían a ser testigos de Jesucristo. Dios les levantaría como agentes o testigos **para** llevar Su mensaje de salvación a todo el mundo. 
 
-### Hechos 1:8a “...*pero recibirán poder cuando el Espíritu Santo venga sobre ustedes...*" La instrucción dada por el Señor Jesucristo era que ellos no debian hacer absolutamente nada hasta que haya venido el Espiritu Santo. Lucas 24:46-49
+### Hechos 1:8a “...*pero recibirán poder cuando el Espíritu Santo venga sobre ustedes...*" La instrucción dada por el Señor Jesucristo era que ellos no debian hacer absolutamente nada hasta que **haya** venido el Espiritu Santo. Lucas 24:46-49
 
-#### En Juan 14:16 El Señor Jesucristo rogaría al Padre para que el Espíritu Santo more en cada creyente durante el tiempo de la iglesia. Efesios 1:13
+#### En Juan 14:16 El Señor Jesucristo rogaría al Padre para que el Espíritu Santo more en **cada** creyente durante el tiempo de la iglesia. Efesios 1:13
 
-#### El mundo (incrédulos) no puede recibir el Espíritu Santo, solo aquellos que han creído en la obra de Jesucristo lo reciben. Efesios 1:13; Juan 14:17; Romanos 8:16
+#### El mundo (incrédulos) no puede recibir el Espíritu Santo, solo aquellos que han creído en la **obra** de Jesucristo lo reciben. Efesios 1:13; Juan 14:17; Romanos 8:16
 
 ##### Efesios 1:13 "*En Él también ustedes, después de escuchar el mensaje de la verdad, el evangelio de su salvación, y habiendo creído, fueron sellados en Él con el Espíritu Santo de la promesa,*"
 
-#### El ministerio del Espiritu Santo en el creyente seria de enseñar y recordar todas las cosas que el Señor Jesucristo había dicho a sus discipulos. Juan 14:26
+#### El ministerio del Espiritu Santo en el creyente seria de enseñar y recordar todas las **cosas** que el Señor Jesucristo había dicho a sus discipulos. Juan 14:26
 
-#### Es por eso que cuando llegó el Espiritu Santo en el día de pentecostés inició la obra y el ministerio de la predicación del evangelio. Hechos 2:1-4
+#### Es por eso que cuando **llegó** el Espiritu Santo en el día de pentecostés inició la obra y el ministerio de la predicación del evangelio. Hechos 2:1-4
 
 #### Hechos 2:41b "*...y se añadieron aquel día como 3,000 almas*".
 
@@ -221,245 +221,245 @@ www.discipuladocgv.org
 
 #### Hechos 2:47 "*...alabando a Dios y hallando favor con todo el pueblo. Y el Señor añadía cada día a la (**iglesia** RVR60) los que iban siendo salvos*".
 
-### Hechos 1:8b "*...y serán **Mis testigos** en Jerusalén, en toda Judea y Samaria, y hasta los confines de la tierra».*“ Con la llegada del Espíritu Santo Dios identificó a todo creyente como testigos de la obra de Jesucristo. Hechos 2:37-39; Juan 17:16; Juan 17:20
+### Hechos 1:8b "*...y serán **Mis** testigos en Jerusalén, en toda Judea y Samaria, y hasta los confines de la tierra».*“ Con la llegada del Espíritu Santo Dios identificó a todo creyente como testigos de la obra de Jesucristo. Hechos 2:37-39; Juan 17:16; Juan 17:20
 
-#### Todo creyente ha sido incluido para participar en lo que esta haciendo el Espíritu Santo de alcanzar al mundo perdido por medio de la predicación del evangelio. Romanos 1:9; Filipenses 1:27
+#### **Todo** creyente ha sido incluido para participar en lo que esta haciendo el Espíritu Santo de alcanzar al mundo perdido por medio de la predicación del evangelio. Romanos 1:9; Filipenses 1:27
 
 #### Juan 16:8-10 "*Y cuando él venga, convencerá al mundo de pecado, de justicia y de juicio. De pecado, por cuanto no creen en mí; de justicia, por cuanto voy al Padre, y no me veréis más; y de juicio, por cuanto el príncipe de este mundo ha sido ya juzgado.*".
 
-### Concluimos entonces que la fundación y el inicio de la iglesia fue con la llegada del Espíritu Santo.
+### Concluimos entonces que la fundación y el **inicio** de la iglesia fue con la llegada del Espíritu Santo.
 
-#### Es por medio del Espíritu Santo que el Señor Jesucristo esta llevando a cabo la edificación de la iglesia. Mateo 16:18; Juan 14:18; Juan 14:20
+#### Es por medio del Espíritu Santo que el Señor Jesucristo esta llevando a cabo la edificación de la **iglesia**. Mateo 16:18; Juan 14:18; Juan 14:20
 
-#### En el tiempo actual, el Espíritu Santo continua llevando a cabo Su ministerio, tanto con los creyentes de la iglesia, guiándolos a toda verdad (Juan 16:13) y convenciendo por medio de la predicación de La Palabra de Dios al mundo perdido. Juan 16:8
+#### En el tiempo **actual**, el Espíritu Santo continua llevando a cabo Su ministerio, tanto con los creyentes de la iglesia, guiándolos a toda verdad (Juan 16:13) y convenciendo por medio de la predicación de La Palabra de Dios al mundo perdido. Juan 16:8
 
 ## Un Misterio, el Plan de Dios con la Iglesia
 
-### El plan de Dios siempre ha sido llegar a los gentiles (a todo el mundo). Israel era antiguamente el agente por el cual anunciaba la luz a las naciones. Éxodo 19:5-6; Génesis 12:3
+### El plan de Dios siempre ha sido llegar a los gentiles (a **todo** el mundo). Israel era antiguamente el agente por el cual anunciaba la luz a las naciones. Éxodo 19:5-6; Génesis 12:3
 
-### Por causa del rechazo de la nación de Israel al Señor Jesucristo (Hechos 3:13-15), los gentiles llegaron a ser participantes en los planes de Dios. Romanos 11:17
+### Por causa del rechazo de la **nación** de Israel al Señor Jesucristo (Hechos 3:13-15), los gentiles llegaron a ser participantes en los planes de Dios. Romanos 11:17
 
-#### Sin embargo, no debemos llegar a la conclusión que Dios ha desechado a Su pueblo. Un día Dios retomará sus planes con la nación de Israel. Romanos 11:1-2
+#### Sin embargo, no debemos **llegar** a la conclusión que Dios ha desechado a Su pueblo. Un día Dios retomará sus planes con la nación de Israel. Romanos 11:1-2
 
-### Hoy, la iglesia es el agente que Dios esta usando para alcanzar a todas las naciones, incluyendo a la nación de Israel ya que el evangelio es el mensaje de Dios para todo el mundo. Romanos 11:14, 1:14; 1:16
+### Hoy, la iglesia es el **agente** que Dios esta usando para alcanzar a todas las naciones, incluyendo a la nación de Israel ya que el evangelio es el mensaje de Dios para todo el mundo. Romanos 11:14, 1:14; 1:16
 
-#### Efesios 3:10-11: "***para dar a conocer ahora** a los principados y a las potestades en los cielos las múltiples formas de la sabiduría de Dios, **por medio de la Iglesia**, conforme al plan eterno que ha realizado por medio de Cristo Jesús, Señor nuestro,*"
+#### Efesios 3:10-11: "*para dar a conocer ahora a los principados y a las potestades en los cielos las múltiples formas de la sabiduría de Dios, por **medio** de la Iglesia, conforme al plan eterno que ha realizado por medio de Cristo Jesús, Señor nuestro,*"
 
-#### 1 Timoteo 3:15b: "*...Es la iglesia del Dios vivo, **columna y sostén de la verdad***"
+#### 1 Timoteo 3:15b: "*...Es la iglesia del Dios vivo, **columna** y sostén de la verda*"
 
-### Es de notar que el Apóstol Pedro no hace mención de iniciar la iglesia o que sea el Apóstol Pedro la cabeza de la iglesia, o como muchos piensan que él sea el primer papa.
+### Es de **notar** que el Apóstol Pedro no hace mención de iniciar la iglesia o que sea el Apóstol Pedro la cabeza de la iglesia, o como muchos piensan que él sea el primer papa.
 
-### En Mateo 18:17 el Señor Jesucristo va preparando a sus discipulos sobre la iglesia, aunque para ese momento, para ellos la iglesia seguía siendo un misterio. Efesios 3:9
+### En Mateo 18:17 el Señor Jesucristo va preparando a sus discipulos **sobre** la iglesia, aunque para ese momento, para ellos la iglesia seguía siendo un misterio. Efesios 3:9
 
-### Pablo dijo en Efesios 3:2-3 que por la gracia de Dios este misterio ha sido dado a conocer a esta generación, ya que en otras generaciones estaba oculta Efesios 3:4-6
+### Pablo dijo en Efesios 3:2-3 que por la **gracia** de Dios este misterio ha sido dado a conocer a esta generación, ya que en otras generaciones estaba oculta Efesios 3:4-6
 
 ## Funcionamiento y vigencia de la iglesia
 
-### Toda casa tiene su propietario. 1 Timoteo 3:5 dice, "*pues si un hombre no sabe cómo gobernar su propia casa, ¿cómo podrá cuidar de la iglesia de Dios*?", la iglesia es la casa del Dios vivo y tiene su propio orden y gobierno. 1 Timoteo 3:15
+### Toda casa tiene su propietario. 1 Timoteo 3:5 dice, "*pues si un hombre no sabe cómo gobernar su propia casa, ¿cómo podrá cuidar de la iglesia de Dios*?", la iglesia es la casa del Dios vivo y **tiene** su propio orden y gobierno. 1 Timoteo 3:15
 
-### Y en ésta casa, que es la iglesia, Dios estableció su propio orden, Efesios 5:23b "*... Cristo es cabeza de la iglesia, siendo El mismo Salvador del cuerpo*".[^4]
+### Y en ésta **casa**, que es la iglesia, Dios estableció su propio orden, Efesios 5:23b "*... Cristo es cabeza de la iglesia, siendo El mismo Salvador del cuerpo*".[^4]
 
-### Colosenses 1:18 “*Él es también la cabeza del cuerpo que es la iglesia. Él es el principio, el primogénito de entre los muertos, a fin de que Él tenga en todo la primacía*".
+### Colosenses 1:18 “*Él es también la cabeza del cuerpo que es la iglesia. Él es el principio, el primogénito de entre los muertos, a fin de que Él tenga en **todo** la primacía*".
 
-### La palabra Mi iglesia le da el sentido de pertenencia al mismo Señor Jesucristo, ya que el mismo dió su vida por ella, para rescatarla y purificarla Mateo 16:18; Efesio 5:24; Romanos 16:16
+### La palabra Mi iglesia le da el sentido de pertenencia al mismo Señor Jesucristo, ya que el mismo dió su vida por ella, **para** rescatarla y purificarla Mateo 16:18; Efesio 5:24; Romanos 16:16
 
-#### Efesios 5:25 “*…así como Cristo amó a la iglesia y se dio Él mismo por ella,*”
+#### Efesios 5:25 “*…así como Cristo **amó** a la iglesia y se dio Él mismo por ella,*”
 
-#### Cristo en la cruz no solo nos rescató de la condena del pecado, sino que Él se dio por la iglesia con un propósito Efesios 5:26 “*para santificarla, habiéndola purificado por el lavamiento del agua con la palabra,*”.
+#### Cristo en la cruz no solo nos **rescató** de la condena del pecado, sino que Él se dio por la iglesia con un propósito Efesios 5:26 “*para santificarla, habiéndola purificado por el lavamiento del agua con la palabra,*”.
 
-#### Efesios 5:27 a fin de presentársela a sí mismo, una iglesia en toda su gloria, sin que tenga mancha ni arruga ni cosa semejante, sino que fuera santa e inmaculada.
+#### Efesios 5:27 a fin de presentársela a sí mismo, **una** iglesia en toda su gloria, sin que tenga mancha ni arruga ni cosa semejante, sino que fuera santa e inmaculada.
 
-### En Hechos 20:28 podemos encontrar que Dios compró la iglesia, mostrando claramente la deidad de Cristo, ya que dice, la compró con Su propia sangre.
+### En Hechos 20:28 podemos encontrar que Dios compró la iglesia, mostrando claramente la **deidad** de Cristo, ya que dice, la compró con Su propia sangre.
 
-### Esto significa que la iglesia le pertenece a Dios como a Jesucristo. 1 Tesalonicenses 1:1; 2 Tesalonicenses 1:1
+### Esto significa que la iglesia le pertenece a Dios **como** a Jesucristo. 1 Tesalonicenses 1:1; 2 Tesalonicenses 1:1
 
-### Es Cristo el que esta llevando a cabo la edificación de la iglesia "*...hasta que haya entrado la plenitud de los gentiles.*" Romanos 11:25b
+### Es Cristo el que esta llevando a **cabo** la edificación de la iglesia "*...hasta que haya entrado la plenitud de los gentiles.*" Romanos 11:25b
 
-#### Por aquel motivo el nos ha llamado salir "Ek" de las tinieblas hacia "Kaleo" su luz admirable. 1 Pedro 2:9
+#### Por aquel motivo el nos ha llamado **salir** "Ek" de las tinieblas hacia "Kaleo" su luz admirable. 1 Pedro 2:9
 
 #### 2 Timoteo 1:9 "*Él nos ha salvado y nos ha llamado con un llamamiento santo, no según nuestras obras, sino según Su propósito y según la gracia que nos fue dada en Cristo Jesús desde la eternidad*"
 
 ### 1 Corintios 1:9 "*Fiel es Dios, por medio de quien fueron llamados a la comunión con Su Hijo Jesucristo, nuestro Señor.*"
 
-#### Aunque vivimos en el mundo y somos parte de él, la iglesia debe ser distinta. Debemos estar separados de los caminos del mundo y señalar la verdad de Dios. Filipenses 2:12-16 
+#### Aunque vivimos en el mundo y somos **parte** de él, la iglesia debe ser distinta. Debemos estar separados de los caminos del mundo y señalar la verdad de Dios. Filipenses 2:12-16 
 
-#### Debemos amar a las personas como Dios lo hace, compartir Su invitación a la salvación con ellos y orar para que ellos también escuchen Su llamado y se unan a Su iglesia. 1 Timoteo 2:1-4; 1 Pedro 3:9
+#### Debemos amar a las personas como Dios lo hace, compartir Su invitación a la salvación con ellos y **orar** para que ellos también escuchen Su llamado y se unan a Su iglesia. 1 Timoteo 2:1-4; 1 Pedro 3:9
 
-#### Hebreos 10:23–25 es un estímulo para cada uno de nosotros que pertenecemos a la *ekklesia* de Dios: "*Mantengamos firme la esperanza que profesamos, porque fiel es el que hizo la promesa. Preocupémonos los unos por los otros, a fin de estimularnos al amor y a las buenas obras. No dejemos de congregarnos, como acostumbran hacerlo algunos, sino animémonos unos a otros, y con mayor razón ahora que vemos que aquel día se acerca.*"[^5]
+#### Hebreos 10:23–25 es un estímulo para **cada** uno de nosotros que pertenecemos a la *ekklesia* de Dios: "*Mantengamos firme la esperanza que profesamos, porque fiel es el que hizo la promesa. Preocupémonos los unos por los otros, a fin de estimularnos al amor y a las buenas obras. No dejemos de congregarnos, como acostumbran hacerlo algunos, sino animémonos unos a otros, y con mayor razón ahora que vemos que aquel día se acerca.*"[^5]
 
-#### Gálatas 5:13 "*Porque ustedes, hermanos, **a libertad fueron llamados**; solo que no usen la libertad como pretexto para la carne, sino sírvanse por amor los unos a los otros.*"
+#### Gálatas 5:13 "*Porque ustedes, hermanos, a libertad fueron llamados; solo que no usen la libertad como pretexto para la carne, sino sírvanse por **amor** los unos a los otros.*"
 
-#### 1 Timoteo 4:9-10 "*Palabra fiel es esta, y digna de ser recibida por todos. Que por esto mismo trabajamos y sufrimos oprobios, **porque esperamos en el Dios viviente**, que es el Salvador de todos los hombres, mayormente de los que creen.*"
+#### 1 Timoteo 4:9-10 "*Palabra fiel es esta, y digna de ser recibida por todos. Que por esto mismo trabajamos y sufrimos oprobios, porque esperamos en el Dios viviente, que es el Salvador de todos los hombres, mayormente de los que **creen**.*"
 
-##### Este llamado no es por mérito del hombre, ya que ningun miembro de la iglesia podria decir que se ganó el ser incluidos dentro de la iglesia del Dios vivo. Efesios 2:13
+##### Este llamado no es por mérito del hombre, ya que ningun miembro de la iglesia podria decir que se **ganó** el ser incluidos dentro de la iglesia del Dios vivo. Efesios 2:13
 
-#### Gálatas 1:6 "*Me maravillo de que tan pronto ustedes hayan abandonado **a Aquel que los llamó por la gracia de Cristo**, para seguir un evangelio diferente*" Este llamado es solamente y única por su gracia.
+#### Gálatas 1:6 "*Me maravillo de que tan pronto ustedes hayan abandonado a Aquel que los llamó por la gracia de Cristo, para seguir un evangelio diferente*" Este llamado es solamente y única por su **gracia**.
 
-#### 2 Tesalonicenses 2:14 "*a lo cual **os llamó mediante nuestro evangelio**, para alcanzar la gloria de nuestro Señor Jesucristo.*" es al momento de creer en el evangelio que uno llega a formar parte de los llamados ("*Ekklesía*") de Jesucristo.
+#### 2 Tesalonicenses 2:14 "*a lo cual os llamó mediante nuestro evangelio, para alcanzar la gloria de nuestro Señor Jesucristo.*" es al momento de creer en el evangelio que uno llega a **formar** parte de los llamados ("*Ekklesía*") de Jesucristo.
 
 ## Iglesia universal versus iglesias locales
 
-### La Iglesia universal se refiere al cuerpo espiritual de Cristo que está representado por muchas iglesias locales. Si bien hay una sola Iglesia de Jesucristo, tiene muchas diferentes representaciones en diferentes lugares. 
+### La Iglesia universal se refiere al **cuerpo** espiritual de Cristo que está representado por muchas iglesias locales. Si bien hay una sola Iglesia de Jesucristo, tiene muchas diferentes representaciones en diferentes lugares. 
 
-### Representación universal:
+### Representación **universal**:
 
-#### Al momento en creer en el Señor Jesucristo uno llega a formar parte de la iglesia universal de Dios, llega a ser un miembro del cuerpo de Cristo en cualquier lugar que se encuentre. Efesios 2:18; Juan 17:20-21
+#### Al momento en creer en el Señor Jesucristo uno llega a formar parte de la iglesia universal de Dios, **llega** a ser un miembro del cuerpo de Cristo en cualquier lugar que se encuentre. Efesios 2:18; Juan 17:20-21
 
-#### 1 Corintios 6:15a "*¿No saben que sus cuerpos son miembros de Cristo?*"
+#### 1 Corintios 6:15a "*¿No saben que sus cuerpos **son** miembros de Cristo?*"
 
 #### 1Corintios 6:19 "*¿O no saben que su cuerpo es templo del Espíritu Santo que está en ustedes, el cual tienen de Dios, y que ustedes no se pertenecen a sí mismos?*"
 
-#### Efesios 1:22-23 "*Y todo lo sometió bajo Sus pies, y a Él lo dio por cabeza sobre todas las cosas a **la iglesia, la cual es Su cuerpo,** la plenitud de Aquel que lo llena todo en todo.*"
+#### Efesios 1:22-23 "*Y todo lo sometió bajo Sus pies, y a Él lo dio por cabeza sobre todas las cosas a la iglesia, la cual es Su cuerpo, la plenitud de Aquel que lo llena todo en todo.*"
 
-#### Efesios 2:15 "*...para crear en Él Cristo mismo de los dos un **nuevo hombre**, estableciendo así la paz,*"
+#### Efesios 2:15 "*...para crear en Él Cristo mismo de los dos un **nuevo** hombre, estableciendo así la paz,*"
 
-#### Efesios 4:4 "*Hay **un solo cuerpo** y un solo Espíritu, así como también ustedes fueron llamados en una misma esperanza de su vocación;*"
+#### Efesios 4:4 "*Hay un **solo** cuerpo y un solo Espíritu, así como también ustedes fueron llamados en una misma esperanza de su vocación;*"
 
-#### Colosenses 3:15 "*Que la paz de Cristo reine en sus corazones, a la cual en verdad fueron llamados en **un solo cuerpo**; y sean agradecidos.*"
+#### Colosenses 3:15 "*Que la paz de Cristo reine en sus corazones, a la cual en verdad fueron llamados en **un** solo cuerpo; y sean agradecidos.*"
 
-#### Judas 1:1 "*Judas , siervo de Jesucristo y hermano de Jacobo, a los **llamados**, **amados en Dios Padre** y **guardados para Jesucristo**:*"
+#### Judas 1:1 "*Judas , siervo de Jesucristo y hermano de Jacobo, a los llamados, **amados** en Dios Padre y guardados para Jesucristo:*"
 
-#### Cualquier creyente en el mundo es miembro de la iglesia universal, el unico requisito es haber creido en el evangelio. Efesios 2:19; Efesios 2:22
+#### Cualquier creyente en el mundo es **miembro** de la iglesia universal, el unico requisito es haber creido en el evangelio. Efesios 2:19; Efesios 2:22
 
-### Representaciones locales:
+### Representaciones **locales**:
 
-#### 1 Corintios 1:2 "*a la iglesia de Dios que está **en Corinto**, a los que han sido santificados en Cristo Jesús, llamados a ser santos...*" Este llamado a ser santos es posible solamente a traves del verdadero conocimiento de la palabra de Dios
+#### 1 Corintios 1:2 "*a la iglesia de Dios que está **en Corinto**, a los que han sido santificados en Cristo Jesús, llamados a ser santos...*" Este llamado a ser santos es posible solamente a **traves** del verdadero conocimiento de la palabra de Dios
 
-#### Romanos 1:7 "*A todos los amados de Dios que están **en Roma**, llamados a ser santos...*" Es solo a traves del discipulado que un creyente puede ser guiado a la santidad diaria siendo enseñado en toda la escritura.
+#### Romanos 1:7 "*A todos los amados de Dios que están **en Roma**, llamados a ser santos...*" Es **solo** a traves del discipulado que un creyente puede ser guiado a la santidad diaria siendo enseñado en toda la escritura.
 
-#### Se considera una iglesia local desde el momento en que 2, 3 o más personas se reunen regularmente en el nombre del Señor Jesucristo con un propósito de adorar, estudiar La Palabra y tener comunión entre los santos. Mateo 18:20; Hechos 2:42
+#### Se considera una iglesia **local** desde el momento en que 2, 3 o más personas se reunen regularmente en el nombre del Señor Jesucristo con un propósito de adorar, estudiar La Palabra y tener comunión entre los santos. Mateo 18:20; Hechos 2:42
 
-##### Efesios 4:3-4 "*esforzándose por preservar la unidad del Espíritu en el vínculo de la paz. Hay un solo cuerpo y un solo Espíritu, así como también ustedes fueron llamados en una misma esperanza de su vocación;*"
+##### Efesios 4:3-4 "*esforzándose por preservar la unidad del Espíritu en el vínculo de la paz. Hay un solo **cuerpo** y un solo Espíritu, así como también ustedes fueron llamados en una misma esperanza de su vocación;*"
 
-##### Efesios 4:5-6 "*un solo Señor, una sola fe, un solo bautismo, un solo Dios y Padre de todos, que está sobre todos, por todos y en todos.*"
+##### Efesios 4:5-6 "*un solo Señor, una sola fe, un solo bautismo, un solo Dios y Padre de todos, que está sobre **todos**, por todos y en todos.*"
 
-##### 1 Corintios 1:2 "*a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cristo Jesús, llamados a ser santos, **con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo**, Señor de ellos y nuestro:*".
+##### 1 Corintios 1:2 "*a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cristo Jesús, llamados a ser santos, con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo, Señor de ellos y **nuestro**:*".
 
-#### El propósito principal de la iglesia está en la instrucción del Señor Jesucristo. La Gran Comisión. Ir y hacer discipulos incluye evangelizar, discipular y encargar a hombres fieles a discipular a otros y establecer iglesias locales. Mateo 28:18-20, 2 Timoteo 2:2
+#### El propósito principal de la iglesia está en la instrucción del Señor Jesucristo. La Gran Comisión. Ir y hacer discipulos **incluye** evangelizar, discipular y encargar a hombres fieles a discipular a otros y establecer iglesias locales. Mateo 28:18-20, 2 Timoteo 2:2
 
-##### Es verdad que cada miembro de la iglesia no debe descuidar la misión de anunciar y predicar el evangelio de la salvación. Marcos 16:15; Hechos 4:12.
+##### Es verdad que cada miembro de la **iglesia** no debe descuidar la misión de anunciar y predicar el evangelio de la salvación. Marcos 16:15; Hechos 4:12.
 
-##### Pero una iglesia que no hace discipulos su fin es seguro, ya que no quedará nadie quien enseñe a guardar todas las cosas que el Señor Jesucristo ha enseñado. Mateo 28:20
+##### Pero una iglesia que no hace discipulos su fin es seguro, ya que no quedará nadie quien enseñe a **guardar** todas las cosas que el Señor Jesucristo ha enseñado. Mateo 28:20
 
-#### La iglesia debe persistir en continuar firmes en el evangelio, enseñando a los fieles de la iglesia a enseñar a otros fielmente La Palabra de Dios. 2 Timoteo 2:2, 3:14-16
+#### La iglesia debe persistir en continuar firmes en el evangelio, enseñando a los fieles de la iglesia a **enseñar** a otros fielmente La Palabra de Dios. 2 Timoteo 2:2, 3:14-16
 
-##### 2 Timoteo 3:17 "*a fin de que el hombre de Dios sea perfecto, equipado para toda buena obra.*"
+##### 2 Timoteo 3:17 "*a fin de que el hombre de Dios sea perfecto, equipado para **toda** buena obra.*"
 
-##### Una iglesia local es parte de la iglesia universal sin embargo ella es autónoma en funcionamiento. Los líderes de una iglesia local no son líderes en otra iglesia local también. 
+##### Una iglesia local es parte de la iglesia universal sin embargo ella es autónoma en funcionamiento. Los líderes de una **iglesia** local no son líderes en otra iglesia local también. 
 
-#### Cuando una iglesia local establecer otra iglesia local, la nueva iglesia llega a funcionar independientemente de la primera. Una iglesia local que tiene otras iglesias locales bajo los mismos ancianos no esta siendo autónoma ni permitiendo a otros ser autónomos. Hechos 20:17; Santiago 5:14
+#### Cuando una iglesia local establecer otra iglesia local, la nueva iglesia llega a funcionar independientemente de la **primera**. Una iglesia local que tiene otras iglesias locales bajo los mismos ancianos no esta siendo autónoma ni permitiendo a otros ser autónomos. Hechos 20:17; Santiago 5:14
 
 # 1 Timoteo 1:1-2 - Saludos 
 
 ## Autor de la carta: Un Apóstol de Jesucristo
 
-### 1 Timoteo 1:1 "*Pablo, apóstol de Cristo Jesús por mandato de Dios nuestro Salvador, y de Cristo Jesús nuestra esperanza*" 
+### 1 Timoteo 1:1 "*Pablo, apóstol de Cristo Jesús por mandato de Dios nuestro Salvador, y de Cristo **Jesús** nuestra esperanza*" 
 
-### 1 Timoteo 1:1a "*Pablo...*" Vemos el nombre de Pablo como firma de esta epístola. 1 Timoteo 1:13, 15, 2:7
+### 1 Timoteo 1:1a "*Pablo...*" Vemos el nombre de Pablo como **firma** de esta epístola. 1 Timoteo 1:13, 15, 2:7
 
-#### Pablo, anteriormente llamado Saulo, nacido en la ciudad de Tarso. Hechos 22:3
+#### Pablo, anteriormente llamado **Saulo**, nacido en la ciudad de Tarso. Hechos 22:3
 
-#### En su vida como incrédulo fue un fiel religioso judío (Filipenses 3:4-9) y un fiel perseguidor de los del "Camino", la Iglesia de Dios. Hechos 20:4; Gálatas 1:13
+#### En su vida como incrédulo fue un fiel religioso **judío** (Filipenses 3:4-9) y un fiel perseguidor de los del "Camino", la Iglesia de Dios. Hechos 20:4; Gálatas 1:13
 
-#### En Hechos 9 podemos encontrar registros de su salvación al ver a Cristo resucitado.
+#### En Hechos 9 podemos encontrar **registros** de su salvación al ver a Cristo resucitado.
 
-#### Hechos 13:9 muestra: "*Entonces **Saulo**, llamado también **Pablo**...*" ahí encontramos que Saulo pasa a ser llamado Pablo durante los días de su primer viaje como apóstol de Cristo hasta el día de su martirio en el año 67 d.C aproximadamente.
+#### Hechos 13:9 muestra: "*Entonces **Saulo**, llamado también **Pablo**...*" ahí encontramos que Saulo **pasa** a ser llamado Pablo durante los días de su primer viaje como apóstol de Cristo hasta el día de su martirio en el año 67 d.C aproximadamente.
 
-### 1 Timoteo 1:1b "*Pablo, apóstol de Cristo Jesús...*" Pablo se describe como un apóstol.
+### 1 Timoteo 1:1b "*Pablo, apóstol de Cristo Jesús...*" Pablo se describe **como** un apóstol.
 
-#### Cristo escoge a Pablo como Su Apóstol (enviado, emisario, mensajero) a los gentiles. Hechos 9:15, 22:21; Romanos 11:13; 2 Timoteo 1:11
+#### Cristo escoge a Pablo **como** Su Apóstol (enviado, emisario, mensajero) a los gentiles. Hechos 9:15, 22:21; Romanos 11:13; 2 Timoteo 1:11
 
-#### Si bien, encontramos otros apóstoles (enviados) mencionados en Las Escrituras. Hechos 14:14; Filipenses 2:25; 2 Corintios 8:23
+#### Si bien, encontramos **otros** apóstoles (enviados) mencionados en Las Escrituras. Hechos 14:14; Filipenses 2:25; 2 Corintios 8:23
 
-#### En la Biblia observamos solo doce Apóstoles del Cordero. Apocalipsis 21:14
+#### En la Biblia observamos solo **doce** Apóstoles del Cordero. Apocalipsis 21:14
 
-##### Deducimos que Pablo esta dentro del grupo de los doce Apóstoles del Cordero:
+##### Deducimos que Pablo esta **dentro** del grupo de los doce Apóstoles del Cordero:
 
-###### Escogidos directamente por nuestro Señor Jesucristo. 1 Corintios 9:1-2
+###### Escogidos directamente por **nuestro** Señor Jesucristo. 1 Corintios 9:1-2
 
-###### Utilizados como el fundamento de la Iglesia. Efesios 2:19-20, 4:11-12; 2 Pedro 3:2
+###### Utilizados **como** el fundamento de la Iglesia. Efesios 2:19-20, 4:11-12; 2 Pedro 3:2
 
-###### Designados como principales autoridades espirituales bajo la autoridad de Cristo. 1 Corintios 12:28
+###### Designados como principales autoridades espirituales **bajo** la autoridad de Cristo. 1 Corintios 12:28
 
-#### 1 Timoteo 1:1c "*...por mandato de Dios nuestro Salvador...*" La iniciativa y la autoridad en designar a Pablo como apóstol a los gentiles vino directamente de Dios el Padre.
+#### 1 Timoteo 1:1c "*...por mandato de Dios nuestro Salvador...*" La iniciativa y la autoridad en designar a Pablo como apóstol a los **gentiles** vino directamente de Dios el Padre.
 
-##### Las primeras palabras en esta carta demuestran quien es el que está al control del trabajo de Pablo, quien es el iniciador y proveedor en su apostolado, Dios mismo. Gálatas 1:1, 11-12
+##### Las primeras palabras en esta carta demuestran quien es el que está al control del trabajo de Pablo, **quien** es el iniciador y proveedor en su apostolado, Dios mismo. Gálatas 1:1, 11-12
 
-##### Dios Padre es descrito aquí como Salvador (Redentor, Libertador). No se queda ahí, sino que el Espíritu Santo inspiró las palabras "*...nuestro Salvador...*", no solo era el Salvador único y eterno de Pablo, sino también lo era de su hijo en la fe, Timoteo. Judas 1:24-25
+##### Dios Padre es descrito aquí como Salvador (Redentor, Libertador). No se queda ahí, sino que el Espíritu Santo **inspiró** las palabras "*...nuestro Salvador...*", no solo era el Salvador único y eterno de Pablo, sino también lo era de su hijo en la fe, Timoteo. Judas 1:24-25
 
-##### Vemos que el apostolado de Pablo no fue por iniciativa propia, sino que era orquestado por su Salvador..."*por mandato de Dios*".
+##### Vemos que el apostolado de Pablo no **fue** por iniciativa propia, sino que era orquestado por su Salvador..."*por mandato de Dios*".
 
-#### 1 Timoteo 1:1d "*...y de Cristo Jesús...*" En total armonía con el Padre, Cristo también es el originador del trabajo de Pablo para Su Obra, la edificación de Su Iglesia (Sus llamados afuera). Hechos 26:15-18
+#### 1 Timoteo 1:1d "*...y de Cristo Jesús...*" En **total** armonía con el Padre, Cristo también es el originador del trabajo de Pablo para Su Obra, la edificación de Su Iglesia (Sus llamados afuera). Hechos 26:15-18
 
-#### 1 Timoteo 1:1e "*...Cristo Jesús nuestra esperanza...*". Nótese las palabras de este versículo, no dice que Jesucristo nos da esperanza. Sino que Jesucristo era la esperanza de Pablo y le recuerda a Timoteo que también era su esperanza. Romanos 8:24-25
+#### 1 Timoteo 1:1e "*...Cristo Jesús nuestra esperanza...*". Nótese las palabras de este versículo, no dice que Jesucristo nos da esperanza. Sino que Jesucristo **era** la esperanza de Pablo y le recuerda a Timoteo que también era su esperanza. Romanos 8:24-25
 
-##### Jesucristo es también ahora la esperanza de cada persona que creyó en Él, en Su persona y Su obra completa (Su muerte por los pecados, Su sepultura y Su resurrección). Si tú también creíste en Jesucristo como Pablo y Timoteo, Él también es ahora y para siempre tu esperanza.
+##### Jesucristo es también ahora la **esperanza** de cada persona que creyó en Él, en Su persona y Su obra completa (Su muerte por los pecados, Su sepultura y Su resurrección). Si tú también creíste en Jesucristo como Pablo y Timoteo, Él también es ahora y para siempre tu esperanza.
 
-##### 1 Pedro 1:3 "*Jesucristo es por medio de quien tienes una esperanza viva, porque Él vive*".
+##### 1 Pedro 1:3 "*Jesucristo es por medio de **quien** tienes una esperanza viva, porque Él vive*".
 
-##### Romanos 5:1-2 "*Jesucristo es por medio de quien has sido declarado justo delante del Padre y ahora puedes gozarte en la esperanza de Su Gloria*".
+##### Romanos 5:1-2 "*Jesucristo es por **medio** de quien has sido declarado justo delante del Padre y ahora puedes gozarte en la esperanza de Su Gloria*".
 
 ## Receptor de la carta: El bien amado de Pablo
 
-### 1 Timoteo 1:2a "*a Timoteo, verdadero hijo en la fe:...*" Timoteo un creyente en Jesucristo y también el hijo espiritual amado de Pablo.
+### 1 Timoteo 1:2a "*a Timoteo, verdadero hijo en la fe:...*" Timoteo un creyente en Jesucristo y también el hijo espiritual **amado** de Pablo.
 
-#### Por Hechos 16:1-2 sabemos que Timoteo era un joven discípulo (creyente) crecido en Listra, de madre judía creyente y padre griego. También gozaba de buen testimonio entre los hermanos de Listra e Iconio.
+#### Por Hechos 16:1-2 sabemos que Timoteo era un joven discípulo (creyente) crecido en Listra, de **madre** judía creyente y padre griego. También gozaba de buen testimonio entre los hermanos de Listra e Iconio.
 
-#### Observando un poco la manera en la cual Pablo se dirige a Timoteo:
+#### Observando un **poco** la manera en la cual Pablo se dirige a Timoteo:
 
-##### La palabra *verdadero* viene del griego GNÉSIOS que significa legítimo, genuino, fiel. Esta palabra no solo refleja autenticidad sino también confiabilidad.
+##### La palabra *verdadero* viene del griego GNÉSIOS que significa legítimo, genuino, fiel. Esta palabra no solo **refleja** autenticidad sino también confiabilidad.
 
-##### La palabra *hijo* viene del griego TEKNON que significa también niño, descendiente. Esta palabra muestra un vínculo muy cercano y de mucho aprecio entre Pablo y Timoteo.
+##### La palabra *hijo* viene del griego TEKNON que significa también **niño**, descendiente. Esta palabra muestra un vínculo muy cercano y de mucho aprecio entre Pablo y Timoteo.
 
-##### Timoteo llegó a ser alguien de mucha estima para Pablo (1 Corintios 4:17), colaborador en el ministerio (Romanos 16:21), compañero fiel (1 Corintios 4:17, 16:10; 1 Tesalonicenses 3:2).
+##### Timoteo llegó a ser alguien de **mucha** estima para Pablo (1 Corintios 4:17), colaborador en el ministerio (Romanos 16:21), compañero fiel (1 Corintios 4:17, 16:10; 1 Tesalonicenses 3:2).
 
-#### De las numerosas instrucciones y mandatos que Pablo da a Timoteo en esta epístola, es evidente que Pablo lo tenía en alta estima.
+#### De las numerosas instrucciones y mandatos que Pablo da a Timoteo en esta epístola, es evidente que Pablo lo tenía en alta **estima**.
 
-### 1 Timoteo 1:2b "*Gracia...*" es la palabra CHARIS en griego. Significaba varias cosas en el primer siglo como veremos a continuación. 
+### 1 Timoteo 1:2b "*Gracia...*" es la palabra CHARIS en griego. Significaba varias cosas en el primer siglo **como** veremos a continuación. 
 
-#### El uso de la palabra gracia en el griego del primer siglo abarca cuatro sentidos principales. 
+#### El uso de la palabra **gracia** en el griego del primer siglo abarca cuatro sentidos principales. 
 
-##### Gracia como Bondad - Amabilidad de una persona respecto a otra. [^6] Lucas 4:22
+##### Gracia como Bondad - Amabilidad de una persona **respecto** a otra. [^6] Lucas 4:22
 
-##### Gracia como Favor - Ayuda o socorro que se concede a alguien. [^7]Lucas 1:30, 2:52; Hechos 2:47
+##### Gracia como Favor - **Ayuda** o socorro que se concede a alguien. [^7]Lucas 1:30, 2:52; Hechos 2:47
 
-##### Gracia como Gratitud - Sentimiento de la persona que agradece un favor recibido.[^8] Lucas 17:9; Romanos 6:17; 1 Timoteo 1:12; 2 Timoteo 1:3; Hebreos 12:28
+##### Gracia **como** Gratitud - Sentimiento de la persona que agradece un favor recibido.[^8] Lucas 17:9; Romanos 6:17; 1 Timoteo 1:12; 2 Timoteo 1:3; Hebreos 12:28
 
-##### Gracia como saludo - En cada ocasión, Pablo usó la palabra gracia para saludar y despedirse en su escritos. Romanos 1:7
+##### Gracia como saludo - En cada **ocasión**, Pablo usó la palabra gracia para saludar y despedirse en su escritos. Romanos 1:7
 
-#### Bíblicamente, en la edad de la iglesia, la palabra gracia es muy importante y llega a tener un significado propio. 
+#### Bíblicamente, en la **edad** de la iglesia, la palabra gracia es muy importante y llega a tener un significado propio. 
 
-##### La gracia fue profetizada e indagada por los profetas de la antigüedad. 1 Pedro 1:10-11
+##### La gracia fue profetizada e indagada **por** los profetas de la antigüedad. 1 Pedro 1:10-11
 
-##### La gracia para salvación fue manifiesta en la cruz. Tito 2:11
+##### La gracia para salvación **fue** manifiesta en la cruz. Tito 2:11
 
-##### Así como La Ley vino por medio de Moisés, la gracia fue hecha realidad por medio de Jesucristo. Juan 1:17; Hebreos 2:9
+##### Así como La Ley vino por **medio** de Moisés, la gracia fue hecha realidad por medio de Jesucristo. Juan 1:17; Hebreos 2:9
 
-##### La gracia para el creyente proviene de Dios. Juan 1:16; 1 Corintios 1:4, 16:23; Gálatas 6:18, 1 Tesalonicenses 5:28
+##### La gracia **para** el creyente proviene de Dios. Juan 1:16; 1 Corintios 1:4, 16:23; Gálatas 6:18, 1 Tesalonicenses 5:28
 
-##### La gracia es gratuita, no es por obras o merecimiento. Romanos 11:6, 3:24; Efesios 4:7
+##### La gracia es gratuita, no es por **obras** o merecimiento. Romanos 11:6, 3:24; Efesios 4:7
 
-##### Dios nos llama por medio de la gracia. Hechos 18:27; Gálatas 1:6, Colosenses 1:6, 2 Timoteo 1:9
+##### Dios nos llama por **medio** de la gracia. Hechos 18:27; Gálatas 1:6, Colosenses 1:6, 2 Timoteo 1:9
 
-##### La salvación por gracia - buena voluntad libremente difundida (por Dios); es especialmente para beneficio del receptor y es independiente del beneficio acumulado para el difundidor.[^9] Efesios 2:8; Hechos 15:11
+##### La salvación por gracia - buena voluntad libremente difundida (por Dios); es especialmente **para** beneficio del receptor y es independiente del beneficio acumulado para el difundidor.[^9] Efesios 2:8; Hechos 15:11
 
-###### Somos justificados libremente por su gracia. Romanos 3:24; Tito 3:7
+###### Somos justificados libremente por su **gracia**. Romanos 3:24; Tito 3:7
 
-###### La redención y perdón de pecados es según la riqueza de Su gracia. Efesios 1:7
+###### La **redención** y perdón de pecados es según la riqueza de Su gracia. Efesios 1:7
 
-##### Ya que la gracia es la obra de Dios mediante Jesucristo y la fe no es una obra, la fe y la gracia armonizan perfectamente. Romanos 3:24-26, 4:5, 4:16
+##### Ya que la gracia es la **obra** de Dios mediante Jesucristo y la fe no es una obra, la fe y la gracia armonizan perfectamente. Romanos 3:24-26, 4:5, 4:16
 
-##### El creyente está firme en y bajo la gracia. Romanos 5:2, 6:14
+##### El creyente está **firme** en y bajo la gracia. Romanos 5:2, 6:14
 
-##### La gracia es suficiente para todo el andar del creyente. 2 Corintios 12:9, 1 Timoteo 1:14
+##### La gracia es suficiente para **todo** el andar del creyente. 2 Corintios 12:9, 1 Timoteo 1:14
 
-##### La gracia es lo que edifica al creyente. Hechos 20:32, Tito 2:12
+##### La gracia es lo que **edifica** al creyente. Hechos 20:32, Tito 2:12
 
-###### Pablo siempre animaba a los hermanos a permanecer en la gracia. Hechos 13:43, 20:24; Filipenses 4:23; 2 Timoteo 2:1
+###### Pablo siempre **animaba** a los hermanos a permanecer en la gracia. Hechos 13:43, 20:24; Filipenses 4:23; 2 Timoteo 2:1
 
-###### Pedro, en su despedida a los hermanos, animó a sus lectores a continuar creciendo en la gracia. 2 Pedro 1:2, 3:18
+###### Pedro, en su despedida a los hermanos, **animó** a sus lectores a continuar creciendo en la gracia. 2 Pedro 1:2, 3:18
 
-### 1 Timoteo 1:2c "*misericordia*..." Esta palabra, ELEOS, también puede ser traducido compasión. 
+### 1 Timoteo 1:2c "*misericordia*..." Esta palabra, ELEOS, también **puede** ser traducido compasión. 
 
 #### Podríamos decir que es la manifestación externa de la compasión; da por sentado la necesidad en aquel que la recibe, y recursos adecuados para afrontar la necesidad de parte de aquel que la exhibe.
 
