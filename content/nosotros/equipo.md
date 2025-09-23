@@ -1,7 +1,7 @@
 ---
 type: "nosotros"
-Title: Equipo CC3D
-
+Title: Equipo CGV
+draft: false
 ---
 
 ![](/img/the-wrys.jpeg)

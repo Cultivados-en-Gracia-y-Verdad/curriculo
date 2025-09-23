@@ -73,7 +73,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Calendario"
-    url        = ""
+    url        = "/calendar"
     weight     = 1
     parent     = "section.headervariations"
 
@@ -92,17 +92,17 @@ pluralizelisttitles = false
 #    parent     = "menu.portfolio"
 #    post       = 1
 
-#[[menu.main]]
-   # name       = "1. Primeros Pasos"
-   # url        = "/admisiones/empieza"
-   # weight     = 2
-   # parent     = "section.portfolio"
+[[menu.main]]
+    name       = "1. Primeros Pasos"
+    url        = "/admisiones/empieza"
+    weight     = 2
+    parent     = "section.portfolio"
 
-#[[menu.main]]
-#    name       = "2. Inscripción"
-#    url        = "/admisiones/admision"
-#    weight     = 3
-#    parent     = "section.portfolio"
+[[menu.main]]
+    name       = "2. Inscripción"
+    url        = "/admisiones/admision"
+    weight     = 3
+    parent     = "section.portfolio"
 
 [[menu.main]]
     name       = "Información"
@@ -142,17 +142,23 @@ pluralizelisttitles = false
     url        = "/nosotros/"
     weight     = 2
     parent     = "menu.allpages"
+    
+[[menu.main]]
+    name       = "Curriculum"
+    url        = "/nosotros/curriculum"
+    weight     = 3
+    parent     = "menu.allpages"
 
 [[menu.main]]
     name       = "Fotos"
     url        = "http://fotos.cc3d.org/"
-    weight     = 3
+    weight     = 4
     parent     = "menu.allpages"
 
 [[menu.main]]
     name       = "Video"
     url        = "/nosotros/2023"
-    weight     = 4
+    weight     = 5
     parent     = "menu.allpages"
 
 [[menu.main]]
@@ -274,8 +280,8 @@ pluralizelisttitles = false
     disabled_logo = false
     logo_text = "CGV"
 
-    logo = "img/logo.png"
-    logo_small = "img/logo-small.png"
+    logo = "img/cgv-logo.jpg"
+    logo_small = "img/cgv-logo-small.jpg"
     contact_url = "/contacto"
     address = """<p class="text-uppercase"><strong>Centros en Bolivia</strong>
         <br>Iglesia Yo Soy

@@ -1,6 +1,7 @@
 ---
 Title: ¿Que es el CGV?
-
+type: "nosotros"
+draft: false
 ---
 
 # ¿Qué lo hace único?
