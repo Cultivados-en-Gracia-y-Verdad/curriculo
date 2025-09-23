@@ -1,4 +1,4 @@
-baseURL = 'http://discipuladocgv.org/'
+baseURL = 'http://www.discipuladocgv.org/'
 languageCode = 'es'
 title = 'CGV'
 theme = "hugo-universal-theme"

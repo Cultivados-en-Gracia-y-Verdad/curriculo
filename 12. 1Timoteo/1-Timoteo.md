@@ -7,9 +7,9 @@ Title: 1 Timoteo
 **ÍNDICE**
 |**1 Timoteo En la Casa de Dios**| |
 |----|---|
-|I. La Iglesia: Información General||
-|II. Características Distintivas de la Iglesia del Nuevo Testamento ||
-|III. 1 Timoteo 1:1-2 -- Saludos e Información Biográfica||
+|I. Introducción||
+|II. La iglesia el cuerpo de Cristo y casa del Dios vivo ||
+|III. 1 Timoteo 1:1-2 - Saludos||
 |IV. 1 Timoteo 1:3-20 -- Batallando por la Gracia||
 |V. Breve Doctrina sobre la Disciplina en la Iglesia||
 |VI. 1 Timoteo 2:1-15 -- Instrucción Sobre la Adoración||
@@ -19,8 +19,8 @@ Title: 1 Timoteo
 |X. 1 Timoteo 6:3-21 -- Asuntos Relacionados con la Iglesia||
 <hr>
 
-# I. Introducción 
-## A. A primera vista
+# Introducción 
+## A primera vista
 
 ### La maravilla de la iglesia esta en el hecho que Cristo la concibió en sus planes desde antes de la fundación del mundo (Efesios 1:4), la compró con Su sangre (Hechos 20:28), la estableció (Mateo 16:18) y prometió preservarla eternamente (Mateo 16:18). 
 
@@ -36,7 +36,7 @@ Title: 1 Timoteo
 
 ### Si alguna vez te preguntaste "¿Qué es la Iglesia?", "¿Cual es mi parte dentro de la Iglesia?", "¿Cómo debemos conducirnos en ella?", entonces el contenido de este libro te guiará a la esencia de que es la Iglesia de Jesucristo y como debe andar ordenadamente. Asi que creyente, ¡pon atención a este hermoso y valioso libro!
 
-## B. Información General
+## Información General
 
 ### El género del libro es didactico, una carta escrita a alguien. Timoteo es el único individuo que recibió dos cartas inspiradas. 
 
@@ -218,7 +218,7 @@ Title: 1 Timoteo
 
 ### 2 Tesalonicenses 2:14 "*a lo cual **os llamó mediante nuestro evangelio**, para alcanzar la gloria de nuestro Señor Jesucristo.*"
 
-## Ekklesia local vs ekklesia universal
+## Iglesia local vs Iglesia universal
 
 ### La Iglesia universal se refiere al cuerpo espiritual de Cristo que está representado por muchas iglesias locales. Si bien hay una sola Iglesia de Jesucristo, tiene muchas diferentes representaciones en diferentes lugares. 
 
