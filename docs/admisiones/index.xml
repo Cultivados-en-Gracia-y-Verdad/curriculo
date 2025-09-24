@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Admision on CGV</title>
+    <link>https://www.discipuladocgv.org/admisiones/</link>
+    <description>Recent content in Admision on CGV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 30 Aug 2023 21:08:15 -0400</lastBuildDate><atom:link href="https://www.discipuladocgv.org/admisiones/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Empieza</title>
+      <link>https://www.discipuladocgv.org/admisiones/empieza/</link>
+      <pubDate>Wed, 30 Aug 2023 21:08:15 -0400</pubDate>
+      
+      <guid>https://www.discipuladocgv.org/admisiones/empieza/</guid>
+      <description>¡Nos alegra mucho tu deseo de estudiar con nosotros!
+Antes de continuar Antes de continuar queremos que sepas que el CGV es un estudio riguroso, intensivo. Entendemos que no es para todos. Solo los que realmente desean dedicarse al estudio de La Palabra encontrarán en el CC3D el lugar que buscaban. El CC3D no es un reformatorio.
+Paso #1: Lee los siguientes párrafos Solicitar estudios en CGV es un paso emocionante en tu viaje.</description>
+    </item>
+    
+    <item>
+      <title>Admisiones</title>
+      <link>https://www.discipuladocgv.org/admisiones/admision/</link>
+      <pubDate>Sun, 27 Aug 2023 22:30:27 -0400</pubDate>
+      
+      <guid>https://www.discipuladocgv.org/admisiones/admision/</guid>
+      <description>admisiones</description>
+    </item>
+    
+    <item>
+      <title>Inicio</title>
+      <link>https://www.discipuladocgv.org/admisiones/inicio/</link>
+      <pubDate>Sun, 27 Aug 2023 21:45:04 -0400</pubDate>
+      
+      <guid>https://www.discipuladocgv.org/admisiones/inicio/</guid>
+      <description>CGV  Calendario
+{{ iframe https://cloud.cc3d.org/index.php/apps/calendar/p/RgdK2oxjBjc2Gcba/dayGridMonth/now }}
+Fotos</description>
+    </item>
+    
+  </channel>
+</rss>
