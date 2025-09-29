@@ -202,11 +202,35 @@ Title: 1 & 2 Pedro
 
 # 1 Pedro 2:1-10 – Una vida creciendo en madurez
 
-###  1 Pedro 2:1 *Por tanto, desechando*
+###  1 Pedro 2:1  *Por tanto, desechando toda malicia, y todo engaño, e hipocresías, y envidias y toda difamación,*
 
-###  *toda malicia, y todo engaño,*
 
-###  *e hipocresías,*
+
+###  1 Pedro 2:1a  *Por tanto, desechando toda malicia,*...
+
+#### Considerando la nueva realidad en la vida del creyente, sabiendo que fue purificado, nacido de simiente incorruptible, les anima a despojarse de todo lo malo.
+
+#### La palabra *desechando* [APOTIDSEMI] significa de despojarse, desechar algo, ú echarlo fuera.
+
+#### Este verbo en griego se encuentra en tiempo aoristo, medio, participio, dándonos a entender, que es una indicación que ya se realizó en un punto específico del tiempo, con continuidad en el presente, que el creyente realiza en favor suyo.
+
+#### *toda malicia* o maldad en la vida del creyente tiene que ser completamente desechada, esto es debido a que ya no es un ser corrupto (Viejo hombre) , como lo era en su vieja pasada manera de vivir, sino ahora tiene una simiente incorruptible. Efesios 4:22, 25, 31; Santiago 1:21
+
+###  1 Pedro 2:1b *...y todo engaño,...*
+
+#### El engaño en la vida del creyente es completamente desechado, esto debido a que Cristo es el ejemplo de novedad de vida. 1 Pedro 2:22, 3:10
+
+#### La práctica del engaño en la vida de una persona es relacionado, con su Padre. Hechos 13:10 ; Juan 8:44 
+
+#### La palabra en el creyente tiene que ser fuera de todo engaño, debido a que ninguna mentira procede de la verdad. 2 Corintios 4:2 ,11:3 ;2 Tesalonicenses 2:3 ; 1 Juan 2:21
+
+###  1 Pedro 2:1c *...e hipocresías,...*
+
+#### La hipocresía es una actitud de fingimiento concerniente a cualidades o sentimientos contrarios a los que tiene o experimentan. 
+
+#### La vida del creyente puede estar llena de hipocresía fingiendo ser buenas personas por fuera y experimentando lo contrario por dentro, Podemos ver esto de igual manera con los fariseos en tiempos de Jesús. Mateo 23:28 ; Lucas 12:1 
+
+#### Un creyente puede ser arrastrado por la hipocresía de otros, y ser engañado llegando hasta cauterizar su conciencia. Gálatas 2:13 ; 1 Timoteo 4:2
 
 ###  *y envidias y toda difamación,*
 
