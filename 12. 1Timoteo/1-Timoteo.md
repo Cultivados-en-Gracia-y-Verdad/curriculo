@@ -494,11 +494,11 @@ www.discipuladocgv.org
 
 #### Pablo no enseñaba por enseñar cosas interesantes para llevarlos a discusiones que alimentan la __<u>carne</u>__. Sus intenciones en enseñar la verdad eran para beneficio de los hermanos. Por medio de la instrucción tendrían amor. 
 
-##### El amor __<u>proviene</u>__ de Dios. Juan 15:10; Romanos 5:8; 1 Timoteo 1:14
+##### El amor __<u>proviene</u>__ de Dios. Juan 15:10; 1 Timoteo 1:14
 
 ##### Sin la verdad, no puede __<u>haber</u>__ amor. Juan 13:35; Romanos 12:9; 1 Corintios 13:6; 2 Corintios 6:6; 1 Timoteo 6:14; Efesios 2:13-19
 
-##### Sin la verdad, no puede haber __<u>unidad</u>__. La unidad es en base a la verdad. Juan 17:26; 2 Corintios 13:11
+##### Sin la verdad, no puede haber unidad. La unidad es en __<u>base</u>__ a la verdad. Juan 17:26; 2 Corintios 13:11
 
 ### 1 Timoteo 1:5c "*es el amor...nacido de corazón __<u>puro</u>__,*" Salmo 51:10
 
@@ -508,17 +508,19 @@ www.discipuladocgv.org
 
 #### Para este __<u>caso</u>__ en específico, una buena conciencia está estrechamente relacionada con el mensaje de la escritura, al permancer en el mensaje sin alterarlo estaremos gozando de una buena conciencia.
 
+#### Cuando hacemos algo malo nuestra consciencia no nos deja tranquilos. 
+
 #### El resultado de la verdad adoptada por la fe __<u>tendrá</u>__ como fruto el amor.
 
 ### 1 Timoteo 1:5e "*es el amor...y de una fe sincera,*" El amor que vine de una fe sincera habla de un amor que __<u>viene</u>__ de la confianza sin hipocresía o falsedad.
 
 #### Pablo no está hablando de fe para salvación de la condena del pecado, poniendo así en tela de __<u>duda</u>__ la salvación eterna.
 
-#### Mas bien habla de fe en nuestro diario andar, fe sin hipocresía, hablando de una doble dependencia, esto en contraste con la __<u>sola</u>__ dependencia de la verdad de la escritura. 
+#### Mas bien habla de fe en nuestro diario andar, fe sin hipocresía, hablando de una doble dependencia, esto en contraste con la __<u>sola</u>__ dependencia de la verdad de la Escritura. 
 
 ## 1 Timoteo 1:6-7 - El desvío de la instrucción bíblica al pervertir el uso de La Ley 
 
-### 1 Timoteo 1:6a "*Pues algunos, desviándose de estas cosas* *se han apartado hacia una vana palabrería*" Al apartarse del propósito correcto de la instrucción, terminaron enseñando meramente palabras __<u>huecas</u>__ sin conseguir el amor de corazon puro, una buena consciencia y una fe sincera. 
+### 1 Timoteo 1:6a "*Pues algunos, desviándose de estas cosas* *se han apartado hacia una vana palabrería...*" Al apartarse del propósito correcto de la instrucción, terminaron enseñando meramente palabras __<u>huecas</u>__ sin conseguir el amor de corazon puro, una buena consciencia y una fe sincera. 
 
 #### El error que cometieron fue de enseñar __<u>cosas</u>__ extrañas y eso terminó en vana palabrería. 
 
@@ -528,13 +530,11 @@ www.discipuladocgv.org
 
 #### Al __<u>querer</u>__ ser maestros de La Ley, estas personas estaban dando un mal uso a una buena herramienta y terminó en algo dañino para la iglesia. 
 
-#### Se apartaron de la verdad para __<u>apuntar</u>__ hacia vana palabrería. Hacen declaraciones categóricas al intentar ser maestros de la ley. Se apartaron de la gracia creando algo nuevo. Algo estéril, un cancer, doctrina de demonios. 1 Timoteo 4:1, Gálatas 3:12-13
+#### Se apartaron de la verdad para __<u>apuntar</u>__ hacia vana palabrería. Hacen declaraciones categóricas al intentar ser maestros de La Ley. Se apartaron de la gracia creando algo nuevo. Algo estéril, un cancer, doctrina de demonios. 1 Timoteo 4:1; Gálatas 3:12-13
 
-##### Su mensaje contenia Palabras __<u>vanas</u>__ tales como: la auto-negación religiosa, el formalismo religioso, las disciplinas espirituales, la vestimenta, las reuniones, la comida, etc. etc.. 
+##### Su mensaje contenia Palabras __<u>vanas</u>__ tales como: la auto-negación religiosa, el formalismo religioso, las disciplinas espirituales, la vestimenta, las reuniones, la comida, etc. etc... 
 
-### 1 Timoteo 1:7b "*aunque no saben lo que __<u>dicen</u>__ ni entienden las cosas acerca de las cuales hacen declaraciones categóricas.*"
-
-#### ¿Cómo pueden enseñar algo que __<u>ellos</u>__ ni siquiera entienden? 
+### 1 Timoteo 1:7b "*aunque no saben lo que __<u>dicen</u>__ ni entienden las cosas acerca de las cuales hacen declaraciones categóricas.*" ¿Cómo pueden enseñar algo que __<u>ellos</u>__ ni siquiera entienden? Demuestran que  no entienden porque Dios no usa La Ley para madurar al creyente. Romanos 6:14
 
 #### Al querer usar La __<u>Ley</u>__ para santificar a los hermanos, claramente demuestra que no saben lo que dicen. 
 
@@ -544,13 +544,13 @@ www.discipuladocgv.org
 
 ## En Síntesis (1 Timoteo 1:1-7)
 
-### Pablo el apóstol designó una tarea muy importante a su __<u>preciado</u>__ hijo Timoteo. 1 Timoteo 1:3a
+### Pablo el apóstol designó una tarea muy importante a su __<u>preciado</u>__ hijo Timoteo. 1 Timoteo 1:3
 
-### Él debía __<u>impedir</u>__ las enseñanzas que no eran conforme al de Dios y tampoco debían prestarles atención. 1 Timoteo 1:3b-4
+### Él debía __<u>impedir</u>__ las enseñanzas que no eran conforme al de Dios y tampoco debían prestarles atención. 1 Timoteo 1:3-4
 
-### Así la iglesia no se perdería en información __<u>vacia</u>__, inutil. 1 Timoteo 1:4b
+#### Así la iglesia no se perdería en información __<u>vacia</u>__ e inutil. 1 Timoteo 1:4
 
-### Así la iglesia andaría conforme al __<u>plan</u>__ de Dios para ellos, que es por la fe. 1 Timoteo 1:4c
+#### Así la iglesia andaría conforme al __<u>plan</u>__ de Dios para ellos, que es por la fe. 1 Timoteo 1:4c
 
 ### El proposito era un __<u>amor</u>__ (agape) en los creyentes. 1 Timoteo 1:5
 
@@ -558,91 +558,97 @@ www.discipuladocgv.org
 
 ### Habían creyentes que estaban desviando a la iglesia por __<u>medio</u>__ de enseñanzas falsas de la ley. 1 Timoteo 1:6-7
 
-### Los pervertidores (1 Timoteo 1:3a): Son autoproclamados "expertos" de la ley, que se __<u>dedican</u>__ a esparcir su veneno.
+### Los pervertidores : Son autoproclamados "expertos" de La Ley, que se __<u>dedican</u>__ a esparcir su veneno. 1 Timoteo 1:3
 
-### La perversión (1 Timoteo 1:3b-7): Estos __<u>hombres</u>__ han agregado una dolorosa mezcla de mitos, fábulas y genealogías interminables a la ley.
+### La perversión: Estos __<u>hombres</u>__ han agregado una dolorosa mezcla de mitos, fábulas y genealogías interminables a la ley. 1 Timoteo 1:3-7
 
 ## 1 Timoteo 1:8-11 - El propósito de la Ley Moisés
 
-### 1 Timoteo 1:8a "*Pero nosotros sabemos que la ley es buena, si uno la usa legítimamente.*" Pablo quiere aclarnos en __<u>cuanto</u>__ a la ley, debido a su mal uso, esto no solo es para conocimiento de Timoteo, posteriormente lo seria para toda la iglesia.
+### 1 Timoteo 1:8a "*Pero nosotros sabemos que la ley es buena, si uno la usa **legítimamente**.*" Pablo quiere aclararnos en __<u>cuanto</u>__ a la ley, debido a su mal uso, esto no solo es para conocimiento de Timoteo, posteriormente lo seria para toda la iglesia.
 
-#### Como creyentes jamás debemos percibir a la ley __<u>como</u>__ malvada e inútil.
+#### Como creyentes jamás debemos percibir a la ley __<u>como</u>__ malvada e inútil. La Biblia no enseña el antinomialismo. 
 
-#### La ley fue dada por Dios, esta se muestra como un reflejo de su Santidad y Justicia, y en ultima insatancia de su __<u>propia</u>__ persona. Romanos 7:6,12,16; Salmos 19:7-8
+#### La ley fue dada por Dios, esta se muestra como un reflejo de Su santidad y justicia, y en ultima insatancia de Su __<u>propia</u>__ Persona. Romanos 7:6, 12, 16; Salmos 19:7-8
 
-### 1 Timoteo 1:8b "*...si uno la usa legítimamente.*" La ley puede ser __<u>usada</u>__ de manera legitima, asi como ilegitima.
+### 1 Timoteo 1:8b "*...si uno la usa legítimamente.*" La ley puede ser __<u>usada</u>__ de manera legitima, asi como ilegítimamente. 
 
-#### La ley consta de un __<u>uso</u>__ y propósito según las escrituras. Romanos 3:20; Gálatas 3:23-25 
+#### La ley consta de un __<u>uso</u>__ y propósito según las Escrituras. Romanos 3:20; Gálatas 3:23-25
 
-### 1 Timoteo 1:9a "*Reconozcamos esto: que la ley no ha sido instituida para el justo*" Podemos ver algo de __<u>manera</u>__ clara en este versículo, la ley no esta dada para el justo (creyente). Romanos 6:14
+### 1 Timoteo 1:9a "*Reconozcamos esto: que la ley **no** ha sido instituida para el justo*" Podemos ver algo de __<u>manera</u>__ clara en este versículo, la ley no esta dada para el justo. Romanos 6:14
 
-### 1 Timoteo 1:9b "*sino para los transgresores*" Pablo nos __<u>aclara</u>__ para quien esta instituida la ley. 
+#### ¿Entonces, quien es el justo?
+
+### 1 Timoteo 1:9b "*sino para los transgresores...*" Pablo nos __<u>aclara</u>__ para quien esta instituida la ley. La Ley no ha sido instituida para los justos sino para los que transgreden. 
 
 #### Transgresores son __<u>aquellos</u>__ que quebrantan la ley o mejor descritos como los que ni siquiera tienen ley.
 
-### 1 Timoteo 1:9c "*y rebeldes*" Son los que no se __<u>sujetan</u>__ a Dios, también descritos como los que van contra Dios.
+### 1 Timoteo 1:9c "*y rebeldes...*" Son los que no se __<u>sujetan</u>__ a Dios, también descritos como los que van contra Dios.
 
-### 1 Timoteo 1:9d "*para los __<u>impíos</u>__ y pecadores,*" Los impios, también traducido como irreverente o falto de respeto, __<u>esto</u>__ es dirigido a Dios, en cuanto su persona y carácter.
+### 1 Timoteo 1:9d "*para los **impíos** y pecadores...*" Los impios, también traducido como irreverente o falto de respeto, __<u>esto</u>__ es dirigido a Dios, en cuanto su persona y carácter.
 
-#### Los pecadores, es un calificativo para describir a un __<u>grupo</u>__ de personas que cometen pecado.
+#### Los pecadores, es un calificativo para describir a un __<u>grupo</u>__ de personas que cometen pecado. Es una característica. 
 
-### 1 Timoteo 1:9e "*para los irreverentes y __<u>profanos</u>__,*"
+### 1 Timoteo 1:9e "*para los irreverentes y __<u>profanos</u>__...*"
 
 #### Los irreverentes, aunque parece repetitivo esta palabra se distingue en el griego con ANOSIOS, __<u>alguien</u>__ sin respeto a lo establecido por Dios a diferencia de su persona.
 
-#### Los profanos, también llamados mundanos, __<u>contiene</u>__ la idea de traspasar lo sagrado o santo, contaminándolo 
+#### Los profanos, también llamados mundanos, __<u>contiene</u>__ la idea de traspasar lo sagrado o santo, contaminándolo.  
 
-### 1 Timoteo 1:9f "*para los que matan a sus padres o a sus madres*" Específicamente dirigido a aquellos que son __<u>asesinos</u>__ de los progenitores, el odio también entra como parte del asesinato.
+### 1 Timoteo 1:9f "*para los que matan a sus padres o a sus madres...*" Específicamente dirigido a aquellos que son __<u>asesinos</u>__ de los progenitores, el odio también entra como parte del asesinato.
 
-### 1 Timoteo 1:9g "*para los asesinos*" Son los que sustraen la vida a otro ser humano, odiar o aborrecer a tu __<u>hermano</u>__ es considerado como un crimen de asesinato. 
+### 1 Timoteo 1:9g "*para los asesinos...*" Son los que sustraen la vida a otro ser humano, odiar o aborrecer a tu __<u>hermano</u>__ es considerado como un crimen de asesinato. 
 
-### 1 Timoteo 1:10a "*para los inmorales*" PORNOS es la palabra utilizada aquí, no solo es cualquier tipo de inmoralidad sexual también __<u>incluye</u>__ la pornografía de cualquier tipo, lascivia o lujuria.
+### 1 Timoteo 1:10a "*para los inmorales...*" PORNOS es la palabra utilizada aquí, no solo es cualquier tipo de inmoralidad sexual también __<u>incluye</u>__ la pornografía de cualquier tipo, lascivia o lujuria.
 
-### 1 Timoteo 1:10a "*para los...homosexuales*" Describe a los hombres que se acuestan con hombres, así mismo las __<u>mujeres</u>__ que se acuestan con mujeres, la homosexualidad es parte de la inmoralidad.
+### 1 Timoteo 1:10b "*para los...homosexuales...*" Describe a los hombres que se acuestan con hombres, así mismo las __<u>mujeres</u>__ que se acuestan con mujeres, la homosexualidad es parte de la inmoralidad.
 
-### 1 Timoteo 1:10a "*para los...secuestradores,*" Literalmente habla de privar de la __<u>libertad</u>__ o esclavizar.
+### 1 Timoteo 1:10c "*para los...secuestradores,*" Literalmente habla de privar de la __<u>libertad</u>__ o esclavizar.
 
-### 1 Timoteo 1:10a "*para los...mentirosos y los que juran en falso*" un mentiroso es alguien que no tiene __<u>verdad</u>__ o habla verdad, también incluye a los que cambian la verdad o le agregan.
+### 1 Timoteo 1:10d "*para los...mentirosos y los que juran en falso...*" un mentiroso es alguien que no tiene __<u>verdad</u>__ o habla verdad, también incluye a los que cambian la verdad o le agregan.
 
 #### Los que juran en __<u>falso</u>__, esto es parte de engañar debido a que el juramento es inexistente ya que es quebrantado.
 
-### 1 Timoteo 1:10a "*y para cualquier otra cosa que es contraria a la sana doctrina*" la Biblia NET traduce "*para cualquira que __<u>viva</u>__ contrario a la sana doctrina*".
+### 1 Timoteo 1:10e "*y para cualquier otra cosa que es contraria a la sana doctrina*" la Biblia NET traduce esta frase así, "*para cualquira que __<u>viva</u>__ contrario a la sana doctrina*".
 
-#### Lo que observamos anteriormente son adjetivos calificativos que señalan caracteristicas que __<u>definen</u>__ a un grupo de personas.
+#### Lo que observamos anteriormente son adjetivos calificativos que señalan caracteristicas que __<u>definen</u>__ a un grupo de personas.  
 
-#### En conclusion podemos decir que la ley __<u>esta</u>__ instituida para todo incredulo.
+#### Concluimos deciendo que la ley __<u>esta</u>__ instituida para todo incrédulo.
 
-#### __<u>Sana</u>__ doctrina literalmente significa enseñanza saludable.
+#### __<u>Sana</u>__ doctrina literalmente significa enseñanza saludable. 
 
-### 1 Timoteo 1:11a "*según el glorioso evangelio del Dios bendito,*" Aqui tenemos un termino muy asombroso, la __<u>sana</u>__ doctrina es segun el glorioso Evangelio.
+### 1 Timoteo 1:11a "*según el glorioso evangelio del Dios bendito...*" Aqui tenemos un termino muy asombroso, la __<u>sana</u>__ doctrina es "*segun el glorioso evangelio*".
 
 #### Si cambiamos el evangelio, __<u>deja</u>__ de haber una enseñanza saludable para la iglesia.
 
-### 1 Timoteo 1:11b "*que me ha sido encomendado*" Jesucristo encomendo el mensaje del evangelio a __<u>Pablo</u>__. Gálatas 1:11-12
+### 1 Timoteo 1:11b "*que me ha sido encomendado...*" Jesucristo encomendó el mensaje del evangelio a __<u>Pablo</u>__. Gálatas 1:11-12
 
 ## En Síntesis (1 Timoteo 1:8-11)
 
-### La Ley no fue hecha para __<u>guiar</u>__ los justos (creyentes) en su vida. 1 Timoteo 1:8a; 1 Corintios 6:9-11
+### La Ley no fue hecha para __<u>guiar</u>__ los justos (creyentes) en su vida. 1 Timoteo 1:8; 1 Corintios 6:9-11
 
-### La Ley fue hecha para guíar a los __<u>injustos</u>__ (incredulos) a Cristo. 1 Timoteo 1:8b-11; Gálatas 3:24
+### El propósito que sirve la ley es para guíar a los __<u>injustos</u>__ (incredulos) a Cristo. 1 Timoteo 1:8-11; Gálatas 3:24
 
-### Vemos que la sana __<u>doctrina</u>__ (doctrina que sana) viene solo por medio del evangelio de Dios.
+### Vemos que la sana __<u>doctrina</u>__ (doctrina que sana) es según del evangelio de Dios.
 
-## 1 Timoteo 1:12-17 - El Testimonio de Pablo: Profunda gratitud por la fidelidad de Dios.
+#### La única enseñanza que lleva al creyente al __<u>amor</u>__ AGAPE es la sana doctrina, no La Ley. 
+
+## 1 Timoteo 1:12-17 - El Testimonio de Pablo: Profunda gratitud por la fidelidad de Dios
 
 ### 1 Timoteo 1:12a "*Doy gracias a Cristo Jesús nuestro Señor, que me ha fortalecido...*" Nuevamente __<u>vemos</u>__ el uso (es tercera vez en 12 versículos) de "*nuestro*". Timoteo necesitaba acordarse que Pablo era colaborador con Timoteo en su servicio por el Señor. 
 
-#### Fortalecido es la palabra ENDUNAMOO. Es una __<u>palabra</u>__ compuesta de EN (en) y DUNAMIS (poder). 
+#### Fortalecido ENDUNAMOO es una __<u>palabra</u>__ compuesta de EN (en) y DUNAMIS (poder). Pablo dice que recibió fortalecimiento interno. 
 
-#### El mundo vive buscando fortalecimiento externo. Los cosméticos para mejorar la apariencia, seguridad en el sustento económico, vivir con tranquilidad circustancial y __<u>mucho</u>__ más. 
+##### El mundo vive buscando fortalecimiento externo. Los cosméticos para mejorar la apariencia, seguridad en el sustento económico, vivir con tranquilidad circustancial, ejercicio físico y __<u>mucho</u>__ más para ser fortalecido. 
 
-#### El creyente puede vivir siendo fortalecido internamente por la gracia de Dios. Pablo invitó a Timoteo a esforzarse (voz __<u>pasiva</u>__) en la gracia de Dios por esta razón. 2 Timoteo 2:1; Efesios 3:16
+##### El creyente puede vivir siendo fortalecido internamente por la gracia de Dios. Pablo invitó a Timoteo a esforzarse (voz __<u>pasiva</u>__) en la gracia de Dios por esta razón. 2 Timoteo 2:1; Efesios 3:16
 
-#### El testimonio de __<u>Pablo</u>__ de como Dios le había fortalecido, seria de mucho animo para Timoteo. 
+###### ¿Donde esta el fortalecimiento del creyente? ¿Esta en sus propias fuerzas? ¿Está en su habilidad o inteligencia? ¡No! está en el fortalecimiento en el interior que viene de Cristo en nosotros. 
 
-#### Aunque había pasado toda __<u>clase</u>__ de tribulaciones, El mismo que sostuvo a Pablo puede también sostener a Timoteo ahora. Efesios 6:10
+##### El testimonio de __<u>Pablo</u>__ de como Dios le había fortalecido, seria de mucho animo para Timoteo. 
 
-### 1 Timoteo 1:12a "*porque me tuvo por fiel, poniéndome en el ministerio*..." Esto es una declaración inusual. __<u>Antes</u>__ que Dios le ponga en el ministerio, Pablo era todo, menos fiel. Hechos 9:15-16
+###### Aunque había pasado toda __<u>clase</u>__ de tribulaciones, El mismo que sostuvo a Pablo puede también sostener a Timoteo ahora. Efesios 6:10
+
+### 1 Timoteo 1:12a "*porque me tuvo por fiel, poniéndome en el ministerio*..." Esto es una declaración inusual. __<u>Antes</u>__ que Cristo le ponga en el ministerio, Pablo era todo, menos fiel. Hechos 9:15-16
 
 #### Pablo persiguió a los creyentes __<u>para</u>__ matarlos, encadenarlos o meterlos en la prisión. Ni siquiera le importaba si era hombre o mujer. Hechos 8:3, 9:13-14
 
@@ -658,9 +664,9 @@ www.discipuladocgv.org
 
 #### Sin embargo, ahora desde la perspectiva divina, Pablo ve que era blasfemo (difamador), perseguidor y __<u>agresor</u>__ (violento a creyentes inocentes). Gálatas 1:13
 
-### 1 Timoteo 1:13a "*Sin embargo, se me mostró misericordia porque lo hice por ignorancia en mi incredulidad...*" Pablo estaria recibiendo misericordia al ser encomendado como Apóstol __<u>para</u>__ proclamar y enseñar el evangelio.
+### 1 Timoteo 1:13b "*Sin embargo, se me mostró misericordia porque lo hice por ignorancia en mi incredulidad...*" Pablo estaria recibiendo misericordia al ser encomendado como Apóstol __<u>para</u>__ proclamar y enseñar el evangelio.
 
-### 1 Timoteo 1:13b "*porque lo hice por ignorancia en mi incredulidad...*" En la ignorancia de su incredulidad, esto mostrado __<u>como</u>__ un ferviente ceso y devocion por Dios Pablo persiguió a la iglesia, plenamente convencido de que estaba haciendo la voluntad de Dios.
+### 1 Timoteo 1:13c "*porque lo hice por ignorancia en mi incredulidad...*" En la ignorancia de su incredulidad, esto mostrado __<u>como</u>__ un ferviente ceso y devocion por Dios, Pablo persiguió a la iglesia plenamente convencido de que estaba haciendo la voluntad de Dios.
 
 #### Jesucristo le __<u>mostró</u>__ misericordia a Pablo al no darle lo que merecia, pero no solamente recibiría misericordia, a medida que camine estará conociendo aún mucho más de quien es Jesucristo.
 
@@ -668,27 +674,29 @@ www.discipuladocgv.org
 
 #### Podemos notar una brecha entre el versículo 13 y 14, al inicio Pablo conoció la misericordia de Dios, mas adelante __<u>estaría</u>__ conociendo todo lo que la gracia de Dios en Cristo contiene para el creyente.
 
+#### Pablo da testimonio de que fue la gracia de Dios que hizo la diferencia. 
+
 #### Menciona la fe y el amor que __<u>solo</u>__ pueden ser hallados en Cristo. Hebreos 12:2
 
-### 1 Timoteo 1:15a "*Palabra fiel y digna de ser aceptada por todos:*" Iniciar con esta declaración nos da seguridad y veracidad en lo que se dirá a continuación. Podemos __<u>confiar</u>__ en esa declaración.
+### 1 Timoteo 1:15a "*Palabra fiel y digna de ser aceptada por todos:*" Iniciar con esta declaración nos da seguridad y veracidad en lo que se dirá a continuación. Podemos (todos)  __<u>confiar</u>__ en esa declaración.
 
-### 1 Timoteo 1:15b "*Cristo Jesús vino al mundo para salvar a los pecadores...*" Es una certeza que el Padre __<u>entrego</u>__ a su Hijo unico, enviandolo al mundo. Juan 1:14, 3:16; Hebreos 1:6
+### 1 Timoteo 1:15b "*Cristo Jesús vino al mundo para salvar a los pecadores...*" Es una certeza que el Padre __<u>entrego</u>__ a su Hijo unico, enviandolo al mundo. Su propósito por venir era para salvar. Juan 1:14, 3:16; Hebreos 1:6
 
-#### Cristo no vino para curar a los sanos. No vino para __<u>salvar</u>__ a los justos, sino a pecadores. Significa que las personas que se creen demasiado buenos no pueden ser salvos por Jesucristo porque el vino a salvar a los pecadores. Marcos 2:17; Salmo 14:1-3; Lucas 19:10
+#### Cristo no vino para curar a los sanos. No vino para __<u>salvar</u>__ a los justos, sino a pecadores. Significa que las personas que se creen demasiado buenos no pueden ser salvos por Jesucristo porque el vino "*para salvar a los pecadores*". Marcos 2:17; Salmo 14:1-3; Lucas 19:10
 
 #### Cristo viene al mundo con un propósito, viene ha hacer una obra, el tendria que morir en la cruz tomando el __<u>lugar</u>__ de los pecadores, dejando al Padre satisfecho, provisionando salvación a los pecadores por medio de la fe. Romanos 5:8; 2 Corintios 5:21; 1 Pedro 3:8; Juan 19:18-20
 
-### 1 Timoteo 1:15c "*entre los cuales yo soy el primero...*" Pablo comprendió más y más que era un pecador __<u>indigno</u>__. 
+### 1 Timoteo 1:15c "*entre los cuales* [pecadores] *yo soy el primero...*" Pablo comprendió más y más que era un pecador __<u>indigno</u>__. 
 
-#### Pablo llegó al __<u>final</u>__ de su vida para hacer esta declaración. No dijo que yo era sino yo soy (presente, activo, indicativo). Entendia que debía depender de la gracia de Dios para todo momento. 
+#### Pablo llegó al __<u>final</u>__ de su vida para hacer esta declaración. No dijo que yo era sino "*yo soy*" (presente, activo, indicativo). Entendia que debía depender de la gracia de Dios para todo momento. 
 
-### 1 Timoteo 1:16a "*Sin embargo, por esto hallé misericordia para que en mí, como el primero, Jesucristo demostrara toda Su paciencia como un ejemplo para los que habrían de creer en Él para vida eterna...*" Dios cambió todo. De un perseguidor de la iglesia __<u>llegó</u>__ a ser un ejemplo para que otros crean en Jesucristo para recibir vida eternal. 
+### 1 Timoteo 1:16a "*Sin embargo, por esto hallé misericordia...*Dios cambió todo. De un perseguidor de la iglesia __<u>llegó</u>__ a ser un ejemplo para que otros crean en Jesucristo para recibir vida eternal.  
 
-#### En otras palabras, si Dios __<u>podia</u>__ salvar a un judio fariseo, asesino, blasfemo como Pablo, podría salvar a cualquiera. 
+#### A continuación va explicar porqué Dios mostró misericordia...
+
+### 1 Timoteo 1:16b *para que en mí, como el primero, Jesucristo demostrara toda Su paciencia como un ejemplo para los que habrían de creer en Él para vida eterna...*" En otras palabras, si Dios __<u>podia</u>__ salvar a un judio fariseo, asesino, blasfemo como Pablo, podría salvar a cualquiera. 
 
 #### Pablo era un __<u>trofeo</u>__ de la gracia de Dios. Un ejemplo de lo que Dios por medio de su gracia en Jesucristo podia lograr. 
-
-### 1 Timoteo 1:16b "*para que en mí, como el primero, Jesucristo demostrara toda Su paciencia...*" Pablo como el mayor pecador, Cristo __<u>mostro</u>__ toda su paciencia con gracia.
 
 #### A veces pensamos que un asesino, un violador, un borracho o un secuestror son los que se merecen todo el __<u>odio</u>__ y jamas Dios los salvaria, ellos no lo merecen. Bueno, ¿Quién merece ser salvado? seria la pregunta. Romanos 3:23
 
@@ -696,15 +704,17 @@ www.discipuladocgv.org
 
 #### Lo asombroso aqui es el __<u>milagro</u>__ que es la salvación provista en Cristo por gracia por medio de la fe. Romanos 3:21-22, 4:4; Efesios 2:8
 
-#### Vemos su paciencia de Dios que no quiere la muerte del impío, por eso dio a su Hijo, el quiere que cambien de __<u>mente</u>__ y salvarlos, aún al más cruel o abominable según nuestra perspectiva, Ezequiel 18:23, 33:11; Hechos 17:30; 2 Pedro 3:9
+#### Vemos su paciencia de Dios que no quiere la muerte del impío, por eso dio a su Hijo, el quiere que cambien de __<u>mente</u>__ y salvarlos, aún al más cruel o abominable según nuestra perspectiva. Ezequiel 18:23, 33:11; Hechos 17:30; 2 Pedro 3:9
 
-### 1 Timoteo 1:16c "*como un ejemplo para los que habrían de creer en Él para vida eterna...*" Esta __<u>parte</u>__ esta dirigida a futuros creyentes, Dios esta ofreciendo salvación en Cristo.
+### 1 Timoteo 1:16c "*como un ejemplo para los que habrían de creer en Él para vida eterna...*" Si el mayor pecador puede hallar gracia ante Dios, entonces otra persona puede animarse a creer en Dios también. 
 
-#### Los que creen en Cristo gozarán de vida __<u>eterna</u>__, no verán jamás condenación.
+### 1 Timoteo 1:16d "*como un ejemplo para los que habrían de creer en Él para vida eterna...*" Esta __<u>parte</u>__ esta dirigida a futuros creyentes, Dios esta ofreciendo salvación en Cristo.
 
-### 1 Timoteo 1:17a "*Por tanto, al Rey...*" Por esta __<u>razón</u>__ Pablo brota en exaltación de alabanza al Rey, su salvador Jesucristo. Apocalipsis 19:16
+#### Los que creen en Cristo gozarán de vida __<u>eterna</u>__, no verán jamás condenación. 
 
-### 1 Timoteo 1:17b "*eterno...*" Jesucristo como __<u>Dios</u>__ es el eterno Yo Soy. Hebreos 9:14; Juan 1:15, 8:58; 
+### 1 Timoteo 1:17a "*Por tanto, al Rey...*" Por esta __<u>razón</u>__ Pablo brota en exaltación de alabanza al Rey, su Salvador Jesucristo. Apocalipsis 19:16
+
+### 1 Timoteo 1:17b "*eterno...*" Jesucristo como __<u>Dios</u>__ es el eterno Yo Soy. Hebreos 9:14; Juan 1:15, 8:58 
 
 ### 1 Timoteo 1:17c "*inmortal...*" Jesucristo el __<u>hombre</u>__ es inmortal. 2 Timoteo 1:10; Juan 3:13, 6:40
 
@@ -716,13 +726,13 @@ www.discipuladocgv.org
 
 ## En Síntesis (1 Timoteo 1:12-17)
 
-### Cristo, en Su Gracia era el "en-fortalecedor" de Pablo. Debía ser __<u>igual</u>__ para Timoteo. 1 Timoteo 1:12a
+### Cristo, en Su gracia era el "en-fortalecedor" de Pablo. Debía ser __<u>igual</u>__ para Timoteo. 1 Timoteo 1:12
 
-### Cristo, en Su Gracia es el que __<u>puso</u>__ a Pablo en el ministerio. 1 Timoteo 1:12b
+### Cristo, en Su gracia es el que __<u>puso</u>__ a Pablo en el ministerio. 1 Timoteo 1:12
 
 ### Cuando Cristo salvó a Pablo, __<u>cuando</u>__ el era un blasfemo y un perseguidor violento de los cristianos. 1 Timoteo 1:13-14
 
-### Solo Cristo cura hasta al más __<u>enfermo</u>__. Solo Cristo salva hasta al más pecador. 1 Timoteo 1:15
+### Solo Cristo cura hasta el más __<u>enfermo</u>__. Solo Cristo salva hasta el más pecador. 1 Timoteo 1:15
 
 ### Pablo es el __<u>ejemplo</u>__ de la paciencia, misericordia y gracia de Jesucristo para todo pecador que cree en Él para vida eterna. 1 Timoteo 1:16
 
@@ -732,19 +742,27 @@ www.discipuladocgv.org
 
 ## 1 Timoteo 1:18-19b - La comisión de Timoteo 
 
-### 1 Timoteo 1:18a "*Esta comisión te confío, hijo Timoteo...*" Aquí __<u>vemos</u>__ la relación de un padre espiritual a su hijo. 
+### 1 Timoteo 1:18a "*Esta comisión te confío, hijo Timoteo...*" Aquí __<u>vemos</u>__ la relación de un padre espiritual a su hijo. 1 Timoteo 1:2
+
+#### Una comisión es una instrucción. A Pablo le fue confiado el evangelio para ser comisionado (Apostol). 1 Timoteo 1:5, 11
+
+#### Pablo encarga esta comisión que recibió a Timoteo. 2 Timoteo 4:5, 1 Timoteo 4:14
 
 ### 1 Timoteo 1:18b "*conforme a las profecías que antes se hicieron en cuanto a ti...*" el encargo que Pablo le hace a Timoteo es __<u>según</u>__ las profecías que hicieron sobre Timoteo. 1 Timoteo 4:14
 
-#### Es decir, últimadamente, no es __<u>Pablo</u>__ quien comisiona a Timoteo, sino Dios. 
+#### Es decir, últimadamente, no es __<u>Pablo</u>__ quien comisiona a Timoteo, sino Dios. Pablo sabiamente le hace recuerdo a Timoteo de este hecho. 
 
 ### 1 Timoteo 1:18c "*a fin de que por ellas pelees la buena batalla...*" La profecias debían ser motivación de Timoteo de no mirar las circunstancias sino acordarse de las palabras de Dios por __<u>medio</u>__ de la profecía. 
 
-### 1 Timoteo 1:19a "*guardando la fe y una buena conciencia...*" La buena batalla se pelea en guardar la fe con una __<u>buena</u>__ conciencia.
+### 1 Timoteo 1:19a "*guardando la fe...*" La buena batalla se __<u>pelea</u>__ en guardar la fe.
 
-#### Guardar la fe se refiere a __<u>retener</u>__ toda la verdad, como el conjunto de la enseñanza de la escritura. Tito 1:9
+#### Guardar la fe se refiere a __<u>retener</u>__ toda la verdad, como el conjunto de la enseñanza de la Escritura. Tito 1:9
 
-### 1 Timoteo 1:19b "*que algunos han rechazado y naufragaron en lo que toca a la fe...*" Vemos que algunos rehusaron __<u>guardar</u>__ la fe con buena conciencia, desviandose a otra enseñanza o dejando la enseñanza, han dejado la buena batalla, de la gracia cayeron.
+### 1 Timoteo 1:19b "*y una buena conciencia...*" Mantener un buena consciencia es posible solo al mantenerse en la verdad.  1 Timoteo 1:5; 2 Timoteo 1:3
+
+### 1 Timoteo 1:19c "*que algunos han rechazado y naufragaron en lo que toca a la fe...*" Vemos que algunos rehusaron __<u>guardar</u>__ la fe con buena conciencia desviandose a otra enseñanza o dejando la verdad. 
+
+#### Habían dejado la buena batalla, de la gracia se cayeron.
 
 ### 1 Timoteo 1:20a "*Entre ellos están Himeneo y Alejandro...*" Interesantemente, Pablo los __<u>llaman</u>__ por nombre sin disfrazarlos en la anonimidad. 
 
@@ -752,37 +770,39 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 1:20b "*a quienes he entregado a Satanás...*" No solo los señaló a estos hombres, sino los mando a que ya no __<u>puedan</u>__ influenciar a la congregación con sus distorsiones. 
 
-### 1 Timoteo 1:20c "*para que aprendan a no blasfemar...*" Pablo los llamo como eran, blasfemos. La intención de __<u>Pablo</u>__ no era menospreciar, pero si era necesario que estos hombres aprendan a no blasfemar. 
+#### Entregar a Satanás significa sacar de la comunión de los santos.  Es decir, prohibirlo de comunión con los hermanos. Que sea privado del amor de los hermanos y pase tiempo entre Satanás para aprender. 1 Corintios 5:4-5
+
+### 1 Timoteo 1:20c "*para que aprendan a no blasfemar...*" Pablo los llamo como eran, blasfemos. La intención de __<u>Pablo</u>__ no era menospreciar, pero si era necesario que estos hombres aprendan a no blasfemar. Tito 2:5; Judas 1:10
 
 ## En Síntesis (1 Timoteo 18-20)
 
-### Lo escrito en el pasaje __<u>anterior</u>__ es la base para volver a la comisión que le estaba siendo dada a Timoteo. 1 Timoteo 1:18a
+### Lo escrito en el pasaje __<u>anterior</u>__ es la base para volver a la comisión que le estaba siendo dada a Timoteo. 1 Timoteo 1:18
 
-### Timoteo debía pelear la __<u>buena</u>__ batalla de la fe, esto iría acorde a su rol designado como evangelista anteriormente. 1 Timoteo 1:18b
+### Timoteo debía pelear la __<u>buena</u>__ batalla de la fe, esto iría acorde a su rol designado como evangelista anteriormente. 1 Timoteo 1:18
 
-### Pelear la buena __<u>batalla</u>__ era mantenerse fiel a la verdad de Dios. 1 Timoteo 1:19a
+### Pelear la buena __<u>batalla</u>__ era mantenerse fiel a la verdad de Dios. 1 Timoteo 1:19
 
-### Pelear la buena batalla era tener una limpia conciencia delante de Dios, resultado de una dependencia de la verdad de __<u>Dios</u>__. 1 Timoteo 1:19b
+### Pelear la buena batalla era tener una limpia conciencia delante de Dios, resultado de una dependencia de la verdad de __<u>Dios</u>__. 1 Timoteo 1:19
 
-### Pablo muestra que __<u>algunos</u>__ se habian apartado de la fe, Himeneo y Alejandro. 1 Timoteo 1:19c-20
+### Pablo muestra que __<u>algunos</u>__ se habian apartado de la fe, Himeneo y Alejandro. 1 Timoteo 1:19-20
 
-### Fueron disciplinados, Pablo los __<u>habia</u>__ entregado a Satanás para una futura restauración. 1 Timoteo 1:20
+### Fueron disciplinados: Pablo los __<u>habia</u>__ entregado a Satanás para una futura restauración. 1 Timoteo 1:20
 
-# Breve Doctrina sobre la Disciplina en la Iglesia.
+# Breve Doctrina sobre la Disciplina en la Iglesia
 
 ## Introducción
 
 ### Para algunos cristianos, la disciplina eclesiástica parece contradecir la esencia __<u>misma</u>__ de la historia bíblica. ¿Acaso el Evangelio no se centra en Jesús dando la bienvenida a los recaudadores de impuestos y pecadores? [^10]
 
-### ¿No estamos retrocediendo el tiempo y sometiendo a los creyentes de nuevo a la ley si empezamos a excluir a personas de la __<u>iglesia</u>__ por ciertos pecados? [^11]
+#### ¿No estamos retrocediendo el tiempo y sometiendo a los creyentes de nuevo a la ley si empezamos a excluir a personas de la __<u>iglesia</u>__ por ciertos pecados? [^11]
 
-### Como veremos, la disciplina de Dios a su pueblo es parte integral de toda la historia bíblica, __<u>desde</u>__ el Edén hasta la nueva creación. 
+### Como veremos, la disciplina de Dios a Su pueblo es parte integral de toda la historia bíblica, __<u>desde</u>__ el Edén hasta la Nueva Creación. 
 
 ## Jardín del Edén
 
 ### En el principio, Dios creó a Adán y a Eva. Los trajo consigo y los unió. Los puso en el jardín que había preparado para __<u>ellos</u>__. Caminó con ellos y habló con ellos cara a cara. Génesis 1:26-28, 2:4-25
 
-### Pero no duró. Adán y Eva pecaron, y Dios les impuso una sentencia de muerte y los desterró. Los expulsó __<u>hacia</u>__ el este, de su jardín y lejos de su presencia. Esto fue la disciplina de Dios a Adán y Eva. [^12] Génesis 3:1-24
+### Pero no duró. Adán y Eva pecaron, y Dios les impuso una sentencia de muerte y los desterró. Los expulsó __<u>hacia</u>__ el este, de Su jardín y lejos de Su presencia. Esto fue la disciplina de Dios a Adán y Eva. [^12] Génesis 3:1-24
 
 ## Disciplina en el desierto
 
@@ -798,11 +818,11 @@ www.discipuladocgv.org
 
 ### Les dio una ley que no solo debía asegurar su obediencia, sino también gobernar su sociedad. Bajo el pacto mosaico, Dios responsabilizó a Israel ante esta ley y autorizó al gobierno humano de Israel a __<u>imponer</u>__ las sanciones correspondientes por la deserción del pacto. 
 
-### Los falsos profetas debían ser ejecutados (Deuteronomio 13:1-5), al igual que los idólatras (Deuteronomio 13:6-18, 17:2-7). El objetivo de Dios al autorizar al pueblo a __<u>ejecutar</u>__ a los idólatras era "*purgar al malvado* "persona malvada" *de en medio de ustedes*".[^15]
+### Los falsos profetas debían ser ejecutados (Deuteronomio 13:1-5), al igual que los idólatras (Deuteronomio 13:6-18, 17:2-7). El objetivo de Dios al autorizar al pueblo a __<u>ejecutar</u>__ a los idólatras era "*purgar al malvado*" persona malvada "*de en medio de ustedes*".[^15]
 
 ### En el pacto mosaico, Dios también empleó otros medios de disciplina. Si el pueblo no obedecía, amenazaba con enfermedad y derrota (Levítico 26:14-17). Si no se arrepentían, Dios prometía una __<u>mayor</u>__ "disciplina" que consistía en arruinar su tierra y quebrantar su fuerza (Levítico 26:18-20). Y otras consecuencias aún más terribles les aguardaban si el pueblo persistía en la rebelión.[^16]
 
-### Levítico 26:21-39; __<u>véase</u>__ "disciplina" en los versículos 23 y 28
+#### Levítico 26:21-39; __<u>véase</u>__ "disciplina" en los versículos 23 (enmiendan) y 28 (castigaré)
 
 ### Toda esta disciplina tenía como objetivo evitar el desastre del exilio. Dios disciplinó a su pueblo __<u>para</u>__ ofrecerle un salvavidas ante un juicio aún mayor.[^17]
 
@@ -892,7 +912,7 @@ www.discipuladocgv.org
 
 #### Nos anima a poder orar por nuestras autoridades, gobiernos y todos los que ejercen control __<u>sobre</u>__ los ciudadanos.
 
-#### El señor ha entregado en manos del hombre el sistema de gobierno humano ejerciendo autoridad y __<u>justicia</u>__ sobre la vida de los hombres. Génesis 9:6
+#### El Señor ha entregado en manos del hombre el sistema de gobierno humano ejerciendo autoridad y __<u>justicia</u>__ sobre la vida de los hombres. Génesis 9:6
 
 ### 1 Timoteo 2:2a "*por los reyes*..." Los reyes son las máximas autoridades nacionales, en nuestro contexto __<u>vendrían</u>__ a ser los presidentes y gobiernos.
 
@@ -902,7 +922,7 @@ www.discipuladocgv.org
 
 #### Se deduce que Pablo tuvo una __<u>defensa</u>__ ante Nerón y fue librado. 2 Timoteo 4:16-18
 
-#### Pocos años mas tarde __<u>según</u>__ el historiador Eusebio de la iglesia primitiva escribió que Pablo fue decapitado por orden del emperador romano Nerón o uno de sus subordinados.
+#### Pocos años mas tarde __<u>según</u>__ el historiador Eusebio, escribió que Pablo fue decapitado por orden del emperador romano Nerón o uno de sus subordinados.
 
 ### 1 Timoteo 2:2b "...*y por todos los que están en autoridad*..." Pablo pidió a los creyentes __<u>oren</u>__ por todos los que están en autoridad o eminencia, no solo los reyes. Esto incluye toda autoridad civil. 
 
@@ -912,9 +932,9 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 2:2d "*con toda piedad y dignidad*..." Es bueno orar por las autoridades para que los creyentes podamos vivir tranquilamente en una manera de vivir piadosa y digna sin __<u>estorbo</u>__.
 
-#### La palabra *piedad* es EUSEBIA que tiene el sentido de llevar una vida buena, justa y __<u>moral</u>__ ante los hombres. 
+#### La palabra *piedad* es EUSEBIA tiene el sentido de llevar una vida buena, justa y __<u>moral</u>__ ante los hombres. 
 
-#### La palabra *dignidad* es SEMNOTES muestra la honorabilidad o seriedad en el diario andar de uno, una vida venerable __<u>digna</u>__ de respeto.
+#### *dignidad* SEMNOTES muestra la honorabilidad o seriedad en el diario andar de uno, una vida venerable __<u>digna</u>__ de respeto.
 
 ### 1 Timoteo 2:3 "*Porque esto es __<u>bueno</u>__ y agradable delante de Dios nuestro Salvador*..."
 
