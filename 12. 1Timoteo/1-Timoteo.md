@@ -2,18 +2,6 @@
 Title: 1 Timoteo
 ---
 ___-___
-									<script src='https://www.blueletterbible.org/assets/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
-									<script type='text/javascript'>
-									// Additional settings
-									BLB.Tagger.Translation = 'NKJV';
-									BLB.Tagger.HyperLinks = 'all'; // 'all', 'none', 'hover'
-									BLB.Tagger.HideTanslationAbbrev = false;
-									BLB.Tagger.DarkTheme = true;
-									BLB.Tagger.TargetNewWindow = true;
-									BLB.Tagger.Style = 'par'; // 'line' or 'par'
-									BLB.Tagger.NoSearchTagNames = ''; // HTML element list
-									BLB.Tagger.NoSearchClassNames = 'noTag doNotTag'; // CSS class list
-									</script>
 # 1 Timoteo  
 ## La Iglesia del Dios Vivo
 
