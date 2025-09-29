@@ -10,57 +10,121 @@ Title: 1 & 2 Pedro
 
 # 1 Pedro 1:1-12 – Nuestra Esperanza Viva 
 
-###  1 Pedro 1:1 *Pedro, apóstol de Jesucristo: A los expatriados, de la dispersión en el Ponto, Galacia, Capadocia, Asia y Bitinia, elegidos*
+###  1 Pedro 1:1 *Pedro, apóstol de Jesucristo:*
 
-###  1 Pedro 1:2 *según el previo conocimiento de Dios Padre, por la obra santificadora del Espíritu, para obedecer a Jesucristo y ser rociados con Su sangre: Que la gracia y la paz les sean multiplicadas a ustedes.*
+###  1 Pedro 1:1 *A los expatriados,*
 
-###  1 Pedro 1:3 *Bendito sea el Dios y Padre de nuestro Señor Jesucristo, quien según Su gran misericordia, nos ha hecho nacer de nuevo a una esperanza viva, mediante la resurrección de Jesucristo de entre los muertos,*
+###  1 Pedro 1:1*de la dispersión en el Ponto, Galacia, Capadocia, Asia y Bitinia,*
 
-###  1 Pedro 1:4  *para obtener una herencia incorruptible, inmaculada, y que no se marchitará, reservada en los cielos para ustedes.*
+###  1 Pedro 1:1 *elegidos*
 
-###  1 Pedro 1:5  *Mediante la fe ustedes son protegidos por el poder de Dios, para la salvación que está preparada para ser revelada en el último tiempo.*
+###  1 Pedro 1:2 *según el previo conocimiento de Dios Padre,*
 
-###  1 Pedro 1:6  *En lo cual ustedes se regocijan grandemente, aunque ahora, por un poco de tiempo si es necesario, sean afligidos con diversas pruebas,*
+###  1 Pedro 1:2 *por la obra santificadora del Espíritu,*
 
-### 1 Pedro 1:7  *para que la prueba de la fe de ustedes, más preciosa que el oro que perece, aunque probado por fuego, sea hallada que resulta en alabanza, gloria y honor en la revelación de Jesucristo;*
+###  1 Pedro 1:2 *para obedecer a Jesucristo y ser rociados con Su sangre:*
 
-### 1 Pedro 1:8  *a quien sin haber visto, ustedes lo aman, y a quien ahora no ven, pero creen en Él, y se regocijan grandemente con gozo inefable y lleno de gloria,*
+###  1 Pedro 1:2 *Que la gracia y la paz les sean multiplicadas a ustedes.*
+
+###  1 Pedro 1:3 *Bendito sea el Dios y Padre de nuestro Señor Jesucristo,*
+
+###  *quien según Su gran misericordia, nos ha hecho nacer de nuevo a una esperanza viva,*
+
+###  *mediante la resurrección de Jesucristo de entre los muertos,*
+
+###  1 Pedro 1:4  *para obtener una herencia ,*
+
+###  *incorruptible, inmaculada y que no se marchitará, reservada en los cielos para ustedes.*
+
+###  1 Pedro 1:5  *Mediante la fe ustedes son protegidos por el poder de Dios,*
+
+###  *para la salvación que está preparada para ser revelada en el último tiempo.*
+
+###  1 Pedro 1:6  *En lo cual ustedes se regocijan grandemente,*
+
+###  *aunque ahora, por un poco de tiempo si es necesario, sean afligidos con diversas pruebas,*
+
+### 1 Pedro 1:7  *para que la prueba de la fe de ustedes, más preciosa que el oro que perece, aunque probado por fuego,*
+
+### *sea hallada que resulta en alabanza, gloria y honor*
+
+### *en la revelación de Jesucristo;*
+
+### 1 Pedro 1:8  *a quien sin haber visto, ustedes lo aman,*
+
+### *y a quien ahora no ven, pero creen en Él,*
+
+### *y se regocijan grandemente con gozo inefable y lleno de gloria,*
 
 ### 1 Pedro 1:9  *obteniendo, como resultado de su fe, la salvación de sus almas.*
 
-### 1 Pedro 1:10  *Acerca de esta salvación, los profetas que profetizaron de la gracia que vendría a ustedes, diligentemente inquirieron y averiguaron*,
+### 1 Pedro 1:10  *Acerca de esta salvación, los profetas que profetizaron de la gracia que vendría a ustedes,*
 
-### 1 Pedro 1:11  *procurando saber qué persona o tiempo indicaba el Espíritu de Cristo dentro de ellos, al predecir los sufrimientos de Cristo y las glorias que seguirían.*
+### *diligentemente inquirieron y averiguaron*,
 
-### 1 Pedro 1:12  *A ellos les fue revelado que no se servían a sí mismos, sino a ustedes, en estas cosas que ahora les han sido anunciadas mediante los que les predicaron el evangelio por el Espíritu Santo enviado del cielo; cosas a las cuales los ángeles anhelan mirar.*
+### 1 Pedro 1:11  *procurando saber qué persona o tiempo indicaba el Espíritu de Cristo dentro de ellos...*
+
+### *al predecir los sufrimientos de Cristo y las glorias que seguirían.*
+
+### 1 Pedro 1:12  *A ellos les fue revelado que no se servían a sí mismos, sino a ustedes,*
+
+### *en estas cosas que ahora les han sido anunciadas mediante los que les predicaron el evangelio por el Espíritu Santo enviado del cielo;*
+
+### *cosas a las cuales los ángeles anhelan mirar.*
 
 # 1 Pedro 1:13-25 – Vivir a la luz de la esperanza futura
 
-###  1 Pedro 1:13 *Por tanto, preparen su entendimiento para la acción. Sean sobrios en espíritu, pongan su esperanza completamente en la gracia que se les traerá en la revelación de Jesucristo.*
+###  1 Pedro 1:13 *Por tanto, preparen su entendimiento para la acción. *
 
-###  1 Pedro 1:14 *Como hijos obedientes, no se conformen a los deseos que antes tenían en su ignorancia,*
+###  *Sean sobrios en espíritu,*
 
-###  1 Pedro 1:15 *sino que así como Aquel que los llamó es Santo, así también sean ustedes santos en toda su manera de vivir.*
+###  *pongan su esperanza completamente en la gracia que se les traerá en la revelación de Jesucristo.*
+
+###  1 Pedro 1:14 *Como hijos obedientes,*
+
+###  *no se conformen a los deseos que antes tenían en su ignorancia,*
+
+###  1 Pedro 1:15 *sino que así como Aquel que los llamó es Santo,*
+
+###  *así también sean ustedes santos en toda su manera de vivir.*
 
 ###  1 Pedro 1:16 *Porque escrito está: «SEAN SANTOS, PORQUE YO SOY SANTO».*
 
-###  1 Pedro 1:17 *Y si invocan como Padre a Aquel que imparcialmente juzga según la obra de cada uno, condúzcanse con temor durante el tiempo de su peregrinación.*
+###  1 Pedro 1:17 *Y si invocan como Padre a Aquel que imparcialmente juzga según la obra de cada uno,*
+
+###  *condúzcanse con temor durante el tiempo de su peregrinación.*
 
 ###  1 Pedro 1:18 *Ustedes saben que no fueron redimidos de su vana manera de vivir heredada de sus padres con cosas perecederas como oro o plata,*
 
-###  1 Pedro 1:19 *sino con sangre preciosa, como de un cordero sin tacha y sin mancha: la sangre de Cristo.*
+###  1 Pedro 1:19 *sino con sangre preciosa,*
 
-###  1 Pedro 1:20 *Porque Él estaba preparado desde antes de la fundación del mundo, pero se ha manifestado en estos últimos tiempos por amor a ustedes.*
+###  *como de un cordero sin tacha y sin mancha: la sangre de Cristo.*
 
-###  1 Pedro 1:21 *Por medio de Él son creyentes en Dios, que lo resucitó de entre los muertos y le dio gloria, de manera que la fe y esperanza de ustedes sean en Dios.*
+###  1 Pedro 1:20 *Porque Él estaba preparado desde antes de la fundación del mundo,*
 
-###  1 Pedro 1:22 *Puesto que en obediencia a la verdad ustedes han purificado sus almas para un amor sincero de hermanos, ámense unos a otros entrañablemente, de corazón puro.*
+###  *pero se ha manifestado en estos últimos tiempos por amor a ustedes.*
 
-###  1 Pedro 1:23 *Pues han nacido de nuevo, no de una simiente corruptible, sino de una que es incorruptible, es decir,mediante la palabra de Dios que vive y permanece.*
+###  1 Pedro 1:21 *Por medio de Él son creyentes en Dios,*
+
+###  *que lo resucitó de entre los muertos y le dio gloria,*
+
+###  *de manera que la fe y esperanza de ustedes sean en Dios.*
+
+###  1 Pedro 1:22 *Puesto que en obediencia a la verdad ustedes han purificado sus almas para un amor sincero de hermanos,*
+
+###  *ámense unos a otros entrañablemente, de corazón puro.*
+
+###  1 Pedro 1:23 *Pues han nacido de nuevo,*
+
+###  *no de una simiente corruptible, sino de una que es incorruptible,*
+
+###  *es decir,mediante la palabra de Dios que vive y permanece.*
 
 ###  1 Pedro 1:24 *Porque: «TODA CARNE ES COMO LA HIERBA, Y TODA SU GLORIA COMO LA FLOR DE LA HIERBA. SÉCASE LA HIERBA, CÁESE LA FLOR,*
 
-###  1 Pedro 1:25 *PERO LA PALABRA DEL SEÑOR PERMANECE PARA SIEMPRE». Esa es la palabra que a ustedes les fue predicada.*
+###  1 Pedro 1:25 *PERO LA PALABRA DEL SEÑOR PERMANECE PARA SIEMPRE».*
+
+###  *Esa es la palabra que a ustedes les fue predicada.*
 
 ## En Síntesis
 
@@ -134,57 +198,147 @@ Title: 1 & 2 Pedro
 
 ### El Libro Antiguo (1:23b-25): Es la Palabra de Dios la que lo realiza.
 
-# 1 Pedro 2:1-10 – Una vida madura
+# 1 Pedro 2:1-10 – Una vida creciendo en madurez
 
-###  1 Pedro 2:1 *Por tanto, desechando toda malicia, y todo engaño, e hipocresías, y envidias y toda difamación,*
+###  1 Pedro 2:1 *Por tanto, desechando*
 
-###  1 Pedro 2:2 *deseen como niños recién nacidos, la leche pura de la palabra, para que por ella crezcan para salvación,*
+###  *toda malicia, y todo engaño,*
+
+###  *e hipocresías,*
+
+###  *y envidias y toda difamación,*
+
+###  1 Pedro 2:2 *deseen como niños recién nacidos, la leche pura de la palabra,*
+
+###  *para que por ella crezcan para salvación,*
 
 ###  1 Pedro 2:3 *si es que han probado la bondad del Señor.*
 
-###  1 Pedro 2:4 *Y viniendo a Él, como a una piedra viva, desechada por los hombres, pero escogida y preciosa delante de Dios,*
+###  1 Pedro 2:4 *Y viniendo a Él, como a una piedra viva,*
 
-###  1 Pedro 2:5 *también ustedes, como piedras vivas, sean edificados como casa espiritual para un sacerdocio santo, para ofrecer sacrificios espirituales aceptables a Dios por medio de Jesucristo.*
+###  *desechada por los hombres, pero escogida y preciosa delante de Dios,*
 
-###  1 Pedro 2:6 *Pues esto se encuentra en la Escritura: «YO, PONGO EN SIÓN UNA PIEDRA ESCOGIDA, UNA PRECIOSA piedraANGULAR, Y EL QUE CREA EN ÉL NO SERÁ AVERGONZADO».*
+###  1 Pedro 2:5 *también ustedes, como piedras vivas,*
 
-###  1 Pedro 2:7 *Este precioso valor es, pues, para ustedes los que creen; pero para los que no creen, «LA PIEDRA QUE DESECHARON LOS CONSTRUCTORES, ESA, EN PIEDRA ANGULAR SE HA CONVERTIDO»,*
+###  *sean edificados como casa espiritual para un sacerdocio santo,*
 
-###  1 Pedro 2:8 *y, «PIEDRA DE TROPIEZO Y ROCA DE ESCÁNDALO». Pues ellos tropiezan porque son desobedientes a la palabra, y para ello estaban también destinados.*
+###  *para ofrecer sacrificios espirituales aceptables a Dios*
 
-###  1 Pedro 2:9 *Pero ustedes son linaje escogido, real sacerdocio, nación santa, pueblo adquirido para posesión de Dios, a fin de que anuncien las virtudes de Aquel que los llamó de las tinieblas a Su luz admirable.*
+###  *por medio de Jesucristo.*
 
-###  1 Pedro 2:10 *Ustedes en otro tiempo no eran pueblo, pero ahora son el pueblo de Dios; no habían recibido misericordia, pero ahora han recibido misericordia.*
+###  1 Pedro 2:6 *Pues esto se encuentra en la Escritura:*
 
-###  1 Pedro 2:11 *Amados, les ruego como a extranjeros y peregrinos, que se abstengan de las pasiones carnales que combaten contra el alma.*
+###  *«YO, PONGO EN SIÓN UNA PIEDRA ESCOGIDA, UNA PRECIOSA piedra ANGULAR, Y EL QUE CREA EN ÉL NO SERÁ AVERGONZADO».*
 
-###  1 Pedro 2:12 *Mantengan entre los gentiles una conducta irreprochable, a fin de que en aquello que les calumnian como malhechores, ellos, por razón de las buenas obras de ustedes, al considerarlas, glorifiquen a Dios en el día de la visitación.*
+###  1 Pedro 2:7 *Este precioso valor es, pues, para ustedes los que creen;*
 
-###  1 Pedro 2:13 *Sométanse, por causa del Señor, a toda institución humana, ya sea al rey como autoridad,*
+###  *pero para los que no creen, «LA PIEDRA QUE DESECHARON LOS CONSTRUCTORES, ESA, EN PIEDRA ANGULAR SE HA CONVERTIDO»,*
 
-###  1 Pedro 2:14 *o a los gobernadores como enviados por él para castigo de los malhechores y alabanza de los que hacen el bien.*
+###  1 Pedro 2:8 *y, «PIEDRA DE TROPIEZO Y ROCA DE ESCÁNDALO».*
 
-###  1 Pedro 2:15 *Porque esta es la voluntad de Dios: que haciendo bien, ustedes hagan enmudecer la ignorancia de los hombres insensatos.*
+###  *Pues ellos tropiezan porque son desobedientes a la palabra,*
 
-###  1 Pedro 2:16 *Anden como libres, pero no usen la libertad como pretexto para la maldad, sino empléenla como siervos de Dios.*
+###  *y para ello estaban también destinados.*
 
-###  1 Pedro 2:17 *Honren a todos, amen a los hermanos, teman a Dios, honren al rey.*
+###  1 Pedro 2:9 *Pero ustedes son linaje escogido,*
 
-###  1 Pedro 2:18 *Siervos, estén sujetos a sus amos con todo respeto, no solo a los que son buenos y afables, sino también a los que son insoportables.*
+###  *real sacerdocio,*
 
-###  1 Pedro 2:19 *Porque esto halla gracia, si por causa de la conciencia ante Dios, alguien sobrelleva penalidades sufriendo injustamente.*
+###  *nación santa,*
 
-###  1 Pedro 2:20 *Pues ¿qué mérito hay, si cuando ustedes pecan y son tratados con severidad lo soportan con paciencia? Pero si cuando hacen lo bueno sufren por ello y lo soportan con paciencia, esto halla gracia con Dios.*
+###  *pueblo adquirido para posesión de Dios,*
 
-###  1 Pedro 2:21 *Porque para este propósito han sido llamados, pues también Cristo sufrió por ustedes, dejándoles ejemplo para que sigan Sus pasos,*
+###  *a fin de que anuncien las virtudes de Aquel*
 
-###  1 Pedro 2:22 *EL CUAL NO COMETIÓ PECADO, NI ENGAÑO ALGUNO SE HALLÓ EN SU BOCA;*
+###  *que los llamó de las tinieblas a Su luz admirable.*
 
-###  1 Pedro 2:23 *y quien cuando lo ultrajaban, no respondía ultrajando. Cuando padecía, no amenazaba, sino que seencomendaba a Aquel que juzga con justicia.*
+###  1 Pedro 2:10 *Ustedes en otro tiempo no eran pueblo, pero ahora son el pueblo de Dios;*
 
-###  1 Pedro 2:24 *Él mismo llevó nuestros pecados en Su cuerpo sobre la cruz, a fin de que muramos al pecado y vivamos a la justicia, porque por Sus heridas fueron ustedes sanados.*
+###  *no habían recibido misericordia, pero ahora han recibido misericordia.*
 
-###  1 Pedro 2:25 *Pues ustedes andaban descarriados como ovejas, pero ahora han vuelto al Pastor y Guardián de sus almas.*
+###  1 Pedro 2:11 *Amados, les ruego como a extranjeros y peregrinos,*
+
+###  *que se abstengan de las pasiones carnales que combaten contra el alma.*
+
+###  1 Pedro 2:12 *Mantengan entre los gentiles una conducta irreprochable,*
+
+###  *a fin de que en aquello que les calumnian como malhechores,*
+
+###  *ellos, por razón de las buenas obras de ustedes, al considerarlas,*
+
+###  *glorifiquen a Dios en el día de la visitación.*
+
+###  1 Pedro 2:13 *Sométanse, por causa del Señor, a toda institución humana,*
+
+###  *ya sea al rey como autoridad,*
+
+###  1 Pedro 2:14 *o a los gobernadores*
+
+###  *como enviados por él para castigo de los malhechores*
+
+###  *y alabanza de los que hacen el bien.*
+
+###  1 Pedro 2:15 *Porque esta es la voluntad de Dios:*
+
+###  *que haciendo bien, ustedes hagan enmudecer la ignorancia de los hombres insensatos.*
+
+###  1 Pedro 2:16 *Anden como libres,*
+
+###  *pero no usen la libertad como pretexto para la maldad,*
+
+###  *sino empléenla como siervos de Dios.*
+
+###  1 Pedro 2:17 *Honren a todos,*
+
+###  *amen a los hermanos,*
+
+###  *teman a Dios,*
+
+###  *honren al rey.*
+
+## 1 Timoteo 2:18-25 Aprendiendo de siervos
+
+###  1 Pedro 2:18 *Siervos,*
+
+###  *estén sujetos a sus amos con todo respeto,*
+
+###  *no solo a los que son buenos y afables,*
+
+###  *sino también a los que son insoportables.*
+
+###  1 Pedro 2:19 *Porque esto halla gracia,*
+
+###  *si por causa de la conciencia ante Dios, alguien sobrelleva penalidades sufriendo injustamente.*
+
+###  1 Pedro 2:20 *Pues ¿qué mérito hay, si cuando ustedes pecan y son tratados con severidad lo soportan con paciencia?*
+
+###  *Pero si cuando hacen lo bueno sufren por ello y lo soportan con paciencia, esto halla gracia con Dios.*
+
+###  1 Pedro 2:21 *Porque para este propósito han sido llamados,*
+
+###  *pues también Cristo sufrió por ustedes,*
+
+###  *dejándoles ejemplo para que sigan Sus pasos,*
+
+###  1 Pedro 2:22 *EL CUAL NO COMETIÓ PECADO,*
+
+###  *NI ENGAÑO ALGUNO SE HALLÓ EN SU BOCA;*
+
+###  1 Pedro 2:23 *y quien cuando lo ultrajaban, no respondía ultrajando.*
+
+###  *Cuando padecía, no amenazaba,*
+
+###  *sino que se encomendaba a Aquel que juzga con justicia.*
+
+###  1 Pedro 2:24 *Él mismo llevó nuestros pecados en Su cuerpo sobre la cruz,*
+
+###  *a fin de que muramos al pecado y vivamos a la justicia,*
+
+###  *porque por Sus heridas fueron ustedes sanados.*
+
+###  1 Pedro 2:25 *Pues ustedes andaban descarriados como ovejas,*
+
+###  *pero ahora han vuelto al Pastor y Guardián de sus almas.*
 
 ## En Síntesis
 
@@ -246,47 +400,131 @@ Title: 1 & 2 Pedro
 
 # 1 Timoteo 3:1-8 Relaciones dentro de la Iglesia
 
-###  1 Pedro 3:1 *Asimismo ustedes, mujeres, estén sujetas a sus maridos, de modo que si algunos de ellos son desobedientes a la palabra, puedan ser ganados sin palabra alguna por la conducta de sus mujeres*
+## 1 Timoteo 3:1-6 Aprendiendo de las mujeres
+
+###  1 Pedro 3:1 *Asimismo ustedes, mujeres,*
+
+###  *estén sujetas a sus maridos,*
+
+###  *de modo que si algunos de ellos son desobedientes a la palabra,*
+
+###  *puedan ser ganados sin palabra alguna por la conducta de sus mujeres*
 
 ###  1 Pedro 3:2 *al observar ellos su conducta casta y respetuosa.*
 
-###  1 Pedro 3:3 *Que el adorno de ustedes no sea el externo: peinados ostentosos, joyas de oro o vestidos lujosos,*
+###  1 Pedro 3:3 *Que el adorno de ustedes no sea el externo:*
 
-###  1 Pedro 3:4 *sino que sea lo que procede de lo íntimo del corazón, con el adorno incorruptible de un espíritu tierno y sereno, lo cual es precioso delante de Dios.*
+###  *peinados ostentosos,*
 
-###  1 Pedro 3:5 *Porque así también se adornaban en otro tiempo las santas mujeres que esperaban en Dios, estando sujetas a sus maridos.*
+###  *joyas de oro o vestidos lujosos,*
 
-###  1 Pedro 3:6 *Así obedeció Sara a Abraham, llamándolo señor, y ustedes han llegado a ser hijas de ella, si hacen el bien y no tienen miedo de nada que pueda aterrorizarlas.*
+###  1 Pedro 3:4 *sino que sea lo que procede de lo íntimo del corazón,*
 
-###  1 Pedro 3:7 *Ustedes, maridos, igualmente, convivan de manera comprensiva con sus mujeres, como con un vaso más frágil, puesto que es mujer, dándole honor por ser heredera como ustedes de la gracia de la vida, para que sus oraciones no sean estorbadas.*
+###  *con el adorno incorruptible de un espíritu tierno y sereno, lo cual es precioso delante de Dios.*
 
-###  1 Pedro 3:8 *En conclusión, sean todos de un mismo sentir, compasivos, fraternales, misericordiosos, y de espíritu humilde;*
+###  1 Pedro 3:5 *Porque así también se adornaban en otro tiempo las santas mujeres que esperaban en Dios,*
 
-###  1 Pedro 3:9 *no devolviendo mal por mal, o insulto por insulto, sino más bien bendiciendo, porque fueron llamados con el propósito de heredar bendición.*
+###  *estando sujetas a sus maridos.*
 
-###  1 Pedro 3:10 *Porque, «EL QUE DESEA LA VIDA, AMAR Y VER DÍAS BUENOS, REFRENE SU LENGUA DEL MAL Y SUS LABIOS NO HABLEN ENGAÑO.*
+###  1 Pedro 3:6 *Así obedeció Sara a Abraham, llamándolo señor,*
 
-###  1 Pedro 3:11 *APÁRTESE DEL MAL Y HAGA EL BIEN; BUSQUE LA PAZ Y SÍGALA.*
+###  *y ustedes han llegado a ser hijas de ella,*
 
-###  1 Pedro 3:12 *PORQUE LOS OJOS DEL SEÑOR ESTÁN SOBRE LOS JUSTOS, Y SUS OÍDOS ATENTOS A SUS ORACIONES; PERO EL ROSTRO DEL SEÑOR ESTÁ CONTRA LOS QUE HACEN EL MAL».*
+###  *si hacen el bien y no tienen miedo de nada que pueda aterrorizarlas.*
+
+## 1 Timoteo 3:7- Maridos
+
+###  1 Pedro 3:7 *Ustedes, maridos, igualmente,*
+
+###  *convivan de manera comprensiva con sus mujeres,*
+
+###  *como con un vaso más frágil, puesto que es mujer,*
+
+###  *dándole honor por ser heredera como ustedes de la gracia de la vida,*
+
+###  *para que sus oraciones no sean estorbadas.*
+
+## A todos
+
+###  1 Pedro 3:8 *En conclusión, sean todos*
+
+###  *de un mismo sentir,*
+
+###  *compasivos,*
+
+###  *fraternales,*
+
+###  *misericordiosos,*
+
+###  *y de espíritu humilde;*
+
+###  1 Pedro 3:9 *no devolviendo mal por mal,*
+
+###  *o insulto por insulto,*
+
+###  *sino más bien bendiciendo,*
+
+###  *porque fueron llamados con el propósito de heredar bendición.*
+
+###  1 Pedro 3:10 *Porque, «EL QUE DESEA LA VIDA, AMAR Y VER DÍAS BUENOS,*
+
+###  *REFRENE SU LENGUA DEL MAL*
+
+###  *Y SUS LABIOS NO HABLEN ENGAÑO.*
+
+###  1 Pedro 3:11 *APÁRTESE DEL MAL Y HAGA EL BIEN;*
+
+###  *BUSQUE LA PAZ Y SÍGALA.*
+
+###  1 Pedro 3:12 *PORQUE LOS OJOS DEL SEÑOR ESTÁN SOBRE LOS JUSTOS,*
+
+###  *Y SUS OÍDOS ATENTOS A SUS ORACIONES;*
+
+###  *PERO EL ROSTRO DEL SEÑOR ESTÁ CONTRA LOS QUE HACEN EL MAL».*
 
 # 1 Pedro 3:13-22 - Gracia en el Sufrimiento
 
 ###  1 Pedro 3:13 *¿Y quién les podrá hacer daño a ustedes si demuestran tener celo por lo bueno?*
 
-###  1 Pedro 3:14 *Pero aun si sufren por causa de la justicia, dichosos son. Y NO TENGAN MIEDO POR TEMOR A ELLOS NI SE TURBEN,*
+###  1 Pedro 3:14 *Pero aun si sufren por causa de la justicia, dichosos son.*
 
-###  1 Pedro 3:15 *sino santifiquen a Cristo como Señor en sus corazones, estando siempre preparados para presentar defensa ante todo el que les demande razón de la esperanza que hay en ustedes. Pero háganlo con mansedumbre y reverencia,*
+###  *Y NO TENGAN MIEDO POR TEMOR A ELLOS NI SE TURBEN,*
 
-###  1 Pedro 3:16 *teniendo buena conciencia, para que en aquello en que son calumniados, sean avergonzados los que hablan mal de la buena conducta de ustedes en Cristo.*
+###  1 Pedro 3:15 *sino santifiquen a Cristo como Señor en sus corazones,*
+
+###  *estando siempre preparados para presentar defensa*
+
+###  *ante todo el que les demande razón de la esperanza que hay en ustedes.*
+
+###  *Pero háganlo con mansedumbre y reverencia,*
+
+###  1 Pedro 3:16 *teniendo buena conciencia,*
+
+###  *para que en aquello en que son calumniados,*
+
+###  *sean avergonzados los que hablan mal de la buena conducta de ustedes en Cristo.*
 
 ###  1 Pedro 3:17 *Pues es mejor padecer por hacer el bien, si así es la voluntad de Dios, que por hacer el mal.*
 
-###  1 Pedro 3:18 *Porque también Cristo murió por los pecados una sola vez, el justo por los injustos, para llevarnos a Dios, muerto en la carne pero vivificado en el espíritu.*
+###  1 Pedro 3:18 *Porque también Cristo murió por los pecados una sola vez,*
+
+###  *el justo por los injustos,*
+
+###  *para llevarnos a Dios,*
+
+###  *muerto en la carne*
+
+###  *pero vivificado en el espíritu.*
 
 ###  1 Pedro 3:19 *En el espíritu también fue y predicó a los espíritus encarcelados,*
 
-###  1 Pedro 3:20 *quienes en otro tiempo fueron desobedientes cuando la paciencia de Dios esperaba en los días de Noé durante la construcción del arca, en la cual unos pocos, es decir, ocho personas, fueron salvadas por medio del agua.*
+###  1 Pedro 3:20 *quienes en otro tiempo fueron desobedientes *
+
+###  *cuando la paciencia de Dios esperaba en los días de Noé durante la construcción del arca,*
+
+###  *en la cual unos pocos, es decir, ocho personas,*
+
+###  *fueron salvadas por medio del agua.*
 
 ###  1 Pedro 3:21 *Y correspondiendo a esto, el bautismo ahora los salva a ustedes, no quitando la suciedad de la carne, sino como una petición a Dios de una buena conciencia, mediante la resurrección de Jesucristo,*
 
@@ -342,19 +580,43 @@ Title: 1 & 2 Pedro
 
 ### Su ascensión y exaltación (3:22)
 
-# 1 Pedro 4:1-6 – Sufrimiento y pecado 
+# 1 Pedro 4:1-6 – Viviendo para la voluntad de Dios
 
-###  1 Pedro 4:1 *Por tanto, puesto que Cristo ha padecido en la carne, ármense también ustedes con el mismo propósito, pues quien ha padecido en la carne ha terminado con el pecado,*
+###  1 Pedro 4:1 *Por tanto, puesto que Cristo ha padecido en la carne,*
 
-###  1 Pedro 4:2 *para vivir el tiempo que le queda en la carne, ya no para las pasiones humanas, sino para la voluntad de Dios.*
+###  *ármense también ustedes con el mismo propósito,*
 
-###  1 Pedro 4:3 *Porque el tiempo ya pasado les es suficiente para haber hecho lo que agrada a los gentiles, habiendo andado en sensualidad, lujurias, borracheras, orgías, embriagueces, y abominables idolatrías.*
+###  *pues quien ha padecido en la carne ha terminado con el pecado,*
+
+###  1 Pedro 4:2 *para vivir el tiempo que le queda en la carne,*
+
+###  *ya no para las pasiones humanas, sino para la voluntad de Dios.*
+
+###  1 Pedro 4:3 *Porque el tiempo ya pasado les es suficiente para haber hecho lo que agrada a los gentiles, habiendo andado*
+
+###  *en sensualidad,*
+
+###  *lujurias,*
+
+###  *borracheras,*
+
+###  *orgías,*
+
+###  *embriagueces,*
+
+###  *y abominables idolatrías.*
 
 ###  1 Pedro 4:4 *Y en todo esto, se sorprenden de que ustedes no corren con ellos en el mismo desenfreno de disolución, y los insultan.*
 
-###  1 Pedro 4:5 *Pero ellos darán cuenta a Aquel que está preparado para juzgar a los vivos y a los muertos.*
+###  1 Pedro 4:5 *Pero ellos darán cuenta a Aquel*
 
-###  1 Pedro 4:6 *Porque con este fin fue predicado el evangelio aun a los muertos, para que aunque sean juzgados en la carne como hombres, vivan en el espíritu conforme a la voluntad de Dios.*
+###  *que está preparado para juzgar a los vivos y a los muertos.*
+
+###  1 Pedro 4:6 *Porque con este fin fue predicado el evangelio aun a los muertos,*
+
+###  *para que aunque sean juzgados en la carne como hombres,*
+
+###  *vivan en el espíritu conforme a la voluntad de Dios.*
 
 # 1 Pedro 4:7-11 – Sufrimiento y servicio 1
 
