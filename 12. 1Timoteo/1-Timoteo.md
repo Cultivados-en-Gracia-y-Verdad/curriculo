@@ -2,7 +2,6 @@
 Title: 1 Timoteo
 ---
 ___-___
-// Required code
 									<script src='https://www.blueletterbible.org/assets/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
 									<script type='text/javascript'>
 									// Additional settings
