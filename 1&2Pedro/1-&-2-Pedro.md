@@ -1,5 +1,7 @@
 ---
 Title: 1 & 2 Pedro
+
+
 ---
 
 # 1 y 2 Pedro
@@ -620,33 +622,65 @@ Title: 1 & 2 Pedro
 
 # 1 Pedro 4:7-11 – Sufrimiento y servicio 1
 
-###  1 Pedro 4:7 *Pero el fin de todas las cosas se acerca. Sean pues ustedes prudentes y de espíritu sobrio para la oración.*
+###  1 Pedro 4:7 *Pero el fin de todas las cosas se acerca.*
 
-###  1 Pedro 4:8 *Sobre todo, sean fervientes en su amor los unos por los otros, pues el amor cubre multitud de pecados.*
+###  *Sean pues ustedes prudentes y de espíritu sobrio para la oración.*
 
-###  1 Pedro 4:9 *Sean hospitalarios los unos para con los otros, sin murmuraciones.*
+###  1 Pedro 4:8 *Sobre todo, sean fervientes en su amor los unos por los otros,*
 
-###  1 Pedro 4:10 *Según cada uno ha recibido un don especial, úselo sirviéndose los unos a los otros como buenos administradores de la multiforme gracia de Dios.*
+###  *pues el amor cubre multitud de pecados.*
 
-###  1 Pedro 4:11 *El que habla, que hable conforme a las palabras de Dios; el que sirve, que lo haga por la fortaleza que Dios da, para que en todo Dios sea glorificado mediante Jesucristo, a quien pertenecen la gloria y el dominio por los siglos de los siglos. Amén.*
+###  1 Pedro 4:9 *Sean hospitalarios los unos para con los otros,*
+
+###  *sin murmuraciones.*
+
+###  1 Pedro 4:10 *Según cada uno ha recibido un don especial, úselo sirviéndose los unos a los otros*
+
+###  *como buenos administradores de la multiforme gracia de Dios.*
+
+###  1 Pedro 4:11 *El que habla, que hable conforme a las palabras de Dios;*
+
+###  *el que sirve, que lo haga por la fortaleza que Dios da,*
+
+###  *para que en todo Dios sea glorificado mediante Jesucristo,*
+
+###  *a quien pertenecen la gloria y el dominio por los siglos de los siglos. Amén.*
 
 # 1 Pedro 4:12-19 – Sufrimiento y bendiciones 
 
-###  1 Pedro 4:12 *Amados, no se sorprendan del fuego de prueba que en medio de ustedes ha venido para probarlos, como si alguna cosa extraña les estuviera aconteciendo.*
+###  1 Pedro 4:12 *Amados, no se sorprendan del fuego de prueba que en medio de ustedes ha venido*
 
-### 1 Pedro 4:13 *Antes bien, en la medida en que comparten los padecimientos de Cristo, regocíjense, para que también en la revelación de Su gloria se regocijen con gran alegría.*
+###  *para probarlos,*
 
-### 1 Pedro 4:14 *Si ustedes son insultados por el nombre de Cristo, dichosos son, pues el Espíritu de gloria y de Dios reposa sobre ustedes. Ciertamente, por ellos Él es blasfemado, pero por ustedes es glorificado.*
+###  *como si alguna cosa extraña les estuviera aconteciendo.*
+
+### 1 Pedro 4:13 *Antes bien, en la medida en que comparten los padecimientos de Cristo, regocíjense,*
+
+### *para que también en la revelación de Su gloria se regocijen con gran alegría.*
+
+### 1 Pedro 4:14 *Si ustedes son insultados por el nombre de Cristo, dichosos son,*
+
+### *pues el Espíritu de gloria y de Dios reposa sobre ustedes.*
+
+### *Ciertamente, por ellos Él es blasfemado, pero por ustedes es glorificado.*
 
 ### 1 Pedro 4:15 *Que de ninguna manera sufra alguien de ustedes como asesino, o ladrón, o malhechor, o por entrometido.*
 
-### 1 Pedro 4:16 *Pero si alguien sufre como cristiano, que no se avergüence, sino que como tal glorifique a Dios.*
+### 1 Pedro 4:16 *Pero si alguien sufre como cristiano,*
 
-### 1 Pedro 4:17 *Porque es tiempo de que el juicio comience por la casa de Dios. Y si comienza por nosotros primero, ¿cuál será el fin de los que no obedecen al evangelio de Dios?*
+### *que no se avergüence, sino que como tal glorifique a Dios.*
 
-### 1 Pedro 4:18 *Y SI EL JUSTO CON DIFICULTAD SE SALVA, ¿QUÉ SERÁ DEL IMPÍO Y DEL PECADOR?*
+### 1 Pedro 4:17 *Porque es tiempo de que el juicio comience por la casa de Dios.*
 
-### 1 Pedro 4:19 *Así que los que sufren conforme a la voluntad de Dios, encomienden sus almas al fiel Creador, haciendo el bien.*
+### *Y si comienza por nosotros primero, ¿cuál será el fin de los que no obedecen al evangelio de Dios?*
+
+### 1 Pedro 4:18 *Y SI EL JUSTO CON DIFICULTAD SE SALVA,*
+
+### *¿QUÉ SERÁ DEL IMPÍO Y DEL PECADOR?*
+
+### 1 Pedro 4:19 *Así que los que sufren conforme a la voluntad de Dios,*
+
+### *encomienden sus almas al fiel Creador, haciendo el bien.*
 
 ## En Síntesis
 
@@ -684,35 +718,89 @@ Title: 1 & 2 Pedro
 
 # 1 Pedro 5:1-11 – Guía adicional 
 
-### 1 Pedro 5:1 *Por tanto, a los ancianos entre ustedes, exhorto yo, anciano como ellos y testigo de los padecimientos de Cristo, y también participante de la gloria que ha de ser revelada:*
+## A los ancianos
 
-### 1 Pedro 5:2 *pastoreen el rebaño de Dios entre ustedes, velando por él, no por obligación, sino voluntariamente, como quiere Dios; no por la avaricia del dinero, sino con sincero deseo;*
+### 1 Pedro 5:1 *Por tanto, a los ancianos entre ustedes,*
 
-### 1 Pedro 5:3 *tampoco como teniendo señorío sobre los que les han sido confiados, sino demostrando ser ejemplos del rebaño.*
+### *exhorto yo, anciano como ellos y testigo de los padecimientos de Cristo,*
 
-### 1 Pedro 5:4 *Y cuando aparezca el Príncipe de los pastores, ustedes recibirán la corona inmarcesible de gloria.*
+### *y también participante de la gloria que ha de ser revelada:*
 
-### 1 Pedro 5:5 *Asimismo ustedes, los más jóvenes, estén sujetos a los mayores. Y todos, revístanse de humildad en su trato mutuo, porque DIOS RESISTE A LOS SOBERBIOS, PERO DA GRACIA A LOS HUMILDES.*
+### 1 Pedro 5:2 *pastoreen el rebaño de Dios entre ustedes,*
 
-### 1 Pedro 5:6 *Humíllense, pues, bajo la poderosa mano de Dios, para que Él los exalte a su debido tiempo,*
+### *velando por él,*
 
-### 1 Pedro 5:7 *echando toda su ansiedad sobre Él, porque Él tiene cuidado de ustedes.*
+### *no por obligación,*
 
-### 1 Pedro 5:8 *Sean de espíritu sobrio, estén alerta. Su adversario, el diablo, anda al acecho como león rugiente, buscando a quien devorar.*
+### *sino voluntariamente,*
 
-### 1 Pedro 5:9 *Pero resístanlo firmes en la fe, sabiendo que las mismas experiencias de sufrimiento se van cumpliendo en sus hermanos en todo el mundo.*
+### *como quiere Dios;*
 
-### 1 Pedro 5:10 *Y después de que hayan sufrido un poco de tiempo, el Dios de toda gracia, que los llamó a Su gloria eterna en Cristo, Él mismo los perfeccionará, afirmará, fortalecerá, y establecerá.*
+### *no por la avaricia del dinero,*
+
+### *sino con sincero deseo;*
+
+### 1 Pedro 5:3 *tampoco como teniendo señorío sobre los que les han sido confiados,*
+
+### *sino demostrando ser ejemplos del rebaño.*
+
+### 1 Pedro 5:4 *Y cuando aparezca el Príncipe de los pastores,*
+
+### *ustedes recibirán la corona inmarcesible de gloria.*
+
+## Jóvenes
+
+### 1 Pedro 5:5 *Asimismo ustedes, los más jóvenes,*
+
+### *estén sujetos a los mayores.*
+
+### *Y todos, revístanse de humildad en su trato mutuo,*
+
+### *porque DIOS RESISTE A LOS SOBERBIOS, PERO DA GRACIA A LOS HUMILDES.*
+
+### 1 Pedro 5:6 *Humíllense, pues, bajo la poderosa mano de Dios,*
+
+### *para que Él los exalte a su debido tiempo,*
+
+### 1 Pedro 5:7 *echando toda su ansiedad sobre Él,*
+
+### *porque Él tiene cuidado de ustedes.*
+
+### 1 Pedro 5:8 *Sean de espíritu sobrio, estén alerta.*
+
+### *Su adversario, el diablo, anda al acecho como león rugiente,*
+
+### *buscando a quien devorar.*
+
+### 1 Pedro 5:9 *Pero resístanlo firmes en la fe,*
+
+### *sabiendo que las mismas experiencias de sufrimiento*
+
+### *se van cumpliendo en sus hermanos en todo el mundo.*
+
+### 1 Pedro 5:10 *Y después de que hayan sufrido un poco de tiempo,*
+
+### *el Dios de toda gracia, que los llamó a Su gloria eterna en Cristo,*
+
+### *Él mismo los perfeccionará, afirmará, fortalecerá, y establecerá.*
 
 ### 1 Pedro 5:11 *A Él sea el dominio por los siglos de los siglos. Amén.*
 
 # 1 Pedro 5:12-14 – Observaciones finales
 
-### 1 Pedro 5:12 *Por conducto de Silvano, nuestro fiel hermano, porque así lo considero, les he escrito brevemente, exhortando y testificando que esta es la verdadera gracia de Dios. Estén firmes en ella.*
+### 1 Pedro 5:12 *Por conducto de Silvano, nuestro fiel hermano, porque así lo considero, *
 
-### 1 Pedro 5:13 *La que está en Babilonia, elegida juntamente con ustedes, los saluda, y también mi hijo Marcos.*
+### *les he escrito brevemente, exhortando y testificando que esta es la verdadera gracia de Dios.*
 
-### 1 Pedro 5:14 *Salúdense unos a otros con un beso de amor fraternal. Paz sea a todos ustedes que están en Cristo.*
+### *Estén firmes en ella.*
+
+### 1 Pedro 5:13 *La que está en Babilonia, elegida juntamente con ustedes, los saluda,*
+
+### *y también mi hijo Marcos.*
+
+### 1 Pedro 5:14 *Salúdense unos a otros con un beso de amor fraternal.*
+
+### *Paz sea a todos ustedes que están en Cristo.*
 
 ## En Síntesis
 
@@ -762,51 +850,101 @@ Title: 1 & 2 Pedro
 
 # 2 Pedro 1:1-15 – Llamados a crecer
 
-### 2 Pedro 1:1 *Simón Pedro, siervo y apóstol de Jesucristo, a los que han recibido una fe como la nuestra, mediante la justicia de nuestro Dios y Salvador, Jesucristo:*
+### 2 Pedro 1:1 *Simón Pedro,*
 
-### 2 Pedro 1:2 *Gracia y paz les sean multiplicadas a ustedes en el conocimiento de Dios y de Jesús nuestro Señor.*
+### *siervo y apóstol de Jesucristo,*
+
+### *a los que han recibido una fe como la nuestra,*
+
+### *mediante la justicia de nuestro Dios y Salvador, Jesucristo:*
+
+### 2 Pedro 1:2 *Gracia y paz les sean multiplicadas a ustedes*
+
+### *en el conocimiento de Dios y de Jesús nuestro Señor.*
 
 ## Confirm Your Calling and Election
 
-### 2 Pedro 1:3 *Pues Su divino poder nos ha concedido todo cuanto concierne a la vida y a la piedad, mediante el verdadero conocimiento de Aquel que nos llamó por Su gloria y excelencia.*
+### 2 Pedro 1:3 *Pues Su divino poder nos ha concedido*
 
-### 2 Pedro 1:4 *Por ellas Él nos ha concedido Sus preciosas y maravillosas promesas, a fin de que ustedes lleguen a ser partícipes de la naturaleza divina, habiendo escapado de la corrupción que hay en el mundo por causa de los malos deseos.*
+### *todo cuanto concierne a la vida y a la piedad,*
 
-### 2 Pedro 1:5 *Por esta razón también, obrando con toda diligencia, añadan a su fe, virtud, y a la virtud, conocimiento;*
+### *mediante el verdadero conocimiento de Aquel que nos llamó por Su gloria y excelencia.*
 
-### 2 Pedro 1:6 *al conocimiento, dominio propio, al dominio propio, perseverancia, y a la perseverancia, piedad,*
+### 2 Pedro 1:4 *Por ellas Él nos ha concedido Sus preciosas y maravillosas promesas,*
 
-### 2 Pedro 1:7 *a la piedad, fraternidad y a la fraternidad, amor.*
+### *a fin de que ustedes lleguen a ser partícipes de la naturaleza divina,*
 
-### 2 Pedro 1:8 *Pues estas virtudes, al estar en ustedes y al abundar, no los dejarán ociosos ni estériles en el verdadero conocimiento de nuestro Señor Jesucristo.*
+### *habiendo escapado de la corrupción que hay en el mundo por causa de los malos deseos.*
 
-### 2 Pedro 1:9 *Porque el que carece de estas virtudes es ciego ocorto de vista, habiendo olvidado la purificación de sus pecados pasados.*
+### 2 Pedro 1:5 *Por esta razón también, obrando con toda diligencia,*
 
-### 2 Pedro 1:10 *Así que, hermanos, sean cada vez más diligentes para hacer firme su llamado y elección de parte de Dios.Porque mientras hagan estas cosas nunca caerán.*
+### *añadan a su fe, virtud,*
+
+### *y a la virtud, conocimiento;*
+
+### 2 Pedro 1:6 *al conocimiento, dominio propio,*
+
+### *al dominio propio, perseverancia,*
+
+### *y a la perseverancia, piedad,*
+
+### 2 Pedro 1:7 *a la piedad, fraternidad*
+
+### *y a la fraternidad, amor.*
+
+### 2 Pedro 1:8 *Pues estas virtudes, al estar en ustedes y al abundar,*
+
+### *no los dejarán ociosos ni estériles en el verdadero conocimiento de nuestro Señor Jesucristo.*
+
+### 2 Pedro 1:9 *Porque el que carece de estas virtudes es ciego ocorto de vista,*
+
+### *habiendo olvidado la purificación de sus pecados pasados.*
+
+### 2 Pedro 1:10 *Así que, hermanos, sean cada vez más diligentes para hacer firme su llamado y elección de parte de Dios.*
+
+### *Porque mientras hagan estas cosas nunca caerán.*
 
 ### 2 Pedro 1:11 *Pues de esta manera les será concedida ampliamente la entrada al reino eterno de nuestro Señor y Salvador Jesucristo.*
 
-### 2 Pedro 1:12 *Por tanto, siempre estaré listo para recordarles estas cosas, aunque ustedes ya las saben y han sido confirmados en la verdad que está presente en ustedes.*
+### 2 Pedro 1:12 *Por tanto, siempre estaré listo para recordarles estas cosas,*
+
+### *aunque ustedes ya las saben y han sido confirmados en la verdad que está presente en ustedes.*
 
 ### 2 Pedro 1:13 *También considero justo, mientras esté en este cuerpo, estimularlos recordándoles estas cosas,*
 
 ### 2 Pedro 1:14 *sabiendo que mi separación del cuerpo terrenales inminente, tal como me lo ha declarado nuestro Señor Jesucristo.*
 
-### 2 Pedro 1:15 *Además, yo procuraré con diligencia, que en todo tiempo, después de mi partida, ustedes puedan recordar estas cosas.* 
+### 2 Pedro 1:15 *Además, yo procuraré con diligencia, que en todo tiempo, después de mi partida,*
+
+### *ustedes puedan recordar estas cosas.* 
 
 # 2 Pedro 1:16-21 – Llamados a creer en la Palabra de Dios 
 
-### 2 Pedro 1:16 *Porque cuando les dimos a conocer el poder y la venida de nuestro Señor Jesucristo, no seguimos fábulas ingeniosamente inventadas, sino que fuimos testigos oculares de Su majestad.*
+### 2 Pedro 1:16 *Porque cuando les dimos a conocer el poder y la venida de nuestro Señor Jesucristo,*
 
-### 2 Pedro 1:17 *Pues cuando Él recibió honor y gloria de Dios Padre, la Majestuosa Gloria le hizo esta declaración: «Este es Mi Hijo amado en quien me he complacido».*
+### *no seguimos fábulas ingeniosamente inventadas,*
+
+### *sino que fuimos testigos oculares de Su majestad.*
+
+### 2 Pedro 1:17 *Pues cuando Él recibió honor y gloria de Dios Padre, *
+
+### *la Majestuosa Gloria le hizo esta declaración: «Este es Mi Hijo amado en quien me he complacido».*
 
 ### 2 Pedro 1:18 *Nosotros mismos escuchamos esta declaración, hecha desde el cielo cuando estábamos con Él en el monte santo.*
 
-### 2 Pedro 1:19 *Y así tenemos la palabra profética más segura, a la cual ustedes hacen bien en prestar atención como a una lámpara que brilla en el lugar oscuro, hasta que el día despunte y el lucero de la mañana aparezca en sus corazones.*
+### 2 Pedro 1:19 *Y así tenemos la palabra profética más segura,*
 
-### 2 Pedro 1:20 *Pero ante todo sepan esto, que ninguna profecía de la Escritura es asunto de interpretación personal,*
+### *a la cual ustedes hacen bien en prestar atención como a una lámpara que brilla en el lugar oscuro,*
 
-### 2 Pedro 1:21 *pues ninguna profecía fue dada jamás por un acto de voluntad humana, sino que hombres inspirados por el Espíritu Santo hablaron de parte de Dios.*
+### *hasta que el día despunte y el lucero de la mañana aparezca en sus corazones.*
+
+### 2 Pedro 1:20 *Pero ante todo sepan esto,*
+
+### *que ninguna profecía de la Escritura es asunto de interpretación personal,*
+
+### 2 Pedro 1:21 *pues ninguna profecía fue dada jamás por un acto de voluntad humana,*
+
+### *sino que hombres inspirados por el Espíritu Santo hablaron de parte de Dios.*
 
 ## En Síntesis
 
@@ -860,49 +998,133 @@ Title: 1 & 2 Pedro
 
 # 2 Pedro 2:1-22 – Advertencia contra los falsos maestros 
 
-### 2 Pedro 2:1 *Pero se levantaron falsos profetas entre el pueblo, así como habrá también falsos maestros entre ustedes, los cuales encubiertamente introducirán herejías destructoras, negando incluso al Señor que los compró, trayendo sobre sí una destrucción repentina.*
+### 2 Pedro 2:1 *Pero se levantaron falsos profetas entre el pueblo,*
 
-### 2 Pedro 2:2 *Muchos seguirán su sensualidad, y por causa de ellos, el camino de la verdad será blasfemado.*
+### *así como habrá también falsos maestros entre ustedes,*
 
-### 2 Pedro 2:3 *En su avaricia los explotarán con palabras falsas. El juicio de ellos, desde hace mucho tiempo no está ocioso, ni su perdición dormida.*
+### *los cuales encubiertamente introducirán herejías destructoras,*
 
-### 2 Pedro 2:4 *Porque Dios no perdonó a los ángeles cuando pecaron, sino que los arrojó al infierno y los entregó a fosos de tinieblas, reservados para juicio.*
+### *negando incluso al Señor que los compró,*
 
-### 2 Pedro 2:5 *Tampoco perdonó al mundo antiguo, sino que guardó a Noé, un predicador de justicia, con otros siete, cuando trajo el diluvio sobre el mundo de los impíos.*
+### *trayendo sobre sí una destrucción repentina.*
 
-### 2 Pedro 2:6 *También condenó a la destrucción las ciudades de Sodoma y Gomorra, reduciéndolas a cenizas, poniéndolas de ejemplo para los que habrían de vivir impíamente después.*
+### 2 Pedro 2:2 *Muchos seguirán su sensualidad,*
 
-### 2 Pedro 2:7 *Además rescató al justo Lot, abrumado por la conducta sensual de hombres libertinos*
+### *y por causa de ellos, el camino de la verdad será blasfemado.*
 
-### 2 Pedro 2:8 *(porque ese justo, por lo que veía y oía mientras vivía entre ellos, diariamente sentía su alma justa atormentada por las iniquidades de ellos).*
+### 2 Pedro 2:3 *En su avaricia los explotarán con palabras falsas.*
 
-### 2 Pedro 2:9 *El Señor, pues, sabe rescatar de tentación a los piadosos, y reservar a los injustos bajo castigo para el día del juicio,*
+### *El juicio de ellos, desde hace mucho tiempo no está ocioso,*
 
-### 2 Pedro 2:10 *especialmente a los que andan tras la carne en sus deseos corrompidos y desprecian la autoridad. Atrevidos y obstinados, no tiemblan cuando blasfeman de las majestades angélicas,*
+### *ni su perdición dormida.*
 
-### 2 Pedro 2:11 *cuando los ángeles, que son mayores en fuerza y en potencia, no pronuncian juicio injurioso contra ellos delante del Señor.*
+### 2 Pedro 2:4 *Porque Dios no perdonó a los ángeles cuando pecaron,*
 
-### 2 Pedro 2:12 *Pero estos, como animales irracionales, nacidos como criaturas de instinto para ser capturados y destruidos, blasfemando de lo que ignoran, serán también destruidos con la destrucción de esas criaturas,*
+### *sino que los arrojó al infierno y los entregó a fosos de tinieblas,*
 
-### 2 Pedro 2:13 *sufriendo el mal como pago de su iniquidad. Cuentan por deleite andar en placeres disolutos durante el día. Son manchas e inmundicias, deleitándose en sus engaños mientras banquetean con ustedes.*
+### *reservados para juicio.*
 
-### 2 Pedro 2:14 *Tienen los ojos llenos de adulterio y nunca cesan de pecar. Seducen a las almas inestables. Tienen un corazón ejercitado en la avaricia; son hijos de maldición.*
+### 2 Pedro 2:5 *Tampoco perdonó al mundo antiguo, sino que guardó a Noé,*
 
-### 2 Pedro 2:15 *Abandonando el camino recto, se han extraviado, siguiendo el camino de Balaam, el hijo de Beor, quien amó el pago de la iniquidad,*
+### *un predicador de justicia, con otros siete,*
 
-### 2 Pedro 2:16 *pero fue reprendido por su transgresión, puesuna muda bestia de carga, hablando con voz humana, reprimió la locura del profeta.*
+### *cuando trajo el diluvio sobre el mundo de los impíos.*
 
-### 2 Pedro 2:17 *Estos son manantiales sin agua, bruma impulsada por una tormenta, para quienes está reservada la oscuridad de las tinieblas.*
+### 2 Pedro 2:6 *También condenó a la destrucción las ciudades de Sodoma y Gomorra,*
 
-### 2 Pedro 2:18 *Pues hablando con arrogancia y vanidad, seducen mediante deseos carnales, por sensualidad, a los que hace poco escaparon de los que viven en el error.*
+### *reduciéndolas a cenizas,*
 
-### 2 Pedro 2:19 *Les prometen libertad, mientras que ellos mismos son esclavos de la corrupción, pues uno es esclavo de aquello que lo ha vencido.*
+### *poniéndolas de ejemplo para los que habrían de vivir impíamente después.*
 
-### 2 Pedro 2:20 *Porque si después de haber escapado de las contaminaciones del mundo por el conocimiento de nuestro Señor y Salvador Jesucristo, de nuevo son enredados en ellas y vencidos, su condición postrera viene a ser peor que la primera.*
+### 2 Pedro 2:7 *Además rescató al justo Lot,*
 
-### 2 Pedro 2:21 *Pues hubiera sido mejor para ellos no haber conocido el camino de la justicia, que habiéndolo conocido, apartarse del santo mandamiento que les fue dado.*
+### *abrumado por la conducta sensual de hombres libertinos*
 
-### 2 Pedro 2:22 *Les ha sucedido a ellos según el proverbio verdadero: «EL PERRO VUELVE A SU PROPIO VÓMITO», y: «La puerca lavada, vuelve a revolcarse en el cieno».*
+### 2 Pedro 2:8 *(porque ese justo, por lo que veía y oía mientras vivía entre ellos,*
+
+### *diariamente sentía su alma justa atormentada por las iniquidades de ellos).*
+
+### 2 Pedro 2:9 *El Señor, pues, sabe rescatar de tentación a los piadosos,*
+
+### *y reservar a los injustos bajo castigo para el día del juicio,*
+
+### 2 Pedro 2:10 *especialmente a los que andan tras la carne en sus deseos corrompidos y desprecian la autoridad.*
+
+### *Atrevidos y obstinados,*
+
+### *no tiemblan cuando blasfeman de las majestades angélicas,*
+
+### 2 Pedro 2:11 *cuando los ángeles, que son mayores en fuerza y en potencia,*
+
+### *no pronuncian juicio injurioso contra ellos delante del Señor.*
+
+### 2 Pedro 2:12 *Pero estos, como animales irracionales,*
+
+### *nacidos como criaturas de instinto para ser capturados y destruidos,*
+
+### *blasfemando de lo que ignoran,*
+
+### *serán también destruidos con la destrucción de esas criaturas,*
+
+### 2 Pedro 2:13 *sufriendo el mal como pago de su iniquidad.*
+
+### *Cuentan por deleite andar en placeres disolutos durante el día.*
+
+### *Son manchas e inmundicias,*
+
+### *deleitándose en sus engaños mientras banquetean con ustedes.*
+
+### 2 Pedro 2:14 *Tienen los ojos llenos de adulterio y nunca cesan de pecar.*
+
+### *Seducen a las almas inestables.*
+
+### *Tienen un corazón ejercitado en la avaricia; son hijos de maldición.*
+
+### 2 Pedro 2:15 *Abandonando el camino recto, se han extraviado,*
+
+### *siguiendo el camino de Balaam,*
+
+### *el hijo de Beor, quien amó el pago de la iniquidad,*
+
+### 2 Pedro 2:16 *pero fue reprendido por su transgresión,*
+
+### *puesuna muda bestia de carga, hablando con voz humana,*
+
+### *reprimió la locura del profeta.*
+
+### 2 Pedro 2:17 *Estos son manantiales sin agua,*
+
+### *bruma impulsada por una tormenta,*
+
+### *para quienes está reservada la oscuridad de las tinieblas.*
+
+### 2 Pedro 2:18 *Pues hablando con arrogancia y vanidad,*
+
+### *seducen mediante deseos carnales,*
+
+### *por sensualidad, a los que hace poco escaparon de los que viven en el error.*
+
+### 2 Pedro 2:19 *Les prometen libertad,*
+
+### *mientras que ellos mismos son esclavos de la corrupción,*
+
+### *pues uno es esclavo de aquello que lo ha vencido.*
+
+### 2 Pedro 2:20 *Porque si después de haber escapado de las contaminaciones del mundo*
+
+### *por el conocimiento de nuestro Señor y Salvador Jesucristo,*
+
+### *de nuevo son enredados en ellas y vencidos,*
+
+### *su condición postrera viene a ser peor que la primera.*
+
+### 2 Pedro 2:21 *Pues hubiera sido mejor para ellos no haber conocido el camino de la justicia,*
+
+### *que habiéndolo conocido, apartarse del santo mandamiento que les fue dado.*
+
+### 2 Pedro 2:22 *Les ha sucedido a ellos según el proverbio verdadero: «EL PERRO VUELVE A SU PROPIO VÓMITO»,*
+
+### *y: «La puerca lavada, vuelve a revolcarse en el cieno».*
 
 ## En Síntesis
 
@@ -978,47 +1200,105 @@ Title: 1 & 2 Pedro
 
 # 2 Pedro 3:1-4 – Prepárate 
 
-### 2 Pedro 3:1 *Amados , esta es ya la segunda carta que les escribo, en las cuales, como recordatorio, despierto en ustedes su sincero entendimiento,*
+### 2 Pedro 3:1 *Amados , esta es ya la segunda carta que les escribo,*
 
-### 2 Pedro 3:2 *para que recuerden las palabras dichas de antemano por los santos profetas, y el mandamiento del Señor y Salvador declarado por los apóstoles de ustedes.*
+### *en las cuales, como recordatorio, despierto en ustedes su sincero entendimiento,*
 
-### 2 Pedro 3:3 *Ante todo, sepan esto: que en los últimos días vendrán burladores con su sarcasmo, siguiendo sus propias pasiones,*
+### 2 Pedro 3:2 *para que recuerden las palabras dichas de antemano por los santos profetas,*
 
-### 2 Pedro 3:4 *y diciendo: «¿Dónde está la promesa de Su venida? Porque desde que los padres durmieron, todo continúa tal como estaba desde el principio de la creación».*
+### *y el mandamiento del Señor y Salvador*
+
+### *declarado por los apóstoles de ustedes.*
+
+### 2 Pedro 3:3 *Ante todo, sepan esto: que en los últimos días vendrán burladores con su sarcasmo,*
+
+### *siguiendo sus propias pasiones,*
+
+### 2 Pedro 3:4 *y diciendo: «¿Dónde está la promesa de Su venida?*
+
+### *Porque desde que los padres durmieron,*
+
+### *todo continúa tal como estaba desde el principio de la creación».*
 
 # 2 Pedro 3:5-10 – La Segunda Venida de Cristo Sucederá 
 
-### 2 Pedro 3:5 *Pues cuando dicen esto, no se dan cuenta de que los cielos existían desde hace mucho tiempo, y también la tierra, surgida del agua y establecida entre las aguas por la palabra de Dios,*
+### 2 Pedro 3:5 *Pues cuando dicen esto, no se dan cuenta de que los cielos existían desde hace mucho tiempo,*
+
+### *y también la tierra, surgida del agua y establecida entre las aguas por la palabra de Dios,*
 
 ### 2 Pedro 3:6 *por lo cual el mundo de entonces fue destruido, siendo inundado por el agua.*
 
-### 2 Pedro 3:7 *Pero los cielos y la tierra actuales están reservados por Su palabra para el fuego, guardados para el día del juicio y de la destrucción de los impíos.*
+### 2 Pedro 3:7 *Pero los cielos y la tierra actuales están reservados por Su palabra para el fuego,*
 
-### 2 Pedro 3:8 *Pero, amados, no ignoren esto: que para el Señor un día es como mil años, y mil años como un día.*
+### *guardados para el día del juicio y de la destrucción de los impíos.*
 
-### 2 Pedro 3:9 *El Señor no se tarda en cumplir Su promesa, según algunos entienden la tardanza, sino que es paciente para con ustedes, no queriendo que nadie perezca, sino que todos vengan al arrepentimiento.*
+### 2 Pedro 3:8 *Pero, amados, no ignoren esto:*
 
-### 2 Pedro 3:10 *Pero el día del Señor vendrá como ladrón, en el cual los cielos pasarán con gran estruendo, y los elementos serán destruidos con fuego intenso, y la tierra y las obras que hay en ella serán quemadas.*
+### *que para el Señor un día es como mil años, y mil años como un día.*
+
+### 2 Pedro 3:9 *El Señor no se tarda en cumplir Su promesa, según algunos entienden la tardanza,*
+
+### *sino que es paciente para con ustedes, no queriendo que nadie perezca,*
+
+### *sino que todos vengan al arrepentimiento.*
+
+### 2 Pedro 3:10 *Pero el día del Señor vendrá como ladrón,*
+
+### *en el cual los cielos pasarán con gran estruendo,*
+
+### *y los elementos serán destruidos con fuego intenso,*
+
+### *y la tierra y las obras que hay en ella serán quemadas.*
 
 # 2 Pedro 3:11-18 – Tiempo de aplicación 
 
 ### 2 Pedro 3:11 *Puesto que todas estas cosas han de ser destruidas de esta manera, ¡qué clase de personas no deben ser ustedes en santa conducta y en piedad,*
 
-### 2 Pedro 3:12 *esperando y apresurando la venida del día de Dios, en el cual los cielos serán destruidos por fuego y los elementos se fundirán con intenso calor!*
+### 2 Pedro 3:12 *esperando y apresurando la venida del día de Dios,*
 
-### 2 Pedro 3:13 *Pero, según Su promesa, nosotros esperamos nuevos cielos y nueva tierra, en los cuales mora la justicia.*
+### *en el cual los cielos serán destruidos por fuego*
+
+### *y los elementos se fundirán con intenso calor!*
+
+### 2 Pedro 3:13 *Pero, según Su promesa,*
+
+### *nosotros esperamos nuevos cielos y nueva tierra,*
+
+### *en los cuales mora la justicia.*
 
 ## Palabras Finales
 
-### 2 Pedro 3:14 *Por tanto, amados, puesto que ustedes aguardan estas cosas, procuren con diligencia ser hallados por Él en paz, sin mancha e irreprensibles.*
+### 2 Pedro 3:14 *Por tanto, amados,*
 
-### 2 Pedro 3:15 *Consideren la paciencia de nuestro Señor comosalvación, tal como les escribió también nuestro amado hermano Pablo, según la sabiduría que le fue dada.*
+### *puesto que ustedes aguardan estas cosas,*
 
-### 2 Pedro 3:16 *Asimismo en todas sus cartas habla en ellas de esto; en las cuales hay algunas cosas difíciles de entender, que los ignorantes e inestables tuercen, como también tuercen el resto de las Escrituras, para su propia perdición.*
+### *procuren con diligencia ser hallados por Él en paz,*
 
-### 2 Pedro 3:17 *Por tanto, amados, sabiendo esto de antemano, estén en guardia, no sea que arrastrados por el error de hombres libertinos, caigan de su firmeza.*
+### *sin mancha e irreprensibles.*
 
-### 2 Pedro 3:18 *Antes bien, crezcan en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo. A Él sea la gloria ahora y hasta el día de la eternidad. Amén.*
+### 2 Pedro 3:15 *Consideren la paciencia de nuestro Señor como salvación,*
+
+### *tal como les escribió también nuestro amado hermano Pablo,*
+
+### *según la sabiduría que le fue dada.*
+
+### 2 Pedro 3:16 *Asimismo en todas sus cartas habla en ellas de esto;*
+
+### *en las cuales hay algunas cosas difíciles de entender,*
+
+### *que los ignorantes e inestables tuercen, como también tuercen el resto de las Escrituras,*
+
+### *para su propia perdición.*
+
+### 2 Pedro 3:17 *Por tanto, amados, sabiendo esto de antemano, estén en guardia,*
+
+### *no sea que arrastrados por el error de hombres libertinos,*
+
+### *caigan de su firmeza.*
+
+### 2 Pedro 3:18 *Antes bien, crezcan en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo.*
+
+### *A Él sea la gloria ahora y hasta el día de la eternidad. Amén.*
 
 ## En Síntesis
 
