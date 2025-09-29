@@ -1,10 +1,9 @@
 ---
 Title: 1 & 2 Pedro
-
-
 ---
 
 # 1 y 2 Pedro
+## Creciendo en Cristo
 
 # 1 Pedro
 
@@ -200,7 +199,7 @@ Title: 1 & 2 Pedro
 
 ### El Libro Antiguo (1:23b-25): Es la Palabra de Dios la que lo realiza.
 
-# 1 Pedro 2:1-10 – Una vida creciendo en madurez
+# 1 Pedro 2:1-10 – Creciendo en madurez
 
 ###  1 Pedro 2:1 *Por tanto, desechando*
 
@@ -1296,7 +1295,13 @@ Title: 1 & 2 Pedro
 
 ### *caigan de su firmeza.*
 
-### 2 Pedro 3:18 *Antes bien, crezcan en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo.*
+### 2 Pedro 3:18 *Antes bien, crezcan*
+
+### *crezcan en... la gracia*
+
+### *crezcan en...el conocimiento*
+
+### *de nuestro Señor y Salvador Jesucristo.*
 
 ### *A Él sea la gloria ahora y hasta el día de la eternidad. Amén.*
 

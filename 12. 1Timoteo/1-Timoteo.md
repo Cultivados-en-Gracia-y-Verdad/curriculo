@@ -308,7 +308,7 @@ www.discipuladocgv.org
 
 ##### Por Milagros:
 
-###### Dejó __<u>ciego</u>__ temporalmente a un hechicero (Hechos 13:11). Sanó a un hombre cojo de nacimiento (Hechos 14:8-10). Expulsó a un espíritu que lo molestaba (Hechos 16:16-18). Sanó a personas y expulsó espíritus mediante objetos que tocaba (Hechos 19:11-12). Resucitó a un joven llamado Eutico (Hechos 20:9-12).Fue mordido por una serpiente venenosa y no le ocurrió nada (Hechos 28:3-5). Sanó a un hombre con fiebre y disentería (Hechos 28:8).
+###### Dejó __<u>ciego</u>__ temporalmente a un hechicero (Hechos 13:11). Sanó a un hombre cojo de nacimiento (Hechos 14:8-10). Expulsó a un espíritu que lo molestaba (Hechos 16:16-18). Sanó a personas y expulsó espíritus mediante objetos que tocaba (Hechos 19:11-12). Resucitó a un joven llamado Eutico (Hechos 20:9-12). Fue mordido por una serpiente venenosa y no le ocurrió nada (Hechos 28:3-5). Sanó a un hombre con fiebre y disentería (Hechos 28:8).
 
 ##### Por Las Escrituras: 
 
@@ -334,9 +334,9 @@ www.discipuladocgv.org
 
 ##### 1 Pedro 1:3 "*Jesucristo es por medio de __<u>quien</u>__ tienes una esperanza viva, porque Él vive*".
 
-##### Romanos 5:2 Jesucristo es... "*por __<u>medio</u>__ de quien has sido declarado justo delante del Padre y ahora puedes gozarte en la esperanza de Su Gloria*".
+##### Romanos 5:2 Jesucristo es... "*por __<u>medio</u>__ de quien has sido declarado justo delante del Padre y ahora puedes gozarte en la esperanza de Su Gloria*". Colosenses 1:27
 
-## Receptor de la carta: El bien amado de Pablo
+##  Receptor de la carta: El bien amado de Pablo
 
 ### 1 Timoteo 1:2a "*a Timoteo, verdadero hijo en la fe...*" Timoteo un creyente en Jesucristo y también el hijo espiritual __<u>amado</u>__ de Pablo.
 
@@ -344,17 +344,17 @@ www.discipuladocgv.org
 
 #### Pablo deseaba llevar a Timoteo en su segundo viaje misionero, por lo que tuvo que circunsidarlo por __<u>causa</u>__ de los judios. Entonces Timoteo lo acompañó en su viaje. Timoteo llegó a ser un fiel compañero en el Señor para Pablo. 1 Corintios 4:17
 
-#### Timoteo era un jóven nacido en Listra, (Turquía en la actualidad), hijo de __<u>padre</u>__ griego y madre judía. Su madre, Eunice, y su abuela, Loida, también eran creyentes. 2 Timoteo 1:5[^2] 
+##### Debemos tener en claro el hecho que Pablo mando a Timoteo que sea circuncidado era para el alcance a los judios, no por complecer al legalismo de los judios. Hechos 16:3, 15:5; Gálatas 5:2, 6:13
 
-##### Su __<u>madre</u>__ y abuela lo habían instruido en el conocimiento de las Sagradas Escrituras. 2 Timoteo 3:15
+#### Por Hechos 16:1-2 sabemos que Timoteo era un joven discípulo (creyente) crecido en Listra (Turquía en la actualidad), de __<u>madre</u>__ judía (Eunice) creyente y padre griego.  Su abuela, Loida también era creyente y participó en su crianza. 2 Timoteo 1:5, 3:15
+
+#### También gozaba de buen testimonio entre los hermanos de Listra e Iconio.
 
 ##### Timoteo fue discipulado por Pablo (1 Timoteo 1:2). En Hechos 16:1-5, aprendemos que Timoteo tenía __<u>buen</u>__ testimonio delante de los hermanos en Listra e Iconio.
 
 ##### Su __<u>labor</u>__ incluía la proclamación del evangelio, la enseñanza, la lectura de las Escrituras, el nombramiento de ancianos y diáconos, y la oposición a las falsas enseñanzas. Pablo le escribió, probablemente desde Macedonia, para animarlo en su fiel servicio a Cristo. 1 Timoteo 1:18 [^3]
 
 ##### Timoteo cumplió algún tiempo en la __<u>cárcel</u>__ por su fe en Jesucristo, y luego fue liberado. Hebreos 13:23
-
-#### Por Hechos 16:1-2 sabemos que Timoteo era un joven discípulo (creyente) crecido en Listra, de __<u>madre</u>__ judía creyente y padre griego. También gozaba de buen testimonio entre los hermanos de Listra e Iconio.
 
 #### Observando un __<u>poco</u>__ la manera en la cual Pablo se dirige a Timoteo:
 
@@ -423,6 +423,8 @@ www.discipuladocgv.org
 ### 1 Timoteo 1:2d "*y paz...*" EIRENE es __<u>posible</u>__ que Pablo juntó dos saludos (griego-favor y hebreo-paz) para hacer el suyo. 
 
 #### Más que un simple __<u>saludo</u>__, Pablo deseaba que la paz de Cristo gobierne en el corazón de Timoteo. 2 Timoteo 2:22; 1 Tesalonicenses 5:23
+
+¿De donde provenía la paz que hablaba Pablo?
 
 ### 1 Timoteo 1:2e "*de parte de Dios Padre...*" La __<u>gracia</u>__, misericordia y paz que Pablo deseaba para Timoteo provienen de Dios Padre. 
 
@@ -566,7 +568,7 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 1:8a "*Pero nosotros sabemos que la ley es buena, si uno la usa **legítimamente**.*" Pablo quiere aclararnos en __<u>cuanto</u>__ a la ley, debido a su mal uso, esto no solo es para conocimiento de Timoteo, posteriormente lo seria para toda la iglesia.
 
-#### Como creyentes jamás debemos percibir a la ley __<u>como</u>__ malvada e inútil. La Biblia no enseña el antinomialismo. 
+#### Como creyentes jamás debemos percibir La Ley __<u>como</u>__ malvada e inútil. La Biblia no enseña el antinomialismo. 
 
 #### La ley fue dada por Dios, esta se muestra como un reflejo de Su santidad y justicia, y en ultima insatancia de Su __<u>propia</u>__ Persona. Romanos 7:6, 12, 16; Salmos 19:7-8
 
@@ -886,37 +888,33 @@ www.discipuladocgv.org
 
 #### Y si ese "no" no se escucha, entonces no es cruel, sino amoroso, seguir el __<u>ejemplo</u>__ de Dios y obedecer sus instrucciones al disciplinar a alguien ahora, con la esperanza de que sea salvo en el día final.[^32]
 
-# 1 Timoteo 2:1-15 - Entendiendo la voluntad de Dios
+# 1 Timoteo 2:1-15 - Entendiendo lo que Dios quiere
 
 ## 1 Timoteo 2:1-3 - Orando juntos por la paz para llevar el Evangelio
 
-### 1 Timoteo 2:1 "*Exhorto, pues, ante todo que se hagan plegarias, oraciones, peticiones y acciones de gracias por todos los hombres,*". Pablo les estaba animando a los creyentes a que __<u>puedan</u>__ orar continuamente por todos.
+### 1 Timoteo 2:1a "*Exhorto, pues...*" La palabra exhortar PARAKALEO expresa la intención de orar, __<u>alentar</u>__, amonestar y animar. 
 
-### 1 Timoteo 2:1a "*Exhorto, pues,*"...La palabra exhortar PARAKALEO expresa la intención de orar, __<u>alentar</u>__, amonestar y animar. 
+### 1 Timoteo 2:1b "*ante todo...*" habla enfáticamente de __<u>colocar</u>__ como una prioridad esta instrucción. 
 
-### 1 Timoteo 2:1b "*ante todo*"... habla enfáticamente de __<u>colocar</u>__ como una prioridad esta instrucción.
+### 1 Timoteo 2:1c "*que se hagan plegarias, oraciones, __<u>peticiones</u>__ y acciones de gracias por todos los hombres...*" Pablo les estaba animando a los creyentes a que __<u>puedan</u>__ orar continuamente por todos. Mateo 5:44; Efesios 6:18-20
 
-### 1 Timoteo 2:1c "*que se hagan plegarias, oraciones, __<u>peticiones</u>__ y acciones de gracias por todos los hombres*"...
+#### "*plegarias...*" Súplicas hechas con __<u>humildad</u>__ con el fin de pedir algo. Efesios 6:18
 
-#### "*plegarias*"... Súplicas hechas con __<u>humildad</u>__ con el fin de pedir algo. Efesios 6:18.
+#### "*oraciones...*" Las oraciones de los creyentes expresan sus deseos y emociones hacia Dios en plena __<u>confianza</u>__ que el nos escucha. 1 Juan 5:14-15
 
-#### "*oraciones*"... Las oraciones de los creyentes expresan sus deseos y emociones hacia Dios en plena __<u>confianza</u>__ que el nos escucha. 1 Juan 5:14-15.
+#### "*peticiones...*" Podemos acercarnos a el confiadamente y pedir por nuestras necesidades personales como __<u>también</u>__ de otra persona. Filipenses 4:6-7
 
-#### "*peticiones*"... Podemos acercarnos a el confiadamente y pedir por nuestras necesidades personales como __<u>también</u>__ de otra persona. Filipenses 4:6-7
+#### "*y acciones de gracias...*" expresa gratitud por todos los hombres, sin una actitud excluyente a los que son __<u>buenos</u>__ o malos.
 
-#### "*y acciones de gracias por todos los hombres*"... expresa gratitud por todos los hombres, sin una actitud excluyente a los que son __<u>buenos</u>__ o malos.
+#### "*todos los hombres...*" Pablo se refiere a todos los hombres 5 veces en los primeros 6 versículos del capítulo 2. 
 
-### 1 Timoteo 2:2 "*por los reyes y por todos los que están en autoridad, para que podamos vivir una __<u>vida</u>__ tranquila y sosegada con toda piedad y dignidad.*". 
+### 1 Timoteo 2:2a "*por los reyes*..." Los reyes son las máximas autoridades nacionales, en nuestro contexto __<u>vendrían</u>__ a ser los presidentes o primer ministros.
 
-#### ¿Por qué orar por los que están en autoridad? con el fin de que todos las ciudadanos podamos __<u>vivir</u>__ una vidas tranquilas y sosegadas.
-
-#### Nos anima a poder orar por nuestras autoridades, gobiernos y todos los que ejercen control __<u>sobre</u>__ los ciudadanos.
+#### Nos anima a poder orar por nuestras autoridades, los que ejercen la máxima control __<u>sobre</u>__ los ciudadanos.
 
 #### El Señor ha entregado en manos del hombre el sistema de gobierno humano ejerciendo autoridad y __<u>justicia</u>__ sobre la vida de los hombres. Génesis 9:6
 
-### 1 Timoteo 2:2a "*por los reyes*..." Los reyes son las máximas autoridades nacionales, en nuestro contexto __<u>vendrían</u>__ a ser los presidentes y gobiernos.
-
-#### En el momento que fue escrita esta carta el "rey" romano era el emperador Nerón (54 d.C. - 68 d.C.). , llegó a ser emperador a sus 16 años y reinó durante 14 años, su reinado se __<u>asocia</u>__ con la tiranía absoluta, ejecuciones públicas y persecución a los cristianos.
+#### En el momento que fue escrita esta carta el "rey" romano era el emperador Nerón (54 d.C. - 68 d.C.). Llegó a ser emperador a sus 16 años y reinó durante 14 años, su reinado se __<u>asocia</u>__ con la tiranía absoluta, ejecuciones públicas y persecución a los cristianos.
 
 #### Parece poco lógico __<u>orar</u>__ por un tirano y dictador, pero Pablo animó a los creyentes mostrándoles un propósito para el gobierno humano el cual es bueno y agradable a Dios.
 
@@ -926,21 +924,55 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 2:2b "...*y por todos los que están en autoridad*..." Pablo pidió a los creyentes __<u>oren</u>__ por todos los que están en autoridad o eminencia, no solo los reyes. Esto incluye toda autoridad civil. 
 
+#### ¿Por qué orar por los que están en autoridad? con el fin de que todos los ciudadanos podamos __<u>vivir</u>__ vidas tranquilas y sosegadas.
+
 ### 1 Timoteo 2:2c "...*para que podamos vivir una vida tranquila y sosegada*..." El propósito de orar por los __<u>reyes</u>__ y todos los que están en autoridad es para que haya tranquilidad civil. 
 
-#### Es interesante saber que podemos orar por los que gobiernan con el fin para tener __<u>vidas</u>__ tranquilas mientras estamos en este mundo caótico y lleno de maldad.
+#### Es interesante saber que podemos orar por los que gobiernan con el fin para tener __<u>vidas</u>__ tranquilas mientras estamos en este mundo caótico y lleno de maldad. 1 Tesalonicenses 4:11-12
 
-### 1 Timoteo 2:2d "*con toda piedad y dignidad*..." Es bueno orar por las autoridades para que los creyentes podamos vivir tranquilamente en una manera de vivir piadosa y digna sin __<u>estorbo</u>__.
+##### La abilidad de abiertamente demostrar a traves de palabra y piedad es una bendición que aporta en la comunicación del evangelio. 
 
-#### La palabra *piedad* es EUSEBIA tiene el sentido de llevar una vida buena, justa y __<u>moral</u>__ ante los hombres. 
+### 1 Timoteo 2:2d "*con toda piedad y dignidad*..." Es bueno orar por las autoridades para que los creyentes podamos vivir tranquilamente en una manera de vivir piadosa y digna sin __<u>estorbo</u>__. 
 
-#### *dignidad* SEMNOTES muestra la honorabilidad o seriedad en el diario andar de uno, una vida venerable __<u>digna</u>__ de respeto.
+#### La palabra *piedad* es EUSEBIA tiene el sentido de llevar una vida buena, justa y __<u>moral</u>__ ante los hombres. Es vivir según estandares y valores. 
 
-### 1 Timoteo 2:3 "*Porque esto es __<u>bueno</u>__ y agradable delante de Dios nuestro Salvador*..."
+##### Cuando hablamos de piedad, esencialmente es una vida formada por la verdad. 1 Timoteo 4:7-8, 6:11; Tito 1:1
 
-#### Con referente a lo anterior podemos ver que la piedad y dignidad en el andar de un creyente es visto de buena __<u>manera</u>__ ante Dios.
+#### *dignidad* SEMNOTES muestra la honorabilidad o seriedad en el diario andar de uno, una vida venerable __<u>digna</u>__ de respeto. 
 
-#### La frase de *Dios nuestro Salvador* expresa que él es el único que nos salva y vemos esta expresión __<u>usada</u>__ en varios pasajes de esta carta. 1 Timoteo 1:1, 2:3, 4:10
+#### Hoy en día, palabras como piedad y dignidad son manejados con mucho cuidado porque abunda el tipo de piedad que es solo externo y visible. Jesús habló bastante sobre la hipocresía de los fariseos. Ellos mostraban piedad pero solo era una apariencia. Mateo 6:5, 23:25, 27; Marcos 7:6
+
+##### Con la mucha falsedad que se ve entre líderes políticos e incluso líderes famosos en los medios de comunicación que demuestran tener piedad pero el final se muestran como falsos, las últimas generaciones han rechazado todo sentido de piedad para no aparentar como esas personas falsas. 
+
+#### A pesar de lo que pueda ser nuestro concepto de la piedad, a continuación veremos que Dios tiene un propósito muy distinto para el creyente...
+
+### 1 Timoteo 2:3 "*Porque esto es __<u>bueno</u>__ y agradable delante de Dios nuestro Salvador*..." Con referente a lo anterior podemos ver que la piedad y dignidad en el andar de un creyente es visto de buena __<u>manera</u>__ ante Dios. 1 Pedro 2:13-17; 1 Timothy 5:4
+
+#### "*Agradable*" EUPROSDEKTOS es ser recibido con mucho gusto y gran placer.
+
+#### La piedad y dignidad es la razón por la cual oramos por todos los que están en lugares de liderazgo civil y nacional. Esto podría parecer una petición bastante extraña si no entendemos porque. 
+
+#### 1 Pedro 2:13-17 __<u>dice</u>__ de la siguiente manera: 
+
+##### 1 Pedro 2:15 *Porque esta es la __<u>voluntad</u>__ de Dios: que haciendo bien, ustedes hagan enmudecer la ignorancia de los hombres insensatos.* 
+
+###### La voluntad de Dios es que se haga el bien y al hacer la sabiduria del mundo queda silenciada. 1 Corintios 1:18, 21-23, 27-29
+
+##### 1 Pedro 2:16 *Anden como __<u>libres</u>__, pero no usen la libertad como pretexto para la maldad, sino empléenlacomo siervos de Dios.*
+
+##### 1 Pedro 2:17 *Honren a todos, __<u>amen</u>__ a los hermanos, teman a Dios, honren al rey.*
+
+#### La frase de *Dios nuestro Salvador* expresa que El es el que nos dió la salvación y vemos esta expresión __<u>usada</u>__ en varios pasajes de esta carta. 1 Timoteo 1:1, 2:3, 4:10
+
+##### Cuando usa "*Dios nuestro salvador*" coloca todo el foco sobre el arquitecto y maestro creador de nuestra salvación. Dios es __<u>aquel</u>__ que nos salvó y por eso nos es de interés si hay algo que le agrada.  Cosa que le agrada a Dios se hace para nosotros algo importante ver que se realice. 
+
+###### Para los reyes en el tiempo de Pablo, (Nerón en este caso), era requisito adorarlo como salvador. El emperador era salvador de la gente proveyendoles paz, orden, prosperidad y protección. 
+
+###### El mismo Dios nuestro salvador (1 Timoteo 1:1) que comisionó a Pablo, le es agradable que andemos de forma piadosa y digna porque es una excelente forma de recomendar el evangelio a otros. 
+
+#### En resumen, Pablo dice, ofrescan toda clase de oraciónes por toda clase de personas ultimadamente para la salvación de ellos. Efesios 6:18-20
+
+#### Pablo a continuación nos explicará porque Dios es agradado en nuestro andar piadoso y digo...
 
 ## 1 Timoteo 2:4 - Dos aspectos impactantes de la voluntad de Dios
 
