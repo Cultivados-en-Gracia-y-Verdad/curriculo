@@ -829,25 +829,33 @@ www.discipuladocgv.org
 
 ## La disciplina por exilio
 
-### Pero Israel falló su intento. A lo largo de cientos de años, a pesar de las advertencias de __<u>docenas</u>__ de profetas, el pueblo rechazó persistentemente a Dios y se negó a hacer su voluntad. Así que Dios finalmente impuso las sanciones del pacto, primero a Israel en el norte, y luego a Judá en el sur.[^18] Levítico 26; Deuteronomio 28; 2 Reyes 17:1-23, 25:1-21
+### Pero Israel falló su intento. A lo largo de cientos de años, a pesar de las advertencias de __<u>docenas</u>__ de profetas, el pueblo rechazó persistentemente a Dios y se negó a hacer Su voluntad. Así que Dios finalmente impuso las sanciones del pacto, primero a Israel en el norte, y luego a Judá en el sur.[^18] Levítico 26; Deuteronomio 28; 2 Reyes 17:1-23, 25:1-21
 
-### Como Israel se negó a __<u>confiar</u>__ a Dios, Dios les impuso una especie de sentencia capital (Levítico 28:38; Deuteronomio 4:27). Los desterró. Los expulsó hacia el este, de su tierra y lejos de su presencia.[^19]
+### Como Israel se negó a __<u>confiar</u>__ a Dios, Dios les impuso una especie de sentencia capital (Levítico 26:38; Deuteronomio 4:27). Entonces Dios los desterró. Los expulsó hacia el este, de su tierra y lejos de su presencia. Levítico 26:24
 
 ### Dios promete destrucción __<u>total</u>__ y definitiva a las naciones que ignoran sus advertencias. Sin embargo, Dios disciplina a su pueblo con la devastación del exilio para restaurarlos a la comunión con él, al arrepentimiento y a un andar por la fe.
 
 ## Disciplina en la iglesia
 
-### El pacto mosaico __<u>exigía</u>__ obediencia, pero no otorgaba el poder para obedecer. [^20]
+### Dios no ha cambiado. Sigue siendo perfectamente justo. El hecho que el discipline a sus hijos no quiere decir que deje atrás el amor ni Su justicia. Dios actua en amor y justifica para con Sus hijos. Dios no nos saca debajo de la gracia para colocarnos bajo la ley para disciplinarnos.  Tito 2:11-12; Hebreos 12:5-11
 
-### Dios sigue disciplinando de igual manera, pero ahora a la iglesia. Puede usar la persecución y providencias difíciles, alejándonos del __<u>mundo</u>__ y aferrándonos más a sus promesas. Hebreos 12:5-11 
+#### El pacto mosaico __<u>exigía</u>__ obediencia, pero no otorgaba el poder para obedecer. Si bien mostraba tu culpabilidad, no te fortalecia para obedecerlas. 
 
-### Dios sigue disciplinando hoy, en la __<u>iglesia</u>__ por el pecado, incluso hasta el punto de infligir la muerte.[^21]Hechos 5:1-11; 1 Corintios 11:27-31 
+### Dios sigue disciplinando de igual manera, pero ahora a la Iglesia. Dios usa la persecución y providencias difíciles, animandonos a alejarnos del __<u>mundo</u>__ y aferrándonos más a Sus promesas. Apocalipsis 3:19 
+
+### Dios sigue disciplinando hoy en la __<u>Iglesia</u>__ por el pecado, incluso hasta el punto de infligir la muerte. 1 Corintios 11:27-31; Hechos 5:1-11
 
 ### El propósito, como antes, es que al aceptar la disciplina de Dios ahora, finalmente escapemos del __<u>juicio</u>__ de entonces: «*Pero cuando somos juzgados por el Señor, somos disciplinados para que no seamos condenados junto con el mundo*».[^22] 1 Corintios 11:32
 
-### Pero también provee nuevos medios para preservar la pureza de su pueblo. Además de la provisión interna del Espíritu, Dios __<u>provee</u>__ el apoyo externo de la rendición de cuentas de la iglesia. Ahora, quienes afirman ser el pueblo de Dios, pero cuyas vidas contradicen esa afirmación, son advertidos, exhortados, suplicados y, si es necesario, excluidos de la membresía de la iglesia.[^23] Mateo 18:15-17; 1 Corintios 5:1-13; 2 Corintios 2:5-8; Tito 3:10-11
+### Pero también provee nuevos medios para preservar la pureza de su pueblo. Además de la provisión interna del Espíritu, Dios __<u>provee</u>__ el apoyo externo de la rendición de cuentas de la iglesia. 
 
-### La enseñanza del Nuevo Testamento sobre la disciplina eclesiástica presupone que los miembros de la iglesia __<u>profesan</u>__ la fe en Cristo y que sus vidas suelen confirmar esa afirmación. Cuando la vida de alguien socava fundamentalmente su profesión, la respuesta del Nuevo Testamento debe ser, esto no alinea con quienes somos. 
+#### Ahora, quienes afirman ser el pueblo de Dios, pero cuyas vidas contradicen esa afirmación, son advertidos, exhortados, suplicados y, si es necesario, excluidos de la membresía de la iglesia.[^23] Mateo 18:15-17; 1 Corintios 5:1-13; 2 Corintios 2:5-8; Tito 3:10-11
+
+### La enseñanza del Nuevo Testamento sobre la disciplina eclesiástica presupone que los miembros de la iglesia __<u>profesan</u>__ la fe en Cristo y que sus vidas suelen confirmar esa afirmación. 
+
+### Cuando la vida de alguien socava fundamentalmente su profesión, la respuesta del Nuevo Testamento es, esto no alinea con quienes somos. 
+
+#### Si cada miembro de la iglesia entenderia mejor el propósito y proceder de la disciplina bíblica, ¿Cuantos casos se podría evitar a que llegaran al conocimiento De la Iglesia? ¿Cuantos casos se podría manejar en amor, demostrando todo el proceso en vez de simplemente eliminar al ofensor? Mateo 18:15; Proverbios 17:17; Santiago 5:19-20
 
 ## Disciplina en el Reino Milenial
 
@@ -859,7 +867,7 @@ www.discipuladocgv.org
 
 ## Consumación de los tiempos: No más disciplina, sino una división final
 
-### Pero en el nuevo cielo y nueva tierra, Dios también decretará una división definitiva. Efectuará una exclusión irreversible. Así como Adán y Eva fueron desterrados del Edén, así __<u>como</u>__ Israel fue exiliado de su tierra, así también todos los que no confían en Cristo ni lo siguen, todos los que persisten en el pecado, serán excluidos de la nueva creación de Dios para siempre.[^25]
+### Pero en el nuevo cielo y nueva tierra, Dios también decretará una división definitiva. Efectuará una exclusión irreversible. Así como Adán y Eva fueron desterrados del Edén, así __<u>como</u>__ Israel fue exiliado de su tierra, así también todos los que no confían en Cristo, todos los que persisten en el pecado, serán excluidos de la nueva creación de Dios para siempre.
 
 ### Apocalipsis 22:14-15 "*Bienaventurados los que lavan sus vestiduras para tener derecho al árbol de la vida y __<u>entrar</u>__ en la ciudad por las puertas. Afuera están los perros, los hechiceros, los inmorales, los asesinos, los idólatras y todo aquel que ama y practica la mentira*". 
 
@@ -867,9 +875,9 @@ www.discipuladocgv.org
 
 ### ¿Qué aprendemos de Dios y su manera de disciplinar a __<u>través</u>__ de la historia?
 
-### En __<u>primer</u>__ lugar, de este lado del juicio final, todo acto de disciplina divina tiene como objetivo reformar y renovar a su pueblo. De este lado del juicio final, ningún juicio es definitivo.[^26]
+### En __<u>primer</u>__ lugar, de este lado del juicio final, todo acto de disciplina divina tiene como objetivo reformar y renovar a Su pueblo. De este lado del juicio final, ningún juicio es definitivo.[^26]
 
-#### A través de la larga y tortuosa historia de Dios con su pueblo, a menudo desobediente, a menudo ha recurrido a la disciplina para sacarnos del estupor pecaminoso. El objetivo siempre fue el arrepentimiento (__<u>cambio</u>__ de mente) y la renovación espiritual. De igual manera, cuando excluimos a alguien de la iglesia, no estamos anunciando su destino final, sino advirtiéndole de lo que podría ser. Excluir a alguien de la comunión con los santos, no es anunciar su condenación final, sino buscar evitarla. 
+#### A través de la larga y tortuosa historia de Dios con Su pueblo, a menudo desobediente, a menudo ha recurrido a la disciplina para sacarnos del estupor pecaminoso. El objetivo siempre fue el arrepentimiento (__<u>cambio</u>__ de mente) y la renovación espiritual. De igual manera, cuando excluimos a alguien de la iglesia, no estamos anunciando su destino final, sino advirtiéndole de lo que podría ser. Excluir a alguien de la comunión con los santos, no es anunciar su condenación final, sino buscar evitarla. 
 
 #### Cuando excluimos a alguien, debemos __<u>seguir</u>__ trabajando, orando y esperando su arrepentimiento, renovación y restauración.[^27]
 
@@ -879,11 +887,11 @@ www.discipuladocgv.org
 
 ### En tercer lugar, Dios “nos disciplina para nuestro bien, para que participemos de su santidad” (Hebreos 12:10). La disciplina de Dios nos beneficia; __<u>busca</u>__ un bien mucho mayor del que solemos aceptar. 
 
-#### Necesitamos recordar constantemente que las providencias severas no significan que Dios tenga un corazón __<u>duro</u>__. Si Dios usa medidas duras, debemos considerar nuestros corazones duros como el blanco, no acusar a Dios. [^29]
+#### Necesitamos recordar constantemente que las providencias severas no significan que Dios tenga un corazón __<u>duro</u>__. Si Dios usa medidas duras, debemos considerar nuestros corazones duros como errantes, no acusar a Dios. 
 
-##### Solo un martillo neumático __<u>puede</u>__ partir el concreto.[^30]
+##### Solo un martillo neumático (un golpe con fuerza) __<u>puede</u>__ partir el concreto (un material duro). Cuando un creyente tiene un corazón endurecido, Dios tratará con ese hijo para quebrar la dureza de su corazón. Zacarías 7:11-14
 
-### El amor no siempre es agradable, la bondad no siempre es indulgente y la tolerancia no siempre es una __<u>virtud</u>__. Un "no" suele ser la respuesta más amorosa que un padre, un líder o una iglesia puede dar. [^31]
+### El amor no siempre se siente agradable, la bondad no siempre es indulgente y la tolerancia no siempre es una __<u>virtud</u>__. Un "no" suele ser la respuesta más amorosa que un padre, un líder o una iglesia puede dar. 
 
 #### Y si ese "no" no se escucha, entonces no es cruel, sino amoroso, seguir el __<u>ejemplo</u>__ de Dios y obedecer sus instrucciones al disciplinar a alguien ahora, con la esperanza de que sea salvo en el día final.[^32]
 
@@ -979,13 +987,7 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 2:4a "*el cual quiere*..." La palabra quiere THELO nos indica el __<u>deseo</u>__ o voluntad.
 
-#### Contrastando podemos ver lo que Dios no quiere, el no quiere la muerte del __<u>impío</u>__, sino que se arrepienta [METANOIA-cambiar de mente de sus malos caminos. Ezequiel 18:23, 32; 2 Pedro 3:9
-
-#### La voluntad de Dios no __<u>debe</u>__ confundirse con la soberanía de Dios.
-
-##### Un aspecto de la soberanía de Dios es: lo que el quiere lo puede hacer, sin embargo no __<u>vemos</u>__ que todos los hombres sean salvos y vengan al conocimiento de la verdad, ¿qué pasó?, este pasaje nos aclarará mas detalles acerca de la voluntad de Dios y el deseo que el tiene por la humanidad.
-
-##### La soberanía de Dios se puede ver en la creación, con respecto a todo lo que se propuso hacer, fue hecho. También vemos este __<u>atributo</u>__ en que el se propuso salvar a las personas por medio de la fe en Jesucristo. y lo hizo posible.
+#### Contrastando podemos ver lo que Dios no quiere, el no quiere la muerte del __<u>impío</u>__, sino que se arrepienta METANOIA - cambiar de mente. Ezequiel 18:23, 32; 2 Pedro 3:9
 
 ### 1 Timoteo 2:4b "*que todos los hombres sean salvos*..." **El primer aspecto de la voluntad de Dios** es que desea que __<u>todos</u>__ sean salvos. 
 
@@ -1016,6 +1018,26 @@ www.discipuladocgv.org
 #### Entendemos que el Espíritu __<u>Santo</u>__ convence al mundo de justicia, juicio y pecado. Juan 16:8-10
 
 #### La __<u>iglesia</u>__ no tiene potestad de salvar a las personas, pero si puede andar de una manera que sea agradable al Señor, de manera que aún los no creyentes pueden ver la conducta piadosa de los creyentes y ser llevados a conocer el evangelio.
+
+### La voluntad de Dios no __<u>debe</u>__ confundirse con la soberanía de Dios.
+
+#### Un aspecto de la soberanía de Dios es: lo que El se propone hacer, lo hace. Sin embargo no __<u>vemos</u>__ que todos los hombres sean salvos y vengan al conocimiento de la verdad. ¿qué pasó? 
+
+##### Dios soberanamente propuso salvar a las personas por el medio de la fe en Jesucristo. 
+
+##### Dios soberanamente eligió usar agentes humanos (la iglesia) para que por el medio de la predicación del evangelio puedan ser salvos. 1 Corintios 1:21; Romanos 10:17
+
+##### Dios soberanamente eligió usar El Espíritu Santo para convencer al mundo. Eligió principalmente usar a la iglesia. Juan 16:7-15
+
+##### Dios también uso Su derecho como soberano para establecer que la salvación sea solo para los que creen. Es decir, ningún ser humano es salvo por obligación. El hombre debe responder creyendo el evangelio para ser salvo. 
+
+#### Dios quiere que todos sean salvos. 
+
+##### Dios envió a su hijo para que todo el mundo sea salvo. Jesucristo murio por todos. 
+
+##### Sin embargo, aún después de haber escuchado el evangelio de la gracia de Dios, no todos responden creyendo en Jesucristo. Dios soberanamente hizo que el hombre voluntariamente pueda rechazar. Es libre de hacerlo. 
+
+#### Entonces, concluimos que la voluntad de Dios nunca contradice la soberanía de Dios y la soberanía de Dios nunca entorpece la voluntad de Dios. 
 
 ### 1 Timoteo 2:4c "*y vengan al pleno conocimiento de la verdad*..." El __<u>segundo</u>__ aspecto de la voluntad de Dios es que el desea que todas las personas salvas lleguen a un conocimiento plano de la verdad. Gálatas 2:5; Efesios 4:15; Colosenses 1:5
 
@@ -2811,48 +2833,8 @@ ___-___
 
 [^34]: Bible Sense Lexicon, Ephesians 2:8
 
-[^35]: Bible Sense Lexicon, Ephesians 2:8
-
-[^36]: Bible Sense Lexicon, Ephesians 2:8
-
-[^37]: Bible Sense Lexicon, Ephesians 2:8
-
-[^38]: Bible Sense Lexicon, Ephesians 2:8
-
-[^39]: Bible Sense Lexicon, Ephesians 2:8
-
 [^40]: Vincent Word Studies
-
-[^41]: Bible Sense Lexicon, Ephesians 2:8
 
 [^42]: Vocabulary of Greek Testament
 
-[^43]: Vocabulary of Greek Testament
-
-[^44]: Vocabulary of Greek Testament
-
-[^45]: Vocabulary of Greek Testament
-
-[^46]: Vocabulary of Greek Testament
-
-[^47]: Bible Sense Lexicon, Ephesians 2:8
-
-[^48]: Bible Sense Lexicon, Ephesians 2:8
-
-[^49]: Bible Sense Lexicon, Ephesians 2:8
-
-[^50]: Bible Sense Lexicon, Ephesians 2:8
-
-[^51]: Bible Sense Lexicon, Ephesians 2:8
-
-[^52]: Bible Sense Lexicon, Ephesians 2:8
-
-[^53]: Bible Sense Lexicon, Ephesians 2:8
-
-[^54]: Bible Sense Lexicon, Ephesians 2:8
-
-[^55]: Bible Sense Lexicon, Ephesians 2:8
-
-[^56]: Bible Sense Lexicon, Ephesians 2:8
-
-[^57]: Bible Sense Lexicon, Ephesians 2:8
+[^]: 
