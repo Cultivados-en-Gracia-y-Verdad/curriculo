@@ -195,7 +195,7 @@ www.discipuladocgv.org
 
 ### Toda casa tiene su propietario. 1 Timoteo 3:5 dice, "*...de la iglesia de Dios*?", la iglesia es la casa del Dios vivo y __<u>tiene</u>__ su propio orden y gobierno. 1 Timoteo 3:15
 
-### Y en ésta __<u>casa</u>__, que es la iglesia, Dios estableció su propio orden, Efesios 5:23b "*... Cristo es cabeza de la iglesia, siendo El mismo Salvador del cuerpo*".[^4] Colosenses 1:18
+### Y en ésta __<u>casa</u>__, que es la iglesia, Dios estableció su propio orden, Efesios 5:23b "*... Cristo es cabeza de la iglesia, siendo El mismo Salvador del cuerpo*".[^3] Colosenses 1:18
 
 ### La palabra Mi iglesia le da el sentido de pertenencia al mismo Señor Jesucristo, ya que el mismo dió su vida por ella, __<u>para</u>__ rescatarla y purificarla Mateo 16:18; Efesio 5:24; Romanos 16:16
 
@@ -1047,13 +1047,19 @@ www.discipuladocgv.org
 
 #### La palabra *pleno conocimiento* es EPIGNOSIS o también pleno discernimiento, contiene una preposición EPI, que significa acertado o apropiado y GNOSIS conocimiento. __<u>Enseña</u>__ un conocimiento completamente acertado y un pleno discernimiento. 
 
-#### Dios no solo __<u>quiere</u>__ que conozcamos  teóricamente de El, sino que seamos plenamente capaces para comprender y discernir la verdad, esa es Su voluntad. Romanos 10:2; Colosenses 1:9-10; Efesios 1:16-18, 3:18-19
+#### Dios no solo __<u>quiere</u>__ que seamos salvos y que conozcamos teóricamente de El, sino que seamos plenamente capaces para comprender y discernir toda la verdad, esa es Su voluntad. Romanos 10:2; Colosenses 1:9-10; Efesios 1:16-18, 3:18-19
 
-##### 2 Tesalonicenses 2:14 "*a lo cual os llamó mediante nuestro evangelio, para alcanzar la gloria de nuestro Señor Jesucristo.*" es al momento de creer en el evangelio que uno llega a __<u>formar</u>__ parte de los llamados ("*Ekklesía*") de Jesucristo.
+##### 2 Tesalonicenses 2:14 "*a lo cual os llamó mediante nuestro evangelio, para alcanzar la gloria de nuestro Señor Jesucristo.*" 
 
-##### Este llamado no es por mérito del hombre, ya que ningun miembro de la iglesia podria decir que se __<u>ganó</u>__ el ser incluidos dentro de la iglesia del Dios vivo. Efesios 2:13
+##### Dios quiere que sus hijos conozcan varias verdades fundamentales: Juan 15:15
 
-#### Gálatas 1:6 "*Me maravillo de que tan pronto ustedes hayan abandonado a Aquel que los llamó por la gracia de Cristo, para seguir un evangelio diferente*" Este llamado es solamente y única por su __<u>gracia</u>__.
+###### **Sobre su nueva identidad** - Son sus hijos, adoptados en su familia mediante la fe en Jesucristo, y esta identidad les brinda seguridad de pertenencia y amor. Son perdonados de sus pecados mediante el sacrificio de Jesús, y este perdón está disponible para todos los que se arrepienten y creen (vease 100 verdades de nuestra identidad en Cristo). 1 Pedro 1:23; Juan 1:12; 2 Corintios 5:17; Colosenses 3:3; Efesios 2:6
+
+###### **Sobre su nueva relación con Él** - El amor de Dios por ellos es incondicional e inquebrantable, no depende de su comportamiento ni de sus logros, y nada puede separarlos de este amor. Él desea que sepan que nunca están solos, pues promete estar siempre con ellos, enviando a su Espíritu Santo para que more en ellos y los guíe. Juan 1:12; Gálatas 2:20
+
+###### **Sobre su nuevo propósito en la vida** - También quiere que comprendan que fueron creados para buenas obras, preparados por Él de antemano y llamados a vivir con rectitud y a glorificarlo en todo lo que hacen. Además, Dios desea que sus hijos sepan que están hechos a su imagen, que son una creación única y valiosa con un propósito, y que Él tiene buenos planes para sus vidas. 1 Pedro 2:9; Efesios 2:10; 1 Corintios 6:19-20
+
+###### Dios quiere que lo conozcan personal e íntimamente, ya que el verdadero conocimiento de Él es el camino a la vida eterna, incluyendo esperanza y un futuro. También deben saber que Dios es fiel, está presente en todas las circunstancias. 
 
 ## 1 Timoteo 2:5-7 - El ministerio de Pablo
 
@@ -2757,78 +2763,132 @@ www.discipuladocgv.org
 
 ### Rechaza lo que el __<u>mundo</u>__ y el creyente engañado llama sabiduría y aférrate al misterio de la piedad, la persona de Jesucristo. 1 Timoteo 6:20b-21
 
+# Apéndice
+
+## 100 Verdades de Identidad en Cristo
+
+1. Nací de nuevo (1 Pedro 1:23)
+2. Soy hijo de Dios (Juan 1:12)
+3. Soy santo (1 Corintios 1:2)
+4. Soy la sal de la tierra (Mateo 5:13)
+5. Soy la luz del mundo (Mateo 5:14)
+6. Soy discípulo porque amo a los demás (Juan 13:34-35)
+7. Estoy protegido por el poder de su nombre (Juan 17:11)
+8. Soy libre por la verdad (Juan 8:31-33)
+9. Estoy eternamente seguro en Cristo (Juan 10:27-31)
+10. Estoy protegido del maligno (Juan 17:15)
+11. Soy uno con Dios Padre y Jesús Hijo (Juan 17:23)
+12. Soy el regalo de Dios a Cristo (Juan 17:24)
+13. Tengo paz con Dios (Romanos 5:1)
+14. He sido justificado por la fe (Romanos 5:1)
+15. Tengo acceso a la esfera de la gracia de Dios (Romanos 5:2)
+16. Puedo regocijarme en la tribulación (Romanos 5:3)
+17. El amor de Dios ha sido derramado en mi corazón (Romanos 5:5)
+18. Estoy reinando en la vida de Jesucristo (Romanos 5:17)
+19. He sido reconciliado con Dios por la muerte de Jesús (Romanos 5:10)
+20. Estoy siendo salvo por la vida de Jesús (Romanos 5:10b)
+21. He sido bautizado en la muerte de Cristo (Romanos 6:3)
+22. He sido resucitado para andar en la Nueva vida (Romanos 6:4)
+23. He sido unido a Cristo mediante su muerte y resurrección (Romanos 6:5)
+24. Mi viejo yo fue crucificado con Cristo (Romanos 6:6)
+25. Estoy vivo para Dios en Cristo Jesús (Romanos 6:11)
+26. Estoy rendido a Dios (Romanos 6:13)
+27. No estoy bajo la ley, sino bajo la gracia (Romanos 6:14)
+28. Tengo vida eterna en Cristo Jesús (Romanos 6:23)
+29. Estoy libre del poder del pecado (Romanos 6:18)
+30. Estoy libre de condenación (Romanos 8:1)
+31. Soy siervo de Dios (Romanos 6:22)
+32. Él está libre del poder del pecado y es siervo de la justicia (Romanos 6:18)
+33. Estoy libre de la maldad Ciclo de pecado y muerte (Romanos 8:2)
+34. El Espíritu Santo mora en mí (Romanos 8:9)
+35. El Espíritu de Dios me guía (Romanos 8:14)
+36. Soy coheredero con Cristo (Romanos 8:17)
+37. Confío en que todas las cosas obran para bien (Romanos 8:28)
+38. Estoy siendo conformado a la imagen de Cristo (Romanos 8:29)
+39. El Espíritu Santo me ayuda en mis debilidades (Romanos 8:26)
+40. El Espíritu Santo intercede por mí (Romanos 8:26)
+41. Dios me conoció de antemano (Romanos 8:29)
+42. Todas las cosas me han sido dadas (Romanos 8:32)
+43. Soy inseparable del amor de Dios (Romanos 8:35)
+44. Soy más que Un vencedor por medio de Cristo (Romanos 8:37)
+45. Soy templo de Dios (1 Corintios 3:16-17)
+46. Soy lavado, santificado y justificado por la sangre de Jesús (1 Corintios 6:11)
+47. He sido comprado por precio (1 Corintios 6:20)
+48. Soy la imagen y gloria de Dios (1 Corintios 11:7)
+49. Soy triunfante en Cristo (2 Corintios 2:14)
+50. Soy un aroma fragante que manifiesta la presencia de Dios dondequiera que voy (2 Corintios 2:14)
+51. Soy apto para todo porque mi suficiencia viene de Dios (2 Corintios 3:5)
+
+52. Soy una nueva creación en Cristo (2 Corintios 5:17)
+53. Soy un embajador de Cristo (2 Corintios 5:20)
+54. Soy más fuerte cuando soy más débil (2 Corintios 12:10)
+55. Estoy crucificado con Cristo y la vida que ahora vivo es suya (Gálatas 2:20)
+56. Soy redimido de la maldición de la Ley (Gálatas 3:13)
+57. Estoy lleno del fruto del Espíritu: amor, gozo, paz, paciencia, benignidad, bondad, fidelidad, mansedumbre, dominio propio (Gálatas 5:22-23)
+58. Estoy en Cristo Jesús (Efesios 1:1)
+59. Soy bendecido con toda bendición espiritual (Efesios 1:3)
+60. Soy elegido por Dios para ser santo e irreprensible (Efesios 1:4)
+61. Estoy predestinado a la adopción por medio de Jesús (Efesios 1:5)
+62. Soy acepto en el amado (Efesios 1:6)
+63. Tienes redención por su sangre (Efesios 1:7)
+64. Soy perdonado de todos mis pecados (Efesios 1:7)
+65. Él me ha dado a conocer el misterio de su voluntad (Efesios 1:9)
+66. Tengo sabiduría al tratar de conocer su voluntad (Efesios 1:8)
+67. Él está predestinado conforme a su propósito (Efesios 1:11)
+68. Has obtenido una herencia (Efesios 1:11)
+69. Estoy lleno del Espíritu Santo de la promesa (Efesios 1:13)
+70. Tengo el espíritu de sabiduría y revelación en su conocimiento (Efesios 1:17)
+71. Mis ojos han sido iluminados (Efesios 1:18)
+72. Conozco la esperanza de mi llamamiento (Efesios 1:18)
+73. Conozco la sobreabundancia La grandeza de su poder para conmigo (Efesios 1:19)
+74. Conozco las riquezas de su herencia en los santos (Efesios 1:18)
+75. Con Cristo estoy vivo (Efesios 2:1)
+76. Con Cristo estoy resucitado y sentado en los lugares celestiales (Efesios 2:6)
+77. Has sido salvo por gracia mediante la fe (Efesios 28)
+78. Soy hechura de Dios, creado en Cristo Jesús para buenas obras (Efesios 2:10)
+79. Antes estaba lejos, ahora estoy cerca por la sangre de Cristo (Efesios 2:13)
+80. Tienes acceso al Padre por medio de Jesús (Efesios 2:18)
+81. Soy conciudadano de los santos en la casa de Dios (Efesios 2:19)
+82. Estoy edificado sobre el fundamento de los apóstoles y Cristo, la piedra angular (Efesios 2:20)
+83. Puedo caminar con valentía en la presencia de Cristo (Efesios 3:12).
+84. Soy fortalecido con poder por medio de su espíritu interior (Efesios 3:16).
+85. Recibo mucho más de lo que pido o entiendo (Efesios 3:20).
+86. Puedo hablar la verdad en amor (Efesios 4:15).
+87. Puedo crecer en todo bajo su guía (Efesios 4:15).
+88. He sido renovado en el espíritu de mi mente (Efesios 4:23).
+89. Me he despojado del viejo hombre (Efesios 4:22).
+90. Antes era tinieblas, pero ahora soy luz en el Señor (Efesios 5:8).
+91. Puedo caminar como un hijo de luz (Efesios 5:8).
+92. Soy fuerte en el Señor y en el poder. De su poder (Efesios 6:10).
+93. Elijo ponerme toda la armadura de Dios y mantenerme firme (Efesios 6:13).
+94. Puedo apagar todos los dardos de Satanás (Efesios 6:16).
+95. El que comenzó en mí la buena obra, la terminará (Filipenses 1:6).
+96. No me avergonzaré de nada; con denuedo, Cristo será engrandecido (Filipenses 1:20).
+97. La mente que estaba en Cristo está en mí (Filipenses 2:5).
+98. Dios está obrando en mí tanto para desear como para hacer su buena voluntad (Filipenses 2:13).
+99. Mi ciudadanía está en los cielos, de donde espero con ansias su venida (Filipenses 3:20).
+100. Siempre puedo regocijarme en el Señor (Filipenses 4:4). 
+
 ___-___
 
 [^1]: Robertson Word Pictures
 
 [^2]: BibleRef, 1 Timothy, <https://www.bibleref.com/1-Timothy/index.html>
 
-[^3]: BibleRef, 1 Timothy, <https://www.bibleref.com/1-Timothy/index.html>
+[^3]: Podemos encontrar 12 pasajes bíblicos de la iglesia haciendo mención de pertenencia a Dios, “**la iglesia de Dios**” 1 Corintios 1:2; 1 Corintios 10:32; 1 Corintios 11:22; 1 Corintios 11:16; 1 Corintios 15:9; 2 Corintios 1:1; Gálatas 1:13; 1 Tesalonicenses 1:1; 1Tesalonicenses 2:14; 2 Tesalonicenses 1:1; 2 Tesalonicenses 1:4; 1 Timoteo 3:5; 1 Timoteo 3:15
 
-[^4]: Podemos encontrar 12 pasajes bíblicos de la iglesia haciendo mención de pertenencia a Dios, “**la iglesia de Dios**” 1 Corintios 1:2; 1 Corintios 10:32; 1 Corintios 11:22; 1 Corintios 11:16; 1 Corintios 15:9; 2 Corintios 1:1; Gálatas 1:13; 1 Tesalonicenses 1:1; 1Tesalonicenses 2:14; 2 Tesalonicenses 1:1; 2 Tesalonicenses 1:4; 1 Timoteo 3:5; 1 Timoteo 3:15
+[^4]: Compelling Truth, <https://www.compellingtruth.org/Espanol/definicion-ekklesia.html>
 
-[^5]: Compelling Truth, <https://www.compellingtruth.org/Espanol/definicion-ekklesia.html>
+[^5]: Diccionario de la lengua Española, <https://dle.rae.es/>
 
-[^6]: Diccionario de la lengua Española, <https://dle.rae.es/>
+[^6]: The Free Dictionary, <https://es.thefreedictionary.com/>
 
-[^7]: Diccionario de la lengua Española, <https://dle.rae.es/>
+[^7]: Bible Sense Lexicon, Ephesians 2:8
 
-[^8]: The Free Dictionary, <https://es.thefreedictionary.com/>
+[^8]: 9 Marks, Bobby Jamieson, A Biblical Theology of Church Discipline, <https://www.9marks.org/article/a-biblical-theology-of-church-discipline/>
 
-[^9]: Bible Sense Lexicon, Ephesians 2:8
+[^9]: Vincent Word Studies
 
-[^10]: 9 Marks, Bobby Jamieson, A Biblical Theology of Church Discipline, <https://www.9marks.org/article/a-biblical-theology-of-church-discipline/>
+[^10]: Vocabulary of Greek Testament
 
-[^11]: 9 Marks, Bobby Jamieson, A Biblical Theology of Church Discipline, <https://www.9marks.org/article/a-biblical-theology-of-church-discipline/>
-
-[^12]: 9 Marks, Bobby Jamieson, A Biblical Theology of Church Discipline, <https://www.9marks.org/article/a-biblical-theology-of-church-discipline/>
-
-[^13]: 9 Marks, Bobby Jamieson, A Biblical Theology of Church Discipline, <https://www.9marks.org/article/a-biblical-theology-of-church-discipline/>
-
-[^14]: 9 Marks, Bobby Jamieson, A Biblical Theology of Church Discipline, <https://www.9marks.org/article/a-biblical-theology-of-church-discipline/>
-
-[^15]: 9 Marks, Bobby Jamieson, A Biblical Theology of Church Discipline, <https://www.9marks.org/article/a-biblical-theology-of-church-discipline/>
-
-[^16]: 9 Marks, Bobby Jamieson, A Biblical Theology of Church Discipline, <https://www.9marks.org/article/a-biblical-theology-of-church-discipline/>
-
-[^17]: 9 Marks, Bobby Jamieson, A Biblical Theology of Church Discipline, <https://www.9marks.org/article/a-biblical-theology-of-church-discipline/>
-
-[^18]: 9 Marks, Bobby Jamieson, A Biblical Theology of Church Discipline, <https://www.9marks.org/article/a-biblical-theology-of-church-discipline/>
-
-[^19]: 9 Marks, Bobby Jamieson, A Biblical Theology of Church Discipline, <https://www.9marks.org/article/a-biblical-theology-of-church-discipline/>
-
-[^20]: 9 Marks, Bobby Jamieson, A Biblical Theology of Church Discipline, <https://www.9marks.org/article/a-biblical-theology-of-church-discipline/>
-
-[^21]: 9 Marks, Bobby Jamieson, A Biblical Theology of Church Discipline, <https://www.9marks.org/article/a-biblical-theology-of-church-discipline/>
-
-[^22]: 9 Marks, Bobby Jamieson, A Biblical Theology of Church Discipline, <https://www.9marks.org/article/a-biblical-theology-of-church-discipline/>
-
-[^23]: 9 Marks, Bobby Jamieson, A Biblical Theology of Church Discipline, <https://www.9marks.org/article/a-biblical-theology-of-church-discipline/>
-
-[^24]: 9 Marks, Bobby Jamieson, A Biblical Theology of Church Discipline, <https://www.9marks.org/article/a-biblical-theology-of-church-discipline/>
-
-[^25]: 9 Marks, Bobby Jamieson, A Biblical Theology of Church Discipline, <https://www.9marks.org/article/a-biblical-theology-of-church-discipline/>
-
-[^26]: 9 Marks, Bobby Jamieson, A Biblical Theology of Church Discipline, <https://www.9marks.org/article/a-biblical-theology-of-church-discipline/>
-
-[^27]: 9 Marks, Bobby Jamieson, A Biblical Theology of Church Discipline, <https://www.9marks.org/article/a-biblical-theology-of-church-discipline/>
-
-[^28]: 9 Marks, Bobby Jamieson, A Biblical Theology of Church Discipline, <https://www.9marks.org/article/a-biblical-theology-of-church-discipline/>
-
-[^29]: 9 Marks, Bobby Jamieson, A Biblical Theology of Church Discipline, <https://www.9marks.org/article/a-biblical-theology-of-church-discipline/>
-
-[^30]: 9 Marks, Bobby Jamieson, A Biblical Theology of Church Discipline, <https://www.9marks.org/article/a-biblical-theology-of-church-discipline/>
-
-[^31]: 9 Marks, Bobby Jamieson, A Biblical Theology of Church Discipline, <https://www.9marks.org/article/a-biblical-theology-of-church-discipline/>
-
-[^32]: 9 Marks, Bobby Jamieson, A Biblical Theology of Church Discipline, <https://www.9marks.org/article/a-biblical-theology-of-church-discipline/>
-
-[^33]: BibleRef, <https://www.bibleref.com/1-Timothy/2/1-Timothy-2-8.html>
-
-[^34]: Bible Sense Lexicon, Ephesians 2:8
-
-[^40]: Vincent Word Studies
-
-[^42]: Vocabulary of Greek Testament
-
-[^]: 
+[^11]: Neil Anderson, Ministerio Libertad en Cristo - https://ocinternational.org/wp-content/uploads/100_Identity_Truths1.pdf
