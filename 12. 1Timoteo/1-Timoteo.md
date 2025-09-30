@@ -1019,9 +1019,11 @@ www.discipuladocgv.org
 
 #### La __<u>iglesia</u>__ no tiene potestad de salvar a las personas, pero si puede andar de una manera que sea agradable al Señor, de manera que aún los no creyentes pueden ver la conducta piadosa de los creyentes y ser llevados a conocer el evangelio.
 
+## Una breve explicación de la soberanía en relación a la voluntad de Dios
+
 ### La voluntad de Dios no __<u>debe</u>__ confundirse con la soberanía de Dios.
 
-#### Un aspecto de la soberanía de Dios es: lo que El se propone hacer, lo hace. Sin embargo no __<u>vemos</u>__ que todos los hombres sean salvos y vengan al conocimiento de la verdad. ¿qué pasó? 
+#### Un aspecto de la soberanía de Dios es: lo que El se propone hacer, lo hace. Sabemos que Dios queire que todos los hombres sean salvos. Sin embargo no __<u>vemos</u>__ que todos los hombres son salvos y vengan al conocimiento de la verdad. ¿qué pasó? 
 
 ##### Dios soberanamente propuso salvar a las personas por el medio de la fe en Jesucristo. 
 
@@ -1031,35 +1033,27 @@ www.discipuladocgv.org
 
 ##### Dios también uso Su derecho como soberano para establecer que la salvación sea solo para los que creen. Es decir, ningún ser humano es salvo por obligación. El hombre debe responder creyendo el evangelio para ser salvo. 
 
-#### Dios quiere que todos sean salvos. 
+#### Dios quiere, anhela, desea (es Su voluntad) que todos sean salvos. 
 
-##### Dios envió a su hijo para que todo el mundo sea salvo. Jesucristo murio por todos. 
+##### Dios envió a Su Hijo al mundo para que todo el mundo sea salvo. Jesucristo murio por todos. 
 
 ##### Sin embargo, aún después de haber escuchado el evangelio de la gracia de Dios, no todos responden creyendo en Jesucristo. Dios soberanamente hizo que el hombre voluntariamente pueda rechazar. Es libre de hacerlo. 
 
-#### Entonces, concluimos que la voluntad de Dios nunca contradice la soberanía de Dios y la soberanía de Dios nunca entorpece la voluntad de Dios. 
+#### Entonces, concluimos que la voluntad de Dios no contradice la soberanía de Dios y la soberanía de Dios no entorpece la voluntad de Dios. 
 
-### 1 Timoteo 2:4c "*y vengan al pleno conocimiento de la verdad*..." El __<u>segundo</u>__ aspecto de la voluntad de Dios es que el desea que todas las personas salvas lleguen a un conocimiento plano de la verdad. Gálatas 2:5; Efesios 4:15; Colosenses 1:5
+### 1 Timoteo 2:4c "*y vengan al pleno conocimiento de la verdad*..." El __<u>segundo</u>__ aspecto de la voluntad de Dios es que desea que todas las personas que El salva lleguen a un conocimiento pleno de la verdad. Gálatas 2:5; Efesios 4:15; Colosenses 1:5
 
-#### La palabra *vengan* ERJOMAI es un verbo que se encuentra en tiempo aoristo, activo, infinitivo, dando a entender una __<u>acción</u>__ iniciada en un punto del tiempo que se muestra de manera continua, estén viniendo activamente, es una invitación constante a los creyentes.
+#### La palabra *vengan* ERJOMAI es un verbo que se encuentra en tiempo aoristo, activo, infinitivo, dando a entender una __<u>acción</u>__ iniciada en un punto del tiempo que se muestra de manera continua, estén viniendo activamente, es un proceso que vayan conociendo la verdad.
 
 #### La palabra *pleno conocimiento* es EPIGNOSIS o también pleno discernimiento, contiene una preposición EPI, que significa acertado o apropiado y GNOSIS conocimiento. __<u>Enseña</u>__ un conocimiento completamente acertado y un pleno discernimiento. 
 
-#### Dios no solo __<u>quiere</u>__ que conozcamos teóricamente de el, sino que seamos plenamente capaces para comprender y discernir la verdad, esa es su voluntad. Romanos 10:2; Colosenses 1:9-10; Efesios 1:16-18, 3:18-19
+#### Dios no solo __<u>quiere</u>__ que conozcamos  teóricamente de El, sino que seamos plenamente capaces para comprender y discernir la verdad, esa es Su voluntad. Romanos 10:2; Colosenses 1:9-10; Efesios 1:16-18, 3:18-19
 
-#### Debemos amar a las personas como Dios lo hace, compartir Su invitación a la salvación con ellos y __<u>orar</u>__ para que ellos también escuchen Su llamado y se unan a Su iglesia. 1 Timoteo 2:1-4; 1 Pedro 3:9
-
-#### Hebreos 10:23–25 es un estímulo para __<u>cada</u>__ uno de nosotros que pertenecemos a la *ekklesia* de Dios: "*Mantengamos firme la esperanza que profesamos, porque fiel es el que hizo la promesa. Preocupémonos los unos por los otros, a fin de estimularnos al amor y a las buenas obras. No dejemos de congregarnos, como acostumbran hacerlo algunos, sino animémonos unos a otros, y con mayor razón ahora que vemos que aquel día se acerca.*"[^5]
-
-#### Gálatas 5:13 "*Porque ustedes, hermanos, a libertad fueron llamados; solo que no usen la libertad como pretexto para la carne, sino sírvanse por __<u>amor</u>__ los unos a los otros.*"
-
-#### 1 Timoteo 4:9-10 "*Palabra fiel es esta, y digna de ser recibida por todos. Que por esto mismo trabajamos y sufrimos oprobios, porque esperamos en el Dios viviente, que es el Salvador de todos los hombres, mayormente de los que __<u>creen</u>__.*"
+##### 2 Tesalonicenses 2:14 "*a lo cual os llamó mediante nuestro evangelio, para alcanzar la gloria de nuestro Señor Jesucristo.*" es al momento de creer en el evangelio que uno llega a __<u>formar</u>__ parte de los llamados ("*Ekklesía*") de Jesucristo.
 
 ##### Este llamado no es por mérito del hombre, ya que ningun miembro de la iglesia podria decir que se __<u>ganó</u>__ el ser incluidos dentro de la iglesia del Dios vivo. Efesios 2:13
 
 #### Gálatas 1:6 "*Me maravillo de que tan pronto ustedes hayan abandonado a Aquel que los llamó por la gracia de Cristo, para seguir un evangelio diferente*" Este llamado es solamente y única por su __<u>gracia</u>__.
-
-#### 2 Tesalonicenses 2:14 "*a lo cual os llamó mediante nuestro evangelio, para alcanzar la gloria de nuestro Señor Jesucristo.*" es al momento de creer en el evangelio que uno llega a __<u>formar</u>__ parte de los llamados ("*Ekklesía*") de Jesucristo.
 
 ## 1 Timoteo 2:5-7 - El ministerio de Pablo
 
