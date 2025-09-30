@@ -7,17 +7,89 @@ Title: 1 & 2 Pedro
 
 # 1 Pedro
 
-# Introducción 7
+# Introducción 
+
+La Epístola de 1 Pedro es escrita a 
 
 # 1 Pedro 1:1-12 – Nuestra Esperanza Viva 
 
-###  1 Pedro 1:1 *Pedro, apóstol de Jesucristo:*
+###  1 Pedro 1:1 *Pedro,* Pedro firma la carta como autor del libro. 1 Pedro 5:1. ¿Quién es Pedro? 
 
-###  1 Pedro 1:1 *A los expatriados,*
+#### Pedro era pescador, nacido en Betsaida. Juan 1:44
 
-###  1 Pedro 1:1*de la dispersión en el Ponto, Galacia, Capadocia, Asia y Bitinia,*
+#### Según Lucas, Pedro se casó y tenía tenía casa en Capernaúm. Su suegra vivía con ellos. Su padre se llamaba Jonás. Lucas 4:31, 38-40
 
-###  1 Pedro 1:1 *elegidos*
+#### Pedro era apostol a los judíos. 
+
+#### Pedro era uno de tres discipulos que estuvieron presentes en tres eventos: 
+
+##### Resucitación de la hija de Jairo. Marcos 5:37
+
+##### La transfiguración de Jesús. Mateo 17:1
+
+##### La agonía de Jesús en el jardín de getsemani. Mateo 26:37
+
+###  1 Pedro 1:1 *apóstol de Jesucristo:* Pedro es un apóstol de Jesucristo. Sus credenciales vienen de Jesucristo. Mateo 4:18 
+
+#### Pedro es uno de doce Apóstoles. Mateo 10:2; Marcos 3:16
+
+#### Pedro había sido introducido a Jesús por su hermano Andrés. Juan 1:40-42
+
+## Pedro y el Papado
+
+#### La conversación de Mateo 16. 
+
+##### Mateo 16:15 *«Y ustedes, ¿quién dicen que soy Yo?», les preguntó  Jesús.* En una conversación con los discipulos, Jesus les pregunta su opinión sobre su identidad. 
+
+##### Mateo 16:16 "*Simón Pedro respondió: «Tú eres el Cristo, el Hijo del Dios viviente»*". Uno de ellos, Pedro, responde...tú eres el ungido, hijo del Dios viviente. 
+
+##### Mateo 16:17a "*Entonces Jesús le dijo: «Bienaventurado eres, Simón, hijo de Jonás...*" Jesus le responde, "feliz de ti Simón, hijo de Jonas..." Pero, ¿porqué no se refiere a el como Pedro cuando Jesús mismo es el que le dió ese nombre? Juan 1:42
+
+###### El mismo nombre (Simón, hijo de Juan) usó Jesus cuando se encontró con los discipulos en en galilea, después que Pedro le había negó tres veces. Juan 21:15-17
+
+##### Mateo 16:17b *...porque esto no te lo reveló carne ni sangre, sino Mi Padre que está en los cielos.* Simon, no había recibido esta revelación de su padre Jonás, sino del Padre celestial. 
+
+##### Mateo 16:18 *Yo también te digo que tú eres Pedro, y sobre esta roca edificaré Mi iglesia; y las puertas del Hades no prevalecerán contra ella.*
+
+##### Mateo 16:19 *Yo te daré las llaves del reino de los cielos; y lo que ates en la tierra, será atado en los cielos; y lo que desates en la tierra, será desatado en los cielos».*
+
+##### Mateo 16:20 *Entonces ordenó a los discípulos que a nadie dijeran que Él era el Cristo.*
+
+#### Las llaves. 
+
+#### Bíblicamente no se hace mención de Pedro en Roma. Cuando Pablo escribió a los hermanos en Roma, aunque menciona más de 12 personas, nunca mando saludos a Pedro. 
+
+#### Algunos argumentan que la mención de babilonia es un dato que alude a Roma ya que se usaba este apodo en literatura cristiana y judía. 1 Pedro 5:13
+
+##### Pero Roma fue llamado así mayormente después de la destrucción del templo en el 70d.C. cuando ya Pedro estaba muerto. Según Jerónimo y Eusebio, Pedro murió en el año 67-68 d.C..
+
+###### Otra teoria es que se refiere a la fortaleza llamada Babilonia de egiptó, justo al norte de Cairo.  
+
+###### La antigua ciudad de Babilonia estaba en ruinas para este tiempo. 
+
+#### Varios historiadores mencionan la presencia de Pedro y Pablo en Roma. Es posible que Pedro llegó a ser anciano en la iglesia en Roma. [^1]
+
+##### Pero el título de «papa» surge en Alejandría, ya que «Padre» es un título de respeto para el clero, y en particular para los obispos. Esto comienza alrededor del siglo III, y a principios del siglo IV la práctica se adopta en Roma. No fue hasta el siglo XII que se reservó para Roma en la Iglesia católica.[^2]
+
+#### Ninguna conexion existe entre Pedro como anciano de Roma y el nombre de primer papa. Esta asosiación parece venir mucho después. 
+
+
+
+#### Pedro era uno de los Apostoles del cordero. Mucho más que ser el papa. Pedro es uno entre muchos, nunca fué colocado encima en ningún momento excepto por su personalidad de ser un lider natural.  
+
+## Su muerte
+
+### La tradición de la Iglesia primitiva dice que Pedro murió crucificado (con los brazos extendidos) en el momento del gran incendio de Roma en el año 64. Esto probablemente tuvo lugar tres meses después del desastroso incendio que destruyó Roma por el cual el emperador Nerón quiso culpar a los cristianos.[^1]
+
+## Los recipientes de la carta
+
+###  1 Pedro 1:1a *A los expatriados,*
+
+###  1 Pedro 1:1b *de la dispersión en el Ponto, Galacia, Capadocia, Asia y Bitinia,*
+
+## Elegidos por el Espíritu para obediencia
+
+###  1 Pedro 1:1c *elegidos*
 
 ###  1 Pedro 1:2 *según el previo conocimiento de Dios Padre,*
 
@@ -25,107 +97,111 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 1:2 *para obedecer a Jesucristo y ser rociados con Su sangre:*
 
+## Gozo por la bendiciónes de Dios en Cristo
+
 ###  1 Pedro 1:2 *Que la gracia y la paz les sean multiplicadas a ustedes.*
 
-###  1 Pedro 1:3 *Bendito sea el Dios y Padre de nuestro Señor Jesucristo,*
+###  1 Pedro 1:3a *Bendito sea el Dios y Padre de nuestro Señor Jesucristo,*
 
-###  *quien según Su gran misericordia, nos ha hecho nacer de nuevo a una esperanza viva,*
+###  1 Pedro 1:3b *quien según Su gran misericordia,*
 
-###  *mediante la resurrección de Jesucristo de entre los muertos,*
+###  1 Pedro 1:3c *nos ha hecho nacer de nuevo a una esperanza viva,*
 
-###  1 Pedro 1:4  *para obtener una herencia ,*
+###  1 Pedro 1:3d *mediante la resurrección de Jesucristo de entre los muertos,*
 
-###  *incorruptible, inmaculada y que no se marchitará, reservada en los cielos para ustedes.*
+###  1 Pedro 1:4a  *para obtener una herencia ,*
 
-###  1 Pedro 1:5  *Mediante la fe ustedes son protegidos por el poder de Dios,*
+###  1 Pedro 1:4b *incorruptible, inmaculada y que no se marchitará, reservada en los cielos para ustedes.*
 
-###  *para la salvación que está preparada para ser revelada en el último tiempo.*
+###  1 Pedro 1:5a  *Mediante la fe ustedes son protegidos por el poder de Dios,*
 
-###  1 Pedro 1:6  *En lo cual ustedes se regocijan grandemente,*
+###  1 Pedro 1:5b *para la salvación que está preparada para ser revelada en el último tiempo.*
 
-###  *aunque ahora, por un poco de tiempo si es necesario, sean afligidos con diversas pruebas,*
+###  1 Pedro 1:6a  *En lo cual ustedes se regocijan grandemente,*
 
-### 1 Pedro 1:7  *para que la prueba de la fe de ustedes, más preciosa que el oro que perece, aunque probado por fuego,*
+###  1 Pedro 1:6b *aunque ahora, por un poco de tiempo si es necesario, sean afligidos con diversas pruebas,*
 
-### *sea hallada que resulta en alabanza, gloria y honor*
+### 1 Pedro 1:7a  *para que la prueba de la fe de ustedes, más preciosa que el oro que perece, aunque probado por fuego,*
 
-### *en la revelación de Jesucristo;*
+### 1 Pedro 1:7b *sea hallada que resulta en alabanza, gloria y honor*
 
-### 1 Pedro 1:8  *a quien sin haber visto, ustedes lo aman,*
+### 1 Pedro 1:7c *en la revelación de Jesucristo;*
 
-### *y a quien ahora no ven, pero creen en Él,*
+### 1 Pedro 1:8a *a quien sin haber visto, ustedes lo aman,*
 
-### *y se regocijan grandemente con gozo inefable y lleno de gloria,*
+### 1 Pedro 1:8b *y a quien ahora no ven, pero creen en Él,*
+
+### 1 Pedro 1:8c *y se regocijan grandemente con gozo inefable y lleno de gloria,*
 
 ### 1 Pedro 1:9  *obteniendo, como resultado de su fe, la salvación de sus almas.*
 
-### 1 Pedro 1:10  *Acerca de esta salvación, los profetas que profetizaron de la gracia que vendría a ustedes,*
+### 1 Pedro 1:10a  *Acerca de esta salvación, los profetas que profetizaron de la gracia que vendría a ustedes,*
 
-### *diligentemente inquirieron y averiguaron*,
+### 1 Pedro 1:10b *diligentemente inquirieron y averiguaron*,
 
-### 1 Pedro 1:11  *procurando saber qué persona o tiempo indicaba el Espíritu de Cristo dentro de ellos...*
+### 1 Pedro 1:11a  *procurando saber qué persona o tiempo indicaba el Espíritu de Cristo dentro de ellos...*
 
-### *al predecir los sufrimientos de Cristo y las glorias que seguirían.*
+### 1 Pedro 1:11b *al predecir los sufrimientos de Cristo y las glorias que seguirían.*
 
-### 1 Pedro 1:12  *A ellos les fue revelado que no se servían a sí mismos, sino a ustedes,*
+### 1 Pedro 1:12a  *A ellos les fue revelado que no se servían a sí mismos, sino a ustedes,*
 
-### *en estas cosas que ahora les han sido anunciadas mediante los que les predicaron el evangelio por el Espíritu Santo enviado del cielo;*
+### 1 Pedro 1:12b *en estas cosas que ahora les han sido anunciadas mediante los que les predicaron el evangelio por el Espíritu Santo enviado del cielo;*
 
-### *cosas a las cuales los ángeles anhelan mirar.*
+### 1 Pedro 1:12c *cosas a las cuales los ángeles anhelan mirar.*
 
 # 1 Pedro 1:13-25 – Vivir a la luz de la esperanza futura
 
-###  1 Pedro 1:13 *Por tanto, preparen su entendimiento para la acción. *
+###  1 Pedro 1:13 *Por tanto, preparen su entendimiento para la acción.*
 
-###  *Sean sobrios en espíritu,*
+###  1 Pedro 1:13 *Sean sobrios en espíritu,*
 
-###  *pongan su esperanza completamente en la gracia que se les traerá en la revelación de Jesucristo.*
+###  1 Pedro 1:13 *pongan su esperanza completamente en la gracia que se les traerá en la revelación de Jesucristo.*
 
 ###  1 Pedro 1:14 *Como hijos obedientes,*
 
-###  *no se conformen a los deseos que antes tenían en su ignorancia,*
+###  1 Pedro 1:14 *no se conformen a los deseos que antes tenían en su ignorancia,*
 
 ###  1 Pedro 1:15 *sino que así como Aquel que los llamó es Santo,*
 
-###  *así también sean ustedes santos en toda su manera de vivir.*
+###  1 Pedro 1:15 *así también sean ustedes santos en toda su manera de vivir.*
 
 ###  1 Pedro 1:16 *Porque escrito está: «SEAN SANTOS, PORQUE YO SOY SANTO».*
 
 ###  1 Pedro 1:17 *Y si invocan como Padre a Aquel que imparcialmente juzga según la obra de cada uno,*
 
-###  *condúzcanse con temor durante el tiempo de su peregrinación.*
+###  1 Pedro 1:17 *condúzcanse con temor durante el tiempo de su peregrinación.*
 
 ###  1 Pedro 1:18 *Ustedes saben que no fueron redimidos de su vana manera de vivir heredada de sus padres con cosas perecederas como oro o plata,*
 
 ###  1 Pedro 1:19 *sino con sangre preciosa,*
 
-###  *como de un cordero sin tacha y sin mancha: la sangre de Cristo.*
+###  1 Pedro 1:19 *como de un cordero sin tacha y sin mancha: la sangre de Cristo.*
 
 ###  1 Pedro 1:20 *Porque Él estaba preparado desde antes de la fundación del mundo,*
 
-###  *pero se ha manifestado en estos últimos tiempos por amor a ustedes.*
+###  1 Pedro 1:20 *pero se ha manifestado en estos últimos tiempos por amor a ustedes.*
 
 ###  1 Pedro 1:21 *Por medio de Él son creyentes en Dios,*
 
-###  *que lo resucitó de entre los muertos y le dio gloria,*
+###  1 Pedro 1:21 *que lo resucitó de entre los muertos y le dio gloria,*
 
-###  *de manera que la fe y esperanza de ustedes sean en Dios.*
+###  1 Pedro 1:21 *de manera que la fe y esperanza de ustedes sean en Dios.*
 
 ###  1 Pedro 1:22 *Puesto que en obediencia a la verdad ustedes han purificado sus almas para un amor sincero de hermanos,*
 
-###  *ámense unos a otros entrañablemente, de corazón puro.*
+###  1 Pedro 1:22 *ámense unos a otros entrañablemente, de corazón puro.*
 
 ###  1 Pedro 1:23 *Pues han nacido de nuevo,*
 
-###  *no de una simiente corruptible, sino de una que es incorruptible,*
+###  1 Pedro 1:23 *no de una simiente corruptible, sino de una que es incorruptible,*
 
-###  *es decir,mediante la palabra de Dios que vive y permanece.*
+###  1 Pedro 1:23 *es decir,mediante la palabra de Dios que vive y permanece.*
 
 ###  1 Pedro 1:24 *Porque: «TODA CARNE ES COMO LA HIERBA, Y TODA SU GLORIA COMO LA FLOR DE LA HIERBA. SÉCASE LA HIERBA, CÁESE LA FLOR,*
 
 ###  1 Pedro 1:25 *PERO LA PALABRA DEL SEÑOR PERMANECE PARA SIEMPRE».*
 
-###  *Esa es la palabra que a ustedes les fue predicada.*
+###  1 Pedro 1:25 *Esa es la palabra que a ustedes les fue predicada.*
 
 ## En Síntesis
 
@@ -202,8 +278,6 @@ Title: 1 & 2 Pedro
 # 1 Pedro 2:1-10 – Creciendo en madurez
 
 ###  1 Pedro 2:1  *Por tanto, desechando toda malicia, y todo engaño, e hipocresías, y envidias y toda difamación,*
-
-
 
 ###  1 Pedro 2:1a  *Por tanto, desechando toda malicia,*...
 
@@ -1372,3 +1446,8 @@ Title: 1 & 2 Pedro
 ### Exhortación de Pablo (3:15-16): El Señor espera su regreso para que más personas tengan tiempo de ser salvas.
 
    ### EL NUEVO MUNDO (3:13): Esta tierra futura se convertirá en el hogar de la justicia universal.
+
+___-___
+
+[^1]:Wikipedia, https://en.wikipedia.org/wiki/Saint_Peter
+[^2]: Quora:  https://www.quora.com/When-was-Peter-first-called-a-pope
