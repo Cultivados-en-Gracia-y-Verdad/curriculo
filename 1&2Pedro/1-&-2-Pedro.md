@@ -113,7 +113,7 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 
 ###  1 Pedro 1:1b *de la dispersión en el Ponto, Galacia, Capadocia, Asia y Bitinia,* Específicamente es escrito a los esparcidos DIASPORA ubicados modernamente en el norte de Turquía. 
 
-## 4 Aspectos que la Trinidad participa en la elección
+## 4 Aspectos como la Trinidad participa en la elección
 
 ###  1 Pedro 1:1c *elegidos* EKLEKTOS 
 
@@ -129,7 +129,7 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 
 ## En Síntesis (1 Pedro 1:1)
 
-### Pablo escribió la carta
+### Pedro escribió la carta
 
 ### Los dispersados en la zona que hoy conocemos como el norte de Turquía. 
 
@@ -149,7 +149,9 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 
 ###  1 Pedro 1:3b *quien según Su gran misericordia,*
 
-###  1 Pedro 1:3c *nos ha hecho nacer de nuevo a una esperanza viva,*
+###  1 Pedro 1:3c *nos ha hecho nacer de nuevo a una esperanza viva,* Tito 1:2; 1 Pedro 1:21
+
+#### "*Hecho nacer de nuevo*" ANAGENNAO - renovar; concebido como causante de un segundo nacimiento.[^1]
 
 ###  1 Pedro 1:3d *mediante la resurrección de Jesucristo de entre los muertos,*
 
@@ -157,11 +159,17 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 
 ###  1 Pedro 1:4b *incorruptible, inmaculada y que no se marchitará, reservada en los cielos para ustedes.*
 
+#### Reservada TEREO (perfecto, pasivo, participio)
+
 ## 1 Pedro 1:5-7 Gozo por la salvación futura
 
 ###  1 Pedro 1:5a  *Mediante la fe ustedes son protegidos por el poder de Dios,*
 
-###  1 Pedro 1:5b *para la salvación que está preparada para ser revelada en el último tiempo.* 
+#### protegidos FROUREO (presente, pasivo, particípio)
+
+###  1 Pedro 1:5b *para la salvación que está preparada para ser revelada en el último tiempo.* La salvación preparada para ser revelada en el último tiempo es la glorificación futura de cada creyente de la edad de la Iglesia.  1 Corintios 15:51-53
+
+Revelada APOCALIPTO (aoristo, pasivo, infinitivo)
 
 ###  1 Pedro 1:6a  *En lo cual ustedes se regocijan grandemente,*
 
@@ -333,7 +341,7 @@ santo es HAGIOS - separado de la condición y uso común; dedicado. [^4]
 
 #### Considerando la nueva realidad en la vida del creyente, sabiendo que fue purificado, nacido de simiente incorruptible, les anima a despojarse de todo lo malo.
 
-#### La palabra *desechando* [APOTIDSEMI] significa de despojarse, desechar algo, ú echarlo fuera.
+#### La palabra *desechando* APOTIDSEMI significa de despojarse, desechar algo, ú echarlo fuera.
 
 #### Este verbo en griego se encuentra en tiempo aoristo, medio, participio, dándonos a entender, que es una indicación que ya se realizó en un punto específico del tiempo, con continuidad en el presente, que el creyente realiza en favor suyo.
 
@@ -343,9 +351,9 @@ santo es HAGIOS - separado de la condición y uso común; dedicado. [^4]
 
 #### El engaño en la vida del creyente es completamente desechado, esto debido a que Cristo es el ejemplo de novedad de vida. 1 Pedro 2:22, 3:10
 
-#### La práctica del engaño en la vida de una persona es relacionado, con su Padre. Hechos 13:10 ; Juan 8:44 
+#### La práctica del engaño en la vida de una persona es relacionado, con su Padre. Hechos 13:10; Juan 8:44 
 
-#### La palabra en el creyente tiene que ser fuera de todo engaño, debido a que ninguna mentira procede de la verdad. 2 Corintios 4:2 ,11:3 ;2 Tesalonicenses 2:3 ; 1 Juan 2:21
+#### La palabra en el creyente tiene que ser fuera de todo engaño, debido a que ninguna mentira procede de la verdad. 2 Corintios 4:2 ,11:3 ;2 Tesalonicenses 2:3; 1 Juan 2:21
 
 ###  1 Pedro 2:1c *...e hipocresías,...*
 
