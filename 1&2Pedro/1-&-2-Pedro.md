@@ -213,6 +213,8 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 
 ###  1 Pedro 1:15 *sino que así como Aquel que los llamó es Santo,*
 
+santo es HAGIOS - separado de la condición y uso común; dedicado. [^4]
+
 ###  1 Pedro 1:15 *así también sean ustedes santos en toda su manera de vivir.*
 
 ###  1 Pedro 1:16 *Porque escrito está: «SEAN SANTOS, PORQUE YO SOY SANTO».*
@@ -391,103 +393,103 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 
 ###  1 Pedro 2:9 *Pero ustedes son linaje escogido,*
 
-###  *real sacerdocio,*
+###  1 Pedro 2:9 *real sacerdocio,*
 
-###  *nación santa,*
+###  1 Pedro 2:9 *nación santa,*
 
-###  *pueblo adquirido para posesión de Dios,*
+###  1 Pedro 2:9 *pueblo adquirido para posesión de Dios,*
 
-###  *a fin de que anuncien las virtudes de Aquel*
+###  1 Pedro 2:9 *a fin de que anuncien las virtudes de Aquel*
 
-###  *que los llamó de las tinieblas a Su luz admirable.*
+###  1 Pedro 2:9 *que los llamó de las tinieblas a Su luz admirable.*
 
 ###  1 Pedro 2:10 *Ustedes en otro tiempo no eran pueblo, pero ahora son el pueblo de Dios;*
 
-###  *no habían recibido misericordia, pero ahora han recibido misericordia.*
+###  1 Pedro 2:10 *no habían recibido misericordia, pero ahora han recibido misericordia.*
 
 ###  1 Pedro 2:11 *Amados, les ruego como a extranjeros y peregrinos,*
 
-###  *que se abstengan de las pasiones carnales que combaten contra el alma.*
+###  1 Pedro 2:11 *que se abstengan de las pasiones carnales que combaten contra el alma.*
 
 ###  1 Pedro 2:12 *Mantengan entre los gentiles una conducta irreprochable,*
 
-###  *a fin de que en aquello que les calumnian como malhechores,*
+###  1 Pedro 2:12 *a fin de que en aquello que les calumnian como malhechores,*
 
-###  *ellos, por razón de las buenas obras de ustedes, al considerarlas,*
+###  1 Pedro 2:12 *ellos, por razón de las buenas obras de ustedes, al considerarlas,*
 
-###  *glorifiquen a Dios en el día de la visitación.*
+###  1 Pedro 2:12 *glorifiquen a Dios en el día de la visitación.*
 
 ###  1 Pedro 2:13 *Sométanse, por causa del Señor, a toda institución humana,*
 
-###  *ya sea al rey como autoridad,*
+###  1 Pedro 2:13 *ya sea al rey como autoridad,*
 
 ###  1 Pedro 2:14 *o a los gobernadores*
 
-###  *como enviados por él para castigo de los malhechores*
+###  1 Pedro 2:14 *como enviados por él para castigo de los malhechores*
 
-###  *y alabanza de los que hacen el bien.*
+###  1 Pedro 2:14 *y alabanza de los que hacen el bien.*
 
 ###  1 Pedro 2:15 *Porque esta es la voluntad de Dios:*
 
-###  *que haciendo bien, ustedes hagan enmudecer la ignorancia de los hombres insensatos.*
+###  1 Pedro 2:15 *que haciendo bien, ustedes hagan enmudecer la ignorancia de los hombres insensatos.*
 
 ###  1 Pedro 2:16 *Anden como libres,*
 
-###  *pero no usen la libertad como pretexto para la maldad,*
+###  1 Pedro 2:16 *pero no usen la libertad como pretexto para la maldad,*
 
-###  *sino empléenla como siervos de Dios.*
+###  1 Pedro 2:16 *sino empléenla como siervos de Dios.*
 
 ###  1 Pedro 2:17 *Honren a todos,*
 
-###  *amen a los hermanos,*
+###  1 Pedro 2:17 *amen a los hermanos,*
 
-###  *teman a Dios,*
+###  1 Pedro 2:17 *teman a Dios,*
 
-###  *honren al rey.*
+###  1 Pedro 2:17 *honren al rey.*
 
 ## 1 Timoteo 2:18-25 Aprendiendo de siervos
 
 ###  1 Pedro 2:18 *Siervos,*
 
-###  *estén sujetos a sus amos con todo respeto,*
+###  1 Pedro 2:18 *estén sujetos a sus amos con todo respeto,*
 
-###  *no solo a los que son buenos y afables,*
+###  1 Pedro 2:18 *no solo a los que son buenos y afables,*
 
-###  *sino también a los que son insoportables.*
+###  1 Pedro 2:18 *sino también a los que son insoportables.*
 
 ###  1 Pedro 2:19 *Porque esto halla gracia,*
 
-###  *si por causa de la conciencia ante Dios, alguien sobrelleva penalidades sufriendo injustamente.*
+###  1 Pedro 2:19 *si por causa de la conciencia ante Dios, alguien sobrelleva penalidades sufriendo injustamente.*
 
 ###  1 Pedro 2:20 *Pues ¿qué mérito hay, si cuando ustedes pecan y son tratados con severidad lo soportan con paciencia?*
 
-###  *Pero si cuando hacen lo bueno sufren por ello y lo soportan con paciencia, esto halla gracia con Dios.*
+###  1 Pedro 2:20 *Pero si cuando hacen lo bueno sufren por ello y lo soportan con paciencia, esto halla gracia con Dios.*
 
 ###  1 Pedro 2:21 *Porque para este propósito han sido llamados,*
 
-###  *pues también Cristo sufrió por ustedes,*
+###  1 Pedro 2:21 *pues también Cristo sufrió por ustedes,*
 
-###  *dejándoles ejemplo para que sigan Sus pasos,*
+###  1 Pedro 2:21 *dejándoles ejemplo para que sigan Sus pasos,*
 
 ###  1 Pedro 2:22 *EL CUAL NO COMETIÓ PECADO,*
 
-###  *NI ENGAÑO ALGUNO SE HALLÓ EN SU BOCA;*
+###  1 Pedro 2:22 *NI ENGAÑO ALGUNO SE HALLÓ EN SU BOCA;*
 
 ###  1 Pedro 2:23 *y quien cuando lo ultrajaban, no respondía ultrajando.*
 
-###  *Cuando padecía, no amenazaba,*
+###  1 Pedro 2:23 *Cuando padecía, no amenazaba,*
 
-###  *sino que se encomendaba a Aquel que juzga con justicia.*
+###  1 Pedro 2:23 *sino que se encomendaba a Aquel que juzga con justicia.*
 
 ###  1 Pedro 2:24 *Él mismo llevó nuestros pecados en Su cuerpo sobre la cruz,*
 
-###  *a fin de que muramos al pecado y vivamos a la justicia,*
+###  1 Pedro 2:24 *a fin de que muramos al pecado y vivamos a la justicia,*
 
-###  *porque por Sus heridas fueron ustedes sanados.*
+###  1 Pedro 2:24 *porque por Sus heridas fueron ustedes sanados.*
 
 ###  1 Pedro 2:25 *Pues ustedes andaban descarriados como ovejas,*
 
-###  *pero ahora han vuelto al Pastor y Guardián de sus almas.*
+###  1 Pedro 2:25 *pero ahora han vuelto al Pastor y Guardián de sus almas.*
 
 ## En Síntesis
 
@@ -1502,3 +1504,4 @@ ___-___
 [^1]:Wikipedia, https://en.wikipedia.org/wiki/Saint_Peter
 [^2]: Quora:  https://www.quora.com/When-was-Peter-first-called-a-pope
 [^3]: John D. Barry et al., The Faithful Study Bible (Bellingham, WA: Lexham Press, 2012, 2016), Matthew 16:19
+[^4]: Mounce
