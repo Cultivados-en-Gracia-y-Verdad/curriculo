@@ -9,25 +9,29 @@ Title: 1 & 2 Pedro
 
 # Introducción 
 
-La Epístola de 1 Pedro es escrita a 
+La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe en Jesucristo. 
 
 # 1 Pedro 1:1-12 – Nuestra Esperanza Viva 
 
-###  1 Pedro 1:1 *Pedro,* Pedro firma la carta como autor del libro. 1 Pedro 5:1. ¿Quién es Pedro? 
+###  1 Pedro 1:1 *Pedro,* Pedro firma la carta como autor del libro. 1 Pedro 5:1. 
 
-#### Pedro era pescador, nacido en Betsaida. Juan 1:44
+####  ¿Quién es Pedro? 
 
-#### Según Lucas, Pedro se casó y tenía tenía casa en Capernaúm. Su suegra vivía con ellos. Su padre se llamaba Jonás. Lucas 4:31, 38-40
+##### Pedro, originalmente Simon, era pescador, nacido en Betsaida. Juan 1:42-44; Mateo 4:19
 
-#### Pedro era apostol a los judíos. 
+##### Pedro era casado y tenía casa en Capernaúm. Su suegra vivía con ellos. Su padre se llamaba Jonás. Lucas 4:31, 38-40
 
-#### Pedro era uno de tres discipulos que estuvieron presentes en tres eventos: 
+##### Pedro era uno de tres discipulos que estuvieron presentes en tres eventos: 
 
-##### Resucitación de la hija de Jairo. Marcos 5:37
+###### Resucitación de la hija de Jairo. Marcos 5:37
 
-##### La transfiguración de Jesús. Mateo 17:1
+###### La transfiguración de Jesús. Mateo 17:1
 
-##### La agonía de Jesús en el jardín de getsemani. Mateo 26:37
+###### La agonía de Jesús en el jardín de getsemani. Mateo 26:37
+
+##### Pedro era un apostol a los judíos. Gálatas 2:8
+
+##### Pedro naturalmente era pronto para hablar y actuar impulsivamente. Juan 18:10; Marcos 9:5-6
 
 ###  1 Pedro 1:1 *apóstol de Jesucristo:* Pedro es un apóstol de Jesucristo. Sus credenciales vienen de Jesucristo. Mateo 4:18 
 
@@ -35,7 +39,7 @@ La Epístola de 1 Pedro es escrita a
 
 #### Pedro había sido introducido a Jesús por su hermano Andrés. Juan 1:40-42
 
-## Pedro y el Papado
+## Pedro y el papado
 
 #### La conversación de Mateo 16. 
 
@@ -49,17 +53,37 @@ La Epístola de 1 Pedro es escrita a
 
 ##### Mateo 16:17b *...porque esto no te lo reveló carne ni sangre, sino Mi Padre que está en los cielos.* Simon, no había recibido esta revelación de su padre Jonás, sino del Padre celestial. 
 
-##### Mateo 16:18 *Yo también te digo que tú eres Pedro, y sobre esta roca edificaré Mi iglesia; y las puertas del Hades no prevalecerán contra ella.*
+##### Mateo 16:18 *Yo también te digo que tú eres Pedro* (piedrita), *y sobre esta roca* (roca enorme) *edificaré Mi iglesia; y las puertas del Hades no prevalecerán contra ella.*  Basado en la revelación que había recibido Pedro del Padre celestial acerca de quien es Jesús, Jesús le anuncia a Pedro sus planes a futuro. 
 
-##### Mateo 16:19 *Yo te daré las llaves del reino de los cielos; y lo que ates en la tierra, será atado en los cielos; y lo que desates en la tierra, será desatado en los cielos».*
+##### Parafraséando, Jesús le dijo a Pedro, "Eres solo una pequeña piedra, pero sobre esta enorme confesión (Jesus es el Cristo) que te reveló mi padre, voy a construir mi iglesia sobre ella”. 
+
+##### Mateo 16:19 *Yo te daré las llaves del reino de los cielos...*" Jesus le dice a Pedro que le daría las llaves del reino de los cielos. Algunos interpretan esto a decir que Pedro es el que está a la puerta del cielo con las llaves para prohibir o dejar ingresar al cielo. ¿Es esto a lo que se refiere este versículo? 
+
+###### Así como los candados te mantienen afuéra, la llaves de permiten ingresar. Llaves le dan a uno acceso. 
+
+###### Cuando Pedro dijo que Jesús era el Cristo, estaba diciendo que Jesús era el ungido, el prometido de Dios y el Rey. 
+
+###### Jesús le dice a Pedro que el, como Rey del reino. le entregaría las llaves para permitir el ingreso a ese reino. 
+
+###### Las llaves del cielo estan contrastadas con las puertas del Hades en Mateo 16:18. Mediante la predicación del evangelio, muy pronto Pedro abrirá la puerta a las personas para tener una entrada al reino de los cielos. 
+
+###### A Pedro se le dio el privilegio de tener la llave y abrir la puerta a los Judíos el día de Pentecostés (Hechos 2), a los samaritanos (Hechos 8), y a los gentiles (Hechos 10).
+
+##### Mateo 16:19b "*y lo que ates en la tierra, será atado en los cielos; y lo que desates en la tierra, será desatado en los cielos».*" Mateo 18:18
+
+###### Atar DEO obligar ⇔ ligar v. — obligar, concebido como atar o sujetar una obligación a alguien.[^1]
+
+##### Juan 20:23; Mateo 12:29-32
+
+##### La iglesia es edificada sobre los apostoles. Efesios 2:20
 
 ##### Mateo 16:20 *Entonces ordenó a los discípulos que a nadie dijeran que Él era el Cristo.*
 
-#### Las llaves. 
+### Otros argumentos
 
 #### Bíblicamente no se hace mención de Pedro en Roma. Cuando Pablo escribió a los hermanos en Roma, aunque menciona más de 12 personas, nunca mando saludos a Pedro. 
 
-#### Algunos argumentan que la mención de babilonia es un dato que alude a Roma ya que se usaba este apodo en literatura cristiana y judía. 1 Pedro 5:13
+##### Algunos argumentan que la mención de babilonia es un dato que alude a Roma ya que se usaba este apodo en literatura cristiana y judía. 1 Pedro 5:13
 
 ##### Pero Roma fue llamado así mayormente después de la destrucción del templo en el 70d.C. cuando ya Pedro estaba muerto. Según Jerónimo y Eusebio, Pedro murió en el año 67-68 d.C..
 
@@ -67,9 +91,13 @@ La Epístola de 1 Pedro es escrita a
 
 ###### La antigua ciudad de Babilonia estaba en ruinas para este tiempo. 
 
-#### Varios historiadores mencionan la presencia de Pedro y Pablo en Roma. Es posible que Pedro llegó a ser anciano en la iglesia en Roma. [^1]
+##### Varios historiadores mencionan la presencia de Pedro y Pablo en Roma. Es posible que Pedro llegó a ser anciano en la iglesia en Roma. [^1]
 
 ##### Pero el título de «papa» surge en Alejandría, ya que «Padre» es un título de respeto para el clero, y en particular para los obispos. Esto comienza alrededor del siglo III, y a principios del siglo IV la práctica se adopta en Roma. No fue hasta el siglo XII que se reservó para Roma en la Iglesia católica.[^2]
+
+#### Si Jesús hizo a Pedro el principal de los discipulos en este momento, ¿porque los vemos peleando a los discipulos después de la última cena sobre quien seria el mayor en el reino? Lucas 22:24
+
+#### Pablo claramente no creia que Pedro era el principal lider de la iglesia cuando lo condeno publicamente por su hipocrecía. Gálatas 2:11-14
 
 #### Ninguna conexion existe entre Pedro como anciano de Roma y el nombre de primer papa. Esta asosiación parece venir mucho después. 
 
@@ -81,39 +109,67 @@ La Epístola de 1 Pedro es escrita a
 
 ## Los recipientes de la carta
 
-###  1 Pedro 1:1a *A los expatriados,*
+###  1 Pedro 1:1a *A los expatriados,* la carta es escrita a los esparcidos DIASPORA de creyentes judios.
 
-###  1 Pedro 1:1b *de la dispersión en el Ponto, Galacia, Capadocia, Asia y Bitinia,*
+###  1 Pedro 1:1b *de la dispersión en el Ponto, Galacia, Capadocia, Asia y Bitinia,* Específicamente es escrito a los esparcidos DIASPORA ubicados modernamente en el norte de Turquía. 
 
-## Elegidos por el Espíritu para obediencia
+## 4 Aspectos como la Trinidad participa en la elección
 
-###  1 Pedro 1:1c *elegidos*
+###  1 Pedro 1:1c *elegidos* EKLEKTOS 
 
-###  1 Pedro 1:2 *según el previo conocimiento de Dios Padre,*
+#### Ser elegido significa que Dios te ha escogido para recibir Su gracia y misericordia. Pedro escribió esto pensando en los cristianos, que son parte de la familia de Dios. Ellos han sido elegidos por Dios para recibir Su amor especial.
 
-###  1 Pedro 1:2 *por la obra santificadora del Espíritu,*
+#### En pocas palabras, todos los que creen en Jesús son sus elegidos. Todos los que aceptan la invitación de Dios para ser salvos son unidos a Cristo y llamados “escogidos” o “elegidos”.
 
-###  1 Pedro 1:2 *para obedecer a Jesucristo y ser rociados con Su sangre:*
+###  1 Pedro 1:2 *según el previo conocimiento de Dios Padre,* El primer punto es que los elegidos son según el previo conocimiento de Dios. El ser elegidos es según el previo conocimiento de Dios. ¿Que conocimiento previo determina la elección? 
 
-## Gozo por la bendiciónes de Dios en Cristo
+###  1 Pedro 1:2 *por la obra santificadora del Espíritu,* El segundo punto es que los elegidos son por la obra santificadora del Espíritu. 
 
-###  1 Pedro 1:2 *Que la gracia y la paz les sean multiplicadas a ustedes.*
+###  1 Pedro 1:2 *para obedecer a Jesucristo y ser rociados con Su sangre:* El tercer punto de la elección es que es para obedecer a Jesucristo y ser rociados con Su sangre. 
+
+## En Síntesis (1 Pedro 1:1)
+
+### Pedro escribió la carta
+
+### Los dispersados en la zona que hoy conocemos como el norte de Turquía. 
+
+### los elegidos
+
+#### Dios el Padre establece el plan. Es según su conocimiento previo. 
+
+#### Dios el Espíritu Santo hace la obra de santificar para obediencia al Hijo. 
+
+####  Dios el Hijo provee la sangre para rociar. 
+
+## 1 Pedro 1:2-4 Gozo por la salvación pasada
+
+###  1 Pedro 1:2 *Que la gracia y la paz les sean multiplicadas a ustedes.* 
 
 ###  1 Pedro 1:3a *Bendito sea el Dios y Padre de nuestro Señor Jesucristo,*
 
 ###  1 Pedro 1:3b *quien según Su gran misericordia,*
 
-###  1 Pedro 1:3c *nos ha hecho nacer de nuevo a una esperanza viva,*
+###  1 Pedro 1:3c *nos ha hecho nacer de nuevo a una esperanza viva,* Tito 1:2; 1 Pedro 1:21
+
+#### "*Hecho nacer de nuevo*" ANAGENNAO - renovar; concebido como causante de un segundo nacimiento.[^1]
 
 ###  1 Pedro 1:3d *mediante la resurrección de Jesucristo de entre los muertos,*
 
-###  1 Pedro 1:4a  *para obtener una herencia ,*
+###  1 Pedro 1:4a  *para obtener una herencia,*
 
 ###  1 Pedro 1:4b *incorruptible, inmaculada y que no se marchitará, reservada en los cielos para ustedes.*
 
+#### Reservada TEREO (perfecto, pasivo, participio)
+
+## 1 Pedro 1:5-7 Gozo por la salvación futura
+
 ###  1 Pedro 1:5a  *Mediante la fe ustedes son protegidos por el poder de Dios,*
 
-###  1 Pedro 1:5b *para la salvación que está preparada para ser revelada en el último tiempo.*
+#### protegidos FROUREO (presente, pasivo, particípio)
+
+###  1 Pedro 1:5b *para la salvación que está preparada para ser revelada en el último tiempo.* La salvación preparada para ser revelada en el último tiempo es la glorificación futura de cada creyente de la edad de la Iglesia.  1 Corintios 15:51-53
+
+Revelada APOCALIPTO (aoristo, pasivo, infinitivo)
 
 ###  1 Pedro 1:6a  *En lo cual ustedes se regocijan grandemente,*
 
@@ -125,6 +181,8 @@ La Epístola de 1 Pedro es escrita a
 
 ### 1 Pedro 1:7c *en la revelación de Jesucristo;*
 
+## 1 Pedro 1:8-9 Gozo por la salvación presente
+
 ### 1 Pedro 1:8a *a quien sin haber visto, ustedes lo aman,*
 
 ### 1 Pedro 1:8b *y a quien ahora no ven, pero creen en Él,*
@@ -132,6 +190,8 @@ La Epístola de 1 Pedro es escrita a
 ### 1 Pedro 1:8c *y se regocijan grandemente con gozo inefable y lleno de gloria,*
 
 ### 1 Pedro 1:9  *obteniendo, como resultado de su fe, la salvación de sus almas.*
+
+## 1 Pedro 1:10-12 Nuestra salvación anunciada
 
 ### 1 Pedro 1:10a  *Acerca de esta salvación, los profetas que profetizaron de la gracia que vendría a ustedes,*
 
@@ -160,6 +220,8 @@ La Epístola de 1 Pedro es escrita a
 ###  1 Pedro 1:14 *no se conformen a los deseos que antes tenían en su ignorancia,*
 
 ###  1 Pedro 1:15 *sino que así como Aquel que los llamó es Santo,*
+
+santo es HAGIOS - separado de la condición y uso común; dedicado. [^4]
 
 ###  1 Pedro 1:15 *así también sean ustedes santos en toda su manera de vivir.*
 
@@ -277,23 +339,40 @@ La Epístola de 1 Pedro es escrita a
 
 ## 1 Pedro 2:1-3 - Desechar lo malo y beber lo bueno
 
+<<<<<<< HEAD
 ###  1 Pedro 2:1  *Por tanto, desechando toda malicia, y todo engaño, e hipocresías, y envidias y toda difamación,*
 
 #### El deseo del apóstol era los creyentes se despojen de toda esta lista de acciones negativas que el creyente podría manifestar, contrarias a la simiente nueva que tenían.
 
+=======
+>>>>>>> 65b93cbba3bece3c0927cb86a5de99bd5ae5145f
 ###  1 Pedro 2:1a  *Por tanto, desechando toda malicia,*...
 
 #### La palabra *desechando* [APOTIDSEMI] significa de despojarse, desechar algo, ú echarlo fuera. Este verbo en griego se encuentra en tiempo aoristo, medio, participio, dándonos a entender esta indicación realizada, tiene continuidad en el presente y el creyente lo hace en beneficio suyo.
 
+<<<<<<< HEAD
 #### ¿Como el creyente podría despojarse de toda malicia?. Considerando su nueva realidad en la vida del creyente, sabiendo que fue purificado, nacido de simiente incorruptible, les anima a despojarse de todo lo malo. Efesios 4:22, 25, 31; Santiago 1:21
+=======
+#### La palabra *desechando* APOTIDSEMI significa de despojarse, desechar algo, ú echarlo fuera.
+
+#### Este verbo en griego se encuentra en tiempo aoristo, medio, participio, dándonos a entender, que es una indicación que ya se realizó en un punto específico del tiempo, con continuidad en el presente, que el creyente realiza en favor suyo.
+
+#### *toda malicia* o maldad en la vida del creyente tiene que ser completamente desechada, esto es debido a que ya no es un ser corrupto (Viejo hombre) , como lo era en su vieja pasada manera de vivir, sino ahora tiene una simiente incorruptible. Efesios 4:22, 25, 31; Santiago 1:21
+>>>>>>> 65b93cbba3bece3c0927cb86a5de99bd5ae5145f
 
 ###  1 Pedro 2:1b *...y todo engaño,...*
 
 #### El engaño en la vida del creyente debe ser completamente desechado, esto debido a que Cristo es ahora el ejemplo de novedad de vida. 1 Pedro 2:22, 3:10
 
+<<<<<<< HEAD
 #### La práctica del engaño en la vida de una persona es relacionado, con su Padre. Hechos 13:10 ; Juan 8:44 ; Efesios 5:8 
 
 #### La palabra de engaño en el creyente es contraria a su nueva identidad y simiente. 2 Corintios 4:2 ,11:3 ;2 Tesalonicenses 2:3 ; 1 Juan 2:21
+=======
+#### La práctica del engaño en la vida de una persona es relacionado, con su Padre. Hechos 13:10; Juan 8:44 
+
+#### La palabra en el creyente tiene que ser fuera de todo engaño, debido a que ninguna mentira procede de la verdad. 2 Corintios 4:2 ,11:3 ;2 Tesalonicenses 2:3; 1 Juan 2:21
+>>>>>>> 65b93cbba3bece3c0927cb86a5de99bd5ae5145f
 
 ###  1 Pedro 2:1c *...e hipocresías,...*
 
@@ -303,7 +382,11 @@ La Epístola de 1 Pedro es escrita a
 
 #### Un creyente puede ser arrastrado por la hipocresía de otros, y ser engañado llegando hasta cauterizar su conciencia. Gálatas 2:13 ; 1 Timoteo 4:2
 
+<<<<<<< HEAD
 ###  1 Pedro 2:1d *...y envidias...*
+=======
+###  1 Pedro 2:1 *y envidias y toda difamación,*
+>>>>>>> 65b93cbba3bece3c0927cb86a5de99bd5ae5145f
 
 #### Las envidias en la vida del creyente son el resultado un andar carnal, lo cual anima a no andar de esta manera. Gálatas 5:21 ; Romanos 13:13
 
@@ -345,7 +428,7 @@ La Epístola de 1 Pedro es escrita a
 
 #### Que tan importante es la leche pura de la mama lactante, no tiene que ser adulterada, con nada, sencillamente, la pureza de la palabra sin ningún tipo de adulterio, es como una leche materna adulterada con cafe, eso no será de beneficio a un niño recien nacido.
 
-###  *para que por ella crezcan para salvación,*
+###  1 Pedro 2:2 *para que por ella crezcan para salvación,*
 
 #### Como se crece en la salvación?, pues sencillamente con la leche, sin adulterar
 
@@ -379,7 +462,7 @@ La Epístola de 1 Pedro es escrita a
 
 #### A que se puede estar refiriendo, que el es una piedra viva?
 
-###  *desechada por los hombres, pero escogida y preciosa delante de Dios,*
+###  1 Pedro 2:4 *desechada por los hombres, pero escogida y preciosa delante de Dios,*
 
 #### Generalmente las piedras son utilizadas en la construcción de algo.
 
@@ -389,6 +472,7 @@ La Epístola de 1 Pedro es escrita a
 
 ###  1 Pedro 2:5 *también ustedes, como piedras vivas,*
 
+<<<<<<< HEAD
 #### Tomando el ejemplo de La piedra viva desechada, Jesucristo, así tambien ustedes, con ese mismo ejemplo de piedra escogida por Dios.
 
 ###  *sean edificados como casa espiritual para un sacerdocio santo,*
@@ -408,14 +492,25 @@ La Epístola de 1 Pedro es escrita a
 #### Estos sacrificios son aceptables a DIos, vemos que el proposito de los sacrificios animales que exigía la ley eran sombra de lo que había de venir, sin embargo ahora vemos sacrificos espirituales aceptables a Dios.
 
 ###  *por medio de Jesucristo.*
+=======
+###  1 Pedro 2:5 *sean edificados como casa espiritual para un sacerdocio santo,*
+
+###  1 Pedro 2:5 *para ofrecer sacrificios espirituales aceptables a Dios*
+
+###  1 Pedro 2:5 *por medio de Jesucristo.*
+>>>>>>> 65b93cbba3bece3c0927cb86a5de99bd5ae5145f
 
 #### Estos sacrificios espirituales, son únicamente aceptables por medio de Jesucristo, no hay otra manera, u otro medio para ofrecer sacrificios agradables al Dios eterno.
 
 ###  1 Pedro 2:6 *Pues esto se encuentra en la Escritura:*
 
+<<<<<<< HEAD
 #### Vemos que pedro cita la escritura, de una piedra en Sion Isa. 28:16; Rom. 9:32, 33; 10:11
 
 ###  *«YO, PONGO EN SIÓN UNA PIEDRA ESCOGIDA, UNA PRECIOSA piedra ANGULAR, Y EL QUE CREA EN ÉL NO SERÁ AVERGONZADO».*
+=======
+###  1 Pedro 2:6 *«YO, PONGO EN SIÓN UNA PIEDRA ESCOGIDA, UNA PRECIOSA piedra ANGULAR, Y EL QUE CREA EN ÉL NO SERÁ AVERGONZADO».*
+>>>>>>> 65b93cbba3bece3c0927cb86a5de99bd5ae5145f
 
 #### Esta piedra escogida, es una piedra escogida precísamente por DIos mismo
 
@@ -425,11 +520,15 @@ La Epístola de 1 Pedro es escrita a
 
 ###  1 Pedro 2:7 *Este precioso valor es, pues, para ustedes los que creen;*
 
+<<<<<<< HEAD
 #### Los que creen en esta piedra, es de muchísimo y precioso valor,
 
 #### Los creyentes en jesucristo realmente valoran esta piedra angular y el valor que tiene.
 
 ###  *pero para los que no creen, «LA PIEDRA QUE DESECHARON LOS CONSTRUCTORES, ESA, EN PIEDRA ANGULAR SE HA CONVERTIDO»,*
+=======
+###  1 Pedro 2:7 *pero para los que no creen, «LA PIEDRA QUE DESECHARON LOS CONSTRUCTORES, ESA, EN PIEDRA ANGULAR SE HA CONVERTIDO»,*
+>>>>>>> 65b93cbba3bece3c0927cb86a5de99bd5ae5145f
 
 #### Vemos un contraste con los que rehusan a creer, no entienden el valor de esta piedra y tampoco su propósito.
 
@@ -437,6 +536,7 @@ La Epístola de 1 Pedro es escrita a
 
 ###  1 Pedro 2:8 *y, «PIEDRA DE TROPIEZO Y ROCA DE ESCÁNDALO».*
 
+<<<<<<< HEAD
 #### Ellos categorizan esta piedra como una de tropiezo, es algo en lo que un judío tropieza, y lo bota mas lejos, por que no es bueno que este ahí, les hace tropezar en su camino.
 
 #### Esta roca de escándalo, es precisamente para ellos, sin embargo es un escándalo decir que esta piedra Jesucristo, forma parte del plan eterno de Dios, es motivo de gritos de impunidad o escandalizarse por esta piedra.
@@ -450,6 +550,11 @@ La Epístola de 1 Pedro es escrita a
 #### Es por eso que El evangelio es según las escrituras, y los que rechazan a Jesucristo la piedra angular, rechazan directamente la palabra y son desobedientes a ella. teniendo por piedra de Tropiezo y estorbo, a la parte mas importante del edificio que Dios dió a los edificadores.
 
 ###  *y para ello estaban también destinados.*
+=======
+###  1 Pedro 2:8 *Pues ellos tropiezan porque son desobedientes a la palabra,*
+
+###  1 Pedro 2:8 *y para ello estaban también destinados.*
+>>>>>>> 65b93cbba3bece3c0927cb86a5de99bd5ae5145f
 
 #### Este destino para estos desobedientes estaba contemplado por Dios y profetizado anteriormente que no todos serían obedientes a la fe, al evangelio, a la palabra
 
@@ -457,6 +562,7 @@ La Epístola de 1 Pedro es escrita a
 
 ###  1 Pedro 2:9 *Pero ustedes son linaje escogido,*
 
+<<<<<<< HEAD
 #### Los creyentes, son ahora linaje escogido. empezará a mencionar que es lo que son los creyentes en relación al mundo entero, Este linaje es totalmente escogido por DIos, 
 
 #### Como es que un creyente forma parte de los escogidos?, Efesios nos muestra como un creyente es parte de los escogidos En Cristo
@@ -480,6 +586,17 @@ La Epístola de 1 Pedro es escrita a
 #### El fin de adquirir a todos los creyentes, u el propósito de esto es anunciar las virtudes de aquel, Sea todo para darle gloria y honor a aquel que nos rescató de las tinieblas a su luz admirable, sea toda gloria honor a el.
 
 ###  *que los llamó de las tinieblas a Su luz admirable.*
+=======
+###  1 Pedro 2:9 *real sacerdocio,*
+
+###  1 Pedro 2:9 *nación santa,*
+
+###  1 Pedro 2:9 *pueblo adquirido para posesión de Dios,*
+
+###  1 Pedro 2:9 *a fin de que anuncien las virtudes de Aquel*
+
+###  1 Pedro 2:9 *que los llamó de las tinieblas a Su luz admirable.*
+>>>>>>> 65b93cbba3bece3c0927cb86a5de99bd5ae5145f
 
 #### El nos ha llamado cuando eramos completamente tinieblas y ahora somos hijos de luz. 
 
@@ -487,6 +604,7 @@ La Epístola de 1 Pedro es escrita a
 
 ###  1 Pedro 2:10 *Ustedes en otro tiempo no eran pueblo, pero ahora son el pueblo de Dios;*
 
+<<<<<<< HEAD
 #### Nos muestra el valor incalculable de ser ahora pueblo de Dios, como nación santa, escogida por Dios, que impresionante es ser el pueblo de Dios y manifestarse al mundo como lo que ya somos, una expresión pública de DIos.
 
 #### Va relacionado con el propósito de Dios desde la creación, el objetivo de fructificad y multiplicar la tierra sojuzgarla, era de que su imagen, la imagen de DIos llene toda la tierra,
@@ -496,6 +614,9 @@ La Epístola de 1 Pedro es escrita a
 #### Ahora nos muestra que Ya somos pueblo de Dios y podemos reflejar su caracter, voluntad y amor por toda la tierra. formamos parte del pueblo de Dios, una nación que no es terrenal sinó celestial.
 
 ###  *no habían recibido misericordia, pero ahora han recibido misericordia.*
+=======
+###  1 Pedro 2:10 *no habían recibido misericordia, pero ahora han recibido misericordia.*
+>>>>>>> 65b93cbba3bece3c0927cb86a5de99bd5ae5145f
 
 #### Los que estaban alejados a los pactos, hemos sido acercados, ahora hemos recibido misericordia de aquel que nos llamó y nos rescató.
 
@@ -505,9 +626,13 @@ La Epístola de 1 Pedro es escrita a
 
 ###  1 Pedro 2:11 *Amados, les ruego como a extranjeros y peregrinos,*
 
+<<<<<<< HEAD
 #### Amados, los únicos amados de Dios son los que se encuentran en Cristo, Estos son amados por Causa de Su hijo, estamos revestidos de Cristo y cada creyente se considera un amado por Dios, esta ahora es su definición de un creyente, es un amado por Dios.
 
 ###  *que se abstengan de las pasiones carnales que combaten contra el alma.*
+=======
+###  1 Pedro 2:11 *que se abstengan de las pasiones carnales que combaten contra el alma.*
+>>>>>>> 65b93cbba3bece3c0927cb86a5de99bd5ae5145f
 
 #### Considerando todo lo anterior, un creyente puede abstenerse de las pasiones carnales, Sabemos que la carne no fue erradicada por completo, sinó que se podría decir, la lucha del creyente en Santificación, es luchar contra la carne, Sin embargo, 
 
@@ -517,6 +642,7 @@ La Epístola de 1 Pedro es escrita a
 
 ###  1 Pedro 2:12 *Mantengan entre los gentiles una conducta irreprochable,*
 
+<<<<<<< HEAD
 #### Estas instrucciones prácticas serán visibles entre los gentiles, en una conducta irreprochable. Como es eso posible? Sencillamente es un andar diario, practico, considerando nuestra nueva realidad, identidad, la vista puesta en las cosas que son del espíritu, y el resultado es una conducta irreprochable.
 
 ###  *a fin de que en aquello que les calumnian como malhechores,*
@@ -534,6 +660,13 @@ La Epístola de 1 Pedro es escrita a
 #### Ahora como creyentes se nos anima a que lo que profesamos, la piedad, tambien sea manifiesta y visible en el hijo de DIos para con todos los hombres. 
 
 ###  *glorifiquen a Dios en el día de la visitación.*
+=======
+###  1 Pedro 2:12 *a fin de que en aquello que les calumnian como malhechores,*
+
+###  1 Pedro 2:12 *ellos, por razón de las buenas obras de ustedes, al considerarlas,*
+
+###  1 Pedro 2:12 *glorifiquen a Dios en el día de la visitación.*
+>>>>>>> 65b93cbba3bece3c0927cb86a5de99bd5ae5145f
 
 #### Los no creyentes pueden considerar las buenas obras de los creyentes y glorificar a Dios en el Día de la visitación.
 
@@ -545,6 +678,7 @@ La Epístola de 1 Pedro es escrita a
 
 ###  1 Pedro 2:13 *Sométanse, por causa del Señor, a toda institución humana,*
 
+<<<<<<< HEAD
 #### Un importante motivo de Sometimiento a toda autoridad, es por causa del señor, 
 
 #### Considera el sometimiento, no es por que sean buenas autoridades, sino esto es por causa de Dios o Cristo, que te sometes a Toda institución humana,
@@ -552,6 +686,9 @@ La Epístola de 1 Pedro es escrita a
 #### Menciona a toda institución humana, no menciona a solo algunas instituciones en las que yo esté de acuerdo, sino a toda institución humana.
 
 ###  *ya sea al rey como autoridad,*
+=======
+###  1 Pedro 2:13 *ya sea al rey como autoridad,*
+>>>>>>> 65b93cbba3bece3c0927cb86a5de99bd5ae5145f
 
 #### Como me puedo someter al Rey como a una autoridad?. Mucho peor si en caso el rey es un rey corrupto o tirano, como a impuesto por DIos?
 
@@ -559,73 +696,77 @@ La Epístola de 1 Pedro es escrita a
 
 ###  1 Pedro 2:14 *o a los gobernadores*
 
+<<<<<<< HEAD
 #### Como me someto a gobernadores totalmente errados y corruptos?, pues es en base a lo anterior, hay una causa mas importante por quien me someto, no a pecar, o ser llevado a pecar, en contra de mi fe, sino es una sujeción voluntaria por hacer lo correcto. considerando la ley de Dios es superior a la de los hombres.
 
 ###  *como enviados por él para castigo de los malhechores*
+=======
+###  1 Pedro 2:14 *como enviados por él para castigo de los malhechores*
+>>>>>>> 65b93cbba3bece3c0927cb86a5de99bd5ae5145f
 
-###  *y alabanza de los que hacen el bien.*
+###  1 Pedro 2:14 *y alabanza de los que hacen el bien.*
 
 ###  1 Pedro 2:15 *Porque esta es la voluntad de Dios:*
 
-###  *que haciendo bien, ustedes hagan enmudecer la ignorancia de los hombres insensatos.*
+###  1 Pedro 2:15 *que haciendo bien, ustedes hagan enmudecer la ignorancia de los hombres insensatos.*
 
 ###  1 Pedro 2:16 *Anden como libres,*
 
-###  *pero no usen la libertad como pretexto para la maldad,*
+###  1 Pedro 2:16 *pero no usen la libertad como pretexto para la maldad,*
 
-###  *sino empléenla como siervos de Dios.*
+###  1 Pedro 2:16 *sino empléenla como siervos de Dios.*
 
 ###  1 Pedro 2:17 *Honren a todos,*
 
-###  *amen a los hermanos,*
+###  1 Pedro 2:17 *amen a los hermanos,*
 
-###  *teman a Dios,*
+###  1 Pedro 2:17 *teman a Dios,*
 
-###  *honren al rey.*
+###  1 Pedro 2:17 *honren al rey.*
 
 ## 1 Pedro 2:18-25 Aprendiendo de siervos
 
 ###  1 Pedro 2:18 *Siervos,*
 
-###  *estén sujetos a sus amos con todo respeto,*
+###  1 Pedro 2:18 *estén sujetos a sus amos con todo respeto,*
 
-###  *no solo a los que son buenos y afables,*
+###  1 Pedro 2:18 *no solo a los que son buenos y afables,*
 
-###  *sino también a los que son insoportables.*
+###  1 Pedro 2:18 *sino también a los que son insoportables.*
 
 ###  1 Pedro 2:19 *Porque esto halla gracia,*
 
-###  *si por causa de la conciencia ante Dios, alguien sobrelleva penalidades sufriendo injustamente.*
+###  1 Pedro 2:19 *si por causa de la conciencia ante Dios, alguien sobrelleva penalidades sufriendo injustamente.*
 
 ###  1 Pedro 2:20 *Pues ¿qué mérito hay, si cuando ustedes pecan y son tratados con severidad lo soportan con paciencia?*
 
-###  *Pero si cuando hacen lo bueno sufren por ello y lo soportan con paciencia, esto halla gracia con Dios.*
+###  1 Pedro 2:20 *Pero si cuando hacen lo bueno sufren por ello y lo soportan con paciencia, esto halla gracia con Dios.*
 
 ###  1 Pedro 2:21 *Porque para este propósito han sido llamados,*
 
-###  *pues también Cristo sufrió por ustedes,*
+###  1 Pedro 2:21 *pues también Cristo sufrió por ustedes,*
 
-###  *dejándoles ejemplo para que sigan Sus pasos,*
+###  1 Pedro 2:21 *dejándoles ejemplo para que sigan Sus pasos,*
 
 ###  1 Pedro 2:22 *EL CUAL NO COMETIÓ PECADO,*
 
-###  *NI ENGAÑO ALGUNO SE HALLÓ EN SU BOCA;*
+###  1 Pedro 2:22 *NI ENGAÑO ALGUNO SE HALLÓ EN SU BOCA;*
 
 ###  1 Pedro 2:23 *y quien cuando lo ultrajaban, no respondía ultrajando.*
 
-###  *Cuando padecía, no amenazaba,*
+###  1 Pedro 2:23 *Cuando padecía, no amenazaba,*
 
-###  *sino que se encomendaba a Aquel que juzga con justicia.*
+###  1 Pedro 2:23 *sino que se encomendaba a Aquel que juzga con justicia.*
 
 ###  1 Pedro 2:24 *Él mismo llevó nuestros pecados en Su cuerpo sobre la cruz,*
 
-###  *a fin de que muramos al pecado y vivamos a la justicia,*
+###  1 Pedro 2:24 *a fin de que muramos al pecado y vivamos a la justicia,*
 
-###  *porque por Sus heridas fueron ustedes sanados.*
+###  1 Pedro 2:24 *porque por Sus heridas fueron ustedes sanados.*
 
 ###  1 Pedro 2:25 *Pues ustedes andaban descarriados como ovejas,*
 
-###  *pero ahora han vuelto al Pastor y Guardián de sus almas.*
+###  1 Pedro 2:25 *pero ahora han vuelto al Pastor y Guardián de sus almas.*
 
 ## En Síntesis
 
@@ -1639,3 +1780,5 @@ ___-___
 
 [^1]:Wikipedia, https://en.wikipedia.org/wiki/Saint_Peter
 [^2]: Quora:  https://www.quora.com/When-was-Peter-first-called-a-pope
+[^3]: John D. Barry et al., The Faithful Study Bible (Bellingham, WA: Lexham Press, 2012, 2016), Matthew 16:19
+[^4]: Mounce
