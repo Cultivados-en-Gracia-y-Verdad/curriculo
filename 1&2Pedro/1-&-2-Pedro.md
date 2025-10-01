@@ -273,103 +273,293 @@ La Epístola de 1 Pedro es escrita a
 
 ### El Libro Antiguo (1:23b-25): Es la Palabra de Dios la que lo realiza.
 
-# 1 Pedro 2:1-10 – Creciendo en madurez
+# 1 Pedro 2:1-10 – Creciendo hacia la madurez
+
+## 1 Pedro 2:1-3 - Desechar lo malo y beber lo bueno
 
 ###  1 Pedro 2:1  *Por tanto, desechando toda malicia, y todo engaño, e hipocresías, y envidias y toda difamación,*
 
+#### El deseo del apóstol era los creyentes se despojen de toda esta lista de acciones negativas que el creyente podría manifestar, contrarias a la simiente nueva que tenían.
+
 ###  1 Pedro 2:1a  *Por tanto, desechando toda malicia,*...
 
-#### Considerando la nueva realidad en la vida del creyente, sabiendo que fue purificado, nacido de simiente incorruptible, les anima a despojarse de todo lo malo.
+#### La palabra *desechando* [APOTIDSEMI] significa de despojarse, desechar algo, ú echarlo fuera. Este verbo en griego se encuentra en tiempo aoristo, medio, participio, dándonos a entender esta indicación realizada, tiene continuidad en el presente y el creyente lo hace en beneficio suyo.
 
-#### La palabra *desechando* [APOTIDSEMI] significa de despojarse, desechar algo, ú echarlo fuera.
-
-#### Este verbo en griego se encuentra en tiempo aoristo, medio, participio, dándonos a entender, que es una indicación que ya se realizó en un punto específico del tiempo, con continuidad en el presente, que el creyente realiza en favor suyo.
-
-#### *toda malicia* o maldad en la vida del creyente tiene que ser completamente desechada, esto es debido a que ya no es un ser corrupto (Viejo hombre) , como lo era en su vieja pasada manera de vivir, sino ahora tiene una simiente incorruptible. Efesios 4:22, 25, 31; Santiago 1:21
+#### ¿Como el creyente podría despojarse de toda malicia?. Considerando su nueva realidad en la vida del creyente, sabiendo que fue purificado, nacido de simiente incorruptible, les anima a despojarse de todo lo malo. Efesios 4:22, 25, 31; Santiago 1:21
 
 ###  1 Pedro 2:1b *...y todo engaño,...*
 
-#### El engaño en la vida del creyente es completamente desechado, esto debido a que Cristo es el ejemplo de novedad de vida. 1 Pedro 2:22, 3:10
+#### El engaño en la vida del creyente debe ser completamente desechado, esto debido a que Cristo es ahora el ejemplo de novedad de vida. 1 Pedro 2:22, 3:10
 
-#### La práctica del engaño en la vida de una persona es relacionado, con su Padre. Hechos 13:10 ; Juan 8:44 
+#### La práctica del engaño en la vida de una persona es relacionado, con su Padre. Hechos 13:10 ; Juan 8:44 ; Efesios 5:8 
 
-#### La palabra en el creyente tiene que ser fuera de todo engaño, debido a que ninguna mentira procede de la verdad. 2 Corintios 4:2 ,11:3 ;2 Tesalonicenses 2:3 ; 1 Juan 2:21
+#### La palabra de engaño en el creyente es contraria a su nueva identidad y simiente. 2 Corintios 4:2 ,11:3 ;2 Tesalonicenses 2:3 ; 1 Juan 2:21
 
 ###  1 Pedro 2:1c *...e hipocresías,...*
 
 #### La hipocresía es una actitud de fingimiento concerniente a cualidades o sentimientos contrarios a los que tiene o experimentan. 
 
-#### La vida del creyente puede estar llena de hipocresía fingiendo ser buenas personas por fuera y experimentando lo contrario por dentro, Podemos ver esto de igual manera con los fariseos en tiempos de Jesús. Mateo 23:28 ; Lucas 12:1 
+#### La vida del creyente puede estar llena de hipocresía fingiendo ser buenas personas exteriormente y experimentando lo contrario por dentro, podemos ver esta actitud de los fariseos en los tiempos de Jesús. Mateo 23:28 ; Lucas 12:1 
 
 #### Un creyente puede ser arrastrado por la hipocresía de otros, y ser engañado llegando hasta cauterizar su conciencia. Gálatas 2:13 ; 1 Timoteo 4:2
 
-###  *y envidias y toda difamación,*
+###  1 Pedro 2:1d *...y envidias...*
 
-###  1 Pedro 2:2 *deseen como niños recién nacidos, la leche pura de la palabra,*
+#### Las envidias en la vida del creyente son el resultado un andar carnal, lo cual anima a no andar de esta manera. Gálatas 5:21 ; Romanos 13:13
+
+#### La enseñanza de una doctrina extraña, contraria a la sana doctrina resulta en envidias, discusiones, contiendas...1 Timoteo 6:4
+
+###  1 Pedro 2:1d *...y toda difamación,...*
+
+#### La difamación nos muestra el hablar mal de otros, específicamente de sus hermanos. Sant. 4:11
+
+#### Jesús nos muestra que del interior del corazón vienen las calumnias. Mateo 15:18-19
+
+###  1 Pedro 2:2 *deseen como niños recién nacidos, la leche pura de la palabra, para que por ella crezcan para salvación,*
+
+#### Desechando las conductas anteriores, Pedro les anima al crecimiento espiritual con un ejemplo de maternidad y crianza que todos conocen, para un bebe recién nacido la leche materna es lo único que necesita para crecer saludable.
+
+#### De igual manera el deseo de un creyente recién nacido es que sea la pureza de la palabra, la cual le llevará a crecer, hacia una madurez espiritual.
+
+#### En términos humanos si un niño no crece, pues tiene algún problema y es completamente anormal. lo normal es que crezca. no que se quede bebe o niño para siempre. de igual manera en la vida espiritual. usa este ejemplo hacia el crecimiento y madurez.
+
+#### -No quería que se queden niños toda la vida, sino crezcan, de igual manera pablo, a los corintios les muestra la leche antes de la carne.
+
+#### -En el contexto de hebreos les muestra en un aspecto negativo la leche espiritual, connotando que no eran capaces del alimento sólido.
+
+​      *deseen como niños recién nacidos,*
+
+#### La palabra deseen [EPIPODSEO] es un anhelo intensamente, con vehemencia e intensivamente, esta es un imperativo que el creyente realiza.
+
+#### El ejemplo de un niño recién nacido que grita intensamente cuando tiene hambre de leche, y solo descansa hasta que le dan de lactar, esa imagen nos muestra como una realidad espiritual.
+
+#### Pablo en ninguna manera dijo que actuaran como niños, sino les muestra el ejemplo de inocencia 1 Corintios 14:20
+
+###  *la leche pura de la palabra,* o leche pura espiritual
+
+#### Los niños recién nacidos solo pueden crecer con únicamente leche sólida, y si no toman leche no crecen.  1 Corintios 3:1-3, nos muestra que no eran capaces de algo mas sólido, necesitaban crecer primero y después la carne, algo mas sólido, en un aspecto negativo, por que los corintios no crecieron, pues por ser carnales, y la consecuencia de su carnalidad eran divisiones..
+
+#### En el contexto de Hebreos la leche es usada de manera negativa, en el sentido de que no crecieron o no se fundaron bien en el conocimiento elemental de los oráculos de Dios. ellos ya debían ser maestros, y estar enseñando. Hebreos 5:12 - 13
+
+#### Jesús también tenía muchas cosas que decirles pero todavía no eran capaces de soportarlas. Juan 16:12
+
+#### Que tan importante es la leche pura de la mama lactante, no tiene que ser adulterada, con nada, sencillamente, la pureza de la palabra sin ningún tipo de adulterio, es como una leche materna adulterada con cafe, eso no será de beneficio a un niño recien nacido.
 
 ###  *para que por ella crezcan para salvación,*
 
+#### Como se crece en la salvación?, pues sencillamente con la leche, sin adulterar
+
+#### La leche sin adulterar nos llevará a crecer para la salvación.
+
+#### Como recien nacidos nos muestra que clamemos con vehemencia, con el fin de crecer en este camino de salvación.
+
+#### Es el deseo de Dios que todos podamos crecer en este caminar de fe en el aspecto de salvación (Santificación)
+
+#### En 1 Timoteo 2:4 nos muestra que lo que Dios quiere es que todos vengan al pleno conocimiento de la verdad. sin embargo aquí vemos este crecimiento para salvación mas desglosado, con un ejemplo materno
+
 ###  1 Pedro 2:3 *si es que han probado la bondad del Señor.*
 
-###  1 Pedro 2:4 *Y viniendo a Él, como a una piedra viva,*
+#### que tipo de condicional es este si?
+
+#### Claramente esta hablando a creyentes, osea que sies que han probado y si lo han hecho, pues ya conocen la bondad de DIos para con la justificación, ahora pues conocerán la bondad de DIos para con la santificación.
+
+## 1 Pedro 2:1-10 – Piedras vivas y piedra de escándalo
+
+###  1 Pedro 2:4 *Y viniendo a Él, como a una piedra viva, desechada por los hombres, pero escogida y preciosa delante de Dios,*
+
+#### Vinieron a el como una piedra viva, la cual desecharon, esta piedra es algo específico ante DIos, es algo completamente precioso delante de DIos.
+
+###  *Y viniendo a Él, como a una piedra viva,*
+
+#### Como es que es una piedra viva?
+
+#### Tiene algún sentido las piedras?
+
+#### Algo inerte tiene vida?
+
+#### A que se puede estar refiriendo, que el es una piedra viva?
 
 ###  *desechada por los hombres, pero escogida y preciosa delante de Dios,*
 
+#### Generalmente las piedras son utilizadas en la construcción de algo.
+
+#### Cuando uno rechaza una piedra es por que es defecuosa o con una forma que no se puede utilizar.
+
+#### muestran que rechazaron a la piedra escogida por DIos, y delante de DIos
+
 ###  1 Pedro 2:5 *también ustedes, como piedras vivas,*
+
+#### Tomando el ejemplo de La piedra viva desechada, Jesucristo, así tambien ustedes, con ese mismo ejemplo de piedra escogida por Dios.
 
 ###  *sean edificados como casa espiritual para un sacerdocio santo,*
 
+#### Ustedes piedras vivas iglesia, sean edificados como casa espiritual.
+
+#### Las piedras se utilizan en la constucción de edificios, ahora los creyentes forman parte de un edificio vivo, una casa espiritual,
+
+#### Un sacerdocio santo, tenían experiencia los judíos de sacerdotes, los cuales tenían que ofrecer sacrificios primeramente por sus delitos y pecados y despues por los de la nación, sin embargo aquí vemos un sacerdocio santo, los creyentes son llamados a participar de esto
+
 ###  *para ofrecer sacrificios espirituales aceptables a Dios*
+
+#### Solo los sacerdotes eran los mas adecuados para ofrecer sacrificios según la ley, sin embargo ahora los creyentes somos sacerdocio santo, con un propósito, ofrecer sacrificios ?, que clase de sacrificios? otra vez animales?, no ahora sacrificios espirituales,
+
+#### Como es que es un sacrificio espiritual?
+
+#### Estos sacrificios son aceptables a DIos, vemos que el proposito de los sacrificios animales que exigía la ley eran sombra de lo que había de venir, sin embargo ahora vemos sacrificos espirituales aceptables a Dios.
 
 ###  *por medio de Jesucristo.*
 
+#### Estos sacrificios espirituales, son únicamente aceptables por medio de Jesucristo, no hay otra manera, u otro medio para ofrecer sacrificios agradables al Dios eterno.
+
 ###  1 Pedro 2:6 *Pues esto se encuentra en la Escritura:*
+
+#### Vemos que pedro cita la escritura, de una piedra en Sion Isa. 28:16; Rom. 9:32, 33; 10:11
 
 ###  *«YO, PONGO EN SIÓN UNA PIEDRA ESCOGIDA, UNA PRECIOSA piedra ANGULAR, Y EL QUE CREA EN ÉL NO SERÁ AVERGONZADO».*
 
+#### Esta piedra escogida, es una piedra escogida precísamente por DIos mismo
+
+#### Esta piedra, es una preciosa piedra angular, de acuerdo con la historia estas piedras angulares eran dificultosas de conseguir, y escoger, debido a que eran la guía para la base en esquina de la casa, el arranque, y necesitaba ser completamente precisa en su diseño y función, era la parte mas importante del edificio, el cual empezaba ahí y terminaba ahí.
+
+#### Es interesante, Esta mención de Piedra es para el que crea, referiendose a Jesucristo, el que crea en Él,[Jesús] no sera avergonzado, haciendo referencia a la piedra escogida, angular.
+
 ###  1 Pedro 2:7 *Este precioso valor es, pues, para ustedes los que creen;*
+
+#### Los que creen en esta piedra, es de muchísimo y precioso valor,
+
+#### Los creyentes en jesucristo realmente valoran esta piedra angular y el valor que tiene.
 
 ###  *pero para los que no creen, «LA PIEDRA QUE DESECHARON LOS CONSTRUCTORES, ESA, EN PIEDRA ANGULAR SE HA CONVERTIDO»,*
 
+#### Vemos un contraste con los que rehusan a creer, no entienden el valor de esta piedra y tampoco su propósito.
+
+#### Esta piedra desecharon los constructores, referiendose a Israel, los que formaban parte del pueblo de Dios, ellos rechazaron la piedra más importante de la obra de Dios que estaba haciendo, para ellos era, y de ellos era, y por ellos vino Jesucristo, pero rechazaron la pieza mas importante de la obra que DIos estaba haciendo.
+
 ###  1 Pedro 2:8 *y, «PIEDRA DE TROPIEZO Y ROCA DE ESCÁNDALO».*
+
+#### Ellos categorizan esta piedra como una de tropiezo, es algo en lo que un judío tropieza, y lo bota mas lejos, por que no es bueno que este ahí, les hace tropezar en su camino.
+
+#### Esta roca de escándalo, es precisamente para ellos, sin embargo es un escándalo decir que esta piedra Jesucristo, forma parte del plan eterno de Dios, es motivo de gritos de impunidad o escandalizarse por esta piedra.
 
 ###  *Pues ellos tropiezan porque son desobedientes a la palabra,*
 
+#### Pedro expresa el motivo de tropiezo, con esta piedra, el problema no es la piedra, ni la forma, sinó el problema son los que tropiezan con ella, el problema es que son completamente desobedientes a la palabra,
+
+#### Los que profesaban estar en completo de acuerdo con la palabra, vemos tropezar y ser desobedientes con lo que Dios ha prometido,
+
+#### Es por eso que El evangelio es según las escrituras, y los que rechazan a Jesucristo la piedra angular, rechazan directamente la palabra y son desobedientes a ella. teniendo por piedra de Tropiezo y estorbo, a la parte mas importante del edificio que Dios dió a los edificadores.
+
 ###  *y para ello estaban también destinados.*
+
+#### Este destino para estos desobedientes estaba contemplado por Dios y profetizado anteriormente que no todos serían obedientes a la fe, al evangelio, a la palabra
+
+#### Es importante detallar los vasos preparados para la destrucción. El destino de los basos que iban a rechazar al mesías.
 
 ###  1 Pedro 2:9 *Pero ustedes son linaje escogido,*
 
+#### Los creyentes, son ahora linaje escogido. empezará a mencionar que es lo que son los creyentes en relación al mundo entero, Este linaje es totalmente escogido por DIos, 
+
+#### Como es que un creyente forma parte de los escogidos?, Efesios nos muestra como un creyente es parte de los escogidos En Cristo
+
 ###  *real sacerdocio,*
+
+#### Antes Israel tenía un sacerdocio sobre las cosas espirituales de Dios a todas las naciones, ahora nos muestra un sacerdocio, completamente real, o realeza.
+
+#### estos sacerdotes tambien tienes roles de sacerdocios, hacen sacrificios espirituales.
 
 ###  *nación santa,*
 
+#### Ahora formamos parte de una nación, los creyentes, la cual no es terrenal, sinó celestial, conforme a lo que Hebreos nos muestra por la fe, Abraham esperaba una ciudad que no era hecha por mano, y ahora andemos como peregrinos en esta tierra hasta llegar a la ciudad celestial.
+
 ###  *pueblo adquirido para posesión de Dios,*
+
+#### Este pueblo adquirido, con valor, con precio, fuimos adquiridos cada creyente. 1 Corintios 7:23
 
 ###  *a fin de que anuncien las virtudes de Aquel*
 
+#### El fin de adquirir a todos los creyentes, u el propósito de esto es anunciar las virtudes de aquel, Sea todo para darle gloria y honor a aquel que nos rescató de las tinieblas a su luz admirable, sea toda gloria honor a el.
+
 ###  *que los llamó de las tinieblas a Su luz admirable.*
+
+#### El nos ha llamado cuando eramos completamente tinieblas y ahora somos hijos de luz. 
+
+#### Podemos andar en la luz, y poco a poco ir dejando las tinieblas mientras andemos por fe, seremos transformados y hechos semejantes a la imagen de su hijo unigénito.
 
 ###  1 Pedro 2:10 *Ustedes en otro tiempo no eran pueblo, pero ahora son el pueblo de Dios;*
 
+#### Nos muestra el valor incalculable de ser ahora pueblo de Dios, como nación santa, escogida por Dios, que impresionante es ser el pueblo de Dios y manifestarse al mundo como lo que ya somos, una expresión pública de DIos.
+
+#### Va relacionado con el propósito de Dios desde la creación, el objetivo de fructificad y multiplicar la tierra sojuzgarla, era de que su imagen, la imagen de DIos llene toda la tierra,
+
+##### Desde la caída, vemos de nuevo el plan de Dios Con noe, Abraham y Moises,
+
+#### Ahora nos muestra que Ya somos pueblo de Dios y podemos reflejar su caracter, voluntad y amor por toda la tierra. formamos parte del pueblo de Dios, una nación que no es terrenal sinó celestial.
+
 ###  *no habían recibido misericordia, pero ahora han recibido misericordia.*
+
+#### Los que estaban alejados a los pactos, hemos sido acercados, ahora hemos recibido misericordia de aquel que nos llamó y nos rescató.
+
+# 1 pedro 2:11-amados absténganse de lo malo
+
+#### Considerando ahora todo lo que ya somos en Cristo y toda nuestra nueva identidad en el amado, pues podemos tomar esta instrucción por la fe
 
 ###  1 Pedro 2:11 *Amados, les ruego como a extranjeros y peregrinos,*
 
+#### Amados, los únicos amados de Dios son los que se encuentran en Cristo, Estos son amados por Causa de Su hijo, estamos revestidos de Cristo y cada creyente se considera un amado por Dios, esta ahora es su definición de un creyente, es un amado por Dios.
+
 ###  *que se abstengan de las pasiones carnales que combaten contra el alma.*
+
+#### Considerando todo lo anterior, un creyente puede abstenerse de las pasiones carnales, Sabemos que la carne no fue erradicada por completo, sinó que se podría decir, la lucha del creyente en Santificación, es luchar contra la carne, Sin embargo, 
+
+#### Efesios nos mostrara que solo hay dos maneras de andar, una por el espíritu y otra por la carne. no hay otra manera ú forma. ahora esta es una instrucción a los creyentes, el abstenerse de las pasiones carnales, que combaten contra el alma,
+
+#### En el contexto de Pedro pues considerar mi simiente incorruptible, y andar de esa manera, 
 
 ###  1 Pedro 2:12 *Mantengan entre los gentiles una conducta irreprochable,*
 
+#### Estas instrucciones prácticas serán visibles entre los gentiles, en una conducta irreprochable. Como es eso posible? Sencillamente es un andar diario, practico, considerando nuestra nueva realidad, identidad, la vista puesta en las cosas que son del espíritu, y el resultado es una conducta irreprochable.
+
 ###  *a fin de que en aquello que les calumnian como malhechores,*
+
+#### Es interesante notar, que a los creyentes se les calumnia como malhechores, por su conducta piadosa y sencilla, entre los gentiles.
+
+#### Esta calumnia como malhechores es sencillamente por profesar una fe en Jesucristo y vivir de una manera piadosa entre el mundo.
 
 ###  *ellos, por razón de las buenas obras de ustedes, al considerarlas,*
 
+#### Es por eso que puede ser demostrada, y visible a todos los gentiles en el mundo, sean creyentes o no, esto es algo visible, las buenas obras de ustedes, muy importante saber que un no creyente puede ver las buenas obras de los gentiles hechas en la fe del Hijo de Dios. para con los hombres
+
+#### De ninguna manera se insta a que en el momento de Creer, no hacer nada, Sencillamente se nos muestra que no somos salvos por algúna obra que nosotros haríamos, sinó somos salvos por la fe en el hijo de Dios.
+
+#### Ahora como creyentes se nos anima a que lo que profesamos, la piedad, tambien sea manifiesta y visible en el hijo de DIos para con todos los hombres. 
+
 ###  *glorifiquen a Dios en el día de la visitación.*
+
+#### Los no creyentes pueden considerar las buenas obras de los creyentes y glorificar a Dios en el Día de la visitación.
+
+#### Cual es este día?, Será Es una puerta abierta para el evangelio? Escuchar el evangelio y puedan glorificar a Dios?
+
+#### O Sencillamente será el día de Juicio en que los incredulos darán gloria por los enviados de DIos que llegaron a ellos y ellos los rechazaron este día?
+
+# 1 Pedro 2:13 - Habla del sometimiento
 
 ###  1 Pedro 2:13 *Sométanse, por causa del Señor, a toda institución humana,*
 
+#### Un importante motivo de Sometimiento a toda autoridad, es por causa del señor, 
+
+#### Considera el sometimiento, no es por que sean buenas autoridades, sino esto es por causa de Dios o Cristo, que te sometes a Toda institución humana,
+
+#### Menciona a toda institución humana, no menciona a solo algunas instituciones en las que yo esté de acuerdo, sino a toda institución humana.
+
 ###  *ya sea al rey como autoridad,*
 
+#### Como me puedo someter al Rey como a una autoridad?. Mucho peor si en caso el rey es un rey corrupto o tirano, como a impuesto por DIos?
+
+#### La escritura nos mostrará estar sujetos a nuestras autoridades por causa del Señor, cada creyente voluntariamente desea someterse a Dios, debido a que es bueno, sus mandamientos justos y buenos, sin embargo ningún creyente estaría dispuesto a someterse a un rey corrupto o tirano, sin embargo aquí les muestra un propósito mucho mayor, por causa del Señor. es necesario someternos al rey como autoridad.
+
 ###  1 Pedro 2:14 *o a los gobernadores*
+
+#### Como me someto a gobernadores totalmente errados y corruptos?, pues es en base a lo anterior, hay una causa mas importante por quien me someto, no a pecar, o ser llevado a pecar, en contra de mi fe, sino es una sujeción voluntaria por hacer lo correcto. considerando la ley de Dios es superior a la de los hombres.
 
 ###  *como enviados por él para castigo de los malhechores*
 
@@ -393,7 +583,7 @@ La Epístola de 1 Pedro es escrita a
 
 ###  *honren al rey.*
 
-## 1 Timoteo 2:18-25 Aprendiendo de siervos
+## 1 Pedro 2:18-25 Aprendiendo de siervos
 
 ###  1 Pedro 2:18 *Siervos,*
 
