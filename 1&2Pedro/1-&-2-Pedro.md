@@ -151,11 +151,11 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 
 #### "*Hecho nacer de nuevo*" ANAGENNAO - renovar; concebido como causante de un segundo nacimiento.[^1]
 
-###  1 Pedro 1:3d *mediante la resurrección de Jesucristo de entre los muertos,*
+###  1 Pedro 1:3d *mediante la resurrección de Jesucristo de entre los muertos,* ¿Como nos hizo nacer de nuevo a una esperanza viva? Mediante la resurrección de Jesucristo entre los muertos. 
 
-###  1 Pedro 1:4a  *para obtener una herencia,*
+###  1 Pedro 1:4a  *para obtener una herencia,* Parte de nuestra esperanza viva es que tenemos ya una herencia. 
 
-###  1 Pedro 1:4b *incorruptible, inmaculada y que no se marchitará, reservada en los cielos para ustedes.*
+###  1 Pedro 1:4b *incorruptible, inmaculada y que no se marchitará, reservada en los cielos para ustedes.* Es una herencia que no se contamina con el tiempo, no tiene falla ni se arruina. Esta herencia está guardada en los cielos. 
 
 #### Reservada TEREO (perfecto, pasivo, participio)
 
@@ -165,9 +165,9 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 
 #### protegidos FROUREO (presente, pasivo, particípio)
 
-###  1 Pedro 1:5b *para la salvación que está preparada para ser revelada en el último tiempo.* La salvación preparada para ser revelada en el último tiempo es la glorificación futura de cada creyente de la edad de la Iglesia.  1 Corintios 15:51-53
+###  1 Pedro 1:5b *para la salvación que está preparada para ser revelada en el último tiempo.* La salvación preparada para ser revelada en el último tiempo es la glorificación futura de cada creyente de la edad de la Iglesia. 1 Corintios 15:51-53
 
-Revelada APOCALIPTO (aoristo, pasivo, infinitivo)
+#### Revelada APOCALIPTO (aoristo, pasivo, infinitivo)
 
 ###  1 Pedro 1:6a  *En lo cual ustedes se regocijan grandemente,*
 
@@ -205,7 +205,7 @@ Revelada APOCALIPTO (aoristo, pasivo, infinitivo)
 
 ### 1 Pedro 1:12c *cosas a las cuales los ángeles anhelan mirar.*
 
-# 1 Pedro 1:13-25 – Preparados para la acción
+# 1 Pedro 1:13-25 – Preparando la mente para la acción
 
 ###  1 Pedro 1:13 *Por tanto, preparen su entendimiento para la acción.*
 
