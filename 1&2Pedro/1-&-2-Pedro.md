@@ -329,8 +329,6 @@ santo es HAGIOS - separado de la condición y uso común; dedicado. [^4]
 
 # 1 Pedro 2:1-10 – Creciendo en madurez
 
-###  1 Pedro 2:1  *Por tanto, desechando toda malicia, y todo engaño, e hipocresías, y envidias y toda difamación,*
-
 ###  1 Pedro 2:1a  *Por tanto, desechando toda malicia,*...
 
 #### Considerando la nueva realidad en la vida del creyente, sabiendo que fue purificado, nacido de simiente incorruptible, les anima a despojarse de todo lo malo.
@@ -357,39 +355,39 @@ santo es HAGIOS - separado de la condición y uso común; dedicado. [^4]
 
 #### Un creyente puede ser arrastrado por la hipocresía de otros, y ser engañado llegando hasta cauterizar su conciencia. Gálatas 2:13 ; 1 Timoteo 4:2
 
-###  *y envidias y toda difamación,*
+###  1 Pedro 2:1 *y envidias y toda difamación,*
 
 ###  1 Pedro 2:2 *deseen como niños recién nacidos, la leche pura de la palabra,*
 
-###  *para que por ella crezcan para salvación,*
+###  1 Pedro 2:2 *para que por ella crezcan para salvación,*
 
 ###  1 Pedro 2:3 *si es que han probado la bondad del Señor.*
 
 ###  1 Pedro 2:4 *Y viniendo a Él, como a una piedra viva,*
 
-###  *desechada por los hombres, pero escogida y preciosa delante de Dios,*
+###  1 Pedro 2:4 *desechada por los hombres, pero escogida y preciosa delante de Dios,*
 
 ###  1 Pedro 2:5 *también ustedes, como piedras vivas,*
 
-###  *sean edificados como casa espiritual para un sacerdocio santo,*
+###  1 Pedro 2:5 *sean edificados como casa espiritual para un sacerdocio santo,*
 
-###  *para ofrecer sacrificios espirituales aceptables a Dios*
+###  1 Pedro 2:5 *para ofrecer sacrificios espirituales aceptables a Dios*
 
-###  *por medio de Jesucristo.*
+###  1 Pedro 2:5 *por medio de Jesucristo.*
 
 ###  1 Pedro 2:6 *Pues esto se encuentra en la Escritura:*
 
-###  *«YO, PONGO EN SIÓN UNA PIEDRA ESCOGIDA, UNA PRECIOSA piedra ANGULAR, Y EL QUE CREA EN ÉL NO SERÁ AVERGONZADO».*
+###  1 Pedro 2:6 *«YO, PONGO EN SIÓN UNA PIEDRA ESCOGIDA, UNA PRECIOSA piedra ANGULAR, Y EL QUE CREA EN ÉL NO SERÁ AVERGONZADO».*
 
 ###  1 Pedro 2:7 *Este precioso valor es, pues, para ustedes los que creen;*
 
-###  *pero para los que no creen, «LA PIEDRA QUE DESECHARON LOS CONSTRUCTORES, ESA, EN PIEDRA ANGULAR SE HA CONVERTIDO»,*
+###  1 Pedro 2:7 *pero para los que no creen, «LA PIEDRA QUE DESECHARON LOS CONSTRUCTORES, ESA, EN PIEDRA ANGULAR SE HA CONVERTIDO»,*
 
 ###  1 Pedro 2:8 *y, «PIEDRA DE TROPIEZO Y ROCA DE ESCÁNDALO».*
 
-###  *Pues ellos tropiezan porque son desobedientes a la palabra,*
+###  1 Pedro 2:8 *Pues ellos tropiezan porque son desobedientes a la palabra,*
 
-###  *y para ello estaban también destinados.*
+###  1 Pedro 2:8 *y para ello estaban también destinados.*
 
 ###  1 Pedro 2:9 *Pero ustedes son linaje escogido,*
 
