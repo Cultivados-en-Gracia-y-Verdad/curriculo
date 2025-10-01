@@ -9,25 +9,29 @@ Title: 1 & 2 Pedro
 
 # Introducción 
 
-La Epístola de 1 Pedro es escrita a 
+La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe en Jesucristo. 
 
 # 1 Pedro 1:1-12 – Nuestra Esperanza Viva 
 
-###  1 Pedro 1:1 *Pedro,* Pedro firma la carta como autor del libro. 1 Pedro 5:1. ¿Quién es Pedro? 
+###  1 Pedro 1:1 *Pedro,* Pedro firma la carta como autor del libro. 1 Pedro 5:1. 
 
-#### Pedro era pescador, nacido en Betsaida. Juan 1:44
+####  ¿Quién es Pedro? 
 
-#### Según Lucas, Pedro se casó y tenía tenía casa en Capernaúm. Su suegra vivía con ellos. Su padre se llamaba Jonás. Lucas 4:31, 38-40
+##### Pedro, originalmente Simon, era pescador, nacido en Betsaida. Juan 1:42-44; Mateo 4:19
 
-#### Pedro era apostol a los judíos. 
+##### Pedro era casado y tenía casa en Capernaúm. Su suegra vivía con ellos. Su padre se llamaba Jonás. Lucas 4:31, 38-40
 
-#### Pedro era uno de tres discipulos que estuvieron presentes en tres eventos: 
+##### Pedro era uno de tres discipulos que estuvieron presentes en tres eventos: 
 
-##### Resucitación de la hija de Jairo. Marcos 5:37
+###### Resucitación de la hija de Jairo. Marcos 5:37
 
-##### La transfiguración de Jesús. Mateo 17:1
+###### La transfiguración de Jesús. Mateo 17:1
 
-##### La agonía de Jesús en el jardín de getsemani. Mateo 26:37
+###### La agonía de Jesús en el jardín de getsemani. Mateo 26:37
+
+##### Pedro era un apostol a los judíos. Gálatas 2:8
+
+##### Pedro naturalmente era pronto para hablar y actuar impulsivamente. Juan 18:10; Marcos 9:5-6
 
 ###  1 Pedro 1:1 *apóstol de Jesucristo:* Pedro es un apóstol de Jesucristo. Sus credenciales vienen de Jesucristo. Mateo 4:18 
 
@@ -35,7 +39,7 @@ La Epístola de 1 Pedro es escrita a
 
 #### Pedro había sido introducido a Jesús por su hermano Andrés. Juan 1:40-42
 
-## Pedro y el Papado
+## Pedro y el papado
 
 #### La conversación de Mateo 16. 
 
@@ -49,17 +53,37 @@ La Epístola de 1 Pedro es escrita a
 
 ##### Mateo 16:17b *...porque esto no te lo reveló carne ni sangre, sino Mi Padre que está en los cielos.* Simon, no había recibido esta revelación de su padre Jonás, sino del Padre celestial. 
 
-##### Mateo 16:18 *Yo también te digo que tú eres Pedro, y sobre esta roca edificaré Mi iglesia; y las puertas del Hades no prevalecerán contra ella.*
+##### Mateo 16:18 *Yo también te digo que tú eres Pedro* (piedrita), *y sobre esta roca* (roca enorme) *edificaré Mi iglesia; y las puertas del Hades no prevalecerán contra ella.*  Basado en la revelación que había recibido Pedro del Padre celestial acerca de quien es Jesús, Jesús le anuncia a Pedro sus planes a futuro. 
 
-##### Mateo 16:19 *Yo te daré las llaves del reino de los cielos; y lo que ates en la tierra, será atado en los cielos; y lo que desates en la tierra, será desatado en los cielos».*
+##### Parafraséando, Jesús le dijo a Pedro, "Eres solo una pequeña piedra, pero sobre esta enorme confesión (Jesus es el Cristo) que te reveló mi padre, voy a construir mi iglesia sobre ella”. 
+
+##### Mateo 16:19 *Yo te daré las llaves del reino de los cielos...*" Jesus le dice a Pedro que le daría las llaves del reino de los cielos. Algunos interpretan esto a decir que Pedro es el que está a la puerta del cielo con las llaves para prohibir o dejar ingresar al cielo. ¿Es esto a lo que se refiere este versículo? 
+
+###### Así como los candados te mantienen afuéra, la llaves de permiten ingresar. Llaves le dan a uno acceso. 
+
+###### Cuando Pedro dijo que Jesús era el Cristo, estaba diciendo que Jesús era el ungido, el prometido de Dios y el Rey. 
+
+###### Jesús le dice a Pedro que el, como Rey del reino. le entregaría las llaves para permitir el ingreso a ese reino. 
+
+###### Las llaves del cielo estan contrastadas con las puertas del Hades en Mateo 16:18. Mediante la predicación del evangelio, muy pronto Pedro abrirá la puerta a las personas para tener una entrada al reino de los cielos. 
+
+###### A Pedro se le dio el privilegio de tener la llave y abrir la puerta a los Judíos el día de Pentecostés (Hechos 2), a los samaritanos (Hechos 8), y a los gentiles (Hechos 10).
+
+##### Mateo 16:19b "*y lo que ates en la tierra, será atado en los cielos; y lo que desates en la tierra, será desatado en los cielos».*" Mateo 18:18
+
+###### Atar DEO obligar ⇔ ligar v. — obligar, concebido como atar o sujetar una obligación a alguien.[^1]
+
+##### Juan 20:23; Mateo 12:29-32
+
+##### La iglesia es edificada sobre los apostoles. Efesios 2:20
 
 ##### Mateo 16:20 *Entonces ordenó a los discípulos que a nadie dijeran que Él era el Cristo.*
 
-#### Las llaves. 
+### Otros argumentos
 
 #### Bíblicamente no se hace mención de Pedro en Roma. Cuando Pablo escribió a los hermanos en Roma, aunque menciona más de 12 personas, nunca mando saludos a Pedro. 
 
-#### Algunos argumentan que la mención de babilonia es un dato que alude a Roma ya que se usaba este apodo en literatura cristiana y judía. 1 Pedro 5:13
+##### Algunos argumentan que la mención de babilonia es un dato que alude a Roma ya que se usaba este apodo en literatura cristiana y judía. 1 Pedro 5:13
 
 ##### Pero Roma fue llamado así mayormente después de la destrucción del templo en el 70d.C. cuando ya Pedro estaba muerto. Según Jerónimo y Eusebio, Pedro murió en el año 67-68 d.C..
 
@@ -67,9 +91,13 @@ La Epístola de 1 Pedro es escrita a
 
 ###### La antigua ciudad de Babilonia estaba en ruinas para este tiempo. 
 
-#### Varios historiadores mencionan la presencia de Pedro y Pablo en Roma. Es posible que Pedro llegó a ser anciano en la iglesia en Roma. [^1]
+##### Varios historiadores mencionan la presencia de Pedro y Pablo en Roma. Es posible que Pedro llegó a ser anciano en la iglesia en Roma. [^1]
 
 ##### Pero el título de «papa» surge en Alejandría, ya que «Padre» es un título de respeto para el clero, y en particular para los obispos. Esto comienza alrededor del siglo III, y a principios del siglo IV la práctica se adopta en Roma. No fue hasta el siglo XII que se reservó para Roma en la Iglesia católica.[^2]
+
+#### Si Jesús hizo a Pedro el principal de los discipulos en este momento, ¿porque los vemos peleando a los discipulos después de la última cena sobre quien seria el mayor en el reino? Lucas 22:24
+
+#### Pablo claramente no creia que Pedro era el principal lider de la iglesia cuando lo condeno publicamente por su hipocrecía. Gálatas 2:11-14
 
 #### Ninguna conexion existe entre Pedro como anciano de Roma y el nombre de primer papa. Esta asosiación parece venir mucho después. 
 
@@ -81,23 +109,41 @@ La Epístola de 1 Pedro es escrita a
 
 ## Los recipientes de la carta
 
-###  1 Pedro 1:1a *A los expatriados,*
+###  1 Pedro 1:1a *A los expatriados,* la carta es escrita a los esparcidos DIASPORA de creyentes judios.
 
-###  1 Pedro 1:1b *de la dispersión en el Ponto, Galacia, Capadocia, Asia y Bitinia,*
+###  1 Pedro 1:1b *de la dispersión en el Ponto, Galacia, Capadocia, Asia y Bitinia,* Específicamente es escrito a los esparcidos DIASPORA ubicados modernamente en el norte de Turquía. 
 
-## Elegidos por el Espíritu para obediencia
+## 4 Aspectos que la Trinidad participa en la elección
 
-###  1 Pedro 1:1c *elegidos*
+###  1 Pedro 1:1c *elegidos* EKLEKTOS 
 
-###  1 Pedro 1:2 *según el previo conocimiento de Dios Padre,*
+#### Ser elegido significa que Dios te ha escogido para recibir Su gracia y misericordia. Pedro escribió esto pensando en los cristianos, que son parte de la familia de Dios. Ellos han sido elegidos por Dios para recibir Su amor especial.
 
-###  1 Pedro 1:2 *por la obra santificadora del Espíritu,*
+#### En pocas palabras, todos los que creen en Jesús son sus elegidos. Todos los que aceptan la invitación de Dios para ser salvos son unidos a Cristo y llamados “escogidos” o “elegidos”.
 
-###  1 Pedro 1:2 *para obedecer a Jesucristo y ser rociados con Su sangre:*
+###  1 Pedro 1:2 *según el previo conocimiento de Dios Padre,* El primer punto es que los elegidos son según el previo conocimiento de Dios. El ser elegidos es según el previo conocimiento de Dios. ¿Que conocimiento previo determina la elección? 
 
-## Gozo por la bendiciónes de Dios en Cristo
+###  1 Pedro 1:2 *por la obra santificadora del Espíritu,* El segundo punto es que los elegidos son por la obra santificadora del Espíritu. 
 
-###  1 Pedro 1:2 *Que la gracia y la paz les sean multiplicadas a ustedes.*
+###  1 Pedro 1:2 *para obedecer a Jesucristo y ser rociados con Su sangre:* El tercer punto de la elección es que es para obedecer a Jesucristo y ser rociados con Su sangre. 
+
+## En Síntesis (1 Pedro 1:1)
+
+### Pablo escribió la carta
+
+### Los dispersados en la zona que hoy conocemos como el norte de Turquía. 
+
+### los elegidos
+
+#### Dios el Padre establece el plan. Es según su conocimiento previo. 
+
+#### Dios el Espíritu Santo hace la obra de santificar para obediencia al Hijo. 
+
+####  Dios el Hijo provee la sangre para rociar. 
+
+## 1 Pedro 1:2-4 Gozo por la salvación pasada
+
+###  1 Pedro 1:2 *Que la gracia y la paz les sean multiplicadas a ustedes.* 
 
 ###  1 Pedro 1:3a *Bendito sea el Dios y Padre de nuestro Señor Jesucristo,*
 
@@ -107,13 +153,15 @@ La Epístola de 1 Pedro es escrita a
 
 ###  1 Pedro 1:3d *mediante la resurrección de Jesucristo de entre los muertos,*
 
-###  1 Pedro 1:4a  *para obtener una herencia ,*
+###  1 Pedro 1:4a  *para obtener una herencia,*
 
 ###  1 Pedro 1:4b *incorruptible, inmaculada y que no se marchitará, reservada en los cielos para ustedes.*
 
+## 1 Pedro 1:5-7 Gozo por la salvación futura
+
 ###  1 Pedro 1:5a  *Mediante la fe ustedes son protegidos por el poder de Dios,*
 
-###  1 Pedro 1:5b *para la salvación que está preparada para ser revelada en el último tiempo.*
+###  1 Pedro 1:5b *para la salvación que está preparada para ser revelada en el último tiempo.* 
 
 ###  1 Pedro 1:6a  *En lo cual ustedes se regocijan grandemente,*
 
@@ -125,6 +173,8 @@ La Epístola de 1 Pedro es escrita a
 
 ### 1 Pedro 1:7c *en la revelación de Jesucristo;*
 
+## 1 Pedro 1:8-9 Gozo por la salvación presente
+
 ### 1 Pedro 1:8a *a quien sin haber visto, ustedes lo aman,*
 
 ### 1 Pedro 1:8b *y a quien ahora no ven, pero creen en Él,*
@@ -132,6 +182,8 @@ La Epístola de 1 Pedro es escrita a
 ### 1 Pedro 1:8c *y se regocijan grandemente con gozo inefable y lleno de gloria,*
 
 ### 1 Pedro 1:9  *obteniendo, como resultado de su fe, la salvación de sus almas.*
+
+## 1 Pedro 1:10-12 Nuestra salvación anunciada
 
 ### 1 Pedro 1:10a  *Acerca de esta salvación, los profetas que profetizaron de la gracia que vendría a ustedes,*
 
@@ -1449,3 +1501,4 @@ ___-___
 
 [^1]:Wikipedia, https://en.wikipedia.org/wiki/Saint_Peter
 [^2]: Quora:  https://www.quora.com/When-was-Peter-first-called-a-pope
+[^3]: John D. Barry et al., The Faithful Study Bible (Bellingham, WA: Lexham Press, 2012, 2016), Matthew 16:19
