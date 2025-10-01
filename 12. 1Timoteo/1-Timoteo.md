@@ -5,7 +5,7 @@ ___-___
 # 1 Timoteo  
 ## La Iglesia del Dios Vivo
 
-El material de CGV es desarrollado para el uso libre de la iglesia. Nuestro animo es que sea de bendición para la iglesia. Este material esta diseñado para promover el discipulado dentro de la Iglesia local. Creemos que el mejor lugar para cumplir la Gran Comisión (discipular y enseñar) es dentro de la Iglesia. 
+El material de CGV es desarrollado para el uso libre de la iglesia. Nuestro animo es que sea de bendición para la iglesia. Este material esta diseñado para promover el discipulado dentro de la Iglesia local. Creemos que el mejor lugar para cumplir la Gran Comisión (discipular y enseñar) es por medio de la Iglesia bien equipada. 2 Timoteo 3:15-16
 
 www.discipuladocgv.org
 
@@ -157,7 +157,7 @@ www.discipuladocgv.org
 
 #### El ministerio del Espiritu Santo en el creyente seria de enseñar y recordar todas las __<u>cosas</u>__ que el Señor Jesucristo había dicho a sus discipulos. Juan 14:26
 
-#### Es por eso que cuando __<u>llegó</u>__ el Espiritu Santo en el día de pentecostés inició la obra y el ministerio de la predicación del evangelio. Hechos 2:1-4
+#### Es por eso que cuando __<u>llegó</u>__ el Espiritu Santo en el día de pentecostés inició la obra y el ministerio de la predicación del Evangelio. Hechos 2:1-4
 
 #### Hechos 2:41b "*...y se añadieron aquel día como 3,000 almas*".
 
@@ -167,7 +167,7 @@ www.discipuladocgv.org
 
 ### Hechos 1:8b "*...y serán __<u>Mis</u>__ testigos en Jerusalén, en toda Judea y Samaria, y hasta los confines de la tierra».*“ Con la llegada del Espíritu Santo Dios identificó a todo creyente como testigos de la obra de Jesucristo. Hechos 2:37-39; Juan 17:16; Juan 17:20
 
-#### __<u>Todo</u>__ creyente ha sido incluido para participar en lo que esta haciendo el Espíritu Santo por medio de la iglesia de alcanzar al mundo perdido por medio de la predicación del evangelio. Romanos 1:9; Filipenses 1:27
+#### __<u>Todo</u>__ creyente ha sido incluido para participar en lo que esta haciendo el Espíritu Santo por medio de la iglesia de alcanzar al mundo perdido por medio de la predicación del Evangelio. Romanos 1:9; Filipenses 1:27
 
 #### Juan 16:8-10 "*Y cuando él venga, convencerá al mundo de pecado, de justicia y de juicio. De pecado, por cuanto no creen en mí; de justicia, por cuanto voy al Padre, y no me veréis más; y de juicio, por cuanto el príncipe de este mundo ha sido ya juzgado*".
 
@@ -185,7 +185,7 @@ www.discipuladocgv.org
 
 #### Sin embargo, no debemos __<u>llegar</u>__ a la conclusión que Dios ha desechado a Su pueblo. Un día Dios retomará sus planes con la nación de Israel. Romanos 11:1-2
 
-### Hoy, la iglesia es el __<u>agente</u>__ que Dios esta usando para alcanzar a todas las naciones, incluyendo a la nación de Israel ya que el evangelio es el mensaje de Dios para todo el mundo. Romanos 11:14, 1:14; 1:16
+### Hoy, la iglesia es el __<u>agente</u>__ que Dios esta usando para alcanzar a todas las naciones, incluyendo a la nación de Israel ya que el Evangelio es el mensaje de Dios para todo el mundo. Romanos 11:14, 1:14; 1:16
 
 #### Efesios 3:10-11- "*para dar a conocer...de la sabiduría de Dios, por __<u>medio</u>__ de la Iglesia, conforme al plan eterno que ha realizado por medio de Cristo Jesús, Señor nuestro,*" 1 Timoteo 3:15
 
@@ -257,7 +257,7 @@ www.discipuladocgv.org
 
 #### El propósito principal de la iglesia está en la instrucción del Señor Jesucristo. La Gran Comisión. Ir y hacer discipulos __<u>incluye</u>__ evangelizar, discipular y encargar a hombres fieles a discipular a otros y establecer iglesias locales. Mateo 28:18-20, 2 Timoteo 2:2
 
-##### Es verdad que cada miembro de la __<u>iglesia</u>__ no debe descuidar la misión de anunciar y predicar el evangelio de la salvación. Marcos 16:15; Hechos 4:12.
+##### Es verdad que cada miembro de la __<u>iglesia</u>__ no debe descuidar la misión de anunciar y predicar el Evangelio de la salvación. Marcos 16:15; Hechos 4:12.
 
 ##### Pero una iglesia que no hace discipulos su fin es seguro, ya que no quedará nadie quien enseñe a __<u>guardar</u>__ todas las cosas que el Señor Jesucristo ha enseñado. Mateo 28:20; 2 Timoteo 2:2
 
@@ -351,7 +351,7 @@ www.discipuladocgv.org
 
 ##### Timoteo fue discipulado por Pablo (1 Timoteo 1:2). En Hechos 16:1-5, aprendemos que Timoteo tenía __<u>buen</u>__ testimonio delante de los hermanos en Listra e Iconio.
 
-##### Su __<u>labor</u>__ incluía la proclamación del evangelio, la enseñanza, la lectura de las Escrituras, el nombramiento de ancianos y diáconos, y la oposición a las falsas enseñanzas. Pablo le escribió, probablemente desde Macedonia, para animarlo en su fiel servicio a Cristo. 1 Timoteo 1:18 [^3]
+##### Su __<u>labor</u>__ incluía la proclamación del Evangelio, la enseñanza, la lectura de las Escrituras, el nombramiento de ancianos y diáconos, y la oposición a las falsas enseñanzas. Pablo le escribió, probablemente desde Macedonia, para animarlo en su fiel servicio a Cristo. 1 Timoteo 1:18 [^3]
 
 ##### Timoteo cumplió algún tiempo en la __<u>cárcel</u>__ por su fe en Jesucristo, y luego fue liberado. Hebreos 13:23
 
@@ -443,7 +443,7 @@ www.discipuladocgv.org
 
 #### La frase "*enseñaran doctrinas extrañas*" Es la palabra HETERODIDASKALEO. Significa enseñar "otra __<u>doctrina</u>__" o "desviarse de la verdad". 
 
-#### Debemos comprender que cualquier tipo de enseñanza que cambie el evangelio o que vaya en __<u>contra</u>__ de la escritura es considerada una doctrina extraña. 1 Corintios 15:3-4; Gálatas 1:6-9
+#### Debemos comprender que cualquier tipo de enseñanza que cambie el Evangelio o que vaya en __<u>contra</u>__ de la escritura es considerada una doctrina extraña. 1 Corintios 15:3-4; Gálatas 1:6-9
 
 #### La enseñanza en la __<u>iglesia</u>__ no debe provenir de un lugar que no sea, La Palabra de Dios correctamente entendida dentro de su contexto. 
 
@@ -617,11 +617,11 @@ www.discipuladocgv.org
 
 #### __<u>Sana</u>__ doctrina literalmente significa enseñanza saludable. 
 
-### 1 Timoteo 1:11a "*según el glorioso evangelio del Dios bendito...*" Aqui tenemos un termino muy asombroso, la __<u>sana</u>__ doctrina es "*segun el glorioso evangelio*".
+### 1 Timoteo 1:11a "*según el glorioso Evangelio del Dios bendito...*" Aqui tenemos un termino muy asombroso, la __<u>sana</u>__ doctrina es "*segun el glorioso Evangelio*".
 
-#### Si cambiamos el evangelio, __<u>deja</u>__ de haber una enseñanza saludable para la iglesia.
+#### Si cambiamos el Evangelio, __<u>deja</u>__ de haber una enseñanza saludable para la iglesia.
 
-### 1 Timoteo 1:11b "*que me ha sido encomendado...*" Jesucristo encomendó el mensaje del evangelio a __<u>Pablo</u>__. Gálatas 1:11-12
+### 1 Timoteo 1:11b "*que me ha sido encomendado...*" Jesucristo encomendó el mensaje del Evangelio a __<u>Pablo</u>__. Gálatas 1:11-12
 
 ## En Síntesis (1 Timoteo 1:8-11)
 
@@ -629,7 +629,7 @@ www.discipuladocgv.org
 
 ### El propósito que sirve la ley es para guíar a los __<u>injustos</u>__ (incredulos) a Cristo. 1 Timoteo 1:8-11; Gálatas 3:24
 
-### Vemos que la sana __<u>doctrina</u>__ (doctrina que sana) es según del evangelio de Dios.
+### Vemos que la sana __<u>doctrina</u>__ (doctrina que sana) es según del Evangelio de Dios.
 
 #### La única enseñanza que lleva al creyente al __<u>amor</u>__ AGAPE es la sana doctrina, no La Ley. 
 
@@ -665,7 +665,7 @@ www.discipuladocgv.org
 
 #### Sin embargo, ahora desde la perspectiva divina, Pablo ve que era blasfemo (difamador), perseguidor y __<u>agresor</u>__ (violento a creyentes inocentes). Gálatas 1:13
 
-### 1 Timoteo 1:13b "*Sin embargo, se me mostró misericordia porque lo hice por ignorancia en mi incredulidad...*" Pablo estaria recibiendo misericordia al ser encomendado como Apóstol __<u>para</u>__ proclamar y enseñar el evangelio.
+### 1 Timoteo 1:13b "*Sin embargo, se me mostró misericordia porque lo hice por ignorancia en mi incredulidad...*" Pablo estaria recibiendo misericordia al ser encomendado como Apóstol __<u>para</u>__ proclamar y enseñar el Evangelio.
 
 ### 1 Timoteo 1:13c "*porque lo hice por ignorancia en mi incredulidad...*" En la ignorancia de su incredulidad, esto mostrado __<u>como</u>__ un ferviente ceso y devocion por Dios, Pablo persiguió a la iglesia plenamente convencido de que estaba haciendo la voluntad de Dios.
 
@@ -745,7 +745,7 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 1:18a "*Esta comisión te confío, hijo Timoteo...*" Aquí __<u>vemos</u>__ la relación de un padre espiritual a su hijo. 1 Timoteo 1:2
 
-#### Una comisión es una instrucción. A Pablo le fue confiado el evangelio para ser comisionado (Apostol). 1 Timoteo 1:5, 11
+#### Una comisión es una instrucción. A Pablo le fue confiado el Evangelio para ser comisionado (Apostol). 1 Timoteo 1:5, 11
 
 #### Pablo encarga esta comisión que recibió a Timoteo. 2 Timoteo 4:5, 1 Timoteo 4:14
 
@@ -937,7 +937,7 @@ www.discipuladocgv.org
 
 #### Es interesante saber que podemos orar por los que gobiernan con el fin para tener __<u>vidas</u>__ tranquilas mientras estamos en este mundo caótico y lleno de maldad. 1 Tesalonicenses 4:11-12
 
-##### La abilidad de abiertamente demostrar a traves de palabra y piedad es una bendición que aporta en la comunicación del evangelio. 
+##### La abilidad de abiertamente demostrar a traves de palabra y piedad es una bendición que aporta en la comunicación del Evangelio. 
 
 ### 1 Timoteo 2:2d "*con toda piedad y dignidad*..." Es bueno orar por las autoridades para que los creyentes podamos vivir tranquilamente en una manera de vivir piadosa y digna sin __<u>estorbo</u>__. 
 
@@ -975,7 +975,7 @@ www.discipuladocgv.org
 
 ###### Para los reyes en el tiempo de Pablo, (Nerón en este caso), era requisito adorarlo como salvador. El emperador era salvador de la gente proveyendoles paz, orden, prosperidad y protección. 
 
-###### El mismo Dios nuestro salvador (1 Timoteo 1:1) que comisionó a Pablo, le es agradable que andemos de forma piadosa y digna porque es una excelente forma de recomendar el evangelio a otros. 
+###### El mismo Dios nuestro salvador (1 Timoteo 1:1) que comisionó a Pablo, le es agradable que andemos de forma piadosa y digna porque es una excelente forma de recomendar el Evangelio a otros. 
 
 #### En resumen, Pablo dice, ofrescan toda clase de oraciónes por toda clase de personas ultimadamente para la salvación de ellos. Efesios 6:18-20
 
@@ -983,101 +983,103 @@ www.discipuladocgv.org
 
 ## 1 Timoteo 2:4 - Dos aspectos impactantes de la voluntad de Dios
 
-### 1 Timoteo 2:4 ''*el cual quiere que todos los hombres sean salvos y vengan al pleno conocimiento de la verdad*''. Podemos ver lo que Dios __<u>quiere</u>__ para todos los hombres.
+### 1 Timoteo 2:4a ''*el cual quiere que todos los hombres sean salvos y vengan al pleno conocimiento de la verdad*''. Podemos ver lo que Dios __<u>quiere</u>__ para todos los hombres. Es el deseo de Dios que todos sean salvos. No es necesario que ningún hombre o mujer sean separados eternamente de Dios. 
 
-### 1 Timoteo 2:4a "*el cual quiere*..." La palabra quiere THELO nos indica el __<u>deseo</u>__ o voluntad.
+### 1 Timoteo 2:4b "*el cual quiere*..." La palabra quiere THELO nos indica el __<u>deseo</u>__ o voluntad.
 
-#### Contrastando podemos ver lo que Dios no quiere, el no quiere la muerte del __<u>impío</u>__, sino que se arrepienta METANOIA - cambiar de mente. Ezequiel 18:23, 32; 2 Pedro 3:9
+#### Contrastando podemos ver lo que Dios no quiere, el no quiere la muerte del __<u>impío</u>__, sino que se arrepienta METANOIA - cambiar de mente. Ezequiel 18:21-23, 32; 2 Pedro 3:9
 
-### 1 Timoteo 2:4b "*que todos los hombres sean salvos*..." **El primer aspecto de la voluntad de Dios** es que desea que __<u>todos</u>__ sean salvos. 
+### 1 Timoteo 2:4c "*que todos los hombres sean salvos*..." **El primer aspecto de la voluntad de Dios** es que desea que __<u>todos</u>__ sean salvos. 
 
-#### La pregunta es ¿__<u>cómo</u>__ quiere Dios que los hombres sean salvos?
+#### Dios quiere que los hombres sean salvos. Dios es todopoderoso para salvarlos. Entonces, ¿__<u>cómo</u>__ quiere Dios que los hombres sean salvos?
 
 ##### El quiere que todos los hombres sean salvos por medio de la fe en Jesucristo, por medio de __<u>creer</u>__ en el Evangelio. Hechos 4:12
 
-##### El no quiere que sean salvos obligadamente, o predeterminadamente sino el hizo posible la salvación por __<u>medio</u>__ de confiar en el anuncio de una buena noticia y creerla de manera libre.
+##### El no quiere que sean salvos obligadamente, o predeterminadamente sino el hizo posible la salvación por __<u>medio</u>__ de confiar en el anuncio de una buena noticia y creerla de manera libre. Romanos 10:14-17
 
 #### La salvación no es __<u>algo</u>__ que se pueda ganar o merecer.
 
-##### No es por la "*obras de fe*" que uno es __<u>salvo</u>__. Efesios 2:9, Romanos 3:20. Gálatas 3:10
+##### No es por la "*obras de fe*" que uno es __<u>salvo</u>__. Efesios 2:9; Romanos 3:20; Gálatas 3:10
 
 ##### No es por "*obras de caridad*" que __<u>uno</u>__ se salva. Hechos 10:31-33, 11:4-18
 
 ##### No es por "*obras de benevolencia*" que uno __<u>consigue</u>__ salvación. Romanos 4:6
 
-##### No es por __<u>obras</u>__ que uno "*confirma*" su salvación. Hechos 7:40-41. Romanos 9:32
+##### No es por __<u>obras</u>__ que se "*confirma*" la salvación. Hechos 7:40-41; Romanos 9:32
 
-##### No es ni siquiera por las mejores ''*obras de justicia*'' lo mas justo que hubiéramos __<u>hecho</u>__ para salvarnos. Tito 3:5
+##### No es ni siquiera por las mejores ''*obras de justicia*'' lo mas justo que hubiéramos __<u>hecho</u>__ para salvarnos. Tito 3:5; Isaias 64:6
 
 #### La salvación es la obra que Dios hizo por gracia, recibida únicamente a los que __<u>creen</u>__ en el Evangelio. Gálatas 3:2
 
-#### Dios espera que todos las personas puedan responder positivamente en su decisión de creer en el mensaje del evangelio anunciado por __<u>medio</u>__ de vasos de barro, hombres sencillos.
+##### Dios espera que todos las personas puedan responder positivamente en su decisión de creer en el mensaje del Evangelio anunciado por __<u>medio</u>__ de vasos de barro, hombres sencillos.
 
-#### Pablo pidió que a los creyentes que __<u>oren</u>__ por tranquilidad civil para poder vivir piadosamente. ¿Porqué? 
+#### Ahora podemos entender porque es bueno y agradable a Dios que el creyente sea piadoso y digno porque promueve a que se cumpla la voluntad de Dios.
 
 #### Entendemos que el Espíritu __<u>Santo</u>__ convence al mundo de justicia, juicio y pecado. Juan 16:8-10
 
-#### La __<u>iglesia</u>__ no tiene potestad de salvar a las personas, pero si puede andar de una manera que sea agradable al Señor, de manera que aún los no creyentes pueden ver la conducta piadosa de los creyentes y ser llevados a conocer el evangelio.
+##### Dios se agrada de la vida del creyente que vive piadosamente ante los incrédulos porque promueve su voluntad que todos los hombres sean salvos. 
+
+##### Dios se agrada de la vida del creyente que vive piadosamente ante otros creyentes porque promueve al pleno conocimiento de Dios.
+
+#### La __<u>iglesia</u>__ no tiene potestad de salvar a las personas, pero si puede andar de una manera que sea agradable al Señor, de manera que aún los no creyentes pueden ver la conducta piadosa de los creyentes y ser llevados a conocer el Evangelio.
 
 ## Una breve explicación de la soberanía en relación a la voluntad de Dios
 
 ### La voluntad de Dios no __<u>debe</u>__ confundirse con la soberanía de Dios.
 
-#### Un aspecto de la soberanía de Dios es: lo que El se propone hacer, lo hace. Sabemos que Dios queire que todos los hombres sean salvos. Sin embargo no __<u>vemos</u>__ que todos los hombres son salvos y vengan al conocimiento de la verdad. ¿qué pasó? 
+#### Un aspecto de la soberanía de Dios es: lo que El se propone hacer, lo hace. Sabemos que Dios queire que todos los hombres sean salvos. Sin embargo no __<u>vemos</u>__ que todos los hombres son salvos y vengan al conocimiento de la verdad. ¿qué pasó? ¿Será que Dios no es todopoderoso? 
 
 ##### Dios soberanamente propuso salvar a las personas por el medio de la fe en Jesucristo. 
 
-##### Dios soberanamente eligió usar agentes humanos (la iglesia) para que por el medio de la predicación del evangelio puedan ser salvos. 1 Corintios 1:21; Romanos 10:17
+##### Dios soberanamente eligió usar agentes humanos (la iglesia) para que por el medio de la predicación del Evangelio puedan ser salvos. 1 Corintios 1:21; Romanos 10:17
 
 ##### Dios soberanamente eligió usar El Espíritu Santo para convencer al mundo. Eligió principalmente usar a la iglesia. Juan 16:7-15
 
-##### Dios también uso Su derecho como soberano para establecer que la salvación sea solo para los que creen. Es decir, ningún ser humano es salvo por obligación. El hombre debe responder creyendo el evangelio para ser salvo. 
+##### Dios también uso Su derecho como soberano para establecer que la salvación sea solo para los que creen. Es decir, ningún ser humano es salvo por obligación. El hombre debe responder creyendo el Evangelio para ser salvo. 
 
 #### Dios quiere, anhela, desea (es Su voluntad) que todos sean salvos. 
 
 ##### Dios envió a Su Hijo al mundo para que todo el mundo sea salvo. Jesucristo murio por todos. 
 
-##### Sin embargo, aún después de haber escuchado el evangelio de la gracia de Dios, no todos responden creyendo en Jesucristo. Dios soberanamente hizo que el hombre voluntariamente pueda rechazar. Es libre de hacerlo. 
+##### Sin embargo, aún después de haber escuchado el Evangelio de la gracia de Dios, no todos responden creyendo en Jesucristo. Dios soberanamente hizo que el hombre voluntariamente pueda rechazar. Es libre de hacerlo. 
 
 #### Entonces, concluimos que la voluntad de Dios no contradice la soberanía de Dios y la soberanía de Dios no entorpece la voluntad de Dios. 
 
-### 1 Timoteo 2:4c "*y vengan al pleno conocimiento de la verdad*..." El __<u>segundo</u>__ aspecto de la voluntad de Dios es que desea que todas las personas que El salva lleguen a un conocimiento pleno de la verdad. Gálatas 2:5; Efesios 4:15; Colosenses 1:5
+### 1 Timoteo 2:4d "*y vengan al pleno conocimiento de la verdad*..." El __<u>segundo</u>__ aspecto de la voluntad de Dios es que desea que todas las personas que El salva lleguen a un conocimiento pleno de la verdad. Gálatas 2:5; Efesios 4:15; Colosenses 1:5
 
 #### La palabra *vengan* ERJOMAI es un verbo que se encuentra en tiempo aoristo, activo, infinitivo, dando a entender una __<u>acción</u>__ iniciada en un punto del tiempo que se muestra de manera continua, estén viniendo activamente, es un proceso que vayan conociendo la verdad.
 
 #### La palabra *pleno conocimiento* es EPIGNOSIS o también pleno discernimiento, contiene una preposición EPI, que significa acertado o apropiado y GNOSIS conocimiento. __<u>Enseña</u>__ un conocimiento completamente acertado y un pleno discernimiento. 
 
-#### Dios no solo __<u>quiere</u>__ que seamos salvos y que conozcamos teóricamente de El, sino que seamos plenamente capaces para comprender y discernir toda la verdad, esa es Su voluntad. Romanos 10:2; Colosenses 1:9-10; Efesios 1:16-18, 3:18-19
+#### Dios no __<u>solo</u>__ quiere que seamos salvos y que conozcamos teóricamente de El, sino que seamos plenamente capaces para comprender y discernir toda la verdad, esa es Su voluntad. Romanos 10:2; Colosenses 1:9-10; Efesios 1:16-18, 3:18-19
 
-##### 2 Tesalonicenses 2:14 "*a lo cual os llamó mediante nuestro evangelio, para alcanzar la gloria de nuestro Señor Jesucristo.*" 
+##### 2 Tesalonicenses 2:14 "*a lo cual os llamó mediante nuestro Evangelio, para alcanzar la gloria de nuestro Señor Jesucristo.*" 
 
-##### Dios quiere que sus hijos conozcan varias verdades fundamentales: Juan 15:15
+#### Dios quiere enseñarles a Sus hijos varias verdades fundamentales: Juan 15:15
 
-###### **Sobre su nueva identidad** - Son sus hijos, adoptados en su familia mediante la fe en Jesucristo, y esta identidad les brinda seguridad de pertenencia y amor. Son perdonados de sus pecados mediante el sacrificio de Jesús, y este perdón está disponible para todos los que se arrepienten y creen (vease 100 verdades de nuestra identidad en Cristo). 1 Pedro 1:23; Juan 1:12; 2 Corintios 5:17; Colosenses 3:3; Efesios 2:6
+##### **Sobre su nueva identidad** - Son sus hijos, adoptados en su familia mediante la fe en Jesucristo, y esta identidad les brinda seguridad de pertenencia y amor. __<u>Son</u>__ perdonados de sus pecados mediante el sacrificio de Jesús, y este perdón está disponible para todos los que se arrepienten y creen (vease 100 verdades de nuestra identidad en Cristo). 1 Pedro 1:23; Juan 1:12; 2 Corintios 5:17; Colosenses 3:3; Efesios 2:6
 
-###### **Sobre su nueva relación con Él** - El amor de Dios por ellos es incondicional e inquebrantable, no depende de su comportamiento ni de sus logros, y nada puede separarlos de este amor. Él desea que sepan que nunca están solos, pues promete estar siempre con ellos, enviando a su Espíritu Santo para que more en ellos y los guíe. Juan 1:12; Gálatas 2:20
+##### **Sobre su nueva relación con Él** - El __<u>amor</u>__ de Dios por ellos es incondicional e inquebrantable, no depende de su comportamiento ni de sus logros, y nada puede separarlos de este amor. Él desea que sepan que nunca están solos, pues promete estar siempre con ellos, enviando a su Espíritu Santo para que more en ellos y los guíe. Juan 1:12; Gálatas 2:20
 
-###### **Sobre su nuevo propósito en la vida** - También quiere que comprendan que fueron creados para buenas obras, preparados por Él de antemano y llamados a vivir con rectitud y a glorificarlo en todo lo que hacen. Además, Dios desea que sus hijos sepan que están hechos a su imagen, que son una creación única y valiosa con un propósito, y que Él tiene buenos planes para sus vidas. 1 Pedro 2:9; Efesios 2:10; 1 Corintios 6:19-20
+##### **Sobre su nuevo propósito en la vida** - También quiere que comprendan que fueron creados para buenas obras, preparados por Él de antemano y llamados a vivir con rectitud y a glorificarlo en todo lo que hacen. Además, Dios desea que sus hijos __<u>sepan</u>__ que están hechos a su imagen, que son una creación única y valiosa con un propósito, y que Él tiene buenos planes para sus vidas. 1 Pedro 2:9; Efesios 2:10; 1 Corintios 6:19-20
 
-###### Dios quiere que lo conozcan personal e íntimamente, ya que el verdadero conocimiento de Él es el camino a la vida eterna, incluyendo esperanza y un futuro. También deben saber que Dios es fiel, está presente en todas las circunstancias. 
+##### Dios quiere que lo conozcan personal e íntimamente, ya que el verdadero conocimiento de Él es el camino a la __<u>vida</u>__ eterna, incluyendo esperanza y un futuro. También deben saber que Dios es fiel, está presente en todas las circunstancias. 
 
-## 1 Timoteo 2:5-7 - El ministerio de Pablo
+##### 1 Pedro 4:19 "*Así que los que sufren **conforme a la voluntad de Dios**, encomienden sus almas al fiel Creador, haciendo el bien*".
 
-### Pablo explica su __<u>rol</u>__ de Apóstol y maestro en el evangelio.
+## 1 Timoteo 2:5-6 - El rol de Jesucristo el hombre en relación a la voluntad del Padre
 
-### 1 Timoteo 2:5 "*Porque hay un __<u>solo</u>__ Dios, y también un solo Mediador entre Dios y los hombres, Cristo Jesús hombre,*
+### 1 Timoteo 2:5a "*Porque hay un __<u>solo</u>__ Dios, y también un solo Mediador entre Dios y los hombres, Cristo Jesús hombre,*" Este pasaje nos __<u>muestra</u>__ que Dios es único y también su mediador es único. No existe otro mediador fuera de Jesucristo.
 
-#### Este pasaje nos __<u>muestra</u>__ que Dios es único y también su mediador es único. No existe otro mediador fuera de Jesucristo.
+### 1 Timoteo 2:5b "*Porque hay un solo Dios*..." Un pleno conocimiento de la verdad empieza por __<u>saber</u>__ que hay un solo Dios. Hechos 14:15
 
-### 1 Timoteo 2:5a "*Porque hay un solo Dios*..." Un pleno conocimiento de la verdad empieza por __<u>saber</u>__ que hay un solo Dios. Hechos 14:15
-
-### 1 Timoteo 2:5b "...*y también un solo Mediador entre Dios y los hombres...*" Un entendimiento __<u>pleno</u>__ de la verdad es que existe un solo mediador entre Dios y el hombre. Hebreos 8:6, 9:15
+### 1 Timoteo 2:5c "...*y también un solo Mediador entre Dios y los hombres...*" Un entendimiento __<u>pleno</u>__ de la verdad es que existe un solo mediador entre Dios y el hombre. Hebreos 8:6, 9:15
 
 #### Jesús afirma que no __<u>existe</u>__ otro medio para ir al Padre. Juan 14:6
 
 #### El es nuestro __<u>único</u>__ intercesor ante el Padre. Romanos 8:34
 
-### 1 Timoteo 2:5c "*Cristo Jesús hombre...*" el único y solo __<u>mediador</u>__ es Cristo Jesús el hombre (completamente humano). 
+### 1 Timoteo 2:5d "*Cristo Jesús hombre...*" el único y solo __<u>mediador</u>__ es Cristo Jesús el hombre (completamente humano). 
 
 #### Cuando Jesús hablaba se presentaba como el hijo del hombre expresando su naturaleza humana y profecía con __<u>respecto</u>__ al mesías venidero. Marcos 14:62
 
@@ -1087,21 +1089,25 @@ www.discipuladocgv.org
 
 #### Jesucristo-Hombre es el __<u>único</u>__ que podría sustituirnos de manera perfecta, hebreos nos aclara que la sangre de toros no era un sustituto adecuado. Hebreos 10:4-14
 
-### 1 Timoteo 2:6a "*quien se dio a sí mismo en rescate por todos*" Un entendimiento pleno de su voluntad es que lleguemos a comprender que Dios (Cristo Jesús hombre) se dio a sí __<u>mismo</u>__ para rescatarnos a todos. Filipenses 2:7; Romanos 15:3; 1 Corintios 15:3; Gálatas 1:4; Hebreos 7:27
+### 1 Timoteo 2:6a "*quien se dio a sí mismo en rescate por todos*" Un entendimiento pleno de Su voluntad es que lleguemos a comprender que Dios (Cristo Jesús hombre) se dio a Sí __<u>mismo</u>__ para rescatarnos a todos. Filipenses 2:7; Romanos 15:3; 1 Corintios 15:3; Gálatas 1:4; Hebreos 7:27
 
-#### Este pasaje nos expresa que el __<u>rescate</u>__ realizado por medio de él, fue por hecho para toda la humanidad. 1 Juan 2:2; 2 Corintios 5:15
+#### Este pasaje nos expresa que el __<u>rescate</u>__ realizado por medio de El, fue por hecho para toda la humanidad. 1 Juan 2:2; 2 Corintios 5:15
 
-### 1 Timoteo 2:6b "*testimonio dado a su debido tiempo...*" este testimonio de rescate __<u>hecho</u>__ por Jesucristo fue realizado en un tiempo específico planificado por el Padre y llegó a cumplirse. Marcos 1:15; Gálatas 4:4
+### 1 Timoteo 2:6b "*testimonio dado a su debido tiempo...*" este testimonio de rescate __<u>hecho</u>__ por Jesucristo fue realizado en un tiempo específico planificado por el Padre y llegó a cumplirse literalmente. Marcos 1:15; Gálatas 4:4
 
 #### La palabra *testimonio* es MARTURION, que es __<u>donde</u>__ viene nuestra palabra mártir. 
 
 #### El testimonio es un __<u>relato</u>__ o una declaración que una persona hace para afirmar la veracidad de algo que ha visto, experimentado o de lo que tiene conocimiento. 
 
-#### Una traducción mas literal nos da a __<u>entender</u>__ mejor el significado de testimonio. "*El cual se dio a sí mismo en rescate por todos, Cuyo testimonio fue dado en sus propios tiempos.*"(BTX4)
+#### Una traducción mas literal nos ayuda __<u>entender</u>__ mejor el significado de testimonio. "*El cual se dio a sí mismo en rescate por todos, cuyo testimonio fue dado en sus propios tiempos.*" (BTX4)
 
 #### El testimonio de Jesucristo es la obra que el hizo por nosotros en la Cruz, este es el testimonio que los creyentes __<u>confirman</u>__. 1 Corintios 1:6; 2 Tesalonicenses 1:10; 1 Timoteo 2:6; 2 Timoteo 1:8; Apocalipsis 1:2
 
-### 1 Timoteo 2:7a "*Y para esto yo fui constituido predicador y apóstol,*" El Apóstol Pablo hace una afirmación con __<u>respecto</u>__ al propósito de enseñar a los creyentes los misterios concernientes a la iglesia y la vida de piedad entre los hermanos.
+## 1 Timoteo 2:7 El ministerio de Pablo en relación a la voluntad del Padre
+
+### Pablo explica su __<u>rol</u>__ de Apóstol y proclamador del Evangelio.
+
+### 1 Timoteo 2:7a "*Y para esto yo fui constituido predicador y apóstol...*" El Apóstol Pablo hace una afirmación con __<u>respecto</u>__ al propósito de enseñar a los creyentes los misterios concernientes a la iglesia y la vida de piedad entre los hermanos.
 
 #### Al Apóstol Pablo se le concedió esta gracia con un rol importante __<u>para</u>__ la iglesia. Efesios 3:8; 1 Timoteo 1:11; 2 Timoteo 1:11
 
@@ -1113,17 +1119,17 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 2:7c "*como maestro de los gentiles en fe y verdad...*" Dios estableció a Pablo como maestro para __<u>enseñar</u>__ el pleno conocimiento de la verdad. Hechos 9:15
 
-## 1 Timoteo 2:8 - En base a la voluntad de Dios, Pablo desea una vida piadosa de los creyentes
+## 1 Timoteo 2:8 - Conociendo ahora la voluntad de Dios, Pablo continua a los varones creyentes mostrando la necesidad de una vida piadosa
 
 ### La vida piadosa ha llegado a tener una __<u>mala</u>__ fama en esta generación torcida y perversa.
 
 ### Podemos ver que las religiones en el mundo instan a formar piedad para ganar de alguna manera la salvación, sin __<u>embargo</u>__ no vemos esto en la Biblia. 
 
-### Entendemos que no somos salvos por una conducta u obras piadosas sino únicamente por __<u>medio</u>__ de la fe en el evangelio. 
+### Entendemos que no somos salvos por una conducta u obras piadosas sino únicamente por __<u>medio</u>__ de la fe en el Evangelio. 
 
 ### La vida piadosa en el creyente es un resultado de Cristo en nosotros y es de mucho valor ante Dios y ante los hombres que __<u>pueden</u>__ observar esto y estar dispuestos a escuchar este mensaje de salvación. 
 
-### 1 Timoteo 2:8 ''*Por tanto, quiero que en todo lugar los hombres oren levantando manos santas, sin ira ni discusiones.*'' El deseo Pablo es que el creyente en cualquier lugar exprese una actitud santa __<u>demostrando</u>__ el carácter propio de un hombre de piedad.
+### 1 Timoteo 2:8 ''*Por tanto, quiero que en todo lugar los hombres oren levantando manos santas, sin ira ni discusiones*''. El deseo Pablo es que el creyente en cualquier lugar exprese una actitud santa __<u>demostrando</u>__ el carácter propio de un hombre de piedad.
 
 #### El deseo de Pablo es que __<u>todo</u>__ creyente en todo lugar manifieste lo que ya es en Cristo, sea en las iglesias o en todas partes. 1 Corintios 1:2; 2 Corintios 2:14; 1 Tesalonicenses 1:8
 
@@ -1149,7 +1155,7 @@ www.discipuladocgv.org
 
 ##### La palabra *discusiones* DIALOGISMOS es __<u>debate</u>__ — discusión en la que se exponen razones a favor y en contra de alguna proposición o propuesta.[^35] Colosenses 3:8
 
-## 1 Timoteo 2:9-15 - En base a la voluntad de Dios, Pablo desea una vida piadosa a las mujeres creyentes. 
+## 1 Timoteo 2:9-15 - Conociendo la voluntad de Dios, Pablo llama a una vida piadosa a las mujeres creyentes. 
 
 ### 1 Timoteo 2:9 "*Asimismo, que las mujeres se vistan con ropa decorosa, con pudor y modestia, no con peinado ostentoso, no con oro, o perlas, o vestidos costosos,*" Después de hablar del __<u>actuar</u>__ de los hombres en la adoración pública, ahora Pablo se dirige a las mujeres creyentes que profesan piedad al mundo. 
 
@@ -1655,7 +1661,7 @@ www.discipuladocgv.org
 
 #### Los ángeles fueron testigos a __<u>través</u>__ de la vida de Jesús. Efesios 3:10
 
-##### 1 Pedro 1:12 "*A ellos les fue __<u>revelado</u>__ que no se servían a sí mismos, sino a ustedes, en estas cosas que ahora les han sido anunciadas mediante los que les predicaron el evangelio por el Espíritu Santo enviado del cielo; cosas a las cuales los ángeles anhelan mirar*".
+##### 1 Pedro 1:12 "*A ellos les fue __<u>revelado</u>__ que no se servían a sí mismos, sino a ustedes, en estas cosas que ahora les han sido anunciadas mediante los que les predicaron el Evangelio por el Espíritu Santo enviado del cielo; cosas a las cuales los ángeles anhelan mirar*".
 
 ##### Ángeles fueron testigos de Su nacimiento (Lucas 2:9-14), Su tentación en el desierto (Mateo 4:11), Su __<u>agonía</u>__ en el jardín (Lucas 22:43) y Su resurrección (Mateo 28:5-6).
 
@@ -2075,7 +2081,7 @@ www.discipuladocgv.org
 
 #### por esa causa __<u>Pablo</u>__ la describe como 1 Timoteo 5:6c “*… aún viviendo, está muerta*”.
 
-#### En este pasaje podemos encontrar 2 verdades fundamentales del evangelio que la iglesia no debería __<u>olvidar</u>__. 
+#### En este pasaje podemos encontrar 2 verdades fundamentales del Evangelio que la iglesia no debería __<u>olvidar</u>__. 
 
 #### *Primero*: Que Pablo diga que “*aún viviendo*” nos muestra la fidelidad de Dios sobre la salvación por __<u>medio</u>__ de la fe en el Evangelio. Juan 5:24
 
@@ -2447,7 +2453,7 @@ www.discipuladocgv.org
 
 #### Esto va mas alla de las apariencias. El vivir en piedad como creyentes empleados es utlizado por Dios __<u>para</u>__ con los inconversos que observan. Es tan poderoso ya que no hablan mal del nombre de Dios y lo que enseñamos. 
 
-#### El caso contrario tambien es posible, el nombre de Dios puede ser blasfemado, asi como el evangelio por __<u>causa</u>__ de los mismos creyentes.
+#### El caso contrario tambien es posible, el nombre de Dios puede ser blasfemado, asi como el Evangelio por __<u>causa</u>__ de los mismos creyentes.
 
 ### 1 Timoteo 6:2a "*Y los que tienen amos que son creyentes, no les falten el respeto, porque son hermanos,*" Esta aclaración es importante porque puede ser que el esclavo (empleado) que es tan afortunado de tener un __<u>amo</u>__ creyente quiera tomar esa relación a la lijera. 
 

@@ -73,8 +73,6 @@ La Epístola de 1 Pedro es escrita a
 
 #### Ninguna conexion existe entre Pedro como anciano de Roma y el nombre de primer papa. Esta asosiación parece venir mucho después. 
 
-
-
 #### Pedro era uno de los Apostoles del cordero. Mucho más que ser el papa. Pedro es uno entre muchos, nunca fué colocado encima en ningún momento excepto por su personalidad de ser un lider natural.  
 
 ## Su muerte
