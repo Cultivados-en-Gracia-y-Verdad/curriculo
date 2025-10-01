@@ -11,6 +11,10 @@ Title: 1 & 2 Pedro
 
 La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe en Jesucristo. 
 
+## Contexto cultural/histórico
+
+
+
 # 1 Pedro 1:1-12 – Nuestra Esperanza Viva 
 
 ###  1 Pedro 1:1 *Pedro,* Pedro firma la carta como autor del libro. 1 Pedro 5:1. 
@@ -71,7 +75,7 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 
 ##### Mateo 16:19b "*y lo que ates en la tierra, será atado en los cielos; y lo que desates en la tierra, será desatado en los cielos».*" Mateo 18:18
 
-###### Atar DEO obligar ⇔ ligar v. — obligar, concebido como atar o sujetar una obligación a alguien.[^1]
+###### Atar DEO - obligar, concebido como atar o sujetar una obligación a alguien.[^1]
 
 ##### Juan 20:23; Mateo 12:29-32
 
@@ -109,17 +113,13 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 
 ## Los recipientes de la carta
 
-###  1 Pedro 1:1a *A los expatriados,* la carta es escrita a los esparcidos DIASPORA de creyentes judios.
+###  1 Pedro 1:1a *A los expatriados, de la dispersión* la carta es escrita a los extranjeros temporales PAREPIDEMOS de creyentes judios esparcidos.1 Pedro 5:14
 
-###  1 Pedro 1:1b *de la dispersión en el Ponto, Galacia, Capadocia, Asia y Bitinia,* Específicamente es escrito a los esparcidos DIASPORA ubicados modernamente en el norte de Turquía. 
+###  1 Pedro 1:1b *en el Ponto, Galacia, Capadocia, Asia y Bitinia,* Específicamente es escrito a los esparcidos ubicados modernamente en el norte de Turquía. 1 Pedro 2:11
 
 ## 4 Aspectos como la Trinidad participa en la elección
 
-###  1 Pedro 1:1c *elegidos* EKLEKTOS 
-
-#### Ser elegido significa que Dios te ha escogido para recibir Su gracia y misericordia. Pedro escribió esto pensando en los cristianos, que son parte de la familia de Dios. Ellos han sido elegidos por Dios para recibir Su amor especial.
-
-#### En pocas palabras, todos los que creen en Jesús son sus elegidos. Todos los que aceptan la invitación de Dios para ser salvos son unidos a Cristo y llamados “escogidos” o “elegidos”.
+###  1 Pedro 1:1c *elegidos* EKLEKTOS escogidos. 1 Pedro 2:9
 
 ###  1 Pedro 1:2 *según el previo conocimiento de Dios Padre,* El primer punto es que los elegidos son según el previo conocimiento de Dios. El ser elegidos es según el previo conocimiento de Dios. ¿Que conocimiento previo determina la elección? 
 
@@ -143,13 +143,11 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 
 ## 1 Pedro 1:2-4 Gozo por la salvación pasada
 
-###  1 Pedro 1:2 *Que la gracia y la paz les sean multiplicadas a ustedes.* 
+###  1 Pedro 1:2 *Que la gracia y la paz les sean multiplicadas a ustedes.* El deseo de Pedro a sus lectores es que Dios multiplique Su gracia y paz a ellos. 
 
-###  1 Pedro 1:3a *Bendito sea el Dios y Padre de nuestro Señor Jesucristo,*
+###  1 Pedro 1:3a *Bendito sea el Dios y Padre de nuestro Señor Jesucristo,* Pedro bendice a Dios el Padre quien compartimos en Jesucristo. 
 
-###  1 Pedro 1:3b *quien según Su gran misericordia,*
-
-###  1 Pedro 1:3c *nos ha hecho nacer de nuevo a una esperanza viva,* Tito 1:2; 1 Pedro 1:21
+###  1 Pedro 1:3b *quien según Su gran misericordia, nos ha hecho nacer de nuevo a una esperanza viva* Bendice al Padre porque ha sido por Su gran misericordia que El no hizo nacer de nuevo y así tener en el una esperanza viva. Tito 1:2; 1 Pedro 1:21
 
 #### "*Hecho nacer de nuevo*" ANAGENNAO - renovar; concebido como causante de un segundo nacimiento.[^1]
 
@@ -163,7 +161,7 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 
 ## 1 Pedro 1:5-7 Gozo por la salvación futura
 
-###  1 Pedro 1:5a  *Mediante la fe ustedes son protegidos por el poder de Dios,*
+###  1 Pedro 1:5a  *Mediante la fe ustedes son protegidos por el poder de Dios,* 1 Pedro 5:10
 
 #### protegidos FROUREO (presente, pasivo, particípio)
 
@@ -207,7 +205,7 @@ Revelada APOCALIPTO (aoristo, pasivo, infinitivo)
 
 ### 1 Pedro 1:12c *cosas a las cuales los ángeles anhelan mirar.*
 
-# 1 Pedro 1:13-25 – Vivir a la luz de la esperanza futura
+# 1 Pedro 1:13-25 – Preparados para la acción
 
 ###  1 Pedro 1:13 *Por tanto, preparen su entendimiento para la acción.*
 
@@ -221,7 +219,7 @@ Revelada APOCALIPTO (aoristo, pasivo, infinitivo)
 
 ###  1 Pedro 1:15 *sino que así como Aquel que los llamó es Santo,*
 
-santo es HAGIOS - separado de la condición y uso común; dedicado. [^4]
+#### santo es HAGIOS - separado de la condición y uso común; dedicado. [^4]
 
 ###  1 Pedro 1:15 *así también sean ustedes santos en toda su manera de vivir.*
 
