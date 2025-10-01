@@ -441,7 +441,7 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 1:3b "*...para que instruyeras a algunos que no enseñaran doctrinas extrañas...*" Algunos en la congregación __<u>estaban</u>__ enseñando una doctrina diferente al mensaje de la Biblia. 
 
-#### La frase "*enseñaran doctrinas extrañas*" Es la palabra HETERODIDASKALEO. Significa enseñar "otra __<u>doctrina</u>__" o "desviarse de la verdad". 
+#### La frase "*enseñaran doctrinas extrañas*" Es la palabra HETERODIDASKALEO. Significa enseñar "otra __<u>doctrina</u>__" o "desviarse de la verdad"[^7]. 
 
 #### Debemos comprender que cualquier tipo de enseñanza que cambie el Evangelio o que vaya en __<u>contra</u>__ de la escritura es considerada una doctrina extraña. 1 Corintios 15:3-4; Gálatas 1:6-9
 
@@ -465,7 +465,7 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 1:4d "*lo que da lugar a discusiones inútiles*". El resultado de enseñar fabulas y genealogías interminables es que lleva a __<u>disputar</u>__ inútilmente entre los hermanos. Tito 1:10
 
-#### La frase "discusiones inútiles" es EKZETESIS. La palabra significa sobre investigación de las __<u>cosas</u>__. 
+#### La frase "discusiones inútiles" es EKZETESIS. La palabra significa sobre investigación de las __<u>cosas</u>__.[^7] 
 
 #### Es sin provecho que la __<u>iglesia</u>__ se ocupe en la sobre investigación de cosas inútiles.
 
@@ -591,7 +591,7 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 1:9e "*para los irreverentes y __<u>profanos</u>__...*"
 
-#### Los irreverentes, aunque parece repetitivo esta palabra se distingue en el griego con ANOSIOS, __<u>alguien</u>__ sin respeto a lo establecido por Dios a diferencia de su persona.
+#### Los irreverentes, aunque parece repetitivo esta palabra se distingue en el griego con ANOSIOS, __<u>alguien</u>__ sin respeto a lo establecido por Dios a diferencia de su persona.[^7]
 
 #### Los profanos, también llamados mundanos, __<u>contiene</u>__ la idea de traspasar lo sagrado o santo, contaminándolo.  
 
@@ -793,9 +793,9 @@ www.discipuladocgv.org
 
 ## Introducción
 
-### Para algunos cristianos, la disciplina eclesiástica parece contradecir la esencia __<u>misma</u>__ de la historia bíblica. ¿Acaso el Evangelio no se centra en Jesús dando la bienvenida a los recaudadores de impuestos y pecadores? [^10]
+### Para algunos cristianos, la disciplina eclesiástica parece contradecir la esencia __<u>misma</u>__ de la historia bíblica. ¿Acaso el Evangelio no se centra en Jesús dando la bienvenida a los recaudadores de impuestos y pecadores? 
 
-#### ¿No estamos retrocediendo el tiempo y sometiendo a los creyentes de nuevo a la ley si empezamos a excluir a personas de la __<u>iglesia</u>__ por ciertos pecados? [^11]
+#### ¿No estamos retrocediendo el tiempo y sometiendo a los creyentes de nuevo a la ley si empezamos a excluir a personas de la __<u>iglesia</u>__ por ciertos pecados? 
 
 ### Como veremos, la disciplina de Dios a Su pueblo es parte integral de toda la historia bíblica, __<u>desde</u>__ el Edén hasta la Nueva Creación. 
 
@@ -803,15 +803,15 @@ www.discipuladocgv.org
 
 ### En el principio, Dios creó a Adán y a Eva. Los trajo consigo y los unió. Los puso en el jardín que había preparado para __<u>ellos</u>__. Caminó con ellos y habló con ellos cara a cara. Génesis 1:26-28, 2:4-25
 
-### Pero no duró. Adán y Eva pecaron, y Dios les impuso una sentencia de muerte y los desterró. Los expulsó __<u>hacia</u>__ el este, de Su jardín y lejos de Su presencia. Esto fue la disciplina de Dios a Adán y Eva. [^12] Génesis 3:1-24
+### Pero no duró. Adán y Eva pecaron, y Dios les impuso una sentencia de muerte y los desterró. Los expulsó __<u>hacia</u>__ el este, de Su jardín y lejos de Su presencia. Esto fue la disciplina de Dios a Adán y Eva.  Génesis 3:1-24
 
 ## Disciplina en el desierto
 
 ### A pesar de las asombrosas obras que Dios realizó ante los ojos de Israel, no creyeron y se quejaron. Se negaron a __<u>confiar</u>__ en que el Dios que rompió sus cadenas pudiera llenar sus estómagos. Éxodo 16-17; Números 11
 
-### Se negaron a __<u>confiar</u>__ en que el Dios que venció a Faraón pudiera controlar a los enemigos que se les presentaban. [^13] Números 14
+### Se negaron a __<u>confiar</u>__ en que el Dios que venció a Faraón pudiera controlar a los enemigos que se les presentaban.  Números 14
 
-### Dios disciplina a su pueblo para que __<u>aprenda</u>__ a no depender de sí mismo ni correr tras otros dioses, sino a buscarlo todo y encontrarlo todo en él. [^14]
+### Dios disciplina a su pueblo para que __<u>aprenda</u>__ a no depender de sí mismo ni correr tras otros dioses, sino a buscarlo todo y encontrarlo todo en él. 
 
 ## Disciplina para evitar la destrucción
 
@@ -819,17 +819,17 @@ www.discipuladocgv.org
 
 ### Les dio una ley que no solo debía asegurar su obediencia, sino también gobernar su sociedad. Bajo el pacto mosaico, Dios responsabilizó a Israel ante esta ley y autorizó al gobierno humano de Israel a __<u>imponer</u>__ las sanciones correspondientes por la deserción del pacto. 
 
-### Los falsos profetas debían ser ejecutados (Deuteronomio 13:1-5), al igual que los idólatras (Deuteronomio 13:6-18, 17:2-7). El objetivo de Dios al autorizar al pueblo a __<u>ejecutar</u>__ a los idólatras era "*purgar al malvado*" persona malvada "*de en medio de ustedes*".[^15]
+### Los falsos profetas debían ser ejecutados (Deuteronomio 13:1-5), al igual que los idólatras (Deuteronomio 13:6-18, 17:2-7). El objetivo de Dios al autorizar al pueblo a __<u>ejecutar</u>__ a los idólatras era "*purgar al malvado*" persona malvada "*de en medio de ustedes*".
 
-### En el pacto mosaico, Dios también empleó otros medios de disciplina. Si el pueblo no obedecía, amenazaba con enfermedad y derrota (Levítico 26:14-17). Si no se arrepentían, Dios prometía una __<u>mayor</u>__ "disciplina" que consistía en arruinar su tierra y quebrantar su fuerza (Levítico 26:18-20). Y otras consecuencias aún más terribles les aguardaban si el pueblo persistía en la rebelión.[^16]
+### En el pacto mosaico, Dios también empleó otros medios de disciplina. Si el pueblo no obedecía, amenazaba con enfermedad y derrota (Levítico 26:14-17). Si no se arrepentían, Dios prometía una __<u>mayor</u>__ "disciplina" que consistía en arruinar su tierra y quebrantar su fuerza (Levítico 26:18-20). Y otras consecuencias aún más terribles les aguardaban si el pueblo persistía en la rebelión.
 
 #### Levítico 26:21-39; __<u>véase</u>__ "disciplina" en los versículos 23 (enmiendan) y 28 (castigaré)
 
-### Toda esta disciplina tenía como objetivo evitar el desastre del exilio. Dios disciplinó a su pueblo __<u>para</u>__ ofrecerle un salvavidas ante un juicio aún mayor.[^17]
+### Toda esta disciplina tenía como objetivo evitar el desastre del exilio. Dios disciplinó a su pueblo __<u>para</u>__ ofrecerle un salvavidas ante un juicio aún mayor.[^7]
 
 ## La disciplina por exilio
 
-### Pero Israel falló su intento. A lo largo de cientos de años, a pesar de las advertencias de __<u>docenas</u>__ de profetas, el pueblo rechazó persistentemente a Dios y se negó a hacer Su voluntad. Así que Dios finalmente impuso las sanciones del pacto, primero a Israel en el norte, y luego a Judá en el sur.[^18] Levítico 26; Deuteronomio 28; 2 Reyes 17:1-23, 25:1-21
+### Pero Israel falló su intento. A lo largo de cientos de años, a pesar de las advertencias de __<u>docenas</u>__ de profetas, el pueblo rechazó persistentemente a Dios y se negó a hacer Su voluntad. Así que Dios finalmente impuso las sanciones del pacto, primero a Israel en el norte, y luego a Judá en el sur. Levítico 26; Deuteronomio 28; 2 Reyes 17:1-23, 25:1-21
 
 ### Como Israel se negó a __<u>confiar</u>__ a Dios, Dios les impuso una especie de sentencia capital (Levítico 26:38; Deuteronomio 4:27). Entonces Dios los desterró. Los expulsó hacia el este, de su tierra y lejos de su presencia. Levítico 26:24
 
@@ -849,7 +849,7 @@ www.discipuladocgv.org
 
 ### Pero también provee nuevos medios para preservar la pureza de su pueblo. Además de la provisión interna del Espíritu, Dios __<u>provee</u>__ el apoyo externo de la rendición de cuentas de la iglesia. 
 
-#### Ahora, quienes afirman ser el pueblo de Dios, pero cuyas vidas contradicen esa afirmación, son advertidos, exhortados, suplicados y, si es necesario, excluidos de la membresía de la iglesia.[^23] Mateo 18:15-17; 1 Corintios 5:1-13; 2 Corintios 2:5-8; Tito 3:10-11
+#### Ahora, quienes afirman ser el pueblo de Dios, pero cuyas vidas contradicen esa afirmación, son advertidos, exhortados, suplicados y, si es necesario, excluidos de la membresía de la iglesia. Mateo 18:15-17; 1 Corintios 5:1-13; 2 Corintios 2:5-8; Tito 3:10-11
 
 ### La enseñanza del Nuevo Testamento sobre la disciplina eclesiástica presupone que los miembros de la iglesia __<u>profesan</u>__ la fe en Cristo y que sus vidas suelen confirmar esa afirmación. 
 
@@ -861,7 +861,7 @@ www.discipuladocgv.org
 
 ### Cuando regrese Cristo para reinar, la Iglesia ya no necesitará disciplina. Veremos a Cristo cara a __<u>cara</u>__ y seremos como él (1 Juan 3:1-2). La disciplina que Dios aplica a su pueblo ahora —ya sea la disciplina formativa de la enseñanza y la formación, la disciplina correctiva de la reprensión o la exclusión, o la disciplina providencial de la persecución y las dificultades— tiene como objetivo nuestra conformidad con Cristo, que un día se perfeccionará. 
 
-### La disciplina que Dios ha aplicado a su pueblo a lo largo de la historia siempre ha tenido __<u>como</u>__ objetivo su restauración y transformación, y un día esa transformación será completa.[^24]
+### La disciplina que Dios ha aplicado a su pueblo a lo largo de la historia siempre ha tenido __<u>como</u>__ objetivo su restauración y transformación, y un día esa transformación será completa.
 
 ### Sin embargo durante el Milenio, las naciones si recibirán disciplina por no venir a adorar al rey en la __<u>fiesta</u>__ de tabernáculos. La disciplina será no tener lluvia por un año. Zacarías 14:16-19
 
@@ -875,15 +875,15 @@ www.discipuladocgv.org
 
 ### ¿Qué aprendemos de Dios y su manera de disciplinar a __<u>través</u>__ de la historia?
 
-### En __<u>primer</u>__ lugar, de este lado del juicio final, todo acto de disciplina divina tiene como objetivo reformar y renovar a Su pueblo. De este lado del juicio final, ningún juicio es definitivo.[^26]
+### En __<u>primer</u>__ lugar, de este lado del juicio final, todo acto de disciplina divina tiene como objetivo reformar y renovar a Su pueblo. De este lado del juicio final, ningún juicio es definitivo.
 
 #### A través de la larga y tortuosa historia de Dios con Su pueblo, a menudo desobediente, a menudo ha recurrido a la disciplina para sacarnos del estupor pecaminoso. El objetivo siempre fue el arrepentimiento (__<u>cambio</u>__ de mente) y la renovación espiritual. De igual manera, cuando excluimos a alguien de la iglesia, no estamos anunciando su destino final, sino advirtiéndole de lo que podría ser. Excluir a alguien de la comunión con los santos, no es anunciar su condenación final, sino buscar evitarla. 
 
-#### Cuando excluimos a alguien, debemos __<u>seguir</u>__ trabajando, orando y esperando su arrepentimiento, renovación y restauración.[^27]
+#### Cuando excluimos a alguien, debemos __<u>seguir</u>__ trabajando, orando y esperando su arrepentimiento, renovación y restauración.
 
 ### En segundo lugar, incluso al disciplinar a su __<u>pueblo</u>__, Dios distingue entre ellos y el mundo. En Jeremías, Dios promete a las naciones un fin definitivo; le promete a su pueblo un nuevo comienzo. 
 
-#### Este es un pronóstico temporal de destinos eternos. Todos los que se oponen a Dios sufrirán el "fin definitivo" del __<u>castigo</u>__ eterno; todos los que confían en Cristo experimentarán el nuevo comienzo eterno de la nueva creación.[^28]
+#### Este es un pronóstico temporal de destinos eternos. Todos los que se oponen a Dios sufrirán el "fin definitivo" del __<u>castigo</u>__ eterno; todos los que confían en Cristo experimentarán el nuevo comienzo eterno de la nueva creación.
 
 ### En tercer lugar, Dios “nos disciplina para nuestro bien, para que participemos de su santidad” (Hebreos 12:10). La disciplina de Dios nos beneficia; __<u>busca</u>__ un bien mucho mayor del que solemos aceptar. 
 
@@ -893,7 +893,7 @@ www.discipuladocgv.org
 
 ### El amor no siempre se siente agradable, la bondad no siempre es indulgente y la tolerancia no siempre es una __<u>virtud</u>__. Un "no" suele ser la respuesta más amorosa que un padre, un líder o una iglesia puede dar. 
 
-#### Y si ese "no" no se escucha, entonces no es cruel, sino amoroso, seguir el __<u>ejemplo</u>__ de Dios y obedecer sus instrucciones al disciplinar a alguien ahora, con la esperanza de que sea salvo en el día final.[^32]
+#### Y si ese "no" no se escucha, entonces no es cruel, sino amoroso, seguir el __<u>ejemplo</u>__ de Dios y obedecer sus instrucciones al disciplinar a alguien ahora, con la esperanza de que sea salvo en el día final.
 
 # 1 Timoteo 2:1-15 - Entendiendo lo que Dios quiere
 
@@ -941,11 +941,11 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 2:2d "*con toda piedad y dignidad*..." Es bueno orar por las autoridades para que los creyentes podamos vivir tranquilamente en una manera de vivir piadosa y digna sin __<u>estorbo</u>__. 
 
-#### La palabra *piedad* es EUSEBIA tiene el sentido de llevar una vida buena, justa y __<u>moral</u>__ ante los hombres. Es vivir según estandares y valores. 
+#### La palabra *piedad* es EUSEBIA tiene el sentido de llevar una vida buena, justa y __<u>moral</u>__ ante los hombres. Es vivir según estandares y valores.[^7] 
 
 ##### Cuando hablamos de piedad, esencialmente es una vida formada por la verdad. 1 Timoteo 4:7-8, 6:11; Tito 1:1
 
-#### *dignidad* SEMNOTES muestra la honorabilidad o seriedad en el diario andar de uno, una vida venerable __<u>digna</u>__ de respeto. 
+#### *dignidad* SEMNOTES muestra la honorabilidad o seriedad en el diario andar de uno, una vida venerable __<u>digna</u>__ de respeto.[^7] 
 
 #### Hoy en día, palabras como piedad y dignidad son manejados con mucho cuidado porque abunda el tipo de piedad que es solo externo y visible. Jesús habló bastante sobre la hipocresía de los fariseos. Ellos mostraban piedad pero solo era una apariencia. Mateo 6:5, 23:25, 27; Marcos 7:6
 
@@ -955,7 +955,7 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 2:3 "*Porque esto es __<u>bueno</u>__ y agradable delante de Dios nuestro Salvador*..." Con referente a lo anterior podemos ver que la piedad y dignidad en el andar de un creyente es visto de buena __<u>manera</u>__ ante Dios. 1 Pedro 2:13-17; 1 Timothy 5:4
 
-#### "*Agradable*" EUPROSDEKTOS es ser recibido con mucho gusto y gran placer.
+#### "*Agradable*" EUPROSDEKTOS es ser recibido con mucho gusto y gran placer.[^7]
 
 #### La piedad y dignidad es la razón por la cual oramos por todos los que están en lugares de liderazgo civil y nacional. Esto podría parecer una petición bastante extraña si no entendemos porque. 
 
@@ -985,7 +985,7 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 2:4a ''*el cual quiere que todos los hombres sean salvos y vengan al pleno conocimiento de la verdad*''. Podemos ver lo que Dios __<u>quiere</u>__ para todos los hombres. Es el deseo de Dios que todos sean salvos. No es necesario que ningún hombre o mujer sean separados eternamente de Dios. 
 
-### 1 Timoteo 2:4b "*el cual quiere*..." La palabra quiere THELO nos indica el __<u>deseo</u>__ o voluntad.
+### 1 Timoteo 2:4b "*el cual quiere*..." La palabra quiere THELO nos indica el __<u>deseo</u>__ o voluntad.[^7]
 
 #### Contrastando podemos ver lo que Dios no quiere, el no quiere la muerte del __<u>impío</u>__, sino que se arrepienta METANOIA - cambiar de mente. Ezequiel 18:21-23, 32; 2 Pedro 3:9
 
@@ -1087,7 +1087,7 @@ www.discipuladocgv.org
 
 #### Sin embargo vemos una línea de sangre real (Humana) desde David, cumpliendo así las promesas __<u>hechas</u>__ en el antiguo testamento a David y a Judá. Mateo 1:1; Romanos 1:3
 
-#### Jesucristo-Hombre es el __<u>único</u>__ que podría sustituirnos de manera perfecta, hebreos nos aclara que la sangre de toros no era un sustituto adecuado. Hebreos 10:4-14
+#### Jesucristo-hombre es el __<u>único</u>__ que podría sustituirnos de manera perfecta, hebreos nos aclara que la sangre de toros no era un sustituto adecuado. Hebreos 10:4-14
 
 ### 1 Timoteo 2:6a "*quien se dio a sí mismo en rescate por todos*" Un entendimiento pleno de Su voluntad es que lleguemos a comprender que Dios (Cristo Jesús hombre) se dio a Sí __<u>mismo</u>__ para rescatarnos a todos. Filipenses 2:7; Romanos 15:3; 1 Corintios 15:3; Gálatas 1:4; Hebreos 7:27
 
@@ -1097,9 +1097,9 @@ www.discipuladocgv.org
 
 #### La palabra *testimonio* es MARTURION, que es __<u>donde</u>__ viene nuestra palabra mártir. 
 
-#### El testimonio es un __<u>relato</u>__ o una declaración que una persona hace para afirmar la veracidad de algo que ha visto, experimentado o de lo que tiene conocimiento. 
+##### Un testimonio es un __<u>relato</u>__ o una declaración que una persona hace para afirmar la veracidad de algo que ha visto, experimentado o de lo que tiene conocimiento. 
 
-#### Una traducción mas literal nos ayuda __<u>entender</u>__ mejor el significado de testimonio. "*El cual se dio a sí mismo en rescate por todos, cuyo testimonio fue dado en sus propios tiempos.*" (BTX4)
+#### Una traducción mas literal nos ayuda __<u>entender</u>__ mejor el significado de testimonio. "*El cual se dio a sí mismo en rescate por todos, cuyo testimonio fue dado en sus propios tiempos*". (BTX4)
 
 #### El testimonio de Jesucristo es la obra que el hizo por nosotros en la Cruz, este es el testimonio que los creyentes __<u>confirman</u>__. 1 Corintios 1:6; 2 Tesalonicenses 1:10; 1 Timoteo 2:6; 2 Timoteo 1:8; Apocalipsis 1:2
 
@@ -1119,23 +1119,29 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 2:7c "*como maestro de los gentiles en fe y verdad...*" Dios estableció a Pablo como maestro para __<u>enseñar</u>__ el pleno conocimiento de la verdad. Hechos 9:15
 
-## 1 Timoteo 2:8 - Conociendo ahora la voluntad de Dios, Pablo continua a los varones creyentes mostrando la necesidad de una vida piadosa
+## 1 Timoteo 2:8 - Conociendo ahora la voluntad de Dios, Pablo ahora se dirige a los varones creyentes
 
 ### La vida piadosa ha llegado a tener una __<u>mala</u>__ fama en esta generación torcida y perversa.
 
-### Podemos ver que las religiones en el mundo instan a formar piedad para ganar de alguna manera la salvación, sin __<u>embargo</u>__ no vemos esto en la Biblia. 
+#### Podemos ver que las religiones en el mundo instan a formar piedad para ganar de alguna manera la salvación, sin __<u>embargo</u>__ no vemos esto en la Biblia. 
+
+#### No debemos confundir la piedad como medio para ganar algo sino que se muestra exteriormente de lo que se ha adaptado interiormente. 
 
 ### Entendemos que no somos salvos por una conducta u obras piadosas sino únicamente por __<u>medio</u>__ de la fe en el Evangelio. 
 
-### La vida piadosa en el creyente es un resultado de Cristo en nosotros y es de mucho valor ante Dios y ante los hombres que __<u>pueden</u>__ observar esto y estar dispuestos a escuchar este mensaje de salvación. 
+#### No debemos caer en pensar que la iglesia debe actuar piadosamente para ser salva. ¡De ninguna manera! 
 
-### 1 Timoteo 2:8 ''*Por tanto, quiero que en todo lugar los hombres oren levantando manos santas, sin ira ni discusiones*''. El deseo Pablo es que el creyente en cualquier lugar exprese una actitud santa __<u>demostrando</u>__ el carácter propio de un hombre de piedad.
+#### La vida piadosa en el creyente es un resultado de Cristo en nosotros y es de mucho valor ante Dios y ante los hombres que __<u>pueden</u>__ observar esto y así estar dispuestos a escuchar el mensaje que traemos. 
+
+### 1 Timoteo 2:8a ''*Por tanto...*" En base a las verdades que acaba de mostrar, Pablo va a continuar con las siguientes instrucciones...
+
+### 1 Timoteo 2:8b ''quiero que en todo lugar los hombres* [ANER] *oren levantando manos santas, sin ira ni discusiones*''. El deseo Pablo es que el creyente en cualquier lugar exprese una actitud santa __<u>demostrando</u>__ el carácter propio de un hombre de piedad.
 
 #### El deseo de Pablo es que __<u>todo</u>__ creyente en todo lugar manifieste lo que ya es en Cristo, sea en las iglesias o en todas partes. 1 Corintios 1:2; 2 Corintios 2:14; 1 Tesalonicenses 1:8
 
-### 1 Timoteo 2:8b "...*los hombres __<u>oren</u>__ levantando manos santas*..." En ciertas culturas, la oración era frecuentemente delegado a otros. Especialmente a las mujeres.[^33]
+### 1 Timoteo 2:8c "...*los hombres __<u>oren</u>__ levantando manos santas*..." En ciertas culturas, la oración era frecuentemente delegado a otros. Especialmente a las mujeres.
 
-#### Pablo manda a los hombres creyentes en __<u>todo</u>__ lugar a estén orando. 
+#### Pablo manda a los hombres creyentes en __<u>todo</u>__ lugar a estar orando. 
 
 #### Las manos santas levantadas __<u>puede</u>__ tener varios significados. Siempre está en el contexto de oración y adoración:
 
@@ -1147,39 +1153,51 @@ www.discipuladocgv.org
 
 ##### Habla de un corazón __<u>puro</u>__ y consciencia limpia ante Dios. Salmo 24:4; Job 17:9; Santiago 4:8 
 
-### 1 Timoteo 2:8c "*...sin ira ni discusiones.*" Esto es una expresión __<u>externa</u>__ y es con el propósito de mostrar piedad, resultado de Cristo en nosotros. 
+### 1 Timoteo 2:8d "*...sin ira ni discusiones...*" Esto es una expresión __<u>externa</u>__ y es con el propósito de mostrar piedad, resultado de Cristo en nosotros. 
 
-#### La ira y las discusiones no __<u>deben</u>__ representarnos como creyentes, considerando el contexto la ira y discusiones en la iglesia era notoria debido a una enseñanza desviada de la verdad piadosa en Cristo. 
+#### La ira y las discusiones no __<u>deben</u>__ representarnos como creyentes. Considerando el contexto la ira y discusiones en la iglesia era notoria debido a una enseñanza desviada de la verdadera piadad que proviene de mantenernos en la verdad. 
 
-##### La palabra *ira* ORGE significa __<u>furia</u>__ — un sentimiento de ira intensa que no desaparece; a menudo en una escala épica.[^34] Efesios 4:31
+##### La palabra *ira* ORGE significa __<u>furia</u>__ — un sentimiento de ira intensa que no desaparece; a menudo en una escala épica.[^7] Efesios 4:31
 
-##### La palabra *discusiones* DIALOGISMOS es __<u>debate</u>__ — discusión en la que se exponen razones a favor y en contra de alguna proposición o propuesta.[^35] Colosenses 3:8
+##### La palabra *discusiones* DIALOGISMOS es __<u>debate</u>__ — discusión en la que se exponen razones a favor y en contra de alguna proposición o propuesta.[^7] Colosenses 3:8
 
-## 1 Timoteo 2:9-15 - Conociendo la voluntad de Dios, Pablo llama a una vida piadosa a las mujeres creyentes. 
+## 1 Timoteo 2:9-15 - Habiendo demostrado como los hombres muestran piedad, Pablo ahora se dirige a las mujeres creyentes
 
-### 1 Timoteo 2:9 "*Asimismo, que las mujeres se vistan con ropa decorosa, con pudor y modestia, no con peinado ostentoso, no con oro, o perlas, o vestidos costosos,*" Después de hablar del __<u>actuar</u>__ de los hombres en la adoración pública, ahora Pablo se dirige a las mujeres creyentes que profesan piedad al mundo. 
+### 1 Timoteo 2:9a "*Asimismo, que las mujeres se vistan* [ataviandose RVR60] *con ropa decorosa, con pudor y modestia, no con peinado ostentoso, no con oro, o perlas, o vestidos costosos,*" Después de hablar del __<u>actuar</u>__ de los hombres en la adoración pública, ahora Pablo se dirige a las mujeres creyentes que profesan salvación en Jesucristo. 
 
-### 1 Timoteo 2:9a "*Asimismo, que las mujeres se vistan con ropa decorosa,...*" Podemos ver que __<u>había</u>__ un problema con la expresión piadosa de la mujer y la manera de expresarse al mundo.
+### 1 Timoteo 2:9b "*Asimismo, que las mujeres se vistan con ropa decorosa...*" Podemos ver que __<u>había</u>__ un problema con la expresión piadosa de la mujer y la manera de expresarse al mundo.
 
 #### Podría verse de dos __<u>puntos</u>__ de vista, vestirse totalmente sin decoro, para mostrar una falsa piedad, o estar completamente enfocada a la vestimenta ostentosa.
 
-### 1 Timoteo 2:9b "*...con pudor y modestia...*"La manera correcta nos muestra que no es enfocada a lo __<u>visible</u>__, sino modestamente, con la vestimenta apropiada a cada contexto de población. 
+### 1 Timoteo 2:9c "*...con pudor y modestia...*" La manera correcta nos muestra que no es enfocada a lo __<u>visible</u>__, sino modestamente, con la vestimenta apropiada a cada contexto de población. 
 
-### 1 Timoteo 2:9c "*...no con peinado ostentoso,...*Literalmente con trenzas, vemos que la manera de realización de __<u>trenzas</u>__ requería bastante tiempo y era enfocado en la expresión ostentosa y presuntuosa del peinado.
+### 1 Timoteo 2:9d "*...no con peinado ostentoso...*" Literalmente con trenzas, vemos que la manera de realización de __<u>trenzas</u>__ requería bastante tiempo y era enfocado en la expresión ostentosa y presuntuosa del peinado.
 
-### 1 Timoteo 2:9d " *...no con oro,o perlas,...*" Los accesorios valiosos de materiales caros eran el adorno __<u>externo</u>__ visible de las mujeres con mucho valor y estatus, sin embargo menciona que ese no sea el foco principal de la mujer en su expresión pública.
+### 1 Timoteo 2:9e "*...no con oro, o perlas...*" Los accesorios valiosos de materiales caros eran el adorno __<u>externo</u>__ visible de las mujeres con mucho valor y estatus, sin embargo menciona que ese no sea el foco principal de la mujer en su expresión pública.
 
-### 1 Timoteo 2:9e "...*o vestidos costosos...*" Los vestidos costosos eran elaborados y diseñados por personas dedicadas al __<u>corte</u>__, confección y moda, demostrando visiblemente el adorno de la mujer en la ropa y prendas de vestir.
+### 1 Timoteo 2:9f "...*o vestidos costosos...*" Los vestidos costosos eran elaborados y diseñados por personas dedicadas al __<u>corte</u>__, confección y moda, demostrando visiblemente el adorno de la mujer en la ropa y prendas de vestir.
 
 #### Sin embargo Pablo no esta sugiriendo vestirse mal o andrajosamente, sino que era diferente el enfoque __<u>principal</u>__ de expresión pública de una mujer piadosa. 1 Pedro 3:3-5
 
-#### La idea central de este __<u>pasaje</u>__ es que las mujeres creyentes entiendan que la piedad no se manifiesta en algo externamente visible. 
+##### 1 Pedro 3:1 Asimismo ustedes, mujeres, estén sujetas a sus maridos, de modo que si algunos *de ellos* son desobedientes a la palabra, puedan ser ganados **sin palabra alguna** por la conducta de sus mujeres
 
-### 1 Timoteo 2:10 "*sino con buenas obras, como corresponde a las mujeres que profesan la piedad.*" Las mujeres __<u>vestidas</u>__ de buenas obras es palpable y alinea correctamente con lo que profesan. 
+##### 1 Pedro 3:2 al observar ellos **su conducta** casta y respetuosa.
 
-#### La religiosidad __<u>invita</u>__ a la piedad aunque fingida. La Palabra nos enseña que la piedad sea un resultado de la verdad y sin fingimiento. Romanos 12:9-10 
+##### 1 Pedro 3:3 *Que el adorno de ustedes no sea el externo: peinados ostentosos, joyas de oro o vestidos lujosos,*
+
+##### 1 Pedro 3:4 *sino que sea lo que procede de lo íntimo del corazón, con el adorno incorruptible de un espíritu tierno y sereno, lo cual es precioso delante de Dios.*
+
+##### 1 Pedro 3:5 *Porque así también se adornaban en otro tiempo las santas mujeres que esperaban en Dios, **estando sujetas a sus maridos**.*
+
+#### La idea central de este __<u>pasaje</u>__ es que las mujeres creyentes entiendan que la piedad no se manifiesta en algo externamente visible en lo que el mundo considera bueno. 
+
+#### ¿Entonces como se debe adornar una mujer creyente para demostrar piedad? 
 
 ### 1 Timoteo 2:10a "*sino con buenas obras...* Pablo expresa claramente que el propósito de manifestar piedad es con buenas obras y no con vestimenta o apariencia __<u>externa</u>__.
+
+#### Las mujeres __<u>vestidas</u>__ de buenas obras es palpable y alinea correctamente con lo que profesan.
+
+#### La religiosidad __<u>invita</u>__ a la piedad aunque sea fingida. La Palabra nos enseña que la piedad sea un resultado de la verdad y sin fingimiento. Romanos 12:9-10 
 
 #### Estas buenas obras no son __<u>hechas</u>__ o impulsadas por la autodeterminación humana, sino es el resultado de Cristo en cada creyente, esto será de manera visible hacia las personas.
 
@@ -1191,7 +1209,7 @@ www.discipuladocgv.org
 
 ## 1 Timoteo 2:11-12 - La mujer dentro de la congregación
 
-### 1 Timoteo 2:11 "*Que la mujer aprenda calladamente, con toda obediencia.*" En el contexto cultural al que __<u>Pablo</u>__ escribió esta carta, las mujeres no podían estudiar, sin embargo vemos el deseo de Pablo que las mujeres también puedan aprender en la congregación.
+### 1 Timoteo 2:11 "*Que la mujer aprenda calladamente, con toda obediencia*". En el contexto cultural al que __<u>Pablo</u>__ escribió esta carta, las mujeres no podían estudiar, sin embargo vemos el deseo de Pablo que las mujeres también puedan aprender en la congregación.
 
 #### Ahora vemos un __<u>verbo</u>__ imperativo de Pablo, una orden en tiempo presente que aprenda.
 
@@ -1203,7 +1221,7 @@ www.discipuladocgv.org
 
 #### Esta enseñanza de sujeción en las __<u>mujeres</u>__ era contraria a la cultura pagana, en la que había profetizas prominentes que tenían autoridad sobre los varones.
 
-### 1 Timoteo 2:12 "*Yo no permito que la mujer enseñe ni que ejerza autoridad sobre el hombre, sino que permanezca callada.*" En el anterior verso animaba a las mujeres el aprender __<u>dentro</u>__ de la congregación, sin embargo en este explica el rol de la enseñanza con respecto a varones y mujeres creyentes. 
+### 1 Timoteo 2:12a "*Yo no permito que la mujer enseñe ni que ejerza autoridad sobre el hombre, sino que permanezca callada*". En el anterior verso animaba a las mujeres el aprender __<u>dentro</u>__ de la congregación, sin embargo en este explica el rol de la enseñanza con respecto a varones y mujeres creyentes. 
 
 #### Pablo explica que el rol de la mujer __<u>dentro</u>__ de la congregación no es el de la enseñanza pública. 1 Corintios 14:34
 
@@ -1217,7 +1235,7 @@ www.discipuladocgv.org
 
 #### Estas instrucciones __<u>hacia</u>__ la mujer creyente no implican ser inferior en posición, o de menor valor ante Dios. 1 Pedro 3:7; Gálatas 3:28
 
-### 1 Timoteo 2:12c "*...sino que permanezca callada.*" Nuevamente Pablo instruye a las mujeres que permanezcan manteniendo __<u>silencio</u>__ en la congregación.
+### 1 Timoteo 2:12b "*...sino que permanezca callada*". Nuevamente Pablo instruye a las mujeres que permanezcan manteniendo __<u>silencio</u>__ en la congregación.
 
 #### En una cultura que las __<u>mujeres</u>__ no podían ser enseñadas, era de esperarse que haya interrupciones constantes sin dejar avanzar la enseñanza. 
 
@@ -1233,29 +1251,29 @@ www.discipuladocgv.org
 
 #### Si ambos hubieran obedecido al __<u>orden</u>__ de creación que Dios estableció, no hubieran transgredido ambos, este ejemplo de la caída usará Pablo para explicar argumentos de sujeción en la iglesia. 
 
-### 1 Timoteo 2:13 "*Porque Adán fue creado primero, después Eva.*" El orden que Dios hizo en la creación es simbolizado __<u>dentro</u>__ de la congregación.
+### 1 Timoteo 2:13a "*Porque Adán fue creado primero, después Eva.*" El orden que Dios hizo en la creación es simbolizado __<u>dentro</u>__ de la congregación.
 
 #### Cada uno __<u>tenía</u>__ propósito individual y complementaron el uno al otro para cumplir el propósito de Dios. 
 
 #### Podemos ver este __<u>orden</u>__ en la creación, Adán como cabeza y Eva como ayuda idónea.
 
-### 1 Timoteo 2:13a "*Porque Adán fue creado primero*..." Adán fue __<u>creado</u>__ primero y es cabeza, esto conlleva responsabilidad sobre la creación. Génesis 2:7, 15-16, 19-20
+### 1 Timoteo 2:13b "*Porque Adán fue creado primero*..." Adán fue __<u>creado</u>__ primero y es cabeza, esto conlleva responsabilidad sobre la creación. Génesis 2:7, 15-16, 19-20
 
 #### Dios dio a Adán un mandato específico, y luego también se le __<u>exigió</u>__ dar cuentas sobre esto. Génesis 2:16-17, Génesis 3:17
 
-### 1 Timoteo 2:13b "*...después Eva...*" Eva fue __<u>creada</u>__ después, para ser ayuda idónea para Adán. Génesis 2:18, 21-22
+### 1 Timoteo 2:13c "*...después Eva...*" Eva fue __<u>creada</u>__ después, para ser ayuda idónea para Adán. Génesis 2:18, 21-22
 
 #### De acuerdo al orden de creación que Dios estableció la __<u>mujer</u>__ no debe tomar autoridad (ser cabeza) sobre el hombre.
 
-### 1 Timoteo 2:14 "*Y Adán no fue el engañado, sino que la mujer, siendo engañada completamente, cayó en transgresión.*" Eva pecó siendo engañada, sin embargo Adán pecó deliberadamente y fue __<u>hecho</u>__ responsable por el pecado que entró al mundo. Romanos 5:12
+### 1 Timoteo 2:14a "*Y Adán no fue el engañado, sino que la mujer, siendo engañada completamente, cayó en transgresión.*" Eva pecó siendo engañada, sin embargo Adán pecó deliberadamente y fue __<u>hecho</u>__ responsable por el pecado que entró al mundo. Romanos 5:12
 
 #### Este argumento que Pablo usa de la creación nos explicará el los roles que Dios planificó dentro de la congregación, el rol de la mujer piadosa y el rol de responsabilidad __<u>sobre</u>__ los hombres en la iglesia.
 
-### 1 Timoteo 2:14a "*Y Adán no fue el engañado...*" En este pasaje nos muestra que Adán no cayó en el __<u>engaño</u>__ de la serpiente. Génesis 3:17
+### 1 Timoteo 2:14b "*Y Adán no fue el engañado...*" En este pasaje nos muestra que Adán no cayó en el __<u>engaño</u>__ de la serpiente. Génesis 3:17
 
 #### Se podría decir que Adán obedeció a la __<u>mujer</u>__ en lugar de a Dios. Génesis 3:17
 
-### 1 Timoteo 2:14b "...*sino que la mujer, siendo engañada completamente...*" Eva fue completamente engañada __<u>por</u>__ la serpiente, sin embargo adán no.
+### 1 Timoteo 2:14c "...*sino que la mujer, siendo engañada completamente...*" Eva fue completamente engañada __<u>por</u>__ la serpiente, sin embargo adán no.
 
 #### ¿Cómo podía la __<u>mujer</u>__ (Eva) salvarse de ser engañada? Sujetarse voluntariamente a su cabeza (Adán).
 
@@ -1263,7 +1281,7 @@ www.discipuladocgv.org
 
 #### Es justamente eso lo que Dios quería para Adán y Eva en el respectivo rol que tenían. Esta ilustración __<u>explica</u>__ referente a los roles que la mujer y el varón tienen en la iglesia.
 
-### 1 Timoteo 2:14c "*cayó en transgresión...*" El resultado de la mujer __<u>siendo</u>__ engañada fue caer en transgresión. 
+### 1 Timoteo 2:14d "*cayó en transgresión...*" El resultado de la mujer __<u>siendo</u>__ engañada fue caer en transgresión. 
 
 #### Satanas vino con __<u>astucia</u>__ y la tento, ella escuchó, miro con agrado el fruto prohibido, y fue engañada y como consecuencia la transgresión. Génesis 3:1-7
 
@@ -1271,11 +1289,11 @@ www.discipuladocgv.org
 
 #### ¿Cómo una mujer piadosa puede ser librada de ser engañada y caer en transgresión? El versículo __<u>siguiente</u>__ nos hablará de una salvación de este engaño, sujetándose voluntariamente a su cabeza y cumplir con el rol (propósito) específico para la mujer. 
 
-### 1 Timoteo 2:15 "*Pero...*" La palabra "*pero*" da ánimo que no tiene que permanecer de esa manera. Increíblemente este __<u>pasaje</u>__ va dentro de la lista de mujeres que profesan piedad.
+### 1 Timoteo 2:15a "*Pero...*" La palabra "*pero*" da ánimo que no tiene que permanecer de esa manera. Increíblemente este __<u>pasaje</u>__ va dentro de la lista de mujeres que profesan piedad.
 
 #### Sin embargo puede caer en __<u>malas</u>__ interpretaciones con respecto a la palabra de salvación, lo cual aclararemos en este pasaje.
 
-### 1 Timoteo 2:15a "*...se salvará engendrando hijos...*" Este __<u>verso</u>__ causa muchas preguntas y confusión relacionadas a la salvación:
+### 1 Timoteo 2:15b "*...se salvará engendrando hijos...*" Este __<u>verso</u>__ causa muchas preguntas y confusión relacionadas a la salvación:
 
 #### Pero en esta conversación las __<u>madres</u>__ podrian objetar, "¿Queremos participar en armonia con la voluntad de Dios, pero Pablo, qué piedad hay en la crianza de niños?" Pablo les anticipa con la siguiente explicación. 
 
@@ -1317,7 +1335,7 @@ www.discipuladocgv.org
 
 #### Sin embargo, este rol __<u>pertenece</u>__ a los padres, y más específicamente (dada la cercania en el hogar) a las madres. 
 
-#### 1 Timoteo 2:15b "...*si permanecen en fe, amor y santidad con __<u>modestia</u>__...*" 1 Timoteo 1:5, 2:9; 1 Pedro 5:8
+#### 1 Timoteo 2:15c "...*si permanecen en fe, amor y santidad con __<u>modestia</u>__...*" 1 Timoteo 1:5, 2:9; 1 Pedro 5:8
 
 #### Estas condiciones mencionadas parecen incluir a los hijos porque está en plural, pero es deduccíon de parte nuestra. La mujer es santificada a traves de engrendrar hijos. ¿Esto __<u>incluye</u>__ la crianza también? 
 
