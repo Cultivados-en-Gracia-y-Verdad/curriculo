@@ -337,78 +337,59 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 
 ## 1 Pedro 2:1-3 - Desechar lo malo y beber lo bueno
 
-###  1 Pedro 2:1  *Por tanto, desechando toda malicia, y todo engaño, e hipocresías, y envidias y toda difamación,*
+###  1 Pedro 2:1 - El deseo del apóstol Pedro hacia los creyentes es que se despojen de toda la siguiente lista de acciones negativas en la vida del creyente, en las cuales podría estar viviendo ú experimentando, las cuales son contrarias a su nueva simiente.
 
-#### El deseo del apóstol era los creyentes se despojen de toda esta lista de acciones negativas que el creyente podría manifestar, contrarias a la simiente nueva que tenían.
+### 1 Pedro 2:1a  *"Por tanto, desechando toda malicia,..."* Considerando su nueva manera de vivir, sabiendo que fue purificado, nacido de simiente incorruptible, la instrucción es desechar todo lo malo de su anterior manera de vivir. Efesios 4:22, 25, 31; Santiago 1:21
 
-### 1 Pedro 2:1a  *Por tanto, desechando toda malicia,*...
+#### La palabra *desechando* [APOTIDSEMI] significa de despojarse, desechar algo, ú echarlo fuera. 
 
-#### La palabra *desechando* [APOTIDSEMI] significa de despojarse, desechar algo, ú echarlo fuera. Este verbo en griego se encuentra en tiempo aoristo, medio, participio, dándonos a entender esta indicación realizada, tiene continuidad en el presente y el creyente lo hace en beneficio suyo.
+#### Este verbo se encuentra en tiempo aoristo, medio, participio, dándonos a entender como una invitación constante a ir desechando todas las formas de malicia de su anterior manera de vivir y el creyente lo realiza a su propio beneficio.
 
-#### ¿Como el creyente podría despojarse de toda malicia?. Considerando su nueva realidad en la vida del creyente, sabiendo que fue purificado, nacido de simiente incorruptible, les anima a despojarse de todo lo malo. Efesios 4:22, 25, 31; Santiago 1:21
-###  1 Pedro 2:1b *...y todo engaño,...*
+###  1 Pedro 2:1b *"...y todo engaño,..."* Toda práctica de engaño en la vida del creyente debe ser completamente desechada, debido a que Cristo es ahora el ejemplo de novedad de vida. 1 Pedro 2:22, 3:10
 
-#### El engaño en la vida del creyente debe ser completamente desechado, esto debido a que Cristo es ahora el ejemplo de novedad de vida. 1 Pedro 2:22, 3:10
+#### En las escrituras vemos la práctica del engaño relacionada a quien representan como padre, y esa no es la realidad del creyente. Hechos 13:10 ; Juan 8:44 ; Efesios 5:8 
 
-#### La práctica del engaño en la vida de una persona es relacionado, con su Padre. Hechos 13:10 ; Juan 8:44 ; Efesios 5:8 
+#### El engaño en la vida del creyente es contraria a su nueva identidad y simiente incorruptible. 2 Corintios 4:2 ,11:3 ; 2 Tesalonicenses 2:3 ; 1 Juan 2:21
+###  1 Pedro 2:1c *"...e hipocresías,..."* La hipocresía es una actitud de fingimiento concerniente a cualidades, virtudes o sentimientos que una persona expresa hacia los demás, sin embargo experimenta lo contrario dentro de sí mismo. 
 
-#### La palabra de engaño en el creyente es contraria a su nueva identidad y simiente. 2 Corintios 4:2 ,11:3 ;2 Tesalonicenses 2:3 ; 1 Juan 2:21
-###  1 Pedro 2:1c *...e hipocresías,...*
+#### La vida del creyente puede estar llena de hipocresía fingiendo ser buenas personas hacia los demás y experimentando lo contrario por dentro, podemos ver esta actitud de los fariseos en los tiempos de Jesús. Mateo 23:28 ; Lucas 12:1 
 
-#### La hipocresía es una actitud de fingimiento concerniente a cualidades o sentimientos contrarios a los que tiene o experimentan. 
+#### Un creyente también puede ser arrastrado por la hipocresía de otros, y ser engañado llegando hasta cauterizar su conciencia. Gálatas 2:13 ; 1 Timoteo 4:2
 
-#### La vida del creyente puede estar llena de hipocresía fingiendo ser buenas personas exteriormente y experimentando lo contrario por dentro, podemos ver esta actitud de los fariseos en los tiempos de Jesús. Mateo 23:28 ; Lucas 12:1 
+#### La sabiduría de lo alto que proviene de Dios resultará en buenos frutos sin hipocresía, pero la sabiduría terrenal mundana resultará en celos y confusión. Santiago 3:14-17 
 
-#### Un creyente puede ser arrastrado por la hipocresía de otros, y ser engañado llegando hasta cauterizar su conciencia. Gálatas 2:13 ; 1 Timoteo 4:2
+###  1 Pedro 2:1d *"...y envidias..."* La envidia en el creyente es el resultado de un andar carnal, podemos ver que esta actitud es una obra de la carne. Gálatas 5:21 ; Romanos 13:13
+#### La enseñanza de una doctrina extraña, contraria a la sana doctrina también resulta en envidias, discusiones, contiendas dentro de la congregación. 1 Timoteo 6:4 ; 
 
-###  1 Pedro 2:1d *...y envidias...*
-#### Las envidias en la vida del creyente son el resultado un andar carnal, lo cual anima a no andar de esta manera. Gálatas 5:21 ; Romanos 13:13
-
-#### La enseñanza de una doctrina extraña, contraria a la sana doctrina resulta en envidias, discusiones, contiendas...1 Timoteo 6:4
-
-###  1 Pedro 2:1d *...y toda difamación,...*
+###  1 Pedro 2:1d *"...y toda difamación,"* También toda clase de chismes, comentarios hirientes y calumnias con el fin de difamar a una persona deben ser desechados, ya que afectan a todo el cuerpo de Cristo. 2 Corintios 12:20 
 
 #### La difamación nos muestra el hablar mal de otros, específicamente de sus hermanos. Sant. 4:11
 
 #### Jesús nos muestra que del interior del corazón vienen las calumnias. Mateo 15:18-19
 
-###  1 Pedro 2:2 *deseen como niños recién nacidos, la leche pura de la palabra, para que por ella crezcan para salvación,*
+###  1 Pedro 2:2 - Contrastando con las conductas negativas de su pasada manera de vivir,  ahora el apóstol Pedro anima a los creyentes hacia el crecimiento espiritual.
 
-#### Desechando las conductas anteriores, Pedro les anima al crecimiento espiritual con un ejemplo de maternidad y crianza que todos conocen, para un bebe recién nacido la leche materna es lo único que necesita para crecer saludable.
+####  Usa el ejemplo de maternidad para mostrar una verdad espiritual, un bebe recién nacido lo único que necesita para crecer saludable es la leche materna, de igual manera el deseo es que los creyentes crezcan para salvación con la palabra pura.
 
-#### De igual manera el deseo de un creyente recién nacido es que sea la pureza de la palabra, la cual le llevará a crecer, hacia una madurez espiritual.
+### 1 Pedro 2:2a *"deseen como niños recién nacidos,..."* La palabra deseen [EPIPODSEO] es un anhelo intenso, con vehemencia, buscar con ansias. Este verbo es una orden que los creyentes deben realizar. 
 
-#### En términos humanos si un niño no crece, pues tiene algún problema y es completamente anormal. lo normal es que crezca. no que se quede bebe o niño para siempre. de igual manera en la vida espiritual. usa este ejemplo hacia el crecimiento y madurez.
+#### En el ejemplo de un niño recién nacido que grita intensamente cuando tiene hambre, solo descansa cuando le dan de lactar, nos muestra la imagen de desear fervientemente hasta tener la leche pura de la palabra.
 
-#### -No quería que se queden niños toda la vida, sino crezcan, de igual manera pablo, a los corintios les muestra la leche antes de la carne.
+###  1 Pedro 2:2b *"...la leche pura de la palabra,..."* La leche pura, nos muestra algo sin engaño, no adulterada, Nos muestra la pureza de la palabra la cual es vital para el crecimiento de los creyentes.
 
-#### -En el contexto de hebreos les muestra en un aspecto negativo la leche espiritual, connotando que no eran capaces del alimento sólido.
+#### En este pasaje vemos de manera positiva la leche espiritual, para el crecimiento de los creyentes, sin embargo en las cartas de corintios y hebreos vemos la leche, con un énfasis negativo.
 
-​      *deseen como niños recién nacidos,*
+##### En la iglesia en Corinto nos muestra que los creyentes no crecieron con la leche pura de la palabra, se quedaron como niños teniendo celos y discusiones entre sí, se volvieron incapaces de recibir alimento sólido, esto fue debido a su carnalidad, la cual les impidió crecer hacia la madurez espiritual. 1 Corintios 3:1-3 
 
-#### La palabra deseen [EPIPODSEO] es un anhelo intensamente, con vehemencia e intensivamente, esta es un imperativo que el creyente realiza.
+##### En la epístola a los Hebreos nos muestra que la práctica en la palabra de justicia, les llevaría hacia un pleno discernimiento, sin embargo necesitaban otra vez volver a la leche, debido a que se habían hecho tardos para oír, ya debían ser maestros y estar enseñando. Hebreos 5:12-13
 
-#### El ejemplo de un niño recién nacido que grita intensamente cuando tiene hambre de leche, y solo descansa hasta que le dan de lactar, esa imagen nos muestra como una realidad espiritual.
+###  1 Pedro 2:2c *"...para que por ella crezcan para salvación,"* La pureza de la palabra llevará a los creyentes hacia la madurez espiritual.
 
-#### Pablo en ninguna manera dijo que actuaran como niños, sino les muestra el ejemplo de inocencia 1 Corintios 14:20
+#### El crecimiento espiritual depende de un andar en fe, un andar carnal solo impedirá el crecimiento de los creyentes
 
-###  *la leche pura de la palabra,* o leche pura espiritual
+#### La palabra crezcan [auxáno] es verbo, aoristo, pasivo, subjuntivo, significando que es el deseo que crezca, la voz pasiva nos muestra que otro es el que da el crecimiento. en este caso Dios es el que da el crecimiento
 
-#### Los niños recién nacidos solo pueden crecer con únicamente leche sólida, y si no toman leche no crecen.  1 Corintios 3:1-3, nos muestra que no eran capaces de algo mas sólido, necesitaban crecer primero y después la carne, algo mas sólido, en un aspecto negativo, por que los corintios no crecieron, pues por ser carnales, y la consecuencia de su carnalidad eran divisiones..
-
-#### En el contexto de Hebreos la leche es usada de manera negativa, en el sentido de que no crecieron o no se fundaron bien en el conocimiento elemental de los oráculos de Dios. ellos ya debían ser maestros, y estar enseñando. Hebreos 5:12 - 13
-
-#### Jesús también tenía muchas cosas que decirles pero todavía no eran capaces de soportarlas. Juan 16:12
-
-#### Que tan importante es la leche pura de la mama lactante, no tiene que ser adulterada, con nada, sencillamente, la pureza de la palabra sin ningún tipo de adulterio, es como una leche materna adulterada con cafe, eso no será de beneficio a un niño recien nacido.
-
-###  1 Pedro 2:2 *para que por ella crezcan para salvación,*
-
-#### Como se crece en la salvación?, pues sencillamente con la leche, sin adulterar
-
-#### La leche sin adulterar nos llevará a crecer para la salvación.
-
-#### Como recien nacidos nos muestra que clamemos con vehemencia, con el fin de crecer en este camino de salvación.
+#### Podemos ver que el crecimiento lo da Dios, entonces por que no crecieron?, la carnalidad les impidió crecer hacia la madurez. 1 Corintios 3:3-7
 
 #### Es el deseo de Dios que todos podamos crecer en este caminar de fe en el aspecto de salvación (Santificación)
 
@@ -666,9 +647,7 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 
 ## 1 Pedro 2:18-25 Aprendiendo de siervos
 
-### 
-
-###  1 Pedro 2:18 
+1 Pedro 2:18 
 
 #### Ahora mencionará un grupo especial llamados siervos, en este contexto podemos ver que son trabajadores o servidores.
 
@@ -695,8 +674,6 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 ###  *Porque esto halla gracia,*
 
 ###  1 Pedro 2:19
-
-
 
 ###   *si por causa de la conciencia ante Dios, alguien sobrelleva penalidades sufriendo injustamente.*
 
@@ -738,7 +715,11 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 
 ###  1 Pedro 2:23
 
-#### 
+####  Cuando alguien ultrajaba a Cristo, no respondía con el mismo acto de agresión, 
+
+#### En el momento que Cristo sufría, el no amenazaba a nadie ni respondía con insultos
+
+#### Lo que hacía era encomendar al que juzga con Justicia. El encomendaba a Dios su circunstancia.
 
 ###   *y quien cuando lo ultrajaban, no respondía ultrajando.*
 
@@ -746,13 +727,29 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 
 ###  1 Pedro 2:23 *sino que se encomendaba a Aquel que juzga con justicia.*
 
-###  1 Pedro 2:24 *Él mismo llevó nuestros pecados en Su cuerpo sobre la cruz,*
+###  1 Pedro 2:24
+
+#### Nos muestra que el llevó nuestros pecados en su cuerpo sobre la cruz, con el fin de que nosotros muramos AL PECADO, y vivamos a la JUSTICIA, nos esta mostrando que Cristo ya murió, si y es un hecho completamente comprobado, ahora tambien es comprobado que vivamos a la justicia.
+
+#### al igual que Isaías, nos muestra que por  sus heridas nosotros fuimos sanados.
+
+#### Nos muestra que ya no vivimos para el pecado, sino para la justicia, y ya hemos sido sanados por la muerte de Cristo en la cruz. 
+
+#### Esto es santificación pura.
+
+###  *Él mismo llevó nuestros pecados en Su cuerpo sobre la cruz,*
 
 ###  1 Pedro 2:24 *a fin de que muramos al pecado y vivamos a la justicia,*
 
 ###  1 Pedro 2:24 *porque por Sus heridas fueron ustedes sanados.*
 
-###  1 Pedro 2:25 *Pues ustedes andaban descarriados como ovejas,*
+###  1 Pedro 2:25
+
+#### Nosotros andábamos descarriados, fuera de lugar, como ovejas, pone el ejemplo de las ovejas, se perderán facilmente?
+
+#### Sin embargo ahora hemos vuelto al pastor, y guardián de sus almas, que impresionante. saber esto, Ahora estamos con nuestro pastor y salvador , el que guarda nuestras almas.
+
+###  *Pues ustedes andaban descarriados como ovejas,*
 
 ###  1 Pedro 2:25 *pero ahora han vuelto al Pastor y Guardián de sus almas.*
 
