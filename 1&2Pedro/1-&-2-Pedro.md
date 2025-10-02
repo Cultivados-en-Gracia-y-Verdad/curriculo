@@ -337,41 +337,22 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 
 ## 1 Pedro 2:1-3 - Desechar lo malo y beber lo bueno
 
-<<<<<<< HEAD
 ###  1 Pedro 2:1  *Por tanto, desechando toda malicia, y todo engaño, e hipocresías, y envidias y toda difamación,*
 
 #### El deseo del apóstol era los creyentes se despojen de toda esta lista de acciones negativas que el creyente podría manifestar, contrarias a la simiente nueva que tenían.
 
-=======
->>>>>>> 65b93cbba3bece3c0927cb86a5de99bd5ae5145f
-###  1 Pedro 2:1a  *Por tanto, desechando toda malicia,*...
+### 1 Pedro 2:1a  *Por tanto, desechando toda malicia,*...
 
 #### La palabra *desechando* [APOTIDSEMI] significa de despojarse, desechar algo, ú echarlo fuera. Este verbo en griego se encuentra en tiempo aoristo, medio, participio, dándonos a entender esta indicación realizada, tiene continuidad en el presente y el creyente lo hace en beneficio suyo.
 
-<<<<<<< HEAD
 #### ¿Como el creyente podría despojarse de toda malicia?. Considerando su nueva realidad en la vida del creyente, sabiendo que fue purificado, nacido de simiente incorruptible, les anima a despojarse de todo lo malo. Efesios 4:22, 25, 31; Santiago 1:21
-=======
-#### La palabra *desechando* APOTIDSEMI significa de despojarse, desechar algo, ú echarlo fuera.
-
-#### Este verbo en griego se encuentra en tiempo aoristo, medio, participio, dándonos a entender, que es una indicación que ya se realizó en un punto específico del tiempo, con continuidad en el presente, que el creyente realiza en favor suyo.
-
-#### *toda malicia* o maldad en la vida del creyente tiene que ser completamente desechada, esto es debido a que ya no es un ser corrupto (Viejo hombre) , como lo era en su vieja pasada manera de vivir, sino ahora tiene una simiente incorruptible. Efesios 4:22, 25, 31; Santiago 1:21
->>>>>>> 65b93cbba3bece3c0927cb86a5de99bd5ae5145f
-
 ###  1 Pedro 2:1b *...y todo engaño,...*
 
 #### El engaño en la vida del creyente debe ser completamente desechado, esto debido a que Cristo es ahora el ejemplo de novedad de vida. 1 Pedro 2:22, 3:10
 
-<<<<<<< HEAD
 #### La práctica del engaño en la vida de una persona es relacionado, con su Padre. Hechos 13:10 ; Juan 8:44 ; Efesios 5:8 
 
 #### La palabra de engaño en el creyente es contraria a su nueva identidad y simiente. 2 Corintios 4:2 ,11:3 ;2 Tesalonicenses 2:3 ; 1 Juan 2:21
-=======
-#### La práctica del engaño en la vida de una persona es relacionado, con su Padre. Hechos 13:10; Juan 8:44 
-
-#### La palabra en el creyente tiene que ser fuera de todo engaño, debido a que ninguna mentira procede de la verdad. 2 Corintios 4:2 ,11:3 ;2 Tesalonicenses 2:3; 1 Juan 2:21
->>>>>>> 65b93cbba3bece3c0927cb86a5de99bd5ae5145f
-
 ###  1 Pedro 2:1c *...e hipocresías,...*
 
 #### La hipocresía es una actitud de fingimiento concerniente a cualidades o sentimientos contrarios a los que tiene o experimentan. 
@@ -380,12 +361,7 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 
 #### Un creyente puede ser arrastrado por la hipocresía de otros, y ser engañado llegando hasta cauterizar su conciencia. Gálatas 2:13 ; 1 Timoteo 4:2
 
-<<<<<<< HEAD
 ###  1 Pedro 2:1d *...y envidias...*
-=======
-###  1 Pedro 2:1 *y envidias y toda difamación,*
->>>>>>> 65b93cbba3bece3c0927cb86a5de99bd5ae5145f
-
 #### Las envidias en la vida del creyente son el resultado un andar carnal, lo cual anima a no andar de esta manera. Gálatas 5:21 ; Romanos 13:13
 
 #### La enseñanza de una doctrina extraña, contraria a la sana doctrina resulta en envidias, discusiones, contiendas...1 Timoteo 6:4
@@ -470,7 +446,6 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 
 ###  1 Pedro 2:5 *también ustedes, como piedras vivas,*
 
-<<<<<<< HEAD
 #### Tomando el ejemplo de La piedra viva desechada, Jesucristo, así tambien ustedes, con ese mismo ejemplo de piedra escogida por Dios.
 
 ###  *sean edificados como casa espiritual para un sacerdocio santo,*
@@ -490,26 +465,13 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 #### Estos sacrificios son aceptables a DIos, vemos que el proposito de los sacrificios animales que exigía la ley eran sombra de lo que había de venir, sin embargo ahora vemos sacrificos espirituales aceptables a Dios.
 
 ###  *por medio de Jesucristo.*
-=======
-###  1 Pedro 2:5 *sean edificados como casa espiritual para un sacerdocio santo,*
-
-###  1 Pedro 2:5 *para ofrecer sacrificios espirituales aceptables a Dios*
-
-###  1 Pedro 2:5 *por medio de Jesucristo.*
->>>>>>> 65b93cbba3bece3c0927cb86a5de99bd5ae5145f
-
 #### Estos sacrificios espirituales, son únicamente aceptables por medio de Jesucristo, no hay otra manera, u otro medio para ofrecer sacrificios agradables al Dios eterno.
 
 ###  1 Pedro 2:6 *Pues esto se encuentra en la Escritura:*
 
-<<<<<<< HEAD
 #### Vemos que pedro cita la escritura, de una piedra en Sion Isa. 28:16; Rom. 9:32, 33; 10:11
 
 ###  *«YO, PONGO EN SIÓN UNA PIEDRA ESCOGIDA, UNA PRECIOSA piedra ANGULAR, Y EL QUE CREA EN ÉL NO SERÁ AVERGONZADO».*
-=======
-###  1 Pedro 2:6 *«YO, PONGO EN SIÓN UNA PIEDRA ESCOGIDA, UNA PRECIOSA piedra ANGULAR, Y EL QUE CREA EN ÉL NO SERÁ AVERGONZADO».*
->>>>>>> 65b93cbba3bece3c0927cb86a5de99bd5ae5145f
-
 #### Esta piedra escogida, es una piedra escogida precísamente por DIos mismo
 
 #### Esta piedra, es una preciosa piedra angular, de acuerdo con la historia estas piedras angulares eran dificultosas de conseguir, y escoger, debido a que eran la guía para la base en esquina de la casa, el arranque, y necesitaba ser completamente precisa en su diseño y función, era la parte mas importante del edificio, el cual empezaba ahí y terminaba ahí.
@@ -518,23 +480,17 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 
 ###  1 Pedro 2:7 *Este precioso valor es, pues, para ustedes los que creen;*
 
-<<<<<<< HEAD
 #### Los que creen en esta piedra, es de muchísimo y precioso valor,
 
 #### Los creyentes en jesucristo realmente valoran esta piedra angular y el valor que tiene.
 
 ###  *pero para los que no creen, «LA PIEDRA QUE DESECHARON LOS CONSTRUCTORES, ESA, EN PIEDRA ANGULAR SE HA CONVERTIDO»,*
-=======
-###  1 Pedro 2:7 *pero para los que no creen, «LA PIEDRA QUE DESECHARON LOS CONSTRUCTORES, ESA, EN PIEDRA ANGULAR SE HA CONVERTIDO»,*
->>>>>>> 65b93cbba3bece3c0927cb86a5de99bd5ae5145f
-
 #### Vemos un contraste con los que rehusan a creer, no entienden el valor de esta piedra y tampoco su propósito.
 
 #### Esta piedra desecharon los constructores, referiendose a Israel, los que formaban parte del pueblo de Dios, ellos rechazaron la piedra más importante de la obra de Dios que estaba haciendo, para ellos era, y de ellos era, y por ellos vino Jesucristo, pero rechazaron la pieza mas importante de la obra que DIos estaba haciendo.
 
 ###  1 Pedro 2:8 *y, «PIEDRA DE TROPIEZO Y ROCA DE ESCÁNDALO».*
 
-<<<<<<< HEAD
 #### Ellos categorizan esta piedra como una de tropiezo, es algo en lo que un judío tropieza, y lo bota mas lejos, por que no es bueno que este ahí, les hace tropezar en su camino.
 
 #### Esta roca de escándalo, es precisamente para ellos, sin embargo es un escándalo decir que esta piedra Jesucristo, forma parte del plan eterno de Dios, es motivo de gritos de impunidad o escandalizarse por esta piedra.
@@ -548,19 +504,12 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 #### Es por eso que El evangelio es según las escrituras, y los que rechazan a Jesucristo la piedra angular, rechazan directamente la palabra y son desobedientes a ella. teniendo por piedra de Tropiezo y estorbo, a la parte mas importante del edificio que Dios dió a los edificadores.
 
 ###  *y para ello estaban también destinados.*
-=======
-###  1 Pedro 2:8 *Pues ellos tropiezan porque son desobedientes a la palabra,*
-
-###  1 Pedro 2:8 *y para ello estaban también destinados.*
->>>>>>> 65b93cbba3bece3c0927cb86a5de99bd5ae5145f
-
 #### Este destino para estos desobedientes estaba contemplado por Dios y profetizado anteriormente que no todos serían obedientes a la fe, al evangelio, a la palabra
 
 #### Es importante detallar los vasos preparados para la destrucción. El destino de los basos que iban a rechazar al mesías.
 
 ###  1 Pedro 2:9 *Pero ustedes son linaje escogido,*
 
-<<<<<<< HEAD
 #### Los creyentes, son ahora linaje escogido. empezará a mencionar que es lo que son los creyentes en relación al mundo entero, Este linaje es totalmente escogido por DIos, 
 
 #### Como es que un creyente forma parte de los escogidos?, Efesios nos muestra como un creyente es parte de los escogidos En Cristo
@@ -584,25 +533,12 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 #### El fin de adquirir a todos los creyentes, u el propósito de esto es anunciar las virtudes de aquel, Sea todo para darle gloria y honor a aquel que nos rescató de las tinieblas a su luz admirable, sea toda gloria honor a el.
 
 ###  *que los llamó de las tinieblas a Su luz admirable.*
-=======
-###  1 Pedro 2:9 *real sacerdocio,*
-
-###  1 Pedro 2:9 *nación santa,*
-
-###  1 Pedro 2:9 *pueblo adquirido para posesión de Dios,*
-
-###  1 Pedro 2:9 *a fin de que anuncien las virtudes de Aquel*
-
-###  1 Pedro 2:9 *que los llamó de las tinieblas a Su luz admirable.*
->>>>>>> 65b93cbba3bece3c0927cb86a5de99bd5ae5145f
-
 #### El nos ha llamado cuando eramos completamente tinieblas y ahora somos hijos de luz. 
 
 #### Podemos andar en la luz, y poco a poco ir dejando las tinieblas mientras andemos por fe, seremos transformados y hechos semejantes a la imagen de su hijo unigénito.
 
 ###  1 Pedro 2:10 *Ustedes en otro tiempo no eran pueblo, pero ahora son el pueblo de Dios;*
 
-<<<<<<< HEAD
 #### Nos muestra el valor incalculable de ser ahora pueblo de Dios, como nación santa, escogida por Dios, que impresionante es ser el pueblo de Dios y manifestarse al mundo como lo que ya somos, una expresión pública de DIos.
 
 #### Va relacionado con el propósito de Dios desde la creación, el objetivo de fructificad y multiplicar la tierra sojuzgarla, era de que su imagen, la imagen de DIos llene toda la tierra,
@@ -612,10 +548,6 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 #### Ahora nos muestra que Ya somos pueblo de Dios y podemos reflejar su caracter, voluntad y amor por toda la tierra. formamos parte del pueblo de Dios, una nación que no es terrenal sinó celestial.
 
 ###  *no habían recibido misericordia, pero ahora han recibido misericordia.*
-=======
-###  1 Pedro 2:10 *no habían recibido misericordia, pero ahora han recibido misericordia.*
->>>>>>> 65b93cbba3bece3c0927cb86a5de99bd5ae5145f
-
 #### Los que estaban alejados a los pactos, hemos sido acercados, ahora hemos recibido misericordia de aquel que nos llamó y nos rescató.
 
 # 1 pedro 2:11-amados absténganse de lo malo
@@ -624,14 +556,9 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 
 ###  1 Pedro 2:11 *Amados, les ruego como a extranjeros y peregrinos,*
 
-<<<<<<< HEAD
 #### Amados, los únicos amados de Dios son los que se encuentran en Cristo, Estos son amados por Causa de Su hijo, estamos revestidos de Cristo y cada creyente se considera un amado por Dios, esta ahora es su definición de un creyente, es un amado por Dios.
 
 ###  *que se abstengan de las pasiones carnales que combaten contra el alma.*
-=======
-###  1 Pedro 2:11 *que se abstengan de las pasiones carnales que combaten contra el alma.*
->>>>>>> 65b93cbba3bece3c0927cb86a5de99bd5ae5145f
-
 #### Considerando todo lo anterior, un creyente puede abstenerse de las pasiones carnales, Sabemos que la carne no fue erradicada por completo, sinó que se podría decir, la lucha del creyente en Santificación, es luchar contra la carne, Sin embargo, 
 
 #### Efesios nos mostrara que solo hay dos maneras de andar, una por el espíritu y otra por la carne. no hay otra manera ú forma. ahora esta es una instrucción a los creyentes, el abstenerse de las pasiones carnales, que combaten contra el alma,
@@ -640,7 +567,6 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 
 ###  1 Pedro 2:12 *Mantengan entre los gentiles una conducta irreprochable,*
 
-<<<<<<< HEAD
 #### Estas instrucciones prácticas serán visibles entre los gentiles, en una conducta irreprochable. Como es eso posible? Sencillamente es un andar diario, practico, considerando nuestra nueva realidad, identidad, la vista puesta en las cosas que son del espíritu, y el resultado es una conducta irreprochable.
 
 ###  *a fin de que en aquello que les calumnian como malhechores,*
@@ -658,14 +584,6 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 #### Ahora como creyentes se nos anima a que lo que profesamos, la piedad, tambien sea manifiesta y visible en el hijo de DIos para con todos los hombres. 
 
 ###  *glorifiquen a Dios en el día de la visitación.*
-=======
-###  1 Pedro 2:12 *a fin de que en aquello que les calumnian como malhechores,*
-
-###  1 Pedro 2:12 *ellos, por razón de las buenas obras de ustedes, al considerarlas,*
-
-###  1 Pedro 2:12 *glorifiquen a Dios en el día de la visitación.*
->>>>>>> 65b93cbba3bece3c0927cb86a5de99bd5ae5145f
-
 #### Los no creyentes pueden considerar las buenas obras de los creyentes y glorificar a Dios en el Día de la visitación.
 
 #### Cual es este día?, Será Es una puerta abierta para el evangelio? Escuchar el evangelio y puedan glorificar a Dios?
@@ -674,9 +592,14 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 
 # 1 Pedro 2:13 - Habla del sometimiento
 
-###  1 Pedro 2:13 *Sométanse, por causa del Señor, a toda institución humana,*
+###  1 Pedro 2:13 
 
-<<<<<<< HEAD
+#### Cual es la causa de someterse a las instituciones humanas?.
+
+#### Pedro les mostrará como someterse a el rey como autoridad, un motivo fundamental de sujeción, que los creyentes no se lo esperaban, por causa del señor
+
+###  *Sométanse, por causa del Señor, a toda institución humana,*
+
 #### Un importante motivo de Sometimiento a toda autoridad, es por causa del señor, 
 
 #### Considera el sometimiento, no es por que sean buenas autoridades, sino esto es por causa de Dios o Cristo, que te sometes a Toda institución humana,
@@ -684,37 +607,56 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 #### Menciona a toda institución humana, no menciona a solo algunas instituciones en las que yo esté de acuerdo, sino a toda institución humana.
 
 ###  *ya sea al rey como autoridad,*
-=======
-###  1 Pedro 2:13 *ya sea al rey como autoridad,*
->>>>>>> 65b93cbba3bece3c0927cb86a5de99bd5ae5145f
-
 #### Como me puedo someter al Rey como a una autoridad?. Mucho peor si en caso el rey es un rey corrupto o tirano, como a impuesto por DIos?
 
 #### La escritura nos mostrará estar sujetos a nuestras autoridades por causa del Señor, cada creyente voluntariamente desea someterse a Dios, debido a que es bueno, sus mandamientos justos y buenos, sin embargo ningún creyente estaría dispuesto a someterse a un rey corrupto o tirano, sin embargo aquí les muestra un propósito mucho mayor, por causa del Señor. es necesario someternos al rey como autoridad.
 
-###  1 Pedro 2:14 *o a los gobernadores*
+###  1 Pedro 2:14 
 
-<<<<<<< HEAD
+#### Los gobernadores enviados por Dios mismo?, para castigo de los malhechores?, no tiene sentido pero vemos el Como servidores de Dios, para castigo de los malhechores, sabiendo que Dios instituyó el sistema de gobierno humano.
+
+#### También les instruyó para alabanza de los que hacen lo bueno a las autoridades humanas, y esto es algo que los creyentes apuntan.
+
+###  *o a los gobernadores*
+
 #### Como me someto a gobernadores totalmente errados y corruptos?, pues es en base a lo anterior, hay una causa mas importante por quien me someto, no a pecar, o ser llevado a pecar, en contra de mi fe, sino es una sujeción voluntaria por hacer lo correcto. considerando la ley de Dios es superior a la de los hombres.
 
 ###  *como enviados por él para castigo de los malhechores*
-=======
-###  1 Pedro 2:14 *como enviados por él para castigo de los malhechores*
->>>>>>> 65b93cbba3bece3c0927cb86a5de99bd5ae5145f
-
 ###  1 Pedro 2:14 *y alabanza de los que hacen el bien.*
 
-###  1 Pedro 2:15 *Porque esta es la voluntad de Dios:*
+###  1 Pedro 2:15 
+
+#### Podemos ver en este pasaje la voluntad de Dios, el deseo de Dios es que hagan lo bueno, los creyentes y haciendo lo bueno, cierren la boca de los hombres necios.
+
+###  *Porque esta es la voluntad de Dios:*
 
 ###  1 Pedro 2:15 *que haciendo bien, ustedes hagan enmudecer la ignorancia de los hombres insensatos.*
 
-###  1 Pedro 2:16 *Anden como libres,*
+# 1 Pedro 1:16-17 - Andar en Libertad del creyente
+
+###  1 Pedro 2:16 
+
+#### Como tiene que ser el andar de los creyentes?.
+
+#### En completa libertad, la libertad que el creyente tiene no es para pecar o para a maldad, sinó esta completa libertad es para poder ser siervos de Dios, antes eramos siervos de la naturaleza pecaminosa, ahora somos siervos de Justicia
+
+###  *Anden como libres,*
 
 ###  1 Pedro 2:16 *pero no usen la libertad como pretexto para la maldad,*
 
 ###  1 Pedro 2:16 *sino empléenla como siervos de Dios.*
 
-###  1 Pedro 2:17 *Honren a todos,*
+###  1 Pedro 2:17 
+
+#### Como un creyente puede manifestar su fe, pues de la manera de honrar a todos los hombres, sean creyentes o incrédulos.
+
+#### Honren a los hermanos, de la misma fe, de un mismo sentir, que forman parte del cuerpo de Cristo, que son lavados y santificados en Cristo, llamados a ser santos.
+
+#### Teman a DIos, una vida en piedad nos muestra un temor reverente hacia Dios, debido a que esto es algo bueno que nos muestra hacia Dios, un temor sano, sabiendo que el es juez de los vivos y muertos.
+
+#### Menciona un dato importante la honra hacia el rey, hacia quien esta gobernando nuestros paises, sea rey o gobernante, merece honra dada por Dios,.
+
+###  *Honren a todos,*
 
 ###  1 Pedro 2:17 *amen a los hermanos,*
 
@@ -724,7 +666,17 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 
 ## 1 Pedro 2:18-25 Aprendiendo de siervos
 
-###  1 Pedro 2:18 *Siervos,*
+### 
+
+###  1 Pedro 2:18 
+
+#### Ahora mencionará un grupo especial llamados siervos, en este contexto podemos ver que son trabajadores o servidores.
+
+#### Anima a estar sujetos a sus amos o jefes con todo respeto, muestra una humildad y una actitud de sumo respeto hacia el trabajo y Jefe.
+
+#### Nos anima a no solo ser buenos, con los jefes buenos, sino tambien con los insoportables. 
+
+###  *Siervos,*
 
 ###  1 Pedro 2:18 *estén sujetos a sus amos con todo respeto,*
 
@@ -732,25 +684,63 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 
 ###  1 Pedro 2:18 *sino también a los que son insoportables.*
 
-###  1 Pedro 2:19 *Porque esto halla gracia,*
+###  1 Pedro 2:19 
 
-###  1 Pedro 2:19 *si por causa de la conciencia ante Dios, alguien sobrelleva penalidades sufriendo injustamente.*
+#### Nos mostrará que en esto hay gracia ante Dios, en el respeto hacia los amos o jefes de los negocios o empresas en los que un siervo o empleado se encuentre trabajando o sirviendo.
 
-###  1 Pedro 2:20 *Pues ¿qué mérito hay, si cuando ustedes pecan y son tratados con severidad lo soportan con paciencia?*
+#### Un dato muy importante es que esto halla gracia ante Dios, esto es algo impresionante. la humildad, sumision, respeto en el trabajo.
+
+#### Alguien sobrelleva sufriendo injustamente, nos mostrará un sufrimiento no merecido, por hacer lo bueno específicamente, sabiendo que Dios puede ver las acciones de cada uno y teniendo una conciencia limpia hacia Dios podemos hallar Gracia. Interesante.
+
+###  *Porque esto halla gracia,*
+
+###  1 Pedro 2:19
+
+
+
+###   *si por causa de la conciencia ante Dios, alguien sobrelleva penalidades sufriendo injustamente.*
+
+###  1 Pedro 2:20
+
+#### Hay algún mérito de recibir castigo por el pecado cometido?
+
+#### no, no hay ningún mérito en eso.
+
+#### Pero si alguien sufre haciendo lo bueno, hay mérito  y halla gracia con Dios, si sufriendo por hacer lo bueno somos castigados.
+
+###   *Pues ¿qué mérito hay, si cuando ustedes pecan y son tratados con severidad lo soportan con paciencia?*
 
 ###  1 Pedro 2:20 *Pero si cuando hacen lo bueno sufren por ello y lo soportan con paciencia, esto halla gracia con Dios.*
 
-###  1 Pedro 2:21 *Porque para este propósito han sido llamados,*
+# Nos mostrará un propósito
+
+###  1 Pedro 2:21 
+
+#### Nos mostrará que hay un propósito especial que Dios planificó para los creyentes. 
+
+#### Este propósito tomará como ejemplo a Jesucristo, el cual mostrará como ejemplo para seguir sus pasos y reaccionar de la manera que Cristo reaccionó.
+
+#### Cristo sufrio por ustedes, dejando ejemplo para seguir sus pasos. esto es de mucho valor y ánimo en los creyente para mostrarles, una manera práctica de andar y vivir su nueva vida en Cristo, Santificación, como cristo lo hizo.
+
+###  *Porque para este propósito han sido llamados,*
 
 ###  1 Pedro 2:21 *pues también Cristo sufrió por ustedes,*
 
 ###  1 Pedro 2:21 *dejándoles ejemplo para que sigan Sus pasos,*
 
-###  1 Pedro 2:22 *EL CUAL NO COMETIÓ PECADO,*
+###  1 Pedro 2:22 
+
+#### Cristo nos mostrará que no cometio pecado alguno, Poniendo ejemplo a Cristo, nos mostrará la libertad que un cristiano tiene, es para tomar como ejemplo a Cristo.
+
+###  *EL CUAL NO COMETIÓ PECADO,*
 
 ###  1 Pedro 2:22 *NI ENGAÑO ALGUNO SE HALLÓ EN SU BOCA;*
 
-###  1 Pedro 2:23 *y quien cuando lo ultrajaban, no respondía ultrajando.*
+###  1 Pedro 2:23
+
+#### 
+
+###   *y quien cuando lo ultrajaban, no respondía ultrajando.*
 
 ###  1 Pedro 2:23 *Cuando padecía, no amenazaba,*
 
