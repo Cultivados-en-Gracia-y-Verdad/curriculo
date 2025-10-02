@@ -1067,7 +1067,7 @@ www.discipuladocgv.org
 
 ##### 1 Pedro 4:19 "*Así que los que sufren **conforme a la voluntad de Dios**, encomienden sus almas al fiel Creador, haciendo el bien*".
 
-## 1 Timoteo 2:5-6 - El rol de Jesucristo el hombre en relación a la voluntad del Padre
+## 1 Timoteo 2:5-6 - Jesucristo el hombre en relación a la voluntad del Padre
 
 ### 1 Timoteo 2:5a "*Porque hay un __<u>solo</u>__ Dios, y también un solo Mediador entre Dios y los hombres, Cristo Jesús hombre,*" Este pasaje nos __<u>muestra</u>__ que Dios es único y también su mediador es único. No existe otro mediador fuera de Jesucristo.
 
@@ -1103,7 +1103,7 @@ www.discipuladocgv.org
 
 #### El testimonio de Jesucristo es la obra que el hizo por nosotros en la Cruz, este es el testimonio que los creyentes __<u>confirman</u>__. 1 Corintios 1:6; 2 Tesalonicenses 1:10; 1 Timoteo 2:6; 2 Timoteo 1:8; Apocalipsis 1:2
 
-## 1 Timoteo 2:7 El ministerio de Pablo en relación a la voluntad del Padre
+## 1 Timoteo 2:7 El Apostol Pablo en relación a la voluntad del Padre
 
 ### Pablo explica su __<u>rol</u>__ de Apóstol y proclamador del Evangelio.
 
@@ -1203,43 +1203,49 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 2:10b "*...como corresponde a las mujeres que profesan la piedad.*" las mujeres que profesan piedad expresarán de manera __<u>visible</u>__ su mensaje en sus vidas, dando igualdad a lo que profesan con lo que hacen.
 
+#### ¿Quien es una mujer que profesa piedad? Es toda mujer creyente. ¿Porqué? Porque al estar asociado con Cristo llevando el nombre de cristiana, ella profesa piedad directa o indirectamente.  
+
 #### La siguiente lista de obras son manifestaciones de piedad. Esta lista es completamente contraria a la __<u>cultura</u>__ y a la naturaleza humana.
 
 ####  La piedad en la vida de los creyentes tiene un mensaje poderoso que trasciende culturas y es conforme a la voluntad de Dios. 1 Timoteo 2:4-6
 
 ## 1 Timoteo 2:11-12 - La mujer dentro de la congregación
 
-### 1 Timoteo 2:11 "*Que la mujer aprenda calladamente, con toda obediencia*". En el contexto cultural al que __<u>Pablo</u>__ escribió esta carta, las mujeres no podían estudiar, sin embargo vemos el deseo de Pablo que las mujeres también puedan aprender en la congregación.
+### 1 Timoteo 2:11a "*Que la mujer aprenda calladamente...". En el contexto cultural al que __<u>Pablo</u>__ escribió esta carta, las mujeres no podían estudiar, sin embargo vemos el deseo de Pablo que las mujeres también puedan aprender en la congregación.
 
 #### Ahora vemos un __<u>verbo</u>__ imperativo de Pablo, una orden en tiempo presente que aprenda.
 
-#### Esto nos muestra que había libertad en las reuniones de iglesia para que las mujeres __<u>sean</u>__ enseñadas en la verdad de igual manera que los varones. 
+#### Esto nos muestra que había libertad en las reuniones de la iglesia para que las mujeres __<u>sean</u>__ enseñadas en la verdad de igual manera que los varones. 1 Timoteo 2:4
 
 #### Sin embargo, Pablo instruye que aprendan en __<u>silencio</u>__. Esto habla de que el enfoque principal estaba en el aprendizaje más que prohibición. Las mujeres no deben estar interrumpiendo en las reuniones, con el fin de que puedan escuchar la enseñanza. 1 Corintios 14:33-35, 40
 
-#### En toda "*obediencia*"  JUPOTAGE se refiere a tener sujeción. Es un término militar que tiene la idea de estar subordinado en __<u>firmeza</u>__. Habla de escuchar con atención y de manera ordenada.
+#### Cuando uno va a la biblioteca mantiene silencio al aprender. En el mismo sentido, la mujer debe aprender en silencio. 
 
-#### Esta enseñanza de sujeción en las __<u>mujeres</u>__ era contraria a la cultura pagana, en la que había profetizas prominentes que tenían autoridad sobre los varones.
+### 1 Timoteo 2:11b "*...Con toda obediencia...*" JUPOTAGE se refiere a tener sujeción. Es un término militar que tiene la idea de estar subordinado en __<u>firmeza</u>__. Habla de estar en atención y de manera ordenada. Gálatas 2:4-5
 
-### 1 Timoteo 2:12a "*Yo no permito que la mujer enseñe ni que ejerza autoridad sobre el hombre, sino que permanezca callada*". En el anterior verso animaba a las mujeres el aprender __<u>dentro</u>__ de la congregación, sin embargo en este explica el rol de la enseñanza con respecto a varones y mujeres creyentes. 
+#### Esta enseñanza de sujeción en las __<u>mujeres</u>__ era contraria a la cultura pagana, en la que había profetizas prominentes que tenían autoridad sobre los varones. Hechos 16:16-17
+
+### 1 Timoteo 2:12a "*Yo no permito que la mujer enseñe ni que ejerza autoridad sobre el hombre, sino que permanezca callada*". En el anterior verso animaba a las mujeres el aprender __<u>dentro</u>__ de la congregación, sin embargo, en este explica el rol de la enseñanza con respecto a varones y mujeres creyentes. 
 
 #### Pablo explica que el rol de la mujer __<u>dentro</u>__ de la congregación no es el de la enseñanza pública. 1 Corintios 14:34
 
-#### Vemos una limitante en la enseñanza de mujeres en la iglesia de hacerlo a los hombres, esto es __<u>debido</u>__ a que este rol de la enseñanza pública ha sido designado por Dios a los hombres. 
+#### Vemos una limitante en la enseñanza de mujeres en la iglesia de hacerlo a los hombres, esto es __<u>debido</u>__ a que este rol de la enseñanza pública ha sido designado por Dios a los hombres. 1 Timoteo 3:16
 
-#### Sin embargo, esto no __<u>quiere</u>__ decir que las mujeres creyentes no puedan enseñar a los niños y entre mujeres.
+##### Sin embargo, esto no __<u>quiere</u>__ decir que las mujeres creyentes no puedan enseñar a los niños y tampoco entre mujeres. 2 Timoteo 3:15, 1:5; Tito 2:3-4
 
-#### La mujer no puede __<u>ejercer</u>__ autoridad sobre el hombre dentro de la iglesia, debido a que Dios estableció un orden de sujeción dentro de la iglesia.
+#### La mujer no puede __<u>ejercer</u>__ autoridad sobre el hombre dentro de la iglesia, debido a que Dios estableció un orden de sujeción dentro de la iglesia. 1 Corintios 11:3
 
-#### Esto no significa que las mujeres no puedan superarse profesionalmente, o intelectualmente y progresar en __<u>diversas</u>__ áreas de la vida, sino que estas instrucciones son dentro de la iglesia en el orden de autoridad que Dios estableció.
+##### Esto no significa que las mujeres no puedan superarse profesionalmente, o intelectualmente y progresar en __<u>diversas</u>__ áreas de la vida, sino que estas instrucciones son dentro de la iglesia en el orden de autoridad que Dios estableció.
 
-#### Estas instrucciones __<u>hacia</u>__ la mujer creyente no implican ser inferior en posición, o de menor valor ante Dios. 1 Pedro 3:7; Gálatas 3:28
+##### Estas instrucciones __<u>hacia</u>__ la mujer creyente no implican ser inferior en posición, o de menor valor ante Dios. Gálatas 3:28
+
+###### 1 Pedro 3:7 "*Ustedes, maridos, igualmente, convivan de manera comprensiva *con sus mujeres,* como con un vaso más frágil, puesto que es mujer, dándole honor **por ser heredera como ustedes** de la gracia de la vida, para que sus oraciones no sean estorbadas*". 
 
 ### 1 Timoteo 2:12b "*...sino que permanezca callada*". Nuevamente Pablo instruye a las mujeres que permanezcan manteniendo __<u>silencio</u>__ en la congregación.
 
 #### En una cultura que las __<u>mujeres</u>__ no podían ser enseñadas, era de esperarse que haya interrupciones constantes sin dejar avanzar la enseñanza. 
 
-#### Una actitud visible de una mujer que __<u>profesa</u>__ piedad es el de es de permanecer en silencio, facilitando la comprensión y enseñanza dentro de la iglesia, esta postura está incluida dentro de lista de buenas obras. 
+#### Una actitud visible de una mujer que __<u>profesa</u>__ piedad es el de es de permanecer en silencio, facilitando la comprensión y enseñanza dentro de la iglesia. Esta postura está incluida dentro de lista de buenas obras. 
 
 ## 1 Timoteo 2:13-15 - Pablo explica el porque de los roles
 
@@ -1247,11 +1253,11 @@ www.discipuladocgv.org
 
 #### Cabe recalcar que esto no es machista, o feminista, sino es un orden que Dios lo realizó desde mucho __<u>antes</u>__ de la caída, cuando no había pecado en el mundo.
 
-#### En estos pasajes podemos ver el error de no obedecer el orden que Dios realizo para Adán y Eva. Adán falló en ser la __<u>cabeza</u>__ y obedecer a su mujer, y Eva falló en sujetarse a su cabeza.
+#### En estos pasajes podemos ver el error de no obedecer el orden que Dios realizo para Adán y Eva. Adán falló en ser la __<u>cabeza</u>__ y obedeció a su mujer en vez de escuchar a Dios, y Eva falló en sujetarse a su cabeza.
 
-#### Si ambos hubieran obedecido al __<u>orden</u>__ de creación que Dios estableció, no hubieran transgredido ambos, este ejemplo de la caída usará Pablo para explicar argumentos de sujeción en la iglesia. 
+#### Si ambos hubieran obedecido al __<u>orden</u>__ de creación que Dios estableció, no hubieran transgredido ambos. Pablo para explicará desde el orden establecido por Dios para aplicarlo a la sujeción en la iglesia. 
 
-### 1 Timoteo 2:13a "*Porque Adán fue creado primero, después Eva.*" El orden que Dios hizo en la creación es simbolizado __<u>dentro</u>__ de la congregación.
+### 1 Timoteo 2:13a "*Porque Adán fue creado primero, después Eva...*" El orden que Dios hizo en la creación es simbolizado __<u>dentro</u>__ de la congregación.
 
 #### Cada uno __<u>tenía</u>__ propósito individual y complementaron el uno al otro para cumplir el propósito de Dios. 
 
@@ -1263,9 +1269,9 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 2:13c "*...después Eva...*" Eva fue __<u>creada</u>__ después, para ser ayuda idónea para Adán. Génesis 2:18, 21-22
 
-#### De acuerdo al orden de creación que Dios estableció la __<u>mujer</u>__ no debe tomar autoridad (ser cabeza) sobre el hombre.
+#### De acuerdo al orden de la creación que Dios estableció, la __<u>mujer</u>__ no debe tomar autoridad (ser cabeza) sobre el hombre.
 
-### 1 Timoteo 2:14a "*Y Adán no fue el engañado, sino que la mujer, siendo engañada completamente, cayó en transgresión.*" Eva pecó siendo engañada, sin embargo Adán pecó deliberadamente y fue __<u>hecho</u>__ responsable por el pecado que entró al mundo. Romanos 5:12
+### 1 Timoteo 2:14a "*Y Adán no fue el engañado, sino que la mujer, siendo engañada completamente, cayó en transgresión*". Eva pecó siendo engañada, sin embargo Adán pecó deliberadamente y fue __<u>hecho</u>__ responsable por el pecado que entró al mundo. Romanos 5:12; Génesis 3:13
 
 #### Este argumento que Pablo usa de la creación nos explicará el los roles que Dios planificó dentro de la congregación, el rol de la mujer piadosa y el rol de responsabilidad __<u>sobre</u>__ los hombres en la iglesia.
 
@@ -1285,37 +1291,43 @@ www.discipuladocgv.org
 
 #### Satanas vino con __<u>astucia</u>__ y la tento, ella escuchó, miro con agrado el fruto prohibido, y fue engañada y como consecuencia la transgresión. Génesis 3:1-7
 
-#### La cultura en nuestros días insta a la igualdad de género y también esta entrando en las congregaciones, sin __<u>embargo</u>__ vemos en La Escritura desde la creación roles específicos para el hombre y para la mujer, no iguales, complementarios uno al otro.
+#### La cultura en nuestros días insta a la igualdad de género. Esta mentalidad esta influenciando en las congregaciones. Sin __<u>embargo</u>__, vemos en La Escritura desde la creación roles específicos para el hombre y para la mujer, no iguales, sino complementarios uno al otro. 
 
-#### ¿Cómo una mujer piadosa puede ser librada de ser engañada y caer en transgresión? El versículo __<u>siguiente</u>__ nos hablará de una salvación de este engaño, sujetándose voluntariamente a su cabeza y cumplir con el rol (propósito) específico para la mujer. 
+##### Cuando una mujer se desarrolla dentro de su rol, llega a ser una mujer agradable al Señor y a toda persona. Romanos 16:12; Proverbios 31:10, 26
 
-### 1 Timoteo 2:15a "*Pero...*" La palabra "*pero*" da ánimo que no tiene que permanecer de esa manera. Increíblemente este __<u>pasaje</u>__ va dentro de la lista de mujeres que profesan piedad.
+##### ¿Cómo una mujer creyente puede ser librada de ser engañada y caer en transgresión? 
+
+###### El versículo __<u>siguiente</u>__ nos hablará de una salvación de este engaño, sujetándose voluntariamente a su cabeza y cumpliendo con el rol (propósito) específico para la mujer. 
+
+### 1 Timoteo 2:15a "*Pero...*" La palabra "*pero*" da ánimo que no tiene que permanecer de esa manera. Increíblemente este __<u>pasaje</u>__ va dentro de la lista de mujeres que profesan piedad. 1 Timoteo 2:4
 
 #### Sin embargo puede caer en __<u>malas</u>__ interpretaciones con respecto a la palabra de salvación, lo cual aclararemos en este pasaje.
 
 ### 1 Timoteo 2:15b "*...se salvará engendrando hijos...*" Este __<u>verso</u>__ causa muchas preguntas y confusión relacionadas a la salvación:
 
-#### Pero en esta conversación las __<u>madres</u>__ podrian objetar, "¿Queremos participar en armonia con la voluntad de Dios, pero Pablo, qué piedad hay en la crianza de niños?" Pablo les anticipa con la siguiente explicación. 
+#### Pero en esta conversación las __<u>madres</u>__ podrian objetar, "Queremos participar en armonia con la voluntad de Dios, pero Pablo, ¿qué piedad hay en la crianza de niños?" Además, ¿Cómo podemos aprender (escuchar) si tenemos que cuidar los niños? Pablo les anticipa con la siguiente explicación. 
 
-#### Primeramente, ¿de qué salvación está hablando en este pasaje? ¿será que una mujer es salva del __<u>infierno</u>__ engendrando hijos?
+#### Primeramente, ¿de qué salvación está hablando en este pasaje? 
 
-##### La palabra salvación SOZO en la Biblia __<u>puede</u>__ ser utilizada para referirse a:
+#### ¿será que se refiere a una mujer siendo salva del __<u>infierno</u>__ engendrando hijos?
 
-###### Salvación física: Está __<u>referida</u>__ a la preservación del cuerpo físico ó muerte física.
+#### La palabra salvación SOZO en la Biblia __<u>puede</u>__ ser utilizada para referirse a:
 
-###### Salvación de la pena del __<u>pecado</u>__ (justificación): Es conocida como la salvación del infierno o de la condena de los pecados. Romanos 5:1
+##### Salvación física: Está __<u>referida</u>__ a la preservación del cuerpo físico ó muerte física.
 
-###### Salvación del __<u>poder</u>__ del pecado (santificación): Nos habla en el aspecto de cada día ser salvo del poder del pecado en la vida del creyente. Filipenses 1:6
+##### Salvación de la pena del __<u>pecado</u>__ (justificación): Es conocida como la salvación del infierno o de la condena de los pecados. Romanos 5:1
 
-###### Salvación de la presencia del __<u>pecado</u>__ (glorificación): Nos muestra una salvación futura, separados completamente del pecado. Romanos 13:11
+##### Salvación del __<u>poder</u>__ del pecado (santificación): Nos habla en el aspecto de cada día ser salvo del poder del pecado en la vida del creyente. Filipenses 1:6
+
+##### Salvación de la presencia del __<u>pecado</u>__ (glorificación): Nos muestra una salvación futura, separados completamente del pecado. Romanos 13:11
 
 #### Este versículo es un __<u>ejemplo</u>__ de la salvación de una mujer que profesa piedad en un sentido de santificación (siendo salva del poder del pecado). 
 
-##### ¿Cómo es que engendrar __<u>hijos</u>__ puede ser parte de su santificación?
+##### ¿Cómo es que engendrar __<u>hijos</u>__ puede ser parte de su santificación? Juan 16:21
 
-##### Una mujer piadosa se salvaría de ser engañada y caer en transgresión, cumpliendo con el rol específico que Dios __<u>diseño</u>__ para ella.
+##### Una mujer piadosa se salvaría de ser engañada y caer en transgresión, cumpliendo con el rol específico que Dios __<u>diseño</u>__ para ella. 
 
-##### Las mujeres tienen el rol de tener ó engendrar hijos (claramente no es dado este rol a los hombres). __<u>Conlleva</u>__ una bendición especial, única para las mujeres de parte de Dios. 
+##### Las mujeres tienen el rol de tener ó engendrar hijos (claramente no es dado este rol a los hombres). __<u>Conlleva</u>__ una bendición especial, única para las mujeres de parte de Dios. Génesis 49:25; Job 31:15; Salmo 127:3
 
 ##### Dentro de este propósito está tambien criarlos en piedad. Esta mujer puede __<u>tomar</u>__ esta instrucción por la fe, y cumplir con el rol designado por Dios a las mujeres y ser santificada en el proceso. 1 Timothy 5:14, 1:5, 1:14
 
@@ -1325,19 +1337,19 @@ www.discipuladocgv.org
 
 #### Esta porción debería ser traducida "*permanecen*" ya que es un verbo aoristo, activo subjuntivo en __<u>tercera</u>__ persona plural. La versión BTX la traduce correctamente: "*si permanecen en fe, amor y santificación, con sensatez*". BTX
 
-##### Esto podria referirse a las __<u>mujeres</u>__ o a la madre y sus hijos. Si se refiere a ellas como grupo entonces estas son condicionantes personales. Si incluye los hijos entonces de trata de que las madres tienen el rol de infundir estos valores en sus hijos. 
+##### Esto podria referirse a las __<u>mujeres</u>__ como un grupo o puede referirse a la madre y sus hijos. Si se refiere a ellas como grupo entonces estas son condicionantes personales. Si incluye los hijos entonces de trata de que las madres tienen el rol de infundir estos valores en sus hijos. 
 
-#### Es verdad que ellas no __<u>deben</u>__ enseñar (guardar silencio) a los hombres. Pero si tienen el rol muy importante de infundir valores a los niños en fe, amor, santidad y modestia. 
+#### Es verdad que ellas no __<u>deben</u>__ enseñar (guardar silencio) entre los hombres. Pero si tienen el rol muy importante de infundir valores a los niños en fe, amor, santidad y modestia. 
 
-#### En la modernidad se ha dado entregado este rol de la enseñanza de niños a la "escuela dominical" que __<u>empezó</u>__ probablemente cerca al año 1780 en gran bretaña. Durante la revolución industrial muchos niños ivan directamente a trabajar en las fabricas en vez de aprender a leer y a escribir. 
+##### En la modernidad se ha entregado este rol de enseñanza a los niños a la "escuela dominical" que __<u>empezó</u>__ probablemente cerca al año 1780 en gran bretaña. Durante la revolución industrial muchos niños ivan directamente a trabajar en las fabricas en vez de aprender a leer y a escribir. 
 
-#### Entonces se __<u>inició</u>__ la "escuela dominical" que era escuela literaria en la iglesia el día domingo o sabado. A la vez les enseñaban la Biblia. De ahi empieza lo que hoy conocemos como "escuela dominical". 
+###### Entonces se __<u>inició</u>__ la "escuela dominical" que era la escuela literaria en la iglesia el día domingo o sabado. Les enseñaban a leer y escribir y a la vez les enseñaban la Biblia. De ahi empieza lo que hoy conocemos como "escuela dominical". 
 
-#### Sin embargo, este rol __<u>pertenece</u>__ a los padres, y más específicamente (dada la cercania en el hogar) a las madres. 
+##### Sin embargo, este rol __<u>pertenece</u>__ a los padres, y más específicamente (dada la cercania en el hogar) a las madres. 
 
-#### 1 Timoteo 2:15c "...*si permanecen en fe, amor y santidad con __<u>modestia</u>__...*" 1 Timoteo 1:5, 2:9; 1 Pedro 5:8
+### 1 Timoteo 2:15c "...*si permanecen...en fe, amor y santidad con __<u>modestia</u>__...*" 1 Timoteo 1:5, 2:9; 1 Pedro 5:8
 
-#### Estas condiciones mencionadas parecen incluir a los hijos porque está en plural, pero es deduccíon de parte nuestra. La mujer es santificada a traves de engrendrar hijos. ¿Esto __<u>incluye</u>__ la crianza también? 
+#### Estas condiciones mencionadas parecen incluir a los hijos porque está en plural, pero es deduccíon de parte nuestra. La mujer es santificada a traves de engrendrar hijos. ¿__<u>incluye</u>__ esto la crianza también? 
 
 #### Ella no enseña en público a la congregación, pero si enseña en el hogar a los niños. Si las madres permanecen __<u>andando</u>__ por la fe, amor y santidad y modestia e infunden estos valores en sus hijos tiene recompensas ahora y eternas. Salmo 127:3; Proverbios 31:28-31
 
@@ -1351,15 +1363,15 @@ www.discipuladocgv.org
 
 #### Por todos los que estan en __<u>autoridad</u>__ en la sociedad. 1 Timoteo 2:2a
 
-#### Para que los creyentes puedan __<u>vivir</u>__ en piedad delante de Dios y vista por los hombres. 1 Timoteo 2:2b
+#### Para que los creyentes puedan __<u>vivir</u>__ en piedad y dignidad delante de Dios y vista por los hombres. 1 Timoteo 2:2b
 
 ### Dios el Salvador ve esto como __<u>bueno</u>__ ¿Porqué? 1 Timoteo 2:3 
 
-#### Dios quiere que __<u>todo</u>__ hombre sea salvo. 1 Timote 2:4a
+#### Dios quiere que __<u>todo</u>__ hombre sea salvo. 1 Timoteo 2:4a
 
 #### Dios quiere que todo __<u>salvo</u>__ crezca en el conocimiento de Su verdad. 1 Timoteo 2:4b
 
-#### Esto Dios lo hace por __<u>medio</u>__ del andar piadoso de sus creyentes
+#### Esto Dios lo hace por __<u>medio</u>__ del andar piadoso de Sus creyentes.
 
 ### El Mediador: Jesucristo intercede __<u>entre</u>__ Dios y las personas. 1 Timoteo 2:5
 
@@ -1373,25 +1385,25 @@ www.discipuladocgv.org
 
 #### Sus responsabilidades. 1 Timoteo 2:9-11
 
-##### En __<u>materia</u>__ de vestimenta (1 Timoteo 2:9-10): Debe vestirse modestamente como alguien que profesa adorar a Dios.
+##### En __<u>materia</u>__ de vestimenta: Debe vestirse modestamente como alguien que profesa adorar a Dios. 1 Timoteo 2:9-10
 
-##### En cuestiones de __<u>actitud</u>__ (1 Timoteo 2:11): Debe escuchar y aprender en silencio y con humildad.
+##### En cuestiones de __<u>actitud</u>__: Debe escuchar y aprender en silencio y con humildad.
 
 #### Sus restricciones. 1 Timoteo 2:12-14
 
-##### La regla (1 Timoteo 2:12): A la mujer no se le __<u>permite</u>__ enseñar o tener autoridad sobre un hombre.
+##### La regla: A la mujer no se le __<u>permite</u>__ enseñar o tener autoridad sobre un hombre. 1 Timoteo 2:12
 
-##### La __<u>razón</u>__ (1 Timoteo 2:13-14): Se dan dos factores.
+##### La __<u>razón</u>__: Se dan dos factores. 1 Timoteo 2:13-14
 
-###### El factor de la __<u>creación</u>__ original (1 Timoteo 2:13): Adán fue creado antes que Eva.
+###### El factor de la __<u>creación</u>__ original: Adán fue creado antes que Eva. 1 Timoteo 2:13
 
-###### El factor de la corrupción original (1 Timoteo 2:14): Adán no fue engañado por __<u>Satanás</u>__ como lo fue el mujer.
+###### El factor de la corrupción original: Adán no fue engañado por __<u>Satanás</u>__ como lo fue la mujer. 1 Timoteo 2:14
 
-#### Su redención (1 Timoteo 2:15): Ella estará __<u>siendo</u>__ salva (santificada) a través de la maternidad. Viviendo en fe, amor, santidad y modestia.
+#### Su redención: Ella estará __<u>siendo</u>__ salva (santificada) a través de la maternidad. Viviendo en fe, amor, santidad y modestia.  1 Timoteo 2:15
 
 # 1 Timoteo 3:1-16 - Líderes en la iglesia
 
-### 1 Timoteo 3:1a "*Palabra fiel es esta:...*" La __<u>frase</u>__ "*Palabra fiel*" aparece tres veces en 1 Timoteo. 1 Timoteo 1:15, 3:1, 4:9
+### 1 Timoteo 3:1a "*Palabra fiel es esta:...*" La __<u>frase</u>__ "*Palabra fiel*" aparece tres veces en 1 Timoteo. 
 
 #### 1 Timoteo 1:15 "*Palabra fiel...*" - Cristo vino al __<u>mundo</u>__ para salvar a los pecadores...
 
@@ -1405,35 +1417,37 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 3:1b "*si alguien aspira al cargo de obispo buena obra desea hacer*..." Pablo aquí le aclara a Timoteo que si hay algún hermano que aspira ser anciano que vea esa intención con buen __<u>ánimo</u>__. 
 
+#### Tener la intención de ser anciano (obispo) es bueno! Debemos animar a los que desean ser ancianos en vez de desanimar el deseo de ancianato. 
+
 #### Obispo, anciano y pastor son términos sinónimos. En realidad hay tres palabras en el griego que son __<u>usadas</u>__ para describir la misma posición de lider en cada iglesia local. 
 
-##### EPISCOPOS __<u>obispo</u>__ - El oficio de velar, dirigir y cuidar una iglesia.[^36] Hechos 20:28; Filipenses 1:1; 1 Timoteo 3:1; Tito 1:7
+##### EPISCOPOS __<u>obispo</u>__ - El oficio de velar, dirigir y cuidar una iglesia.[^1] Hechos 20:28; Filipenses 1:1; 1 Timoteo 3:1; Tito 1:7
 
-##### PRESBUTEROS Anciano - Un anciano encargado de una asamblea de creyentes cristianos (como __<u>cargo</u>__ designado o elegido).[^37] Hechos 20:17; Tito 1:5, 6; 1 Pedro 5:1
+##### PRESBUTEROS Anciano - Un anciano encargado de una asamblea de creyentes cristianos (como __<u>cargo</u>__ designado o elegido).[^1] Hechos 20:17; Tito 1:5, 6; 1 Pedro 5:1
 
-##### POIMEN Pastor - Gobernar a un __<u>grupo</u>__ de personas, entendido como cuidar ovejas o cabras.[^38] Hechos 20:28; Efesios 4:11; 1 Pedro 5:2
+##### POIMEN Pastor - Gobernar a un __<u>grupo</u>__ de personas, entendido como cuidar ovejas o cabras.[^1] Hechos 20:28; Efesios 4:11; 1 Pedro 5:2
 
 #### En cada caso, siempre los vemos a estos líderes en plural. El cual nos lleva a pensar en la práctica de la pluralidad de liderazgo (Hechos 14:23; Tito 1:5; Hebreos 13:7). Si bien __<u>puede</u>__ haber un anciano que se llama pastor que tiene el don de pastorear, no es el único anciano. El es parte del concilio de ancianos. 
 
 #### ¿Es necesario que una iglesia __<u>local</u>__ coloque ancianos? 
 
-#### Aunque el rol de anciano es bíblico y justamente el trabajo de Timoteo en Efeso fue establecer ancianos y diáconos, es una mala práctica colocar personas indebidas (que no califican) __<u>como</u>__ ancianos. Estas personas pueden llevar a toda la iglesia a descarriarse. 
+#### El rol de anciano es bíblico y justamente el trabajo de Timoteo en Efeso fue establecer ancianos y diáconos. Es una mala práctica colocar personas indebidas (que no califican) __<u>como</u>__ ancianos. Estas personas pueden llevar a toda la iglesia a descarriarse. 
 
 #### Es mejor __<u>estar</u>__ sin ancianos y diaconos que escogerlos sin que califiquen bíblicamente.
 
-#### La siguiente lista de requisitos que veremos para que un creyente de la iglesia sea designado como anciano va __<u>acorde</u>__ a la responsabilidad y rol que debe cumplir dentro de la iglesia local, veremos algunos aspectos de la importancia de que estos requisitos sean cumplidos en totalidad:
+#### La siguiente lista de requisitos que veremos para que un creyente de la iglesia sea reconocido como anciano va __<u>acorde</u>__ a la responsabilidad y rol que debe cumplir dentro de la iglesia local. Veremos algunos aspectos de la importancia de que estos requisitos sean cumplidos en totalidad y en todo tiempo:
 
-##### Tito 1:9-10, los líderes (ancianos, pastores u obispos) de la iglesia local, deben estar capacitados en el mensaje __<u>claro</u>__ de la Escritura, de esa manera podrían animar y tambien corregir en mansedumbre a los miembros de la iglesia. Debe tener la capacidad de demostrar por la Escritura enseñanzas erroneas que pueden surgir dentro o desde afuera de la iglesia.
+##### Los líderes (ancianos, pastores u obispos) de la iglesia local, deben estar capacitados en el mensaje __<u>claro</u>__ de la Escritura, de esa manera podrían animar y tambien corregir en mansedumbre a los miembros de la iglesia. Debe tener la capacidad de demostrar por la Escritura enseñanzas erroneas que pueden surgir dentro o desde afuera de la iglesia. Tito 1:9-10 
 
-##### Hechos 20:28-31, la designación bíblica de líderes no viene de iniciativa humana, sino por la guía Divina que nos a sido provista en las Escrituras. El lider debe __<u>andar</u>__ en continua examinación propia y de los miembros de la iglesia por medio de las Escrituras.
+##### La designación bíblica de líderes no viene de iniciativa humana, sino por la guía Divina que nos a sido provista en las Escrituras. El lider debe __<u>andar</u>__ en continua examinación propia y de los miembros de la iglesia por medio de las Escrituras. Hechos 20:28-31
 
-###### La iglesia esta en constante ataque, Dios no dijo que talvez vengan ataques hacia la iglesia, Dios indicó que efectivamente vendrán doctrinas extrañas. ¿Cómo podría un __<u>pastor</u>__ cuidar al rebaño de esos ataques si no esta capacitado en el mensaje de Cristo?
+###### La iglesia esta en constante ataque. Dios no dijo que talvez vengan ataques hacia la iglesia. Dios indicó que efectivamente vendrán doctrinas extrañas. ¿Cómo podría un __<u>lider</u>__ cuidar al rebaño de esos ataques si no esta capacitado en el mensaje de Cristo?
 
-##### 1 Timoteo 3:6-7, La designación de un líder dentro de la iglesia local, influirá tanto en el pensamiento del creyente en el __<u>nuevo</u>__ rol, como la manera de que el y la iglesia sean persividas por las personas de afuera de la iglesia.
+##### La designación de un líder dentro de la iglesia local, influirá tanto en el pensamiento del creyente en el __<u>nuevo</u>__ rol, como la manera de que el y la iglesia sean persividas por las personas de afuera de la iglesia. 1 Timoteo 3:6-7
 
 ## Requisitos para los ancianos
 
-### Es importante reconocer que TODOS los requisitos dados para el anciano están en tiempo presente. Quiere decir que las condiciones deben ser cumplidos en todo tiempo, no solo un __<u>punto</u>__ en el pasado. 
+### Es importante reconocer que TODOS los requisitos dados para el anciano están en tiempo presente. Quiere decir que las todas las condiciones deben ser cumplidos en todo tiempo, no solo por un __<u>punto</u>__ en el pasado. 
 
 #### Por esa razón, un anciano que no cumple estos requisitos en cualquier momento, debe dejar a un lado su __<u>cargo</u>__ al menos hasta poner en orden sus cosas. 
 

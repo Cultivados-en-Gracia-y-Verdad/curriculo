@@ -7,17 +7,23 @@ Title: 1 & 2 Pedro
 
 # 1 Pedro
 
-# Introducción 
+## Introducción 
 
-La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe en Jesucristo. 
+### La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe en Jesucristo. 
 
 ## Contexto cultural/histórico
 
+### Es en los años 60d.C., bajo el emperador romano, Nerón, la persecución de la iglesia empieza a ponerse peor. Muchos creyentes fueron esparcidos de la provincia de judea a las provicincias de el Ponto, Galacia, Capadocia, Asia y Bitinia. Es aquí donde el Cristianimo empezó a crecer. 
 
+### Las cartas de Gálatas, Efesios y Colosenses son escritos a iglesias en estas provincias. De igual manera, la carta de Apocalipsis es escrito a 7 iglesias que se encuentran en una de estas provincias. 
+
+### 1 Pedro insta a los seguidores de Jesús a participar en su sociedad y a ser mejores ciudadanos que antes de su conversión, para que su buena conducta sea reconocida y la verdad de su fe demostrada. [^5]
+
+### El autor no afirma que esto sea fácil, pero es necesario para la obediencia a Dios, quien es el Creador y [Redentor](https://enterthebible.org/glossary/redeemer) de todas las personas y sociedades. Dios ha llamado a estos seguidores dispersos de Cristo a proclamar las obras poderosas de Dios, y el principal ámbito de esta proclamación es su vida cotidiana.[^5]
 
 # 1 Pedro 1:1-12 – Nuestra Esperanza Viva 
 
-###  1 Pedro 1:1 *Pedro,* Pedro firma la carta como autor del libro. 1 Pedro 5:1. 
+###  1 Pedro 1:1 *Pedro,* Pedro es autor del libro (1 Pedro 5:1) pero lo hizo por medio de Silvano (1 Pedro 5:12). 
 
 ####  ¿Quién es Pedro? 
 
@@ -51,15 +57,17 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 
 ##### Mateo 16:16 "*Simón Pedro respondió: «Tú eres el Cristo, el Hijo del Dios viviente»*". Uno de ellos, Pedro, responde...tú eres el ungido, hijo del Dios viviente. 
 
-##### Mateo 16:17a "*Entonces Jesús le dijo: «Bienaventurado eres, Simón, hijo de Jonás...*" Jesus le responde, "feliz de ti Simón, hijo de Jonas..." Pero, ¿porqué no se refiere a el como Pedro cuando Jesús mismo es el que le dió ese nombre? Juan 1:42
+##### Mateo 16:17a "*Entonces Jesús le dijo: «Bienaventurado eres, Simón, hijo de Jonás...*" Jesus le responde, "feliz de ti Simón, hijo de Jonas..." Pero, ¿porqué no se refiere a el como Simón cuando Jesús mismo es el que le dió ese nombre? Juan 1:42
 
 ###### El mismo nombre (Simón, hijo de Juan) usó Jesus cuando se encontró con los discipulos en en galilea, después que Pedro le había negó tres veces. Juan 21:15-17
 
 ##### Mateo 16:17b *...porque esto no te lo reveló carne ni sangre, sino Mi Padre que está en los cielos.* Simon, no había recibido esta revelación de su padre Jonás, sino del Padre celestial. 
 
-##### Mateo 16:18 *Yo también te digo que tú eres Pedro* (piedrita), *y sobre esta roca* (roca enorme) *edificaré Mi iglesia; y las puertas del Hades no prevalecerán contra ella.*  Basado en la revelación que había recibido Pedro del Padre celestial acerca de quien es Jesús, Jesús le anuncia a Pedro sus planes a futuro. 
+##### Mateo 16:18a "*Yo también te digo que tú eres Pedro (piedrita)...*" Jesus vuelve a usar el nombre que le dió. Juan 1:42
 
-##### Parafraséando, Jesús le dijo a Pedro, "Eres solo una pequeña piedra, pero sobre esta enorme confesión (Jesus es el Cristo) que te reveló mi padre, voy a construir mi iglesia sobre ella”. 
+##### Mateo 16:18a *y sobre esta roca* (roca enorme) *edificaré Mi iglesia; y las puertas del Hades no prevalecerán contra ella.*  Basado en la revelación que había recibido Pedro del Padre celestial acerca de quien es Jesús, Jesús le anuncia a Pedro sus planes a futuro. 
+
+##### Parafraséando, Jesús le dijo a Pedro, "Tu eres solo una pequeña piedra, pero sobre esta enorme roca (la confesion que Jesus es el Cristo) que te reveló mi Padre, voy a construir mi iglesia”. 
 
 ##### Mateo 16:19 *Yo te daré las llaves del reino de los cielos...*" Jesus le dice a Pedro que le daría las llaves del reino de los cielos. Algunos interpretan esto a decir que Pedro es el que está a la puerta del cielo con las llaves para prohibir o dejar ingresar al cielo. ¿Es esto a lo que se refiere este versículo? 
 
@@ -129,17 +137,17 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 
 ## En Síntesis (1 Pedro 1:1)
 
-### Pedro escribió la carta
+### Pedro es el autor la carta. Silvano la transcribe.
 
-### Los dispersados en la zona que hoy conocemos como el norte de Turquía. 
+### Es dirigido a los dispersados en la zona que hoy conocemos como el norte de Turquía. 
 
 ### los elegidos
 
-#### Dios el Padre establece el plan. Es según su conocimiento previo. 
+#### según el  conocimiento previo del Padre
 
-#### Dios el Espíritu Santo hace la obra de santificar para obediencia al Hijo. 
+#### Santificados por el Espíritu.
 
-####  Dios el Hijo provee la sangre para rociar. 
+####  Rociados en la sangre de Cristo.
 
 ## 1 Pedro 1:2-4 Gozo por la salvación pasada
 
@@ -225,41 +233,61 @@ La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe
 
 ###  1 Pedro 1:16 *Porque escrito está: «SEAN SANTOS, PORQUE YO SOY SANTO».*
 
-###  1 Pedro 1:17 *Y si invocan como Padre a Aquel que imparcialmente juzga según la obra de cada uno,*
+###  1 Pedro 1:17a *Y si invocan como Padre a Aquel que imparcialmente juzga según la obra de cada uno,*
 
-###  1 Pedro 1:17 *condúzcanse con temor durante el tiempo de su peregrinación.*
+###  1 Pedro 1:17b *condúzcanse con temor durante el tiempo de su peregrinación.*
 
-###  1 Pedro 1:18 *Ustedes saben que no fueron redimidos de su vana manera de vivir heredada de sus padres con cosas perecederas como oro o plata,*
+###  1 Pedro 1:18a *Ustedes saben que no fueron redimidos de su vana manera de vivir*
 
-###  1 Pedro 1:19 *sino con sangre preciosa,*
+###  1 Pedro 1:18b *heredada de sus padres con cosas perecederas como oro o plata,*
 
-###  1 Pedro 1:19 *como de un cordero sin tacha y sin mancha: la sangre de Cristo.*
+###  1 Pedro 1:19a *sino con sangre preciosa,*
 
-###  1 Pedro 1:20 *Porque Él estaba preparado desde antes de la fundación del mundo,*
+###  1 Pedro 1:19b *como de un cordero sin tacha y sin mancha: la sangre de Cristo.*
 
-###  1 Pedro 1:20 *pero se ha manifestado en estos últimos tiempos por amor a ustedes.*
+###  1 Pedro 1:20a *Porque Él estaba preparado desde antes de la fundación del mundo,*
 
-###  1 Pedro 1:21 *Por medio de Él son creyentes en Dios,*
+###  1 Pedro 1:20b *pero se ha manifestado en estos últimos tiempos por amor a ustedes.*
 
-###  1 Pedro 1:21 *que lo resucitó de entre los muertos y le dio gloria,*
+###  1 Pedro 1:21a *Por medio de Él son creyentes en Dios,*
 
-###  1 Pedro 1:21 *de manera que la fe y esperanza de ustedes sean en Dios.*
+###  1 Pedro 1:21b *que lo resucitó de entre los muertos y le dio gloria,*
 
-###  1 Pedro 1:22 *Puesto que en obediencia a la verdad ustedes han purificado sus almas para un amor sincero de hermanos,*
+###  1 Pedro 1:21c *de manera que la fe y esperanza de ustedes sean en Dios.*
 
-###  1 Pedro 1:22 *ámense unos a otros entrañablemente, de corazón puro.*
+## 1 Pedro 1:22-25 Amor mediante la Palabra que perdura
 
-###  1 Pedro 1:23 *Pues han nacido de nuevo,*
+###  1 Pedro 1:22a "*Puesto que en obediencia a la verdad ustedes han purificado sus almas*" la obediencia a la verdad llevó a que tengan sus almas purificadas. 
 
-###  1 Pedro 1:23 *no de una simiente corruptible, sino de una que es incorruptible,*
+###  1 Pedro 1:22b "*para un amor sincero de hermanos,*" El hecho que ahora tienen almas purificadas, pueden amarse genuinamente, sin fingimiento. 2 Corintios 6:6
 
-###  1 Pedro 1:23 *es decir,mediante la palabra de Dios que vive y permanece.*
+###  "*Sincero*" ANIPOCRITOS - no fingido; sinceramente sentido o expresado.[^1] 
 
-###  1 Pedro 1:24 *Porque: «TODA CARNE ES COMO LA HIERBA, Y TODA SU GLORIA COMO LA FLOR DE LA HIERBA. SÉCASE LA HIERBA, CÁESE LA FLOR,*
+###  1 Pedro 1:22c "*ámense unos a otros entrañablemente,*" Se pueden amar unos a otros con fervor.
 
-###  1 Pedro 1:25 *PERO LA PALABRA DEL SEÑOR PERMANECE PARA SIEMPRE».*
+#### "*Entrañablemente*" EKTENOS - con entusiasmo, de una manera seria, ferviente.
 
-###  1 Pedro 1:25 *Esa es la palabra que a ustedes les fue predicada.*
+###  1 Pedro 1:22d "*de corazón puro.*" No solo con amor sincero, y entrañablemente sino con pureza de corazón. 
+
+Puro 
+
+###  1 Pedro 1:23a *Pues han nacido de nuevo,*
+
+###  1 Pedro 1:23b *no de una simiente corruptible, sino de una que es incorruptible,*
+
+###  1 Pedro 1:23c *es decir, mediante la palabra de Dios que vive y permanece.*
+
+###  1 Pedro 1:24 *Porque: «TODA CARNE ES COMO LA HIERBA,* Toda carne, física o espiritual tiene una corta duración de vida coma la hierba. 
+
+#### 1 Juan 2:17 "*El mundo pasa, y también sus pasiones, pero el que hace la voluntad de Dios permanece para siempre*".
+
+###  1 Pedro 1:24a *Y TODA SU GLORIA COMO LA FLOR DE LA HIERBA.* Salmo 90:5-6
+
+###  1 Pedro 1:24b *SÉCASE LA HIERBA, CÁESE LA FLOR,* Santiago 1:10-11
+
+###  1 Pedro 1:25a *PERO LA PALABRA DEL SEÑOR PERMANECE PARA SIEMPRE».* En contraste con la carta vida de la carne y su gloria, La Palabra de Dios permanece para siempre. 
+
+###  1 Pedro 1:25b *Esa es la palabra que a ustedes les fue predicada.*
 
 ## En Síntesis
 
@@ -1770,3 +1798,4 @@ ___-___
 [^2]: Quora:  https://www.quora.com/When-was-Peter-first-called-a-pope
 [^3]: John D. Barry et al., The Faithful Study Bible (Bellingham, WA: Lexham Press, 2012, 2016), Matthew 16:19
 [^4]: Mounce
+[^5]: Enter the Bible, https://enterthebible.org/courses/1-peter/lessons/background-of-1-peter
