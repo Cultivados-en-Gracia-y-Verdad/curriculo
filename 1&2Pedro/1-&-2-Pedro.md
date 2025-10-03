@@ -477,126 +477,109 @@ Los receptores de la carta habíane estado gozosos a pesar de las pruebas. Estab
 
 # 1 Pedro 2:1-10 – Creciendo hacia la madurez
 
-## 1 Pedro 2:1-3 - Desechar lo malo y beber lo bueno
+## 1 Pedro 2:1-3 - Un ánimo a desechar todo lo malo y crecer para salvación
 
-###  1 Pedro 2:1  *Por tanto, desechando toda malicia, y todo engaño, e hipocresías, y envidias y toda difamación,*
+###  1 Pedro 2:1 - El deseo del apóstol Pedro hacia los creyentes es que se despojen de toda la siguiente lista de acciones negativas en la vida del creyente, en las cuales podría estar viviendo ú experimentando, las cuales son contrarias a su nueva simiente.
 
-#### El deseo del apóstol era los creyentes se despojen de toda esta lista de acciones negativas que el creyente podría manifestar, contrarias a la simiente nueva que tenían.
+### 1 Pedro 2:1a  *"Por tanto, desechando toda malicia,..."* Considerando su nueva manera de vivir, sabiendo que fue purificado, nacido de simiente incorruptible, la instrucción es desechar todo lo malo de su anterior manera de vivir. Efesios 4:22, 25, 31; Santiago 1:21
 
-### 1 Pedro 2:1a  *Por tanto, desechando toda malicia,*...
+#### La palabra *desechando* [APOTIDSEMI] significa de despojarse, desechar algo, ú echarlo fuera. 
 
-#### La palabra *desechando* [APOTIDSEMI] significa de despojarse, desechar algo, ú echarlo fuera. Este verbo en griego se encuentra en tiempo aoristo, medio, participio, dándonos a entender esta indicación realizada, tiene continuidad en el presente y el creyente lo hace en beneficio suyo.
+#### Este verbo se encuentra en tiempo aoristo, medio, participio, dándonos a entender como una invitación constante a ir desechando todas las formas de malicia de su anterior manera de vivir y el creyente lo realiza a su propio beneficio.
 
-#### ¿Como el creyente podría despojarse de toda malicia?. Considerando su nueva realidad en la vida del creyente, sabiendo que fue purificado, nacido de simiente incorruptible, les anima a despojarse de todo lo malo. Efesios 4:22, 25, 31; Santiago 1:21
-###  1 Pedro 2:1b *...y todo engaño,...*
+###  1 Pedro 2:1b *"...y todo engaño,..."* Toda práctica de engaño en la vida del creyente debe ser completamente desechada, debido a que Cristo es ahora el ejemplo de novedad de vida. 1 Pedro 2:22, 3:10
 
-#### El engaño en la vida del creyente debe ser completamente desechado, esto debido a que Cristo es ahora el ejemplo de novedad de vida. 1 Pedro 2:22, 3:10
+#### En las escrituras vemos la práctica del engaño relacionada a quien representan como padre, y esa no es la realidad del creyente. Hechos 13:10 ; Juan 8:44 ; Efesios 5:8 
 
-#### La práctica del engaño en la vida de una persona es relacionado, con su Padre. Hechos 13:10 ; Juan 8:44 ; Efesios 5:8 
+#### El engaño en la vida del creyente es contraria a su nueva identidad y simiente incorruptible. 2 Corintios 4:2 ,11:3 ; 2 Tesalonicenses 2:3 ; 1 Juan 2:21
+###  1 Pedro 2:1c *"...e hipocresías,..."* La hipocresía es una actitud de fingimiento concerniente a cualidades, virtudes o sentimientos que una persona expresa hacia los demás, sin embargo experimenta lo contrario dentro de sí mismo. 
 
-#### La palabra de engaño en el creyente es contraria a su nueva identidad y simiente. 2 Corintios 4:2 ,11:3 ;2 Tesalonicenses 2:3 ; 1 Juan 2:21
-###  1 Pedro 2:1c *...e hipocresías,...*
+#### La vida del creyente puede estar llena de hipocresía fingiendo ser buenas personas hacia los demás y experimentando lo contrario por dentro, podemos ver esta actitud de los fariseos en los tiempos de Jesús. Mateo 23:28 ; Lucas 12:1 
 
-#### La hipocresía es una actitud de fingimiento concerniente a cualidades o sentimientos contrarios a los que tiene o experimentan. 
+#### Un creyente también puede ser arrastrado por la hipocresía de otros, y ser engañado llegando hasta cauterizar su conciencia. Gálatas 2:13 ; 1 Timoteo 4:2
 
-#### La vida del creyente puede estar llena de hipocresía fingiendo ser buenas personas exteriormente y experimentando lo contrario por dentro, podemos ver esta actitud de los fariseos en los tiempos de Jesús. Mateo 23:28 ; Lucas 12:1 
+#### La sabiduría de lo alto que proviene de Dios resultará en buenos frutos sin hipocresía, pero la sabiduría terrenal mundana resultará en celos y confusión. Santiago 3:14-17 
 
-#### Un creyente puede ser arrastrado por la hipocresía de otros, y ser engañado llegando hasta cauterizar su conciencia. Gálatas 2:13 ; 1 Timoteo 4:2
+###  1 Pedro 2:1d *"...y envidias..."* La envidia en el creyente es el resultado de un andar carnal, podemos ver que esta actitud es una obra de la carne. Gálatas 5:21 ; Romanos 13:13
+#### La enseñanza de una doctrina extraña, contraria a la sana doctrina también resulta en envidias, discusiones, contiendas dentro de la congregación. 1 Timoteo 6:4 ; 
 
-###  1 Pedro 2:1d *...y envidias...*
-#### Las envidias en la vida del creyente son el resultado un andar carnal, lo cual anima a no andar de esta manera. Gálatas 5:21 ; Romanos 13:13
+###  1 Pedro 2:1d *"...y toda difamación,"* También toda clase de chismes, comentarios hirientes y calumnias con el fin de difamar a una persona deben ser desechados, ya que afectan a todo el cuerpo de Cristo. 2 Corintios 12:20 
 
-#### La enseñanza de una doctrina extraña, contraria a la sana doctrina resulta en envidias, discusiones, contiendas...1 Timoteo 6:4
-
-###  1 Pedro 2:1d *...y toda difamación,...*
-
-#### La difamación nos muestra el hablar mal de otros, específicamente de sus hermanos. Sant. 4:11
+#### La difamación nos muestra el hablar mal de otros, específicamente de sus hermanos. Santiago 4:11
 
 #### Jesús nos muestra que del interior del corazón vienen las calumnias. Mateo 15:18-19
 
-###  1 Pedro 2:2 *deseen como niños recién nacidos, la leche pura de la palabra, para que por ella crezcan para salvación,*
+###  1 Pedro 2:2 - Contrastando con las conductas negativas de su pasada manera de vivir,  ahora el apóstol Pedro anima a los creyentes hacia el crecimiento espiritual.
 
-#### Desechando las conductas anteriores, Pedro les anima al crecimiento espiritual con un ejemplo de maternidad y crianza que todos conocen, para un bebe recién nacido la leche materna es lo único que necesita para crecer saludable.
+####  Usa el ejemplo de maternidad para mostrar una verdad espiritual, un bebe recién nacido lo único que necesita para crecer saludable es la leche materna, de igual manera el deseo es que los creyentes crezcan para salvación con la palabra pura.
 
-#### De igual manera el deseo de un creyente recién nacido es que sea la pureza de la palabra, la cual le llevará a crecer, hacia una madurez espiritual.
+### 1 Pedro 2:2a *"deseen como niños recién nacidos,..."* La palabra deseen [EPIPODSEO] es un anhelo intenso, con vehemencia, buscar con ansias. Este verbo es una orden que los creyentes deben realizar. 
 
-#### En términos humanos si un niño no crece, pues tiene algún problema y es completamente anormal. lo normal es que crezca. no que se quede bebe o niño para siempre. de igual manera en la vida espiritual. usa este ejemplo hacia el crecimiento y madurez.
+#### En el ejemplo de un niño recién nacido que grita intensamente cuando tiene hambre, solo descansa cuando le dan de lactar, nos muestra la imagen de desear fervientemente hasta tener la leche pura de la palabra.
 
-#### -No quería que se queden niños toda la vida, sino crezcan, de igual manera pablo, a los corintios les muestra la leche antes de la carne.
+###  1 Pedro 2:2b *"...la leche pura de la palabra,..."* La leche pura, nos muestra algo sin engaño, no adulterada, Nos muestra la pureza de la palabra la cual es vital para el crecimiento de los creyentes.
 
-#### -En el contexto de hebreos les muestra en un aspecto negativo la leche espiritual, connotando que no eran capaces del alimento sólido.
+#### En este pasaje vemos de manera positiva la leche espiritual, para el crecimiento de los creyentes, sin embargo en las cartas de corintios y hebreos vemos la leche, con un énfasis negativo.
 
-​      *deseen como niños recién nacidos,*
+##### En la iglesia en Corinto nos muestra que los creyentes no crecieron con la leche pura de la palabra, se quedaron como niños teniendo celos y discusiones entre sí, se volvieron incapaces de recibir alimento sólido, esto fue debido a su carnalidad, la cual les impidió crecer hacia la madurez espiritual. 1 Corintios 3:1-3 
 
-#### La palabra deseen [EPIPODSEO] es un anhelo intensamente, con vehemencia e intensivamente, esta es un imperativo que el creyente realiza.
+##### En la epístola a los Hebreos nos muestra que la práctica en la palabra de justicia, les llevaría hacia un pleno discernimiento, sin embargo necesitaban otra vez volver a la leche, debido a que se habían hecho tardos para oír, ya debían ser maestros y estar enseñando. Hebreos 5:12-13
 
-#### El ejemplo de un niño recién nacido que grita intensamente cuando tiene hambre de leche, y solo descansa hasta que le dan de lactar, esa imagen nos muestra como una realidad espiritual.
+###  1 Pedro 2:2c *"...para que por ella crezcan para salvación,"* La pureza de la palabra llevará a los creyentes hacia la madurez espiritual.
 
-#### Pablo en ninguna manera dijo que actuaran como niños, sino les muestra el ejemplo de inocencia 1 Corintios 14:20
+#### La palabra crezcan [AUXANO] es un verbo en tiempo aoristo, pasivo, subjuntivo, la voz pasiva nos muestra que otro es el que realiza la acción. En este contexto Dios es el que da el crecimiento y es el deseo que así sea. 1 Corintios 3:6-7
 
-###  *la leche pura de la palabra,* o leche pura espiritual
+#### La responsabilidad del creyente para un crecimiento espiritual es un andar en fe, un andar en la carne solo impedirá el crecimiento de los creyentes. 1 Corintios 3:3-5
 
-#### Los niños recién nacidos solo pueden crecer con únicamente leche sólida, y si no toman leche no crecen.  1 Corintios 3:1-3, nos muestra que no eran capaces de algo mas sólido, necesitaban crecer primero y después la carne, algo mas sólido, en un aspecto negativo, por que los corintios no crecieron, pues por ser carnales, y la consecuencia de su carnalidad eran divisiones..
+#### Los creyentes crecerán y serán nutridos por la cabeza del cuerpo, Cristo mediante hablar la verdad en amor que es la pureza de la palabra. Efesios 4:15-16
 
-#### En el contexto de Hebreos la leche es usada de manera negativa, en el sentido de que no crecieron o no se fundaron bien en el conocimiento elemental de los oráculos de Dios. ellos ya debían ser maestros, y estar enseñando. Hebreos 5:12 - 13
+#### La salvación referida aqui es la santificación en la vida del creyente, vemos en 1 Timoteo 2:4 Dios quiere que todos los salvos vengan al pleno conocimiento de la verdad. Juan 17:17 ; Romanos 10:2 ; Colosenses 1:9-10; Efesios 1:16-18, 3:18-19
 
-#### Jesús también tenía muchas cosas que decirles pero todavía no eran capaces de soportarlas. Juan 16:12
+###  1 Pedro 2:3  *"si es que han probado la bondad del Señor."*
 
-#### Que tan importante es la leche pura de la mama lactante, no tiene que ser adulterada, con nada, sencillamente, la pureza de la palabra sin ningún tipo de adulterio, es como una leche materna adulterada con cafe, eso no será de beneficio a un niño recien nacido.
+#### La palabra si es un condicional de primer grado, dándonos a entender que si ya habían probado la bondad del señor.
 
-###  1 Pedro 2:2 *para que por ella crezcan para salvación,*
+#### Una traducción de la Biblia textual  nos muestra ... *ya que gustasteis que el Señor es bueno.* (BTX4) 
 
-#### Como se crece en la salvación?, pues sencillamente con la leche, sin adulterar
+#### La bondad de Dios o la benignidad de Dios es un atributo que los creyentes ya conocían cuando fueron rescatados de su antigua manera de vivir. Romanos 2:4 ; Efesios 2:7, 4:32 ; Tito 3:3-7
 
-#### La leche sin adulterar nos llevará a crecer para la salvación.
+## 1 Pedro 2:4-8 – Piedras vivas edificando una casa espiritual
 
-#### Como recien nacidos nos muestra que clamemos con vehemencia, con el fin de crecer en este camino de salvación.
+###  1 Pedro 2:4 - Tomará a Él (Cristo) como un ejemplo de piedra viva, la cual los hombres desecharon, sin embargo esta piedra era escogida por Dios y preciosa a su vista.
 
-#### Es el deseo de Dios que todos podamos crecer en este caminar de fe en el aspecto de salvación (Santificación)
+#### En estos pasajes veremos seguido el uso de la palabra piedra, esto puede haber sido muy significativo para el apóstol Pedro, debido a que Jesús le cambio el nombre de Simón a Cefas que quiere decir Pedro (PETROS-Piedra). Juan 1: 42
 
-#### En 1 Timoteo 2:4 nos muestra que lo que Dios quiere es que todos vengan al pleno conocimiento de la verdad. sin embargo aquí vemos este crecimiento para salvación mas desglosado, con un ejemplo materno
+###  1 Pedro 2:4a *"Y viniendo a Él,..."* La palabra viniendo [PROSERJOMAI] significa acercarse, venir hacia, este verbo se encuentra en tiempo presente, pasivo-medio, participio, indicando a los creyentes una invitación constante de que pueden acercarse a él en beneficio suyo.
 
-###  1 Pedro 2:3 *si es que han probado la bondad del Señor.*
+###  1 Pedro 2:4b *"...como a una piedra viva,..."* Las piedra es un material inerte y sin vida, generalmente usado en la construcción, sin embargo nos mostrará en esta ilustración a una piedra viviente y el propósito que tiene esta en el plan de Dios.
 
-#### que tipo de condicional es este si?
+#### La palabra viva [ZAO] es un verbo en en tiempo presente, activo, participio, dándonos a entender la piedra que hoy esta viva y activamente viviendo.
 
-#### Claramente esta hablando a creyentes, osea que sies que han probado y si lo han hecho, pues ya conocen la bondad de DIos para con la justificación, ahora pues conocerán la bondad de DIos para con la santificación.
+#### La biblia textual lo traduce de la siguiente manera *"Acercándoos a Él, Piedra viviente,...*" (BTX4).
 
-## 1 Pedro 2:1-10 – Piedras vivas y piedra de escándalo
+###  1 Pedro 2:4c *"...desechada por los hombres,..."* Esta piedra viva, escogida por Dios fue desaprobada y repudiada por los constructores, en este contexto refiriéndose al rechazo de Israel hacia el mesías. 1 Pedro 2:7 ; Juan 1:11 ; 10:22-25 , 31-33
 
-###  1 Pedro 2:4 *Y viniendo a Él, como a una piedra viva, desechada por los hombres, pero escogida y preciosa delante de Dios,*
+#### Este verbo desechar se encuentra en tiempo perfecto, participio dándonos a entender que actualmente lo sigue siendo desechada continuamente en el presente.
 
-#### Vinieron a el como una piedra viva, la cual desecharon, esta piedra es algo específico ante DIos, es algo completamente precioso delante de DIos.
+###  1 Pedro 2:4d *"...pero escogida y preciosa delante de Dios,"* Esta piedra valiosa fue escogida por Dios mismo con un propósito. 1 Pedro 1:20 ; 2 Timoteo 1:9 ; Tito 1:2 
 
-###  *Y viniendo a Él, como a una piedra viva,*
+#### Vemos un contraste, ante Dios es preciosa esta piedra, ante los hombres es desechada y reprobada.
 
-#### Como es que es una piedra viva?
+###  1 Pedro 2:5 - Ahora muestra a los creyentes como piedras vivas, formando parte en la edificación de una casa espiritual, un sacerdocio santo, mostrando un propósito vivo para Dios.
 
-#### Tiene algún sentido las piedras?
+###  1 Pedro 2:5a *"también ustedes, como piedras vivas,..."* Considerando el ejemplo de Él (Cristo) como piedra viva, de esa misma manera también ustedes los creyentes sean piedras vivas utilizadas para un propósito.1 Corintios 3:9
 
-#### Algo inerte tiene vida?
+###  1 Pedro 2:5b *"...sean edificados como casa espiritual..."* El ser edificados como casa, muestra el propósito en la construcción de la obra que Dios esta realizando, una casa espiritual, y los creyentes ahora son parte de la obra como piedras vivas.
 
-#### A que se puede estar refiriendo, que el es una piedra viva?
+#### La biblia textual lo traduce de la siguiente manera, afirmando que ya son edificados.  *"vosotros también sois edificados como piedras vivientes, casa espiritual..."* BTX4
 
-###  1 Pedro 2:4 *desechada por los hombres, pero escogida y preciosa delante de Dios,*
+###  1 Pedro 2:5c *"...para un sacerdocio santo,..."* Dentro del contexto de creyentes judíos al que Pedro exponía esta carta, el sacerdocio era un rol dentro de israel muy importante, el cual intercedían por el pueblo.
 
-#### Generalmente las piedras son utilizadas en la construcción de algo.
-
-#### Cuando uno rechaza una piedra es por que es defecuosa o con una forma que no se puede utilizar.
-
-#### muestran que rechazaron a la piedra escogida por DIos, y delante de DIos
-
-###  1 Pedro 2:5 *también ustedes, como piedras vivas,*
-
-#### Tomando el ejemplo de La piedra viva desechada, Jesucristo, así tambien ustedes, con ese mismo ejemplo de piedra escogida por Dios.
-
-###  *sean edificados como casa espiritual para un sacerdocio santo,*
-
-#### Ustedes piedras vivas iglesia, sean edificados como casa espiritual.
-
-#### Las piedras se utilizan en la constucción de edificios, ahora los creyentes forman parte de un edificio vivo, una casa espiritual,
+#### Sin embargo, Estos sacerdotes no podían ser santos,
 
 #### Un sacerdocio santo, tenían experiencia los judíos de sacerdotes, los cuales tenían que ofrecer sacrificios primeramente por sus delitos y pecados y despues por los de la nación, sin embargo aquí vemos un sacerdocio santo, los creyentes son llamados a participar de esto
+
+#### 
 
 ###  *para ofrecer sacrificios espirituales aceptables a Dios*
 
@@ -808,9 +791,7 @@ Los receptores de la carta habíane estado gozosos a pesar de las pruebas. Estab
 
 ## 1 Pedro 2:18-25 Aprendiendo de siervos
 
-### 
-
-###  1 Pedro 2:18 
+1 Pedro 2:18 
 
 #### Ahora mencionará un grupo especial llamados siervos, en este contexto podemos ver que son trabajadores o servidores.
 
@@ -837,8 +818,6 @@ Los receptores de la carta habíane estado gozosos a pesar de las pruebas. Estab
 ###  *Porque esto halla gracia,*
 
 ###  1 Pedro 2:19
-
-
 
 ###   *si por causa de la conciencia ante Dios, alguien sobrelleva penalidades sufriendo injustamente.*
 
@@ -880,7 +859,11 @@ Los receptores de la carta habíane estado gozosos a pesar de las pruebas. Estab
 
 ###  1 Pedro 2:23
 
-#### 
+####  Cuando alguien ultrajaba a Cristo, no respondía con el mismo acto de agresión, 
+
+#### En el momento que Cristo sufría, el no amenazaba a nadie ni respondía con insultos
+
+#### Lo que hacía era encomendar al que juzga con Justicia. El encomendaba a Dios su circunstancia.
 
 ###   *y quien cuando lo ultrajaban, no respondía ultrajando.*
 
@@ -888,13 +871,29 @@ Los receptores de la carta habíane estado gozosos a pesar de las pruebas. Estab
 
 ###  1 Pedro 2:23 *sino que se encomendaba a Aquel que juzga con justicia.*
 
-###  1 Pedro 2:24 *Él mismo llevó nuestros pecados en Su cuerpo sobre la cruz,*
+###  1 Pedro 2:24
+
+#### Nos muestra que el llevó nuestros pecados en su cuerpo sobre la cruz, con el fin de que nosotros muramos AL PECADO, y vivamos a la JUSTICIA, nos esta mostrando que Cristo ya murió, si y es un hecho completamente comprobado, ahora tambien es comprobado que vivamos a la justicia.
+
+#### al igual que Isaías, nos muestra que por  sus heridas nosotros fuimos sanados.
+
+#### Nos muestra que ya no vivimos para el pecado, sino para la justicia, y ya hemos sido sanados por la muerte de Cristo en la cruz. 
+
+#### Esto es santificación pura.
+
+###  *Él mismo llevó nuestros pecados en Su cuerpo sobre la cruz,*
 
 ###  1 Pedro 2:24 *a fin de que muramos al pecado y vivamos a la justicia,*
 
 ###  1 Pedro 2:24 *porque por Sus heridas fueron ustedes sanados.*
 
-###  1 Pedro 2:25 *Pues ustedes andaban descarriados como ovejas,*
+###  1 Pedro 2:25
+
+#### Nosotros andábamos descarriados, fuera de lugar, como ovejas, pone el ejemplo de las ovejas, se perderán facilmente?
+
+#### Sin embargo ahora hemos vuelto al pastor, y guardián de sus almas, que impresionante. saber esto, Ahora estamos con nuestro pastor y salvador , el que guarda nuestras almas.
+
+###  *Pues ustedes andaban descarriados como ovejas,*
 
 ###  1 Pedro 2:25 *pero ahora han vuelto al Pastor y Guardián de sus almas.*
 
