@@ -19,7 +19,7 @@ Title: 1 & 2 Pedro
 
 ### 1 Pedro insta a los seguidores de Jesús a participar en su sociedad y a ser mejores ciudadanos que antes de su conversión, para que su buena conducta sea reconocida y la verdad de su fe demostrada. [^5]
 
-### El autor no afirma que esto sea fácil, pero es necesario para la obediencia a Dios, quien es el Creador y [Redentor](https://enterthebible.org/glossary/redeemer) de todas las personas y sociedades. Dios ha llamado a estos seguidores dispersos de Cristo a proclamar las obras poderosas de Dios, y el principal ámbito de esta proclamación es su vida cotidiana.[^5]
+### El autor no afirma que esto sea fácil, pero es necesario para la obediencia a Dios, quien es el Creador y Redentor de todas las personas y sociedades. Dios ha llamado a estos seguidores dispersos de Cristo a proclamar las obras poderosas de Dios, y el principal ámbito de esta proclamación es su vida cotidiana.[^5]
 
 # 1 Pedro 1:1-12 – Nuestra Esperanza Viva 
 
@@ -43,7 +43,7 @@ Title: 1 & 2 Pedro
 
 ##### Pedro naturalmente era pronto para hablar y actuar impulsivamente. Juan 18:10; Marcos 9:5-6
 
-###  1 Pedro 1:1 *apóstol de Jesucristo:* Pedro es un apóstol de Jesucristo. Sus credenciales vienen de Jesucristo. Mateo 4:18 
+###  1 Pedro 1:1 *apóstol de Jesucristo:* Pedro es un apóstol de Jesucristo. Sus credenciales vienen de Jesucristo. 2 Pedro 1:1; Mateo 4:18 
 
 #### Pedro es uno de doce Apóstoles. Mateo 10:2; Marcos 3:16
 
@@ -121,7 +121,7 @@ Title: 1 & 2 Pedro
 
 ## Los recipientes de la carta
 
-###  1 Pedro 1:1a *A los expatriados, de la dispersión* la carta es escrita a los extranjeros temporales PAREPIDEMOS de creyentes judios esparcidos.1 Pedro 5:14
+###  1 Pedro 1:1a *A los expatriados, de la dispersión* la carta es escrita a los extranjeros temporales PAREPIDEMOS de creyentes judios esparcidos.1 Pedro 5:14; Santiago 1:1
 
 ###  1 Pedro 1:1b *en el Ponto, Galacia, Capadocia, Asia y Bitinia,* Específicamente es escrito a los esparcidos ubicados modernamente en el norte de Turquía. 1 Pedro 2:11
 
@@ -129,7 +129,11 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 1:1c *elegidos* EKLEKTOS escogidos. 1 Pedro 2:9
 
-###  1 Pedro 1:2 *según el previo conocimiento de Dios Padre,* El primer punto es que los elegidos son según el previo conocimiento de Dios. El ser elegidos es según el previo conocimiento de Dios. ¿Que conocimiento previo determina la elección? 
+###  1 Pedro 1:2 *según el previo conocimiento de Dios Padre,* El primer punto es que los elegidos son según el previo conocimiento de Dios. El ser elegidos es según el previo conocimiento de Dios. 
+
+el previo conocimiento de Dios no es la causa de nuestra salvación. Nuestro llamado no es específico a los que antes conoció, sino es un llamado a todo el mundo. 
+
+###  ¿Que conocimiento previo determina la elección? 
 
 ###  1 Pedro 1:2 *por la obra santificadora del Espíritu,* El segundo punto es que los elegidos son por la obra santificadora del Espíritu. 
 
@@ -151,85 +155,165 @@ Title: 1 & 2 Pedro
 
 ## 1 Pedro 1:2-4 Gozo por la salvación pasada
 
-###  1 Pedro 1:2 *Que la gracia y la paz les sean multiplicadas a ustedes.* El deseo de Pedro a sus lectores es que Dios multiplique Su gracia y paz a ellos. 
+###  1 Pedro 1:2 *Que la gracia y la paz les sean multiplicadas a ustedes.* El deseo de Pedro a sus lectores es que Dios multiplique Su gracia y paz a ellos. 2 Pedro 1:2
 
-###  1 Pedro 1:3a *Bendito sea el Dios y Padre de nuestro Señor Jesucristo,* Pedro bendice a Dios el Padre quien compartimos en Jesucristo. 
+###  1 Pedro 1:3a *Bendito sea el Dios y Padre de nuestro Señor Jesucristo,* Pedro bendice a Dios el Padre quien compartimos en Jesucristo. 2 Corintios 1:3
 
-###  1 Pedro 1:3b *quien según Su gran misericordia, nos ha hecho nacer de nuevo a una esperanza viva* Bendice al Padre porque ha sido por Su gran misericordia que El no hizo nacer de nuevo y así tener en el una esperanza viva. Tito 1:2; 1 Pedro 1:21
+###  1 Pedro 1:3b *quien según Su gran misericordia, nos ha hecho nacer de nuevo* ha sido por Su gran misericordia que El no hizo nacer de nuevo. Tito 1:2, 3:5; 1 Pedro 1:21; Gálatas 6:16
 
-#### "*Hecho nacer de nuevo*" ANAGENNAO - renovar; concebido como causante de un segundo nacimiento.[^1]
+#### La frase "*Hecho nacer de nuevo*" es ANAGENNAO que significa renovar; concebido como causante de un segundo nacimiento.[^1]
 
-###  1 Pedro 1:3d *mediante la resurrección de Jesucristo de entre los muertos,* ¿Como nos hizo nacer de nuevo a una esperanza viva? Mediante la resurrección de Jesucristo entre los muertos. 
+#### Dios nos hizo nacer de nuevo por su gran HEMAS misericordia. Santiago 1:18; 1 Pedro 1:23
 
-###  1 Pedro 1:4a  *para obtener una herencia,* Parte de nuestra esperanza viva es que tenemos ya una herencia. 
+## Doctrina corta sobre la regeneración en relación a la fe
 
-###  1 Pedro 1:4b *incorruptible, inmaculada y que no se marchitará, reservada en los cielos para ustedes.* Es una herencia que no se contamina con el tiempo, no tiene falla ni se arruina. Esta herencia está guardada en los cielos. 
+#### Es importante establecer el orden del nacimiento espiritual. ¿Creemos para nacer de nuevo, o creemos porque hemos nacido de nuevo?
 
-#### Reservada TEREO (perfecto, pasivo, participio)
+##### Podriamos definir la fe como  “confianza o dependencia en Dios basada en el hecho de que le tomamos a Su palabra y creemos lo que Él ha dicho”. 
+
+##### La regeneración es un “acto secreto de Dios en el que nos imparte nueva vida espiritual; a veces se le llama 'nacer de nuevo'"[^6]
+
+### Versículos usados para apoyar la regeneración antes de la fe
+
+#### Jeremías 24:7 “*Les daré un nuevo corazón para que me conozcan, porque yo soy el Señor; y ellos serán mi pueblo y yo seré su Dios, pues volverán a mí de todo corazón*”,
+
+##### El contexto de este versículo es una profecía dicha a los exiliados en Babilonia. Dios les anuncia que acabando su tiempo de 70 años en babilonia los traerá de regreso a la tierra.
+
+#### Jeremías 31:33 “*Porque éste es el pacto que haré con la casa de Israel después de aquellos días, declara el Señor. Pondré mi ley dentro de ellos, y sobre sus corazones la escribiré. Entonces yo seré su Dios y ellos serán mi pueblo*”, 
+
+##### Este pasaje habla del nuevo pacto que Dios establecerá con Israel y juda. Jeremías 31:31
+
+#### Jeremías 32:39 “*Y les daré un solo corazón y un solo camino, para que me teman siempre, para bien de ellos y de sus hijos después de ellos*”, 
+
+#### Ezekiel 11:19 “*Yo les daré un solo corazón y pondré espíritu nuevo dentro de ellos. Y quitaré de su corazón el corazón de piedra y les daré corazón de carne*”,
+
+##### Estos versículos hablan del cumplimiento del Nuevo Pacto que Dios hará con Israel. Son basados en la promesa que Dios le hizo a Abraham en Génesis 12:1-3. Sin embargo, todos los pasajes hablan de un tiempo que Dios les dará un corazón nuevo pero sabemos por muchos otros pasajes que es solo se cumplen **<u>después</u>** de que Israel cree, no antes. 
+
+###### Efesios 2:1 “*Y Él os dio vida a ustedes, que estaban muertos en vuestros delitos y pecados*”, 
+
+###### Efesios 2:5 “*Aun cuando estábamos muertos en nuestros delitos, nos dio vida juntamente con Cristo (por gracia habéis sido salvados)*”, 
+
+###### Colosenses 2:13 “*Y cuando estaban muertos en vuestros delitos y en la incircuncisión de vuestra carne, les dio vida juntamente con Él, habiéndonos perdonado todos los delitos*”, 
+
+### Versículos usados para apoyar que la fe es antes que la regeneración
+
+#### Juan 3:3 "*Jesús le contestó: «En verdad te digo que el que no nace de nuevo no puede ver el reino de Dios»*".
+
+#### 1 Juan 5:4 "*Porque todo lo que es nacido de Dios vence al mundo. Y esta es la victoria que ha vencido al mundo: nuestra fe*". Claro esta, fe -> nacer -> vencer. 
+
+#### Juan 6:37 "*Todo lo que el Padre me da, vendrá a Mí; y al que viene a Mí, de ningún modo lo echaré fuera*". Venir al Padre resulta en no ser rechazado. 
+
+#### Juan 6:44 "*Nadie puede venir a Mí si no lo trae el Padre que me envió, y Yo lo resucitaré en el día final*". Es necesario ir a Él para ser resucitado en el día final. Es claro este versículo en que el que va a Él es porque el Padre lo atrajo. Nadie busca a Dios pero pueden responder después que Dios los atrae. Juan 12:32
+
+#### Efesios 1:13 "*En Él también ustedes, después de escuchar el mensaje de la verdad, el evangelio de su salvación, y habiendo creído, fueron sellados en Él con el Espíritu Santo de la promesa,*"
+
+#### Habacúc 2:4 "*»Así es el orgulloso: En él, su alma no es recta, Mas el justo por su fe vivirá*".
+
+#### Romanos 10:17 "*Así que la fe viene del oír, y el oír, por la palabra de Cristo*".
+
+#### Romanos 4:5 "*pero al que no trabaja, pero cree en Aquel que justifica al impío, su fe se le cuenta por justicia*".
+
+### ¿Como participa Dios en nuestra salvación? 
+
+#### La salvación pertenece a Dios. Dios nos buscó (Lucas 19:10), Dios nos llamó (), Dios nos atrajo a si mismo de multiples maneras(Juan 12:32), Dios nos hizo escuchar el evangelio (1 Corintios 1:18) y después que nosotros creimos en el Evangelio, Dios nos hizo nacer de nuevo. 
+
+### ¿Como participa el hombre en la salvación? 
+
+#### Debe responder creyendo el evangelio.  
+
+### 1 Pedro 1:3c "*a una esperanza viva*" cuando nos hizo renacer fue para una esperanza viva. Hebreos 3:6, 2 Tesalonicenses 2:16, 1 Pedro 1:13, 21, 3:5, 15; 1 Juan 3:3
+
+#### ¿Cómo nos hizo nacer? 
+
+###  1 Pedro 1:3d "*mediante la resurrección de Jesucristo de entre los muertos,*" 1 Corintios 15:20; 1 Pedro 3:21
+
+#### ¿Cuál fue el propósito Dios tenía para hacernos nacer de nuevo? 
+
+###  1 Pedro 1:4a  "*para obtener una herencia,*" Parte de nuestra esperanza viva es que tenemos ya una herencia. 
+
+###  1 Pedro 1:4b "*incorruptible, inmaculada y que no se marchitará, reservada en los cielos para ustedes*". Es una herencia que no se contamina con el tiempo, no tiene falla ni se arruina. Esta herencia está guardada en los cielos. 
+
+#### Reservada TEREO (perfecto, pasivo, participio) - mantenerse o llegar a mantenerse en un determinado estado, posición o actividad.[^1]
 
 ## 1 Pedro 1:5-7 Gozo por la salvación futura
 
-###  1 Pedro 1:5a  *Mediante la fe ustedes son protegidos por el poder de Dios,* 1 Pedro 5:10
+###  1 Pedro 1:5a  "*Mediante la fe ustedes son protegidos por el poder de Dios,*" 1 Pedro 5:10, 1:9
 
-#### protegidos FROUREO (presente, pasivo, particípio)
+#### "*son protegidos*" PHROUREO (presente, pasivo, particípio) - estar o volverse seguro y mantenerse bajo vigilancia.[^1]
 
-###  1 Pedro 1:5b *para la salvación que está preparada para ser revelada en el último tiempo.* La salvación preparada para ser revelada en el último tiempo es la glorificación futura de cada creyente de la edad de la Iglesia. 1 Corintios 15:51-53
+###  1 Pedro 1:5b "*para la salvación que está preparada para ser revelada en el último tiempo.*" La salvación preparada para ser revelada en el último tiempo es la glorificación futura de cada creyente de la edad de la Iglesia. 1 Corintios 15:51-53
 
-#### Revelada APOCALIPTO (aoristo, pasivo, infinitivo)
+#### Cada creyente es protegido por el poder de Dios mediante la fe para la glorificación. 
 
-###  1 Pedro 1:6a  *En lo cual ustedes se regocijan grandemente,*
+#### Revelada APOCALIPTO (aoristo, pasivo, infinitivo) - ser o llegar a ser conocido por el público; especialmente información que anteriormente sólo era conocida por unas pocas personas o que debía mantenerse en secreto.[^1]
 
-###  1 Pedro 1:6b *aunque ahora, por un poco de tiempo si es necesario, sean afligidos con diversas pruebas,*
+###  1 Pedro 1:6a  "*En lo cual ustedes se regocijan grandemente,*" Trae gran regocijo saber que seremos salvos en el último tiempo. Nuestra futura glorificación y liberación de la misma presencia del pecado nos lleva a ser agradecidos. 
 
-### 1 Pedro 1:7a  *para que la prueba de la fe de ustedes, más preciosa que el oro que perece, aunque probado por fuego,*
+###  1 Pedro 1:6b "*aunque ahora, por un poco de tiempo si es necesario, sean afligidos con diversas pruebas,*" mientras que la herencia es eterna y segura, es posible que el creyente tenga que sufrir temporalmente
 
-### 1 Pedro 1:7b *sea hallada que resulta en alabanza, gloria y honor*
+### 1 Pedro 1:7a  "*para que la prueba de la fe de ustedes, más preciosa que el oro que perece, aunque probado por fuego,*" la prueba presente purifica al creyente como el oro es purificado por el fuego. Es importante entender que es bueno el sufrimiento presente para la futura gloria de Jesucristo. 
 
-### 1 Pedro 1:7c *en la revelación de Jesucristo;*
+### 1 Pedro 1:7b "*sea hallada que resulta en alabanza, gloria y honor...*" La fe pura tiene un valor precioso, más que puro oro. La fe que pasa por la prueba resulta en alabanza, gloria y honor.
+
+### 1 Pedro 1:7c "*en la revelación de Jesucristo...*" cuando Cristo sea manifestado, también seremos manifestados con Él. 
 
 ## 1 Pedro 1:8-9 Gozo por la salvación presente
 
-### 1 Pedro 1:8a *a quien sin haber visto, ustedes lo aman,*
+### 1 Pedro 1:8a "*a quien sin haber visto, ustedes lo aman...*" 
 
-### 1 Pedro 1:8b *y a quien ahora no ven, pero creen en Él,*
+### 1 Pedro 1:8b "*y a quien ahora no ven, pero creen en Él...*" 
 
-### 1 Pedro 1:8c *y se regocijan grandemente con gozo inefable y lleno de gloria,*
+#### "*creen*" está en voz (presente, activo, participio). Ellos estaban siendo creyentes en El. 
 
-### 1 Pedro 1:9  *obteniendo, como resultado de su fe, la salvación de sus almas.*
+### 1 Pedro 1:8c "*y se regocijan grandemente con gozo inefable y lleno de gloria,*"
+
+### 1 Pedro 1:9  "*obteniendo, como resultado de su fe, la salvación de sus almas.*" Romanos 6:22
+
+#### La santificación es la salvación de nuestras almas que es un resultado de nuestra fe. Colosenses 2:6
+
+Los receptores de la carta habíane estado gozosos a pesar de las pruebas. Estaban experimientando los resultados de la sana enseñanza que habían recibido de Pedro y otros. 
 
 ## 1 Pedro 1:10-12 Nuestra salvación anunciada
 
-### 1 Pedro 1:10a  *Acerca de esta salvación, los profetas que profetizaron de la gracia que vendría a ustedes,*
+### 1 Pedro 1:10a  "*Acerca de esta salvación, los profetas que profetizaron de la gracia que vendría a ustedes,*" 
 
-### 1 Pedro 1:10b *diligentemente inquirieron y averiguaron*,
+### 1 Pedro 1:10b "*diligentemente inquirieron y averiguaron*", Lucas 10:24
 
-### 1 Pedro 1:11a  *procurando saber qué persona o tiempo indicaba el Espíritu de Cristo dentro de ellos...*
+### 1 Pedro 1:11a  "*procurando saber qué persona o tiempo indicaba el Espíritu de Cristo dentro de ellos...*"
 
-### 1 Pedro 1:11b *al predecir los sufrimientos de Cristo y las glorias que seguirían.*
+### 1 Pedro 1:11b "*al predecir los sufrimientos de Cristo y las glorias que seguirían*".
 
-### 1 Pedro 1:12a  *A ellos les fue revelado que no se servían a sí mismos, sino a ustedes,*
+### 1 Pedro 1:12a  "*A ellos les fue revelado que no se servían a sí mismos, sino a ustedes...*"
 
-### 1 Pedro 1:12b *en estas cosas que ahora les han sido anunciadas mediante los que les predicaron el evangelio por el Espíritu Santo enviado del cielo;*
+### 1 Pedro 1:12b "*en estas cosas que ahora les han sido anunciadas mediante los que les predicaron el evangelio por el Espíritu Santo enviado del cielo...*"
 
-### 1 Pedro 1:12c *cosas a las cuales los ángeles anhelan mirar.*
+### 1 Pedro 1:12c "*cosas a las cuales los ángeles anhelan mirar*".
 
 # 1 Pedro 1:13-25 – Preparando la mente para la acción
 
-###  1 Pedro 1:13 *Por tanto, preparen su entendimiento para la acción.*
+###  1 Pedro 1:13a "*Por tanto,* el "*por tanto*" es equivalente a, "en vista del hecho de que aunque están pasando por muchas clases de pruebas (1 Pedro 1:6), sin embargo, porque su herencia celestial les espera" (1 Pedro 1:3-6), preparen su entendimiento para la acción (1 Pedro 1:13).
 
-###  1 Pedro 1:13 *Sean sobrios en espíritu,*
+###  1 Timoteo 1:13b "*preparen su entendimiento para la acción.*" 
 
-###  1 Pedro 1:13 *pongan su esperanza completamente en la gracia que se les traerá en la revelación de Jesucristo.*
+###  1 Pedro 1:13b "*Sean sobrios en espíritu,*"
 
-###  1 Pedro 1:14 *Como hijos obedientes,*
+###  1 Pedro 1:13c *pongan su esperanza...* Aquí vemos el primer imperativo en el libro de 1 Pedro. Pablo dice, fijen su esperanza. 
 
-###  1 Pedro 1:14 *no se conformen a los deseos que antes tenían en su ignorancia,*
+#### Pongan ELPIZO es esperar y desear algo. 
 
-###  1 Pedro 1:15 *sino que así como Aquel que los llamó es Santo,*
+#### ¿En qué debían fijar su esperanza? 
 
-#### santo es HAGIOS - separado de la condición y uso común; dedicado. [^4]
+###  1 Pedro 1:13d *completamente en la gracia que se les traerá en la revelación de Jesucristo.* Mantener la mirada, espera y desear conocer la gracia que será traida en la revelación de Jesucristo debe ser al centro de la diana del creyente. 
 
-###  1 Pedro 1:15 *así también sean ustedes santos en toda su manera de vivir.*
+###  1 Pedro 1:14a *Como hijos obedientes...*
+
+###  1 Pedro 1:14b *no se conformen a los deseos que antes tenían en su ignorancia,*
+
+###  1 Pedro 1:15a *sino que así como Aquel que los llamó es Santo,*
+
+#### santo fHAGIOS significa - separado de la condición y uso común; dedicado. [^4]
+
+###  1 Pedro 1:15b *así también sean ustedes santos en toda su manera de vivir.*
 
 ###  1 Pedro 1:16 *Porque escrito está: «SEAN SANTOS, PORQUE YO SOY SANTO».*
 
@@ -269,25 +353,55 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 1:22d "*de corazón puro.*" No solo con amor sincero, y entrañablemente sino con pureza de corazón. 
 
-Puro 
+###  1 Pedro 1:23a "*Pues han nacido de nuevo,*"
 
-###  1 Pedro 1:23a *Pues han nacido de nuevo,*
+###  1 Pedro 1:23b "*no de una simiente corruptible, sino de una que es incorruptible,*"
 
-###  1 Pedro 1:23b *no de una simiente corruptible, sino de una que es incorruptible,*
+###  1 Pedro 1:23c "*es decir, mediante la palabra de Dios que vive y permanece.*"
 
-###  1 Pedro 1:23c *es decir, mediante la palabra de Dios que vive y permanece.*
+#### Isaias 40 la carne y su gloria versus la voluntad De Dios
 
-###  1 Pedro 1:24 *Porque: «TODA CARNE ES COMO LA HIERBA,* Toda carne, física o espiritual tiene una corta duración de vida coma la hierba. 
+##### Isaías 40:1-2 «Consuelen, consuelen a Mi pueblo», dice su Dios. «Hablen al corazón de Jerusalén Y díganle a voces que su lucha ha terminado, Que su iniquidad ha sido quitada, Que ha recibido de la mano del SEÑOR El doble por todos sus pecados».
+
+##### Isaias 40:3-4 Una voz clama: «Preparen en el desierto camino al SEÑOR; Allanen en la soledad calzada para nuestro Dios. Todo valle sea elevado, Y bajado todo monte y collado; Vuélvase llano el terreno escabroso, Y lo abrupto, ancho valle.
+
+##### Isaias 40:5-6 Entonces será revelada la gloria del SEÑOR, Y toda carne a una *la* verá, Pues la boca del SEÑOR ha hablado». Una voz dijo: «Clama». Entonces él respondió: «¿Qué he de clamar?». Que toda carne es como la hierba, y todo su esplendor es como la flor del campo.
+
+##### Isaias 40:7-8 Se seca la hierba, se marchita la flor Cuando el aliento del SEÑOR sopla sobre ella; En verdad el pueblo es hierba. Se seca la hierba, se marchita la flor, Pero la palabra de nuestro Dios permanece para siempre.
+
+##### Isaias 40:9-10 Súbete a un alto monte, Oh Sión, portadora de buenas nuevas. Levanta con fuerza tu voz, Oh Jerusalén, portadora de buenas nuevas; Levánta*la,* no temas. Dile a las ciudades de Judá: «Aquí está su Dios». Miren, el Señor DIOS vendrá con poder, Y Su brazo gobernará por Él. Con Él está Su galardón, Y Su recompensa delante de Él.
+
+##### Isaias 40:11-12 Como pastor apacentará Su rebaño, En Su brazo recogerá los corderos, Y en Su seno *los* llevará; Guiará con cuidado a las recién paridas. ¿Quién midió las aguas en el hueco de Su mano, Y con *Su* palmo tomó la medida de los cielos, O con un tercio de medida calculó el polvo de la tierra? ¿*Quién* pesó los montes con la báscula, Y las colinas con la balanza?
+
+##### Isaias 40:13-14 ¿Quién guió al Espíritu del SEÑOR, O como consejero suyo le enseñó? ¿A quién pidió consejo y *quién* le dio entendimiento? ¿*Quién* lo instruyó en la senda de la justicia, le enseñó conocimiento, Y le mostró el camino de la inteligencia?
+
+##### Isaias 40:15-16 Las naciones *le* son como gota en un cubo, Y son estimadas como grano de polvo en la balanza. Él levanta las islas como al polvo fino. El Líbano no basta para el fuego, Ni bastan sus bestias para el holocausto.
+
+##### Isaias 40:17-18 Todas las naciones ante Él son como nada, Menos que nada e insignificantes son consideradas por Él. ¿A quién, pues, asemejarán a Dios, O con qué semejanza lo compararán?
+
+##### Isaias 40:19-20 El artífice funde el ídolo, El orfebre lo recubre de oro Y el platero *le hace* cadenas de plata. El que es muy pobre para *tal* ofrenda Escoge un árbol que no se pudra; Se busca un hábil artífice Para erigir un ídolo que no se tambalee.
+
+##### Isaias 40:21-22 ¿No saben? ¿No han oído? ¿No se lo han anunciado desde el principio? ¿No lo han entendido desde la fundación de la tierra? Él es* el que está sentado sobre la redondez de la tierra, Cuyos habitantes son como langostas. Él es el que extiende los cielos como una cortina Y los despliega como una tienda para morar.
+
+##### Isaias 40:23-24 Él es* el que reduce a la nada a los gobernantes, *Y* hace insignificantes a los jueces de la tierra. Apenas han sido plantados, Apenas han sido sembrados, Apenas ha arraigado en la tierra su tallo, Cuando Él sopla sobre ellos, se secan, Y la tempestad como hojarasca se los lleva.
+
+##### Isaias 40:25-6 «¿A quién, pues, ustedes me harán semejante Para que Yo sea *su* igual?» dice el Santo. Alcen a lo alto sus ojos Y vean quién ha creado estos *astros*: El que hace salir en orden a su ejército, *Y* a todos llama por *su* nombre. Por la grandeza de Su fuerza y la fortaleza de Su poder No falta ni uno.
+
+##### Isaias 40:27-28 ¿Por qué dices, Jacob, y afirmas, Israel: «Escondido está mi camino del SEÑOR, Y mi derecho pasa *inadvertido* a mi Dios?». ¿Acaso no *lo* sabes? ¿Es que no *lo* has oído? El Dios eterno, el SEÑOR, el creador de los confines de la tierra No se fatiga ni se cansa. Su entendimiento es inescrutable.
+
+##### Isaias 40:29-31 Él da fuerzas al fatigado, Y al que no tiene fuerzas, aumenta el vigor. Aun los mancebos se fatigan y se cansan, Y los jóvenes tropiezan *y* vacilan, Pero los que esperan en el SEÑOR Renovarán sus fuerzas. Se remontarán *con* alas como las águilas, Correrán y no se cansarán, Caminarán y no se fatigarán.
+
+###  1 Pedro 1:24a "*Porque: «TODA CARNE ES COMO LA HIERBA,*" Toda la humanidad es como la hierba con poca duración. 
 
 #### 1 Juan 2:17 "*El mundo pasa, y también sus pasiones, pero el que hace la voluntad de Dios permanece para siempre*".
 
-###  1 Pedro 1:24a *Y TODA SU GLORIA COMO LA FLOR DE LA HIERBA.* Salmo 90:5-6
+###  1 Pedro 1:24b "*Y TODA SU GLORIA COMO LA FLOR DE LA HIERBA.*" Salmo 90:5-6
 
-###  1 Pedro 1:24b *SÉCASE LA HIERBA, CÁESE LA FLOR,* Santiago 1:10-11
+###  1 Pedro 1:24c "*SÉCASE LA HIERBA, CÁESE LA FLOR,*" Santiago 1:10-11
 
-###  1 Pedro 1:25a *PERO LA PALABRA DEL SEÑOR PERMANECE PARA SIEMPRE».* En contraste con la carta vida de la carne y su gloria, La Palabra de Dios permanece para siempre. 
+###  1 Pedro 1:25a "*PERO LA PALABRA DEL SEÑOR PERMANECE PARA SIEMPRE».*" En contraste con la carta vida de la carne y su gloria, La Palabra de Dios permanece para siempre. 
 
-###  1 Pedro 1:25b *Esa es la palabra que a ustedes les fue predicada.*
+###  1 Pedro 1:25b "*Esa es la palabra que a ustedes les fue predicada.*"
 
 ## En Síntesis
 
@@ -1799,3 +1913,4 @@ ___-___
 [^3]: John D. Barry et al., The Faithful Study Bible (Bellingham, WA: Lexham Press, 2012, 2016), Matthew 16:19
 [^4]: Mounce
 [^5]: Enter the Bible, https://enterthebible.org/courses/1-peter/lessons/background-of-1-peter
+[^6]: GRUDEM, Wayne, Doctrina bíblica (Vida: Miami, 2005), p. 302.
