@@ -431,39 +431,41 @@ Puro
 
 ## 1 Pedro 2:4-8 – Piedras vivas edificando una casa espiritual
 
-###  1 Pedro 2:4 *Y viniendo a Él, como a una piedra viva, desechada por los hombres, pero escogida y preciosa delante de Dios,*
+###  1 Pedro 2:4 - Tomará a Él (Cristo) como un ejemplo de piedra viva, la cual los hombres desecharon, sin embargo esta piedra era escogida por Dios y preciosa a su vista.
 
-#### Vinieron a el como una piedra viva, la cual desecharon, esta piedra es algo específico ante DIos, es algo completamente precioso delante de DIos.
+#### En estos pasajes veremos seguido el uso de la palabra piedra, esto puede haber sido muy significativo para el apóstol Pedro, debido a que Jesús le cambio el nombre de Simón a Cefas que quiere decir Pedro (PETROS-Piedra). Juan 1: 42
 
-###  *Y viniendo a Él, como a una piedra viva,*
+###  1 Pedro 2:4a *"Y viniendo a Él,..."* La palabra viniendo [PROSERJOMAI] significa acercarse, venir hacia, este verbo se encuentra en tiempo presente, pasivo-medio, participio, indicando a los creyentes una invitación constante de que pueden acercarse a él en beneficio suyo.
 
-#### Como es que es una piedra viva?
+###  1 Pedro 2:4b *"...como a una piedra viva,..."* Las piedra es un material inerte y sin vida, generalmente usado en la construcción, sin embargo nos mostrará en esta ilustración a una piedra viviente y el propósito que tiene esta en el plan de Dios.
 
-#### Tiene algún sentido las piedras?
+#### La palabra viva [ZAO] es un verbo en en tiempo presente, activo, participio, dándonos a entender la piedra que hoy esta viva y activamente viviendo.
 
-#### Algo inerte tiene vida?
+#### La biblia textual lo traduce de la siguiente manera *"Acercándoos a Él, Piedra viviente,...*" (BTX4).
 
-#### A que se puede estar refiriendo, que el es una piedra viva?
+###  1 Pedro 2:4c *"...desechada por los hombres,..."* Esta piedra viva, escogida por Dios fue desaprobada y repudiada por los constructores, en este contexto refiriéndose al rechazo de Israel hacia el mesías. 1 Pedro 2:7 ; Juan 1:11 ; 10:22-25 , 31-33
 
-###  1 Pedro 2:4 *desechada por los hombres, pero escogida y preciosa delante de Dios,*
+#### Este verbo desechar se encuentra en tiempo perfecto, participio dándonos a entender que actualmente lo sigue siendo desechada continuamente en el presente.
 
-#### Generalmente las piedras son utilizadas en la construcción de algo.
+###  1 Pedro 2:4d *"...pero escogida y preciosa delante de Dios,"* Esta piedra valiosa fue escogida por Dios mismo con un propósito. 1 Pedro 1:20 ; 2 Timoteo 1:9 ; Tito 1:2 
 
-#### Cuando uno rechaza una piedra es por que es defecuosa o con una forma que no se puede utilizar.
+#### Vemos un contraste, ante Dios es preciosa esta piedra, ante los hombres es desechada y reprobada.
 
-#### muestran que rechazaron a la piedra escogida por DIos, y delante de DIos
+###  1 Pedro 2:5 - Ahora muestra a los creyentes como piedras vivas, formando parte en la edificación de una casa espiritual, un sacerdocio santo, mostrando un propósito vivo para Dios.
 
-###  1 Pedro 2:5 *también ustedes, como piedras vivas,*
+###  1 Pedro 2:5a *"también ustedes, como piedras vivas,..."* Considerando el ejemplo de Él (Cristo) como piedra viva, de esa misma manera también ustedes los creyentes sean piedras vivas utilizadas para un propósito.1 Corintios 3:9
 
-#### Tomando el ejemplo de La piedra viva desechada, Jesucristo, así tambien ustedes, con ese mismo ejemplo de piedra escogida por Dios.
+###  1 Pedro 2:5b *"...sean edificados como casa espiritual..."* El ser edificados como casa, muestra el propósito en la construcción de la obra que Dios esta realizando, una casa espiritual, y los creyentes ahora son parte de la obra como piedras vivas.
 
-###  *sean edificados como casa espiritual para un sacerdocio santo,*
+#### La biblia textual lo traduce de la siguiente manera, afirmando que ya son edificados.  *"vosotros también sois edificados como piedras vivientes, casa espiritual..."* BTX4
 
-#### Ustedes piedras vivas iglesia, sean edificados como casa espiritual.
+###  1 Pedro 2:5c *"...para un sacerdocio santo,..."* Dentro del contexto de creyentes judíos al que Pedro exponía esta carta, el sacerdocio era un rol dentro de israel muy importante, el cual intercedían por el pueblo.
 
-#### Las piedras se utilizan en la constucción de edificios, ahora los creyentes forman parte de un edificio vivo, una casa espiritual,
+#### Sin embargo, Estos sacerdotes no podían ser santos,
 
 #### Un sacerdocio santo, tenían experiencia los judíos de sacerdotes, los cuales tenían que ofrecer sacrificios primeramente por sus delitos y pecados y despues por los de la nación, sin embargo aquí vemos un sacerdocio santo, los creyentes son llamados a participar de esto
+
+#### 
 
 ###  *para ofrecer sacrificios espirituales aceptables a Dios*
 
