@@ -363,7 +363,7 @@ Puro
 
 # 1 Pedro 2:1-10 – Creciendo hacia la madurez
 
-## 1 Pedro 2:1-3 - Desechar lo malo y beber lo bueno
+## 1 Pedro 2:1-3 - Un ánimo a desechar todo lo malo y crecer para salvación
 
 ###  1 Pedro 2:1 - El deseo del apóstol Pedro hacia los creyentes es que se despojen de toda la siguiente lista de acciones negativas en la vida del creyente, en las cuales podría estar viviendo ú experimentando, las cuales son contrarias a su nueva simiente.
 
@@ -391,7 +391,7 @@ Puro
 
 ###  1 Pedro 2:1d *"...y toda difamación,"* También toda clase de chismes, comentarios hirientes y calumnias con el fin de difamar a una persona deben ser desechados, ya que afectan a todo el cuerpo de Cristo. 2 Corintios 12:20 
 
-#### La difamación nos muestra el hablar mal de otros, específicamente de sus hermanos. Sant. 4:11
+#### La difamación nos muestra el hablar mal de otros, específicamente de sus hermanos. Santiago 4:11
 
 #### Jesús nos muestra que del interior del corazón vienen las calumnias. Mateo 15:18-19
 
@@ -413,23 +413,23 @@ Puro
 
 ###  1 Pedro 2:2c *"...para que por ella crezcan para salvación,"* La pureza de la palabra llevará a los creyentes hacia la madurez espiritual.
 
-#### El crecimiento espiritual depende de un andar en fe, un andar carnal solo impedirá el crecimiento de los creyentes
+#### La palabra crezcan [AUXANO] es un verbo en tiempo aoristo, pasivo, subjuntivo, la voz pasiva nos muestra que otro es el que realiza la acción. En este contexto Dios es el que da el crecimiento y es el deseo que así sea. 1 Corintios 3:6-7
 
-#### La palabra crezcan [auxáno] es verbo, aoristo, pasivo, subjuntivo, significando que es el deseo que crezca, la voz pasiva nos muestra que otro es el que da el crecimiento. en este caso Dios es el que da el crecimiento
+#### La responsabilidad del creyente para un crecimiento espiritual es un andar en fe, un andar en la carne solo impedirá el crecimiento de los creyentes. 1 Corintios 3:3-5
 
-#### Podemos ver que el crecimiento lo da Dios, entonces por que no crecieron?, la carnalidad les impidió crecer hacia la madurez. 1 Corintios 3:3-7
+#### Los creyentes crecerán y serán nutridos por la cabeza del cuerpo, Cristo mediante hablar la verdad en amor que es la pureza de la palabra. Efesios 4:15-16
 
-#### Es el deseo de Dios que todos podamos crecer en este caminar de fe en el aspecto de salvación (Santificación)
+#### La salvación referida aqui es la santificación en la vida del creyente, vemos en 1 Timoteo 2:4 Dios quiere que todos los salvos vengan al pleno conocimiento de la verdad. Juan 17:17 ; Romanos 10:2 ; Colosenses 1:9-10; Efesios 1:16-18, 3:18-19
 
-#### En 1 Timoteo 2:4 nos muestra que lo que Dios quiere es que todos vengan al pleno conocimiento de la verdad. sin embargo aquí vemos este crecimiento para salvación mas desglosado, con un ejemplo materno
+###  1 Pedro 2:3  *"si es que han probado la bondad del Señor."*
 
-###  1 Pedro 2:3 *si es que han probado la bondad del Señor.*
+#### La palabra si es un condicional de primer grado, dándonos a entender que si ya habían probado la bondad del señor.
 
-#### que tipo de condicional es este si?
+#### Una traducción de la Biblia textual  nos muestra ... *ya que gustasteis que el Señor es bueno.* (BTX4) 
 
-#### Claramente esta hablando a creyentes, osea que sies que han probado y si lo han hecho, pues ya conocen la bondad de DIos para con la justificación, ahora pues conocerán la bondad de DIos para con la santificación.
+#### La bondad de Dios o la benignidad de Dios es un atributo que los creyentes ya conocían cuando fueron rescatados de su antigua manera de vivir. Romanos 2:4 ; Efesios 2:7, 4:32 ; Tito 3:3-7
 
-## 1 Pedro 2:1-10 – Piedras vivas y piedra de escándalo
+## 1 Pedro 2:4-8 – Piedras vivas edificando una casa espiritual
 
 ###  1 Pedro 2:4 *Y viniendo a Él, como a una piedra viva, desechada por los hombres, pero escogida y preciosa delante de Dios,*
 
