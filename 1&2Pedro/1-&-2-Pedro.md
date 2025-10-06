@@ -70,23 +70,21 @@ Bosquejo
 
 ## Los recipientes de la carta
 
-###  1 Pedro 1:1a *A los expatriados, de la dispersión* la carta es escrita a los extranjeros temporales PAREPIDEMOS de creyentes judios esparcidos.1 Pedro 5:14; Santiago 1:1
+###  1 Pedro 1:1a "*A los expatriados, de la dispersión...*" la carta es escrita a los extranjeros temporales PAREPIDEMOS de creyentes judios esparcidos.1 Pedro 5:14; Santiago 1:1
 
-###  1 Pedro 1:1b *en el Ponto, Galacia, Capadocia, Asia y Bitinia,* Específicamente es escrito a los esparcidos ubicados modernamente en el norte de Turquía. 1 Pedro 2:11
+###  1 Pedro 1:1b "*en el Ponto, Galacia, Capadocia, Asia y Bitinia...*" Específicamente es escrito a los esparcidos ubicados modernamente en el norte de Turquía. 1 Pedro 2:11
 
 ## 4 Aspectos como la Trinidad participa en la elección
 
-###  1 Pedro 1:1c *elegidos* EKLEKTOS escogidos. 1 Pedro 2:9
+###  1 Pedro 1:1c Quienes son..."*elegidos*" EKLEKTOS los escogidos. 1 Pedro 2:9
 
-###  1 Pedro 1:2 *según el previo conocimiento de Dios Padre,* El primer punto es que los elegidos son según el previo conocimiento de Dios. El ser elegidos es según el previo conocimiento de Dios. 
-
-el previo conocimiento de Dios no es la causa de nuestra salvación. Nuestro llamado no es específico a los que antes conoció, sino es un llamado a todo el mundo. 
+###  1 Pedro 1:2 "*según el previo conocimiento de Dios Padre...*" El primer punto es que los elegidos son según el previo conocimiento de Dios. El ser elegidos es según el previo conocimiento de Dios. 
 
 ###  ¿Que conocimiento previo determina la elección? 
 
-###  1 Pedro 1:2 *por la obra santificadora del Espíritu,* El segundo punto es que los elegidos son por la obra santificadora del Espíritu. 
+###  1 Pedro 1:2 "*por la obra santificadora del Espíritu...*" El segundo punto es que los elegidos son obra santificadora del Espíritu. 
 
-###  1 Pedro 1:2 *para obedecer a Jesucristo y ser rociados con Su sangre:* El tercer punto de la elección es que es para obedecer a Jesucristo y ser rociados con Su sangre. 
+###  1 Pedro 1:2 "*para obedecer a Jesucristo y ser rociados con Su sangre:*" El tercer punto de la elección es que es para obedecer a Jesucristo y ser rociados con Su sangre. 1 Pedro 1:14, 22
 
 ## 1 Pedro 1:2 Gozo por la salvación pasada
 
