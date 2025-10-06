@@ -76,7 +76,27 @@ Bosquejo
 
 ## 4 Aspectos como la Trinidad participa en la elección
 
-###  1 Pedro 1:1c Quienes son..."*elegidos*" EKLEKTOS los escogidos. 1 Pedro 2:9
+###  1 Pedro 1:1c Quienes son..."*elegidos*" EKLEKTOS los escogidos fuera. 1 Pedro 2:9; Mateo 22:14
+
+Elegidos EKLEKTOS puede ser:
+
+Israel - Deuteronomio 7:6
+
+Naciones - 
+
+Reyes - 1 Samuel 10:24
+
+Angeles - 1 Timoteo 5:21
+
+La Iglesia - 
+
+Incrédulos - 2 Timoteo 2:10
+
+Individuos - Romanos 16:13; Deuteronomio 18:5
+
+Creyentes - Mateo 24:31
+
+Mesias - Lucas 23:35; 1 Pedro 2:4, 6, 9
 
 ###  1 Pedro 1:2 "*según el previo conocimiento de Dios Padre...*" El primer punto es que los elegidos son según el previo conocimiento de Dios. El ser elegidos es según el previo conocimiento de Dios. 
 
