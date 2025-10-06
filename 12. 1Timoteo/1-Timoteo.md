@@ -2063,15 +2063,21 @@ www.discipuladocgv.org
 
 ### Esto protegería a Timoteo y a los miembros de la iglesia de ser engañados y andar conforme al __<u>plan</u>__ de Dios que es por la fe. 1 Timoteo 4:16
 
-# 1 Timoteo 5:1-6:21 -- Relaciones dentro de la Iglesia
+# 1 Timoteo 5:1-6:21 - Relaciones dentro de la Iglesia
 
-## Sobre los ancianos
+### Efesios 4:4 "*Hay un solo cuerpo y un solo Espíritu, así como también ustedes fueron llamados en una misma esperanza de su vocación;*"
+
+#### Aveces queremos separar la iglesia de ser familia. Todos forman parte del cuerpo. Estamos unidos como una familia en una casa, la casa de Dios.
+
+## Con los ancianos
 
 ### 1 Timoteo 5:1a "*No reprendas con dureza al anciano, sino, más bien, exhórtalo como a padre;*" El trato de los mayores en la iglesia debe ser __<u>siempre</u>__ con respeto y dignidad. Los hermanos mayores en la iglesia son considerados como padres.
 
-#### La palabra reprendas (EPIPLESSO) significa literalmente “golpear con las palabras”, o “__<u>castigar</u>__ con palabras” 
+#### La palabra reprendas EPIPLESSO significa literalmente “golpear, herir con las palabras”, o “__<u>castigar</u>__ con palabras”. 
 
-#### Al igual que un __<u>mayor</u>__ podría menospreciar la juventud de Timoteo, así también él no debía menospreciar a los que son adultos y mayores de edad.
+#### Si vemos aqui dice no reprendas al hombre mayor, al viejo. No estamos hablando al rol de anciano sino al hombre mayor. A continuación veremos como tratar con las hermanas mayores.  
+
+#### Al igual que un __<u>mayor</u>__ podría menospreciar la juventud de Timoteo, así también él no debía menospreciar a los que son adultos y mayores de edad. Un jóven puede tratar con toda piedad a un anciano. 
 
 #### Muchas veces para un __<u>joven</u>__ es fácil humillar a un mayor de edad cuando se equivoca.
 
@@ -2079,43 +2085,49 @@ www.discipuladocgv.org
 
 #### En ejemplo de amor, Timoteo __<u>debía</u>__ animar a los mayores de la congregación como si fuera su propio padre, ya que a ningún hijo le gustaría ver a su padre siendo humillado con palabras que golpean. 2 Timoteo 2:25
 
-## Sobre los jóvenes
+## Con los jóvenes
 
-### 1 Timoteo 5:1b "*a los más jóvenes, como a hermanos,*" Los jóvenes son considerados como hermanos de __<u>sangre</u>__.
+### 1 Timoteo 5:1b "*No reprendas con dureza...a los más jóvenes*, [sino] *como a hermanos...*" Los jóvenes son considerados como hermanos de __<u>sangre</u>__.
 
 #### De la misma manera, Timoteo debía animar a los jóvenes a ejercitarse en la piedad, siendo el __<u>mismo</u>__ ejemplo de un joven que sabe cómo conducirse en la casa de Dios.
 
-#### Enseñando también a ellos que un __<u>joven</u>__ si puede vivir una vida piadosa agradable a Dios. Eclesiastés 12:1
+#### Enseñando también a ellos que un __<u>joven</u>__ si puede vivir una vida piadosa agradable a Dios. Eclesiastés 12:1, Tito 2:6-8
 
-#### Muchas veces solemos tener preconceptos de la juventud, de que a ellos no les gusta aprender de los __<u>caminos</u>__ de Dios y que ellos prefieren distraerse en vanidades.
+#### Muchas veces solemos tener preconceptos de la juventud, de que a ellos no les gusta aprender de los __<u>caminos</u>__ de Dios y que ellos prefieren distraerse en vanidades. Eclesiastes 12:1
 
-#### Entendiendo claramente que esta epístola no esta dirigida solamente a los pastores o líderes de la __<u>iglesia</u>__, podemos ver claramente que los jóvenes creyentes pueden beneficiarse del misterio de la piedad.
+#### Entendiendo claramente que esta epístola no esta dirigida solamente a los pastores o líderes de la __<u>iglesia</u>__, podemos ver claramente que los jóvenes creyentes pueden beneficiarse del misterio de la piedad. 
 
-## Sobre las ancianas
+## Con las ancianas
 
-### 1 Timoteo 5:2a "*a las ancianas, como a madres;*" las ancianas __<u>deben</u>__ ser vistas como madres. 
+### 1 Timoteo 5:2a "*No reprendas con dureza...a las ancianas*, [sino] *como a madres;*" las ancianas __<u>deben</u>__ ser vistas como madres. No reprendas a la anciana sino exhortalas como a madres. 
 
 #### En una casa las mujeres que son de mayor edad suelen ser olvidadas, hasta incluso suelen ser llevados a una __<u>casa</u>__ hogar para dejarlos olvidados ahí para que la casa tenga más campo.
 
 #### Pero en la casa de Dios, todo miembro tiene un lugar muy importante, y las mujeres que son mayores de __<u>edad</u>__, para Dios, deben tratarse como un amor inocente de un niño que tiene ese deseo natural de cuidarla y protegerla.
 
-#### Ya que ellas son las que enseñan a las más jóvenes, Timoteo no debía descuidarse de __<u>exhortar</u>__ y enseñar las escrituras a las mujeres mayores de la iglesia. 
+#### Ya que ellas son las que enseñan a las más jóvenes, Timoteo no debía descuidarse de __<u>exhortar</u>__ y enseñar las escrituras a las mujeres mayores de la iglesia. Tito 2:3-5
 
-## Sobre las jóvenes
+## Con las jóvenes
 
-### 1 Timoteo 5:2b "*a las más jóvenes, como a hermanas, con toda pureza*". Las hermanas jóvenes son __<u>tratadas</u>__ como hermanas de sangre.
+### 1 Timoteo 5:2b "**No reprendas con dureza...a las más jóvenes*, [sino] *como a hermanas, con toda pureza*". Las hermanas jóvenes son __<u>tratadas</u>__ como hermanas de sangre. 
 
-#### Timoteo también debía ser ejemplo en palabra, conducta, amor, fe y pureza con las hermanas __<u>más</u>__ jóvenes.
+#### Timoteo también debía ser ejemplo en palabra, conducta, amor, fe y pureza con las hermanas __<u>más</u>__ jóvenes. 
 
-#### Por lo general un joven cuando está rodeado de otros jóvenes suelen tener un lenguaje poco apropiado que resulta ofensivo para las jovencitas de la iglesia, aún para uno mismo __<u>como</u>__ a los que escuchan.
+#### Por lo general un joven cuando está rodeado de otros jóvenes suelen tener un lenguaje poco apropiado que resulta ofensivo para las jovencitas de la iglesia, aún para uno mismo __<u>como</u>__ a los que escuchan. 
 
-#### Timoteo debía reflexionar sobre estas cosas, ya que muchas ocasiones un joven, no trata con __<u>pureza</u>__ a una hermana que es joven.
+#### Timoteo debía reflexionar sobre estas cosas, ya que muchas ocasiones un joven, no trata con __<u>pureza</u>__ a una hermana que es jóven.
 
-#### Toda pureza, no solo habla del aspecto exterior, Timoteo debía ser ejemplo en toda pureza de palabra, Toda __<u>pureza</u>__ de conducta.
+#### Toda pureza, no solo habla del aspecto exterior, Timoteo debía ser ejemplo en toda pureza de palabra, toda __<u>pureza</u>__ de conducta en su trato para con ella. 
 
-#### Así también siendo ejemplo en toda pureza en lo interior del pensamiento y corazón, Toda pureza de __<u>amor</u>__ fraternal, como si fuera su propia hermana de sangre.
+#### Así también siendo ejemplo en toda pureza en lo interior del pensamiento y corazón, toda pureza de __<u>amor</u>__ fraternal, como si fuera su propia hermana. 
 
-## Sobre Las Viudas
+## Con las viudas
+
+### Introducción
+
+#### Es relevante para entender mejor esta sección tener un poco de trasfondo cultural. En el primer siglo, las mujeres eran oblicadas a volverse a casar. 
+
+Efesios  (todos somos iguales en la iglesia)
 
 ### 1 Timoteo 5:3 "*Honra a las viudas que en verdad son viudas*". A las __<u>viudas</u>__ se extiende honor. 
 
@@ -2251,15 +2263,13 @@ www.discipuladocgv.org
 
 #### Juan 13:5-14 En estos pasajes podemos ver que el __<u>mismo</u>__ Señor Jesús, lavó los pies de sus discípulos, mostrándose como un siervo a ellos. Juan 13:14
 
-#### También en sentido figurado estaba enseñando sobre la limpieza que el Señor realiza en el andar __<u>diario</u>__ de los discípulos. Juan 13:8.
-
 #### Juan 13:15 “»*Porque les he dado __<u>ejemplo</u>__, para que como Yo les he hecho, también ustedes lo hagan*".
 
-#### Esto puede significar en sentido literal el lavado de pies a los santos, que el mismo Señor Jesus lavo los __<u>pies</u>__ de sus discípulos.
+##### Esto puede significar en sentido literal el lavado de pies a los santos, que el mismo Señor Jesus lavo los __<u>pies</u>__ de sus discípulos.
 
-#### O también puede significar también en sentido figurado, prestar servicio a los santos, de recibirlos como al __<u>mismo</u>__ Señor Jesús, mostrar preocupación en su cuidado y su bienestar. Juan 13:20 
+##### O también puede significar también en sentido figurado, prestar servicio a los santos, de recibirlos como al __<u>mismo</u>__ Señor Jesús, mostrar preocupación en su cuidado y su bienestar. Juan 13:20 
 
-#### De todos modos habla de una mujer que ha quedado viuda y que tiene buen testimonio de __<u>mostrar</u>__ preocupación y brindar cuidado por los siervos del Señor.
+##### De todos modos habla de una mujer que ha quedado viuda y que tiene buen testimonio de __<u>mostrar</u>__ preocupación y brindar cuidado por los siervos del Señor.
 
 ### 1 Timoteo 5:10e "*si ha ayudado a los afligidos*" Una vez más vemos que una mujer viuda que muestra el amor de Cristo sobre los afligidos debía ser considerada dentro de los requisitos de una verdadera __<u>viuda</u>__. 
 
@@ -2269,9 +2279,9 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 5:10f "*y si se ha consagrado a toda buena obra*". Todo creyente es llamado a andar en las __<u>buenas</u>__ obras que Dios ha preparado, nada bueno puede venir de uno mismo, el andar de Fe de una mujer viuda le llevara a estar dedicada a toda buena obra. Efesios 2:10
 
-#### La palabra “EPAKOLUTHEO” “*si se ha consagrado*” y es un verbo en tiempo aoristo, modo indicativo y voz __<u>activa</u>__, referido a que se ha dedicado o ha practicado (RVR60) toda buena obra.
+#### “*si se ha consagrado*” EPAKOLUTHEO  y es un verbo en tiempo aoristo, modo indicativo y voz __<u>activa</u>__, referido a que se ha dedicado o ha practicado (RVR60) toda buena obra.
 
-#### Toda buena obra solo es nacido de una __<u>sana</u>__ enseñanza sobre la gracia de Dios y de evitar vanas palabrerías. Tito 1:16, Tito 2:11-13; 2 Timoteo 2:16
+#### Toda buena obra solo es nacido de una __<u>sana</u>__ enseñanza sobre la gracia de Dios y de evitar vanas palabrerías. Tito 1:16, 2:11-13; 2 Timoteo 2:16
 
 ### 1 Timoteo 5:11a "*Pero rehúsa poner en la lista a viudas más jóvenes,*" En contraste a la lista que califican a una verdadera viuda, aquí Pablo deja una segunda lista, de las que son viudas, pero que __<u>ellas</u>__ deben aprender a andar piadosamente.
 
@@ -2293,15 +2303,15 @@ www.discipuladocgv.org
 
 #### Entonces si __<u>Timoteo</u>__ o la iglesia incluía a estas mujeres viudas, solamente estarían recompensando las obras impías y corruptas de la carne y no la recompensa de las obras piadosas y consagradas de las que en verdad son viudas.
 
-### 1 Timoteo 5:12 "*incurriendo así en condenación, por haber abandonado su promesa anterior.*" Esta es una advertencia en la cual __<u>tanto</u>__ Timoteo como la iglesia haría bien en prestar atención.
+### 1 Timoteo 5:12a "*incurriendo así en condenación*", Pablo advierte de la tendencia de viudas jóvenes que se ponen en la lista para apoyarlas porque primeramente se entregan Cristo para servirlo y siendo que son jóvenes todavia se dejan llevar por sus placeres y  luego deciden casarse. Esto causa que tengan un reproche. Timoteo haría bien en prestar atención.
+
+#### hace referencia que mientras que a las verdaderas viudas se les recompensara, ellas recibirán recompensa de ser acusadas de haber abandonado su __<u>primer</u>__ amor, pero nunca de perdida de salvación. 1 Corintios 11:32
 
 #### porque podemos ver en 1 Timoteo 1:5 “*pero el propósito del mandato es el amor nacido de un corazón puro, de buena conciencia y de una fe no fingida,*”, el reconomiento de honor a las mujeres __<u>viudas</u>__ son por un andar piadoso de una Fe no fingida. Filipenses 1:5
 
-#### “*Incurriendo así en condenación*” hace referencia que mientras que a las verdaderas viudas se les recompensara, ellas recibirán recompensa de ser acusadas de haber abandonado su __<u>primer</u>__ amor, pero nunca de perdida de salvación. 1 Corintios 11:32
+### 1 Timoteo 5:12b "*por haber abandonado su promesa anterior.*" Posiblemente se refiera a una acusación de disciplina por parte de la iglesia, para que pueda cambiar de __<u>mente</u>__. Mateo 18:15-17; 2 Corintios 2:5-8
 
-#### Posiblemente se refiera a una acusación de disciplina por parte de la iglesia, para que pueda cambiar de __<u>mente</u>__. Mateo 18:15-17; 2 Corintios 2:5-8
-
-#### o también __<u>puede</u>__ referirse a la disciplina del Señor de ir en rebeldía contra Cristo, habiendo quebrantado su primera fe. Hebreos 15:5-11
+#### __<u>Puede</u>__ referirse a la disciplina del Señor de ir en rebeldía contra Cristo, habiendo quebrantado su compromiso al ministerio. Hebreos 15:5-11
 
 #### Que una iglesia pueda prestar atención de este hecho, es de gran importancia, ya que al no llevar a __<u>cabo</u>__ una disciplina de corrección para un cambio de mente puede llevar a abandonar la Fe, no solo ella sino a toda la iglesia, ya que la palabra “ATHETEO” es una palabra en tercera persona plural. 1 Corintios 5:2
 
@@ -2319,25 +2329,25 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 5:14a "*Por tanto, quiero que las viudas más jóvenes*" por todos los motivos que Pablo mostro a Timoteo, es completamente necesario considerar que las mujeres mas __<u>jóvenes</u>__ aprendan también a profesar piedad.
 
-### 1 Timoteo 5:14b "*se casen,*" este __<u>pasaje</u>__ probablemente tiene una aparente contradicción con 1 Timoteo 5:11, pero no es asi, veamos porque:
+### 1 Timoteo 5:14b "*que las viudas...se casen...*" este __<u>pasaje</u>__ probablemente tiene una aparente contradicción con 1 Timoteo 5:11, pero no es asi, veamos porque:
 
-#### Viudas __<u>jóvenes</u>__ quieren casarse, pero el siguiente pasaje 1 Timoteo 5:12 muestra que esta “incurriendo así en condenación”
+#### Viudas __<u>jóvenes</u>__ quieren volverse a casar, pero el siguiente pasaje 1 Timoteo 5:12 muestra que esta “*incurriendo así en condenación*”
 
-#### ¿Entonces cómo podemos __<u>entender</u>__ este pasaje?
+##### ¿Entonces cómo podemos __<u>entender</u>__ este pasaje?
 
-#### Primero. Ellas guiadas por sus propios “*deseos sensuales,*” se dejan llevar y van en rebeldía al Señor “*contrarios a Cristo*”. Ellas son __<u>guiadas</u>__ por su carnalidad. 1Timoteo 5:6
+#### Primero, guiadas por sus propios “*deseos sensuales*” ellas se dejan llevar y van en rebeldía al Señor (*contrarios a Cristo*). Ellas son __<u>guiadas</u>__ por su carne. 1 Timoteo 5:6
 
 #### *Segundo* al ser guiadas por sus deseos carnales, ellas han abandonado su primera Fe, yendo por __<u>medio</u>__ de las obras de la carne. Gálatas 6:7-8
 
 #### Entonces Pablo __<u>anima</u>__ a estas mujeres a casarse, sin ser llevadas por sus deseos carnales, sino por medio de la instrucción nacida de un corazón puro. 1Timoteo 1:5
 
-### 1 Timoteo 5:14c "*que tengan hijos,*" habíamos visto que en la vida de una mujer que profesa piedad, ella es santificada __<u>teniendo</u>__ hijos sujetos con toda dignidad. 1 Timoteo 2:15; 1 Timoteo 3:4
+### 1 Timoteo 5:14c "*...que tengan hijos...*" habíamos visto que en la vida de una mujer que profesa piedad, ella es santificada __<u>teniendo</u>__ hijos sujetos con toda dignidad. 1 Timoteo 2:15; 1 Timoteo 3:4
 
-### 1 Timoteo 5:14d "*que cuiden su casa*" una mujer que esta al cuidado de su hogar se adorna y __<u>reluce</u>__ sus mejores vestidos de buenas obras, y su valor es aún mayor que a las perlas preciosas. Proverbios 31:1
+### 1 Timoteo 5:14d "*...que cuiden su casa...*" una mujer que esta al cuidado de su hogar se adorna y __<u>reluce</u>__ sus mejores vestidos de buenas obras, y su valor es aún mayor que a las perlas preciosas. Proverbios 31:1
 
-### 1 Timoteo 5:14e "*y no den al adversario ocasión de reproche.*" El que una mujer se vista de buenas __<u>obras</u>__, hace que la palabra de Dios no sea blasfemada Tito 2:4-5
+### 1 Timoteo 5:14e "*...y no den al adversario ocasión de reproche...*" El que una mujer se vista de buenas __<u>obras</u>__, hace que la palabra de Dios no sea blasfemada Tito 2:4-5
 
-### 1 Timoteo 5:15 "*Pues algunas ya se han apartado para seguir a Satanás.*" Es lamentable esta realidad, ya que no es la voluntad de Dios que una __<u>mujer</u>__ se aparte de su amor y provisión. 
+#### 1 Timoteo 5:15 "*Pues algunas ya se han apartado para seguir a Satanás.*" Pablo dice que algunas viudas sostenidas y en la lista de viudas verdaderas se habían apartado ya. Es lamentable esta realidad, ya que no es la voluntad de Dios que una __<u>viuda</u>__ (o cualquiera) se aparte de su amor y provisión. 
 
 #### Cuando una mujer viuda es joven, fácilmente puede ser llevada por las vanas palabrerías, ya que ella __<u>misma</u>__ va aprendiendo a estar ociosa, y esto llevarle a apartarse. 1 Timoteo 1:6
 
@@ -2347,23 +2357,23 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 5:16b "*y que la iglesia no lleve la carga para que pueda ayudar a las que en verdad son viudas.*" Cuando una familia se ocupa de cuidar a las viudas de su propia familia alivia a la iglesia de __<u>poder</u>__ proveer el reconocimiento para las viudas que en verdad son viudas y están desamparadas.
 
-#### En estos pasajes logramos ver que una mujer llega a tener un rol muy importante en la congregación, que muchas veces no logramos notar, son de edificación de la __<u>iglesia</u>__, de manera espiritual (como Timoteo 5:5) también de manera física (1 Timoteo 5:10). Ese es un rol que muchas veces los hombres no vemos y descuidamos. 
+#### En estos pasajes logramos ver que una mujer llega a tener un rol muy importante en la congregación, que muchas veces no logramos notar, son de edificación de la __<u>iglesia</u>__, de manera espiritual (1 Timoteo 5:5) también de manera física (1 Timoteo 5:10). Ese es un rol que muchas veces los hombres no vemos y descuidamos. 
 
 #### Por eso es que la que en verdad es viuda debe ser recompensada por su labor, ya que Dios mismo la ve agradable a su __<u>andar</u>__ piadoso. 1 Timoteo 5:3
 
 ## En Síntesis (1 Timoteo 5:1-16)
 
-### Los primeros dos versiculos de este capitulo nos muestra una perspectiva como lo que realmente es, la __<u>familia</u>__ de Dios, casa de Dios.
+### Los primeros dos versiculos de este capitulo nos muestra una perspectiva como lo que realmente es, la __<u>familia</u>__ de Dios es la casa de Dios.
 
 ### Timoteo debía mostrar piedad en el trato a los miembros de la __<u>casa</u>__ de Dios:
 
-#### Con respecto a los hombres mayores : Trátalos como __<u>padres</u>__ respetados. 1 Timoteo 5:1a
+#### Con respecto a los hombres mayores: Trátalos como __<u>padres</u>__ respetados. 1 Timoteo 5:1a
 
-#### Con respecto a los __<u>hombres</u>__ más jóvenes : Trátalos como hermanos. 1 Timoteo 5:1b
+#### Con respecto a los __<u>hombres</u>__ más jóvenes: Trátalos como hermanos. 1 Timoteo 5:1b
 
-#### Con respecto a las mujeres mayores : __<u>Trátalas</u>__ como madres. 1 Timoteo 5:2a
+#### Con respecto a las mujeres mayores: __<u>Trátalas</u>__ como madres. 1 Timoteo 5:2a
 
-#### Con respecto a las __<u>mujeres</u>__ más jóvenes : Trátalas como hermanas. 1 Timoteo 5:2b
+#### Con respecto a las __<u>mujeres</u>__ más jóvenes: Trátalas como hermanas. 1 Timoteo 5:2b
 
 ### No pasa desapercibido que se toman catorce versiculos para aclarar sobre el cuidado de las verdaderas __<u>viudas</u>__ de la iglesia:
 
@@ -2391,13 +2401,17 @@ www.discipuladocgv.org
 
 #### Gobernar bien no es sujetarse a los hombres o a un grupo de hombres porque nos falta examinar las Escrituras por __<u>cuenta</u>__ propia. 
 
-#### Gobernar bien es estar sujeto a la autoridad de Jesucristo como cabeza. La manera que se demuestra esto como lider es sujeto a las Escrituras como máxima autoridad. Es revelación de Dios al hombre. No se puede gobernar bien y no __<u>alinear</u>__ con la Biblia. 
+#### Gobernar bien es estar sujeto a la autoridad de Jesucristo como cabeza. La manera que se demuestra esto como lider es sujeto a las Escrituras como máxima autoridad de la iglesia. Es revelación de Dios al hombre. No se puede gobernar bien y no __<u>alinear</u>__ con la Biblia. 
 
 #### Gobernar bien es entregar la verdad como Dios la ha revelado. Es mantenerse fiel a la fe una vez entregada. Es estar dispuesto a ser enseñado por medio de La Palabra y el Espíritu Santo, admitiendo cuando uno tiene que cambiar de mente e inclusive reconocer si ha enseñado algo erróneo por __<u>falta</u>__ de comprensión. 
+
+#### El anciano o cualquier maestro en este caso, no es perfecto, no debe tratar de mantener una imagen que se traiga alabanza. 
 
 #### Gobernar bien es hacer entender que todos estamos en proceso de aprendizage y dar el __<u>ejemplo</u>__ de aquello. No es sostener mi opinión, es sostener la verdad. 
 
 ### 1 Timoteo 5:17b "*sean considerados dignos de doble honor,*" esto se refiere a un honor encima del respeto que merecen. El __<u>doble</u>__ honor es la responsabilidad de la iglesia. La iglesia debe preocuparse de recompensar al anciano que se dedica a gobernar bien. 
+
+#### El anciano digno de doble honor es como un minero que se dedica completamente a encontrar la beta y extrae la beta. El anciano que se dedica a la enseñanza debe ser remunerado para poder continuar en este trabajo importante. 
 
 ### 1 Timoteo 5:17c "*principalmente los que trabajan en la predicación y en la enseñanza*" el anciano que pone su foco en trabajar en la predicación y enseñanza hace excelentemente bien. Debe __<u>tener</u>__ un respaldo económico para poder continuar haciéndolo. La iglesia es responsable por hacerlo. 
 
@@ -2407,13 +2421,13 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 5:18b "*y: «El obrero es digno de su salario».*" El que trabaja, merece ser __<u>pagado</u>__. 
 
-#### Solo porque el anciano que enseña esté dedicado a cosas espirituales no significa que su comida __<u>solo</u>__ es espiritual. Merece comer bien, vivir comodamente para dedicarse más a La Palabra. 
+#### Solo porque el anciano que enseña esté dedicado a cosas espirituales no significa que su comida __<u>solo</u>__ es espiritual. Merece comer bien, vivir comodamente para dedicarse más a la oración y La Palabra. Hechos 6:2-4; 1 Pedro 5:1
 
-### 1 Timoteo 5:19a "*No admitas acusación contra un anciano,*" Tipicamente las personas son __<u>rapidas</u>__ para criticar a los ancianos. Sin embargo, la instrucción a Timoteo (e indirectamente a la iglesia) es de no recibir una acusación contra el anciano. 
+### 1 Timoteo 5:19a "*No admitas acusación contra un anciano...*" Tipicamente las personas son __<u>rapidas</u>__ para criticar a los ancianos. Sin embargo, la instrucción a Timoteo (e indirectamente a la iglesia) es de no recibir una acusación contra el anciano. 
 
-### 1 Timoteo 5:19b "*a menos de que haya dos o tres testigos.*" únicamente en el caso que haya dos o tres __<u>testigos</u>__ que están de acuerdo en acusar al anciano. 
+### 1 Timoteo 5:19b "...*a menos de que haya dos o tres testigos.*" únicamente en el caso que haya dos o tres __<u>testigos</u>__ que están de acuerdo en acusar al anciano. 
 
-#### Los __<u>ancianos</u>__ no son perfectos. También son sujetos a caer en el error como toda persona. 
+#### Los __<u>ancianos</u>__ no son perfectos. También son sujetos a caer en el error como toda persona. También están sujetos a la autoridad de La Palabra de Dios.
 
 #### Aquí hay una __<u>clausula</u>__ para que la iglesia no tenga que sufrir bajo un lider que anda en el error, la iglesia puede reprenderlo. 
 
@@ -2421,13 +2435,15 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 5:20b "*para que los demás tengan temor de pecar.*" Al ver esta manera de tratar con la falta de corregir __<u>pecado</u>__ en la vida del líder, causa que la congregación tome mayor importancia en no andar en el pecado. 
 
-#### Existen enseñanzas hoy que enfatizan que el pecado ha sido pagado por completo y que solo es necesario andar según nuestro parecer por la fe. Esto es una __<u>manera</u>__ sujetiva de ver la vida cristiana. 
+#### Existen enseñanzas hoy que enfatizan que el pecado ha sido pagado por completo y que solo es necesario andar según nuestro parecer. Esto es una __<u>manera</u>__ sujetiva de ver la vida cristiana. 
 
 #### La Palabra de Dios es clara. El pecado en la vida del creyente nunca es aceptable. Un creyente que __<u>anda</u>__ en la luz, confiesa su pecado y no lo esconde. 1 Juan 1:6-9 
 
-#### ¿Porqué confesar nuestros pecados? Porque cuando pecamos es necesario admitir haber hecho algo que es __<u>contrario</u>__ a quien es Dios y quienes somos como sus hijos. Reconocemos honestamente los pecados sin racionalizarlos ni echar culpas a otros.
+## Una corta doctrina sobre la confesión de pecados
 
-#### El pecado que va sin __<u>confesar</u>__ siempre tiene serias consecuencias. Proverbios 28:13, 
+#### ¿Porqué confesar nuestros pecados? Porque cuando pecamos es necesario admitir haber hecho algo que es __<u>contrario</u>__ a quien es Dios y quienes somos como sus hijos. Reconocemos honestamente los pecados sin racionalizarlos ni echar la culpa a otros.
+
+#### El pecado que va sin __<u>confesar</u>__ siempre tiene serias consecuencias. Proverbios 28:13 
 
 ##### Corrompe el __<u>alma</u>__. Salmo 32:3-4
 
@@ -2437,9 +2453,9 @@ www.discipuladocgv.org
 
 ##### Sientes __<u>distante</u>__ de Dios. Salmo 66:18
 
-#### vivimos engañandonos a __<u>nosotros</u>__ mismos. 1 Juan 1:8
+##### vivimos engañandonos a __<u>nosotros</u>__ mismos. 1 Juan 1:8
 
-### 1 Timoteo 5:21a "*Te encargo solemnemente en la presencia de Dios y de Cristo Jesús y de Sus ángeles escogidos,*" Ya que la iglesia es la casa de Dios, con Cristo a la cabeza, teniendo angeles como __<u>testigos</u>__, Pablo enfatizo la impotancia de estas cosas. 
+### 1 Timoteo 5:21a "*Te encargo solemnemente en la presencia de Dios y de Cristo Jesús y de Sus ángeles escogidos...*" Ya que la iglesia es la casa de Dios, con Cristo a la cabeza, teniendo angeles como __<u>testigos</u>__, Pablo enfatizo la impotancia de estas cosas. 
 
 #### Los angeles __<u>estan</u>__ observando a la iglesia. 1 Corintios 11:10; Mateo 18:10
 
@@ -2451,7 +2467,7 @@ www.discipuladocgv.org
 
 #### El cuidado que Timoteo debe tener es no dejar que su opinión afecte su papel en el __<u>cuidado</u>__ de los futuros ancianos. 
 
-### 1 Timoteo 5:21c "*no haciendo nada con espíritu de parcialidad.*" Timoteo no debía permitir que su __<u>opinión</u>__ (sea buena o mala) influya. 
+### 1 Timoteo 5:21c "*...no haciendo nada con espíritu de parcialidad.*" Timoteo no debía permitir que su __<u>opinión</u>__ (sea buena o mala) influya. 
 
 #### "*...te encargo que hagas todo esto sin tomar partido ni tener **preferencias***"(PDT). 
 
@@ -2459,15 +2475,19 @@ www.discipuladocgv.org
 
 ## 1 Timoteo 5:22-25 El cuidado ministerial
 
-### 1 Timoteo 5:22a "*No impongas las manos sobre nadie con ligereza,*" Timoteo no debía __<u>cometer</u>__ el error de colocar ancianos demasiado rapido. 
+### 1 Timoteo 5:22a "*No impongas las manos sobre nadie con ligereza...*" Timoteo no debía __<u>cometer</u>__ el error de colocar ancianos demasiado rapido. 
 
 #### El colocar manos sobre __<u>alguien</u>__ es separarlo para el ministerio. Hechos 13:3, 14:23; 2 Timoteo 1:6
+
+##### Act 13:1-3 En la iglesia que estaba en Antioquía había profetas y maestros...Entonces, después de ayunar, orar y haber impuesto las manos sobre ellos, los enviaron.¿Quienes impusieron manos sobre Saulo y Bernabe?
+
+##### Es interesante ver que no fueron apóstoles nombrados o ancianos (presbiterio) que impusieron manos. Al menos no es mencionado...en este caso después que El Espíritu Santos los aparto, la iglesia ayunó, oró e impuso las manos y los enviaron. 
 
 #### El acto de imponer __<u>manos</u>__ sobre alguien es simbólicamente bendecirle y entregarle al ministerio. 
 
 #### "*ligereza*" TACHEOS - superficialmente, sin __<u>tomarse</u>__ molestias; como demasiado apresuradamente.
 
-### 1 Timoteo 5:22b "*compartiendo así la responsabilidad por los pecados de otros;*" Al colocar a alguien en el ministerio, especificamente al ancianado, Timoteo se hacía responsable de las __<u>cosas</u>__ buenas y malas. 
+### 1 Timoteo 5:22b "*compartiendo así la responsabilidad por los pecados de otros;*" Al colocar a alguien en el ministerio, especificamente al ancianato, Timoteo se hacía responsable de las __<u>cosas</u>__ buenas y malas. 
 
 #### Timoteo no debía colocar a los ancianos sin pasar el dolor del proceso de discipular y dejar que la enseñanza tenga sus resultados. No debía apresurarse y dejar que sus preferencias __<u>afecten</u>__ su sano juicio. 
 
@@ -2481,29 +2501,31 @@ www.discipuladocgv.org
 
 ##### Timoteo debía tomar mucha importancia que esta en la casa de Dios, donde Cristo es la cabeza y los __<u>angeles</u>__ estan observando lo que hacemos. El cuidado en preparar y escoger a futuros ancianos y diaconos no era algo que debía tomar con ligereza. 
 
-### 1 Timoteo 5:23 "*Ya no bebas agua sola, sino usa un poco de vino por causa de tu estómago y de tus frecuentes enfermedades.*" El mismo libro que enseña que los ancianos y diaconos no sean dados al __<u>vino</u>__, dice a Timoteo que tome vino ayudar sus frecuentes enfermedades. 
+### 1 Timoteo 5:23 "*Ya no bebas agua sola, sino usa un poco de vino por causa de tu estómago y de tus frecuentes enfermedades.*" El mismo libro que enseña que los ancianos y diaconos no sean dados al __<u>vino</u>__, dice a Timoteo que tome vino para ayudar sus frecuentes enfermedades. 
 
-#### Vale la pena mencionar que mientras que la borrachera y adiccion al alcohol es demarcado como __<u>prohibido</u>__, tomar bebidas alcohólicas no es. 
+#### Vale la pena mencionar que mientras que la borrachera y la adiccion al alcohol es demarcado como __<u>prohibido</u>__, tomar bebidas alcohólicas no es. 
 
-##### Asi como muchas __<u>cosas</u>__ en la vida que son buenas, pueden llegar a sernos daño si abusamos. 
+##### Asi como muchas __<u>cosas</u>__ en la vida que son buenas, pueden llegar a hacernos daño si abusamos. 
 
-#### Por ejemplo, la sal es __<u>buena</u>__. La sal añade sabor a los alimentos. Pero mucha sal no solo da un mal sabor, es malo para la salud. En el caso de personas con hipertensión, la sal debe ser consumida medidamente. 
+##### Por ejemplo, la sal es __<u>buena</u>__. La sal añade sabor a los alimentos. Pero mucha sal no solo da un mal sabor, es malo para la salud. En el caso de personas con hipertensión, la sal debe ser consumida medidamente. 
 
 ##### Asi como miramos el contenido de sal en un __<u>alimento</u>__, mirar el porcentaje de alcohol en una bebida antes de beberla es necesario. 
 
-#### Similarmente con las bebidas alcohólicas. Si bien no esta mal tomar una bebida alcohólica, __<u>debe</u>__ ser tratado responsablemente. Embriagarse por no medir la cantidad de bebida es pecado. Aquí Pablo enseña a Timoteo que tome vino para promover una mejor salúd. 
+#### Similarmente con las bebidas alcohólicas. Si bien no esta mal tomar una bebida alcohólica, __<u>debe</u>__ ser tratado responsablemente. Embriagarse por no medir la cantidad de bebida es pecado. 
+
+#### El contexto aquí es que Pablo enseña a Timoteo que tome vino (medidamente) para promover una mejor salúd. 
 
 ##### Por ejemplo, en el __<u>caso</u>__ de la presión baja, es provechoso tomar un vaso de vino que ayuda elevar la presión sanguínea. 
 
-#### Después del conocimiento sobre las bebidas alcohólicas y lo que se puede y no hacer, debemos __<u>tomar</u>__ más consideraciones. Si un hermano tiene la convicción que no se debe tomar en absoluto, entonces no debo imponer mi punto de vista y por amor considerar que es mejor no participar con una bebida alcohólica. 
+#### Después del conocimiento sobre las bebidas alcohólicas y lo que se puede y no hacer, debemos __<u>tomar</u>__ más consideraciones. Si un hermano tiene la convicción que no se debe tomar en absoluto, entonces no debo imponer mi punto de vista y por amor considerar que es mejor no participar con una bebida alcohólica. 1 Corintios 8:7-13; Romanos 14:20-21
 
-### 1 Timoteo 5:24a "*Los pecados de algunos hombres ya son evidentes,*" Algunos ya manifestaban pecado en sus __<u>vidas</u>__ como consecuencia inminente de falsa enseñanza. 
+### 1 Timoteo 5:24a "*Los pecados de algunos hombres ya son evidentes...*" Algunos ya manifestaban pecado en sus __<u>vidas</u>__ como consecuencia inminente de la falsa enseñanza. 1 Timoteo 1:3-4 
 
-#### Si los pecados de alguien son manifiéstos, es porque dejaron de caminar en comunión con el Señor y __<u>andaron</u>__ según la carne y como resultado termina manifestandose en pecado evidente. Luego procederá la muerte como síntoma evidente de haber caminado influenciado por la carne. 
+#### Si los pecados de alguien son manifiéstos, es porque dejaron de caminar en comunión con el Señor y __<u>andaron</u>__ según la carne y como resultado termina manifestandose en pecado evidente. Luego procederá la muerte como síntoma evidente de haber caminado influenciado por la carne. Santiago 1:14-15
 
-### 1 Timoteo 5:24b "*yendo delante de ellos al juicio;*" El creyente que piensa que esta bien __<u>pecar</u>__ no esta considerando que aunque el creyente ha sido salvo de la ira De Dios, si será juzgado. Seremos juzgados según la ley de la libertad. 
+### 1 Timoteo 5:24b "*yendo delante de ellos al juicio;*" El creyente que piensa que esta bien __<u>pecar</u>__ no esta considerando que aunque el creyente ha sido salvo de la ira de Dios, si será juzgado. Seremos juzgados según la ley de la libertad. Santiago 2:12; Gálatas 6:2; Hebreos 10:35
 
-### 1 Timoteo 5:24c "*pero a otros, sus pecados los siguen*". Solo porque los pecados no se han hecho manifiéstos no quiere decir que Cristo no los juzgará también. La ley de la libertad es según la __<u>intención</u>__ del corazon no solo por lo que es externamente visible. 
+### 1 Timoteo 5:24c "*...pero a otros, sus pecados los siguen*". Solo porque los pecados no se han hecho manifiéstos no quiere decir que Cristo no los juzgará también. La ley de la libertad es según la __<u>intención</u>__ del corazon no solo por lo que es externamente visible. Hebreos 4:12
 
 ### 1 Timoteo 5:25a "*De la misma manera, las buenas obras son evidentes, y las que no lo son no se pueden ocultar...*" Era necesario para Timoteo observar detenidamente a los que consideró candidatos para el __<u>ancianato</u>__ antes de colocarlos en el rol. 
 
@@ -2515,13 +2537,13 @@ www.discipuladocgv.org
 
 ### Cualquier acusación contra un anciano debe ser cuidadosamente observado. Debe haber mas de un __<u>testigo</u>__. Si se confirman las acusaciones de pecado, se debe reprenderlos delante de toda la congregación. 1 Timoteo 5:19-20, 24-25
 
-### Timoteo debía ser __<u>imparcial</u>__ respecto solucionar ciertos problemas dentro de la iglesia. 1 Timoteo 5:21
+### Timoteo debía ser __<u>imparcial</u>__ respecto solucionar ciertos problemas dentro de la iglesia, especialmente cuando se trata de la elección de ancianos. 1 Timoteo 5:21
 
-### Antes de designar ancianos Timoteo debía examinar cuidadosamente a cada candidato, ya que la responsabilidad de cualquier __<u>pecado</u>__ recaería sobre él. 1 Timoteo 5:22a
+### Antes de designar ancianos, Timoteo debía examinar cuidadosamente a cada candidato, ya que la responsabilidad de cualquier __<u>pecado</u>__ recaería sobre él. 1 Timoteo 5:22
 
-### Así podía mantenerse __<u>puro</u>__ de pecado. 1 Timoteo 5:22b
+### Así podía mantenerse __<u>puro</u>__ de pecado. 1 Timoteo 5:22
 
-### Timoteo en particular: "*Bebe un poco de vino por amor a tu estómago porque estás __<u>enfermo</u>__ muy a menudo*". 1 Timoteo 5:23
+### Timoteo en el cuidado de su salúd: "*Bebe un poco de vino por amor a tu estómago porque estás __<u>enfermo</u>__ muy a menudo*". 1 Timoteo 5:23
 
 # 1 Timoteo 6:1-21 - Asuntos Relacionados con la Iglesia
 
@@ -2685,7 +2707,7 @@ www.discipuladocgv.org
 
 ### 1 Timoteo 6:11a "*y sigue la justicia...*" más bien, __<u>macérate</u>__ en la justicia. 
 
-### 1 Timoteo 6:11a "*sigue...la piedad...*" __<u>Sigue</u>__ la piedad
+### 1 Timoteo 6:11a "*sigue...la piedad...*" __<u>Sigue</u>__ la piedad. 
 
 ### 1 Timoteo 6:11a "*sigue...la fe...*" sigue la fe, el cuerpo de __<u>verdad</u>__ que tenemos.
 

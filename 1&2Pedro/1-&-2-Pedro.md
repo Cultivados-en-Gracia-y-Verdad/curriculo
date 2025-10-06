@@ -3,11 +3,11 @@ Title: 1 & 2 Pedro
 ---
 
 # 1 y 2 Pedro
-## Creciendo en Cristo
+## Creciendo en Cristo/ durante el tiempo de su peregrinación
 
 # 1 Pedro
 
-## Introducción 
+# INTRODUCCIÓN
 
 ### La Epístola de 1 Pedro es escrita a judios dispersos por persecución por su fe en Jesucristo. 
 
@@ -21,7 +21,16 @@ Title: 1 & 2 Pedro
 
 ### El autor no afirma que esto sea fácil, pero es necesario para la obediencia a Dios, quien es el Creador y Redentor de todas las personas y sociedades. Dios ha llamado a estos seguidores dispersos de Cristo a proclamar las obras poderosas de Dios, y el principal ámbito de esta proclamación es su vida cotidiana.[^5]
 
-# 1 Pedro 1:1-12 – Nuestra Esperanza Viva 
+Bosquejo
+
+| #    | Sección                                          | Página |
+| ---- | ------------------------------------------------ | ------ |
+| I    | Introducción                                     |        |
+| II   | 1 Pedro 1:3-2:10 Nuestra esperanzadora salvación |        |
+| III  | 1 Pedro 2:11-3:12 Piedosos en el sufrimiento     |        |
+| IV   | 1 Pedro 3:13-5:14 Gracia en el sufrimiento       |        |
+
+## 1 Pedro 1:1-2 – Saludos
 
 ###  1 Pedro 1:1 *Pedro,* Pedro es autor del libro (1 Pedro 5:1) pero lo hizo por medio de Silvano (1 Pedro 5:12). 
 
@@ -43,77 +52,17 @@ Title: 1 & 2 Pedro
 
 ##### Pedro naturalmente era pronto para hablar y actuar impulsivamente. Juan 18:10; Marcos 9:5-6
 
+### Pedro siempre es mencionado primero. Judas siempre es último. 
+
+### Pedro es impulsivo. 
+
+### Pedro escribió esta carta de Babilonia. Habían sido exiliados muchos judios 600 años. Muchos judios nunca regresaron. Es probable que Babilonia es literalmente la ciudad de Babilonia y no simbóliza de Roma. 
+
 ###  1 Pedro 1:1 *apóstol de Jesucristo:* Pedro es un apóstol de Jesucristo. Sus credenciales vienen de Jesucristo. 2 Pedro 1:1; Mateo 4:18 
 
 #### Pedro es uno de doce Apóstoles. Mateo 10:2; Marcos 3:16
 
 #### Pedro había sido introducido a Jesús por su hermano Andrés. Juan 1:40-42
-
-## Pedro y el papado
-
-#### La conversación de Mateo 16. 
-
-##### Mateo 16:15 *«Y ustedes, ¿quién dicen que soy Yo?», les preguntó  Jesús.* En una conversación con los discipulos, Jesus les pregunta su opinión sobre su identidad. 
-
-##### Mateo 16:16 "*Simón Pedro respondió: «Tú eres el Cristo, el Hijo del Dios viviente»*". Uno de ellos, Pedro, responde...tú eres el ungido, hijo del Dios viviente. 
-
-##### Mateo 16:17a "*Entonces Jesús le dijo: «Bienaventurado eres, Simón, hijo de Jonás...*" Jesus le responde, "feliz de ti Simón, hijo de Jonas..." Pero, ¿porqué no se refiere a el como Simón cuando Jesús mismo es el que le dió ese nombre? Juan 1:42
-
-###### El mismo nombre (Simón, hijo de Juan) usó Jesus cuando se encontró con los discipulos en en galilea, después que Pedro le había negó tres veces. Juan 21:15-17
-
-##### Mateo 16:17b *...porque esto no te lo reveló carne ni sangre, sino Mi Padre que está en los cielos.* Simon, no había recibido esta revelación de su padre Jonás, sino del Padre celestial. 
-
-##### Mateo 16:18a "*Yo también te digo que tú eres Pedro (piedrita)...*" Jesus vuelve a usar el nombre que le dió. Juan 1:42
-
-##### Mateo 16:18a *y sobre esta roca* (roca enorme) *edificaré Mi iglesia; y las puertas del Hades no prevalecerán contra ella.*  Basado en la revelación que había recibido Pedro del Padre celestial acerca de quien es Jesús, Jesús le anuncia a Pedro sus planes a futuro. 
-
-##### Parafraséando, Jesús le dijo a Pedro, "Tu eres solo una pequeña piedra, pero sobre esta enorme roca (la confesion que Jesus es el Cristo) que te reveló mi Padre, voy a construir mi iglesia”. 
-
-##### Mateo 16:19 *Yo te daré las llaves del reino de los cielos...*" Jesus le dice a Pedro que le daría las llaves del reino de los cielos. Algunos interpretan esto a decir que Pedro es el que está a la puerta del cielo con las llaves para prohibir o dejar ingresar al cielo. ¿Es esto a lo que se refiere este versículo? 
-
-###### Así como los candados te mantienen afuéra, la llaves de permiten ingresar. Llaves le dan a uno acceso. 
-
-###### Cuando Pedro dijo que Jesús era el Cristo, estaba diciendo que Jesús era el ungido, el prometido de Dios y el Rey. 
-
-###### Jesús le dice a Pedro que el, como Rey del reino. le entregaría las llaves para permitir el ingreso a ese reino. 
-
-###### Las llaves del cielo estan contrastadas con las puertas del Hades en Mateo 16:18. Mediante la predicación del evangelio, muy pronto Pedro abrirá la puerta a las personas para tener una entrada al reino de los cielos. 
-
-###### A Pedro se le dio el privilegio de tener la llave y abrir la puerta a los Judíos el día de Pentecostés (Hechos 2), a los samaritanos (Hechos 8), y a los gentiles (Hechos 10).
-
-##### Mateo 16:19b "*y lo que ates en la tierra, será atado en los cielos; y lo que desates en la tierra, será desatado en los cielos».*" Mateo 18:18
-
-###### Atar DEO - obligar, concebido como atar o sujetar una obligación a alguien.[^1]
-
-##### Juan 20:23; Mateo 12:29-32
-
-##### La iglesia es edificada sobre los apostoles. Efesios 2:20
-
-##### Mateo 16:20 *Entonces ordenó a los discípulos que a nadie dijeran que Él era el Cristo.*
-
-### Otros argumentos
-
-#### Bíblicamente no se hace mención de Pedro en Roma. Cuando Pablo escribió a los hermanos en Roma, aunque menciona más de 12 personas, nunca mando saludos a Pedro. 
-
-##### Algunos argumentan que la mención de babilonia es un dato que alude a Roma ya que se usaba este apodo en literatura cristiana y judía. 1 Pedro 5:13
-
-##### Pero Roma fue llamado así mayormente después de la destrucción del templo en el 70d.C. cuando ya Pedro estaba muerto. Según Jerónimo y Eusebio, Pedro murió en el año 67-68 d.C..
-
-###### Otra teoria es que se refiere a la fortaleza llamada Babilonia de egiptó, justo al norte de Cairo.  
-
-###### La antigua ciudad de Babilonia estaba en ruinas para este tiempo. 
-
-##### Varios historiadores mencionan la presencia de Pedro y Pablo en Roma. Es posible que Pedro llegó a ser anciano en la iglesia en Roma. [^1]
-
-##### Pero el título de «papa» surge en Alejandría, ya que «Padre» es un título de respeto para el clero, y en particular para los obispos. Esto comienza alrededor del siglo III, y a principios del siglo IV la práctica se adopta en Roma. No fue hasta el siglo XII que se reservó para Roma en la Iglesia católica.[^2]
-
-#### Si Jesús hizo a Pedro el principal de los discipulos en este momento, ¿porque los vemos peleando a los discipulos después de la última cena sobre quien seria el mayor en el reino? Lucas 22:24
-
-#### Pablo claramente no creia que Pedro era el principal lider de la iglesia cuando lo condeno publicamente por su hipocrecía. Gálatas 2:11-14
-
-#### Ninguna conexion existe entre Pedro como anciano de Roma y el nombre de primer papa. Esta asosiación parece venir mucho después. 
-
-#### Pedro era uno de los Apostoles del cordero. Mucho más que ser el papa. Pedro es uno entre muchos, nunca fué colocado encima en ningún momento excepto por su personalidad de ser un lider natural.  
 
 ## Su muerte
 
@@ -139,6 +88,10 @@ el previo conocimiento de Dios no es la causa de nuestra salvación. Nuestro lla
 
 ###  1 Pedro 1:2 *para obedecer a Jesucristo y ser rociados con Su sangre:* El tercer punto de la elección es que es para obedecer a Jesucristo y ser rociados con Su sangre. 
 
+## 1 Pedro 1:2 Gozo por la salvación pasada
+
+###  1 Pedro 1:2 *Que la gracia y la paz les sean multiplicadas a ustedes.* El deseo de Pedro a sus lectores es que Dios multiplique Su gracia y paz a ellos. 2 Pedro 1:2
+
 ## En Síntesis (1 Pedro 1:1)
 
 ### Pedro es el autor la carta. Silvano la transcribe.
@@ -153,9 +106,7 @@ el previo conocimiento de Dios no es la causa de nuestra salvación. Nuestro lla
 
 ####  Rociados en la sangre de Cristo.
 
-## 1 Pedro 1:2-4 Gozo por la salvación pasada
-
-###  1 Pedro 1:2 *Que la gracia y la paz les sean multiplicadas a ustedes.* El deseo de Pedro a sus lectores es que Dios multiplique Su gracia y paz a ellos. 2 Pedro 1:2
+# 1 Pedro 1:3-2:10 – NUESTRA ESPERANZADORA SALVACIÓN
 
 ###  1 Pedro 1:3a *Bendito sea el Dios y Padre de nuestro Señor Jesucristo,* Pedro bendice a Dios el Padre quien compartimos en Jesucristo. 2 Corintios 1:3
 
@@ -165,67 +116,9 @@ el previo conocimiento de Dios no es la causa de nuestra salvación. Nuestro lla
 
 #### Dios nos hizo nacer de nuevo por su gran HEMAS misericordia. Santiago 1:18; 1 Pedro 1:23
 
-## Doctrina corta sobre la regeneración en relación a la fe
+#### ¿Cómo nos hizo nacer? (vease el apéndice "doctrina de la regeneración en relación a la fe")
 
-#### Es importante establecer el orden del nacimiento espiritual. ¿Creemos para nacer de nuevo, o creemos porque hemos nacido de nuevo?
-
-##### Podriamos definir la fe como  “confianza o dependencia en Dios basada en el hecho de que le tomamos a Su palabra y creemos lo que Él ha dicho”. 
-
-##### La regeneración es un “acto secreto de Dios en el que nos imparte nueva vida espiritual; a veces se le llama 'nacer de nuevo'"[^6]
-
-### Versículos usados para apoyar la regeneración antes de la fe
-
-#### Jeremías 24:7 “*Les daré un nuevo corazón para que me conozcan, porque yo soy el Señor; y ellos serán mi pueblo y yo seré su Dios, pues volverán a mí de todo corazón*”,
-
-##### El contexto de este versículo es una profecía dicha a los exiliados en Babilonia. Dios les anuncia que acabando su tiempo de 70 años en babilonia los traerá de regreso a la tierra.
-
-#### Jeremías 31:33 “*Porque éste es el pacto que haré con la casa de Israel después de aquellos días, declara el Señor. Pondré mi ley dentro de ellos, y sobre sus corazones la escribiré. Entonces yo seré su Dios y ellos serán mi pueblo*”, 
-
-##### Este pasaje habla del nuevo pacto que Dios establecerá con Israel y juda. Jeremías 31:31
-
-#### Jeremías 32:39 “*Y les daré un solo corazón y un solo camino, para que me teman siempre, para bien de ellos y de sus hijos después de ellos*”, 
-
-#### Ezekiel 11:19 “*Yo les daré un solo corazón y pondré espíritu nuevo dentro de ellos. Y quitaré de su corazón el corazón de piedra y les daré corazón de carne*”,
-
-##### Estos versículos hablan del cumplimiento del Nuevo Pacto que Dios hará con Israel. Son basados en la promesa que Dios le hizo a Abraham en Génesis 12:1-3. Sin embargo, todos los pasajes hablan de un tiempo que Dios les dará un corazón nuevo pero sabemos por muchos otros pasajes que es solo se cumplen **<u>después</u>** de que Israel cree, no antes. 
-
-###### Efesios 2:1 “*Y Él os dio vida a ustedes, que estaban muertos en vuestros delitos y pecados*”, 
-
-###### Efesios 2:5 “*Aun cuando estábamos muertos en nuestros delitos, nos dio vida juntamente con Cristo (por gracia habéis sido salvados)*”, 
-
-###### Colosenses 2:13 “*Y cuando estaban muertos en vuestros delitos y en la incircuncisión de vuestra carne, les dio vida juntamente con Él, habiéndonos perdonado todos los delitos*”, 
-
-### Versículos usados para apoyar que la fe es antes que la regeneración
-
-#### Juan 3:3 "*Jesús le contestó: «En verdad te digo que el que no nace de nuevo no puede ver el reino de Dios»*".
-
-#### 1 Juan 5:4 "*Porque todo lo que es nacido de Dios vence al mundo. Y esta es la victoria que ha vencido al mundo: nuestra fe*". Claro esta, fe -> nacer -> vencer. 
-
-#### Juan 6:37 "*Todo lo que el Padre me da, vendrá a Mí; y al que viene a Mí, de ningún modo lo echaré fuera*". Venir al Padre resulta en no ser rechazado. 
-
-#### Juan 6:44 "*Nadie puede venir a Mí si no lo trae el Padre que me envió, y Yo lo resucitaré en el día final*". Es necesario ir a Él para ser resucitado en el día final. Es claro este versículo en que el que va a Él es porque el Padre lo atrajo. Nadie busca a Dios pero pueden responder después que Dios los atrae. Juan 12:32
-
-#### Efesios 1:13 "*En Él también ustedes, después de escuchar el mensaje de la verdad, el evangelio de su salvación, y habiendo creído, fueron sellados en Él con el Espíritu Santo de la promesa,*"
-
-#### Habacúc 2:4 "*»Así es el orgulloso: En él, su alma no es recta, Mas el justo por su fe vivirá*".
-
-#### Romanos 10:17 "*Así que la fe viene del oír, y el oír, por la palabra de Cristo*".
-
-#### Romanos 4:5 "*pero al que no trabaja, pero cree en Aquel que justifica al impío, su fe se le cuenta por justicia*".
-
-### ¿Como participa Dios en nuestra salvación? 
-
-#### La salvación pertenece a Dios. Dios nos buscó (Lucas 19:10), Dios nos llamó (), Dios nos atrajo a si mismo de multiples maneras(Juan 12:32), Dios nos hizo escuchar el evangelio (1 Corintios 1:18) y después que nosotros creimos en el Evangelio, Dios nos hizo nacer de nuevo. 
-
-### ¿Como participa el hombre en la salvación? 
-
-#### Debe responder creyendo el evangelio.  
-
-### 1 Pedro 1:3c "*a una esperanza viva*" cuando nos hizo renacer fue para una esperanza viva. Hebreos 3:6, 2 Tesalonicenses 2:16, 1 Pedro 1:13, 21, 3:5, 15; 1 Juan 3:3
-
-#### ¿Cómo nos hizo nacer? 
-
-###  1 Pedro 1:3d "*mediante la resurrección de Jesucristo de entre los muertos,*" 1 Corintios 15:20; 1 Pedro 3:21
+###  1 Pedro 1:3d "*mediante la resurrección de Jesucristo de entre los muertos...*" 1 Corintios 15:20; 1 Pedro 3:21
 
 #### ¿Cuál fue el propósito Dios tenía para hacernos nacer de nuevo? 
 
@@ -235,11 +128,21 @@ el previo conocimiento de Dios no es la causa de nuestra salvación. Nuestro lla
 
 #### Reservada TEREO (perfecto, pasivo, participio) - mantenerse o llegar a mantenerse en un determinado estado, posición o actividad.[^1]
 
-## 1 Pedro 1:5-7 Gozo por la salvación futura
+Puesto de otra manera, según Su previo conocimiento y motivado por Su misericordia, Dios nos hizo nacer para recibir una herencia reservada en los cielos. 
+
+¿Específicamente, qué conoció Dios de ante mano? Nuestra fe. 
+
+## 1 Pedro 1:5-7 Basado en nuestra fe somos protegidos para alabanza, gloria y honor en la revelación de Jesucristo
+
+### ¿Que significa esto? Significa que Dios supo de antemano nuestra fe y nos asegura protegernos para recibir esa herencia reservada para cada uno de los que El conoció d antemano. 
+
+#### Significa que Dios decidió la salvación de algunos y otro no? De ninguna manera. Lo que significa es que Dios supo de antemano, vió todos los que creerían en El, entonces pudo preparar y proteger a ellos para recibir la promesa. 
 
 ###  1 Pedro 1:5a  "*Mediante la fe ustedes son protegidos por el poder de Dios,*" 1 Pedro 5:10, 1:9
 
-#### "*son protegidos*" PHROUREO (presente, pasivo, particípio) - estar o volverse seguro y mantenerse bajo vigilancia.[^1]
+#### "*son protegidos*" PHROUREO (presente, pasivo, particípio) - estar o volverse seguro y mantenerse bajo vigilancia.[^1] Somos continuamente los protegidos por Dios. No es nuestra fe que nos protege, es Dios. 
+
+##### ¿Como podemos saber que Dios nos hizo nacer y que Dios nos protege? Mediante nuestra fe. Porque creimos en Él, (conociendolo de antemano) nos hizo nacer de nuevo según su misericordia para recibir una herencia reservada por Él en los cielos. Claramente, el foco es puesto en el omnisciencia, el poder, la misericordia y fidelidad de Dios. 
 
 ###  1 Pedro 1:5b "*para la salvación que está preparada para ser revelada en el último tiempo.*" La salvación preparada para ser revelada en el último tiempo es la glorificación futura de cada creyente de la edad de la Iglesia. 1 Corintios 15:51-53
 
@@ -247,15 +150,23 @@ el previo conocimiento de Dios no es la causa de nuestra salvación. Nuestro lla
 
 #### Revelada APOCALIPTO (aoristo, pasivo, infinitivo) - ser o llegar a ser conocido por el público; especialmente información que anteriormente sólo era conocida por unas pocas personas o que debía mantenerse en secreto.[^1]
 
-###  1 Pedro 1:6a  "*En lo cual ustedes se regocijan grandemente,*" Trae gran regocijo saber que seremos salvos en el último tiempo. Nuestra futura glorificación y liberación de la misma presencia del pecado nos lleva a ser agradecidos. 
+###  1 Pedro 1:6a  "*En lo cual ustedes se regocijan grandemente,*" Les trajo gran regocijo conocer estas realidades. Saber que seremos salvos en el último tiempo nos llena de gozo. Así como Dios supo de nosotros de antemano, estuvo reservando nuestra herencia futura y nos hizo renacer, podemos regocijarnos al saber que nos protege en el presente para recibir la completa salvación que nos ha prometido. 
 
-###  1 Pedro 1:6b "*aunque ahora, por un poco de tiempo si es necesario, sean afligidos con diversas pruebas,*" mientras que la herencia es eterna y segura, es posible que el creyente tenga que sufrir temporalmente
+####  Nuestra futura glorificación y liberación de la misma presencia del pecado nos lleva a ser agradecidos. 
+
+###  1 Pedro 1:6b "*aunque ahora, por un poco de tiempo si es necesario, sean afligidos con diversas pruebas,*" mientras que la herencia es eterna y segura, es posible que el creyente tenga que sufrir temporalmente. 
+
+#### A pesar de nuestro pasado, presente y futuro en las manos de Dios, no signifca que no estaremos puestos bajo pruebas durante nuestra peregrinación en la tierra. 
 
 ### 1 Pedro 1:7a  "*para que la prueba de la fe de ustedes, más preciosa que el oro que perece, aunque probado por fuego,*" la prueba presente purifica al creyente como el oro es purificado por el fuego. Es importante entender que es bueno el sufrimiento presente para la futura gloria de Jesucristo. 
 
-### 1 Pedro 1:7b "*sea hallada que resulta en alabanza, gloria y honor...*" La fe pura tiene un valor precioso, más que puro oro. La fe que pasa por la prueba resulta en alabanza, gloria y honor.
+#### "*Prueba*" DOKIMON significa integridad, ausencia de falsedad. Después de "poner bajo fuego" nuestra fe, se elimina toda "escoria" y queda lo que es puro. Esto es nuestra fe probada o comprobada. 
 
-### 1 Pedro 1:7c "*en la revelación de Jesucristo...*" cuando Cristo sea manifestado, también seremos manifestados con Él. 
+#### Así como llegamos a ser receptores de la salvación por medio de Jesucristo, también somos enseñados que el andar del creyente debe ser por la fe. Cuando nuestra fe es puesta bajo prueba se purifica. La fe probada () es precioso a los ojos de Dios. 
+
+### 1 Pedro 1:7b "*sea hallada que resulta en alabanza, gloria y honor...*" La fe pura tiene un valor precioso, más que puro oro. La fe aprobada resulta en alabanza, gloria y honor.
+
+### 1 Pedro 1:7c "*en la revelación de Jesucristo...*" cuando Cristo sea manifestado, también seremos manifestados con Él. Cuando habla de la revelación de Jesucristo, el énfasis típicamente es a la gloria que será manifiésto cuando Cristo sea revelado. 
 
 ## 1 Pedro 1:8-9 Gozo por la salvación presente
 
@@ -263,15 +174,13 @@ el previo conocimiento de Dios no es la causa de nuestra salvación. Nuestro lla
 
 ### 1 Pedro 1:8b "*y a quien ahora no ven, pero creen en Él...*" 
 
-#### "*creen*" está en voz (presente, activo, participio). Ellos estaban siendo creyentes en El. 
+#### "*creen*" está en voz (presente, activo, participio). Ellos estaban siendo creyentes en Él. 
 
 ### 1 Pedro 1:8c "*y se regocijan grandemente con gozo inefable y lleno de gloria,*"
 
-### 1 Pedro 1:9  "*obteniendo, como resultado de su fe, la salvación de sus almas.*" Romanos 6:22
+### 1 Pedro 1:9  "*obteniendo, como resultado de su fe, la salvación de sus almas.*" La santificación es la salvación de nuestras almas que es un resultado de nuestra fe. Colosenses 2:6, Romanos 6:22
 
-#### La santificación es la salvación de nuestras almas que es un resultado de nuestra fe. Colosenses 2:6
-
-Los receptores de la carta habíane estado gozosos a pesar de las pruebas. Estaban experimientando los resultados de la sana enseñanza que habían recibido de Pedro y otros. 
+#### Los receptores de la carta habían estado gozosos a pesar de las pruebas. Estaban experimientando los resultados de la sana enseñanza que habían recibido de Pedro y otros. 
 
 ## 1 Pedro 1:10-12 Nuestra salvación anunciada
 
@@ -289,9 +198,9 @@ Los receptores de la carta habíane estado gozosos a pesar de las pruebas. Estab
 
 ### 1 Pedro 1:12c "*cosas a las cuales los ángeles anhelan mirar*".
 
-# 1 Pedro 1:13-25 – Preparando la mente para la acción
+# 1 Pedro 1:13-25 – PREPARANDO LA MENTE PARA ACCIÓN
 
-###  1 Pedro 1:13a "*Por tanto,* el "*por tanto*" es equivalente a, "en vista del hecho de que aunque están pasando por muchas clases de pruebas (1 Pedro 1:6), sin embargo, porque su herencia celestial les espera" (1 Pedro 1:3-6), preparen su entendimiento para la acción (1 Pedro 1:13).
+###  1 Pedro 1:13a "*Por tanto,* es equivalente a, "en vista del hecho de que aunque están pasando por muchas clases de pruebas (1 Pedro 1:6), sin embargo, porque su herencia celestial les espera" (1 Pedro 1:3-6), preparen su entendimiento para la acción (1 Pedro 1:13).
 
 ###  1 Timoteo 1:13b "*preparen su entendimiento para la acción.*" 
 
@@ -305,13 +214,13 @@ Los receptores de la carta habíane estado gozosos a pesar de las pruebas. Estab
 
 ###  1 Pedro 1:13d *completamente en la gracia que se les traerá en la revelación de Jesucristo.* Mantener la mirada, espera y desear conocer la gracia que será traida en la revelación de Jesucristo debe ser al centro de la diana del creyente. 
 
-###  1 Pedro 1:14a *Como hijos obedientes...*
+###  1 Pedro 1:14a *Como hijos obedientes...*igual que un hijo que obedece a sus padres...
 
 ###  1 Pedro 1:14b *no se conformen a los deseos que antes tenían en su ignorancia,*
 
 ###  1 Pedro 1:15a *sino que así como Aquel que los llamó es Santo,*
 
-#### santo fHAGIOS significa - separado de la condición y uso común; dedicado. [^4]
+#### santo HAGIOS significa - separado de la condición y uso común; dedicado. [^4]
 
 ###  1 Pedro 1:15b *así también sean ustedes santos en toda su manera de vivir.*
 
@@ -427,9 +336,9 @@ Los receptores de la carta habíane estado gozosos a pesar de las pruebas. Estab
 
 ### EL GOZO DE NUESTRA SALVACIÓN (1:6-9)
 
-### La promesa (1:6): Este gozo puede ser nuestro incluso en medio de las pruebas.
+### La promesa: Este gozo puede ser nuestro incluso en medio de las pruebas. (1:6)
 
-### Los frutos (1:7-9): Nuestras pruebas producen un doble fruto.
+### Los frutos: Nuestras pruebas producen un doble fruto. (1:7-9)
 
 ### Aumentan nuestra fe en Dios (1:7).
 
@@ -437,7 +346,7 @@ Los receptores de la carta habíane estado gozosos a pesar de las pruebas. Estab
 
 ### LOS PROFETAS DEL ANTIGUO TESTAMENTO Y NUESTRA SALVACIÓN (1:10-12a)
 
-### Lo que no entendieron (1:10-11): No pudieron comprender plenamente todas sus profecías
+### Lo que no entendieron: No pudieron comprender plenamente todas sus profecías.  (1:10-11)
 
 ### concernientes a la obra futura del Mesías. 
 
@@ -445,13 +354,13 @@ Los receptores de la carta habíane estado gozosos a pesar de las pruebas. Estab
 
 ### En cuanto a su gloria (1:11b)
 
-### Lo que sí entendieron (1:12a): Sabían que sus profecías no se cumplirían hasta después de su muerte.
+### Lo que sí entendieron: Sabían que sus profecías no se cumplirían hasta después de su muerte. (1:12a)
 
 ### LOS ÁNGELES Y NUESTRA SALVACIÓN (1:12b): Anhelaban saber más sobre este maravilloso tema.
 
 ### LA RESPUESTA A NUESTRA SALVACIÓN (1:13-17)
 
-### En cuanto a nosotros mismos (1:13): Debemos ser autocontrolados.
+### En cuanto a nosotros mismos: Debemos ser autocontrolados. (1:13)
 
 ### En cuanto a nuestro Salvador (1:14-17)
 
@@ -463,19 +372,19 @@ Los receptores de la carta habíane estado gozosos a pesar de las pruebas. Estab
 
 ### El Precio (1:18-19)
 
-#### Negativo (1:18): No se compró con plata ni oro.
+#### Negativo: No se compró con plata ni oro. (1:18)
 
-#### Positivo (1:19): Se compró con la preciosa sangre de Jesús.
+#### Positivo: Se compró con la preciosa sangre de Jesús.  (1:19)
 
-### La planificación (1:20-21): Cristo fue elegido antes de la fundación del mundo para hacerlo.
+### La planificación: Cristo fue elegido antes de la fundación del mundo para hacerlo. (1:20-21)
 
   ### EL VEHÍCULO DE NUESTRA SALVACIÓN (1:22-25)
 
-### El nuevo nacimiento (1:22-23a): Es necesario experimentar la regeneración para ser salvo.
+### El nuevo nacimiento: Es necesario experimentar la regeneración para ser salvo.  (1:22-23a)
 
-### El Libro Antiguo (1:23b-25): Es la Palabra de Dios la que lo realiza.
+### El Libro Antiguo: Es la Palabra de Dios la que lo realiza. (1:23b-25)
 
-# 1 Pedro 2:1-10 – Creciendo hacia la madurez
+# 1 Pedro 2:1-10 – CRECIENDO HACIA LA MADUREZ
 
 ## 1 Pedro 2:1-3 - Un ánimo a desechar todo lo malo y crecer para salvación
 
@@ -579,8 +488,6 @@ Los receptores de la carta habíane estado gozosos a pesar de las pruebas. Estab
 
 #### Un sacerdocio santo, tenían experiencia los judíos de sacerdotes, los cuales tenían que ofrecer sacrificios primeramente por sus delitos y pecados y despues por los de la nación, sin embargo aquí vemos un sacerdocio santo, los creyentes son llamados a participar de esto
 
-#### 
-
 ###  *para ofrecer sacrificios espirituales aceptables a Dios*
 
 #### Solo los sacerdotes eran los mas adecuados para ofrecer sacrificios según la ley, sin embargo ahora los creyentes somos sacerdocio santo, con un propósito, ofrecer sacrificios ?, que clase de sacrificios? otra vez animales?, no ahora sacrificios espirituales,
@@ -675,7 +582,7 @@ Los receptores de la carta habíane estado gozosos a pesar de las pruebas. Estab
 ###  *no habían recibido misericordia, pero ahora han recibido misericordia.*
 #### Los que estaban alejados a los pactos, hemos sido acercados, ahora hemos recibido misericordia de aquel que nos llamó y nos rescató.
 
-# 1 pedro 2:11-amados absténganse de lo malo
+# 1 Pedro 2:11-3:13 PIADOSOS EN LA PERSECUCIÓN
 
 #### Considerando ahora todo lo que ya somos en Cristo y toda nuestra nueva identidad en el amado, pues podemos tomar esta instrucción por la fe
 
@@ -1039,7 +946,7 @@ Los receptores de la carta habíane estado gozosos a pesar de las pruebas. Estab
 
 ###  *PERO EL ROSTRO DEL SEÑOR ESTÁ CONTRA LOS QUE HACEN EL MAL».*
 
-# 1 Pedro 3:13-22 - Gracia en el Sufrimiento
+# 1 Pedro 3:13-5:14 - GRACIA EN EL SUFRIMIENTO
 
 ###  1 Pedro 3:13 *¿Y quién les podrá hacer daño a ustedes si demuestran tener celo por lo bueno?*
 
@@ -1271,7 +1178,7 @@ Los receptores de la carta habíane estado gozosos a pesar de las pruebas. Estab
 
 ### Debemos seguir haciendo el bien (4:19a).
 
-# 1 Pedro 5:1-11 – Guía adicional 
+## 1 Pedro 5:1-11 – Guía adicional 
 
 ## A los ancianos
 
@@ -1863,13 +1770,13 @@ Los receptores de la carta habíane estado gozosos a pesar de las pruebas. Estab
 
 ## En Síntesis
 
-   ###  ESQUEMA DE LA SECCIÓN TRES (2 PEDRO 3)
+###  ESQUEMA DE LA SECCIÓN TRES (2 PEDRO 3)
 
 ###    Pedro describe tres "mundos".
 
-   ### EL MUNDO ANTIGUO (3:5b-6): Este mundo fue destruido por el gran Diluvio en los días de Noé.
+### EL MUNDO ANTIGUO (3:5b-6): Este mundo fue destruido por el gran Diluvio en los días de Noé.
 
-   ### EL MUNDO ACTUAL (3:1-5a, 7-12, 14-18)
+### EL MUNDO ACTUAL (3:1-5a, 7-12, 14-18)
 
 ###    Los documentos (3:1-2): Pedro ha escrito ambas epístolas exhortando a sus lectores a recordar las grandes verdades.
 
@@ -1903,7 +1810,133 @@ Los receptores de la carta habíane estado gozosos a pesar de las pruebas. Estab
 
 ### Exhortación de Pablo (3:15-16): El Señor espera su regreso para que más personas tengan tiempo de ser salvas.
 
-   ### EL NUEVO MUNDO (3:13): Esta tierra futura se convertirá en el hogar de la justicia universal.
+### EL NUEVO MUNDO (3:13): Esta tierra futura se convertirá en el hogar de la justicia universal.
+
+# Apéndice
+
+## Pedro y el papado
+
+#### La conversación de Mateo 16. 
+
+##### Mateo 16:15 *«Y ustedes, ¿quién dicen que soy Yo?», les preguntó  Jesús.* En una conversación con los discipulos, Jesus les pregunta su opinión sobre Su identidad. 
+
+##### Mateo 16:16 "*Simón Pedro respondió: «Tú eres el Cristo, el Hijo del Dios viviente»*". Uno de ellos, Pedro, responde...tú eres el ungido, hijo del Dios viviente. 
+
+##### Mateo 16:17a "*Entonces Jesús le dijo: «Bienaventurado eres, Simón, hijo de Jonás...*" Jesus le responde, "feliz de ti Simón, hijo de Jonas..." Pero, ¿porqué no se refiere a el como Simón cuando Jesús mismo es el que le dió ese nombre? Juan 1:42
+
+###### El mismo nombre (Simón, hijo de Juan) usó Jesus cuando se encontró con los discipulos en en galilea, después que Pedro le había negó tres veces. Juan 21:15-17
+
+##### Mateo 16:17b *...porque esto no te lo reveló carne ni sangre, sino Mi Padre que está en los cielos.* Simon, no había recibido esta revelación de su padre Jonás, sino del Padre celestial. 
+
+##### Mateo 16:18a "*Yo también te digo que tú eres Pedro (piedrita)...*" Jesus vuelve a usar el nombre que le dió. Juan 1:42
+
+##### Mateo 16:18a *y sobre esta roca* (roca enorme) *edificaré Mi iglesia; y las puertas del Hades no prevalecerán contra ella.*  Basado en la revelación que había recibido Pedro del Padre celestial acerca de quien es Jesús, Jesús le anuncia a Pedro sus planes a futuro. 
+
+##### Parafraséando, Jesús le dijo a Pedro, "Tu eres solo una pequeña piedra, pero sobre esta enorme roca (la confesion que Jesus es el Cristo) que te reveló mi Padre, voy a construir mi iglesia”. 
+
+##### Mateo 16:19 *Yo te daré las llaves del reino de los cielos...*" Jesus le dice a Pedro que le daría las llaves del reino de los cielos. Algunos interpretan esto a decir que Pedro es el que está a la puerta del cielo con las llaves para prohibir o dejar ingresar al cielo. ¿Es esto a lo que se refiere este versículo? 
+
+###### Así como los candados te mantienen afuéra, la llaves de permiten ingresar. Llaves le dan a uno acceso. 
+
+###### Cuando Pedro dijo que Jesús era el Cristo, estaba diciendo que Jesús era el ungido, el prometido de Dios y el Rey. 
+
+###### Jesús le dice a Pedro que el, como Rey del reino. le entregaría las llaves para permitir el ingreso a ese reino. 
+
+###### Las llaves del cielo estan contrastadas con las puertas del Hades en Mateo 16:18. Mediante la predicación del evangelio, muy pronto Pedro abrirá la puerta a las personas para tener una entrada al reino de los cielos. 
+
+###### A Pedro se le dio el privilegio de tener la llave y abrir la puerta a los Judíos el día de Pentecostés (Hechos 2), a los samaritanos (Hechos 8), y a los gentiles (Hechos 10).
+
+##### Mateo 16:19b "*y lo que ates en la tierra, será atado en los cielos; y lo que desates en la tierra, será desatado en los cielos».*" Mateo 18:18
+
+###### Atar DEO - obligar, concebido como atar o sujetar una obligación a alguien.[^1]
+
+##### Juan 20:23; Mateo 12:29-32
+
+##### La iglesia es edificada sobre los apostoles. Efesios 2:20
+
+##### Mateo 16:20 *Entonces ordenó a los discípulos que a nadie dijeran que Él era el Cristo.*
+
+### Otros argumentos
+
+#### Bíblicamente no se hace mención de Pedro en Roma. Cuando Pablo escribió a los hermanos en Roma, aunque menciona más de 12 personas, nunca mando saludos a Pedro. 
+
+##### Algunos argumentan que la mención de babilonia es un dato que alude a Roma ya que se usaba este apodo en literatura cristiana y judía. 1 Pedro 5:13
+
+##### Pero Roma fue llamado así mayormente después de la destrucción del templo en el 70d.C. cuando ya Pedro estaba muerto. Según Jerónimo y Eusebio, Pedro murió en el año 67-68 d.C..
+
+###### Otra teoria es que se refiere a la fortaleza llamada Babilonia de egiptó, justo al norte de Cairo.  
+
+###### La antigua ciudad de Babilonia estaba en ruinas para este tiempo. 
+
+##### Varios historiadores mencionan la presencia de Pedro y Pablo en Roma. Es posible que Pedro llegó a ser anciano en la iglesia en Roma. [^1]
+
+##### Pero el título de «papa» surge en Alejandría, ya que «Padre» es un título de respeto para el clero, y en particular para los obispos. Esto comienza alrededor del siglo III, y a principios del siglo IV la práctica se adopta en Roma. No fue hasta el siglo XII que se reservó para Roma en la Iglesia católica.[^2]
+
+#### Si Jesús hizo a Pedro el principal de los discipulos en este momento, ¿porque los vemos peleando a los discipulos después de la última cena sobre quien seria el mayor en el reino? Lucas 22:24
+
+#### Pablo claramente no creia que Pedro era el principal lider de la iglesia cuando lo condeno publicamente por su hipocrecía. Gálatas 2:11-14
+
+#### Ninguna conexion existe entre Pedro como anciano de Roma y el nombre de primer papa. Esta asosiación parece venir mucho después. 
+
+#### Pedro era uno de los Apostoles del cordero. Mucho más que ser el papa. Pedro es uno entre muchos, nunca fué colocado encima en ningún momento excepto por su personalidad de ser un lider natural.  
+
+## Doctrina corta sobre la regeneración en relación a la fe
+
+#### Es importante establecer el orden del nacimiento espiritual. ¿Creemos para nacer de nuevo, o creemos porque hemos nacido de nuevo?
+
+##### Podriamos definir la fe como  “confianza o dependencia en Dios basada en el hecho de que le tomamos a Su palabra y creemos lo que Él ha dicho”. 
+
+##### La regeneración es un “acto secreto de Dios en el que nos imparte nueva vida espiritual; a veces se le llama 'nacer de nuevo'"[^6]
+
+### Versículos usados para apoyar la regeneración antes de la fe
+
+#### Jeremías 24:7 “*Les daré un nuevo corazón para que me conozcan, porque yo soy el Señor; y ellos serán mi pueblo y yo seré su Dios, pues volverán a mí de todo corazón*”,
+
+##### El contexto de este versículo es una profecía dicha a los exiliados en Babilonia. Dios les anuncia que acabando su tiempo de 70 años en babilonia los traerá de regreso a la tierra.
+
+#### Jeremías 31:33 “*Porque éste es el pacto que haré con la casa de Israel después de aquellos días, declara el Señor. Pondré mi ley dentro de ellos, y sobre sus corazones la escribiré. Entonces yo seré su Dios y ellos serán mi pueblo*”, 
+
+##### Este pasaje habla del nuevo pacto que Dios establecerá con Israel y juda. Jeremías 31:31
+
+#### Jeremías 32:39 “*Y les daré un solo corazón y un solo camino, para que me teman siempre, para bien de ellos y de sus hijos después de ellos*”, 
+
+#### Ezekiel 11:19 “*Yo les daré un solo corazón y pondré espíritu nuevo dentro de ellos. Y quitaré de su corazón el corazón de piedra y les daré corazón de carne*”,
+
+##### Estos versículos hablan del cumplimiento del Nuevo Pacto que Dios hará con Israel. Son basados en la promesa que Dios le hizo a Abraham en Génesis 12:1-3. Sin embargo, todos los pasajes hablan de un tiempo que Dios les dará un corazón nuevo pero sabemos por muchos otros pasajes que es solo se cumplen **<u>después</u>** de que Israel cree, no antes. 
+
+###### Efesios 2:1 “*Y Él os dio vida a ustedes, que estaban muertos en vuestros delitos y pecados*”, 
+
+###### Efesios 2:5 “*Aun cuando estábamos muertos en nuestros delitos, nos dio vida juntamente con Cristo (por gracia habéis sido salvados)*”, 
+
+###### Colosenses 2:13 “*Y cuando estaban muertos en vuestros delitos y en la incircuncisión de vuestra carne, les dio vida juntamente con Él, habiéndonos perdonado todos los delitos*”, 
+
+### Versículos usados para apoyar que la fe es antes que la regeneración
+
+#### Juan 3:3 "*Jesús le contestó: «En verdad te digo que el que no nace de nuevo no puede ver el reino de Dios»*".
+
+#### 1 Juan 5:4 "*Porque todo lo que es nacido de Dios vence al mundo. Y esta es la victoria que ha vencido al mundo: nuestra fe*". Claro esta, fe -> nacer -> vencer. 
+
+#### Juan 6:37 "*Todo lo que el Padre me da, vendrá a Mí; y al que viene a Mí, de ningún modo lo echaré fuera*". Venir al Padre resulta en no ser rechazado. 
+
+#### Juan 6:44 "*Nadie puede venir a Mí si no lo trae el Padre que me envió, y Yo lo resucitaré en el día final*". Es necesario ir a Él para ser resucitado en el día final. Es claro este versículo en que el que va a Él es porque el Padre lo atrajo. Nadie busca a Dios pero pueden responder después que Dios los atrae. Juan 12:32
+
+#### Efesios 1:13 "*En Él también ustedes, después de escuchar el mensaje de la verdad, el evangelio de su salvación, y habiendo creído, fueron sellados en Él con el Espíritu Santo de la promesa,*"
+
+#### Habacúc 2:4 "*»Así es el orgulloso: En él, su alma no es recta, Mas el justo por su fe vivirá*".
+
+#### Romanos 10:17 "*Así que la fe viene del oír, y el oír, por la palabra de Cristo*".
+
+#### Romanos 4:5 "*pero al que no trabaja, pero cree en Aquel que justifica al impío, su fe se le cuenta por justicia*".
+
+### ¿Como participa Dios en nuestra salvación? 
+
+#### La salvación pertenece a Dios. Dios nos buscó (Lucas 19:10), Dios nos llamó (), Dios nos atrajo a si mismo de multiples maneras(Juan 12:32), Dios nos hizo escuchar el evangelio (1 Corintios 1:18) y después que nosotros creimos en el Evangelio, Dios nos hizo nacer de nuevo. 
+
+### ¿Como participa el hombre en la salvación? 
+
+#### Debe responder creyendo el evangelio.  
+
+### 1 Pedro 1:3c "*a una esperanza viva*" cuando nos hizo renacer fue para una esperanza viva. Hebreos 3:6, 2 Tesalonicenses 2:16, 1 Pedro 1:13, 21, 3:5, 15; 1 Juan 3:3
 
 ___-___
 
