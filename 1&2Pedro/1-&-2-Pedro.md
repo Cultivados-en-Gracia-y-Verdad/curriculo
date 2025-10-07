@@ -548,21 +548,26 @@ Así como el fuego es bueno para separar el oro de las impurezas, las pruebas en
 
 ###  1 Pedro 2:5b *"...sean edificados como casa espiritual..."* El ser edificados como casa, muestra el propósito en la construcción de la obra que Dios esta realizando, una casa espiritual, y los creyentes ahora son parte de la obra como piedras vivas.
 
-#### La biblia textual lo traduce de la siguiente manera, afirmando que ya son edificados.  *"vosotros también sois edificados como piedras vivientes, casa espiritual..."* BTX4
+#### La biblia textual lo traduce de la siguiente manera, afirmando que los creyentes ya forman parte de la edificación.  *"vosotros también sois edificados como piedras vivientes, casa espiritual..."* BTX4
 
-###  1 Pedro 2:5c *"...para un sacerdocio santo,..."* Dentro del contexto de creyentes judíos al que Pedro exponía esta carta, el sacerdocio era un rol dentro de israel muy importante, el cual intercedían por el pueblo.
+#### La palabra sean edificados [OIKODOMEO] se encuentra en tiempo presente, pasivo indicativo, mostrando que la acción no es realizada por el creyente,es otro el que realiza la acción al creyente de ser edificados.
 
-#### Sin embargo, Estos sacerdotes no podían ser santos,
+###  1 Pedro 2:5c *"...para un sacerdocio santo,..."* Dentro del contexto de creyentes judíos al que Pedro exponía esta carta, el sacerdocio era un rol dentro de israel muy importante que los creyentes judíos conocían. Éxodo 29:9 
 
-#### Un sacerdocio santo, tenían experiencia los judíos de sacerdotes, los cuales tenían que ofrecer sacrificios primeramente por sus delitos y pecados y despues por los de la nación, sin embargo aquí vemos un sacerdocio santo, los creyentes son llamados a participar de esto
+#### Los sacerdotes terrenales de Israel no podían ser santos, es por eso que ellos necesitaban ofrecer sacrificios primeramente por sus pecados y luego por el pueblo. Hebreos 7:27
 
-###  *para ofrecer sacrificios espirituales aceptables a Dios*
+#### Ahora los creyentes tienen un nuevo propósito como sacerdotes santos, consagrados para Dios, aptos para el servicio que Dios les otorgó. Apocalipsis 1:6, 5:10 
 
-#### Solo los sacerdotes eran los mas adecuados para ofrecer sacrificios según la ley, sin embargo ahora los creyentes somos sacerdocio santo, con un propósito, ofrecer sacrificios ?, que clase de sacrificios? otra vez animales?, no ahora sacrificios espirituales,
+###  1 Pedro 2:5d *"...para ofrecer sacrificios espirituales aceptables a Dios...* Un sacerdote de Israel realizaba sacrificios de animales según lo establecido por la ley. Levítico 17
 
-#### Como es que es un sacrificio espiritual?
+#### La palabra ofrecer [ANAFERO] se encuentra en tiempo aoristo, activo, infinitivo, instruyendo a los creyentes (Sacerdotes santos) el realizar de manera continua sacrificios espirituales agradables a Dios.
 
-#### Estos sacrificios son aceptables a DIos, vemos que el proposito de los sacrificios animales que exigía la ley eran sombra de lo que había de venir, sin embargo ahora vemos sacrificos espirituales aceptables a Dios.
+#####  ¿Qué es un sacrificio espiritual? Romanos 15:16; Hebreos 13:15
+
+#### 
+
+
+Estos sacrificios son aceptables a DIos, vemos que el proposito de los sacrificios animales que exigía la ley eran sombra de lo que había de venir, sin embargo ahora vemos sacrificos espirituales aceptables a Dios.
 
 ###  *por medio de Jesucristo.*
 #### Estos sacrificios espirituales, son únicamente aceptables por medio de Jesucristo, no hay otra manera, u otro medio para ofrecer sacrificios agradables al Dios eterno.
