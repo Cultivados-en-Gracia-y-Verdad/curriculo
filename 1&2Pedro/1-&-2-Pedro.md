@@ -94,15 +94,15 @@ Bosquejo
 
 ####  ¿La elección es de acuerdo a qué conocimiento previo? El conocimiento que Dios tenía de antemano era sobre los que creerían en Él. 
 
-###  1 Pedro 1:2 "*por la obra  santificadora* [en santificación RVR60] *del Espíritu...*" Son elegidos por la obra santificadora del Espíritu. 2 Tesalonicenses 2:13; Tito 3:5
+###  1 Pedro 1:2 "*por la obra  santificadora* [en la santificación RVR60] *del Espíritu...*" Son elegidos por la obra santificadora del Espíritu. 2 Tesalonicenses 2:13; Tito 3:5
 
 #### la palabra por aquí es EN - en, con o por. Esta palabra es usualmente traducida en sin embargo aquí es traducida por la obra, haciendo parecer que la elección es causado por El Espíritu, sin embargo mejor es entender que la elección es por medio de la obra santificadora, es decir, para separar para un uso. 
 
-###  1 Pedro 1:2 "*para obedecer a Jesucristo y ser rociados con Su sangre:*" El tercer punto de la elección es que es para obedecer a Jesucristo y ser rociados con Su sangre. 1 Pedro 1:14, 22
+###  1 Pedro 1:2 "*para obedecer a Jesucristo...*" El tercer punto de la elección es que es para obedecer a Jesucristo y ser rociados con Su sangre. 1 Pedro 1:14, 22
 
-Hebreos 9:13-14
+### 1 Pedro 1:2 "*...y ser rociados con Su sangre:*" Hebreos 9:13-14
 
-Nótense las tres preposiciones: según (κατά) la presciencia; en (ἐν) la santificación; para (εἰς) la obediencia. El fundamento, la esfera y el fin de la santificación espiritual.
+#### Nótense las tres preposiciones: según (κατά) la presciencia; en (ἐν) la santificación; para (εἰς) la obediencia. El fundamento, la esfera y el fin de la santificación espiritual.
 
 ## 1 Pedro 1:2 Gozo por la salvación pasada
 
@@ -110,7 +110,7 @@ Nótense las tres preposiciones: según (κατά) la presciencia; en (ἐν) la
 
 ## En Síntesis (1 Pedro 1:1)
 
-### Pedro es el autor la carta. Silvano la transcribe.
+### Pedro es el autor la carta. Silvano la transcribe. 1 Pedro 5:12
 
 ### Es dirigido a los dispersados en la zona que hoy conocemos como el norte de Turquía. 
 
@@ -132,7 +132,9 @@ Nótense las tres preposiciones: según (κατά) la presciencia; en (ἐν) la
 
 #### Dios nos hizo nacer de nuevo por su gran HEMAS misericordia. Santiago 1:18; 1 Pedro 1:23
 
-#### ¿Cómo nos hizo nacer? (vease el apéndice "doctrina de la regeneración en relación a la fe")
+#### ¿Cómo nos hizo nacer? (para más información vease el apéndice "doctrina de la regeneración en relación a la fe"). Juan 3:4, 7; Santiago 1:18
+
+#### Para que el hombre sea declarado justo es necesario que haya un nacimiento espiritual. Gálatas 6:15
 
 ###  1 Pedro 1:3d "*mediante la resurrección de Jesucristo de entre los muertos...*" 1 Corintios 15:20; 1 Pedro 3:21
 
@@ -180,21 +182,33 @@ Nótense las tres preposiciones: según (κατά) la presciencia; en (ἐν) la
 
 #### A pesar de nuestro pasado, presente y futuro en las manos de Dios, no signifca que no estaremos puestos bajo pruebas durante nuestra peregrinación en la tierra. 
 
-### 1 Pedro 1:7a  "*para que la prueba de la fe de ustedes, más preciosa que el oro que perece, aunque probado por fuego,*" la prueba presente purifica al creyente como el oro es purificado por el fuego. Es importante entender que es bueno el sufrimiento presente para la futura gloria de Jesucristo. 
+### 1 Pedro 1:7a  "*para que la prueba de la fe de ustedes, más preciosa que el oro que perece, aunque probado por fuego,*" Pedro usa una ilustración de la prueba de oro por fuego para mostrar una verdad espiritual. La fe probada es más precioso que el oro. 
+
+Así como el fuego es bueno para separar el oro de las impurezas, las pruebas en la vida del creyente son buenos para probar su fe. 
+
+### la prueba presente purifica al creyente como el oro es purificado por el fuego. Es importante entender que es bueno el sufrimiento presente. No somos víctimas de las circunstancias sino es "*necesario*" por "*un poco de tiempo*" que seamos "*afligidos con diversas pruebas*". 
 
 #### "*Prueba*" DOKIMON significa integridad, ausencia de falsedad. Después de "poner bajo fuego" nuestra fe, se elimina toda "escoria" y queda lo que es puro. Esto es nuestra fe probada o comprobada. 
 
-#### Así como llegamos a ser receptores de la salvación por medio de Jesucristo, también somos enseñados que el andar del creyente debe ser por la fe. Cuando nuestra fe es puesta bajo prueba se purifica. La fe probada () es precioso a los ojos de Dios. 
+#### Así como llegamos a ser receptores de la salvación por medio de Jesucristo, también somos enseñados que el andar del creyente debe ser por la fe. Cuando nuestra fe es puesta bajo prueba se purifica. La fe probada es precioso a los ojos de Dios. Santiago 1:2-4
 
-### 1 Pedro 1:7b "*sea hallada que resulta en alabanza, gloria y honor...*" La fe pura tiene un valor precioso, más que puro oro. La fe aprobada resulta en alabanza, gloria y honor.
+### 1 Pedro 1:7b "*sea hallada que resulta en alabanza, gloria y honor...*" La fe pura tiene un valor precioso, más que puro oro.  El oro es considerado hermoso y valioso. 
 
-### 1 Pedro 1:7c "*...en la revelación de Jesucristo...*" cuando Cristo sea manifestado, también seremos manifestados con Él. Cuando habla de la revelación de Jesucristo, el énfasis típicamente es a la gloria que será manifiésto cuando Cristo sea revelado. 1 Pedro 1:13; Romanos 8:19; 1 Corintios 1:7; 1 Pedro 4:13
+#### El oro es un metal precioso que se ha utilizado para acuñar monedas, joyería y otras obras de arte a lo largo de la historia. En el pasado, el estándar de oro se implementaba a menudo como política monetaria.[^7]
+
+#### El sistema "monetaria" celestial es la fe aprobada. Establece valor y denota hermosura.  Resulta en alabanza, gloria y honor.
+
+### 1 Pedro 1:7c "*...en la revelación de Jesucristo...*" cuando Cristo sea manifestado, también seremos manifestados con Él. Filipenses 3:20
+
+#### Cuando la Biblia habla de la revelación de Jesucristo, el énfasis típicamente es a la gloria que será manifiésto cuando Cristo sea revelado. 1 Pedro 1:13; Romanos 8:19; 1 Corintios 1:7; 1 Pedro 4:13
 
 ## 1 Pedro 1:8-9 Gozo por la salvación presente
 
-### 1 Pedro 1:8a "*a quien sin haber visto, ustedes lo aman...*" Juan 14:28
+### 1 Pedro 1:8a "*a quien sin haber visto, ustedes lo aman...*" Estos forasteros y peregrinos habían perdido sus hogares y todo lo que viene por ser perseguidos a causa de su amor por Jesucristo. Juan 14:28
 
-### 1 Pedro 1:8b "*y a quien ahora no ven, pero creen en Él...*" Juan 20:29
+#### Aunque ellos no lo habían visto como Pedro, lo amaban. 1 Pedro 5:1; Juan 1:14;  
+
+### 1 Pedro 1:8b "*y a quien ahora no ven, pero creen en Él...*" Juan 20:29; Hebreos 11:1
 
 #### "*creen*" está en voz (presente, activo, participio). Ellos estaban siendo creyentes en Él. 
 
@@ -2000,3 +2014,4 @@ ___-___
 [^4]: Mounce
 [^5]: Enter the Bible, https://enterthebible.org/courses/1-peter/lessons/background-of-1-peter
 [^6]: GRUDEM, Wayne, Doctrina bíblica (Vida: Miami, 2005), p. 302.
+[^7]: Wikipedia, https://en.wikipedia.org/wiki/Gold
