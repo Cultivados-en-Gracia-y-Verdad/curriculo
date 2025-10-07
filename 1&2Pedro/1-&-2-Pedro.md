@@ -78,33 +78,31 @@ Bosquejo
 
 ###  1 Pedro 1:1c Quienes son..."*elegidos*" EKLEKTOS los escogidos fuera. 1 Pedro 2:9; Mateo 22:14
 
-Elegidos EKLEKTOS puede ser:
+#### Elegidos EKLEKTOS puede ser:
 
-Israel - Deuteronomio 7:6
+##### Israel (Deuteronomio 7:6), Reyes (1 Samuel 10:24), Angeles (1 Timoteo 5:21), La Iglesia (Tito 1:1), Incrédulos (2 Timoteo 2:10), Individuos (Romanos 16:13), Creyentes (Mateo 24:31) y El Mesias (Lucas 23:35)
 
-Naciones - 
+#### Los elegidos son aquellos que responden por la fe al llamado de Dios. Dios está llamando a todo el mundo pero solo los que responden creyendo el Él son identificados como los elegidos. 
 
-Reyes - 1 Samuel 10:24
+#### Este grupo de personas no es un grupo cerrado. Todos son invitados pero pocos son los que responden. Mateo 20:16
 
-Angeles - 1 Timoteo 5:21
+###  1 Pedro 1:2 "*...según el previo conocimiento de Dios Padre...*" El primer punto es que los elegidos son según la presciencia de Dios. El ser elegidos es según el previo conocimiento de Dios. 
 
-La Iglesia - 
+#### Pedro no esta diciendo que Dios eligió según Su plan predeterminado como lo hizo entregando a Jesucristo en Hechos 2. Hechos 2:23
 
-Incrédulos - 2 Timoteo 2:10
+#### Los elegidos no son según el plan predeterminado de Dios, sino según Su previo conocimiento.  
 
-Individuos - Romanos 16:13; Deuteronomio 18:5
+####  ¿La elección es de acuerdo a qué conocimiento previo? El conocimiento que Dios tenía de antemano era sobre los que creerían en Él. 
 
-Creyentes - Mateo 24:31
+###  1 Pedro 1:2 "*por la obra  santificadora* [en santificación RVR60] *del Espíritu...*" Son elegidos por la obra santificadora del Espíritu. 2 Tesalonicenses 2:13; Tito 3:5
 
-Mesias - Lucas 23:35; 1 Pedro 2:4, 6, 9
-
-###  1 Pedro 1:2 "*según el previo conocimiento de Dios Padre...*" El primer punto es que los elegidos son según el previo conocimiento de Dios. El ser elegidos es según el previo conocimiento de Dios. 
-
-###  ¿Que conocimiento previo determina la elección? 
-
-###  1 Pedro 1:2 "*por la obra santificadora del Espíritu...*" El segundo punto es que los elegidos son obra santificadora del Espíritu. 
+#### la palabra por aquí es EN - en, con o por. Esta palabra es usualmente traducida en sin embargo aquí es traducida por la obra, haciendo parecer que la elección es causado por El Espíritu, sin embargo mejor es entender que la elección es por medio de la obra santificadora, es decir, para separar para un uso. 
 
 ###  1 Pedro 1:2 "*para obedecer a Jesucristo y ser rociados con Su sangre:*" El tercer punto de la elección es que es para obedecer a Jesucristo y ser rociados con Su sangre. 1 Pedro 1:14, 22
+
+Hebreos 9:13-14
+
+Nótense las tres preposiciones: según (κατά) la presciencia; en (ἐν) la santificación; para (εἰς) la obediencia. El fundamento, la esfera y el fin de la santificación espiritual.
 
 ## 1 Pedro 1:2 Gozo por la salvación pasada
 
@@ -124,7 +122,7 @@ Mesias - Lucas 23:35; 1 Pedro 2:4, 6, 9
 
 ####  Rociados en la sangre de Cristo.
 
-# 1 Pedro 1:3-2:10 – NUESTRA ESPERANZADORA SALVACIÓN
+# 1 Pedro 1:3-2:10 – NUESTRA SALVACIÓN
 
 ###  1 Pedro 1:3a *Bendito sea el Dios y Padre de nuestro Señor Jesucristo,* Pedro bendice a Dios el Padre quien compartimos en Jesucristo. 2 Corintios 1:3
 
@@ -146,19 +144,25 @@ Mesias - Lucas 23:35; 1 Pedro 2:4, 6, 9
 
 #### Reservada TEREO (perfecto, pasivo, participio) - mantenerse o llegar a mantenerse en un determinado estado, posición o actividad.[^1]
 
-Puesto de otra manera, según Su previo conocimiento y motivado por Su misericordia, Dios nos hizo nacer para recibir una herencia reservada en los cielos. 
+#### Puesto de otra manera, según Su previo conocimiento y motivado por Su misericordia, Dios nos hizo nacer para recibir una herencia reservada en los cielos. 
 
-¿Específicamente, qué conoció Dios de ante mano? Nuestra fe. 
+#### ¿Específicamente, qué conoció Dios de ante mano? Nuestra fe. 
 
-## 1 Pedro 1:5-7 Basado en nuestra fe somos protegidos para alabanza, gloria y honor en la revelación de Jesucristo
+## 1 Pedro 1:5-7 La importancia de la nuestra fe. 
 
-### ¿Que significa esto? Significa que Dios supo de antemano nuestra fe y nos asegura protegernos para recibir esa herencia reservada para cada uno de los que El conoció d antemano. 
+### ¿Que significa esto? Significa que nuestra fe es el medio por el cual Dios nos asegura protegernos para recibir esa herencia reservada para cada uno de los que El conoció de antemano. 
 
-#### Significa que Dios decidió la salvación de algunos y otro no? De ninguna manera. Lo que significa es que Dios supo de antemano, vió todos los que creerían en El, entonces pudo preparar y proteger a ellos para recibir la promesa. 
+#### Significa que Dios decidió la salvación de algunos y otro no? Bíblicamente, de ninguna manera. Lo que significa es que Dios supo de antemano, vió todos los que creerían en El, entonces pudo preparar y proteger a ellos para recibir la promesa. 
 
-###  1 Pedro 1:5a  "*Mediante la fe ustedes son protegidos por el poder de Dios,*" 1 Pedro 5:10, 1:9
+###  1 Pedro 1:5a  "*...Mediante la fe ustedes son protegidos por el poder de Dios,*" 1 Pedro 5:10, 1:9
 
 #### "*son protegidos*" PHROUREO (presente, pasivo, particípio) - estar o volverse seguro y mantenerse bajo vigilancia.[^1] Somos continuamente los protegidos por Dios. No es nuestra fe que nos protege, es Dios. 
+
+##### Esto es algo asombroso. Vimos previamente que mediante la resurrección de Cristo hemos nacido de nuevo. Ahora vemos que mediante la fe estamos protegidos. 
+
+##### ¿Es tán poderosa nuestra fe como para protegernos? No. Lo que es poderoso es que Dios declara que todo el que en Él cree, no será decepcionado. 
+
+#### En el plan soberano de Dios, Él estableció que la salvación es únicamente por la fe. El medio por el cual el hombre es salvo es por el medio de la fe en Jesucristo. 
 
 ##### ¿Como podemos saber que Dios nos hizo nacer y que Dios nos protege? Mediante nuestra fe. Porque creimos en Él, (conociendolo de antemano) nos hizo nacer de nuevo según su misericordia para recibir una herencia reservada por Él en los cielos. Claramente, el foco es puesto en el omnisciencia, el poder, la misericordia y fidelidad de Dios. 
 
@@ -184,59 +188,91 @@ Puesto de otra manera, según Su previo conocimiento y motivado por Su misericor
 
 ### 1 Pedro 1:7b "*sea hallada que resulta en alabanza, gloria y honor...*" La fe pura tiene un valor precioso, más que puro oro. La fe aprobada resulta en alabanza, gloria y honor.
 
-### 1 Pedro 1:7c "*en la revelación de Jesucristo...*" cuando Cristo sea manifestado, también seremos manifestados con Él. Cuando habla de la revelación de Jesucristo, el énfasis típicamente es a la gloria que será manifiésto cuando Cristo sea revelado. 
+### 1 Pedro 1:7c "*...en la revelación de Jesucristo...*" cuando Cristo sea manifestado, también seremos manifestados con Él. Cuando habla de la revelación de Jesucristo, el énfasis típicamente es a la gloria que será manifiésto cuando Cristo sea revelado. 1 Pedro 1:13; Romanos 8:19; 1 Corintios 1:7; 1 Pedro 4:13
 
 ## 1 Pedro 1:8-9 Gozo por la salvación presente
 
-### 1 Pedro 1:8a "*a quien sin haber visto, ustedes lo aman...*" 
+### 1 Pedro 1:8a "*a quien sin haber visto, ustedes lo aman...*" Juan 14:28
 
-### 1 Pedro 1:8b "*y a quien ahora no ven, pero creen en Él...*" 
+### 1 Pedro 1:8b "*y a quien ahora no ven, pero creen en Él...*" Juan 20:29
 
 #### "*creen*" está en voz (presente, activo, participio). Ellos estaban siendo creyentes en Él. 
 
-### 1 Pedro 1:8c "*y se regocijan grandemente con gozo inefable y lleno de gloria,*"
+### 1 Pedro 1:8c "*y se regocijan grandemente con gozo inefable y lleno de gloria,*" el resultado de estar atesorando Su Palabra por la fe y mirando la pronta venida de Jesucristo, resulta en ser gozosos y llenos de gloria. Romanos 15:13
 
 ### 1 Pedro 1:9  "*obteniendo, como resultado de su fe, la salvación de sus almas.*" La santificación es la salvación de nuestras almas que es un resultado de nuestra fe. Colosenses 2:6, Romanos 6:22
 
+#### No solo resulta en gozo y gloria en el presente y el futuro sino que hay salvación de almas. 
+
 #### Los receptores de la carta habían estado gozosos a pesar de las pruebas. Estaban experimientando los resultados de la sana enseñanza que habían recibido de Pedro y otros. 
 
-## 1 Pedro 1:10-12 Nuestra salvación anunciada
+#### Que significa esta expresión, ¿la salvación de sus almas?
 
-### 1 Pedro 1:10a  "*Acerca de esta salvación, los profetas que profetizaron de la gracia que vendría a ustedes,*" 
+##### La Biblia RVR09 dice, "*Obteniendo el fin de vuestra fe, que es la salud de vuestras almas*". 
 
-### 1 Pedro 1:10b "*diligentemente inquirieron y averiguaron*", Lucas 10:24
+## 1 Pedro 1:10-12 La salvación de nuestras almas
 
-### 1 Pedro 1:11a  "*procurando saber qué persona o tiempo indicaba el Espíritu de Cristo dentro de ellos...*"
+### 1 Pedro 1:10a  "*Acerca de esta salvación, los profetas que profetizaron*" La manera que Dios llevaría efectuaría la salvación era incierta para los profetas. 
 
-### 1 Pedro 1:11b "*al predecir los sufrimientos de Cristo y las glorias que seguirían*".
+#### La palabra salvación SOZO es usada 4 veces en 1 Pedro y una vez en 2 Pedro. 1 Pedro 1:5, 9, 10, 2:2; 2 Pedro 3:15
 
-### 1 Pedro 1:12a  "*A ellos les fue revelado que no se servían a sí mismos, sino a ustedes...*"
+#### el uso de almas PSUCHE. 1 Pedro 1:9, 22, 2:11, 2:25, 3:20, 4:19
 
-### 1 Pedro 1:12b "*en estas cosas que ahora les han sido anunciadas mediante los que les predicaron el evangelio por el Espíritu Santo enviado del cielo...*"
+##### 1Pedro 1:9 "*obteniendo, como resultado de su fe, la salvación de sus **almas**.*" Esta hablando de una salvación obtenida ya o que estaba en proceso? 
 
-### 1 Pedro 1:12c "*cosas a las cuales los ángeles anhelan mirar*".
+##### 1 Pedro 1:22 "*Puesto que en obediencia a la verdad ustedes han purificado sus **almas** para un amor sincero de hermanos, ámense unos a otros entrañablemente, de corazón puro.*" Se hicieron purificados (perfecto, activo, participio) sus almas por medio de la obediencia a la verdad. Santificación. 
+
+##### 1 Pedro 2:25 "*Pues ustedes andaban descarriados como ovejas, pero ahora han vuelto al Pastor y Guardián de sus **almas**.*" Santificación. 
+
+##### 1 Pedro 3:20 "*quienes en otro tiempo fueron desobedientes cuando la paciencia de Dios esperaba en los días de Noé durante la construcción del arca, en la cual unos pocos, es decir, ocho personas* [almas], *fueron salvadas por medio del agua.*" ¿Cual es el punto de este versículo?
+
+##### 1 Pedro 4:19 "*Así que los que sufren conforme a la voluntad de Dios, encomienden sus **almas** al fiel Creador, haciendo el bien.*" Santificación. 
+
+### 1 Pedro 1:10b "*de la gracia que vendría a ustedes...*" 
+
+### 1 Pedro 1:10c "*...diligentemente inquirieron y averiguaron...*" Lucas 10:24
+
+### 1 Pedro 1:11a  "*...procurando saber qué persona o tiempo indicaba el Espíritu de Cristo dentro de ellos...*" 
+
+### 1 Pedro 1:11b "*...al predecir los sufrimientos de Cristo y las glorias que seguirían...*" Los sufrimientos de Cristo fueron predichos pero, ¿que glorias seguirían? 
+
+#### Predijeron Su Sufrimiento
+
+##### Isaías 53:11 Debido a la angustia de Su alma, Él *lo* verá *y* quedará satisfecho. Por Su conocimiento, el Justo, Mi Siervo, justificará a muchos, Y cargará las iniquidades de ellos.
+
+#### Predijeron glorias después
+
+##### Isaías 53:12 Por tanto, Yo le daré parte con los grandes Y con los fuertes repartirá despojos, Porque derramó Su alma hasta la muerte Y con los transgresores fue contado; Llevó el pecado de muchos, E intercedió por los transgresores.
+
+### 1 Pedro 1:12a  "*...A ellos les fue revelado que no se servían a sí mismos, sino a ustedes...*" Había una razón más alla de solo revelar el sufrimiento y glorias postreras de Cristo...era para los lectores de la carta y para nosotros. 
+
+### 1 Pedro 1:12b "*...en estas cosas que ahora les han sido anunciadas mediante los que les predicaron el evangelio por el Espíritu Santo enviado del cielo...*" Mayor revelación habían recibido que los que anunciaron sobre los sufrimientos de Cristo y las glorias que seguirían. 
+
+### 1 Pedro 1:12c "*...cosas a las cuales los ángeles anhelan mirar...*"
 
 # 1 Pedro 1:13-25 – PREPARANDO LA MENTE PARA ACCIÓN
 
-###  1 Pedro 1:13a "*Por tanto,* es equivalente a, "en vista del hecho de que aunque están pasando por muchas clases de pruebas (1 Pedro 1:6), sin embargo, porque su herencia celestial les espera" (1 Pedro 1:3-6), preparen su entendimiento para la acción (1 Pedro 1:13).
+###  1 Pedro 1:13a "*Por tanto...*" equivale a, "en vista del hecho de que aunque están pasando por muchas clases de pruebas (1 Pedro 1:6), sin embargo, porque su herencia celestial les espera" (1 Pedro 1:3-6), preparen su entendimiento para la acción (1 Pedro 1:13).
 
-###  1 Timoteo 1:13b "*preparen su entendimiento para la acción.*" 
+###  1 Timoteo 1:13b "*preparen su entendimiento*" No es meramente por conocimiento sino por el entendimiento que proviene Dios. 
 
-###  1 Pedro 1:13b "*Sean sobrios en espíritu,*"
+### 1 Timoteo 1:13c "*para la acción...*" el entendimiento preparado para acción? Recibirían mayor entendimiento? El entendimiento entraría en acción para recibir mayor entendimiento? 
 
-###  1 Pedro 1:13c *pongan su esperanza...* Aquí vemos el primer imperativo en el libro de 1 Pedro. Pablo dice, fijen su esperanza. 
+###  1 Pedro 1:13b "*Sean sobrios en espíritu...*"
+
+###  1 Pedro 1:13c "*pongan su esperanza...*" Aquí vemos el primer imperativo en el libro de 1 Pedro. Pablo dice, manda a que fijen su esperanza. 
 
 #### Pongan ELPIZO es esperar y desear algo. 
 
 #### ¿En qué debían fijar su esperanza? 
 
-###  1 Pedro 1:13d *completamente en la gracia que se les traerá en la revelación de Jesucristo.* Mantener la mirada, espera y desear conocer la gracia que será traida en la revelación de Jesucristo debe ser al centro de la diana del creyente. 
+###  1 Pedro 1:13d *completamente en la gracia que se les traerá en la revelación de Jesucristo.* Mantenerse, completamente en la gracia que será traida en la revelación de Jesucristo debe ser al centro de la diana de su mirada. 
 
 ###  1 Pedro 1:14a *Como hijos obedientes...*igual que un hijo que obedece a sus padres...
 
-###  1 Pedro 1:14b *no se conformen a los deseos que antes tenían en su ignorancia,*
+###  1 Pedro 1:14b "*no se conformen a los deseos que antes tenían en su ignorancia...*"
 
-###  1 Pedro 1:15a *sino que así como Aquel que los llamó es Santo,*
+###  1 Pedro 1:15a "*sino que así como Aquel que los llamó es Santo...*"
 
 #### santo HAGIOS significa - separado de la condición y uso común; dedicado. [^4]
 
@@ -408,7 +444,7 @@ Puesto de otra manera, según Su previo conocimiento y motivado por Su misericor
 
 ###  1 Pedro 2:1 - El deseo del apóstol Pedro hacia los creyentes es que se despojen de toda la siguiente lista de acciones negativas en la vida del creyente, en las cuales podría estar viviendo ú experimentando, las cuales son contrarias a su nueva simiente.
 
-### 1 Pedro 2:1a  *"Por tanto, desechando toda malicia,..."* Considerando su nueva manera de vivir, sabiendo que fue purificado, nacido de simiente incorruptible, la instrucción es desechar todo lo malo de su anterior manera de vivir. Efesios 4:22, 25, 31; Santiago 1:21
+### 1 Pedro 2:1a  *"Por tanto, desechando toda malicia..."* Considerando su nueva manera de vivir, sabiendo que fue purificado, nacido de simiente incorruptible, la instrucción es desechar todo lo malo de su anterior manera de vivir. Efesios 4:22, 25, 31; Santiago 1:21
 
 #### La palabra *desechando* [APOTIDSEMI] significa de despojarse, desechar algo, ú echarlo fuera. 
 
