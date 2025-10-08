@@ -50,6 +50,8 @@ Bosquejo
 
 ##### Pedro era casado y tenía casa en Capernaúm. Su suegra vivía con ellos. Su padre se llamaba Jonás. Lucas 4:31, 38-40
 
+#### Pedro había sido presentado a Jesús por su hermano Andrés. Juan 1:40-42
+
 ##### Pedro era uno de tres discipulos que estuvieron presentes en tres eventos: 
 
 ###### Resucitación de la hija de Jairo. Marcos 5:37
@@ -62,29 +64,21 @@ Bosquejo
 
 ##### Pedro naturalmente era pronto para hablar y actuar impulsivamente. Juan 18:10; Marcos 9:5-6
 
-### Pedro siempre es mencionado primero. Judas siempre está de último. 
+### Aunque Pedro probablemente estuvo en Roma, no creemos que la mención de Babilonia representa a Roma. Habían muchos judios exiliados 600 años antes bajo Nabucodonosor. Muchos nunca regresaron a Judá.  
 
-### Pedro era naturalmente impulsivo. Habla y actua antes de pensar. 
+### Su muerte
 
-### Aunque Pedro probablemente estuvo en Roma, no creemos que Babilonia representa a Roma. Habían muchos judios exiliados 600 años antes bajo Nabucodonosor. Muchos nunca regresaron a Judá.  
+#### La tradición de la Iglesia dice que Pedro murió crucificado (con los brazos extendidos). Esto probablemente tuvo lugar tres meses después del desastroso incendio que destruyó Roma por el cual el emperador Nerón quiso culpar a los cristianos.[^8]
 
 ###  1 Pedro 1:1 *apóstol de Jesucristo:* Pedro es un apóstol de Jesucristo. Sus credenciales vienen de Jesucristo. 2 Pedro 1:1; Mateo 4:18 
 
 #### Pedro es uno de doce Apóstoles. Mateo 10:2; Marcos 3:16
 
-#### Pedro había sido presentado a Jesús por su hermano Andrés. Juan 1:40-42
-
-## Su muerte
-
-### La tradición de la Iglesia dice que Pedro murió crucificado (con los brazos extendidos). Esto probablemente tuvo lugar tres meses después del desastroso incendio que destruyó Roma por el cual el emperador Nerón quiso culpar a los cristianos.[^8]
-
-## Los recipientes de la carta
+### Los recipientes de la carta
 
 ###  1 Pedro 1:1a "*A los expatriados, de la dispersión...*" la carta es escrita a los extranjeros temporales PAREPIDEMOS de creyentes judios esparcidos.1 Pedro 5:14; Santiago 1:1
 
 ###  1 Pedro 1:1b "*en el Ponto, Galacia, Capadocia, Asia y Bitinia...*" Específicamente es escrito a los esparcidos ubicados modernamente en el norte de Turquía. 1 Pedro 2:11
-
-## 1 Timoteo 1:2 Identificados por la fe
 
 ###  1 Pedro 1:1c Quienes son..."*elegidos*" EKLEKTOS los escogidos fuera. 1 Pedro 2:9; Mateo 22:14
 
@@ -98,7 +92,15 @@ Bosquejo
 
 #### Este grupo de personas no es un grupo cerrado. Según la Biblia, todos son invitados pero pocos son los que responden. Mateo 20:16
 
-###  1 Pedro 1:2 "*...según el previo conocimiento de Dios Padre...*" El primer punto es que los elegidos son según la presciencia de Dios. El ser elegidos es según el previo conocimiento de Dios. 
+### 1 Pedro 1:2a "*elegidos según...*" La palabra según KATA no debe ignorarse en este pasaje, porque define que algo esta en base a o en conformidad de algo.  En este caso, según el contexto inmediato "*elegidos*" en base o en conformidad a...*".
+
+#### Por ejempo según la (RAE), "*según*" es una preposición que se utiliza para indicar que algo que se dice o se considera en base a una información específica, una fuente, una autoridad, etc.
+
+#### En otras palabras "*según*" se utiliza para citar una fuente, indicar una opinión o basarse en información específica.
+
+##### Por ejemplo: Algo en especifico que tenga una base en lo que digan los hombres o en base a lo que dice la ley. 1 Corintios 9:8
+
+###  1 Pedro 1:2 "*elegidos según...el previo conocimiento de Dios Padre...*" El primer punto es que los elegidos son en base a la presciencia de Dios. El ser elegidos es según el previo conocimiento de Dios. 
 
 #### Pedro no esta diciendo que Dios eligió según Su plan predeterminado como lo hizo entregando a Jesucristo en Hechos 2. Hechos 2:23
 
@@ -107,30 +109,34 @@ Bosquejo
 ####  ¿La elección es de acuerdo a qué conocimiento previo? El conocimiento que Dios tenía de antemano era sobre los que creerían en Él. 
 
 ###  1 Pedro 1:2 "*por la obra  santificadora* [en santificación RVR60] *del Espíritu...*" Son elegidos por la obra santificadora del Espíritu. 2 Tesalonicenses 2:13; Tito 3:5
-
-#### la palabra por aquí es EN - en, con o por. Esta palabra es usualmente traducida en sin embargo aquí es traducida por la obra, haciendo parecer que la elección es causado por El Espíritu, sin embargo mejor es entender que la elección es por medio de la obra santificadora, es decir, para separar para un uso. 
+#### la palabra "*por*" EN - significa en, con o por. Esta palabra es usualmente traducida "en". La traducción de la palabra EN a por hace parecer que la elección es causado por El Espíritu, sin embargo mejor es entender que la elección es por medio de la obra santificadora, es decir, en separar para un uso. 
 
 ###  1 Pedro 1:2 "*para obedecer a Jesucristo...*" El tercer punto de la elección es que es para obedecer a Jesucristo y ser rociados con Su sangre. 1 Pedro 1:14, 22
 
 ### 1 Pedro 1:2 "*...y ser rociados con Su sangre:*" Hebreos 9:13-14
 
-#### Nótense las tres preposiciones: según (κατά) la presciencia; en (ἐν) la santificación; para (εἰς) la obediencia. El fundamento, la esfera y el fin de la santificación espiritual.
+###  ¿Que conocimiento previo determina la elección? 
+#### Nótense las tres preposiciones: según (KATA) la presciencia; en (EN) la santificación; para (EIS) la obediencia. El fundamento, la esfera y el fin de la santificación espiritual.
 
 ###  1 Pedro 1:2 *Que la gracia y la paz les sean multiplicadas a ustedes.* El deseo de Pedro a sus lectores es que Dios multiplique Su gracia y paz a ellos. 2 Pedro 1:2
 
-## En Síntesis (1 Pedro 1:1)
+## En Síntesis (1 Pedro 1:1-2)
 
-### Pedro es el autor la carta. Silvano la transcribe. 1 Pedro 5:12
+### Pedro es el autor la carta. 
 
 ### Es dirigido a los dispersados en la zona que hoy conocemos como el norte de Turquía. 
 
-### los elegidos
+### La fuente de nuestra salvación (1:1-2)
 
-#### según el  conocimiento previo del Padre
+### los elegidos son obra de la Trinidad. 
 
-#### Santificados por el Espíritu.
+#### Según el conocimiento previo del **Padre**
 
-####  Rociados en la sangre de Cristo.
+#### En santificación del **Espíritu**.
+
+####  Rociados con la sangre de **Cristo**.
+
+### Pedro comienza su primera carta con un resumen de algunos hechos gloriosos sobre la salvación.
 
 ## 1 Timoteo 1:3-5 La esperanza viva por la fe
 
@@ -164,7 +170,7 @@ Bosquejo
 
 ### ¿Que significa esto? Significa que nuestra fe es el medio por el cual Dios nos asegura protegernos para recibir esa herencia reservada para cada uno de los que El conoció de antemano. 
 
-#### Significa que Dios decidió la salvación de algunos y otro no? Bíblicamente, de ninguna manera. Lo que significa es que Dios supo de antemano, vió todos los que creerían en El, entonces pudo preparar y proteger a ellos para recibir la promesa. 
+#### Significa que Dios decidió la salvación de algunos y otro no? Bíblicamente esto no es posible. Lo que significa es que Dios supo de antemano, vió todos los que creerían en El, entonces pudo preparar y proteger a ellos para recibir la promesa. 
 
 ###  1 Pedro 1:5a  "*...Mediante la fe ustedes son protegidos por el poder de Dios,*" 1 Pedro 5:10, 1:9
 
@@ -238,9 +244,29 @@ Así como el fuego es bueno para separar el oro de las impurezas, las pruebas en
 
 ##### La Biblia RVR09 dice, "*Obteniendo el fin de vuestra fe, que es la salud de vuestras almas*". 
 
+## En Síntesis (1 Timoteo 1:3-9)
+
+### LA GARANTÍA DE NUESTRA SALVACIÓN (1:3-5)
+
+### La prueba (1:3): Está garantizada por la resurrección de Cristo.
+
+### La permanencia (1:4): Está reservada en el cielo para nosotros. 
+
+### El poder (1:5): El gran poder de Dios nos asegura que llegaremos sanos y salvos al cielo.
+
+### EL GOZO DE NUESTRA SALVACIÓN (1:6-9)
+
+### La promesa: Este gozo puede ser nuestro incluso en medio de las pruebas. (1:6)
+
+### Los frutos: Nuestras pruebas producen un doble fruto. (1:7-9)
+
+### Aumentan nuestra fe en Dios (1:7).
+
+### Aumentan nuestro amor por Dios (1:8-9).
+
 ## 1 Pedro 1:10-12 Cumplimiento de la fe anunciado
 
-### 1 Pedro 1:10a  "*Acerca de esta salvación, los profetas que profetizaron..*" La manera que Dios llevaría efectuaría la salvación era incierta para los profetas. 
+### 1 Pedro 1:10a  "*Acerca de esta salvación, los profetas que profetizaron...*" La manera que Dios llevaría efectuaría la salvación era incierta para los profetas. 
 
 #### La palabra salvación SOZO es usada 4 veces en 1 Pedro y una vez en 2 Pedro. 1 Pedro 1:5, 9, 10, 2:2; 2 Pedro 3:15
 
@@ -268,7 +294,7 @@ Así como el fuego es bueno para separar el oro de las impurezas, las pruebas en
 
 ##### Isaías 53:11 *Debido a la angustia de Su alma, Él lo verá y quedará satisfecho. Por Su conocimiento, el Justo, Mi Siervo, justificará a muchos, Y cargará las iniquidades de ellos.*
 
-#### Predijeron glorias después
+#### Predijeron Sus glorias que seguirían
 
 ##### Isaías 53:12 *Por tanto, Yo le daré parte con los grandes Y con los fuertes repartirá despojos, Porque derramó Su alma hasta la muerte Y con los transgresores fue contado; Llevó el pecado de muchos, E intercedió por los transgresores.*
 
@@ -318,11 +344,15 @@ Así como el fuego es bueno para separar el oro de las impurezas, las pruebas en
 
 #### la santidad al andar (su manera de vivir) es un andar piadoso. Es visible ante las personas. 
 
-###  1 Pedro 1:16 *Porque escrito está: «SEAN SANTOS, PORQUE YO SOY SANTO».* esta cita nos recuerda a Levítico 11:45. 
+###  1 Pedro 1:16 *Porque escrito está: «SEAN SANTOS, PORQUE YO SOY SANTO».* esta es una cita de Levítico 19:2 en la Septuaginta. 
 
-#### Levítico 11:45 *Porque Yo soy el SEÑOR, que los he hecho subir de la tierra de Egipto para ser su Dios; serán, pues, santos porque Yo soy santo”».*
+#### Levítico 19:2 "*Habla a toda la congregación de los israelitas y diles: “Santos serán porque Yo, el SEÑOR su Dios, soy santo.*"
 
-#### “Séan santos” es un mandato pasivo. Esto significa que no nos hacemos santos por nuestro propio esfuerzo humano, sino que se nos dice que nos permitamos ser santos. Es obra de Dios santificarnos; sin embargo, es nuestro trabajo permitirle que Lo haga.
+##### Hay que comprender que aunque durante la era de la iglesia ya no estamos bajo la ley sino bajo la gracia, no significa que la santidad de Dios haya cambiado. 
+
+#### “*Séan santos*” (aoristo, pasivo, imperativo) es un mandato pasivo. Esto significa que no nos hacemos santos por nuestro propio esfuerzo, sino que se nos manda que nos permitamos ser santos. Es obra de Dios santificarnos; Pero si Dios lo hace, ¿Porque es un imperativo al creyente?
+
+#### Es un mandato para el creyente permitir que Dios nos santifique. 
 
 ###  1 Pedro 1:17a "*Y si invocan como Padre a Aquel que imparcialmente juzga según la obra de cada uno...*" 
 
@@ -338,37 +368,45 @@ Así como el fuego es bueno para separar el oro de las impurezas, las pruebas en
 
 ###  1 Pedro 1:18b "*heredada de sus padres con cosas perecederas como oro o plata...*" la herencia de sus padres (probablemente perdido por ser desterrados) no les trajo redención. 
 
-###  1 Pedro 1:19a *sino con sangre preciosa,*
+###  1 Pedro 1:19a "*sino con sangre preciosa, como de un cordero sin tacha y sin mancha: la sangre de Cristo.*" ser redimido de una vana manera de vivir viene por herencia. Pero no con dinero o cosas materiales sino por el pago hecho en sangre por Jesucristo. Juan 1:29 
 
-###  1 Pedro 1:19b *como de un cordero sin tacha y sin mancha: la sangre de Cristo.*
+###  1 Pedro 1:20a "*Porque Él estaba preparado desde antes de la fundación del mundo,*" En el plan del Padre, soberanamente preparó ( a Cristo como cordero desde antes de la fundación del mundo. 
 
-###  1 Pedro 1:20a *Porque Él estaba preparado desde antes de la fundación del mundo,*
+###  1 Pedro 1:20b "*pero se ha manifestado en estos últimos tiempos por amor a ustedes.*" Que privilegio que tiene la iglesia en ser los primeros a tener la manifestación de Su gracia en nuestros días. El punto de Pedro es que Dios sigue amando los suyos a pesar de hacerles pasar por diversas pruebas. 
 
-###  1 Pedro 1:20b *pero se ha manifestado en estos últimos tiempos por amor a ustedes.*
+#### Cristo estaba preparado (perfecto, participio), pero se manifestó (aoristo, participio) en un momento específico de un momento del tiempo. Tito 2:11
 
-###  1 Pedro 1:21a *Por medio de Él son creyentes en Dios,*
+###  1 Pedro 1:21a "*Por medio de Él son creyentes en Dios,*" Para llegar a ser creyentes en Dios, se nos tuvo que mostrar en quien creer. Esto sucedió cuando nos presentaron el mensaje de la verdad, el evangelio. 1 Corintios 15:3-4
 
-###  1 Pedro 1:21b *que lo resucitó de entre los muertos y le dio gloria,*
+#### Efesios 1:13 *En Él también ustedes, **después** de escuchar el mensaje de la verdad, el evangelio de su salvación, y habiendo creído, fueron sellados en Él con el Espíritu Santo de la promesa,*
 
-###  1 Pedro 1:21c *de manera que la fe y esperanza de ustedes sean en Dios.*
+#### No creimos en Dios antes de escuchar el mensaje del evangelio, fue después. No fuimos sellados en Él por el Espíritu antes de oir el mensaje o creer sino después de escuchar el mensaje de salvación y creerlo. 
+
+###  1 Pedro 1:21b "*que lo resucitó de entre los muertos y le dio gloria,*" Creer en Dios llegó a ser posible por medio de Cristo pues Dios lo levantó de los muertos y le hizo sentar a Su diestra. 
+
+###  1 Pedro 1:21c "*de manera que la fe y esperanza de ustedes sean en Dios.*" 
 
 ## 1 Pedro 1:22-25 Fe en acción a través del amor
 
 ###  1 Pedro 1:22a "*Puesto que en obediencia a la verdad ustedes han purificado sus almas*" la obediencia a la verdad llevó a que tengan sus almas purificadas. 
 
+#### "*han purificado*" HAGNIZO (perfecto, activo, participio) - hacer puro o libre del pecado o la culpa u otros rasgos indeseables. 
+
 ###  1 Pedro 1:22b "*para un amor sincero de hermanos,*" El hecho que ahora tienen almas purificadas, pueden amarse genuinamente, sin fingimiento. 2 Corintios 6:6
 
-###  "*Sincero*" ANIPOCRITOS - no fingido; sinceramente sentido o expresado.[^1] 
+####  "*Sincero*" ANIPOCRITOS - no fingido; sinceramente sentido o expresado.[^1] 
 
 ###  1 Pedro 1:22c "*ámense unos a otros entrañablemente,*" Se pueden amar unos a otros con fervor.
+
+#### "*Ámense*" (aoristo, activo, imperativo)
 
 #### "*Entrañablemente*" EKTENOS - con entusiasmo, de una manera seria, ferviente.
 
 ###  1 Pedro 1:22d "*de corazón puro.*" No solo con amor sincero, y entrañablemente sino con pureza de corazón. 
 
-###  1 Pedro 1:23a "*Pues han nacido de nuevo...*" 
+###  1 Pedro 1:23a "*Pues han nacido de nuevo...*" (perfecto, pasivo, participio) - habían sido renovados por Dios. 
 
-###  1 Pedro 1:23b "*no de una simiente corruptible, sino de una que es incorruptible...*"
+###  1 Pedro 1:23b "*no de una simiente corruptible, sino de una que es incorruptible...*" 
 
 ###  1 Pedro 1:23c "*es decir, mediante la palabra de Dios que vive y permanece...*"
 
@@ -404,37 +442,7 @@ Así como el fuego es bueno para separar el oro de las impurezas, las pruebas en
 
 ###  1 Pedro 1:25b "*Esa es la palabra que a ustedes les fue predicada.*" Esa es la palabra que oyeron y creyeron. Esa es la palabra que les mantiene firmes en este momento. 
 
-## En Síntesis
-
-### LA FUENTE DE NUESTRA SALVACIÓN (1:1-2)
-
-### ESQUEMA DE LA SECCIÓN UNO (1 PEDRO 1)
-
-### Pedro comienza su primera carta con un resumen de algunos hechos gloriosos sobre la salvación.
-
-### Hemos sido elegidos por el Padre (1:1-2a).
-
-### Hemos sido santificados por el Espíritu (1:2b).
-
-### Somos purificados por la sangre del Hijo (1:2c).
-
-### LA GARANTÍA DE NUESTRA SALVACIÓN (1:3-5)
-
-### La prueba (1:3): Está garantizada por la resurrección de Cristo.
-
-### La permanencia (1:4): Está reservada en el cielo para nosotros. 
-
-### El poder (1:5): El gran poder de Dios nos asegura que llegaremos sanos y salvos al cielo.
-
-### EL GOZO DE NUESTRA SALVACIÓN (1:6-9)
-
-### La promesa: Este gozo puede ser nuestro incluso en medio de las pruebas. (1:6)
-
-### Los frutos: Nuestras pruebas producen un doble fruto. (1:7-9)
-
-### Aumentan nuestra fe en Dios (1:7).
-
-### Aumentan nuestro amor por Dios (1:8-9).
+## En Síntesis (1 Timoteo 1:10-25)
 
 ### LOS PROFETAS DEL ANTIGUO TESTAMENTO Y NUESTRA SALVACIÓN (1:10-12a)
 
@@ -586,21 +594,26 @@ y rebosa en amor (vv. 22-25).
 
 ###  1 Pedro 2:5b *"...sean edificados como casa espiritual..."* El ser edificados como casa, muestra el propósito en la construcción de la obra que Dios esta realizando, una casa espiritual, y los creyentes ahora son parte de la obra como piedras vivas.
 
-#### La biblia textual lo traduce de la siguiente manera, afirmando que ya son edificados.  *"vosotros también sois edificados como piedras vivientes, casa espiritual..."* BTX4
+#### La biblia textual lo traduce de la siguiente manera, afirmando que los creyentes ya forman parte de la edificación.  *"vosotros también sois edificados como piedras vivientes, casa espiritual..."* BTX4
 
-###  1 Pedro 2:5c *"...para un sacerdocio santo,..."* Dentro del contexto de creyentes judíos al que Pedro exponía esta carta, el sacerdocio era un rol dentro de israel muy importante, el cual intercedían por el pueblo.
+#### La palabra sean edificados [OIKODOMEO] se encuentra en tiempo presente, pasivo indicativo, mostrando que la acción no es realizada por el creyente,es otro el que realiza la acción al creyente de ser edificados.
 
-#### Sin embargo, Estos sacerdotes no podían ser santos,
+###  1 Pedro 2:5c *"...para un sacerdocio santo,..."* Dentro del contexto de creyentes judíos al que Pedro exponía esta carta, el sacerdocio era un rol dentro de israel muy importante que los creyentes judíos conocían. Éxodo 29:9 
 
-#### Un sacerdocio santo, tenían experiencia los judíos de sacerdotes, los cuales tenían que ofrecer sacrificios primeramente por sus delitos y pecados y despues por los de la nación, sin embargo aquí vemos un sacerdocio santo, los creyentes son llamados a participar de esto
+#### Los sacerdotes terrenales de Israel no podían ser santos, es por eso que ellos necesitaban ofrecer sacrificios primeramente por sus pecados y luego por el pueblo. Hebreos 7:27
 
-###  *para ofrecer sacrificios espirituales aceptables a Dios*
+#### Ahora los creyentes tienen un nuevo propósito como sacerdotes santos, consagrados para Dios, aptos para el servicio que Dios les otorgó. Apocalipsis 1:6, 5:10 
 
-#### Solo los sacerdotes eran los mas adecuados para ofrecer sacrificios según la ley, sin embargo ahora los creyentes somos sacerdocio santo, con un propósito, ofrecer sacrificios ?, que clase de sacrificios? otra vez animales?, no ahora sacrificios espirituales,
+###  1 Pedro 2:5d *"...para ofrecer sacrificios espirituales aceptables a Dios...* Un sacerdote de Israel realizaba sacrificios de animales según lo establecido por la ley. Levítico 17
 
-#### Como es que es un sacrificio espiritual?
+#### La palabra ofrecer [ANAFERO] se encuentra en tiempo aoristo, activo, infinitivo, instruyendo a los creyentes (Sacerdotes santos) el realizar de manera continua sacrificios espirituales agradables a Dios.
 
-#### Estos sacrificios son aceptables a DIos, vemos que el proposito de los sacrificios animales que exigía la ley eran sombra de lo que había de venir, sin embargo ahora vemos sacrificos espirituales aceptables a Dios.
+#####  ¿Qué es un sacrificio espiritual? Romanos 15:16; Hebreos 13:15
+
+#### 
+
+
+Estos sacrificios son aceptables a DIos, vemos que el proposito de los sacrificios animales que exigía la ley eran sombra de lo que había de venir, sin embargo ahora vemos sacrificos espirituales aceptables a Dios.
 
 ###  *por medio de Jesucristo.*
 #### Estos sacrificios espirituales, son únicamente aceptables por medio de Jesucristo, no hay otra manera, u otro medio para ofrecer sacrificios agradables al Dios eterno.
