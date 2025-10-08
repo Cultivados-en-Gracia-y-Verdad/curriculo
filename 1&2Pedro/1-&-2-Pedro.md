@@ -982,17 +982,71 @@ Estos sacrificios son aceptables a DIos, vemos que el proposito de los sacrifici
 
 # 1 Timoteo 3:1-8 Relaciones dentro de la Iglesia
 
+### Puede que las circunstancias en las que se encontraban los creyentes a los que escribia Pedro, no eran las mejores para animarlos a vivir haciendo lo bueno. Por esa razón, en los anteriores versiculos les recordo a una persona, Cristo Jesus hombre. ¿Porqué?
+
+### Cristo es el mayor ejemplo del sufrimiento por hacer el bien y soportarlo con paciencia, y esto porque confiaba en el Padre, del cual todos sus juicios son justos.
+
+### Y por medio de Su obra en la cruz, fuimos liberados del pecado, completamente y para siempre. ¿Pora qué?
+
+### Para ahora, por medio de Su obra en la cruz, podamos vivir haciendo el bien, vivir en la justicia de Dios.
+
+### Ahora los creyentes tenían un Pastor y Cuidador, alguien que velaría por ellos, la seguridad que Él les daba iba mas allá del daño físico que podrían recibir. La seguridad que Cristo les daba era espiritual y eterna.
+
+### Estos creyentes, Sus ovejas, talvez estaban extraviadas de su tierra, de su nación. Pero ahora habian sido regresadas al Pastor, ahora estaban seguras en Su rebaño, el de Cristo.
+
+### Comprender estas verdades de nuestro Señor Jesucristo y Su obra tendría un resultado en la vida personal de los cristianos y en sus relaciones con los demas. 
+
+### Considerando al Ejemplo dado por Dios el Padre, Cristo, estos creyentes podrían hacer el bien, a pesar de que eso traiga sufrimiento, y podrían soportarlo con paciencia y gozo inefable. Esto es lo que Dios proveyo para Sus salvos, esto es lo que halla gracia con Dios.
+
 ## 1 Timoteo 3:1-6 Aprendiendo de las mujeres
 
-###  1 Pedro 3:1 *Asimismo ustedes, mujeres,*
+###  1 Pedro 3:1a *"Asimismo ustedes, mujeres,..."* Anteriormente Pedro estuvo dando instrucciones de sujeción a los creyentes, como ser: 
 
-###  *estén sujetas a sus maridos,*
+####  Sujetarse a todas las autoridades en la sociedad. 
 
-###  *de modo que si algunos de ellos son desobedientes a la palabra,*
+####  A los esclavos a sujetarse a sus amos.
 
-###  *puedan ser ganados sin palabra alguna por la conducta de sus mujeres*
+#### Ahora se dirigirá a las esposas creyentes de la iglesia. Dios ahora mostrará como ellas podrían andar haciendo el bien dentro de su propio matrimonio.
 
-###  1 Pedro 3:2 *al observar ellos su conducta casta y respetuosa.*
+###  1 Pedro 3:1b *"...estén sujetas a sus maridos,..."* La instrucción para la esposa dentro del matrimonio era que ella se mantenga voluntariamente, bajo la autoridad de su propio esposo.
+
+####  No vemos en las escrituras que las esposas deban sujetarse a la autoridad de cada hombre en general, sino unicamente a su propio esposo.
+
+#### Simplemente es la manera en la cual el Señor instituyo el matrimonio.
+
+#### La palabra sujetar en griego es JUPOTÁSSO (Someterse a, obedecer, estar bajo la autoridad de). Es un termino militar como cuando un soldado de alinea a su general.
+
+#### Esta palabra para nada señala dominación o algun valor inferior para la mujer o esposa creyente a los ojos de Dios.
+
+#### Solo hace referencia al rol que tiene la esposa para con el esposo dentro del matrimonio. Ella voluntariamente debe sujetarse a la voluntad de su marido. 
+
+#### Esta instrucción no incluye que la esposa deba sujetarse a su marido si esa sujeción podría llevar a la esposa hacia algun pecado, en todo caso, la esposa antes esta sujeta a la autoridad suprema de Dios.
+
+###  1 Pedro 3:1c *"...de modo que si algunos de ellos son desobedientes a la palabra,..."* Seria bueno observar a que se refiere con un esposo "desobediente":
+
+#### Desobediente en griego es APEIDSÉO que tambien podría traducirse, "no creyente".
+
+#### Por los versiculos que encontramos en el libro de 1 Pedro (1 Pedro 2:8, 3:1, 3:20, 4:17), puede que este haciendo referencia a un esposo incredulo.
+
+#### Aun que tambien podría dirigirse a un esposo creyente que no esta andando en obediencia, en fe a la verdad de Cristo. 1 Pedro 1:14
+
+###  1 Pedro 3:1d *"...puedan ser ganados sin palabra alguna por la conducta de sus mujeres..."* ¿Cual sería la razón por la cual la esposa debería sujetarse a su esposo? Dios tiene un proposito.
+
+#### El proposito de esta instrucción es para que el esposo desobediente, pueda ser "ganado". 
+
+#### En el contexto inmediato vemos que el esposo es alguien incredulo a "La" Palabra, la de Dios, la verdad de Cristo.
+
+#### El andar haciendo lo bueno, el vivir a la justicia de la esposa puede ser utilizado por Dios para el esposo incredulo o esposo desviado de la verdad para que confie en la verdad de La Palabra de Diosy Cristo.
+
+#### Esto es a travez de la esposa, pero notese que es "sin palabra alguna", entonces ¿Cómo ocurrirá esto?
+
+###  1 Pedro 3:2 *"...al observar ellos su conducta casta y respetuosa."* El enfasis que Dios da al rol de la esposa no esta en las palabras que diga, sino en la manera de vivir que su esposo verá. 
+
+####  El esposo será testigo de la obra de Cristo, en la vida de su esposa.
+
+#### El esposo será testigo de la santidad de Dios, por medio ver de la santidad de su esposa. 1 Pedro 1:15
+
+#### La esposa en su rol, puede ser un precioso instrumento en las manos de Dios para que sus esposos respondan por la fe al evangelio de Dios, y ser llamados de las tinieblas a su luz admirable.
 
 ###  1 Pedro 3:3 *Que el adorno de ustedes no sea el externo:*
 
