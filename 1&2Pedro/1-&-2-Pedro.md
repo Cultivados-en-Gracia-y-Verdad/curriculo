@@ -95,13 +95,39 @@ Bosquejo
 ####  ¿La elección es de acuerdo a qué conocimiento previo? El conocimiento que Dios tenía de antemano era sobre los que creerían en Él. 
 
 ###  1 Pedro 1:2 "*por la obra  santificadora* [en la santificación RVR60] *del Espíritu...*" Son elegidos por la obra santificadora del Espíritu. 2 Tesalonicenses 2:13; Tito 3:5
+<<<<<<< Updated upstream
+
+#### la palabra por aquí es EN - en, con o por. Esta palabra es usualmente traducida en sin embargo aquí es traducida por la obra, haciendo parecer que la elección es causado por El Espíritu, sin embargo mejor es entender que la elección es por medio de la obra santificadora, es decir, para separar para un uso. 
+=======
 
 #### la palabra por aquí es EN - en, con o por. Esta palabra es usualmente traducida en sin embargo aquí es traducida por la obra, haciendo parecer que la elección es causado por El Espíritu, sin embargo mejor es entender que la elección es por medio de la obra santificadora, es decir, para separar para un uso. 
 
+<<<<<<< HEAD
+
+>>>>>>> Stashed changes
+
+###  1 Pedro 1:2 "*para obedecer a Jesucristo...*" El tercer punto de la elección es que es para obedecer a Jesucristo y ser rociados con Su sangre. 1 Pedro 1:14, 22
+
+<<<<<<< Updated upstream
+### 1 Pedro 1:2 "*...y ser rociados con Su sangre:*" Hebreos 9:13-14
+
+=======
+#### 1 Pedro 1:2a "*según...*" La palabra según "Kata" no debe ignorarse en este pasaje, porque define que algo esta en base en conformidad de algo en este caso según el contexto inmediato "*elegidos según...*"(RVR60).
+
+#### Por ejempo según la (RAE), "según" es una preposición que se utiliza para indicar que algo que se dice o se conseidera en base a una información específica, una fuente, una autoridad, etc.
+
+#### En otras palabras "según" se utiliza para citar una fuente, indicar una opinión o basarse en información específica.
+
+##### Por ejemplo: Algo en especifico que tenga una base en lo que digan los hombres o en base a lo que dice la ley. 1 corintios 9:8
+
+###  ¿Que conocimiento previo determina la elección? 
+=======
 ###  1 Pedro 1:2 "*para obedecer a Jesucristo...*" El tercer punto de la elección es que es para obedecer a Jesucristo y ser rociados con Su sangre. 1 Pedro 1:14, 22
 
 ### 1 Pedro 1:2 "*...y ser rociados con Su sangre:*" Hebreos 9:13-14
+>>>>>>> aed52061563b6b54e248e17916a43e3affc0650e
 
+>>>>>>> Stashed changes
 #### Nótense las tres preposiciones: según (κατά) la presciencia; en (ἐν) la santificación; para (εἰς) la obediencia. El fundamento, la esfera y el fin de la santificación espiritual.
 
 ## 1 Pedro 1:2 Gozo por la salvación pasada
