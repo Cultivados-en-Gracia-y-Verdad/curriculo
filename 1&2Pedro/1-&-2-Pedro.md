@@ -1319,7 +1319,7 @@ Estos sacrificios son aceptables a DIos, vemos que el proposito de los sacrifici
 
 #### 2 timoteo 3:12 dice: "*Y en verdad, todos los que quieren vivir piadosamente en Cristo Jesús, serán perseguidos.*" Esta es una realidad que todo creyente debe esperar. Es por eso que Pedro quiere enseñar a su audiencia a que puedan contemplar el ejemplo de Cristo, que obtiene gran ganancia. 1 Pedro 1:7
 
-#### la palabra padecimiento "PASJO" o sufrimiento, de las 4 veces mencionadas en este capítulo, 2 veces son usadas en este versiculo, lo que nos muestran la importancia del padecimiento de Cristo como base para todo el capitulo, sin dejar de lado lo que ya ha estado enseñando anteriormente, ya en esta carta 11 veces se menciona la palabra griega "PASJO".
+#### la palabra padecimiento "PASJO" o sufrimiento, de las 4 veces mencionadas en este capítulo, 2 veces son usadas en este versículo, lo que nos muestran la importancia del padecimiento de Cristo como base para todo el capitulo, sin dejar de lado lo que ya ha estado enseñando anteriormente, ya que en esta carta 11 veces se menciona la palabra griega "PASJO".
 
 ### 1 Pedro 4:1a "*Por tanto,...*" "OUN" Es una conjunción, lo que significa que da continuidad a la enseñanza que Pedro había explicado anteriormente en 1 Pedro 3:13-22
 
@@ -1351,7 +1351,7 @@ Estos sacrificios son aceptables a DIos, vemos que el proposito de los sacrifici
 
 ###  1 Pedro 4:1d "*... pues quien ha padecido en la carne...*" Su sufrimiento tuvo un propósito, tuvo un motivo, no fue un sufrimiento vano o vacío, tenia un gran propósito, tuvo un porque, así como lo traduce la versión (BAD 1989) "… porque el que ha sufrido en el cuerpo…"
 
-#### Su sufrimiento anunciado y llevado a cabo de manera literal, no termino con el dolor de la muerte, sino que terminó en victoria. Hechos 2:24
+#### Su sufrimiento anunciado y llevado a cabo de manera literal, no se quedo con el dolor de la muerte, sino que terminó en victoria. Hechos 2:24
 
 ### 1 Pedro 4:1e: "… ha terminado con el pecado," el dominio mortal del pecado, llego a tener su fin, por un hombre que en debilidad y dispuesto a sufrir por hacer el bien, teniendo su mirada en el gozo que estaba delante de Él, puso fin al pecado y todo su dominio. Romanos 6:7, 10.
 
