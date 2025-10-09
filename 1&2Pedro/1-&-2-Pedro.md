@@ -1323,11 +1323,51 @@ Estos sacrificios son aceptables a DIos, vemos que el proposito de los sacrifici
 
 # 1 Pedro 4:1-6 – Viviendo para la voluntad de Dios
 
-###  1 Pedro 4:1 *Por tanto, puesto que Cristo ha padecido en la carne,*
+### 1 Pedro 4:1 El sufrimiento de Cristo como un ejemplo para armarse del mismo proposito 1Pedro 2:21
 
-###  *ármense también ustedes con el mismo propósito,*
+#### Cristo en su buena conducta y haciendo lo bueno, aunque padecio en el cuerpo, aquel sufrimiento fue pequeño comparado con la victoria que obtuvo de vencer el pecado, vencer el mal con el bien. Este pasaje no esta enseñando asetismo, sino que este sufrimiento es causado por hacer el bien 1 Pedro 2:21-22.
 
-###  *pues quien ha padecido en la carne ha terminado con el pecado,*
+#### Este pasaje no esta enseñando a que un creyente debe buscar sufrir para vencer al pecado, como lo da a entender la versión (TLA) 1 Pedro 4:1: "*... Si ustedes sufren como Cristo, ya no seguirán pecando.*" Esta traducción no es correcta. Esto contradeciria Romanos 6:10-11
+
+#### 2 timoteo 3:12 dice: "*Y en verdad, todos los que quieren vivir piadosamente en Cristo Jesús, serán perseguidos.*" Esta es una realidad que todo creyente debe esperar. Es por eso que Pedro quiere enseñar a su audiencia a que puedan contemplar el ejemplo de Cristo, que obtiene gran ganancia. 1 Pedro 1:7
+
+#### la palabra padecimiento "PASJO" o sufrimiento, de las 4 veces mencionadas en este capítulo, 2 veces son usadas en este versículo, lo que nos muestran la importancia del padecimiento de Cristo como base para todo el capitulo, sin dejar de lado lo que ya ha estado enseñando anteriormente, ya que en esta carta 11 veces se menciona la palabra griega "PASJO".
+
+### 1 Pedro 4:1a "*Por tanto,...*" "OUN" Es una conjunción, lo que significa que da continuidad a la enseñanza que Pedro había explicado anteriormente en 1 Pedro 3:13-22
+
+#### Entendiendo que todo lo que iniciara explicando no tendría sentido si aislamos estos pasajes de los anteriores, por lo que también llegaríamos a entender, es que: en consecuencia de lo mencionado anteriormente.
+
+### 1 Pedro 4:1b "*...puesto que Cristo ha padecido en la carne,*" Esta es la primera ves que se menciona "PASJO" padecimiento en este capitulo, y habla como una base de lo cual continuará explicando.
+
+#### "PASJO" significa experimentar una sensación o impresión (generalmente dolorosa). Sus padecimientos fueron conocidos desde antes de la fundación del mundo. 1 Pedro 1:19-20
+
+##### Después de la caída de Adán, fue anunciado por primera vez dando a conocer su padecimiento, que Él sería herido Génesis 3:15 
+
+##### A través de figuras en la ley de moisés fue anunciado y tipificado por corderos sin mancha al ofrecerse año tras año apuntado la obra de los padecimientos del Mesías. Hebreos 10:11-12
+
+##### El rey David predijo que el Mesías padeceria, Salmo 22:6; 14-16
+
+##### Fue anunciado por los profetas como el Mesías que debía padecer, y también ser sacrificado como un cordero inmolado. Daniel 9:26; Zacarias 12:10; Isaías 53:3-5; Isaías 53:7: Isaías 53:10-11; 
+
+##### Jesús mismo anuncio que el Cristo debía padecer, que era necesario que Jesús pasara por padecimientos. Mateo 16:21; Lucas 9:22.
+
+##### por lo tanto podríamos decir 1 Pedro 4:1: "Ya que Cristo padeció en la carne,..." (BJ 1975), o también, conociendo que el Señor Jesucristo sufrió en su propio cuerpo por hacer lo bueno. Hebreos 5:7, 9
+
+###  1 Pedro 4:1c "*...ármense también ustedes con el mismo propósito,...*" JOPLIZO es la palabra usada para dar la idea de llevar un equipo de armamento.
+
+#### La biblia versión (RVR60) traduce, "*... armaos del mismo pensamiento;*" El pensamiento que tuvo Cristo fue mucho mayor que los padecimientos que el llevaria, ya que su mirada estaba dirigido a algo mucho más superior que los sufrimientos pasajeros, ya que su gozo estaba siempre delante de Él. Hebreos 12:2
+
+#### Su pensamiento de soportar la hostilidad de pecadores fue como un equipamiento de armamento mucho más poderoso que las circunstancias.
+
+#### Por eso la audiencia de Pedro debia  equiparse con ese armamento de tener el mismo pensamiento que tuvo Cristo.
+
+###  1 Pedro 4:1d "*... pues quien ha padecido en la carne...*" Su sufrimiento tuvo un propósito, tuvo un motivo, no fue un sufrimiento vano o vacío, tenia un gran propósito, tuvo un porque, así como lo traduce la versión (BAD 1989) "… porque el que ha sufrido en el cuerpo…"
+
+#### Su sufrimiento anunciado y llevado a cabo de manera literal, no se quedo con el dolor de la muerte, sino que terminó en victoria. Hechos 2:24
+
+### 1 Pedro 4:1e: "… ha terminado con el pecado," el dominio mortal del pecado, llego a tener su fin, por un hombre que en debilidad y dispuesto a sufrir por hacer el bien, teniendo su mirada en el gozo que estaba delante de Él, puso fin al pecado y todo su dominio. Romanos 6:7, 10.
+
+#### Es por eso que Pedro muestra a su audiencia como el armarse con la mente de Cristo, nos llena de valor, sabiendo y confiando que Dios no lo deja sin propósito, uno es bienaventurado si sufre por tener el mismo pensamiento que tuvo Cristo. Mateo 5:11-12; Filipenses 2:5-11; Colosenses 1:24; 1 Pedro 1:13, 4:12
 
 ###  1 Pedro 4:2 *para vivir el tiempo que le queda en la carne,*
 
