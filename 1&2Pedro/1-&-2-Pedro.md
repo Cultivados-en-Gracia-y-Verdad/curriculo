@@ -1341,7 +1341,13 @@ Estos sacrificios son aceptables a DIos, vemos que el proposito de los sacrifici
 
 ##### por lo tanto podríamos decir 1 Pedro 4:1: "Ya que Cristo padeció en la carne,..." (BJ 1975), o también, conociendo que el Señor Jesucristo sufrió en su propio cuerpo por hacer lo bueno. Hebreos 5:7, 9
 
-###  1 Pedro 4:2c "*...ármense también ustedes con el mismo propósito,...*"
+###  1 Pedro 4:2c "*...ármense también ustedes con el mismo propósito,...*" JOPLIZO es la palabra usada para dar la idea de llevar un equipo de armamento.
+
+#### La biblia versión (RVR60) traduce, "*... armaos del mismo pensamiento;*" El pensamiento que tuvo Cristo fue mucho mayor que los padecimientos que el llevaria, ya que su mirada estaba dirigido a algo mucho más superior que los sufrimientos pasajeros, ya que su gozo estaba siempre delante de Él. Hebreos 12:2
+
+#### Su pensamiento de soportar la hostilidad de pecadores fue como un equipamiento de armamento mucho más poderoso que las circunstancias.
+
+#### Por eso la audiencia de Pedro debia  equiparse con ese armamento de tener el mismo pensamiento que tuvo Cristo.
 
 ###  *pues quien ha padecido en la carne ha terminado con el pecado,* 
 
