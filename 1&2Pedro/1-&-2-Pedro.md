@@ -1321,11 +1321,27 @@ Estos sacrificios son aceptables a DIos, vemos que el proposito de los sacrifici
 
 #### la palabra padecimiento "PASJO" o sufrimiento, de las 4 veces mencionadas en este capítulo, 2 veces son usadas en este versiculo, lo que nos muestran la importancia del padecimiento de Cristo como base para todo el capitulo, sin dejar de lado lo que ya ha estado enseñando anteriormente, ya en esta carta 11 veces se menciona la palabra griega "PASJO".
 
-### 1 Pedro 4:1 "*Por tanto,...*" 
+### 1 Pedro 4:1a "*Por tanto,...*" "OUN" Es una conjunción, lo que significa que da continuidad a la enseñanza que Pedro había explicado anteriormente en 1 Pedro 3:13-22
 
-### 1 Pedro 4:1 "*...puesto que Cristo ha padecido en la carne,*"
+#### Entendiendo que todo lo que iniciara explicando no tendría sentido si aislamos estos pasajes de los anteriores, por lo que también llegaríamos a entender, es que: en consecuencia de lo mencionado anteriormente.
 
-###  *ármense también ustedes con el mismo propósito,*
+### 1 Pedro 4:1b "*...puesto que Cristo ha padecido en la carne,*" Esta es la primera ves que se menciona "PASJO" padecimiento en este capitulo, y habla como una base de lo cual continuará explicando.
+
+#### "PASJO" significa experimentar una sensación o impresión (generalmente dolorosa). Sus padecimientos fueron conocidos desde antes de la fundación del mundo. 1 Pedro 1:19-20
+
+##### Después de la caída de Adán, fue anunciado por primera vez dando a conocer su padecimiento, que Él sería herido Génesis 3:15 
+
+##### A través de figuras en la ley de moisés fue anunciado y tipificado por corderos sin mancha al ofrecerse año tras año apuntado la obra de los padecimientos del Mesías. Hebreos 10:11-12
+
+##### El rey David predijo que el Mesías padeceria, Salmo 22:6; 14-16
+
+##### Fue anunciado por los profetas como el Mesías que debía padecer, y también ser sacrificado como un cordero inmolado. Daniel 9:26; Zacarias 12:10; Isaías 53:3-5; Isaías 53:7: Isaías 53:10-11; 
+
+##### Jesús mismo anuncio que el Cristo debía padecer, que era necesario que Jesús pasara por padecimientos. Mateo 16:21; Lucas 9:22.
+
+##### por lo tanto podríamos decir 1 Pedro 4:1: "Ya que Cristo padeció en la carne,..." (BJ 1975), o también, conociendo que el Señor Jesucristo sufrió en su propio cuerpo por hacer lo bueno. Hebreos 5:7, 9
+
+###  1 Pedro 4:2c "*...ármense también ustedes con el mismo propósito,...*"
 
 ###  *pues quien ha padecido en la carne ha terminado con el pecado,* 
 
