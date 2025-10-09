@@ -1413,9 +1413,19 @@ Estos sacrificios son aceptables a DIos, vemos que el proposito de los sacrifici
 
 #### Es por eso que Pedro muestra a su audiencia como el armarse con la mente de Cristo, nos llena de valor, sabiendo y confiando que Dios no lo deja sin propósito, uno es bienaventurado si sufre por tener el mismo pensamiento que tuvo Cristo. Mateo 5:11-12; Filipenses 2:5-11; Colosenses 1:24; 1 Pedro 1:13, 4:12
 
-###  1 Pedro 4:2 *para vivir el tiempo que le queda en la carne,*
+###  1 Pedro 4:2a *para vivir...* BIOSAI es un Verbo, aoristo, infinitivo, en voz activa, lo que expresa, que el sujeto realiza la acción de manera puntual y completa en el pasado.
 
-###  *ya no para las pasiones humanas, sino para la voluntad de Dios.*
+#### lo que significa que llegaste a vivir en un punto del tiempo (aoristo) de manera puntual y completa (infinitivo), por una acción que realizaste. (voz activa). Podria traducirse, para que habiendo vivido vivas.
+
+##### Una acción que realizamos para tener vida es haber creido en el evangelio. Sabiendo que la fe no es una obra, pero si es la participación activa al momento de creer en el evangelio, demuestra que no es Dios el que soberanamente lleva a los hombres a realizar la acción, de otro modo este verbo seria en voz pasiva.
+
+##### Juan 5:24 dice: "*En verdad les digo: el que oye Mi palabra y cree al que me envió, tiene vida eterna y no viene a condenación, sino que ha pasado de muerte a vida.*"  con el resultado de poder vivir el resto de la vida, ya no más en el dominio del pecado.
+
+###  1 Pedro 4:2b "*...el tiempo que le queda en la carne,...*" Si bien tenemos una nueva vida en nuestros mismo cuerpos que teníamos cuando éramos incrédulos, no significa que nuestros cuerpos sean malos, sino que esta nueva vida podemos vivirla en estos mismo cuerpos que ahora son el templo del Espíritu Santo. 1 Corintios 6:19
+
+###  1 Pedro 4:2c "...*ya no para las pasiones humanas,...*" Ya que Cristo termino con el pecado, ahora el creyente puede armarse de ese mismo pensamiento, porque Cristo vive, y la vida que ha logrado es para andar en novedad de vida y ya no en los resultados de muerte que ocasionaba el pecado.1 Pedro 3:18
+
+### 1 Pedro 4:2d "...*sino para la voluntad de Dios.*"
 
 ###  1 Pedro 4:3 *Porque el tiempo ya pasado les es suficiente para haber hecho lo que agrada a los gentiles, habiendo andado*
 
