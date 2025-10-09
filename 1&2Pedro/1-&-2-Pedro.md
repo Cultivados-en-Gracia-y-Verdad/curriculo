@@ -3,7 +3,7 @@ Title: 1 & 2 Pedro
 ---
 
 # 1 y 2 Pedro
-## durante el tiempo de su peregrinación
+## Durante su peregrinación
 
 # 1 Pedro
 
@@ -29,14 +29,14 @@ Title: 1 & 2 Pedro
 
 ### El autor no afirma que esto sea fácil, pero es necesario para la obediencia a Dios, quien es el Creador y Redentor de todas las personas y sociedades. Dios ha llamado a estos seguidores dispersos de Cristo a proclamar las obras poderosas de Dios, y el principal ámbito de esta proclamación es su vida cotidiana.[^5]
 
-Bosquejo
+## Bosquejo
 
 | #    | Sección                                      | Página |
 | ---- | -------------------------------------------- | ------ |
 | I    | Introducción                                 |        |
 | II   | 1 Pedro 1:3-2:10 EL TRIUNFO DE LA FE         |        |
-| III  | 1 Pedro 2:11-3:12 Piedosos en el sufrimiento |        |
-| IV   | 1 Pedro 3:13-5:14 Gracia en el sufrimiento   |        |
+| III  | 1 Pedro 2:11-3:12 PIEDOSOS EN EL SUFRIMIENTO |        |
+| IV   | 1 Pedro 3:13-5:14 GRACIA EN EL SUFRIMIENTO   |        |
 
 # 1 Pedro 1:1-2:10 – EL TRIUNFO DE LA FE
 
@@ -64,7 +64,7 @@ Bosquejo
 
 ##### Pedro naturalmente era pronto para hablar y actuar impulsivamente. Juan 18:10; Marcos 9:5-6
 
-### Aunque Pedro probablemente estuvo en Roma, no creemos que la mención de Babilonia representa a Roma. Habían muchos judios exiliados 600 años antes bajo Nabucodonosor. Muchos nunca regresaron a Judá.  
+#### Aunque Pedro probablemente estuvo en Roma, no creemos que la mención de Babilonia representa a Roma. Habían muchos judios exiliados 600 años antes bajo Nabucodonosor. Muchos nunca regresaron a Judá.  
 
 ### Su muerte
 
@@ -106,7 +106,7 @@ Bosquejo
 
 #### Los elegidos no son según el plan predeterminado de Dios, sino según Su previo conocimiento.  
 
-####  ¿La elección es de acuerdo a qué conocimiento previo? El conocimiento que Dios tenía de antemano era sobre los que creerían en Él. 
+####  ¿La elección es de acuerdo a qué conocimiento previo? La presciencia de Dios incluye conocer todo de todos los tiempos. Entonces, Dios sabía antes de nada sobre los que a traves de los tiempos creerían en Él. 
 
 ###  1 Pedro 1:2 "*por la obra  santificadora* [en santificación RVR60] *del Espíritu...*" Son elegidos por la obra santificadora del Espíritu. 2 Tesalonicenses 2:13; Tito 3:5
 #### la palabra "*por*" EN - significa en, con o por. Esta palabra es usualmente traducida "en". La traducción de la palabra EN a por hace parecer que la elección es causado por El Espíritu, sin embargo mejor es entender que la elección es por medio de la obra santificadora, es decir, en separar para un uso. 
@@ -152,47 +152,61 @@ Bosquejo
 
 #### Para que el hombre sea declarado justo es necesario que haya un nacimiento espiritual. Gálatas 6:15
 
-###  1 Pedro 1:3d "*mediante la resurrección de Jesucristo de entre los muertos...*" 1 Corintios 15:20; 1 Pedro 3:21
+###  1 Pedro 1:3d "*mediante la resurrección de Jesucristo de entre los muertos...*" hemos nacido a una esperanza viva porque Jesucristo resucitó de entre los muertos. 1 Corintios 15:20; 1 Pedro 3:21; 1:23, 2:4-5, 24, 4:5-6
 
-#### ¿Cuál fue el propósito Dios tenía para hacernos nacer de nuevo? 
+#### ¿Cuál fue el propósito que Dios tenía para hacernos nacer de nuevo? 
 
-###  1 Pedro 1:4a  "*para obtener una herencia,*" Parte de nuestra esperanza viva es que tenemos ya una herencia. 
+###  1 Pedro 1:4a  "*para obtener una herencia,*" Parte de nuestra esperanza viva es que nos hizo nacer de nuevo para recibir una herencia. 
 
 ###  1 Pedro 1:4b "*incorruptible, inmaculada y que no se marchitará, reservada en los cielos para ustedes*". Es una herencia que no se contamina con el tiempo, no tiene falla ni se arruina. Esta herencia está guardada en los cielos. 
 
-#### Reservada TEREO (perfecto, pasivo, participio) - mantenerse o llegar a mantenerse en un determinado estado, posición o actividad.[^1]
+#### "*Reservada*" TEREO (perfecto, pasivo, participio) - mantenerse o llegar a mantenerse en un determinado estado, posición o actividad.[^1]
 
 #### Puesto de otra manera, según Su previo conocimiento y motivado por Su misericordia, Dios nos hizo nacer para recibir una herencia reservada en los cielos. 
 
-#### ¿Específicamente, qué conoció Dios de ante mano? Nuestra fe. 
-
 ## 1 Pedro 1:5-7 La importancia de la nuestra fe
 
-### ¿Que significa esto? Significa que nuestra fe es el medio por el cual Dios nos asegura protegernos para recibir esa herencia reservada para cada uno de los que El conoció de antemano. 
+###  1 Pedro 1:5a  "*...Mediante la fe ustedes son protegidos por el poder de Dios,*" Cuando creimos la promesa, el poder, la misericorida, la herencia y ser protegidos por Dios llegan a hacerse una realidad. 1 Pedro 5:10, 1:9
 
-#### Significa que Dios decidió la salvación de algunos y otro no? Bíblicamente esto no es posible. Lo que significa es que Dios supo de antemano, vió todos los que creerían en El, entonces pudo preparar y proteger a ellos para recibir la promesa. 
+#### "*Mediante la fe*" no significa nada para el alguno si es requerido cualquiera de los siguientes:
 
-###  1 Pedro 1:5a  "*...Mediante la fe ustedes son protegidos por el poder de Dios,*" 1 Pedro 5:10, 1:9
+##### Obras piadosas que confirmen la autenticidad de la fe.
+
+##### La "gracia de Dios" que nos habilite a creer.
+
+##### Dios tiene que soberanamente decidir al azar quien creerá. 
+
+#### "*Mediante la fe*" es que el creyente sabe en quien ha puesto su confianza. 2 Timoteo 1:12
+
+#### Todo esto sucedió en base al previo conocimiento de Dios. 
+
+#### ¿Específicamente, qué conoció Dios de ante mano? Nuestra fe. 
+
+### ¿Que significa esto? Significa que nuestra fe es el medio por el que tenemos plena seguridad que Dios asegura protegernos para recibir esa herencia reservada para cada uno de los que El conoció de antemano. 
+
+#### Significa que Dios como soberano, decidió que la salvación es específicamente para algunos y otro no? Bíblicamente esto no es viable. Lo que si significa es que Dios supo de antemano, vió todos los que creerían en El. 
+
+### Esta fe no es un mero conocimiento intelectual, sino la confianza que descansa únicamente en Jesucristo y Su obra en la cruz por nuestros pecados. 
 
 #### "*son protegidos*" PHROUREO (presente, pasivo, particípio) - estar o volverse seguro y mantenerse bajo vigilancia.[^1] Somos continuamente los protegidos por Dios. No es nuestra fe que nos protege, es Dios. 
 
-##### Esto es algo asombroso. Vimos previamente que mediante la resurrección de Cristo hemos nacido de nuevo. Ahora vemos que mediante la fe estamos protegidos. 
+##### Esto es algo asombroso. Vimos previamente que "*mediante la resurrección*" de Cristo hemos nacido de nuevo. Ahora vemos que mediante la fe estamos protegidos. 
 
 ##### ¿Es tán poderosa nuestra fe como para protegernos? No. Lo que es poderoso es que Dios declara que todo el que en Él cree, no será decepcionado. 
 
 #### En el plan soberano de Dios, Él estableció que la salvación es únicamente por la fe. El medio por el cual el hombre es salvo es por el medio de la fe en Jesucristo. 
 
-##### ¿Como podemos saber que Dios nos hizo nacer y que Dios nos protege? Mediante nuestra fe. Porque creimos en Él, (conociendolo de antemano) nos hizo nacer de nuevo según su misericordia para recibir una herencia reservada por Él en los cielos. Claramente, el foco es puesto en el omnisciencia, el poder, la misericordia y fidelidad de Dios. 
+##### ¿Cómo podemos saber con seguridad que Dios nos hizo nacer y que Dios nos protege? ¿Cómo se que se aplica a mi? Mediante nuestra fe podemos estar plenamente convencidos que Dios garantiza mi salvación pasada, presente y futura. 
+
+##### Porque creimos en Él, (y Dios conociendolo de antemano) nos hizo nacer de nuevo según su misericordia para recibir una herencia reservada por Él en los cielos. Claramente, el foco es puesto en la omnisciencia, el poder, la misericordia y fidelidad de Dios, pero lo sabemos porque Dios hace todas estas cosas a los que son de la fe. Gálatas 3:9; Romanos 4:16
 
 ###  1 Pedro 1:5b "*para la salvación que está preparada para ser revelada en el último tiempo.*" La salvación preparada para ser revelada en el último tiempo es la glorificación futura de cada creyente de la edad de la Iglesia. 1 Corintios 15:51-53
 
-#### Cada creyente es protegido por el poder de Dios mediante la fe para la glorificación. 
+#### Cada creyente es protegido por el poder de Dios mediante la fe para la glorificación. La salvación (de los que responden mediante la fe) estaba preparada en la soberanía de Dios desde antes de la fundación del mundo y será revelada en el último tiempo. 
 
 #### Revelada APOCALIPTO (aoristo, pasivo, infinitivo) - ser o llegar a ser conocido por el público; especialmente información que anteriormente sólo era conocida por unas pocas personas o que debía mantenerse en secreto.[^1]
 
-### Esta fe no es un mero asentimiento intelectual, sino la confianza descansada únicamente en Jesucristo. 
-
-### En última instancia, la fe hace que la soberanía de Dios en proveer salvación por el medio de la fe en Jesucristo sea confirmada y la promesa entra en juego. El poder de Dios guarda a los creyentes "*mediante la fe*" para la salvación que está preparada para ser revelada en el tiempo postrero, asegurando así que su herencia "*incorruptible e inmaculada, y cuyo destino no está lejos, reservada en los cielos*".
+### En última instancia, la fe hace que la soberanía de Dios en proveer salvación por el medio de la fe en Jesucristo sea confirmada y la promesa entra en juego al individuo. El poder de Dios guarda a los creyentes "*mediante la fe*" para la salvación que está preparada para ser revelada en el tiempo postrero, asegurando así que su herencia "*incorruptible e inmaculada, y cuyo destino no está lejos, reservada en los cielos*".
 
 ## 1 Timoteo 1:6-9 La fe refinada por las pruebas
 
@@ -206,7 +220,7 @@ Bosquejo
 
 ### 1 Pedro 1:7a  "*para que la prueba de la fe de ustedes, más preciosa que el oro que perece, aunque probado por fuego,*" Pedro usa una ilustración de la prueba de oro por fuego para mostrar una verdad espiritual. La fe probada es más precioso que el oro. 
 
-Así como el fuego es bueno para separar el oro de las impurezas, las pruebas en la vida del creyente son buenos para probar su fe. 
+#### Así como el fuego es bueno para separar el oro de las impurezas, las pruebas en la vida del creyente son buenos para probar su fe. 
 
 ### la prueba presente purifica al creyente como el oro es purificado por el fuego. Es importante entender que es bueno el sufrimiento presente. No somos víctimas de las circunstancias sino es "*necesario*" por "*un poco de tiempo*" que seamos "*afligidos con diversas pruebas*". 
 
@@ -286,7 +300,7 @@ Así como el fuego es bueno para separar el oro de las impurezas, las pruebas en
 
 ### 1 Pedro 1:10c "*...diligentemente inquirieron y averiguaron...*" Lucas 10:24
 
-### 1 Pedro 1:11a  "*...procurando saber qué persona o tiempo indicaba el Espíritu de Cristo dentro de ellos...*" 
+### 1 Pedro 1:11a  "*...procurando saber qué persona o tiempo indicaba el Espíritu de Cristo dentro de ellos...*" La revelación de Dios sobre su plan ha sido progresiva. Los que vinieron antes de nosotros (la iglesia) no sabían muchas cosas que a nosotros se nos ha revelado. 
 
 ### 1 Pedro 1:11b "*...al predecir los sufrimientos de Cristo y las glorias que seguirían...*" Los sufrimientos de Cristo fueron predichos pero, ¿que glorias seguirían? 
 
@@ -312,7 +326,7 @@ Así como el fuego es bueno para separar el oro de las impurezas, las pruebas en
 
 ###  1 Pedro 1:13a "*Por tanto...*" equivale a, "en vista del hecho de que aunque están pasando por muchas clases de pruebas (1 Pedro 1:6), sin embargo, porque su herencia celestial les espera" (1 Pedro 1:3-6), preparen su entendimiento para la acción (1 Pedro 1:13).
 
-###  1 Timoteo 1:13b "*preparen su entendimiento...*" No es meramente por conocimiento sino por el entendimiento que proviene Dios. 
+###  1 Timoteo 1:13b "*preparen su entendimiento...*" Es interesante esta expresión...preparen su entendimiento...no dice preparen sus manos o su mente. Dios quiere transformar nuestro entendimiento. Romanos 12:1-2; 2 Corintios 10:5; Salmo 1:2; 1 Pedro 2:9; 
 
 ### 1 Timoteo 1:13c "*para la acción...*" el entendimiento preparado para acción? Recibirían mayor entendimiento? El entendimiento entraría en acción para recibir mayor entendimiento? 
 
@@ -336,9 +350,9 @@ Así como el fuego es bueno para separar el oro de las impurezas, las pruebas en
 
 ###  1 Pedro 1:15a "*sino que así como Aquel que los llamó es Santo...*" estos creyentes expatriados habían sido llamados por una persona. El enfasis aquí no es a donde les llamo, no como les llamo pero que clase de persona es. Dios es santo. 
 
-#### santo HAGIOS significa - separado de la condición y uso común; dedicado. [^4]
+#### "*santo*" HAGIOS - separado de la condición y uso común; dedicado. [^4]
 
-#### Cuando nacimos de nuevo, llegamos a ser declarados santos por medio de Jesucristo el santo. 
+#### Cuando respondimos por la fe al llamado de Dios, llegamos a ser declarados santos por medio de Jesucristo el santo. 
 
 ###  1 Pedro 1:15b *así también sean ustedes santos en toda su manera de vivir.* Como llamados de Dios afuéra del mundo para si mismo, debían tener la forma de vivir que refleja como Dios es. Dios es santo, todo su diario vivir debía ser santo. 
 
@@ -348,7 +362,7 @@ Así como el fuego es bueno para separar el oro de las impurezas, las pruebas en
 
 #### Levítico 19:2 "*Habla a toda la congregación de los israelitas y diles: “Santos serán porque Yo, el SEÑOR su Dios, soy santo.*"
 
-##### Hay que comprender que aunque durante la era de la iglesia ya no estamos bajo la ley sino bajo la gracia, no significa que la santidad de Dios haya cambiado. 
+##### Aunque durante la era de la iglesia ya no estamos bajo la ley sino bajo la gracia, no significa que la santidad de Dios haya cambiado. La santidad de Dios está ligada a quien es Él, no como actúa.
 
 #### “*Séan santos*” (aoristo, pasivo, imperativo) es un mandato pasivo. Esto significa que no nos hacemos santos por nuestro propio esfuerzo, sino que se nos manda que nos permitamos ser santos. Es obra de Dios santificarnos; Pero si Dios lo hace, ¿Porque es un imperativo al creyente?
 
@@ -359,6 +373,10 @@ Así como el fuego es bueno para separar el oro de las impurezas, las pruebas en
 #### "*invocan*" EPICALEOMAI - invocar una deidad para pedir ayuda o protección; especialmente como reconocimiento de sumisión y deferencia a una deidad específica.[^1] Hechos 2:21, 7:59, 9:21; Romanos 10:12, 14; 1 Corintios 1:2; 2 Timoteo 2:22
 
 ###  1 Pedro 1:17b "*condúzcanse con temor durante el tiempo de su peregrinación.*"
+
+#### "*condúzcanse*" ANASTREPHO (aoristo, pasivo, imperativo)- comportarse de una determinada manera, entendido como caminar de un lado a otro en un lugar.[^1]
+
+##### La voz pasiva de condúzcanse nos ayuda entender que debían dejarse conducir por Dios y no hacer en sus propios esfuerzos estando separado de Dios. 
 
 #### "*Peregrinación*" MAGOR - estancia temporal como extranjero; a menudo con derechos limitados.[^1]
 
@@ -384,29 +402,29 @@ Así como el fuego es bueno para separar el oro de las impurezas, las pruebas en
 
 ###  1 Pedro 1:21b "*que lo resucitó de entre los muertos y le dio gloria,*" Creer en Dios llegó a ser posible por medio de Cristo pues Dios lo levantó de los muertos y le hizo sentar a Su diestra. 
 
-###  1 Pedro 1:21c "*de manera que la fe y esperanza de ustedes sean en Dios.*" 
+###  1 Pedro 1:21c "*de manera que la fe y esperanza de ustedes sean en Dios.*" El punto de Pedro es que la victoria desde la perspectiva del creyente esta en la fe. Dios es agradado en la fe. Dios diseño que Sus hijos aprendan a vivir por fe. Habacúc 2:4; Hebreos 10:38; Colosenses 2:6
 
 ## 1 Pedro 1:22-25 Fe en acción a través del amor
 
-###  1 Pedro 1:22a "*Puesto que en obediencia a la verdad ustedes han purificado sus almas*" la obediencia a la verdad llevó a que tengan sus almas purificadas. 
+###  1 Pedro 1:22a "*Puesto que en obediencia a la verdad ustedes han purificado sus almas*" la obediencia a la verdad llevó a que tengan sus almas purificadas. Al haber respondido por la fe, ya habian sido obedientes y el resultado era que 
 
-#### "*han purificado*" HAGNIZO (perfecto, activo, participio) - hacer puro o libre del pecado o la culpa u otros rasgos indeseables. 
+#### "*Puesto que...han purificado*" HAGNIZO (perfecto, activo, participio) - hacer puro o libre del pecado o la culpa u otros rasgos indeseables. [^1]
 
-###  1 Pedro 1:22b "*para un amor sincero de hermanos,*" El hecho que ahora tienen almas purificadas, pueden amarse genuinamente, sin fingimiento. 2 Corintios 6:6
+###  1 Pedro 1:22b "*han purificado sus almas...para un amor sincero de hermanos...*" El hecho que ahora tienen almas purificadas, pueden amarse genuinamente, sin fingimiento. 2 Corintios 6:6
 
 ####  "*Sincero*" ANIPOCRITOS - no fingido; sinceramente sentido o expresado.[^1] 
 
-###  1 Pedro 1:22c "*ámense unos a otros entrañablemente,*" Se pueden amar unos a otros con fervor.
+###  1 Pedro 1:22c "*...ámense unos a otros entrañablemente...*" Se pueden amar unos a otros con fervor.
 
-#### "*Ámense*" (aoristo, activo, imperativo)
+#### "*Ámense*" (aoristo, activo, imperativo) aquí el creyente es 
 
 #### "*Entrañablemente*" EKTENOS - con entusiasmo, de una manera seria, ferviente.
 
-###  1 Pedro 1:22d "*de corazón puro.*" No solo con amor sincero, y entrañablemente sino con pureza de corazón. 
+###  1 Pedro 1:22d "*ámense...de corazón puro.*" No solo con amor sincero, y entrañablemente sino con pureza de corazón. 
 
-###  1 Pedro 1:23a "*Pues han nacido de nuevo...*" (perfecto, pasivo, participio) - habían sido renovados por Dios. 
+###  1 Pedro 1:23a "*ámense...Pues han nacido de nuevo...*" (perfecto, pasivo, participio) - siendo que eran renacidos por Dios estaban creados nuevamente en Cristo para buenas obras. Efesios 2:10; 2 Corintios 5:17-18
 
-###  1 Pedro 1:23b "*no de una simiente corruptible, sino de una que es incorruptible...*" 
+###  1 Pedro 1:23b "*no de una simiente corruptible, sino de una que es incorruptible...*" Nuestro nacimiento es por una simiente divina, celestial (incorruptible) no humana (corruptible)
 
 ###  1 Pedro 1:23c "*es decir, mediante la palabra de Dios que vive y permanece...*"
 
@@ -506,7 +524,7 @@ y rebosa en amor (vv. 22-25).
 
 ### 1 Pedro 2:1a  *"Por tanto, desechando toda malicia..."* Considerando su nueva manera de vivir, sabiendo que fue purificado, nacido de simiente incorruptible, la instrucción es desechar todo lo malo de su anterior manera de vivir. Efesios 4:22, 25, 31; Santiago 1:21
 
-#### La palabra *desechando* [APOTIDSEMI] significa de despojarse, desechar algo, ú echarlo fuera. 
+#### La palabra *desechando* APOTIDSEMI significa despojarse, desechar algo, ú echarlo fuera. 
 
 #### Este verbo se encuentra en tiempo aoristo, medio, participio, dándonos a entender como una invitación constante a ir desechando todas las formas de malicia de su anterior manera de vivir y el creyente lo realiza a su propio beneficio.
 
@@ -550,7 +568,7 @@ y rebosa en amor (vv. 22-25).
 
 ###  1 Pedro 2:2c *"...para que por ella crezcan para salvación,"* La pureza de la palabra llevará a los creyentes hacia la madurez espiritual.
 
-#### La palabra crezcan [AUXANO] es un verbo en tiempo aoristo, pasivo, subjuntivo, la voz pasiva nos muestra que otro es el que realiza la acción. En este contexto Dios es el que da el crecimiento y es el deseo que así sea. 1 Corintios 3:6-7
+#### La palabra crezcan AUXANO es un verbo en tiempo aoristo, pasivo, subjuntivo, la voz pasiva nos muestra que otro es el que realiza la acción. En este contexto Dios es el que da el crecimiento y es el deseo que así sea. 1 Corintios 3:6-7
 
 #### La responsabilidad del creyente para un crecimiento espiritual es un andar en fe, un andar en la carne solo impedirá el crecimiento de los creyentes. 1 Corintios 3:3-5
 
@@ -562,9 +580,9 @@ y rebosa en amor (vv. 22-25).
 
 #### La palabra si es un condicional de primer grado, dándonos a entender que si ya habían probado la bondad del señor.
 
-#### Una traducción de la Biblia textual  nos muestra ... *ya que gustasteis que el Señor es bueno.* (BTX4) 
+#### "...*ya que gustasteis que el Señor es bueno.*" (BTX4) 
 
-#### La bondad de Dios o la benignidad de Dios es un atributo que los creyentes ya conocían cuando fueron rescatados de su antigua manera de vivir. Romanos 2:4 ; Efesios 2:7, 4:32 ; Tito 3:3-7
+#### La bondad de Dios o la benignidad de Dios es un atributo que los creyentes ya conocían cuando fueron rescatados de su antigua manera de vivir. Romanos 2:4; Efesios 2:7, 4:32; Tito 3:3-7
 
 ## 1 Pedro 2:4-8 – Piedras vivas edificando una casa espiritual
 
@@ -572,23 +590,23 @@ y rebosa en amor (vv. 22-25).
 
 #### En estos pasajes veremos seguido el uso de la palabra piedra, esto puede haber sido muy significativo para el apóstol Pedro, debido a que Jesús le cambio el nombre de Simón a Cefas que quiere decir Pedro (PETROS-Piedra). Juan 1: 42
 
-###  1 Pedro 2:4a *"Y viniendo a Él,..."* La palabra viniendo [PROSERJOMAI] significa acercarse, venir hacia, este verbo se encuentra en tiempo presente, pasivo-medio, participio, indicando a los creyentes una invitación constante de que pueden acercarse a él en beneficio suyo.
+###  1 Pedro 2:4a *"Y viniendo a Él,..."* La palabra viniendo PROSERJOMAI significa acercarse, venir hacia, este verbo se encuentra en tiempo presente, pasivo-medio, participio, indicando a los creyentes una invitación constante de que pueden acercarse a él en beneficio suyo.
 
 ###  1 Pedro 2:4b *"...como a una piedra viva,..."* Las piedra es un material inerte y sin vida, generalmente usado en la construcción, sin embargo nos mostrará en esta ilustración a una piedra viviente y el propósito que tiene esta en el plan de Dios.
 
-#### La palabra viva [ZAO] es un verbo en en tiempo presente, activo, participio, dándonos a entender la piedra que hoy esta viva y activamente viviendo.
+#### La palabra viva ZAO es un verbo en en tiempo presente, activo, participio, dándonos a entender la piedra que hoy esta viva y activamente viviendo.
 
 #### La biblia textual lo traduce de la siguiente manera *"Acercándoos a Él, Piedra viviente,...*" (BTX4).
 
-###  1 Pedro 2:4c *"...desechada por los hombres,..."* Esta piedra viva, escogida por Dios fue desaprobada y repudiada por los constructores, en este contexto refiriéndose al rechazo de Israel hacia el mesías. 1 Pedro 2:7 ; Juan 1:11 ; 10:22-25 , 31-33
+###  1 Pedro 2:4c *"...desechada por los hombres,..."* Esta piedra viva, escogida por Dios fue desaprobada y repudiada por los constructores, en este contexto refiriéndose al rechazo de Israel hacia el mesías. 1 Pedro 2:7;  Juan 1:11; 10:22-25, 31-33
 
 #### Este verbo desechar se encuentra en tiempo perfecto, participio dándonos a entender que actualmente lo sigue siendo desechada continuamente en el presente.
 
-###  1 Pedro 2:4d *"...pero escogida y preciosa delante de Dios,"* Esta piedra valiosa fue escogida por Dios mismo con un propósito. 1 Pedro 1:20 ; 2 Timoteo 1:9 ; Tito 1:2 
+###  1 Pedro 2:4d *"...pero escogida y preciosa delante de Dios,"* Esta piedra valiosa fue escogida por Dios mismo con un propósito. 1 Pedro 1:20; 2 Timoteo 1:9; Tito 1:2 
 
 #### Vemos un contraste, ante Dios es preciosa esta piedra, ante los hombres es desechada y reprobada.
 
-###  1 Pedro 2:5 - Ahora muestra a los creyentes como piedras vivas, formando parte en la edificación de una casa espiritual, un sacerdocio santo, mostrando un propósito vivo para Dios.
+##  1 Pedro 2:5 - creyentes como piedras vivas, formando parte en la edificación de una casa espiritual, un sacerdocio santo, mostrando un propósito vivo para Dios.
 
 ###  1 Pedro 2:5a *"también ustedes, como piedras vivas,..."* Considerando el ejemplo de Él (Cristo) como piedra viva, de esa misma manera también ustedes los creyentes sean piedras vivas utilizadas para un propósito.1 Corintios 3:9
 
@@ -596,7 +614,7 @@ y rebosa en amor (vv. 22-25).
 
 #### La biblia textual lo traduce de la siguiente manera, afirmando que los creyentes ya forman parte de la edificación.  *"vosotros también sois edificados como piedras vivientes, casa espiritual..."* BTX4
 
-#### La palabra sean edificados [OIKODOMEO] se encuentra en tiempo presente, pasivo indicativo, mostrando que la acción no es realizada por el creyente,es otro el que realiza la acción al creyente de ser edificados.
+#### La palabra sean edificados OIKODOMEO se encuentra en tiempo presente, pasivo indicativo, mostrando que la acción no es realizada por el creyente,es otro el que realiza la acción al creyente de ser edificados.
 
 ###  1 Pedro 2:5c *"...para un sacerdocio santo,..."* Dentro del contexto de creyentes judíos al que Pedro exponía esta carta, el sacerdocio era un rol dentro de israel muy importante que los creyentes judíos conocían. Éxodo 29:9 
 
