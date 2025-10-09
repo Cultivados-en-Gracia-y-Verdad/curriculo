@@ -1197,31 +1197,75 @@ Estos sacrificios son aceptables a DIos, vemos que el proposito de los sacrifici
 
 ###  1 Pedro 3:8f *"...y de espíritu humilde;"* Nuevamente nos aclara que estas instrucciones no deben ser vistas como realizadas por medio del fingimiento o hipocresía. Sino que esto viene del interior, desde el corazón.
 
-#### Los creyentes debían tener un pensamiento humilde hacia sus hermanos, esto da el énfasis de buscar el bien ajeno, el bien de sus hermanos y actuar en consecuencia.
+#### Los creyentes debían tener un pensamiento humilde o amigable hacia sus hermanos, esto da el énfasis de buscar el bien ajeno, el bien de sus hermanos y actuar en consecuencia.
 
-###  1 Pedro 3:9 *no devolviendo mal por mal,*
+###  1 Pedro 3:9a *"no devolviendo mal por mal, o insulto por insulto,..."* Este mandamiento garantiza completamente, que el creyente recibirá acciones injustas y también insultos.
 
-###  *o insulto por insulto,*
+#### Estas acciones negativas hacia el creyente no deben ser producto de su pecado.
 
-###  *sino más bien bendiciendo,*
+#### Vemos en otros pasajes donde Dios indica tener una buena manera de vivir delante de los gentiles, es decir incredulos (1 Pedro 2:12, 15-16).
 
-###  *porque fueron llamados con el propósito de heredar bendición.*
+#### En el contexto inmediato, este mal podría venir de algún creyente, ya que el énfasis de estos pasajes es la relación entre creyentes. Aun que también podrían recibir el mal de parte de algún incrédulo.
 
-###  1 Pedro 3:10 *Porque, «EL QUE DESEA LA VIDA, AMAR Y VER DÍAS BUENOS,*
+#### De todas maneras, la realidad que Dios planeo para sus creyentes es que cuando lleguen a recibir algún mal, no deben dar a cambio otro mal.
 
-###  *REFRENE SU LENGUA DEL MAL*
+###  1 Pedro 3:9b *"...sino más bien bendiciendo,..."* Dios planeo que cuando Sus santos reciban algún mal, ellos dieran a cambio bendición.
 
-###  *Y SUS LABIOS NO HABLEN ENGAÑO.*
+#### La palabra bendiciendo EULOGUÉO puede hacer referencia a dar palabras bondadosas o realizar un acto bondadoso hacia alguien.
 
-###  1 Pedro 3:11 *APÁRTESE DEL MAL Y HAGA EL BIEN;*
+#### ¿Como podría un creyente que reciba día a día males, devolver bendiciones? ¿Porqué?
 
-###  *BUSQUE LA PAZ Y SÍGALA.*
+###  1 Pedro 3:9c *"...porque fueron llamados con el propósito de heredar bendición."* Pedro recordará una verdad a estos creyentes que reciben males.
 
-###  1 Pedro 3:12 *PORQUE LOS OJOS DEL SEÑOR ESTÁN SOBRE LOS JUSTOS,*
+#### Creyentes, ustedes son los llamados (invitados) de Dios. 1 Pedro 1:15, 2:9
 
-###  *Y SUS OÍDOS ATENTOS A SUS ORACIONES;*
+#### Invitados de Dios para recibir la herencia de Dios, que es Su bendición. 
 
-###  *PERO EL ROSTRO DEL SEÑOR ESTÁ CONTRA LOS QUE HACEN EL MAL».*
+#### Todo lo que el Padre revela en la persona de Su Hijo Cristo y todo lo que ha hecho en Su Hijo Cristo.
+
+#### Todo eso es lo bueno que el padre a provisto para cada creyente suyo.
+
+#### Al considerar estas cosas estarás devolviendo bendición, un pequeño reflejo externo de la Gran bendición que Dios da a todo aquel que obedece (cree) en Su Palabra, Su Evangelio. 1 Pedro 1:25
+
+### 1 Pedro 3:10a *"Porque,..."* El propósito de Dios, de que sus creyentes vivan conforme a lo que Él a provisto para ellos es de beneficio para su realidad física presente. 
+
+###  1 Pedro 3:10b *"Porque, «EL QUE DESEA LA VIDA, AMAR Y VER DÍAS BUENOS,..."* Estos versículos nos mostraran como Dios ve que Sus creyentes pueden disfrutar de:
+
+#### *"LA VIDA"*, el creyente puede gozar de lo que realmente es vida, con gran alegría. Una vida que solo viene por medio de Dios.
+
+#### *"AMAR"*, el creyente puede andar amando durante su estancia aquí en la tierra, esto habla de un amor incondicional, sin buscar nada a cambio. No un amor fingido sino un amor real por medio de Dios.
+
+#### *"VER DÍAS BUENOS"*, El creyente puede disfrutar, experimentar tiempos llenos de dicha.
+
+#### ¿Como sería esto posible? Si los creyentes a los que escribía Pedro eran extranjeros en el lugar en el que estaban, eran judíos, distintos en apariencia y forma de dirigirse día a día. Eran despreciados por la sociedad, afligidos por diversas pruebas.
+
+#### El creyente que anda confiado en la esperanza que de Dios provee, puede llegar a disfrutar de la vida, el amar, y ver días buenos.
+
+#### Y esto no depende de las circunstancias en las que se encontraban, si no esto es en base a la realidad que Dios aclara a través de Su Palabra. Es la diferencia entre lo que el mundo muestra, y Dios el Todopoderoso y Guardian de sus almas muestra.
+
+#### Si el creyente anda conforme a la verdad de Dios, entonces podrá cumplir las siguientes indicaciones que se mostrarán, de esa manera también disfruta de lo que Dios le ha dado en Su gracia como ya leímos.
+
+###  1 Pedro 3:10c *"...REFRENE SU LENGUA DEL MAL..."*  El creyente no debe utilizar su lengua para el mal, lastimándose y lastimando a otros, sino para el bien.
+
+###  1 Pedro 3:10d *"...Y SUS LABIOS NO HABLEN ENGAÑO."* El creyente no debe usar sus labios para la mentira hacia los demás.
+
+###  1 Pedro 3:11a *"APÁRTESE DEL MAL Y HAGA EL BIEN;"* El creyente debe desviarse de un andar de maldad y practicaría el bien.
+
+###  1 Pedro 3:11b *"BUSQUE LA PAZ Y SÍGALA."* El creyente debe buscar, desear la paz y también perseguirla, habla de una actividad constante de procurar la paz. Esto debería ser el pensamiento de cada uno de los creyentes.
+
+###  1 Pedro 3:12a *"PORQUE LOS OJOS DEL SEÑOR ESTÁN SOBRE LOS JUSTOS,..."* Lo que nos muestra a continuación es lo atento que esta el SEÑOR DIOS, para con Sus justos.
+
+#### Si bien el Señor guarda eternamente a Sus justificados, ellos están en paz con Él para siempre por medio de la fe en Cristo. Romanos 5:1-2
+
+####  Este cuidado del Señor para con Sus justos va en relación al andar esperado del justo de Dios. El justo viviendo a la Justicia de Dios, esto claramente por medio de la obra de Cristo en la cruz. 1 Pedro 2:24
+
+#### Este pasaje nos muestra como Dios vela por el cuidado del justo.
+
+###  1 Pedro 3:12b *"...Y SUS OÍDOS ATENTOS A SUS ORACIONES;"* El Señor esta atento a las oraciones de su justo que anda en justicia.
+
+###  1 Pedro 3:12c *"PERO EL ROSTRO DEL SEÑOR ESTÁ CONTRA LOS QUE HACEN EL MAL»."* La triste realidad para el injusto que practica la injusticia, es que Dios le da la espalda. No goza de la dicha del cuidado de su alma del Señor Todopoderoso.
+
+#### Es la realidad que Dios esta mostrando a sus creyentes, lo que el a provisto para sus salvos y lo que el priva para los desobedientes (incrédulos).
 
 # 1 Pedro 3:13-5:14 - GRACIA EN EL SUFRIMIENTO
 
