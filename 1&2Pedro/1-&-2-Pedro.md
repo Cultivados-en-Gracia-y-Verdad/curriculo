@@ -1175,17 +1175,29 @@ Estos sacrificios son aceptables a DIos, vemos que el proposito de los sacrifici
 
 ## A todos
 
-###  1 Pedro 3:8 *En conclusión, sean todos*
+###  1 Pedro 3:8a *"En conclusión, sean todos..."* Como ultima instrucción respecto a las relaciones entre creyentes, esta vez Pedro se dirigirá a todos.
 
-###  *de un mismo sentir,*
+###  1 Pedro 3:8b *"...de un mismo sentir,..."* la RV la traduce de esta manera "de un mismo corazón". 
 
-###  *compasivos,*
+####  El pasaje es claro, la unión que indica es en la manera de pensar.
 
-###  *fraternales,*
+#### No sería correcto verlo como unidad por medio de alguna actividad en común, tolerancia hipócrita o inclusive una unidad por medio de la ignorancia. Tampoco sería correcto una unidad en la manera de pensar de los creyentes, pero con un enfoque o pensamiento humano. ¿Porqué?
 
-###  *misericordiosos,*
+#### Esta instrucción es dada a creyentes, santos, personas redimidas de su vacía manera de vivir por la ignorancia que tenían a la verdad de Dios.
 
-###  *y de espíritu humilde;*
+#### Esta unidad de pensamiento que se indica a los todos los creyentes, viene de la unidad en la verdad de Dios que comparten, como veremos mas adelante en el versículo 9 "fueron llamados con el propósito de heredar bendición", este mismo sentir no viene de pensamiento humano, sino de la sabiduría de Dios.
+
+###  1 Pedro 3:8c *"...compasivos,..."* Todos debían ser compasivos. Estos creyentes se encontraban pasando por diversas pruebas, aflicciones. Pero el Señor les proveía por medio del cuerpo de Cristo (entre ellos), compadecerse unos a otros, comprender el dolor ajeno de su hermano o hermana.
+
+###  1 Pedro 3:8d *"...fraternales,..."* Deberían tener un amor de hermanos unos a otros y eso es lo que justamente eran, hermanos, hijos de Dios. 
+
+####  Estaban exiliados de su tierra, muchos alejados de sus familias físicas, pero por medio de Dios, podrían disfrutar de un amor de familia, un amor fraternal.
+
+###  1 Pedro 3:8e *"...misericordiosos,..."* Esta palabra indica a comprenderse unos a otros las aflicciones de sus hermanos y actuar con clemencia, a socorrer al hermano afligido. Muy probablemente no es algo que encontrarían de manera palpable en el mundo.
+
+###  1 Pedro 3:8f *"...y de espíritu humilde;"* Nuevamente nos aclara que estas instrucciones no deben ser vistas como realizadas por medio del fingimiento o hipocresía. Sino que esto viene del interior, desde el corazón.
+
+#### Los creyentes debían tener un pensamiento humilde hacia sus hermanos, esto da el énfasis de buscar el bien ajeno, el bien de sus hermanos y actuar en consecuencia.
 
 ###  1 Pedro 3:9 *no devolviendo mal por mal,*
 
