@@ -612,66 +612,57 @@ y rebosa en amor (vv. 22-25).
 
 ###  1 Pedro 2:5d *"...para ofrecer sacrificios espirituales aceptables a Dios...* Un sacerdote de Israel realizaba sacrificios de animales según lo establecido por la ley. Levítico 17
 
-#### La palabra ofrecer ANAFERO se encuentra en tiempo aoristo, activo, infinitivo, instruyendo a los creyentes (Sacerdotes santos) el realizar de manera continua sacrificios espirituales agradables a Dios.
+#### Los sacerdotes israelitas tenían que santificarse o purificarse primeramente y despues ofrecer un sacrificio, ahora los creyentes ya han sido purificados por medio de la sangre de Jesucristo, para ofrecer sacrificios vivos.
 
-#####  ¿Qué es un sacrificio espiritual? Romanos 15:16; Hebreos 13:15
+#### La palabra ofrecer ANAFERO se encuentra en tiempo aoristo, activo, infinitivo, instruyendo a los creyentes (Sacerdotes santos) el realizar de manera continua sacrificios espirituales que sean agradables a Dios.
 
-#### 
+####  ¿Qué es un sacrificio espiritual?. En el del antiguo testamento se realizaban sacrificios muertos de animales, sin embargo ahora en el nuevo testamento podemos ver sacrificios vivos, sacrificios espirituales aceptables a Dios. Hebreos 13:15; Efesios 5:2; Romanos 15:16 
 
+### 1 Pedro 2:5d *"...por medio de Jesucristo."* Para que un sacrifio sea aceptable a Dios, nos muestra el medio por el cual son los creyentes pueden ofrecerse como sacrificios vivos aceptables a Dios, el medio para que sea aceptable es Jesucristo.
 
-Estos sacrificios son aceptables a DIos, vemos que el proposito de los sacrificios animales que exigía la ley eran sombra de lo que había de venir, sin embargo ahora vemos sacrificos espirituales aceptables a Dios.
+#### Cristo es el la ofrenda escogida de Dios, de la manera que fue aceptada la ofrenda de Jesucristo, ahora los creyentes nos acercamos y ofrecemos sacrificios por medio de el. Hebreos 9:11-14, 10:10-14, 13;5 ; Romanos 12:1
 
-###  *por medio de Jesucristo.*
-#### Estos sacrificios espirituales, son únicamente aceptables por medio de Jesucristo, no hay otra manera, u otro medio para ofrecer sacrificios agradables al Dios eterno.
+###  1 Pedro 2:6a *"Pues esto se encuentra en la Escritura:..."* El apostol Pedro mostrará y explicará estos pasajes que se encuentran dentro de la escritura en el profeta Isaías referentes a Cristo. Isaías 28:16
 
-###  1 Pedro 2:6 *Pues esto se encuentra en la Escritura:*
+### 1 Pedro 2:6b *"...«YO, PONGO EN SIÓN UNA PIEDRA ESCOGIDA, UNA PRECIOSA piedra ANGULAR,..."* Este pasaje nos mostrará el propósito que Dios escogió para con esta piedra anunciada por medio de los profetas, algo totalmente precioso a la vista de Dios.
 
-#### Vemos que pedro cita la escritura, de una piedra en Sion Isa. 28:16; Rom. 9:32, 33; 10:11
+#### Esta piedra (Cristo), es una preciosa piedra angular, en la construcción de edificaciones la piedra angular era la pieza más importante del edificio el edificio empezaba y terminaba en esta piedra angular, eran una piedra dificultosas de conseguir, debido a que tenía que ser en un ángulo recto y preciso.
 
-###  *«YO, PONGO EN SIÓN UNA PIEDRA ESCOGIDA, UNA PRECIOSA piedra ANGULAR, Y EL QUE CREA EN ÉL NO SERÁ AVERGONZADO».*
-#### Esta piedra escogida, es una piedra escogida precísamente por DIos mismo
+### 1 Pedro 2:6c *"...Y EL QUE CREA EN ÉL NO SERÁ AVERGONZADO»"* En este pasaje nos aclarará quien es la piedra escogida y su propósito. Nos habla de creer, específicamente en Él,Jesús la piedra escogida y angular. 
+ 
+#### El verbo creyere [PISTEUO] se encuentra en tiempo presente, activo, participio, indicando la acción continua en tiempo presente.
 
-#### Esta piedra, es una preciosa piedra angular, de acuerdo con la historia estas piedras angulares eran dificultosas de conseguir, y escoger, debido a que eran la guía para la base en esquina de la casa, el arranque, y necesitaba ser completamente precisa en su diseño y función, era la parte mas importante del edificio, el cual empezaba ahí y terminaba ahí.
+#### ¿Por que sería causa de verguenza creer en esta piedra? Muchas veces en la escritura vemos como el evangelio no es causa de verguenza, sin embargo Pedro anima a los creyentes a no sentirse avergonzados por creer en Él. Romanos 1:16 ; Hebreos 12:2 ; 1 Corintios 1:18
 
-#### Es interesante, Esta mención de Piedra es para el que crea, referiendose a Jesucristo, el que crea en Él, [Jesús] no sera avergonzado, haciendo referencia a la piedra escogida, angular.
+###  1 Pedro 2:7a *"Este precioso valor es, pues, para ustedes los que creen;..."* Nos muesta que los creyentes realmente aprecian el valor de esta piedra escogida, preparada para un propósito planificado por Dios. 
 
-###  1 Pedro 2:7 *Este precioso valor es, pues, para ustedes los que creen;*
+### 1 Pedro 2:7b  *"...pero para los que no creen, «LA PIEDRA QUE DESECHARON LOS CONSTRUCTORES, ESA, EN PIEDRA ANGULAR SE HA CONVERTIDO»,"* Nos mostrará el valor incomparable que rechazaron los que no creen.
 
-#### Los que creen en esta piedra, es de muchísimo y precioso valor,
+#### Los constructores que lo rechazaron, no entendieron el propósito de esta piedra angular que venía de Israel para salvación a todo el mundo, ellos rechazaron la piedra más importante de la obra de Dios. Juan 1:11-12 ; Romanos 1:16
 
-#### Los creyentes en jesucristo realmente valoran esta piedra angular y el valor que tiene.
+###  1 Pedro 2:8a *"y, «PIEDRA DE TROPIEZO Y ROCA DE ESCÁNDALO»...."* Para los que lo rechazaron esta piedra simplemente significaba tropiezo para el judío, y escándalo para los que lo anunciaban, sin embargo ya estaba profetizado este rechazo de su pueblo. Isaías 8:14; 1 Corintios 1:23
 
-###  *pero para los que no creen, «LA PIEDRA QUE DESECHARON LOS CONSTRUCTORES, ESA, EN PIEDRA ANGULAR SE HA CONVERTIDO»,*
-#### Vemos un contraste con los que rehusan a creer, no entienden el valor de esta piedra y tampoco su propósito.
+###  1 Pedro 2:8b *"...Pues ellos tropiezan porque son desobedientes a la palabra,..."* El apostol Pedro explica el motivo de tropiezo, los que profesaban estar en completo de acuerdo con la palabra actuaron en completa desobediencia a las escrituras con lo que Dios había prometido, debido a que las escrituras apuntaban a Cristo y ellos lo rechazaron. Juan 5:39; Lucas 2:34  
 
-#### Esta piedra desecharon los constructores, referiendose a Israel, los que formaban parte del pueblo de Dios, ellos rechazaron la piedra más importante de la obra de Dios que estaba haciendo, para ellos era, y de ellos era, y por ellos vino Jesucristo, pero rechazaron la pieza mas importante de la obra que DIos estaba haciendo.
+#### En la carta de Romanos nos muestra como tropezaron con la piedra por no ir tras ella por fe. Romanos 9:32-33, 10:11
 
-###  1 Pedro 2:8 *y, «PIEDRA DE TROPIEZO Y ROCA DE ESCÁNDALO».*
+### 1 Pedro 2:8c *"...y para ello estaban también destinados."* Es importante aclarar este pasaje, debido a que Dios no esta destinando para perdición o para salvación a las personas, sinó el muestra el destino de los que lo rechazan, estos son los que   tropezaron y cayeron. 
 
-#### Ellos categorizan esta piedra como una de tropiezo, es algo en lo que un judío tropieza, y lo bota mas lejos, por que no es bueno que este ahí, les hace tropezar en su camino.
+#### En la carta de Romanos nos muestra vasos preparados para la destrucción, sin embargo en este pasaje no nos habla referente a la salvación o perdición de estos vasos, sinó nos habla de como Dios puede usar a Faraón para cumplir sus propósitos. Romanos 9:17-22
 
-#### Esta roca de escándalo, es precisamente para ellos, sin embargo es un escándalo decir que esta piedra Jesucristo, forma parte del plan eterno de Dios, es motivo de gritos de impunidad o escandalizarse por esta piedra.
+## 1 Pedro 2:9-10 – La nueva realidad de los creyentes
 
-###  *Pues ellos tropiezan porque son desobedientes a la palabra,*
+#### En estos pasajes nos motrará cual es la relación de los creyentes para con Dios y cual es el propósito de los creyentes hacia el mundo.
 
-#### Pedro expresa el motivo de tropiezo, con esta piedra, el problema no es la piedra, ni la forma, sinó el problema son los que tropiezan con ella, el problema es que son completamente desobedientes a la palabra,
+###  1 Pedro 2:9a *"Pero ustedes son linaje escogido,..."* La condición del creyente nos muestra que ahora es parte del un linaje escogido de Dios, forman ahora parte de la familia de Dios.
 
-#### Los que profesaban estar en completo de acuerdo con la palabra, vemos tropezar y ser desobedientes con lo que Dios ha prometido,
+#### La palabra escogido [EKLEKTOS] es un sustantivo que nos muestra su nueva identidad del creyente para con Dios. 
 
-#### Es por eso que El evangelio es según las escrituras, y los que rechazan a Jesucristo la piedra angular, rechazan directamente la palabra y son desobedientes a ella. teniendo por piedra de Tropiezo y estorbo, a la parte mas importante del edificio que Dios dió a los edificadores.
+#### Cabe aclarar que en este pasaje no se encuentra hablando de como ser salvo, o Dios escogiendo para salvación, sinó está mostrando un propósito que tiene para los creyentes, anunciar las virtudes de aquel...
 
-###  *y para ello estaban también destinados.*
-#### Este destino para estos desobedientes estaba contemplado por Dios y profetizado anteriormente que no todos serían obedientes a la fe, al evangelio, a la palabra
+#### En el antiguo testamento vemos a Dios escogiendo una persona, una nación para anunciar al mundo la verdad. Génesis 12:1-3; Deuteronomio 7:6-8; Isaías 49:6; Hechos 13:46-47
 
-#### Es importante detallar los vasos preparados para la destrucción. El destino de los basos que iban a rechazar al mesías.
-
-###  1 Pedro 2:9 *Pero ustedes son linaje escogido,*
-
-#### Los creyentes, son ahora linaje escogido. empezará a mencionar que es lo que son los creyentes en relación al mundo entero, Este linaje es totalmente escogido por DIos, 
-
-#### Como es que un creyente forma parte de los escogidos?, Efesios nos muestra como un creyente es parte de los escogidos En Cristo
-
-###  *real sacerdocio,*
+###  1 Pedro 2:9b *"...real sacerdocio,..."*
 
 #### Antes Israel tenía un sacerdocio sobre las cosas espirituales de Dios a todas las naciones, ahora nos muestra un sacerdocio, completamente real, o realeza.
 
