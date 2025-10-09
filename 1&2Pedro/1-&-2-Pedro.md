@@ -3,7 +3,7 @@ Title: 1 & 2 Pedro
 ---
 
 # 1 y 2 Pedro
-## Durante su peregrinación
+## Renacidos a una viva esperanza
 
 # 1 Pedro
 
@@ -35,52 +35,40 @@ Title: 1 & 2 Pedro
 | ---- | -------------------------------------------- | ------ |
 | I    | Introducción                                 |        |
 | II   | 1 Pedro 1:3-2:10 EL TRIUNFO DE LA FE         |        |
-| III  | 1 Pedro 2:11-3:12 PIEDOSOS EN EL SUFRIMIENTO |        |
+| III  | 1 Pedro 2:11-3:12 PIADOSOS EN EL SUFRIMIENTO |        |
 | IV   | 1 Pedro 3:13-5:14 GRACIA EN EL SUFRIMIENTO   |        |
 
 # 1 Pedro 1:1-2:10 – EL TRIUNFO DE LA FE
 
 ## 1 Pedro 1:1-2 – Saludos e identificados por fe
 
-###  1 Pedro 1:1 *Pedro,* Pedro es autor del libro (1 Pedro 5:1) pero lo hizo por medio de Silvano (1 Pedro 5:12). 
+###  1 Pedro 1:1a *Pedro,* Pedro es autor del libro (1 Pedro 5:1) pero lo hizo por medio de Silvano (1 Pedro 5:12). 
 
-####  ¿Quién es Pedro? 
-
-##### Pedro, originalmente Simon, era pescador, nacido en Betsaida. Juan 1:42-44; Mateo 4:19
+####  ¿Quién es Pedro? Pedro, originalmente Simon, era pescador, nacido en Betsaida. Juan 1:42-44; Mateo 4:19
 
 ##### Pedro era casado y tenía casa en Capernaúm. Su suegra vivía con ellos. Su padre se llamaba Jonás. Lucas 4:31, 38-40
 
 #### Pedro había sido presentado a Jesús por su hermano Andrés. Juan 1:40-42
 
-##### Pedro era uno de tres discipulos que estuvieron presentes en tres eventos: 
+##### Pedro era uno de tres discipulos que estuvieron presentes en tres eventos: Resucitación de la hija de Jairo (Marcos 5:37), La transfiguración de Jesús (Mateo 17:1), La agonía de Jesús en el jardín de getsemani (Mateo 26:37). 
 
-###### Resucitación de la hija de Jairo. Marcos 5:37
-
-###### La transfiguración de Jesús. Mateo 17:1
-
-###### La agonía de Jesús en el jardín de getsemani. Mateo 26:37
-
-##### Pedro era un apostol a los judíos. Gálatas 2:8
+##### Pedro era enviado a los judíos. Gálatas 2:8
 
 ##### Pedro naturalmente era pronto para hablar y actuar impulsivamente. Juan 18:10; Marcos 9:5-6
 
 #### Aunque Pedro probablemente estuvo en Roma, no creemos que la mención de Babilonia representa a Roma. Habían muchos judios exiliados 600 años antes bajo Nabucodonosor. Muchos nunca regresaron a Judá.  
 
-### Su muerte
-
 #### La tradición de la Iglesia dice que Pedro murió crucificado (con los brazos extendidos). Esto probablemente tuvo lugar tres meses después del desastroso incendio que destruyó Roma por el cual el emperador Nerón quiso culpar a los cristianos.[^8]
 
-###  1 Pedro 1:1 *apóstol de Jesucristo:* Pedro es un apóstol de Jesucristo. Sus credenciales vienen de Jesucristo. 2 Pedro 1:1; Mateo 4:18 
+###  1 Pedro 1:1b "*apóstol de Jesucristo:*" Pedro es un apóstol de Jesucristo. Sus credenciales vienen de Jesucristo. 2 Pedro 1:1; Mateo 4:18 
 
 #### Pedro es uno de doce Apóstoles. Mateo 10:2; Marcos 3:16
 
-### Los recipientes de la carta
+###  1 Pedro 1:1c "*A los expatriados, de la dispersión...*" la carta es escrita a los extranjeros temporales PAREPIDEMOS de creyentes judios esparcidos.1 Pedro 5:14; Santiago 1:1
 
-###  1 Pedro 1:1a "*A los expatriados, de la dispersión...*" la carta es escrita a los extranjeros temporales PAREPIDEMOS de creyentes judios esparcidos.1 Pedro 5:14; Santiago 1:1
+###  1 Pedro 1:1d "*en el Ponto, Galacia, Capadocia, Asia y Bitinia...*" Específicamente es escrito a los esparcidos ubicados modernamente en el norte de Turquía. 1 Pedro 2:11
 
-###  1 Pedro 1:1b "*en el Ponto, Galacia, Capadocia, Asia y Bitinia...*" Específicamente es escrito a los esparcidos ubicados modernamente en el norte de Turquía. 1 Pedro 2:11
-
-###  1 Pedro 1:1c Quienes son..."*elegidos*" EKLEKTOS los escogidos fuera. 1 Pedro 2:9; Mateo 22:14
+###  1 Pedro 1:1e Quienes son..."*elegidos*" EKLEKTOS los escogidos fuera. 1 Pedro 2:9; Mateo 22:14
 
 #### Elegidos EKLEKTOS puede ser:
 
@@ -144,7 +132,7 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 1:3b "*nos ha hecho nacer de nuevo...*" ha sido por Su gran misericordia que El no hizo nacer de nuevo. Tito 1:2, 3:5; 1 Pedro 1:21; Gálatas 6:16
 
-#### La frase "*Hecho nacer de nuevo*" es ANAGENNAO que significa renovar; concebido como causante de un segundo nacimiento.[^1]
+#### La frase "*Hecho nacer de nuevo*" ANAGENNAO que significa renovar; concebido como causante de un segundo nacimiento.[^1]
 
 #### La salvación es de Dios (Jonás 2:9). Si hemos recibido la salvación, tiene que ser de Dios. Si nacimos de nuevo, no es causa nuestra, es por Dios quien tuvo misericordia. Santiago 1:18; 1 Pedro 1:23
 
@@ -204,7 +192,7 @@ Title: 1 & 2 Pedro
 
 #### Cada creyente es protegido por el poder de Dios mediante la fe para la glorificación. La salvación (de los que responden mediante la fe) estaba preparada en la soberanía de Dios desde antes de la fundación del mundo y será revelada en el último tiempo. 
 
-#### Revelada APOCALIPTO (aoristo, pasivo, infinitivo) - ser o llegar a ser conocido por el público; especialmente información que anteriormente sólo era conocida por unas pocas personas o que debía mantenerse en secreto.[^1]
+#### "*Revelada*" APOCALIPTO (aoristo, pasivo, infinitivo) - ser o llegar a ser conocido por el público; especialmente información que anteriormente sólo era conocida por unas pocas personas o que debía mantenerse en secreto.[^1]
 
 ### En última instancia, la fe hace que la soberanía de Dios en proveer salvación por el medio de la fe en Jesucristo sea confirmada y la promesa entra en juego al individuo. El poder de Dios guarda a los creyentes "*mediante la fe*" para la salvación que está preparada para ser revelada en el tiempo postrero, asegurando así que su herencia "*incorruptible e inmaculada, y cuyo destino no está lejos, reservada en los cielos*".
 
@@ -244,11 +232,11 @@ Title: 1 & 2 Pedro
 
 ### 1 Pedro 1:8b "*y a quien ahora no ven, pero creen en Él...*" En medio de las circunstancias adversas su mirada de la fe estaba puesta en Él.  Juan 20:29; Hebreos 11:1
 
-#### "*creen*" PISTEUO es  (presente, activo, participio). Ellos estaban siendo creyentes en Él. No estaban siendo distraídos ni desanimados por ser desterrados ni perseguidos. 
+#### "*creen*" PISTEUO (presente, activo, participio) confianza, fe. Ellos estaban siendo creyentes en Él. No estaban siendo distraídos ni desanimados por ser desterrados ni perseguidos. 
 
 ### 1 Pedro 1:8c "*y se regocijan grandemente con gozo inefable y lleno de gloria,*" el resultado de estar atesorando Su Palabra por la fe y mirando la pronta venida de Jesucristo, resulta en ser gozosos y llenos de gloria. Romanos 15:13
 
-### 1 Pedro 1:9  "*obteniendo, como resultado de su fe, la salvación de sus almas.*" La santificación es la salvación de nuestras almas que es un resultado de nuestra fe. Colosenses 2:6, Romanos 6:22
+### 1 Pedro 1:9  "*obteniendo, como resultado de su fe, la salvación de sus almas.*" La santificación es la salvación de nuestras almas que es un resultado de nuestra fe. Colosenses 2:6; Romanos 6:22
 
 #### No solo resulta en gozo y gloria en el presente y el futuro sino que hay salvación de almas. 
 
@@ -256,11 +244,11 @@ Title: 1 & 2 Pedro
 
 #### Que significa esta expresión, ¿la salvación de sus almas?
 
-##### La Biblia RVR09 dice, "*Obteniendo el fin de vuestra fe, que es la salud de vuestras almas*". 
+##### La Biblia dice, "*Obteniendo el fin de vuestra fe, que es la salud de vuestras almas*". (RVR09)
 
 ## En Síntesis (1 Timoteo 1:3-9)
 
-### LA GARANTÍA DE NUESTRA SALVACIÓN (1:3-5)
+### La garantía de nuestra salvación (1:3-5)
 
 ### La prueba (1:3): Está garantizada por la resurrección de Cristo.
 
@@ -268,7 +256,7 @@ Title: 1 & 2 Pedro
 
 ### El poder (1:5): El gran poder de Dios nos asegura que llegaremos sanos y salvos al cielo.
 
-### EL GOZO DE NUESTRA SALVACIÓN (1:6-9)
+### El gozo de nuestra salvación (1:6-9)
 
 ### La promesa: Este gozo puede ser nuestro incluso en medio de las pruebas. (1:6)
 
@@ -326,7 +314,7 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 1:13a "*Por tanto...*" equivale a, "en vista del hecho de que aunque están pasando por muchas clases de pruebas (1 Pedro 1:6), sin embargo, porque su herencia celestial les espera" (1 Pedro 1:3-6), preparen su entendimiento para la acción (1 Pedro 1:13).
 
-###  1 Timoteo 1:13b "*preparen su entendimiento...*" Es interesante esta expresión...preparen su entendimiento...no dice preparen sus manos o su mente. Dios quiere transformar nuestro entendimiento. Romanos 12:1-2; 2 Corintios 10:5; Salmo 1:2; 1 Pedro 2:9; 
+###  1 Timoteo 1:13b "*preparen su entendimiento...*" Es interesante esta expresión...preparen su entendimiento...no dice preparen sus manos o su mente. Dios quiere transformar nuestro entendimiento. Romanos 12:1-2; 2 Corintios 10:5; Salmo 1:2; 1 Pedro 2:9
 
 ### 1 Timoteo 1:13c "*para la acción...*" el entendimiento preparado para acción? Recibirían mayor entendimiento? El entendimiento entraría en acción para recibir mayor entendimiento? 
 
@@ -624,7 +612,7 @@ y rebosa en amor (vv. 22-25).
 
 ###  1 Pedro 2:5d *"...para ofrecer sacrificios espirituales aceptables a Dios...* Un sacerdote de Israel realizaba sacrificios de animales según lo establecido por la ley. Levítico 17
 
-#### La palabra ofrecer [ANAFERO] se encuentra en tiempo aoristo, activo, infinitivo, instruyendo a los creyentes (Sacerdotes santos) el realizar de manera continua sacrificios espirituales agradables a Dios.
+#### La palabra ofrecer ANAFERO se encuentra en tiempo aoristo, activo, infinitivo, instruyendo a los creyentes (Sacerdotes santos) el realizar de manera continua sacrificios espirituales agradables a Dios.
 
 #####  ¿Qué es un sacrificio espiritual? Romanos 15:16; Hebreos 13:15
 
@@ -645,7 +633,7 @@ Estos sacrificios son aceptables a DIos, vemos que el proposito de los sacrifici
 
 #### Esta piedra, es una preciosa piedra angular, de acuerdo con la historia estas piedras angulares eran dificultosas de conseguir, y escoger, debido a que eran la guía para la base en esquina de la casa, el arranque, y necesitaba ser completamente precisa en su diseño y función, era la parte mas importante del edificio, el cual empezaba ahí y terminaba ahí.
 
-#### Es interesante, Esta mención de Piedra es para el que crea, referiendose a Jesucristo, el que crea en Él,[Jesús] no sera avergonzado, haciendo referencia a la piedra escogida, angular.
+#### Es interesante, Esta mención de Piedra es para el que crea, referiendose a Jesucristo, el que crea en Él, [Jesús] no sera avergonzado, haciendo referencia a la piedra escogida, angular.
 
 ###  1 Pedro 2:7 *Este precioso valor es, pues, para ustedes los que creen;*
 
