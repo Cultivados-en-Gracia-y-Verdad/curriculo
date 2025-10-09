@@ -1341,7 +1341,7 @@ Estos sacrificios son aceptables a DIos, vemos que el proposito de los sacrifici
 
 ##### por lo tanto podríamos decir 1 Pedro 4:1: "Ya que Cristo padeció en la carne,..." (BJ 1975), o también, conociendo que el Señor Jesucristo sufrió en su propio cuerpo por hacer lo bueno. Hebreos 5:7, 9
 
-###  1 Pedro 4:2c "*...ármense también ustedes con el mismo propósito,...*" JOPLIZO es la palabra usada para dar la idea de llevar un equipo de armamento.
+###  1 Pedro 4:1c "*...ármense también ustedes con el mismo propósito,...*" JOPLIZO es la palabra usada para dar la idea de llevar un equipo de armamento.
 
 #### La biblia versión (RVR60) traduce, "*... armaos del mismo pensamiento;*" El pensamiento que tuvo Cristo fue mucho mayor que los padecimientos que el llevaria, ya que su mirada estaba dirigido a algo mucho más superior que los sufrimientos pasajeros, ya que su gozo estaba siempre delante de Él. Hebreos 12:2
 
@@ -1349,7 +1349,13 @@ Estos sacrificios son aceptables a DIos, vemos que el proposito de los sacrifici
 
 #### Por eso la audiencia de Pedro debia  equiparse con ese armamento de tener el mismo pensamiento que tuvo Cristo.
 
-###  *pues quien ha padecido en la carne ha terminado con el pecado,* 
+###  1 Pedro 4:1d "*... pues quien ha padecido en la carne...*" Su sufrimiento tuvo un propósito, tuvo un motivo, no fue un sufrimiento vano o vacío, tenia un gran propósito, tuvo un porque, así como lo traduce la versión (BAD 1989) "… porque el que ha sufrido en el cuerpo…"
+
+#### Su sufrimiento anunciado y llevado a cabo de manera literal, no termino con el dolor de la muerte, sino que terminó en victoria. Hechos 2:24
+
+### 1 Pedro 4:1e: "… ha terminado con el pecado," el dominio mortal del pecado, llego a tener su fin, por un hombre que en debilidad y dispuesto a sufrir por hacer el bien, teniendo su mirada en el gozo que estaba delante de Él, puso fin al pecado y todo su dominio. Romanos 6:7, 10.
+
+#### Es por eso que Pedro muestra a su audiencia como el armarse con la mente de Cristo, nos llena de valor, sabiendo y confiando que Dios no lo deja sin propósito, uno es bienaventurado si sufre por tener el mismo pensamiento que tuvo Cristo. Mateo 5:11-12; Filipenses 2:5-11; Colosenses 1:24; 1 Pedro 1:13, 4:12
 
 ###  1 Pedro 4:2 *para vivir el tiempo que le queda en la carne,*
 
