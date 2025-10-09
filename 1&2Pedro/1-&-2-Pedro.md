@@ -1251,11 +1251,23 @@ Estos sacrificios son aceptables a DIos, vemos que el proposito de los sacrifici
 
 # 1 Pedro 4:1-6 – Viviendo para la voluntad de Dios
 
-###  1 Pedro 4:1 *Por tanto, puesto que Cristo ha padecido en la carne,*
+### 1 Pedro 4:1 El sufrimiento de Cristo como un ejemplo para armarse del mismo proposito 1Pedro 2:21
+
+#### Cristo en su buena conducta y haciendo lo bueno, aunque padecio en el cuerpo, aquel sufrimiento fue pequeño comparado con la victoria que obtuvo de vencer el pecado, vencer el mal con el bien. Este pasaje no esta enseñando asetismo, sino que este sufrimiento es causado por hacer el bien 1 Pedro 2:21-22.
+
+#### Este pasaje no esta enseñando a que un creyente debe buscar sufrir para vencer al pecado, como lo da a entender la versión (TLA) 1 Pedro 4:1: "*... Si ustedes sufren como Cristo, ya no seguirán pecando.*" Esta traducción no es correcta. Esto contradeciria Romanos 6:10-11
+
+#### 2 timoteo 3:12 dice: "*Y en verdad, todos los que quieren vivir piadosamente en Cristo Jesús, serán perseguidos.*" Esta es una realidad que todo creyente debe esperar. Es por eso que Pedro quiere enseñar a su audiencia a que puedan contemplar el ejemplo de Cristo, que obtiene gran ganancia. 1 Pedro 1:7
+
+#### la palabra padecimiento "PASJO" o sufrimiento, de las 4 veces mencionadas en este capítulo, 2 veces son usadas en este versiculo, lo que nos muestran la importancia del padecimiento de Cristo como base para todo el capitulo, sin dejar de lado lo que ya ha estado enseñando anteriormente, ya en esta carta 11 veces se menciona la palabra griega "PASJO".
+
+### 1 Pedro 4:1 "*Por tanto,...*" 
+
+### 1 Pedro 4:1 "*...puesto que Cristo ha padecido en la carne,*"
 
 ###  *ármense también ustedes con el mismo propósito,*
 
-###  *pues quien ha padecido en la carne ha terminado con el pecado,*
+###  *pues quien ha padecido en la carne ha terminado con el pecado,* 
 
 ###  1 Pedro 4:2 *para vivir el tiempo que le queda en la carne,*
 
