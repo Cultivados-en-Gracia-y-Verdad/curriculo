@@ -1067,25 +1067,51 @@ Estos sacrificios son aceptables a DIos, vemos que el proposito de los sacrifici
 
 #### La esposa en su rol, puede ser un precioso instrumento en las manos de Dios para que sus esposos respondan por la fe al evangelio de Dios, y ser llamados de las tinieblas a su luz admirable.
 
-###  1 Pedro 3:3 *Que el adorno de ustedes no sea el externo:*
+###  1 Pedro 3:3a *"Que el adorno de ustedes no sea el externo:..."* La palabra adorno o atavío en el tiempo de la escritura de esta epistola hacia referencia al embellecimiento exterior de las mujeres. 
 
-###  *peinados ostentosos,*
+###  Era un pensamiento común que las mujeres se "adornen" por medio de lo que veremos acontinuación:
 
-###  *joyas de oro o vestidos lujosos,*
+####  1 Pedro 3:3b *"...peinados ostentosos,..."* Indica peinados exageradamente llamativos.
 
-###  1 Pedro 3:4 *sino que sea lo que procede de lo íntimo del corazón,*
+####  1 Pedro 3:3c  *"...joyas de oro..."* Hace referencia a buscar ganar belleza por medio de objetos colgados en el cuerpo
 
-###  *con el adorno incorruptible de un espíritu tierno y sereno, lo cual es precioso delante de Dios.*
+####  1 Pedro 3:3d  *"...o vestidos lujosos,...* Se refiere a buscar adornarse exteriormente por medio de ropas
 
-###  1 Pedro 3:5 *Porque así también se adornaban en otro tiempo las santas mujeres que esperaban en Dios,*
+#### El enfoque de este pasaje no esta en indicar que esas cosas son malas o pecado, tampoco indica un descuido de la presentación externa de la esposa.
 
-###  *estando sujetas a sus maridos.*
+#### Sino que Dios muestra que el adorno exterior de una esposa creyente no esta en esas cosas y tampoco debería ser el pensamiento de ella. Entonces ¿dónde estaría la belleza exterior de una esposa a los ojos de Dios?
 
-###  1 Pedro 3:6 *Así obedeció Sara a Abraham, llamándolo señor,*
+###  1 Pedro 3:4a *"...sino que sea lo que procede de lo íntimo del corazón,..."* En un mundo donde se busca la belleza externa por medio de cosas lujosas, llamativas que se corrompen con el tiempo. Dios llama a la esposa creyente a buscar la belleza externa, pero producida desde lo interior.
 
-###  *y ustedes han llegado a ser hijas de ella,*
+###  1 Pedro 3:4b *"...con el adorno incorruptible de un espíritu tierno y sereno,..."* Esta indicación aclará que la sujeción de la esposa, el atabio externo por medio de su conducta hacia el esposo, no debería ser hipocrita o algo fingido, sino sincero. 
 
-###  *si hacen el bien y no tienen miedo de nada que pueda aterrorizarlas.*
+####  Su belleza externa simplemente es un reflejo de la belleza interna de su corazón.
+
+###  1 Pedro 3:4c *"...lo cual es precioso delante de Dios."* Una creyente que pone su esperanza en el único Dios, el que juzga con justicia, goza de un espiritu tierno y sereno, el cual es precioso a los ojos de Dios.
+
+###  1 Pedro 3:5a *"Porque así también se adornaban en otro tiempo las santas mujeres que esperaban en Dios,..."* Pedro pasa a mostrar como se adornaban las esposas creyentes del Antiguo Testamento y como llegaron a sujetarse a sus esposos imperfectos.
+
+#### El versiculo es claro, las santas mujeres, ponían su esperanza completamente en su Santo Dios.
+
+#### ¿En qué resultaba esto?
+
+###  1 Pedro 3:5b *"...estando sujetas a sus maridos."* El sujetarse a sus maridos, no era por medio de una regla obligatoria o por medio de finjimiento, ni tampoco por medio de un pensamiento humano positivo.
+
+#### Ellas permanecian sujetas a sus esposos por medio de la esperanza que tenían en Su Dios.
+
+#### De esa manera también las esposas creyentes del tiempo de la escritura de esta epistola debian adornarse, por medio la sujeción a sus maridos.
+
+#### Y esto vendría a travez de su confianza puesta no en la calidad de esposo que tenían, sino en el Dios que cuidaba y cuida de ellas.
+
+###  1 Pedro 3:6a *"Así obedeció Sara a Abraham, llamándolo señor,..."* Un ejemplo de una esposa sujetandose a su esposo es Sara, y una muestra de aquello fue que se dirigio a Abraham como "señor"
+
+###  1 Pedro 3:6b *"...y ustedes han llegado a ser hijas de ella,..."* Aquí nos muestra la relación simbolica que tienen las esposas que andan conforme a como Sará anduvo en su vida terrenal.
+
+###  1 Pedro 3:6c *"...si hacen el bien y no tienen miedo de nada que pueda aterrorizarlas."* El andar conforme a la voluntad de Dios que tuvo Sara tambien es para las esposas que andan haciendo el bien, y no tienen temor de nada que intente atemorizarlas. 
+
+####  No depende del estado espiritual de su esposo, o las circunstancias en las que se encuentre, sino que es por medio de la confianza segura que tiene en Dios, su Padre, que es el cuidador eterno de ellas.
+
+#### Esto haya gracia a los ojos de Dios, es precioso delante de Dios
 
 ## 1 Timoteo 3:7- Maridos
 
