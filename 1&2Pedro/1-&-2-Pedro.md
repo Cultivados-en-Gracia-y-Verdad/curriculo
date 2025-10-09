@@ -989,21 +989,21 @@ Estos sacrificios son aceptables a DIos, vemos que el proposito de los sacrifici
 
 # 1 Timoteo 3:1-8 Relaciones dentro de la Iglesia
 
-### Puede que las circunstancias en las que se encontraban los creyentes a los que escribia Pedro, no eran las mejores para animarlos a vivir haciendo lo bueno. Por esa razón, en los anteriores versiculos les recordo a una persona, Cristo Jesus hombre. ¿Porqué?
+### Puede que las circunstancias en las que se encontraban los creyentes a los que escribía Pedro, no eran las mejores para animarlos a vivir haciendo lo bueno. Por esa razón, en los anteriores versículos les recordó a una persona, Cristo Jesús hombre. ¿Porqué?
 
 ### Cristo es el mayor ejemplo del sufrimiento por hacer el bien y soportarlo con paciencia, y esto porque confiaba en el Padre, del cual todos sus juicios son justos.
 
-### Y por medio de Su obra en la cruz, fuimos liberados del pecado, completamente y para siempre. ¿Pora qué?
+### Y por medio de Su obra en la cruz, fuimos liberados del pecado, completamente y para siempre. ¿Para qué?
 
 ### Para ahora, por medio de Su obra en la cruz, podamos vivir haciendo el bien, vivir en la justicia de Dios.
 
 ### Ahora los creyentes tenían un Pastor y Cuidador, alguien que velaría por ellos, la seguridad que Él les daba iba mas allá del daño físico que podrían recibir. La seguridad que Cristo les daba era espiritual y eterna.
 
-### Estos creyentes, Sus ovejas, talvez estaban extraviadas de su tierra, de su nación. Pero ahora habian sido regresadas al Pastor, ahora estaban seguras en Su rebaño, el de Cristo.
+### Estos creyentes, Sus ovejas, talvez estaban extraviadas de su tierra, de su nación. Pero ahora habían sido regresadas al Pastor, ahora estaban seguras en Su rebaño, el de Cristo.
 
-### Comprender estas verdades de nuestro Señor Jesucristo y Su obra tendría un resultado en la vida personal de los cristianos y en sus relaciones con los demas. 
+### Comprender estas verdades de nuestro Señor Jesucristo y Su obra tendría un resultado en la vida personal de los cristianos y en sus relaciones con los demás. 
 
-### Considerando al Ejemplo dado por Dios el Padre, Cristo, estos creyentes podrían hacer el bien, a pesar de que eso traiga sufrimiento, y podrían soportarlo con paciencia y gozo inefable. Esto es lo que Dios proveyo para Sus salvos, esto es lo que halla gracia con Dios.
+### Considerando al Ejemplo dado por Dios el Padre, Cristo, estos creyentes podrían hacer el bien, a pesar de que eso traiga sufrimiento, y podrían soportarlo con paciencia y gozo inefable. Esto es lo que Dios proveyó para Sus salvos, esto es lo que halla gracia con Dios.
 
 ## 1 Timoteo 3:1-6 Aprendiendo de las mujeres
 
@@ -1091,27 +1091,55 @@ Estos sacrificios son aceptables a DIos, vemos que el proposito de los sacrifici
 
 #### Y esto vendría a travez de su confianza puesta no en la calidad de esposo que tenían, sino en el Dios que cuidaba y cuida de ellas.
 
-###  1 Pedro 3:6a *"Así obedeció Sara a Abraham, llamándolo señor,..."* Un ejemplo de una esposa sujetandose a su esposo es Sara, y una muestra de aquello fue que se dirigio a Abraham como "señor"
+###  1 Pedro 3:6a *"Así obedeció Sara a Abraham, llamándolo señor,..."* Un ejemplo de una esposa sujetándose a su esposo es Sara, y una muestra de aquello fue que se dirigió a Abraham como "señor".
 
-###  1 Pedro 3:6b *"...y ustedes han llegado a ser hijas de ella,..."* Aquí nos muestra la relación simbolica que tienen las esposas que andan conforme a como Sará anduvo en su vida terrenal.
+###  1 Pedro 3:6b *"...y ustedes han llegado a ser hijas de ella,..."* Aquí nos muestra la relación simbólica que tienen las esposas que andan conforme a como Sara anduvo en su vida terrenal.
 
-###  1 Pedro 3:6c *"...si hacen el bien y no tienen miedo de nada que pueda aterrorizarlas."* El andar conforme a la voluntad de Dios que tuvo Sara tambien es para las esposas que andan haciendo el bien, y no tienen temor de nada que intente atemorizarlas. 
+###  1 Pedro 3:6c *"...si hacen el bien y no tienen miedo de nada que pueda aterrorizarlas."* El andar conforme a la voluntad de Dios que tuvo Sara también es el andar de las esposas que hacen el bien, y no tienen temor de nada que intente atemorizarlas. 
 
 ####  No depende del estado espiritual de su esposo, o las circunstancias en las que se encuentre, sino que es por medio de la confianza segura que tiene en Dios, su Padre, que es el cuidador eterno de ellas.
 
-#### Esto haya gracia a los ojos de Dios, es precioso delante de Dios
+#### Esto haya gracia a los ojos de Dios, es precioso delante de Dios.
 
 ## 1 Timoteo 3:7- Maridos
 
-###  1 Pedro 3:7 *Ustedes, maridos, igualmente,*
+###  1 Pedro 3:7a *"Ustedes, maridos, igualmente,..."* Ahora pasa a dar instrucciones a los esposos creyentes. 
 
-###  *convivan de manera comprensiva con sus mujeres,*
+####  Ahora el esposo, como uno renacido a una esperanza viva por la misericordia y gracia de Dios. 
 
-###  *como con un vaso más frágil, puesto que es mujer,*
+####  Confiando en la nueva vida provista por Dios en Cristo. ¿Cómo afectaría esto en su matrimonio?
 
-###  *dándole honor por ser heredera como ustedes de la gracia de la vida,*
+###  1 Pedro 3:7b *"...convivan de manera comprensiva con sus mujeres,..."* Este versículo llama a los esposos a pensar en como viven junto a sus esposas.
 
-###  *para que sus oraciones no sean estorbadas.*
+#### La palabra "convivan" da una perspectiva de unión, de compañerismo en el matrimonio, no da la idea de individualidad.
+
+#### La instrucción esta en tiempo presente, por lo que no es algo que deba realizarse en momentos puntuales, sino de manera constante.
+
+#### En el matrimonio, el esposo y la esposa llegan a vivir juntos. Pero hay una instrucción dada específicamente al esposo en relación al convivir.
+
+#### Dios muestra la manera en la cual desea que el esposo conviva con su esposa y debía hacerlo de manera comprensiva.
+
+##### La frase "de manera comprensiva", tambien puede ser traducida como "según ciencia" o "sabiamente".
+
+##### El esposo no debería vivir junto a su esposa guiado por emociones, impulsos humanos o por sabiduría humana.
+
+##### Como veremos mas adelante, el esposo debía vivir junto a su esposa mediante conocimiento, este conocimiento viene por medio de la verdad de la Palabra de Dios.
+
+###  1 Pedro 3:7c *"...como con un vaso más frágil, puesto que es mujer,..."* Estas palabras no indican inferioridad de la mujer, sino hacen enfacis en como el esposo debe tratar y dirigirse a su esposa mientras convivan. 
+
+####  ¿Cómo se trata un vaso el cual es frágil y fácil de romperse?
+
+#### ¿Acaso un vaso de vidrio no es mas valioso a un vaso de plástico?
+
+###  1 Pedro 3:7d *"...dándole honor por ser heredera como ustedes de la gracia de la vida,..."* En la manera en que el marido vive junto a su esposa puede honrarla. Esa es la voluntad del Señor.
+
+#### La razón por la cual el esposo debe dirgirse de esta manera, es por la verdad que el Señor muestra al esposo.
+
+#### El esposo es heredero inmerecido del regalo de la nueva vida y esperanza que Dios le dio, por medio de Cristo.
+
+#### Ahora se le recuerda que no solo él es heredero de Dios, sino también su compañera de vida, su esposa. Ambos, no solo ligados por la unión del matrimonio, sino también unidos eternamente por medio de participar de la misma herencia provista por Dios.
+
+###  1 Pedro 3:7e *"...para que sus oraciones no sean estorbadas."* De esta manera, el esposo viviendo en la justicia, haciendo el bien, por medio de la esperanza que se encuentra en Cristo su Salvador. Podrá dirigir sus oraciones a su Dios y Cuidador, confiado de que recibirá la ayuda oportuna, ya que nada podrá estorbarlas. Disfrutará días buenos junto a su compañera de vida.
 
 ## A todos
 
