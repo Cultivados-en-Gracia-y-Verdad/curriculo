@@ -1426,7 +1426,11 @@ y rebosa en amor (vv. 22-25).
 
 #### Que los creyentes del tiempo de Pedro reciban esta manera de ver el bautismo debió ser de mucho gozo para ellos.
 
-###  1 Pedro 3:22 *quien está a la diestra de Dios, habiendo subido al cielo después de que le habían sido sometidos ángeles, autoridades y potestades.* 
+###  1 Pedro 3:22 *quien está a la diestra de Dios, habiendo subido al cielo después de que le habían sido sometidos ángeles, autoridades y potestades.* La persona con la cual fuimos identificados en el momento de creer en el evangelio es Cristo. Efesios 1:13-14; 2 Corintios 5:17
+
+#### ¿En que posición se encuentra ahora Cristo? Por lo que vemos, el se encuentra a la Diestra de Dios Padre, donde todo ser espiritual le sido sujeto.
+
+#### Los creyentes expatriados, con autoridades extrañas y gentiles acusándoles, podían estar confiados en que la persona quien les representa y cuida esta en la mas al posición posible jamás dada. Salmos 110:1; Efesios 1:20; Colosenses 3:1; Hebreos 12:2
 
 ## En Síntesis
 
