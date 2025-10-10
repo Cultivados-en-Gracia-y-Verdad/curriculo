@@ -1356,19 +1356,51 @@ y rebosa en amor (vv. 22-25).
 
 #### No tendrían que desanimarse o preguntarse si estaban haciendo mal las cosas. Podían ver como el Señor obro para algo muy bueno el sufrimiento de Cristo, podrían confiar que el Señor también obraría para bien el sufrimiento de ellos.
 
-###  1 Pedro 3:18e *"...pero vivificado en el espíritu."* Cristo fue resucitado de entre los muertos, no por medio de carne, sino que esto fue una obra espiritual.
+###  1 Pedro 3:18e *"...pero vivificado en el espíritu."* Cristo fue resucitado de entre los muertos, no por medio de carne o poder humano, sino que esto fue una obra espiritual.
 
-#### En Romanos 1:3-4, 8:11 vemos que el Espíritu Santo es el que levanto de los muertos a Jesucristo. 
+#### En Romanos 1:3-4, 8:11 vemos que el Espíritu Santo es el que levanto de los muertos a Jesucristo.
 
-###  1 Pedro 3:19 *"En el espíritu también fue y predicó a los espíritus encarcelados,..."*
+#### En las Escrituras vemos que en la resurrección de Cristo, Él nunca dejo de ser Dios ni hombre. Hechos 17:41; 1 Timoteo 2:5; Lucas 24:39
 
-###  1 Pedro 3:20a *"...quienes en otro tiempo fueron desobedientes..."*
+#### Vemos que Cristo padeció en la carne, en debilidad humana, pero fue vivificado en el espíritu. Cristo es las primicias de la futura resurrección (glorificación), libertad de la debilidad y del sufrimiento humano. Esta también es la esperanza futura de los creyentes de la edad de la iglesia. 1 Corintios 15:20; Romanos 6:9
 
-###  1 Pedro 3:20b *"...cuando la paciencia de Dios esperaba en los días de Noé durante la construcción del arca,*
+###  1 Pedro 3:19 *"En el espíritu también fue y predicó a los espíritus encarcelados,..."* Nótese el énfasis que  hace la Escritura a cuando Cristo fue y predicó a los espíritus encarcelados.
 
-###  1 Pedro 3:20c *"...en la cual unos pocos, es decir, ocho personas,*
+#### La manera en la cual Cristo realizo esta tarea fue en el espíritu.
 
-###  1 Pedro 3:20d *"...fueron salvadas por medio del agua.*
+#### Ahora ¿Quienes son los espíritus encarcelados?
+
+###  1 Pedro 3:20a *"...quienes en otro tiempo fueron desobedientes..."* Desobedientes en términos de Pedro harían referencia a incrédulos. 1 Pedro 2:8, 3:1, 4:17
+
+####  En algún tiempo de la historia estos espíritus encarcelados fueron incrédulos. ¿Cuando?
+
+###  1 Pedro 3:20b *"...cuando la paciencia de Dios esperaba en los días de Noé durante la construcción del arca,...* El pasaje nos remonta a los tiempos de Noé.
+
+#### Génesis 6:3, 7, vemos a Dios anunciando el juicio que vendría por la maldad que había en el mundo. Génesis 6:11-12
+
+#### Génesis 6:13-14, Dios diciendole a Noé que destruiría la tierra y que debía construir un arca.
+
+#### Entonces ¿a que se refiere con que Cristo en el espíritu fue y predico a los espíritus encarcelados (incrédulos en el tiempo de Noé)?
+
+##### No pudo el Cristo glorificado, después de padecer en la cruz, haber ido a predicar al mundo perdido en el tiempo de Noé. Hebreos 1:3
+
+##### Tampoco el pasaje indica que Cristo fue al lugar de tormento de los incrédulos para anunciarles el evangelio y sean salvos. Hebreos 9:27
+
+##### Estas ideas no son bíblicamente sostenibles y tienen muchas contradicciones.
+
+##### Entonces ¿como podemos ver este pasaje?
+
+#### En 1 Pedro 1:10-11, vemos que el Espíritu de Cristo anuncio las profecías respecto a Su futura obra en la cruz y las glorias futuras. Y los instrumentos que utilizo para anunciar fueron los profetas del Antiguo Testamento.
+
+#### En 2 Pedro 2:5, vemos a Noé como pregonero o también predicador de justicia. Cristo anuncio su mensaje por medio un instrumento, Noé.
+
+#### En Hebreos 11:7, vemos que Noé recibió mensaje de parte de Dios, que podríamos verlo como Cristo en el espíritu anunciándole.
+
+#### Cristo en el espíritu predico de juicio a los que fueron desobedientes (incrédulos) de ese tiempo, por medio del mensaje y conducta temerosa de Noé mientras se construía el arca para el futuro juicio del diluvio. 
+
+#### Estos desobedientes ahora son espíritus encarcelados, que se encuentran en el hades siendo atormentados. Lucas 16:26; Hebreos 9:27
+
+###  1 Pedro 3:20c *"...en la cual unos pocos, es decir, ocho personas fueron salvadas por medio del agua."* No todas las personas sufrieron el juicio del diluvio, ocho personas fueron salvas. Algo que es importante notar es que no fue por medio del arca la salvación para Noé y su familia, sino que el versículo dice que fueron salvos por medio o a través del agua.
 
 ###  1 Pedro 3:21 *Y correspondiendo a esto, el bautismo ahora los salva a ustedes, no quitando la suciedad de la carne, sino como una petición a Dios de una buena conciencia, mediante la resurrección de Jesucristo,*
 
