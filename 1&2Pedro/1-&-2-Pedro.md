@@ -661,7 +661,7 @@ y rebosa en amor (vv. 22-25).
 #### Esta piedra (Cristo), es una preciosa piedra angular, en la construcción de edificaciones la piedra angular era la pieza más importante del edificio el edificio empezaba y terminaba en esta piedra angular, eran una piedra dificultosas de conseguir, debido a que tenía que ser en un ángulo recto y preciso.
 
 ### 1 Pedro 2:6c *"...Y EL QUE CREA EN ÉL NO SERÁ AVERGONZADO»"* En este pasaje nos aclarará quien es la piedra escogida y su propósito. Nos habla de creer, específicamente en Él,Jesús la piedra escogida y angular. 
- 
+
 #### El verbo creyere [PISTEUO] se encuentra en tiempo presente, activo, participio, indicando la acción continua en tiempo presente.
 
 #### ¿Por que sería causa de verguenza creer en esta piedra? Muchas veces en la escritura vemos como el evangelio no es causa de verguenza, sin embargo Pedro anima a los creyentes a no sentirse avergonzados por creer en Él. Romanos 1:16 ; Hebreos 12:2 ; 1 Corintios 1:18
@@ -1260,47 +1260,75 @@ y rebosa en amor (vv. 22-25).
 
 # 1 Pedro 3:13-5:14 - GRACIA EN EL SUFRIMIENTO
 
-###  1 Pedro 3:13 *¿Y quién les podrá hacer daño a ustedes si demuestran tener celo por lo bueno?*
+###  1 Pedro 3:13 *"¿Y quién les podrá hacer daño a ustedes si demuestran tener celo por lo bueno?"* En 1 Pedro 2:13-14 se nos mostro que por hacer lo bueno el creyente puede recibir alabanza, y no debería esperar algún daño o castigo por ello.
 
-###  1 Pedro 3:14 *Pero aun si sufren por causa de la justicia, dichosos son.*
+#### Es lo que indica en este versículo, si las personas ven que el creyente no solo hace lo bueno sino que también es alguien que anhela lo bueno, no debería esperar daño alguno. Porque ¿Quién quería hacerles daño?
 
-###  *Y NO TENGAN MIEDO POR TEMOR A ELLOS NI SE TURBEN,*
+#### El creyente no debería dar razones para sufrir daño por medio de hacer lo malo. 1 Pedro 2:19-20
 
-###  1 Pedro 3:15 *sino santifiquen a Cristo como Señor en sus corazones,*
+###  1 Pedro 3:14a *"Pero aun si sufren por causa de la justicia, dichosos son."* En nuestro pensamiento humano suena razonable recibir alabanza por hacer lo bueno y sufrir castigo por hacer lo malo. El pensamiento siempre es, recibes lo que mereces.
 
-###  *estando siempre preparados para presentar defensa*
+#### Los creyentes deberían preparar su entendimiento, ya que Dios muestra una realidad diferente para los que sufren daño por su andar en justicia.
 
-###  *ante todo el que les demande razón de la esperanza que hay en ustedes.*
+#### No deberían pensar que están haciendo algo malo, o desanimarse por la esperanza que tienen en su Dios.
 
-###  *Pero háganlo con mansedumbre y reverencia,*
+#### Sino deberían considerarse personas bendecidas, sufrir por causa de hacer lo bueno es parte del plan Dios, en esos momentos el creyente es participe también de los padecimientos de Cristo, lo que significa que también será participe de la gloria de Cristo que se revelará en el futuro. 1 Pedro 4:13
 
-###  1 Pedro 3:16 *teniendo buena conciencia,*
+###  1 Pedro 3:14b *"Y NO TENGAN MIEDO POR TEMOR A ELLOS NI SE TURBEN,..."* Como bienaventurados, bendecidos de Dios no había razón para que los creyentes sintiesen miedo, por mas de que tan terroríficos aparenten ser los que buscan hacerles daño, tampoco deberían desesperarse.
 
-###  *para que en aquello en que son calumniados,*
+#### Las palabras como miedo y turbar indican un estado interno del creyente, no es lo que el Señor deseaba para ellos. 
 
-###  *sean avergonzados los que hablan mal de la buena conducta de ustedes en Cristo.*
+###  1 Pedro 3:15a *"...sino santifiquen a Cristo como Señor en sus corazones,..."* La palabra "santificar" puede ser vista también como reverenciar o considerar.
 
-###  1 Pedro 3:17 *Pues es mejor padecer por hacer el bien, si así es la voluntad de Dios, que por hacer el mal.*
+#### La adoración generalmente se piensa como una acción externa, pero no es lo que aquí se indica.
 
-###  1 Pedro 3:18 *Porque también Cristo murió por los pecados una sola vez,*
+#### Los bendecidos (creyentes), no tienen porque estar llenos de temor por los ataques externos que lleguen a recibir. Ya que Cristo, El Pastor y Obispo de sus almas, es Su Señor, y pueden estar llenos de alabanza y adoración hacia Él, en su interior, desde sus corazones. 1 Pedro 2:25
 
-###  *el justo por los injustos,*
+###  1 Pedro 3:15b *"...estando siempre preparados para presentar defensa ante todo el que les demande razón de la esperanza que hay en ustedes."* El creyente puede andar haciendo lo correcto, puede andar sin temor alguno de sus enemigos alabando a Cristo en su corazón, y esto es por la esperanza futura que tiene en la Persona de Jesucristo.
 
-###  *para llevarnos a Dios,*
+#### Por medio de la resurrección de Jesucristo, tenemos una esperanza viva, y recibiremos una herencia eterna en los cielos. 1 Pedro 1:3
 
-###  *muerto en la carne*
+#### Por medio de la sangre de Cristo hemos sido redimidos de una vida sin sentido, esto en el Plan eterno de Dios Padre, en quien tenemos nuestra esperanza. 1 Pedro 1:21
 
-###  *pero vivificado en el espíritu.*
+#### Tener esta esperanza viene por medio de crecer en el conocimiento de la gracia de Dios, la cual encontramos en Su Palabra, por lo cual debemos estar preparados en esta verdad para que en cualquier circunstancia podamos anunciarla cuando se nos requiera hacerlo.
 
-###  1 Pedro 3:19 *En el espíritu también fue y predicó a los espíritus encarcelados,*
+###  1 Pedro 3:15c *"Pero háganlo con mansedumbre y reverencia,..."* Lo que indican estas palabras es que un creyente puede llegar a ser arrogante y dañino incluso presentando la verdad de la Palabra. Dios quiere que su verdad sea anunciada con una actitud de tranquilidad y respeto.
 
-###  1 Pedro 3:20 *quienes en otro tiempo fueron desobedientes *
+###  1 Pedro 3:16a *"...teniendo buena conciencia,..."* Esto podría referirse a como lo expresa en 1 Pedro 2:19-20, tener una buena conducta, esta abrazado a tener buena conciencia para con Dios, un creyente que no anda en la realidad de la justicia provista por Cristo, andaría en pecado, con una conciencia manchada.
 
-###  *cuando la paciencia de Dios esperaba en los días de Noé durante la construcción del arca,*
+#### Anunciar la verdad de las escrituras con una buena conducta traería una conciencia limpia. ¿Porque sería necesario esto?
 
-###  *en la cual unos pocos, es decir, ocho personas,*
+###  1 Pedro 3:16b *"...para que en aquello en que son calumniados, sean avergonzados los que hablan mal de la buena conducta de ustedes en Cristo."* Este es el propósito de que los creyentes muestren una buena conducta, incluso en la proclamación de su esperanza, Cristo.
 
-###  *fueron salvadas por medio del agua.*
+#### Si bien pueden recibir ataque y criticas destructivas aún a pesar de su buena conducta, si es a razón de una buena conciencia, esto es bueno delante de Dios y es razón de vergüenza para aquellos que los atacan. Así es como puede verlo el creyente.
+
+###  1 Pedro 3:17 *"Pues es mejor padecer por hacer el bien, si así es la voluntad de Dios, que por hacer el mal."* Sufrir por hacer lo malo no va conforme a la voluntad de Dios para sus creyentes.
+
+#### Un creyente que anda por la fe en la Gracia de Dios, andará haciendo el bien, eso es lo que agrada a Dios. 1 Pedro 1:13-15
+
+#### Pero es mucho mejor para Dios si el creyente anda haciendo el bien y sufre por ello. 
+
+#### Los creyentes a los que escribía Pedro estaban pasando por muchas pruebas, pero podían andar confiados, sabiendo que Su Dios los cuida con Su poder, y que esas aflicciones presentes también eran parte de la voluntad de su Guardian.
+
+###  1 Pedro 3:18a *"Porque también Cristo murió por los pecados una sola vez,..."*
+
+###  1 Pedro 3:18b *"...el justo por los injustos,..."*
+
+###  1 Pedro 3:18c *"...para llevarnos a Dios,..."*
+
+###  1 Pedro 3:18d *"...muerto en la carne..."*
+
+###  1 Pedro 3:18e *"...pero vivificado en el espíritu."*
+
+###  1 Pedro 3:19 *"En el espíritu también fue y predicó a los espíritus encarcelados,..."*
+
+###  1 Pedro 3:20a *"...quienes en otro tiempo fueron desobedientes..."*
+
+###  1 Pedro 3:20b *"...cuando la paciencia de Dios esperaba en los días de Noé durante la construcción del arca,*
+
+###  1 Pedro 3:20c *"...en la cual unos pocos, es decir, ocho personas,*
+
+###  1 Pedro 3:20d *"...fueron salvadas por medio del agua.*
 
 ###  1 Pedro 3:21 *Y correspondiendo a esto, el bautismo ahora los salva a ustedes, no quitando la suciedad de la carne, sino como una petición a Dios de una buena conciencia, mediante la resurrección de Jesucristo,*
 
