@@ -1402,9 +1402,31 @@ y rebosa en amor (vv. 22-25).
 
 ###  1 Pedro 3:20c *"...en la cual unos pocos, es decir, ocho personas fueron salvadas por medio del agua."* No todas las personas sufrieron el juicio del diluvio, ocho personas fueron salvas. Algo que es importante notar es que no fue por medio del arca la salvación para Noé y su familia, sino que el versículo dice que fueron salvos por medio o a través del agua.
 
-###  1 Pedro 3:21 *Y correspondiendo a esto, el bautismo ahora los salva a ustedes, no quitando la suciedad de la carne, sino como una petición a Dios de una buena conciencia, mediante la resurrección de Jesucristo,*
+###  1 Pedro 3:21 *"Y correspondiendo a esto, el bautismo ahora los salva a ustedes, no quitando la suciedad de la carne, sino como una petición a Dios de una buena conciencia, mediante la resurrección de Jesucristo,..."* Una mejor traducción para enter este versiculo sería la de la BTX4:
 
-###  1 Pedro 3:22 *quien está a la diestra de Dios, habiendo subido al cielo después de que le habían sido sometidos ángeles, autoridades y potestades.*
+#### 1 Pedro 3:20c-21*"...ocho personas, fueron salvadas a través de agua; la cual también es figura de cómo el bautismo ahora os salva (no como eliminación de la suciedad de la carne, sino como respuesta de una buena conciencia a Dios) mediante la resurrección de JESUCRISTO,..."*
+
+####  El pasaje no enseña que Noé fue salvo del infierno por entrar al arca. En Genesis 6:8 vemos que Noé hayo gracia a los ojos de Dios. Pasajes como Romanos 4 nos muestran que la salvación de la pena del pecado siempre fue por gracia por medio de la fe.
+
+#### Noé ya había sido salvo eternamente antes de entrar al arca, pero la construcción del arca y la entrada al arca fueron resultado de su fe a la revelación de Dios. Hebreos 11:7
+
+#### Por la fe en su vida física como justo delante de Dios, demostró una conducta intachable, y también por la fe entro al arca. Génesis 6:9
+
+#### Y a través de la separación que hizo el agua entre los que creyeron y los incrédulos fueron salvos de ser disciplinados junto al mundo.
+
+#### Podemos verlo como el creyente Noé que por la fe anduvo haciendo el bien, en medio de uno de los tiempos mas difíciles donde hubo mas pecado en la historia del mundo.
+
+#### Haciendo el bien delante de Dios tuvo una conciencia tranquila y fue salvo por medio del agua durante su vida como creyente, confiando en la Palabra de Dios.
+
+#### Y en estos versículos nos dice que este evento de Noé es una figura de la salvación del creyente en este tiempo.
+
+#### Hablando específicamente del bautismo en agua, el creyente puede bautizarse confiando en la esperanza que se encuentra en la Palabra de Dios, su nueva posición en la persona de Cristo, específicamente hablando de la resurrección de Jesucristo, donde anunciamos públicamente un hecho espiritual, que estamos muertos al pecado pero vivos para Dios en Cristo Jesús. Romanos 6:11, 1 Pedro 1:3
+
+#### Esto es algo visible, es parte de la buena conducta del creyente durante su vida terrenal, esto es parte de su salvación en tiempo presente, su santificación.
+
+#### Que los creyentes del tiempo de Pedro reciban esta manera de ver el bautismo debió ser de mucho gozo para ellos.
+
+###  1 Pedro 3:22 *quien está a la diestra de Dios, habiendo subido al cielo después de que le habían sido sometidos ángeles, autoridades y potestades.* 
 
 ## En Síntesis
 
