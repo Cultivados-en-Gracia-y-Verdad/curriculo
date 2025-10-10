@@ -1308,17 +1308,57 @@ y rebosa en amor (vv. 22-25).
 
 #### Pero es mucho mejor para Dios si el creyente anda haciendo el bien y sufre por ello. 
 
-#### Los creyentes a los que escribía Pedro estaban pasando por muchas pruebas, pero podían andar confiados, sabiendo que Su Dios los cuida con Su poder, y que esas aflicciones presentes también eran parte de la voluntad de su Guardian.
+###  1 Pedro 3:18a *"Porque..."* Si bien el sufrimiento es visto como algo malo o negativo. Vemos en estos versículos que el sufrimiento puede llegar a ser bueno. Pero ¿porque sería bueno?
 
-###  1 Pedro 3:18a *"Porque también Cristo murió por los pecados una sola vez,..."*
+#### 1 Pedro No enseña que sufrir por cualquier razón es bueno a los ojos de Dios.
 
-###  1 Pedro 3:18b *"...el justo por los injustos,..."*
+#### No enseña que el creyente debe buscar sufrir solo porque si.
 
-###  1 Pedro 3:18c *"...para llevarnos a Dios,..."*
+#### No enseña que los sufrimientos debemos verlos con un pensamiento positivo.
 
-###  1 Pedro 3:18d *"...muerto en la carne..."*
+#### No enseña que debemos evitar a toda costa el sufrimiento.
 
-###  1 Pedro 3:18e *"...pero vivificado en el espíritu."*
+#### Los creyentes a los que escribía Pedro estaban padeciendo, pero podían andar confiados, sabiendo que Su Dios los cuidaba con Su poder.
+
+#### Los padecimientos presentes de los creyentes por causa de la justicia también eran parte de la voluntad del Señor, tienen un propósito bueno para sus creyentes. 1 Pedro 1:6-9, 2:12, 15, 4:13, 16-17
+
+#### Y ahora 1 Pedro nos mostrará Un padecimiento por hacer lo bueno, y como fue utilizado en las manos amorosas de Dios.
+
+###  1 Pedro 3:18b *"Porque también Cristo murió [padeció RV60] por los pecados una sola vez,..."* El pasaje es claro, nos habla de un padecimiento, el cual ocurrió una sola vez.
+
+#### Cristo murió en una cruz, una sola vez para siempre. Hebreos 7:27, 9:26, 28, 10:10, 12; 1 Pedro 2:24
+
+#### Vemos que Su padecimiento, Su muerte fue por los pecados, el pasaje no dice que murió por algunos pecados, o que murió por los pecados de algunas personas. 
+
+#### Cristo murió por todos los pecados, de toda la historia, de cada ser humano que a existido y existirá. Isaías 53:4-6; Romanos 3:25-26, 8:3; Gálatas 1:4; 1 Juan 2:2
+
+###  1 Pedro 3:18b *"...el justo por los injustos,..."* También puede ser traducido "el Justo en favor de los injustos"
+
+#### Cristo es el Justo, nunca cometió pecado, ni engaño alguno se hayo en su boca. Mateo 27:19, 24; Hechos 3:14; 1 Pedro 2:22-23
+
+#### Nosotros, todos, somos pecadores, injustos (Romanos 3:10) y no merecemos tener parte en la gloria de Dios (Romanos 3:23), lo que merecemos es la muerte por nuestro injusticia (Romanos 5:12). Efesios 2:1; Tito 3:3
+
+#### Cristo, el Justo fue el que murió en lugar de los pecadores, no podíamos salvarnos, éramos débiles. Romanos 5:6-8
+
+#### Cristo que no merecía la muerte, murió inmerecidamente en la cruz una vez para siempre. 2 Corintios 5:14-15, 21
+
+#### Y lo hizo a favor de nosotros, que merecíamos la muerte. ¿Porqué?
+
+###  1 Pedro 3:18c *"...para llevarnos a Dios,..."* Si antes por medio de nuestro pecado, merecíamos la condenación merecida y estábamos totalmente separados del Padre.
+
+#### Ahora por medio de Cristo y Su Obra somos acercados inmerecidamente a Dios y somos perdonados y salvados eternamente. Romanos 5:1-2, Colosenses 1:19-22; Hebreos 7:25
+
+###  1 Pedro 3:18d *"...muerto en la carne..."* Claramente Cristo vino en carne a la tierra, se hizo hombre y padeció la muerte. Romanos 1:3, Filipenses 2:7
+
+#### El es el único Mediador entre Dios y los hombres. 1 Timoteo 2:5
+
+#### Los receptores de la carta estaban padeciendo en la carne por hacer lo bueno, y podían ver como Cristo también padecio en la carne por hacer el bien, y esto alinea conforme a la voluntad de Dios, es agradable hacia Él. 
+
+#### No tendrían que desanimarse o preguntarse si estaban haciendo mal las cosas. Podían ver como el Señor obro para algo muy bueno el sufrimiento de Cristo, podrían confiar que el Señor también obraría para bien el sufrimiento de ellos.
+
+###  1 Pedro 3:18e *"...pero vivificado en el espíritu."* Cristo fue resucitado de entre los muertos, no por medio de carne, sino que esto fue una obra espiritual.
+
+#### En Romanos 1:3-4, 8:11 vemos que el Espíritu Santo es el que levanto de los muertos a Jesucristo. 
 
 ###  1 Pedro 3:19 *"En el espíritu también fue y predicó a los espíritus encarcelados,..."*
 
