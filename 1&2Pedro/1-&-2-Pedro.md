@@ -1646,7 +1646,21 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 4:3h "*...y abominables idolatrías.*" idolatría es la transliteración de la  palabra griega EIDOLATREIA, que quiere decir que los incrédulo participan en la adoración de imágenes que no tienen vida y es completamente abominable delante de Dios.
 
-###  1 Pedro 4:4 *Y en todo esto, se sorprenden de que ustedes no corren con ellos en el mismo desenfreno de disolución, y los insultan.*
+### 1 Pedro 4:4 El hacer la volundad de Dios es tan sorprendete para los incredulos que las únicas acciones y palabras que buscan hacer, es insultar a los creyentes, con tal de hacerlos quedar mal. 1 Pedro 3:16
+
+####  1 Pedro 4:4a *Y en todo esto, se sorprenden de que ustedes...*" Ustedes, que han nacido de nuevo y viven para la voluntad de Dios, en hacer el bien, con una conciencia limpia, llega a causar sorpresa, o un estado de perplejidad a los incredulos que andan en todos los deseos de las pasiones humanas.
+
+##### Claramente todo creyente tiene una diferencia posicional delante de Dios, y también al andar en la voluntad de Dios, un creyente muestra aquella diferencia que ya tiene, con los incredulos que no pueden hacer la voluntad de Dios.
+
+####  1 Pedro 4:4b "*...no corren con ellos en el mismo desenfreno de disolución,...*" La palabra correr SUNTREKJO significa congregarse rapidamente juntamente con ellos en las reuniones y todos los actos que realizan. 1 Pedro 4:3
+
+##### limpia conciencia y buena conducta son completamente contrarios, al desenfreno y disolución, que a los incredulos les gusta correr, en hacer el mal y no el bien.
+
+##### Aunque ellos quisieran andar en hacer el bien, no pueden porque son esclavos de sus propias pasiones, y como no pueden, con tal de ser vistos bien, ellos continúan corriendo en el mismo camino de desenfreno y disolución.
+
+####  1 Pedro 4:4c "*...y los insultan.*" Entonces al ver ellos (incrédulos) a los creyentes, en un andar que es tan evidente en una buena conducta y limpia conciencia a los ojos de Dios y también a los ojos de ellos, sin encontrar argumentos, solo responden con insultos e injurias para que respondamos en disolución como ellos lo hacen. 1Pedro 2:15, 3:17
+
+##### Y al andar con todo respeto y mansedumbre para ellos sigue siendo sorprendente y eso para su propia vergüenza porque saben que todo lo que insultan e injurian es falso, porque no pueden demostrarlo. 1 Pedro 3:15
 
 ###  1 Pedro 4:5 *Pero ellos darán cuenta a Aquel*
 
