@@ -1596,11 +1596,11 @@ Title: 1 & 2 Pedro
 
 #### aquí Pedro usa esta palabra, no con el objetivo de demostrar que el pueblo judio no anda conforme a las pasiones humanas, a diferencia de los gentiles, sino, al contrario un judio incredulo, al igual que, un gentil incrédulo, es de la misma manera esclavo de las pasiones humanas.
 
-#### Esta palabra ÉTHNOS, en el griego tiene su uso a referencia a nación o tambien podria tener el uso de Linaje.
+#### Esta palabra ÉTHNOS, en el griego tiene su uso en referencia a nación o también podría tener el uso de Linaje.
 
 ##### Según 1 Pedro 2:9 todo creyente forma parte de la nación santa de Dios. Y todo incredulo no es pueblo de Dios,  1 Pedro 2:10.
 
-##### Entonces, Gentiles ETHNOS estaria mejor traducido como "Incredulos", o tambien como "paganos", como lo traduce la biblia (BAD1989) "...haciendo lo que agrada a los incrédulos..." porque no forman del pueblo adquirido de Dios.
+##### Entonces, Gentiles ETHNOS estaría mejor traducido como "Incrédulos", o también como "paganos", como lo traduce la biblia (BAD1989) "...*haciendo lo que agrada a los incrédulos*..." porque no forman del pueblo adquirido de Dios.
 
 ### 1 Pedro 4:3b "*...habiendo andado...*" 
 
