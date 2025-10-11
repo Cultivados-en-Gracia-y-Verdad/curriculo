@@ -42,7 +42,7 @@ Title: 1 & 2 Pedro
 
 ## 1 Pedro 1:1-2 – Saludos y autoria
 
-###  1 Pedro 1:1a *Pedro,* Pedro es autor del libro (1 Pedro 5:1) pero se transcribió por medio de Silvano (1 Pedro 5:12). 
+###  1 Pedro 1:1a "*Pedro,*" Pedro es autor del libro (1 Pedro 5:1) pero se transcribió por medio de Silvano (1 Pedro 5:12). 
 
 ####  ¿Quién es Pedro? Pedro, originalmente Simón, era pescador, nacido en Betsaida. Juan 1:42-44; Mateo 4:19
 
@@ -94,11 +94,11 @@ Title: 1 & 2 Pedro
 
 ### 1 Pedro 1:2a "*elegidos según...*" La palabra según KATA no debe ignorarse en este pasaje, porque define que algo esta en base a o en conformidad de algo.  En este caso, según el contexto inmediato "*elegidos*" en base o en conformidad a...*".
 
-#### Por ejempo según la (RAE), "*según*" es una preposición que se utiliza para indicar que algo que se dice o se considera en base a una información específica, una fuente, una autoridad, etc.
+#### Por ejempo según la (R.A.E.) "*según*" es una preposición que se utiliza para indicar que algo que se dice o se considera en base a una información específica, una fuente, una autoridad, etc.
 
 #### En otras palabras "*según*" se utiliza para citar una fuente, indicar una opinión o basarse en información específica. 1 Corintios 9:8
 
-###  1 Pedro 1:2 "*elegidos según...el previo conocimiento de Dios Padre...*" El primer punto es que los elegidos son en base a la presciencia de Dios. El ser elegidos es según el previo conocimiento de Dios. 
+###  1 Pedro 1:2b "*elegidos según...el previo conocimiento de Dios Padre...*" El primer punto es que los elegidos son en base a la presciencia de Dios. El ser elegidos es según el previo conocimiento de Dios. 
 
 #### Pedro no esta diciendo que Dios eligió según Su plan predeterminado como lo hizo entregando a Jesucristo en Hechos 2. Hechos 2:23
 
@@ -106,12 +106,12 @@ Title: 1 & 2 Pedro
 
 ####  ¿La elección es según qué conocimiento previo? La presciencia de Dios incluye conocer todo sobre todos los tiempos. Específicamente, Dios sabía antes de nada sobre los que a traves de los tiempos creerían en Él. 
 
-###  1 Pedro 1:2 "*por la obra  santificadora* [en santificación RVR60] *del Espíritu...*" Son elegidos por la obra santificadora del Espíritu. 2 Tesalonicenses 2:13
-#### la palabra "*por*" EN - significa en, con o por. Esta palabra es usualmente traducida "en". La traducción de la palabra EN (a por) hace parecer que la elección es causado por El Espíritu en un sentido regenerador, sin embargo mejor es entender que la elección es por medio de la obra santificadora, es decir, en separar para un uso. Tito 3:5
+###  1 Pedro 1:2c "*por la obra  santificadora* [en santificación RVR60] *del Espíritu...*" Son elegidos por la obra santificadora del Espíritu. 2 Tesalonicenses 2:13
+#### La palabra "*por*" EN - significa en, con o por. Esta palabra es usualmente traducida "en". La traducción de la palabra EN (a por) hace parecer que la elección es causado por El Espíritu en un sentido regenerador, sin embargo mejor es entender que la elección es por medio de la obra santificadora, es decir, en separar para un uso. Tito 3:5
 
-###  1 Pedro 1:2 "*para obedecer a Jesucristo...*" El tercer punto de la elección es que es para obedecer a Jesucristo y ser rociados con Su sangre. 1 Pedro 1:14, 22
+###  1 Pedro 1:2d "*para obedecer a Jesucristo...*" El tercer punto de la elección es que es para obedecer a Jesucristo y ser rociados con Su sangre. 1 Pedro 1:14, 22
 
-### 1 Pedro 1:2 "*...y ser rociados con Su sangre:*" El ser rociado con sangre era una practica bajo la ley que representaba ser santificado para un propósito de Dios. Hebreos 9:13-14
+### 1 Pedro 1:2e "*...y ser rociados con Su sangre:*" El ser rociado con sangre era una practica bajo la ley que representaba ser santificado para un propósito de Dios. Hebreos 9:13-14
 
 #### Nótense las tres preposiciones: **según** (KATA) la presciencia; **en** (EN) la santificación; **para** (EIS) la obediencia. El fundamento, la esfera y el fin de la santificación espiritual.
 
@@ -121,7 +121,7 @@ Title: 1 & 2 Pedro
 
 #### Romanos 8:30 *A los que predestinó, a esos también llamó. A los que llamó, a esos también justificó. A los que justificó, a esos también glorificó.*
 
-##### 100% de los que Dios previamente conoció, **predestino**. 
+##### 100% de los que Dios tuvo previo conocimiento, **predestino**. 
 
 ##### 100% de los que Dios predestinó, **llamó**. 
 
@@ -129,9 +129,9 @@ Title: 1 & 2 Pedro
 
 ##### 100% de los que Dios justifico, **glorificó**.
 
-##### En conclusión, la obra de Dios es 100% efectivo a los que el conoció de antemano.  ¿Como puede uno saber que Dios le conoció de antemano? Porque por tu fe creiste en Él.  
+##### En conclusión, la obra de Dios es 100% efectivo a los que Él conoció de antemano.  ¿Como puede uno saber que Dios le conoció de antemano? Porque por tu fe creiste en Él.  Habacúc 2:4; 1 Pedro 1:5
 
-###  1 Pedro 1:2 *Que la gracia y la paz les sean multiplicadas a ustedes.* El deseo de Pedro a sus lectores es que Dios multiplique Su gracia y paz a ellos. 2 Pedro 1:2
+###  1 Pedro 1:2 "*Que la gracia y la paz les sean multiplicadas a ustedes*". El deseo de Pedro a sus lectores es que Dios multiplique Su gracia y paz a ellos. 2 Pedro 1:2
 
 ## En Síntesis (1 Pedro 1:1-2)
 
@@ -1417,11 +1417,11 @@ La Palabra LOGOS
 
 ###  1 Pedro 3:20c *"...en la cual unos pocos, es decir, ocho personas fueron salvadas por medio del agua."* No todas las personas sufrieron el juicio del diluvio, ocho personas fueron salvas. Algo que es importante notar es que no fue por medio del arca la salvación para Noé y su familia, sino que el versículo dice que fueron salvos por medio o a través del agua.
 
-###  1 Pedro 3:21 *"Y correspondiendo a esto, el bautismo ahora los salva a ustedes, no quitando la suciedad de la carne, sino como una petición a Dios de una buena conciencia, mediante la resurrección de Jesucristo,..."* Una mejor traducción para enter este versiculo sería la de la BTX4:
+###  1 Pedro 3:21 *"Y correspondiendo a esto, el bautismo ahora los salva a ustedes, no quitando la suciedad de la carne, sino como una petición a Dios de una buena conciencia, mediante la resurrección de Jesucristo,..."* Una mejor traducción para enter este versiculo sería...
 
-#### 1 Pedro 3:20c-21*"...ocho personas, fueron salvadas a través de agua; la cual también es figura de cómo el bautismo ahora os salva (no como eliminación de la suciedad de la carne, sino como respuesta de una buena conciencia a Dios) mediante la resurrección de JESUCRISTO,..."*
+#### 1 Pedro 3:20c-21*"...ocho personas, fueron salvadas a través de agua; la cual también es figura de cómo el bautismo ahora os salva (no como eliminación de la suciedad de la carne, sino como respuesta de una buena conciencia a Dios) mediante la resurrección de JESUCRISTO..."*(BTX4)
 
-####  El pasaje no enseña que Noé fue salvo del infierno por entrar al arca. En Genesis 6:8 vemos que Noé hayo gracia a los ojos de Dios. Pasajes como Romanos 4 nos muestran que la salvación de la pena del pecado siempre fue por gracia por medio de la fe.
+####  El pasaje no enseña que Noé fue salvo del infierno por entrar al arca. En Genesis 6:8 vemos que Noé hallo gracia a los ojos de Dios. Pasajes como Romanos 4 nos muestran que la salvación de la pena del pecado siempre fue por gracia por medio de la fe.
 
 #### Noé ya había sido salvo eternamente antes de entrar al arca, pero la construcción del arca y la entrada al arca fueron resultado de su fe a la revelación de Dios. Hebreos 11:7
 
@@ -1555,11 +1555,23 @@ La Palabra LOGOS
 
 ###  1 Pedro 4:2b "*...el tiempo que le queda en la carne,...*" Si bien tenemos una nueva vida en nuestros mismo cuerpos que teníamos cuando éramos incrédulos, no significa que nuestros cuerpos sean malos, sino que esta nueva vida podemos vivirla en estos mismo cuerpos que ahora son el templo del Espíritu Santo. 1 Corintios 6:19
 
-###  1 Pedro 4:2c "...*ya no para las pasiones humanas,...*" Ya que Cristo termino con el pecado, ahora el creyente puede armarse de ese mismo pensamiento, porque Cristo vive, y la vida que ha logrado es para andar en novedad de vida y ya no en los resultados de muerte que ocasionaba el pecado.1 Pedro 3:18
+###  1 Pedro 4:2c "...*ya no para las pasiones humanas,...*" Ya que Cristo termino con el pecado, ahora el creyente puede armarse de ese mismo pensamiento, porque Cristo vive, y la vida que ha logrado es para andar en novedad de vida y ya no en los resultados de muerte que ocasionaba el pecado.1 Pedro 3:
 
-### 1 Pedro 4:2d "...*sino para la voluntad de Dios.*"
+#### La palabra ya no, "MEKETI"  tiene una importancia significativa a la nueva vida, para decir que, de aquí en adelante ya no vivamos para los deseos que nos dominaban antes.
 
-###  1 Pedro 4:3 *Porque el tiempo ya pasado les es suficiente para haber hecho lo que agrada a los gentiles, habiendo andado*
+#### al momento de creer en el evangelio Dios nos otorgo en su gracia, vida eterna, con el resultado de poder vivir el resto de la vida, ya no más en el dominio de las pasiones humanas.
+
+### 1 Pedro 4:2d "...*sino para la voluntad de Dios.*" Ahora tenemos la posibilidad de vivir, con un proposito mayor, muy diferente y muy contrario a la que antes viviamos, dominados por nuestros deseos.
+
+#### Pero ahora podemos vivir armados del pensamiento de Cristo, para la volundad de Dios.
+
+#### En este capitulo la frase "volundad de Dios", repite 3 veces 1 Pedro 4:2, 6, 19. Según 1 Pedro 2:15, podemos entender que. "... esta es la voluntad de Dios: que haciendo bien…", la volundad de Dios nunca ha estado relacionado al obrar de las pasiones humanas, sino al contrario en hacer el bien que viene de Dios. 1 Pedro 3:17
+
+#### Para vivir el resto que nos queda en nuestro cuerpo fisico haciendo el bien, necesitamos estar equipados del armamento del pensamiento de Cristo y entender que la volundad de Dios es especificamente en hacer el bien y no el mal.
+
+###  1 Pedro 4:3a "*Porque el tiempo ya pasado les es suficiente para haber hecho lo que agrada a los gentiles,...*"
+
+### 1 Pedro 4:3b "*...habiendo andado...*" 
 
 ###  *en sensualidad,*
 
@@ -1685,7 +1697,7 @@ La Palabra LOGOS
 
 ## A los ancianos
 
-### 1 Pedro 5:1 *Por tanto,* tenemos el contexto conectando a "*el juicio comience por la casa de Dios.* 1 Pedro 4:17
+### 1 Pedro 5:1 "*Por tanto,*" tenemos el contexto conectando a "*el juicio comience por la casa de Dios.* 1 Pedro 4:17
 
 ### 1 Pedro 5:1 *a los ancianos entre ustedes,* del rol de anciano es "entre" los creyentes, no los pone en una posición superior entre "ustedes" los creyentes. 1 Pedro 5:2
 
@@ -1697,7 +1709,7 @@ La Palabra LOGOS
 
 ### 1 Pedro 5:1 *exhorto yo...y también participante de la gloria que ha de ser revelada:* Es curioso, aunque Pedro vio ocularmante parte del juicio de Jesús, no estuvo durante todos sus padecimientos. Entonces, ¿a que se refiere? md 1,5,7 2 Timoteo 2:6-13; 2 Pedro 1:11
 
-#### En el contexto de la carde, Pedro tambien habría estado siendo participante de las aflicciones de Cristo, entonces el funge como testigo, vivir piadosamente en Cristo traerá afflicciones. Hechos 5:45; 1 Pedro 4:4, 4:12-16, 2:20-21; 2 Timoteo 3:12; 1 Tesalonicenses 3:3-4
+#### En el contexto de la carta, Pedro tambien habría estado siendo participante de las aflicciones de Cristo, entonces el funge como testigo, vivir piadosamente en Cristo traerá afflicciones. Hechos 5:45; 1 Pedro 4:4, 4:12-16, 2:20-21; 2 Timoteo 3:12; 1 Tesalonicenses 3:3-4
 
 ### 1 Pedro 5:2 *pastoreen* un anciano tiene el rol (responsabilidad) de pastorear, apasentar el rebaño. Esto no solo incluye velar, sino proteger y guiar hacia pastos verdes a Cristo. 
 
@@ -1713,7 +1725,7 @@ La Palabra LOGOS
 
 ### 1 Pedro 5:2 *como quiere Dios...sino con sincero deseo;* desea por la grey avivar y guiar hacia Cristo. 
 
-### 1 Pedro 5:3 *tampoco como teniendo señorío sobre los que les han sido confiados,* Podemos ver que un anciano no debe pastorear pretendiendo tener señorío o estar sobre los creyentes. El anciano no es señor o un mandamás del rebaño, donde su palabra es ley. 
+### 1 Pedro 5:3 *tampoco como teniendo señorío sobre los que les han sido confiados,* Podemos ver que un anciano no debe pastorear pretendiendo tener señorío o estar sobre los creyentes. El anciano no es señor o un mandamás del rebaño donde la palabra del anciano es ley. 
 
 ### 1 Pedro 5:3 *sino demostrando ser ejemplos del rebaño.* un anciano debe ser ejemplo entre los creyentes de una andar de fe en dependencia De Dios. Enseñando a sujetarse y afirmarse a Cristo y no a ellos. Deben ser un ejemplo de lo que la gracia de Dios puede hacer. 
 
@@ -1727,17 +1739,17 @@ La Palabra LOGOS
 
 ## Jóvenes
 
-### 1 Pedro 5:5 "*...Asimismo*" de la misma manera. Así como aprenden del ejemplo de los ancianos...
+### 1 Pedro 5:5 "*...Asimismo*" de la misma manera, así como aprenden del ejemplo de los ancianos...
 
-### 1 Pedro 5:5 "*ustedes, los más jóvenes, estén sujetos a los mayores*". 
+### 1 Pedro 5:5 "*ustedes, los más jóvenes, estén sujetos a los mayores*" [ancianos RVR60]. 
 
-#### mayores PRESBUTEROS, seria mejor traducido como ancianos. 
+#### "*mayores*" PRESBUTEROS, seria mejor traducido ancianos, especialmente según el contexto. 
 
-### 1 Pedro 5:5 "*Y todos, revístanse de humildad en su trato mutuo,*" Es es claro, de humildad en trato mutuo no es algo que sera posible separado de Cristo. Es facil vernos de manera soberbia y no como quienes somos en realidad. Jesus dijo aprended de mi que soy manso y humilde. 
+### 1 Pedro 5:5 "*Y todos, revístanse de humildad en su trato mutuo,*" Es claro, de humildad en trato mutuo no es algo que sera posible separado de Cristo. Es facil vernos de manera soberbia y no como quienes somos en realidad. Jesus dijo aprended de mi que soy manso y humilde. 
 
 #### A la luz de la verdad en Cristo y en relación a quienes somos en redad y a tratar a nuestros hermanos como quienes son en verdad, hijos de Dios, salvados por gracia, amados por Dios nuestra salvación (gracia) no proviene de nosotros sino de Dios. Filipenses 2:3-4
 
-### 1 Pedro 5:5 "*porque DIOS RESISTE A LOS SOBERBIOS,*" literalmente dicho, Dios esta contra los orgullosos. Esto es una realidad que muchas veces pasamos por alto. Aveces nuestro orgullo, inflados, no vemos con claridad la verdad que Dios nos está resistiendo. 
+### 1 Pedro 5:5 "*porque DIOS RESISTE A LOS SOBERBIOS,*" literalmente dicho, Dios esta contra los orgullosos. Esto es una realidad que muchas veces pasamos por alto. Aveces inflados por nuestro orgullo, no vemos con claridad la verdad que Dios nos está resistiendo. 
 
 #### Tal vez pensamos que Dios solo resiste a los incrédulos pero aquí vemos que también lo hace con los creyentes que andan en soberbia. 
 
@@ -1789,11 +1801,19 @@ La Palabra LOGOS
 
 ### 1 Pedro 5:10 "*el mismo...los perfeccionará,*" A la luz del sufrimiento seremos moderados cada vez más a la imagen de Cristo. 
 
-### 1 Pedro 5:10 "*Él mismo los...afirmará,*" 
+#### "*perfeccionará*" KATARTIZO - dejar listo o adecuado o equipado de antemano para un propósito particular o para algún uso, evento u otro propósito.[^1]
 
-### 1 Pedro 5:10 "**Él mismo los...fortalecerá,*" Dios también nos fortalecerá en Cristo
+### 1 Pedro 5:10 "*Él mismo los...afirmará,*" Que bueno es saber que nos afirmará, especíalmente al resistir al diablo. 
+
+#### "*afirmará*" STERIZO - hacer más marcado mediante una firme determinación o resolución.[^1]
+
+### 1 Pedro 5:10 "**Él mismo los...fortalecerá,*" Dios también nos fortalecerá en Cristo.
+
+#### "*fortalecerá*" STHENOO - dar mayor fuerza o hacer fuerte. 
 
 ### 1 Pedro 5:10 "*Él mismo...y establecerá.*" Dios también nos establecerá. 
+
+#### "*establecerá*" THERMELIOO - fortalecer una cualidad o aspecto personal; concebido como colocar una piedra fundamental o un soporte.
 
 ### 1 Pedro 5:11 "*A Él sea el dominio por los siglos de los siglos. Amén.*" Dios es el que domina en un medio de sufrimiento. cerne no darle la gloria por lo que hará a traves de lo que muchas veces consideramos horrible, el. 
 
@@ -1801,7 +1821,7 @@ La Palabra LOGOS
 
 ### 1 Pedro 5:12 "*Por conducto de Silvano,*" esto nos da a entender que Pedro probablemente haya dictado la carta  a Silvano y este la transcribió. 
 
-#### por conducto se podría traducir a traves o por medio de Silvano
+#### Por conducto se podría traducir a traves o por medio de Silvano.
 
 #### El nombre de Silvano puede ser traducido como Silas. Silvano/Silas es mencionado en varios pasajes como compañero en el ministerio y enviado de Jerusalen. Hechos 15:22, 40
 
@@ -1809,13 +1829,13 @@ La Palabra LOGOS
 
 ### 1 Pedro 5:12 *les he escrito brevemente,*
 
-### 1 Pedro 5:12 *exhortando*
+### 1 Pedro 5:12 *exhortando* PARAKALEO - apoyar o alentar fervientemente una respuesta o acción. [^1]
 
-### 1 Pedro 5:12 *y testificando*
+### 1 Pedro 5:12 *y testificando* EPIMARTYREO - afirmar solemnemente algo, ofreciendo autenticación de primera mano del hecho; a menudo relacionado con asuntos serios o importantes.[^1]
 
-### 1 Pedro 5:12 *que esta es la verdadera gracia de Dios.* la verdadera gracia de Cristo es ser participante en Cristo. No solamente de Sus "triunfos" sino también de Sus padecimientos. 
+### 1 Pedro 5:12 *...que esta es la verdadera gracia de Dios.* la verdadera gracia de Cristo es ser participante de Cristo. No solamente de Sus triunfos sino también de Sus padecimientos. 
 
-### 1 Pedro 5:12 *Estén firmes en ella.*
+### 1 Pedro 5:12 "*Estén firmes en ella*". Es de notar que no dice, estan firmes en ella como entros pasajes. 
 
 ### 1 Pedro 5:13 *La que está en Babilonia, elegida juntamente con ustedes, los saluda,*
 
