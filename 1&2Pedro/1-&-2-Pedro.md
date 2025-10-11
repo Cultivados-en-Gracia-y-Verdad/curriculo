@@ -295,7 +295,7 @@ Title: 1 & 2 Pedro
 
 #### La permanencia (1:4): Está reservada en el cielo para nosotros. 
 
-#### El poder (1:5): El gran poder de Dios nos asegura que llegaremos sanos y salvos al cielo.
+#### El poder (1:5): Por la fe tenemos segura esta salvación que Dios nos a provisto por medio de Cristo.
 
 ### El gozo de nuestra salvación (1:6-9)
 
