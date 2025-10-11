@@ -157,15 +157,15 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 1:3a "*Bendito sea el Dios y Padre de nuestro Señor Jesucristo, quien según Su gran misericordia,*" Pedro bendice a Dios el Padre quien compartimos en Jesucristo por su gran misericordia. 2 Corintios 1:3
 
-###  1 Pedro 1:3b "*nos ha hecho nacer de nuevo...*" ha sido por Su gran misericordia que El no hizo nacer de nuevo. Tito 1:2, 3:5; 1 Pedro 1:21; Gálatas 6:16
+###  1 Pedro 1:3b "*nos ha hecho nacer de nuevo...*" ha sido por Su gran misericordia que Él nos hizo nacer de nuevo. Tito 1:2, 3:5; 1 Pedro 1:21; Gálatas 6:16
 
-#### La frase "*Hecho nacer de nuevo*" ANAGENNAO que significa renovar; concebido como causante de un segundo nacimiento.[^1]
+#### La frase "*Hecho nacer de nuevo*" ANAGENNAO significa renovar; concebido como causante de un segundo nacimiento.[^1]
 
 #### La salvación es de Dios (Jonás 2:9). Si hemos recibido la salvación, tiene que ser de Dios. Si nacimos de nuevo, no es causa nuestra, es por Dios quien tuvo misericordia. Santiago 1:18; 1 Pedro 1:23
 
-#### Una pregunta importante seria, ¿Cómo nos hizo renacer? Fué por medio de la fe en Jesucristo. (para más información vease el apéndice "doctrina de la regeneración en relación a la fe"). Juan 3:4, 7; Santiago 1:18
+#### Una pregunta importante seria, ¿Cómo nos hizo renacer? Fue por medio de la fe en Jesucristo. (para más información véase el apéndice "doctrina de la regeneración en relación a la fe"). Juan 3:4, 7; Santiago 1:18
 
-#### Para que el hombre sea declarado justo es necesario que haya un nacimiento espiritual. Gálatas 6:15
+#### Para que el hombre sea declarado justo es necesario que haya un nacimiento espiritual. 2 Corintios 5:21; Gálatas 6:15
 
 ###  1 Pedro 1:3d "*mediante la resurrección de Jesucristo de entre los muertos...*" hemos nacido a una esperanza viva porque Jesucristo resucitó de entre los muertos. 1 Corintios 15:20; 1 Pedro 3:21; 1:23, 2:4-5, 24, 4:5-6
 
@@ -181,9 +181,9 @@ Title: 1 & 2 Pedro
 
 ## 1 Pedro 1:5-7 La importancia de la nuestra fe
 
-###  1 Pedro 1:5a  "*...Mediante la fe ustedes son protegidos por el poder de Dios,*" Cuando creimos la promesa, el poder, la misericorida, la herencia y ser protegidos por Dios llegan a hacerse una realidad. 1 Pedro 5:10, 1:9
+###  1 Pedro 1:5a  "*...Mediante la fe ustedes son protegidos por el poder de Dios,*" Cuando creímos la promesa, el poder, la misericordia, la herencia y ser protegidos por Dios llegan a hacerse una realidad. 1 Pedro 5:10, 1:9
 
-#### "*Mediante la fe*" no significa nada para el alguno si es requerido cualquiera de los siguientes:
+#### "*Mediante la fe*" no significa para nada que sea requerido cualquiera de los siguientes:
 
 ##### Obras piadosas que confirmen la autenticidad de la fe.
 
@@ -201,17 +201,17 @@ Title: 1 & 2 Pedro
 
 #### ¿Que significa esto? Significa que nuestra fe es el medio por el que tenemos plena seguridad que Dios asegura protegernos para recibir esa herencia reservada para cada uno de los que El conoció de antemano. 
 
-#### Significa que Dios como soberano, decidió que la salvación es específicamente para algunos y otro no? Bíblicamente esto no es viable. Lo que si significa es que Dios supo de antemano, vió todos los que creerían en El. 
+#### ¿Significa que Dios como soberano, decidió que la salvación es específicamente para algunos y otros no? Bíblicamente esto no es viable. Lo que si significa es que Dios supo de antemano, vio todos los que creerían en El. 
 
 ##### Vale aclarar que la fe no es un mero conocimiento intelectual, sino la confianza que descansa únicamente en Jesucristo y Su obra en la cruz por nuestros pecados. 
 
-#### "*son protegidos*" PHROUREO (presente, pasivo, particípio) - estar o volverse seguro y mantenerse bajo vigilancia.[^1] Somos continuamente los protegidos por Dios. No es nuestra fe que nos protege, es Dios. 
+#### "*son protegidos*" PHROUREO (presente, pasivo, participio) - estar o volverse seguro y mantenerse bajo vigilancia.[^1] Somos continuamente los protegidos por Dios. No es nuestra fe que nos protege, es Dios. 
 
 ##### Esto es algo asombroso. Vimos previamente que "*mediante la resurrección*" de Cristo hemos nacido de nuevo. Ahora vemos que mediante la fe estamos protegidos. 
 
-En el plan soberano de Dios, Él estableció que la salvación es únicamente por la fe. El medio por el cual el hombre es salvo es por el medio de la fe en Jesucristo. 
+##### En el plan soberano de Dios, Él estableció que la salvación es únicamente por la fe. El medio por el cual el hombre es salvo es por el medio de la fe en Jesucristo. 
 
-##### ¿Es tán poderosa nuestra fe como para protegernos? No. Lo que es poderoso es que Dios declara que todo el que en Él cree, no será decepcionado. Lo que es poderoso es que Dios conoció de antemano de nuestra fe y nos protege para recibir lo que Él prometio. Haber puesto nuestra confianza en Dios nos asegura todas estas cosas. 
+##### ¿Es tan poderosa nuestra fe como para protegernos? No. Lo que es poderoso es que Dios declara que todo el que en Él cree, no será decepcionado (1 Pedro 2:6). Lo que es poderoso es que Dios conoció de antemano de nuestra fe y nos protege para recibir lo que Él prometió. Haber puesto nuestra confianza en Dios nos asegura todas estas cosas. 
 
 #### Los resultados de la fe son eternas. 
 
@@ -241,7 +241,7 @@ En el plan soberano de Dios, Él estableció que la salvación es únicamente po
 
 #### Así como el fuego es bueno para separar el oro de las impurezas, las pruebas en la vida del creyente son buenos para probar su fe. 
 
-#### la prueba presente purifica al creyente como el oro es purificado por el fuego. Es importante entender que es bueno el sufrimiento presente. No somos víctimas de las circunstancias sino es "*necesario*" por "*un poco de tiempo*" que seamos "*afligidos con diversas pruebas*". 
+#### La prueba presente purifica al creyente como el oro es purificado por el fuego. Es importante entender que es bueno el sufrimiento presente. No somos víctimas de las circunstancias sino es "*necesario*" por "*un poco de tiempo*" que seamos "*afligidos con diversas pruebas*". 
 
 #### "*Prueba*" DOKIMON significa integridad, ausencia de falsedad. Después de "poner bajo fuego" nuestra fe, se elimina toda "escoria" y queda lo que es puro. Esto es nuestra fe probada o comprobada. 
 
@@ -251,11 +251,11 @@ En el plan soberano de Dios, Él estableció que la salvación es únicamente po
 
 #### El oro es un metal precioso que se ha utilizado para acuñar monedas, joyería y otras obras de arte a lo largo de la historia. En el pasado, el estándar de oro se implementaba a menudo como política monetaria.[^7]
 
-#### El sistema "monetaria" celestial es la fe aprobada. Establece valor y denota hermosura.  Resulta en alabanza, gloria y honor.
+#### El sistema "monetario" celestial es la fe aprobada. Establece valor y denota hermosura.  Resulta en alabanza, gloria y honor.
 
 ### 1 Pedro 1:7c "*...en la revelación de Jesucristo...*" cuando Cristo sea manifestado, también seremos manifestados con Él. Filipenses 3:20; Colosenses 3:4
 
-#### Cuando la Biblia habla de la revelación de Jesucristo, el énfasis típicamente es a la gloria que será manifiésto cuando Cristo sea revelado. 1 Pedro 1:13; Romanos 8:19; 1 Corintios 1:7; 1 Pedro 4:13
+#### Cuando la Biblia habla de la revelación de Jesucristo, el énfasis típicamente es a la gloria que será manifiesto cuando Cristo sea revelado. 1 Pedro 1:13; Romanos 8:19; 1 Corintios 1:7; 1 Pedro 4:13
 
 ### 1 Pedro 1:8a "*a quien sin haber visto, ustedes lo aman...*" Estos hermanos forasteros y peregrinos habían perdido sus hogares y todo lo que viene por ser perseguidos a causa de su amor por Jesucristo. Juan 14:28
 
@@ -265,7 +265,7 @@ En el plan soberano de Dios, Él estableció que la salvación es únicamente po
 
 #### "*creen*" PISTEUO (presente, activo, participio) confianza, fe. Ellos estaban siendo creyentes en Él. No estaban siendo distraídos ni desanimados por ser desterrados ni perseguidos. 
 
-### 1 Pedro 1:8c "*y se regocijan grandemente con gozo inefable y lleno de gloria,*" el resultado de estar atesorando Su Palabra por la fe y mirando la pronta venida de Jesucristo, resulta en ser gozosos y llenos de gloria. Romanos 15:13
+### 1 Pedro 1:8c "*y se regocijan grandemente con gozo inefable y lleno de gloria,*" el resultado de estar atesorando Su Palabra por la fe y mirando la pronta venida de Jesucristo, resulta en estar gozosos y llenos de gloria. Romanos 15:13
 
 ### 1 Pedro 1:9  "*obteniendo, como resultado de su fe, la salvación de sus almas.*" La santificación es la salvación de nuestras almas que es un resultado de nuestra fe. Colosenses 2:6; Romanos 6:22
 
@@ -281,21 +281,21 @@ En el plan soberano de Dios, Él estableció que la salvación es únicamente po
 
 ### La garantía de nuestra salvación (1:3-5)
 
-### La prueba (1:3): Está garantizada por la resurrección de Cristo.
+#### La seguridad (1:3): Está garantizada por la resurrección de Cristo.
 
-### La permanencia (1:4): Está reservada en el cielo para nosotros. 
+#### La permanencia (1:4): Está reservada en el cielo para nosotros. 
 
-### El poder (1:5): El gran poder de Dios nos asegura que llegaremos sanos y salvos al cielo.
+#### El poder (1:5): El gran poder de Dios nos asegura que llegaremos sanos y salvos al cielo.
 
 ### El gozo de nuestra salvación (1:6-9)
 
-### La promesa: Este gozo puede ser nuestro incluso en medio de las pruebas. (1:6)
+#### La promesa: Este gozo puede ser nuestro incluso en medio de las pruebas cuando conocemos que tienen un tiempo limite. (1:6)
 
-### Los frutos: Nuestras pruebas producen un doble fruto. (1:7-9)
+#### Los frutos: Nuestras pruebas producen un doble fruto. (1:7-9)
 
-### Aumentan nuestra fe en Dios (1:7).
+##### Aumentan nuestra fe en Dios (1:7).
 
-### Aumentan nuestro amor por Dios (1:8-9).
+##### Aumentan nuestro amor por Dios (1:8-9).
 
 ## 1 Pedro 1:10-12 Cumplimiento de la fe anunciado
 
