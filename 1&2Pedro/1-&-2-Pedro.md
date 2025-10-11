@@ -44,27 +44,27 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 1:1a *Pedro,* Pedro es autor del libro (1 Pedro 5:1) pero se transcribió por medio de Silvano (1 Pedro 5:12). 
 
-####  ¿Quién es Pedro? Pedro, originalmente Simon, era pescador, nacido en Betsaida. Juan 1:42-44; Mateo 4:19
+####  ¿Quién es Pedro? Pedro, originalmente Simón, era pescador, nacido en Betsaida. Juan 1:42-44; Mateo 4:19
 
 ##### Pedro era casado y tenía casa en Capernaúm. Su suegra vivía con ellos. Su padre se llamaba Jonás. Lucas 4:31, 38-40
 
 ##### Pedro había sido presentado a Jesús por su hermano Andrés. Juan 1:40-42
 
-##### Pedro era uno de tres discipulos que estuvieron presentes en tres eventos importantes: la resucitación de la hija de Jairo (Marcos 5:37), la transfiguración de Jesús (Mateo 17:1) y la agonía de Jesús en el jardín de getsemani (Mateo 26:37). 
+##### Pedro era uno de tres discípulos que estuvieron presentes en tres eventos importantes: la resucitación de la hija de Jairo (Marcos 5:37), la transfiguración de Jesús (Mateo 17:1) y la agonía de Jesús en el jardín de Getsemaní (Mateo 26:37). 
 
 #### Pedro era enviado a los judíos. Gálatas 2:7-8
 
 #### ¿De donde escribió Pedro? Pedro estaba con Marcos en Babilonia (1 Pedro 5:13). El debate es, ¿a que se refiere con Babilonia?, ¿es literal o simbólico?
 
-##### Existen argumentos que se trata de la ciudad de Babilonia. Es posible dado que la ciudad seguía habitada en parte. Una población judia nunca retornaron del exilio bajo los Babilonios. Las evidencias a favor de Babilonia siendo literal son menos que las que apuntan que Babilonia representa Roma en aquel entonces. 
+##### Existen argumentos que se trata de la ciudad de Babilonia. Es posible dado que la ciudad seguía habitada en parte. Una población judía nunca retornaron del exilio bajo los Babilonios. Las evidencias a favor de Babilonia siendo literal son menos que las que apuntan que Babilonia representa Roma en aquel entonces. 
 
-##### Más evidencia existe que Pedro se refiere a Roma en codigo. El cristianismo en las primeras décadas no había llegado tan lejos al este. Existen historiadores que mencionan a la ciudad de Babilonia en este tiempo como un gran desierto y que mucho de la ciudad había sido convertido para agricultura. 
+##### Más evidencia existe que Pedro se refiere a Roma en código. El cristianismo en las primeras décadas no había llegado tan lejos al este. Existen historiadores que mencionan a la ciudad de Babilonia en este tiempo como un gran desierto y que mucho de la ciudad había sido convertido para agricultura. 
 
 ##### Además Pedro menciona que Marcos (probablemente Juan Marcos) enviaba saludos (1 Pedro 5:13). Sabemos que Marcos estaba en Roma. Colosenses 4:10
 
-##### Sólo después de la caída del segundo templo (70 d.C.) y la revuelta de bar kokhba (132-135 d.C.) se puede seguir verdaderamente la historia del judaísmo babilónico. Las fuentes relativas a los dos primeros siglos de la era cristiana no hacen mención alguna de estudios organizados de la Torá en Babilonia y prácticamente no mencionan ningún erudito babilónico.[^10]
+##### Sólo después de la caída del segundo templo (70 d.C.) y la revuelta de Bar Kokhba (132-135 d.C.) se puede seguir verdaderamente la historia del judaísmo babilónico. Las fuentes relativas a los dos primeros siglos de la era cristiana no hacen mención alguna de estudios organizados de la Torá en Babilonia y prácticamente no mencionan ningún erudito babilónico.[^10]
 
-##### En los años cuando se escribió las cartas de 1 y 2 Pedro, los cristianos estaban bajo mucha persecución, especialmente en Roma. Pedro tendría buena razón por codificar el nombre para no devulgar información que pondría en peligro a los hermanos. 
+##### En los años cuando se escribió las cartas de 1 y 2 Pedro, los cristianos estaban bajo mucha persecución, especialmente en Roma. Pedro tendría buena razón por codificar el nombre para no divulgar información que pondría en peligro a los hermanos. 
 
 #### La tradición de la Iglesia dice que Pedro murió crucificado (con los brazos extendidos). Esto probablemente tuvo lugar tres meses después del desastroso incendio que destruyó Roma por el cual el emperador Nerón quiso culpar a los cristianos.[^8]
 
@@ -84,7 +84,7 @@ Title: 1 & 2 Pedro
 
 #### "*Elegidos*" EKLEKTOS puede referirse a:
 
-##### Israel (Deuteronomio 7:6), Reyes (1 Samuel 10:24), Ángeles (1 Timoteo 5:21), La Iglesia (Tito 1:1), Individuos (Romanos 16:13), Creyentes (Mateo 24:31) y El Mesias (Lucas 23:35).
+##### Israel (Deuteronomio 7:6), Reyes (1 Samuel 10:24), Ángeles (1 Timoteo 5:21), La Iglesia (Tito 1:1), Individuos (Romanos 16:13), Creyentes (Mateo 24:31) y El Mesías (Lucas 23:35).
 
 #### La doctrina de la elección ha sido corrompida y confusa por falsas enseñanzas. La enseñanza de que Dios eligió a algunos pecadores para la salvación, y que solo Cristo murió por ellos, y solo ellos pueden ser salvos no es conforme a la Biblia. Según los que enseñan la "elección soberana", la elección de Dios no tiene nada que ver con Su conocimiento previo de quiénes creerían.
 
@@ -135,21 +135,23 @@ Title: 1 & 2 Pedro
 
 ## En Síntesis (1 Pedro 1:1-2)
 
-### Pedro es el autor la carta. 
+### Pedro es el autor la carta.  1 Pedro 1:1a
 
-### Es dirigido a los dispersados en la zona que hoy conocemos como el norte de Turquía. 
+### Es dirigido a los dispersados en la zona que hoy conocemos como el norte de Turquía. 1 Pedro 1:1b
 
 ### La fuente de nuestra salvación (1:1-2)
 
-### los elegidos son obra de la Trinidad. 
+### Los elegidos son obra de la Trinidad. 
 
-#### Según el conocimiento previo del **Padre**
+#### Según el conocimiento previo del **Padre**. 1 Pedro 1:2a
 
-#### En santificación del **Espíritu**.
+#### En santificación del **Espíritu**. 1 Pedro 1:2b
 
-####  Rociados con la sangre de **Cristo**.
+####  Rociados con la sangre de **Cristo**. 1 Pedro 1:2c
 
 ### Pedro comienza su primera carta con un resumen de algunos hechos gloriosos sobre la salvación.
+
+### Pedro desea que la gracia y la paz de Dios  les sean dadas grandemente a estos creyentes. 1 Pedro 1:2d
 
 ## 1 Timoteo 1:3-5 La esperanza viva por la fe
 
