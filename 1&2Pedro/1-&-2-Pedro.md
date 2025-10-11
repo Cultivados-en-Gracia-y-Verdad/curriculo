@@ -415,11 +415,13 @@ Title: 1 & 2 Pedro
 
 #### "*redimidos*" LITROOMAI - ser o llegar a ser redimido mediante el pago exigido para el regreso de uno; usado para referirse a un cautivo.[^1]
 
-###  1 Pedro 1:18b "*no fueron redimidos de su vana manera de vivir...heredada de sus padres con cosas perecederas como oro o plata...*" la herencia de sus padres (probablemente perdido por ser desterrados) no les trajo redención. 
+###  1 Pedro 1:18b "*no fueron redimidos de su vana manera de vivir...heredada de sus padres*" lo que heredaron de sus padres era una vana manera de vivir. 
 
-###  1 Pedro 1:19a "*sino* [fueron redimidos de su vana manera de vivir] *con sangre preciosa,*
+### 1 Pedro 1:18c "*no fueron redimidos...con cosas perecederas como oro o plata...*" La redención de una vana manera de vivir no vino por cosas perecederas como oro o plata. 
 
-###  *como de un cordero sin tacha y sin mancha: la sangre de Cristo.*" ser redimido de una vana manera de vivir viene por herencia. Pero no con dinero o cosas materiales sino por el pago hecho en sangre por Jesucristo. Juan 1:29 
+###  1 Pedro 1:19a "*sino* [fueron redimidos de su vana manera de vivir] *con sangre preciosa...*" La sangre de Cristo fue el pago hecho para redimirlos de su vana manera de vivir. 
+
+###  1 Pedro 1:19b "*como de un cordero sin tacha y sin mancha: la sangre de Cristo.*" ser redimido de una vana manera de vivir viene por herencia. Pero no con dinero o cosas materiales sino por el pago hecho en sangre por Jesucristo. Juan 1:29 
 
 ###  1 Pedro 1:20a "*Porque Él estaba preparado desde antes de la fundación del mundo,*" En el plan del Padre, soberanamente preparó ( a Cristo como cordero desde antes de la fundación del mundo. 
 
