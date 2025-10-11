@@ -652,7 +652,7 @@ Title: 1 & 2 Pedro
 
 #### Vemos un contraste, ante Dios es preciosa esta piedra, ante los hombres es desechada y reprobada.
 
-##  1 Pedro 2:5 - creyentes como piedras vivas, formando parte en la edificación de una casa espiritual, un sacerdocio santo, mostrando un propósito vivo para Dios.
+###  1 Pedro 2:5 - creyentes como piedras vivas, formando parte en la edificación de una casa espiritual, un sacerdocio santo, mostrando un propósito vivo para Dios.
 
 ###  1 Pedro 2:5a *"también ustedes, como piedras vivas,..."* Considerando el ejemplo de Él (Cristo) como piedra viva, de esa misma manera también ustedes los creyentes sean piedras vivas utilizadas para un propósito.1 Corintios 3:9
 
@@ -716,19 +716,23 @@ Title: 1 & 2 Pedro
 
 #### La palabra escogido [EKLEKTOS] es un sustantivo que nos muestra su nueva identidad del creyente para con Dios. 
 
-#### Cabe aclarar que en este pasaje no se encuentra hablando de como ser salvo, o Dios escogiendo para salvación, sinó está mostrando un propósito que tiene para los creyentes, anunciar las virtudes de aquel...
+#### Cabe aclarar que en este pasaje no se encuentra hablando de como ser salvo, o Dios escogiendo para salvación, sino está mostrando un propósito que tiene para los creyentes, anunciar las virtudes de aquel.
 
 #### En el antiguo testamento vemos a Dios escogiendo una persona, una nación para anunciar al mundo la verdad. Génesis 12:1-3; Deuteronomio 7:6-8; Isaías 49:6; Hechos 13:46-47
 
-###  1 Pedro 2:9b *"...real sacerdocio,..."*
+###  1 Pedro 2:9b *"...real sacerdocio,..."* En el antiguo testamento observamos los sacerdotes terrenales de Dios como ministros de Dios. Isaías 61:6, 66:21
 
-#### Antes Israel tenía un sacerdocio sobre las cosas espirituales de Dios a todas las naciones, ahora nos muestra un sacerdocio, completamente real, o realeza.
+#### Sin embargo ahora los creyentes son llamados a ministrar y reinar con Cristo, nos muestra un sacerdocio real ó sacerdocio del Rey.
 
-#### estos sacerdotes tambien tienes roles de sacerdocios, hacen sacrificios espirituales.
+#### El rol de estos sacerdotes (Creyentes) es el de ofrecer sacrificios espirituales agradables a Dios. 1 Pedro 2:5
 
-###  *nación santa,*
+###  1 Pedro 2:9c *"...nación santa,..."* Como creyentes fuimos incluidos en el pueblo de Dios, y formamos ahora parte de la nación santa, una nación celestial.
 
-#### Ahora formamos parte de una nación, los creyentes, la cual no es terrenal, sinó celestial, conforme a lo que Hebreos nos muestra por la fe, Abraham esperaba una ciudad que no era hecha por mano, y ahora andemos como peregrinos en esta tierra hasta llegar a la ciudad celestial.
+#### Dios en el antiguo testamento escogió a una persona (Abraham) para hacer una nación terrenal, los cuales serían una nación santa si oían su voz y guardaban su pacto. Éxodo 19:6
+
+#### 
+
+#### Ahora formamos parte de una nación, los creyentes, la cual no es terrenal, sino celestial, conforme a lo que Hebreos nos muestra por la fe, Abraham esperaba una ciudad que no era hecha por mano, y ahora andemos como peregrinos en esta tierra hasta llegar a la ciudad celestial.
 
 ###  *pueblo adquirido para posesión de Dios,*
 
