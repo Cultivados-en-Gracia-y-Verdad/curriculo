@@ -1520,7 +1520,7 @@ Title: 1 & 2 Pedro
 
 # 1 Pedro 4:1-6 – Viviendo para la voluntad de Dios
 
-### 1 Pedro 4:1 El sufrimiento de Cristo como un ejemplo para armarse del mismo proposito 1Pedro 2:21
+### 1 Pedro 4:1 El sufrimiento de Cristo como un ejemplo para armarse del mismo propósito y vivir la voluntad de Dios 1Pedro 2:21
 
 #### Cristo en su buena conducta y haciendo lo bueno, aunque padecio en el cuerpo, aquel sufrimiento fue pequeño comparado con la victoria que obtuvo de vencer el pecado, vencer el mal con el bien. Este pasaje no esta enseñando asetismo, sino que este sufrimiento es causado por hacer el bien 1 Pedro 2:21-22.
 
@@ -1590,21 +1590,37 @@ Title: 1 & 2 Pedro
 
 #### Para vivir el resto que nos queda en nuestro cuerpo fisico haciendo el bien, necesitamos estar equipados del armamento del pensamiento de Cristo y entender que la volundad de Dios es especificamente en hacer el bien y no el mal.
 
-###  1 Pedro 4:3a "*Porque el tiempo ya pasado les es suficiente para haber hecho lo que agrada a los gentiles,...*"
+### 1 Pedro 4:3 Lo que a los gentiles les agrada hacer no se asemejna ni se relaciona con el vivir ni en el andar con la voluntad de Dios.
 
-### 1 Pedro 4:3b "*...habiendo andado...*" 
+###  1 Pedro 4:3a "*Porque el tiempo ya pasado les es suficiente...*" El tiempo ya pasado puede referirse a que en otro tiempo no eramos parte del pueblo de Dios. 1 Pedro 2:10
 
-###  *en sensualidad,*
+#### Y en el tiempo pasado andabamos descarriados, en las vanidades de una mente entenebrecida satisfaciendo los deseos de nuestras pasiones humanas. 1 Pedro 2:25; Efesios 2:3, 4:18
 
-###  *lujurias,*
+#### Todo aquello, es pasado y también es suficiente, porque ha sido un tiempo perdido, o desperdiciado, asi como lo traduce la biblia (BAD1989) 1 Pedro 4:3: "Pues ya basta con el tiempo que habéis desperdiciado…" antes de llegar a conocer a Dios andabamos sin guia, sin rumbo, sin esperanza, perdidos en nuestros deleites, sin esperanza y sin Dios en el mundo, lo cual no tenia ningun propósito.
 
-###  *borracheras,*
+###  1 Pedro 4:3b "...para haber hecho lo que agrada a los gentiles,...*" Todo nuestro andar en el tiempo pasado era agradable para la corriente del mundo en la que los gentiles que no conocen a Dios, disfrutan vivir. Romanos 6:21
 
-###  *orgías,*
+#### aquí Pedro usa esta palabra, no con el objetivo de demostrar que el pueblo judio no anda conforme a las pasiones humanas, a diferencia de los gentiles, sino, al contrario un judio incredulo, al igual que, un gentil incrédulo, es de la misma manera esclavo de las pasiones humanas.
 
-###  *embriagueces,*
+#### Esta palabra ÉTHNOS, en el griego tiene su uso en referencia a nación o también podría tener el uso de Linaje.
 
-###  *y abominables idolatrías.*
+##### Según 1 Pedro 2:9 todo creyente forma parte de la nación santa de Dios. Y todo incredulo no es pueblo de Dios,  1 Pedro 2:10.
+
+##### Entonces, Gentiles ETHNOS estaría mejor traducido como "Incrédulos", o también como "paganos", como lo traduce la biblia (BAD1989) "...*haciendo lo que agrada a los incrédulos*..." porque no forman del pueblo adquirido de Dios.
+
+### 1 Pedro 4:3b "*...habiendo andado...*" Esto nos recuerda que en un tiempo pasado anduvimos en caminos que les agrada a los incrédulos, en sensualidades que lascivia o libertinaje sexual, lo que no se relaciona en nada con la nueva vida que tenemos en Cristo.
+
+###  1 Pedro 4:3c "*... en sensualidad,...*" Esto nos recuerda que en un tiempo pasado anduvimos en caminos que les agrada a los incrédulos, en sensualidades que lascivia o libertinaje sexual, lo que no se relaciona en nada con la nueva vida que tenemos en Cristo.
+
+###  1 Pedro 4:3d "*... lujurias,...*" EPITHUMIA, se relaciona con los deseos lujuriosos, específicamente por los deseos de la carne.
+
+###  1 Pedro 4:3e "*... borracheras,...*" ONIFLUGIA exceso de vino, para andar en estado de embriaguez.
+
+###  1 Pedro 4:3f "*...orgías,...*" KOMOS fiestas descontroladas donde las lujurias y sensualidades son sin limite que en la antigüedad invitada a todo el pueblo a participar de desenfreno sexual.
+
+###  1 Pedro 4:3g "*... embriagueces,...*" POTOS Banquetes de muchas variedades de bebidas.
+
+###  1 Pedro 4:3h "*...y abominables idolatrías.*" idolatría es la transliteración de la  palabra griega EIDOLATREIA, que quiere decir que los incrédulo participan en la adoración de imágenes que no tienen vida y es completamente abominable delante de Dios.
 
 ###  1 Pedro 4:4 *Y en todo esto, se sorprenden de que ustedes no corren con ellos en el mismo desenfreno de disolución, y los insultan.*
 
@@ -1726,19 +1742,31 @@ Title: 1 & 2 Pedro
 
 ### 1 Pedro 5:1 *exhorto yo...anciano como ellos* Aunque en el princípio se su carta se presenta como apostol, ahora pasa a ser un anciano, mostrando la transición de apóstol a anciano. Hechos 2:43, 5:12, 8:1, 15:2, 4, 6. 
 
-### 1 Pedro 5:1 *exhorto yo...y testigo de los padecimientos de Cristo,* Pedro mismo se mostró como un creyente padecero por causa de Cristo. Asi también sabia un creyente que al podecido sufrimientos por Cristo seria participante de Su gloria.  Mateo 28:7-8; Marco 16:7; Lucas 23:55, 24:9-12, 33
+### 1 Pedro 5:1 *exhorto yo...y testigo de los padecimientos de Cristo,* Es curioso, aunque Pedro vio ocularmante parte del juicio de Jesús, no estuvo durante todos sus padecimientos. Entonces, ¿a que se refiere? Marcos 14:66-72; Mateo 26:31, 69-75; Lucas 22:31-34, 54, 61-62; Juan 18:15-18, 25-27. 
 
-### 1 Pedro 5:1 *exhorto yo...y también participante de la gloria que ha de ser revelada:* Es curioso, aunque Pedro vio ocularmante parte del juicio de Jesús, no estuvo durante todos sus padecimientos. Entonces, ¿a que se refiere? md 1,5,7 2 Timoteo 2:6-13; 2 Pedro 1:11
+#### En el contexto de la carta, Pedro tambien habría estado siendo participante de las aflicciones de Cristo, entonces el funge como testigo al atravesar por las afliciones. Vivir piadosamente en Cristo traerá afflicciones. Hechos 4:21-22; 5:45; 1 Pedro 4:4, 4:12-16, 2:20-21; 2 Timoteo 3:12; 1 Tesalonicenses 3:3-4
 
-#### En el contexto de la carta, Pedro tambien habría estado siendo participante de las aflicciones de Cristo, entonces el funge como testigo, vivir piadosamente en Cristo traerá afflicciones. Hechos 5:45; 1 Pedro 4:4, 4:12-16, 2:20-21; 2 Timoteo 3:12; 1 Tesalonicenses 3:3-4
+### 1 Pedro 5:1 *exhorto yo...y también participante de la gloria que ha de ser revelada:* Asi como ha sido participante de los sufrimientos de Cristo, es participante de su gloria. 2 Timoteo 2:9-13; 2 Pedro 1:11
 
-### 1 Pedro 5:2 *pastoreen* un anciano tiene el rol (responsabilidad) de pastorear, apasentar el rebaño. Esto no solo incluye velar, sino proteger y guiar hacia pastos verdes a Cristo. 
+#### Pedro mismo se mostra como un creyente que padecio por causa de Cristo. Asi también como un creyente que al haber padecido sufrimientos por Cristo seria participante de Su gloria.  
 
-### 1 Pedro 5:2 *el rebaño de Dios entre ustedes,* el rebaño es de Dios. La preposición "de" indica propiedad u origen. Los ancianos tienen un rol de pastorear al que le pertenece a Dios. El rebaño (los creyentes de la iglesia local) no le pertenece a los ancianos. 
+#### Esta gloria se manifestara en un tiempo futuro, aludiendo a la segunda venida de Cristo, donde el sera manifestado en gloria.
 
-### 1 Pedro 5:2 *velando por él,* El pastorear al rebaño es velando por el. El anciano debe velar, guiar al rebaño. 
+### 1 Pedro 5:2 *pastoreen* un anciano tiene el rol (responsabilidad) de pastorear, apasentar el rebaño. Esto no solo incluye velar, sino proteger y guiar hacia pastos verdes, hacia Cristo. 
 
-### 1 Pedro 5:2 *no por obligación,* 1 Tes 3:1 nos dice que el que desea obispado buena obra desea. 
+#### Muchas veces pasar por sufrimientos puede desalentar a los creyente, entre ellos a los ancianos provocando se apatrten de su rol o descuidandolo.
+
+### 1 Pedro 5:2 *el rebaño de Dios entre ustedes,* El rebaño es de Dios. La preposición "de" indica propiedad u origen. Los ancianos tienen un rol de pastorear lo que le pertenece a Dios. El rebaño (los creyentes de la iglesia local) no le pertenece a los ancianos. 
+
+#### La frase "entre ustedes" nos muestra que los ancianos tambien forman parte del rebaño.
+
+### 1 Pedro 5:2 *velando por él,* Pastorear el rebaño es velar por el. El anciano debe velar, guiar al rebaño. 
+
+#### Interesantemente este trabajo va direccionado a que el anciano direccione a los creyente a Cristo y no a seguirlos a ellos.
+
+### 1 Pedro 5:2 *no por obligación,* 1 Timoteo 3:1 nos dice que el que desea obispado buena obra desea. 
+
+#### El pastorear al rebaño no debe ser una tarea forzosa para el anciano, no debe estarlo haciendo por obligacion.s
 
 ### 1 Pedro 5:2 *sino voluntariamente,* Un anciano pastorea voluntariamente. El deseo de velar se sujeta a escuchar a Dios. Quiere cuidar de Su rebaño. 
 
