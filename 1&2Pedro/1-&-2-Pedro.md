@@ -173,15 +173,25 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 1:4a  "*para obtener una herencia,*" Parte de nuestra esperanza viva es que nos hizo nacer de nuevo para recibir una herencia. 
 
-###  1 Pedro 1:4b "*incorruptible, inmaculada y que no se marchitará, reservada en los cielos para ustedes*". Es una herencia que no se contamina con el tiempo, no tiene falla ni se arruina. Esta herencia está guardada en los cielos. 
+###  1 Pedro 1:4b "*incorruptible, inmaculada y que no se marchitará, reservada en los cielos*". Es una herencia que no se contamina con el tiempo, no tiene falla ni se arruina. Esta herencia está guardada en los cielos. 
 
 #### "*Reservada*" TEREO (perfecto, pasivo, participio) - mantenerse o llegar a mantenerse en un determinado estado, posición o actividad.[^1]
 
 #### Puesto de otra manera, según Su previo conocimiento y motivado por Su misericordia, Dios nos hizo nacer para recibir una herencia reservada en los cielos. 
 
+### 1 Pedro 1:4c "...*para ustedes...*" Esto era para los creyentes a los que escribía Pedro. ¿Será una realidad para ti también?
+
+#### ¿Cómo se que soy un elegido de Dios? 
+
+#### ¿Cómo puedo saber que tengo una esperanza viva? 
+
+#### ¿Que sé que recibiré una herencia en los cielos? 
+
+#### ¿Cómo puedo saber si estoy siendo cuidado por el poder de la fuerza de Dios?
+
 ## 1 Pedro 1:5-7 La importancia de la nuestra fe
 
-###  1 Pedro 1:5a  "*...Mediante la fe ustedes son protegidos por el poder de Dios,*" Cuando creímos la promesa, el poder, la misericordia, la herencia y ser protegidos por Dios llegan a hacerse una realidad. 1 Pedro 5:10, 1:9
+###  1 Pedro 1:5a  "*...Mediante la fe ustedes son protegidos por el poder de Dios,*" Cuando creímos la promesa, el poder, la misericordia, la herencia y ser protegidos por Dios llegan a hacerse una realidad . 1 Pedro 5:10, 1:9
 
 #### "*Mediante la fe*" no significa para nada que sea requerido cualquiera de los siguientes:
 
@@ -225,7 +235,7 @@ Title: 1 & 2 Pedro
 
 #### "*Revelada*" APOCALIPTO (aoristo, pasivo, infinitivo) - ser o llegar a ser conocido por el público; especialmente información que anteriormente sólo era conocida por unas pocas personas o que debía mantenerse en secreto.[^1]
 
-### En última instancia, la fe hace que la soberanía de Dios en proveer salvación por el medio de la fe en Jesucristo sea confirmada y la promesa entra en juego al individuo. El poder de Dios guarda a los creyentes "*mediante la fe*" para la salvación que está preparada para ser revelada en el tiempo postrero, asegurando así que su herencia "*incorruptible e inmaculada, y cuyo destino no está lejos, reservada en los cielos*".
+#### En última instancia, la fe hace que la soberanía de Dios en proveer salvación por el medio de la fe en Jesucristo sea confirmada y la promesa entra en juego al individuo. El poder de Dios guarda a los creyentes "*mediante la fe*" para la salvación que está preparada para ser revelada en el tiempo postrero, asegurando así que su herencia "*incorruptible e inmaculada, y cuyo destino no está lejos, reservada en los cielos*".
 
 ## 1 Timoteo 1:6-9 La fe probada
 
@@ -271,7 +281,7 @@ Title: 1 & 2 Pedro
 
 #### No solo resulta en gozo y gloria en el presente y el futuro sino que hay salvación de almas. 
 
-#### Los receptores de la carta habían estado gozosos a pesar de las pruebas. Estaban experimientando los resultados de la sana enseñanza que habían recibido de Pedro y otros. 
+#### Los receptores de la carta habían estado gozosos a pesar de las pruebas. Estaban experimentando los resultados de la sana enseñanza que habían recibido de Pedro y otros. 
 
 #### Que significa esta expresión, ¿la salvación de sus almas?
 
@@ -303,7 +313,7 @@ Title: 1 & 2 Pedro
 
 #### La palabra salvación SOZO es usada 4 veces en 1 Pedro y una vez en 2 Pedro. 1 Pedro 1:5, 9, 10, 2:2; 2 Pedro 3:15
 
-#### el uso de almas PSUCHE. 1 Pedro 1:9, 22, 2:11, 2:25, 3:20, 4:19
+#### Veamos el uso de almas PSUCHE en 1 Pedro. 1 Pedro 1:9, 22, 2:11, 2:25, 3:20, 4:19
 
 ##### 1Pedro 1:9 "*obteniendo, como resultado de su fe, la salvación de sus **almas**.*" Esta hablando de una salvación obtenida ya o que estaba en proceso? 
 
@@ -405,7 +415,7 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 1:17b "*condúzcanse con temor durante el tiempo de su peregrinación.*"
 
-#### "*condúzcanse*" ANASTREPHO (aoristo, pasivo, imperativo)- comportarse de una determinada manera, entendido como caminar de un lado a otro en un lugar.[^1]
+#### "*condúzcanse*" ANASTREPHO (aoristo, pasivo, imperativo) - comportarse de una determinada manera, entendido como caminar de un lado a otro en un lugar.[^1]
 
 ##### La voz pasiva de condúzcanse nos ayuda entender que debían dejarse conducir por Dios y no hacer en sus propios esfuerzos estando separado de Dios. 
 
