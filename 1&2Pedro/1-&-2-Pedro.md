@@ -1745,17 +1745,29 @@ Es dificil el pastorear al rebaño. Es facil perder el foco del porque seguir.  
 
 ### *estén sujetos a los mayores.*
 
-### *Y todos, revístanse de humildad en su trato mutuo,* Es es claro, de humildad en trato mutuo no es algo que sera posible separado de Cristo. Es facil vernos de manera soberbia y no como quienes somos en realidad. Jesus dijo aprended de mi que soy manso y humilde 
+### *Y todos, revístanse de humildad en su trato mutuo,* Es es claro, de humildad en trato mutuo no es algo que sera posible separado de Cristo. Es facil vernos de manera soberbia y no como quienes somos en realidad. Jesus dijo aprended de mi que soy manso y humilde. A la luz de la verdad en Cristo y en relación a quienes somos en redad y a tratar a nuestros hermanos como quienes son en verdad, hijos de Dios, salvados por gracia, amados por Dios nuestra salvación (gracia) no proviene de nosotros sino de Dios. Filipenses 2:3-4
 
-### *porque DIOS RESISTE A LOS SOBERBIOS, PERO DA GRACIA A LOS HUMILDES.*
+### *porque DIOS RESISTE A LOS SOBERBIOS,* literalmente dicho, Dios esta contra los orgullosos. Esto es una realidad que muchas veces pasamos por alto. Aveces nuestro orgullo, inflados, no vemos con claridad la verdad que Dios nos está resistiendo. 
 
-### 1 Pedro 5:6 *Humíllense, pues, bajo la poderosa mano de Dios,*
+#### Tal vez pensamos que Dios solo resiste a los incrédulos pero aquí vemos que también lo hace con los creyentes que andan en soberbia. 
 
-### *para que Él los exalte a su debido tiempo,*
+### *PERO DA GRACIA A LOS HUMILDES.* Dios da gracia a los humildes. Un claro ejemplo es que nos dió vida eterna por la fe. 
 
-### 1 Pedro 5:7 *echando toda su ansiedad sobre Él,*
+### 1 Pedro 5:6 *Humíllense, pues, * lo que Pedro propone aquí no es que nos aflijamos delante de Él sino más bien que en medio de los sufrimientos que podamos unjustamente ignorando la verdad exigir justicia social, queriendo nosotros actuar.
 
-### *porque Él tiene cuidado de ustedes.*
+Humillarse esta unido a estimularnos más de lo que somos, no como jueces o justicieros. 
+
+"*bajo la poderosa mano de Dios,*" humillarse esta ligado a colocarse bajo la poderosa mano de Dios. Si padecemos o sufrimos como cristianos es un gozo porque somos participantes de las aflicciones de Cristo. No es que Dios se olvidó de nosotros pero en medio del sufrimiento podemos refugiarnos en Su poder y gracia
+
+### *para que Él los exalte* 
+
+### *a su debido tiempo,* Dios promete exaltar al que se humille bajo su poderosa mano. 
+
+No se nos dice cuanto tiempo pero nos dice que es seguro. Podemos descansar en Dios en cuanto a los sufrimientos, nuestras preocupaciones, anciedad es pude ser un fruto en medio del sufrimiento pero no sufrimiento en vano. 
+
+### 1 Pedro 5:7 *echando toda su ansiedad sobre Él,* Echar nuestra anciedad tiene que ver porque Dios cuida de nosotros. 
+
+### *porque Él tiene cuidado de ustedes.* Nuestra ansiedad que surge de los padecimientos puede ser echada porque el nos cuida. 
 
 ### 1 Pedro 5:8 *Sean de espíritu sobrio, estén alerta.*
 
