@@ -1762,25 +1762,37 @@ Title: 1 & 2 Pedro
 
 ### 1 Pedro 5:2 *velando por él,* Pastorear el rebaño es velar por el. El anciano debe velar, guiar al rebaño. 
 
-#### Interesantemente este trabajo va direccionado a que el anciano direccione a los creyente a Cristo y no a seguirlos a ellos.
+#### Interesantemente este trabajo va dirigido a que el anciano direccione a los creyente a Cristo y no a seguirlos a ellos.
 
 ### 1 Pedro 5:2 *no por obligación,* 1 Timoteo 3:1 nos dice que el que desea obispado buena obra desea. 
 
-#### El pastorear al rebaño no debe ser una tarea forzosa para el anciano, no debe estarlo haciendo por obligacion.s
+#### El pastorear al rebaño no debe ser una tarea forzosa para el anciano, no debe estarlo haciendo por obligacion.
 
-### 1 Pedro 5:2 *sino voluntariamente,* Un anciano pastorea voluntariamente. El deseo de velar se sujeta a escuchar a Dios. Quiere cuidar de Su rebaño. 
+### 1 Pedro 5:2 *sino voluntariamente,* Un anciano pastorea voluntariamente en el deseo de velar por el rebaño se sujeta a como Dios quiere cuidar de Su rebaño. 
 
-### 1 Pedro 5:2 *como quiere Dios; no por la avaricia del dinero,* un anciano no deberia pastorear por la aviricia del dinero. No significa que no el obrero no es digno de su salario. Aquí el problema es que su foco u objetivo no es velar por el rebaño, sino por dinero como un asalariado que no le importa el rebaño. 
+#### A continuacion veremos como Dios quiere que un anciano pastoree velando por el rebaño, asi mismo como Dios no quiere que se pastoree sobre su rebaño.
 
-### 1 Pedro 5:2 *como quiere Dios...sino con sincero deseo;* desea por la grey avivar y guiar hacia Cristo. 
+### 1 Pedro 5:2 *como quiere Dios; no por la avaricia del dinero,* un anciano no deberia pastorear por la aviricia del dinero. No significa que el obrero no es digno de su salario. Aquí el problema es que su foco no es velar por el rebaño, sino el dinero, como un asalariado que no le importa el rebaño. 
+
+### 1 Pedro 5:2 *como quiere Dios...sino con sincero deseo;* Dios quiere que lleven acabo su rol con sincero deseo de velar por la grey y guiarlos hacia Cristo. 
+
+#### Esto es muy importante considerando que el anciono es el reponsable de enseñar el evangelio al rebaño y cuidarlos de falsa enseñanza.
 
 ### 1 Pedro 5:3 *tampoco como teniendo señorío sobre los que les han sido confiados,* Podemos ver que un anciano no debe pastorear pretendiendo tener señorío o estar sobre los creyentes. El anciano no es señor o un mandamás del rebaño donde la palabra del anciano es ley. 
 
-### 1 Pedro 5:3 *sino demostrando ser ejemplos del rebaño.* un anciano debe ser ejemplo entre los creyentes de una andar de fe en dependencia De Dios. Enseñando a sujetarse y afirmarse a Cristo y no a ellos. Deben ser un ejemplo de lo que la gracia de Dios puede hacer. 
+#### El anciano debe ser conciente de que el tambien forma parte del rebaño entre el cual pastorea.
 
-#### Lo es facil que en medio de aflicciones un anciano abandone al rebaño, acomodarse a cambiar la escritura con tal de no sufrir por la palabra del evangelio. Que en vez de cambiar las Escrituras para apoderarse del rebaño pueda ser ejemplo para incrementar que la esperanza esté puesta en Cristo. 
+#### Podemos ver que creyentes le fueron confiados al anciano, como el dueño de casa que le confia uno de sus siervos el bienestar de sus compañeros.
+
+### 1 Pedro 5:3 *sino demostrando ser ejemplos del rebaño.* un anciano debe ser ejemplo entre los creyentes de un andar de fe en dependencia de Dios. Enseñando a sujetarse y afirmarse a Cristo y no a ellos. Deben ser un ejemplo de lo que la gracia de Dios puede hacer. 
+
+#### Lo facil es que en medio de aflicciones un anciano abandone al rebaño, acomodandose a cambiar la escritura con tal de no sufrir por la palabra del evangelio. Tambien podria tomar posesion del rebaño para enriqueserse, buscando su bienestar. 
+
+#### Pero que hermoso es cuando aun en medio de sufrimientos por causa de Cristo su esperanza este puesta en El, desando velar por el rebaño, siendo ejemplo en fe, esto se muestra agradable delante de Dios.
 
 ### 1 Pedro 5:4 *Y cuando aparezca el Príncipe de los pastores,* Jesús es descrito como el Príncipe de los pastores. El anciano como pastor, esta por debajo del Príncipe de pastores. 
+
+#### Esta descripcion se puede traducir como el jefe de los pastores.
 
 #### Es dificil el pastorear al rebaño. Es facil perder el foco del porque seguir.  El anciano es invitado a poner su esperanza en la venida del Señor. 
 
