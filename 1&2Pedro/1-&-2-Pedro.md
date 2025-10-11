@@ -277,7 +277,7 @@ Title: 1 & 2 Pedro
 
 ##### La Biblia dice, "*Obteniendo el fin de vuestra fe, que es la salud de vuestras almas*". (RVR09)
 
-## En Síntesis (1 Timoteo 1:3-9)
+## En Síntesis (1 Pedro 1:3-9)
 
 ### La garantía de nuestra salvación (1:3-5)
 
@@ -357,37 +357,37 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 1:13a "*Por tanto...*" equivale a, "en vista del hecho de que aunque están pasando por muchas clases de pruebas (1 Pedro 1:6), sin embargo, porque su herencia celestial les espera" (1 Pedro 1:3-6), preparen su entendimiento para la acción (1 Pedro 1:13).
 
-###  1 Timoteo 1:13b "*preparen su entendimiento...*" Es interesante esta expresión...preparen su entendimiento...no dice preparen sus manos o su mente. Dios quiere transformar nuestro entendimiento. Romanos 12:1-2; 2 Corintios 10:5; Salmo 1:2; 1 Pedro 2:9
+###  1 Pedro 1:13b "*preparen su entendimiento...*" Es interesante esta expresión...preparen su entendimiento...no dice preparen sus manos o su mente. Dios quiere transformar nuestro entendimiento. Romanos 12:1-2; 2 Corintios 10:5; Salmo 1:2; 1 Pedro 2:9
 
-### 1 Timoteo 1:13c "*para la acción...*" el entendimiento preparado para acción? Recibirían mayor entendimiento? El entendimiento entraría en acción para recibir mayor entendimiento? 
+### 1 Pedro 1:13c "*para la acción...*" ¿el entendimiento preparado para la acción? ¿Recibirían mayor entendimiento? ¿El entendimiento entraría en acción para recibir mayor entendimiento? 
 
-###  1 Pedro 1:13b "*Sean sobrios en espíritu...*" debian estar en un estado de razónamiento para recibir entendimiento a traves de lo que el Señor les enseñaría. 
+###  1 Pedro 1:13d "*Sean sobrios en espíritu...*" debían estar en un estado de razonamiento para recibir entendimiento a través de lo que el Señor les enseñaría. 
 
 #### "*Sobrios*" NEPHO - significa frenar la influencia controladora de emociones o deseos desmesurados (y por lo tanto volverse razonable); concebido como ponerse sobrio de la influencia del alcohol.[^1]
 
-###  1 Pedro 1:13c "*pongan su esperanza...*" Aquí vemos el primer imperativo en el libro de 1 Pedro. Pablo dice, manda a que fijen su esperanza. 
+###  1 Pedro 1:13e "*pongan su esperanza...*" Aquí vemos el primer imperativo en el libro de 1 Pedro. Pablo dice, manda a que fijen su esperanza. 
 
 #### "*Pongan su esperanza*" ELPIZO (aoristo, activo, imperativo) significa esperar y desear algo. 
 
 #### ¿En qué debían fijar su esperanza? 
 
-###  1 Pedro 1:13d *completamente en la gracia que se les traerá en la revelación de Jesucristo.* Mantenerse, completamente en la gracia que será traida en la revelación de Jesucristo debe ser al centro de la diana de su mirada. 
+###  1 Pedro 1:13f *"...completamente en la gracia que se les traerá en la revelación de Jesucristo."* Apoyarse, completamente en la gracia que será traída en la revelación de Jesucristo debe ser al centro de la diana de su mirada. 
 
-###  1 Pedro 1:14a *Como hijos obedientes...*igual que un hijo que obedece a sus padres.
+###  1 Pedro 1:14a *"Como hijos obedientes..."* Igual que un hijo que escucha a la voz sus padres.
 
-###  1 Pedro 1:14b "*no se conformen a los deseos que antes tenían en su ignorancia...*" ¿que deseos tenían a los que no debian conformarse?
+###  1 Pedro 1:14b "*no se conformen a los deseos que antes tenían en su ignorancia...*" ¿que deseos tenían a los que no debían conformarse?
 
 #### "*Conformen*" SYSCHEMATIZO (presente, media o pasiva, participio) - ser o volverse conductual o socialmente similar a; concebido como ser o llegar a ser moldeado o formado según un patrón determinado.[^1]
 
-###  1 Pedro 1:15a "*sino que así como Aquel que los llamó es Santo...*" estos creyentes expatriados habían sido llamados por una persona. El enfasis aquí no es a donde les llamo, no como les llamo pero que clase de persona es. Dios es santo. 
+###  1 Pedro 1:15a "*sino que así como Aquel que los llamó es Santo...*" Estos creyentes expatriados habían sido llamados por una persona. El énfasis aquí no es a dónde les llamo, no cómo les llamo, sino que clase de persona es, Dios es santo. 
 
 #### "*santo*" HAGIOS - separado de la condición y uso común; dedicado. [^4]
 
-#### Cuando respondimos por la fe al llamado de Dios, llegamos a ser declarados santos por medio de Jesucristo el santo. 
+#### Cuando respondimos por la fe al llamado de Dios, llegamos a ser declarados santos por medio de Jesucristo el santo. 1 Corintios 1:2
 
-###  1 Pedro 1:15b *así también sean ustedes santos en toda su manera de vivir.* Como llamados de Dios afuéra del mundo para si mismo, debían tener la forma de vivir que refleja como Dios es. Dios es santo, todo su diario vivir debía ser santo. 
+###  1 Pedro 1:15b *así también sean ustedes santos en toda su manera de vivir.* Como llamados de Dios afuera del mundo para Si mismo, debían tener la forma de vivir que refleja como Dios es. Dios es santo, todo su diario vivir debía ser santo. 
 
-#### la santidad al andar (su manera de vivir) es un andar piadoso. Es visible ante las personas. 
+#### La santidad al andar (su manera de vivir) es un andar piadoso. Es visible ante las personas. 
 
 ###  1 Pedro 1:16 *Porque escrito está: «SEAN SANTOS, PORQUE YO SOY SANTO».* esta es una cita de Levítico 19:2 en la Septuaginta. 
 
@@ -450,7 +450,6 @@ Title: 1 & 2 Pedro
 ###  1 Pedro 1:22c "*...ámense unos a otros entrañablemente...*" Se pueden amar unos a otros con fervor.
 
 #### "*Ámense*" (aoristo, activo, imperativo) El creyente es mandado a amar a otros. Aquí, los creyentes son llamados a amarse. 
-
 #### "*Entrañablemente*" EKTENOS - con entusiasmo, de una manera seria, ferviente.[^1]
 
 ###  1 Pedro 1:22d "*ámense...de corazón puro.*" No solo con amor sincero, y entrañablemente sino con pureza de corazón. 
@@ -491,7 +490,7 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 1:24c "*SÉCASE LA HIERBA, CÁESE LA FLOR,*" Las personas luchan para mantener la flor sin secarse porque al secarse la flor desvanece su gloria. La flor tiene una gloria poca duradera. Santiago 1:10-11
 
-###  1 Pedro 1:25a "*PERO LA PALABRA DEL SEÑOR PERMANECE PARA SIEMPRE».*" En contraste (Pero) con la carta vida de la carne y su gloria, La Palabra de Dios permanece para siempre. 
+###  1 Pedro 1:25a "*PERO LA PALABRA DEL SEÑOR PERMANECE PARA SIEMPRE».*" En contraste (Pero) con la corta vida de la carne y su gloria, La Palabra de Dios permanece para siempre. 
 
 #### La palabra de Dios no cambia
 
@@ -501,7 +500,7 @@ Title: 1 & 2 Pedro
 
 #### La palabra de Dios es verdadera
 
-#### La palabra de Dios es de enternidad pasada a enternidad futura. 
+#### La palabra de Dios es desde eternidad pasada a eternidad futura. 
 
 #### La palabra de Dios no cambia según los tiempos
 
@@ -517,57 +516,49 @@ Title: 1 & 2 Pedro
 
 ### LOS PROFETAS DEL ANTIGUO TESTAMENTO Y NUESTRA SALVACIÓN (1:10-12a)
 
-### Lo que no entendieron: No pudieron comprender plenamente todas sus profecías.  (1:10-11)
+#### Lo que no entendieron: No pudieron comprender plenamente todas sus profecías concernientes a la obra futura del Mesías. 
 
-### concernientes a la obra futura del Mesías. 
+##### En cuanto a su dolor (1:10-11a)
 
-### En cuanto a su dolor (1:10-11a)
+##### En cuanto a su gloria (1:11b)
 
-### En cuanto a su gloria (1:11b)
-
-### Lo que sí entendieron: Sabían que sus profecías no se cumplirían hasta después de su muerte. (1:12a)
+#### Lo que sí entendieron: Sabían que sus profecías no se cumplirían hasta después de su muerte. (1:12a)
 
 ### LOS ÁNGELES Y NUESTRA SALVACIÓN (1:12b): Anhelaban saber más sobre este maravilloso tema.
 
 ### LA RESPUESTA A NUESTRA SALVACIÓN (1:13-17)
 
-### En cuanto a nosotros mismos: Debemos ser autocontrolados. (1:13)
+#### En cuanto a nosotros mismos: 
 
-### En cuanto a nuestro Salvador (1:14-17)
+##### Debemos tener el entendimiento preparado (1:13a) 
 
-### Debemos ser santos ante Dios (1:14-16).
+##### Debemos ser autocontrolados. (1:13b)
 
-### Debemos ser reverentes hacia Dios (1:17).
+##### Debemos tener nuestra esperanza únicamente en la manifestación nuestro Salvador Jesucristo (1:13c)
+
+#### En cuanto a nuestro Salvador (1:14-17)
+
+##### Debemos ser santos ante Dios (1:14-16).
+
+##### Debemos ser reverentes hacia Dios (1:17).
 
 ### EL COSTO DE NUESTRA SALVACIÓN (1:18-21)
 
-### El Precio (1:18-19)
+#### El Precio (1:18-19)
 
-#### Negativo: No se compró con plata ni oro. (1:18)
+##### Negativo: No se compró con plata ni oro. (1:18)
 
-#### Positivo: Se compró con la preciosa sangre de Jesús.  (1:19)
+##### Positivo: Se compró con la preciosa sangre de Jesús.  (1:19)
 
-### La planificación: Cristo fue elegido antes de la fundación del mundo para hacerlo. (1:20-21)
+##### La planificación: Cristo fue elegido antes de la fundación del mundo para hacerlo. (1:20-21)
 
   ### EL VEHÍCULO DE NUESTRA SALVACIÓN (1:22-25)
 
-### El nuevo nacimiento: Es necesario experimentar la regeneración para ser salvo.  (1:22-23a)
+#### El nuevo nacimiento: Es necesario experimentar la regeneración (nacer de nuevo) para ser salvo.  (1:22-23a)
 
-### El Libro Antiguo: Es la Palabra de Dios la que lo realiza. (1:23b-25)
+#### Propósito: Almas purificadas (nacidos de nuevo) para relacion de amor entre salvados. (1:22)
 
-1 Pedro 1 presenta la fe como el ancla de la vida cristiana:
-
-Asegura nuestra identidad (vv. 1-2),
-
-fundamenta nuestra esperanza (vv. 3-5),
-
-nos sostiene en el sufrimiento (vv. 6-9),
-
-nos conecta con el plan eterno de Dios (vv. 10-12),
-
-produce santidad (vv. 13-21),
-
-y rebosa en amor (vv. 22-25).
+#### La manera: Es la Palabra de Dios la que lo realiza. (1:23b-25)
 
 # 1 Pedro 2:1-10 – CRECIENDO HACIA LA MADUREZ
 
