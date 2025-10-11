@@ -1602,19 +1602,19 @@ Title: 1 & 2 Pedro
 
 ##### Entonces, Gentiles ETHNOS estaría mejor traducido como "Incrédulos", o también como "paganos", como lo traduce la biblia (BAD1989) "...*haciendo lo que agrada a los incrédulos*..." porque no forman del pueblo adquirido de Dios.
 
-### 1 Pedro 4:3b "*...habiendo andado...*" 
+### 1 Pedro 4:3b "*...habiendo andado...*" Esto nos recuerda que en un tiempo pasado anduvimos en caminos que les agrada a los incrédulos, en sensualidades que lascivia o libertinaje sexual, lo que no se relaciona en nada con la nueva vida que tenemos en Cristo.
 
-###  *en sensualidad,*
+###  1 Pedro 4:3c "*... en sensualidad,...*" Esto nos recuerda que en un tiempo pasado anduvimos en caminos que les agrada a los incrédulos, en sensualidades que lascivia o libertinaje sexual, lo que no se relaciona en nada con la nueva vida que tenemos en Cristo.
 
-###  *lujurias,*
+###  1 Pedro 4:3d "*... lujurias,...*" EPITHUMIA, se relaciona con los deseos lujuriosos, específicamente por los deseos de la carne.
 
-###  *borracheras,*
+###  1 Pedro 4:3e "*... borracheras,...*" ONIFLUGIA exceso de vino, para andar en estado de embriaguez.
 
-###  *orgías,*
+###  1 Pedro 4:3f "*...orgías,...*" KOMOS fiestas descontroladas donde las lujurias y sensualidades son sin limite que en la antigüedad invitada a todo el pueblo a participar de desenfreno sexual.
 
-###  *embriagueces,*
+###  1 Pedro 4:3g "*... embriagueces,...*" POTOS Banquetes de muchas variedades de bebidas.
 
-###  *y abominables idolatrías.*
+###  1 Pedro 4:3h "*...y abominables idolatrías.*" idolatría es la transliteración de la  palabra griega EIDOLATREIA, que quiere decir que los incrédulo participan en la adoración de imágenes que no tienen vida y es completamente abominable delante de Dios.
 
 ###  1 Pedro 4:4 *Y en todo esto, se sorprenden de que ustedes no corren con ellos en el mismo desenfreno de disolución, y los insultan.*
 
