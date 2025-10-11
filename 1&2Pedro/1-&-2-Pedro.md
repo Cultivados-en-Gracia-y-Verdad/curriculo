@@ -1703,107 +1703,131 @@ y rebosa en amor (vv. 22-25).
 
 ### 1 Pedro 5:1 *Por tanto,* tenemos el contexto conectando a "*el juicio comience por la casa de Dios.* 1 Pedro 4:17
 
-### *a los ancianos entre ustedes,* del rol de anciano es "entre" los creyentes, no los pone en una posición superior entre "ustedes" los creyentes. 1 Pedro 5:2
+### 1 Pedro 5:1 *a los ancianos entre ustedes,* del rol de anciano es "entre" los creyentes, no los pone en una posición superior entre "ustedes" los creyentes. 1 Pedro 5:2
 
-### *exhorto yo,* Pedro hablaría en cuenta y el como anciano, una recomendación de un anciano a otro. Aunque se presenta el el pr
+### 1 Pedro 5:1 *exhorto yo,* Pedro hablaría en cuenta y el como anciano, una recomendación de un anciano a otro. Aunque se presenta el el pr
 
-### *exhorto yo...anciano como ellos* Aunque en el princípio se su carta se presenta como apostol, ahora pasa a ser un anciano, mostrando la transición de apóstol a anciano. Hechos 2:43, 5:12, 8:1, wifis 2:4-6
+### 1 Pedro 5:1 *exhorto yo...anciano como ellos* Aunque en el princípio se su carta se presenta como apostol, ahora pasa a ser un anciano, mostrando la transición de apóstol a anciano. Hechos 2:43, 5:12, 8:1, wifis 2:4-6
 
-### *exhorto yo...y testigo de los padecimientos de Cristo,* Pedro mismo se mostró como un creyente padecero por causa de Cristo. Asi también sabia un creyente que al podecido sufrimientos por Cristo seria participante de Su gloria.  Mateo 28:7-8; Marco 16:7; Lucas 23:55, 24:9-12, 33
+### 1 Pedro 5:1 *exhorto yo...y testigo de los padecimientos de Cristo,* Pedro mismo se mostró como un creyente padecero por causa de Cristo. Asi también sabia un creyente que al podecido sufrimientos por Cristo seria participante de Su gloria.  Mateo 28:7-8; Marco 16:7; Lucas 23:55, 24:9-12, 33
 
-### *exhorto yo...y también participante de la gloria que ha de ser revelada:* Es curioso, aunque Pedro vio ocularmante parte del juicio de Jesús, no estuvo durante todos sus padecimientos. Entonces, ¿a que se refiere? md 1,5,7 2 Timoteo 2:6-13; 2 Pedro 1:11
+### 1 Pedro 5:1 *exhorto yo...y también participante de la gloria que ha de ser revelada:* Es curioso, aunque Pedro vio ocularmante parte del juicio de Jesús, no estuvo durante todos sus padecimientos. Entonces, ¿a que se refiere? md 1,5,7 2 Timoteo 2:6-13; 2 Pedro 1:11
 
-### En el contexto de la carde, Pedro tambien habría estado siendo participante de las aflicciones de Cristo, entonces el funge como testigo, vivir piadosamente en Cristo traerá afflicciones. Hechos 5:45; 1 Pedro 4:4, 4:12-16, 2:20-21; 2 Timoteo 3:12; 1 Tesalonicenses 3:3-4
+#### En el contexto de la carde, Pedro tambien habría estado siendo participante de las aflicciones de Cristo, entonces el funge como testigo, vivir piadosamente en Cristo traerá afflicciones. Hechos 5:45; 1 Pedro 4:4, 4:12-16, 2:20-21; 2 Timoteo 3:12; 1 Tesalonicenses 3:3-4
 
 ### 1 Pedro 5:2 *pastoreen* un anciano tiene el rol (responsabilidad) de pastorear, apasentar el rebaño. Esto no solo incluye velar, sino proteger y guiar hacia pastos verdes a Cristo. 
 
-### *el rebaño de Dios entre ustedes,* el rebaño es de Dios. La preposición "de" indica propiedad u origen. Los ancianos tienen un rol de pastorear al que le pertenece a Dios. El rebaño (los creyentes de la iglesia local) no le pertenece a los ancianos. 
+### 1 Pedro 5:2 *el rebaño de Dios entre ustedes,* el rebaño es de Dios. La preposición "de" indica propiedad u origen. Los ancianos tienen un rol de pastorear al que le pertenece a Dios. El rebaño (los creyentes de la iglesia local) no le pertenece a los ancianos. 
 
-### *velando por él,* El pastorear al rebaño es velando por el. El anciano debe velar, guiar al rebaño. 
+### 1 Pedro 5:2 *velando por él,* El pastorear al rebaño es velando por el. El anciano debe velar, guiar al rebaño. 
 
-### *no por obligación,* 1 Tes 3:1 nos dice que el que desea obispado buena obra desea. 
+### 1 Pedro 5:2 *no por obligación,* 1 Tes 3:1 nos dice que el que desea obispado buena obra desea. 
 
-### *sino voluntariamente,* Un anciano pastorea voluntariamente. El deseo de velar se sujeta a escuchar a Dios. Quiere cuidar de Su rebaño. 
+### 1 Pedro 5:2 *sino voluntariamente,* Un anciano pastorea voluntariamente. El deseo de velar se sujeta a escuchar a Dios. Quiere cuidar de Su rebaño. 
 
-### *como quiere Dios; no por la avaricia del dinero,* un anciano no deberia pastorear por la aviricia del dinero. No significa que no el obrero no es digno de su salario. Aquí el problema es que su foco u objetivo no es velar por el rebaño, sino por dinero como un asalariado que no le importa el rebaño. 
+### 1 Pedro 5:2 *como quiere Dios; no por la avaricia del dinero,* un anciano no deberia pastorear por la aviricia del dinero. No significa que no el obrero no es digno de su salario. Aquí el problema es que su foco u objetivo no es velar por el rebaño, sino por dinero como un asalariado que no le importa el rebaño. 
 
-### *como quiere Dios...sino con sincero deseo;* desea por la grey avivar y guiar hacia Cristo. 
+### 1 Pedro 5:2 *como quiere Dios...sino con sincero deseo;* desea por la grey avivar y guiar hacia Cristo. 
 
 ### 1 Pedro 5:3 *tampoco como teniendo señorío sobre los que les han sido confiados,* Podemos ver que un anciano no debe pastorear pretendiendo tener señorío o estar sobre los creyentes. El anciano no es señor o un mandamás del rebaño, donde su palabra es ley. 
 
-### *sino demostrando ser ejemplos del rebaño.* un anciano debe ser ejemplo entre los creyentes de una andar de fe en dependencia De Dios. Enseñando a sujetarse y afirmarse a Cristo y no a ellos. Deben ser un ejemplo de lo que la gracia de Dios puede hacer. Lo es facil que en medio de aflicciones un anciano abandone al rebaño, acomodarse a cambiar la escritura con tal de no sufrir por la palabra del evangelio. Que en vez de cambiar las Escrituras para apoderarse del rebaño pueda ser ejemplo para incrementar que la esperanza esté puesta en Cristo. 
+### 1 Pedro 5:3 *sino demostrando ser ejemplos del rebaño.* un anciano debe ser ejemplo entre los creyentes de una andar de fe en dependencia De Dios. Enseñando a sujetarse y afirmarse a Cristo y no a ellos. Deben ser un ejemplo de lo que la gracia de Dios puede hacer. 
+
+#### Lo es facil que en medio de aflicciones un anciano abandone al rebaño, acomodarse a cambiar la escritura con tal de no sufrir por la palabra del evangelio. Que en vez de cambiar las Escrituras para apoderarse del rebaño pueda ser ejemplo para incrementar que la esperanza esté puesta en Cristo. 
 
 ### 1 Pedro 5:4 *Y cuando aparezca el Príncipe de los pastores,* Jesús es descrito como el Príncipe de los pastores. El anciano como pastor, esta por debajo del Príncipe de pastores. 
 
-Es dificil el pastorear al rebaño. Es facil perder el foco del porque seguir.  El anciano es invitado a poner su esperanza en la venida del Señor. 
+#### Es dificil el pastorear al rebaño. Es facil perder el foco del porque seguir.  El anciano es invitado a poner su esperanza en la venida del Señor. 
 
-### *ustedes recibirán la corona inmarcesible de gloria.* Sabemos que los creyentes serán sometidos a juicio y según recibiremos recompensas. El anciano que pastorea bien recibirá una corona. Esto esta específicamente dicho en función del rol de anciano. 
+### 1 Pedro 5:4 *ustedes recibirán la corona inmarcesible de gloria.* Sabemos que los creyentes serán sometidos a juicio y según recibiremos recompensas. El anciano que pastorea bien recibirá una corona. Esto esta específicamente dicho en función del rol de anciano. 
 
 ## Jóvenes
 
-### 1 Pedro 5:5 *Asimismo ustedes, los más jóvenes,*
+### 1 Pedro 5:5 *Asimismo* de la misma manera. Así como aprenden del ejemplo de los ancianos...
 
-### *estén sujetos a los mayores.*
+### 1 Pedro 5:5 *ustedes, los más jóvenes, estén sujetos a los mayores.* 
 
-### *Y todos, revístanse de humildad en su trato mutuo,* Es es claro, de humildad en trato mutuo no es algo que sera posible separado de Cristo. Es facil vernos de manera soberbia y no como quienes somos en realidad. Jesus dijo aprended de mi que soy manso y humilde. A la luz de la verdad en Cristo y en relación a quienes somos en redad y a tratar a nuestros hermanos como quienes son en verdad, hijos de Dios, salvados por gracia, amados por Dios nuestra salvación (gracia) no proviene de nosotros sino de Dios. Filipenses 2:3-4
+#### mayores PRESBUTEROS, seria mejor traducido como ancianos. 
 
-### *porque DIOS RESISTE A LOS SOBERBIOS,* literalmente dicho, Dios esta contra los orgullosos. Esto es una realidad que muchas veces pasamos por alto. Aveces nuestro orgullo, inflados, no vemos con claridad la verdad que Dios nos está resistiendo. 
+### 1 Pedro 5:5 *Y todos, revístanse de humildad en su trato mutuo,* Es es claro, de humildad en trato mutuo no es algo que sera posible separado de Cristo. Es facil vernos de manera soberbia y no como quienes somos en realidad. Jesus dijo aprended de mi que soy manso y humilde. 
+
+#### A la luz de la verdad en Cristo y en relación a quienes somos en redad y a tratar a nuestros hermanos como quienes son en verdad, hijos de Dios, salvados por gracia, amados por Dios nuestra salvación (gracia) no proviene de nosotros sino de Dios. Filipenses 2:3-4
+
+### 1 Pedro 5:5 *porque DIOS RESISTE A LOS SOBERBIOS,* literalmente dicho, Dios esta contra los orgullosos. Esto es una realidad que muchas veces pasamos por alto. Aveces nuestro orgullo, inflados, no vemos con claridad la verdad que Dios nos está resistiendo. 
 
 #### Tal vez pensamos que Dios solo resiste a los incrédulos pero aquí vemos que también lo hace con los creyentes que andan en soberbia. 
 
-### *PERO DA GRACIA A LOS HUMILDES.* Dios da gracia a los humildes. Un claro ejemplo es que nos dió vida eterna por la fe. 
+### 1 Pedro 5:5 *PERO DA GRACIA A LOS HUMILDES.* Dios da gracia a los humildes. Un claro ejemplo es que nos dió la salvación (gracia) por la fe. 
 
-### 1 Pedro 5:6 *Humíllense, pues, * lo que Pedro propone aquí no es que nos aflijamos delante de Él sino más bien que en medio de los sufrimientos que podamos unjustamente ignorando la verdad exigir justicia social, queriendo nosotros actuar.
+### 1 Pedro 5:6 *Humíllense, pues,* lo que Pedro propone aquí no es que nos aflijamos delante de Él sino más bien que en medio de los sufrimientos que podamos unjustamente ignorando la verdad exigir justicia social, queriendo nosotros actuar.
 
-Humillarse esta unido a estimularnos más de lo que somos, no como jueces o justicieros. 
+#### Humillarse esta unido a estimularnos más de lo que somos, no como jueces o justicieros. 
 
-"*bajo la poderosa mano de Dios,*" humillarse esta ligado a colocarse bajo la poderosa mano de Dios. Si padecemos o sufrimos como cristianos es un gozo porque somos participantes de las aflicciones de Cristo. No es que Dios se olvidó de nosotros pero en medio del sufrimiento podemos refugiarnos en Su poder y gracia
+### 1 Pedro 5:6 "*bajo la poderosa mano de Dios,*" humillarse esta ligado a colocarse bajo la poderosa mano de Dios. Si padecemos o sufrimos como cristianos es un gozo porque somos participantes de las aflicciones de Cristo. No es que Dios se olvidó de nosotros pero en medio del sufrimiento podemos refugiarnos en Su poder y gracia
 
-### *para que Él los exalte* 
+### 1 Pedro 5:6 *para que Él los exalte* 
 
-### *a su debido tiempo,* Dios promete exaltar al que se humille bajo su poderosa mano. 
+### 1 Pedro 5:6 *a su debido tiempo,* Dios promete exaltar al que se humille bajo su poderosa mano. 
 
-No se nos dice cuanto tiempo pero nos dice que es seguro. Podemos descansar en Dios en cuanto a los sufrimientos, nuestras preocupaciones, anciedad es pude ser un fruto en medio del sufrimiento pero no sufrimiento en vano. 
+#### No se nos dice cuanto tiempo pero nos dice que es seguro. Podemos descansar en Dios en cuanto a los sufrimientos, nuestras preocupaciones, anciedad es pude ser un fruto en medio del sufrimiento pero no sufrimiento en vano. 
 
 ### 1 Pedro 5:7 *echando toda su ansiedad sobre Él,* Echar nuestra anciedad tiene que ver porque Dios cuida de nosotros. 
 
-### *porque Él tiene cuidado de ustedes.* Nuestra ansiedad que surge de los padecimientos puede ser echada porque el nos cuida. 
+### 1 Pedro 5:7 *porque Él tiene cuidado de ustedes.* Nuestra ansiedad que surge de los padecimientos puede ser echada porque el nos cuida. 
 
 ### 1 Pedro 5:8 *Sean de espíritu sobrio, estén alerta.*
 
-### *Su adversario, el diablo, anda al acecho como león rugiente,*
+### 1 Pedro 5:8 *Su adversario, el diablo, anda al acecho como león rugiente,*
 
-### *buscando a quien devorar.*
+### 1 Pedro 5:8 *buscando* el está buscando a un creyente que flaquea por estos momentos de sufrimiento no pensando con cordura y estando alerta. 
 
-### 1 Pedro 5:9 *Pero resístanlo firmes en la fe,*
+### 1 Pedro 5:8 *a quien devorar.* Satanás los busca para devorarles (destruirlos) en medio de los padecimientos. Esto no habla de que pierden eternamente sino de estar afligidos por el engaño del diablo. 
 
-### *sabiendo que las mismas experiencias de sufrimiento*
+### 1 Pedro 5:9 *Pero resístanlo firmes en la fe,* se nos dice resistir, quiere decir ir contrario al no dejarnos ser devorados. No le den lugar. 
 
-### *se van cumpliendo en sus hermanos en todo el mundo.*
+#### Es interesante que resisitir no esta omdo a cosas a hacer al cometer nuestra espiritualidad. 
 
-### 1 Pedro 5:10 *Y después de que hayan sufrido un poco de tiempo,*
+### 1 Pedro 5:9 *sabiendo que las mismas experiencias de sufrimiento*
 
-### *el Dios de toda gracia, que los llamó a Su gloria eterna en Cristo,*
+#### hay algo que debemos saber
 
-### *Él mismo los perfeccionará, afirmará, fortalecerá, y establecerá.*
+### 1 Pedro 5:9 *se van cumpliendo en sus hermanos en todo el mundo.*
 
-### 1 Pedro 5:11 *A Él sea el dominio por los siglos de los siglos. Amén.*
+### 1 Pedro 5:10 *Y después de que hayan sufrido un poco de tiempo,* tenemos un hecho esperanzador, no sufrimos eternamente. Los sufrimientos son temporales, aunque eso si no se nos dice cuanto tiempo, es hasta un punto. 
+
+### 1 Pedro 5:10 *el Dios de toda gracia,* Dios el Padre lleno en gracia en Cristo Jesús. 
+
+### 1 Pedro 5:10 *que los llamó a Su gloria eterna en Cristo,* Dios el Padre fue el que nos llamó por medio del evangelio. Romanos 8:30-32
+
+#### Dios nos llamó a su gloria por medio de Cristo, esta en contraste a que antes estabamos destituidos de su gloria. 
+
+### 1 Pedro 5:10 *Él mismo* el Dios de toda gracia mismo. Dios el Padre tiene un propósito con el creyente en que este atraviese padecimientos por causa de Cristo, esto es una certeza, el mismo Dios lleno de gracia que nos salvó por medio de Cristo, es el mismo que nos perfeccionará por medio del sufrimiento. Filipenses 1:6, 29
+
+### 1 Pedro 5:10 *el mismo...los perfeccionará,* A la luz del sufrimiento seremos moderados cada vez más a la imagen de Cristo. 
+
+### 1 Pedro 5:10 *Él mismo los...afirmará,* 
+
+### 1 Pedro 5:10 **Él mismo los...fortalecerá,* Dios también nos fortalecerá en Cristo
+
+### 1 Pedro 5:10 *Él mismo...y establecerá.* Dios también nos establecerá. 
+
+### 1 Pedro 5:11 *A Él sea el dominio por los siglos de los siglos. Amén.* Dios es el que domina en un medio de sufrimiento. cerne no darle la gloria por lo que hará a traves de lo que muchas veces consideramos horrible, el. 
 
 # 1 Pedro 5:12-14 – Observaciones finales
 
 ### 1 Pedro 5:12 *Por conducto de Silvano, nuestro fiel hermano, porque así lo considero,*
 
-### *les he escrito brevemente, exhortando y testificando que esta es la verdadera gracia de Dios.*
+### 1 Pedro 5:12 *les he escrito brevemente, exhortando y testificando que esta es la verdadera gracia de Dios.*
 
-### *Estén firmes en ella.*
+### 1 Pedro 5:12 *Estén firmes en ella.*
 
 ### 1 Pedro 5:13 *La que está en Babilonia, elegida juntamente con ustedes, los saluda,*
 
-### *y también mi hijo Marcos.*
+### 1 Pedro 5:13 *y también mi hijo Marcos.*
 
 ### 1 Pedro 5:14 *Salúdense unos a otros con un beso de amor fraternal.*
 
-### *Paz sea a todos ustedes que están en Cristo.*
+### 1 Pedro 5:14 *Paz sea a todos ustedes que están en Cristo.*
 
 ## En Síntesis
 
