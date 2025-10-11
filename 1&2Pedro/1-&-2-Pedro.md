@@ -1746,13 +1746,21 @@ Title: 1 & 2 Pedro
 
 #### Esta gloria se manifestara en un tiempo futuro, aludiendo a la segunda venida de Cristo, donde el sera manifestado en gloria.
 
-### 1 Pedro 5:2 *pastoreen* un anciano tiene el rol (responsabilidad) de pastorear, apasentar el rebaño. Esto no solo incluye velar, sino proteger y guiar hacia pastos verdes a Cristo. 
+### 1 Pedro 5:2 *pastoreen* un anciano tiene el rol (responsabilidad) de pastorear, apasentar el rebaño. Esto no solo incluye velar, sino proteger y guiar hacia pastos verdes, hacia Cristo. 
 
-### 1 Pedro 5:2 *el rebaño de Dios entre ustedes,* el rebaño es de Dios. La preposición "de" indica propiedad u origen. Los ancianos tienen un rol de pastorear al que le pertenece a Dios. El rebaño (los creyentes de la iglesia local) no le pertenece a los ancianos. 
+#### Muchas veces pasar por sufrimientos puede desalentar a los creyente, entre ellos a los ancianos provocando se apatrten de su rol o descuidandolo.
 
-### 1 Pedro 5:2 *velando por él,* El pastorear al rebaño es velando por el. El anciano debe velar, guiar al rebaño. 
+### 1 Pedro 5:2 *el rebaño de Dios entre ustedes,* El rebaño es de Dios. La preposición "de" indica propiedad u origen. Los ancianos tienen un rol de pastorear lo que le pertenece a Dios. El rebaño (los creyentes de la iglesia local) no le pertenece a los ancianos. 
 
-### 1 Pedro 5:2 *no por obligación,* 1 Tes 3:1 nos dice que el que desea obispado buena obra desea. 
+#### La frase "entre ustedes" nos muestra que los ancianos tambien forman parte del rebaño.
+
+### 1 Pedro 5:2 *velando por él,* Pastorear el rebaño es velar por el. El anciano debe velar, guiar al rebaño. 
+
+#### Interesantemente este trabajo va direccionado a que el anciano direccione a los creyente a Cristo y no a seguirlos a ellos.
+
+### 1 Pedro 5:2 *no por obligación,* 1 Timoteo 3:1 nos dice que el que desea obispado buena obra desea. 
+
+#### El pastorear al rebaño no debe ser una tarea forzosa para el anciano, no debe estarlo haciendo por obligacion.s
 
 ### 1 Pedro 5:2 *sino voluntariamente,* Un anciano pastorea voluntariamente. El deseo de velar se sujeta a escuchar a Dios. Quiere cuidar de Su rebaño. 
 
