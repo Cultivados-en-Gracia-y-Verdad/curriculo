@@ -84,7 +84,7 @@ Title: 1 & 2 Pedro
 
 #### "*Elegidos*" EKLEKTOS puede referirse a:
 
-##### Israel (Deuteronomio 7:6), Reyes (1 Samuel 10:24), Ángeles (1 Timoteo 5:21), La Iglesia (Tito 1:1), Individuos (Romanos 16:13), Creyentes (Mateo 24:31) y El Mesías (Lucas 23:35).
+##### Israel (Deuteronomio 7:6), reyes (1 Samuel 10:24), ángeles (1 Timoteo 5:21), la iglesia (Tito 1:1), individuos (Romanos 16:13), creyentes (Mateo 24:31) y El Mesías (Lucas 23:35).
 
 #### La doctrina de la elección ha sido corrompida y confusa por falsas enseñanzas. La enseñanza de que Dios eligió a algunos pecadores para la salvación, y que solo Cristo murió por ellos, y solo ellos pueden ser salvos no es conforme a la Biblia. Según los que enseñan la "elección soberana", la elección de Dios no tiene nada que ver con Su conocimiento previo de quiénes creerían.
 
@@ -100,11 +100,11 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 1:2b "*elegidos según...el previo conocimiento de Dios Padre...*" El primer punto es que los elegidos son en base a la presciencia de Dios. El ser elegidos es según el previo conocimiento de Dios. 
 
-#### Pedro no esta diciendo que Dios eligió según Su plan predeterminado como lo hizo entregando a Jesucristo en Hechos 2. Hechos 2:23
+#### Pedro no esta diciendo que Dios eligió según Su plan predeterminado como lo hizo entregando a Jesucristo en Hechos 2. Hechos 2:23; 1 Pedro 1:20
 
-#### Los elegidos no son según el plan predeterminado de Dios, sino __<u>según</u>__ Su previo conocimiento.  
+#### Los elegidos no son según el plan predeterminado de Dios, sino __<u>según</u>__ Su previo conocimiento.  Gálatas 4:9
 
-####  ¿La elección es según qué conocimiento previo? La presciencia de Dios incluye conocer todo sobre todos los tiempos. Específicamente, Dios sabía antes de nada sobre los que a traves de los tiempos creerían en Él. 
+####  ¿La elección es según qué conocimiento previo? La presciencia de Dios incluye conocer todo sobre todos los tiempos. Específicamente, Dios sabía antes de nada sobre los que a traves de los tiempos creerían en Él. Romanos 8:28-29
 
 ###  1 Pedro 1:2c "*por la obra  santificadora* [en santificación RVR60] *del Espíritu...*" Son elegidos por la obra santificadora del Espíritu. 2 Tesalonicenses 2:13
 #### La palabra "*por*" EN - significa en, con o por. Esta palabra es usualmente traducida "en". La traducción de la palabra EN (a por) hace parecer que la elección es causado por El Espíritu en un sentido regenerador, sin embargo mejor es entender que la elección es por medio de la obra santificadora, es decir, en separar para un uso. Tito 3:5
@@ -155,7 +155,7 @@ Title: 1 & 2 Pedro
 
 ## 1 Timoteo 1:3-5 La esperanza viva por la fe
 
-###  1 Pedro 1:3a "*Bendito sea el Dios y Padre de nuestro Señor Jesucristo, quien según Su gran misericordia,*" Pedro bendice a Dios el Padre quien compartimos en Jesucristo por su gran misericordia. 2 Corintios 1:3
+###  1 Pedro 1:3a "*Bendito sea el Dios y Padre de nuestro Señor Jesucristo, quien según Su gran misericordia...*" Pedro bendice a Dios el Padre quien compartimos en Jesucristo por su gran misericordia. 2 Corintios 1:3
 
 ###  1 Pedro 1:3b "*nos ha hecho nacer de nuevo...*" ha sido por Su gran misericordia que Él nos hizo nacer de nuevo. Tito 1:2, 3:5; 1 Pedro 1:21; Gálatas 6:16
 
@@ -163,7 +163,9 @@ Title: 1 & 2 Pedro
 
 #### La salvación es de Dios (Jonás 2:9). Si hemos recibido la salvación, tiene que ser de Dios. Si nacimos de nuevo, no es causa nuestra, es por Dios quien tuvo misericordia. Santiago 1:18; 1 Pedro 1:23
 
-#### Una pregunta importante seria, ¿Cómo nos hizo renacer? Fue por medio de la fe en Jesucristo. (para más información véase el apéndice "doctrina de la regeneración en relación a la fe"). Juan 3:4, 7; Santiago 1:18
+#### Una pregunta importante seria, ¿Cómo nos hizo renacer? Fue por medio de la fe en Jesucristo. Juan 3:4, 7; Santiago 1:18
+
+##### el nuevo nacimiento ocurrió después de haber creido. (para más información véase el apéndice "doctrina de la regeneración en relación a la fe")
 
 #### Para que el hombre sea declarado justo es necesario que haya un nacimiento espiritual. 2 Corintios 5:21; Gálatas 6:15
 
@@ -245,7 +247,7 @@ Title: 1 & 2 Pedro
 
 #### "*Revelada*" APOCALIPTO (aoristo, pasivo, infinitivo) - ser o llegar a ser conocido por el público; especialmente información que anteriormente sólo era conocida por unas pocas personas o que debía mantenerse en secreto.[^1]
 
-#### En última instancia, la fe hace que la soberanía de Dios en proveer salvación por el medio de la fe en Jesucristo sea confirmada y la promesa entra en juego al individuo. El poder de Dios guarda a los creyentes "*mediante la fe*" para la salvación que está preparada para ser revelada en el tiempo postrero, asegurando así que su herencia "*incorruptible e inmaculada, y cuyo destino no está lejos, reservada en los cielos*".
+#### En última instancia, la fe hace que la soberanía de Dios en proveer salvación por el medio de la fe en Jesucristo sea confirmada y la promesa segura al individuo. El poder de Dios guarda a los creyentes "*mediante la fe*" para la salvación que está preparada para ser revelada en el tiempo postrero, asegurando así que su herencia "*incorruptible e inmaculada, y cuyo destino no está lejos, reservada en los cielos*".
 
 ## 1 Timoteo 1:6-9 La fe probada
 
