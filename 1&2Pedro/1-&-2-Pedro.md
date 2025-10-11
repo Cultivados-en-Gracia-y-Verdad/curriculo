@@ -742,30 +742,39 @@ Title: 1 & 2 Pedro
 
 #### El rol de estos sacerdotes (Creyentes) es el de ofrecer sacrificios espirituales agradables a Dios. 1 Pedro 2:5
 
-###  1 Pedro 2:9c *"...nación santa,..."* Como creyentes fuimos incluidos en el pueblo de Dios, y formamos ahora parte de la nación santa, una nación celestial.
+###  1 Pedro 2:9c *"...nación santa,..."* Como creyentes fuimos incluidos en el pueblo de Dios, y ahora formamos parte de la nación santa, una nación celestial.
 
-#### Dios en el antiguo testamento escogió a una persona (Abraham) para hacer una nación terrenal, los cuales serían una nación santa si oían su voz y guardaban su pacto. Éxodo 19:6
+#### Dios en el antiguo testamento escogió a una persona (Abraham) para hacer de su descendencia una nación terrenal la cual es Israel, los cuales serían una nación santa SI (Condicionalmente) oían su voz y guardaban su pacto. Éxodo 19:6
 
-#### 
+#### Podemos  ver donde estaba puesta la fe de Abraham cuando esperaba una ciudad, estando en la tierra prometida. Hebreos 11:8-10
 
-#### Ahora formamos parte de una nación, los creyentes, la cual no es terrenal, sino celestial, conforme a lo que Hebreos nos muestra por la fe, Abraham esperaba una ciudad que no era hecha por mano, y ahora andemos como peregrinos en esta tierra hasta llegar a la ciudad celestial.
+### 1 Pedro 2:9d *"...pueblo adquirido para posesión de Dios,..."* La adquisición de este pueblo fue hecha con un gran valor, por precio fuimos rescatados. 1 Corintios 7:23 ; Efesios 1:7; 1 Pedro 1:18 
 
-###  *pueblo adquirido para posesión de Dios,*
+#### Ahora como un pueblo adquirido de Dios cada creyente viene a ser completamente posesión de él, y nos mostrará cuál es el propósito que tenía para rescatarnos. 1 Timoteo 2:4
 
-#### Este pueblo adquirido, con valor, con precio, fuimos adquiridos cada creyente. 1 Corintios 7:23
+###  1 Pedro 2:9e *"...a fin de que anuncien las virtudes de Aquel..."* Nos mostrará el propósito para este pueblo adquirido, el propósito para los creyentes es el de anunciar las virtudes de Aquel (Dios).
 
-###  *a fin de que anuncien las virtudes de Aquel*
+#### En el antiguo testamento vemos a Dios glorificarse por medio de que lo conozcan a él, usó a Faraón para mostrar su poder y conozcan al Dios de Israel. Éxodo 14:4,17-18 ; Isaías 26:15, 44.23, 55:5, 60:9 ; Hageo 1:8
 
-#### El fin de adquirir a todos los creyentes, u el propósito de esto es anunciar las virtudes de aquel, Sea todo para darle gloria y honor a aquel que nos rescató de las tinieblas a su luz admirable, sea toda gloria honor a el.
+#### Vemos a Jesús glorificando al padre. Juan 12:16, 23, 28, 13:31-32
 
-###  *que los llamó de las tinieblas a Su luz admirable.*
-#### El nos ha llamado cuando eramos completamente tinieblas y ahora somos hijos de luz. 
+#### Uno de los propósitos de que los creyentes anden en la luz es el de glorificar al padre por medio de Jesucristo .Efesios 3:20-21; 2 Tesalonicenses 1:10, 12 ; 1 Pedro 4:11,14 
 
-#### Podemos andar en la luz, y poco a poco ir dejando las tinieblas mientras andemos por fe, seremos transformados y hechos semejantes a la imagen de su hijo unigénito.
+#### Ahora los creyentes como nación santa pueden mostrar las virtudes de Dios, su misericordia, gracia, Justicia, por medio del evangelio a todas las personas. 2 Corintios 5:20 ; 1 Timoteo 1:16
 
-###  1 Pedro 2:10 *Ustedes en otro tiempo no eran pueblo, pero ahora son el pueblo de Dios;*
+###  1 Pedro 2:9f *"...que los llamó de las tinieblas a Su luz admirable."* Los creyentes respondimos al llamado del evangelio por medio de creer en esta buena noticia, este llamamiento es para todas las personas en el mundo. 1 Juan 2:2, 4:14 ; Juan 4:42; 11:51-52
 
-#### Nos muestra el valor incalculable de ser ahora pueblo de Dios, como nación santa, escogida por Dios, que impresionante es ser el pueblo de Dios y manifestarse al mundo como lo que ya somos, una expresión pública de DIos.
+####  El propósito del llamamiento es el de rescatar a las personas de las tinieblas en las que se encuentran a su luz admirable, de la muerte en sus delitos y pecados a la vida que hay en Cristo. Efesios 2:1-7; 2 Timoteo 1:9; 2 Tesalonicenses 2:14; Romanos. 8:28, 11:29
+
+#### Es importante recordar que fuimos llamados cuando éramos y andábamos en completa oscuridad, en completa impiedad, y continuamente recordar y anunciar las virtudes de aquel que nos salvó por su gracia y misericordia.
+
+###  1 Pedro 2:10a *"Ustedes en otro tiempo no eran pueblo, pero ahora son el pueblo de Dios;..."* Nosotros podemos recordar nuestra antigua manera de vivir, en la cual no éramos pueblo de Dios, y estábamos alejados de la verdad. Efesios 2:12-13
+
+#### Ahora podemos entender el incalculable valor de ser pueblo de Dios, un pueblo santo, que anuncia las virtudes de su gracia y misericordia a toda criatura. 
+
+
+
+#### , Nos muestra el valor incalculable de ser ahora pueblo de Dios, como nación santa, escogida por Dios, que impresionante es ser el pueblo de Dios y manifestarse al mundo como lo que ya somos, una expresión pública de DIos.
 
 #### Va relacionado con el propósito de Dios desde la creación, el objetivo de fructificad y multiplicar la tierra sojuzgarla, era de que su imagen, la imagen de DIos llene toda la tierra,
 
@@ -773,7 +782,7 @@ Title: 1 & 2 Pedro
 
 #### Ahora nos muestra que Ya somos pueblo de Dios y podemos reflejar su caracter, voluntad y amor por toda la tierra. formamos parte del pueblo de Dios, una nación que no es terrenal sinó celestial.
 
-###  *no habían recibido misericordia, pero ahora han recibido misericordia.*
+###  1 Pedro 2:10b *"...no habían recibido misericordia, pero ahora han recibido misericordia."*
 #### Los que estaban alejados a los pactos, hemos sido acercados, ahora hemos recibido misericordia de aquel que nos llamó y nos rescató.
 
 # 1 Pedro 2:11-3:13 PIADOSOS EN LA PERSECUCIÓN
