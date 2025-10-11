@@ -1720,11 +1720,15 @@ Title: 1 & 2 Pedro
 
 ### 1 Pedro 5:1 *exhorto yo...anciano como ellos* Aunque en el princípio se su carta se presenta como apostol, ahora pasa a ser un anciano, mostrando la transición de apóstol a anciano. Hechos 2:43, 5:12, 8:1, 15:2, 4, 6. 
 
-### 1 Pedro 5:1 *exhorto yo...y testigo de los padecimientos de Cristo,* Pedro mismo se mostró como un creyente padecero por causa de Cristo. Asi también sabia un creyente que al podecido sufrimientos por Cristo seria participante de Su gloria.  Mateo 28:7-8; Marco 16:7; Lucas 23:55, 24:9-12, 33
+### 1 Pedro 5:1 *exhorto yo...y testigo de los padecimientos de Cristo,* Es curioso, aunque Pedro vio ocularmante parte del juicio de Jesús, no estuvo durante todos sus padecimientos. Entonces, ¿a que se refiere? Marcos 14:66-72; Mateo 26:31, 69-75; Lucas 22:31-34, 54, 61-62; Juan 18:15-18, 25-27. 
 
-### 1 Pedro 5:1 *exhorto yo...y también participante de la gloria que ha de ser revelada:* Es curioso, aunque Pedro vio ocularmante parte del juicio de Jesús, no estuvo durante todos sus padecimientos. Entonces, ¿a que se refiere? md 1,5,7 2 Timoteo 2:6-13; 2 Pedro 1:11
+#### En el contexto de la carta, Pedro tambien habría estado siendo participante de las aflicciones de Cristo, entonces el funge como testigo al atravesar por las afliciones. Vivir piadosamente en Cristo traerá afflicciones. Hechos 4:21-22; 5:45; 1 Pedro 4:4, 4:12-16, 2:20-21; 2 Timoteo 3:12; 1 Tesalonicenses 3:3-4
 
-#### En el contexto de la carta, Pedro tambien habría estado siendo participante de las aflicciones de Cristo, entonces el funge como testigo, vivir piadosamente en Cristo traerá afflicciones. Hechos 5:45; 1 Pedro 4:4, 4:12-16, 2:20-21; 2 Timoteo 3:12; 1 Tesalonicenses 3:3-4
+### 1 Pedro 5:1 *exhorto yo...y también participante de la gloria que ha de ser revelada:* Asi como ha sido participante de los sufrimientos de Cristo, es participante de su gloria. 2 Timoteo 2:9-13; 2 Pedro 1:11
+
+#### Pedro mismo se mostra como un creyente que padecio por causa de Cristo. Asi también como un creyente que al haber padecido sufrimientos por Cristo seria participante de Su gloria.  
+
+#### Esta gloria se manifestara en un tiempo futuro, aludiendo a la segunda venida de Cristo, donde el sera manifestado en gloria.
 
 ### 1 Pedro 5:2 *pastoreen* un anciano tiene el rol (responsabilidad) de pastorear, apasentar el rebaño. Esto no solo incluye velar, sino proteger y guiar hacia pastos verdes a Cristo. 
 
