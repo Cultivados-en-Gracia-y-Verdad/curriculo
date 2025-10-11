@@ -375,11 +375,11 @@ Title: 1 & 2 Pedro
 
 #### "*Mirar*" PARAKYPTO - examinar, concebido como hacer un esfuerzo para ver algo (que no está en la línea de visión) agachándose o inclinándose.
 
-## 1 Pedro 1:13-21 – Preparando la mente para la acción
+## 1 Pedro 1:13-21 – Preparando el entendimiento para la acción
 
 ###  1 Pedro 1:13a "*Por tanto...*" equivale a, "en vista del hecho de que aunque están pasando por muchas clases de pruebas (1 Pedro 1:6), sin embargo, porque su herencia celestial les espera" (1 Pedro 1:3-6), preparen su entendimiento para la acción (1 Pedro 1:13).
 
-###  1 Pedro 1:13b "*preparen su entendimiento...*" Es interesante esta expresión...preparen su entendimiento...no dice preparen sus manos o su mente. Dios quiere transformar nuestro entendimiento. Romanos 12:1-2; 2 Corintios 10:5; Salmo 1:2; 1 Pedro 2:9
+###  1 Pedro 1:13b "*preparen su entendimiento...*" Es interesante esta expresión...preparen su entendimiento...no dice preparen sus manos o sus cuerpos. Dios quiere transformar nuestro entendimiento. Romanos 12:1-2; 2 Corintios 10:5; Salmo 1:2; 1 Pedro 2:9
 
 ### 1 Pedro 1:13c "*para la acción...*" ¿el entendimiento preparado para la acción? ¿Recibirían mayor entendimiento? ¿El entendimiento entraría en acción para recibir mayor entendimiento? 
 
@@ -500,13 +500,13 @@ Title: 1 & 2 Pedro
 
 #### 1 Juan 2:17 "*El mundo pasa, y también sus pasiones, pero el que hace la voluntad de Dios permanece para siempre*". 
 
-#####  El hombre no es constante.
+#####  El hombre no es constante. Jeremías 1:5
 
-##### El hombre no es fiel.
+##### El hombre no es fiel. Miqueas 7:5
 
-##### El hombre no es confiable.
+##### El hombre no es confiable. Salmo 118:8
 
-##### El hombre no hace el bien.
+##### El hombre no hace el bien. Jeremías 17:5
 
 ###  1 Pedro 1:24b "*Y TODA SU GLORIA COMO LA FLOR DE LA HIERBA*" la flor es producto de la hierba. 
 
@@ -516,21 +516,21 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 1:25a "*PERO LA PALABRA DEL SEÑOR PERMANECE PARA SIEMPRE».*" En contraste (Pero) con la corta vida de la carne y su gloria, La Palabra de Dios permanece para siempre. 
 
-#### La palabra de Dios no cambia
+#### La palabra de Dios no cambia. Salmo 119:89
 
-#### La palabra de Dios nunca pasará
+#### La palabra de Dios nunca pasará. Isaías 40:8; Mateo 24:35
 
-#### La palabra de Dios es fiel
+#### La palabra de Dios es fiel. 1 Pedro 1:25; Proverbios 30:5
 
-#### La palabra de Dios es verdadera
+#### La palabra de Dios es verdadera. 2 Timoteo 3:16
 
-#### La palabra de Dios es desde eternidad pasada a eternidad futura. 
+#### La palabra de Dios es desde eternidad pasada a eternidad futura. Juan 1:1
 
-#### La palabra de Dios no cambia según los tiempos
+#### La palabra de Dios no cambia según los tiempos. Salmo 119:89
 
-#### La palabra de Dios no cambia según la inteligencia del hombre
+#### La palabra de Dios no cambia según la inteligencia del hombre. Romanos 1:25
 
-#### La palabra de Dios no cambia según los descubrimientos arqueológicos, científicos, astronómicos etc. etc.. 
+#### La palabra de Dios no cambia según los descubrimientos arqueológicos, científicos, astronómicos etc. etc.. 2 Pedro 3:3
 
 ###  1 Pedro 1:25b "*Esa es la palabra que a ustedes les fue predicada.*" Esa es la palabra que oyeron y creyeron. Esa es la palabra que les mantiene firmes en este momento. Lucas 4:16-21
 
@@ -542,9 +542,9 @@ Title: 1 & 2 Pedro
 
 #### Lo que no entendieron: No pudieron comprender plenamente todas sus profecías concernientes a la obra futura del Mesías. 
 
-##### En cuanto a su dolor (1:10-11a)
+##### En cuanto a su dolor (1:10-11)
 
-##### En cuanto a su gloria (1:11b)
+##### En cuanto a su gloria (1:11)
 
 #### Lo que sí entendieron: Sabían que sus profecías no se cumplirían hasta después de su muerte. (1:12a)
 
