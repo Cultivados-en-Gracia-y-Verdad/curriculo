@@ -1714,9 +1714,9 @@ Title: 1 & 2 Pedro
 
 ### 1 Pedro 5:1 "*Por tanto,*" tenemos el contexto conectando a "*el juicio comience por la casa de Dios.* 1 Pedro 4:17
 
-### 1 Pedro 5:1 *a los ancianos entre ustedes,* del rol de anciano es "entre" los creyentes, no los pone en una posición superior entre "ustedes" los creyentes. 1 Pedro 5:2
+### 1 Pedro 5:1 *a los ancianos entre ustedes,* El rol de anciano es "entre" los creyentes, no los pone en una posición superior sino entre "ustedes" los creyentes. 1 Pedro 5:2
 
-### 1 Pedro 5:1 *exhorto yo,* Pedro hablaría en cuenta y el como anciano, una recomendación de un anciano a otro. Aunque se presenta el el pr
+### 1 Pedro 5:1 *exhorto yo,* Pedro hablaría de el como anciano, esto sera una recomendación de un anciano a otro. 
 
 ### 1 Pedro 5:1 *exhorto yo...anciano como ellos* Aunque en el princípio se su carta se presenta como apostol, ahora pasa a ser un anciano, mostrando la transición de apóstol a anciano. Hechos 2:43, 5:12, 8:1, wifis 2:4-6
 
