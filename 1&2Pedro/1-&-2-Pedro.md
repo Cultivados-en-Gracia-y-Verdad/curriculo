@@ -1693,7 +1693,7 @@ y rebosa en amor (vv. 22-25).
 
 ## A los ancianos
 
-### 1 Pedro 5:1 *Por tanto,* tenemos el contexto conectando a "*el juicio comience por la casa de Dios.* 1 Pedro 4:17
+### 1 Pedro 5:1 "*Por tanto,*" tenemos el contexto conectando a "*el juicio comience por la casa de Dios.* 1 Pedro 4:17
 
 ### 1 Pedro 5:1 *a los ancianos entre ustedes,* del rol de anciano es "entre" los creyentes, no los pone en una posición superior entre "ustedes" los creyentes. 1 Pedro 5:2
 
@@ -1705,7 +1705,7 @@ y rebosa en amor (vv. 22-25).
 
 ### 1 Pedro 5:1 *exhorto yo...y también participante de la gloria que ha de ser revelada:* Es curioso, aunque Pedro vio ocularmante parte del juicio de Jesús, no estuvo durante todos sus padecimientos. Entonces, ¿a que se refiere? md 1,5,7 2 Timoteo 2:6-13; 2 Pedro 1:11
 
-#### En el contexto de la carde, Pedro tambien habría estado siendo participante de las aflicciones de Cristo, entonces el funge como testigo, vivir piadosamente en Cristo traerá afflicciones. Hechos 5:45; 1 Pedro 4:4, 4:12-16, 2:20-21; 2 Timoteo 3:12; 1 Tesalonicenses 3:3-4
+#### En el contexto de la carta, Pedro tambien habría estado siendo participante de las aflicciones de Cristo, entonces el funge como testigo, vivir piadosamente en Cristo traerá afflicciones. Hechos 5:45; 1 Pedro 4:4, 4:12-16, 2:20-21; 2 Timoteo 3:12; 1 Tesalonicenses 3:3-4
 
 ### 1 Pedro 5:2 *pastoreen* un anciano tiene el rol (responsabilidad) de pastorear, apasentar el rebaño. Esto no solo incluye velar, sino proteger y guiar hacia pastos verdes a Cristo. 
 
@@ -1721,7 +1721,7 @@ y rebosa en amor (vv. 22-25).
 
 ### 1 Pedro 5:2 *como quiere Dios...sino con sincero deseo;* desea por la grey avivar y guiar hacia Cristo. 
 
-### 1 Pedro 5:3 *tampoco como teniendo señorío sobre los que les han sido confiados,* Podemos ver que un anciano no debe pastorear pretendiendo tener señorío o estar sobre los creyentes. El anciano no es señor o un mandamás del rebaño, donde su palabra es ley. 
+### 1 Pedro 5:3 *tampoco como teniendo señorío sobre los que les han sido confiados,* Podemos ver que un anciano no debe pastorear pretendiendo tener señorío o estar sobre los creyentes. El anciano no es señor o un mandamás del rebaño donde la palabra del anciano es ley. 
 
 ### 1 Pedro 5:3 *sino demostrando ser ejemplos del rebaño.* un anciano debe ser ejemplo entre los creyentes de una andar de fe en dependencia De Dios. Enseñando a sujetarse y afirmarse a Cristo y no a ellos. Deben ser un ejemplo de lo que la gracia de Dios puede hacer. 
 
@@ -1735,17 +1735,17 @@ y rebosa en amor (vv. 22-25).
 
 ## Jóvenes
 
-### 1 Pedro 5:5 "*...Asimismo*" de la misma manera. Así como aprenden del ejemplo de los ancianos...
+### 1 Pedro 5:5 "*...Asimismo*" de la misma manera, así como aprenden del ejemplo de los ancianos...
 
-### 1 Pedro 5:5 "*ustedes, los más jóvenes, estén sujetos a los mayores*". 
+### 1 Pedro 5:5 "*ustedes, los más jóvenes, estén sujetos a los mayores*" [ancianos RVR60]. 
 
-#### mayores PRESBUTEROS, seria mejor traducido como ancianos. 
+#### "*mayores*" PRESBUTEROS, seria mejor traducido ancianos, especialmente según el contexto. 
 
-### 1 Pedro 5:5 "*Y todos, revístanse de humildad en su trato mutuo,*" Es es claro, de humildad en trato mutuo no es algo que sera posible separado de Cristo. Es facil vernos de manera soberbia y no como quienes somos en realidad. Jesus dijo aprended de mi que soy manso y humilde. 
+### 1 Pedro 5:5 "*Y todos, revístanse de humildad en su trato mutuo,*" Es claro, de humildad en trato mutuo no es algo que sera posible separado de Cristo. Es facil vernos de manera soberbia y no como quienes somos en realidad. Jesus dijo aprended de mi que soy manso y humilde. 
 
 #### A la luz de la verdad en Cristo y en relación a quienes somos en redad y a tratar a nuestros hermanos como quienes son en verdad, hijos de Dios, salvados por gracia, amados por Dios nuestra salvación (gracia) no proviene de nosotros sino de Dios. Filipenses 2:3-4
 
-### 1 Pedro 5:5 "*porque DIOS RESISTE A LOS SOBERBIOS,*" literalmente dicho, Dios esta contra los orgullosos. Esto es una realidad que muchas veces pasamos por alto. Aveces nuestro orgullo, inflados, no vemos con claridad la verdad que Dios nos está resistiendo. 
+### 1 Pedro 5:5 "*porque DIOS RESISTE A LOS SOBERBIOS,*" literalmente dicho, Dios esta contra los orgullosos. Esto es una realidad que muchas veces pasamos por alto. Aveces inflados por nuestro orgullo, no vemos con claridad la verdad que Dios nos está resistiendo. 
 
 #### Tal vez pensamos que Dios solo resiste a los incrédulos pero aquí vemos que también lo hace con los creyentes que andan en soberbia. 
 
@@ -1797,11 +1797,19 @@ y rebosa en amor (vv. 22-25).
 
 ### 1 Pedro 5:10 "*el mismo...los perfeccionará,*" A la luz del sufrimiento seremos moderados cada vez más a la imagen de Cristo. 
 
-### 1 Pedro 5:10 "*Él mismo los...afirmará,*" 
+#### "*perfeccionará*" KATARTIZO - dejar listo o adecuado o equipado de antemano para un propósito particular o para algún uso, evento u otro propósito.[^1]
 
-### 1 Pedro 5:10 "**Él mismo los...fortalecerá,*" Dios también nos fortalecerá en Cristo
+### 1 Pedro 5:10 "*Él mismo los...afirmará,*" Que bueno es saber que nos afirmará, especíalmente al resistir al diablo. 
+
+#### "*afirmará*" STERIZO - hacer más marcado mediante una firme determinación o resolución.[^1]
+
+### 1 Pedro 5:10 "**Él mismo los...fortalecerá,*" Dios también nos fortalecerá en Cristo.
+
+#### "*fortalecerá*" STHENOO - dar mayor fuerza o hacer fuerte. 
 
 ### 1 Pedro 5:10 "*Él mismo...y establecerá.*" Dios también nos establecerá. 
+
+#### "*establecerá*" THERMELIOO - fortalecer una cualidad o aspecto personal; concebido como colocar una piedra fundamental o un soporte.
 
 ### 1 Pedro 5:11 "*A Él sea el dominio por los siglos de los siglos. Amén.*" Dios es el que domina en un medio de sufrimiento. cerne no darle la gloria por lo que hará a traves de lo que muchas veces consideramos horrible, el. 
 
@@ -1809,7 +1817,7 @@ y rebosa en amor (vv. 22-25).
 
 ### 1 Pedro 5:12 "*Por conducto de Silvano,*" esto nos da a entender que Pedro probablemente haya dictado la carta  a Silvano y este la transcribió. 
 
-#### por conducto se podría traducir a traves o por medio de Silvano
+#### Por conducto se podría traducir a traves o por medio de Silvano.
 
 #### El nombre de Silvano puede ser traducido como Silas. Silvano/Silas es mencionado en varios pasajes como compañero en el ministerio y enviado de Jerusalen. Hechos 15:22, 40
 
@@ -1817,13 +1825,13 @@ y rebosa en amor (vv. 22-25).
 
 ### 1 Pedro 5:12 *les he escrito brevemente,*
 
-### 1 Pedro 5:12 *exhortando*
+### 1 Pedro 5:12 *exhortando* PARAKALEO - apoyar o alentar fervientemente una respuesta o acción. [^1]
 
-### 1 Pedro 5:12 *y testificando*
+### 1 Pedro 5:12 *y testificando* EPIMARTYREO - afirmar solemnemente algo, ofreciendo autenticación de primera mano del hecho; a menudo relacionado con asuntos serios o importantes.[^1]
 
-### 1 Pedro 5:12 *que esta es la verdadera gracia de Dios.* la verdadera gracia de Cristo es ser participante en Cristo. No solamente de Sus "triunfos" sino también de Sus padecimientos. 
+### 1 Pedro 5:12 *...que esta es la verdadera gracia de Dios.* la verdadera gracia de Cristo es ser participante de Cristo. No solamente de Sus triunfos sino también de Sus padecimientos. 
 
-### 1 Pedro 5:12 *Estén firmes en ella.*
+### 1 Pedro 5:12 "*Estén firmes en ella*". Es de notar que no dice, estan firmes en ella como entros pasajes. 
 
 ### 1 Pedro 5:13 *La que está en Babilonia, elegida juntamente con ustedes, los saluda,*
 
