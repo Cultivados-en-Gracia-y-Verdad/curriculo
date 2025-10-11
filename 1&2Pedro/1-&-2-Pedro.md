@@ -1514,7 +1514,7 @@ Title: 1 & 2 Pedro
 
 # 1 Pedro 4:1-6 – Viviendo para la voluntad de Dios
 
-### 1 Pedro 4:1 El sufrimiento de Cristo como un ejemplo para armarse del mismo proposito 1Pedro 2:21
+### 1 Pedro 4:1 El sufrimiento de Cristo como un ejemplo para armarse del mismo propósito y vivir la voluntad de Dios 1Pedro 2:21
 
 #### Cristo en su buena conducta y haciendo lo bueno, aunque padecio en el cuerpo, aquel sufrimiento fue pequeño comparado con la victoria que obtuvo de vencer el pecado, vencer el mal con el bien. Este pasaje no esta enseñando asetismo, sino que este sufrimiento es causado por hacer el bien 1 Pedro 2:21-22.
 
