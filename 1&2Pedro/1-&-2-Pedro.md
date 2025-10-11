@@ -179,7 +179,15 @@ Title: 1 & 2 Pedro
 
 #### Puesto de otra manera, según Su previo conocimiento y motivado por Su misericordia, Dios nos hizo nacer para recibir una herencia reservada en los cielos. 
 
-1 Pedro 1:4c "...*para ustedes...*" 
+### 1 Pedro 1:4c "...*para ustedes...*" Esto era para los creyentes a los que escribía Pedro. ¿Será una realidad para ti también?
+
+#### ¿Cómo se que soy un elegido de Dios? 
+
+#### ¿Cómo puedo saber que tengo una esperanza viva? 
+
+#### ¿Que sé que recibiré una herencia en los cielos? 
+
+#### ¿Cómo puedo saber si estoy siendo cuidado por el poder de la fuerza de Dios?
 
 ## 1 Pedro 1:5-7 La importancia de la nuestra fe
 
