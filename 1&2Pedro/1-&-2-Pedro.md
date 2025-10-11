@@ -996,55 +996,69 @@ Title: 1 & 2 Pedro
 
   ### LA RENUNCIA (2:1-3, 11)
 
-### A qué debemos renunciar (2:1, 11b): Debemos despojarnos del engaño, la hipocresía, la envidia, la calumnia y la mundanalidad.
+#### ¿A qué debemos renunciar? (2:1, 11b): Considerando nuestro nuevo nacimiento, debemos despojarnos del engaño, la hipocresía, la envidia, la calumnia y la mundanalidad.
 
-### A qué debemos recibir (2:2-3): Debemos anhelar la leche espiritual pura.
+#### ¿A qué debemos desear? (2:2-3): Debemos desear la leche pura (Palabra de Dios) mediante la cual seremos nutridos en la Gracia del Señor.
 
   ### LA RELACIÓN (2:4-12)
 
-### Qué son los cristianos (2:5, 9a, 10-11a)
+#### Qué son los cristianos (2:5, 9a, 10-11a)
 
-### Somos piedras vivas (2:5a).
+##### Somos piedras vivas (2:5a).
 
-### Somos sacerdotes reales (2:5b).
+##### Somos sacerdotes reales (2:5b).
 
-### Somos un pueblo escogido (2:9a, 10).
+##### Somos un pueblo escogido (2:9a, 10).
 
-### Somos extranjeros en la tierra (2:11a).
+##### Somos extranjeros en la tierra (2:11a).
 
-### Qué es Cristo (2:4, 6-8, 9b, 12)
+#### Qué es Cristo (2:4, 6-8, 9b, 12)
 
-### Él es el fundamento vivo (2:4a). a. Él es un fundamento precioso para los creyentes (2:4b, 7a).
+##### Él es el fundamento vivo (2:4a).
 
-### Él es piedra de tropiezo para los incrédulos (2:8).
+##### Él es un fundamento precioso para los creyentes (2:4b, 7a).
 
-### Él es la piedra angular (2:6, 7b).
+##### Él es piedra de tropiezo para los incrédulos (2:8).
 
-### Él es el elegido (2:4c).
+##### Él es la piedra angular (2:6, 7b).
 
-### Él es el juez (2:12).
+##### Él es el elegido (2:4c).
 
-### Él es la luz (2:9b).
+##### Él es el juez (2:12).
 
-   ### EL RESPETO (2:13-20): Por amor al Señor, debemos mostrar respeto (y sumisión) a las siguientes personas:
+##### Él es la luz (2:9b).
 
-### Autoridades civiles (2:13-16)
+   ### EL RESPETO (2:13-20): 
 
-### Empleadores (2:18-20)
+   #### Como extranjeros y peregrinos del Señor, por amor a Él, debemos mostrar respeto (y sumisión) a las siguientes personas:
 
-### Todos (2:17)
+##### Autoridades civiles (2:13-16)
+
+##### Empleadores (2:18-20)
+
+##### Todos (2:17)
+
+#### ¿Porqué?
+
+##### Dios desea enmudecer las palabras de ignorancia de los incrédulos, por medio de hacer el bien. 1 Pedro 2:15
+
+##### La libertad que tenemos por medio de Dios en Cristo debe ser disfrutada con el propósito que Dios estableció, como siervos de Dios
 
    ### EL MODELO A SEGUIR (2:21-25)
 
-### Quién es (2:21-22): Él es nuestro Salvador sin pecado, Jesucristo. 
+#### Cristo es el modelo dado por Dios de sufrir por hacer lo bueno y soportarlo con paciencia.
 
-### Lo que hizo (2:23-24a): Murió en la cruz del Calvario.
+#### ¿Qué es lo que Cristo logro por medio de esto?
 
-### Por qué lo hizo (2:24b-25)
+##### Quién es (2:21-22): Él es nuestro Salvador sin pecado, Jesucristo. 
 
-### Para que sus heridas sanaran las nuestras (2:24b)
+##### Lo que hizo (2:23-24a): Murió en la cruz del Calvario.
 
-### Para que pudiéramos recurrir al Pastor (2:25)
+##### Por qué lo hizo (2:24b-25)
+
+###### Para que Su herida sanara las nuestras (2:24b)
+
+###### Para que pudiéramos ser traídos al Pastor (2:25)
 
 # 1 Timoteo 3:1-8 Relaciones dentro de la Iglesia
 
