@@ -271,7 +271,7 @@ Title: 1 & 2 Pedro
 
 #### No solo resulta en gozo y gloria en el presente y el futuro sino que hay salvación de almas. 
 
-#### Los receptores de la carta habían estado gozosos a pesar de las pruebas. Estaban experimientando los resultados de la sana enseñanza que habían recibido de Pedro y otros. 
+#### Los receptores de la carta habían estado gozosos a pesar de las pruebas. Estaban experimentando los resultados de la sana enseñanza que habían recibido de Pedro y otros. 
 
 #### Que significa esta expresión, ¿la salvación de sus almas?
 
