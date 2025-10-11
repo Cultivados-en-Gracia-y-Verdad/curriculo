@@ -13,21 +13,21 @@ Title: 1 & 2 Pedro
 
 ### Incluso en su sufrimiento, que es muy real y causa tristeza, los cristianos se benefician. Nuestra fe se fortalece, y nuestra fe vale más que el oro. Nuestra fe traerá gran gloria cuando Jesús sea revelado. De hecho, Pedro dice que los cristianos tienen motivos de sobra para regocijarse. El misterio del plan de Dios, ocultado durante siglos tanto a profetas como a ángeles, nos ha sido revelado en Cristo.
 
-### Claramente, sin embargo, todavía no hemos llegado a casa. Pedro aborda a continuación la cuestión de cómo deben vivir los hijos seguros de Dios ahora, entre este momento y el día en que nos unamos a nuestro Padre, especialmente en una época de sufrimiento y persecución.
+### Sin embargo, todavía no hemos llegado a casa. Pedro aborda la cuestión de cómo deben vivir los hijos seguros de Dios ahora, entre este momento y el día en que nos unamos a nuestro Padre, especialmente en una época de sufrimiento y persecución.
 
 ### Deben verse como personas santas (o "apartadas") con un propósito especial. Viven en el mundo, pero deben vivir como extranjeros, como personas que se preparan para regresar a casa. Pedro les invita a concentrarse mentalmente en depositar toda su esperanza en la gracia futura de Dios para ellos. Deben elegir actuar como pueblo de Dios, rechazando los malos deseos que una vez impulsaron sus acciones antes de ser nacidos de nuevo.
 
-### Esta carta es de mucho ánimo también para el creyente de hoy. Te invitamos a ser enseñable por Dios mediante esta Palabras dadas por Dios al apostol Pedro. 
+### Esta carta es de mucho ánimo también para el creyente de hoy. Te invitamos a ser enseñable por Dios mediante estas Palabras dadas por Dios al apostol Pedro. 
 
 ## Contexto cultural/histórico
 
-### Es en los años 60d.C., bajo el emperador romano Nerón, la persecución de la iglesia empieza a ponerse peor. Muchos creyentes fueron esparcidos de la provincia de judea a las provicincias de el Ponto, Galacia, Capadocia, Asia y Bitinia. Es aquí donde el Cristianimo empezó a crecer. 
+### Es en los años 60-68d.C., bajo el emperador romano Nerón, la persecución de la iglesia empieza a ponerse peor. Muchos creyentes fueron esparcidos de la provincia de judea a las provicincias de Ponto, Galacia, Capadocia, Asia y Bitinia. Es aquí donde el Cristianimo empezó a crecer. 
 
 ### Las cartas de Gálatas, Efesios y Colosenses son escritos a iglesias en estas provincias. De igual manera, la carta de Apocalipsis es escrito a 7 iglesias que se encuentran en una de estas provincias. 
 
 ### 1 Pedro insta a los seguidores de Jesús a participar en su sociedad y a ser mejores ciudadanos que antes de su conversión, para que su buena conducta sea reconocida y la verdad de su fe demostrada. [^5]
 
-### El autor no afirma que esto sea fácil, pero es necesario para la obediencia a Dios, quien es el Creador y Redentor de todas las personas y sociedades. Dios ha llamado a estos seguidores dispersos de Cristo a proclamar las obras poderosas de Dios, y el principal ámbito de esta proclamación es su vida cotidiana.[^5]
+### El autor no afirma que esto sea fácil, pero es necesario. Dios ha llamado a estos seguidores dispersos de Cristo a proclamar las obras poderosas de Dios, y el principal ámbito de esta proclamación es su vida cotidiana.
 
 ## Bosquejo
 
@@ -40,83 +40,96 @@ Title: 1 & 2 Pedro
 
 # 1 Pedro 1:1-2:10 – EL TRIUNFO DE LA FE
 
-## 1 Pedro 1:1-2 – Saludos e identificados por fe
+## 1 Pedro 1:1-2 – Saludos y autoria
 
-###  1 Pedro 1:1a *Pedro,* Pedro es autor del libro (1 Pedro 5:1) pero lo hizo por medio de Silvano (1 Pedro 5:12). 
+###  1 Pedro 1:1a *Pedro,* Pedro es autor del libro (1 Pedro 5:1) pero se transcribió por medio de Silvano (1 Pedro 5:12). 
 
 ####  ¿Quién es Pedro? Pedro, originalmente Simon, era pescador, nacido en Betsaida. Juan 1:42-44; Mateo 4:19
 
 ##### Pedro era casado y tenía casa en Capernaúm. Su suegra vivía con ellos. Su padre se llamaba Jonás. Lucas 4:31, 38-40
 
-#### Pedro había sido presentado a Jesús por su hermano Andrés. Juan 1:40-42
+##### Pedro había sido presentado a Jesús por su hermano Andrés. Juan 1:40-42
 
 ##### Pedro era uno de tres discipulos que estuvieron presentes en tres eventos importantes: la resucitación de la hija de Jairo (Marcos 5:37), la transfiguración de Jesús (Mateo 17:1) y la agonía de Jesús en el jardín de getsemani (Mateo 26:37). 
 
-##### Pedro era enviado a los judíos. Gálatas 2:8
+#### Pedro era enviado a los judíos. Gálatas 2:7-8
 
-##### Pedro naturalmente era pronto para hablar y actuar impulsivamente. Juan 18:10; Marcos 9:5-6
+#### ¿De donde escribió Pedro? Pedro estaba con Marcos en Babilonia (1 Pedro 5:13). El debate es, ¿a que se refiere con Babilonia?, ¿es literal o simbólico?
 
-##### Sin embargo, en sus cartas llegamos a conocer un Pedro que es maduro en la fe, habiendo crecido en la gracia y conocimiento de Jesucristo. 3 Pedro 3:17-18
+##### Existen argumentos que se trata de la ciudad de Babilonia. Es posible dado que la ciudad seguía habitada en parte. Una población judia nunca retornaron del exilio bajo los Babilonios. Las evidencias a favor de Babilonia siendo literal son menos que las que apuntan que Babilonia representa Roma en aquel entonces. 
 
-#### ¿De donde escribió Pedro? Pedro estaba con Marcos en Babilonia. El debate es, ¿a que se refiere con Babilonia?, ¿es literal o simbólico?
+##### Más evidencia existe que Pedro se refiere a Roma en codigo. El cristianismo en las primeras décadas no había llegado tan lejos al este. Existen historiadores que mencionan a la ciudad de Babilonia en este tiempo como un gran desierto y que mucho de la ciudad había sido convertido para agricultura. 
 
-##### Existen argumentos que se trata de Babilonia literal. Sin embargo no son muchos. El cristianismo en las primeras décadas no había llegado tan lejos al este. Existen historiadores que mencionan a la ciudad de Babilonia en este tiempo como un gran desierto y que mucho de la ciudad había sido convertido para agricultura. 
+##### Además Pedro menciona que Marcos (probablemente Juan Marcos) enviaba saludos (1 Pedro 5:13). Sabemos que Marcos estaba en Roma. Colosenses 4:10
 
-##### Además Pedro menciona que Marcos (probablemente Juan Marcos) enviaba saludos. Sabemos que Marcos estaba en Roma. Colosenses 4:10
+##### Sólo después de la caída del segundo templo (70 d.C.) y la revuelta de bar kokhba (132-135 d.C.) se puede seguir verdaderamente la historia del judaísmo babilónico. Las fuentes relativas a los dos primeros siglos de la era cristiana no hacen mención alguna de estudios organizados de la Torá en Babilonia y prácticamente no mencionan ningún erudito babilónico.[^10]
 
-##### Sólo después de la caída del Segundo Templo (70 d.C.) y la revuelta de Bar Kokhba (132-135 d.C.) se puede seguir verdaderamente la historia del judaísmo babilónico. Las fuentes relativas a los dos primeros siglos de la era cristiana no hacen mención alguna de estudios organizados de la Torá en Babilonia y prácticamente no mencionan ningún erudito babilónico.[^10]
-
-##### En los años cuando se escribieron las cartas de 1 y 2 Pedro, los cristianos estaban bajo mucha persecución, especialmente en Roma. Pedro tendría buena razón por codificar el nombre para no devulgar información que pondría en peligro a los hermanos. 
+##### En los años cuando se escribió las cartas de 1 y 2 Pedro, los cristianos estaban bajo mucha persecución, especialmente en Roma. Pedro tendría buena razón por codificar el nombre para no devulgar información que pondría en peligro a los hermanos. 
 
 #### La tradición de la Iglesia dice que Pedro murió crucificado (con los brazos extendidos). Esto probablemente tuvo lugar tres meses después del desastroso incendio que destruyó Roma por el cual el emperador Nerón quiso culpar a los cristianos.[^8]
 
 ###  1 Pedro 1:1b "*apóstol de Jesucristo:*" Pedro es un apóstol de Jesucristo. Sus credenciales vienen de Jesucristo. 2 Pedro 1:1; Mateo 4:18 
 
-#### Pedro es uno de doce Apóstoles. Mateo 10:2; Marcos 3:16
+#### Apóstol podria ser cualquier enviado pero Pedro apóstol de Jesucristo, haciendolo uno de los 12 Apóstoles del Cordero. Mateo 10:2; Marcos 3:16; Apocalipsis 21:14
 
-###  1 Pedro 1:1c "*A los expatriados, de la dispersión...*" la carta es escrita a los extranjeros temporales PAREPIDEMOS de creyentes judios esparcidos.1 Pedro 5:14; Santiago 1:1
+## 1 Pedro 1:2 Identficados por fe
 
-#### Pedro se refiere a ellos como extranjeros y peregrinos. 1 Pedro 2:11, 1:17; 2 Pedro 1:10
+###  1 Pedro 1:1c "*A los expatriados, de la dispersión...*" la carta es escrita a los extranjeros temporales PAREPIDEMOS de creyentes esparcidos.1 Pedro 5:14; Santiago 1:1
 
-###  1 Pedro 1:1d "*en el Ponto, Galacia, Capadocia, Asia y Bitinia...*" Específicamente es escrito a los esparcidos ubicados modernamente en el norte de Turquía. 1 Pedro 2:11
+#### Pedro se refiere a ellos (expatriados) más adelante como extranjeros y peregrinos. 1 Pedro 2:11, 1:17; 2 Pedro 1:10
+
+###  1 Pedro 1:1d "*...en el Ponto, Galacia, Capadocia, Asia y Bitinia...*" Pedro escribió a personas esparcidas de sus lugares de origen que fueron a peregrinar en diferentes provincias del imperio Romano. Hoy en día los conocemos como el norte de Turquía. 1 Pedro 2:11
 
 ###  1 Pedro 1:1e Quienes son..."*elegidos*" EKLEKTOS los escogidos fuera. 1 Pedro 2:9; Mateo 22:14
 
-#### Elegidos EKLEKTOS puede ser:
+#### "*Elegidos*" EKLEKTOS puede referirse a:
 
-##### Israel (Deuteronomio 7:6), Reyes (1 Samuel 10:24), Angeles (1 Timoteo 5:21), La Iglesia (Tito 1:1), Incrédulos (2 Timoteo 2:10), Individuos (Romanos 16:13), Creyentes (Mateo 24:31) y El Mesias (Lucas 23:35).
+##### Israel (Deuteronomio 7:6), Reyes (1 Samuel 10:24), Ángeles (1 Timoteo 5:21), La Iglesia (Tito 1:1), Individuos (Romanos 16:13), Creyentes (Mateo 24:31) y El Mesias (Lucas 23:35).
 
-#### La doctrina de la elección ha sido corrompida y confusa por falsas enseñanzas. La enseñanza de que Dios eligió a algunos pecadores para la salvación, y que solo Cristo murió por ellos, y solo ellos pueden ser salvos no es conforme a la Biblia. Según la "elección soberana", la elección de Dios no tiene nada que ver con Su conocimiento previo de quiénes creerían.
+#### La doctrina de la elección ha sido corrompida y confusa por falsas enseñanzas. La enseñanza de que Dios eligió a algunos pecadores para la salvación, y que solo Cristo murió por ellos, y solo ellos pueden ser salvos no es conforme a la Biblia. Según los que enseñan la "elección soberana", la elección de Dios no tiene nada que ver con Su conocimiento previo de quiénes creerían.
 
 #### Los elegidos son aquellos que responden por la fe al llamado de Dios. Dios está llamando a todo el mundo pero solo los que responden creyendo el Él son identificados como los elegidos. 
 
-#### Este grupo de personas no es un grupo cerrado. Según la Biblia, todos son invitados pero pocos son los que responden. Mateo 20:16
+#### Este grupo de personas no es un grupo cerrado. Según la Biblia, todos son invitados pero pocos son los que responden. Mateo 20:16; Juan 12:32; Mateo 11:28-30; Tito 2:4
 
 ### 1 Pedro 1:2a "*elegidos según...*" La palabra según KATA no debe ignorarse en este pasaje, porque define que algo esta en base a o en conformidad de algo.  En este caso, según el contexto inmediato "*elegidos*" en base o en conformidad a...*".
 
 #### Por ejempo según la (RAE), "*según*" es una preposición que se utiliza para indicar que algo que se dice o se considera en base a una información específica, una fuente, una autoridad, etc.
 
-#### En otras palabras "*según*" se utiliza para citar una fuente, indicar una opinión o basarse en información específica.
-
-##### Por ejemplo: Algo en especifico que tenga una base en lo que digan los hombres o en base a lo que dice la ley. 1 Corintios 9:8
+#### En otras palabras "*según*" se utiliza para citar una fuente, indicar una opinión o basarse en información específica. 1 Corintios 9:8
 
 ###  1 Pedro 1:2 "*elegidos según...el previo conocimiento de Dios Padre...*" El primer punto es que los elegidos son en base a la presciencia de Dios. El ser elegidos es según el previo conocimiento de Dios. 
 
 #### Pedro no esta diciendo que Dios eligió según Su plan predeterminado como lo hizo entregando a Jesucristo en Hechos 2. Hechos 2:23
 
-#### Los elegidos no son según el plan predeterminado de Dios, sino según Su previo conocimiento.  
+#### Los elegidos no son según el plan predeterminado de Dios, sino __<u>según</u>__ Su previo conocimiento.  
 
-####  ¿La elección es de acuerdo a qué conocimiento previo? La presciencia de Dios incluye conocer todo de todos los tiempos. Entonces, Dios sabía antes de nada sobre los que a traves de los tiempos creerían en Él. 
+####  ¿La elección es según qué conocimiento previo? La presciencia de Dios incluye conocer todo sobre todos los tiempos. Específicamente, Dios sabía antes de nada sobre los que a traves de los tiempos creerían en Él. 
 
-###  1 Pedro 1:2 "*por la obra  santificadora* [en santificación RVR60] *del Espíritu...*" Son elegidos por la obra santificadora del Espíritu. 2 Tesalonicenses 2:13; Tito 3:5
-#### la palabra "*por*" EN - significa en, con o por. Esta palabra es usualmente traducida "en". La traducción de la palabra EN a por hace parecer que la elección es causado por El Espíritu, sin embargo mejor es entender que la elección es por medio de la obra santificadora, es decir, en separar para un uso. 
+###  1 Pedro 1:2 "*por la obra  santificadora* [en santificación RVR60] *del Espíritu...*" Son elegidos por la obra santificadora del Espíritu. 2 Tesalonicenses 2:13
+#### la palabra "*por*" EN - significa en, con o por. Esta palabra es usualmente traducida "en". La traducción de la palabra EN (a por) hace parecer que la elección es causado por El Espíritu en un sentido regenerador, sin embargo mejor es entender que la elección es por medio de la obra santificadora, es decir, en separar para un uso. Tito 3:5
 
 ###  1 Pedro 1:2 "*para obedecer a Jesucristo...*" El tercer punto de la elección es que es para obedecer a Jesucristo y ser rociados con Su sangre. 1 Pedro 1:14, 22
 
-### 1 Pedro 1:2 "*...y ser rociados con Su sangre:*" Hebreos 9:13-14
+### 1 Pedro 1:2 "*...y ser rociados con Su sangre:*" El ser rociado con sangre era una practica bajo la ley que representaba ser santificado para un propósito de Dios. Hebreos 9:13-14
 
-###  ¿Que conocimiento previo determina la elección? 
-#### Nótense las tres preposiciones: según (KATA) la presciencia; en (EN) la santificación; para (EIS) la obediencia. El fundamento, la esfera y el fin de la santificación espiritual.
+#### Nótense las tres preposiciones: **según** (KATA) la presciencia; **en** (EN) la santificación; **para** (EIS) la obediencia. El fundamento, la esfera y el fin de la santificación espiritual.
+
+#### Romanos 8:28 "*Y sabemos que para los que aman a Dios, todas las cosas cooperan para bien, esto es, para los que **son llamados conforme a Su propósito**.*"
+
+#### Romanos 8:29 *Porque a los que de antemano conoció, también los predestinó a ser hechos conforme a la imagen de Su Hijo, para que Él sea el primogénito entre muchos hermanos.* en base al previo conocimiento, vemos una cadena de 5 eslabones. 
+
+#### Romanos 8:30 *A los que predestinó, a esos también llamó. A los que llamó, a esos también justificó. A los que justificó, a esos también glorificó.*
+
+##### 100% de los que Dios previamente conoció, **predestino**. 
+
+##### 100% de los que Dios predestinó, **llamó**. 
+
+##### 100% de los que Dios llamó, **justifico**. 
+
+##### 100% de los que Dios justifico, **glorificó**.
+
+##### En conclusión, la obra de Dios es 100% efectivo a los que el conoció de antemano.  ¿Como puede uno saber que Dios le conoció de antemano? Porque por tu fe creiste en Él.  
 
 ###  1 Pedro 1:2 *Que la gracia y la paz les sean multiplicadas a ustedes.* El deseo de Pedro a sus lectores es que Dios multiplique Su gracia y paz a ellos. 2 Pedro 1:2
 
@@ -212,7 +225,7 @@ En el plan soberano de Dios, Él estableció que la salvación es únicamente po
 
 ### En última instancia, la fe hace que la soberanía de Dios en proveer salvación por el medio de la fe en Jesucristo sea confirmada y la promesa entra en juego al individuo. El poder de Dios guarda a los creyentes "*mediante la fe*" para la salvación que está preparada para ser revelada en el tiempo postrero, asegurando así que su herencia "*incorruptible e inmaculada, y cuyo destino no está lejos, reservada en los cielos*".
 
-## 1 Timoteo 1:6-9 La fe refinada por las pruebas
+## 1 Timoteo 1:6-9 La fe probada
 
 ###  1 Pedro 1:6a  "*En lo cual ustedes se regocijan grandemente,*" Les trajo gran regocijo conocer estas realidades. Saber que seremos salvos en el último tiempo nos llena de gozo. Así como Dios supo de nosotros de antemano, estuvo reservando nuestra herencia futura y nos hizo renacer, podemos regocijarnos al saber que nos protege en el presente para recibir la completa salvación que nos ha prometido. 
 
@@ -300,15 +313,27 @@ En el plan soberano de Dios, Él estableció que la salvación es únicamente po
 
 ##### 1 Pedro 4:19 "*Así que los que sufren conforme a la voluntad de Dios, encomienden sus **almas** al fiel Creador, haciendo el bien.*" 
 
-### 1 Pedro 1:10b "*de la gracia que vendría a ustedes...*" 
+### 1 Pedro 1:10b "*de la gracia que vendría a ustedes...*" una gracia venidera no significa que no hemos recibido gracia, pero que recibimos gracia sobre gracia. 
 
-### 1 Pedro 1:10c "*...diligentemente inquirieron y averiguaron...*" Lucas 10:24
+#### Fuimos salvos por gracia. Efesios 2:8
+
+#### Estamos firmes en la gracia. Romanos 5:2
+
+#### Somos protegidos del libertinage al aprender de la gracia. 2 Pedro 3:17-18
+
+#### Somos enseñados a vivir piadosamente por la gracia. Tito 2:11-12
+
+#### La gracia nos enseña a tener esperanza en Jesucristo. 1 Pedro 1:13; Tito 2:13
+
+### 1 Pedro 1:10c "*...diligentemente inquirieron y averiguaron...*" para una persona viviendo bajo la ley, debió llamarles la atención las cosas que estaban siendo reveladas sobre la gracia que iva de venir.  Lucas 10:24
+
+#### Similarmente, a nosotros nos llama la atención muchas cosas sobre el Reino Milenial de Cristo. Quisieramos indigar y averiguar sobre ese tiempo. 
 
 ### 1 Pedro 1:11a  "*...procurando saber qué persona o tiempo indicaba el Espíritu de Cristo dentro de ellos...*" La revelación de Dios sobre su plan ha sido progresiva. Los que vinieron antes de nosotros (la iglesia) no sabían muchas cosas que a nosotros se nos ha revelado. 
 
 ### 1 Pedro 1:11b "*...al predecir los sufrimientos de Cristo y las glorias que seguirían...*" Los sufrimientos de Cristo fueron predichos pero, ¿que glorias seguirían? 
 
-#### Predijeron Su Sufrimiento
+#### Predijeron Sus Sufrimientos
 
 ##### Isaías 53:11 *Debido a la **angustia de Su alma**, Él lo verá y quedará satisfecho. Por Su conocimiento, el Justo, Mi Siervo, justificará a muchos, Y **cargará las iniquidades** de ellos.*
 
@@ -428,37 +453,41 @@ En el plan soberano de Dios, Él estableció que la salvación es únicamente po
 
 ###  1 Pedro 1:23a "*ámense...Pues han nacido de nuevo...*" (perfecto, pasivo, participio) - siendo que eran renacidos por Dios estaban creados nuevamente en Cristo para buenas obras. Efesios 2:10; 2 Corintios 5:17-18
 
-###  1 Pedro 1:23b "*no de una simiente corruptible, sino de una que es incorruptible...*" Nuestro nacimiento es por una simiente divina, celestial (incorruptible) no humana (corruptible)
+###  1 Pedro 1:23b "*no de una simiente corruptible, sino de una que es incorruptible...*" Nuestro nacimiento es por una simiente divina, celestial (incorruptible) no humana (corruptible).
 
-###  1 Pedro 1:23c "*es decir, mediante la palabra de Dios que vive y permanece...*"
+#### Todo lo que es terrenal es temporal, pasajero. 
 
-#### Isaias 40 la carne y su gloria versus la voluntad de Dios
+###  1 Pedro 1:23c "*es decir, mediante la palabra de Dios que vive y permanece...*" fue mediante la palabra viva y eterna de Dios que hemos purificado nuestras almas y hemos nacido de nuevo. Somos el resultado de la Palabra viva y perdurable de Dios. 
 
-##### Isaías 40:1-2 «Consuelen, consuelen a Mi pueblo», dice su Dios. «Hablen al corazón de Jerusalén Y díganle a voces que su lucha ha terminado, Que su iniquidad ha sido quitada, Que ha recibido de la mano del SEÑOR El doble por todos sus pecados».
+La Palabra LOGOS 
 
-##### Isaias 40:3-4 Una voz clama: «Preparen en el desierto camino al SEÑOR; Allanen en la soledad calzada para nuestro Dios. Todo valle sea elevado, Y bajado todo monte y collado; Vuélvase llano el terreno escabroso, Y lo abrupto, ancho valle.
+###  1 Pedro 1:24a "*Porque: «TODA CARNE ES COMO LA HIERBA,*" Toda la humanidad es comparable a la hierba. Aparece un día y muy poco después muere. 
 
-##### Isaias 40:5-6 Entonces será revelada la gloria del SEÑOR, Y toda carne a una *la* verá, Pues la boca del SEÑOR ha hablado». Una voz dijo: «Clama». Entonces él respondió: «¿Qué he de clamar?». Que toda carne es como la hierba, y todo su esplendor es como la flor del campo.
+#### Veamos un poco del contexto de Isaias 40. 
 
-##### Isaias 40:7-8 Se seca la hierba, se marchita la flor Cuando el aliento del SEÑOR sopla sobre ella; En verdad el pueblo es hierba. Se seca la hierba, se marchita la flor, Pero la palabra de nuestro Dios permanece para siempre.
+##### Isaias 40:5-6 *Entonces será revelada la gloria del SEÑOR, Y toda carne a una la verá, Pues la boca del SEÑOR ha hablado». Una voz dijo: «Clama». Entonces él respondió: «¿Qué he de clamar?». Que toda carne es como la hierba, y todo su esplendor es como la flor del campo.*
 
-##### Isaias 40:9-10 Súbete a un alto monte, Oh Sión, portadora de buenas nuevas. Levanta con fuerza tu voz, Oh Jerusalén, portadora de buenas nuevas; Levánta*la,* no temas. Dile a las ciudades de Judá: «Aquí está su Dios». Miren, el Señor DIOS vendrá con poder, Y Su brazo gobernará por Él. Con Él está Su galardón, Y Su recompensa delante de Él.
+##### Isaias 40:7-8 *Se seca la hierba, se marchita la flor Cuando el aliento del SEÑOR sopla sobre ella; En verdad el pueblo es hierba. Se seca la hierba, se marchita la flor, Pero la palabra de nuestro Dios permanece para siempre.*
 
-###  1 Pedro 1:24a "*Porque: «TODA CARNE ES COMO LA HIERBA,*" Toda la humanidad es comparable a la hierba que un día esta floreciendo y al día siguiente se seca. Tiene poca duración de vida. 
+##### Isaias 40:9-10 *Súbete a un alto monte, Oh Sión, portadora de buenas nuevas. Levanta con fuerza tu voz, Oh Jerusalén, portadora de buenas nuevas; Levántala, no temas. Dile a las ciudades de Judá: «Aquí está su Dios». Miren, el Señor DIOS vendrá con poder, Y Su brazo gobernará por Él. Con Él está Su galardón, Y Su recompensa delante de Él.*
 
 #### La humanidad es corruptible, es falible y no permanece.
 
-#####  No es constante
-
-##### No es fiel
-
-##### No es confiable
-
 #### 1 Juan 2:17 "*El mundo pasa, y también sus pasiones, pero el que hace la voluntad de Dios permanece para siempre*". 
 
-###  1 Pedro 1:24b "*Y TODA SU GLORIA COMO LA FLOR DE LA HIERBA.*" Salmo 90:5-6
+#####  El hombre no es constante.
 
-###  1 Pedro 1:24c "*SÉCASE LA HIERBA, CÁESE LA FLOR,*" Santiago 1:10-11
+##### El hombre no es fiel.
+
+##### El hombre no es confiable.
+
+##### El hombre no hace el bien.
+
+###  1 Pedro 1:24b "*Y TODA SU GLORIA COMO LA FLOR DE LA HIERBA.*" la flor es producto de la hierba. 
+
+####  No dice el versículo que el mundo no tiene gloria, dice que que la gloria de toda carne es como la flor de la hierba. Salmo 90:5-6
+
+###  1 Pedro 1:24c "*SÉCASE LA HIERBA, CÁESE LA FLOR,*" Las personas luchan para mantener la flor sin secarse porque al secarse la flor desvanece su gloria. La flor tiene una gloria poca duradera. Santiago 1:10-11
 
 ###  1 Pedro 1:25a "*PERO LA PALABRA DEL SEÑOR PERMANECE PARA SIEMPRE».*" En contraste (Pero) con la carta vida de la carne y su gloria, La Palabra de Dios permanece para siempre. 
 
@@ -478,7 +507,9 @@ En el plan soberano de Dios, Él estableció que la salvación es únicamente po
 
 #### La palabra de Dios no cambia según los descubrimientos arqueológicos, científicos, astronómicos etc. etc.. 
 
-###  1 Pedro 1:25b "*Esa es la palabra que a ustedes les fue predicada.*" Esa es la palabra que oyeron y creyeron. Esa es la palabra que les mantiene firmes en este momento. 
+###  1 Pedro 1:25b "*Esa es la palabra que a ustedes les fue predicada.*" Esa es la palabra que oyeron y creyeron. Esa es la palabra que les mantiene firmes en este momento. Lucas 4:16-21
+
+#### Predicada EUANGELIZO les habían predicado el evangelio. 
 
 ## En Síntesis (1 Timoteo 1:10-25)
 
@@ -1670,33 +1701,43 @@ y rebosa en amor (vv. 22-25).
 
 ## A los ancianos
 
-### 1 Pedro 5:1 *Por tanto, a los ancianos entre ustedes,*
+### 1 Pedro 5:1 *Por tanto,* tenemos el contexto conectando a "*el juicio comience por la casa de Dios.* 1 Pedro 4:17
 
-### *exhorto yo, anciano como ellos y testigo de los padecimientos de Cristo,*
+### *a los ancianos entre ustedes,* del rol de anciano es "entre" los creyentes, no los pone en una posición superior entre "ustedes" los creyentes. 1 Pedro 5:2
 
-### *y también participante de la gloria que ha de ser revelada:*
+### *exhorto yo,* Pedro hablaría en cuenta y el como anciano, una recomendación de un anciano a otro. Aunque se presenta el el pr
 
-### 1 Pedro 5:2 *pastoreen el rebaño de Dios entre ustedes,*
+### *exhorto yo...anciano como ellos* Aunque en el princípio se su carta se presenta como apostol, ahora pasa a ser un anciano, mostrando la transición de apóstol a anciano. Hechos 2:43, 5:12, 8:1, wifis 2:4-6
 
-### *velando por él,*
+### *exhorto yo...y testigo de los padecimientos de Cristo,* Pedro mismo se mostró como un creyente padecero por causa de Cristo. Asi también sabia un creyente que al podecido sufrimientos por Cristo seria participante de Su gloria.  Mateo 28:7-8; Marco 16:7; Lucas 23:55, 24:9-12, 33
 
-### *no por obligación,*
+### *exhorto yo...y también participante de la gloria que ha de ser revelada:* Es curioso, aunque Pedro vio ocularmante parte del juicio de Jesús, no estuvo durante todos sus padecimientos. Entonces, ¿a que se refiere? md 1,5,7 2 Timoteo 2:6-13; 2 Pedro 1:11
 
-### *sino voluntariamente,*
+### En el contexto de la carde, Pedro tambien habría estado siendo participante de las aflicciones de Cristo, entonces el funge como testigo, vivir piadosamente en Cristo traerá afflicciones. Hechos 5:45; 1 Pedro 4:4, 4:12-16, 2:20-21; 2 Timoteo 3:12; 1 Tesalonicenses 3:3-4
 
-### *como quiere Dios;*
+### 1 Pedro 5:2 *pastoreen* un anciano tiene el rol (responsabilidad) de pastorear, apasentar el rebaño. Esto no solo incluye velar, sino proteger y guiar hacia pastos verdes a Cristo. 
 
-### *no por la avaricia del dinero,*
+### *el rebaño de Dios entre ustedes,* el rebaño es de Dios. La preposición "de" indica propiedad u origen. Los ancianos tienen un rol de pastorear al que le pertenece a Dios. El rebaño (los creyentes de la iglesia local) no le pertenece a los ancianos. 
 
-### *sino con sincero deseo;*
+### *velando por él,* El pastorear al rebaño es velando por el. El anciano debe velar, guiar al rebaño. 
 
-### 1 Pedro 5:3 *tampoco como teniendo señorío sobre los que les han sido confiados,*
+### *no por obligación,* 1 Tes 3:1 nos dice que el que desea obispado buena obra desea. 
 
-### *sino demostrando ser ejemplos del rebaño.*
+### *sino voluntariamente,* Un anciano pastorea voluntariamente. El deseo de velar se sujeta a escuchar a Dios. Quiere cuidar de Su rebaño. 
 
-### 1 Pedro 5:4 *Y cuando aparezca el Príncipe de los pastores,*
+### *como quiere Dios; no por la avaricia del dinero,* un anciano no deberia pastorear por la aviricia del dinero. No significa que no el obrero no es digno de su salario. Aquí el problema es que su foco u objetivo no es velar por el rebaño, sino por dinero como un asalariado que no le importa el rebaño. 
 
-### *ustedes recibirán la corona inmarcesible de gloria.*
+### *como quiere Dios...sino con sincero deseo;* desea por la grey avivar y guiar hacia Cristo. 
+
+### 1 Pedro 5:3 *tampoco como teniendo señorío sobre los que les han sido confiados,* Podemos ver que un anciano no debe pastorear pretendiendo tener señorío o estar sobre los creyentes. El anciano no es señor o un mandamás del rebaño, donde su palabra es ley. 
+
+### *sino demostrando ser ejemplos del rebaño.* un anciano debe ser ejemplo entre los creyentes de una andar de fe en dependencia De Dios. Enseñando a sujetarse y afirmarse a Cristo y no a ellos. Deben ser un ejemplo de lo que la gracia de Dios puede hacer. Lo es facil que en medio de aflicciones un anciano abandone al rebaño, acomodarse a cambiar la escritura con tal de no sufrir por la palabra del evangelio. Que en vez de cambiar las Escrituras para apoderarse del rebaño pueda ser ejemplo para incrementar que la esperanza esté puesta en Cristo. 
+
+### 1 Pedro 5:4 *Y cuando aparezca el Príncipe de los pastores,* Jesús es descrito como el Príncipe de los pastores. El anciano como pastor, esta por debajo del Príncipe de pastores. 
+
+Es dificil el pastorear al rebaño. Es facil perder el foco del porque seguir.  El anciano es invitado a poner su esperanza en la venida del Señor. 
+
+### *ustedes recibirán la corona inmarcesible de gloria.* Sabemos que los creyentes serán sometidos a juicio y según recibiremos recompensas. El anciano que pastorea bien recibirá una corona. Esto esta específicamente dicho en función del rol de anciano. 
 
 ## Jóvenes
 
@@ -1704,7 +1745,7 @@ y rebosa en amor (vv. 22-25).
 
 ### *estén sujetos a los mayores.*
 
-### *Y todos, revístanse de humildad en su trato mutuo,*
+### *Y todos, revístanse de humildad en su trato mutuo,* Es es claro, de humildad en trato mutuo no es algo que sera posible separado de Cristo. Es facil vernos de manera soberbia y no como quienes somos en realidad. Jesus dijo aprended de mi que soy manso y humilde 
 
 ### *porque DIOS RESISTE A LOS SOBERBIOS, PERO DA GRACIA A LOS HUMILDES.*
 
