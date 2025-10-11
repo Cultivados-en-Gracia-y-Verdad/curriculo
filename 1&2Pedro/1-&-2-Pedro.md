@@ -84,7 +84,7 @@ Title: 1 & 2 Pedro
 
 #### "*Elegidos*" EKLEKTOS puede referirse a:
 
-##### Israel (Deuteronomio 7:6), Reyes (1 Samuel 10:24), Ángeles (1 Timoteo 5:21), La Iglesia (Tito 1:1), Individuos (Romanos 16:13), Creyentes (Mateo 24:31) y El Mesías (Lucas 23:35).
+##### Israel (Deuteronomio 7:6), reyes (1 Samuel 10:24), ángeles (1 Timoteo 5:21), la iglesia (Tito 1:1), individuos (Romanos 16:13), creyentes (Mateo 24:31) y El Mesías (Lucas 23:35).
 
 #### La doctrina de la elección ha sido corrompida y confusa por falsas enseñanzas. La enseñanza de que Dios eligió a algunos pecadores para la salvación, y que solo Cristo murió por ellos, y solo ellos pueden ser salvos no es conforme a la Biblia. Según los que enseñan la "elección soberana", la elección de Dios no tiene nada que ver con Su conocimiento previo de quiénes creerían.
 
@@ -100,11 +100,11 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 1:2b "*elegidos según...el previo conocimiento de Dios Padre...*" El primer punto es que los elegidos son en base a la presciencia de Dios. El ser elegidos es según el previo conocimiento de Dios. 
 
-#### Pedro no esta diciendo que Dios eligió según Su plan predeterminado como lo hizo entregando a Jesucristo en Hechos 2. Hechos 2:23
+#### Pedro no esta diciendo que Dios eligió según Su plan predeterminado como lo hizo entregando a Jesucristo en Hechos 2. Hechos 2:23; 1 Pedro 1:20
 
-#### Los elegidos no son según el plan predeterminado de Dios, sino __<u>según</u>__ Su previo conocimiento.  
+#### Los elegidos no son según el plan predeterminado de Dios, sino __<u>según</u>__ Su previo conocimiento.  Gálatas 4:9
 
-####  ¿La elección es según qué conocimiento previo? La presciencia de Dios incluye conocer todo sobre todos los tiempos. Específicamente, Dios sabía antes de nada sobre los que a traves de los tiempos creerían en Él. 
+####  ¿La elección es según qué conocimiento previo? La presciencia de Dios incluye conocer todo sobre todos los tiempos. Específicamente, Dios sabía antes de nada sobre los que a traves de los tiempos creerían en Él. Romanos 8:28-29
 
 ###  1 Pedro 1:2c "*por la obra  santificadora* [en santificación RVR60] *del Espíritu...*" Son elegidos por la obra santificadora del Espíritu. 2 Tesalonicenses 2:13
 #### La palabra "*por*" EN - significa en, con o por. Esta palabra es usualmente traducida "en". La traducción de la palabra EN (a por) hace parecer que la elección es causado por El Espíritu en un sentido regenerador, sin embargo mejor es entender que la elección es por medio de la obra santificadora, es decir, en separar para un uso. Tito 3:5
@@ -155,7 +155,7 @@ Title: 1 & 2 Pedro
 
 ## 1 Timoteo 1:3-5 La esperanza viva por la fe
 
-###  1 Pedro 1:3a "*Bendito sea el Dios y Padre de nuestro Señor Jesucristo, quien según Su gran misericordia,*" Pedro bendice a Dios el Padre quien compartimos en Jesucristo por su gran misericordia. 2 Corintios 1:3
+###  1 Pedro 1:3a "*Bendito sea el Dios y Padre de nuestro Señor Jesucristo, quien según Su gran misericordia...*" Pedro bendice a Dios el Padre quien compartimos en Jesucristo por su gran misericordia. 2 Corintios 1:3
 
 ###  1 Pedro 1:3b "*nos ha hecho nacer de nuevo...*" ha sido por Su gran misericordia que Él nos hizo nacer de nuevo. Tito 1:2, 3:5; 1 Pedro 1:21; Gálatas 6:16
 
@@ -163,7 +163,9 @@ Title: 1 & 2 Pedro
 
 #### La salvación es de Dios (Jonás 2:9). Si hemos recibido la salvación, tiene que ser de Dios. Si nacimos de nuevo, no es causa nuestra, es por Dios quien tuvo misericordia. Santiago 1:18; 1 Pedro 1:23
 
-#### Una pregunta importante seria, ¿Cómo nos hizo renacer? Fue por medio de la fe en Jesucristo. (para más información véase el apéndice "doctrina de la regeneración en relación a la fe"). Juan 3:4, 7; Santiago 1:18
+#### Una pregunta importante seria, ¿Cómo nos hizo renacer? Fue por medio de la fe en Jesucristo. Juan 3:4, 7; Santiago 1:18
+
+##### el nuevo nacimiento ocurrió después de haber creido. (para más información véase el apéndice "doctrina de la regeneración en relación a la fe")
 
 #### Para que el hombre sea declarado justo es necesario que haya un nacimiento espiritual. 2 Corintios 5:21; Gálatas 6:15
 
@@ -179,19 +181,39 @@ Title: 1 & 2 Pedro
 
 #### Puesto de otra manera, según Su previo conocimiento y motivado por Su misericordia, Dios nos hizo nacer para recibir una herencia reservada en los cielos. 
 
-### 1 Pedro 1:4c "...*para ustedes...*" Esto era para los creyentes a los que escribía Pedro. ¿Será una realidad para ti también?
+### 1 Pedro 1:4c "...*para ustedes...*" los lectores podían estar completamente seguros de estar en este grupo de bendecidos. ¿Como podían saber?
 
-#### ¿Cómo se que soy un elegido de Dios? 
+#### ¿Cómo se que soy un elegido de Dios? ¿Realmente puedo saber que el soberano Dios me escogió desde antes de la fundación del mundo?
 
-#### ¿Cómo puedo saber que tengo una esperanza viva? 
+#### ¿Cómo puedo saber que yo tengo una esperanza viva? 
 
-#### ¿Que sé que recibiré una herencia en los cielos? 
+#### ¿Realmente tengo yo una herencia en los cielos? 
 
-#### ¿Cómo puedo saber si estoy siendo cuidado por el poder de la fuerza de Dios?
+#### A continuación veremos como Pedro aseguró a sus lectores que apesar de sus tribulaciones podían estar completamente seguros que Dios les había destinado a salvación y no a perdición. 
 
 ## 1 Pedro 1:5-7 La importancia de la nuestra fe
 
-###  1 Pedro 1:5a  "*...Mediante la fe ustedes son protegidos por el poder de Dios,*" Cuando creímos la promesa, el poder, la misericordia, la herencia y ser protegidos por Dios llegan a hacerse una realidad . 1 Pedro 5:10, 1:9
+###  1 Pedro 1:5a  "*...Mediante la fe ustedes son protegidos por el poder de Dios,*" Cuando creímos en Cristo, la promesa, el poder, la misericordia, la herencia y ser protegidos por Dios llegan a hacerse tuyos pero Dios estuvo, está y siempre estará guardandote por la precognición de Dios. 1 Pedro 5:10, 1:9
+
+#### Esto es una expresión importante que Pedro hace. El resto de la carta se apoyará grandemente sobre ello. 
+
+#### Pedro dice que es por medio de la fe que somos protegidos para salvación que está preparada para ser revelada. 
+
+#### Esto significa que es nuestra fe quien nos mantiene protegidos? ¿Significa que necesito seguir creyendo para que sea una realidad? 
+
+#### "*Mediante la fe*" es que el creyente sabe en quien ha puesto su confianza. 2 Timoteo 1:12
+
+#### Todo esto sucedió en base al previo conocimiento de Dios. 
+
+#### ¿Específicamente, qué conoció Dios de ante mano? Tu fe en Él fue prevista desde la eternidad pasada. 
+
+##### La fe es mencionada 5 veces en 1 Pedro. 4 de las 5 veces están en el primer capítulo. 3 de las 5 veces usa el posesivo, "*su fe*" o "*la fe de ustedes*". 
+
+#### Significa que tu fe no te la dio Dios. Significa que no tienes que dudar si Dios te dio la fe o no. 
+
+#### Significa que es tu fe, nuestra fe que pusimos en Dios. El conocio este hecho de antemano y pudo actuar sobre ello. ¡Que asombroso! 
+
+#### Significa que nuestra fe es el medio por el cual tenemos plena seguridad que Dios asegura protegernos para recibir esa herencia reservada para cada uno de los que El conoció de antemano. 
 
 #### "*Mediante la fe*" no significa para nada que sea requerido cualquiera de los siguientes:
 
@@ -201,25 +223,15 @@ Title: 1 & 2 Pedro
 
 ##### Dios tiene que soberanamente decidir al azar quien creerá. 
 
-#### "*Mediante la fe*" es que el creyente sabe en quien ha puesto su confianza. 2 Timoteo 1:12
-
-#### Todo esto sucedió en base al previo conocimiento de Dios. 
-
-#### ¿Específicamente, qué conoció Dios de ante mano? Nuestra fe. 
-
-##### La fe es mencionada 5 veces en 1 Pedro. 4 de las 5 veces están en el primer capítulo. 3 de las 5 veces usa el posesivo, "*su fe*" o "*la fe de ustedes*". 
-
-#### ¿Que significa esto? Significa que nuestra fe es el medio por el que tenemos plena seguridad que Dios asegura protegernos para recibir esa herencia reservada para cada uno de los que El conoció de antemano. 
-
-#### ¿Significa que Dios como soberano, decidió que la salvación es específicamente para algunos y otros no? Bíblicamente esto no es viable. Lo que si significa es que Dios supo de antemano, vio todos los que creerían en El. 
-
 ##### Vale aclarar que la fe no es un mero conocimiento intelectual, sino la confianza que descansa únicamente en Jesucristo y Su obra en la cruz por nuestros pecados. 
+
+###### El que no responde a la revelación que ha recibido de Dios queda inexcusable ante Dios. Romanos 1:20, 2:1 
 
 #### "*son protegidos*" PHROUREO (presente, pasivo, participio) - estar o volverse seguro y mantenerse bajo vigilancia.[^1] Somos continuamente los protegidos por Dios. No es nuestra fe que nos protege, es Dios. 
 
 ##### Esto es algo asombroso. Vimos previamente que "*mediante la resurrección*" de Cristo hemos nacido de nuevo. Ahora vemos que mediante la fe estamos protegidos. 
 
-##### En el plan soberano de Dios, Él estableció que la salvación es únicamente por la fe. El medio por el cual el hombre es salvo es por el medio de la fe en Jesucristo. 
+##### En el plan soberano de Dios, Él estableció que la salvación sea únicamente por la fe. El medio por el cual el hombre es salvo es por el medio de la fe en Jesucristo. 
 
 ##### ¿Es tan poderosa nuestra fe como para protegernos? No. Lo que es poderoso es que Dios declara que todo el que en Él cree, no será decepcionado (1 Pedro 2:6). Lo que es poderoso es que Dios conoció de antemano de nuestra fe y nos protege para recibir lo que Él prometió. Haber puesto nuestra confianza en Dios nos asegura todas estas cosas. 
 
@@ -235,7 +247,7 @@ Title: 1 & 2 Pedro
 
 #### "*Revelada*" APOCALIPTO (aoristo, pasivo, infinitivo) - ser o llegar a ser conocido por el público; especialmente información que anteriormente sólo era conocida por unas pocas personas o que debía mantenerse en secreto.[^1]
 
-#### En última instancia, la fe hace que la soberanía de Dios en proveer salvación por el medio de la fe en Jesucristo sea confirmada y la promesa entra en juego al individuo. El poder de Dios guarda a los creyentes "*mediante la fe*" para la salvación que está preparada para ser revelada en el tiempo postrero, asegurando así que su herencia "*incorruptible e inmaculada, y cuyo destino no está lejos, reservada en los cielos*".
+#### En última instancia, la fe hace que la soberanía de Dios en proveer salvación por el medio de la fe en Jesucristo sea confirmada y la promesa segura al individuo. El poder de Dios guarda a los creyentes "*mediante la fe*" para la salvación que está preparada para ser revelada en el tiempo postrero, asegurando así que su herencia "*incorruptible e inmaculada, y cuyo destino no está lejos, reservada en los cielos*".
 
 ## 1 Timoteo 1:6-9 La fe probada
 
@@ -363,11 +375,11 @@ Title: 1 & 2 Pedro
 
 #### "*Mirar*" PARAKYPTO - examinar, concebido como hacer un esfuerzo para ver algo (que no está en la línea de visión) agachándose o inclinándose.
 
-## 1 Pedro 1:13-21 – Preparando la mente para la acción
+## 1 Pedro 1:13-21 – Preparando el entendimiento para la acción
 
 ###  1 Pedro 1:13a "*Por tanto...*" equivale a, "en vista del hecho de que aunque están pasando por muchas clases de pruebas (1 Pedro 1:6), sin embargo, porque su herencia celestial les espera" (1 Pedro 1:3-6), preparen su entendimiento para la acción (1 Pedro 1:13).
 
-###  1 Pedro 1:13b "*preparen su entendimiento...*" Es interesante esta expresión...preparen su entendimiento...no dice preparen sus manos o su mente. Dios quiere transformar nuestro entendimiento. Romanos 12:1-2; 2 Corintios 10:5; Salmo 1:2; 1 Pedro 2:9
+###  1 Pedro 1:13b "*preparen su entendimiento...*" Es interesante esta expresión...preparen su entendimiento...no dice preparen sus manos o sus cuerpos. Dios quiere transformar nuestro entendimiento. Romanos 12:1-2; 2 Corintios 10:5; Salmo 1:2; 1 Pedro 2:9
 
 ### 1 Pedro 1:13c "*para la acción...*" ¿el entendimiento preparado para la acción? ¿Recibirían mayor entendimiento? ¿El entendimiento entraría en acción para recibir mayor entendimiento? 
 
@@ -488,13 +500,13 @@ Title: 1 & 2 Pedro
 
 #### 1 Juan 2:17 "*El mundo pasa, y también sus pasiones, pero el que hace la voluntad de Dios permanece para siempre*". 
 
-#####  El hombre no es constante.
+#####  El hombre no es constante. Jeremías 1:5
 
-##### El hombre no es fiel.
+##### El hombre no es fiel. Miqueas 7:5
 
-##### El hombre no es confiable.
+##### El hombre no es confiable. Salmo 118:8
 
-##### El hombre no hace el bien.
+##### El hombre no hace el bien. Jeremías 17:5
 
 ###  1 Pedro 1:24b "*Y TODA SU GLORIA COMO LA FLOR DE LA HIERBA*" la flor es producto de la hierba. 
 
@@ -504,21 +516,21 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 1:25a "*PERO LA PALABRA DEL SEÑOR PERMANECE PARA SIEMPRE».*" En contraste (Pero) con la corta vida de la carne y su gloria, La Palabra de Dios permanece para siempre. 
 
-#### La palabra de Dios no cambia
+#### La palabra de Dios no cambia. Salmo 119:89
 
-#### La palabra de Dios nunca pasará
+#### La palabra de Dios nunca pasará. Isaías 40:8; Mateo 24:35
 
-#### La palabra de Dios es fiel
+#### La palabra de Dios es fiel. 1 Pedro 1:25; Proverbios 30:5
 
-#### La palabra de Dios es verdadera
+#### La palabra de Dios es verdadera. 2 Timoteo 3:16
 
-#### La palabra de Dios es desde eternidad pasada a eternidad futura. 
+#### La palabra de Dios es desde eternidad pasada a eternidad futura. Juan 1:1
 
-#### La palabra de Dios no cambia según los tiempos
+#### La palabra de Dios no cambia según los tiempos. Salmo 119:89
 
-#### La palabra de Dios no cambia según la inteligencia del hombre
+#### La palabra de Dios no cambia según la inteligencia del hombre. Romanos 1:25
 
-#### La palabra de Dios no cambia según los descubrimientos arqueológicos, científicos, astronómicos etc. etc.. 
+#### La palabra de Dios no cambia según los descubrimientos arqueológicos, científicos, astronómicos etc. etc.. 2 Pedro 3:3
 
 ###  1 Pedro 1:25b "*Esa es la palabra que a ustedes les fue predicada.*" Esa es la palabra que oyeron y creyeron. Esa es la palabra que les mantiene firmes en este momento. Lucas 4:16-21
 
@@ -530,9 +542,9 @@ Title: 1 & 2 Pedro
 
 #### Lo que no entendieron: No pudieron comprender plenamente todas sus profecías concernientes a la obra futura del Mesías. 
 
-##### En cuanto a su dolor (1:10-11a)
+##### En cuanto a su dolor (1:10-11)
 
-##### En cuanto a su gloria (1:11b)
+##### En cuanto a su gloria (1:11)
 
 #### Lo que sí entendieron: Sabían que sus profecías no se cumplirían hasta después de su muerte. (1:12a)
 
@@ -1005,55 +1017,69 @@ Title: 1 & 2 Pedro
 
   ### LA RENUNCIA (2:1-3, 11)
 
-### A qué debemos renunciar (2:1, 11b): Debemos despojarnos del engaño, la hipocresía, la envidia, la calumnia y la mundanalidad.
+#### ¿A qué debemos renunciar? (2:1, 11b): Considerando nuestro nuevo nacimiento, debemos despojarnos del engaño, la hipocresía, la envidia, la calumnia y la mundanalidad.
 
-### A qué debemos recibir (2:2-3): Debemos anhelar la leche espiritual pura.
+#### ¿A qué debemos desear? (2:2-3): Debemos desear la leche pura (Palabra de Dios) mediante la cual seremos nutridos en la Gracia del Señor.
 
   ### LA RELACIÓN (2:4-12)
 
-### Qué son los cristianos (2:5, 9a, 10-11a)
+#### Qué son los cristianos (2:5, 9a, 10-11a)
 
-### Somos piedras vivas (2:5a).
+##### Somos piedras vivas (2:5a).
 
-### Somos sacerdotes reales (2:5b).
+##### Somos sacerdotes reales (2:5b).
 
-### Somos un pueblo escogido (2:9a, 10).
+##### Somos un pueblo escogido (2:9a, 10).
 
-### Somos extranjeros en la tierra (2:11a).
+##### Somos extranjeros en la tierra (2:11a).
 
-### Qué es Cristo (2:4, 6-8, 9b, 12)
+#### Qué es Cristo (2:4, 6-8, 9b, 12)
 
-### Él es el fundamento vivo (2:4a). a. Él es un fundamento precioso para los creyentes (2:4b, 7a).
+##### Él es el fundamento vivo (2:4a).
 
-### Él es piedra de tropiezo para los incrédulos (2:8).
+##### Él es un fundamento precioso para los creyentes (2:4b, 7a).
 
-### Él es la piedra angular (2:6, 7b).
+##### Él es piedra de tropiezo para los incrédulos (2:8).
 
-### Él es el elegido (2:4c).
+##### Él es la piedra angular (2:6, 7b).
 
-### Él es el juez (2:12).
+##### Él es el elegido (2:4c).
 
-### Él es la luz (2:9b).
+##### Él es el juez (2:12).
 
-   ### EL RESPETO (2:13-20): Por amor al Señor, debemos mostrar respeto (y sumisión) a las siguientes personas:
+##### Él es la luz (2:9b).
 
-### Autoridades civiles (2:13-16)
+   ### EL RESPETO (2:13-20): 
 
-### Empleadores (2:18-20)
+   #### Como extranjeros y peregrinos del Señor, por amor a Él, debemos mostrar respeto (y sumisión) a las siguientes personas:
 
-### Todos (2:17)
+##### Autoridades civiles (2:13-16)
+
+##### Empleadores (2:18-20)
+
+##### Todos (2:17)
+
+#### ¿Porqué?
+
+##### Dios desea enmudecer las palabras de ignorancia de los incrédulos, por medio de hacer el bien. 1 Pedro 2:15
+
+##### La libertad que tenemos por medio de Dios en Cristo debe ser disfrutada con el propósito que Dios estableció, como siervos de Dios
 
    ### EL MODELO A SEGUIR (2:21-25)
 
-### Quién es (2:21-22): Él es nuestro Salvador sin pecado, Jesucristo. 
+#### Cristo es el modelo dado por Dios de sufrir por hacer lo bueno y soportarlo con paciencia.
 
-### Lo que hizo (2:23-24a): Murió en la cruz del Calvario.
+#### ¿Qué es lo que Cristo logro por medio de esto?
 
-### Por qué lo hizo (2:24b-25)
+##### Quién es (2:21-22): Él es nuestro Salvador sin pecado, Jesucristo. 
 
-### Para que sus heridas sanaran las nuestras (2:24b)
+##### Lo que hizo (2:23-24a): Murió en la cruz del Calvario.
 
-### Para que pudiéramos recurrir al Pastor (2:25)
+##### Por qué lo hizo (2:24b-25)
+
+###### Para que Su herida sanara las nuestras (2:24b)
+
+###### Para que pudiéramos ser traídos al Pastor (2:25)
 
 # 1 Timoteo 3:1-8 Relaciones dentro de la Iglesia
 
@@ -1631,7 +1657,21 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 4:3h "*...y abominables idolatrías.*" idolatría es la transliteración de la  palabra griega EIDOLATREIA, que quiere decir que los incrédulo participan en la adoración de imágenes que no tienen vida y es completamente abominable delante de Dios.
 
-###  1 Pedro 4:4 *Y en todo esto, se sorprenden de que ustedes no corren con ellos en el mismo desenfreno de disolución, y los insultan.*
+### 1 Pedro 4:4 El hacer la volundad de Dios es tan sorprendete para los incredulos que las únicas acciones y palabras que buscan hacer, es insultar a los creyentes, con tal de hacerlos quedar mal. 1 Pedro 3:16
+
+####  1 Pedro 4:4a *Y en todo esto, se sorprenden de que ustedes...*" Ustedes, que han nacido de nuevo y viven para la voluntad de Dios, en hacer el bien, con una conciencia limpia, llega a causar sorpresa, o un estado de perplejidad a los incredulos que andan en todos los deseos de las pasiones humanas.
+
+##### Claramente todo creyente tiene una diferencia posicional delante de Dios, y también al andar en la voluntad de Dios, un creyente muestra aquella diferencia que ya tiene, con los incredulos que no pueden hacer la voluntad de Dios.
+
+####  1 Pedro 4:4b "*...no corren con ellos en el mismo desenfreno de disolución,...*" La palabra correr SUNTREKJO significa congregarse rapidamente juntamente con ellos en las reuniones y todos los actos que realizan. 1 Pedro 4:3
+
+##### limpia conciencia y buena conducta son completamente contrarios, al desenfreno y disolución, que a los incredulos les gusta correr, en hacer el mal y no el bien.
+
+##### Aunque ellos quisieran andar en hacer el bien, no pueden porque son esclavos de sus propias pasiones, y como no pueden, con tal de ser vistos bien, ellos continúan corriendo en el mismo camino de desenfreno y disolución.
+
+####  1 Pedro 4:4c "*...y los insultan.*" Entonces al ver ellos (incrédulos) a los creyentes, en un andar que es tan evidente en una buena conducta y limpia conciencia a los ojos de Dios y también a los ojos de ellos, sin encontrar argumentos, solo responden con insultos e injurias para que respondamos en disolución como ellos lo hacen. 1Pedro 2:15, 3:17
+
+##### Y al andar con todo respeto y mansedumbre para ellos sigue siendo sorprendente y eso para su propia vergüenza porque saben que todo lo que insultan e injurian es falso, porque no pueden demostrarlo. 1 Pedro 3:15
 
 ###  1 Pedro 4:5 *Pero ellos darán cuenta a Aquel*
 
@@ -1771,25 +1811,37 @@ Title: 1 & 2 Pedro
 
 ### 1 Pedro 5:2 *velando por él,* Pastorear el rebaño es velar por el. El anciano debe velar, guiar al rebaño. 
 
-#### Interesantemente este trabajo va direccionado a que el anciano direccione a los creyente a Cristo y no a seguirlos a ellos.
+#### Interesantemente este trabajo va dirigido a que el anciano direccione a los creyente a Cristo y no a seguirlos a ellos.
 
 ### 1 Pedro 5:2 *no por obligación,* 1 Timoteo 3:1 nos dice que el que desea obispado buena obra desea. 
 
-#### El pastorear al rebaño no debe ser una tarea forzosa para el anciano, no debe estarlo haciendo por obligacion.s
+#### El pastorear al rebaño no debe ser una tarea forzosa para el anciano, no debe estarlo haciendo por obligacion.
 
-### 1 Pedro 5:2 *sino voluntariamente,* Un anciano pastorea voluntariamente. El deseo de velar se sujeta a escuchar a Dios. Quiere cuidar de Su rebaño. 
+### 1 Pedro 5:2 *sino voluntariamente,* Un anciano pastorea voluntariamente en el deseo de velar por el rebaño se sujeta a como Dios quiere cuidar de Su rebaño. 
 
-### 1 Pedro 5:2 *como quiere Dios; no por la avaricia del dinero,* un anciano no deberia pastorear por la aviricia del dinero. No significa que no el obrero no es digno de su salario. Aquí el problema es que su foco u objetivo no es velar por el rebaño, sino por dinero como un asalariado que no le importa el rebaño. 
+#### A continuacion veremos como Dios quiere que un anciano pastoree velando por el rebaño, asi mismo como Dios no quiere que se pastoree sobre su rebaño.
 
-### 1 Pedro 5:2 *como quiere Dios...sino con sincero deseo;* desea por la grey avivar y guiar hacia Cristo. 
+### 1 Pedro 5:2 *como quiere Dios; no por la avaricia del dinero,* un anciano no deberia pastorear por la aviricia del dinero. No significa que el obrero no es digno de su salario. Aquí el problema es que su foco no es velar por el rebaño, sino el dinero, como un asalariado que no le importa el rebaño. 
+
+### 1 Pedro 5:2 *como quiere Dios...sino con sincero deseo;* Dios quiere que lleven acabo su rol con sincero deseo de velar por la grey y guiarlos hacia Cristo. 
+
+#### Esto es muy importante considerando que el anciono es el reponsable de enseñar el evangelio al rebaño y cuidarlos de falsa enseñanza.
 
 ### 1 Pedro 5:3 *tampoco como teniendo señorío sobre los que les han sido confiados,* Podemos ver que un anciano no debe pastorear pretendiendo tener señorío o estar sobre los creyentes. El anciano no es señor o un mandamás del rebaño donde la palabra del anciano es ley. 
 
-### 1 Pedro 5:3 *sino demostrando ser ejemplos del rebaño.* un anciano debe ser ejemplo entre los creyentes de una andar de fe en dependencia De Dios. Enseñando a sujetarse y afirmarse a Cristo y no a ellos. Deben ser un ejemplo de lo que la gracia de Dios puede hacer. 
+#### El anciano debe ser conciente de que el tambien forma parte del rebaño entre el cual pastorea.
 
-#### Lo es facil que en medio de aflicciones un anciano abandone al rebaño, acomodarse a cambiar la escritura con tal de no sufrir por la palabra del evangelio. Que en vez de cambiar las Escrituras para apoderarse del rebaño pueda ser ejemplo para incrementar que la esperanza esté puesta en Cristo. 
+#### Podemos ver que creyentes le fueron confiados al anciano, como el dueño de casa que le confia uno de sus siervos el bienestar de sus compañeros.
+
+### 1 Pedro 5:3 *sino demostrando ser ejemplos del rebaño.* un anciano debe ser ejemplo entre los creyentes de un andar de fe en dependencia de Dios. Enseñando a sujetarse y afirmarse a Cristo y no a ellos. Deben ser un ejemplo de lo que la gracia de Dios puede hacer. 
+
+#### Lo facil es que en medio de aflicciones un anciano abandone al rebaño, acomodandose a cambiar la escritura con tal de no sufrir por la palabra del evangelio. Tambien podria tomar posesion del rebaño para enriqueserse, buscando su bienestar. 
+
+#### Pero que hermoso es cuando aun en medio de sufrimientos por causa de Cristo su esperanza este puesta en El, desando velar por el rebaño, siendo ejemplo en fe, esto se muestra agradable delante de Dios.
 
 ### 1 Pedro 5:4 *Y cuando aparezca el Príncipe de los pastores,* Jesús es descrito como el Príncipe de los pastores. El anciano como pastor, esta por debajo del Príncipe de pastores. 
+
+#### Esta descripcion se puede traducir como el jefe de los pastores.
 
 #### Es dificil el pastorear al rebaño. Es facil perder el foco del porque seguir.  El anciano es invitado a poner su esperanza en la venida del Señor. 
 
