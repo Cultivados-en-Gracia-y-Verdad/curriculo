@@ -1584,7 +1584,23 @@ Title: 1 & 2 Pedro
 
 #### Para vivir el resto que nos queda en nuestro cuerpo fisico haciendo el bien, necesitamos estar equipados del armamento del pensamiento de Cristo y entender que la volundad de Dios es especificamente en hacer el bien y no el mal.
 
-###  1 Pedro 4:3a "*Porque el tiempo ya pasado les es suficiente para haber hecho lo que agrada a los gentiles,...*"
+### 1 Pedro 4:3 Lo que a los gentiles les agrada hacer no se asemejna ni se relaciona con el vivir ni en el andar con la voluntad de Dios.
+
+###  1 Pedro 4:3a "*Porque el tiempo ya pasado les es suficiente...*" El tiempo ya pasado puede referirse a que en otro tiempo no eramos parte del pueblo de Dios. 1 Pedro 2:10
+
+#### Y en el tiempo pasado andabamos descarriados, en las vanidades de una mente entenebrecida satisfaciendo los deseos de nuestras pasiones humanas. 1 Pedro 2:25; Efesios 2:3, 4:18
+
+#### Todo aquello, es pasado y también es suficiente, porque ha sido un tiempo perdido, o desperdiciado, asi como lo traduce la biblia (BAD1989) 1 Pedro 4:3: "Pues ya basta con el tiempo que habéis desperdiciado…" antes de llegar a conocer a Dios andabamos sin guia, sin rumbo, sin esperanza, perdidos en nuestros deleites, sin esperanza y sin Dios en el mundo, lo cual no tenia ningun propósito.
+
+###  1 Pedro 4:3b "...para haber hecho lo que agrada a los gentiles,...*" Todo nuestro andar en el tiempo pasado era agradable para la corriente del mundo en la que los gentiles que no conocen a Dios, disfrutan vivir. Romanos 6:21
+
+#### aquí Pedro usa esta palabra, no con el objetivo de demostrar que el pueblo judio no anda conforme a las pasiones humanas, a diferencia de los gentiles, sino, al contrario un judio incredulo, al igual que, un gentil incrédulo, es de la misma manera esclavo de las pasiones humanas.
+
+#### Esta palabra ÉTHNOS, en el griego tiene su uso en referencia a nación o también podría tener el uso de Linaje.
+
+##### Según 1 Pedro 2:9 todo creyente forma parte de la nación santa de Dios. Y todo incredulo no es pueblo de Dios,  1 Pedro 2:10.
+
+##### Entonces, Gentiles ETHNOS estaría mejor traducido como "Incrédulos", o también como "paganos", como lo traduce la biblia (BAD1989) "...*haciendo lo que agrada a los incrédulos*..." porque no forman del pueblo adquirido de Dios.
 
 ### 1 Pedro 4:3b "*...habiendo andado...*" 
 
