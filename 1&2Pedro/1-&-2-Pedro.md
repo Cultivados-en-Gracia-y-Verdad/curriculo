@@ -1347,7 +1347,7 @@ y rebosa en amor (vv. 22-25).
 
 #### Y ahora 1 Pedro nos mostrará Un padecimiento por hacer lo bueno, y como fue utilizado en las manos amorosas de Dios.
 
-###  1 Pedro 3:18b *"Porque también Cristo murió [padeció RV60] por los pecados una sola vez,..."* El pasaje es claro, nos habla de un padecimiento, el cual ocurrió una sola vez.
+###  1 Pedro 3:18b *"Porque también Cristo murió [padeció RV60] por los pecados una sola vez..."* El pasaje es claro, nos habla de un padecimiento, el cual ocurrió una sola vez.
 
 #### Cristo murió en una cruz, una sola vez para siempre. Hebreos 7:27, 9:26, 28, 10:10, 12; 1 Pedro 2:24
 
@@ -1355,7 +1355,7 @@ y rebosa en amor (vv. 22-25).
 
 #### Cristo murió por todos los pecados, de toda la historia, de cada ser humano que a existido y existirá. Isaías 53:4-6; Romanos 3:25-26, 8:3; Gálatas 1:4; 1 Juan 2:2
 
-###  1 Pedro 3:18b *"...el justo por los injustos,..."* También puede ser traducido "el Justo en favor de los injustos"
+###  1 Pedro 3:18b *"...el justo por los injustos..."* También puede ser traducido "el Justo en favor de los injustos"
 
 #### Cristo es el Justo, nunca cometió pecado, ni engaño alguno se hayo en su boca. Mateo 27:19, 24; Hechos 3:14; 1 Pedro 2:22-23
 
@@ -1369,9 +1369,9 @@ y rebosa en amor (vv. 22-25).
 
 ###  1 Pedro 3:18c *"...para llevarnos a Dios,..."* Si antes por medio de nuestro pecado, merecíamos la condenación merecida y estábamos totalmente separados del Padre.
 
-#### Ahora por medio de Cristo y Su Obra somos acercados inmerecidamente a Dios y somos perdonados y salvados eternamente. Romanos 5:1-2, Colosenses 1:19-22; Hebreos 7:25
+#### Ahora por medio de Cristo y Su Obra somos acercados inmerecidamente a Dios y somos perdonados y salvados eternamente. Romanos 5:1-2; Colosenses 1:19-22; Hebreos 7:25
 
-###  1 Pedro 3:18d *"...muerto en la carne..."* Claramente Cristo vino en carne a la tierra, se hizo hombre y padeció la muerte. Romanos 1:3, Filipenses 2:7
+###  1 Pedro 3:18d *"...muerto en la carne..."* Claramente Cristo vino en carne a la tierra, se hizo hombre y padeció la muerte. Romanos 1:3; Filipenses 2:7
 
 #### El es el único Mediador entre Dios y los hombres. 1 Timoteo 2:5
 
@@ -1397,7 +1397,7 @@ y rebosa en amor (vv. 22-25).
 
 ####  En algún tiempo de la historia estos espíritus encarcelados fueron incrédulos. ¿Cuando?
 
-###  1 Pedro 3:20b *"...cuando la paciencia de Dios esperaba en los días de Noé durante la construcción del arca,...* El pasaje nos remonta a los tiempos de Noé.
+###  1 Pedro 3:20b *"...cuando la paciencia de Dios esperaba en los días de Noé durante la construcción del arca,...* El pasaje nos remonta a los tiempos de Noé durante los muchos años durante la construcción del arca.
 
 #### Génesis 6:3, 7, vemos a Dios anunciando el juicio que vendría por la maldad que había en el mundo. Génesis 6:11-12
 
