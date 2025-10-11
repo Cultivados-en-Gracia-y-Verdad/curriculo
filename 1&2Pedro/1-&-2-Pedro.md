@@ -1563,11 +1563,23 @@ y rebosa en amor (vv. 22-25).
 
 ###  1 Pedro 4:2b "*...el tiempo que le queda en la carne,...*" Si bien tenemos una nueva vida en nuestros mismo cuerpos que teníamos cuando éramos incrédulos, no significa que nuestros cuerpos sean malos, sino que esta nueva vida podemos vivirla en estos mismo cuerpos que ahora son el templo del Espíritu Santo. 1 Corintios 6:19
 
-###  1 Pedro 4:2c "...*ya no para las pasiones humanas,...*" Ya que Cristo termino con el pecado, ahora el creyente puede armarse de ese mismo pensamiento, porque Cristo vive, y la vida que ha logrado es para andar en novedad de vida y ya no en los resultados de muerte que ocasionaba el pecado.1 Pedro 3:18
+###  1 Pedro 4:2c "...*ya no para las pasiones humanas,...*" Ya que Cristo termino con el pecado, ahora el creyente puede armarse de ese mismo pensamiento, porque Cristo vive, y la vida que ha logrado es para andar en novedad de vida y ya no en los resultados de muerte que ocasionaba el pecado.1 Pedro 3:
 
-### 1 Pedro 4:2d "...*sino para la voluntad de Dios.*"
+#### La palabra ya no, "MEKETI"  tiene una importancia significativa a la nueva vida, para decir que, de aquí en adelante ya no vivamos para los deseos que nos dominaban antes.
 
-###  1 Pedro 4:3 *Porque el tiempo ya pasado les es suficiente para haber hecho lo que agrada a los gentiles, habiendo andado*
+#### al momento de creer en el evangelio Dios nos otorgo en su gracia, vida eterna, con el resultado de poder vivir el resto de la vida, ya no más en el dominio de las pasiones humanas.
+
+### 1 Pedro 4:2d "...*sino para la voluntad de Dios.*" Ahora tenemos la posibilidad de vivir, con un proposito mayor, muy diferente y muy contrario a la que antes viviamos, dominados por nuestros deseos.
+
+#### Pero ahora podemos vivir armados del pensamiento de Cristo, para la volundad de Dios.
+
+#### En este capitulo la frase "volundad de Dios", repite 3 veces 1 Pedro 4:2, 6, 19. Según 1 Pedro 2:15, podemos entender que. "... esta es la voluntad de Dios: que haciendo bien…", la volundad de Dios nunca ha estado relacionado al obrar de las pasiones humanas, sino al contrario en hacer el bien que viene de Dios. 1 Pedro 3:17
+
+#### Para vivir el resto que nos queda en nuestro cuerpo fisico haciendo el bien, necesitamos estar equipados del armamento del pensamiento de Cristo y entender que la volundad de Dios es especificamente en hacer el bien y no el mal.
+
+###  1 Pedro 4:3a "*Porque el tiempo ya pasado les es suficiente para haber hecho lo que agrada a los gentiles,...*"
+
+### 1 Pedro 4:3b "*...habiendo andado...*" 
 
 ###  *en sensualidad,*
 
