@@ -568,7 +568,7 @@ Title: 1 & 2 Pedro
 
 #### El nuevo nacimiento: Es necesario experimentar la regeneración (nacer de nuevo) para ser salvo.  (1:22-23a)
 
-#### Propósito: Almas purificadas (nacidos de nuevo) para relacion de amor entre salvados. (1:22)
+#### Propósito: Almas purificadas (nacidos de nuevo) para relación de amor entre salvados. (1:22)
 
 #### La manera: Es la Palabra de Dios la que lo realiza. (1:23b-25)
 
@@ -640,11 +640,13 @@ Title: 1 & 2 Pedro
 
 #### La bondad de Dios o la benignidad de Dios es un atributo que los creyentes ya conocían cuando fueron rescatados de su antigua manera de vivir. Romanos 2:4; Efesios 2:7, 4:32; Tito 3:3-7
 
+#### Los creyentes ya habían experimentando lo bueno que era Dios, el Señor deseaba que continúen haciéndolo por medio de conocerlo más a través de la verdad de Su Gracia.
+
 ## 1 Pedro 2:4-8 – Piedras vivas edificando una casa espiritual
 
 ###  1 Pedro 2:4 - Tomará a Él (Cristo) como un ejemplo de piedra viva, la cual los hombres desecharon, sin embargo esta piedra era escogida por Dios y preciosa a su vista.
 
-#### En estos pasajes veremos seguido el uso de la palabra piedra, esto puede haber sido muy significativo para el apóstol Pedro, debido a que Jesús le cambio el nombre de Simón a Cefas que quiere decir Pedro (PETROS-Piedra). Juan 1: 42
+#### En estos pasajes veremos seguido el uso de la palabra piedra, esto puede haber sido muy significativo para el apóstol Pedro, debido a que Jesús le cambio el nombre de Simón a Cefas que quiere decir Pedro (PETROS-Piedra). Juan 1:42
 
 ###  1 Pedro 2:4a *"Y viniendo a Él,..."* La palabra viniendo PROSERJOMAI significa acercarse, venir hacia, este verbo se encuentra en tiempo presente, pasivo-medio, participio, indicando a los creyentes una invitación constante de que pueden acercarse a él en beneficio suyo.
 
@@ -654,7 +656,7 @@ Title: 1 & 2 Pedro
 
 #### La biblia textual lo traduce de la siguiente manera *"Acercándoos a Él, Piedra viviente,...*" (BTX4).
 
-###  1 Pedro 2:4c *"...desechada por los hombres,..."* Esta piedra viva, escogida por Dios fue desaprobada y repudiada por los constructores, en este contexto refiriéndose al rechazo de Israel hacia el mesías. 1 Pedro 2:7;  Juan 1:11; 10:22-25, 31-33
+###  1 Pedro 2:4c *"...desechada por los hombres,..."* Esta piedra viva, escogida por Dios fue desaprobada y repudiada por los constructores, en este contexto refiriéndose al rechazo de Israel hacia el Mesías. 1 Pedro 2:7;  Juan 1:11; 10:22-25, 31-33
 
 #### Este verbo desechar se encuentra en tiempo perfecto, participio dándonos a entender que actualmente lo sigue siendo desechada continuamente en el presente.
 
@@ -662,7 +664,7 @@ Title: 1 & 2 Pedro
 
 #### Vemos un contraste, ante Dios es preciosa esta piedra, ante los hombres es desechada y reprobada.
 
-###  1 Pedro 2:5 - creyentes como piedras vivas, formando parte en la edificación de una casa espiritual, un sacerdocio santo, mostrando un propósito vivo para Dios.
+###  1 Pedro 2:5 - Creyentes como piedras vivas, formando parte en la edificación de una casa espiritual, un sacerdocio santo, mostrando un propósito vivo para Dios.
 
 ###  1 Pedro 2:5a *"también ustedes, como piedras vivas,..."* Considerando el ejemplo de Él (Cristo) como piedra viva, de esa misma manera también ustedes los creyentes sean piedras vivas utilizadas para un propósito.1 Corintios 3:9
 
@@ -686,7 +688,7 @@ Title: 1 & 2 Pedro
 
 ####  ¿Qué es un sacrificio espiritual?. En el del antiguo testamento se realizaban sacrificios muertos de animales, sin embargo ahora en el nuevo testamento podemos ver sacrificios vivos, sacrificios espirituales aceptables a Dios. Hebreos 13:15; Efesios 5:2; Romanos 15:16 
 
-### 1 Pedro 2:5d *"...por medio de Jesucristo."* Para que un sacrifio sea aceptable a Dios, nos muestra el medio por el cual son los creyentes pueden ofrecerse como sacrificios vivos aceptables a Dios, el medio para que sea aceptable es Jesucristo.
+### 1 Pedro 2:5d *"...por medio de Jesucristo."* Para que un sacrifico sea aceptable a Dios, nos muestra el medio por el cual son los creyentes pueden ofrecerse como sacrificios vivos aceptables a Dios, el medio para que sea aceptable es Jesucristo.
 
 #### Cristo es el la ofrenda escogida de Dios, de la manera que fue aceptada la ofrenda de Jesucristo, ahora los creyentes nos acercamos y ofrecemos sacrificios por medio de el. Hebreos 9:11-14, 10:10-14, 13;5 ; Romanos 12:1
 
@@ -700,9 +702,13 @@ Title: 1 & 2 Pedro
 
 #### El verbo creyere [PISTEUO] se encuentra en tiempo presente, activo, participio, indicando la acción continua en tiempo presente.
 
-#### ¿Por que sería causa de verguenza creer en esta piedra? Muchas veces en la escritura vemos como el evangelio no es causa de verguenza, sin embargo Pedro anima a los creyentes a no sentirse avergonzados por creer en Él. Romanos 1:16 ; Hebreos 12:2 ; 1 Corintios 1:18
+#### ¿Por que sería causa de vergüenza creer en esta piedra? Muchas veces en la escritura vemos como el evangelio no es causa de vergüenza, Pedro anima a los creyentes a no sentirse avergonzados por creer en Él. Romanos 1:16 ; Hebreos 12:2 ; 1 Corintios 1:18
 
-###  1 Pedro 2:7a *"Este precioso valor es, pues, para ustedes los que creen;..."* Nos muesta que los creyentes realmente aprecian el valor de esta piedra escogida, preparada para un propósito planificado por Dios. 
+###  1 Pedro 2:7a *"Este precioso valor es, pues, para ustedes los que creen;..."* Nos muestra que los creyentes realmente aprecian el valor de esta piedra escogida, preparada para un propósito planificado por Dios.
+
+#### Cristo es el único medio por el cual el Padre realiza Su obra.
+
+#### Cristo es el único medio por el cual podemos ofrecer sacrificios de una nueva manera en nuestra nueva realidad para el Padre. Solo los creyentes son provisto de esta bendición.
 
 ### 1 Pedro 2:7b  *"...pero para los que no creen, «LA PIEDRA QUE DESECHARON LOS CONSTRUCTORES, ESA, EN PIEDRA ANGULAR SE HA CONVERTIDO»,"* Nos mostrará el valor incomparable que rechazaron los que no creen.
 
@@ -710,11 +716,11 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 2:8a *"y, «PIEDRA DE TROPIEZO Y ROCA DE ESCÁNDALO»...."* Para los que lo rechazaron esta piedra simplemente significaba tropiezo para el judío, y escándalo para los que lo anunciaban, sin embargo ya estaba profetizado este rechazo de su pueblo. Isaías 8:14; 1 Corintios 1:23
 
-###  1 Pedro 2:8b *"...Pues ellos tropiezan porque son desobedientes a la palabra,..."* El apostol Pedro explica el motivo de tropiezo, los que profesaban estar en completo de acuerdo con la palabra actuaron en completa desobediencia a las escrituras con lo que Dios había prometido, debido a que las escrituras apuntaban a Cristo y ellos lo rechazaron. Juan 5:39; Lucas 2:34  
+###  1 Pedro 2:8b *"...Pues ellos tropiezan porque son desobedientes a la palabra,..."* El apóstol Pedro explica el motivo de tropiezo, los que profesaban estar en completo de acuerdo con la palabra actuaron en completa desobediencia a las escrituras con lo que Dios había prometido, debido a que las escrituras apuntaban a Cristo y ellos lo rechazaron. Juan 5:39; Lucas 2:34  
 
 #### En la carta de Romanos nos muestra como tropezaron con la piedra por no ir tras ella por fe. Romanos 9:32-33, 10:11
 
-### 1 Pedro 2:8c *"...y para ello estaban también destinados."* Es importante aclarar este pasaje, debido a que Dios no esta destinando para perdición o para salvación a las personas, sinó el muestra el destino de los que lo rechazan, estos son los que   tropezaron y cayeron. 
+### 1 Pedro 2:8c *"...y para ello estaban también destinados."* Es importante aclarar este pasaje, debido a que Dios no esta destinando para perdición o para salvación a las personas, sino muestra el destino de los que lo rechazan, estos son los que tropiezan y caen. 
 
 #### En la carta de Romanos nos muestra vasos preparados para la destrucción, sin embargo en este pasaje no nos habla referente a la salvación o perdición de estos vasos, sinó nos habla de como Dios puede usar a Faraón para cumplir sus propósitos. Romanos 9:17-22
 
