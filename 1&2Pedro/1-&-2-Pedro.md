@@ -179,19 +179,39 @@ Title: 1 & 2 Pedro
 
 #### Puesto de otra manera, según Su previo conocimiento y motivado por Su misericordia, Dios nos hizo nacer para recibir una herencia reservada en los cielos. 
 
-### 1 Pedro 1:4c "...*para ustedes...*" Esto era para los creyentes a los que escribía Pedro. ¿Será una realidad para ti también?
+### 1 Pedro 1:4c "...*para ustedes...*" los lectores podían estar completamente seguros de estar en este grupo de bendecidos. ¿Como podían saber?
 
-#### ¿Cómo se que soy un elegido de Dios? 
+#### ¿Cómo se que soy un elegido de Dios? ¿Realmente puedo saber que el soberano Dios me escogió desde antes de la fundación del mundo?
 
-#### ¿Cómo puedo saber que tengo una esperanza viva? 
+#### ¿Cómo puedo saber que yo tengo una esperanza viva? 
 
-#### ¿Que sé que recibiré una herencia en los cielos? 
+#### ¿Realmente tengo yo una herencia en los cielos? 
 
-#### ¿Cómo puedo saber si estoy siendo cuidado por el poder de la fuerza de Dios?
+#### A continuación veremos como Pedro aseguró a sus lectores que apesar de sus tribulaciones podían estar completamente seguros que Dios les había destinado a salvación y no a perdición. 
 
 ## 1 Pedro 1:5-7 La importancia de la nuestra fe
 
-###  1 Pedro 1:5a  "*...Mediante la fe ustedes son protegidos por el poder de Dios,*" Cuando creímos la promesa, el poder, la misericordia, la herencia y ser protegidos por Dios llegan a hacerse una realidad . 1 Pedro 5:10, 1:9
+###  1 Pedro 1:5a  "*...Mediante la fe ustedes son protegidos por el poder de Dios,*" Cuando creímos en Cristo, la promesa, el poder, la misericordia, la herencia y ser protegidos por Dios llegan a hacerse tuyos pero Dios estuvo, está y siempre estará guardandote por la precognición de Dios. 1 Pedro 5:10, 1:9
+
+#### Esto es una expresión importante que Pedro hace. El resto de la carta se apoyará grandemente sobre ello. 
+
+#### Pedro dice que es por medio de la fe que somos protegidos para salvación que está preparada para ser revelada. 
+
+#### Esto significa que es nuestra fe quien nos mantiene protegidos? ¿Significa que necesito seguir creyendo para que sea una realidad? 
+
+#### "*Mediante la fe*" es que el creyente sabe en quien ha puesto su confianza. 2 Timoteo 1:12
+
+#### Todo esto sucedió en base al previo conocimiento de Dios. 
+
+#### ¿Específicamente, qué conoció Dios de ante mano? Tu fe en Él fue prevista desde la eternidad pasada. 
+
+##### La fe es mencionada 5 veces en 1 Pedro. 4 de las 5 veces están en el primer capítulo. 3 de las 5 veces usa el posesivo, "*su fe*" o "*la fe de ustedes*". 
+
+#### Significa que tu fe no te la dio Dios. Significa que no tienes que dudar si Dios te dio la fe o no. 
+
+#### Significa que es tu fe, nuestra fe que pusimos en Dios. El conocio este hecho de antemano y pudo actuar sobre ello. ¡Que asombroso! 
+
+#### Significa que nuestra fe es el medio por el cual tenemos plena seguridad que Dios asegura protegernos para recibir esa herencia reservada para cada uno de los que El conoció de antemano. 
 
 #### "*Mediante la fe*" no significa para nada que sea requerido cualquiera de los siguientes:
 
@@ -201,25 +221,15 @@ Title: 1 & 2 Pedro
 
 ##### Dios tiene que soberanamente decidir al azar quien creerá. 
 
-#### "*Mediante la fe*" es que el creyente sabe en quien ha puesto su confianza. 2 Timoteo 1:12
-
-#### Todo esto sucedió en base al previo conocimiento de Dios. 
-
-#### ¿Específicamente, qué conoció Dios de ante mano? Nuestra fe. 
-
-##### La fe es mencionada 5 veces en 1 Pedro. 4 de las 5 veces están en el primer capítulo. 3 de las 5 veces usa el posesivo, "*su fe*" o "*la fe de ustedes*". 
-
-#### ¿Que significa esto? Significa que nuestra fe es el medio por el que tenemos plena seguridad que Dios asegura protegernos para recibir esa herencia reservada para cada uno de los que El conoció de antemano. 
-
-#### ¿Significa que Dios como soberano, decidió que la salvación es específicamente para algunos y otros no? Bíblicamente esto no es viable. Lo que si significa es que Dios supo de antemano, vio todos los que creerían en El. 
-
 ##### Vale aclarar que la fe no es un mero conocimiento intelectual, sino la confianza que descansa únicamente en Jesucristo y Su obra en la cruz por nuestros pecados. 
+
+###### El que no responde a la revelación que ha recibido de Dios queda inexcusable ante Dios. Romanos 1:20, 2:1 
 
 #### "*son protegidos*" PHROUREO (presente, pasivo, participio) - estar o volverse seguro y mantenerse bajo vigilancia.[^1] Somos continuamente los protegidos por Dios. No es nuestra fe que nos protege, es Dios. 
 
 ##### Esto es algo asombroso. Vimos previamente que "*mediante la resurrección*" de Cristo hemos nacido de nuevo. Ahora vemos que mediante la fe estamos protegidos. 
 
-##### En el plan soberano de Dios, Él estableció que la salvación es únicamente por la fe. El medio por el cual el hombre es salvo es por el medio de la fe en Jesucristo. 
+##### En el plan soberano de Dios, Él estableció que la salvación sea únicamente por la fe. El medio por el cual el hombre es salvo es por el medio de la fe en Jesucristo. 
 
 ##### ¿Es tan poderosa nuestra fe como para protegernos? No. Lo que es poderoso es que Dios declara que todo el que en Él cree, no será decepcionado (1 Pedro 2:6). Lo que es poderoso es que Dios conoció de antemano de nuestra fe y nos protege para recibir lo que Él prometió. Haber puesto nuestra confianza en Dios nos asegura todas estas cosas. 
 
