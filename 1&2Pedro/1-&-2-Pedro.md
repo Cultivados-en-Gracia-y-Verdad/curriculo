@@ -1664,9 +1664,19 @@ Title: 1 & 2 Pedro
 
 ##### Y al andar con todo respeto y mansedumbre para ellos sigue siendo sorprendente y eso para su propia vergüenza porque saben que todo lo que insultan e injurian es falso, porque no pueden demostrarlo. 1 Pedro 3:15
 
-###  1 Pedro 4:5 *Pero ellos darán cuenta a Aquel*
+###  1 Pedro 4:5a "*Pero ellos darán cuenta a Aquel...*" Si bien Dios sabia quienes serán los escogidos, Dios nunca ideo un plan que excluiría a los hombres de llegar a tener salvación, es por eso que ellos darán cuenta a Dios en el gran trono blanco.
 
-###  *que está preparado para juzgar a los vivos y a los muertos.*
+#### Primero, por sus obras: Apocalipsis 20:12, Sus buenas obras demostraran claramente que ellos no alcanzaron la salvación porque todas sus justicias no se compara con la justicia de Dios en la obra de Cristo. Isaías 64:6; Romanos 1:17
+
+##### Dentro de este juicio se les tendrá en su contra el haber actuado con insultos e injurias sobre los creyentes. 1 Pedro 2:12
+
+#### Segundo, por que no creyeron en el evangelio: Juan 3:18 "*El que cree en Él no es condenado; pero el que no cree, ya ha sido condenado, porque no ha creído en el nombre del unigénito Hijo de Dios.*" Apocalipsis 13:8, 20:15
+
+##### Juan 3:36 "*El que cree en el Hijo tiene vida eterna; pero el que rehúsa creer en el Hijo no verá la vida, sino que la ira de Dios está sobre él.*" (RVR60), Cualquiera que se rehúsa a creer no significa que Dios no le dio la fe para creer, sino que el creer es la participación de todo hombre en la salvación, ya que solamente es por medio de la fe en Cristo que hemos sido librados de la condenación. 1 Pedro 1:9
+
+#### Es por esto que al dar cuentas ellos, serán inexcusables, porque Dios hizo posible para que todos los hombres puedan llegar a la salvación, ya que ellos mismos evidenciaron la obra de Dios en otras personas que hicieron anduvieron en la voluntad de Dios y en vez de ellos acercarse por la Fe, los insultaron y calumniaron. 
+
+### 1 Pedro 4:5b "*...que está preparado para juzgar a los vivos y a los muertos.*"
 
 ###  1 Pedro 4:6 *Porque con este fin fue predicado el evangelio aun a los muertos,*
 
