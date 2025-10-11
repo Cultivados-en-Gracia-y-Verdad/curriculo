@@ -397,7 +397,7 @@ Title: 1 & 2 Pedro
 
 #### “*Séan santos*” (aoristo, pasivo, imperativo) es un mandato pasivo. Esto significa que no nos hacemos santos por nuestro propio esfuerzo, sino que se nos manda que nos permitamos ser santos. Es obra de Dios santificarnos; Pero si Dios lo hace, ¿Porque es un imperativo al creyente?
 
-#### Es un mandato para el creyente permitir que Dios nos santifique. 
+##### Es un mandato para el creyente permitir que Dios nos santifique. 
 
 ###  1 Pedro 1:17a "*Y si invocan como Padre a Aquel que imparcialmente juzga según la obra de cada uno...*" 
 
@@ -415,15 +415,17 @@ Title: 1 & 2 Pedro
 
 #### "*redimidos*" LITROOMAI - ser o llegar a ser redimido mediante el pago exigido para el regreso de uno; usado para referirse a un cautivo.[^1]
 
-###  1 Pedro 1:18b "*heredada de sus padres con cosas perecederas como oro o plata...*" la herencia de sus padres (probablemente perdido por ser desterrados) no les trajo redención. 
+###  1 Pedro 1:18b "*no fueron redimidos de su vana manera de vivir...heredada de sus padres con cosas perecederas como oro o plata...*" la herencia de sus padres (probablemente perdido por ser desterrados) no les trajo redención. 
 
-###  1 Pedro 1:19a "*sino con sangre preciosa, como de un cordero sin tacha y sin mancha: la sangre de Cristo.*" ser redimido de una vana manera de vivir viene por herencia. Pero no con dinero o cosas materiales sino por el pago hecho en sangre por Jesucristo. Juan 1:29 
+###  1 Pedro 1:19a "*sino* [fueron redimidos de su vana manera de vivir] *con sangre preciosa,*
+
+###  *como de un cordero sin tacha y sin mancha: la sangre de Cristo.*" ser redimido de una vana manera de vivir viene por herencia. Pero no con dinero o cosas materiales sino por el pago hecho en sangre por Jesucristo. Juan 1:29 
 
 ###  1 Pedro 1:20a "*Porque Él estaba preparado desde antes de la fundación del mundo,*" En el plan del Padre, soberanamente preparó ( a Cristo como cordero desde antes de la fundación del mundo. 
 
 ###  1 Pedro 1:20b "*pero se ha manifestado en estos últimos tiempos por amor a ustedes.*" Que privilegio que tiene la iglesia en ser los primeros a tener la manifestación de Su gracia en nuestros días. El punto de Pedro es que Dios sigue amando los suyos a pesar de hacerles pasar por diversas pruebas. 
 
-#### Cristo estaba preparado (perfecto, participio), pero se manifestó (aoristo, participio) en un momento específico de un momento del tiempo. Tito 2:11
+#### Cristo estaba preparado (perfecto, participio), pero se manifestó (aoristo, participio) en un momento específico de un del tiempo. Tito 2:11
 
 ###  1 Pedro 1:21a "*Por medio de Él son creyentes en Dios,*" Para llegar a ser creyentes en Dios, se nos tuvo que mostrar en quien creer. Esto sucedió cuando nos presentaron el mensaje de la verdad, el evangelio. 1 Corintios 15:3-4
 
@@ -447,9 +449,9 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 1:22c "*...ámense unos a otros entrañablemente...*" Se pueden amar unos a otros con fervor.
 
-#### "*Ámense*" (aoristo, activo, imperativo) aquí el creyente es 
+#### "*Ámense*" (aoristo, activo, imperativo) El creyente es mandado a amar a otros. Aquí, los creyentes son llamados a amarse. 
 
-#### "*Entrañablemente*" EKTENOS - con entusiasmo, de una manera seria, ferviente.
+#### "*Entrañablemente*" EKTENOS - con entusiasmo, de una manera seria, ferviente.[^1]
 
 ###  1 Pedro 1:22d "*ámense...de corazón puro.*" No solo con amor sincero, y entrañablemente sino con pureza de corazón. 
 
@@ -457,11 +459,9 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 1:23b "*no de una simiente corruptible, sino de una que es incorruptible...*" Nuestro nacimiento es por una simiente divina, celestial (incorruptible) no humana (corruptible).
 
-#### Todo lo que es terrenal es temporal, pasajero. 
+#### Todo lo que es terrenal es temporal, pasajero. Nuestro nacimiento espiritual no proviene del hombre.
 
 ###  1 Pedro 1:23c "*es decir, mediante la palabra de Dios que vive y permanece...*" fue mediante la palabra viva y eterna de Dios que hemos purificado nuestras almas y hemos nacido de nuevo. Somos el resultado de la Palabra viva y perdurable de Dios. 
-
-La Palabra LOGOS 
 
 ###  1 Pedro 1:24a "*Porque: «TODA CARNE ES COMO LA HIERBA,*" Toda la humanidad es comparable a la hierba. Aparece un día y muy poco después muere. 
 
@@ -485,7 +485,7 @@ La Palabra LOGOS
 
 ##### El hombre no hace el bien.
 
-###  1 Pedro 1:24b "*Y TODA SU GLORIA COMO LA FLOR DE LA HIERBA.*" la flor es producto de la hierba. 
+###  1 Pedro 1:24b "*Y TODA SU GLORIA COMO LA FLOR DE LA HIERBA*" la flor es producto de la hierba. 
 
 ####  No dice el versículo que el mundo no tiene gloria, dice que que la gloria de toda carne es como la flor de la hierba. Salmo 90:5-6
 
@@ -511,7 +511,7 @@ La Palabra LOGOS
 
 ###  1 Pedro 1:25b "*Esa es la palabra que a ustedes les fue predicada.*" Esa es la palabra que oyeron y creyeron. Esa es la palabra que les mantiene firmes en este momento. Lucas 4:16-21
 
-#### Predicada EUANGELIZO les habían predicado el evangelio. 
+#### Predicada EUANGELIZO - les habían predicado el evangelio. 
 
 ## En Síntesis (1 Timoteo 1:10-25)
 
@@ -689,7 +689,7 @@ y rebosa en amor (vv. 22-25).
 
 ###  1 Pedro 2:6a *"Pues esto se encuentra en la Escritura:..."* El apostol Pedro mostrará y explicará estos pasajes que se encuentran dentro de la escritura en el profeta Isaías referentes a Cristo. Isaías 28:16
 
-### 1 Pedro 2:6b *"...«YO, PONGO EN SIÓN UNA PIEDRA ESCOGIDA, UNA PRECIOSA piedra ANGULAR,..."* Este pasaje nos mostrará el propósito que Dios escogió para con esta piedra anunciada por medio de los profetas, algo totalmente precioso a la vista de Dios.
+### 1 Pedro 2:6b *"...«YO, PONGO EN SIÓN UNA PIEDRA ESCOGIDA, UNA PRECIOSA piedra ANGULAR..."* Este pasaje nos mostrará el propósito que Dios escogió para con esta piedra anunciada por medio de los profetas, algo totalmente precioso a la vista de Dios.
 
 #### Esta piedra (Cristo), es una preciosa piedra angular, en la construcción de edificaciones la piedra angular era la pieza más importante del edificio el edificio empezaba y terminaba en esta piedra angular, eran una piedra dificultosas de conseguir, debido a que tenía que ser en un ángulo recto y preciso.
 
@@ -1105,7 +1105,7 @@ y rebosa en amor (vv. 22-25).
 
 ###  Era un pensamiento común que las mujeres se "adornen" por medio de lo que veremos acontinuación:
 
-####  1 Pedro 3:3b *"...peinados ostentosos,..."* Indica peinados exageradamente llamativos.
+####  1 Pedro 3:3b *"...peinados ostentosos..."* Indica peinados exageradamente llamativos.
 
 ####  1 Pedro 3:3c  *"...joyas de oro..."* Hace referencia a buscar ganar belleza por medio de objetos colgados en el cuerpo
 
