@@ -1087,17 +1087,17 @@ Title: 1 & 2 Pedro
 
 ### Puede que las circunstancias en las que se encontraban los creyentes a los que escribía Pedro, no eran las mejores para animarlos a vivir haciendo lo bueno. Por esa razón, en los anteriores versículos les recordó a una persona, Cristo Jesús hombre. ¿Porqué?
 
-### Cristo es el mayor ejemplo del sufrimiento por hacer el bien y soportarlo con paciencia, y esto porque confiaba en el Padre, del cual todos sus juicios son justos.
+### Cristo es el mayor ejemplo del sufrimiento por hacer el bien y soportarlo con paciencia, y esto porque confiaba en el Padre, del cual todos sus juicios son justos. 1 Pedro 2:20, 23
 
-### Y por medio de Su obra en la cruz, fuimos liberados del pecado, completamente y para siempre. ¿Para qué?
+### Y por medio de Su obra en la cruz, fuimos liberados del pecado, completamente y para siempre. ¿Para qué? 1 Pedro 2:24a
 
-### Para ahora, por medio de Su obra en la cruz, podamos vivir haciendo el bien, vivir en la justicia de Dios.
+### Para ahora, por medio de Su obra en la cruz, podamos vivir haciendo el bien, vivir en la justicia de Dios. 1 Pedro 2:24b
 
-### Ahora los creyentes tenían un Pastor y Cuidador, alguien que velaría por ellos, la seguridad que Él les daba iba mas allá del daño físico que podrían recibir. La seguridad que Cristo les daba era espiritual y eterna.
+### Ahora los creyentes tenían un Pastor y Cuidador, alguien que velaría por ellos, la seguridad que Él les daba iba mas allá del daño físico que podrían recibir. La seguridad que Cristo les daba era espiritual y eterna. 1 Pedro 2:25
 
-### Estos creyentes, Sus ovejas, talvez estaban extraviadas de su tierra, de su nación. Pero habían sido regresadas al Pastor, estaban seguras en Su rebaño, el de Cristo.
+### Estos creyentes, Sus ovejas, talvez estaban extraviadas de su tierra, de su nación. Pero habían sido regresadas al Pastor, estaban seguras en Su rebaño, el de Cristo. 
 
-### Comprender estas verdades de nuestro Señor Jesucristo y Su obra tendría un resultado en la vida personal de los cristianos y en sus relaciones con los demás. 
+### Comprender estas verdades de nuestro Señor Jesucristo y Su obra tendría un resultado en la vida personal de los cristianos y en sus relaciones con los demás. 1 Pedro 2:21
 
 ### Considerando al Ejemplo dado por Dios el Padre, Cristo, estos creyentes podrían hacer el bien, a pesar de que eso traiga sufrimiento, y podrían soportarlo con paciencia y gozo inefable. Esto es lo que Dios proveyó para Sus salvos, esto es lo que halla gracia con Dios.
 
@@ -1105,53 +1105,53 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 3:1a *"Asimismo ustedes, mujeres,..."* Anteriormente Pedro estuvo dando instrucciones de sujeción a los creyentes, como ser: 
 
-####  Sujetarse a todas las autoridades en la sociedad. 
+####  Sujetarse a todas las autoridades en la sociedad. 1 Pedro 2:13-14
 
-####  A los esclavos a sujetarse a sus amos.
+####  A los esclavos a sujetarse a sus amos. 1 Pedro 2:18
 
-#### Ahora se dirigirá a las esposas creyentes de la iglesia. Dios ahora mostrará como ellas podrían andar haciendo el bien dentro de su propio matrimonio.
+#### Ahora se dirigirá a las esposas creyentes de la iglesia. Dios ahora mostrará como ellas podrían andar haciendo el bien dentro de su propio matrimonio. 
 
 ###  1 Pedro 3:1b *"...estén sujetas a sus maridos,..."* La instrucción para la esposa dentro del matrimonio era que ella se mantenga voluntariamente, bajo la autoridad de su propio esposo.
 
-####  No vemos en las escrituras que las esposas deban sujetarse a la autoridad de cada hombre en general, sino unicamente a su propio esposo.
+####  No vemos en las escrituras que las esposas deban sujetarse a la autoridad de cada hombre en general, sino únicamente a su propio esposo. Colosenses 3:18
 
-#### Simplemente es la manera en la cual el Señor instituyo el matrimonio.
+#### Simplemente es la manera en la cual el Señor instituyo el matrimonio. Efesios 5:22-24
 
-#### La palabra "*sujetas*" en griego es JUPOTÁSSO - someterse a, obedecer, estar bajo la autoridad de. Es un termino militar como cuando un soldado de alinea a su general.
+#### La palabra "*sujetas*" en griego es JUPOTÁSSO - someterse a, obedecer, estar bajo la autoridad de. Es un termino militar como cuando un soldado se alinea a su general.
 
-#### Esta palabra para nada señala dominación o algun valor inferior para la mujer o esposa creyente a los ojos de Dios.
+#### Esta palabra para nada señala dominación o algún valor inferior para la mujer o esposa creyente a los ojos de Dios. Gálatas 3:28-29
 
 #### Solo hace referencia al rol que tiene la esposa para con el esposo dentro del matrimonio. Ella voluntariamente debe sujetarse a la voluntad de su marido. 
 
-#### Esta instrucción no incluye que la esposa deba sujetarse a su marido si esa sujeción podría llevar a la esposa hacia algun pecado, en todo caso, la esposa antes esta sujeta a la autoridad suprema de Dios.
+#### Esta instrucción no incluye que la esposa deba sujetarse a su marido si esa sujeción podría llevar a la esposa hacia algún pecado, en todo caso, la esposa antes esta sujeta a la autoridad suprema de Dios. 1 Corintios 11:3
 
 ###  1 Pedro 3:1c *"...de modo que si algunos de ellos son desobedientes a la palabra,..."* Seria bueno observar a que se refiere con un esposo "desobediente":
 
-#### Desobediente en griego es APEIDSÉO que tambien podría traducirse, "no creyente".
+#### Desobediente en griego es APEIDSÉO que también podría traducirse, "no creyente".
 
-#### Por los versiculos que encontramos en el libro de 1 Pedro (1 Pedro 2:8, 3:1, 3:20, 4:17), puede que este haciendo referencia a un esposo incredulo.
+#### Por los versículos que encontramos en el libro de 1 Pedro (1 Pedro 2:8, 3:1, 3:20, 4:17), puede que este haciendo referencia a un incrédulo, en este caso a un esposo incrédulo.
 
-#### Aun que tambien podría dirigirse a un esposo creyente que no esta andando en obediencia, en fe a la verdad de Cristo. 1 Pedro 1:14
+#### Aun que también podría dirigirse a un esposo creyente que no esta andando en obediencia a Dios, en fe a la verdad de Cristo. 1 Pedro 1:14
 
-###  1 Pedro 3:1d *"...puedan ser ganados sin palabra alguna por la conducta de sus mujeres..."* ¿Cual sería la razón por la cual la esposa debería sujetarse a su esposo? Dios tiene un proposito.
+###  1 Pedro 3:1d *"...puedan ser ganados sin palabra alguna por la conducta de sus mujeres..."* ¿Cual sería la razón por la cual la esposa debería sujetarse a su esposo? Dios tiene un propósito.
 
-#### El proposito de esta instrucción es para que el esposo desobediente, pueda ser "ganado". 
+#### El propósito de esta instrucción es para que el esposo desobediente, pueda ser "ganado". 
 
-#### En el contexto inmediato vemos que el esposo es alguien incredulo a "La" Palabra, la de Dios, la verdad de Cristo.
+#### En el contexto inmediato vemos que el esposo es alguien incrédulo a La Palabra, la de Dios, la verdad de Cristo.
 
-#### El andar haciendo lo bueno, el vivir a la justicia de la esposa puede ser utilizado por Dios para el esposo incredulo o esposo desviado de la verdad para que confie en la verdad de La Palabra de Diosy Cristo.
+#### El andar haciendo lo bueno, el vivir a la justicia de la esposa puede ser utilizado por Dios para el esposo incrédulo o esposo desviado de la verdad para que obedezca (confié en) la verdad de La Palabra de Dios y Cristo. 1 Corintios 7:16
 
-#### Esto es a travez de la esposa, pero notese que es "sin palabra alguna", entonces ¿Cómo ocurrirá esto?
+#### Esto es a través de la esposa, pero nótese que es "sin palabra alguna", entonces ¿Cómo ocurrirá esto?
 
-###  1 Pedro 3:2 *"...al observar ellos su conducta casta y respetuosa."* El enfasis que Dios da al rol de la esposa no esta en las palabras que diga, sino en la manera de vivir que su esposo verá. 
+###  1 Pedro 3:2 *"...al observar ellos su conducta casta y respetuosa."* El énfasis que Dios da al rol de la esposa no esta en las palabras que diga, sino en la manera de vivir que su esposo verá. 
 
 ####  El esposo será testigo de la obra de Cristo, en la vida de su esposa.
 
 #### El esposo será testigo de la santidad de Dios, por medio ver de la santidad de su esposa. 1 Pedro 1:15
 
-#### La esposa en su rol, puede ser un precioso instrumento en las manos de Dios para que sus esposos respondan por la fe al evangelio de Dios, y ser llamados de las tinieblas a su luz admirable.
+#### La esposa en su rol, puede ser un precioso instrumento en las manos de Dios para que sus esposos respondan por la fe al evangelio de Dios, y ser llamados de las tinieblas a su luz admirable. 1 Pedro 2:9
 
-###  1 Pedro 3:3a *"Que el adorno de ustedes no sea el externo:..."* La palabra adorno o atavío en el tiempo de la escritura de esta epistola hacia referencia al embellecimiento exterior de las mujeres. 
+###  1 Pedro 3:3a *"Que el adorno de ustedes no sea el externo:..."* La palabra adorno o atavío en el tiempo de la escritura de esta epístola hacia referencia al embellecimiento exterior de las mujeres. 
 
 ###  Era un pensamiento común que las mujeres se "adornen" por medio de lo que veremos acontinuación:
 
@@ -1161,21 +1161,23 @@ Title: 1 & 2 Pedro
 
 ####  1 Pedro 3:3d  *"...o vestidos lujosos,...* Se refiere a buscar adornarse exteriormente por medio de ropas
 
-#### El enfoque de este pasaje no esta en indicar que esas cosas son malas o pecado, tampoco indica un descuido de la presentación externa de la esposa.
+#### El enfoque de este pasaje no esta en indicar que dichas cosas son malas o pecado, tampoco indica un descuido de la presentación externa de la esposa. 1 Timoteo 2:9-10
 
-#### Sino que Dios muestra que el adorno exterior de una esposa creyente no esta en esas cosas y tampoco debería ser el pensamiento de ella. Entonces ¿dónde estaría la belleza exterior de una esposa a los ojos de Dios?
+#### Sino que Dios muestra que el adorno exterior de una esposa creyente no esta en esas cosas y tampoco debería ser el pensamiento de ella. 
+
+#### Entonces ¿dónde estaría la belleza exterior de una esposa a los ojos de Dios?
 
 ###  1 Pedro 3:4a *"...sino que sea lo que procede de lo íntimo del corazón,..."* En un mundo donde se busca la belleza externa por medio de cosas lujosas, llamativas que se corrompen con el tiempo. Dios llama a la esposa creyente a buscar la belleza externa, pero producida desde lo interior.
 
-###  1 Pedro 3:4b *"...con el adorno incorruptible de un espíritu tierno y sereno,..."* Esta indicación aclará que la sujeción de la esposa, el atabio externo por medio de su conducta hacia el esposo, no debería ser hipocrita o algo fingido, sino sincero. 
+###  1 Pedro 3:4b *"...con el adorno incorruptible de un espíritu tierno y sereno,..."* Esta indicación aclara que la sujeción de la esposa, el atavió externo por medio de su conducta hacia el esposo, no debería ser hipócrita o algo fingido, sino sincero. Gálatas 5:16
 
 ####  Su belleza externa simplemente es un reflejo de la belleza interna de su corazón.
 
-###  1 Pedro 3:4c *"...lo cual es precioso delante de Dios."* Una creyente que pone su esperanza en el único Dios, el que juzga con justicia, goza de un espiritu tierno y sereno, el cual es precioso a los ojos de Dios.
+###  1 Pedro 3:4c *"...lo cual es precioso delante de Dios."* Una creyente que pone su esperanza en el único Dios, el que juzga con justicia, goza de un espíritu tierno y sereno, el cual es precioso a los ojos de Dios. Salmo 51:6
 
-###  1 Pedro 3:5a *"Porque así también se adornaban en otro tiempo las santas mujeres que esperaban en Dios,..."* Pedro pasa a mostrar como se adornaban las esposas creyentes del Antiguo Testamento y como llegaron a sujetarse a sus esposos imperfectos.
+###  1 Pedro 3:5a *"Porque así también se adornaban en otro tiempo las santas mujeres que esperaban en Dios,..."* Pedro pasa a mostrar como se adornaban las esposas creyentes del Antiguo Testamento y como llegaron a sujetarse a sus esposos imperfectos. Proverbios 31:10
 
-#### El versiculo es claro, las santas mujeres, ponían su esperanza completamente en su Santo Dios.
+#### El versículo es claro, las santas mujeres, ponían su esperanza completamente en su Santo Dios. Proverbios 31:30
 
 #### ¿En qué resultaba esto?
 
@@ -1187,15 +1189,15 @@ Title: 1 & 2 Pedro
 
 #### Y esto vendría a travez de su confianza puesta no en la calidad de esposo que tenían, sino en el Dios que cuidaba y cuida de ellas.
 
-###  1 Pedro 3:6a *"Así obedeció Sara a Abraham, llamándolo señor,..."* Un ejemplo de una esposa sujetándose a su esposo es Sara, y una muestra de aquello fue que se dirigió a Abraham como "señor".
+###  1 Pedro 3:6a *"Así obedeció Sara a Abraham, llamándolo señor,..."* Un ejemplo de una esposa sujetándose a su esposo es Sara, y una muestra de aquello fue que se dirigió a Abraham como "señor". Génesis 18:12
 
 ###  1 Pedro 3:6b *"...y ustedes han llegado a ser hijas de ella,..."* Aquí nos muestra la relación simbólica que tienen las esposas que andan conforme a como Sara anduvo en su vida terrenal.
 
 ###  1 Pedro 3:6c *"...si hacen el bien y no tienen miedo de nada que pueda aterrorizarlas."* El andar conforme a la voluntad de Dios que tuvo Sara también es el andar de las esposas que hacen el bien, y no tienen temor de nada que intente atemorizarlas. 
 
-####  No depende del estado espiritual de su esposo, o las circunstancias en las que se encuentre, sino que es por medio de la confianza segura que tiene en Dios, su Padre, que es el cuidador eterno de ellas.
+####  No depende del estado espiritual de su esposo, o las circunstancias en las que se encuentre, sino que es por medio de la confianza segura que tiene en Dios, su Padre, que es el cuidador eterno de ellas. 1 Pedro 3:14
 
-#### Esto haya gracia a los ojos de Dios, es precioso delante de Dios.
+#### Esto haya gracia a los ojos de Dios, es precioso delante de Dios. 1 Pedro 2:19-20
 
 ## 1 Timoteo 3:7- Maridos
 
