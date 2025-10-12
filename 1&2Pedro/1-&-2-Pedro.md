@@ -794,15 +794,7 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 2:11a *"Amados, les ruego como a extranjeros y peregrinos..."* El apóstol Pedro llamará amados a los creyentes. Somos amados por causa de Su hijo, estamos revestidos de Cristo. Gálatas 3:27
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-#### Nos muestra el valor incalculable de ser ahora pueblo de Dios, como nación santa, escogida por Dios, que impresionante es ser el pueblo de Dios y manifestarse al mundo como lo que ya somos, una expresión pública de Dios.
-=======
 #### Muestra el valor incalculable de ser ahora pueblo de Dios, como nación santa, escogida por Dios. ¡Qué impresionante es ser el pueblo de Dios y manifestarse al mundo como lo que ya somos, una expresión pública de Dios!
->>>>>>> Stashed changes
-=======
-#### Muestra el valor incalculable de ser ahora pueblo de Dios, como nación santa, escogida por Dios. ¡Qué impresionante es ser el pueblo de Dios y manifestarse al mundo como lo que ya somos, una expresión pública de Dios!
->>>>>>> Stashed changes
 
 #### La palabra amados AGAPETOS es un adjetivo que describe a los creyentes. Esto es una realidad para cada creyente, un amado de Dios. Hebreos 6:9; 1 Pedro 4:12
 
