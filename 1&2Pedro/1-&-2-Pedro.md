@@ -9,25 +9,25 @@ Title: 1 & 2 Pedro
 
 # INTRODUCCIÓN
 
-### El apóstol Pedro, uno de doce discípulos originales, escogidos y formados por Jesús durante su estancia en la tierra, comienza una carta a los cristianos dispersos por la persecución. Escribe para animarlos, comenzando por destacar quiénes son exactamente y cómo Dios los ha bendecido en Cristo.
+### El apóstol Pedro, uno de doce discípulos originales, escogidos y formados por Jesús durante su estancia en la tierra, comienza una __<u>carta</u>__ a los cristianos dispersos por la persecución. Escribe para animarlos, comenzando por destacar quiénes son exactamente y cómo Dios los ha bendecido en Cristo.
 
-### Incluso en sufrimiento que es muy real y causa tristeza, los cristianos se benefician. Nuestra fe se fortalece, y nuestra fe vale más que el oro. Nuestra fe traerá gran gloria cuando Jesús sea revelado. De hecho, Pedro dice que los cristianos tienen motivos de sobra para regocijarse. El misterio del plan de Dios, ocultado durante siglos tanto a profetas como a ángeles, nos ha sido revelado en Cristo.
+### Incluso en sufrimiento que es muy real y causa tristeza, los cristianos se benefician. Nuestra fe se fortalece, y nuestra fe vale más que el oro. Nuestra fe traerá gran __<u>gloria</u>__ cuando Jesús sea revelado. De hecho, Pedro dice que los cristianos tienen motivos de sobra para regocijarse. El misterio del plan de Dios, ocultado durante siglos tanto a profetas como a ángeles, nos ha sido revelado en Cristo.
 
-### Sin embargo, todavía no hemos llegado a casa. Pedro aborda la cuestión de cómo deben vivir los hijos de Dios, seguros entre este momento y el día en que nos unamos a nuestro Padre, especialmente en tiempos de sufrimiento y persecución.
+### Sin embargo, todavía no hemos llegado a casa. Pedro aborda la cuestión de cómo __<u>deben</u>__ vivir los hijos de Dios, seguros entre este momento y el día en que nos unamos a nuestro Padre, especialmente en tiempos de sufrimiento y persecución.
 
-### Deben verse como personas santas (apartadas) con un propósito especial. Viven en el mundo, pero deben vivir como extranjeros, como personas que se preparan para regresar a casa. Pedro les invita a concentrarse mentalmente en depositar toda su esperanza en la gracia futura de Dios para ellos. Deben elegir actuar como pueblo de Dios, rechazando los malos deseos que una vez impulsaron sus acciones antes de ser nacidos de nuevo.
+### Deben verse como personas santas (apartadas) con un propósito especial. Viven en el mundo, pero __<u>deben</u>__ vivir como extranjeros, como personas que se preparan para regresar a casa. Pedro les invita a concentrarse mentalmente en depositar toda su esperanza en la gracia futura de Dios para ellos. Deben elegir actuar como pueblo de Dios, rechazando los malos deseos que una vez impulsaron sus acciones antes de ser nacidos de nuevo.
 
-### 1 Pedro insta a los seguidores de Jesús a participar en su sociedad y a ser mejores ciudadanos que antes de su conversión, para que su buena conducta sea reconocida y la verdad de su fe demostrada. [^5]
+### 1 Pedro insta a los seguidores de Jesús a participar en su sociedad y a ser __<u>mejores</u>__ ciudadanos que antes de su conversión, para que su buena conducta sea reconocida y la verdad de su fe demostrada. [^5]
 
-### El autor no afirma que esto sea fácil, pero es necesario. Dios ha llamado a estos seguidores dispersos de Cristo a proclamar las obras poderosas de Dios, y el principal ámbito de esta proclamación es su vida cotidiana.
+### El autor no afirma que esto sea fácil, pero es necesario. Dios ha llamado a estos seguidores dispersos de Cristo a proclamar las __<u>obras</u>__ poderosas de Dios, y el principal ámbito de esta proclamación es su vida cotidiana.
 
-### Esta carta es de mucho ánimo para el creyente de hoy. Te invitamos a ser enseñable por Dios mediante estas Palabras inspiradas por Dios al Apóstol Pedro. 
+### Esta carta es de mucho ánimo para el creyente de hoy. Te invitamos a ser enseñable por Dios mediante __<u>estas</u>__ Palabras inspiradas por Dios al Apóstol Pedro. 
 
 ## Contexto cultural/histórico
 
-### Es en los años 60-68d.C., bajo el emperador romano Nerón, la persecución de la iglesia empieza a ponerse peor. Muchos creyentes fueron esparcidos de la provincia de judea a las provicincias de Ponto, Galacia, Capadocia, Asia y Bitinia. Es aquí donde el cristianismo empezó a crecer. 
+### Es en los años 60-68d.C., bajo el emperador romano Nerón, la persecución de la iglesia empieza a ponerse peor. Muchos creyentes fueron esparcidos de la provincia de __<u>Judea</u>__ a las provincias de Ponto, Galacia, Capadocia, Asia y Bitinia. Es aquí donde el cristianismo empezó a crecer. 
 
-### Las cartas de Gálatas, Efesios y Colosenses son escritos a iglesias en estas provincias. De igual manera, la carta de Apocalipsis es escrito a 7 iglesias que se encuentran en una de estas provincias. 
+### Las cartas de Gálatas, Efesios y Colosenses son escritos a __<u>iglesias</u>__ en estas provincias. De igual manera, la carta de Apocalipsis es escrito a 7 iglesias que se encuentran en una de estas provincias. 
 
 ## Bosquejo
 
@@ -43,15 +43,15 @@ Title: 1 & 2 Pedro
 
 ## 1 Pedro 1:1-2 – Saludos y autoria
 
-###  1 Pedro 1:1a "*Pedro,*" Pedro es el autor del libro (1 Pedro 5:1) pero lo transcribió por medio de Silvano (1 Pedro 5:12). 
+###  1 Pedro 1:1a "*Pedro,*" Pedro es el autor del libro (1 Pedro 5:1) __<u>pero</u>__ lo transcribió por medio de Silvano (1 Pedro 5:12). 
 
-####  ¿Quién es Pedro? Pedro, originalmente Simón, era pescador, nacido en Betsaida. Juan 1:42-44; Mateo 4:19
+####  ¿Quién es Pedro? Pedro, originalmente Simón, era pescador, __<u>nacido</u>__ en Betsaida. Juan 1:42-44; Mateo 4:19
 
-##### Sabemos que Pedro era casado y tenía casa en Capernaúm. Su suegra vivía con ellos y su padre se llamaba Jonás. Lucas 4:31, 38-40
+##### Sabemos que Pedro era casado y tenía casa en Capernaúm. Su suegra vivía con __<u>ellos</u>__ y su padre se llamaba Jonás. Lucas 4:31, 38-40
 
-##### Pedro había sido presentado a Jesús por su hermano Andrés. Juan 1:40-42
+##### Pedro había __<u>sido</u>__ presentado a Jesús por su hermano Andrés. Juan 1:40-42
 
-##### Pedro era uno de tres discípulos que estuvieron presentes en tres eventos importantes: la resucitación de la hija de Jairo (Marcos 5:37), la transfiguración de Jesús (Mateo 17:1) y la agonía de Jesús en el jardín de Getsemaní (Mateo 26:37). 
+##### Pedro era uno de __<u>tres</u>__ discípulos que estuvieron presentes en tres eventos importantes: la resucitación de la hija de Jairo (Marcos 5:37), la transfiguración de Jesús (Mateo 17:1) y la agonía de Jesús en el jardín de Getsemaní (Mateo 26:37). 
 
 #### Pedro era enviado a los judíos. Gálatas 2:7-8
 
@@ -59,94 +59,94 @@ Title: 1 & 2 Pedro
 
 ##### Pedro estaba con Marcos en Babilonia (1 Pedro 5:13). 
 
-#### La tradición de la Iglesia dice que Pedro murió crucificado (con los brazos extendidos). Esto probablemente tuvo lugar tres meses después del desastroso incendio que destruyó Roma por el cual el emperador Nerón quiso culpar a los cristianos.[^8]
+#### La tradición de la Iglesia dice que Pedro __<u>murió</u>__ crucificado (con los brazos extendidos). Esto probablemente tuvo lugar tres meses después del desastroso incendio que destruyó Roma por el cual el emperador Nerón quiso culpar a los cristianos.[^8]
 
-###  1 Pedro 1:1b "*apóstol de Jesucristo:*" Pedro es un apóstol de Jesucristo. Sus credenciales provienen de Jesucristo. 2 Pedro 1:1; Mateo 4:18 
+###  1 Pedro 1:1b "*apóstol de Jesucristo:*" Pedro es un __<u>apóstol</u>__ de Jesucristo. Sus credenciales provienen de Jesucristo. 2 Pedro 1:1; Mateo 4:18 
 
-#### Apóstol podria referirse a cualquier enviado pero Pedro es apóstol de Jesucristo, haciendolo uno de los 12 Apóstoles del Cordero. Mateo 10:2; Marcos 3:16; Apocalipsis 21:14
+#### Apóstol podría referirse a cualquier __<u>enviado</u>__ pero Pedro es apóstol de Jesucristo, haciéndolo uno de los 12 Apóstoles del Cordero. Mateo 10:2; Marcos 3:16; Apocalipsis 21:14
 
-## 1 Pedro 1:2 Identficados por fe
+## 1 Pedro 1:2 Identificados por fe
 
-###  1 Pedro 1:1c "*A los expatriados, de la dispersión...*" la carta es escrita a los extranjeros temporales PAREPIDEMOS de creyentes esparcidos.1 Pedro 5:14; Santiago 1:1
+###  1 Pedro 1:1c "*A los expatriados, de la dispersión...*" la carta es __<u>escrita</u>__ a los extranjeros temporales PAREPIDEMOS de creyentes esparcidos.1 Pedro 5:14; Santiago 1:1
 
-#### Pedro se refiere a los receptores (expatriados) más adelante en su carta como extranjeros y peregrinos. 1 Pedro 2:11, 1:17; 2 Pedro 1:10
+#### Pedro se refiere a los receptores (expatriados) más adelante en su carta __<u>como</u>__ extranjeros y peregrinos. 1 Pedro 2:11, 1:17; 2 Pedro 1:10
 
-###  1 Pedro 1:1d "*...en el Ponto, Galacia, Capadocia, Asia y Bitinia...*" Pedro escribió a personas esparcidas de sus lugares de origen que fueron a peregrinar en diferentes provincias del imperio Romano. Hoy en día lo conocemos como el norte de Turquía. 1 Pedro 2:11
+###  1 Pedro 1:1d "*...en el Ponto, Galacia, Capadocia, Asia y Bitinia...*" Pedro escribió a personas esparcidas de sus lugares de origen que __<u>fueron</u>__ a peregrinar en diferentes provincias del imperio Romano. Hoy en día lo conocemos como el norte de Turquía. 1 Pedro 2:11
 
-###  1 Pedro 1:1e Quienes son..."*elegidos*" EKLEKTOS los escogidos fuera. 1 Pedro 2:9; Mateo 22:14
+###  1 Pedro 1:1e Quienes son..."*elegidos*" EKLEKTOS los escogidos __<u>fuera</u>__. 1 Pedro 2:9; Mateo 22:14
 
 #### "*Elegidos*" EKLEKTOS puede referirse a:
 
 ##### Israel (Deuteronomio 7:6), reyes (1 Samuel 10:24), ángeles (1 Timoteo 5:21), la iglesia (Tito 1:1), individuos (Romanos 16:13), creyentes (Mateo 24:31) y El Mesías (Lucas 23:35).
 
-#### La doctrina de la elección ha sido corrompida y ofuscada por falsas enseñanzas. La enseñanza de que Dios eligió a algunos pecadores para la salvación, y que Cristo solo murió por ellos, y solo ellos pueden ser salvos no es conforme a la Biblia. Según los que enseñan la "elección soberana", la elección de Dios no tiene nada que ver con Su conocimiento previo de quiénes creerían en Él.
+#### La doctrina de la elección ha sido corrompida y ofuscada por falsas enseñanzas. La enseñanza de que Dios eligió a algunos pecadores para la salvación, y que Cristo solo murió por ellos, y solo ellos pueden ser salvos no es conforme a la Biblia. Según los que enseñan la "elección soberana", la elección de Dios no __<u>tiene</u>__ nada que ver con Su conocimiento previo de quiénes creerían en Él.
 
-#### Los elegidos son aquellos que responden por la fe al llamado de Dios. Dios está llamando a todo el mundo pero solo los que responden creyendo el Él son identificados como los elegidos. 
+#### Los elegidos son aquellos que responden por la fe al __<u>llamado</u>__ de Dios. Dios está llamando a todo el mundo pero solo los que responden creyendo el Él son identificados como los elegidos. 
 
-#### Este grupo de personas no es un grupo cerrado. Según la Biblia, todos son invitados pero pocos son los que responden. Mateo 20:16; Juan 12:32; Mateo 11:28-30; Tito 2:4
+#### Este grupo de personas no es un grupo cerrado. Según la Biblia, __<u>todos</u>__ son invitados pero pocos son los que responden. Mateo 20:16; Juan 12:32; Mateo 11:28-30; Tito 2:4
 
-### 1 Pedro 1:2a "*elegidos según...*" La palabra según KATA no debe ignorarse en este pasaje, porque define que algo esta en base a o en conformidad de algo.  En este caso, según el contexto inmediato "*elegidos*" según, en base a, o en conformidad a...
+### 1 Pedro 1:2a "*elegidos según...*" La palabra según KATA no debe ignorarse en este pasaje, __<u>porque</u>__ define que algo esta en base a o en conformidad de algo.  En este caso, según el contexto inmediato "*elegidos*" según, en base a, o en conformidad a...
 
-#### "*Según*" es una preposición que se utiliza para indicar que algo que se dice o se considera en base a una información específica, una fuente, una autoridad, etc.[^11]
+#### "*Según*" es una preposición que se utiliza para indicar que algo que se dice o se considera en __<u>base</u>__ a una información específica, una fuente, una autoridad, etc. [^11]
 
-#### En otras palabras "*según*" se utiliza para citar una fuente, indicar una opinión o basarse en información específica. 1 Corintios 9:8
+#### En otras palabras "*según*" se utiliza para citar una fuente, __<u>indicar</u>__ una opinión o basarse en información específica. 1 Corintios 9:8
 
-###  1 Pedro 1:2b "*elegidos según...el previo conocimiento de Dios Padre...*" El primer punto es que los elegidos son en base a, según, la presciencia de Dios. El ser elegidos es según el conocimiento previo que tuvo Dios. 
+###  1 Pedro 1:2b "*elegidos según...el previo conocimiento de Dios Padre...*" El primer punto es que los elegidos son en base a, según, la presciencia de Dios. El ser elegidos es según el conocimiento __<u>previo</u>__ que tuvo Dios. 
 
-#### Pedro no esta diciendo que Dios eligió según Su plan predeterminado como lo hizo entregando a Jesucristo en Hechos 2. Hechos 2:23; 1 Pedro 1:20; Lucas 22:22
+#### Pedro no esta diciendo que Dios eligió según Su __<u>plan</u>__ predeterminado como lo hizo entregando a Jesucristo en Hechos 2. Hechos 2:23; 1 Pedro 1:20; Lucas 22:22
 
-#### Los elegidos no son según el plan predeterminado de Dios, sino __<u>según</u>__ Su previo conocimiento.  Romanos 8:29
+#### Los __<u>elegidos</u>__ no son según el plan predeterminado de Dios, sino ____<u>según</u>____ Su previo conocimiento.  Romanos 8:29
 
-##### Gálatas 4:9 *Pero ahora, conociendo a DIOS, y más bien, **habiendo sido conocidos por DIOS**, ¿cómo os volvéis de nuevo a los débiles y pobres rudimentos °, a los cuales otra vez queréis servir de nuevo como esclavos?* (BTX)
+##### Gálatas 4:9 *Pero ahora, conociendo a DIOS, y más bien, **habiendo sido conocidos por DIOS**, ¿cómo os volvéis de nuevo a los débiles y pobres rudimentos °, a los __<u>cuales</u>__ otra vez queréis servir de nuevo como esclavos?* (BTX)
 
-####  ¿La elección es según qué conocimiento previo? La presciencia de Dios incluye conocer todo sobre todos los tiempos. Específicamente, Dios sabía antes de nada sobre los que a traves de los tiempos creerían en Él. Salmo 139:4, 50:11; Romanos 8:28-29
+####  ¿La elección es según qué conocimiento previo? La presciencia de Dios incluye conocer todo sobre todos los tiempos. Específicamente, Dios sabía antes de nada sobre los que a través de los tiempos creerían en __<u>Él</u>__. Salmo 139:4, 50:11; Romanos 8:28-29
 
-###  1 Pedro 1:2c "*por la obra  santificadora* [en santificación RVR60] *del Espíritu...*" Son elegidos por la obra santificadora del Espíritu. 2 Tesalonicenses 2:13
-#### La palabra "*por*" EN - significa en, con o por. Esta palabra es usualmente traducida "en". La traducción de la palabra EN (a por) hace parecer que la elección es causado por El Espíritu en un sentido regenerador, sin embargo mejor es entender que la elección es por medio de la obra santificadora, es decir, en separar para un uso. Tito 3:5
+###  1 Pedro 1:2c "*por la obra  santificadora* [en santificación RVR60] *del Espíritu...*" Son elegidos __<u>por</u>__ la obra santificadora del Espíritu. 2 Tesalonicenses 2:13
+#### La palabra "*por*" EN - significa en, con o por. Esta palabra es usualmente traducida "en". La traducción de la palabra EN (a por) __<u>hace</u>__ parecer que la elección es causado por El Espíritu en un sentido regenerador, sin embargo mejor es entender que la elección es por medio de la obra santificadora, es decir, en separar para un uso. Tito 3:5
 
-###  1 Pedro 1:2d "*...para obedecer a Jesucristo...*" El tercer punto de la elección es que es para obedecer a Jesucristo y ser rociados con Su sangre. 1 Pedro 1:14, 22
+###  1 Pedro 1:2d "*...para obedecer a Jesucristo...*" El __<u>tercer</u>__ punto de la elección es que es para obedecer a Jesucristo y ser rociados con Su sangre. 1 Pedro 1:14, 22
 
-### 1 Pedro 1:2e "*...y ser rociados con Su sangre:*" El ser rociado con sangre era una practica bajo la ley que representaba ser santificado para un propósito de Dios. Hebreos 9:13-14
+### 1 Pedro 1:2e "*...y ser rociados con Su sangre:*" El ser rociado con sangre era una practica __<u>bajo</u>__ la ley que representaba ser santificado para un propósito de Dios. Hebreos 9:13-14
 
-#### Nótense las tres preposiciones: **según** (KATA) la presciencia; **en** (EN) la santificación; **para** (EIS) la obediencia. Dios el Padre, Dios el Espíritu Santo y Dios el Hijo obraron juntos en la elección. 
+#### Nótense las tres preposiciones: **según** (KATA) la presciencia; **en** (EN) la santificación; **para** (EIS) la obediencia. Dios el Padre, Dios el Espíritu Santo y Dios el Hijo obraron __<u>juntos</u>__ en la elección. 
 
-##### Romanos 8:28 "*Y sabemos que para los que aman a Dios, todas las cosas cooperan para bien, esto es, para los que **son llamados conforme a Su propósito**.*"
+##### Romanos 8:28 "*Y sabemos que para los que aman a Dios, todas las cosas cooperan para __<u>bien</u>__, esto es, para los que **son llamados conforme a Su propósito**.*"
 
-##### Romanos 8:29 *Porque a los que de antemano conoció, también los predestinó a ser hechos conforme a la imagen de Su Hijo, para que Él sea el primogénito entre muchos hermanos.* en base al previo conocimiento, vemos una cadena de 5 eslabones. 
+##### Romanos 8:29 *Porque a los que de antemano conoció, también los predestinó a ser hechos conforme a la imagen de Su Hijo, para que Él sea el primogénito entre __<u>muchos</u>__ hermanos.* en base al previo conocimiento, vemos una cadena de 5 eslabones. 
 
-##### Romanos 8:30 *A los que predestinó, a esos también llamó. A los que llamó, a esos también justificó. A los que justificó, a esos también glorificó.*
+##### Romanos 8:30 *A los que predestinó, a __<u>esos</u>__ también llamó. A los que llamó, a esos también justificó. A los que justificó, a esos también glorificó.*
 
-###### 100% de los que Dios tuvo previo conocimiento, **predestino**. 
+###### 100% de los que Dios __<u>tuvo</u>__ previo conocimiento, **predestino**. 
 
-###### 100% de los que Dios predestinó, **llamó**. 
+###### 100% de los que __<u>Dios</u>__ predestinó, **llamó**. 
 
-###### 100% de los que Dios llamó, **justifico**. 
+###### 100% de los que Dios __<u>llamó</u>__, **justifico**. 
 
-###### 100% de los que Dios justifico, **glorificó**.
+###### 100% de los __<u>que</u>__ Dios justifico, **glorificó**.
 
-##### En conclusión, la obra de Dios es 100% efectivo a los que Él conoció de antemano.  Es importante establecer que conocer algo no es causar algo o determinar algo. No debemos dejar que una idea teológica determine nuestra comprensión de las Escrituras. 
+##### En conclusión, la obra de Dios es 100% efectivo a los que Él conoció de antemano.  Es importante establecer que conocer algo no es __<u>causar</u>__ algo o determinar algo. No debemos dejar que una idea teológica determine nuestra comprensión de las Escrituras. 
 
-###  1 Pedro 1:2 "*Que la gracia y la paz les sean multiplicadas a ustedes*". El deseo de Pedro a sus lectores es que Dios multiplique Su gracia y paz a ellos. 2 Pedro 1:2; Judas 1:2
+###  1 Pedro 1:2 "*Que la gracia y la paz les sean multiplicadas a ustedes*". El __<u>deseo</u>__ de Pedro a sus lectores es que Dios multiplique Su gracia y paz a ellos. 2 Pedro 1:2; Judas 1:2
 
 ## En Síntesis (1 Pedro 1:1-2)
 
-### Pedro es el autor la carta.  1 Pedro 1:1a
+### Pedro es el autor la __<u>carta</u>__.  1 Pedro 1:1a
 
-### Es dirigido a los dispersados en la zona que hoy conocemos como el norte de Turquía. 1 Pedro 1:1b
+### Es dirigido a los dispersados en la __<u>zona</u>__ que hoy conocemos como el norte de Turquía. 1 Pedro 1:1b
 
-### La fuente de nuestra salvación (1:1-2)
+### La fuente de __<u>nuestra</u>__ salvación (1:1-2)
 
-### Los elegidos son obra de la Trinidad. 
+### Los elegidos son __<u>obra</u>__ de la Trinidad. 
 
-#### Según el conocimiento previo del **Padre**. 1 Pedro 1:2a
+#### Según el conocimiento __<u>previo</u>__ del **Padre**. 1 Pedro 1:2a
 
-#### En santificación del **Espíritu**. 1 Pedro 1:2b
+#### En santificación __<u>del</u>__ **Espíritu**. 1 Pedro 1:2b
 
-####  Rociados con la sangre de **Cristo**. 1 Pedro 1:2c
+####  Rociados con la __<u>sangre</u>__ de **Cristo**. 1 Pedro 1:2c
 
-### Pedro comienza su primera carta con un resumen de algunos hechos gloriosos sobre la salvación.
+### Pedro comienza su primera carta con un resumen de algunos __<u>hechos</u>__ gloriosos sobre la salvación.
 
-### Pedro desea que la gracia y la paz de Dios  les sean dadas grandemente a estos creyentes. 1 Pedro 1:2d
+### Pedro desea que la gracia y la paz de Dios  les sean __<u>dadas</u>__ grandemente a estos creyentes. 1 Pedro 1:2d
 
 ## 1 Timoteo 1:3-5 La esperanza viva por la fe
 
@@ -2124,7 +2124,7 @@ Title: 1 & 2 Pedro
 
 #### Ezekiel 11:19 “*Yo les daré un solo corazón y pondré espíritu nuevo dentro de ellos. Y quitaré de su corazón el corazón de piedra y les daré corazón de carne*”,
 
-##### Estos versículos hablan del cumplimiento del Nuevo Pacto que Dios hará con Israel. Son basados en la promesa que Dios le hizo a Abraham en Génesis 12:1-3. Sin embargo, todos los pasajes hablan de un tiempo que Dios les dará un corazón nuevo pero sabemos por muchos otros pasajes que es solo se cumplen **<u>después</u>** de que Israel cree, no antes. 
+##### Estos versículos hablan del cumplimiento del Nuevo Pacto que Dios hará con Israel. Son basados en la promesa que Dios le hizo a Abraham en Génesis 12:1-3. Sin embargo, todos los pasajes hablan de un tiempo que Dios les dará un corazón nuevo pero sabemos por muchos otros pasajes que es solo se cumplen **__<u>después</u>__** de que Israel cree, no antes. 
 
 ###### Efesios 2:1 “*Y Él os dio vida a ustedes, que estaban muertos en vuestros delitos y pecados*”, 
 
