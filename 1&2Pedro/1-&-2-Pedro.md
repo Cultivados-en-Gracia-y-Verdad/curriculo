@@ -1712,17 +1712,21 @@ Title: 1 & 2 Pedro
 
 ### 1 Pedro 4:16b "*...que no se avergüence, sino que como tal glorifique a Dios.*" en vez de avergonzarse de sufrir como Cristiano, con el regocijo de que las pruebas provienen de Dios, Pedro les da el ánimo de glorificar a Dios.
 
-### 1 Pedro 4:17 *Porque es tiempo de que el juicio comience por la casa de Dios.*
+### 1 Pedro 4:17a "*Porque es tiempo de que el juicio comience por la casa de Dios.*" El juicio de Dios inicia con el de los creyentes en el tribunal de Cristo, en el que todo creyente va a comparecer ante el Señor.
 
-### *Y si comienza por nosotros primero, ¿cuál será el fin de los que no obedecen al evangelio de Dios?*
+### 1 Pedro 4:17b "*Y si comienza por nosotros primero,...*" el tribunal de Cristo será después del rapto de la iglesia, el juicio será llevado a cabo en los cielos.
 
-### 1 Pedro 4:18 *Y SI EL JUSTO CON DIFICULTAD SE SALVA,*
+### 1 Pedro 4:17c "*...¿cuál será el fin de los que no obedecen al evangelio de Dios?*" Pero el gran trono blanco sera el juicio final, donde todos los incrédulos resucitaran después que haya pasado el milenio, y si los creyentes fueron juzgados según su andar en el cuerpo, ¿entonces cual será el fin de los que no creyeron en el evangelio?
 
-### *¿QUÉ SERÁ DEL IMPÍO Y DEL PECADOR?*
+### 1 Pedro 4:18a "*Y SI EL JUSTO CON DIFICULTAD SE SALVA,*" Justo es todo aquel a quien Dios ha acreditado justicia el pecador perdido que creyo en el evangelio como el medio de salvación que Dios proveyó.
 
-### 1 Pedro 4:19 *Así que los que sufren conforme a la voluntad de Dios,*
+#### para un creyente es bastante difícil poder vivir en medio de sufrimientos y tribulaciones, salvarse de vivir una vida infructuosa es muy complicado ya que la misma corriente del mundo procede con insultos al creyente.
 
-### *encomienden sus almas al fiel Creador, haciendo el bien.*
+### 1 Pedro 4:18b "*¿QUÉ SERÁ DEL IMPÍO Y DEL PECADOR?*" Entonces un incrédulo que no tiene a Dios, poder salvarse de de andar en malas obras es todavía para ellos imposible, entonces cuando sea el juicio, que será de ellos, porque en el juicio final serán juzgados según sus obras con tal de recibir mayor o menor juicio en el lago de fuego.
+
+### 1 Pedro 4:19a "*Así que los que sufren conforme a la voluntad de Dios,*" Todo aquel que esta sufriendo por causa de bien y no del mal, puede estar completamente seguro y confiado que esta andando conforme a la voluntad de Dios.
+
+### 1 Pedro 4:19b "*encomienden sus almas al fiel Creador, haciendo el bien.*" ya que sus almas han sido purificadas por haber creído en el evangelio, de la misma manera pueden encomendar sus almas a Dios, andando confiados de que el esta obrando todavía en seguir purificando de manera que la prueba de la fe sea mas pura que el oro fino.
 
 ## En Síntesis
 
