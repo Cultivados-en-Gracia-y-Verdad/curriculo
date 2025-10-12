@@ -1644,21 +1644,21 @@ Title: 1 & 2 Pedro
 
 # 1 Pedro 4:7-11 – Sufrimiento y servicio 1
 
-###  1 Pedro 4:7a "*Pero el fin de todas las cosas se acerca.*" El fin de todas las cosas, ha comenzado a acercarse y hoy esta más cerca de lo que estaba en el tiempo de Pedro.
+###  1 Pedro 4:7 *Pero el fin de todas las cosas se acerca.*
 
-###  1 Pedro 4:7b "...*Sean pues ustedes prudentes y de espíritu sobrio para la oración.*" Pedro animaba a su audiencia a no vivir en las pasiones humanas, el tiempo que queda, en este pasaje da una instrucción de ser sobrios para la oración, prudentes.
+###  *Sean pues ustedes prudentes y de espíritu sobrio para la oración.*
 
-###  1 Pedro 4:8a "*Sobre todo, sean fervientes en su amor los unos por los otros,...*" Sobre todo, teniendo por encima de cualquier circunstancia, o situación, incluso por encima de los sufrimientos y tribulaciones.
+###  1 Pedro 4:8 *Sobre todo, sean fervientes en su amor los unos por los otros,*
 
-###  1 Pedro 4:8b "*...pues el amor cubre multitud de pecados.*" debían ser genuinos e intencionales en dar amor, los unos por los otros. Proverbios 10:12
+###  *pues el amor cubre multitud de pecados.*
 
-###  1 Pedro 4:9a "*Sean hospitalarios los unos para con los otros,...*" El cuidarse en tiempos de sufrimiento y tribulación llega a ser de gran bendición y descanso, al sobre llevar también las cargas los unos de los otros.
+###  1 Pedro 4:9 *Sean hospitalarios los unos para con los otros,*
 
-###  1 Pedro 4:9b "*...sin murmuraciones.*" El ser hospitalarios unos con otros debía ser intencional entre todos de manera sincera, sin quejas.
+###  *sin murmuraciones.*
 
-###  1 Pedro 4:10a "*Según cada uno ha recibido un don especial, úselo sirviéndose los unos a los otros...*" Todo creyente, ha recibido un don especial dado por el Espíritu Santo, Pedro anima a usar los dones para el servicio de cada miembro del cuerpo de Cristo.
+###  1 Pedro 4:10 *Según cada uno ha recibido un don especial, úselo sirviéndose los unos a los otros*
 
-###  1 Pedro 4:10b "*como buenos administradores de la multiforme gracia de Dios.*" 
+###  *como buenos administradores de la multiforme gracia de Dios.*
 
 ###  1 Pedro 4:11 *El que habla, que hable conforme a las palabras de Dios;*
 
@@ -1710,33 +1710,35 @@ Title: 1 & 2 Pedro
 
 ### Pedro escribe sobre el sufrimiento.
 
-### EL PROPÓSITO DEL SUFRIMIENTO (4:1-11, 15, 17-18)
+### EL PROPÓSITO DEL SUFRIMIENTO (1 Pedro 4:1-11, 15, 17-18)
 
-### Limpiar y purificar al creyente espiritual (4:1-11)
+### Limpiar y purificar al creyente espiritual (1 Pedro 4:1-11)
 
-### El triunfo (4:1-3): El sufrimiento hace que el pecado pierda su poder.
+#### El triunfo (1 Pedro 4:1-3): El sufrimiento hace que el pecado pierda su poder.
 
-### El testimonio (4:4-6): Los amigos no salvos de un nuevo cristiano se maravillan de que él no desee compartir su estilo de vida malvado como antes. 3. La ternura (4:7-9): El sufrimiento debe cultivar nuestro amor por los demás creyentes.
+#### El testimonio (1 Pedro 4:4-6): Los amigos no salvos de un nuevo cristiano se maravillan de que él no desee compartir su estilo de vida malvado como antes.
 
-### Los talentos (4:10-11): Debemos emplear fielmente todos los dones espirituales que Dios nos ha dado.
+#### La ternura (1 Pedro 4:7-9): El sufrimiento debe cultivar nuestro amor por los demás creyentes.
 
-### Disciplinar y castigar al creyente carnal (4:15, 17-18): Dios juzgará a su pueblo.
+#### Los talentos (1 Pedro 4:10-11): Debemos emplear fielmente todos los dones espirituales que Dios nos ha dado.
 
-### EL PRIVILEGIO DEL SUFRIMIENTO (4:12-14, 16)
+### Disciplinar y castigar al creyente carnal (1 Pedro 4:15, 17-18): Dios disciplina a su pueblo.
 
-### Es de esperar (4:12): A todos los creyentes se les permitirá sufrir.
+### EL PRIVILEGIO DEL SUFRIMIENTO (1 Pedro 4:12-14, 16)
 
-### Es de estimar (4:13-14, 16)
+#### Es de esperar (1 Pedro 4:12): A todos los creyentes se les permitirá sufrir.
 
-### Sufrir por Cristo significa compartir su dolor pasado (4:13a, 14a, 16a).
+#### Es de estimar (1 Pedro 4:13-14, 16)
 
-### Sufrir por Cristo significa compartir su gloria futura (4:13b, 14b, 16b). 
+#### El sufrimiento como cristiano tiene un propósito, significa compartir los padecimientos de Cristo (1 Pedro 4:13a, 14a, 16a).
 
-### LA PACIENCIA EN EL SUFRIMIENTO (4:19): Hay dos cosas que hacer en la hora del dolor.
+#### Sufrir por Cristo significa compartir su gloria futura (1 Pedro 4:13b, 14b, 16b). 
 
-### Debemos encomendarnos a Dios (4:19b).
+### LA PACIENCIA EN EL SUFRIMIENTO (1 Pedro 4:19): Hay dos cosas que hacer en la hora del sufrimiento que es conforme a la voluntad de Dios.
 
-### Debemos seguir haciendo el bien (4:19a).
+#### Podemos encomendarnos a Dios (1 Pedro 4:19b).
+
+#### Y seguir haciendo el bien (1 Pedro 4:19a).
 
 ## 1 Pedro 5:1-11 – Guía adicional 
 
