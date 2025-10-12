@@ -1903,27 +1903,35 @@ Title: 1 & 2 Pedro
 
 #### Si padecemos o sufrimos como cristianos es un gozo porque somos participantes de las aflicciones de Cristo. No es que Dios se olvidó de nosotros pero en medio del sufrimiento podemos refugiarnos en Su poder y gracia.
 
-### 1 Pedro 5:6 "*para que Él los exalte*" 
+### 1 Pedro 5:6 "*para que Él los exalte*" El Padre exaltara al creyente que al conciderarse en la verdad se somete dejabo de su mano, en esto tenemos el ejemplo de Cristo que no se aferro a su divinidad sino que siendo hombre se sujeto al Padre bajo su mano. Filipenses 2:5-11
 
 ### 1 Pedro 5:6 "*a su debido tiempo,*" Dios promete exaltar al que se humille bajo su poderosa mano. 
 
-#### No se nos dice cuanto tiempo pero nos dice que es seguro. Podemos descansar en Dios en cuanto a los sufrimientos, nuestras preocupaciones, anciedad es pude ser un fruto en medio del sufrimiento pero no sufrimiento en vano. 
+#### No se nos dice en cuanto tiempo pero si dice que es seguro. Podemos descansar en Dios.
 
 ### 1 Pedro 5:7 "*echando toda su ansiedad sobre Él,*" Echar nuestra anciedad tiene que ver porque Dios cuida de nosotros. 
 
+#### Es facil que en medio de los sufrimientos nos invada la ansiedad, literalmente se traduce habiendo hechado su ansiedad sobre el, cuando andamos considerando nuestra realidad bajo su mano, nuestras ansiedades son puestas sobre el. 
+
 ### 1 Pedro 5:7 "*porque Él tiene cuidado de ustedes.*" Nuestra ansiedad que surge de los padecimientos puede ser echada porque el nos cuida. 
 
-### 1 Pedro 5:8 "*Sean de espíritu sobrio, estén alerta.*"
+### 1 Pedro 5:8 "*Sean de espíritu sobrio, estén alerta.*" Esto es un mandato a pensar correctamente, segun la verdad, sobrio esta relacionado a estar cuerdo, ver la realidad.
 
-### 1 Pedro 5:8 "*Su adversario, el diablo, anda al acecho como león rugiente,*"
+#### Asi mismo el creyente debe permanecer alerta o despierto, de manera que no sea sorprendido, esto tiene revelancia ya que seremos advertidoa acontinuacion.
 
-### 1 Pedro 5:8 "*buscando*" el está buscando a un creyente que flaquea por estos momentos de sufrimiento no pensando con cordura y estando alerta. 
+### 1 Pedro 5:8 "*Su adversario, el diablo, anda al acecho como león rugiente,*" Satanas esta esperando una oportunidad.
 
-### 1 Pedro 5:8 "*a quien devorar.*" Satanás los busca para devorarles (destruirlos) en medio de los padecimientos. Esto no habla de que pierden eternamente sino de estar afligidos por el engaño del diablo. 
+#### Satanas el que esta contra los creyente no permanece inmovil, el verso dice "anda", esto es activo y continuo de su parte, el esta acechando, permanece esperando una oportinuadad para tomar a su presa.
 
-### 1 Pedro 5:9 "*Pero resístanlo firmes en la fe,*" se nos dice resistir, quiere decir ir contrario al no dejarnos ser devorados. No le den lugar. 
+### 1 Pedro 5:8 "*buscando*" El está buscando a un creyente que flaquea por estos momentos de sufrimiento, uno que no esta pensando con cordura, o viendo con clsaridad ni esta alerta. 
 
-#### Es interesante que resisitir no esta omdo a cosas a hacer al cometer nuestra espiritualidad. 
+### 1 Pedro 5:8 "*a quien devorar.*" Satanás los busca para devorarlos (destruirlos) en medio de los padecimientos. Esto no habla de que se pierden eternamente sino de estar afligidos por el engaño del diablo. 
+
+### 1 Pedro 5:9 "*Pero resístanlo firmes en la fe,*" se nos dice resistir, quiere decir ir contra el, no dejarnos sorprender para ser devorados.
+
+#### Es interesante que resisitir no esta ligado a cosas para hacer aumentar nuestra espiritualidad. 
+
+#### La manera de resistirlo es permaneciendo firmes en la fe. 
 
 ### 1 Pedro 5:9 "*sabiendo que las mismas experiencias de sufrimiento*"
 
