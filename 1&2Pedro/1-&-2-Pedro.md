@@ -1644,21 +1644,21 @@ Title: 1 & 2 Pedro
 
 # 1 Pedro 4:7-11 – Sufrimiento y servicio 1
 
-###  1 Pedro 4:7 *Pero el fin de todas las cosas se acerca.*
+###  1 Pedro 4:7a "*Pero el fin de todas las cosas se acerca.*" El fin de todas las cosas, ha comenzado a acercarse y hoy esta más cerca de lo que estaba en el tiempo de Pedro.
 
-###  *Sean pues ustedes prudentes y de espíritu sobrio para la oración.*
+###  1 Pedro 4:7b "...*Sean pues ustedes prudentes y de espíritu sobrio para la oración.*" Pedro animaba a su audiencia a no vivir en las pasiones humanas, el tiempo que queda, en este pasaje da una instrucción de ser sobrios para la oración, prudentes.
 
-###  1 Pedro 4:8 *Sobre todo, sean fervientes en su amor los unos por los otros,*
+###  1 Pedro 4:8a "*Sobre todo, sean fervientes en su amor los unos por los otros,...*" Sobre todo, teniendo por encima de cualquier circunstancia, o situación, incluso por encima de los sufrimientos y tribulaciones.
 
-###  *pues el amor cubre multitud de pecados.*
+###  1 Pedro 4:8b "*...pues el amor cubre multitud de pecados.*" debían ser genuinos e intencionales en dar amor, los unos por los otros. Proverbios 10:12
 
-###  1 Pedro 4:9 *Sean hospitalarios los unos para con los otros,*
+###  1 Pedro 4:9a "*Sean hospitalarios los unos para con los otros,...*" El cuidarse en tiempos de sufrimiento y tribulación llega a ser de gran bendición y descanso, al sobre llevar también las cargas los unos de los otros.
 
-###  *sin murmuraciones.*
+###  1 Pedro 4:9b "*...sin murmuraciones.*" El ser hospitalarios unos con otros debía ser intencional entre todos de manera sincera, sin quejas.
 
-###  1 Pedro 4:10 *Según cada uno ha recibido un don especial, úselo sirviéndose los unos a los otros*
+###  1 Pedro 4:10a "*Según cada uno ha recibido un don especial, úselo sirviéndose los unos a los otros...*" Todo creyente, ha recibido un don especial dado por el Espíritu Santo, Pedro anima a usar los dones para el servicio de cada miembro del cuerpo de Cristo.
 
-###  *como buenos administradores de la multiforme gracia de Dios.*
+###  1 Pedro 4:10b "*como buenos administradores de la multiforme gracia de Dios.*" como servidores excelentes en la multiforme gracia que Dios ha repartido.
 
 ###  1 Pedro 4:11a "*El que habla, que hable conforme a las palabras de Dios;*" El que habla o se dedica a la predicación de la palabra, debe hablar conforme a la palabra de Dios que ha revelado en su escritura y no según criterio humano
 
