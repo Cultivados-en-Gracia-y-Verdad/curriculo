@@ -376,99 +376,99 @@ Title: 1 & 2 Pedro
 
 ## 1 Pedro 1:13-21 – Preparando el entendimiento para la acción
 
-###  1 Pedro 1:13a "*Por tanto...*" equivale a, "en vista del hecho de que aunque están pasando por muchas clases de pruebas (1 Pedro 1:6), sin embargo, porque su herencia celestial les espera" (1 Pedro 1:3-6), preparen su entendimiento para la acción (1 Pedro 1:13).
+###  1 Pedro 1:13a "*Por tanto...*" equivale a, "en vista del hecho de que aunque están pasando por muchas clases de pruebas (1 Pedro 1:6), sin embargo, <u>porque</u> su herencia celestial les espera" (1 Pedro 1:3-6), preparen su entendimiento para la acción (1 Pedro 1:13).
 
-###  1 Pedro 1:13b "*preparen su entendimiento...*" Es interesante esta expresión...preparen su entendimiento...no dice preparen sus manos o sus cuerpos. Dios quiere transformar nuestro entendimiento. Romanos 12:1-2; 2 Corintios 10:5; Salmo 1:2; 1 Pedro 2:9
+###  1 Pedro 1:13b "*preparen su entendimiento...*" Es interesante esta expresión...preparen su entendimiento...no dice preparen sus manos o sus cuerpos. Dios <u>quiere</u> transformar nuestro entendimiento. Romanos 12:1-2; 2 Corintios 10:5; Salmo 1:2; 1 Pedro 2:9
 
-### 1 Pedro 1:13c "*para la acción...*" ¿el entendimiento preparado para la acción? ¿Recibirían mayor entendimiento? ¿El entendimiento entraría en acción para recibir mayor entendimiento? 
+### 1 Pedro 1:13c "*para la acción...*" ¿el entendimiento preparado para la acción? ¿Recibirían mayor entendimiento? ¿El entendimiento entraría en acción para recibir <u>mayor</u> entendimiento? 
 
-###  1 Pedro 1:13d "*Sean sobrios en espíritu...*" debían estar en un estado de razonamiento para recibir entendimiento a través de lo que el Señor les enseñaría. 
+###  1 Pedro 1:13d "*Sean sobrios en espíritu...*" debían estar en un estado de razonamiento para <u>recibir</u> entendimiento a través de lo que el Señor les enseñaría. 
 
-#### "*Sobrios*" NEPHO - significa frenar la influencia controladora de emociones o deseos desmesurados (y por lo tanto volverse razonable); concebido como ponerse sobrio de la influencia del alcohol.[^1]
+#### "*Sobrios*" NEPHO - significa frenar la influencia controladora de emociones o <u>deseos</u> desmesurados (y por lo tanto volverse razonable); concebido como ponerse sobrio de la influencia del alcohol.[^1]
 
-###  1 Pedro 1:13e "*pongan su esperanza...*" Aquí vemos el primer imperativo en el libro de 1 Pedro. Pablo dice, manda a que fijen su esperanza. 
+###  1 Pedro 1:13e "*pongan su esperanza...*" Aquí vemos el primer imperativo en el <u>libro</u> de 1 Pedro. Pablo dice, manda a que fijen su esperanza. 
 
-#### "*Pongan su esperanza*" ELPIZO (aoristo, activo, imperativo) significa esperar y desear algo. 
+#### "*Pongan su esperanza*" ELPIZO (aoristo, activo, imperativo) significa <u>esperar</u> y desear algo. 
 
 #### ¿En qué debían fijar su esperanza? 
 
-###  1 Pedro 1:13f *"...completamente en la gracia que se les traerá en la revelación de Jesucristo."* Apoyarse, completamente en la gracia que será traída en la revelación de Jesucristo debe ser al centro de la diana de su mirada. 
+###  1 Pedro 1:13f *"...completamente en la gracia que se les traerá en la revelación de Jesucristo."* Apoyarse, completamente en la gracia que será traída en la revelación de Jesucristo <u>debe</u> ser al centro de la diana de su mirada. 
 
-###  1 Pedro 1:14a *"Como hijos obedientes..."* Igual que un hijo que escucha a la voz sus padres y responde obedeciendo. Ellos eran hijos obedientes al haber respondido al evangelio por la fe. Romanos 16:19; Juan 3:18, 36
+###  1 Pedro 1:14a *"Como hijos obedientes..."* Igual que un <u>hijo</u> que escucha a la voz sus padres y responde obedeciendo. Ellos eran hijos obedientes al haber respondido al evangelio por la fe. Romanos 16:19; Juan 3:18, 36
 
-###  1 Pedro 1:14b "*no se conformen a los deseos que antes tenían en su ignorancia...*" ¿que deseos tenían a los que no debían conformarse? 
+###  1 Pedro 1:14b "*no se conformen a los deseos que <u>antes</u> tenían en su ignorancia...*" ¿que deseos tenían a los que no debían conformarse? 
 
-#### "*no se conformen*" SYSCHEMATIZO (presente, media o pasiva, participio) - ser o volverse conductual o socialmente similar a; concebido como ser o llegar a ser moldeado o formado según un patrón determinado.[^1]
+#### "*no se conformen*" SYSCHEMATIZO (presente, media o pasiva, participio) - ser o volverse conductual o socialmente similar a; concebido como ser o llegar a <u>ser</u> moldeado o formado según un patrón determinado.[^1]
 
-#### "*deseos*" EPITHYMIA - un anhelo desmesurado y autocomplaciente (que desplaza los afectos apropiados hacia Dios).[^1]
+#### "*deseos*" EPITHYMIA - un <u>anhelo</u> desmesurado y autocomplaciente (que desplaza los afectos apropiados hacia Dios).[^1]
 
-#### Efesios 2:1 *...estaban muertos en sus delitos y pecados,*
+#### Efesios 2:1 *...estaban <u>muertos</u> en sus delitos y pecados,*
 
-#### Efesios 2:2 *en los cuales anduvieron en otro tiempo según la corriente de este mundo, conforme al príncipe de la potestad del aire, el espíritu que ahora opera en los hijos de desobediencia.*
+#### Efesios 2:2 *en los cuales <u>anduvieron</u> en otro tiempo según la corriente de este mundo, conforme al príncipe de la potestad del aire, el espíritu que ahora opera en los hijos de desobediencia.*
 
-#### Efesios 2:3 *Entre ellos también todos nosotros en otro tiempo vivíamos en las pasiones de nuestra carne, satisfaciendo los deseos de la carne y de la mente, y éramos por naturaleza hijos de ira, lo mismo que los demás.*
+#### Efesios 2:3 *Entre ellos también todos nosotros en otro tiempo <u>vivíamos</u> en las pasiones de nuestra carne, satisfaciendo los deseos de la carne y de la mente, y éramos por naturaleza hijos de ira, lo mismo que los demás.*
 
-###  1 Pedro 1:15a "*sino que así como Aquel que los llamó es Santo...*" Estos creyentes expatriados habían sido llamados por una persona. El énfasis aquí no es a dónde les llamo, no cómo les llamo, sino que clase de persona es el que hizo el llamado, Dios es santo. 
+###  1 Pedro 1:15a "*sino que así como Aquel que los llamó es Santo...*" Estos creyentes expatriados habían sido llamados por una persona. El énfasis aquí no es a dónde les llamo, no cómo les <u>llamo</u>, sino que clase de persona es el que hizo el llamado, Dios es santo. 
 
 #### "*santo*" HAGIOS - separado de la condición y uso común; dedicado. [^4]
 
-#### Cuando respondimos por la fe al llamado de Dios, llegamos a ser declarados santos por medio de Jesucristo el santo. 1 Corintios 1:2
+#### Cuando respondimos por la fe al llamado de Dios, llegamos a ser declarados <u>santos</u> por medio de Jesucristo el santo. 1 Corintios 1:2
 
-###  1 Pedro 1:15b *así también sean ustedes santos en toda su manera de vivir.* Como llamados de Dios afuera del mundo para Si mismo, debían tener la forma de vivir que refleja como Dios es. Dios es santo, todo su diario vivir debía ser santo. 
+###  1 Pedro 1:15b *así también sean ustedes santos en toda su manera de vivir.* Como llamados de Dios afuera del mundo para Si mismo, debían <u>tener</u> la forma de vivir que refleja como Dios es. Dios es santo, todo su diario vivir debía ser santo. 
 
-#### La santidad al andar (su manera de vivir) es un andar piadoso. Es visible ante las personas. 
+#### La santidad al andar (su manera de vivir) es un andar piadoso. Es visible <u>ante</u> las personas. 
 
-###  1 Pedro 1:16 *Porque escrito está: «SEAN SANTOS, PORQUE YO SOY SANTO».* esta es una cita de Levítico 19:2 en la Septuaginta. 
+###  1 Pedro 1:16 *Porque escrito está: «SEAN SANTOS, PORQUE YO SOY SANTO».* esta es una <u>cita</u> de Levítico 19:2 en la Septuaginta. 
 
-#### Levítico 19:2 "*Habla a toda la congregación de los israelitas y diles: “Santos serán porque Yo, el SEÑOR su Dios, soy santo.*"
+#### Levítico 19:2 "*Habla a toda la congregación de los israelitas y diles: “Santos serán <u>porque</u> Yo, el SEÑOR su Dios, soy santo.*"
 
-##### Aunque durante la era de la iglesia ya no estamos bajo la ley sino bajo la gracia, no significa que la santidad de Dios haya cambiado. La santidad de Dios está ligada a quien es Él, no como actúa.
+##### Aunque durante la <u>era</u> de la iglesia ya no estamos bajo la ley sino bajo la gracia, no significa que la santidad de Dios haya cambiado. La santidad de Dios está ligada a quien es Él, no como actúa.
 
-#### “*Séan santos*” (aoristo, pasivo, imperativo) es un mandato pasivo. Esto significa que no nos hacemos santos por nuestro propio esfuerzo, sino que se nos manda que nos permitamos ser santos. Es obra de Dios santificarnos; Pero si Dios lo hace, ¿Porque es un imperativo al creyente?
+#### “*Séan santos*” (aoristo, pasivo, imperativo) es un mandato pasivo. Esto significa que no nos hacemos santos por nuestro propio esfuerzo, sino que se nos manda que nos permitamos ser <u>santos</u>. Es obra de Dios santificarnos; Pero si Dios lo hace, ¿Porque es un imperativo al creyente?
 
-##### Es un mandato para el creyente permitir que Dios nos santifique. 
+##### Es un mandato para el creyente permitir que <u>Dios</u> nos santifique. 
 
-###  1 Pedro 1:17a "*Y si invocan como Padre a Aquel que imparcialmente juzga según la obra de cada uno...*" Dios no hace acepción de personas. 
+###  1 Pedro 1:17a "*Y si invocan como Padre a Aquel que imparcialmente <u>juzga</u> según la obra de cada uno...*" Dios no hace acepción de personas. 
 
-#### "*invocan*" EPICALEOMAI - invocar una deidad para pedir ayuda o protección; especialmente como reconocimiento de sumisión y deferencia a una deidad específica.[^1] Hechos 2:21, 7:59, 9:21; Romanos 10:12, 14; 1 Corintios 1:2; 2 Timoteo 2:22
+#### "*invocan*" EPICALEOMAI - invocar una deidad para pedir ayuda o protección; especialmente como reconocimiento de sumisión y deferencia a una <u>deidad</u> específica.[^1] Hechos 2:21, 7:59, 9:21; Romanos 10:12, 14; 1 Corintios 1:2; 2 Timoteo 2:22
 
 ###  1 Pedro 1:17b "*...condúzcanse con temor durante el tiempo de su peregrinación.*"
 
-#### "*condúzcanse*" ANASTREPHO (aoristo, pasivo, imperativo) - comportarse de una determinada manera, entendido como caminar de un lado a otro en un lugar.[^1]
+#### "*condúzcanse*" ANASTREPHO (aoristo, pasivo, imperativo) - comportarse de una determinada <u>manera</u>, entendido como caminar de un lado a otro en un lugar.[^1]
 
-##### La voz pasiva de "*condúzcanse*" nos ayuda entender que debían dejarse conducir por Dios y no hacer en sus propios esfuerzos estando separado de Dios. 
+##### La voz pasiva de "*condúzcanse*" nos ayuda entender que debían dejarse conducir por Dios y no hacer en sus propios esfuerzos <u>estando</u> separado de Dios. 
 
 #### "*Peregrinación*" MAGOR - estancia temporal como extranjero; a menudo con derechos limitados.[^1]
 
-##### El tiempo de su peregrinación da a entender que es por un determinado tiempo y no eterno. Es solo una peregrinación no un estado fijado de permanencia. 
+##### El tiempo de su peregrinación da a entender que es por un determinado tiempo y no eterno. Es solo una peregrinación no un estado <u>fijado</u> de permanencia. 
 
-###  1 Pedro 1:18a "*Ustedes saben que no fueron redimidos de su vana manera de vivir...*" la vana manera al cual se refiere aquí es la vida que antes vivian conforme a sus deseos en ignorancia. Fueron redimidos de esa manera de vida. 
+###  1 Pedro 1:18a "*Ustedes saben que no fueron redimidos de su vana manera de vivir...*" la vana manera al cual se refiere aquí es la vida que antes vivían conforme a sus <u>deseos</u> en ignorancia. Fueron redimidos de esa manera de vida. 
 
-#### "*redimidos*" LITROOMAI - ser o llegar a ser redimido mediante el pago exigido para el regreso de uno; usado para referirse a un cautivo.[^1]
+#### "*redimidos*" LITROOMAI - ser o llegar a ser redimido mediante el pago exigido <u>para</u> el regreso de uno; usado para referirse a un cautivo.[^1]
 
-###  1 Pedro 1:18b "*no fueron redimidos de su vana manera de vivir...heredada de sus padres*" lo que heredaron de sus padres era una vana manera de vivir. 
+###  1 Pedro 1:18b "*no fueron redimidos de su vana manera de vivir...heredada de sus padres*" lo que heredaron de sus padres era una <u>vana</u> manera de vivir. 
 
-### 1 Pedro 1:18c "*no fueron redimidos...con cosas perecederas como oro o plata...*" La redención de una vana manera de vivir no vino por cosas perecederas como oro o plata. 
+### 1 Pedro 1:18c "*no fueron redimidos...con cosas perecederas como oro o plata...*" La redención de una vana manera de <u>vivir</u> no vino por cosas perecederas como oro o plata. 
 
-###  1 Pedro 1:19a "*sino* [fueron redimidos de su vana manera de vivir] *con sangre preciosa...*" La sangre de Cristo fue el pago hecho para redimirlos de su vana manera de vivir. 
+###  1 Pedro 1:19a "*sino* [fueron redimidos de su vana manera de vivir] *con sangre preciosa...*" La sangre de Cristo fue el <u>pago</u> hecho para redimirlos de su vana manera de vivir. 
 
-###  1 Pedro 1:19b "*como de un cordero sin tacha y sin mancha: la sangre de Cristo.*" ser redimido de una vana manera de vivir viene por herencia. Pero no con dinero o cosas materiales sino por el pago hecho en sangre por Jesucristo. Juan 1:29 
+###  1 Pedro 1:19b "*como de un cordero sin tacha y sin mancha: la sangre de Cristo.*" ser redimido de una vana manera de vivir viene por herencia. Pero <u>no</u> con dinero o cosas materiales sino por el pago hecho en sangre por Jesucristo. Juan 1:29 
 
-###  1 Pedro 1:20a "*Porque Él estaba preparado desde antes de la fundación del mundo,*" En el plan del Padre, soberanamente preparó ( a Cristo como cordero desde antes de la fundación del mundo. 
+###  1 Pedro 1:20a "*Porque Él estaba preparado desde antes de la fundación del mundo,*" En el plan del Padre, soberanamente preparó (a Cristo como cordero desde antes de la fundación del <u>mundo</u>). 
 
-###  1 Pedro 1:20b "*pero se ha manifestado en estos últimos tiempos por amor a ustedes.*" Que privilegio que tiene la iglesia en ser los primeros a tener la manifestación de Su gracia en nuestros días. El punto de Pedro es que Dios sigue amando los suyos a pesar de hacerles pasar por diversas pruebas. 
+###  1 Pedro 1:20b "*pero se ha manifestado en estos últimos tiempos por amor a ustedes.*" Que privilegio que tiene la iglesia en ser los primeros a tener la manifestación de Su gracia en nuestros días. El <u>punto</u> de Pedro es que Dios sigue amando los suyos a pesar de hacerles pasar por diversas pruebas. 
 
-#### Cristo estaba preparado (perfecto, participio), pero se manifestó (aoristo, participio) en un momento específico de un del tiempo. Tito 2:11
+#### Cristo estaba preparado (perfecto, participio), pero se manifestó (aoristo, participio) en un momento específico de un del <u>tiempo</u>. Tito 2:11
 
-###  1 Pedro 1:21a "*Por medio de Él son creyentes en Dios,*" Para llegar a ser creyentes en Dios, se nos tuvo que mostrar en quien creer. Esto sucedió cuando nos presentaron el mensaje de la verdad, el evangelio. 1 Corintios 15:3-4
+###  1 Pedro 1:21a "*Por medio de Él son creyentes en Dios,*" Para <u>llegar</u> a ser creyentes en Dios, se nos tuvo que mostrar en quien creer. Esto sucedió cuando nos presentaron el mensaje de la verdad, el evangelio. 1 Corintios 15:3-4
 
-#### Efesios 1:13 *En Él también ustedes, **después** de escuchar el mensaje de la verdad, el evangelio de su salvación, y habiendo creído, fueron sellados en Él con el Espíritu Santo de la promesa,*
+#### Efesios 1:13 *En Él también <u>ustedes</u>, **después** de escuchar el mensaje de la verdad, el evangelio de su salvación, y habiendo creído, fueron sellados en Él con el Espíritu Santo de la promesa,*
 
-#### No creimos en Dios antes de escuchar el mensaje del evangelio, fue después. No fuimos sellados en Él por el Espíritu antes de oir el mensaje o creer sino después de escuchar el mensaje de salvación y creerlo. 
+#### No creímos en Dios <u>antes</u> de escuchar el mensaje del evangelio, fue después. No fuimos sellados en Él por el Espíritu antes de oír el mensaje o creer sino después de escuchar el mensaje de salvación y creerlo. 
 
-###  1 Pedro 1:21b "*que lo resucitó de entre los muertos y le dio gloria,*" Creer en Dios llegó a ser posible por medio de Cristo pues Dios lo levantó de los muertos y le hizo sentar a Su diestra. 
+###  1 Pedro 1:21b "*que lo resucitó de entre los muertos y le dio gloria,*" Creer en Dios llegó a ser posible por medio de Cristo pues Dios lo levantó de los muertos y le hizo <u>sentar</u> a Su diestra. 
 
-###  1 Pedro 1:21c "*de manera que la fe y esperanza de ustedes sean en Dios.*" El punto de Pedro es que la victoria desde la perspectiva del creyente esta en la fe. Dios es agradado en la fe. Dios diseño que Sus hijos aprendan a vivir por fe. Habacúc 2:4; Hebreos 10:38; Colosenses 2:6
+###  1 Pedro 1:21c "*de manera que la fe y esperanza de ustedes <u>sean</u> en Dios.*" El punto de Pedro es que la victoria desde la perspectiva del creyente esta en la fe. Dios es agradado en la fe. Dios diseño que Sus hijos aprendan a vivir por fe. Habacúc 2:4; Hebreos 10:38; Colosenses 2:6
 
 ## 1 Pedro 1:22-25 Fe en acción a través del amor
 
