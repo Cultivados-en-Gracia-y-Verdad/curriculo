@@ -1701,11 +1701,21 @@ Title: 1 & 2 Pedro
 
 ##### El gran trono blanco será el juicio final, en que todos los que murieron sin Cristo resucitaran y su juicio será para condenación eterna, separados eternamente de Dios.
 
-###  1 Pedro 4:6 *Porque con este fin fue predicado el evangelio aun a los muertos,*
+###  1 Pedro 4:6 El evangelio que fue predicado, a los que ahora ya duermen, tuvo el mismo propósito que tuvo en el tiempo que se escribió la carta de Pedro, como ahora sigue teniendo el mismo propósito de animar a los creyentes en su andar. 1 Pedro 4:2
 
-###  *para que aunque sean juzgados en la carne como hombres,*
+### 1 Pedro 4:6 Los que ahora están muertos tal vez fueron condenados por los hombres en este mundo; sin embargo, se les anunciaron las buenas noticias para que pudieran vivir ante Dios por el Espíritu. (PDT)
 
-###  *vivan en el espíritu conforme a la voluntad de Dios.*
+###  1 Pedro 4:6a "*Porque con este fin fue predicado el evangelio aun a los muertos,...*" La predicación del evangelio tiene un fin y un resultado completamente seguro.
+
+#### Evangelio, EUANGELIZO es un verbo en tiempo aoristo, modo indicativo, y voz pasiva. Lo que que quiere decir, que en tiempo pasado se puede afirmar que alguien predico el evangelio a los creyentes que ahora están ya muertos. (dormidos)
+
+###  1 Pedro 4:6b "*...para que aunque sean juzgados en la carne como hombres,...*" Aquellos creyentes que ahora ya están muertos, dieron testimonio de que anduvieron en la voluntad de Dios, haciendo el bien, y fueron insultados, injuriados y juzgados por los hombres mientras estaban vivos.
+
+#### Juzgados, KRINO, es un verbo en tiempo aoristo, voz pasiva, lo que quiere decir, que en algún punto del tiempo pasado, los creyentes que ahora están muertos han sido "*...juzgados según los hombres.*" (BTX4) mientras aun estaban en el cuerpo.
+
+###  1 Pedro 4:6c "*...vivan en el espíritu conforme a la voluntad de Dios.*" Aquellos creyentes que ahora están muertos, vivieron el tiempo que les restaba en el cuerpo, no conforme a los deseos de las pasiones humanas, sino según el Espíritu, haciendo el bien y no el mal.
+
+#### Vivan, ZAO, es un verbo en tiempo aoristo, voz activa, lo que quiere decir que en el pasado, los creyentes que fueron juzgados según el criterio de los hombres, vivieron conforme a la voluntad de Dios, activamente en el Espíritu.
 
 # 1 Pedro 4:7-11 – Sufrimiento y servicio 1
 
