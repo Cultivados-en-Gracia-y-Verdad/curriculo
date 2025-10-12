@@ -3,7 +3,7 @@ Title: 1 & 2 Pedro
 ---
 
 # 1 y 2 Pedro
-## Renacidos a una viva esperanza
+## Gracia en el sufrimiento
 
 # 1 Pedro
 
@@ -173,9 +173,9 @@ Title: 1 & 2 Pedro
 
 #### ¿Cuál fue el propósito que Dios tenía para hacernos nacer de nuevo? 
 
-###  1 Pedro 1:4a  "*para obtener una herencia,*" Parte de nuestra esperanza viva es que nos hizo nacer de nuevo para recibir una herencia. 
+###  1 Pedro 1:4a  "*para obtener una herencia,*" Parte de nuestra esperanza viva es que nos hizo nacer de nuevo para recibir una herencia. Efesios 1:14
 
-###  1 Pedro 1:4b "*incorruptible, inmaculada y que no se marchitará, reservada en los cielos*". Es una herencia que no se contamina con el tiempo, no tiene falla ni se arruina. Esta herencia está guardada en los cielos. 
+###  1 Pedro 1:4b "*incorruptible, inmaculada y que no se marchitará, reservada en los cielos*". Es una herencia que no se contamina con el tiempo, no tiene falla ni se arruina. Esta herencia está guardada en los cielos. Efesios 1:18
 
 #### "*Reservada*" TEREO (perfecto, pasivo, participio) - mantenerse o llegar a mantenerse en un determinado estado, posición o actividad.[^1]
 
@@ -209,9 +209,9 @@ Title: 1 & 2 Pedro
 
 ##### La fe es mencionada 5 veces en 1 Pedro. 4 de las 5 veces están en el primer capítulo. 3 de las 5 veces usa el posesivo, "*su fe*" o "*la fe de ustedes*". 
 
-#### Significa que tu fe no te la dio Dios. Significa que no tienes que dudar si Dios te dio la fe o no. 
+#### Significa que tu fe no te la dio Dios como un don. Significa que no tienes que dudar si Dios te dio la fe o no. 
 
-#### Significa que es tu fe, nuestra fe que pusimos en Dios. El conocio este hecho de antemano y pudo actuar sobre ello. ¡Que asombroso! 
+#### Significa que es tu fe que pusiste en Dios. El conocio este hecho de antemano y pudo actuar sobre ello. ¡Que asombroso! Habacúc 2:4
 
 #### Significa que nuestra fe es el medio por el cual tenemos plena seguridad que Dios asegura protegernos para recibir esa herencia reservada para cada uno de los que El conoció de antemano. 
 
@@ -227,15 +227,15 @@ Title: 1 & 2 Pedro
 
 ###### El que no responde a la revelación que ha recibido de Dios queda inexcusable ante Dios. Romanos 1:20, 2:1 
 
-#### "*son protegidos*" PHROUREO (presente, pasivo, participio) - estar o volverse seguro y mantenerse bajo vigilancia.[^1] Somos continuamente los protegidos por Dios. No es nuestra fe que nos protege, es Dios. 
+#### "*son protegidos*" PHROUREO (presente, pasivo, participio) - estar o volverse seguro y mantenerse bajo vigilancia.[^1] Somos continuamente los protegidos por Dios. No es nuestra fe que nos protege, es Dios. Judas 1:24
 
 ##### Esto es algo asombroso. Vimos previamente que "*mediante la resurrección*" de Cristo hemos nacido de nuevo. Ahora vemos que mediante la fe estamos protegidos. 
 
-##### En el plan soberano de Dios, Él estableció que la salvación sea únicamente por la fe. El medio por el cual el hombre es salvo es por el medio de la fe en Jesucristo. 
+##### En el plan soberano de Dios, Él estableció que la salvación sea únicamente por la fe. El medio por el cual el hombre es salvo es por el medio de la fe en Jesucristo. Romanos 3:22
 
-##### ¿Es tan poderosa nuestra fe como para protegernos? No. Lo que es poderoso es que Dios declara que todo el que en Él cree, no será decepcionado (1 Pedro 2:6). Lo que es poderoso es que Dios conoció de antemano de nuestra fe y nos protege para recibir lo que Él prometió. Haber puesto nuestra confianza en Dios nos asegura todas estas cosas. 
+##### ¿Es tan poderosa nuestra fe como para protegernos? No. Lo que es poderoso es que Dios declara que todo el que en Él cree, no será decepcionado (1 Pedro 2:6). Lo que es poderoso es que Dios conoció de antemano nuestra fe y nos protege para recibir lo que Él prometió. Haber puesto nuestra confianza en Dios nos asegura todas estas cosas. 
 
-#### Los resultados de la fe son eternas. 
+#### Los resultados de la fe son eternas. Juan 3:16; Romanos 5:2
 
 ##### ¿Cómo podemos saber con seguridad que Dios nos hizo nacer y que Dios nos protege? ¿Cómo se que se aplica a mi? Mediante nuestra fe podemos estar plenamente convencidos que Dios garantiza mi salvación pasada, presente y futura. 
 
@@ -351,7 +351,7 @@ Title: 1 & 2 Pedro
 
 ### 1 Pedro 1:10c "*...diligentemente inquirieron y averiguaron...*" para una persona viviendo bajo la ley, debió llamarles la atención las cosas que estaban siendo reveladas sobre la gracia que iva de venir.  Lucas 10:24
 
-#### Similarmente, a nosotros nos llama la atención muchas cosas sobre el Reino Milenial de Cristo. Quisieramos indigar y averiguar sobre ese tiempo. 
+#### Similarmente por ejemplo, a nosotros nos llama la atención muchas cosas sobre el Reino Milenial de Cristo. Quisieramos indigar y averiguar sobre ese tiempo. 
 
 ### 1 Pedro 1:11a  "*...procurando saber qué persona o tiempo indicaba el Espíritu de Cristo dentro de ellos...*" La revelación de Dios sobre su plan ha sido progresiva. Los que vinieron antes de nosotros (la iglesia) no sabían muchas cosas que a nosotros se nos ha revelado. 
 
@@ -395,11 +395,13 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 1:13f *"...completamente en la gracia que se les traerá en la revelación de Jesucristo."* Apoyarse, completamente en la gracia que será traída en la revelación de Jesucristo debe ser al centro de la diana de su mirada. 
 
-###  1 Pedro 1:14a *"Como hijos obedientes..."* Igual que un hijo que escucha a la voz sus padres.
+###  1 Pedro 1:14a *"Como hijos obedientes..."* Igual que un hijo que escucha a la voz sus padres. Romanos 16:19
 
-###  1 Pedro 1:14b "*no se conformen a los deseos que antes tenían en su ignorancia...*" ¿que deseos tenían a los que no debían conformarse?
+###  1 Pedro 1:14b "*no se conformen a los deseos que antes tenían en su ignorancia...*" ¿que deseos tenían a los que no debían conformarse? Efesios 2:1-3
 
-#### "*Conformen*" SYSCHEMATIZO (presente, media o pasiva, participio) - ser o volverse conductual o socialmente similar a; concebido como ser o llegar a ser moldeado o formado según un patrón determinado.[^1]
+#### "*no se conformen*" SYSCHEMATIZO (presente, media o pasiva, participio) - ser o volverse conductual o socialmente similar a; concebido como ser o llegar a ser moldeado o formado según un patrón determinado.[^1]
+
+#### "*deseos*" EPITHYMIA - un anhelo desmesurado y autocomplaciente (que desplaza los afectos apropiados hacia Dios).[^1]
 
 ###  1 Pedro 1:15a "*sino que así como Aquel que los llamó es Santo...*" Estos creyentes expatriados habían sido llamados por una persona. El énfasis aquí no es a dónde les llamo, no cómo les llamo, sino que clase de persona es, Dios es santo. 
 
@@ -421,7 +423,7 @@ Title: 1 & 2 Pedro
 
 ##### Es un mandato para el creyente permitir que Dios nos santifique. 
 
-###  1 Pedro 1:17a "*Y si invocan como Padre a Aquel que imparcialmente juzga según la obra de cada uno...*" 
+###  1 Pedro 1:17a "*Y si invocan como Padre a Aquel que imparcialmente juzga según la obra de cada uno...*" Dios no hace acepción de personas. 
 
 #### "*invocan*" EPICALEOMAI - invocar una deidad para pedir ayuda o protección; especialmente como reconocimiento de sumisión y deferencia a una deidad específica.[^1] Hechos 2:21, 7:59, 9:21; Romanos 10:12, 14; 1 Corintios 1:2; 2 Timoteo 2:22
 
@@ -498,7 +500,7 @@ Title: 1 & 2 Pedro
 
 #### La humanidad es corruptible, es falible y no permanece.
 
-#### 1 Juan 2:17 "*El mundo pasa, y también sus pasiones, pero el que hace la voluntad de Dios permanece para siempre*". 
+##### 1 Juan 2:17 "*El mundo pasa, y también sus pasiones, pero el que hace la voluntad de Dios permanece para siempre*". 
 
 #####  El hombre no es constante. Jeremías 1:5
 
@@ -510,7 +512,7 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 1:24b "*Y TODA SU GLORIA COMO LA FLOR DE LA HIERBA*" la flor es producto de la hierba. 
 
-####  No dice el versículo que el mundo no tiene gloria, dice que que la gloria de toda carne es como la flor de la hierba. Salmo 90:5-6
+####  No dice el versículo que el mundo no tiene gloria, dice que la gloria de toda carne es como la flor de la hierba. Salmo 90:5-6
 
 ###  1 Pedro 1:24c "*SÉCASE LA HIERBA, CÁESE LA FLOR,*" Las personas luchan para mantener la flor sin secarse porque al secarse la flor desvanece su gloria. La flor tiene una gloria poca duradera. Santiago 1:10-11
 
@@ -538,7 +540,7 @@ Title: 1 & 2 Pedro
 
 ## En Síntesis (1 Timoteo 1:10-25)
 
-### LOS PROFETAS DEL ANTIGUO TESTAMENTO Y NUESTRA SALVACIÓN (1:10-12a)
+### Los profetas del Antiguo Testamento y nuestra salvación (1:10-12)
 
 #### Lo que no entendieron: No pudieron comprender plenamente todas sus profecías concernientes a la obra futura del Mesías. 
 
@@ -548,7 +550,7 @@ Title: 1 & 2 Pedro
 
 #### Lo que sí entendieron: Sabían que sus profecías no se cumplirían hasta después de su muerte. (1:12a)
 
-### LOS ÁNGELES Y NUESTRA SALVACIÓN (1:12b): Anhelaban saber más sobre este maravilloso tema.
+### Los ángeles y nuestra salvación (1:12b): Anhelaban saber más sobre este maravilloso tema.
 
 ### LA RESPUESTA A NUESTRA SALVACIÓN (1:13-17)
 
@@ -1023,16 +1025,6 @@ Title: 1 & 2 Pedro
 
   ### LA RELACIÓN (2:4-12)
 
-#### Qué son los cristianos (2:5, 9a, 10-11a)
-
-##### Somos piedras vivas (2:5a).
-
-##### Somos sacerdotes reales (2:5b).
-
-##### Somos un pueblo escogido (2:9a, 10).
-
-##### Somos extranjeros en la tierra (2:11a).
-
 #### Qué es Cristo (2:4, 6-8, 9b, 12)
 
 ##### Él es el fundamento vivo (2:4a).
@@ -1048,6 +1040,16 @@ Title: 1 & 2 Pedro
 ##### Él es el juez (2:12).
 
 ##### Él es la luz (2:9b).
+
+#### Qué son los cristianos por medio de Cristo (2:5, 9a, 10-11a)
+
+##### Somos piedras vivas (2:5a).
+
+##### Somos sacerdotes reales (2:5b).
+
+##### Somos un pueblo escogido (2:9a, 10).
+
+##### Somos extranjeros en la tierra (2:11a).
 
    ### EL RESPETO (2:13-20): 
 
@@ -1093,7 +1095,7 @@ Title: 1 & 2 Pedro
 
 ### Ahora los creyentes tenían un Pastor y Cuidador, alguien que velaría por ellos, la seguridad que Él les daba iba mas allá del daño físico que podrían recibir. La seguridad que Cristo les daba era espiritual y eterna.
 
-### Estos creyentes, Sus ovejas, talvez estaban extraviadas de su tierra, de su nación. Pero ahora habían sido regresadas al Pastor, ahora estaban seguras en Su rebaño, el de Cristo.
+### Estos creyentes, Sus ovejas, talvez estaban extraviadas de su tierra, de su nación. Pero habían sido regresadas al Pastor, estaban seguras en Su rebaño, el de Cristo.
 
 ### Comprender estas verdades de nuestro Señor Jesucristo y Su obra tendría un resultado en la vida personal de los cristianos y en sus relaciones con los demás. 
 
@@ -1869,11 +1871,13 @@ Title: 1 & 2 Pedro
 
 ## Jóvenes
 
-### 1 Pedro 5:5 "*...Asimismo*" de la misma manera, así como aprenden del ejemplo de los ancianos...
+### 1 Pedro 5:5 "*...Asimismo*" De la misma manera, así como aprenden del ejemplo de los ancianos... Pedro continuara con una misma linea segun el contexto.
 
 ### 1 Pedro 5:5 "*ustedes, los más jóvenes, estén sujetos a los mayores*" [ancianos RVR60]. 
 
 #### "*mayores*" PRESBUTEROS, seria mejor traducido ancianos, especialmente según el contexto. 
+
+#### Estar sujetos esta en funcion del rol, los mas jovenes puden ponerse bajo los ancianos, de la misma manera que un anciano esta sujeto (bajo de) el Principe de los pastores.
 
 ### 1 Pedro 5:5 "*Y todos, revístanse de humildad en su trato mutuo,*" Es claro, de humildad en trato mutuo no es algo que sera posible separado de Cristo. Es facil vernos de manera soberbia y no como quienes somos en realidad. Jesus dijo aprended de mi que soy manso y humilde. 
 
