@@ -318,61 +318,61 @@ Title: 1 & 2 Pedro
 
 ## 1 Pedro 1:10-12 Cumplimiento de la fe anunciado
 
-### 1 Pedro 1:10a  "*Acerca de esta salvación, los profetas que profetizaron...*" La manera que Dios llevaría a efectuar la salvación era incierta para los profetas. 
+### 1 Pedro 1:10a  "*Acerca de esta salvación, los profetas que profetizaron...*" La manera que <u>Dios</u> llevaría a efectuar la salvación era incierta para los profetas. 
 
-#### La palabra salvación SOZO es usada 4 veces en 1 Pedro y una vez en 2 Pedro. 1 Pedro 1:5, 9, 10, 2:2; 2 Pedro 3:15
+#### La palabra salvación SOZO es usada 4 veces en 1 Pedro y una <u>vez</u> en 2 Pedro. 1 Pedro 1:5, 9, 10, 2:2; 2 Pedro 3:15
 
 #### Veamos el uso de almas PSUCHE en 1 Pedro. 1 Pedro 1:9, 22, 2:11, 2:25, 3:20, 4:19
 
-##### 1Pedro 1:9 "*obteniendo, como resultado de su fe, la salvación de sus **almas**.*" Esta hablando de una salvación obtenida ya o que estaba en proceso? 
+##### 1Pedro 1:9 "*obteniendo, como resultado de su fe, la <u>salvación</u> de sus **almas**.*" Esta hablando de una salvación obtenida ya o que estaba en proceso? 
 
-###### 1 Pedro 1:22 "*Puesto que en obediencia a la verdad ustedes han purificado sus **almas** para un amor sincero de hermanos, ámense unos a otros entrañablemente, de corazón puro.*" Se hicieron purificados (perfecto, activo, participio) sus almas por medio de la obediencia a la verdad. Santificación. 
+###### 1 Pedro 1:22 "*Puesto que en obediencia a la verdad ustedes han purificado sus **almas** para un amor sincero de hermanos, ámense unos a otros entrañablemente, de corazón puro.*" Se hicieron purificados (perfecto, activo, participio) sus almas por medio de la obediencia a la <u>verdad</u>. Santificación. 
 
-###### 1 Pedro 2:25 "*Pues ustedes andaban descarriados como ovejas, pero ahora han vuelto al Pastor y Guardián de sus **almas**.*" 
+###### 1 Pedro 2:25 "*Pues ustedes andaban descarriados como ovejas, pero ahora han <u>vuelto</u> al Pastor y Guardián de sus **almas**.*" 
 
-###### 1 Pedro 3:20 "*quienes en otro tiempo fueron desobedientes cuando la paciencia de Dios esperaba en los días de Noé durante la construcción del arca, en la cual unos pocos, es decir, ocho personas* [almas], *fueron salvadas por medio del agua.*" 
+###### 1 Pedro 3:20 "*quienes en otro tiempo fueron desobedientes cuando la paciencia de Dios esperaba en los días de Noé durante la construcción del arca, en la cual unos pocos, es decir, <u>ocho</u> personas* [almas], *fueron salvadas por medio del agua.*" 
 
-###### 1 Pedro 4:19 "*Así que los que sufren conforme a la voluntad de Dios, encomienden sus **almas** al fiel Creador, haciendo el bien.*" 
+###### 1 Pedro 4:19 "*Así que los que <u>sufren</u> conforme a la voluntad de Dios, encomienden sus **almas** al fiel Creador, haciendo el bien.*" 
 
-### 1 Pedro 1:10b "*de la gracia que vendría a ustedes...*" una gracia venidera no significa que no hemos recibido gracia y que debemos esperar para posiblemente recibirlo. Significa que recibimos gracia sobre gracia. 
+### 1 Pedro 1:10b "*de la gracia que vendría a ustedes...*" una gracia venidera no significa que no hemos recibido gracia y que debemos <u>esperar</u> para posiblemente recibirlo. Significa que recibimos gracia sobre gracia. 
 
-#### Fuimos salvos por gracia. Efesios 2:8
+#### Fuimos salvos <u>por</u> gracia. Efesios 2:8
 
-#### Estamos firmes en la gracia. Romanos 5:2
+#### Estamos firmes <u>en</u> la gracia. Romanos 5:2
 
-#### Somos protegidos del libertinage al ser enseñados por la gracia. 2 Pedro 3:17-18
+#### Somos protegidos del libertinaje al ser enseñados <u>por</u> la gracia. 2 Pedro 3:17-18
 
-#### Somos enseñados a vivir piadosamente por la gracia y a tener bien enfocado nuestra esperanza. Tito 2:11-12
+#### Somos enseñados a vivir piadosamente <u>por</u> la gracia y a tener bien enfocado nuestra esperanza. Tito 2:11-12
 
-#### La gracia nos enseña a tener esperanza en Jesucristo. 1 Pedro 1:13; Tito 2:13
+#### La gracia nos enseña a tener esperanza <u>en</u> Jesucristo. 1 Pedro 1:13; Tito 2:13
 
-#### La gracia nos enseña a ser celoso de buenas obras. Tito 2:14
+#### La gracia nos enseña a ser celoso <u>de</u> buenas obras. Tito 2:14
 
-### 1 Pedro 1:10c "*...diligentemente inquirieron y averiguaron...*" para una persona viviendo bajo la ley, debió llamarles la atención las cosas que estaban siendo reveladas sobre la gracia que iva de venir.  Lucas 10:24
+### 1 Pedro 1:10c "*...diligentemente inquirieron y averiguaron...*" para una persona viviendo bajo la ley, debió llamarles la atención las cosas que estaban siendo reveladas sobre la <u>gracia</u> que iba de venir.  Lucas 10:24
 
-#### Similarmente por ejemplo, a nosotros nos llama la atención muchas cosas sobre el Reino Milenial de Cristo. Quisieramos indigar y averiguar sobre ese tiempo y sabemos ciertas cosas acerca de ese tiempo pero Dios no nos ha revelado todo detalle. 
+#### Similarmente por ejemplo, a nosotros nos llama la atención muchas cosas sobre el Reino Milenial de Cristo. Quisiéramos indagar y averiguar sobre ese tiempo y sabemos ciertas cosas acerca de ese <u>tiempo</u> pero Dios no nos ha revelado todo detalle. 
 
-### 1 Pedro 1:11a  "*...procurando saber qué persona o tiempo indicaba el Espíritu de Cristo dentro de ellos...*" La revelación de Dios sobre su plan ha sido progresiva. Los que vinieron antes de nosotros (la iglesia) no sabían cosas que a nosotros se nos ha revelado. Hechos 26:22; Apocalipsis 22:6
+### 1 Pedro 1:11a  "*...procurando saber qué persona o tiempo indicaba el Espíritu de Cristo dentro de ellos...*" La revelación de Dios sobre su plan ha sido progresiva. Los que vinieron antes de nosotros (la iglesia) <u>no</u> sabían cosas que a nosotros se nos ha revelado. Hechos 26:22; Apocalipsis 22:6
 
-### 1 Pedro 1:11b "*...al predecir los sufrimientos de Cristo y las glorias que seguirían...*" Los sufrimientos de Cristo fueron predichos y también las glorias que seguirían. 
+### 1 Pedro 1:11b "*...al predecir los sufrimientos de Cristo y las glorias que seguirían...*" Los sufrimientos de <u>Cristo</u> fueron predichos y también las glorias que seguirían. 
 
 #### Predijeron Sus Sufrimientos
 
-##### Isaías 53:11 *Debido a la **angustia de Su alma**, Él lo verá y quedará satisfecho. Por Su conocimiento, el Justo, Mi Siervo, justificará a muchos, Y **cargará las iniquidades** de ellos.*
+##### Isaías 53:11 *Debido a la **angustia de Su alma**, Él lo verá y quedará satisfecho. Por Su conocimiento, el Justo, Mi Siervo, justificará a <u>muchos</u>, Y **cargará las iniquidades** de ellos.*
 
 #### Predijeron Sus glorias que seguirían
 
-##### Isaías 53:12 *Por tanto, Yo **le daré** parte **con los grandes** Y con los fuertes **repartirá despojos**, Porque derramó Su alma hasta la muerte Y con los transgresores fue contado; Llevó el pecado de muchos, E intercedió por los transgresores.*
+##### Isaías 53:12 *Por tanto, Yo **le daré** parte **con los grandes** Y con los fuertes **repartirá despojos**, Porque derramó Su alma hasta la <u>muerte</u> Y con los transgresores fue contado; Llevó el pecado de muchos, E intercedió por los transgresores.*
 
-### 1 Pedro 1:12a  "*...A ellos les fue revelado que no se servían a sí mismos, sino a ustedes...*" Había una razón más alla de solo revelar el sufrimiento y glorias postreras de Cristo...era para los lectores de la carta y para nosotros. Romanos 4:22-25
+### 1 Pedro 1:12a  "*...A ellos les fue revelado que no se servían a sí mismos, sino a ustedes...*" Había una razón más allá de solo revelar el sufrimiento y glorias postreras de Cristo. Era <u>para</u> los lectores de la carta y para nosotros. Romanos 4:22-25
 
-### 1 Pedro 1:12b "*...en estas cosas que ahora les han sido anunciadas mediante los que les predicaron el evangelio por el Espíritu Santo enviado del cielo...*" Mayor revelación habían recibido que los que anunciaron sobre los sufrimientos de Cristo y las glorias que seguirían. 
+### 1 Pedro 1:12b "*...en estas cosas que ahora les han sido anunciadas mediante los que les predicaron el evangelio por el Espíritu Santo enviado del cielo...*" Mayor revelación habían recibido que los que anunciaron <u>sobre</u> los sufrimientos de Cristo y las glorias que seguirían. 
 
-### 1 Pedro 1:12c "*...cosas a las cuales los ángeles anhelan mirar...*" los ángeles desearian poder ver lo que el creyente de la edad de la iglesia ya ha sido revelado. 
+### 1 Pedro 1:12c "*...cosas a las cuales los ángeles anhelan mirar...*" los ángeles desearían poder ver lo que el creyente de la edad de la iglesia ya ha <u>sido</u> revelado. 
 
-#### "*Anhelan*" EPITHUMEO - tener un deseo intenso por alguna cosa en particular.[^1]
+#### "*Anhelan*" EPITHUMEO - tener un <u>deseo</u> intenso por alguna cosa en particular.[^1]
 
-#### "*Mirar*" PARAKYPTO - examinar, concebido como hacer un esfuerzo para ver algo (que no está en la línea de visión) agachándose o inclinándose.[^1]
+#### "*Mirar*" PARAKYPTO - examinar, concebido como hacer un esfuerzo para <u>ver</u> algo (que no está en la línea de visión) agachándose o inclinándose.[^1]
 
 ## 1 Pedro 1:13-21 – Preparando el entendimiento para la acción
 
