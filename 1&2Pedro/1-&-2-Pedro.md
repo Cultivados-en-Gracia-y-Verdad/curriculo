@@ -1683,7 +1683,7 @@ Title: 1 & 2 Pedro
 
 ##### Juan 3:36 "*El que cree en el Hijo tiene vida eterna; pero el que rehúsa creer en el Hijo no verá la vida, sino que la ira de Dios está sobre él.*" (RVR60), Cualquiera que se rehúsa a creer no significa que Dios no le dio la fe para creer, sino que el creer es la participación de todo hombre en la salvación, ya que solamente es por medio de la fe en Cristo que hemos sido librados de la condenación. 1 Pedro 1:9
 
-#### Es por esto que al dar cuentas ellos, serán inexcusables, porque Dios hizo posible para que todos los hombres puedan llegar a la salvación, ya que ellos mismos evidenciaron la obra de Dios en otras personas que hicieron anduvieron en la voluntad de Dios y en vez de ellos acercarse por la Fe, los insultaron y calumniaron. 
+#### Es por esto que al dar cuentas ellos, serán inexcusables, porque Dios hizo posible para que todos los hombres puedan llegar a la salvación, ya que ellos mismos evidenciaron la obra de Dios en otras personas que anduvieron en la voluntad de Dios y en vez de ellos acercarse por la Fe al salvador, los insultaron y calumniaron. 
 
 ### 1 Pedro 4:5b "*...que está preparado para juzgar a los vivos y a los muertos.*"
 
