@@ -1859,11 +1859,13 @@ Title: 1 & 2 Pedro
 
 ## Jóvenes
 
-### 1 Pedro 5:5 "*...Asimismo*" de la misma manera, así como aprenden del ejemplo de los ancianos...
+### 1 Pedro 5:5 "*...Asimismo*" De la misma manera, así como aprenden del ejemplo de los ancianos... Pedro continuara con una misma linea segun el contexto.
 
 ### 1 Pedro 5:5 "*ustedes, los más jóvenes, estén sujetos a los mayores*" [ancianos RVR60]. 
 
 #### "*mayores*" PRESBUTEROS, seria mejor traducido ancianos, especialmente según el contexto. 
+
+#### Estar sujetos esta en funcion del rol, los mas jovenes puden ponerse bajo los ancianos, de la misma manera que un anciano esta sujeto (bajo de) el Principe de los pastores.
 
 ### 1 Pedro 5:5 "*Y todos, revístanse de humildad en su trato mutuo,*" Es claro, de humildad en trato mutuo no es algo que sera posible separado de Cristo. Es facil vernos de manera soberbia y no como quienes somos en realidad. Jesus dijo aprended de mi que soy manso y humilde. 
 
