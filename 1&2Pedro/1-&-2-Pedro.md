@@ -1754,15 +1754,15 @@ Title: 1 & 2 Pedro
 
 ### 1 Pedro 5:1 *exhorto yo...y testigo de los padecimientos de Cristo,* Es curioso, aunque Pedro vio ocularmante parte del juicio de Jesús, no estuvo durante todos sus padecimientos. Entonces, ¿a que se refiere? Marcos 14:66-72; Mateo 26:31, 69-75; Lucas 22:31-34, 54, 61-62; Juan 18:15-18, 25-27. 
 
-#### En el contexto de la carta, Pedro tambien habría estado siendo participante de las aflicciones de Cristo, entonces el funge como testigo al atravesar por las afliciones. Vivir piadosamente en Cristo traerá afflicciones. Hechos 4:21-22; 5:45; 1 Pedro 4:4, 4:12-16, 2:20-21; 2 Timoteo 3:12; 1 Tesalonicenses 3:3-4
+#### En el contexto de la carta, Pedro también habría estado siendo participante de las aflicciones de Cristo, entonces el funge como testigo al atravesar por las aflicciones. Vivir piadosamente en Cristo traerá aflicciones. Hechos 4:21-22; 5:45; 1 Pedro 4:4, 4:12-16, 2:20-21; 2 Timoteo 3:12; 1 Tesalonicenses 3:3-4
 
-### 1 Pedro 5:1 *exhorto yo...y también participante de la gloria que ha de ser revelada:* Asi como ha sido participante de los sufrimientos de Cristo, es participante de su gloria. 2 Timoteo 2:9-13; 2 Pedro 1:11
+### 1 Pedro 5:1 *exhorto yo...y también participante de la gloria que ha de ser revelada:* Así como ha sido participante de los sufrimientos de Cristo, es participante de su gloria. 2 Timoteo 2:9-13; 2 Pedro 1:11
 
-#### Pedro mismo se mostra como un creyente que padecio por causa de Cristo. Asi también como un creyente que al haber padecido sufrimientos por Cristo seria participante de Su gloria.  
+#### Pedro mismo se muestra como un creyente que padeció por causa de Cristo. Así también como un creyente que al haber padecido sufrimientos por Cristo seria participante de Su gloria.  
 
-#### Esta gloria se manifestara en un tiempo futuro, aludiendo a la segunda venida de Cristo, donde el sera manifestado en gloria.
+#### Esta gloria se manifestara en un tiempo futuro, aludiendo a la segunda venida de Cristo, donde el será manifestado en gloria.
 
-### 1 Pedro 5:2 *pastoreen* un anciano tiene el rol (responsabilidad) de pastorear, apasentar el rebaño. Esto no solo incluye velar, sino proteger y guiar hacia pastos verdes, hacia Cristo. 
+### 1 Pedro 5:2 *pastoreen* un anciano tiene el rol (responsabilidad) de pastorear, apacentar el rebaño. Esto no solo incluye velar, sino proteger y guiar hacia pastos verdes, hacia Cristo. 
 
 #### Muchas veces pasar por sufrimientos puede desalentar a los creyente, entre ellos a los ancianos provocando se apatrten de su rol o descuidandolo.
 
@@ -1782,27 +1782,27 @@ Title: 1 & 2 Pedro
 
 #### A continuacion veremos como Dios quiere que un anciano pastoree velando por el rebaño, asi mismo como Dios no quiere que se pastoree sobre su rebaño.
 
-### 1 Pedro 5:2 *como quiere Dios; no por la avaricia del dinero,* un anciano no deberia pastorear por la aviricia del dinero. No significa que el obrero no es digno de su salario. Aquí el problema es que su foco no es velar por el rebaño, sino el dinero, como un asalariado que no le importa el rebaño. 
+### 1 Pedro 5:2 *como quiere Dios; no por la avaricia del dinero,* un anciano no debería pastorear por la avaricia del dinero. No significa que el obrero no es digno de su salario. Aquí el problema es que su foco no es velar por el rebaño, sino el dinero, como un asalariado que no le importa el rebaño. 
 
 ### 1 Pedro 5:2 *como quiere Dios...sino con sincero deseo;* Dios quiere que lleven acabo su rol con sincero deseo de velar por la grey y guiarlos hacia Cristo. 
 
-#### Esto es muy importante considerando que el anciono es el reponsable de enseñar el evangelio al rebaño y cuidarlos de falsa enseñanza.
+#### Esto es muy importante considerando que el anciano es el responsable de enseñar el evangelio al rebaño y cuidarlos de falsa enseñanza.
 
 ### 1 Pedro 5:3 *tampoco como teniendo señorío sobre los que les han sido confiados,* Podemos ver que un anciano no debe pastorear pretendiendo tener señorío o estar sobre los creyentes. El anciano no es señor o un mandamás del rebaño donde la palabra del anciano es ley. 
 
-#### El anciano debe ser conciente de que el tambien forma parte del rebaño entre el cual pastorea.
+#### El anciano debe ser consiente de que el también forma parte del rebaño entre el cual pastorea.
 
 #### Podemos ver que creyentes le fueron confiados al anciano, como el dueño de casa que le confia uno de sus siervos el bienestar de sus compañeros.
 
 ### 1 Pedro 5:3 *sino demostrando ser ejemplos del rebaño.* un anciano debe ser ejemplo entre los creyentes de un andar de fe en dependencia de Dios. Enseñando a sujetarse y afirmarse a Cristo y no a ellos. Deben ser un ejemplo de lo que la gracia de Dios puede hacer. 
 
-#### Lo facil es que en medio de aflicciones un anciano abandone al rebaño, acomodandose a cambiar la escritura con tal de no sufrir por la palabra del evangelio. Tambien podria tomar posesion del rebaño para enriqueserse, buscando su bienestar. 
+#### Lo fácil es que en medio de aflicciones un anciano abandone al rebaño, acomodándose a cambiar la escritura con tal de no sufrir por la palabra del evangelio. También podría tomar posesión del rebaño para enriquecerse, buscando su bienestar. 
 
 #### Pero que hermoso es cuando aun en medio de sufrimientos por causa de Cristo su esperanza este puesta en El, desando velar por el rebaño, siendo ejemplo en fe, esto se muestra agradable delante de Dios.
 
 ### 1 Pedro 5:4 *Y cuando aparezca el Príncipe de los pastores,* Jesús es descrito como el Príncipe de los pastores. El anciano como pastor, esta por debajo del Príncipe de pastores. 
 
-#### Esta descripcion se puede traducir como el jefe de los pastores.
+#### Esta descripción se puede traducir como el jefe de los pastores.
 
 #### Es dificil el pastorear al rebaño. Es facil perder el foco del porque seguir.  El anciano es invitado a poner su esperanza en la venida del Señor. 
 
@@ -1816,9 +1816,9 @@ Title: 1 & 2 Pedro
 
 #### "*mayores*" PRESBUTEROS, seria mejor traducido ancianos, especialmente según el contexto. 
 
-#### Estar sujetos esta en funcion del rol, los mas jovenes puden ponerse bajo los ancianos, de la misma manera que un anciano esta sujeto (bajo de) el Principe de los pastores.
+#### Estar sujetos esta en función del rol, los mas jóvenes pueden ponerse bajo los ancianos, de la misma manera que un anciano esta sujeto (bajo de) el Príncipe de los pastores.
 
-### 1 Pedro 5:5 "*Y todos, revístanse de humildad en su trato mutuo,*" Es claro, de humildad en trato mutuo no es algo que sera posible separado de Cristo. Es facil vernos de manera soberbia y no como quienes somos en realidad. Jesus dijo aprended de mi que soy manso y humilde. 
+### 1 Pedro 5:5 "*Y todos, revístanse de humildad en su trato mutuo,*" Es claro, de humildad en trato mutuo no es algo que será posible separado de Cristo. Es fácil vernos de manera soberbia y no como quienes somos en realidad. Jesús dijo aprended de mi que soy manso y humilde. 
 
 #### A la luz de la verdad en Cristo aprendemos a andar en relación de quienes somos en realidad y a tratar a nuestros hermanos como quienes son en verdad, hijos de Dios, salvados por gracia, amados por Dios nuestra salvación, (gracia) no proviene de nosotros sino de Dios. Filipenses 2:3-4
 
@@ -1826,71 +1826,71 @@ Title: 1 & 2 Pedro
 
 #### Tal vez pensamos que Dios solo resiste a los incrédulos pero aquí vemos que también lo hace con los creyentes que andan en soberbia.
 
-#### Como creyentes debemos aprender a vernos segun la verdad, pecadores salvos por gracia en Cristo. Ejemplo: Un sano no tiene necesidad de medico, los auto proclamado buenos o justos del mundo no tienen necesidad de un salvador.
+#### Como creyentes debemos aprender a vernos según la verdad, pecadores salvos por gracia en Cristo. Ejemplo: Un sano no tiene necesidad de medico, los auto proclamado buenos o justos del mundo no tienen necesidad de un salvador.
 
 ### 1 Pedro 5:5 "*PERO DA GRACIA A LOS HUMILDES.*" Dios da gracia a los humildes. Un claro ejemplo es al momento de la salvación (gracia) por la fe. 
 
 #### Al contemplar a Dios y su santidad, su estandar perfecto de justicia, haciendo una comparativa conocemos nuestra condicion, faltos de justicia pecadores dignos de muerte, perdidos, necesitados de salvacion por ser incapaces de salvarnos, salvados por gracia al creer en la persona y obra de Jesucristo.
 
-#### A veces pensamos que humildad es bajarse hasta el piso como persona, pero en realidad es persibir segun la verdad quines somos.
+#### A veces pensamos que humildad es bajarse hasta el piso como persona, pero en realidad es percibir según la verdad quienes somos.
 
-### 1 Pedro 5:6 "*Humíllense, pues,*" Lo que Pedro propone aquí no es que nos aflijamos delante de Él sino más bien que en medio de los sufrimientos es facil decir que padecemos injustamente, ignorando la verdad y exigiendo justicia social, queriendo nosotros actuar. FIlipenses 2:5-11
+### 1 Pedro 5:6 "*Humíllense, pues,*" Lo que Pedro propone aquí no es que nos aflijamos delante de Él sino más bien que en medio de los sufrimientos es fácil decir que padecemos injustamente, ignorando la verdad y exigiendo justicia social, queriendo nosotros actuar. Filipenses 2:5-11
 
 #### Humillarse esta unido a no estimarnos más de lo que somos, no somos como jueces o justicieros. 
 
-### 1 Pedro 5:6 "*bajo la poderosa mano de Dios,*" Humillarse esta ligado a colocarse bajo la poderosa mano de Dios. Andar segun quienes somos en Cristo confiados bajo la poderosa mano de Dios, esto tine gran peso entendiendo el contexto de estar atravesando por sufrimientos.
+### 1 Pedro 5:6 "*bajo la poderosa mano de Dios,*" Humillarse esta ligado a colocarse bajo la poderosa mano de Dios. Andar segun quienes somos en Cristo confiados bajo la poderosa mano de Dios, esto tiene gran peso entendiendo el contexto de estar atravesando por sufrimientos.
 
 #### Si padecemos o sufrimos como cristianos es un gozo porque somos participantes de las aflicciones de Cristo. No es que Dios se olvidó de nosotros pero en medio del sufrimiento podemos refugiarnos en Su poder y gracia.
 
-### 1 Pedro 5:6 "*para que Él los exalte*" El Padre exaltara al creyente que al conciderarse en la verdad se somete dejabo de su mano, en esto tenemos el ejemplo de Cristo que no se aferro a su divinidad sino que siendo hombre se sujeto al Padre bajo su mano. Filipenses 2:5-11
+### 1 Pedro 5:6 "*para que Él los exalte*" El Padre exaltara al creyente que al considerarse en la verdad se somete debajo de su mano, en esto tenemos el ejemplo de Cristo que no se aferro a su divinidad sino que siendo hombre se sujeto al Padre bajo su mano. Filipenses 2:5-11
 
 ### 1 Pedro 5:6 "*a su debido tiempo,*" Dios promete exaltar al que se humille bajo su poderosa mano. 
 
 #### No se nos dice en cuanto tiempo pero si dice que es seguro. Podemos descansar en Dios.
 
-### 1 Pedro 5:7 "*echando toda su ansiedad sobre Él,*" Echar nuestra anciedad tiene que ver porque Dios cuida de nosotros. 
+### 1 Pedro 5:7 "*echando toda su ansiedad sobre Él,*" Echar nuestra ansiedad tiene que ver porque Dios cuida de nosotros. 
 
-#### Es facil que en medio de los sufrimientos nos invada la ansiedad, literalmente se traduce habiendo hechado su ansiedad sobre el, cuando andamos considerando nuestra realidad bajo su mano, nuestras ansiedades son puestas sobre el. 
+#### Es fácil que en medio de los sufrimientos nos invada la ansiedad, literalmente se traduce habiendo echado su ansiedad sobre el, cuando andamos considerando nuestra realidad bajo su mano, nuestras ansiedades son puestas sobre el. 
 
 ### 1 Pedro 5:7 "*porque Él tiene cuidado de ustedes.*" Nuestra ansiedad que surge de los padecimientos puede ser echada porque el nos cuida. 
 
-### 1 Pedro 5:8 "*Sean de espíritu sobrio, estén alerta.*" Esto es un mandato a pensar correctamente, segun la verdad, sobrio esta relacionado a estar cuerdo, ver la realidad.
+### 1 Pedro 5:8 "*Sean de espíritu sobrio, estén alerta.*" Esto es un mandato a pensar correctamente, según la verdad, sobrio esta relacionado a estar cuerdo, ver la realidad.
 
-#### Asi mismo el creyente debe permanecer alerta o despierto, de manera que no sea sorprendido, esto tiene revelancia ya que seremos advertidoa acontinuacion.
+#### Así mismo el creyente debe permanecer alerta o despierto, de manera que no sea sorprendido, esto tiene relevancia ya que seremos advertidos a continuación.
 
-### 1 Pedro 5:8 "*Su adversario, el diablo, anda al acecho como león rugiente,*" Satanas esta esperando una oportunidad.
+### 1 Pedro 5:8 "*Su adversario, el diablo, anda al acecho como león rugiente,*" Satanás esta esperando una oportunidad.
 
-#### Satanas el que esta contra los creyente no permanece inmovil, el verso dice "anda", esto es activo y continuo de su parte, el esta acechando, permanece esperando una oportinuadad para tomar a su presa.
+#### Satanás el que esta contra los creyente no permanece inmóvil, el verso dice "anda", esto es activo y continuo de su parte, el esta acechando, permanece esperando una oportunidad para tomar a su presa.
 
-### 1 Pedro 5:8 "*buscando*" El está buscando a un creyente que flaquea por estos momentos de sufrimiento, uno que no esta pensando con cordura, o viendo con clsaridad ni esta alerta. 
+### 1 Pedro 5:8 "*buscando*" El está buscando a un creyente que flaquea por estos momentos de sufrimiento, uno que no esta pensando con cordura, o viendo con claridad ni esta alerta. 
 
 ### 1 Pedro 5:8 "*a quien devorar.*" Satanás los busca para devorarlos (destruirlos) en medio de los padecimientos. Esto no habla de que se pierden eternamente sino de estar afligidos por el engaño del diablo. 
 
 ### 1 Pedro 5:9 "*Pero resístanlo firmes en la fe,*" se nos dice resistir, quiere decir ir contra el, no dejarnos sorprender para ser devorados.
 
-#### Es interesante que resisitir no esta ligado a cosas para hacer aumentar nuestra espiritualidad. 
+#### Es interesante que resistir no esta ligado a cosas para hacer aumentar nuestra espiritualidad. 
 
 #### La manera de resistirlo es permaneciendo firmes en la fe. 
 
 ### 1 Pedro 5:9 "*sabiendo que las mismas experiencias de sufrimiento*" Hay algo que debemos saber.
 
-#### No somos los unicos que estamos atravesando por sufrimiento o persecucion por Cristo, hay mas creyentes en una situcion similar aunque no los conocemos.
+#### No somos los únicos que estamos atravesando por sufrimiento o persecución por Cristo, hay mas creyentes en una situación similar aunque no los conocemos.
 
-#### Para este tiempo muchos creyente habrian estado sindo perseguidos y muchos otros muertos, otros pasando escazes o en peligros del camino
+#### Para este tiempo muchos creyente habrían estado siendo perseguidos y muchos otros muertos, otros pasando escases o en peligros del camino
 
-### 1 Pedro 5:9 "*se van cumpliendo en sus hermanos en todo el mundo.*" muchas veces pensamos que somos los unicos que sufren, sin embargo, nuestros hermanos en todo el mundo tambien estan atravesando padecimiento en el nombre de Cristo.
+### 1 Pedro 5:9 "*se van cumpliendo en sus hermanos en todo el mundo.*" muchas veces pensamos que somos los únicos que sufren, sin embargo, nuestros hermanos en todo el mundo también están atravesando padecimiento en el nombre de Cristo.
 
 ### 1 Pedro 5:10 "*Y después de que hayan sufrido un poco de tiempo,*" tenemos un hecho esperanzador, no sufrimos eternamente. Los sufrimientos son temporales, aunque eso si no se nos dice cuanto tiempo ni hasta que punto. 
 
-#### Podemos ver que el atravezar por sufrimientos en el nombre de Cristo tiene un proposito.
+#### Podemos ver que el atravesar por sufrimientos en el nombre de Cristo tiene un propósito.
 
 ### 1 Pedro 5:10 "*el Dios de toda gracia,*" Dios el Padre lleno en gracia en Cristo Jesús. 
 
-#### Dios el Padre nos muestra que el sufrimiento como Cristiano tambien forma parte de su gracia en Cristo y en esa gracia tien un proposito para con el creyente.
+#### Dios el Padre nos muestra que el sufrimiento como Cristiano también forma parte de su gracia en Cristo y en esa gracia tiene un propósito para con el creyente.
 
 ### 1 Pedro 5:10 "*que los llamó a Su gloria eterna en Cristo,*" Dios el Padre fue el que nos llamó por medio del evangelio. Romanos 8:30-32
 
-#### Dios nos llamó a su gloria por medio de Cristo, en contraste a que antes estabamos destituidos de su gloria. 
+#### Dios nos llamó a su gloria por medio de Cristo, en contraste a que antes estábamos destituidos de su gloria. 
 
 ### 1 Pedro 5:10 "*Él mismo*" El Dios de toda gracia, El mismo que nos llamo tiene un propósito con el creyente en que este atraviese padecimientos por causa de Cristo, esto es una certeza, el mismo Dios lleno de gracia que nos salvó por medio de Cristo, es el mismo que nos perfeccionará por medio del sufrimiento. Filipenses 1:6, 29
 
@@ -1898,7 +1898,7 @@ Title: 1 & 2 Pedro
 
 #### "*perfeccionará*" KATARTIZO - dejar listo o adecuado o equipado de antemano para un propósito particular o para algún uso, evento u otro propósito.[^1]
 
-### 1 Pedro 5:10 "*Él mismo los...afirmará,*" Que bueno es saber que nos afirmará, especíalmente al resistir al diablo. 
+### 1 Pedro 5:10 "*Él mismo los...afirmará,*" Que bueno es saber que nos afirmará, especialmente al resistir al diablo. 
 
 #### "*afirmará*" STERIZO - hacer más marcado mediante una firme determinación o resolución.[^1]
 
@@ -1910,41 +1910,41 @@ Title: 1 & 2 Pedro
 
 #### "*establecerá*" THERMELIOO - fortalecer una cualidad o aspecto personal; concebido como colocar una piedra fundamental o un soporte.
 
-### 1 Pedro 5:11 "*A Él sea el dominio por los siglos de los siglos. Amén.*" Dios es el que domina en un medio de sufrimiento como no darle la gloria por lo que hará a traves de lo que muchas veces consideramos horrible. 
+### 1 Pedro 5:11 "*A Él sea el dominio por los siglos de los siglos. Amén.*" Dios es el que domina en un medio de sufrimiento como no darle la gloria por lo que hará a través de lo que muchas veces consideramos horrible. 
 
 # 1 Pedro 5:12-14 – Observaciones finales
 
 ### 1 Pedro 5:12 "*Por conducto de Silvano,*" Esto nos da a entender que Pedro probablemente haya dictado la carta a Silvano y este la escribió. 
 
-#### Por conducto se podría traducir a traves o por medio de Silvano.
+#### Por conducto se podría traducir a través o por medio de Silvano.
 
-#### El nombre de Silvano puede ser traducido como Silas. Silvano/Silas es mencionado en varios pasajes como compañero en el ministerio y enviado de Jerusalen. Hechos 15:22, 40
+#### El nombre de Silvano puede ser traducido como Silas. Silvano/Silas es mencionado en varios pasajes como compañero en el ministerio y enviado de Jerusalén. Hechos 15:22, 40
 
-### 1 Pedro 5:12 *nuestro fiel hermano, porque así lo considero,* Pedro consideraba que Silvano era confiable como creyente y hermano, tanto asi como para ser el escriba de esta carta. 
+### 1 Pedro 5:12 *nuestro fiel hermano, porque así lo considero,* Pedro consideraba que Silvano era confiable como creyente y hermano, tanto así como para ser el escriba de esta carta. 
 
-### 1 Pedro 5:12 *les he escrito brevemente,* Aqui podemos confirmar lo anterior visto pedro escribe a los creyentes por medio de Silvano. El contenido de su carta, que el creyente pasara por sifriminetos y que atravesarlos es parte de ser creyente, sin embargo, podemos descansar en la persona de Cristo gozandonos de que Dios nos cuente como dignos de padecer por Cristo.
+### 1 Pedro 5:12 *les he escrito brevemente,* Aquí podemos confirmar lo anterior visto pedro escribe a los creyentes por medio de Silvano. El contenido de su carta, que el creyente pasara por sufrimientos y que atravesarlos es parte de ser creyente, sin embargo, podemos descansar en la persona de Cristo gozándonos de que Dios nos cuente como dignos de padecer por Cristo.
 
 ### 1 Pedro 5:12 *exhortando* PARAKALEO - apoyar o alentar fervientemente una respuesta o acción. [^1]
 
-#### El contenido de la carta tiene el proposito de alentar y consolar a los creyentes a trves de mostar la verdad en los sufrimiento.
+#### El contenido de la carta tiene el propósito de alentar y consolar a los creyentes a través de mostrar la verdad en los sufrimiento.
 
 ### 1 Pedro 5:12 *y testificando* EPIMARTYREO - afirmar solemnemente algo, ofreciendo autenticación de primera mano del hecho; a menudo relacionado con asuntos serios o importantes.[^1]
 
-#### Asi mismo pedro dara testimonio en su carta por medio de Espiritu Santo.
+#### Así mismo pedro dará testimonio en su carta por medio de Espíritu Santo.
 
 ### 1 Pedro 5:12 *...que esta es la verdadera gracia de Dios.* La verdadera gracia de Cristo es ser participante en Cristo, no solamente de Sus triunfos sino también de Sus padecimientos. 
 
-### 1 Pedro 5:12 "*Estén firmes en ella*". Es de notar que no dice, estan firmes en ella como en otros pasajes. 
+### 1 Pedro 5:12 "*Estén firmes en ella*". Es de notar que no dice, están firmes en ella como en otros pasajes. 
 
 #### Esten firmes esta en el hecho de no moverse ni a izquierda ni a derecha de la verdadera Gracia de Dios.
 
 ### 1 Pedro 5:13 *La que está en Babilonia, elegida juntamente con ustedes, los saluda,* Pedro enviara los saludos de la iglesia.
 
-#### En este versiculo entramos en un reto de la interpretacion, hay dos posturas en cuanto a "La que esta en Babilonia". Si uno lo toma de manera literal, Pedro se encontaba en Babilonia de Mesopotamia al momento de la escritura de la carta. La otra opción dice que Babilonia es usado como una frase codigo para referirse a Roma.
+#### En este versículo entramos en un reto de la interpretación, hay dos posturas en cuanto a "La que esta en Babilonia". Si uno lo toma de manera literal, Pedro se encontraba en Babilonia de Mesopotamia al momento de la escritura de la carta. La otra opción dice que Babilonia es usado como una frase código para referirse a Roma.
 
 ##### El debate es, ¿a que se refiere con Babilonia? ¿es literal o simbólico?
 
-##### Existen argumentos que se trata de la ciudad de Babilonia es mesopotamia. Es posible dado que la ciudad seguía habitada en parte. Una población judía nunca retornaron del exilio bajo los Babilonios. Las evidencias a favor de Babilonia siendo literal son menos que las que apuntan que Babilonia representa Roma en aquel entonces. 
+##### Existen argumentos que se trata de la ciudad de Babilonia es Mesopotamia. Es posible dado que la ciudad seguía habitada en parte. Una población judía nunca retornaron del exilio bajo los Babilonios. Las evidencias a favor de Babilonia siendo literal son menos que las que apuntan que Babilonia representa Roma en aquel entonces. 
 
 ##### Evidencia existe que Pedro se refiere a Roma en código. El cristianismo en las primeras décadas no había llegado tan lejos al este. Existen historiadores que mencionan a la ciudad de Babilonia en este tiempo como un gran desierto y que mucho de la ciudad había sido convertido para agricultura. 
 
@@ -1954,17 +1954,17 @@ Title: 1 & 2 Pedro
 
 ##### En los años cuando se escribió las cartas de 1 y 2 Pedro, los cristianos estaban bajo mucha persecución, especialmente en Roma. Pedro tendría buena razón por codificar el nombre para no divulgar información que pondría en peligro a los hermanos. 
 
-#### Ambas interpretaciones tienen poco apoyo bíblico. Como autores de este material, nos inclinamos por la segunda. Aunque no encontramos vesiculos bíblicos explicitos en los que Pedro se encuentra en Roma, segun la historia y la tradicion no es posible ubicar a Pedro en mesopotamia (Babilonia), mas aun muchos registros históricos lo ubican en Roma del 60 al 66 d.C, años en los cuales se da escritura a sus dos cartas.
+#### Ambas interpretaciones tienen poco apoyo bíblico. Como autores de este material, nos inclinamos por la segunda. Aunque no encontramos versículos bíblicos explícitos en los que Pedro se encuentra en Roma, según la historia y la tradición no es posible ubicar a Pedro en Mesopotamia (Babilonia), mas aun muchos registros históricos lo ubican en Roma del 60 al 66 d.C, años en los cuales se da escritura a sus dos cartas.
 
 #### Sin embargo, aunque Babilonia sea literal o en código, no afecta de ninguna manera la interpretación del libro. 
 
-### 1 Pedro 5:13 *y también mi hijo Marcos.* Probablemente se refiere a su hijo espiritual, Juan Marcos sobrino de Bernabe e hijo de Maria. 
+### 1 Pedro 5:13 *y también mi hijo Marcos.* Probablemente se refiere a su hijo espiritual, Juan Marcos sobrino de Bernabé e hijo de María. 
 
-#### Es interesante que Marcos se ecuentra con Pedro en estas cartas siendo que también es mencionado con Pablo durante su encarcelamiento en Roma durante los mismos años. Colosenses 4:14
+#### Es interesante que Marcos se encuentra con Pedro en estas cartas siendo que también es mencionado con Pablo durante su encarcelamiento en Roma durante los mismos años. Colosenses 4:14
 
 ### 1 Pedro 5:14 *Salúdense unos a otros con un beso de amor fraternal.* Pedro les anima en el amor mutuo entre hermanos. 
 
-### 1 Pedro 5:14 *Paz sea a todos ustedes que están en Cristo.* La paz que desea Pedro es para los que estan en paz para con Dios y pueden recibir su paz mediante la fe en un sentido practico a pesar de las pruebas. Mateo 14:27
+### 1 Pedro 5:14 *Paz sea a todos ustedes que están en Cristo.* La paz que desea Pedro es para los que están en paz para con Dios y pueden recibir su paz mediante la fe en un sentido practico a pesar de las pruebas. Mateo 14:27
 
 ## En Síntesis
 
@@ -1994,7 +1994,7 @@ Title: 1 & 2 Pedro
 
   #### Someterse a su Salvador (5:6-7).
 
-### Vivir como soldado (5:8-9).
+### Vivir como soldado en la fe (5:8-9).
 
   #### Reconocer al enemigo (5:8).
 
@@ -2002,11 +2002,13 @@ Title: 1 & 2 Pedro
 
 ### Vivir como un sufriente (5:10-11).
 
-#### Duración (5:10): 01:00:0
+#### Duración (5:10): Por poco tiempo
 
 #### La dinámica (5:11): Nos hace fuertes, firmes y constantes.
 
 ### LA AYUDA A PEDRO (5:12-14): Silas, a quien Pedro considera un hermano fiel, ha ayudado a Pedro a escribir esta carta.
+
+### El propósito fue mostrar la verdadera Gracia de Dios.
 
 # Apéndice
 
