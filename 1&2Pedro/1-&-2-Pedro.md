@@ -1869,19 +1869,27 @@ Title: 1 & 2 Pedro
 
 ### 1 Pedro 5:5 "*Y todos, revístanse de humildad en su trato mutuo,*" Es claro, de humildad en trato mutuo no es algo que sera posible separado de Cristo. Es facil vernos de manera soberbia y no como quienes somos en realidad. Jesus dijo aprended de mi que soy manso y humilde. 
 
-#### A la luz de la verdad en Cristo y en relación a quienes somos en redad y a tratar a nuestros hermanos como quienes son en verdad, hijos de Dios, salvados por gracia, amados por Dios nuestra salvación (gracia) no proviene de nosotros sino de Dios. Filipenses 2:3-4
+#### A la luz de la verdad en Cristo aprendemos a andar en relación de quienes somos en realidad y a tratar a nuestros hermanos como quienes son en verdad, hijos de Dios, salvados por gracia, amados por Dios nuestra salvación, (gracia) no proviene de nosotros sino de Dios. Filipenses 2:3-4
 
-### 1 Pedro 5:5 "*porque DIOS RESISTE A LOS SOBERBIOS,*" literalmente dicho, Dios esta contra los orgullosos. Esto es una realidad que muchas veces pasamos por alto. Aveces inflados por nuestro orgullo, no vemos con claridad la verdad que Dios nos está resistiendo. 
+### 1 Pedro 5:5 "*porque DIOS RESISTE A LOS SOBERBIOS,*" literalmente dicho, Dios esta contra los orgullosos. Esto es una realidad que muchas veces pasamos por alto. A veces inflados por nuestro orgullo, no vemos con claridad la verdad de que Dios nos está resistiendo. 
 
-#### Tal vez pensamos que Dios solo resiste a los incrédulos pero aquí vemos que también lo hace con los creyentes que andan en soberbia. 
+#### Tal vez pensamos que Dios solo resiste a los incrédulos pero aquí vemos que también lo hace con los creyentes que andan en soberbia.
 
-### 1 Pedro 5:5 "*PERO DA GRACIA A LOS HUMILDES.*" Dios da gracia a los humildes. Un claro ejemplo es que nos dió la salvación (gracia) por la fe. 
+#### Como creyentes debemos aprender a vernos segun la verdad, pecadores salvos por gracia en Cristo. Ejemplo: Un sano no tiene necesidad de medico, los auto proclamado buenos o justos del mundo no tienen necesidad de un salvador.
 
-### 1 Pedro 5:6 "*Humíllense, pues,*" lo que Pedro propone aquí no es que nos aflijamos delante de Él sino más bien que en medio de los sufrimientos que podamos unjustamente ignorando la verdad exigir justicia social, queriendo nosotros actuar.
+### 1 Pedro 5:5 "*PERO DA GRACIA A LOS HUMILDES.*" Dios da gracia a los humildes. Un claro ejemplo es al momento de la salvación (gracia) por la fe. 
 
-#### Humillarse esta unido a estimularnos más de lo que somos, no como jueces o justicieros. 
+#### Al contemplar a Dios y su santidad, su estandar perfecto de justicia, haciendo una comparativa conocemos nuestra condicion, faltos de justicia pecadores dignos de muerte, perdidos, necesitados de salvacion por ser incapaces de salvarnos, salvados por gracia al creer en la persona y obra de Jesucristo.
 
-### 1 Pedro 5:6 "*bajo la poderosa mano de Dios,*" humillarse esta ligado a colocarse bajo la poderosa mano de Dios. Si padecemos o sufrimos como cristianos es un gozo porque somos participantes de las aflicciones de Cristo. No es que Dios se olvidó de nosotros pero en medio del sufrimiento podemos refugiarnos en Su poder y gracia
+#### A veces pensamos que humildad es bajarse hasta el piso como persona, pero en realidad es persibir segun la verdad quines somos.
+
+### 1 Pedro 5:6 "*Humíllense, pues,*" Lo que Pedro propone aquí no es que nos aflijamos delante de Él sino más bien que en medio de los sufrimientos es facil decir que padecemos injustamente, ignorando la verdad y exigiendo justicia social, queriendo nosotros actuar. FIlipenses 2:5-11
+
+#### Humillarse esta unido a no estimarnos más de lo que somos, no somos como jueces o justicieros. 
+
+### 1 Pedro 5:6 "*bajo la poderosa mano de Dios,*" Humillarse esta ligado a colocarse bajo la poderosa mano de Dios. Andar segun quienes somos en Cristo confiados bajo la poderosa mano de Dios, esto tine gran peso entendiendo el contexto de estar atravesando por sufrimientos.
+
+#### Si padecemos o sufrimos como cristianos es un gozo porque somos participantes de las aflicciones de Cristo. No es que Dios se olvidó de nosotros pero en medio del sufrimiento podemos refugiarnos en Su poder y gracia.
 
 ### 1 Pedro 5:6 "*para que Él los exalte*" 
 
