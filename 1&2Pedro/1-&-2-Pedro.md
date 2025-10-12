@@ -1656,21 +1656,23 @@ Title: 1 & 2 Pedro
 
 # 1 Pedro 4:12-19 – Sufrimiento y bendiciones 
 
-###  1 Pedro 4:12 *Amados, no se sorprendan del fuego de prueba que en medio de ustedes ha venido*
+###  1 Pedro 4:12a "*Amados,...*" Esta es la segunda ves que Pedro se dirige como amados a los receptores de la epístola. 1 Pedro 2:12
 
-###  *para probarlos,*
+###  1 Pedro 4:12b "*...no se sorprendan del fuego de prueba que en medio de ustedes ha venido*" No debía ser cosa extraña para ellos el fuego de prueba que había venido sobre ellos, ya que Dios se esta encargando de purificar su fe mas preciosa que el oro. 1 Pedro 1:7
 
-###  *como si alguna cosa extraña les estuviera aconteciendo.*
+###  1 Pedro 4:12c "*...para probarlos,*" En medio de su andar diversas pruebas estaban dirigidas específicamente a ellos.
 
-### 1 Pedro 4:13 *Antes bien, en la medida en que comparten los padecimientos de Cristo, regocíjense,*
+###  1 Pedro 412d "*...como si alguna cosa extraña les estuviera aconteciendo.*" Pero eso no debía parecerles extraño, ya que Dios esta obrando en medio de ellos.
 
-### *para que también en la revelación de Su gloria se regocijen con gran alegría.*
+### 1 Pedro 4:13a "*Antes bien, en la medida en que comparten los padecimientos de Cristo, regocíjense,*" Ellos estaban teniendo el privilegio de compartir los padecimientos del Señor Jesucristo, lo cual era algo en que ellos podían sentirse muy especiales para Dios.
 
-### 1 Pedro 4:14 *Si ustedes son insultados por el nombre de Cristo, dichosos son,*
+### 1 Pedro 4:13b "*...para que también en la revelación de Su gloria se regocijen con gran alegría.*" JAIRO es un verbo en tiempo presente, modo imperativo en voz activa, que significa que ellos debían estar alegres y gozosos, con el propósito de que al acercarse al Señor ellos puedan estar contentos de que vivieron para la gloria del Dios.
 
-### *pues el Espíritu de gloria y de Dios reposa sobre ustedes.*
+### 1 Pedro 4:14a "*Si ustedes son insultados por el nombre de Cristo, dichosos son,...*" Cristo prometió que por su nombre, todo creyente que anda guardando su palabra seria insultado por su causa, pero esto es de gran dicha, ya que es un privilegio poder sufrir por el nombre de Cristo.
 
-### *Ciertamente, por ellos Él es blasfemado, pero por ustedes es glorificado.*
+### 1 Pedro 4:14b "*...pues el Espíritu de gloria y de Dios reposa sobre ustedes.*" 
+
+### 1 Pedro 4:14c "*...Ciertamente, por ellos Él es blasfemado, pero por ustedes es glorificado.*" los que reciben el insulto no es directamente el creyente, sino que el Señor es el que recibe los insultos, ellos actúan con blasfemia en contra de Él, pero al permanecer en mansedumbre y con limpia conciencia regocijándonos en la tribulación el Señor es glorificado.
 
 ### 1 Pedro 4:15 *Que de ninguna manera sufra alguien de ustedes como asesino, o ladrón, o malhechor, o por entrometido.*
 
