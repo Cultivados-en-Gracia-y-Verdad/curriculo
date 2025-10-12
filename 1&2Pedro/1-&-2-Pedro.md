@@ -1087,17 +1087,17 @@ Title: 1 & 2 Pedro
 
 ### Puede que las circunstancias en las que se encontraban los creyentes a los que escribía Pedro, no eran las mejores para animarlos a vivir haciendo lo bueno. Por esa razón, en los anteriores versículos les recordó a una persona, Cristo Jesús hombre. ¿Porqué?
 
-### Cristo es el mayor ejemplo del sufrimiento por hacer el bien y soportarlo con paciencia, y esto porque confiaba en el Padre, del cual todos sus juicios son justos.
+### Cristo es el mayor ejemplo del sufrimiento por hacer el bien y soportarlo con paciencia, y esto porque confiaba en el Padre, del cual todos sus juicios son justos. 1 Pedro 2:20, 23
 
-### Y por medio de Su obra en la cruz, fuimos liberados del pecado, completamente y para siempre. ¿Para qué?
+### Y por medio de Su obra en la cruz, fuimos liberados del pecado, completamente y para siempre. ¿Para qué? 1 Pedro 2:24a
 
-### Para ahora, por medio de Su obra en la cruz, podamos vivir haciendo el bien, vivir en la justicia de Dios.
+### Para ahora, por medio de Su obra en la cruz, podamos vivir haciendo el bien, vivir en la justicia de Dios. 1 Pedro 2:24b
 
-### Ahora los creyentes tenían un Pastor y Cuidador, alguien que velaría por ellos, la seguridad que Él les daba iba mas allá del daño físico que podrían recibir. La seguridad que Cristo les daba era espiritual y eterna.
+### Ahora los creyentes tenían un Pastor y Cuidador, alguien que velaría por ellos, la seguridad que Él les daba iba mas allá del daño físico que podrían recibir. La seguridad que Cristo les daba era espiritual y eterna. 1 Pedro 2:25
 
-### Estos creyentes, Sus ovejas, talvez estaban extraviadas de su tierra, de su nación. Pero habían sido regresadas al Pastor, estaban seguras en Su rebaño, el de Cristo.
+### Estos creyentes, Sus ovejas, talvez estaban extraviadas de su tierra, de su nación. Pero habían sido regresadas al Pastor, estaban seguras en Su rebaño, el de Cristo. 
 
-### Comprender estas verdades de nuestro Señor Jesucristo y Su obra tendría un resultado en la vida personal de los cristianos y en sus relaciones con los demás. 
+### Comprender estas verdades de nuestro Señor Jesucristo y Su obra tendría un resultado en la vida personal de los cristianos y en sus relaciones con los demás. 1 Pedro 2:21
 
 ### Considerando al Ejemplo dado por Dios el Padre, Cristo, estos creyentes podrían hacer el bien, a pesar de que eso traiga sufrimiento, y podrían soportarlo con paciencia y gozo inefable. Esto es lo que Dios proveyó para Sus salvos, esto es lo que halla gracia con Dios.
 
@@ -1105,53 +1105,53 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 3:1a *"Asimismo ustedes, mujeres,..."* Anteriormente Pedro estuvo dando instrucciones de sujeción a los creyentes, como ser: 
 
-####  Sujetarse a todas las autoridades en la sociedad. 
+####  Sujetarse a todas las autoridades en la sociedad. 1 Pedro 2:13-14
 
-####  A los esclavos a sujetarse a sus amos.
+####  A los esclavos a sujetarse a sus amos. 1 Pedro 2:18
 
-#### Ahora se dirigirá a las esposas creyentes de la iglesia. Dios ahora mostrará como ellas podrían andar haciendo el bien dentro de su propio matrimonio.
+#### Ahora se dirigirá a las esposas creyentes de la iglesia. Dios ahora mostrará como ellas podrían andar haciendo el bien dentro de su propio matrimonio. 
 
 ###  1 Pedro 3:1b *"...estén sujetas a sus maridos,..."* La instrucción para la esposa dentro del matrimonio era que ella se mantenga voluntariamente, bajo la autoridad de su propio esposo.
 
-####  No vemos en las escrituras que las esposas deban sujetarse a la autoridad de cada hombre en general, sino unicamente a su propio esposo.
+####  No vemos en las escrituras que las esposas deban sujetarse a la autoridad de cada hombre en general, sino únicamente a su propio esposo. Colosenses 3:18
 
-#### Simplemente es la manera en la cual el Señor instituyo el matrimonio.
+#### Simplemente es la manera en la cual el Señor instituyo el matrimonio. Efesios 5:22-24
 
-#### La palabra "*sujetas*" en griego es JUPOTÁSSO - someterse a, obedecer, estar bajo la autoridad de. Es un termino militar como cuando un soldado de alinea a su general.
+#### La palabra "*sujetas*" en griego es JUPOTÁSSO - someterse a, obedecer, estar bajo la autoridad de. Es un termino militar como cuando un soldado se alinea a su general.
 
-#### Esta palabra para nada señala dominación o algun valor inferior para la mujer o esposa creyente a los ojos de Dios.
+#### Esta palabra para nada señala dominación o algún valor inferior para la mujer o esposa creyente a los ojos de Dios. Gálatas 3:28-29
 
 #### Solo hace referencia al rol que tiene la esposa para con el esposo dentro del matrimonio. Ella voluntariamente debe sujetarse a la voluntad de su marido. 
 
-#### Esta instrucción no incluye que la esposa deba sujetarse a su marido si esa sujeción podría llevar a la esposa hacia algun pecado, en todo caso, la esposa antes esta sujeta a la autoridad suprema de Dios.
+#### Esta instrucción no incluye que la esposa deba sujetarse a su marido si esa sujeción podría llevar a la esposa hacia algún pecado, en todo caso, la esposa antes esta sujeta a la autoridad suprema de Dios. 1 Corintios 11:3
 
 ###  1 Pedro 3:1c *"...de modo que si algunos de ellos son desobedientes a la palabra,..."* Seria bueno observar a que se refiere con un esposo "desobediente":
 
-#### Desobediente en griego es APEIDSÉO que tambien podría traducirse, "no creyente".
+#### Desobediente en griego es APEIDSÉO que también podría traducirse, "no creyente".
 
-#### Por los versiculos que encontramos en el libro de 1 Pedro (1 Pedro 2:8, 3:1, 3:20, 4:17), puede que este haciendo referencia a un esposo incredulo.
+#### Por los versículos que encontramos en el libro de 1 Pedro (1 Pedro 2:8, 3:1, 3:20, 4:17), puede que este haciendo referencia a un incrédulo, en este caso a un esposo incrédulo.
 
-#### Aun que tambien podría dirigirse a un esposo creyente que no esta andando en obediencia, en fe a la verdad de Cristo. 1 Pedro 1:14
+#### Aun que también podría dirigirse a un esposo creyente que no esta andando en obediencia a Dios, en fe a la verdad de Cristo. 1 Pedro 1:14
 
-###  1 Pedro 3:1d *"...puedan ser ganados sin palabra alguna por la conducta de sus mujeres..."* ¿Cual sería la razón por la cual la esposa debería sujetarse a su esposo? Dios tiene un proposito.
+###  1 Pedro 3:1d *"...puedan ser ganados sin palabra alguna por la conducta de sus mujeres..."* ¿Cual sería la razón por la cual la esposa debería sujetarse a su esposo? Dios tiene un propósito.
 
-#### El proposito de esta instrucción es para que el esposo desobediente, pueda ser "ganado". 
+#### El propósito de esta instrucción es para que el esposo desobediente, pueda ser "ganado". 
 
-#### En el contexto inmediato vemos que el esposo es alguien incredulo a "La" Palabra, la de Dios, la verdad de Cristo.
+#### En el contexto inmediato vemos que el esposo es alguien incrédulo a La Palabra, la de Dios, la verdad de Cristo.
 
-#### El andar haciendo lo bueno, el vivir a la justicia de la esposa puede ser utilizado por Dios para el esposo incredulo o esposo desviado de la verdad para que confie en la verdad de La Palabra de Diosy Cristo.
+#### El andar haciendo lo bueno, el vivir a la justicia de la esposa puede ser utilizado por Dios para el esposo incrédulo o esposo desviado de la verdad para que obedezca (confié en) la verdad de La Palabra de Dios y Cristo. 1 Corintios 7:16
 
-#### Esto es a travez de la esposa, pero notese que es "sin palabra alguna", entonces ¿Cómo ocurrirá esto?
+#### Esto es a través de la esposa, pero nótese que es "sin palabra alguna", entonces ¿Cómo ocurrirá esto?
 
-###  1 Pedro 3:2 *"...al observar ellos su conducta casta y respetuosa."* El enfasis que Dios da al rol de la esposa no esta en las palabras que diga, sino en la manera de vivir que su esposo verá. 
+###  1 Pedro 3:2 *"...al observar ellos su conducta casta y respetuosa."* El énfasis que Dios da al rol de la esposa no esta en las palabras que diga, sino en la manera de vivir que su esposo verá. 
 
 ####  El esposo será testigo de la obra de Cristo, en la vida de su esposa.
 
 #### El esposo será testigo de la santidad de Dios, por medio ver de la santidad de su esposa. 1 Pedro 1:15
 
-#### La esposa en su rol, puede ser un precioso instrumento en las manos de Dios para que sus esposos respondan por la fe al evangelio de Dios, y ser llamados de las tinieblas a su luz admirable.
+#### La esposa en su rol, puede ser un precioso instrumento en las manos de Dios para que sus esposos respondan por la fe al evangelio de Dios, y ser llamados de las tinieblas a su luz admirable. 1 Pedro 2:9
 
-###  1 Pedro 3:3a *"Que el adorno de ustedes no sea el externo:..."* La palabra adorno o atavío en el tiempo de la escritura de esta epistola hacia referencia al embellecimiento exterior de las mujeres. 
+###  1 Pedro 3:3a *"Que el adorno de ustedes no sea el externo:..."* La palabra adorno o atavío en el tiempo de la escritura de esta epístola hacia referencia al embellecimiento exterior de las mujeres. 
 
 ###  Era un pensamiento común que las mujeres se "adornen" por medio de lo que veremos acontinuación:
 
@@ -1161,21 +1161,23 @@ Title: 1 & 2 Pedro
 
 ####  1 Pedro 3:3d  *"...o vestidos lujosos,...* Se refiere a buscar adornarse exteriormente por medio de ropas
 
-#### El enfoque de este pasaje no esta en indicar que esas cosas son malas o pecado, tampoco indica un descuido de la presentación externa de la esposa.
+#### El enfoque de este pasaje no esta en indicar que dichas cosas son malas o pecado, tampoco indica un descuido de la presentación externa de la esposa. 1 Timoteo 2:9-10
 
-#### Sino que Dios muestra que el adorno exterior de una esposa creyente no esta en esas cosas y tampoco debería ser el pensamiento de ella. Entonces ¿dónde estaría la belleza exterior de una esposa a los ojos de Dios?
+#### Sino que Dios muestra que el adorno exterior de una esposa creyente no esta en esas cosas y tampoco debería ser el pensamiento de ella. 
+
+#### Entonces ¿dónde estaría la belleza exterior de una esposa a los ojos de Dios?
 
 ###  1 Pedro 3:4a *"...sino que sea lo que procede de lo íntimo del corazón,..."* En un mundo donde se busca la belleza externa por medio de cosas lujosas, llamativas que se corrompen con el tiempo. Dios llama a la esposa creyente a buscar la belleza externa, pero producida desde lo interior.
 
-###  1 Pedro 3:4b *"...con el adorno incorruptible de un espíritu tierno y sereno,..."* Esta indicación aclará que la sujeción de la esposa, el atabio externo por medio de su conducta hacia el esposo, no debería ser hipocrita o algo fingido, sino sincero. 
+###  1 Pedro 3:4b *"...con el adorno incorruptible de un espíritu tierno y sereno,..."* Esta indicación aclara que la sujeción de la esposa, el atavió externo por medio de su conducta hacia el esposo, no debería ser hipócrita o algo fingido, sino sincero. Gálatas 5:16
 
 ####  Su belleza externa simplemente es un reflejo de la belleza interna de su corazón.
 
-###  1 Pedro 3:4c *"...lo cual es precioso delante de Dios."* Una creyente que pone su esperanza en el único Dios, el que juzga con justicia, goza de un espiritu tierno y sereno, el cual es precioso a los ojos de Dios.
+###  1 Pedro 3:4c *"...lo cual es precioso delante de Dios."* Una creyente que pone su esperanza en el único Dios, el que juzga con justicia, goza de un espíritu tierno y sereno, el cual es precioso a los ojos de Dios. Salmo 51:6
 
-###  1 Pedro 3:5a *"Porque así también se adornaban en otro tiempo las santas mujeres que esperaban en Dios,..."* Pedro pasa a mostrar como se adornaban las esposas creyentes del Antiguo Testamento y como llegaron a sujetarse a sus esposos imperfectos.
+###  1 Pedro 3:5a *"Porque así también se adornaban en otro tiempo las santas mujeres que esperaban en Dios,..."* Pedro pasa a mostrar como se adornaban las esposas creyentes del Antiguo Testamento y como llegaron a sujetarse a sus esposos imperfectos. Proverbios 31:10
 
-#### El versiculo es claro, las santas mujeres, ponían su esperanza completamente en su Santo Dios.
+#### El versículo es claro, las santas mujeres, ponían su esperanza completamente en su Santo Dios. Proverbios 31:30
 
 #### ¿En qué resultaba esto?
 
@@ -1187,15 +1189,15 @@ Title: 1 & 2 Pedro
 
 #### Y esto vendría a travez de su confianza puesta no en la calidad de esposo que tenían, sino en el Dios que cuidaba y cuida de ellas.
 
-###  1 Pedro 3:6a *"Así obedeció Sara a Abraham, llamándolo señor,..."* Un ejemplo de una esposa sujetándose a su esposo es Sara, y una muestra de aquello fue que se dirigió a Abraham como "señor".
+###  1 Pedro 3:6a *"Así obedeció Sara a Abraham, llamándolo señor,..."* Un ejemplo de una esposa sujetándose a su esposo es Sara, y una muestra de aquello fue que se dirigió a Abraham como "señor". Génesis 18:12
 
 ###  1 Pedro 3:6b *"...y ustedes han llegado a ser hijas de ella,..."* Aquí nos muestra la relación simbólica que tienen las esposas que andan conforme a como Sara anduvo en su vida terrenal.
 
 ###  1 Pedro 3:6c *"...si hacen el bien y no tienen miedo de nada que pueda aterrorizarlas."* El andar conforme a la voluntad de Dios que tuvo Sara también es el andar de las esposas que hacen el bien, y no tienen temor de nada que intente atemorizarlas. 
 
-####  No depende del estado espiritual de su esposo, o las circunstancias en las que se encuentre, sino que es por medio de la confianza segura que tiene en Dios, su Padre, que es el cuidador eterno de ellas.
+####  No depende del estado espiritual de su esposo, o las circunstancias en las que se encuentre, sino que es por medio de la confianza segura que tiene en Dios, su Padre, que es el cuidador eterno de ellas. 1 Pedro 3:14
 
-#### Esto haya gracia a los ojos de Dios, es precioso delante de Dios.
+#### Esto haya gracia a los ojos de Dios, es precioso delante de Dios. 1 Pedro 2:19-20
 
 ## 1 Timoteo 3:7- Maridos
 
@@ -1891,59 +1893,81 @@ Title: 1 & 2 Pedro
 
 ### 1 Pedro 5:5 "*Y todos, revístanse de humildad en su trato mutuo,*" Es claro, de humildad en trato mutuo no es algo que sera posible separado de Cristo. Es facil vernos de manera soberbia y no como quienes somos en realidad. Jesus dijo aprended de mi que soy manso y humilde. 
 
-#### A la luz de la verdad en Cristo y en relación a quienes somos en redad y a tratar a nuestros hermanos como quienes son en verdad, hijos de Dios, salvados por gracia, amados por Dios nuestra salvación (gracia) no proviene de nosotros sino de Dios. Filipenses 2:3-4
+#### A la luz de la verdad en Cristo aprendemos a andar en relación de quienes somos en realidad y a tratar a nuestros hermanos como quienes son en verdad, hijos de Dios, salvados por gracia, amados por Dios nuestra salvación, (gracia) no proviene de nosotros sino de Dios. Filipenses 2:3-4
 
-### 1 Pedro 5:5 "*porque DIOS RESISTE A LOS SOBERBIOS,*" literalmente dicho, Dios esta contra los orgullosos. Esto es una realidad que muchas veces pasamos por alto. Aveces inflados por nuestro orgullo, no vemos con claridad la verdad que Dios nos está resistiendo. 
+### 1 Pedro 5:5 "*porque DIOS RESISTE A LOS SOBERBIOS,*" literalmente dicho, Dios esta contra los orgullosos. Esto es una realidad que muchas veces pasamos por alto. A veces inflados por nuestro orgullo, no vemos con claridad la verdad de que Dios nos está resistiendo. 
 
-#### Tal vez pensamos que Dios solo resiste a los incrédulos pero aquí vemos que también lo hace con los creyentes que andan en soberbia. 
+#### Tal vez pensamos que Dios solo resiste a los incrédulos pero aquí vemos que también lo hace con los creyentes que andan en soberbia.
 
-### 1 Pedro 5:5 "*PERO DA GRACIA A LOS HUMILDES.*" Dios da gracia a los humildes. Un claro ejemplo es que nos dió la salvación (gracia) por la fe. 
+#### Como creyentes debemos aprender a vernos segun la verdad, pecadores salvos por gracia en Cristo. Ejemplo: Un sano no tiene necesidad de medico, los auto proclamado buenos o justos del mundo no tienen necesidad de un salvador.
 
-### 1 Pedro 5:6 "*Humíllense, pues,*" lo que Pedro propone aquí no es que nos aflijamos delante de Él sino más bien que en medio de los sufrimientos que podamos unjustamente ignorando la verdad exigir justicia social, queriendo nosotros actuar.
+### 1 Pedro 5:5 "*PERO DA GRACIA A LOS HUMILDES.*" Dios da gracia a los humildes. Un claro ejemplo es al momento de la salvación (gracia) por la fe. 
 
-#### Humillarse esta unido a estimularnos más de lo que somos, no como jueces o justicieros. 
+#### Al contemplar a Dios y su santidad, su estandar perfecto de justicia, haciendo una comparativa conocemos nuestra condicion, faltos de justicia pecadores dignos de muerte, perdidos, necesitados de salvacion por ser incapaces de salvarnos, salvados por gracia al creer en la persona y obra de Jesucristo.
 
-### 1 Pedro 5:6 "*bajo la poderosa mano de Dios,*" humillarse esta ligado a colocarse bajo la poderosa mano de Dios. Si padecemos o sufrimos como cristianos es un gozo porque somos participantes de las aflicciones de Cristo. No es que Dios se olvidó de nosotros pero en medio del sufrimiento podemos refugiarnos en Su poder y gracia
+#### A veces pensamos que humildad es bajarse hasta el piso como persona, pero en realidad es persibir segun la verdad quines somos.
 
-### 1 Pedro 5:6 "*para que Él los exalte*" 
+### 1 Pedro 5:6 "*Humíllense, pues,*" Lo que Pedro propone aquí no es que nos aflijamos delante de Él sino más bien que en medio de los sufrimientos es facil decir que padecemos injustamente, ignorando la verdad y exigiendo justicia social, queriendo nosotros actuar. FIlipenses 2:5-11
+
+#### Humillarse esta unido a no estimarnos más de lo que somos, no somos como jueces o justicieros. 
+
+### 1 Pedro 5:6 "*bajo la poderosa mano de Dios,*" Humillarse esta ligado a colocarse bajo la poderosa mano de Dios. Andar segun quienes somos en Cristo confiados bajo la poderosa mano de Dios, esto tine gran peso entendiendo el contexto de estar atravesando por sufrimientos.
+
+#### Si padecemos o sufrimos como cristianos es un gozo porque somos participantes de las aflicciones de Cristo. No es que Dios se olvidó de nosotros pero en medio del sufrimiento podemos refugiarnos en Su poder y gracia.
+
+### 1 Pedro 5:6 "*para que Él los exalte*" El Padre exaltara al creyente que al conciderarse en la verdad se somete dejabo de su mano, en esto tenemos el ejemplo de Cristo que no se aferro a su divinidad sino que siendo hombre se sujeto al Padre bajo su mano. Filipenses 2:5-11
 
 ### 1 Pedro 5:6 "*a su debido tiempo,*" Dios promete exaltar al que se humille bajo su poderosa mano. 
 
-#### No se nos dice cuanto tiempo pero nos dice que es seguro. Podemos descansar en Dios en cuanto a los sufrimientos, nuestras preocupaciones, anciedad es pude ser un fruto en medio del sufrimiento pero no sufrimiento en vano. 
+#### No se nos dice en cuanto tiempo pero si dice que es seguro. Podemos descansar en Dios.
 
 ### 1 Pedro 5:7 "*echando toda su ansiedad sobre Él,*" Echar nuestra anciedad tiene que ver porque Dios cuida de nosotros. 
 
+#### Es facil que en medio de los sufrimientos nos invada la ansiedad, literalmente se traduce habiendo hechado su ansiedad sobre el, cuando andamos considerando nuestra realidad bajo su mano, nuestras ansiedades son puestas sobre el. 
+
 ### 1 Pedro 5:7 "*porque Él tiene cuidado de ustedes.*" Nuestra ansiedad que surge de los padecimientos puede ser echada porque el nos cuida. 
 
-### 1 Pedro 5:8 "*Sean de espíritu sobrio, estén alerta.*"
+### 1 Pedro 5:8 "*Sean de espíritu sobrio, estén alerta.*" Esto es un mandato a pensar correctamente, segun la verdad, sobrio esta relacionado a estar cuerdo, ver la realidad.
 
-### 1 Pedro 5:8 "*Su adversario, el diablo, anda al acecho como león rugiente,*"
+#### Asi mismo el creyente debe permanecer alerta o despierto, de manera que no sea sorprendido, esto tiene revelancia ya que seremos advertidoa acontinuacion.
 
-### 1 Pedro 5:8 "*buscando*" el está buscando a un creyente que flaquea por estos momentos de sufrimiento no pensando con cordura y estando alerta. 
+### 1 Pedro 5:8 "*Su adversario, el diablo, anda al acecho como león rugiente,*" Satanas esta esperando una oportunidad.
 
-### 1 Pedro 5:8 "*a quien devorar.*" Satanás los busca para devorarles (destruirlos) en medio de los padecimientos. Esto no habla de que pierden eternamente sino de estar afligidos por el engaño del diablo. 
+#### Satanas el que esta contra los creyente no permanece inmovil, el verso dice "anda", esto es activo y continuo de su parte, el esta acechando, permanece esperando una oportinuadad para tomar a su presa.
 
-### 1 Pedro 5:9 "*Pero resístanlo firmes en la fe,*" se nos dice resistir, quiere decir ir contrario al no dejarnos ser devorados. No le den lugar. 
+### 1 Pedro 5:8 "*buscando*" El está buscando a un creyente que flaquea por estos momentos de sufrimiento, uno que no esta pensando con cordura, o viendo con clsaridad ni esta alerta. 
 
-#### Es interesante que resisitir no esta omdo a cosas a hacer al cometer nuestra espiritualidad. 
+### 1 Pedro 5:8 "*a quien devorar.*" Satanás los busca para devorarlos (destruirlos) en medio de los padecimientos. Esto no habla de que se pierden eternamente sino de estar afligidos por el engaño del diablo. 
 
-### 1 Pedro 5:9 "*sabiendo que las mismas experiencias de sufrimiento*"
+### 1 Pedro 5:9 "*Pero resístanlo firmes en la fe,*" se nos dice resistir, quiere decir ir contra el, no dejarnos sorprender para ser devorados.
 
-#### hay algo que debemos saber
+#### Es interesante que resisitir no esta ligado a cosas para hacer aumentar nuestra espiritualidad. 
 
-### 1 Pedro 5:9 "*se van cumpliendo en sus hermanos en todo el mundo.*"
+#### La manera de resistirlo es permaneciendo firmes en la fe. 
 
-### 1 Pedro 5:10 "*Y después de que hayan sufrido un poco de tiempo,*" tenemos un hecho esperanzador, no sufrimos eternamente. Los sufrimientos son temporales, aunque eso si no se nos dice cuanto tiempo, es hasta un punto. 
+### 1 Pedro 5:9 "*sabiendo que las mismas experiencias de sufrimiento*" Hay algo que debemos saber.
+
+#### No somos los unicos que estamos atravesando por sufrimiento o persecucion por Cristo, hay mas creyentes en una situcion similar aunque no los conocemos.
+
+#### Para este tiempo muchos creyente habrian estado sindo perseguidos y muchos otros muertos, otros pasando escazes o en peligros del camino
+
+### 1 Pedro 5:9 "*se van cumpliendo en sus hermanos en todo el mundo.*" muchas veces pensamos que somos los unicos que sufren, sin embargo, nuestros hermanos en todo el mundo tambien estan atravesando padecimiento en el nombre de Cristo.
+
+### 1 Pedro 5:10 "*Y después de que hayan sufrido un poco de tiempo,*" tenemos un hecho esperanzador, no sufrimos eternamente. Los sufrimientos son temporales, aunque eso si no se nos dice cuanto tiempo ni hasta que punto. 
+
+#### Podemos ver que el atravezar por sufrimientos en el nombre de Cristo tiene un proposito.
 
 ### 1 Pedro 5:10 "*el Dios de toda gracia,*" Dios el Padre lleno en gracia en Cristo Jesús. 
 
+#### Dios el Padre nos muestra que el sufrimiento como Cristiano tambien forma parte de su gracia en Cristo y en esa gracia tien un proposito para con el creyente.
+
 ### 1 Pedro 5:10 "*que los llamó a Su gloria eterna en Cristo,*" Dios el Padre fue el que nos llamó por medio del evangelio. Romanos 8:30-32
 
-#### Dios nos llamó a su gloria por medio de Cristo, esta en contraste a que antes estabamos destituidos de su gloria. 
+#### Dios nos llamó a su gloria por medio de Cristo, en contraste a que antes estabamos destituidos de su gloria. 
 
-### 1 Pedro 5:10 "*Él mismo*" el Dios de toda gracia mismo. Dios el Padre tiene un propósito con el creyente en que este atraviese padecimientos por causa de Cristo, esto es una certeza, el mismo Dios lleno de gracia que nos salvó por medio de Cristo, es el mismo que nos perfeccionará por medio del sufrimiento. Filipenses 1:6, 29
+### 1 Pedro 5:10 "*Él mismo*" El Dios de toda gracia, El mismo que nos llamo tiene un propósito con el creyente en que este atraviese padecimientos por causa de Cristo, esto es una certeza, el mismo Dios lleno de gracia que nos salvó por medio de Cristo, es el mismo que nos perfeccionará por medio del sufrimiento. Filipenses 1:6, 29
 
-### 1 Pedro 5:10 "*el mismo...los perfeccionará,*" A la luz del sufrimiento seremos moderados cada vez más a la imagen de Cristo. 
+### 1 Pedro 5:10 "*el mismo...los perfeccionará,*" A la luz del sufrimiento seremos moldeados cada vez más a la imagen de Cristo. 
 
 #### "*perfeccionará*" KATARTIZO - dejar listo o adecuado o equipado de antemano para un propósito particular o para algún uso, evento u otro propósito.[^1]
 
@@ -1959,7 +1983,7 @@ Title: 1 & 2 Pedro
 
 #### "*establecerá*" THERMELIOO - fortalecer una cualidad o aspecto personal; concebido como colocar una piedra fundamental o un soporte.
 
-### 1 Pedro 5:11 "*A Él sea el dominio por los siglos de los siglos. Amén.*" Dios es el que domina en un medio de sufrimiento. cerne no darle la gloria por lo que hará a traves de lo que muchas veces consideramos horrible, el. 
+### 1 Pedro 5:11 "*A Él sea el dominio por los siglos de los siglos. Amén.*" Dios es el que domina en un medio de sufrimiento como no darle la gloria por lo que hará a traves de lo que muchas veces consideramos horrible. 
 
 # 1 Pedro 5:12-14 – Observaciones finales
 
