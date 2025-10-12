@@ -1465,245 +1465,245 @@ Title: 1 & 2 Pedro
 
 # 1 Pedro 4:1-6 – Viviendo para la voluntad de Dios
 
-### El sufrimiento de Cristo como un ejemplo para armarse del mismo propósito y vivir la voluntad de Dios. 1 Pedro 2:21
+### El sufrimiento de Cristo como un ejemplo para <u>armarse</u> del mismo propósito y vivir la voluntad de Dios. 1 Pedro 2:21
 
-#### Cristo en Su buena conducta y haciendo lo bueno, aunque padecio en el cuerpo, aquel sufrimiento fue pequeño comparado con la victoria que obtuvo de vencer el pecado, vencer el mal con el bien. Este pasaje no esta enseñando asetismo, sino que este sufrimiento es causado por hacer el bien 1 Pedro 2:21-22.
+#### Cristo en Su buena conducta y haciendo lo bueno, aunque padecio en el cuerpo, aquel sufrimiento fue pequeño comparado con la victoria que obtuvo de vencer el <u>pecado</u>, vencer el mal con el bien. Este pasaje no esta enseñando asetismo, sino que este sufrimiento es causado por hacer el bien 1 Pedro 2:21-22.
 
-#### Este pasaje no esta enseñando que un creyente debe buscar sufrir para vencer al pecado, como lo da a entender la versión (TLA) 1 Pedro 4:1,  "*... Si ustedes sufren como Cristo, ya no seguirán pecando.*" Esta traducción no es correcta. Esto contradeciria Romanos 6:10-11
+#### Este pasaje no esta enseñando que un creyente debe buscar sufrir para <u>vencer</u> al pecado, como lo da a entender la versión (TLA) 1 Pedro 4:1,  "*... Si ustedes sufren como Cristo, ya no seguirán pecando.*" Esta traducción no es correcta. Esto contradeciría Romanos 6:10-11
 
-#### 2 Timoteo 3:12 dice: "*Y en verdad, todos los que quieren vivir piadosamente en Cristo Jesús, serán perseguidos.*" Esta es una realidad que todo creyente debe esperar. Es por eso que Pedro quiere enseñar a su audiencia a que puedan contemplar el ejemplo de Cristo, que obtiene gran ganancia. 1 Pedro 1:7
+#### 2 Timoteo 3:12 dice: "*Y en verdad, todos los que quieren vivir piadosamente en Cristo Jesús, serán perseguidos.*" Esta es una realidad que todo creyente debe esperar. Es por eso que Pedro quiere <u>enseñar</u> a su audiencia a que puedan contemplar el ejemplo de Cristo, que obtiene gran ganancia. 1 Pedro 1:7
 
-#### la palabra "*padecimiento*" PASJO - experimentar daño o dolor emocional.[^1]
+#### la palabra "*padecimiento*" PASJO - experimentar <u>daño</u> o dolor emocional.[^1]
 
-##### 11 veces se menciona *padecimiento* en 1 Pedro.
+##### 11 veces se <u>menciona</u> *padecimiento* en 1 Pedro.
 
-##### 4 veces es usada *padecimiento* en este capítulo, 
+##### 4 veces es usada *<u>padecimiento</u>* en este capítulo, 
 
-##### 2 veces aparece la palabra *padecimiento* en este versículo. 
+##### 2 veces aparece la palabra *padecimiento* en <u>este</u> versículo. 
 
-##### La cantidad de veces que aparece, nos muestra la importancia del padecimiento de Cristo como base para todo el capitulo.
+##### La cantidad de veces que aparece, nos muestra la importancia del padecimiento de Cristo <u>como</u> base para todo el capitulo.
 
-### 1 Pedro 4:1a "*Por tanto...*" OUN es una conjunción, lo que significa que da continuidad a la enseñanza que Pedro había explicado anteriormente en 1 Pedro 3:13-22
+### 1 Pedro 4:1a "*Por tanto...*" OUN es una conjunción, lo que significa que da continuidad a la enseñanza que Pedro <u>había</u> explicado anteriormente en 1 Pedro 3:13-22
 
-#### Entendiendo que todo lo que iniciara explicando no tendría sentido si aislamos estos pasajes de los anteriores, por lo que también llegaríamos a entender, es que: en consecuencia de lo mencionado anteriormente.
+#### Entendiendo que todo lo que iniciara explicando no tendría <u>sentido</u> si aislamos estos pasajes de los anteriores, por lo que también llegaríamos a entender, es que: en consecuencia de lo mencionado anteriormente.
 
-### 1 Pedro 4:1b "*...puesto que Cristo ha padecido en la carne...*" Fue anunciado por los profetas como el Mesías que debía padecer, y también ser sacrificado como un cordero inmolado. Daniel 9:26; Zacarias 12:10; Isaías 53:3-5, 7, 10-11
+### 1 Pedro 4:1b "*...puesto que Cristo ha padecido en la carne...*" Fue anunciado por los profetas como el Mesías que debía padecer, y también ser <u>sacrificado</u> como un cordero inmolado. Daniel 9:26; Zacarias 12:10; Isaías 53:3-5, 7, 10-11
 
-##### El rey David predijo que el Mesías padeceria. Salmo 22:6, 14-16
+##### El rey David predijo que el Mesías <u>padecería</u>. Salmo 22:6, 14-16
 
-##### Jesús mismo anuncio que el Cristo debía padecer, que era necesario que Jesús pasara por padecimientos. Mateo 16:21; Lucas 9:22
+##### Jesús mismo anuncio que el Cristo debía padecer, que era necesario que Jesús <u>pasara</u> por padecimientos. Mateo 16:21; Lucas 9:22
 
-#### Padecido PASJO significa experimentar una sensación o impresión (generalmente dolorosa). Sus padecimientos fueron conocidos desde antes de la fundación del mundo. 1 Pedro 1:19-20
+#### Padecido PASJO significa experimentar una sensación o impresión (generalmente dolorosa). Sus padecimientos fueron conocidos <u>desde</u> antes de la fundación del mundo. 1 Pedro 1:19-20
 
-#### Esta es la primera ves que se menciona padecido PASJO en este capitulo, y habla como una base de lo cual continuará explicando.
+#### Esta es la prime<u>r</u>a ves que se menciona padecido PASJO en este capitulo, y habla como una base de lo cual continuará explicando.
 
-##### Después de la caída de Adán, fue anunciado por primera vez dando a conocer su padecimiento, que Él sería herido Génesis 3:15 
+##### Después de la caída de Adán, fue anunciado por primera vez <u>dando</u> a conocer su padecimiento, que Él sería herido Génesis 3:15 
 
-##### A través de figuras en la ley de moisés fue anunciado y tipificado por corderos sin mancha al ofrecerse año tras año apuntado la obra de los padecimientos del Mesías. Hebreos 10:11-12
+##### A través de figuras en la ley de moisés fue anunciado y tipificado por corderos sin <u>mancha</u> al ofrecerse año tras año apuntado la obra de los padecimientos del Mesías. Hebreos 10:11-12
 
-##### Por lo tanto podríamos decir, "Ya que Cristo padeció en la carne..." (BJ 1975), o también, conociendo que el Señor Jesucristo sufrió en su propio cuerpo por hacer lo bueno. Hebreos 5:7, 9
+##### Por lo tanto podríamos decir, "Ya que Cristo <u>padeció</u> en la carne..." (BJ 1975), o también, conociendo que el Señor Jesucristo sufrió en su propio cuerpo por hacer lo bueno. Hebreos 5:7, 9
 
-###  1 Pedro 4:1c "*...ármense también ustedes con el mismo propósito...*" ármense JOPLIZO es la palabra usada para dar la idea de llevar un equipo de armamento.
+###  1 Pedro 4:1c "*...ármense también ustedes con el mismo propósito...*" ármense JOPLIZO es la palabra <u>usada</u> para dar la idea de llevar un equipo de armamento.
 
-#### La Biblia versión (RVR60) traduce, "*... armaos del mismo pensamiento...*" El pensamiento que tuvo Cristo fue mucho mayor que los padecimientos que Él llevaria, ya que su mirada estaba dirigido a algo superior que los sufrimientos pasajeros. Su gozo estaba siempre delante de Él. Hebreos 12:2
+#### La Biblia versión (RVR60) traduce, "*... armaos del mismo pensamiento...*" El pensamiento que <u>tuvo</u> Cristo fue mucho mayor que los padecimientos que Él llevaría, ya que su mirada estaba dirigido a algo superior que los sufrimientos pasajeros. Su gozo estaba siempre delante de Él. Hebreos 12:2
 
-#### Su pensamiento de soportar la hostilidad de pecadores fue como un equipamiento de armamento mucho más poderoso que las circunstancias.
+#### Su pensamiento de <u>soportar</u> la hostilidad de pecadores fue como un equipamiento de armamento mucho más poderoso que las circunstancias.
 
-#### Por eso la audiencia de Pedro debia  equiparse con ese armamento de tener el mismo pensamiento que tuvo Cristo.
+#### Por eso la audiencia de Pedro <u>debía</u>  equiparse con ese armamento de tener el mismo pensamiento que tuvo Cristo.
 
-###  1 Pedro 4:1d "*... pues quien ha padecido en la carne...*" Su sufrimiento tuvo un propósito, tuvo un motivo, no fue un sufrimiento vano o vacío, tenia un gran propósito, tuvo un porque, así como lo traduce la versión (BAD 1989) "*… porque el que ha sufrido en el cuerpo…*".
+###  1 Pedro 4:1d "*... pues quien ha padecido en la carne...*" Su sufrimiento tuvo un propósito, tuvo un motivo, no fue un sufrimiento vano o vacío, tenia un gran propósito, tuvo un porque, así <u>como</u> lo traduce la versión (BAD 1989) "*… porque el que ha sufrido en el cuerpo…*".
 
-#### Su sufrimiento anunciado y llevado a cabo de manera literal, no se quedo con el dolor de la muerte, sino que terminó en victoria. Hechos 2:24
+#### Su sufrimiento anunciado y llevado a cabo de manera literal, no se quedo con el <u>dolor</u> de la muerte, sino que terminó en victoria. Hechos 2:24
 
-### 1 Pedro 4:1e: "*…ha terminado con el pecado...*" el dominio mortal del pecado, llego a tener su fin, por un hombre que en debilidad y dispuesto a sufrir por hacer el bien, teniendo su mirada en el gozo que estaba delante de Él, puso fin al pecado y todo su dominio. Romanos 6:7, 10.
+### 1 Pedro 4:1e: "*…ha terminado con el pecado...*" el dominio mortal del pecado, llego a tener su fin, por un hombre que en debilidad y dispuesto a sufrir por hacer el bien, teniendo su mirada en el gozo que <u>estaba</u> delante de Él, puso fin al pecado y todo su dominio. Romanos 6:7, 10.
 
-#### Es por eso que Pedro muestra a su audiencia como el armarse con la mente de Cristo, nos llena de valor, sabiendo y confiando que Dios no lo deja sin propósito, uno es bienaventurado si sufre por tener el mismo pensamiento que tuvo Cristo. Mateo 5:11-12; Filipenses 2:5-11; Colosenses 1:24; 1 Pedro 1:13, 4:12
+#### Es por eso que Pedro muestra a su audiencia como el <u>armarse</u> con la mente de Cristo, nos llena de valor, sabiendo y confiando que Dios no lo deja sin propósito, uno es bienaventurado si sufre por tener el mismo pensamiento que tuvo Cristo. Mateo 5:11-12; Filipenses 2:5-11; Colosenses 1:24; 1 Pedro 1:13, 4:12
 
-###  1 Pedro 4:2a "*para vivir...*" BIOSAI es un Verbo, aoristo, infinitivo, en voz activa, lo que expresa, que el sujeto realiza la acción de manera puntual y completa en el pasado.
+###  1 Pedro 4:2a "*para vivir...*" BIOSAI es un Verbo, aoristo, infinitivo, en voz activa, lo que expresa, que el <u>sujeto</u> realiza la acción de manera puntual y completa en el pasado.
 
-#### lo que significa que llegaste a vivir en un punto del tiempo (aoristo) de manera puntual y completa (infinitivo), por una acción que realizaste. (voz activa). Podria traducirse, para que habiendo vivido vivas.
+#### lo que significa que llegaste a vivir en un punto del tiempo (aoristo) de manera puntual y completa (infinitivo), por una acción que realizaste. (voz activa). Podría traducirse, para que habiendo <u>vivido</u> vivas.
 
-##### Una acción que realizamos para tener vida es haber creido en el evangelio. Sabiendo que la fe no es una obra, pero si es la participación activa al momento de creer en el evangelio, demuestra que no es Dios el que soberanamente lleva a los hombres a realizar la acción, de otro modo este verbo seria en voz pasiva.
+##### Una acción que realizamos para tener vida es haber creído en el evangelio. Sabiendo que la fe no es una obra, pero si es la participación activa al momento de creer en el evangelio, demuestra que no es Dios el que soberanamente <u>lleva</u> a los hombres a realizar la acción, de otro modo este verbo seria en voz pasiva.
 
-##### Juan 5:24 dice: "*En verdad les digo: el que oye Mi palabra y cree al que me envió, tiene vida eterna y no viene a condenación, sino que ha pasado de muerte a vida.*"  con el resultado de poder vivir el resto de la vida, ya no más en el dominio del pecado.
+##### Juan 5:24 dice: "*En verdad les digo: el que oye Mi palabra y cree al que me envió, tiene vida eterna y no viene a condenación, sino que ha pasado de muerte a vida.*"  con el resultado de poder vivir el resto de la vida, ya no más en el dominio del <u>pecado</u>.
 
-###  1 Pedro 4:2b "*...el tiempo que le queda en la carne...*" Si bien tenemos una nueva vida en nuestros mismo cuerpos que teníamos cuando éramos incrédulos, no significa que nuestros cuerpos sean malos, sino que esta nueva vida podemos vivirla en estos mismo cuerpos que ahora son el templo del Espíritu Santo. 1 Corintios 6:19
+###  1 Pedro 4:2b "*...el tiempo que le queda en la carne...*" Si bien tenemos una nueva vida en nuestros mismo cuerpos que teníamos cuando éramos incrédulos, no significa que nuestros cuerpos sean malos, sino que esta nueva vida podemos vivirla en estos mismo cuerpos que ahora <u>son</u> el templo del Espíritu Santo. 1 Corintios 6:19
 
-###  1 Pedro 4:2c "...*ya no para las pasiones humanas...*" Ya que Cristo termino con el pecado, ahora el creyente puede armarse de ese mismo pensamiento, porque Cristo vive, y la vida que ha logrado es para andar en novedad de vida y ya no en los resultados de muerte que ocasionaba el pecado.1 Pedro 3
+###  1 Pedro 4:2c "...*ya no para las pasiones humanas...*" Ya que Cristo termino con el pecado, ahora el creyente puede armarse de ese mismo pensamiento, porque Cristo vive, y la vida que ha logrado es para andar en <u>novedad</u> de vida y ya no en los resultados de muerte que ocasionaba el pecado.1 Pedro 3
 
-#### La palabra "*ya no*" MEKETI tiene una importancia significativa a la nueva vida, para decir que, de aquí en adelante ya no vivamos para los deseos que nos dominaban antes.
+#### La palabra "*ya no*" MEKETI tiene una importancia significativa a la nueva vida, para decir que, de aquí en adelante ya no <u>vivamos</u> para los deseos que nos dominaban antes.
 
-#### al momento de creer en el evangelio Dios nos otorgo en su gracia, vida eterna, con el resultado de poder vivir el resto de la vida, ya no más en el dominio de las pasiones humanas.
+#### al momento de creer en el evangelio Dios nos otorgo en su gracia, vida eterna, con el resultado de poder vivir el resto de la vida, ya no más en el <u>dominio</u> de las pasiones humanas.
 
-### 1 Pedro 4:2d "...*sino para la voluntad de Dios.*" Ahora tenemos la posibilidad de vivir, con un proposito mayor, muy diferente y muy contrario a la que antes viviamos, dominados por nuestros deseos.
+### 1 Pedro 4:2d "...*sino para la voluntad de Dios.*" Ahora tenemos la posibilidad de vivir, con un propósito mayor, muy diferente y muy contrario a la que antes vivíamos, dominados por <u>nuestros</u> deseos.
 
-#### Pero ahora podemos vivir armados del pensamiento de Cristo, para la volundad de Dios.
+#### Pero ahora podemos vivir <u>armados</u> del pensamiento de Cristo, para la voluntad de Dios.
 
-#### En este capitulo la frase "*volundad de Dios*", repite 3 veces 1 Pedro 4:2, 6, 19. Según 1 Pedro 2:15, podemos entender que. "... *esta es la voluntad de Dios: que haciendo bien…*", la volundad de Dios nunca ha estado relacionado al obrar de las pasiones humanas, sino al contrario en hacer el bien que viene de Dios. 1 Pedro 3:17
+#### En este capitulo la frase "*voluntad de Dios*", repite 3 veces 1 Pedro 4:2, 6, 19. Según 1 Pedro 2:15, podemos entender que. "... *esta es la voluntad de Dios: que haciendo bien…*", la voluntad de Dios nunca ha estado relacionado al obrar de las pasiones humanas, sino al contrario en hacer el <u>bien</u> que viene de Dios. 1 Pedro 3:17
 
-#### Para vivir el resto que nos queda en nuestro cuerpo fisico haciendo el bien, necesitamos estar equipados del armamento del pensamiento de Cristo y entender que la volundad de Dios es especificamente en hacer el bien y no el mal.
+#### Para vivir el resto que nos queda en nuestro cuerpo físico haciendo el bien, necesitamos estar equipados del armamento del pensamiento de Cristo y entender que la voluntad de <u>Dios</u> es específicamente en hacer el bien y no el mal.
 
-### Lo que a los gentiles les agrada hacer no se asemejna ni se relaciona con el vivir ni en el andar con la voluntad de Dios.
+### Lo que a los gentiles les agrada hacer no se asemejan ni se relaciona con el <u>vivir</u> ni en el andar con la voluntad de Dios.
 
-###  1 Pedro 4:3a "*Porque el tiempo ya pasado les es suficiente...*" El tiempo ya pasado puede referirse a que en otro tiempo no eramos parte del pueblo de Dios. 1 Pedro 2:10
+###  1 Pedro 4:3a "*Porque el tiempo ya pasado les es suficiente...*" El tiempo ya pasado <u>puede</u> referirse a que en otro tiempo no éramos parte del pueblo de Dios. 1 Pedro 2:10
 
-#### Y en el tiempo pasado andabamos descarriados, en las vanidades de una mente entenebrecida satisfaciendo los deseos de nuestras pasiones humanas. 1 Pedro 2:25; Efesios 2:3, 4:18
+#### Y en el tiempo pasado andábamos descarriados, en las vanidades de una mente entenebrecida satisfaciendo los <u>deseos</u> de nuestras pasiones humanas. 1 Pedro 2:25; Efesios 2:3, 4:18
 
-#### Todo aquello, es pasado y también es suficiente, porque ha sido un tiempo perdido, o desperdiciado, asi como lo traduce la biblia (BAD1989) 1 Pedro 4:3: "Pues ya basta con el tiempo que habéis desperdiciado…" antes de llegar a conocer a Dios andabamos sin guia, sin rumbo, sin esperanza, perdidos en nuestros deleites, sin esperanza y sin Dios en el mundo, lo cual no tenia ningun propósito.
+#### Todo aquello, es pasado y también es suficiente, porque ha sido un tiempo perdido, o desperdiciado, así como lo traduce la biblia (BAD1989) 1 Pedro 4:3: "Pues ya basta con el tiempo que habéis desperdiciado…" antes de llegar a conocer a Dios andábamos sin guía, sin rumbo, sin esperanza, perdidos en <u>nuestros</u> deleites, sin esperanza y sin Dios en el <u>mundo</u>, lo cual no tenia ningún propósito.
 
-###  1 Pedro 4:3b "*...para haber hecho lo que agrada a los gentiles...*" Todo nuestro andar en el tiempo pasado era agradable para la corriente del mundo en la que los gentiles que no conocen a Dios, disfrutan vivir. Romanos 6:21
+###  1 Pedro 4:3b "*...para haber hecho lo que agrada a los gentiles...*" Todo nuestro andar en el tiempo pasado era agradable para la corriente del mundo en la que los gentiles que no <u>conocen</u> a Dios, disfrutan vivir. Romanos 6:21
 
-#### aquí Pedro usa esta palabra, no con el objetivo de demostrar que el pueblo judio no anda conforme a las pasiones humanas, a diferencia de los gentiles, sino, al contrario un judio incredulo, al igual que, un gentil incrédulo, es de la misma manera esclavo de las pasiones humanas.
+#### aquí Pedro usa esta palabra, no con el objetivo de demostrar que el pueblo judío no anda conforme a las pasiones humanas, a diferencia de los gentiles, sino, al contrario un <u>judío</u> incrédulo, al igual que, un gentil incrédulo, es de la misma manera esclavo de las pasiones humanas.
 
-#### Esta palabra ÉTHNOS, en el griego tiene su uso en referencia a nación o también podría tener el uso de Linaje.
+#### Esta palabra ÉTHNOS, en el griego tiene su uso en referencia a <u>nación</u> o también podría tener el uso de Linaje.
 
-##### Según 1 Pedro 2:9 todo creyente forma parte de la nación santa de Dios. Y todo incredulo no es pueblo de Dios.  1 Pedro 2:10
+##### Según 1 Pedro 2:9 todo creyente forma <u>parte</u> de la nación santa de Dios. Y todo incrédulo no es pueblo de Dios.  1 Pedro 2:10
 
-##### Entonces, Gentiles ETHNOS estaría mejor traducido como "Incrédulos", o también como "paganos", como lo traduce la biblia (BAD1989) "...*haciendo lo que agrada a los incrédulos*..." porque no forman del pueblo adquirido de Dios.
+##### Entonces, Gentiles ETHNOS estaría mejor traducido como "Incrédulos", o también como "paganos", como lo traduce la biblia (BAD1989) "...*haciendo lo que agrada a los incrédulos*..." porque no <u>forman</u> del pueblo adquirido de Dios.
 
-### 1 Pedro 4:3b "*...habiendo andado...*" Esto nos recuerda que en un tiempo pasado anduvimos en caminos que les agrada a los incrédulos, en sensualidades que lascivia o libertinaje sexual, lo que no se relaciona en nada con la nueva vida que tenemos en Cristo.
+### 1 Pedro 4:3b "*...habiendo andado...*" Esto nos recuerda que en un tiempo pasado anduvimos en caminos que les agrada a los incrédulos, en sensualidades que lascivia o libertinaje <u>sexual</u>, lo que no se relaciona en nada con la nueva vida que tenemos en Cristo.
 
-###  1 Pedro 4:3c "*... en sensualidad...*" Esto nos recuerda que en un tiempo pasado anduvimos en caminos que les agrada a los incrédulos, en sensualidades que lascivia o libertinaje sexual, lo que no se relaciona en nada con la nueva vida que tenemos en Cristo.
+###  1 Pedro 4:3c "*... en sensualidad...*" Esto nos recuerda que en un tiempo pasado anduvimos en <u>caminos</u> que les agrada a los incrédulos, en sensualidades que lascivia o libertinaje sexual, lo que no se relaciona en nada con la nueva vida que tenemos en Cristo.
 
 ###  1 Pedro 4:3d "*... lujurias...*" EPITHUMIA, se relaciona con los deseos lujuriosos, específicamente por los deseos de la carne.
 
-###  1 Pedro 4:3e "*... borracheras...*" ONIFLUGIA exceso de vino, para andar en estado de embriaguez.
+###  1 Pedro 4:3e "*... borracheras...*" ONIFLUGIA exceso de vino, para <u>andar</u> en estado de embriaguez.
 
-###  1 Pedro 4:3f "*...orgías...*" KOMOS fiestas descontroladas donde las lujurias y sensualidades son sin limite que en la antigüedad invitada a todo el pueblo a participar de desenfreno sexual.
+###  1 Pedro 4:3f "*...orgías...*" KOMOS fiestas descontroladas donde las lujurias y sensualidades son sin limite que en la antigüedad invitada a todo el <u>pueblo</u> a participar de desenfreno sexual.
 
-###  1 Pedro 4:3g "*... embriagueces...*" POTOS Banquetes de muchas variedades de bebidas.
+###  1 Pedro 4:3g "*... embriagueces...*" POTOS Banquetes de muchas variedades de <u>bebidas</u>.
 
 ###  1 Pedro 4:3h "*...y abominables idolatrías.*" idolatría es la transliteración de la  palabra griega EIDOLATREIA, que quiere decir que los incrédulo participan en la adoración de imágenes que no tienen vida y es completamente abominable delante de Dios.
 
-### El hacer la volundad de Dios es tan sorprendete para los incredulos que las únicas acciones y palabras que buscan hacer, es insultar a los creyentes, con tal de hacerlos quedar mal. 1 Pedro 3:16
+### El hacer la voluntad de Dios es tan sorpréndete para los incrédulos que las <u>únicas</u> acciones y palabras que buscan hacer, es insultar a los creyentes, con tal de <u>hacerlos</u> quedar mal. 1 Pedro 3:16
 
-####  1 Pedro 4:4a *Y en todo esto, se sorprenden de que ustedes...*" Ustedes, que han nacido de nuevo y viven para la voluntad de Dios, en hacer el bien, con una conciencia limpia, llega a causar sorpresa, o un estado de perplejidad a los incredulos que andan en todos los deseos de las pasiones humanas.
+####  1 Pedro 4:4a *Y en todo esto, se sorprenden de que ustedes...*" Ustedes, que han nacido de nuevo y viven para la voluntad de Dios, en hacer el bien, con una conciencia limpia, llega a causar sorpresa, o un estado de perplejidad a los incrédulos que andan en todos los <u>deseos</u> de las pasiones humanas.
 
-##### Claramente todo creyente tiene una diferencia posicional delante de Dios, y también al andar en la voluntad de Dios, un creyente muestra aquella diferencia que ya tiene, con los incredulos que no pueden hacer la voluntad de Dios.
+##### Claramente <u>todo</u> creyente tiene una diferencia posicional delante de Dios, y también al andar en la voluntad de Dios, un creyente muestra aquella diferencia que ya tiene, con los incrédulos que no pueden hacer la voluntad de Dios.
 
-####  1 Pedro 4:4b "*...no corren con ellos en el mismo desenfreno de disolución,...*" La palabra correr SUNTREKJO significa congregarse rapidamente juntamente con ellos en las reuniones y todos los actos que realizan. 1 Pedro 4:3
+####  1 Pedro 4:4b "*...no corren con ellos en el mismo desenfreno de disolución,...*" La palabra correr SUNTREKJO significa congregarse rápidamente juntamente con ellos en las reuniones y todos los <u>actos</u> que realizan. 1 Pedro 4:3
 
-##### limpia conciencia y buena conducta son completamente contrarios, al desenfreno y disolución, que a los incredulos les gusta correr, en hacer el mal y no el bien.
+##### limpia conciencia y buena conducta son completamente contrarios, al desenfreno y disolución, que a los incrédulos les gusta <u>correr</u>, en hacer el mal y no el bien.
 
-##### Aunque ellos quisieran andar en hacer el bien, no pueden porque son esclavos de sus propias pasiones, y como no pueden, con tal de ser vistos bien, ellos continúan corriendo en el mismo camino de desenfreno y disolución.
+##### Aunque ellos quisieran andar en hacer el bien, no pueden <u>porque</u> son esclavos de sus propias pasiones, y como no pueden, con tal de ser vistos bien, ellos continúan corriendo en el mismo camino de desenfreno y disolución.
 
-####  1 Pedro 4:4c "*...y los insultan.*" Entonces al ver ellos (incrédulos) a los creyentes, en un andar que es tan evidente en una buena conducta y limpia conciencia a los ojos de Dios y también a los ojos de ellos, sin encontrar argumentos, solo responden con insultos e injurias para que respondamos en disolución como ellos lo hacen. 1Pedro 2:15, 3:17
+####  1 Pedro 4:4c "*...y los insultan.*" Entonces al ver ellos (incrédulos) a los creyentes, en un andar que es tan evidente en una buena conducta y limpia conciencia a los ojos de Dios y también a los <u>ojos</u> de ellos, sin encontrar argumentos, solo responden con insultos e injurias para que respondamos en disolución como ellos lo hacen. 1Pedro 2:15, 3:17
 
-##### Y al andar con todo respeto y mansedumbre para ellos sigue siendo sorprendente y eso para su propia vergüenza porque saben que todo lo que insultan e injurian es falso, porque no pueden demostrarlo. 1 Pedro 3:15
+##### Y al andar con todo respeto y mansedumbre para ellos sigue siendo sorprendente y eso para su propia vergüenza porque saben que todo lo que insultan e injurian es <u>falso</u>, porque no pueden demostrarlo. 1 Pedro 3:15
 
-###  1 Pedro 4:5a "*Pero ellos darán cuenta a Aquel...*" Si bien Dios sabia quienes serán los escogidos, Dios nunca ideo un plan que excluiría a los hombres de llegar a tener salvación, es por eso que ellos darán cuenta a Dios en el gran trono blanco.
+###  1 Pedro 4:5a "*Pero ellos darán cuenta a Aquel...*" Si bien Dios sabia quienes serán los escogidos, Dios nunca ideo un <u>plan</u> que excluiría a los hombres de llegar a tener salvación, es por eso que ellos darán cuenta a Dios en el gran trono blanco.
 
-#### Primero, por sus obras: Apocalipsis 20:12, Sus buenas obras demostraran claramente que ellos no alcanzaron la salvación porque todas sus justicias no se compara con la justicia de Dios en la obra de Cristo. Isaías 64:6; Romanos 1:17
+#### Primero, por sus obras: Apocalipsis 20:12, Sus buenas obras demostraran claramente que ellos no alcanzaron la salvación porque todas sus justicias no se compara con la justicia de Dios en la <u>obra</u> de Cristo. Isaías 64:6; Romanos 1:17
 
-##### Dentro de este juicio se les tendrá en su contra el haber actuado con insultos e injurias sobre los creyentes. 1 Pedro 2:12
+##### Dentro de este juicio se les <u>tendrá</u> en su contra el haber actuado con insultos e injurias sobre los creyentes. 1 Pedro 2:12
 
-#### Segundo, por que no creyeron en el evangelio: Juan 3:18 "*El que cree en Él no es condenado; pero el que no cree, ya ha sido condenado, porque no ha creído en el nombre del unigénito Hijo de Dios.*" Apocalipsis 13:8, 20:15
+#### Segundo, por que no creyeron en el <u>evangelio</u>: Juan 3:18 "*El que cree en Él no es condenado; pero el que no cree, ya ha sido condenado, porque no ha creído en el nombre del unigénito Hijo de Dios.*" Apocalipsis 13:8, 20:15
 
-##### Juan 3:36 "*El que cree en el Hijo tiene vida eterna; pero el que rehúsa creer en el Hijo no verá la vida, sino que la ira de Dios está sobre él.*" (RVR60), Cualquiera que se rehúsa a creer no significa que Dios no le dio la fe para creer, sino que el creer es la participación de todo hombre en la salvación, ya que solamente es por medio de la fe en Cristo que hemos sido librados de la condenación. 1 Pedro 1:9
+##### Juan 3:36 "*El que cree en el Hijo tiene vida eterna; pero el que rehúsa creer en el Hijo no verá la vida, sino que la ira de Dios está sobre él.*" (RVR60), Cualquiera que se rehúsa a creer no significa que Dios no le dio la fe para creer, sino que el <u>creer</u> es la participación de todo hombre en la salvación, ya que solamente es por medio de la fe en Cristo que hemos sido librados de la condenación. 1 Pedro 1:9
 
-#### Es por esto que al dar cuentas ellos, serán inexcusables, porque Dios hizo posible para que todos los hombres puedan llegar a la salvación, ya que ellos mismos evidenciaron la obra de Dios en otras personas que anduvieron en la voluntad de Dios y en vez de ellos acercarse por la Fe al salvador, los insultaron y calumniaron. 
+#### Es por esto que al dar cuentas ellos, serán inexcusables, porque Dios hizo posible para que todos los hombres puedan llegar a la salvación, ya que ellos mismos evidenciaron la <u>obra</u> de Dios en otras personas que anduvieron en la voluntad de Dios y en vez de ellos acercarse por la Fe al salvador, los insultaron y calumniaron. 
 
-### 1 Pedro 4:5b "*...que está preparado para juzgar a los vivos y a los muertos.*" Dios le ha otorgado a Jesucristo la autoridad de realizar juicio a todos los hombres, y esta preparado para juzgar, tanto a los creyentes, como a los incrédulos. Juan 5:24-29
+### 1 Pedro 4:5b "*...que está preparado para juzgar a los vivos y a los muertos.*" Dios le ha otorgado a Jesucristo la autoridad de realizar <u>juicio</u> a todos los hombres, y esta preparado para juzgar, tanto a los creyentes, como a los incrédulos. Juan 5:24-29
 
-#### los vivos, son todos los que han tenido un nuevo nacimiento. 1 Pedro 1:23; Romanos 6:11
+#### los vivos, son todos los que han tenido un <u>nuevo</u> nacimiento. 1 Pedro 1:23; Romanos 6:11
 
-##### Los creyentes tendrán un juicio en el tribunal de Cristo, donde se otorgaran premios o se quitaran premios, según hayan caminado por la fe, pero en ningún momento será la perdida de su salvación. 
+##### Los creyentes tendrán un juicio en el tribunal de Cristo, donde se otorgaran <u>premios</u> o se quitaran premios, según hayan caminado por la fe, pero en ningún momento será la perdida de su salvación. 
 
-#### Y los muertos son todos aquellos que no han creído en el evangelio. Romanos 3:23; Juan 3:18
+#### Y los muertos son todos aquellos que no han <u>creído</u> en el evangelio. Romanos 3:23; Juan 3:18
 
-##### Hebreos 9:27 "*Y así como está decretado que los hombres mueran una sola vez, y después de esto, el juicio,*" ningún creyente pasara por este juicio.
+##### Hebreos 9:27 "*Y así como está decretado que los hombres mueran una sola vez, y después de esto, el juicio,*" ningún creyente pasara por <u>este</u> juicio.
 
-##### El gran trono blanco será el juicio final, en que todos los que murieron sin Cristo resucitaran y su juicio será para condenación eterna, separados eternamente de Dios. Apocalipsis 20:11-15
+##### El gran trono blanco será el juicio final, en que todos los que murieron sin Cristo resucitaran y su juicio será para condenación eterna, separados eternamente de <u>Dios</u>. Apocalipsis 20:11-15
 
-###  El evangelio que fue predicado, a los que ahora ya duermen, tuvo el mismo propósito que tuvo en el tiempo que se escribió la carta de Pedro, como ahora sigue teniendo el mismo propósito de animar a los creyentes en su andar. 1 Pedro 4:2
+###  El evangelio que fue predicado, a los que ahora ya duermen, tuvo el mismo propósito que tuvo en el tiempo que se escribió la carta de Pedro, como ahora sigue teniendo el mismo propósito de <u>animar</u> a los creyentes en su andar. 1 Pedro 4:2
 
-### Los que ahora están muertos tal vez fueron condenados por los hombres en este mundo; sin embargo, se les anunciaron las buenas noticias para que pudieran vivir ante Dios por el Espíritu. (PDT)
+### Los que ahora están muertos tal vez <u>fueron</u> condenados por los hombres en este mundo; sin embargo, se les anunciaron las buenas noticias para que pudieran vivir ante Dios por el Espíritu. (PDT)
 
-###  1 Pedro 4:6a "*Porque con este fin fue predicado el evangelio aun a los muertos...*" La predicación del evangelio tiene un fin y un resultado completamente seguro.
+###  1 Pedro 4:6a "*Porque con este fin fue predicado el evangelio aun a los muertos...*" La predicación del evangelio tiene un fin y un <u>resultado</u> completamente seguro.
 
-#### Evangelio, EUANGELIZO es un verbo en tiempo aoristo, modo indicativo, y voz pasiva. Lo que que quiere decir es que en un tiempo pasado se puede afirmar que alguien predico el evangelio a los creyentes que ahora están ya muertos (dormidos).
+#### Evangelio, EUANGELIZO es un verbo en tiempo aoristo, modo indicativo, y voz pasiva. Lo que que quiere decir es que en un <u>tiempo</u> pasado se puede afirmar que alguien predico el evangelio a los creyentes que ahora están ya muertos (dormidos).
 
-###  1 Pedro 4:6b "*...para que aunque sean juzgados en la carne como hombres,...*" Aquellos creyentes que ahora ya están muertos, dieron testimonio de que anduvieron en la voluntad de Dios, haciendo el bien, y fueron insultados, injuriados y juzgados por los hombres mientras estaban vivos.
+###  1 Pedro 4:6b "*...para que aunque sean juzgados en la carne como hombres,...*" Aquellos creyentes que ahora ya están muertos, dieron testimonio de que anduvieron en la voluntad de Dios, haciendo el bien, y fueron insultados, injuriados y juzgados por los hombres <u>mientras</u> estaban vivos.
 
-#### Juzgados, KRINO, es un verbo en tiempo aoristo, voz pasiva, lo que quiere decir, que en algún punto del tiempo pasado, los creyentes que ahora están muertos han sido "*...juzgados según los hombres.*" (BTX4) mientras aun estaban en el cuerpo.
+#### Juzgados, KRINO, es un verbo en tiempo aoristo, voz pasiva, lo que quiere decir, que en algún punto del tiempo pasado, los <u>creyentes</u> que ahora están muertos han sido "*...juzgados según los hombres.*" (BTX4) mientras aun estaban en el cuerpo.
 
-###  1 Pedro 4:6c "*...vivan en el espíritu conforme a la voluntad de Dios.*" Aquellos creyentes que ahora están muertos, vivieron el tiempo que les restaba en el cuerpo, no conforme a los deseos de las pasiones humanas, sino según el Espíritu, haciendo el bien y no el mal.
+###  1 Pedro 4:6c "*...vivan en el espíritu conforme a la voluntad de Dios.*" Aquellos creyentes que ahora están muertos, vivieron el tiempo que les restaba en el cuerpo, no conforme a los <u>deseos</u> de las pasiones humanas, sino según el Espíritu, haciendo el bien y no el mal.
 
-#### "*Vivan*" ZAO, es un verbo en tiempo aoristo, voz activa, lo que quiere decir que en el pasado, los creyentes que fueron juzgados según el criterio de los hombres, vivieron conforme a la voluntad de Dios, activamente en el Espíritu.
+#### "*Vivan*" ZAO, es un verbo en tiempo aoristo, voz activa, lo que quiere decir que en el pasado, los creyentes que fueron juzgados según el criterio de los hombres, <u>vivieron</u> conforme a la voluntad de Dios, activamente en el Espíritu.
 
 # 1 Pedro 4:7-11 – Sufrimiento y servicio 1
 
-###  1 Pedro 4:7a "*Pero el fin de todas las cosas se acerca.*" El fin de todas las cosas, ha comenzado a acercarse y hoy esta más cerca de lo que estaba en el tiempo de Pedro.
+###  1 Pedro 4:7a "*Pero el fin de todas las cosas se acerca.*" El fin de todas las cosas, ha comenzado a acercarse y hoy esta más <u>cerca</u> de lo que estaba en el tiempo de Pedro.
 
-###  1 Pedro 4:7b "...*Sean pues ustedes prudentes y de espíritu sobrio para la oración.*" Pedro animaba a su audiencia a no vivir en las pasiones humanas, el tiempo que queda, en este pasaje da una instrucción de ser sobrios para la oración, prudentes.
+###  1 Pedro 4:7b "...*Sean pues ustedes prudentes y de espíritu sobrio para la oración.*" Pedro animaba a su audiencia a no vivir en las pasiones humanas, el tiempo que <u>queda</u>, en este pasaje da una instrucción de ser sobrios para la oración, prudentes.
 
-###  1 Pedro 4:8a "*Sobre todo, sean fervientes en su amor los unos por los otros,...*" Sobre todo, teniendo por encima de cualquier circunstancia, o situación, incluso por encima de los sufrimientos y tribulaciones.
+###  1 Pedro 4:8a "*Sobre todo, sean fervientes en su amor los unos por los otros,...*" Sobre todo, teniendo por encima de cualquier circunstancia, o situación, incluso por <u>encima</u> de los sufrimientos y tribulaciones.
 
-###  1 Pedro 4:8b "*...pues el amor cubre multitud de pecados.*" debían ser genuinos e intencionales en dar amor, los unos por los otros. Proverbios 10:12
+###  1 Pedro 4:8b "*...pues el amor cubre multitud de pecados.*" debían ser genuinos e intencionales en <u>dar</u> amor, los unos por los otros. Proverbios 10:12
 
-###  1 Pedro 4:9a "*Sean hospitalarios los unos para con los otros,...*" El cuidarse en tiempos de sufrimiento y tribulación llega a ser de gran bendición y descanso, al sobre llevar también las cargas los unos de los otros.
+###  1 Pedro 4:9a "*Sean hospitalarios los unos para con los otros,...*" El cuidarse en tiempos de sufrimiento y tribulación llega a ser de gran bendición y descanso, al <u>sobre</u> llevar también las cargas los unos de los otros.
 
-###  1 Pedro 4:9b "*...sin murmuraciones.*" El ser hospitalarios unos con otros debía ser intencional entre todos de manera sincera, sin quejas.
+###  1 Pedro 4:9b "*...sin murmuraciones.*" El ser hospitalarios unos con otros <u>debía</u> ser intencional entre todos de manera sincera, sin quejas.
 
-###  1 Pedro 4:10a "*Según cada uno ha recibido un don especial, úselo sirviéndose los unos a los otros...*" Todo creyente, ha recibido un don especial dado por el Espíritu Santo, Pedro anima a usar los dones para el servicio de cada miembro del cuerpo de Cristo.
+###  1 Pedro 4:10a "*Según cada uno ha recibido un don especial, úselo sirviéndose los unos a los otros...*" Todo creyente, ha recibido un don especial dado por el Espíritu Santo, Pedro <u>anima</u> a usar los dones para el servicio de cada miembro del cuerpo de Cristo.
 
-###  1 Pedro 4:10b "*como buenos administradores de la multiforme gracia de Dios.*" como servidores excelentes en la multiforme gracia que Dios ha repartido.
+###  1 Pedro 4:10b "*como buenos administradores de la multiforme gracia de Dios.*" como servidores excelentes en la multiforme gracia que Dios <u>ha</u> repartido.
 
 ###  1 Pedro 4:11a "*El que habla, que hable conforme a las palabras de Dios;*" El que habla o se dedica a la predicación de la palabra, debe hablar conforme a la palabra de Dios que ha revelado en su escritura y no según criterio humano
 
-###  1 Pedro 4:11b "*...el que sirve, que lo haga por la fortaleza que Dios da,...*" de la misma manera, el servicio puede llegar a ser agotador si uno lo realiza en sus propias fuerzas, Pedro anima a los que sirven a que puedan fortalecerse, de la fortaleza que proviene solamente de Dios.
+###  1 Pedro 4:11b "*...el que sirve, que lo haga por la fortaleza que Dios da,...*" de la misma manera, el servicio puede llegar a ser agotador si uno lo realiza en sus propias fuerzas, Pedro anima a los que sirven a que puedan fortalecerse, de la fortaleza que proviene <u>solamente</u> de Dios.
 
-###  1 Pedro 4:11c "*para que en todo Dios sea glorificado mediante Jesucristo,...*" Toda obra mediante Jesucristo trae gloria a Dios y no la gloria de los hombres.
+###  1 Pedro 4:11c "*para que en todo Dios sea glorificado mediante Jesucristo,...*" Toda obra mediante Jesucristo trae gloria a <u>Dios</u> y no la gloria de los hombres.
 
-###  1 Pedro 4:11d "*...a quien pertenecen la gloria y el dominio por los siglos de los siglos. Amén.*" Es a Dios que le pertenece toda la gloria, y siempre le ha pertenecido el dominio eterno y le seguirá perteneciendo por los siglos de los siglos.
+###  1 Pedro 4:11d "*...a quien pertenecen la gloria y el dominio por los siglos de los siglos. Amén.*" Es a Dios que le pertenece toda la gloria, y siempre le ha pertenecido el dominio <u>eterno</u> y le seguirá perteneciendo por los siglos de los siglos.
 
 # 1 Pedro 4:12-19 – Sufrimiento y bendiciones 
 
-###  1 Pedro 4:12a "*Amados,...*" Esta es la segunda ves que Pedro se dirige como amados a los receptores de la epístola. 1 Pedro 2:12
+###  1 Pedro 4:12a "*Amados,...*" Esta es la segunda ves que Pedro se <u>dirige</u> como amados a los receptores de la epístola. 1 Pedro 2:12
 
-###  1 Pedro 4:12b "*...no se sorprendan del fuego de prueba que en medio de ustedes ha venido*" No debía ser cosa extraña para ellos el fuego de prueba que había venido sobre ellos, ya que Dios se esta encargando de purificar su fe mas preciosa que el oro. 1 Pedro 1:7
+###  1 Pedro 4:12b "*...no se sorprendan del fuego de prueba que en medio de ustedes ha venido*" No debía ser cosa extraña para ellos el fuego de prueba que había <u>venido</u> sobre ellos, ya que Dios se esta encargando de purificar su fe mas preciosa que el oro. 1 Pedro 1:7
 
-###  1 Pedro 4:12c "*...para probarlos,*" En medio de su andar diversas pruebas estaban dirigidas específicamente a ellos.
+###  1 Pedro 4:12c "*...para probarlos,*" En medio de su <u>andar</u> diversas pruebas estaban dirigidas específicamente a ellos.
 
-###  1 Pedro 412d "*...como si alguna cosa extraña les estuviera aconteciendo.*" Pero eso no debía parecerles extraño, ya que Dios esta obrando en medio de ellos.
+###  1 Pedro 412d "*...como si alguna cosa extraña les estuviera aconteciendo.*" Pero eso no debía parecerles extraño, ya que Dios esta obrando en <u>medio</u> de ellos.
 
-### 1 Pedro 4:13a "*Antes bien, en la medida en que comparten los padecimientos de Cristo, regocíjense,*" Ellos estaban teniendo el privilegio de compartir los padecimientos del Señor Jesucristo, lo cual era algo en que ellos podían sentirse muy especiales para Dios.
+### 1 Pedro 4:13a "*Antes bien, en la medida en que comparten los padecimientos de Cristo, regocíjense,*" Ellos estaban teniendo el privilegio de compartir los padecimientos del Señor Jesucristo, lo cual era algo en que ellos podían sentirse <u>muy</u> especiales para Dios.
 
-### 1 Pedro 4:13b "*...para que también en la revelación de Su gloria se regocijen con gran alegría.*" JAIRO es un verbo en tiempo presente, modo imperativo en voz activa, que significa que ellos debían estar alegres y gozosos, con el propósito de que al acercarse al Señor ellos puedan estar contentos de que vivieron para la gloria del Dios.
+### 1 Pedro 4:13b "*...para que también en la revelación de Su gloria se regocijen con gran alegría.*" JAIRO es un verbo en tiempo presente, modo imperativo en voz activa, que significa que ellos debían estar alegres y gozosos, con el propósito de que al acercarse al <u>Señor</u> ellos puedan estar contentos de que vivieron para la gloria del Dios.
 
-### 1 Pedro 4:14a "*Si ustedes son insultados por el nombre de Cristo, dichosos son,...*" Cristo prometió que por su nombre, todo creyente que anda guardando su palabra seria insultado por su causa, pero esto es de gran dicha, ya que es un privilegio poder sufrir por el nombre de Cristo.
+### 1 Pedro 4:14a "*Si ustedes son insultados por el nombre de Cristo, dichosos son,...*" Cristo prometió que por su nombre, todo creyente que anda guardando su palabra <u>seria</u> insultado por su causa, pero esto es de gran dicha, ya que es un privilegio poder sufrir por el nombre de Cristo.
 
 ### 1 Pedro 4:14b "*...pues el Espíritu de gloria y de Dios reposa sobre ustedes.*" 
 
-### 1 Pedro 4:14c "*...Ciertamente, por ellos Él es blasfemado, pero por ustedes es glorificado.*" los que reciben el insulto no es directamente el creyente, sino que el Señor es el que recibe los insultos, ellos actúan con blasfemia en contra de Él, pero al permanecer en mansedumbre y con limpia conciencia regocijándonos en la tribulación el Señor es glorificado.
+### 1 Pedro 4:14c "*...Ciertamente, por ellos Él es blasfemado, pero por ustedes es glorificado.*" los que reciben el insulto no es directamente el creyente, sino que el Señor es el que recibe los insultos, ellos <u>actúan</u> con blasfemia en contra de Él, pero al permanecer en mansedumbre y con limpia conciencia regocijándonos en la tribulación el Señor es glorificado.
 
-### 1 Pedro 4:15a "*Que de ninguna manera sufra alguien de ustedes como asesino,..."* Un asesino sufre por las consecuencias de sus actos, aquí Pedro da otro imperativo en esto no debe ser así en medio de ellos.
+### 1 Pedro 4:15a "*Que de ninguna manera sufra alguien de ustedes como asesino,..."* Un asesino sufre por las consecuencias de sus actos, aquí Pedro da otro imperativo en esto no <u>debe</u> ser así en medio de ellos.
 
-#### 1 Pedro 4:15b "*... o ladrón,...*" de igual modo no debían sufrir por causa de haber sido parte de obras que no van con el andar según la voluntad de Dios
+#### 1 Pedro 4:15b "*... o ladrón,...*" de igual modo no debían <u>sufrir</u> por causa de haber sido parte de obras que no van con el andar según la voluntad de Dios
 
-#### 1 Pedro 4:15c "*...o malhechor,...*" tampoco debían sufrir como malhechores, esto hace recuerdo a que ellos debían vivir haciendo el bien y no el mal.
+#### 1 Pedro 4:15c "*...o malhechor,...*" tampoco debían sufrir como malhechores, esto hace recuerdo a que ellos debían <u>vivir</u> haciendo el bien y no el mal.
 
-#### 1 Pedro 4:15d "*...o por entrometido.*" por participar en las disoluciones de los incrédulos ellos podían llegar a sufrir, pero esto no debía ser así,  ya que los sufrimientos que provienen de Dios, son por andar en su voluntad haciendo el bien y no metiéndose en asuntos que no convienen.
+#### 1 Pedro 4:15d "*...o por entrometido.*" por participar en las disoluciones de los incrédulos ellos podían llegar a sufrir, pero esto no debía ser así,  ya que los sufrimientos que provienen de Dios, son por andar en su voluntad haciendo el bien y no metiéndose en <u>asuntos</u> que no convienen.
 
-### 1 Pedro 4:16a "*Pero si alguien sufre como cristiano,...*" En aquel tiempo un cristiano era visto como alguien que andaba en la voluntad de Dios, y su andar era evidente a los demás, lo cual provocaba a los incrédulos insultarlos, y eso podría ser causa de sentir vergüenza.
+### 1 Pedro 4:16a "*Pero si alguien sufre como cristiano,...*" En aquel tiempo un cristiano era visto como alguien que andaba en la voluntad de Dios, y su andar era evidente a los <u>demás</u>, lo cual provocaba a los incrédulos insultarlos, y eso podría ser causa de sentir vergüenza.
 
-### 1 Pedro 4:16b "*...que no se avergüence, sino que como tal glorifique a Dios.*" en vez de avergonzarse de sufrir como Cristiano, con el regocijo de que las pruebas provienen de Dios, Pedro les da el ánimo de glorificar a Dios.
+### 1 Pedro 4:16b "*...que no se avergüence, sino que como tal glorifique a Dios.*" en vez de avergonzarse de sufrir como Cristiano, con el regocijo de que las <u>pruebas</u> provienen de Dios, Pedro les da el ánimo de glorificar a Dios.
 
-### 1 Pedro 4:17a "*Porque es tiempo de que el juicio comience por la casa de Dios.*" El juicio de Dios inicia con el de los creyentes en el tribunal de Cristo, en el que todo creyente va a comparecer ante el Señor.
+### 1 Pedro 4:17a "*Porque es tiempo de que el juicio comience por la casa de Dios.*" El juicio de Dios inicia con el de los creyentes en el tribunal de Cristo, en el que todo <u>creyente</u> va a comparecer ante el Señor.
 
-### 1 Pedro 4:17b "*Y si comienza por nosotros primero,...*" el tribunal de Cristo será después del rapto de la iglesia, el juicio será llevado a cabo en los cielos.
+### 1 Pedro 4:17b "*Y si comienza por nosotros primero,...*" el tribunal de Cristo será después del rapto de la iglesia, el juicio será llevado a cabo en los <u>cielos</u>.
 
-### 1 Pedro 4:17c "*...¿cuál será el fin de los que no obedecen al evangelio de Dios?*" Pero el gran trono blanco sera el juicio final, donde todos los incrédulos resucitaran después que haya pasado el milenio, y si los creyentes fueron juzgados según su andar en el cuerpo, ¿entonces cual será el fin de los que no creyeron en el evangelio?
+### 1 Pedro 4:17c "*...¿cuál será el fin de los que no obedecen al evangelio de Dios?*" Pero el gran trono blanco será el juicio final, donde todos los incrédulos resucitaran después que haya <u>pasado</u> el milenio, y si los creyentes fueron juzgados según su andar en el cuerpo, ¿entonces cual será el fin de los que no creyeron en el evangelio?
 
-### 1 Pedro 4:18a "*Y SI EL JUSTO CON DIFICULTAD SE SALVA,*" Justo es todo aquel a quien Dios ha acreditado justicia el pecador perdido que creyo en el evangelio como el medio de salvación que Dios proveyó.
+### 1 Pedro 4:18a "*Y SI EL JUSTO CON DIFICULTAD SE SALVA,*" Justo es todo aquel a quien Dios ha acreditado justicia el pecador perdido que <u>creyo</u> en el evangelio como el medio de salvación que Dios proveyó.
 
-#### para un creyente es bastante difícil poder vivir en medio de sufrimientos y tribulaciones, salvarse de vivir una vida infructuosa es muy complicado ya que la misma corriente del mundo procede con insultos al creyente.
+#### para un creyente es bastante difícil poder vivir en medio de sufrimientos y tribulaciones, salvarse de vivir una vida infructuosa es muy complicado ya que la <u>misma</u> corriente del mundo procede con insultos al creyente.
 
-### 1 Pedro 4:18b "*¿QUÉ SERÁ DEL IMPÍO Y DEL PECADOR?*" Entonces un incrédulo que no tiene a Dios, poder salvarse de de andar en malas obras es todavía para ellos imposible, entonces cuando sea el juicio, que será de ellos, porque en el juicio final serán juzgados según sus obras con tal de recibir mayor o menor juicio en el lago de fuego.
+### 1 Pedro 4:18b "*¿QUÉ SERÁ DEL IMPÍO Y DEL PECADOR?*" Entonces un incrédulo que no tiene a Dios, poder salvarse de de andar en malas obras es todavía para ellos imposible, entonces cuando sea el juicio, que será de ellos, porque en el juicio final serán juzgados <u>según</u> sus obras con tal de recibir mayor o menor juicio en el lago de fuego.
 
-### 1 Pedro 4:19a "*Así que los que sufren conforme a la voluntad de Dios,*" Todo aquel que esta sufriendo por causa de bien y no del mal, puede estar completamente seguro y confiado que esta andando conforme a la voluntad de Dios.
+### 1 Pedro 4:19a "*Así que los que sufren conforme a la voluntad de Dios,*" Todo aquel que esta sufriendo por causa de bien y no del mal, puede estar completamente seguro y confiado que esta andando conforme a la <u>voluntad</u> de Dios.
 
-### 1 Pedro 4:19b "*encomienden sus almas al fiel Creador, haciendo el bien.*" ya que sus almas han sido purificadas por haber creído en el evangelio, de la misma manera pueden encomendar sus almas a Dios, andando confiados de que el esta obrando todavía en seguir purificando de manera que la prueba de la fe sea mas pura que el oro fino.
+### 1 Pedro 4:19b "*encomienden sus almas al fiel Creador, haciendo el bien.*" ya que sus almas han sido purificadas por haber creído en el evangelio, de la misma manera pueden encomendar sus almas a Dios, andando confiados de que el esta obrando <u>todavía</u> en seguir purificando de manera que la prueba de la fe sea mas pura que el oro fino.
 
 ## En Síntesis
 
@@ -1713,33 +1713,33 @@ Title: 1 & 2 Pedro
 
 ### EL PROPÓSITO DEL SUFRIMIENTO (1 Pedro 4:1-11, 15, 17-18)
 
-### Limpiar y purificar al creyente espiritual (1 Pedro 4:1-11)
+### Limpiar y <u>purificar</u> al creyente espiritual (1 Pedro 4:1-11)
 
-#### El triunfo (1 Pedro 4:1-3): El sufrimiento hace que el pecado pierda su poder.
+#### El triunfo (1 Pedro 4:1-3): El sufrimiento hace que el pecado <u>pierda</u> su poder.
 
-#### El testimonio (1 Pedro 4:4-6): Los amigos no salvos de un nuevo cristiano se maravillan de que él no desee compartir su estilo de vida malvado como antes.
+#### El testimonio (1 Pedro 4:4-6): Los amigos no salvos de un nuevo cristiano se maravillan de que él no desee compartir su estilo de vida <u>malvado</u> como antes.
 
-#### La ternura (1 Pedro 4:7-9): El sufrimiento debe cultivar nuestro amor por los demás creyentes.
+#### La ternura (1 Pedro 4:7-9): El sufrimiento debe cultivar nuestro <u>amor</u> por los demás creyentes.
 
-#### Los talentos (1 Pedro 4:10-11): Debemos emplear fielmente todos los dones espirituales que Dios nos ha dado.
+#### Los talentos (1 Pedro 4:10-11): Debemos emplear fielmente todos los dones espirituales que Dios <u>nos</u> ha dado.
 
 ### Disciplinar y castigar al creyente carnal (1 Pedro 4:15, 17-18): Dios disciplina a su pueblo.
 
 ### EL PRIVILEGIO DEL SUFRIMIENTO (1 Pedro 4:12-14, 16)
 
-#### Es de esperar (1 Pedro 4:12): A todos los creyentes se les permitirá sufrir.
+#### Es de esperar (1 Pedro 4:12): A todos los creyentes se les <u>permitirá</u> sufrir.
 
 #### Es de estimar (1 Pedro 4:13-14, 16)
 
-#### El sufrimiento como cristiano tiene un propósito, significa compartir los padecimientos de Cristo (1 Pedro 4:13a, 14a, 16a).
+#### El sufrimiento como <u>cristiano</u> tiene un propósito, significa compartir los padecimientos de Cristo (1 Pedro 4:13a, 14a, 16a).
 
-#### Sufrir por Cristo significa compartir su gloria futura (1 Pedro 4:13b, 14b, 16b). 
+#### Sufrir por Cristo significa compartir su <u>gloria</u> futura (1 Pedro 4:13b, 14b, 16b). 
 
 ### LA PACIENCIA EN EL SUFRIMIENTO (1 Pedro 4:19): Hay dos cosas que hacer en la hora del sufrimiento que es conforme a la voluntad de Dios.
 
 #### Podemos encomendarnos a Dios (1 Pedro 4:19b).
 
-#### Y seguir haciendo el bien (1 Pedro 4:19a).
+#### Y seguir <u>haciendo</u> el bien (1 Pedro 4:19a).
 
 ## 1 Pedro 5:1-11 – Guía adicional 
 
