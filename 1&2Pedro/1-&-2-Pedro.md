@@ -1700,11 +1700,17 @@ Title: 1 & 2 Pedro
 
 ### 1 Pedro 4:14c "*...Ciertamente, por ellos Él es blasfemado, pero por ustedes es glorificado.*" los que reciben el insulto no es directamente el creyente, sino que el Señor es el que recibe los insultos, ellos actúan con blasfemia en contra de Él, pero al permanecer en mansedumbre y con limpia conciencia regocijándonos en la tribulación el Señor es glorificado.
 
-### 1 Pedro 4:15 *Que de ninguna manera sufra alguien de ustedes como asesino, o ladrón, o malhechor, o por entrometido.*
+### 1 Pedro 4:15a "*Que de ninguna manera sufra alguien de ustedes como asesino,..."* Un asesino sufre por las consecuencias de sus actos, aquí Pedro da otro imperativo en esto no debe ser así en medio de ellos.
 
-### 1 Pedro 4:16 *Pero si alguien sufre como cristiano,*
+#### 1 Pedro 4:15b "*... o ladrón,...*" de igual modo no debían sufrir por causa de haber sido parte de obras que no van con el andar según la voluntad de Dios
 
-### *que no se avergüence, sino que como tal glorifique a Dios.*
+#### 1 Pedro 4:15c "*...o malhechor,...*" tampoco debían sufrir como malhechores, esto hace recuerdo a que ellos debían vivir haciendo el bien y no el mal.
+
+#### 1 Pedro 4:15d "*...o por entrometido.*" por participar en las disoluciones de los incrédulos ellos podían llegar a sufrir, pero esto no debía ser así,  ya que los sufrimientos que provienen de Dios, son por andar en su voluntad haciendo el bien y no metiéndose en asuntos que no convienen.
+
+### 1 Pedro 4:16a "*Pero si alguien sufre como cristiano,...*" En aquel tiempo un cristiano era visto como alguien que andaba en la voluntad de Dios, y su andar era evidente a los demás, lo cual provocaba a los incrédulos insultarlos, y eso podría ser causa de sentir vergüenza.
+
+### 1 Pedro 4:16b "*...que no se avergüence, sino que como tal glorifique a Dios.*" en vez de avergonzarse de sufrir como Cristiano, con el regocijo de que las pruebas provienen de Dios, Pedro les da el ánimo de glorificar a Dios.
 
 ### 1 Pedro 4:17 *Porque es tiempo de que el juicio comience por la casa de Dios.*
 
