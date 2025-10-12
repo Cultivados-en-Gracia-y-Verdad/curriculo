@@ -95,7 +95,7 @@ Title: 1 & 2 Pedro
 
 #### Pedro no esta diciendo que Dios eligió según Su <u>plan</u> predeterminado como lo hizo entregando a Jesucristo en Hechos 2. Hechos 2:23; 1 Pedro 1:20; Lucas 22:22
 
-#### Los <u>elegidos</u> no son según el plan predeterminado de Dios, sino __<u>según</u>__ Su previo conocimiento.  Romanos 8:29
+#### Los <u>elegidos</u> no son según el plan predeterminado de Dios, sino según Su previo conocimiento.  Romanos 8:29
 
 ##### Gálatas 4:9 *Pero ahora, conociendo a DIOS, y más bien, **habiendo sido conocidos por DIOS**, ¿cómo os volvéis de nuevo a los débiles y pobres rudimentos °, a los <u>cuales</u> otra vez queréis servir de nuevo como esclavos?* (BTX)
 
