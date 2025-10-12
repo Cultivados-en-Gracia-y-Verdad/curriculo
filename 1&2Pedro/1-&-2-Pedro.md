@@ -1349,7 +1349,7 @@ Title: 1 & 2 Pedro
 
 ####  En algún tiempo de la historia estos espíritus encarcelados fueron incrédulos. ¿Cuando?
 
-###  1 Pedro 3:20b *"...cuando la paciencia de Dios esperaba en los días de Noé durante la construcción del arca,...* El pasaje nos remonta a los tiempos de Noé durante los muchos años durante la construcción del arca.
+###  1 Pedro 3:20b *"...cuando la paciencia de Dios esperaba en los días de Noé durante la construcción del arca...*" El pasaje nos remonta a los tiempos de Noé durante los muchos años durante la construcción del arca.
 
 #### Génesis 6:3, 7, vemos a Dios anunciando el juicio que vendría por la maldad que había en el mundo. Génesis 6:11-12
 
@@ -1379,7 +1379,7 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 3:21 *"Y correspondiendo a esto, el bautismo ahora los salva a ustedes, no quitando la suciedad de la carne, sino como una petición a Dios de una buena conciencia, mediante la resurrección de Jesucristo,..."* Una mejor traducción para entre este versículo sería...
 
-#### 1 Pedro 3:20c-21*"...ocho personas, fueron salvadas a través de agua; la cual también es figura de cómo el bautismo ahora os salva (no como eliminación de la suciedad de la carne, sino como respuesta de una buena conciencia a Dios) mediante la resurrección de JESUCRISTO..."*(BTX4)
+#### 1 Pedro 3:20c-21*"...ocho personas, fueron salvadas a través de agua; la cual también es figura de cómo el bautismo ahora os salva (no como eliminación de la suciedad de la carne, sino como respuesta de una buena conciencia a Dios) mediante la resurrección de JESUCRISTO..."* (BTX4)
 
 ####  El pasaje **no enseña** que Noé fue salvo del infierno por entrar al arca. En Genesis 6:8 vemos que Noé hallo gracia a los ojos de Dios. Pasajes como Romanos 4 nos muestran que la salvación de la pena del pecado siempre fue por gracia por medio de la fe. Romanos 4:4-8
 
@@ -1469,21 +1469,29 @@ Title: 1 & 2 Pedro
 
 #### Cristo en Su buena conducta y haciendo lo bueno, aunque padecio en el cuerpo, aquel sufrimiento fue pequeño comparado con la victoria que obtuvo de vencer el pecado, vencer el mal con el bien. Este pasaje no esta enseñando asetismo, sino que este sufrimiento es causado por hacer el bien 1 Pedro 2:21-22.
 
-#### Este pasaje no esta enseñando a que un creyente debe buscar sufrir para vencer al pecado, como lo da a entender la versión (TLA) 1 Pedro 4:1,  "*... Si ustedes sufren como Cristo, ya no seguirán pecando.*" Esta traducción no es correcta. Esto contradeciria Romanos 6:10-11
+#### Este pasaje no esta enseñando que un creyente debe buscar sufrir para vencer al pecado, como lo da a entender la versión (TLA) 1 Pedro 4:1,  "*... Si ustedes sufren como Cristo, ya no seguirán pecando.*" Esta traducción no es correcta. Esto contradeciria Romanos 6:10-11
 
 #### 2 Timoteo 3:12 dice: "*Y en verdad, todos los que quieren vivir piadosamente en Cristo Jesús, serán perseguidos.*" Esta es una realidad que todo creyente debe esperar. Es por eso que Pedro quiere enseñar a su audiencia a que puedan contemplar el ejemplo de Cristo, que obtiene gran ganancia. 1 Pedro 1:7
 
-#### la palabra padecimiento "PASJO" o sufrimiento, de las 4 veces mencionadas en este capítulo, 2 veces son usadas en este versículo, lo que nos muestran la importancia del padecimiento de Cristo como base para todo el capitulo, sin dejar de lado lo que ya ha estado enseñando anteriormente, ya que en esta carta 11 veces se menciona la palabra griega "PASJO".
+#### la palabra "*padecimiento*" PASJO - experimentar daño o dolor emocional.[^1]
+
+##### 11 veces se menciona *padecimiento* en 1 Pedro.
+
+##### 4 veces es usada *padecimiento* en este capítulo, 
+
+##### 2 veces aparece la palabra *padecimiento* en este versículo. 
+
+##### La cantidad de veces que aparece, nos muestra la importancia del padecimiento de Cristo como base para todo el capitulo.
 
 ### 1 Pedro 4:1a "*Por tanto...*" OUN es una conjunción, lo que significa que da continuidad a la enseñanza que Pedro había explicado anteriormente en 1 Pedro 3:13-22
 
 #### Entendiendo que todo lo que iniciara explicando no tendría sentido si aislamos estos pasajes de los anteriores, por lo que también llegaríamos a entender, es que: en consecuencia de lo mencionado anteriormente.
 
-### 1 Pedro 4:1b "*...puesto que Cristo ha padecido en la carne...*" Fue anunciado por los profetas como el Mesías que debía padecer, y también ser sacrificado como un cordero inmolado. Daniel 9:26; Zacarias 12:10; Isaías 53:3-5; Isaías 53:7; Isaías 53:10-11
+### 1 Pedro 4:1b "*...puesto que Cristo ha padecido en la carne...*" Fue anunciado por los profetas como el Mesías que debía padecer, y también ser sacrificado como un cordero inmolado. Daniel 9:26; Zacarias 12:10; Isaías 53:3-5, 7, 10-11
 
-##### El rey David predijo que el Mesías padeceria, Salmo 22:6; 14-16
+##### El rey David predijo que el Mesías padeceria. Salmo 22:6, 14-16
 
-##### Jesús mismo anuncio que el Cristo debía padecer, que era necesario que Jesús pasara por padecimientos. Mateo 16:21; Lucas 9:22.
+##### Jesús mismo anuncio que el Cristo debía padecer, que era necesario que Jesús pasara por padecimientos. Mateo 16:21; Lucas 9:22
 
 #### Padecido PASJO significa experimentar una sensación o impresión (generalmente dolorosa). Sus padecimientos fueron conocidos desde antes de la fundación del mundo. 1 Pedro 1:19-20
 
@@ -1507,11 +1515,11 @@ Title: 1 & 2 Pedro
 
 #### Su sufrimiento anunciado y llevado a cabo de manera literal, no se quedo con el dolor de la muerte, sino que terminó en victoria. Hechos 2:24
 
-### 1 Pedro 4:1e: "*… ha terminado con el pecado,*" el dominio mortal del pecado, llego a tener su fin, por un hombre que en debilidad y dispuesto a sufrir por hacer el bien, teniendo su mirada en el gozo que estaba delante de Él, puso fin al pecado y todo su dominio. Romanos 6:7, 10.
+### 1 Pedro 4:1e: "*…ha terminado con el pecado...*" el dominio mortal del pecado, llego a tener su fin, por un hombre que en debilidad y dispuesto a sufrir por hacer el bien, teniendo su mirada en el gozo que estaba delante de Él, puso fin al pecado y todo su dominio. Romanos 6:7, 10.
 
 #### Es por eso que Pedro muestra a su audiencia como el armarse con la mente de Cristo, nos llena de valor, sabiendo y confiando que Dios no lo deja sin propósito, uno es bienaventurado si sufre por tener el mismo pensamiento que tuvo Cristo. Mateo 5:11-12; Filipenses 2:5-11; Colosenses 1:24; 1 Pedro 1:13, 4:12
 
-###  1 Pedro 4:2a *para vivir...* BIOSAI es un Verbo, aoristo, infinitivo, en voz activa, lo que expresa, que el sujeto realiza la acción de manera puntual y completa en el pasado.
+###  1 Pedro 4:2a "*para vivir...*" BIOSAI es un Verbo, aoristo, infinitivo, en voz activa, lo que expresa, que el sujeto realiza la acción de manera puntual y completa en el pasado.
 
 #### lo que significa que llegaste a vivir en un punto del tiempo (aoristo) de manera puntual y completa (infinitivo), por una acción que realizaste. (voz activa). Podria traducirse, para que habiendo vivido vivas.
 
@@ -1521,9 +1529,9 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 4:2b "*...el tiempo que le queda en la carne...*" Si bien tenemos una nueva vida en nuestros mismo cuerpos que teníamos cuando éramos incrédulos, no significa que nuestros cuerpos sean malos, sino que esta nueva vida podemos vivirla en estos mismo cuerpos que ahora son el templo del Espíritu Santo. 1 Corintios 6:19
 
-###  1 Pedro 4:2c "...*ya no para las pasiones humanas...*" Ya que Cristo termino con el pecado, ahora el creyente puede armarse de ese mismo pensamiento, porque Cristo vive, y la vida que ha logrado es para andar en novedad de vida y ya no en los resultados de muerte que ocasionaba el pecado.1 Pedro 3:
+###  1 Pedro 4:2c "...*ya no para las pasiones humanas...*" Ya que Cristo termino con el pecado, ahora el creyente puede armarse de ese mismo pensamiento, porque Cristo vive, y la vida que ha logrado es para andar en novedad de vida y ya no en los resultados de muerte que ocasionaba el pecado.1 Pedro 3
 
-#### La palabra "*ya no*" MEKETI  tiene una importancia significativa a la nueva vida, para decir que, de aquí en adelante ya no vivamos para los deseos que nos dominaban antes.
+#### La palabra "*ya no*" MEKETI tiene una importancia significativa a la nueva vida, para decir que, de aquí en adelante ya no vivamos para los deseos que nos dominaban antes.
 
 #### al momento de creer en el evangelio Dios nos otorgo en su gracia, vida eterna, con el resultado de poder vivir el resto de la vida, ya no más en el dominio de las pasiones humanas.
 
