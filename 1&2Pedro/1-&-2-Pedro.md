@@ -1935,23 +1935,29 @@ Title: 1 & 2 Pedro
 
 #### La manera de resistirlo es permaneciendo firmes en la fe. 
 
-### 1 Pedro 5:9 "*sabiendo que las mismas experiencias de sufrimiento*"
+### 1 Pedro 5:9 "*sabiendo que las mismas experiencias de sufrimiento*" Hay algo que debemos saber.
 
-#### hay algo que debemos saber
+#### No somos los unicos que estamos atravesando por sufrimiento o persecucion por Cristo, hay mas creyentes en una situcion similar aunque no los conocemos.
 
-### 1 Pedro 5:9 "*se van cumpliendo en sus hermanos en todo el mundo.*"
+#### Para este tiempo muchos creyente habrian estado sindo perseguidos y muchos otros muertos, otros pasando escazes o en peligros del camino
 
-### 1 Pedro 5:10 "*Y después de que hayan sufrido un poco de tiempo,*" tenemos un hecho esperanzador, no sufrimos eternamente. Los sufrimientos son temporales, aunque eso si no se nos dice cuanto tiempo, es hasta un punto. 
+### 1 Pedro 5:9 "*se van cumpliendo en sus hermanos en todo el mundo.*" muchas veces pensamos que somos los unicos que sufren, sin embargo, nuestros hermanos en todo el mundo tambien estan atravesando padecimiento en el nombre de Cristo.
+
+### 1 Pedro 5:10 "*Y después de que hayan sufrido un poco de tiempo,*" tenemos un hecho esperanzador, no sufrimos eternamente. Los sufrimientos son temporales, aunque eso si no se nos dice cuanto tiempo ni hasta que punto. 
+
+#### Podemos ver que el atravezar por sufrimientos en el nombre de Cristo tiene un proposito.
 
 ### 1 Pedro 5:10 "*el Dios de toda gracia,*" Dios el Padre lleno en gracia en Cristo Jesús. 
 
+#### Dios el Padre nos muestra que el sufrimiento como Cristiano tambien forma parte de su gracia en Cristo y en esa gracia tien un proposito para con el creyente.
+
 ### 1 Pedro 5:10 "*que los llamó a Su gloria eterna en Cristo,*" Dios el Padre fue el que nos llamó por medio del evangelio. Romanos 8:30-32
 
-#### Dios nos llamó a su gloria por medio de Cristo, esta en contraste a que antes estabamos destituidos de su gloria. 
+#### Dios nos llamó a su gloria por medio de Cristo, en contraste a que antes estabamos destituidos de su gloria. 
 
-### 1 Pedro 5:10 "*Él mismo*" el Dios de toda gracia mismo. Dios el Padre tiene un propósito con el creyente en que este atraviese padecimientos por causa de Cristo, esto es una certeza, el mismo Dios lleno de gracia que nos salvó por medio de Cristo, es el mismo que nos perfeccionará por medio del sufrimiento. Filipenses 1:6, 29
+### 1 Pedro 5:10 "*Él mismo*" El Dios de toda gracia, El mismo que nos llamo tiene un propósito con el creyente en que este atraviese padecimientos por causa de Cristo, esto es una certeza, el mismo Dios lleno de gracia que nos salvó por medio de Cristo, es el mismo que nos perfeccionará por medio del sufrimiento. Filipenses 1:6, 29
 
-### 1 Pedro 5:10 "*el mismo...los perfeccionará,*" A la luz del sufrimiento seremos moderados cada vez más a la imagen de Cristo. 
+### 1 Pedro 5:10 "*el mismo...los perfeccionará,*" A la luz del sufrimiento seremos moldeados cada vez más a la imagen de Cristo. 
 
 #### "*perfeccionará*" KATARTIZO - dejar listo o adecuado o equipado de antemano para un propósito particular o para algún uso, evento u otro propósito.[^1]
 
@@ -1967,7 +1973,7 @@ Title: 1 & 2 Pedro
 
 #### "*establecerá*" THERMELIOO - fortalecer una cualidad o aspecto personal; concebido como colocar una piedra fundamental o un soporte.
 
-### 1 Pedro 5:11 "*A Él sea el dominio por los siglos de los siglos. Amén.*" Dios es el que domina en un medio de sufrimiento. cerne no darle la gloria por lo que hará a traves de lo que muchas veces consideramos horrible, el. 
+### 1 Pedro 5:11 "*A Él sea el dominio por los siglos de los siglos. Amén.*" Dios es el que domina en un medio de sufrimiento como no darle la gloria por lo que hará a traves de lo que muchas veces consideramos horrible. 
 
 # 1 Pedro 5:12-14 – Observaciones finales
 
