@@ -134,7 +134,7 @@ Title: 1 & 2 Pedro
 
 ### Es dirigido a los dispersados en la <u>zona</u> que hoy conocemos como el norte de Turquía. 1 Pedro 1:1b
 
-### La fuente de <u>nuestra</u> salvación (1:1-2)
+### La fuente de <u>nuestra</u> salvación (1 Pedro 1:1-2)
 
 ### Los elegidos son <u>obra</u> de la Trinidad. 
 
@@ -298,23 +298,23 @@ Title: 1 & 2 Pedro
 
 ## En Síntesis (1 Pedro 1:3-9)
 
-### La garantía de nuestra salvación (1:3-5)
+### La garantía de nuestra salvación (1 Pedro 1:3-5)
 
-#### La seguridad (1:3): Está garantizada <u>por</u> la resurrección de Cristo.
+#### La seguridad (1 Pedro 1:3): Está garantizada <u>por</u> la resurrección de Cristo.
 
-#### La permanencia (1:4): Está reservada en el cielo <u>para</u> nosotros. 
+#### La permanencia (1 Pedro 1:4): Está reservada en el cielo <u>para</u> nosotros. 
 
-#### El poder (1:5): Por la fe tenemos segura esta salvación que Dios nos a provisto por <u>medio</u> de Cristo.
+#### El poder (1 Pedro 1:5): Por la fe tenemos segura esta salvación que Dios nos a provisto por <u>medio</u> de Cristo.
 
-### El gozo de nuestra salvación (1:6-9)
+### El gozo de nuestra salvación (1 Pedro 1:6-9)
 
-#### La promesa: Este <u>gozo</u> puede ser nuestro incluso en medio de las pruebas cuando conocemos que tienen un tiempo limite. (1:6)
+#### La promesa: Este <u>gozo</u> puede ser nuestro incluso en medio de las pruebas cuando conocemos que tienen un tiempo limite. (1 Pedro 1:6)
 
-#### Los frutos: Nuestras pruebas producen un doble fruto. (1:7-9)
+#### Los frutos: Nuestras pruebas producen un doble fruto. (1 Pedro 1:7-9)
 
-##### Aumentan nuestra <u>fe</u> en Dios (1:7).
+##### Aumentan nuestra <u>fe</u> en Dios (1 Pedro 1:7).
 
-##### Aumentan nuestro <u>amor</u> por Dios (1:8-9).
+##### Aumentan nuestro <u>amor</u> por Dios (1 Pedro 1:8-9).
 
 ## 1 Pedro 1:10-12 Cumplimiento de la fe anunciado
 
