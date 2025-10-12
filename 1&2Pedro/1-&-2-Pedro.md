@@ -654,7 +654,7 @@ Title: 1 & 2 Pedro
 
 #### Los creyentes ya habían experimentando lo bueno que era Dios, el Señor deseaba que continúen haciéndolo por medio de conocerlo más a través de la verdad de Su Gracia.
 
-## 1 Pedro 2:4-8 – Piedras vivas edificando una casa espiritual
+## 1 Pedro 2:4-8 Piedras vivas edificando una casa espiritual
 
 ###  1 Pedro 2:4 - Tomará a Él (Cristo) como un ejemplo de piedra viva, la cual los hombres desecharon, sin embargo esta piedra era escogida por Dios y preciosa a su vista.
 
@@ -736,7 +736,7 @@ Title: 1 & 2 Pedro
 
 #### En la carta de Romanos nos muestra vasos preparados para la destrucción, sin embargo en este pasaje no nos habla referente a la salvación o perdición de estos vasos, sinó nos habla de como Dios puede usar a Faraón para cumplir sus propósitos. Romanos 9:17-22
 
-## 1 Pedro 2:9-10 – La nueva realidad de los creyentes
+## 1 Pedro 2:9-10 La nueva realidad de los creyentes
 
 #### En estos pasajes nos motrará cual es la relación de los creyentes para con Dios y cual es el propósito de los creyentes hacia el mundo.
 
@@ -782,210 +782,126 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 2:10a *"Ustedes en otro tiempo no eran pueblo, pero ahora son el pueblo de Dios;..."* Nosotros podemos recordar nuestra antigua manera de vivir, en la cual no éramos pueblo de Dios, y estábamos alejados de la verdad. Efesios 2:12-13
 
-#### Ahora podemos entender el incalculable valor de ser pueblo de Dios, un pueblo santo, que anuncia las virtudes de su gracia y misericordia a toda criatura. 
+#### Ahora podemos entender el incalculable valor de ser pueblo de Dios, un pueblo santo, que anuncia las virtudes de su gracia y misericordia a toda criatura, llevando el mensaje de su gracia en nuestras vidas.
 
+###  1 Pedro 2:10b *"...no habían recibido misericordia, pero ahora han recibido misericordia."* Cuando éramos extraños a los pactos, ajenos a la ciudadanía de Dios, nos encontrábamos en nuestros delitos y pecados, no habíamos recibido la misericordia, sin embargo ahora hemos recibido misericordia y perdón  de aquel que nos llamó y nos rescató. Romanos 9:25; 10:19
+#### Este pasaje se cita al profeta Oseas, en el cual se anuncia a Dios teniendo compasión de un pueblo que no era su pueblo. Oseas 2:23
 
+## 1 Pedro 2:11-12 Instrucciones para los amados y su conducta hacia los gentiles
 
-#### , Nos muestra el valor incalculable de ser ahora pueblo de Dios, como nación santa, escogida por Dios, que impresionante es ser el pueblo de Dios y manifestarse al mundo como lo que ya somos, una expresión pública de DIos.
+###  1 Pedro 2:11a *"Amados, les ruego como a extranjeros y peregrinos,..."* El apóstol Pedro llamará amados a los creyentes, somos amados por causa de su hijo, estamos revestidos de Cristo. Gálatas 3:27
 
-#### Va relacionado con el propósito de Dios desde la creación, el objetivo de fructificad y multiplicar la tierra sojuzgarla, era de que su imagen, la imagen de DIos llene toda la tierra,
+#### La palabra amados [AGAPETOS] es un adjetivo que describe a los creyentes, esto es una realidad para cada creyente, un amado de Dios. Hebreos 6:9; 1 Pedro 4:12
 
-##### Desde la caída, vemos de nuevo el plan de Dios Con noe, Abraham y Moises,
+#### Considerando nuestra nueva ciudadanía, linaje y sacerdocio, el apóstol Pedro inicia con una rogativa hacia los creyentes, como si hablase a extranjeros y peregrinos sobre la tierra. Efesios 2:19; Hebreos 11:13
 
-#### Ahora nos muestra que Ya somos pueblo de Dios y podemos reflejar su caracter, voluntad y amor por toda la tierra. formamos parte del pueblo de Dios, una nación que no es terrenal sinó celestial.
+###  1 Pedro 2:11b *"...que se abstengan de las pasiones carnales que combaten contra el alma."* Las pasiones carnales continuamente combaten con el alma del creyente, el deseo es que se abstengan de estas pasiones. Santiago 4:1
 
-###  1 Pedro 2:10b *"...no habían recibido misericordia, pero ahora han recibido misericordia."*
-#### Los que estaban alejados a los pactos, hemos sido acercados, ahora hemos recibido misericordia de aquel que nos llamó y nos rescató.
+#### El verbo abstengan [APEJOMAI] se encuentra en tiempo presente, medio, infinitivo, dándonos a entender, una continuidad en tiempo presente la cual el creyente realiza en beneficio suyo.
 
-# 1 Pedro 2:11-3:13 PIADOSOS EN LA PERSECUCIÓN
+####  Las pasiones carnales en el creyente no fueron erradicadas, sin embargo la instrucción es el de abstenerse debido a que ya no es la identidad nueva del creyente, sino ahora es una nueva simiente y puede andar considerando eso continuamente.
 
-#### Considerando ahora todo lo que ya somos en Cristo y toda nuestra nueva identidad en el amado, pues podemos tomar esta instrucción por la fe
+#### En la carta a los Efesios nos muestra que el creyente tiene dos maneras de poder andar, una por el espíritu y otra por la carne. Gálatas 5:16-17
 
-###  1 Pedro 2:11 *Amados, les ruego como a extranjeros y peregrinos,*
+###  1 Pedro 2:12a *"Mantengan entre los gentiles una conducta irreprochable,..."* Ahora vemos instrucciones claras a los creyentes con respeto a su conducta hacia los incrédulos, veremos el provecho de un andar piadoso.  Filipenses 2:15; Tito 2:8
 
-#### Amados, los únicos amados de Dios son los que se encuentran en Cristo, Estos son amados por Causa de Su hijo, estamos revestidos de Cristo y cada creyente se considera un amado por Dios, esta ahora es su definición de un creyente, es un amado por Dios.
+#### Estas instrucciones prácticas serán visibles entre los gentiles, en una conducta sin motivo de reproche, Esto será un andar continuo considerando su nueva identidad en el amado. 
 
-###  *que se abstengan de las pasiones carnales que combaten contra el alma.*
-#### Considerando todo lo anterior, un creyente puede abstenerse de las pasiones carnales, Sabemos que la carne no fue erradicada por completo, sinó que se podría decir, la lucha del creyente en Santificación, es luchar contra la carne, Sin embargo, 
+###  1 Pedro 2:12b *"...a fin de que en aquello que les calumnian como malhechores,..."* Habrá algunas personas que calumniarán o difamarán a los creyentes como a malhechores o criminales por su conducta piadosa y sencilla entre los gentiles. Hechos 28:22 ; 2 Timoteo 3:12
 
-#### Efesios nos mostrara que solo hay dos maneras de andar, una por el espíritu y otra por la carne. no hay otra manera ú forma. ahora esta es una instrucción a los creyentes, el abstenerse de las pasiones carnales, que combaten contra el alma,
+###  1 Pedro 2:12c *"...ellos, por razón de las buenas obras de ustedes, al considerarlas, glorifiquen a Dios en el día de la visitación."* Estas personas que los calumnian verán las buenas obras de los creyentes y al considerarlas glorificarán a Dios. Mateo 5:16, 9:8
 
-#### En el contexto de Pedro pues considerar mi simiente incorruptible, y andar de esa manera, 
+#### Este versículo nos muestra de manera práctica el resultado de la piedad hacia los incrédulos y ellos puedan glorificar a Dios debido a las buenas acciones de los creyentes.
 
-###  1 Pedro 2:12 *Mantengan entre los gentiles una conducta irreprochable,*
+#### El día de la visitación o en algunos traducciones de juicio. Isaías 10:3; Lucas 19:44
 
-#### Estas instrucciones prácticas serán visibles entre los gentiles, en una conducta irreprochable. Como es eso posible? Sencillamente es un andar diario, practico, considerando nuestra nueva realidad, identidad, la vista puesta en las cosas que son del espíritu, y el resultado es una conducta irreprochable.
+## 1 Pedro 2:13-15 Un motivo por el cual someterse   
 
-###  *a fin de que en aquello que les calumnian como malhechores,*
+###  1 Pedro 2:13a  *"Sométanse, por causa del Señor, a toda institución humana,..."* Esta instrucción a los creyentes nos mostrará una sujeción voluntaria a toda autoridad, por un motivo, por causa del Señor.
 
-#### Es interesante notar, que a los creyentes se les calumnia como malhechores, por su conducta piadosa y sencilla, entre los gentiles.
+#### La palabra sométanse [JUPOTASSO] se encuentra en tiempo aoristo, pasivo, imperativo, dándonos a entender esta orden hecha en un punto pasado del tiempo, la voz pasiva nos muestra que otro es el que realiza la acción de someterse.
 
-#### Esta calumnia como malhechores es sencillamente por profesar una fe en Jesucristo y vivir de una manera piadosa entre el mundo.
+#### El creyente se sujeta a la causa de Dios y el resultado será en que Dios hará al creyente sujeto a toda institución humana. Este sometimiento no obliga a los creyentes a realizar algo que no este de acuerdo con la verdad o a la ley de Dios. Hechos 5:28-29
 
-###  *ellos, por razón de las buenas obras de ustedes, al considerarlas,*
+###  1 Pedro 2:13b*"...ya sea al rey como autoridad,"* Pondrá como ejemplo al Rey, en el contexto en que  había reyes tiranos y corruptos, entendemos que Dios instituyó el gobierno humano y la justicia humana, mostrará a los reyes como ministros dados por Dios.
 
-#### Es por eso que puede ser demostrada, y visible a todos los gentiles en el mundo, sean creyentes o no, esto es algo visible, las buenas obras de ustedes, muy importante saber que un no creyente puede ver las buenas obras de los gentiles hechas en la fe del Hijo de Dios. para con los hombres
+#### Cada creyente voluntariamente desea someterse a Dios, debido a que es bueno, sus mandamientos justos y buenos, sin embargo ningún creyente estaría dispuesto a someterse a un rey corrupto o tirano,  aquí les mostrará un propósito mucho mayor, por causa del Señor, es necesario someternos al rey como autoridad.
 
-#### De ninguna manera se insta a que en el momento de Creer, no hacer nada, Sencillamente se nos muestra que no somos salvos por algúna obra que nosotros haríamos, sinó somos salvos por la fe en el hijo de Dios.
+###  1 Pedro 2:14a *"o a los gobernadores como enviados por él para castigo de los malhechores..."* Mostrará una perspectiva dada por Dios, los gobernadores son servidores de Dios, con el fin de castigar a los malos. Romanos. 13:4
 
-#### Ahora como creyentes se nos anima a que lo que profesamos, la piedad, tambien sea manifiesta y visible en el hijo de DIos para con todos los hombres. 
-
-###  *glorifiquen a Dios en el día de la visitación.*
-#### Los no creyentes pueden considerar las buenas obras de los creyentes y glorificar a Dios en el Día de la visitación.
-
-#### Cual es este día?, Será Es una puerta abierta para el evangelio? Escuchar el evangelio y puedan glorificar a Dios?
-
-#### O Sencillamente será el día de Juicio en que los incredulos darán gloria por los enviados de DIos que llegaron a ellos y ellos los rechazaron este día?
-
-# 1 Pedro 2:13 - Habla del sometimiento
-
-###  1 Pedro 2:13 
-
-#### Cual es la causa de someterse a las instituciones humanas?.
-
-#### Pedro les mostrará como someterse a el rey como autoridad, un motivo fundamental de sujeción, que los creyentes no se lo esperaban, por causa del señor
-
-###  *Sométanse, por causa del Señor, a toda institución humana,*
-
-#### Un importante motivo de Sometimiento a toda autoridad, es por causa del señor, 
-
-#### Considera el sometimiento, no es por que sean buenas autoridades, sino esto es por causa de Dios o Cristo, que te sometes a Toda institución humana,
-
-#### Menciona a toda institución humana, no menciona a solo algunas instituciones en las que yo esté de acuerdo, sino a toda institución humana.
-
-###  *ya sea al rey como autoridad,*
-#### Como me puedo someter al Rey como a una autoridad?. Mucho peor si en caso el rey es un rey corrupto o tirano, como a impuesto por DIos?
-
-#### La escritura nos mostrará estar sujetos a nuestras autoridades por causa del Señor, cada creyente voluntariamente desea someterse a Dios, debido a que es bueno, sus mandamientos justos y buenos, sin embargo ningún creyente estaría dispuesto a someterse a un rey corrupto o tirano, sin embargo aquí les muestra un propósito mucho mayor, por causa del Señor. es necesario someternos al rey como autoridad.
-
-###  1 Pedro 2:14 
-
-#### Los gobernadores enviados por Dios mismo?, para castigo de los malhechores?, no tiene sentido pero vemos el Como servidores de Dios, para castigo de los malhechores, sabiendo que Dios instituyó el sistema de gobierno humano.
+###  1 Pedro 2:14b *"...y alabanza de los que hacen el bien."* El fin de los gobernadores es alabar a los que hacen el bien, y esto es a lo que anima a los creyentes. Romanos. 13:3
 
 #### También les instruyó para alabanza de los que hacen lo bueno a las autoridades humanas, y esto es algo que los creyentes apuntan.
 
-###  *o a los gobernadores*
-
-#### Como me someto a gobernadores totalmente errados y corruptos?, pues es en base a lo anterior, hay una causa mas importante por quien me someto, no a pecar, o ser llevado a pecar, en contra de mi fe, sino es una sujeción voluntaria por hacer lo correcto. considerando la ley de Dios es superior a la de los hombres.
-
-###  *como enviados por él para castigo de los malhechores*
-###  1 Pedro 2:14 *y alabanza de los que hacen el bien.*
-
-###  1 Pedro 2:15 
-
 #### Podemos ver en este pasaje la voluntad de Dios, el deseo de Dios es que hagan lo bueno, los creyentes y haciendo lo bueno, cierren la boca de los hombres necios.
 
-###  *Porque esta es la voluntad de Dios:*
+###  1 Pedro 2:15a *"Porque esta es la voluntad de Dios:..."* Vemos en este pasaje algo muy importante, La voluntad de Dios, que es lo que Dios quiere para sus hijos es esto. 1 Pedro 3:17
 
-###  1 Pedro 2:15 *que haciendo bien, ustedes hagan enmudecer la ignorancia de los hombres insensatos.*
+###  1 Pedro 2:15b *"...que haciendo bien, ustedes hagan enmudecer la ignorancia de los hombres insensatos."* La voluntad de Dios es que los creyentes haciendo lo bueno hagan callar a los que los calumnian. 1 Pedro 2:12
 
 # 1 Pedro 1:16-17 - Andar en Libertad del creyente
 
-###  1 Pedro 2:16 
+###  1 Pedro 2:16a  *"Anden como libres,..."* El andar del creyente es en completa libertad, la libertad que el creyente tiene no es para pecar o para a impiedad, sino que esta completa libertad es para poder ser siervos de Dios, antes en nuestra antigua manera de vivir éramos siervos de la naturaleza pecaminosa, mas ahora somos siervos de Justicia. Juan 8:32; Santiago 1:25
 
-#### Como tiene que ser el andar de los creyentes?.
+###  1 Pedro 2:16b *"...pero no usen la libertad como pretexto para la maldad,..."* Un mal uso de la libertad es malentendido como que ahora somos libres y perdonados todos nuestros pecados, ahora pecaremos? de ninguna manera. Romanos 6:1-2 
 
-#### En completa libertad, la libertad que el creyente tiene no es para pecar o para a maldad, sinó esta completa libertad es para poder ser siervos de Dios, antes eramos siervos de la naturaleza pecaminosa, ahora somos siervos de Justicia
+###  1 Pedro 2:16c *"...sino empléenla como siervos de Dios."* El propósito de la libertad es para ser siervos de Dios, en completa libertad servirle. Romanos 6:18-22; Gálatas 5:13
 
-###  *Anden como libres,*
+###  1 Pedro 2:17a *"Honren a todos,..."* La honra hacia todas las personas es tener un alto valor de respeto, una forma de honrar a las autoridades es pagar los impuestos ordenados y pagar a todos lo que deban. Romanos 13:7
 
-###  1 Pedro 2:16 *pero no usen la libertad como pretexto para la maldad,*
+###  1 Pedro 2:17b *"...amen a los hermanos,..."* Es muy importante el amor [AGAPAO] hacia los hermanos de la misma fe, el mismo sentir,que forman parte del cuerpo de Cristo, que son lavados y santificados en Cristo.1 Pedro 1:22
 
-###  1 Pedro 2:16 *sino empléenla como siervos de Dios.*
+###  1 Pedro 2:17c *"...teman a Dios,..."* El temor a Dios es el principio de la sabiduría, es un temor reverente, un temor sano, sabiendo que el es juez de los vivos y muertos.
 
-###  1 Pedro 2:17 *Honren a todos,*
+### 1 Pedro 2:17d *"...honren al rey...."* Menciona un dato importante dedicado a la honra hacia el rey o emperador, en nuestro contexto hacia quien esta gobernando nuestros país, sea rey o gobernante, merece honra la cual fue dada por Dios. Proverbios 24:21; Mateo 22:21; 1 Pedro 2:13
 
-#### Como un creyente puede manifestar su fe, pues de la manera de honrar a todos los hombres, sean creyentes o incrédulos.
+## 1 Pedro 2:18-25 Aprendiendo de los siervos
 
-#### Honren a los hermanos, de la misma fe, de un mismo sentir, que forman parte del cuerpo de Cristo, que son lavados y santificados en Cristo, llamados a ser santos.
+### 1 Pedro 2:18a *"Siervos,..."* Ahora mencionará un grupo especial llamados siervos, en nuestro contexto podemos ver que son trabajadores o empleados. Efesios 6:5
 
-#### Teman a DIos, una vida en piedad nos muestra un temor reverente hacia Dios, debido a que esto es algo bueno que nos muestra hacia Dios, un temor sano, sabiendo que el es juez de los vivos y muertos.
+###  1 Pedro 2:18b *"...estén sujetos a sus amos con todo respeto,..."* La sujeción se encuentra en voz pasiva, dándonos a entender que alguien es el que realiza la acción por el creyente.
 
-#### Menciona un dato importante la honra hacia el rey, hacia quien esta gobernando nuestros paises, sea rey o gobernante, merece honra dada por Dios,.
+#### Los creyentes deben estar en completa sujeción a sus amos, mostrando completo respeto por la posición que Dios les dio.
 
-###  1 Pedro 2:17 *amen a los hermanos,*
+###  1 Pedro 2:18c *"...no solo a los que son buenos y afables, sino también a los que son insoportables."* Una actitud de respeto y sujeción nos muestra no solo a los que son buenos, sino a los que son perversos o irrazonables.
 
-###  1 Pedro 2:17 *teman a Dios,*
+###  1 Pedro 2:19a *"Porque esto halla gracia,..."* Nos mostrará que en esto el creyente halla gracia ante Dios, en el respeto hacia los amos o jefes donde un creyente se encuentra trabajando, esto es algo contrario a lo que el mundo ofrece, sin embargo vemos a un creyente con una actitud humilde, de respeto en el trabajo y sumiso a sus amos, esto halla gracia ante Dios.
 
-###  1 Pedro 2:17 *honren al rey.*
+###  1 Pedro 2:19b *"...si por causa de la conciencia ante Dios,..."* Causará una buena conciencia del creyente ante Dios, sabiendo que hizo lo bueno y se sujetó por la fe a lo que Dios dijo. Romanos 13:5; 1 Pedro 3:17
 
-## 1 Pedro 2:18-25 Aprendiendo de siervos
+###  1 Pedro 2:19c *"...alguien sobrelleva penalidades sufriendo injustamente."* Alguien sobrelleva sufriendo injustamente, nos mostrará un sufrimiento no merecido, por hacer lo bueno específicamente, sabiendo que Dios puede ver las acciones de cada uno.
 
-1 Pedro 2:18 *Siervos,*
+###  1 Pedro 2:20a *"Pues ¿qué mérito hay, si cuando ustedes pecan y son tratados con severidad lo soportan con paciencia?..."* Nos mostrará que no hay ningún mérito de recibir el castigo merecido, si alguien peca y es tratado con severidad, espera pacientemente.
 
-#### Ahora mencionará un grupo especial llamados siervos, en este contexto podemos ver que son trabajadores o servidores.
+###  1 Pedro 2:20b *"...Pero si cuando hacen lo bueno sufren por ello y lo soportan con paciencia, esto halla gracia con Dios."* Encontramos gracia para con Dios si sufrimos por hacer lo bueno y soportar pacientemente. 1 Pedro 3:17
 
-#### Anima a estar sujetos a sus amos o jefes con todo respeto, muestra una humildad y una actitud de sumo respeto hacia el trabajo y Jefe.
+# 1 Pedro 2:21-25 El propósito de nuestro llamamiento
 
-#### Nos anima a no solo ser buenos, con los jefes buenos, sino tambien con los insoportables. 
+###  1 Pedro 2:21a *"Porque para este propósito han sido llamados,..."* Nos mostrará que hay un propósito especial que Dios planificó para los creyentes. Hechos 14:22; 1 Pedro 3:9
 
-###  1 Pedro 2:18 *estén sujetos a sus amos con todo respeto,*
+###  1 Pedro 2:21b *"...pues también Cristo sufrió por ustedes,..."* Este propósito tomará como ejemplo a Jesucristo, el cual mostrará como ejemplo para seguir sus pasos y reaccionar de la manera que Cristo reaccionó. 1 Pedro 4:1
 
-###  1 Pedro 2:18 *no solo a los que son buenos y afables,*
+###  1 Pedro 2:21c *"...dejándoles ejemplo para que sigan Sus pasos,"*  Cristo sufrió por nosotros, dejando ejemplo para seguir sus pasos, esto es de mucho valor y ánimo en los creyente para mostrarles como ejemplo, una manera práctica de andar y vivir su nueva vida en Cristo. Mateo 11:29; 1 Pedro 4:13
 
-###  1 Pedro 2:18 *sino también a los que son insoportables.*
+###  1 Pedro 2:22a  *"EL CUAL NO COMETIÓ PECADO,..."* En la escritura podemos ver que Cristo no cometió pecado alguno, teniendo ejemplo a Cristo, nos mostrará la libertad que un cristiano tiene en cuanto a su manera de vivir. 2 Corintios 5:21
 
-###  1 Pedro 2:19 *Porque esto halla gracia,*
+###  1 Pedro 2:22b *"...NI ENGAÑO ALGUNO SE HALLÓ EN SU BOCA;"* Vemos el cumplimiento de la profecía anunciada en cuanto al mesías, su sepultura y ningún engañó en su boca. Isaías 53:9
 
-#### Nos mostrará que en esto hay gracia ante Dios, en el respeto hacia los amos o jefes de los negocios o empresas en los que un siervo o empleado se encuentre trabajando o sirviendo.
+###  1 Pedro 2:23a *"y quien cuando lo ultrajaban, no respondía ultrajando..."* Cuando alguien ultrajaba o maldecía a Cristo, no respondía con el mismo acto de agresión. Isaías 53:7; Hebreos 12:3
 
-#### Un dato muy importante es que esto halla gracia ante Dios, esto es algo impresionante. la humildad, sumision, respeto en el trabajo.
+###  1 Pedro 2:23b *"...Cuando padecía, no amenazaba,..."* Cuando Cristo se encontraba en extremo padecimiento, el no amenazaba a nadie ni respondía con insultos. 1 Pedro 3:9
 
-#### Alguien sobrelleva sufriendo injustamente, nos mostrará un sufrimiento no merecido, por hacer lo bueno específicamente, sabiendo que Dios puede ver las acciones de cada uno y teniendo una conciencia limpia hacia Dios podemos hallar Gracia. Interesante.
+###  1 Pedro 2:23c *"...sino que se encomendaba a Aquel que juzga con justicia."* Lo que hacía era encomendar al que juzga con Justicia, él encomendaba a Dios su circunstancia.
 
-###  1 Pedro 2:19 *si por causa de la conciencia ante Dios, alguien sobrelleva penalidades sufriendo injustamente.*
+###  1 Pedro 2:24a *"Él mismo llevó nuestros pecados en Su cuerpo sobre la cruz,..."* Podemos ver que Jesús llevó sobre él nuestros pecados sobre la cruz. Isaías 53:4,11; 1 Corintios 15:3
 
-###  1 Pedro 2:20 *Pues ¿qué mérito hay, si cuando ustedes pecan y son tratados con severidad lo soportan con paciencia?*
+###  1 Pedro 2:24b *"...a fin de que muramos al pecado y vivamos a la justicia,..."* Tenía un propósito el que Cristo muera sobre el madero, el fin para nosotros es que como Cristo murió nosotros también muramos AL pecado una vez y para siempre.
 
-#### Hay algún mérito de recibir castigo por el pecado cometido?
+#### La palabra muramos [APOGENOMENOS]  es un verbo en tiempo aoristo, medio, participio, indicándonos que la acción ya sucedió en un tiempo pasado, sin embargo nos muestra una acción continua en el presente, que el creyente realiza en beneficio propio. 
 
-#### no, no hay ningún mérito en eso.
+#### con el fin de que nosotros muramos AL PECADO, y vivamos a la JUSTICIA, nos esta mostrando que Cristo ya murió, si y es un hecho completamente comprobado, ahora también es comprobado que vivamos a la justicia.
 
-#### Pero si alguien sufre haciendo lo bueno, hay mérito  y halla gracia con Dios, si sufriendo por hacer lo bueno somos castigados.
-
-###  1 Pedro 2:20 *Pero si cuando hacen lo bueno sufren por ello y lo soportan con paciencia, esto halla gracia con Dios.*
-
-# Nos mostrará un propósito
-
-###  1 Pedro 2:21 
-
-#### Nos mostrará que hay un propósito especial que Dios planificó para los creyentes. 
-
-#### Este propósito tomará como ejemplo a Jesucristo, el cual mostrará como ejemplo para seguir sus pasos y reaccionar de la manera que Cristo reaccionó.
-
-#### Cristo sufrio por ustedes, dejando ejemplo para seguir sus pasos. esto es de mucho valor y ánimo en los creyente para mostrarles, una manera práctica de andar y vivir su nueva vida en Cristo, Santificación, como cristo lo hizo.
-
-###  *Porque para este propósito han sido llamados,*
-
-###  1 Pedro 2:21 *pues también Cristo sufrió por ustedes,*
-
-###  1 Pedro 2:21 *dejándoles ejemplo para que sigan Sus pasos,*
-
-###  1 Pedro 2:22 
-
-#### Cristo nos mostrará que no cometio pecado alguno, Poniendo ejemplo a Cristo, nos mostrará la libertad que un cristiano tiene, es para tomar como ejemplo a Cristo.
-
-###  *EL CUAL NO COMETIÓ PECADO,*
-
-###  1 Pedro 2:22 *NI ENGAÑO ALGUNO SE HALLÓ EN SU BOCA;*
-
-###  1 Pedro 2:23
-
-####  Cuando alguien ultrajaba a Cristo, no respondía con el mismo acto de agresión, 
-
-#### En el momento que Cristo sufría, el no amenazaba a nadie ni respondía con insultos
-
-#### Lo que hacía era encomendar al que juzga con Justicia. El encomendaba a Dios su circunstancia.
-
-###   *y quien cuando lo ultrajaban, no respondía ultrajando.*
-
-###  1 Pedro 2:23 *Cuando padecía, no amenazaba,*
-
-###  1 Pedro 2:23 *sino que se encomendaba a Aquel que juzga con justicia.*
-
-###  1 Pedro 2:24
-
-#### Nos muestra que el llevó nuestros pecados en su cuerpo sobre la cruz, con el fin de que nosotros muramos AL PECADO, y vivamos a la JUSTICIA, nos esta mostrando que Cristo ya murió, si y es un hecho completamente comprobado, ahora tambien es comprobado que vivamos a la justicia.
+###  1 Pedro 2:24c *"...porque por Sus heridas fueron ustedes sanados..."*
 
 #### al igual que Isaías, nos muestra que por  sus heridas nosotros fuimos sanados.
 
@@ -993,11 +909,7 @@ Title: 1 & 2 Pedro
 
 #### Esto es santificación pura.
 
-###  *Él mismo llevó nuestros pecados en Su cuerpo sobre la cruz,*
-
-###  1 Pedro 2:24 *a fin de que muramos al pecado y vivamos a la justicia,*
-
-###  1 Pedro 2:24 *porque por Sus heridas fueron ustedes sanados.*
+###  
 
 ###  1 Pedro 2:25
 
