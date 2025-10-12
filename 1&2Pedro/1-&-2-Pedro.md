@@ -1124,67 +1124,65 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 3:7a *"Ustedes, maridos, igualmente,..."* Ahora pasa a dar instrucciones a los esposos creyentes. 
 
-####  Ahora el esposo, como uno renacido a una esperanza viva por la misericordia y gracia de Dios. 
-
-####  Confiando en la nueva vida provista por Dios en Cristo. ¿Cómo afectaría esto en su matrimonio?
+####  Ahora el esposo, como uno renacido a una esperanza viva por la misericordia y gracia de Dios. Confiando en la nueva vida provista por Dios en Cristo. ¿Cómo afectaría esto en su matrimonio?
 
 ###  1 Pedro 3:7b *"...convivan de manera comprensiva con sus mujeres,..."* Este versículo llama a los esposos a pensar en como viven junto a sus esposas.
 
-#### La palabra "convivan" da una perspectiva de unión, de compañerismo en el matrimonio, no da la idea de individualidad.
+#### La palabra "convivan" da una perspectiva de unión, de compañerismo en el matrimonio, no da la idea de individualidad. Génesis 2:23-24
 
 #### La instrucción esta en tiempo presente, por lo que no es algo que deba realizarse en momentos puntuales, sino de manera constante.
 
-#### En el matrimonio, el esposo y la esposa llegan a vivir juntos. Pero hay una instrucción dada específicamente al esposo en relación al convivir.
+#### En el matrimonio, el esposo y la esposa llegan a vivir juntos. Y hay una instrucción dada específicamente al esposo.
 
 #### Dios muestra la manera en la cual desea que el esposo conviva con su esposa y debía hacerlo de manera comprensiva.
 
-##### La frase "de manera comprensiva", tambien puede ser traducida como "según ciencia" o "sabiamente".
+##### La frase "de manera comprensiva", también puede ser traducida como "según ciencia" o "sabiamente".
 
 ##### El esposo no debería vivir junto a su esposa guiado por emociones, impulsos humanos o por sabiduría humana.
 
-##### Como veremos mas adelante, el esposo debía vivir junto a su esposa mediante conocimiento, este conocimiento viene por medio de la verdad de la Palabra de Dios.
+##### Como vemos mas adelante, el esposo debía vivir junto a su esposa mediante conocimiento, este conocimiento viene por medio de la verdad de la Palabra de Dios. Efesios 5:25-28, 33, Colosenses 3:19
 
-###  1 Pedro 3:7c *"...como con un vaso más frágil, puesto que es mujer,..."* Estas palabras no indican inferioridad de la mujer, sino hacen enfacis en como el esposo debe tratar y dirigirse a su esposa mientras convivan. 
+###  1 Pedro 3:7c *"...como con un vaso más frágil, puesto que es mujer,..."* Estas palabras no indican inferioridad de la mujer, sino hacen énfasis en como el esposo debe tratar y dirigirse a su esposa mientras convivan. 
 
 ####  ¿Cómo se trata un vaso el cual es frágil y fácil de romperse?
 
 #### ¿Acaso un vaso de vidrio no es mas valioso a un vaso de plástico?
 
-###  1 Pedro 3:7d *"...dándole honor por ser heredera como ustedes de la gracia de la vida,..."* En la manera en que el marido vive junto a su esposa puede honrarla. Esa es la voluntad del Señor.
+###  1 Pedro 3:7d *"...dándole honor por ser heredera como ustedes de la gracia de la vida,..."* En la manera en la cual el marido vive junto a su esposa puede honrarla. Esa es la voluntad del Señor.
 
 #### La razón por la cual el esposo debe dirgirse de esta manera, es por la verdad que el Señor muestra al esposo.
 
-#### El esposo es heredero inmerecido del regalo de la nueva vida y esperanza que Dios le dio, por medio de Cristo.
+#### El esposo es heredero inmerecido del regalo de la nueva vida y esperanza que Dios le dio, por medio de Cristo. Tito 1:2; Tito 3:7
 
-#### Ahora se le recuerda que no solo él es heredero de Dios, sino también su compañera de vida, su esposa. Ambos, no solo ligados por la unión del matrimonio, sino también unidos eternamente por medio de participar de la misma herencia provista por Dios.
+#### Ahora se le recuerda que no solo él es heredero de Dios, sino también su compañera de vida, su esposa. Ambos, no solo ligados por la unión del matrimonio, sino también unidos eternamente por medio de participar de la misma herencia provista por Dios. Efesios Efesios 2:18, 3:6; Romanos 8:17
 
-###  1 Pedro 3:7e *"...para que sus oraciones no sean estorbadas."* De esta manera, el esposo viviendo en la justicia, haciendo el bien, por medio de la esperanza que se encuentra en Cristo su Salvador. Podrá dirigir sus oraciones a su Dios y Cuidador, confiado de que recibirá la ayuda oportuna, ya que nada podrá estorbarlas. Disfrutará días buenos junto a su compañera de vida.
+###  1 Pedro 3:7e *"...para que sus oraciones no sean estorbadas."* De esta manera, el esposo viviendo en la justicia, por medio de la esperanza que se encuentra en Cristo su Salvador. Podrá dirigir sus oraciones a su Dios y Cuidador, confiado de que recibirá la ayuda oportuna, ya que nada podrá estorbarlas. Disfrutará días buenos junto a su compañera de vida. Efesios 6:18
 
 ## A todos
 
 ###  1 Pedro 3:8a *"En conclusión, sean todos..."* Como ultima instrucción respecto a las relaciones entre creyentes, esta vez Pedro se dirigirá a todos.
 
-###  1 Pedro 3:8b *"...de un mismo sentir,..."* la RV la traduce de esta manera "de un mismo corazón". 
+###  1 Pedro 3:8b *"...de un mismo sentir,..."* la RV09 la traduce de esta manera "de un mismo corazón". 
 
-####  El pasaje es claro, la unión que indica es en la manera de pensar.
+####  El pasaje es claro, la unión que indica es en la manera de pensar. Hechos 4:32, Romanos 12:1-2, 16
 
 #### No sería correcto verlo como unidad por medio de alguna actividad en común, tolerancia hipócrita o inclusive una unidad por medio de la ignorancia. Tampoco sería correcto una unidad en la manera de pensar de los creyentes, pero con un enfoque o pensamiento humano. ¿Porqué?
 
-#### Esta instrucción es dada a creyentes, santos, personas redimidas de su vacía manera de vivir por la ignorancia que tenían a la verdad de Dios.
+#### Esta instrucción es dada a creyentes, santos, personas redimidas de su vacía manera de vivir por la ignorancia que tenían a la verdad de Dios. 1 Corintios 1:10
 
-#### Esta unidad de pensamiento que se indica a los todos los creyentes, viene de la unidad en la verdad de Dios que comparten, como veremos mas adelante en el versículo 9 "fueron llamados con el propósito de heredar bendición", este mismo sentir no viene de pensamiento humano, sino de la sabiduría de Dios.
+#### Esta unidad de pensamiento que se indica a los todos los creyentes, viene de la unidad en la verdad de Dios que comparten, como veremos mas adelante en el versículo 9 "fueron llamados con el propósito de heredar bendición", este mismo sentir no viene de pensamiento humano, sino de la sabiduría de Dios. Efesios 4:11-13
 
-###  1 Pedro 3:8c *"...compasivos,..."* Todos debían ser compasivos. Estos creyentes se encontraban pasando por diversas pruebas, aflicciones. Pero el Señor les proveía por medio del cuerpo de Cristo (entre ellos), compadecerse unos a otros, comprender el dolor ajeno de su hermano o hermana.
+###  1 Pedro 3:8c *"...compasivos,..."* Todos debían ser compasivos. Estos creyentes se encontraban pasando por diversas pruebas, aflicciones. Pero el Señor les proveía por medio del cuerpo de Cristo (entre ellos), compadecerse unos a otros, comprender el dolor ajeno de su hermano o hermana. Filipenses 2:1-2; Colosenses 3:12
 
 ###  1 Pedro 3:8d *"...fraternales,..."* Deberían tener un amor de hermanos unos a otros y eso es lo que justamente eran, hermanos, hijos de Dios. 
 
-####  Estaban exiliados de su tierra, muchos alejados de sus familias físicas, pero por medio de Dios, podrían disfrutar de un amor de familia, un amor fraternal.
+####  Estaban exiliados de su tierra, muchos alejados de sus familias físicas, pero por medio de Dios, podrían disfrutar de un amor de familia, un amor fraternal. 1 Pedro 1:22, 2:17
 
-###  1 Pedro 3:8e *"...misericordiosos,..."* Esta palabra indica a comprenderse unos a otros las aflicciones de sus hermanos y actuar con clemencia, a socorrer al hermano afligido. Muy probablemente no es algo que encontrarían de manera palpable en el mundo.
+###  1 Pedro 3:8e *"...misericordiosos,..."* Esta palabra indica a comprenderse unos a otros las aflicciones de sus hermanos y actuar con clemencia, a socorrer al hermano afligido. Muy probablemente no es algo que encontrarían de manera palpable en el mundo. Efesios 4:32
 
 ###  1 Pedro 3:8f *"...y de espíritu humilde;"* Nuevamente nos aclara que estas instrucciones no deben ser vistas como realizadas por medio del fingimiento o hipocresía. Sino que esto viene del interior, desde el corazón.
 
-#### Los creyentes debían tener un pensamiento humilde o amigable hacia sus hermanos, esto da el énfasis de buscar el bien ajeno, el bien de sus hermanos y actuar en consecuencia.
+#### Los creyentes debían tener un pensamiento humilde o amigable hacia sus hermanos, esto da el énfasis de buscar el bien ajeno, el bien de sus hermanos y actuar en consecuencia. Efesios 4:2; 1 Pedro 5:5
 
 ###  1 Pedro 3:9a *"no devolviendo mal por mal, o insulto por insulto,..."* Este mandamiento garantiza completamente, que el creyente recibirá acciones injustas y también insultos.
 
@@ -1218,23 +1216,23 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 3:10b *"Porque, «EL QUE DESEA LA VIDA, AMAR Y VER DÍAS BUENOS,..."* Estos versículos nos mostraran como Dios ve que Sus creyentes pueden disfrutar de:
 
-#### *"LA VIDA"*, el creyente puede gozar de lo que realmente es vida, con gran alegría. Una vida que solo viene por medio de Dios.
+#### *"LA VIDA"*, el creyente puede gozar de lo que realmente es vida, con gran alegría. Una vida que solo viene por medio de Dios. Proverbios 3:1-2
 
-#### *"AMAR"*, el creyente puede andar amando durante su estancia aquí en la tierra, esto habla de un amor incondicional, sin buscar nada a cambio. No un amor fingido sino un amor real por medio de Dios.
+#### *"AMAR"*, el creyente puede andar amando durante su estancia aquí en la tierra, esto habla de un amor incondicional, sin buscar nada a cambio. No un amor fingido sino un amor real por medio de Dios. Efesios 5:1-2
 
-#### *"VER DÍAS BUENOS"*, El creyente puede disfrutar, experimentar tiempos llenos de dicha.
+#### *"VER DÍAS BUENOS"*, El creyente puede disfrutar, experimentar tiempos llenos de dicha. 
 
 #### ¿Como sería esto posible? Si los creyentes a los que escribía Pedro eran extranjeros en el lugar en el que estaban, eran judíos, distintos en apariencia y forma de dirigirse día a día. Eran despreciados por la sociedad, afligidos por diversas pruebas.
 
 #### El creyente que anda confiado en la esperanza que de Dios provee, puede llegar a disfrutar de la vida, el amar, y ver días buenos.
 
-#### Y esto no depende de las circunstancias en las que se encontraban, si no esto es en base a la realidad que Dios aclara a través de Su Palabra. Es la diferencia entre lo que el mundo muestra, y Dios el Todopoderoso y Guardian de sus almas muestra.
+#### Y esto no depende de las circunstancias en las que se encontraban, si no esto es en base a la realidad que Dios aclara a través de Su Palabra. Es la diferencia entre lo que el mundo muestra, y Dios el Todopoderoso y Guardian de sus almas muestra. 1 Pedro 5:12
 
-#### Si el creyente anda conforme a la verdad de Dios, entonces podrá cumplir las siguientes indicaciones que se mostrarán, de esa manera también disfruta de lo que Dios le ha dado en Su gracia como ya leímos.
+#### Si el creyente anda considerando la verdad de Dios, entonces podrá cumplir las siguientes indicaciones que se mostrarán, de esa manera también disfruta de lo que Dios le ha dado en Su gracia como acabamos de observar.
 
-###  1 Pedro 3:10c *"...REFRENE SU LENGUA DEL MAL..."*  El creyente no debe utilizar su lengua para el mal, lastimándose y lastimando a otros, sino para el bien.
+###  1 Pedro 3:10c *"...REFRENE SU LENGUA DEL MAL..."*  El creyente no debe utilizar su lengua para el mal, lastimándose y lastimando a otros, sino para el bien. Santiago 1:26, 3:1-10
 
-###  1 Pedro 3:10d *"...Y SUS LABIOS NO HABLEN ENGAÑO."* El creyente no debe usar sus labios para la mentira hacia los demás.
+###  1 Pedro 3:10d *"...Y SUS LABIOS NO HABLEN ENGAÑO."* El creyente no debe usar sus labios para la mentira hacia los demás. 1 Pedro 2:1
 
 ###  1 Pedro 3:11a *"APÁRTESE DEL MAL Y HAGA EL BIEN;"* El creyente debe desviarse de un andar de maldad y practicaría el bien.
 
@@ -1244,35 +1242,35 @@ Title: 1 & 2 Pedro
 
 #### Si bien el Señor guarda eternamente a Sus justificados, ellos están en paz con Él para siempre por medio de la fe en Cristo. Romanos 5:1-2
 
-####  Este cuidado del Señor para con Sus justos va en relación al andar esperado del justo de Dios. El justo viviendo a la Justicia de Dios, esto claramente por medio de la obra de Cristo en la cruz. 1 Pedro 2:24
+####  Este cuidado del Señor para con Sus justos va en relación al andar esperado del justo de Dios. El justo viviendo a la Justicia de Dios, esto claramente por medio de la fe en la obra de Cristo en la cruz. 1 Pedro 2:24
 
 #### Este pasaje nos muestra como Dios vela por el cuidado del justo.
 
-###  1 Pedro 3:12b *"...Y SUS OÍDOS ATENTOS A SUS ORACIONES;"* El Señor esta atento a las oraciones de su justo que anda en justicia.
+###  1 Pedro 3:12b *"...Y SUS OÍDOS ATENTOS A SUS ORACIONES;"* El Señor esta atento a las oraciones de su justo que anda en justicia. Proverbios 15:29; Juan 9:31
 
 ###  1 Pedro 3:12c *"PERO EL ROSTRO DEL SEÑOR ESTÁ CONTRA LOS QUE HACEN EL MAL»."* La triste realidad para el injusto que practica la injusticia, es que Dios le da la espalda. No goza de la dicha del cuidado de su alma del Señor Todopoderoso.
 
-#### Es la realidad que Dios esta mostrando a sus creyentes, lo que el a provisto para sus salvos y lo que el priva para los desobedientes (incrédulos).
+### Es la realidad que Dios esta mostrando a sus creyentes, lo que el a provisto para sus salvos y lo que el priva para los desobedientes (incrédulos).
 
 # 1 Pedro 3:13-5:14 - GRACIA EN EL SUFRIMIENTO
 
 ###  1 Pedro 3:13 *"¿Y quién les podrá hacer daño a ustedes si demuestran tener celo por lo bueno?"* En 1 Pedro 2:13-14 se nos mostro que por hacer lo bueno el creyente puede recibir alabanza, y no debería esperar algún daño o castigo por ello.
 
-#### Es lo que indica en este versículo, si las personas ven que el creyente no solo hace lo bueno sino que también es alguien que anhela lo bueno, no debería esperar daño alguno. Porque ¿Quién quería hacerles daño?
+#### Es lo que indica en este versículo, si las personas ven que el creyente no solo hace lo bueno sino que también es alguien que anhela lo bueno, no debería esperar daño alguno. Porque ¿Quién quería hacerles daño? Proverbios 15:9, 16:7; Romanos 13:3
 
 #### El creyente no debería dar razones para sufrir daño por medio de hacer lo malo. 1 Pedro 2:19-20
 
-###  1 Pedro 3:14a *"Pero aun si sufren por causa de la justicia, dichosos son."* En nuestro pensamiento humano suena razonable recibir alabanza por hacer lo bueno y sufrir castigo por hacer lo malo. El pensamiento siempre es, recibes lo que mereces.
+###  1 Pedro 3:14a *"Pero aun si sufren por causa de la justicia, dichosos son."* En nuestro pensamiento humano suena razonable recibir alabanza por hacer lo bueno y sufrir castigo por hacer lo malo, recibes lo que mereces.
 
 #### Los creyentes deberían preparar su entendimiento, ya que Dios muestra una realidad diferente para los que sufren daño por su andar en justicia.
 
-#### No deberían pensar que están haciendo algo malo, o desanimarse por la esperanza que tienen en su Dios.
+#### No deberían pensar que están haciendo algo malo, o desanimarse por la esperanza que tienen en Dios. 2 Corintios 12:10
 
-#### Sino deberían considerarse personas bendecidas, sufrir por causa de hacer lo bueno es parte del plan Dios, en esos momentos el creyente es participe también de los padecimientos de Cristo, lo que significa que también será participe de la gloria de Cristo que se revelará en el futuro. 1 Pedro 4:13
+#### Sino deberían considerarse personas bendecidas, sufrir por causa de hacer lo bueno es parte del plan Dios, en esos momentos el creyente es participe también de los padecimientos de Cristo, lo que significa que también será participe de la gloria de Cristo que se revelará en el futuro. 1 Pedro 4:13; Filipenses 1:29
 
 ###  1 Pedro 3:14b *"Y NO TENGAN MIEDO POR TEMOR A ELLOS NI SE TURBEN,..."* Como bienaventurados, bendecidos de Dios no había razón para que los creyentes sintiesen miedo, por mas de que tan terroríficos aparenten ser los que buscan hacerles daño, tampoco deberían desesperarse.
 
-#### Las palabras como miedo y turbar indican un estado interno del creyente, no es lo que el Señor deseaba para ellos. 
+#### Las palabras como miedo y turbar indican un estado interno del creyente, no es lo que el Señor deseaba para ellos. Juan 14:1, 27
 
 ###  1 Pedro 3:15a *"...sino santifiquen a Cristo como Señor en sus corazones,..."* La palabra "santificar" puede ser vista también como reverenciar o considerar.
 
@@ -1396,29 +1394,31 @@ Title: 1 & 2 Pedro
 
 #### Estos desobedientes ahora son espíritus encarcelados, que se encuentran en el hades siendo atormentados. Lucas 16:26; Hebreos 9:27
 
-###  1 Pedro 3:20c *"...en la cual unos pocos, es decir, ocho personas fueron salvadas por medio del agua."* No todas las personas sufrieron el juicio del diluvio, ocho personas fueron salvas. Algo que es importante notar es que no fue por medio del arca la salvación para Noé y su familia, sino que el versículo dice que fueron salvos por medio o a través del agua.
+###  1 Pedro 3:20c *"...en la cual unos pocos, es decir, ocho personas fueron salvadas por medio del agua."* No todas las personas sufrieron el juicio del diluvio, ocho personas fueron salvas. Algo que es importante notar es que no fue por medio del arca la salvación para Noé y su familia, sino que el versículo dice que fueron salvos **por medio o a través** del agua.
 
-###  1 Pedro 3:21 *"Y correspondiendo a esto, el bautismo ahora los salva a ustedes, no quitando la suciedad de la carne, sino como una petición a Dios de una buena conciencia, mediante la resurrección de Jesucristo,..."* Una mejor traducción para enter este versiculo sería...
+###  1 Pedro 3:21 *"Y correspondiendo a esto, el bautismo ahora los salva a ustedes, no quitando la suciedad de la carne, sino como una petición a Dios de una buena conciencia, mediante la resurrección de Jesucristo,..."* Una mejor traducción para entre este versículo sería...
 
 #### 1 Pedro 3:20c-21*"...ocho personas, fueron salvadas a través de agua; la cual también es figura de cómo el bautismo ahora os salva (no como eliminación de la suciedad de la carne, sino como respuesta de una buena conciencia a Dios) mediante la resurrección de JESUCRISTO..."*(BTX4)
 
-####  El pasaje no enseña que Noé fue salvo del infierno por entrar al arca. En Genesis 6:8 vemos que Noé hallo gracia a los ojos de Dios. Pasajes como Romanos 4 nos muestran que la salvación de la pena del pecado siempre fue por gracia por medio de la fe.
+####  El pasaje **no enseña** que Noé fue salvo del infierno por entrar al arca. En Genesis 6:8 vemos que Noé hallo gracia a los ojos de Dios. Pasajes como Romanos 4 nos muestran que la salvación de la pena del pecado siempre fue por gracia por medio de la fe. Romanos 4:4-8
 
-#### Noé ya había sido salvo eternamente antes de entrar al arca, pero la construcción del arca y la entrada al arca fueron resultado de su fe a la revelación de Dios. Hebreos 11:7
+#### Noé ya había sido salvo eternamente antes de entrar al arca, pero la construcción del arca y la entrada al arca **fueron resultado** de su fe a la revelación de Dios. Hebreos 11:7
 
-#### Por la fe en su vida física como justo delante de Dios, demostró una conducta intachable, y también por la fe entro al arca. Génesis 6:9
+#### Por la fe en su vida física como justo delante de Dios demostró una conducta intachable, y también por la fe entro al arca. Génesis 6:9, Habacuc 2:4b
 
-#### Y a través de la separación que hizo el agua entre los que creyeron y los incrédulos fueron salvos de ser disciplinados junto al mundo.
+#### Y a través de la separación que hizo el agua entre los que creyeron y los incrédulos fueron salvos de ser juzgados junto al mundo. 1 Pedro 3:20c
 
-#### Podemos verlo como el creyente Noé que por la fe anduvo haciendo el bien, en medio de uno de los tiempos mas difíciles donde hubo mas pecado en la historia del mundo.
+#### Podemos verlo como el creyente Noé que por la fe anduvo haciendo el bien, en medio de uno de los tiempos mas difíciles donde hubo mas pecado en la historia del mundo. 2 Pedro 2:5
 
 #### Haciendo el bien delante de Dios tuvo una conciencia tranquila y fue salvo por medio del agua durante su vida como creyente, confiando en la Palabra de Dios.
 
 #### Y en estos versículos nos dice que este evento de Noé es una figura de la salvación del creyente en este tiempo.
 
-#### Hablando específicamente del bautismo en agua, el creyente puede bautizarse confiando en la esperanza que se encuentra en la Palabra de Dios, su nueva posición en la persona de Cristo, específicamente hablando de la resurrección de Jesucristo, donde anunciamos públicamente un hecho espiritual, que estamos muertos al pecado pero vivos para Dios en Cristo Jesús. Romanos 6:11, 1 Pedro 1:3
+#### Hablando específicamente del bautismo en agua, el creyente puede bautizarse confiando en la esperanza que se encuentra en la Palabra de Dios, su nueva posición en la persona de Cristo, específicamente hablando de la resurrección de Jesucristo. Mateo 28:19
 
-#### Esto es algo visible, es parte de la buena conducta del creyente durante su vida terrenal, esto es parte de su salvación en tiempo presente, su santificación.
+#### En el bautismo en agua anunciamos públicamente un hecho espiritual, que estamos muertos al pecado pero vivos para Dios en Cristo Jesús. Romanos 6:11, 1 Pedro 1:3
+
+#### El bautismo en agua es algo visible, es parte de la buena conducta del creyente durante su vida terrenal, esto es parte de su salvación en tiempo presente, su santificación.
 
 #### Que los creyentes del tiempo de Pedro reciban esta manera de ver el bautismo debió ser de mucho gozo para ellos.
 
@@ -1426,57 +1426,61 @@ Title: 1 & 2 Pedro
 
 #### ¿En que posición se encuentra ahora Cristo? Por lo que vemos, el se encuentra a la Diestra de Dios Padre, donde todo ser espiritual le sido sujeto.
 
-#### Los creyentes expatriados, con autoridades extrañas y gentiles acusándoles, podían estar confiados en que la persona quien les representa y cuida esta en la mas al posición posible jamás dada. Salmos 110:1; Efesios 1:20; Colosenses 3:1; Hebreos 12:2
+#### Los creyentes expatriados, con autoridades extrañas y gentiles acusándoles, podían estar confiados en que la persona quien les representa y cuida esta en la mas alta posición posible jamás dada. Salmos 110:1; Efesios 1:20; Colosenses 3:1; Hebreos 12:2
 
 ## En Síntesis
 
 ### ESQUEMA DE LA SECCIÓN TRES (1 PEDRO 3) Pedro habla sobre la conducta apropiada para los creyentes a la luz de lo que Cristo ha hecho por nosotros.
 
-   ### LA CONDUCTA DE LOS CREYENTES (3:1-17)
+   ### LA CONDUCTA DE LOS CREYENTES (1 Pedro 3:1-17)
 
-### Responsabilidades de las esposas (3:1-6)
+### Responsabilidades de las esposas (1 Pedro 3:1-6)
 
-### Exhortación de Pedro (3:1-5)
+#### Exhortación de Pedro (1 Pedro 3:1-5)
 
-####   En cuanto a su comportamiento (3:1-2): Las esposas deben confiar más en sus vidas que en sus labios al testificar a sus esposos no salvos.
+#####   En cuanto a su comportamiento (1 Pedro 3:1-2): Las esposas deben confiar más en sus vidas que en sus labios al testificar a sus esposos no salvos.
 
-#### En cuanto a su belleza (3:3-5): La belleza interior es mucho más importante que la belleza exterior. 2. El ejemplo de Pedro (3:6): Toma a Sara del Antiguo Testamento como modelo a seguir.
+##### En cuanto a su belleza (1 Pedro 3:3-5): La belleza interior es mucho más importante que la belleza exterior. 
 
-### Responsabilidades de los esposos (3:7)
+##### El ejemplo de Pedro (1 Pedro 3:6): Toma a Sara del Antiguo Testamento como modelo a seguir.
 
-### Qué deben hacer (3:7a): Los esposos deben ser considerados con sus esposas y respetarlas.
+### Responsabilidades de los esposos (1 Pedro 3:7)
 
-### Por qué deben hacerlo (3:7b)
+#### Qué deben hacer (1 Pedro 3:7a): Los esposos deben ser considerados con sus esposas y respetarlas.
 
-### Responsabilidades de todos (3:8-17)
+#### Por qué deben hacerlo (1 Pedro 3:7b): Ambos son herederos de la gracia de la vida por medio de la fe.
 
-### Vivir en amorosa armonía (3:8).
+### Responsabilidades de todos (1 Pedro 3:8-17)
 
-### Recompensar con el bien tanto al bien como al mal (3:9-14).
+#### Vivir en amorosa armonía (1 Pedro 3:8).
 
-### Adorar a Cristo como Señor y estar siempre dispuesto a explicar su fe (3:15).
+#### Bendecir con el bien tanto al bien como al mal (1 Pedro 3:9-14).
 
-### Estar dispuesto a defender su fe (3:16-17).
+#### Adorar a Cristo como Señor desde el interior y estar siempre dispuesto a explicar su fe (1 Pedro 3:15a).
 
-### EL CRISTO DE LOS CREYENTES (3:18-22): Pedro describe un ministerio cuádruple realizado por el Salvador.
+#### Hacer lo bueno es agradable a Dios pero sufrir por ello es mucho mejor  ya que te también es conforme a Su voluntad (1 Pedro 3:16-17).
 
-### Su muerte (3:18)
+### EL CRISTO DE LOS CREYENTES (1 Pedro 3:18-22): Pedro describe un ministerio cuádruple realizado por el Salvador.
 
-### La permanencia (3:18a): Murió por nuestros pecados una vez para siempre.
+#### Su muerte (1 Pedro 3:18)
 
-### El propósito (3:18b): Murió para reconciliar a los pecadores con Dios.
+#### La permanencia (1 Pedro 3:18a): Murió por nuestros pecados una vez para siempre.
 
-### Su viaje al mundo espiritual (3:19-20)
+#### El propósito (1 Pedro 3:18b): Murió para reconciliar a los pecadores con Dios.
 
-### La transgresión (3:19): Jesús predicó contra los pecados de estos espíritus malignos. 2. El tiempo (3:20): Cometieron su maldad en los días de Noé.
+#### Su viaje al mundo espiritual (1 Pedro 3:19-20)
 
-### Su resurrección (3:21)
+#### La transgresión (1 Pedro 3:19): Cristo en el espíritu predicó en un tiempo pasado a incrédulos que ahora son espíritus encarcelados.
 
-### La salvación (3:21a): La resurrección de Jesús garantiza nuestra redención.
+#### El tiempo (1 Pedro 3:20): Esos fueron incrédulos en el tiempo de Noé, solo ocho personas fueron salvas del juicio.
 
-### El símbolo (3:21b): El bautismo en agua.
+### Su resurrección (1 Pedro 3:21)
 
-### Su ascensión y exaltación (3:22)
+#### La salvación (1 Pedro 3:21a): La resurrección de Jesús garantiza nuestra redención.
+
+#### El símbolo (1 Pedro 3:21b): El bautismo en agua.
+
+#### Su ascensión y exaltación (1 Pedro 3:22)
 
 # 1 Pedro 4:1-6 – Viviendo para la voluntad de Dios
 
@@ -1640,21 +1644,21 @@ Title: 1 & 2 Pedro
 
 # 1 Pedro 4:7-11 – Sufrimiento y servicio 1
 
-###  1 Pedro 4:7a "*Pero el fin de todas las cosas se acerca.*" El fin de todas las cosas, ha comenzado a acercarse y hoy esta más cerca de lo que estaba en el tiempo de Pedro.
+###  1 Pedro 4:7 *Pero el fin de todas las cosas se acerca.*
 
-###  1 Pedro 4:7b "...*Sean pues ustedes prudentes y de espíritu sobrio para la oración.*" Pedro animaba a su audiencia a no vivir en las pasiones humanas, el tiempo que queda, en este pasaje da una instrucción de ser sobrios para la oración, prudentes.
+###  *Sean pues ustedes prudentes y de espíritu sobrio para la oración.*
 
-###  1 Pedro 4:8a "*Sobre todo, sean fervientes en su amor los unos por los otros,...*" Sobre todo, teniendo por encima de cualquier circunstancia, o situación, incluso por encima de los sufrimientos y tribulaciones.
+###  1 Pedro 4:8 *Sobre todo, sean fervientes en su amor los unos por los otros,*
 
-###  1 Pedro 4:8b "*...pues el amor cubre multitud de pecados.*" debían ser genuinos e intencionales en dar amor, los unos por los otros. Proverbios 10:12
+###  *pues el amor cubre multitud de pecados.*
 
-###  1 Pedro 4:9a "*Sean hospitalarios los unos para con los otros,...*" El cuidarse en tiempos de sufrimiento y tribulación llega a ser de gran bendición y descanso, al sobre llevar también las cargas los unos de los otros.
+###  1 Pedro 4:9 *Sean hospitalarios los unos para con los otros,*
 
-###  1 Pedro 4:9b "*...sin murmuraciones.*" El ser hospitalarios unos con otros debía ser intencional entre todos de manera sincera, sin quejas.
+###  *sin murmuraciones.*
 
-###  1 Pedro 4:10a "*Según cada uno ha recibido un don especial, úselo sirviéndose los unos a los otros...*" Todo creyente, ha recibido un don especial dado por el Espíritu Santo, Pedro anima a usar los dones para el servicio de cada miembro del cuerpo de Cristo.
+###  1 Pedro 4:10 *Según cada uno ha recibido un don especial, úselo sirviéndose los unos a los otros*
 
-###  1 Pedro 4:10b "*como buenos administradores de la multiforme gracia de Dios.*" 
+###  *como buenos administradores de la multiforme gracia de Dios.*
 
 ###  1 Pedro 4:11a "*El que habla, que hable conforme a las palabras de Dios;*" El que habla o se dedica a la predicación de la palabra, debe hablar conforme a la palabra de Dios que ha revelado en su escritura y no según criterio humano
 
@@ -1706,33 +1710,35 @@ Title: 1 & 2 Pedro
 
 ### Pedro escribe sobre el sufrimiento.
 
-### EL PROPÓSITO DEL SUFRIMIENTO (4:1-11, 15, 17-18)
+### EL PROPÓSITO DEL SUFRIMIENTO (1 Pedro 4:1-11, 15, 17-18)
 
-### Limpiar y purificar al creyente espiritual (4:1-11)
+### Limpiar y purificar al creyente espiritual (1 Pedro 4:1-11)
 
-### El triunfo (4:1-3): El sufrimiento hace que el pecado pierda su poder.
+#### El triunfo (1 Pedro 4:1-3): El sufrimiento hace que el pecado pierda su poder.
 
-### El testimonio (4:4-6): Los amigos no salvos de un nuevo cristiano se maravillan de que él no desee compartir su estilo de vida malvado como antes. 3. La ternura (4:7-9): El sufrimiento debe cultivar nuestro amor por los demás creyentes.
+#### El testimonio (1 Pedro 4:4-6): Los amigos no salvos de un nuevo cristiano se maravillan de que él no desee compartir su estilo de vida malvado como antes.
 
-### Los talentos (4:10-11): Debemos emplear fielmente todos los dones espirituales que Dios nos ha dado.
+#### La ternura (1 Pedro 4:7-9): El sufrimiento debe cultivar nuestro amor por los demás creyentes.
 
-### Disciplinar y castigar al creyente carnal (4:15, 17-18): Dios juzgará a su pueblo.
+#### Los talentos (1 Pedro 4:10-11): Debemos emplear fielmente todos los dones espirituales que Dios nos ha dado.
 
-### EL PRIVILEGIO DEL SUFRIMIENTO (4:12-14, 16)
+### Disciplinar y castigar al creyente carnal (1 Pedro 4:15, 17-18): Dios disciplina a su pueblo.
 
-### Es de esperar (4:12): A todos los creyentes se les permitirá sufrir.
+### EL PRIVILEGIO DEL SUFRIMIENTO (1 Pedro 4:12-14, 16)
 
-### Es de estimar (4:13-14, 16)
+#### Es de esperar (1 Pedro 4:12): A todos los creyentes se les permitirá sufrir.
 
-### Sufrir por Cristo significa compartir su dolor pasado (4:13a, 14a, 16a).
+#### Es de estimar (1 Pedro 4:13-14, 16)
 
-### Sufrir por Cristo significa compartir su gloria futura (4:13b, 14b, 16b). 
+#### El sufrimiento como cristiano tiene un propósito, significa compartir los padecimientos de Cristo (1 Pedro 4:13a, 14a, 16a).
 
-### LA PACIENCIA EN EL SUFRIMIENTO (4:19): Hay dos cosas que hacer en la hora del dolor.
+#### Sufrir por Cristo significa compartir su gloria futura (1 Pedro 4:13b, 14b, 16b). 
 
-### Debemos encomendarnos a Dios (4:19b).
+### LA PACIENCIA EN EL SUFRIMIENTO (1 Pedro 4:19): Hay dos cosas que hacer en la hora del sufrimiento que es conforme a la voluntad de Dios.
 
-### Debemos seguir haciendo el bien (4:19a).
+#### Podemos encomendarnos a Dios (1 Pedro 4:19b).
+
+#### Y seguir haciendo el bien (1 Pedro 4:19a).
 
 ## 1 Pedro 5:1-11 – Guía adicional 
 
