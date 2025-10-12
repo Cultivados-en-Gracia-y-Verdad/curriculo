@@ -1656,13 +1656,13 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 4:10b "*como buenos administradores de la multiforme gracia de Dios.*" 
 
-###  1 Pedro 4:11 *El que habla, que hable conforme a las palabras de Dios;*
+###  1 Pedro 4:11a "*El que habla, que hable conforme a las palabras de Dios;*" El que habla o se dedica a la predicación de la palabra, debe hablar conforme a la palabra de Dios que ha revelado en su escritura y no según criterio humano
 
-###  *el que sirve, que lo haga por la fortaleza que Dios da,*
+###  1 Pedro 4:11b "*...el que sirve, que lo haga por la fortaleza que Dios da,...*" de la misma manera, el servicio puede llegar a ser agotador si uno lo realiza en sus propias fuerzas, Pedro anima a los que sirven a que puedan fortalecerse, de la fortaleza que proviene solamente de Dios.
 
-###  *para que en todo Dios sea glorificado mediante Jesucristo,*
+###  1 Pedro 4:11c "*para que en todo Dios sea glorificado mediante Jesucristo,...*" Toda obra mediante Jesucristo trae gloria a Dios y no la gloria de los hombres.
 
-###  *a quien pertenecen la gloria y el dominio por los siglos de los siglos. Amén.*
+###  1 Pedro 4:11d "*...a quien pertenecen la gloria y el dominio por los siglos de los siglos. Amén.*" Es a Dios que le pertenece toda la gloria, y siempre le ha pertenecido el dominio eterno y le seguirá perteneciendo por los siglos de los siglos.
 
 # 1 Pedro 4:12-19 – Sufrimiento y bendiciones 
 
