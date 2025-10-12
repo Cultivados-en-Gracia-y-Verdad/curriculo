@@ -9,44 +9,45 @@ Title: 1 & 2 Pedro
 
 # INTRODUCCIÓN
 
-### El apóstol Pedro, uno de los doce discípulos originales, escogidos y formados por Jesús durante su estancia en la tierra, comienza una carta a los cristianos dispersos por la persecución. Escribe para animarlos, comenzando por destacar porque son cristianos y quiénes son exactamente y cómo Dios los ha bendecido en Cristo.
+### El apóstol Pedro, uno de doce discípulos originales, escogidos y formados por Jesús durante su estancia en la tierra, comienza una carta a los cristianos dispersos por la persecución. Escribe para animarlos, comenzando por destacar quiénes son exactamente y cómo Dios los ha bendecido en Cristo.
 
-### Incluso en su sufrimiento, que es muy real y causa tristeza, los cristianos se benefician. Nuestra fe se fortalece, y nuestra fe vale más que el oro. Nuestra fe traerá gran gloria cuando Jesús sea revelado. De hecho, Pedro dice que los cristianos tienen motivos de sobra para regocijarse. El misterio del plan de Dios, ocultado durante siglos tanto a profetas como a ángeles, nos ha sido revelado en Cristo.
+### Incluso en sufrimiento que es muy real y causa tristeza, los cristianos se benefician. Nuestra fe se fortalece, y nuestra fe vale más que el oro. Nuestra fe traerá gran gloria cuando Jesús sea revelado. De hecho, Pedro dice que los cristianos tienen motivos de sobra para regocijarse. El misterio del plan de Dios, ocultado durante siglos tanto a profetas como a ángeles, nos ha sido revelado en Cristo.
 
-### Sin embargo, todavía no hemos llegado a casa. Pedro aborda la cuestión de cómo deben vivir los hijos seguros de Dios ahora, entre este momento y el día en que nos unamos a nuestro Padre, especialmente en una época de sufrimiento y persecución.
+### Sin embargo, todavía no hemos llegado a casa. Pedro aborda la cuestión de cómo deben vivir los hijos de Dios, seguros entre este momento y el día en que nos unamos a nuestro Padre, especialmente en tiempos de sufrimiento y persecución.
 
-### Deben verse como personas santas (o "apartadas") con un propósito especial. Viven en el mundo, pero deben vivir como extranjeros, como personas que se preparan para regresar a casa. Pedro les invita a concentrarse mentalmente en depositar toda su esperanza en la gracia futura de Dios para ellos. Deben elegir actuar como pueblo de Dios, rechazando los malos deseos que una vez impulsaron sus acciones antes de ser nacidos de nuevo.
-
-### Esta carta es de mucho ánimo también para el creyente de hoy. Te invitamos a ser enseñable por Dios mediante estas Palabras dadas por Dios al apostol Pedro. 
-
-## Contexto cultural/histórico
-
-### Es en los años 60-68d.C., bajo el emperador romano Nerón, la persecución de la iglesia empieza a ponerse peor. Muchos creyentes fueron esparcidos de la provincia de judea a las provicincias de Ponto, Galacia, Capadocia, Asia y Bitinia. Es aquí donde el Cristianimo empezó a crecer. 
-
-### Las cartas de Gálatas, Efesios y Colosenses son escritos a iglesias en estas provincias. De igual manera, la carta de Apocalipsis es escrito a 7 iglesias que se encuentran en una de estas provincias. 
+### Deben verse como personas santas (apartadas) con un propósito especial. Viven en el mundo, pero deben vivir como extranjeros, como personas que se preparan para regresar a casa. Pedro les invita a concentrarse mentalmente en depositar toda su esperanza en la gracia futura de Dios para ellos. Deben elegir actuar como pueblo de Dios, rechazando los malos deseos que una vez impulsaron sus acciones antes de ser nacidos de nuevo.
 
 ### 1 Pedro insta a los seguidores de Jesús a participar en su sociedad y a ser mejores ciudadanos que antes de su conversión, para que su buena conducta sea reconocida y la verdad de su fe demostrada. [^5]
 
 ### El autor no afirma que esto sea fácil, pero es necesario. Dios ha llamado a estos seguidores dispersos de Cristo a proclamar las obras poderosas de Dios, y el principal ámbito de esta proclamación es su vida cotidiana.
 
+### Esta carta es de mucho ánimo para el creyente de hoy. Te invitamos a ser enseñable por Dios mediante estas Palabras inspiradas por Dios al Apóstol Pedro. 
+
+## Contexto cultural/histórico
+
+### Es en los años 60-68d.C., bajo el emperador romano Nerón, la persecución de la iglesia empieza a ponerse peor. Muchos creyentes fueron esparcidos de la provincia de judea a las provicincias de Ponto, Galacia, Capadocia, Asia y Bitinia. Es aquí donde el cristianismo empezó a crecer. 
+
+### Las cartas de Gálatas, Efesios y Colosenses son escritos a iglesias en estas provincias. De igual manera, la carta de Apocalipsis es escrito a 7 iglesias que se encuentran en una de estas provincias. 
+
 ## Bosquejo
 
 | #    | Sección                                      | Página |
 | ---- | -------------------------------------------- | ------ |
-| I    | Introducción                                 |        |
-| II   | 1 Pedro 1:3-2:10 EL TRIUNFO DE LA FE         |        |
-| III  | 1 Pedro 2:11-3:12 PIADOSOS EN EL SUFRIMIENTO |        |
-| IV   | 1 Pedro 3:13-5:14 GRACIA EN EL SUFRIMIENTO   |        |
+| I    | INTRODUCCION                                 |        |
+| II   | 1 Pedro 1:3-25 EL TRIUNFO DE LA FE           |        |
+| III  | 1 Pedro 2:1-2:10 CRECIENDO HACIA LA MADUREZ  |        |
+| III  | 1 Pedro 2:11-3:12 PIADOSOS EN LA PERSECUCIÓN |        |
+| IV   | 1 Pedro 3:13-5:14 GRACIA POR EL SUFRIMIENTO  |        |
 
 # 1 Pedro 1:1-2:10 – EL TRIUNFO DE LA FE
 
 ## 1 Pedro 1:1-2 – Saludos y autoria
 
-###  1 Pedro 1:1a "*Pedro,*" Pedro es autor del libro (1 Pedro 5:1) pero se transcribió por medio de Silvano (1 Pedro 5:12). 
+###  1 Pedro 1:1a "*Pedro,*" Pedro es el autor del libro (1 Pedro 5:1) pero lo transcribió por medio de Silvano (1 Pedro 5:12). 
 
 ####  ¿Quién es Pedro? Pedro, originalmente Simón, era pescador, nacido en Betsaida. Juan 1:42-44; Mateo 4:19
 
-##### Pedro era casado y tenía casa en Capernaúm. Su suegra vivía con ellos. Su padre se llamaba Jonás. Lucas 4:31, 38-40
+##### Sabemos que Pedro era casado y tenía casa en Capernaúm. Su suegra vivía con ellos y su padre se llamaba Jonás. Lucas 4:31, 38-40
 
 ##### Pedro había sido presentado a Jesús por su hermano Andrés. Juan 1:40-42
 
@@ -54,31 +55,23 @@ Title: 1 & 2 Pedro
 
 #### Pedro era enviado a los judíos. Gálatas 2:7-8
 
-#### ¿De donde escribió Pedro? Pedro estaba con Marcos en Babilonia (1 Pedro 5:13). El debate es, ¿a que se refiere con Babilonia?, ¿es literal o simbólico?
+#### ¿De donde escribió su primera carta Pedro? 
 
-##### Existen argumentos que se trata de la ciudad de Babilonia. Es posible dado que la ciudad seguía habitada en parte. Una población judía nunca retornaron del exilio bajo los Babilonios. Las evidencias a favor de Babilonia siendo literal son menos que las que apuntan que Babilonia representa Roma en aquel entonces. 
-
-##### Más evidencia existe que Pedro se refiere a Roma en código. El cristianismo en las primeras décadas no había llegado tan lejos al este. Existen historiadores que mencionan a la ciudad de Babilonia en este tiempo como un gran desierto y que mucho de la ciudad había sido convertido para agricultura. 
-
-##### Además Pedro menciona que Marcos (probablemente Juan Marcos) enviaba saludos (1 Pedro 5:13). Sabemos que Marcos estaba en Roma. Colosenses 4:10
-
-##### Sólo después de la caída del segundo templo (70 d.C.) y la revuelta de Bar Kokhba (132-135 d.C.) se puede seguir verdaderamente la historia del judaísmo babilónico. Las fuentes relativas a los dos primeros siglos de la era cristiana no hacen mención alguna de estudios organizados de la Torá en Babilonia y prácticamente no mencionan ningún erudito babilónico.[^10]
-
-##### En los años cuando se escribió las cartas de 1 y 2 Pedro, los cristianos estaban bajo mucha persecución, especialmente en Roma. Pedro tendría buena razón por codificar el nombre para no divulgar información que pondría en peligro a los hermanos. 
+##### Pedro estaba con Marcos en Babilonia (1 Pedro 5:13). 
 
 #### La tradición de la Iglesia dice que Pedro murió crucificado (con los brazos extendidos). Esto probablemente tuvo lugar tres meses después del desastroso incendio que destruyó Roma por el cual el emperador Nerón quiso culpar a los cristianos.[^8]
 
-###  1 Pedro 1:1b "*apóstol de Jesucristo:*" Pedro es un apóstol de Jesucristo. Sus credenciales vienen de Jesucristo. 2 Pedro 1:1; Mateo 4:18 
+###  1 Pedro 1:1b "*apóstol de Jesucristo:*" Pedro es un apóstol de Jesucristo. Sus credenciales provienen de Jesucristo. 2 Pedro 1:1; Mateo 4:18 
 
-#### Apóstol podria ser cualquier enviado pero Pedro apóstol de Jesucristo, haciendolo uno de los 12 Apóstoles del Cordero. Mateo 10:2; Marcos 3:16; Apocalipsis 21:14
+#### Apóstol podria referirse a cualquier enviado pero Pedro es apóstol de Jesucristo, haciendolo uno de los 12 Apóstoles del Cordero. Mateo 10:2; Marcos 3:16; Apocalipsis 21:14
 
 ## 1 Pedro 1:2 Identficados por fe
 
 ###  1 Pedro 1:1c "*A los expatriados, de la dispersión...*" la carta es escrita a los extranjeros temporales PAREPIDEMOS de creyentes esparcidos.1 Pedro 5:14; Santiago 1:1
 
-#### Pedro se refiere a ellos (expatriados) más adelante como extranjeros y peregrinos. 1 Pedro 2:11, 1:17; 2 Pedro 1:10
+#### Pedro se refiere a los receptores (expatriados) más adelante en su carta como extranjeros y peregrinos. 1 Pedro 2:11, 1:17; 2 Pedro 1:10
 
-###  1 Pedro 1:1d "*...en el Ponto, Galacia, Capadocia, Asia y Bitinia...*" Pedro escribió a personas esparcidas de sus lugares de origen que fueron a peregrinar en diferentes provincias del imperio Romano. Hoy en día los conocemos como el norte de Turquía. 1 Pedro 2:11
+###  1 Pedro 1:1d "*...en el Ponto, Galacia, Capadocia, Asia y Bitinia...*" Pedro escribió a personas esparcidas de sus lugares de origen que fueron a peregrinar en diferentes provincias del imperio Romano. Hoy en día lo conocemos como el norte de Turquía. 1 Pedro 2:11
 
 ###  1 Pedro 1:1e Quienes son..."*elegidos*" EKLEKTOS los escogidos fuera. 1 Pedro 2:9; Mateo 22:14
 
@@ -86,52 +79,54 @@ Title: 1 & 2 Pedro
 
 ##### Israel (Deuteronomio 7:6), reyes (1 Samuel 10:24), ángeles (1 Timoteo 5:21), la iglesia (Tito 1:1), individuos (Romanos 16:13), creyentes (Mateo 24:31) y El Mesías (Lucas 23:35).
 
-#### La doctrina de la elección ha sido corrompida y confusa por falsas enseñanzas. La enseñanza de que Dios eligió a algunos pecadores para la salvación, y que solo Cristo murió por ellos, y solo ellos pueden ser salvos no es conforme a la Biblia. Según los que enseñan la "elección soberana", la elección de Dios no tiene nada que ver con Su conocimiento previo de quiénes creerían.
+#### La doctrina de la elección ha sido corrompida y ofuscada por falsas enseñanzas. La enseñanza de que Dios eligió a algunos pecadores para la salvación, y que Cristo solo murió por ellos, y solo ellos pueden ser salvos no es conforme a la Biblia. Según los que enseñan la "elección soberana", la elección de Dios no tiene nada que ver con Su conocimiento previo de quiénes creerían en Él.
 
 #### Los elegidos son aquellos que responden por la fe al llamado de Dios. Dios está llamando a todo el mundo pero solo los que responden creyendo el Él son identificados como los elegidos. 
 
 #### Este grupo de personas no es un grupo cerrado. Según la Biblia, todos son invitados pero pocos son los que responden. Mateo 20:16; Juan 12:32; Mateo 11:28-30; Tito 2:4
 
-### 1 Pedro 1:2a "*elegidos según...*" La palabra según KATA no debe ignorarse en este pasaje, porque define que algo esta en base a o en conformidad de algo.  En este caso, según el contexto inmediato "*elegidos*" en base o en conformidad a...*".
+### 1 Pedro 1:2a "*elegidos según...*" La palabra según KATA no debe ignorarse en este pasaje, porque define que algo esta en base a o en conformidad de algo.  En este caso, según el contexto inmediato "*elegidos*" según, en base a, o en conformidad a...
 
-#### Por ejempo según la (R.A.E.) "*según*" es una preposición que se utiliza para indicar que algo que se dice o se considera en base a una información específica, una fuente, una autoridad, etc.
+#### "*Según*" es una preposición que se utiliza para indicar que algo que se dice o se considera en base a una información específica, una fuente, una autoridad, etc.[^11]
 
 #### En otras palabras "*según*" se utiliza para citar una fuente, indicar una opinión o basarse en información específica. 1 Corintios 9:8
 
-###  1 Pedro 1:2b "*elegidos según...el previo conocimiento de Dios Padre...*" El primer punto es que los elegidos son en base a la presciencia de Dios. El ser elegidos es según el previo conocimiento de Dios. 
+###  1 Pedro 1:2b "*elegidos según...el previo conocimiento de Dios Padre...*" El primer punto es que los elegidos son en base a, según, la presciencia de Dios. El ser elegidos es según el conocimiento previo que tuvo Dios. 
 
-#### Pedro no esta diciendo que Dios eligió según Su plan predeterminado como lo hizo entregando a Jesucristo en Hechos 2. Hechos 2:23; 1 Pedro 1:20
+#### Pedro no esta diciendo que Dios eligió según Su plan predeterminado como lo hizo entregando a Jesucristo en Hechos 2. Hechos 2:23; 1 Pedro 1:20; Lucas 22:22
 
-#### Los elegidos no son según el plan predeterminado de Dios, sino __<u>según</u>__ Su previo conocimiento.  Gálatas 4:9
+#### Los elegidos no son según el plan predeterminado de Dios, sino __<u>según</u>__ Su previo conocimiento.  Romanos 8:29
 
-####  ¿La elección es según qué conocimiento previo? La presciencia de Dios incluye conocer todo sobre todos los tiempos. Específicamente, Dios sabía antes de nada sobre los que a traves de los tiempos creerían en Él. Romanos 8:28-29
+##### Gálatas 4:9 *Pero ahora, conociendo a DIOS, y más bien, **habiendo sido conocidos por DIOS**, ¿cómo os volvéis de nuevo a los débiles y pobres rudimentos °, a los cuales otra vez queréis servir de nuevo como esclavos?* (BTX)
+
+####  ¿La elección es según qué conocimiento previo? La presciencia de Dios incluye conocer todo sobre todos los tiempos. Específicamente, Dios sabía antes de nada sobre los que a traves de los tiempos creerían en Él. Salmo 139:4, 50:11; Romanos 8:28-29
 
 ###  1 Pedro 1:2c "*por la obra  santificadora* [en santificación RVR60] *del Espíritu...*" Son elegidos por la obra santificadora del Espíritu. 2 Tesalonicenses 2:13
 #### La palabra "*por*" EN - significa en, con o por. Esta palabra es usualmente traducida "en". La traducción de la palabra EN (a por) hace parecer que la elección es causado por El Espíritu en un sentido regenerador, sin embargo mejor es entender que la elección es por medio de la obra santificadora, es decir, en separar para un uso. Tito 3:5
 
-###  1 Pedro 1:2d "*para obedecer a Jesucristo...*" El tercer punto de la elección es que es para obedecer a Jesucristo y ser rociados con Su sangre. 1 Pedro 1:14, 22
+###  1 Pedro 1:2d "*...para obedecer a Jesucristo...*" El tercer punto de la elección es que es para obedecer a Jesucristo y ser rociados con Su sangre. 1 Pedro 1:14, 22
 
 ### 1 Pedro 1:2e "*...y ser rociados con Su sangre:*" El ser rociado con sangre era una practica bajo la ley que representaba ser santificado para un propósito de Dios. Hebreos 9:13-14
 
-#### Nótense las tres preposiciones: **según** (KATA) la presciencia; **en** (EN) la santificación; **para** (EIS) la obediencia. El fundamento, la esfera y el fin de la santificación espiritual.
+#### Nótense las tres preposiciones: **según** (KATA) la presciencia; **en** (EN) la santificación; **para** (EIS) la obediencia. Dios el Padre, Dios el Espíritu Santo y Dios el Hijo obraron juntos en la elección. 
 
-#### Romanos 8:28 "*Y sabemos que para los que aman a Dios, todas las cosas cooperan para bien, esto es, para los que **son llamados conforme a Su propósito**.*"
+##### Romanos 8:28 "*Y sabemos que para los que aman a Dios, todas las cosas cooperan para bien, esto es, para los que **son llamados conforme a Su propósito**.*"
 
-#### Romanos 8:29 *Porque a los que de antemano conoció, también los predestinó a ser hechos conforme a la imagen de Su Hijo, para que Él sea el primogénito entre muchos hermanos.* en base al previo conocimiento, vemos una cadena de 5 eslabones. 
+##### Romanos 8:29 *Porque a los que de antemano conoció, también los predestinó a ser hechos conforme a la imagen de Su Hijo, para que Él sea el primogénito entre muchos hermanos.* en base al previo conocimiento, vemos una cadena de 5 eslabones. 
 
-#### Romanos 8:30 *A los que predestinó, a esos también llamó. A los que llamó, a esos también justificó. A los que justificó, a esos también glorificó.*
+##### Romanos 8:30 *A los que predestinó, a esos también llamó. A los que llamó, a esos también justificó. A los que justificó, a esos también glorificó.*
 
-##### 100% de los que Dios tuvo previo conocimiento, **predestino**. 
+###### 100% de los que Dios tuvo previo conocimiento, **predestino**. 
 
-##### 100% de los que Dios predestinó, **llamó**. 
+###### 100% de los que Dios predestinó, **llamó**. 
 
-##### 100% de los que Dios llamó, **justifico**. 
+###### 100% de los que Dios llamó, **justifico**. 
 
-##### 100% de los que Dios justifico, **glorificó**.
+###### 100% de los que Dios justifico, **glorificó**.
 
-##### En conclusión, la obra de Dios es 100% efectivo a los que Él conoció de antemano.  ¿Como puede uno saber que Dios le conoció de antemano? Porque por tu fe creiste en Él.  Habacúc 2:4; 1 Pedro 1:5
+##### En conclusión, la obra de Dios es 100% efectivo a los que Él conoció de antemano.  Es importante establecer que conocer algo no es causar algo o determinar algo. No debemos dejar que una idea teológica determine nuestra comprensión de las Escrituras. 
 
-###  1 Pedro 1:2 "*Que la gracia y la paz les sean multiplicadas a ustedes*". El deseo de Pedro a sus lectores es que Dios multiplique Su gracia y paz a ellos. 2 Pedro 1:2
+###  1 Pedro 1:2 "*Que la gracia y la paz les sean multiplicadas a ustedes*". El deseo de Pedro a sus lectores es que Dios multiplique Su gracia y paz a ellos. 2 Pedro 1:2; Judas 1:2
 
 ## En Síntesis (1 Pedro 1:1-2)
 
@@ -173,7 +168,7 @@ Title: 1 & 2 Pedro
 
 #### ¿Cuál fue el propósito que Dios tenía para hacernos nacer de nuevo? 
 
-###  1 Pedro 1:4a  "*para obtener una herencia,*" Parte de nuestra esperanza viva es que nos hizo nacer de nuevo para recibir una herencia. Efesios 1:14
+###  1 Pedro 1:4a  "*nos ha hecho nacer de nuevo...para obtener una herencia,*" Parte de nuestra esperanza viva es que nos hizo nacer de nuevo para recibir una herencia. Efesios 1:14
 
 ###  1 Pedro 1:4b "*incorruptible, inmaculada y que no se marchitará, reservada en los cielos*". Es una herencia que no se contamina con el tiempo, no tiene falla ni se arruina. Esta herencia está guardada en los cielos. Efesios 1:18
 
@@ -183,21 +178,19 @@ Title: 1 & 2 Pedro
 
 ### 1 Pedro 1:4c "...*para ustedes...*" los lectores podían estar completamente seguros de estar en este grupo de bendecidos. ¿Como podían saber?
 
-#### ¿Cómo se que soy un elegido de Dios? ¿Realmente puedo saber que el soberano Dios me escogió desde antes de la fundación del mundo?
+#### ¿Cómo saber que uno es elegido de Dios? ¿Cómo saber que Dios me hizo nacer de nuevo? ¿Realmente puedo saber que el soberano Dios me escogió desde antes de la fundación del mundo?
 
-#### ¿Cómo puedo saber que yo tengo una esperanza viva? 
-
-#### ¿Realmente tengo yo una herencia en los cielos? 
+#### ¿Realmente puedo saber con certeza que tengo una herencia en los cielos? 
 
 #### A continuación veremos como Pedro aseguró a sus lectores que apesar de sus tribulaciones podían estar completamente seguros que Dios les había destinado a salvación y no a perdición. 
 
 ## 1 Pedro 1:5-7 La importancia de la nuestra fe
 
-###  1 Pedro 1:5a  "*...Mediante la fe ustedes son protegidos por el poder de Dios,*" Cuando creímos en Cristo, la promesa, el poder, la misericordia, la herencia y ser protegidos por Dios llegan a hacerse tuyos pero Dios estuvo, está y siempre estará guardandote por la precognición de Dios. 1 Pedro 5:10, 1:9
+###  1 Pedro 1:5a  "*...Mediante la fe ustedes son protegidos por el poder de Dios,*" Cuando creímos en Cristo, la promesa, el poder, la misericordia, la herencia y ser protegidos por Dios llegan a hacerse tuyos pero Dios siempre, estuvo y siempre estará guardandote por la precognición de Dios. 1 Pedro 5:10, 1:9
 
 #### Esto es una expresión importante que Pedro hace. El resto de la carta se apoyará grandemente sobre ello. 
 
-#### Pedro dice que es por medio de la fe que somos protegidos para salvación que está preparada para ser revelada. 
+#### Pedro dice que es por medio de nuestra fe que somos protegidos para salvación que está preparada para ser revelada. 
 
 #### Esto significa que es nuestra fe quien nos mantiene protegidos? ¿Significa que necesito seguir creyendo para que sea una realidad? 
 
@@ -207,9 +200,9 @@ Title: 1 & 2 Pedro
 
 #### ¿Específicamente, qué conoció Dios de ante mano? Tu fe en Él fue prevista desde la eternidad pasada. 
 
-##### La fe es mencionada 5 veces en 1 Pedro. 4 de las 5 veces están en el primer capítulo. 3 de las 5 veces usa el posesivo, "*su fe*" o "*la fe de ustedes*". 
+##### La fe es mencionada 5 veces en 1 Pedro. 4 de las 5 veces están en el primer capítulo. 3 de las 5 veces usa el posesivo, "*su fe*" o "*la fe de ustedes*".  Habacúc 2:4
 
-#### Significa que tu fe no te la dio Dios como un don. Significa que no tienes que dudar si Dios te dio la fe o no. 
+#### Significa que tu fe no te la dio Dios como un don. Significa que no tienes que dudar si Dios te dio la fe o no. La fe viene al oir el mensaje de salvación, no porque Dios te lo da como algo especial en base a escogerte. Romanos 10:14-17; Efesios 1:13
 
 #### Significa que es tu fe que pusiste en Dios. El conocio este hecho de antemano y pudo actuar sobre ello. ¡Que asombroso! Habacúc 2:4
 
@@ -223,9 +216,9 @@ Title: 1 & 2 Pedro
 
 ##### Dios tiene que soberanamente decidir al azar quien creerá. 
 
-##### Vale aclarar que la fe no es un mero conocimiento intelectual, sino la confianza que descansa únicamente en Jesucristo y Su obra en la cruz por nuestros pecados. 
+#### Vale aclarar que la fe no es un mero conocimiento intelectual, sino la confianza que descansa únicamente en Jesucristo y Su obra en la cruz por nuestros pecados. 
 
-###### El que no responde a la revelación que ha recibido de Dios queda inexcusable ante Dios. Romanos 1:20, 2:1 
+#### El que no responde a la revelación que ha recibido de Dios queda inexcusable ante Dios. Es inexcusable porque pudo responder a lo que Dios le reveló por medio de lo creado, por medio de lo que Dios hizo evidente en su conciencia. Romanos 1:20, 2:1 
 
 #### "*son protegidos*" PHROUREO (presente, pasivo, participio) - estar o volverse seguro y mantenerse bajo vigilancia.[^1] Somos continuamente los protegidos por Dios. No es nuestra fe que nos protege, es Dios. Judas 1:24
 
@@ -233,33 +226,35 @@ Title: 1 & 2 Pedro
 
 ##### En el plan soberano de Dios, Él estableció que la salvación sea únicamente por la fe. El medio por el cual el hombre es salvo es por el medio de la fe en Jesucristo. Romanos 3:22
 
-##### ¿Es tan poderosa nuestra fe como para protegernos? No. Lo que es poderoso es que Dios declara que todo el que en Él cree, no será decepcionado (1 Pedro 2:6). Lo que es poderoso es que Dios conoció de antemano nuestra fe y nos protege para recibir lo que Él prometió. Haber puesto nuestra confianza en Dios nos asegura todas estas cosas. 
+##### ¿Es tan poderosa nuestra fe como para protegernos? No. Lo que es poderoso es que Dios declara que todo el que en Él cree, no será decepcionado (1 Pedro 2:6). Lo que es poderoso es que Dios conoció de antemano nuestra fe y nos protege para recibir lo que Él prometió. Haber puesto nuestra confianza en Dios nos asegura todas estas cosas. La seguridad que sentimos está en Dios mediante la fe. 
 
-#### Los resultados de la fe son eternas. Juan 3:16; Romanos 5:2
+###### Los resultados de la fe son eternas. Juan 3:16; Romanos 5:2
 
 ##### ¿Cómo podemos saber con seguridad que Dios nos hizo nacer y que Dios nos protege? ¿Cómo se que se aplica a mi? Mediante nuestra fe podemos estar plenamente convencidos que Dios garantiza mi salvación pasada, presente y futura. 
 
-##### Porque creimos en Él, (y Dios conociendolo de antemano) nos hizo nacer de nuevo según su misericordia para recibir una herencia reservada por Él en los cielos. Claramente, el foco es puesto en la omnisciencia, el poder, la misericordia y fidelidad de Dios, pero lo sabemos porque Dios hace todas estas cosas a los que son de la fe. Gálatas 3:9; Romanos 4:16
+##### Porque creimos en Él, (y Dios conociendolo de antemano) nos hizo nacer de nuevo según su misericordia para recibir una herencia reservada por Él en los cielos. Claramente, el foco es puesto en la omnisciencia, el poder, la misericordia y fidelidad de Dios, pero lo sabemos porque Dios hace todas estas cosas a los que son creen. Gálatas 3:9; Romanos 4:16
 
 ###  1 Pedro 1:5b "*para la salvación que está preparada para ser revelada en el último tiempo.*" La salvación preparada para ser revelada en el último tiempo es la glorificación futura de cada creyente de la edad de la Iglesia. 1 Corintios 15:51-53
 
 #### Cada creyente es protegido por el poder de Dios mediante la fe para la glorificación. La salvación (de los que responden mediante la fe) estaba preparada en la soberanía de Dios desde antes de la fundación del mundo y será revelada en el último tiempo. 
 
-#### "*Revelada*" APOCALIPTO (aoristo, pasivo, infinitivo) - ser o llegar a ser conocido por el público; especialmente información que anteriormente sólo era conocida por unas pocas personas o que debía mantenerse en secreto.[^1]
+##### "*Revelada*" APOCALIPTO (aoristo, pasivo, infinitivo) - ser o llegar a ser conocido por el público; especialmente información que anteriormente sólo era conocida por unas pocas personas o que debía mantenerse en secreto.[^1]
 
-#### En última instancia, la fe hace que la soberanía de Dios en proveer salvación por el medio de la fe en Jesucristo sea confirmada y la promesa segura al individuo. El poder de Dios guarda a los creyentes "*mediante la fe*" para la salvación que está preparada para ser revelada en el tiempo postrero, asegurando así que su herencia "*incorruptible e inmaculada, y cuyo destino no está lejos, reservada en los cielos*".
+#### En última instancia, la fe hace que la soberanía de Dios en proveer salvación por el medio de la fe en Jesucristo sea confirmada y la promesa segura al individuo. El poder de Dios guarda a los creyentes "*mediante la fe*" para la salvación que está preparada para ser revelada en el tiempo postrero, asegurando así que su herencia "*incorruptible e inmaculada, y cuyo destino no está lejos, reservada en los cielos*". ¡¡Maravillosa gracia!!
 
 ## 1 Timoteo 1:6-9 La fe probada
 
-###  1 Pedro 1:6a  "*En lo cual ustedes se regocijan grandemente,*" Les trajo gran regocijo conocer estas realidades. Saber que seremos salvos en el último tiempo nos llena de gozo. Así como Dios supo de nosotros de antemano, estuvo reservando nuestra herencia futura y nos hizo renacer, podemos regocijarnos al saber que nos protege en el presente para recibir la completa salvación que nos ha prometido. 
+###  1 Pedro 1:6a  "*En lo cual ustedes se regocijan grandemente,*" Les trajo gran regocijo conocer estas realidades. Saber con certeza absoluta que seremos salvos en el último tiempo nos llena de gozo. Así como Dios supo de nosotros de antemano, estuvo reservando nuestra herencia futura y nos hizo renacer, podemos regocijarnos al saber que nos protege en el presente para recibir la completa salvación que nos ha prometido en el futuro. 
 
-####  Nuestra futura glorificación y liberación de la misma presencia del pecado nos lleva a ser agradecidos. 
+#### Tener una correcta comprensión de la soberanía de Dios en relación a nuestra fe y como compaginan perfectamente dentro de la sabiduría y misericordia De Dios nos trae gran regocijo que no es en base a circunstancias, evidencias o experiencias. 
 
-###  1 Pedro 1:6b "*aunque ahora, por un poco de tiempo si es necesario, sean afligidos con diversas pruebas,*" mientras que la herencia es eterna y segura, es posible que el creyente tenga que sufrir temporalmente. 
+###  1 Pedro 1:6b "*aunque ahora, por un poco de tiempo si es necesario, sean afligidos con diversas pruebas,*" mientras que el creyente se regocija sabiendo estas maravillosas verdades, es posible que el creyente aún tenga que sufrir temporalmente. 
 
-#### A pesar de nuestro pasado, presente y futuro en las manos de Dios, no signifca que no estaremos puestos bajo pruebas durante nuestra peregrinación en la tierra. 
+#### A pesar de nuestro pasado, presente y futuro en las manos de Dios, no signifca que no estaremos puestos bajo pruebas durante nuestra peregrinación en la tierra. Seguramente Dios debe tener un propósito en esto también. 
 
-### 1 Pedro 1:7a  "*para que la prueba de la fe de ustedes, más preciosa que el oro que perece, aunque probado por fuego,*" Pedro usa una ilustración de la prueba de oro por fuego para mostrar una verdad espiritual. La fe probada es más precioso que el oro. 
+#### ¡Asi eś! ¡Dios tiene un provecho especial para el creyente en las aflicciones también!
+
+### 1 Pedro 1:7a  "*...para que la prueba de la fe de ustedes, más preciosa que el oro que perece, aunque probado por fuego...*" Pedro usa una ilustración de la prueba de oro por fuego para mostrar una verdad espiritual. La fe probada es más precioso que el oro. 
 
 #### Así como el fuego es bueno para separar el oro de las impurezas, las pruebas en la vida del creyente son buenos para probar su fe. 
 
@@ -269,11 +264,11 @@ Title: 1 & 2 Pedro
 
 #### Así como llegamos a ser receptores de la salvación por medio de Jesucristo, también somos enseñados que el andar del creyente debe ser por la fe. Cuando nuestra fe es puesta bajo prueba se purifica. La fe probada es precioso a los ojos de Dios. Santiago 1:2-4
 
-### 1 Pedro 1:7b "*sea hallada que resulta en alabanza, gloria y honor...*" La fe pura tiene un valor precioso, más que puro oro.  El oro es considerado hermoso y valioso. 
+### 1 Pedro 1:7b "*sea hallada que resulta en alabanza, gloria y honor...*" La fe pura tiene un valor precioso, más que puro oro.  El oro es considerado hermoso y valioso en este mundo. 
 
 #### El oro es un metal precioso que se ha utilizado para acuñar monedas, joyería y otras obras de arte a lo largo de la historia. En el pasado, el estándar de oro se implementaba a menudo como política monetaria.[^7]
 
-#### El sistema "monetario" celestial es la fe aprobada. Establece valor y denota hermosura.  Resulta en alabanza, gloria y honor.
+#### El sistema "monetario" celestial es la fe aprobada. Establece valor y denota hermosura.  Resulta en alabanza, gloria y honor.  
 
 ### 1 Pedro 1:7c "*...en la revelación de Jesucristo...*" cuando Cristo sea manifestado, también seremos manifestados con Él. Filipenses 3:20; Colosenses 3:4
 
@@ -299,6 +294,8 @@ Title: 1 & 2 Pedro
 
 ##### La Biblia dice, "*Obteniendo el fin de vuestra fe, que es la salud de vuestras almas*". (RVR09)
 
+#### ¡¡Cuan importante es nuestra fe para Dios!! Este mundo hace el ridículo de los que creen pero para Dios es algo especial. Su previo conocimiento va ligado estrechamente a nuestra fe. Nuestra aseguranza actual está basado en fe. Las pruebas son para probar nuestra fe. Es por fe que el creyente exprimenta la salud de su alma. 
+
 ## En Síntesis (1 Pedro 1:3-9)
 
 ### La garantía de nuestra salvación (1:3-5)
@@ -321,7 +318,7 @@ Title: 1 & 2 Pedro
 
 ## 1 Pedro 1:10-12 Cumplimiento de la fe anunciado
 
-### 1 Pedro 1:10a  "*Acerca de esta salvación, los profetas que profetizaron...*" La manera que Dios llevaría efectuaría la salvación era incierta para los profetas. 
+### 1 Pedro 1:10a  "*Acerca de esta salvación, los profetas que profetizaron...*" La manera que Dios llevaría a efectuar la salvación era incierta para los profetas. 
 
 #### La palabra salvación SOZO es usada 4 veces en 1 Pedro y una vez en 2 Pedro. 1 Pedro 1:5, 9, 10, 2:2; 2 Pedro 3:15
 
@@ -329,33 +326,35 @@ Title: 1 & 2 Pedro
 
 ##### 1Pedro 1:9 "*obteniendo, como resultado de su fe, la salvación de sus **almas**.*" Esta hablando de una salvación obtenida ya o que estaba en proceso? 
 
-##### 1 Pedro 1:22 "*Puesto que en obediencia a la verdad ustedes han purificado sus **almas** para un amor sincero de hermanos, ámense unos a otros entrañablemente, de corazón puro.*" Se hicieron purificados (perfecto, activo, participio) sus almas por medio de la obediencia a la verdad. Santificación. 
+###### 1 Pedro 1:22 "*Puesto que en obediencia a la verdad ustedes han purificado sus **almas** para un amor sincero de hermanos, ámense unos a otros entrañablemente, de corazón puro.*" Se hicieron purificados (perfecto, activo, participio) sus almas por medio de la obediencia a la verdad. Santificación. 
 
-##### 1 Pedro 2:25 "*Pues ustedes andaban descarriados como ovejas, pero ahora han vuelto al Pastor y Guardián de sus **almas**.*" 
+###### 1 Pedro 2:25 "*Pues ustedes andaban descarriados como ovejas, pero ahora han vuelto al Pastor y Guardián de sus **almas**.*" 
 
-##### 1 Pedro 3:20 "*quienes en otro tiempo fueron desobedientes cuando la paciencia de Dios esperaba en los días de Noé durante la construcción del arca, en la cual unos pocos, es decir, ocho personas* [almas], *fueron salvadas por medio del agua.*" 
+###### 1 Pedro 3:20 "*quienes en otro tiempo fueron desobedientes cuando la paciencia de Dios esperaba en los días de Noé durante la construcción del arca, en la cual unos pocos, es decir, ocho personas* [almas], *fueron salvadas por medio del agua.*" 
 
-##### 1 Pedro 4:19 "*Así que los que sufren conforme a la voluntad de Dios, encomienden sus **almas** al fiel Creador, haciendo el bien.*" 
+###### 1 Pedro 4:19 "*Así que los que sufren conforme a la voluntad de Dios, encomienden sus **almas** al fiel Creador, haciendo el bien.*" 
 
-### 1 Pedro 1:10b "*de la gracia que vendría a ustedes...*" una gracia venidera no significa que no hemos recibido gracia, pero que recibimos gracia sobre gracia. 
+### 1 Pedro 1:10b "*de la gracia que vendría a ustedes...*" una gracia venidera no significa que no hemos recibido gracia y que debemos esperar para posiblemente recibirlo. Significa que recibimos gracia sobre gracia. 
 
 #### Fuimos salvos por gracia. Efesios 2:8
 
 #### Estamos firmes en la gracia. Romanos 5:2
 
-#### Somos protegidos del libertinage al aprender de la gracia. 2 Pedro 3:17-18
+#### Somos protegidos del libertinage al ser enseñados por la gracia. 2 Pedro 3:17-18
 
-#### Somos enseñados a vivir piadosamente por la gracia. Tito 2:11-12
+#### Somos enseñados a vivir piadosamente por la gracia y a tener bien enfocado nuestra esperanza. Tito 2:11-12
 
 #### La gracia nos enseña a tener esperanza en Jesucristo. 1 Pedro 1:13; Tito 2:13
 
+#### La gracia nos enseña a ser celoso de buenas obras. Tito 2:14
+
 ### 1 Pedro 1:10c "*...diligentemente inquirieron y averiguaron...*" para una persona viviendo bajo la ley, debió llamarles la atención las cosas que estaban siendo reveladas sobre la gracia que iva de venir.  Lucas 10:24
 
-#### Similarmente por ejemplo, a nosotros nos llama la atención muchas cosas sobre el Reino Milenial de Cristo. Quisieramos indigar y averiguar sobre ese tiempo. 
+#### Similarmente por ejemplo, a nosotros nos llama la atención muchas cosas sobre el Reino Milenial de Cristo. Quisieramos indigar y averiguar sobre ese tiempo y sabemos ciertas cosas acerca de ese tiempo pero Dios no nos ha revelado todo detalle. 
 
-### 1 Pedro 1:11a  "*...procurando saber qué persona o tiempo indicaba el Espíritu de Cristo dentro de ellos...*" La revelación de Dios sobre su plan ha sido progresiva. Los que vinieron antes de nosotros (la iglesia) no sabían muchas cosas que a nosotros se nos ha revelado. 
+### 1 Pedro 1:11a  "*...procurando saber qué persona o tiempo indicaba el Espíritu de Cristo dentro de ellos...*" La revelación de Dios sobre su plan ha sido progresiva. Los que vinieron antes de nosotros (la iglesia) no sabían cosas que a nosotros se nos ha revelado. Hechos 26:22; Apocalipsis 22:6
 
-### 1 Pedro 1:11b "*...al predecir los sufrimientos de Cristo y las glorias que seguirían...*" Los sufrimientos de Cristo fueron predichos pero, ¿que glorias seguirían? 
+### 1 Pedro 1:11b "*...al predecir los sufrimientos de Cristo y las glorias que seguirían...*" Los sufrimientos de Cristo fueron predichos y también las glorias que seguirían. 
 
 #### Predijeron Sus Sufrimientos
 
@@ -365,15 +364,15 @@ Title: 1 & 2 Pedro
 
 ##### Isaías 53:12 *Por tanto, Yo **le daré** parte **con los grandes** Y con los fuertes **repartirá despojos**, Porque derramó Su alma hasta la muerte Y con los transgresores fue contado; Llevó el pecado de muchos, E intercedió por los transgresores.*
 
-### 1 Pedro 1:12a  "*...A ellos les fue revelado que no se servían a sí mismos, sino a ustedes...*" Había una razón más alla de solo revelar el sufrimiento y glorias postreras de Cristo...era para los lectores de la carta y para nosotros. 
+### 1 Pedro 1:12a  "*...A ellos les fue revelado que no se servían a sí mismos, sino a ustedes...*" Había una razón más alla de solo revelar el sufrimiento y glorias postreras de Cristo...era para los lectores de la carta y para nosotros. Romanos 4:22-25
 
 ### 1 Pedro 1:12b "*...en estas cosas que ahora les han sido anunciadas mediante los que les predicaron el evangelio por el Espíritu Santo enviado del cielo...*" Mayor revelación habían recibido que los que anunciaron sobre los sufrimientos de Cristo y las glorias que seguirían. 
 
 ### 1 Pedro 1:12c "*...cosas a las cuales los ángeles anhelan mirar...*" los ángeles desearian poder ver lo que el creyente de la edad de la iglesia ya ha sido revelado. 
 
-#### "*Anhelan*" EPITHUMEO - tener un deseo intenso por alguna cosa en particular.
+#### "*Anhelan*" EPITHUMEO - tener un deseo intenso por alguna cosa en particular.[^1]
 
-#### "*Mirar*" PARAKYPTO - examinar, concebido como hacer un esfuerzo para ver algo (que no está en la línea de visión) agachándose o inclinándose.
+#### "*Mirar*" PARAKYPTO - examinar, concebido como hacer un esfuerzo para ver algo (que no está en la línea de visión) agachándose o inclinándose.[^1]
 
 ## 1 Pedro 1:13-21 – Preparando el entendimiento para la acción
 
@@ -395,15 +394,21 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 1:13f *"...completamente en la gracia que se les traerá en la revelación de Jesucristo."* Apoyarse, completamente en la gracia que será traída en la revelación de Jesucristo debe ser al centro de la diana de su mirada. 
 
-###  1 Pedro 1:14a *"Como hijos obedientes..."* Igual que un hijo que escucha a la voz sus padres. Romanos 16:19
+###  1 Pedro 1:14a *"Como hijos obedientes..."* Igual que un hijo que escucha a la voz sus padres y responde obedeciendo. Ellos eran hijos obedientes al haber respondido al evangelio por la fe. Romanos 16:19; Juan 3:18, 36
 
-###  1 Pedro 1:14b "*no se conformen a los deseos que antes tenían en su ignorancia...*" ¿que deseos tenían a los que no debían conformarse? Efesios 2:1-3
+###  1 Pedro 1:14b "*no se conformen a los deseos que antes tenían en su ignorancia...*" ¿que deseos tenían a los que no debían conformarse? 
 
 #### "*no se conformen*" SYSCHEMATIZO (presente, media o pasiva, participio) - ser o volverse conductual o socialmente similar a; concebido como ser o llegar a ser moldeado o formado según un patrón determinado.[^1]
 
 #### "*deseos*" EPITHYMIA - un anhelo desmesurado y autocomplaciente (que desplaza los afectos apropiados hacia Dios).[^1]
 
-###  1 Pedro 1:15a "*sino que así como Aquel que los llamó es Santo...*" Estos creyentes expatriados habían sido llamados por una persona. El énfasis aquí no es a dónde les llamo, no cómo les llamo, sino que clase de persona es, Dios es santo. 
+#### Efesios 2:1 *...estaban muertos en sus delitos y pecados,*
+
+#### Efesios 2:2 *en los cuales anduvieron en otro tiempo según la corriente de este mundo, conforme al príncipe de la potestad del aire, el espíritu que ahora opera en los hijos de desobediencia.*
+
+#### Efesios 2:3 *Entre ellos también todos nosotros en otro tiempo vivíamos en las pasiones de nuestra carne, satisfaciendo los deseos de la carne y de la mente, y éramos por naturaleza hijos de ira, lo mismo que los demás.*
+
+###  1 Pedro 1:15a "*sino que así como Aquel que los llamó es Santo...*" Estos creyentes expatriados habían sido llamados por una persona. El énfasis aquí no es a dónde les llamo, no cómo les llamo, sino que clase de persona es el que hizo el llamado, Dios es santo. 
 
 #### "*santo*" HAGIOS - separado de la condición y uso común; dedicado. [^4]
 
@@ -427,13 +432,15 @@ Title: 1 & 2 Pedro
 
 #### "*invocan*" EPICALEOMAI - invocar una deidad para pedir ayuda o protección; especialmente como reconocimiento de sumisión y deferencia a una deidad específica.[^1] Hechos 2:21, 7:59, 9:21; Romanos 10:12, 14; 1 Corintios 1:2; 2 Timoteo 2:22
 
-###  1 Pedro 1:17b "*condúzcanse con temor durante el tiempo de su peregrinación.*"
+###  1 Pedro 1:17b "*...condúzcanse con temor durante el tiempo de su peregrinación.*"
 
 #### "*condúzcanse*" ANASTREPHO (aoristo, pasivo, imperativo) - comportarse de una determinada manera, entendido como caminar de un lado a otro en un lugar.[^1]
 
-##### La voz pasiva de condúzcanse nos ayuda entender que debían dejarse conducir por Dios y no hacer en sus propios esfuerzos estando separado de Dios. 
+##### La voz pasiva de "*condúzcanse*" nos ayuda entender que debían dejarse conducir por Dios y no hacer en sus propios esfuerzos estando separado de Dios. 
 
 #### "*Peregrinación*" MAGOR - estancia temporal como extranjero; a menudo con derechos limitados.[^1]
+
+##### El tiempo de su peregrinación da a entender que es por un determinado tiempo y no eterno. Es solo una peregrinación no un estado fijado de permanencia. 
 
 ###  1 Pedro 1:18a "*Ustedes saben que no fueron redimidos de su vana manera de vivir...*" la vana manera al cual se refiere aquí es la vida que antes vivian conforme a sus deseos en ignorancia. Fueron redimidos de esa manera de vida. 
 
@@ -486,7 +493,7 @@ Title: 1 & 2 Pedro
 
 #### Todo lo que es terrenal es temporal, pasajero. Nuestro nacimiento espiritual no proviene del hombre.
 
-###  1 Pedro 1:23c "*es decir, mediante la palabra de Dios que vive y permanece...*" fue mediante la palabra viva y eterna de Dios que hemos purificado nuestras almas y hemos nacido de nuevo. Somos el resultado de la Palabra viva y perdurable de Dios. 
+###  1 Pedro 1:23c "*...es decir, mediante la palabra de Dios que vive y permanece...*" fue mediante la palabra viva y eterna de Dios que hemos purificado nuestras almas y hemos nacido de nuevo. Somos el resultado de la Palabra viva y perdurable de Dios. 
 
 ###  1 Pedro 1:24a "*Porque: «TODA CARNE ES COMO LA HIERBA,*" Toda la humanidad es comparable a la hierba. Aparece un día y muy poco después muere. 
 
@@ -536,7 +543,7 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 1:25b "*Esa es la palabra que a ustedes les fue predicada.*" Esa es la palabra que oyeron y creyeron. Esa es la palabra que les mantiene firmes en este momento. Lucas 4:16-21
 
-#### Predicada EUANGELIZO - les habían predicado el evangelio. 
+#### "*Predicada*" EUANGELIZO - les habían predicado el evangelio. 
 
 ## En Síntesis (1 Timoteo 1:10-25)
 
@@ -785,8 +792,6 @@ Title: 1 & 2 Pedro
 ###  1 Pedro 2:10a *"Ustedes en otro tiempo no eran pueblo, pero ahora son el pueblo de Dios;..."* Nosotros podemos recordar nuestra antigua manera de vivir, en la cual no éramos pueblo de Dios, y estábamos alejados de la verdad. Efesios 2:12-13
 
 #### Ahora podemos entender el incalculable valor de ser pueblo de Dios, un pueblo santo, que anuncia las virtudes de su gracia y misericordia a toda criatura. 
-
-
 
 #### , Nos muestra el valor incalculable de ser ahora pueblo de Dios, como nación santa, escogida por Dios, que impresionante es ser el pueblo de Dios y manifestarse al mundo como lo que ya somos, una expresión pública de DIos.
 
@@ -2013,9 +2018,23 @@ Title: 1 & 2 Pedro
 
 ### 1 Pedro 5:13 *La que está en Babilonia, elegida juntamente con ustedes, los saluda,* Pedro enviara los saludos de la iglesia.
 
-#### En este versiculo entramos en un reto de la interpretacion, hay dos posturas en cuanto a "La que esta en Babilonia". Una lo toma de manera literal, Pedro se encontaba en Babilonia de Mesopotamia al momento de la escritura de la carta. La otra interpreta a Babilonia como una frase codigo pra referirse a Roma.
+#### En este versiculo entramos en un reto de la interpretacion, hay dos posturas en cuanto a "La que esta en Babilonia". Si uno lo toma de manera literal, Pedro se encontaba en Babilonia de Mesopotamia al momento de la escritura de la carta. La otra opción dice que Babilonia es usado como una frase codigo para referirse a Roma.
 
-#### Ambas interpretaciones tinen su apoyo biblico, personalmente me inclino por la segunda. Explicacion: Aunque no encontramos vesiculos biblicos explicitos en los que Pedro se encuentra en Roma, segun la historia y la tradicion no es posible ubicar a Pedro en mesopotamia (Babilonia), mas aun sus registros lo ubican en Roma del 60 al 66 d.C, años en los cuales se da escritura a sus dos cartas.
+##### El debate es, ¿a que se refiere con Babilonia? ¿es literal o simbólico?
+
+##### Existen argumentos que se trata de la ciudad de Babilonia es mesopotamia. Es posible dado que la ciudad seguía habitada en parte. Una población judía nunca retornaron del exilio bajo los Babilonios. Las evidencias a favor de Babilonia siendo literal son menos que las que apuntan que Babilonia representa Roma en aquel entonces. 
+
+##### Evidencia existe que Pedro se refiere a Roma en código. El cristianismo en las primeras décadas no había llegado tan lejos al este. Existen historiadores que mencionan a la ciudad de Babilonia en este tiempo como un gran desierto y que mucho de la ciudad había sido convertido para agricultura. 
+
+##### Además Pedro menciona que Marcos (probablemente Juan Marcos) enviaba saludos (1 Pedro 5:13). Sabemos que Marcos estaba en Roma. Colosenses 4:10
+
+##### Sólo después de la caída del segundo templo (70 d.C.) y la revuelta de Bar Kokhba (132-135 d.C.) se puede seguir verdaderamente la historia del judaísmo babilónico. Las fuentes relativas a los dos primeros siglos de la era cristiana no hacen mención alguna de estudios organizados de la Torá en Babilonia y prácticamente no mencionan ningún erudito babilónico.[^10]
+
+##### En los años cuando se escribió las cartas de 1 y 2 Pedro, los cristianos estaban bajo mucha persecución, especialmente en Roma. Pedro tendría buena razón por codificar el nombre para no divulgar información que pondría en peligro a los hermanos. 
+
+#### Ambas interpretaciones tienen poco apoyo bíblico. Como autores de este material, nos inclinamos por la segunda. Aunque no encontramos vesiculos bíblicos explicitos en los que Pedro se encuentra en Roma, segun la historia y la tradicion no es posible ubicar a Pedro en mesopotamia (Babilonia), mas aun muchos registros históricos lo ubican en Roma del 60 al 66 d.C, años en los cuales se da escritura a sus dos cartas.
+
+#### Sin embargo, aunque Babilonia sea literal o en código, no afecta de ninguna manera la interpretación del libro. 
 
 ### 1 Pedro 5:13 *y también mi hijo Marcos.* Probablemente se refiere a su hijo espiritual, Juan Marcos sobrino de Bernabe e hijo de Maria. 
 
@@ -2229,3 +2248,4 @@ ___-___
 [^8]: Wikipedia, https://en.wikipedia.org/wiki/Saint_Peter
 [^9]: Way of Life literature, https://www.wayoflife.org/reports/election_and_salvation.html
 [^10]: My Jewish Learning, https://www.myjewishlearning.com/article/jews-in-babylon/
+[^11]: Real Academia Española, https://dle.rae.es/seg%C3%BAn
