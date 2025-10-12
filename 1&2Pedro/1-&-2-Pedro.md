@@ -795,7 +795,11 @@ Title: 1 & 2 Pedro
 ###  1 Pedro 2:11a *"Amados, les ruego como a extranjeros y peregrinos..."* El apóstol Pedro llamará amados a los creyentes. Somos amados por causa de Su hijo, estamos revestidos de Cristo. Gálatas 3:27
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #### Nos muestra el valor incalculable de ser ahora pueblo de Dios, como nación santa, escogida por Dios, que impresionante es ser el pueblo de Dios y manifestarse al mundo como lo que ya somos, una expresión pública de Dios.
+=======
+#### Muestra el valor incalculable de ser ahora pueblo de Dios, como nación santa, escogida por Dios. ¡Qué impresionante es ser el pueblo de Dios y manifestarse al mundo como lo que ya somos, una expresión pública de Dios!
+>>>>>>> Stashed changes
 =======
 #### Muestra el valor incalculable de ser ahora pueblo de Dios, como nación santa, escogida por Dios. ¡Qué impresionante es ser el pueblo de Dios y manifestarse al mundo como lo que ya somos, una expresión pública de Dios!
 >>>>>>> Stashed changes
@@ -909,6 +913,7 @@ Title: 1 & 2 Pedro
 #### La palabra muramos APOGENOMENOS  es un verbo en tiempo aoristo, medio, participio, indicándonos que la acción ya sucedió en un tiempo pasado, sin embargo nos muestra una acción continua en el presente, que el creyente realiza en beneficio propio. 
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #### Con el fin de que nosotros muramos AL PECADO, y vivamos a la JUSTICIA, nos esta mostrando que Cristo ya murió, si y es un hecho completamente comprobado, ahora también es comprobado que vivamos a la justicia.
 
 ###  1 Pedro 2:24c *"...porque por Sus heridas fueron ustedes sanados..."* Debido a las heridas que sufrió Cristo, nosotros los creyentes fuimos sanados, el castigo por nuestra paz cayó sobre él. Isaías 53:5
@@ -916,6 +921,17 @@ Title: 1 & 2 Pedro
 ###  1 Pedro 2:25a *"Pues ustedes andaban descarriados como ovejas,..."* Los creyentes en su antigua manera de vivir estaban totalmente perdidos y sin rumbo. Isaías 53:6
 
 ###  1 Pedro 2:25b *"...pero ahora han vuelto al Pastor y Guardián de sus almas."* Sin embargo ahora hemos vuelto al pastor de las ovejas, y él es el guardián de nuestras almas, estamos completamente seguros y protegidos. Esta imagen de ser una oveja que se encuentra segura, nos trae confianza en nuestro pastor y salvador Cristo Jesús. Juan 10:11; 1 Pedro 5:4
+=======
+#### Con el fin que nosotros muramos al pecado, y vivamos a la justicia, nos esta mostrando que Cristo ya murió, si y es un hecho completamente comprobado, ahora también es comprobado que vivamos a la justicia.
+
+###  1 Pedro 2:24c *"...porque por Sus heridas fueron ustedes sanados..."* Al igual que Isaías, nos muestra que por  sus heridas nosotros fuimos sanados.
+
+#### Nos muestra que ya no vivimos para el pecado, sino para la justicia, y ya hemos sido sanados por la muerte de Cristo en la cruz. Esto es santificación pura. 
+
+###  1 Pedro 2:25 *...Pues ustedes andaban descarriados como ovejas,*Nosotros andábamos descarriados, fuera de lugar, como ovejas, pone el ejemplo de las ovejas, se perderán facilmente?
+
+###  1 Pedro 2:25 *pero ahora han vuelto al Pastor y Guardián de sus almas.* Sin embargo ahora hemos vuelto al pastor, y guardián de sus almas, que impresionante. saber esto, Ahora estamos con nuestro pastor y salvador , el que guarda nuestras almas.
+>>>>>>> Stashed changes
 =======
 #### Con el fin que nosotros muramos al pecado, y vivamos a la justicia, nos esta mostrando que Cristo ya murió, si y es un hecho completamente comprobado, ahora también es comprobado que vivamos a la justicia.
 
