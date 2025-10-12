@@ -1977,29 +1977,39 @@ Title: 1 & 2 Pedro
 
 # 1 Pedro 5:12-14 – Observaciones finales
 
-### 1 Pedro 5:12 "*Por conducto de Silvano,*" esto nos da a entender que Pedro probablemente haya dictado la carta  a Silvano y este la transcribió. 
+### 1 Pedro 5:12 "*Por conducto de Silvano,*" Esto nos da a entender que Pedro probablemente haya dictado la carta a Silvano y este la escribió. 
 
 #### Por conducto se podría traducir a traves o por medio de Silvano.
 
 #### El nombre de Silvano puede ser traducido como Silas. Silvano/Silas es mencionado en varios pasajes como compañero en el ministerio y enviado de Jerusalen. Hechos 15:22, 40
 
-### 1 Pedro 5:12 *nuestro fiel hermano, porque así lo considero,* Pedro consideraba que Silvano era confiable como creyente, hermano y tenía asi para ser el escriba de esta carta. 
+### 1 Pedro 5:12 *nuestro fiel hermano, porque así lo considero,* Pedro consideraba que Silvano era confiable como creyente y hermano, tanto asi como para ser el escriba de esta carta. 
 
-### 1 Pedro 5:12 *les he escrito brevemente,*
+### 1 Pedro 5:12 *les he escrito brevemente,* Aqui podemos confirmar lo anterior visto pedro escribe a los creyentes por medio de Silvano. El contenido de su carta, que el creyente pasara por sifriminetos y que atravesarlos es parte de ser creyente, sin embargo, podemos descansar en la persona de Cristo gozandonos de que Dios nos cuente como dignos de padecer por Cristo.
 
 ### 1 Pedro 5:12 *exhortando* PARAKALEO - apoyar o alentar fervientemente una respuesta o acción. [^1]
 
+#### El contenido de la carta tiene el proposito de alentar y consolar a los creyentes a trves de mostar la verdad en los sufrimiento.
+
 ### 1 Pedro 5:12 *y testificando* EPIMARTYREO - afirmar solemnemente algo, ofreciendo autenticación de primera mano del hecho; a menudo relacionado con asuntos serios o importantes.[^1]
 
-### 1 Pedro 5:12 *...que esta es la verdadera gracia de Dios.* la verdadera gracia de Cristo es ser participante de Cristo. No solamente de Sus triunfos sino también de Sus padecimientos. 
+#### Asi mismo pedro dara testimonio en su carta por medio de Espiritu Santo.
 
-### 1 Pedro 5:12 "*Estén firmes en ella*". Es de notar que no dice, estan firmes en ella como entros pasajes. 
+### 1 Pedro 5:12 *...que esta es la verdadera gracia de Dios.* La verdadera gracia de Cristo es ser participante en Cristo, no solamente de Sus triunfos sino también de Sus padecimientos. 
 
-### 1 Pedro 5:13 *La que está en Babilonia, elegida juntamente con ustedes, los saluda,*
+### 1 Pedro 5:12 "*Estén firmes en ella*". Es de notar que no dice, estan firmes en ella como en otros pasajes. 
+
+#### Esten firmes esta en el hecho de no moverse ni a izquierda ni a derecha de la verdadera Gracia de Dios.
+
+### 1 Pedro 5:13 *La que está en Babilonia, elegida juntamente con ustedes, los saluda,* Pedro enviara los saludos de la iglesia.
+
+#### En este versiculo entramos en un reto de la interpretacion, hay dos posturas en cuanto a "La que esta en Babilonia". Una lo toma de manera literal, Pedro se encontaba en Babilonia de Mesopotamia al momento de la escritura de la carta. La otra interpreta a Babilonia como una frase codigo pra referirse a Roma.
+
+#### Ambas interpretaciones tinen su apoyo biblico, personalmente me inclino por la segunda. Explicacion: Aunque no encontramos vesiculos biblicos explicitos en los que Pedro se encuentra en Roma, segun la historia y la tradicion no es posible ubicar a Pedro en mesopotamia (Babilonia), mas aun sus registros lo ubican en Roma del 60 al 66 d.C, años en los cuales se da escritura a sus dos cartas.
 
 ### 1 Pedro 5:13 *y también mi hijo Marcos.* Probablemente se refiere a su hijo espiritual, Juan Marcos sobrino de Bernabe e hijo de Maria. 
 
-#### Es interesante que Marcos se ecuentra con Pedro en estas cartas siendo que también es mencionado con Pablo durante su encarcelamiento en Roma duranto los mismos años. Colosenses 4:14
+#### Es interesante que Marcos se ecuentra con Pedro en estas cartas siendo que también es mencionado con Pablo durante su encarcelamiento en Roma durante los mismos años. Colosenses 4:14
 
 ### 1 Pedro 5:14 *Salúdense unos a otros con un beso de amor fraternal.* Pedro les anima en el amor mutuo entre hermanos. 
 
