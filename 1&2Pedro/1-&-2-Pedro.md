@@ -472,126 +472,126 @@ Title: 1 & 2 Pedro
 
 ## 1 Pedro 1:22-25 Fe en acción a través del amor
 
-###  1 Pedro 1:22a "*Puesto que en obediencia a la verdad ustedes han purificado sus almas*" la obediencia a la verdad llevó a que tengan sus almas purificadas. Al haber respondido por la fe, ya habian sido obedientes y el resultado era que 
+###  1 Pedro 1:22a "*Puesto que en obediencia a la verdad ustedes han purificado sus almas*" la obediencia a la verdad llevó a que <u>tengan</u> sus almas purificadas. Al haber respondido por la fe, ya habían sido obedientes y el resultado era que 
 
-#### "*Puesto que...han purificado*" HAGNIZO (perfecto, activo, participio) - hacer puro o libre del pecado o la culpa u otros rasgos indeseables. [^1]
+#### "*Puesto que...han purificado*" HAGNIZO (perfecto, activo, participio) - hacer puro o <u>libre</u> del pecado o la culpa u otros rasgos indeseables. [^1]
 
-###  1 Pedro 1:22b "*han purificado sus almas...para un amor sincero de hermanos...*" El hecho que ahora tienen almas purificadas, pueden amarse genuinamente, sin fingimiento. 2 Corintios 6:6
+###  1 Pedro 1:22b "*han purificado sus almas...para un amor sincero de hermanos...*" El hecho que ahora <u>tienen</u> almas purificadas, pueden amarse genuinamente, sin fingimiento. 2 Corintios 6:6
 
-####  "*Sincero*" ANIPOCRITOS - no fingido; sinceramente sentido o expresado.[^1] 
+####  "*Sincero*" ANIPOCRITOS - <u>no</u> fingido; sinceramente sentido o expresado.[^1] 
 
-###  1 Pedro 1:22c "*...ámense unos a otros entrañablemente...*" Se pueden amar unos a otros con fervor.
+###  1 Pedro 1:22c "*...ámense unos a otros entrañablemente...*" Se pueden <u>amar</u> unos a otros con fervor.
 
-#### "*Ámense*" (aoristo, activo, imperativo) El creyente es mandado a amar a otros. Aquí, los creyentes son llamados a amarse. 
+#### "*Ámense*" (aoristo, activo, imperativo) El creyente es mandado a amar a otros. Aquí, los creyentes son llamados a <u>amarse</u>. 
 #### "*Entrañablemente*" EKTENOS - con entusiasmo, de una manera seria, ferviente.[^1]
 
-###  1 Pedro 1:22d "*ámense...de corazón puro.*" No solo con amor sincero, y entrañablemente sino con pureza de corazón. 
+###  1 Pedro 1:22d "*ámense...de corazón puro.*" No <u>solo</u> con amor sincero, y entrañablemente sino con pureza de corazón. 
 
-###  1 Pedro 1:23a "*ámense...Pues han nacido de nuevo...*" (perfecto, pasivo, participio) - siendo que eran renacidos por Dios estaban creados nuevamente en Cristo para buenas obras. Efesios 2:10; 2 Corintios 5:17-18
+###  1 Pedro 1:23a "*ámense...Pues han nacido de nuevo...*" (perfecto, pasivo, participio) - siendo que eran renacidos por Dios estaban creados nuevamente en Cristo <u>para</u> buenas obras. Efesios 2:10; 2 Corintios 5:17-18
 
-###  1 Pedro 1:23b "*no de una simiente corruptible, sino de una que es incorruptible...*" Nuestro nacimiento es por una simiente divina, celestial (incorruptible) no humana (corruptible).
+###  1 Pedro 1:23b "*no de una simiente corruptible, <u>sino</u> de una que es incorruptible...*" Nuestro nacimiento es por una simiente divina, celestial (incorruptible) no humana (corruptible).
 
-#### Todo lo que es terrenal es temporal, pasajero. Nuestro nacimiento espiritual no proviene del hombre.
+#### <u>Todo</u> lo que es terrenal es temporal, pasajero. Nuestro nacimiento espiritual no proviene del hombre.
 
-###  1 Pedro 1:23c "*...es decir, mediante la palabra de Dios que vive y permanece...*" fue mediante la palabra viva y eterna de Dios que hemos purificado nuestras almas y hemos nacido de nuevo. Somos el resultado de la Palabra viva y perdurable de Dios. 
+###  1 Pedro 1:23c "*...es decir, mediante la palabra de Dios que vive y permanece...*" fue mediante la palabra viva y eterna de Dios que hemos purificado <u>nuestras</u> almas y hemos nacido de nuevo. Somos el resultado de la Palabra viva y perdurable de Dios. 
 
-###  1 Pedro 1:24a "*Porque: «TODA CARNE ES COMO LA HIERBA,*" Toda la humanidad es comparable a la hierba. Aparece un día y muy poco después muere. 
+###  1 Pedro 1:24a "*Porque: «TODA CARNE ES COMO LA HIERBA,*" Toda la humanidad es comparable a la hierba. Aparece un día y muy <u>poco</u> después muere. 
 
-#### Veamos un poco del contexto de Isaias 40. 
+#### Veamos un poco del contexto de Isaías 40. 
 
-##### Isaias 40:5-6 *Entonces será revelada la gloria del SEÑOR, Y toda carne a una la verá, Pues la boca del SEÑOR ha hablado». Una voz dijo: «Clama». Entonces él respondió: «¿Qué he de clamar?». Que toda carne es como la hierba, y todo su esplendor es como la flor del campo.*
+##### Isaías 40:5-6 *Entonces será revelada la gloria del SEÑOR, Y toda carne a una la verá, Pues la boca del SEÑOR ha hablado». Una <u>voz</u> dijo: «Clama». Entonces él respondió: «¿Qué he de clamar?». Que toda carne es como la hierba, y todo su esplendor es como la flor del campo.*
 
-##### Isaias 40:7-8 *Se seca la hierba, se marchita la flor Cuando el aliento del SEÑOR sopla sobre ella; En verdad el pueblo es hierba. Se seca la hierba, se marchita la flor, Pero la palabra de nuestro Dios permanece para siempre.*
+##### Isaías 40:7-8 *Se seca la hierba, se marchita la flor Cuando el aliento del SEÑOR sopla <u>sobre</u> ella; En verdad el pueblo es hierba. Se seca la hierba, se marchita la flor, Pero la palabra de nuestro Dios permanece para siempre.*
 
-##### Isaias 40:9-10 *Súbete a un alto monte, Oh Sión, portadora de buenas nuevas. Levanta con fuerza tu voz, Oh Jerusalén, portadora de buenas nuevas; Levántala, no temas. Dile a las ciudades de Judá: «Aquí está su Dios». Miren, el Señor DIOS vendrá con poder, Y Su brazo gobernará por Él. Con Él está Su galardón, Y Su recompensa delante de Él.*
+##### Isaías 40:9-10 *Súbete a un alto monte, Oh Sion, portadora de buenas nuevas. Levanta con fuerza tu voz, Oh Jerusalén, portadora de buenas nuevas; Levántala, no temas. Dile a las ciudades de Judá: «Aquí está su Dios». Miren, el Señor DIOS vendrá con poder, Y Su brazo gobernará <u>por</u> Él. Con Él está Su galardón, Y Su recompensa delante de Él.*
 
 #### La humanidad es corruptible, es falible y no permanece.
 
-##### 1 Juan 2:17 "*El mundo pasa, y también sus pasiones, pero el que hace la voluntad de Dios permanece para siempre*". 
+##### 1 Juan 2:17 "*El mundo <u>pasa</u>, y también sus pasiones, pero el que hace la voluntad de Dios permanece para siempre*". 
 
-#####  El hombre no es constante. Jeremías 1:5
+#####  El <u>hombre</u> no es constante. Jeremías 1:5
 
-##### El hombre no es fiel. Miqueas 7:5
+##### El hombre no es <u>fiel</u>. Miqueas 7:5
 
-##### El hombre no es confiable. Salmo 118:8
+##### El hombre <u>no</u> es confiable. Salmo 118:8
 
-##### El hombre no hace el bien. Jeremías 17:5
+##### El hombre no <u>hace</u> el bien. Jeremías 17:5
 
-###  1 Pedro 1:24b "*Y TODA SU GLORIA COMO LA FLOR DE LA HIERBA*" la flor es producto de la hierba. 
+###  1 Pedro 1:24b "*Y TODA SU GLORIA COMO LA FLOR DE LA HIERBA*" la flor es producto de la <u>hierba</u>. 
 
-####  No dice el versículo que el mundo no tiene gloria, dice que la gloria de toda carne es como la flor de la hierba. Salmo 90:5-6
+####  No dice el versículo que el mundo no tiene gloria, dice que la gloria de toda <u>carne</u> es como la flor de la hierba. Salmo 90:5-6
 
-###  1 Pedro 1:24c "*SÉCASE LA HIERBA, CÁESE LA FLOR,*" Las personas luchan para mantener la flor sin secarse porque al secarse la flor desvanece su gloria. La flor tiene una gloria poca duradera. Santiago 1:10-11
+###  1 Pedro 1:24c "*SÉCASE LA HIERBA, CÁESE LA FLOR,*" Las personas <u>luchan</u> para mantener la flor sin secarse porque al secarse la flor desvanece su gloria. La flor tiene una gloria poca duradera. Santiago 1:10-11
 
-###  1 Pedro 1:25a "*PERO LA PALABRA DEL SEÑOR PERMANECE PARA SIEMPRE».*" En contraste (Pero) con la corta vida de la carne y su gloria, La Palabra de Dios permanece para siempre. 
+###  1 Pedro 1:25a "*PERO LA PALABRA DEL SEÑOR PERMANECE PARA SIEMPRE».*" En contraste (Pero) con la <u>corta</u> vida de la carne y su gloria, La Palabra de Dios permanece para siempre. 
 
-#### La palabra de Dios no cambia. Salmo 119:89
+#### La palabra de Dios <u>no</u> cambia. Salmo 119:89
 
-#### La palabra de Dios nunca pasará. Isaías 40:8; Mateo 24:35
+#### La <u>palabra</u> de Dios nunca pasará. Isaías 40:8; Mateo 24:35
 
-#### La palabra de Dios es fiel. 1 Pedro 1:25; Proverbios 30:5
+#### La palabra de Dios <u>es</u> fiel. 1 Pedro 1:25; Proverbios 30:5
 
-#### La palabra de Dios es verdadera. 2 Timoteo 3:16
+#### La palabra de <u>Dios</u> es verdadera. 2 Timoteo 3:16
 
-#### La palabra de Dios es desde eternidad pasada a eternidad futura. Juan 1:1
+#### La palabra de Dios es desde eternidad <u>pasada</u> a eternidad futura. Juan 1:1
 
-#### La palabra de Dios no cambia según los tiempos. Salmo 119:89
+#### La palabra de Dios no <u>cambia</u> según los tiempos. Salmo 119:89
 
-#### La palabra de Dios no cambia según la inteligencia del hombre. Romanos 1:25
+#### La palabra de Dios no cambia <u>según</u> la inteligencia del hombre. Romanos 1:25
 
-#### La palabra de Dios no cambia según los descubrimientos arqueológicos, científicos, astronómicos etc. etc.. 2 Pedro 3:3
+#### La palabra <u>de</u> Dios no cambia según los descubrimientos arqueológicos, científicos, astronómicos etc. etc.. 2 Pedro 3:3
 
-###  1 Pedro 1:25b "*Esa es la palabra que a ustedes les fue predicada.*" Esa es la palabra que oyeron y creyeron. Esa es la palabra que les mantiene firmes en este momento. Lucas 4:16-21
+###  1 Pedro 1:25b "*Esa es la palabra que a ustedes les fue predicada.*" Esa es la palabra que <u>oyeron</u> y creyeron. Esa es la palabra que les mantiene firmes en este momento. Lucas 4:16-21
 
-#### "*Predicada*" EUANGELIZO - les habían predicado el evangelio. 
+#### "*Predicada*" EUANGELIZO - les habían predicado <u>el</u> evangelio. 
 
-## En Síntesis (1 Timoteo 1:10-25)
+## En Síntesis (1 Pedro 1:10-25)
 
-### Los profetas del Antiguo Testamento y nuestra salvación (1:10-12)
+### Los profetas del Antiguo Testamento y nuestra salvación (1 Pedro 1:10-12)
 
-#### Lo que no entendieron: No pudieron comprender plenamente todas sus profecías concernientes a la obra futura del Mesías. 
+#### Lo que no entendieron: No pudieron comprender plenamente <u>todas</u> sus profecías concernientes a la obra futura del Mesías. 
 
-##### En cuanto a su dolor (1:10-11)
+##### En cuanto a su <u>dolor</u> (1 Pedro 1:10-11)
 
-##### En cuanto a su gloria (1:11)
+##### En <u>cuanto</u> a su gloria (1 Pedro 1:11)
 
-#### Lo que sí entendieron: Sabían que sus profecías no se cumplirían hasta después de su muerte. (1:12a)
+#### Lo que sí entendieron: Sabían que sus profecías no se cumplirían <u>hasta</u> después de su muerte. (1 Pedro 1:12a)
 
-### Los ángeles y nuestra salvación (1:12b): Anhelaban saber más sobre este maravilloso tema.
+### Los ángeles y nuestra salvación (1 Pedro 1:12b): Anhelaban saber más sobre este maravilloso <u>tema</u>.
 
-### LA RESPUESTA A NUESTRA SALVACIÓN (1:13-17)
+### LA RESPUESTA A NUESTRA SALVACIÓN (1 Pedro 1:13-17)
 
 #### En cuanto a nosotros mismos: 
 
-##### Debemos tener el entendimiento preparado (1:13a) 
+##### Debemos tener el entendimiento <u>preparado</u> (1 Pedro 1:13a) 
 
-##### Debemos ser autocontrolados. (1:13b)
+##### Debemos <u>ser</u> autocontrolados. (1 Pedro 1:13b)
 
-##### Debemos tener nuestra esperanza únicamente en la manifestación nuestro Salvador Jesucristo (1:13c)
+##### Debemos tener <u>nuestra</u> esperanza únicamente en la manifestación nuestro Salvador Jesucristo (1 Pedro 1:13c)
 
-#### En cuanto a nuestro Salvador (1:14-17)
+#### En cuanto a nuestro Salvador (1 Pedro 1:14-17)
 
-##### Debemos ser santos ante Dios (1:14-16).
+##### Debemos ser santos <u>ante</u> Dios (1 Pedro 1:14-16).
 
-##### Debemos ser reverentes hacia Dios (1:17).
+##### Debemos ser <u>reverentes</u> hacia Dios (1 Pedro 1:17).
 
-### EL COSTO DE NUESTRA SALVACIÓN (1:18-21)
+### EL COSTO DE NUESTRA SALVACIÓN (1 Pedro 1:18-21)
 
-#### El Precio (1:18-19)
+#### El Precio (1 Pedro 1:18-19)
 
-##### Negativo: No se compró con plata ni oro. (1:18)
+##### Negativo: No se compró con plata ni <u>oro</u>. (1 Pedro 1:18)
 
-##### Positivo: Se compró con la preciosa sangre de Jesús.  (1:19)
+##### Positivo: Se compró con la preciosa <u>sangre</u> de Jesús.  (1 Pedro 1:19)
 
-##### La planificación: Cristo fue elegido antes de la fundación del mundo para hacerlo. (1:20-21)
+##### La planificación: Cristo <u>fue</u> elegido antes de la fundación del mundo para hacerlo. (1 Pedro 1:20-21)
 
-  ### EL VEHÍCULO DE NUESTRA SALVACIÓN (1:22-25)
+  ### EL VEHÍCULO DE NUESTRA SALVACIÓN (1 Pedro 1:22-25)
 
-#### El nuevo nacimiento: Es necesario experimentar la regeneración (nacer de nuevo) para ser salvo.  (1:22-23a)
+#### El nuevo nacimiento: <u>Es</u> necesario experimentar la regeneración (nacer de nuevo) para ser salvo.  (1 Pedro 1:22-23a)
 
-#### Propósito: Almas purificadas (nacidos de nuevo) para relación de amor entre salvados. (1:22)
+#### Propósito: Almas purificadas (nacidos de <u>nuevo</u>) para relación de amor entre salvados. (1 Pedro 1:22)
 
-#### La manera: Es la Palabra de Dios la que lo realiza. (1:23b-25)
+#### La manera: Es la <u>Palabra</u> de Dios la que lo realiza. (1 Pedro 1:23b-25)
 
 # 1 Pedro 2:1-10 – CRECIENDO HACIA LA MADUREZ
 
