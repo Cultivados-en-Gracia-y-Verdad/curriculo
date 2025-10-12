@@ -1685,7 +1685,17 @@ Title: 1 & 2 Pedro
 
 #### Es por esto que al dar cuentas ellos, serán inexcusables, porque Dios hizo posible para que todos los hombres puedan llegar a la salvación, ya que ellos mismos evidenciaron la obra de Dios en otras personas que anduvieron en la voluntad de Dios y en vez de ellos acercarse por la Fe al salvador, los insultaron y calumniaron. 
 
-### 1 Pedro 4:5b "*...que está preparado para juzgar a los vivos y a los muertos.*"
+### 1 Pedro 4:5b "*...que está preparado para juzgar a los vivos y a los muertos.*" Dios le a otorgado a Jesucristo la autoridad de realizar juicio a todos los hombres, y esta preparado para juzgar, tanto a los creyentes, como a los incrédulos. Juan 5:24-29
+
+#### los vivos, son todos los que han tenido un nuevo nacimiento y que viven para Dios. 1 Pedro 1:23; Romanos 6:11
+
+##### Los creyentes tendrán un juicio en el tribunal de Cristo, donde se otorgaran premios o se quitaran premios, según hayan caminado por la fe, pero en ningún momento será la perdida de su salvación. 
+
+#### Y los muertos son todos aquellos que no han creído en el evangelio, porque están separados de Dios. Romanos 3:23; Juan 3:18
+
+##### Hebreos 9:27 "*Y así como está decretado que los hombres mueran una sola vez, y después de esto, el juicio,*" ningún creyente pasara por este juicio.
+
+##### El gran trono blanco será el juicio final, en que todos los que murieron sin Cristo resucitaran y su juicio será para condenación eterna, separados eternamente de Dios.
 
 ###  1 Pedro 4:6 *Porque con este fin fue predicado el evangelio aun a los muertos,*
 
