@@ -1012,16 +1012,6 @@ Title: 1 & 2 Pedro
 
   ### LA RELACIÓN (2:4-12)
 
-#### Qué son los cristianos (2:5, 9a, 10-11a)
-
-##### Somos piedras vivas (2:5a).
-
-##### Somos sacerdotes reales (2:5b).
-
-##### Somos un pueblo escogido (2:9a, 10).
-
-##### Somos extranjeros en la tierra (2:11a).
-
 #### Qué es Cristo (2:4, 6-8, 9b, 12)
 
 ##### Él es el fundamento vivo (2:4a).
@@ -1037,6 +1027,16 @@ Title: 1 & 2 Pedro
 ##### Él es el juez (2:12).
 
 ##### Él es la luz (2:9b).
+
+#### Qué son los cristianos por medio de Cristo (2:5, 9a, 10-11a)
+
+##### Somos piedras vivas (2:5a).
+
+##### Somos sacerdotes reales (2:5b).
+
+##### Somos un pueblo escogido (2:9a, 10).
+
+##### Somos extranjeros en la tierra (2:11a).
 
    ### EL RESPETO (2:13-20): 
 
@@ -1082,7 +1082,7 @@ Title: 1 & 2 Pedro
 
 ### Ahora los creyentes tenían un Pastor y Cuidador, alguien que velaría por ellos, la seguridad que Él les daba iba mas allá del daño físico que podrían recibir. La seguridad que Cristo les daba era espiritual y eterna.
 
-### Estos creyentes, Sus ovejas, talvez estaban extraviadas de su tierra, de su nación. Pero ahora habían sido regresadas al Pastor, ahora estaban seguras en Su rebaño, el de Cristo.
+### Estos creyentes, Sus ovejas, talvez estaban extraviadas de su tierra, de su nación. Pero habían sido regresadas al Pastor, estaban seguras en Su rebaño, el de Cristo.
 
 ### Comprender estas verdades de nuestro Señor Jesucristo y Su obra tendría un resultado en la vida personal de los cristianos y en sus relaciones con los demás. 
 
