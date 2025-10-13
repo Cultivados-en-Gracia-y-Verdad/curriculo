@@ -143,7 +143,7 @@ Title: 1 & 2 Pedro
 
 #### La palabra "*por*" EN - significa en, con o por. Esta palabra es usualmente traducida "en". La elección no es causado <u>por</u> El Espíritu en un sentido regenerador. Es mejor entender que la elección es por medio de la obra santificadora, es decir, en separarnos para un uso no "habilitarnos" para creer. Tito 3:5
 
-###  1 Pedro 1:2d "*...para obedecer a Jesucristo...*" El __<u>tercer</u>__ punto de la elección es que es para obedecer a Jesucristo y ser rociados con Su sangre. 1 Pedro 1:14, 22
+###  1 Pedro 1:2d "*...para obedecer a Jesucristo...*" El __<u>tercer</u>__ punto de la elección es que es para obedecer a Jesucristo y ser rociados con Su sangre. 1 Pedro 1:14, 22; Efesios 2:10
 
 ### 1 Pedro 1:2e "*...y ser rociados con Su sangre:*" El ser rociado con sangre era una practica __<u>bajo</u>__ la ley que representaba ser santificado para un propósito de Dios. Hebreos 9:13-14
 
@@ -273,11 +273,19 @@ Title: 1 & 2 Pedro
 
 ##### Porque creímos en Él, (y Dios conociéndolo de antemano) nos hizo __<u>nacer</u>__ de nuevo según su misericordia para recibir una herencia reservada por Él en los cielos. Claramente, el foco es puesto en la omnisciencia, el poder, la misericordia y fidelidad de Dios, pero lo sabemos porque Dios hace todas estas cosas a los que son creen. Gálatas 3:9; Romanos 4:16
 
-###  1 Pedro 1:5b "*para la salvación que está preparada para ser revelada en el último tiempo.*" La salvación preparada para ser revelada en el último tiempo es la glorificación futura de cada creyente de la __<u>edad</u>__ de la Iglesia. 1 Corintios 15:51-53
+###  1 Pedro 1:5b "*para la salvación que está preparada*" La salvación preparada para ser revelada en el último tiempo es la glorificación futura de cada creyente de la __<u>edad</u>__ de la Iglesia. 1 Corintios 15:51-53
 
-#### Cada creyente es protegido por el __<u>poder</u>__ de Dios mediante la fe para la glorificación. La salvación (de los que responden mediante la fe) estaba preparada en la soberanía de Dios desde antes de la fundación del mundo y será revelada en el último tiempo. 
+#### Cada creyente es protegido por el __<u>poder</u>__ de Dios mediante la fe para la glorificación ("*para la salvación que está preparada*").  
 
-##### "*Revelada*" APOCALIPTO (aoristo, pasivo, infinitivo) - ser o llegar a ser conocido por el público; especialmente información que anteriormente sólo era conocida por unas __<u>pocas</u>__ personas o que debía mantenerse en secreto.[^1]
+1 Pedro 1:5c "*para ser revelada en el último tiempo.*" Aquí vemos que la salvación (glorificación) es para ser revelada en el último tiempo. ¿A que se refiere con "*revelada*"?
+
+##### la palabra "*Revelada*" APOCALIPTO (aoristo, pasivo, infinitivo) - ser o llegar a ser conocido por el público; especialmente información que anteriormente sólo era conocida por unas __<u>pocas</u>__ personas o que debía mantenerse en secreto.[^1]
+
+#### Nuestra glorificación será conocida por el público en el "*último tiempo*". ¿Cuando es eso? 
+
+#### 1 Pedro 1:7 aclara cuando..."*en la revelación de Jesucristo*". La revelación de Jesucristo es en su segunda venida. 2 Tesalonicenses 1:7
+
+#### La salvación (de los que responden mediante la fe) estaba preparada en la soberanía de Dios desde antes de la fundación del mundo y será revelada en el último tiempo.
 
 #### En última instancia, la fe hace que la soberanía de Dios en proveer salvación por el medio de la fe en Jesucristo sea confirmada y la promesa __<u>segura</u>__ al individuo. El poder de Dios guarda a los creyentes "*mediante la fe*" para la salvación que está preparada para ser revelada en el tiempo postrero, asegurando así que su herencia "*incorruptible e inmaculada, y cuyo destino no está lejos, reservada en los cielos*". ¡¡Maravillosa gracia!!
 
@@ -468,6 +476,8 @@ Title: 1 & 2 Pedro
 ##### Es un mandato para el creyente permitir que __<u>Dios</u>__ nos santifique. 
 
 ###  1 Pedro 1:17a "*Y si invocan como Padre a Aquel que imparcialmente __<u>juzga</u>__ según la obra de cada uno...*" Dios no hace acepción de personas. 
+
+#### "*Y si...*" es una condición de primera clase. Significa que ellos si invocaban como Padre a Dios. 
 
 #### "*invocan*" EPICALEOMAI - invocar una deidad para pedir ayuda o protección; especialmente como reconocimiento de sumisión y deferencia a una __<u>deidad</u>__ específica.[^1] Hechos 2:21, 7:59, 9:21; Romanos 10:12, 14; 1 Corintios 1:2; 2 Timoteo 2:22
 
@@ -692,7 +702,7 @@ Title: 1 & 2 Pedro
 
 #### La salvación referida aquí es la santificación en la vida del creyente. Vemos en 1 Timoteo 2:4 que la voluntad de Dios es que __<u>todos</u>__ los salvos vengan al pleno conocimiento de la verdad. Juan 17:17; Romanos 10:2; Colosenses 1:9-10; Efesios 1:16-18, 3:18-19
 
-###  1 Pedro 2:3  *"...si es que han probado la bondad del Señor..."* La palabra "*si*" es un condicional de __<u>primer</u>__ grado, dándonos a entender que si ya habían probado la bondad del Señor "*...ya que gustasteis que el Señor es bueno...*" (BTX4) 
+###  1 Pedro 2:3  *"...si es que han probado la bondad del Señor..."* La palabra "*si*" es un condicional de __<u>primera</u>__ clase, dándonos a entender que si ya habían probado la bondad del Señor "*...ya que gustasteis que el Señor es bueno...*" (BTX4) 
 
 #### La bondad de Dios o la benignidad de Dios es un atributo que los creyentes ya conocían cuando __<u>fueron</u>__ rescatados de su antigua manera de vivir. Romanos 2:4; Efesios 2:7, 4:32; Tito 3:3-7
 
