@@ -1,25 +1,24 @@
----
-Title: 1 & 2 Pedro
----
-
-# 1 y 2 Pedro
+El material de CGV es desarrollado para el uso libre de la iglesia. Nuestro animo es que sea de bendición para la iglesia. Este material esta diseñado para promover el discipulado dentro de la Iglesia local. Creemos que el mejor lugar para cumplir la Gran Comisión (discipular y enseñar) es dentro de la Iglesia.
+www.discipuladocgv.org
+___-___
+# 1 Pedro
 ## Gracia en el sufrimiento
 
 # 1 Pedro
 
 # INTRODUCCIÓN
 
-### El apóstol Pedro, uno de doce discípulos originales, escogidos y formados por Jesús durante su estancia en la tierra, comienza una __<u>carta</u>__ a los cristianos dispersos por la persecución. Escribe para animarlos, comenzando por destacar quiénes son exactamente y cómo Dios los ha bendecido en Cristo. 1 Pedro 1:13
+### El apóstol Pedro, uno de doce discípulos originales, escogidos y formados por Jesús durante su estancia en la tierra, comienza una __<u>carta</u>__ a los cristianos dispersos por la persecución. Escribe para animarlos, comenzando por destacar quiénes son exactamente y cómo Dios los ha bendecido en Cristo.
 
-### Incluso en sufrimiento que es muy real (físico, emocional, mental, espiritual) y causa tristeza, los cristianos se benefician. Nuestra fe se fortalece, y nuestra fe vale más que el oro. Nuestra fe traerá gran __<u>gloria</u>__ cuando Jesús sea revelado. De hecho, Pedro dice que los cristianos tienen motivos de sobra para regocijarse. El misterio del plan de Dios, ocultado durante siglos tanto a profetas como a ángeles, nos ha sido revelado en Cristo.
+### Incluso en sufrimiento que es muy real y causa tristeza, los cristianos se benefician. Nuestra fe se fortalece, y nuestra fe vale más que el oro. Nuestra fe traerá gran __<u>gloria</u>__ cuando Jesús sea revelado. De hecho, Pedro dice que los cristianos tienen motivos de sobra para regocijarse. El misterio del plan de Dios, ocultado durante siglos tanto a profetas como a ángeles, nos ha sido revelado en Cristo.
 
-### Sin embargo, todavía no hemos llegado a casa. Pedro aborda la cuestión de cómo __<u>deben</u>__ vivir los hijos de Dios, seguros entre este momento y el día en que nos unamos a nuestro Padre, especialmente en tiempos de sufrimiento y persecución. 
+### Sin embargo, todavía no hemos llegado a casa. Pedro aborda la cuestión de cómo __<u>deben</u>__ vivir los hijos de Dios, seguros entre este momento y el día en que nos unamos a nuestro Padre, especialmente en tiempos de sufrimiento y persecución.
 
 ### Deben verse como personas santas (apartadas) con un propósito especial. Viven en el mundo, pero __<u>deben</u>__ vivir como extranjeros, como personas que se preparan para regresar a casa. Pedro les invita a concentrarse mentalmente en depositar toda su esperanza en la gracia futura de Dios para ellos. Deben elegir actuar como pueblo de Dios, rechazando los malos deseos que una vez impulsaron sus acciones antes de ser nacidos de nuevo.
 
 ### 1 Pedro insta a los seguidores de Jesús a participar en su sociedad y a ser __<u>mejores</u>__ ciudadanos que antes de su conversión, para que su buena conducta sea reconocida y la verdad de su fe demostrada. [^5]
 
-### El autor no afirma que esto sea fácil, pero es necesario. Dios ha llamado a estos seguidores dispersos de Cristo a proclamar las __<u>obras</u>__ poderosas de Dios, y el principal ámbito de esta proclamación es su vida cotidiana. 1 Pedro 1:20-21
+### El autor no afirma que esto sea fácil, pero es necesario. Dios ha llamado a estos seguidores dispersos de Cristo a proclamar las __<u>obras</u>__ poderosas de Dios, y el principal ámbito de esta proclamación es su vida cotidiana.
 
 ### Esta carta es de mucho ánimo para el creyente de hoy. Te invitamos a ser enseñable por Dios mediante __<u>estas</u>__ Palabras inspiradas por Dios al Apóstol Pedro. 
 
@@ -27,7 +26,7 @@ Title: 1 & 2 Pedro
 
 ### Es en los años 60-68d.C., bajo el emperador romano Nerón, la persecución de la iglesia empieza a ponerse peor. Muchos creyentes fueron esparcidos de la provincia de __<u>Judea</u>__ a las provincias de Ponto, Galacia, Capadocia, Asia y Bitinia. Es aquí donde el cristianismo empezó a crecer. 
 
-### Las cartas de Gálatas, Efesios y Colosenses son escritos a __<u>iglesias</u>__ en estas provincias. De igual manera, la carta de Apocalipsis es escrito a 7 iglesias que se encuentran en (Asia) una de estas provincias. 
+### Las cartas de Gálatas, Efesios y Colosenses son escritos a __<u>iglesias</u>__ en estas provincias. De igual manera, la carta de Apocalipsis es escrito a 7 iglesias que se encuentran en una de estas provincias. 
 
 ## Bosquejo
 
@@ -37,7 +36,7 @@ Title: 1 & 2 Pedro
 | II   | 1 Pedro 1:3-25 EL TRIUNFO DE LA FE           |        |
 | III  | 1 Pedro 2:1-2:10 CRECIENDO HACIA LA MADUREZ  |        |
 | III  | 1 Pedro 2:11-3:12 PIADOSOS EN LA PERSECUCIÓN |        |
-| IV   | 1 Pedro 3:13-5:14 GRACIA EN EL SUFRIMIENTO   |        |
+| IV   | 1 Pedro 3:13-5:14 GRACIA POR EL SUFRIMIENTO  |        |
 
 # 1 Pedro 1:1-2:10 – EL TRIUNFO DE LA FE
 
@@ -53,10 +52,6 @@ Title: 1 & 2 Pedro
 
 ##### Pedro era uno de __<u>tres</u>__ discípulos que estuvieron presentes en tres eventos importantes: la resucitación de la hija de Jairo (Marcos 5:37), la transfiguración de Jesús (Mateo 17:1) y la agonía de Jesús en el jardín de Getsemaní (Mateo 26:37). 
 
-### Pedro es testigo ocular de los sufrimientos de Cristo. 
-
-#### 1 Pedro 5:1 *Por tanto, a los ancianos entre ustedes, exhorto yo, anciano como ellos y **testigo de los padecimientos de Cristo, y también participante de la gloria que ha de ser revelada**:*
-
 #### Pedro era enviado a los judíos. Gálatas 2:7-8
 
 #### ¿De donde escribió su primera carta Pedro? 
@@ -68,8 +63,6 @@ Title: 1 & 2 Pedro
 ###  1 Pedro 1:1b "*apóstol de Jesucristo:*" Pedro es un __<u>apóstol</u>__ de Jesucristo. Sus credenciales provienen de Jesucristo. 2 Pedro 1:1; Mateo 4:18 
 
 #### Apóstol podría referirse a cualquier __<u>enviado</u>__ pero Pedro es apóstol de Jesucristo, haciéndolo uno de los 12 Apóstoles del Cordero. Mateo 10:2; Marcos 3:16; Apocalipsis 21:14
-
-### Entonces, esto y todo lo mencionado hace que el Apóstol Pedro sea el agente que el Espíritu Santo use para transmitir este mensaje. 
 
 ## 1 Pedro 1:2 Identificados por fe
 
@@ -2165,10 +2158,7 @@ Title: 1 & 2 Pedro
 |                                    | fuente de alegría (4:13)               |
 |                                    | fuente de paz (5:14)                   |
 
-
-
 ___-___
-
 [^1]:Bible Sense Lexicon 
 [^2]: Quora:  https://www.quora.com/When-was-Peter-first-called-a-pope
 [^3]: John D. Barry et al., The Faithful Study Bible (Bellingham, WA: Lexham Press, 2012, 2016), Matthew 16:19
