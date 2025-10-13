@@ -43,39 +43,41 @@ Title: 1 & 2 Pedro
 
 ## 1 Pedro 1:1-2 – Saludos y autoria
 
-###  1 Pedro 1:1a "*Pedro,*" Pedro es el autor del libro (1 Pedro 5:1) __<u>pero</u>__ lo transcribió por medio de Silvano (1 Pedro 5:12). 
+###  1 Pedro 1:1a "*Pedro,*" Pedro es el autor del libro __<u>pero</u>__ lo transcribió por medio de Silvano (1 Pedro 5:12). 
 
 ####  ¿Quién es Pedro? Pedro, originalmente Simón, era pescador, __<u>nacido</u>__ en Betsaida. Juan 1:42-44; Mateo 4:19
 
-##### Sabemos que Pedro era casado y tenía casa en Capernaúm. Su suegra vivía con __<u>ellos</u>__ y su padre se llamaba Jonás. Lucas 4:31, 38-40
+##### Sabemos que Pedro era casado y tenía casa en Capernaúm. Su suegra vivía con __<u>ellos</u>__ y su padre se llamaba Jonás (Juan). Lucas 4:38; Mateo 16:17
 
 ##### Pedro había __<u>sido</u>__ presentado a Jesús por su hermano Andrés. Juan 1:40-42
 
 ##### Pedro era uno de __<u>tres</u>__ discípulos que estuvieron presentes en tres eventos importantes: la resucitación de la hija de Jairo (Marcos 5:37), la transfiguración de Jesús (Mateo 17:1) y la agonía de Jesús en el jardín de Getsemaní (Mateo 26:37). 
 
-### Pedro es testigo ocular de los sufrimientos de Cristo. 
+### Pedro era testigo ocular de los sufrimientos de Cristo. 
 
 #### 1 Pedro 5:1 *Por tanto, a los ancianos entre ustedes, exhorto yo, anciano como ellos y **testigo de los padecimientos de Cristo, y también participante de la gloria que ha de ser revelada**:*
 
 #### Pedro era enviado a los judíos. Gálatas 2:7-8
 
+#### Sin embargo, su carta parece estar enviado a creyentes y no solo a judios. 1 Pedro 1:21
+
 #### ¿De donde escribió su primera carta Pedro? 
 
 ##### Pedro estaba con Marcos en Babilonia (1 Pedro 5:13). 
 
-#### La tradición de la Iglesia dice que Pedro __<u>murió</u>__ crucificado (con los brazos extendidos). Esto probablemente tuvo lugar tres meses después del desastroso incendio que destruyó Roma por el cual el emperador Nerón quiso culpar a los cristianos.[^8]
-
-###  1 Pedro 1:1b "*apóstol de Jesucristo:*" Pedro es un __<u>apóstol</u>__ de Jesucristo. Sus credenciales provienen de Jesucristo. 2 Pedro 1:1; Mateo 4:18 
+###  1 Pedro 1:1b "*apóstol de Jesucristo:*" Pedro es un __<u>apóstol</u>__ de Jesucristo. Sus credenciales provienen de Jesucristo. 2 Pedro 1:1
 
 #### Apóstol podría referirse a cualquier __<u>enviado</u>__ pero Pedro es apóstol de Jesucristo, haciéndolo uno de los 12 Apóstoles del Cordero. Mateo 10:2; Marcos 3:16; Apocalipsis 21:14
 
 ### Entonces, esto y todo lo mencionado hace que el Apóstol Pedro sea el agente que el Espíritu Santo use para transmitir este mensaje. 
 
-## 1 Pedro 1:2 Identificados por fe
+#### Según la tradición, Pedro __<u>murió</u>__ crucificado (con los brazos extendidos). Esto probablemente tuvo lugar tres meses después del desastroso incendio que destruyó Roma por el cual el emperador Nerón quiso culpar a los cristianos.[^8]
+
+## 1 Pedro 1:1c-2 Identificados por fe
 
 ###  1 Pedro 1:1c "*A los expatriados, de la dispersión...*" la carta es __<u>escrita</u>__ a los extranjeros temporales PAREPIDEMOS de creyentes esparcidos.1 Pedro 5:14; Santiago 1:1
 
-#### Pedro se refiere a los receptores (expatriados) más adelante en su carta __<u>como</u>__ extranjeros y peregrinos. 1 Pedro 2:11, 1:17; 2 Pedro 1:10
+#### Pedro se refiere a los receptores (expatriados) más adelante en su carta __<u>como</u>__ extranjeros y peregrinos. 1 Pedro 1:17, 2:11; 2 Pedro 1:10
 
 ###  1 Pedro 1:1d "*...en el Ponto, Galacia, Capadocia, Asia y Bitinia...*" Pedro escribió a personas esparcidas de sus lugares de origen que __<u>fueron</u>__ a peregrinar en diferentes provincias del imperio Romano. Hoy en día lo conocemos como el norte de Turquía. 1 Pedro 2:11
 
@@ -83,7 +85,7 @@ Title: 1 & 2 Pedro
 
 #### "*Elegidos*" EKLEKTOS puede referirse a:
 
-##### Israel (Deuteronomio 7:6), reyes (1 Samuel 10:24), ángeles (1 Timoteo 5:21), la iglesia (Tito 1:1), individuos (Romanos 16:13), creyentes (Mateo 24:31) y El Mesías (Lucas 23:35).
+##### Israel (Deuteronomio 7:6), reyes (1 Samuel 10:24), ángeles (1 Timoteo 5:21), la iglesia (Tito 1:1), creyentes (Mateo 24:31) y El Mesías (Lucas 23:35).
 
 #### La doctrina de la elección ha sido corrompida y ofuscada por falsas enseñanzas. La enseñanza de que Dios eligió a algunos pecadores para la salvación, y que Cristo solo murió por ellos, y solo ellos pueden ser salvos no es conforme a la Biblia. Según los que enseñan la "elección soberana", la elección de Dios no __<u>tiene</u>__ nada que ver con Su conocimiento previo de quiénes creerían en Él.
 
