@@ -87,11 +87,37 @@ Title: 1 & 2 Pedro
 
 ##### Israel (Deuteronomio 7:6), reyes (1 Samuel 10:24), ángeles (1 Timoteo 5:21), la iglesia (Tito 1:1), creyentes (Mateo 24:31) y El Mesías (Lucas 23:35).
 
-#### La doctrina de la elección ha sido corrompida y ofuscada por falsas enseñanzas. La enseñanza de que Dios eligió a algunos pecadores para la salvación, y que Cristo solo murió por ellos, y solo ellos pueden ser salvos no es conforme a la Biblia. Según los que enseñan la "elección soberana", la elección de Dios no __<u>tiene</u>__ nada que ver con Su conocimiento previo de quiénes creerían en Él.
+#### En este caso, Pedro se dirige a elegidos (un grupo de creyentes).  
+
+#### La doctrina de la elección ha sido corrompida y ofuscada por falsas enseñanzas. La enseñanza de que Dios eligió a algunos pecadores para la salvación, y que Cristo solo murió por ellos, y solo ellos pueden ser salvos no es conforme a la Biblia. Según los que enseñan la "elección soberana", la elección de Dios no __<u>tiene</u>__ nada que ver con Su conocimiento previo de quiénes creerían en Él. 1 Pedro 1:2
+
+##### Decir que Cristo murio por sus elegídos solamente es contradecir muchos pasajes de la Biblia. 
+
+###### Cristo murio por los <u>impíos</u>. Romanos 5:6
+
+###### Cristo murio por todo el <u>mundo</u> (KOSMOS). Juan 3:16
+
+###### Cristo murio por las <u>ovejas</u>. Juan 10:11
+
+###### Cristo murio por la <u>nación</u>. Juan 11:51
+
+###### Cristo murió por <u>pecadores</u>. Romanos 5:8
+
+###### Cristo murió por <u>mi</u>. Gálatas 2:20
+
+###### Cristo murió por la <u>iglesia</u>. Efesios 5:25
+
+###### Cristo murió por falsos <u>maestros</u>. 2 Pedro 2:1
+
+###### Cristo murió por todos los <u>hombres</u>. Romanos 5:18
+
+###### Cristo murió por todos <u>nosotros</u>. Isaias 53:6
+
+###### Cristo murió por todo el <u>mundo</u>. 1 Juan 2:2
 
 #### Los elegidos son aquellos que responden por la fe al __<u>llamado</u>__ de Dios. Dios está llamando a todo el mundo pero solo los que responden creyendo el Él son identificados como los elegidos. 
 
-#### Este grupo de personas no es un grupo cerrado. Según la Biblia, __<u>todos</u>__ son invitados pero pocos son los que responden. Mateo 20:16; Juan 12:32; Mateo 11:28-30; Tito 2:4
+#### Este grupo de personas no es un grupo cerrado. Según la Biblia, __<u>todos</u>__ son invitados pero pocos son los que responden. Mateo 20:16; Juan 12:32; Mateo 11:28; Tito 3:4
 
 ### 1 Pedro 1:2a "*elegidos según...*" La palabra según KATA no debe ignorarse en este pasaje, __<u>porque</u>__ define que algo esta en base a o en conformidad de algo.  En este caso, según el contexto inmediato "*elegidos*" según, en base a, o en conformidad a...
 
@@ -101,24 +127,29 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 1:2b "*elegidos según...el previo conocimiento de Dios Padre...*" El primer punto es que los elegidos son en base a, según, la presciencia de Dios. El ser elegidos es según el conocimiento __<u>previo</u>__ que tuvo Dios. 
 
-#### Pedro no esta diciendo que Dios eligió según Su __<u>plan</u>__ predeterminado como lo hizo entregando a Jesucristo en Hechos 2. Hechos 2:23; 1 Pedro 1:20; Lucas 22:22
+#### "*previo conocimiento*" PROGNOSIS (sustantivo) es una palabra compuesta de PRO antes y GNOSIS conocimiento. El previo conocimiento de Dios no es un verbo, una acción. La presciencia de Dios no habla de un accionar de Dios, sino de un conocimiento que tenía. 
+
+##### El previo conocimiento no habla de lo que DIos hizo, sino especificamente lo que Dios supo antes de todo. 
+
+#### Pedro no esta diciendo que Dios eligió según Su __<u>plan</u>__ predeterminado como lo hizo entregando a Jesucristo. Hechos 2:23; 1 Pedro 1:20; Lucas 22:22
 
 #### Los __<u>elegidos</u>__ no son según el plan predeterminado de Dios, sino según Su previo conocimiento.  Romanos 8:29
 
-##### Gálatas 4:9 *Pero ahora, conociendo a DIOS, y más bien, **habiendo sido conocidos por DIOS**, ¿cómo os volvéis de nuevo a los débiles y pobres rudimentos °, a los __<u>cuales</u>__ otra vez queréis servir de nuevo como esclavos?* (BTX)
+##### Gálatas 4:9 *Pero ahora, conociendo a DIOS, y más bien, **habiendo sido conocidos por DIOS**...* (BTX)
 
-####  ¿La elección es según qué conocimiento previo? La presciencia de Dios incluye conocer todo sobre todos los tiempos. Específicamente, Dios sabía antes de nada sobre los que a través de los tiempos creerían en __<u>Él</u>__. Salmo 139:4, 50:11; Romanos 8:28-29
+####  ¿La elección es según qué conocimiento previo? La presciencia de Dios incluye conocer todo sobre todos los tiempos. Específicamente, Dios sabía antes de nada sobre los que a través de los tiempos creerían en __<u>Él</u>__. Efesios 1:4; Salmo 139:4, 50:11; Romanos 8:28-29
 
 ###  1 Pedro 1:2c "*por la obra  santificadora* [en santificación RVR60] *del Espíritu...*" Son elegidos __<u>por</u>__ la obra santificadora del Espíritu. 2 Tesalonicenses 2:13
-#### La palabra "*por*" EN - significa en, con o por. Esta palabra es usualmente traducida "en". La traducción de la palabra EN (a por) __<u>hace</u>__ parecer que la elección es causado por El Espíritu en un sentido regenerador, sin embargo mejor es entender que la elección es por medio de la obra santificadora, es decir, en separar para un uso. Tito 3:5
+
+#### La palabra "*por*" EN - significa en, con o por. Esta palabra es usualmente traducida "en". La elección no es causado <u>por</u> El Espíritu en un sentido regenerador. Es mejor entender que la elección es por medio de la obra santificadora, es decir, en separarnos para un uso no "habilitarnos" para creer. Tito 3:5
 
 ###  1 Pedro 1:2d "*...para obedecer a Jesucristo...*" El __<u>tercer</u>__ punto de la elección es que es para obedecer a Jesucristo y ser rociados con Su sangre. 1 Pedro 1:14, 22
 
 ### 1 Pedro 1:2e "*...y ser rociados con Su sangre:*" El ser rociado con sangre era una practica __<u>bajo</u>__ la ley que representaba ser santificado para un propósito de Dios. Hebreos 9:13-14
 
-#### Nótense las tres preposiciones: **según** (KATA) la presciencia; **en** (EN) la santificación; **para** (EIS) la obediencia. Dios el Padre, Dios el Espíritu Santo y Dios el Hijo obraron __<u>juntos</u>__ en la elección. 
+#### Nótense las tres preposiciones: **según** (KATA) la presciencia; **por** (EN) la santificación; **para** (EIS) la obediencia. Dios el Padre, Dios el Espíritu Santo y Dios el Hijo obraron __<u>juntos</u>__ en la elección. 
 
-##### Romanos 8:28 "*Y sabemos que para los que aman a Dios, todas las cosas cooperan para __<u>bien</u>__, esto es, para los que **son llamados conforme a Su propósito**.*"
+##### Romanos 8:28 "*Y sabemos que para los que aman a Dios, todas las cosas cooperan para __<u>bien</u>__, esto es, para los que **son llamados conforme a Su propósito**.*" Efesios 1:4
 
 ##### Romanos 8:29 *Porque a los que de antemano conoció, también los predestinó a ser hechos conforme a la imagen de Su Hijo, para que Él sea el primogénito entre __<u>muchos</u>__ hermanos.* en base al previo conocimiento, vemos una cadena de 5 eslabones. 
 
