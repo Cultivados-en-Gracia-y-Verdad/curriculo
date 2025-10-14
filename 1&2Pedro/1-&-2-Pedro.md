@@ -389,6 +389,8 @@ Title: 1 & 2 Pedro
 
 ##### 1 Pedro 1:22 "*Puesto que en obediencia a la verdad ustedes han purificado sus **almas** para un amor sincero de hermanos, ámense unos a otros entrañablemente, de corazón puro.*" Se hicieron purificados (perfecto, activo, participio) sus almas por medio de la obediencia a la __<u>verdad</u>__ en santificación. 
 
+##### 1 Pedro 2:11 "*Amados, les ruego como a extranjeros y peregrinos, que se abstengan de las pasiones carnales que combaten contra el **alma***".
+
 ##### 1 Pedro 2:25 "*Pues ustedes andaban descarriados como ovejas, pero ahora han __<u>vuelto</u>__ al Pastor y Guardián de sus **almas**.*" 
 
 ##### 1 Pedro 3:20 "*quienes en otro tiempo fueron desobedientes cuando la paciencia de Dios esperaba en los días de Noé durante la construcción del arca, en la cual unos pocos, es decir, __<u>ocho</u>__ personas* [almas], *fueron salvadas por medio del agua.*" 
@@ -737,9 +739,9 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 2:2b "*...la leche pura* *de la palabra* [leche espiritual RVR09]...*" La leche pura, nos muestra __<u>algo</u>__ sin engaño, no adulterada, Nos muestra la pureza de La Palabra la cual es vital para el crecimiento de los creyentes.
 
-#### "*pura*" ADOLOS - no mezclado con impurezas. 
+#### "*pura*" ADOLOS - no mezclado con impurezas. [^1]
 
-#### "*la palabra*" LOGICON - caracterizado por la inmaterialidad racional o cognitiva; especialmente en contraste con la fisicalidad.
+#### "*la palabra*" LOGICON - caracterizado por la inmaterialidad racional o cognitiva; especialmente en contraste con la fisicalidad.[^1]
 
 #### En este __<u>pasaje</u>__ vemos de manera positiva la leche espiritual, para el crecimiento de los creyentes, sin embargo en las cartas de Corintios y Hebreos vemos la leche, con un tono negativo.
 
@@ -762,6 +764,16 @@ Title: 1 & 2 Pedro
 #### La bondad de Dios o la benignidad de Dios es un atributo que los creyentes ya conocían cuando __<u>fueron</u>__ rescatados de su antigua manera de vivir. Romanos 2:4; Efesios 2:7, 4:32; Tito 3:3-7
 
 #### Los creyentes ya habían experimentando lo bueno que era Dios, el Señor deseaba que continúen haciéndolo por __<u>medio</u>__ de conocerlo más a través de la verdad de Su gracia. 2 Pedro 3:18
+
+## En Síntesis (1 Pedro 2:1-3)
+
+###   Pedro habla sobre la renuncia, las relaciones, el respeto y un __<u>modelo</u>__ a seguir. 
+
+  ### La renuncia: 1 Pedro 2:1-3, 11
+
+#### ¿A qué debemos renunciar?: Considerando nuestro __<u>nuevo</u>__ nacimiento, debemos despojarnos del engaño, la hipocresía, la envidia, la calumnia y la mundanalidad. 1 Pedro 2:1, 11b
+
+#### ¿A qué debemos desear?: Debemos desear la __<u>leche</u>__ pura (Palabra de Dios) mediante la cual seremos nutridos en la Gracia del Señor.  1 Pedro 2:2-3
 
 ## 1 Pedro 2:4-8 La acción - edificando una casa espiritual
 
@@ -859,6 +871,32 @@ Title: 1 & 2 Pedro
 
 #### En la carta de Romanos nos muestra vasos preparados para la destrucción. Sin embargo, en este __<u>pasaje</u>__ no nos habla referente a la salvación o perdición de estos vasos. Nos habla de como Dios puede usar a Faraón para cumplir sus propósitos. Romanos 9:17-22
 
+## En Síntesis (1 Pedro 2:4-8)
+
+  ### La relación: 1 Pedro 2:4-12
+
+#### Qué es Cristo: 1 Pedro 2:4, 6-8, 9b, 12
+
+##### Él es el fundamento __<u>vivo</u>__. 1 Pedro 2:4a
+
+##### Él es un fundamento __<u>precioso</u>__ para los creyentes. 1 Pedro 2:4b, 7a
+
+##### Él es piedra de __<u>tropiezo</u>__ para los incrédulos. 1 Pedro 2:8
+
+##### Él es la __<u>piedra</u>__ angular. 1 Pedro 2:6, 7b
+
+##### Él es el __<u>elegido</u>__. 1 Pedro 2:4c
+
+##### Él es el __<u>juez</u>__. 1 Pedro 2:12
+
+##### Él es la __<u>luz</u>__. 1 Pedro 2:9b
+
+#### Qué son los cristianos por medio de Cristo. 1 Pedro 2:5, 9a, 10-11a
+
+##### Somos piedras __<u>vivas</u>__. 1 Pedro 2:5a
+
+##### Somos sacerdotes __<u>reales</u>__. 1 Pedro 2:5b
+
 ## 1 Pedro 2:9-10 La acción -  como real sacerdocio, nación santa
 
 ### En estos pasajes nos mostrará cual es la relación de los creyentes para __<u>con</u>__ Dios y cual es el propósito de los creyentes hacia el mundo.
@@ -881,11 +919,13 @@ Title: 1 & 2 Pedro
 
 #### Podemos ver donde estaba puesta la __<u>fe</u>__ de Abraham cuando esperaba una ciudad estando en la tierra prometida. Hebreos 11:8-10
 
-### 1 Pedro 2:9d "*...pueblo adquirido para posesión de Dios...*" La adquisición de este pueblo fue hecha con un gran valor, por precio __<u>fuimos</u>__ rescatados y ahora pertenece a Dios. 1 Corintios 7:23; Efesios 1:7; 1 Pedro 1:18 
+### 1 Pedro 2:9d "*...pueblo adquirido para posesión de Dios...*" La adquisición de este pueblo fue hecha con un gran valor, por precio __<u>fuimos</u>__ rescatados. 1 Corintios 7:23; Efesios 1:7; 1 Pedro 1:18 
 
-#### Ahora como un pueblo adquirido de Dios __<u>cada</u>__ creyente viene a ser completamente posesión de Él. Nos mostrará cuál es el propósito que tenía para rescatarnos. 1 Timoteo 2:4
+#### Ahora como un pueblo adquirido de Dios __<u>cada</u>__ creyente viene a ser completamente posesión de Él. Ahora, preparemos nuestro entendimiento para ver cuál es el propósito que tenía para adquirirnos. 1 Timoteo 2:4
 
-###  1 Pedro 2:9e "*...a fin de que anuncien las virtudes de Aquel...*" Nos mostrará el propósito para este pueblo adquirido con gran valor.  El propósito __<u>para</u>__ los creyentes es el de anunciar las virtudes de Aquel (Dios).
+###  1 Pedro 2:9e "*...a fin de que anuncien las virtudes de Aquel...*" Nos mostrará el propósito para este pueblo adquirido con gran valor.  El propósito __<u>para</u>__ los creyentes es el de anunciar las virtudes, glorificar a Aquel (Dios).
+
+#### "*anuncien*" EXANGELLO - dar a conocer abiertamente y con amplia distribución.[^1]
 
 #### En el Antiguo Testamento vemos a Dios glorificarse por __<u>medio</u>__ de que lo conocen a Él. Dios usó a Faraón para mostrar Su poder y revelar al Dios de Israel. Éxodo 14:4,17-18; Isaías 26:15, 44.23, 55:5, 60:9; Hageo 1:8
 
@@ -905,8 +945,12 @@ Title: 1 & 2 Pedro
 
 #### Ahora podemos entender el incalculable valor de ser pueblo de Dios. Un pueblo santo, que anuncia las virtudes de Su gracia y misericordia a __<u>toda</u>__ criatura, llevando el mensaje de su gracia en nuestras vidas.
 
-###  1 Pedro 2:10b "*...no habían recibido misericordia, pero ahora han recibido misericordia...*" Cuando éramos extraños a los pactos, ajenos a la ciudadanía de Dios, nos encontrábamos en nuestros __<u>delitos</u>__ y pecados, no habíamos recibido la misericordia, sin embargo ahora hemos recibido misericordia y perdón  de aquel que nos llamó y nos rescató. Romanos 9:25; 10:19
-#### Este pasaje se cita al profeta Oseas, en el cual se anuncia a Dios teniendo compasión de un __<u>pueblo</u>__ que no era su pueblo. Oseas 2:23
+###  1 Pedro 2:10b "*...no habían recibido misericordia, pero ahora han recibido misericordia...*" Cuando éramos extraños a los pactos, ajenos a la ciudadanía de Dios, nos encontrábamos en nuestros __<u>delitos</u>__ y pecados, no habíamos recibido la misericordia, sin embargo ahora hemos recibido misericordia y perdón  de aquel que nos llamó y nos rescató. Romanos 9:25, 10:19
+#### Este pasaje cita al profeta Oseas, en el cual se anuncia a Dios teniendo compasión de un __<u>pueblo</u>__ que no era Su pueblo. Oseas 2:23
+
+## En Síntesis (1 Pedro 2:9-10)
+
+##### Somos un __<u>pueblo</u>__ escogido. 1 Pedro 2:9a, 10
 
 ## 1 Pedro 2:11-12 La acción -  conducta hacia los gentiles
 
@@ -914,27 +958,29 @@ Title: 1 & 2 Pedro
 
 #### Muestra el valor incalculable de ser ahora pueblo de Dios, como nación santa, escogida por Dios. ¡Qué impresionante es ser el __<u>pueblo</u>__ de Dios y manifestarse al mundo como lo que ya somos, una expresión pública de Dios!
 
-#### La palabra amados AGAPETOS es un adjetivo que describe a los creyentes. Esto es una realidad para __<u>cada</u>__ creyente, un amado de Dios. Hebreos 6:9; 1 Pedro 4:12
+#### La palabra "*amados*" AGAPETOS es un adjetivo que describe a los creyentes. Esto es una realidad para __<u>cada</u>__ creyente, un amado de Dios. Hebreos 6:9; 1 Pedro 4:12
 
-#### Considerando nuestra nueva ciudadanía, linaje y sacerdocio, el apóstol Pedro inicia con una rogativa hacia los creyentes como si hablase a extranjeros y peregrinos __<u>sobre</u>__ la tierra. Efesios 2:19; Hebreos 11:13
+#### Considerando nuestra nueva ciudadanía, linaje y real sacerdocio, el apóstol Pedro inicia con una rogativa hacia los creyentes como si hablase a extranjeros y peregrinos __<u>sobre</u>__ la tierra. Efesios 2:19; Hebreos 11:13
 
-###  1 Pedro 2:11b "*...que se abstengan de las pasiones carnales que combaten contra el alma."* Las pasiones carnales continuamente combaten con el alma del creyente. El deseo es que se abstengan de __<u>estas</u>__ pasiones. Santiago 4:1
+###  1 Pedro 2:11b "*...que se abstengan de las pasiones carnales que combaten contra el alma*". Las pasiones carnales continuamente combaten con el alma del creyente. El deseo es que se abstengan de __<u>estas</u>__ pasiones. Santiago 4:1
 
 #### El verbo abstengan APEJOMAI se encuentra en tiempo presente, voz medio, __<u>modo</u>__ infinitivo, dándonos a entender una continuidad en tiempo presente la cual el creyente realiza en beneficio suyo.
 
 ####  Las pasiones carnales en el creyente no fueron erradicadas. Sin embargo la instrucción es el de abstenerse debido a que ya no es la identidad nueva del creyente. Ahora tiene una __<u>nueva</u>__ simiente y puede andar considerando eso continuamente.
 
-#### En la carta a los Efesios nos muestra que el creyente tiene dos maneras de poder __<u>andar</u>__, una por el Espíritu y otra por la carne. Gálatas 5:16-17
+#### En la carta a los Gálatas nos muestra que el creyente tiene dos maneras de poder __<u>andar</u>__, una por el Espíritu y otra por la carne. Gálatas 5:16-17
 
-###  1 Pedro 2:12a *"Mantengan entre los gentiles una conducta irreprochable...*" Ahora vemos instrucciones claras a los creyentes con respeto a su conducta hacia los incrédulos. Veremos el provecho de un __<u>andar</u>__ piadoso.  Filipenses 2:15; Tito 2:8
+###  1 Pedro 2:12a "*Mantengan entre los gentiles una conducta irreprochable...*" Ahora vemos instrucciones claras a los creyentes con respeto a su conducta hacia los incrédulos. Veremos el provecho de un __<u>andar</u>__ piadoso.  Filipenses 2:15; Tito 2:8
 
 #### Estas instrucciones prácticas serán visibles entre los gentiles, en una conducta sin __<u>motivo</u>__ de reproche. Esto será un andar continuo considerando su nueva identidad en El Amado. 
 
 ###  1 Pedro 2:12b "*...a fin de que en aquello que les calumnian como malhechores...*" Habrá algunas personas que calumniarán o difamarán a los creyentes como a malhechores o criminales por su __<u>conducta</u>__ piadosa y sencilla entre los gentiles. Hechos 28:22; 2 Timoteo 3:12
 
-###  1 Pedro 2:12c "*...ellos, por razón de las buenas obras de ustedes, al considerarlas, glorifiquen a Dios en el día de la visitación."* Estas personas que los calumnian verán las buenas __<u>obras</u>__ de los creyentes y al considerarlas glorificarán a Dios. Mateo 5:16, 9:8
+###  1 Pedro 2:12c "*...ellos, por razón de las buenas obras de ustedes, al considerarlas, glorifiquen a Dios en el día de la visitación*". Estas personas que los calumnian verán las buenas __<u>obras</u>__ de los creyentes y al considerarlas glorificarán a Dios. Mateo 5:16, 9:8
 
-#### Este versículo nos muestra de manera práctica el __<u>resultado</u>__ de la piedad hacia los incrédulos y glorifican a Dios debido a las buenas acciones de los creyentes.
+#### "*glorifiquen*" DOXAZO - reconocer, apreciar o estimar positivamente el carácter, la naturaleza o los atributos de alguien.[^1]
+
+#### Este versículo nos muestra de manera práctica el __<u>resultado</u>__ de la piedad hacia los incrédulos. Glorifican a Dios debido a las buenas acciones de los creyentes.
 
 #### El día de la visitación o en __<u>algunas</u>__ traducciones el día de juicio. Isaías 10:3; Lucas 19:44
 
@@ -944,9 +990,9 @@ Title: 1 & 2 Pedro
 
 #### La palabra "*sométanse*" JUPOTASSO se encuentra en tiempo aoristo, pasivo, imperativo, dándonos a entender esta orden hecha en un punto pasado del tiempo. La voz pasiva nos muestra que otro es el que realiza la __<u>acción</u>__ de someterse.
 
-#### El creyente se __<u>sujeta</u>__ a la causa de Dios y el resultado será que Dios hará al creyente sujeto a toda institución humana. Este sometimiento no obliga a los creyentes a realizar algo que no este de acuerdo con la verdad o a la ley de Dios. Hechos 5:28-29
+##### El creyente se __<u>sujeta</u>__ a la causa de Dios y el resultado será que Dios hará al creyente sujeto a toda institución humana. Este sometimiento no obliga a los creyentes a realizar algo que no este de acuerdo con la verdad o a la ley de Dios. Hechos 5:28-29
 
-###  1 Pedro 2:13b "*...ya sea al rey como autoridad,"* Pondrá como ejemplo al Rey. En el contexto en que había reyes tiranos y corruptos, entendemos que Dios instituyó el gobierno humano y la justicia humana. Mostrará a los reyes como ministros dados __<u>por</u>__ Dios.
+###  1 Pedro 2:13b "*...ya sea al rey como autoridad..."* Pondrá como ejemplo al Rey. En el contexto en que había reyes tiranos y corruptos, entendemos que Dios instituyó el gobierno humano y la justicia humana. Mostrará a los reyes como ministros dados __<u>por</u>__ Dios.
 
 #### Cada creyente voluntariamente debe someterse a Dios, debido a que es bueno. Sus mandamientos son justos y buenos, sin embargo __<u>ningún</u>__ creyente estaría dispuesto a someterse a un rey corrupto o tirano.  Aquí les mostrará un propósito mucho mayor, por causa del Señor, es necesario someternos al rey como autoridad.
 
@@ -962,7 +1008,27 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 2:15b "*...que haciendo bien, ustedes hagan enmudecer la ignorancia de los hombres insensatos."* La voluntad de Dios es __<u>haciendo</u>__ lo bueno, los creyentes, hagan callar a los que los calumnian. 1 Pedro 2:12
 
-# 1 Pedro 2:16-17 - Andar en Libertad del creyente
+## En Síntesis (1 Pedro 2:11-15)
+
+### Somos extranjeros en la __<u>tierra</u>__. 1 Pedro 2:11a
+
+   ### El respeto: 1 Pedro 2:13-20  
+
+   #### Como extranjeros y __<u>peregrinos</u>__ del Señor, por amor a Él, debemos mostrar respeto (y sumisión) a las siguientes personas:
+
+##### Autoridades civiles. 1 Pedro 2:13-16
+
+##### Empleadores. 1 Pedro 2:18-20
+
+##### Todos. 1 Pedro 2:17
+
+#### ¿Porqué?
+
+##### Dios desea enmudecer las palabras de ignorancia de los incrédulos, por medio de hacer el bien. 1 Pedro 2:15
+
+##### La libertad que tenemos por medio de Dios __<u>en</u>__ Cristo debe ser disfrutada con el propósito que Dios estableció, como siervos de Dios
+
+# 1 Pedro 2:16-17 - La acción - el andar en libertad del creyente
 
 ###  1 Pedro 2:16a  *"Anden como libres...*" El andar del creyente es en completa libertad. La libertad que el creyente tiene no es para pecar o para la impiedad, sino que esta completa libertad es para poder ser siervos de Dios. En nuestra antigua manera de __<u>vivir</u>__ éramos siervos de la naturaleza pecaminosa. Ahora somos siervos de Justicia. Juan 8:32; Santiago 1:25
 
@@ -978,7 +1044,7 @@ Title: 1 & 2 Pedro
 
 ### 1 Pedro 2:17d "*...honren al rey....*" Menciona un dato importante dedicado a la honra hacia el rey o emperador. En nuestro contexto seria hacia quien esta gobernando __<u>nuestros</u>__ país, sea rey o gobernante. El merece honra la cual fue dada por Dios. Proverbios 24:21; Mateo 22:21; 1 Pedro 2:13
 
-## 1 Pedro 2:18-25 Aprendiendo de los siervos
+## 1 Pedro 2:18-25 A la acción -  siervos
 
 ### 1 Pedro 2:18a *"Siervos...*" Ahora mencionará un __<u>grupo</u>__ especial llamados siervos. En nuestro contexto, podemos ver que son trabajadores o empleados. Efesios 6:5
 
@@ -988,7 +1054,7 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 2:18c "*...no solo a los que son buenos y afables, sino también a los que son insoportables."* Una actitud de respeto y sujeción no es solo a los que son buenos, sino a los que son __<u>perversos</u>__ o irrazonables.
 
-###  1 Pedro 2:19a *"Porque esto halla gracia...*" Nos mostrará que en esto el creyente halla gracia ante Dios. En el respeto hacia los amos o jefes donde un creyente se encuentra trabajando. Esto es algo contrario a lo que el mundo apunta, sin embargo vemos a un creyente con una __<u>actitud</u>__ humilde, respetuoso en el trabajo y sumiso a sus amos. Esto halla gracia ante Dios.
+###  1 Pedro 2:19a *"...Porque esto halla gracia...*" Nos mostrará que en esto el creyente halla gracia ante Dios. En el respeto hacia los amos o jefes donde un creyente se encuentra trabajando. Esto es algo contrario a lo que el mundo apunta, sin embargo vemos a un creyente con una __<u>actitud</u>__ humilde, respetuoso en el trabajo y sumiso a sus amos. Esto halla gracia ante Dios.
 
 ###  1 Pedro 2:19b "*...si por causa de la conciencia ante Dios...*" Causará una buena conciencia del creyente ante Dios, sabiendo que hizo lo __<u>bueno</u>__ y se sujetó por la fe a lo que Dios dijo. Romanos 13:5; 1 Pedro 3:17
 
@@ -1031,59 +1097,7 @@ Title: 1 & 2 Pedro
 ###  1 Pedro 2:25b "*...pero ahora han vuelto al Pastor y Guardián de sus almas."* Sin embargo ahora hemos vuelto al pastor de las ovejas, y él es el guardián de nuestras almas, estamos completamente seguros y protegidos. Esta imagen de ser una oveja que se encuentra __<u>segura</u>__, nos trae confianza en nuestro pastor y salvador Cristo Jesús. Juan 10:11; 1 Pedro 5:4
 
 ###  1 Pedro 2:25b "*pero ahora han vuelto al Pastor y Guardián de sus almas.*" Sin embargo ahora hemos vuelto al pastor, y guardián de sus almas, que impresionante. saber esto, Ahora estamos con nuestro pastor y salvador , el que guarda nuestras almas.
-## En Síntesis
-
-###   Pedro habla sobre la renuncia, las relaciones, el respeto y un __<u>modelo</u>__ a seguir. 
-
-  ### La renuncia: 1 Pedro 2:1-3, 11
-
-#### ¿A qué debemos renunciar?: Considerando nuestro __<u>nuevo</u>__ nacimiento, debemos despojarnos del engaño, la hipocresía, la envidia, la calumnia y la mundanalidad. 1 Pedro 2:1, 11b
-
-#### ¿A qué debemos desear?: Debemos desear la __<u>leche</u>__ pura (Palabra de Dios) mediante la cual seremos nutridos en la Gracia del Señor.  1 Pedro 2:2-3
-
-  ### La relación: 1 Pedro 2:4-12
-
-#### Qué es Cristo: 1 Pedro 2:4, 6-8, 9b, 12
-
-##### Él es el fundamento __<u>vivo</u>__. 1 Pedro 2:4a
-
-##### Él es un fundamento __<u>precioso</u>__ para los creyentes. 1 Pedro 2:4b, 7a
-
-##### Él es piedra de __<u>tropiezo</u>__ para los incrédulos. 1 Pedro 2:8
-
-##### Él es la __<u>piedra</u>__ angular. 1 Pedro 2:6, 7b
-
-##### Él es el __<u>elegido</u>__. 1 Pedro 2:4c
-
-##### Él es el __<u>juez</u>__. 1 Pedro 2:12
-
-##### Él es la __<u>luz</u>__. 1 Pedro 2:9b
-
-#### Qué son los cristianos por medio de Cristo. 1 Pedro 2:5, 9a, 10-11a
-
-##### Somos piedras __<u>vivas</u>__. 1 Pedro 2:5a
-
-##### Somos sacerdotes __<u>reales</u>__. 1 Pedro 2:5b
-
-##### Somos un __<u>pueblo</u>__ escogido. 1 Pedro 2:9a, 10
-
-##### Somos extranjeros en la __<u>tierra</u>__. 1 Pedro 2:11a
-
-   ### El respeto: 1 Pedro 2:13-20  
-
-   #### Como extranjeros y __<u>peregrinos</u>__ del Señor, por amor a Él, debemos mostrar respeto (y sumisión) a las siguientes personas:
-
-##### Autoridades civiles. 1 Pedro 2:13-16
-
-##### Empleadores. 1 Pedro 2:18-20
-
-##### Todos. 1 Pedro 2:17
-
-#### ¿Porqué?
-
-##### Dios desea enmudecer las palabras de ignorancia de los incrédulos, por medio de hacer el bien. 1 Pedro 2:15
-
-##### La libertad que tenemos por medio de Dios __<u>en</u>__ Cristo debe ser disfrutada con el propósito que Dios estableció, como siervos de Dios
+## En Síntesis (1 Pedro 16-25)
 
    ### El modelo a seguir: 1 Pedro 2:21-25
 
@@ -1101,7 +1115,7 @@ Title: 1 & 2 Pedro
 
 ###### Para que pudiéramos ser __<u>traídos</u>__ al Pastor. 1 Pedro 2:25
 
-# 1 Pedro 3:1-8 Relaciones dentro de la Iglesia
+# 1 Pedro 3:1-8 A la acción -  Relaciones dentro de la Iglesia
 
 ### Puede que las circunstancias en las que se encontraban los creyentes a los que escribía Pedro, no eran las mejores para animarlos a vivir haciendo lo bueno. Por esa razón, en los anteriores versículos les __<u>recordó</u>__ a una persona, Cristo Jesús hombre. ¿Porqué?
 
@@ -1119,7 +1133,7 @@ Title: 1 & 2 Pedro
 
 ### Considerando al Ejemplo dado por Dios el Padre, Cristo, estos creyentes podrían hacer el bien, a pesar de que eso traiga sufrimiento, y podrían soportarlo con paciencia y gozo inefable. Esto es lo que Dios __<u>proveyó</u>__ para Sus salvos, esto es lo que halla gracia con Dios.
 
-## 1 Pedro 3:1-6 Aprendiendo de las mujeres
+## 1 Pedro 3:1-6 A la acción -  mujeres
 
 ###  1 Pedro 3:1a *"Asimismo ustedes, mujeres,...*" Anteriormente Pedro estuvo __<u>dando</u>__ instrucciones de sujeción a los creyentes, como ser: 
 
@@ -1217,7 +1231,7 @@ Title: 1 & 2 Pedro
 
 #### Esto haya gracia a los ojos de Dios, es __<u>precioso</u>__ delante de Dios. 1 Pedro 2:19-20
 
-## 1 Pedro 3:7- Maridos
+## 1 Pedro 3:7 A la acción -  Maridos
 
 ###  1 Pedro 3:7a *"Ustedes, maridos, igualmente,...*" Ahora pasa a dar instrucciones a los esposos creyentes. 
 
@@ -1255,7 +1269,7 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 3:7e "*...para que sus oraciones no sean estorbadas."* De esta manera, el esposo viviendo en la justicia, por medio de la esperanza que se encuentra en Cristo su Salvador. Podrá dirigir sus oraciones a su Dios y Cuidador, confiado de que recibirá la __<u>ayuda</u>__ oportuna, ya que nada podrá estorbarlas. Disfrutará días buenos junto a su compañera de vida. Efesios 6:18
 
-## 1 Pedro 3:8-12 A todos
+## 1 Pedro 3:8-12 A la acción -  a todos
 
 ###  1 Pedro 3:8a *"En conclusión, sean todos...*" Como ultima instrucción respecto a las relaciones __<u>entre</u>__ creyentes, esta vez Pedro se dirigirá a todos.
 
@@ -1363,7 +1377,7 @@ Title: 1 & 2 Pedro
 
 #### "*Sufren*" PASCHO - experimentar daño o dolor emocional.[^1] Aparece 13 veces en 1 Pedro. 
 
-Vimos en el capítulo 1 que el sufrimiento es garantizado y seguro. 
+#### Vimos en el capítulo 1 que el sufrimiento es garantizado y seguro. 
 
 #### Los creyentes deberían preparar su entendimiento, ya que Dios muestra una realidad diferente para los que sufren daño por su __<u>andar</u>__ en justicia.
 
