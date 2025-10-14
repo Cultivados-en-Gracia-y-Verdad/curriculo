@@ -81,7 +81,7 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 1:1d "*...en el Ponto, Galacia, Capadocia, Asia y Bitinia...*" Pedro escribió a personas esparcidas de sus lugares de origen que __<u>fueron</u>__ a peregrinar en diferentes provincias del imperio Romano. Hoy en día lo conocemos como el norte de Turquía. 1 Pedro 2:11
 
-###  1 Pedro 1:1e Quienes son..."*elegidos*" EKLEKTOS los escogidos __<u>fuera</u>__. 1 Pedro 2:9; Mateo 22:14
+###  1 Pedro 1:1e Quienes son...*"elegidos*" EKLEKTOS los escogidos __<u>fuera</u>__. 1 Pedro 2:9; Mateo 22:14
 
 #### "*Elegidos*" EKLEKTOS puede referirse a:
 
@@ -283,7 +283,7 @@ Title: 1 & 2 Pedro
 
 #### Nuestra glorificación será conocida por el público en el "*último tiempo*". ¿Cuando es eso? 
 
-#### 1 Pedro 1:7 aclara cuando..."*en la revelación de Jesucristo*". La revelación de Jesucristo es en su segunda venida. 2 Tesalonicenses 1:7
+#### 1 Pedro 1:7 aclara cuando...*"en la revelación de Jesucristo*". La revelación de Jesucristo es en su segunda venida. 2 Tesalonicenses 1:7
 
 #### La salvación (de los que responden mediante la fe) estaba preparada en la soberanía de Dios desde antes de la fundación del mundo y será revelada en el último tiempo.
 
@@ -453,7 +453,21 @@ Title: 1 & 2 Pedro
 
 #### "*Mirar*" PARAKYPTO - examinar, concebido como hacer un esfuerzo para __<u>ver</u>__ algo (que no está en la línea de visión) agachándose o inclinándose.[^1]
 
-## 1 Pedro 1:13-21 – Preparando el entendimiento para la acción
+## En Síntesis (1 Pedro 1:10-12)
+
+### Los profetas del Antiguo Testamento y nuestra salvación. 1 Pedro 1:10-12
+
+#### Lo que no entendieron: No pudieron comprender plenamente __<u>todas</u>__ sus profecías concernientes a la obra futura del Mesías. 
+
+##### En cuanto a su __<u>dolor</u>__. 1 Pedro 1:10-11
+
+##### En __<u>cuanto</u>__ a su gloria. 1 Pedro 1:11
+
+#### Lo que sí entendieron: Sabían que sus profecías no se cumplirían __<u>hasta</u>__ después de su muerte. 1 Pedro 1:12a
+
+### Los ángeles y nuestra salvación: Anhelaban saber más sobre este maravilloso __<u>tema</u>__. 1 Pedro 1:12b
+
+# 1 Pedro 1:13-21 – PREPARANDO EL ENTENDIMIENTO PARA LA ACCIÓN
 
 ###  1 Pedro 1:13a "*Por tanto...*" equivale a, "en vista del hecho de que aunque están pasando por muchas clases de pruebas (1 Pedro 1:6), sin embargo, __<u>porque</u>__ su herencia celestial les espera" (1 Pedro 1:3-6), preparen su entendimiento para la acción (1 Pedro 1:13).
 
@@ -471,9 +485,9 @@ Title: 1 & 2 Pedro
 
 #### ¿En qué debían fijar su esperanza? 
 
-###  1 Pedro 1:13f *"...completamente en la gracia que se les traerá en la revelación de Jesucristo."* Apoyarse, completamente en la gracia que será traída en la revelación de Jesucristo __<u>debe</u>__ ser al centro de la diana de su mirada. 
+###  1 Pedro 1:13f "*...completamente en la gracia que se les traerá en la revelación de Jesucristo."* Apoyarse, completamente en la gracia que será traída en la revelación de Jesucristo __<u>debe</u>__ ser al centro de la diana de su mirada. 
 
-###  1 Pedro 1:14a *"Como hijos obedientes..."* Igual que un __<u>hijo</u>__ que escucha a la voz sus padres y responde obedeciendo. Ellos eran hijos obedientes al haber respondido al evangelio por la fe. Romanos 16:19; Juan 3:18, 36
+###  1 Pedro 1:14a *"Como hijos obedientes...*" Igual que un __<u>hijo</u>__ que escucha a la voz sus padres y responde obedeciendo. Ellos eran hijos obedientes al haber respondido al evangelio por la fe. Romanos 16:19; Juan 3:18, 36
 
 ###  1 Pedro 1:14b "*no se conformen a los deseos que __<u>antes</u>__ tenían en su ignorancia...*" ¿que deseos tenían a los que no debían conformarse? 
 
@@ -614,19 +628,21 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 1:25a "*PERO LA PALABRA DEL SEÑOR PERMANECE PARA SIEMPRE».*" En contraste (*pero*) con la __<u>corta</u>__ vida de la carne y su gloria, La Palabra de Dios permanece para siempre. 
 
-#### La Palabra de Dios __<u>jamás</u>__ cambiara. Salmo 119:89
+#### La Palabra de Dios permanece para siempre sin la ayuda de nadie, siempre ha sido y siempre será.
 
-#### La Palabra</u>__ de Dios nunca pasará. Isaías 40:8; Mateo 24:35
+##### La Palabra de Dios __<u>jamás</u>__ cambiara. Salmo 119:89
 
-#### La Palabra de Dios __<u>es</u>__ fiel. 1 Pedro 1:25; Proverbios 30:5
+##### La __<u>Palabra</u>__ de Dios nunca pasará. Isaías 40:8; Mateo 24:35
 
-#### La Palabra de __<u>Dios</u>__ es verdadera. 2 Timoteo 3:15-16
+##### La Palabra de Dios __<u>es</u>__ fiel. 1 Pedro 1:25; Proverbios 30:5
 
-#### La Palabra de Dios es desde eternidad __<u>pasada</u>__ a eternidad futura. Juan 1:1
+##### La Palabra de __<u>Dios</u>__ es verdadera. 2 Timoteo 3:15-16
 
-#### La Palabra de Dios no __<u>cambia</u>__ según los tiempos. Salmo 119:89
+##### La Palabra de Dios es desde eternidad __<u>pasada</u>__ a eternidad futura. Juan 1:1
 
-#### La Palabra de Dios no cambia __<u>según</u>__ la inteligencia del hombre. Romanos 1:25-26
+##### La Palabra de Dios no __<u>cambia</u>__ según los tiempos. Salmo 119:89
+
+##### La Palabra de Dios no cambia __<u>según</u>__ la inteligencia del hombre. Romanos 1:25-26
 
 #### La Palabra __<u>de</u>__ Dios no cambia según los descubrimientos arqueológicos, científicos, astronómicos etc. etc.. 2 Pedro 3:3-7
 
@@ -636,70 +652,63 @@ Title: 1 & 2 Pedro
 
 ## En Síntesis (1 Pedro 1:10-25)
 
-### Los profetas del Antiguo Testamento y nuestra salvación (1 Pedro 1:10-12)
-
-#### Lo que no entendieron: No pudieron comprender plenamente __<u>todas</u>__ sus profecías concernientes a la obra futura del Mesías. 
-
-##### En cuanto a su __<u>dolor</u>__ (1 Pedro 1:10-11)
-
-##### En __<u>cuanto</u>__ a su gloria (1 Pedro 1:11)
-
-#### Lo que sí entendieron: Sabían que sus profecías no se cumplirían __<u>hasta</u>__ después de su muerte. (1 Pedro 1:12a)
-
-### Los ángeles y nuestra salvación (1 Pedro 1:12b): Anhelaban saber más sobre este maravilloso __<u>tema</u>__.
-
-### LA RESPUESTA A NUESTRA SALVACIÓN (1 Pedro 1:13-17)
+### La respuesta de nuestra salvación. 1 Pedro 1:13-17
 
 #### En cuanto a nosotros mismos: 
 
-##### Debemos tener el entendimiento __<u>preparado</u>__ (1 Pedro 1:13a) 
+##### Debemos tener el entendimiento __<u>preparado</u>__. 1 Pedro 1:13a 
 
-##### Debemos __<u>ser</u>__ autocontrolados. (1 Pedro 1:13b)
+##### Debemos __<u>ser</u>__ autocontrolados. 1 Pedro 1:13b
 
-##### Debemos tener __<u>nuestra</u>__ esperanza únicamente en la manifestación nuestro Salvador Jesucristo (1 Pedro 1:13c)
+##### Debemos tener __<u>nuestra</u>__ esperanza únicamente en la manifestación nuestro Salvador Jesucristo. 1 Pedro 1:13c
 
-#### En cuanto a nuestro Salvador (1 Pedro 1:14-17)
+#### En cuanto a nuestro Salvador. 1 Pedro 1:14-17
 
-##### Debemos ser santos __<u>ante</u>__ Dios (1 Pedro 1:14-16).
+##### Debemos ser santos __<u>ante</u>__ Dios. 1 Pedro 1:14-16
 
-##### Debemos ser __<u>reverentes</u>__ hacia Dios (1 Pedro 1:17).
+##### Debemos ser __<u>reverentes</u>__ hacia Dios. 1 Pedro 1:17
 
-### EL COSTO DE NUESTRA SALVACIÓN (1 Pedro 1:18-21)
+### El costo de nuestra salvación. 1 Pedro 1:18-21
 
-#### El Precio (1 Pedro 1:18-19)
+#### El Precio. 1 Pedro 1:18-19
 
-##### Negativo: No se compró con plata ni __<u>oro</u>__. (1 Pedro 1:18)
+##### Negativo: No se compró con plata ni __<u>oro</u>__.  1 Pedro 1:18
 
-##### Positivo: Se compró con la preciosa __<u>sangre</u>__ de Jesús.  (1 Pedro 1:19)
+##### Positivo: Se compró con la preciosa __<u>sangre</u>__ de Jesús. 1 Pedro 1:19
 
-##### La planificación: Cristo __<u>fue</u>__ elegido antes de la fundación del mundo para hacerlo. (1 Pedro 1:20-21)
+##### La planificación: Cristo __<u>fue</u>__ elegido antes de la fundación del mundo para hacerlo. 1 Pedro 1:20-21
 
-  ### EL VEHÍCULO DE NUESTRA SALVACIÓN (1 Pedro 1:22-25)
+  ### El vehículo de nuestra salvación. 1 Pedro 1:22-25
 
-#### El nuevo nacimiento: __<u>Es</u>__ necesario experimentar la regeneración (nacer de nuevo) para ser salvo.  (1 Pedro 1:22-23a)
+#### El nuevo nacimiento: __<u>Es</u>__ necesario experimentar la regeneración (nacer de nuevo) para ser salvo.  1 Pedro 1:22-23a
 
-#### Propósito: Almas purificadas (nacidos de __<u>nuevo</u>__) para relación de amor entre salvados. (1 Pedro 1:22)
+#### Propósito: Almas purificadas (nacidos de __<u>nuevo</u>__) para relación de amor entre salvados. 1 Pedro 1:22
 
-#### La manera: Es la __<u>Palabra</u>__ de Dios la que lo realiza. (1 Pedro 1:23b-25)
+#### La manera: Es la __<u>Palabra</u>__ de Dios la que lo realiza. 1 Pedro 1:23b-25
 
-# 1 Pedro 2:1-10 – CRECIENDO HACIA LA MADUREZ
-
-## 1 Pedro 2:1-3 - Un ánimo a desechar todo lo malo y crecer para salvación
+## 1 Pedro 2:1 - La acción - desechando todo lo malo
 
 ###  El deseo del apóstol Pedro hacia los creyentes es que se despojen de toda la siguiente lista de acciones negativas en la __<u>vida</u>__ del creyente, en las cuales podría estar viviendo ú experimentando, las cuales son contrarias a su nueva simiente.
 
-### 1 Pedro 2:1a  *"Por tanto, desechando toda malicia..."* Considerando su nueva manera de vivir, sabiendo que fueron purificados, nacidos de simiente incorruptible, la instrucción es desechar __<u>todo</u>__ lo malo de su anterior manera de vivir. Efesios 4:22, 25, 31; Santiago 1:21
+### 1 Pedro 2:1a  *"Por tanto, desechando toda malicia...*" Considerando lo que proviene de la carne (malicia) y sabiendo que fueron purificados (por la Palabra), la instrucción (de la Palabra) es desechar __<u>todo</u>__ lo malo de su anterior manera de vivir. Efesios 4:22, 25, 31; Santiago 1:21
 
-#### La palabra *desechando* APOTIDSEMI significa despojarse, desechar algo, ú echarlo __<u>fuera</u>__. 
+#### La palabra *desechando* APOTIDSEMI significa despojarse, desechar algo, ú echarlo __<u>fuera</u>__. Este verbo se encuentra en tiempo aoristo, medio, participio, dándonos a entender como una invitación constante a ir desechando todas las formas de malicia de la anterior manera de __<u>vivir</u>__ y el creyente lo realiza a su propio beneficio.
 
-##### Este verbo se encuentra en tiempo aoristo, medio, participio, dándonos a entender como una invitación constante a ir desechando todas las formas de malicia de la anterior manera de __<u>vivir</u>__ y el creyente lo realiza a su propio beneficio.
+#### "*malicia*" KAKIA significa la perversión de la virtud y de los principios morales desde sus propósitos hacia fines malvados. 
 
-###  1 Pedro 2:1b *"...y todo engaño..."* Toda práctica de engaño en la vida del creyente debe ser completamente desechada, debido a que Cristo es ahora el ejemplo de __<u>novedad</u>__ de vida. 1 Pedro 2:22, 3:10
+##### Antes, en nuestra vana manera de vivir, vivimos esclavos de la malicia. Tito 3:3; Santiago 1:21; 2 Pedro 2:19
+
+##### ¿Porque todavía optaríamos por vivir en la malicia?  1 Pedro 2:16 explica...*"como libres, pero no como los que tienen la libertad como pretexto para hacer lo malo* KAKIA, *sino como siervos de Dios*". Antes eramos esclavos pero ahora somos libres. ¿Porque optariamos por vivir como esclavos siendo libres?
+
+###  1 Pedro 2:1b "*...y todo engaño...*" Toda práctica de engaño en la vida del creyente debe ser completamente desechada, debido a que Cristo es ahora el ejemplo de __<u>novedad</u>__ de vida. 1 Pedro 2:22, 3:10
+
+#### "*Engaño*" DOLOS - sagacidad demostrada por ser hábil en el engaño. Esto es esencial para vivir en el mundo. Se aprende a ser un habíl engañador para fines de lucro o en las relaciones. Tiene cierto sentido de éxito temporal el poder engañar a otros pero en realidad es ser esclavo de una vana manera de vivir. 
 
 #### En Las Escrituras __<u>vemos</u>__ la práctica del engaño relacionada a quien representan como padre, y esa no es la realidad del creyente. Hechos 13:10;  Juan 8:44; Efesios 5:8 
 
 #### El engaño en la vida del creyente es contraria a su __<u>nueva</u>__ identidad y simiente incorruptible. 2 Corintios 4:2, 11:3; 2 Tesalonicenses 2:3; 1 Juan 2:21
-###  1 Pedro 2:1c *"...e hipocresías,..."* La hipocresía es una __<u>actitud</u>__ de fingimiento concerniente a cualidades, virtudes o sentimientos que una persona expresa hacia los demás, sin embargo experimenta lo contrario dentro de sí mismo. 
+
+###  1 Pedro 2:1c "*...e hipocresías,...*" La hipocresía es una __<u>actitud</u>__ de fingimiento concerniente a cualidades, virtudes o sentimientos que una persona expresa hacia los demás, sin embargo experimenta lo contrario dentro de sí mismo. 
 
 #### La vida del creyente puede estar llena de hipocresía fingiendo ser __<u>personas</u>__ de cierta manera hacia los demás y experimentando lo contrario por dentro. Podemos ver esta actitud de los fariseos en los tiempos de Jesús. Mateo 23:28; Lucas 12:1 
 
@@ -707,24 +716,30 @@ Title: 1 & 2 Pedro
 
 #### La sabiduría de lo alto que proviene de Dios resultará en buenos __<u>frutos</u>__ sin hipocresía, pero la sabiduría terrenal mundana resultará en celos y confusión. Santiago 3:14-17 
 
-###  1 Pedro 2:1d *"...y envidias..."* La envidia en el creyente es el resultado de un __<u>andar</u>__ carnal, podemos ver que esta actitud es una obra de la carne. Gálatas 5:21; Romanos 13:13
+###  1 Pedro 2:1d "*...y envidias...*" La envidia en el creyente es el resultado de un __<u>andar</u>__ carnal, podemos ver que esta actitud es una obra de la carne. Gálatas 5:21; Romanos 13:13
 #### La enseñanza de una doctrina extraña, contraria a la sana doctrina, también __<u>resulta</u>__ en envidias, discusiones, contiendas dentro de la congregación. 1 Timoteo 6:4 
 
-###  1 Pedro 2:1d *"...y toda difamación..."* También toda clase de chismes, comentarios hirientes y calumnias con el fin de difamar a una persona deben ser desechados, ya que __<u>afectan</u>__ a todo el cuerpo de Cristo. 2 Corintios 12:20 
+###  1 Pedro 2:1d "*...y toda difamación...*" También toda clase de chismes, comentarios hirientes y calumnias con el fin de difamar a una persona deben ser desechados, ya que __<u>afectan</u>__ a todo el cuerpo de Cristo. 2 Corintios 12:20 
 
 #### La difamación nos muestra el hablar mal de otros, específicamente de __<u>sus</u>__ hermanos. Santiago 4:11
 
 #### Jesús nos muestra que del __<u>interior</u>__ del corazón vienen las calumnias. Mateo 15:18-19
 
-###  Contrastando con las conductas negativas de su pasada manera de __<u>vivir</u>__, ahora el apóstol Pedro anima a los creyentes hacia el crecimiento espiritual.
+## 1 Timoteo 2:2-3 La acción - deseando la leche pura espiritual para salvación
 
-####  Usará el ejemplo de maternidad para mostrar una verdad espiritual, lo único que necesita un bebe recién nacido para crecer saludable es la leche materna, de igual manera el __<u>deseo</u>__ es que los creyentes crezcan para salvación con la palabra pura.
+###  Contrastando con las conductas negativas que atrofian el crecimiento, ahora el apóstol Pedro anima a los creyentes para su crecimiento.
 
-### 1 Pedro 2:2a *"...deseen como niños recién nacidos..."* La palabra deseen EPIPODSEO es un anhelo intenso, con vehemencia, buscar con ansias. Este verbo es una orden que los creyentes __<u>deben</u>__ realizar. 
+####  Usará el ejemplo de maternidad para mostrar una verdad espiritual, lo único que necesita un bebe recién nacido para crecer saludable es la leche materna. De igual manera el __<u>deseo</u>__ es que los creyentes crezcan para salvación con La Palabra pura.
+
+### 1 Pedro 2:2a "*...deseen como niños recién nacidos...*" La palabra "*deseen*" EPIPODSEO es un anhelo intenso, con vehemencia, buscar con ansias. Este verbo es una orden que los creyentes __<u>deben</u>__ realizar. 
 
 #### En el ejemplo de un niño recién nacido que grita intensamente cuando tiene __<u>hambre</u>__, solo descansa cuando le dan de lactar, muestra la imagen de desear fervientemente hasta tener la leche pura de La Palabra.
 
-###  1 Pedro 2:2b *"...la leche pura de la palabra..."* La leche pura, nos muestra __<u>algo</u>__ sin engaño, no adulterada, Nos muestra la pureza de La Palabra la cual es vital para el crecimiento de los creyentes.
+###  1 Pedro 2:2b "*...la leche pura* *de la palabra* [leche espiritual RVR09]...*" La leche pura, nos muestra __<u>algo</u>__ sin engaño, no adulterada, Nos muestra la pureza de La Palabra la cual es vital para el crecimiento de los creyentes.
+
+#### "*pura*" ADOLOS - no mezclado con impurezas. 
+
+#### "*la palabra*" LOGICON - caracterizado por la inmaterialidad racional o cognitiva; especialmente en contraste con la fisicalidad.
 
 #### En este __<u>pasaje</u>__ vemos de manera positiva la leche espiritual, para el crecimiento de los creyentes, sin embargo en las cartas de Corintios y Hebreos vemos la leche, con un tono negativo.
 
@@ -732,9 +747,9 @@ Title: 1 & 2 Pedro
 
 ##### En la epístola a los Hebreos nos muestra que la práctica en La Palabra de justicia, les llevaría hacia un pleno discernimiento, sin __<u>embargo</u>__ necesitaban otra vez volver a la leche, debido a que se habían hecho tardos para oír, ya debían ser maestros y estar enseñando. Hebreos 5:12-13
 
-###  1 Pedro 2:2c *"...para que por ella crezcan para salvación..."* La pureza de La Palabra llevará a los creyentes hacia la __<u>madurez</u>__ espiritual.
+###  1 Pedro 2:2c "*...para que por ella crezcan* [en salud RVR09] *para salvación*..." La pureza de La Palabra llevará a los creyentes hacia la __<u>madurez</u>__ espiritual.
 
-#### La palabra crezcan AUXANO es un verbo en tiempo aoristo, pasivo, subjuntivo. La voz pasiva nos muestra que otro es el que realiza la acción. En este contexto Dios es el que __<u>da</u>__ el crecimiento (pasivo) y es el deseo que así sea (subjuntivo). 1 Corintios 3:6-7
+#### La palabra "*crezcan*" AUXANO es un verbo en tiempo aoristo, pasivo, subjuntivo. La voz pasiva nos muestra que Dios es el que __<u>da</u>__ el crecimiento (pasivo) y es el deseo que así sea (subjuntivo). 1 Corintios 3:6-7
 
 #### La responsabilidad del creyente para un crecimiento espiritual es un __<u>andar</u>__ por fe. Un andar según la carne solo impedirá el crecimiento de los creyentes. 1 Corintios 3:3-5
 
@@ -742,13 +757,13 @@ Title: 1 & 2 Pedro
 
 #### La salvación referida aquí es la santificación en la vida del creyente. Vemos en 1 Timoteo 2:4 que la voluntad de Dios es que __<u>todos</u>__ los salvos vengan al pleno conocimiento de la verdad. Juan 17:17; Romanos 10:2; Colosenses 1:9-10; Efesios 1:16-18, 3:18-19
 
-###  1 Pedro 2:3  *"...si es que han probado la bondad del Señor..."* La palabra "*si*" es un condicional de __<u>primera</u>__ clase, dándonos a entender que si ya habían probado la bondad del Señor "*...ya que gustasteis que el Señor es bueno...*" (BTX4) 
+###  1 Pedro 2:3  "*...si es que han probado la bondad del Señor...*" La palabra "*si*" es un condicional de __<u>primera</u>__ clase, dándonos a entender que si ya habían probado la bondad del Señor "*...ya que gustasteis que el Señor es bueno...*" (BTX4) 
 
 #### La bondad de Dios o la benignidad de Dios es un atributo que los creyentes ya conocían cuando __<u>fueron</u>__ rescatados de su antigua manera de vivir. Romanos 2:4; Efesios 2:7, 4:32; Tito 3:3-7
 
 #### Los creyentes ya habían experimentando lo bueno que era Dios, el Señor deseaba que continúen haciéndolo por __<u>medio</u>__ de conocerlo más a través de la verdad de Su gracia. 2 Pedro 3:18
 
-## 1 Pedro 2:4-8 Piedras vivas edificando una casa espiritual
+## 1 Pedro 2:4-8 La acción - edificando una casa espiritual
 
 ### Utilizando numerosas citas y alusiones del Antiguo Testamento, Pedro continúa animando a sus lectores. Los cristianos deben entender la obra salvadora de Dios en Jesús y responder con una conducta que lo honre. 1 Pedro 2:6
 
@@ -758,141 +773,119 @@ Title: 1 & 2 Pedro
 
 #### Dios está construyendo un templo el cual Cristo es la piedra más importante. Sobre esta piedra esta edificando el resto del templo. Los creyentes funcionan como pilares en la casa espiritual de Dios (el templo); lo hacen en virtud de su nueva vida en Cristo. 1 Pedro 1:3
 
-##### Piedra Viva: Esta construcción es en base a una piedra. Génesis 28:10-22, Miqueas 4:2,
+##### Tienen una esperanza viva (1:3), Palabra viva (1:23), Piedra Viva (2:4)
+
+##### Piedra Viva: Esta construcción es en base a una piedra. Salmo 118:22; Isaías 28:16; Mateo 21:42–44
 
 ##### Piedras vivas: Nosotros, los que hemos nacido de nuevo a una esperanza viva, somos igualmente piedras. 
 
-### Esperanza viva (1:3), Palabra viva (1:23), Piedra Viva (2:4)
-
-Siendo muertos al pecados vivamos a la justicia (2:24)
-
- 1 Cronicas 22, Psa 118:22; Isa 28:16; Matt 21:42–44;
-
-1 Reyes 5-6 
-
-1 Corintios 3:10–15
-
-Sacerdocio Santo - 
-
-Sacrificios Espirituales - 
-
-Linaje Escogido - 
-
-Nacion Santa - una nacion apartada
-
-Real Sacerdocio
-
-
+##### Siendo muertos al pecados vivamos a la justicia (1 Pedro 2:24)
 
 #### Mateo 21:42 *Jesús les dijo: «¿Nunca leyeron en las Escrituras: “LA PIEDRA QUE DESECHARON LOS CONSTRUCTORES, ESA, EN PIEDRA ANGULAR SE HA CONVERTIDO; ESTO FUE HECHO DE PARTE DEL SEÑOR, Y ES MARAVILLOSO A NUESTROS OJOS*”? Isaías 28:16
 
 ###  Pedro tomará a Él (Cristo) como un ejemplo de piedra viva, la cual los hombres desecharon, sin embargo esta piedra era __<u>escogida</u>__ por Dios y preciosa a Su vista. 
 
+###  1 Pedro 2:4a "*...Y viniendo a Él...*" La palabra viniendo PROSERJOMAI significa acercarse, venir hacia. Este verbo se encuentra en __<u>tiempo</u>__ presente, pasivo-medio, participio, indicando a los creyentes una invitación constante de que pueden acercarse a Él en beneficio propio.
 
-
-###  1 Pedro 2:4a *"...Y viniendo a Él..."* La palabra viniendo PROSERJOMAI significa acercarse, venir hacia. Este verbo se encuentra en __<u>tiempo</u>__ presente, pasivo-medio, participio, indicando a los creyentes una invitación constante de que pueden acercarse a Él en beneficio propio.
-
-###  1 Pedro 2:4b *"...como a una piedra viva..."* Las piedras __<u>son</u>__ un material inerte y sin vida generalmente usado en la construcción. Sin embargo nos mostrará en esta ilustración una piedra viviente y el propósito que tiene esta en el plan de Dios.
+###  1 Pedro 2:4b "*...como a una piedra viva...*" Las piedras __<u>son</u>__ un material inerte y sin vida generalmente usado en la construcción. Sin embargo nos mostrará en esta ilustración una piedra viviente y el propósito que tiene esta en el plan de Dios.
 
 #### La palabra viva ZAO es un verbo en en tiempo presente, activo, participio, dándonos a entender la piedra que hoy esta viva y activamente __<u>viviendo</u>__.
 
 #### La Biblia Textual lo traduce de la siguiente manera *"Acercándoos a Él, Piedra viviente...*" 
 
-###  1 Pedro 2:4c *"...desechada por los hombres..."* Esta piedra viva, escogida por Dios, fue desaprobada y repudiada por los constructores. En este contexto se refiriere al __<u>rechazo</u>__ de Israel hacia el Mesías. 1 Pedro 2:7;  Juan 1:11; 10:22-25, 31-33
+###  1 Pedro 2:4c "*...desechada por los hombres...*" Esta piedra viva, escogida por Dios, fue desaprobada y repudiada por los constructores. En este contexto se refiriere al __<u>rechazo</u>__ de Israel hacia el Mesías. 1 Pedro 2:7;  Juan 1:11; 10:22-25, 31-33
 
 #### Este verbo "*desechar*" se encuentra en tiempo __<u>perfecto</u>__, participio, dándonos a entender que actualmente lo sigue siendo desechada continuamente en el presente.
 
-###  1 Pedro 2:4d *"...pero escogida y preciosa delante de Dios..."* Esta piedra valiosa fue escogida por Dios __<u>mismo</u>__ con un propósito especial. 1 Pedro 1:20; 2 Timoteo 1:9; Tito 1:2 
+###  1 Pedro 2:4d "*...pero escogida y preciosa delante de Dios...*" Esta piedra valiosa fue escogida por Dios __<u>mismo</u>__ con un propósito especial. 1 Pedro 1:20; 2 Timoteo 1:9; Tito 1:2 
 
 #### Vemos un contraste, ante Dios es preciosa esta __<u>piedra</u>__, ante los hombres es desechada y reprobada.
 
 ###  Creyentes como piedras vivas, forman parte en la edificación de una __<u>casa</u>__ espiritual, un sacerdocio santo, mostrando un propósito vivo para Dios.
 
-###  1 Pedro 2:5a *"...también ustedes, como piedras vivas..."* Considerando el __<u>ejemplo</u>__ de Él (Cristo) como piedra viva, también ustedes los creyentes sean piedras vivas utilizadas para un propósito.1 Corintios 3:9
+###  1 Pedro 2:5a "*...también ustedes, como piedras vivas...*" Considerando el __<u>ejemplo</u>__ de Él (Cristo) como piedra viva, también ustedes los creyentes sean piedras vivas utilizadas para un propósito.1 Corintios 3:9
 
-###  1 Pedro 2:5b *"...sean edificados como casa espiritual..."* El __<u>ser</u>__ edificados como casa, muestra el propósito en la construcción de la obra que Dios esta realizando. Dios esta construyento una casa espiritual, y los creyentes ahora son parte de la obra como piedras vivas.
+###  1 Pedro 2:5b "*...sean edificados como casa espiritual...*" El __<u>ser</u>__ edificados como casa, muestra el propósito en la construcción de la obra que Dios esta realizando. Dios esta construyento una casa espiritual, y los creyentes ahora son parte de la obra como piedras vivas.
 
-#### La Biblia Textual lo traduce de la siguiente manera, afirmando que los creyentes ya forman parte de la edificación.  *"vosotros también sois edificados como piedras vivientes, __<u>casa</u>__ espiritual..."* 
+#### La Biblia Textual lo traduce de la siguiente manera, afirmando que los creyentes ya forman parte de la edificación.  *"vosotros también sois edificados como piedras vivientes, __<u>casa</u>__ espiritual...*" 
 
 #### La palabra "*sean edificados*" OIKODOMEO se encuentra en tiempo presente, pasivo indicativo, mostrando que la acción no es realizada por el creyente. Es otro el que __<u>realiza</u>__ la acción al creyente de ser edificados.
 
-###  1 Pedro 2:5c *"...para un sacerdocio santo..."* Dentro del contexto de creyentes judíos al que Pedro exponía esta carta, el sacerdocio era un __<u>rol</u>__ dentro de Israel muy importante que los creyentes judíos conocían. Éxodo 29:9 
+###  1 Pedro 2:5c "*...para un sacerdocio santo...*" Dentro del contexto de creyentes judíos al que Pedro exponía esta carta, el sacerdocio era un __<u>rol</u>__ dentro de Israel muy importante que los creyentes judíos conocían. Éxodo 29:9 
 
 #### Los sacerdotes terrenales de __<u>Israel</u>__ no eran santos, es por eso que ellos necesitaban ofrecer sacrificios primeramente por sus pecados y luego por el pueblo. Hebreos 7:27
 
 #### Ahora los creyentes tienen un nuevo propósito como sacerdotes __<u>santos</u>__, consagrados para Dios, aptos para el servicio que Dios les otorgó. Apocalipsis 1:6, 5:10 
 
-###  1 Pedro 2:5d *"...para ofrecer sacrificios espirituales aceptables a Dios...* Un sacerdote de Israel realizaba sacrificios de animales según lo establecido por la ley, ahora los creyentes ya han sido purificados por __<u>medio</u>__ de la sangre de Jesucristo, para ofrecer sacrificios vivos. Levítico 17
+###  1 Pedro 2:5d "*...para ofrecer sacrificios espirituales aceptables a Dios...* Un sacerdote de Israel realizaba sacrificios de animales según lo establecido por la ley, ahora los creyentes ya han sido purificados por __<u>medio</u>__ de la sangre de Jesucristo, para ofrecer sacrificios vivos. Levítico 17
 
 #### La palabra "*ofrecer*" ANAFERO se encuentra en tiempo aoristo, activo, infinitivo, instruyendo a los creyentes (sacerdotes santos) el realizar de manera continua sacrificios espirituales que __<u>sean</u>__ agradables a Dios.
 
 ####  ¿Qué es un sacrificio espiritual? En los sacrificios del antiguo testamento se realizaban sacrificios de animales __<u>muertos</u>__, sin embargo ahora en el nuevo testamento podemos ver sacrificios vivos, sacrificios espirituales aceptables a Dios. Hebreos 13:15; Efesios 5:2; Romanos 15:16 
 
-### 1 Pedro 2:5d *"...por medio de Jesucristo..."* Para que un sacrifico sea aceptable a Dios, nos muestra el medio por el cual los creyentes pueden ofrecerse como sacrificios vivos aceptables a Dios. El único medio para que sea aceptable __<u>es</u>__ Jesucristo.
+### 1 Pedro 2:5d "*...por medio de Jesucristo...*" Para que un sacrifico sea aceptable a Dios, nos muestra el medio por el cual los creyentes pueden ofrecerse como sacrificios vivos aceptables a Dios. El único medio para que sea aceptable __<u>es</u>__ Jesucristo.
 
 #### Cristo es el la ofrenda escogida de Dios. De la manera que fue aceptada la ofrenda de Jesucristo, ahora los creyentes __<u>nos</u>__ acercamos y ofrecemos sacrificios por medio de Él. Hebreos 9:11-14, 10:10-14, 13:5; Romanos 12:1
 
-###  1 Pedro 2:6a *"...Pues esto se encuentra en la Escritura..."* El apostol Pedro mostrará y explicará estos pasajes que se encuentran __<u>dentro</u>__ de La Escritura en el profeta Isaías referentes a Cristo. Isaías 28:16
+###  1 Pedro 2:6a "*...Pues esto se encuentra en la Escritura...*" El apostol Pedro mostrará y explicará estos pasajes que se encuentran __<u>dentro</u>__ de La Escritura en el profeta Isaías referentes a Cristo. Isaías 28:16
 
-### 1 Pedro 2:6b *"...«YO, PONGO EN SIÓN UNA PIEDRA ESCOGIDA, UNA PRECIOSA piedra ANGULAR..."* Este pasaje nos mostrará el propósito que Dios escogió esta piedra anunciada por medio de los __<u>profetas</u>__, algo totalmente precioso a la vista de Dios.
+### 1 Pedro 2:6b "*...«YO, PONGO EN SIÓN UNA PIEDRA ESCOGIDA, UNA PRECIOSA piedra ANGULAR...*" Este pasaje nos mostrará el propósito que Dios escogió esta piedra anunciada por medio de los __<u>profetas</u>__, algo totalmente precioso a la vista de Dios.
 
 #### Esta piedra (Cristo), es una preciosa piedra angular, en la construcción de edificaciones la piedra angular era la pieza más importante del edificio el edificio empezaba y terminaba en esta piedra angular, __<u>eran</u>__ una piedra dificultosas de conseguir, debido a que tenía que ser en un ángulo recto y preciso.
 
-### 1 Pedro 2:6c *"...Y EL QUE CREA EN ÉL NO SERÁ AVERGONZADO»"* En este pasaje nos aclarará quien es la piedra escogida y su propósito. Nos habla de creer, específicamente en Él, Jesús la piedra escogida y __<u>angular</u>__. 
+### 1 Pedro 2:6c "*...Y EL QUE CREA EN ÉL NO SERÁ AVERGONZADO»"* En este pasaje nos aclarará quien es la piedra escogida y su propósito. Nos habla de creer, específicamente en Él, Jesús la piedra escogida y __<u>angular</u>__. 
 
 #### El verbo crea PISTEUO se encuentra en tiempo presente, activo, participio, indicando la acción continua en tiempo __<u>presente</u>__.
 
 #### ¿Por que sería __<u>causa</u>__ de vergüenza creer en esta piedra? Muchas veces en La Escritura vemos como el evangelio no es causa de vergüenza. Pedro anima a los creyentes a no sentirse avergonzados por creer en Él. Romanos 1:16; Hebreos 12:2; 1 Corintios 1:18
 
-###  1 Pedro 2:7a *"Este precioso valor es, pues, para ustedes los que creen..."* Nos muestra que los creyentes realmente aprecian el __<u>valor</u>__ de esta piedra escogida preparada para un propósito planificado por Dios.
+###  1 Pedro 2:7a *"Este precioso valor es, pues, para ustedes los que creen...*" Nos muestra que los creyentes realmente aprecian el __<u>valor</u>__ de esta piedra escogida preparada para un propósito planificado por Dios.
 
 #### Cristo es el único medio por el cual el Padre __<u>realiza</u>__ Su obra.
 
 #### __<u>Cristo</u>__ es el único medio por el cual podemos ofrecer sacrificios de una nueva manera en nuestra nueva realidad para el Padre. Solo los creyentes son provisto de esta bendición.
 
-### 1 Pedro 2:7b  *"...pero para los que no creen, «LA PIEDRA QUE DESECHARON LOS CONSTRUCTORES, ESA, EN PIEDRA ANGULAR SE HA CONVERTIDO»..."* Nos mostrará el __<u>valor</u>__ incomparable que rechazaron los que no creen.
+### 1 Pedro 2:7b  "*...pero para los que no creen, «LA PIEDRA QUE DESECHARON LOS CONSTRUCTORES, ESA, EN PIEDRA ANGULAR SE HA CONVERTIDO»...*" Nos mostrará el __<u>valor</u>__ incomparable que rechazaron los que no creen.
 
 #### Los constructores que lo rechazaron, no entendieron el propósito de esta piedra angular que venía de Israel para salvación a todo el __<u>mundo</u>__. Ellos rechazaron la piedra más importante de la obra de Dios. Juan 1:11-12; Romanos 1:16
 
-###  1 Pedro 2:8a *"...y, «PIEDRA DE TROPIEZO Y ROCA DE ESCÁNDALO»...."* Para los que lo rechazaron esta __<u>piedra</u>__ simplemente significaba tropiezo, y escándalo para los que lo anunciaban, sin embargo ya estaba profetizado este rechazo de su pueblo. Isaías 8:14; 1 Corintios 1:23
+###  1 Pedro 2:8a "*...y, «PIEDRA DE TROPIEZO Y ROCA DE ESCÁNDALO»....*" Para los que lo rechazaron esta __<u>piedra</u>__ simplemente significaba tropiezo, y escándalo para los que lo anunciaban, sin embargo ya estaba profetizado este rechazo de su pueblo. Isaías 8:14; 1 Corintios 1:23
 
-###  1 Pedro 2:8b *"...Pues ellos tropiezan porque son desobedientes a la palabra..."* El apóstol Pedro explica el motivo de tropiezo. Los que profesaban estar en completo acuerdo con La Palabra, __<u>actuaron</u>__ en completa desobediencia a Las Escrituras con lo que Dios había prometido. Las Escrituras apuntaban a Cristo y ellos lo rechazaron. Juan 5:39; Lucas 2:34  
+###  1 Pedro 2:8b "*...Pues ellos tropiezan porque son desobedientes a la palabra...*" El apóstol Pedro explica el motivo de tropiezo. Los que profesaban estar en completo acuerdo con La Palabra, __<u>actuaron</u>__ en completa desobediencia a Las Escrituras con lo que Dios había prometido. Las Escrituras apuntaban a Cristo y ellos lo rechazaron. Juan 5:39; Lucas 2:34  
 
 #### En la carta de Romanos nos muestra que tropezaron con la piedra por no ir tras ella por __<u>fe</u>__. Romanos 9:32-33, 10:11
 
-### 1 Pedro 2:8c *"...y para ello estaban también destinados..."* Es importante __<u>aclarar</u>__ este pasaje. Debido a que Dios no esta destinando para perdición o para salvación a las personas, sino muestra el destino de los que lo rechazan, estos son los que tropiezan y caen. 
+### 1 Pedro 2:8c "*...y para ello estaban también destinados...*" Es importante __<u>aclarar</u>__ este pasaje. Debido a que Dios no esta destinando para perdición o para salvación a las personas, sino muestra el destino de los que lo rechazan, estos son los que tropiezan y caen. 
 
 #### En la carta de Romanos nos muestra vasos preparados para la destrucción. Sin embargo, en este __<u>pasaje</u>__ no nos habla referente a la salvación o perdición de estos vasos. Nos habla de como Dios puede usar a Faraón para cumplir sus propósitos. Romanos 9:17-22
 
-## 1 Pedro 2:9-10 La nueva realidad de los creyentes
+## 1 Pedro 2:9-10 La acción -  como real sacerdocio, nación santa
 
 ### En estos pasajes nos mostrará cual es la relación de los creyentes para __<u>con</u>__ Dios y cual es el propósito de los creyentes hacia el mundo.
 
-###  1 Pedro 2:9a *"Pero ustedes son linaje escogido..."* La condición del creyente nos muestra que ahora es parte del un linaje escogido de Dios, forman ahora parte de la __<u>familia</u>__ de Dios.
+###  1 Pedro 2:9a *"Pero ustedes son linaje escogido...*" La condición del creyente nos muestra que ahora es parte del un linaje escogido de Dios, forman ahora parte de la __<u>familia</u>__ de Dios.
 
-#### La palabra "*escogido*" EKLEKTOS es un sustantivo __<u>que</u>__ nos muestra su nueva identidad del creyente para con Dios. 
+#### La palabra "*escogido...*" EKLEKTOS es un sustantivo no habla de una acción. Cabe aclarar que este pasaje no habla de ser linaje escogido para salvación, sino está mostrando un propósito que tiene __<u>para</u>__ los creyentes.  El propósito es anunciar las virtudes de Aquel. 1 Pedro 2:9
 
-#### Cabe aclarar que este pasaje no habla de como ser salvo, o como Dios escoge para salvación, sino está mostrando un propósito que tiene __<u>para</u>__ los creyentes.  El propósito es anunciar las virtudes de Aquel. 
+##### En el __<u>Antiguo</u>__ Testamento vemos que Dios escoge una persona y una nación para anunciar al mundo la verdad. Génesis 12:1-3; Deuteronomio 7:6-8; Isaías 49:6; Hechos 13:46-47
 
-#### En el __<u>Antiguo</u>__ Testamento vemos que Dios escoge una Persona y una nación para anunciar al mundo la verdad. Génesis 12:1-3; Deuteronomio 7:6-8; Isaías 49:6; Hechos 13:46-47
-
-###  1 Pedro 2:9b *"...real sacerdocio,..."* En el Antiguo Testamento observamos los sacerdotes terrenales de Dios como ministros de __<u>Dios</u>__. Isaías 61:6, 66:21
+###  1 Pedro 2:9b "*...real sacerdocio...*" En el Antiguo Testamento observamos los sacerdotes terrenales de Dios como ministros de __<u>Dios</u>__. Isaías 61:6, 66:21
 
 #### Sin embargo ahora los creyentes son llamados a ministrar y reinar con Cristo. Nos muestra un sacerdocio real ó sacerdocio __<u>del</u>__ Rey.
 
 #### El rol de __<u>estos</u>__ sacerdotes (creyentes) es el de ofrecer sacrificios espirituales agradables a Dios. 1 Pedro 2:5
 
-###  1 Pedro 2:9c *"...nación santa..."* Como creyentes fuimos incluidos en el pueblo de Dios, y ahora formamos parte de la nación santa, una __<u>nación</u>__ celestial.
+###  1 Pedro 2:9c "*...nación santa...*" Como creyentes fuimos incluidos en el pueblo de Dios, y ahora formamos parte de la nación santa, una __<u>nación</u>__ celestial.
 
 #### Dios en el Antiguo Testamento __<u>escogió</u>__ a una persona (Abraham) para hacer de su descendencia una nación terrenal la cual es Israel, los cuales serían una nación santa **si** (condicionalmente) oían Su voz y guardaban Su pacto. Éxodo 19:6
 
 #### Podemos ver donde estaba puesta la __<u>fe</u>__ de Abraham cuando esperaba una ciudad estando en la tierra prometida. Hebreos 11:8-10
 
-### 1 Pedro 2:9d *"...pueblo adquirido para posesión de Dios..."* La adquisición de este pueblo fue hecha con un gran valor, por precio __<u>fuimos</u>__ rescatados. 1 Corintios 7:23; Efesios 1:7; 1 Pedro 1:18 
+### 1 Pedro 2:9d "*...pueblo adquirido para posesión de Dios...*" La adquisición de este pueblo fue hecha con un gran valor, por precio __<u>fuimos</u>__ rescatados y ahora pertenece a Dios. 1 Corintios 7:23; Efesios 1:7; 1 Pedro 1:18 
 
 #### Ahora como un pueblo adquirido de Dios __<u>cada</u>__ creyente viene a ser completamente posesión de Él. Nos mostrará cuál es el propósito que tenía para rescatarnos. 1 Timoteo 2:4
 
-###  1 Pedro 2:9e *"...a fin de que anuncien las virtudes de Aquel..."* Nos mostrará el propósito para este pueblo adquirido con gran valor.  El propósito __<u>para</u>__ los creyentes es el de anunciar las virtudes de Aquel (Dios).
+###  1 Pedro 2:9e "*...a fin de que anuncien las virtudes de Aquel...*" Nos mostrará el propósito para este pueblo adquirido con gran valor.  El propósito __<u>para</u>__ los creyentes es el de anunciar las virtudes de Aquel (Dios).
 
 #### En el Antiguo Testamento vemos a Dios glorificarse por __<u>medio</u>__ de que lo conocen a Él. Dios usó a Faraón para mostrar Su poder y revelar al Dios de Israel. Éxodo 14:4,17-18; Isaías 26:15, 44.23, 55:5, 60:9; Hageo 1:8
 
@@ -902,22 +895,22 @@ Real Sacerdocio
 
 #### Ahora los creyentes como nación santa pueden mostrar las virtudes de Dios. Su misericordia, gracia y Justicia, son vistas por medio del evangelio a __<u>todas</u>__ las personas. 2 Corintios 5:20; 1 Timoteo 1:16
 
-###  1 Pedro 2:9f *"...que los llamó de las tinieblas a Su luz admirable."* Los creyentes respondimos al llamado del evangelio por medio de creer en esta buena noticia. Este llamamiento es para todas las personas en el __<u>mundo</u>__. 1 Juan 2:2, 4:14; Juan 4:42; 11:51-52
+###  1 Pedro 2:9f "*...que los llamó de las tinieblas a Su luz admirable."* Los creyentes respondimos al llamado del evangelio por medio de creer en esta buena noticia. Este llamamiento es para todas las personas en el __<u>mundo</u>__. 1 Juan 2:2, 4:14; Juan 4:42; 11:51-52
 
 ####  El propósito del llamamiento es el de rescatar a las personas de las tinieblas en las que se encuentran a su luz admirable de la muerte en sus delitos y pecados a la __<u>vida</u>__ que hay en Cristo. Efesios 2:1-7; 2 Timoteo 1:9; 2 Tesalonicenses 2:14; Romanos 8:28, 11:29
 
 #### Es importante recordar __<u>que</u>__ fuimos llamados cuando éramos y andábamos en completa oscuridad, en completa impiedad, y continuamente recordar y anunciar las virtudes de Aquel que nos salvó por Su gracia y misericordia.
 
-###  1 Pedro 2:10a *"Ustedes en otro tiempo no eran pueblo, pero ahora son el pueblo de Dios..."* Nosotros podemos recordar nuestra antigua __<u>manera</u>__ de vivir en la cual no éramos pueblo de Dios, y estábamos alejados de la verdad. Efesios 2:12-13
+###  1 Pedro 2:10a *"Ustedes en otro tiempo no eran pueblo, pero ahora son el pueblo de Dios...*" Nosotros podemos recordar nuestra antigua __<u>manera</u>__ de vivir en la cual no éramos pueblo de Dios, y estábamos alejados de la verdad. Efesios 2:12-13
 
 #### Ahora podemos entender el incalculable valor de ser pueblo de Dios. Un pueblo santo, que anuncia las virtudes de Su gracia y misericordia a __<u>toda</u>__ criatura, llevando el mensaje de su gracia en nuestras vidas.
 
-###  1 Pedro 2:10b *"...no habían recibido misericordia, pero ahora han recibido misericordia..."* Cuando éramos extraños a los pactos, ajenos a la ciudadanía de Dios, nos encontrábamos en nuestros __<u>delitos</u>__ y pecados, no habíamos recibido la misericordia, sin embargo ahora hemos recibido misericordia y perdón  de aquel que nos llamó y nos rescató. Romanos 9:25; 10:19
+###  1 Pedro 2:10b "*...no habían recibido misericordia, pero ahora han recibido misericordia...*" Cuando éramos extraños a los pactos, ajenos a la ciudadanía de Dios, nos encontrábamos en nuestros __<u>delitos</u>__ y pecados, no habíamos recibido la misericordia, sin embargo ahora hemos recibido misericordia y perdón  de aquel que nos llamó y nos rescató. Romanos 9:25; 10:19
 #### Este pasaje se cita al profeta Oseas, en el cual se anuncia a Dios teniendo compasión de un __<u>pueblo</u>__ que no era su pueblo. Oseas 2:23
 
-## 1 Pedro 2:11-12 Instrucciones para los amados y su conducta hacia los gentiles
+## 1 Pedro 2:11-12 La acción -  conducta hacia los gentiles
 
-###  1 Pedro 2:11a *"Amados, les ruego como a extranjeros y peregrinos..."* El apóstol Pedro llamará amados a los creyentes. Somos amados por __<u>causa</u>__ de Su hijo, estamos revestidos de Cristo. Gálatas 3:27
+###  1 Pedro 2:11a *"Amados, les ruego como a extranjeros y peregrinos...*" El apóstol Pedro llamará amados a los creyentes. Somos amados por __<u>causa</u>__ de Su hijo, estamos revestidos de Cristo. Gálatas 3:27
 
 #### Muestra el valor incalculable de ser ahora pueblo de Dios, como nación santa, escogida por Dios. ¡Qué impresionante es ser el __<u>pueblo</u>__ de Dios y manifestarse al mundo como lo que ya somos, una expresión pública de Dios!
 
@@ -925,7 +918,7 @@ Real Sacerdocio
 
 #### Considerando nuestra nueva ciudadanía, linaje y sacerdocio, el apóstol Pedro inicia con una rogativa hacia los creyentes como si hablase a extranjeros y peregrinos __<u>sobre</u>__ la tierra. Efesios 2:19; Hebreos 11:13
 
-###  1 Pedro 2:11b *"...que se abstengan de las pasiones carnales que combaten contra el alma."* Las pasiones carnales continuamente combaten con el alma del creyente. El deseo es que se abstengan de __<u>estas</u>__ pasiones. Santiago 4:1
+###  1 Pedro 2:11b "*...que se abstengan de las pasiones carnales que combaten contra el alma."* Las pasiones carnales continuamente combaten con el alma del creyente. El deseo es que se abstengan de __<u>estas</u>__ pasiones. Santiago 4:1
 
 #### El verbo abstengan APEJOMAI se encuentra en tiempo presente, voz medio, __<u>modo</u>__ infinitivo, dándonos a entender una continuidad en tiempo presente la cual el creyente realiza en beneficio suyo.
 
@@ -933,13 +926,13 @@ Real Sacerdocio
 
 #### En la carta a los Efesios nos muestra que el creyente tiene dos maneras de poder __<u>andar</u>__, una por el Espíritu y otra por la carne. Gálatas 5:16-17
 
-###  1 Pedro 2:12a *"Mantengan entre los gentiles una conducta irreprochable..."* Ahora vemos instrucciones claras a los creyentes con respeto a su conducta hacia los incrédulos. Veremos el provecho de un __<u>andar</u>__ piadoso.  Filipenses 2:15; Tito 2:8
+###  1 Pedro 2:12a *"Mantengan entre los gentiles una conducta irreprochable...*" Ahora vemos instrucciones claras a los creyentes con respeto a su conducta hacia los incrédulos. Veremos el provecho de un __<u>andar</u>__ piadoso.  Filipenses 2:15; Tito 2:8
 
 #### Estas instrucciones prácticas serán visibles entre los gentiles, en una conducta sin __<u>motivo</u>__ de reproche. Esto será un andar continuo considerando su nueva identidad en El Amado. 
 
-###  1 Pedro 2:12b *"...a fin de que en aquello que les calumnian como malhechores..."* Habrá algunas personas que calumniarán o difamarán a los creyentes como a malhechores o criminales por su __<u>conducta</u>__ piadosa y sencilla entre los gentiles. Hechos 28:22; 2 Timoteo 3:12
+###  1 Pedro 2:12b "*...a fin de que en aquello que les calumnian como malhechores...*" Habrá algunas personas que calumniarán o difamarán a los creyentes como a malhechores o criminales por su __<u>conducta</u>__ piadosa y sencilla entre los gentiles. Hechos 28:22; 2 Timoteo 3:12
 
-###  1 Pedro 2:12c *"...ellos, por razón de las buenas obras de ustedes, al considerarlas, glorifiquen a Dios en el día de la visitación."* Estas personas que los calumnian verán las buenas __<u>obras</u>__ de los creyentes y al considerarlas glorificarán a Dios. Mateo 5:16, 9:8
+###  1 Pedro 2:12c "*...ellos, por razón de las buenas obras de ustedes, al considerarlas, glorifiquen a Dios en el día de la visitación."* Estas personas que los calumnian verán las buenas __<u>obras</u>__ de los creyentes y al considerarlas glorificarán a Dios. Mateo 5:16, 9:8
 
 #### Este versículo nos muestra de manera práctica el __<u>resultado</u>__ de la piedad hacia los incrédulos y glorifican a Dios debido a las buenas acciones de los creyentes.
 
@@ -947,146 +940,144 @@ Real Sacerdocio
 
 ## 1 Pedro 2:13-15 Un motivo por el cual someterse   
 
-###  1 Pedro 2:13a  *"Sométanse, por causa del Señor, a toda institución humana..."* Esta instrucción a los __<u>creyentes</u>__ nos mostrará una sujeción voluntaria a toda autoridad, por un motivo, por causa del Señor.
+###  1 Pedro 2:13a  *"Sométanse, por causa del Señor, a toda institución humana...*" Esta instrucción a los __<u>creyentes</u>__ nos mostrará una sujeción voluntaria a toda autoridad, por un motivo, por causa del Señor.
 
 #### La palabra "*sométanse*" JUPOTASSO se encuentra en tiempo aoristo, pasivo, imperativo, dándonos a entender esta orden hecha en un punto pasado del tiempo. La voz pasiva nos muestra que otro es el que realiza la __<u>acción</u>__ de someterse.
 
 #### El creyente se __<u>sujeta</u>__ a la causa de Dios y el resultado será que Dios hará al creyente sujeto a toda institución humana. Este sometimiento no obliga a los creyentes a realizar algo que no este de acuerdo con la verdad o a la ley de Dios. Hechos 5:28-29
 
-###  1 Pedro 2:13b *"...ya sea al rey como autoridad,"* Pondrá como ejemplo al Rey. En el contexto en que había reyes tiranos y corruptos, entendemos que Dios instituyó el gobierno humano y la justicia humana. Mostrará a los reyes como ministros dados __<u>por</u>__ Dios.
+###  1 Pedro 2:13b "*...ya sea al rey como autoridad,"* Pondrá como ejemplo al Rey. En el contexto en que había reyes tiranos y corruptos, entendemos que Dios instituyó el gobierno humano y la justicia humana. Mostrará a los reyes como ministros dados __<u>por</u>__ Dios.
 
 #### Cada creyente voluntariamente debe someterse a Dios, debido a que es bueno. Sus mandamientos son justos y buenos, sin embargo __<u>ningún</u>__ creyente estaría dispuesto a someterse a un rey corrupto o tirano.  Aquí les mostrará un propósito mucho mayor, por causa del Señor, es necesario someternos al rey como autoridad.
 
-###  1 Pedro 2:14a *"o a los gobernadores como enviados por él para castigo de los malhechores..."* Aquí muestra una perspectiva dada por Dios. Los gobernadores __<u>son</u>__ servidores de Dios, con el fin de castigar a los malos. Romanos 13:4
+###  1 Pedro 2:14a *"o a los gobernadores como enviados por él para castigo de los malhechores...*" Aquí muestra una perspectiva dada por Dios. Los gobernadores __<u>son</u>__ servidores de Dios, con el fin de castigar a los malos. Romanos 13:4
 
-###  1 Pedro 2:14b *"...y alabanza de los que hacen el bien."* El __<u>fin</u>__ de los gobernadores es alabar a los que hacen el bien. Esto es a lo que anima a los creyentes. Romanos 13:3
+###  1 Pedro 2:14b "*...y alabanza de los que hacen el bien."* El __<u>fin</u>__ de los gobernadores es alabar a los que hacen el bien. Esto es a lo que anima a los creyentes. Romanos 13:3
 
 #### También les instruyó para alabanza de los que hacen lo __<u>bueno</u>__ a las autoridades humanas. Esto es algo a que los creyentes apuntan.
 
 #### Podemos ver en este pasaje la voluntad de Dios. El deseo de __<u>Dios</u>__ es que hagan lo bueno. Los creyentes haciendo lo bueno, cierren la boca de los hombres necios.
 
-###  1 Pedro 2:15a *"Porque esta es la voluntad de Dios:..."* Vemos en este pasaje algo muy importante, La voluntad de Dios. ¿˘Qué es lo que Dios quiere para sus __<u>hijos</u>__? 1 Pedro 3:17
+###  1 Pedro 2:15a *"Porque esta es la voluntad de Dios:...*" Vemos en este pasaje algo muy importante, La voluntad de Dios. ¿˘Qué es lo que Dios quiere para sus __<u>hijos</u>__? 1 Pedro 3:17
 
-###  1 Pedro 2:15b *"...que haciendo bien, ustedes hagan enmudecer la ignorancia de los hombres insensatos."* La voluntad de Dios es __<u>haciendo</u>__ lo bueno, los creyentes, hagan callar a los que los calumnian. 1 Pedro 2:12
+###  1 Pedro 2:15b "*...que haciendo bien, ustedes hagan enmudecer la ignorancia de los hombres insensatos."* La voluntad de Dios es __<u>haciendo</u>__ lo bueno, los creyentes, hagan callar a los que los calumnian. 1 Pedro 2:12
 
 # 1 Pedro 2:16-17 - Andar en Libertad del creyente
 
-###  1 Pedro 2:16a  *"Anden como libres..."* El andar del creyente es en completa libertad. La libertad que el creyente tiene no es para pecar o para la impiedad, sino que esta completa libertad es para poder ser siervos de Dios. En nuestra antigua manera de __<u>vivir</u>__ éramos siervos de la naturaleza pecaminosa. Ahora somos siervos de Justicia. Juan 8:32; Santiago 1:25
+###  1 Pedro 2:16a  *"Anden como libres...*" El andar del creyente es en completa libertad. La libertad que el creyente tiene no es para pecar o para la impiedad, sino que esta completa libertad es para poder ser siervos de Dios. En nuestra antigua manera de __<u>vivir</u>__ éramos siervos de la naturaleza pecaminosa. Ahora somos siervos de Justicia. Juan 8:32; Santiago 1:25
 
-###  1 Pedro 2:16b *"...pero no usen la libertad como pretexto para la maldad..."* Un mal uso de la libertad seria pensar que como ahora somos libres y perdonados __<u>todos</u>__ nuestros pecados, no importa como viviremos. ¿Pecaremos para que la gracia abunde? De ninguna manera. Romanos 6:1-2 
+###  1 Pedro 2:16b "*...pero no usen la libertad como pretexto para la maldad...*" Un mal uso de la libertad seria pensar que como ahora somos libres y perdonados __<u>todos</u>__ nuestros pecados, no importa como viviremos. ¿Pecaremos para que la gracia abunde? De ninguna manera. Romanos 6:1-2 
 
-###  1 Pedro 2:16c *"...sino empléenla como siervos de Dios..."* El propósito de la libertad es para ser siervos de Dios. La libertad es para poder servirle __<u>por</u>__ completo. Romanos 6:18-22; Gálatas 5:13
+###  1 Pedro 2:16c "*...sino empléenla como siervos de Dios...*" El propósito de la libertad es para ser siervos de Dios. La libertad es para poder servirle __<u>por</u>__ completo. Romanos 6:18-22; Gálatas 5:13
 
-###  1 Pedro 2:17a *"Honren a todos..."* La honra hacia todas las personas es tener un alto valor de respeto. Una forma de honrar a las autoridades es __<u>pagar</u>__ los impuestos ordenados y pagar a todos lo que se debe. Romanos 13:7
+###  1 Pedro 2:17a *"Honren a todos...*" La honra hacia todas las personas es tener un alto valor de respeto. Una forma de honrar a las autoridades es __<u>pagar</u>__ los impuestos ordenados y pagar a todos lo que se debe. Romanos 13:7
 
-###  1 Pedro 2:17b *"...amen a los hermanos..."* Es muy importante el __<u>amor</u>__ AGAPAO hacia los hermanos. Un mismo sentir de amor, entre los que forman parte del un cuerpo, lavados y santificados en Cristo.1 Pedro 1:22
+###  1 Pedro 2:17b "*...amen a los hermanos...*" Es muy importante el __<u>amor</u>__ AGAPAO hacia los hermanos. Un mismo sentir de amor, entre los que forman parte del un cuerpo, lavados y santificados en Cristo.1 Pedro 1:22
 
-###  1 Pedro 2:17c *"...teman a Dios..."* El temor a __<u>Dios</u>__ es el principio de la sabiduría. Es un temor reverente, un temor sano, sabiendo que Él es juez de los vivos y los muertos.
+###  1 Pedro 2:17c "*...teman a Dios...*" El temor a __<u>Dios</u>__ es el principio de la sabiduría. Es un temor reverente, un temor sano, sabiendo que Él es juez de los vivos y los muertos.
 
-### 1 Pedro 2:17d *"...honren al rey...."* Menciona un dato importante dedicado a la honra hacia el rey o emperador. En nuestro contexto seria hacia quien esta gobernando __<u>nuestros</u>__ país, sea rey o gobernante. El merece honra la cual fue dada por Dios. Proverbios 24:21; Mateo 22:21; 1 Pedro 2:13
+### 1 Pedro 2:17d "*...honren al rey....*" Menciona un dato importante dedicado a la honra hacia el rey o emperador. En nuestro contexto seria hacia quien esta gobernando __<u>nuestros</u>__ país, sea rey o gobernante. El merece honra la cual fue dada por Dios. Proverbios 24:21; Mateo 22:21; 1 Pedro 2:13
 
 ## 1 Pedro 2:18-25 Aprendiendo de los siervos
 
-### 1 Pedro 2:18a *"Siervos..."* Ahora mencionará un __<u>grupo</u>__ especial llamados siervos. En nuestro contexto, podemos ver que son trabajadores o empleados. Efesios 6:5
+### 1 Pedro 2:18a *"Siervos...*" Ahora mencionará un __<u>grupo</u>__ especial llamados siervos. En nuestro contexto, podemos ver que son trabajadores o empleados. Efesios 6:5
 
-###  1 Pedro 2:18b *"...estén sujetos a sus amos con todo respeto..."* La sujeción se encuentra en voz pasiva, dándonos a entender que alguien es el que __<u>realiza</u>__ la acción por el creyente.
+###  1 Pedro 2:18b "*...estén sujetos a sus amos con todo respeto...*" La sujeción se encuentra en voz pasiva, dándonos a entender que alguien es el que __<u>realiza</u>__ la acción por el creyente.
 
 #### Los creyentes empleados deben estar en completa sujeción a sus empleadores, mostrando completo __<u>respeto</u>__ por la posición que Dios les dio.
 
-###  1 Pedro 2:18c *"...no solo a los que son buenos y afables, sino también a los que son insoportables."* Una actitud de respeto y sujeción no es solo a los que son buenos, sino a los que son __<u>perversos</u>__ o irrazonables.
+###  1 Pedro 2:18c "*...no solo a los que son buenos y afables, sino también a los que son insoportables."* Una actitud de respeto y sujeción no es solo a los que son buenos, sino a los que son __<u>perversos</u>__ o irrazonables.
 
-###  1 Pedro 2:19a *"Porque esto halla gracia..."* Nos mostrará que en esto el creyente halla gracia ante Dios. En el respeto hacia los amos o jefes donde un creyente se encuentra trabajando. Esto es algo contrario a lo que el mundo apunta, sin embargo vemos a un creyente con una __<u>actitud</u>__ humilde, respetuoso en el trabajo y sumiso a sus amos. Esto halla gracia ante Dios.
+###  1 Pedro 2:19a *"Porque esto halla gracia...*" Nos mostrará que en esto el creyente halla gracia ante Dios. En el respeto hacia los amos o jefes donde un creyente se encuentra trabajando. Esto es algo contrario a lo que el mundo apunta, sin embargo vemos a un creyente con una __<u>actitud</u>__ humilde, respetuoso en el trabajo y sumiso a sus amos. Esto halla gracia ante Dios.
 
-###  1 Pedro 2:19b *"...si por causa de la conciencia ante Dios..."* Causará una buena conciencia del creyente ante Dios, sabiendo que hizo lo __<u>bueno</u>__ y se sujetó por la fe a lo que Dios dijo. Romanos 13:5; 1 Pedro 3:17
+###  1 Pedro 2:19b "*...si por causa de la conciencia ante Dios...*" Causará una buena conciencia del creyente ante Dios, sabiendo que hizo lo __<u>bueno</u>__ y se sujetó por la fe a lo que Dios dijo. Romanos 13:5; 1 Pedro 3:17
 
-###  1 Pedro 2:19c *"...alguien sobrelleva penalidades sufriendo injustamente."* Alguien que sobrelleva sufrimiento injusto, nos mostrará un sufrimiento no merecido por hacer lo bueno específicamente, sabiendo que Dios puede ver las acciones de cada __<u>uno</u>__.
+###  1 Pedro 2:19c "*...alguien sobrelleva penalidades sufriendo injustamente."* Alguien que sobrelleva sufrimiento injusto, nos mostrará un sufrimiento no merecido por hacer lo bueno específicamente, sabiendo que Dios puede ver las acciones de cada __<u>uno</u>__.
 
-###  1 Pedro 2:20a *"Pues ¿qué mérito hay, si cuando ustedes pecan y son tratados con severidad lo soportan con paciencia?..."* Nos mostrará que no hay ningún mérito de recibir el castigo merecido, si alguien peca y es tratado con severidad, __<u>espera</u>__ pacientemente.
+###  1 Pedro 2:20a *"Pues ¿qué mérito hay, si cuando ustedes pecan y son tratados con severidad lo soportan con paciencia?...*" Nos mostrará que no hay ningún mérito de recibir el castigo merecido, si alguien peca y es tratado con severidad, __<u>espera</u>__ pacientemente.
 
-###  1 Pedro 2:20b *"...Pero si cuando hacen lo bueno sufren por ello y lo soportan con paciencia, esto halla gracia con Dios."* Encontramos __<u>gracia</u>__ para con Dios si sufrimos por hacer lo bueno y soportar pacientemente. 1 Pedro 3:17
+###  1 Pedro 2:20b "*...Pero si cuando hacen lo bueno sufren por ello y lo soportan con paciencia, esto halla gracia con Dios."* Encontramos __<u>gracia</u>__ para con Dios si sufrimos por hacer lo bueno y soportar pacientemente. 1 Pedro 3:17
 
 # 1 Pedro 2:21-25 El propósito de nuestro llamamiento
 
-###  1 Pedro 2:21a *"Porque para este propósito han sido llamados..."* Nos mostrará que hay un propósito especial que Dios planificó __<u>para</u>__ los creyentes. Hechos 14:22; 1 Pedro 3:9
+###  1 Pedro 2:21a *"Porque para este propósito han sido llamados...*" Nos mostrará que hay un propósito especial que Dios planificó __<u>para</u>__ los creyentes. Hechos 14:22; 1 Pedro 3:9
 
-###  1 Pedro 2:21b *"...pues también Cristo sufrió por ustedes,..."* Este propósito __<u>tomará</u>__ como ejemplo a Jesucristo, el cual mostrará como ejemplo para seguir sus pasos y reaccionar de la manera que Cristo reaccionó. 1 Pedro 4:1
+###  1 Pedro 2:21b "*...pues también Cristo sufrió por ustedes,...*" Este propósito __<u>tomará</u>__ como ejemplo a Jesucristo, el cual mostrará como ejemplo para seguir sus pasos y reaccionar de la manera que Cristo reaccionó. 1 Pedro 4:1
 
-###  1 Pedro 2:21c *"...dejándoles ejemplo para que sigan Sus pasos,"*  Cristo sufrió por nosotros, dejando ejemplo para seguir sus pasos, esto es de mucho valor y ánimo en los creyente para mostrarles como __<u>ejemplo</u>__, una manera práctica de andar y vivir su nueva vida en Cristo. Mateo 11:29; 1 Pedro 4:13
+###  1 Pedro 2:21c "*...dejándoles ejemplo para que sigan Sus pasos,"*  Cristo sufrió por nosotros, dejando ejemplo para seguir sus pasos, esto es de mucho valor y ánimo en los creyente para mostrarles como __<u>ejemplo</u>__, una manera práctica de andar y vivir su nueva vida en Cristo. Mateo 11:29; 1 Pedro 4:13
 
-###  1 Pedro 2:22a  *"EL CUAL NO COMETIÓ PECADO,..."* En la escritura podemos ver que Cristo no cometió pecado alguno, teniendo ejemplo a Cristo, nos mostrará la libertad que un __<u>cristiano</u>__ tiene en cuanto a su manera de vivir. 2 Corintios 5:21
+###  1 Pedro 2:22a  *"EL CUAL NO COMETIÓ PECADO,...*" En la escritura podemos ver que Cristo no cometió pecado alguno, teniendo ejemplo a Cristo, nos mostrará la libertad que un __<u>cristiano</u>__ tiene en cuanto a su manera de vivir. 2 Corintios 5:21
 
-###  1 Pedro 2:22b *"...NI ENGAÑO ALGUNO SE HALLÓ EN SU BOCA;"* Vemos el cumplimiento de la profecía anunciada en cuanto al mesías, su sepultura y __<u>ningún</u>__ engañó en su boca. Isaías 53:9
+###  1 Pedro 2:22b "*...NI ENGAÑO ALGUNO SE HALLÓ EN SU BOCA;"* Vemos el cumplimiento de la profecía anunciada en cuanto al mesías, su sepultura y __<u>ningún</u>__ engañó en su boca. Isaías 53:9
 
-###  1 Pedro 2:23a *"y quien cuando lo ultrajaban, no respondía ultrajando..."* Cuando alguien ultrajaba o maldecía a Cristo, no respondía con el __<u>mismo</u>__ acto de agresión. Isaías 53:7; Hebreos 12:3
+###  1 Pedro 2:23a *"y quien cuando lo ultrajaban, no respondía ultrajando...*" Cuando alguien ultrajaba o maldecía a Cristo, no respondía con el __<u>mismo</u>__ acto de agresión. Isaías 53:7; Hebreos 12:3
 
-###  1 Pedro 2:23b *"...Cuando padecía, no amenazaba,..."* Cuando Cristo se encontraba en extremo padecimiento, el no amenazaba a __<u>nadie</u>__ ni respondía con insultos. 1 Pedro 3:9
+###  1 Pedro 2:23b "*...Cuando padecía, no amenazaba,...*" Cuando Cristo se encontraba en extremo padecimiento, el no amenazaba a __<u>nadie</u>__ ni respondía con insultos. 1 Pedro 3:9
 
-###  1 Pedro 2:23c *"...sino que se encomendaba a Aquel que juzga con justicia."* Lo que hacía era encomendar al que __<u>juzga</u>__ con Justicia, él encomendaba a Dios su circunstancia.
+###  1 Pedro 2:23c "*...sino que se encomendaba a Aquel que juzga con justicia."* Lo que hacía era encomendar al que __<u>juzga</u>__ con Justicia, él encomendaba a Dios su circunstancia.
 
-###  1 Pedro 2:24a *"Él mismo llevó nuestros pecados en Su cuerpo sobre la cruz,..."* Podemos ver que Jesús llevó __<u>sobre</u>__ él nuestros pecados sobre la cruz. Isaías 53:4,11; 1 Corintios 15:3
+###  1 Pedro 2:24a *"Él mismo llevó nuestros pecados en Su cuerpo sobre la cruz,...*" Podemos ver que Jesús llevó __<u>sobre</u>__ él nuestros pecados sobre la cruz. Isaías 53:4,11; 1 Corintios 15:3
 
-###  1 Pedro 2:24b *"...a fin de que muramos al pecado y vivamos a la justicia,..."* Tenía un propósito el que Cristo muera sobre el madero, el fin para __<u>nosotros</u>__ es que como Cristo murió nosotros también muramos AL pecado una vez y para siempre.
+###  1 Pedro 2:24b "*...a fin de que muramos al pecado y vivamos a la justicia,...*" Tenía un propósito el que Cristo muera sobre el madero, el fin para __<u>nosotros</u>__ es que como Cristo murió nosotros también muramos AL pecado una vez y para siempre.
 
-#### La palabra muramos APOGENOMENOS  es un verbo en tiempo aoristo, medio, participio, indicándonos que la acción ya sucedió en un tiempo __<u>pasado</u>__, sin embargo nos muestra una acción continua en el presente, que el creyente realiza en beneficio propio. 
+#### La palabra "*muramos*" APOGENOMENOS  es un verbo en tiempo aoristo, medio, participio, indicándonos que la acción ya sucedió en un tiempo __<u>pasado</u>__, sin embargo nos muestra una acción continua en el presente, que el creyente realiza en beneficio propio. 
 
-#### Con el fin de que nosotros __<u>muramos</u>__ AL PECADO, y vivamos a la JUSTICIA, nos esta mostrando que Cristo ya murió, si y es un hecho completamente comprobado, ahora también es comprobado que vivamos a la justicia.
+#### Con el fin de que nosotros __<u>muramos</u>__ a (el) pecado, y vivamos a la justicia, nos esta mostrando que Cristo ya murió, si y es un hecho completamente comprobado, ahora también es comprobado que vivamos a la justicia.
 
-###  1 Pedro 2:24c *"...porque por Sus heridas fueron ustedes sanados..."* Debido a las heridas que sufrió Cristo, nosotros los creyentes fuimos __<u>sanados</u>__, el castigo por nuestra paz cayó sobre él. Isaías 53:5
+###  1 Pedro 2:24c "*...porque por Sus heridas fueron ustedes sanados...*" Debido a las heridas que sufrió Cristo, nosotros los creyentes fuimos __<u>sanados</u>__, el castigo por nuestra paz cayó sobre él. Isaías 53:5
 
-###  1 Pedro 2:25a *"Pues ustedes andaban descarriados como ovejas,..."* Los creyentes en su antigua manera de vivir estaban totalmente __<u>perdidos</u>__ y sin rumbo. Isaías 53:6
+###  1 Pedro 2:25a *"Pues ustedes andaban descarriados como ovejas,...*" Los creyentes en su antigua manera de vivir estaban totalmente __<u>perdidos</u>__ y sin rumbo. Isaías 53:6
 
-###  1 Pedro 2:25b *"...pero ahora han vuelto al Pastor y Guardián de sus almas."* Sin embargo ahora hemos vuelto al pastor de las ovejas, y él es el guardián de nuestras almas, estamos completamente seguros y protegidos. Esta imagen de ser una oveja que se encuentra __<u>segura</u>__, nos trae confianza en nuestro pastor y salvador Cristo Jesús. Juan 10:11; 1 Pedro 5:4
+###  1 Pedro 2:25b "*...pero ahora han vuelto al Pastor y Guardián de sus almas."* Sin embargo ahora hemos vuelto al pastor de las ovejas, y él es el guardián de nuestras almas, estamos completamente seguros y protegidos. Esta imagen de ser una oveja que se encuentra __<u>segura</u>__, nos trae confianza en nuestro pastor y salvador Cristo Jesús. Juan 10:11; 1 Pedro 5:4
 
 ###  1 Pedro 2:25b "*pero ahora han vuelto al Pastor y Guardián de sus almas.*" Sin embargo ahora hemos vuelto al pastor, y guardián de sus almas, que impresionante. saber esto, Ahora estamos con nuestro pastor y salvador , el que guarda nuestras almas.
 ## En Síntesis
 
-### ESQUEMA DE LA SECCIÓN DOS (1 PEDRO 2)
-
 ###   Pedro habla sobre la renuncia, las relaciones, el respeto y un __<u>modelo</u>__ a seguir. 
 
-  ### LA RENUNCIA (2:1-3, 11)
+  ### La renuncia: 1 Pedro 2:1-3, 11
 
-#### ¿A qué debemos renunciar? (2:1, 11b): Considerando nuestro __<u>nuevo</u>__ nacimiento, debemos despojarnos del engaño, la hipocresía, la envidia, la calumnia y la mundanalidad.
+#### ¿A qué debemos renunciar?: Considerando nuestro __<u>nuevo</u>__ nacimiento, debemos despojarnos del engaño, la hipocresía, la envidia, la calumnia y la mundanalidad. 1 Pedro 2:1, 11b
 
-#### ¿A qué debemos desear? (2:2-3): Debemos desear la __<u>leche</u>__ pura (Palabra de Dios) mediante la cual seremos nutridos en la Gracia del Señor.
+#### ¿A qué debemos desear?: Debemos desear la __<u>leche</u>__ pura (Palabra de Dios) mediante la cual seremos nutridos en la Gracia del Señor.  1 Pedro 2:2-3
 
-  ### LA RELACIÓN (2:4-12)
+  ### La relación: 1 Pedro 2:4-12
 
-#### Qué es Cristo (2:4, 6-8, 9b, 12)
+#### Qué es Cristo: 1 Pedro 2:4, 6-8, 9b, 12
 
-##### Él es el fundamento __<u>vivo</u>__ (2:4a).
+##### Él es el fundamento __<u>vivo</u>__. 1 Pedro 2:4a
 
-##### Él es un fundamento __<u>precioso</u>__ para los creyentes (2:4b, 7a).
+##### Él es un fundamento __<u>precioso</u>__ para los creyentes. 1 Pedro 2:4b, 7a
 
-##### Él es piedra de __<u>tropiezo</u>__ para los incrédulos (2:8).
+##### Él es piedra de __<u>tropiezo</u>__ para los incrédulos. 1 Pedro 2:8
 
-##### Él es la __<u>piedra</u>__ angular (2:6, 7b).
+##### Él es la __<u>piedra</u>__ angular. 1 Pedro 2:6, 7b
 
-##### Él es el __<u>elegido</u>__ (2:4c).
+##### Él es el __<u>elegido</u>__. 1 Pedro 2:4c
 
-##### Él es el __<u>juez</u>__ (2:12).
+##### Él es el __<u>juez</u>__. 1 Pedro 2:12
 
-##### Él es la __<u>luz</u>__ (2:9b).
+##### Él es la __<u>luz</u>__. 1 Pedro 2:9b
 
-#### Qué son los cristianos por medio de Cristo (2:5, 9a, 10-11a)
+#### Qué son los cristianos por medio de Cristo. 1 Pedro 2:5, 9a, 10-11a
 
-##### Somos piedras __<u>vivas</u>__ (2:5a).
+##### Somos piedras __<u>vivas</u>__. 1 Pedro 2:5a
 
-##### Somos sacerdotes __<u>reales</u>__ (2:5b).
+##### Somos sacerdotes __<u>reales</u>__. 1 Pedro 2:5b
 
-##### Somos un __<u>pueblo</u>__ escogido (2:9a, 10).
+##### Somos un __<u>pueblo</u>__ escogido. 1 Pedro 2:9a, 10
 
-##### Somos extranjeros en la __<u>tierra</u>__ (2:11a).
+##### Somos extranjeros en la __<u>tierra</u>__. 1 Pedro 2:11a
 
-   ### EL RESPETO (2:13-20): 
+   ### El respeto: 1 Pedro 2:13-20  
 
    #### Como extranjeros y __<u>peregrinos</u>__ del Señor, por amor a Él, debemos mostrar respeto (y sumisión) a las siguientes personas:
 
-##### Autoridades civiles (2:13-16)
+##### Autoridades civiles. 1 Pedro 2:13-16
 
-##### Empleadores (2:18-20)
+##### Empleadores. 1 Pedro 2:18-20
 
-##### Todos (2:17)
+##### Todos. 1 Pedro 2:17
 
 #### ¿Porqué?
 
@@ -1094,21 +1085,21 @@ Real Sacerdocio
 
 ##### La libertad que tenemos por medio de Dios __<u>en</u>__ Cristo debe ser disfrutada con el propósito que Dios estableció, como siervos de Dios
 
-   ### EL MODELO A SEGUIR (2:21-25)
+   ### El modelo a seguir: 1 Pedro 2:21-25
 
 #### Cristo es el modelo dado por Dios de sufrir por __<u>hacer</u>__ lo bueno y soportarlo con paciencia.
 
 #### ¿Qué es lo que Cristo logro por medio de esto?
 
-##### Quién es (2:21-22): Él es __<u>nuestro</u>__ Salvador sin pecado, Jesucristo. 
+##### Quién es: Él es __<u>nuestro</u>__ Salvador sin pecado, Jesucristo.  1 Pedro 2:21-22
 
-##### Lo que hizo (2:23-24a): Murió en la __<u>cruz</u>__ del Calvario.
+##### Lo que hizo: Murió en la __<u>cruz</u>__ del Calvario. 1 Pedro 2:23-24a
 
-##### Por qué lo hizo (2:24b-25)
+##### Por qué lo hizo. 1 Pedro 2:24b-25
 
-###### Para que Su herida __<u>sanara</u>__ las nuestras (2:24b)
+###### Para que Su herida __<u>sanara</u>__ las nuestras. 1 Pedro 2:24b
 
-###### Para que pudiéramos ser __<u>traídos</u>__ al Pastor (2:25)
+###### Para que pudiéramos ser __<u>traídos</u>__ al Pastor. 1 Pedro 2:25
 
 # 1 Pedro 3:1-8 Relaciones dentro de la Iglesia
 
@@ -1130,7 +1121,7 @@ Real Sacerdocio
 
 ## 1 Pedro 3:1-6 Aprendiendo de las mujeres
 
-###  1 Pedro 3:1a *"Asimismo ustedes, mujeres,..."* Anteriormente Pedro estuvo __<u>dando</u>__ instrucciones de sujeción a los creyentes, como ser: 
+###  1 Pedro 3:1a *"Asimismo ustedes, mujeres,...*" Anteriormente Pedro estuvo __<u>dando</u>__ instrucciones de sujeción a los creyentes, como ser: 
 
 ####  Sujetarse a todas las autoridades en la sociedad. 1 Pedro 2:13-14
 
@@ -1138,7 +1129,7 @@ Real Sacerdocio
 
 #### Ahora se dirigirá a las esposas creyentes de la iglesia. Dios __<u>ahora</u>__ mostrará como ellas podrían andar haciendo el bien dentro de su propio matrimonio. 
 
-###  1 Pedro 3:1b *"...estén sujetas a sus maridos,..."* La instrucción para la esposa dentro del matrimonio era que ella se mantenga voluntariamente, bajo la autoridad de su propio __<u>esposo</u>__.
+###  1 Pedro 3:1b "*...estén sujetas a sus maridos,...*" La instrucción para la esposa dentro del matrimonio era que ella se mantenga voluntariamente, bajo la autoridad de su propio __<u>esposo</u>__.
 
 ####  No vemos en las escrituras que las esposas __<u>deban</u>__ sujetarse a la autoridad de cada hombre en general, sino únicamente a su propio esposo. Colosenses 3:18
 
@@ -1152,7 +1143,7 @@ Real Sacerdocio
 
 #### Esta instrucción no incluye que la __<u>esposa</u>__ deba sujetarse a su marido si esa sujeción podría llevar a la esposa hacia algún pecado, en todo caso, la esposa antes esta sujeta a la autoridad suprema de Dios. 1 Corintios 11:3
 
-###  1 Pedro 3:1c *"...de modo que si algunos de ellos son desobedientes a la palabra,..."* Seria __<u>bueno</u>__ observar a que se refiere con un esposo "desobediente":
+###  1 Pedro 3:1c "*...de modo que si algunos de ellos son desobedientes a la palabra,...*" Seria __<u>bueno</u>__ observar a que se refiere con un esposo "desobediente":
 
 #### Desobediente en griego es APEIDSÉO que __<u>también</u>__ podría traducirse, "no creyente".
 
@@ -1160,7 +1151,7 @@ Real Sacerdocio
 
 #### Aun que también podría dirigirse a un esposo creyente que no esta andando en obediencia a __<u>Dios</u>__, en fe a la verdad de Cristo. 1 Pedro 1:14
 
-###  1 Pedro 3:1d *"...puedan ser ganados sin palabra alguna por la conducta de sus mujeres..."* ¿Cual sería la razón por la cual la esposa debería sujetarse a su esposo? Dios __<u>tiene</u>__ un propósito.
+###  1 Pedro 3:1d "*...puedan ser ganados sin palabra alguna por la conducta de sus mujeres...*" ¿Cual sería la razón por la cual la esposa debería sujetarse a su esposo? Dios __<u>tiene</u>__ un propósito.
 
 #### El propósito de esta instrucción es __<u>para</u>__ que el esposo desobediente, pueda ser "ganado". 
 
@@ -1170,7 +1161,7 @@ Real Sacerdocio
 
 #### Esto es a __<u>través</u>__ de la esposa, pero nótese que es "sin palabra alguna", entonces ¿Cómo ocurrirá esto?
 
-###  1 Pedro 3:2 *"...al observar ellos su conducta casta y respetuosa."* El énfasis que Dios da al rol de la esposa no esta en las palabras que diga, sino en la __<u>manera</u>__ de vivir que su esposo verá. 
+###  1 Pedro 3:2 "*...al observar ellos su conducta casta y respetuosa."* El énfasis que Dios da al rol de la esposa no esta en las palabras que diga, sino en la __<u>manera</u>__ de vivir que su esposo verá. 
 
 ####  El esposo será testigo de la __<u>obra</u>__ de Cristo, en la vida de su esposa.
 
@@ -1178,15 +1169,15 @@ Real Sacerdocio
 
 #### La esposa en su rol, puede ser un precioso instrumento en las manos de Dios para que sus esposos respondan por la fe al evangelio de Dios, y ser llamados de las __<u>tinieblas</u>__ a su luz admirable. 1 Pedro 2:9
 
-###  1 Pedro 3:3a *"Que el adorno de ustedes no sea el externo:..."* La palabra adorno o atavío en el tiempo de la escritura de esta epístola hacia referencia al embellecimiento __<u>exterior</u>__ de las mujeres. 
+###  1 Pedro 3:3a *"Que el adorno de ustedes no sea el externo:...*" La palabra adorno o atavío en el tiempo de la escritura de esta epístola hacia referencia al embellecimiento __<u>exterior</u>__ de las mujeres. 
 
 ###  Era un pensamiento __<u>común</u>__ que las mujeres se "adornen" por medio de lo que veremos a continuación:
 
-####  1 Pedro 3:3b *"...peinados ostentosos..."* __<u>Indica</u>__ peinados exageradamente llamativos.
+####  1 Pedro 3:3b "*...peinados ostentosos...*" __<u>Indica</u>__ peinados exageradamente llamativos.
 
-####  1 Pedro 3:3c  *"...joyas de oro..."* Hace referencia a buscar ganar belleza por medio de __<u>objetos</u>__ colgados en el cuerpo
+####  1 Pedro 3:3c  "*...joyas de oro...*" Hace referencia a buscar ganar belleza por medio de __<u>objetos</u>__ colgados en el cuerpo
 
-####  1 Pedro 3:3d  *"...o vestidos lujosos,...* Se refiere a __<u>buscar</u>__ adornarse exteriormente por medio de ropas
+####  1 Pedro 3:3d  "*...o vestidos lujosos,...* Se refiere a __<u>buscar</u>__ adornarse exteriormente por medio de ropas
 
 #### El enfoque de este pasaje no esta en indicar que dichas cosas son malas o pecado, tampoco indica un descuido de la presentación __<u>externa</u>__ de la esposa. 1 Timoteo 2:9-10
 
@@ -1194,21 +1185,21 @@ Real Sacerdocio
 
 #### Entonces ¿dónde estaría la belleza __<u>exterior</u>__ de una esposa a los ojos de Dios?
 
-###  1 Pedro 3:4a *"...sino que sea lo que procede de lo íntimo del corazón,..."* En un mundo donde se busca la belleza externa por medio de cosas lujosas, llamativas que se corrompen con el tiempo. Dios llama a la esposa creyente a buscar la belleza externa, pero producida __<u>desde</u>__ lo interior.
+###  1 Pedro 3:4a "*...sino que sea lo que procede de lo íntimo del corazón,...*" En un mundo donde se busca la belleza externa por medio de cosas lujosas, llamativas que se corrompen con el tiempo. Dios llama a la esposa creyente a buscar la belleza externa, pero producida __<u>desde</u>__ lo interior.
 
-###  1 Pedro 3:4b *"...con el adorno incorruptible de un espíritu tierno y sereno,..."* Esta indicación aclara que la sujeción de la esposa, el atavió externo por medio de su conducta __<u>hacia</u>__ el esposo, no debería ser hipócrita o algo fingido, sino sincero. Gálatas 5:16
+###  1 Pedro 3:4b "*...con el adorno incorruptible de un espíritu tierno y sereno,...*" Esta indicación aclara que la sujeción de la esposa, el atavió externo por medio de su conducta __<u>hacia</u>__ el esposo, no debería ser hipócrita o algo fingido, sino sincero. Gálatas 5:16
 
 ####  Su belleza externa simplemente es un reflejo de la belleza __<u>interna</u>__ de su corazón.
 
-###  1 Pedro 3:4c *"...lo cual es precioso delante de Dios."* Una creyente que pone su esperanza en el único Dios, el que juzga con justicia, goza de un espíritu tierno y sereno, el __<u>cual</u>__ es precioso a los ojos de Dios. Salmo 51:6
+###  1 Pedro 3:4c "*...lo cual es precioso delante de Dios."* Una creyente que pone su esperanza en el único Dios, el que juzga con justicia, goza de un espíritu tierno y sereno, el __<u>cual</u>__ es precioso a los ojos de Dios. Salmo 51:6
 
-###  1 Pedro 3:5a *"Porque así también se adornaban en otro tiempo las santas mujeres que esperaban en Dios,..."* Pedro pasa a __<u>mostrar</u>__ como se adornaban las esposas creyentes del Antiguo Testamento y como llegaron a sujetarse a sus esposos imperfectos. Proverbios 31:10
+###  1 Pedro 3:5a *"Porque así también se adornaban en otro tiempo las santas mujeres que esperaban en Dios,...*" Pedro pasa a __<u>mostrar</u>__ como se adornaban las esposas creyentes del Antiguo Testamento y como llegaron a sujetarse a sus esposos imperfectos. Proverbios 31:10
 
 #### El versículo es claro, las __<u>santas</u>__ mujeres, ponían su esperanza completamente en su Santo Dios. Proverbios 31:30
 
 #### ¿En qué resultaba esto?
 
-###  1 Pedro 3:5b *"...estando sujetas a sus maridos."* El sujetarse a sus maridos, no era por medio de una regla obligatoria o por medio de fingimiento, ni tampoco por __<u>medio</u>__ de un pensamiento humano positivo.
+###  1 Pedro 3:5b "*...estando sujetas a sus maridos."* El sujetarse a sus maridos, no era por medio de una regla obligatoria o por medio de fingimiento, ni tampoco por __<u>medio</u>__ de un pensamiento humano positivo.
 
 #### Ellas __<u>permanecían</u>__ sujetas a sus esposos por medio de la esperanza que tenían en Su Dios.
 
@@ -1216,11 +1207,11 @@ Real Sacerdocio
 
 #### Y esto vendría a través de su confianza puesta no en la calidad de esposo que __<u>tenían</u>__, sino en el Dios que cuidaba y cuida de ellas.
 
-###  1 Pedro 3:6a *"Así obedeció Sara a Abraham, llamándolo señor,..."* Un ejemplo de una esposa sujetándose a su esposo es Sara, y una muestra de aquello fue que se dirigió a Abraham __<u>como</u>__ "señor". Génesis 18:12
+###  1 Pedro 3:6a *"Así obedeció Sara a Abraham, llamándolo señor,...*" Un ejemplo de una esposa sujetándose a su esposo es Sara, y una muestra de aquello fue que se dirigió a Abraham __<u>como</u>__ "señor". Génesis 18:12
 
-###  1 Pedro 3:6b *"...y ustedes han llegado a ser hijas de ella,..."* Aquí nos __<u>muestra</u>__ la relación simbólica que tienen las esposas que andan conforme a como Sara anduvo en su vida terrenal.
+###  1 Pedro 3:6b "*...y ustedes han llegado a ser hijas de ella,...*" Aquí nos __<u>muestra</u>__ la relación simbólica que tienen las esposas que andan conforme a como Sara anduvo en su vida terrenal.
 
-###  1 Pedro 3:6c *"...si hacen el bien y no tienen miedo de nada que pueda aterrorizarlas."* El andar conforme a la voluntad de Dios que tuvo Sara también es el andar de las __<u>esposas</u>__ que hacen el bien, y no tienen temor de nada que intente atemorizarlas. 
+###  1 Pedro 3:6c "*...si hacen el bien y no tienen miedo de nada que pueda aterrorizarlas."* El andar conforme a la voluntad de Dios que tuvo Sara también es el andar de las __<u>esposas</u>__ que hacen el bien, y no tienen temor de nada que intente atemorizarlas. 
 
 ####  No depende del estado espiritual de su esposo, o las circunstancias en las que se encuentre, sino que es por medio de la confianza segura que tiene en Dios, su Padre, que es el __<u>cuidador</u>__ eterno de ellas. 1 Pedro 3:14
 
@@ -1228,11 +1219,11 @@ Real Sacerdocio
 
 ## 1 Pedro 3:7- Maridos
 
-###  1 Pedro 3:7a *"Ustedes, maridos, igualmente,..."* Ahora pasa a dar instrucciones a los esposos creyentes. 
+###  1 Pedro 3:7a *"Ustedes, maridos, igualmente,...*" Ahora pasa a dar instrucciones a los esposos creyentes. 
 
 ####  Ahora el esposo, como uno __<u>renacido</u>__ a una esperanza viva por la misericordia y gracia de Dios. Confiando en la nueva vida provista por Dios en Cristo. ¿Cómo afectaría esto en su matrimonio?
 
-###  1 Pedro 3:7b *"...convivan de manera comprensiva con sus mujeres,..."* Este versículo llama a los esposos a pensar en como __<u>viven</u>__ junto a sus esposas.
+###  1 Pedro 3:7b "*...convivan de manera comprensiva con sus mujeres,...*" Este versículo llama a los esposos a pensar en como __<u>viven</u>__ junto a sus esposas.
 
 #### La palabra "convivan" da una perspectiva de __<u>unión</u>__, de compañerismo en el matrimonio, no da la idea de individualidad. Génesis 2:23-24
 
@@ -1248,13 +1239,13 @@ Real Sacerdocio
 
 ##### Como vemos mas adelante, el esposo debía vivir junto a su esposa mediante conocimiento, este conocimiento __<u>viene</u>__ por medio de la verdad de la Palabra de Dios. Efesios 5:25-28, 33, Colosenses 3:19
 
-###  1 Pedro 3:7c *"...como con un vaso más frágil, puesto que es mujer,..."* Estas palabras no indican inferioridad de la mujer, sino hacen énfasis en como el esposo debe __<u>tratar</u>__ y dirigirse a su esposa mientras convivan. 
+###  1 Pedro 3:7c "*...como con un vaso más frágil, puesto que es mujer...*" Estas palabras no indican inferioridad de la mujer, sino hacen énfasis en como el esposo debe __<u>tratar</u>__ y dirigirse a su esposa mientras convivan. 
 
 ####  ¿Cómo se __<u>trata</u>__ un vaso el cual es frágil y fácil de romperse?
 
 #### ¿Acaso un vaso de vidrio no es mas __<u>valioso</u>__ a un vaso de plástico?
 
-###  1 Pedro 3:7d *"...dándole honor por ser heredera como ustedes de la gracia de la vida,..."* En la manera en la cual el marido vive junto a su esposa __<u>puede</u>__ honrarla. Esa es la voluntad del Señor.
+###  1 Pedro 3:7d "*...dándole honor por ser heredera como ustedes de la gracia de la vida...*" En la manera en la cual el marido vive junto a su esposa __<u>puede</u>__ honrarla. Esa es la voluntad del Señor.
 
 #### La razón por la cual el esposo debe dirigirse de esta manera, es por la verdad que el __<u>Señor</u>__ muestra al esposo.
 
@@ -1262,13 +1253,13 @@ Real Sacerdocio
 
 #### Ahora se le recuerda que no solo él es heredero de Dios, sino también su compañera de vida, su esposa. Ambos, no solo ligados por la unión del matrimonio, sino también __<u>unidos</u>__ eternamente por medio de participar de la misma herencia provista por Dios. Efesios Efesios 2:18, 3:6; Romanos 8:17
 
-###  1 Pedro 3:7e *"...para que sus oraciones no sean estorbadas."* De esta manera, el esposo viviendo en la justicia, por medio de la esperanza que se encuentra en Cristo su Salvador. Podrá dirigir sus oraciones a su Dios y Cuidador, confiado de que recibirá la __<u>ayuda</u>__ oportuna, ya que nada podrá estorbarlas. Disfrutará días buenos junto a su compañera de vida. Efesios 6:18
+###  1 Pedro 3:7e "*...para que sus oraciones no sean estorbadas."* De esta manera, el esposo viviendo en la justicia, por medio de la esperanza que se encuentra en Cristo su Salvador. Podrá dirigir sus oraciones a su Dios y Cuidador, confiado de que recibirá la __<u>ayuda</u>__ oportuna, ya que nada podrá estorbarlas. Disfrutará días buenos junto a su compañera de vida. Efesios 6:18
 
-## A todos
+## 1 Pedro 3:8-12 A todos
 
-###  1 Pedro 3:8a *"En conclusión, sean todos..."* Como ultima instrucción respecto a las relaciones __<u>entre</u>__ creyentes, esta vez Pedro se dirigirá a todos.
+###  1 Pedro 3:8a *"En conclusión, sean todos...*" Como ultima instrucción respecto a las relaciones __<u>entre</u>__ creyentes, esta vez Pedro se dirigirá a todos.
 
-###  1 Pedro 3:8b *"...de un mismo sentir,..."* la RV09 la __<u>traduce</u>__ de esta manera "de un mismo corazón". 
+###  1 Pedro 3:8b "*...de un mismo sentir,...*" la RV09 la __<u>traduce</u>__ de esta manera "de un mismo corazón". 
 
 ####  El pasaje es claro, la unión que indica es en la manera de __<u>pensar</u>__. Hechos 4:32, Romanos 12:1-2, 16
 
@@ -1278,19 +1269,19 @@ Real Sacerdocio
 
 #### Esta __<u>unidad</u>__ de pensamiento que se indica a los todos los creyentes, viene de la unidad en la verdad de Dios que comparten, como veremos mas adelante en el versículo 9 "fueron llamados con el propósito de heredar bendición", este mismo sentir no viene de pensamiento humano, sino de la sabiduría de Dios. Efesios 4:11-13
 
-###  1 Pedro 3:8c *"...compasivos,..."* Todos debían ser compasivos. Estos creyentes se encontraban pasando por diversas pruebas, aflicciones. Pero el Señor les proveía por medio del cuerpo de Cristo (entre ellos), compadecerse unos a otros, comprender el dolor __<u>ajeno</u>__ de su hermano o hermana. Filipenses 2:1-2; Colosenses 3:12
+###  1 Pedro 3:8c "*...compasivos,...*" Todos debían ser compasivos. Estos creyentes se encontraban pasando por diversas pruebas, aflicciones. Pero el Señor les proveía por medio del cuerpo de Cristo (entre ellos), compadecerse unos a otros, comprender el dolor __<u>ajeno</u>__ de su hermano o hermana. Filipenses 2:1-2; Colosenses 3:12
 
-###  1 Pedro 3:8d *"...fraternales,..."* Deberían tener un amor de hermanos __<u>unos</u>__ a otros y eso es lo que justamente eran, hermanos, hijos de Dios. 
+###  1 Pedro 3:8d "*...fraternales,...*" Deberían tener un amor de hermanos __<u>unos</u>__ a otros y eso es lo que justamente eran, hermanos, hijos de Dios. 
 
 ####  Estaban exiliados de su tierra, muchos alejados de sus familias físicas, pero por __<u>medio</u>__ de Dios, podrían disfrutar de un amor de familia, un amor fraternal. 1 Pedro 1:22, 2:17
 
-###  1 Pedro 3:8e *"...misericordiosos,..."* Esta palabra indica a comprenderse unos a otros las aflicciones de sus hermanos y actuar con clemencia, a socorrer al hermano afligido. Muy probablemente no es __<u>algo</u>__ que encontrarían de manera palpable en el mundo. Efesios 4:32
+###  1 Pedro 3:8e "*...misericordiosos,...*" Esta palabra indica a comprenderse unos a otros las aflicciones de sus hermanos y actuar con clemencia, a socorrer al hermano afligido. Muy probablemente no es __<u>algo</u>__ que encontrarían de manera palpable en el mundo. Efesios 4:32
 
-###  1 Pedro 3:8f *"...y de espíritu humilde;"* Nuevamente nos aclara que estas instrucciones no deben ser vistas como realizadas por medio del fingimiento o hipocresía. Sino que esto __<u>viene</u>__ del interior, desde el corazón.
+###  1 Pedro 3:8f "*...y de espíritu humilde;"* Nuevamente nos aclara que estas instrucciones no deben ser vistas como realizadas por medio del fingimiento o hipocresía. Sino que esto __<u>viene</u>__ del interior, desde el corazón.
 
 #### Los creyentes debían tener un pensamiento humilde o amigable hacia sus hermanos, esto da el énfasis de buscar el bien ajeno, el __<u>bien</u>__ de sus hermanos y actuar en consecuencia. Efesios 4:2; 1 Pedro 5:5
 
-###  1 Pedro 3:9a *"no devolviendo mal por mal, o insulto por insulto,..."* Este mandamiento __<u>garantiza</u>__ completamente, que el creyente recibirá acciones injustas y también insultos.
+###  1 Pedro 3:9a *"no devolviendo mal por mal, o insulto por insulto,...*" Este mandamiento __<u>garantiza</u>__ completamente, que el creyente recibirá acciones injustas y también insultos.
 
 #### Estas acciones negativas __<u>hacia</u>__ el creyente no deben ser producto de su pecado.
 
@@ -1300,13 +1291,13 @@ Real Sacerdocio
 
 #### De todas maneras, la realidad que Dios planeo para sus creyentes es que cuando lleguen a recibir algún mal, no deben dar a __<u>cambio</u>__ otro mal.
 
-###  1 Pedro 3:9b *"...sino más bien bendiciendo,..."* Dios planeo que cuando Sus santos reciban algún mal, ellos dieran a __<u>cambio</u>__ bendición.
+###  1 Pedro 3:9b "*...sino más bien bendiciendo,...*" Dios planeo que cuando Sus santos reciban algún mal, ellos dieran a __<u>cambio</u>__ bendición.
 
 #### La palabra bendiciendo EULOGUÉO puede hacer referencia a dar palabras bondadosas o realizar un acto bondadoso __<u>hacia</u>__ alguien.
 
 #### ¿Como __<u>podría</u>__ un creyente que reciba día a día males, devolver bendiciones? ¿Porqué?
 
-###  1 Pedro 3:9c *"...porque fueron llamados con el propósito de heredar bendición."* Pedro recordará una verdad a estos creyentes que reciben __<u>males</u>__.
+###  1 Pedro 3:9c "*...porque fueron llamados con el propósito de heredar bendición."* Pedro recordará una verdad a estos creyentes que reciben __<u>males</u>__.
 
 #### Creyentes, ustedes __<u>son</u>__ los llamados (invitados) de Dios. 1 Pedro 1:15, 2:9
 
@@ -1318,9 +1309,9 @@ Real Sacerdocio
 
 #### Al considerar estas cosas estarás devolviendo bendición, un pequeño reflejo externo de la Gran bendición que Dios da a todo __<u>aquel</u>__ que obedece (cree) en Su Palabra, Su Evangelio. 1 Pedro 1:25
 
-### 1 Pedro 3:10a *"Porque,..."* El propósito de Dios, de que sus creyentes __<u>vivan</u>__ conforme a lo que Él a provisto para ellos es de beneficio para su realidad física presente. 
+### 1 Pedro 3:10a *"Porque,...*" El propósito de Dios, de que sus creyentes __<u>vivan</u>__ conforme a lo que Él a provisto para ellos es de beneficio para su realidad física presente. 
 
-###  1 Pedro 3:10b *"Porque, «EL QUE DESEA LA VIDA, AMAR Y VER DÍAS BUENOS,..."* Estos versículos __<u>nos</u>__ mostraran como Dios ve que Sus creyentes pueden disfrutar de:
+###  1 Pedro 3:10b *"Porque, «EL QUE DESEA LA VIDA, AMAR Y VER DÍAS BUENOS,...*" Estos versículos __<u>nos</u>__ mostraran como Dios ve que Sus creyentes pueden disfrutar de:
 
 #### *"LA VIDA"*, el creyente puede gozar de lo que realmente es vida, con gran alegría. Una vida que __<u>solo</u>__ viene por medio de Dios. Proverbios 3:1-2
 
@@ -1336,15 +1327,15 @@ Real Sacerdocio
 
 #### Si el creyente anda considerando la verdad de Dios, entonces podrá __<u>cumplir</u>__ las siguientes indicaciones que se mostrarán, de esa manera también disfruta de lo que Dios le ha dado en Su gracia como acabamos de observar.
 
-###  1 Pedro 3:10c *"...REFRENE SU LENGUA DEL MAL..."*  El creyente no debe utilizar su lengua para el mal, lastimándose y lastimando a __<u>otros</u>__, sino para el bien. Santiago 1:26, 3:1-10
+###  1 Pedro 3:10c "*...REFRENE SU LENGUA DEL MAL...*"  El creyente no debe utilizar su lengua para el mal, lastimándose y lastimando a __<u>otros</u>__, sino para el bien. Santiago 1:26, 3:1-10
 
-###  1 Pedro 3:10d *"...Y SUS LABIOS NO HABLEN ENGAÑO."* El creyente no debe usar sus labios para la mentira __<u>hacia</u>__ los demás. 1 Pedro 2:1
+###  1 Pedro 3:10d "*...Y SUS LABIOS NO HABLEN ENGAÑO."* El creyente no debe usar sus labios para la mentira __<u>hacia</u>__ los demás. 1 Pedro 2:1
 
 ###  1 Pedro 3:11a *"APÁRTESE DEL MAL Y HAGA EL BIEN;"* El creyente debe desviarse de un andar de maldad y practicaría el __<u>bien</u>__.
 
 ###  1 Pedro 3:11b *"BUSQUE LA PAZ Y SÍGALA."* El creyente debe buscar, desear la paz y también perseguirla, habla de una actividad constante de __<u>procurar</u>__ la paz. Esto debería ser el pensamiento de cada uno de los creyentes.
 
-###  1 Pedro 3:12a *"PORQUE LOS OJOS DEL SEÑOR ESTÁN SOBRE LOS JUSTOS,..."* Lo que nos muestra a continuación es lo atento que esta el SEÑOR DIOS, para con Sus __<u>justos</u>__.
+###  1 Pedro 3:12a *"PORQUE LOS OJOS DEL SEÑOR ESTÁN SOBRE LOS JUSTOS,...*" Lo que nos muestra a continuación es lo atento que esta el SEÑOR DIOS, para con Sus __<u>justos</u>__.
 
 #### Si bien el Señor __<u>guarda</u>__ eternamente a Sus justificados, ellos están en paz con Él para siempre por medio de la fe en Cristo. Romanos 5:1-2
 
@@ -1352,7 +1343,7 @@ Real Sacerdocio
 
 #### Este pasaje nos muestra como Dios vela por el __<u>cuidado</u>__ del justo.
 
-###  1 Pedro 3:12b *"...Y SUS OÍDOS ATENTOS A SUS ORACIONES;"* El Señor esta atento a las oraciones de su justo que anda en justicia. Proverbios 15:29; Juan 9:31
+###  1 Pedro 3:12b "*...Y SUS OÍDOS ATENTOS A SUS ORACIONES;"* El Señor esta atento a las oraciones de su justo que anda en justicia. Proverbios 15:29; Juan 9:31
 
 ###  1 Pedro 3:12c *"PERO EL ROSTRO DEL SEÑOR ESTÁ CONTRA LOS QUE HACEN EL MAL»."* La triste realidad para el injusto que practica la injusticia, es que Dios le da la __<u>espalda</u>__. No goza de la dicha del cuidado de su alma del Señor Todopoderoso.
 
@@ -1380,17 +1371,17 @@ Vimos en el capítulo 1 que el sufrimiento es garantizado y seguro.
 
 #### Sino deberían considerarse __<u>personas</u>__ bendecidas, sufrir por causa de hacer lo bueno es parte del plan Dios, en esos momentos el creyente es participe también de los padecimientos de Cristo, lo que significa que también será participe de la gloria de Cristo que se revelará en el futuro. 1 Pedro 4:13; Filipenses 1:29
 
-###  1 Pedro 3:14b *"Y NO TENGAN MIEDO POR TEMOR A ELLOS NI SE TURBEN,..."* Como bienaventurados, bendecidos de Dios no había razón __<u>para</u>__ que los creyentes sintiesen miedo, por mas de que tan terroríficos aparenten ser los que buscan hacerles daño, tampoco deberían desesperarse.
+###  1 Pedro 3:14b *"Y NO TENGAN MIEDO POR TEMOR A ELLOS NI SE TURBEN,...*" Como bienaventurados, bendecidos de Dios no había razón __<u>para</u>__ que los creyentes sintiesen miedo, por mas de que tan terroríficos aparenten ser los que buscan hacerles daño, tampoco deberían desesperarse.
 
 #### Las palabras como miedo y __<u>turbar</u>__ indican un estado interno del creyente, no es lo que el Señor deseaba para ellos. Juan 14:1, 27
 
-###  1 Pedro 3:15a *"...sino santifiquen a Cristo como Señor en sus corazones,..."* La palabra "santificar" __<u>puede</u>__ ser vista también como reverenciar o considerar.
+###  1 Pedro 3:15a "*...sino santifiquen a Cristo como Señor en sus corazones,...*" La palabra "santificar" __<u>puede</u>__ ser vista también como reverenciar o considerar.
 
 #### La adoración generalmente se __<u>piensa</u>__ como una acción externa, pero no es lo que aquí se indica.
 
 #### Los bendecidos (creyentes), no tienen porque estar llenos de temor por los ataques externos que lleguen a recibir. Ya que Cristo, El Pastor y Obispo de sus almas, es Su Señor, y pueden estar llenos de alabanza y adoración hacia Él, en su __<u>interior</u>__, desde sus corazones. 1 Pedro 2:25
 
-###  1 Pedro 3:15b *"...estando siempre preparados para presentar defensa ante todo el que les demande razón de la esperanza que hay en ustedes."* El creyente __<u>puede</u>__ andar haciendo lo correcto, puede andar sin temor alguno de sus enemigos alabando a Cristo en su corazón, y esto es por la esperanza futura que tiene en la Persona de Jesucristo.
+###  1 Pedro 3:15b "*...estando siempre preparados para presentar defensa ante todo el que les demande razón de la esperanza que hay en ustedes."* El creyente __<u>puede</u>__ andar haciendo lo correcto, puede andar sin temor alguno de sus enemigos alabando a Cristo en su corazón, y esto es por la esperanza futura que tiene en la Persona de Jesucristo.
 
 #### Por medio de la resurrección de Jesucristo, tenemos una esperanza viva, y recibiremos una herencia __<u>eterna</u>__ en los cielos. 1 Pedro 1:3
 
@@ -1398,13 +1389,13 @@ Vimos en el capítulo 1 que el sufrimiento es garantizado y seguro.
 
 #### Tener esta esperanza viene por medio de __<u>crecer</u>__ en el conocimiento de la gracia de Dios, la cual encontramos en Su Palabra, por lo cual debemos estar preparados en esta verdad para que en cualquier circunstancia podamos anunciarla cuando se nos requiera hacerlo.
 
-###  1 Pedro 3:15c *"Pero háganlo con mansedumbre y reverencia,..."* Lo que indican estas palabras es que un creyente puede llegar a ser arrogante y dañino incluso presentando la __<u>verdad</u>__ de la Palabra. Dios quiere que su verdad sea anunciada con una actitud de tranquilidad y respeto.
+###  1 Pedro 3:15c *"Pero háganlo con mansedumbre y reverencia,...*" Lo que indican estas palabras es que un creyente puede llegar a ser arrogante y dañino incluso presentando la __<u>verdad</u>__ de la Palabra. Dios quiere que su verdad sea anunciada con una actitud de tranquilidad y respeto.
 
-###  1 Pedro 3:16a *"...teniendo buena conciencia,..."* Esto __<u>podría</u>__ referirse a como lo expresa en 1 Pedro 2:19-20, tener una buena conducta, esta abrazado a tener buena conciencia para con Dios, un creyente que no anda en la realidad de la justicia provista por Cristo, andaría en pecado, con una conciencia manchada.
+###  1 Pedro 3:16a "*...teniendo buena conciencia,...*" Esto __<u>podría</u>__ referirse a como lo expresa en 1 Pedro 2:19-20, tener una buena conducta, esta abrazado a tener buena conciencia para con Dios, un creyente que no anda en la realidad de la justicia provista por Cristo, andaría en pecado, con una conciencia manchada.
 
 #### Anunciar la verdad de las escrituras con una buena conducta traería una conciencia __<u>limpia</u>__. ¿Porque sería necesario esto?
 
-###  1 Pedro 3:16b *"...para que en aquello en que son calumniados, sean avergonzados los que hablan mal de la buena conducta de ustedes en Cristo."* Este es el propósito de que los creyentes muestren una buena conducta, __<u>incluso</u>__ en la proclamación de su esperanza, Cristo.
+###  1 Pedro 3:16b "*...para que en aquello en que son calumniados, sean avergonzados los que hablan mal de la buena conducta de ustedes en Cristo."* Este es el propósito de que los creyentes muestren una buena conducta, __<u>incluso</u>__ en la proclamación de su esperanza, Cristo.
 
 #### Si bien pueden recibir ataque y criticas destructivas aún a pesar de su buena conducta, si es a razón de una buena conciencia, esto es bueno delante de Dios y es razón de vergüenza para aquellos que los atacan. Así es como puede __<u>verlo</u>__ el creyente.
 
@@ -1414,7 +1405,7 @@ Vimos en el capítulo 1 que el sufrimiento es garantizado y seguro.
 
 #### Pero es mucho mejor para Dios si el creyente anda haciendo el bien y __<u>sufre</u>__ por ello. 
 
-###  1 Pedro 3:18a *"Porque..."* Si bien el sufrimiento es __<u>visto</u>__ como algo malo o negativo. Vemos en estos versículos que el sufrimiento puede llegar a ser bueno. Pero ¿porque sería bueno?
+###  1 Pedro 3:18a *"Porque...*" Si bien el sufrimiento es __<u>visto</u>__ como algo malo o negativo. Vemos en estos versículos que el sufrimiento puede llegar a ser bueno. Pero ¿porque sería bueno?
 
 #### 1 Pedro No __<u>enseña</u>__ que sufrir por cualquier razón es bueno a los ojos de Dios.
 
@@ -1430,7 +1421,7 @@ Vimos en el capítulo 1 que el sufrimiento es garantizado y seguro.
 
 #### Y ahora 1 Pedro nos mostrará Un padecimiento por hacer lo bueno, y como fue utilizado en las manos amorosas de __<u>Dios</u>__.
 
-###  1 Pedro 3:18b *"Porque también Cristo murió [padeció RV60] por los pecados una sola vez..."* El pasaje es claro, nos habla de un padecimiento, el __<u>cual</u>__ ocurrió una sola vez.
+###  1 Pedro 3:18b *"Porque también Cristo murió [padeció RV60] por los pecados una sola vez...*" El pasaje es claro, nos habla de un padecimiento, el __<u>cual</u>__ ocurrió una sola vez.
 
 #### Cristo murió en una cruz, una __<u>sola</u>__ vez para siempre. Hebreos 7:27, 9:26, 28, 10:10, 12; 1 Pedro 2:24
 
@@ -1438,7 +1429,7 @@ Vimos en el capítulo 1 que el sufrimiento es garantizado y seguro.
 
 #### Cristo murió por todos los pecados, de toda la historia, de cada ser __<u>humano</u>__ que a existido y existirá. Isaías 53:4-6; Romanos 3:25-26, 8:3; Gálatas 1:4; 1 Juan 2:2
 
-###  1 Pedro 3:18b *"...el justo por los injustos..."* También puede ser traducido "el __<u>Justo</u>__ en favor de los injustos"
+###  1 Pedro 3:18b "*...el justo por los injustos...*" También puede ser traducido "el __<u>Justo</u>__ en favor de los injustos"
 
 #### Cristo es el Justo, nunca cometió __<u>pecado</u>__, ni engaño alguno se hayo en su boca. Mateo 27:19, 24; Hechos 3:14; 1 Pedro 2:22-23
 
@@ -1450,11 +1441,11 @@ Vimos en el capítulo 1 que el sufrimiento es garantizado y seguro.
 
 #### Y lo hizo a favor de nosotros, que merecíamos la __<u>muerte</u>__. ¿Porqué?
 
-###  1 Pedro 3:18c *"...para llevarnos a Dios,..."* Si antes por medio de __<u>nuestro</u>__ pecado, merecíamos la condenación merecida y estábamos totalmente separados del Padre.
+###  1 Pedro 3:18c "*...para llevarnos a Dios,...*" Si antes por medio de __<u>nuestro</u>__ pecado, merecíamos la condenación merecida y estábamos totalmente separados del Padre.
 
 #### Ahora por medio de Cristo y Su Obra somos acercados inmerecidamente a Dios y somos perdonados y __<u>salvados</u>__ eternamente. Romanos 5:1-2; Colosenses 1:19-22; Hebreos 7:25
 
-###  1 Pedro 3:18d *"...muerto en la carne..."* Claramente __<u>Cristo</u>__ vino en carne a la tierra, se hizo hombre y padeció la muerte. Romanos 1:3; Filipenses 2:7
+###  1 Pedro 3:18d "*...muerto en la carne...*" Claramente __<u>Cristo</u>__ vino en carne a la tierra, se hizo hombre y padeció la muerte. Romanos 1:3; Filipenses 2:7
 
 #### El es el único Mediador entre Dios y los hombres. 1 Timoteo 2:5
 
@@ -1462,7 +1453,7 @@ Vimos en el capítulo 1 que el sufrimiento es garantizado y seguro.
 
 #### No tendrían que desanimarse o preguntarse si estaban haciendo mal las cosas. Podían ver como el Señor obro para algo muy bueno el sufrimiento de Cristo, podrían confiar que el Señor también __<u>obraría</u>__ para bien el sufrimiento de ellos.
 
-###  1 Pedro 3:18e *"...pero vivificado en el espíritu."* Cristo fue resucitado de entre los muertos, no por __<u>medio</u>__ de carne o poder humano, sino que esto fue una obra espiritual.
+###  1 Pedro 3:18e "*...pero vivificado en el espíritu."* Cristo fue resucitado de entre los muertos, no por __<u>medio</u>__ de carne o poder humano, sino que esto fue una obra espiritual.
 
 #### En Romanos 1:3-4, 8:11 vemos que el Espíritu Santo es el que __<u>levanto</u>__ de los muertos a Jesucristo.
 
@@ -1470,17 +1461,17 @@ Vimos en el capítulo 1 que el sufrimiento es garantizado y seguro.
 
 #### Vemos que Cristo padeció en la carne, en debilidad humana, pero fue vivificado en el espíritu. Cristo es las primicias de la futura resurrección (glorificación), __<u>libertad</u>__ de la debilidad y del sufrimiento humano. Esta también es la esperanza futura de los creyentes de la edad de la iglesia. 1 Corintios 15:20; Romanos 6:9
 
-###  1 Pedro 3:19 *"En el espíritu también fue y predicó a los espíritus encarcelados,..."* Nótese el énfasis que  hace la Escritura a cuando Cristo fue y __<u>predicó</u>__ a los espíritus encarcelados.
+###  1 Pedro 3:19 *"En el espíritu también fue y predicó a los espíritus encarcelados,...*" Nótese el énfasis que  hace la Escritura a cuando Cristo fue y __<u>predicó</u>__ a los espíritus encarcelados.
 
 #### La manera en la cual Cristo realizo esta tarea fue en el espíritu.
 
 #### Ahora ¿Quienes son los espíritus __<u>encarcelados</u>__?
 
-###  1 Pedro 3:20a *"...quienes en otro tiempo fueron desobedientes..."* Desobedientes en términos de __<u>Pedro</u>__ harían referencia a incrédulos. 1 Pedro 2:8, 3:1, 4:17
+###  1 Pedro 3:20a "*...quienes en otro tiempo fueron desobedientes...*" Desobedientes en términos de __<u>Pedro</u>__ harían referencia a incrédulos. 1 Pedro 2:8, 3:1, 4:17
 
 ####  En algún tiempo de la __<u>historia</u>__ estos espíritus encarcelados fueron incrédulos. ¿Cuando?
 
-###  1 Pedro 3:20b *"...cuando la paciencia de Dios esperaba en los días de Noé durante la construcción del arca...*" El pasaje nos remonta a los tiempos de __<u>Noé</u>__ durante los muchos años durante la construcción del arca.
+###  1 Pedro 3:20b "*...cuando la paciencia de Dios esperaba en los días de Noé durante la construcción del arca...*" El pasaje nos remonta a los tiempos de __<u>Noé</u>__ durante los muchos años durante la construcción del arca.
 
 #### Génesis 6:3, 7, vemos a Dios __<u>anunciando</u>__ el juicio que vendría por la maldad que había en el mundo. Génesis 6:11-12
 
@@ -1506,11 +1497,11 @@ Vimos en el capítulo 1 que el sufrimiento es garantizado y seguro.
 
 #### Estos desobedientes ahora son espíritus encarcelados, que se encuentran en el __<u>hades</u>__ siendo atormentados. Lucas 16:26; Hebreos 9:27
 
-###  1 Pedro 3:20c *"...en la cual unos pocos, es decir, ocho personas fueron salvadas por medio del agua."* No todas las personas sufrieron el juicio del diluvio, __<u>ocho</u>__ personas fueron salvas. Algo que es importante notar es que no fue por medio del arca la salvación para Noé y su familia, sino que el versículo dice que fueron salvos **por medio o a través** del agua.
+###  1 Pedro 3:20c "*...en la cual unos pocos, es decir, ocho personas fueron salvadas por medio del agua."* No todas las personas sufrieron el juicio del diluvio, __<u>ocho</u>__ personas fueron salvas. Algo que es importante notar es que no fue por medio del arca la salvación para Noé y su familia, sino que el versículo dice que fueron salvos **por medio o a través** del agua.
 
-###  1 Pedro 3:21 *"Y correspondiendo a esto, el bautismo ahora los salva a ustedes, no quitando la suciedad de la carne, sino como una petición a Dios de una buena conciencia, mediante la resurrección de Jesucristo,..."* Una mejor traducción para __<u>entre</u>__ este versículo sería...
+###  1 Pedro 3:21 *"Y correspondiendo a esto, el bautismo ahora los salva a ustedes, no quitando la suciedad de la carne, sino como una petición a Dios de una buena conciencia, mediante la resurrección de Jesucristo,...*" Una mejor traducción para __<u>entre</u>__ este versículo sería...
 
-#### 1 Pedro 3:20c-21*"...ocho personas, fueron salvadas a través de agua; la cual también es figura de cómo el bautismo ahora os salva (no como eliminación de la suciedad de la carne, sino como respuesta de una buena conciencia a Dios) __<u>mediante</u>__ la resurrección de JESUCRISTO..."* (BTX4)
+#### 1 Pedro 3:20c-21"*...ocho personas, fueron salvadas a través de agua; la cual también es figura de cómo el bautismo ahora os salva (no como eliminación de la suciedad de la carne, sino como respuesta de una buena conciencia a Dios) __<u>mediante</u>__ la resurrección de JESUCRISTO...*" (BTX4)
 
 ####  El pasaje **no enseña** que Noé fue salvo del infierno por entrar al arca. En Genesis 6:8 vemos que Noé hallo gracia a los ojos de Dios. Pasajes como Romanos 4 nos __<u>muestran</u>__ que la salvación de la pena del pecado siempre fue por gracia por medio de la fe. Romanos 4:4-8
 
@@ -1808,7 +1799,7 @@ Vimos en el capítulo 1 que el sufrimiento es garantizado y seguro.
 
 ### 1 Pedro 4:14c "*...Ciertamente, por ellos Él es blasfemado, pero por ustedes es glorificado.*" los que reciben el insulto no es directamente el creyente, sino que el Señor es el que recibe los insultos, ellos __<u>actúan</u>__ con blasfemia en contra de Él, pero al permanecer en mansedumbre y con limpia conciencia regocijándonos en la tribulación el Señor es glorificado.
 
-### 1 Pedro 4:15a "*Que de ninguna manera sufra alguien de ustedes como asesino,..."* Un asesino sufre por las consecuencias de sus actos, aquí Pedro da otro imperativo en esto no __<u>debe</u>__ ser así en medio de ellos.
+### 1 Pedro 4:15a "*Que de ninguna manera sufra alguien de ustedes como asesino,...*" Un asesino sufre por las consecuencias de sus actos, aquí Pedro da otro imperativo en esto no __<u>debe</u>__ ser así en medio de ellos.
 
 #### 1 Pedro 4:15b "*... o ladrón,...*" de igual modo no debían __<u>sufrir</u>__ por causa de haber sido parte de obras que no van con el andar según la voluntad de Dios
 
