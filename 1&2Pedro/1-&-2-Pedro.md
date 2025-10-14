@@ -187,7 +187,7 @@ Title: 1 & 2 Pedro
 
 ### Pedro desea que la gracia y la paz de Dios  les sean __<u>dadas</u>__ grandemente a estos creyentes. 1 Pedro 1:2d
 
-## 1 Timoteo 1:3-5 La esperanza viva por la fe
+## 1 Pedro 1:3-5 La esperanza viva por la fe
 
 ###  1 Pedro 1:3a "*Bendito sea el Dios y Padre de nuestro Señor Jesucristo, quien según Su gran misericordia...*" Pedro bendice a Dios el Padre quien compartimos en Jesucristo por su __<u>gran</u>__ misericordia. 2 Corintios 1:3
 
@@ -289,7 +289,7 @@ Title: 1 & 2 Pedro
 
 #### En última instancia, la fe hace que la soberanía de Dios en proveer salvación por el medio de la fe en Jesucristo sea confirmada y la promesa __<u>segura</u>__ al individuo. El poder de Dios guarda a los creyentes "*mediante la fe*" para la salvación que está preparada para ser revelada en el tiempo postrero, asegurando así que su herencia "*incorruptible e inmaculada, y cuyo destino no está lejos, reservada en los cielos*". ¡¡Maravillosa gracia!!
 
-## 1 Timoteo 1:6-9 La fe probada
+## 1 Pedro 1:6-9 La fe probada
 
 ###  1 Pedro 1:6a  "*En lo cual ustedes se regocijan grandemente,*" Les trajo gran regocijo conocer estas realidades. Saber con certeza absoluta que seremos salvos en el último tiempo nos llena de gozo. Así como Dios supo de nosotros de antemano, estuvo reservando nuestra herencia __<u>futura</u>__ y nos hizo renacer, podemos regocijarnos al saber que nos protege en el presente para recibir la completa salvación que nos ha prometido en el futuro. 
 
@@ -305,11 +305,11 @@ Title: 1 & 2 Pedro
 
 #### Así como el fuego es bueno para separar el oro de las impurezas, las pruebas en la vida del creyente __<u>son</u>__ buenos para probar su fe. 
 
-#### La prueba presente purifica al creyente como el oro es purificado por el fuego. Es importante entender que es bueno el sufrimiento presente. No __<u>somos</u>__ víctimas de las circunstancias sino es "*necesario*" por "*un poco de tiempo*" que seamos "*afligidos con diversas pruebas*". 
-
 #### "*Prueba*" DOKIMON significa integridad, ausencia de falsedad. Después de "poner bajo fuego" nuestra fe, se elimina toda "escoria" y __<u>queda</u>__ lo que es puro. Esto es nuestra fe probada o comprobada. 
 
-#### Así como llegamos a ser receptores de la salvación por medio de Jesucristo, también somos enseñados que el __<u>andar</u>__ del creyente debe ser por la fe. Cuando nuestra fe es puesta bajo prueba se purifica. La fe probada es precioso a los ojos de Dios. Santiago 1:2-4
+#### La prueba presente purifica al creyente como el oro es purificado por el fuego. Es importante entender que es bueno el sufrimiento presente. No __<u>somos</u>__ víctimas de las circunstancias sino es "*necesario*" por "*un poco de tiempo*" que seamos "*afligidos con diversas pruebas*". 
+
+#### Podemos observar que la fe realmente es importante dentro de la administración de Dios. Nuestra fe "activó" el previo conocimiento de Dios. También nuestra fe es el propósito de los sufrimientos presentes del creyente. El valor que Dios da a nuestra fe eleva su imporancia. Si nuestra fe se va aumentando a traves de la pruebas, podemos regocijarnos. Santiago 1:2-4
 
 ### 1 Pedro 1:7b "*sea hallada que resulta en alabanza, gloria y honor...*" La fe pura tiene un valor precioso, más que puro oro.  El oro es considerado hermoso y valioso en este __<u>mundo</u>__. 
 
@@ -341,7 +341,11 @@ Title: 1 & 2 Pedro
 
 ##### La Biblia dice, "*Obteniendo el fin de __<u>vuestra</u>__ fe, que es la salud de vuestras almas*". (RVR09)
 
-#### ¡Cuan importante es nuestra fe para Dios! Este mundo hace el ridículo de los que creen pero __<u>para</u>__ Dios es algo especial. Su previo conocimiento va ligado estrechamente a nuestra fe. Nuestra aseguranza actual está basado en fe. Las pruebas son para probar nuestra fe. Es por fe que el creyente exprimenta la salud de su alma. 
+##### En el versículo 5 vimos que somos protegidos por el poder de Dios mediante la fe para un futuro. Esto es seguro y basado en un momento del tiempo que colocamos nuestra fe en Jesucristo. 
+
+##### Sin embargo, aquí habla de la fe probada que trae la salud de nuestras almas. Para la persona que ya tiene la salvación eterna y segura, en el presente su alma es sanada por medio de la fe. Es decir, el creyente que anda por la fe es un creyente saludable espiritualmente. 
+
+#### ¡Cuan importante es nuestra fe! Este mundo hace el ridículo de los que creen pero __<u>para</u>__ Dios es algo especial e importante. Su previo conocimiento va ligado estrechamente a nuestra fe. Nuestra aseguranza actual está basado en fe. Las pruebas son para probar nuestra fe y traernos salud. Es por fe que el creyente exprimenta la salud de su alma. 
 
 ## En Síntesis (1 Pedro 1:3-9)
 
@@ -367,21 +371,31 @@ Title: 1 & 2 Pedro
 
 ### 1 Pedro 1:10a  "*Acerca de esta salvación, los profetas que profetizaron...*" La manera que __<u>Dios</u>__ llevaría a efectuar la salvación era incierta para los profetas. 
 
-#### La palabra salvación SOZO es usada 4 veces en 1 Pedro y una __<u>vez</u>__ en 2 Pedro. 1 Pedro 1:5, 9, 10, 2:2; 2 Pedro 3:15
+#### La palabra "*salvación*" SOZO es usada 4 veces en 1 Pedro y una __<u>vez</u>__ en 2 Pedro. 1 Pedro 1:5, 9, 10, 2:2; 2 Pedro 3:15
 
-#### Veamos el uso de almas PSUCHE en 1 Pedro. 1 Pedro 1:9, 22, 2:11, 2:25, 3:20, 4:19
+#### Veamos la palabra salvación en Pedro:
+
+##### 1 Pedro 1:5 - salvación futura
+
+##### 1 Pedro 1:9 - salvación presente
+
+##### 1 Pedro 2:2 - salvación presente
+
+##### 2 Pedro 3:15 - salvación presente
+
+#### Veamos el uso de "*almas*" PSUCHE en 1 Pedro:
 
 ##### 1Pedro 1:9 "*obteniendo, como resultado de su fe, la __<u>salvación</u>__ de sus **almas**.*" Esta hablando de una salvación obtenida ya o que estaba en proceso? 
 
-###### 1 Pedro 1:22 "*Puesto que en obediencia a la verdad ustedes han purificado sus **almas** para un amor sincero de hermanos, ámense unos a otros entrañablemente, de corazón puro.*" Se hicieron purificados (perfecto, activo, participio) sus almas por medio de la obediencia a la __<u>verdad</u>__. Santificación. 
+##### 1 Pedro 1:22 "*Puesto que en obediencia a la verdad ustedes han purificado sus **almas** para un amor sincero de hermanos, ámense unos a otros entrañablemente, de corazón puro.*" Se hicieron purificados (perfecto, activo, participio) sus almas por medio de la obediencia a la __<u>verdad</u>__ en santificación. 
 
-###### 1 Pedro 2:25 "*Pues ustedes andaban descarriados como ovejas, pero ahora han __<u>vuelto</u>__ al Pastor y Guardián de sus **almas**.*" 
+##### 1 Pedro 2:25 "*Pues ustedes andaban descarriados como ovejas, pero ahora han __<u>vuelto</u>__ al Pastor y Guardián de sus **almas**.*" 
 
-###### 1 Pedro 3:20 "*quienes en otro tiempo fueron desobedientes cuando la paciencia de Dios esperaba en los días de Noé durante la construcción del arca, en la cual unos pocos, es decir, __<u>ocho</u>__ personas* [almas], *fueron salvadas por medio del agua.*" 
+##### 1 Pedro 3:20 "*quienes en otro tiempo fueron desobedientes cuando la paciencia de Dios esperaba en los días de Noé durante la construcción del arca, en la cual unos pocos, es decir, __<u>ocho</u>__ personas* [almas], *fueron salvadas por medio del agua.*" 
 
-###### 1 Pedro 4:19 "*Así que los que __<u>sufren</u>__ conforme a la voluntad de Dios, encomienden sus **almas** al fiel Creador, haciendo el bien.*" 
+##### 1 Pedro 4:19 "*Así que los que __<u>sufren</u>__ conforme a la voluntad de Dios, encomienden sus **almas** al fiel Creador, haciendo el bien.*" 
 
-### 1 Pedro 1:10b "*de la gracia que vendría a ustedes...*" una gracia venidera no significa que no hemos recibido gracia y que debemos __<u>esperar</u>__ para posiblemente recibirlo. Significa que recibimos gracia sobre gracia. 
+### 1 Pedro 1:10b "*de la gracia que vendría a ustedes...*" una gracia venidera no significa que no hemos recibido gracia todavia y que debemos __<u>esperar</u>__ para posiblemente recibirlo. Significa que recibimos gracia sobre gracia y aún más gracia. 
 
 #### Fuimos salvos __<u>por</u>__ gracia. Efesios 2:8
 
@@ -389,19 +403,31 @@ Title: 1 & 2 Pedro
 
 #### Somos protegidos del libertinaje al ser enseñados __<u>por</u>__ la gracia. 2 Pedro 3:17-18
 
-#### Somos enseñados a vivir piadosamente __<u>por</u>__ la gracia y a tener bien enfocado nuestra esperanza. Tito 2:11-12
+#### Estar firmes en la gracia nos protege de caer en el legalismo. Gálatas 5:1-4
+
+#### Somos enseñados a vivir piadosamente __<u>por</u>__ la gracia y a tener bien enfocado nuestra esperanza. Tito 2:11-12 
 
 #### La gracia nos enseña a tener esperanza __<u>en</u>__ Jesucristo. 1 Pedro 1:13; Tito 2:13
 
-#### La gracia nos enseña a ser celoso __<u>de</u>__ buenas obras. Tito 2:14
+#### La gracia nos enseña a ser celosos __<u>de</u>__ buenas obras. Tito 2:14
 
-### 1 Pedro 1:10c "*...diligentemente inquirieron y averiguaron...*" para una persona viviendo bajo la ley, debió llamarles la atención las cosas que estaban siendo reveladas sobre la __<u>gracia</u>__ que iba de venir.  Lucas 10:24
+### 1 Pedro 1:10c "*los profetas...diligentemente inquirieron y averiguaron...*" para una persona viviendo en los tiempos del Antiguo Testamento han debido tener mucha curiosidad sobre el Mesias y sobre que vendría ha hacer para el hombre, sin embargo no fueron revelados todas las cosas que ahora tenemos pleno conocimiento por medio de Cristo. Hebreos 1:1-3
 
-#### Similarmente por ejemplo, a nosotros nos llama la atención muchas cosas sobre el Reino Milenial de Cristo. Quisiéramos indagar y averiguar sobre ese tiempo y sabemos ciertas cosas acerca de ese __<u>tiempo</u>__ pero Dios no nos ha revelado todo detalle. 
+#### Los profetas fueron inspirados por El Espíritu Santo para escribir las Escrituras. 2 Pedro 1:21
+
+##### Debió llamarles la atención las cosas que estaban siendo reveladas sobre la <u>salvación</u> que iba de venir.  ¿Quien sería este salvador? ¿Cómo seria Él? ¿Cómo procuraría Dios la salvación del hombre? Seguramente tenían muchas preguntas sobre los misterios que el Apóstol Pablo fue comisionado para aclarar. Por ejemplo, ¿Cómo el Espíritu Santo moraria en el creyente? ¿Cómo seria la santificación? ¿Cómo sería cuando Dios use a los gentiles? Lucas 10:24, 27,  2:25-32
+
+#### Similarmente, como ejemplo, a nosotros nos llama la atención muchas cosas sobre el Reino Milenial de Cristo. Quisiéramos indagar y averiguar sobre ese tiempo y sabemos ciertas cosas acerca de ese __<u>tiempo</u>__ pero Dios no nos ha revelado todo detalle. 
+
+##### Por ejemplo, sabemos que reinaremos juntamente con Cristo, pero, ¿Cómo se verá eso? ¿Qué clase de reyes seremos? No se nos ha revelado todo detalle sobre estos detalles y deseamos conocerlo. Queremos saber como Dios lo llevará acabo. 
+
+###### Similarmente, los profetas recibían profecías parciales de cosas que nosotros ya tenemos pleno conocimiento. 
+
+#### Entonces, podemos ver que la salvación que habla 1 Pedro 1:10 es una salvación completa. Es decir, las tres fases de nuestra única salvación en Jesucristo. 
 
 ### 1 Pedro 1:11a  "*...procurando saber qué persona o tiempo indicaba el Espíritu de Cristo dentro de ellos...*" La revelación de Dios sobre su plan ha sido progresiva. Los que vinieron antes de nosotros (la iglesia) __<u>no</u>__ sabían cosas que a nosotros se nos ha revelado. Hechos 26:22; Apocalipsis 22:6
 
-### 1 Pedro 1:11b "*...al predecir los sufrimientos de Cristo y las glorias que seguirían...*" Los sufrimientos de __<u>Cristo</u>__ fueron predichos y también las glorias que seguirían. 
+### 1 Pedro 1:11b "*...al predecir los sufrimientos de Cristo y las glorias que seguirían...*" Los sufrimientos de __<u>Cristo</u>__ fueron predichos y también las glorias que seguirían. Isaías 53:10-12; Mateo 26:24; Lucas 24:27
 
 #### Predijeron Sus Sufrimientos
 
@@ -411,11 +437,17 @@ Title: 1 & 2 Pedro
 
 ##### Isaías 53:12 *Por tanto, Yo **le daré** parte **con los grandes** Y con los fuertes **repartirá despojos**, Porque derramó Su alma hasta la __<u>muerte</u>__ Y con los transgresores fue contado; Llevó el pecado de muchos, E intercedió por los transgresores.*
 
-### 1 Pedro 1:12a  "*...A ellos les fue revelado que no se servían a sí mismos, sino a ustedes...*" Había una razón más allá de solo revelar el sufrimiento y glorias postreras de Cristo. Era __<u>para</u>__ los lectores de la carta y para nosotros. Romanos 4:22-25
+### 1 Pedro 1:12a  "*...A ellos les fue revelado que no se servían a sí mismos, sino a ustedes...*" Los profetas del Antiguo Testamento no se servían a si mismos. Había una razón más allá de solo revelar el sufrimiento y glorias postreras de Cristo. Era __<u>para</u>__ los lectores de la carta y para nosotros. Romanos 4:22-25
 
 ### 1 Pedro 1:12b "*...en estas cosas que ahora les han sido anunciadas mediante los que les predicaron el evangelio por el Espíritu Santo enviado del cielo...*" Mayor revelación habían recibido que los que anunciaron __<u>sobre</u>__ los sufrimientos de Cristo y las glorias que seguirían. 
 
-### 1 Pedro 1:12c "*...cosas a las cuales los ángeles anhelan mirar...*" los ángeles desearían poder ver lo que el creyente de la edad de la iglesia ya ha __<u>sido</u>__ revelado. 
+#### Vemos ahora una mayor revelación de lo que los profetas tenían. 
+
+##### Vemos más claramente sobre Cristo y sus sufrimientos. 
+
+##### Vemos lo que tuvo que padecer por tomar nuestro lugar el la cruz por nuestros pecados. 
+
+### 1 Pedro 1:12c "*...cosas a las cuales los ángeles anhelan mirar...*" los ángeles desearían poder ver lo que el creyente de la edad de la iglesia ya ha __<u>sido</u>__ revelado. Hebreos 2:16; Lucas 15:10
 
 #### "*Anhelan*" EPITHUMEO - tener un __<u>deseo</u>__ intenso por alguna cosa en particular.[^1]
 
@@ -529,14 +561,20 @@ Title: 1 & 2 Pedro
 
 ####  "*Sincero*" ANIPOCRITOS - __<u>no</u>__ fingido; sinceramente sentido o expresado.[^1] 
 
-###  1 Pedro 1:22c "*...ámense unos a otros entrañablemente...*" Se pueden __<u>amar</u>__ unos a otros con fervor.
+###  1 Pedro 1:22c "*...ámense unos a otros entrañablemente...*" Se pueden __<u>amar</u>__ unos a otros con fervor (intensamente). 
 
-#### "*Ámense*" (aoristo, activo, imperativo) El creyente es mandado a amar a otros. Aquí, los creyentes son llamados a __<u>amarse</u>__. 
+#### "*Ámense*" (aoristo, activo, imperativo) El creyente es mandado a amar a otros. Aquí, los creyentes son llamados a __<u>amarse</u>__ en amor fraternal. 
 #### "*Entrañablemente*" EKTENOS - con entusiasmo, de una manera seria, ferviente.[^1]
 
 ###  1 Pedro 1:22d "*ámense...de corazón puro.*" No __<u>solo</u>__ con amor sincero, y entrañablemente sino con pureza de corazón. 
 
+#### Han sido purificados, habilitados para tener corazones puros, vacíos del engaño. 
+
+#### Estos hermanos están siendo perseguidos y están sufriendo pero no significa que deben cohibirse de amarse los unos a los otros. 1 Juan 3:1-3
+
 ###  1 Pedro 1:23a "*ámense...Pues han nacido de nuevo...*" (perfecto, pasivo, participio) - siendo que eran renacidos por Dios estaban creados nuevamente en Cristo __<u>para</u>__ buenas obras. Efesios 2:10; 2 Corintios 5:17-18
+
+#### Ámense no esta sujeto a ellos mismos sino a quienes son basado en lo que Dio ha hecho en ellos para vivir depentiendes de Dios. 
 
 ###  1 Pedro 1:23b "*no de una simiente corruptible, __<u>sino</u>__ de una que es incorruptible...*" Nuestro nacimiento es por una simiente divina, celestial (incorruptible) no humana (corruptible).
 
@@ -548,51 +586,53 @@ Title: 1 & 2 Pedro
 
 #### Veamos un poco del contexto de Isaías 40. 
 
-##### Isaías 40:5-6 *Entonces será revelada la gloria del SEÑOR, Y toda carne a una la verá, Pues la boca del SEÑOR ha hablado». Una __<u>voz</u>__ dijo: «Clama». Entonces él respondió: «¿Qué he de clamar?». Que toda carne es como la hierba, y todo su esplendor es como la flor del campo.*
+##### Isaías 40:5-6 *Entonces será revelada la gloria del SEÑOR, Y toda carne a una la verá, Pues la boca del SEÑOR ha hablado». Una __<u>voz</u>__ dijo: «Clama». Entonces él respondió: «¿Qué he de clamar?». Que toda carne es como la hierba, y todo su esplendor es como la flor del campo.* Todo lo humano es como la flor del campo, tiene cierta gloria...pero sigamos leyendo...
 
-##### Isaías 40:7-8 *Se seca la hierba, se marchita la flor Cuando el aliento del SEÑOR sopla __<u>sobre</u>__ ella; En verdad el pueblo es hierba. Se seca la hierba, se marchita la flor, Pero la palabra de nuestro Dios permanece para siempre.*
+##### Isaías 40:7-8 *Se seca la hierba, se marchita la flor Cuando el aliento del SEÑOR sopla __<u>sobre</u>__ ella; En verdad el pueblo es hierba. Se seca la hierba, se marchita la flor, Pero la palabra de nuestro Dios permanece para siempre.* Entonces, lo que tiene gloria y esplendor proviniente del hombre se seca. Pero la Palabra de Dios permanece. 
 
-##### Isaías 40:9-10 *Súbete a un alto monte, Oh Sion, portadora de buenas nuevas. Levanta con fuerza tu voz, Oh Jerusalén, portadora de buenas nuevas; Levántala, no temas. Dile a las ciudades de Judá: «Aquí está su Dios». Miren, el Señor DIOS vendrá con poder, Y Su brazo gobernará __<u>por</u>__ Él. Con Él está Su galardón, Y Su recompensa delante de Él.*
+##### Isaías 40:9-10 *Súbete a un alto monte, Oh Sion, portadora de buenas nuevas. Levanta con fuerza tu voz, Oh Jerusalén, portadora de buenas nuevas; Levántala, no temas. Dile a las ciudades de Judá: «Aquí está su Dios». Miren, el Señor DIOS vendrá con poder, Y Su brazo gobernará __<u>por</u>__ Él. Con Él está Su galardón, Y Su recompensa delante de Él.* Podemos confiar en este hecho porque la Palabra permanece para siempre, se cumplirá tal como dice. 
 
-#### La humanidad es corruptible, es falible y no permanece.
+###### La humanidad (y todo lo que proviene de el) es corruptible, es falible y no permanece. La filosofias humanas, el razonamiento humano, las religiones humanas, todas son huecas y pasan. 
 
 ##### 1 Juan 2:17 "*El mundo __<u>pasa</u>__, y también sus pasiones, pero el que hace la voluntad de Dios permanece para siempre*". 
 
-#####  El __<u>hombre</u>__ no es constante. Jeremías 1:5
+######  El __<u>hombre</u>__ no es eterno. Tuvo un início. Jeremías 1:5
 
-##### El hombre no es __<u>fiel</u>__. Miqueas 7:5
+###### El hombre no es __<u>fiel</u>__. Miqueas 7:5
 
-##### El hombre __<u>no</u>__ es confiable. Salmo 118:8
+###### El hombre __<u>no</u>__ es confiable. Salmo 118:8-9
 
-##### El hombre no __<u>hace</u>__ el bien. Jeremías 17:5
+###### El hombre no __<u>hace</u>__ el bien. Jeremías 17:5
 
-###  1 Pedro 1:24b "*Y TODA SU GLORIA COMO LA FLOR DE LA HIERBA*" la flor es producto de la __<u>hierba</u>__. 
+###  1 Pedro 1:24b "*Y TODA SU GLORIA COMO LA FLOR DE LA HIERBA...*" la flor es producto de la __<u>hierba</u>__. 
 
 ####  No dice el versículo que el mundo no tiene gloria, dice que la gloria de toda __<u>carne</u>__ es como la flor de la hierba. Salmo 90:5-6
 
+#### En otras palabras, el mundo tiene su gloria, la carne produce su gloria. Pero, reflexionemos un poco acerca de esa gloria... 
+
 ###  1 Pedro 1:24c "*SÉCASE LA HIERBA, CÁESE LA FLOR,*" Las personas __<u>luchan</u>__ para mantener la flor sin secarse porque al secarse la flor desvanece su gloria. La flor tiene una gloria poca duradera. Santiago 1:10-11
 
-###  1 Pedro 1:25a "*PERO LA PALABRA DEL SEÑOR PERMANECE PARA SIEMPRE».*" En contraste (Pero) con la __<u>corta</u>__ vida de la carne y su gloria, La Palabra de Dios permanece para siempre. 
+###  1 Pedro 1:25a "*PERO LA PALABRA DEL SEÑOR PERMANECE PARA SIEMPRE».*" En contraste (*pero*) con la __<u>corta</u>__ vida de la carne y su gloria, La Palabra de Dios permanece para siempre. 
 
-#### La palabra de Dios __<u>no</u>__ cambia. Salmo 119:89
+#### La Palabra de Dios __<u>jamás</u>__ cambiara. Salmo 119:89
 
-#### La __<u>palabra</u>__ de Dios nunca pasará. Isaías 40:8; Mateo 24:35
+#### La Palabra</u>__ de Dios nunca pasará. Isaías 40:8; Mateo 24:35
 
-#### La palabra de Dios __<u>es</u>__ fiel. 1 Pedro 1:25; Proverbios 30:5
+#### La Palabra de Dios __<u>es</u>__ fiel. 1 Pedro 1:25; Proverbios 30:5
 
-#### La palabra de __<u>Dios</u>__ es verdadera. 2 Timoteo 3:16
+#### La Palabra de __<u>Dios</u>__ es verdadera. 2 Timoteo 3:15-16
 
-#### La palabra de Dios es desde eternidad __<u>pasada</u>__ a eternidad futura. Juan 1:1
+#### La Palabra de Dios es desde eternidad __<u>pasada</u>__ a eternidad futura. Juan 1:1
 
-#### La palabra de Dios no __<u>cambia</u>__ según los tiempos. Salmo 119:89
+#### La Palabra de Dios no __<u>cambia</u>__ según los tiempos. Salmo 119:89
 
-#### La palabra de Dios no cambia __<u>según</u>__ la inteligencia del hombre. Romanos 1:25
+#### La Palabra de Dios no cambia __<u>según</u>__ la inteligencia del hombre. Romanos 1:25-26
 
-#### La palabra __<u>de</u>__ Dios no cambia según los descubrimientos arqueológicos, científicos, astronómicos etc. etc.. 2 Pedro 3:3
+#### La Palabra __<u>de</u>__ Dios no cambia según los descubrimientos arqueológicos, científicos, astronómicos etc. etc.. 2 Pedro 3:3-7
 
-###  1 Pedro 1:25b "*Esa es la palabra que a ustedes les fue predicada.*" Esa es la palabra que __<u>oyeron</u>__ y creyeron. Esa es la palabra que les mantiene firmes en este momento. Lucas 4:16-21
+###  1 Pedro 1:25b "*Esa es la palabra que a ustedes les fue predicada.*" Esa misma Palabra es la que __<u>oyeron</u>__ y creyeron. Esa es la palabra que les mantiene firmes en este momento. Lucas 4:16-21
 
-#### "*Predicada*" EUANGELIZO - les habían predicado __<u>el</u>__ evangelio. 
+#### "*Predicada*" es la palabra EUANGELIZO que nos hace entender que predicaron la buena noticia. Les habían predicado __<u>el</u>__ evangelio. 
 
 ## En Síntesis (1 Pedro 1:10-25)
 
@@ -710,9 +750,45 @@ Title: 1 & 2 Pedro
 
 ## 1 Pedro 2:4-8 Piedras vivas edificando una casa espiritual
 
-###  Pedro tomará a Él (Cristo) como un ejemplo de piedra viva, la cual los hombres desecharon, sin embargo esta piedra era __<u>escogida</u>__ por Dios y preciosa a Su vista.
+### Utilizando numerosas citas y alusiones del Antiguo Testamento, Pedro continúa animando a sus lectores. Los cristianos deben entender la obra salvadora de Dios en Jesús y responder con una conducta que lo honre. 1 Pedro 2:6
 
-#### En estos pasajes veremos seguidamente el uso de la palabra piedra, esto puede haber sido muy significativo para el apóstol Pedro __<u>debido</u>__ a que Jesús le cambio el nombre de Simón a Cefas que quiere decir Pedro (PETROS-Piedra). Juan 1:42
+#### En Hechos 4:11 Pedro dijo, "*»Este Jesús es la PIEDRA DESECHADA por ustedes LOS CONSTRUCTORES, pero QUE HA VENIDO A SER LA PIEDRA ANGULAR.*" ¿A que se refería Pedro aquí?
+
+### Pedro se prestará varios conceptos del Antiguo Testamento para explicar como son Su pueblo y Sus representantes. Usará a Israel y como ellos fueron los agentes de Dios en la tierra para presentar este concepto a la iglesia. 
+
+#### Dios está construyendo un templo el cual Cristo es la piedra más importante. Sobre esta piedra esta edificando el resto del templo. Los creyentes funcionan como pilares en la casa espiritual de Dios (el templo); lo hacen en virtud de su nueva vida en Cristo. 1 Pedro 1:3
+
+##### Piedra Viva: Esta construcción es en base a una piedra. Génesis 28:10-22, Miqueas 4:2,
+
+##### Piedras vivas: Nosotros, los que hemos nacido de nuevo a una esperanza viva, somos igualmente piedras. 
+
+### Esperanza viva (1:3), Palabra viva (1:23), Piedra Viva (2:4)
+
+Siendo muertos al pecados vivamos a la justicia (2:24)
+
+ 1 Cronicas 22, Psa 118:22; Isa 28:16; Matt 21:42–44;
+
+1 Reyes 5-6 
+
+1 Corintios 3:10–15
+
+Sacerdocio Santo - 
+
+Sacrificios Espirituales - 
+
+Linaje Escogido - 
+
+Nacion Santa - una nacion apartada
+
+Real Sacerdocio
+
+
+
+#### Mateo 21:42 *Jesús les dijo: «¿Nunca leyeron en las Escrituras: “LA PIEDRA QUE DESECHARON LOS CONSTRUCTORES, ESA, EN PIEDRA ANGULAR SE HA CONVERTIDO; ESTO FUE HECHO DE PARTE DEL SEÑOR, Y ES MARAVILLOSO A NUESTROS OJOS*”? Isaías 28:16
+
+###  Pedro tomará a Él (Cristo) como un ejemplo de piedra viva, la cual los hombres desecharon, sin embargo esta piedra era __<u>escogida</u>__ por Dios y preciosa a Su vista. 
+
+
 
 ###  1 Pedro 2:4a *"...Y viniendo a Él..."* La palabra viniendo PROSERJOMAI significa acercarse, venir hacia. Este verbo se encuentra en __<u>tiempo</u>__ presente, pasivo-medio, participio, indicando a los creyentes una invitación constante de que pueden acercarse a Él en beneficio propio.
 
@@ -1034,7 +1110,7 @@ Title: 1 & 2 Pedro
 
 ###### Para que pudiéramos ser __<u>traídos</u>__ al Pastor (2:25)
 
-# 1 Timoteo 3:1-8 Relaciones dentro de la Iglesia
+# 1 Pedro 3:1-8 Relaciones dentro de la Iglesia
 
 ### Puede que las circunstancias en las que se encontraban los creyentes a los que escribía Pedro, no eran las mejores para animarlos a vivir haciendo lo bueno. Por esa razón, en los anteriores versículos les __<u>recordó</u>__ a una persona, Cristo Jesús hombre. ¿Porqué?
 
@@ -1052,7 +1128,7 @@ Title: 1 & 2 Pedro
 
 ### Considerando al Ejemplo dado por Dios el Padre, Cristo, estos creyentes podrían hacer el bien, a pesar de que eso traiga sufrimiento, y podrían soportarlo con paciencia y gozo inefable. Esto es lo que Dios __<u>proveyó</u>__ para Sus salvos, esto es lo que halla gracia con Dios.
 
-## 1 Timoteo 3:1-6 Aprendiendo de las mujeres
+## 1 Pedro 3:1-6 Aprendiendo de las mujeres
 
 ###  1 Pedro 3:1a *"Asimismo ustedes, mujeres,..."* Anteriormente Pedro estuvo __<u>dando</u>__ instrucciones de sujeción a los creyentes, como ser: 
 
@@ -1150,7 +1226,7 @@ Title: 1 & 2 Pedro
 
 #### Esto haya gracia a los ojos de Dios, es __<u>precioso</u>__ delante de Dios. 1 Pedro 2:19-20
 
-## 1 Timoteo 3:7- Maridos
+## 1 Pedro 3:7- Maridos
 
 ###  1 Pedro 3:7a *"Ustedes, maridos, igualmente,..."* Ahora pasa a dar instrucciones a los esposos creyentes. 
 
@@ -1290,7 +1366,13 @@ Title: 1 & 2 Pedro
 
 #### El creyente no debería dar __<u>razones</u>__ para sufrir daño por medio de hacer lo malo. 1 Pedro 2:19-20
 
-###  1 Pedro 3:14a *"Pero aun si sufren por causa de la justicia, dichosos son."* En nuestro pensamiento humano suena razonable recibir alabanza por hacer lo bueno y __<u>sufrir</u>__ castigo por hacer lo malo, recibes lo que mereces.
+###  1 Pedro 3:14a *"Pero aun si sufren* [padecen RVR09] *por causa de la justicia, dichosos son."* En nuestro pensamiento humano suena razonable recibir alabanza por hacer lo bueno y __<u>sufrir</u>__ castigo por hacer lo malo, recibes lo que mereces.
+
+#### "*Aún si"* es una condición de cuarta clase. Este es un sufrimiento hipotético; no se asume, sino que es una posibilidad. Algunos gramáticos lo consideran una condición de «futuro menos probable» utilizando el optativo. 
+
+#### "*Sufren*" PASCHO - experimentar daño o dolor emocional.[^1] Aparece 13 veces en 1 Pedro. 
+
+Vimos en el capítulo 1 que el sufrimiento es garantizado y seguro. 
 
 #### Los creyentes deberían preparar su entendimiento, ya que Dios muestra una realidad diferente para los que sufren daño por su __<u>andar</u>__ en justicia.
 
@@ -1514,15 +1596,13 @@ Title: 1 & 2 Pedro
 
 # 1 Pedro 4:1-6 – Viviendo para la voluntad de Dios
 
-### El sufrimiento de Cristo como un ejemplo para __<u>armarse</u>__ del mismo propósito y vivir la voluntad de Dios. 1 Pedro 2:21
+### 1 Pedro 4:1a "*Por tanto...*" OUN es una conjunción, lo que significa que da continuidad a la enseñanza que Pedro __<u>había</u>__ explicado anteriormente en 1 Pedro 3:13-22
 
-#### Cristo en Su buena conducta y haciendo lo bueno, aunque padecio en el cuerpo, aquel sufrimiento fue pequeño comparado con la victoria que obtuvo de vencer el __<u>pecado</u>__, vencer el mal con el bien. Este pasaje no esta enseñando asetismo, sino que este sufrimiento es causado por hacer el bien 1 Pedro 2:21-22.
+#### Entendiendo que todo lo que iniciara explicando no tendría __<u>sentido</u>__ si aislamos estos pasajes de los anteriores, por lo que también llegaríamos a entender, es que: en consecuencia de lo mencionado anteriormente.
 
-#### Este pasaje no esta enseñando que un creyente debe buscar sufrir para __<u>vencer</u>__ al pecado, como lo da a entender la versión (TLA) 1 Pedro 4:1,  "*... Si ustedes sufren como Cristo, ya no seguirán pecando.*" Esta traducción no es correcta. Esto contradeciría Romanos 6:10-11
+### 1 Pedro 4:1b "*...puesto que Cristo ha padecido en la carne...*" Fue anunciado por los profetas como el Mesías que debía padecer, y también ser __<u>sacrificado</u>__ como un cordero inmolado. Daniel 9:26; Zacarias 12:10; Isaías 53:3-5, 7, 10-11
 
-#### 2 Timoteo 3:12 dice: "*Y en verdad, todos los que quieren vivir piadosamente en Cristo Jesús, serán perseguidos.*" Esta es una realidad que todo creyente debe esperar. Es por eso que Pedro quiere __<u>enseñar</u>__ a su audiencia a que puedan contemplar el ejemplo de Cristo, que obtiene gran ganancia. 1 Pedro 1:7
-
-#### la palabra "*padecimiento*" PASJO - experimentar __<u>daño</u>__ o dolor emocional.[^1]
+#### la palabra "*padecimiento*" PASCHO - experimentar __<u>daño</u>__ o dolor emocional.[^1]
 
 ##### 11 veces se __<u>menciona</u>__ *padecimiento* en 1 Pedro.
 
@@ -1532,19 +1612,21 @@ Title: 1 & 2 Pedro
 
 ##### La cantidad de veces que aparece, nos muestra la importancia del padecimiento de Cristo __<u>como</u>__ base para todo el capitulo.
 
-### 1 Pedro 4:1a "*Por tanto...*" OUN es una conjunción, lo que significa que da continuidad a la enseñanza que Pedro __<u>había</u>__ explicado anteriormente en 1 Pedro 3:13-22
+#### El sufrimiento de Cristo como un ejemplo para __<u>armarse</u>__ del mismo propósito y vivir la voluntad de Dios. 1 Pedro 2:21
 
-#### Entendiendo que todo lo que iniciara explicando no tendría __<u>sentido</u>__ si aislamos estos pasajes de los anteriores, por lo que también llegaríamos a entender, es que: en consecuencia de lo mencionado anteriormente.
+#### Cristo en Su buena conducta y haciendo lo bueno, aunque padecio en el cuerpo, aquel sufrimiento fue pequeño comparado con la victoria que obtuvo de vencer el __<u>pecado</u>__, vencer el mal con el bien. Este pasaje no esta enseñando asetismo, sino que este sufrimiento es causado por hacer el bien 1 Pedro 2:21-22.
 
-### 1 Pedro 4:1b "*...puesto que Cristo ha padecido en la carne...*" Fue anunciado por los profetas como el Mesías que debía padecer, y también ser __<u>sacrificado</u>__ como un cordero inmolado. Daniel 9:26; Zacarias 12:10; Isaías 53:3-5, 7, 10-11
+#### Este pasaje no esta enseñando que un creyente debe buscar sufrir para __<u>vencer</u>__ al pecado, como lo da a entender la versión (TLA) 1 Pedro 4:1,  "*... Si ustedes sufren como Cristo, ya no seguirán pecando.*" Esta traducción no es correcta. Esto contradeciría Romanos 6:10-11
 
-##### El rey David predijo que el Mesías __<u>padecería</u>__. Salmo 22:6, 14-16
+#### 2 Timoteo 3:12 dice: "*Y en verdad, todos los que quieren vivir piadosamente en Cristo Jesús, serán perseguidos.*" Esta es una realidad que todo creyente debe esperar. Es por eso que Pedro quiere __<u>enseñar</u>__ a su audiencia a que puedan contemplar el ejemplo de Cristo, que obtiene gran ganancia. 1 Pedro 1:7
 
-##### Jesús mismo anuncio que el Cristo debía padecer, que era necesario que Jesús __<u>pasara</u>__ por padecimientos. Mateo 16:21; Lucas 9:22
+#### El rey David predijo que el Mesías __<u>padecería</u>__. Salmo 22:6, 14-16
 
-#### Padecido PASJO significa experimentar una sensación o impresión (generalmente dolorosa). Sus padecimientos fueron conocidos __<u>desde</u>__ antes de la fundación del mundo. 1 Pedro 1:19-20
+#### Jesús mismo anuncio que el Cristo debía padecer, que era necesario que Jesús __<u>pasara</u>__ por padecimientos. Mateo 16:21; Lucas 9:22
 
-#### Esta es la prime__<u>r</u>__a ves que se menciona padecido PASJO en este capitulo, y habla como una base de lo cual continuará explicando.
+#### "*Padecido*" PASCHO significa experimentar una sensación o impresión (generalmente dolorosa). Sus padecimientos fueron conocidos __<u>desde</u>__ antes de la fundación del mundo. 1 Pedro 1:19-20
+
+#### Esta es la <u>primera</u> ves que se menciona padecido PASCHO en este capitulo, y habla como una base de lo cual continuará explicando.
 
 ##### Después de la caída de Adán, fue anunciado por primera vez __<u>dando</u>__ a conocer su padecimiento, que Él sería herido Génesis 3:15 
 
