@@ -567,7 +567,7 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 1:21c "*de manera que la fe y esperanza de ustedes __<u>sean</u>__ en Dios.*" El punto de Pedro es que la victoria desde la perspectiva del creyente esta en la fe. Dios es agradado en la fe. Dios diseño que Sus hijos aprendan a vivir por fe. Habacúc 2:4; Hebreos 10:38; Colosenses 2:6
 
-## 1 Pedro 1:22-25 Fe en acción a través del amor
+## 1 Pedro 1:22-25 ...entendimiento para la acción a través del amor
 
 ###  1 Pedro 1:22a "*Puesto que en obediencia a la verdad ustedes han purificado sus almas*" la obediencia a la verdad llevó a que __<u>tengan</u>__ sus almas purificadas. Al haber respondido por la fe, ya habían sido obedientes y el resultado era que 
 
@@ -688,7 +688,7 @@ Title: 1 & 2 Pedro
 
 #### La manera: Es la __<u>Palabra</u>__ de Dios la que lo realiza. 1 Pedro 1:23b-25
 
-## 1 Pedro 2:1 - La acción - desechando todo lo malo
+## 1 Pedro 2:1 ...entendimiento para la acción - desechando todo lo malo
 
 ###  El deseo del apóstol Pedro hacia los creyentes es que se despojen de toda la siguiente lista de acciones negativas en la __<u>vida</u>__ del creyente, en las cuales podría estar viviendo ú experimentando, las cuales son contrarias a su nueva simiente.
 
@@ -727,7 +727,7 @@ Title: 1 & 2 Pedro
 
 #### Jesús nos muestra que del __<u>interior</u>__ del corazón vienen las calumnias. Mateo 15:18-19
 
-## 1 Timoteo 2:2-3 La acción - deseando la leche pura espiritual para salvación
+## 1 Timoteo 2:2-3 ...entendimiento para la acción - deseando la leche pura espiritual para salvación
 
 ###  Contrastando con las conductas negativas que atrofian el crecimiento, ahora el apóstol Pedro anima a los creyentes para su crecimiento.
 
@@ -775,7 +775,7 @@ Title: 1 & 2 Pedro
 
 #### ¿A qué debemos desear?: Debemos desear la __<u>leche</u>__ pura (Palabra de Dios) mediante la cual seremos nutridos en la Gracia del Señor.  1 Pedro 2:2-3
 
-## 1 Pedro 2:4-8 La acción - edificando una casa espiritual
+## 1 Pedro 2:4-8 ...entendimiento para la acción - edificando una casa espiritual
 
 ### Utilizando numerosas citas y alusiones del Antiguo Testamento, Pedro continúa animando a sus lectores. Los cristianos deben entender la obra salvadora de Dios en Jesús y responder con una conducta que lo honre. 1 Pedro 2:6
 
@@ -897,7 +897,7 @@ Title: 1 & 2 Pedro
 
 ##### Somos sacerdotes __<u>reales</u>__. 1 Pedro 2:5b
 
-## 1 Pedro 2:9-10 La acción -  como real sacerdocio, nación santa
+## 1 Pedro 2:9-10 ...entendimiento para la acción -  como real sacerdocio, nación santa
 
 ### En estos pasajes nos mostrará cual es la relación de los creyentes para __<u>con</u>__ Dios y cual es el propósito de los creyentes hacia el mundo.
 
@@ -952,7 +952,7 @@ Title: 1 & 2 Pedro
 
 ##### Somos un __<u>pueblo</u>__ escogido. 1 Pedro 2:9a, 10
 
-## 1 Pedro 2:11-12 La acción -  conducta hacia los gentiles
+## 1 Pedro 2:11-12 ...entendimiento para la acción -  Pueblo de Dios a los gentiles
 
 ###  1 Pedro 2:11a *"Amados, les ruego como a extranjeros y peregrinos...*" El apóstol Pedro llamará amados a los creyentes. Somos amados por __<u>causa</u>__ de Su hijo, estamos revestidos de Cristo. Gálatas 3:27
 
@@ -1028,7 +1028,7 @@ Title: 1 & 2 Pedro
 
 ##### La libertad que tenemos por medio de Dios __<u>en</u>__ Cristo debe ser disfrutada con el propósito que Dios estableció, como siervos de Dios
 
-# 1 Pedro 2:16-17 - La acción - el andar en libertad del creyente
+# 1 Pedro 2:16-17 ...entendimiento para la acción - el andar en libertad del creyente
 
 ###  1 Pedro 2:16a  *"Anden como libres...*" El andar del creyente es en completa libertad. La libertad que el creyente tiene no es para pecar o para la impiedad, sino que esta completa libertad es para poder ser siervos de Dios. En nuestra antigua manera de __<u>vivir</u>__ éramos siervos de la naturaleza pecaminosa. Ahora somos siervos de Justicia. Juan 8:32; Santiago 1:25
 
@@ -1044,7 +1044,7 @@ Title: 1 & 2 Pedro
 
 ### 1 Pedro 2:17d "*...honren al rey....*" Menciona un dato importante dedicado a la honra hacia el rey o emperador. En nuestro contexto seria hacia quien esta gobernando __<u>nuestros</u>__ país, sea rey o gobernante. El merece honra la cual fue dada por Dios. Proverbios 24:21; Mateo 22:21; 1 Pedro 2:13
 
-## 1 Pedro 2:18-25 A la acción -  siervos
+## 1 Pedro 2:18-25 ...entendimiento para la acción -  siervos
 
 ### 1 Pedro 2:18a *"Siervos...*" Ahora mencionará un __<u>grupo</u>__ especial llamados siervos. En nuestro contexto, podemos ver que son trabajadores o empleados. Efesios 6:5
 
@@ -1115,7 +1115,7 @@ Title: 1 & 2 Pedro
 
 ###### Para que pudiéramos ser __<u>traídos</u>__ al Pastor. 1 Pedro 2:25
 
-# 1 Pedro 3:1-8 A la acción -  Relaciones dentro de la Iglesia
+# 1 Pedro 3:1-8 ...entendimiento para la acción -  Relaciones dentro de la Iglesia
 
 ### Puede que las circunstancias en las que se encontraban los creyentes a los que escribía Pedro, no eran las mejores para animarlos a vivir haciendo lo bueno. Por esa razón, en los anteriores versículos les __<u>recordó</u>__ a una persona, Cristo Jesús hombre. ¿Porqué?
 
@@ -1133,23 +1133,27 @@ Title: 1 & 2 Pedro
 
 ### Considerando al Ejemplo dado por Dios el Padre, Cristo, estos creyentes podrían hacer el bien, a pesar de que eso traiga sufrimiento, y podrían soportarlo con paciencia y gozo inefable. Esto es lo que Dios __<u>proveyó</u>__ para Sus salvos, esto es lo que halla gracia con Dios.
 
-## 1 Pedro 3:1-6 A la acción -  mujeres
+## 1 Pedro 3:1-6 ...entendimiento para la acción - esposas
 
-###  1 Pedro 3:1a *"Asimismo ustedes, mujeres,...*" Anteriormente Pedro estuvo __<u>dando</u>__ instrucciones de sujeción a los creyentes, como ser: 
+###  1 Pedro 3:1a *"Asimismo ustedes, mujeres...*" Anteriormente Pedro estuvo __<u>dando</u>__ instrucciones de sujeción a los creyentes como ser: 
 
 ####  Sujetarse a todas las autoridades en la sociedad. 1 Pedro 2:13-14
 
-####  A los esclavos a sujetarse a sus amos. 1 Pedro 2:18
+####  A los esclavos a sujetarse a sus amos. 1 Pedro 2:16-18
+
+#### Se dirigirá luego a los ancianos sujetos al Príncipe de los ancianos. 1 Pedro 5:4
+
+#### Como también a los jóvenes a estar sujetos a sus ancianos. 1 Pedro 5:5
 
 #### Ahora se dirigirá a las esposas creyentes de la iglesia. Dios __<u>ahora</u>__ mostrará como ellas podrían andar haciendo el bien dentro de su propio matrimonio. 
 
-###  1 Pedro 3:1b "*...estén sujetas a sus maridos,...*" La instrucción para la esposa dentro del matrimonio era que ella se mantenga voluntariamente, bajo la autoridad de su propio __<u>esposo</u>__.
+###  1 Pedro 3:1b "*...estén sujetas a sus maridos...*" La instrucción para la esposa dentro del matrimonio era que ella se mantenga voluntariamente, bajo la autoridad de su propio __<u>esposo</u>__.
 
-####  No vemos en las escrituras que las esposas __<u>deban</u>__ sujetarse a la autoridad de cada hombre en general, sino únicamente a su propio esposo. Colosenses 3:18
+####  No vemos en las Escrituras que las esposas __<u>deban</u>__ sujetarse a la autoridad de cada hombre en general, sino únicamente a su propio esposo. Colosenses 3:18
 
 #### Simplemente es la manera en la __<u>cual</u>__ el Señor instituyo el matrimonio. Efesios 5:22-24
 
-#### La palabra "*sujetas*" en griego es JUPOTÁSSO - someterse a, obedecer, estar bajo la autoridad de. Es un termino militar como __<u>cuando</u>__ un soldado se alinea a su general.
+#### La palabra "*sujetas*" en griego es JUPOTÁSSO. Significa someterse a, obedecer, estar bajo la autoridad de. Es un termino militar como __<u>cuando</u>__ un soldado se alinea a su general.
 
 #### Esta palabra para nada señala dominación o algún __<u>valor</u>__ inferior para la mujer o esposa creyente a los ojos de Dios. Gálatas 3:28-29
 
@@ -1157,7 +1161,7 @@ Title: 1 & 2 Pedro
 
 #### Esta instrucción no incluye que la __<u>esposa</u>__ deba sujetarse a su marido si esa sujeción podría llevar a la esposa hacia algún pecado, en todo caso, la esposa antes esta sujeta a la autoridad suprema de Dios. 1 Corintios 11:3
 
-###  1 Pedro 3:1c "*...de modo que si algunos de ellos son desobedientes a la palabra,...*" Seria __<u>bueno</u>__ observar a que se refiere con un esposo "desobediente":
+###  1 Pedro 3:1c "*...de modo que si algunos de ellos son desobedientes a la palabra...*" Seria __<u>bueno</u>__ observar a que se refiere con un esposo "desobediente":
 
 #### Desobediente en griego es APEIDSÉO que __<u>también</u>__ podría traducirse, "no creyente".
 
@@ -1191,7 +1195,7 @@ Title: 1 & 2 Pedro
 
 ####  1 Pedro 3:3c  "*...joyas de oro...*" Hace referencia a buscar ganar belleza por medio de __<u>objetos</u>__ colgados en el cuerpo
 
-####  1 Pedro 3:3d  "*...o vestidos lujosos,...* Se refiere a __<u>buscar</u>__ adornarse exteriormente por medio de ropas
+####  1 Pedro 3:3d  "*...o vestidos lujosos...* Se refiere a __<u>buscar</u>__ adornarse exteriormente por medio de ropas
 
 #### El enfoque de este pasaje no esta en indicar que dichas cosas son malas o pecado, tampoco indica un descuido de la presentación __<u>externa</u>__ de la esposa. 1 Timoteo 2:9-10
 
@@ -1199,15 +1203,15 @@ Title: 1 & 2 Pedro
 
 #### Entonces ¿dónde estaría la belleza __<u>exterior</u>__ de una esposa a los ojos de Dios?
 
-###  1 Pedro 3:4a "*...sino que sea lo que procede de lo íntimo del corazón,...*" En un mundo donde se busca la belleza externa por medio de cosas lujosas, llamativas que se corrompen con el tiempo. Dios llama a la esposa creyente a buscar la belleza externa, pero producida __<u>desde</u>__ lo interior.
+###  1 Pedro 3:4a "*...sino que sea lo que procede de lo íntimo del corazón...*" En un mundo donde se busca la belleza externa por medio de cosas lujosas, llamativas que se corrompen con el tiempo. Dios llama a la esposa creyente a buscar la belleza externa, pero producida __<u>desde</u>__ lo interior.
 
-###  1 Pedro 3:4b "*...con el adorno incorruptible de un espíritu tierno y sereno,...*" Esta indicación aclara que la sujeción de la esposa, el atavió externo por medio de su conducta __<u>hacia</u>__ el esposo, no debería ser hipócrita o algo fingido, sino sincero. Gálatas 5:16
+###  1 Pedro 3:4b "*...con el adorno incorruptible de un espíritu tierno y sereno...*" Esta indicación aclara que la sujeción de la esposa, el atavió externo por medio de su conducta __<u>hacia</u>__ el esposo, no debería ser hipócrita o algo fingido, sino sincero. Gálatas 5:16
 
 ####  Su belleza externa simplemente es un reflejo de la belleza __<u>interna</u>__ de su corazón.
 
 ###  1 Pedro 3:4c "*...lo cual es precioso delante de Dios."* Una creyente que pone su esperanza en el único Dios, el que juzga con justicia, goza de un espíritu tierno y sereno, el __<u>cual</u>__ es precioso a los ojos de Dios. Salmo 51:6
 
-###  1 Pedro 3:5a *"Porque así también se adornaban en otro tiempo las santas mujeres que esperaban en Dios,...*" Pedro pasa a __<u>mostrar</u>__ como se adornaban las esposas creyentes del Antiguo Testamento y como llegaron a sujetarse a sus esposos imperfectos. Proverbios 31:10
+###  1 Pedro 3:5a *"Porque así también se adornaban en otro tiempo las santas mujeres que esperaban en Dios...*" Pedro pasa a __<u>mostrar</u>__ como se adornaban las esposas creyentes del Antiguo Testamento y como llegaron a sujetarse a sus esposos imperfectos. Proverbios 31:10
 
 #### El versículo es claro, las __<u>santas</u>__ mujeres, ponían su esperanza completamente en su Santo Dios. Proverbios 31:30
 
@@ -1221,9 +1225,9 @@ Title: 1 & 2 Pedro
 
 #### Y esto vendría a través de su confianza puesta no en la calidad de esposo que __<u>tenían</u>__, sino en el Dios que cuidaba y cuida de ellas.
 
-###  1 Pedro 3:6a *"Así obedeció Sara a Abraham, llamándolo señor,...*" Un ejemplo de una esposa sujetándose a su esposo es Sara, y una muestra de aquello fue que se dirigió a Abraham __<u>como</u>__ "señor". Génesis 18:12
+###  1 Pedro 3:6a *"Así obedeció Sara a Abraham, llamándolo señor...*" Un ejemplo de una esposa sujetándose a su esposo es Sara, y una muestra de aquello fue que se dirigió a Abraham __<u>como</u>__ "señor". Génesis 18:12
 
-###  1 Pedro 3:6b "*...y ustedes han llegado a ser hijas de ella,...*" Aquí nos __<u>muestra</u>__ la relación simbólica que tienen las esposas que andan conforme a como Sara anduvo en su vida terrenal.
+###  1 Pedro 3:6b "*...y ustedes han llegado a ser hijas de ella...*" Aquí nos __<u>muestra</u>__ la relación simbólica que tienen las esposas que andan conforme a como Sara anduvo en su vida terrenal.
 
 ###  1 Pedro 3:6c "*...si hacen el bien y no tienen miedo de nada que pueda aterrorizarlas."* El andar conforme a la voluntad de Dios que tuvo Sara también es el andar de las __<u>esposas</u>__ que hacen el bien, y no tienen temor de nada que intente atemorizarlas. 
 
@@ -1231,13 +1235,13 @@ Title: 1 & 2 Pedro
 
 #### Esto haya gracia a los ojos de Dios, es __<u>precioso</u>__ delante de Dios. 1 Pedro 2:19-20
 
-## 1 Pedro 3:7 A la acción -  Maridos
+## 1 Pedro 3:7 ...entendimiento para la acción -  maridos
 
-###  1 Pedro 3:7a *"Ustedes, maridos, igualmente,...*" Ahora pasa a dar instrucciones a los esposos creyentes. 
+###  1 Pedro 3:7a *"Ustedes, maridos, igualmente...*" Ahora pasa a dar instrucciones a los esposos creyentes. 
 
 ####  Ahora el esposo, como uno __<u>renacido</u>__ a una esperanza viva por la misericordia y gracia de Dios. Confiando en la nueva vida provista por Dios en Cristo. ¿Cómo afectaría esto en su matrimonio?
 
-###  1 Pedro 3:7b "*...convivan de manera comprensiva con sus mujeres,...*" Este versículo llama a los esposos a pensar en como __<u>viven</u>__ junto a sus esposas.
+###  1 Pedro 3:7b "*...convivan de manera comprensiva con sus mujeres...*" Este versículo llama a los esposos a pensar en como __<u>viven</u>__ junto a sus esposas.
 
 #### La palabra "convivan" da una perspectiva de __<u>unión</u>__, de compañerismo en el matrimonio, no da la idea de individualidad. Génesis 2:23-24
 
@@ -1267,15 +1271,21 @@ Title: 1 & 2 Pedro
 
 #### Ahora se le recuerda que no solo él es heredero de Dios, sino también su compañera de vida, su esposa. Ambos, no solo ligados por la unión del matrimonio, sino también __<u>unidos</u>__ eternamente por medio de participar de la misma herencia provista por Dios. Efesios Efesios 2:18, 3:6; Romanos 8:17
 
-###  1 Pedro 3:7e "*...para que sus oraciones no sean estorbadas."* De esta manera, el esposo viviendo en la justicia, por medio de la esperanza que se encuentra en Cristo su Salvador. Podrá dirigir sus oraciones a su Dios y Cuidador, confiado de que recibirá la __<u>ayuda</u>__ oportuna, ya que nada podrá estorbarlas. Disfrutará días buenos junto a su compañera de vida. Efesios 6:18
+###  1 Pedro 3:7e "*...para que sus oraciones no sean estorbadas...*" De esta manera, el esposo viviendo en la justicia, por medio de la esperanza que se encuentra en Cristo su Salvador. Podrá dirigir sus oraciones a su Dios y Cuidador, confiado de que recibirá la __<u>ayuda</u>__ oportuna, ya que nada podrá estorbarlas. Disfrutará días buenos junto a su compañera de vida. Efesios 6:18
 
-## 1 Pedro 3:8-12 A la acción -  a todos
+## 1 Pedro 3:8-12 entendimiento para la acción -  a todos
 
 ###  1 Pedro 3:8a *"En conclusión, sean todos...*" Como ultima instrucción respecto a las relaciones __<u>entre</u>__ creyentes, esta vez Pedro se dirigirá a todos.
 
-###  1 Pedro 3:8b "*...de un mismo sentir,...*" la RV09 la __<u>traduce</u>__ de esta manera "de un mismo corazón". 
+#### 1:13 Por tanto... en base a los primeros 12 versículos, preparen su entendimiento para la acción
 
-####  El pasaje es claro, la unión que indica es en la manera de __<u>pensar</u>__. Hechos 4:32, Romanos 12:1-2, 16
+#### 2:1 Por tanto...estuvo explicando lo que es preparar el entendimiento para la acción.
+
+#### 4:1 Por tanto...puesto que Cristo ha padecido en la carne...
+
+#### 5:1 Por tanto...
+
+###  1 Pedro 3:8b "*...de un mismo sentir* [de un mismo corazón RVR09]..." El pasaje es claro, la unión que indica es en la manera de __<u>pensar</u>__. Hechos 4:32, Romanos 12:1-2, 16
 
 #### No sería correcto verlo como unidad por medio de alguna actividad en común, tolerancia hipócrita o inclusive una unidad por medio de la ignorancia. Tampoco sería __<u>correcto</u>__ una unidad en la manera de pensar de los creyentes, pero con un enfoque o pensamiento humano. ¿Porqué?
 
@@ -1283,19 +1293,21 @@ Title: 1 & 2 Pedro
 
 #### Esta __<u>unidad</u>__ de pensamiento que se indica a los todos los creyentes, viene de la unidad en la verdad de Dios que comparten, como veremos mas adelante en el versículo 9 "fueron llamados con el propósito de heredar bendición", este mismo sentir no viene de pensamiento humano, sino de la sabiduría de Dios. Efesios 4:11-13
 
-###  1 Pedro 3:8c "*...compasivos,...*" Todos debían ser compasivos. Estos creyentes se encontraban pasando por diversas pruebas, aflicciones. Pero el Señor les proveía por medio del cuerpo de Cristo (entre ellos), compadecerse unos a otros, comprender el dolor __<u>ajeno</u>__ de su hermano o hermana. Filipenses 2:1-2; Colosenses 3:12
+###  1 Pedro 3:8c "*...compasivos...*" HOMOFRON - que está unido en la misma mentalidad que otro.[^1]
 
-###  1 Pedro 3:8d "*...fraternales,...*" Deberían tener un amor de hermanos __<u>unos</u>__ a otros y eso es lo que justamente eran, hermanos, hijos de Dios. 
+####  Todos debían ser unidos en la mentalidad con otros. Estos creyentes se encontraban pasando por diversas pruebas, aflicciones. Pero el Señor les proveía por medio del cuerpo de Cristo (entre ellos), compadecerse unos a otros, comprender el dolor __<u>ajeno</u>__ de su hermano o hermana. Filipenses 2:1-2; Colosenses 3:12
+
+###  1 Pedro 3:8d "*...fraternales...*" SIMPETHES es compartir los sentimientos de los demás; especialmente sentimientos de tristeza o angustia.[^1] Deberían tener un amor de hermanos __<u>unos</u>__ a otros y eso es lo que justamente eran, hermanos, hijos de Dios. 
 
 ####  Estaban exiliados de su tierra, muchos alejados de sus familias físicas, pero por __<u>medio</u>__ de Dios, podrían disfrutar de un amor de familia, un amor fraternal. 1 Pedro 1:22, 2:17
 
-###  1 Pedro 3:8e "*...misericordiosos,...*" Esta palabra indica a comprenderse unos a otros las aflicciones de sus hermanos y actuar con clemencia, a socorrer al hermano afligido. Muy probablemente no es __<u>algo</u>__ que encontrarían de manera palpable en el mundo. Efesios 4:32
+###  1 Pedro 3:8e "*...misericordiosos...*" Esta palabra indica a comprenderse unos a otros las aflicciones de sus hermanos y actuar con clemencia, a socorrer al hermano afligido. Muy probablemente no es __<u>algo</u>__ que encontrarían de manera palpable en el mundo. Efesios 4:32
 
-###  1 Pedro 3:8f "*...y de espíritu humilde;"* Nuevamente nos aclara que estas instrucciones no deben ser vistas como realizadas por medio del fingimiento o hipocresía. Sino que esto __<u>viene</u>__ del interior, desde el corazón.
+###  1 Pedro 3:8f "*...y de espíritu humilde..."* Nuevamente nos aclara que estas instrucciones no deben ser vistas como realizadas por medio del fingimiento o hipocresía. Sino que esto __<u>viene</u>__ del interior, desde el corazón.
 
 #### Los creyentes debían tener un pensamiento humilde o amigable hacia sus hermanos, esto da el énfasis de buscar el bien ajeno, el __<u>bien</u>__ de sus hermanos y actuar en consecuencia. Efesios 4:2; 1 Pedro 5:5
 
-###  1 Pedro 3:9a *"no devolviendo mal por mal, o insulto por insulto,...*" Este mandamiento __<u>garantiza</u>__ completamente, que el creyente recibirá acciones injustas y también insultos.
+###  1 Pedro 3:9a *"no devolviendo mal por mal, o insulto por insulto...*" Este mandamiento __<u>garantiza</u>__ completamente, que el creyente recibirá acciones injustas y también insultos.
 
 #### Estas acciones negativas __<u>hacia</u>__ el creyente no deben ser producto de su pecado.
 
@@ -1305,7 +1317,7 @@ Title: 1 & 2 Pedro
 
 #### De todas maneras, la realidad que Dios planeo para sus creyentes es que cuando lleguen a recibir algún mal, no deben dar a __<u>cambio</u>__ otro mal.
 
-###  1 Pedro 3:9b "*...sino más bien bendiciendo,...*" Dios planeo que cuando Sus santos reciban algún mal, ellos dieran a __<u>cambio</u>__ bendición.
+###  1 Pedro 3:9b "*...sino más bien bendiciendo...*" Dios planeo que cuando Sus santos reciban algún mal, ellos dieran a __<u>cambio</u>__ bendición.
 
 #### La palabra bendiciendo EULOGUÉO puede hacer referencia a dar palabras bondadosas o realizar un acto bondadoso __<u>hacia</u>__ alguien.
 
@@ -1377,9 +1389,59 @@ Title: 1 & 2 Pedro
 
 #### "*Sufren*" PASCHO - experimentar daño o dolor emocional.[^1] Aparece 13 veces en 1 Pedro. 
 
-#### Vimos en el capítulo 1 que el sufrimiento es garantizado y seguro. 
-
 #### Los creyentes deberían preparar su entendimiento, ya que Dios muestra una realidad diferente para los que sufren daño por su __<u>andar</u>__ en justicia.
+
+##### El sufrimiento es esperado como cristiano
+
+##### 1 Pedro 4:12-13 (RVR1960) "*Amados, no se sorprendan del fuego de prueba que les ha sobrevenido, como si algo extraño les estuviera aconteciendo. Más bien, regocíjense por cuanto comparten los padecimientos de Cristo...*"
+
+###### "*No se sorprendan...*" - El sufrimiento no es una excepción, sino normal.
+
+###### "*Fuego de prueba*" se refiere a una intensa persecución o prueba.
+
+###### "*Para probarlos*" - Hay un propósito de refinamiento o prueba.
+
+##### Sufrir por Cristo es honorable
+
+###### 1 Pedro 3:14 "*Pero aun si sufrieran por causa de la justicia, serán bienaventurados.*"
+
+###### Esto usa una condición de tercera clase (ἐὰν + subjuntivo), que sugiere posibilidad, no certeza en todos los casos, pero...
+
+###### 1 Pedro 4:16 “*Pero si alguno sufre como cristiano, no se avergüence, sino glorifique a Dios por ello.*”
+
+###### El sufrimiento como cristiano se considera una insignia de honor; forma parte de la identidad.
+
+##### El sufrimiento es parte de la voluntad de Dios
+
+###### 1 Pedro 3:17 “*Porque es mejor sufrir haciendo el bien, si esa es la voluntad de Dios, que haciendo el mal*”.
+
+##### El sufrimiento no es casual; puede ser parte de la voluntad de Dios.
+
+###### 1 Pedro 4:19 “*Por tanto, los que sufren según la voluntad de Dios, encomienden sus almas al fiel Creador, haciendo el bien.*”
+
+###### De nuevo, el sufrimiento puede estar directamente de acuerdo con la voluntad de Dios; no solo es permitido, sino un propósito.
+
+##### El sufrimiento es temporal y purificador
+
+###### 1 Pedro 1:6-7: “*Ahora bien, por un poco de tiempo, si es necesario, tenéis que ser afligidos en diversas pruebas, para que la probada autenticidad de vuestra fe... sea hallada en alabanza y gloria...*”
+
+##### El sufrimiento es temporal (“por un poco de tiempo”), pero necesario y purificador.
+
+###### Los cristianos comparten los sufrimientos de Cristo
+
+###### 1 Pedro 2:21“*Pues para esto fuisteis llamados; porque también Cristo padeció por vosotros, dejándoos ejemplo, para que sigáis sus pisadas.*”
+
+##### El sufrimiento es parte del llamado cristiano.
+
+##### El sufrimiento de Cristo es el modelo que estamos llamados a seguir.
+
+##### Conclusión
+
+###### Entonces, ¿está garantizado el sufrimiento en 1 Pedro?
+
+###### Sí, el sufrimiento es una parte normal, esperada y con un propósito en la vida cristiana según 1 Pedro.
+
+###### Puede que el sufrimiento no suceda consistentemente ni de la misma manera para cada creyente, pero Pedro afirma firmemente que el sufrimiento, especialmente por la justicia, es parte del llamado cristiano y no debe verse como algo extraño o inesperado.
 
 #### No deberían __<u>pensar</u>__ que están haciendo algo malo, o desanimarse por la esperanza que tienen en Dios. 2 Corintios 12:10
 
@@ -1413,9 +1475,9 @@ Title: 1 & 2 Pedro
 
 #### Si bien pueden recibir ataque y criticas destructivas aún a pesar de su buena conducta, si es a razón de una buena conciencia, esto es bueno delante de Dios y es razón de vergüenza para aquellos que los atacan. Así es como puede __<u>verlo</u>__ el creyente.
 
-###  1 Pedro 3:17 *"Pues es mejor padecer por hacer el bien, si así es la voluntad de Dios, que por hacer el mal."* Sufrir por hacer lo __<u>malo</u>__ no va conforme a la voluntad de Dios para sus creyentes.
+###  1 Pedro 3:17 *"Pues es mejor padecer por hacer el bien, si así es la voluntad de Dios, que por hacer el mal."* siempre buscamos hacer el bien aunque sea sufrir por hacerlo. Es mejor sufrir por hacer el bien que hacer el mal.  
 
-#### Un creyente que anda por la __<u>fe</u>__ en la Gracia de Dios, andará haciendo el bien, eso es lo que agrada a Dios. 1 Pedro 1:13-15
+#### Un creyente que anda por la __<u>fe</u>__ en la gracia de Dios, andará haciendo el bien, eso es lo que agrada a Dios. 1 Pedro 1:13-15
 
 #### Pero es mucho mejor para Dios si el creyente anda haciendo el bien y __<u>sufre</u>__ por ello. 
 
@@ -1435,13 +1497,15 @@ Title: 1 & 2 Pedro
 
 #### Y ahora 1 Pedro nos mostrará Un padecimiento por hacer lo bueno, y como fue utilizado en las manos amorosas de __<u>Dios</u>__.
 
-###  1 Pedro 3:18b *"Porque también Cristo murió [padeció RV60] por los pecados una sola vez...*" El pasaje es claro, nos habla de un padecimiento, el __<u>cual</u>__ ocurrió una sola vez.
+###  1 Pedro 3:18b *"Porque también Cristo murió* [padeció RV60] *por los pecados una sola vez...*" El pasaje es claro, nos habla de un padecimiento, el __<u>cual</u>__ ocurrió una sola vez.
 
-#### Cristo murió en una cruz, una __<u>sola</u>__ vez para siempre. Hebreos 7:27, 9:26, 28, 10:10, 12; 1 Pedro 2:24
+#### Vemos que Su padecimiento, según la voluntad de Dios, por los pecados. Cristo hizo lo bueno y sufrió por hacerlo. 
 
-#### Vemos que Su padecimiento, Su muerte fue por los pecados, el pasaje no dice que murió por algunos pecados, o que murió por los __<u>pecados</u>__ de algunas personas. 
+##### Cristo murió en una cruz, una __<u>sola</u>__ vez para siempre. Hebreos 7:27, 9:26, 28, 10:10, 12; 1 Pedro 2:24
 
-#### Cristo murió por todos los pecados, de toda la historia, de cada ser __<u>humano</u>__ que a existido y existirá. Isaías 53:4-6; Romanos 3:25-26, 8:3; Gálatas 1:4; 1 Juan 2:2
+##### El pasaje no dice que murió por algunos pecados, o que murió por los __<u>pecados</u>__ de algunas personas. 
+
+##### Cristo murió por todos los pecados, de toda la historia, de cada ser __<u>humano</u>__ que a existido y existirá. Isaías 53:4-6; Romanos 3:25-26, 8:3; Gálatas 1:4; 1 Juan 2:2
 
 ###  1 Pedro 3:18b "*...el justo por los injustos...*" También puede ser traducido "el __<u>Justo</u>__ en favor de los injustos"
 
@@ -1487,13 +1551,13 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 3:20b "*...cuando la paciencia de Dios esperaba en los días de Noé durante la construcción del arca...*" El pasaje nos remonta a los tiempos de __<u>Noé</u>__ durante los muchos años durante la construcción del arca.
 
-#### Génesis 6:3, 7, vemos a Dios __<u>anunciando</u>__ el juicio que vendría por la maldad que había en el mundo. Génesis 6:11-12
+#### Génesis 6:3, 7 vemos a Dios __<u>anunciando</u>__ el juicio que vendría por la maldad que había en el mundo. Génesis 6:11-12
 
-#### Génesis 6:13-14, Dios diciéndole a Noé que destruiría la tierra y que __<u>debía</u>__ construir un arca.
+#### Génesis 6:13-14 Dios le dice a Noé que destruiría la tierra y que __<u>debía</u>__ construir un arca.
 
 #### Entonces ¿a que se refiere con que Cristo en el espíritu fue y predico a los espíritus encarcelados (incrédulos en el tiempo de Noé)?
 
-##### No pudo el Cristo glorificado, después de __<u>padecer</u>__ en la cruz, haber ido a predicar al mundo perdido en el tiempo de Noé. Hebreos 1:3
+##### ¿No pudo el Cristo glorificado, después de __<u>padecer</u>__ en la cruz, haber ido a predicar al mundo perdido en el tiempo de Noé? Hebreos 1:3
 
 ##### Tampoco el pasaje __<u>indica</u>__ que Cristo fue al lugar de tormento de los incrédulos para anunciarles el evangelio y sean salvos. Hebreos 9:27
 
@@ -1511,33 +1575,43 @@ Title: 1 & 2 Pedro
 
 #### Estos desobedientes ahora son espíritus encarcelados, que se encuentran en el __<u>hades</u>__ siendo atormentados. Lucas 16:26; Hebreos 9:27
 
-###  1 Pedro 3:20c "*...en la cual unos pocos, es decir, ocho personas fueron salvadas por medio del agua."* No todas las personas sufrieron el juicio del diluvio, __<u>ocho</u>__ personas fueron salvas. Algo que es importante notar es que no fue por medio del arca la salvación para Noé y su familia, sino que el versículo dice que fueron salvos **por medio o a través** del agua.
+###  1 Pedro 3:20c "*...en la cual unos pocos, es decir, ocho personas fueron salvadas por medio del agua."* No todas las personas sufrieron el juicio del diluvio, __<u>ocho</u>__ personas fueron salvas. 
 
-###  1 Pedro 3:21 *"Y correspondiendo a esto, el bautismo ahora los salva a ustedes, no quitando la suciedad de la carne, sino como una petición a Dios de una buena conciencia, mediante la resurrección de Jesucristo,...*" Una mejor traducción para __<u>entre</u>__ este versículo sería...
+####  Algo que es importante notar es que no fue por medio del arca la salvación para Noé y su familia, sino que el versículo dice que fueron salvos **por medio o a través** del agua.
 
-#### 1 Pedro 3:20c-21"*...ocho personas, fueron salvadas a través de agua; la cual también es figura de cómo el bautismo ahora os salva (no como eliminación de la suciedad de la carne, sino como respuesta de una buena conciencia a Dios) __<u>mediante</u>__ la resurrección de JESUCRISTO...*" (BTX4)
-
-####  El pasaje **no enseña** que Noé fue salvo del infierno por entrar al arca. En Genesis 6:8 vemos que Noé hallo gracia a los ojos de Dios. Pasajes como Romanos 4 nos __<u>muestran</u>__ que la salvación de la pena del pecado siempre fue por gracia por medio de la fe. Romanos 4:4-8
-
-#### Noé ya había sido salvo eternamente __<u>antes</u>__ de entrar al arca, pero la construcción del arca y la entrada al arca **fueron resultado** de su fe a la revelación de Dios. Hebreos 11:7
+#### Sabemos que el arca salvó físicamente a Noé del juicio del agua pero, ¿como fueron salvos por el agua? El agua separó a Noé fisicamente de los que rechazaron la provisión de Dios. 
 
 #### Por la fe en su vida física como __<u>justo</u>__ delante de Dios demostró una conducta intachable, y también por la fe entro al arca. Génesis 6:9, Habacuc 2:4b
 
-#### Y a través de la separación que hizo el agua entre los que creyeron y los incrédulos __<u>fueron</u>__ salvos de ser juzgados junto al mundo. 1 Pedro 3:20c
-
 #### Podemos verlo como el creyente Noé que __<u>por</u>__ la fe anduvo haciendo el bien, en medio de uno de los tiempos mas difíciles donde hubo mas pecado en la historia del mundo. 2 Pedro 2:5
 
-#### Haciendo el bien delante de Dios tuvo una conciencia tranquila y fue salvo por medio del agua durante su vida como creyente, confiando en la __<u>Palabra</u>__ de Dios.
+###  1 Pedro 3:21 "*Y correspondiendo a esto, el bautismo ahora los salva a ustedes,*" El pasaje **no enseña** que Noé fue salvo del infierno por entrar al arca. En Genesis 6:8 vemos que Noé hallo gracia a los ojos de Dios. Pasajes como Romanos 4 nos __<u>muestran</u>__ que la salvación de la pena del pecado siempre fue por gracia por medio de la fe. Romanos 4:4-8
+
+#### Noé ya había sido salvo eternamente __<u>antes</u>__ de entrar al arca, pero la construcción del arca y la entrada al arca **fueron resultado** de su fe a la revelación de Dios. Hebreos 11:7
+
+#### Y a través de la separación que hizo el agua entre los que creyeron y los incrédulos __<u>fueron</u>__ salvos de ser juzgados junto al mundo. 1 Pedro 3:20c
 
 #### Y en estos versículos nos dice que este evento de Noé es una __<u>figura</u>__ de la salvación del creyente en este tiempo.
 
-#### Hablando específicamente del bautismo en agua, el creyente puede bautizarse confiando en la esperanza que se encuentra en la Palabra de Dios, su nueva posición en la persona de Cristo, específicamente __<u>hablando</u>__ de la resurrección de Jesucristo. Mateo 28:19
+###  1 Pedro 3:21 "*no quitando la suciedad de la carne, sino como una petición a Dios de una buena conciencia,*" Haciendo el bien delante de Dios tuvo una conciencia tranquila y fue salvo por medio del agua durante su vida como creyente, confiando en la __<u>Palabra</u>__ de Dios.
 
-#### En el bautismo en __<u>agua</u>__ anunciamos públicamente un hecho espiritual, que estamos muertos al pecado pero vivos para Dios en Cristo Jesús. Romanos 6:11, 1 Pedro 1:3
+#### ¿Qué es el bautismo en agua? El bautismo en agua es cuando uno como creyente decide por obediencia, identificarse públicamente con Cristo su salvador. El simbolismo es de entrar en el agua y salir lavado. Es decir, simboliza lo que Dios ya hizo en identificarlo con Cristo en su muerte y resurrección. 
 
-#### El bautismo en agua es algo visible, es parte de la buena conducta del creyente durante su vida __<u>terrenal</u>__, esto es parte de su salvación en tiempo presente, su santificación.
+##### En el bautismo en __<u>agua</u>__ anunciamos públicamente un hecho espiritual, que estamos muertos al pecado pero vivos para Dios en Cristo Jesús. Romanos 6:11, 1 Pedro 1:3
+
+##### El bautismo en agua es algo visible, es parte de la buena conducta del creyente durante su vida __<u>terrenal</u>__, esto es parte de su salvación en tiempo presente, su santificación. Típicamente es un hacer algo bueno que Dios ha pedido del creyente en identificarse ante el mundo. 
+
+#### Bajo las circunstancias de persecución que vivían los creyentes a los cuales Pedro escribe, es posible que preferían evitar el bautismo en agua. Es posible que sufran por hacer el bien del bautismo, entonces Pedro les muestra una perspectiva diferente. 
+
+##### No solo es hacer una declaración ante el hombre, es hacer una apelación para buena conciencia ante Dios. 
+
+##### El bautismo salva al creyente, mediante el bautismo hace una distinción entre el que ha sido salvo y de los que siguen en condenación. 
+
+##### El bautismo es hacer el bien por la fe ante Dios y a la vez separa al creyente del mundo. 
 
 #### Que los creyentes del tiempo de Pedro reciban esta manera de ver el bautismo debió ser de mucho __<u>gozo</u>__ para ellos.
+
+###  1 Pedro 3:21 "*mediante la resurrección de Jesucristo...*" Hablando específicamente del bautismo en agua, el creyente hace una petición de una buena conciencia a Dios por medio de identificarse públicamente con la persona de Cristo, específicamente, la resurrección de Jesucristo. Mateo 28:19
 
 ###  1 Pedro 3:22 *quien está a la diestra de Dios, habiendo subido al cielo después de que le habían sido sometidos ángeles, autoridades y potestades.* La persona con la cual __<u>fuimos</u>__ identificados en el momento de creer en el evangelio es Cristo. Efesios 1:13-14; 2 Corintios 5:17
 
