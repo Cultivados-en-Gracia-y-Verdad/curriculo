@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  <head>
+    {{ partial "headers.html" . }}
+    {{ partial "custom_headers.html" . }}
+   <style>
+        #post-content img {
+          //border-radius: 50px;
+          padding-top: 6px;
+          padding-right: 30px;
+          padding-bottom: 20px;
+          padding-left: 30px;
+          width: 280px;
+          float: left;
+          margin: 12px;
+          }
+        #post-content h2 {
+          //padding-top:20px;
+          color:rgb(94, 130, 130);
+        }
+        #post-content p {
+          text-align: justify;
+          font-size: 19px;
+        }
+        #post-content hr {
+          border:.1px solid;
+          width: 100%;
+          color:rgb(175, 192, 192);
+          margin: 20px;
+
+        }
+        
+    </style>
+</head>
+  <body>
+
+    <div id="all">
+
+        {{ partial "top.html" . }}
+
+        {{ partial "nav.html" . }}
+
+        {{ partial "breadcrumbs.html" . }}
+
+        <div id="content">
+            <div class="container">
+
+                <div class="row">
+
+                    <!-- *** LEFT COLUMN *** -->
+
+                    <div class="col-md-9" id="blog-post">
+
+                        {{ if or .Params.author .Params.date }}
+                          <p class="text-muted text-uppercase mb-small text-right">
+                            {{ if isset .Params "authors" }}
+			      {{ i18n "authorBy" }} {{ range $index, $author := .Params.authors }}{{ if $index }}, {{ end }}<a href="{{ (printf "%s/%s" ("authors" | relLangURL) ($author | urlize)) }}">{{ $author }}</a>{{ end }}
+                            {{ end }}
+                            {{ if and .Params.author .Params.date }} | {{ end }}
+                            {{ if .Params.date }}
+                              {{ $createdAt := .Date.Format .Site.Params.date_format }}
+                              {{ range $index, $month := slice "January" "February" "March" "April" "May" "June" "July" "August" "September" "October" "November" "December" }}
+                                  {{ $createdAt = replace $createdAt $month (i18n $month) }}
+                              {{ end }}
+                              {{ $createdAt }}
+                            {{ end }}
+                          </p>
+                        {{ end }}
+
+                        <div id="post-content">
+                          {{ .Content }}
+                          
+                        
+                        </div>
+                        <!-- /#post-content -->
+                        {{ if .Site.DisqusShortname }}
+                        <div id="comments">
+                            {{ template "_internal/disqus.html" . }}
+                        </div>
+                        {{ end }} 
+
+                    </div>
+                    <!-- /#blog-post -->
+
+                    <!-- *** LEFT COLUMN END *** -->
+
+                    <!-- *** RIGHT COLUMN *** -->
+
+                    <div class="col-md-3">
+
+                        <!-- *** MENUS AND WIDGETS *** -->
+
+                        {{ partial "sidebar.html" . }}
+
+                        <!-- *** MENUS AND FILTERS END *** -->
+
+                    </div>
+                    <!-- /.col-md-3 -->
+
+                    <!-- *** RIGHT COLUMN END *** -->
+
+                </div>
+                <!-- /.row -->
+
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /#content -->
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>
