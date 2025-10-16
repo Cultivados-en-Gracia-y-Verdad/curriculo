@@ -1387,7 +1387,7 @@ Title: 1 & 2 Pedro
 
 #### "*Aún si"* es una condición de cuarta clase. Este es un sufrimiento hipotético; no se asume, sino que es una posibilidad. Algunos gramáticos lo consideran una condición de «futuro menos probable» utilizando el optativo. 
 
-#### "*Sufren*" PASCHO - experimentar daño o dolor emocional.[^1] Aparece 13 veces en 1 Pedro. 
+#### "*Sufren*"/"*padecen*" PASCHO - experimentar daño o dolor emocional.[^1] Aparece 12 veces en 1 Pedro. 
 
 #### Los creyentes deberían preparar su entendimiento, ya que Dios muestra una realidad diferente para los que sufren daño por su __<u>andar</u>__ en justicia.
 
@@ -1621,9 +1621,9 @@ Title: 1 & 2 Pedro
 
 ## En Síntesis
 
-### ESQUEMA DE LA SECCIÓN TRES (1 PEDRO 3) Pedro habla sobre la conducta apropiada para los creyentes a la luz de lo que Cristo ha hecho por nosotros.
+### Pedro habla sobre la conducta apropiada para los creyentes a la luz de lo que Cristo ha hecho por nosotros.
 
-   ### LA CONDUCTA DE LOS CREYENTES (1 Pedro 3:1-17)
+   ### La conducta de los creyentes (1 Pedro 3:1-17)
 
 ### Responsabilidades de las esposas (1 Pedro 3:1-6)
 
@@ -1651,7 +1651,7 @@ Title: 1 & 2 Pedro
 
 #### Hacer lo bueno es agradable a Dios pero sufrir por ello es __<u>mucho</u>__ mejor  ya que te también es conforme a Su voluntad (1 Pedro 3:16-17).
 
-### EL CRISTO DE LOS CREYENTES (1 Pedro 3:18-22): Pedro describe un ministerio cuádruple __<u>realizado</u>__ por el Salvador.
+### El Cristo de los creyentes (1 Pedro 3:18-22): Pedro describe un ministerio cuádruple __<u>realizado</u>__ por el Salvador.
 
 #### Su muerte (1 Pedro 3:18)
 
@@ -1683,7 +1683,7 @@ Title: 1 & 2 Pedro
 
 #### la palabra "*padecimiento*" PASCHO - experimentar __<u>daño</u>__ o dolor emocional.[^1]
 
-##### 11 veces se __<u>menciona</u>__ *padecimiento* en 1 Pedro.
+##### 12 veces se __<u>menciona</u>__ *padecimiento* en 1 Pedro.
 
 ##### 4 veces es usada *__<u>padecimiento</u>__* en este capítulo, 
 
@@ -1713,9 +1713,11 @@ Title: 1 & 2 Pedro
 
 ##### Por lo tanto podríamos decir, "Ya que Cristo __<u>padeció</u>__ en la carne..." (BJ 1975), o también, conociendo que el Señor Jesucristo sufrió en su propio cuerpo por hacer lo bueno. Hebreos 5:7, 9
 
-###  1 Pedro 4:1c "*...ármense también ustedes con el mismo propósito...*" ármense JOPLIZO es la palabra __<u>usada</u>__ para dar la idea de llevar un equipo de armamento.
+###  1 Pedro 4:1c "*...ármense también ustedes con el mismo propósito...*" El propósito de Cristo no era sufrir sino vivir para la voluntad de Dios. El vino a terminar con el pecado. 
 
-#### La Biblia versión (RVR60) traduce, "*... armaos del mismo pensamiento...*" El pensamiento que __<u>tuvo</u>__ Cristo fue mucho mayor que los padecimientos que Él llevaría, ya que su mirada estaba dirigido a algo superior que los sufrimientos pasajeros. Su gozo estaba siempre delante de Él. Hebreos 12:2
+###  "*ármense*" JOPLIZO es la palabra __<u>usada</u>__ para dar la idea de llevar un equipo de armamento. 
+
+#### La Biblia (RVR60) traduce, "*... armaos del mismo pensamiento...*" El pensamiento que __<u>tuvo</u>__ Cristo fue mucho mayor que los padecimientos que Él llevaría, ya que su mirada estaba dirigido a algo superior que los sufrimientos pasajeros. Su gozo estaba siempre delante de Él. Hebreos 12:2
 
 #### Su pensamiento de __<u>soportar</u>__ la hostilidad de pecadores fue como un equipamiento de armamento mucho más poderoso que las circunstancias.
 
@@ -1747,9 +1749,9 @@ Title: 1 & 2 Pedro
 
 ### 1 Pedro 4:2d "...*sino para la voluntad de Dios.*" Ahora tenemos la posibilidad de vivir, con un propósito mayor, muy diferente y muy contrario a la que antes vivíamos, dominados por __<u>nuestros</u>__ deseos.
 
-#### Pero ahora podemos vivir __<u>armados</u>__ del pensamiento de Cristo, para la voluntad de Dios.
+#### Pero ahora podemos vivir __<u>armados</u>__ del pensamiento de Cristo, del propósito de hacer la voluntad de Dios.
 
-#### En este capitulo la frase "*voluntad de Dios*", repite 3 veces 1 Pedro 4:2, 6, 19. Según 1 Pedro 2:15, podemos entender que. "... *esta es la voluntad de Dios: que haciendo bien…*", la voluntad de Dios nunca ha estado relacionado al obrar de las pasiones humanas, sino al contrario en hacer el __<u>bien</u>__ que viene de Dios. 1 Pedro 3:17
+#### En este capitulo la frase "*voluntad de Dios*", repite 3 veces 1 Pedro 4:2, 6, 19. Según 1 Pedro 2:15, podemos entender que. "...*esta es la voluntad de Dios: que haciendo bien…*", la voluntad de Dios nunca ha estado relacionado al obrar de las pasiones humanas, sino al contrario en hacer el __<u>bien</u>__ que viene de Dios. 1 Pedro 3:17
 
 #### Para vivir el resto que nos queda en nuestro cuerpo físico haciendo el bien, necesitamos estar equipados del armamento del pensamiento de Cristo y entender que la voluntad de __<u>Dios</u>__ es específicamente en hacer el bien y no el mal.
 
@@ -1759,7 +1761,7 @@ Title: 1 & 2 Pedro
 
 #### Y en el tiempo pasado andábamos descarriados, en las vanidades de una mente entenebrecida satisfaciendo los __<u>deseos</u>__ de nuestras pasiones humanas. 1 Pedro 2:25; Efesios 2:3, 4:18
 
-#### Todo aquello, es pasado y también es suficiente, porque ha sido un tiempo perdido, o desperdiciado, así como lo traduce la biblia (BAD1989) 1 Pedro 4:3: "Pues ya basta con el tiempo que habéis desperdiciado…" antes de llegar a conocer a Dios andábamos sin guía, sin rumbo, sin esperanza, perdidos en __<u>nuestros</u>__ deleites, sin esperanza y sin Dios en el __<u>mundo</u>__, lo cual no tenia ningún propósito.
+#### Todo aquello, es pasado y también es suficiente, porque ha sido un tiempo perdido, o desperdiciado, así como lo traduce la biblia (BAD1989) 1 Pedro 4:3: "*Pues ya basta con el tiempo que habéis desperdiciado…*" antes de llegar a conocer a Dios andábamos sin guía, sin rumbo, sin esperanza, perdidos en __<u>nuestros</u>__ deleites, sin esperanza y sin Dios en el __<u>mundo</u>__, lo cual no tenia ningún propósito.
 
 ###  1 Pedro 4:3b "*...para haber hecho lo que agrada a los gentiles...*" Todo nuestro andar en el tiempo pasado era agradable para la corriente del mundo en la que los gentiles que no __<u>conocen</u>__ a Dios, disfrutan vivir. Romanos 6:21
 
@@ -1825,13 +1827,13 @@ Title: 1 & 2 Pedro
 
 ##### El gran trono blanco será el juicio final, en que todos los que murieron sin Cristo resucitaran y su juicio será para condenación eterna, separados eternamente de __<u>Dios</u>__. Apocalipsis 20:11-15
 
-###  El evangelio que fue predicado, a los que ahora ya duermen, tuvo el mismo propósito que tuvo en el tiempo que se escribió la carta de Pedro, como ahora sigue teniendo el mismo propósito de __<u>animar</u>__ a los creyentes en su andar. 1 Pedro 4:2
+###  El evangelio que fue predicado, a los que ahora ya duermen, tuvo el mismo propósito que tuvo en el tiempo que se escribió la carta de Pedro, como ahora sigue teniendo el mismo propósito de __<u>animar</u>__ a los creyentes en su andar. 1 Pedro 4:2 "*Los que ahora están muertos tal vez __<u>fueron</u>__ condenados por los hombres en este mundo; sin embargo, se les anunciaron las buenas noticias para que pudieran vivir ante Dios por el Espíritu.*" (PDT)
 
-### Los que ahora están muertos tal vez __<u>fueron</u>__ condenados por los hombres en este mundo; sin embargo, se les anunciaron las buenas noticias para que pudieran vivir ante Dios por el Espíritu. (PDT)
+###  1 Pedro 4:6a "*Porque con este fin fue predicado el evangelio aun a los muertos...*" La predicación del evangelio tiene un propósito presente no solo eterno.
 
-###  1 Pedro 4:6a "*Porque con este fin fue predicado el evangelio aun a los muertos...*" La predicación del evangelio tiene un fin y un __<u>resultado</u>__ completamente seguro.
+#### "*Evangelio*", EUANGELIZO es un verbo en tiempo aoristo, modo indicativo, y voz pasiva. Lo que que quiere decir es que en un __<u>tiempo</u>__ pasado se puede afirmar que alguien predico el evangelio a los creyentes que ahora están ya muertos (dormidos).
 
-#### Evangelio, EUANGELIZO es un verbo en tiempo aoristo, modo indicativo, y voz pasiva. Lo que que quiere decir es que en un __<u>tiempo</u>__ pasado se puede afirmar que alguien predico el evangelio a los creyentes que ahora están ya muertos (dormidos).
+#### El propósito de predicarles el evangelio es para que vivan en el espíritu conforme a la voluntad de Dios (aunque sean juzgados en la carne como hombres). 
 
 ###  1 Pedro 4:6b "*...para que aunque sean juzgados en la carne como hombres,...*" Aquellos creyentes que ahora ya están muertos, dieron testimonio de que anduvieron en la voluntad de Dios, haciendo el bien, y fueron insultados, injuriados y juzgados por los hombres __<u>mientras</u>__ estaban vivos.
 
@@ -1847,11 +1849,13 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 4:7b "...*Sean pues ustedes prudentes y de espíritu sobrio para la oración.*" Pedro animaba a su audiencia a no vivir en las pasiones humanas, el tiempo que __<u>queda</u>__, en este pasaje da una instrucción de ser sobrios para la oración, prudentes.
 
-###  1 Pedro 4:8a "*Sobre todo, sean fervientes en su amor los unos por los otros,...*" Sobre todo, teniendo por encima de cualquier circunstancia, o situación, incluso por __<u>encima</u>__ de los sufrimientos y tribulaciones.
+###  1 Pedro 4:8a "*Sobre todo, sean fervientes en su amor los unos por los otros...*" Sobre todo, teniendo por encima de cualquier circunstancia, o situación, incluso por __<u>encima</u>__ de los sufrimientos y tribulaciones.
 
-###  1 Pedro 4:8b "*...pues el amor cubre multitud de pecados.*" debían ser genuinos e intencionales en __<u>dar</u>__ amor, los unos por los otros. Proverbios 10:12
+###  1 Pedro 4:8b "*...pues el amor cubre multitud de pecados.*" debían ser genuinos e intencionales en __<u>dar</u>__ amor, los unos por los otros. Proverbios 10:12; 
 
-###  1 Pedro 4:9a "*Sean hospitalarios los unos para con los otros,...*" El cuidarse en tiempos de sufrimiento y tribulación llega a ser de gran bendición y descanso, al __<u>sobre</u>__ llevar también las cargas los unos de los otros.
+#### El amor cubre (no murmura) del pecado del hermano. A la vez, el amor confronta a su hermano y le indica su error. Santiago 5:19-20
+
+###  1 Pedro 4:9a "*Sean hospitalarios los unos para con los otros...*" El cuidarse en tiempos de sufrimiento y tribulación llega a ser de gran bendición y descanso, al __<u>sobre</u>__ llevar también las cargas los unos de los otros.
 
 ###  1 Pedro 4:9b "*...sin murmuraciones.*" El ser hospitalarios unos con otros __<u>debía</u>__ ser intencional entre todos de manera sincera, sin quejas.
 
@@ -1861,17 +1865,17 @@ Title: 1 & 2 Pedro
 
 ###  1 Pedro 4:11a "*El que habla, que hable conforme a las palabras de Dios;*" El que habla o se dedica a la predicación de la palabra, debe hablar conforme a la palabra de Dios que ha revelado en su escritura y no según criterio humano
 
-###  1 Pedro 4:11b "*...el que sirve, que lo haga por la fortaleza que Dios da,...*" de la misma manera, el servicio puede llegar a ser agotador si uno lo realiza en sus propias fuerzas, Pedro anima a los que sirven a que puedan fortalecerse, de la fortaleza que proviene __<u>solamente</u>__ de Dios.
+###  1 Pedro 4:11b "*...el que sirve, que lo haga por la fortaleza que Dios da...*" de la misma manera, el servicio puede llegar a ser agotador si uno lo realiza en sus propias fuerzas, Pedro anima a los que sirven a que puedan fortalecerse, de la fortaleza que proviene __<u>solamente</u>__ de Dios.
 
-###  1 Pedro 4:11c "*para que en todo Dios sea glorificado mediante Jesucristo,...*" Toda obra mediante Jesucristo trae gloria a __<u>Dios</u>__ y no la gloria de los hombres.
+###  1 Pedro 4:11c "*para que en todo Dios sea glorificado mediante Jesucristo...*" Toda obra mediante Jesucristo trae gloria a __<u>Dios</u>__ y no la gloria de los hombres.
 
 ###  1 Pedro 4:11d "*...a quien pertenecen la gloria y el dominio por los siglos de los siglos. Amén.*" Es a Dios que le pertenece toda la gloria, y siempre le ha pertenecido el dominio __<u>eterno</u>__ y le seguirá perteneciendo por los siglos de los siglos.
 
 # 1 Pedro 4:12-19 – Sufrimiento y bendiciones 
 
-###  1 Pedro 4:12a "*Amados,...*" Esta es la segunda ves que Pedro se __<u>dirige</u>__ como amados a los receptores de la epístola. 1 Pedro 2:12
+###  1 Pedro 4:12a "*Amados...*" Esta es la segunda ves que Pedro se __<u>dirige</u>__ como amados a los receptores de la epístola. 1 Pedro 2:12
 
-###  1 Pedro 4:12b "*...no se sorprendan del fuego de prueba que en medio de ustedes ha venido*" No debía ser cosa extraña para ellos el fuego de prueba que había __<u>venido</u>__ sobre ellos, ya que Dios se esta encargando de purificar su fe mas preciosa que el oro. 1 Pedro 1:7
+###  1 Pedro 4:12b "*...no se sorprendan del fuego de prueba que en medio de ustedes ha venido...*" No debía ser cosa extraña para ellos el fuego de prueba que había __<u>venido</u>__ sobre ellos, ya que Dios se esta encargando de purificar su fe mas preciosa que el oro. 1 Pedro 1:7
 
 ###  1 Pedro 4:12c "*...para probarlos,*" En medio de su __<u>andar</u>__ diversas pruebas estaban dirigidas específicamente a ellos.
 
@@ -1881,27 +1885,27 @@ Title: 1 & 2 Pedro
 
 ### 1 Pedro 4:13b "*...para que también en la revelación de Su gloria se regocijen con gran alegría.*" JAIRO es un verbo en tiempo presente, modo imperativo en voz activa, que significa que ellos debían estar alegres y gozosos, con el propósito de que al acercarse al __<u>Señor</u>__ ellos puedan estar contentos de que vivieron para la gloria del Dios.
 
-### 1 Pedro 4:14a "*Si ustedes son insultados por el nombre de Cristo, dichosos son,...*" Cristo prometió que por su nombre, todo creyente que anda guardando su palabra __<u>seria</u>__ insultado por su causa, pero esto es de gran dicha, ya que es un privilegio poder sufrir por el nombre de Cristo.
+### 1 Pedro 4:14a "*Si ustedes son insultados por el nombre de Cristo, dichosos son...*" Cristo prometió que por su nombre, todo creyente que anda guardando su palabra __<u>seria</u>__ insultado por su causa, pero esto es de gran dicha, ya que es un privilegio poder sufrir por el nombre de Cristo.
 
 ### 1 Pedro 4:14b "*...pues el Espíritu de gloria y de Dios reposa sobre ustedes.*" 
 
 ### 1 Pedro 4:14c "*...Ciertamente, por ellos Él es blasfemado, pero por ustedes es glorificado.*" los que reciben el insulto no es directamente el creyente, sino que el Señor es el que recibe los insultos, ellos __<u>actúan</u>__ con blasfemia en contra de Él, pero al permanecer en mansedumbre y con limpia conciencia regocijándonos en la tribulación el Señor es glorificado.
 
-### 1 Pedro 4:15a "*Que de ninguna manera sufra alguien de ustedes como asesino,...*" Un asesino sufre por las consecuencias de sus actos, aquí Pedro da otro imperativo en esto no __<u>debe</u>__ ser así en medio de ellos.
+### 1 Pedro 4:15a "*Que de ninguna manera sufra alguien de ustedes como asesino...*" Un asesino sufre por las consecuencias de sus actos, aquí Pedro da otro imperativo en esto no __<u>debe</u>__ ser así en medio de ellos.
 
-#### 1 Pedro 4:15b "*... o ladrón,...*" de igual modo no debían __<u>sufrir</u>__ por causa de haber sido parte de obras que no van con el andar según la voluntad de Dios
+#### 1 Pedro 4:15b "*... o ladrón...*" de igual modo no debían __<u>sufrir</u>__ por causa de haber sido parte de obras que no van con el andar según la voluntad de Dios
 
-#### 1 Pedro 4:15c "*...o malhechor,...*" tampoco debían sufrir como malhechores, esto hace recuerdo a que ellos debían __<u>vivir</u>__ haciendo el bien y no el mal.
+#### 1 Pedro 4:15c "*...o malhechor...*" tampoco debían sufrir como malhechores, esto hace recuerdo a que ellos debían __<u>vivir</u>__ haciendo el bien y no el mal.
 
-#### 1 Pedro 4:15d "*...o por entrometido.*" por participar en las disoluciones de los incrédulos ellos podían llegar a sufrir, pero esto no debía ser así,  ya que los sufrimientos que provienen de Dios, son por andar en su voluntad haciendo el bien y no metiéndose en __<u>asuntos</u>__ que no convienen.
+#### 1 Pedro 4:15d "*...o por entrometido...*" por participar en las disoluciones de los incrédulos ellos podían llegar a sufrir, pero esto no debía ser así,  ya que los sufrimientos que provienen de Dios, son por andar en su voluntad haciendo el bien y no metiéndose en __<u>asuntos</u>__ que no convienen.
 
-### 1 Pedro 4:16a "*Pero si alguien sufre como cristiano,...*" En aquel tiempo un cristiano era visto como alguien que andaba en la voluntad de Dios, y su andar era evidente a los __<u>demás</u>__, lo cual provocaba a los incrédulos insultarlos, y eso podría ser causa de sentir vergüenza.
+### 1 Pedro 4:16a "*Pero si alguien sufre como cristiano...*" En aquel tiempo un cristiano era visto como alguien que andaba en la voluntad de Dios, y su andar era evidente a los __<u>demás</u>__, lo cual provocaba a los incrédulos insultarlos, y eso podría ser causa de sentir vergüenza.
 
 ### 1 Pedro 4:16b "*...que no se avergüence, sino que como tal glorifique a Dios.*" en vez de avergonzarse de sufrir como Cristiano, con el regocijo de que las __<u>pruebas</u>__ provienen de Dios, Pedro les da el ánimo de glorificar a Dios.
 
 ### 1 Pedro 4:17a "*Porque es tiempo de que el juicio comience por la casa de Dios.*" El juicio de Dios inicia con el de los creyentes en el tribunal de Cristo, en el que todo __<u>creyente</u>__ va a comparecer ante el Señor.
 
-### 1 Pedro 4:17b "*Y si comienza por nosotros primero,...*" el tribunal de Cristo será después del rapto de la iglesia, el juicio será llevado a cabo en los __<u>cielos</u>__.
+### 1 Pedro 4:17b "*Y si comienza por nosotros primero...*" el tribunal de Cristo será después del rapto de la iglesia, el juicio será llevado a cabo en los __<u>cielos</u>__.
 
 ### 1 Pedro 4:17c "*...¿cuál será el fin de los que no obedecen al evangelio de Dios?*" Pero el gran trono blanco será el juicio final, donde todos los incrédulos resucitaran después que haya __<u>pasado</u>__ el milenio, y si los creyentes fueron juzgados según su andar en el cuerpo, ¿entonces cual será el fin de los que no creyeron en el evangelio?
 
@@ -1917,25 +1921,23 @@ Title: 1 & 2 Pedro
 
 ## En Síntesis
 
-### ESQUEMA DE LA SECCIÓN CUATRO (1 PEDRO 4)
-
 ### Pedro escribe sobre el sufrimiento.
 
-### EL PROPÓSITO DEL SUFRIMIENTO (1 Pedro 4:1-11, 15, 17-18)
+### El propósito de armarnos de la mentalidad de Cristo, viviendo para la volutand de Dios.  (1 Pedro 4:1-11, 15, 17-18)
 
-### Limpiar y __<u>purificar</u>__ al creyente espiritual (1 Pedro 4:1-11)
+### Sufrir haciendo el bien es beneficioso:
 
-#### El triunfo (1 Pedro 4:1-3): El sufrimiento hace que el pecado __<u>pierda</u>__ su poder.
+#### Limpiar y __<u>purificar</u>__ al creyente espiritual (1 Pedro 4:1-11)
 
-#### El testimonio (1 Pedro 4:4-6): Los amigos no salvos de un nuevo cristiano se maravillan de que él no desee compartir su estilo de vida __<u>malvado</u>__ como antes.
+##### El testimonio (1 Pedro 4:4-6): Los amigos no salvos de un nuevo cristiano se maravillan de que él no desee compartir su estilo de vida __<u>malvado</u>__ como antes.
 
-#### La ternura (1 Pedro 4:7-9): El sufrimiento debe cultivar nuestro __<u>amor</u>__ por los demás creyentes.
+##### La ternura (1 Pedro 4:7-9): El sufrimiento debe cultivar nuestro __<u>amor</u>__ por los demás creyentes.
 
-#### Los talentos (1 Pedro 4:10-11): Debemos emplear fielmente todos los dones espirituales que Dios __<u>nos</u>__ ha dado.
+##### Los talentos (1 Pedro 4:10-11): Debemos emplear fielmente todos los dones espirituales que Dios __<u>nos</u>__ ha dado.
 
 ### Disciplinar y castigar al creyente carnal (1 Pedro 4:15, 17-18): Dios disciplina a su pueblo.
 
-### EL PRIVILEGIO DEL SUFRIMIENTO (1 Pedro 4:12-14, 16)
+### El privilegio del sufrimiento (1 Pedro 4:12-14, 16)
 
 #### Es de esperar (1 Pedro 4:12): A todos los creyentes se les __<u>permitirá</u>__ sufrir.
 
@@ -1945,23 +1947,39 @@ Title: 1 & 2 Pedro
 
 #### Sufrir por Cristo significa compartir su __<u>gloria</u>__ futura (1 Pedro 4:13b, 14b, 16b). 
 
-### LA PACIENCIA EN EL SUFRIMIENTO (1 Pedro 4:19): Hay dos cosas que hacer en la hora del sufrimiento que es conforme a la voluntad de Dios.
+### La paciencia del sufrimiento (1 Pedro 4:19): Hay dos cosas que hacer en la hora del sufrimiento que es conforme a la voluntad de Dios.
 
 #### Podemos encomendarnos a Dios (1 Pedro 4:19b).
 
 #### Y seguir __<u>haciendo</u>__ el bien (1 Pedro 4:19a).
 
-## 1 Pedro 5:1-11 – Guía adicional 
+## 1 Pedro 5:1-11 – Advertencias de mantenimiento a la Casa de Dios
 
-## A los ancianos
+## 1 Pedro 5:1-4 Sobre a los ancianos
 
-### 1 Pedro 5:1 "*Por tanto,*" tenemos el contexto conectando a "*el juicio comience por la casa de __<u>Dios</u>__.* 1 Pedro 4:17
+### 1 Pedro 5:1 "*Por tanto,*" tenemos el contexto conectando a lo que dijo previamente, "*...el juicio comience por la casa de __<u>Dios</u>__.* 1 Pedro 4:17
 
-### 1 Pedro 5:1 *a los ancianos entre ustedes,* El rol de anciano es "entre" los creyentes, no los pone en una posición superior __<u>sino</u>__ entre "ustedes" los creyentes. 1 Pedro 5:2
+#### Esto significa que cada uno de nosotros dará cuenta a Dios así que anima a encomendar sus almas a Dios haciendo el bien...
+
+### 1 Pedro 5:1 "*a los ancianos entre ustedes...*" El rol de anciano es "entre" los creyentes, no los pone en una posición superior __<u>sino</u>__ "*entre ustedes*" los creyentes. 1 Pedro 5:2
 
 ### 1 Pedro 5:1 *exhorto yo,* Pedro hablaría de el como anciano, esto sera una recomendación de un anciano a __<u>otro</u>__. 
 
-### 1 Pedro 5:1 *exhorto yo...anciano como ellos* Aunque en el princípio se su carta se presenta como apostol, __<u>ahora</u>__ pasa a ser un anciano, mostrando la transición de apóstol a anciano. Hechos 2:43, 5:12, 8:1, 15:2, 4, 6. 
+#### ¿Y quien es Pedro para exhortarles? ¿Quien se cree Pedro para exhortar a los ancianos? Es anciano como ellos y testigo de los padecimientos de Cristo. 
+
+### 1 Pedro 5:1 *exhorto yo...anciano como ellos* Aunque en el princípio se su carta se presenta como apostol y podría apoyarse en su autoridad como apóstol, __<u>ahora</u>__ se presenta como anciano "*como ellos*", mostrando la transición de apóstol a anciano. Hechos 2:43, 5:12, 8:1, 15:2, 4, 6. 
+
+#### ¿Porqué cambia de pronombre de ustedes a ellos? Antes dijo ustedes, refiriendose a los ancianos. Ahora dice ellos. A quienes esta hablando? A la iglesia, a todos los creyentes. Los ancianos estan entre ellos. 
+
+#### La exhortación es a los ancianos pero incluye a toda la iglesia para su entendimiento. Los ancianos son parte de la casa de Dios, no sobre. Pedro escribe a todos y aquí sobre los ancianos entre ellos. 
+
+##### Es necesario que toda la iglesia se vea incluida y con el mismo valor dentro de la casa de Dios. 
+
+##### El mensaje de exhortación a los ancianos no es en privado como que la exhortación es sin que la congregación se entere. No son un grupo élite que estan libres o encima de cualquier amonestación. Ellos tienen que rendir cuentas igual que cualquier otro miembro de su participación en la casa de Dios. 
+
+###### Su juicio será más severo al enseñar (un requisito contínuo para el anciano). Santiago 3:1
+
+Su juicio será según lo que pastorean el rebaño de Dios. 
 
 ### 1 Pedro 5:1 *exhorto yo...y testigo de los padecimientos de Cristo,* Es curioso, aunque Pedro vio ocularmante parte del juicio de Jesús, no estuvo durante todos sus padecimientos. Entonces, ¿a __<u>que</u>__ se refiere? Marcos 14:66-72; Mateo 26:31, 69-75; Lucas 22:31-34, 54, 61-62; Juan 18:15-18, 25-27. 
 
@@ -2019,105 +2037,111 @@ Title: 1 & 2 Pedro
 
 ### 1 Pedro 5:4 *ustedes recibirán la corona inmarcesible de gloria.* Sabemos que los creyentes serán sometidos a juicio y según recibiremos recompensas. El anciano que pastorea bien recibirá una __<u>corona</u>__. Esto esta específicamente dicho en función del rol de anciano. 
 
-## Jóvenes
+## 1 Pedro 5:5 Sobre los jóvenes
 
-### 1 Pedro 5:5 "*...Asimismo*" De la misma manera, así como aprenden del ejemplo de los ancianos... Pedro continuara con una __<u>misma</u>__ linea segun el contexto.
+### 1 Pedro 5:5a "*...Asimismo*" De la misma manera, así como aprenden del ejemplo de los ancianos... Pedro continuara con una __<u>misma</u>__ linea segun el contexto.
 
-### 1 Pedro 5:5 "*ustedes, los más jóvenes, estén __<u>sujetos</u>__ a los mayores*" [ancianos RVR60]. 
+### 1 Pedro 5:5b "*ustedes, los más jóvenes, estén __<u>sujetos</u>__ a los mayores* [ancianos RVR60]". 
 
 #### "*mayores*" PRESBUTEROS, seria __<u>mejor</u>__ traducido ancianos, especialmente según el contexto. 
 
 #### Estar sujetos esta en función del rol, los mas jóvenes pueden ponerse bajo los __<u>ancianos</u>__, de la misma manera que un anciano esta sujeto (bajo de) el Príncipe de los pastores.
 
-### 1 Pedro 5:5 "*Y todos, revístanse de humildad en su trato mutuo,*" Es claro, de humildad en trato __<u>mutuo</u>__ no es algo que será posible separado de Cristo. Es fácil vernos de manera soberbia y no como quienes somos en realidad. Jesús dijo aprended de mi que soy manso y humilde. 
+## 1 Pedro 5:5c-11 Exhortando a todos
+
+### 1 Pedro 5:5c "*Y todos...*" esto incluye ancianos y jóvenes y todos los hermanos de la iglesia. 
+
+### 1 Pedro 5:5d *revístanse de humildad en su trato mutuo,*" Es claro, de humildad en trato __<u>mutuo</u>__ no es algo que será posible separado de Cristo. Es fácil vernos de manera soberbia y no como quienes somos en realidad. Jesús dijo aprended de mi que soy manso y humilde. 
 
 #### A la luz de la verdad en Cristo aprendemos a andar en relación de quienes somos en realidad y a tratar a nuestros hermanos como quienes son en verdad, hijos de Dios, salvados por gracia, __<u>amados</u>__ por Dios nuestra salvación, (gracia) no proviene de nosotros sino de Dios. Filipenses 2:3-4
 
-### 1 Pedro 5:5 "*porque DIOS RESISTE A LOS SOBERBIOS,*" literalmente dicho, Dios esta contra los orgullosos. Esto es una realidad que muchas veces pasamos por alto. A veces inflados por nuestro orgullo, no __<u>vemos</u>__ con claridad la verdad de que Dios nos está resistiendo. 
+### 1 Pedro 5:5e "*porque DIOS RESISTE A LOS SOBERBIOS,*" literalmente dicho, Dios esta contra los orgullosos. Esto es una realidad que muchas veces pasamos por alto. A veces inflados por nuestro orgullo, no __<u>vemos</u>__ con claridad la verdad de que Dios nos está resistiendo. 
 
 #### Tal vez pensamos que Dios solo resiste a los incrédulos pero aquí vemos que también lo hace con los creyentes que __<u>andan</u>__ en soberbia.
 
 #### Como creyentes debemos aprender a vernos según la verdad, pecadores salvos por gracia en Cristo. Ejemplo: Un __<u>sano</u>__ no tiene necesidad de medico, los auto proclamado buenos o justos del mundo no tienen necesidad de un salvador.
 
-### 1 Pedro 5:5 "*PERO DA GRACIA A LOS HUMILDES.*" Dios da __<u>gracia</u>__ a los humildes. Un claro ejemplo es al momento de la salvación (gracia) por la fe. 
+### 1 Pedro 5:5f "*...PERO DA GRACIA A LOS HUMILDES.*" Dios da __<u>gracia</u>__ a los humildes. Un claro ejemplo es al momento de la salvación (gracia) por la fe. 
 
 #### Al contemplar a Dios y su santidad, su estandar perfecto de justicia, haciendo una comparativa conocemos nuestra condicion, __<u>faltos</u>__ de justicia pecadores dignos de muerte, perdidos, necesitados de salvacion por ser incapaces de salvarnos, salvados por gracia al creer en la persona y obra de Jesucristo.
 
 #### A veces pensamos que humildad es bajarse hasta el piso como persona, pero en realidad es percibir según la verdad quienes __<u>somos</u>__.
 
-### 1 Pedro 5:6 "*Humíllense, pues,*" Lo que Pedro propone aquí no es que nos aflijamos delante de Él sino más bien que en medio de los sufrimientos es fácil decir que padecemos injustamente, ignorando la verdad y exigiendo justicia social, queriendo nosotros __<u>actuar</u>__. Filipenses 2:5-11
+### 1 Pedro 5:6a "*Humíllense, pues,*" Lo que Pedro propone aquí no es que nos aflijamos delante de Él sino más bien que en medio de los sufrimientos es fácil decir que padecemos injustamente, ignorando la verdad y exigiendo justicia social, queriendo nosotros __<u>actuar</u>__. Filipenses 2:5-11
 
 #### Humillarse esta unido a no estimarnos más de lo que __<u>somos</u>__, no somos como jueces o justicieros. 
 
-### 1 Pedro 5:6 "*bajo la poderosa mano de Dios,*" Humillarse esta ligado a colocarse bajo la poderosa mano de Dios. Andar segun quienes somos en Cristo confiados bajo la poderosa mano de Dios, esto __<u>tiene</u>__ gran peso entendiendo el contexto de estar atravesando por sufrimientos.
+### 1 Pedro 5:6b "*Humíllense...bajo la poderosa mano de Dios,*" Humillarse esta ligado a colocarse bajo la poderosa mano de Dios. Andar segun quienes somos en Cristo confiados bajo la poderosa mano de Dios, esto __<u>tiene</u>__ gran peso entendiendo el contexto de estar atravesando por sufrimientos.
 
 #### Si padecemos o sufrimos como cristianos es un gozo porque somos participantes de las aflicciones de __<u>Cristo</u>__. No es que Dios se olvidó de nosotros pero en medio del sufrimiento podemos refugiarnos en Su poder y gracia.
 
-### 1 Pedro 5:6 "*para que Él los exalte*" El Padre exaltara al creyente que al considerarse en la verdad se somete __<u>debajo</u>__ de su mano, en esto tenemos el ejemplo de Cristo que no se aferro a su divinidad sino que siendo hombre se sujeto al Padre bajo su mano. Filipenses 2:5-11
+### 1 Pedro 5:6c "*Humíllense...para que Él los exalte*" El Padre exaltara al creyente que al considerarse en la verdad se somete __<u>debajo</u>__ de su mano, en esto tenemos el ejemplo de Cristo que no se aferro a su divinidad sino que siendo hombre se sujeto al Padre bajo su mano. Filipenses 2:5-11
 
-### 1 Pedro 5:6 "*a su debido tiempo,*" Dios promete __<u>exaltar</u>__ al que se humille bajo su poderosa mano. 
+### 1 Pedro 5:6d "*a su debido tiempo,*" Dios promete __<u>exaltar</u>__ al que se humille bajo su poderosa mano. 
 
 #### No se nos dice en cuanto tiempo __<u>pero</u>__ si dice que es seguro. Podemos descansar en Dios.
 
-### 1 Pedro 5:7 "*echando toda su ansiedad sobre Él,*" Echar nuestra ansiedad tiene que ver porque Dios __<u>cuida</u>__ de nosotros. 
+### 1 Pedro 5:7a "*Humíllense...echando toda su ansiedad sobre Él,*" Echar nuestra ansiedad tiene que ver porque Dios __<u>cuida</u>__ de nosotros. 
 
 #### Es fácil que en medio de los sufrimientos nos invada la ansiedad, literalmente se traduce habiendo echado su ansiedad sobre el, cuando andamos considerando nuestra realidad bajo su __<u>mano</u>__, nuestras ansiedades son puestas sobre el. 
 
-### 1 Pedro 5:7 "*porque Él tiene cuidado de ustedes.*" Nuestra ansiedad que surge de los padecimientos puede ser echada porque el nos __<u>cuida</u>__. 
+### 1 Pedro 5:7b "*porque Él tiene cuidado de ustedes.*" Nuestra ansiedad que surge de los padecimientos puede ser echada porque el nos __<u>cuida</u>__. 
 
-### 1 Pedro 5:8 "*Sean de espíritu sobrio, estén alerta.*" Esto es un mandato a pensar correctamente, según la __<u>verdad</u>__, sobrio esta relacionado a estar cuerdo, ver la realidad.
+### 1 Pedro 5:8a "*Sean de espíritu sobrio, estén alerta.*" Esto es un mandato a pensar correctamente, según la __<u>verdad</u>__, sobrio esta relacionado a estar cuerdo, ver la realidad.
 
 #### Así mismo el creyente debe permanecer alerta o despierto, de manera que no sea sorprendido, esto __<u>tiene</u>__ relevancia ya que seremos advertidos a continuación.
 
-### 1 Pedro 5:8 "*Su adversario, el diablo, anda al acecho como león rugiente,*" Satanás __<u>esta</u>__ esperando una oportunidad.
+### 1 Pedro 5:8b "*Su adversario, el diablo, anda al acecho como león rugiente,*" Satanás __<u>esta</u>__ esperando una oportunidad.
 
 #### Satanás el que esta contra los creyente no permanece inmóvil, el verso dice "anda", esto es activo y continuo de su parte, el esta acechando, permanece esperando una oportunidad para tomar a su __<u>presa</u>__.
 
-### 1 Pedro 5:8 "*buscando*" El está buscando a un creyente que flaquea por estos momentos de sufrimiento, uno que no esta pensando con cordura, o __<u>viendo</u>__ con claridad ni esta alerta. 
+### 1 Pedro 5:8c "*buscando*" El está buscando a un creyente que flaquea por estos momentos de sufrimiento, uno que no esta pensando con cordura, o __<u>viendo</u>__ con claridad ni esta alerta. 
 
-### 1 Pedro 5:8 "*a quien devorar.*" Satanás los busca para devorarlos (destruirlos) en medio de los padecimientos. Esto no habla de que se pierden eternamente sino de estar afligidos por el __<u>engaño</u>__ del diablo. 
+### 1 Pedro 5:8d "*a quien devorar.*" Satanás los busca para devorarlos (destruirlos) en medio de los padecimientos. Esto no habla de que se pierden eternamente sino de estar afligidos por el __<u>engaño</u>__ del diablo. 
 
-### 1 Pedro 5:9 "*Pero resístanlo firmes en la fe,*" se nos dice __<u>resistir</u>__, quiere decir ir contra el, no dejarnos sorprender para ser devorados.
+### 1 Pedro 5:9a "*Pero resístanlo*" se nos dice __<u>resistir</u>__, quiere decir ir contra el, no dejarnos sorprender para ser devorados. Resístanlo es un imperativo en voz activa. 
 
 #### Es interesante que resistir no esta __<u>ligado</u>__ a cosas para hacer aumentar nuestra espiritualidad. 
 
-#### La manera de resistirlo es permaneciendo __<u>firmes</u>__ en la fe. 
+### 1 Pedro 5:9b "*firmes en la fe*..." La manera de resistirlo es permaneciendo __<u>firmes</u>__ por la fe. 
 
-### 1 Pedro 5:9 "*sabiendo que las mismas experiencias de sufrimiento*" Hay algo que debemos __<u>saber</u>__.
+### 1 Pedro 5:9b "*resistanlo...sabiendo que las mismas experiencias de sufrimiento*" Hay algo que debemos __<u>saber</u>__.
 
 #### No somos los únicos que estamos atravesando por sufrimiento o persecución por Cristo, hay mas creyentes en una situación __<u>similar</u>__ aunque no los conocemos.
 
 #### Para este tiempo muchos creyente habrían estado siendo perseguidos y muchos otros muertos, __<u>otros</u>__ pasando escases o en peligros del camino
 
-### 1 Pedro 5:9 "*se van cumpliendo en sus hermanos en todo el mundo.*" muchas veces pensamos que somos los únicos que __<u>sufren</u>__, sin embargo, nuestros hermanos en todo el mundo también están atravesando padecimiento en el nombre de Cristo.
+### 1 Pedro 5:9c "*se van cumpliendo en sus hermanos en todo el mundo.*" muchas veces pensamos que somos los únicos que __<u>sufren</u>__, sin embargo, nuestros hermanos en todo el mundo también están atravesando padecimiento en el nombre de Cristo.
 
-### 1 Pedro 5:10 "*Y después de que hayan sufrido un poco de tiempo,*" tenemos un hecho esperanzador, no sufrimos eternamente. Los sufrimientos son temporales, aunque eso si no se nos dice cuanto __<u>tiempo</u>__ ni hasta que punto. 
+### 1 Pedro 5:10a "...*Y después de que hayan sufrido un poco de tiempo,*" tenemos un hecho esperanzador, no sufrimos eternamente. Los sufrimientos son temporales, aunque eso si no se nos dice cuanto __<u>tiempo</u>__ ni hasta que punto. 
 
 #### Podemos ver que el atravesar por sufrimientos en el __<u>nombre</u>__ de Cristo tiene un propósito.
 
-### 1 Pedro 5:10 "*el Dios de toda gracia,*" Dios el Padre __<u>lleno</u>__ en gracia en Cristo Jesús. 
+### 1 Pedro 5:10b "*el Dios de toda gracia...*" Dios el Padre __<u>lleno</u>__ en gracia en Cristo Jesús. 
+
+#### Esto es bueno conocer y recordar. El siempre es el Dios de toda gracia. 
 
 #### Dios el Padre nos muestra que el sufrimiento como Cristiano también forma parte de su __<u>gracia</u>__ en Cristo y en esa gracia tiene un propósito para con el creyente.
 
-### 1 Pedro 5:10 "*que los llamó a Su gloria eterna en Cristo,*" Dios el Padre fue el que nos __<u>llamó</u>__ por medio del evangelio. Romanos 8:30-32
+### 1 Pedro 5:10c "*que los llamó a Su gloria eterna en Cristo...*" Dios el Padre fue el que nos __<u>llamó</u>__ por medio del evangelio. Romanos 8:30-32
 
-#### Dios nos llamó a su gloria por medio de Cristo, en contraste a que antes estábamos destituidos de su __<u>gloria</u>__. 
+#### Dios nos llamó a Su gloria por medio de Cristo, en contraste a que antes estábamos destituidos de su __<u>gloria</u>__. 
 
-### 1 Pedro 5:10 "*Él mismo*" El Dios de toda gracia, El mismo que nos llamo tiene un propósito con el creyente en que este atraviese padecimientos por causa de Cristo, esto es una __<u>certeza</u>__, el mismo Dios lleno de gracia que nos salvó por medio de Cristo, es el mismo que nos perfeccionará por medio del sufrimiento. Filipenses 1:6, 29
+### 1 Pedro 5:10d "*Él mismo*..." El Dios de toda gracia, El mismo que nos llamo tiene un propósito con el creyente en que este atraviese padecimientos por causa de Cristo, esto es una __<u>certeza</u>__, el mismo Dios lleno de gracia que nos salvó por medio de Cristo, es el mismo que nos perfeccionará por medio del sufrimiento. Filipenses 1:6, 29
 
-### 1 Pedro 5:10 "*el mismo...los perfeccionará,*" A la luz del sufrimiento seremos moldeados cada vez más a la __<u>imagen</u>__ de Cristo. 
+### 1 Pedro 5:10e "*el mismo...los perfeccionará...*" nos equipará de antemano para Sus propósitos. 
 
-#### "*perfeccionará*" KATARTIZO - dejar listo o adecuado o equipado de antemano para un propósito particular o para __<u>algún</u>__ uso, evento u otro propósito.[^1]
+#### "*perfeccionará...*" KATARTIZO - dejar listo o adecuado o equipado de antemano para un propósito particular o para __<u>algún</u>__ uso, evento u otro propósito.[^1]
 
-### 1 Pedro 5:10 "*Él mismo los...afirmará,*" Que __<u>bueno</u>__ es saber que nos afirmará, especialmente al resistir al diablo. 
+### 1 Pedro 5:10f "*Él mismo los...afirmará...*" Que __<u>bueno</u>__ es saber que nos hará más marcados mediante una firme determinación, especialmente para resistir al diablo. 
 
 #### "*afirmará*" STERIZO - hacer más marcado mediante una __<u>firme</u>__ determinación o resolución.[^1]
 
-### 1 Pedro 5:10 "**Él mismo los...fortalecerá,*" Dios también __<u>nos</u>__ fortalecerá en Cristo.
+### 1 Pedro 5:10g "*Él mismo los...fortalecerá,*" Dios también __<u>nos</u>__ hará fuertes.
 
 #### "*fortalecerá*" STHENOO - dar __<u>mayor</u>__ fuerza o hacer fuerte. 
 
-### 1 Pedro 5:10 "*Él mismo...y establecerá.*" Dios también __<u>nos</u>__ establecerá. 
+### 1 Pedro 5:10h "*y (Él mismo)...establecerá.*" Dios también __<u>nos</u>__ plantara como piedra fundamental. 
 
 #### "*establecerá*" THERMELIOO - fortalecer una cualidad o aspecto personal; concebido como colocar __<u>una</u>__ piedra fundamental o un soporte.
 
