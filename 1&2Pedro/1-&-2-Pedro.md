@@ -952,7 +952,11 @@ Title: 1 & 2 Pedro
 
 ##### Somos un __<u>pueblo</u>__ escogido. 1 Pedro 2:9a, 10
 
+<<<<<<< Updated upstream
 ## 1 Pedro 2:11-12 ...entendimiento para la acción -  Pueblo de Dios a los gentiles
+=======
+## 1 Pedro 2:11-12 La acción -  Pueblo de Dios a los gentiles
+>>>>>>> Stashed changes
 
 ###  1 Pedro 2:11a *"Amados, les ruego como a extranjeros y peregrinos...*" El apóstol Pedro llamará amados a los creyentes. Somos amados por __<u>causa</u>__ de Su hijo, estamos revestidos de Cristo. Gálatas 3:27
 
