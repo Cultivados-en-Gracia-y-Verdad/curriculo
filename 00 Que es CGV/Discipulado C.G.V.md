@@ -11,7 +11,7 @@ Draft: True
 
 #### El enfoque principal es preparar a los creyentes con todo el consejo de Dios (Hechos 20:27), con el fin de capacitar a los santos para el beneficio de la iglesia (Efesios 4:12-16). 
 
-#### La dirección principal a la cual nos dirigimos es cumplir con la comisión que nos dio  nuestro Señor Jesucristo, el hacer discípulos y enseñarles que guarden todas las cosas (Mateo 28:16-20).
+#### La dirección principal a la cual nos dirigimos es cumplir con la comisión que nos dio  nuestro Señor Jesucristo, el hacer discípulos y enseñarles que guarden todas las cosas que mandó. (Mateo 28:16-20).
 
 #### El deseo es que las iglesias locales puedan conocer el programa de discipulado C.G.V. y que puedan realizar el discipulado intensivo dentro de cada iglesia local (Hechos 5:42; 20:31).
 
@@ -57,9 +57,9 @@ Draft: True
 
 #### La propuesta es desarrollar un centro de discipulado en el cual se estudiará de manera intensiva e integral las escrituras de principio a fin.
 
-#### El programa de Discipulado C.G.V no se involucra en las decisiones como iglesia, conflictos internos o ministerios.
+#### El programa de Discipulado C.G.V no se involucra en las decisiones como iglesia, asuntos internos o ministerios.
 
-#### La duración sugerida de discipulado es de 3 años, en el cual la iglesia local necesita ser primeramente discipulada para luego poder hacer hacedores de discípulos de manera independiente, autónoma y continua.
+#### La duración sugerida del Proyecto Centro de discipulado es de 3 años, en el cual la iglesia local necesita ser primeramente discipulada para luego poder hacer hacedores de discípulos de manera independiente, autónoma y continua.
 
 ##### 1 año - La iglesia local se dedica a observar y aprender del discipulado.
 
@@ -141,15 +141,15 @@ Draft: True
 
 ##### Los desarrolladores y colaboradores del material de Discipulado C.G.V - Notas, entienden que al momento de entregar su bosquejo a C.G.V, pasa por un proceso minucioso de edición, revisión, corrección con diferentes personas, llegando a obtener el resultado de autoría de Discipulado C.G.V.
 
-##### Es importante mencionar que los desarrolladores y colaboradores del se mantienen en anonimato con el fin de no promocionar personas, ni instituciones sino que el enfoque más importante sea en enseñar las escrituras.
+##### Es importante mencionar que los desarrolladores y colaboradores se mantienen en anonimato con el fin de no promocionar personas, ni instituciones sino que el enfoque más importante sea en enseñar las escrituras.
 
 #### Tiempos establecidos para la edición, corrección y modificación del material.
 
 ##### Los desarrolladores y colaboradores tendrán tiempos establecidos, para su plena observación y corrección, con el fin de planificar y agilizar los tiempos de desarrollo de cada material. 
 
-## Radio C.G.V
+## Radio C.G.V.
 
-### El objetivo de la radio es compartir el discipulado enseñado en el aula a las personas que no puedan asistir, 
+### El objetivo principal de la radio es compartir el discipulado enseñado en el aula a las personas que no puedan asistir, 
 
 ### El objetivo de la radio no es distraerse del discipulado
 
