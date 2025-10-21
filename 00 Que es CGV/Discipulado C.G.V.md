@@ -51,79 +51,43 @@ Draft: True
 
 ## Discipulado C.G.V - Proyecto Centro de discipulado
 
-### Modelo de discipulado
+### ¿Qué es Discipulado C.G.V - Proyecto Centro de discipulado?
 
-#### El modelo de discipulado consta de dos partes involucradas, la iglesia local que desea ser discipulada y el proyecto de discipulado C.G.V. 
+#### Es una propuesta integral de discipulado para las iglesias locales, con el fin de que puedan hacer hacedores de discípulos dentro su propia congregación.
 
-#### Se presenta como Proyecto centro C.G.V. a la iglesia local, con el uso de materiales C.G.V.
+#### La propuesta es desarrollar un centro de discipulado en el cual se estudiará de manera intensiva e integral las escrituras de principio a fin.
 
-#### La duración sugerida de discipulado es de 3 años, en el cual se presenta una transición de discipular a la iglesia local, a que la iglesia local realice discípulos de manera independiente, autónoma y continua.
+#### El programa de Discipulado C.G.V no se involucra en las decisiones como iglesia, conflictos internos o ministerios.
 
-##### 1 año - La iglesia local se dedica a observar el método de discipulado, continuo, intensivo y por módulos.
+#### La duración sugerida de discipulado es de 3 años, en el cual la iglesia local necesita ser primeramente discipulada para luego poder hacer hacedores de discípulos de manera independiente, autónoma y continua.
 
-##### 2 año - La iglesia local participa de manera logística, involucrada en la participación y enseñanza guiada.
+##### 1 año - La iglesia local se dedica a observar y aprender del discipulado.
 
-##### 3 año - La iglesia local se encuentra discipulando a tiempo completo de manera independiente
+##### 2 año - La iglesia local participa en la enseñanza práctica y en la logística.
 
-### Módulos a desempeñar
+##### 3 año - La iglesia local se dedica a hacer hacedores de discípulos de manera independiente.
 
-#### Los módulos empiezan por panoramas del antiguo y nuevo testamento acerca de cómo Dios se va revelando en la historia.
+### Desarrollo de los Módulos de estudio.
 
-#### Módulos para el creyente mostrando la nueva identidad y claridad del evangelio. 
+#### Los módulos de estudio implican el estudio verso por verso de libros del antiguo y nuevo testamento, empezando con panoramas del antiguo y nuevo testamento acerca de cómo Dios se va revelando en la historia, módulos del nuevo testamento para el creyente mostrando la nueva identidad y claridad del evangelio, módulos de exégesis bíblica, módulos para una comprensión de la naturaleza la iglesia y módulos acerca de los libros de profecía cumplida y futura. 
 
-#### Módulos de exégesis bíblica.
+#### Como práctica final en relación al discipulado intensivo se tiene el ministerio práctico en el cual se desarrollará un entrenamiento bíblico intensivo en el cual los estudiantes enseñan y hacen discípulos.
 
-#### Módulos para una comprensión de la naturaleza la iglesia .
+### La autonomía de cada centro de Discipulado.
 
-#### Módulos de profecía cumplida y futura. 
-
-#### Como práctica final en relación al discipulado intensivo se tiene el ministerio práctico en el cual se desarrollará un entrenamiento bíblico intensivo.
-
-### El Local donde se desarrollará el discipulado.
-
-#### Como local en el cual se pueda desarrollar el discipulado, puede ser el mismo local de la iglesia (Sugerido), generalmente los locales durante horarios de oficina se encuentran cerrados, y en las noches funcionan para las reuniones nocturnas.
-
-### La autonomía de cada Centro.****
-
-#### Cada discipulado se encuentra de manera autónoma e independiente de otro, de igual manera que una iglesia se maneja de manera independiente.
+#### Cada centro de Discipulado se encuentra de manera autónoma e independiente de otro, de igual manera que una iglesia se maneja de manera independiente de las otras, con su propia administración y organización.
 
 ### El programa de Discipulado C.G.V.
 
-#### El sentido del discipulado es a tiempo completo, enfocado e intensivo
+#### El sentido del programa de discipulado es que sea solo temporal y transitorio, mientras la iglesia aprende a hacer hacedores de discípulos se ejecuta el programa planificado, sin embargo cuando la iglesia ya se encuentre discipulada y capacitada, la iglesia tomará las riendas del discipulado de manera independiente y autónoma.
 
-#### 
+#### El programa de discipulado es a tiempo completo, enfocado e intensivo.
 
-### El objetivo es que el Discipulado C.G.V como centro Centro, desaparezca y sea parte de la iglesia local, una iglesia local haciendo discípulos sin el nombre de C.G.V.\-     Currículo con quiz.
+### ¿Quieres que tu iglesia local sea parte del programa de Discipulado C.G.V?
 
-#### El objetivo del discipulado es 8 horas sugerido, pueden usarlo o descartarlo. Si ud quieren como iglesia, considérenlo.
+#### Pueden enviar una solicitud para Discipulado C.G.V - Proyecto Centro de discipulado, estando en pleno acuerdo en cuanto a la doctrina y enseñanza del discipulado. 
 
-#### C.G.V. como centro solo es de transición, mientras la iglesia aprende a hacer discípulo por medio de 3 años de prueba
-
-#### Cada centro es autónomo uno del otro y pueden usar el material que deseen, es recomendable usar el material de C.G.V notas
-
-#### Nunca llegue a ser un instituto separado de la iglesia, no ir en la dirección opuesta de la que empezaron. Ir únicamente tras el discipulado\-     El objetivo es Hacer discípulos, no ofertar cursos, o estudios bíblicos para las iglesias a corto tiempo.
-
-#### Mostrar el enfoque sugerido del programa de C.G.V
-
-##### Mostrar el enfoque sugerido de cursos con material de C.G.V, Cada manual tener consideraciones antes de 1 pedro por ejemplo, debido a que se explica.
-
-
-
-El objetivo es no distraernos para el discipulado. 
-
-### Cgv temporal, entrenamiento, equipo, sin costo para la iglesia, y ya para el 3 o 4 año la iglesia se apropia de todo. Y si gustan pueden usar el material.
-
-### Pueden enviar una solicitud de invitación para proyecto Cgv.Como hacer en mi iglesia? – Hacer un centro – Sugerido
-
-#### Descargar todos los manuales de Cgv y lleva usando los materiales de Cgv. \-     El nuevo programa es descentralizado. No tiene que ver con ser usuario ni otros. todo se descarga de internet y funciona en su pc.
-
-Viaje ministerio. Hay la necesidad de que los alumnos enseñen afuera.
-
-Hacer evangelismo y discipulado continuo
-
-Carta a los pastores o ancianos de la iglesia con vinculación directa para que no los rechacen en un futuro.
-
-Que quede claro que no se involucra en las decisiones como iglesia. Conflictos internos que tengan la iglesia, no se involucre.
+#### Los ancianos, pastores y líderes de la iglesia forman parte vital de este discipulado integral, y es sugerido trabajar de manera conjunta con la iglesia dentro del proceso de discipulado.
 
 ## Discipulado C.G.V - Notas
 
@@ -153,9 +117,9 @@ Que quede claro que no se involucra en las decisiones como iglesia. Conflictos i
 
 ### Copyright.
 
-#### Puedes usar el material de manera libre y sin fines de lucro, manteniendo el Sello impreso debido a que tiene Copyright de derechos de autor.
+#### Puedes usar y descargar el material de manera libre y sin fines de lucro, manteniendo el Sello impreso debido a que tiene Copyright de derechos de autor.
 
-#### No se puede vender, comercializar o lucrar con el material debido a que es de uso libre y gratuito, sin embargo si se puede cobrar el costo de impresión del mismo para el discipulado.
+#### No se puede vender, comercializar o lucrar con el material debido a que es de uso libre y gratuito, sin embargo si se puede cobrar el costo de impresión para el discipulado y enseñanza.
 
 ### Dudas, sugerencias, correcciones
 
@@ -185,11 +149,11 @@ Que quede claro que no se involucra en las decisiones como iglesia. Conflictos i
 
 ## Radio C.G.V
 
-#### El objetivo de la radio es compartir el discipulado enseñado en el aula a las personas que no puedan asistir, 
+### El objetivo de la radio es compartir el discipulado enseñado en el aula a las personas que no puedan asistir, 
 
-#### El objetivo de la radio no es distraerse del discipulado
+### El objetivo de la radio no es distraerse del discipulado
 
-#### Música sana, segura, confiable, letras creadas con sana doctrina.
+### Música sana, segura, confiable, letras creadas con sana doctrina.
 
 ## Ofrendas a Discipulado  C.G.V
 
