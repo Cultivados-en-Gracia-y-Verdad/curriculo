@@ -47,23 +47,29 @@
 
 ### 1 Juan 1:1a – "*Lo que existía desde el principio…*" con estas primeras palabras, el autor decide referirse al mensaje que quiere compartir como una persona.
 
-#### Juan está hablando de la persona de Dios, el hijo. Al usar esta descripción muestra su deidad eterna.
+#### Pudo haber dicho "El que existía". Juan no solo está dando testimonio que vio a Jesus, sino a toda la escencia de una realidad eterna. 
 
-#### El verbo existía está en tiempo imperfecto mostrando la existencia eterna del Hijo de Dios. De igual manera en su evangelio, Juan describe al verbo encarnado, como aquel que siempre existió. Juan 1:1,14
+##### Juan está hablando de la persona de Dios, el Hijo ("*El Verbo de Vida*" 1 Juan 1:3). Al usar esta descripción muestra Su deidad eterna.
+
+#### El verbo "*existía*" está en tiempo imperfecto mostrando la existencia eterna del Hijo de Dios. De igual manera en su evangelio, Juan describe al verbo encarnado, como aquel que siempre existió. Juan 1:1,14
 
 #### Juan sabe que Jesús, el Hijo de Dios, a quien ha conocido, es el mismo Dios que trajo todo a la existencia. Es claro a mostrar desde la primera frase que Jesús es el hijo de Dios
 
 #### Los engañadores tienen serios problemas con la persona y obra de Cristo y Juan durante la carta va amostrar claramente su persona y su obra.
 
-### 1 Juan 1:1b – *...lo que hemos oído, lo que hemos visto con nuestros propios ojos, lo que hemos contemplado, y lo que han tocado nuestras manos…* de estas cuatro formas Juan va a demostrar claramente que él, junto con los otros apóstoles incluidos en estas declaraciones, sí han conocido a Dios.
+### 1 Juan 1:1b – "*...lo que hemos oído,*" El mensaje se recibió de forma audible: escuchar de primera mano las palabras de Cristo.
 
-#### Todos estos verbos están en plural, haciendo énfasis en la veracidad de estos hechos, no solamente a través de un solo testigo, sino de varios.
+#### Cualquiera que tenga un mensaje de parte de Dios, debe oírlo primeramente de Él. Dios ha hablado muchas veces y ahora ha hablado por el Hijo (Hebreos 1:1-4), por eso es que podemos responder con fe a la Palabra de Cristo, porque Él se encargó de comunicarlo claramente. Romanos 10:17
 
-#### La persona que quieren comunicar en su mensaje es alguien a quien han oído, y al mismo tiempo es un mensaje que han oído. Juan aquí personifica el mensaje al decir que lo que han oído (en la persona de Jesús), es lo que existía desde el principio.
+#### La persona que quieren comunicar en su mensaje es alguien a quien han oído, y al mismo tiempo es un mensaje que han oído por Él. Juan aquí personifica el mensaje al decir que lo que han oído (en la persona de Jesús), es lo que existía desde el principio.
 
-#### “hemos oído”, cualquiera que tenga un mensaje de parte de Dios, debe oírlo primeramente de él, Dios ha hablado muchas veces y ahora ha hablado por el Hijo (Hebreos 1:1-4), por eso es que podemos responder con fe a la Palabra de Cristo, porque él se encargó de comunicarlo claramente. Romanos 10:17
+### 1 Juan 1:1b "*lo que hemos visto con nuestros propios ojos...*" Experiencia personal y visual de Cristo: histórica y real.
+
+### 1 Juan 1:1b "*lo que hemos contemplado...*" No solo visto, sino examinado y contemplado de cerca.
 
 #### La diferencia entre haber visto, y haber contemplado está en el hecho de que algo que podemos contemplar es algo que se queda para ser visto. Esto muestra la encarnación del Hijo de Dios entre nosotros y el hecho de que “habitó entre nosotros”. Juan 1:14
+
+### 1 Juan 1:1b "...*y lo que han tocado nuestras manos…*" Contacto tangible: confirma la realidad física del Verbo Encarnado.
 
 #### No solamente los apóstoles han oído, visto y contemplado a Dios, sino que lo tocaron.
 
@@ -73,7 +79,13 @@
 
 ##### Ellos son testigos experienciales del Cristo resucitado. Palparon la vida que triunfó sobre la muerte, algo nunca antes palpado.
 
+#### de estas cuatro formas Juan va a demostrar claramente que él, junto con los otros apóstoles incluidos en estas declaraciones, sí han oído, visto, contemplado y tocado al Hijo de Dios.
+
+#### Todos estos verbos están en plural, haciendo énfasis en la veracidad de estos hechos, no solamente a través de un solo testigo, sino de varios.
+
 #### A través de Jesús, Dios invitó a la humanidad a tener una experiencia en carne y hueso con él mismo. Estos no son simples comunicadores, ellos hablan un mensaje que han experimentado.
+
+##### Una posible traducción de versículos 1 y 2 seria: "*Nosotros os anunciamos lo que era desde el principio, lo que hemos visto con nuestros ojos, lo que hemos sostenido y lo que palparon nuestras manos tocante al Verbo de vida.*"
 
 ### 1 Juan 1:1c - *…esto escribimos acerca del verbo de vida.* Sin Lugar a dudas el mensaje de los apóstoles, y el mensaje que tenemos acá escrito, es “el Verbo de Vida”.
 
