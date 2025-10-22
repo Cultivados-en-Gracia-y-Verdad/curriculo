@@ -34,7 +34,7 @@
 
 #### 1 Juan 1:5-10, se incluye como alguien que puede estar engañado, o no andando según la verdad.
 
-#### En su uso del término “hijitos” para referirse a sus destinatarios, muestra la relación cercana que tiene para con ellos, como de un padre espiritual preocupado por el bienestar de aquellos que ha llevado a la verdad. 
+#### En su uso del término “*hijitos*” para referirse a sus destinatarios, muestra la relación cercana que tiene para con ellos, como de un padre espiritual preocupado por el bienestar de aquellos que ha llevado a la verdad. 
 
 #### 1 Juan 5:19, es de Dios (junto con todos los creyentes), y está en el verdadero 1 Juan 5:20
 
@@ -42,10 +42,10 @@
 
 ## Propósito de la escritura
 
-# **LOS TESTIGOS Y SU MENSAJE**
+# LOS TESTIGOS Y SU MENSAJE
 ## 1 Juan 1:1-4 – A manera de introducción, el autor destaca su mensaje como una persona que ha conocido.
 
-### 1 Juan 1:1a – *Lo que existía desde el principio…* con estas primeras palabras, el autor decide referirse al mensaje que quiere compartir como una persona.
+### 1 Juan 1:1a – "*Lo que existía desde el principio…*" con estas primeras palabras, el autor decide referirse al mensaje que quiere compartir como una persona.
 
 #### Juan está hablando de la persona de Dios, el hijo. Al usar esta descripción muestra su deidad eterna.
 
