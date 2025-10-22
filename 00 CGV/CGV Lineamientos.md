@@ -91,8 +91,6 @@ Draft: True
 
 #### El sentido del discipulado es a tiempo completo, enfocado e intensivo
 
-#### 
-
 ### El objetivo es que el Discipulado C.G.V como centro Centro, desaparezca y sea parte de la iglesia local, una iglesia local haciendo discípulos sin el nombre de C.G.V.\-     Currículo con quiz.
 
 #### El objetivo del discipulado es 8 horas sugerido, pueden usarlo o descartarlo. Si ud quieren como iglesia, considérenlo.
@@ -107,15 +105,13 @@ Draft: True
 
 ##### Mostrar el enfoque sugerido de cursos con material de C.G.V, Cada manual tener consideraciones antes de 1 pedro por ejemplo, debido a que se explica.
 
+El objetivo es no distraernos de cumplir el discipulado. 
 
+### CGV como programa algo temporal durante el establecimiento en una iglesia local. entrenamiento, equipo, sin costo para la iglesia, y ya para el 3 o 4 año la iglesia se apropia de todo. Y si gustan pueden usar el material.
 
-El objetivo es no distraernos para el discipulado. 
+### Pueden enviar una solicitud de invitación para proyecto CGV. ¿Como hacer en mi iglesia? – Hacer un centro – Sugerido
 
-### Cgv temporal, entrenamiento, equipo, sin costo para la iglesia, y ya para el 3 o 4 año la iglesia se apropia de todo. Y si gustan pueden usar el material.
-
-### Pueden enviar una solicitud de invitación para proyecto Cgv.Como hacer en mi iglesia? – Hacer un centro – Sugerido
-
-#### Descargar todos los manuales de Cgv y lleva usando los materiales de Cgv. \-     El nuevo programa es descentralizado. No tiene que ver con ser usuario ni otros. todo se descarga de internet y funciona en su pc.
+#### Descargar todos los manuales de CGV y lleva usando los materiales de CGV. \-     El nuevo programa es descentralizado. No tiene que ver con ser usuario ni otros. todo se descarga de internet y funciona en su pc.
 
 Viaje ministerio. Hay la necesidad de que los alumnos enseñen afuera.
 
@@ -129,11 +125,11 @@ Que quede claro que no se involucra en las decisiones como iglesia. Conflictos i
 
 ### ¿Qué es Discipulado C.G.V - Notas?
 
-#### Somos hermanos en Cristo, que desean hacer un material sano, confiable, de uso libre para el discipulado en las iglesias locales, sin fines de lucro.
+#### Somos hermanos en Cristo, que desean hacer un material sano, confiable, de uso libre para el discipulado en las iglesias locales sin fines de lucro.
 
 #### El propósito del material es ser usado para el discipulado práctico en las iglesias locales.
 
-#### El objetivo no es ofertar y promocionar los materiales realizados, el objetivo es hacer una iglesia dicipuladora.
+#### Nuestro objetivo no es ofertar y promocionar los materiales realizados. El objetivo es que una iglesia sea dicipuladora.
 
 #### Si una iglesia desea realizar estudios bíblicos usando el material, puede hacerlo de manera libre.
 
@@ -153,7 +149,7 @@ Que quede claro que no se involucra en las decisiones como iglesia. Conflictos i
 
 ### Copyright.
 
-#### Puedes usar el material de manera libre y sin fines de lucro, manteniendo el Sello impreso debido a que tiene Copyright de derechos de autor.
+#### Puedes usar el material de manera libre y sin fines de lucro, manteniendo el sello impreso debido a que tiene copyright de derechos de autor.
 
 #### No se puede vender, comercializar o lucrar con el material debido a que es de uso libre y gratuito, sin embargo si se puede cobrar el costo de impresión del mismo para el discipulado.
 
@@ -217,7 +213,7 @@ Que quede claro que no se involucra en las decisiones como iglesia. Conflictos i
 
 #### Evitar que la responsabilidad caiga sobre un individuo, 
 
-### Analizar el caso Jhon wry
+### Analizar el caso John Wry
 
 #### Cada persona puede usar el material para discipular en sus iglesias, sin alguien que controle esto
 
