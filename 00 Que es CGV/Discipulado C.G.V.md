@@ -83,7 +83,7 @@ Draft: True
 
 #### Como local en el cual se pueda desarrollar el discipulado, puede ser el mismo local de la iglesia (Sugerido), generalmente los locales durante horarios de oficina se encuentran cerrados, y en las noches funcionan para las reuniones nocturnas.
 
-### La autonomía de cada Centro.****
+### La autonomía de cada Centro.
 
 #### Cada discipulado se encuentra de manera autónoma e independiente de otro, de igual manera que una iglesia se maneja de manera independiente.
 
@@ -220,5 +220,3 @@ Que quede claro que no se involucra en las decisiones como iglesia. Conflictos i
 ### Como hacer si alguien se desvía?, Como hacerlo volver a la verdad?
 
 ### \-     Establecer bíblicamente por que se ha desviado, hacerlo conocer.
-
-#### o  Averiguar, apoyar, Guiar, Estudiar bíblicamente por que?
