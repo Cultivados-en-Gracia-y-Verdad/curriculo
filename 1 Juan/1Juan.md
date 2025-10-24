@@ -1064,8 +1064,566 @@
 
 #### La vida de Cristo en nosotros, solo es posible por medio de la comunión que tenemos con el Padre y con su Hijo.
 
-# **EL ESPÍRITU DE LA VERDAD Y EL ESPÍRITU DEL ERROR**
+9.  **EL ESPÍRITU DE LA VERDAD Y EL ESPÍRITU DEL ERROR – 1 JUAN 4:1-6  
+    **
 
-# **ASÍ COMO EL ES EN ESTE MUNDO**
+**Aunque es seguro que el Espíritu Santo está obrando en nosotros, debemos ser conscientes que hay otros espíritus obrando en este mundo, y solamente quieren engañarnos.  
+**
 
-# **LA GARANTÍA DE LA VIDA ETERNA**
+1.  1 Juan 4: 1 – Juan comienza esta sección con un imperativo doble para sus *“amados”* **.  
+    **
+
+    1.  1 Juan 4: 1a – *…no crean a todo espíritu…* Debemos saber que no todo mensaje es digno de ser creído. Ya que en el versículo anterior afirma que el Espíritu santo nos da conocimiento, aquí advierte que podemos recibir engaños por parte de otros espíritus, estos espíritus no deben ser creídos.
+
+    2.  1 Juan 4: 1b - *...sino prueben los espíritus, para ver si son de Dios…* No solo debemos no creer a todo espíritu, sino que debemos poner a prueba, o examinar a todos los espíritus.
+
+    3.  1 Juan 4: 1c - Si solo nos quedamos con eso, pueden surgir muchas preguntas, ¿Cómo es que escuchamos a estos espíritus? ¿Por qué debemos tener esta precaución como creyentes? Juan termina la instrucción diciendo: *…porque muchos falsos profetas han salido al mundo*
+
+        1.  Es bueno entender que luego Juan mostrará que estos espíritus mentirosos, hablan a través de falsos voceros.
+
+        2.  Es decir, que, a través de maestros, los espíritus comunican un mensaje. Sin ser místicos, debemos entender que la verdad tiene una fuente: el Espíritu Santo, y el engaño tiene otra fuente: los espíritus engañadores. 1 Timoteo 4:1-4, 2 Tesalonicenses 2:2
+
+        3.  Pero estos, usan mensajeros o comunicadores de sus palabras. Hoy hay muchos creyentes que rechazan la necesidad de ser enseñados en la Palabra por maestros, o el hecho de ser discipulados. Esto es contrarios a lo que Dios enseña en su Palabra. Mateo 28:18-20
+
+        4.  Juan no dice, no necesitan maestros ya que tienen el Espíritu. Si mostró que es la unción la que nos enseña, pero Dios usa comunicadores fieles de su Palabra, por medio de los cuales acomoda lo espiritual a lo espiritual. 1 Corintios 2:1-16, 2 Corintios 4:1-15
+
+        5.  Para los creyentes esto significa que los maestros no son aquellos en los que ponemos nuestra confianza, ya que, no debemos creerlo todo, y también significa que debemos pasar todos los mensajes que escuchamos por un filtro, es decir, ponerlos a prueba por medio de la Palabra. Hechos 17:11
+
+        6.  Como mensajeros, o comunicadores del mensaje de Dios, debemos limitarnos a comunicar las Palabras de Dios, y no nuestras propias ideas, ya que estas son peligrosas para los oyentes. 1 Corintios 2:1-5, 2 Timoteo 2:2, 1 Timoteo 1:3-7, 3:2, 15, 4:6, 6:3-5
+
+    4.  1 Juan 4: 2 – *En esto ustedes conocen el Espíritu de Dios: todo Espíritu que confiesa que Jesucristo ha venido en carne, es de Dios.* El error tergiversa la obra y persona de Jesucristo. 1 Corintios 12:3
+
+        1.  *“ha venido en carne”* es una referencia primero, a la realidad de su encarnación, y segundo el propósito de su venida, Salvar el mundo, muriendo por nuestros pecados.
+
+            2.  Este es el mensaje del evangelio, ya que es acerca de su Hijo (Romanos 1:3), y el propósito de su venida, su obra a nuestro favor (1 Juan 4:14).
+
+            3.  Siendo un verbo imperfecto, implica tanto la encarnación del Hijo de Dios, y su permanencia como hombre: el Dios mediador, Jesucristo Hombre. 1 Timoteo 2:5
+
+        2.  El problema del enemigo es justamente el logro del Hijo de Dios, al haberse hecho hombre, morir por nuestros pecados, haber sido resucitado, y estar intercediendo por nosotros.
+
+        3.  Cualquier mensaje que ponga en duda la perfección y suficiencia de esta realidad, debe ser completamente desechado. 1 Corintios 2:1-5, Juan 1:14
+
+    5.  1 Juan 4: 3 – *Y todo espíritu que no confiesa a Jesús, no es de Dios, y este es el espíritu del anticristo, del cual ustedes han oído que viene, y que ahora ya está en el mundo.  
+        *
+
+        1.  El filtro que debemos tener del testimonio de Dios para con nosotros (por el Espíritu a través de la enseñanza), es lo que dicen acerca de Jesucristo, si no lo hablan, no son creíbles, son engañadores.
+
+        2.  No necesitamos como creyentes mensaje motivacionales nuestro mensaje de ser una clara confesión de la persona y obra de Jesucristo. Judas 3-4, 1 Timoteo 4:1-4, Tito 1:9-11
+
+        3.  No vienen de Dios, aquellos que no nos llevan a Cristo. Quien está operando en los falsos mensajes, es el espíritu del anticristo. “*y este es el espíritu del anticristo”,* que ya está operando en este mundo *  
+            *
+
+        4.  *…del cuál ustedes han oído que viene…* 1 Juan 2:18, 2 Tesalonicenses 2:3, 9 este es el inicuo, cuyo advenimiento es por obra de Satanás.
+
+    6.  1 Juan 4: 4 – *Hijos míos, ustedes son de Dios, y han vencido a los falsos profetas, porque mayor es Aquel que está en ustedes, que el que está en el mundo.* Debido a lo que somos, hemos obtenido la victoria por sobre los falsos maestros.
+
+        1.  Aquí podemos ver la certeza de que venimos de Dios, somos nacidos de Dios, por eso venimos de él. Ya que venimos de él también somos suyos.
+
+        2.  ¿Cuál es la razón por la cual *“hemos vencido a los falsos profetas”*?
+
+            2.  Primero Juan no menciona que nuestra victoria está en nuestra capacidad de discernir los espíritus, o de luchar contra ellos.
+
+            3.  Lo que dice es que tenemos victoria porque el que está **en** nosotros, es mayor que aquél que operan **en** este mundo.
+
+            4.  Hay una diferencia que Juan muestra: Nosotros estamos en un mundo donde Satanás está operando, y está bajo su dominio (5:19), pero **EN** nosotros está alguien mayor que él y que el mundo. Tenemos victoria debido a su Grandeza y su Poder. Juan 16:33
+
+            5.  Es la victoria de Cristo la que nos ha dado la victoria en nosotros. El espíritu que está en nosotros, es más poderoso que cualquier oposición que pueda haber a la verdad.
+
+    7.  1 Juan 4: 5 – *Ellos son del mundo, por eso hablan de parte del mundo y el mundo los oye.* Los falsos maestros, aunque algunos salieron de entre los creyentes, en realidad provienen del mundo. Esto significa que nunca pertenecieron a Dios, por nunca haber nacido de nuevo.
+
+        1.  Son entonces, parte de un sistema, una corriente, del cual todos alguna vez hemos sido parte. Efesios 2:1-6
+
+        2.  Los creyentes debemos entender que ahora que nosotros hemos nacido de Dios, y somos de Dios, ya no somos del mundo, solamente estamos aquí como extranjeros y peregrinos.
+
+        3.  En 3:13, hemos visto que no debemos maravillarnos de la hostilidad de este mundo contra nosotros, ya que no pertenecemos más aquí. Juan 17:14-16
+
+        4.  Sus palabras entonces, o lo que hablan, es conforme a cualquier cosa que pueda proceder del mundo (controlado por el maligno), esa es la razón por la que aquellos engañados, prestan atención a sus palabras.
+
+    8.  1 Juan 4: 6a – *Nosotros somos de Dios. El que conoce a Dios nos oye; el que no es de Dios no nos oye...* Juan 8:47, 10:27-28
+
+        1.  Dios es el que se encarga de hacerse escuchar por los suyos, cuando la palabra es enseñada, la obra dentro de ellos por medio de su espíritu.
+
+        2.  Este mundo no es capaz de discernir la palabra de Dios y comprenderlas, ya que no tiene el Espíritu dentro de ellos haciendo esta obra. Ellos han rechazado en incredulidad el testimonio de Cristo, por lo tanto, no pueden oír.
+
+        3.  Jesús fue claro con aquellos que lo rechazaron en Juan 5, ellos no eran capaces de escuchar a Dios, porque no habían creído el testimonio que él estaba dando de su Hijo (sus obras), ni el testimonio que él había dado de Su Hijo (la escritura). Juan 5:30-47
+
+    9.  1 Juan 4: 6b – …*En esto conocemos el Espíritu de la verdad y el espíritu de la mentira.  
+        *
+
+        1.  Podemos decir entonces que el Espíritu de la verdad nos lleva a Cristo, aquellos entonces que hablan por el Espíritu, confiesan a Jesucristo, venido en carne.
+
+        2.  El espíritu de la mentira, por el contrario, habla de lo suyo, es por eso que lleva al mundo a sus oyentes, y ellos lo oyen.
+
+&nbsp;
+
+10. **ASÍ COMO EL NOS AMÓ – 1 JUAN 4:7-11**
+
+> **Juan ahora pasará de hablar sobre los espíritus engañadores que hay en este mundo, a mostrarnos cómo debemos vivir en este mundo, para que, por medio nuestro, este mundo pueda ver a Dios**
+
+1.  1 Juan 4: 7 – *Amados, amémonos unos a otros, porque el amor es de Dios, y todo el que ama es nacido de Dios y conoce a Dios.*
+
+    1.  En lugar de mandar a amarnos, Juan mostrara que el amarnos es posible debido a que el amor procede de Dios, y él es capaz de producirlo en nuestras vidas a través de una comunión que él creyente disfruta con él.
+
+    2.  Juan ya ha enseñado que todo aquello que pidamos lo recibiremos, entonces, de él podemos recibir amor infinito para amar a los hermanos. Aunque no somos capaces de producir este amor de nosotros mismos, Dios puede otorgarlo en nuestras vidas a medida que permanecemos en él.
+
+    3.  Entonces Juan explica que si alguien está amando (*el que ama*), dos cosas son reales de este:
+
+        1.  Ha sido nacido de Dios, y continua siendo suyo.
+
+        2.  Conoce a Dios, o más precisamente, está conociendo a Dios.
+
+            2.  Juan aquí usa el verbo en tiempo presente, modo indicativo, mostrando que es algo que está pasando a la par del hecho de que está amando.
+
+            3.  Debido a que este creyente está permaneciendo en Cristo, y por lo tanto teniendo una comunión con Dios y Su Hijo, está participando de la vida de Cristo, está participando del amor, ya que el amor procede de Dios.
+
+            4.  El estar conociéndolo, habla de estar experimentando la comunión con Dios, no solamente alguien que ha nacido de nuevo, sino alguien que está experimentando esa nueva vida.
+
+2.  1 Juan 4: 8a – *El que no ama, no conoce a Dios…*
+
+    1.  Juan ahora dice, no conoció a Dios. Esto muestra no el hecho de que no tiene una comunión con Dios, sino el hecho de que nunca la ha tenido.
+
+    2.  Un incrédulo no tiene la capacidad de amar, ya que no ha conocido a Dios, no ama, ya que el amor procede de Dios.
+
+    3.  Por el contrario, el creyente que está amando, no es solamente porque ha nacido de nuevo y esto es natural del creyente, sino porque está conociendo a Dios, está teniendo comunión con él, está participando por la fe de su vida, de quien es él, Dios es amor.
+
+3.  1 Juan 4: 8b - *…porque Dios es amor.* Solo Dios es capaz de producir amor en nosotros, ya que en su misma esencia; él es amor. Juan muestra que el amor es la esencia de su Persona, y no solamente una posesión.
+
+4.  1 Juan 4: 9 – *En esto se manifestó el amor de Dios en nosotros, en que Dios ha enviado a Su Hijo al mundo para que vivamos por medio de él.  
+    *
+
+    1.  Juan ahora, en lugar de decir como antes lo hizo, que en esto hemos conocido el amor, muestra, como se manifestó el amor de Dios ***en*** nosotros. Es decir, cómo es que se ve el amor de Dios, en nuestras vidas, no solo para con nosotros.
+
+    2.  *...en que Dios ha enviado a su Hijo al mundo…* Por medio de esta frase, Juan hace referencia a lo que es el evangelio para nosotros, pero desde la perspectiva de Dios. Juan 3:16
+
+        1.  Aquí podemos ver la entrega más grande que alguien jamás haya hecho. En el texto original, Juan dice: *Su Hijo Unigénito.* La comparación que nos muestra la calidad del amor de Dios, es la calidad de Su Hijo, a quien envió por nosotros.
+
+        2.  Dios dio a su hijo por toda la humanidad, como el único medio por el cual el mundo puede acceder a la vida. Dios quiere que todo el mundo viva, pero solo: *“por medio de él”.*
+
+        3.  El amor y la voluntad de Dios para con nosotros son algo dignos de considerar. Dios quiere que vivamos y para eso, envió a Su Hijo Unigénito, que es la única forma por medio de la cual podemos tener vida.
+
+    3.  *...para que vivamos por medio de él.* La vida es solamente el resultado de lo que Dios hizo al enviar a Jesucristo, por lo tanto, es el resultado, de los logros de Cristo a nuestro favor, al morir por nuestros pecados.
+
+    4.  En resumen, el amor de Dios manifestado en nuestras vidas es el resultado de un creyente que vive por medio de Cristo. Si alguien entonces está amando, es porque Cristo está viviendo por medio de él.
+
+5.  1 Juan 4: 10a – *En esto consiste el amor: no en que nosotros hayamos amado a Dios…* El amor existe no porque nosotros amamos a Dios. El amor es completamente de Dios para el hombre, es completamente a base de su Gracia para con nosotros, en la persona de Cristo.
+
+    1.  El amor no está nada relacionado con algo que el hombre pueda hacer por Dios, de hecho, alguien puede llegar a dar su vida como mártir, y carecer de amor. 1 Corintios 13:3
+
+6.  1 Juan 4: 10b - *...sino en que Él nos amó a nosotros…* Dios nos amó incondicionalmente, Dios no nos amó porque podíamos ofrecer algo a cambio, o dar algún aporte a este mundo. El amor existe porque viene de Dios al hombre, no del hombre para con Dios.
+
+7.  1 Juan 4: 10c - *…y envió a su Hijo como propiciación por nuestros pecados.* El amor existe en lo que él es, por lo tanto, lo que hizo es la expresión de su amor. Al ver la obra de Dios a nuestro favor, no quedan dudas de la existencia del amor.
+
+    1.  Dios envió a su Hijo, ya que él es la propiciación por nuestros pecados. Es interesante que Juan lo dice de esta forma: Dios envió a Su Hijo, Propiciación de nuestros pecados. En 1 Juan 2:2, vimos como Juan dice que Jesucristo el Justo **es** la propiciación por nuestros pecados.
+
+    2.  El plan de Dios siempre se basó en Su Hijo y lo que él es para el mundo. El plan de Dios siempre fue la expresión de su amor para con el mundo.
+
+    3.  2 Timoteo 1:9-10 - Gloriosa la buena noticia, que sacó a la luz la vida, por medio de Cristo, el plan eterno de Dios.
+
+    4.  Cristo la propiciación es la esencia del deseo de Dios de encontrarse con el hombre, el deseo de Dios reconciliarse con el hombre, y no al revés. 2 Corintios 5:18
+
+8.  Juan quiere que entendamos: el amor no puede ser de Dios hacia el hombre, a menos que, el amor haya sido primeramente de Dios hacia el hombre, y así es exactamente. Romanos 5:8, 10, 1 Juan 4:19, Juan 3:16, 15:13
+
+9.  1 Juan 4: 11 – *Amados, si Dios así nos amó, también nosotros debemos amarnos unos a otros.* Debemos aprender a vivir considerando el amor que Dios tuvo para con nosotros. 1 Juan 3:1
+
+    1.  ¡Ya que Dios nos amó así, esto es un hecho!
+
+    2.  Como familia debemos entender que Cristo logró algo completo para nosotros, y ahora que somos parte los unos de los otros, debemos amarnos. Romanos 13:8-10
+
+    3.  El amor que nos debemos como hermanos, está en proporción al amor que hemos recibido de Dios. Esta es el amor que se manifiesta en nosotros, cuando vivimos por medio de Cristo.
+
+&nbsp;
+
+11. **ASÍ COMO EL ES, SOMOS EN ESTE MUNDO – 1 JUAN 4:12-21  
+    **
+
+    1.  1 Juan 4: 12 – *A Dios nunca lo ha visto nadie. Si nos amamos unos a otros, Dios permanece en nosotros y su amor se perfecciona en nosotros.* Juan quiere mostrarnos que Dios puede ser visto en nosotros, a través de su amor perfeccionado en nosotros. Juan 1:18, 1 Timoteo 6:16
+
+        1.  Lo que de amor se ve en nosotros, es el amor de Dios, lo visible de Aquel que es invisible.
+
+        2.  Hablamos de conocer a alguien que es invisible. Esto fue posible por medio de Cristo, y es posible por medio de Cristo en nosotros, es así como llegamos a conocerlo.
+
+        3.  Toda esta cláusula está en plural. Nadie ha visto a Dios, pero si se nos ha manifestado su amor, y Dios es amor, Por lo tanto, nadie verá a Dios en nuestras vidas a menos que, nos amemos los unos a los otros, como Dios nos ha amado.
+
+            1.  Esto solo es posible si primeramente consideramos su amor para con nosotros, y vivimos por medio de Cristo.
+
+            2.  “*Dios permanece en nosotros, y su amor se perfecciona en nosotros”.* Esto no es solamente porqué él está en nosotros, ya que esto es siempre una realidad, sino como Dios fluyendo a través de nuestras vidas, como fuente de vida y Poder. Nosotros nutriéndonos de su vida, a través de la comunión.
+
+            3.  El creyente que está amando, experimenta verdaderamente la comunión con Dios, está participando de la misma vida de Cristo. Efesios 3:14-21, Juan 14:21
+
+    2.  1 Juan 4:13 – *En esto sabemos que permanecemos en Él y Él en nosotros: en que nos ha dado de Su Espíritu.*
+
+        1.  Jesús les prometió a sus discípulos que les daría otro consolador para que este en ellos, así como Jesús había estado con ellos. El cumplimiento de esta promesa, muestra la obra de Cristo en nosotros, confirmándonos su presencia en nosotros. Juan 14:16-18, 26, 15:11
+
+        2.  El Espíritu tiene el propósito de darnos una certeza de la comunión que tenemos con Dios, cuando permanecemos en él y el en nosotros. El en nosotros, y nosotros en él, por su Espíritu.
+
+        3.  En el contexto vemos el fruto producido por el espíritu en nuestras vidas, el amor a los creyentes, nos lleva a saber que estamos permaneciendo en él y él en nosotros. Juan 15:8
+
+            1.  Solo por una vida que ama, como fruto del Espíritu en nosotros, produciendo la vida de Cristo, estamos conociendo que la comunión es una realidad en nuestras vidas. 1 Juan 1:7
+
+    3.  1 Juan 4: 14 – *y nosotros hemos visto y damos testimonio de que el Padre envió a su Hijo para ser el Salvador del mundo.* Así como el Espíritu da testimonio de Cristo, sus discípulos también lo hicieron. 1 Juan 15:26-27
+
+        1.  Este testimonio que daban los apóstoles está de acuerdo con el Espíritu. Ya que el Espíritu da un testimonio, también lo hace dentro de nosotros.
+
+        2.  El versículo comienza con “y”, conectando el amor al prójimo, con el testimonio que damos de Cristo, y como unánimes participamos de esto, está siendo la expresión de amor.
+
+        3.  *...el Padre envió a su hijo para ser el Salvador del mundo.* Al igual que como dijo en el v10, Su Hijo Propiciación por nuestros pecados, aquí Juan dice, Su Hijo Salvador del mundo.
+
+            1.  Dios nos ha salvado de una vida inútil. Ahora por medio de Cristo podemos ser instrumentos del amor de Dios para nuestros hermanos. La vida abundante no es solamente una donde dejamos de pecar, sino una usada en los propósitos de Dios. Esta es la verdadera santificación.
+
+            2.  Solamente el Espíritu Santo puede llevarnos a amarnos los unos a los otros como él nos ha amado. Este es un testimonio de que es Cristo en nosotros. Juan 14:18-21
+
+        4.  Por medio del anuncio de Jesucristo el Salvador del mundo, mostramos el amor que Dios tuvo para con el mundo. Una vida entregada al discipulado está relacionada directamente con una comunión íntima con Dios *(nosotros hemos visto y damos testimonio)*.
+
+    4.  1 Juan 4: 15 – *Todo aquel que confiesa que Jesús es el Hijo de Dios, Dios permanece en él y él en Dios.*
+
+        1.  Ya hemos viste que esta confesión, es por el Espíritu (4:2), por medio de esto, reconocemos la obra del Espíritu.
+
+        2.  Nunca la valentía de tal confesión viene del hombre. Vimos como Pedro y los demás discípulos huyeron cuando atraparon a Cristo, pero luego, con la llegada del Espíritu, cada uno de ellos fue su testigo. Hechos 1:8
+
+        3.  No tenían otra cosa de la cual hablar, sino de aquello que cavo sus propias tumbas, en un mundo, del cual no eran dignos. Pero una cosa es segura, vivieron llenos de la vida de Dios en ellos (*Dios permanece en él y él en Dios*).
+
+        4.  La valentía es el resultado de aquel que se refugian en Cristo el Salvador, y vive conforme a Su poder. 2 Timoteo 1:6-14, es un claro ejemplo de alguien que vive permaneciendo en Cristo.
+
+    5.  1 Juan 4: 16a – *Y nosotros hemos llegado a conocer y hemos creído el amor que Dios tiene para nosotros…* Mostrando que ellos fueron testigos de Jesucristo, no porque esto provino de ellos, sino porque conocieron y dependieron del amor de Dios para con ellos.
+
+        1.  Ellos aseguran que solo porque han conocido y han estado confiando en el amor de Dios en ellos, son lo que son, y hacen lo que hacen
+
+        2.  Juan dice: el amor que Dios tiene sobre nosotros. Todo lo que el padre hace y siente sobre el Hijo lo hace y siente sobre nosotros. Efesios 1:3
+
+    6.  1 Juan 4: 16b – *Dios es amor y el que permanece en amor, permanece en Dios y Dios permanece en él.* Este pasaje nos esclarece mucho lo que los discípulos entendieron por permanecer en Cristo.
+
+        1.  Sin complicarlo mucho: a medida que por el Espíritu vamos conociendo su amor, confiamos en él. Así crecemos aún más y más no solo en el conocimiento de él, sino también en experimentar su poder en nuestras vidas, llevándonos a amar a otros.
+
+        2.  “*el que permanece en amor (Su Hijo Salvador del mundo),* experimenta la comunión con Dios, y el fruto de Cristo en su vida.
+
+    7.  1 Juan 4: 17a – *En esto se perfecciona el amor en nosotros, para que tengamos confianza en el día del juicio…*
+
+        1.  Dios comenzó, y continúa haciendo una obra en nosotros, por medio de su amor, Por medio de lo que hizo a través de Su Hijo, *en esto se perfecciona el amor de Dios **con** nosotros*.
+
+        2.  El propósito es llenarnos de confianza, seguridad, *para que tengamos confianza.* Antes menciono que podríamos alejarnos de él avergonzados, pero eso no es lo que Dios quiere para sus Hijos, por eso por medio de Cristo proveyó el medio para que vivamos, y llevemos fruto, así podremos estar confiados en el tribunal de Cristo.
+
+    8.  1 Juan 4: 17b - *...pues como Él es, así somos nosotros también en este mundo.* El mirar el amor de Dios, nos lleva a conocer y vivir de acuerdo a lo que somos, es decir, así como él es.
+
+        1.  Como producto absoluto de su obra de amor comenzada y perfeccionada en nosotros, nuestra posición y vida aquí, es como su posición y vida allá, somos uno con Cristo.
+
+        2.  Muchas veces ignoramos que como creyentes podemos perdernos de una vida abundante, podemos perdernos el vivir de acuerdo a todo lo que somos, y debido a eso, perder en el tribunal de Cristo.
+
+        3.  Juan no quiere que la seguridad de estos creyentes esté en lo que ellos están haciendo por Dios, o en lo que alguna vez podrían hacer, sino en todo lo que Dios ya ha logrado por nosotros. Al mirar a Cristo, podemos conocer lo que somos para el Padre.
+
+        4.  El que vive amando, definitivamente no tendrá de que avergonzarse, ya que ha vivido como ciudadano del cielo, su ingreso allí, será gozoso.
+
+        5.  Por otro lado, el que no ama, tristemente es uno más en este mundo, y con cuanta incertidumbre vivirá aquí, hasta el día que sea avergonzado en el regreso de su Salvador.
+
+    9.  1 Juan 4: 18 – *En el amor no hay temor, sino que el perfecto amor echa fuera el temor, porque el temor involucra castigo, y el que teme no es hecho perfecto en el amor.* El amor y el temor no tienen relación alguna.
+
+        1.  Si soy amado, ¿Por qué temer?, Si estoy amando ¿Por qué temer? Aquí el contexto es el día del juicio de los creyentes.
+
+        2.  Es el sentido de pertenencia e identidad que nos da el amor de Dios, lo que nos lleva a vivir libres y confiados hacia nuestro Padre. Romanos 8:15
+
+        3.  Es el perfecto amor, el que nos hace perfectos en el amor. Aquel creyente que vive en temor, no debe esforzarse para ganarse la aprobación de Dios, ya la tiene, solo debe mirar el amor de Dios, y dejar que este lo perfeccione. 1 Juan 3:1
+
+        4.  El creyente que no es una expresión completa del amor de Dios, vive en una auto condenación y esclavitud.
+
+        5.  Muchos piensan que el propósito de la vida es estar haciendo algo que nos traiga satisfacción y así complacer a Dios. Nos olvidamos o ignoramos que lo que Dios quiere es, a través de su perfecto amor, llevarnos a una completa confianza para con él. Juan 16:22-33
+
+    10.  1 Juan 4: 19 – *Nosotros amamos porque Él nos amó primero*. A dios podemos amarlo (habiendo sido perfeccionados en su amor), solamente porque él nos amó primero.
+
+         1.  No solamente al hermano sino en esencia, podemos disfrutar de Dios el Padre y amarlo, debido a que él nos amó a nosotros primero, y envió a Su Hijo para salvarnos.
+
+    11.  1 Juan 4:20 – *Si alguien dice: “Yo amo a Dios”, pero aborrece a su hermano, es un mentiroso. Porque el que no ama a su hermano a quien ha visto, no puede amar a Dios a quien no ha visto.  
+         *
+
+         1.  Nadie puede estar amando a Dios, y al mismo tiempo estar odiando a su hermano, o no estar amando a su hermano (viendo sus necesidades y no haciendo algo por él). 1 Juan 1:6-7
+
+         2.  No podemos decir que estamos amando a Dios, si el amor proviene de él, y que ese amor que profesamos tener, no está siendo suficiente para el hermano. Si este es el caso, aquel que hace esa declaración, es un mentiroso en cuanto a la vida que está viviendo para con Dios.
+
+         3.  Este creyente no está amando a su hermano, eso no significa que no es un hermano, sino que es un hermano mentiroso. Todos podrían ver que él ve a sus hermanos, y conoce sus necesidades, pero no hace nada por ellas, por lo tanto, es imposible que este en comunión con Dios.
+
+             1.  Podemos engañarnos a nosotros mismos pensando que estamos participando de la vida de Cristo simplemente por el conocimiento que tenemos de él, pero esto es un engaño si al ver nuestras vidas, no estamos viviendo para el bien de otros.
+
+             2.  Participar de la vida de Cristo, nos llevará a amar a otros, y si no es así, volvamos a mirar el amor de Dios para con nosotros, y permitamos su obra en nosotros.
+
+    12.  1 Juan 4: 21 – *y este mandamiento tenemos de Él: que el que ama a Dios ame también a su hermano.* El amor es la consecuencia de permanecer en Cristo, cuando Su amor nutre nuestras vidas, inevitablemente nos lleva a amar a nuestros hermanos.
+
+         1.  Mientras vivamos aquí, tendremos innumerables oportunidades de ver necesidades y suplirlas por el amor que Dios produce en nuestras vidas.
+
+         2.  Si Dios dice que debo amar a mi hermano, entonces soy guarda de mi hermano. Si Dios demanda a mí de mi hermano, entonces soy guarda de mi hermano.
+
+         3.  En Juan 13:1 Juan dice, que Jesús había amado a los suyos, y el mismo decidió identificarse como el discípulo al que Jesús amaba. Fue el amor de Cristo que le mostró lo que él era, y al vivir en esa realidad, vivió una vida entregada por los hermanos. Filipenses 2:3-11
+
+12. **LA GARANTÍA DE LA VIDA ETERNA – 1 JUAN 5:1-21  
+    **
+
+**Aunque puesto al final, este capítulo puede aclarar muchas cosas en toda la carta, veremos que Juan quiere garantizarles a todos los que han creído en Cristo que tienen la vida eterna, pero quiere llevarlos a que puedan experimentarla en su plenitud.  
+**
+
+**La Vida por la fe, es Victoriosa – 1 Juan 5: 1-5  
+**
+
+1.  1 Juan 5: 1a – *Todo aquel que cree que Jesús es el Cristo, es nacido de Dios*… Juan quiere establecer quienes son los miembros de la familia de Dios, quienes son todos estos hermanos.
+
+    1.  Juan está completamente de acuerdo con toda la escritura, con la fe sola en Jesucristo solamente, como único requisito para ser un nacido de Dios.
+
+    2.  El que cree, describe a alguien, cuyo objeto de fe, es la persona y obra de Jesús. Jesús es el Mesías, para Juan: El Hijo Propiciación por nuestros pecados, el Hijo Salvador del mundo. Estos que creen, son hijos de Dios. Juan 1:12
+
+    3.  “…*es nacido de Dios…”* describe a alguien que ha nacido y continúa siendo un nacido de Dios. El nuevo nacimiento es algo que permanece para siempre.
+
+2.  1 Juan 5: 1b - *…todo aquel que ama al Padre, ama al que ha nacido de él.* Debido a que amamos al Padre, aquel que nos dio la vida, el engendrador de vida, amamos también a nuestros hermanos, miembros de la misma familia.
+
+    1.  No es lógico no amar a alguien que vino de aquel a quien amamos. Es por eso que, si amamos a Dios, amamos a nuestros hermanos, ya que entendemos que ellos también vienen de nuestro Padre. Juan 20:17
+
+3.  1 Juan 5: 2 – *En esto sabemos que amamos a los hijos de Dios: Cuando amamos a Dios y guardamos sus mandamientos.* El amor a los hijos de Dios, es de acuerdo con sus mandamientos.
+
+    1.  El amor a los hijos de Dios, es proporcional al amor a Dios, y sus mandamientos. Si no es de esta proporción, no es verdadero amor a los hijos de Dios.
+
+    2.  No amamos a los hermanos si hacemos contra ellos cosas contrarias a los mandamientos de Dios, pero al amarlos, cumplimos sus mandamientos. Gálatas 5:13-15
+
+    3.  Cuando amamos a Dios (porque él nos amó primero, entonces podemos mirar su amor, y amarlo como resultado), y guardamos sus mandamientos (mientras permanecemos en Cristo, y su amor se perfecciona en nosotros), podemos saber con toda certeza, que amamos a los hijos de Dios, ya que será su amor fluyendo en nuestras vidas.
+
+4.  1 Juan 5: 3 – *Porque este es el amor de Dios: que guardemos sus mandamientos, y sus mandamientos no son difíciles.* 2 Corintios 5:14-15*  
+    *
+
+    1.  Podríamos leer este versículo de la siguiente forma: el amor de Dios está siendo para que guardemos sus mandamientos. El guardar los mandamientos de Dios, nunca será el resultado de la fuerza humana, pero si el resultado del perfecto amor de Dios.
+
+    2.  La única explicación del amor, es el amor de Dios.
+
+    3.  Los mandamientos para los hijos de Dios entonces, ya no son difíciles, o mejor dicho: *una carga”.* No es algo que un hijo de Dios debe cargar, sino es el fruto del amor de Dios para con él.
+
+    4.  Mateo 11:28-29 – Es su vida para con nosotros, es conocerlo a él y crecer en su gracia para con nosotros.
+
+    5.  ¿Por qué los mandamientos ya no son una carga para los hijos de Dios?
+
+5.  1 Juan 5: 4 – *Porque todo lo que es nacido de Dios vence al mundo. Y esta es la victoria que ha vencido al mundo: nuestra fe.  
+    *
+
+    1.  Los mandatos de Dios, ya no son una carga para sus hijos, debido a lo que somos como nacidos de Dios. No son una carga porque el amor de Dios en nosotros, ha triunfado sobre el mundo y su esclavitud.
+
+    2.  En 1 Juan 2:15-17, vimos como Juan describió la vida que el mundo ofrece centrada en la autosuficiencia, pero habiendo vencido esto, podemos amar al mirar el amor de Dios para con nosotros, y mirar en su amor, lo que somos para él.
+
+    3.  La victoria es nuestra confianza, es decir en quien hemos creído, y no nuestras obras. La vida victoriosa es el resultado de estar creyendo la verdad. En un andar por fe, la vitoria está siendo.
+
+6.  1 Juan 5: 5 – ¿*y quién es el que vence al mundo, sino el que cree que Jesús es el Hijo de Dios?* Solamente los nacidos de Dios, por medio de la fe en Jesucristo, escapar de una vida de autosatisfacción, y la esclavitud en la que estábamos, es imposible si no fuera por Cristo. Cristo es nuestra victoria.
+
+**El contenido de nuestra fe, el testimonio de Cristo – 1 Juan 5:6-13  
+**
+
+7.  1 Juan 5: 6- 8 – *Este es aquél que vino mediante agua y sangre, Jesucristo; no solo con agua sino con agua y Sangre. Y el Espíritu es el que da testimonio, porque el Espíritu es la verdad. Porque tres son los que dan testimonio en el cielo: El Padre, el Verbo, y el Espíritu Santo, y estos tres son uno. Y tres son los que dan testimonio en la tierra; el Espíritu el agua y la sangre, y los tres concuerdan.  
+    *
+
+    1.  Sobre esta porción debemos hacer una aclaración. En los textos griegos no aparece gran parte del versículo 7, el texto debería terminar en la palabra testimonio, y luego continuar con el 8.
+
+    2.  Ningún comentarista del texto griego cuenta esa parte de los versículos en cuanta, de hecho, añaden que aparece en nuestras Biblias, proviniendo desde la Vulgata latina.
+
+    3.  *La nota tuvo un origen Latino. La primera vez que aparece este pasaje en la forma más larga (con el testigo celestial) es en el Tratado Liber Apologeticus, escrito por un hereje español Prisciliano (murió 385 d.C) o su seguidor, el obispo Instantio… La nota apareció en los escritos de los padres latinos en el norte de Africa e Italia (como parte del texto de la Epístola) a partir del siglo V, y encontró lugar en más y más copias de la Vulgata Latina. (La traducción original de Jerónimo no la contenía.) El pasaje del “testigo celestial” no se encuentra en ningún texto de ningún manuscrito griego antes del siglo XIV, y nunca fue citado por algún padre griego. – La crítica textual del Nuevo Testamento.  
+        *
+
+8.  1 Juan 5: 6- 8 – *Este es aquél que vino mediante agua y sangre, Jesucristo; no solo con agua sino con agua y Sangre. Y el Espíritu es el que da testimonio, porque el Espíritu es la verdad. Porque tres son los que dan testimonio; el Espíritu el agua y la sangre, y los tres concuerdan*. (versículos copiados sin la porción explicada, para el estudio de este currículo).
+
+    1.  1 Juan 5: 6a - *Este es aquel que vino mediante agua y sangre, Jesucristo; no solo con agua, sino con agua y sangre…  
+        *
+
+        1.  *Este es aquel que vino… Jesucristo…* Hablando de Jesús el Hijo de Dios. Como Juan había dicho que todo aquel que confiesa que Jesucristo ha vendo en carne (4:2), veremos la confesión de fe del creyente.
+
+        2.  El hecho de que Jesús haya venido en carne muestra que el siempre existió, *pero cuando vino la plenitud del tiempo, Dios envió a Su Hijo, nacido de mujer, nacido bajo la Ley. Gálatas 4:4*
+
+        3.  *...mediante agua y sangre… no solo con agua sino con agua y sangre…* Luego estos dos se unen junto con el Espíritu como aquellos que dan testimonio del Hijo de Dios, entonces esto nos ayuda a entender mejor a que hace referencia Juan por medio de esto.
+
+            2.  Mediante agua, podría significar muchas cosas, pero debido al hecho de un testimonio junto con el Espíritu, lo más probable es que haga referencia al testimonio del Hijo de Dios, manifestado en su bautismo. Esto nos habla de su persona. Mateo 3:16-17
+
+            3.  Mediante sangre, el testimonio junto con el espíritu que dan hace referencia a la muerte de Jesús, el propósito de su venida, y su postrera resurrección. Romanos 1:4
+
+    2.  1 Juan 5: 6b - …*Y el Espíritu es el que da testimonio, porque el Espíritu es la verdad.* Juan no solo habla del hecho de un testimonio dado, por medio del agua y de la sangre, sino que un testimonió que el Espíritu está dando, el cuál es la verdad. Juan 15:26-27
+
+        1.  Juan 15:22 – Jesucristo dio un testimonio del Padre en su venida. Y ahora el Espíritu Santo da testimonio del Hijo.
+
+        2.  Cuando el mensaje de Cristo es rechazado, es un rechazo directo al testimonio al Espíritu santo, que está siendo la verdad. Hechos 5:32, 7:51-52
+
+    3.  1 Juan 5: 7-8 – *Porque tres son los que dan testimonio; el Espíritu el agua y la sangre, y los tres concuerdan*. Ahora muestra como el hecho de que vino mediante agua y sangre, es un hecho que se une a dar un testimonio, junto con el Espíritu santo, y estos tres están dando testimonio. Junto con los apóstoles, que eran testigos de todas estas cosas. Hechos 1:21-22
+
+        1.  Los tres testimonios apuntan hacia el mismo, Jesucristo. Juan quiere validar esta declaración como una verdad absoluta, Jesucristo, el Hijo de Dios, ha venido en carne, y ha muerto por nuestros pecados, él es el Salvador del Mundo, la propiciación por nuestros pecados.
+
+        2.  Juan enseña que hay tres testificantes. Esto tenía una gran importancia para los judíos, puesto que el testimonio que tenía validez en un juicio, especialmente cuando se trataba de un asunto que podía traer como resultado una condena a muerte, tenía que ser concordante con dos o tres testigos, lo que daba un hecho por verdadero Deuteronomio 17:6; 19:15; Juan 8:17–18.
+
+    4.  Los testigos de Cristo, sus apóstoles, simplemente testificaron solemnemente de hechos, y estos hechos, testificaron juntamente con ellos. Juan 15:26-27, Hechos 1:8
+
+9.  1 Juan 5: 9a – *Si recibimos el testimonio de los hombres, mayor es el testimonio de Dios…* 1 Juan 4:14*  
+    *
+
+    1.  Esta es una condición de primera clase, entonces podemos decir que Juan está diciéndoles a los creyentes, ya que hemos recibido el testimonio de hombres (habían escuchado de Cristo por medio de ellos, los apóstoles).
+
+    2.  De hecho, todos hemos escuchado el Evangelio por medio de la predicación de este, es decir hemos recibido un mensaje. 1 Corintios 1:21-22, Efesios 1:13, Romanos 10:14
+
+    3.  Si dos o tres hombres están de acuerdo en un testimonio, y eso es creíble para nosotros, cuanto más es si Dios, por medio de tres testigos, está dando testimonio de la verdad.
+
+10.  1 Juan 5: 9b – *Porque este es el testimonio de Dios: que Él ha dado testimonio de su Hijo.* Dios tiene un testimonio constante a cerca de Su Hijo. 8:17-18.
+
+     1.  Jesús mismo dijo que el Padre ha dado testimonio de él. Él les mostró a los judíos que no creían en él, que tampoco habían creído en el testimonio del Padre. Toda la Escritura, es el testimonio de Jesucristo. Y Jesús mismo dijo eso. Juan 5:30-47
+
+     2.  La predicación de Jesucristo es directamente de parte de Dios al hombre. 1 Corintios 5:18-21
+
+     3.  Si alguna vez está siendo demostrado quien es Jesucristo y lo que él hizo por nosotros, que sea por medio de la proclamación su Palabra, a través del Espíritu Santo. Toda gloria a Dios por medio de Su espíritu. 2 Corintios 4:2, 7
+
+11.  1 Juan 5: 10 – *El que cree en el Hijo de Dios, tiene el testimonio en sí mismo. El que no cree a Dios, ha hecho a Dios mentiroso, porque no ha creído en el testimonio que Dios ha dado respecto a Su Hijo.* El rechazo a la Palabra de Cristo, el evangelio, es un rechazo directo a Dios.
+
+     1.  Nuevamente el objeto de nuestra fe es claro; el Hijo de Dios. Dios nos ha dado de su Espíritu y con toda certeza podemos asegurar que el mora en nosotros. Ya que él es la verdad, él testimonio de Cristo está en nosotros. Romanos 8:16, Gálatas 4:6
+
+         1.  Este testimonio en nosotros, hace una obra de darnos la certeza de quienes somos, por lo tanto, nos lleva a crecer en nuestra confianza para con nuestro Padre.
+
+     2.  Juan ahora dice: “*el que no cree a Dios”,* Creer en Jesús es creerle a Dios, el rechazo del Hijo de Dios, es no creerle a Dios. ¿por qué?
+
+     3.  *Porque no ha creído el testimonio que Dios ha dado de su Hijo.* Si alguien cree es en respuesta el testimonio que Dios ha dado de su Hijo, por eso el rechazo es directamente contra él, ya que ha oído el mensaje, pero lo ha rechazado. Juan 3:18, 33, 1 Juan 1:10
+
+12.  1 Juan 5:11 – *y el testimonio es este: que Dios ha dado vida eterna y esta vida está en su Hijo.  
+     *
+
+     1.  En 1:2 Juan, junto con los apóstoles dicen: que la vida fue manifestada, y la hemos visto. También dice que esta vida estaba con el Padre, y se había manifestado a ellos. Juan 1:4
+
+     2.  Claramente Dios ha dado la vida eterna al mundo, pero lo ha hecho por medio de Su Hijo. Jesús mismo dijo: “Yo Soy la Resurrección y la Vida”. Juan 11:25
+
+     3.  Cualquier hombre que va tras la vida por otro medio que no se por Jesucristo, está rechazando completamente a Dios. Juan 5:39
+
+13.  1 Juan 5: 12 – *El que tiene al Hijo, tiene la vida, y el que no tiene al Hijo de Dios no tiene la vida.*
+
+     1.  En el v10, Juan dijo que el que cree en el Hijo tiene el testimonio en sí mismo.
+
+     2.  En la persona de Jesucristo hay total garantía de vida eterna. Tener al Hijo, por medio de la fe en él, es equivalente a tener la vida. Juan 3:36
+
+     3.  Solo hay dos tipos de personas:
+
+         1.  Aquellos que han creído a Dios, al creer en Jesucristo, por lo tanto, tienen al Hijo, y tienen la Vida.
+
+         2.  Aquellos que no han creído a Dios, rechazando el testimonio de Jesucristo, por lo tanto, no tienen al Hijo, y no tienen la vida.
+
+     4.  Para Dios el Padre, la única y suficiente solución que dio a la humanidad fue cuando dio a Su Hijo el Salvador del Mundo (4:14), la Propiciación por nuestros pecados (2:2, 4:10).
+
+14.  1 Juan 5: 13 – *Estas cosas le he escrito a ustedes que creen en el Nombre del Hijo de Dios, para que sepan que tienen vida eterna.  
+     *
+
+     1.  Primero que nada, vemos una confirmación más de que Juan dirige su carta a creyentes, y por lo tanto poseedores de la Vida eterna. Es bueno recordar una vez más, que Juan no duda de la vida de su audiencia, y quiere llevarlo a una certeza de ella, para que puedan aprovecharla al máximo.
+
+     2.  Dios quiere que vivamos con la certeza de aquello que poseemos, de hecho, es una promesa que el mismo nos hizo. 1 Juan 2:25
+
+     3.  “el nombre del Hijo de Dios”, su nombre comunica su persona y su obra, como Juan dijo su nombre: Hijo Salvador del Mundo (4:14), Hijo Propiciación por nuestros pecados (4:10).
+
+     4.  Dios tiene la intención de que todos sus hijos vivan con seguridad y confianza de aquello que poseen por medio de Cristo.
+
+         1.  Cuando la enseñanza nos hace ver a nosotros mismos o las obras que hacemos para una búsqueda de seguridad, lo único que hará es desanimarnos y generarnos dudas, ya que es imposible estar seguro si la vida eterna dependiera del hombre.
+
+         2.  Por eso mismo Juan da toda la garantía de que la vida eterna no depende de los hombres sino del Hijo de Dios, y todos sus creyentes, pueden poseer la garantía de que poseen la vida eterna.
+
+         3.  Cualquiera que ha puesto su fe en Jesús solamente, puede decir con toda certeza: Sé que tengo vida eterna.
+
+     5.  Como hemos visto antes, los engañadores por medio de sus falsas enseñanzas, promueven una incertidumbre de esta seguridad, al hacernos mirar fuera de Jesucristo para encontrarla. Es por eso que Juan nos ha hecho mirar durante toda su carta únicamente el amor de Dios en la persona de Su Hijo. 1 Juan 3:1
+
+> **Haciendo práctica nuestra fe, confiando en Jesucristo para acercarnos al Padre – 1 Juan 5:14-21**
+
+15. 1 Juan 5: 14 – *Esta es la confianza que tenemos delante de Él, que si pedimos cualquier cosa conforme a su voluntad, Él nos oye*.
+
+    1.  Antes Juan apuntaba a una confianza futura para el día del juicio, pero acá habla de tener una confianza ahora, mientras vivimos en la tierra. Desde ahora como creyentes, podemos empezar a disfrutar nuestra vida eterna.
+
+    2.  ¿Quién podría tener confianza hacia Dios si no fuero por medio de Cristo? Para nuestra relación con el Padre, la confianza debe estar puesta en una persona, Jesús.
+
+    3.  La palabra confianza habla de franqueza, denuedo. Describe a alguien que no poseo una pizca de incertidumbre en aquello que es.
+
+    4.  Tenemos confianza y por lo tanto podemos pedir. Para Juan la oración es el resultado de la confianza que tenemos hacia Dios, y no el camino hacia ella.
+
+        1.  Algunas enseñanzas enseñan que disciplinas tales como la oración incrementan nuestra fe, pero eso no es así de acuerdo a la Biblia.
+
+        2.  La oración es algo que hacemos porque podemos hacerlo, y no algo que hacemos para alcanzar la aprobación de Dios o un nivel más alto de espiritualidad. Hebreo 4:14:16, 10:19-22
+
+    5.  *Pedimos cualquier cosa conforme a Su voluntad…*
+
+        1.  Pedir, hacer una solicitud, demandar.
+
+        2.  Pedimos aquello que no tenemos, o no podemos hacer por nosotros mismos. Jesús les animo a pedir por cualquier cosa a sus discípulos. Juan 16:22-27
+
+        3.  Las cosas solicitadas deben ser según su voluntad, la oración no es un medio de autosatisfacción, sino un medio de dependencia en nuestra insuficiencia por nosotros mismos.
+
+    6.  “*Él nos oye*” Podemos saber que somos completamente escuchados por Dios para que actúe conforma a la petición (que es según su voluntad).
+
+16. 1 Juan 5: 15 – *y si sabemos que Él nos oye en cualquier cosa que pidamos, sabemos que tenemos las peticiones que le hemos hecho.* Podemos tener toda la garantía de que él nos oye, y ya que tenemos toda esa garantía, podemos saber algo:
+
+    1.  *Tenemos las peticiones que le hemos hecho,* Juan uso esta misma palabra cuando dijo: el que **tiene** al hijo **tiene** la vida eterna. Es decir, que aquellas solicitudes que le hemos hecho por fe, conforme a su voluntad, son garantizadas para nosotros.
+
+    2.  Santiago 1:5-8 *- ** **Y si a alguno de ustedes le falta sabiduría, que se la pida a Dios, quien da a todos abundantemente y sin reproche^(\[[a](https://www.biblegateway.com/passage/?search=Santiago%201%3A5-8&version=NBLA#fes-NBLA-30272a)\]), y le será dada. ** **Pero que pida con fe, sin dudar. Porque el que duda es semejante a la ola del mar, impulsada por el viento y echada de una parte a otra. ** **No piense, pues, ese hombre, que recibirá cosa alguna del Señor, siendo hombre de doble ánimo, inestable en todos sus caminos.  
+        *
+
+    3.  La razón por la que no nos falta nada no es porque somos suficientes por nosotros mismos, sino que por medio de Cristo tenemos acceso a Aquel que puede todas las cosas. 2 Corintios 3:5-6
+
+17. Esta es como una invitación que te dice: “¡La verdad, no sé qué hace ahí que no estás pidiendo! Si tienes la garantía no solo de ser oído, sino debido a eso, de ser atendido, acércate confiadamente y pídele a Tu Padre que está en los cielos. Efesios 3:20
+
+> **Peticiones conforme a su Voluntad, amándonos los unos a los otros 1 Juan 5:16-17  
+> **
+
+18. En el contexto podemos entender que Juan nos está mostrando, el uso de la oración, como una forma de amar a nuestros hermanos. La intercesión por ellos, es una de las mejores cosas que podemos hacer por ellos.
+
+19. 1 Juan 5: 16a – *Si alguien ve a su hermano cometer algún pecado que no lleva a la muerte, pedirá, y por él Dios dará vida a los que cometen pecado que no lleva a la muerte…*
+
+    1.  Sin duda tenemos un pasaje difícil a interpretar ya que no tenemos mucha información que nos ayude a determinar que son algunas cosas a las que se refiere Juan. Por lo tanto, en lugar de deducir algunas cosas, trataremos con la idea central del pasaje.
+
+    2.  *Si alguien ve a su hermano cometer algún pecado…* Juan nos presenta el siguiente caso: Vemos a un hermano nuestro pecando. Aquí nuevamente podemos ver a un creyente descrito como alguien que peca, y es no lo hace un no salvo.
+
+    3.  *…cometer algún pecado que no lleva a la muerte…* El hermano pecando, está cometiendo un pecado, pero uno que no es hacia muerte.
+
+        1.  En lugar de centrarnos en describir cuáles son estos pecados, ya que Juan tampoco lo hace, describiéremos mejor lo que Juan dice: pecando pecado no hacia muerte.
+
+        2.  En las escrituras tenemos varios ejemplos de creyentes cuyo pecado significó un estado de no retorno por la intervención del cuerpo de Cristo, sino únicamente por Dios. 1 Corintios 11:31-32, 5:4-5, 1 Timoteo 1:19-20, Hebreos 10:26-31
+
+        3.  En todos estos casos el denominador común es un rechazo deliberado, de Cristo y el significado de su obra, habiéndolo conocido. Estos creyentes lo único que les espera es ser juzgados por Dios.
+
+    4.  *…pedirá y por él Dios dará vida…* Estos no son imperativos, sino declaraciones futuras de hecho. Es decir, el que está apropiándose de esta confianza y amando, intercederá por su prójimo.
+
+        1.  La palabra Dios, no está en los textos griego, así que podríamos decir: pedirá por él, y dará el.
+
+        2.  Ambos verbos apuntan al hermano que ve a su hermano pecando.
+
+        3.  Juan quiere mostrar que, al interceder por los hermanos (pedirá), participamos activamente de la obra de Dios en sus vidas (dará vida), muy probablemente como instrumentos de Dios, ya que es el único capaz de dar vida. Santiago 5:20
+
+20. 1 Juan 5: 16b – *Hay un pecado que lleva a la muerte, yo no digo que se deba pedir por ese.* Aunque podemos interceder por los hermanos, hay hermanos que están en un estado donde lo que necesitan no es la intercesión, sino el juicio de Dios de su casa.
+
+21. 1 Juan 5: 17 – *Toda injusticia es pecado, pero hay pecado que no lleva a la muerte.  
+    *
+
+    1.  Juan no está haciendo una distinción entre pecados, o justificando algunos como más pasables que otros. De hecho, dice que todos los pecados son injusticia, y no proviene de Dios.
+
+    2.  Solamente está mostrando que la voluntad de Dios es que participemos en la vida de nuestros hermanos a través de la intercesión, pero no siempre será la voluntad de Dios que intercedamos por algunos hermanos.
+
+    3.  Juan mostro con anterioridad que el que permanece en él no peca, solo Cristo es nuestro salvador, e intercedemos por otros, llevándolos hacia él. 1 Juan 3:4-6
+
+**El Verdadero, y la certeza de que nos guarda – 1 Juan 5:18-21  
+**
+
+22. 1 Juan 5: 18 – *Sabemos que todo el que ha nacido de Dios, no peca; Sino que Aquel que nació de Dios lo guarda y el maligno lo toca.* Esta es una confirmación más de la seguridad que poseemos como nacidos de Dios.
+
+    1.  Repite el pecado en la vida de los creyentes, no tiene como su fuente la nueva naturaleza. Esto ya lo hemos visto en las enseñanzas del capítulo tres.
+
+    2.  *sino que Aquel que nació de Dios lo guarda...* Podemos leer este versículo y pensar que está hablando de Jesucristo. Pero él nunca es referido como engendrado por Dios, en ninguna parte de las escrituras.
+
+        1.  Es en el hecho de lo que somos que tenemos seguridad, y no en lo que hacemos y no hacemos.
+
+        2.  Aunque si es verdad que Cristo nos guarda, es probable que Juan este haciendo referencia al hecho de la garantía del nuevo nacimiento, y no al ser guardados por Jesucristo.
+
+    3.  *“y el maligno no lo toca”.* No hay poder alguno sobre los nacidos de Dios, esto no significa que como creyentes nuestras mentes no puedan ser engañadas por su astucia, pero los nacidos de Dios, tiene garantizada la glorificación, la vida eterna. 2 Corintios 11:3
+
+23. 1 Juan 5: 19 – *Sabemos que somos de Dios, y que el mundo entero está bajo el poder del maligno.* Habiendo mencionado al maligno, muestra Juan que nuestra victoria sobre él está en que nacimos de Dios, es decir, lo que somos como resultado de su gracia, y no en nuestro propio poder.
+
+    1.  Aunque el mundo entero este bajo el poder del maligno, por medio de Cristo nosotros hemos triunfado por sobre el mundo y el maligno.
+
+    2.  Es Cristo quien nos guarda por su poder. Mientras vivamos en este mundo estaremos en medio de una guerra, pero en Cristo somos victoriosos, y caminamos desde la victoria y no hacia ella. Juan 17:15
+
+24. 1 Juan 5: 20 – *Y sabemos que el Hijo de Dios ha venido y nos ha dado entendimiento a fin de que conozcamos a Aquel que es verdadero; y nosotros estamos en Aquel que es verdadero, en Su Hijo Jesucristo.  
+    *
+
+    1.  Es una linda forma de concluir su libro, llevándonos a una total garantía de quienes somos, y donde verdaderamente estamos.
+
+    2.  En el v19 dijo: el mundo entero está bajo el poder del maligno, pero aquí dice, nosotros estamos en Aquel que es verdadero. Ya que no somos de este mundo, debemos entender que nada de lo que suceda aquí afecta nuestra posición en Cristo Jesús.
+
+    3.  Jesús es la garantía de los creyentes, y no la vida que ellos viven. Todo creyente a conocido a Aquel que es verdadero por medio de la fe. Así hemos sido colocados en él, y entonces tenemos la posición misma de Cristo para con Dios.
+
+25. 1 Juan 5: 21 – *Hijitos, aléjense de los ídolos.* Sea o no esto parte del texto original, es apropiado decir:
+
+    1.  No vayan tras una mentira, no vayan tras una falsificación de Dios. Los falsos maestros pueden estar presentando a otros salvadores, pero solo existe uno, y la vida abundante solamente puede ser vivida por medio de é.
+
+    2.  La vida cristiana no es falsificable, es genuinamente la vida de Cristo en nosotros, Dios envió a Su Hijo, para que vivamos por medio de él. Si alguien vive verdaderamente, es porque Cristo está viviendo por medio de él.
+
+    3.  Los falsos maestros, que estaban tratando de engañar a estos creyentes, siempre conducirán a una falsa espiritualidad. Puede tener la apariencia, pero Juan se encargó de mostrar el estándar de Dios de la verdadera vida. Aquél creyente que no está amando como Cristo nos amó, se está perdiendo completamente de experimentar la vida eterna.
