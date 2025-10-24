@@ -83,19 +83,19 @@
 
 #### Todos estos verbos están en plural, haciendo énfasis en la veracidad de estos hechos, no solamente a través de un solo testigo, sino de varios.
 
-#### A través de Jesús, Dios invitó a la humanidad a tener una experiencia en carne y hueso con él mismo. Estos no son simples comunicadores, ellos hablan un mensaje que han experimentado.
+#### A través de Jesús, Dios invitó a la humanidad a tener una experiencia en carne y hueso con Él mismo. Estos no son simples comunicadores, ellos hablan un mensaje que han experimentado.
 
 ##### Una posible traducción de versículos 1 y 2 seria: "*Nosotros os anunciamos lo que era desde el principio, lo que hemos visto con nuestros ojos, lo que hemos sostenido y lo que palparon nuestras manos tocante al Verbo de vida.*"
 
 ### 1 Juan 1:1c - *…esto escribimos acerca del verbo de vida.* Sin Lugar a dudas el mensaje de los apóstoles, y el mensaje que tenemos acá escrito, es “el Verbo de Vida”.
 
-#### Esto puede verse de dos formas: “el mensaje de la Vida”, que es el evangelio de nuestra salvación, y también como una persona, que es nuestro Salvador. Cristo es la vida, y la comunicación de su persona puede llevarnos a la vida. 1 Corintios 2:1-5, Romanos 1:1-3
+#### Esto puede verse de dos formas: “el mensaje de la Vida”, que es el evangelio de nuestra salvación, y también como una persona, que es nuestro Salvador. Cristo es la vida, y la comunicación de su persona puede llevarnos a la vida. 1 Corintios 2:1-5; Romanos 1:1-3
 
-#### Jesús es el mensaje de Dios para la humanidad, y siempre lo ha sido. Jesús es el mensaje de Dios personificado. Es solamente a través de él que Dios comunica la vida a la humanidad. Juan 5:39
+#### Jesús es el mensaje de Dios para la humanidad, y siempre lo ha sido. Jesús es el mensaje de Dios personificado. Es solamente a través de Él que Dios comunica la vida a la humanidad. Juan 5:39
 
-### 1 Juan 1:2a - *y la vida se manifestó…se manifestó a nosotros…* Dios se encargó de mostrar la vida a través de la persona de Jesucristo. Dios es el que envía a su Hijo para revelar la vida a través de él. Juan 1:18
+### 1 Juan 1:2a - *y la vida se manifestó…se manifestó a nosotros…* Dios se encargó de mostrar la vida a través de la persona de Jesucristo. Dios es el que envía a su Hijo para revelar la vida a través de Él. Juan 1:18
 
-### 1 Juan 1:2b - *...nosotros la hemos visto, y damos testimonio y les anunciamos a ustedes la vida eterna*… el dar testimonio muestra el hecho de solamente ser testigos y estar comunicando una verdad no que han creado, sino una que han visto. Jesús dijo que sus discípulos serían testigos (Hechos 1:8).
+### 1 Juan 1:2b - *...nosotros la hemos visto, y damos testimonio y les anunciamos a ustedes la vida eterna*… el dar testimonio muestra el hecho de solamente ser testigos y estar comunicando una verdad no que han creado, sino una que han visto. Jesús dijo que sus discípulos serían testigos. Hechos 1:8
 
 #### En su evangelio Juan usa la palabra testimonio como validaciones al mensaje como una ayuda para hacerlo creíble, ya que es hecho visible a través del testimonio.
 
@@ -107,41 +107,47 @@
 
 #### A manera de testigos, los discípulos tenían la autoridad de anunciar la vida eterna, el ser proclamada es la razón por la cual Dios la manifestó. Juan 10:28
 
-### 1 Juan 1:3a – *Lo que hemos visto y oído les proclamamos también a ustedes, para que también ustedes tengan comunión con nosotros…* El propósito de comunicar a la persona de Jesús, era poder llevarlos a participar a los lectores de la misma vida que ellos habían participado.
+### 1 Juan 1:3a – "*Lo que hemos visto y oído les proclamamos también a ustedes,*" 
+
+### 1 Juan 1:3a "*para que también ustedes tengan comunión con nosotros…*" El propósito de comunicar a la persona de Jesús, era poder llevarlos a participar a los lectores de la misma vida que ellos habían participado.
 
 #### Es bueno ver este pasaje para poder comprender más apropiadamente lo que es la comunión y el uso que los apóstoles le dan.
 
-#### La palabra “koinonía” transmite la idea de compañerismo, de tener en común, de participar de lo mismo.
+#### La palabra "*comunión*" KOINONIA transmite la idea de compañerismo, de tener en común, de participar de lo mismo.
 
 #### Los apóstoles comunican este mensaje para que los oyentes puedan participar de lo mismo que ellos han participado. Esto los haría socios o parte de la misma sociedad.
 
 #### Como receptores del mensaje también ellos podrían experimentar la vida, de la misma forma que ellos la habían experimentado. De tal manera que ellos, los receptores, y los apóstoles serían compañero de la misma vida.
 
-### 1 Juan 1:3b - *...en verdad nuestra comunión es con el Padre y con su Hijo Jesucristo.* Ese compañerismo al que quieren apuntar, en realidad es que puedan participar de esta sociedad con el Padre y con su Hijo.
+### 1 Juan 1:3b - "*...en verdad nuestra comunión es con el Padre y con su Hijo Jesucristo.*" Ese compañerismo al que quieren apuntar, en realidad es que puedan participar de esta sociedad con el Padre y con su Hijo.
 
 #### Cualquiera que ha participado de la vida eterna, puede llegar a tener comunión con el Padre y con su Hijo.
 
-#### Cuando Dios manifiesta la vida en la persona de Jesucristo, es porque quiere que participemos de el mismo. Es a través de Jesús, que somos compañeros y disfrutamos de esta intimidad, con Dios mismo.
+#### Cuando Dios manifiesta la vida en la persona de Jesucristo, es porque quiere que participemos de El mismo. Es a través de Jesús, que somos compañeros y disfrutamos de esta intimidad, con Dios mismo.
 
 #### Para Juan la comunión es el resultado de lo que Dios ha manifestado en la persona de Jesucristo. Por lo tanto, Jesús es el que hace posible la comunión del creyente con Dios.
 
 #### Si nuestro mensaje no es la persona de Jesucristo, nunca podremos llevar a una verdadera comunión con Dios a las personas que estamos tratando de enseñar.
 
-#### Hoy muchos entienden y enseñan la comunión como algo que estamos haciendo para estar bien con Dios. Es decir, que, si estamos haciendo tal cosa, estamos teniendo comunión con Dios. Pero para Juan será al revés. Si estamos haciendo tal cosa, es porque estamos teniendo comunión con Dios.
+#### Hoy muchos entienden y enseñan la comunión como algo que estamos haciendo para estar bien con Dios. 
 
-#### Dios quiere disfrutar de un compañerismo con cada uno de sus hijos, y para que esto sea posible manifestó la vida por medio de su Hijo.
+##### Por ejemplo, si hacemos tal cosa, estamos teniendo comunión con Dios. Pero el Apóstol Juan lo muestra al revés. Si estamos haciendo alguna cosa, es porque estamos teniendo comunión con Dios.
 
-### 1 Juan 1:4 – *Les escribimos estas cosas para que nuestro gozo sea completo.* Juan quiere que el regocijo de la vida que hemos recibido, sea la verdad experiencial de cada creyente, por medio de la participación de la vida de Cristo. Juan 10:10, 15:11
+#### Dios quiere disfrutar de un compañerismo con cada uno de sus hijos, y para que esto sea posible manifestó la vida por medio de Su Hijo.
 
-#### Solo por medio de una correcta comprensión, y conocimiento de la persona de Jesús, el creyente puede disfrutar verdaderamente de la vida.
+### 1 Juan 1:4 – "*Les escribimos estas cosas para que nuestro gozo sea completo.*" Juan quiere que el regocijo de la vida que habían recibido, sea la verdad experiencial de cada creyente por medio de la participación de la vida de Cristo. Juan 10:10, 15:11
 
-#### Muchos engañadores, por falsificaciones de la vida que van a comunicar le quitan al creyente de llevar fruto para Dios, experimentando así el gozo de la vida.
+#### Solo por medio de una correcta comprensión y conocimiento de la persona de Jesús, el creyente puede disfrutar verdaderamente de la vida.
+
+#### ¿¿¿Muchos engañadores, por medio de falsificaciones de la vida, le quitan al creyente de llevar fruto para Dios, experimentando así el gozo de la vida.???
 
 #### Este gozo, es el gozo de Cristo, del que podemos participar. Juan 15:11 dice: “*Estas cosas les he hablado, para que Mi gozo esté en ustedes, y su gozo sea perfecto*”.
 
-#### Nunca la vida autentica va a ser vivida a parte de la persona de Jesucristo, por eso los apóstoles comunicaban este mensaje.
+#### La vida autentica nunca será vivida a parte de la persona de Jesucristo, por eso los apóstoles comunicaban este mensaje.
 
-#### Como maestros podemos llevar falsificaciones de plenitud de gozo, llevando a las personas un mensaje que no sea la persona de Jesucristo. Hoy mucho basan sus vidas en lo que ellos hacen por Cristo, y esperan algún día experimentar el gozo de esto, pero el verdadero gozo es el resultado de lo que Dios nos ha dado por medio de la persona de Jesucristo. 2 Pedro 1:3-4
+#### Como maestros podemos llevar falsificaciones de plenitud de gozo, llevando a las personas un mensaje que no sea la persona de Jesucristo. 
+
+##### Hoy muchos basan sus vidas en lo que ellos hacen por Cristo, y esperan algún día experimentar el gozo de esto. Pero el verdadero gozo es el resultado de lo que Dios nos ha dado por medio de la persona de Jesucristo. 2 Pedro 1:3-4
 
 # ASÍ COMO ÉL ESTÁ EN LUZ - EL ANDAR AUTÉNTICO DE LOS CREYENTES  
 
@@ -149,9 +155,9 @@
 
 ## Muchas de estas declaraciones no son explicadas por Juan, simplemente mencionadas como alguien que entiende sus definiciones, a medida que se vayan mencionando trataremos de explicarlas.
 
-### 1 Juan 1:5a *Y este es el mensaje que hemos oído de Él y que les anunciamos…* Cuando Dios hablo por medio de Jesucristo, los discípulos oyeron claramente un mensaje. Este mensaje procede de Cristo “hemos oído de él”*.* Juan 1:4-9, 8:12, 9:4-5, 11:9-10
+### 1 Juan 1:5a *Y este es el mensaje que hemos oído de Él y que les anunciamos…* Cuando Dios hablo por medio de Jesucristo, los discípulos oyeron claramente un mensaje. Este mensaje procede de Cristo “*hemos oído de Él*”*.* Juan 1:4-9, 8:12, 9:4-5, 11:9-10
 
-### 1 Juan 1:5b …*Dios es luz y en el no hay ninguna tiniebla.*
+### 1 Juan 1:5b "…*Dios es luz y en el no hay ninguna tiniebla.*"
 
 #### Jesús se identificó a sí mismo como la luz, Ya que Jesús es Dios, y para Juan claramente Jesús es Dios, comenzará aquí diciendo Dios es luz, ya que tanto Dios, como Jesús, son la Luz. Muestra esto no como un atributo que Dios tiene, sino como lo que Él es. 
 
@@ -161,7 +167,7 @@
 
 #### Una de los aspectos mostrados en las escrituras acerca de la luz es el efecto que tienen sobre las tinieblas, ellas son desenmascaradas por medio de la luz. Fue Dios quien alumbró al mundo por medio de Jesucristo, ya que toda la humanidad está completamente perdida sin él. 2 Corintios 4:6
 
-### 1 Juan 1:6-7 – *Si decimos que tenemos comunión con Él, pero andamos en tinieblas, mentimos y no practicamos la verdad*. *Pero si andamos en luz como él está en la luz, tenemos comunión los unos con los otros, y la sangre de Jesús su Hijo nos limpia de todo pecado.*
+### 1 Juan 1:6-7 – "*Si decimos que tenemos comunión con Él, pero andamos en tinieblas, mentimos y no practicamos la verdad*. *Pero si andamos en luz como él está en la luz, tenemos comunión los unos con los otros, y la sangre de Jesús su Hijo nos limpia de todo pecado.*"
 
 #### Por medio de esta primer comparación Juan demostrara como la vida autentica de comunión y limpia de pecados, es el resultado de un andar en luz. Esta condición esta en plural, indicando que ellos podrían hacer tal declaración, pero esta sería solo una mentira si sus vidas no lo respaldaban. No dice: “los que dicen”.
 
