@@ -45,7 +45,7 @@
 # LOS TESTIGOS Y SU MENSAJE
 ## 1 Juan 1:1-4 – Juan no comienza presentándose como el autor de la carta como se ve en otras epístolas del Nuevo Testamento, sino anunciando Un mensaje, Una persona, el Verbo de Vida.
 
-### 1 Juan 1:1a – *"Lo que existía **[era RV09]** desde el principio…"* Comienza hablando de la persona de Jesucristo, Dios Hijo. Nos recuerda la realidad, que incluso desde el comienzo de la creación de los cielos y la tierra, Él ya era, Él ya existía.
+### 1 Juan 1:1a – *"Lo que existía* [era RV09] *desde el principio…"* Comienza hablando de la persona de Jesucristo, Dios Hijo. Nos recuerda la realidad, que incluso desde el comienzo de la creación de los cielos y la tierra, Él ya era, Él ya existía.
 
 #### Pudo haber dicho "El que existía". Juan no solo está dando testimonio que vio a Jesús, sino a toda la esencia de una realidad eterna. 
 
@@ -57,7 +57,7 @@
 
 #### Vemos desde el comienzo de 1 Juan que Jesús es el Hijo de Dios. Mas adelante nos mostrara claramente a Cristo, Su persona y Su obra. ¿Porqué? Esta pregunta se irá aclarando durante el avance de esta epístola.
 
-### 1 Juan 1:1b – “*...lo que hemos oído,...visto con nuestros propios ojos,...contemplado, y lo que han tocado nuestras manos…”* Estas cuatro acciones hacen referencia a como Juan y sus compañeros llegaron a conocer a Dios mismo, y no fue por medio de fabulas o cuentos, sino por medio de hechos visibles y palpables.
+### 1 Juan 1:1b – “*...lo que hemos oído...visto con nuestros propios ojos...contemplado, y lo que han tocado nuestras manos…”* Estas cuatro acciones hacen referencia a como Juan y sus compañeros llegaron a conocer a Dios mismo, y no fue por medio de fabulas o cuentos, sino por medio de hechos visibles y palpables.
 
 #### Todos estos verbos están en plural, probablemente se refiera a los demás apóstoles como testigos, esto hace un énfasis en la veracidad de estos hechos, no solamente a través de un solo testigo, sino de varios. 
 
@@ -101,7 +101,7 @@
 
 #### Cristo es el mensaje de Dios para la humanidad, y siempre lo ha sido. Jesús es el mensaje de Dios personificado. Es solamente a través de él que Dios comunica la vida a la humanidad. Juan 5:39
 
-### 1 Juan 1: 2a - *"y la vida se manifestó [“fue manifestada” RV09]”* Dios se había encargado de enviar y revelar La Vida misma, la persona de Jesucristo a los discípulos y también a estos creyentes. Juan 1:18
+### 1 Juan 1:2a - *"y la vida se manifestó* [fue manifestada RV09]”* Dios se había encargado de enviar y revelar La Vida misma, la persona de Jesucristo a los discípulos y también a estos creyentes. Juan 1:18
 
 ### 1 Juan 1:2b - *"...nosotros la hemos visto, y damos testimonio y les anunciamos a ustedes la vida eterna..."* El dar testimonio muestra el hecho de solamente ser testigos y estar comunicando una verdad habían visto, no que habían creado. Ellos habían presenciado de primera mano al Hijo de Dios.
 
@@ -219,7 +219,11 @@
 
 #### Un creyente que anda en la luz, es un creyente que responde con fe a la revelación que Dios ha hecho a través de Jesucristo; es decir; vive a la luz de la verdad.
 
-### 1 Juan 1:8 - *Si decimos que* *no tenemos pecado, nos engañamos a nosotros mismos y la verdad no está en nosotros.* Es uno mismo el que se engaña, tratando de negar un problema que todo el mundo tiene: pecado. Juan no va a enseñar la erradicación del pecado en la vida de los creyentes.
+### 1 Juan 1:8 - *Si decimos que no tenemos pecado,* 
+
+### 1 Juan 1:8  *nos engañamos a nosotros mismos* ¿porqué nos engañariamos a nosostos mismos?
+
+### 1 Juan 1:8  *y la verdad no está en nosotros.* Es uno mismo el que se engaña, tratando de negar un problema que todo el mundo tiene: pecado. Juan no va a enseñar la erradicación del pecado en la vida de los creyentes.
 
 #### Aquí Juan quiere presentar un problema, que aquel que decida negarlo vive engañándose a sí mismo.
 
@@ -405,7 +409,7 @@
 
 ### 1 Juan 2:11 – *Pero el que aborrece a su hermano, está en tinieblas y anda en tinieblas, y no sabe a dónde va, porque las tinieblas han cegado sus ojos.* Juan concluye que aquel que está odiando a su hermano (es decir el caso de un creyente), es porque las tinieblas han tomado control sobre su vida, y en lugar de andar como el anduvo, no sabe ni a donde va.
 
-> **Lo pasajero versus lo temporal, aquello que somos versos aquello a lo que no pertenecemos**
+## **Lo pasajero versus lo temporal, aquello que somos versos aquello a lo que no pertenecemos**
 
 #### Juan dijo arriba porque las tinieblas van pasando y la luz verdadera ya está alumbrando. Esto es real de este mundo y lo que nosotros somos como hijos de Dios en este mundo.
 
@@ -674,7 +678,8 @@
 #### Eran creyentes que habían sido enseñados, pero eso no los hacía exentos de haber caído en el error. Debemos permanecer en Cristo ya que él es nuestra única fortaleza.
 
 # **CONFIADOS PARA SU REGRESO, LA ESPERANZA QUE TENEMOS – 1 JUAN 2:28-3:12**
-> **Ya que Dios nos ha prometido la vida eterna, podemos tener esperanza hacia el futuro, por eso Juan nos animará llevándonos a considerar la futura manifestación de Cristo, y como debería ser nuestra respuesta a ella.  **
+
+## Ya que Dios nos ha prometido la vida eterna, podemos tener esperanza hacia el futuro, por eso Juan nos animará llevándonos a considerar la futura manifestación de Cristo, y como debería ser nuestra respuesta a ella.
 
 ## **1 Juan 2:28-29 – Permanezcan en él**
 
