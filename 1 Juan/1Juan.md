@@ -43,55 +43,63 @@
 ## Propósito de la escritura
 
 # LOS TESTIGOS Y SU MENSAJE
-## 1 Juan 1:1-4 – A manera de introducción, el autor destaca su mensaje como una persona que ha conocido.
+## 1 Juan 1:1-4 – Juan no comienza presentándose como el autor de la carta como se ve en otras epístolas del Nuevo Testamento, sino anunciando Un mensaje, Una persona, el Verbo de Vida.
 
-### 1 Juan 1:1a – "*Lo que existía desde el principio…*" con estas primeras palabras, el autor decide referirse al mensaje que quiere compartir como una persona.
+### 1 Juan 1:1a – *"Lo que existía **[era RV09]** desde el principio…"* Comienza hablando de la persona de Jesucristo, Dios Hijo. Nos recuerda la realidad, que incluso desde el comienzo de la creación de los cielos y la tierra, Él ya era, Él ya existía.
 
-#### Pudo haber dicho "El que existía". Juan no solo está dando testimonio que vio a Jesus, sino a toda la escencia de una realidad eterna. 
+#### Pudo haber dicho "El que existía". Juan no solo está dando testimonio que vio a Jesús, sino a toda la esencia de una realidad eterna. 
 
-##### Juan está hablando de la persona de Dios, el Hijo ("*El Verbo de Vida*" 1 Juan 1:3). Al usar esta descripción muestra Su deidad eterna.
+#### El verbo “existía” está en tiempo imperfecto, voz activa y modo indicativo, muestra que es una acción que ya era real y continua en el pasado, en este caso, desde la creación. Esto nos da una muestra más de la existencia eterna del Hijo de Dios. Juan 8:58
 
-#### El verbo "*existía*" está en tiempo imperfecto mostrando la existencia eterna del Hijo de Dios. De igual manera en su evangelio, Juan describe al verbo encarnado, como aquel que siempre existió. Juan 1:1,14
+#### De igual manera en su evangelio, Juan describe al Verbo Encarnado, como aquel que siempre existió. Juan 1:1, 14
 
-#### Juan sabe que Jesús, el Hijo de Dios, a quien ha conocido, es el mismo Dios que trajo todo a la existencia. Es claro a mostrar desde la primera frase que Jesús es el hijo de Dios
+#### Juan también sabe que Jesús, el Hijo de Dios, a quien ha conocido, es el mismo Dios que trajo todo a la existencia. Colosenses 1:16-17 
 
-#### Los engañadores tienen serios problemas con la persona y obra de Cristo y Juan durante la carta va amostrar claramente su persona y su obra.
+#### Vemos desde el comienzo de 1 Juan que Jesús es el Hijo de Dios. Mas adelante nos mostrara claramente a Cristo, Su persona y Su obra. ¿Porqué? Esta pregunta se irá aclarando durante el avance de esta epístola.
+
+### 1 Juan 1:1b – “*...lo que hemos oído,...visto con nuestros propios ojos,...contemplado, y lo que han tocado nuestras manos…”* Estas cuatro acciones hacen referencia a como Juan y sus compañeros llegaron a conocer a Dios mismo, y no fue por medio de fabulas o cuentos, sino por medio de hechos visibles y palpables.
+
+#### Todos estos verbos están en plural, probablemente se refiera a los demás apóstoles como testigos, esto hace un énfasis en la veracidad de estos hechos, no solamente a través de un solo testigo, sino de varios. 
+
+#### Juan va personificando el mensaje al decir que lo que han oído, visto, contemplado y palpado (la persona de Jesús), es lo que existía desde el principio. 
 
 ### 1 Juan 1:1b – "*...lo que hemos oído,*" El mensaje se recibió de forma audible: escuchar de primera mano las palabras de Cristo.
 
-#### Cualquiera que tenga un mensaje de parte de Dios, debe oírlo primeramente de Él. Dios ha hablado muchas veces y ahora ha hablado por el Hijo (Hebreos 1:1-4), por eso es que podemos responder con fe a la Palabra de Cristo, porque Él se encargó de comunicarlo claramente. Romanos 10:17
+#### La expresión “Hemos oído” indica que el Verbo de Vida les dio un mensaje del Padre, cualquiera que tenga un mensaje de parte de Dios, debió haberlo oído primeramente de Él mismo.
+
+#### Dios hablo muchas veces y de diversas maneras (Antiguo Testamento), ahora había hablado por el Hijo (Hebreos 1:1-4). Los creyentes podían confiar en el mensaje que estaban recibiendo ya que venía de Cristo y Él se encargó de comunicarlo claramente de parte del Padre. Romanos 10:17
 
 #### La persona que quieren comunicar en su mensaje es alguien a quien han oído, y al mismo tiempo es un mensaje que han oído por Él. Juan aquí personifica el mensaje al decir que lo que han oído (en la persona de Jesús), es lo que existía desde el principio.
 
-### 1 Juan 1:1b "*lo que hemos visto con nuestros propios ojos...*" Experiencia personal y visual de Cristo: histórica y real.
+### 1 Juan 1:1b "*lo que hemos visto con nuestros propios ojos...*" Esto indica una experiencia personal y visual de Cristo: Histórica y real.
 
-### 1 Juan 1:1b "*lo que hemos contemplado...*" No solo visto, sino examinado y contemplado de cerca.
+### 1 Juan 1:1b "*lo que hemos contemplado...*" Y no solo visto, sino examinado y contemplado de cerca.
 
-#### La diferencia entre haber visto, y haber contemplado está en el hecho de que algo que podemos contemplar es algo que se queda para ser visto. Esto muestra la encarnación del Hijo de Dios entre nosotros y el hecho de que “habitó entre nosotros”. Juan 1:14
+#### La diferencia entre “haber visto”, y “haber contemplado” es que contemplar hace referencia a algo que se queda para ser visto y apreciado. Esto nos muestra que Cristo, el Hijo de Dios vino en carne, Juan y los demás discípulos lo vieron, lo contemplaron. Jesucristo “habitó entre nosotros”. Juan 1:14
 
 ### 1 Juan 1:1b "...*y lo que han tocado nuestras manos…*" Contacto tangible: confirma la realidad física del Verbo Encarnado.
 
-#### No solamente los apóstoles han oído, visto y contemplado a Dios, sino que lo tocaron.
+#### No solo habían visto y contemplado a Dios, sino que lo habían palpado. 
 
-##### Es interesante que Jesús usó esta palabra cuando invitó a sus discípulos a palparlo resucitado. Lucas 24:39
+##### Es interesante que Jesús resucitado usó esta palabra cuando invitó a sus discípulos a palparlo. Lucas 24:39
 
-##### Este hecho es específico de la vida de Jesús, no solamente haciendo referencia a que el Hijo de Dios vino y habitó entre nosotros, sino que después de que murió, fue sepultado, el resucito, y así como resucitado, él fue palpado por sus discípulos.
+##### Este hecho es específico de la vida de Jesús, no solamente haciendo referencia a que el Hijo de Dios vino y habitó entre nosotros, sino también que después de que murió, fue sepultado, el resucito, y así como resucitado, él fue palpado por sus discípulos, Él seguían siendo el Dios-hombre. 1 Timoteo 2:5
 
-##### Ellos son testigos experienciales del Cristo resucitado. Palparon la vida que triunfó sobre la muerte, algo nunca antes palpado.
+##### Ellos son testigos experienciales del Cristo resucitado. Palparon la vida que triunfó sobre la muerte, un evento único en la historia. 
 
-#### de estas cuatro formas Juan va a demostrar claramente que él, junto con los otros apóstoles incluidos en estas declaraciones, sí han oído, visto, contemplado y tocado al Hijo de Dios.
-
-#### Todos estos verbos están en plural, haciendo énfasis en la veracidad de estos hechos, no solamente a través de un solo testigo, sino de varios.
-
-#### A través de Jesús, Dios invitó a la humanidad a tener una experiencia en carne y hueso con Él mismo. Estos no son simples comunicadores, ellos hablan un mensaje que han experimentado.
+#### A través de Jesús, Dios invitó a la humanidad a tener una experiencia en carne y hueso con él mismo. Este es el mensaje que anuncia Juan y los discípulos, ellos no son simples comunicadores, ellos hablan de un mensaje que han experimentado, Cristo.
 
 ##### Una posible traducción de versículos 1 y 2 seria: "*Nosotros os anunciamos lo que era desde el principio, lo que hemos visto con nuestros ojos, lo que hemos sostenido y lo que palparon nuestras manos tocante al Verbo de vida.*"
 
 ### 1 Juan 1:1c - *…esto escribimos acerca del verbo de vida.* Sin Lugar a dudas el mensaje de los apóstoles, y el mensaje que tenemos acá escrito, es “el Verbo de Vida”.
 
-#### Esto puede verse de dos formas: “el mensaje de la Vida”, que es el evangelio de nuestra salvación, y también como una persona, que es nuestro Salvador. Cristo es la vida, y la comunicación de su persona puede llevarnos a la vida. 1 Corintios 2:1-5; Romanos 1:1-3
+#### Esto puede verse de dos formas: 
 
-#### Jesús es el mensaje de Dios para la humanidad, y siempre lo ha sido. Jesús es el mensaje de Dios personificado. Es solamente a través de Él que Dios comunica la vida a la humanidad. Juan 5:39
+##### “El mensaje de la Vida”, que es el Evangelio de nuestra salvación, Cristo y Su obra.
+
+##### También como una persona, que es nuestro Salvador. Cristo es El Mensaje de Vida, y la comunicación de Su persona es la que lleva a la verdadera vida. 1 Corintios 2:1-5; Romanos 1:1-3
+
+#### Cristo es el mensaje de Dios para la humanidad, y siempre lo ha sido. Jesús es el mensaje de Dios personificado. Es solamente a través de él que Dios comunica la vida a la humanidad. Juan 5:39
 
 ### 1 Juan 1:2a - *y la vida se manifestó…se manifestó a nosotros…* Dios se encargó de mostrar la vida a través de la persona de Jesucristo. Dios es el que envía a su Hijo para revelar la vida a través de Él. Juan 1:18
 
