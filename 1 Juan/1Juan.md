@@ -117,47 +117,49 @@
 
 #### A manera de testigos, los discípulos tenían la autoridad de anunciar la Vida Eterna, el ser proclamada es la razón por la cual Dios la estaba manifestando. Juan 10:28
 
-### 1 Juan 1:3a – "*Lo que hemos visto y oído les proclamamos también a ustedes,*" 
+### 1 Juan 1:3a – "*"Lo que hemos visto y oído les proclamamos también a ustedes,..."* Observamos que La Vida Eterna, El Verbo de Vida, había sido revelado claramente por el Padre a los apóstoles, lo habían visto y oído. 
 
-### 1 Juan 1:3a "*para que también ustedes tengan comunión con nosotros…*" El propósito de comunicar a la persona de Jesús, era poder llevarlos a participar a los lectores de la misma vida que ellos habían participado.
+#### Juan toma los primeros 2 versículos para anunciar El Mensaje de Vida, lo que les había sido revelado a ellos, ahora lo estarán anunciando a sus lectores. ¿Porqué era tan importante que sepan este Mensaje? 
+
+### 1 Juan 1:3b – *"para que también ustedes tengan comunión con nosotros…"* La palabra "*comunión*" KOINONIA transmite la idea de compañerismo, de tener en común, de participar de lo mismo.
 
 #### Es bueno ver este pasaje para poder comprender más apropiadamente lo que es la comunión y el uso que los apóstoles le dan.
 
-#### La palabra "*comunión*" KOINONIA transmite la idea de compañerismo, de tener en común, de participar de lo mismo.
+##### En la Escritura vemos tenemos comunión como creyentes en base a la salvación que compartimos en nuestro Señor Jesucristo y los que estarían excluidos de esto serían los incrédulos. 2 Corintios 13:14 
 
-#### Los apóstoles comunican este mensaje para que los oyentes puedan participar de lo mismo que ellos han participado. Esto los haría socios o parte de la misma sociedad.
+##### A veces se tiene el concepto de comunión unos a otros solo en base a compartir alguna actividad como iglesia. También tenemos diferentes conceptos de lo que es comunión entre hermanos.
 
-#### Como receptores del mensaje también ellos podrían experimentar la vida, de la misma forma que ellos la habían experimentado. De tal manera que ellos, los receptores, y los apóstoles serían compañero de la misma vida.
+##### Pero ¿Como se esta explicando la comunión unos a otros en 1 Juan? ¿Como era posible esta comunión?
 
-### 1 Juan 1:3b - "*...en verdad nuestra comunión es con el Padre y con su Hijo Jesucristo.*" Ese compañerismo al que quieren apuntar, en realidad es que puedan participar de esta sociedad con el Padre y con su Hijo.
+#### Vemos que los apóstoles solo anunciaban La Vida Eterna, porque solo ese Mensaje es lo que podría llevarlos a participar a los lectores de la misma vida que los que testificaban estaban participando. Esto los haría compañeros o parte de la misma sociedad, tendrían comunión unos a otros
 
-#### Cualquiera que ha participado de la vida eterna, puede llegar a tener comunión con el Padre y con su Hijo.
+#### Que los lectores lleguen a tener comunión unos a otros, participar juntos de un mismo propósito vendría solamente por medio del Mensaje de Dios que les estaba siendo anunciado. Los apóstoles solo anunciaban lo que habían recibido.
 
-#### Cuando Dios manifiesta la vida en la persona de Jesucristo, es porque quiere que participemos de El mismo. Es a través de Jesús, que somos compañeros y disfrutamos de esta intimidad, con Dios mismo.
-
-#### Para Juan la comunión es el resultado de lo que Dios ha manifestado en la persona de Jesucristo. Por lo tanto, Jesús es el que hace posible la comunión del creyente con Dios.
-
-#### Si nuestro mensaje no es la persona de Jesucristo, nunca podremos llevar a una verdadera comunión con Dios a las personas que estamos tratando de enseñar.
+### 1 Juan 1:3b - "*...en verdad nuestra comunión es con el Padre y con su Hijo Jesucristo.*" Ese compañerismo al que quieren apuntar, es en realidad que los lectores puedan participar de esta sociedad (comunión) con el Padre y con su Hijo.
 
 #### Hoy muchos entienden y enseñan la comunión como algo que estamos haciendo para estar bien con Dios. 
 
-##### Por ejemplo, si hacemos tal cosa, estamos teniendo comunión con Dios. Pero el Apóstol Juan lo muestra al revés. Si estamos haciendo alguna cosa, es porque estamos teniendo comunión con Dios.
+#### Pero cualquiera que ha participado de la vida eterna (creyente), puede llegar a tener comunión con el Padre y con su Hijo.
 
-#### Dios quiere disfrutar de un compañerismo con cada uno de sus hijos, y para que esto sea posible manifestó la vida por medio de Su Hijo.
+#### Para Juan la comunión viene por medio de lo que Dios ha manifestado en la persona de Jesucristo, por eso 1 Juan comienza anunciando a sus lectores lo que Dios les había ya manifestado.
 
-### 1 Juan 1:4 – "*Les escribimos estas cosas para que nuestro gozo sea completo.*" Juan quiere que el regocijo de la vida que habían recibido, sea la verdad experiencial de cada creyente por medio de la participación de la vida de Cristo. Juan 10:10, 15:11
+#### Si nuestro mensaje no es lo que Dios Padre manifestó, entonces nunca podremos llevar a una verdadera comunión con Dios a las personas que estamos tratando de enseñar.
 
-#### Solo por medio de una correcta comprensión y conocimiento de la persona de Jesús, el creyente puede disfrutar verdaderamente de la vida.
+#### La comunión con Dios y Su Hijo y la comunión entre creyentes, viene por medio de la verdad. ¿Pero de que trata estar en comunión con Dios y el Hijo y estar en comunión unos a otros?
 
-#### ¿¿¿Muchos engañadores, por medio de falsificaciones de la vida, le quitan al creyente de llevar fruto para Dios, experimentando así el gozo de la vida.???
+### 1 Juan 1:4 – "*Les escribimos estas cosas para que nuestro gozo sea completo.*" Juan quiere que el regocijo de la vida que habían recibido, sea la verdad experiencial de cada creyente por medio de la participación (comunión) con Dios. Juan 10:10, 15:11
+
+#### Solo por medio de una correcta comprensión y conocimiento del Mensaje (Verbo) de Vida, el creyente puede disfrutar verdaderamente de la Vida.
+
+#### Muchos engañadores, por medio de falsificaciones de la Vida, le quitan al creyente de llevar fruto para Dios, experimentando así el gozo de la vida.
 
 #### Este gozo, es el gozo de Cristo, del que podemos participar. Juan 15:11 dice: “*Estas cosas les he hablado, para que Mi gozo esté en ustedes, y su gozo sea perfecto*”.
 
-#### La vida autentica nunca será vivida a parte de la persona de Jesucristo, por eso los apóstoles comunicaban este mensaje.
+#### La vida autentica nunca será vivida a parte del Mensaje de Vida, por eso los apóstoles lo comunicaban.
 
 #### Como maestros podemos llevar falsificaciones de plenitud de gozo, llevando a las personas un mensaje que no sea la persona de Jesucristo. 
 
-##### Hoy muchos basan sus vidas en lo que ellos hacen por Cristo, y esperan algún día experimentar el gozo de esto. Pero el verdadero gozo es el resultado de lo que Dios nos ha dado por medio de la persona de Jesucristo. 2 Pedro 1:3-4
+##### Hoy muchos basan la comunión con Dios por medio de lo que ellos hacen por Dios, y esperan algún día experimentar el gozo de esto. Pero el verdadero gozo solo viene por medio del mensaje de Vida dado por Dios solamente, Su Hijo. 2 Pedro 1:3-4
 
 # ASÍ COMO ÉL ESTÁ EN LUZ - EL ANDAR AUTÉNTICO DE LOS CREYENTES  
 
