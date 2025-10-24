@@ -101,19 +101,21 @@
 
 #### Cristo es el mensaje de Dios para la humanidad, y siempre lo ha sido. Jesús es el mensaje de Dios personificado. Es solamente a través de él que Dios comunica la vida a la humanidad. Juan 5:39
 
-### 1 Juan 1:2a - *y la vida se manifestó…se manifestó a nosotros…* Dios se encargó de mostrar la vida a través de la persona de Jesucristo. Dios es el que envía a su Hijo para revelar la vida a través de Él. Juan 1:18
+### 1 Juan 1: 2a - *"y la vida se manifestó [“fue manifestada” RV09]”* Dios se había encargado de enviar y revelar La Vida misma, la persona de Jesucristo a los discípulos y también a estos creyentes. Juan 1:18
 
-### 1 Juan 1:2b - *...nosotros la hemos visto, y damos testimonio y les anunciamos a ustedes la vida eterna*… el dar testimonio muestra el hecho de solamente ser testigos y estar comunicando una verdad no que han creado, sino una que han visto. Jesús dijo que sus discípulos serían testigos. Hechos 1:8
+### 1 Juan 1:2b - *"...nosotros la hemos visto, y damos testimonio y les anunciamos a ustedes la vida eterna..."* El dar testimonio muestra el hecho de solamente ser testigos y estar comunicando una verdad habían visto, no que habían creado. Ellos habían presenciado de primera mano al Hijo de Dios.
 
-#### En su evangelio Juan usa la palabra testimonio como validaciones al mensaje como una ayuda para hacerlo creíble, ya que es hecho visible a través del testimonio.
+#### Jesús dijo que sus discípulos serían testigos (Hechos 1:8).
 
-#### Hechos 4:20, aún amenazados los discípulos dijeron que no podían dejar de decir lo que habían visto y oído. Ellos se limitaron a comunicar un mensaje como testimonio, como testigos, no como originadores del mensaje.
+#### En su evangelio Juan usa la palabra testimonio como validaciones al mensaje que Cristo estaba anunciando, ya que el testimonio es confirmado por medio de lo visible. El hecho de que ellos estén anunciando un mensaje va en base a que fueron testigos de ver la Vida Eterna.
 
-#### La vida eterna no es un invento de los hombres, es algo que Dios mismo se encargó de manifestar a través de la persona de Jesucristo. Esta es una vida que va más allá de la muerte (hasta entonces, lo único que los hombres han podido conocer por experiencia). Juan 1:4
+#### Hechos 4:20, aún amenazados los discípulos dijeron que no podían dejar de decir lo que habían visto y oído. Ellos se limitaron a comunicar un mensaje como testigos, no como originadores del mensaje.
 
-### 1 Juan 1:2c *…la vida eterna que estaba con el Padre…* Como Jesús es esta vida, claramente Jesús no comenzó a existir desde su encarnación, él siempre estuvo con el Padre.
+#### La Vida Eterna no es un invento de los hombres, es algo que Dios mismo se encargó de manifestar a través de la persona de Jesucristo. Este testimonio (Jesucristo), va más allá de la muerte (hasta entonces, lo único que los hombres han podido conocer por experiencia). Juan 1:4
 
-#### A manera de testigos, los discípulos tenían la autoridad de anunciar la vida eterna, el ser proclamada es la razón por la cual Dios la manifestó. Juan 10:28
+### 1 Juan 1:2c *…la vida eterna que estaba con el Padre…* Como Jesús es esta Vida Eterna, claramente Él no comenzó a existir desde su encarnación, él siempre estuvo con el Padre.
+
+#### A manera de testigos, los discípulos tenían la autoridad de anunciar la Vida Eterna, el ser proclamada es la razón por la cual Dios la estaba manifestando. Juan 10:28
 
 ### 1 Juan 1:3a – "*Lo que hemos visto y oído les proclamamos también a ustedes,*" 
 
@@ -1167,26 +1169,24 @@
 
 ### 1 Juan 4:7 – *Amados, amémonos unos a otros, porque el amor es de Dios, y todo el que ama es nacido de Dios y conoce a Dios.*
 
-#### En lugar de mandar a amarnos, Juan mostrara que el amarnos es posible debido a que el amor procede de Dios, y él es capaz de producirlo en nuestras vidas a través de una comunión que él creyente disfruta con él.
-
-#### Juan ya ha enseñado que todo aquello que pidamos lo recibiremos, entonces, de él podemos recibir amor infinito para amar a los hermanos. Aunque no somos capaces de producir este amor de nosotros mismos, Dios puede otorgarlo en nuestras vidas a medida que permanecemos en él.
-
-#### Entonces Juan explica que si alguien está amando (*el que ama*), dos cosas son reales de este:
-
-##### Ha sido nacido de Dios, y continua siendo suyo.
-
-##### Conoce a Dios, o más precisamente, está conociendo a Dios.
-
-###### Juan aquí usa el verbo en tiempo presente, modo indicativo, mostrando que es algo que está pasando a la par del hecho de que está amando.
-
-###### Debido a que este creyente está permaneciendo en Cristo, y por lo tanto teniendo una comunión con Dios y Su Hijo, está participando de la vida de Cristo, está participando del amor, ya que el amor procede de Dios.
-
-###### El estar conociéndolo, habla de estar experimentando la comunión con Dios, no solamente alguien que ha nacido de nuevo, sino alguien que está experimentando esa nueva vida.
-
-### 1 Juan 4: 8a – *El que no ama, no conoce a Dios…*
-
-#### Juan ahora dice, no conoció a Dios. Esto muestra no el hecho de que no tiene una comunión con Dios, sino el hecho de que nunca la ha tenido.
-
+1.  1 Juan 4: 7 – *Amados, amémonos unos a otros, porque el amor es de Dios, y todo el que ama es nacido de Dios y conoce a Dios.*
+    1.  En lugar de mandar a amarnos, Juan mostrara que el amarnos es posible debido a que el amor procede de Dios, y él es capaz de producirlo en nuestras vidas a través de una comunión que él creyente disfruta con él.
+    
+    2.  Juan ya ha enseñado que todo aquello que pidamos lo recibiremos, entonces, de él podemos recibir amor infinito para amar a los hermanos. Aunque no somos capaces de producir este amor de nosotros mismos, Dios puede otorgarlo en nuestras vidas a medida que permanecemos en él.
+    
+    3.  Entonces Juan explica que si alguien está amando (*el que ama*), dos cosas son reales de este:
+    
+        1.  Ha sido nacido de Dios, y continua siendo suyo.
+    
+        2.  Conoce a Dios, o más precisamente, está conociendo a Dios.
+    
+            2.  Juan aquí usa el verbo en tiempo presente, modo indicativo, mostrando que es algo que está pasando a la par del hecho de que está amando.
+    
+            3.  Debido a que este creyente está permaneciendo en Cristo, y por lo tanto teniendo una comunión con Dios y Su Hijo, está participando de la vida de Cristo, está participando del amor, ya que el amor procede de Dios.
+    
+            4.  El estar conociéndolo, habla de estar experimentando la comunión con Dios, no solamente alguien que ha nacido de nuevo, sino alguien que está experimentando esa nueva vida.
+    
+2.  1 Juan 4:8a – *El que no ama, no conoce a Dios…*
 #### Un incrédulo no tiene la capacidad de amar, ya que no ha conocido a Dios, no ama, ya que el amor procede de Dios.
 
 #### Por el contrario, el creyente que está amando, no es solamente porque ha nacido de nuevo y esto es natural del creyente, sino porque está conociendo a Dios, está teniendo comunión con él, está participando por la fe de su vida, de quien es él, Dios es amor.
