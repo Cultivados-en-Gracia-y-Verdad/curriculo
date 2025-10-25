@@ -143,7 +143,7 @@
 ### 1 Juan 1:3b - "*...en verdad nuestra comunión es con el Padre y con su Hijo Jesucristo.*" Ese compañerismo al que quieren apuntar, es en realidad que los lectores puedan participar de esta sociedad (comunión) con el Padre y con su Hijo.
 #### Cuando Dios manifiesta la vida en la persona de Jesucristo, es porque quiere que participemos de El mismo. Es a través de Jesús, que somos compañeros y disfrutamos de esta intimidad, con Dios mismo.
 
-###### Andar en la luz no es el medio para ganar vida, sino la evidencia y expresión (externa) de haber recibido la vida.
+###### Andar en la luz no es el medio para ganar vida, sino la evidencia y expresión (externa) de estar conectado la vida.
 
 ##### Juan 1:5 *La Luz brilla en las tinieblas, y las tinieblas no la comprendieron.* La vida estaba en Cristo y El se manifestó a los hombres. 
 
