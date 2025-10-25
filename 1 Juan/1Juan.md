@@ -1,5 +1,5 @@
+___-___
 # 1 Juan
-
 ## **EL PUSO SU VIDA POR NOSOTROS**
 
 # **INTRODUCCIÓN **
@@ -182,7 +182,17 @@
 
 ## 1 Juan 1:5-10 – Juan demostrará objetivamente como alguien puede saber que su comunión con el Padre es como debe ser. 
 
-### Juan se incluye en la siguientes declaraciónes haciendo entender que todas estas son posibilidades reales en la vida de cualquier creyente. Si Decimos (1 Juan 1:6, 8, 10), si andamos, tenemos (1 Juan 1:7).
+### En los siguientes versículos, Juan demuestra la condición (el estado) del creyente. ¿Está en comunion o no? No es según su percepción de los hechos, sino basado en evidencias claras, puntuales que demuestran el verdadero estado de uno. 
+
+#### Debemos distinguir entre el estado de comunión de uno con la conducta de uno. No son la misma cosa en este pasaje. Juan usará la conducta (andar en tinieblas versus andar en luz) de uno para demostrar el estado de comunión con Dios. 
+
+#### En el primer siglo, andar era una metafora para decir como uno se conduce. Marcos 7:5; Hechos 21:21
+
+### Es importante mencionar que en ningún momento en esta sección enseña como volver a la comunión, como estar en comunión ni como se rompe la comunión con Dios. El simplemente está demostrando que el creyente puede saber si esta en comunión con Dios o no mediante estos síntomas. 
+
+#### No existe ningún imperativo en el capítulo 1 lo que demuestra que Juan no esta enseñando hacer algo para reestablecer la comunión con Dios. 
+
+#### Juan se incluye en la siguientes declaraciónes haciendo entender que todas estas son posibilidades reales en la vida de cualquier creyente. Si Decimos (1 Juan 1:6, 8, 10), si andamos, tenemos (1 Juan 1:7).
 
 ### 1 Juan 1:5a "*Y este es el mensaje que hemos oído de Él y que les anunciamos…*" Este mensaje procede de Cristo “*hemos oído de Él*” que habló a los Apóstoles. Este mismo mensaje es lo que ahora ellos les anuncian. Juan 1:4-9, 8:12, 9:4-5, 11:9-10
 
@@ -215,7 +225,7 @@
 
 #### Una de los aspectos mostrados en las escrituras acerca de la luz es el efecto que tienen sobre las tinieblas, ellas son desenmascaradas por medio de la luz. Fue Dios quien alumbró al mundo por medio de Jesucristo, ya que toda la humanidad está completamente perdida sin él. 2 Corintios 4:6
 
-## 1 Juan 1:6-10 Exponiendo comunión por medio de el andar de uno.
+## 1 Juan 1:6 El andar demostrando estar fuera de comunión
 
 ### 1 Juan 1:6a – "*Si decimos que tenemos comunión con Él, pero andamos en tinieblas,*" Juan va empezar a demostrar por medio de un síntoma claro de la verdadera condición de uno. Si decimos una cosa...pero...andamos en otra cosa...ambos no pueden ser ciertas. No puedes estar en comunión con Dios y andar en tinieblas porque Dios es luz y en Él no hay tinieblas.  
 
@@ -294,7 +304,10 @@ Podemos decir entonces que andar en tinieblas es no venir a la luz, en este caso
 
 ##### La práctica de la verdad no es el resultado de hacer una declaración de comunión, sino de como dice en el v7 *“andamos en la Luz”.*
 
+## 1 Juan 1:7 El andar demonstrando comunión con Dios
+
 ### 1 Juan 1:7a - *Pero si andamos en luz como él está en la luz…* aquí andamos en luz, mientras describe a Dios estando en la Luz. Solamente participamos de Su Luz, mientras andamos en ella. La luz de Dios, brilla en nosotros mientras nosotros andamos en Él.
+
 ### Andar en la luz es andar como el anduvo. 
 
 #### Tener comunión los unos con los otros es con otros hermanos, no con incrédulos. La comunión con Dios se manifiesta y se demuestra mediante la comunión con los cristianos. 1 Juan 4:7, 12, 3:11, 3:23
@@ -349,7 +362,7 @@ Podemos decir entonces que andar en tinieblas es no venir a la luz, en este caso
 
 #### Hay que notar que el autor está incluido también en la posibilidad de engañarse a sí mismo, creyendo la mentira de que no tenemos pecado. 1 Juan 4:1
 
-## Andando en luz es confesar nuestros pecados
+## 1 Juan 1:9 Permanecer en la luz es confesar nuestros pecados
 
 ### 1 Juan 1:9 – Contrario a aquel que niega el problema, está aquel que reconoce sus pecados. *Si confesamos nuestros pecados, Él es fiel y Justo para perdonarnos los pecados y para limpiarnos de toda maldad.*
 
@@ -359,27 +372,17 @@ Podemos decir entonces que andar en tinieblas es no venir a la luz, en este caso
 
 Existen 5 puntos de vista principales sobre la confesión de pecados. 
 
-> ### **Perspectiva #1: La confesión como medio para el perdón inicial**
->
-> #### En este punto de vista, la confesión es el reconocimiento del pecado que conduce al perdón inicial y la purificación en la conversión. «Si confesamos» se refiere a los incrédulos o a quienes llegan a la fe. 1 Juan 1:9 expresa la condición para la salvación: estar de acuerdo con Dios acerca del pecado y confiar en su purificación a través de Cristo. Una vez confesado, la persona queda purificada y entra en comunión con Dios.
->
->### **Perspectiva #2: La confesión como algo continuo para los creyentes** 
->
->#### En este punto de vista, la confesión es la admisión regular de pecados específicos que perturban la comunión, no la salvación. La confesión mantiene la comunión con Dios y permite a los creyentes "andar en la luz". El pecado no destruye la relación, sino que obstaculiza la comunión.
->
->### **Perspectiva #3: La confesión como evidencia de andar en la luz** 
->
->#### La confesión es una señal de vivir con sinceridad en la comunidad de creyentes. No es un acto ritual, sino parte de un estilo de vida honesto que concuerda con “andar en la luz”. Quien “anda en la luz” reconoce su pecado en lugar de ocultarlo. La confesión demuestra participación en la luz y contrasta con la hipocresía. La confesión funciona como un acto de verdad, no como un ritual. “Confesamos para vivir honestamente”. 
->
->### **Perspectiva #4: Confesión como corporativa o litúrgica** 
->
->#### En este punto de vista la confesión ocurre dentro de la comunidad (“confesamos”), como parte de la vida y el culto compartidos. Mantiene la pureza y la comunión comunitarias mediante el reconocimiento mutuo. Los verbos en plural (“confesamos… tenemos comunión…”) implican confesión corporativa. Vinculado a la confesión pública o mutua practicada en las asambleas cristianas primitivas.
->
->### **Perspectiva #5: La confesión como alineación con la verdad** 
->
->#### En este punto de vista, la confesión es estar de acuerdo con la luz de Dios, viviendo así en la realidad tal como Dios la define. No es una condición para el perdón, sino una manifestación de que ya se vive en la verdad. «Si confesamos» describe el carácter de quienes están en la luz: quienes dicen la verdad en lugar de negar el pecado. El perdón es la acción divina continua que acompaña a esta veracidad. “Confesamos porque vivimos en la verdad”.[^2]
+> ### **Perspectiva #1: La confesión como medio para el perdón inicial**: La confesión es el reconocimiento del pecado que conduce al perdón inicial y la purificación en la conversión.  Confesión de pecados expresa la condición para la salvación: estar de acuerdo con Dios acerca del pecado y confiar en su purificación a través de Cristo. Una vez confesado, la persona queda purificada y entra en comunión con Dios.
 
-### 1 Juan 1:9a – *“Si confesamos nuestros pecados”.* Primero debemos notar que esto no es un imperativo, sino es algo que podría estar pasando (subjuntivo). El autor expresa el deseo de que este sea el caso de todos, incluyéndolo.
+>### **Perspectiva #2: La confesión como algo continuo para los creyentes**: La confesión es la admisión regular de pecados específicos que perturban la comunión, no la salvación. La confesión mantiene la comunión con Dios y permite a los creyentes "andar en la luz". El pecado no destruye la relación, sino que obstaculiza la comunión.
+
+>### **Perspectiva #3: La confesión como evidencia de andar en la luz**: La confesión es una señal de vivir con sinceridad en la comunidad de creyentes. No es un acto ritual, sino parte de un estilo de vida honesto que concuerda con “andar en la luz”. Quien “anda en la luz” reconoce su pecado en lugar de ocultarlo. La confesión demuestra participación en la luz y contrasta con la hipocresía. La confesión funciona como un acto de verdad, no como un ritual. “Confesamos para vivir honestamente”. 
+
+>### **Perspectiva #4: Confesión como corporativa o litúrgica**: La confesión ocurre dentro de la comunidad como parte de la vida y el culto compartidos. Mantiene la pureza y la comunión comunitaria mediante el reconocimiento mutuo. Los verbos en plural (“confesamos…tenemos…”) implican confesión corporativa. Vinculado a la confesión pública o mutua practicada en las asambleas cristianas primitivas.
+
+>### **Perspectiva #5: La confesión como alineación con la verdad**: La confesión es estar de acuerdo con la luz de Dios, viviendo así en la realidad tal como Dios la define. No es una condición para el perdón, sino una manifestación de que ya se vive en la verdad. Describe el carácter de quienes están en la luz: quienes dicen la verdad en lugar de negar el pecado. El perdón es la acción divina continua que acompaña a esta veracidad. “Confesamos porque vivimos en la verdad”.[^2]
+
+### 1 Juan 1:9a – *“Si confesamos nuestros pecados”.*  El autor expresa el deseo de que este sea el caso de todos, incluyéndolo. Debemos notar que esto no es un imperativo, sino es algo que podría estar pasando (subjuntivo).
 
 ### Aquel que contrario a negar está reconociendo su pecado, no solamente el problema, sino las obras del pecado; pecados en plural.
 
@@ -399,9 +402,11 @@ Existen 5 puntos de vista principales sobre la confesión de pecados.
 
 #### Para poder participar de la cena del Señor. 
 
-#### La confesión es una palabra que equivale literalmente a decir lo mismo, es decir, el que confiesa no relata el pecado cometido, que ya es conocido por Dios, sino que se identifica con lo que Él evalua como pecado. El que confiesa dice lo mismo que dice Dios, que la acción o las acciones son pecado. 
+#### "*Confesión*" HOMOLOGEO es una palabra que equivale literalmente decir lo mismo. Es decir, el que confiesa no relata el pecado cometido, sino que se identifica con lo que Dios evalua como pecado. El que confiesa dice lo mismo que dice Dios. Es estar de acuerdo con lo que Dios dice de que la acción o las acciones son pecado. 
 
-La confesión de pecado es estar de acuerdo con Dios con lo que Su evaluación de lo que es pecado. Es reconocer nuestro pecado a la luz de lo que Dios dice. Es estando en la luz que señala nuestro pecado y al andar en la luz lo confesamos. 
+##### Al confesar nuestros pecados, admitimos culpabilidad y no lo negamos. Andando en la luz somos señalados nuestros pecados y lo confesamos. Esto es parte de continuar andando en la luz. 
+
+##### No admitir nuestro pecado es encubrirlo y al hacerlo andamos en falsedad. No andamos según lo que es la luz. Después de haber sido expuesto por la luz e ignorarlo, lo hacemos a Él mentiroso. No estaríamos yendo conforme a la verdad. 
 
 #### Cómo hemos visto antes, para Juan, es la luz la que pone al descubierto nuestras obras, Juan 3:19-21. ¿Entonces cuál es la verdad que lleva al creyente a confesar sus pecados (expuestos por la luz)?
 
@@ -433,6 +438,8 @@ La confesión de pecado es estar de acuerdo con Dios con lo que Su evaluación d
 
 #### Un creyente que está pecando no es porque Dios no está participando en su vida (Dios nunca deja de ser fiel y justo para perdonar nuestros pecados y limpiarnos de toda maldad), sino porqué él no está andando en luz, y por lo tanto no participa de la vida de Dios y de su Hijo.
 
+## 1 Juan 1:10 Negar nuestro pecado demuestra un andar en tinieblas
+
 ### 1 Juan 1:10 – *Si decimos que no hemos pecado, lo hacemos a él mentiroso y su Palabra no está en nosotros.* En esta última condición, Juan presenta el caso de alguien que termina haciendo a Dios mentiroso. Primero mentimos v6, luego nos engañamos a nosotros mismos v8, pero luego nos oponemos directamente a Dios, llamándolo mentiroso, contradiciendo su Palabra.
 
 #### Claramente las tinieblas pueden llegar a cegar a alguien y no permitirle ver el problema en el que está metido (1 Juan 2:11). El pecado puede llegar a ser un problema para el creyente, pero no porque este no tenga solución, sino porque el creyente no camina a la luz de ella.
@@ -445,7 +452,7 @@ La confesión de pecado es estar de acuerdo con Dios con lo que Su evaluación d
 
 ## 1 Juan 2:1-6 – Las provisión de Dios para una vida, y cómo esta se ve
 
-### 1 Juan 2:1-6 – Juan ahora va a mostrar como Cristo es la solución para nuestros pecados, y en Él se halla el poder para andar en victoria sobre él. Juan nos mostrará los resultados de su intercesión, el conocerlo. ***  
+### 1 Juan 2:1-6 – Juan ahora va a mostrar como Cristo es la solución para nuestros pecados, y en Él se halla el poder para andar en victoria sobre él. Juan nos mostrará los resultados de su intercesión, el conocerlo. 
 
 ***
 
