@@ -216,7 +216,8 @@
 #### Una de los aspectos mostrados en las escrituras acerca de la luz es el efecto que tienen sobre las tinieblas, ellas son desenmascaradas por medio de la luz. Fue Dios quien alumbró al mundo por medio de Jesucristo, ya que toda la humanidad está completamente perdida sin él. 2 Corintios 4:6
 
 ## 1 Juan 1:6-10 Exponiendo comunión por medio de el andar de uno.
-### 1 Juan 1:6a – "*Si decimos que tenemos comunión con Él, pero andamos en tinieblas,*" Juan va empezar a demostrar medio de un síntoma claro que demuestra la verdadera condición de uno. Si decimos una cosa...pero...andamos en otra cosa...ambos no pueden ser ciertas. No puedes estar en comunión con Dios y andar en tinieblas porque Dios es luz y en Él no hay tinieblas.  
+
+### 1 Juan 1:6a – "*Si decimos que tenemos comunión con Él, pero andamos en tinieblas,*" Juan va empezar a demostrar por medio de un síntoma claro de la verdadera condición de uno. Si decimos una cosa...pero...andamos en otra cosa...ambos no pueden ser ciertas. No puedes estar en comunión con Dios y andar en tinieblas porque Dios es luz y en Él no hay tinieblas.  
 
 ##### Juan 8:12 *Jesús les habló otra vez, diciendo: «Yo soy la Luz del mundo; el que me sigue **no andará en tinieblas**, sino que tendrá la Luz de la vida».*
 
