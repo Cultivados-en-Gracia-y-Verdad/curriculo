@@ -191,9 +191,9 @@
 
 # 1 Juan 1:5-10 EXHIBIENDO LOS ATRIBUTOS DE DIOS Y MINISTERIO DE CRISTO
 
-## 1 Juan 1:5-10 – por medio de varias comparaciones Juan va a mostrar como la vida autentica es el resultado de lo que Cristo es en y para nosotros. La comunión no se puede fingir, sino que es el resultado de la luz (v7), y la fidelidad y justicia de Dios para con nosotros (v9).
+## 1 Juan 1:5-10 – Juan demostrará objetivamente como alguien puede saber que su comunión con el Padre es como debe ser. 
 
-## Muchas de estas declaraciones no son explicadas por Juan, simplemente mencionadas como alguien que entiende sus definiciones, a medida que se vayan mencionando trataremos de explicarlas.
+### Juan se incluye en la siguientes declaraciónes haciendo entender que todas estas son posibilidades reales en la vida de cualquier creyente. Si Decimos (1 Juan 1:6, 8, 10), si andamos, tenemos (1 Juan 1:7).
 
 ### 1 Juan 1:5a "*Y este es el mensaje que hemos oído de Él y que les anunciamos…*" Este mensaje procede de Cristo “*hemos oído de Él*” que habló a los Apóstoles. Este mismo mensaje es lo que ahora ellos les anuncian. Juan 1:4-9, 8:12, 9:4-5, 11:9-10
 
@@ -209,12 +209,6 @@
 
 #### Juan 8:12 *Jesús les habló otra vez, diciendo: «Yo soy la Luz del mundo; el que me sigue no andará en tinieblas, sino que tendrá la **Luz de la vida**».*
 
-#### 
-
-#### Jesús se identificó a sí mismo como la luz, Ya que Jesús es Dios, y para Juan claramente Jesús es Dios, comenzará aquí diciendo Dios es luz, ya que tanto Dios, como Jesús, son la Luz. Muestra esto no como un atributo que Dios tiene, sino como lo que Él es. 
-
-##### 
-
 ###### Jesús se refirió a si mismo como la Luz.  El es la Luz que vino al mundo. “*Luz del mundo*” en Juan se refiere a la autorrevelación de Dios en acción: en verdad, pureza y vida, revelada a través de la Palabra. 
 
 ###### Luz es la manifestación de Su Vida para la percepción del mundo. Juan 1:4-5
@@ -227,8 +221,6 @@
 
 ###### Juan 12:46 *Yo, la Luz, he venido al mundo, para que todo el que cree en Mí no permanezca en tinieblas.*
 
-
-
 #### Las tinieblas no pueden existir en Dios, sería una mejor traducción de en El no hay ninguna tiniebla. Estos son puestos, y ya que Él es luz, no pueden ser ambas en la misma persona. No hay ninguna chance de que engaño, error, maldad o pecado existan en Dios, por lo tanto nada de esto proviene de Dios.
 
 #### Jesús estando en el mundo, luz era para el mundo; Jesús siendo proclamado está siendo luz para todos aquellos que oyen. El, alumbra la vida eterna que el Padre comunicó a la humanidad.
@@ -239,9 +231,15 @@
 
 ### 1 Juan 1:6a – "*Si decimos que tenemos comunión con Él, pero andamos en tinieblas,*" Juan va empezar a demostrar medio de un síntoma claro que demuestra la verdadera condición de uno. Si decimos una cosa...pero...andamos en otra cosa...ambos no pueden ser ciertas. No puedes estar en comunión con Dios y andar en tinieblas porque Dios es luz y en Él no hay tinieblas.  
 
+No es posible que alguien verdaderamente tenga comunión con Dios mientras camina en tinieblas. Para comprender esto mejor, sería bueno poder definir que es para Juan andar en luz y andar en tinieblas.
+
+Podemos decir entonces que andar en tinieblas es no venir a la luz, en este caso Cristo. Mientras las personas están separadas de la fuente de vida, nunca puede haber vida en ellas. Por lo tanto, son las tinieblas las que operan en aquella persona.
+
 ##### Juan 8:12 *Jesús les habló otra vez, diciendo: «Yo soy la Luz del mundo; el que me sigue **no andará en tinieblas**, sino que tendrá la Luz de la vida».*
 
 ### 1 Juan 1:6a "*...mentimos y no practicamos la verdad*".  El síntoma de no estar en comunión con Dios es uno que anda en tinieblas. Si pensamos que estamos en comunión con Dios y demostramos lo que no proviene de Dios (tinieblas) entonces nos estamos mintiendo y no estamos alineados a la verdad. 
+
+#### Mentimos porque decimos estar en comunión con Dios pero no lo estamos. Esto es demostrable porque estamos andando en tinieblas. 
 
 #### El doctor es educado para detectar síntomas para saber cual es la enfermedad y tratarlo adecuadamente. Nosotros de similar manera debemos ser entrenados para detectar síntomas que demuestran nuestro estado espiritual para no quedarnos engañados. 
 
@@ -253,33 +251,19 @@
 
 ##### Si no estás alineado con la verdad y andas en falsedad, estas andando en tinieblas. 1 Juan 1:6
 
+##### Si dices que no pecas, la verdad no está en ti y estás andando en tinieblas. 1 Juan 1:8, 10
+
 ##### Si te falta dirección espiritual y no sabes a donde vas, estás andando en tinieblas. Juan 12:35
 
-##### Si odias a tu hermano estás caminando en tinieblas. 1 Juan 2:11
+##### Si odias a tu hermano estás caminando en tinieblas. 1 Juan 2:11, 4:20
 
-### 1 Juan 1:6a *Pero si andamos en luz como él está en la luz, tenemos comunión los unos con los otros, y la sangre de Jesús su Hijo nos limpia de todo pecado.*" En contraste a no estar en comunión, Juan presenta evidencia real de estar en comunión con Dios. 
+### En Juan 3:19-21 podemos ver cómo para Juan los que hacen lo malo aborrecen y temen a la luz, ya que esta expone sus obras. Contrariamente, aquel cuyas obras han sido **hechas en Dios,** viene a la luz. Este es el que practica la verdad.
 
-#### Andar en la luz proviene de Aquél que esta en luz. Demuestra estar en comunión con Dios. Andar en la luz no es el medio para ganar vida, sino la evidencia y expresión de estar conectado a la Vida. Juan 1:4-5, 8:12
-
-#### Tener comunión los unos con los otros nos demuestra estar en comunion con Dios. 
-
-#### La sangre de Jesús limpiandonos de todo pecado (presente y contínuo) evidencia estar en comunión con Dios. 
-
-
-
-### **Juan 3**
+#### Juan 3:19 *Y este es el juicio: que la Luz vino al mundo, y los hombres amaron más las tinieblas que la Luz, pues sus acciones eran malas.*
 
 #### Juan 3:20 *Porque todo el que hace lo malo odia la Luz, y no viene a la Luz para que sus acciones no sean expuestas.*
 
-#### Juan 3:21 *Pero el que practica la verdad viene a la Luz, para que sus acciones sean manifestadas que han sido hechas en Dios».*
-
-#### Por medio de esta primer comparación Juan demostrara como la vida autentica de comunión y limpia de pecados, es el resultado de un andar en luz. Esta condición esta en plural, indicando que ellos podrían hacer tal declaración, pero esta sería solo una mentira si sus vidas no lo respaldaban. No dice: “los que dicen”.
-
-#### No es posible que alguien verdaderamente tenga comunión con Dios mientras camina en tinieblas. Para comprender esto mejor, sería bueno poder definir que es para Juan andar en luz y andar en tinieblas.
-
-##### En Juan 3:19-21 podemos ver cómo para Juan los que hacen lo malo aborrecen y temen a la luz, ya que esta expone sus obras. Contrariamente, aquel cuyas obras han sido **hechas en Dios,** viene a la luz. Este es el que practica la verdad.
-
-#### Podemos decir entonces que andar en tinieblas es no venir a la luz, en este caso Cristo. Mientras las personas están separadas de la fuente de vida, nunca puede haber vida en ellas. Por lo tanto, son las tinieblas las que operan en aquella persona.
+#### Juan 3:21*Pero el que practica la verdad viene a la Luz, para que sus acciones sean manifestadas que han sido hechas en Dios».*
 
 #### Las tinieblas son descritas en la Biblia como el dominio bajo el cual viven los incrédulos andan. Hechos 26:18, Colosenses 1:12-13
 
@@ -291,9 +275,31 @@
 
 ##### La práctica de la verdad no es el resultado de hacer una declaración de comunión, sino de como dice en el v7 *“andamos en la Luz”.*
 
-### 1 Juan 1:7a - *Pero si andamos en luz como él está en la luz…* aquí andamos en luz, mientras describe a Dios estando en la Luz. Solamente participamos de Su Luz, mientras andamos en ella. La luz de Dios, brilla en nosotros mientras nosotros andamos en Él.
+### 1 Juan 1:6a *Pero si andamos en luz como él está en la luz,* En contraste a andar en tinieblas, Juan presenta evidencia real de estar en comunión con Dios. 
 
-## Como resultado de andar en luz, la vida de los creyentes resultará en:
+1 Juan 1:7a - *Pero si andamos en luz como él está en la luz…* aquí andamos en luz, mientras describe a Dios estando en la Luz. Solamente participamos de Su Luz, mientras andamos en ella. La luz de Dios, brilla en nosotros mientras nosotros andamos en Él.
+
+### Andar en la luz es andar como el anduvo. 
+
+#### Tener comunión los unos con los otros es con otros hermanos, no con incrédulos. La comunión con Dios se manifiesta y se demuestra mediante la comunión con los cristianos. 1 Juan 4:7, 12, 3:11, 3:23
+
+#### Andar en la luz proviene de Aquél que esta en luz. Demuestra estar en comunión con Dios. Andar en la luz no es el medio para ganar vida, sino la evidencia y expresión de estar conectado a la Vida. Juan 1:4-5, 3:20-21
+
+#### Entonces, ¿cómo se que estoy andando en luz?
+
+##### Tener comunión con los hermanos demuestra un andar en la luz. 1 Juan 1:3, 7, 4:20, 2:10
+
+##### Confieso mis pecados. Estoy de acuerdo con Dios que peco, confieso haber pecado, reconozco mi pecado, esto es evidencia de andar en la luz. 1 Juan 1:9
+
+##### Experimentamos limpieza de todo pecado (presente y contínuo). 
+
+##### Seguimos a Jesús. Juan 8:12
+
+##### Creemos en la luz. Juan 12:36
+
+##### Haces la voluntad de Dios. Eres un hacedor de la verdad. 1 Juan 2:17
+
+##### Andas como el anduvo. 1 Juan 2:6
 
 ### 1 Juan 1:7b - *...tenemos comunión los unos con los otros…* Es interesante notar que Juan aquí dice que la comunión que tenemos con Dios es vista en la comunión que tenemos los unos con los otros. Un creyente que no participa de la vida de otros, según Juan, es porque no está participando de la Luz de Dios.
 
@@ -301,9 +307,13 @@
 
 #### En las escrituras podemos ver numerosas formas en la que los creyentes pueden participar de la vida de otros. Juan más adelante nos mostrara lo que estar amándonos los unos a los otros. Romanos 13:8, 14:19, 15:5,7,14, 16:16, 1 Corintios 12:25, Gálatas 5:13, 6:2, Efesios 4:2,32, 5:21, Filipenses 2:3, Colosenses 3:13, 1 Tesalonicenses 4:18, 1 Pedro 4:9
 
-### 1 Juan 1:7c - …*y la sangre de Jesús su Hijo nos limpia de todo pecado.* Una vida limpia de todo pecado, es el resultado de andar en luz, ya que estamos viviendo por el poder de la sangre de Cristo.
+### 1 Juan 1:7c - "…*y la sangre de Jesús su Hijo nos limpia de todo pecado.*" Una vida limpia de todo pecado, es el resultado de andar en luz, ya que estamos viviendo por el poder de la sangre de Cristo.
 
-#### Vemos aquí un uso de Juan del pecado en singular, que al igual que en los escritos de Pablo hará una distinción como la fuente de los pecados, y no los pecados en sí. Por medio del sacrificio de Cristo podemos ser limpios de todo pecado, solamente como resultado de andar en la luz.
+#### Habitualmente en el presente (presente, activo, indicativo) nos limpia de toda forma de expresión de pecado. Vease el uso de "*todo*" en otros pasajes: Santiago 1:2; 2 Corintios 7:12; Efesios 1:8; 2 Pedro 1:5
+
+#### Por medio de esta primera comparación Juan demostrará como la vida autentica de comunión entre hermanos y limpieza de pecados, es el resultado de un andar en luz. 
+
+#### Esta condición esta en plural, indicando que ellos podrían hacer tal declaración, pero esta sería solo una mentira si sus vidas no lo respaldaban. No dice: “los que dicen”.
 
 #### Solamente la muerte de Cristo pudo proveer la vitoria al creyente sobre el pecado. Nadie puede vivir una vida limpia de todo pecado si no fuera por la muerte y resurrección de Jesús.
 
@@ -320,8 +330,6 @@
 ### 1 Juan 1:8  *y la verdad no está en nosotros.* Es uno mismo el que se engaña, tratando de negar un problema que todo el mundo tiene: pecado. Juan no va a enseñar la erradicación del pecado en la vida de los creyentes.
 
 #### Aquí Juan quiere presentar un problema, que aquel que decida negarlo vive engañándose a sí mismo.
-
-#### El problema es que todos tenemos una fuente de pecado dentro de nosotros. Por ahora Juan solamente muestra el problema. Romanos 6:1
 
 #### Hay que notar que el autor está incluido también en la posibilidad de engañarse a sí mismo, creyendo la mentira de que no tenemos pecado. 1 Juan 4:1
 
