@@ -103,6 +103,10 @@
 
 ### 1 Juan 1:2a - *"y la vida se manifestó* [fue manifestada RV09]”* Dios se había encargado de enviar y revelar La Vida misma, la persona de Jesucristo a los discípulos y también a estos creyentes. Juan 1:18
 
+#### En el evanglio de Juan, la luz es asociada con vida.  Según Juan, la luz proviene de la vida. La vida se revela como luz. La vida es la fuente. Luz es la manifestación de esa vida. 
+
+##### Juan 1:4 *En Él estaba la vida, y la **vida era la Luz** de los hombres.* Aquí la luz se presenta como la manifestación (o expresión exterior) de la vida. 1 Juan 1:1-2
+
 ### 1 Juan 1:2b - *"...nosotros la hemos visto, y damos testimonio y les anunciamos a ustedes la vida eterna..."* El dar testimonio muestra el hecho de solamente ser testigos y estar comunicando una verdad habían visto, no que habían creado. Ellos habían presenciado de primera mano al Hijo de Dios.
 
 #### Jesús dijo que sus discípulos serían testigos (Hechos 1:8).
@@ -117,7 +121,11 @@
 
 #### A manera de testigos, los discípulos tenían la autoridad de anunciar la Vida Eterna, el ser proclamada es la razón por la cual Dios la estaba manifestando. Juan 10:28
 
+<<<<<<< Updated upstream
 ### 1 Juan 1:3a – "*"Lo que hemos visto y oído les proclamamos también a ustedes,..."* Observamos que La Vida Eterna, El Verbo de Vida, había sido revelado claramente por el Padre a los apóstoles, lo habían visto y oído. 
+=======
+### 1 Juan 1:3a – "*Lo que hemos visto y oído les proclamamos también a ustedes,*" ¿qué habían visto? habían visto la vida manifiesta por la luz. 
+>>>>>>> Stashed changes
 
 #### Juan toma los primeros 2 versículos para anunciar El Mensaje de Vida, lo que les había sido revelado a ellos, ahora lo estarán anunciando a sus lectores. ¿Porqué era tan importante que sepan este Mensaje? 
 
@@ -135,7 +143,23 @@
 
 #### Que los lectores lleguen a tener comunión unos a otros, participar juntos de un mismo propósito vendría solamente por medio del Mensaje de Dios que les estaba siendo anunciado. Los apóstoles solo anunciaban lo que habían recibido.
 
+<<<<<<< Updated upstream
 ### 1 Juan 1:3b - "*...en verdad nuestra comunión es con el Padre y con su Hijo Jesucristo.*" Ese compañerismo al que quieren apuntar, es en realidad que los lectores puedan participar de esta sociedad (comunión) con el Padre y con su Hijo.
+=======
+#### Cuando Dios manifiesta la vida en la persona de Jesucristo, es porque quiere que participemos de El mismo. Es a través de Jesús, que somos compañeros y disfrutamos de esta intimidad, con Dios mismo.
+
+###### Andar en la luz no es el medio para ganar vida, sino la evidencia y expresión (externa) de haber recibido la vida.
+
+##### Juan 1:5 *La Luz brilla en las tinieblas, y las tinieblas no la comprendieron.* La vida estaba en Cristo y El se manifestó a los hombres. 
+
+##### Juan 1:9 *Existía la Luz verdadera que, al venir al mundo, alumbra a todo hombre.*
+
+##### Juan 1:14 El Verbo se hizo carne, y habitó entre nosotros, y vimos Su gloria, gloria como del unigénito del Padre, lleno de gracia y de verdad.
+
+#### Para Juan la comunión es el resultado de lo que Dios ha manifestado en la persona de Jesucristo. Por lo tanto, Jesús es el que hace posible la comunión del creyente con Dios.
+
+#### Si nuestro mensaje no es la persona de Jesucristo, nunca podremos llevar a una verdadera comunión con Dios a las personas que estamos tratando de enseñar.
+>>>>>>> Stashed changes
 
 #### Hoy muchos entienden y enseñan la comunión como algo que estamos haciendo para estar bien con Dios. 
 
@@ -147,11 +171,15 @@
 
 #### La comunión con Dios y Su Hijo y la comunión entre creyentes, viene por medio de la verdad. ¿Pero de que trata estar en comunión con Dios y el Hijo y estar en comunión unos a otros?
 
+<<<<<<< Updated upstream
 ### 1 Juan 1:4 – "*Les escribimos estas cosas para que nuestro gozo sea completo.*" Juan quiere que el regocijo de la vida que habían recibido, sea la verdad experiencial de cada creyente por medio de la participación (comunión) con Dios. Juan 10:10, 15:11
 
 #### Solo por medio de una correcta comprensión y conocimiento del Mensaje (Verbo) de Vida, el creyente puede disfrutar verdaderamente de la Vida.
 
 #### Muchos engañadores, por medio de falsificaciones de la Vida, le quitan al creyente de llevar fruto para Dios, experimentando así el gozo de la vida.
+=======
+#### Muchos engañadores, al falsificar la vida, prohiben al creyente de andar en la luz y llevar fruto para Dios. 
+>>>>>>> Stashed changes
 
 #### Este gozo, es el gozo de Cristo, del que podemos participar. Juan 15:11 dice: “*Estas cosas les he hablado, para que Mi gozo esté en ustedes, y su gozo sea perfecto*”.
 
@@ -161,17 +189,45 @@
 
 ##### Hoy muchos basan la comunión con Dios por medio de lo que ellos hacen por Dios, y esperan algún día experimentar el gozo de esto. Pero el verdadero gozo solo viene por medio del mensaje de Vida dado por Dios solamente, Su Hijo. 2 Pedro 1:3-4
 
-# ASÍ COMO ÉL ESTÁ EN LUZ - EL ANDAR AUTÉNTICO DE LOS CREYENTES  
+# 1 Juan 1:5-10 EXHIBIENDO LOS ATRIBUTOS DE DIOS Y MINISTERIO DE CRISTO
 
 ## 1 Juan 1:5-10 – por medio de varias comparaciones Juan va a mostrar como la vida autentica es el resultado de lo que Cristo es en y para nosotros. La comunión no se puede fingir, sino que es el resultado de la luz (v7), y la fidelidad y justicia de Dios para con nosotros (v9).
 
 ## Muchas de estas declaraciones no son explicadas por Juan, simplemente mencionadas como alguien que entiende sus definiciones, a medida que se vayan mencionando trataremos de explicarlas.
 
-### 1 Juan 1:5a *Y este es el mensaje que hemos oído de Él y que les anunciamos…* Cuando Dios hablo por medio de Jesucristo, los discípulos oyeron claramente un mensaje. Este mensaje procede de Cristo “*hemos oído de Él*”*.* Juan 1:4-9, 8:12, 9:4-5, 11:9-10
+### 1 Juan 1:5a "*Y este es el mensaje que hemos oído de Él y que les anunciamos…*" Este mensaje procede de Cristo “*hemos oído de Él*” que habló a los Apóstoles. Este mismo mensaje es lo que ahora ellos les anuncian. Juan 1:4-9, 8:12, 9:4-5, 11:9-10
 
-### 1 Juan 1:5b "…*Dios es luz y en el no hay ninguna tiniebla.*"
+### 1 Juan 1:5b "…*Dios es luz y en el no hay ninguna tiniebla.*" Luz es una metáfora del Antiguo Testamento que habla del caracter de Dios. Dios es luz habla de ser puro, santo y justo. Dios es perfecto. Salmo 4:6; Isaias 60:1-2
+
+### En el evanglio de Juan, la luz es asociada con vida y ambos en Cristo. 
+
+#### Juan 1:4 *En Él estaba la vida, y la **vida era la Luz** de los hombres.* Aquí la luz se presenta como ser la manifestación (o expresión exterior) de la vida. 1 Juan 1:1-2
+
+##### La vida se revela como luz.  La vida es la fuente. Luz es la manifestación de esa vida. 
+
+#### Juan 1:5 *La Luz brilla en las tinieblas, y las tinieblas no la comprendieron.* La vida estaba en Cristo y El se manifestó a los hombres. 
+
+#### Juan 8:12 *Jesús les habló otra vez, diciendo: «Yo soy la Luz del mundo; el que me sigue no andará en tinieblas, sino que tendrá la **Luz de la vida**».*
+
+#### 
 
 #### Jesús se identificó a sí mismo como la luz, Ya que Jesús es Dios, y para Juan claramente Jesús es Dios, comenzará aquí diciendo Dios es luz, ya que tanto Dios, como Jesús, son la Luz. Muestra esto no como un atributo que Dios tiene, sino como lo que Él es. 
+
+##### 
+
+###### Jesús se refirió a si mismo como la Luz.  El es la Luz que vino al mundo. “*Luz del mundo*” en Juan se refiere a la autorrevelación de Dios en acción: en verdad, pureza y vida, revelada a través de la Palabra. 
+
+###### Luz es la manifestación de Su Vida para la percepción del mundo. Juan 1:4-5
+
+##### El mundo en tinieblas es la humanidad necesitada de iluminación.
+
+###### Juan 1:9 *Existía la Luz verdadera que, al venir al mundo, alumbra a todo hombre.*
+
+###### Juan 3:19 *Y este es el juicio: que la Luz vino al mundo, y los hombres amaron más las tinieblas que la Luz, pues sus acciones eran malas.*
+
+###### Juan 12:46 *Yo, la Luz, he venido al mundo, para que todo el que cree en Mí no permanezca en tinieblas.*
+
+
 
 #### Las tinieblas no pueden existir en Dios, sería una mejor traducción de en El no hay ninguna tiniebla. Estos son puestos, y ya que Él es luz, no pueden ser ambas en la misma persona. No hay ninguna chance de que engaño, error, maldad o pecado existan en Dios, por lo tanto nada de esto proviene de Dios.
 
@@ -179,7 +235,43 @@
 
 #### Una de los aspectos mostrados en las escrituras acerca de la luz es el efecto que tienen sobre las tinieblas, ellas son desenmascaradas por medio de la luz. Fue Dios quien alumbró al mundo por medio de Jesucristo, ya que toda la humanidad está completamente perdida sin él. 2 Corintios 4:6
 
-### 1 Juan 1:6-7 – "*Si decimos que tenemos comunión con Él, pero andamos en tinieblas, mentimos y no practicamos la verdad*. *Pero si andamos en luz como él está en la luz, tenemos comunión los unos con los otros, y la sangre de Jesús su Hijo nos limpia de todo pecado.*"
+## 1 Juan 1:6-10 Exponiendo comunión por medio de el andar de uno.
+
+### 1 Juan 1:6a – "*Si decimos que tenemos comunión con Él, pero andamos en tinieblas,*" Juan va empezar a demostrar medio de un síntoma claro que demuestra la verdadera condición de uno. Si decimos una cosa...pero...andamos en otra cosa...ambos no pueden ser ciertas. No puedes estar en comunión con Dios y andar en tinieblas porque Dios es luz y en Él no hay tinieblas.  
+
+##### Juan 8:12 *Jesús les habló otra vez, diciendo: «Yo soy la Luz del mundo; el que me sigue **no andará en tinieblas**, sino que tendrá la Luz de la vida».*
+
+### 1 Juan 1:6a "*...mentimos y no practicamos la verdad*".  El síntoma de no estar en comunión con Dios es uno que anda en tinieblas. Si pensamos que estamos en comunión con Dios y demostramos lo que no proviene de Dios (tinieblas) entonces nos estamos mintiendo y no estamos alineados a la verdad. 
+
+#### El doctor es educado para detectar síntomas para saber cual es la enfermedad y tratarlo adecuadamente. Nosotros de similar manera debemos ser entrenados para detectar síntomas que demuestran nuestro estado espiritual para no quedarnos engañados. 
+
+##### Los gnósticos afirmaban, "*tenemos comunión con Él*" (1 Juan 1:6), que "*no tenemos pecado*" (1 Juan 1:8), que "*no hemos pecado*" (1 Juan 1:10). Creían poseer una justicia especial aparte de la sangre purificadora de Cristo (cf. 1 Juan 1:7, 1:9), además creían practicar continuamente la justicia (cf. 1 Juan 3:7). 
+
+###### Ireneo dice respecto a los gnósticos: «Y cometiendo muchas otras abominaciones e impiedades, nos tachan de personas completamente despreciables e ignorantes, mientras que ellos se exaltan a sí mismos y afirman ser perfectos, y la semilla elegida»[^1]
+
+#### Entonces, ¿cómo reconocer que estoy andando en tinieblas? Juan lo demuestra de las siguientes maneras. 
+
+##### Si no estás alineado con la verdad y andas en falsedad, estas andando en tinieblas. 1 Juan 1:6
+
+##### Si te falta dirección espiritual y no sabes a donde vas, estás andando en tinieblas. Juan 12:35
+
+##### Si odias a tu hermano estás caminando en tinieblas. 1 Juan 2:11
+
+### 1 Juan 1:6a *Pero si andamos en luz como él está en la luz, tenemos comunión los unos con los otros, y la sangre de Jesús su Hijo nos limpia de todo pecado.*" En contraste a no estar en comunión, Juan presenta evidencia real de estar en comunión con Dios. 
+
+#### Andar en la luz proviene de Aquél que esta en luz. Demuestra estar en comunión con Dios. Andar en la luz no es el medio para ganar vida, sino la evidencia y expresión de estar conectado a la Vida. Juan 1:4-5, 8:12
+
+#### Tener comunión los unos con los otros nos demuestra estar en comunion con Dios. 
+
+#### La sangre de Jesús limpiandonos de todo pecado (presente y contínuo) evidencia estar en comunión con Dios. 
+
+
+
+### **Juan 3**
+
+#### Juan 3:20 *Porque todo el que hace lo malo odia la Luz, y no viene a la Luz para que sus acciones no sean expuestas.*
+
+#### Juan 3:21 *Pero el que practica la verdad viene a la Luz, para que sus acciones sean manifestadas que han sido hechas en Dios».*
 
 #### Por medio de esta primer comparación Juan demostrara como la vida autentica de comunión y limpia de pecados, es el resultado de un andar en luz. Esta condición esta en plural, indicando que ellos podrían hacer tal declaración, pero esta sería solo una mentira si sus vidas no lo respaldaban. No dice: “los que dicen”.
 
@@ -199,7 +291,7 @@
 
 ##### La práctica de la verdad no es el resultado de hacer una declaración de comunión, sino de como dice en el v7 *“andamos en la Luz”.*
 
-### 1 Juan 1:7a - *Pero si andamos en luz como él está en la luz…* aquí andamos en luz, mientras describe a Dios estando en la Luz. Solamente participamos de su Luz, mientras andamos en ella. La luz de Dios, brilla en nosotros mientras nosotros andamos en Él.
+### 1 Juan 1:7a - *Pero si andamos en luz como él está en la luz…* aquí andamos en luz, mientras describe a Dios estando en la Luz. Solamente participamos de Su Luz, mientras andamos en ella. La luz de Dios, brilla en nosotros mientras nosotros andamos en Él.
 
 ## Como resultado de andar en luz, la vida de los creyentes resultará en:
 
@@ -1617,3 +1709,5 @@
 #### La vida cristiana no es falsificable, es genuinamente la vida de Cristo en nosotros, Dios envió a Su Hijo, para que vivamos por medio de él. Si alguien vive verdaderamente, es porque Cristo está viviendo por medio de él.
 
 #### Los falsos maestros, que estaban tratando de engañar a estos creyentes, siempre conducirán a una falsa espiritualidad. Puede tener la apariencia, pero Juan se encargó de mostrar el estándar de Dios de la verdadera vida. Aquél creyente que no está amando como Cristo nos amó, se está perdiendo completamente de experimentar la vida eterna.
+
+[^1]: Ireneo Contra las Herejías, vi.4, p. 324 en Padres Ante Nicenos, vol. 1
