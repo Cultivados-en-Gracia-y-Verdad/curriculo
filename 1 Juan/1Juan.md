@@ -121,15 +121,8 @@
 
 #### A manera de testigos, los discípulos tenían la autoridad de anunciar la Vida Eterna, el ser proclamada es la razón por la cual Dios la estaba manifestando. Juan 10:28
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-### 1 Juan 1:3a – "*"Lo que hemos visto y oído les proclamamos también a ustedes,..."* Observamos que La Vida Eterna, El Verbo de Vida, había sido revelado claramente por el Padre a los apóstoles, lo habían visto y oído. 
-=======
 ### 1 Juan 1:3a – "*Lo que hemos visto y oído les proclamamos también a ustedes,*" ¿qué habían visto? habían visto la vida manifiesta por la luz. 
->>>>>>> Stashed changes
-=======
-### 1 Juan 1:3a – "*Lo que hemos visto y oído les proclamamos también a ustedes,*" ¿qué habían visto? habían visto la vida manifiesta por la luz. 
->>>>>>> Stashed changes
+
 
 #### Juan toma los primeros 2 versículos para anunciar El Mensaje de Vida, lo que les había sido revelado a ellos, ahora lo estarán anunciando a sus lectores. ¿Porqué era tan importante que sepan este Mensaje? 
 
@@ -147,9 +140,7 @@
 
 #### Que los lectores lleguen a tener comunión unos a otros, participar juntos de un mismo propósito vendría solamente por medio del Mensaje de Dios que les estaba siendo anunciado. Los apóstoles solo anunciaban lo que habían recibido.
 
-<<<<<<< Updated upstream
 ### 1 Juan 1:3b - "*...en verdad nuestra comunión es con el Padre y con su Hijo Jesucristo.*" Ese compañerismo al que quieren apuntar, es en realidad que los lectores puedan participar de esta sociedad (comunión) con el Padre y con su Hijo.
-=======
 #### Cuando Dios manifiesta la vida en la persona de Jesucristo, es porque quiere que participemos de El mismo. Es a través de Jesús, que somos compañeros y disfrutamos de esta intimidad, con Dios mismo.
 
 ###### Andar en la luz no es el medio para ganar vida, sino la evidencia y expresión (externa) de haber recibido la vida.
@@ -163,8 +154,6 @@
 #### Para Juan la comunión es el resultado de lo que Dios ha manifestado en la persona de Jesucristo. Por lo tanto, Jesús es el que hace posible la comunión del creyente con Dios.
 
 #### Si nuestro mensaje no es la persona de Jesucristo, nunca podremos llevar a una verdadera comunión con Dios a las personas que estamos tratando de enseñar.
->>>>>>> Stashed changes
-
 #### Hoy muchos entienden y enseñan la comunión como algo que estamos haciendo para estar bien con Dios. 
 
 #### Pero cualquiera que ha participado de la vida eterna (creyente), puede llegar a tener comunión con el Padre y con su Hijo.
@@ -175,20 +164,12 @@
 
 #### La comunión con Dios y Su Hijo y la comunión entre creyentes, viene por medio de la verdad. ¿Pero de que trata estar en comunión con Dios y el Hijo y estar en comunión unos a otros?
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 ### 1 Juan 1:4 – "*Les escribimos estas cosas para que nuestro gozo sea completo.*" Juan quiere que el regocijo de la vida que habían recibido, sea la verdad experiencial de cada creyente por medio de la participación (comunión) con Dios. Juan 10:10, 15:11
 
 #### Solo por medio de una correcta comprensión y conocimiento del Mensaje (Verbo) de Vida, el creyente puede disfrutar verdaderamente de la Vida.
 
 #### Muchos engañadores, por medio de falsificaciones de la Vida, le quitan al creyente de llevar fruto para Dios, experimentando así el gozo de la vida.
-=======
 #### Muchos engañadores, al falsificar la vida, prohiben al creyente de andar en la luz y llevar fruto para Dios. 
->>>>>>> Stashed changes
-=======
-#### Muchos engañadores, al falsificar la vida, prohiben al creyente de andar en la luz y llevar fruto para Dios. 
->>>>>>> Stashed changes
-
 #### Este gozo, es el gozo de Cristo, del que podemos participar. Juan 15:11 dice: “*Estas cosas les he hablado, para que Mi gozo esté en ustedes, y su gozo sea perfecto*”.
 
 #### La vida autentica nunca será vivida a parte del Mensaje de Vida, por eso los apóstoles lo comunicaban.
@@ -235,9 +216,6 @@
 #### Una de los aspectos mostrados en las escrituras acerca de la luz es el efecto que tienen sobre las tinieblas, ellas son desenmascaradas por medio de la luz. Fue Dios quien alumbró al mundo por medio de Jesucristo, ya que toda la humanidad está completamente perdida sin él. 2 Corintios 4:6
 
 ## 1 Juan 1:6-10 Exponiendo comunión por medio de el andar de uno.
-<<<<<<< Updated upstream
-=======
-
 ### 1 Juan 1:6a – "*Si decimos que tenemos comunión con Él, pero andamos en tinieblas,*" Juan va empezar a demostrar medio de un síntoma claro que demuestra la verdadera condición de uno. Si decimos una cosa...pero...andamos en otra cosa...ambos no pueden ser ciertas. No puedes estar en comunión con Dios y andar en tinieblas porque Dios es luz y en Él no hay tinieblas.  
 
 ##### Juan 8:12 *Jesús les habló otra vez, diciendo: «Yo soy la Luz del mundo; el que me sigue **no andará en tinieblas**, sino que tendrá la Luz de la vida».*
