@@ -251,6 +251,22 @@ Title: Primera epístola del apóstol Juan
 
 ## 1 Juan 1:6 El andar de uno demostrado como fuera de comunión
 
+### Introducion
+
+#### Juan en su primera carta muestra una postura de exhibir la realidad con hechos, utilizara en múltiples ocasiones frases con “sabemos”, “saben”, “conocemos” esto relacionado a una acción puntual “sabemos que esto es verdad por esto que está pasando”.  1 Juan 2:3, 5, 18; 3:14, 24; 4:13; 5:2, 18-19 sabemos, 1 Juan 2:20, 29; 3:5, 15 saben, 1 Juan 3:16; 4:6 conocemos, 1 Juan 2:21; 3:10; 4:2 conocen
+
+#### Juan no está ignorando el conocimiento de los creyentes, les dirá que sabe que no ignoran la verdad, sin embargo, el demostrara la realidad con hechos visibles.
+
+#### El propósito de Juan no es comprobar algo de ellos como ser “verdaderos creyentes”, se basa en ya estar hablando con creyentes, en esto mismo el mostrara la conducta o la vida que es acorde a la luz esto por la comunión que tenemos con el Padre.
+
+#### Así mismo el hecho de estar andando en tinieblas demuestra nuestra separación del Padre.
+
+#### Estas partes del texto son conflictivas a primera vista, pero tomando el contexto de lo que Juan está hablando, de cómo se evidencia visiblemente nuestra comunión (participación) con el Padre en nuestro andar.
+
+##### Juan enfatiza dos hechos (andar en Luz y andar en Tinieblas)
+
+#### A continuacion veremos como Juan utilizara este metodo desde el verso 6 hasta el 10.
+
 ### 1 Juan 1:6a – "*Si decimos que tenemos comunión con Él, pero andamos en tinieblas,*" Juan demostrará por medio de un síntoma claro de la verdadera condición de uno. Si decimos una cosa...pero...andamos en otra cosa...ambos no pueden ser ciertas. No puedes estar en comunión con Dios y andar en tinieblas porque Dios es luz y en Él no hay tinieblas.  
 
 ##### Juan 8:12 *Jesús les habló otra vez, diciendo: «Yo soy la Luz del mundo; el que me sigue **no andará en tinieblas**, sino que tendrá la Luz de la vida».*
