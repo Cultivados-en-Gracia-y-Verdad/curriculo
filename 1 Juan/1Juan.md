@@ -121,7 +121,7 @@ Title: Primera epístola del apóstol Juan
 # LOS TESTIGOS Y SU MENSAJE
 ## 1 Juan 1:1-4 – Juan comienza  anunciando un mensaje, una Persona, el Verbo de Vida.
 
-### 1 Juan 1:1a – *"Lo que existía* [era RV09] *desde el principio…"* Comienza hablando de algo que era desde el principio. "*Lo que existía*" se refiere a un hecho o concepto. El pronombre relativo neutral no describe a una persona con la o el sino un algo. 
+### 1 Juan 1:1a – *"Lo que existía* [era RV09] *desde el principio…"* Comienza hablando de algo que era desde el principio. "*Lo que existía*" se refiere a un hecho o concepto. El pronombre relativo neutral no describe a una persona. 
 
 #### Pudo haber dicho "El que existía" denotando a una persona específica. Sin embargo vemos que esta dando testimonio de un concepto. Aún no menciona de que se trata. 
 
