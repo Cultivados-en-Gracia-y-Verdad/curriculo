@@ -6,7 +6,7 @@ ___-___
 
 ## **Autor**
 
-### Primeramente, podemos ver cómo en los tres primeros versículos el autor se identifica a sí mismo como un testigo en vida y ocular de Jesucristo, uno de aquellos que “lo oyó, lo vio, lo contempló, lo palpo”. 
+### Primeramente, podemos ver cómo en los tres primeros versículos el autor se identifica a sí mismo como un testigo en vida y ocular de Jesucristo, uno de aquellos que “*lo oyó, lo vio, lo contempló, lo palpo*”. 
 
 ### Aunque en la mayoría de la carta el autor parece ser uno solo, hablando en primera persona singular, en todo el primer capítulo el autor escribe en primera persona plural. 
 
@@ -40,149 +40,99 @@ ___-___
 
 ## Destinatarios
 
-## Propósito de la escritura
+## Propósito de la Escritura
 
 # LOS TESTIGOS Y SU MENSAJE
-## 1 Juan 1:1-4 – Juan no comienza presentándose como el autor de la carta como se ve en otras epístolas del Nuevo Testamento, sino anunciando Un mensaje, Una persona, el Verbo de Vida.
+## 1 Juan 1:1-4 – Juan comienza  anunciando un mensaje, una Persona, el Verbo de Vida.
 
-### 1 Juan 1:1a – *"Lo que existía* [era RV09] *desde el principio…"* Comienza hablando de la persona de Jesucristo, Dios Hijo. Nos recuerda la realidad, que incluso desde el comienzo de la creación de los cielos y la tierra, Él ya era, Él ya existía.
+### 1 Juan 1:1a – *"Lo que existía* [era RV09] *desde el principio…"* Comienza hablando de algo que era desde el principio. "*Lo que existía*" se refiere a un hecho o concepto. El pronombre relativo neutral no describe a una persona con la o el sino un algo. 
 
-#### Pudo haber dicho "El que existía". Juan no solo está dando testimonio que vio a Jesús, sino a toda la esencia de una realidad eterna. 
+#### Pudo haber dicho "El que existía" denotando a una persona específica. Sin embargo vemos que esta dando testimonio de un concepto. Aún no menciona de que se trata. 
 
-#### El verbo “existía” está en tiempo imperfecto, voz activa y modo indicativo, muestra que es una acción que ya era real y continua en el pasado, en este caso, desde la creación. Esto nos da una muestra más de la existencia eterna del Hijo de Dios. Juan 8:58
-
-#### De igual manera en su evangelio, Juan describe al Verbo Encarnado, como aquel que siempre existió. Juan 1:1, 14
-
-#### Juan también sabe que Jesús, el Hijo de Dios, a quien ha conocido, es el mismo Dios que trajo todo a la existencia. Colosenses 1:16-17 
-
-#### Vemos desde el comienzo de 1 Juan que Jesús es el Hijo de Dios. Mas adelante nos mostrara claramente a Cristo, Su persona y Su obra. ¿Porqué? Esta pregunta se irá aclarando durante el avance de esta epístola.
-
-### 1 Juan 1:1b – “*...lo que hemos oído...visto con nuestros propios ojos...contemplado, y lo que han tocado nuestras manos…”* Estas cuatro acciones hacen referencia a como Juan y sus compañeros llegaron a conocer a Dios mismo, y no fue por medio de fabulas o cuentos, sino por medio de hechos visibles y palpables.
+### 1 Juan 1:1b – “*...lo que hemos oído...visto con nuestros propios ojos...contemplado, y lo que han tocado nuestras manos…”* Estas cuatro acciones hacen referencia a como Juan y sus compañeros llegaron a conocer a Dios mismo, y no fue por medio de fabulas o cuentos, sino por medio de hechos visibles y palpables. 
 
 #### Todos estos verbos están en plural, probablemente se refiera a los demás apóstoles como testigos, esto hace un énfasis en la veracidad de estos hechos, no solamente a través de un solo testigo, sino de varios. 
 
-#### Juan va personificando el mensaje al decir que lo que han oído, visto, contemplado y palpado (la persona de Jesús), es lo que existía desde el principio. 
+#### Juan va personificando el mensaje al decir que lo que han oído, visto, contemplado y palpado, es lo que existía desde el principio. 
 
-### 1 Juan 1:1b – "*...lo que hemos oído,*" El mensaje se recibió de forma audible: escuchar de primera mano las palabras de Cristo.
+### 1 Juan 1:1b – "*...lo que hemos oído,*" El mensaje se recibió de forma audible. El verbo en tiempo perfecto comunica que lo habían escuchado y todavía continúa como algo escuchado.
 
-#### La expresión “Hemos oído” indica que el Verbo de Vida les dio un mensaje del Padre, cualquiera que tenga un mensaje de parte de Dios, debió haberlo oído primeramente de Él mismo.
+#### La expresión “*Hemos oído*” Indica que es un mensaje que no provino de ellos mismos sino de otro. 
 
-#### Dios hablo muchas veces y de diversas maneras (Antiguo Testamento), ahora había hablado por el Hijo (Hebreos 1:1-4). Los creyentes podían confiar en el mensaje que estaban recibiendo ya que venía de Cristo y Él se encargó de comunicarlo claramente de parte del Padre. Romanos 10:17
-
-#### La persona que quieren comunicar en su mensaje es alguien a quien han oído, y al mismo tiempo es un mensaje que han oído por Él. Juan aquí personifica el mensaje al decir que lo que han oído (en la persona de Jesús), es lo que existía desde el principio.
-
-### 1 Juan 1:1b "*lo que hemos visto con nuestros propios ojos...*" Esto indica una experiencia personal y visual de Cristo: Histórica y real.
+### 1 Juan 1:1b "*lo que hemos visto con nuestros propios ojos...*" Esto indica una experiencia personal y visual: Es algo vívido y real. Son testigos oculares del hecho. 
 
 ### 1 Juan 1:1b "*lo que hemos contemplado...*" Y no solo visto, sino examinado y contemplado de cerca.
 
-#### La diferencia entre “haber visto”, y “haber contemplado” es que contemplar hace referencia a algo que se queda para ser visto y apreciado. Esto nos muestra que Cristo, el Hijo de Dios vino en carne, Juan y los demás discípulos lo vieron, lo contemplaron. Jesucristo “habitó entre nosotros”. Juan 1:14
+#### "*Contemplar*" es THEAOMAI significa contemplar algo que estimula las facultades morales y mentales de una manera impresionante (y a menudo asombrosa).[^3]
 
-### 1 Juan 1:1b "...*y lo que han tocado nuestras manos…*" Contacto tangible: confirma la realidad física del Verbo Encarnado.
+#### La voz media comunica que ellos se beneficiaron de lo que contemplaron. 
 
-#### No solo habían visto y contemplado a Dios, sino que lo habían palpado. 
+### 1 Juan 1:1b "...*y lo que han tocado nuestras manos…*" No solo habían visto y contemplado, sino que lo habían palpado. ¿Que vieron y palparon con sus manos? 
 
 ##### Es interesante que Jesús resucitado usó esta palabra cuando invitó a sus discípulos a palparlo. Lucas 24:39
 
-##### Este hecho es específico de la vida de Jesús, no solamente haciendo referencia a que el Hijo de Dios vino y habitó entre nosotros, sino también que después de que murió, fue sepultado, el resucito, y así como resucitado, él fue palpado por sus discípulos, Él seguían siendo el Dios-hombre. 1 Timoteo 2:5
+### 1 Juan 1:1c - *…esto escribimos acerca del verbo de vida.* La frase "*esto escribimos*" es algo agregado por los traductores, no se encuentra los manuscritos del griego.  Una mejor traducción seria, "*tocante al Verbo de vida*" (RVR60). 
 
-##### Ellos son testigos experienciales del Cristo resucitado. Palparon la vida que triunfó sobre la muerte, un evento único en la historia. 
+#### ¿De que se trata el verbo LOGOS de vida?
 
-#### A través de Jesús, Dios invitó a la humanidad a tener una experiencia en carne y hueso con él mismo. Este es el mensaje que anuncia Juan y los discípulos, ellos no son simples comunicadores, ellos hablan de un mensaje que han experimentado, Cristo.
+##### "*el verbo*" es un sustantivo, genitivo y se refiere a todo el Evangelio, no a Cristo mismo personalmente, como lo evidencia el genitivo añadido "*de vida*"; El genitivo indica lo perteneciente a la vida. Luego veremos que es la vida que se manifestó y no el verbo. 
 
-##### Una posible traducción de versículos 1 y 2 seria: "*Nosotros os anunciamos lo que era desde el principio, lo que hemos visto con nuestros ojos, lo que hemos sostenido y lo que palparon nuestras manos tocante al Verbo de vida.*"
+###### Cuando Ó LOGOS se usa personalmente (Juan 1:1, 1:14), el término es absoluto. Aquí LOGOS es sustantivo nominativo y lleva el artículo definido el Ó. 
 
-### 1 Juan 1:1c - *…esto escribimos acerca del verbo de vida.* Sin Lugar a dudas el mensaje de los apóstoles, y el mensaje que tenemos acá escrito, es “el Verbo de Vida”.
+##### Ellos son testigos experienciales de la vida. Vieron, oyeron, palparon la vida de primera mano. Experimentaron la vida. 1 Juan 2:24-25; 1 Juan 1:2
 
-#### Esto puede verse de dos formas: 
+### 1 Juan 1:2a - *"y la vida se manifestó* [fue manifestada RV09]*” Dios se había encargado de enviar y revelar la vida misma. Mateo 16:16-17
 
-##### “El mensaje de la Vida”, que es el Evangelio de nuestra salvación, Cristo y Su obra.
+### 1 Juan 1:2b - *"...nosotros la hemos visto, y damos testimonio y les anunciamos a ustedes la vida eterna..."* El dar testimonio muestra el hecho de solamente ser testigos y estar comunicando la vida habían experimentado, no que lo habían creado. Ellos habian conocido de primera mano  la vida eterna.
 
-##### También como una persona, que es nuestro Salvador. Cristo es El Mensaje de Vida, y la comunicación de Su persona es la que lleva a la verdadera vida. 1 Corintios 2:1-5; Romanos 1:1-3
+### 1 Juan 1:2c *…la vida eterna que estaba con el Padre…*esta vida eterna (calidad de vida) que experimentaron de parte del Padre es en realidad conocerlo a Él. Juan 17:3; 1 Juan 
 
-#### Cristo es el mensaje de Dios para la humanidad, y siempre lo ha sido. Jesús es el mensaje de Dios personificado. Es solamente a través de él que Dios comunica la vida a la humanidad. Juan 5:39
+#### La vida eterna estaba (imperfecto, activo, indicativo) lo que indica que la vida eterna ya estaba (desde el principio) hasta un momento del pasado con el Padre. 
 
-### 1 Juan 1:2a - *"y la vida se manifestó* [fue manifestada RV09]”* Dios se había encargado de enviar y revelar La Vida misma, la persona de Jesucristo a los discípulos y también a estos creyentes. Juan 1:18
+#### La vida eterna proviene del Padre. Juan 5:26, 6:57
 
-#### En el evanglio de Juan, la luz es asociada con vida.  Según Juan, la luz proviene de la vida. La vida se revela como luz. La vida es la fuente. Luz es la manifestación de esa vida. 
+### 1 Juan 1:2d "*...y se manifestó a nosotros.*" En el pasado la vida eterna "*estaba con el Padre*". Ahora se manifestó (aoristo, pasivo, indicativo) a nosotros. Dios les manifestó la vida eterna. 
 
-##### Juan 1:4 *En Él estaba la vida, y la **vida era la Luz** de los hombres.* Aquí la luz se presenta como la manifestación (o expresión exterior) de la vida. 1 Juan 1:1-2
+### 1 Juan 1:3a – "*Lo que hemos visto y oído les proclamamos también a ustedes,*" Antes la vida estaba con el Padre, luego Dios se los manifestó, ahora ellos se lo proclaman.  
 
-### 1 Juan 1:2b - *"...nosotros la hemos visto, y damos testimonio y les anunciamos a ustedes la vida eterna..."* El dar testimonio muestra el hecho de solamente ser testigos y estar comunicando una verdad habían visto, no que habían creado. Ellos habían presenciado de primera mano al Hijo de Dios.
+#### "*proclamar*" APANGELLO - informar a alguien del mensaje de otra persona; a veces sin ninguna idea definida de la fuente del mensaje.[^3]
 
-#### Jesús dijo que sus discípulos serían testigos (Hechos 1:8).
-
-#### En su evangelio Juan usa la palabra testimonio como validaciones al mensaje que Cristo estaba anunciando, ya que el testimonio es confirmado por medio de lo visible. El hecho de que ellos estén anunciando un mensaje va en base a que fueron testigos de ver la Vida Eterna.
-
-#### Hechos 4:20, aún amenazados los discípulos dijeron que no podían dejar de decir lo que habían visto y oído. Ellos se limitaron a comunicar un mensaje como testigos, no como originadores del mensaje.
-
-#### La Vida Eterna no es un invento de los hombres, es algo que Dios mismo se encargó de manifestar a través de la persona de Jesucristo. Este testimonio (Jesucristo), va más allá de la muerte (hasta entonces, lo único que los hombres han podido conocer por experiencia). Juan 1:4
-
-### 1 Juan 1:2c *…la vida eterna que estaba con el Padre…* Como Jesús es esta Vida Eterna, claramente Él no comenzó a existir desde su encarnación, él siempre estuvo con el Padre.
-
-#### A manera de testigos, los discípulos tenían la autoridad de anunciar la Vida Eterna, el ser proclamada es la razón por la cual Dios la estaba manifestando. Juan 10:28
-
-### 1 Juan 1:3a – "*Lo que hemos visto y oído les proclamamos también a ustedes,*" ¿qué habían visto? habían visto la vida manifiesta por la luz. 
-
-
-#### Juan toma los primeros 2 versículos para anunciar El Mensaje de Vida, lo que les había sido revelado a ellos, ahora lo estarán anunciando a sus lectores. ¿Porqué era tan importante que sepan este Mensaje? 
+#### ¿Porqué era tan importante para Juan proclamarles la vida eterna? 
 
 ### 1 Juan 1:3b – *"para que también ustedes tengan comunión con nosotros…"* La palabra "*comunión*" KOINONIA transmite la idea de compañerismo, de tener en común, de participar de lo mismo.
 
-#### Es bueno ver este pasaje para poder comprender más apropiadamente lo que es la comunión y el uso que los apóstoles le dan.
+#### Juan deseaba que ellos también oigan, vean, contemplen y palpen la vida eterna así como ellos. 
 
-##### En la Escritura vemos tenemos comunión como creyentes en base a la salvación que compartimos en nuestro Señor Jesucristo y los que estarían excluidos de esto serían los incrédulos. 2 Corintios 13:14 
+#### Es bueno ver este pasaje para poder comprender más apropiadamente lo que es la comunión y el uso que 1 Juan le da. 
 
-##### A veces se tiene el concepto de comunión unos a otros solo en base a compartir alguna actividad como iglesia. También tenemos diferentes conceptos de lo que es comunión entre hermanos.
+##### En la Escritura vemos la comunión que compartimos es un una sola salvación en nuestro Señor Jesucristo y los que estarían excluidos de esto serían los incrédulos. 2 Corintios 13:14 
 
-##### Pero ¿Como se esta explicando la comunión unos a otros en 1 Juan? ¿Como era posible esta comunión?
+##### A veces se tiene el concepto de comunión unos con otros en base a compartir alguna actividad en la iglesia. 
 
-#### Vemos que los apóstoles solo anunciaban La Vida Eterna, porque solo ese Mensaje es lo que podría llevarlos a participar a los lectores de la misma vida que los que testificaban estaban participando. Esto los haría compañeros o parte de la misma sociedad, tendrían comunión unos a otros
+##### Pero ¿Como se esta explicando la comunión entre hermanos en 1 Juan? ¿Como era posible esta comunión?
 
-#### Que los lectores lleguen a tener comunión unos a otros, participar juntos de un mismo propósito vendría solamente por medio del Mensaje de Dios que les estaba siendo anunciado. Los apóstoles solo anunciaban lo que habían recibido.
+#### Vemos que los apóstoles anunciaban la vida eterna, porque solo esa vida es lo que podría llevarlos a participar a los lectores de una comunión con ellos. 
 
-### 1 Juan 1:3b - "*...en verdad nuestra comunión es con el Padre y con su Hijo Jesucristo.*" Ese compañerismo al que quieren apuntar, es en realidad que los lectores puedan participar de esta sociedad (comunión) con el Padre y con su Hijo.
-#### Cuando Dios manifiesta la vida en la persona de Jesucristo, es porque quiere que participemos de El mismo. Es a través de Jesús, que somos compañeros y disfrutamos de esta intimidad, con Dios mismo.
+#### Esto los haría compañeros o parte de la misma sociedad. Tendrían comunión unos a otros en la misma vida eterna.
 
-###### Andar en la luz no es el medio para ganar vida, sino la evidencia y expresión (externa) de estar conectado la vida.
+### 1 Juan 1:3b - "*...en verdad nuestra comunión es con el Padre y con su Hijo Jesucristo.*" Ese compañerismo al que quieren apuntar, es en realidad que los lectores puedan participar de esta sociedad (comunión) que ellos tenían con el Padre y con su Hijo. 1 Juan 5:11-12
+#### Es a través de la vida que somos compañeros y disfrutamos de esta intimidad con Dios.
 
-##### Juan 1:5 *La Luz brilla en las tinieblas, y las tinieblas no la comprendieron.* La vida estaba en Cristo y El se manifestó a los hombres. 
+#### Si nuestro mensaje no es lo que Dios el Padre manifestó, entonces nunca podremos llevar a una verdadera comunión con Dios a las personas que estamos tratando de enseñar.
 
-##### Juan 1:9 *Existía la Luz verdadera que, al venir al mundo, alumbra a todo hombre.*
+### 1 Juan 1:4 – "*Les escribimos estas cosas para que nuestro gozo sea completo...*" Juan quiere que el regocijo de la vida que habían recibido, sea la verdad experiencial de cada creyente por medio de la participación (comunión) con Dios. Juan 10:10, 15:11
 
-##### Juan 1:14 El Verbo se hizo carne, y habitó entre nosotros, y vimos Su gloria, gloria como del unigénito del Padre, lleno de gracia y de verdad.
+#### Solo por medio de una correcta comprensión y conocimiento de lo que es vida, el creyente puede disfrutar plenamente.
 
-#### Para Juan la comunión es el resultado de lo que Dios ha manifestado en la persona de Jesucristo. Por lo tanto, Jesús es el que hace posible la comunión del creyente con Dios.
-
-#### Si nuestro mensaje no es la persona de Jesucristo, nunca podremos llevar a una verdadera comunión con Dios a las personas que estamos tratando de enseñar.
-#### Hoy muchos entienden y enseñan la comunión como algo que estamos haciendo para estar bien con Dios. 
-
-#### Pero cualquiera que ha participado de la vida eterna (creyente), puede llegar a tener comunión con el Padre y con su Hijo.
-
-#### Para Juan la comunión viene por medio de lo que Dios ha manifestado en la persona de Jesucristo, por eso 1 Juan comienza anunciando a sus lectores lo que Dios les había ya manifestado.
-
-#### Si nuestro mensaje no es lo que Dios Padre manifestó, entonces nunca podremos llevar a una verdadera comunión con Dios a las personas que estamos tratando de enseñar.
-
-#### La comunión con Dios y Su Hijo y la comunión entre creyentes, viene por medio de la verdad. ¿Pero de que trata estar en comunión con Dios y el Hijo y estar en comunión unos a otros?
-
-### 1 Juan 1:4 – "*Les escribimos estas cosas para que nuestro gozo sea completo.*" Juan quiere que el regocijo de la vida que habían recibido, sea la verdad experiencial de cada creyente por medio de la participación (comunión) con Dios. Juan 10:10, 15:11
-
-#### Solo por medio de una correcta comprensión y conocimiento del Mensaje (Verbo) de Vida, el creyente puede disfrutar verdaderamente de la Vida.
-
-#### Muchos engañadores, por medio de falsificaciones de la Vida, le quitan al creyente de llevar fruto para Dios, experimentando así el gozo de la vida.
-#### Muchos engañadores, al falsificar la vida, prohiben al creyente de andar en la luz y llevar fruto para Dios. 
 #### Este gozo, es el gozo de Cristo, del que podemos participar. Juan 15:11 dice: “*Estas cosas les he hablado, para que Mi gozo esté en ustedes, y su gozo sea perfecto*”.
 
-#### La vida autentica nunca será vivida a parte del Mensaje de Vida, por eso los apóstoles lo comunicaban.
+##### Hoy muchos basan la comunión con Dios por medio de lo que ellos hacen por Dios y esperan algún día experimentar el gozo de esto. Pero el verdadero gozo solo viene por medio de experimentar la vida que proviene de Dios. 2 Pedro 1:3-4
 
-#### Como maestros podemos llevar falsificaciones de plenitud de gozo, llevando a las personas un mensaje que no sea la persona de Jesucristo. 
+# 1 Juan 1:5-10 – JUAN DEMUESTRA SI SU COMUNIÓN ES CON EL PADRE
 
-##### Hoy muchos basan la comunión con Dios por medio de lo que ellos hacen por Dios, y esperan algún día experimentar el gozo de esto. Pero el verdadero gozo solo viene por medio del mensaje de Vida dado por Dios solamente, Su Hijo. 2 Pedro 1:3-4
+## Introducción
 
-# 1 Juan 1:5-10 EXHIBIENDO LOS ATRIBUTOS DE DIOS Y MINISTERIO DE CRISTO
-
-## 1 Juan 1:5-10 – Juan demostrará objetivamente como alguien puede saber que su comunión con el Padre es como debe ser. 
-
-### En los siguientes versículos, Juan demuestra la condición (el estado) del creyente. ¿Está en comunion o no? No es según su percepción de los hechos, sino basado en evidencias claras, puntuales que demuestran el verdadero estado de uno. 
+### En los siguientes versículos, Juan demostrará la condición (el estado) del creyente. ¿Está en comunion o no? No es según su percepción de los hechos, sino basado en evidencias claras, puntuales que demuestran el verdadero estado de uno. 
 
 #### Debemos distinguir entre el estado de comunión de uno con la conducta de uno. No son la misma cosa en este pasaje. Juan usará la conducta (andar en tinieblas versus andar en luz) de uno para demostrar el estado de comunión con Dios. 
 
@@ -194,22 +144,22 @@ ___-___
 
 #### Juan se incluye en la siguientes declaraciónes haciendo entender que todas estas son posibilidades reales en la vida de cualquier creyente. Si Decimos (1 Juan 1:6, 8, 10), si andamos, tenemos (1 Juan 1:7).
 
-### 1 Juan 1:5a "*Y este es el mensaje que hemos oído de Él y que les anunciamos…*" Este mensaje procede de Cristo “*hemos oído de Él*” que habló a los Apóstoles. Este mismo mensaje es lo que ahora ellos les anuncian. Juan 1:4-9, 8:12, 9:4-5, 11:9-10
+## 1 Juan 1:5 Dios es Luz
+
+### 1 Juan 1:5a "*Y este es el mensaje que hemos oído de Él y que les anunciamos…*" Este mensaje procede del Padre “*hemos oído de Él*”. Este mismo mensaje es lo que ahora ellos les anuncian. Juan 1:4-9, 8:12, 9:4-5, 11:9-10
 
 ### 1 Juan 1:5b "…*Dios es luz y en el no hay ninguna tiniebla.*" Luz es una metáfora del Antiguo Testamento que habla del caracter de Dios. Dios es luz habla de ser puro, santo y justo. Dios es perfecto. Salmo 4:6; Isaias 60:1-2
-### En el evanglio de Juan, la luz es asociada con vida y ambos en Cristo. 
+#### En el evanglio de Juan, la luz es asociada con vida y ambos en Cristo. Luz es la manifestación de Su Vida para la percepción del mundo. Juan 1:4-5
 
-#### Juan 1:4 *En Él estaba la vida, y la **vida era la Luz** de los hombres.* Aquí la luz se presenta como ser la manifestación (o expresión exterior) de la vida. 1 Juan 1:1-2
+##### Juan 1:4 *En Él estaba la vida, y la **vida era la Luz** de los hombres.* Aquí la luz se presenta como ser la manifestación (o expresión exterior) de la vida. 1 Juan 1:1-2
 
 ##### La vida se revela como luz.  La vida es la fuente. Luz es la manifestación de esa vida. 
 
-#### Juan 1:5 *La Luz brilla en las tinieblas, y las tinieblas no la comprendieron.* La vida estaba en Cristo y El se manifestó a los hombres. 
+##### Juan 1:5 *La Luz brilla en las tinieblas, y las tinieblas no la comprendieron.* La vida estaba en Cristo y El se manifestó a los hombres. 
 
-#### Juan 8:12 *Jesús les habló otra vez, diciendo: «Yo soy la Luz del mundo; el que me sigue no andará en tinieblas, sino que tendrá la **Luz de la vida**».*
+##### Juan 8:12 *Jesús les habló otra vez, diciendo: «Yo soy la Luz del mundo; el que me sigue no andará en tinieblas, sino que tendrá la **Luz de la vida**».*
 
-###### Jesús se refirió a si mismo como la Luz.  El es la Luz que vino al mundo. “*Luz del mundo*” en Juan se refiere a la autorrevelación de Dios en acción: en verdad, pureza y vida, revelada a través de la Palabra. 
-
-###### Luz es la manifestación de Su Vida para la percepción del mundo. Juan 1:4-5
+###### Jesús se refirió a si mismo como la Luz.  El es la Luz que vino al mundo. “*Luz del mundo*” en Juan se refiere a la autorrevelación de Dios en acción: en verdad, pureza y vida, revelada a través de Él (la Palabra). 
 
 ##### El mundo en tinieblas es la humanidad necesitada de iluminación.
 
@@ -219,15 +169,13 @@ ___-___
 
 ###### Juan 12:46 *Yo, la Luz, he venido al mundo, para que todo el que cree en Mí no permanezca en tinieblas.*
 
-#### Las tinieblas no pueden existir en Dios, sería una mejor traducción de en El no hay ninguna tiniebla. Estos son puestos, y ya que Él es luz, no pueden ser ambas en la misma persona. No hay ninguna chance de que engaño, error, maldad o pecado existan en Dios, por lo tanto nada de esto proviene de Dios.
+#### Las tinieblas no pueden existir en Dios. Sería una mejor traducción, "*en El no hay ninguna tiniebla*". Estos son opuestos, ya que Él es luz. Ambas no pueden coexistir en la misma persona. No hay oportunidad de engaño, error, maldad o pecado que existan en Dios. Por lo tanto, nada de esto proviene de Dios.
 
-#### Jesús estando en el mundo, luz era para el mundo; Jesús siendo proclamado está siendo luz para todos aquellos que oyen. El, alumbra la vida eterna que el Padre comunicó a la humanidad.
+#### Una de los aspectos mostrados en las Escrituras acerca de la luz, es el efecto que tiene sobre las tinieblas. La luz desenmascara las tinieblas. Fue Dios quien alumbró al mundo por medio de Jesucristo, ya que toda la humanidad está perdida en tinieblas. 2 Corintios 4:6
 
-#### Una de los aspectos mostrados en las escrituras acerca de la luz es el efecto que tienen sobre las tinieblas, ellas son desenmascaradas por medio de la luz. Fue Dios quien alumbró al mundo por medio de Jesucristo, ya que toda la humanidad está completamente perdida sin él. 2 Corintios 4:6
+## 1 Juan 1:6 El andar de uno demostrado como fuera de comunión
 
-## 1 Juan 1:6 El andar demostrando estar fuera de comunión
-
-### 1 Juan 1:6a – "*Si decimos que tenemos comunión con Él, pero andamos en tinieblas,*" Juan va empezar a demostrar por medio de un síntoma claro de la verdadera condición de uno. Si decimos una cosa...pero...andamos en otra cosa...ambos no pueden ser ciertas. No puedes estar en comunión con Dios y andar en tinieblas porque Dios es luz y en Él no hay tinieblas.  
+### 1 Juan 1:6a – "*Si decimos que tenemos comunión con Él, pero andamos en tinieblas,*" Juan demostrará por medio de un síntoma claro de la verdadera condición de uno. Si decimos una cosa...pero...andamos en otra cosa...ambos no pueden ser ciertas. No puedes estar en comunión con Dios y andar en tinieblas porque Dios es luz y en Él no hay tinieblas.  
 
 ##### Juan 8:12 *Jesús les habló otra vez, diciendo: «Yo soy la Luz del mundo; el que me sigue **no andará en tinieblas**, sino que tendrá la Luz de la vida».*
 
@@ -248,6 +196,10 @@ ___-___
 ##### Si odias a tu hermano estás caminando en tinieblas. 1 Juan 2:11
 
 ### 1 Juan 1:6a *Pero si andamos en luz como él está en la luz, tenemos comunión los unos con los otros, y la sangre de Jesús su Hijo nos limpia de todo pecado.*" En contraste a no estar en comunión, Juan presenta evidencia real de estar en comunión con Dios. 
+
+#### En el evanglio de Juan, la luz es asociada con vida.  Según Juan, la luz proviene de la vida. La vida se revela como luz. La vida es la fuente. Luz es la manifestación de esa vida. 
+
+##### Juan 1:4 *En Él estaba la vida, y la **vida era la Luz** de los hombres.* Aquí la luz se presenta como la manifestación (o expresión exterior) de la vida. 1 Juan 1:1-2
 
 #### Andar en la luz proviene de Aquél que esta en luz. Demuestra estar en comunión con Dios. Andar en la luz no es el medio para ganar vida, sino la evidencia y expresión de estar conectado a la Vida. Juan 1:4-5, 8:12
 
@@ -1791,3 +1743,4 @@ Existen 5 puntos de vista principales sobre la confesión de pecados.
 
 [^1]: Ireneo Contra las Herejías, vi.4, p. 324 en Padres Ante Nicenos, vol. 1
 [^2]: Respuesta según ChatGPT
+[^3]: Bible Sense Lexicon
