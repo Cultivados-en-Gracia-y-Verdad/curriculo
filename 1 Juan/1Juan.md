@@ -82,9 +82,9 @@ Title: Primera epístola del apóstol Juan
 
 ## Situación general del cristianismo
 
-### Después de la resurrección y ascensión de Jesús, los creyentes enfrentaron oposición del sanedrín y líderes religiosos judíos alrededor de los años 30-40 d.C. Hechos 4-5,7-8,12.
+### Después de la resurrección y ascensión de Jesús, los creyentes enfrentaron oposición del sanedrín y líderes religiosos judíos alrededor de los años 30-40 d.C. Hechos 4-5,7-8,12
 
-### Hubo persecuciones locales en el imperio Romano en los años 50-60 d.C, en el cual los creyentes se expandieron a las ciudades de Antioquía, Éfeso, Corinto, Roma, El apóstol pablo sufrió encarcelamientos y azotes en Filipos, tesalónica, Corinto, Éfeso y Roma (Hechos 16-28). 
+### Hubo persecuciones locales en el imperio Romano en los años 50-60 d.C, en el cual los creyentes se expandieron a las ciudades de Antioquía, Éfeso, Corinto, Roma. El apóstol Pablo sufrió encarcelamientos y azotes en Filipos, Tesalónica, Corinto, Éfeso y Roma (Hechos 16-28). 
 
 ### Las persecuciones bajo el emperador Nerón 64-68 d.C. después del incendio en Roma atribuido a los cristianos, se presentaron ejecuciones crueles, crucifixiones, quemas vivas y lanzamiento a las fieras. 
 
@@ -104,7 +104,7 @@ Title: Primera epístola del apóstol Juan
 
 ### La comunión entre creyentes había sido olvidada debido a las diferentes circunstancias y enseñanzas contrarias a la palabra.
 
-## Propósito de la escritura.
+## Propósito de la escritura
 
 ### Los destinatarios de la escritura puede haber sido un público genérico,  para ser leída en diferentes congregaciones con el fin de animar a los creyentes y fortalecerlos en la fe y enseñanzas de Jesucristo.
 
