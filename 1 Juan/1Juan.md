@@ -5,175 +5,177 @@ Title: Primera epístola del apóstol Juan
 
 ##  Importancia de la epístola 
 
-### La epístola de 1 Juan es muy significativa, debido a que aborda muchas creencias fundamentales de la fe cristiana como la encarnación de Cristo en carne, su deidad, nos muestra como los creyentes pueden vivir en la luz, la comunión unos con otros, nos muestra quienes son los falsos maestros, seguridad de salvación y la relación del creyente con el pecado.
+### La epístola de 1 Juan es muy significativa, debido a que aborda muchas creencias fundamentales de la fe cristiana como la encarnación de Cristo, Su deidad, nos muestra como los creyentes pueden vivir en la luz, la comunión unos con otros, nos muestra quienes son los falsos maestros, la seguridad de salvación y la relación del <u>creyente</u> con el pecado.
 
-### El autor va a comunicar claramente durante toda la epístola quién es Jesús y lo que él hizo por nosotros, identificándose como un testigo ocular y presencial de Jesucristo “*lo oyó, lo vio, lo contempló, lo palpo*”.  
+### El autor va a comunicar claramente durante toda la epístola quién es Jesús y lo que él hizo por nosotros, identificándose como un <u>testigo</u> ocular y presencial de Jesucristo “*lo oyó, lo vio, lo contempló, lo palpo*”.  
 
-#### El capítulo 1 aborda sobre el verbo de vida, la comunión, el andar en la luz, la confesión de pecados.
+#### El capítulo 1 aborda sobre el verbo de <u>vida</u>, la comunión, el andar en la luz, la confesión de pecados.
 
-#### El capítulo 2 aborda sobre la propiciación de los pecados, el guardar sus mandamientos,  el amor a los hermanos, el amor al mundo, el anticristo y su engaño , el permanecer en él.
+#### El capítulo 2 aborda sobre la propiciación de los pecados, el guardar sus mandamientos,  el amor a los hermanos, el amor al mundo, el anticristo y su <u>engaño</u> , el permanecer en Dios.
 
-#### El capítulo 3 aborda sobre el amor del Padre como hijos de Dios, la relación del pecado con los nacidos de Dios, el amor práctico entre hermanos, la reprensión del corazón, el guardar sus mandamientos.
+#### El capítulo 3 aborda sobre el amor del Padre como hijos de Dios, la relación del pecado con los nacidos de Dios, el amor práctico <u>entre</u> hermanos, la reprensión del corazón, el guardar sus mandamientos.
 
-#### El capítulo 4 aborda sobre probar a los espíritus, el amor de Dios demostrado, el amor entre hermanos, la esencia del amor, la relación entre amar y guardar sus mandamientos.
+#### El capítulo 4 aborda sobre probar a los espíritus, el amor de Dios demostrado, el amor entre hermanos, la esencia del amor, la <u>relación</u> entre amar y guardar sus mandamientos.
 
-#### El capítulo 5 aborda sobre quien vence al mundo, el testimonio en el cielo y en la tierra, la vida en el Hijo, la seguridad de la vida eterna, el conocimiento verdadero de Dios.
+#### El capítulo 5 aborda sobre quien vence al mundo, el testimonio en el cielo y en la tierra, la vida en el Hijo, la seguridad de la vida eterna, el <u>conocimiento</u> verdadero de Dios.
 
 ## Situación general del cristianismo.
 
-### Después de la resurrección y ascensión de Jesús, los creyentes enfrentaron oposición del sanedrín y líderes religiosos judíos alrededor de los años 30-40 d.C. Hechos 4-5,7-8,12
+### Después de la resurrección y ascensión de Jesús, los creyentes enfrentaron <u>oposición</u> del sanedrín y líderes religiosos judíos alrededor de los años 30-40 d.C. Hechos 4-5,7-8,12
 
-### Hubo persecuciones locales en el imperio Romano en los años 50-60 d.C, en el cual los creyentes se expandieron a las ciudades de Antioquía, Éfeso, Corinto, Roma. El apóstol Pablo sufrió encarcelamientos y azotes en Filipos, Tesalónica, Corinto, Éfeso y Roma (Hechos 16-28). 
+### Hubo persecuciones locales en el imperio Romano en los años 50-60 d.C, en el cual los creyentes se expandieron a las <u>ciudades</u> de Antioquía, Éfeso, Corinto, Roma. El apóstol Pablo sufrió encarcelamientos y azotes en Filipos, Tesalónica, Corinto, Éfeso y Roma (Hechos 16-28). 
 
-### Las persecuciones bajo el emperador Nerón 64-68 d.C. después del incendio en Roma atribuido a los cristianos, se presentaron ejecuciones crueles, crucifixiones, quemas vivas y lanzamiento a las fieras. 
+### Las persecuciones bajo el emperador Nerón 64-68 d.C. después del incendio en Roma atribuido a los cristianos, se presentaron en ejecuciones crueles, crucifixiones, quemas <u>vivas</u> y lanzamiento a las fieras. 
 
-### El cristianismo ya se había extendido por todo el imperio romano, las iglesias estaban formadas por creyentes judíos y gentiles.
+### El cristianismo ya se había extendido por todo el imperio romano, las <u>iglesias</u> estaban formadas por creyentes judíos y gentiles.
 
-### La destrucción de Jerusalén había sucedido en el año 70 d.C., por los romanos, el templo en Jerusalén ya no existía.
+### La destrucción de Jerusalén había sucedido en el año 70 d.C., por los romanos, el templo en Jerusalén ya no <u>existía</u>.
 
-### Los creyentes eran perseguidos por el emperador Domiciano 81-96 d.C. , eran vistos con desconfianza debido a no rendir culto al emperador.
+### Los creyentes eran perseguidos por el emperador <u>Domiciano</u> 81-96 d.C. , eran vistos con desconfianza debido a no rendir culto al emperador.
 
 ## Situación interna de la iglesia.
 
-### Entender la situación interna de la iglesia en el momento que se escribió 1 de Juan es clave para comprender sus motivos de escribirles y lo que estaban enfrentando los creyentes.
+### Entender la situación interna de la iglesia en el <u>momento</u> que se escribió 1 de Juan es clave para comprender sus motivos de escribirles y lo que estaban enfrentando los creyentes.
 
-### Las iglesias enfrentaban el desafío de mantener la enseñanza transmitida por los apóstoles fielmente.
+### Las iglesias enfrentaban el desafío de mantener la enseñanza <u>transmitida</u> por los apóstoles fielmente.
 
-### Enfrentaban una división interna debido a las falsas enseñanzas, distorsionando el mensaje acerca de Jesús hecho carne, al punto de negar que Jesús es el Cristo. (1 Juan 2:18-23; 4:1-3).
+### Enfrentaban una división interna debido a las falsas enseñanzas, distorsionando el mensaje acerca de Jesús hecho carne, al punto de negar que Jesús es el <u>Cristo</u>. (1 Juan 2:18-23; 4:1-3).
 
-#### Las doctrinas como el Gnosticismo enseñaban que la materia era mala y el espíritu bueno, negaban que Jesús vino en un cuerpo físico de carne y hueso (docetismo).
+#### Las <u>doctrinas</u> como el Gnosticismo enseñaban que la materia era mala y el espíritu bueno, negaban que Jesús vino en un cuerpo físico de carne y hueso (docetismo).
 
-### Existían confusiones en relación al pecado (1 Juan 1:8) , guardar sus mandamientos (1 Juan 2:4)  y permanecer en él (1 Juan 2:6), las falsas enseñanzas que afectaron de manera visible y práctica en su andar.
+### Existían confusiones en relación al pecado (1 Juan 1:8) , guardar sus mandamientos (1 Juan 2:4)  y permanecer en él (1 Juan 2:6), las falsas enseñanzas que afectaron de manera <u>visible</u> y práctica en su andar.
 
-### La comunión entre creyentes había sido destruida al punto de llegar a detestar a sus hermanos, olvidando que pasaron de muerte a vida (1 Juan 2:9-11; 3:10-15) .
+### La comunión <u>entre</u> creyentes había sido destruida al punto de llegar a detestar a sus hermanos, olvidando que pasaron de muerte a vida (1 Juan 2:9-11; 3:10-15) .
 
-### Muchos creyentes llegaban a concluir que no tenían vida eterna debido a su extravío de la verdad (1 Juan 5:13).
+### Muchos creyentes llegaban a concluir que no <u>tenían</u> vida eterna debido a su extravío de la verdad (1 Juan 5:13).
 
 ## Autor.
 
-### El autor de la epístola no se identifica en la misma con su nombre, sin embargo debido a que su manera de escribir, vocabulario, y conceptos los cuales expresa en la epístola coinciden con el Evangelio según Juan.
+### El autor de la epístola no se identifica en la misma con su nombre, sin embargo su manera de escribir, vocabulario, y conceptos los cuales expresa en la epístola coinciden con el <u>Evangelio</u> según Juan.
 
-### La manera de escribir de Juan usualmente es en tercera persona, expresándose de sí mismo como "*El discípulo a quien Jesús amaba*". Juan 21:20 
+### La manera de escribir de Juan usualmente es en tercera <u>persona</u>, expresándose de sí mismo como "*El discípulo a quien Jesús amaba*". Juan 21:20 
 
-### En su epístola habla muchas veces de en primera persona plural, incluyéndose como parte de toda su enseñanza, mostrando que es también para él mismo. 
+### En su epístola habla <u>muchas</u> veces de en primera persona plural, incluyéndose como parte de toda su enseñanza, mostrando que es también para él mismo. 
 
-### En su uso del término “*hijitos*” para referirse a sus destinatarios, muestra la relación cercana que tiene para con ellos, como de un padre espiritual preocupado por el bienestar de aquellos que ha llevado a la verdad. 
+### En su uso del término “*hijitos*” para referirse a sus destinatarios, muestra la relación cercana que tiene para con ellos, como de un <u>padre</u> espiritual preocupado por el bienestar de aquellos que ha llevado a la verdad. 
+
+### Al observar estos detalles concluimos que el autor de esta epístola es el apóstol Juan.
 
 ## Fecha de escritura.
 
-### Una estimación de escritura oscila entre los años 85 y 95 d.C., muy probablemente desde Éfeso según historiadores del siglo II y III (Ireneo, Polícrates, Eusebio y Jerónimo).
+### Una estimación de escritura oscila entre los años 85 y 95 d.C., muy probablemente desde Éfeso según historiadores del <u>siglo</u> II y III (Ireneo, Polícrates, Eusebio y Jerónimo).
 
 ## La vida y ministerio del apóstol Juan.
 
-### Juan y Jacobo eran Hijos de Zebedeo, eran pescadores de oficio, y compañeros de Simón (Pedro) Lucas 5:10 , hasta que fueron llamados por Jesús y dejando al instante las redes le siguieron. Juan 4:19-22; Marcos 1:20
+### Juan y Jacobo eran Hijos de Zebedeo, eran pescadores de oficio, y <u>compañeros</u> de Simón (Pedro) Lucas 5:10 , hasta que fueron llamados por Jesús y dejando al instante las redes le siguieron. Juan 4:19-22; Marcos 1:20
 
-#### Jesús les puso el sobrenombre de "Boanerges", que significa "hijos del trueno" Marcos 3:17
+#### Jesús les <u>puso</u> el sobrenombre de "Boanerges", que significa "hijos del trueno" Marcos 3:17
 
-#### Juan, Jacobo y Pedro formaron parte del círculo mas cercano de Jesús, presenciando milagros de resurrección (Marcos 5:37), vieron con sus propios ojos la transfiguración (Marcos 9:2), y estaban con Jesús en Getsemaní (Marcos 14:33)
+#### Juan, Jacobo y Pedro formaron parte del círculo mas cercano de Jesús, presenciando milagros de resurrección (Marcos 5:37), vieron con sus propios <u>ojos</u> la transfiguración (Marcos 9:2), y estaban con Jesús en Getsemaní (Marcos 14:33)
 
-#### Jesús reprende a Jacobo y Juan al principio de su ministerio. Lucas 9:49, 54
+#### Jesús reprende a Jacobo y Juan al principio de <u>su</u> ministerio. Lucas 9:49, 54
 
-### Juan entendió su profunda relación de amor con la que Jesús los había amado  Juan 13:1 , y desde ese momento se describe como el discípulo amado. Juan 13:23, 19:26, 20:2, 21:7, 20
+### Juan entendió su profunda relación de amor con la que Jesús los había <u>amado</u>  Juan 13:1 , y desde ese momento se describe como el discípulo amado. Juan 13:23, 19:26, 20:2, 21:7, 20
 
-### Durante la crucificción de Jesús, él le confió el cuidado de su madre María. Juan 19:26–27
+### Durante la crucificción de Jesús, Él confió el cuidado de su <u>madre</u> María a Juan. Juan 19:26–27
 
-### Después de la resurrección, Juan fue uno de los primeros testigos de ver el sepulcro donde lo enterraron vacío y movida la piedra. Juan 20:1–9
+### Después de la resurrección, Juan fue uno de los <u>primeros</u> testigos de ver el sepulcro donde lo enterraron vacío y movida la piedra. Juan 20:1–9
 
-### Juan y Pedro fueron al templo y realizaron un milagro con un cojo en el nombre de Jesús y todos se admiraron Hechos 3:1-10 , fueron arrestados por que enseñaban al pueblo y anunciaban en Jesús la resurrección Hechos 4:1-22 , fueron enviados por los apóstoles a Samaria para confirmar la fe de los creyentes y anunciaron el evangelio en muchas aldeas de los samaritanos. Hechos 8:14–25
+### Juan y Pedro fueron al templo y realizaron un milagro con un cojo en el nombre de Jesús y todos se admiraron Hechos 3:1-10 , fueron arrestados por que enseñaban al <u>pueblo</u> y anunciaban en Jesús la resurrección Hechos 4:1-22 , fueron enviados por los apóstoles a Samaria para confirmar la fe de los creyentes y anunciaron el evangelio en muchas aldeas de los samaritanos. Hechos 8:14–25
 
-### Juan fue desterrado por causa de la palabra de Dios y del testimonio de Jesús a la isla de Patmos (Apocalipsis 1:9) por el emperador Domiciano, alrededor del año 98 d.C esperando que muriera allí, en esta isla fue donde tuvo las visiones que lo llevaron a escribir el libro de Apocalipsis (Apocalipsis 1:19).
+### Juan fue desterrado por causa de la palabra de Dios y del testimonio de Jesús a la isla de Patmos (Apocalipsis 1:9) por el emperador Domiciano, alrededor del año 98 d.C esperando que muriera allí, en esta isla fue donde tuvo las visiones que lo llevaron a <u>escribir</u> el libro de Apocalipsis (Apocalipsis 1:19).
 
-### No existe registro bíblico de su muerte, sin embargo según los historiadores (Ireneo, Eusebio, Jerónimo) afirman que murió en paz en Éfeso sin ser martirizado como los otros apóstoles.
+### No existe registro bíblico de su muerte, sin embargo según los historiadores (Ireneo, Eusebio, Jerónimo) afirman que murió en paz en Éfeso sin ser martirizado <u>como</u> los otros apóstoles.
 
 ## Escritos atribuidos a Juan.
 
-### **Evangelio según Juan** Fue escrito alrededor de los años 80–90 d.C, revela a Jesús como el hijo de Dios a todo el mundo y para que puedan creer  y creyendo tengan vida eterna.
+### **Evangelio según Juan** Fue escrito alrededor de los años 80–90 d.C, revela a Jesús como el hijo de Dios a todo el mundo para que <u>crean</u>  y creyendo tengan vida eterna.
 
-### Las epístolas de Juan fueron escritas alrededor de los años 85–95 d.C en Éfeso según historiadores de los siglos I y II. 
+### Las epístolas de Juan fueron escritas alrededor de los años 85–95 d.C en Éfeso <u>según</u> historiadores de los siglos I y II. 
 
-#### **Primera epístola de Juan** Les muestra a Jesús como el verbo, con el fin que puedan estar en la luz, mostrando comunión con los creyentes y venciendo al mundo por medio de la permanecer en él.
+#### **Primera epístola de Juan** Les muestra a Jesús como el verbo, con el fin que puedan estar en la luz, mostrando comunión con los creyentes y venciendo al <u>mundo</u> por medio de la permanecer en él.
 
-#### **Segunda epístola de Juan** - Les anima a mantenerse en la doctrina de Cristo permaneciendo en el amor, explicándoles acerca de falsos maestros y sus enseñanzas. 
+#### **Segunda epístola de Juan** - Les anima a mantenerse en la doctrina de Cristo permaneciendo en el amor, explicándoles acerca de <u>falsos</u> maestros y sus enseñanzas. 
 
-#### **Tercera epístola de Juan** - Les escribe al anciano Gayo para animar a los creyentes y mostrarles un contraste práctico de la acción de Gayo con Diótrefes, un líder que rechazaba a los hermanos. 
+#### **Tercera epístola de Juan** - Les escribe al anciano Gayo para animar a los creyentes y mostrarles un contraste práctico de la acción de Gayo con Diótrefes, un líder que rechazaba a los <u>hermanos</u>. 
 
-### **Apocalipsis** Fue escrito alrededor de los años 94–96 d.C en la isla de Patmos, es la revelación de Jesucristo, quien manda a Juan a escribir las cosas que son, que han de ser, y las que han de ser después de estas. Apocalipsis 1:19
+### **Apocalipsis** Fue escrito alrededor de los años 94–96 d.C en la isla de Patmos, es la revelación de Jesucristo, quien <u>manda</u> a Juan a escribir las cosas que fueron, que son, y las que han de ser. Apocalipsis 1:19
 
 ## Propósito de la escritura.
 
-### Uno de los propósitos de anunciarles esto, es para que tengan comunión con nosotros, que es con el Padre y con su Hijo Jesucristo, con el fin que que su gozo sea completo. 1 Juan 1:3-4
+### Uno de los propósitos de anunciarles esto, es para que tengan comunión unos con otros, que es con el Padre y con su Hijo Jesucristo, con el fin que que su <u>gozo</u> sea completo. 1 Juan 1:3-4
 
-### El propósito de escribirles esto no es para que tengan libertad de pecar, sino para que sepan que tienen un intercesor para con el Padre, a Jesucristo el Justo. 1 Juan 2:1
+### El propósito de escribirles esto <u>no</u> es para que tengan libertad de pecar, sino para que sepan que tienen un intercesor para con el Padre, a Jesucristo el Justo. 1 Juan 2:1
 
-### Les recuerda un mandamiento antiguo que han tenido desde el principio, el amor a los hermanos. 1 Juan 2:7-11
+### Les recuerda un mandamiento antiguo que han <u>tenido</u> desde el principio, el amor a los hermanos. 1 Juan 2:7-11
 
-### Les escribe para recordarles que sus pecados han sido perdonados por el nombre de Cristo y que conocen aquel que ha sido desde el principio, les anima mostrando que conocen al Padre y han vencido al maligno.1 Juan 2:12-14
+### Les escribe para recordarles que sus pecados han sido perdonados por el nombre de Cristo y que conocen aquel que ha sido desde el principio, les <u>anima</u> mostrando que conocen al Padre y han vencido al maligno.1 Juan 2:12-14
 
-### Les escribe debido a que conocen la verdad, y les anima a permanecer en lo que oyeron desde el principio, sabiendo que están tratando de engañarlos. 1 Juan 2:21-26
+### Les escribe debido a que <u>conocen</u> la verdad, y les anima a permanecer en lo que oyeron desde el principio, sabiendo que están tratando de engañarlos. 1 Juan 2:21-26
 
-### Un propósito de escribirles es mostrarles el amor de Dios para con nosotros y que vivamos por medio de él, amándonos unos a otros. 1 Juan 4:9-17
+### Un propósito de escribirles es mostrarles el amor de Dios para con nosotros y que vivamos por medio de Él, amándonos <u>unos</u> a otros. 1 Juan 4:9-17
 
-### Estas cosas les escribe a los que creen en el nombre de Jesucristo para que sepan que tienen vida eterna y que sepan que Dios oye sus peticiones. 1 Juan 5:13-15
+### Estas cosas les escribe a los que creen en el nombre de Jesucristo para que sepan que tienen vida eterna y que sepan que Dios <u>oye</u> sus peticiones. 1 Juan 5:13-15
 
 ## Tema central y división temática de 1 Juan
 
-### El tema central de la primera epístola de Juan es "El puso su vida por nosotros." 1 Juan 3:16 
+### El tema central de la primera epístola de Juan es "Él puso su vida por nosotros." 1 Juan 3:16 
 
 #### **Prólogo** - 1 Juan 1:1 - 4
 
-##### Testimonio de Juan con respecto al verbo de vida.1 Juan 1:1-2
+##### Testimonio de Juan con respecto al <u>verbo</u> de vida.1 Juan 1:1-2
 
-##### Comunión con nosotros, con el Padre y el hijo. 1 Juan 1:3-4
+##### Comunión con nosotros, con el <u>Padre</u> y el hijo. 1 Juan 1:3-4
 
 #### **Caminar en la luz** - 1 Juan 1:5 - 2:27 
 
-##### Dios es luz y la naturaleza santa de Dios. 1 Juan 1:5–7
+##### Dios es luz y la naturaleza <u>santa</u> de Dios. 1 Juan 1:5–7
 
-##### Confesión de Pecados. 1 Juan 1:8-10 
+##### Confesión de <u>Pecados</u>. 1 Juan 1:8-10 
 
-##### Cristo nuestro intercesor ante Dios. 1 Juan 2:1-2
+##### Cristo <u>nuestro</u> intercesor ante Dios. 1 Juan 2:1-2
 
-##### Guardar sus mandamientos y su palabra. 1 Juan 2:3-6
+##### Guardar <u>sus</u> mandamientos y su palabra. 1 Juan 2:3-6
 
-##### El mandamiento de Amar a los hermanos.  1 Juan 2:7-11
+##### El mandamiento de <u>amar</u> a los hermanos.  1 Juan 2:7-11
 
-##### El amor al mundo y hacer la voluntad de Dios. 1 Juan 2:15-17
+##### El amor al mundo y <u>hacer</u> la voluntad de Dios. 1 Juan 2:15-17
 
-##### El anticristo y su engaño.1 Juan 2:18-27
+##### El anticristo y <u>su</u> engaño.1 Juan 2:18-27
 
 #### **Vivir como hijos de Dios** - 1 Juan 2:28 - 4:6
 
-##### Nacidos de Dios y el reflejo de su pureza. 1 Juan 2:28–3:3
+##### Nacidos de Dios y el reflejo <u>de</u> Su pureza. 1 Juan 2:28–3:3
 
-##### La nueva relación con el Pecado y la permanencia en Dios. 1 Juan 3:4–10
+##### La nueva relación con el <u>pecado</u> y la permanencia en Dios. 1 Juan 3:4–10
 
-##### El amor a los hermanos frente al odio. 1 Juan 3:11–18
+##### El amor a los hermanos frente al <u>odio</u>. 1 Juan 3:11–18
 
-##### Confianza delante de Dios guardando sus mandamientos. 1 Juan 3:19–24
+##### Confianza delante de <u>Dios</u> guardando Sus mandamientos. 1 Juan 3:19–24
 
-##### Discernimiento del espíritu de verdad y del error. 1 Juan 4:1–6
+##### Discernimiento del espíritu de <u>verdad</u> y del error. 1 Juan 4:1–6
 
 #### **Dios es amor** - 1 Juan 4:7 - 5:12
 
-##### Origen y manifestación expresada del amor. 1 Juan 4:7–10
+##### Origen y manifestación expresada del <u>amor</u>. 1 Juan 4:7–10
 
-##### Permanencia en el amor de Dios y el amor a los hermanos. 1 Juan 4:11–21
+##### Permanencia en el amor de <u>Dios</u> y el amor a los hermanos. 1 Juan 4:11–21
 
-##### La fe que vence al mundo. 1 Juan 5:1–5
+##### La <u>fe</u> que vence al mundo. 1 Juan 5:1–5
 
-##### El testimonio triple en el cielo y en la tierra. 1 Juan 5:6–12
+##### El testimonio triple en el cielo y en la <u>tierra</u>. 1 Juan 5:6–12
 
 #### **Epílogo**  1 Juan 5:13 - 21 
 
-##### Seguridad de la vida eterna para los creyentes. 1 Juan 5:13
+##### Seguridad de la <u>vida</u> eterna para los creyentes. 1 Juan 5:13
 
-##### Confianza en las oraciones y peticiones. 1 Juan 5:14–15
+##### Confianza en las oraciones y <u>peticiones</u>. 1 Juan 5:14–15
 
-##### Intercesión por el hermano que comete pecado. 1 Juan 5:16–17
+##### Intercesión <u>por</u> el hermano que comete pecado. 1 Juan 5:16–17
 
-##### Conocimiento de la santidad, el mundo, el verdadero Dios y la vida eterna. 1 Juan 5:18–20
+##### Conocimiento de la santidad, el mundo, el verdadero Dios y la vida <u>eterna</u>. 1 Juan 5:18–20
 
-##### Exhortación final con respecto a la idolatría. 1 Juan 5:21
+##### Exhortación <u>final</u> con respecto a la idolatría. 1 Juan 5:21
 
 # LOS TESTIGOS Y SU MENSAJE
 
