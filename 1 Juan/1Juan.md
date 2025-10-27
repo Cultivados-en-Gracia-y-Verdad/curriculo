@@ -179,415 +179,415 @@ Title: Primera epístola del apóstol Juan
 
 # LOS TESTIGOS Y SU MENSAJE
 
-## 1 Juan 1:1-4 – Juan comienza  anunciando un mensaje, una Persona, el Verbo de Vida.
+## 1 Juan 1:1-4 – Juan comienza  anunciando el verbo de vida.
 
-### 1 Juan 1:1a – *"Lo que existía* [era RV09] *desde el principio…"* Comienza hablando de algo que era desde el principio. "*Lo que existía*" se refiere a un hecho o concepto. El pronombre relativo neutral no describe a una persona. 
+### 1 Juan 1:1a – *"Lo que existía* [era RV09] *desde el principio…"* Comienza hablando de algo que era <u>desde</u> el principio. "*Lo que existía*" se refiere a un hecho o concepto. El pronombre relativo neutral no describe a una persona. 
 
-#### Pudo haber dicho "El que existía" denotando a una persona específica. Sin embargo vemos que esta dando testimonio de un concepto. Aún no menciona de que se trata. 
+#### Pudo haber dicho "El que existía" denotando a una persona específica. Sin embargo vemos que esta <u>dando</u> testimonio de un concepto. Aún no menciona de que se trata. 
 
-### 1 Juan 1:1b – “*...lo que hemos oído...visto con nuestros propios ojos...contemplado, y lo que han tocado nuestras manos…”* Estas cuatro acciones hacen referencia a como Juan y sus compañeros llegaron a conocer a Dios mismo, y no fue por medio de fabulas o cuentos, sino por medio de hechos visibles y palpables. 
+### 1 Juan 1:1b – “*...lo que hemos oído...visto con nuestros propios ojos...contemplado, y lo que han tocado nuestras manos…”* Estas cuatro <u>acciones</u> hacen referencia a como Juan y sus compañeros llegaron a conocer a Dios mismo, y no fue por medio de fabulas o cuentos, sino por medio de hechos visibles y palpables. 
 
-#### Todos estos verbos están en plural, probablemente se refiera a los demás apóstoles como testigos, esto hace un énfasis en la veracidad de estos hechos, no solamente a través de un solo testigo, sino de varios. 
+#### Todos estos verbos están en <u>plural</u>, probablemente se refiera a los demás apóstoles como testigos, esto hace un énfasis en la veracidad de estos hechos, no solamente a través de un solo testigo, sino de varios. 
 
-#### Juan va personificando el mensaje al decir que lo que han oído, visto, contemplado y palpado, es lo que existía desde el principio. 
+#### Juan va personificando el mensaje al <u>decir</u> que lo que han oído, visto, contemplado y palpado, es lo que existía desde el principio. 
 
-### 1 Juan 1:1b – "*...lo que hemos oído,*" El mensaje se recibió de forma audible. El verbo en tiempo perfecto comunica que lo habían escuchado y todavía continúa como algo escuchado.
+### 1 Juan 1:1b – "*...lo que hemos oído,*" El mensaje se recibió de <u>forma</u> audible. El verbo en tiempo perfecto comunica que lo habían escuchado y todavía continúa como algo escuchado.
 
-#### La expresión “*Hemos oído*” Indica que es un mensaje que no provino de ellos mismos sino de otro. 
+#### La expresión “*Hemos oído*” <u>Indica</u> que es un mensaje que no provino de ellos mismos sino de otro. 
 
-### 1 Juan 1:1b "*lo que hemos visto con nuestros propios ojos...*" Esto indica una experiencia personal y visual: Es algo vívido y real. Son testigos oculares del hecho. 
+### 1 Juan 1:1b "*lo que hemos visto con nuestros propios ojos...*" Esto indica una experiencia personal y visual: Es algo vívido y real. Son testigos oculares del <u>hecho</u>. 
 
-### 1 Juan 1:1b "*lo que hemos contemplado...*" Y no solo visto, sino examinado y contemplado de cerca.
+### 1 Juan 1:1b "*lo que hemos contemplado...*" Y no <u>solo</u> visto, sino examinado y contemplado de cerca.
 
-#### "*Contemplar*" es THEAOMAI significa contemplar algo que estimula las facultades morales y mentales de una manera impresionante (y a menudo asombrosa).[^3]
+#### "*Contemplar*" es THEAOMAI significa contemplar algo que <u>estimula</u> las facultades morales y mentales de una manera impresionante (y a menudo asombrosa).[^3]
 
-#### La voz media comunica que ellos se beneficiaron de lo que contemplaron. 
+#### La voz media comunica que <u>ellos</u> se beneficiaron de lo que contemplaron. 
 
-### 1 Juan 1:1b "...*y lo que han tocado nuestras manos…*" No solo habían visto y contemplado, sino que lo habían palpado. ¿Que vieron y palparon con sus manos? 
+### 1 Juan 1:1b "...*y lo que han tocado nuestras manos…*" No <u>solo</u> habían visto y contemplado, sino que lo habían palpado. ¿Que vieron y palparon con sus manos? 
 
-##### Es interesante que Jesús resucitado usó esta palabra cuando invitó a sus discípulos a palparlo. Lucas 24:39
+##### Es interesante que <u>Jesús</u> resucitado usó esta palabra cuando invitó a sus discípulos a palparlo. Lucas 24:39
 
-### 1 Juan 1:1c - *…esto escribimos acerca del verbo de vida.* La frase "*esto escribimos*" es algo agregado por los traductores, no se encuentra los manuscritos del griego.  Una mejor traducción seria, "*tocante al Verbo de vida*" (RVR60). 
+### 1 Juan 1:1c - *…esto escribimos acerca del verbo de vida.* La frase "*esto escribimos*" es algo agregado por los traductores, no se encuentra los manuscritos del <u>griego</u>.  Una mejor traducción seria, "*tocante al Verbo de vida*" (RVR60). 
 
-#### ¿De que se trata el verbo LOGOS de vida?
+#### ¿De que se trata el <u>verbo</u> LOGOS de vida?
 
-##### "*el verbo*" es un sustantivo, genitivo y se refiere a todo el Evangelio, no a Cristo mismo personalmente, como lo evidencia el genitivo añadido "*de vida*"; El genitivo indica lo perteneciente a la vida. Luego veremos que es la vida que se manifestó y no el verbo. 
+##### "*el verbo*" es un sustantivo, genitivo y se refiere a todo el Evangelio, no a Cristo mismo personalmente, como lo evidencia el <u>genitivo</u> añadido "*de vida*"; El genitivo indica lo perteneciente a la vida. Luego veremos que es la vida que se manifestó y no el verbo. 
 
-###### Cuando Ó LOGOS se usa personalmente (Juan 1:1, 1:14), el término es absoluto. Aquí LOGOS es sustantivo nominativo y lleva el artículo definido el Ó. 
+###### Cuando Ó LOGOS se usa personalmente (Juan 1:1, 1:14), el término es absoluto. Aquí LOGOS es sustantivo nominativo y lleva el <u>artículo</u> definido el Ó. 
 
-##### Ellos son testigos experienciales de la vida. Vieron, oyeron, palparon la vida de primera mano. Experimentaron la vida. 1 Juan 2:24-25; 1 Juan 1:2
+##### Ellos son testigos experienciales de la vida. Vieron, oyeron, palparon la vida de primera mano. Experimentaron la <u>vida</u>. 1 Juan 2:24-25; 1 Juan 1:2
 
-### 1 Juan 1:2a - *"y la vida se manifestó* [fue manifestada RV09]*” Dios se había encargado de enviar y revelar la vida misma. Mateo 16:16-17
+### 1 Juan 1:2a - *"y la vida se manifestó* [fue manifestada RV09]*” Dios se había encargado de enviar y revelar la vida <u>misma</u>. Mateo 16:16-17
 
-### 1 Juan 1:2b - *"...nosotros la hemos visto, y damos testimonio y les anunciamos a ustedes la vida eterna..."* El dar testimonio muestra el hecho de solamente ser testigos y estar comunicando la vida habían experimentado, no que lo habían creado. Ellos habian conocido de primera mano  la vida eterna.
+### 1 Juan 1:2b - *"...nosotros la hemos visto, y damos testimonio y les anunciamos a ustedes la vida eterna..."* El dar testimonio muestra el hecho de solamente ser testigos y estar comunicando la vida habían experimentado, no que lo habían <u>creado</u>. Ellos habian conocido de primera mano  la vida eterna.
 
-### 1 Juan 1:2c *…la vida eterna que estaba con el Padre…*esta vida eterna (calidad de vida) que experimentaron de parte del Padre es en realidad conocerlo a Él. Juan 17:3; 1 Juan 
+### 1 Juan 1:2c *…la vida eterna que estaba con el Padre…*esta vida eterna (calidad de vida) que experimentaron de parte del <u>Padre</u> es en realidad conocerlo a Él. Juan 17:3; 1 Juan 
 
-#### La vida eterna estaba (imperfecto, activo, indicativo) lo que indica que la vida eterna ya estaba (desde el principio) hasta un momento del pasado con el Padre. 
+#### La vida eterna estaba (imperfecto, activo, indicativo) lo que <u>indica</u> que la vida eterna ya estaba (desde el principio) hasta un momento del pasado con el Padre. 
 
-#### La vida eterna proviene del Padre. Juan 5:26, 6:57
+#### La vida eterna proviene del <u>Padre</u>. Juan 5:26, 6:57
 
-### 1 Juan 1:2d "*...y se manifestó a nosotros.*" En el pasado la vida eterna "*estaba con el Padre*". Ahora se manifestó (aoristo, pasivo, indicativo) a nosotros. Dios les manifestó la vida eterna. 
+### 1 Juan 1:2d "*...y se manifestó a nosotros.*" En el pasado la vida eterna "*estaba con el Padre*". Ahora se manifestó (aoristo, pasivo, indicativo) a nosotros. <u>Dios</u> les manifestó la vida eterna. 
 
-### 1 Juan 1:3a – "*Lo que hemos visto y oído les proclamamos también a ustedes,*" Antes la vida estaba con el Padre, luego Dios se los manifestó, ahora ellos se lo proclaman.  
+### 1 Juan 1:3a – "*Lo que hemos visto y oído les proclamamos también a ustedes,*" Antes la vida estaba con el Padre, luego Dios se los manifestó, <u>ahora</u> ellos se lo proclaman.  
 
-#### "*proclamar*" APANGELLO - informar a alguien del mensaje de otra persona; a veces sin ninguna idea definida de la fuente del mensaje.[^3]
+#### "*proclamar*" APANGELLO - informar a alguien del mensaje de otra persona; a veces sin ninguna idea definida de la <u>fuente</u> del mensaje.[^3]
 
-#### ¿Porqué era tan importante para Juan proclamarles la vida eterna? 
+#### ¿Porqué era tan importante <u>para</u> Juan proclamarles la vida eterna? 
 
-### 1 Juan 1:3b – *"para que también ustedes tengan comunión con nosotros…"* La palabra "*comunión*" KOINONIA transmite la idea de compañerismo, de tener en común, de participar de lo mismo.
+### 1 Juan 1:3b – *"para que también ustedes tengan comunión con nosotros…"* La palabra "*comunión*" KOINONIA transmite la idea de compañerismo, de <u>tener</u> en común, de participar de lo mismo.
 
-#### Juan deseaba que ellos también oigan, vean, contemplen y palpen la vida eterna así como ellos. 
+#### Juan deseaba que ellos también oigan, <u>vean</u>, contemplen y palpen la vida eterna así como ellos. 
 
-#### Es bueno ver este pasaje para poder comprender más apropiadamente lo que es la comunión y el uso que 1 Juan le da. 
+#### Es bueno ver este pasaje para <u>poder</u> comprender más apropiadamente lo que es la comunión y el uso que 1 Juan le da. 
 
-##### En la Escritura vemos la comunión que compartimos es un una sola salvación en nuestro Señor Jesucristo y los que estarían excluidos de esto serían los incrédulos. 2 Corintios 13:14 
+##### En la Escritura vemos la comunión que compartimos es un una sola salvación en nuestro Señor Jesucristo y los que estarían excluidos de esto <u>serían</u> los incrédulos. 2 Corintios 13:14 
 
-##### A veces se tiene el concepto de comunión unos con otros en base a compartir alguna actividad en la iglesia. 
+##### A veces se tiene el concepto de comunión <u>unos</u> con otros en base a compartir alguna actividad en la iglesia. 
 
-##### Pero ¿Como se esta explicando la comunión entre hermanos en 1 Juan? ¿Como era posible esta comunión?
+##### Pero ¿Como se esta explicando la comunión <u>entre</u> hermanos en 1 Juan? ¿Como era posible esta comunión?
 
-#### Vemos que los apóstoles anunciaban la vida eterna, porque solo esa vida es lo que podría llevarlos a participar a los lectores de una comunión con ellos. 
+#### <u>Vemos</u> que los apóstoles anunciaban la vida eterna, porque solo esa vida es lo que podría llevarlos a participar a los lectores de una comunión con ellos. 
 
-#### Esto los haría compañeros o parte de la misma sociedad. Tendrían comunión unos a otros en la misma vida eterna.
+#### Esto los haría compañeros o <u>parte</u> de la misma sociedad. Tendrían comunión unos a otros en la misma vida eterna.
 
-### 1 Juan 1:3b - "*...en verdad nuestra comunión es con el Padre y con su Hijo Jesucristo.*" Ese compañerismo al que quieren apuntar, es en realidad que los lectores puedan participar de esta sociedad (comunión) que ellos tenían con el Padre y con su Hijo. 1 Juan 5:11-12
+### 1 Juan 1:3b - "*...en verdad nuestra comunión es con el Padre y con su Hijo Jesucristo.*" Ese compañerismo al que quieren <u>apuntar</u>, es en realidad que los lectores puedan participar de esta sociedad (comunión) que ellos tenían con el Padre y con su Hijo. 1 Juan 5:11-12
 
-#### Es a través de la vida que somos compañeros y disfrutamos de esta intimidad con Dios.
+#### Es a través de la vida que <u>somos</u> compañeros y disfrutamos de esta intimidad con Dios.
 
-#### Si nuestro mensaje no es lo que Dios el Padre manifestó, entonces nunca podremos llevar a una verdadera comunión con Dios a las personas que estamos tratando de enseñar.
+#### Si nuestro mensaje no es lo que Dios el Padre manifestó, entonces nunca podremos llevar a una verdadera comunión con <u>Dios</u> a las personas que estamos tratando de enseñar.
 
-### 1 Juan 1:4 – "*Les escribimos estas cosas para que nuestro gozo sea completo...*" Juan quiere que el regocijo de la vida que habían recibido, sea la verdad experiencial de cada creyente por medio de la participación (comunión) con Dios. Juan 10:10, 15:11
+### 1 Juan 1:4 – "*Les escribimos estas cosas para que nuestro gozo sea completo...*" Juan quiere que el regocijo de la vida que <u>habían</u> recibido, sea la verdad experiencial de cada creyente por medio de la participación (comunión) con Dios. Juan 10:10, 15:11
 
-#### Solo por medio de una correcta comprensión y conocimiento de lo que es vida, el creyente puede disfrutar plenamente.
+#### Solo por medio de una correcta comprensión y conocimiento de lo que es vida, el creyente puede disfrutar <u>plenamente</u>.
 
-#### Este gozo, es el gozo de Cristo, del que podemos participar. Juan 15:11 dice: “*Estas cosas les he hablado, para que Mi gozo esté en ustedes, y su gozo sea perfecto*”.
+#### Este gozo, es el gozo de Cristo, del que podemos participar. Juan 15:11 dice: “*Estas cosas les he hablado, para que Mi gozo esté en <u>ustedes</u>, y su gozo sea perfecto*”.
 
-##### Hoy muchos basan la comunión con Dios por medio de lo que ellos hacen por Dios y esperan algún día experimentar el gozo de esto. Pero el verdadero gozo solo viene por medio de experimentar la vida que proviene de Dios. 2 Pedro 1:3-4
+##### Hoy muchos basan la comunión con Dios por medio de lo que ellos hacen por Dios y esperan algún día experimentar el <u>gozo</u> de esto. Pero el verdadero gozo solo viene por medio de experimentar la vida que proviene de Dios. 2 Pedro 1:3-4
 
 # 1 Juan 1:5-10 – JUAN DEMUESTRA SI SU COMUNIÓN ES CON EL PADRE
 
 ## Introducción
 
-### En los siguientes versículos, Juan demostrará con hechos cual es la condición (o el estado) del creyente en su andar espiritual. ¿Está en comunion con Dios o no? No será según su propia percepción, sino basado en evidencias claras, puntuales, en su conducta que demuestran el verdadero estado de uno. 
+### En los <u>siguientes</u> versículos, Juan demostrará con hechos cual es la condición (o el estado) del creyente en su andar espiritual. ¿Está en comunion con Dios o no? No será según su propia percepción, sino basado en evidencias claras, puntuales, en su conducta que demuestran el verdadero estado de uno. 
 
-#### Debemos aclarar la diferencia entre el estado (o condición) de comunión de uno con la conducta de uno. No son la misma cosa en este pasaje. Juan usará la conducta (andar en tinieblas versus andar en luz) para demostrar el estado de comunión con Dios. 
+#### Debemos aclarar la diferencia <u>entre</u> el estado (o condición) de comunión de uno con la conducta de uno. No son la misma cosa en este pasaje. Juan usará la conducta (andar en tinieblas versus andar en luz) para demostrar el estado de comunión con Dios. 
 
-#### En el primer siglo, "*andar*" PERIPATEO era una metafora para decir como uno se conduce. Marcos 7:5; Hechos 21:21
+#### En el primer siglo, "*andar*" PERIPATEO era una metafora <u>para</u> decir como uno se conduce. Marcos 7:5; Hechos 21:21
 
-### Es importante mencionar que en ningún momento de esta sección enseña como volver a la comunión, como permanecer en comunión ni como se rompe la comunión con Dios. El simplemente está demostrando que el creyente puede saber si esta en comunión con Dios o no mediante estos síntomas. 
+### Es importante mencionar que en ningún <u>momento</u> de esta sección enseña como volver a la comunión, como permanecer en comunión ni como se rompe la comunión con Dios. El simplemente está demostrando que el creyente puede saber si esta en comunión con Dios o no mediante estos síntomas. 
 
-#### No existe ningún imperativo en el capítulo 1 lo que demuestra que Juan no esta enseñando hacer algo para reestablecer la comunión con Dios. 
+#### No existe <u>ningún</u> imperativo en el capítulo 1 lo que demuestra que Juan no esta enseñando hacer algo para reestablecer la comunión con Dios. 
 
-#### Juan se incluye en la siguientes declaraciónes haciendo entender que todas estas situaciones son posibilidades reales en la vida de cualquier creyente. "*si decimos*" (1 Juan 1:6, 8, 10), "*si andamos*", "*si tenemos*" (1 Juan 1:7).
+#### Juan se incluye en la siguientes declaraciónes haciendo entender que todas estas situaciones son posibilidades reales en la <u>vida</u> de cualquier creyente. "*si decimos*" (1 Juan 1:6, 8, 10), "*si andamos*", "*si tenemos*" (1 Juan 1:7).
 
 ## 1 Juan 1:5 Dios es Luz
 
-### 1 Juan 1:5a "*Y este es el mensaje que hemos oído de Él y que les anunciamos…*" Este mensaje procede del Padre “*hemos oído de Él*”. Este mismo mensaje es lo que ahora ellos les anuncian. Juan 1:4-9, 8:12, 9:4-5, 11:9-10
+### 1 Juan 1:5a "*Y este es el mensaje que hemos oído de Él y que les anunciamos…*" Este mensaje procede del Padre “*hemos oído de Él*”. Este <u>mismo</u> mensaje es lo que ahora ellos les anuncian. Juan 1:4-9, 8:12, 9:4-5, 11:9-10
 
-#### ¿Cuál es este mensaje que habían recibido y que estaban anunciando? 
+#### ¿Cuál es <u>este</u> mensaje que habían recibido y que estaban anunciando? 
 
-### 1 Juan 1:5b "…*Dios es luz y en el no hay ninguna tiniebla.*" Luz es una metáfora del Antiguo Testamento que habla del caracter de Dios. Luz habla de ser puro, santo y justo. Dios es perfecto. Salmo 27:1, 36:9, 4:6; Daniel 2:22
+### 1 Juan 1:5b "…*Dios es luz y en el no hay ninguna tiniebla.*" Luz es una metáfora del Antiguo Testamento que habla del caracter de Dios. Luz <u>habla</u> de ser puro, santo y justo. Dios es perfecto. Salmo 27:1, 36:9, 4:6; Daniel 2:22
 
-#### Vemos aspectos mostrados en las Escrituras acerca de la luz, y el efecto que tiene sobre las tinieblas. 
+#### Vemos aspectos mostrados en las Escrituras <u>acerca</u> de la luz, y el efecto que tiene sobre las tinieblas. 
 
-##### La luz desenmascara las tinieblas. Filipenses 2:14-15
+##### La luz desenmascara las <u>tinieblas</u>. Filipenses 2:14-15
 
-##### Fue Dios quien alumbró al mundo por medio de Jesucristo, ya que toda la humanidad está perdida en tinieblas. Lucas 1:79; Juan 12:35; 2 Corintios 4:6
+##### Fue Dios <u>quien</u> alumbró al mundo por medio de Jesucristo, ya que toda la humanidad está perdida en tinieblas. Lucas 1:79; Juan 12:35; 2 Corintios 4:6
 
-##### Pablo transmite la idea que luz es para iluminar o guiar. Romanos 2:19
+##### Pablo transmite la <u>idea</u> que luz es para iluminar o guiar. Romanos 2:19
 
-##### Luz es el concepto de verdad, transparencia, visible. 
+##### Luz es el <u>concepto</u> de verdad, transparencia, visible. 
 
-##### Tinieblas SKOTIA es la ausencia de la luz o iluminación. Es aquello que esta escondido y no a la vista. 1 Corintios 4:5-6
+##### Tinieblas SKOTIA es la ausencia de la luz o iluminación. Es <u>aquello</u> que esta escondido y no a la vista. 1 Corintios 4:5-6
 
-##### Somos llamados a andar como hijos de luz desenmascarando las tinieblas. Efesios 5:8-13
+##### Somos llamados a andar como <u>hijos</u> de luz desenmascarando las tinieblas. Efesios 5:8-13
 
-#### En el evanglio de Juan (también escrito por Juan), la luz es asociada con la vida. Según Juan, la luz proviene de la vida. La vida se revela como luz. La vida es la fuente. Luz es la manifestación de esa vida. Juan 1:4-5
+#### En el evanglio de Juan (también <u>escrito</u> por Juan), la luz es asociada con la vida. Según Juan, la luz proviene de la vida. La vida se revela como luz. La vida es la fuente. Luz es la manifestación de esa vida. Juan 1:4-5
 
-##### Juan 1:4 *En Él estaba la vida, y la **vida era la Luz** de los hombres.* La vida estaba en Cristo y la luz se presenta como la manifestación (o expresión exterior) de la vida a los hombres. 1 Juan 1:1-2
+##### Juan 1:4 *En Él estaba la vida, y la **vida era la Luz** de los hombres.* La vida <u>estaba</u> en Cristo y la luz se presenta como la manifestación (o expresión exterior) de la vida a los hombres. 1 Juan 1:1-2
 
-##### Juan 1:5 *La Luz brilla en las tinieblas, y las tinieblas no la comprendieron.* La vida estaba en Cristo y El se manifestó a los hombres. 
+##### Juan 1:5 *La Luz brilla en las tinieblas, y las tinieblas no la comprendieron.* La vida estaba en Cristo y El se <u>manifestó</u> a los hombres. 
 
-##### Cristo se identifica como la Luz del mundo y promete dar la luz de la vida al que le sigue...Juan 8:12
+##### Cristo se identifica como la Luz del <u>mundo</u> y promete dar la luz de la vida al que le sigue...Juan 8:12
 
-###### Juan 8:12 *Jesús les habló otra vez, diciendo: «Yo soy la Luz del mundo; el que me sigue no andará en tinieblas, sino que tendrá la **Luz de la vida**».*
+###### Juan 8:12 *Jesús les habló otra vez, diciendo: «Yo <u>soy</u> la Luz del mundo; el que me sigue no andará en tinieblas, sino que tendrá la **Luz de la vida**».*
 
-###### Cristo es la Luz que vino al mundo. Juan usa “*Luz del mundo*” como la autorrevelación de Dios en acción: La Palabra de verdad, pureza y justicia, revelada a través de Él. 
+###### Cristo es la Luz que vino al mundo. Juan usa “*Luz del mundo*” como la autorrevelación de Dios en acción: La Palabra de verdad, <u>pureza</u> y justicia, revelada a través de Él. 
 
-###### "*El mundo*" es la humanidad necesitada de iluminación, perdida en tinieblas. Juan 1:9
+###### "*El mundo*" es la humanidad necesitada de iluminación, <u>perdida</u> en tinieblas. Juan 1:9
 
-###### La Luz vino al mundo para alumbrar a todo hombre. Sin embargo porque sus acciones eran malas, prefirieron mantenerlas encubiertas en las tinieblas. Juan 3:19
+###### La Luz vino al mundo para alumbrar a todo <u>hombre</u>. Sin embargo porque sus acciones eran malas, prefirieron mantenerlas encubiertas en las tinieblas. Juan 3:19
 
-###### El propósito de la Luz al venir al mundo es para que el hombre ya no permanezca en tinieblas. Juan 12:46
+###### El propósito de la Luz al venir al <u>mundo</u> es para que el hombre ya no permanezca en tinieblas. Juan 12:46
 
-#### Vemos el uso de la luz en las epístolas de Juan.
+#### Vemos el uso de la <u>luz</u> en las epístolas de Juan.
 
-##### 1 Juan 2:8 *Por otra parte, les escribo un mandamiento nuevo, el cual es verdadero en Él y en ustedes, porque las tinieblas van pasando, y la Luz verdadera ya está alumbrando.*
+##### 1 Juan 2:8 *Por otra parte, les escribo un mandamiento <u>nuevo</u>, el cual es verdadero en Él y en ustedes, porque las tinieblas van pasando, y la Luz verdadera ya está alumbrando.*
 
-##### El concepto de luz es interesante porque una luz no solo es, sino su misma esencia es que alumbra. Andar como luminares, como hijos de luz, andar en la luz habla tanto de un estado (de estar en la Luz de Dios) y también la condición de ser lumbrera.
+##### El concepto de luz es interesante porque una luz no solo es, sino su misma esencia es que alumbra. <u>Andar</u> como luminares, como hijos de luz, andar en la luz habla tanto de un estado (de estar en la Luz de Dios) y también la condición de ser lumbrera.
 
-#### Entonces, si Dios es luz, las tinieblas no pueden existir en Dios. Estos son opuestos, ya que Él es luz. Ambas cosas no pueden coexistir en la misma persona. No hay oportunidad de engaño, error, maldad o pecado que existan en Dios. Por lo tanto, nada de esto proviene de Dios. 
+#### Entonces, si Dios es luz, las tinieblas no pueden existir en Dios. Estos son opuestos, ya que Él es luz. Ambas cosas no pueden <u>coexistir</u> en la misma persona. No hay oportunidad de engaño, error, maldad o pecado que existan en Dios. Por lo tanto, nada de esto proviene de Dios. 
 
 ## 1 Juan 1:6 Estando fuera de comunión demostrado por el andar
 
-#### En su primera carta, Juan usa una manera de exhibir la realidad con hechos. Juan no ignora que ellos tienen conocimiento, sin embargo, el demostrará la realidad con hechos visibles.
+#### En su primera carta, <u>Juan</u> usa una manera de exhibir la realidad con hechos. Juan no ignora que ellos tienen conocimiento, sin embargo, el demostrará la realidad con hechos visibles.
 
-#### El propósito de Juan no es comprobar si es que son “verdaderos creyentes”. Asume estar hablando con creyentes. Utilizará en múltiples ocasiones frases como “sabemos”, “saben”, “conocemos” esto relacionado a una acción puntual “sabemos que esto es verdad por eso está pasando”.  1 Juan 2:3, 5, 18, 3:14, 24, 4:13, 5:2, 18-19 ("*sabemos*"), 1 Juan 2:20, 29; 3:5, 15 ("*saben*"), 1 Juan 3:16; 4:6 ("*conocemos*"), 1 Juan 2:21; 3:10; 4:2 ("*conocen*").
+#### El propósito de Juan no es comprobar si es que son “verdaderos creyentes”. Asume estar hablando con creyentes. Utilizará en múltiples ocasiones frases como “sabemos”, “saben”, “conocemos” esto relacionado a una <u>acción</u> puntual “sabemos que esto es verdad por eso está pasando”.  1 Juan 2:3, 5, 18, 3:14, 24, 4:13, 5:2, 18-19 ("*sabemos*"), 1 Juan 2:20, 29; 3:5, 15 ("*saben*"), 1 Juan 3:16; 4:6 ("*conocemos*"), 1 Juan 2:21; 3:10; 4:2 ("*conocen*").
 
-#### Mostrara la conducta o la vida que es acorde a la luz y esto por la comunión que tenemos con el Padre.
+#### Mostrara la conducta o la <u>vida</u> que es acorde a la luz y esto por la comunión que tenemos con el Padre.
 
-#### De lo contrario, el hecho de estar andando en tinieblas demuestra nuestra separación del Padre.
+#### De lo contrario, el hecho de estar andando en <u>tinieblas</u> demuestra nuestra separación del Padre.
 
-#### Estas partes del texto son conflictivas a primera vista, pero tomando el contexto de lo que Juan está hablando, se evidencia visiblemente nuestra comunión (participación) con el Padre en nuestro andar.
+#### Estas partes del texto son conflictivas a <u>primera</u> vista, pero tomando el contexto de lo que Juan está hablando, se evidencia visiblemente nuestra comunión (participación) con el Padre en nuestro andar.
 
-##### Juan habla de dos maneras de vivir (andar en la luz y andar en tinieblas) que demuestran claramente si esta en comunión o no. Estos dos son visibles, evidentes para que uno pueda saber. 
+##### Juan habla de dos maneras de <u>vivir</u> (andar en la luz y andar en tinieblas) que demuestran claramente si esta en comunión o no. Estos dos son visibles, evidentes para que uno pueda saber. 
 
-##### No es posible que alguien verdaderamente tenga comunión con Dios mientras camina en tinieblas. Para comprender esto mejor, sería bueno poder definir que es para Juan andar en luz y andar en tinieblas.
+##### No es posible que alguien verdaderamente tenga comunión con Dios mientras camina en tinieblas. Para comprender esto mejor, sería <u>bueno</u> poder definir que es para Juan andar en luz y andar en tinieblas.
 
-#### Los medicos son educados para detectar síntomas y así saber cual es la enfermedad y tratarlo adecuadamente. Nosotros de similar manera debemos ser entrenados para detectar síntomas que demuestran nuestro estado espiritual para no quedarnos engañados. 
+#### Los medicos son educados para detectar síntomas y así <u>saber</u> cual es la enfermedad y tratarlo adecuadamente. Nosotros de similar manera debemos ser entrenados para detectar síntomas que demuestran nuestro estado espiritual para no quedarnos engañados. 
 
-### 1 Juan 1:6a – "*Si decimos que tenemos comunión con Él, pero andamos en tinieblas,*"  Juan demostrará por medio de un síntoma claro, la verdadera condición de uno ante Dios. Si decimos una cosa...pero andamos en otra cosa...ambos no pueden ser ciertas. No es posible estar en comunión con Dios y a la vez andar en tinieblas porque Dios es luz y en Él no hay tinieblas.  Juan 8:12
+### 1 Juan 1:6a – "*Si decimos que tenemos comunión con Él, pero andamos en tinieblas,*"  Juan demostrará por <u>medio</u> de un síntoma claro, la verdadera condición de uno ante Dios. Si decimos una cosa...pero andamos en otra cosa...ambos no pueden ser ciertas. No es posible estar en comunión con Dios y a la vez andar en tinieblas porque Dios es luz y en Él no hay tinieblas.  Juan 8:12
 
-#### Esta condición esta en plural, indicando que ellos podrían hacer tal declaración. Esta sería una mentira si su vida no lo respalda. No dice: “*los que dicen*”.
+#### Esta condición esta en plural, indicando que ellos podrían <u>hacer</u> tal declaración. Esta sería una mentira si su vida no lo respalda. No dice: “*los que dicen*”.
 
-#### Las tinieblas son descritas en la Biblia como el dominio bajo el cual los incrédulos andan. Hechos 26:18; Colosenses 1:12-13
+#### Las tinieblas son <u>descritas</u> en la Biblia como el dominio bajo el cual los incrédulos andan. Hechos 26:18; Colosenses 1:12-13
 
-#### Sencillamente, si nos conducimos en tinieblas no estamos en comunión con Dios. El propósito de Juan de escribirles a estos hermanos que conocen la verdad,  es ayudarlos a distinguir claramente entre lo que es estar en comunión con Dios y lo que no es estar en comunión con Dios. 
+#### Sencillamente, si nos conducimos en tinieblas no estamos en comunión con Dios. El propósito de Juan de escribirles a estos hermanos que <u>conocen</u> la verdad,  es ayudarlos a distinguir claramente entre lo que es estar en comunión con Dios y lo que no es estar en comunión con Dios. 
 
-#### El no esta enseñandoles como se pierde la comunión. Ellos ya sabían como andar.  
+#### El no esta enseñandoles como se <u>pierde</u> la comunión. Ellos ya sabían como andar.  
 
-#### Lo que ellos necesitaban era diferenciar lo verdadero de lo que el gnosticismo decía. 
+#### Lo que ellos necesitaban era diferenciar lo verdadero de lo que el gnosticismo <u>decía</u>. 
 
-#### Por lo tanto, un creyente que anda en ellas participa de las obras infructuosas de las tinieblas. Efesios 5:11
+#### Por lo tanto, un creyente que <u>anda</u> en ellas participa de las obras infructuosas de las tinieblas. Efesios 5:11
 
-#### Entonces, ¿cómo puedo reconocer si estoy andando en tinieblas? Juan lo demuestra de las siguientes maneras. 
+#### Entonces, ¿cómo <u>puedo</u> reconocer si estoy andando en tinieblas? Juan lo demuestra de las siguientes maneras. 
 
-##### Si no estás practicando la verdad y andas en falsedad, estas andando en tinieblas. 1 Juan 1:6
+##### Si no estás practicando la verdad y <u>andas</u> en falsedad, estas andando en tinieblas. 1 Juan 1:6
 
-##### Si dices que no pecas, la verdad no está en ti y estás andando en tinieblas. 1 Juan 1:8, 10
+##### Si dices que no <u>pecas</u>, la verdad no está en ti y estás andando en tinieblas. 1 Juan 1:8, 10
 
-##### Si odias a tu hermano, estás caminando en tinieblas. 1 Juan 2:11, 4:20
+##### Si odias a tu hermano, <u>estás</u> caminando en tinieblas. 1 Juan 2:11, 4:20
 
-#### "*Si decimos*" esta en contraste con lo que "*andamos*". Si decimos estar en tinieblas y andamos en tinieblas, es decir la verdad. No es verdad porque lo dijimos sino porque el andar alinea con el decir. El dicho debe coincidir con el hecho. 
+#### "*Si decimos*" esta en contraste con lo que "*andamos*". Si decimos <u>estar</u> en tinieblas y andamos en tinieblas, es decir la verdad. No es verdad porque lo dijimos sino porque el andar alinea con el decir. El dicho debe coincidir con el hecho. 
 
-#### Si la primera proposición, "Decir que andamos en comunión con Él" es cierto, pero la segunda proposición "andamos en tinieblas" es falso, entonces toda la conjuncion es falsa. Para que la conjunción sea verdadera, ambas proposiciones deben ser verdaderas. Si la primera proposición es falso y la segunda proposición es verdadero, la conjunción sigue siendo falso. 
+#### Si la primera proposición, "Decir que andamos en comunión con Él" es cierto, pero la segunda proposición "andamos en tinieblas" es <u>falso</u>, entonces toda la conjuncion es falsa. Para que la conjunción sea verdadera, ambas proposiciones deben ser verdaderas. Si la primera proposición es falso y la segunda proposición es verdadero, la conjunción sigue siendo falso. 
 
-#### Estar en comunión con la luz no puede resultar en tinieblas. Tinieblas no es el resultado de estar en la luz. Comunión con Dios (que es Luz) resulta en un andar de luz. 
+#### Estar en comunión con la luz no puede resultar en tinieblas. Tinieblas no es el resultado de estar en la luz. Comunión con Dios (que es Luz) <u>resulta</u> en un andar de luz. 
 
-#### Entonces, andar en luz no produce comunion con Dios. El andar es resultado de la comunión. 
+#### Entonces, <u>andar</u> en luz no produce comunion con Dios. El andar es resultado de la comunión. 
 
-#### ¿Qué pasa si volcamos el orden? ¿El andar resulta en comunión? Andar en tinieblas, ¿rompe comunión con Dios ó demuestra que no estamos en comunion? Juan quiere aclarar a sus lectores que podían reconocer el hecho de que no estaban en comunion con Dios si andaban en tinieblas. 
+#### ¿Qué pasa si volcamos el orden? ¿El andar resulta en comunión? Andar en tinieblas, ¿rompe comunión con Dios ó demuestra que no estamos en comunion? Juan <u>quiere</u> aclarar a sus lectores que podían reconocer el hecho de que no estaban en comunion con Dios si andaban en tinieblas. 
 
-#### El andar en tinieblas no es lo que hace que el creyente pierda su comunión con Dios. Juan quiere que sus lectores sepan que es una imposibilidad estar en comunión con Dios y la vez estar andando en tinieblas. 
+#### El andar en tinieblas no es lo que hace que el creyente pierda su comunión con Dios. Juan quiere que sus lectores sepan que es <u>una</u> imposibilidad estar en comunión con Dios y la vez estar andando en tinieblas. 
 
-#### El gnosticismo sin embargo, estaba perfectamente de acuerdo con decir que estamos en comunión aunque a la vez andemos en tinieblas. Esta falsa enseñanza causó mucha confusión entre los creyentes. 
+#### El gnosticismo sin embargo, <u>estaba</u> perfectamente de acuerdo con decir que estamos en comunión aunque a la vez andemos en tinieblas. Esta falsa enseñanza causó mucha confusión entre los creyentes. 
 
-##### Es por ello que podemos apreciar la conclusión de Juan en la siguiente frase...
+##### Es por ello que podemos apreciar la conclusión de <u>Juan</u> en la siguiente frase...
 
-### 1 Juan 1:6a "*...mentimos y no practicamos la verdad*".  Al decir que estamos en comunión pero a la vez andamos en tienieblas, mentimos y nos engañamos a nostros mismos. 
+### 1 Juan 1:6a "*...mentimos y no practicamos la verdad*".  Al decir que estamos en comunión <u>pero</u> a la vez andamos en tienieblas, mentimos y nos engañamos a nostros mismos. 
 
 #### "*mentimos*" PSEUDOMAI  es decir una mentira; fingir con intención de engañar. La gramática (presente, media/pasiva, indicativo, 1 persona plural) nos indica que se podría traducir, "nos estamos mintiendo" o "estamos mintiendonós". 
 
-#### Es una mentira decir que estamos en comunión con Dios y que a la vez nuestro andar sea en tinieblas. Mentimos porque decimos estar en comunión con Dios pero no lo estamos. Esto es demostrable porque estamos andando en tinieblas. 
+#### Es una mentira decir que estamos en comunión con Dios y que a la vez nuestro andar sea en tinieblas. Mentimos porque decimos estar en comunión con Dios <u>pero</u> no lo estamos. Esto es demostrable porque estamos andando en tinieblas. 
 
-#### Practicar la verdad es andar en luz. Andar en tinieblas es no practicar la verdad. 
+#### Practicar la verdad es <u>andar</u> en luz. Andar en tinieblas es no practicar la verdad. 
 
-##### Si pensamos que estamos en comunión con Dios y demostramos lo que no proviene de Dios (tinieblas), entonces nos estamos mintiendo y no estamos alineados a la verdad. 
+##### Si pensamos que estamos en comunión con Dios y demostramos lo que no proviene de Dios (tinieblas), entonces nos <u>estamos</u> mintiendo y no estamos alineados a la verdad. 
 
-##### Los gnósticos afirmaban, "*tenemos comunión con Él*" (1 Juan 1:6), y que "*no tenemos pecado*" (1 Juan 1:8, 10). Creían poseer una justicia especial aparte de la sangre purificadora de Cristo (1 Juan 1:7, 1:9). Además, creían practicar continuamente la justicia (1 Juan 3:7). 
+##### Los gnósticos afirmaban, "*tenemos comunión con Él*" (1 Juan 1:6), y que "*no tenemos pecado*" (1 Juan 1:8, 10). Creían poseer una <u>justicia</u> especial aparte de la sangre purificadora de Cristo (1 Juan 1:7, 1:9). Además, creían practicar continuamente la justicia (1 Juan 3:7). 
 
-###### Ireneo dijo lo siguiente respecto a los gnósticos: "Y cometiendo muchas otras abominaciones e impiedades, nos tachan de personas completamente despreciables e ignorantes, mientras que ellos se exaltan a sí mismos y afirman ser perfectos, y la semilla elegida"[^1]
+###### Ireneo dijo lo siguiente <u>respecto</u> a los gnósticos: "Y cometiendo muchas otras abominaciones e impiedades, nos tachan de personas completamente despreciables e ignorantes, mientras que ellos se exaltan a sí mismos y afirman ser perfectos, y la semilla elegida"[^1]
 
 ## 1 Juan 1:7 El andar visible estando en comunión con Dios
 
-### 1 Juan 1:7a - *Pero si andamos en luz como él está en la luz…*En contraste al andar en tinieblas, Juan presenta otra alternativa. Se trata de andar en luz. Dios es luz y está (presente, activo, indicativo) en la luz. 
+### 1 Juan 1:7a - *Pero si andamos en luz como él está en la luz…*En contraste al andar en tinieblas, Juan presenta otra alternativa. Se trata de <u>andar</u> en luz. Dios es luz y está (presente, activo, indicativo) en la luz. 
 
-#### Como se dijo previamente, el uso de la metáfora "*andar*" expresa como uno se conduce en la vida. Entonces, andar en luz podría entenderse como conducirse en luz. 
+#### Como se dijo previamente, el uso de la metáfora "*andar*" expresa como uno se conduce en la vida. Entonces, andar en luz <u>podría</u> entenderse como conducirse en luz. 
 
-#### Sabemos que Dios es luz, ahora veamos que significa que Dios está en la luz: 
+#### Sabemos que Dios es luz, ahora <u>veamos</u> que significa que Dios está en la luz: 
 
-##### 1 Juan 2:9 *El que dice que **está en la Luz** y aborrece a su hermano, está aún en tinieblas.* 
+##### 1 Juan 2:9 *El que dice que **está en la Luz** y aborrece a su <u>hermano</u>, está aún en tinieblas.* 
 
-##### El creyente que dice que está en la luz pero no ama a su hermano, en realidad está en tinieblas. Dios siempre está en la luz. Por lo tanto, todo actuar de Dios va conforme al hecho que Él es luz. En Dios no hay ninguna tiniebla y ningún proceder de Dios es en tinieblas. 
+##### El creyente que dice que está en la luz pero no ama a su hermano, en realidad está en tinieblas. Dios siempre está en la luz. Por lo <u>tanto</u>, todo actuar de Dios va conforme al hecho que Él es luz. En Dios no hay ninguna tiniebla y ningún proceder de Dios es en tinieblas. 
 
-###### 1 Juan 2:10 *El que ama a su hermano, permanece en la Luz y no hay causa de tropiezo en él.* 
+###### 1 Juan 2:10 *El que ama a su hermano, permanece en la Luz y no hay <u>causa</u> de tropiezo en él.* 
 
-###### En otras palabras, el que ama (el que está siendo amador) a su hermano, es el que está permaneciendo en la luz. No habla de amar **para** estar en la luz, sino que el amor es la evidencia de que esta permaneciendo en la luz. 
+###### En otras palabras, el que ama (el que está siendo amador) a su hermano, es el que está permaneciendo en la luz. No <u>habla</u> de amar **para** estar en la luz, sino que el amor es la evidencia de que esta permaneciendo en la luz. 
 
-### En Juan 3:19-21, hablando de incrédulos, vemos que Juan presenta dos conceptos que ayudan a enteder esta realidad espiritual. Podemos ver principios de cómo para Juan los que hacen lo malo aborrecen y temen a la luz, ya que esta expone sus obras. Contrariamente, aquel cuyas obras han sido **hechas en Dios,** viene a la luz. Este es el que practica la verdad.
+### En Juan 3:19-21, hablando de incrédulos, vemos que Juan presenta dos conceptos que ayudan a enteder esta realidad espiritual. Podemos ver principios de cómo para Juan los que hacen lo malo aborrecen y temen a la luz, ya que esta expone sus <u>obras</u>. Contrariamente, aquel cuyas obras han sido **hechas en Dios,** viene a la luz. Este es el que practica la verdad.
 
-#### Juan 3:19 *Y este es el juicio: que la Luz vino al mundo, y los hombres amaron más las tinieblas que la Luz, pues sus acciones eran malas.*
+#### Juan 3:19 *Y este es el juicio: que la Luz vino al <u>mundo</u>, y los hombres amaron más las tinieblas que la Luz, pues sus acciones eran malas.*
 
-#### Juan 3:20 *Porque todo el que hace lo malo odia la Luz, y no viene a la Luz para que sus acciones no sean expuestas.*
+#### Juan 3:20 *Porque todo el que hace lo malo odia la Luz, y no viene a la Luz para que sus acciones no <u>sean</u> expuestas.*
 
-#### Juan 3:21*Pero el que practica la verdad viene a la Luz, para que sus acciones sean manifestadas que han sido hechas en Dios».*
+#### Juan 3:21*Pero el que practica la verdad <u>viene</u> a la Luz, para que sus acciones sean manifestadas que han sido hechas en Dios».*
 
-#### ¿Qué demuestra que estamos en comuníon con Dios?
+#### ¿Qué demuestra que <u>estamos</u> en comuníon con Dios?
 
-### 1 Juan 1:7b - "*...tenemos comunión los unos con los otros…*" Es interesante notar que Juan aquí dice que la comunión que tenemos con Dios es vista en la comunión que tenemos los unos con los otros. Un creyente que no participa de la vida de otros, según Juan, es porque no está andando en la Luz de Dios.
+### 1 Juan 1:7b - "*...tenemos comunión los <u>unos</u> con los otros…*" Es interesante notar que Juan aquí dice que la comunión que tenemos con Dios es vista en la comunión que tenemos los unos con los otros. Un creyente que no participa de la vida de otros, según Juan, es porque no está andando en la Luz de Dios.
 
-#### Tener comunión los unos con los otros es con otros hermanos, no con incrédulos. La comunión con Dios se manifiesta y se demuestra mediante la comunión con los cristianos. 1 Juan 4:7, 12, 3:11, 3:23
+#### Tener comunión los unos con los <u>otros</u> es con otros hermanos, no con incrédulos. La comunión con Dios se manifiesta y se demuestra mediante la comunión con los cristianos. 1 Juan 4:7, 12, 3:11, 3:23
 
-#### Solamente la vida de Dios en nosotros puede llevarnos a involucrarnos y participar de la vida de otros.
+#### Solamente la vida de <u>Dios</u> en nosotros puede llevarnos a involucrarnos y participar de la vida de otros.
 
-#### En las Escrituras podemos ver numerosas formas en la que los creyentes pueden participar de la vida de otros. Juan más adelante nos mostrará estar amándonos los unos a los otros. Romanos 13:8, 14:19, 15:5,7,14, 16:16; 1 Corintios 12:25; Gálatas 5:13, 6:2; Efesios 4:2,32, 5:21; Filipenses 2:3; Colosenses 3:13; 1 Tesalonicenses 4:18; 1 Pedro 4:9
+#### En las Escrituras podemos ver numerosas formas en la que los creyentes pueden participar de la vida de otros. Juan más adelante nos mostrará estar amándonos los <u>unos</u> a los otros. Romanos 13:8, 14:19, 15:5,7,14, 16:16; 1 Corintios 12:25; Gálatas 5:13, 6:2; Efesios 4:2, 32, 5:21; Filipenses 2:3; Colosenses 3:13; 1 Tesalonicenses 4:18; 1 Pedro 4:9
 
-### 1 Juan 1:7c - "…*y la sangre de Jesús su Hijo nos limpia de todo pecado.*" Vidas limpias de todo pecado, es el resultado de andar en luz, ya que estamos viviendo por el poder de la sangre de Cristo.
+### 1 Juan 1:7c - "…*y la sangre de Jesús su Hijo nos limpia de todo pecado.*" <u>Vidas</u> limpias de todo pecado, es el resultado de andar en luz, ya que estamos viviendo por el poder de la sangre de Cristo.
 
-#### "*limpia*" KATHARIZO significa purgar del mal. El verbo "*limpia*" esta en tiempo presente, activo, indicativo tercera persona singular.  La palabra "*nos*" esta en primera persona plural.  Significa que algo está limpiándonos continuamente. Tito 2:14; Colosenses 1:22-23
+#### "*limpia*" KATHARIZO significa purgar del mal. El verbo "*limpia*" esta en tiempo presente, activo, indicativo tercera persona singular.  La palabra "*nos*" esta en primera persona plural.  Significa que <u>algo</u> está limpiándonos continuamente. Tito 2:14; Colosenses 1:22-23
 
-#### Entonces, para cada quien que anda en luz, esta siendo limpiado por la sangre de Cristo. Habitualmente en el presente nos limpia de toda forma de expresión de pecado. (Vease el uso de "*todo*" en otros pasajes: Santiago 1:2; 2 Corintios 7:12; Efesios 1:8; 2 Pedro 1:5)
+#### Entonces, para cada quien que anda en luz, esta siendo limpiado por la sangre de Cristo. Habitualmente en el presente nos <u>limpia</u> de toda forma de expresión de pecado. (Vease el uso de "*todo*" en otros pasajes: Santiago 1:2; 2 Corintios 7:12; Efesios 1:8; 2 Pedro 1:5)
 
-#### La sangre de Jesús limpiandonos de todo pecado (presente y contínuo) es evidencia de estar en comunión con Dios. 
+#### La <u>sangre</u> de Jesús limpiandonos de todo pecado (presente y contínuo) es evidencia de estar en comunión con Dios. 
 
-#### Juan demuestra como la comunión entre hermanos y la limpieza de pecados por la sangre de Cristo, es el resultado de un andar en luz. 
+#### Juan demuestra como la comunión entre hermanos y la limpieza de pecados por la sangre de Cristo, es el resultado de un <u>andar</u> en luz. 
 
-#### Solamente la muerte de Cristo pudo proveer la vitoria al creyente sobre el pecado. Nadie puede vivir una vida limpia de todo pecado si no fuera por la muerte y resurrección de Jesús.
+#### Solamente la muerte de Cristo pudo proveer la vitoria al creyente sobre el pecado. Nadie puede vivir una vida limpia de todo <u>pecado</u> si no fuera por la muerte y resurrección de Jesús.
 
-##### Juan dice "*nos limpia*", no implicando que no hemos sido limpiados completamente. Esto lo afirma en el capítulo 2, cuando muestra a Cristo como la "*propiciación por nuestros pecados*" (1 Juan 2:2), y les dice a sus hijos que “*sus pecados han sido perdonados por el nombre de Cristo*” (1 Juan 2:12). 
+##### Juan dice "*nos limpia*", no implicando que no hemos sido limpiados completamente. Esto lo afirma en el capítulo 2, cuando <u>muestra</u> a Cristo como la "*propiciación por nuestros pecados*" (1 Juan 2:2), y les dice a sus hijos que “*sus pecados han sido perdonados por el nombre de Cristo*” (1 Juan 2:12). 
 
-#### Por lo tanto, este versículo no esta hablando el perdón de pecados para salvación del infierno. Sino habla de una limpieza contínua del creyente efectuado por la sangre de Cristo.  
+#### Por lo tanto, este versículo no esta hablando el perdón de pecados para salvación del infierno. Sino <u>habla</u> de una limpieza contínua del creyente efectuado por la sangre de Cristo.  
 
-#### Entonces, ¿cómo se que estoy andando en luz?
+#### Entonces, ¿cómo se que <u>estoy</u> andando en luz?
 
-##### Tener comunión con los hermanos demuestra un andar en la luz. 1 Juan 1:3, 7, 4:20, 2:10
+##### Tener comunión con los hermanos demuestra un <u>andar</u> en la luz. 1 Juan 1:3, 7, 4:20, 2:10
 
-##### Experimentamos limpieza de todo pecado (presente y contínuo). 
+##### Experimentamos limpieza de <u>todo</u> pecado (presente y contínuo). 
 
 ## 1 Juan 1:8 El andar de tinieblas continuado...
 
-### 1 Juan 1:8 - *Si decimos que no tenemos pecado, nos engañamos a nosotros mismos* ¿porqué nos engañariamos a nosotros mismos? En el versículo 6 vimos como los creyentes que en realidad andaban en tinieblas (aunque decian que tenían comunión con Dios) se mentían y no practicaban la verdad. 1 Juan 1:6
+### 1 Juan 1:8 - *Si decimos que no tenemos pecado, nos engañamos a nosotros mismos* ¿porqué nos engañariamos a nosotros mismos? En el versículo 6 vimos como los creyentes que en realidad andaban en <u>tinieblas</u> (aunque decian que tenían comunión con Dios) se mentían y no practicaban la verdad. 1 Juan 1:6
 
-#### En el anterior versículo vimos la necesidad que el creyente tiene de ser continuamente limpiado con la sangre de Cristo de toda forma de pecado. 1 Juan 1:7
+#### En el anterior versículo vimos la necesidad que el creyente tiene de ser continuamente limpiado con la sangre de Cristo de toda <u>forma</u> de pecado. 1 Juan 1:7
 
-#### Ahora, si decimos no tener pecado, nos engañamos y negamos esa necesidad de ser limpiados. 
+#### Ahora, si decimos no <u>tener</u> pecado, nos engañamos y negamos esa necesidad de ser limpiados. 
 
-#### Ahora, de la misma manera un creyente que dice que "*no tenemos pecado*" se engaña a si mismo, anda en tinieblas. 
+#### Ahora, de la misma manera un creyente que dice que "*no tenemos pecado*" se engaña a si mismo, <u>anda</u> en tinieblas. 
 
-### 1 Juan 1:8  "*...y la verdad no está en nosotros.*"  Aquí Juan quiere presentar un problema, el que niega tener pecado se esta engañando. 
+### 1 Juan 1:8  "*...y la verdad no está en nosotros.*"  Aquí Juan <u>quiere</u> presentar un problema, el que niega tener pecado se esta engañando. 
 
-#### La verdad  no puede estar en nosotros mientras vivimos en el engaño que no tenemos pecado. 
+#### La verdad  no puede <u>estar</u> en nosotros mientras vivimos en el engaño que no tenemos pecado. 
 
-#### Hay que notar que el autor está incluyéndose también en la posibilidad de engañarse a sí mismo. 1 Juan 4:1
+#### Hay que notar que el autor está incluyéndose también en la posibilidad de engañarse a sí <u>mismo</u>. 1 Juan 4:1
 
-##### ¿Estás negando que tienes pecado? Juan quiere que sepas que eso es andar en tinieblas. 
+##### ¿Estás negando que tienes pecado? Juan <u>quiere</u> que sepas que eso es andar en tinieblas. 
 
-##### ¿Pero que sucede cuando andamos en la luz?
+##### ¿Pero que <u>sucede</u> cuando andamos en la luz?
 
 ## 1 Juan 1:9 Confesar nuestros pecados es permanecer en la luz
 
-### Tomaremos un momento para mirar diferentes puntos de vista sobre la confesión de pecados. Existen 5 puntos de vista principales sobre la confesión de pecados. 
+### Tomaremos un momento para <u>mirar</u> diferentes puntos de vista sobre la confesión de pecados. Existen 5 puntos de vista principales sobre la confesión de pecados. 
 
-> ##### **Perspectiva #1: La confesión como medio de salvación**: La confesión es el reconocimiento del pecado que conduce al perdón inicial y la purificación en la conversión.  Confesión de pecados expresa la condición para la salvación: estar de acuerdo con Dios acerca del pecado y confiar en su purificación a través de Cristo. Una vez confesado, la persona queda purificada y entra en comunión con Dios.
+> ##### **Perspectiva #1: La confesión como medio de salvación**: La confesión es el reconocimiento del pecado que <u>conduce</u> al perdón inicial y la purificación en la conversión.  Confesión de pecados expresa la condición para la salvación: estar de acuerdo con Dios acerca del pecado y confiar en su purificación a través de Cristo. Una vez confesado, la persona queda purificada y entra en comunión con Dios.
 
->##### **Perspectiva #2: La confesión como algo continuo para los creyentes**: La confesión es la admisión regular de pecados específicos que rompen la comunión, no la salvación. La confesión restaura la comunión con Dios y permite a los creyentes "andar en la luz". El pecado no destruye la relación, sino que obstaculiza la comunión. 
+>##### **Perspectiva #2: La confesión como algo continuo para los creyentes**: La confesión es la admisión regular de pecados específicos que rompen la comunión, no la salvación. La confesión <u>restaura</u> la comunión con Dios y permite a los creyentes "andar en la luz". El pecado no destruye la relación, sino que obstaculiza la comunión. 
 
->##### **Perspectiva #3: La confesión como evidencia de andar en la luz**: La confesión es una señal de vivir con sinceridad en la comunidad de creyentes. No es un acto ritual, sino parte de un estilo de vida honesto que concuerda con “andar en la luz”. Quien “anda en la luz” reconoce su pecado en lugar de ocultarlo. La confesión demuestra participación en la luz y contrasta con la hipocresía. La confesión funciona como un acto de verdad, no como un ritual. “Confesamos para vivir honestamente”. 
+>##### **Perspectiva #3: La confesión como evidencia de andar en la luz**: La confesión es una señal de vivir con sinceridad en la comunidad de creyentes. No es un acto ritual, sino parte de un estilo de vida <u>honesto</u> que concuerda con “andar en la luz”. Quien “anda en la luz” reconoce su pecado en lugar de ocultarlo. La confesión demuestra participación en la luz y contrasta con la hipocresía. La confesión funciona como un acto de verdad, no como un ritual. “Confesamos para vivir honestamente”. 
 
->##### **Perspectiva #4: Confesión como práctica eclesial**: La confesión ocurre dentro de la comunidad como parte de la vida y el culto compartido. Mantiene la pureza y la comunión comunitaria mediante el reconocimiento mutuo. Los verbos en plural (“confesamos…tenemos…”) implican confesión corporativa. Vinculado a la confesión pública o mutua practicada en las asambleas cristianas primitivas.
+>##### **Perspectiva #4: Confesión como práctica eclesial**: La confesión ocurre dentro de la comunidad como parte de la vida y el <u>culto</u> compartido. Mantiene la pureza y la comunión comunitaria mediante el reconocimiento mutuo. Los verbos en plural (“confesamos…tenemos…”) implican confesión corporativa. Vinculado a la confesión pública o mutua practicada en las asambleas cristianas primitivas.
 
->##### **Perspectiva #5: La confesión como alineación con la verdad**: La confesión es estar de acuerdo con la luz de Dios, viviendo así en la realidad tal como Dios la define. No es una condición para el perdón, sino una manifestación de que ya se vive en la verdad. Describe el carácter de quienes están en la luz: quienes dicen la verdad en lugar de negar el pecado. El perdón es la acción divina continua que acompaña a esta veracidad. “Confesamos porque vivimos en la verdad”.[^2]
+>##### **Perspectiva #5: La confesión como alineación con la verdad**: La confesión es estar de acuerdo con la luz de Dios, viviendo así en la realidad tal como Dios la define. No es una condición para el perdón, sino una manifestación de que ya se vive en la verdad. Describe el carácter de quienes están en la luz: quienes <u>dicen</u> la verdad en lugar de negar el pecado. El perdón es la acción divina continua que acompaña a esta veracidad. “Confesamos porque vivimos en la verdad”.[^2]
 
-### 1 Juan 1:9a – *“Si confesamos*" el autor se incluye en esta expresión...la confesión aquí indica una acción contínua para el creyente. ¿Por qué? "*Confesamos*" esta en tiempo presente, activo, subjuntivo. Debemos notar que esto no es un imperativo, sino es algo que **podría** estar pasando (subjuntivo). 
+### 1 Juan 1:9a – *“Si confesamos*" el autor se incluye en esta expresión...la confesión aquí indica una acción contínua para el creyente. ¿Por qué? "*Confesamos*" esta en tiempo presente, activo, subjuntivo. Debemos <u>notar</u> que esto no es un imperativo, sino es algo que **podría** estar pasando (subjuntivo). 
 
-#### "*Confesión*" HOMOLOGEO es una palabra que equivale literalmente a decir lo mismo. El que confiesa dice lo mismo que dice Dios. Tito 1:16; Mateo 14:7, 10:32
+#### "*Confesión*" HOMOLOGEO es una palabra que equivale literalmente a <u>decir</u> lo mismo. El que confiesa dice lo mismo que dice Dios. Tito 1:16; Mateo 14:7, 10:32
 
 ##### Usos de la palabra HOMOLOGEO en el primer siglo: 
 
-###### El significado fundamental de este verbo “*estar de acuerdo con*” se ve en el contrato (66 d.C.) ὁ[μ]ο[λ]ογοῦσιν ἀλλή[λ]οις Τρύφων…καὶ Πτολεμαῖο[ς, “*acuerdo entre Trifón y Ptolomeo*”: 
+###### El significado fundamental de este <u>verbo</u> “*estar de acuerdo con*” se ve en el contrato (66 d.C.) ὁ[μ]ο[λ]ογοῦσιν ἀλλή[λ]οις Τρύφων…καὶ Πτολεμαῖο[ς, “*acuerdo entre Trifón y Ptolomeo*”: 
 
-###### cf. la fórmula legal ἐπερωτηθεὶς ὡμολόγησα, “*en respuesta a la pregunta formal he dado mi consentimiento*”, (238 d.C.). 
+###### cf. la fórmula legal ἐπερωτηθεὶς ὡμολόγησα, “*en respuesta a la <u>pregunta</u> formal he dado mi consentimiento*”, (238 d.C.). 
 
-###### De aquí se pasa fácilmente al sentido de “*reconocer*”, “*declarar públicamente*”, (28-29 d.C.)[^4]
+###### De <u>aquí</u> se pasa fácilmente al sentido de “*reconocer*”, “*declarar públicamente*”, (28-29 d.C.)[^4]
 
-#### Entonces, ¿Qué confesamos? 
+#### Entonces, ¿Qué <u>confesamos</u>? 
 
-### 1 Juan 1:9a *confesamos...nuestros pecados...”*  Contrario a aquel que niega el problema (1 Juan 1:8), está aquel que reconoce sus pecados. 
+### 1 Juan 1:9a *confesamos...nuestros pecados...”*  Contrario a <u>aquel</u> que niega el problema (1 Juan 1:8), está aquel que reconoce sus pecados. 
 
-#### El pecado es más que un fracaso morál. El pecado es las tinieblas que estorba a la humanidad de ver la verdad de Dios y Su santidad. Dios es luz y no hay ninguna tiniebla en Él. 1 Juan 1:5
+#### El pecado es más que un fracaso morál. El pecado es las tinieblas que estorba a la humanidad de ver la verdad de Dios y Su santidad. <u>Dios</u> es luz y no hay ninguna tiniebla en Él. 1 Juan 1:5
 
-#### El pecado prospera en la clandestinidad. Pero la luz de Dios lo expone. No para avergonzarnos sino para salvarnos del efecto destructor del pecado. 
+#### El pecado prospera en la clandestinidad. Pero la luz de Dios lo expone. No para avergonzarnos sino para salvarnos del <u>efecto</u> destructor del pecado. 
 
-#### Dios no quiere que vivamos en las tinieblas engañandonos, mintiéndonos y negando la realidad del pecado. Dios desea que andemos en luz como el esta en la luz. 
+#### Dios no quiere que vivamos en las tinieblas engañandonos, mintiéndonos y negando la realidad del pecado. Dios desea que andemos en luz <u>como</u> el esta en la luz. 
 
-##### Al confesar nuestros pecados, admitimos culpabilidad y no lo negamos. Andando en la luz son señalados nuestros pecados y lo confesamos. Esto es parte de andar en la luz. 
+##### Al confesar nuestros pecados, admitimos culpabilidad y no lo negamos. Andando en la luz son señalados nuestros <u>pecados</u> y lo confesamos. Esto es parte de andar en la luz. 
 
-#### Veamos algunos ejemplos de confesiónes en las Escrituras. 
+#### Veamos algunos <u>ejemplos</u> de confesiónes en las Escrituras. 
 
-##### En respuesta a la luz, la gente que escuchaba a Juan el Bautista, confesaba sus pecados y fueron bautizados. Marcos 1:3-5, 7
+##### En respuesta a la luz, la gente que escuchaba a Juan el Bautista, confesaba sus pecados y <u>fueron</u> bautizados. Marcos 1:3-5, 7
 
-##### Confesión de pecado en respuesta a la exposición profética de Natán al pecado de David: David confesó sus pecados después de haberlos encubierto por alrededor de un año, "*Entonces David dijo a Natán: «He pecado contra el SEÑOR*".. 2 Samuel 12:1-13; Salmo 51:4
+##### Confesión de pecado en respuesta a la exposición profética de Natán al pecado de David: David confesó sus pecados después de haberlos encubierto por <u>alrededor</u> de un año, "*Entonces David dijo a Natán: «He pecado contra el SEÑOR*".. 2 Samuel 12:1-13; Salmo 51:4
 
-##### Confesión de ser pecador que nace de una visión del Señor: Isaías confiesa, "*¡Ay de mí! Porque perdido estoy, Pues soy hombre de labios inmundos Y en medio de un pueblo de labios inmundos habito, Porque mis ojos han visto al Rey, el SEÑOR de los ejércitos*". Isaías 6:1-5
+##### Confesión de ser pecador que nace de una <u>visión</u> del Señor: Isaías confiesa, "*¡Ay de mí! Porque perdido estoy, Pues soy hombre de labios inmundos Y en medio de un pueblo de labios inmundos habito, Porque mis ojos han visto al Rey, el SEÑOR de los ejércitos*". Isaías 6:1-5
 
-##### Confesión de ser pecador de Pedro después tener los ojos abiertos por Jesús sobre Su identidad: Pedro dijo, "*¡Apártate de mí, Señor, pues soy hombre pecador!*". Lucas 5:8
+##### Confesión de ser <u>pecador</u> de Pedro después tener los ojos abiertos por Jesús sobre Su identidad: Pedro dijo, "*¡Apártate de mí, Señor, pues soy hombre pecador!*". Lucas 5:8
 
-##### Confesión de pecados de los Israelitas después de oir la lectura de la Ley: "*y se pusieron en pie, confesando sus pecados y las iniquidades de sus padres.*" Nehemias 8:18-9:3
+##### Confesión de pecados de los Israelitas <u>después</u> de oir la lectura de la Ley: "*y se pusieron en pie, confesando sus pecados y las iniquidades de sus padres.*" Nehemias 8:18-9:3
 
-##### Confesión de pecados por los efesios después de exponer sus prácticas: "*También muchos de los que habían creído continuaban viniendo, confesando y declarando las cosas que practicaban.*" Hechos 19:18-20
+##### Confesión de pecados por los <u>efesios</u> después de exponer sus prácticas: "*También muchos de los que habían creído continuaban viniendo, confesando y declarando las cosas que practicaban.*" Hechos 19:18-20
 
-#### Si es el engaño que lleva a alguien a negar el problema del pecado, lo que lleva a alguien a reconocerlo es la verdad. La confesión de pecado es el reconocimiento del pecado expuesto por la luz. 
+#### Si es el engaño que lleva a <u>alguien</u> a negar el problema del pecado, lo que lleva a alguien a reconocerlo es la verdad. La confesión de pecado es el reconocimiento del pecado expuesto por la luz. 
 
-##### Lo que la confesión de pecados no es:
+##### Lo que la confesión de <u>pecados</u> no es:
 
-###### Requisito para ser justificado. 
+###### Requisito para <u>ser</u> justificado. 
 
-###### El método que Juan enseña para restaurar comunión con Dios. 
+###### El método que <u>Juan</u> enseña para restaurar comunión con Dios. 
 
-###### La manera para mantener comunión con Dios. 
+###### La manera <u>para</u> mantener comunión con Dios. 
 
-#### Cómo hemos visto antes, para Juan, es la luz la que pone al descubierto nuestras obras, Juan 3:19-21. ¿Entonces cuál es la verdad que lleva al creyente a confesar sus pecados (expuestos por la luz)?
+#### Cómo hemos visto antes, para Juan, es la luz la que <u>pone</u> al descubierto nuestras obras, Juan 3:19-21. ¿Entonces cuál es la verdad que lleva al creyente a confesar sus pecados (expuestos por la luz)?
 
-##### Es interesante notar el énfasis de Juan cuando habla del creyente que anda en la luz. No dice específicamente que tiene comunión con Dios sino comunión con los hermanos. Ahora, vemos que el andar en luz conlleva ser transparentes y admitir nuestros pecados lo que implica que es tanto vertical como horizontal. ¿y que resulta de esto? 
+##### Es interesante notar el énfasis de Juan cuando habla del creyente que anda en la luz. No dice específicamente que tiene comunión con Dios <u>sino</u> comunión con los hermanos. Ahora, vemos que el andar en luz conlleva ser transparentes y admitir nuestros pecados lo que implica que es tanto vertical como horizontal. ¿y que resulta de esto? 
 
-### 1 Juan 1:9b - …*Él es fiel y Justo* literalmente dice, "Él esta siendo fiel y justo". 
+### 1 Juan 1:9b - …*Él es fiel y Justo* literalmente dice, "Él esta <u>siendo</u> fiel y justo". 
 
-### 1 Juan 1:9c *para perdonarnos los pecados* aquí perdonarnos es APHÉ que es una palabra compuesta de APO (desde) y HIEMI (enviar lejos). Al juntar estas dos palabras hace un énfasis de separación. Es mejor entender esta expresión como remover o dejar y no cancelación de culpa. El remover está relacionado a los pecados. 
+### 1 Juan 1:9c *para perdonarnos los pecados* aquí perdonarnos es APHÉ que es una palabra compuesta de APO (desde) y HIEMI (enviar lejos). Al juntar estas dos palabras hace un énfasis de separación. Es mejor entender esta expresión como <u>remover</u> o dejar y no cancelación de culpa. El remover está relacionado a los pecados. 
 
-#### Marcos 12:19  La palabra APHÉ es traducida de diferentes maneras. Por ejemplo, en Marcos 12:19, la misma palabra en el mismo tiempo, voz y modo y es traducido "*deje atrás*".  Sin embargo en Marcos 11:25, APHÉ es traducido "*perdonen*".  La mayoría de la veces 
+#### Marcos 12:19  La palabra APHÉ es traducida de diferentes maneras. Por ejemplo, en Marcos 12:19, la misma palabra en el <u>mismo</u> tiempo, voz y modo y es traducido "*deje atrás*".  Sin embargo en Marcos 11:25, APHÉ es traducido "*perdonen*".  La mayoría de la veces 
 
-### 1 Juan 1:9d "...*y para limpiarnos...*" "*Limpiarnos*" KATHARIZO es purgar de la maldad.[^3]Mientras que Dios aleja nuestros pecados, el limpiar va relacionado a nosotros. Tito 2:14
+### 1 Juan 1:9d "...*y para limpiarnos...*" "*Limpiarnos*" KATHARIZO es purgar de la maldad.[^3]Mientras que Dios aleja nuestros pecados, el limpiar va relacionado a <u>nosotros</u>. Tito 2:14
 
-### 1 Juan 1:9e "*...de toda maldad.*" de toda forma de injusticia concebible. 
+### 1 Juan 1:9e "*...de toda maldad.*" de toda <u>forma</u> de injusticia concebible. 
 
-#### Entonces, cuando estamos en la luz, y cuando somos mostrados por la luz y decimos lo mismo con Dios sobre nuestro pecado, Él siendo justo y fiel, puede hacer separación de nuestros pecados y puede limpiarnos de toda forma de injusticia concebible. 
+#### Entonces, cuando estamos en la luz, y cuando somos mostrados por la luz y decimos lo mismo con Dios sobre nuestro pecado, Él <u>siendo</u> justo y fiel, puede hacer separación de nuestros pecados y puede limpiarnos de toda forma de injusticia concebible. 
 
-#### Confesar nuestros pecados es la condición. El resultado es que Dios nos esta siendo fiel y justo para alejar de nosotros nuestro pecado y limpiarnos. Dios aplica Su justicia a nuestro favor en base al perdón que ya recibimos. 
+#### Confesar nuestros pecados es la condición. El resultado es que Dios nos esta siendo fiel y justo para alejar de nosotros nuestro pecado y limpiarnos. Dios <u>aplica</u> Su justicia a nuestro favor en base al perdón que ya recibimos. 
 
-##### ¿Dios comienza a ser fiel cuando confesamos? No, sin embargo la fidelidad de Dios entra en acción en base a Sus promesas hechas para con el creyente. Cuando el creyente confieza su pecado, Dios en su fidelidad y justicia obra para bien en el creyente. 
+##### ¿Dios comienza a ser fiel cuando confesamos? No, sin embargo la fidelidad de Dios entra en acción en base a Sus promesas <u>hechas</u> para con el creyente. Cuando el creyente confieza su pecado, Dios en su fidelidad y justicia obra para bien en el creyente. 
 
-##### En el versículo 7 vimos que cuando andamos en luz estamos siendo limpiados de todo pecado. La confesión de pecados es simplemente eso, andar en luz, admitiendo nuestros pecados. 
+##### En el versículo 7 vimos que cuando andamos en luz <u>estamos</u> siendo limpiados de todo pecado. La confesión de pecados es simplemente eso, andar en luz, admitiendo nuestros pecados. 
 
-#### Pero en este contexto Dios esta siendo fiel para lavarnos y limpiarnos.  
+#### Pero en este contexto Dios esta <u>siendo</u> fiel para lavarnos y limpiarnos.  
 
-##### Debemos notar que es Dios quien nos limpia, como ya lo menciono antes en el v7, y también marcar que en 2:12 Juan dice que nuestros pecados han sido perdonados por el nombre de Cristo. 1 Juan 2:12
+##### Debemos notar que es Dios quien nos limpia, como ya lo menciono antes en el v7, y también marcar que en 2:12 Juan dice que nuestros pecados han sido perdonados por el <u>nombre</u> de Cristo. 1 Juan 2:12
 
-##### La confesión no es una limpieza que realizamos sobre nosotros mismos para recuperar nuestra comunión con Dios.
+##### La confesión no es una limpieza que realizamos <u>sobre</u> nosotros mismos para recuperar nuestra comunión con Dios.
 
-##### La confesión de los pecados es la participación de la vida de Cristo. Entonces, no es un requisito **para** ella. Como resultado de lo que Dios es: luz, fiel y justo, un creyente queda expuesto cuando peca.
+##### La confesión de los pecados es la participación de la vida de Cristo. Entonces, no es un requisito **para** ella. Como resultado de lo que Dios es: luz, fiel y justo, un creyente queda expuesto <u>cuando</u> peca.
 
-##### Si, podemos decir que no existe comunión para un creyente que anda en tinieblas (v6). Pero aquel que anda en luz, participa de la vida de Cristo limpiándolo en su andar. Esto lo llevará a confesar sus pecados y experimentar Su perdón y limpieza porque Él es fiel y justo.
+##### Si, podemos decir que no existe comunión para un creyente que anda en tinieblas (v6). Pero aquel que anda en luz, participa de la vida de Cristo limpiándolo en su andar. Esto lo llevará a confesar sus pecados y experimentar Su perdón y limpieza <u>porque</u> Él es fiel y justo.
 
-#### Para Juan podemos ser uno de dos, aquel que niega que tiene un problema (v8), o aquel que mira la solución y camina en Su luz (v9).
+#### Para Juan podemos ser uno de dos, aquel que <u>niega</u> que tiene un problema (v8), o aquel que mira la solución y camina en Su luz (v9).
 
-#### Es porque Dios se involucra en nuestras vidas que podemos caminar en la luz y participar de su vida. Nunca es al revés, no podemos mirar lo que hacemos por Dios o para con Dios, y que Él responda. 1 Corintios 15:10
+#### Es porque Dios se involucra en nuestras vidas que podemos caminar en la luz y participar de su vida. Nunca es al revés, no podemos <u>mirar</u> lo que hacemos por Dios o para con Dios, y que Él responda. 1 Corintios 15:10
 
 ## 1 Juan 1:10 Negar nuestro pecado demuestra que no estamos en la luz
 
-### 1 Juan 1:10 – *Si decimos que no hemos pecado, lo hacemos a él mentiroso y su Palabra no está en nosotros.* En esta última condición, Juan presenta el caso de alguien que termina haciendo a Dios mentiroso. Primero mentimos v6, luego nos engañamos a nosotros mismos v8, pero luego nos oponemos directamente a Dios, llamándolo mentiroso y contradiciendo su Palabra.
+### 1 Juan 1:10 – *Si decimos que no hemos <u>pecado</u>, lo hacemos a él mentiroso y su Palabra no está en nosotros.* En esta última condición, Juan presenta el caso de alguien que termina haciendo a Dios mentiroso. Primero mentimos v6, luego nos engañamos a nosotros mismos v8, pero luego nos oponemos directamente a Dios, llamándolo mentiroso y contradiciendo su Palabra.
 
-#### Claramente las tinieblas pueden llegar a cegar a alguien y no permitirle ver el problema en el que está metido (1 Juan 2:11). El pecado puede llegar a ser un problema para el creyente, pero no porque este no tenga solución, sino porque el creyente no camina a la luz de ella.
+#### Claramente las tinieblas <u>pueden</u> llegar a cegar a alguien y no permitirle ver el problema en el que está metido (1 Juan 2:11). El pecado puede llegar a ser un problema para el creyente, pero no porque este no tenga solución, sino porque el creyente no camina a la luz de ella.
 
-#### Andando en luz, la Palabra de Dios está en nosotros y opera poderosamente. Santiago 1:21; 1 Juan 1:10; 
+#### Andando en luz, la Palabra de Dios está en nosotros y <u>opera</u> poderosamente. Santiago 1:21; 1 Juan 1:10; 
 
-##### Juan 17:17 "*Santifícalos en la verdad; Tu palabra es verdad.*"
+##### Juan 17:17 "*Santifícalos en la <u>verdad</u>; Tu palabra es verdad.*"
 
-#### No admitir nuestro pecado es encubrirlo y al hacerlo andamos en falsedad. No andamos según lo que es la luz. Después de haber sido expuesto por la luz e ignorarlo, lo hacemos a Él mentiroso. No estaríamos yendo conforme a la verdad. 
+#### No admitir nuestro pecado es encubrirlo y al hacerlo andamos en falsedad. No andamos según lo que es la luz. Después de haber sido expuesto por la luz e ignorarlo, lo hacemos a Él mentiroso. No estaríamos <u>yendo</u> conforme a la verdad. 
 
-##### Dios no es el culpable de nuestros pecados, y tratando de negarlos no solucionamos nada. Por el contrario, estamos oponiéndonos directamente a Dios. Entonces, ¿Cuál es la solución de Dios para nuestros pecados?
+##### Dios no es el <u>culpable</u> de nuestros pecados, y tratando de negarlos no solucionamos nada. Por el contrario, estamos oponiéndonos directamente a Dios. Entonces, ¿Cuál es la solución de Dios para nuestros pecados?
 
-##### En los siguientes versículos Juan comenzará a presentar la solución de Dios para nuestros pecados, y esto nos lleva a la siguiente sección.
+##### En los siguientes versículos Juan comenzará a presentar la solución de Dios para nuestros pecados, y esto nos <u>lleva</u> a la siguiente sección.
 
 # 1 Juan 2:1-17 ASÍ COMO ÉL ANDUVO
 
