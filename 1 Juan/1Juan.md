@@ -483,73 +483,55 @@ Entonces, ¿Qué confesamos?
 
 #### Cómo hemos visto antes, para Juan, es la luz la que pone al descubierto nuestras obras, Juan 3:19-21. ¿Entonces cuál es la verdad que lleva al creyente a confesar sus pecados (expuestos por la luz)?
 
-Es interesante notar el énfasis de Juan cuando habla del creyente que anda en la luz. No dice específicamente que tiene comunión con Dios sino comunión con los hermanos. Ahora, vemos que el andar en luz conlleva ser transparentes y admitir nuestros pecados. ¿y que resulta de esto? 
+Es interesante notar el énfasis de Juan cuando habla del creyente que anda en la luz. No dice específicamente que tiene comunión con Dios sino comunión con los hermanos. Ahora, vemos que el andar en luz conlleva ser transparentes y admitir nuestros pecados lo que implica que es tanto vertical como horizontal. ¿y que resulta de esto? 
 
-### 1 Juan 1:9b - …*Él es fiel y Justo* Literalmente dice, "Él esta siendo fiel y justo". 
+### 1 Juan 1:9b - …*Él es fiel y Justo* literalmente dice, "Él esta siendo fiel y justo". 
 
 ### 1 Juan 1:9c *para perdonarnos los pecados* aquí perdonarnos es APHÉ que es una palabra compuesta de APO (desde) y HIEMI (enviar lejos). Al juntar estas dos palabras hace un énfasis de separación. Es mejor entender esta expresión como remover o dejar y no cancelación de culpa. El remover está relacionado a los pecados. 
 
-### 1 Juan 1:9d "...*y para limpiarnos...*" "*Limpiarnos*" KATHARIZO  es purgar de la maldad.[^3]Mientras que Dios aleja nuestros pecados, el limpiar va relacionado a nosotros. 
+#### Marcos 12:19  La palabra APHÉ es traducida de diferentes maneras. Por ejemplo, en Marcos 12:19, la misma palabra en el mismo tiempo, voz y modo y es traducido "*deje atrás*".  Sin embargo en Marcos 11:25, APHÉ es traducido "*perdonen*".  La mayoría de la veces 
+
+### 1 Juan 1:9d "...*y para limpiarnos...*" "*Limpiarnos*" KATHARIZO es purgar de la maldad.[^3]Mientras que Dios aleja nuestros pecados, el limpiar va relacionado a nosotros. Tito 2:14
 
 ### 1 Juan 1:9e "*...de toda maldad.*" de toda forma de injusticia concebible. 
 
-Entonces, cuando estamos en la luz, y cuando somos mostrados por la luz decimos lo mismo con Dios sobre nuestro pecado, Él siendo justo y fiel, puede hacer separación de nuestros pecados y nos puede limpiar de toda forma de injusticia concebible. 
+#### Entonces, cuando estamos en la luz, y cuando somos mostrados por la luz y decimos lo mismo con Dios sobre nuestro pecado, Él siendo justo y fiel, puede hacer separación de nuestros pecados y puede limpiarnos de toda forma de injusticia concebible. 
 
-Andando en luz, la Palabra de Dios está en nosotros y opera poderosamente. Santiago 1:21; 1 Juan 1:10; 
+#### Confesar nuestros pecados es la condición. El resultado es que Dios nos esta siendo fiel y justo para alejar de nosotros nuestro pecado y limpiarnos. Dios aplica Su justicia a nuestro favor en base al perdón que ya recibimos. 
 
-Juan 17:17 "*Santifícalos en la verdad; Tu palabra es verdad.*"
+##### ¿Dios comienza a ser fiel cuando confesamos? No, sin embargo la fidelidad de Dios entra en acción en base a Sus promesas hechas para con el creyente. Cuando el creyente confieza su pecado, Dios en su fidelidad y justicia obra para bien en el creyente. 
 
-Confesar nuestros pecados es la condición. El resultado es que Dios nos esta siendo fiel y justo para perdonarnos y limpiarnos. 
+##### En el versículo 7 vimos que cuando andamos en luz estamos siendo limpiados de todo pecado. La confesión de pecados es simplemente eso, andar en luz, admitiendo nuestros pecados. 
 
-Alejar a nuestros pecados y limpiarnos de toda maldad es porque Dios es fiel y Él aplica Su justicia a nuestro favor en base al perdón que ya recibimos. 
+#### Pero en este contexto Dios esta siendo fiel para lavarnos y limpiarnos.  
 
-¿Dios comienza a ser fiel cuando confesamos? No, sin embargo la fidelidad de Dios entra en acción en base a sus promesas hechas para con el creyente. Cuando el creyente confieza su pecado, Dios en su fidelidad y justicia obra para bien en el creyente. 
+##### Debemos notar que es Dios quien nos limpia, como ya lo menciono antes en el v7, y también marcar que en 2:12 Juan dice que nuestros pecados han sido perdonados por el nombre de Cristo. 1 Juan 2:12
 
-¿Acaso no fueron perdonados todos nuestros pecados? !Claro que si! Todos nuestros pecados, pasados, presentes y futuros han sido perdonados. Hebreos 7:27, 9:26; 1 Juan 2:2, 12
+##### La confesión no es una limpieza que realizamos sobre nosotros mismos para recuperar nuestra comunión con Dios.
 
-En el versículo 7 vimos que cuando andamos en luz estamos siendo limpiados de todo pecado. La confesión de pecados es simplemente eso, andar en luz, admitiendo nuestros pecados. Al estante, la filmad de Dios entra en acción y nos limpia de toda maldad. 
+##### La confesión de los pecados es la participación de la vida de Cristo. Entonces, no es un requisito **para** ella. Como resultado de lo que Dios es: luz, fiel y justo, un creyente queda expuesto cuando peca.
 
-Pero en este contexto Dios esta siendo fiel para lavarnos y limpiarnos.  
+##### Si, podemos decir que no existe comunión para un creyente que anda en tinieblas (v6). Pero aquel que anda en luz, participa de la vida de Cristo limpiándolo en su andar. Esto lo llevará a confesar sus pecados y experimentar Su perdón y limpieza porque Él es fiel y justo.
 
-#### ¿Qué pecados debo confesar? 
+#### Para Juan podemos ser uno de dos, aquel que niega que tiene un problema (v8), o aquel que mira la solución y camina en Su luz (v9).
 
-#### ¿Qué pasa si no me acuerdo de todos mis pecados? 
-
-#### Debemos notar que es Dios quien nos limpia, como ya lo menciono antes en el v7, y también marcar que en 2:12 Juan dice que nuestros pecados han sido perdonados por el nombre de Cristo. La confesión no es una limpieza que realizamos sobre nosotros mismos para recuperar nuestra comunión con Dios.
-
-#### La confesión de los pecados es la participación de la vida de Cristo entonces, y no un requisito para ella. Como resultado de lo que Dios es: Luz, Fiel y Justo, un creyente queda expuesto cuando peca.
-
-#### Podemos ver esto en la vida de David, ya que el confiesa su pecado, luego de ser expuesto por el Profeta Natán. Dios fue fiel y Justo en su vida, exponiendo su pecado, pero al mismo tiempo perdonándolo y limpiando de su iniquidad. 2 Samuel 12
-
-##### David no estaba participando de esa fidelidad y Justicia mientras vivía dominado por las tinieblas, pero como resultado de la Luz trabajando en su vida, el participo de lo que Dios es para con él.
-
-##### De igual forma podemos decir que no confesamos nuestros pecados para que tengamos el perdón de Dios o recuperemos una comunión con él que hemos perdido debido a ellos. Es porque participamos de su fidelidad y justicia en nuestras vidas, perdonándonos y limpiándonos, que reconocemos los pecados. Juan dice que somos perdonados y limpiados, porque Él está siendo Fiel y Justo.
-
-##### Si podemos decir que no existe comunión para un creyente que anda en tinieblas (v6), pero aquel que anda en luz participa de la vida de Cristo limpiándolo en su andar. Esto lo llevará a confesar sus pecados y experimentar su perdón y limpieza ya provistos sobre él en la persona de Cristo.
-
-#### Para Juan podemos ser uno de dos, aquel que niega que tiene un problema (v8), o aquel que mira la solución y caminan en Su luz (v9).
-
-#### Que dichoso aquel que reconoce sus iniquidades, y se apartar de ellas apropiándose de los logros del Hijo de Dios (limpieza y perdón). Es en esa realidad que estamos participando de la vida de Dios y de su Hijo Jesucristo (teniendo comunión). Pero infeliz el hombre que escoge vivir en las tinieblas sin apropiarse de los logros del hijo de Dios.
-
-#### El creyente que está confesando sus pecados, está participando de la fidelidad y Justicia de Dios mostradas en su perdón y limpieza. El creyente que anda en tinieblas engañándose a sí mismo sobre su problema de pecado, no está participando de Dios y de su Hijo Jesucristo. 2 Timoteo 2:13
-
-#### Es porque Dios se involucra en nuestras vidas que podemos caminar en la luz y participar de su vida. Nunca es al revés, no podemos mirar lo que hacemos por Dios o para con Dios, y él responda a eso. 1 Corintios 15:10
-
-#### Un creyente que está pecando no es porque Dios no está participando en su vida (Dios nunca deja de ser fiel y justo para perdonar nuestros pecados y limpiarnos de toda maldad), sino porqué él no está andando en luz, y por lo tanto no participa de la vida de Dios y de su Hijo.
+#### Es porque Dios se involucra en nuestras vidas que podemos caminar en la luz y participar de su vida. Nunca es al revés, no podemos mirar lo que hacemos por Dios o para con Dios, y que Él responda. 1 Corintios 15:10
 
 ## 1 Juan 1:10 Negar nuestro pecado demuestra que no estamos en la luz
 
-### 1 Juan 1:10 – *Si decimos que no hemos pecado, lo hacemos a él mentiroso y su Palabra no está en nosotros.* En esta última condición, Juan presenta el caso de alguien que termina haciendo a Dios mentiroso. Primero mentimos v6, luego nos engañamos a nosotros mismos v8, pero luego nos oponemos directamente a Dios, llamándolo mentiroso, contradiciendo su Palabra.
+### 1 Juan 1:10 – *Si decimos que no hemos pecado, lo hacemos a él mentiroso y su Palabra no está en nosotros.* En esta última condición, Juan presenta el caso de alguien que termina haciendo a Dios mentiroso. Primero mentimos v6, luego nos engañamos a nosotros mismos v8, pero luego nos oponemos directamente a Dios, llamándolo mentiroso y contradiciendo su Palabra.
 
 #### Claramente las tinieblas pueden llegar a cegar a alguien y no permitirle ver el problema en el que está metido (1 Juan 2:11). El pecado puede llegar a ser un problema para el creyente, pero no porque este no tenga solución, sino porque el creyente no camina a la luz de ella.
 
-#### Dios no es el culpable de nuestros pecados, y tratando de negarlos no solucionamos nada, por el contrario, estamos oponiéndonos directamente a Dios. Entonces, ¿Cuál es la solución de Dios para nuestros pecados?
+#### Andando en luz, la Palabra de Dios está en nosotros y opera poderosamente. Santiago 1:21; 1 Juan 1:10; 
 
-#### En los siguientes versículos Juan comenzará a presentar la solución de Dios para nuestros pecados, y esto nos lleva a la siguiente sección.
+##### Juan 17:17 "*Santifícalos en la verdad; Tu palabra es verdad.*"
 
-No admitir nuestro pecado es encubrirlo y al hacerlo andamos en falsedad. No andamos según lo que es la luz. Después de haber sido expuesto por la luz e ignorarlo, lo hacemos a Él mentiroso. No estaríamos yendo conforme a la verdad. 
+#### No admitir nuestro pecado es encubrirlo y al hacerlo andamos en falsedad. No andamos según lo que es la luz. Después de haber sido expuesto por la luz e ignorarlo, lo hacemos a Él mentiroso. No estaríamos yendo conforme a la verdad. 
 
-Aquí podemos notar el uso que Juan tiene de la comunión que tenemos con Dios y con su Hijo Jesucristo. No participamos de Su vida, a no ser que andemos en luz. Aunque somos santos completamente para con Dios por medio de Cristo, no caminaremos como santos a menos que andemos en luz. 
+##### Dios no es el culpable de nuestros pecados, y tratando de negarlos no solucionamos nada. Por el contrario, estamos oponiéndonos directamente a Dios. Entonces, ¿Cuál es la solución de Dios para nuestros pecados?
+
+##### En los siguientes versículos Juan comenzará a presentar la solución de Dios para nuestros pecados, y esto nos lleva a la siguiente sección.
 
 # 1 Juan 2:1-17 ASÍ COMO ÉL ANDUVO
 
