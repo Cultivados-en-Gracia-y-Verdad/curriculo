@@ -173,7 +173,7 @@ Title: Primera epístola del apóstol Juan
 
 ##### Conocimiento de la santidad, el mundo, el verdadero Dios y la vida eterna. 1 Juan 5:18–20
 
-##### Exhortación final con respecto a la idolatría. 1 Juan 5:18–20
+##### Exhortación final con respecto a la idolatría. 1 Juan 5:21
 
 # LOS TESTIGOS Y SU MENSAJE
 
