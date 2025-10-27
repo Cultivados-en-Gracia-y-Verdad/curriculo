@@ -39,15 +39,15 @@ Title: Primera epístola del apóstol Juan
 
 ### Las iglesias enfrentaban el desafío de mantener la enseñanza transmitida por los apóstoles fielmente.
 
-### Enfrentaban una división interna debido a las falsas enseñanzas, distorsionando el mensaje acerca de Jesús hecho carne, al punto de negar que Jesús es el Cristo. (1 Juan 2:18-23; 4:1-3)
+### Enfrentaban una división interna debido a las falsas enseñanzas, distorsionando el mensaje acerca de Jesús hecho carne, al punto de negar que Jesús es el Cristo. (1 Juan 2:18-23; 4:1-3).
 
-#### Las doctrinas como el Gnosticismo incipiente enseñaban que la materia era mala y el espíritu bueno, negaban que Jesús vino en un cuerpo físico de carne y hueso, (docetismo).
+#### Las doctrinas como el Gnosticismo enseñaban que la materia era mala y el espíritu bueno, negaban que Jesús vino en un cuerpo físico de carne y hueso (docetismo).
 
 ### Existían confusiones en relación al pecado (1 Juan 1:8) , guardar sus mandamientos (1 Juan 2:4)  y permanecer en él (1 Juan 2:6), las falsas enseñanzas que afectaron de manera visible y práctica en su andar.
 
-### La comunión entre creyentes había sido destruida al punto de llegar a detestar a sus hermanos, olvidando que pasaron de muerte a vida (1 Juan 2:9-11; 3:10-15) 
+### La comunión entre creyentes había sido destruida al punto de llegar a detestar a sus hermanos, olvidando que pasaron de muerte a vida (1 Juan 2:9-11; 3:10-15) .
 
-### Muchos creyentes llegaban a concluir que no tenían vida eterna debido a su extravío de la verdad (1 Juan 5:13)
+### Muchos creyentes llegaban a concluir que no tenían vida eterna debido a su extravío de la verdad (1 Juan 5:13).
 
 ## Autor.
 
@@ -115,11 +115,65 @@ Title: Primera epístola del apóstol Juan
 
 ### Estas cosas les escribe a los que creen en el nombre de Jesucristo para que sepan que tienen vida eterna y que sepan que Dios oye sus peticiones. 1 Juan 5:13-15
 
-## Tema central y división de la primera epístola de Juan
+## Tema central y división temática de 1 Juan
 
-### El tema central de la primera epístola de Juan es "El puso su vida por nosotros." 1 Juan 4:10 
+### El tema central de la primera epístola de Juan es "El puso su vida por nosotros." 1 Juan 3:16 
 
+#### **Prólogo** - 1 Juan 1:1 - 4
 
+##### Testimonio de Juan con respecto al verbo de vida.1 Juan 1:1-2
+
+##### Comunión con nosotros, con el Padre y el hijo. 1 Juan 1:3-4
+
+#### **Caminar en la luz** - 1 Juan 1:5 - 2:27 
+
+##### Dios es luz y la naturaleza santa de Dios. 1 Juan 1:5–7
+
+##### Confesión de Pecados. 1 Juan 1:8-10 
+
+##### Cristo nuestro intercesor ante Dios. 1 Juan 2:1-2
+
+##### Guardar sus mandamientos y su palabra. 1 Juan 2:3-6
+
+##### El mandamiento de Amar a los hermanos.  1 Juan 2:7-11
+
+##### El amor al mundo y hacer la voluntad de Dios. 1 Juan 2:15-17
+
+##### El anticristo y su engaño.1 Juan 2:18-27
+
+#### **Vivir como hijos de Dios** - 1 Juan 2:28 - 4:6
+
+##### Nacidos de Dios y el reflejo de su pureza. 1 Juan 2:28–3:3
+
+##### La nueva relación con el Pecado y la permanencia en Dios. 1 Juan 3:4–10
+
+##### El amor a los hermanos frente al odio. 1 Juan 3:11–18
+
+##### Confianza delante de Dios guardando sus mandamientos. 1 Juan 3:19–24
+
+##### Discernimiento del espíritu de verdad y del error. 1 Juan 4:1–6
+
+#### **Dios es amor** - 1 Juan 4:7 - 5:12
+
+##### Origen y manifestación expresada del amor. 1 Juan 4:7–10
+
+##### Permanencia en el amor de Dios y el amor a los hermanos. 1 Juan 4:11–21
+
+##### La fe que vence al mundo. 1 Juan 5:1–5
+
+##### El testimonio triple en el cielo y en la tierra. 1 Juan 5:6–12
+
+#### **Epílogo**  1 Juan 5:13 - 21 
+
+##### Seguridad de la vida eterna para los creyentes. 1 Juan 5:13
+
+##### Confianza en las oraciones y peticiones. 1 Juan 5:14–15
+
+##### Intercesión por el hermano que comete pecado. 1 Juan 5:16–17
+
+##### Conocimiento de la santidad, el mundo, el verdadero Dios y la vida eterna. 1 Juan 5:18–20
+
+##### Exhortación final con respecto a la idolatría. 1 Juan 5:18–20
 
 # LOS TESTIGOS Y SU MENSAJE
 
