@@ -2,6 +2,9 @@
 Title: Primera epístola del apóstol Juan
 
 ---
+___-___
+# 1 Juan
+## El puso su vida por nosotros
 
 ##  Importancia de la epístola 
 
@@ -33,13 +36,13 @@ Title: Primera epístola del apóstol Juan
 
 ### Los creyentes eran perseguidos por el emperador <u>Domiciano</u> 81-96 d.C. , eran vistos con desconfianza debido a no rendir culto al emperador.
 
-## Situación interna de la iglesia.
+## Situación interna de la Iglesia
 
-### Entender la situación interna de la iglesia en el <u>momento</u> que se escribió 1 de Juan es clave para comprender sus motivos de escribirles y lo que estaban enfrentando los creyentes.
+### Entender la situación interna de la Iglesia en el <u>momento</u> que se escribió 1 de Juan es clave para comprender sus motivos de escribirles y lo que estaban enfrentando los creyentes.
 
 ### Las iglesias enfrentaban el desafío de mantener la enseñanza <u>transmitida</u> por los apóstoles fielmente.
 
-### Enfrentaban una división interna debido a las falsas enseñanzas, distorsionando el mensaje acerca de Jesús hecho carne, al punto de negar que Jesús es el <u>Cristo</u>. (1 Juan 2:18-23; 4:1-3).
+### Enfrentaban una división interna debido a las falsas enseñanzas, distorsionando el mensaje acerca de Jesús hecho carne, al punto de negar que Jesús es el <u>Cristo</u>. 1 Juan 2:18-23, 4:1-3
 
 #### Las <u>doctrinas</u> como el Gnosticismo enseñaban que la materia era mala y el espíritu bueno, negaban que Jesús vino en un cuerpo físico de carne y hueso (docetismo).
 
