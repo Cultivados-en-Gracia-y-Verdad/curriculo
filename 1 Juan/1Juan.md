@@ -8,6 +8,16 @@ Title: Primera epístola del apóstol Juan
 
 ### El autor va a comunicar claramente durante toda la epístola quién es Jesús y lo que él hizo por nosotros, identificándose como un testigo ocular y presencial de Jesucristo “*lo oyó, lo vio, lo contempló, lo palpo*”.  
 
+#### El capítulo 1 aborda sobre el verbo de vida, la comunión, el andar en la luz, la confesión de pecados.
+
+#### El capítulo 2 aborda sobre la propiciación de los pecados, el guardar sus mandamientos,  el amor a los hermanos, el amor al mundo, el anticristo y su engaño , el permanecer en él.
+
+#### El capítulo 3 aborda sobre el amor del Padre como hijos de Dios, la relación del pecado con los nacidos de Dios, el amor práctico entre hermanos, la reprensión del corazón, el guardar sus mandamientos.
+
+#### El capítulo 4 aborda sobre probar a los espíritus, el amor de Dios demostrado, el amor entre hermanos, la esencia del amor, la relación entre amar y guardar sus mandamientos.
+
+#### El capítulo 5 aborda sobre quien vence al mundo, el testimonio en el cielo y en la tierra, la vida en el Hijo, la seguridad de la vida eterna, el conocimiento verdadero de Dios.
+
 ## Situación general del cristianismo
 
 ### Después de la resurrección y ascensión de Jesús, los creyentes enfrentaron oposición del sanedrín y líderes religiosos judíos alrededor de los años 30-40 d.C. Hechos 4-5,7-8,12
@@ -24,13 +34,19 @@ Title: Primera epístola del apóstol Juan
 
 ## Situación interna de la iglesia
 
+### Entender la situación interna de la iglesia en el momento que se escribió 1 de Juan es clave para comprender sus motivos de escribirles y lo que estaban enfrentando los creyentes.
+
 ### Las iglesias enfrentaban el desafío de mantener la enseñanza transmitida por los apóstoles fielmente.
 
-### Tenemos la evidencia de 1 Juan con respecto a los falsos maestros y sus enseñanzas y Apocalipsis 2-3 que reflejan a las iglesias locales apartadas de la verdad.
+### Enfrentaban una división interna debido a las falsas enseñanzas, distorsionando el mensaje acerca de Jesús hecho carne, al punto de negar que Jesús es el Cristo. (1 Juan 2:18-23; 4:1-3)
 
-### Existía la corriente del Gnosticismo la cual influenciaba las enseñanzas afirmando que Jesús no había venido en la carne.
+#### Las doctrinas como el Gnosticismo incipiente enseñaban que la materia era mala y el espíritu bueno, negaban que Jesús vino en un cuerpo físico de carne y hueso, (docetismo).
 
-### La comunión entre creyentes había sido olvidada debido a las diferentes circunstancias y enseñanzas contrarias a la palabra.
+### Existían confusiones en relación al pecado (1 Juan 1:8) , guardar sus mandamientos (1 Juan 2:4)  y permanecer en él (1 Juan 2:6), las falsas enseñanzas que afectaron de manera visible y práctica en su andar.
+
+### La comunión entre creyentes había sido destruida al punto de llegar a detestar a sus hermanos, olvidando que pasaron de muerte a vida (1 Juan 2:9-11; 3:10-15) 
+
+### Muchos creyentes llegaban a concluir que no tenían vida eterna debido a su extravío de la verdad (1 Juan 5:13)
 
 ## Autor.
 
@@ -84,27 +100,25 @@ Title: Primera epístola del apóstol Juan
 
 ## Propósito de la escritura
 
-### Tiene el propósito de animar a los creyentes
+### Uno de los propósitos de anunciarles esto, es para que tengan comunión con nosotros, que es con el Padre y con su Hijo Jesucristo, con el fin que que su gozo sea completo. 1 Juan 1:3-4
 
-###  y fortalecerlos en la fe 
+### El propósito de escribirles esto no es para que tengan libertad de pecar, sino para que sepan que tienen un intercesor para con el Padre, a Jesucristo el Justo. 1 Juan 2:1
 
-### y enseñanzas de Jesucristo.
+### Les recuerda un mandamiento antiguo que han tenido desde el principio, el amor a los hermanos. 1 Juan 2:7-11
 
-### *Desarrollar más. puntos claves. Falta*
+### Les escribe para recordarles que sus pecados han sido perdonados por el nombre de Cristo y que conocen aquel que ha sido desde el principio, les anima mostrando que conocen al Padre y han vencido al maligno.1 Juan 2:12-14
+
+### Les escribe debido a que conocen la verdad, y les anima a permanecer en lo que oyeron desde el principio, sabiendo que están tratando de engañarlos. 1 Juan 2:21-26
+
+### Un propósito de escribirles es mostrarles el amor de Dios para con nosotros y que vivamos por medio de él, amándonos unos a otros. 1 Juan 4:9-17
+
+### Estas cosas les escribe a los que creen en el nombre de Jesucristo para que sepan que tienen vida eterna y que sepan que Dios oye sus peticiones. 1 Juan 5:13-15
 
 ## Tema central y división de la primera epístola de Juan
 
 ### El tema central de la primera epístola de Juan es "El puso su vida por nosotros." 1 Juan 4:10
 
-#### El capítulo 1 aborda sobre el verbo de vida, la comunión, el andar en la luz, la confesión de pecados.
-
-#### El capítulo 2 aborda sobre la propiciación de los pecados, el guardar sus mandamientos,  el amor a los hermanos, el amor al mundo, el anticristo y su engaño , el permanecer en él.
-
-#### El capítulo 3 aborda sobre el amor del Padre como hijos de Dios, la relación del pecado con los nacidos de Dios, el amor práctico entre hermanos, la reprensión del corazón, el guardar sus mandamientos.
-
-#### El capítulo 4 aborda sobre probar a los espíritus, el amor de Dios demostrado, el amor entre hermanos, la esencia del amor, la relación entre amar y guardar sus mandamientos.
-
-#### El capítulo 5 aborda sobre quien vence al mundo, el testimonio en el cielo y en la tierra, la vida en el Hijo, la seguridad de la vida eterna, el conocimiento verdadero de Dios.
+#### 
 
 # LOS TESTIGOS Y SU MENSAJE
 ## 1 Juan 1:1-4 – Juan comienza  anunciando un mensaje, una Persona, el Verbo de Vida.
