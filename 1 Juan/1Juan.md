@@ -1043,359 +1043,359 @@ Title: Primera epístola del apóstol Juan
 
 ## 1 Juan 3:1-2 – Miren el amor que nos ha dado el Padre
 
-### 1 Juan 3:1a – *Miren cuan gran amor nos ha otorgado el Padre: que seamos llamados hijos de Dios.* Este es el segundo imperativo considerando nuestra futura reunión con Cristo.
+### 1 Juan 3:1a – *Miren cuan gran amor nos ha otorgado el Padre: que seamos llamados hijos de Dios.* Este es el segundo imperativo considerando <u>nuestra</u> futura reunión con Cristo.
 
-#### Juan quiere que seamos capaces de discernir (miren) la clase de amor que hemos recibido de parte de Dios por medio de Cristo.
+#### Juan quiere que seamos capaces de discernir (miren) la <u>clase</u> de amor que hemos recibido de parte de Dios por medio de Cristo.
 
-#### Para esto Juan presenta un hecho claro como resultado del amor de Dios: somos llamados sus hijos. Juan 1:12
+#### Para esto Juan presenta un hecho <u>claro</u> como resultado del amor de Dios: somos llamados sus hijos. Juan 1:12
 
-#### Que interesante que esto sea un imperativo para alguien que ya ha sido justificado. Muchas veces tenemos la salvación, pero no consideramos todo lo que esta implica, e ignoramos lo que Dios nos ha dado por medio de Cristo. Romanos 6:3-14
+#### Que interesante que esto sea un imperativo para alguien que ya ha <u>sido</u> justificado. Muchas veces tenemos la salvación, pero no consideramos todo lo que esta implica, e ignoramos lo que Dios nos ha dado por medio de Cristo. Romanos 6:3-14
 
-#### Juan quiere que veamos los hechos (somos llamados hijos de Dios) y así podamos discernir la clase de amor que hemos recibido del Padre por medio de Jesucristo.
+#### Juan quiere que <u>veamos</u> los hechos (somos llamados hijos de Dios) y así podamos discernir la clase de amor que hemos recibido del Padre por medio de Jesucristo.
 
-### 1 Juan 3:1b - *…y eso somos, Por eso el mundo no nos conoce porque no lo conoció a él.* La razón por la que debemos mirar el amor que Dios nos ha dado, es porque es el único lugar donde podemos entender verdaderamente quienes somos, ya que este mundo jamás podrá darnos significado a la vida.
+### 1 Juan 3:1b - *…y eso somos, Por eso el mundo no nos conoce porque no lo conoció a él.* La razón por la que debemos mirar el amor que Dios nos ha dado, es porque es el <u>único</u> lugar donde podemos entender verdaderamente quienes somos, ya que este mundo jamás podrá darnos significado a la vida.
 
-#### Juan tiene la certeza de que no solo es llamado hijo de Dios, junto con todos los que han creído en Jesucristo, sino que también son sus hijos.
+#### Juan tiene la certeza de que no solo es llamado hijo de Dios, <u>junto</u> con todos los que han creído en Jesucristo, sino que también son sus hijos.
 
-#### Dios nos ha convertido en sus hijos por medio de la regeneración, en 2:29 Juan mencionó a los que son nacidos de Dios, y es por medio de esto, que nos ha hecho sus hijos.
+#### Dios nos ha convertido en sus hijos por <u>medio</u> de la regeneración, en 2:29 Juan mencionó a los que son nacidos de Dios, y es por medio de esto, que nos ha hecho sus hijos.
 
-#### El mundo no puede conocernos por aquello que somos para el Padre. Por eso el lugar de donde entendemos nuestra identidad es mirando el amor de Dios para con nosotros. Debemos confiar en lo que Dios dice que somos, y no en lo que este mundo dice.
+#### El mundo no puede conocernos por aquello que somos para el Padre. Por eso el lugar de donde entendemos nuestra identidad es mirando el <u>amor</u> de Dios para con nosotros. Debemos confiar en lo que Dios dice que somos, y no en lo que este mundo dice.
 
-##### En el capítulo 2 vimos a Juan mostrar como este mundo y las cosas que hay en él no provienen del Padre. 1 Juan 2:15-17 Estas son muchos de los engaños por los cuales el enemigo trata de dar una ilusión de identidad a las personas.
+##### En el capítulo 2 vimos a Juan mostrar como este <u>mundo</u> y las cosas que hay en él no provienen del Padre. 1 Juan 2:15-17 Estas son muchos de los engaños por los cuales el enemigo trata de dar una ilusión de identidad a las personas.
 
-##### Pero nosotros somos llamados a mirar el amor de Dios como la fuente de nuestra identidad. Debemos entender que lo que somos (hijos de Dios), es lo que Dios dice de nosotros (seamos llamados hijos de Dios).
+##### Pero nosotros somos llamados a <u>mirar</u> el amor de Dios como la fuente de nuestra identidad. Debemos entender que lo que somos (hijos de Dios), es lo que Dios dice de nosotros (seamos llamados hijos de Dios).
 
-#### Al mostrar que el mundo no conoce lo que somos, sentara las bases para luego animarnos a mostrar aquello que somos por medio del amor visible, ya que Dios puede ser visto por este mundo a través de nuestras vidas.
+#### Al mostrar que el mundo no <u>conoce</u> lo que somos, sentara las bases para luego animarnos a mostrar aquello que somos por medio del amor visible, ya que Dios puede ser visto por este mundo a través de nuestras vidas.
 
-### 1 Juan 3:2a – *Amados, ahora somos hijos de Dios y aún no se ha manifestado lo que habremos de ser…* No solamente Juan quiere que miremos aquello que somos, sino quiere que conozcamos que esto que somos, garantiza una esperanza futura.
+### 1 Juan 3:2a – *Amados, ahora somos hijos de Dios y aún no se ha manifestado lo que habremos de ser…* No solamente Juan quiere que miremos aquello que somos, sino <u>quiere</u> que conozcamos que esto que somos, garantiza una esperanza futura.
 
-#### Como si fuera poco ser hijo de Dios, es tan grande el amor que nos ha otorgado que aún hay más
+#### Como si fuera poco ser hijo de Dios, es tan <u>grande</u> el amor que nos ha otorgado que aún hay más
 
-#### Como creyentes estamos a la espera de algo para que sea manifestado aquello que habremos de ser, ¿qué es?
+#### Como creyentes estamos a la <u>espera</u> de algo para que sea manifestado aquello que habremos de ser, ¿qué es?
 
-### 1 Juan 3:2b – *…pero sabemos que cuando Cristo se manifieste seremos semejantes e él, porque lo veremos como él es.* Aguardamos la manifestación de Jesucristo, que a la vez será nuestra futura glorificación. Romanos 8:17, 19, 21, 23-24
+### 1 Juan 3:2b – *…pero sabemos que cuando Cristo se manifieste seremos semejantes e él, porque lo veremos como él es.* Aguardamos la manifestación de Jesucristo, que a la vez será nuestra <u>futura</u> glorificación. Romanos 8:17, 19, 21, 23-24
 
-#### Primero Juan dice cuando sea manifestado, aunque no dice Cristo en los textos claramente habla de él, ya que es a él a quien veremos, y a él a quien seremos hechos semejantes. 1 Pedro 1:6-9
+#### Primero Juan dice cuando sea manifestado, aunque no dice Cristo en los <u>textos</u> claramente habla de él, ya que es a él a quien veremos, y a él a quien seremos hechos semejantes. 1 Pedro 1:6-9
 
-#### Es un hecho la futura manifestación de Cristo, Juan no dice, si se manifiesta, él dice, cuando Cristo se manifieste. Como creyentes tenemos la esperanza segura de su regreso.
+#### Es un hecho la futura manifestación de Cristo, Juan no <u>dice</u>, si se manifiesta, él dice, cuando Cristo se manifieste. Como creyentes tenemos la esperanza segura de su regreso.
 
-#### El retorno de Cristo garantiza que seremos transformados en la imagen misma de Jesucristo, y que lo veremos a él en toda Su Gloria. Romanos 8:29, Efesios 1:13-14, Colosenses 3:4
+#### El retorno de Cristo garantiza que seremos transformados en la imagen <u>misma</u> de Jesucristo, y que lo veremos a él en toda Su Gloria. Romanos 8:29, Efesios 1:13-14, Colosenses 3:4
 
-#### Por lo tanto, para el creyente, la manifestación de Cristo equivale a la manifestación de lo que seremos como hijos de Dios, nuestra glorificación.
+#### Por lo tanto, para el creyente, la manifestación de Cristo equivale a la manifestación de lo que seremos como <u>hijos</u> de Dios, nuestra glorificación.
 
-#### Muchas veces pensamos que la vida abundante consiste en estar haciendo algo por Dios, pero por medio de estos dos imperativos podemos ver que lo que Dios quiere de nosotros es que lo miremos a él y lo conozcamos.
+#### Muchas veces pensamos que la <u>vida</u> abundante consiste en estar haciendo algo por Dios, pero por medio de estos dos imperativos podemos ver que lo que Dios quiere de nosotros es que lo miremos a él y lo conozcamos.
 
-#### Por medio de Cristo Dios se hizo conocible, mientras permanecemos en él, disfrutamos de una comunión con él, es decir participamos de la vida de Cristo. Cuando miramos su amor, podemos tener una ventana a quién es él y así conocerlo más.
+#### Por medio de Cristo Dios se hizo conocible, mientras permanecemos en él, disfrutamos de una comunión con él, es <u>decir</u> participamos de la vida de Cristo. Cuando miramos su amor, podemos tener una ventana a quién es él y así conocerlo más.
 
-#### Para Juan son cruciales estos dos imperativos, si no permanecemos en él, no tenemos comunión con él, si no miramos su amor, no tendremos idea de cómo amar a los demás. 1 Corintios 4:7
+#### Para Juan son cruciales estos dos imperativos, si no permanecemos en él, no tenemos comunión con él, si no miramos su amor, no tendremos <u>idea</u> de cómo amar a los demás. 1 Corintios 4:7
 
 # 1 Juan 3:3-9 ASÍ COMO EL ES PURO, ASÍ COMO ÉL ES JUSTO 
 
 ## 1 Juan 3:3-6 La obra de Cristo quita nuestros pecados.
 
-### Si hemos hablado de la futura manifestación de Cristo, debemos considerar entonces los beneficios de su primera manifestación. 
+### Si hemos hablado de la futura manifestación de <u>Cristo</u>, debemos considerar entonces los beneficios de su primera manifestación. 
 
-### 1 Juan 3:3 – *Y todo el que tiene esta esperanza puesta en él, se purifica, así como él es puro.* La participación que tenemos de la vida de Cristo, o la comunión con él, no es automática, debemos entender que Dios hizo una obra completa, pero nosotros como sus hijos, debemos apropiarnos de ella. 1 Pedro 1:22
+### 1 Juan 3:3 – *Y todo el que tiene esta esperanza puesta en él, se purifica, así como él es puro.* La participación que tenemos de la vida de Cristo, o la comunión con él, no es automática, debemos entender que Dios hizo una <u>obra</u> completa, pero nosotros como sus hijos, debemos apropiarnos de ella. 1 Pedro 1:22
 
-#### Aquel que esta con la esperanza puesta en Cristo, se purifica, y Juan añade, así como él es puro.
+#### Aquel que esta con la esperanza <u>puesta</u> en Cristo, se purifica, y Juan añade, así como él es puro.
 
-#### La idea de Juan es si queremos ser hallados como aquellos que somos, o nos avergonzaremos de estar viviendo en todo aquellos que ya no somos. Si seré como Cristo, y es lo que soy, puedo vivir desde ahora como lo que él es. 2 Corintios 7:1, 2 Pedro 3:13-18
+#### La idea de Juan es si queremos ser hallados como aquellos que somos, o nos avergonzaremos de estar viviendo en todo aquellos que ya no somos. Si seré como Cristo, y es lo que soy, puedo <u>vivir</u> desde ahora como lo que él es. 2 Corintios 7:1, 2 Pedro 3:13-18
 
-#### Veremos que, para Juan, una vida pura no es solamente una vida que no está pecando, sino un creyente que está amando.
+#### Veremos que, para Juan, una vida <u>pura</u> no es solamente una vida que no está pecando, sino un creyente que está amando.
 
-#### Veremos que, aunque Juan no nos enseña en este versículo como podemos purificarnos, si lo hará en los siguientes versículos. Solamente por medio de la gracia de Dios, es decir, lo que Dios ha provisto para nosotros en la persona de Jesucristo podemos vivir una vida pura. Tito 2:11-14
+#### Veremos que, aunque Juan no nos enseña en este versículo como podemos purificarnos, si lo hará en los siguientes versículos. Solamente por medio de la <u>gracia</u> de Dios, es decir, lo que Dios ha provisto para nosotros en la persona de Jesucristo podemos vivir una vida pura. Tito 2:11-14
 
 ### 1 Juan 3:4 – *Todo el que practica el pecado practica también la infracción de la ley, pues el pecado es infracción de la ley.*
 
-#### En este estudio debemos aclarar que no haremos una distinción entre practica de pecado, o pecado ocasional, como muchos suelen interpretar estas porciones de las Escrituras.
+#### En este estudio debemos aclarar que no haremos una distinción entre practica de <u>pecado</u>, o pecado ocasional, como muchos suelen interpretar estas porciones de las Escrituras.
 
-#### La palabra practicando, también puede traducirse, y de hecho se lo hace más comúnmente como “haciendo”. Esta palabra no hace énfasis en la repetición de algo, sino más bien en que una acción está siendo realizada en ese momento.
+#### La palabra practicando, también <u>puede</u> traducirse, y de hecho se lo hace más comúnmente como “haciendo”. Esta palabra no hace énfasis en la repetición de algo, sino más bien en que una acción está siendo realizada en ese momento.
 
-#### La tendencia a interpretar este pasaje como una repetición continua de pecado de la que los “verdaderos creyentes” no pueden ser parte, nace de la idea de que alguien que es salvo de verdad, tiene si o si una vida transformada.
+#### La tendencia a interpretar este pasaje como una repetición continua de pecado de la que los “verdaderos creyentes” no pueden ser <u>parte</u>, nace de la idea de que alguien que es salvo de verdad, tiene si o si una vida transformada.
 
-##### Creemos que somos salvos solamente por la fe en Jesucristo, por lo tanto, veremos que estos versículos no hacen esa distinción, y tienen una gran enseñanza para nosotros.
+##### Creemos que somos salvos solamente por la <u>fe</u> en Jesucristo, por lo tanto, veremos que estos versículos no hacen esa distinción, y tienen una gran enseñanza para nosotros.
 
-### *“todo el que practica o (está haciendo) el pecado”,* entonces describe que aquel creyente que está pecando, es como consecuencia del pecado en él.
+#### *“todo el que practica o (está haciendo) el pecado”,* entonces describe que <u>aquel</u> creyente que está pecando, es como consecuencia del pecado en él.
 
-#### Entonces el que está pecando está infringiendo la ley de Dios, y Dios jamás llevaría a uno de sus hijos a una vida contraria a la ley. De hecho, por medio del amor que puede producir en nosotros a medida que permanecemos en él nos lleva a cumplir la ley. Gálatas 5:14, 23
+#### Entonces el que está pecando está infringiendo la <u>ley</u> de Dios, y Dios jamás llevaría a uno de sus hijos a una vida contraria a la ley. De hecho, por medio del amor que puede producir en nosotros a medida que permanecemos en él nos lleva a cumplir la ley. Gálatas 5:14, 23
 
-### 1 Juan 3:5 – *Ustedes saben que Cristo se manifestó a fin de quitar los pecados, y en él no hay pecado.* Ya que Cristo ha quitado nuestros pecados, es completamente ilógico que un creyente ande en ellos.
+### 1 Juan 3:5 – *Ustedes saben que Cristo se manifestó a fin de quitar los pecados, y en él no hay pecado.* Ya que Cristo ha quitado nuestros pecados, es completamente ilógico que un creyente <u>ande</u> en ellos.
 
-#### La solución para nuestros pecados se encuentra en la manifestación de Cristo en su primera venida, y su obra a nuestro favor. Juan 1:29
+#### La solución para nuestros pecados se encuentra en la manifestación de Cristo en su primera venida, y su obra a nuestro <u>favor</u>. Juan 1:29
 
-#### Como creyentes debemos saber que la obra de Cristo fue suficiente para tratar con nuestros pecados ya que los ha quitado de nosotros. El hecho de que haya quitado nuestros pecados, sin embargo, no significa que un creyente ya no peca, de hecho, Juan mismo mostró que si pecamos (2:2).
+#### Como creyentes debemos saber que la obra de Cristo fue suficiente para tratar con nuestros pecados ya que los ha quitado de nosotros. El <u>hecho</u> de que haya quitado nuestros pecados, sin embargo, no significa que un creyente ya no peca, de hecho, Juan mismo mostró que si pecamos (2:2).
 
-#### Los ha quitado de nosotros porque ya no los cuenta para con aquellos que han confiado en la obra de Jesucristo, habiéndoselos contado a él cuando murió en nuestro lugar. 2 Corintios 5:18-21, Romanos 4:8
+#### Los ha quitado de nosotros porque ya no los <u>cuenta</u> para con aquellos que han confiado en la obra de Jesucristo, habiéndoselos contado a él cuando murió en nuestro lugar. 2 Corintios 5:18-21, Romanos 4:8
 
-#### No solamente Juan muestra que el quito nuestros pecados, sino dice: *“en él no hay pecado”.* Juan quiere que sepamos que es imposible que Cristo sea la fuente de pecado en la vida de nadie, ya que él mismo fue la solución.
+#### No solamente Juan muestra que el quito nuestros pecados, sino dice: *“en él no hay pecado”.* Juan quiere que sepamos que es imposible que Cristo sea la fuente de pecado en la vida de <u>nadie</u>, ya que él mismo fue la solución.
 
-#### El hecho de que Jesús sea sin pecado, explica la razón por la que él pudo quitar nuestros pecados. Solamente alguien inocente podía morir como sustituto por nosotros. Hebreos 7:26-27
+#### El hecho de que Jesús sea sin pecado, explica la <u>razón</u> por la que él pudo quitar nuestros pecados. Solamente alguien inocente podía morir como sustituto por nosotros. Hebreos 7:26-27
 
-#### Cristo entonces no es solo la solución para nuestros pecados, sino también para la fuente de estos, ya que: *“en el no hay pecado”.* Por eso es imprescindible nuestra permanencia en Cristo. Juan 15:5
+#### Cristo entonces no es <u>solo</u> la solución para nuestros pecados, sino también para la fuente de estos, ya que: *“en el no hay pecado”.* Por eso es imprescindible nuestra permanencia en Cristo. Juan 15:5
 
-### 1 Juan 3:6 – *Todo el que permanece en él no peca, todo el que peca, ni lo ha visto ni lo ha conocido.* El pecado nunca es una expresión de permanecer en Cristo, cuando permanecemos en Cristo no pecamos en absoluto.
+### 1 Juan 3:6 – *Todo el que permanece en él no peca, todo el que peca, ni lo ha visto ni lo ha conocido.* El pecado nunca es una expresión de permanecer en Cristo, <u>cuando</u> permanecemos en Cristo no pecamos en absoluto.
 
-#### Dios garantiza que aquel que permanece en el no peca, como hemos visto en el anterior versículo, ya que él es sin pecado, él no va a llevar a ninguno de aquellos que permanecen en el a pecar, él no los llevará a infringir la ley.
+#### Dios garantiza que aquel que permanece en el no <u>peca</u>, como hemos visto en el anterior versículo, ya que él es sin pecado, él no va a llevar a ninguno de aquellos que permanecen en el a pecar, él no los llevará a infringir la ley.
 
-##### Por lo contrario, nadie puede afirmar una comunión con Dios si está pecando *“ni lo ha visto, ni lo ha conocido”.* Como Juan nos ha mostrado en, un creyente que está pecando, ha dejado de mirar el amor de Dios para con él. (3:1)
+##### Por lo contrario, nadie <u>puede</u> afirmar una comunión con Dios si está pecando *“ni lo ha visto, ni lo ha conocido”.* Como Juan nos ha mostrado en, un creyente que está pecando, ha dejado de mirar el amor de Dios para con él. (3:1)
 
-##### Verlo y conocerlo describen a una persona que está disfrutando de su vida, y participando de ella. Hay salvos que no lo están viendo ni lo conocen, y se pierden la gran vida en poder participar de Su Vida.
+##### Verlo y conocerlo describen a una persona que está disfrutando de su <u>vida</u>, y participando de ella. Hay salvos que no lo están viendo ni lo conocen, y se pierden la gran vida en poder participar de Su Vida.
 
-#### Como vimos en el versículo 29, del capítulo 2, El Justo es la fuente de nuestras justicias, no de nuestros pecados. Cristo quito nuestros pecados, no produce pecados en nosotros. Juan quiere que sepamos que la fuente de los pecados, es el pecado y no Jesucristo.
+#### Como vimos en el versículo 29, del capítulo 2, El <u>Justo</u> es la fuente de nuestras justicias, no de nuestros pecados. Cristo quito nuestros pecados, no produce pecados en nosotros. Juan quiere que sepamos que la fuente de los pecados, es el pecado y no Jesucristo.
 
-#### Juan no está hablando de cualquier persona que está pecando, sino de los creyentes que pecan. Todo el mundo peca, y nadie es salvo por dejar de pecar. Juan está mostrando que el creyente no debería pecar ya que Cristo ha solucionado este problema por nosotros.
+#### Juan no está hablando de cualquier persona que está pecando, sino de los creyentes que pecan. Todo el mundo peca, y nadie es <u>salvo</u> por dejar de pecar. Juan está mostrando que el creyente no debería pecar ya que Cristo ha solucionado este problema por nosotros.
 
 ## 1 Juan 3:7-9 La obra de Cristo nos trae libertad
 
-### 1 Juan 3:7a – *Hijitos míos, que nadie los engañe…* Juan durante toda la carta está tratando de combatir el engaño de los falsos maestros.
+### 1 Juan 3:7a – *Hijitos míos, que nadie los engañe…* Juan durante toda la <u>carta</u> está tratando de combatir el engaño de los falsos maestros.
 
-#### Es posible que estos enseñaban que el pecado era aceptable en la vida de los creyentes y que los que pecaban tenían comunión con Dios. Aunque tal vez no comunicaban eso directamente, era la mentira que probablemente algunos creyentes habían llegado a abrazar.
+#### Es posible que <u>estos</u> enseñaban que el pecado era aceptable en la vida de los creyentes y que los que pecaban tenían comunión con Dios. Aunque tal vez no comunicaban eso directamente, era la mentira que probablemente algunos creyentes habían llegado a abrazar.
 
-#### Juan error que Juan está combatiendo tiene que ver con la permisividad del pecado, en una gracia distorsionada, un error del que Judas y también los apóstoles habían advertido. Judas 3-4
+#### Juan error que Juan está combatiendo tiene que ver con la permisividad del pecado, en una gracia distorsionada, un error del que <u>Judas</u> y también los apóstoles habían advertido. Judas 3-4
 
-#### Por medio de este imperativo Juan va a combatir el error, los creyentes no deben permitirse el ser engañados. La gracia de Dios es su provisión para una vida abundante, no una licencia para el pecado. Tito 2:11-14
+#### Por medio de este imperativo Juan va a combatir el <u>error</u>, los creyentes no deben permitirse el ser engañados. La gracia de Dios es su provisión para una vida abundante, no una licencia para el pecado. Tito 2:11-14
 
-### 1 Juan 3:7b-8a – Por medio de una comparación Juan va amostrar los hechos como lo que son, contradiciendo el engaño de los falsos maestros: *“…el que practica la justicia es justo, así como él es Justo. El que practica el pecado es del diablo, porque el diablo ha pecado desde el principio.*
+### 1 Juan 3:7b-8a – Por medio de una comparación Juan va amostrar los <u>hechos</u> como lo que son, contradiciendo el engaño de los falsos maestros: *“…el que practica la justicia es justo, así como él es Justo. El que practica el pecado es del diablo, porque el diablo ha pecado desde el principio.*
 
-#### El que está haciendo Justicia, como resultado de permanecer en Cristo, es así como él es Justo. Es decir, las obras de justicia son el resultado del Justo en nosotros.
+#### El que está haciendo Justicia, como resultado de permanecer en Cristo, es así como él es Justo. Es decir, las <u>obras</u> de justicia son el resultado del Justo en nosotros.
 
-#### De igual modo, el que está pecando está haciendo las obras del diablo, la fuente de maldad.
+#### De igual modo, el que está pecando está haciendo las obras del <u>diablo</u>, la fuente de maldad.
 
-##### Hemos dicho antes que el pecado es la fuente, pero si un creyente está pecando es porque ha sido engañada, por eso el imperativo aquí: “no se dejen engañar”.
+##### Hemos dicho antes que el <u>pecado</u> es la fuente, pero si un creyente está pecando es porque ha sido engañada, por eso el imperativo aquí: “no se dejen engañar”.
 
-##### Fue a través del engaño que la serpiente condujo a Eva a pecar.
+##### Fue a través del engaño que la serpiente <u>condujo</u> a Eva a pecar.
 
-#### Podríamos decirlo de la siguiente forma: el que está haciendo Justicia, es por obra del Justo, el que está haciendo pecado, es por obra del diablo. Efesios 2:1-6
+#### Podríamos decirlo de la siguiente forma: el que está haciendo Justicia, es por <u>obra</u> del Justo, el que está haciendo pecado, es por obra del diablo. Efesios 2:1-6
 
-### 1 Juan 3:8b - *…el Hijo de Dios se manifestó con este propósito: para destruir las obras del diablo.* Aquellos liberados por Cristo son verdaderamente libres y pueden escapar de la esclavitud del pecado.
+### 1 Juan 3:8b - *…el Hijo de Dios se manifestó con este propósito: para destruir las obras del diablo.* Aquellos liberados por Cristo son verdaderamente <u>libres</u> y pueden escapar de la esclavitud del pecado.
 
-#### En 5:19 Juan dice que el mundo entero está bajo el maligno, mostrando un dominio que posee sobre el mundo, pero Cristo ha deshecho esto sobre sus hijos por lo tanto ya ha solucionado nuestro problema. Juan 12:31, 16:11
+#### En 5:19 Juan dice que el mundo entero está <u>bajo</u> el maligno, mostrando un dominio que posee sobre el mundo, pero Cristo ha deshecho esto sobre sus hijos por lo tanto ya ha solucionado nuestro problema. Juan 12:31, 16:11
 
-### *“las obras del diablo”,* aunque Juan no las menciona aquí podemos conocerlas por medio de las escrituras:
+### *“las obras del diablo”,* aunque Juan no las menciona aquí podemos conocerlas por <u>medio</u> de las escrituras:
 
-#### 2 Corintios 4:3-6 – Cegó el entendimiento de mucho para que nos les resplandezca el evangelio.
+#### 2 Corintios 4:3-6 – Cegó el entendimiento de <u>mucho</u> para que nos les resplandezca el evangelio.
 
-#### 2 Timoteo 2:25-26 – Vemos la necesidad de volver en sí, es decir salir del engaño en el que están cautivos.
+#### 2 Timoteo 2:25-26 – Vemos la necesidad de volver en sí, es decir <u>salir</u> del engaño en el que están cautivos.
 
-#### Satanás por medio de ocultar o tergiversar la verdad lleva cautivas a las personas por medio del engaño. Por eso Juan manda no dejarse engañar. Cristo ya nos ha librado, y no tenemos por qué vivir esclavos del pecado más, de hecho, podemos vivir así como él es Justo.
+#### Satanás por medio de ocultar o tergiversar la verdad <u>lleva</u> cautivas a las personas por medio del engaño. Por eso Juan manda no dejarse engañar. Cristo ya nos ha librado, y no tenemos por qué vivir esclavos del pecado más, de hecho, podemos vivir así como él es Justo.
 
 ### 1 Juan 3:9 – *Ninguno que es nacido de Dios practica el pecado, porque la simiente de Dios permanece en él. No puede pecar porque es nacido de Dios.*
 
-#### En 1 Juan 1:10 hemos visto como Juan dice que aquel que dice que no ha pecado hace a Dios mentiroso, por lo tanto, esta declaración no puede contradecir este pasaje.
+#### En 1 Juan 1:10 hemos visto como Juan dice que <u>aquel</u> que dice que no ha pecado hace a Dios mentiroso, por lo tanto, esta declaración no puede contradecir este pasaje.
 
-#### El que ha nacido de Dios, el nuevo hombre, no puede pecar, porque la fuente de esa vida fue Dios, por lo tanto, no puede pecar. Pablo estuvo de acuerdo cuando dijo *“de manera que ya no soy yo el que lo hace, sino el pecado que mora en mi” (Romanos 7:17)*
+#### El que ha nacido de Dios, el nuevo hombre, no puede <u>pecar</u>, porque la fuente de esa vida fue Dios, por lo tanto, no puede pecar. Pablo estuvo de acuerdo cuando dijo *“de manera que ya no soy yo el que lo hace, sino el pecado que mora en mi” (Romanos 7:17)*
 
-#### Ningún creyente comete pecado como expresión de su nueva naturaleza (la simiente de Dios que permanece en él), sino que comete pecado cuando la naturaleza pecaminosa domina sobre su vida (Romanos 6:12).
+#### Ningún creyente comete pecado como expresión de su <u>nueva</u> naturaleza (la simiente de Dios que permanece en él), sino que comete pecado cuando la naturaleza pecaminosa domina sobre su vida (Romanos 6:12).
 
-#### En 3:6 Juan dijo, el que permanece en él no peca. Entonces es correcto decir que Juan está diciendo: *Ninguno que es nacido de Dios practica el pecado (cuando permanece en él), porque la simiente de Dios permanece en él, (la simiente de Dios) no puede pecar porque es nacido de Dios.*
+#### En 3:6 Juan dijo, el que permanece en él no peca. Entonces es correcto <u>decir</u> que Juan está diciendo: *Ninguno que es nacido de Dios practica el pecado (cuando permanece en él), porque la simiente de Dios permanece en él, (la simiente de Dios) no puede pecar porque es nacido de Dios.*
 
-#### El punto central es, que la fuente de los pecados en la vida de los creyentes es el pecado, y el hecho de que hayamos nacido de nuevo, nos da la posibilidad de hacer justicia, lo que es natural del Justo.
+#### El punto central es, que la fuente de los pecados en la <u>vida</u> de los creyentes es el pecado, y el hecho de que hayamos nacido de nuevo, nos da la posibilidad de hacer justicia, lo que es natural del Justo.
 
-#### Como Juan dijo en 2:28, debemos permanecer en Cristo, y en 3:1, y debemos mirar el amor de Dios, considerando todo aquello que por medio de Cristo se ha convertido en nuestra realidad, para que vivamos una vida pura y justa, así como él es puro y Justo.
+#### Como Juan dijo en 2:28, debemos permanecer en Cristo, y en 3:1, y debemos <u>mirar</u> el amor de Dios, considerando todo aquello que por medio de Cristo se ha convertido en nuestra realidad, para que vivamos una vida pura y justa, así como él es puro y Justo.
 
-#### No hay otro camino a la vida abundante si no es por medio de Cristo, y Cristo mismos, es suficiente para esto, mientras participamos de su vida, es decir, tenemos comunión con él.
+#### No hay otro camino a la vida abundante si no es por medio de Cristo, y Cristo <u>mismos</u>, es suficiente para esto, mientras participamos de su vida, es decir, tenemos comunión con él.
 
-#### Podría entonces alguien preguntar ¿Cómo se ve una vida pura?, ¿cómo se ve una vida Justa? Esto nos lleva a la siguiente sección donde Juan nos mostrara ahora lo que Cristo hizo por nosotros, y no solamente quien es para nosotros.
+#### Podría entonces alguien preguntar ¿Cómo se ve una vida pura?, ¿cómo se ve una vida Justa? Esto nos lleva a la siguiente sección <u>donde</u> Juan nos mostrara ahora lo que Cristo hizo por nosotros, y no solamente quien es para nosotros.
 
 # 1 Juan 3:10-24 ASÍ COMO EL PUSO SU VIDA
 
-## El amor de Cristo no solamente fueron Palabras, él puso su vida por nosotros
+## El amor de Cristo no solamente <u>fueron</u> Palabras, él puso su vida por nosotros
 
 ### 1 Juan 3:10 – *En esto se reconocen los hijos de Dios y los hijos del diablo, todo aquel que no practica la justicia no es de Dios, tampoco aquel que no ama a su hermano.*
 
-#### Los hombres podemos vernos los unos a los otros y reconocernos los unos a los otros, no por lo que vemos en el interior, sino por las acciones de uno. Jesús les dijo a sus discípulos, que ellos serían conocidos como tales, si se amaban los unos a los otros. Juan 13:35
+#### Los hombres podemos vernos los unos a los otros y reconocernos los unos a los otros, no por lo que vemos en el interior, sino por las acciones de uno. Jesús les dijo a sus discípulos, que ellos serían conocidos como <u>tales</u>, si se amaban los unos a los otros. Juan 13:35
 
-#### Juan aquí está hablando de la justificación delante de los hombres, y muestra que esta es no en base a nuestras declaraciones o palabras de amor, sino en baso a nuestros actos de justicia y el amor por nuestros hermanos. Es por eso que dice, en esto son se manifiesta, o brillan.
+#### Juan aquí está hablando de la justificación delante de los hombres, y muestra que esta es no en base a nuestras declaraciones o palabras de <u>amor</u>, sino en baso a nuestros actos de justicia y el amor por nuestros hermanos. Es por eso que dice, en esto son se manifiesta, o brillan.
 
-#### La justicia que brilla, es aquella cuya fuente es el Justo, no aquella producida solamente como una apariencia. Mateo 6:1-4
+#### La justicia que brilla, es aquella cuya <u>fuente</u> es el Justo, no aquella producida solamente como una apariencia. Mateo 6:1-4
 
-#### Todos los incrédulos son hijos del diablo, y por lo tanto solo pueden hacer las obras del diablo, de hecho, son descritos también de esta forma en Efesios 2:1-3
+#### Todos los incrédulos son hijos del diablo, y por lo <u>tanto</u> solo pueden hacer las obras del diablo, de hecho, son descritos también de esta forma en Efesios 2:1-3
 
-##### Esto no quiere decir que todos los que pecan alguna vez, o nunca hacen obras de justicia no son verdaderamente salvos.
+##### Esto no quiere decir que todos los que pecan alguna vez, o <u>nunca</u> hacen obras de justicia no son verdaderamente salvos.
 
-##### Vemos en Gálatas 5:19, que pablo dice: “y manifiestas son las obras de la carne”, es decir todas aquellas obras pecaminosas, aun en la vida de los creyentes, provienen de la carne. 1 Corintios 3:13
+##### Vemos en Gálatas 5:19, que pablo dice: “y manifiestas son las obras de la carne”, es decir todas aquellas <u>obras</u> pecaminosas, aun en la vida de los creyentes, provienen de la carne. 1 Corintios 3:13
 
-##### Cuando alguien ve estas obras en nuestras vidas, fácilmente podrá decir, que somos como todos, uno más en este mundo. 1 Corintios 3:1-3
+##### Cuando alguien ve estas obras en nuestras <u>vidas</u>, fácilmente podrá decir, que somos como todos, uno más en este mundo. 1 Corintios 3:1-3
 
-#### Por eso, Juan no está diciendo que podemos discernir quien es verdaderamente salvo por cómo vive, pero muestra que nuestras declaraciones para ser creídas por los demás, deben ir acompañadas de acciones.
+#### Por eso, Juan no está diciendo que podemos discernir <u>quien</u> es verdaderamente salvo por cómo vive, pero muestra que nuestras declaraciones para ser creídas por los demás, deben ir acompañadas de acciones.
 
-#### Sabemos que esto sería imposible por nuestras propias fuerzas, pero permaneciendo en Cristo, podemos hacer verdadera justica al amarnos los unos a los otros, como Cristo nos ha amado.
+#### Sabemos que esto sería imposible por nuestras propias <u>fuerzas</u>, pero permaneciendo en Cristo, podemos hacer verdadera justica al amarnos los unos a los otros, como Cristo nos ha amado.
 
-#### A través de esta fuerte comparación Juan quiere animar a los creyentes diciéndoles: Brillemos como lo que somos. En el capítulo 4 veremos que Juan tiene una razón en mente para decir esto.
+#### A través de esta fuerte comparación Juan quiere <u>animar</u> a los creyentes diciéndoles: Brillemos como lo que somos. En el capítulo 4 veremos que Juan tiene una razón en mente para decir esto.
 
-### 1 Juan 3:11 – *Porque este es el mensaje que ustedes han oído desde el principio: que nos amemos los unos a los otros.* El mensaje que hemos oído desde el principio, es a fin de que nos amemos los unos a los otros.
+### 1 Juan 3:11 – *Porque este es el mensaje que ustedes han oído desde el principio: que nos amemos los unos a los otros.* El mensaje que hemos oído <u>desde</u> el principio, es a fin de que nos amemos los unos a los otros.
 
-#### La palabra “que” en este versículo puede también ser traducida como “para que”. Esto tiene sentido con lo que Juan viene diciendo.
+#### La palabra “que” en este versículo <u>puede</u> también ser traducida como “para que”. Esto tiene sentido con lo que Juan viene diciendo.
 
-#### En resumen, podríamos decir, que el anuncio (la palabra que Juan uso al principio al decir, eso os anunciamos acerca del Verbo de Vida) de Cristo, quién es él y lo que él hizo por nosotros, tiene el propósito de llevarnos a amarnos los unos a los otros.
+#### En resumen, podríamos decir, que el <u>anuncio</u> (la palabra que Juan uso al principio al decir, eso os anunciamos acerca del Verbo de Vida) de Cristo, quién es él y lo que él hizo por nosotros, tiene el propósito de llevarnos a amarnos los unos a los otros.
 
-#### El amor de Dios hacia nosotros, otorgado en la persona de Su Hijo, es para que podamos darlo hacia otros.
+#### El amor de Dios hacia nosotros, otorgado en la persona de Su Hijo, es <u>para</u> que podamos darlo hacia otros.
 
-#### Juan no quiere que centren sus vidas solamente en no pecar, sino que puedan participar de la vida de Cristo, en este caso, Mirando el amor de Dios, para poder así amarse los unos a los otros.
+#### Juan no quiere que centren sus vidas solamente en no <u>pecar</u>, sino que puedan participar de la vida de Cristo, en este caso, Mirando el amor de Dios, para poder así amarse los unos a los otros.
 
-#### Entonces podemos preguntarnos ¿y cómo entonces sabemos que verdaderamente nos estamos amando los unos a los otros? A continuación, Juan explicará esto.
+#### Entonces podemos preguntarnos ¿y <u>cómo</u> entonces sabemos que verdaderamente nos estamos amando los unos a los otros? A continuación, Juan explicará esto.
 
 ### 1 Juan 3:12a – *No como Caín, que era del maligno y mató a su hermano. ¿Y por qué cause lo mató? Porque sus obras eran malas, y las de su hermano justas.*
 
-#### Este es el relato del primer asesinato registrado en la historia del hombre, cuando Caín mató a su hermano, ¿Por qué Juan nos lleva ahí? Vayamos parte por parte…
+#### Este es el relato del primer asesinato registrado en la historia del <u>hombre</u>, cuando Caín mató a su hermano, ¿Por qué Juan nos lleva ahí? Vayamos parte por parte…
 
-### *“no como Caín…”* Caín es puesto como ejemplo de alguien que no amo a su hermano.
+### *“no como Caín…”* Caín es <u>puesto</u> como ejemplo de alguien que no amo a su hermano.
 
-### *“…que era del maligno…”* Luego Juan declara que era del maligno.
+### *“…que era del maligno…”* Luego Juan declara que <u>era</u> del maligno.
 
-#### Caín y Abel nacieron en la misma condición, sin embargo, Caín fue rechazado por Dios y Abel fue aceptado. Las escrituras nos muestran que Abel fue aceptado por medio de la fe. Hebreos 11:4
+#### Caín y Abel nacieron en la misma condición, sin embargo, Caín fue rechazado por Dios y Abel fue aceptado. Las escrituras nos muestran que Abel fue aceptado por <u>medio</u> de la fe. Hebreos 11:4
 
-#### Es interesante que en el relato de la aceptación de Abel, y el rechazo de Caín, el único testigo es Dios.
+#### Es interesante que en el relato de la aceptación de <u>Abel</u>, y el rechazo de Caín, el único testigo es Dios.
 
-#### Caín, sin embargo, nunca le creyó a Dios en cuanto a su provisión por nuestros pecados y quiso acercarse a él por sus propios medios.
+#### Caín, sin embargo, nunca le creyó a Dios en <u>cuanto</u> a su provisión por nuestros pecados y quiso acercarse a él por sus propios medios.
 
-#### Concluimos entonces que Caín era del maligno, así como cualquier incrédulo lo es.
+#### Concluimos entonces que <u>Caín</u> era del maligno, así como cualquier incrédulo lo es.
 
-### *“...y mató a su hermano…”* Caín actuó en consecuencia a su naturaleza. Él mostró que era un asesino, por un solo asesinato.
+### *“...y mató a su hermano…”* Caín actuó en consecuencia a su naturaleza. Él <u>mostró</u> que era un asesino, por un solo asesinato.
 
-#### Juan pone a Caín, no como un ejemplo de alguien que es injusto por las cosas que hace (nadie es justificado por Dios por medio de las obras Romanos 3:28), sino que es el ejemplo de alguien que era injusto y por eso hizo lo que hizo, al ver sus obras todos llegamos a esa conclusión.
+#### Juan pone a Caín, no como un ejemplo de alguien que es injusto por las cosas que hace (nadie es justificado por Dios por medio de las obras Romanos 3:28), <u>sino</u> que es el ejemplo de alguien que era injusto y por eso hizo lo que hizo, al ver sus obras todos llegamos a esa conclusión.
 
-#### Por otro lado, Abel tampoco fue Justificado por sus obras, pero si vimos sus obras, y son consideradas como justas, aún por el mismo Caín, ya que lo mató: *“porque sus obras eran malas, y las de su hermano justas*”.
+#### Por otro lado, Abel tampoco fue Justificado por sus <u>obras</u>, pero si vimos sus obras, y son consideradas como justas, aún por el mismo Caín, ya que lo mató: *“porque sus obras eran malas, y las de su hermano justas*”.
 
-#### Por medio de esto Juan muestra la razón por la cual el mundo aborrece a los Justos, y no es por lo que son, sino por lo que hacen.
+#### Por medio de esto Juan muestra la razón por la cual el <u>mundo</u> aborrece a los Justos, y no es por lo que son, sino por lo que hacen.
 
-### Génesis 4:9 es muy apropiado en este contexto: *“Entonces el Señor dijo a Caín: “¿Dónde está tu hermano Abel?” Y él respondió: “No sé. ¿Soy yo acaso guardián de mi hermano?”*
+#### Génesis 4:9 es muy apropiado en este contexto: *“Entonces el Señor dijo a Caín: “¿Dónde está tu hermano Abel?” Y él respondió: “No sé. ¿Soy yo <u>acaso</u> guardián de mi hermano?”*
 
-#### Si Dios está preguntando a Caín por Abel significa que está demandando a Caín por Abel. Es decir, si fuera yo el que tuviera que responderle le habría dicho: “Claro que sí Caín, por eso te estoy preguntando”
+#### Si Dios está preguntando a Caín por <u>Abel</u> significa que está demandando a Caín por Abel. Es decir, si fuera yo el que tuviera que responderle le habría dicho: “Claro que sí Caín, por eso te estoy preguntando”
 
-#### Juan quiere que entendamos los mismo, debido a lo que somos, nos debemos el amor los unos a los otros.
+#### Juan quiere que entendamos los mismo, <u>debido</u> a lo que somos, nos debemos el amor los unos a los otros.
 
-#### Debemos recordar que la justificación delante de los hombres, no tiene valor alguno para nuestra salvación, ya que somos justificados únicamente por la fe delante de Dios. Pero si es importante para nuestra vida aquí y ahora, para que brillemos como lo que somos.
+#### Debemos recordar que la justificación delante de los hombres, no tiene <u>valor</u> alguno para nuestra salvación, ya que somos justificados únicamente por la fe delante de Dios. Pero si es importante para nuestra vida aquí y ahora, para que brillemos como lo que somos.
 
-### 1 Juan 3:13 – *Hermanos no se maravillen si el mundo los odia.* Vivir una vida pura y Justa delante de los hombres, hará que nos ganemos el odio del mundo, pero esto no debe sorprendernos y tampoco desanimarnos.
+### 1 Juan 3:13 – *Hermanos no se maravillen si el mundo los odia.* Vivir una vida pura y Justa delante de los hombres, hará que nos ganemos el odio del mundo, pero esto no <u>debe</u> sorprendernos y tampoco desanimarnos.
 
-#### El odio del mundo no debe ser una razón para que no amemos.
+#### El odio del mundo no debe ser una <u>razón</u> para que no amemos.
 
-#### Cómo mostró en Caín el odio que tuvo hacia su hermano, y muestra el odio que el mundo tiene hacia los justos, ¿Cómo es posible que eso sea una opción entre los creyentes?
+#### Cómo mostró en Caín el odio que tuvo <u>hacia</u> su hermano, y muestra el odio que el mundo tiene hacia los justos, ¿Cómo es posible que eso sea una opción entre los creyentes?
 
-#### Juan dice, no se maravillen (un imperativo), ya que el mundo los odia (un hecho, no una posibilidad). Juan 15:18-27, 17:14
+#### Juan dice, no se maravillen (un imperativo), ya que el <u>mundo</u> los odia (un hecho, no una posibilidad). Juan 15:18-27, 17:14
 
-#### No podemos amarnos los unos a los otros como respuesta a algo que recibimos del mundo, sino en respuesta al amor que hemos recibido del Padre. 1 Juan 3:1
+#### No podemos amarnos los unos a los <u>otros</u> como respuesta a algo que recibimos del mundo, sino en respuesta al amor que hemos recibido del Padre. 1 Juan 3:1
 
 ### 1 Juan 3:14 *– Nosotros sabemos que hemos pasado de muerte a vida porque amamos a los hermanos. El que no ama permanece en muerte*
 
-#### Juan comienza esta declaración con “nosotros”, haciendo referencia a la justificación delante de los hombres.
+#### Juan comienza <u>esta</u> declaración con “nosotros”, haciendo referencia a la justificación delante de los hombres.
 
-#### No sabemos que hemos pasado de muerte a vida por los corazones, ya que no somos capaces de conocerlos, y tampoco por las declaraciones que oímos, ya que pueden ser una mentira, sino por las acciones “*porque amamos a los hermanos”.*
+#### No sabemos que hemos pasado de muerte a <u>vida</u> por los corazones, ya que no somos capaces de conocerlos, y tampoco por las declaraciones que oímos, ya que pueden ser una mentira, sino por las acciones “*porque amamos a los hermanos”.*
 
-#### Juan 5:24, garantiza que todo aquel que oye y cree ha pasado de muerte a vida. Eso es un hecho para cada creyente.
+#### Juan 5:24, garantiza que todo aquel que oye y <u>cree</u> ha pasado de muerte a vida. Eso es un hecho para cada creyente.
 
-#### El creyente que, al permanecer en Cristo, es llevado por el a amar a los hermanos puede disfrutar de una gran confianza para con Dios.
+#### El creyente que, al permanecer en Cristo, es llevado por el a <u>amar</u> a los hermanos puede disfrutar de una gran confianza para con Dios.
 
-#### Santiago dijo algo muy similar en Santiago 2:24: *“Ustedes ven que el hombre es justificado por las obras, y no solo por la fe.”*
+#### Santiago <u>dijo</u> algo muy similar en Santiago 2:24: *“Ustedes ven que el hombre es justificado por las obras, y no solo por la fe.”*
 
-### *“el que no ama, permanece en muerte”.* Es triste ver a muchos creyentes que se pierden la oportunidad de tener comunión con Cristo que resulta en amor los unos por los otros, por no vivir de acuerdo a aquello que son.
+### *“el que no ama, permanece en muerte”.* Es <u>triste</u> ver a muchos creyentes que se pierden la oportunidad de tener comunión con Cristo que resulta en amor los unos por los otros, por no vivir de acuerdo a aquello que son.
 
-#### En muchos creyentes, aun reina el pecado en sus vidas, ya que estos no se apropian de los logros de Cristo a su favor.
+#### En muchos creyentes, aun reina el pecado en sus <u>vidas</u>, ya que estos no se apropian de los logros de Cristo a su favor.
 
-#### Esto puede ser verdad de cada uno de nosotros, que pudiendo experimentar la misma vida de Cristo en nosotros, vivamos simplemente como asesinos.
+#### Esto puede ser verdad de cada uno de nosotros, que pudiendo experimentar la <u>misma</u> vida de Cristo en nosotros, vivamos simplemente como asesinos.
 
 ### 1 Juan 3:15 – *Todo el que aborrece a su hermano es un asesino, y ustedes saben que ningún asesino tiene vida eterna permanente en él.*
 
-#### En Mateo 5:21-22, vemos que el odio y el asesinato son considerados iguales para Dios.
+#### En Mateo 5:21-22, vemos que el <u>odio</u> y el asesinato son considerados iguales para Dios.
 
-#### Si el odio y el asesinato son lo mismo, un creyente que está aborreciendo a su hermano, será visto como un asesino.
+#### Si el odio y el asesinato son lo <u>mismo</u>, un creyente que está aborreciendo a su hermano, será visto como un asesino.
 
-#### Los no salvos son descritos así, y sabemos que ningún incrédulo tiene vida eterna. Los creyentes eran esto, pero por medio de Cristo ya han sido lavados, justificados y santificados. 1 Corintios 6:11
+#### Los no <u>salvos</u> son descritos así, y sabemos que ningún incrédulo tiene vida eterna. Los creyentes eran esto, pero por medio de Cristo ya han sido lavados, justificados y santificados. 1 Corintios 6:11
 
-#### Cuando Juan dice “saben”, hay un pronombre implícito ahí: “ustedes” es decir refiriéndose a los creyentes. Lo que significa que no les está diciendo que el que odia no es verdaderamente salvo, sino que no deberíamos ser comparados con aquellos que no heredan la vida eterna.
+#### Cuando Juan dice “saben”, hay un pronombre implícito ahí: “ustedes” es decir refiriéndose a los creyentes. Lo que significa que no les está diciendo que el que odia no es verdaderamente salvo, sino que no deberíamos ser comparados con aquellos que no heredan la vida <u>eterna</u>.
 
-#### Deberíamos ser distinguidos en este mundo, y no comparados con ellos.
+#### Deberíamos ser distinguidos en este <u>mundo</u>, y no comparados con ellos.
 
-### 1 Juan 3:16 – *En esto conocemos el amor: en que Él puso su vida por nosotros. También nosotros debemos poner nuestras vidas por los hermanos.* Al mostrarnos lo que Jesús hizo por nosotros, Juan no dejará dudas del amor que espera que tengamos los unos por los otros.
+### 1 Juan 3:16 – *En esto conocemos el amor: en que Él puso su vida por nosotros. También nosotros debemos poner nuestras vidas por los hermanos.* Al mostrarnos lo que <u>Jesús</u> hizo por nosotros, Juan no dejará dudas del amor que espera que tengamos los unos por los otros.
 
-#### Es a través de lo que Cristo hizo por nosotros que podemos conocer el amor. El amor se ve en la entrega sacrificial de su vida a nuestro favor. Romanos 5:8
+#### Es a través de lo que Cristo hizo por nosotros que podemos conocer el <u>amor</u>. El amor se ve en la entrega sacrificial de su vida a nuestro favor. Romanos 5:8
 
-#### “por nosotros” Jesús no dio su vida por que iba a recibir algo a cambio de nosotros, sino que la dio completamente por nosotros. Filipenses 3:12, Isaías 53:10-12
+#### “por nosotros” Jesús no dio su vida por que iba a recibir algo a <u>cambio</u> de nosotros, sino que la dio completamente por nosotros. Filipenses 3:12, Isaías 53:10-12
 
-#### La entrega de su vida fue completamente voluntaria, y nadie le forzó a hacerlo. Es una entrega completamente incondicional, completamente de acuerdo con la gracia Juan 10:18, Hebreos 7:27 
+#### La entrega de su vida fue completamente voluntaria, y <u>nadie</u> le forzó a hacerlo. Es una entrega completamente incondicional, completamente de acuerdo con la gracia Juan 10:18, Hebreos 7:27 
 
-### *“también nosotros debemos poner la vida por los hermanos”* Hasta ahora hemos visto que Juan simplemente decía debemos amarnos los unos a los otros, pero ahora cambiar la palabra por su definición.
+### *“también nosotros debemos poner la vida por los hermanos”* Hasta <u>ahora</u> hemos visto que Juan simplemente decía debemos amarnos los unos a los otros, pero ahora cambiar la palabra por su definición.
 
-#### Para que el mundo y los hermanos conozcan nuestro amor, son necesarias acciones, no palabras. Así fue que nosotros conocimos su amor: *“él puso su vida por nosotros”*
+#### Para que el mundo y los hermanos conozcan nuestro <u>amor</u>, son necesarias acciones, no palabras. Así fue que nosotros conocimos su amor: *“él puso su vida por nosotros”*
 
-#### El amor considera la otra vida, como una digna por la cual sacrificar la propia. Esta definición solo la sacamos de lo que Cristo hizo por nosotros. El mundo no conoce este amor. Filipenses 2:3-4
+#### El amor considera la otra vida, como una digna por la cual sacrificar la <u>propia</u>. Esta definición solo la sacamos de lo que Cristo hizo por nosotros. El mundo no conoce este amor. Filipenses 2:3-4
 
-#### Para Juan amar al hermano, es poner tu vida por el hermano.
+#### Para Juan amar al hermano, es <u>poner</u> tu vida por el hermano.
 
 ### 1 Juan 3:17 – *Pero el que tiene bienes de este mundo, y ve a su hermano en necesidad, y cierra su corazón contra él, ¿Cómo puede morar el amor de Dios en él?*
 
-#### Este es el caso hipotético (pero que es posible en cualquier realidad):
+#### Este es el <u>caso</u> hipotético (pero que es posible en cualquier realidad):
 
-##### Un creyentes tiene bienes de este mundo, es decir, riquezas.
+##### Un creyentes tiene <u>bienes</u> de este mundo, es decir, riquezas.
 
-##### Este creyente ve a su hermano, y lo ve tener necesidad, es decir, es capaz de distinguir que a su hermano le falta aquello que el posee.
+##### Este creyente ve a su hermano, y lo ve <u>tener</u> necesidad, es decir, es capaz de distinguir que a su hermano le falta aquello que el posee.
 
-##### Pero, en lugar de darle para su necesidad, le cierra su vida al hermano.
+##### Pero, en lugar de darle <u>para</u> su necesidad, le cierra su vida al hermano.
 
-#### En este caso Juan pregunta ¿Cómo puede morar el amor de Dios en él? Es interesante notar que Juan no pregunta: ¿Cómo este puede ser un verdadero hermano?
+#### En este caso Juan pregunta ¿Cómo puede <u>morar</u> el amor de Dios en él? Es interesante notar que Juan no pregunta: ¿Cómo este puede ser un verdadero hermano?
 
-#### Por medio de esta pregunta podemos entender lo que Juan está queriendo decir. El estar amando es porque el amor de Dios está permaneciendo en nuestras vidas, y esto es así, porque nosotros estamos permaneciendo en él.
+#### Por medio de esta pregunta podemos entender lo que <u>Juan</u> está queriendo decir. El estar amando es porque el amor de Dios está permaneciendo en nuestras vidas, y esto es así, porque nosotros estamos permaneciendo en él.
 
-#### La permanencia del amor de Dios en nosotros es un simbolismo de la comunión, de la participación que tenemos de quien es él, no de que si la relación existe o no.
+#### La permanencia del amor de <u>Dios</u> en nosotros es un simbolismo de la comunión, de la participación que tenemos de quien es él, no de que si la relación existe o no.
 
-### 1 Juan 3:18 – Dicho todo esto Juan concluye: *Hijos, no amemos de palabra ni de lengua, sino de hecho y en verdad.*
+### 1 Juan 3:18 – Dicho todo esto <u>Juan</u> concluye: *Hijos, no amemos de palabra ni de lengua, sino de hecho y en verdad.*
 
-#### Cuando Juan dice “no amemos” muestra una gran humildad al incluirse en la posibilidad de ser alguien que solamente habla de amor. Pablo hace lo mismo en 1 Corintios 13:1-3, diciendo todo esto en primera persona.
+#### Cuando Juan dice “no amemos” muestra una <u>gran</u> humildad al incluirse en la posibilidad de ser alguien que solamente habla de amor. Pablo hace lo mismo en 1 Corintios 13:1-3, diciendo todo esto en primera persona.
 
-#### Como creyentes queremos brillar no solamente como aquellos que hablan de amor, sino como aquellos que aman de verdad, aman con acciones, aman y dan sus vidas por los hermanos. 1 Tesalonicenses 2:8, Santiago 2:15-16
+#### Como creyentes queremos brillar no solamente <u>como</u> aquellos que hablan de amor, sino como aquellos que aman de verdad, aman con acciones, aman y dan sus vidas por los hermanos. 1 Tesalonicenses 2:8, Santiago 2:15-16
 
-#### Amamos con acciones, y amamos **en** verdad, es decir sobre la base de la verdad. El verdadero amor busca lo mejor para los hermanos, el verdadero amor, pone su vida para llevar a otros a Cristo. 2 Corintios 12:14-15
+#### Amamos con acciones, y amamos **en** verdad, es decir <u>sobre</u> la base de la verdad. El verdadero amor busca lo mejor para los hermanos, el verdadero amor, pone su vida para llevar a otros a Cristo. 2 Corintios 12:14-15
 
-#### Jamás podríamos conocer este tipo de amor, si no fuera gracias a Cristo, simplemente podemos agradecer, por la gracia de Dios, en la persona de Jesucristo.
+#### Jamás podríamos conocer este <u>tipo</u> de amor, si no fuera gracias a Cristo, simplemente podemos agradecer, por la gracia de Dios, en la persona de Jesucristo.
 
 ### 1 Juan 3:19-20 – *En esto sabremos que somos de la verdad y aseguraremos nuestros corazones delante de Él en cualquier cosa que nuestro corazón nos condene. Porque Dios es mayor que nuestro corazón y Él sabe todas las cosas.*
 
-#### Al finalizar el capítulo 2, vimos la posibilidad de ser avergonzados en la manifestación de Cristo, y claramente este no es el deseo de Dios para ninguno de sus hijos.
+#### Al finalizar el capítulo 2, <u>vimos</u> la posibilidad de ser avergonzados en la manifestación de Cristo, y claramente este no es el deseo de Dios para ninguno de sus hijos.
 
-#### Ahora vemos la posibilidad de “*asegurar nuestros corazones delante de Dios*”. ¿Por qué es esto posible?
+#### Ahora <u>vemos</u> la posibilidad de “*asegurar nuestros corazones delante de Dios*”. ¿Por qué es esto posible?
 
-#### El v20 puede leerse de la siguiente forma: Porque si alguna vez nos está condenando nuestro corazón. Ningún creyente tiene condenación de parte de Dios, pero si podemos experimentar una auto condenación que no llevará a una inseguridad hacia Dios.
+#### El v20 puede leerse de la siguiente forma: Porque si alguna vez nos está condenando nuestro corazón. Ningún creyente tiene condenación de parte de Dios, <u>pero</u> si podemos experimentar una auto condenación que no llevará a una inseguridad hacia Dios.
 
-#### Dios no quiere que vivamos en inseguridad, sino confiados hacia él, entonces Juan dice: “*Dios es mayor que nuestros corazones, y él sabe todas las cosas”*
+#### Dios no quiere que vivamos en inseguridad, <u>sino</u> confiados hacia él, entonces Juan dice: “*Dios es mayor que nuestros corazones, y él sabe todas las cosas”*
 
-##### Esta declaración es muy poderosa en este contexto: él puso su vida por nosotros y sabe todas las cosas.
+##### Esta declaración es <u>muy</u> poderosa en este contexto: él puso su vida por nosotros y sabe todas las cosas.
 
-##### Ahora soy completamente conocido por Dios, pero no por lo que era antes, sino por lo que soy en Cristo.
+##### Ahora soy completamente conocido por Dios, pero no por lo que era <u>antes</u>, sino por lo que soy en Cristo.
 
-##### Podemos ser reprendidos o condenados por nuestros corazones, pero la certeza y confianza para nuestra comunión con Dios, no debe proceder de nuestros corazones, sino de alguien que es Mayor que estos.
+##### Podemos ser reprendidos o condenados por nuestros corazones, pero la <u>certeza</u> y confianza para nuestra comunión con Dios, no debe proceder de nuestros corazones, sino de alguien que es Mayor que estos.
 
-##### La certeza para nuestra vida viene del amor que Cristo tuvo por nosotros al poner su vida por nosotros. Al experimentar este amor, tendremos gran certeza delante de él.
+##### La certeza para nuestra vida <u>viene</u> del amor que Cristo tuvo por nosotros al poner su vida por nosotros. Al experimentar este amor, tendremos gran certeza delante de él.
 
-### 1 Juan 3:21 - *Amados, si nuestro corazón no nos condena, confianza tenemos delante de Dios.* Dios está trabajando en nuestros corazones para que andemos en una intimidad con él, tal como la que tiene con su Hijo. La obra de Dios en nosotros, es para que nos acerquemos a él.
+### 1 Juan 3:21 - *Amados, si nuestro corazón no nos condena, confianza tenemos delante de Dios.* Dios está trabajando en nuestros corazones para que andemos en una intimidad con él, tal como la que tiene con su Hijo. La obra de <u>Dios</u> en nosotros, es para que nos acerquemos a él.
 
-#### Un creyente que mira la obra mayor de Dios, la grandeza de Dios por sobre nuestros pecados, al no estar experimentando esta auto condenación, crece en su confianza para con Dios.
+#### Un creyente que mira la obra <u>mayor</u> de Dios, la grandeza de Dios por sobre nuestros pecados, al no estar experimentando esta auto condenación, crece en su confianza para con Dios.
 
-#### En Hebreos 9:14, vemos como el autor muestra la superioridad de la obra de Cristo a nuestro favor, limpiándonos para ser útiles a Dios.
+#### En Hebreos 9:14, vemos como el <u>autor</u> muestra la superioridad de la obra de Cristo a nuestro favor, limpiándonos para ser útiles a Dios.
 
 ### 1 Juan 3:22 – *Y todo lo que pidamos lo recibiremos de él, porque guardamos sus mandamientos y hacemos las cosas que son agradables delante de él.*
 
-#### Juan está diciendo, si algo estamos pidiendo (nuevamente el mismo se incluye aquí). No recibimos aquello que no pedimos.
+#### Juan está diciendo, si algo estamos pidiendo (nuevamente el <u>mismo</u> se incluye aquí). No recibimos aquello que no pedimos.
 
-#### En Mateo 6:8 vemos que Jesús les enseñó a sus discípulos que son conocidos completamente por Su Padre. Enseña lo mismo en Mateo 6:32. Entonces si somos completamente conocidos, la cuestión es: ¿nos atreveremos a conocerlo a él, y experimentarlo por medio de la fe?
+#### En Mateo 6:8 vemos que Jesús les enseñó a sus discípulos que son conocidos completamente por Su Padre. Enseña lo mismo en Mateo 6:32. Entonces si <u>somos</u> completamente conocidos, la cuestión es: ¿nos atreveremos a conocerlo a él, y experimentarlo por medio de la fe?
 
-#### El requisito aquí para recibir lo que pedimos, es pedirlo. “Lo recibiremos” es un indicativo suponiendo que la primera parte de la condición se cumple.
+#### El requisito aquí para recibir lo que pedimos, es pedirlo. “Lo recibiremos” es un indicativo suponiendo que la primera <u>parte</u> de la condición se cumple.
 
-#### “…*porque guardamos sus mandamientos y hacemos las cosas que son agradables delante de él.”* En este contexto es una vida que permanece en él y se apropia del amor que el Padre le ha otorgado, por medio de un andar de fe. Hebreos 11:6, Juan 8:29, 15:7
+#### “…*porque guardamos sus mandamientos y hacemos las cosas que son agradables delante de él.”* En este contexto es una <u>vida</u> que permanece en él y se apropia del amor que el Padre le ha otorgado, por medio de un andar de fe. Hebreos 11:6, Juan 8:29, 15:7
 
 ### 1 Juan 2:23 – *y este es su mandamiento: que creamos en el nombre de su Hijo Jesucristo, y que nos amemos los unos a otros como él nos ha amado.* Juan 6:29
 
-#### Jesús es el mensaje de Dios para los creyentes para incrementar nuestra confianza en él, y así llevarnos a más profundidades de su amor, tanto en experiencia con él, como en acciones para con otros.
+#### Jesús es el mensaje de Dios para los creyentes para incrementar nuestra confianza en él, y así llevarnos a más profundidades de su amor, <u>tanto</u> en experiencia con él, como en acciones para con otros.
 
-#### Dios quiere llevarnos a depender completamente en todo lo que su Hijo Jesucristo es para nosotros. Solo Dios es capaza de llevarnos a amarnos los unos a los tros, de la misma forma en la que él nos ha amado. Juan 13:34-35, 15:12, 1 Juan 2:8
+#### Dios quiere llevarnos a depender completamente en todo lo que su Hijo Jesucristo es para nosotros. Solo Dios es capaza de llevarnos a amarnos los unos a los tros, de la <u>misma</u> forma en la que él nos ha amado. Juan 13:34-35, 15:12, 1 Juan 2:8
 
-### 1 Juan 2:24 – *El que guarda sus mandamientos permanece en él y Dios en él. Y en esto sabemos que él permanece en nosotros, por el Espíritu que nos ha dado.* Aquel que está firme viviendo en la verdad, está disfrutando de la permanencia de Dios en su vida, se está mandando tremendo banquete con el Padre y con su Hijo. Juan 14:21-23
+### 1 Juan 2:24 – *El que guarda sus mandamientos permanece en él y Dios en él. Y en esto sabemos que él permanece en nosotros, por el Espíritu que nos ha dado.* <u>Aquel</u> que está firme viviendo en la verdad, está disfrutando de la permanencia de Dios en su vida, se está mandando tremendo banquete con el Padre y con su Hijo. Juan 14:21-23
 
-#### El conocimiento de que Él permanece en nosotros es por el Espíritu que nos ha dado, no por mirar nuestras obras, sino más bien, por la obra del Espíritu en nosotros, el Padre se manifiesta a nosotros, haciendo de nuestro corazón su hogar. Efesios 3:14-16
+#### El conocimiento de que Él permanece en nosotros es por el Espíritu que nos ha dado, no por mirar nuestras obras, sino más <u>bien</u>, por la obra del Espíritu en nosotros, el Padre se manifiesta a nosotros, haciendo de nuestro corazón su hogar. Efesios 3:14-16
 
-#### Romanos 8:16 – Dios el Espíritu dando testimonio de lo que somos, por el fruto que está produciendo en nuestras vidas (cuando andamos por él).
+#### Romanos 8:16 – Dios el Espíritu <u>dando</u> testimonio de lo que somos, por el fruto que está produciendo en nuestras vidas (cuando andamos por él).
 
-#### La vida de Cristo en nosotros, solo es posible por medio de la comunión que tenemos con el Padre y con su Hijo.
+#### La vida de Cristo en nosotros, solo es posible por <u>medio</u> de la comunión que tenemos con el Padre y con su Hijo.
 
 # 1 Juan 4:1-6 EL ESPÍRITU DE LA VERDAD Y EL ESPÍRITU DEL ERROR
 
