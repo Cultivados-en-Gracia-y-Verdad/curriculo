@@ -1399,277 +1399,277 @@ Title: Primera epístola del apóstol Juan
 
 # 1 Juan 4:1-6 EL ESPÍRITU DE LA VERDAD Y EL ESPÍRITU DEL ERROR
 
-## Aunque es seguro que el Espíritu Santo está obrando en nosotros, debemos ser conscientes que hay otros espíritus obrando en este mundo, y solamente quieren engañarnos
+## Aunque es seguro que el Espíritu Santo está obrando en nosotros, debemos ser conscientes que hay otros espíritus obrando en este <u>mundo</u>, y solamente quieren engañarnos
 
 ### 1 Juan 4:1 – Juan comienza esta sección con un imperativo doble para sus *“amados”* **. 
 
-### 1 Juan 4:1a – *…no crean a todo espíritu…* Debemos saber que no todo mensaje es digno de ser creído. Ya que en el versículo anterior afirma que el Espíritu santo nos da conocimiento, aquí advierte que podemos recibir engaños por parte de otros espíritus, estos espíritus no deben ser creídos.
+### 1 Juan 4:1a – *…no crean a todo espíritu…* Debemos saber que no todo mensaje es digno de ser creído. Ya que en el versículo anterior afirma que el Espíritu <u>santo</u> nos da conocimiento, aquí advierte que podemos recibir engaños por parte de otros espíritus, estos espíritus no deben ser creídos.
 
-### 1 Juan 4:1b - *...sino prueben los espíritus, para ver si son de Dios…* No solo debemos no creer a todo espíritu, sino que debemos poner a prueba, o examinar a todos los espíritus.
+### 1 Juan 4:1b - *...sino prueben los espíritus, para ver si son de Dios…* No solo debemos no <u>creer</u> a todo espíritu, sino que debemos poner a prueba, o examinar a todos los espíritus.
 
-### 1 Juan 4:1c - Si solo nos quedamos con eso, pueden surgir muchas preguntas, ¿Cómo es que escuchamos a estos espíritus? ¿Por qué debemos tener esta precaución como creyentes? Juan termina la instrucción diciendo: *…porque muchos falsos profetas han salido al mundo*
+### 1 Juan 4:1c - Si solo nos quedamos con eso, pueden <u>surgir</u> muchas preguntas, ¿Cómo es que escuchamos a estos espíritus? ¿Por qué debemos tener esta precaución como creyentes? Juan termina la instrucción diciendo: *…porque muchos falsos profetas han salido al mundo*
 
-#### Es bueno entender que luego Juan mostrará que estos espíritus mentirosos, hablan a través de falsos voceros.
+#### Es bueno entender que luego Juan mostrará que estos espíritus <u>mentirosos</u>, hablan a través de falsos voceros.
 
-#### Es decir, que, a través de maestros, los espíritus comunican un mensaje. Sin ser místicos, debemos entender que la verdad tiene una fuente: el Espíritu Santo, y el engaño tiene otra fuente: los espíritus engañadores. 1 Timoteo 4:1-4, 2 Tesalonicenses 2:2
+#### Es decir, que, a través de maestros, los espíritus comunican un mensaje. Sin ser místicos, debemos entender que la verdad tiene una fuente: el Espíritu <u>Santo</u>, y el engaño tiene otra fuente: los espíritus engañadores. 1 Timoteo 4:1-4, 2 Tesalonicenses 2:2
 
-#### Pero estos, usan mensajeros o comunicadores de sus palabras. Hoy hay muchos creyentes que rechazan la necesidad de ser enseñados en la Palabra por maestros, o el hecho de ser discipulados. Esto es contrarios a lo que Dios enseña en su Palabra. Mateo 28:18-20
+#### Pero estos, usan mensajeros o comunicadores de sus palabras. Hoy hay muchos creyentes que <u>rechazan</u> la necesidad de ser enseñados en la Palabra por maestros, o el hecho de ser discipulados. Esto es contrarios a lo que Dios enseña en su Palabra. Mateo 28:18-20
 
-#### Juan no dice, no necesitan maestros ya que tienen el Espíritu. Si mostró que es la unción la que nos enseña, pero Dios usa comunicadores fieles de su Palabra, por medio de los cuales acomoda lo espiritual a lo espiritual. 1 Corintios 2:1-16, 2 Corintios 4:1-15
+#### Juan no dice, no necesitan <u>maestros</u> ya que tienen el Espíritu. Si mostró que es la unción la que nos enseña, pero Dios usa comunicadores fieles de su Palabra, por medio de los cuales acomoda lo espiritual a lo espiritual. 1 Corintios 2:1-16, 2 Corintios 4:1-15
 
-#### Para los creyentes esto significa que los maestros no son aquellos en los que ponemos nuestra confianza, ya que, no debemos creerlo todo, y también significa que debemos pasar todos los mensajes que escuchamos por un filtro, es decir, ponerlos a prueba por medio de la Palabra. Hechos 17:11
+#### Para los creyentes esto significa que los maestros no son aquellos en los que ponemos nuestra <u>confianza</u>, ya que, no debemos creerlo todo, y también significa que debemos pasar todos los mensajes que escuchamos por un filtro, es decir, ponerlos a prueba por medio de la Palabra. Hechos 17:11
 
-#### Como mensajeros, o comunicadores del mensaje de Dios, debemos limitarnos a comunicar las Palabras de Dios, y no nuestras propias ideas, ya que estas son peligrosas para los oyentes. 1 Corintios 2:1-5, 2 Timoteo 2:2, 1 Timoteo 1:3-7, 3:2, 15, 4:6, 6:3-5
+#### Como mensajeros, o comunicadores del <u>mensaje</u> de Dios, debemos limitarnos a comunicar las Palabras de Dios, y no nuestras propias ideas, ya que estas son peligrosas para los oyentes. 1 Corintios 2:1-5, 2 Timoteo 2:2, 1 Timoteo 1:3-7, 3:2, 15, 4:6, 6:3-5
 
-### 1 Juan 4:2 – *En esto ustedes conocen el Espíritu de Dios: todo Espíritu que confiesa que Jesucristo ha venido en carne, es de Dios.* El error tergiversa la obra y persona de Jesucristo. 1 Corintios 12:3
+### 1 Juan 4:2 – *En esto ustedes conocen el Espíritu de Dios: todo Espíritu que confiesa que Jesucristo ha venido en carne, es de Dios.* El error tergiversa la <u>obra</u> y persona de Jesucristo. 1 Corintios 12:3
 
-### "*ha venido en carne”* es una referencia primero, a la realidad de su encarnación, y segundo el propósito de su venida, Salvar el mundo, muriendo por nuestros pecados.
+### "*ha venido en carne”* es una referencia primero, a la realidad de su encarnación, y segundo el propósito de su venida, Salvar el mundo, muriendo por nuestros <u>pecados</u>.
 
-#### Este es el mensaje del evangelio, ya que es acerca de su Hijo (Romanos 1:3), y el propósito de su venida, su obra a nuestro favor (1 Juan 4:14).
+#### Este es el mensaje del evangelio, ya que es acerca de su <u>Hijo</u> (Romanos 1:3), y el propósito de su venida, su obra a nuestro favor (1 Juan 4:14).
 
-#### Siendo un verbo imperfecto, implica tanto la encarnación del Hijo de Dios, y su permanencia como hombre: el Dios mediador, Jesucristo Hombre. 1 Timoteo 2:5
+#### Siendo un verbo imperfecto, implica tanto la encarnación del Hijo de <u>Dios</u>, y su permanencia como hombre: el Dios mediador, Jesucristo Hombre. 1 Timoteo 2:5
 
-##### El problema del enemigo es justamente el logro del Hijo de Dios, al haberse hecho hombre, morir por nuestros pecados, haber sido resucitado, y estar intercediendo por nosotros.
+##### El problema del enemigo es justamente el logro del <u>Hijo</u> de Dios, al haberse hecho hombre, morir por nuestros pecados, haber sido resucitado, y estar intercediendo por nosotros.
 
-##### Cualquier mensaje que ponga en duda la perfección y suficiencia de esta realidad, debe ser completamente desechado. 1 Corintios 2:1-5, Juan 1:14
+##### Cualquier mensaje que ponga en duda la perfección y suficiencia de esta <u>realidad</u>, debe ser completamente desechado. 1 Corintios 2:1-5, Juan 1:14
 
 ### 1 Juan 4:3 – *Y todo espíritu que no confiesa a Jesús, no es de Dios, y este es el espíritu del anticristo, del cual ustedes han oído que viene, y que ahora ya está en el mundo.*
 
-#### El filtro que debemos tener del testimonio de Dios para con nosotros (por el Espíritu a través de la enseñanza), es lo que dicen acerca de Jesucristo, si no lo hablan, no son creíbles, son engañadores.
+#### El filtro que debemos tener del testimonio de Dios para con nosotros (por el Espíritu a través de la enseñanza), es lo que dicen acerca de Jesucristo, si no lo <u>hablan</u>, no son creíbles, son engañadores.
 
-#### No necesitamos como creyentes mensaje motivacionales nuestro mensaje de ser una clara confesión de la persona y obra de Jesucristo. Judas 3-4, 1 Timoteo 4:1-4, Tito 1:9-11
+#### No necesitamos como creyentes mensaje motivacionales nuestro <u>mensaje</u> de ser una clara confesión de la persona y obra de Jesucristo. Judas 3-4, 1 Timoteo 4:1-4, Tito 1:9-11
 
-#### No vienen de Dios, aquellos que no nos llevan a Cristo. Quien está operando en los falsos mensajes, es el espíritu del anticristo. “*y este es el espíritu del anticristo”,* que ya está operando en este mundo
+#### No vienen de Dios, aquellos que no nos llevan a <u>Cristo</u>. Quien está operando en los falsos mensajes, es el espíritu del anticristo. “*y este es el espíritu del anticristo”,* que ya está operando en este mundo
 
-### *…del cuál ustedes han oído que viene…* 1 Juan 2:18, 2 Tesalonicenses 2:3, 9 este es el inicuo, cuyo advenimiento es por obra de Satanás.
+### *…del cuál ustedes han oído que viene…* 1 Juan 2:18, 2 Tesalonicenses 2:3, 9 este es el inicuo, cuyo advenimiento es por <u>obra</u> de Satanás.
 
-### 1 Juan 4:4 – *Hijos míos, ustedes son de Dios, y han vencido a los falsos profetas, porque mayor es Aquel que está en ustedes, que el que está en el mundo.* Debido a lo que somos, hemos obtenido la victoria por sobre los falsos maestros.
+### 1 Juan 4:4 – *Hijos míos, ustedes son de Dios, y han vencido a los falsos profetas, porque mayor es Aquel que está en ustedes, que el que está en el mundo.* Debido a lo que somos, hemos obtenido la victoria por <u>sobre</u> los falsos maestros.
 
-#### Aquí podemos ver la certeza de que venimos de Dios, somos nacidos de Dios, por eso venimos de él. Ya que venimos de él también somos suyos.
+#### Aquí podemos ver la certeza de que venimos de Dios, somos <u>nacidos</u> de Dios, por eso venimos de él. Ya que venimos de él también somos suyos.
 
 #### ¿Cuál es la razón por la cual *“hemos vencido a los falsos profetas”*?
 
-##### Primero Juan no menciona que nuestra victoria está en nuestra capacidad de discernir los espíritus, o de luchar contra ellos.
+##### Primero Juan no menciona que nuestra <u>victoria</u> está en nuestra capacidad de discernir los espíritus, o de luchar contra ellos.
 
-##### Lo que dice es que tenemos victoria porque el que está **en** nosotros, es mayor que aquél que operan **en** este mundo.
+##### Lo que dice es que tenemos victoria porque el que está **en** nosotros, es <u>mayor</u> que aquél que operan **en** este mundo.
 
-##### Hay una diferencia que Juan muestra: Nosotros estamos en un mundo donde Satanás está operando, y está bajo su dominio (5:19), pero **EN** nosotros está alguien mayor que él y que el mundo. Tenemos victoria debido a su Grandeza y su Poder. Juan 16:33
+##### Hay una diferencia que Juan muestra: Nosotros estamos en un mundo donde Satanás está operando, y está bajo su dominio (5:19), pero **EN** nosotros está alguien mayor que él y que el <u>mundo</u>. Tenemos victoria debido a su Grandeza y su Poder. Juan 16:33
 
-##### Es la victoria de Cristo la que nos ha dado la victoria en nosotros. El espíritu que está en nosotros, es más poderoso que cualquier oposición que pueda haber a la verdad.
+##### Es la victoria de Cristo la que nos ha dado la victoria en nosotros. El espíritu que está en nosotros, es más poderoso que cualquier oposición que pueda haber a la <u>verdad</u>.
 
-### 1 Juan 4:5 – *Ellos son del mundo, por eso hablan de parte del mundo y el mundo los oye.* Los falsos maestros, aunque algunos salieron de entre los creyentes, en realidad provienen del mundo. Esto significa que nunca pertenecieron a Dios, por nunca haber nacido de nuevo.
+### 1 Juan 4:5 – *Ellos son del mundo, por eso hablan de parte del mundo y el mundo los oye.* Los falsos maestros, aunque algunos salieron de entre los creyentes, en realidad provienen del <u>mundo</u>. Esto significa que nunca pertenecieron a Dios, por nunca haber nacido de nuevo.
 
-#### Son entonces, parte de un sistema, una corriente, del cual todos alguna vez hemos sido parte. Efesios 2:1-6
+#### Son entonces, parte de un sistema, una corriente, del cual todos alguna vez hemos sido <u>parte</u>. Efesios 2:1-6
 
-#### Los creyentes debemos entender que ahora que nosotros hemos nacido de Dios, y somos de Dios, ya no somos del mundo, solamente estamos aquí como extranjeros y peregrinos.
+#### Los creyentes debemos entender que ahora que nosotros hemos nacido de <u>Dios</u>, y somos de Dios, ya no somos del mundo, solamente estamos aquí como extranjeros y peregrinos.
 
-#### En 3:13, hemos visto que no debemos maravillarnos de la hostilidad de este mundo contra nosotros, ya que no pertenecemos más aquí. Juan 17:14-16
+#### En 3:13, hemos visto que no debemos maravillarnos de la hostilidad de este <u>mundo</u> contra nosotros, ya que no pertenecemos más aquí. Juan 17:14-16
 
-#### Sus palabras entonces, o lo que hablan, es conforme a cualquier cosa que pueda proceder del mundo (controlado por el maligno), esa es la razón por la que aquellos engañados, prestan atención a sus palabras.
+#### Sus palabras entonces, o lo que hablan, es conforme a cualquier cosa que pueda proceder del <u>mundo</u> (controlado por el maligno), esa es la razón por la que aquellos engañados, prestan atención a sus palabras.
 
 ### 1 Juan 4:6a – *Nosotros somos de Dios. El que conoce a Dios nos oye; el que no es de Dios no nos oye...* Juan 8:47, 10:27-28
 
-#### Dios es el que se encarga de hacerse escuchar por los suyos, cuando la palabra es enseñada, la obra dentro de ellos por medio de su espíritu.
+#### Dios es el que se encarga de hacerse escuchar por los <u>suyos</u>, cuando la palabra es enseñada, la obra dentro de ellos por medio de su espíritu.
 
-#### Este mundo no es capaz de discernir la palabra de Dios y comprenderlas, ya que no tiene el Espíritu dentro de ellos haciendo esta obra. Ellos han rechazado en incredulidad el testimonio de Cristo, por lo tanto, no pueden oír.
+#### Este mundo no es capaz de discernir la <u>palabra</u> de Dios y comprenderlas, ya que no tiene el Espíritu dentro de ellos haciendo esta obra. Ellos han rechazado en incredulidad el testimonio de Cristo, por lo tanto, no pueden oír.
 
-#### Jesús fue claro con aquellos que lo rechazaron en Juan 5, ellos no eran capaces de escuchar a Dios, porque no habían creído el testimonio que él estaba dando de su Hijo (sus obras), ni el testimonio que él había dado de Su Hijo (la escritura). Juan 5:30-47
+#### Jesús fue claro con aquellos que lo rechazaron en Juan 5, ellos no eran capaces de <u>escuchar</u> a Dios, porque no habían creído el testimonio que él estaba dando de su Hijo (sus obras), ni el testimonio que él había dado de Su Hijo (la escritura). Juan 5:30-47
 
 ### 1 Juan 4:6b – …*En esto conocemos el Espíritu de la verdad y el espíritu de la mentira.*
 
-#### Podemos decir entonces que el Espíritu de la verdad nos lleva a Cristo, aquellos entonces que hablan por el Espíritu, confiesan a Jesucristo, venido en carne.
+#### Podemos decir entonces que el Espíritu de la verdad nos lleva a <u>Cristo</u>, aquellos entonces que hablan por el Espíritu, confiesan a Jesucristo, venido en carne.
 
-#### El espíritu de la mentira, por el contrario, habla de lo suyo, es por eso que lleva al mundo a sus oyentes, y ellos lo oyen.
+#### El espíritu de la mentira, por el contrario, habla de lo suyo, es por eso que lleva al <u>mundo</u> a sus oyentes, y ellos lo oyen.
 
 # 1 Juan 4:7-11 ASÍ COMO EL NOS AMÓ
 
-## Juan ahora pasará de hablar sobre los espíritus engañadores que hay en este mundo, a mostrarnos cómo debemos vivir en este mundo, para que, por medio nuestro, este mundo pueda ver a Dios
+## Juan ahora pasará de hablar sobre los espíritus engañadores que hay en este mundo, a mostrarnos cómo debemos vivir en este mundo, para que, por medio nuestro, este <u>mundo</u> pueda ver a Dios
 
-### 1 Juan 4:7 – *Amados, amémonos unos a otros, porque el amor es de Dios, y todo el que ama es nacido de Dios y conoce a Dios.*
+### 1 Juan 4:7 – *Amados, amémonos unos a otros, porque el amor es de Dios, y todo el que <u>ama</u> es nacido de Dios y conoce a Dios.*
 
-### 1 Juan 4:7 – *Amados, amémonos unos a otros, porque el amor es de Dios, y todo el que ama es nacido de Dios y conoce a Dios.*
+### 1 Juan 4:7 – *Amados, amémonos unos a otros, porque el <u>amor</u> es de Dios, y todo el que ama es nacido de Dios y conoce a Dios.*
 
-#### En lugar de mandar a amarnos, Juan mostrara que el amarnos es posible debido a que el amor procede de Dios, y él es capaz de producirlo en nuestras vidas a través de una comunión que él creyente disfruta con él.
+#### En lugar de mandar a amarnos, Juan mostrara que el amarnos es posible debido a que el amor procede de Dios, y él es capaz de producirlo en nuestras <u>vidas</u> a través de una comunión que él creyente disfruta con él.
 
-#### Juan ya ha enseñado que todo aquello que pidamos lo recibiremos, entonces, de él podemos recibir amor infinito para amar a los hermanos. Aunque no somos capaces de producir este amor de nosotros mismos, Dios puede otorgarlo en nuestras vidas a medida que permanecemos en él.
+#### Juan ya ha enseñado que todo aquello que pidamos lo recibiremos, entonces, de él podemos recibir amor infinito para amar a los hermanos. Aunque no <u>somos</u> capaces de producir este amor de nosotros mismos, Dios puede otorgarlo en nuestras vidas a medida que permanecemos en él.
 
-#### Entonces Juan explica que si alguien está amando (*el que ama*), dos cosas son reales de este:
+#### Entonces Juan explica que si alguien está amando (*el que ama*), dos cosas son <u>reales</u> de este:
 
 ##### Ha sido nacido de Dios, y continua siendo suyo.
 
-##### Conoce a Dios, o más precisamente, está conociendo a Dios.
+##### Conoce a <u>Dios</u>, o más precisamente, está conociendo a Dios.
 
-###### Juan aquí usa el verbo en tiempo presente, modo indicativo, mostrando que es algo que está pasando a la par del hecho de que está amando.
+###### Juan aquí usa el verbo en tiempo presente, modo indicativo, mostrando que es algo que está pasando a la par del <u>hecho</u> de que está amando.
 
-###### Debido a que este creyente está permaneciendo en Cristo, y por lo tanto teniendo una comunión con Dios y Su Hijo, está participando de la vida de Cristo, está participando del amor, ya que el amor procede de Dios.
+###### Debido a que este creyente está permaneciendo en Cristo, y por lo tanto teniendo una comunión con Dios y Su Hijo, está participando de la vida de Cristo, está participando del <u>amor</u>, ya que el amor procede de Dios.
 
-###### El estar conociéndolo, habla de estar experimentando la comunión con Dios, no solamente alguien que ha nacido de nuevo, sino alguien que está experimentando esa nueva vida.
+###### El estar conociéndolo, habla de estar experimentando la comunión con <u>Dios</u>, no solamente alguien que ha nacido de nuevo, sino alguien que está experimentando esa nueva vida.
 
 ### 1 Juan 4:8a – *El que no ama, no conoce a Dios…*
 
-#### Un incrédulo no tiene la capacidad de amar, ya que no ha conocido a Dios, no ama, ya que el amor procede de Dios.
+#### Un incrédulo no tiene la capacidad de amar, ya que no ha conocido a Dios, no ama, ya que el amor procede de <u>Dios</u>.
 
-#### Por el contrario, el creyente que está amando, no es solamente porque ha nacido de nuevo y esto es natural del creyente, sino porque está conociendo a Dios, está teniendo comunión con él, está participando por la fe de su vida, de quien es él, Dios es amor.
+#### Por el contrario, el creyente que está amando, no es solamente porque ha nacido de nuevo y esto es natural del creyente, sino porque está conociendo a Dios, está teniendo comunión con él, está participando por la fe de su <u>vida</u>, de quien es él, Dios es amor.
 
-### 1 Juan 4:8b - *…porque Dios es amor.* Solo Dios es capaz de producir amor en nosotros, ya que en su misma esencia; él es amor. Juan muestra que el amor es la esencia de su Persona, y no solamente una posesión.
+### 1 Juan 4:8b - *…porque Dios es amor.* Solo Dios es capaz de producir amor en nosotros, ya que en su misma esencia; él es amor. <u>Juan</u> muestra que el amor es la esencia de su Persona, y no solamente una posesión.
 
-### 1 Juan 4:9 – *En esto se manifestó el amor de Dios en nosotros, en que Dios ha enviado a Su Hijo al mundo para que vivamos por medio de él.*
+### 1 Juan 4:9 – *En esto se manifestó el amor de Dios en nosotros, en que Dios ha enviado a Su <u>Hijo</u> al mundo para que vivamos por medio de él.*
 
-#### Juan ahora, en lugar de decir como antes lo hizo, que en esto hemos conocido el amor, muestra, como se manifestó el amor de Dios ***en*** nosotros. Es decir, cómo es que se ve el amor de Dios, en nuestras vidas, no solo para con nosotros.
+#### Juan ahora, en lugar de decir como antes lo hizo, que en esto hemos conocido el amor, muestra, como se manifestó el <u>amor</u> de Dios ***en*** nosotros. Es decir, cómo es que se ve el amor de Dios, en nuestras vidas, no solo para con nosotros.
 
-### *...en que Dios ha enviado a su Hijo al mundo…* Por medio de esta frase, Juan hace referencia a lo que es el evangelio para nosotros, pero desde la perspectiva de Dios. Juan 3:16
+### *...en que Dios ha enviado a su Hijo al mundo…* Por medio de esta <u>frase</u>, Juan hace referencia a lo que es el evangelio para nosotros, pero desde la perspectiva de Dios. Juan 3:16
 
-#### Aquí podemos ver la entrega más grande que alguien jamás haya hecho. En el texto original, Juan dice: *Su Hijo Unigénito.* La comparación que nos muestra la calidad del amor de Dios, es la calidad de Su Hijo, a quien envió por nosotros.
+#### Aquí podemos ver la entrega más grande que alguien jamás haya hecho. En el texto original, Juan dice: *Su Hijo Unigénito.* La comparación que nos muestra la <u>calidad</u> del amor de Dios, es la calidad de Su Hijo, a quien envió por nosotros.
 
-#### Dios dio a su hijo por toda la humanidad, como el único medio por el cual el mundo puede acceder a la vida. Dios quiere que todo el mundo viva, pero solo: *“por medio de él”.*
+#### Dios dio a su hijo por toda la humanidad, como el único medio por el cual el mundo puede acceder a la vida. Dios quiere que todo el <u>mundo</u> viva, pero solo: *“por medio de él”.*
 
-#### El amor y la voluntad de Dios para con nosotros son algo dignos de considerar. Dios quiere que vivamos y para eso, envió a Su Hijo Unigénito, que es la única forma por medio de la cual podemos tener vida.
+#### El amor y la voluntad de Dios para con nosotros son algo dignos de considerar. Dios quiere que vivamos y para eso, envió a Su Hijo Unigénito, que es la única <u>forma</u> por medio de la cual podemos tener vida.
 
-### *...para que vivamos por medio de él.* La vida es solamente el resultado de lo que Dios hizo al enviar a Jesucristo, por lo tanto, es el resultado, de los logros de Cristo a nuestro favor, al morir por nuestros pecados.
+### *...para que vivamos por medio de él.* La vida es solamente el resultado de lo que Dios hizo al enviar a Jesucristo, por lo tanto, es el resultado, de los logros de Cristo a nuestro <u>favor</u>, al morir por nuestros pecados.
 
-#### En resumen, el amor de Dios manifestado en nuestras vidas es el resultado de un creyente que vive por medio de Cristo. Si alguien entonces está amando, es porque Cristo está viviendo por medio de él.
+#### En resumen, el amor de Dios manifestado en nuestras vidas es el resultado de un creyente que vive por medio de Cristo. Si <u>alguien</u> entonces está amando, es porque Cristo está viviendo por medio de él.
 
-### 1 Juan 4:10a – *En esto consiste el amor: no en que nosotros hayamos amado a Dios…* El amor existe no porque nosotros amamos a Dios. El amor es completamente de Dios para el hombre, es completamente a base de su Gracia para con nosotros, en la persona de Cristo.
+### 1 Juan 4:10a – *En esto consiste el amor: no en que nosotros hayamos amado a Dios…* El amor existe no porque nosotros amamos a Dios. El amor es completamente de Dios para el <u>hombre</u>, es completamente a base de su Gracia para con nosotros, en la persona de Cristo.
 
-#### El amor no está nada relacionado con algo que el hombre pueda hacer por Dios, de hecho, alguien puede llegar a dar su vida como mártir, y carecer de amor. 1 Corintios 13:3
+#### El amor no está nada relacionado con algo que el hombre pueda hacer por Dios, de hecho, alguien puede llegar a dar su vida como mártir, y carecer de <u>amor</u>. 1 Corintios 13:3
 
-### 1 Juan 4:10b - *...sino en que Él nos amó a nosotros…* Dios nos amó incondicionalmente, Dios no nos amó porque podíamos ofrecer algo a cambio, o dar algún aporte a este mundo. El amor existe porque viene de Dios al hombre, no del hombre para con Dios.
+### 1 Juan 4:10b - *...sino en que Él nos amó a nosotros…* Dios nos amó incondicionalmente, Dios no nos amó porque podíamos ofrecer algo a <u>cambio</u>, o dar algún aporte a este mundo. El amor existe porque viene de Dios al hombre, no del hombre para con Dios.
 
-### 1 Juan 4:10c - *…y envió a su Hijo como propiciación por nuestros pecados.* El amor existe en lo que él es, por lo tanto, lo que hizo es la expresión de su amor. Al ver la obra de Dios a nuestro favor, no quedan dudas de la existencia del amor.
+### 1 Juan 4:10c - *…y envió a su Hijo como propiciación por nuestros pecados.* El amor existe en lo que él es, por lo tanto, lo que hizo es la expresión de su amor. Al ver la obra de Dios a nuestro <u>favor</u>, no quedan dudas de la existencia del amor.
 
-#### Dios envió a su Hijo, ya que él es la propiciación por nuestros pecados. Es interesante que Juan lo dice de esta forma: Dios envió a Su Hijo, Propiciación de nuestros pecados. En 1 Juan 2:2, vimos como Juan dice que Jesucristo el Justo **es** la propiciación por nuestros pecados.
+#### Dios envió a su Hijo, ya que él es la propiciación por nuestros pecados. Es interesante que Juan lo dice de esta forma: Dios envió a Su <u>Hijo</u>, Propiciación de nuestros pecados. En 1 Juan 2:2, vimos como Juan dice que Jesucristo el Justo **es** la propiciación por nuestros pecados.
 
-#### El plan de Dios siempre se basó en Su Hijo y lo que él es para el mundo. El plan de Dios siempre fue la expresión de su amor para con el mundo.
+#### El plan de Dios siempre se basó en Su Hijo y lo que él es para el mundo. El plan de <u>Dios</u> siempre fue la expresión de su amor para con el mundo.
 
-#### 2 Timoteo 1:9-10 - Gloriosa la buena noticia, que sacó a la luz la vida, por medio de Cristo, el plan eterno de Dios.
+#### 2 Timoteo 1:9-10 - Gloriosa la buena noticia, que sacó a la luz la <u>vida</u>, por medio de Cristo, el plan eterno de Dios.
 
-#### Cristo la propiciación es la esencia del deseo de Dios de encontrarse con el hombre, el deseo de Dios reconciliarse con el hombre, y no al revés. 2 Corintios 5:18
+#### Cristo la propiciación es la esencia del <u>deseo</u> de Dios de encontrarse con el hombre, el deseo de Dios reconciliarse con el hombre, y no al revés. 2 Corintios 5:18
 
-#### Juan quiere que entendamos: el amor no puede ser de Dios hacia el hombre, a menos que, el amor haya sido primeramente de Dios hacia el hombre, y así es exactamente. Romanos 5:8, 10, 1 Juan 4:19; Juan 3:16, 15:13
+#### Juan quiere que entendamos: el amor no puede ser de Dios hacia el hombre, a menos que, el amor haya sido primeramente de Dios hacia el <u>hombre</u>, y así es exactamente. Romanos 5:8, 10, 1 Juan 4:19; Juan 3:16, 15:13
 
-### 1 Juan 4:11 – *Amados, si Dios así nos amó, también nosotros debemos amarnos unos a otros.* Debemos aprender a vivir considerando el amor que Dios tuvo para con nosotros. 1 Juan 3:1
+### 1 Juan 4:11 – *Amados, si Dios así nos amó, también nosotros debemos amarnos unos a otros.* Debemos aprender a <u>vivir</u> considerando el amor que Dios tuvo para con nosotros. 1 Juan 3:1
 
-#### ¡Ya que Dios nos amó así, esto es un hecho!
+#### ¡Ya que Dios nos amó así, esto es un <u>hecho</u>!
 
-#### Como familia debemos entender que Cristo logró algo completo para nosotros, y ahora que somos parte los unos de los otros, debemos amarnos. Romanos 13:8-10
+#### Como familia debemos entender que Cristo logró algo completo para nosotros, y ahora que <u>somos</u> parte los unos de los otros, debemos amarnos. Romanos 13:8-10
 
-#### El amor que nos debemos como hermanos, está en proporción al amor que hemos recibido de Dios. Esta es el amor que se manifiesta en nosotros, cuando vivimos por medio de Cristo.
+#### El amor que nos debemos como hermanos, está en proporción al <u>amor</u> que hemos recibido de Dios. Esta es el amor que se manifiesta en nosotros, cuando vivimos por medio de Cristo.
 
 # 1 Juan 4:12-21 - ASÍ COMO EL ES, SOMOS EN ESTE MUNDO
 
-### 1 Juan 4:12 – *A Dios nunca lo ha visto nadie. Si nos amamos unos a otros, Dios permanece en nosotros y su amor se perfecciona en nosotros.* Juan quiere mostrarnos que Dios puede ser visto en nosotros, a través de su amor perfeccionado en nosotros. Juan 1:18, 1 Timoteo 6:16
+### 1 Juan 4:12 – *A Dios nunca lo ha visto nadie. Si nos amamos unos a otros, Dios permanece en nosotros y su amor se perfecciona en nosotros.* Juan quiere mostrarnos que <u>Dios</u> puede ser visto en nosotros, a través de su amor perfeccionado en nosotros. Juan 1:18, 1 Timoteo 6:16
 
-#### Lo que de amor se ve en nosotros, es el amor de Dios, lo visible de Aquel que es invisible.
+#### Lo que de amor se ve en nosotros, es el amor de Dios, lo <u>visible</u> de Aquel que es invisible.
 
-#### Hablamos de conocer a alguien que es invisible. Esto fue posible por medio de Cristo, y es posible por medio de Cristo en nosotros, es así como llegamos a conocerlo.
+#### Hablamos de conocer a alguien que es invisible. Esto fue posible por <u>medio</u> de Cristo, y es posible por medio de Cristo en nosotros, es así como llegamos a conocerlo.
 
-#### Toda esta cláusula está en plural. Nadie ha visto a Dios, pero si se nos ha manifestado su amor, y Dios es amor, Por lo tanto, nadie verá a Dios en nuestras vidas a menos que, nos amemos los unos a los otros, como Dios nos ha amado.
+#### Toda esta cláusula está en plural. Nadie ha visto a Dios, pero si se nos ha manifestado su amor, y Dios es amor, Por lo tanto, nadie verá a Dios en nuestras <u>vidas</u> a menos que, nos amemos los unos a los otros, como Dios nos ha amado.
 
-#### Esto solo es posible si primeramente consideramos su amor para con nosotros, y vivimos por medio de Cristo.
+#### Esto solo es posible si primeramente consideramos su amor para con nosotros, y vivimos por <u>medio</u> de Cristo.
 
-### “*Dios permanece en nosotros, y su amor se perfecciona en nosotros”.* Esto no es solamente porqué él está en nosotros, ya que esto es siempre una realidad, sino como Dios fluyendo a través de nuestras vidas, como fuente de vida y Poder. Nosotros nutriéndonos de su vida, a través de la comunión.
+### “*Dios permanece en nosotros, y su amor se perfecciona en nosotros”.* Esto no es solamente porqué él está en nosotros, ya que esto es siempre una <u>realidad</u>, sino como Dios fluyendo a través de nuestras vidas, como fuente de vida y Poder. Nosotros nutriéndonos de su vida, a través de la comunión.
 
-### El creyente que está amando, experimenta verdaderamente la comunión con Dios, está participando de la misma vida de Cristo. Efesios 3:14-21, Juan 14:21
+### El creyente que está amando, experimenta verdaderamente la comunión con <u>Dios</u>, está participando de la misma vida de Cristo. Efesios 3:14-21, Juan 14:21
 
 ### 1 Juan 4:13 – *En esto sabemos que permanecemos en Él y Él en nosotros: en que nos ha dado de Su Espíritu.*
 
-#### Jesús les prometió a sus discípulos que les daría otro consolador para que este en ellos, así como Jesús había estado con ellos. El cumplimiento de esta promesa, muestra la obra de Cristo en nosotros, confirmándonos su presencia en nosotros. Juan 14:16-18, 26, 15:11
+#### Jesús les prometió a sus discípulos que les daría otro consolador para que este en ellos, así como Jesús había estado con ellos. El cumplimiento de esta promesa, muestra la obra de <u>Cristo</u> en nosotros, confirmándonos su presencia en nosotros. Juan 14:16-18, 26, 15:11
 
-#### El Espíritu tiene el propósito de darnos una certeza de la comunión que tenemos con Dios, cuando permanecemos en él y el en nosotros. El en nosotros, y nosotros en él, por su Espíritu.
+#### El Espíritu tiene el propósito de darnos una certeza de la comunión que tenemos con <u>Dios</u>, cuando permanecemos en él y el en nosotros. El en nosotros, y nosotros en él, por su Espíritu.
 
-#### En el contexto vemos el fruto producido por el espíritu en nuestras vidas, el amor a los creyentes, nos lleva a saber que estamos permaneciendo en él y él en nosotros. Juan 15:8
+#### En el contexto vemos el fruto producido por el espíritu en nuestras vidas, el <u>amor</u> a los creyentes, nos lleva a saber que estamos permaneciendo en él y él en nosotros. Juan 15:8
 
-#### Solo por una vida que ama, como fruto del Espíritu en nosotros, produciendo la vida de Cristo, estamos conociendo que la comunión es una realidad en nuestras vidas. 1 Juan 1:7
+#### Solo por una vida que ama, como fruto del Espíritu en nosotros, produciendo la <u>vida</u> de Cristo, estamos conociendo que la comunión es una realidad en nuestras vidas. 1 Juan 1:7
 
-### 1 Juan 4:14 – *y nosotros hemos visto y damos testimonio de que el Padre envió a su Hijo para ser el Salvador del mundo.* Así como el Espíritu da testimonio de Cristo, sus discípulos también lo hicieron. 1 Juan 15:26-27
+### 1 Juan 4:14 – *y nosotros hemos visto y damos testimonio de que el Padre envió a su Hijo para ser el Salvador del mundo.* Así como el Espíritu da testimonio de <u>Cristo</u>, sus discípulos también lo hicieron. 1 Juan 15:26-27
 
-#### Este testimonio que daban los apóstoles está de acuerdo con el Espíritu. Ya que el Espíritu da un testimonio, también lo hace dentro de nosotros.
+#### Este testimonio que daban los apóstoles está de acuerdo con el Espíritu. Ya que el Espíritu da un testimonio, también lo hace <u>dentro</u> de nosotros.
 
-#### El versículo comienza con “y”, conectando el amor al prójimo, con el testimonio que damos de Cristo, y como unánimes participamos de esto, está siendo la expresión de amor.
+#### El versículo comienza con “y”, conectando el amor al prójimo, con el testimonio que damos de Cristo, y como unánimes participamos de esto, está siendo la expresión de <u>amor</u>.
 
-#### *...el Padre envió a su hijo para ser el Salvador del mundo.* Al igual que como dijo en el v10, Su Hijo Propiciación por nuestros pecados, aquí Juan dice, Su Hijo Salvador del mundo.
+#### *...el Padre envió a su hijo para ser el Salvador del mundo.* Al igual que como dijo en el v10, Su Hijo Propiciación por nuestros pecados, aquí Juan dice, Su Hijo Salvador del <u>mundo</u>.
 
-##### Dios nos ha salvado de una vida inútil. Ahora por medio de Cristo podemos ser instrumentos del amor de Dios para nuestros hermanos. La vida abundante no es solamente una donde dejamos de pecar, sino una usada en los propósitos de Dios. Esta es la verdadera santificación.
+##### Dios nos ha salvado de una vida inútil. Ahora por medio de Cristo podemos ser instrumentos del <u>amor</u> de Dios para nuestros hermanos. La vida abundante no es solamente una donde dejamos de pecar, sino una usada en los propósitos de Dios. Esta es la verdadera santificación.
 
-##### Solamente el Espíritu Santo puede llevarnos a amarnos los unos a los otros como él nos ha amado. Este es un testimonio de que es Cristo en nosotros. Juan 14:18-21
+##### Solamente el Espíritu Santo puede llevarnos a amarnos los unos a los otros como él nos ha <u>amado</u>. Este es un testimonio de que es Cristo en nosotros. Juan 14:18-21
 
-#### Por medio del anuncio de Jesucristo el Salvador del mundo, mostramos el amor que Dios tuvo para con el mundo. Una vida entregada al discipulado está relacionada directamente con una comunión íntima con Dios *(nosotros hemos visto y damos testimonio)*.
+#### Por medio del anuncio de Jesucristo el Salvador del mundo, mostramos el <u>amor</u> que Dios tuvo para con el mundo. Una vida entregada al discipulado está relacionada directamente con una comunión íntima con Dios *(nosotros hemos visto y damos testimonio)*.
 
 ### 1 Juan 4:15 – *Todo aquel que confiesa que Jesús es el Hijo de Dios, Dios permanece en él y él en Dios.*
 
-#### Ya hemos viste que esta confesión, es por el Espíritu (4:2), por medio de esto, reconocemos la obra del Espíritu.
+#### Ya hemos viste que esta confesión, es por el Espíritu (4:2), por medio de <u>esto</u>, reconocemos la obra del Espíritu.
 
-#### Nunca la valentía de tal confesión viene del hombre. Vimos como Pedro y los demás discípulos huyeron cuando atraparon a Cristo, pero luego, con la llegada del Espíritu, cada uno de ellos fue su testigo. Hechos 1:8
+#### Nunca la valentía de tal confesión viene del <u>hombre</u>. Vimos como Pedro y los demás discípulos huyeron cuando atraparon a Cristo, pero luego, con la llegada del Espíritu, cada uno de ellos fue su testigo. Hechos 1:8
 
-#### No tenían otra cosa de la cual hablar, sino de aquello que cavo sus propias tumbas, en un mundo, del cual no eran dignos. Pero una cosa es segura, vivieron llenos de la vida de Dios en ellos (*Dios permanece en él y él en Dios*).
+#### No tenían otra cosa de la cual hablar, sino de aquello que cavo sus propias tumbas, en un mundo, del cual no eran dignos. Pero una cosa es segura, vivieron llenos de la <u>vida</u> de Dios en ellos (*Dios permanece en él y él en Dios*).
 
-#### La valentía es el resultado de aquel que se refugian en Cristo el Salvador, y vive conforme a Su poder. 2 Timoteo 1:6-14, es un claro ejemplo de alguien que vive permaneciendo en Cristo.
+#### La valentía es el resultado de aquel que se refugian en Cristo el Salvador, y vive conforme a Su poder. 2 Timoteo 1:6-14, es un claro ejemplo de alguien que <u>vive</u> permaneciendo en Cristo.
 
-### 1 Juan 4:16a – *Y nosotros hemos llegado a conocer y hemos creído el amor que Dios tiene para nosotros…* Mostrando que ellos fueron testigos de Jesucristo, no porque esto provino de ellos, sino porque conocieron y dependieron del amor de Dios para con ellos.
+### 1 Juan 4:16a – *Y nosotros hemos llegado a conocer y hemos creído el amor que Dios tiene para nosotros…* Mostrando que ellos fueron testigos de Jesucristo, no porque esto provino de ellos, sino porque conocieron y dependieron del <u>amor</u> de Dios para con ellos.
 
-#### Ellos aseguran que solo porque han conocido y han estado confiando en el amor de Dios en ellos, son lo que son, y hacen lo que hacen
+#### Ellos aseguran que solo porque han <u>conocido</u> y han estado confiando en el amor de Dios en ellos, son lo que son, y hacen lo que hacen
 
-#### Juan dice: el amor que Dios tiene sobre nosotros. Todo lo que el padre hace y siente sobre el Hijo lo hace y siente sobre nosotros. Efesios 1:3
+#### Juan dice: el amor que Dios tiene sobre nosotros. Todo lo que el <u>padre</u> hace y siente sobre el Hijo lo hace y siente sobre nosotros. Efesios 1:3
 
-### 1 Juan 4:16b – *Dios es amor y el que permanece en amor, permanece en Dios y Dios permanece en él.* Este pasaje nos esclarece mucho lo que los discípulos entendieron por permanecer en Cristo.
+### 1 Juan 4:16b – *Dios es amor y el que permanece en amor, permanece en Dios y Dios permanece en él.* Este pasaje nos esclarece mucho lo que los discípulos entendieron por permanecer en <u>Cristo</u>.
 
-#### Sin complicarlo mucho: a medida que por el Espíritu vamos conociendo su amor, confiamos en él. Así crecemos aún más y más no solo en el conocimiento de él, sino también en experimentar su poder en nuestras vidas, llevándonos a amar a otros.
+#### Sin complicarlo mucho: a medida que por el Espíritu vamos conociendo su amor, confiamos en él. Así crecemos aún más y más no solo en el conocimiento de él, sino también en experimentar su <u>poder</u> en nuestras vidas, llevándonos a amar a otros.
 
-#### “*el que permanece en amor (Su Hijo Salvador del mundo),* experimenta la comunión con Dios, y el fruto de Cristo en su vida.
+#### “*el que permanece en amor (Su Hijo Salvador del mundo),* experimenta la comunión con <u>Dios</u>, y el fruto de Cristo en su vida.
 
 ### 1 Juan 4:17a – *En esto se perfecciona el amor en nosotros, para que tengamos confianza en el día del juicio…*
 
-#### Dios comenzó, y continúa haciendo una obra en nosotros, por medio de su amor, Por medio de lo que hizo a través de Su Hijo, *en esto se perfecciona el amor de Dios **con** nosotros*.
+#### Dios comenzó, y continúa haciendo una obra en nosotros, por medio de su <u>amor</u>, Por medio de lo que hizo a través de Su Hijo, *en esto se perfecciona el amor de Dios **con** nosotros*.
 
-#### El propósito es llenarnos de confianza, seguridad, *para que tengamos confianza.* Antes menciono que podríamos alejarnos de él avergonzados, pero eso no es lo que Dios quiere para sus Hijos, por eso por medio de Cristo proveyó el medio para que vivamos, y llevemos fruto, así podremos estar confiados en el tribunal de Cristo.
+#### El propósito es llenarnos de confianza, seguridad, *para que tengamos confianza.* Antes menciono que podríamos alejarnos de él avergonzados, pero eso no es lo que <u>Dios</u> quiere para sus Hijos, por eso por medio de Cristo proveyó el medio para que vivamos, y llevemos fruto, así podremos estar confiados en el tribunal de Cristo.
 
-### 1 Juan 4:17b - *...pues como Él es, así somos nosotros también en este mundo.* El mirar el amor de Dios, nos lleva a conocer y vivir de acuerdo a lo que somos, es decir, así como él es.
+### 1 Juan 4:17b - *...pues como Él es, así somos nosotros también en este mundo.* El mirar el amor de Dios, nos lleva a <u>conocer</u> y vivir de acuerdo a lo que somos, es decir, así como él es.
 
-#### Como producto absoluto de su obra de amor comenzada y perfeccionada en nosotros, nuestra posición y vida aquí, es como su posición y vida allá, somos uno con Cristo.
+#### Como producto absoluto de su obra de amor comenzada y perfeccionada en <u>nosotros</u>, nuestra posición y vida aquí, es como su posición y vida allá, somos uno con Cristo.
 
-#### Muchas veces ignoramos que como creyentes podemos perdernos de una vida abundante, podemos perdernos el vivir de acuerdo a todo lo que somos, y debido a eso, perder en el tribunal de Cristo.
+#### Muchas veces ignoramos que como creyentes podemos perdernos de una vida abundante, podemos perdernos el <u>vivir</u> de acuerdo a todo lo que somos, y debido a eso, perder en el tribunal de Cristo.
 
-#### Juan no quiere que la seguridad de estos creyentes esté en lo que ellos están haciendo por Dios, o en lo que alguna vez podrían hacer, sino en todo lo que Dios ya ha logrado por nosotros. Al mirar a Cristo, podemos conocer lo que somos para el Padre.
+#### Juan no quiere que la seguridad de estos creyentes esté en lo que ellos están haciendo por Dios, o en lo que alguna vez podrían hacer, sino en todo lo que Dios ya ha logrado por <u>nosotros</u>. Al mirar a Cristo, podemos conocer lo que somos para el Padre.
 
-#### El que vive amando, definitivamente no tendrá de que avergonzarse, ya que ha vivido como ciudadano del cielo, su ingreso allí, será gozoso.
+#### El que vive amando, definitivamente no tendrá de que avergonzarse, ya que ha <u>vivido</u> como ciudadano del cielo, su ingreso allí, será gozoso.
 
-#### Por otro lado, el que no ama, tristemente es uno más en este mundo, y con cuanta incertidumbre vivirá aquí, hasta el día que sea avergonzado en el regreso de su Salvador.
+#### Por otro lado, el que no ama, tristemente es uno más en este <u>mundo</u>, y con cuanta incertidumbre vivirá aquí, hasta el día que sea avergonzado en el regreso de su Salvador.
 
-### 1 Juan 4:18 - *En el amor no hay temor, sino que el perfecto amor echa fuera el temor, porque el temor involucra castigo, y el que teme no es hecho perfecto en el amor.* El amor y el temor no tienen relación alguna.
+### 1 Juan 4:18 - *En el amor no hay temor, sino que el perfecto amor echa fuera el temor, porque el temor involucra castigo, y el que teme no es hecho perfecto en el amor.* El amor y el <u>temor</u> no tienen relación alguna.
 
-#### Si soy amado, ¿Por qué temer?, Si estoy amando ¿Por qué temer? Aquí el contexto es el día del juicio de los creyentes.
+#### Si soy amado, ¿Por qué temer?, Si estoy amando ¿Por qué temer? Aquí el contexto es el día del <u>juicio</u> de los creyentes.
 
-#### Es el sentido de pertenencia e identidad que nos da el amor de Dios, lo que nos lleva a vivir libres y confiados hacia nuestro Padre. Romanos 8:15
+#### Es el sentido de pertenencia e identidad que nos da el <u>amor</u> de Dios, lo que nos lleva a vivir libres y confiados hacia nuestro Padre. Romanos 8:15
 
-#### Es el perfecto amor, el que nos hace perfectos en el amor. Aquel creyente que vive en temor, no debe esforzarse para ganarse la aprobación de Dios, ya la tiene, solo debe mirar el amor de Dios, y dejar que este lo perfeccione. 1 Juan 3:1
+#### Es el perfecto amor, el que nos hace perfectos en el amor. Aquel creyente que vive en <u>temor</u>, no debe esforzarse para ganarse la aprobación de Dios, ya la tiene, solo debe mirar el amor de Dios, y dejar que este lo perfeccione. 1 Juan 3:1
 
-#### El creyente que no es una expresión completa del amor de Dios, vive en una auto condenación y esclavitud.
+#### El creyente que no es una expresión completa del <u>amor</u> de Dios, vive en una auto condenación y esclavitud.
 
-#### Muchos piensan que el propósito de la vida es estar haciendo algo que nos traiga satisfacción y así complacer a Dios. Nos olvidamos o ignoramos que lo que Dios quiere es, a través de su perfecto amor, llevarnos a una completa confianza para con él. Juan 16:22-33
+#### Muchos piensan que el propósito de la vida es estar haciendo algo que nos traiga satisfacción y así complacer a Dios. Nos olvidamos o ignoramos que lo que Dios quiere es, a través de su perfecto <u>amor</u>, llevarnos a una completa confianza para con él. Juan 16:22-33
 
-### 1 Juan 4:19 – *Nosotros amamos porque Él nos amó primero*. A dios podemos amarlo (habiendo sido perfeccionados en su amor), solamente porque él nos amó primero.
+### 1 Juan 4:19 – *Nosotros amamos porque Él nos amó primero*. A dios podemos <u>amarlo</u> (habiendo sido perfeccionados en su amor), solamente porque él nos amó primero.
 
-#### No solamente al hermano sino en esencia, podemos disfrutar de Dios el Padre y amarlo, debido a que él nos amó a nosotros primero, y envió a Su Hijo para salvarnos.
+#### No solamente al hermano sino en esencia, podemos disfrutar de Dios el Padre y amarlo, debido a que él nos amó a nosotros primero, y envió a Su Hijo <u>para</u> salvarnos.
 
 ### 1 Juan 4:20 – *Si alguien dice: “Yo amo a Dios”, pero aborrece a su hermano, es un mentiroso. Porque el que no ama a su hermano a quien ha visto, no puede amar a Dios a quien no ha visto.*
 
-#### Nadie puede estar amando a Dios, y al mismo tiempo estar odiando a su hermano, o no estar amando a su hermano (viendo sus necesidades y no haciendo algo por él). 1 Juan 1:6-7
+#### Nadie puede estar amando a Dios, y al mismo tiempo estar odiando a su hermano, o no estar <u>amando</u> a su hermano (viendo sus necesidades y no haciendo algo por él). 1 Juan 1:6-7
 
-#### No podemos decir que estamos amando a Dios, si el amor proviene de él, y que ese amor que profesamos tener, no está siendo suficiente para el hermano. Si este es el caso, aquel que hace esa declaración, es un mentiroso en cuanto a la vida que está viviendo para con Dios.
+#### No podemos decir que estamos amando a Dios, si el amor proviene de él, y que ese amor que profesamos tener, no está siendo suficiente para el hermano. Si este es el caso, aquel que hace esa declaración, es un mentiroso en <u>cuanto</u> a la vida que está viviendo para con Dios.
 
-#### Este creyente no está amando a su hermano, eso no significa que no es un hermano, sino que es un hermano mentiroso. Todos podrían ver que él ve a sus hermanos, y conoce sus necesidades, pero no hace nada por ellas, por lo tanto, es imposible que este en comunión con Dios.
+#### Este creyente no está amando a su hermano, eso no <u>significa</u> que no es un hermano, sino que es un hermano mentiroso. Todos podrían ver que él ve a sus hermanos, y conoce sus necesidades, pero no hace nada por ellas, por lo tanto, es imposible que este en comunión con Dios.
 
-#### Podemos engañarnos a nosotros mismos pensando que estamos participando de la vida de Cristo simplemente por el conocimiento que tenemos de él, pero esto es un engaño si al ver nuestras vidas, no estamos viviendo para el bien de otros.
+#### Podemos engañarnos a nosotros mismos pensando que estamos participando de la vida de Cristo simplemente por el conocimiento que tenemos de él, pero esto es un engaño si al ver nuestras <u>vidas</u>, no estamos viviendo para el bien de otros.
 
-#### Participar de la vida de Cristo, nos llevará a amar a otros, y si no es así, volvamos a mirar el amor de Dios para con nosotros, y permitamos su obra en nosotros.
+#### Participar de la vida de Cristo, nos llevará a amar a otros, y si no es así, volvamos a <u>mirar</u> el amor de Dios para con nosotros, y permitamos su obra en nosotros.
 
-### 1 Juan 4:21 – *y este mandamiento tenemos de Él: que el que ama a Dios ame también a su hermano.* El amor es la consecuencia de permanecer en Cristo, cuando Su amor nutre nuestras vidas, inevitablemente nos lleva a amar a nuestros hermanos.
+### 1 Juan 4:21 – *y este mandamiento tenemos de Él: que el que ama a Dios ame también a su hermano.* El amor es la consecuencia de permanecer en Cristo, cuando Su <u>amor</u> nutre nuestras vidas, inevitablemente nos lleva a amar a nuestros hermanos.
 
 #### Mientras vivamos aquí, tendremos innumerables oportunidades de ver necesidades y suplirlas por el amor que Dios produce en nuestras vidas.
 
-#### Si Dios dice que debo amar a mi hermano, entonces soy guarda de mi hermano. Si Dios demanda a mí de mi hermano, entonces soy guarda de mi hermano.
+#### Si Dios dice que debo amar a mi hermano, entonces soy guarda de mi <u>hermano</u>. Si Dios demanda a mí de mi hermano, entonces soy guarda de mi hermano.
 
-#### En Juan 13:1 Juan dice, que Jesús había amado a los suyos, y el mismo decidió identificarse como el discípulo al que Jesús amaba. Fue el amor de Cristo que le mostró lo que él era, y al vivir en esa realidad, vivió una vida entregada por los hermanos. Filipenses 2:3-11
+#### En Juan 13:1 Juan dice, que Jesús había amado a los suyos, y el mismo decidió identificarse como el discípulo al que Jesús amaba. Fue el amor de Cristo que le mostró lo que él era, y al vivir en esa <u>realidad</u>, vivió una vida entregada por los hermanos. Filipenses 2:3-11
 
 # 1 JUAN 5:1-21 -  LA GARANTÍA DE LA VIDA ETERNA
 
