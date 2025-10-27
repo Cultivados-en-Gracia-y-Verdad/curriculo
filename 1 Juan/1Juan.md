@@ -496,7 +496,7 @@ el perdón de pecados y limpieza de toda maldad es porque dios es fiel y el apli
 
 En el versículo 7 vimos que cuando andamos en luz estamos siendo limpiados de todo pecado. La confesión de pecados es simplemente eso, andar en luz, admitiendo nuestros pecados. Al estante, la filmad de Dios entra en acción y nos limpia de toda maldad. 
 
-Pero en este contexto Dios esta siendo fiel para lavarnos y limpiarnos 
+Pero en este contexto Dios esta siendo fiel para lavarnos y limpiarnos.  
 
 #### ¿Qué pecados debo confesar? 
 
