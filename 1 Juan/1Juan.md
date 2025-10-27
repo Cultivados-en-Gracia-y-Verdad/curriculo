@@ -1,48 +1,69 @@
 ---
 Title: Primera epístola del apóstol Juan
+
 ---
 
-# El puso su vida por nosotros.
+##  Importancia de la epístola 1 Juan. 
 
-##  Introducción. 
+### La epístola de 1 Juan es muy significativa, debido a que aborda muchas creencias fundamentales de la fe cristiana como la encarnación de Cristo en carne, su deidad, nos muestra como los creyentes pueden vivir en la luz, la comunión unos con otros, nos muestra quienes son los falsos maestros, seguridad de salvación y la relación del creyente con el pecado.
 
-### Primeramente, podemos ver cómo en los tres primeros versículos el autor se identifica a sí mismo como un testigo en vida y ocular de Jesucristo, uno de aquellos que “*lo oyó, lo vio, lo contempló, lo palpo*”. 
+### El autor va a comunicar claramente durante toda la epístola quién es Jesús y lo que él hizo por nosotros, identificándose como un testigo ocular y presencial de Jesucristo “*lo oyó, lo vio, lo contempló, lo palpo*”.  
 
-### Aunque en la mayoría de la carta el autor parece ser uno solo, hablando en primera persona singular, en todo el primer capítulo el autor escribe en primera persona plural. 
+#### El capítulo 1 aborda sobre el verbo de vida, la comunión, el andar en la luz, la confesión de pecados.
 
-#### En forma de apertura puede ser que el autor está confirmando un mismo mensaje con los otros apóstoles, que también son testigos juntamente con él. 
+#### El capítulo 2 aborda sobre la propiciación de los pecados, el guardar sus mandamientos,  el amor a los hermanos, el amor al mundo, el anticristo y su engaño , el permanecer en él.
 
-#### También identificándose como parte de aquellos verdaderos testigos, versus los engañadores que estaban entre ellos. 1 Juan 2:26
+#### El capítulo 3 aborda sobre el amor del Padre como hijos de Dios, la relación del pecado con los nacidos de Dios, el amor práctico entre hermanos, la reprensión del corazón, el guardar sus mandamientos.
 
-### En ninguna parte del libro el autor se identifica con un nombre ni hace referencia alguna a sí mismo aparte de ser un testigo, haciéndolo uno de los 12 apóstoles. 
+#### El capítulo 4 aborda sobre probar a los espíritus, el amor de Dios demostrado, el amor entre hermanos, la esencia del amor, la relación entre amar y guardar sus mandamientos.
 
-### Hay muchas similitudes tanto en la escritura, como en el contenido, con el evangelio de Juan, escrito por el discípulo al que Jesús amaba. 
+#### El capítulo 5 aborda sobre quien vence al mundo, el testimonio en el cielo y en la tierra, la vida en el Hijo, la seguridad de la vida eterna, el conocimiento verdadero de Dios.
 
-#### Especialmente en los capítulos 13 al 17 de Juan, donde Juan nos relata toda una enseñanza amplia de Jesús a 11 de ellos, ya que Judas se había ido. 
+## Situación general del cristianismo
 
-#### Aquí Jesús les enseña a permanecer en él, algo que el autor va a mencionar ampliamente en esta carta, también la instrucción del Espíritu Santo, igual que Jesús les dijo que lo haría. La relación entre amar y guardar sus mandamientos, la victoria que poseen sobre el mundo debido a la victoria misma de Jesucristo, etc. 
+### Después de la resurrección y ascensión de Jesús, los creyentes enfrentaron oposición del sanedrín y líderes religiosos judíos alrededor de los años 30-40 d.C. Hechos 4-5,7-8,12
 
-### Es importante que el autor se identifique como un testigo ocular del Hijo de Dios, y más aún alguien que lo palpo, a diferencia de aquellos falsos maestros que ni aún podían asegurar que Jesucristo había venido en carne. 1 Juan 4:2
+### Hubo persecuciones locales en el imperio Romano en los años 50-60 d.C, en el cual los creyentes se expandieron a las ciudades de Antioquía, Éfeso, Corinto, Roma. El apóstol Pablo sufrió encarcelamientos y azotes en Filipos, Tesalónica, Corinto, Éfeso y Roma (Hechos 16-28). 
 
-#### La falsa enseñanza siempre va a distorsionar la persona de Jesús y su obra a nuestro favor.  
+### Las persecuciones bajo el emperador Nerón 64-68 d.C. después del incendio en Roma atribuido a los cristianos, se presentaron ejecuciones crueles, crucifixiones, quemas vivas y lanzamiento a las fieras. 
 
-#### El autor, sin embargo, solamente se va a limitar a comunicar claramente quién es Jesús y lo que él hizo por nosotros. 
+### El cristianismo ya se había extendido por todo el imperio romano, las iglesias estaban formadas por creyentes judíos y gentiles.
 
-### Algunas cosas que el autor dice de sí mismo:
+### La destrucción de Jerusalén había sucedido en el año 70 d.C., por los romanos, el templo en Jerusalén ya no existía.
 
-#### 1 Juan 3:1-2, es un hijo de Dios
+### Los creyentes eran perseguidos por el emperador Domiciano 81-96 d.C. , eran vistos con desconfianza debido a no rendir culto al emperador.
 
-#### 1 Juan 1:5-10, se incluye como alguien que puede estar engañado, o no andando según la verdad.
+## Situación interna de la iglesia
 
-#### En su uso del término “*hijitos*” para referirse a sus destinatarios, muestra la relación cercana que tiene para con ellos, como de un padre espiritual preocupado por el bienestar de aquellos que ha llevado a la verdad. 
+### Entender la situación interna de la iglesia en el momento que se escribió 1 de Juan es clave para comprender sus motivos de escribirles y lo que estaban enfrentando los creyentes.
 
-#### 1 Juan 5:19, es de Dios (junto con todos los creyentes), y está en el verdadero 1 Juan 5:20
+### Las iglesias enfrentaban el desafío de mantener la enseñanza transmitida por los apóstoles fielmente.
+
+### Enfrentaban una división interna debido a las falsas enseñanzas, distorsionando el mensaje acerca de Jesús hecho carne, al punto de negar que Jesús es el Cristo. (1 Juan 2:18-23; 4:1-3)
+
+#### Las doctrinas como el Gnosticismo incipiente enseñaban que la materia era mala y el espíritu bueno, negaban que Jesús vino en un cuerpo físico de carne y hueso, (docetismo).
+
+### Existían confusiones en relación al pecado (1 Juan 1:8) , guardar sus mandamientos (1 Juan 2:4)  y permanecer en él (1 Juan 2:6), las falsas enseñanzas que afectaron de manera visible y práctica en su andar.
+
+### La comunión entre creyentes había sido destruida al punto de llegar a detestar a sus hermanos, olvidando que pasaron de muerte a vida (1 Juan 2:9-11; 3:10-15) 
+
+### Muchos creyentes llegaban a concluir que no tenían vida eterna debido a su extravío de la verdad (1 Juan 5:13)
 
 ## Autor.
 
 ### El autor de la epístola no se identifica en la misma con su nombre, sin embargo debido a que su manera de escribir, vocabulario, y conceptos los cuales expresa en la epístola coinciden con el Evangelio según Juan.
 
-### La manera de escribir de Juan usualmente es en tercera persona, expresándose de sí mismo como "El discípulo a quien Jesús amaba". Juan 21:20 
+### La manera de escribir de Juan usualmente es en tercera persona, expresándose de sí mismo como "*El discípulo a quien Jesús amaba*". Juan 21:20 
+
+### En su epístola habla muchas veces de en primera persona plural, incluyéndose como parte de toda su enseñanza, mostrando que es también para él mismo. 
+
+### En su uso del término “*hijitos*” para referirse a sus destinatarios, muestra la relación cercana que tiene para con ellos, como de un padre espiritual preocupado por el bienestar de aquellos que ha llevado a la verdad. 
+
+## Fecha de escritura.
+
+### Una estimación de escritura oscila entre los años 85 y 95 d.C., muy probablemente desde Éfeso según historiadores del siglo II y III (Ireneo, Polícrates, Eusebio y Jerónimo).
+
+## La vida y ministerio del apóstol Juan
 
 ### Juan y Jacobo eran Hijos de Zebedeo, eran pescadores de oficio, y compañeros de Simón (Pedro) Lucas 5:10 , hasta que fueron llamados por Jesús y dejando al instante las redes le siguieron. Juan 4:19-22; Marcos 1:20
 
@@ -60,59 +81,43 @@ Title: Primera epístola del apóstol Juan
 
 ### Juan y Pedro fueron al templo y realizaron un milagro con un cojo en el nombre de Jesús y todos se admiraron Hechos 3:1-10 , fueron arrestados por que enseñaban al pueblo y anunciaban en Jesús la resurrección Hechos 4:1-22 , fueron enviados por los apóstoles a Samaria para confirmar la fe de los creyentes y anunciaron el evangelio en muchas aldeas de los samaritanos. Hechos 8:14–25
 
-### Juan fue desterrado por causa de la palabra de Dios y del testimonio de Jesús a la isla de Patmos (Apocalipsis 1:9) por el emperador Domiciano , alrededor del año 98 d.C esperando que muriera allí, en esta isla fue donde tuvo las visiones que lo llevaron a escribir el libro de Apocalipsis (Apocalipsis 1:19).
+### Juan fue desterrado por causa de la palabra de Dios y del testimonio de Jesús a la isla de Patmos (Apocalipsis 1:9) por el emperador Domiciano, alrededor del año 98 d.C esperando que muriera allí, en esta isla fue donde tuvo las visiones que lo llevaron a escribir el libro de Apocalipsis (Apocalipsis 1:19).
 
 ### No existe registro bíblico de su muerte, sin embargo según los historiadores (Ireneo, Eusebio, Jerónimo) afirman que murió en paz en Éfeso sin ser martirizado como los otros apóstoles.
 
-## Fecha de escritura.
-
-### Una estimación de escritura oscila entre los años 85 y 95 d.C., muy probablemente desde Éfeso según historiadores del siglo II y III (Ireneo, Polícrates, Eusebio y Jerónimo).
-
 ## Escritos atribuidos a Juan.
 
-### **Evangelio según Juan** - Revela a Jesús como el hijo de Dios a todo el mundo y para que puedan creer  y creyendo tengan vida eterna.
+### **Evangelio según Juan** Fue escrito alrededor de los años 80–90 d.C, revela a Jesús como el hijo de Dios a todo el mundo y para que puedan creer  y creyendo tengan vida eterna.
 
-### **Primera epístola de Juan** - Les muestra a Jesús como el verbo, con el fin que puedan estar en la luz, mostrando comunión con los creyentes y venciendo al mundo por medio de la permanecer en él.
+### Las epístolas de Juan fueron escritas alrededor de los años 85–95 d.C en Éfeso según historiadores de los siglos I y II. 
 
-### **Segunda epístola de Juan** - Les anima a mantenerse en la doctrina de Cristo permaneciendo en el amor, explicándoles acerca de falsos maestros y sus enseñanzas. 
+#### **Primera epístola de Juan** Les muestra a Jesús como el verbo, con el fin que puedan estar en la luz, mostrando comunión con los creyentes y venciendo al mundo por medio de la permanecer en él.
 
-### **Tercera epístola de Juan** - Les escribe al anciano Gayo para animar a los creyentes y mostrarles un contraste práctico de la acción de Gayo con Diótrefes, un líder que rechazaba a los hermanos. 
+#### **Segunda epístola de Juan** - Les anima a mantenerse en la doctrina de Cristo permaneciendo en el amor, explicándoles acerca de falsos maestros y sus enseñanzas. 
 
-### **Apocalipsis** - Es la Revelación de Jesucristo, quien manda a Juan a escribir las cosas que son, que han de ser, y las que han de ser después de estas. Apocalipsis 1:19
+#### **Tercera epístola de Juan** - Les escribe al anciano Gayo para animar a los creyentes y mostrarles un contraste práctico de la acción de Gayo con Diótrefes, un líder que rechazaba a los hermanos. 
 
-## Situación general del cristianismo
-
-### Después de la resurrección y ascensión de Jesús, los creyentes enfrentaron oposición del sanedrín y líderes religiosos judíos alrededor de los años 30-40 d.C. Hechos 4-5,7-8,12
-
-### Hubo persecuciones locales en el imperio Romano en los años 50-60 d.C, en el cual los creyentes se expandieron a las ciudades de Antioquía, Éfeso, Corinto, Roma. El apóstol Pablo sufrió encarcelamientos y azotes en Filipos, Tesalónica, Corinto, Éfeso y Roma (Hechos 16-28). 
-
-### Las persecuciones bajo el emperador Nerón 64-68 d.C. después del incendio en Roma atribuido a los cristianos, se presentaron ejecuciones crueles, crucifixiones, quemas vivas y lanzamiento a las fieras. 
-
-### El cristianismo ya se había extendido por todo el imperio romano, las iglesias estaban formadas por creyentes judíos y gentiles.
-
-### La destrucción de Jerusalén había sucedido en el año 70 d.C., por los romanos, el templo en Jerusalén ya no existía.
-
-### Los creyentes eran perseguidos por el emperador Domiciano 81-96 d.C. , eran vistos con desconfianza debido a no rendir culto al emperador
-
-## Situación interna de la iglesia
-
-### Las iglesias enfrentaban el desafío de mantener la enseñanza transmitida por los apóstoles fielmente.
-
-### Tenemos la evidencia de 1 Juan con respecto a los falsos maestros y sus enseñanzas y Apocalipsis 2-3 que reflejan a las iglesias locales apartadas de la verdad.
-
-### Existía la corriente del Gnosticismo la cual influenciaba las enseñanzas afirmando que Jesús no había venido en la carne.
-
-### La comunión entre creyentes había sido olvidada debido a las diferentes circunstancias y enseñanzas contrarias a la palabra.
+### **Apocalipsis** Fue escrito alrededor de los años 94–96 d.C en la isla de Patmos, es la revelación de Jesucristo, quien manda a Juan a escribir las cosas que son, que han de ser, y las que han de ser después de estas. Apocalipsis 1:19
 
 ## Propósito de la escritura
 
-### Los destinatarios de la escritura puede haber sido un público genérico,  para ser leída en diferentes congregaciones con el fin de animar a los creyentes y fortalecerlos en la fe y enseñanzas de Jesucristo.
+### Uno de los propósitos de anunciarles esto, es para que tengan comunión con nosotros, que es con el Padre y con su Hijo Jesucristo, con el fin que que su gozo sea completo. 1 Juan 1:3-4
 
-## División sencilla 
+### El propósito de escribirles esto no es para que tengan libertad de pecar, sino para que sepan que tienen un intercesor para con el Padre, a Jesucristo el Justo. 1 Juan 2:1
 
+### Les recuerda un mandamiento antiguo que han tenido desde el principio, el amor a los hermanos. 1 Juan 2:7-11
 
+### Les escribe para recordarles que sus pecados han sido perdonados por el nombre de Cristo y que conocen aquel que ha sido desde el principio, les anima mostrando que conocen al Padre y han vencido al maligno.1 Juan 2:12-14
 
+### Les escribe debido a que conocen la verdad, y les anima a permanecer en lo que oyeron desde el principio, sabiendo que están tratando de engañarlos. 1 Juan 2:21-26
 
+### Un propósito de escribirles es mostrarles el amor de Dios para con nosotros y que vivamos por medio de él, amándonos unos a otros. 1 Juan 4:9-17
+
+### Estas cosas les escribe a los que creen en el nombre de Jesucristo para que sepan que tienen vida eterna y que sepan que Dios oye sus peticiones. 1 Juan 5:13-15
+
+## Tema central y división de la primera epístola de Juan
+
+### El tema central de la primera epístola de Juan es "El puso su vida por nosotros." 1 Juan 4:10 
 
 
 
