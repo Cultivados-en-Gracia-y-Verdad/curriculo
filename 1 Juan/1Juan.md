@@ -593,453 +593,459 @@ Title: Primera epístola del apóstol Juan
 
 ## 1 Juan 2:1-6 – Las provisión de Dios para una vida, y cómo esta se ve
 
-### 1 Juan 2:1-6 – Juan ahora va a mostrar como Cristo como la solución para nuestros pecados, y en Él se halla el poder para andar en victoria sobre él. Juan nos mostrará los resultados de su intercesión, el conocerlo. 
+### 1 Juan 2:1-6 – Juan ahora mostrara a Cristo <u>como</u> la solución para nuestros pecados, en Él se halla el poder para andar en <u>victoria</u>. Juan nos mostrará los resultados de su intercesión, el conocerlo. 
 
-### 1 Juan 2:1a – *Hijitos míos…* Ahora y en adelante Juan se dirige personalmente, y comienza a referirse a sus destinatarios con algunos términos que muestran una relación cercana e íntima con ellos. 
+### 1 Juan 2:1a – *Hijitos míos…*  Juan se dirigirse personalmente, y comienza a referirse a sus destinatarios con algunos términos que muestran una relación <u>cercana</u> e íntima con ellos. 
 
-### Juan se ve a sí mismo como un padre para ellos. 
+#### Juan se ve a sí mismo como un <u>padre</u> para ellos. 
 
-### Es importante saber que Juan no pone en duda la salvación de ellos, sino que considerando esta, los animará a aprovecharla.
+#### Es importante saber que Juan no pone en <u>duda</u> la salvación de sus receptores, sino que la da por hecho, y los animará a aprovecharla.
 
-### 1 Juan 2:1b - *…les escribo estas cosas para que no pequen…* Es importante notar que Juan ve el no pecar para los creyentes como una posibilidad, es el deseo de Juan para sus hijitos, así como el de Dios para todos sus hijos. 
+### 1 Juan 2:1b - *…les escribo estas cosas para que no pequen…* Es importante notar que Juan ve el no pecar para los creyentes como una posibilidad, es el <u>deseo</u> de Juan para sus hijitos, así como el de Dios para todos sus hijos. 
 
-#### El hecho de que estos creyentes puedan no pecar (o ser libres del pecado), no significa que son libres para pecar. 
+#### El hecho de que estos creyentes puedan no pecar (o ser libres del pecado), no significa que son <u>libres</u> para pecar. 
 
-#### Ya que el deseo de Dios es que sus hijos no pequen, Él les ha provisto con todo lo necesario para vivir en libertad de las tinieblas. 
+#### Ya que el deseo de Dios es que sus hijos no pequen, Él les ha provisto con todo lo necesario para vivir en libertad de las tinieblas <u>como</u> veremos a continuación,
 
-#### Cualquier enseñanza que nos haga pensar que tenemos libertad para pecar, es un engaño directamente de las tinieblas. La gracia de Dios no es libertinaje, sino libertad del pecado. Judas 3-4
+#### Cualquier enseñanza que nos haga pensar que tenemos libertad para pecar, es un engaño directamente de las tinieblas. La <u>gracia</u> de Dios no es libertinaje, sino libertad del pecado. Judas 1:3-4
 
-### 1 Juan 2:1c - *…Y Si alguien peca, tenemos abogado para con el Padre, a Jesucristo el Justo.* Aunque el deseo de Dios para sus hijos es que no pequen, es posible que ellos lleguen a pecar. 
+### 1 Juan 2:1c - *…Y Si alguien peca, tenemos abogado para con el Padre, a Jesucristo el Justo.* Aunque el deseo de Dios para sus hijos es que no pequen, es posible que ellos lleguen a <u>pecar</u>. 
 
-#### Cuando los creyentes pecamos, debemos saber lo siguiente: tenemos abogado para con el Padre. Ya que Dios no quiere que pequemos, esto no lo dice Juan a sus hijitos para que piensen que pueden pecar cuando quieran y no pasa nada.
+#### Cuando los creyentes pecamos, debemos saber lo siguiente: tenemos abogado para con el Padre. Ya que Dios <u>no</u> quiere que pequemos, esto no lo dice Juan a sus hijitos para que piensen que pueden pecar cuando quieran y no pasa nada.
 
-#### La razón por la que Juan menciona al abogado es porque entiende que no hay solución para nuestros pecados para con Dios, fuera de la persona de Jesucristo. Aunque muchos hoy en día enseñan la confesión como la solución, para Juan es nuestro abogado: Jesucristo el Justo.
+#### La razón por la que Juan menciona al abogado es porque entiende que no hay solución para nuestros pecados para con Dios fuera de la persona de Jesucristo. 
 
-#### “tenemos abogado” es una declaración segura. No hay creyente cuyo abogado no sea Jesucristo el Justo. El problema de nuestros pecados, aun en el caso de que pequemos como creyentes, ha sido solucionado por medio de Jesucristo. 2Corintios 5:17-21
+#### Aunque muchos <u>hoy</u> en día enseñan la confesión como la solución al pecado, para Juan la solución era nuestro abogado: Jesucristo el Justo.
 
-### 1 Juan 2:2 - Entonces, ¿de qué forma funciona Jesucristo como la solución para nuestros pecados, en relación con nuestro Padre? Juan dice: *Él mismo es la propiciación por nuestros pecados, y no solo por los nuestros, sino también por los del mundo entero.*
+#### “Tenemos abogado” es una declaración segura. No hay creyente cuyo abogado no sea Jesucristo el Justo. El problema de nuestros pecados, aun en el caso de que pequemos <u>como</u> creyentes, ha sido solucionado por medio de Jesucristo. 2 Corintios 5:17-21
 
-#### Juan quiere que entendamos que Jesucristo ha tratado completamente con el problema de los pecados para con Dios. A parte de Jesucristo, no existe solución alguna provista por Dios para los pecados de toda la humanidad. 1 Corintios 15:3-4
+### 1 Juan 2:2 - Entonces, ¿de qué forma funciona Jesucristo como la solución para nuestros pecados, en relación con <u>nuestro</u> Padre? Juan dice: *Él mismo es la propiciación por nuestros pecados, y no solo por los nuestros, sino también por los del mundo entero.*
 
-#### Esto no quiere decir que todas las personas en el mundo son salvas solamente porque Cristo es la propiciación por nuestros pecados. Cristo es el medio por el cual el mundo puede estar bien con Dios, pero fuera de Cristo, el mundo está condenado. Romanos 3:21-26; Juan 3:17-18
+#### Juan quiere que entendamos que Jesucristo ha tratado completamente con el problema de los pecados para con Dios. A parte de Jesucristo, no existe <u>solución</u> alguna provista por Dios para los pecados de toda la humanidad. 1 Corintios 15:3-4
 
-#### La propiciación por nuestros pecados explica el hecho de porque Él puede abogar por los creyentes (no por todo el mundo).
+#### Esto <u>no</u> quiere decir que todas las personas en el mundo son salvas solamente porque Cristo es la propiciación por nuestros pecados. Sino que Cristo es el medio por el cual el mundo puede estar bien con Dios, pero fuera de Cristo, el mundo está condenado. Romanos 3:21-26; Juan 3:17-18
 
-#### Primero debemos notar que Juan dice que Él mismo como persona es la propiciación por nuestros pecados. Juan no dice que hizo una propiciación por nosotros. Hebreos 7:25-27, 9:11-12, 24-26, 10:8-14
+#### La propiciación por nuestros pecados <u>explica</u> el hecho de porque Él puede abogar por los creyentes (no por todo el mundo).
+
+#### Primero debemos notar que Juan dice que Él mismo como persona es la propiciación por nuestros pecados. Juan no dice que hizo una propiciación <u>por</u> nosotros. Hebreos 7:25-27, 9:11-12, 24-26, 10:8-14
 
 #### El concepto de propiciación es entendido comprendiendo lo que era el propiciatorio para los Israelitas.
 
-##### El propiciatorio es la tapa del arca del pacto, donde una ofrenda por los pecados era derramada para así poder acceder a la presencia de Dios. Éxodo 25:22; Levítico 16:2,
+##### El propiciatorio es la <u>tapa</u> del arca del pacto, donde una ofrenda por los pecados era derramada para así poder acceder a la presencia de Dios. Éxodo 25:22; Levítico 16:2,
 
-##### De ahí entonces deriva la propiciación como hecho de un sacrificio ofrecido y aceptado por Dios, haciendo propiciación por los pecados.
+##### De ahí entonces deriva la propiciación como hecho de un sacrificio ofrecido y <u>aceptado</u> por Dios, haciendo propiciación por los pecados.
 
-##### Es importante entender que lo que hacían los israelitas no solucionaba el problema, solamente apuntaba a la solución de Dios. Hebreos 9:5-12
+##### Es importante entender que lo que hacían los israelitas no solucionaba el problema, solamente apuntaba a la <u>solución</u> de Dios. Hebreos 9:5-12
 
-#### Jesucristo el Justo es entonces la propiciación, como sacrificio completamente aceptado por el Padre a favor de los pecados de toda la humanidad. Es en base a Su sacrificio que puede abogar por aquellos que han creído en Él. Romanos 3:24-24; 2 Corintios 5:18-21; 1 Timoteo 2:5
+#### Jesucristo el Justo es entonces la propiciación, como sacrificio completamente aceptado por el Padre a favor de los pecados de toda la humanidad. Es en base a Su sacrificio que puede abogar por aquellos que han <u>creído</u> en Él. Romanos 3:24-24; 2 Corintios 5:18-21; 1 Timoteo 2:5
 
-#### Es entonces debido a la intercesión contínua de Cristo como propiciación por nuestros pecados, que los creyentes hallan acceso continuo al Padre y disfrutan de una comunión con Él. Siempre la relación que Dios y el Hombre disfrutan es en base a la provisión de Dios el Padre en la persona de Su Hijo Jesucristo para nosotros.
+#### Es entonces debido a la intercesión continua de Cristo como propiciación por nuestros pecados, que los creyentes hallan acceso continuo al Padre y disfrutan de una comunión con Él. Siempre la relación que Dios y el Hombre disfrutan es en <u>base</u> a la provisión de Dios el Padre en la persona de Su Hijo Jesucristo para nosotros.
 
-### 1 Juan 2:3-6 – Alguien podría decir, entonces simplemente no tengo que pecar, y estoy bien con Dios, y justamente para eso, Juan mostrará que hemos sido salvados por Dios **para** participar de Su vida, y Su vida no consiste en dejar de pecar. Una vida abundante no es solamente dejar de pecar, sino que podemos vivir a Cristo y esto es jústamente lo que expresaron los apóstoles cuando hablaron de ver, oir, contemplar y palpar el verbo de vida.
+## 1 Juan 2:3-6 – Permanecer en Cristo
 
-#### En esta sección Juan mostrará quien verdaderamente es aquel que está viviendo por el conocimiento que tiene de Dios, y quien está andando en tinieblas. Juan dirá que debido a lo que Dios ha revelado a ellos por medio de Jesucristo pueden experimentar Su vida; así también nosotros, por medio del mensaje anunciado podemos vivir por el conocimiento que tenemos de Él.
+### Alguien podría decir, entonces simplemente no tengo que pecar, y estoy bien con Dios, y justamente para eso, Juan mostrará que hemos sido salvados por Dios **para** participar de Su vida, y Su vida no consiste en dejar de pecar. Una vida abundante no es solamente dejar de <u>pecar</u>, sino que podemos vivir a Cristo y esto es justamente lo que expresaron los apóstoles cuando hablaron de ver, oír, contemplar y palpar el verbo de vida.
 
-### 1 Juan 2:3 - *Y en esto sabemos que lo hemos llegado a conocer: si guardamos sus mandamientos.* Cuando un creyente guarda los mandamientos de Dios, la explicación es que lo conoce, es decir está viviendo por el conocimiento que tiene de Dios. Juan 13:35
+### En esta sección Juan mostrará quien verdaderamente es aquel que está viviendo por el conocimiento que tiene de Dios, y quien está andando en tinieblas. Juan dirá que debido a lo que Dios ha revelado a ellos por medio de Jesucristo pueden experimentar Su vida; así también nosotros, por <u>medio</u> del mensaje anunciado podemos vivir por el conocimiento que tenemos de Él.
 
-#### Si estamos participando de la vida de Dios, es porque Cristo nos lleva a guardar sus mandamientos.
+### 1 Juan 2:3 - *Y en esto sabemos que lo hemos llegado a conocer: si guardamos sus mandamientos.* Cuando un creyente guarda los mandamientos de Dios, la explicación es que lo <u>conoce</u>, es decir está viviendo por el conocimiento que tiene de Dios. Juan 13:35
 
-#### Jesús no solamente es la provisión de Dios para solucionar el problema de nuestros pecados, sino que la solución que Él provee para nosotros nos posibilita vivir ahora de acuerdo a la voluntad de Dios.
+#### Si estamos participando de la vida de Dios, es porque Cristo nos <u>lleva</u> a guardar sus mandamientos.
 
-### 1 Juan 2:4 – *El que dice: “Yo lo he llegado a conocer”, y no guarda sus mandamientos, es un mentiroso y la verdad no está en él.* Cualquier creyente puede afirmar conocer a Dios, pero este conocimiento para Juan es solo real si es el creyente guarda sus mandamientos, de lo contrario, es un mentiroso.
+#### Jesús no solamente es la provisión de Dios para solucionar el problema de nuestros pecados, sino que la solución que Él provee para nosotros nos posibilita vivir <u>ahora</u> de acuerdo a la voluntad de Dios.
+
+### 1 Juan 2:4 – *El que dice: “Yo lo he llegado a conocer”, y no guarda sus mandamientos, es un mentiroso y la verdad no está en él.* Cualquier creyente <u>puede</u> afirmar conocer a Dios, pero este conocimiento para Juan es solo real si es el creyente guarda sus mandamientos, de lo contrario, es un mentiroso.
 
 #### El conocimiento aquí es un conocimiento experiencial que estamos teniendo a través de la persona de Jesucristo.
 
-#### Esta declaración de: *“Yo lo he llegado a conocer”*, no va de la mano de alguien que no guarda Sus mandamientos. No participamos de la vida de Cristo a menos que por fe nos apropiemos de lo que Él es para nosotros.
+#### Esta declaración de: *“Yo lo he llegado a conocer”*, no va de la mano de alguien que no guarda Sus mandamientos. No participamos de la vida de Cristo a menos que por <u>fe</u> nos apropiemos de lo que Él es para nosotros.
 
-#### Para Juan es importante que lo creyentes vivan de acuerdo a lo que han oído de Dios, a través del anuncio de Cristo. De hecho, quiere que vivamos con la garantía de que estamos teniendo comunión con Él.
+#### Para Juan es importante que lo creyentes <u>vivan</u> de acuerdo a lo que han oído de Dios, a través del anuncio de Cristo. De hecho, quiere que vivamos con la garantía de que estamos teniendo comunión con Él.
 
-### 1 Juan 2:5 – *Pero el que guarda su Palabra, en él verdaderamente se ha perfeccionado el amor de Dios. En esto sabemos que estamos en Él.* Si un creyente esta guardando la Palabra de Dios, la explicación es que algo sucedió en él: “*en él verdaderamente se ha perfeccionado el amor de Dios*”.
+### 1 Juan 2:5 – *Pero el que guarda su Palabra, en él verdaderamente se ha perfeccionado el amor de Dios. En esto sabemos que estamos en Él.* Si un creyente esta guardando la Palabra de Dios, la explicación <u>es</u> que algo sucedió en él: “*en él verdaderamente se ha perfeccionado el amor de Dios*”.
 
-#### Juan está introduciendo conceptos que, a lo largo de la carta, y a través de la repetición, se tomará el tiempo de explicar.
+#### Juan está introduciendo conceptos que, a lo <u>largo</u> de la carta, y a través de la repetición, se tomará el tiempo de explicar.
 
-#### Tres conceptos son: guardar Sus mandamientos, perfeccionar el amor de Dios, y permanecer en Él.
+#### Tres conceptos son: guardar Sus mandamientos, perfeccionar el <u>amor</u> de Dios, y permanecer en Él.
 
-#### Dos cosas son ciertas aquí: Dios quiere que podamos tener la certeza de que estamos en Él (para refugiarnos en Él, o permanecer en Él), y quiere perfeccionar Su amor en nosotros. Esto es realizado en alguien que lo conoce.
+#### Dos cosas son ciertas aquí: Dios quiere <u>que</u> podamos tener la certeza de que estamos en Él (para refugiarnos en Él, o permanecer en Él), y quiere perfeccionar Su amor en nosotros. Esto es realizado en alguien que lo conoce.
 
-#### Los versículos 4-5 son un contraste donde la realidad de uno no depende de sus palabras, sino de algo que Dios está obrando en él. Ambos casos son el resultado de algo externo, y no producto del esfuerzo de uno.
+#### Los versículos 4-5 son un contraste donde la <u>realidad</u> de uno no depende de sus palabras, sino de algo que Dios está obrando en él. Ambos casos son el resultado de algo externo, y no producto del esfuerzo de uno.
 
-#### El que no guarda Sus mandamientos, está viviendo por una mentira: *“la verdad no está **en** él*”.
+#### El que no guarda Sus mandamientos, está <u>viviendo</u> por una mentira: *“la verdad no está **en** él*”.
 
-#### El que guarda Su Palabra, esta viviendo por el amor de Dios perfeccionado en él: *“el amor de Dios se ha perfeccionado **en** él”*
+#### El que guarda <u>Su</u> Palabra, esta viviendo por el amor de Dios perfeccionado en él: *“el amor de Dios se ha perfeccionado **en** él”*
 
-#### Más adelante aprenderemos más del hecho de que a medida que vivimos permaneciendo en Cristo, y considerando el amor de Dios para con nosotros en la persona de Su Hijo, podremos vivir vidas que Le son agradables en un sentido práctico, podremos ser vistos como lo que somos.
+#### Más adelante aprenderemos más del hecho de que a medida que vivimos permaneciendo en Cristo, y considerando el amor de Dios para con nosotros en la persona de Su Hijo, podremos vivir vidas que Le son agradables en un sentido práctico, podremos ser <u>vistos</u> como lo que somos.
 
-### 1 Juan 2:6 – *“El que dice que permanece en él, debe andar como el anduvo”* Aquí Juan concluye sus declaraciones mostrando que aquel que permanece en Dios, anda como Él anduvo. Es decir, que la vida de Cristo es reproducida en aquellos que permanecen en Cristo.
+### 1 Juan 2:6 – *“El que dice que permanece en él, debe andar como el anduvo”* Aquí Juan concluye sus declaraciones mostrando que aquel que permanece en <u>Dios</u>, anda como Él anduvo. Es decir, que la vida de Cristo es reproducida en aquellos que permanecen en Cristo.
 
-#### Jesús fue quien les enseñó a sus discípulos a permanecer en Él para así poder llevar fruto para Dios. Esto expresa la idea de una comunión activa con Dios. Juan 15:1-8
+#### Jesús fue quien les enseñó a sus discípulos a permanecer en Él para así poder llevar fruto para Dios. Esto expresa la <u>idea</u> de una comunión activa con Dios. Juan 15:1-8
 
-#### Por lo tanto *“debe andar como el anduvo”* va de acuerdo con la promesa que Jesús hizo de que aquel que permanece en Él, lleva fruto.
+#### Por lo tanto *“debe andar como el anduvo”* va de acuerdo con la promesa que <u>Jesús</u> hizo de que aquel que permanece en Él, lleva fruto.
 
-#### En el versículo 5 Juan dijo que “*En esto sabemos que estamos en Él...”*, ahora que sabemos que estamos posicionados en Él y tenemos esa garantía, podemos permanecer en Él.
+#### En el versículo 5 Juan dijo que “*En esto sabemos que estamos en Él...”*, ahora que sabemos que estamos posicionados en Él y tenemos esa garantía, <u>podemos</u> permanecer en Él.
 
-#### Para que esta declaración sea cierta: *“el que dice que permanece en él”,* debe haber una vida que lo demuestre, ya que de por medio está la garantía del poder de Cristo en nosotros para llevar fruto.
+#### Para que esta declaración sea cierta: *“el que dice que permanece en él”,* debe haber una vida que lo demuestre, ya que de por <u>medio</u> está la garantía del poder de Cristo en nosotros para llevar fruto.
 
-#### Entonces, ¿Cómo anduvo él?
+#### Entonces, ¿Cómo anduvo Él?
 
 ## 1 Juan 2:7-11 - Una vida de amor
 
-### 1 Juan 2:7a - "*Amados...*" Juan nuevamente usa un término cariñoso para referirse a los destinatarios. Lo hará varias veces a lo largo del libro. Esto muestra que Juan tiene las mejores intenciones para ellos al comunicarles la verdad.
+### 1 Juan 2:7a - "*Amados...*" Juan nuevamente usa un término cariñoso para referirse a los destinatarios. Lo hará varias veces a lo largo del libro. Esto muestra que <u>Juan</u> tiene las mejores intenciones para ellos al comunicarles la verdad.
 
-### 1 Juan 2:7b -  *no les escribo un mandamiento nuevo, sino un mandamiento antiguo, que han tenido desde el principio.* *“un mandamiento antiguo”*, muestra el hecho de que Dios siempre apunto hacia el amor los unos a los otros, y *“han tenido desde el principio”* muestra que ellos habían sido enseñados en esto por los apóstoles.
+### 1 Juan 2:7b -  *no les escribo un mandamiento nuevo, sino un mandamiento antiguo, que han tenido desde el principio.* *“un mandamiento antiguo”*, muestra el hecho de que Dios siempre apunto hacia el amor los unos a los otros, y *“han tenido desde el principio”* muestra que ellos habían sido enseñados en <u>esto</u> por los apóstoles.
 
-### 1 Juan 2:7c - *El mandamiento antiguo es la palabra que han oído.”* El andar de Cristo va de acuerdo a lo que Dios siempre ha mostrado en Su Palabra, el amor los unos por los otros. 1 Juan 3:11; 2 Juan 5
+### 1 Juan 2:7c - *El mandamiento antiguo es la palabra que han oído.”* El andar de Cristo va de acuerdo a lo que Dios siempre ha mostrado en Su Palabra, el <u>amor</u> los unos por los otros. 1 Juan 3:11; 2 Juan 5
 
-#### Juan aclara que lo que en realidad debería ser su vida no es contrario a lo que Dios muestra en las escrituras, o al mensaje que ellos les habían compartido desde el principio.
+#### Juan aclara que lo que en realidad debería ser su <u>vida</u> no es contrario a lo que Dios muestra en las escrituras, o al mensaje que ellos les habían compartido desde el principio.
 
-#### Es por causa del gran amor de Dios para con nosotros que envió a su Hijo para salvarnos. Si alguien había escuchado de Cristo había oído entonces del amor. Juan 3:16
+#### Es por causa del gran amor de Dios para con nosotros que envió a su Hijo para salvarnos. Si alguien había escuchado de <u>Cristo</u> había oído entonces del amor. Juan 3:16
 
-#### El amor cumple con las exigencias de la Ley. Esto significa que las exigencias justas de la Ley se cumplen cuando nos amamos los unos a los otros. Este no es un concepto novedoso puesto que ya fue manifestado en las escrituras del Antiguo Testamento. Levítico 19:18; Mateo 22:35-40; Romanos 13:8-10
+#### El amor cumple con las exigencias de la Ley. Esto significa que las exigencias justas de la Ley se cumplen cuando nos amamos los <u>unos</u> a los otros. Este no es un concepto novedoso puesto que ya fue manifestado en las escrituras del Antiguo Testamento. Levítico 19:18; Mateo 22:35-40; Romanos 13:8-10
 
-#### Jesús comisionó a Sus discípulos a hacer discípulos *“...enseñándoles que guarden todas las cosas que os he mandado”.* Fiel a esto, Juan muestra que sus amados habían oído esta palabra desde el principio: *“el mandamiento antiguo es la palabra que han oído”*.
+#### Jesús comisionó a Sus discípulos a hacer discípulos *“...enseñándoles que guarden todas las cosas que os he mandado”.* Fiel a esto, Juan muestra que sus <u>amados</u> habían oído esta palabra desde el principio: *“el mandamiento antiguo es la palabra que han oído”*.
 
-### 1 Juan 2:8a – *“Por otra parte les escribo un mandamiento nuevo…”* Sin embargo, Juan irá un poco más allá del mandamiento antiguo (previamente revelado). Juan les mostrará que nosotros debemos andar de la mismo forma que Cristo anduvo, y Jesús es la revelación más grande de amor.
+### 1 Juan 2:8a – *“Por otra parte les escribo un mandamiento nuevo…”* Sin embargo, Juan irá un poco más allá del mandamiento antiguo (previamente revelado). Juan les mostrará que nosotros debemos andar de la mismo forma que Cristo anduvo, y Jesús es la revelación más grande de <u>amor</u>.
 
-#### Debido a que los amados han conocido a Dios, Juan les muestra que pueden reproducir el mismo amor que Cristo tuvo por nosotros. Jesús les dio este nuevo mandamiento a sus discípulos. Juan 13:34
+#### Debido a que los amados <u>han</u> conocido a Dios, Juan les muestra que pueden reproducir el mismo amor que Cristo tuvo por nosotros. Jesús les dio este nuevo mandamiento a sus discípulos. Juan 13:34
 
-#### El amor no fue completamente revelado hasta que Cristo nos amó y puso su vida por nosotros.
+#### El amor no fue completamente revelado hasta que <u>Cristo</u> nos amó y puso su vida por nosotros.
 
-#### Entonces el amor que ahora Juan está escribiendo (un nuevo mandamiento), el cual se espera que haya entre los creyentes es la expresión del amor que Cristo tuvo por nosotros.
+#### Entonces el amor que <u>ahora</u> Juan está escribiendo (un nuevo mandamiento), el cual se espera que haya entre los creyentes es la expresión del amor que Cristo tuvo por nosotros.
 
-### 1 Juan 2:8b - *“el cual es verdadero en él y en ustedes”,* Ya que este amor existe en Dios, y nosotros estamos en él, podemos acceder a la misma fuente de este amor.
+### 1 Juan 2:8b - *“el cual es verdadero en él y en ustedes”,* Ya que este <u>amor</u> existe en Dios, y nosotros estamos en él, podemos acceder a la misma fuente de este amor.
 
-### 1 Juan 2:8c - *…porque las tinieblas van pasando, y la luz verdadera ya está alumbrando.* Aquí vemos el carácter pasajero de las tinieblas, causado por la intensificación de la luz verdadera. La victoria de Cristo sobre las tinieblas ha provisto un nuevo camino para la humanidad, la vida de Cristo en nosotros. Es Jesús que está brillando a través de los creyentes que permanecen en Él. Nosotros como hijos de Dios podemos disfrutar de los logros de Cristo. Romanos 13:11-14
+### 1 Juan 2:8c - *…porque las tinieblas van pasando, y la luz verdadera ya está alumbrando.* Aquí vemos el carácter pasajero de las tinieblas, causado por la intensificación de la <u>luz</u> verdadera. 
 
-### 1 Juan 2:9-10 – *El que dice que está en la Luz y aborrece a su hermano, está aún en tinieblas. El que ama a su hermano, permanece en la Luz y no hay causa de tropiezo en él.* A través de esta comparación Juan muestra que una vida de amor es el resultado de la Luz, así como una vida que odio, es el resultado de las tinieblas.
+#### La victoria de Cristo sobre las tinieblas ha provisto un nuevo camino para la humanidad, la vida de Cristo en nosotros. Es Jesús que está brillando a través de los creyentes <u>que</u> permanecen en Él. Nosotros como hijos de Dios podemos disfrutar de los logros de Cristo. Romanos 13:11-14
+
+### 1 Juan 2:9-10 – *El que dice que está en la Luz y aborrece a su hermano, está aún en tinieblas. El que ama a su hermano, permanece en la Luz y no hay causa de tropiezo en él.* A través de esta comparación Juan muestra que una vida de amor es el resultado de la Luz, así como una <u>vida</u> que odio, es el resultado de las tinieblas.
 
 #### Nunca el odio puede ser producida por la Luz. Si alguien está odiando, es porque está bajo el dominio de las tinieblas. Gálatas 5:19-21
 
-#### Sin embargo, alguien que está amando muestra que dos cosas son ciertas sobre él:
+#### Sin embargo, alguien que está amando muestra que <u>dos</u> cosas son ciertas sobre él:
 
-##### Está permaneciendo en la Luz, entonces el amor está siendo el producto de Dios.
+##### Está permaneciendo en la <u>Luz</u>, entonces el amor está siendo el producto de Dios.
 
-##### No hay causa de tropiezo en él, es decir ni el cae, ni causa a otros caer. Esta es una vida preocupada por el bienestar, o lo mejor del prójimo. Filipenses 2:3-4
+##### No hay causa de tropiezo en él, es decir ni el cae, ni causa a otros caer. Esta es una <u>vida</u> preocupada por el bienestar, o lo mejor del prójimo. Filipenses 2:3-4
 
-### 1 Juan 2:11 – *Pero el que aborrece a su hermano, está en tinieblas y anda en tinieblas, y no sabe a dónde va, porque las tinieblas han cegado sus ojos.* Juan concluye que aquel que está odiando a su hermano (es decir el caso de un creyente), es porque las tinieblas han tomado control sobre su vida, y en lugar de andar como el anduvo, no sabe ni a donde va.
+### 1 Juan 2:11 – *Pero el que aborrece a su hermano, está en tinieblas y anda en tinieblas, y no sabe a dónde va, porque las tinieblas han cegado sus ojos.* Juan concluye que aquel que está odiando a su hermano (es decir el caso de un creyente), es porque las tinieblas han tomado <u>control</u> sobre su vida, y en lugar de andar como el anduvo, no sabe ni a donde va.
 
 ## 1 Juan 2:12-14 Lo pasajero versus lo temporal, aquello que somos versos aquello a lo que no pertenecemos
 
-#### Juan dijo arriba porque las tinieblas van pasando y la luz verdadera ya está alumbrando. Esto es real de este mundo y lo que nosotros somos como hijos de Dios en este mundo.
+#### Juan dijo arriba porque las tinieblas van pasando y la luz verdadera ya está alumbrando. Esto es real de este <u>mundo</u> y lo que nosotros somos como hijos de Dios en este mundo.
 
-#### Así que primero recordara nuestra realidad, para mostrarnos de que cosas no debemos participar, y cómo estas tienen la capacidad de cegarnos. Nos enfoca en lo pasajero y no en aquello que permanece para siempre.
+#### Así que primero recordara nuestra realidad, para mostrarnos de que cosas no debemos participar, y cómo estas tienen la capacidad de cegarnos. Nos <u>enfoca</u> en lo pasajero y no en aquello que permanece para siempre.
 
-#### En esta sección Juan utilizara diferentes términos para referirse a sus amados: hijos, padres, niños y jóvenes. Mostrando como todos son parte de una familia, la misma, aún a pesar del estado espiritual, o conocimiento que tengan de Dios
+#### En esta sección Juan utilizara diferentes términos para referirse a sus amados: hijos, padres, niños y jóvenes. Mostrando como todos son <u>parte</u> de una familia, la misma, aún a pesar del estado espiritual, o conocimiento que tengan de Dios
 
-### 1 Juan 2:12 – *Les escribo a ustedes, hijos, porque sus pecados les han sido perdonados por el nombre de Cristo.* Esto es una realidad de cada creyente, el término: *“les han sido perdonados”*, muestra una acción hecha y completada en el pasado.
+### 1 Juan 2:12 – *Les escribo a ustedes, hijos, porque sus pecados les han sido perdonados por el nombre de Cristo.* Esto es una realidad de <u>cada</u> creyente, el término: *“les han sido perdonados”*, muestra una acción hecha y completada en el pasado.
 
-#### Es por medio del nombre de Cristo que todos nuestros pecados han sido perdonados. Cristo logró el perdón completo por nuestros pecados pagando por cada uno de ellos, en la cruz. Colosenses 1:13-14, 2:13-15, Efesios 1:7
+#### Es por medio del nombre de Cristo que todos nuestros pecados han <u>sido</u> perdonados. Cristo logró el perdón completo por nuestros pecados pagando por cada uno de ellos, en la cruz. Colosenses 1:13-14, 2:13-15, Efesios 1:7
 
-#### El Nombre de Cristo es una muestra de quién es él y lo que él hizo por nuestros pecados, Jesús murió por nuestros pecados, fue sepultados, y resucitó al tercer día. 1 Corintios 15:3-4
+#### El Nombre de Cristo es una muestra de quién es él y lo que él hizo <u>por</u> nuestros pecados, Jesús murió por nuestros pecados, fue sepultados, y resucitó al tercer día. 1 Corintios 15:3-4
 
-#### Como hemos visto, a medida que andamos en luz, y vivimos por el conocimiento de la fidelidad y justicia de Dios, disfrutamos diariamente de su perdón (1 Juan 1:9). Ya que el continua mente intercede por nosotros por nuestros pecados (1 Juan 2:1).
+#### Como hemos visto, a medida que andamos en luz, y vivimos <u>por</u> el conocimiento de la fidelidad y justicia de Dios, disfrutamos diariamente de su perdón (1 Juan 1:9). Ya que el continua mente intercede por nosotros por nuestros pecados (1 Juan 2:1).
 
-### 1 Juan 2:13a – *Les escribo a ustedes, padres, porque conocen a Aquel que ha sido desde el principio…* También es real que cada creyente conoce a Jesucristo, *“Aquel que ha sido desde el principio”.* Por medio de Cristo hemos obtenido entrada al Padre. Nadie estaría en una relación con Dios si no fuera por él.
+### 1 Juan 2:13a – *Les escribo a ustedes, padres, porque conocen a Aquel que ha sido desde el principio…* También es <u>real</u> que cada creyente conoce a Jesucristo, *“Aquel que ha sido desde el principio”.* Por medio de Cristo hemos obtenido entrada al Padre. Nadie estaría en una relación con Dios si no fuera por él.
 
-### 1 Juan 2:13b - *…Les escribo a ustedes, jóvenes, porque han vencido al maligno…* Cada creyente por medio de Cristo ha triunfado sobre el maligno.
+### 1 Juan 2:13b - *…Les escribo a ustedes, jóvenes, porque han vencido al maligno…* Cada creyente por <u>medio</u> de Cristo ha triunfado sobre el maligno.
 
-#### “han vencido”, es una declaración en tiempo perfecto mostrando que es un hecho realizado en el pasado pero que sigue con efecto hasta el tiempo presente.
+#### “han vencido”, es una declaración en tiempo perfecto mostrando que es un hecho realizado en el pasado pero que sigue con <u>efecto</u> hasta el tiempo presente.
 
-#### La victoria de Cristo en su obra por nosotros, ha logrado completa victoria sobre Satanás. Esto no significa que él ha dejado de existir o de que no sigue obrando, pero este dominio no tiene más poder sobre los creyentes.
+#### La victoria de Cristo en su obra por nosotros, ha logrado completa victoria <u>sobre</u> Satanás. Esto no significa que él ha dejado de existir o de que no sigue obrando, pero este dominio no tiene más poder sobre los creyentes.
 
-#### Como veremos más adelante, este espíritu aún opera en este mundo, algo que también Pablo menciona en diferentes epístolas. Efesios 2:2-3, 2 Tesalonicenses 2:7
+#### Como veremos más adelante, este espíritu aún <u>opera</u> en este mundo, algo que también Pablo menciona en diferentes epístolas. Efesios 2:2-3, 2 Tesalonicenses 2:7
 
-#### Colosenses 1:13, aunque vivíamos bajo su dominio, Dios nos ha trasladado al dominio de su Hijo, por lo tanto, en Cristo, somos vencedores. Romanos 8:37
+#### Colosenses 1:13, aunque vivíamos bajo su dominio, <u>Dios</u> nos ha trasladado al dominio de su Hijo, por lo tanto, en Cristo, somos vencedores. Romanos 8:37
 
-### 1 Juan 2:13c - *…Les he escrito a ustedes niños porque conocen al Padre.* Todo creyente disfruta la bendición de tener acceso por medio de Cristo, y su espíritu que nos ha dado, directamente al Padre. De hecho tenemos tal certeza de esto que por medio del Espíritu Santo clamamos: Abba Padre Romanos 8:15, Efesios 1:3
+### 1 Juan 2:13c - *…Les he escrito a ustedes niños porque conocen al Padre.* Todo creyente disfruta la bendición de tener acceso por medio de Cristo, y su espíritu que nos ha dado, directamente al Padre. De hecho tenemos tal certeza de esto que por medio del <u>Espíritu</u> Santo clamamos: Abba Padre Romanos 8:15, Efesios 1:3
 
-### 1 Juan 2:14a – *Les he escrito a ustedes Padres porque conocen a Aquel que ha sido desde el principio…*Juan utiliza la repetición como una forma de enseñanza mostrando la veracidad y certeza de estas declaraciones. Es algo que escribe, (v13a), y es algo que ha escrito, (v14a).
+### 1 Juan 2:14a – *Les he escrito a ustedes Padres porque conocen a Aquel que ha sido desde el principio…* Juan utiliza la repetición como una forma de enseñanza mostrando la veracidad y <u>certeza</u> de estas declaraciones. Es algo que escribe, (v13a), y es algo que ha escrito, (v14a).
 
 ### 1 Juan 2:14b - *…Les he escrito a ustedes, jóvenes, porque son fuertes y la palabra de Dios permanece en ustedes y han vencido al maligno.*
 
-#### *“porque son fuertes”,* Esta declaración es cierta debido a la fortaleza de Cristo en nosotros, ningún creyente es intrínsecamente fuerte, de tal modo que no necesita de la fortaleza de Dios. Pero debido a nuestra posición tenemos la fortaleza de Cristo en nosotros, debemos aprovecharnos de ella, permaneciendo en él. Filipenses 4:13, Juan 15:5,
+#### *“porque son fuertes”,* Esta declaración es cierta debido a la fortaleza de Cristo en nosotros, ningún creyente es intrínsecamente fuerte, de tal modo que no necesita de la fortaleza de <u>Dios</u>. Pero <u>debido</u> a nuestra posición tenemos la fortaleza de Cristo en nosotros, debemos aprovecharnos de ella, permaneciendo en él. Filipenses 4:13, Juan 15:5,
 
-#### Isaías 40:27-31, un fuerte es aquel que espera en el Señor.
+#### Isaías 40:27-31, un fuerte es aquel que espera en el <u>Señor</u>.
 
-#### *“y la palabra de Dios permanece en ustedes”,* En Santiago 1:21, el autor menciona “la palabra implantada”. Implantado aquí significa innato, genético o arraigado. Al creer en el evangelio, Cristo vino a vivir dentro de nosotros (Gálatas 2:20, Efesios 1:14). Cristo y su palabra son sinónimos. Salmo 138:2, Juan 1:1, Colosenses 3:16, 1 Pedro 1:23
+#### *“y la palabra de Dios permanece en ustedes”,* En Santiago 1:21, el autor menciona “la palabra implantada”. Implantado aquí significa innato, genético o arraigado. Al creer en el evangelio, Cristo vino a vivir dentro de nosotros (Gálatas 2:20, Efesios 1:14). <u>Cristo</u> y su palabra son sinónimos. Salmo 138:2, Juan 1:1, Colosenses 3:16, 1 Pedro 1:23
 
-#### Tenemos total certeza de que Cristo permanece en nosotros, y es él quien hace su obra en nosotros llevándonos a crecer. Colosenses 2:6-8, 3:16
+#### Tenemos total certeza de que Cristo permanece en nosotros, y Dios quien hace Su obra en nosotros llevándonos a crecer. Colosenses 2:6-8, 3:16
 
-#### *“han vencido al maligno”,* nuevamente esto es un hecho de cada creyente por medio de Cristo.
+#### *“han vencido al maligno”,* nuevamente esto es un hecho de cada creyente por <u>medio</u> de Cristo.
 
-#### Es importante destacar que es jamás podría ser verdad de uno mismo si no fuera por medio de Cristo, para entender que esta es nuestra realidad, necesitamos vernos como lo que somos en él, y no en nosotros mismos. Él es nuestra fortaleza y nuestra victoria. 1 Corintios 15:10
+#### Es importante destacar que es jamás podría ser verdad de uno mismo si no fuera por <u>medio</u> de Cristo, para entender que esta es nuestra realidad, necesitamos vernos como lo que somos en él, y no en nosotros mismos. Él es nuestra fortaleza y nuestra victoria. 1 Corintios 15:10
 
-#### Debemos reconocer que esta no es la forma en la que muchas veces nos consideramos a nosotros mismos. Muchos creyentes suelen mirarse a sí mismos, ignorando como es que Dios los ve a ellos.
+#### Debemos reconocer que esta no es la forma en la que muchas veces nos consideramos a nosotros mismos. Muchos creyentes <u>suelen</u> mirarse a sí mismos, ignorando como es que Dios los ve a ellos.
 
-#### Que bendiciones tremendas para con Dios, y en esta vida que tenemos en la persona de Jesucristo. Haríamos bien en conocerlas, y vivir por ellas. Filipenses 3:7-12, 2 Pedro 1:3
+#### Que bendiciones tremendas para con Dios, y en esta vida que tenemos en la persona de Jesucristo. Haríamos bien en conocerlas, y <u>vivir</u> por ellas. Filipenses 3:7-12, 2 Pedro 1:3
 
 ## 1 Juan 2:15-17 - Habiendo ahora considerado todo aquello que somos y todo aquello que por medio de Cristo se ha convertido en nuestra realidad, Juan dará el primer imperativo en la Carta. No hemos sido creados en Cristo para una vida que pasa, sino una que permanece para siempre.
 
-### 1 Juan 2:15a – *No amen al mundo ni las cosas que están en el mundo.* Como creyentes no debemos amar este mundo, ni nada de las cosas que este mundo posee.
+### 1 Juan 2:15a – *No amen al mundo ni las cosas que están en el mundo.* Como creyentes no debemos amar este mundo, ni nada de las cosas que este mundo <u>posee</u>.
 
-#### Aunque vivimos en este mundo, no somos de este mundo. Juan 17:14-17
+#### Aunque vivimos en este mundo, no <u>somos</u> de este mundo. Juan 17:14-17
 
-#### Podemos considerarnos simplemente peregrinos y extranjeros mientras caminamos por este mundo ya que nuestra ciudadanía está en los cielos. 1 Pedro 1:17, Filipenses 3:20-21
+#### Podemos considerarnos simplemente peregrinos y extranjeros mientras caminamos por <u>este</u> mundo ya que nuestra ciudadanía está en los cielos. 1 Pedro 1:17, Filipenses 3:20-21
 
-#### El mundo no es solamente el planeta en el que vivismos, sino un sistema que está controlado por el maligno. Es a través de lo temporal y pasajero que Satanás ciega a muchos y los lleva a caminar en tinieblas. 1 Juan 5:19
+#### El mundo no es solamente el planeta en el que vivimos, sino un sistema que está controlado <u>por</u> el maligno. Es a través de lo temporal y pasajero que Satanás ciega a muchos y los lleva a caminar en tinieblas. 1 Juan 5:19
 
-#### Juan no quiere que el amor que Dios ha derramado sobre nosotros nos lleva a perder nuestras vidas en el mundo, y las cosas que este tiene. El amor de Dios para con nosotros es para derramarlo sobre otros. Por eso dice *“no amen”* usando el término ***ágape*** que es usado en referencia al amor que viene de Dios.
+#### Juan no quiere que el <u>amor</u> que Dios ha derramado sobre nosotros nos lleva a perder nuestras vidas en el mundo, y las cosas que este tiene. El amor de Dios para con nosotros es para derramarlo sobre otros. Por eso dice *“no amen”* usando el término ***ágape*** que es usado en referencia al amor que viene de Dios.
 
-### 1 Juan 2:15b – …*Si alguien ama al mundo el amor del Padre no está en él.* El amor por el mundo (como sistema) no viene del Padre, nadie puede decir que está amando el mundo porque Dios lo está llevando a hacerlo.
+### 1 Juan 2:15b – …*Si alguien ama al mundo el amor del Padre no está en él.* El amor por el mundo (como sistema) no viene del Padre, <u>nadie</u> puede decir que está amando el mundo porque Dios lo está llevando a hacerlo.
 
-#### Dios ha derramado su amor en cada uno de sus hijos, todos los creyentes son sus amados. Romanos 1:7, Romanos 5:5
+#### Dios ha derramado su amor en cada uno de sus hijos, todos los creyentes <u>son</u> sus amados. Romanos 1:7, Romanos 5:5
 
-#### Que no esté en nosotros aquí, no significa la ausencia de su amor, si no que no es porque el amor de Dios está obrando en nosotros que estamos amando este mundo.
+#### Que no esté en nosotros aquí, no significa la ausencia de su amor, si no que no es porque el amor de Dios <u>está</u> obrando en nosotros que estamos amando este mundo.
 
-### 1 Juan 2:16 Ahora Juan va a describir a lo que se refiero con *“las cosas que están en el mundo”: Porque todo lo que hay en el mundo…*
+### 1 Juan 2:16 Ahora Juan va a describir a lo que se refiero con *“las cosas que están en el <u>mundo</u>”: Porque todo lo que hay en el mundo…*
 
-### 1 Juan 2:16b – *…la pasión de la carne…* Aunque es la única vez que Juan utiliza este término aquí, podemos entender que esto se refiere a todo aquello que el pecado puede hacer a través de nuestros cuerpos como instrumentos de iniquidad. Romanos 6:12-14, 13:14 Gálatas 5:19-21, Efesios 2:3, 1 Pedro 2:11
+### 1 Juan 2:16b – *…la pasión de la carne…* Aunque es la única vez que Juan utiliza este término aquí, podemos entender que esto se refiere a todo aquello que el <u>pecado</u> puede hacer a través de nuestros cuerpos como instrumentos de iniquidad. Romanos 6:12-14, 13:14 Gálatas 5:19-21, Efesios 2:3, 1 Pedro 2:11
 
-### 1 Juan 2:16c - *…la pasión de los ojos…* Ojos aquí es genitivo. La pasión es de los ojos, no es pasión que proviene del Padre. 2 Corintios 4:18; 2 Pedro 2:14
+### 1 Juan 2:16c - *…la pasión de los ojos…* Ojos aquí es genitivo. La pasión es de los ojos, no es <u>pasión</u> que proviene del Padre. 2 Corintios 4:18; 2 Pedro 2:14
 
 #### Sabemos que nuestro cuerpo no es intrínsecamente malo, ya que este es el templo del Espíritu.
 
-#### Podemos entender esta declaración, como dos perspectivas por medio de las cuales miramos, cuando vemos dominados por la carne, o vemos a través del Espíritu.
+#### Podemos entender esta declaración, como dos perspectivas por <u>medio</u> de las cuales miramos, cuando vemos dominados por la carne, o vemos a través del Espíritu.
 
-#### Jesús enseño que los ojos son la lámpara del cuerpo, si miramos este mundo, y sus ofertas, estaremos en tinieblas, cegados por lo pasajero. Es por eso que ponemos la vista en las cosas de arriba y no en las de la tierra. Colosenses 3:1-4, Mateo 6:22-23
+#### Jesús enseño que los ojos son la lámpara del cuerpo, si miramos este mundo, y sus ofertas, estaremos en tinieblas, cegados por lo pasajero. Es por <u>eso</u> que ponemos la vista en las cosas de arriba y no en las de la tierra. Colosenses 3:1-4, Mateo 6:22-23
 
-### 1 Juan 2:16d *…la vanagloria de la vida…* La idea es llegar a ser alguien desde la perspectiva de este mundo.  Es llegar a tener el reconocimiento de los hombres.
+### 1 Juan 2:16d *…la vanagloria de la vida…* La idea es llegar a ser alguien desde la perspectiva de este mundo.  Es llegar a tener el reconocimiento de los <u>hombres</u>.
 
 ### 1 Juan 2:16e - Aunque Juan menciona tres cosas aquí, es claro que cada una de ellas *“no provienen del Padre, sino del mundo”.*
 
-#### Juan quiere que entendamos que no hemos sido salvados para hacer, tener o lograr algo que tenga reconocimiento de este mundo, sino una vida superior, que proviene del Padre.
+#### Juan quiere que entendamos que no hemos sido salvados para hacer, tener o lograr algo que tenga reconocimiento de este mundo, sino <u>una</u> vida superior, que proviene del Padre.
 
-#### El maligno ha usado este sistema para engañar a muchos y descalificarlos así de la carrera de la fe. 2 Timoteo 4:10; 1 Timoteo 6:6-12
+#### El maligno ha usado <u>este</u> sistema para engañar a muchos y descalificarlos así de la carrera de la fe. 2 Timoteo 4:10; 1 Timoteo 6:6-12
 
-#### Este mundo está centrado en uno mismo, el amor de Dios consiste en el bien del otro no en la autosatisfacción de la vida. La autosatisfacción, es una idea de este mundo, no de parte de Dios.
+#### Este mundo está centrado en uno mismo, el amor de Dios consiste en el bien del otro no en la autosatisfacción de la vida. La autosatisfacción, es una idea de este <u>mundo</u>, no de parte de Dios.
 
-### 1 Juan 2:17a - *El mundo pasa y también sus pasiones…* Todo lo que tiene el mundo es del mismo carácter que el mundo en sí mismo. Esta es una buena noticia para los creyentes, ya que tenemos la esperanza de que no siempre las tinieblas tendrán dominio sobre este siglo. Un día el dominio del maligno se acabará para siempre.
+### 1 Juan 2:17a - *El mundo pasa y también sus pasiones…* Todo lo que tiene el mundo es del mismo carácter que el mundo en sí mismo. Esta es una buena noticia para los creyentes, ya que tenemos la esperanza de que no siempre las <u>tinieblas</u> tendrán dominio sobre este siglo. Un día el dominio del maligno se acabará para siempre.
 
-### En 1 Juan 2:8 dijo: *“las tinieblas van pasando”* y aquí: “el mundo va pasando”. En lugar de tener simplemente una experiencia de vida que solamente sea pasajero (que es todo lo que el mundo tiene para ofrecer), Juan mostrará otro camino mejor:
+### En 1 Juan 2:8 dijo: *“las tinieblas van pasando”* y aquí: “el mundo va pasando”. En lugar de tener simplemente una experiencia de vida que solamente sea pasajero (que es todo lo que el mundo tiene para ofrecer), Juan mostrará otro <u>camino</u> mejor:
 
-### 1 Juan 2:17b - *...pero el que hace la voluntad de Dios permanece para siempre.* Es posible para el creyente experimentar la vida eterna que tiene desde el momento que ha sido justificado. Juan 17:3
+### 1 Juan 2:17b - *...pero el que hace la voluntad de Dios permanece para siempre.* Es posible para el creyente experimentar la vida <u>eterna</u> que tiene desde el momento que ha sido justificado. Juan 17:3
 
-#### Para Juan el que lo conoce, guarda sus mandamientos, es decir, está amando a su hermano, pero un amor que solamente es posible por medio de Cristo.
+#### Para Juan el que lo conoce, guarda sus mandamientos, es decir, está amando a su hermano, pero un <u>amor</u> que solamente es posible por medio de Cristo.
 
-### “*el que hace”*, no solamente el que “conoce”. La propiciación de Jesús por nuestros pecados no es solamente para que no pequemos, sino para que podamos vivir una vida que refleja el amor de Dios hacia otros. 
+### “*el que hace”*, no solamente el que “conoce”. La propiciación de Jesús por nuestros pecados no es solamente para que no pequemos, sino para que podamos <u>vivir</u> una vida que refleja el amor de Dios hacia otros. 
 
 ## En conclusión (2:1-17)
 
-### Si podríamos describir la vida abundante desde la perspectiva de Juan es una que se apropia de un abogado, y gracias a esa intercesión, permanece en él, para caminar como el anduvo.
+### Si podríamos describir la vida abundante desde la perspectiva de Juan es una que se apropia de un abogado, y gracias a esa <u>intercesión</u>, permanece en él, para caminar como el anduvo.
 
-### El andar de Cristo fue conforme al amor, pero él nos mostró un amor superior al que jamás ha sido conocido antes, y es conforme a su amor que debemos amarnos los unos a los otros.
+### El andar de Cristo fue conforme al amor, pero él nos mostró un amor superior al que jamás ha sido conocido antes, y es conforme a su amor que debemos <u>amarnos</u> los unos a los otros.
 
-### El engaño nos cegará y nos llevará a vivir por aquello que es pasajero, haciéndonos perder la oportunidad de vivir la vida eterna aquí y ahora, haciendo la voluntad de Dios.
+### El engaño nos cegará y nos llevará a vivir por aquello que es pasajero, haciéndonos perder la oportunidad de vivir la <u>vida</u> eterna aquí y ahora, haciendo la voluntad de Dios.
 
 # 1 Juan 2:18-27 LOS QUE ESTÁN TRATANDO DE ENGAÑARLOS
 
 ## 1 Juan 2:18-20 – Advertencia en cuanto a la presencia de falsos maestros 
 
-### 1 Juan 2:18a – *Hijitos, es la última hora…* La advertencia de Juan comienza mostrando el tiempo que estamos viviendo. Habiendo advertido de lo pasajero que es este mundo, y comparado esto con la vida eterna que podemos experimentar, es importante saber que tiempos vivimos. 1 Timoteo 4:1; 1 Pedro 4:7; 2 Juan 7
+### 1 Juan 2:18a – *Hijitos, es la última hora…* La advertencia de Juan comienza mostrando el tiempo que estamos viviendo. Habiendo advertido de lo pasajero que es este <u>mundo</u>, y comparado esto con la vida eterna que podemos experimentar, es importante saber que tiempos vivimos. 1 Timoteo 4:1; 1 Pedro 4:7; 2 Juan 7
 
-#### En Romanos 13:10-14, Pablo exhorta a los creyentes a vestirse de Jesucristo, sabiendo que nuestra salvación está más cerca que cuando creímos.
+#### En Romanos 13:10-14, Pablo exhorta a los creyentes a <u>vestirse</u> de Jesucristo, sabiendo que nuestra salvación está más cerca que cuando creímos.
 
-#### Esto podemos conocerlo ya que andamos en la luz, y sabemos a dónde vamos (2:11). Un creyente que anda en tinieblas vive ignorando las cosas que están sucediendo en este mundo.
+#### Esto podemos conocerlo ya que andamos en la luz, y sabemos a dónde vamos (2:11). Un creyente que anda en tinieblas vive ignorando las <u>cosas</u> que están sucediendo en este mundo.
 
 ### 1 Juan 2:18b - *… y así como oyeron que el anticristo viene, también ahora han surgido muchos anticristos. Por eso sabemos que es la ultima hora.*
 
-#### La Palabra enseña que viene un anticristo (2 Tesalonicenses 2:1-12), esto es aún futuro, y Juan no dice que está pasando, sin embargo, quiere advertirles que, así como este, hay ahora muchos enemigos de Cristo entre los creyentes. 
+#### La Palabra enseña que viene un <u>anticristo</u> (2 Tesalonicenses 2:1-12), esto es aún futuro, y Juan no dice que está pasando, sin embargo, quiere advertirles que, así como este, hay ahora muchos enemigos de Cristo entre los creyentes. 
 
-#### Es interesante que Juan use la misma palabra para describir a los falsos maestros entre ellos, que la que usa para el inicuo que está por venir.
+#### Es interesante que Juan use la misma palabra para describir a los <u>falsos</u> maestros entre ellos, que la que usa para el inicuo que está por venir.
 
-#### La presencia de estos *anticristos* es motivo de consideración para los creyentes. Debemos estar conscientes que mientras estamos en este mundo, estamos en una guerra espiritual. Efesios 6:12
+#### La <u>presencia</u> de estos *anticristos* es motivo de consideración para los creyentes. Debemos estar conscientes que mientras estamos en este mundo, estamos en una guerra espiritual. Efesios 6:12
 
-#### Ya que esta fue una advertencia hecha por los apóstoles al comienzo de la Iglesia (Judas 18-19), y ahora ya veían que se está cumpliendo, podían reconocer fácilmente los tiempos que estaban viviendo. 1 Pedro 5:8
+#### Ya que esta fue una advertencia hecha por los apóstoles al comienzo de la <u>Iglesia</u> (Judas 18-19), y ahora ya veían que se está cumpliendo, podían reconocer fácilmente los tiempos que <u>estaban</u> viviendo. 1 Pedro 5:8
 
-#### Cuando los creyentes ignoramos esta realidad, nos volvemos distraídos en cuanto a cómo vivimos y fácilmente podemos caer presas del engaño.
+#### Cuando los creyentes ignoramos esta realidad, nos volvemos distraídos en <u>cuanto</u> a cómo vivimos y fácilmente podemos caer presas del engaño.
 
-### 1 Juan 2:19a – *Ellos salieron de nosotros, pero en realidad no eran de nosotros…* Estos anticristos habían estado infiltrados entre los creyentes, sin embargo, nunca habían sido creyentes. Judas 3-4, 18-19
+### 1 Juan 2:19a – *Ellos salieron de nosotros, pero en realidad no eran de nosotros…* Estos anticristos habían estado infiltrados entre los creyentes, sin embargo, <u>nunca</u> habían sido creyentes. Judas 3-4, 18-19
 
-#### “salieron de nosotros” muestra el hecho que se levantaron de entre ellos haciéndose maestros a sí mismos, pero con ningún interés del bienestar de los hermanos, ya que ni siquiera eran parte de ellos. Hechos 20:28-30
+#### “salieron de nosotros” muestra el hecho que se levantaron de entre ellos haciéndose maestros a sí mismos, pero con ningún interés del bienestar de los hermanos, ya que ni siquiera <u>eran</u> parte de ellos. Hechos 20:28-30
 
 ### 1 Juan 2:19b - *…porque si hubieran sido de nosotros, habrían permanecido con nosotros, pero salieron a fin de que se manifestara que no todos son de nosotros.*
 
-#### Puede ser un poco complicado comprender este pasaje para aquellos que aún piensan que la perseverancia en la fe es la certeza de la vida eterna, pero en realidad es sencillo.
+#### Puede ser un poco complicado comprender este pasaje para aquellos que aún piensan que la perseverancia en la fe es la certeza de la vida eterna, pero en realidad es <u>sencillo</u>.
 
-#### Estos anticristos habían estado entre ellos, pero nunca fueron parte de ellos. Nadie es parte del cuerpo de Cristo por “habitar entre hermanos”, sino que es necesario nacer de nuevo a través de la fe en Jesucristo. Por lo tanto, estos nunca fueron creyentes. 2 Juan 9
+#### Estos anticristos habían estado entre ellos, pero nunca fueron parte de ellos. Nadie es parte del cuerpo de Cristo por “habitar entre hermanos”, sino que es necesario nacer de nuevo a través de la fe en Jesucristo. Por lo tanto, estos <u>nunca</u> fueron creyentes. 2 Juan 9
 
-#### Lo que el tiempo saco a la luz, es lo mismo que Jesús dijo a sus discípulos en Mateo 7:15-20, enseñándoles a reconocer a los falsos maestros que habrá entre los creyentes.
+#### Lo que el tiempo saco a la luz, es lo mismo que Jesús dijo a sus discípulos en Mateo 7:15-20, enseñándoles a reconocer a los <u>falsos</u> maestros que habrá entre los creyentes.
 
-#### Tanto aquí en el contexto de Juan, como en Mateo, los frutos de ellos, es la enseñanza que estaban transmitiendo.
+#### Tanto aquí en el contexto de Juan, como en <u>Mateo</u>, los frutos de ellos, es la enseñanza que estaban transmitiendo.
 
 #### De la boca de ellos, sale donde tienen puesta su confianza. Mateo 7:21-23
 
-#### Los falsos profetas por su estilo de vida eran externamente indistinguibles de los verdaderos creyentes ya que eran como ovejas. El fruto que revelaría que eran falsos maestros, sería la profesión y enseñanza que provenía de sus bocas. Mateo 7:15-20
+#### Los falsos profetas por su estilo de vida eran externamente indistinguibles de los verdaderos creyentes ya que eran como ovejas. El fruto que revelaría que eran falsos maestros, sería la profesión y enseñanza que provenía de sus <u>bocas</u>. Mateo 7:15-20
 
-#### Ahora habían salido y estaba profesando una enseñanza contraria a la que los apóstoles les habían anunciado en relación a Cristo.
+#### Ahora habían <u>salido</u> y estaba profesando una enseñanza contraria a la que los apóstoles les habían anunciado en relación a Cristo.
 
-#### ¡Qué bueno es para la Iglesia cuando sale a la luz quienes están entre nosotros, pero con intenciones destructivas y no para edificación!
+#### ¡Qué bueno es para la Iglesia cuando sale a la luz quienes <u>están</u> entre nosotros, pero con intenciones destructivas y no para edificación!
 
-#### 1 Corintios 11:19 - Muchas veces esto es el resultado de hombres y mujeres que deciden pararse firmes en la verdad.
+#### 1 Corintios 11:19 - Muchas veces esto es el resultado de hombres y <u>mujeres</u> que deciden pararse firmes en la verdad.
 
-#### Ellos nunca fueron parte de nosotros, sino que estaban disfrazados entre nosotros.
+#### Ellos nunca fueron parte de nosotros, sino que estaban disfrazados entre <u>nosotros</u>.
 
-#### Es posible también que estos arrastren tras sí a otros hermanos por medio de sus falsas enseñanzas. Debido a esto es importante que los discípulos estén capacitados en la Palabra de Dios, y permanezcan en ella para no ser engañados. Hechos 20:30-32, Tito 3:8-11
+#### Es posible también que estos arrastren tras sí a otros hermanos por medio de sus falsas enseñanzas. Debido a esto es importante que los discípulos <u>estén</u> capacitados en la Palabra de Dios, y permanezcan en ella para no ser engañados. Hechos 20:30-32, Tito 3:8-11
 
-### 1 Juan 2:20 – *Pero ustedes tienen la unción del Santo, y todos ustedes los saben.* Esta advertencia no debe perturbar a los creyentes ya que ellos tienen al Espíritu Santo, y él nos enseña todas las cosas. Juan 16:13
+### 1 Juan 2:20 – *Pero ustedes tienen la unción del Santo, y todos ustedes los saben.* Esta advertencia no debe perturbar a los creyentes ya que ellos tienen al Espíritu Santo, y él nos <u>enseña</u> todas las cosas. Juan 16:13
 
-#### Todo creyente tiene al Espíritu Santo morando en él, el que no lo tiene, no es de él. Romanos 8:9
+#### Todo creyente tiene al Espíritu Santo morando en él, el que no lo tiene, no es de Él. Romanos 8:9
 
-#### El Espíritu Santo en nosotros garantiza al creyente el poder ser enseñado en la Verdad.
+#### El Espíritu Santo en nosotros garantiza al creyente el poder ser enseñado en la <u>Verdad</u>.
 
 ## 1 Juan 2:21-23 – Entonces conociendo de los falsos maestros, ¿Qué podemos conocer en cuanto a sus enseñanzas?
 
-### 1 Juan 2:21 – *No les he escrito porque ignoran la verdad sino porque la conoce y porque ninguna mentira procede de la verdad.* El encubrimiento, requiere de advertencias como estas, por lo tanto, ya que conocen la verdad, comparen lo que ellos dicen, con lo que les hemos enseñado, y sabrán de quienes hablamos.
+### 1 Juan 2:21 – *No les he escrito porque ignoran la verdad sino porque la conoce y porque ninguna mentira procede de la verdad.* El encubrimiento, requiere de advertencias como estas, por lo tanto, ya que conocen la verdad, comparen lo que ellos dicen, con lo que les <u>hemos</u> enseñado, y sabrán de quienes hablamos.
 
-#### Es bueno saber que en su Palabra nosotros podemos conocer la verdad, y al haber sido enseñados por ella a través de Espíritu Santo, podemos discernir a aquellos que están tratando de engañarnos. Ellos nunca se sujetarán a las escrituras.
+#### Es bueno saber que en su Palabra nosotros podemos conocer la verdad, y al haber sido enseñados por ella a través de Espíritu <u>Santo</u>, podemos discernir a aquellos que están tratando de engañarnos. Ellos nunca se sujetarán a las escrituras.
 
-#### Tenemos la garantía de que la verdad que hemos conocido no puede ser contradicha, ya que *“ninguna mentira procede de la verdad”.*
+#### Tenemos la garantía de que la verdad que hemos conocido no <u>puede</u> ser contradicha, ya que *“ninguna mentira procede de la verdad”.*
 
-### 1 Juan 2:22 - *¿Quién es el mentiroso sino el que niega que Jesús es el Cristo? Este es el anticristo, el que niega al Padre y al Hijo.* Los anticristos negaran la identidad de Jesús, y al negar quién es, destruyen completamente su obra. Juan 8:44-45, 1 Juan 4:3, 2 Juan 7
+### 1 Juan 2:22 - *¿Quién es el mentiroso sino el que niega que Jesús es el Cristo? Este es el anticristo, el que niega al Padre y al Hijo.* Los anticristos negaran la identidad de Jesús, y al <u>negar</u> quién es, destruyen completamente su obra. Juan 8:44-45, 1 Juan 4:3, 2 Juan 7
 
-#### Aunque parece solo una declaración el termino mesías es para Juan aquel que es el Salvador del mundo y la Propiciación por nuestros pecados.
+#### Aunque parece solo una declaración el termino mesías es para Juan aquel que es el Salvador del mundo y la Propiciación por <u>nuestros</u> pecados.
 
-#### El Mesías es la provisión de Dios para toda la salvación de la humanidad, y negar que Jesús es este, rechaza completamente la idea de que Dios ya hizo algo por nuestros pecados.
+#### El Mesías es la provisión de Dios para toda la salvación de la humanidad, y negar que Jesús es este, rechaza completamente la idea de que <u>Dios</u> ya hizo algo por nuestros pecados.
 
-#### Juan aquí está hablando en singular mostrando que este será el mensaje del anticristo por el cuál engañará a muchos. Si Jesús no es el Mesías, entonces el mundo todavía no ha tenido su salvador, y él se presentará como tal.
+#### Juan aquí está hablando en singular mostrando que este será el mensaje del anticristo por el cuál engañará a muchos. Si Jesús no es el Mesías, entonces el mundo todavía no ha tenido su Salvador, y él se presentará como tal.
 
-#### Muchos anticristos de igual forman tergiversan el mensaje del evangelio y esto lleva a mucho a perderse de la salvación completa que hemos recibido por medio de Jesús nuestro Salvador.
+#### Muchos anticristos de igual forman tergiversan el mensaje del <u>evangelio</u> y esto lleva a mucho a perderse de la salvación completa que hemos recibido por medio de Jesús nuestro Salvador.
 
-### “*niega al Padre y al Hijo”,* cualquier persona que niega a Jesús, está rechazando completamente al Padre y a Su Hijo.
+### “*niega al Padre y al Hijo”,* cualquier persona que niega a Jesús, está rechazando completamente al Padre y a Su <u>Hijo</u>.
 
-### 1 Juan 2:23 – *Todo aquel que niega al Hijo tampoco tiene al Padre, el que confiesa al Hijo tiene también al Padre.* Así como este será el mensaje del anticristo, es una realidad de todo aquel que lo rechaza, no tiene relación alguna con El Padre ni con el Hijo.
+### 1 Juan 2:23 – *Todo aquel que niega al Hijo tampoco tiene al Padre, el que confiesa al Hijo tiene también al Padre.* Así como este será el mensaje del anticristo, es una realidad de todo aquel que lo <u>rechaza</u>, no tiene relación alguna con el Padre ni con el Hijo.
 
-#### Aquí podemos ver que el negar algo y confesar algo son vistos como opuestos.
+#### Aquí podemos ver que el negar algo y confesar algo son vistos como <u>opuestos</u>.
 
-#### La confesión es el resultado de la creencia, así como el mensaje de los falsos maestros revela su confianza fuera de Cristo, aquel que lo confianza muestra su confianza puesta en él.
+#### La confesión es el resultado de la creencia, así como el mensaje de los falsos maestros revela su confianza fuera de Cristo, aquel que lo confianza muestra su confianza <u>puesta</u> en él.
 
-#### Estos falsos maestros no confesarán quien es el Hijo, de hecho, niegan su Persona misma, y no solo el hecho de que Jesús es el Mesías.
+#### Estos <u>falsos</u> maestros no confesarán quien es el Hijo, de hecho, niegan su Persona misma, y no solo el hecho de que Jesús es el Mesías.
 
-#### Honrar al Hijo como quien es, es lo mismo que honrar al Padre. Juan 5:19-29
+#### Honrar al Hijo como quien es, es lo mismo que <u>honrar</u> al Padre. Juan 5:19-29
 
-#### Hoy muchas falsas enseñanzas mencionan a Jesús, pero niegan lo que él es y lo que hizo. Muchos han tergiversado el evangelio de la gracia de Dios, por no entender la suficiencia de la persona de Cristo para nuestra salvación. Cualquier enseñanza que nos desvíe de la persona de Cristo como suficiente de parte de Dios, es un peligro para los creyentes.
+#### Hoy muchas falsas enseñanzas mencionan a Jesús, pero niegan lo que él es y lo que hizo. Muchos han tergiversado el evangelio de la gracia de Dios, por no entender la suficiencia de la <u>persona</u> de Cristo para nuestra salvación. Cualquier enseñanza que nos desvíe de la persona de Cristo como suficiente de parte de Dios, es un peligro para los creyentes.
 
 ## 1 Juan 2:24-27 - Ya que sabemos que hay falsos maestros, y conocemos el verdadero mensaje, ¿qué debemos hacer para combatirlos?
 
-### 1 Juan 2:24a – *En cuanto a ustedes, que permanezca en ustedes los que oyeron desde el principio…* La forma en la que combatimos o luchamos ardientemente por la fe, es permaneciendo firmes en la verdad.
+### 1 Juan 2:24a – *En cuanto a ustedes, que permanezca en ustedes los que oyeron desde el principio…* La forma en la que combatimos o luchamos ardientemente por la <u>fe</u>, es permaneciendo firmes en la verdad.
 
-#### Juan les manda a ser fieles al mensaje que habían recibido, acerca de Jesús, el Mesías. Pero no solo a ser fieles, sino que el mensaje permanezca en ellos. Que importante es hacer esta distinción, ya que esto que les manda no tiene mucho que ver con algo que ellos hacen con el mensaje, sino con algo que el mensaje puede hacer por ellos.
+#### Juan les manda a ser fieles al mensaje que habían recibido, acerca de Jesús, el Mesías. Pero no solo a ser fieles, sino que el mensaje permanezca en ellos. Que importante es <u>hacer</u> esta distinción, ya que esto que les manda no tiene mucho que ver con algo que ellos hacen con el mensaje, sino con algo que el mensaje puede hacer por ellos.
 
-#### Judas 3-4, 20-21 - Judas va a animar a los creyentes a combatir ardientemente por la fe, y nos manda a conservarnos en el amor de Dios, por medio de la mutua edificación, la oración y vivir aguardando en la misericordia de Dios para vida eterna.
+#### Judas 3-4, 20-21 - Judas va a animar a los creyentes a combatir ardientemente por la fe, y nos manda a conservarnos en el amor de Dios, por medio de la mutua edificación, la oración y <u>vivir</u> aguardando en la misericordia de Dios para vida eterna.
 
-#### En Colosenses 3:16 se nos manda que la palabra de Cristo more en abundancia en nosotros. 
+#### En Colosenses 3:16 se nos <u>manda</u> que la palabra de Cristo more en abundancia en nosotros. 
 
-#### Nosotros no peleamos por la verdad, sino que la Verdad hace su obra en nosotros, peleando ella por si sola.
+#### Nosotros no peleamos por la verdad, sino que la Verdad hace su obra en nosotros, peleando <u>ella</u> por si sola.
 
-### 1 Juan 2:24b – *…Si en ustedes permanece lo que oyeron desde el principio, ustedes también permanecerán en el Hijo y en el Padre.* Esto muestra que la comunión con su Hijo no es posible a menos que sea el resultado de la Palabra haciendo su obra en nosotros.
+### 1 Juan 2:24b – *…Si en ustedes permanece lo que oyeron desde el principio, ustedes también permanecerán en el Hijo y en el Padre.* Esto muestra que la comunión con su Hijo no es posible a menos que sea el resultado de la Palabra haciendo su <u>obra</u> en nosotros.
 
-#### En Apocalipsis podemos ver una Iglesia a la que Cristo está llamando a la puerta, es decir, no estaban disfrutando de un compañerismo con él, esto era el resultado de que se habían vuelto tibios en cuanto a la verdad, indiferentes. Apocalipsis 3:20
+#### En Apocalipsis podemos ver una Iglesia a la que Cristo está llamando a la puerta, es decir, no estaban disfrutando de un compañerismo con él, esto era el <u>resultado</u> de que se habían vuelto tibios en cuanto a la verdad, indiferentes. Apocalipsis 3:20
 
-#### Cuando los creyentes permiten la falsa enseñanza en su vida, son desviados de un compañerismo con Dios, al igual que las iglesias en Galacia, que habían caído de la Gracia, y se habían apartado de Dios mismo, siguiendo un evangelio contrario al que habían recibido. Gálatas 1:6, 5:4
+#### Cuando los creyentes permiten la falsa enseñanza en su vida, son desviados de un compañerismo con Dios, al igual que las <u>iglesias</u> en Galacia, que habían caído de la Gracia, y se habían apartado de Dios mismo, siguiendo un evangelio contrario al que habían recibido. Gálatas 1:6, 5:4
 
-#### Por lo tanto, solo disfrutamos de compañerismo con Dios por medio de Jesucristo, y el poder de él activo en nuestras vidas mientras permanecemos en él.
+#### Por lo tanto, solo disfrutamos de compañerismo con Dios por medio de Jesucristo, y el poder de Él activo en nuestras <u>vidas</u> mientras permanecemos en Él.
 
-#### Juan quiere que los creyentes puedan no solo haber oído la verdad, sino quiere que ella haga su obran ellos, llevándolos a una comunión íntima con el Padre y con su hijo, ya que esta resulta en estar amando al hermano.
+#### Juan quiere que los creyentes puedan no solo haber oído la verdad, sino quiere que ella haga su obran ellos, llevándolos a una comunión íntima con el Padre y con su Hijo, ya que <u>esta</u> resulta en estar amando al hermano.
 
-### 1 Juan 2:25 – *Y esta es la promesa que él nos hizo: la vida eterna.* Cuando Juan menciona esta promesa, quiere mostrar que es algo que no está en juego para ninguno de los hijos de Dios. El engaño destruye completamente la esperanza de esta promesa.
+### 1 Juan 2:25 – *Y esta es la promesa que él nos hizo: la vida eterna.* Cuando Juan menciona esta promesa, quiere mostrar que es algo que no está en <u>juego</u> para ninguno de los hijos de Dios. El engaño destruye completamente la esperanza de esta promesa.
 
-#### Dios prometió la vida eterna a todos los que creen en su Hijo. Juan 3:16
+#### Dios prometió la vida eterna a todos los que <u>creen</u> en su Hijo. Juan 3:16
 
-#### Cuando el engaño nos lleva a mirar fuera de lo que Dios nos ha provisto solo por medio de Cristo, y no lleva a querer alcanzar algo por nuestros propios esfuerzos, vivimos contrariamente a cómo Dios quiere que vivamos.
+#### Cuando el engaño nos lleva a mirar fuera de lo que Dios nos ha provisto solo por medio de Cristo, y no lleva a querer alcanzar algo por <u>nuestros</u> propios esfuerzos, vivimos contrariamente a cómo Dios quiere que vivamos.
 
-#### Juan 17:3 – “Y esta es la vida eterna, que te conozcan a ti el único Dios verdadero, y a Jesucristo a quien has enviado”. Ya que la vida eterna está basada en el conocimiento de Dios, podemos ver la vida eterna no solamente como una cantidad de vida, sino como una vida que podemos experimentar.
+#### Juan 17:3 – “Y esta es la vida eterna, que te conozcan a ti el único Dios verdadero, y a Jesucristo a quien has enviado”. Ya que la vida eterna está basada en el conocimiento de Dios, podemos ver la vida eterna no solamente como una <u>cantidad</u> de vida, sino como una vida que podemos experimentar.
 
-#### En este contexto, podemos experimentar la vida eterna a medida que la palabra del Mesías permanece en nosotros. Dios quiere que lo conozcamos y vivamos por quién es él y lo que él ha hecho por nosotros. No por aquello que nosotros podemos hacer por él, ya que nunca haríamos lo suficiente.
+#### En este contexto, podemos experimentar la vida eterna a medida que la palabra del Mesías permanece en nosotros. Dios quiere que lo conozcamos y vivamos por quién es Él y lo que Él ha hecho por nosotros. No por <u>aquello</u> que nosotros podemos hacer por Él, ya que nunca haríamos lo suficiente.
 
-### 1 Juan 2:26 – *Les he escrito estas cosas respecto a los que están tratando de engañarlos.* De esta forma Juan hace claro que hay algunos entre ellos que están enseñándoles un mensaje diferente que no es Cristo. A través de estos mensajes, los están tratando de engañar.
+### 1 Juan 2:26 – *Les he escrito estas cosas respecto a los que están tratando de engañarlos.* De esta forma Juan hace claro que hay algunos entre ellos que están enseñándoles un mensaje diferente que no es Cristo. A través de estos mensajes, los están tratando de <u>engañar</u>.
 
-#### En ese mismo momento había falsos maestros entre ellos tratando de engañarles. No podremos evitar que ellos estén entre nosotros, pero si la verdad permanece en nosotros, podemos evitar ser engañados.
+#### En ese <u>mismo</u> momento había falsos maestros entre ellos tratando de engañarles. No podremos evitar que ellos estén entre nosotros, pero si la verdad permanece en nosotros, podemos evitar ser engañados.
 
-##### Nosotros, al igual que ellos, tenemos estas cosas que se nos han escrito. Hacemos muy bien en prestar atención a las Escrituras, y permanecer en su verdad: Juan 17:17
+##### Nosotros, al igual que ellos, tenemos estas cosas que se nos han escrito. Hacemos muy bien en prestar atención a las Escrituras, y permanecer en su <u>verdad</u>: Juan 17:17
 
-##### Juan escribe todos estos contrastes, no porque dude de la salvación de ellos, sino porque sabe que es posible que estén siendo engañados, entonces debe llevarlo a mirar a Cristo, y dejar que sea Cristo el que haga su obra en ellos. Hechos 20:28-32
+##### Juan escribe todos estos contrastes, no porque dude de la salvación de ellos, sino porque sabe que es posible que estén siendo engañados, entonces debe llevarlo a mirar a Cristo, y dejar que sea Cristo el que haga su <u>obra</u> en ellos. Hechos 20:28-32
 
 ### 1 Juan 2:27a – *En cuanto a ustedes, la unción que recibieron de él permanece en ustedes, y no tienen necesidad de que nadie les enseñe…*
 
-### “*la unción que recibieron de él”,* es decir el Espíritu Santo, permanece en cada creyente. Juan 14:26, 1 Corintios 2:12, Efesios 1:13-14
+### “*la unción que recibieron de él”,* es decir el Espíritu Santo, permanece en <u>cada</u> creyente. Juan 14:26, 1 Corintios 2:12, Efesios 1:13-14
 
-#### Juan muestra que él no está confiando en los hombres para que los creyentes sean enseñados por Dios, y vivan de acuerdo a su voluntad. Ningún hombre tiene la capacidad llevar a otro a la comprensión de la verdad. 1 Corintios 2:10-16
+#### Juan muestra que él no está confiando en los hombres para que los creyentes sean enseñados por Dios, y vivan de acuerdo a su voluntad. Ningún hombre tiene la capacidad <u>llevar</u> a otro a la comprensión de la verdad. 1 Corintios 2:10-16
 
-#### En 1 Tesalonicenses 4:9, podemos ver como Pablo reconoce que los creyentes “han sido enseñados por Dios” a amarse los unos a los otros.
+#### En 1 Tesalonicenses 4:9, podemos ver como Pablo reconoce que los creyentes “han sido enseñados por Dios” a amarse los unos a los <u>otros</u>.
 
-#### Podemos decir con toda certeza que, si alguien abre los ojos, es por el Espíritu, si alguien aprende, es por el Espíritu, si alguien crece, es por el Espíritu. Sin embargo, sabemos que Dios obra a través de la predicación de su Palabra. 1 Corintios 2:1-5, 12, 3:5-7, Juan 6:45
+#### Podemos decir con toda certeza que, si alguien abre los ojos, es por el Espíritu, si alguien aprende, es por el Espíritu, si alguien crece, es por el Espíritu. Sin embargo, sabemos que Dios <u>obra</u> a través de la predicación de su Palabra. 1 Corintios 2:1-5, 12, 3:5-7, Juan 6:45
 
-### 1 Juan 2:27b - *…Pero, así como su unción les enseña acerca de todas las cosas, y es verdadera y no mentira…* ¿Cuáles son todas estas cosas que nos enseña el Espíritu Santo?
+### 1 Juan 2:27b - *…Pero, así como su unción les enseña acerca de todas las cosas, y es verdadera y no mentira…* ¿Cuáles son todas estas cosas que <u>nos</u> enseña el Espíritu Santo?
 
-#### Juan 16:13-14 – El espíritu Santo toma lo que es de Cristo, y nos lo hace saber.
+#### Juan 16:13-14 – El espíritu Santo <u>toma</u> lo que es de Cristo, y nos lo hace saber.
 
 #### Pablo está de acuerdo con esto cuando en 1 Corintios 2:12, dice que Dios nos ha dado su Espíritu para que conozcamos todo lo que él nos ha dado gratuitamente.
 
-#### Es la unción la que nos lleva a vivir la vida de Cristo, Cristo está siendo formado en nosotros por medio del Espíritu. Esa es la vida eterna que podemos estar experimentando. 2 Corintios 3:18
+#### Es la unción la que nos lleva a vivir la vida de Cristo, Cristo está siendo formado en nosotros por medio del Espíritu. Esa es la <u>vida</u> eterna que podemos estar experimentando. 2 Corintios 3:18
 
-#### No solamente nos enseña a manera de comprensión, sino que nos lleva también a un conocimiento experiencial de lo que Cristo es.
+#### No solamente nos <u>enseña</u> a manera de comprensión, sino que nos lleva también a un conocimiento experiencial de lo que Cristo es.
 
 ### 1 Juan 2:27c - *…y así como les enseña… y así como les ha enseñado, ustedes permanecen en él.* El Espíritu no ha dejado de obrar en nuestras vidas. Nos ha enseñado y continúa haciéndolo.
 
-#### Es según como hemos sido enseñamos, y como nos va enseñando que permanecemos en él. La comunión con Dios es el resultado de la obra que el Espíritu hace en nosotros, santificándonos por medio de Su Palabra.
+#### Es según como hemos sido enseñamos, y como nos va enseñando que permanecemos en él. La comunión con Dios es el resultado de la <u>obra</u> que el Espíritu hace en nosotros, santificándonos por medio de Su Palabra.
 
-#### Esto no significa que no es necesario predicar o enseñar la Palabra, y Juan no quiere desanimarnos a esto con lo que dice, de hecho, es todo lo contrario. Si compartimos la Palabra, y conocemos la capacidad del Espíritu de guiar a los creyentes a la verdad la hablamos con valentía y confianza.
+#### Esto no significa que no es necesario predicar o enseñar la Palabra, y Juan no quiere desanimarnos a esto con lo que dice, de hecho, es todo lo contrario. Si compartimos la Palabra, y conocemos la capacidad del Espíritu de guiar a los creyentes a la verdad la hablamos con <u>valentía</u> y confianza.
 
-#### 2 Corintios 3:4-4:18 – Nosotros hablamos, pero la obra es completamente espiritual. Podemos responder ya sea con fe, o con incredulidad a la enseñanza del Espíritu.
+#### 2 Corintios 3:4-4:18 – Nosotros hablamos, pero la obra es completamente espiritual. Podemos <u>responder</u> ya sea con fe, o con incredulidad a la enseñanza del Espíritu.
 
-#### La permanencia en él solo es posible en la verdad que el Espíritu Santo nos enseña: “según como hemos sido enseñados, permanecemos en él”. Es como si Juan dijera, ahora esto lo saben por medio del Espíritu, y solamente de acuerdo a esta verdad que él les ha enseñado y sigue enseñando, ustedes permanecen en él.
+#### La permanencia en él solo es posible en la verdad que el Espíritu Santo nos <u>enseña</u>: “según como hemos sido enseñados, permanecemos en él”. Es como si Juan dijera, ahora esto lo saben por medio del Espíritu, y solamente de acuerdo a esta verdad que él les ha enseñado y sigue enseñando, ustedes permanecen en él.
 
-#### Eran creyentes que habían sido enseñados, pero eso no los hacía exentos de haber caído en el error. Debemos permanecer en Cristo ya que él es nuestra única fortaleza.
+#### Eran creyentes que habían sido enseñados, pero eso no los hacía exentos de haber caído en el error. Debemos permanecer en Cristo ya que él es <u>nuestra</u> única fortaleza.
 
 # 1 Juan 2:28-3:12 - CONFIADOS PARA SU REGRESO, LA ESPERANZA QUE TENEMOS
 
 ## 1 Juan 2:28-29 – Permanezcan en él
 
-### Ya que Dios nos ha prometido la vida eterna, podemos tener esperanza hacia el futuro, por eso Juan nos animará llevándonos a considerar la futura manifestación de Cristo, y como debería ser nuestra respuesta a ella.
+### Ya que Dios nos ha prometido la vida eterna, podemos tener esperanza hacia el futuro, por eso Juan nos animará llevándonos a considerar la futura manifestación de Cristo, y como <u>debería</u> ser nuestra respuesta a ella.
 
-### 1 Juan 2:28a – *Y ahora hijos, permanezcan en él.* En respuesta a la obra de Dios a través del Espíritu y su Palabra, ahora debemos permanecer en Cristo.
+### 1 Juan 2:28a – *Y ahora hijos, permanezcan en él.* En respuesta a la obra de <u>Dios</u> a través del Espíritu y su Palabra, ahora debemos permanecer en Cristo.
 
-#### Aunque Juan ha mostrado claramente que podemos llegar a ser enseñados por el Espíritu, esto no garantiza que viviremos de acuerdo a aquellos que hemos aprendido de él.
+#### Aunque Juan ha mostrado claramente que podemos llegar a ser enseñados por el Espíritu, esto no garantiza que <u>viviremos</u> de acuerdo a aquellos que hemos aprendido de Él.
 
-#### De hecho, Juan va a mostrar que podemos llegar a ser creyentes que tienen la unción sin embargo lo que esta les ha enseñado nunca tuvo efecto en sus vidas, y ellos son culpables de esto. ¿Cómo es esto posible?
+#### De hecho, Juan va a mostrar que podemos llegar a ser creyentes que tienen la unción sin embargo lo que esta les ha enseñado <u>nunca</u> tuvo efecto en sus vidas, y ellos son culpables de esto. ¿Cómo es esto posible?
 
-#### Porque la participación de Cristo no es automática en la vida del creyente, sino el resultado de permanecer en él. Esto concuerda con lo que Jesús les enseño a sus discípulos en cuanto a dar fruto. Juan 15:1-6
+#### Porque la participación de Cristo no es automática en la vida del creyente, sino el resultado de permanecer en él. Esto concuerda con lo que Jesús <u>enseñó</u> a sus discípulos en cuanto a dar fruto. Juan 15:1-6
 
 ### 1 Juan 2:28b - *... para que cuando se manifieste tengamos confianza y no nos apartemos de él avergonzados en su Venida.*
 
-#### Juan no está poniendo en duda si ellos o no se reunirían con Cristo, de hecho, muestra que esto será una realidad de cada creyente. No es entonces si nos reunimos con él, sino, cómo lo haremos: confiado o avergonzados. Colosenses 3:4
+#### Juan no está poniendo en duda si ellos o no se reunirían con Cristo, de hecho, <u>muestra</u> que esto será una realidad de cada creyente. No es entonces si nos reunimos con él, sino, cómo lo haremos: confiado o avergonzados. Colosenses 3:4
 
-#### El creyente que permanece en él tiene razón para tener confianza en la manifestación de Cristo; ¿Por qué? Porque llevó mucho fruto por medio del cual el Padre es glorificado. Juan 15:8
+#### El creyente que permanece en él tiene razón para tener confianza en la manifestación de Cristo; ¿Por qué? Porque llevó mucho fruto por medio del cual el <u>Padre</u> es glorificado. Juan 15:8
 
-#### Un creyente que ha llevado el fruto de Cristo en su vida, no está esperando su propia gloria, ya que sabe que este fruto no fue su logro. La vida confiada para el regreso de Jesucristo no es porque tenemos algo que ofrecerle a Dios, sino porque en lo que él nos ha dado (su Hijo), hemos encontrado la vida.
+#### Un creyente que ha llevado el fruto de Cristo en su vida, no está esperando su propia gloria, ya que sabe que este fruto no fue su logro. La vida confiada para el regreso de Jesucristo no es porque tenemos algo que ofrecerle a Dios, sino porque en lo que él nos ha <u>dado</u> (su Hijo), hemos encontrado la vida.
 
-#### El que se presente ante Cristo con las manos vacías, tendrá que avergonzarse, o, como se lee en el texto griego, ser avergonzado, por su indiferencia y falta de respuesta a la vida que Dios nos ha provisto por medio de Cristo. Gráficamente hablando, tendrán que bajar la cabeza avergonzados.
+#### El que se presente ante Cristo con las manos vacías, tendrá que avergonzarse, o, como se lee en el texto <u>griego</u>, ser avergonzado, por su indiferencia y falta de respuesta a la vida que Dios nos ha provisto por medio de Cristo. Gráficamente hablando, tendrán que bajar la cabeza avergonzados.
 
-#### Es interesante que o tendremos confianza o seremos avergonzados, Juan no dice que seremos aplaudidos, ya que toda la gloria es para Dios, quien ha provisto la vida por medio de su Hijo.
+#### Es interesante que o tendremos <u>confianza</u> o seremos avergonzados, Juan no dice que seremos aplaudidos, ya que toda la gloria es para Dios, quien ha provisto la vida por medio de su Hijo.
 
-#### Apocalipsis 3:17-18 muestra el caso de una Iglesia que había perdido comunión con Cristo, y debido a eso estaba con una imagen equivocada de sí misma.
+#### Apocalipsis 3:17-18 muestra el caso de una Iglesia que había perdido comunión con Cristo, y debido a eso estaba con una imagen equivocada de sí <u>misma</u>.
 
-#### Podemos vernos a nosotros mismos de una forma, pero solamente la mirada de Cristo revelará la verdad. 1 Corintios 3:10-15
+#### Podemos vernos a nosotros mismos de una forma, pero solamente la <u>mirada</u> de Cristo revelará la verdad. 1 Corintios 3:10-15
 
-#### O estaremos vestido de lino fino, o seremos hallados como si estuviéramos desnudos, en completa vergüenza delante de él. Apocalipsis 19:8
+#### O estaremos vestido de lino <u>fino</u>, o seremos hallados como si estuviéramos desnudos, en completa vergüenza delante de él. Apocalipsis 19:8
 
 #### Salmos 25:3a - *Ciertamente ninguno de los que esperan en Ti será avergonzado…*
 
 #### Filipenses 3:9 - *y ser hallado en Él, no teniendo mi propia justicia derivada de la ley, sino la que es por la fe en Cristo, la justicia que procede de Dios sobre la base de la fe*
 
-### 1 Juan 2:29 – *Si saben que él es Justo, saben también que todo el que hace justicia es nacido de él.* Para Juan es claro, cualquiera que sabe que Dios es justo y mira a alguien que hace justicia, entiende que la única explicación es que esa justicia es una justicia producida por Dios, en alguien que ha hecho nacer de nuevo.
+### 1 Juan 2:29 – *Si saben que él es Justo, saben también que todo el que hace justicia es nacido de él.* Para Juan es claro, cualquiera que sabe que Dios es justo y mira a alguien que hace justicia, entiende que la única explicación es que esa justicia es una justicia producida por Dios, en alguien que ha hecho nacer de <u>nuevo</u>.
 
-#### El Justo es la fuente de nuestras justicias, la justicia de Dios, es la que produce justicia en nosotros.
+#### El Justo es la fuente de nuestras <u>justicias</u>, la justicia de Dios, es la que produce justicia en nosotros.
 
-#### Juan no está diciendo que son nacidos de Dios porque hacen Justicia, sino muestra que solo los nacidos de Dios pueden hacer justicia.
+#### Juan no está diciendo que son <u>nacidos</u> de Dios porque hacen Justicia, sino muestra que solo los nacidos de Dios pueden hacer justicia.
 
-#### A manera de conclusión, y también como introducción a los siguientes versículos, Juan deja en claro, solo la Justicia producida por Dios es aquella de la que no nos avergonzaremos, al mismo tiempo si alguien practica Justicia, la fuente de esa justicia solamente puede ser Dios.
+#### A manera de conclusión, y también como introducción a los siguientes versículos, Juan deja en claro, solo la Justicia producida por Dios es <u>aquella</u> de la que no nos avergonzaremos, al mismo tiempo si alguien practica Justicia, la fuente de esa justicia solamente puede ser Dios.
 
-#### Concluimos entonces en que el creyente que permanece en Cristo, producirá la justicia de Cristo como fruto, este creyente que vive de tal forma, podrá vivir esperando ansiosamente la manifestación de Cristo. Juan 15:1-8
+#### Concluimos entonces en que el creyente que permanece en Cristo, producirá la justicia de Cristo como fruto, este creyente que vive de tal forma, podrá <u>vivir</u> esperando ansiosamente la manifestación de Cristo. Juan 15:1-8
 
-#### El creyente que no permanece en Cristo, será sorprendido por la manifestación de Cristo, hallado desnudo, y será avergonzado delante de él. Aunque no pierde su salvación, se perdió la oportunidad de vivir a Cristo ahora. Mateo 16:25-26, 1 Corintios 3:10-15
+#### El creyente que no permanece en Cristo, será sorprendido por la manifestación de Cristo, hallado <u>desnudo</u>, y será avergonzado delante de él. Aunque no pierde su salvación, se perdió la oportunidad de vivir a Cristo ahora. Mateo 16:25-26, 1 Corintios 3:10-15
 
 ## 1 Juan 3:1-2 – Miren el amor que nos ha dado el Padre
 
