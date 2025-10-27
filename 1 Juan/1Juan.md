@@ -1913,29 +1913,29 @@ Title: Primera epístola del apóstol Juan
 
 ##### Aunque si es verdad que Cristo nos guarda, es probable que Juan este haciendo referencia al hecho de la <u>garantía</u> del nuevo nacimiento, y no al ser guardados por Jesucristo.
 
-#### *“y el maligno no lo toca”.* No hay poder alguno sobre los nacidos de Dios, esto no significa que como creyentes nuestras mentes no puedan ser engañadas por su astucia, pero los nacidos de Dios, tiene garantizada la glorificación, la vida eterna. 2 Corintios 11:3
+#### *“y el maligno no lo toca”.* No hay poder alguno sobre los nacidos de Dios, esto no significa que como creyentes nuestras mentes no <u>puedan</u> ser engañadas por su astucia, pero los nacidos de Dios, tiene garantizada la glorificación, la vida eterna. 2 Corintios 11:3
 
-### 1 Juan 5:19 – *Sabemos que somos de Dios, y que el mundo entero está bajo el poder del maligno.* Habiendo mencionado al maligno, muestra Juan que nuestra victoria sobre él está en que nacimos de Dios, es decir, lo que somos como resultado de su gracia, y no en nuestro propio poder.
+### 1 Juan 5:19 – *Sabemos que somos de Dios, y que el mundo entero está bajo el poder del maligno.* Habiendo mencionado al maligno, <u>muestra</u> Juan que nuestra victoria sobre él está en que nacimos de Dios, es decir, lo que somos como resultado de su gracia, y no en nuestro propio poder.
 
-#### Aunque el mundo entero este bajo el poder del maligno, por medio de Cristo nosotros hemos triunfado por sobre el mundo y el maligno.
+#### Aunque el mundo entero este bajo el <u>poder</u> del maligno, por medio de Cristo nosotros hemos triunfado por sobre el mundo y el maligno.
 
-#### Es Cristo quien nos guarda por su poder. Mientras vivamos en este mundo estaremos en medio de una guerra, pero en Cristo somos victoriosos, y caminamos desde la victoria y no hacia ella. Juan 17:15
+#### Es Cristo quien nos guarda por su poder. Mientras vivamos en este mundo estaremos en medio de una guerra, pero en Cristo <u>somos</u> victoriosos, y caminamos desde la victoria y no hacia ella. Juan 17:15
 
-### 1 Juan 5:20 – *Y sabemos que el Hijo de Dios ha venido y nos ha dado entendimiento a fin de que conozcamos a Aquel que es verdadero; y nosotros estamos en Aquel que es verdadero, en Su Hijo Jesucristo.*
+### 1 Juan 5:20 – *Y sabemos que el Hijo de Dios ha venido y nos ha dado entendimiento a fin de que conozcamos a <u>Aquel</u> que es verdadero; y nosotros estamos en Aquel que es verdadero, en Su Hijo Jesucristo.*
 
-#### Es una linda forma de concluir su libro, llevándonos a una total garantía de quienes somos, y donde verdaderamente estamos.
+#### Es una linda forma de concluir su <u>libro</u>, llevándonos a una total garantía de quienes somos, y donde verdaderamente estamos.
 
-#### En el v19 dijo: el mundo entero está bajo el poder del maligno, pero aquí dice, nosotros estamos en Aquel que es verdadero. Ya que no somos de este mundo, debemos entender que nada de lo que suceda aquí afecta nuestra posición en Cristo Jesús.
+#### En el v19 dijo: el mundo entero está bajo el poder del maligno, pero aquí dice, nosotros estamos en Aquel que es verdadero. Ya que no somos de este mundo, debemos entender que nada de lo que suceda aquí afecta <u>nuestra</u> posición en Cristo Jesús.
 
-#### Jesús es la garantía de los creyentes, y no la vida que ellos viven. Todo creyente a conocido a Aquel que es verdadero por medio de la fe. Así hemos sido colocados en él, y entonces tenemos la posición misma de Cristo para con Dios.
+#### Jesús es la <u>garantía</u> de los creyentes, y no la vida que ellos viven. Todo creyente a conocido a Aquel que es verdadero por medio de la fe. Así hemos sido colocados en él, y entonces tenemos la posición misma de Cristo para con Dios.
 
-### 1 Juan 5:21 – *Hijitos, aléjense de los ídolos.* Sea o no esto parte del texto original, es apropiado decir:
+### 1 Juan 5:21 – *Hijitos, aléjense de los ídolos.* Sea o no esto <u>parte</u> del texto original, es apropiado decir:
 
-#### No vayan tras una mentira, no vayan tras una falsificación de Dios. Los falsos maestros pueden estar presentando a otros salvadores, pero solo existe uno, y la vida abundante solamente puede ser vivida por medio de é.
+#### No vayan tras una mentira, no vayan tras una falsificación de Dios. Los falsos maestros pueden estar presentando a otros salvadores, pero <u>solo</u> existe uno, y la vida abundante solamente puede ser vivida por medio de é.
 
-#### La vida cristiana no es falsificable, es genuinamente la vida de Cristo en nosotros, Dios envió a Su Hijo, para que vivamos por medio de él. Si alguien vive verdaderamente, es porque Cristo está viviendo por medio de él.
+#### La vida cristiana no es falsificable, es genuinamente la vida de Cristo en nosotros, Dios envió a Su Hijo, para que vivamos por medio de él. Si <u>alguien</u> vive verdaderamente, es porque Cristo está viviendo por medio de él.
 
-#### Los falsos maestros, que estaban tratando de engañar a estos creyentes, siempre conducirán a una falsa espiritualidad. Puede tener la apariencia, pero Juan se encargó de mostrar el estándar de Dios de la verdadera vida. Aquél creyente que no está amando como Cristo nos amó, se está perdiendo completamente de experimentar la vida eterna.
+#### Los falsos maestros, que estaban tratando de engañar a estos creyentes, siempre conducirán a una falsa espiritualidad. Puede tener la apariencia, pero Juan se encargó de mostrar el estándar de Dios de la verdadera vida. Aquél <u>creyente</u> que no está amando como Cristo nos amó, se está perdiendo completamente de experimentar la vida eterna.
 
 [^1]: Ireneo Contra las Herejías, vi.4, p. 324 en Padres Ante Nicenos, vol. 1
 [^2]: Respuesta según ChatGPT
