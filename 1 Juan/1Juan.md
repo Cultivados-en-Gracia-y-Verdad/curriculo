@@ -4,13 +4,13 @@ Title: Primera epístola del apóstol Juan
 
 ##  Importancia de la epístola 1 Juan. 
 
-### La epístola de 1 Juan es muy significativa, debido a que aborda muchas creencias fundamentales de la fe cristiana como la encarnación de Cristo en carne, su deidad, nos muestra como los creyentes pueden vivir en la luz, la comunión unos con otros, nos muestra quienes son los falsos maestros, seguridad de salvación y la relación del creyente con el pecado.
+### La epístola de 1 Juan es muy significativa, debido a que aborda muchas creencias fundamentales de la fe cristiana como la encarnación de Cristo en carne y Su deidad. Nos muestra como los creyentes pueden vivir en luz y la comunión unos con otros. Nos muestra quienes son los falsos maestros, seguridad de salvación y la relación del creyente con el pecado.
 
-### El autor va a comunicar claramente durante toda la epístola quién es Jesús y lo que él hizo por nosotros, identificándose como un testigo ocular y presencial de Jesucristo “*lo oyó, lo vio, lo contempló, lo palpo*”.  
+### El autor va a comunicar claramente durante toda la epístola quién es Jesús y lo que él hizo por nosotros, identificándose como un testigo ocular y presencial de la vida “*lo oyó, lo vio, lo contempló, lo palpo*”.  
 
-#### El capítulo 1 aborda sobre el verbo de vida, la comunión, el andar en la luz, la confesión de pecados.
+#### El capítulo 1 aborda sobre el verbo de vida, la comunión, el andar en la luz y la confesión de pecados.
 
-#### El capítulo 2 aborda sobre la propiciación de los pecados, el guardar sus mandamientos,  el amor a los hermanos, el amor al mundo, el anticristo y su engaño , el permanecer en él.
+#### El capítulo 2 aborda sobre la propiciación de los pecados, el guardar sus mandamientos,  el amor a los hermanos, el amor al mundo, el Anticristo y su engaño , el permanecer en él.
 
 #### El capítulo 3 aborda sobre el amor del Padre como hijos de Dios, la relación del pecado con los nacidos de Dios, el amor práctico entre hermanos, la reprensión del corazón, el guardar sus mandamientos.
 
