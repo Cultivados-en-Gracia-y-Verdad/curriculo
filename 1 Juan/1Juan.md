@@ -43,13 +43,13 @@ Title: Primera epístola del apóstol Juan
 
 #### Las <u>doctrinas</u> como el Gnosticismo enseñaban que la materia era mala y el espíritu bueno, negaban que Jesús vino en un cuerpo físico de carne y hueso (docetismo).
 
-### Existían confusiones en relación al pecado (1 Juan 1:8) , guardar sus mandamientos (1 Juan 2:4)  y permanecer en él (1 Juan 2:6), las falsas enseñanzas que afectaron de manera <u>visible</u> y práctica en su andar.
+### Existían confusiones en relación al pecado (1 Juan 1:8), guardar sus mandamientos (1 Juan 2:4)  y permanecer en él (1 Juan 2:6), las falsas enseñanzas que afectaron de manera <u>visible</u> y práctica en su andar.
 
 ### La comunión <u>entre</u> creyentes había sido destruida al punto de llegar a detestar a sus hermanos, olvidando que pasaron de muerte a vida (1 Juan 2:9-11; 3:10-15) .
 
 ### Muchos creyentes llegaban a concluir que no <u>tenían</u> vida eterna debido a su extravío de la verdad (1 Juan 5:13).
 
-## Autor.
+## Autor
 
 ### El autor de la epístola no se identifica en la misma con su nombre, sin embargo su manera de escribir, vocabulario, y conceptos los cuales expresa en la epístola coinciden con el <u>Evangelio</u> según Juan.
 
@@ -61,11 +61,11 @@ Title: Primera epístola del apóstol Juan
 
 ### Al observar estos detalles concluimos que el autor de esta epístola es el apóstol Juan.
 
-## Fecha de escritura.
+## Fecha de escritura
 
 ### Una estimación de escritura oscila entre los años 85 y 95 d.C., muy probablemente desde Éfeso según historiadores del <u>siglo</u> II y III (Ireneo, Polícrates, Eusebio y Jerónimo).
 
-## La vida y ministerio del apóstol Juan.
+## La vida y ministerio del apóstol Juan
 
 ### Juan y Jacobo eran Hijos de Zebedeo, eran pescadores de oficio, y <u>compañeros</u> de Simón (Pedro) Lucas 5:10 , hasta que fueron llamados por Jesús y dejando al instante las redes le siguieron. Juan 4:19-22; Marcos 1:20
 
@@ -87,7 +87,7 @@ Title: Primera epístola del apóstol Juan
 
 ### No existe registro bíblico de su muerte, sin embargo según los historiadores (Ireneo, Eusebio, Jerónimo) afirman que murió en paz en Éfeso sin ser martirizado <u>como</u> los otros apóstoles.
 
-## Escritos atribuidos a Juan.
+## Escritos atribuidos a Juan
 
 ### **Evangelio según Juan** Fue escrito alrededor de los años 80–90 d.C, revela a Jesús como el hijo de Dios a todo el mundo para que <u>crean</u>  y creyendo tengan vida eterna.
 
@@ -471,13 +471,13 @@ Title: Primera epístola del apóstol Juan
 
 #### Hay que notar que el autor está incluyéndose también en la posibilidad de engañarse a sí mismo. 1 Juan 4:1
 
-¿Estás negando que tienes pecado? Juan quiere que sepas que eso es andar en tinieblas. 
+##### ¿Estás negando que tienes pecado? Juan quiere que sepas que eso es andar en tinieblas. 
 
-¿Pero que sucede cuando andamos en la luz?
+##### ¿Pero que sucede cuando andamos en la luz?
 
 ## 1 Juan 1:9 Confesar nuestros pecados es permanecer en la luz
 
-Tomaremos un momento para mirar diferentes puntos de vista sobre la confesión de pecados. Existen 5 puntos de vista principales sobre la confesión de pecados. 
+### Tomaremos un momento para mirar diferentes puntos de vista sobre la confesión de pecados. Existen 5 puntos de vista principales sobre la confesión de pecados. 
 
 > ##### **Perspectiva #1: La confesión como medio de salvación**: La confesión es el reconocimiento del pecado que conduce al perdón inicial y la purificación en la conversión.  Confesión de pecados expresa la condición para la salvación: estar de acuerdo con Dios acerca del pecado y confiar en su purificación a través de Cristo. Una vez confesado, la persona queda purificada y entra en comunión con Dios.
 
@@ -501,7 +501,7 @@ Tomaremos un momento para mirar diferentes puntos de vista sobre la confesión d
 
 ###### De aquí se pasa fácilmente al sentido de “*reconocer*”, “*declarar públicamente*”, (28-29 d.C.)[^4]
 
-Entonces, ¿Qué confesamos? 
+#### Entonces, ¿Qué confesamos? 
 
 ### 1 Juan 1:9a *confesamos...nuestros pecados...”*  Contrario a aquel que niega el problema (1 Juan 1:8), está aquel que reconoce sus pecados. 
 
@@ -539,7 +539,7 @@ Entonces, ¿Qué confesamos?
 
 #### Cómo hemos visto antes, para Juan, es la luz la que pone al descubierto nuestras obras, Juan 3:19-21. ¿Entonces cuál es la verdad que lleva al creyente a confesar sus pecados (expuestos por la luz)?
 
-Es interesante notar el énfasis de Juan cuando habla del creyente que anda en la luz. No dice específicamente que tiene comunión con Dios sino comunión con los hermanos. Ahora, vemos que el andar en luz conlleva ser transparentes y admitir nuestros pecados lo que implica que es tanto vertical como horizontal. ¿y que resulta de esto? 
+##### Es interesante notar el énfasis de Juan cuando habla del creyente que anda en la luz. No dice específicamente que tiene comunión con Dios sino comunión con los hermanos. Ahora, vemos que el andar en luz conlleva ser transparentes y admitir nuestros pecados lo que implica que es tanto vertical como horizontal. ¿y que resulta de esto? 
 
 ### 1 Juan 1:9b - …*Él es fiel y Justo* literalmente dice, "Él esta siendo fiel y justo". 
 
@@ -685,7 +685,7 @@ Es interesante notar el énfasis de Juan cuando habla del creyente que anda en l
 
 #### Entonces, ¿Cómo anduvo él?
 
-**1 Juan 2:7-11 - Una vida de amor**
+## 1 Juan 2:7-11 - Una vida de amor
 
 ### 1 Juan 2:7a - "*Amados...*" Juan nuevamente usa un término cariñoso para referirse a los destinatarios. Lo hará varias veces a lo largo del libro. Esto muestra que Juan tiene las mejores intenciones para ellos al comunicarles la verdad.
 
@@ -825,7 +825,7 @@ Es interesante notar el énfasis de Juan cuando habla del creyente que anda en l
 
 ### “*el que hace”*, no solamente el que “conoce”. La propiciación de Jesús por nuestros pecados no es solamente para que no pequemos, sino para que podamos vivir una vida que refleja el amor de Dios hacia otros. 
 
-## **En conclusión (2:1-17)**
+## En conclusión (2:1-17)
 
 ### Si podríamos describir la vida abundante desde la perspectiva de Juan es una que se apropia de un abogado, y gracias a esa intercesión, permanece en él, para caminar como el anduvo.
 
@@ -889,7 +889,7 @@ Es interesante notar el énfasis de Juan cuando habla del creyente que anda en l
 
 #### El Espíritu Santo en nosotros garantiza al creyente el poder ser enseñado en la Verdad.
 
-## **1 Juan 2:21-23 – Entonces conociendo de los falsos maestros, ¿Qué podemos conocer en cuanto a sus enseñanzas?**
+## 1 Juan 2:21-23 – Entonces conociendo de los falsos maestros, ¿Qué podemos conocer en cuanto a sus enseñanzas?
 
 ### 1 Juan 2:21 – *No les he escrito porque ignoran la verdad sino porque la conoce y porque ninguna mentira procede de la verdad.* El encubrimiento, requiere de advertencias como estas, por lo tanto, ya que conocen la verdad, comparen lo que ellos dicen, con lo que les hemos enseñado, y sabrán de quienes hablamos.
 
@@ -1089,7 +1089,7 @@ Es interesante notar el énfasis de Juan cuando habla del creyente que anda en l
 
 #### Para Juan son cruciales estos dos imperativos, si no permanecemos en él, no tenemos comunión con él, si no miramos su amor, no tendremos idea de cómo amar a los demás. 1 Corintios 4:7
 
-# 1 Juan 3:3-9 ASÍ COMO EL ES PURO, ASÍ COMO ÉL ES JUSTO  
+# 1 Juan 3:3-9 ASÍ COMO EL ES PURO, ASÍ COMO ÉL ES JUSTO 
 
 ## 1 Juan 3:3-6 La obra de Cristo quita nuestros pecados.
 
@@ -1555,7 +1555,7 @@ Es interesante notar el énfasis de Juan cuando habla del creyente que anda en l
 
 #### El amor que nos debemos como hermanos, está en proporción al amor que hemos recibido de Dios. Esta es el amor que se manifiesta en nosotros, cuando vivimos por medio de Cristo.
 
-# ASÍ COMO EL ES, SOMOS EN ESTE MUNDO – 1 JUAN 4:12-21  
+# 1 Juan 4:12-21 - ASÍ COMO EL ES, SOMOS EN ESTE MUNDO
 
 ### 1 Juan 4:12 – *A Dios nunca lo ha visto nadie. Si nos amamos unos a otros, Dios permanece en nosotros y su amor se perfecciona en nosotros.* Juan quiere mostrarnos que Dios puede ser visto en nosotros, a través de su amor perfeccionado en nosotros. Juan 1:18, 1 Timoteo 6:16
 
@@ -1671,7 +1671,7 @@ Es interesante notar el énfasis de Juan cuando habla del creyente que anda en l
 
 #### En Juan 13:1 Juan dice, que Jesús había amado a los suyos, y el mismo decidió identificarse como el discípulo al que Jesús amaba. Fue el amor de Cristo que le mostró lo que él era, y al vivir en esa realidad, vivió una vida entregada por los hermanos. Filipenses 2:3-11
 
-# 1 JUAN 5:1-21 LA GARANTÍA DE LA VIDA ETERNA
+# 1 JUAN 5:1-21 -  LA GARANTÍA DE LA VIDA ETERNA
 
 ### Aunque puesto al final, este capítulo puede aclarar muchas cosas en toda la carta, veremos que Juan quiere garantizarles a todos los que han creído en Cristo que tienen la vida eterna, pero quiere llevarlos a que puedan experimentarla en su plenitud.
 
