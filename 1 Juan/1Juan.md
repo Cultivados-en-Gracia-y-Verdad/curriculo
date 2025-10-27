@@ -19,7 +19,7 @@ Title: Primera epístola del apóstol Juan
 
 #### El capítulo 5 aborda sobre quien vence al mundo, el testimonio en el cielo y en la tierra, la vida en el Hijo, la seguridad de la vida eterna, el conocimiento verdadero de Dios.
 
-## Situación general del cristianismo
+## Situación general del cristianismo.
 
 ### Después de la resurrección y ascensión de Jesús, los creyentes enfrentaron oposición del sanedrín y líderes religiosos judíos alrededor de los años 30-40 d.C. Hechos 4-5,7-8,12
 
@@ -33,7 +33,7 @@ Title: Primera epístola del apóstol Juan
 
 ### Los creyentes eran perseguidos por el emperador Domiciano 81-96 d.C. , eran vistos con desconfianza debido a no rendir culto al emperador.
 
-## Situación interna de la iglesia
+## Situación interna de la iglesia.
 
 ### Entender la situación interna de la iglesia en el momento que se escribió 1 de Juan es clave para comprender sus motivos de escribirles y lo que estaban enfrentando los creyentes.
 
@@ -63,7 +63,7 @@ Title: Primera epístola del apóstol Juan
 
 ### Una estimación de escritura oscila entre los años 85 y 95 d.C., muy probablemente desde Éfeso según historiadores del siglo II y III (Ireneo, Polícrates, Eusebio y Jerónimo).
 
-## La vida y ministerio del apóstol Juan
+## La vida y ministerio del apóstol Juan.
 
 ### Juan y Jacobo eran Hijos de Zebedeo, eran pescadores de oficio, y compañeros de Simón (Pedro) Lucas 5:10 , hasta que fueron llamados por Jesús y dejando al instante las redes le siguieron. Juan 4:19-22; Marcos 1:20
 
@@ -99,7 +99,7 @@ Title: Primera epístola del apóstol Juan
 
 ### **Apocalipsis** Fue escrito alrededor de los años 94–96 d.C en la isla de Patmos, es la revelación de Jesucristo, quien manda a Juan a escribir las cosas que son, que han de ser, y las que han de ser después de estas. Apocalipsis 1:19
 
-## Propósito de la escritura
+## Propósito de la escritura.
 
 ### Uno de los propósitos de anunciarles esto, es para que tengan comunión con nosotros, que es con el Padre y con su Hijo Jesucristo, con el fin que que su gozo sea completo. 1 Juan 1:3-4
 
