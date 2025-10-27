@@ -1673,239 +1673,239 @@ Title: Primera epístola del apóstol Juan
 
 # 1 JUAN 5:1-21 -  LA GARANTÍA DE LA VIDA ETERNA
 
-### Aunque puesto al final, este capítulo puede aclarar muchas cosas en toda la carta, veremos que Juan quiere garantizarles a todos los que han creído en Cristo que tienen la vida eterna, pero quiere llevarlos a que puedan experimentarla en su plenitud.
+### Aunque puesto al final, este capítulo <u>puede</u> aclarar muchas cosas en toda la carta, veremos que Juan quiere garantizarles a todos los que han creído en Cristo que tienen la vida eterna, pero quiere llevarlos a que puedan experimentarla en su plenitud.
 
-## 1 Juan 5:1-5   La Vida por la fe, es Victoriosa 
+## 1 Juan 5:1-5   La vida por la fe, es victoriosa 
 
-### 1 Juan 5:1a – *Todo aquel que cree que Jesús es el Cristo, es nacido de Dios*… Juan quiere establecer quienes son los miembros de la familia de Dios, quienes son todos estos hermanos.
+### 1 Juan 5:1a – *Todo aquel que cree que Jesús es el Cristo, es nacido de Dios*… Juan quiere establecer quienes son los miembros de la familia de Dios, <u>quienes</u> son todos estos hermanos.
 
-#### Juan está completamente de acuerdo con toda la escritura, con la fe sola en Jesucristo solamente, como único requisito para ser un nacido de Dios.
+#### Juan está completamente de <u>acuerdo</u> con toda la escritura, con la fe sola en Jesucristo solamente, como único requisito para ser un nacido de Dios.
 
-#### El que cree, describe a alguien, cuyo objeto de fe, es la persona y obra de Jesús. Jesús es el Mesías, para Juan: El Hijo Propiciación por nuestros pecados, el Hijo Salvador del mundo. Estos que creen, son hijos de Dios. Juan 1:12
+#### El que cree, describe a alguien, <u>cuyo</u> objeto de fe, es la persona y obra de Jesús. Jesús es el Mesías, para Juan: El Hijo Propiciación por nuestros pecados, el Hijo Salvador del mundo. Estos que creen, son hijos de Dios. Juan 1:12
 
-### “…*es nacido de Dios…”* describe a alguien que ha nacido y continúa siendo un nacido de Dios. El nuevo nacimiento es algo que permanece para siempre.
+### “…*es nacido de Dios…”* describe a alguien que ha <u>nacido</u> y continúa siendo un nacido de Dios. El nuevo nacimiento es algo que permanece para siempre.
 
-### 1 Juan 5:1b - *…todo aquel que ama al Padre, ama al que ha nacido de él.* Debido a que amamos al Padre, aquel que nos dio la vida, el engendrador de vida, amamos también a nuestros hermanos, miembros de la misma familia.
+### 1 Juan 5:1b - *…todo aquel que ama al Padre, ama al que ha nacido de él.* Debido a que amamos al Padre, aquel que nos dio la vida, el engendrador de vida, <u>amamos</u> también a nuestros hermanos, miembros de la misma familia.
 
-#### No es lógico no amar a alguien que vino de aquel a quien amamos. Es por eso que, si amamos a Dios, amamos a nuestros hermanos, ya que entendemos que ellos también vienen de nuestro Padre. Juan 20:17
+#### No es lógico no amar a alguien que <u>vino</u> de aquel a quien amamos. Es por eso que, si amamos a Dios, amamos a nuestros hermanos, ya que entendemos que ellos también vienen de nuestro Padre. Juan 20:17
 
-### 1 Juan 5:2 – *En esto sabemos que amamos a los hijos de Dios: Cuando amamos a Dios y guardamos sus mandamientos.* El amor a los hijos de Dios, es de acuerdo con sus mandamientos.
+### 1 Juan 5:2 – *En esto sabemos que amamos a los hijos de Dios: Cuando amamos a Dios y guardamos sus mandamientos.* El amor a los hijos de Dios, es de <u>acuerdo</u> con sus mandamientos.
 
-#### El amor a los hijos de Dios, es proporcional al amor a Dios, y sus mandamientos. Si no es de esta proporción, no es verdadero amor a los hijos de Dios.
+#### El amor a los <u>hijos</u> de Dios, es proporcional al amor a Dios, y sus mandamientos. Si no es de esta proporción, no es verdadero amor a los hijos de Dios.
 
-#### No amamos a los hermanos si hacemos contra ellos cosas contrarias a los mandamientos de Dios, pero al amarlos, cumplimos sus mandamientos. Gálatas 5:13-15
+#### No amamos a los hermanos si hacemos <u>contra</u> ellos cosas contrarias a los mandamientos de Dios, pero al amarlos, cumplimos sus mandamientos. Gálatas 5:13-15
 
-#### Cuando amamos a Dios (porque él nos amó primero, entonces podemos mirar su amor, y amarlo como resultado), y guardamos sus mandamientos (mientras permanecemos en Cristo, y su amor se perfecciona en nosotros), podemos saber con toda certeza, que amamos a los hijos de Dios, ya que será su amor fluyendo en nuestras vidas.
+#### Cuando amamos a Dios (porque él nos amó <u>primero</u>, entonces podemos mirar su amor, y amarlo como resultado), y guardamos sus mandamientos (mientras permanecemos en Cristo, y su amor se perfecciona en nosotros), podemos saber con toda certeza, que amamos a los hijos de Dios, ya que será su amor fluyendo en nuestras vidas.
 
-### 1 Juan 5:3 – *Porque este es el amor de Dios: que guardemos sus mandamientos, y sus mandamientos no son difíciles.* 2 Corintios 5:14-15
+### 1 Juan 5:3 – *Porque este es el <u>amor</u> de Dios: que guardemos sus mandamientos, y sus mandamientos no son difíciles.* 2 Corintios 5:14-15
 
-#### Podríamos leer este versículo de la siguiente forma: el amor de Dios está siendo para que guardemos sus mandamientos. El guardar los mandamientos de Dios, nunca será el resultado de la fuerza humana, pero si el resultado del perfecto amor de Dios.
+#### Podríamos leer este versículo de la siguiente forma: el amor de Dios está siendo para que guardemos sus mandamientos. El <u>guardar</u> los mandamientos de Dios, nunca será el resultado de la fuerza humana, pero si el resultado del perfecto amor de Dios.
 
-#### La única explicación del amor, es el amor de Dios.
+#### La única explicación del amor, es el <u>amor</u> de Dios.
 
-#### Los mandamientos para los hijos de Dios entonces, ya no son difíciles, o mejor dicho: *una carga”.* No es algo que un hijo de Dios debe cargar, sino es el fruto del amor de Dios para con él.
+#### Los mandamientos para los <u>hijos</u> de Dios entonces, ya no son difíciles, o mejor dicho: *una carga”.* No es algo que un hijo de Dios debe cargar, sino es el fruto del amor de Dios para con él.
 
-#### Mateo 11:28-29 – Es su vida para con nosotros, es conocerlo a él y crecer en su gracia para con nosotros.
+#### Mateo 11:28-29 – Es su vida para con nosotros, es conocerlo a él y <u>crecer</u> en su gracia para con nosotros.
 
-#### ¿Por qué los mandamientos ya no son una carga para los hijos de Dios?
+#### ¿Por qué los mandamientos ya no son una <u>carga</u> para los hijos de Dios?
 
-### 1 Juan 5:4 – *Porque todo lo que es nacido de Dios vence al mundo. Y esta es la victoria que ha vencido al mundo: nuestra fe.*
+### 1 Juan 5:4 – *Porque todo lo que es <u>nacido</u> de Dios vence al mundo. Y esta es la victoria que ha vencido al mundo: nuestra fe.*
 
-#### Los mandatos de Dios, ya no son una carga para sus hijos, debido a lo que somos como nacidos de Dios. No son una carga porque el amor de Dios en nosotros, ha triunfado sobre el mundo y su esclavitud.
+#### Los mandatos de Dios, ya no son una carga para sus hijos, debido a lo que somos como nacidos de Dios. No son una carga porque el <u>amor</u> de Dios en nosotros, ha triunfado sobre el mundo y su esclavitud.
 
-#### En 1 Juan 2:15-17, vimos como Juan describió la vida que el mundo ofrece centrada en la autosuficiencia, pero habiendo vencido esto, podemos amar al mirar el amor de Dios para con nosotros, y mirar en su amor, lo que somos para él.
+#### En 1 Juan 2:15-17, vimos como Juan describió la vida que el mundo ofrece centrada en la autosuficiencia, pero <u>habiendo</u> vencido esto, podemos amar al mirar el amor de Dios para con nosotros, y mirar en su amor, lo que somos para él.
 
-#### La victoria es nuestra confianza, es decir en quien hemos creído, y no nuestras obras. La vida victoriosa es el resultado de estar creyendo la verdad. En un andar por fe, la vitoria está siendo.
+#### La victoria es nuestra confianza, es decir en <u>quien</u> hemos creído, y no nuestras obras. La vida victoriosa es el resultado de estar creyendo la verdad. En un andar por fe, la vitoria está siendo.
 
-### 1 Juan 5:5 – ¿*y quién es el que vence al mundo, sino el que cree que Jesús es el Hijo de Dios?* Solamente los nacidos de Dios, por medio de la fe en Jesucristo, escapar de una vida de autosatisfacción, y la esclavitud en la que estábamos, es imposible si no fuera por Cristo. Cristo es nuestra victoria.
+### 1 Juan 5:5 – ¿*y quién es el que vence al mundo, sino el que cree que Jesús es el Hijo de Dios?* Solamente los nacidos de Dios, por medio de la fe en Jesucristo, <u>escapar</u> de una vida de autosatisfacción, y la esclavitud en la que estábamos, es imposible si no fuera por Cristo. Cristo es nuestra victoria.
 
 ## 1 Juan 5:6-13  El contenido de nuestra fe, el testimonio de Cristo 
 
-### 1 Juan 5:6-8 – *Este es aquél que vino mediante agua y sangre, Jesucristo; no solo con agua sino con agua y Sangre. Y el Espíritu es el que da testimonio, porque el Espíritu es la verdad. Porque tres son los que dan testimonio en el cielo: El Padre, el Verbo, y el Espíritu Santo, y estos tres son uno. Y tres son los que dan testimonio en la tierra; el Espíritu el agua y la sangre, y los tres concuerdan.*
+### 1 Juan 5:6-8 – *Este es aquél que vino mediante <u>agua</u> y sangre, Jesucristo; no solo con agua sino con agua y Sangre. Y el Espíritu es el que da testimonio, porque el Espíritu es la verdad. Porque tres son los que dan testimonio en el cielo: El Padre, el Verbo, y el Espíritu Santo, y estos tres son uno. Y tres son los que dan testimonio en la tierra; el Espíritu el agua y la sangre, y los tres concuerdan.*
 
-#### Sobre esta porción debemos hacer una aclaración. En los textos griegos no aparece gran parte del versículo 7, el texto debería terminar en la palabra testimonio, y luego continuar con el 8.
+#### Sobre esta porción debemos hacer una aclaración. En los textos griegos no aparece gran parte del versículo 7, el <u>texto</u> debería terminar en la palabra testimonio, y luego continuar con el 8.
 
-#### Ningún comentarista del texto griego cuenta esa parte de los versículos en cuanta, de hecho, añaden que aparece en nuestras Biblias, proviniendo desde la Vulgata latina.
+#### Ningún comentarista del texto griego <u>cuenta</u> esa parte de los versículos en cuanta, de hecho, añaden que aparece en nuestras Biblias, proviniendo desde la Vulgata latina.
 
-#### *La nota tuvo un origen Latino. La primera vez que aparece este pasaje en la forma más larga (con el testigo celestial) es en el Tratado Liber Apologeticus, escrito por un hereje español Prisciliano (murió 385 d.C) o su seguidor, el obispo Instantio… La nota apareció en los escritos de los padres latinos en el norte de Africa e Italia (como parte del texto de la Epístola) a partir del siglo V, y encontró lugar en más y más copias de la Vulgata Latina. (La traducción original de Jerónimo no la contenía.) El pasaje del “testigo celestial” no se encuentra en ningún texto de ningún manuscrito griego antes del siglo XIV, y nunca fue citado por algún padre griego.[^5] – *
+#### *La nota tuvo un origen Latino. La primera vez que aparece este pasaje en la forma más larga (con el testigo celestial) es en el Tratado Liber Apologeticus, escrito por un hereje español Prisciliano (murió 385 d.C) o su seguidor, el obispo Instantio… La nota apareció en los escritos de los padres latinos en el norte de <u>Africa</u> e Italia (como parte del texto de la Epístola) a partir del siglo V, y encontró lugar en más y más copias de la Vulgata Latina. (La traducción original de Jerónimo no la contenía.) El pasaje del “testigo celestial” no se encuentra en ningún texto de ningún manuscrito griego antes del siglo XIV, y nunca fue citado por algún padre griego.[^5] – *
 
-### 1 Juan 5:6-8 – *Este es aquél que vino mediante agua y sangre, Jesucristo; no solo con agua sino con agua y Sangre. Y el Espíritu es el que da testimonio, porque el Espíritu es la verdad. Porque tres son los que dan testimonio; el Espíritu el agua y la sangre, y los tres concuerdan*. (versículos copiados sin la porción explicada, para el estudio de este currículo).
+### 1 Juan 5:6-8 – *Este es aquél que vino mediante agua y sangre, Jesucristo; no solo con agua sino con agua y Sangre. Y el Espíritu es el que da testimonio, <u>porque</u> el Espíritu es la verdad. Porque tres son los que dan testimonio; el Espíritu el agua y la sangre, y los tres concuerdan*. (versículos copiados sin la porción explicada, para el estudio de este currículo).
 
-### 1 Juan 5:6a - *Este es aquel que vino mediante agua y sangre, Jesucristo; no solo con agua, sino con agua y sangre…*
+### 1 Juan 5:6a - *Este es aquel que vino mediante agua y <u>sangre</u>, Jesucristo; no solo con agua, sino con agua y sangre…*
 
-#### *Este es aquel que vino… Jesucristo…* Hablando de Jesús el Hijo de Dios. Como Juan había dicho que todo aquel que confiesa que Jesucristo ha vendo en carne (4:2), veremos la confesión de fe del creyente.
+#### *Este es aquel que vino… Jesucristo…* Hablando de Jesús el Hijo de Dios. Como Juan había dicho que todo aquel que confiesa que Jesucristo ha <u>vendo</u> en carne (4:2), veremos la confesión de fe del creyente.
 
-#### El hecho de que Jesús haya venido en carne muestra que el siempre existió, *pero cuando vino la plenitud del tiempo, Dios envió a Su Hijo, nacido de mujer, nacido bajo la Ley. Gálatas 4:4*
+#### El hecho de que Jesús haya <u>venido</u> en carne muestra que el siempre existió, *pero cuando vino la plenitud del tiempo, Dios envió a Su Hijo, nacido de mujer, nacido bajo la Ley. Gálatas 4:4*
 
-#### *...mediante agua y sangre… no solo con agua sino con agua y sangre…* Luego estos dos se unen junto con el Espíritu como aquellos que dan testimonio del Hijo de Dios, entonces esto nos ayuda a entender mejor a que hace referencia Juan por medio de esto.
+#### *...mediante agua y sangre… no solo con agua sino con agua y sangre…* Luego estos dos se unen junto con el Espíritu como aquellos que dan testimonio del Hijo de Dios, entonces esto nos ayuda a entender <u>mejor</u> a que hace referencia Juan por medio de esto.
 
-### Mediante agua, podría significar muchas cosas, pero debido al hecho de un testimonio junto con el Espíritu, lo más probable es que haga referencia al testimonio del Hijo de Dios, manifestado en su bautismo. Esto nos habla de su persona. Mateo 3:16-17
+### Mediante agua, podría significar muchas <u>cosas</u>, pero debido al hecho de un testimonio junto con el Espíritu, lo más probable es que haga referencia al testimonio del Hijo de Dios, manifestado en su bautismo. Esto nos habla de su persona. Mateo 3:16-17
 
-### Mediante sangre, el testimonio junto con el espíritu que dan hace referencia a la muerte de Jesús, el propósito de su venida, y su postrera resurrección. Romanos 1:4
+### Mediante sangre, el testimonio <u>junto</u> con el espíritu que dan hace referencia a la muerte de Jesús, el propósito de su venida, y su postrera resurrección. Romanos 1:4
 
-### 1 Juan 5:6b - …*Y el Espíritu es el que da testimonio, porque el Espíritu es la verdad.* Juan no solo habla del hecho de un testimonio dado, por medio del agua y de la sangre, sino que un testimonió que el Espíritu está dando, el cuál es la verdad. Juan 15:26-27
+### 1 Juan 5:6b - …*Y el Espíritu es el que da testimonio, porque el Espíritu es la verdad.* Juan no solo habla del hecho de un testimonio dado, por <u>medio</u> del agua y de la sangre, sino que un testimonió que el Espíritu está dando, el cuál es la verdad. Juan 15:26-27
 
-#### Juan 15:22 – Jesucristo dio un testimonio del Padre en su venida. Y ahora el Espíritu Santo da testimonio del Hijo.
+#### Juan 15:22 – Jesucristo dio un testimonio del Padre en su <u>venida</u>. Y ahora el Espíritu Santo da testimonio del Hijo.
 
-#### Cuando el mensaje de Cristo es rechazado, es un rechazo directo al testimonio al Espíritu santo, que está siendo la verdad. Hechos 5:32, 7:51-52
+#### Cuando el <u>mensaje</u> de Cristo es rechazado, es un rechazo directo al testimonio al Espíritu santo, que está siendo la verdad. Hechos 5:32, 7:51-52
 
-### 1 Juan 5:7-8 – *Porque tres son los que dan testimonio; el Espíritu el agua y la sangre, y los tres concuerdan*. Ahora muestra como el hecho de que vino mediante agua y sangre, es un hecho que se une a dar un testimonio, junto con el Espíritu santo, y estos tres están dando testimonio. Junto con los apóstoles, que eran testigos de todas estas cosas. Hechos 1:21-22
+### 1 Juan 5:7-8 – *Porque tres son los que dan testimonio; el Espíritu el agua y la sangre, y los tres concuerdan*. Ahora muestra como el <u>hecho</u> de que vino mediante agua y sangre, es un hecho que se une a dar un testimonio, junto con el Espíritu santo, y estos tres están dando testimonio. Junto con los apóstoles, que eran testigos de todas estas cosas. Hechos 1:21-22
 
-#### Los tres testimonios apuntan hacia el mismo, Jesucristo. Juan quiere validar esta declaración como una verdad absoluta, Jesucristo, el Hijo de Dios, ha venido en carne, y ha muerto por nuestros pecados, Él es el salvador del mundo y la propiciación por nuestros pecados.
+#### Los tres testimonios apuntan hacia el mismo, Jesucristo. Juan quiere validar esta declaración como una verdad absoluta, Jesucristo, el Hijo de Dios, ha <u>venido</u> en carne, y ha muerto por nuestros pecados, Él es el salvador del mundo y la propiciación por nuestros pecados.
 
-#### Juan enseña que hay tres testificantes. Esto tenía una gran importancia para los judíos, puesto que el testimonio que tenía validez en un juicio, especialmente cuando se trataba de un asunto que podía traer como resultado una condena a muerte, tenía que ser concordante con dos o tres testigos, lo que daba un hecho por verdadero Deuteronomio 17:6, 19:15; Juan 8:17–18
+#### Juan enseña que hay tres testificantes. Esto tenía una gran importancia para los judíos, puesto que el testimonio que tenía <u>validez</u> en un juicio, especialmente cuando se trataba de un asunto que podía traer como resultado una condena a muerte, tenía que ser concordante con dos o tres testigos, lo que daba un hecho por verdadero Deuteronomio 17:6, 19:15; Juan 8:17–18
 
-### Los testigos de Cristo, sus apóstoles, simplemente testificaron solemnemente de hechos, y estos hechos, testificaron juntamente con ellos. Juan 15:26-27; Hechos 1:8
+### Los <u>testigos</u> de Cristo, sus apóstoles, simplemente testificaron solemnemente de hechos, y estos hechos, testificaron juntamente con ellos. Juan 15:26-27; Hechos 1:8
 
-### 1 Juan 5:9a – *Si recibimos el testimonio de los hombres, mayor es el testimonio de Dios…* 1 Juan 4:14
+### 1 Juan 5:9a – *Si recibimos el testimonio de los hombres, <u>mayor</u> es el testimonio de Dios…* 1 Juan 4:14
 
-#### Esta es una condición de primera clase, entonces podemos decir que Juan está diciéndoles a los creyentes, ya que hemos recibido el testimonio de hombres (habían escuchado de Cristo por medio de ellos, los apóstoles).
+#### Esta es una condición de primera clase, entonces podemos decir que Juan está diciéndoles a los creyentes, ya que <u>hemos</u> recibido el testimonio de hombres (habían escuchado de Cristo por medio de ellos, los apóstoles).
 
-#### De hecho, todos hemos escuchado el Evangelio por medio de la predicación de este, es decir hemos recibido un mensaje. 1 Corintios 1:21-22; Efesios 1:13; Romanos 10:14
+#### De hecho, todos hemos escuchado el Evangelio por <u>medio</u> de la predicación de este, es decir hemos recibido un mensaje. 1 Corintios 1:21-22; Efesios 1:13; Romanos 10:14
 
-#### Si dos o tres hombres están de acuerdo en un testimonio, y eso es creíble para nosotros, cuanto más es si Dios, por medio de tres testigos, está dando testimonio de la verdad.
+#### Si dos o tres hombres están de acuerdo en un testimonio, y eso es creíble para nosotros, cuanto más es si Dios, por medio de tres <u>testigos</u>, está dando testimonio de la verdad.
 
-### 1 Juan 5:9b – *Porque este es el testimonio de Dios: que Él ha dado testimonio de su Hijo.* Dios tiene un testimonio constante a cerca de Su Hijo. Juan 8:17-18
+### 1 Juan 5:9b – *Porque este es el testimonio de Dios: que Él ha dado testimonio de su Hijo.* Dios <u>tiene</u> un testimonio constante a cerca de Su Hijo. Juan 8:17-18
 
-#### Jesús mismo dijo que el Padre ha dado testimonio de él. Él les mostró a los judíos que no creían en él, que tampoco habían creído en el testimonio del Padre. Toda la Escritura, es el testimonio de Jesucristo. Y Jesús mismo dijo eso. Juan 5:30-47
+#### Jesús mismo dijo que el Padre ha <u>dado</u> testimonio de él. Él les mostró a los judíos que no creían en él, que tampoco habían creído en el testimonio del Padre. Toda la Escritura, es el testimonio de Jesucristo. Y Jesús mismo dijo eso. Juan 5:30-47
 
-#### La predicación de Jesucristo es directamente de parte de Dios al hombre. 1 Corintios 5:18-21
+#### La predicación de Jesucristo es directamente de <u>parte</u> de Dios al hombre. 1 Corintios 5:18-21
 
-#### Si alguna vez está siendo demostrado quien es Jesucristo y lo que él hizo por nosotros, que sea por medio de la proclamación su Palabra, a través del Espíritu Santo. Toda gloria a Dios por medio de Su espíritu. 2 Corintios 4:2, 7
+#### Si alguna vez está siendo demostrado quien es Jesucristo y lo que él hizo por nosotros, que sea por <u>medio</u> de la proclamación su Palabra, a través del Espíritu Santo. Toda gloria a Dios por medio de Su espíritu. 2 Corintios 4:2, 7
 
-### 1 Juan 5:10 – *El que cree en el Hijo de Dios, tiene el testimonio en sí mismo. El que no cree a Dios, ha hecho a Dios mentiroso, porque no ha creído en el testimonio que Dios ha dado respecto a Su Hijo.* El rechazo a la Palabra de Cristo, el evangelio, es un rechazo directo a Dios.
+### 1 Juan 5:10 – *El que cree en el Hijo de Dios, tiene el testimonio en sí mismo. El que no cree a Dios, ha hecho a Dios mentiroso, porque no ha creído en el testimonio que Dios ha <u>dado</u> respecto a Su Hijo.* El rechazo a la Palabra de Cristo, el evangelio, es un rechazo directo a Dios.
 
-#### Nuevamente el objeto de nuestra fe es claro; el Hijo de Dios. Dios nos ha dado de su Espíritu y con toda certeza podemos asegurar que el mora en nosotros. Ya que él es la verdad, él testimonio de Cristo está en nosotros. Romanos 8:16, Gálatas 4:6
+#### Nuevamente el objeto de nuestra fe es claro; el Hijo de Dios. Dios nos ha dado de su Espíritu y con toda certeza podemos <u>asegurar</u> que el mora en nosotros. Ya que él es la verdad, él testimonio de Cristo está en nosotros. Romanos 8:16, Gálatas 4:6
 
-##### Este testimonio en nosotros, hace una obra de darnos la certeza de quienes somos, por lo tanto, nos lleva a crecer en nuestra confianza para con nuestro Padre.
+##### Este testimonio en nosotros, hace una obra de darnos la certeza de quienes somos, por lo tanto, nos lleva a crecer en nuestra <u>confianza</u> para con nuestro Padre.
 
-#### Juan ahora dice: “*el que no cree a Dios”,* Creer en Jesús es creerle a Dios, el rechazo del Hijo de Dios, es no creerle a Dios. ¿por qué?
+#### Juan ahora dice: “*el que no cree a Dios”,* Creer en Jesús es creerle a Dios, el rechazo del Hijo de Dios, es no <u>creerle</u> a Dios. ¿por qué?
 
-#### *Porque no ha creído el testimonio que Dios ha dado de su Hijo.* Si alguien cree es en respuesta el testimonio que Dios ha dado de su Hijo, por eso el rechazo es directamente contra él, ya que ha oído el mensaje, pero lo ha rechazado. Juan 3:18, 33, 1 Juan 1:10
+#### *Porque no ha creído el testimonio que Dios ha dado de su Hijo.* Si alguien cree es en respuesta el testimonio que Dios ha dado de su Hijo, por eso el <u>rechazo</u> es directamente contra él, ya que ha oído el mensaje, pero lo ha rechazado. Juan 3:18, 33, 1 Juan 1:10
 
-### 1 Juan 5:11 – *y el testimonio es este: que Dios ha dado vida eterna y esta vida está en su Hijo.*
+### 1 Juan 5:11 – *y el testimonio es este: que Dios ha <u>dado</u> vida eterna y esta vida está en su Hijo.*
 
-#### En 1:2 Juan, junto con los apóstoles dicen: que la vida fue manifestada, y la hemos visto. También dice que esta vida estaba con el Padre, y se había manifestado a ellos. Juan 1:4
+#### En 1:2 Juan, junto con los apóstoles dicen: que la vida fue manifestada, y la hemos visto. También dice que esta vida <u>estaba</u> con el Padre, y se había manifestado a ellos. Juan 1:4
 
-#### Claramente Dios ha dado la vida eterna al mundo, pero lo ha hecho por medio de Su Hijo. Jesús mismo dijo: “Yo Soy la Resurrección y la Vida”. Juan 11:25
+#### Claramente Dios ha dado la vida eterna al <u>mundo</u>, pero lo ha hecho por medio de Su Hijo. Jesús mismo dijo: “Yo Soy la Resurrección y la Vida”. Juan 11:25
 
-#### Cualquier hombre que va tras la vida por otro medio que no se por Jesucristo, está rechazando completamente a Dios. Juan 5:39
+#### Cualquier <u>hombre</u> que va tras la vida por otro medio que no se por Jesucristo, está rechazando completamente a Dios. Juan 5:39
 
-### 1 Juan 5:12 – *El que tiene al Hijo, tiene la vida, y el que no tiene al Hijo de Dios no tiene la vida.*
+### 1 Juan 5:12 – *El que tiene al Hijo, tiene la vida, y el que no <u>tiene</u> al Hijo de Dios no tiene la vida.*
 
-#### En el v10, Juan dijo que el que cree en el Hijo tiene el testimonio en sí mismo.
+#### En el v10, Juan dijo que el que cree en el Hijo tiene el testimonio en sí <u>mismo</u>.
 
-#### En la persona de Jesucristo hay total garantía de vida eterna. Tener al Hijo, por medio de la fe en él, es equivalente a tener la vida. Juan 3:36
+#### En la persona de Jesucristo hay total garantía de vida <u>eterna</u>. Tener al Hijo, por medio de la fe en él, es equivalente a tener la vida. Juan 3:36
 
 #### Solo hay dos tipos de personas:
 
-##### Aquellos que han creído a Dios, al creer en Jesucristo, por lo tanto, tienen al Hijo, y tienen la Vida.
+##### Aquellos que han <u>creído</u> a Dios, al creer en Jesucristo, por lo tanto, tienen al Hijo, y tienen la Vida.
 
-##### Aquellos que no han creído a Dios, rechazando el testimonio de Jesucristo, por lo tanto, no tienen al Hijo, y no tienen la vida.
+##### Aquellos que no han creído a Dios, rechazando el testimonio de Jesucristo, por lo tanto, no tienen al Hijo, y no <u>tienen</u> la vida.
 
-#### Para Dios el Padre, la única y suficiente solución que dio a la humanidad fue cuando dio a Su Hijo el Salvador del Mundo (4:14), la Propiciación por nuestros pecados (2:2, 4:10).
+#### Para Dios el Padre, la única y suficiente solución que dio a la humanidad fue cuando dio a Su Hijo el Salvador del Mundo (4:14), la Propiciación por <u>nuestros</u> pecados (2:2, 4:10).
 
-### 1 Juan 5:13 – *Estas cosas le he escrito a ustedes que creen en el Nombre del Hijo de Dios, para que sepan que tienen vida eterna.*
+### 1 Juan 5:13 – *Estas cosas le he <u>escrito</u> a ustedes que creen en el Nombre del Hijo de Dios, para que sepan que tienen vida eterna.*
 
-#### Primero que nada, vemos una confirmación más de que Juan dirige su carta a creyentes, y por lo tanto poseedores de la Vida eterna. Es bueno recordar una vez más, que Juan no duda de la vida de su audiencia, y quiere llevarlo a una certeza de ella, para que puedan aprovecharla al máximo.
+#### Primero que nada, vemos una confirmación más de que Juan dirige su carta a creyentes, y por lo tanto poseedores de la Vida <u>eterna</u>. Es bueno recordar una vez más, que Juan no duda de la vida de su audiencia, y quiere llevarlo a una certeza de ella, para que puedan aprovecharla al máximo.
 
-#### Dios quiere que vivamos con la certeza de aquello que poseemos, de hecho, es una promesa que el mismo nos hizo. 1 Juan 2:25
+#### Dios <u>quiere</u> que vivamos con la certeza de aquello que poseemos, de hecho, es una promesa que el mismo nos hizo. 1 Juan 2:25
 
-#### “el nombre del Hijo de Dios”, su nombre comunica su persona y su obra, como Juan dijo su nombre: Hijo Salvador del Mundo (4:14), Hijo Propiciación por nuestros pecados (4:10).
+#### “el nombre del Hijo de Dios”, su nombre comunica su <u>persona</u> y su obra, como Juan dijo su nombre: Hijo Salvador del Mundo (4:14), Hijo Propiciación por nuestros pecados (4:10).
 
-#### Dios tiene la intención de que todos sus hijos vivan con seguridad y confianza de aquello que poseen por medio de Cristo.
+#### Dios tiene la intención de que <u>todos</u> sus hijos vivan con seguridad y confianza de aquello que poseen por medio de Cristo.
 
-##### Cuando la enseñanza nos hace ver a nosotros mismos o las obras que hacemos para una búsqueda de seguridad, lo único que hará es desanimarnos y generarnos dudas, ya que es imposible estar seguro si la vida eterna dependiera del hombre.
+##### Cuando la enseñanza nos hace ver a nosotros mismos o las obras que hacemos para una búsqueda de seguridad, lo <u>único</u> que hará es desanimarnos y generarnos dudas, ya que es imposible estar seguro si la vida eterna dependiera del hombre.
 
-##### Por eso mismo Juan da toda la garantía de que la vida eterna no depende de los hombres sino del Hijo de Dios, y todos sus creyentes, pueden poseer la garantía de que poseen la vida eterna.
+##### Por eso mismo Juan da toda la garantía de que la vida eterna no depende de los hombres sino del Hijo de Dios, y todos sus creyentes, <u>pueden</u> poseer la garantía de que poseen la vida eterna.
 
-##### Cualquiera que ha puesto su fe en Jesús solamente, puede decir con toda certeza: Sé que tengo vida eterna.
+##### Cualquiera que ha <u>puesto</u> su fe en Jesús solamente, puede decir con toda certeza: Sé que tengo vida eterna.
 
-#### Como hemos visto antes, los engañadores por medio de sus falsas enseñanzas, promueven una incertidumbre de esta seguridad, al hacernos mirar fuera de Jesucristo para encontrarla. Es por eso que Juan nos ha hecho mirar durante toda su carta únicamente el amor de Dios en la persona de Su Hijo. 1 Juan 3:1
+#### Como hemos visto antes, los engañadores por medio de sus falsas enseñanzas, promueven una incertidumbre de esta seguridad, al hacernos <u>mirar</u> fuera de Jesucristo para encontrarla. Es por eso que Juan nos ha hecho mirar durante toda su carta únicamente el amor de Dios en la persona de Su Hijo. 1 Juan 3:1
 
 ## 1 Juan 5:14-21 Haciendo práctica nuestra fe, confiando en Jesucristo para acercarnos al Padre
 
-### 1 Juan 5:14 – *Esta es la confianza que tenemos delante de Él, que si pedimos cualquier cosa conforme a su voluntad, Él nos oye*.
+### 1 Juan 5:14 – *Esta es la confianza que <u>tenemos</u> delante de Él, que si pedimos cualquier cosa conforme a su voluntad, Él nos oye*.
 
-#### Antes Juan apuntaba a una confianza futura para el día del juicio, pero acá habla de tener una confianza ahora, mientras vivimos en la tierra. Desde ahora como creyentes, podemos empezar a disfrutar nuestra vida eterna.
+#### Antes Juan apuntaba a una confianza futura para el día del juicio, pero acá habla de tener una confianza ahora, mientras vivimos en la <u>tierra</u>. Desde ahora como creyentes, podemos empezar a disfrutar nuestra vida eterna.
 
-#### ¿Quién podría tener confianza hacia Dios si no fuero por medio de Cristo? Para nuestra relación con el Padre, la confianza debe estar puesta en una persona, Jesús.
+#### ¿Quién podría tener confianza hacia Dios si no fuero por medio de Cristo? Para nuestra relación con el Padre, la confianza debe estar <u>puesta</u> en una persona, Jesús.
 
-#### La palabra confianza habla de franqueza, denuedo. Describe a alguien que no poseo una pizca de incertidumbre en aquello que es.
+#### La palabra <u>confianza</u> habla de franqueza, denuedo. Describe a alguien que no poseo una pizca de incertidumbre en aquello que es.
 
-#### Tenemos confianza y por lo tanto podemos pedir. Para Juan la oración es el resultado de la confianza que tenemos hacia Dios, y no el camino hacia ella.
+#### Tenemos confianza y por lo tanto podemos pedir. Para Juan la oración es el resultado de la confianza que tenemos hacia Dios, y no el <u>camino</u> hacia ella.
 
-##### Algunas enseñanzas enseñan que disciplinas tales como la oración incrementan nuestra fe, pero eso no es así de acuerdo a la Biblia.
+##### Algunas enseñanzas enseñan que disciplinas tales como la oración incrementan nuestra fe, pero eso no es así de acuerdo a la <u>Biblia</u>.
 
-##### La oración es algo que hacemos porque podemos hacerlo, y no algo que hacemos para alcanzar la aprobación de Dios o un nivel más alto de espiritualidad. Hebreo 4:14:16, 10:19-22
+##### La oración es algo que hacemos porque podemos hacerlo, y no algo que hacemos para alcanzar la aprobación de <u>Dios</u> o un nivel más alto de espiritualidad. Hebreo 4:14:16, 10:19-22
 
-#### *Pedimos cualquier cosa conforme a Su voluntad…*
+#### *Pedimos cualquier cosa <u>conforme</u> a Su voluntad…*
 
-##### Pedir, hacer una solicitud, demandar.
+##### Pedir, hacer una <u>solicitud</u>, demandar.
 
-##### Pedimos aquello que no tenemos, o no podemos hacer por nosotros mismos. Jesús les animo a pedir por cualquier cosa a sus discípulos. Juan 16:22-27
+##### Pedimos aquello que no tenemos, o no podemos hacer por nosotros mismos. Jesús les animo a pedir por cualquier <u>cosa</u> a sus discípulos. Juan 16:22-27
 
-##### Las cosas solicitadas deben ser según su voluntad, la oración no es un medio de autosatisfacción, sino un medio de dependencia en nuestra insuficiencia por nosotros mismos.
+##### Las cosas solicitadas deben ser según su voluntad, la <u>oración</u> no es un medio de autosatisfacción, sino un medio de dependencia en nuestra insuficiencia por nosotros mismos.
 
-#### “*Él nos oye*” Podemos saber que somos completamente escuchados por Dios para que actúe conforma a la petición (que es según su voluntad).
+#### “*Él nos oye*” Podemos saber que <u>somos</u> completamente escuchados por Dios para que actúe conforma a la petición (que es según su voluntad).
 
-### 1 Juan 5:15 – *y si sabemos que Él nos oye en cualquier cosa que pidamos, sabemos que tenemos las peticiones que le hemos hecho.* Podemos tener toda la garantía de que él nos oye, y ya que tenemos toda esa garantía, podemos saber algo:
+### 1 Juan 5:15 – *y si sabemos que Él nos oye en cualquier cosa que pidamos, sabemos que tenemos las peticiones que le hemos hecho.* Podemos tener toda la <u>garantía</u> de que él nos oye, y ya que tenemos toda esa garantía, podemos saber algo:
 
-#### *Tenemos las peticiones que le hemos hecho,* Juan uso esta misma palabra cuando dijo: el que **tiene** al hijo **tiene** la vida eterna. Es decir, que aquellas solicitudes que le hemos hecho por fe, conforme a su voluntad, son garantizadas para nosotros.
+#### *Tenemos las peticiones que le hemos hecho,* Juan uso esta misma palabra cuando dijo: el que **tiene** al hijo **tiene** la vida <u>eterna</u>. Es decir, que aquellas solicitudes que le hemos hecho por fe, conforme a su voluntad, son garantizadas para nosotros.
 
-#### Santiago 1:5-8 - *Y si a alguno de ustedes le falta sabiduría, que se la pida a Dios, quien da a todos abundantemente y sin reproche, y le será dada. **Pero que pida con fe, sin dudar. Porque el que duda es semejante a la ola del mar, impulsada por el viento y echada de una parte a otra.** **No piense, pues, ese hombre, que recibirá cosa alguna del Señor, siendo hombre de doble ánimo, inestable en todos sus caminos.*
+#### Santiago 1:5-8 - *Y si a alguno de ustedes le falta sabiduría, que se la pida a Dios, quien da a todos abundantemente y sin <u>reproche</u>, y le será dada. **Pero que pida con fe, sin dudar. Porque el que duda es semejante a la ola del mar, impulsada por el viento y echada de una parte a otra.** **No piense, pues, ese hombre, que recibirá cosa alguna del Señor, siendo hombre de doble ánimo, inestable en todos sus caminos.*
 
-#### La razón por la que no nos falta nada no es porque somos suficientes por nosotros mismos, sino que por medio de Cristo tenemos acceso a Aquel que puede todas las cosas. 2 Corintios 3:5-6
+#### La razón por la que no nos falta nada no es porque somos suficientes por nosotros mismos, sino que por medio de Cristo <u>tenemos</u> acceso a Aquel que puede todas las cosas. 2 Corintios 3:5-6
 
-#### Esta es como una invitación que te dice: “¡La verdad, no sé qué hace ahí que no estás pidiendo! Si tienes la garantía no solo de ser oído, sino debido a eso, de ser atendido, acércate confiadamente y pídele a Tu Padre que está en los cielos. Efesios 3:20
+#### Esta es como una invitación que te dice: “¡La verdad, no sé qué hace ahí que no estás pidiendo! Si tienes la <u>garantía</u> no solo de ser oído, sino debido a eso, de ser atendido, acércate confiadamente y pídele a Tu Padre que está en los cielos. Efesios 3:20
 
 ## 1 Juan 5:16-17  Peticiones conforme a su Voluntad, amándonos los unos a los otros 
 
-### En el contexto podemos entender que Juan nos está mostrando, el uso de la oración, como una forma de amar a nuestros hermanos. La intercesión por ellos, es una de las mejores cosas que podemos hacer por ellos.
+### En el contexto podemos entender que Juan nos está <u>mostrando</u>, el uso de la oración, como una forma de amar a nuestros hermanos. La intercesión por ellos, es una de las mejores cosas que podemos hacer por ellos.
 
-### 1 Juan 5:16a – *Si alguien ve a su hermano cometer algún pecado que no lleva a la muerte, pedirá, y por él Dios dará vida a los que cometen pecado que no lleva a la muerte…*
+### 1 Juan 5:16a – *Si alguien ve a su <u>hermano</u> cometer algún pecado que no lleva a la muerte, pedirá, y por él Dios dará vida a los que cometen pecado que no lleva a la muerte…*
 
-#### Sin duda tenemos un pasaje difícil a interpretar ya que no tenemos mucha información que nos ayude a determinar que son algunas cosas a las que se refiere Juan. Por lo tanto, en lugar de deducir algunas cosas, trataremos con la idea central del pasaje.
+#### Sin duda tenemos un pasaje difícil a interpretar ya que no tenemos mucha información que nos ayude a determinar que son algunas <u>cosas</u> a las que se refiere Juan. Por lo tanto, en lugar de deducir algunas cosas, trataremos con la idea central del pasaje.
 
-#### *Si alguien ve a su hermano cometer algún pecado…* Juan nos presenta el siguiente caso: Vemos a un hermano nuestro pecando. Aquí nuevamente podemos ver a un creyente descrito como alguien que peca, y es no lo hace un no salvo.
+#### *Si alguien ve a su hermano cometer algún pecado…* Juan nos presenta el siguiente caso: Vemos a un hermano <u>nuestro</u> pecando. Aquí nuevamente podemos ver a un creyente descrito como alguien que peca, y es no lo hace un no salvo.
 
-#### *…cometer algún pecado que no lleva a la muerte…* El hermano pecando, está cometiendo un pecado, pero uno que no es hacia muerte.
+#### *…cometer algún pecado que no lleva a la muerte…* El hermano pecando, está cometiendo un pecado, pero uno que no es hacia <u>muerte</u>.
 
-##### En lugar de centrarnos en describir cuáles son estos pecados, ya que Juan tampoco lo hace, describiéremos mejor lo que Juan dice: pecando pecado no hacia muerte.
+##### En lugar de centrarnos en describir cuáles son estos pecados, ya que Juan tampoco lo hace, describiéremos mejor lo que Juan dice: <u>pecando</u> pecado no hacia muerte.
 
-##### En las escrituras tenemos varios ejemplos de creyentes cuyo pecado significó un estado de no retorno por la intervención del cuerpo de Cristo, sino únicamente por Dios. 1 Corintios 11:31-32, 5:4-5, 1 Timoteo 1:19-20, Hebreos 10:26-31
+##### En las escrituras tenemos varios ejemplos de creyentes cuyo pecado significó un estado de no retorno por la intervención del <u>cuerpo</u> de Cristo, sino únicamente por Dios. 1 Corintios 11:31-32, 5:4-5, 1 Timoteo 1:19-20, Hebreos 10:26-31
 
-##### En todos estos casos el denominador común es un rechazo deliberado, de Cristo y el significado de su obra, habiéndolo conocido. Estos creyentes lo único que les espera es ser juzgados por Dios.
+##### En todos estos casos el denominador común es un rechazo deliberado, de Cristo y el significado de su obra, habiéndolo <u>conocido</u>. Estos creyentes lo único que les espera es ser juzgados por Dios.
 
-##### *…pedirá y por él Dios dará vida…* Estos no son imperativos, sino declaraciones futuras de hecho. Es decir, el que está apropiándose de esta confianza y amando, intercederá por su prójimo.
+##### *…pedirá y por él Dios dará vida…* Estos no son imperativos, sino declaraciones futuras de hecho. Es decir, el que está apropiándose de esta <u>confianza</u> y amando, intercederá por su prójimo.
 
-###### La palabra Dios, no está en los textos griego, así que podríamos decir: pedirá por él, y dará el.
+###### La palabra Dios, no está en los <u>textos</u> griego, así que podríamos decir: pedirá por él, y dará el.
 
-###### Ambos verbos apuntan al hermano que ve a su hermano pecando.
+###### Ambos <u>verbos</u> apuntan al hermano que ve a su hermano pecando.
 
-###### Juan quiere mostrar que, al interceder por los hermanos (pedirá), participamos activamente de la obra de Dios en sus vidas (dará vida), muy probablemente como instrumentos de Dios, ya que es el único capaz de dar vida. Santiago 5:20
+###### Juan quiere mostrar que, al interceder por los hermanos (pedirá), participamos activamente de la obra de Dios en sus vidas (dará vida), muy probablemente como instrumentos de Dios, ya que es el único <u>capaz</u> de dar vida. Santiago 5:20
 
-### 1 Juan 5:16b – *Hay un pecado que lleva a la muerte, yo no digo que se deba pedir por ese.* Aunque podemos interceder por los hermanos, hay hermanos que están en un estado donde lo que necesitan no es la intercesión, sino el juicio de Dios de su casa.
+### 1 Juan 5:16b – *Hay un pecado que lleva a la muerte, yo no digo que se deba pedir por ese.* Aunque podemos interceder por los hermanos, hay hermanos que están en un estado donde lo que necesitan no es la intercesión, sino el juicio de Dios de su <u>casa</u>.
 
 ### 1 Juan 5:17 – *Toda injusticia es pecado, pero hay pecado que no lleva a la muerte.*
 
-#### Juan no está haciendo una distinción entre pecados, o justificando algunos como más pasables que otros. De hecho, dice que todos los pecados son injusticia, y no proviene de Dios.
+#### Juan no está haciendo una distinción entre pecados, o justificando algunos como más pasables que otros. De hecho, dice que <u>todos</u> los pecados son injusticia, y no proviene de Dios.
 
-#### Solamente está mostrando que la voluntad de Dios es que participemos en la vida de nuestros hermanos a través de la intercesión, pero no siempre será la voluntad de Dios que intercedamos por algunos hermanos.
+#### Solamente está mostrando que la voluntad de Dios es que participemos en la vida de nuestros hermanos a través de la intercesión, pero no siempre será la voluntad de Dios que intercedamos por <u>algunos</u> hermanos.
 
-#### Juan mostro con anterioridad que el que permanece en él no peca, solo Cristo es nuestro salvador, e intercedemos por otros, llevándolos hacia él. 1 Juan 3:4-6
+#### Juan mostro con anterioridad que el que permanece en él no peca, solo Cristo es nuestro salvador, e intercedemos por otros, llevándolos <u>hacia</u> él. 1 Juan 3:4-6
 
 ## El Verdadero, y la certeza de que nos guarda – 1 Juan 5:18-21
 
-### 1 Juan 5:18 – *Sabemos que todo el que ha nacido de Dios, no peca; Sino que Aquel que nació de Dios lo guarda y el maligno lo toca.* Esta es una confirmación más de la seguridad que poseemos como nacidos de Dios.
+### 1 Juan 5:18 – *Sabemos que todo el que ha nacido de Dios, no peca; Sino que Aquel que nació de Dios lo guarda y el <u>maligno</u> lo toca.* Esta es una confirmación más de la seguridad que poseemos como nacidos de Dios.
 
-#### Repite el pecado en la vida de los creyentes, no tiene como su fuente la nueva naturaleza. Esto ya lo hemos visto en las enseñanzas del capítulo tres.
+#### Repite el pecado en la vida de los creyentes, no tiene como su fuente la nueva naturaleza. Esto ya lo hemos visto en las enseñanzas del <u>capítulo</u> tres.
 
-#### *sino que Aquel que nació de Dios lo guarda...* Podemos leer este versículo y pensar que está hablando de Jesucristo. Pero él nunca es referido como engendrado por Dios, en ninguna parte de las escrituras.
+#### *sino que Aquel que nació de Dios lo guarda...* Podemos leer este versículo y pensar que está hablando de Jesucristo. Pero él nunca es <u>referido</u> como engendrado por Dios, en ninguna parte de las escrituras.
 
-##### Es en el hecho de lo que somos que tenemos seguridad, y no en lo que hacemos y no hacemos.
+##### Es en el hecho de lo que <u>somos</u> que tenemos seguridad, y no en lo que hacemos y no hacemos.
 
-##### Aunque si es verdad que Cristo nos guarda, es probable que Juan este haciendo referencia al hecho de la garantía del nuevo nacimiento, y no al ser guardados por Jesucristo.
+##### Aunque si es verdad que Cristo nos guarda, es probable que Juan este haciendo referencia al hecho de la <u>garantía</u> del nuevo nacimiento, y no al ser guardados por Jesucristo.
 
 #### *“y el maligno no lo toca”.* No hay poder alguno sobre los nacidos de Dios, esto no significa que como creyentes nuestras mentes no puedan ser engañadas por su astucia, pero los nacidos de Dios, tiene garantizada la glorificación, la vida eterna. 2 Corintios 11:3
 
