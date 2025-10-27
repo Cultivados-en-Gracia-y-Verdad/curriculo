@@ -3,7 +3,7 @@ Title: Primera epístola del apóstol Juan
 
 ---
 
-##  Importancia de la epístola 1 Juan. 
+##  Importancia de la epístola 
 
 ### La epístola de 1 Juan es muy significativa, debido a que aborda muchas creencias fundamentales de la fe cristiana como la encarnación de Cristo en carne, su deidad, nos muestra como los creyentes pueden vivir en la luz, la comunión unos con otros, nos muestra quienes son los falsos maestros, seguridad de salvación y la relación del creyente con el pecado.
 
