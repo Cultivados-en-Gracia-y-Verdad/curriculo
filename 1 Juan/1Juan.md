@@ -485,29 +485,25 @@ Entonces, ¿Qué confesamos?
 
 Es interesante notar el énfasis de Juan cuando habla del creyente que anda en la luz. No dice específicamente que tiene comunión con Dios sino comunión con los hermanos. Ahora, vemos que el andar en luz conlleva ser transparentes y admitir nuestros pecados. ¿y que resulta de esto? 
 
-### 1 Juan 1:9b - …*Él es fiel y Justo*
+### 1 Juan 1:9b - …*Él es fiel y Justo* Literalmente dice, "Él esta siendo fiel y justo". 
 
-### *para perdonarnos los pecados* aquí perdonarnos es APHÉ que es una palabra compuesta de APO (desde) y HIEMI (enviar lejos). Al juntar estas dos palabras hace un énfasis de separación. Es mejor entender esta expresión como remover o dejar y no cancelación de culpa. El remover está relacionado a los pecados. 
+### 1 Juan 1:9c *para perdonarnos los pecados* aquí perdonarnos es APHÉ que es una palabra compuesta de APO (desde) y HIEMI (enviar lejos). Al juntar estas dos palabras hace un énfasis de separación. Es mejor entender esta expresión como remover o dejar y no cancelación de culpa. El remover está relacionado a los pecados. 
 
-### *y para limpiarnos* Mientras que Dios aleja nuestros pecados, el limpiar va relacionado a nosotros. 
+### 1 Juan 1:9d "...*y para limpiarnos...*" "*Limpiarnos*" KATHARIZO  es purgar de la maldad.[^3]Mientras que Dios aleja nuestros pecados, el limpiar va relacionado a nosotros. 
 
-### *de toda maldad.* de toda forma de injusticia concebible. 
+### 1 Juan 1:9e "*...de toda maldad.*" de toda forma de injusticia concebible. 
 
 Entonces, cuando estamos en la luz, y cuando somos mostrados por la luz decimos lo mismo con Dios sobre nuestro pecado, Él siendo justo y fiel, puede hacer separación de nuestros pecados y nos puede limpiar de toda forma de injusticia concebible. 
 
-### Debido a que Dios está siendo fiel y justo perdonándonos y limpiándonos, resulta un reconocimiento de nuestros pecados. La santificación es el resultado de Dios trabajando en nuestras vidas a medida que andamos en luz.
+Andando en luz, la Palabra de Dios está en nosotros y opera poderosamente. Santiago 1:21; 1 Juan 1:10; 
 
-Andando en luz, la Palabra de Dios está en nosotros y opera poderosamente. Santiago 1:21; 1 Juan 1:10
+Juan 17:17 "*Santifícalos en la verdad; Tu palabra es verdad.*"
 
 Confesar nuestros pecados es la condición. El resultado es que Dios nos esta siendo fiel y justo para perdonarnos y limpiarnos. 
 
-"*Perdonarnos*" AFIEMI es dejar de culpar o tomar en cuenta una ofensa. [^3]
+Alejar a nuestros pecados y limpiarnos de toda maldad es porque Dios es fiel y Él aplica Su justicia a nuestro favor en base al perdón que ya recibimos. 
 
-"*Limpiarnos*" KATHARIZO  es purgar de la maldad. [^3]
-
-el perdón de pecados y limpieza de toda maldad es porque dios es fiel y el aplica su justicia a nuestro favor en base al perdón que ya recibimos. 
-
-¿Dios comienza a ser fiel cuando confesamos? No, sin embargo la fidelidad de Dios entra en acción en base a sus promesas hechas para con el creyente. Cuando el creyente confieza su pecado, Dios en su fidelidad los perdona y los limpia. 
+¿Dios comienza a ser fiel cuando confesamos? No, sin embargo la fidelidad de Dios entra en acción en base a sus promesas hechas para con el creyente. Cuando el creyente confieza su pecado, Dios en su fidelidad y justicia obra para bien en el creyente. 
 
 ¿Acaso no fueron perdonados todos nuestros pecados? !Claro que si! Todos nuestros pecados, pasados, presentes y futuros han sido perdonados. Hebreos 7:27, 9:26; 1 Juan 2:2, 12
 
@@ -560,8 +556,6 @@ Aquí podemos notar el uso que Juan tiene de la comunión que tenemos con Dios y
 ## 1 Juan 2:1-6 – Las provisión de Dios para una vida, y cómo esta se ve
 
 ### 1 Juan 2:1-6 – Juan ahora va a mostrar como Cristo como la solución para nuestros pecados, y en Él se halla el poder para andar en victoria sobre él. Juan nos mostrará los resultados de su intercesión, el conocerlo. 
-
-***
 
 ### 1 Juan 2:1a – *Hijitos míos…* Ahora y en adelante Juan se dirige personalmente, y comienza a referirse a sus destinatarios con algunos términos que muestran una relación cercana e íntima con ellos. 
 
@@ -693,7 +687,7 @@ Aquí podemos notar el uso que Juan tiene de la comunión que tenemos con Dios y
 
 ### 1 Juan 2:11 – *Pero el que aborrece a su hermano, está en tinieblas y anda en tinieblas, y no sabe a dónde va, porque las tinieblas han cegado sus ojos.* Juan concluye que aquel que está odiando a su hermano (es decir el caso de un creyente), es porque las tinieblas han tomado control sobre su vida, y en lugar de andar como el anduvo, no sabe ni a donde va.
 
-## **Lo pasajero versus lo temporal, aquello que somos versos aquello a lo que no pertenecemos**
+## 1 Juan 2:12-14 Lo pasajero versus lo temporal, aquello que somos versos aquello a lo que no pertenecemos
 
 #### Juan dijo arriba porque las tinieblas van pasando y la luz verdadera ya está alumbrando. Esto es real de este mundo y lo que nosotros somos como hijos de Dios en este mundo.
 
@@ -961,11 +955,11 @@ Aquí podemos notar el uso que Juan tiene de la comunión que tenemos con Dios y
 
 #### Eran creyentes que habían sido enseñados, pero eso no los hacía exentos de haber caído en el error. Debemos permanecer en Cristo ya que él es nuestra única fortaleza.
 
-# **CONFIADOS PARA SU REGRESO, LA ESPERANZA QUE TENEMOS – 1 JUAN 2:28-3:12**
+# 1 Juan 2:28-3:12 - CONFIADOS PARA SU REGRESO, LA ESPERANZA QUE TENEMOS
 
-## Ya que Dios nos ha prometido la vida eterna, podemos tener esperanza hacia el futuro, por eso Juan nos animará llevándonos a considerar la futura manifestación de Cristo, y como debería ser nuestra respuesta a ella.
+## 1 Juan 2:28-29 – Permanezcan en él
 
-## **1 Juan 2:28-29 – Permanezcan en él**
+### Ya que Dios nos ha prometido la vida eterna, podemos tener esperanza hacia el futuro, por eso Juan nos animará llevándonos a considerar la futura manifestación de Cristo, y como debería ser nuestra respuesta a ella.
 
 ### 1 Juan 2:28a – *Y ahora hijos, permanezcan en él.* En respuesta a la obra de Dios a través del Espíritu y su Palabra, ahora debemos permanecer en Cristo.
 
@@ -1057,11 +1051,11 @@ Aquí podemos notar el uso que Juan tiene de la comunión que tenemos con Dios y
 
 #### Para Juan son cruciales estos dos imperativos, si no permanecemos en él, no tenemos comunión con él, si no miramos su amor, no tendremos idea de cómo amar a los demás. 1 Corintios 4:7
 
-# ASÍ COMO EL ES PURO, ASÍ COMO ÉL ES JUSTO – 1 JUAN 3:3-9  
+# 1 Juan 3:3-9 ASÍ COMO EL ES PURO, ASÍ COMO ÉL ES JUSTO  
 
-## Si hemos hablado de la futura manifestación de Cristo, debemos considerar entonces los beneficios de su primera manifestación. 
+## 1 Juan 3:3-6 La obra de Cristo quita nuestros pecados.
 
-### La obra de Cristo quita nuestros pecados – 1 Juan 3:3-6  
+### Si hemos hablado de la futura manifestación de Cristo, debemos considerar entonces los beneficios de su primera manifestación. 
 
 ### 1 Juan 3:3 – *Y todo el que tiene esta esperanza puesta en él, se purifica, así como él es puro.* La participación que tenemos de la vida de Cristo, o la comunión con él, no es automática, debemos entender que Dios hizo una obra completa, pero nosotros como sus hijos, debemos apropiarnos de ella. 1 Pedro 1:22
 
@@ -1113,7 +1107,7 @@ Aquí podemos notar el uso que Juan tiene de la comunión que tenemos con Dios y
 
 #### Juan no está hablando de cualquier persona que está pecando, sino de los creyentes que pecan. Todo el mundo peca, y nadie es salvo por dejar de pecar. Juan está mostrando que el creyente no debería pecar ya que Cristo ha solucionado este problema por nosotros.
 
-## La obra de Cristo nos trae libertad – 1 Juan 3:7-9
+## 1 Juan 3:7-9 La obra de Cristo nos trae libertad
 
 ### 1 Juan 3:7a – *Hijitos míos, que nadie los engañe…* Juan durante toda la carta está tratando de combatir el engaño de los falsos maestros.
 
@@ -1165,7 +1159,7 @@ Aquí podemos notar el uso que Juan tiene de la comunión que tenemos con Dios y
 
 #### Podría entonces alguien preguntar ¿Cómo se ve una vida pura?, ¿cómo se ve una vida Justa? Esto nos lleva a la siguiente sección donde Juan nos mostrara ahora lo que Cristo hizo por nosotros, y no solamente quien es para nosotros.
 
-# ASÍ COMO EL PUSO SU VIDA – 1 JUAN 3:10-24
+# 1 Juan 3:10-24 ASÍ COMO EL PUSO SU VIDA
 
 ## El amor de Cristo no solamente fueron Palabras, él puso su vida por nosotros
 
@@ -1695,7 +1689,7 @@ Aquí podemos notar el uso que Juan tiene de la comunión que tenemos con Dios y
 
 #### Ningún comentarista del texto griego cuenta esa parte de los versículos en cuanta, de hecho, añaden que aparece en nuestras Biblias, proviniendo desde la Vulgata latina.
 
-#### *La nota tuvo un origen Latino. La primera vez que aparece este pasaje en la forma más larga (con el testigo celestial) es en el Tratado Liber Apologeticus, escrito por un hereje español Prisciliano (murió 385 d.C) o su seguidor, el obispo Instantio… La nota apareció en los escritos de los padres latinos en el norte de Africa e Italia (como parte del texto de la Epístola) a partir del siglo V, y encontró lugar en más y más copias de la Vulgata Latina. (La traducción original de Jerónimo no la contenía.) El pasaje del “testigo celestial” no se encuentra en ningún texto de ningún manuscrito griego antes del siglo XIV, y nunca fue citado por algún padre griego. – La crítica textual del Nuevo Testamento.*
+#### *La nota tuvo un origen Latino. La primera vez que aparece este pasaje en la forma más larga (con el testigo celestial) es en el Tratado Liber Apologeticus, escrito por un hereje español Prisciliano (murió 385 d.C) o su seguidor, el obispo Instantio… La nota apareció en los escritos de los padres latinos en el norte de Africa e Italia (como parte del texto de la Epístola) a partir del siglo V, y encontró lugar en más y más copias de la Vulgata Latina. (La traducción original de Jerónimo no la contenía.) El pasaje del “testigo celestial” no se encuentra en ningún texto de ningún manuscrito griego antes del siglo XIV, y nunca fue citado por algún padre griego.[^5] – *
 
 ### 1 Juan 5:6-8 – *Este es aquél que vino mediante agua y sangre, Jesucristo; no solo con agua sino con agua y Sangre. Y el Espíritu es el que da testimonio, porque el Espíritu es la verdad. Porque tres son los que dan testimonio; el Espíritu el agua y la sangre, y los tres concuerdan*. (versículos copiados sin la porción explicada, para el estudio de este currículo).
 
@@ -1719,21 +1713,21 @@ Aquí podemos notar el uso que Juan tiene de la comunión que tenemos con Dios y
 
 ### 1 Juan 5:7-8 – *Porque tres son los que dan testimonio; el Espíritu el agua y la sangre, y los tres concuerdan*. Ahora muestra como el hecho de que vino mediante agua y sangre, es un hecho que se une a dar un testimonio, junto con el Espíritu santo, y estos tres están dando testimonio. Junto con los apóstoles, que eran testigos de todas estas cosas. Hechos 1:21-22
 
-#### Los tres testimonios apuntan hacia el mismo, Jesucristo. Juan quiere validar esta declaración como una verdad absoluta, Jesucristo, el Hijo de Dios, ha venido en carne, y ha muerto por nuestros pecados, él es el Salvador del Mundo, la propiciación por nuestros pecados.
+#### Los tres testimonios apuntan hacia el mismo, Jesucristo. Juan quiere validar esta declaración como una verdad absoluta, Jesucristo, el Hijo de Dios, ha venido en carne, y ha muerto por nuestros pecados, Él es el salvador del mundo y la propiciación por nuestros pecados.
 
-#### Juan enseña que hay tres testificantes. Esto tenía una gran importancia para los judíos, puesto que el testimonio que tenía validez en un juicio, especialmente cuando se trataba de un asunto que podía traer como resultado una condena a muerte, tenía que ser concordante con dos o tres testigos, lo que daba un hecho por verdadero Deuteronomio 17:6; 19:15; Juan 8:17–18.
+#### Juan enseña que hay tres testificantes. Esto tenía una gran importancia para los judíos, puesto que el testimonio que tenía validez en un juicio, especialmente cuando se trataba de un asunto que podía traer como resultado una condena a muerte, tenía que ser concordante con dos o tres testigos, lo que daba un hecho por verdadero Deuteronomio 17:6, 19:15; Juan 8:17–18
 
-### Los testigos de Cristo, sus apóstoles, simplemente testificaron solemnemente de hechos, y estos hechos, testificaron juntamente con ellos. Juan 15:26-27, Hechos 1:8
+### Los testigos de Cristo, sus apóstoles, simplemente testificaron solemnemente de hechos, y estos hechos, testificaron juntamente con ellos. Juan 15:26-27; Hechos 1:8
 
 ### 1 Juan 5:9a – *Si recibimos el testimonio de los hombres, mayor es el testimonio de Dios…* 1 Juan 4:14
 
 #### Esta es una condición de primera clase, entonces podemos decir que Juan está diciéndoles a los creyentes, ya que hemos recibido el testimonio de hombres (habían escuchado de Cristo por medio de ellos, los apóstoles).
 
-#### De hecho, todos hemos escuchado el Evangelio por medio de la predicación de este, es decir hemos recibido un mensaje. 1 Corintios 1:21-22, Efesios 1:13, Romanos 10:14
+#### De hecho, todos hemos escuchado el Evangelio por medio de la predicación de este, es decir hemos recibido un mensaje. 1 Corintios 1:21-22; Efesios 1:13; Romanos 10:14
 
 #### Si dos o tres hombres están de acuerdo en un testimonio, y eso es creíble para nosotros, cuanto más es si Dios, por medio de tres testigos, está dando testimonio de la verdad.
 
-### 1 Juan 5:9b – *Porque este es el testimonio de Dios: que Él ha dado testimonio de su Hijo.* Dios tiene un testimonio constante a cerca de Su Hijo. 8:17-18.
+### 1 Juan 5:9b – *Porque este es el testimonio de Dios: que Él ha dado testimonio de su Hijo.* Dios tiene un testimonio constante a cerca de Su Hijo. Juan 8:17-18
 
 #### Jesús mismo dijo que el Padre ha dado testimonio de él. Él les mostró a los judíos que no creían en él, que tampoco habían creído en el testimonio del Padre. Toda la Escritura, es el testimonio de Jesucristo. Y Jesús mismo dijo eso. Juan 5:30-47
 
@@ -1821,7 +1815,7 @@ Aquí podemos notar el uso que Juan tiene de la comunión que tenemos con Dios y
 
 #### *Tenemos las peticiones que le hemos hecho,* Juan uso esta misma palabra cuando dijo: el que **tiene** al hijo **tiene** la vida eterna. Es decir, que aquellas solicitudes que le hemos hecho por fe, conforme a su voluntad, son garantizadas para nosotros.
 
-#### Santiago 1:5-8 *- ** **Y si a alguno de ustedes le falta sabiduría, que se la pida a Dios, quien da a todos abundantemente y sin reproche, y le será dada. ** **Pero que pida con fe, sin dudar. Porque el que duda es semejante a la ola del mar, impulsada por el viento y echada de una parte a otra. ** **No piense, pues, ese hombre, que recibirá cosa alguna del Señor, siendo hombre de doble ánimo, inestable en todos sus caminos.*
+#### Santiago 1:5-8 - *Y si a alguno de ustedes le falta sabiduría, que se la pida a Dios, quien da a todos abundantemente y sin reproche, y le será dada. **Pero que pida con fe, sin dudar. Porque el que duda es semejante a la ola del mar, impulsada por el viento y echada de una parte a otra.** **No piense, pues, ese hombre, que recibirá cosa alguna del Señor, siendo hombre de doble ánimo, inestable en todos sus caminos.*
 
 #### La razón por la que no nos falta nada no es porque somos suficientes por nosotros mismos, sino que por medio de Cristo tenemos acceso a Aquel que puede todas las cosas. 2 Corintios 3:5-6
 
@@ -1903,3 +1897,4 @@ Aquí podemos notar el uso que Juan tiene de la comunión que tenemos con Dios y
 [^2]: Respuesta según ChatGPT
 [^3]: Bible Sense Lexicon
 [^4]: Vocabulary of the Greek Testament
+[^5]: La crítica textual del Nuevo Testamento.
