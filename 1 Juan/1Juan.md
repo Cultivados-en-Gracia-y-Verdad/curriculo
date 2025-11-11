@@ -78,13 +78,13 @@ ___-___
 
 #### Jesús reprende a Jacobo y Juan al principio de <u>su</u> ministerio. Lucas 9:49, 54
 
-### Juan entendió su profunda relación de amor con la que Jesús los había <u>amado</u>  Juan 13:1 , y desde ese momento se describe como el discípulo amado. Juan 13:23, 19:26, 20:2, 21:7, 20
+### Juan entendió su profunda relación de amor con la que Jesús los había <u>amado</u>  Juan 13:1, y desde ese momento se describe como el discípulo amado. Juan 13:23, 19:26, 20:2, 21:7, 20
 
-### Durante la crucificción de Jesús, Él confió el cuidado de su <u>madre</u> María a Juan. Juan 19:26–27
+### Durante la crucificción de Jesús, Él confió el cuidado de su <u>madre</u> María a Juan. Juan 19:26-27
 
 ### Después de la resurrección, Juan fue uno de los <u>primeros</u> testigos de ver el sepulcro donde lo enterraron vacío y movida la piedra. Juan 20:1–9
 
-### Juan y Pedro fueron al templo y realizaron un milagro con un cojo en el nombre de Jesús y todos se admiraron Hechos 3:1-10 , fueron arrestados por que enseñaban al <u>pueblo</u> y anunciaban en Jesús la resurrección Hechos 4:1-22 , fueron enviados por los apóstoles a Samaria para confirmar la fe de los creyentes y anunciaron el evangelio en muchas aldeas de los samaritanos. Hechos 8:14–25
+### Juan y Pedro fueron al templo y realizaron un milagro con un cojo en el nombre de Jesús y todos se admiraron Hechos 3:1-10 , fueron arrestados por que enseñaban al <u>pueblo</u> y anunciaban en Jesús la resurrección Hechos 4:1-22 , fueron enviados por los apóstoles a Samaria para confirmar la fe de los creyentes y anunciaron el evangelio en muchas aldeas de los samaritanos. Hechos 8:14-25
 
 ### Juan fue desterrado por causa de la palabra de Dios y del testimonio de Jesús a la isla de Patmos (Apocalipsis 1:9) por el emperador Domiciano, alrededor del año 98 d.C esperando que muriera allí, en esta isla fue donde tuvo las visiones que lo llevaron a <u>escribir</u> el libro de Apocalipsis (Apocalipsis 1:19).
 
@@ -92,7 +92,7 @@ ___-___
 
 ## Escritos atribuidos a Juan
 
-### **Evangelio según Juan** Fue escrito alrededor de los años 80–90 d.C, revela a Jesús como el hijo de Dios a todo el mundo para que <u>crean</u>  y creyendo tengan vida eterna.
+### **Evangelio según Juan** Fue escrito alrededor de los años 80-90 d.C, revela a Jesús como el hijo de Dios a todo el mundo para que <u>crean</u>  y creyendo tengan vida eterna.
 
 ### Las epístolas de Juan fueron escritas alrededor de los años 85–95 d.C en Éfeso <u>según</u> historiadores de los siglos I y II. 
 
@@ -104,7 +104,7 @@ ___-___
 
 ### **Apocalipsis** Fue escrito alrededor de los años 94–96 d.C en la isla de Patmos, es la revelación de Jesucristo, quien <u>manda</u> a Juan a escribir las cosas que fueron, que son, y las que han de ser. Apocalipsis 1:19
 
-## Propósito de la escritura.
+## Propósito de la escritura
 
 ### Uno de los propósitos de anunciarles esto, es para que tengan comunión unos con otros, que es con el Padre y con su Hijo Jesucristo, con el fin que que su <u>gozo</u> sea completo. 1 Juan 1:3-4
 
@@ -124,13 +124,13 @@ ___-___
 
 ### El tema central de la primera epístola de Juan es "Él puso su vida por nosotros." 1 Juan 3:16 
 
-#### **Prólogo** - 1 Juan 1:1 - 4
+#### **Prólogo** - 1 Juan 1:1-4
 
 ##### Testimonio de Juan con respecto al <u>verbo</u> de vida.1 Juan 1:1-2
 
 ##### Comunión con nosotros, con el <u>Padre</u> y el hijo. 1 Juan 1:3-4
 
-#### **Caminar en la luz** - 1 Juan 1:5 - 2:27 
+#### **Caminar en la luz** - 1 Juan 1:5-2:27 
 
 ##### Dios es luz y la naturaleza <u>santa</u> de Dios. 1 Juan 1:5–7
 
@@ -144,53 +144,59 @@ ___-___
 
 ##### El amor al mundo y <u>hacer</u> la voluntad de Dios. 1 Juan 2:15-17
 
-##### El anticristo y <u>su</u> engaño.1 Juan 2:18-27
+##### El Anticristo y <u>su</u> engaño. 1 Juan 2:18-27
 
-#### **Vivir como hijos de Dios** - 1 Juan 2:28 - 4:6
+#### **Vivir como hijos de Dios** - 1 Juan 2:28-4:6
 
-##### Nacidos de Dios y el reflejo <u>de</u> Su pureza. 1 Juan 2:28–3:3
+##### Nacidos de Dios y el reflejo <u>de</u> Su pureza. 1 Juan 2:28-3:3
 
-##### La nueva relación con el <u>pecado</u> y la permanencia en Dios. 1 Juan 3:4–10
+##### La nueva relación con el <u>pecado</u> y la permanencia en Dios. 1 Juan 3:4-10
 
-##### El amor a los hermanos frente al <u>odio</u>. 1 Juan 3:11–18
+##### El amor a los hermanos frente al <u>odio</u>. 1 Juan 3:11-18
 
-##### Confianza delante de <u>Dios</u> guardando Sus mandamientos. 1 Juan 3:19–24
+##### Confianza delante de <u>Dios</u> guardando Sus mandamientos. 1 Juan 3:19-24
 
-##### Discernimiento del espíritu de <u>verdad</u> y del error. 1 Juan 4:1–6
+##### Discernimiento del espíritu de <u>verdad</u> y del error. 1 Juan 4:1-6
 
-#### **Dios es amor** - 1 Juan 4:7 - 5:12
+#### **Dios es amor** - 1 Juan 4:7-5:12
 
-##### Origen y manifestación expresada del <u>amor</u>. 1 Juan 4:7–10
+##### Origen y manifestación expresada del <u>amor</u>. 1 Juan 4:7-10
 
-##### Permanencia en el amor de <u>Dios</u> y el amor a los hermanos. 1 Juan 4:11–21
+##### Permanencia en el amor de <u>Dios</u> y el amor a los hermanos. 1 Juan 4:11-21
 
 ##### La <u>fe</u> que vence al mundo. 1 Juan 5:1–5
 
-##### El testimonio triple en el cielo y en la <u>tierra</u>. 1 Juan 5:6–12
+##### El testimonio triple en el cielo y en la <u>tierra</u>. 1 Juan 5:6-12
 
-#### **Epílogo**  1 Juan 5:13 - 21 
+#### **Epílogo**  1 Juan 5:13-21 
 
 ##### Seguridad de la <u>vida</u> eterna para los creyentes. 1 Juan 5:13
 
-##### Confianza en las oraciones y <u>peticiones</u>. 1 Juan 5:14–15
+##### Confianza en las oraciones y <u>peticiones</u>. 1 Juan 5:14-15
 
-##### Intercesión <u>por</u> el hermano que comete pecado. 1 Juan 5:16–17
+##### Intercesión <u>por</u> el hermano que comete pecado. 1 Juan 5:16-17
 
-##### Conocimiento de la santidad, el mundo, el verdadero Dios y la vida <u>eterna</u>. 1 Juan 5:18–20
+##### Conocimiento de la santidad, el mundo, el verdadero Dios y la vida <u>eterna</u>. 1 Juan 5:18-20
 
 ##### Exhortación <u>final</u> con respecto a la idolatría. 1 Juan 5:21
 
-# LOS TESTIGOS Y SU MENSAJE
+# 1 Juan 1:1-4 LOS TESTIGOS Y SU MENSAJE
 
-## 1 Juan 1:1-4 – Juan comienza  anunciando el verbo de vida.
+## 1 Juan 1:1-4 - Juan comienza  anunciando el verbo de vida
 
-### 1 Juan 1:1a – *"Lo que existía* [era RV09] *desde el principio…"* Comienza hablando de algo que era <u>desde</u> el principio. "*Lo que existía*" se refiere a un hecho o concepto. El pronombre relativo neutral no describe a una persona. 
+### El capítulo uno es escrito en primera persona plural. 
+
+### 1 Juan 1:1a – *"Lo que existía* [era RVR09] *desde el principio…"* Comienza hablando de algo que era <u>desde</u> el principio. "*Lo que existía*" se refiere a un hecho o concepto. El pronombre relativo neutral no describe a una persona. 
 
 #### Pudo haber dicho "El que existía" denotando a una persona específica. Sin embargo vemos que esta <u>dando</u> testimonio de un concepto. Aún no menciona de que se trata. 
 
-### 1 Juan 1:1b – “*...lo que hemos oído...visto con nuestros propios ojos...contemplado, y lo que han tocado nuestras manos…”* Estas cuatro <u>acciones</u> hacen referencia a como Juan y sus compañeros llegaron a conocer a Dios mismo, y no fue por medio de fabulas o cuentos, sino por medio de hechos visibles y palpables. 
+#### No es algo nuevo, es algo "*que existía*". No es invento de los que están escribiendo...
+
+### 1 Juan 1:1b - “*...lo que hemos oído...visto con nuestros propios ojos...contemplado, y lo que han tocado nuestras manos…*” Estas cuatro <u>acciones</u> hacen referencia a como Juan y sus compañeros llegaron a conocer a Dios mismo, y no fue por medio de fabulas o cuentos, sino por medio de hechos visibles y palpables. 
 
 #### Todos estos verbos están en <u>plural</u>, probablemente se refiera a los demás apóstoles como testigos, esto hace un énfasis en la veracidad de estos hechos, no solamente a través de un solo testigo, sino de varios. 
+
+#### Todos ellos dan el mismo mensaje porque eran testigos oculares de lo que hablan. 
 
 #### Juan va personificando el mensaje al <u>decir</u> que lo que han oído, visto, contemplado y palpado, es lo que existía desde el principio. 
 
@@ -200,7 +206,7 @@ ___-___
 
 ### 1 Juan 1:1b "*lo que hemos visto con nuestros propios ojos...*" Esto indica una experiencia personal y visual: Es algo vívido y real. Son testigos oculares del <u>hecho</u>. 
 
-### 1 Juan 1:1b "*lo que hemos contemplado...*" Y no <u>solo</u> visto, sino examinado y contemplado de cerca.
+### 1 Juan 1:1b "*lo que hemos contemplado...*" Y no <u>solo</u> visto, sino examinado y contemplado de cerca. 
 
 #### "*Contemplar*" es THEAOMAI significa contemplar algo que <u>estimula</u> las facultades morales y mentales de una manera impresionante (y a menudo asombrosa).[^3]
 
@@ -214,17 +220,19 @@ ___-___
 
 #### ¿De que se trata el <u>verbo</u> LOGOS de vida?
 
-##### "*el verbo*" es un sustantivo, genitivo y se refiere a todo el Evangelio, no a Cristo mismo personalmente, como lo evidencia el <u>genitivo</u> añadido "*de vida*"; El genitivo indica lo perteneciente a la vida. Luego veremos que es la vida que se manifestó y no el verbo. 
+##### "*el verbo*" es un sustantivo, genitivo y se refiere a todo el Evangelio, no a Cristo mismo personalmente como lo evidencia el <u>genitivo</u> añadido "*de vida*"; El genitivo indica lo perteneciente a la vida. Luego veremos que es la vida que se manifestó y no el verbo. Hechos 1:8
 
-###### Cuando Ó LOGOS se usa personalmente (Juan 1:1, 1:14), el término es absoluto. Aquí LOGOS es sustantivo nominativo y lleva el <u>artículo</u> definido el Ó. 
+###### Ellos no hablaban un mensaje que no habían experimentado. 
+
+###### Cuando Ó LOGOS se usa personalmente (Juan 1:1, 4, 1:14), el término es absoluto. Aquí LOGOS es sustantivo nominativo y lleva el <u>artículo</u> definido el Ó. 
 
 ##### Ellos son testigos experienciales de la vida. Vieron, oyeron, palparon la vida de primera mano. Experimentaron la <u>vida</u>. 1 Juan 2:24-25; 1 Juan 1:2
 
-### 1 Juan 1:2a - *"y la vida se manifestó* [fue manifestada RV09]*” Dios se había encargado de enviar y revelar la vida <u>misma</u>. Mateo 16:16-17
+### 1 Juan 1:2a - *"y la vida se manifestó* [fue manifestada RVR09]” *Dios se había encargado de enviar y revelar la vida <u>misma</u>*. Mateo 16:16-17
 
-### 1 Juan 1:2b - *"...nosotros la hemos visto, y damos testimonio y les anunciamos a ustedes la vida eterna..."* El dar testimonio muestra el hecho de solamente ser testigos y estar comunicando la vida habían experimentado, no que lo habían <u>creado</u>. Ellos habian conocido de primera mano  la vida eterna.
+### 1 Juan 1:2b - "*...nosotros la hemos visto, y damos testimonio y les anunciamos a ustedes la vida eterna...*" El dar testimonio muestra el hecho de solamente ser testigos y estar comunicando la vida habían experimentado, no que lo habían <u>creado</u>. Ellos habian conocido de primera mano  la vida eterna.
 
-### 1 Juan 1:2c *…la vida eterna que estaba con el Padre…*esta vida eterna (calidad de vida) que experimentaron de parte del <u>Padre</u> es en realidad conocerlo a Él. Juan 17:3; 1 Juan 
+### 1 Juan 1:2c *…la vida eterna que estaba con el Padre...* esta vida eterna (calidad de vida) que experimentaron de parte del <u>Padre</u> es en realidad conocerlo a Él. Juan 17:3
 
 #### La vida eterna estaba (imperfecto, activo, indicativo) lo que <u>indica</u> que la vida eterna ya estaba (desde el principio) hasta un momento del pasado con el Padre. 
 
@@ -238,15 +246,19 @@ ___-___
 
 #### ¿Porqué era tan importante <u>para</u> Juan proclamarles la vida eterna? 
 
-### 1 Juan 1:3b – *"para que también ustedes tengan comunión con nosotros…"* La palabra "*comunión*" KOINONIA transmite la idea de compañerismo, de <u>tener</u> en común, de participar de lo mismo.
+### 1 Juan 1:3b – "*para que también ustedes tengan comunión con nosotros…*" La palabra "*comunión*" KOINONIA transmite la idea de compañerismo, de <u>tener</u> en común, de participar de lo mismo.
 
 #### Juan deseaba que ellos también oigan, <u>vean</u>, contemplen y palpen la vida eterna así como ellos. 
 
-#### Es bueno ver este pasaje para <u>poder</u> comprender más apropiadamente lo que es la comunión y el uso que 1 Juan le da. 
+#### Es bueno ver este pasaje para <u>poder</u> comprender más apropiadamente lo que es la comunión y el uso que Juan le da. 
+
+##### Es interesante que el único lugar que aparece la palabra comunión solo aparece en el capítulo 1. 
 
 ##### En la Escritura vemos la comunión que compartimos es un una sola salvación en nuestro Señor Jesucristo y los que estarían excluidos de esto <u>serían</u> los incrédulos. 2 Corintios 13:14 
 
 ##### A veces se tiene el concepto de comunión <u>unos</u> con otros en base a compartir alguna actividad en la iglesia. 
+
+##### Si decimos, como está tu comunión con tu iglesia, generalmente significa, ¿Cuanto asistes a tu iglesia? 
 
 ##### Pero ¿Como se esta explicando la comunión <u>entre</u> hermanos en 1 Juan? ¿Como era posible esta comunión?
 
@@ -264,11 +276,11 @@ ___-___
 
 #### Solo por medio de una correcta comprensión y conocimiento de lo que es vida, el creyente puede disfrutar <u>plenamente</u>.
 
-#### Este gozo, es el gozo de Cristo, del que podemos participar. Juan 15:11 dice: “*Estas cosas les he hablado, para que Mi gozo esté en <u>ustedes</u>, y su gozo sea perfecto*”.
+#### Este gozo, es el gozo de Cristo, del que podemos participar. Juan 15:11 dice: “*Estas cosas les he hablado, para que Mi gozo esté en <u>ustedes</u>, y su gozo sea perfecto*”. 
 
 ##### Hoy muchos basan la comunión con Dios por medio de lo que ellos hacen por Dios y esperan algún día experimentar el <u>gozo</u> de esto. Pero el verdadero gozo solo viene por medio de experimentar la vida que proviene de Dios. 2 Pedro 1:3-4
 
-# 1 Juan 1:5-10 – JUAN DEMUESTRA SI SU COMUNIÓN ES CON EL PADRE
+# 1 Juan 1:5-10 JUAN DEMUESTRA SI SU COMUNIÓN ES CON EL PADRE Ó NO
 
 ## Introducción
 
@@ -278,7 +290,9 @@ ___-___
 
 #### En el primer siglo, "*andar*" PERIPATEO era una metafora <u>para</u> decir como uno se conduce. Marcos 7:5; Hechos 21:21
 
-### Es importante mencionar que en ningún <u>momento</u> de esta sección enseña como volver a la comunión, como permanecer en comunión ni como se rompe la comunión con Dios. El simplemente está demostrando que el creyente puede saber si esta en comunión con Dios o no mediante estos síntomas. 
+### Es importante mencionar que en ningún <u>momento</u> de esta sección enseña como volver a la comunión, como permanecer en comunión ni como se rompe la comunión con Dios. 
+
+#### Juan simplemente está demostrando que el creyente puede saber si esta en comunión con Dios o no mediante estos síntomas. 
 
 #### No existe <u>ningún</u> imperativo en el capítulo 1 lo que demuestra que Juan no esta enseñando hacer algo para reestablecer la comunión con Dios. 
 
@@ -286,7 +300,11 @@ ___-___
 
 ## 1 Juan 1:5 Dios es Luz
 
-### 1 Juan 1:5a "*Y este es el mensaje que hemos oído de Él y que les anunciamos…*" Este mensaje procede del Padre “*hemos oído de Él*”. Este <u>mismo</u> mensaje es lo que ahora ellos les anuncian. Juan 1:4-9, 8:12, 9:4-5, 11:9-10
+### 1 Juan 1:5a "*Y este es el mensaje que hemos oído de Él y que les anunciamos…*" Este mensaje procede del Padre “*hemos oído de Él*”. 
+
+#### Ellos no oyeron el mensaje audiblemente del Padre. Lo que oyeron fué la vida manifestada de parte del Padre por medio de Cristo.
+
+##### Este <u>mismo</u> mensaje es lo que ahora ellos les anuncian. Juan 1:4-9, 8:12, 9:4-5, 11:9-10
 
 #### ¿Cuál es <u>este</u> mensaje que habían recibido y que estaban anunciando? 
 
@@ -336,7 +354,7 @@ ___-___
 
 #### En su primera carta, <u>Juan</u> usa una manera de exhibir la realidad con hechos. Juan no ignora que ellos tienen conocimiento, sin embargo, el demostrará la realidad con hechos visibles.
 
-#### El propósito de Juan no es comprobar si es que son “verdaderos creyentes”. Asume estar hablando con creyentes. Utilizará en múltiples ocasiones frases como “sabemos”, “saben”, “conocemos” esto relacionado a una <u>acción</u> puntual “sabemos que esto es verdad por eso está pasando”.  1 Juan 2:3, 5, 18, 3:14, 24, 4:13, 5:2, 18-19 ("*sabemos*"), 1 Juan 2:20, 29; 3:5, 15 ("*saben*"), 1 Juan 3:16; 4:6 ("*conocemos*"), 1 Juan 2:21; 3:10; 4:2 ("*conocen*").
+#### El propósito de Juan no es comprobar si es que son “verdaderos creyentes”. Asume estar hablando con creyentes. Utilizará en múltiples ocasiones frases como “sabemos”, “saben”, “conocemos” esto relacionado a una <u>acción</u> puntual “sabemos que esto es verdad por eso está pasando”.  1 Juan 2:3, 5, 18, 3:14, 24, 4:13, 5:2, 18-19 ("*sabemos*"), 1 Juan 2:20, 29; 3:5, 15 ("*saben*"), 1 Juan 3:16; 4:6 ("*conocemos*"), 1 Juan 2:21; 3:10; 4:2 ("*conocen*"). 
 
 #### Mostrara la conducta o la <u>vida</u> que es acorde a la luz y esto por la comunión que tenemos con el Padre.
 
@@ -345,8 +363,6 @@ ___-___
 #### Estas partes del texto son conflictivas a <u>primera</u> vista, pero tomando el contexto de lo que Juan está hablando, se evidencia visiblemente nuestra comunión (participación) con el Padre en nuestro andar.
 
 ##### Juan habla de dos maneras de <u>vivir</u> (andar en la luz y andar en tinieblas) que demuestran claramente si esta en comunión o no. Estos dos son visibles, evidentes para que uno pueda saber. 
-
-##### No es posible que alguien verdaderamente tenga comunión con Dios mientras camina en tinieblas. Para comprender esto mejor, sería <u>bueno</u> poder definir que es para Juan andar en luz y andar en tinieblas.
 
 #### Los medicos son educados para detectar síntomas y así <u>saber</u> cual es la enfermedad y tratarlo adecuadamente. Nosotros de similar manera debemos ser entrenados para detectar síntomas que demuestran nuestro estado espiritual para no quedarnos engañados. 
 
@@ -358,9 +374,9 @@ ___-___
 
 #### Sencillamente, si nos conducimos en tinieblas no estamos en comunión con Dios. El propósito de Juan de escribirles a estos hermanos que <u>conocen</u> la verdad,  es ayudarlos a distinguir claramente entre lo que es estar en comunión con Dios y lo que no es estar en comunión con Dios. 
 
-#### El no esta enseñandoles como se <u>pierde</u> la comunión. Ellos ya sabían como andar.  
+#### El no esta enseñandoles como se <u>pierde</u> la comunión. Ellos ya sabían como andar. 
 
-#### Lo que ellos necesitaban era diferenciar lo verdadero de lo que el gnosticismo <u>decía</u>. 
+#### Lo que ellos necesitaban era diferenciar lo verdadero de lo que el gnosticismo <u>decía</u>, "*de aquellos que tratan de engañar*".
 
 #### Por lo tanto, un creyente que <u>anda</u> en ellas participa de las obras infructuosas de las tinieblas. Efesios 5:11
 
@@ -374,7 +390,7 @@ ___-___
 
 #### "*Si decimos*" esta en contraste con lo que "*andamos*". Si decimos <u>estar</u> en tinieblas y andamos en tinieblas, es decir la verdad. No es verdad porque lo dijimos sino porque el andar alinea con el decir. El dicho debe coincidir con el hecho. 
 
-#### Si la primera proposición, "Decir que andamos en comunión con Él" es cierto, pero la segunda proposición "andamos en tinieblas" es <u>falso</u>, entonces toda la conjuncion es falsa. Para que la conjunción sea verdadera, ambas proposiciones deben ser verdaderas. Si la primera proposición es falso y la segunda proposición es verdadero, la conjunción sigue siendo falso. 
+#### Si la primera proposición, "Decir que andamos en comunión con Él" es cierto, pero la segunda proposición "andamos en tinieblas" es <u>falso</u>, entonces toda la conjuncion es falsa. Para que la conjunción sea verdadera, ambas proposiciones deben ser verdaderas. Si la primera proposición es falsa y la segunda proposición es verdadero, la conjunción sigue siendo falso. 
 
 #### Estar en comunión con la luz no puede resultar en tinieblas. Tinieblas no es el resultado de estar en la luz. Comunión con Dios (que es Luz) <u>resulta</u> en un andar de luz. 
 
