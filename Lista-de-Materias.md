@@ -10,13 +10,13 @@ Title: Lista de Materias
 | 4    | Filipenses                 | 0.1    | José        |
 | 5    | Efesios                    | 0.1    | Jhonny      |
 | 6    | Zacarías                   | 0.1    | John        |
-| 7    | Génesis                    | 0      |             |
-| 8    | Habacúc                    | 0.1    |             |
-| 9    | Daniel                     | 0.1    | Marcio      |
-| 10   | Evangelio de Juan          | 0      |             |
-| 11   | Gálatas                    | 0.1    | Brandon     |
-| 12   | 1 Corintios                | 0.1    | Naiot       |
-| 13   | Filemón                    | 0.1    | Uzai        |
+| 7    | Daniel                     | 0.1    | Marcio      |
+| 8    | Gálatas                    | 0.1    | Brandon     |
+| 9    | 1 Corintios                | 0.1    | Naiot       |
+| 10   | Filemón                    | 0.1    | Uzai        |
+| 13   | Evangelio de Juan          | 0      |             |
+| 11   | Génesis                    | 0      |             |
+| 12   | Habacúc                    | 0.1    |             |
 | 14   | Santiago                   | 0      |             |
 | 15   | 2 Pedro                    | 0      |             |
 | 16   | Judas                      | 0.1    |             |
