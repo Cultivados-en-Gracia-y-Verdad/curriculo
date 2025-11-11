@@ -23,7 +23,7 @@ Title: Lista de Materias
 | 17   | Apocalipsis                | 0      |             |
 | 18   | Navegando el Texto Bíblico | 0      |             |
 | 19   | Discipulado Bíblico        | 0      |             |
-| 20   | El Dios de la Biblia       | 0.1    |             |
+| 20   | El Dios de la Historia     | 0.1    |             |
 | 21   | 1 Juan                     | 0.5    |             |
 | 22   | 1 Timoteo                  | 0.5    |             |
 | 23   | 1 Pedro                    | 0.5    |             |
