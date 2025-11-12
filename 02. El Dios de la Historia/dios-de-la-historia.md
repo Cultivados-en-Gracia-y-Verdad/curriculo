@@ -1,34 +1,32 @@
-![](media/image1.jpg)
+---
+Title: El Dios de la Historia
+---
 
 Reconocimientos
 
-*Este estudio ha sido adaptado del estudio bíblico cronológico "Fundamentos firmes" que fue desarrollado por New Tribes Mission y fue preparado por*
+*Este estudio ha sido adaptado del estudio bíblico cronológico "Conociendo a Dios" que fue preparado por Scott McManigle basado en el material, "Fundamentos Firmes"*
 
-*Scott McManigle, Director de Misiones FBC.*
-
-*Un agradecimiento especial a Lane Martin y Lisa Grams por la edición.*
-
-# Conociendo a Dios 
+# El Dios de la Historia
 
 # INTRODUCCIÓN
 
 ## Objetivos de esta enseñanza
 
-### Crecer en el conocimiento de Dios, quién es Él y cómo es Él a través de la obtención de una "perspectiva de contexto más amplio" de toda la Palabra de Dios.
+### Ya que la Biblia es un solo mensaje de principio a fin y contiene la revelación de Dios de parte de Dios para el hombre, queremos conocer a Dios, quién es Él y cómo es Él a través de un estudio cronológico de Su Palabra.
 
-### Crecer en el conocimiento de Dios al ver lo que Él revela acerca de Sí mismo por Su interacción con la humanidad a través del Antiguo Testamento.
+### Queremos crecer en el conocimiento de Dios al ver lo que Él revela acerca de Sí mismo por Su interacción con la humanidad a través del Antiguo Testamento.
 
-### Crecer en nuestra comprensión de cómo Dios quiere que sea nuestra relación con Él.
+### Crecer en nuestra comprensión de cómo Dios quiere que sea nuestra relación con Él para que cada uno de nosotros esté mejor equipado para proporcionar un desarrollo progresivo de la palabra de Dios para los demás y, por lo tanto, guiarlos a un conocimiento más profundo y a la comunión con Dios también.
 
-### Para que cada uno de nosotros esté mejor equipado para proporcionar un desarrollo progresivo de la palabra de Dios para los demás y, por lo tanto, guiarlos a un conocimiento más profundo y a la comunión con Dios también.
+## ¿Cómo se logrará esto?
 
-### ¿Cómo se logrará esto?
+### Siguiendo el patrón de Dios de revelarse progresivamente a sí mismo y a Su plan de redención con el contexto de la historia.
 
-### Siguiendo el patrón de Dios de revelarse progresivamente a sí mismo y a su plan de redención con el contexto de la historia.
+### Comenzando en Génesis, progresaremos a través del Antiguo Testamento y la vida de Cristo, destacando los temas claves de la Biblia y conoceremos el carácter de Dios a medida que lo vemos desplegar Su plan de redención. Que se nos enseñe la Palabra de Dios como "una historia continua" es extremadamente significativo, ya que afecta en gran medida nuestra cosmovisión, nuestras creencias, nuestros valores y, en última instancia, nuestro comportamiento. 
 
-### Comenzando en Génesis, progresaremos a través del Antiguo Testamento y la vida de Cristo, destacando los temas clave de la Biblia y conoceremos el carácter de Dios a medida que lo vemos desplegar su plan de redención. Que se nos enseñe la palabra de Dios como "una historia continua" es extremadamente significativo, ya que afecta en gran medida nuestra visión del mundo, nuestras creencias, nuestros valores y, en última instancia, nuestro comportamiento. El hecho de que la mayoría de los creyentes de hoy tengan la perspectiva de que la vida cristiana se trata de ellos y sus acciones es una prueba de la confusión que se crea por la forma tradicional de enseñar la palabra de Dios .
+### El hecho de que la mayoría de los creyentes de hoy tengan la perspectiva de que la vida cristiana solo se trata de ellos y sus acciones es una prueba de la confusión que se llega como conclusión por la forma tradicional de enseñar la Palabra de Dios.
 
-### Entonces, ¿cuál es la "forma tradicional" de enseñar la Biblia?
+## Entonces, ¿cuál es la "forma tradicional" de enseñar la Biblia?
 
 ### En el momento de su conversión, la mayoría de las personas tendrán algún tipo de comprensión de algunas historias del Antiguo Testamento. Tal vez hayan oído hablar de la creación, Adán y Eva, o tal vez de Noé, etc.
 
@@ -38,51 +36,51 @@ Reconocimientos
 
 ### Esta iglesia también tiene un estudio bíblico semanal. ¿Qué se le enseñará a esa persona cuando asista a este estudio semanal? Podría ser cualquier tema o de cualquier libro, y nuevamente, probablemente no tendrá nada que ver con la enseñanza que recibe en el servicio de adoración o en la escuela dominical.
 
-### Entonces, a este tipo se le enseña la Palabra de Dios de esta manera durante unos años y digamos que decide ir al Colegio Bíblico. ¿Qué se le enseñará en el Colegio Bíblico? Básicamente, recibirá una "ráfaga de escopeta" de la verdad durante cuatro años. Cada día, sus clases consistirán en temas alternos del Antiguo Testamento y el Nuevo Testamento.
+### Entonces, a este tipo se le enseña la Palabra de Dios de esta manera durante unos años y digamos que decide ir al instituto bíblico. ¿Qué se le enseñará en el instituto bíblico? Básicamente, recibirá una "ráfaga de escopeta" de la verdad durante tres a cuatro años. Cada día, sus clases consistirán en temas alternos del Antiguo Testamento y el Nuevo Testamento.
 
-### Si comparamos "la verdad" con una cadena, la forma en que enseñamos a las personas sería como entregarles una pila de eslabones de cadena que no están conectados entre sí. Claro que saldrán con algún entendimiento de algunas verdades, pero habrá mucha confusión con respecto a cómo encajan estas verdades individuales en el contexto del panorama general de "LA VERDAD".
+### Si comparamos "la verdad" con una cadena, la forma en que enseñamos a las personas sería como entregarles una pila de eslabones de cadena que no están conectados entre sí. Claro que saldrán con algún entendimiento de algunas verdades, pero habrá mucha confusión con respecto a cómo encajan estas verdades individuales en el contexto del panorama general de "la verdad".
 
-### Enseñanza cronológica vs. enseñanza tradicional
+## Enseñanza cronológica vs. enseñanza tradicional
 
-### Hay una diferencia entre la enseñanza cronológica y la enseñanza tradicional. Es importante, y ambos NO llegan al mismo objetivo. Déjanos explicarte.
+### Hay una diferencia entre la enseñanza cronológica y la enseñanza tradicional. Es importante, y ambos no llegan al mismo objetivo. Déjanos explicarte.
 
-### Piense en esto como un objetivo. El anillo exterior del objetivo es nuestro comportamiento. Como humanos, nuestro comportamiento incluye las acciones externas que llevan a cabo nuestros cuerpos. (Pablo en Romanos 6 explica el uso de nuestros cuerpos como "instrumentos de justicia" o "injusticia").
+### Piense en esto como una diana. Cuando uno hace tiro al blanco, el objetivo es llegar al mismo centro de la diana. 
 
-### Nuestro comportamiento, sin embargo, está determinado por el siguiente anillo en el objetivo, que incluye nuestros valores: "estándares comunes de lo que es aceptable o inaceptable, importante o no importante, correcto o incorrecto, viable o inviable... en una comunidad de sociedad" (Business Dictionary.com).
+### Entonces para entender mejor nuestro objetivo, el anillo exterior de la diana es nuestro comportamiento. Como humanos, nuestro comportamiento incluye las acciones externas que llevan a cabo nuestros cuerpos. (Pablo en Romanos 6 explica el uso de nuestros cuerpos como "instrumentos de justicia" o "injusticia").
 
-### Nuestros valores están determinados por el siguiente anillo, que son nuestras creencias. Aquí hay un ejemplo: como estadounidenses, creemos que es importante que nuestros hijos se vuelvan financieramente independientes. Por lo tanto, valoramos la educación superior como el medio para cumplir con esa creencia, y estructuramos nuestras vidas para brindar la mejor educación posible a nuestros hijos.
+### Si entramos más hacia el centro de la diana, vemos que nuestro comportamiento, está determinado por el siguiente anillo en el objetivo, nuestros valores: "estándares comunes de lo que es aceptable o inaceptable, importante o no importante, correcto o incorrecto, viable o inviable... en una comunidad de sociedad"[^1]
 
-### Sin embargo, es el siguiente anillo el que determina nuestras creencias y esa es nuestra visión del mundo. La visión del mundo es la orientación fundamental de un individuo o sociedad. Por ejemplo, la orientación fundamental del pueblo Karen (Tailandia) es el animismo; Por lo tanto, cada aspecto de la vida y sus experiencias se ven a través de esa "orientación" o cuadrícula. Es lo que determina lo que creen.
+### Nuestros valores están determinados por el siguiente anillo, que son nuestras creencias. Aquí hay un ejemplo: en el occidente, creemos que es importante que nuestros hijos se vuelvan financieramente independientes. Por lo tanto, valoramos la educación superior como el medio para cumplir con esa creencia, y estructuramos nuestras vidas para brindar la mejor educación posible a nuestros hijos.
 
-### En realidad, creo que si tuviéramos que reducir cada cultura a su orientación fundamental, tendría que ser el YO. Todo lo que los humanos hacemos y creemos es siempre para el beneficio de nosotros mismos de una forma u otra. En el centro de nuestra visión del mundo está dónde estamos en nuestro "conocimiento de Dios" (o falta de él). Es el grado de nuestro conocimiento de Dios lo que finalmente determinará nuestra "orientación fundamental en la vida", ¡incluso como cristianos! Cuanto menos conozcamos a Dios, más el yo será nuestra orientación fundamental.
+### Sin embargo, es el siguiente anillo el que determina nuestras creencias y esa es nuestra cosmovisión. La visión del mundo es la orientación fundamental de un individuo o sociedad. Por ejemplo, la orientación fundamental del pueblo Karen (Tailandia) es el animismo; Por lo tanto, cada aspecto de la vida y sus experiencias se ven a través de esa "orientación" o cuadrícula. Es lo que determina lo que creen.
 
-### Aquí es donde creo que sale a la luz la diferencia fundamental entre la enseñanza tradicional y la enseñanza cronológica. Cuando elegimos o sacamos ciertas porciones de las Escrituras y enseñamos de toda la Biblia sin antes tomarnos el tiempo para establecer una base contextual adecuada, definitivamente afecta la perspectiva de las personas sobre Dios y la vida cristiana. Cuando nuestro enfoque en el Antiguo Testamento está principalmente en la promesa de Dios de bendecir la obediencia (que eran promesas a Israel y a la Iglesia), y cuando nuestro enfoque en el Nuevo Testamento está principalmente en los imperativos de Dios de vivir y actuar de cierta manera, llevamos a las personas a una visión distorsionada de Dios, de sí mismos y de lo que se trata la vida cristiana. Su enfoque está en sí mismos y en su devoción a Dios y en sus compromisos de vivir una vida santa en lugar de las provisiones que Dios ya les ha dado. Por defecto, los llevaremos a pensar que necesitan HACER algo para obtener la bendición y la aceptación de Dios en lugar de descansar en lo que Él ya ha hecho y dado a través de Cristo.
+### En realidad, creo que si tuviéramos que reducir cada cultura a su orientación fundamental, tendría que ser el yo. Todo lo que los humanos hacemos y creemos es siempre para el beneficio de nosotros mismos de una forma u otra. En el centro de nuestra cosmovisión está estrechamente relacionado a nuestro "conocimiento de Dios" (o falta de él). Es el grado de nuestro conocimiento de Dios lo que finalmente determinará nuestra "orientación fundamental en la vida", ¡incluso como cristianos! Cuanto menos conozcamos a Dios, más el yo será nuestra orientación fundamental.
 
-### Cuando comienzas por el principio, (es decir, ANTES de Génesis con 2 Timoteo 1:9-10; 1 Pedro 1:19-20; Efesios 1:4) y proporcionan un desarrollo fundamental y progresivo de todo el contexto de la Palabra de Dios, entonces se pueden ver más claramente los atributos y el carácter de Dios vividos a través de Su interacción con la humanidad. Te vas con una perspectiva más clara en cuanto a. . .
+### Aquí es donde sale a la luz la diferencia fundamental entre la enseñanza tradicional y la enseñanza cronológica. Cuando elegimos o sacamos ciertas porciones de las Escrituras y enseñamos de toda la Biblia sin antes tomarnos el tiempo para establecer una base contextual adecuada, definitivamente afecta la perspectiva de las personas sobre Dios y la vida cristiana. 
 
-#### . . . cómo es REALMENTE
+### Cuando nuestro enfoque en el Antiguo Testamento está principalmente en la promesa de Dios de bendeción por la obediencia (que eran promesas a Israel), y cuando nuestro enfoque en el Nuevo Testamento está principalmente en los imperativos de Dios de vivir y actuar de cierta manera, llevamos a las personas a una visión distorsionada de Dios, de sí mismos y de lo que se trata la vida cristiana. 
 
-#### . . . cómo es REALMENTE la raza humana (y de lo que es capaz)
+### Su enfoque estará en sí mismos y en su devoción a Dios y en sus compromisos de vivir una vida santa en lugar de las provisiones que Dios ya les ha dado. Por defecto, los llevaremos a pensar que necesitan hacer algo para obtener la bendición y la aceptación de Dios en lugar de descansar en lo que Él ya ha hecho y dado a través de Cristo.
 
-#### . . . en qué se basa la interacción de Dios con el hombre
+### Cuando comienzas por el principio, (es decir, ANTES de Génesis con 2 Timoteo 1:9-10; 1 Pedro 1:19-20; Efesios 1:4) y proporcionas un desarrollo fundamental y progresivo de todo el contexto de la Palabra de Dios, entonces puedes ver más claramente los atributos y el carácter de Dios vividos a través de Su interacción con la humanidad. Te vas con una perspectiva más clara en cuanto a. . .
 
-#### . . . esa imagen clara que proporciona el "telón de fondo" principal del contexto para toda la Palabra de Dios: DIOS, el Dios Todopoderoso, Soberano, supremo, santo, amoroso y misericordioso, Creador y Salvador, que se extiende para desarrollar Su plan de redención para una raza humana ciega, ignorante, indefensa, malvada y pecadora.
+#### Como es Dios realmente
 
-### Ver claramente QUIÉN es Dios y quiénes somos NOSOTROS es clave para obtener una perspectiva adecuada del contexto.
+#### Como es realmente la raza humana (y de lo que es capaz)
 
-### El hecho de que Dios lleve a cabo su plan de redención no es reaccionario; es decir, no es el "Plan B". Tampoco es misericordioso con nosotros "a pesar" de nuestro pecado. Él es misericordioso con nosotros DEBIDO a nuestro pecado y porque Él es amor y es absolutamente imposible que el hombre haga algo para ayudarse a sí mismo. Este es un patrón que se ve a lo largo de toda la Palabra de Dios.
+#### La interacción de Dios con el hombre
 
-### ¿Qué les habría pasado a Adán y Eva y a toda la raza humana si Dios los hubiera creado perfectos y rectos y luego los hubiera dejado solos para lidiar con las consecuencias de sus propias decisiones? Muerte eterna, que nunca más será restaurada.
+#### La imagen clara que proporciona el "telón de fondo" principal del contexto para toda la Palabra de Dios: DIOS, el Dios Todopoderoso, Soberano, supremo, santo, amoroso y misericordioso, Creador y Salvador, que se extiende para desarrollar Su plan de redención para una raza humana ciega, ignorante, indefensa, malvada y pecadora.
 
-### ¿Qué habría pasado con Noah? Toda la raza humana habría sido aniquilada. o ¿Cómo llegó a existir la Nación de Israel (línea del Libertador)? ¡Por Dios eligiendo a un adorador de ídolos con una esposa estéril para producir una nueva raza!
+### Ver claramente quién es Dios y quiénes somos nosotros es clave para obtener una perspectiva adecuada del contexto.
 
-### ¿Qué le habría pasado a Lot en Sodoma? ¡Los ángeles tuvieron que tomarlo de la mano y hacerlo partir! o ¿Qué le habría pasado a Israel en Egipto? ¿Qué le habría sucedido a Israel en el desierto? ¿Qué hay de la condición de Israel durante los tiempos de sus jueces y reyes? Siempre se alejaban de Dios para adorar ídolos, y Dios siempre intervenía. o ¿Qué le habría pasado al Libertador? ¿Qué les habría pasado a los discípulos? ¿Qué habría pasado con la iglesia primitiva y su crecimiento?
+### El hecho de que Dios lleve a cabo Su plan de redención no es reaccionario; es decir, no es "plan B". Tampoco es misericordioso con nosotros "a pesar" de nuestro pecado. Él es misericordioso con nosotros **debido** a nuestro pecado y porque Él es amor y es absolutamente imposible que el hombre haga algo para ayudarse a sí mismo. Este es un patrón que se ve a lo largo de toda la Palabra de Dios.
 
-### ¿Dónde estaríamos hoy? Nombra una cosa que fue significativa para llevarnos a donde estamos hoy como hijos de Dios, que podría haber sucedido sin la intervención divina de Dios..... ¡No puedes!
+### ¿Qué les habría pasado a Adán y Eva y a toda la raza humana si Dios los hubiera creado perfectos y rectos y luego los hubiera dejado solos para lidiar con las consecuencias de sus propias decisiones? El resultado seria la muerte eterna, que nunca más sería restaurada.
 
-#### El pecado es el único ingrediente necesario en esto que Dios dejó al hombre. Y cuando consideras la entrega de la ley a Israel en el Antiguo Testamento y la instrucción bíblica a la Iglesia en el Nuevo Testamento a la luz de este telón de fondo contextual, entonces creo que sales con una perspectiva correcta de Dios, la vida cristiana y cómo debemos vivirla.
+#### El pecado es el único ingrediente necesario en esto que Dios dejó al hombre. Y cuando consideras la entrega de la ley a Israel en el Antiguo Testamento y la instrucción bíblica a la Iglesia en el Nuevo Testamento a la luz de este telón de fondo contextual, entonces sales con una perspectiva correcta de Dios, la vida cristiana y cómo debemos vivirla.
 
-### El cristianismo está destinado a ser una relación.
+## El cristianismo está destinado a ser una relación.
 
 #### Otro punto simple pero profundo que tenemos que entender para obtener una perspectiva adecuada sobre el contexto de la Palabra de Dios es que la vida cristiana está destinada a ser una relación, una relación real y tangible con nuestro Padre Celestial, una relación tan real como la que tenemos con nuestras propias familias.
 
@@ -102,23 +100,29 @@ Reconocimientos
 
 ##### Creemos que la obediencia / buenas obras son la clave de la espiritualidad.
 
-##### La Biblia, la Verdad, se usará más como una ley que como una carta de nuestro amoroso Padre Celestial Cuyo único deseo es revelarse a nosotros y así llevarnos a una comunión más profunda con Él.
+##### La Biblia, la Verdad, se usará más como una ley que como una carta de nuestro amoroso Padre Celestial cuyo único deseo es revelarse a nosotros y así llevarnos a una comunión más profunda con Él.
 
-### Ejemplos de aquellos que no conocían a Dios:
+##### Ejemplos de aquellos que no conocían a Dios:
 
-#### Éxodo 5
+###### Éxodo 5
 
-#### Jueces 2:6-11
+###### Jueces 2:6-11
 
-#### Jeremías 2:1-13
+###### Jeremías 2:1-13
 
-### A través del Antiguo Testamento, Dios hace muchas referencias a la importancia de "conocer los CAMINOS del Señor". Deleitarse en Sus caminos, cantar Sus caminos, conocer Sus caminos, creo que esto es parte de conocerlo. 2 Crónicas 17:6: *Y su corazón se deleitó en los caminos de Jehová; y quitó de Judá los lugares altos y las imágenes de madera.* Salmo 138:5: *Sí, cantarán los caminos de Jehová, porque grande es la gloria de Jehová. *Los "caminos" aquí también pueden describirse como un curso de vida o un modo de acción. Es el corazón de Dios. Hechos de los Apóstoles 13:22*: Y quitándole, les levantó por rey a David, de quien también dio testimonio, diciendo: He hallado a David, hijo de Isaí, varón conforme a mi corazón, que hará toda mi voluntad. *
+### A través del Antiguo Testamento, Dios hace muchas referencias a la importancia de "conocer los **caminos** del Señor". Deleitarse en Sus caminos, cantar Sus caminos, conocer Sus caminos, creo que esto es parte de conocerlo. 
 
-#### El Antiguo Testamento también menciona mucho obedecer los mandamientos de Dios y guardar sus estatutos. Es completamente posible ser tomado y enfocado en guardar y obedecer los mandamientos de Dios sin conocer realmente y deleitarse en Sus caminos.
+#### 2 Crónicas 17:6: *Y su corazón se deleitó en los caminos de Jehová; y quitó de Judá los lugares altos y las imágenes de madera.* 
+
+#### Salmo 138:5: *Sí, cantarán los caminos de Jehová, porque grande es la gloria de Jehová.* Los "caminos" aquí también pueden describirse como un curso de vida o un modo de acción. Es el corazón de Dios. 
+
+#### Hechos 13:22*: Y quitándole, les levantó por rey a David, de quien también dio testimonio, diciendo: He hallado a David, hijo de Isaí, varón conforme a mi corazón, que hará toda mi voluntad.*
+
+### El Antiguo Testamento también menciona mucho obedecer los mandamientos de Dios y guardar sus estatutos. Es completamente posible ser tomado y enfocado en guardar y obedecer los mandamientos de Dios sin conocer realmente y deleitarse en Sus caminos.
 
 #### Así que volvamos a la "diana". Si el "enfoque" de Dios en nuestras vidas está principalmente en nuestra obediencia, en guardar Sus mandamientos, en vivir el tipo de vida cristiana que creemos que Él espera que vivamos, nuestra visión del mundo, creencias, valores y comportamiento serán muy diferentes de lo que serán si realmente conocemos y nos deleitamos en Sus caminos.
 
-#### Veamos este punto de la vida del rey David como ejemplo: 2 Samuel 12:13-22. Como saben, según la ley, los adúlteros debían ser apedreados hasta la muerte. Pero Natán dijo que Dios había quitado el pecado de David y que no moriría. PERO, dijo, el niño que nace MORIRÁ. Y en efecto, el Señor golpea al niño y se enferma.
+#### Veamos este punto de la vida del rey David como ejemplo: 2 Samuel 12:13-22. Como saben, según la ley, los adúlteros debían ser apedreados hasta la muerte. Pero Natán dijo que Dios había quitado el pecado de David y que no moriría. pero, dijo, el niño que nace morirá. Y en efecto, el Señor golpea al niño y se enferma.
 
 #### Entonces, David, que debería haber sido asesinado, comienza a suplicar a Dios por el niño. Ayuna y ora todo el día y toda la noche durante siete días, tratando de persuadir a Dios para que cambie de opinión. Después de lo que hizo David y los problemas que había causado a través de su pecado, uno pensaría que se sentiría indigno de acercarse a Dios para hacer más peticiones. Sin embargo, el niño muere.
 
@@ -136,11 +140,11 @@ Reconocimientos
 
 #### Las epístolas están llenas de verdad con respecto a nuestra posición actual en Cristo como hijos de Dios. Habla de las "riquezas que son nuestras en Cristo", "nuestra esperanza que está en el cielo", "estar sentados con Cristo en los lugares celestiales". Conocer a Dios de acuerdo con Sus caminos nos permitirá creer y por fe apropiarnos de esas maravillosas verdades y promesas y, por lo tanto, nos capacitará para seguir la instrucción bíblica.
 
-#### Sin embargo, solo conocer a Dios de acuerdo con la "instrucción bíblica" nos llevará a una visión del mundo que simplemente no nos permitirá creer y apropiarnos de la verdad que sabemos en nuestras mentes que es verdadera. Si tuviera que reducir las metas y propósitos de este plan de estudios de Creación a Cristo a un objetivo principal, sería este: *guiarnos a un conocimiento y comprensión más profundos de los caminos de Dios.*
+#### Sin embargo, solo conocer a Dios de acuerdo a la "instrucción bíblica" nos llevará a una cosmovisión que simplemente no nos permitirá creer y apropiarnos de la verdad que sabemos en nuestras mentes que es verdadera. Si tuviéramos que reducir las metas y propósitos de este plan de estudios de Dios en la Historia a un objetivo principal, sería este: *guiarnos a un conocimiento y comprensión más profundos de los **caminos de Dios**.*
 
-#### En el Antiguo Testamento, en todas las cosas que Dios puso en su lugar para que Cristo viniera y cumpliera Su plan, ¡nombra una cosa que Él dejó al hombre para que la llevara a cabo por su cuenta o una cosa que Dios no llevó a cabo por sí mismo! ¡NINGUNO!
+#### En el Antiguo Testamento, en todas las cosas que Dios puso en su lugar para que Cristo viniera y cumpliera Su plan, ¡nombra una cosa que Él dejó al hombre para que la llevara a cabo por su cuenta o una cosa que Dios no llevó a cabo por sí mismo! ¡ninguno!
 
-#### Al final de los evangelios y Hechos, el establecimiento de los apóstoles, su mensaje y el crecimiento de la Iglesia, ¿qué le quedó al hombre? ¡NADA!
+#### Al final de los evangelios y Hechos, el establecimiento de los apóstoles, su mensaje y el crecimiento de la Iglesia, ¿qué le quedó al hombre? ¡nada!
 
 ## Preguntas de revisión
 
@@ -160,7 +164,9 @@ Reconocimientos
 
 ### Solo en el libro de Génesis, la frase "Dios dijo" se usa 25 veces. "El Señor dijo" se usa 18 veces. "Él dijo" (refiriéndose a Dios) se usa 26 veces. Entonces, al hacer una búsqueda rápida, conté 69 referencias a Dios comunicándose solo en Génesis. El solo hecho de que Dios haya considerado oportuno darnos esta Biblia, esta revelación completa, da testimonio del hecho de que Él quiere que lo conozcamos.
 
-### Porque todo fue iniciado por Él. Fue Dios quien escribió la Biblia, no el hombre. Durante un período de 1.600 años, Dios escogió a 40 hombres de todos los ámbitos de la vida para escribir los 66 libros de la Biblia. Dios eligió quiénes quería que fueran los escritores, y Su Espíritu los inspiró a escribir lo que Él quería que escribieran. Estos hombres provenían de todos los ámbitos de la vida, desde Amós el recolector de higos hasta Lucas el médico. Había pescadores sin educación y estaba Pablo, el fariseo bien educado, y Moisés, que fue educado en el palacio de Faraón. Pero a pesar de que había una gran variedad de escritores que escribían a diferentes personas, de diferentes culturas, en diferentes momentos, el mensaje de la Palabra de Dios está completamente unificado de un extremo al otro. Eso es solo porque el Dios omnisciente, omnisapiente y Todopoderoso es su autor. Dios en su soberanía y omnisciencia fue el autor de su palabra, y Dios en su soberanía y omnipotencia la ha preservado.
+### Porque todo fue iniciado por Él. Fue Dios quien escribió la Biblia, no el hombre. Durante un período de 1.600 años, Dios escogió a 40 hombres de todos los ámbitos de la vida para escribir los 66 libros de la Biblia. Dios eligió quiénes quería que fueran los escritores, y Su Espíritu los inspiró a escribir lo que Él quería que escribieran. Estos hombres provenían de todos los ámbitos de la vida, desde Amós el recolector de higos hasta Lucas el médico. 
+
+### Había pescadores sin educación y estaba Pablo, el fariseo bien educado, y Moisés, que fue educado en el palacio de Faraón. Pero a pesar de que había una gran variedad de escritores que escribían a diferentes personas, de diferentes culturas, en diferentes momentos, el mensaje de la Palabra de Dios está completamente unificado de un extremo al otro. Eso es solo porque el Dios omnisciente, omnisapiente y Todopoderoso es su autor. Dios en su soberanía y omnisciencia fue el autor de su palabra, y Dios en su soberanía y omnipotencia la ha preservado.
 
 ### Por lo general, cuando escuchamos a las personas hablar de la "intención del autor", generalmente se refieren a lo que "Pablo" o "Moisés" o "Pedro" querían decir con lo que estaban escribiendo. Definitivamente hay validez en esto, ya que cada uno de los escritores escribía a personas específicas, bajo ciertas circunstancias, durante un cierto período de tiempo y dentro de una cierta cultura. PERO, en última instancia, es Dios quien inspiró a cada uno de ellos a escribir lo que Él quería que escribieran, con el propósito de que algún día todo se junte para formar esta revelación completa.
 
@@ -170,35 +176,39 @@ Reconocimientos
 
 ### Sin embargo, la mayor parte de la enseñanza bíblica actual se centra en la creencia, los valores y el nivel de comportamiento. Esto hace que las personas (1) vean la Biblia más como un libro de instrucciones, (2) vivan el cristianismo como una religión y (3) tengan muchos malentendidos sobre Dios y cómo es realmente. Pero, nuevamente, nuestro objetivo a través de este estudio será enfocarnos en Dios. Queremos crecer en nuestra comprensión de Él y de Sus caminos. Queremos conocer Su corazón.
 
-## Como todos saben, hay muchos conceptos erróneos sobre Dios.
+## Como todos sabemos, hay muchos conceptos erróneos sobre Dios
 
-### Se le conoce como el "hombre de arriba". Algunas personas lo ven como una deidad distante que tiene un gran poder, pero no está demasiado interesado en este mundo. Algunos lo ven como un spoiler de su diversión. La visión de Dios de la mayoría de las personas estará determinada por sus circunstancias.
+### Se le refiere a Dios como el "hombre de arriba". Algunas personas lo ven como una deidad distante que tiene un gran poder pero no está demasiado interesado en este mundo. 
 
-### La gente generalmente tiene preguntas sobre Dios.
+### Algunos lo ven como un spoiler de su diversión. La visión de Dios de la mayoría de las personas estará determinada por sus circunstancias.
+
+### La gente generalmente tiene estas preguntas sobre Dios:
 
 #### ¿Existe realmente?
 
 #### ¿De dónde vino?
 
-#### ¿Qué puede hacer Él? ¿Hay algo que Él no pueda hacer?
+#### ¿Qué puede hacer Él? 
+
+#### ¿Hay algo que Él no pueda hacer?
 
 #### ¿Realmente tiene autoridad absoluta sobre toda la tierra?
 
 #### ¿Realmente le importa la raza humana?
 
-#### ¿Cómo puede un Dios bueno permitir tal sufrimiento y dolor?
+#### ¿Cómo puede un Dios bueno permitir tanto sufrimiento y dolor?
 
 #### ¿Cómo podría un Dios bueno permitir que los niños sean abusados?
 
-### Incluso entre los cristianos, y me refiero a las personas que realmente han Confianza Cristo como Salvador allí son todavía muchos conceptos erróneos de Dios.
+### Incluso entre los cristianos, hay todavía muchos conceptos erróneos de Dios.
 
 ### Esto no es culpa de Dios, ya que Él no se ha escondido del hombre; porque Él ha hecho todo lo posible para revelarse claramente al mundo, no solo a través de Su Palabra, sino también a través de la creación. Creo que a medida que continuamos con este estudio, la pregunta de Dios, quién es Él, cómo es realmente y qué significa eso en mi vida diaria se volverá cada vez más clara.
 
 ### Hay cosas que encontrará que Dios revela acerca de sí mismo al principio de Génesis, y otras cosas se aclararán a medida que avancemos en el Antiguo Testamento. A medida que estudiamos el Antiguo Testamento, la naturaleza y el carácter de Dios se revelarán por la forma en que interactúa a través de los eventos que registró para nosotros en Su Palabra.
 
-### A medida que buscamos dirigir nuestra atención solo a Él, creo que te sorprenderá darte cuenta de cuánto ha revelado realmente sobre Sí mismo. Él realmente quiere que lo conozcamos. Realmente quiere una relación íntima cercana con nosotros. Este es Su corazón. Véase Jeremías 9:23-24.
+### A medida que buscamos dirigir nuestra atención solo a Él, creo que te sorprenderá darte cuenta de cuánto ha revelado realmente sobre Sí mismo. Él realmente quiere que lo conozcamos. Realmente quiere una relación íntima cercana con nosotros. Este es Su corazón. Jeremías 9:23-24.
 
-#### Lea Génesis 1:1
+### Génesis 1:1 "*En el principio Dios creó los cielos y la tierra.*"
 
 ### Antes del principio, antes de que hubiera algo... ¡estaba Dios! Dios ya existía. Me encanta cómo la Biblia comienza con Dios ya existiendo. No se da ningún argumento o prueba de su existencia.
 
@@ -214,11 +224,9 @@ Reconocimientos
 
 ## Dios no tiene un cuerpo de carne y huesos como nosotros (Juan 4:24)
 
-### No tiene un cuerpo físico. Aunque Dios es un espíritu, esto no lo convierte en una fuerza impersonal en el universo como algunos lo describen. Es un ser espiritual con su propia personalidad, mente y voluntad. Más importante aún, 1 Juan 4:7-8 dice que Dios es amor. Esto no dice que Él TIENE amor o que MANIFIESTA amor; dice que ¡ÉL ES AMOR! Esto significa que no hay nada que Él pueda hacer o permitir que entre en nuestras vidas que esté desprovisto de Su amor. Ver Romanos 8:31-39.
+### No tiene un cuerpo físico. Aunque Dios es un espíritu, esto no lo convierte en una fuerza impersonal en el universo como algunos lo describen. Es un ser espiritual con su propia personalidad, mente y voluntad. Más importante aún, 1 Juan 4:7-8 dice que Dios es amor. Esto no dice que Él TIENE amor o que MANIFIESTA amor; dice que ¡ÉL ES AMOR! Esto significa que no hay nada que Él pueda hacer o permitir que entre en nuestras vidas que esté desprovisto de Su amor.  Romanos 8:31-39
 
-### Lee Salmo 139:7-12 y Proverbios 15:3.
-
-## Dios es omnipresente. Está en todas partes al mismo tiempo.
+## Dios es omnipresente. Está en todas partes al mismo tiempo (Salmo 139:7-12; Proverbios 15:3)
 
 ### Solo podemos saber esto acerca de Dios a través de Su propia revelación. Sin que Él nos lo diga, nunca sabríamos dónde está porque no podemos verlo. Él está en las partes más lejanas del universo, y está aquí con nosotros en esta habitación. Él está con los creyentes allá en China y con ellos allá en Ecuador.
 
@@ -228,7 +236,7 @@ Reconocimientos
 
 ## Dios es una trinidad, un Dios, pero tres personas que son el único Dios.
 
-### Esta doctrina surge de los hechos que informan los historiadores del Nuevo Testamento, y la enseñanza reveladora a la que nos aferramos hoy (que se ha enseñado en la iglesia a través de las generaciones) surgió de estos hechos. Jesús no solo oró a Dios el Padre y enseñó a sus discípulos a hacerlo, sino que las Escrituras también revelan que Él también es Dios. Juan 20:28-31; Hechos 7:59; Romanos 9:5; 10:9-13; 2 Corintios 12:7-9; Filipenses 2:5-6; Colosenses 1:15-17; 2:9; Hebreos 1:1-12.
+### Esta doctrina surge de los hechos que informan los historiadores del Nuevo Testamento, y la enseñanza reveladora a la que nos aferramos hoy (que se ha enseñado en la iglesia a través de las generaciones) surgió de estos hechos. Jesús no solo oró a Dios el Padre y enseñó a sus discípulos a hacerlo, sino que las Escrituras también revelan que Él también es Dios. Juan 20:28-31; Hechos 7:59; Romanos 9:5, 10:9-13; 2 Corintios 12:7-9; Filipenses 2:5-6; Colosenses 1:15-17, 2:9; Hebreos 1:1-12
 
 ### En Juan 14:16, Jesús dijo que se enviaría un "paráclito". Este término se usó para un asesor legal, abogado, apoderado o defensor, alguien que se presenta en nombre y como representante de otro.
 
@@ -246,9 +254,7 @@ Reconocimientos
 
 ### ¿Y en nuestra visión de Satanás? ¿Hay realmente una batalla entre Dios y Satanás? Las Escrituras hablan de una batalla que se desarrolla dentro de nosotros entre la carne y el espíritu. Satanás anda como un león rugiente buscando a alguien a quien devorar, buscando a alguien a quien engañar. Pero desde la perspectiva de Dios, ¿hay realmente una batalla entre Dios y Satanás? NO, Satanás ya es un enemigo derrotado.
 
-### Lea el Salmo 147:1-9, 148:1-13
-
-### No hay nadie ni nada que pueda compararse con Dios. Él es mucho más grande que todo y todos. Él está más allá de nuestro entendimiento.
+### No hay nadie ni nada que pueda compararse con Dios. Él es mucho más grande que todo y todos. Él está más allá de nuestro entendimiento. Salmo 147:1-9, 148:1-13
 
 #### No podemos comprender a Aquel que no tuvo principio y no tendrá fin.
 
@@ -262,9 +268,9 @@ Reconocimientos
 
 ### A la infinita superioridad de Dios nos referimos como Su soberanía. Webster's definición: "Gobernante, supremo en poder jefe, eficaz o efectivo en el más alto grado". Al reflejar la soberanía de Dios, la Biblia a menudo llama a Dios "el Altísimo. . .
 
-#### . . . "el Altísimo sobre toda la tierra" Salmo 83:18
+#### "el Altísimo sobre toda la tierra" Salmo 83:18
 
-#### . . . "Yo soy el Señor, y no hay otro; no hay Dios fuera de mí". Isaías 45:5
+#### "Yo soy el Señor, y no hay otro; no hay Dios fuera de mí". Isaías 45:5
 
 ### Si realmente creyéramos que estas cosas son verdaderas de Dios, si realmente estuviéramos viviendo la vida a través de la realidad de estas verdades, entonces el Salmo 46:10 sería nuestra respuesta natural: "Estad quietos y conoced que yo soy Dios". Cada vez que no estemos quietos, debería ser evidente para nosotros que en nuestros corazones, Dios no es Dios.
 
@@ -284,7 +290,7 @@ Reconocimientos
 
 ### ¿Cómo nos afectará la verdadera confianza en los atributos de Dios a diario?
 
-# Lección 3: Dios creó a los ángeles
+# DIOS CREÓ A LOS ÁNGELES
 
 ## Mantener una perspectiva correcta
 
@@ -298,11 +304,9 @@ Reconocimientos
 
 ### A continuación, al mirar el relato de la creación, nuestro propósito no es solo mirar y resaltar las cosas que Dios creó y cuándo; nuestro propósito es más considerar lo que Dios ha revelado acerca de sí mismo a través del relato de la creación. Por último, a medida que avanzamos hacia la creación, veremos la creación en el orden en que Dios la creó.
 
-## Dios creó todos los espíritus.
+## Dios creó todos los espíritus
 
-### Job deja bastante claro que los seres espirituales estaban presentes cuando Dios creó la tierra, por lo tanto, comenzaremos con la creación de los seres espirituales por parte de Dios.
-
-### Lea Job 38:4-7
+### Job 38:4-7 - Job deja bastante claro que los seres espirituales estaban presentes cuando Dios creó la tierra, por lo tanto, comenzaremos con la creación de los seres espirituales por parte de Dios.
 
 ### Es seguro decir que existe mucha confusión en el mundo de hoy con respecto al mundo espiritual. Cada cultura tiene sus creencias. Sin embargo, solo Dios es la verdadera fuente de la VERDAD. Y si estamos realmente interesados en conocer la VERDAD, entonces tenemos que averiguar lo que ÉL dice sobre un asunto.
 
@@ -310,17 +314,13 @@ Reconocimientos
 
 ### Dios había revelado claramente su dignidad de su alabanza y adoración. Entonces, que Lucifer tenga la audacia de pensar que podría tomar el lugar de Dios, realmente agrega perspectiva a la profundidad del orgullo, la arrogancia y la maldad que existe dentro de él.
 
-### A diferencia de Dios, los seres espirituales no son eternos. Fueron creados por Dios y, por lo tanto, tuvieron un principio.
-
-### Lee Colosenses 1:16
+### Colosenses 1:16 - A diferencia de Dios, los seres espirituales no son eternos. Fueron creados por Dios y, por lo tanto, tuvieron un principio.
 
 ### El "tronos", "dominios", "principados", y "poderes" en este versículo se refieren a la multitud de espíritus que fueron creados por Dios y a los que se les dieron diferentes posiciones de autoridad.
 
 ### Otro término que las Escrituras usan para ellos es ángeles.
 
-### Dios no creó los espíritus con cuerpos físicos. Por lo tanto, no están limitados por el tiempo o el espacio como nosotros. Sin embargo, los espíritus no pueden estar en todas partes al mismo tiempo que Dios; están limitados a estar en un lugar a la vez. Aunque los espíritus no tienen cuerpos físicos, a veces han aparecido como seres humanos o en alguna otra forma física.
-
-### Mira Génesis 18:1-2, 22, 19:1, 12, 15; Isaías 6:1-2; Lucas 24:1-4, 22-23. Estos son solo algunos de los muchos, muchos ejemplos.
+### Dios no creó los espíritus con cuerpos físicos. Por lo tanto, no están limitados por el tiempo o el espacio como nosotros. Sin embargo, los espíritus no pueden estar en todas partes al mismo tiempo que Dios; están limitados a estar en un lugar a la vez. Aunque los espíritus no tienen cuerpos físicos, a veces han aparecido como seres humanos o en alguna otra forma física. Génesis 18:1-2, 22, 19:1, 12, 15; Isaías 6:1-2; Lucas 24:1-4, 22-23. 
 
 ## Dios creó los espíritus para un propósito especial.
 
@@ -338,7 +338,7 @@ Reconocimientos
 
 #### Así como eres el dueño de todo lo que haces, Dios es el dueño de todo y de todos los que creó. ¡Él es su Dios, su Creador y su Dueño!
 
-## Dios creó a TODOS los ángeles/seres espirituales perfectos.
+## Dios creó a TODOS los ángeles/seres espirituales perfectos
 
 ### Dado que Dios es completamente santo, nunca crearía nada malo. Todo lo que piensa, dice y hace es perfecto. Aunque Dios sabía absolutamente cómo sería cada ángel, no creó a ninguno de ellos como malvado. Él los creó a todos perfectos y sin pecado.
 
@@ -354,17 +354,13 @@ Reconocimientos
 
 ### Independientemente de nuestras circunstancias, podemos abandonarnos por completo y entregarnos a Él y a Su gracia y misericordia soberanas para obrar todas las cosas de acuerdo con los consejos de Su propia voluntad, para nuestro bien y para Su gloria.
 
-## Dios creó una gran cantidad de ángeles.
-
-#### Lee Mateo 26:53 y Apocalipsis 5:11
+## Dios creó una gran cantidad de ángeles (Mateo 26:53 y Apocalipsis 5:11)
 
 ### La próxima vez que te sientas tentado a preocuparte por los "ataques del enemigo", ¡recuerda estos dos versículos y la gran cantidad de ángeles que Dios simplemente habló para que existieran! Con tal poder, sabiduría, soberanía y grandeza, ¿por qué NOSOTROS, como cristianos de obra terminada, nos encontraríamos remotamente preocupados por lo que el "enemigo" está tratando de lograr?
 
-### A continuación, parece de las Escrituras que Dios no creó este enorme número de ángeles exactamente igual.
+###  A continuación, parece de las Escrituras que Dios no creó este enorme número de ángeles exactamente igual.
 
-### Lea Ezequiel 28:11-14
-
-### Este pasaje es una referencia a Lucifer. Observe en el versículo 14, que fue llamado el "querubín ungido". Como todos los demás ángeles, Lucifer también fue creado perfecto e irreprensible y sin pecado. El versículo 15 dice "fuiste perfecto en tus caminos desde el día en que fuiste creado". Parece que Lucifer tenía belleza, sabiduría y una posición por encima de todos los demás ángeles.
+### Ezequiel 28:11-14 - Este pasaje es una referencia a Lucifer. Observe en el versículo 14, que fue llamado el "querubín ungido". Como todos los demás ángeles, Lucifer también fue creado perfecto e irreprensible y sin pecado. El versículo 15 dice "fuiste perfecto en tus caminos desde el día en que fuiste creado". Parece que Lucifer tenía belleza, sabiduría y una posición por encima de todos los demás ángeles.
 
 ### Este punto habla de la soberanía de Dios como el Creador y Dueño de Su creación. Él tenía la autoridad y el derecho de crear Su creación de la manera que Él deseaba que fuera.
 
@@ -372,9 +368,7 @@ Reconocimientos
 
 ### Regrese al Salmo 103:20. Los ángeles tienen gran conocimiento y entendimiento, y Dios les dio poder para hacer grandes cosas. Sin embargo, a diferencia de Dios, no saben y no pueden hacerlo todo.
 
-### Lea Efesios 3:10 y 1 Pedro 1:12
-
-### Estos dos pasajes nos muestran que los ángeles no lo saben todo. Es muy evidente que Dios desea que Su creación lo conozca. Ha hecho todo lo posible y detalla su revelación.
+### Efesios 3:10 y 1 Pedro 1:12 - Estos dos pasajes nos muestran que los ángeles no lo saben todo. Es muy evidente que Dios desea que Su creación lo conozca. Ha hecho todo lo posible y detalla su revelación.
 
 ### Él creó a los ángeles primero, en parte para poder revelarse a ellos a medida que avanzaba para crear el resto de la creación. Ahora lo vemos usando su interacción con la iglesia para revelar aún más su sabiduría y gracia al mundo espiritual.
 
@@ -408,7 +402,7 @@ Reconocimientos
 
 ### ¿Cuál es una verdad importante sobre Dios que lo diferencia de los dioses de todas las demás religiones?
 
-# Lección 4: Dios se reveló a sí mismo y a su corazón a través de sus actos creativos
+# DIOS SE REVELÓ A SÍ MISMO Y A SU CORAZÓN A TRAVÉS DE SUS ACTOS CREATIVOS
 
 ## Introducción: Con la lección 4, comenzaremos a ver Génesis 1:1 y avanzaremos a través de la historia de la creación. Antes de hacerlo, primero queremos resaltar algunos antecedentes que se suman al contexto y, con suerte, a nuestra comprensión del propósito previsto de Dios para incluir este libro en Su palabra, la revelación completa.
 
@@ -420,7 +414,7 @@ Reconocimientos
 
 ### Otro aspecto está en la apropiación de la verdad. Si no conocemos a Dios, no confiaremos en Él. Si no podemos confiar en Él, entonces no entraremos y nos apropiaremos de la verdad en nuestras vidas. Crecer en el conocimiento de Dios es EL fundamento de toda la vida cristiana.
 
-### Lea Génesis 1:1
+## Génesis 1:1 - Dios es el creador
 
 ### La primera frase del primer versículo de toda la Biblia, nos da dos verdades muy importantes sobre los atributos de Dios. Primero, es Su Nombre.
 
@@ -466,11 +460,9 @@ Reconocimientos
 
 ### Debido a que Cristo y su obra terminada satisfacen la justicia de Dios por toda la eternidad, significa que nuestra relación con Dios y su aceptación de nosotros también será eterna. El hecho de que el Espíritu Santo sea eterno significa que Él será fiel para llevar a cabo Su papel y ministerio en nuestras vidas por toda la eternidad. Actualmente, mientras todavía estamos en esta tierra, Su papel es guiarnos a la verdad y hacer de Cristo la ocupación de nuestros corazones. Podemos esperar absolutamente que Él siempre sea fiel, porque Él es eterno.
 
-### Lea Génesis 1:1-5.
+## Génesis 1:1-5 - El primer día Dios creó los cielos, la tierra y la luz.
 
-## Dios es el Creador. El primer día Dios creó los cielos, la tierra y la luz.
-
-### En el principio, Dios creó los cielos y la tierra sin ningún material preexistente, pero fue Su VOLUNTAD que estas cosas existieran ("Hágase..."). Dios formó todas las cosas en orden con una existencia que dependía de Su voluntad.
+### En el principio, Dios creó los cielos y la tierra sin ningún material preexistente, pero fue Su voluntad que estas cosas existieran ("Hágase..."). Dios formó todas las cosas en orden con una existencia que dependía de Su voluntad.
 
 ### Algunas notas a considerar aquí:
 
@@ -484,7 +476,7 @@ Reconocimientos
 
 ### La estabilidad del universo depende de la constante defensa divina. Sin él, todas las criaturas de todo tipo dejarían de existir.
 
-### Lea Hechos 17:25, 28.
+### Lea Hechos 17:25, 28
 
 ### Necesitamos orar para que Dios abra nuestros ojos para comenzar a comprender la maravilla y la grandeza que Él ha revelado sobre Sí mismo a través de Sus actos creativos. Porque solo entonces podemos alabarlo sincera y sinceramente como el Creador Todopoderoso.
 
@@ -516,19 +508,15 @@ Reconocimientos
 
 ### Este ciclo de "día y noche" continuará hasta el fin de los tiempos, porque Dios es fiel y Él es el sustentador de todas las cosas.
 
-### Lea Génesis 1:6-8.
-
-## El segundo día, Dios creó la atmósfera
+## Génesis 1:6-8 - El segundo día, Dios creó la atmósfera
 
 ### Dios creó el firmamento. El firmamento en estos versículos se refiere al espacio atmosférico que rodea la tierra. Lo que podemos ver es solo una fracción de la vasta atmósfera que lo rodea. Con solo hablar, Dios creó la atmósfera de la Tierra y era perfecta.
 
-### Lea Jeremías 10:12; Salmos 19:1.
+### Lea Jeremías 10:12; Salmos 19:1
 
-### Otra cosa que realmente se destaca en el relato de la creación es la sabiduría del orden en el que Dios creó todas las cosas. Era apropiado y lógico que Dios creara primero la luz y luego la atmósfera, dos de las cosas principales que todos los seres vivos necesitarían para sobrevivir.
+### Otra cosa que realmente se destaca en el relato de la creación es la sabiduría del orden en el que Dios creó todas las cosas. Era apropiado y lógico que Dios creara primero la luz y luego la atmósfera, dos de las cosas principales que todos los seres vivos necesitarían para sobrevivir. 
 
-### Lea Génesis 1:9-13
-
-## Al tercer día, Dios formó la tierra seca y creó toda la vida vegetal
+## Génesis 1:9-13 - Al tercer día, Dios formó la tierra seca y creó toda la vida vegetal
 
 ### Al tercer día, Dios hizo que parte del agua que aún cubría la tierra retrocediera y la tierra seca quedó expuesta por primera vez. Fue entonces cuando se formaron los océanos originales. Dios manda y las aguas y los océanos le obedecen. Job 28:23-28, 38:4-6, 8-11; Salmo 33:6-9, 74:12-17
 
@@ -544,7 +532,7 @@ Reconocimientos
 
 #### Jesús convirtió el agua en vino y calmó las olas furiosas en una tormenta.
 
-### Dios ha usado el agua una y otra vez para revelar su poder y fuerza a la humanidad. También en el tercer día, Dios creó TODA la vida vegetal. Dios creó una gran variedad de plantas, árboles y frutas con una increíble diversidad de colores, formas y tamaños. Se estima que hay más de 500 categorías de frutas solamente.
+### Dios ha usado el agua una y otra vez para revelar su poder y fuerza a la humanidad. También en el tercer día, Dios creó toda la vida vegetal. Dios creó una gran variedad de plantas, árboles y frutas con una increíble diversidad de colores, formas y tamaños. Se estima que hay más de 500 categorías de frutas solamente.
 
 #### Hice una búsqueda en línea para obtener un número de cuántos tipos diferentes de verduras existen en el mundo y obtuve esta cita: "*Actualmente, debido a su gran número, no existe una lista oficial de cuántas verduras hay en el mundo. Para por ejemplo, hay 4,000 variedades de tomates solos.*"
 
@@ -554,15 +542,13 @@ Reconocimientos
 
 #### Tomemos las flores, por ejemplo. Cada tipo tiene un patrón de identificación propio. En las semillas de cada flor hay características peculiares de su tipo. Cuando estas semillas se propagan, invariablemente producirán flores con el mismo pétalo, disposición de tallos y fragancia que las originales. Si examinaras una flor bajo una lupa, verías patrones característicos de su tipo.
 
-#### Luego, si tomaras una pequeña rebanada del pétalo o tallo y la pusieras bajo un microscopio, descubrirías una disposición aún más ordenada de las células peculiares de ese tipo de flor. Este es solo un pequeño ejemplo del hecho de que Dios es verdaderamente EL Diseñador Maestro. Las cosas NO sucedieron por casualidad. Dios creó esta gran variedad de plantas y árboles con un propósito. Dios existía antes de que existiera cualquier vida vegetal, por lo que sabemos que Él no las creó para sí mismo. Dios estaba preparando la tierra para la raza humana.
+#### Luego, si tomaras una pequeña rebanada del pétalo o tallo y la pusieras bajo un microscopio, descubrirías una disposición aún más ordenada de las células peculiares de ese tipo de flor. Este es solo un pequeño ejemplo del hecho de que Dios es verdaderamente EL Diseñador Maestro. Las cosas no sucedieron por casualidad. Dios creó esta gran variedad de plantas y árboles con un propósito. Dios existía antes de que existiera cualquier vida vegetal, por lo que sabemos que Él no las creó para sí mismo. Dios estaba preparando la tierra para la raza humana.
 
 #### Él creó una gran variedad de plantas que sabía que necesitaríamos usar como alimento. También creó una gran variedad de plantas y árboles de los que sabía que tendríamos que depender para otras cosas: calefacción, construcción de casas, etc. Luego hay otra gran variedad que Él creó por la sencilla razón de que sabía que disfrutaríamos de la belleza y la fragancia.
 
 #### Todo lo que Dios creó fue bueno y perfecto porque Él es bueno y perfecto, y todo lo que hace es un reflejo de Quién es Él y cómo es.
 
-#### Lea Génesis 1:14-19.
-
-## El cuarto día, Dios creó el sol, la luna y las estrellas
+## Génesis 1:14-19 - El cuarto día, Dios creó el sol, la luna y las estrellas
 
 ### Agreguemos algo de perspectiva a esto. Si estuviéramos viajando a la velocidad de la luz (186,000 millas por segundo), podríamos hacer siete viajes alrededor del mundo en un segundo. A esa velocidad, se necesitarían cuatro años para llegar a la estrella más cercana y 59.000 años para llegar al final de nuestra galaxia, y luego otros 750.000 años para llegar a la siguiente galaxia.
 
@@ -578,21 +564,17 @@ Reconocimientos
 
 ### Mire Jeremías 23:23-24.
 
-### Lea Génesis 1:20-23.
-
-## El quinto día, Dios creó toda la vida marina y las aves
+## Génesis 1:20-23 - El quinto día, Dios creó toda la vida marina y las aves
 
 ### Dios creó numerosos tipos de criaturas acuáticas y aves de innumerables diseños y formas. Cuanto más busca el hombre en las profundidades oceánicas y en los lugares remotos de la tierra, más tipos de vida marina y aves se descubren. Con respecto a los mares, una cita que encontré decía: "*Más de un millón de especies conocidas de plantas y animales viven allí y los científicos dicen que puede haber como hasta nueve millones de especies que aún no hemos descubierto*".
 
 ### Dios creó a cada ser viviente para que solo pudiera reproducirse "*según su especie.*La frase "*según su género*" se repite diez veces en el primer capítulo del Génesis. El ADN de cada organismo fue creado y programado por Dios para que solo pueda guiar en la reproducción del mismo tipo. Aunque son posibles grandes variaciones dentro de cada "tipo", la evolución de nuevos "tipos" es imposible.
 
-### Incluso las criaturas más pequeñas y ordinarias son creación de Dios y son increíblemente complejas. Escuche esta cita: "*La biología molecular ha demostrado que incluso el más simple de todos los sistemas vivos de la tierra hoy en día, las células bacterianas, son extremadamente complejas. Aunque las células bacterianas más pequeñas son increíblemente pequeñas, pesan menos de 10###12 gramos, cada una es en realidad una verdadera fábrica microminiaturizada que contiene miles de piezas exquisitamente diseñadas de intrincada maquinaria molecular, compuesta en total por cien mil millones de átomos. Son mucho más complicados que cualquier máquina construida por el hombre y absolutamente sin paralelo en el mundo vivo.*"
+### Incluso las criaturas más pequeñas y ordinarias son creación de Dios y son increíblemente complejas. Escuche esta cita: "*La biología molecular ha demostrado que incluso el más simple de todos los sistemas vivos de la tierra hoy en día, las células bacterianas, son extremadamente complejas. Aunque las células bacterianas más pequeñas son increíblemente pequeñas, pesan menos de 10-12 gramos, cada una es en realidad una verdadera fábrica microminiaturizada que contiene miles de piezas exquisitamente diseñadas de intrincada maquinaria molecular, compuesta en total por cien mil millones de átomos. Son mucho más complicados que cualquier máquina construida por el hombre y absolutamente sin paralelo en el mundo vivo.*"
 
-### Nuestro Dios es TODOPODEROSO y Él hizo todo por Su propio gran entendimiento.
+### Nuestro Dios es todopoderoso y Él hizo todo por Su propio gran entendimiento.
 
-### Lea Génesis 1:24-25.
-
-## El sexto día, Dios creó a los animales
+## Génesis 1:24-25 - El sexto día, Dios creó a los animales
 
 ### Dios creó un número y una variedad inconcebibles de animales y creó cada tipo con características únicas y con la capacidad de reproducir solo otros animales de su propia especie. Para tener un poco más de perspectiva, tenga en cuenta esto: el reino animal se divide en unos 30 filos. Los nueve filos más grandes contienen la mayoría de las especies. Un filo, los artrópodos, que incluye insectos y arañas, constituye aproximadamente el 75 por ciento de todas las especies animales conocidas. Se han descrito más de 900.000 artrópodos y, según algunas estimaciones, puede haber más de cinco millones más.
 
@@ -608,7 +590,7 @@ Reconocimientos
 
 ### Cada acto de la creación reveló algún aspecto del carácter glorioso de Dios. De este primer capítulo del primer libro de la Biblia, que cubre los primeros actos registrados que Dios había realizado, ¿cuáles son algunos de los atributos y características de Dios que hemos visto hasta ahora?
 
-### Lee Romanos 1:20.
+### Lee Romanos 1:20. 
 
 ### Cuantos más hechos y detalles aprendamos sobre la creación de Dios, más comenzaremos a comprender Su grandeza y maravilla.
 
@@ -630,7 +612,7 @@ Reconocimientos
 
 ### En todo lo que Dios creó, lo creó todo con un gran número, vastas variedades y distancias insondables. Nombra algunas razones para esto.
 
-# Lección 5: Dios creó a Adán y Eva
+# DIOS CREÓ A ADÁN Y EVA
 
 ## Introducción: El relato de la creación nos dice mucho sobre Dios. Permitió que muchas facetas de su carácter se revelaran a través de todo lo que hizo porque tenía la intención de que alguien lo apreciara y tuviera la capacidad de responderle. Hoy, vamos a ver el relato de Génesis y descubrir por qué Dios hizo al hombre y cómo fue un reflejo especial de la gloria de Dios.
 
@@ -646,13 +628,9 @@ Reconocimientos
 
 ### Ahora, como creyentes, tenemos la promesa de otro lugar que actualmente se está preparando para nosotros.
 
-### Lea Juan 14:1-3.
+## Juan 14:1-3 - Dios planeó crear al hombre a su propia imagen
 
-## Dios planeó crear al hombre a su propia imagen
-
-### Lee Génesis 1:26.
-
-### ¿Quiénes son el "nosotros" y el "nuestro" en este pasaje? La Trinidad. Parece que estaban discutiendo su plan para crear al hombre. Dios planeó crear al hombre superior a los animales. De todo lo que Dios creó en la tierra, el hombre sería el más importante y lo creó a su imagen y esto en sí mismo hace que el hombre sea superior a todos los animales.
+### Génesis 1:26 - ¿Quiénes son el "nosotros" y el "nuestro" en este pasaje? La Trinidad. Parece que estaban discutiendo su plan para crear al hombre. Dios planeó crear al hombre superior a los animales. De todo lo que Dios creó en la tierra, el hombre sería el más importante y lo creó a su imagen y esto en sí mismo hace que el hombre sea superior a todos los animales.
 
 ### En nuestro mundo actual, vemos muchas evidencias del rechazo del hombre a Dios y a la verdad. El hombre fue creado superior a los animales y, sin embargo, mire nuestra sociedad actual: muchos animales tienen más derechos que los bebés no nacidos. Esto también da evidencia de cuán verdadera es realmente la declaración de Dios en Génesis 8:21, porque la perspectiva de la humanidad sobre lo que es "bueno y malo" es exactamente lo opuesto a la de Dios.
 
@@ -736,7 +714,7 @@ Reconocimientos
 
 ### ¿Quién vio cómo Dios creó al hombre?
 
-# Lección 6: Dios colocó a Adán en el Edén
+# DIOS COLOCÓ A ADÁN EN EL EDÉN
 
 ## Introducción: Durante las últimas semanas, hemos estado observando la grandeza y la maravilla de Dios y cómo si realmente nos detenemos y miramos Su creación con más detalle, realmente podemos ver Su obra y comenzar a vislumbrar la magnitud de Su poder y sabiduría. La creación de Dios es tan vasta y grande que nuestras mentes ni siquiera pueden comenzar a comprender todo lo que contienen los cielos. La tierra también apunta a Su grandeza. Tenemos estos bonitos pinzones de colores que vienen y anidan en un árbol al lado de la ventana de nuestra cocina. Algo tan simple como un pájaro de hermosos colores sentado en una rama verde oscuro puede hacer que te quedes mirando con asombro. Qué maravilloso debe haber sido todo en su perfección. Nuestro Dios todopoderoso no dejó nada sin crear, y Él sabía cuándo había terminado.
 
@@ -768,9 +746,7 @@ Reconocimientos
 
 ### Este lugar donde se llevaría a cabo Su plan estaba completo.
 
-### Lea Génesis 2:4-6.
-
-### En todas las referencias anteriores a Dios hasta este punto, Dios usa el nombre Elohim, que significa "El Creador" y habla del poder y la fuerza de Dios. Sin embargo, comenzando en el versículo 4,
+### Génesis 2:4-6 En todas las referencias anteriores a Dios hasta este punto, Dios usa el nombre Elohim, que significa "El Creador" y habla del poder y la fuerza de Dios. Sin embargo, comenzando en el versículo 4,
 
 ### Dios usa el nombre de Jehová, Yahvé, "EL que es", el auto-existente, "YO SOY".
 
@@ -778,25 +754,19 @@ Reconocimientos
 
 ### Observe en el versículo 6 que en ese momento, la tierra estaba regada con una niebla que se elevaba de la tierra. En ese momento, no llovía.
 
-### Lea Génesis 2:7-8.
-
-### Debido al gran amor de Dios por Adán y Eva, preparó un hermoso jardín para ellos. A menudo, todos hacemos cosas realmente especiales el uno por el otro como una forma de mostrar nuestro amor mutuo. Lo mismo sucedió con Dios. Debido a Su amor por el hombre, Él preparó un lugar maravilloso para que el hombre viviera.
+### Génesis 2:7-8 - Debido al gran amor de Dios por Adán y Eva, preparó un hermoso jardín para ellos. A menudo, todos hacemos cosas realmente especiales el uno por el otro como una forma de mostrar nuestro amor mutuo. Lo mismo sucedió con Dios. Debido a Su amor por el hombre, Él preparó un lugar maravilloso para que el hombre viviera.
 
 ### Los jardines botánicos más exquisitos del mundo no podrían haber tenido una vela para este jardín que fue plantado por Dios mismo. Incluyó en el jardín todas las verduras y árboles frutales que el hombre necesitaría. Creo que Él proveyó lo que necesitarían para sobrevivir, pero también incluyó muchas otras cosas que sabía que disfrutarían, porque Dios es el dador de cosas buenas.
 
-### Lea Nehemías 9:25; Salmo 31:19; 103:1-5; Santiago 1:17-18
+### Lea 
 
-## Dios puso a Adán en el jardín
-
-### Lea Génesis 2:8 nuevamente.
+## Génesis 2:8 - Dios puso a Adán en el jardín (Nehemías 9:25; Salmo 31:19; 103:1-5; Santiago 1:17-18)
 
 ### Cuando Dios tuvo el jardín listo para Adán, Dios no le preguntó a Adán si quería vivir en él. No dijo: "Oye*, este jardín es maravilloso, ¿te gustaría vivir en él*?*"* Dios lo puso en ella. Dios tenía la autoridad absoluta para colocar a Adán en cualquier lugar que así lo deseara. Dios es el Creador y Dueño todopoderoso de toda Su creación.
 
 ### Pero aquí está la cosa: ¡la autoridad de Dios nunca se lleva a cabo sin amor! 1 Juan 4 dice que Dios ES amor. Por lo tanto, ¡absolutamente todo lo que Él hace siempre lo hace con amor, siempre es perfecto y siempre es lo mejor!
 
-## Dios plantó dos árboles especiales en medio del jardín
-
-### Lee Génesis 2:9.
+## Génesis 2:9 - Dios plantó dos árboles especiales en medio del jardín
 
 ### Dios hizo que crecieran muchos tipos de árboles en el jardín. Algunos habrían sido plantados por Dios para el puro placer y disfrute del hombre, como árboles en flor, mientras que otros sirvieron para propósitos más prácticos, como proporcionar sombra o frutas y alimentos para comer. Creo que Dios hizo lo mismo que hacemos nosotros como padres. Proporcionamos no solo lo que nuestros hijos necesitan, sino también cosas que sabemos que disfrutarán.
 
@@ -814,9 +784,7 @@ Reconocimientos
 
 ### Nuestra entrada en el cielo nuevo y la tierra nueva para estar en la presencia de Dios por toda la eternidad es otra parte del resultado de la obra terminada de Cristo. Nuestra residencia en el cielo nuevo y la tierra nueva será prueba de que el plan de Dios se cumplió.
 
-### Lea Génesis 2:16-17
-
-## Dios le advirtió a Adán que desobedecerlo resultaría en la muerte
+## Génesis 2:16-17 - Dios le advirtió a Adán que desobedecerlo resultaría en la muerte
 
 ### Hasta este momento, todo lo que Adán había experimentado era solo bueno porque Dios había provisto todo lo que necesitaba. Nunca antes había visto la muerte. Sin embargo, en este momento, Dios dejó en claro que si Adán quería ser independiente de Dios y desobedecerlo comiendo el fruto prohibido, entonces moriría.
 
@@ -850,7 +818,7 @@ Reconocimientos
 
 ### ¿Qué quiso decir Dios cuando dijo que Adán moriría?
 
-# Lección 7: Dios creó una esposa para Adán
+# DIOS CREÓ UNA ESPOSA PARA ADÁN
 
 ## Introducción: Dios conoce íntimamente su creación. Cuando hizo a Adán, sabía cuáles serían sus necesidades y planeó amorosamente satisfacerlas. En esta lección, veremos Su increíble bondad al proporcionarle a Adán un regalo como ningún otro. Hoy, Dios no ha cambiado. El mismo corazón que vemos en la forma en que Él amó y cuidó de Adán, ese es Su corazón hoy con nosotros también. Nuestro problema es que determinamos por nosotros mismos lo que queremos, en lugar de confiar en que Él nos guíe y provea.
 
@@ -862,13 +830,9 @@ Reconocimientos
 
 ### ¿Podría describir cómo Dios hizo a Adán, formó su cuerpo del polvo de la tierra y luego le dio vida?
 
-### Lee Génesis 2:7.
+### Génesis 2:7 - Hasta este punto, no hemos visto cómo Dios hizo el cuerpo de Eva. La sección de las Escrituras que vamos a estudiar ahora explica por qué y cómo fue hecha Eva. Veamos primero por qué Dios decidió crear a Eva.
 
-### Hasta este punto, no hemos visto cómo Dios hizo el cuerpo de Eva. La sección de las Escrituras que vamos a estudiar ahora explica por qué y cómo fue hecha Eva. Veamos primero por qué Dios decidió crear a Eva.
-
-### Lee Génesis 2:18.
-
-### Primero, observe quién fue el que dijo que no era bueno que el hombre estuviera solo. Era Dios. Solo Dios es omnisciente. Él sabe lo que es mejor y solo desea proporcionar lo mejor.
+### Génesis 2:18 - Primero, observe quién fue el que dijo que no era bueno que el hombre estuviera solo. Era Dios. Solo Dios es omnisciente. Él sabe lo que es mejor y solo desea proporcionar lo mejor.
 
 ### Dios no creó al hombre para que fuera independiente de Él. No quería que Adán comiera del Árbol del Conocimiento del Bien y del Mal y comenzara a decidir independientemente por sí mismo lo que es bueno y lo que no es bueno. Dios es omnisciente y Adán no lo era. Dios sabía lo que era mejor y había planeado proporcionarle una compañera.
 
@@ -884,15 +848,11 @@ Reconocimientos
 
 ### Al traer todos los animales a Adán para nombrarlos, Dios también le dio a Adán una clara muestra de Su poder, sabiduría y soberanía. Al nombrar a todos los animales, se hizo evidente para Adam que ninguno de ellos era adecuado para ser su compañero; ninguno fue creado como él, a imagen de Dios.
 
-### Lee Génesis 2:20.
-
-## Adán fue creado a imagen de Dios. Fue creado para gobernar sobre todos los animales
+## Génesis 2:20 - Adán fue creado a imagen de Dios. Fue creado para gobernar sobre todos los animales
 
 ### Para que Adán experimente el máximo potencial de la relación con otra persona, ese compañero también debe ser creado a imagen de Dios. Necesitaba tener a alguien que pudiera interactuar con él y comunicarse con él en el mismo nivel intelectual y emocional. Necesitaba a alguien que compartiera los mismos intereses y disfrutara de las mismas actividades que él disfrutaba. Adán no podía hacer nada para proveerse de un compañero adecuado. Solo Dios podía hacer eso.
 
-### Lea Génesis 2:21-22.
-
-### En primer lugar, ¡solo Dios podría lograr tal hazaña! Nada, nada, nada es imposible para Dios. ¡Él es absolutamente TODOPODEROSO! Al igual que Adán, Dios creó a Eva a su imagen. Tenía una mente, emociones y una voluntad perfectas para poder comunicarse con Él y con Adán. Piense en por qué Dios creó a Eva de la costilla de Adán. Fue tomada de una parte del hombre para significar su unidad. Entonces, la parte de la que fue hecha, significa igualdad, pero bajo su protección y autoridad.
+### Génesis 2:21-22 - En primer lugar, ¡solo Dios podría lograr tal hazaña! Nada, nada, nada es imposible para Dios. ¡Él es absolutamente TODOPODEROSO! Al igual que Adán, Dios creó a Eva a su imagen. Tenía una mente, emociones y una voluntad perfectas para poder comunicarse con Él y con Adán. Piense en por qué Dios creó a Eva de la costilla de Adán. Fue tomada de una parte del hombre para significar su unidad. Entonces, la parte de la que fue hecha, significa igualdad, pero bajo su protección y autoridad.
 
 ## Génesis 2:23-24 - El matrimonio fue ordenado por Dios
 
@@ -920,7 +880,7 @@ Reconocimientos
 
 ### ¿Cómo podemos estar seguros de que Dios solo hará lo que es mejor para nosotros?
 
-# Lección 8: Lucifer se rebeló contra Dios
+# LUCIFER SE REBELÓ CONTRA DIOS
 
 ## Introducción: Todos sabemos que cuando Dios creó por primera vez el mundo, el universo y todo lo que contiene, no existía nada malo. Todo estaba en paz y armonía. No había pecado, enfermedad, tristeza o muerte. También sabemos que, poco después, esta hermosa tranquilidad cambió como resultado del pecado.
 
@@ -936,15 +896,11 @@ Reconocimientos
 
 ### Hay diferentes creencias con respecto a Lucifer y los ángeles y cuál fue su pecado. Al poner Judas 6 junto con Ezequiel 28, parecería que su pecado fue el orgullo y la desobediencia.
 
-### Lea Judas 6, Ezequiel 28:13-15.
-
-### Su "primer estado" o "principado" se refiere entonces a su posición original de estar bajo la autoridad de la Deidad. Se sintieron insatisfechos con la voluntad y la ubicación de Dios para ellos y aspiraron a ser más altos.
+### Su "primer estado" o "principado" se refiere entonces a su posición original de estar bajo la autoridad de la Deidad. Se sintieron insatisfechos con la voluntad y la ubicación de Dios para ellos y aspiraron a ser más altos. (Judas 6, Ezequiel 28:13-15)
 
 ### Cuando te detienes y piensas en ello, no había razón para que Lucifer se rebelara. Había sido honrado por Dios al recibir la posición más alta sobre todos los demás ángeles. Debería haber obedecido y servido a Dios. Pero de Ezequiel 28:17, parece que Lucifer se enorgulleció de su belleza, inteligencia y posición.
 
-### Lee Ezequiel 28:17.
-
-### De todo esto, también entendemos que aunque Lucifer y los ángeles fueron creados perfectos, también se les dio libre albedrío. La rebelión de Lucifer fue un acto de su voluntad, una elección consciente de oponerse a Dios. Lucifer quería ser como Dios. Aspiraba a ocupar el lugar de Dios como gobernante supremo sobre todas las cosas. Mira lo que dice Isaías 14:12###15 en referencia a la rebelión de Lucifer.
+### Ezequiel 28:17 - De todo esto, también entendemos que aunque Lucifer y los ángeles fueron creados perfectos, también se les dio libre albedrío. La rebelión de Lucifer fue un acto de su voluntad, una elección consciente de oponerse a Dios. Lucifer quería ser como Dios. Aspiraba a ocupar el lugar de Dios como gobernante supremo sobre todas las cosas. Mira lo que dice Isaías 14:12###15 en referencia a la rebelión de Lucifer.
 
 ## Lucifer fue el primero en hacer el mal, el primero en pecar
 
@@ -1010,7 +966,7 @@ Reconocimientos
 
 ### En la última lección que estudiaste sobre Lucifer y los ángeles, cuando Lucifer y algunos de los ángeles se rebelaron contra Dios, ¿hubo algún tipo de batalla? ¡En absoluto! ¡Dios ordenó y tuvieron que obedecer! No podían rechazar ni resistir el castigo de Dios. ¿Qué importancia tiene esto para nosotros hoy?
 
-# Lección 9: Adán y Eva desobedecieron a Dios
+# ADÁN Y EVA DESOBEDECIERON A DIOS
 
 ## Introducción: Entonces Dios quitó a Lucifer de Su presencia, cambió su nombre a Satanás y lo sentenció al castigo eterno en el lago de fuego. ¿El hecho de que Dios sentenció y castigó a Satanás cambió su corazón en absoluto? No, Satanás todavía quería ser Dios.
 
@@ -1030,9 +986,7 @@ Reconocimientos
 
 ### Satanás había visto a Dios crear al hombre. Había sido testigo de cómo Dios nombró a Adán y Eva como administradores sobre la tierra. Más tarde vio el cuidado de Dios por ellos mientras les proporcionaba todo lo que necesitaban en el Jardín del Edén. Satanás podía ver el amor y el cuidado que Dios tenía por ellos. Satanás también estaba al tanto del mandato de Dios de no comer del árbol del conocimiento del bien y del mal. Debido a que Satanás sabía que había sido juzgado y condenado al castigo eterno, también quería que el hombre pecara y fuera castigado junto con él.
 
-### Lee Génesis 3:1.
-
-### La tentación aquí es centrarse en la serpiente y si los animales podían hablar o no en ese entonces (porque a Eva no le sorprendió una serpiente parlante). Piénsalo, Eve fue creada no mucho antes. Cada vez que se daba la vuelta, veía un animal diferente por primera vez. No habría tenido ni idea de qué esperar de ningún animal. El texto parece implicar que Satanás eligió a la serpiente debido a su apariencia, que una serpiente parlante pudo haber tenido una mayor impresión en Eva.
+### Génesis 3:1 - La tentación aquí es centrarse en la serpiente y si los animales podían hablar o no en ese entonces (porque a Eva no le sorprendió una serpiente parlante). Piénsalo, Eve fue creada no mucho antes. Cada vez que se daba la vuelta, veía un animal diferente por primera vez. No habría tenido ni idea de qué esperar de ningún animal. El texto parece implicar que Satanás eligió a la serpiente debido a su apariencia, que una serpiente parlante pudo haber tenido una mayor impresión en Eva.
 
 ### Y ese es el verdadero problema aquí, el hecho de que Satanás se disfrazó de algo diferente de lo que es para hacer que sus mentiras sean más creíbles. Eva no sabía que en realidad era Satanás quien le estaba hablando. En realidad, en ese momento, Adán y Eva solo sabían lo que era bueno. ¡Probablemente ni siquiera sabían que Satanás existía!
 
@@ -1160,7 +1114,7 @@ Reconocimientos
 
 ### Después de que Adán y Eva pecaron, tuvieron miedo de Dios y se escondieron. ¿Era esto correcto o incorrecto que lo temieran?
 
-# Lección 10: Dios juzgó a Adán y Eva, maldijo la tierra y prometió enviar un libertador
+# DIOS JUZGÓ A ADÁN Y EVA, MALDIJO LA TIERRA Y PROMETIÓ ENVIAR UN LIBERTADOR
 
 ## Introducción: Es difícil imaginar que, a la luz del maravilloso carácter de Dios, Adán actuó independientemente de Dios. A menudo hablamos de la vergüenza de estar desnudos y temerosos cuando se escondieron de Dios como los primeros signos de corrupción de su pecado. Pero creo que la primera emoción nueva que sintieron después de pecar tuvo que ser el horror de saber que habían pecado, que habían comido del único árbol del que Dios les había ordenado que no comieran. Hasta este punto, nunca antes habían sentido los resultados del pecado.
 
@@ -1168,7 +1122,7 @@ Reconocimientos
 
 ### Dios amó a Adán y Eva y vino al jardín para estar con ellos. Antes de separarse de Dios, disfrutaban de estar con Él; pero después de desobedecerlo, Adán y Eva trataron de esconderse de Dios.
 
-### Lea Génesis 3:8-9.
+### Lea Génesis 3:8-9 
 
 ### Cuando Adán y Eva intentaban esconderse entre los árboles, sabemos que Dios sabía dónde estaban, porque Él está en todas partes y lo ve todo y lo sabe todo.
 
@@ -1310,7 +1264,7 @@ Reconocimientos
 
 ### Nombra algunos de los atributos de Dios que vemos que Dios manifiesta acerca de sí mismo a través de su interacción con Adán y Eva con respecto a este juicio.
 
-## Lección 11: Dios proveyó ropa para Adán y Eva y la puso en el jardín; Nacieron Caín y Abel
+## DIOS PROVEYÓ ROPA PARA ADÁN Y EVA Y LA PUSO EN EL JARDÍN; NACIERON CAÍN Y ABEL
 
 ## Introducción: Sabemos que Dios es un juez justo que no puede tolerar ni pasar por alto el pecado. Hemos visto esto claramente con Lucifer y los ángeles rebeldes. Se rebelaron contra Dios, pero no pudieron escapar del juicio, porque Dios es un Juez justo. Después de que Adán y Eva pecaron, no tenían esperanza de poder "arreglarse" a sí mismos. Aunque lo habían intentado, era inaceptable para Dios; pero Dios, por su propia iniciativa, demostró lo que se requeriría para restaurar la relación con Él.
 
@@ -1392,7 +1346,7 @@ Reconocimientos
 
 ### En el registro de la caída de Adán y Eva, ¿de quién eran los planes y propósitos que se estaban cumpliendo?
 
-# Lección 12: Las ofrendas de Caín y Abel
+# LAS OFRENDAS DE CAÍN Y ABEL
 
 ## Introducción: Uno de los atributos o características clave de Dios que vamos a ver una y otra vez a lo largo de toda la Biblia, es primero, Dios SIEMPRE se comunica. Y en segundo lugar, Sus instrucciones SIEMPRE son confiables y claras. Esta es una de las características de Dios que lo separa de los dioses de todas las demás religiones. Nuestro Dios nos ama con un amor que supera todo conocimiento, y prueba de ello es el esfuerzo extremo que pone en darse a conocer a sí mismo y a su palabra a la humanidad.
 
@@ -1518,7 +1472,7 @@ Reconocimientos
 
 ### ¿Qué pecado de Caín fue el que finalmente lo llevó a su juicio?
 
-## Lección 13: La justicia de Dios exige juicio sobre el pecado, pero su gracia siempre proporciona un camino de liberación
+## LA JUSTICIA DE DIOS EXIGE JUICIO SOBRE EL PECADO, PERO SU GRACIA SIEMPRE PROPORCIONA UN CAMINO DE LIBERACIÓN
 
 ## Introducción: A través de todo lo que hemos estudiado hasta ahora, continuamos viendo a Dios mostrando fielmente que Él solo desea lo mejor para el hombre. Vimos esto en la creación y en Sus maravillosas provisiones para el hombre. Vimos esto en su advertencia de no comer del árbol del conocimiento del bien y del mal. Lo vimos en su promesa inmediata de un libertador. Vistió a Adán y Eva. Se comunicó a la descendencia de Adán en cuanto a qué tipo de sacrificio traer. A pesar de que Caín trajo el sacrificio equivocado y mató a su hermano, Dios todavía lo persiguió, razonando con él, deseando que se arrepintiera.
 
@@ -1670,7 +1624,7 @@ Reconocimientos
 
 ### ¿Qué vemos siempre ofrecer a Dios antes de que traiga juicio?
 
-# Lección 14: Dios liberó fielmente a los que estaban en el arca, tal como lo había prometido;
+# DIOS LIBERÓ FIELMENTE A LOS QUE ESTABAN EN EL ARCA, TAL COMO LO HABÍA PROMETIDO;
 
 ## Dios interviene soberanamente y obliga a la humanidad a seguir Su voluntad en Babel
 
@@ -1782,7 +1736,7 @@ Reconocimientos
 
 ### ¿Qué terminaron haciendo?
 
-# Lección 15: Al prepararse para llevar a cabo la línea de Cristo, Dios elige a Abraham y lo guía a Canaán
+# AL PREPARARSE PARA LLEVAR A CABO LA LÍNEA DE CRISTO, DIOS ELIGE A ABRAHAM Y LO GUÍA A CANAÁN
 
 ## Introducción: Cuando Dios creó a Adán y Eva por primera vez, es muy obvio para nosotros que Dios no los creó para luego dejarlos solos para resolver todo, sino que los creó para confiar, depender y tener comunión con Él. Hemos visto este mismo deseo manifestado hacia personas de todas las generaciones que hemos visto hasta ahora, y sabemos que también es cierto para nosotros hoy. El hecho de que Dios nos haya dado la Palabra completa de Dios es prueba de esto.
 
@@ -1860,7 +1814,7 @@ Reconocimientos
 
 ### ¿Cuáles son algunas de las verdades clave acerca de Dios que podemos aprender de Su interacción con Abram en la última lección?
 
-# Lección 16: Dios renovó sus promesas a Abram; Dios destruyó Sodoma y Gomorra
+# DIOS RENOVÓ SUS PROMESAS A ABRAM; DIOS DESTRUYÓ SODOMA Y GOMORRA
 
 ## Introducción: Sabemos que NADIE ni NADA puede obstaculizar los planes y propósitos de Dios. Dios incluso toma las cosas que Satanás o el hombre trata de hacer para rebelarse contra los planes de Dios y realmente las usa para llevar a cabo Su plan. ¡Así de soberano y supremo es Dios! Y por lo que hemos estudiado hasta ahora, creo que todos podemos ver que tiene que ser así. Dios tiene que ser soberano, tiene que ser supremo y tiene que hacer Su voluntad independientemente de Satanás o del hombre. De lo contrario, ¡no habría salvación! ¡Todos nosotros rechazaríamos a Dios y moriríamos e iríamos al infierno! ¡Él tiene que ser soberano, tiene que ser supremo y tiene que intervenir divinamente!
 
@@ -1914,9 +1868,7 @@ Reconocimientos
 
 ### Creo que Él también está revelando Su soberanía. Todo esto era de Él. No pidió el consejo de Abraham sobre nada... dónde viviría, cómo lo usaría o incluso qué nombre le gustaría. Dios es soberano, ¡y Abraham simplemente estaba en el viaje!
 
-## *Entonces Dios cambia el nombre de Sarai.*
-
-### Lea Génesis 17:15-17.
+## Entonces Dios cambia el nombre de Sarai (Génesis 17:15-17)
 
 ### El nombre de Sarai significaba "mi princesa" o "mi señora" y Dios lo cambió a "princesa de una multitud". Observe que Dios prometió que los reyes descenderían de ella. En este punto, Abraham tenía 100 años y Sara tenía 90, mucho más allá de sus años fértiles.
 
@@ -1990,7 +1942,7 @@ Reconocimientos
 
 ### Nombra la cosa principal sobre la humanidad que ha sido probada una y otra vez a lo largo del primer capítulo 19 de Génesis.
 
-# Lección 17: Dios dio a Isaac y lo libró de la muerte
+# DIOS DIO A ISAAC Y LO LIBERÓ DE LA MUERTE
 
 ## Introducción: Dios quiere que lo conozcamos y confiemos en Él, pero naturalmente no ponemos nuestra confianza en extraños, ¿verdad? Hasta que llegamos a conocer el carácter de una persona, siempre existe ese elemento de duda. Dios lo sabe, por lo que nos ha dado la Biblia para mostrarnos quién es Él y cómo es. Cuanto más entendamos y aceptemos lo que Él ha revelado sobre sí mismo a través de estas historias del Antiguo Testamento, más podremos creer en las promesas que Él nos ha prometido a lo largo del Nuevo Testamento. Esta es exactamente la obra que seguimos viendo a Dios haciendo en la vida de Abram. Mientras Dios lo usaba para crear la Nación de Israel y, en última instancia, la línea de Cristo, Dios se revelaba cada vez más a Abram y le mostraba Quién es realmente. Dios cumplió su promesa de darles un hijo a Abraham y Sara.
 
@@ -2094,175 +2046,7 @@ Reconocimientos
 
 ### ¿Cuál es el significado de la declaración de Abraham a Isaac de que Dios se proveería de un cordero para la ofrenda?
 
-# Lección 18: Encontrar una novia para Isaac
-
-## Introducción: Sabemos por la palabra de Dios que en esta "era" actual, Dios está llamando de entre las naciones a un pueblo para Su nombre (Hechos 15:6-17). Las referencias a este cuerpo de creyentes en las Escrituras incluyen la Iglesia, el Cuerpo de Cristo, el santo templo de Dios, una nación real y un sacerdocio santo, por nombrar algunos. La única referencia en la que queremos enfocarnos hoy es la referencia de Dios a la Iglesia como la Novia de Cristo (2 Corintios 11:1-2). A lo largo del Antiguo Testamento hay muchas imágenes físicas de la verdad espiritual futura que finalmente se contuvieron en el Nuevo Testamento. Algunos de estos ejemplos ya los hemos visto en las lecciones que hemos cubierto hasta ahora y otros a los que aún no hemos llegado:
-
-### Dios vistiendo a Adán y Eva
-
-### Arca de Noé
-
-### El carnero que Dios proveyó para morir en lugar de Isaac  La posición de Israel en el Mar Rojo.
-
-### Sacando a Israel de Egipto y llevándolo a la Tierra Prometida.
-
-### La roca en el desierto
-
-### La serpiente de bronce en el poste
-
-### Génesis 24, donde Abraham envía a su siervo a buscar una esposa para Isaac, proporciona una imagen física muy clara de Dios llamando a una novia para Cristo.
-
-## Parte 1 – El Padre y Su Propósito (Génesis 24:1-4)
-
-### Primero, observe que el plan de encontrar una esposa para Isaac comenzó en el corazón de Abraham. Una esposa puede haber estado en la mente de Isaac, pero todo lo que Dios elige revelarnos aquí es que fue Abraham quien inició el hallazgo de la novia de Isaac. Así como el plan para encontrar una esposa para Isaac comenzó en el corazón de Abraham, así el plan para establecer la iglesia y llamar a una novia para Cristo comenzó en el corazón de Dios antes de la fundación de la tierra. Véase Romanos 16:25-27; 1 Corintios 2:6-9; Efesios 1:4; Colosenses 1:26-29; 2 Timoteo 1:9; 1 Pedro 1:18-21.
-
-### En segundo lugar, también fue Abraham quien determinó cuándo era el momento adecuado para enviar a su siervo a buscar una esposa para Isaac. Por lo tanto, también fue Dios el Padre quien determinó cuándo era el momento adecuado para comenzar el proceso de llevar a cabo Su plan eterno de redención (que Él comenzó con la creación). Desde la creación en Génesis hasta la creación del cielo nuevo y la tierra nueva en Apocalipsis, es Dios quien ha determinado el tiempo perfecto para todas las cosas.
-
-### Hemos visto esto claramente en la vida de Cristo a través de los evangelios. Abraham no habría enviado al sirviente a buscar a la esposa de Isaac si Isaac aún no se hubiera convertido en adulto. No le encontró una esposa cuando aún era un niño; es decir, hubo un momento apropiado. Así, una vez que Jesús completó toda la obra que Dios le había enviado a hacer, Dios envió al Espíritu Santo al mundo para llamar a un pueblo para que Su nombre se convirtiera en la novia de Cristo. Véase Juan 14:26.
-
-### A continuación, observe que la esposa de Isaac no podía ser cualquier mujer de cualquier lugar. Tenía que ser una mujer que, según los estándares de Abraham, fuera adecuada para su hijo. Así, los que componen la novia son aquellos que han sido hechos aptos para Cristo a través de la fe en Su obra terminada. Su obra terminada que Él hizo POR nosotros nos hace adecuados en términos de nuestra posición u origen. Pero es Su obra divina que Él hace EN nosotros lo que nos hace adecuados en términos de nuestra relación con Él.
-
-### Lea Génesis 24:5-9.
-
-### Dos veces Abraham advierte al sirviente que nunca lleve a Isaac de regreso a Mesopotamia, de donde vino. Abraham estaba dejando muy, muy claro que esto es muy importante. ¿En qué momento Dios envió al Espíritu Santo para comenzar a llamar a la novia? Después de la muerte, sepultura, resurrección y ascensión de Jesús. Después de que Jesús ya estaba en el cielo. Jesús no será traído de regreso para unirse a nosotros aquí en la tierra, pero un día seremos arrebatados y sacados de este mundo para ir y estar con Él.
-
-#### *"El Espíritu Santo no está aquí para hacer prosperar al cristiano en los negocios, o para hacernos hombres ricos en el mundo, o para hacer del mundo un lugar cómodo para nosotros. Él no está aquí para eliminar la maldición o silenciar el gemido de la creación. Él no está aquí para hacer que el desierto se regocije y florezca como la rosa. Él no está aquí para eliminar el dolor, la muerte, la tristeza y las lágrimas. Todo esto lo hará Cristo en un día aún por venir. Tampoco está aquí para convertir al mundo como algunos piensan. Está aquí para sacar a la luz a un pueblo que es adecuado para Cristo para el gozo y la satisfacción de su corazón".* Hamilton Smith
-
-#### *"Una vez más, el pueblo de Dios puede abrigar grandes esperanzas en el campo misionero. Con miles de misioneros trabajando en todas partes del mundo, esperaban que las fortalezas del paganismo, el budismo y el mahometismo fueran derribadas ante la luz del cristianismo, y sin embargo encuentran que estos sistemas falsos apenas se tocan, y se sienten decepcionados.*
-
-#### *Otros también han tenido la idea de que después de diecinueve siglos de la luz del cristianismo, el mundo sería moralmente mejor, y en cambio tienen que admitir que nunca la sociedad fue más corrupta, la anarquía tan prevalente y el malestar tan general, por lo que están decepcionados. Sin embargo, si abandonamos nuestros propios pensamientos y nos elevamos a los pensamientos de Dios, no seremos decepcionados. Nuestras expectativas son a menudo demasiado limitadas, nuestra perspectiva demasiado circunscrita. Pensamos en el momento presente y miramos solo las cosas que vemos. Sin embargo, miremos más allá de la larga noche oscura y saludemos al día venidero. Veamos con qué gran fin está obrando Dios, para que, del naufragio y la ruina de este mundo, Él asegure una Novia que sea adecuada para el amor de Cristo. ¡Qué pensamiento, que el Espíritu de Dios está aquí para formar afectos nupciales en los corazones de los creyentes en vista del día, el gran día, el día de las bodas del Cordero!"*Hamilton Smith
-
-## Parte 2 – El Espíritu Santo y Su Obra (Génesis 24:10-26)
-
-### Al hablar del siervo, observe lo que dice de él en el versículo 10: "*Todos los bienes de su señor estaban en sus manos.*"Qué imagen del Espíritu Santo y su papel y ministerio entre nosotros hoy
-
-### Lea Juan 16:12-15.
-
-#### "*Él tomará de la mía y te la revelará.*"
-
-#### "*Él te guiará a toda la verdad.*"
-
-#### "*El Espíritu os dirá todo lo que reciba de mí.*"
-
-### Otro versículo que habla claramente de este papel del Espíritu Santo es 1 Corintios 2:12: "*Para revelarnos las cosas que Dios nos ha dado.*
-
-### Otra cosa importante a notar sobre el siervo fue el hecho de que salió en total dependencia de Dios. Su papel no era elegir a cualquier chica y luego trabajar para hacerla adecuada para Isaac. Su papel era encontrar a "la persona que" Dios había designado para Isaac. Si lees la oración de Jesús en Juan 17, notarás que ocho veces, Jesús se refiere a Sus discípulos y futuros seguidores como "los que me has dado". Amigos, Dios el Hijo, el Señor Jesucristo, ve a cada uno de nosotros (que lo hemos aceptado como nuestro Salvador) como si Dios el Padre nos hubiera dado.
-
-### A continuación, observe que en el momento en que Dios trae a Rebeca al siervo y le revela que ella es la designada, inmediatamente el siervo la adorna con un anillo en la nariz y brazaletes, distinguiéndola así de todos los demás. Compárese con Efesios 1:13. En el momento en que cualquiera de nosotros acepta a Jesús como nuestro Salvador, en ese mismo momento somos "sellados" por o con el Espíritu Santo. El Espíritu Santo mora en nosotros, marcándonos así como pertenecientes a Dios.
-
-### Después de marcar a Rebeca como la designada, el sirviente pregunta si hay lugar para que él se aloje en la casa de su padre. Observe que él no forzó su compañía con ella. El sirviente tenía mucho que quería decirle a Rebeca sobre Isaac para despertar el afecto en su corazón por Isaac, pero no lo estaba forzando.
-
-### En este punto, Rebeca no sabía nada sobre Abraham e Isaac. Así, para muchos de nosotros, en el momento de nuestra salvación, realmente hay muy poco que sepamos sobre Dios el Padre y Dios el Hijo. Así como el siervo quería contarle a Rebeca más sobre Abraham e Isaac, así el Espíritu desea revelarnos más y más sobre Dios el Padre y Dios el Hijo; pero como el siervo, Él no nos lo impondrá.
-
-### Lea Génesis 24:28-49.
-
-### Al entrar en la casa, lo primero que quieren hacer los sirvientes es hablar de Isaac y su padre Abraham. En cierto sentido, el siervo estaba "glorificando" a Abraham e Isaac al mostrar y declarar sus riquezas. En Juan 16, Jesús dijo que cuando venga el Espíritu Santo, "*me glorificará.*"
-
-### Primero, el siervo habla de toda la riqueza de Abraham. Luego habla del hijo de Abraham y dice en el versículo 36: "Todo lo que mi señor posee será todo suyo". Así es exactamente como ocurre con Dios el Padre y Dios el Hijo.
-
-#### Juan 16:15 – "*Todo lo que es del Padre es mío*".
-
-#### Juan 17:7 – "*Todo lo que tengo es un don del Padre.*"
-
-#### Romanos 8:16-17 – Hechos "*coherederos*" con Cristo.
-
-#### Esto es exactamente lo que decía el sirviente. Todo lo que es de Abraham se convertirá en de Isaac. Si te casas con Isaac y te haces uno con él, te convertirás en un "coheredero" con él.
-
-### Lea Génesis 24:50-60.
-
-### Al recibir la aprobación de Rebeca y su familia, el sirviente saca joyas de plata y oro y ropas costosas para dárselas a Rebeca. El siervo despertó afecto en el corazón de Rebeca al contarle primero sobre Isaac y su familia. Luego, cuando ella accedió a ser su esposa, el siervo la adornó con riquezas y cosas hermosas que venían de Isaac.
-
-### En el momento en que aceptamos a Cristo como nuestro Salvador, el Espíritu Santo hizo exactamente lo mismo con cada uno de nosotros. Abre su bolsa y saca la bolsa:
-
-#### Justificación y nos adorna con ella.
-
-#### Filiación
-
-#### Acceso a Dios
-
-#### Reconciliación con Dios
-
-#### Perdón
-
-#### Unidad o Unión con Cristo
-
-#### Aceptación con Dios
-
-#### Ciudadanía celestial
-
-#### Seguridad eterna
-
-#### Hizo una nueva creación
-
-#### Hecho uno con los santos
-
-#### Una relación con Dios
-
-#### Se elimina toda condena
-
-#### Adopción
-
-#### Sacado del reino de las tinieblas y colocado en el reino de la luz
-
-#### Hechos coherederos con Cristo
-
-#### Hecho un vaso de honor utilizado para proclamar las excelencias de Cristo
-
-#### Habitó con el Espíritu Santo
-
-#### Sido dado cada espiritual bendición en los lugares celestiales
-
-#### Sentado con Él a la diestra de Dios
-
-#### Completos en Él
-
-### Fuimos adornados con todas estas cosas y más en el mismo momento en que aceptamos a Jesús como nuestro Salvador.
-
-### Ahora, después de darle todos estos hermosos regalos a Rebeca, el sirviente quería irse de inmediato, pero la familia de Rebeca quería que se quedara otros diez días. ¿No es interesante que cuando se le preguntó, Rebeca dijo que estaba lista para ir con Isaac y que no quería quedarse? Nunca había conocido a Isaac ni a su familia. Nunca había visto su casa y el área en la que vivía. Todo lo que sabía de Isaac en este punto era lo que el sirviente le había dicho sobre él y lo que el sirviente le había dado DE él.
-
-### El siervo había proclamado de tal manera las glorias de Abraham e Isaac que Rebeca estaba dispuesta a dejar inmediatamente su propia casa y su familia para ir a estar con él. En lugar de proclamar a Rebeca las "glorias" de Abraham e Isaac, ¿qué pasaría si el siervo hubiera pasado todo su tiempo diciendo todas las cosas que tendría que hacer para complacer a Isaac y hacerlo feliz? ¿Cómo la habría afectado esto? ¿Crees que ella habría tenido el mismo deseo ansioso de ir y convertirse en su esposa? Pero esto es exactamente lo que muchas iglesias le hacen a su gente. En lugar de basarlos en el fundamento de la obra terminada de Cristo y que Él los ha hecho, les ha dado y los ha hecho ser, pasamos más tiempo diciéndoles todo lo que creemos que Dios espera que hagan por Él.
-
-### No es de extrañar por qué la gente pierde su alegría. No es de extrañar por qué la gente se quema, se desanima y se aleja. ¡Su "compromiso" con Cristo, que Dios ha dado como una vida y un lugar de gran bendición, privilegio y honor, se ha convertido para ellos en una vida de esclavitud y esclavitud!
-
-### Por lo tanto, ya no había un deseo de que Rebeca permaneciera en su antiguo hogar. Esto es exactamente lo que el Espíritu Santo hace en nuestras vidas. Nunca hemos conocido a Jesús; nunca lo hemos visto en persona. Nunca hemos visto el cielo ni el lugar que Él está preparando para nosotros. A través de la Palabra de Dios, Él nos revela la mente del Padre con respecto a Cristo. Él toma de las cosas de Cristo y nos las muestra. Él despierta nuestro amor por Cristo, nuestro deseo de conocerlo, comulgar con Él y un día entrar en Su presencia. El Espíritu nos adorna así con las cosas hermosas de Cristo. En el momento en que somos salvos, Él nos adorna con las "riquezas de Cristo". ¡Y luego continúa trabajando para profundizar nuestro afecto por Cristo al continuar revelándonos las glorias y excelencias de Cristo! Véanse 1 Corintios 2:12; Efesios 1:3-11, 16-20; y Efesios 3:14-21.
-
-### A medida que Él continúa revelándonos a Cristo, el deseo de estar con Él continúa creciendo dentro de nuestros corazones. Cuanto más caminemos en el Espíritu y no en la carne, más hará que Cristo se convierta en la ocupación de nuestros corazones, y más desconectados estarán nuestros corazones de las cosas en las que Cristo no es o no es parte de ellas.
-
-### Entonces, el sirviente ha encontrado a la novia designada. La ha distinguido de todos los demás con los aretes y brazaletes. Ha despertado el afecto por Isaac dentro de ella. Él la ha adornado con las cosas hermosas de Isaac, y ahora la llevará a Isaac. Qué hermosa imagen que representa exactamente lo que el Espíritu Santo ha hecho en nuestras vidas. Porque tal es el gran poder de atracción de las excelencias de Cristo cuando el Espíritu Santo abre los ojos del corazón para contemplarlo. Ver Filipenses 3:7-8.
-
-### Lea Génesis 24:61-66.
-
-### Observe que Rebeca se levantó y siguió al sirviente. El sirviente tomó a Rebeca y se fue "SUYO". Para llegar a Isaac, Rebeca tuvo que ponerse totalmente bajo la guía del siervo y tuvo que seguir SU camino, no su propio camino. Véase Josué 3:1-4; Gálatas 5:16 – La carne es "nuestro camino" – En el Espíritu está "Su camino"; Efesios 5:18.
-
-### ¡El resultado inmediato de seguir al siervo fue que Rebeca se encontró en el desierto! Ya no estaba en la comodidad de su propia casa, ni estaba con Isaac en su casa todavía. Durante 400 millas o aproximadamente un mes, todo lo que tenía era el desierto, el calor, los camellos apestosos, tal vez con poca comida o agua a veces, y mucha incomodidad.
-
-### Sin embargo, en el camino, creo que el sirviente continuó diciéndole a Rebeca sobre la persona con la que se iba a casar, la que estaba esperando que llegara. ¡Creo que el sirviente continuó contándole a Rebeca sobre Isaac mientras continuaba llevándola a Isaac! La alegría de conocer a su novio le animó a soportar las dificultades que enfrentó para llegar a él. Ver Hebreos 12:1-3.
-
-### ¡Esta es una imagen de exactamente lo que el Espíritu Santo está haciendo en nuestras vidas hoy también! Actualmente estamos en el desierto, ya que este mundo ya no es nuestro hogar. Ya no nos sentimos cómodos aquí en nuestro antiguo estilo de vida, pero tampoco hemos llegado a nuestro cielo eterno. Véanse Juan 15:1819; 17:14, 16; 18:36. Véase también Gálatas 6:14 "*el mundo crucificado a mí y yo al mundo*"; Efesios 2:19 "*miembros de la familia de Dios*"; Filipenses 3:20; Colosenses 3:1-3.
-
-### Ahora debemos considerar mientras viajamos por el desierto, ¿nos estamos enfocando en Aquel a quien el Espíritu nos está guiando? ¿Está nuestro enfoque en el premio de estar con Cristo? ¿Está nuestra esperanza en el cielo? ¿O estamos haciendo lo que hicieron los israelitas cuando estaban en el desierto? Ellos también fueron liberados de ser esclavos y fueron guiados por Dios a través del desierto a su tierra prometida; pero, a menudo, perdían de vista el premio y, en cambio, anhelaban volver a su antigua vida de esclavitud. Véase Éxodo 13:17-18; 14:10-12; 16:1-3; 17:1-3; 31:18-32:4 y Números 14:1-4, 11; 20:1-5; Mateo 21:4-5.
-
-### Debemos recordar que el Espíritu tiene mucho que revelarnos acerca de las excelencias de Cristo, pero no nos lo impondrá. Él nos permitirá aferrarnos a la vieja vida y a toda la miseria que la acompaña. El Espíritu Santo continúa guiándonos a través de este "desierto", buscando revelarnos a Cristo cada vez más a medida que continúa guiándonos a Él. Véase 1 Corintios 2:12.
-
-## Parte 3 – Cristo y su afecto
-
-### Génesis 24:65 dice que Rebeca miró hacia arriba y preguntó quién salía a su encuentro. Esta imagen retrata a Isaac como alguien que estaba esperando y queriendo recibir a su novia. A menudo hablamos del rapto en términos de nuestra anticipación de ir a estar con Él, pero ¿alguna vez te has detenido a pensar en Sus deseos para nosotros? ¿Cuánto quiere Él que estemos con Él? ¿Cómo anhela recibir a su novia? No solo nosotros como grupo, sino NOSOTROS como individuos.
-
-### Piénselo: todo esto comenzó en el corazón de Dios antes de la fundación de la tierra. Y cuando ese día finalmente llegue en Apocalipsis 19, Dios habrá pasado miles de años trabajando, orquestando, interviniendo y llevando a cabo Su plan. ¡Jesús vino y cumplió ese plan a través de mucho dolor y sufrimiento y "TODO POR EL GOZO PUESTO DELANTE DE ÉL"! El gozo de recibir un día a Su gloriosa novia sin mancha ni arruga.
-
-### Apocalipsis 19:7 dice: "*Las bodas del Cordero HAN LLEGADO.*Ver Hebreos 12:2 y 1 Tesalonicenses 4:16-18 – "*Y así estaremos siempre con el Señor. Por tanto, consolaos unos a otros con estas palabras".*
-
-### En esta lección, creo que se nos ha dado una visión clara del corazón de Dios por Su pueblo, el afecto que Él tiene por Sus hijos y el amor y la anticipación de Jesús para recibir a Su novia.
-
-## Preguntas de revisión
-
-### Nombra algunas cosas que nos enseñan lo que es cierto de nosotros espiritualmente acerca de la historia de Abraham enviando a su siervo a buscar una novia para Isaac.
-
-### ¿En qué se diferenciaba el viaje de Rebeca por el desierto del de Israel?
-
-### ¿Qué nos dice la recepción de Rebeca por parte de Isaac sobre el corazón de Cristo por nosotros?
-
-# Lección 19: La promesa pasa a Isaac y Jacob; Dios lleva a la familia de Jacob a Egipto
+# LA PROMESA PASA A ISAAC Y JACOB; DIOS LLEVA A LA FAMILIA DE JACOB A EGIPTO
 
 ## Introducción: Con cada lección, cada historia, siempre debemos tener ante nosotros el hecho del plan eterno de redención de Dios que ha estado en Su corazón desde la eternidad pasada. Cada relato, cada interacción de Dios con la humanidad que hemos registrado en Su palabra es toda la preparación intencional y la realización de ese plan. Debido a que Dios es el Dios soberano, omnipotente y todopoderoso, Sus propósitos permanecen firmes e inquebrantables. A través de cada lección que hemos estudiado hasta ahora, hemos visto claramente que nada ni nadie puede disuadir lo que Dios dice que hará. Como hemos visto y seguiremos viendo, en cada generación, hay quienes creen y esperan las promesas de Dios y quienes no. Los que aprecian Su palabra disfrutan de los beneficios y la bendición de confiar en Él. Aquellos que tratan la palabra de Dios como algo sin importancia o no es verdadera llevan vidas vacías e infructuosas que terminan en la muerte eterna.
 
@@ -2472,7 +2256,7 @@ Reconocimientos
 
 ### Nombra algunas razones por las que la historia de José es tan significativa para nosotros hoy.
 
-# Lección 20: Dios preserva a los israelitas y protege a Moisés
+# DIOS PRESERVA A LOS ISRAELITAS Y PROTEGE A MOISÉS
 
 ## Introducción: Cada vez es más evidente para nosotros que quién es Dios y cómo es nunca cambia. Las vidas de algunas de las personas que hemos destacado hasta ahora han estado llenas de giros y vueltas inesperados, pero Dios sigue siendo el mismo. Sus acciones en medio de la agitación humana revelan su carácter confiable. Lo hemos visto continuar trabajando firmemente en Su plan de una manera todopoderosa, santa y soberana, aunque las cosas a menudo parecen muy sombrías.
 
@@ -2640,7 +2424,7 @@ Reconocimientos
 
 ### Cuando Moisés accedió a regresar a Egipto, en última instancia, ¿en qué confiaba?
 
-# Lección 21: Dios envió plagas sobre los egipcios
+# DIOS ENVIÓ PLAGAS SOBRE LOS EGIPCIOS
 
 ## Introducción: ¡Dios es supremo! Nada bajo el cielo o la tierra puede disminuir Su autoridad. Su palabra es confiable y Sus planes son imparables. Hemos aprendido que Satanás desafió arrogantemente a su Hacedor, pero fue en vano. A lo largo de la historia, ha tratado tenazmente de oponerse a Dios. Satanás se confabuló y convenció al hombre para que hiciera lo mismo, pero Dios nunca será derrotado. Estos actos de desafío y rebelión solo sirven para proporcionar a Dios un telón de fondo para mostrar su gran poder. ¡Satanás mismo se ha convertido en nada más que una herramienta en la mano de Dios que Él usa donde Él quiere para llevar a cabo SU voluntad para Su gloria! Faraón se negó a obedecer el mandato de Dios.
 
@@ -2790,7 +2574,7 @@ Reconocimientos
 
 ### Nombra algunas de las formas en que la Pascua señala a Cristo.
 
-# Lección 22: Dios liberó a los israelitas en el Mar Rojo; Dios proveyó comida y agua en el desiert
+# DIOS LIBERÓ A LOS ISRAELITAS EN EL MAR ROJO; DIOS PROVEYÓ COMIDA Y AGUA EN EL DESIERO
 
 ## Introducción: Dios es misericordioso. Había liberado milagrosamente a los israelitas de la esclavitud en Egipto, a pesar de que no lo merecían y no podían haberse liberado a sí mismos.
 
@@ -2818,7 +2602,7 @@ Reconocimientos
 
 ### Lea Isaías 43:9-12 y Romanos 3:1-2.
 
-## Éxodo 13:17-22 Dios guió a los israelitas por una nube.
+## Dios guió a los israelitas por una nube (Éxodo 13:17-22)
 
 ### Inmediatamente después de liberar a Israel de la esclavitud, lo vemos guiándolos soberanamente y cuidándolos de acuerdo con lo que era mejor para ellos. Humanamente hablando, habría tenido más sentido que Dios los guiara por la ruta o rutas más directas y cortas que eran las más transitadas en ese período de tiempo.
 
@@ -2974,7 +2758,7 @@ Reconocimientos
 
 ### Nombra algunas similitudes entre la liberación de Israel de Egipto y nuestra liberación del pecado.
 
-# La entrega de la ley
+# LA ENTREGA DE LA LEY
 
 ## Introducción: Dios es santo. A medida que continuamos estudiando la palabra de Dios y observamos cómo Dios se revela a la humanidad, nuestra visión de Él se volverá cada vez más equilibrada. Muchas personas lo consideran tan amoroso y amable que no castigará el pecado, mientras que otros tienden a verlo más como un maestro irracional que está allí para juzgar y castigar cada uno de sus errores. Muy pocos de nosotros realmente tenemos una visión adecuadamente equilibrada de Dios y su santa justicia junto con su gracia amorosa.
 
@@ -3100,7 +2884,7 @@ Reconocimientos
 
 ### ¿Cuál es la "ley moderna" para la mayoría de los creyentes de hoy?
 
-# Lección 24: Dios les dijo a los israelitas que construyeran el tabernáculo
+# DIOS LES DIJO A LOS ISRAELITAS QUE CONSTRUYERAN EL TABERNÁCULO
 
 ## Introducción: Dios es perfectamente santo, justo y justo. Sin embargo, al mismo tiempo, también es perfectamente amoroso, misericordioso y misericordioso. Nada resalta todos estos atributos al mismo tiempo como este relato de Dios dándole a Moisés los Diez Mandamientos seguidos inmediatamente por Su instrucción de construir el tabernáculo. Inmediatamente después de darle a Israel la ley que Él sabía que no podrían cumplir, Dios también les proporciona una manera de "cubrir" sus pecados hasta que venga el Libertador prometido. ¿Puedes pensar en algún otro evento que muestre tan claramente todos estos atributos de Dios al mismo tiempo?
 
@@ -3218,7 +3002,7 @@ Reconocimientos
 
 ### ¿Qué mueble en el tabernáculo proporciona la imagen más cercana de Cristo y su obra terminada para nosotros?
 
-# Lección 25: El Tabernáculo: Una imagen de Cristo y Su obra terminada
+# EL TABERNÁCULO: UNA IMAGEN DE CRISTO Y SU OBRA TERMINADA
 
 ## Introducción: El tabernáculo era una "tienda de reunión" transportable que Dios le había ordenado a Moisés que construyera. Incluso desde el principio en Génesis 1, hemos visto que Dios tiene que ver con las relaciones. Él creó a la humanidad a Su imagen para que la humanidad pudiera conocerlo y, por lo tanto, crecer para amarlo y estar en comunión con Él. Como todos saben, el primer obstáculo del hombre para conocer, amar y estar en comunión con Dios fue nuestro problema de pecado. Dios sabía que ese sería el caso y se encargó de ello incluso desde antes de la fundación de la tierra (2 Timoteo 1:9) y todas las cosas que Él ha orquestado apuntan o prefiguran ese plan eterno de redención.
 
@@ -3322,7 +3106,7 @@ Reconocimientos
 
 ### ¿Cómo afecta el sacrificio en el altar de bronce a todos los demás muebles?
 
-# Lección 26: Los israelitas no creían que Dios les daría la tierra de Canaán
+# LOS ISRAELITAS NO CREÍAN QUE DIOS LES DARÍA LA TIERRA DE CANAÁN
 
 ## Introducción: Si todo lo que tuviéramos de la Biblia fuera el Nuevo Testamento y no tuviéramos un registro escrito de estas historias del Antiguo Testamento, ¿cuánto de los atributos y características de Dios podríamos llegar a conocer realmente? ¿Cuánto de cómo es realmente el corazón de Dios podríamos entender realmente? Creo que muy poco. Como ya hemos visto, Dios nos ha dado relatos maravillosos que revelan todos sus atributos y lo que sucede cuando desata su poder. Debe haber sido absolutamente asombroso ver cómo se abría el Mar Rojo, presenciar cómo el agua brotaba de la roca que Moisés golpeó y ver el Monte Sinaí temblar violentamente en la presencia de Dios. Dios hizo que estos relatos fueran registrados y preservados, para que hoy, nosotros, la Iglesia, pudiéramos crecer en el conocimiento de Él y, por lo tanto, poder confiar y depender de Él.
 
@@ -3516,7 +3300,7 @@ Reconocimientos
 
 ### Nombra algunas similitudes entre la experiencia de Israel en el desierto y nuestro desierto espiritual.
 
-# Dios es un "Dios celoso"; Llevó a los israelitas a Canaán
+# DIOS ES UN "DIOS CELOSO"; LLEVÓ A LOS ISRAELITAS A CANAÁN
 
 ## Introducción: La palabra de Dios es absolutamente confiable. Él nunca tiene que retractarse de una declaración porque Su conocimiento es perfecto y Él es completamente omnipotente y absolutamente soberano. Por lo tanto, ¡Su palabra es inmutable y Él es totalmente digno de confianza! Cuando se habla de los atributos de Dios, hay atributos que reciben todo el enfoque: santidad, omnipotencia, omnisciencia, soberanía, amor, gracia, misericordioso, que nunca cambia, eterno, etc.; pero luego hay atributos de los que rara vez se oye hablar, atributos como el "celo" de Dios. ¿Cuál es el celo de Dios? ¿Es diferente de estar celoso? ¿Y por qué es celoso Dios? Estas son algunas de las preguntas que responderemos en esta lección.
 
@@ -3670,7 +3454,7 @@ Reconocimientos
 
 ### Nada podía impedir que Dios cumpliera fielmente su promesa de darle a Israel la Tierra Prometida. ¿Por qué debería ser esto un estímulo para nosotros hoy?
 
-# Dios envió a sus profetas a los israelitas, pero ellos se negaron a responder a su advertencia
+# DIOS ENVIÓ A SUS PROFETAS A LOS ISRAELITAS, PERO ELLOS SE NEGARON A RESPONDER A SU ADVERTENCIA
 
 ## Introducción: Con cada lección que documenta diferentes historias o aspectos de la interacción de Dios con Israel, debemos seguir recordándonos el hecho del plan eterno de redención de Dios que ha estado en Su corazón desde la eternidad pasada (2 Timoteo 1:9; 1 Pedro 1:18-21; Apocalipsis 13:8). Es este plan el que nos ayuda a darnos la perspectiva y el entendimiento adecuados para todo lo que Dios hace. En primer lugar, nos ayuda a ver y reconocer el "esfuerzo" extremo que Dios pone en "buscar" rescatar a la humanidad. Una de las cosas que realmente se ha destacado con respecto a la revelación de Dios de sí mismo a través del Antiguo Testamento hasta ahora ha sido cómo Dios una y otra vez ofrece gracia y liberación a las personas.
 
@@ -3806,7 +3590,7 @@ Reconocimientos
 
 ### ¿Cómo usó Dios la conquista de Israel por parte de griegos y romanos para preparar aún más el escenario para la venida del Libertador?
 
-# Dios predijo el nacimiento de Juan y cumplió sus promesas concernientes a él
+# DIOS PREDIJO EL NACIMIENTO DE JUAN Y CUMPLIÓ SUS PROMESAS CONCERNIENTES A ÉL
 
 ## Dios desea comunicarse con las personas.
 
@@ -3928,7 +3712,7 @@ Lea Hechos 15:21.
 
 ### Dé algunos ejemplos de Dios liberando a los que confían en Él.
 
-# Dios estaba a punto de cumplir Sus promesas con respecto al Libertador
+# DIOS ESTABA A PUNTO DE CUMPLIR SUS PROMESAS CON RESPECTO AL LIBERTADOR
 
 ## Introducción: Durante las últimas 29 lecciones, hemos visto a Dios obrar de maneras realmente asombrosas. También ha quedado muy claro que la razón de esto no es que Él solo esté "presumiendo", sino que es por Quién es Él y cómo es Su corazón. Como saben, 1 Juan 4 dice que DIOS ES AMOR. También sabemos que Dios creó a la humanidad con la capacidad y el propósito de tener una relación con él.
 
@@ -4070,7 +3854,7 @@ Lea Hechos 15:21.
 
 ### ¿Cuántos tipos de profecías mesiánicas hay y cuáles son?
 
-# El libertador nació y creció hasta la edad adulta
+# EL LIBERTADOR NACIÓ Y CRECIÓ HASTA LA EDAD ADULTA
 
 ## Introducción: La sabiduría de Dios: A lo largo de las semanas y meses de esta clase, una de las principales cosas que hemos tratado de enfatizar es Dios: quién es, cómo es y qué ha hecho. A lo largo del Antiguo Testamento hemos visto claras manifestaciones de Su poder, soberanía, amor, gracia, santidad y odio al pecado. Ahora, a medida que entramos en el momento en que Él comienza a llevar a cabo "físicamente" Su plan de redención, nuevamente, creo que veremos muchos de los mismos atributos que hemos visto a través del Antiguo Testamento; pero, a medida que desarrollamos la historia, me gustaría que pensáramos en ella en términos de la sabiduría de Dios.
 
@@ -4180,7 +3964,7 @@ Lea Hechos 15:21.
 
   ### ¿Cuál fue el significado de que tres reyes magos vinieran a adorar a Jesús desde un país lejano?
 
-# Dios envió a Juan a enseñar y bautizar; Juan bautizó a Jesús
+# DIOS ENVIÓ A JUAN A ENSEÑAR Y BAUTIZAR; JUAN BAUTIZÓ A JESÚS
 
 ## Introducción: En esta lección, Dios está preparando el escenario para revelar al Libertador. Ya hemos mencionado parte del cumplimiento de la profecía que rodeó el nacimiento y la infancia de Jesús como "señales" de quién es Él, pero ahora estamos a tres años de que Jesús haga lo que vino a hacer: morir y pagar el castigo por el pecado.
 
@@ -4282,7 +4066,7 @@ Lea Hechos 15:21.
 
 ### ¿Por qué Juan llamó a Jesús el "Cordero de Dios"?
 
-# Jesús resistió las tentaciones de Satanás
+# JESÚS RESISTIÓ LAS TENTACIONES DE SATANÁS
 
 ## Introducción: Creo que uno de los conceptos erróneos más grandes que existen en las iglesias en el mundo de hoy es con respecto a quiénes son Dios y Satanás en relación entre sí. Hoy en día es evidente que muchos los ven en igualdad de condiciones: uno es poderoso y bueno y el otro es poderoso y malo. La verdad es que aunque Satanás tiene temporalmente cierta autoridad, fue creado por Dios y nunca podrá vencer a su Hacedor Todopoderoso.
 
@@ -4364,7 +4148,7 @@ Lea Hechos 15:21.
 
 ### ¿Cómo resistió Jesús cada tentación?
 
-# Jesús comenzó su ministerio
+# JESÚS COMENZÓ SU MINISTERIO
 
 ## Introducción: A medida que continúa a través de la Biblia como lo hemos hecho nosotros, y SI mira todo a través de la cuadrícula que 2 Timoteo 1:9; 1 Pedro 1:19-20 provee; es decir, que antes de que hubiera tiempo, Dios predeterminó Su plan de redención que se llevaría a cabo a través de Cristo, cuando miras todo bajo esa luz, entonces desde el principio puedes ver claramente que la Palabra escrita de Dios nos fue dada como un registro progresivo de todo lo que Dios ha hecho para lograr esto. A través del Antiguo Testamento tenemos la preparación para que el plan se cumpla. La creación, la caída, la promesa, la elección de Israel (la línea), mostrándoles una y otra vez su necesidad de un Salvador. Ahora bien, en los evangelios ha venido el Prometido.
 
@@ -4448,7 +4232,7 @@ Lea Hechos 15:21.
 
 ### La relación de Jesús con Dios y la relación de los fariseos con Dios: ¿cómo son ambos ejemplos de cómo puede ser nuestra vida cristiana?
 
-# Jesús enseñó la necesidad de un nuevo nacimiento
+# JESÚS ENSEÑÓ LA NECESIDAD DE UN NUEVO NACIMIENTO
 
 ## Introducción: Cuando estábamos revisando el Antiguo Testamento, ¿cuáles fueron los dos puntos principales de contexto que mantuvimos ante nosotros? Primero fue la verdad que vimos en 2 Timoteo 1:9: "Que el propósito y la gracia de Dios nos fueron dados por medio de Cristo antes de los tiempos venideros" (lo que significa que siempre se ha tratado de Cristo). En segundo lugar, estaba el hecho de la declaración de Dios sobre la humanidad en Génesis 8:21, "que todo pensamiento e intención del corazón del hombre es solo malo desde la infancia" (por lo tanto, TIENE que ser todo sobre la gracia de Dios y la obra terminada de Cristo).
 
@@ -4540,7 +4324,7 @@ Lea Hechos 15:21.
 
 ### ¿Qué significa nacer del agua y del Espíritu?
 
-# Jesús tenía poder para sanar enfermedades y perdonar pecados
+# JESÚS TENÍA PODER PARA SANAR ENFERMEDADES Y PERDONAR PECADOS
 
 ## Introducción: En las últimas 35 lecciones que hemos estudiado, hemos estado siguiendo una progresión que comenzó antes de la fundación de la tierra (2 Timoteo 1:9). A través del Antiguo Testamento, entonces, hemos visto a Dios haciendo una serie de cosas para preparar el escenario.
 
@@ -4638,7 +4422,7 @@ Lea Hechos 15:21.
 
 ### Dé algunas evidencias que demuestren que la revelación de Jesús de sí mismo fue limpia y reconocible.
 
-# El discipulado de Pedro por parte de Jesús
+# EL DISCIPULADO DE PEDRO POR PARTE DE JESÚS
 
 ## Introducción: Las tres cosas principales que hemos seguido destacando a lo largo de todas estas lecciones para mantener una perspectiva adecuada han sido:
 
@@ -4774,7 +4558,7 @@ Lea Hechos 15:21.
 
 ### ¿Ha tenido algún efecto este enfoque en su vida diaria?
 
-# El arresto de Jesús
+# EL ARRESTO DE JESÚS
 
 ## Introducción: A medida que continuamos con estas últimas lecciones, quiero que mantengamos la misma visión general enfocada que hemos tenido en todo momento. Ver 2 Timoteo 1:9-10 y Génesis 8:21.
 
@@ -4850,7 +4634,7 @@ Lea Hechos 15:21.
 
 ### Describa cómo la soberanía de Dios se manifiesta tan claramente en Marcos 14:53-65.
 
-# La muerte de Jesús en la cruz
+# LA MUERTE DE JESÚS EN LA CRUZ
 
 ## Introducción: Todo lo que hemos estudiado hasta ahora ha conducido al evento más importante en la historia de la tierra. Veremos en esta lección cómo culminaron todas las promesas y profecías de Dios con respecto al Libertador venidero. La forma en que las personas responden a este evento determina dónde pasarán la eternidad.
 
@@ -4972,7 +4756,7 @@ Lea Hechos 15:21.
 
 ### ¿Cuál fue el significado de que la cortina del templo se rasgara en dos?
 
-# ¡La muerte de Jesús en la cruz nos salva! ¿De qué?
+# ¡LA MUERTE DE JESÚS EN LA CRUZ NOS SALVA! PERO, ¿DE QUÉ?
 
 ## Introducción: Así que acabamos de pasar 39 semanas trabajando progresivamente desde antes de la fundación de la tierra hasta la creación, a través del Antiguo Testamento, en los evangelios, y acabamos de concluir con la muerte, sepultura y resurrección de Jesús. Esto es a lo que nos referimos como El Evangelio o Salvación. Creemos en el "evangelio" y recibimos la "salvación".
 
@@ -5082,7 +4866,7 @@ Lea Hechos 15:21.
 
 ### Si la sangre de Jesús no purga nuestras almas de la culpa de nuestro pecado, ¿cómo afectará esto nuestra vida cristiana y nuestra relación con Dios?
 
-# El misterio de Dios, es decir, Cristo
+# EL MISTERIO DE DIOS, ES DECIR, CRISTO
 
 ## Introducción: A lo largo de esta enseñanza, una de las principales cosas que hemos destacado una y otra vez es el hecho de que es Dios mismo quien está llevando a cabo su plan eterno de redención. Fue Él quien lo determinó antes de la fundación de la tierra y ha sido Él quien lo ha estado llevando a cabo y cumpliéndolo a través de Cristo en nombre de la humanidad y para Su gloria. Dios solo ha tenido un requisito para nosotros como humanos: la FE. Simplemente creer que lo que dice es verdad. Fe en los hechos de lo que Él ha revelado. En el Antiguo Testamento, era la fe en la promesa del Libertador venidero. A través del Nuevo Testamento y hasta ahora, está en el hecho de que en verdad el Libertador prometido vino y ha terminado la obra y ha cumplido el plan de redención de Dios. Dios no dejó nada para que la humanidad lo descubriera por sí misma. Fue Él quien primero determinó Su plan eterno de redención antes de que existiera la humanidad y desde la creación, Él ha hecho todo lo posible para comunicar fielmente Quién es Él, cómo es, qué está haciendo, Quién es el Liberador y cómo la humanidad puede ser liberada.
 
@@ -5180,7 +4964,7 @@ Lea Colosenses 2:1-3; 1 Corintios 2:7; Efesios 3:1-7 (judíos y gentiles se vuel
 
 ### En el versículo 7, Pablo comienza a enumerar más detalles de lo que hemos recibido porque hemos sido hechos Sus hijos. Cuanto más sabemos acerca de lo que Él nos ha dado gratuitamente, más se revela la gloria de Su gracia.
 
-###  Lee Efesios 1:7.
+### Lee Efesios 1:7.
 
 ### Primero, dice que se nos ha dado la redención y el perdón de los pecados, ¡DE ACUERDO con las RIQUEZAS de Su GRACIA! Si pudieras elegir entre un regalo de acuerdo con mis riquezas o de acuerdo con las riquezas de Bill Gates, ¿cuál elegirías? Esto resalta uno de los mayores problemas en nuestras vidas como cristianos. ¡Cada uno de nosotros cree que hay un límite para la gracia de Dios! Oh, podemos saber en nuestras mentes la respuesta correcta, pero no vivimos, caminamos y nos relacionamos con Dios con esa creencia. Cuando te encuentras DE NUEVO haciendo lo que no quieres hacer (pecado) y NO haciendo lo que quieres hacer (piedad), ¿llevas la culpa por un tiempo? Cuando confiesas ese pecado a Dios, ¿te "sientes" perdonado? Cuando alguien nos ofende o peca contra nosotros nuevamente y nos enojamos. A veces seguimos sintiendo enojo hacia ellos a pesar de que se hayan disculpado. A menudo podemos atribuir ese mismo tipo de respuesta a Dios en su visión de nosotros.
 
@@ -5208,7 +4992,7 @@ Lea Colosenses 2:1-3; 1 Corintios 2:7; Efesios 3:1-7 (judíos y gentiles se vuel
 
 ### ¿Cuál es uno de los mayores malentendidos que existen en nuestros corazones hoy en día con respecto a Dios y su gracia?
 
-# Salvados del poder del pecado Santificación
+# SALVADOS DEL PODER DEL PECADO - SANTIFICACIÓN
 
 ## Introducción: La semana pasada, terminamos con un breve vistazo a Efesios 1:7 que dice que hemos recibido la redención y el perdón de los pecados "según las riquezas de su gracia". Entonces, si quieres saber qué tan "redimido" estás o cuánto "perdón" has recibido, entonces averigua la profundidad de las riquezas de Su gracia. Averigua cuán misericordioso es Dios, cuánta gracia tiene para dar. No hay límite ni final. Así es como ocurre con CADA don espiritual que hemos recibido de Dios en Cristo. TODO está de acuerdo con las riquezas de Su gracia. Recuerda, la gracia es recibir lo que no mereces, y no hemos merecido nada de esto.
 
@@ -5290,7 +5074,7 @@ Lea Colosenses 2:1-3; 1 Corintios 2:7; Efesios 3:1-7 (judíos y gentiles se vuel
 
 ### ¿Qué significa o a qué se refiere la "identificación del creyente con Cristo"?
 
-# Salvados de la futura presencia del pecado Glorificación
+# SALVADOS DE LA FUTURA PRESENCIA DEL PECADO - GLORIFICACIÓN
 
 ## Introducción: Toda esta serie comenzó hace 42 lecciones con el establecimiento del hecho de que el plan eterno de redención de Dios había sido predeterminado en Su corazón desde antes de la fundación de la tierra (2 Timoteo 1:9; 1 Pedro 1:19-20). Ha sido ÉL quien lo ha estado llevando a cabo y cumpliendo a través de Cristo desde entonces.
 
@@ -5403,3 +5187,7 @@ Lea Colosenses 2:1-3; 1 Corintios 2:7; Efesios 3:1-7 (judíos y gentiles se vuel
 ### De principio a fin, desde la eternidad pasada antes de la fundación de la tierra hasta la eternidad futura en los nuevos cielos y la nueva tierra, ha sido Dios y seguirá siendo Dios Quien está cumpliendo Sus planes y propósitos eternos de acuerdo con el "buenos placeres de Su voluntad".
 
 ### Como Moisés les dijo a los israelitas en el Mar Rojo en Génesis 14:13: "*No tengan miedo*". Quédate quieto y ve la salvación del Señor que Él logrará para ti hoy. Dios ha hecho exactamente lo mismo por nosotros espiritualmente. Nuestra mayor necesidad no es poder para hacer cosas grandes y maravillosas para Dios, sino simplemente sentarnos a derramar sobre Su Palabra, mirando al Espíritu Santo para que nos revele más y más la gloria y la maravilla de nuestro gran y poderoso Dios y Su "gran salvación" que Él nos ha otorgado por gracia y a través de Cristo.
+
+# BIBLIOGRAFÍA
+
+[^1]: Business Dictionary.com
