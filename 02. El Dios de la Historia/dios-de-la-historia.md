@@ -10,6 +10,16 @@ Reconocimientos
 
 # INTRODUCCIÓN
 
+## Nuestro Punto de partida
+
+### Es maravilloso conocer que Dios, siendo invisible pues es espíritu, se hace ver claramente de muchas maneras. Es decir, Dios pudo mantenerse escondido del hombre sin hacer nada como veremos en este estudio, Dios hace todo lo contrario. Él activamente y a propósito se hace ver. 
+
+### Se hace ver por medio de lo creado. El poder y la deidad de Dios se ven claramente por medio de lo creado. 
+
+### Se hace ver por medio de Su Palabra. Dios ha orchestrado una magnifica manera de hacerse conocer plenamente. Es por medio de un libro que Él hizo escribir por medio de 40 autores durante un periodo de 1500 o más años y fué compliado hace cerca de 2000 años atrás. 
+
+### Lo que veremos de aquí en adelante es lo que Dios nos ha revelado acerca de Si mismo en Su Palabra. Puede ser que has pensado de una forma diferente de lo que mostraremos sobre Dios, pero te animamos a que consideres lo que Dios dejó escrito en Su Libro, la Biblia. 
+
 ## Objetivos de esta enseñanza
 
 ### Ya que la Biblia es un solo mensaje de principio a fin y contiene la revelación de Dios de parte de Dios para el hombre, queremos conocer a Dios, quién es Él y cómo es Él a través de un estudio cronológico de Su Palabra.
@@ -158,7 +168,7 @@ Reconocimientos
 
 ### ¿Cuál es la diferencia entre conocer a Dios de acuerdo con Sus caminos y conocerlo de acuerdo con la instrucción bíblica?
 
-# DIOS ES ETERNO Y LA BIBLIA EN SU MENSAJE PARA TODAS LAS PERSONAS
+# DIOS ES ETERNO Y LA BIBLIA ES SU MENSAJE PARA TODAS LAS PERSONAS
 
 ## Dios es un comunicador y es muy, muy obvio que Él quiere que lo conozcamos, que conozcamos la verdad.
 
@@ -250,9 +260,9 @@ Reconocimientos
 
 ### Sabes, en todas nuestras mentes, sabemos que esto es cierto. Pero todos los días, mientras caminamos por la vida, ¿estamos viviendo y viendo la vida a la luz de esa realidad?
 
-### Creo que si diseccionáramos nuestras vidas, todos encontraríamos muchas áreas de "independencia" en nuestras vidas, lugares o áreas donde dependemos de nuestros propios esfuerzos, sabiduría y comprensión en lugar de Dios. Estos son signos de NO conocer a Dios.
+### Creo que si diseccionáramos nuestras vidas, todos encontraríamos muchas áreas de "independencia" en nuestras vidas, lugares o áreas donde dependemos de nuestros propios esfuerzos, sabiduría y comprensión en lugar de Dios. Estos son signos de no conocer a Dios.
 
-### ¿Y en nuestra visión de Satanás? ¿Hay realmente una batalla entre Dios y Satanás? Las Escrituras hablan de una batalla que se desarrolla dentro de nosotros entre la carne y el espíritu. Satanás anda como un león rugiente buscando a alguien a quien devorar, buscando a alguien a quien engañar. Pero desde la perspectiva de Dios, ¿hay realmente una batalla entre Dios y Satanás? NO, Satanás ya es un enemigo derrotado.
+### ¿Y en nuestra visión de Satanás? ¿Hay realmente una batalla entre Dios y Satanás? Las Escrituras hablan de una batalla que se desarrolla dentro de nosotros entre la carne y el espíritu. Satanás anda como un león rugiente buscando a alguien a quien devorar, buscando a alguien a quien engañar. Pero desde la perspectiva de Dios, ¿hay realmente una batalla entre Dios y Satanás? No, Satanás ya es un enemigo derrotado.
 
 ### No hay nadie ni nada que pueda compararse con Dios. Él es mucho más grande que todo y todos. Él está más allá de nuestro entendimiento. Salmo 147:1-9, 148:1-13
 
@@ -290,143 +300,21 @@ Reconocimientos
 
 ### ¿Cómo nos afectará la verdadera confianza en los atributos de Dios a diario?
 
-# DIOS CREÓ A LOS ÁNGELES
-
-## Mantener una perspectiva correcta
-
-### Antes de entrar en el relato de la creación, creo que es importante recordarnos el plan eterno de Dios que mencionamos en la lección introductoria.
-
-#### 2 Timoteo 1:9 (NVI): *...quien nos ha salvado y nos ha llamado con un llamamiento santo, no según nuestras obras, sino según su propio propósito y gracia que nos fue concedida en Cristo Jesús desde toda la eternidad.*
-
-#### 1 Pedro 1:18-20 (NVI): *... sabiendo que no fuisteis redimidos con cosas perecederas como plata u oro de vuestra vana forma de vida heredada de vuestros antepasados, sino con sangre preciosa, como de un cordero sin mancha y sin mancha, la sangre de Cristo. Porque él era conocido de antemano antes de la fundación del mundo, pero se ha manifestado en estos últimos tiempos por amor a vosotros*.
-
-### Habiendo establecido el hecho del plan y propósito de Dios que existía en Su corazón desde antes de que comenzara el tiempo, a medida que nos acercamos a Génesis capítulo 1, entonces tenemos que verlo como el comienzo de Dios llevando a cabo Su plan, un plan y propósito que incluía la gracia que se nos otorgaba a través de Cristo nuestro Salvador y Libertador. Tener en cuenta estos hechos ayudará a establecer el contexto de todo el Antiguo Testamento.
-
-### A continuación, al mirar el relato de la creación, nuestro propósito no es solo mirar y resaltar las cosas que Dios creó y cuándo; nuestro propósito es más considerar lo que Dios ha revelado acerca de sí mismo a través del relato de la creación. Por último, a medida que avanzamos hacia la creación, veremos la creación en el orden en que Dios la creó.
-
-## Dios creó todos los espíritus
-
-### Job 38:4-7 - Job deja bastante claro que los seres espirituales estaban presentes cuando Dios creó la tierra, por lo tanto, comenzaremos con la creación de los seres espirituales por parte de Dios.
-
-### Es seguro decir que existe mucha confusión en el mundo de hoy con respecto al mundo espiritual. Cada cultura tiene sus creencias. Sin embargo, solo Dios es la verdadera fuente de la VERDAD. Y si estamos realmente interesados en conocer la VERDAD, entonces tenemos que averiguar lo que ÉL dice sobre un asunto.
-
-### En primer lugar, creo que es bastante significativo que Dios haya creado a los seres espirituales antes de crear cualquier otra cosa. Esto significa que fueron testigos de primera mano de la omnipotencia, la soberanía y la omnisciencia de Dios. Piénsalo, todos los seres espirituales llegaron a ver a Dios hablar de todo para que existiera. ¡Qué despliegue de poder y sabiduría!
-
-### Dios había revelado claramente su dignidad de su alabanza y adoración. Entonces, que Lucifer tenga la audacia de pensar que podría tomar el lugar de Dios, realmente agrega perspectiva a la profundidad del orgullo, la arrogancia y la maldad que existe dentro de él.
-
-### Colosenses 1:16 - A diferencia de Dios, los seres espirituales no son eternos. Fueron creados por Dios y, por lo tanto, tuvieron un principio.
-
-### El "tronos", "dominios", "principados", y "poderes" en este versículo se refieren a la multitud de espíritus que fueron creados por Dios y a los que se les dieron diferentes posiciones de autoridad.
-
-### Otro término que las Escrituras usan para ellos es ángeles.
-
-### Dios no creó los espíritus con cuerpos físicos. Por lo tanto, no están limitados por el tiempo o el espacio como nosotros. Sin embargo, los espíritus no pueden estar en todas partes al mismo tiempo que Dios; están limitados a estar en un lugar a la vez. Aunque los espíritus no tienen cuerpos físicos, a veces han aparecido como seres humanos o en alguna otra forma física. Génesis 18:1-2, 22, 19:1, 12, 15; Isaías 6:1-2; Lucas 24:1-4, 22-23. 
-
-## Dios creó los espíritus para un propósito especial.
-
-### Los ángeles fueron creados para ser siervos y mensajeros de Dios. La palabra "ángel" en realidad significa "mensajero".
-
-### Lea el Salmo 103:20-21; Zacarías 1:9-10.
-
-### Específicamente, a veces, los ángeles son enviados a prestar "servicio" a los cristianos de acuerdo con la voluntad de Dios y para Su gloria.
-
-#### Lee Hebreos 1:14
-
-### Debido a que Dios es su Creador y fue Él quien los creó como ÉL quería que fueran y para qué propósito quería que fueran creados, TODOS los ángeles/seres espirituales pertenecen "LEGÍTIMAMENTE" a Dios. ¡Él es su dueño!
-
-#### Este es un punto muy significativo en términos de la autoridad y soberanía de Dios, especialmente en una época en la que las personas, incluso los cristianos, parecen atribuir más autoridad, poder y habilidad a las "fuerzas de las tinieblas" de lo que es apropiado.
-
-#### Así como eres el dueño de todo lo que haces, Dios es el dueño de todo y de todos los que creó. ¡Él es su Dios, su Creador y su Dueño!
-
-## Dios creó a TODOS los ángeles/seres espirituales perfectos
-
-### Dado que Dios es completamente santo, nunca crearía nada malo. Todo lo que piensa, dice y hace es perfecto. Aunque Dios sabía absolutamente cómo sería cada ángel, no creó a ninguno de ellos como malvado. Él los creó a todos perfectos y sin pecado.
-
-### Esta verdad trae a colación un gran punto con respecto a la soberanía de Dios. Repase dos de nuestros principales versículos de "perspectiva": 2 Timoteo 1:9 y Colosenses 1:16.
-
-### Primero, tenemos este propósito y gracia (plan) que nos fue otorgado A TRAVÉS de CRISTO, antes de que comenzara el tiempo.
-
-### Luego, Colosenses dice que TODAS las cosas (incluyendo TODOS los seres espirituales) fueron creadas POR Él y PARA Él (Cristo).
-
-### Entonces, esto significa que Lucifer y todos los ángeles que se convirtieron en Satanás y los demonios, toda su rebelión y todo lo que ha resultado de ella a través de las generaciones ya estaba incluido en el plan y propósito de Dios desde la eternidad pasada.
-
-### Y debido a que sabemos que Dios es absolutamente perfecto y santo, debemos estar absolutamente convencidos de que Su plan y propósitos también son absolutamente perfectos y santos. Por lo tanto, en lugar de preguntarnos por qué Dios permite esto y aquello, regocijémonos en el hecho de que Aquel que es absolutamente santo, perfecto y bueno, ¡es también Aquel que es absolutamente soberano y supremo!
-
-### Independientemente de nuestras circunstancias, podemos abandonarnos por completo y entregarnos a Él y a Su gracia y misericordia soberanas para obrar todas las cosas de acuerdo con los consejos de Su propia voluntad, para nuestro bien y para Su gloria.
-
-## Dios creó una gran cantidad de ángeles (Mateo 26:53 y Apocalipsis 5:11)
-
-### La próxima vez que te sientas tentado a preocuparte por los "ataques del enemigo", ¡recuerda estos dos versículos y la gran cantidad de ángeles que Dios simplemente habló para que existieran! Con tal poder, sabiduría, soberanía y grandeza, ¿por qué NOSOTROS, como cristianos de obra terminada, nos encontraríamos remotamente preocupados por lo que el "enemigo" está tratando de lograr?
-
-###  A continuación, parece de las Escrituras que Dios no creó este enorme número de ángeles exactamente igual.
-
-### Ezequiel 28:11-14 - Este pasaje es una referencia a Lucifer. Observe en el versículo 14, que fue llamado el "querubín ungido". Como todos los demás ángeles, Lucifer también fue creado perfecto e irreprensible y sin pecado. El versículo 15 dice "fuiste perfecto en tus caminos desde el día en que fuiste creado". Parece que Lucifer tenía belleza, sabiduría y una posición por encima de todos los demás ángeles.
-
-### Este punto habla de la soberanía de Dios como el Creador y Dueño de Su creación. Él tenía la autoridad y el derecho de crear Su creación de la manera que Él deseaba que fuera.
-
-## Dios creó ángeles con un intelecto poderoso y poder para hacer Su voluntad.
-
-### Regrese al Salmo 103:20. Los ángeles tienen gran conocimiento y entendimiento, y Dios les dio poder para hacer grandes cosas. Sin embargo, a diferencia de Dios, no saben y no pueden hacerlo todo.
-
-### Efesios 3:10 y 1 Pedro 1:12 - Estos dos pasajes nos muestran que los ángeles no lo saben todo. Es muy evidente que Dios desea que Su creación lo conozca. Ha hecho todo lo posible y detalla su revelación.
-
-### Él creó a los ángeles primero, en parte para poder revelarse a ellos a medida que avanzaba para crear el resto de la creación. Ahora lo vemos usando su interacción con la iglesia para revelar aún más su sabiduría y gracia al mundo espiritual.
-
-### Esta es una verdad importante sobre Dios que lo distingue de los dioses de todas las demás religiones. Dios es un Dios que desea que su creación lo conozca y que desea tener una relación con su creación. ¡Este mismo deseo que vemos en Dios de que los ángeles lo conozcan a Él y a Su corazón, veremos claramente que es Su mismo deseo para toda la humanidad!
-
-### Él quiere que lo conozcamos y tengamos confianza en Quién es realmente y cómo es realmente. ¿Por qué? Porque Él nos ama y quiere que podamos confiar en Él. Y sin conocerlo, no confiaremos en Su bondad y amor, ni podremos amarlo y confiar en Él a cambio.
-
-### Mira estos versículos: 2 Corintios 10:3-5: *Porque aunque andamos en la carne, no guerreamos según la carne, porque las armas de nuestra milicia no son de la carne, sino divinamente poderosas para la destrucción de fortalezas. Estamos destruyendo las especulaciones y toda cosa altivez levantada contra el conocimiento de Dios, y estamos llevando cautivo todo pensamiento a la obediencia de Cristo.*
-
-### Literalmente podríamos pasar una semana desempacando este pasaje, pero el punto que quiero hacer es que el contexto aquí es la batalla que tiene lugar en nuestras vidas a diario. Más específicamente, lo que el versículo 5 nombra como la verdadera causa de la batalla y el conflicto en el que nos encontramos; es decir, son esas cosas/circunstancias/eventos, etc., las que desafían nuestro conocimiento de Dios. Aquellas cosas que "se levantan contra el conocimiento de Dios".
-
-### Para los diez espías que fueron enviados a espiar la tierra, los hechos de la gente gigante y las enormes ciudades amuralladas desafiaron su conocimiento de Dios y su capacidad para confiar en Él. ¿Qué es para ti hoy? ¿Cuáles son las áreas de tu vida que en este momento están siendo "levantadas contra la REALIDAD de Quién es Dios"?
-
-### Este es el propósito de la clase: ayudarnos a todos a seguir creciendo en el conocimiento de Dios para que, independientemente de cuáles sean las circunstancias, podamos ser como Caleb y Josué: "Sí, el pueblo es gigantes y las murallas de la ciudad han sido edificadas hasta los cielos, pero nuestro Dios es mayor y Él es el más grande.
-
-### Aquel que prometió darnos esta tierra. ¡Podemos confiar en Él!"
-
-### Quiero terminar con esta cita de A. W. Tozer:
-
-### *"La gran pregunta ante la iglesia es siempre Dios mismo. Y el hecho más asombroso acerca de cualquier hombre no es lo que puede decir o hacer, sino lo que él, en lo profundo de su corazón, entiende que Dios es. Siempre lo más revelador de la iglesia es su idea de Dios, así como su mensaje más significativo es lo que dice sobre Él o lo que deja de decir, porque a menudo su silencio es más elocuente que su discurso. Posiblemente cada error en la doctrina o falta de aplicación de la ética cristiana podría finalmente atribuirse a pensamientos imperfectos acerca de Dios. El hombre que llega a una creencia correcta acerca de Dios se ve aliviado de miles y miles de problemas temporales, porque ve que estos problemas tienen que ver con circunstancias, que en el mejor de los casos no pueden preocuparle por mucho tiempo.*"
-
-## Preguntas de revisión
-
-### El plan eterno de redención de Dios: ¿cuándo fue planeado o predeterminado?
-
-### ¿Es significativo el punto \#1? Si es así, ¿por qué?
-
-### ¿Cuál es el significado de que Dios haya creado a todos los seres espirituales antes de crear todo lo demás?
-
-### ¿Sorprendieron a Dios Lucifer y la rebelión de los ángeles?
-
-### ¿Cuál es una verdad importante sobre Dios que lo diferencia de los dioses de todas las demás religiones?
-
 # DIOS SE REVELÓ A SÍ MISMO Y A SU CORAZÓN A TRAVÉS DE SUS ACTOS CREATIVOS
 
-## Introducción: Con la lección 4, comenzaremos a ver Génesis 1:1 y avanzaremos a través de la historia de la creación. Antes de hacerlo, primero queremos resaltar algunos antecedentes que se suman al contexto y, con suerte, a nuestra comprensión del propósito previsto de Dios para incluir este libro en Su palabra, la revelación completa.
+## Dios se reveló de manera ordenada y progresiva
+
+### Comenzaremos a ver Génesis 1:1 y avanzaremos a través de la historia de la creación. 
+
+### Antes de hacerlo, primero queremos resaltar algunos antecedentes que se suman al contexto del propósito previsto de Dios para incluir este libro en Su Palabra, la revelación completa.
 
 ### La mayoría de los eruditos están de acuerdo en que fue Moisés quien no solo escribió el libro de Génesis, sino que también escribió todo el Pentateuco o la Torá, los primeros cinco libros de la Biblia. Se cree que Moisés lo escribió en el desierto del Sinaí, mientras se dirigían a la Tierra Prometida. El propósito de Dios para que Moisés escriba lo que escribió en el Pentateuco (para los israelitas), creo que es la misma razón por la que también lo ha incluido en la revelación completa para la iglesia de hoy, y eso es con el propósito de revelarse a la humanidad.
 
-### Israel se dirigía a Canaán, donde los habitantes lo seguían y adoraban a todo tipo de dioses falsos y groseros. Iba a ser extremadamente importante para todas las generaciones futuras tener un registro claro de quién es el Dios de Israel y cómo es realmente. Mira Jueces 2:6###13 como prueba de la necesidad de recordar.
+### Israel se dirigía a Canaán, donde los habitantes lo seguían y adoraban a todo tipo de dioses falsos y groseros. Iba a ser extremadamente importante para todas las generaciones futuras tener un registro claro de quién es el Dios de Israel y cómo es realmente. Mira Jueces 2:6-13 como prueba de la necesidad de recordar.
 
 ### La necesidad de que nosotros, como creyentes de hoy, estemos absolutamente convencidos de quién es Dios y cómo es Él no es menos importante de lo que fue para los israelitas que entraron en Canaán. La vida cristiana está destinada a ser una relación. Sin un conocimiento profundo e íntimo de Él, viviremos inherentemente la vida cristiana como una religión y no como una relación.
 
 ### Otro aspecto está en la apropiación de la verdad. Si no conocemos a Dios, no confiaremos en Él. Si no podemos confiar en Él, entonces no entraremos y nos apropiaremos de la verdad en nuestras vidas. Crecer en el conocimiento de Dios es EL fundamento de toda la vida cristiana.
-
-## Génesis 1:1 - Dios es el creador
-
-### La primera frase del primer versículo de toda la Biblia, nos da dos verdades muy importantes sobre los atributos de Dios. Primero, es Su Nombre.
-
-### El nombre hebreo de Dios en Génesis 1:1 es "*Elohim".*" La terminación "*im*" es la forma plural que significa tres o más, y por lo tanto hace referencia a la trinidad.
-
-### El nombre "*Elohim*" expresa que Dios es el poderoso y glorioso Creador que gobierna el universo en omnipotencia, soberanía y fidelidad. Por lo tanto, debe ser reverenciado y temido (Daniel 6:26###27). ¡Así es como Dios se ha revelado a sí mismo en la primera oración de la Biblia! ¿Crees que Él quiere que lo conozcamos?
-
-### La importancia de la doctrina de la "*aseidad"* de Dios."Esto significa independencia y autoexistencia. Es Su existencia la que se origina y no tiene otra fuente que ella misma.
-
-### Un comentario escribió: "*En nuestra vida de fe, nos empobrecemos fácilmente al abrazar una idea de Dios que es demasiado limitada y pequeña, y nuevamente la doctrina de la aseidad de Dios se erige como un baluarte para evitar que esto suceda. Es vital para la salud espiritual creer que Dios es grande, y comprender la verdad de su aseidad es el primer paso en el camino para hacerlo*".
-
-### Lea el Salmo 95:1-7.
 
 ## La eternidad de Dios
 
@@ -440,25 +328,45 @@ Reconocimientos
 
 ### La eternidad de Dios es extremadamente significativa para nosotros como creyentes de hoy, porque no solo Dios mismo es eterno, sino que también significa que todos Sus atributos también son eternos:
 
-#### Él siempre será santo.
+#### Él siempre es y siempre será santo.
 
 #### Él siempre nos amará.
 
-#### Siempre será misericordioso.
+#### Siempre es y siempre será misericordioso.
 
 #### Él siempre nos otorgará Su gracia.
 
-#### Siempre será omnipotente.
+#### Siempre es y siempre será omnipotente.
 
-#### Siempre será omnipresente.
+#### Siempre es y siempre será omnipresente.
 
-#### Siempre será omnisciente.
+#### Siempre es y siempre será omnisciente.
 
 #### Siempre será inmutable o inmutable.
 
 ### No solo Dios el Padre es eterno, sino que también lo es Dios el Hijo y Dios el Espíritu Santo. ¡El hecho de la eternidad de Jesús también es muy importante para nosotros! Porque es sobre su obra terminada que se funda la aceptación de Dios de nosotros.
 
 ### Debido a que Cristo y su obra terminada satisfacen la justicia de Dios por toda la eternidad, significa que nuestra relación con Dios y su aceptación de nosotros también será eterna. El hecho de que el Espíritu Santo sea eterno significa que Él será fiel para llevar a cabo Su papel y ministerio en nuestras vidas por toda la eternidad. Actualmente, mientras todavía estamos en esta tierra, Su papel es guiarnos a la verdad y hacer de Cristo la ocupación de nuestros corazones. Podemos esperar absolutamente que Él siempre sea fiel, porque Él es eterno.
+
+### Antes de entrar en el relato de la creación, creo que es importante recordarnos el plan eterno de Dios que mencionamos en la lección introductoria.
+
+#### 2 Timoteo 1:9 (NVI): *...quien nos ha salvado y nos ha llamado con un llamamiento santo, no según nuestras obras, sino según su propio propósito y gracia que nos fue concedida en Cristo Jesús desde toda la eternidad.*
+
+#### 1 Pedro 1:18-20 (NVI): *... sabiendo que no fuisteis redimidos con cosas perecederas como plata u oro de vuestra vana forma de vida heredada de vuestros antepasados, sino con sangre preciosa, como de un cordero sin mancha y sin mancha, la sangre de Cristo. Porque él era conocido de antemano antes de la fundación del mundo, pero se ha manifestado en estos últimos tiempos por amor a vosotros*.
+
+### Habiendo establecido el hecho del plan y propósito de Dios que existía en Su corazón desde antes de que comenzara el tiempo, a medida que nos acercamos a Génesis capítulo 1, entonces tenemos que verlo como el comienzo de Dios llevando a cabo Su plan, un plan y propósito que incluía la gracia que se nos otorgaba a través de Cristo nuestro Salvador y Libertador. Tener en cuenta estos hechos ayudará a establecer el contexto de todo el Antiguo Testamento.
+
+## Dios es el creador
+
+### La primera frase del primer versículo de toda la Biblia, nos da dos verdades muy importantes sobre los atributos de Dios. Primero, es Su Nombre.
+
+### El nombre hebreo de Dios en Génesis 1:1 es "*Elohim".*" La terminación "*im*" es la forma plural que significa tres o más, y por lo tanto hace referencia a la trinidad.
+
+### El nombre "*Elohim*" expresa que Dios es el poderoso y glorioso Creador que gobierna el universo en omnipotencia, soberanía y fidelidad. Por lo tanto, debe ser reverenciado y temido (Daniel 6:26-27). ¡Así es como Dios se ha revelado a sí mismo en la primera oración de la Biblia! ¿Crees que Él quiere que lo conozcamos?
+
+### La importancia de la doctrina de la "*aseidad"* de Dios."Esto significa independencia y autoexistencia. Es Su existencia la que se origina y no tiene otra fuente que ella misma.
+
+### A continuación, al mirar el relato de la creación, nuestro propósito no es solo mirar y resaltar las cosas que Dios creó y cuándo; nuestro propósito es más considerar lo que Dios ha revelado acerca de sí mismo a través del relato de la creación. Por último, a medida que avanzamos hacia la creación, veremos la creación en el orden en que Dios la creó. Salmo 95:1-7
 
 ## Génesis 1:1-5 - El primer día Dios creó los cielos, la tierra y la luz.
 
@@ -470,37 +378,141 @@ Reconocimientos
 
 #### Afirmar que Dios crea de la nada solo confiesa el misterio, no lo explica.
 
-### El espacio y el tiempo son dimensiones del orden creado y Dios tampoco está "en", ni está limitado por ninguno de los dos.
+#### El espacio y el tiempo son dimensiones del orden creado y Dios tampoco está "en", ni está limitado por ninguno de los dos.
 
-### El orden mundial no fue autocreado, ni es autosuficiente. Solo Dios lo es.
+#### El orden mundial no fue autocreado, ni es autosuficiente. Solo Dios lo es.
 
-### La estabilidad del universo depende de la constante defensa divina. Sin él, todas las criaturas de todo tipo dejarían de existir.
+#### La estabilidad del universo depende de la constante defensa divina. Sin él, todas las criaturas de todo tipo dejarían de existir.
 
-### Lea Hechos 17:25, 28
+#### Lea Hechos 17:25, 28
 
-### Necesitamos orar para que Dios abra nuestros ojos para comenzar a comprender la maravilla y la grandeza que Él ha revelado sobre Sí mismo a través de Sus actos creativos. Porque solo entonces podemos alabarlo sincera y sinceramente como el Creador Todopoderoso.
+#### Necesitamos orar para que Dios abra nuestros ojos para comenzar a comprender la maravilla y la grandeza que Él ha revelado sobre Sí mismo a través de Sus actos creativos. Porque solo entonces podemos alabarlo sincera y sinceramente como el Creador Todopoderoso.
 
-### Se debe confiar en Dios como el Señor soberano, con un plan eterno que cubre todos los eventos y destinos sin excepción. Él tiene poder para redimir, recrear y renovar. Cuanto más lo comprendamos y lo veamos como el Creador Soberano Todopoderoso, más confiaremos en Él.
+#### Se debe confiar en Dios como el Señor soberano, con un plan eterno que cubre todos los eventos y destinos sin excepción. Él tiene poder para redimir, recrear y renovar. Cuanto más lo comprendamos y lo veamos como el Creador Soberano Todopoderoso, más confiaremos en Él.
 
-### Para nosotros hoy como cristianos, aquí es donde comienza la piedad, con Dios el Creador soberano como el primer foco de nuestros pensamientos.
+#### Para nosotros hoy como cristianos, aquí es donde comienza la piedad, con Dios el Creador soberano como el primer foco de nuestros pensamientos.
 
-### "La tierra estaba sin forma, vacía y la oscuridad la cubría". Esta frase nos da la condición del mundo cuando Dios lo creó. Estaba cubierto de agua, cubierto de oscuridad, y no tenía vida en él. No tenía forma porque el agua no estaba separada de la tierra, lo que le daría forma, y esto no sucedió hasta el tercer día.
+#### "La tierra estaba sin forma, vacía y la oscuridad la cubría". Esta frase nos da la condición del mundo cuando Dios lo creó. Estaba cubierto de agua, cubierto de oscuridad, y no tenía vida en él. No tenía forma porque el agua no estaba separada de la tierra, lo que le daría forma, y esto no sucedió hasta el tercer día.
 
-### También es interesante notar que esta condición previa de la tierra es una descripción física precisa de nuestra vida espiritual antes de venir a Cristo. Estábamos "espiritualmente oscurecidos" y vacíos de cualquier relación con Dios y esperanza. Nuestras vidas eran espiritualmente sin la vida de Dios. 1 Juan 1:5 dice que "*Dios es luz, y en Él no hay oscuridad en absoluto.*"
+### **Dios crea los ángeles**
+
+#### Todos los ángeles son seres creados. Dios los creó. Esto incluye ángeles caidos como Satanas y sus demonios. Sin embargo, la creación de los ángeles no es detallado en Génesis 1. No sabemos exáctamente cuando fueron creados los ángeles.
+
+#### Es seguro decir que existe mucha confusión en el mundo de hoy con respecto al mundo espiritual y especialmente en cuanto a los ángeles. Cada cultura tiene sus creencias. Sin embargo, solo Dios es la verdadera fuente de la verdad. Y si estamos realmente interesados en conocer la verdad, entonces tenemos que averiguar lo que Él dice sobre un asunto.
+
+#### Primeramente, todo (en los cielos y la tierra) fueron creados en 6 días literales. 
+
+##### Exodo 20:11 "*Porque en **seis días hizo el SEÑOR los cielos y la tierra**, el mar y todo lo que en ellos hay, y reposó en el séptimo día. Por tanto, el SEÑOR bendijo el día de reposo y lo santificó.*"
+
+##### A diferencia de Dios, los ángeles no son eternos. Fueron creados por Dios y, por lo tanto, tuvieron un principio.
+
+##### Colosenses 1:16 *Porque en Él fueron creadas **todas las cosas**, tanto en los cielos como en la tierra, visibles e invisibles; ya sean tronos o dominios o poderes o autoridades; todo ha sido creado por medio de Él y para Él.* 
+
+###### El "tronos", "dominios", "principados", y "poderes" en este versículo se refieren a la multitud de espíritus que fueron creados por Dios y a los que se les dieron diferentes posiciones de autoridad.
+
+##### Génesis 2:1-2 *Así **fueron acabados los cielos y la tierra y todas sus huestes**. En el séptimo día ya Dios había completado la obra que había estado haciendo, y reposó en el día séptimo de toda la obra que **había hecho**.*
+
+#### **¿En qué día fueron creados lo ángeles?**
+
+##### Lucifer, un angel, fue creado por Díos en uno de los 6 días...
+
+###### Ezekiel 28:13 *’En el Edén estabas, en el huerto de Dios; Toda piedra preciosa era tu vestidura: El rubí, el topacio y el diamante, El berilo, el ónice y el jaspe, El zafiro, la turquesa y la esmeralda; Y el oro, la hechura de tus engastes y de tus encajes, Estaba en ti. **El día** que fuiste creado Fueron preparados.*
+
+###### Ezekiel 28:15 *Perfecto eras en tus caminos Desde **el día** que fuiste creado Hasta que la iniquidad se halló en ti.*
+
+##### La Bíblia indica que los ángeles observarón cuando Dios hizo las lumbreras para la tierra...
+
+###### Job 1:6 *Un día, cuando **los hijos de Dios** vinieron a presentarse delante del SEÑOR, Satanás vino también entre ellos.* Aquí vemos a lo que es probablemente los ángeles llamados los hijos de Dios. 
+
+###### Job 38:4-7 *¿Dónde estabas tú cuando Yo echaba los cimientos de la tierra? Dímelo, si tienes inteligencia. ¿Quién puso sus medidas? Ya que sabes. ¿O quién extendió sobre ella cordel? ¿Sobre qué se asientan sus basas, O quién puso su piedra angular Cuando cantaban juntas las estrellas del alba, Y todos **los hijos de Dios** gritaban de gozo?*
+
+###### Si los hijos de Dios son ángeles en Job entonces podemos deducir que estaban presentes para observar la creación de las estrellas (el cuarto día) "*cuando cantaban juntas las entrellas del alba...*". 
+
+#### **¿Cuando cayeron los ángeles?**
+
+##### Dios había revelado claramente su dignidad de su alabanza y adoración. Entonces, que Lucifer tenga la audacia de pensar que podría tomar el lugar de Dios, realmente agrega perspectiva a la profundidad del orgullo, la arrogancia y la maldad que existe dentro de él.
+
+#### **Dios creó los ángeles para un propósito especial.**
+
+##### Los ángeles fueron creados para ser siervos y mensajeros de Dios. La palabra "ángel" en realidad significa "mensajero". Salmo 103:20-21; Zacarías 1:9-10
+
+##### Específicamente, a veces, los ángeles son enviados a prestar "servicio" a los cristianos de acuerdo con la voluntad de Dios y para Su gloria.
+
+###### Hebreos 1:14 *¿No son todos ellos espíritus ministradores, enviados para servir por causa de los que heredarán la salvación?*
+
+##### Debido a que Dios es su creador y fue Él quien los creó como ÉL quería que fueran y para qué propósito quería que fueran creados, TODOS los ángeles/seres espirituales pertenecen "legítimamente" a Dios. ¡Él es su dueño!
+
+##### Este es un punto muy significativo en términos de la autoridad y soberanía de Dios, especialmente en una época en la que las personas, incluso los cristianos, parecen atribuir más autoridad, poder y habilidad a las "fuerzas de las tinieblas" de lo que es apropiado.
+
+##### Así como eres el dueño de todo lo que haces, Dios es el dueño de todo y de todos los que creó. ¡Él es su Dios, su creador y su dueño!
+
+#### **Dios creó a todos los ángeles/seres espirituales perfectos**
+
+##### Dado que Dios es completamente santo, nunca crearía nada malo. Todo lo que piensa, dice y hace es perfecto. Aunque Dios sabía absolutamente cómo sería cada ángel, no creó a ninguno de ellos como malvado. Él los creó a todos perfectos y sin pecado.
+
+##### Esta verdad trae a colación un gran punto con respecto a la soberanía de Dios. Repase dos de nuestros principales versículos de "perspectiva": 2 Timoteo 1:9 y Colosenses 1:16.
+
+##### Primero, tenemos este propósito y gracia (plan) que nos fue otorgado a través de Cristo, antes de que comenzara el tiempo.
+
+##### Luego, Colosenses dice que todas las cosas (incluyendo todos los seres espirituales) fueron creadas por Él y para Él (Cristo).
+
+##### Entonces, esto significa que Lucifer y todos los ángeles que se convirtieron en Satanás y los demonios, toda su rebelión y todo lo que ha resultado de ella a través de las generaciones ya estaba incluido en el plan y propósito de Dios desde la eternidad pasada.
+
+##### Y debido a que sabemos que Dios es absolutamente perfecto y santo, debemos estar absolutamente convencidos de que Su plan y propósitos también son absolutamente perfectos y santos. Por lo tanto, en lugar de preguntarnos por qué Dios permite esto y aquello, regocijémonos en el hecho de que Aquel que es absolutamente santo, perfecto y bueno, ¡es también Aquel que es absolutamente soberano y supremo!
+
+##### Independientemente de nuestras circunstancias, podemos abandonarnos por completo y entregarnos a Él y a Su gracia y misericordia soberanas para obrar todas las cosas de acuerdo con los consejos de Su propia voluntad, para nuestro bien y para Su gloria.
+
+#### **Dios creó una gran cantidad de ángeles (Mateo 26:53 y Apocalipsis 5:11)**
+
+##### La próxima vez que te sientas tentado a preocuparte por los "ataques del enemigo", ¡recuerda estos dos versículos y la gran cantidad de ángeles que Dios simplemente habló para que existieran! Con tal poder, sabiduría, soberanía y grandeza, ¿por qué nosotros, como cristianos de obra terminada, nos encontraríamos remotamente preocupados por lo que el "enemigo" está tratando de lograr?
+
+#####  A continuación, parece de las Escrituras que Dios no creó este enorme número de ángeles exactamente igual.
+
+##### Ezequiel 28:11-14 - Este pasaje es una referencia a Lucifer. Observe en el versículo 14, que fue llamado el "querubín ungido". Como todos los demás ángeles, Lucifer también fue creado perfecto e irreprensible y sin pecado. El versículo 15 dice "fuiste perfecto en tus caminos desde el día en que fuiste creado". Parece que Lucifer tenía belleza, sabiduría y una posición por encima de todos los demás ángeles.
+
+##### Este punto habla de la soberanía de Dios como el Creador y Dueño de Su creación. Él tenía la autoridad y el derecho de crear Su creación de la manera que Él deseaba que fuera.
+
+#### **Dios creó ángeles con un intelecto poderoso y poder para hacer Su voluntad.**
+
+##### Regrese al Salmo 103:20. Los ángeles tienen gran conocimiento y entendimiento, y Dios les dio poder para hacer grandes cosas. Sin embargo, a diferencia de Dios, no saben y no pueden hacerlo todo.
+
+##### Efesios 3:10 y 1 Pedro 1:12 - Estos dos pasajes nos muestran que los ángeles no lo saben todo. Es muy evidente que Dios desea que Su creación lo conozca. Ha hecho todo lo posible y detalla su revelación.
+
+##### Él creó a los ángeles primero, en parte para poder revelarse a ellos a medida que avanzaba para crear el resto de la creación. Ahora lo vemos usando su interacción con la iglesia para revelar aún más su sabiduría y gracia al mundo espiritual.
+
+##### Esta es una verdad importante sobre Dios que lo distingue de los dioses de todas las demás religiones. Dios es un Dios que desea que su creación lo conozca y que desea tener una relación con su creación. ¡Este mismo deseo que vemos en Dios de que los ángeles lo conozcan a Él y a Su corazón, veremos claramente que es Su mismo deseo para toda la humanidad!
+
+##### Él quiere que lo conozcamos y tengamos confianza en Quién es realmente y cómo es realmente. ¿Por qué? Porque Él nos ama y quiere que podamos confiar en Él. Y sin conocerlo, no confiaremos en Su bondad y amor, ni podremos amarlo y confiar en Él a cambio.
+
+##### Mira estos versículos: 2 Corintios 10:3-5: *Porque aunque andamos en la carne, no guerreamos según la carne, porque las armas de nuestra milicia no son de la carne, sino divinamente poderosas para la destrucción de fortalezas. Estamos destruyendo las especulaciones y toda cosa altivez levantada contra el conocimiento de Dios, y estamos llevando cautivo todo pensamiento a la obediencia de Cristo.*
+
+##### Literalmente podríamos pasar una semana desempacando este pasaje, pero el punto es que el contexto aquí es la batalla que tiene lugar en nuestras vidas a diario. Más específicamente, lo que el versículo 5 nombra como la verdadera causa de la batalla y el conflicto en el que nos encontramos; es decir, son esas cosas/circunstancias/eventos, etc., las que desafían nuestro conocimiento de Dios. Aquellas cosas que "se levantan contra el conocimiento de Dios".
+
+##### Para los diez espías que fueron enviados a espiar la tierra, los hechos de la gente gigante y las enormes ciudades amuralladas desafiaron su conocimiento de Dios y su capacidad para confiar en Él. ¿Qué es para ti hoy? ¿Cuáles son las áreas de tu vida que en este momento están siendo "levantadas contra la realidad de quién es Dios"?
+
+##### Este es el propósito de la clase: ayudarnos a todos a seguir creciendo en el conocimiento de Dios para que, independientemente de cuáles sean las circunstancias, podamos ser como Caleb y Josué: "Sí, el pueblo es gigantes y las murallas de la ciudad han sido edificadas hasta los cielos, pero nuestro Dios es mayor y Él es el más grande.
+
+##### Aquel que prometió darnos esta tierra. ¡Podemos confiar en Él!"
+
+#### **Conclusión**
+
+##### Entonces, podemos deducir que los ángeles fueron creados entre el primer día y tercer día pero antes del cuarto día. 
 
 ## Dios creó la luz
 
+### Hay una distinción que hacer entre Dios es luz y Dios creó la luz. Dios no está alumbrando aquí. Dios creó de la nada la luz. Cuando dice que Dios es luz, Juan se estaba refiriendo a que Dios es verdad, puro, santo y perfecto, no que es que Dios esta alumbrando. 
+
+#### ¡Este acto físico actúa como una imagen de la verdad espiritual de que Dios es la fuente de toda verdad! Porque "luz" se usa a menudo para simbolizar la verdad en las Escrituras.
+
 ### Cuando realmente te detienes y piensas en ello, para crear luz o cualquier otra cosa, Dios realmente ni siquiera necesitaba decir una palabra. Una de las formas en que Dios se revela a sí mismo y quién es a nosotros es por la forma en que se refiere a sí mismo. Cuando encuentras un "nombre" para Dios que Él usa una y otra vez, sabes que es importante para Él que la gente lo conozca como tal.
 
-### Al hacer una búsqueda realmente rápida, encontré al menos 50 veces a lo largo de toda la Biblia que Dios se refiere a sí mismo como "El Dios VIVO" (Josué 3:10). Hemos visto otros lugares en las Escrituras donde Dios describe a los dioses falsos como si no estuvieran vivos. Tienen ojos pero no pueden ver. Oídos, pero no pueden oír.
+### Al hacer una búsqueda realmente rápida, encontré al menos 50 veces a lo largo de toda la Biblia que Dios se refiere a sí mismo como "El Dios vivo" (Josué 3:10). Hemos visto otros lugares en las Escrituras donde Dios describe a los dioses falsos como si no estuvieran vivos. Tienen ojos pero no pueden ver. Oídos, pero no pueden oír.
 
 ### Bocas, pero no pueden hablar.
 
-### Por lo tanto, no es coincidencia que antes de que Dios cree algo, incluya la frase "entonces Dios dijo..." ¡Él quiere dejar muy claro que Él y SOLO ÉL es el Dios omnisciente, todopoderoso y VIVO!
+### Por lo tanto, no es coincidencia que antes de que Dios cree algo, incluya la frase "entonces Dios dijo..." ¡Él quiere dejar muy claro que Él y solo Él es el Dios omnisciente, todopoderoso y vivo!
 
 ### Una vez más, Moisés estaba escribiendo Génesis a los israelitas justo antes de que entraran en la Tierra Prometida, donde se enfrentarían a muchos, muchos dioses falsos muertos. En este acto de crear luz (no el sol, sino luz), Dios reveló su poder, sabiduría, conocimiento, vida y amor.
-
-### ¡Este acto físico también actúa como una imagen de la verdad espiritual de que Dios también es la fuente de toda verdad! Porque "luz" se usa a menudo para simbolizar la verdad en las escrituras.
 
 ### Observe en el versículo 4 que Dios declara que la luz era "buena". Dios es de una excelencia moral y una santidad tan supremas que lo que creó fue correcto en cada detalle. ¡Lo que hizo se basó en quién es Él! Mira el Salmo 18:30.
 
@@ -515,6 +527,34 @@ Reconocimientos
 ### Lea Jeremías 10:12; Salmos 19:1
 
 ### Otra cosa que realmente se destaca en el relato de la creación es la sabiduría del orden en el que Dios creó todas las cosas. Era apropiado y lógico que Dios creara primero la luz y luego la atmósfera, dos de las cosas principales que todos los seres vivos necesitarían para sobrevivir. 
+
+#### 
+
+
+
+
+
+### 
+
+
+
+### 
+
+## Preguntas de revisión
+
+### El plan eterno de redención de Dios: ¿cuándo fue planeado o predeterminado?
+
+### ¿Es significativo el punto \#1? Si es así, ¿por qué?
+
+### ¿Cuál es el significado de que Dios haya creado a todos los seres espirituales antes de crear todo lo demás?
+
+### ¿Sorprendieron a Dios Lucifer y la rebelión de los ángeles?
+
+### ¿Cuál es una verdad importante sobre Dios que lo diferencia de los dioses de todas las demás religiones?
+
+
+
+
 
 ## Génesis 1:9-13 - Al tercer día, Dios formó la tierra seca y creó toda la vida vegetal
 
@@ -648,7 +688,9 @@ Reconocimientos
 
 ### Al hombre se le debía dar una mente que pudiera entender lo que Dios quería comunicarle, la inteligencia para pensar en lo que Dios decía; la capacidad de aprender sobre Su carácter y ser capaz de comunicarse con Él. Al hombre también se le debían dar emociones para que pudiera responder a Dios por amor a Él. Ver 1 Juan: amamos porque Él nos amó primero.
 
-### Por último, al hombre se le debía dar una voluntad para que pudiera elegir llevar a cabo la voluntad de Dios en la tierra, no como un robot, sino como alguien que escucharía a Dios, lo apreciaría y lo amaría, y elegiría obedecerlo. El hombre fue creado como un ser racional, moral y espiritual, porque fue creado a imagen de Dios. NOTA: Dios no creó al hombre a Su imagen con el propósito de que el hombre se volviera "grande e independiente". ¡Él creó al hombre a Su imagen para que el hombre pudiera comulgar íntimamente con Él!
+### Por último, al hombre se le debía dar una voluntad para que pudiera elegir llevar a cabo la voluntad de Dios en la tierra, no como un robot, sino como alguien que escucharía a Dios, lo apreciaría y lo amaría, y elegiría obedecerlo. El hombre fue creado como un ser racional, moral y espiritual, porque fue creado a imagen de Dios. 
+
+### NOTA: Dios no creó al hombre a Su imagen con el propósito de que el hombre se volviera "grande e independiente". ¡Él creó al hombre a Su imagen para que el hombre pudiera comulgar íntimamente con Él!
 
 ## Dios planeó que el primer hombre y la primera mujer fueran los administradores de Su creación en la tierra
 
@@ -660,39 +702,39 @@ Reconocimientos
 
 ## Dios creó al primer hombre y a la primera mujer
 
-### Lee Génesis 1:27.
+### Lee Génesis 1:27
 
 ### Dios creó al primer hombre y luego, el mismo día, creó a la primera mujer. Más adelante en Génesis 2 nos enfocaremos en los detalles de Su creación de Eva, pero por ahora, nos enfocaremos en Su creación de Adán.
 
 ### Dios hizo el cuerpo de Adán de la tierra. Cuando Dios creó todo lo demás, simplemente habló y aparecieron. Formó a todos los animales por una orden a la tierra para que los produjera. Pero cuando hizo al primer hombre, formó personalmente el cuerpo del hombre de la tierra. El cuerpo del hombre fue formado por la intervención inmediata de Dios. No creció; ni fue producido por ningún proceso de desarrollo. Compare Génesis 1:24 con 2:7.
 
-### Lee Génesis 2:7.
+### Lee Génesis 2:7
 
 ### Después de que Dios creó el cuerpo de Adán, todavía no tenía vida. Cada parte de él estaba perfectamente formada, pero estaba sin vida. Su alma y espíritu, que dieron vida al cuerpo, aún no habían sido creados. ¿Qué hizo Dios para darle vida a Adán? Le dio vida al cuerpo de Adán. El alma del hombre se derivó de Dios. Sopló en el hombre "el aliento de vida", es decir, esa vida que lo constituyó en hombre, una criatura viviente portadora de la imagen de Dios. Cuando Dios insufló vida a Adán, se convirtió en una persona viva. Solo Dios puede dar vida. Él es la fuente de toda vida y le dio vida a Adán.
 
 ### Dé el ejemplo de muchas máquinas eléctricas. Sin poder, son inútiles y sin valor. La electricidad les da vida, por así decirlo. Nuestros cuerpos son iguales. Sin la vida de Dios, estarían muertos y sin valor. Esta es una verdad fundamental importante sobre Dios que proporciona una imagen física de la verdad espiritual. Porque así como fue ÉL quien dio vida física a Adán y Eva, así Él es la verdadera y única fuente de vida espiritual. Jesús dijo: "*YO SOY el camino, la verdad y la VIDA.*"
 
-### Lea Génesis 1:27-28.
+### Lea Génesis 1:27-28
 
 ### Dios hizo solo un hombre y una mujer. Dios les ordenó entonces que tuvieran hijos para que, con el tiempo, el mundo se publara. Dios hizo al primer hombre y mujer administradores de toda la vida en la tierra.
 
-### Lea Génesis 1:28-30.
+### Lea Génesis 1:28-30
 
 ### Dios le dio al hombre grandes responsabilidades. De acuerdo con Su plan, del cual leemos en el versículo 26, Dios puso a Adán y Eva a cargo de la tierra y de todo lo que hay en ella. Les explicó que debían ser sus representantes en la tierra. Tomemos, por ejemplo, un gerente o un padre que entrega un negocio a un hijo. De la misma manera, Dios designó al primer hombre para que fuera supervisor y cuidador de todo lo que Dios había creado en la tierra.
 
 ### ¿Por qué Dios tenía la autoridad para darles esta posición? y ¿responsabilidad? Porque Él Tenía creó todo, y Él tenía el derecho de hacer lo que quisiera con Su creación.
 
-### Lea el Salmo 24:1-2.
+### Lea el Salmo 24:1-2
 
 ### Debido a que Dios creó y posee legítimamente la tierra, pudo confiarla a quien quisiera. Dios, el Creador de todas las cosas, dio la tierra a Adán y Eva. Él tenía la autoridad para hacer esto porque Él es supremo y soberano.
 
 ### Todo lo que Dios hizo fue bueno.
 
-### Lee Génesis 1:31.
+### Lee Génesis 1:31
 
 ### ¿Por qué todo lo que Dios hizo fue "muy bueno"? Debido a que Dios es perfecto y bueno, todo lo que hizo fue perfecto. Al principio, el clima era perfecto. Ningún animal dañaría al hombre. No había espinas, cardos o malas hierbas que arruinaran la tierra. Todo fue completamente sin fallas ni fallas. ¡Todo fue creado como un verdadero reflejo del carácter santo de Dios!
 
-### Los ángeles de Dios, incluido Lucifer, fueron testigos de la creación del hombre por parte de Dios. Los ángeles de Dios, incluido su líder Lucifer, estaban observando cuando Dios preparó la tierra y luego hizo al hombre. Los ángeles cantaron juntos con alegría, alabando y adorando a Dios por su gran poder y sabiduría que se demostraron al crear todas las cosas (Job 38:4###11).
+### Los ángeles de Dios, incluido Lucifer, fueron testigos de la creación del hombre por parte de Dios. Los ángeles de Dios, incluido su líder Lucifer, estaban observando cuando Dios preparó la tierra y luego hizo al hombre. Los ángeles cantaron juntos con alegría, alabando y adorando a Dios por su gran poder y sabiduría que se demostraron al crear todas las cosas (Job 38:4-11).
 
 ## Conclusión
 
@@ -714,7 +756,7 @@ Reconocimientos
 
 ### ¿Quién vio cómo Dios creó al hombre?
 
-# DIOS COLOCÓ A ADÁN EN EL EDÉN
+# Génesis 2:1-17 - DIOS COLOCÓ A ADÁN EN EL EDÉN
 
 ## Introducción: Durante las últimas semanas, hemos estado observando la grandeza y la maravilla de Dios y cómo si realmente nos detenemos y miramos Su creación con más detalle, realmente podemos ver Su obra y comenzar a vislumbrar la magnitud de Su poder y sabiduría. La creación de Dios es tan vasta y grande que nuestras mentes ni siquiera pueden comenzar a comprender todo lo que contienen los cielos. La tierra también apunta a Su grandeza. Tenemos estos bonitos pinzones de colores que vienen y anidan en un árbol al lado de la ventana de nuestra cocina. Algo tan simple como un pájaro de hermosos colores sentado en una rama verde oscuro puede hacer que te quedes mirando con asombro. Qué maravilloso debe haber sido todo en su perfección. Nuestro Dios todopoderoso no dejó nada sin crear, y Él sabía cuándo había terminado.
 
@@ -758,9 +800,7 @@ Reconocimientos
 
 ### Los jardines botánicos más exquisitos del mundo no podrían haber tenido una vela para este jardín que fue plantado por Dios mismo. Incluyó en el jardín todas las verduras y árboles frutales que el hombre necesitaría. Creo que Él proveyó lo que necesitarían para sobrevivir, pero también incluyó muchas otras cosas que sabía que disfrutarían, porque Dios es el dador de cosas buenas.
 
-### Lea 
-
-## Génesis 2:8 - Dios puso a Adán en el jardín (Nehemías 9:25; Salmo 31:19; 103:1-5; Santiago 1:17-18)
+## Génesis 2:8 - Dios puso a Adán en el jardín (Nehemías 9:25; Salmo 31:19, 103:1-5; Santiago 1:17-18)
 
 ### Cuando Dios tuvo el jardín listo para Adán, Dios no le preguntó a Adán si quería vivir en él. No dijo: "Oye*, este jardín es maravilloso, ¿te gustaría vivir en él*?*"* Dios lo puso en ella. Dios tenía la autoridad absoluta para colocar a Adán en cualquier lugar que así lo deseara. Dios es el Creador y Dueño todopoderoso de toda Su creación.
 
@@ -780,7 +820,7 @@ Reconocimientos
 
 ### "*Todo se centra en Cristo e irradia desde Él hasta los límites del universo creado por Dios. La unión con Cristo es el corazón de todos los pensamientos revelados de Dios con respecto al hombre y la relación del hombre con Dios.*" T. Austin Sparks
 
-### Una de las principales razones por las que creo que el Árbol del Conocimiento del Bien y del Mal estaba allí fue por el propósito de que jugaba en el plan de Dios es por Apocalipsis 22:1###5. En el cielo nuevo y la tierra nueva, volverá a estar el Árbol de la Vida, pero el Árbol del Conocimiento del Bien y del Mal no estará allí porque el pecado, la caída y el plan cumplido a través de Cristo ya se han cumplido.
+### Una de las principales razones por las que creo que el Árbol del Conocimiento del Bien y del Mal estaba allí fue por el propósito de que jugaba en el plan de Dios es por Apocalipsis 22:1-5. En el cielo nuevo y la tierra nueva, volverá a estar el Árbol de la Vida, pero el Árbol del Conocimiento del Bien y del Mal no estará allí porque el pecado, la caída y el plan cumplido a través de Cristo ya se han cumplido.
 
 ### Nuestra entrada en el cielo nuevo y la tierra nueva para estar en la presencia de Dios por toda la eternidad es otra parte del resultado de la obra terminada de Cristo. Nuestra residencia en el cielo nuevo y la tierra nueva será prueba de que el plan de Dios se cumplió.
 
@@ -806,7 +846,7 @@ Reconocimientos
 
 ## Preguntas de revisión
 
-### ¿Qué aprendemos sobre el carácter de Dios en el sentido de que terminó todo lo que planeó crear? ¿Qué importancia tiene esto para hoy como cristianos? (Filipenses 1:1)
+### ¿Qué aprendemos sobre el carácter de Dios en el sentido de que terminó todo lo que planeó crear? ¿Qué importancia tiene esto para hoy como cristianos? Filipenses 1:1
 
 ### ¿Qué quiere decir la Biblia cuando dice que Dios descansó en el séptimo día?
 
@@ -818,7 +858,7 @@ Reconocimientos
 
 ### ¿Qué quiso decir Dios cuando dijo que Adán moriría?
 
-# DIOS CREÓ UNA ESPOSA PARA ADÁN
+# Génesis 2:18-25 - DIOS CREÓ UNA ESPOSA PARA ADÁN
 
 ## Introducción: Dios conoce íntimamente su creación. Cuando hizo a Adán, sabía cuáles serían sus necesidades y planeó amorosamente satisfacerlas. En esta lección, veremos Su increíble bondad al proporcionarle a Adán un regalo como ningún otro. Hoy, Dios no ha cambiado. El mismo corazón que vemos en la forma en que Él amó y cuidó de Adán, ese es Su corazón hoy con nosotros también. Nuestro problema es que determinamos por nosotros mismos lo que queremos, en lugar de confiar en que Él nos guíe y provea.
 
@@ -896,11 +936,11 @@ Reconocimientos
 
 ### Hay diferentes creencias con respecto a Lucifer y los ángeles y cuál fue su pecado. Al poner Judas 6 junto con Ezequiel 28, parecería que su pecado fue el orgullo y la desobediencia.
 
-### Su "primer estado" o "principado" se refiere entonces a su posición original de estar bajo la autoridad de la Deidad. Se sintieron insatisfechos con la voluntad y la ubicación de Dios para ellos y aspiraron a ser más altos. (Judas 6, Ezequiel 28:13-15)
+### Su "primer estado" o "principado" se refiere entonces a su posición original de estar bajo la autoridad de la Deidad. Se sintieron insatisfechos con la voluntad y la ubicación de Dios para ellos y aspiraron a ser más altos. (Judas 1:6; Ezequiel 28:13-15)
 
 ### Cuando te detienes y piensas en ello, no había razón para que Lucifer se rebelara. Había sido honrado por Dios al recibir la posición más alta sobre todos los demás ángeles. Debería haber obedecido y servido a Dios. Pero de Ezequiel 28:17, parece que Lucifer se enorgulleció de su belleza, inteligencia y posición.
 
-### Ezequiel 28:17 - De todo esto, también entendemos que aunque Lucifer y los ángeles fueron creados perfectos, también se les dio libre albedrío. La rebelión de Lucifer fue un acto de su voluntad, una elección consciente de oponerse a Dios. Lucifer quería ser como Dios. Aspiraba a ocupar el lugar de Dios como gobernante supremo sobre todas las cosas. Mira lo que dice Isaías 14:12###15 en referencia a la rebelión de Lucifer.
+### Ezequiel 28:17 - De todo esto, también entendemos que aunque Lucifer y los ángeles fueron creados perfectos, también se les dio libre albedrío. La rebelión de Lucifer fue un acto de su voluntad, una elección consciente de oponerse a Dios. Lucifer quería ser como Dios. Aspiraba a ocupar el lugar de Dios como gobernante supremo sobre todas las cosas. Mira lo que dice Isaías 14:12-15 en referencia a la rebelión de Lucifer.
 
 ## Lucifer fue el primero en hacer el mal, el primero en pecar
 
@@ -912,7 +952,7 @@ Reconocimientos
 
 ### Dios sabía lo que Lucifer estaba pensando y planeando. Dios sabía que Lucifer se había vuelto orgulloso y quería tomar el lugar de su Creador. Dios es OMNISCIENTE. Sabía que todo esto sucedería incluso antes de que se pusieran los cimientos de la tierra.
 
-### Isaías 14:13 muestra que Dios sabía lo que estaba sucediendo en el corazón de Lucifer cuando dijo: "Pero tú dijiste en tu corazón". Nada puede mantenerse en secreto para Dios. Nada puede sorprender a Dios. Lo sabe todo incluso antes de que suceda. Dios está en todas partes, lo ve todo y lo sabe todo. ¡Dios es tan OMNISCIENTE, que todo esto ha sido parte de Su plan desde antes de que comenzara el tiempo!
+### Isaías 14:13 muestra que Dios sabía lo que estaba sucediendo en el corazón de Lucifer cuando dijo: "Pero tú dijiste en tu corazón". Nada puede mantenerse en secreto para Dios. Nada puede sorprender a Dios. Lo sabe todo incluso antes de que suceda. Dios está en todas partes, lo ve todo y lo sabe todo. ¡Dios es tan omnisciente, que todo esto ha sido parte de Su plan desde antes de que comenzara el tiempo!
 
 ### Lea Colosenses 1:16-17 y Hebreos 4:13.
 
