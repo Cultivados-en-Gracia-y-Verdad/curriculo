@@ -866,11 +866,11 @@ Reconocimientos
 
 ### Introducción: Hemos estado observando la grandeza y la maravilla de Dios y cómo si realmente nos detenemos y miramos Su creación con más detalle, realmente podemos ver Su obra y comenzar a vislumbrar la magnitud de Su poder y sabiduría. La creación de Dios es tan vasta y grande que nuestras mentes ni siquiera pueden comenzar a comprender todo lo que contienen los cielos. La tierra también apunta a Su grandeza. Tenemos estos bonitos pinzones de colores que vienen y anidan en un árbol al lado de la ventana de nuestra cocina. Algo tan simple como un pájaro de hermosos colores sentado en una rama verde oscuro puede hacer que te quedes mirando con asombro. Qué maravilloso debe haber sido todo en su perfección. Nuestro Dios todopoderoso no dejó nada sin crear, y Él sabía cuándo había terminado.
 
-### Génesis 2:4 "*Estos son los orígenes de los cielos y de la tierra cuando fueron creados, el día en que el SEÑOR Dios hizo la tierra y los cielos*".
+### Génesis 2:4a "*Estos son los orígenes de los cielos y de la tierra cuando fueron creados,*".
 
 #### la palabra "*orígenes*" es TOLEDOT. Tomaremos un momento para entender el uso de esta palabra en Génesis. 
 
-## Breve explicación de la Palabra TOLEDOT
+## Breve explicación de la palabra TOLEDOT
 
 ### Génesis sigue la simiente prometida trazando un único linaje elegido por Dios —desde Adán (Eva), pasando por Set, Noé, Sem, Abraham, Isaac, Jacob y finalmente Judá— eliminando todos los linajes competidores, culminando en la identificación de la tribu de la que vendrá el Mesías.
 
@@ -878,21 +878,19 @@ Reconocimientos
 
 ### Génesis está estructurado en torno a 11 toledot principales, cada uno de los cuales introduce una nueva sección.
 
-#### Ejemplo:
+#### Por ejemplo, Génesis 2:4 dice, *«Estos son los toledot de los cielos y de la tierra...»* Esto no significa que los cielos engendraran hijos.
 
-##### Génesis 2:4 *«Estos son los toledot de los cielos y de la tierra...»* Esto no significa que los cielos engendraran hijos.
-
-###### Significa: «Esta es la historia que surgió de los cielos y de la tierra» que a la vez provienen de Dios. 
+#### Esta frase significa, «Esta es la historia que surgió de los cielos y de la tierra (que provino de Dios) y de los descendientes que vienen a continuación....»
 
 ### La idea central del Toledot en Génesis
 
-#### Se refiere a los productos, resultados o consecuencias de alguien o algo. Un toledot puede introducir: una genealogía, una narración histórica o una transición hacia lo que surgió de una figura o evento. 
+#### Basado en los resultados o consecuencias de alguien o algo que vino anteriormente presenta lo que viene a continuación; una narración histórica o una transición hacia lo que surgió de una figura o evento. 
 
-### Por qué es importante
+#### Cada toledot funciona como el título de un capítulo: En otras palabras, «Aquí comienza el relato de lo que surgió de...» Y luego, la siguiente sección desarrolla las consecuencias o la historia.
 
-#### Génesis no es una colección aleatoria de historias que se destacaron por lo que hicieron; está estructurado, cuidadosamente siguiendo el hilo según el plan predeterminado de Dios. 
+### ¿Por qué es importante?
 
-#### Cada Toledot funciona como el título de un capítulo: En otras palabras, «Aquí comienza el relato de lo que surgió de...» Y luego, la siguiente sección desarrolla las consecuencias o la historia.
+#### Génesis no es una colección aleatoria de historias que son para destacar a los hombres por lo que hicieron; está estructurado cuidadosamente, siguiendo el hilo de lo que Dios fué haciendo según Su plan predeterminado. 
 
 #### La estructura de toledot no es solo una forma de organizar el material. Funciona como un faro narrativo que rastrea la "descendencia" prometida de Génesis 3:15 a través de la historia.
 
@@ -900,49 +898,53 @@ Reconocimientos
 
 ##### Mantiene la narrativa enfocada.
 
-##### Organiza la historia en torno a la simiente prometida.
+##### Organiza la historia en torno a La Simiente prometida.
 
 ##### Asegura que el lector siga la línea de redención.
 
 ##### Conecta Génesis 3:15 con el resto de las Escrituras.
 
-##### Todo el libro funciona como un embudo genealógico, que se estrecha hasta el cumplimiento final en Jesucristo (cf. Lucas 3, Mateo 1).
+##### Todo el libro funciona como un embudo genealógico, que se estrecha hasta el cumplimiento final en Jesucristo. Lucas 3; Mateo 1
 
-### Analicemos esto de forma clara y sencilla según la promesa de Génesis 3:15
+### Analicemos brevemente la promesa de Génesis 3:15...
 
-#### Dios le dice a la serpiente: *«Pondré enemistad entre ti y la mujer, y entre tu descendencia y la suya; él te herirá en la cabeza,y tú le herirás en el talón»*.
+#### Dios le dice a la serpiente: *«Pondré enemistad entre ti y la mujer, y entre tu descendencia y la suya; él te herirá en la cabeza,y tú le herirás en el talón»*. (Luego veremos este versículo en más detalle pero por el momento queremos destacar 4 detalles de la Promesa que Dios hace en Génesis 3:15...)
 
-##### Luego veremos este versículo en más detalle pero por el momento queremos destacar 4 detalles de la Promesa que Dios hace en Génesis 3:15...
+###### Introduce dos líneas de descendencia ("*tu descendencia y la suya...*").
 
-###### Introduce dos líneas de "descendencia". 
+###### Introduce un futuro descendiente masculino ("*Él*"). 
 
-###### Introduce un futuro descendiente masculino ("Él"). 
+###### Introduce un conflicto global que Dios inícia ("*pondré enemistad...*").
 
-###### Introduce un conflicto global.
+###### Introduce una esperanza de victoria sobre el mal ("*herirá en la cabeza*").
 
-###### Introduce una esperanza de victoria sobre el mal.
+###### A partir de este momento, la Biblia comienza una búsqueda por La Simiente prometida: ¿Quién será la descendencia prometida? ¿De dónde viene? ¿Qué linaje transmitirá la promesa?
 
-#### A partir de este momento, la Biblia comienza una búsqueda por La Simiente: ¿Quién será la descendencia prometida? ¿De dónde viene? ¿Qué linaje transmitirá la promesa?
+##### Las secciones de toledot del Génesis responden intencionalmente a estas preguntas. Cada sección de Toledot retoma la búsqueda de La Simiente. Génesis contiene 11 secciones distinguidas por la palabra Toledot. 
 
-#### Las secciones de toledot del Génesis responden intencionalmente a estas preguntas. Cada sección de Toledot retoma la búsqueda de la simiente. Génesis contiene 11 secciones distinguidas por la palabra Toledot. 
+###### Cada Toledot contiene: El trasfondo (o en base) de lo que antecede, un patriarca receptor, la descendencia del patriarca, un receptor elegido (por Dios, y por gracia) entre toda la descendencia para ser portador de la simiente, y por último contiene un avanza de la historia hacia el Mesías.
 
-#### Cada Toledot contiene: El trasfondo (o en base) de lo que antecede, un patriarca receptor, la descendencia del patriarca, un receptor elegido (por Dios, y por gracia) entre toda la descendencia para ser portador de la simiente, y por último contiene un avanza de la historia hacia el Mesías.
+###### Este es el hilo que nos presenta Génesis de precursores de La Simiente prometida: Dios (Yahvé) →Eva → Set → Noé → Sem → Taré → Abraham → Isaac → Jacob → Judá → David → Mesías. 
 
-#### (Para más detalles sobre los toledot en Génesis, ver el apéndice de este manual) 
+###### Ninguno de estos son escogidos por el hombre. El plan de Dios de ninguna manera depende de ningún hombre. Es decir, es exclusivamente Dios quien mantiene seguro y fiel su promesa que encontramos en Génesis 3:15. El resto de las Escrituras seguirían revelando más detalles y siendo más específicos pero todo basado en el plan de Redención de Dios. 
 
-#### En resumen, Dios mostrará Su fidelidad y soberanía por medio del Cumplimiento fiel de Su Promesa. A través de la historia humana, Dios orquesta Su plan de Redención. 
+##### Génesis termina con el foco puesto en el linaje real de Judá (Génesis 49:10), preparando al lector para la venida del Rey. Después de Judá veremos que proceden David y luego El Mesías. 
 
-### Génesis 2:5 *Aún no había ningún arbusto del campo en la tierra, ni había aún brotado ninguna planta del campo, porque el SEÑOR Dios no había enviado lluvia sobre la tierra, ni había hombre para labrar la tierra.*
+#### En resumen, Dios mostrará Su fidelidad y soberanía por medio del cumplimiento fiel de Su Promesa. A través de la historia humana, Dios orquesta Su plan de Redención. 
 
-### Génesis 2:6 *Pero se levantaba de la tierra un vapor que regaba toda la superficie del suelo.*
+##### (Para más detalles sobre los toledot en Génesis, ver el apéndice de este manual) 
 
-#### En todas las referencias anteriores a Dios hasta este punto, Dios usa el nombre Elohim, que significa "El Creador" y habla del poder y la fuerza de Dios. Sin embargo, comenzando en el versículo 4,
-
-#### Dios usa el nombre de Jehová, Yahvé, "EL que es", el auto-existente, "YO SOY".
+### Génesis 2:4b "*...el día en que el SEÑOR Dios hizo la tierra y los cielos...*" En todas las referencias anteriores a Dios hasta este punto, Dios usa el nombre Elohim, que significa "el creador" y habla del poder y la fuerza de Dios. Comenzando en este versículo, Dios usa el nombre de Jehová, Yahvé, "El que es", el auto-existente, el "Yo Soy".
 
 #### A lo largo del Antiguo Testamento, hay muchos nombres que se usan para Dios, todos con significados específicos. Esto habla del deseo de Dios de que la humanidad lo conozca, de saber cómo es Él y cómo es Su corazón. Una vez más, la razón de esto es que Él desea tener una relación con nosotros.
 
-#### Observe en el versículo 6 que en ese momento, la tierra estaba regada con una niebla que se elevaba de la tierra. En ese momento, no llovía.
+### Génesis 2:5a "*Aún no había ningún arbusto del campo en la tierra, ni había aún brotado ninguna planta del campo...*" Aquí habla de arbustos y plantas en el campo. 
+
+### Génesis 2:5b "*...porque el SEÑOR Dios no había enviado lluvia sobre la tierra, ni había hombre para labrar la tierra.*"
+
+#### 
+
+### Génesis 2:6 *Pero se levantaba de la tierra un vapor que regaba toda la superficie del suelo.* En ese momento, la tierra estaba regada con una niebla que se elevaba de la tierra. En ese momento, no llovía.
 
 ## Génesis 2:7-8 - Dios puso a Adán en el jardín (Nehemías 9:25; Salmo 31:19, 103:1-5; Santiago 1:17-18)
 
@@ -5865,10 +5867,6 @@ Tabla resumiendo los 11 Toledot de Génesis
 ### Es importante aclarar que ninguno de los escogidos para ser ancestro de La Simiente es por mérito o alguna cosa que les haga aptos merecedores de tal privilegio. Simplemente Dios los escogió por su gracia y para demostrar que Su plan redentor no depende de ningún ser humano. 
 
 ### Esto nos ayuda entender que no hay heroes humanos en Génesis. Los hombres y mujeres que entran en la narrativa son en conexión al propósito que Dios tiene de seguir el linaje del Redentor. 
-
-#### Este es el orden de precursores: Dios →Eva → Set → Noé → Sem → Taré → Abraham → Isaac → Jacob → Judá → David → Mesías. Ninguno de estos son escogidos por el hombre. El plan de Dios de ninguna manera depende de ningún hombre. 
-
-#### Génesis termina con el foco puesto en el linaje real de Judá (Génesis 49:10), preparando al lector para la venida del Rey.
 
 # BIBLIOGRAFÍA
 
