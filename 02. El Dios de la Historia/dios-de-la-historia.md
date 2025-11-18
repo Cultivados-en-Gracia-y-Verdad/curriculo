@@ -78,15 +78,11 @@ Reconocimientos
 
 ### Su enfoque estará en sí mismos y en su devoción a Dios y en sus compromisos de vivir una vida santa en lugar de las provisiones que Dios **ya les ha dado**. Por defecto, los llevaremos a pensar que necesitan <u>hacer</u> algo para obtener la bendición y la aceptación de Dios en lugar de descansar en lo que Él ya ha hecho y dado a través de Cristo.
 
-### Cuando comienzas por el principio, (es decir, antes de Génesis con 2 Timoteo 1:9-10; 1 Pedro 1:19-20; Efesios 1:4) y proporcionas un desarrollo fundamental y progresivo de todo el contexto de la Palabra de Dios, entonces puedes ver más claramente los atributos y el carácter de Dios vividos a través de Su interacción con la humanidad. Te vas con una perspectiva más clara en cuanto a:
+### Cuando comienzas por el principio, (es decir, antes de Génesis con 2 Timoteo 1:9-10; 1 Pedro 1:19-20; Efesios 1:4) y proporcionas un desarrollo fundamental y progresivo de todo el contexto de la Palabra de Dios, entonces puedes ver más claramente los atributos y el carácter de Dios vividos a través de Su interacción con la humanidad. 
 
-#### Como Dios es realmente
+### Te vas con una perspectiva más clara en cuanto a: Como Dios es realmente, Como realmente es la raza humana (y de lo que es capaz), La interacción de Dios con el hombre. 
 
-#### Como realmente es la raza humana (y de lo que es capaz)
-
-#### La interacción de Dios con el hombre
-
-#### La imagen clara que proporciona el "telón de fondo" principal del contexto para toda la Palabra de Dios: DIOS, el Dios todopoderoso, soberano, supremo, santo, amoroso y misericordioso, Creador y Salvador, que se extiende para desarrollar Su plan de redención para una raza humana ciega, ignorante, indefensa, malvada y pecadora.
+#### La imagen clara que proporciona el "telón de fondo" principal del contexto para toda la Palabra de Dios: Dios, el Dios todopoderoso, soberano, supremo, santo, amoroso y misericordioso, creador y salvador, que se extiende para desarrollar Su plan de redención para una raza humana ciega, ignorante, indefensa, malvada y pecadora.
 
 ### Ver claramente quién es Dios y quiénes somos nosotros es clave para obtener una perspectiva adecuada del contexto.
 
@@ -406,8 +402,6 @@ Reconocimientos
 
 #### Para nosotros hoy como cristianos, aquí es donde comienza la piedad, con Dios el Creador soberano como el primer foco de nuestros pensamientos.
 
-## Dios creó los cielos
-
 ### Génesis 1:1b "*En el principio Dios creó **los cielos**...*"
 
 #### Cielo SHAHAQ (“vapor”, Deuteronomio 33:26; 2 Samuel 22:12; Job 37:18). Puede referirse a las nubes o al firmamento. “Y a través de los cielos en Su majestad” (Deuteronomio 33:26). Es una expresión figurativa que denota omnipotencia.[^4]
@@ -510,8 +504,6 @@ Reconocimientos
 
 ##### Entonces, podemos deducir que los ángeles fueron creados entre el primer día y tercer día pero tenían que estar presentes por lo menos para ver el cuarto día. 
 
-## Dios creó la tierra
-
 ### Génesis 1:1c "*En el principio Dios creó los cielos **y la tierra**.*" Nuevamente, de la nada, Dios creó. De lo que no existía absolutamente nada, ahora tenemos cielos y tierra porque Dios los creó. Es importante entender que no había nada antes que Dios lo creara. Antes del principio solo estaba Dios el Padre, Dios el Hijo y Dios el Espíritu Santo. 
 
 #### ¿Cómo era cuando la creó?
@@ -530,9 +522,7 @@ Reconocimientos
 
 ##### La narrativa nos atrae como un magneto porque contiene y responde los aspectos más existenciales: De donde venimos y porque existimos...
 
-## Dios creó la luz
-
-### Génesis 1:3 "*Y dijo Dios: Sea la luz; y fue la luz.*" Nuestra historia no empieza por un accidente sin causa ni razón. Nuestra historia empieza con Dios creando y luego entrando cuidadosamente a formar su creación y llenarlo de cosas maravillosas que delatan un diseñador hábil y creativo. 
+### Génesis 1:3 "*Y dijo Dios: **Sea la luz**; y fue la luz.*" Nuestra historia no empieza por un accidente sin causa ni razón. Nuestra historia empieza con Dios creando y luego entrando cuidadosamente a formar su creación y llenarlo de cosas maravillosas que delatan un diseñador hábil y creativo. 
 
 #### A diferencia de algunos artistas, Dios no nos deja con una creación abstracto para que lleguemos a conclusiones indecisas e incongruentes. El propósito de crearnos la tierra y los cielos es para revelarse claramente por medio de lo que ha creado. 
 
@@ -556,7 +546,7 @@ Reconocimientos
 
 #### Este ciclo de "día y noche" continuará hasta el fin de los tiempos, porque Dios es fiel y Él es el sustentador de todas las cosas.
 
-## Génesis 1:6-8 - El segundo día, Dios creó la atmósfera
+## Génesis 1:6-8 - El segundo día, Dios creó los cielos
 
 ### Génesis 1:6 *Luego dijo Dios: Haya expansión en medio de las aguas, y separe las aguas de las aguas.* El segundo día Dios separa las aguas en la expansión. Dios quizo separar dos aguas con una expansión en el medio. 
 
@@ -670,13 +660,17 @@ Reconocimientos
 
 ### Génesis 1:23 *Y fue la tarde y la mañana el día quinto.*
 
-### Dios creó numerosos tipos de criaturas acuáticas y aves de innumerables diseños y formas. Cuanto más busca el hombre en las profundidades oceánicas y en los lugares remotos de la tierra, más tipos de vida marina y aves se descubren. Con respecto a los mares, una cita que encontré decía: "*Más de un millón de especies conocidas de plantas y animales viven allí y los científicos dicen que puede haber como hasta nueve millones de especies que aún no hemos descubierto*".
+#### Dios creó numerosos tipos de criaturas acuáticas y aves de innumerables diseños y formas. Cuanto más busca el hombre en las profundidades oceánicas y en los lugares remotos de la tierra, más tipos de vida marina y aves se descubren. Con respecto a los mares, una cita que encontré decía: "*Más de un millón de especies conocidas de plantas y animales viven allí y los científicos dicen que puede haber como hasta nueve millones de especies que aún no hemos descubierto*".
 
-### Dios creó a cada ser viviente para que solo pudiera reproducirse "*según su especie.*La frase "*según su género*" se repite diez veces en el primer capítulo del Génesis. El ADN de cada organismo fue creado y programado por Dios para que solo pueda guiar en la reproducción del mismo tipo. Aunque son posibles grandes variaciones dentro de cada "tipo", la evolución de nuevos "tipos" es imposible.
+#### Dios creó a cada ser viviente para que solo pudiera reproducirse "*según su especie.*La frase "*según su género*" se repite diez veces en el primer capítulo del Génesis. El ADN de cada organismo fue creado y programado por Dios para que solo pueda guiar en la reproducción del mismo tipo. Aunque son posibles grandes variaciones dentro de cada "tipo", la evolución de nuevos "tipos" es imposible.
 
-### Incluso las criaturas más pequeñas y ordinarias son creación de Dios y son increíblemente complejas. Escuche esta cita: "*La biología molecular ha demostrado que incluso el más simple de todos los sistemas vivos de la tierra hoy en día, las células bacterianas, son extremadamente complejas. Aunque las células bacterianas más pequeñas son increíblemente pequeñas, pesan menos de 10-12 gramos, cada una es en realidad una verdadera fábrica microminiaturizada que contiene miles de piezas exquisitamente diseñadas de intrincada maquinaria molecular, compuesta en total por cien mil millones de átomos. Son mucho más complicados que cualquier máquina construida por el hombre y absolutamente sin paralelo en el mundo vivo.*"
+##### Incluso las criaturas más pequeñas y ordinarias son creación de Dios y son increíblemente complejas. "*La biología molecular ha demostrado que incluso el más simple de todos los sistemas vivos de la tierra hoy en día, las células bacterianas, son extremadamente complejas...*"
 
-### Nuestro Dios es todopoderoso y Él hizo todo por Su propio gran entendimiento.
+##### "*Los seres humanos tenemos 1 célula de las de bacteria por cada una de las nuestras, pero como ellas son significativamente más pequeñas, pesan menos. En total, los 39 billones calculados en las últimas estimaciones, equivalen a 1 ó 2 kilos a lo sumo.*[^6]
+
+##### "*Cada bacteria es en realidad una verdadera fábrica microminiaturizada que contiene miles de piezas exquisitamente diseñadas de intrincada maquinaria molecular, compuesta en total por cien mil millones de átomos. Son mucho más complicados que cualquier máquina construida por el hombre y absolutamente sin paralelo en el mundo vivo.*"
+
+##### Nuestro Dios es todopoderoso y Él hizo todo por Su propio gran entendimiento.
 
 ## Génesis 1:24-25 - El sexto día, Dios creó a los animales
 
@@ -684,25 +678,23 @@ Reconocimientos
 
 ### Génesis 1:25 *E hizo Dios animales de la tierra según su género, y ganado según su género, y todo animal que se arrastra sobre la tierra según su especie. Y vio Dios que era bueno.*
 
-### Dios creó un número y una variedad inconcebibles de animales y creó cada tipo con características únicas y con la capacidad de reproducir solo otros animales de su propia especie. Para tener un poco más de perspectiva, tenga en cuenta esto: el reino animal se divide en unos 30 filos. Los nueve filos más grandes contienen la mayoría de las especies. Un filo, los artrópodos, que incluye insectos y arañas, constituye aproximadamente el 75 por ciento de todas las especies animales conocidas. Se han descrito más de 900.000 artrópodos y, según algunas estimaciones, puede haber más de cinco millones más.
+#### Dios creó un número y una variedad inconcebibles de animales y creó cada tipo con características únicas y con la capacidad de reproducir solo otros animales de su propia especie. Para tener un poco más de perspectiva, tenga en cuenta esto: el reino animal se divide en unos 30 filos. Los nueve filos más grandes contienen la mayoría de las especies. Un filo, los artrópodos, que incluye insectos y arañas, constituye aproximadamente el 75 por ciento de todas las especies animales conocidas. Se han descrito más de 900.000 artrópodos y, según algunas estimaciones, puede haber más de cinco millones más.
 
-### El número de especies conocidas para todos los animales que no sean artrópodos es de aproximadamente 250,000. El grupo más grande dentro de los filos de artrópodos y la clase más diversa en todos los reinos son los insectos. Se han descrito más de 750.000. Algunos suponen que hay quizás hasta tres millones de especies diferentes de insectos en el mundo. La familia de insectos más diversa son los escarabajos, con más de 375,000 tipos identificados.
+#### El número de especies conocidas para todos los animales que no sean artrópodos es de aproximadamente 250,000. El grupo más grande dentro de los filos de artrópodos y la clase más diversa en todos los reinos son los insectos. Se han descrito más de 750.000. Algunos suponen que hay quizás hasta tres millones de especies diferentes de insectos en el mundo. La familia de insectos más diversa son los escarabajos, con más de 375,000 tipos identificados.
 
-### Otras grandes familias de insectos incluyen mariposas y polillas (más de 100,000 especies), abejas y avispas (más de 20,000 especies) y hormigas (alrededor de 10,000 especies).
+#### Otras grandes familias de insectos incluyen mariposas y polillas (más de 100,000 especies), abejas y avispas (más de 20,000 especies) y hormigas (alrededor de 10,000 especies).
 
-### Con más de 30.000 especies conocidas, las arañas, que no son insectos, constituyen una de las grandes familias de otros tipos de artrópodos.
+#### Con más de 30.000 especies conocidas, las arañas, que no son insectos, constituyen una de las grandes familias de otros tipos de artrópodos.
 
-### Solo se sabe que otros dos filos dentro del reino animal, los gusanos redondos y los moluscos, contienen más de 100.000 especies. Todos los demás filos generalmente tienen mucho menos.
+#### Solo se sabe que otros dos filos dentro del reino animal, los gusanos redondos y los moluscos, contienen más de 100.000 especies. Todos los demás filos generalmente tienen mucho menos.
 
-### Los filos dominantes en el planeta, los vertebrados, consisten en menos de 50.000 especies conocidas. Se estima que el número de especies de peces es de más de 20.000, las especies de aves aproximadamente 8.700, los reptiles alrededor de 6.000, los mamíferos alrededor de 4.500 y los anfibios alrededor de 2.500. Dentro de los mamíferos, los roedores son el orden más variado, con 34 familias y más de 1.700 especies.
+#### Los filos dominantes en el planeta, los vertebrados, consisten en menos de 50.000 especies conocidas. Se estima que el número de especies de peces es de más de 20.000, las especies de aves aproximadamente 8.700, los reptiles alrededor de 6.000, los mamíferos alrededor de 4.500 y los anfibios alrededor de 2.500. Dentro de los mamíferos, los roedores son el orden más variado, con 34 familias y más de 1.700 especies.
 
-### Cada acto de la creación reveló algún aspecto del carácter glorioso de Dios. De este primer capítulo del primer libro de la Biblia, que cubre los primeros actos registrados que Dios había realizado, ¿cuáles son algunos de los atributos y características de Dios que hemos visto hasta ahora?
+#### Cada acto de la creación reveló algún aspecto del carácter glorioso de Dios. De este primer capítulo del primer libro de la Biblia, que cubre los primeros actos registrados que Dios había realizado, ¿cuáles son algunos de los atributos y características de Dios que hemos visto hasta ahora? 
 
-### Lee Romanos 1:20. 
+#### Cuantos más hechos y detalles aprendamos sobre la creación de Dios, más comenzaremos a comprender Su grandeza y maravilla. Romanos 1:20
 
-### Cuantos más hechos y detalles aprendamos sobre la creación de Dios, más comenzaremos a comprender Su grandeza y maravilla.
-
-### Entonces, ¿qué significa eso para nosotros hoy, unos pocos miles de años después del evento?
+#### Entonces, ¿qué significa eso para nosotros hoy, unos pocos miles de años después del evento?
 
 ## Preguntas de revisión
 
@@ -738,49 +730,37 @@ Reconocimientos
 
 ### Génesis 1:26 *Entonces dijo Dios: Hagamos al hombre a nuestra imagen, conforme a nuestra semejanza; y señoree en los peces del mar, en las aves de los cielos, en las bestias, en toda la tierra, y en todo animal que se arrastra sobre la tierra.*
 
-### Génesis 1:27 *Y creó Dios al hombre a su imagen, a imagen de Dios lo creó; varón y hembra los creó.*
+### Génesis 1:27 *Y creó Dios al hombre a su imagen, a imagen de Dios lo creó; varón y hembra los creó.* 
 
-### Génesis 1:28 *Y los bendijo Dios, y les dijo: Fructificad y multiplicaos; llenad la tierra, y sojuzgadla, y señoread en los peces del mar, en las aves de los cielos, y en todas las bestias que se mueven sobre la tierra.*
+#### Dios creó al primer hombre y luego, el mismo día, creó a la primera mujer. Más adelante en Génesis 2 nos enfocaremos en los detalles de Su creación de Eva, pero por ahora, nos enfocaremos en Su creación de Adán.
+
+#### Dios hizo el cuerpo de Adán de la tierra. Cuando Dios creó todo lo demás, simplemente habló y aparecieron. Formó a todos los animales por una orden a la tierra para que los produjera. Pero cuando hizo al primer hombre, formó personalmente el cuerpo del hombre de la tierra. El cuerpo del hombre fue formado por la intervención inmediata de Dios. No creció; ni fue producido por ningún proceso de desarrollo. Compare Génesis 1:24 con 2:7.
+
+##### Génesis 2:7 "*Entonces Jehová Dios formó al hombre del polvo de la tierra, y sopló en su nariz aliento de vida, y fue el hombre un ser viviente.*"
+
+##### Después de que Dios creó el cuerpo de Adán, todavía no tenía vida. Cada parte de él estaba perfectamente formada, pero estaba sin vida. Su alma y espíritu, que dieron vida al cuerpo, aún no habían sido creados. ¿Qué hizo Dios para darle vida a Adán? Le dio vida al cuerpo de Adán. El alma del hombre se derivó de Dios. Sopló en el hombre "el aliento de vida", es decir, esa vida que lo constituyó en hombre, una criatura viviente portadora de la imagen de Dios. Cuando Dios insufló vida a Adán, se convirtió en una persona viva. Solo Dios puede dar vida. Él es la fuente de toda vida y le dio vida a Adán.
+
+###### Miremos el ejemplo de muchas máquinas eléctricas. Sin poder, son inútiles y sin valor. La electricidad les da vida, por así decirlo. Nuestros cuerpos son iguales. Sin la vida de Dios, estarían muertos y sin valor. Esta es una verdad fundamental importante sobre Dios que proporciona una imagen física de la verdad espiritual. Porque así como fue ÉL quien dio vida física a Adán y Eva, así Él es la verdadera y única fuente de vida espiritual. Jesús dijo: "*YO SOY el camino, la verdad y la VIDA.*"
+
+### Génesis 1:28 *Y los bendijo Dios, y les dijo: Fructificad y multiplicaos; llenad la tierra, y sojuzgadla, y señoread en los peces del mar, en las aves de los cielos, y en todas las bestias que se mueven sobre la tierra.* Dios hizo solo un hombre y una mujer. Dios les ordenó entonces que tuvieran hijos para que, con el tiempo, el mundo se publara. Dios hizo al primer hombre y mujer administradores de toda la vida en la tierra.
 
 ### Génesis 1:29 *Y dijo Dios: He aquí que os he dado toda planta que da semilla, que está sobre toda la tierra, y todo árbol en que hay fruto y que da semilla; os serán para comer.*
 
-### Génesis 1:30 *Y a toda bestia de la tierra, y a todas las aves de los cielos, y a todo lo que se arrastra sobre la tierra, en que hay vida, toda planta verde les será para comer. Y fue así.*
+### Génesis 1:30 *Y a toda bestia de la tierra, y a todas las aves de los cielos, y a todo lo que se arrastra sobre la tierra, en que hay vida, toda planta verde les será para comer. Y fue así.* 
 
-### Génesis 1:31 *Y vio Dios todo lo que había hecho, y he aquí que era bueno en gran manera. Y fue la tarde y la mañana el día sexto.*
+#### Dios le dio al hombre grandes responsabilidades. De acuerdo con Su plan, del cual leemos en el versículo 26, Dios puso a Adán y Eva a cargo de la tierra y de todo lo que hay en ella. Les explicó que debían ser sus representantes en la tierra. Tomemos, por ejemplo, un gerente o un padre que entrega un negocio a un hijo. De la misma manera, Dios designó al primer hombre para que fuera supervisor y cuidador de todo lo que Dios había creado en la tierra.
 
-### Dios creó al primer hombre y luego, el mismo día, creó a la primera mujer. Más adelante en Génesis 2 nos enfocaremos en los detalles de Su creación de Eva, pero por ahora, nos enfocaremos en Su creación de Adán.
+#### ¿Por qué Dios tenía la autoridad para darles esta posición? y ¿responsabilidad? Porque Él había creado todo, y Él tenía el derecho de hacer lo que quisiera con Su creación.
 
-### Dios hizo el cuerpo de Adán de la tierra. Cuando Dios creó todo lo demás, simplemente habló y aparecieron. Formó a todos los animales por una orden a la tierra para que los produjera. Pero cuando hizo al primer hombre, formó personalmente el cuerpo del hombre de la tierra. El cuerpo del hombre fue formado por la intervención inmediata de Dios. No creció; ni fue producido por ningún proceso de desarrollo. Compare Génesis 1:24 con 2:7.
+##### Salmo 24:1-2 *De Jehová es la tierra y su plenitud; El mundo, y los que en él habitan. Porque él la fundó sobre los mares, Y la afirmó sobre los ríos.*
 
-### Génesis 2:7 "*Entonces Jehová Dios formó al hombre del polvo de la tierra, y sopló en su nariz aliento de vida, y fue el hombre un ser viviente.*"
+###### Debido a que Dios creó y posee legítimamente la tierra, pudo confiarla a quien quisiera. Dios, el Creador de todas las cosas, dio la tierra a Adán y Eva. Él tenía la autoridad para hacer esto porque Él es supremo y soberano.
 
-### Después de que Dios creó el cuerpo de Adán, todavía no tenía vida. Cada parte de él estaba perfectamente formada, pero estaba sin vida. Su alma y espíritu, que dieron vida al cuerpo, aún no habían sido creados. ¿Qué hizo Dios para darle vida a Adán? Le dio vida al cuerpo de Adán. El alma del hombre se derivó de Dios. Sopló en el hombre "el aliento de vida", es decir, esa vida que lo constituyó en hombre, una criatura viviente portadora de la imagen de Dios. Cuando Dios insufló vida a Adán, se convirtió en una persona viva. Solo Dios puede dar vida. Él es la fuente de toda vida y le dio vida a Adán.
+### Génesis 1:31 *Y vio Dios todo lo que había hecho, y he aquí que era bueno en gran manera. Y fue la tarde y la mañana el día sexto.* Todo lo que Dios hizo fue bueno.
 
-### Dé el ejemplo de muchas máquinas eléctricas. Sin poder, son inútiles y sin valor. La electricidad les da vida, por así decirlo. Nuestros cuerpos son iguales. Sin la vida de Dios, estarían muertos y sin valor. Esta es una verdad fundamental importante sobre Dios que proporciona una imagen física de la verdad espiritual. Porque así como fue ÉL quien dio vida física a Adán y Eva, así Él es la verdadera y única fuente de vida espiritual. Jesús dijo: "*YO SOY el camino, la verdad y la VIDA.*"
+#### ¿Por qué todo lo que Dios hizo fue "muy bueno"? Debido a que Dios es perfecto y bueno, todo lo que hizo fue perfecto. Al principio, el clima era perfecto. Ningún animal dañaría al hombre. No había espinas, cardos o malas hierbas que arruinaran la tierra. Todo fue completamente sin fallas ni fallas. ¡Todo fue creado como un verdadero reflejo del carácter santo de Dios!
 
-### Lea Génesis 1:27-28
-
-### Dios hizo solo un hombre y una mujer. Dios les ordenó entonces que tuvieran hijos para que, con el tiempo, el mundo se publara. Dios hizo al primer hombre y mujer administradores de toda la vida en la tierra.
-
-### Lea Génesis 1:28-30
-
-### Dios le dio al hombre grandes responsabilidades. De acuerdo con Su plan, del cual leemos en el versículo 26, Dios puso a Adán y Eva a cargo de la tierra y de todo lo que hay en ella. Les explicó que debían ser sus representantes en la tierra. Tomemos, por ejemplo, un gerente o un padre que entrega un negocio a un hijo. De la misma manera, Dios designó al primer hombre para que fuera supervisor y cuidador de todo lo que Dios había creado en la tierra.
-
-### ¿Por qué Dios tenía la autoridad para darles esta posición? y ¿responsabilidad? Porque Él Tenía creó todo, y Él tenía el derecho de hacer lo que quisiera con Su creación.
-
-#### Salmo 24:1 *De Jehová es la tierra y su plenitud; El mundo, y los que en él habitan.*
-
-#### Salmo 24:2 *Porque él la fundó sobre los mares, Y la afirmó sobre los ríos.*
-
-### Debido a que Dios creó y posee legítimamente la tierra, pudo confiarla a quien quisiera. Dios, el Creador de todas las cosas, dio la tierra a Adán y Eva. Él tenía la autoridad para hacer esto porque Él es supremo y soberano.
-
-### Todo lo que Dios hizo fue bueno.
-
-### Lee Génesis 1:31
-
-### ¿Por qué todo lo que Dios hizo fue "muy bueno"? Debido a que Dios es perfecto y bueno, todo lo que hizo fue perfecto. Al principio, el clima era perfecto. Ningún animal dañaría al hombre. No había espinas, cardos o malas hierbas que arruinaran la tierra. Todo fue completamente sin fallas ni fallas. ¡Todo fue creado como un verdadero reflejo del carácter santo de Dios!
-
-### Los ángeles de Dios, incluido Lucifer, fueron testigos de la creación del hombre por parte de Dios. Los ángeles de Dios, incluido su líder Lucifer, estaban observando cuando Dios preparó la tierra y luego hizo al hombre. Los ángeles cantaron juntos con alegría, alabando y adorando a Dios por su gran poder y sabiduría que se demostraron al crear todas las cosas (Job 38:4-11).
+#### Los ángeles de Dios, incluido Lucifer, fueron testigos de la creación del hombre por parte de Dios. Los ángeles de Dios, incluido su líder Lucifer, estaban observando cuando Dios preparó la tierra y luego hizo al hombre. Los ángeles cantaron juntos con alegría, alabando y adorando a Dios por su gran poder y sabiduría que se demostraron al crear todas las cosas (Job 38:4-11).
 
 ## Dios planeó crear al hombre a su propia imagen (Juan 14:1-3)
 
@@ -804,7 +784,7 @@ Reconocimientos
 
 ### Por último, al hombre se le debía dar una voluntad para que pudiera elegir llevar a cabo la voluntad de Dios en la tierra, no como un robot, sino como alguien que escucharía a Dios, lo apreciaría y lo amaría, y elegiría obedecerlo. El hombre fue creado como un ser racional, moral y espiritual, porque fue creado a imagen de Dios. 
 
-### NOTA: Dios no creó al hombre a Su imagen con el propósito de que el hombre se volviera "grande e independiente". ¡Él creó al hombre a Su imagen para que el hombre pudiera comulgar íntimamente con Él y reflejarle!
+### NOTA: Dios no creó al hombre a Su imagen con el propósito de que el hombre se volviera "grande e independiente". ¡Él creó al hombre a Su imagen para que el hombre pudiera comulgar íntimamente con Él y reflejarle por toda la tierra!
 
 ## El hombre debía ser administrador de Su creación en la tierra
 
@@ -814,29 +794,31 @@ Reconocimientos
 
 ## Génesis 2:1 - Dios terminó Su obra de creación
 
-### Dios terminó de crear todo lo que había planeado. Esta es una tremenda manifestación de la sabiduría, la grandeza y el poder de Dios. En seis días literales, Dios había hablado para que existiera cada pedazo de la creación que alguna vez haya existido.
+### Génesis 2:1 Así fueron acabados los cielos y la tierra y todas sus huestes.
 
-### La cantidad de variedad que Él creó es tan vasta, que hoy, miles de años después, el hombre aún no la ha descubierto toda. Cosas que son tan diminutas que ni siquiera podemos verlas sin el uso de microscopios potentes. Luego, en el otro extremo del espectro, creó cosas que son tan grandes, incluso más grandes que la tierra, pero están colocadas tan lejos, que es imposible para nosotros verlas sin el más grande de los telescopios.
+#### Dios terminó de crear todo lo que había planeado. Esta es una tremenda manifestación de la sabiduría, la grandeza y el poder de Dios. En seis días literales, Dios había hablado para que existiera cada pedazo de la creación que alguna vez haya existido.
 
-### Sin embargo, las Escrituras nos dicen que Él puede volver a medirlo todo con el palmo de Su mano. Todo esto fue hablado para que existiera de la nada en seis días literales. ¿Cuánto tiempo le toma al hombre construir una sola casa?
+#### La cantidad de variedad que Él creó es tan vasta, que hoy, miles de años después, el hombre aún no la ha descubierto toda. Cosas que son tan diminutas que ni siquiera podemos verlas sin el uso de microscopios potentes. Luego, en el otro extremo del espectro, creó cosas que son tan grandes, incluso más grandes que la tierra, pero están colocadas tan lejos, que es imposible para nosotros verlas sin el más grande de los telescopios.
 
-### Dios sabía exactamente todo lo que iba a crear, y en qué consistiría todo, tanto que incluso sabía cuándo lo había completado. Y lo completó. ¿Cuántas veces nosotros, como humanos, comenzamos algo que no terminamos? Pero, Dios nunca lo hace. Él siempre completa lo que comienza. Este es un punto muy significativo sobre Dios que tiene una tremenda aplicación para nosotros hoy como cristianos.
+#### Sin embargo, las Escrituras nos dicen que Él puede volver a medirlo todo con el palmo de Su mano. Todo esto fue hablado para que existiera de la nada en seis días literales. ¿Cuánto tiempo le toma al hombre construir una sola casa?
 
-### Lea Filipenses 1:6.
+#### Dios sabía exactamente todo lo que iba a crear, y en qué consistiría todo, tanto que incluso sabía cuándo lo había completado. Y lo completó. ¿Cuántas veces nosotros, como humanos, comenzamos algo que no terminamos? Pero, Dios nunca lo hace. Él siempre completa lo que comienza. Este es un punto muy significativo sobre Dios que tiene una tremenda aplicación para nosotros hoy como cristianos. Filipenses 1:6
 
 ##  Génesis 2:2-3 - Dios descansó de Su obra de creación
 
-### En el séptimo día, Dios descansó de Su obra de creación. Como humanos, todos necesitamos descansar después de un duro día de trabajo, pero Dios no es como nosotros. Dios nunca se cansa.
+### Génesis 2:2 *En el séptimo día ya Dios había completado la obra que había estado haciendo, y reposó en el día séptimo de toda la obra que había hecho.*
 
-### Lee Isaías 40:28.
+### Génesis 2:3 *Dios bendijo el séptimo día y lo santificó, porque en él reposó de toda la obra que Él había creado y hecho.*
 
-### La razón por la que Dios descansó fue porque había creado completamente todo lo que había planeado crear. Terminó la creación. Es como nosotros cuando estamos trabajando en un proyecto. Llega un momento en el que terminamos con el proyecto. Tenemos la energía para seguir trabajando, pero dejamos de trabajar en ello porque hemos terminado con eso.
+#### En el séptimo día, Dios descansó de Su obra de creación. Como humanos, todos necesitamos descansar después de un duro día de trabajo, pero Dios no es como nosotros. Dios nunca se cansa.
 
-### Tenga en cuenta el plan de Dios desde antes de la fundación de la tierra (2 Timoteo 1:9; 1 Pedro 1:18-20). Este plan se originó en el corazón de Dios antes de la fundación de la tierra, y luego llegó el momento de que Dios comenzara a llevar a cabo Su plan, y comenzó con la creación.
+#### La razón por la que Dios descansó fue porque había creado completamente todo lo que había planeado crear. Terminó la creación. Es como nosotros cuando estamos trabajando en un proyecto. Llega un momento en el que terminamos con el proyecto. Tenemos la energía para seguir trabajando, pero dejamos de trabajar en ello porque hemos terminado con eso. Isaías 40:28
 
-### Una vez que terminó este paso del plan, estaba completo.
+#### Tenga en cuenta el plan de Dios desde antes de la fundación de la tierra (2 Timoteo 1:9; 1 Pedro 1:18-20). Este plan se originó en el corazón de Dios antes de la fundación de la tierra, y luego llegó el momento de que Dios comenzara a llevar a cabo Su plan, y comenzó con la creación.
 
-### Este lugar donde se llevaría a cabo Su plan estaba completo.
+#### Una vez que terminó este paso del plan, estaba completo.
+
+#### Este lugar donde se llevaría a cabo Su plan estaba completo.
 
 ## Conclusión
 
@@ -864,51 +846,47 @@ Reconocimientos
 
 ## Génesis 2:4-6 Las conditiones de la tierra antes de crear al hombre
 
-### Introducción: Hemos estado observando la grandeza y la maravilla de Dios y cómo si realmente nos detenemos y miramos Su creación con más detalle, realmente podemos ver Su obra y comenzar a vislumbrar la magnitud de Su poder y sabiduría. La creación de Dios es tan vasta y grande que nuestras mentes ni siquiera pueden comenzar a comprender todo lo que contienen los cielos. La tierra también apunta a Su grandeza. Tenemos estos bonitos pinzones de colores que vienen y anidan en un árbol al lado de la ventana de nuestra cocina. Algo tan simple como un pájaro de hermosos colores sentado en una rama verde oscuro puede hacer que te quedes mirando con asombro. Qué maravilloso debe haber sido todo en su perfección. Nuestro Dios todopoderoso no dejó nada sin crear, y Él sabía cuándo había terminado.
-
 ### Génesis 2:4a "*Estos son los orígenes de los cielos y de la tierra cuando fueron creados,*".
 
-#### la palabra "*orígenes*" es TOLEDOT. Tomaremos un momento para entender el uso de esta palabra en Génesis. 
+#### Hemos estado observando la grandeza y la maravilla de Dios y cómo si realmente nos detenemos y miramos Su creación con más detalle, realmente podemos ver Su obra y comenzar a vislumbrar la magnitud de Su poder y sabiduría. La creación de Dios es tan vasta y grande que nuestras mentes ni siquiera pueden comenzar a comprender todo lo que contienen los cielos. La tierra también apunta a Su grandeza. Tenemos estos bonitos pinzones de colores que vienen y anidan en un árbol al lado de la ventana de nuestra cocina. Algo tan simple como un pájaro de hermosos colores sentado en una rama verde oscuro puede hacer que te quedes mirando con asombro. Qué maravilloso debe haber sido todo en su perfección. Nuestro Dios todopoderoso no dejó nada sin crear, y Él sabía cuándo había terminado.
 
-## Breve explicación de la palabra TOLEDOT
+### Breve explicación de la palabra TOLEDOT
 
-### Génesis sigue la simiente prometida trazando un único linaje elegido por Dios —desde Adán (Eva), pasando por Set, Noé, Sem, Abraham, Isaac, Jacob y finalmente Judá— eliminando todos los linajes competidores, culminando en la identificación de la tribu de la que vendrá el Mesías.
+#### la palabra "*orígenes*" es TOLEDOT. Tomaremos un momento para entender el uso de esta palabra en Génesis. También es traducido "generaciónes" o "libro". 
+
+##### Génesis sigue la simiente prometida trazando un único linaje elegido por Dios —desde Adán (Eva), pasando por Set, Noé, Sem, Abraham, Isaac, Jacob y finalmente Judá— eliminando todos los linajes competidores, culminando en la identificación de la tribu de la que vendrá el Mesías.
 
 #### ¿Cómo identificamos esto? 
 
-### Génesis está estructurado en torno a 11 toledot principales, cada uno de los cuales introduce una nueva sección.
+##### Génesis está estructurado en torno a 11 toledot principales, cada uno de los cuales introduce una nueva sección. Los toledot giran en torno a la promesa dada en Génesis 3:15. 
 
-#### Por ejemplo, Génesis 2:4 dice, *«Estos son los toledot de los cielos y de la tierra...»* Esto no significa que los cielos engendraran hijos.
+#### La idea central del Toledot en Génesis
 
-#### Esta frase significa, «Esta es la historia que surgió de los cielos y de la tierra (que provino de Dios) y de los descendientes que vienen a continuación....»
+##### Basado en los resultados o consecuencias de alguien o algo que vino anteriormente presenta lo que viene a continuación; una narración histórica o una transición hacia lo que surgió de una figura o evento. 
 
-### La idea central del Toledot en Génesis
+##### Cada toledot funciona como el título de un capítulo: En otras palabras, «Aquí comienza el relato de lo que surgió de...» Y luego, la siguiente sección desarrolla las consecuencias o la historia.
 
-#### Basado en los resultados o consecuencias de alguien o algo que vino anteriormente presenta lo que viene a continuación; una narración histórica o una transición hacia lo que surgió de una figura o evento. 
+#### ¿Por qué es importante?
 
-#### Cada toledot funciona como el título de un capítulo: En otras palabras, «Aquí comienza el relato de lo que surgió de...» Y luego, la siguiente sección desarrolla las consecuencias o la historia.
+##### Génesis no es una colección aleatoria de historias que son para destacar a los hombres por lo que hicieron; está estructurado cuidadosamente, siguiendo el hilo de lo que Dios fué haciendo según Su plan predeterminado. 
 
-### ¿Por qué es importante?
+##### La estructura de toledot no es solo una forma de organizar el material. Funciona como un faro narrativo que rastrea la "descendencia" prometida de Génesis 3:15 a través de la historia.
 
-#### Génesis no es una colección aleatoria de historias que son para destacar a los hombres por lo que hicieron; está estructurado cuidadosamente, siguiendo el hilo de lo que Dios fué haciendo según Su plan predeterminado. 
+###### Muestra que Génesis es un libro unificado.
 
-#### La estructura de toledot no es solo una forma de organizar el material. Funciona como un faro narrativo que rastrea la "descendencia" prometida de Génesis 3:15 a través de la historia.
+###### Mantiene la narrativa enfocada.
 
-##### Muestra que Génesis es un libro unificado.
+###### Organiza la historia en torno a La Simiente prometida.
 
-##### Mantiene la narrativa enfocada.
+###### Asegura que el lector siga la línea de redención.
 
-##### Organiza la historia en torno a La Simiente prometida.
+###### Conecta Génesis 3:15 con el resto de las Escrituras.
 
-##### Asegura que el lector siga la línea de redención.
+###### Todo el libro funciona como un embudo genealógico, que se estrecha hasta el cumplimiento final en Jesucristo. Lucas 3; Mateo 1
 
-##### Conecta Génesis 3:15 con el resto de las Escrituras.
+#### Analicemos brevemente la promesa de Génesis 3:15...
 
-##### Todo el libro funciona como un embudo genealógico, que se estrecha hasta el cumplimiento final en Jesucristo. Lucas 3; Mateo 1
-
-### Analicemos brevemente la promesa de Génesis 3:15...
-
-#### Dios le dice a la serpiente: *«Pondré enemistad entre ti y la mujer, y entre tu descendencia y la suya; él te herirá en la cabeza,y tú le herirás en el talón»*. (Luego veremos este versículo en más detalle pero por el momento queremos destacar 4 detalles de la Promesa que Dios hace en Génesis 3:15...)
+##### Dios le dice a la serpiente: *«Pondré enemistad entre ti y la mujer, y entre tu descendencia y la suya; él te herirá en la cabeza,y tú le herirás en el talón»*. (Luego veremos este versículo en más detalle pero por el momento queremos destacar 4 detalles de la Promesa que Dios hace en Génesis 3:15...)
 
 ###### Introduce dos líneas de descendencia ("*tu descendencia y la suya...*").
 
@@ -922,15 +900,45 @@ Reconocimientos
 
 ##### Las secciones de toledot del Génesis responden intencionalmente a estas preguntas. Cada sección de Toledot retoma la búsqueda de La Simiente. Génesis contiene 11 secciones distinguidas por la palabra Toledot. 
 
-###### Cada Toledot contiene: El trasfondo (o en base) de lo que antecede, un patriarca receptor, la descendencia del patriarca, un receptor elegido (por Dios, y por gracia) entre toda la descendencia para ser portador de la simiente, y por último contiene un avanza de la historia hacia el Mesías.
+###### Cada toledot contiene: El trasfondo (o en base) de lo que antecede, un patriarca receptor, la descendencia del patriarca, un receptor elegido (por Dios, y por gracia) entre toda la descendencia para ser portador de la simiente, y por último contiene un avanza de la historia hacia el Mesías.
 
-###### Este es el hilo que nos presenta Génesis de precursores de La Simiente prometida: Dios (Yahvé) →Eva → Set → Noé → Sem → Taré → Abraham → Isaac → Jacob → Judá → David → Mesías. 
+##### Llegamos entonces a tener este bosquejo del libro de Génesis, solo observando el uso que Moises le dío a la palabra TOLEDOT.  
 
-###### Ninguno de estos son escogidos por el hombre. El plan de Dios de ninguna manera depende de ningún hombre. Es decir, es exclusivamente Dios quien mantiene seguro y fiel su promesa que encontramos en Génesis 3:15. El resto de las Escrituras seguirían revelando más detalles y siendo más específicos pero todo basado en el plan de Redención de Dios. 
+###### I. Introducción. La creación (1–2) 
 
-##### Génesis termina con el foco puesto en el linaje real de Judá (Génesis 49:10), preparando al lector para la venida del Rey. Después de Judá veremos que proceden David y luego El Mesías. 
+###### II.  Cielos y Tierra (2–4) – (La promesa de un salvador).
 
-#### En resumen, Dios mostrará Su fidelidad y soberanía por medio del cumplimiento fiel de Su Promesa. A través de la historia humana, Dios orquesta Su plan de Redención. 
+###### III.  Adán (5–6) – Set → Noé - (La promesa desarrollada por la genealogía).
+
+###### IV. Noé (6–9) – Linaje preservado (la promesa preservada por medio de juicio).
+
+###### V. Hijos de Noé (10–11) – Sem elegido (La promesa protegida)
+
+###### VI. Sem (11) – Hacia Abram (La promesa se reduce a Abraham). 
+
+###### VII. Taré (11–25) – Abraham → Isaac (La promesa específica por un hijo).
+
+###### VIII.  Ismael (25) – Linaje rechazado ()
+
+###### IX. Isaac (25–35) – Jacob → 12 tribus ()
+
+###### X. Esaú (36) – Linaje rechazado ()
+
+###### XI.  Esaú/Edom (36) – Genealogía cerrada (La promesa reducida a una nación)
+
+###### XII. Jacob (37–50) – Judá elegido (La promesa reducida a una tribu)
+
+###### Promesa → de la mujer → Set → Noé → Sem → Abraham → Isaac → Jacob → Judá.  Una línea clara e ininterrumpida recorre el Génesis hacia el Libertador venidero.
+
+###### Génesis termina con el foco puesto en el linaje real de Judá (Génesis 49:10), preparando al lector para la venida del Rey. Después de Judá veremos que proceden David y luego El Mesías. 
+
+###### Estandarte final: «La simiente viene; él aplastará la cabeza de la serpiente».
+
+##### Ningúna de estas personas llegaron a ser parte por ser escogidos por el hombre. El plan de Dios de ninguna manera depende de ningún hombre. Es decir, es exclusivamente Dios quien mantiene seguro y fiel su promesa a través de la historia. 
+
+##### Así como Génesis revela el mapa hacia el prometido Salvador, el resto de las Escrituras seguirían revelando más detalles y siendo más específicos pero todo basado en el plan de Redención de Dios. 
+
+##### En resumen, Dios mostrará Su fidelidad y soberanía por medio del cumplimiento fiel de Su Promesa. A través de la historia humana, Dios orquesta Su plan de Redención. 
 
 ##### (Para más detalles sobre los toledot en Génesis, ver el apéndice de este manual) 
 
@@ -938,59 +946,63 @@ Reconocimientos
 
 #### A lo largo del Antiguo Testamento, hay muchos nombres que se usan para Dios, todos con significados específicos. Esto habla del deseo de Dios de que la humanidad lo conozca, de saber cómo es Él y cómo es Su corazón. Una vez más, la razón de esto es que Él desea tener una relación con nosotros.
 
-### Génesis 2:5a "*Aún no había ningún arbusto del campo en la tierra, ni había aún brotado ninguna planta del campo...*" Aquí habla de arbustos y plantas en el campo. 
+### Génesis 2:5 "*Aún no había ningún arbusto del campo en la tierra, ni había aún brotado ninguna planta del campo porque el SEÑOR Dios no había enviado lluvia sobre la tierra, ni había hombre para labrar la tierra.*" Antes que Dios había creó el hombre, no había vegetación. Parece implicar que había una gran cantidad de terreno sino trabajarlo. Vemos que el propósito de la vegetación y la tierra era desde el início para el provecho del hombre. 
 
-### Génesis 2:5b "*...porque el SEÑOR Dios no había enviado lluvia sobre la tierra, ni había hombre para labrar la tierra.*"
-
-#### 
-
-### Génesis 2:6 *Pero se levantaba de la tierra un vapor que regaba toda la superficie del suelo.* En ese momento, la tierra estaba regada con una niebla que se elevaba de la tierra. En ese momento, no llovía.
+### Génesis 2:6 *Pero se levantaba de la tierra un vapor que regaba toda la superficie del suelo.* En ese momento, la tierra estaba regada con una niebla que se elevaba de la tierra. En ese momento, no llovía. 
 
 ## Génesis 2:7-8 - Dios puso a Adán en el jardín (Nehemías 9:25; Salmo 31:19, 103:1-5; Santiago 1:17-18)
 
-### Génesis 2:7-8 - Debido al gran amor de Dios por Adán y Eva, preparó un hermoso jardín para ellos. A menudo, todos hacemos cosas realmente especiales el uno por el otro como una forma de mostrar nuestro amor mutuo. Lo mismo sucedió con Dios. Debido a Su amor por el hombre, Él preparó un lugar maravilloso para que el hombre viviera.
+### Génesis 2:7 *Entonces el SEÑOR Dios formó al hombre del polvo de la tierra, y sopló en su nariz el aliento de vida, y fue el hombre un ser viviente.* Dios quiso mostrar que la creación del hombre era una parte muy íntima de su obra maestra. En vez de decir, "hágase el hombre", el formo al hombre y luego introdujo sopló su vida en la nariz del hombre. 
 
-### Los jardines botánicos más exquisitos del mundo no podrían haber tenido una vela para este jardín que fue plantado por Dios mismo. Incluyó en el jardín todas las verduras y árboles frutales que el hombre necesitaría. Creo que Él proveyó lo que necesitarían para sobrevivir, pero también incluyó muchas otras cosas que sabía que disfrutarían, porque Dios es el dador de cosas buenas.
+### Génesis 2:8 *Y el SEÑOR Dios plantó un huerto hacia el oriente, en Edén, y puso allí al hombre que había formado.*
 
-### Cuando Dios tuvo el jardín listo para Adán, Dios no le preguntó a Adán si quería vivir en él. No dijo: "Oye, este jardín es maravilloso, ¿te gustaría vivir en él*?*" Dios lo puso en ella. Dios tenía la autoridad absoluta para colocar a Adán en cualquier lugar que así lo deseara. Dios es el Creador y Dueño todopoderoso de toda Su creación.
+#### Debido al gran amor de Dios por Adán y Eva, preparó un hermoso jardín para ellos. A menudo, todos hacemos cosas realmente especiales el uno por el otro como una forma de mostrar nuestro amor mutuo. Lo mismo sucedió con Dios. Debido a Su amor por el hombre, Él preparó un lugar maravilloso para que el hombre viviera.
 
-### Pero aquí está la cosa: ¡la autoridad de Dios nunca se lleva a cabo sin amor! 1 Juan 4 dice que Dios ES amor. Por lo tanto, ¡absolutamente todo lo que Él hace siempre lo hace con amor, siempre es perfecto y siempre es lo mejor!
+#### Los jardines botánicos más exquisitos del mundo no podrían haber tenido una vela para este jardín que fue plantado por Dios mismo. Incluyó en el jardín todas las verduras y árboles frutales que el hombre necesitaría. Creo que Él proveyó lo que necesitarían para sobrevivir, pero también incluyó muchas otras cosas que sabía que disfrutarían, porque Dios es el dador de cosas buenas.
+
+#### Cuando Dios tuvo el jardín listo para Adán, Dios no le preguntó a Adán si quería vivir en él. No dijo: "Oye, este jardín es maravilloso, ¿te gustaría vivir en él*?*" Dios lo puso en ella. Dios tenía la autoridad absoluta para colocar a Adán en cualquier lugar que así lo deseara. Dios es el Creador y Dueño todopoderoso de toda Su creación.
+
+#### Pero aquí está la cosa: ¡la autoridad de Dios nunca se lleva a cabo sin amor! 1 Juan 4 dice que Dios es amor. Por lo tanto, ¡absolutamente todo lo que Él hace siempre lo hace con amor, siempre es perfecto y siempre es lo mejor!
 
 ## Génesis 2:9 - Dios plantó dos árboles especiales en medio del jardín
 
-### Dios hizo que crecieran muchos tipos de árboles en el jardín. Algunos habrían sido plantados por Dios para el puro placer y disfrute del hombre, como árboles en flor, mientras que otros sirvieron para propósitos más prácticos, como proporcionar sombra o frutas y alimentos para comer. Creo que Dios hizo lo mismo que hacemos nosotros como padres. Proporcionamos no solo lo que nuestros hijos necesitan, sino también cosas que sabemos que disfrutarán.
+### Génesis 2:9 *El SEÑOR Dios hizo brotar de la tierra todo árbol agradable a la vista y bueno para comer. Asimismo, en medio del huerto, hizo brotar el árbol de la vida y el árbol del conocimiento del bien y del mal.*
 
-### Sin embargo, entre todos esos árboles, sabemos que también había dos árboles especiales: el Árbol de la Vida y el Árbol del Conocimiento del Bien y del Mal. Creo que hay tres razones principales por las que Dios colocó esos dos árboles allí y dio la orden de no comer de uno.
+#### Dios hizo que crecieran muchos tipos de árboles en el jardín. Algunos habrían sido plantados por Dios para el puro placer y disfrute del hombre, como árboles en flor, mientras que otros sirvieron para propósitos más prácticos, como proporcionar sombra o frutas y alimentos para comer. Creo que Dios hizo lo mismo que hacemos nosotros como padres. Proporcionamos no solo lo que nuestros hijos necesitan, sino también cosas que sabemos que disfrutarán.
 
-### Primero, Dios creó al hombre para que dependiera de Él. Él no creó al hombre para que fuera independiente. Habrían tenido que seguir comiendo del árbol de la vida para vivir para siempre, y Dios quería que siguieran dependiendo de Él para mostrarles lo que estaba bien y lo que estaba mal.
+#### Sin embargo, entre todos esos árboles, sabemos que también había dos árboles especiales: el Árbol de la Vida y el Árbol del Conocimiento del Bien y del Mal. Creo que hay tres razones principales por las que Dios colocó esos dos árboles allí y dio la orden de no comer de uno.
 
-### En segundo lugar, recuerde que Dios creó al hombre a Su imagen con mente, voluntad y emociones para poder tener una relación con el hombre. Junto con eso viene la capacidad de elegir obedecer o elegir pecar. En el verdadero sentido de haber sido creado a imagen de Dios, al hombre se le tenía que dar la capacidad de elegir.
+##### Primero, Dios creó al hombre para que dependiera de Él. Él no creó al hombre para que fuera independiente. Habrían tenido que seguir comiendo del árbol de la vida para vivir para siempre, y Dios quería que siguieran dependiendo de Él para mostrarles lo que estaba bien y lo que estaba mal.
 
-### Por último, recuerde el plan de Dios desde antes de la fundación de la tierra que se llevaría a cabo a través de Cristo. Sin pecado y una caída, no habría necesidad de un Salvador.
+##### En segundo lugar, recuerde que Dios creó al hombre a Su imagen con mente, voluntad y emociones para poder tener una relación con el hombre. Junto con eso viene la capacidad de elegir obedecer o elegir pecar. En el verdadero sentido de haber sido creado a imagen de Dios, al hombre se le tenía que dar la capacidad de elegir.
 
-### Una de las principales razones por las que creo que el Árbol del Conocimiento del Bien y del Mal estaba allí fue por el propósito de que jugaba en el plan de Dios es por Apocalipsis 22:1-5. En el cielo nuevo y la tierra nueva, volverá a estar el Árbol de la Vida, pero el Árbol del Conocimiento del Bien y del Mal no estará allí porque el pecado, la caída y el plan cumplido a través de Cristo ya se han cumplido.
+##### Por último, recuerde el plan de Dios desde antes de la fundación de la tierra que se llevaría a cabo a través de Cristo. Sin pecado y una caída, no habría necesidad de un Salvador.
 
-### Nuestra entrada en el cielo nuevo y la tierra nueva para estar en la presencia de Dios por toda la eternidad es otra parte del resultado de la obra terminada de Cristo. Nuestra residencia en el cielo nuevo y la tierra nueva será prueba de que el plan de Dios se cumplió.
+#### Una de las principales razones por las que creo que el Árbol del Conocimiento del Bien y del Mal estaba allí fue por el propósito de que jugaba en el plan de Dios es por Apocalipsis 22:1-5. En el cielo nuevo y la tierra nueva, volverá a estar el Árbol de la Vida, pero el Árbol del Conocimiento del Bien y del Mal no estará allí porque el pecado, la caída y el plan cumplido a través de Cristo ya se han cumplido.
+
+#### Nuestra entrada en el cielo nuevo y la tierra nueva para estar en la presencia de Dios por toda la eternidad es otra parte del resultado de la obra terminada de Cristo. Nuestra residencia en el cielo nuevo y la tierra nueva será prueba de que el plan de Dios se cumplió.
 
 ## Génesis 2:16-17 - Dios le advirtió a Adán que desobedecerlo resultaría en la muerte
 
-### Hasta este momento, todo lo que Adán había experimentado era solo bueno porque Dios había provisto todo lo que necesitaba. Nunca antes había visto la muerte. Sin embargo, en este momento, Dios dejó en claro que si Adán quería ser independiente de Dios y desobedecerlo comiendo el fruto prohibido, entonces moriría.
+### Génesis 2:16-17 *Y el SEÑOR Dios ordenó al hombre: «De todo árbol del huerto podrás comer, pero del árbol del conocimiento del bien y del mal no comerás, porque el día que de él comas, ciertamente morirás».*
 
-### Cuando Dios le dijo a Adán que moriría, esto significaba tres cosas:
+#### Hasta este momento, todo lo que Adán había experimentado era solo bueno porque Dios había provisto todo lo que necesitaba. Nunca antes había visto la muerte. Sin embargo, en este momento, Dios dejó en claro que si Adán quería ser independiente de Dios y desobedecerlo comiendo el fruto prohibido, entonces moriría.
 
-#### Primero, Adán estaría separado de tener una relación espiritual con Dios. Esto significa que Adán se "corrompería" y pasaría de ser amigo de Dios a convertirse en enemigo de Dios. Su comunión con Dios se rompería. La razón por la que Dios había creado a Adán a su propia imagen era para que el hombre pudiera disfrutar de una relación y comunión con Dios.
+#### Cuando Dios le dijo a Adán que moriría, esto significaba tres cosas:
 
-#### Pero si Adán lo desobedecía, esa parte de Adán que fue hecha a imagen de Dios, su mente, voluntad y emociones se estropearían y corrompieran y, por lo tanto, se separarían de Dios. Adán moriría espiritualmente y la maravillosa relación que tenía con Dios llegaría a su fin.
+##### Primero, Adán estaría separado de tener una relación espiritual con Dios. Esto significa que Adán se "corrompería" y pasaría de ser amigo de Dios a convertirse en enemigo de Dios. La razón por la que Dios había creado a Adán a su propia imagen era para que el hombre pudiera disfrutar de una relación y comunión con Dios.
 
-#### En segundo lugar, Adán moriría físicamente. Esto no significaba que Adán moriría inmediatamente ese mismo día. Significaba que Adán sería separado de Dios, su fuente de vida, y eventualmente experimentaría la muerte física. Cuando el cuerpo de Adán llegara al punto de morir físicamente, su espíritu y su alma se separarían de su cuerpo. Es un regreso a lo que era antes de que Dios insuflara vida en su cuerpo.
+###### Pero si Adán lo desobedecía, esa parte de Adán que fue hecha a imagen de Dios, su mente, voluntad y emociones se estropearían y corrompieran y, por lo tanto, se separarían de Dios. Adán moriría espiritualmente y la maravillosa relación que tenía con Dios llegaría a su fin.
 
-#### El alma y el espíritu de Adán eventualmente se separarían de su cuerpo, pero este no sería el final de su existencia.
+##### En segundo lugar, Adán moriría físicamente. Esto no significaba que Adán moriría inmediatamente ese mismo día. Significaba que Adán sería separado de Dios, su fuente de vida, y eventualmente experimentaría la muerte física. Cuando el cuerpo de Adán llegara al punto de morir físicamente, su espíritu y su alma se separarían de su cuerpo. Es un regreso a lo que era antes de que Dios insuflara vida en su cuerpo.
 
-#### El aspecto final de la muerte que experimentaría Adán sería la muerte eterna. Habiendo muerto primero espiritualmente y luego físicamente, Adán se separaría de Dios para siempre y nunca más tendría la oportunidad de disfrutar del amor y la amistad de Dios. En sí mismo, no habría forma de que Adán escapara de este juicio.
+###### El alma y el espíritu de Adán eventualmente se separarían de su cuerpo, pero este no sería el final de su existencia.
 
-### El estado de Adán sería como una rama que rompí de un árbol esta mañana. ¿Está muerta la rama? No lo parece. ¿Cuándo comenzó a morir la rama? Para que esta rama vuelva a vivir, ¿qué tendría que suceder?
+##### El aspecto final de la muerte que experimentaría Adán sería la muerte eterna. Habiendo muerto primero espiritualmente y luego físicamente, Adán se separaría de Dios para siempre y nunca más tendría la oportunidad de disfrutar del amor y la amistad de Dios. En sí mismo, no habría forma de que Adán escapara de este juicio.
 
-### Lo mismo será cierto de Adán y Eva si eligen desobedecer a Dios. Se separarán de Dios, su fuente de vida, y ellos también comenzarán a morir en ese mismo momento.
+##### El estado de Adán sería como una rama que rompí de un árbol esta mañana. ¿Está muerta la rama? No lo parece. ¿Cuándo comenzó a morir la rama? Para que esta rama vuelva a vivir, ¿qué tendría que suceder?
+
+##### Lo mismo será cierto de Adán y Eva si eligen desobedecer a Dios. Se separarán de Dios, su fuente de vida, y ellos también comenzarán a morir en ese mismo momento.
 
 ## Preguntas de revisión
 
@@ -1008,67 +1020,55 @@ Reconocimientos
 
 # Génesis 2:18-25 - DIOS CREÓ UNA ESPOSA PARA ADÁN
 
-## Introducción: Dios conoce íntimamente su creación. Cuando hizo a Adán, sabía cuáles serían sus necesidades y planeó amorosamente satisfacerlas. En esta lección, veremos Su increíble bondad al proporcionarle a Adán un regalo como ningún otro. Hoy, Dios no ha cambiado. El mismo corazón que vemos en la forma en que Él amó y cuidó de Adán, ese es Su corazón hoy con nosotros también. Nuestro problema es que determinamos por nosotros mismos lo que queremos, en lugar de confiar en que Él nos guíe y provea.
-
 ## Génesis 2:18 - Dios decidió que Adán necesitaba una esposa como ayudante
 
-Génesis 2:18 - *Y dijo Jehová Dios: No es bueno que el hombre esté solo; le haré ayuda idónea para él.* (RVR60)
+### Génesis 2:18 - *Y dijo Jehová Dios: No es bueno que el hombre esté solo; le haré ayuda idónea para él.* (RVR60) Dios fue el que dijo que no era bueno que el hombre estuviera solo. Él sabe lo que es mejor y solo desea proporcionar lo mejor.
 
-### Ya hemos aprendido que Dios creó a Eva el mismo día que creó a Adán y a los animales.
+#### Dios conoce íntimamente su creación. Cuando hizo a Adán, sabía cuáles serían sus necesidades y planeó amorosamente satisfacerlas. En esta lección, veremos Su increíble bondad al proporcionarle a Adán un regalo como ningún otro. Hoy, Dios no ha cambiado. El mismo corazón que vemos en la forma en que Él amó y cuidó de Adán, ese es Su corazón hoy con nosotros también. Nuestro problema es que determinamos por nosotros mismos lo que queremos, en lugar de confiar en que Él nos guíe y provea.
 
-### Lea Génesis 1:26-27.
+#### Ya hemos aprendido que Dios creó a Eva el mismo día que creó a Adán y a los animales. Génesis 1:26-27
 
-### ¿Podría describir cómo Dios hizo a Adán, formó su cuerpo del polvo de la tierra y luego le dio vida?
+##### ¿Podrías describir cómo Dios hizo a Adán, formó su cuerpo del polvo de la tierra y luego le dio vida?
 
-### Génesis 2:7 - Hasta este punto, no hemos visto cómo Dios hizo el cuerpo de Eva. La sección de las Escrituras que vamos a estudiar ahora explica por qué y cómo fue hecha Eva. Veamos primero por qué Dios decidió crear a Eva.
+#### Hasta este punto, no hemos visto cómo Dios hizo el cuerpo de Eva. La sección de las Escrituras que vamos a estudiar ahora explica por qué y cómo fue hecha Eva. Veamos primero por qué Dios decidió crear a Eva. Génesis 2:7
 
-### Génesis 2:18 - Primero, observe quién fue el que dijo que no era bueno que el hombre estuviera solo. Era Dios. Solo Dios es omnisciente. Él sabe lo que es mejor y solo desea proporcionar lo mejor.
+#### Dios no creó al hombre para que fuera independiente de Él. No quería que Adán comiera del Árbol del Conocimiento del Bien y del Mal y comenzara a decidir independientemente por sí mismo lo que es bueno y lo que no es bueno. Dios es omnisciente y Adán no lo era. Dios sabía lo que era mejor y había planeado proporcionarle una compañera.
 
-### Dios no creó al hombre para que fuera independiente de Él. No quería que Adán comiera del Árbol del Conocimiento del Bien y del Mal y comenzara a decidir independientemente por sí mismo lo que es bueno y lo que no es bueno. Dios es omnisciente y Adán no lo era. Dios sabía lo que era mejor y había planeado proporcionarle una compañera.
+#### Luego, la base de la decisión de Dios fue Su amor y sabiduría. Dios amó y cuidó a Adán; Ya hemos visto muchas pruebas de ello. Adán fue creado a imagen de Dios con mente, voluntad y emociones. Él nos creó para ser relacionales. Para que Adán alcance su máximo potencial, en términos de experimentar el reino completo de emociones y relaciones para las que Dios lo creó, Adán tendría que tener un compañero adecuado.
 
-### Luego, la base de la decisión de Dios fue Su amor y sabiduría. Dios amó y cuidó a Adán; Ya hemos visto muchas pruebas de ello. Adán fue creado a imagen de Dios con mente, voluntad y emociones. Él nos creó para ser relacionales. Para que Adán alcance su máximo potencial, en términos de experimentar el reino completo de emociones y relaciones para las que Dios lo creó, Adán tendría que tener un compañero adecuado.
-
-### Por último, Dios quería que el hombre cumpliera el propósito de Dios de colocarlo en la tierra. ¿Qué propósito le había dado Dios a Adán? Adán iba a ser el administrador de todos los seres vivos de la tierra. Debían llenar y someter la tierra. Para que eso sucediera, Adán tuvo que tener una esposa e hijos para dar lugar a la raza humana. Dios quería que la raza humana creciera, se multiplicara, se extendiera y cubriera la tierra, porque Él iba a estar en el proceso de llevar a cabo Su plan que ha estado en Su corazón desde antes de la fundación de la tierra.
+#### Por último, Dios quería que el hombre cumpliera el propósito de Dios de colocarlo en la tierra. ¿Qué propósito le había dado Dios a Adán? Adán iba a ser el administrador de todos los seres vivos de la tierra. Debían llenar y someter la tierra. Para que eso sucediera, Adán tuvo que tener una esposa e hijos para dar lugar a la raza humana. Dios quería que la raza humana creciera, se multiplicara, se extendiera y cubriera la tierra, porque Él iba a estar en el proceso de llevar a cabo Su plan que ha estado en Su corazón desde antes de la fundación de la tierra.
 
 ## Génesis 2:19-20 - Dios trajo los animales a Adán para que los nombrara
 
-Génesis 2:19 - *Jehová Dios formó, pues, de la tierra toda bestia del campo, y toda ave de los cielos, y las trajo a Adán para que viese cómo las había de llamar; y todo lo que Adán llamó a los animales vivientes, ése es su nombre.* (RVR60)
+### Génesis 2:19-20 - *Jehová Dios formó, pues, de la tierra toda bestia del campo, y toda ave de los cielos, y las trajo a Adán para que viese cómo las había de llamar; y todo lo que Adán llamó a los animales vivientes, ése es su nombre. Y puso Adán nombre a toda bestia y ave de los cielos y a todo ganado del campo; mas para Adán no se halló ayuda idónea para él.* (RVR60)
 
-Génesis 2:20 - *Y puso Adán nombre a toda bestia y ave de los cielos y a todo ganado del campo; mas para Adán no se halló ayuda idónea para él.* (RVR60)
+#### Dios le dio a Adán la responsabilidad de nombrar a los animales. Dado que Dios ya le había dado al hombre el cuidado de administrar la tierra, le dio a Adán la responsabilidad de nombrar a las aves y los animales. Debido a que Adán tenía una mente perfecta, tenía la capacidad de nombrar rápida y adecuadamente a cada uno de los animales. ¿Por qué crees que Dios no le dijo a Adán cómo se llamaban los animales? Creo que fue por varias razones.
 
-### Dios le dio a Adán la responsabilidad de nombrar a los animales. Dado que Dios ya le había dado al hombre el cuidado de administrar la tierra, le dio a Adán la responsabilidad de nombrar a las aves y los animales. Debido a que Adán tenía una mente perfecta, tenía la capacidad de nombrar rápida y adecuadamente a cada uno de los animales. ¿Por qué crees que Dios no le dijo a Adán cómo se llamaban los animales? Creo que fue por varias razones.
+#### El hombre fue creado por encima del resto de la creación y Dios le dio responsabilidad, casi haciendo una especie de "colaborador" junto con él. Dios dejó muy claro que su relación con el hombre era especial.
 
-### El hombre fue creado por encima del resto de la creación y Dios le dio responsabilidad, casi haciendo una especie de "colaborador" junto con él. Dios dejó muy claro que su relación con el hombre era especial.
-
-### Al traer todos los animales a Adán para nombrarlos, Dios también le dio a Adán una clara muestra de Su poder, sabiduría y soberanía. Al nombrar a todos los animales, se hizo evidente para Adam que ninguno de ellos era adecuado para ser su compañero; ninguno fue creado como él, a imagen de Dios.
+#### Al traer todos los animales a Adán para nombrarlos, Dios también le dio a Adán una clara muestra de Su poder, sabiduría y soberanía. Al nombrar a todos los animales, se hizo evidente para Adam que ninguno de ellos era adecuado para ser su compañero; ninguno fue creado como él, a imagen de Dios.
 
 ## Génesis 2:21-22 - Adán fue creado a imagen de Dios. Fue creado para gobernar sobre todos los animales
 
-Génesis 2:21- *Entonces Jehová Dios hizo caer sueño profundo sobre Adán, y mientras éste dormía, tomó una de sus costillas, y cerró la carne en su lugar.* (RVR60)
+### Génesis 2:21-22 - *Entonces Jehová Dios hizo caer sueño profundo sobre Adán, y mientras éste dormía, tomó una de sus costillas, y cerró la carne en su lugar.* *Y de la costilla que Jehová Dios tomó del hombre, hizo una mujer, y la trajo al hombre.* (RVR60)
 
-Génesis 2:22 - *Y de la costilla que Jehová Dios tomó del hombre, hizo una mujer, y la trajo al hombre.* (RVR60)
+#### Para que Adán experimente el máximo potencial de la relación con otra persona, ese compañero también debe ser creado a imagen de Dios. Necesitaba tener a alguien que pudiera interactuar con él y comunicarse con él en el mismo nivel intelectual y emocional. Necesitaba a alguien que compartiera los mismos intereses y disfrutara de las mismas actividades que él disfrutaba. Adán no podía hacer nada para proveerse de un compañero adecuado. Solo Dios podía hacer eso.
 
-### Para que Adán experimente el máximo potencial de la relación con otra persona, ese compañero también debe ser creado a imagen de Dios. Necesitaba tener a alguien que pudiera interactuar con él y comunicarse con él en el mismo nivel intelectual y emocional. Necesitaba a alguien que compartiera los mismos intereses y disfrutara de las mismas actividades que él disfrutaba. Adán no podía hacer nada para proveerse de un compañero adecuado. Solo Dios podía hacer eso.
-
-### Génesis 2:21-22 - En primer lugar, ¡solo Dios podría lograr tal hazaña! Nada, nada, nada es imposible para Dios. ¡Él es absolutamente TODOPODEROSO! Al igual que Adán, Dios creó a Eva a su imagen. Tenía una mente, emociones y una voluntad perfectas para poder comunicarse con Él y con Adán. Piense en por qué Dios creó a Eva de la costilla de Adán. Fue tomada de una parte del hombre para significar su unidad. Entonces, la parte de la que fue hecha, significa igualdad, pero bajo su protección y autoridad.
+#### En primer lugar, ¡solo Dios podría lograr tal hazaña! Nada, nada, nada es imposible para Dios. ¡Él es absolutamente todopoderoso! Al igual que Adán, Dios creó a Eva a su imagen. Tenía una mente, emociones y una voluntad perfectas para poder comunicarse con Él y con Adán. Piense en por qué Dios creó a Eva de la costilla de Adán. Fue tomada de una parte del hombre para significar su unidad. Entonces, la parte de la que fue hecha, significa igualdad, pero bajo su protección y autoridad.
 
 ## Génesis 2:23-24 - El matrimonio fue ordenado por Dios
 
-Génesis 2:23 - *Dijo entonces Adán: Esto es ahora hueso de mis huesos y carne de mi carne; ésta será llamada Varona, porque del varón fue tomada.* (RVR60)
+### Génesis 2:23-24 - *Dijo entonces Adán: Esto es ahora hueso de mis huesos y carne de mi carne; ésta será llamada Varona, porque del varón fue tomada.* *Por tanto, dejará el hombre a su padre y a su madre, y se unirá a su mujer, y serán una sola carne.* (RVR60)
 
-Génesis 2:24 - *Por tanto, dejará el hombre a su padre y a su madre, y se unirá a su mujer, y serán una sola carne.* (RVR60)
-
-### Dios hizo a Eva para Adán para que pudieran vivir juntos como marido y mujer y tener hijos. ¿Recuerdas el mandato de Dios para ellos en Génesis 1:28? Debían ser fructíferos y multiplicarse, llenar la tierra y someterla. Aquí está muy claro que es Dios quien instituyó el matrimonio y la familia. Así como creó a todos los animales como macho y hembra, también lo hizo con la humanidad. También es muy evidente que Él creó la tierra y todo lo que contiene para que la humanidad viva y tenga su ser y para que Dios lleve a cabo Su plan eterno a favor del hombre.
+#### Dios hizo a Eva para Adán para que pudieran vivir juntos como marido y mujer y tener hijos. ¿Recuerdas el mandato de Dios para ellos en Génesis 1:28? Debían ser fructíferos y multiplicarse, llenar la tierra y someterla. Aquí está muy claro que es Dios quien instituyó el matrimonio y la familia. Así como creó a todos los animales como macho y hembra, también lo hizo con la humanidad. También es muy evidente que Él creó la tierra y todo lo que contiene para que la humanidad viva y tenga su ser y para que Dios lleve a cabo Su plan eterno a favor del hombre.
 
 ## Génesis 2:25 - Adán y su esposa no se avergonzaron de su desnudez
 
-Génesis 2:25 - *Y estaban ambos desnudos, Adán y su mujer, y no se avergonzaban.* (RVR60) Adán y Eva vivieron juntos en total amor y pureza. Sus mentes aún no se habían corrompido; por lo tanto, no se avergonzaron de su desnudez.
+### Génesis 2:25 - *Y estaban ambos desnudos, Adán y su mujer, y no se avergonzaban.* (RVR60) Adán y Eva vivieron juntos en total amor y pureza. Sus mentes aún no se habían corrompido; por lo tanto, no se avergonzaron de su desnudez.
 
-## Conclusión
+#### En todo lo que hemos visto desde el principio hasta ahora, ¿alguna vez has visto a Dios hacer o decir algo que no era lo mejor para el hombre? Puedes revisar el resto de cada página de las Escrituras y nunca encontrarás un caso en el que Él no haga lo mejor para la humanidad.
 
-### En todo lo que hemos visto desde el principio hasta ahora, ¿alguna vez has visto a Dios hacer o decir algo que no era lo mejor para el hombre? Puedes revisar el resto de cada página de las Escrituras y nunca encontrarás un caso en el que Él NO haga lo mejor para la humanidad.
-
-### El corazón de Dios sigue siendo el mismo hoy. Él quiere lo mejor para cada uno de nosotros, pero no nos lo impondrá. ¿Por qué? Porque Su objetivo desde el principio fue una relación. En lugar de forzar lo que es mejor sobre nosotros, Él esperará pacientemente a que aprendamos (de la manera difícil) que no podemos confiar en nosotros mismos y que necesitamos depender completamente de Él.
+#### El corazón de Dios sigue siendo el mismo hoy. Él quiere lo mejor para cada uno de nosotros, pero no nos lo impondrá. ¿Por qué? Porque Su objetivo desde el principio fue una relación. En lugar de forzar lo que es mejor sobre nosotros, Él esperará pacientemente a que aprendamos (de la manera difícil) que no podemos confiar en nosotros mismos y que necesitamos depender completamente de Él.
 
 ## Preguntas de revisión
 
@@ -1084,9 +1084,9 @@ Génesis 2:25 - *Y estaban ambos desnudos, Adán y su mujer, y no se avergonzaba
 
 # LUCIFER SE REBELÓ CONTRA DIOS
 
-## Introducción: Todos sabemos que cuando Dios creó por primera vez el mundo, el universo y todo lo que contiene, no existía nada malo. Todo estaba en paz y armonía. No había pecado, enfermedad, tristeza o muerte. También sabemos que, poco después, esta hermosa tranquilidad cambió como resultado del pecado.
+## Los ángeles fueron creados buenos
 
-## Los ángeles son seres creados
+### Todos sabemos que cuando Dios creó por primera vez el mundo, el universo y todo lo que contiene, no existía nada malo. Todo estaba en paz y armonía. No había pecado, enfermedad, tristeza o muerte. También sabemos que, poco después, esta hermosa tranquilidad cambió como resultado del pecado.
 
 ### Aprendimos anteriormente que antes de que Dios creara cualquier otra cosa, creó a los ángeles. También sabemos que Él los creó como seres espirituales con sabiduría y poder para servirle. También sabemos que debido a que los ángeles son seres creados por Dios, nunca podrían convertirse en Dios o usurpar Su autoridad.
 
@@ -1096,41 +1096,19 @@ Génesis 2:25 - *Y estaban ambos desnudos, Adán y su mujer, y no se avergonzaba
 
 ## Lucifer se rebeló contra Dios, y otros ángeles lo siguieron
 
-### Hay diferentes creencias con respecto a Lucifer y los ángeles y cuál fue su pecado. Al poner Judas 6 junto con Ezequiel 28, parecería que su pecado fue el orgullo y la desobediencia.
+### Hay diferentes creencias con respecto a Lucifer y los ángeles y cuál fue su pecado. Al poner Judas 6 junto con Ezequiel 28, parecería que su pecado fue el orgullo y la desobediencia. 
 
-### Su "primer estado" o "principado" se refiere entonces a su posición original de estar bajo la autoridad de la Deidad. Se sintieron insatisfechos con la voluntad y la ubicación de Dios para ellos y aspiraron a ser más altos. (Judas 1:6; Ezequiel 28:13-15)
+### Su "primer estado" o "principado" se refiere entonces a su posición original de estar bajo la autoridad de la deidad. Se sintieron insatisfechos con la voluntad y la ubicación de Dios para ellos y aspiraron a ser más altos. (Judas 1:6; Ezequiel 28:13-15)
 
 ### Cuando te detienes y piensas en ello, no había razón para que Lucifer se rebelara. Había sido honrado por Dios al recibir la posición más alta sobre todos los demás ángeles. Debería haber obedecido y servido a Dios. Pero de Ezequiel 28:17, parece que Lucifer se enorgulleció de su belleza, inteligencia y posición.
 
-### Ezequiel 28:17 - De todo esto, también entendemos que aunque Lucifer y los ángeles fueron creados perfectos, también se les dio libre albedrío. La rebelión de Lucifer fue un acto de su voluntad, una elección consciente de oponerse a Dios. Lucifer quería ser como Dios. Aspiraba a ocupar el lugar de Dios como gobernante supremo sobre todas las cosas. Mira lo que dice Isaías 14:12-15 en referencia a la rebelión de Lucifer.
-
-## Lucifer fue el primero en hacer el mal, el primero en pecar
-
-### Decidió seguir su propio camino y no el camino de Dios. Quería ser independiente de Dios. Quería hacerse cargo de la posición de Dios. Dios planeó que los ángeles lo obedecieran, vivieran para adorarlo y servirlo. Pero debido al orgullo, Lucifer rechazó el propósito de Dios, se opuso a Él y se convirtió en el primero en pecar.
-
-### Sabemos que otros ángeles también siguieron a Lucifer en su rebelión. Estos otros ángeles también tomaron la decisión de rebelarse contra Dios en lugar de continuar obedeciendo y sirviendo a su gobernante y Creador legítimo.
-
-[**Mat 25:41** ](verseid:40.25.41) Entonces dirá también a los de Su izquierda: “Apártense de Mí, malditos, al fuego eterno que ha sido preparado para el diablo y sus ángeles.
-
-[**Luk 8:30** ](verseid:42.8.30) Entonces Jesús le preguntó: «¿Cómo te llamas?». «Legión», contestó; porque muchos demonios habían entrado en él.
-
-[**Eph 6:12** ](verseid:49.6.12) Porque nuestra lucha no es contra sangre y carne, sino contra principados, contra potestades, contra los poderes de este mundo de tinieblas, contra las *fuerzas* espirituales de maldad en las *regiones*celestes.
-
-### Dios sabía lo que Lucifer estaba pensando y planeando. Dios sabía que Lucifer se había vuelto orgulloso y quería tomar el lugar de su Creador. Dios es OMNISCIENTE. Sabía que todo esto sucedería incluso antes de que se pusieran los cimientos de la tierra.
-
-### Isaías 14:13 muestra que Dios sabía lo que estaba sucediendo en el corazón de Lucifer cuando dijo: "Pero tú dijiste en tu corazón". Nada puede mantenerse en secreto para Dios. Nada puede sorprender a Dios. Lo sabe todo incluso antes de que suceda. Dios está en todas partes, lo ve todo y lo sabe todo. ¡Dios es tan omnisciente, que todo esto ha sido parte de Su plan desde antes de que comenzara el tiempo!
-
-[**Col 1:16** ](verseid:51.1.16) Porque en Él fueron creadas todas las cosas, *tanto* en los cielos *como*en la tierra, visibles e invisibles; ya sean tronos o dominios o poderes o autoridades; todo ha sido creado por medio de Él y para Él.
-
-[**Col 1:17** ](verseid:51.1.17) Y Él es antes de todas las cosas, y en Él todas las cosas permanecen.
-
-[**Heb 4:13** ](verseid:58.4.13) No hay cosa creada oculta a Su vista, sino que todas las cosas están al descubierto y desnudas ante los ojos de Aquel a quien tenemos que dar cuenta.
+### De todo esto, también entendemos que aunque Lucifer y los ángeles fueron creados perfectos, también se les dio libre albedrío. La rebelión de Lucifer fue un acto de su voluntad, una elección consciente de oponerse a Dios. Lucifer quería ser como Dios. Aspiraba a ocupar el lugar de Dios como gobernante supremo sobre todas las cosas. Mira lo que dice Isaías 14:12-15 en referencia a la rebelión de Lucifer. Ezequiel 28:17
 
 ## Dios quitó a Lucifer y a los ángeles de su posición como siervos de Dios
 
-### Con respecto a la rebelión de Lucifer, quiero señalar que no fue solo una cuestión de que Dios NO permitió que Lucifer tomara Su posición. Más bien, habría sido IMPOSIBLE para él tomarlo. ¡Un ser creado nunca podría convertirse en Dios! Dios es el "gran YO SOY", el que existe por sí mismo y que existió desde toda la eternidad en majestad y plenitud antes de que algo fuera creado. Él vive por su propio poder, y da vida a todo. ¡Él es absolutamente soberano y supremo! ¡Nadie le dio esta posición! ¡Es quien Él es!
+### Con respecto a la rebelión de Lucifer, quiero señalar que no fue solo una cuestión de que Dios no permitió que Lucifer tomara Su posición. Más bien, habría sido imposible para él tomarlo. ¡Un ser creado nunca podría convertirse en Dios! Dios es el "gran Yo Soy", el que existe por sí mismo y que existió desde toda la eternidad en majestad y plenitud antes de que algo fuera creado. Él vive por Su propio poder, y da vida a todo. ¡Él es absolutamente soberano y supremo! ¡Nadie le dio esta posición! ¡Es quien Él es!
 
-### ¡Lucifer nunca podría ser Dios porque NO es Dios! ¡No podría ser Dios sin que Dios lo hiciera Dios, lo que en efecto lo hace NO Dios! ¡Ser Dios no es como convertirse en Rey o Presidente! Las personas pueden ser elegidas o designadas para estos puestos y luego comenzar a actuar como tales. Para ser Dios tienes que ser autoexistente y eterno. Por lo tanto, es imposible que un ser creado alcance el estado de "no tener principio", porque fue creado.
+### ¡Lucifer nunca podría ser Dios porque no es Dios! ¡No podría ser Dios sin que Dios lo hiciera Dios, lo que en efecto lo hace no Dios! ¡Ser Dios no es como convertirse en Rey o Presidente! Las personas pueden ser elegidas o designadas para estos puestos y luego comenzar a actuar como tales. Para ser Dios tienes que ser autoexistente y eterno. Por lo tanto, es imposible que un ser creado alcance el estado de "no tener principio", porque fue creado.
 
 ### Como resultado de la rebelión de Lucifer y los otros ángeles, Dios lo despojó de su posición de liderazgo y los sacó a todos del cielo. Dios es perfecto y justo en todo lo que dice y hace; por lo tanto, ya no podía permitir que estos ángeles rebeldes permanecieran como sus asistentes en el cielo.
 
@@ -1140,93 +1118,93 @@ Génesis 2:25 - *Y estaban ambos desnudos, Adán y su mujer, y no se avergonzaba
 
 ### Aunque Lucifer y los ángeles trataron de rebelarse contra Dios, les fue imposible escapar de Su autoridad sobre ellos. En el juicio, junto con sacarlos del cielo y de las posiciones que Dios les había dado, Dios también preparó un lugar de castigo para ellos.
 
-[**Mat 25:41** ](verseid:40.25.41) Entonces dirá también a los de Su izquierda: “Apártense de Mí, malditos, al fuego eterno que ha sido preparado para el diablo y sus ángeles.
+#### Mateo 25:41 *Entonces dirá también a los de Su izquierda: “Apártense de Mí, malditos, al fuego eterno que **ha sido preparado para el diablo y sus ángeles**.*
 
-[**Rev 20:10** ](verseid:66.20.10) Y el diablo que los engañaba fue arrojado al lago de fuego y azufre, donde también están la bestia y el falso profeta. Y serán atormentados día y noche por los siglos de los siglos.
-
-### Aunque Judas 1:6 y 2 Pedro 2:4 suenan como si los ángeles caídos ya hubieran sido arrojados al infierno, sabemos por muchos otros pasajes (principalmente en los evangelios) que los demonios todavía están muy presentes. Estos pasajes muestran que no hay esperanza de redención para los ángeles caídos. Veo estos versículos como hablando "posicionalmente" con respecto a su juicio, al igual que nosotros mismos estamos sentados posicionalmente en los lugares celestiales a la diestra de Dios.
+#### Apocalipsis 20:10 *Y el diablo que los engañaba fue arrojado al lago de fuego y azufre, donde también están la bestia y el falso profeta. Y serán atormentados día y noche por los siglos de los siglos.*
 
 ## Satanás y sus demonios odian a Dios y al hombre
 
-### Satanás continúa guerreando contra Dios y el hombre. Jesús se refirió a Satanás como el "padre de las mentiras". Es un mentiroso y un engañador. Debido a que Dios ama a la humanidad, Satanás nos odia. La Biblia está llena de numerosos ejemplos de la actividad de Satanás y sus demonios aquí en la Tierra mientras tratan de obstaculizar la obra de Dios. Job 1 y 2 hablan de Satanás "*yendo y viniendo sobre la tierra, y andando de un lado a otro sobre ella.*" 1 Pedro 5:8 dice: "*El diablo camina como un león rugiente, buscando a quién devorar*".
+### Satanás continúa guerreando contra Dios y el hombre. Jesús se refirió a Satanás como el "*padre de las mentiras*". Es un mentiroso y un engañador. Debido a que Dios ama a la humanidad, Satanás nos odia. La Biblia está llena de numerosos ejemplos de la actividad de Satanás y sus demonios aquí en la Tierra mientras tratan de obstaculizar la obra de Dios. 
+
+#### Job 1 y 2 hablan de Satanás "*yendo y viniendo sobre la tierra, y andando de un lado a otro sobre ella.*" 1 Pedro 5:8 dice: "*El diablo camina como un león rugiente, buscando a quién devorar*".
 
 ### A través del Antiguo Testamento, después de que Dios ha dado promesas con respecto al Libertador venidero de que vendrá a través de los descendientes de Abraham, vemos a Satanás una y otra vez tratando de destruir a la nación de Israel. A través de los evangelios lo vemos tratando de llevar a la gente a matar a Jesús.
 
-### Satanás está condenado al infierno por la eternidad y quiere que nosotros (los objetos del gran amor de Dios) vayamos allí también. PERO AQUÍ ESTÁ LA COSA: LOS CRISTIANOS HABLAN DE ESTA BATALLA ENTRE Satanás y Dios; pero de un extremo a otro de la Biblia, ¡nombra UN caso en el que Satanás pudo llevar a cabo su voluntad sobre la de Dios! Oh, desde la perspectiva de Satanás, él está luchando contra Dios, pero desde la perspectiva de Dios, NO hay batalla alguna.
+### Satanás está condenado al infierno por la eternidad y quiere que nosotros (los objetos del gran amor de Dios) vayamos allí también. Pero aquí está la cosa: los cristianos hablan de esta batalla entre Satanás y Dios; pero de un extremo a otro de la Biblia, ¡nombra un caso en el que Satanás pudo llevar a cabo su voluntad sobre la de Dios! Oh, desde la perspectiva de Satanás, él está luchando contra Dios, pero desde la perspectiva de Dios, No hay batalla alguna.
 
 ### Satanás intentó y trató de deshacerse del Libertador, pero Jesús simplemente caminaba entre la multitud porque aún no era el momento. Cuando llegó el tiempo de Dios, Dios realmente usó a Satanás y a una raza humana pecaminosa para llevar a cabo Su voluntad y provocar la muerte sacrificial del Hijo de Dios, y al hacerlo, ¡pagó por el pecado del mundo!
 
-### Si una hormiga se aferrara a mi dedo gordo del pie y tratara de arrastrarme de regreso a su hormiguero, ¿cuánto esfuerzo tendría que poner en esa hazaña? ¿Cuánto esfuerzo me costaría evitar que sucediera? Véase 2 Tesalonicenses 2:1-9.
+### Si una hormiga se aferrara a mi dedo gordo del pie y tratara de arrastrarme de regreso a su hormiguero, ¿cuánto esfuerzo tendría que poner en esa hazaña? ¿Cuánto esfuerzo me costaría evitar que sucediera? 2 Tesalonicenses 2:1-9
 
 ### En pocas palabras, debemos mantener el "contexto de Satanás" a la vista. Reconocemos la realidad de Satanás, tomamos en serio su oposición, tomamos nota de su estrategia y contamos con estar siempre en guerra con él. Esto no es un lapso en un concepto dualista de dos dioses, uno bueno y otro malo, luchando.
 
-### Satanás es una criatura, sobrehumana pero no divina; Tiene mucho conocimiento y poder, pero no es ni omnisciente ni omnipotente. Puede moverse de una manera que los humanos no pueden, pero no es omnipresente; y es un rebelde ya derrotado, que no tiene más poder del que Dios le permite y está destinado al lago de fuego.
+### Satanás es una criatura, sobre-humana pero no divina; Tiene mucho conocimiento y poder, pero no es ni omnisciente ni omnipotente. Puede moverse de una manera que los humanos no pueden, pero no es omnipresente; y es un rebelde ya derrotado, que no tiene más poder del que Dios le permite y está destinado al lago de fuego.
 
 ## Preguntas de revisión
 
 ### ¿Cuáles son algunas cosas importantes que has aprendido sobre Dios? ¿Qué atributos de Dios has visto hasta ahora? ¿Por qué importancia tienen estos atributos en nuestra vida actual?
 
-### Se hizo la declaración: "*Dios es más grande que cualquier fuerza en el universo. Él es más grande que todos y todo, incluido el mundo de los espíritus. Nunca puede haber ninguna persona o poder superior a Dios. Él es la autoridad suprema. Todo el universo y todo lo que hay en él, incluidos todos los poderes espirituales y toda la humanidad, están sujetos a la autoridad de Dios y dependen completamente de Él".*
+### ¿Qué dos árboles mencionó Dios por su nombre que había colocado en el centro del jardín?
 
-### Cuando Lucifer y algunos de los ángeles se rebelaron contra Dios, ¿hubo algún tipo de batalla? ¿Qué importancia tiene esto para nosotros hoy?
+### ¿Qué dijo Dios que le sucedería a Adán si comía del fruto del árbol del conocimiento del bien y del mal?
+
+### ¿Qué quiso decir Dios cuando dijo que Adán moriría?
+
+### Se hizo la declaración: "*Dios es más grande que cualquier fuerza en el universo. Él es más grande que todos y todo, incluido el mundo de los espíritus. Nunca puede haber ninguna persona o poder superior a Dios. Él es la autoridad suprema. Todo el universo y todo lo que hay en él, incluidos todos los poderes espirituales y toda la humanidad, están sujetos a la autoridad de Dios y dependen completamente de Él".*
 
 ### ¿Por qué Lucifer no pudo tomar el lugar de Dios como Dios?
 
-### En la última lección que estudiaste sobre Lucifer y los ángeles, cuando Lucifer y algunos de los ángeles se rebelaron contra Dios, ¿hubo algún tipo de batalla? ¡En absoluto! ¡Dios ordenó y tuvieron que obedecer! No podían rechazar ni resistir el castigo de Dios. ¿Qué importancia tiene esto para nosotros hoy?
-
 # LA CAIDA - ADÁN Y EVA DESOBEDECIERON A DIOS
 
-## Introducción: Entonces Dios quitó a Lucifer de Su presencia, cambió su nombre a Satanás y lo sentenció al castigo eterno en el lago de fuego. ¿El hecho de que Dios sentenció y castigó a Satanás cambió su corazón en absoluto? No, Satanás todavía quería ser Dios.
+## Génesis 3:1-5 Aparece de la nada La Serpiente para tentar
 
-### Para entender esta lección, debemos recordar las instrucciones originales y la advertencia que Dios le había dado a Adán cuando lo puso en el Jardín del Edén.
+### Génesis 3:1a *La serpiente era más astuta que cualquiera de los animales del campo que el SEÑOR Dios había hecho.* Esta «astucia» (hebreo ʿārûm) se refiere a la perspicacia moral, no al mero instinto animal.
 
-#### ¿Qué dos árboles mencionó Dios por su nombre que había colocado en el centro del jardín?
+#### La serpiente habla y engaña:
 
-#### ¿Qué dijo Dios que le sucedería a Adán si comía del fruto del árbol del conocimiento del bien y del mal?
+##### Cuestiona la Palabra de Dios (Génesis 3:1)
 
-#### ¿Qué quiso decir Dios cuando dijo que Adán moriría?
+##### Miente sobre las consecuencias (Génesis 3:4-5)
 
-## Génesis 3:1-7 - Ahora Dios había puesto en el jardín todo lo que Adán y Eva necesitarían
+##### Tienta a los humanos a la desobediencia (Génesis 3:6)
 
+##### Se trata de un embaucador personal, no de una serpiente natural.
 
+#### Estas cualidades coinciden con la descripción de Satanás en el Nuevo Testamento.
 
-### Más importante que toda la gran variedad de frutas y verduras que Dios había creado para el hombre era el hecho de que Adán y Eva disfrutaban de una relación perfecta entre sí y con Dios.
+### Génesis 3:1b *Y dijo a la mujer: «¿Conque Dios les ha dicho: “No comerán de ningún árbol del huerto”?».*
 
-### Este es generalmente el lugar donde declaramos que Satanás NO quería que se quedaran así, que quería arruinar todos los grandes planes de Dios para el hombre. Aunque creo que eso puede ser cierto, incluso más que querer arruinar los planes de Dios, Satanás todavía quería ser Dios. El hombre estaba actualmente en comunión con Dios bajo Su autoridad. Ser Dios significaba que el hombre tendría que estar bajo su autoridad. Los intentos de Satanás de arruinar y arruinar los planes y la voluntad de Dios son realmente sus intentos de convertirse en Dios.
+#### La tentación aquí es centrarse en la serpiente y si los animales podían hablar o no en ese entonces (porque a Eva no le sorprendió una serpiente parlante). Piénsalo, Eva fue creada no mucho antes. Cada vez que se daba la vuelta, veía un animal diferente por primera vez. No habría tenido ni idea de qué esperar de ningún animal. 
 
-### Satanás había visto a Dios crear al hombre. Había sido testigo de cómo Dios nombró a Adán y Eva como administradores sobre la tierra. Más tarde vio el cuidado de Dios por ellos mientras les proporcionaba todo lo que necesitaban en el Jardín del Edén. Satanás podía ver el amor y el cuidado que Dios tenía por ellos. Satanás también estaba al tanto del mandato de Dios de no comer del árbol del conocimiento del bien y del mal. Debido a que Satanás sabía que había sido juzgado y condenado al castigo eterno, también quería que el hombre pecara y fuera castigado junto con él.
+#### El texto parece implicar que Satanás eligió a la serpiente debido a su astucia, que una serpiente parlante pudo haber tenido una mayor impresión en Eva. 
 
-### Génesis 3:1 - La tentación aquí es centrarse en la serpiente y si los animales podían hablar o no en ese entonces (porque a Eva no le sorprendió una serpiente parlante). Piénsalo, Eve fue creada no mucho antes. Cada vez que se daba la vuelta, veía un animal diferente por primera vez. No habría tenido ni idea de qué esperar de ningún animal. El texto parece implicar que Satanás eligió a la serpiente debido a su apariencia, que una serpiente parlante pudo haber tenido una mayor impresión en Eva.
+#### Y ese es el verdadero problema aquí, el hecho de que Satanás se disfrazó de algo diferente de lo que es para hacer que sus mentiras sean más creíbles. Eva no sabía que en realidad era Satanás quien le estaba hablando. En realidad, en ese momento, Adán y Eva solo sabían lo que era bueno. ¡Probablemente ni siquiera sabían que Satanás existía!
 
-### Y ese es el verdadero problema aquí, el hecho de que Satanás se disfrazó de algo diferente de lo que es para hacer que sus mentiras sean más creíbles. Eva no sabía que en realidad era Satanás quien le estaba hablando. En realidad, en ese momento, Adán y Eva solo sabían lo que era bueno. ¡Probablemente ni siquiera sabían que Satanás existía!
+#### Este es generalmente el lugar donde declaramos que Satanás no quería que se quedaran así, que quería arruinar todos los grandes planes de Dios para el hombre. Aunque creo que eso puede ser cierto, incluso más que querer arruinar los planes de Dios, Satanás quería ser Dios. El hombre estaba actualmente en comunión con Dios bajo Su autoridad. Ser Dios significaba que el hombre tendría que estar bajo su autoridad. Satanas quería recibir esa autoridad y adoración de parte del hombre. 
 
-### Hoy, Satanás es el mismo y sus intenciones siguen siendo las mismas también. Es decir, todavía busca engañar a las personas disfrazando sus mentiras para hacerlas creíbles.
+#### Satanás había visto a Dios crear al hombre. Había sido testigo de cómo Dios nombró a Adán y Eva como administradores sobre la tierra. Más tarde vio el cuidado de Dios por ellos mientras les proporcionaba todo lo que necesitaban en el Jardín del Edén. Satanás podía ver el amor y el cuidado que Dios tenía por ellos. Satanás también estaba al tanto del mandato de Dios de no comer del árbol del conocimiento del bien y del mal. Debido a que Satanás sabía que había sido juzgado y condenado al castigo eterno, también quería que el hombre pecara y fuera castigado junto con él.
 
-### Déjame preguntarte, ¿Satanás es omnipresente como Dios? ¿Puede mentir y engañar a los Pwo Karen en Tailandia y tratar de engañarlos aquí en Winchester al mismo tiempo? No, pero hay muchos demonios que lo ayudan.
+### Génesis 3:2-3 *La mujer respondió a la serpiente: «Del fruto de los árboles del huerto podemos comer; pero del fruto del árbol que está en medio del huerto, Dios ha dicho: “No comerán de él, ni lo tocarán, para que no mueran”».*
 
-### Una vez más, todo lo que pueden hacer es mentir y engañar. La única forma en que pueden hacer algo más es si Dios lo permite.
+#### Debemos recordar las instrucciones originales y la advertencia que Dios le había dado a Adán cuando lo puso en el Jardín del Edén.
 
-### Y si Dios lo permite, ¡entonces es con un propósito!
+#### Más importante que toda la gran variedad de frutas y verduras que Dios había creado para el hombre era el hecho de que Adán y Eva disfrutaban de una relación perfecta entre sí y con Dios.
 
-### Amigos, recuerden cuando Jesús le dijo a Pedro: "Satanás, quítate de mí". Hoy en día, Satanás usa todo tipo de formas para mentir y engañar a las personas.
+### Génesis 3:4 *Y la serpiente dijo a la mujer: «Ciertamente no morirán.*
 
-#### TELEVISIÓN
+#### Hoy, Satanás es el mismo y sus intenciones siguen siendo las mismas también. Es decir, todavía busca engañar a las personas disfrazando sus mentiras para hacerlas creíbles.
 
-#### Religiones falsas
+#### Déjame preguntarte, ¿Satanás es omnipresente como Dios? ¿Puede mentir y engañar a los Pwo Karen en Tailandia y tratar de engañarlos aquí en Winchester al mismo tiempo? No, pero hay muchos demonios que lo ayudan.
 
-#### Enseñanza incorrecta
+#### Amigos, recuerden cuando Jesús le dijo a Pedro: "Satanás, quítate de mí". Hoy en día, Satanás usa todo tipo de formas para mentir y engañar a las personas. La televisión, las religiones falsas y la falsa enseñanza son algunos ejemplos. 
 
-[**2Co 11:13** ](verseid:47.11.13) Porque los tales son falsos apóstoles, obreros fraudulentos, que se disfrazan como apóstoles de Cristo.
+###### 2 Corintios 11:13-15 *Porque los tales son falsos apóstoles, obreros fraudulentos, que se disfrazan como apóstoles de Cristo.* *Y no es de extrañar, pues aun Satanás se disfraza como ángel de luz.* *Por tanto, no es de sorprender que sus servidores también se disfracen como servidores de justicia, cuyo fin será conforme a sus obras.*
 
-[**2Co 11:14** ](verseid:47.11.14) Y no es de extrañar, pues aun Satanás se disfraza como ángel de luz.
+#### Es el grado de nuestro conocimiento de Dios lo que determina cuán engañables somos. En la medida en que no conozcamos a Dios, en esa medida tendremos una visión inflada de nosotros mismos y de nuestros deseos; es decir, querremos lo que nosotros queremos incluso más de lo que Dios puede querer para nosotros.
 
-[**2Co 11:15** ](verseid:47.11.15) Por tanto, no es de sorprender que sus servidores también se disfracen como servidores de justicia, cuyo fin será conforme a sus obras.
+#### Este es el colmo del orgullo. Terminamos pensando que sabemos lo que es mejor para nosotros de lo que Dios sabe. Nos volvemos autosuficientes y confiamos en nuestro propio entendimiento. ¿Fue así como Dios creó por primera vez a Adán y Eva para que fueran? ¿Ser autosuficientes, confiar en sí mismos? No, Él los creó para que dependieran de Él.
 
-### Es el grado de nuestro conocimiento de Dios lo que determina cuán engañables somos. En la medida en que no conozcamos a Dios, en esa medida tendremos una visión inflada de nosotros mismos y de nuestros deseos; es decir, querremos lo que NOSOTROS queremos incluso más de lo que Dios puede querer para nosotros.
-
-### Este es el colmo del orgullo. Terminamos pensando que sabemos lo que es mejor para nosotros de lo que Dios sabe. Nos volvemos autosuficientes y confiamos en nuestro propio entendimiento. ¿Fue así como Dios creó por primera vez a Adán y Eva para que fueran? ¿Ser autosuficientes, confiar en sí mismos? No, Él los creó para que dependieran de Él.
-
-### Así que leamos Génesis 3:1-6. Hay una serie de cosas que suceden aquí desde la perspectiva de Satanás y desde la de Eva.
+### Génesis 3:5 *Pues Dios sabe que el día que de él coman, se les abrirán los ojos y ustedes serán como Dios, conociendo el bien y el mal».*
 
 ### En lo que respecta a Satanás:
 
@@ -1240,61 +1218,83 @@ Génesis 2:25 - *Y estaban ambos desnudos, Adán y su mujer, y no se avergonzaba
 
   ### Ella dudaba de la bondad y el amor de Dios o Debido a que dudaba de la bondad de Dios, esto la hizo dudar de su palabra, lo que la llevó a creer las mentiras de Satanás y a cometer pecados.
 
-### Observe que Satanás no la agarró y la obligó a comer el fruto. Fue su falta de confianza en Dios y en su bondad lo que la hizo engañosa, lo que la llevó a pecar. Si no hubiera dudado de la bondad de Dios, no habría comido el fruto y no habría habido nada más que Satanás pudiera haber hecho al respecto.
+## Génesis 3:6-7 La caida
 
-### Entonces, ¿ve el significado de esto para nosotros hoy? Cuando somos tentados por el pecado, la solución no es enfocarnos en Satanás y "orar para que se vaya" o lo que sea, ¡sino que el verdadero problema es nuestra falta de conocimiento de Dios! Es cierto que Eva no sabía que esto venía de Satanás, pero no NECESITABA saberlo. Si hubiera confiado en la bondad de Dios, habría reconocido las mentiras. Observe que Eva fue engañada por Satanás, pero Adán eligió desobedecer el mandato directo de Dios.
+### Génesis 3:6 *Cuando la mujer vio que el árbol era bueno para comer, y que era agradable a los ojos, y que el árbol era deseable para alcanzar sabiduría, tomó de su fruto y comió. También dio a su marido que estaba con ella, y él comió.*
 
-### También es interesante notar que la naturaleza del pecado de Adán y Eva fue la misma que la de Lucifer: querer ser su propio Dios, su propia autoridad, y no vivir en dependencia de Dios. ¡También está en nosotros hoy!
+#### Observe que Satanás no la agarró y la obligó a comer el fruto. Fue su falta de confianza en Dios y en su bondad lo que la hizo engañosa, lo que la llevó a desobedecer. Si no hubiera dudado de la bondad de Dios, no habría comido el fruto y no habría habido nada más que Satanás pudiera haber hecho al respecto.
 
-### Cuando eras niño, ¿alguna vez te resultó difícil obedecer a tus padres o maestros? Esto proviene de querer ser tu propio dios, tal como Lucifer quería en ese entonces.
+#### Eva fue tentada por Satanas. Al dudar las palabras de Dios, el caracter de Dios, fue llevada por Satanas a dudar de Dios, a mirar el fruto prohibido como algo deseable y a ser tentada a tomarlo y cayó, comiendo del fruto que Dios le había dicho que no comiera. 
 
-### Entonces, ¿Dios tenía el derecho de gobernar sobre Lucifer? ¿Qué pasa con Adán y Eva? ¿Y nosotros?
+#### Entonces, ¿ve el significado de esto para nosotros hoy? Tipicamente, no somos tentados por Satanas personalmente, sin embargo, después de la caida de Adan, todos poseemos una naturaleza caida, pecaminosa. Es nuestra naturaleza caida, la carne o el pecado,  que nos lleva a ser tentados. 
 
-### ¿Por qué es que a menudo desobedecemos la palabra de Dios? Se trata de no tener realmente confianza en quién es Él y cómo es. En la medida en que no conozcamos a Dios, en esa medida nos será imposible caminar en la verdad. ¡Porque no podemos CONFIAR en Dios si no lo conocemos!
+#### Cuando somos tentados por el pecado, la solución no es enfocarnos en Satanás o el pecado y "orar para que se vaya" o lo que sea, ¡sino que el verdadero problema es nuestra falta de conocimiento de Dios! Es cierto que Eva no sabía que esto venía de Satanás, pero no necesitaba saberlo. Si hubiera confiado en la bondad de Dios, habría reconocido las mentiras.
 
-### Lea Génesis 3:7-8.
+#### También es interesante notar que la motivación de Adán y Eva fue muy similar  que la de Lucifer: querer ser su propio Dios, su propia autoridad, y no vivir en dependencia de Dios. ¡También está en nosotros hoy!
 
-### Ahora bien, Dios había dicho que si comían del árbol de la ciencia del bien y del mal, morirían. No cayeron muertos, entonces, ¿mintió Dios? ¿Estaba tratando de asustarlos para que obedecieran?
+#### Observe que Eva fue engañada por Satanás, pero Adán eligió desobedecer el mandato directo de Dios.
 
-### ¿Tenía razón Satanás después de todo? Entonces, ¿murieron Adán y Eva?
+#### Cuando eras niño, ¿alguna vez te resultó difícil obedecer a tus padres o maestros? Esto proviene de querer ser tu propio dios, tal como Lucifer quería en ese entonces.
 
-### ¡SÍ! ¿Fue inmediato? ¡SÍ! La muerte física no fue evidente en Adán y Eva inmediatamente después de cometer su pecado. Todavía respiraban y caminaban. Pero en ese mismo momento habían muerto espiritualmente. Sus almas y espíritus, que fueron hechos a imagen de Dios, se habían corrompido y separado de Él. Ya no podían conocer, amar y obedecer a Dios.
+#### ¿Por qué es que a menudo desobedecemos la palabra de Dios? Se trata de no tener realmente confianza en quién es Él y cómo es. En la medida en que no conozcamos a Dios, en esa medida nos será imposible caminar en la verdad. ¡Porque no podemos CONFIAR en Dios si no lo conocemos!
 
-### También en ese mismo momento murieron físicamente en el sentido de que el proceso de envejecimiento y muerte comenzó a tener lugar en sus cuerpos. Luego, al morir físicamente, también se separarían de Dios eternamente con Satanás en el lago de fuego.
+### Génesis 3:7 *Entonces fueron abiertos los ojos de ambos, y conocieron que estaban desnudos; y cosieron hojas de higuera y se hicieron delantales.* El resultado de desobedecer fue exáctamente lo que Dios había dicho. 
 
-### Dios no es como nosotros. ¡Él no hace amenazas que no cumple! A veces hacemos amenazas y olvidamos o amenazamos con cosas que no podemos llevar a cabo, o nos volvemos perezosos. ¡Pero Dios nunca es así! Él siempre lleva a cabo y cumple Sus promesas. Adán y Eva se habían convertido en enemigos de Dios. Dios no puede tener comunión con aquellos que lo desobedecen porque Él es santo y justo. Por esa razón, Adán y Eva ya no podrían disfrutar de la amistad que una vez tuvieron con Dios. Originalmente eran inocentes, puros, siguiendo al Señor. Ahora se habían corrompido y estaban bajo el control de Satanás.
+#### Ahora bien, Dios había dicho que si comían del árbol de la ciencia del bien y del mal, morirían. No cayeron muertos, entonces, ¿mintió Dios? ¿Estaba tratando de asustarlos para que obedecieran?
 
-### El versículo 7 lo prueba. Originalmente estaban desnudos y sin vergüenza. Eran puros e inocentes. No tenían ningún pensamiento malvado o pecaminoso. Sin embargo, una vez que habían pecado, sus mentes se corrompieron y por primera vez comenzaron a "conocer el mal" y, por lo tanto, se sintieron avergonzados.
+#### ¿Tenía razón Satanás después de todo? Entonces, ¿murieron Adán y Eva?
 
-### La segunda prueba es que habían tratado de satisfacer sus propias necesidades. Fueron creados para depender de Dios para todo. Ahora dependían de sus propias ideas y habilidades para cubrir su propia desnudez, al igual que Adán y Eva dependían de sí mismos para vestirse y "arreglar" su problema.
+##### ¡SÍ! ¿Fue inmediato? ¡SÍ! La muerte física no fue evidente en Adán y Eva inmediatamente después de cometer su pecado. Todavía respiraban y caminaban. Pero en ese mismo momento habían muerto espiritualmente. Sus almas y espíritus, que fueron hechos a imagen de Dios, se habían corrompido y separado de Él. Ya no podían conocer, amar y obedecer a Dios.
 
-### Hoy en día, muchos continúan tratando de hacerse aceptables a Dios a través de sus propios esfuerzos, para arreglar su apariencia externa. ¿Puedes pensar en formas en que la gente intenta hacer esto hoy?
+##### También en ese mismo momento empezaron a morir físicamente en el sentido de que el proceso de envejecimiento y muerte comenzó a tener lugar en sus cuerpos. Luego, al morir físicamente, también se separarían de Dios eternamente con Satanás en el lago de fuego.
 
-#### Ir a la iglesia
+#### Dios no es como nosotros. ¡Él no hace amenazas que no cumple! A veces hacemos amenazas y olvidamos o amenazamos con cosas que no podemos llevar a cabo, o nos volvemos perezosos. ¡Pero Dios nunca es así! Él siempre lleva a cabo y cumple Sus promesas. Adán y Eva se habían convertido en enemigos de Dios. Dios no puede tener comunión con aquellos que lo desobedecen porque Él es santo y justo. Por esa razón, Adán y Eva ya no podrían disfrutar de la amistad que una vez tuvieron con Dios. Originalmente eran inocentes, puros, siguiendo al Señor. Ahora se habían corrompido y estaban bajo el control de Satanás.
 
-#### Ser bautizado
+##### Originalmente estaban desnudos y sin vergüenza. Eran puros e inocentes. No tenían ningún pensamiento malvado o pecaminoso. Sin embargo, una vez que habían pecado, sus mentes se corrompieron y por primera vez comenzaron a "conocer el mal" y, por lo tanto, se sintieron avergonzados.
 
-#### Dar dinero a la iglesia
+##### La segunda prueba es que habían tratado de satisfacer sus propias necesidades. Fueron creados para depender de Dios para todo. Ahora dependían de sus propias ideas y habilidades para cubrir su propia desnudez, al igual que Adán y Eva dependían de sí mismos para vestirse y "arreglar" su problema.
 
-#### Hacer algo bueno por otra persona
+#### Hoy en día, muchos continúan tratando de hacerse aceptables a Dios a través de sus propios esfuerzos, para arreglar su apariencia externa. ¿Puedes pensar en formas en que la gente intenta hacer esto hoy?
 
-#### Orando
+##### Ir a la iglesia
 
-#### Leer la Biblia
+##### Ser bautizado
 
-### Por mucho que algunas personas traten de hacerse aceptables a Dios, ¡todos nuestros intentos son inútiles!
+##### Dar dinero a la iglesia
 
-### La tercera prueba de que se corrompieron y se separaron de Dios fue el hecho de que trataron de esconderse de Dios. Esta también es otra prueba de que no confían en quién es Dios y cómo es.
+##### Hacer algo bueno por otra persona
 
-### Primero dudaban de su autoridad y bondad, ahora dudaban de su omnisciencia y omnipresencia. ¡Realmente pensaron que podían esconderse de Dios! ¿Alguna vez haces eso? ¿Realmente crees que Dios conoce y ve cada pensamiento de tu corazón?
+##### Orando
 
-### Sí, lo creemos, pero ¿vivimos como lo creemos? Antes de que Adán y Eva hubieran pecado, estaban de acuerdo con Dios. Ahora estaban de acuerdo con Satanás. Ya no podían conocer ni entender a Dios. No había unidad entre ellos como la que habían disfrutado una vez. Ya no eran sus amigos; ahora estaban bajo el control de Satanás.
+##### Leer la Biblia
 
-## Cuando Dios creó a Adán y Eva por primera vez, ¿tenían miedo de algo? No
+#### Por mucho que algunas personas traten de hacerse aceptables a Dios, ¡todos nuestros intentos son inútiles!
 
-### Definitivamente no le tenían miedo a Dios, Él era su amigo. Todo en el mundo era bueno y hermoso. La enfermedad y la muerte no existían y no temían a ningún animal, porque todos eran mansos y nadie les haría daño.
+#### La tercera prueba de que se corrompieron y se separaron de Dios fue el hecho de que trataron de esconderse de Dios. Esta también es otra prueba de que no confían en quién es Dios y cómo es.
 
-### Pero después de que Adán y Eva pecaron, tuvieron miedo. ¿Estaba bien o mal que tuvieran miedo en este momento? Creo que fueron ambas cosas. Era correcto en el sentido de que habían cometido la única cosa que Dios les había advertido que no hicieran. La cosa por la que Él dijo que morirían. Satanás dijo que no morirían y le creyeron. Sin embargo, inmediatamente después de comer la fruta, creo que se dieron cuenta ... uh oh, ¿por qué me siento así?
+#### Primero dudaban de su autoridad y bondad, ahora dudaban de su omnisciencia y omnipresencia. ¡Realmente pensaron que podían esconderse de Dios! ¿Alguna vez haces eso? ¿Realmente crees que Dios conoce y ve cada pensamiento de tu corazón?
+
+#### Sí, lo creemos, pero ¿vivimos como lo creemos? Antes de que Adán y Eva hubieran pecado, estaban de acuerdo con Dios. Ahora estaban de acuerdo con Satanás. Ya no podían conocer ni entender a Dios. No había unidad entre ellos como la que habían disfrutado una vez. Ya no eran sus amigos; ahora estaban bajo el control de Satanás.
+
+### Génesis 3:8a *Y oyeron al SEÑOR Dios que se paseaba en el huerto al fresco del día.* Es interesante notar en estos pasajes la reacción de Dios. Obviamente no fue tomado por sorpresa. No evitó la situación sino vino a encontrarse con Adan y Eva. Tampoco ignoró el pecado de Adan y Eva, pretendiendo que nada era diferente. 
+
+#### Por falta de una mejor palabra, nos prestaremos de un concepto de la filosofía (epistemología), que tiene que ver con entender la fuente del conocimiento para entender lo sucedido aquí. No trata con lo que conoces sino de donde proviene tu conocimiento.  La epistemologia responde a la pregunta, ¿qué podemos llegar a conocer, y por qué medios? 
+
+#### La epistemología de Adán y Eva cambio de ser exclusivamente la palabra de Dios a ser una combinación entre Dios, la serpiente y sus propios sentidos. 
+
+#### Miremos fuentes epistemológicos: el empirismo, el racionalismo y el relativismo. 
+
+##### Tres fuentes principales en la epistemologia son: el racionalismo (deducción lógica, razonamiento), el empiricismo (experiencia) y la revelación (testimonio autorizado). 
+
+###### Adán y Eva originalmente tenían como única fuente epistemológica a la revelación de Dios. No se apoyaban en otra fuente de conocimiento sino Dios para toda su cosmovisión. Isaías 1:2; Juan 1:1; 2 Timoteo 3:16
+
+###### Ahora, la astucia de la serpiente había sido transferido al hombre. Ahora su punto de referencia o fuente ya no era Dios sino una versión distorcionada de Dios y estaban mirando las cosas desde su propia persepción empírica (sus sentidos), y su propio razonamiento. 
+
+### Génesis 3:8b "*Entonces el hombre y su mujer se escondieron de la presencia del SEÑOR Dios entre los árboles del huerto...*" después que Adan y Eva pecaron, tuvieron miedo de Dios. Inicialmente, definitivamente no le tenían miedo a Dios, Él era su amigo. Todo en el mundo era bueno y hermoso. La enfermedad y la muerte no existían y no temían a ningún animal, porque todos eran mansos y nadie les haría daño. Jeremíah 23:23-24
+
+#### ¿Estaba bien o mal que tuvieran miedo en este momento? Creo que fueron ambas cosas. Era correcto en el sentido de que habían cometido la única cosa que Dios les había advertido que no hicieran. La cosa por la que Él dijo que morirían. Satanás dijo que no morirían y le creyeron. Sin embargo, inmediatamente después de comer la fruta, creo que se dieron cuenta ... uh oh, ¿por qué me siento así?
+
+#### Claramente ahora Adan y Eva ya no estaban razonando correctamente. Les había entrado una razonamiento que les hizo pensar vanamente. Por miedo (algo nuevo) se escondieron (a la vista) de Dios entre los arboles del huerto. 
 
 ### Dios siempre hace lo que dice. Castigó a Lucifer y a los ángeles por su rebelión contra Él, y también castigó a Adán y Eva por su desobediencia. Dios es fiel.
 
@@ -1302,39 +1302,9 @@ Génesis 2:25 - *Y estaban ambos desnudos, Adán y su mujer, y no se avergonzaba
 
 ### Sin embargo, también creo que fue incorrecto que temieran, en el sentido de que creo que su miedo al castigo era una continuación de la duda de la bondad de Dios.
 
-### A pesar de que habían pecado y obligado a Dios a castigarlos, eso no cambió el hecho de quién es Dios y cómo es. ¡Todavía era bueno, misericordioso, misericordioso y amoroso incluso en el castigo!
+### A pesar de que habían pecado y obligado a Dios a castigarlos, eso no cambió el hecho de quién es Dios y cómo es. ¡Todavía era bueno, misericordioso, misericordioso y amoroso incluso en el castigo! 
 
-[**Jer 23:23** ](verseid:24.23.23) »¿Acaso soy Yo un Dios solo de cerca», declara el SEÑOR, «Y no un Dios de lejos?».
-
-[**Jer 23:24** ](verseid:24.23.24) «¿Podrá alguien esconderse en escondites De modo que Yo no lo vea?», declara el SEÑOR. «¿No lleno Yo los cielos y la tierra?», declara el SEÑOR.
-
-### Salmos 139:1-12
-
-[**Psa 139:1** ](verseid:19.139.1) **Para el director del coro. Salmo de David.** Oh SEÑOR, Tú me has escudriñado y conocido.
-
-[**Psa 139:2** ](verseid:19.139.2) Tú conoces mi sentarme y mi levantarme; Desde lejos comprendes mis pensamientos.
-
-[**Psa 139:3** ](verseid:19.139.3) Tú escudriñas mi senda y mi descanso, Y conoces bien todos mis caminos.
-
-[**Psa 139:4** ](verseid:19.139.4) Aun antes de que haya palabra en mi boca, Oh SEÑOR, Tú *ya* la sabes toda.
-
-[**Psa 139:5** ](verseid:19.139.5) Por detrás y por delante me has cercado, Y Tu mano pusiste sobre mí.
-
-[**Psa 139:6** ](verseid:19.139.6) *Tal* conocimiento es demasiado maravilloso para mí; Es *muy* elevado, no lo puedo alcanzar.
-
-[**Psa 139:7** ](verseid:19.139.7) ¿Adónde me iré de Tu Espíritu, O adónde huiré de Tu presencia?
-
-[**Psa 139:8** ](verseid:19.139.8) Si subo a los cielos, allí estás Tú; Si en el Seol preparo mi lecho, allí Tú estás.
-
-[**Psa 139:9** ](verseid:19.139.9) *Si* tomo las alas del alba, *Y si*habito en lo más remoto del mar,
-
-[**Psa 139:10** ](verseid:19.139.10) Aun allí me guiará Tu mano, Y me tomará Tu diestra.
-
-[**Psa 139:11** ](verseid:19.139.11) Si digo: «Ciertamente las tinieblas me envolverán, Y la luz a mi alrededor será noche»;
-
-[**Psa 139:12** ](verseid:19.139.12) Ni aun las tinieblas son oscuras para Ti, Y la noche brilla como el día. Las tinieblas y la luz son iguales *para Ti.*
-
-### Cuando pecamos, nuestra tendencia natural es temer y tratar de ocultarlo tal como lo hicieron Adán y Eva. Pero una vez más, hacemos esto porque no conocemos a Dios y dudamos de Él, de quién es y de cómo es.
+### Cuando pecamos, nuestra tendencia natural es temer y tratar de ocultarlo tal como lo hicieron Adán y Eva. Pero una vez más, hacemos esto porque no conocemos a Dios y dudamos de Él, de quién es y de cómo es. Salmo 139:1-12
 
 ## Preguntas de revisión
 
@@ -1352,183 +1322,187 @@ Génesis 2:25 - *Y estaban ambos desnudos, Adán y su mujer, y no se avergonzaba
 
 ### Después de que Adán y Eva pecaron, tuvieron miedo de Dios y se escondieron. ¿Era esto correcto o incorrecto que lo temieran?
 
-# GÉNESIS 3:8-DIOS JUZGÓ A ADÁN Y EVA, MALDIJO LA TIERRA Y PROMETIÓ ENVIAR UN LIBERTADOR
+# GÉNESIS 3:9-20 LA MALDICIÓN: LA SERPIENTE, EVA, ADÁN Y LA TIERRA ENTERA
 
-## Introducción: Es difícil imaginar que, a la luz del maravilloso carácter de Dios, Adán actuó independientemente de Dios. A menudo hablamos de la vergüenza de estar desnudos y temerosos cuando se escondieron de Dios como los primeros signos de corrupción de su pecado. Pero creo que la primera emoción nueva que sintieron después de pecar tuvo que ser el horror de saber que habían pecado, que habían comido del único árbol del que Dios les había ordenado que no comieran. Hasta este punto, nunca antes habían sentido los resultados del pecado.
+## Génesis 3:9-11 Dios confronta Adan
 
-## Dios llamó a Adán
+### Génesis 3:9 *Pero el SEÑOR Dios llamó al hombre y le dijo: «¿Dónde estás?».*
 
-### Dios amó a Adán y Eva y vino al jardín para estar con ellos. Antes de separarse de Dios, disfrutaban de estar con Él; pero después de desobedecerlo, Adán y Eva trataron de esconderse de Dios.
+### Génesis 3:10 *Y él respondió: «Te oí en el huerto, tuve miedo porque estaba desnudo, y me escondí».*
 
-### Lea Génesis 3:8-9 
+### Génesis 3:11 *«¿Quién te ha hecho saber que estabas desnudo?», le preguntó Dios. «¿Has comido del árbol del cual Yo te mandé que no comieras?».*
 
-### Cuando Adán y Eva intentaban esconderse entre los árboles, sabemos que Dios sabía dónde estaban, porque Él está en todas partes y lo ve todo y lo sabe todo.
+#### Es difícil imaginar que, a la luz del maravilloso carácter de Dios, Adán actuó independientemente de Dios. A menudo hablamos de la vergüenza de estar desnudos y temerosos cuando se escondieron de Dios como los primeros signos de corrupción de su pecado. Pero creo que la primera emoción nueva que sintieron después de pecar tuvo que ser el horror de saber que habían pecado, que habían comido del único árbol del que Dios les había ordenado que no comieran. Hasta este punto, nunca antes habían sentido los resultados del pecado.
 
-### Entonces, en vista del hecho de que nada puede ocultarse a Dios, ¿por qué gritó: "¿Dónde estás?" Dios llamó a Adán y Eva porque todavía los amaba. A pesar de que Dios iba a tener que cumplir con el castigo que había prometido por su desobediencia, les estaba dando la oportunidad de venir a Él voluntariamente y admitir su pecado.
+#### Dios amó a Adán y Eva y vino al jardín para estar con ellos. Antes de separarse de Dios, disfrutaban de estar con Él; pero después de desobedecerlo, Adán y Eva trataron de esconderse de Dios.
 
-### Dios no llamó a Dios para averiguar dónde estaban, sino que fue para que Adán y Eva se dieran cuenta de dónde estaban y se dieran cuenta de cómo sus mentes, voluntades y emociones también habían cambiado. Quería que reconocieran y admitieran su pecado.
+#### Cuando Adán y Eva intentaban esconderse entre los árboles, sabemos que Dios sabía dónde estaban, porque Él está en todas partes y lo ve todo y lo sabe todo.
 
-### Creo que tenemos que seguir volviendo a los versículos que vimos en nuestra primera semana, que incluso desde antes de la fundación de la tierra, este plan de redención ya existía en el corazón de Dios que se llevaría a cabo a través de Cristo. El pecado ya se había calculado hace mucho tiempo. Entonces, el pecado de Adán y Eva no cambió el plan de Dios, creo que tenemos que decir que en realidad lo estaba cumpliendo.
+#### Entonces, en vista del hecho de que nada puede ocultarse a Dios, ¿por qué gritó: "¿Dónde estás?" Dios llamó a Adán y Eva porque todavía los amaba. A pesar de que Dios iba a tener que cumplir con el castigo que había prometido por su desobediencia, les estaba dando la oportunidad de venir a Él voluntariamente y admitir su pecado.
 
-### De la misma manera que Dios estaba llamando a Adán y Eva para ayudarlos a darse cuenta de su pecado, Dios hace lo mismo hoy. Todavía llama a las personas de hoy para ayudarlas a ver su pecado y su necesidad de un Salvador. ¿Cuáles son algunas de las formas en que Él hace esto? Sabemos que Él habla a través de las cosas que ha creado. Como ya hemos dicho muchas, muchas veces, la creación revela una serie de atributos de Dios:
+#### Dios no llamó a Dios para averiguar dónde estaban, sino que fue para que Adán y Eva se dieran cuenta de dónde estaban y se dieran cuenta de cómo sus mentes, voluntades y emociones también habían cambiado. Quería que reconocieran y admitieran su pecado.
 
-#### Su sabiduría
+#### Creo que tenemos que seguir volviendo a los versículos que vimos en nuestra primera semana, que incluso desde antes de la fundación de la tierra, este plan de redención ya existía en el corazón de Dios que se llevaría a cabo a través de Cristo. El pecado ya se había calculado hace mucho tiempo. Entonces, el pecado de Adán y Eva no cambió el plan de Dios, creo que tenemos que decir que en realidad lo estaba cumpliendo.
 
-#### Su poder
+#### De la misma manera que Dios estaba llamando a Adán y Eva para ayudarlos a darse cuenta de su pecado, Dios hace lo mismo hoy. Todavía llama a las personas de hoy para ayudarlas a ver su pecado y su necesidad de un Salvador. ¿Cuáles son algunas de las formas en que Él hace esto? Sabemos que Él habla a través de las cosas que ha creado. 
 
-#### Su amor
+#### Como ya hemos dicho muchas, muchas veces, la creación revela una serie de atributos de Dios: Su sabiduría, Su poder, Su amor, Su autoridad y soberanía, Su bondad y santidad, Su amabilidad. 
 
-#### Su autoridad y soberanía
+#### Cuanto más aprendemos sobre la inmensidad de la creación de Dios, más podemos ver y comprender Su grandeza.
 
-#### Su bondad y santidad
-
-#### Su amabilidad
-
-### Cuanto más aprendemos sobre la inmensidad de la creación de Dios, más podemos ver y comprender Su grandeza.
-
-### Lea el Salmo 19:1-3.
-
-Salmo 19:1  **Para el director del coro. Salmo de David.** Los cielos proclaman la gloria de Dios, Y el firmamento anuncia la obra de Sus manos.
-
-Salmo 19:2 *Un* día transmite el mensaje al *otro*día, Y *una* noche a *la otra* noche revela sabiduría.
-
-Salmo 19:3 No hay mensaje, no hay palabras; No se oye su voz.
-
-### La belleza y la expansión de la creación de Dios deberían hacernos detenernos y darnos cuenta de que Dios, el Creador de todas las cosas, quiere que lo conozcamos.
+### La belleza y la expansión de la creación de Dios deberían hacernos detenernos y darnos cuenta de que Dios, el Creador de todas las cosas, quiere que lo conozcamos. Salmo 19:1-3
 
 ### Dios también nos habla a través de Su Palabra. La palabra de Dios es Su mensaje para el mundo entero. Lamentablemente, sin embargo, la mayoría solo lo ve como una lista de lo que se debe y no se debe hacer. Pero en realidad es una autobiografía que Dios ha escrito para revelarse a la humanidad.
 
-## Dios cuestionó a Adán
+#### Aquí vemos nuevamente a Dios cuestionando a Adán, y nuevamente, Dios le estaba dando a Adán la oportunidad de admitir su pecado. También a partir de esto vemos a Dios estableciendo el hecho de que Él tiene autoridad absoluta sobre toda Su creación.
 
-### Lea Génesis 3:9-11.
+#### Cuando Lucifer y los ángeles pecaron, ¿Dios simplemente lo dejó pasar? No, tenían que responder a Dios y someterse a Su autoridad. Lo mismo aquí fue cierto para Adán y Eva, y también es cierto para todos nosotros. Un día, toda la humanidad responderá a Dios. Debido a que Dios es nuestro Creador, Él es nuestro legítimo dueño.
 
-Génesis 3:9 *Pero el SEÑOR Dios llamó al hombre y le dijo: «¿Dónde estás?».*
+#### Hechos 17:25 *ni es servido por manos humanas, como si necesitara de algo, puesto que Él da a todos vida y aliento y todas las cosas.*
 
-Génesis 3:10 *Y él respondió: «Te oí en el huerto, tuve miedo porque estaba desnudo, y me escondí».*
+## Génesis 3:12-13 Adán culpó a Eva, y Eva culpó a la serpiente
 
-Génesis 3:11 *«¿Quién te ha hecho saber que estabas desnudo?», le preguntó Dios. «¿Has comido del árbol del cual Yo te mandé que no comieras?».*
+### Génesis 3:12 *El hombre respondió: «La mujer que Tú me diste por compañera me dio del árbol, y yo comí».* En lugar de admitir su culpa, Adán culpó a Dios por darle a la mujer. Adán estaba insinuando que si Dios no le hubiera dado a la mujer, no habría desobedecido.
 
-### Aquí vemos nuevamente a Dios cuestionando a Adán, y nuevamente, Dios le estaba dando a Adán la oportunidad de admitir su pecado. También a partir de esto vemos a Dios estableciendo el hecho de que Él tiene autoridad absoluta sobre toda Su creación.
+### Génesis 3:13 *Entonces el SEÑOR Dios dijo a la mujer: «¿Qué es esto que has hecho?». «La serpiente me engañó, y yo comí», respondió la mujer.*
 
-### Cuando Lucifer y los ángeles pecaron, ¿Dios simplemente lo dejó pasar? No, tenían que responder a Dios y someterse a Su autoridad. Lo mismo aquí fue cierto para Adán y Eva, y también es cierto para todos nosotros. Un día, toda la humanidad responderá a Dios. Debido a que Dios es nuestro Creador, Él es nuestro legítimo dueño.
+#### Piense en el momento en que Dios creó a Eva por primera vez. Dios llevó a cabo ese evento de tal manera que manifestó claramente su amor por Adán. Ahora, ¡aquí está Adán culpando a Dios y su gran amor por Adán como la causa de su pecado! Vaya, eso es el colmo de la arrogancia y la vanidad. Esto es lo que nuestra naturaleza pecaminosa es capaz de hacer: "¡Bueno, no deberías haberme dado a la mujer"! Entonces Eve culpó a la serpiente. Adán y Eva trataron de evitar asumir la responsabilidad personal por lo que habían hecho.
 
-### Lea Hechos 17:25.
+#### Este es un problema importante en nuestra sociedad actual también. Las personas buscan inherentemente evitar ser responsables de sus pecados y fracasos, a veces incluso hasta el punto de permitir que se culpe a otra persona. Pero al final, nadie puede engañar a Dios. El pecado no quedará impune. Dios ve y conoce la verdad sobre cada persona. Nadie puede escapar del castigo de Dios culpando a otra persona. Dios responsabiliza a cada persona por su propio pecado. Adán culpó a Dios y Eva culpó a la serpiente, pero Dios ya sabía la verdad sobre todo lo que había sucedido. ¡Nada se le oculta!
 
-Hechos 17:25 ni es servido por manos humanas, como si necesitara de algo, puesto que Él da a todos vida y aliento y todas las cosas.
+## Génesis 3:14 Dios maldijo a la serpiente
 
-## Adán culpó a Eva, y Eva culpó a la serpiente
+### Génesis 3:14a "*Y el SEÑOR Dios dijo a la serpiente: «Por cuanto has hecho esto,*" La primera maldición viene a la serpiente. ¿Quién es la serpiente? ¿Es solo una víbora que Satanas poseyó? 
 
-### Adán y Eva no querían reconocer su pecado.
+#### No sabemos pero lo que no se puede discutir es que la maldición a la Serpiente va estrechamente ligada con la simiente de Satanas y con ser aplastado en la cabeza por La Simiente de la mujer. 
 
-### Lea Génesis 3:12-13.
+##### De hecho, la promesa del Redentor de Génesis 3:15 is hecho en conversación con la serpiente. 
 
+##### Concluimos entonces, que la maldición aquí es a Satanas. Todo parece indicar que Satanas es maldecido a caminar por la tierra y ya no tendría posada en el cielo. 
 
+### Génesis 3:14b "*...Maldita serás más que todos los animales, Y más que todas las bestias del campo...*"  
 
-[**Gen 3:1** ](verseid:1.3.1) La serpiente era más astuta que cualquiera de los animales del campo que el SEÑOR Dios había hecho. Y dijo a la mujer: «¿Conque Dios les ha dicho: “No comerán de ningún árbol del huerto”?».
+### Génesis 3:14c "*...Sobre tu vientre andarás y polvo comerás...*" La nueva condición de condena a la serpiente es una posición de humillación y subyugación, un término para ser derrotado. Isaías 65:25, 29:4, 49:23; Miqueas 7:17; Salmo 72:9
 
-[**Gen 3:2** ](verseid:1.3.2) La mujer respondió a la serpiente: «Del fruto de los árboles del huerto podemos comer;
+#### Aunque la Biblia no enseña el momento de la caida de Satanas, lo más bíblico parece ser que la «caída» de Lucifer -en el sentido de ser juzgado, maldecido y derrotado- ocurrió en el momento en que engañó a Eva, aunque su orgullo ya existía con anterioridad.
 
-[**Gen 3:3** ](verseid:1.3.3) pero del fruto del árbol que está en medio del huerto, Dios ha dicho: “No comerán de él, ni lo tocarán, para que no mueran”».
+#### Las Escrituras no especifican el momento exacto de la caída de Satanás, pero los datos bíblicos llevan a esta interpretación.
 
-[**Gen 3:4** ](verseid:1.3.4) Y la serpiente dijo a la mujer: «Ciertamente no morirán.
+##### El orgullo existía antes de Génesis 3, pero el juicio tuvo lugar en Génesis 3. La Biblia revela dos etapas:
 
-[**Gen 3:5** ](verseid:1.3.5) Pues Dios sabe que el día que de él coman, se les abrirán los ojos y ustedes serán como Dios, conociendo el bien y el mal».
+###### Etapa 1: El pecado existía en Satanás antes de la caída del hombre. «*Se enorgulleció*» (1 Timoteo 3:6, refiriéndose al diablo). «*Tu corazón se enorgulleció a causa de tu belleza*» (Ezequiel 28:17). «*Dijiste en tu corazón: “Subiré… seré como el Altísimo*”» (Isaías 14:13-14). Estos textos describen una rebelión interna: orgullo, ambición, corrupción. Pero no especifican una fecha.
 
-[**Gen 3:6** ](verseid:1.3.6) Cuando la mujer vio que el árbol era bueno para comer, y que era agradable a los ojos, y que el árbol era deseable para alcanzar sabiduría, tomó de su fruto y comió. También dio a su marido que estaba con ella, y él comió.
+###### Etapa 2: Génesis 3 describe un evento en el que la serpiente se rebela activamente. Cuando Satanás aparece en Génesis 3: Miente acerca de Dios (Génesis 3:4-5). Distorsiona el mandato de Dios. Ataca el carácter de Dios. Tienta a la humanidad a unirse a su rebelión. Aunque el orgullo ya existía, en Génesis 3 la rebelión se vuelve pública y destructiva.
 
-[**Gen 3:7** ](verseid:1.3.7) Entonces fueron abiertos los ojos de ambos, y conocieron que estaban desnudos; y cosieron hojas de higuera y se hicieron delantales.
+#### En Génesis 3, Dios responde con una sentencia judicial formal.
 
-[**Gen 3:8** ](verseid:1.3.8) Y oyeron al SEÑOR Dios que se paseaba en el huerto al fresco del día. Entonces el hombre y su mujer se escondieron de la presencia del SEÑOR Dios entre los árboles del huerto.
+##### Esto es importante: Génesis 3:14-15 es el primer juicio divino directo sobre la serpiente/Satanás. La serpiente es maldecida (Génesis 3:14). «*Maldita seas…*» Nunca se pronuncia ninguna maldición sobre Adán ni Eva; solo sobre la serpiente y la tierra.
 
+##### La profecía de la descendencia es una sentencia de derrota definitiva (Génesis 3:15).
 
+###### Guerra constante: «enemistad entre tu descendencia y la suya».
 
-[**Gen 3:12** ](verseid:1.3.12) El hombre respondió: «La mujer que Tú me diste por compañera me dio del árbol, y yo comí».
+###### Vendrá un vencedor: «Te aplastará la cabeza».
 
-[**Gen 3:13** ](verseid:1.3.13) Entonces el SEÑOR Dios dijo a la mujer: «¿Qué es esto que has hecho?». «La serpiente me engañó, y yo comí», respondió la mujer.
+###### Este es un lenguaje jurídico.
 
-[**Gen 3:14** ](verseid:1.3.14) Y el SEÑOR Dios dijo a la serpiente: «Por cuanto has hecho esto, Maldita serás más que todos los animales, Y más que todas las bestias del campo. Sobre tu vientre andarás, Y polvo comerás Todos los días de tu vida.
+###### Suena a una caída formal, una sentencia divina.
 
-[**Gen 3:15** ](verseid:1.3.15) Pondré enemistad Entre tú y la mujer, Y entre tu simiente y su simiente; Él te herirá en la cabeza, Y tú lo herirás en el talón».
+###### El mismo Jesús vincula la «caída» de Satanás con Génesis 3. En Juan 8:44, Jesús dice: Satanás «era un asesino desde el principio». Satanás «no se mantuvo en la verdad». Satanás «es el padre de la mentira». ¿Cuándo mintió? Génesis 3 ¿Cuándo trajo la muerte? Génesis 3
 
-[**Gen 3:16** ](verseid:1.3.16) A la mujer dijo: «En gran manera multiplicaré Tu dolor en el parto, Con dolor darás a luz los hijos. Con todo, tu deseo será para tu marido, Y él tendrá dominio sobre ti».
+###### Jesús parece definir la «caída» de Satanás en términos de: el engaño de Eva, el asesinato de la humanidad, la corrupción de la verdad
 
-[**Gen 3:17** ](verseid:1.3.17) Entonces el SEÑOR dijo a Adán: «Por cuanto has escuchado la voz de tu mujer y has comido del árbol del cual te ordené, diciendo: “No comerás de él”, Maldita será la tierra por tu causa; Con trabajo comerás de ella Todos los días de tu vida.
+#### Apocalipsis 12:9 conecta el juicio de la serpiente con el comienzo de la historia humana: «el gran dragón»«la serpiente antigua»«que se llama diablo y Satanás»«fue arrojado a la tierra»
 
-[**Gen 3:18** ](verseid:1.3.18) Espinos y cardos te producirá, Y comerás de las plantas del campo.
+##### Esto sitúa la identidad del diablo en la serpiente del Edén.
 
-[**Gen 3:19** ](verseid:1.3.19) Con el sudor de tu rostro Comerás *el* pan Hasta que vuelvas a la tierra, Porque de ella fuiste tomado; Pues polvo eres, Y al polvo volverás».
+##### Algunos estudiosos argumentan:
 
-[**Gen 3:20** ](verseid:1.3.20) El hombre le puso por nombre Eva a su mujer, porque ella era la madre de todos los vivientes.
+###### Su rebelión inicial (orgullo) ocurrió antes.
 
-[**Gen 3:21** ](verseid:1.3.21) El SEÑOR Dios hizo vestiduras de piel para Adán y su mujer, y los vistió.
+###### Su caída pública (derrota/juicio) ocurrió en Génesis 3.
 
-[**Gen 3:22** ](verseid:1.3.22) Entonces el SEÑOR Dios dijo: «Ahora el hombre ha venido a ser como uno de Nosotros, conociendo ellos el bien y el mal. Cuidado ahora, no vaya a extender su mano y tome también del árbol de la vida, y coma y viva para siempre».
+### Un modelo bíblicamente coherente
 
-[**Gen 3:23** ](verseid:1.3.23) Y el SEÑOR Dios lo echó del huerto del Edén, para que labrara la tierra de la cual fue tomado.
+#### Modelo A (Tradicional): Satanás cayó antes de Génesis 3. Entró en la serpiente para engañar a Eva. Dios pronunció juicio en Génesis 3.
 
-[**Gen 3:24** ](verseid:1.3.24) Expulsó, pues, al hombre; y al oriente del huerto del Edén puso querubines, y una espada encendida que giraba en todas direcciones para guardar el camino del árbol de la vida.
+#### Modelo B (basado bíblicamente): El orgullo de Satanás comenzó internamente antes de Génesis 3. Su caída, en términos de juicio divino, ocurrió cuando engañó a Eva. Génesis 3:14-15 es su sentencia y degradación oficiales.
 
+##### Esta perspectiva toma el texto literalmente. Evita hacer suposiciones sobre cronologías no especificadas. Reconoce que el orgullo y la caída no necesariamente son simultáneos.
 
+#### Entonces… concluimos que la caida de Lucifer ocurrió cuando engañó a Eva. El castigo (de arrastrarse sobre la tierra) se da después del engaño. 
 
-### En lugar de admitir su culpa, Adán culpó a Dios por darle a la mujer. Adán estaba insinuando que si Dios no le hubiera dado a la mujer, no habría desobedecido.
+##### El juicio corresponde al acto de la serpiente en el Edén. 
 
-### Piense en el momento en que Dios creó a Eva por primera vez. Dios llevó a cabo ese evento de tal manera que manifestó claramente su amor por Adán. Ahora, ¡aquí está Adán culpando a Dios y su gran amor por Adán como la causa de su pecado! Vaya, eso es el colmo de la arrogancia y la vanidad. Esto es lo que nuestra naturaleza pecaminosa es capaz de hacer: "¡Bueno, no deberías haberme dado a la mujer"! Entonces Eve culpó a la serpiente. Adán y Eva trataron de evitar asumir la responsabilidad personal por lo que habían hecho.
+##### Jesús vincula las mentiras asesinas de Satanás con «el principio», es decir, el Edén. 
 
-### Este es un problema importante en nuestra sociedad actual también. Las personas buscan inherentemente evitar ser responsables de sus pecados y fracasos, a veces incluso hasta el punto de permitir que se culpe a otra persona. Pero al final, nadie puede engañar a Dios. El pecado no quedará impune. Dios ve y conoce la verdad sobre cada persona. Nadie puede escapar del castigo de Dios culpando a otra persona. Dios responsabiliza a cada persona por su propio pecado. Adán culpó a Dios y Eva culpó a la serpiente, pero Dios ya sabía la verdad sobre todo lo que había sucedido. ¡Nada se le oculta!
+##### Las Escrituras nunca fechan explícitamente la caída de Lucifer antes de Génesis 3. El orgullo existía con anterioridad, pero la caída (y el juicio) se sitúa, con toda razón, en el Edén.
 
-## Dios maldijo a la serpiente
+### Génesis 3:14d "*...Todos los días de tu vida...*" cada vez que vemos a una serpiente no acuerda a la condena de Satanas. 
 
-### Lee Génesis 3:14.
+#### En la palabra de Dios no se nos dice cómo se movía la serpiente cuando fue creada por primera vez antes de ser maldecida, pero parece que no se deslizó por el suelo como lo hace ahora. Fue solo después de que Satanás usó la serpiente para engañar a Eva que Dios la maldijo e hizo que se moviera como lo hace ahora.
 
-### En la palabra de Dios no se nos dice cómo se movía la serpiente cuando fue creada por primera vez antes de ser maldecida, pero parece que no se deslizó por el suelo como lo hace ahora. Fue solo después de que Satanás usó la serpiente para engañar a Eva que Dios la maldijo e hizo que se moviera como lo hace ahora.
+## Génesis 3:15 - Dios prometió una guerra cósmica, dos simientes y victoria sobre la simiente de la serpiente por medio la simiente de la mujer. 
 
-## Dios prometió enviar al Libertador
+### Génesis 3:15a "*Pondré enemistad Entre tú y la mujer,*" La hostilidad descrita no se limita a la relación entre humanos y serpientes literales.
 
-### Adán y Eva estaban ahora bajo el control de Satanás. Cuando Adán y Eva desobedecieron a Dios y se sometieron al control de Satanás, su relación con Dios se rompió. Su unidad con Dios se rompió y ahora tenían la misma mentalidad que Satanás y, debido a eso, estaban bajo su autoridad e influencia. Sin duda, Satanás tenía que pensar que había derrotado a Dios y había ganado el control completo del mundo. ¡Sin embargo, sabemos que Dios es absolutamente soberano y todopoderoso!
+#### ¿Por qué esto va más allá de una serpiente literal?
 
-### Tenemos que seguir transmitiendo todas estas historias y eventos a través del hecho del plan de Dios desde antes de la fundación de la tierra. Sin esa perspectiva, tenderemos a ver a Dios como "reaccionario" en lugar de "soberano"; pero debido a ese plan de Dios que se llevaría a cabo por medio de Dios el Hijo, eso se determinó antes de que comenzara el tiempo. Tan pronto como Dios citó el juicio de Adán y Eva, inmediatamente dio la promesa de un Libertador.
+##### Las serpientes no tienen un conflicto moral con la humanidad. La derrota definitiva de la serpiente se atribuye a la derrota de Satanás (Romanos 16:20; Hebreos 2:14; Apocalipsis 12).
 
-### Lee Génesis 3:15.
+##### Por lo tanto, la serpiente del Génesis funciona como algo más que un animal: es la instigadora de la rebelión cósmica.
 
-### Además de dar la esperanza y la promesa de un Libertador venidero aquí, Dios también comienza a señalar algunas de las características de Su venida. Dios solo da una referencia a que Él es de la simiente de una mujer. No dice la simiente del hombre y la mujer, sino solo la mujer. Esta es una referencia al nacimiento virginal. El Libertador tendría que nacer libre de la simiente del hombre; de lo contrario, Él también nacería con una naturaleza pecaminosa.
+###### La copia samaritana en el lenguage original, en lugar de nachash, 'una serpiente', dice cachash, 'un mentiroso o engañador', lo cual está en armonía con el lenguaje de nuestro Salvador. Juan 8:44, 1 Crónicas 4:12, Ezekiel 28:13-14, 28:16-17; Mateo 23:33, 2 Corintios 2:11, 11:3, 11:14; 1 Tesalonicenses 3:5; Apocalipsis 12:9
 
-### Dios también da la promesa de que el Libertador vencerá a Satanás. Dios dijo que Satanás magullaría el talón del Libertador, pero al final, aplastaría la cabeza de la serpiente. La "cabeza" simboliza la autoridad. Cuando Adán y Eva pecaron, Satanás ganó poder, autoridad e influencia sobre ellos. Pero aquí Dios está dando la promesa de que el Libertador venidero vencerá a Satanás, liberará a las personas de su control y las restaurará a la unidad y armonía con Dios.
+### Génesis 3:15b "*Y entre tu simiente y su simiente;*" La «descendencia» culmina en un único Libertador masculino («él te aplastará la cabeza»).
 
-### Dios también dijo que el talón del Libertador sería magullado en el proceso. Durante el proceso del Libertador venciendo a Satanás, se infligiría dolor y sufrimiento al Libertador. Sin embargo, un hematoma en el talón no es fatal; y, por lo tanto, Satanás no ganará en su batalla contra el Libertador.
+#### La «descendencia de la serpiente» incluye a todos los que pertenecen al diablo (Juan 8:44; 1 Juan 3:8-10).
 
-### Nombra algunas de las cosas que hemos aprendido sobre Dios, Su carácter o Sus atributos hasta ahora.
+#### El linaje de Caín se caracteriza por: Exilio, Violencia, Poligamia, Jactancia, Desarrollo cultural sin culto, Cerra con Lamec (corrupción máxima)
 
-#### Él es eterno
+#### El linaje de Set se caracteriza por: Culto (“invocar el nombre del SEÑOR”), Caminar con Dios (Enoc), Imagen de Dios enfatizada, Conduce a Noé (preservador de la humanidad), Linaje a través del cual continúa la descendencia prometida
 
-#### Omnipotente
+#### Moisés presenta los dos linajes como dos humanidades En consecuencia directa de Génesis 3:15:
 
-#### Omnisciente
+##### Descendencia de la serpiente (linaje de Caín: orgullo, violencia, impiedad)
 
-#### Omnipresente
+##### Descendencia de la mujer (linaje de Set: culto, fe, preservación)
 
-#### Cariñoso y amable
+### Génesis 3:15c "*Él te herirá en la cabeza,*" no puede haber duda que la serpiente aquí tipifica
 
-#### Santo y justo
+### Génesis 3:15d "*Y tú lo herirás en el talón».*" 
 
-#### Odia el pecado y castiga a los que se rebelan contra Él
+#### Adán y Eva estaban ahora bajo el control de Satanás. Cuando Adán y Eva desobedecieron a Dios y se sometieron al control de Satanás, su relación con Dios se rompió. Su unidad con Dios se rompió y ahora tenían la misma mentalidad que Satanás y, debido a eso, estaban bajo su autoridad e influencia. Sin duda, Satanás tenía que pensar que había derrotado a Dios y había ganado el control completo del mundo. ¡Sin embargo, sabemos que Dios es absolutamente soberano y todopoderoso!
 
-### ¿Qué característica vemos en el hecho de que Dios prometió enviar al Libertador? Dios es amoroso, misericordioso y misericordioso. Adán y Eva habían desobedecido a Dios y merecían el infierno. No tenía que prometer un Libertador. Pero, de nuevo, ¡DIOS ES AMOR, e incluso Su juicio y castigo se llevan a cabo en amor! ¡No podría haber mayor manifestación del amor, la gracia y la misericordia de Dios, todo envuelto en un solo evento!
+#### Tenemos que seguir transmitiendo todas estas historias y eventos a través del hecho del plan de Dios desde antes de la fundación de la tierra. Sin esa perspectiva, tenderemos a ver a Dios como "reaccionario" en lugar de "soberano"; pero debido a ese plan de Dios que se llevaría a cabo por medio de Dios el Hijo, eso se determinó antes de que comenzara el tiempo. Tan pronto como Dios citó el juicio de Adán y Eva, inmediatamente dio la promesa de un Libertador.
 
-### Además, nunca podemos olvidar que Él había planeado llevar a cabo Su plan de redención a través de Cristo antes de que comenzara el tiempo. Dios mostró su amor y bondad por Adán y Eva al darles todo lo que necesitarían y más a través de la creación. Cuando pecaron, merecían ir al infierno; pero en lugar de simplemente enviarlos al infierno, Dios les dio la promesa de un Libertador. Dios mostró Su misericordia al no enviarlos inmediatamente al lago de fuego. No les dio lo que se merecían. Entonces Dios mostró Su gracia dándoles lo que no merecían, un Salvador.
+#### Además de dar la esperanza y la promesa de un Libertador venidero aquí, Dios también comienza a señalar algunas de las características de Su venida. Dios solo da una referencia a que Él es de la simiente de una mujer. No dice la simiente del hombre y la mujer, sino solo la mujer. Esta es una referencia al nacimiento virginal. El Libertador tendría que nacer libre de la simiente del hombre; de lo contrario, Él también nacería con una naturaleza pecaminosa.
 
-## Dios dijo que Eva sufriría a causa de su pecado
+#### Dios también da la promesa de que el Libertador vencerá a Satanás. Dios dijo que Satanás magullaría el talón del Libertador, pero al final, aplastaría la cabeza de la serpiente. La "cabeza" simboliza la autoridad. Cuando Adán y Eva pecaron, Satanás ganó poder, autoridad e influencia sobre ellos. Pero aquí Dios está dando la promesa de que el Libertador venidero vencerá a Satanás, liberará a las personas de su control y las restaurará a la unidad y armonía con Dios.
 
-### Dios le dijo a Eva que ella sufriría las consecuencias por lo que había hecho.
+#### Dios también dijo que el talón del Libertador sería magullado en el proceso. Durante el proceso del Libertador venciendo a Satanás, se infligiría dolor y sufrimiento al Libertador. Sin embargo, un hematoma en el talón no es fatal; y, por lo tanto, Satanás no ganará en su batalla contra el Libertador.
 
-### Lee Génesis 3:16.
+#### Nombra algunas de las cosas que hemos aprendido sobre Dios, Su carácter o Sus atributos hasta ahora. Él es eterno, Omnipotente, Omnisciente, Omnipresente, Cariñoso y amable, Santo y justo, Odia el pecado y castiga a los que se rebelan contra Él. 
 
-### Sus consecuencias serían dolor en el parto y el deseo de gobernar a su esposo, pero que él realmente estaría sobre ella en autoridad. De aquí es de donde provienen las inversiones de roles en los matrimonios.
+#### ¿Qué característica vemos en el hecho de que Dios prometió enviar al Libertador? Dios es amoroso, misericordioso y misericordioso. Adán y Eva habían desobedecido a Dios y merecían el infierno. No tenía que prometer un Libertador. Pero, de nuevo, ¡DIOS ES AMOR, e incluso Su juicio y castigo se llevan a cabo en amor! ¡No podría haber mayor manifestación del amor, la gracia y la misericordia de Dios, todo envuelto en un solo evento!
 
-## Dios dijo que Adán sufriría a causa de su pecado
+#### Además, nunca podemos olvidar que Él había planeado llevar a cabo Su plan de redención a través de Cristo antes de que comenzara el tiempo. Dios mostró su amor y bondad por Adán y Eva al darles todo lo que necesitarían y más a través de la creación. Cuando pecaron, merecían ir al infierno; pero en lugar de simplemente enviarlos al infierno, Dios les dio la promesa de un Libertador. Dios mostró Su misericordia al no enviarlos inmediatamente al lago de fuego. No les dio lo que se merecían. Entonces Dios mostró Su gracia dándoles lo que no merecían, un Salvador.
 
-### Adán también tendría consecuencias por su pecado.
+## Génesis 3:16 - Dios dijo que Eva sufriría a causa de su pecado
 
-### Lea Génesis 3:17-19.
+### Génesis 3:16 *A la mujer dijo: «En gran manera multiplicaré Tu dolor en el parto, Con dolor darás a luz los hijos. Con todo, tu deseo será para tu marido, Y él tendrá dominio sobre ti».* Dios le dijo a Eva que ella sufriría las consecuencias por lo que había hecho.
+
+#### Sus consecuencias serían dolor en el parto y el deseo de gobernar a su esposo, pero que él realmente estaría sobre ella en autoridad. De aquí es de donde provienen las inversiones de roles en los matrimonios.
+
+## Génesis 3:17-19 Dios dijo que Adán sufriría a causa de su pecado
+
+### Génesis 3:17 *Entonces el SEÑOR dijo a Adán: «Por cuanto has escuchado la voz de tu mujer y has comido del árbol del cual te ordené, diciendo: “No comerás de él”, Maldita será la tierra por tu causa; Con trabajo comerás de ella Todos los días de tu vida.* Adán también tendría consecuencias por su pecado.
+
+### Génesis 3:18 *Espinos y cardos te producirá, Y comerás de las plantas del campo.*
+
+### Génesis 3:19 *Con el sudor de tu rostro Comerás el pan Hasta que vuelvas a la tierra, Porque de ella fuiste tomado; Pues polvo eres, Y al polvo volverás».*
+
+### 
 
 ### Satanás engañó a Eva y la usó para llevar a Adán al pecado. Aunque Adán sabía lo que Dios había dicho, escuchó voluntariamente a Eva y se dejó persuadir para que hiciera lo que sabía que era contrario al mandato de Dios.
 
@@ -1538,17 +1512,17 @@ Hechos 17:25 ni es servido por manos humanas, como si necesitara de algo, puesto
 
 ### Vivimos en un mundo que sufre la maldición que Dios puso sobre él debido al pecado de Adán. Podríamos sentarnos aquí y lamentar el hecho de que Adán y Eva pecaron y nos enviaron a todos al pecado, pero en cambio nuestro enfoque debe ser Dios y Su plan de redención. Porque nada de esto ha tomado a Dios por sorpresa. Su plan de redención estaba en Su corazón incluso antes de que comenzara el tiempo. Así que ahí es donde debe estar nuestro enfoque.
 
-## Adán y Eva son los antepasados de todas las personas
+## Génesis 3:20 Adán y Eva son los antepasados de todas las personas
 
-### Como saben, todos los seres humanos descienden de Adán y Eva.
+### Génesis 3:20 *El hombre le puso por nombre Eva a su mujer, porque ella era la madre de todos los vivientes.*
 
-[**Gen 3:20** ](verseid:1.3.20) El hombre le puso por nombre Eva a su mujer, porque ella era la madre de todos los vivientes.
+#### Hechos 17:26 *»De uno solo, Dios hizo todas las naciones del mundo para que habitaran sobre toda la superficie de la tierra, habiendo determinado sus tiempos y las fronteras de los lugares donde viven,*
 
-[**Act 17:26** ](verseid:44.17.26) »De uno solo, Dios hizo todas las naciones del mundo para que habitaran sobre toda la superficie de la tierra, habiendo determinado *sus* tiempos y las fronteras de los lugares donde viven,
+#### Como saben, todos los seres humanos descienden de Adán y Eva.
 
-### Cuando Adán pecó, fue separado de Dios. Debido a que Adán murió para Dios, o su relación con Dios se rompió, todos nosotros, como sus descendientes, nacimos en ese mismo estado de separación de Dios con la sentencia de muerte sobre nosotros. Así como los manzanos producen manzanas y los perros producen perros, así la humanidad pecadora produce la humanidad pecadora.
+#### Cuando Adán pecó, fue separado de Dios. Debido a que Adán murió para Dios, o su relación con Dios se rompió, todos nosotros, como sus descendientes, nacimos en ese mismo estado de separación de Dios con la sentencia de muerte sobre nosotros. Así como los manzanos producen manzanas y los perros producen perros, así la humanidad pecadora produce la humanidad pecadora.
 
-[**Rom 5:12** ](verseid:45.5.12) Por tanto, tal como el pecado entró en el mundo por medio de un hombre, y por medio del pecado la muerte, así también la muerte se extendió a todos los hombres, porque todos pecaron.
+#### Romanos 5:12 *Por tanto, tal como el pecado entró en el mundo por medio de un hombre, y por medio del pecado la muerte, así también la muerte se extendió a todos los hombres, porque todos pecaron.*
 
 ## Conclusión
 
@@ -1566,89 +1540,91 @@ Hechos 17:25 ni es servido por manos humanas, como si necesitara de algo, puesto
 
 ### Nombra algunos de los atributos de Dios que vemos que Dios manifiesta acerca de sí mismo a través de su interacción con Adán y Eva con respecto a este juicio.
 
-## GÉNESIS 3:21-4:2 - DIOS PROVEYÓ ROPA PARA ADÁN Y EVA Y LA PUSO EN EL JARDÍN; NACIERON CAÍN Y ABEL
+## GÉNESIS 3:21-4:2 - DIOS PROVEYÓ ROPA PARA ADÁN Y EVA Y LOS SACÓ DEL JARDÍN; NACIERON CAÍN Y ABEL
 
-## Introducción: Sabemos que Dios es un juez justo que no puede tolerar ni pasar por alto el pecado. Hemos visto esto claramente con Lucifer y los ángeles rebeldes. Se rebelaron contra Dios, pero no pudieron escapar del juicio, porque Dios es un Juez justo. Después de que Adán y Eva pecaron, no tenían esperanza de poder "arreglarse" a sí mismos. Aunque lo habían intentado, era inaceptable para Dios; pero Dios, por su propia iniciativa, demostró lo que se requeriría para restaurar la relación con Él.
+## Génesis 3:21 Dios proveyó ropa para Adán y Eva
 
-## Dios proveyó ropa para Adán y Eva
+### Génesis 3:21 *El SEÑOR Dios hizo vestiduras de piel para Adán y su mujer, y los vistió.*
 
-### Lee Génesis 3:7.
+#### Sabemos que Dios es un juez justo que no puede tolerar ni pasar por alto el pecado. Hemos visto esto claramente con Lucifer y los ángeles rebeldes. Se rebelaron contra Dios, pero no pudieron escapar del juicio, porque Dios es un Juez justo. Después de que Adán y Eva pecaron, no tenían esperanza de poder "arreglarse" a sí mismos. Aunque lo habían intentado, era inaceptable para Dios; pero Dios, por su propia iniciativa, demostró lo que se requeriría para restaurar la relación con Él.
 
-[**Gen 3:7** ](verseid:1.3.7) Entonces fueron abiertos los ojos de ambos, y conocieron que estaban desnudos; y cosieron hojas de higuera y se hicieron delantales.
+### Génesis 3:7 *Entonces fueron abiertos los ojos de ambos, y conocieron que estaban desnudos; y cosieron hojas de higuera y se hicieron delantales.*
 
-### Después de que Adán y Eva pecaron, se dieron cuenta de que estaban desnudos. Observe la progresión que había tenido lugar en los corazones de Adán y Eva. Debido a que habían pecado, se convirtieron en pecadores. Como pecadores, sus mentes, voluntades y emociones se corrompieron. Ahora eran egocéntricos, se avergonzaban de su desnudez e hacían las cubiertas para cubrirse. Pero sabemos que Dios no aceptó su intento de solucionar su problema.
+#### Después de que Adán y Eva pecaron, se dieron cuenta de que estaban desnudos. Observe la progresión que había tenido lugar en los corazones de Adán y Eva. Debido a que habían pecado, se convirtieron en pecadores. Como pecadores, sus mentes, voluntades y emociones se corrompieron. Ahora eran egocéntricos, se avergonzaban de su desnudez e hacían las cubiertas para cubrirse. Pero sabemos que Dios no aceptó su intento de solucionar su problema.
 
-### Lea Génesis 3:21.
+## Génesis 3:22-24 Exiliados del Jardin
 
-### ¿Por qué crees que Dios no aceptó las hojas de higuera para cubrirlas? Había al menos tres cosas para las que Dios estaba enseñando y/o preparando. En ese mismo momento, en la vida de Adán y Eva, les estaba enseñando que su problema era mucho más profundo que simplemente cubrir su desnudez. Ahora se habían convertido en pecadores que estaban separados de Dios. Darse cuenta de que su desnudez era solo un síntoma del problema real, por lo que tratar el síntoma no curaría el problema. Ese era el propósito "INMEDIATO" de Dios.
+### Génesis 3:22 *Entonces el SEÑOR Dios dijo: «Ahora el hombre ha venido a ser como uno de Nosotros, conociendo ellos el bien y el mal. Cuidado ahora, no vaya a extender su mano y tome también del árbol de la vida, y coma y viva para siempre».*
 
-### Dios también estaba preparando el escenario para que la futura Nación de Israel comprendiera el entendimiento de que el pecado solo podía pagarse con sangre.
+### Génesis 3:23 *Y el SEÑOR Dios lo echó del huerto del Edén, para que labrara la tierra de la cual fue tomado.*
 
-### Por último, Dios estaba creando una imagen física de las verdades espirituales futuras que se registrarían en las Epístolas para la iglesia futura. Nuestro pecado nos ha separado de Dios. No hay nada que podamos hacer al respecto en y por nosotros mismos. Solo si Dios lleva a cabo el plan de redención que ha estado en Su corazón desde la eternidad pasada, nuestro pecado puede ser pagado y nosotros ser restaurados a la unidad con Él. A través de la muerte y el derramamiento de sangre de Cristo en nuestro comportamiento, Dios ahora nos ha vestido con Su justicia, cuidando así de nuestro problema de pecado y haciéndonos aceptables a Él. Véase Isaías 61:10.
+### Génesis 3:24 *Expulsó, pues, al hombre; y al oriente del huerto del Edén puso querubines, y una espada encendida que giraba en todas direcciones para guardar el camino del árbol de la vida.*
 
-### La única esperanza del hombre para ser aceptado por Dios es que Dios mismo lleve a cabo fielmente su plan eterno de redención. A lo largo de la historia del mundo, las personas han intentado muchas formas diferentes de hacerse aceptables a Dios. Algunos piensan que las actividades religiosas, asistir a la iglesia, ser bautizados y dar a los pobres los harán justos ante Dios. Otros han eliminado totalmente a Dios y han creado sus propios dioses falsos para apaciguar en sus propios términos.
+#### ¿Por qué crees que Dios no aceptó las hojas de higuera para cubrirlas? Había al menos tres cosas para las que Dios estaba enseñando y/o preparando. En ese mismo momento, en la vida de Adán y Eva, les estaba enseñando que su problema era mucho más profundo que simplemente cubrir su desnudez. Ahora se habían convertido en pecadores que estaban separados de Dios. Darse cuenta de que su desnudez era solo un síntoma del problema real, por lo que tratar el síntoma no curaría el problema. Ese era el propósito "INMEDIATO" de Dios.
 
-### Sin embargo, todavía hay otros que se consideran realmente buenas personas y creen que su propia "bondad" los hace aceptables a Dios. Pero no importa cuán amables, religiosos o abnegados puedan ser nuestros esfuerzos, nunca pueden hacernos aceptables a Dios. Solo la realización de Su plan eterno de redención a través de Cristo puede hacer eso.
+#### Dios también estaba preparando el escenario para que la futura Nación de Israel comprendiera el entendimiento de que el pecado solo podía pagarse con sangre.
 
-### ¿Alguna vez has pensado en el hecho de que la primera muerte de cualquier animal fue causada por Dios con el fin de derramar su sangre para cubrir el primer pecado y sus resultados? Hace solo dos capítulos, Dios había hablado de todos los animales para que existieran y los había proclamado "buenos", perfectos. En poder, amor y soberanía los creó.
+#### Por último, Dios estaba creando una imagen física de las verdades espirituales futuras que se registrarían en las Epístolas para la iglesia futura. Nuestro pecado nos ha separado de Dios. No hay nada que podamos hacer al respecto en y por nosotros mismos. Solo si Dios lleva a cabo el plan de redención que ha estado en Su corazón desde la eternidad pasada, nuestro pecado puede ser pagado y nosotros ser restaurados a la unidad con Él. A través de la muerte y el derramamiento de sangre de Cristo en nuestro comportamiento, Dios ahora nos ha vestido con Su justicia, cuidando así de nuestro problema de pecado y haciéndonos aceptables a Él. Isaías 61:10.
 
-### ¡Ahora, Él tenía que matar lo que acababa de crear para lidiar con el pecado de los que Él había creado a Su imagen! ¡UAU! Esta acción fue una manifestación mucho más clara del amor y la gracia de Dios que su acto inicial de crear estas cosas para el disfrute del hombre.
+#### La única esperanza del hombre para ser aceptado por Dios es que Dios mismo lleve a cabo fielmente su plan eterno de redención. A lo largo de la historia del mundo, las personas han intentado muchas formas diferentes de hacerse aceptables a Dios. Algunos piensan que las actividades religiosas, asistir a la iglesia, ser bautizados y dar a los pobres los harán justos ante Dios. Otros han eliminado totalmente a Dios y han creado sus propios dioses falsos para apaciguar en sus propios términos.
 
-### La muerte entró en el mundo a causa del pecado de Adán. Dios había puesto a Adán como la autoridad sobre la tierra y todos los seres vivientes. Debido a que pecó, ahora todo ser vivo eventualmente moriría. A través de esta imagen física, Dios estaba estableciendo o manifestando otra verdad espiritual: "La paga del pecado es muerte". Véase Romanos 6:23.
+#### Sin embargo, todavía hay otros que se consideran realmente buenas personas y creen que su propia "bondad" los hace aceptables a Dios. Pero no importa cuán amables, religiosos o abnegados puedan ser nuestros esfuerzos, nunca pueden hacernos aceptables a Dios. Solo la realización de Su plan eterno de redención a través de Cristo puede hacer eso.
 
-### Dios les había dado un mandato a Adán y Eva. Lo desobedecieron y se convirtieron en pecadores separados de Dios. ¡Dios luego se dio la vuelta y los hizo aceptables para Él!
+#### ¿Alguna vez has pensado en el hecho de que la primera muerte de cualquier animal fue causada por Dios con el fin de derramar su sangre para cubrir el primer pecado y sus resultados? Hace solo dos capítulos, Dios había hablado de todos los animales para que existieran y los había proclamado "buenos", perfectos. En poder, amor y soberanía los creó.
 
-#### Fue Dios quien mató a los animales.
+#### ¡Ahora, Él tenía que matar lo que acababa de crear para lidiar con el pecado de los que Él había creado a Su imagen! ¡UAU! Esta acción fue una manifestación mucho más clara del amor y la gracia de Dios que su acto inicial de crear estas cosas para el disfrute del hombre.
 
-#### Fue Dios quien derramó la sangre de los animales.
+#### La muerte entró en el mundo a causa del pecado de Adán. Dios había puesto a Adán como la autoridad sobre la tierra y todos los seres vivientes. Debido a que pecó, ahora todo ser vivo eventualmente moriría. A través de esta imagen física, Dios estaba estableciendo o manifestando otra verdad espiritual: "La paga del pecado es muerte". Romanos 6:23.
 
-#### Fue Dios quien despellejó a los animales.
+#### Dios les había dado un mandato a Adán y Eva. Lo desobedecieron y se convirtieron en pecadores separados de Dios. ¡Dios luego se dio la vuelta y los hizo aceptables para Él!
 
-#### Fue Dios quien vistió a Adán y Eva.
+##### Fue Dios quien mató a los animales.
 
-### ¡Dios estaba enfatizando que Él y solo Él puede hacer que los pecadores sean aceptables para Él!
+##### Fue Dios quien derramó la sangre de los animales.
+
+##### Fue Dios quien despellejó a los animales.
+
+##### Fue Dios quien vistió a Adán y Eva.
+
+#### ¡Dios estaba enfatizando que Él y solo Él puede hacer que los pecadores sean aceptables para Él!
 
 ### Dios también estaba manifestando el hecho de que Él es misericordioso y misericordioso. Hasta este punto, ¿qué de la gracia y la misericordia de Dios habían visto realmente Adán y Eva?
 
-## Dios sacó a Adán y Eva del jardín, lejos del árbol de la vida (Génesis 3:22-24)
+## Génesis 4:1-2 Dios sacó a Adán y Eva del jardín, lejos del árbol de la vida (Génesis 3:22-24)
 
-### Antes de que Adán y Eva pecaran, eran perfectos y disfrutaban de una estrecha relación íntima con Dios. Eran perfectos en el sentido de que no tenían pecado: solo sabían lo que era bueno y sus mentes, voluntades y emociones no se habían corrompido.
+### Génesis 4:1 *Y el hombre se unió a Eva, su mujer, y ella concibió y dio a luz a Caín, y dijo: «He adquirido varón con la ayuda del SEÑOR».*
 
-### En el momento en que pecaron, todo eso cambió. Se convirtieron en pecadores, sus mentes, voluntades y emociones se corrompieron, y su relación con Dios se rompió. Por lo tanto, en lugar de que su destierro fuera un acto de "castigo", fue realmente un acto de gracia y misericordia. Porque mirando el panorama general desde la perspectiva de Dios, sabemos que todo esto termina con nosotros viviendo en la presencia de Dios, en el cielo nuevo y la tierra nueva sin pecado, tristeza, enfermedad o muerte.
+#### Antes de que Adán y Eva pecaran, eran perfectos y disfrutaban de una estrecha relación íntima con Dios. Eran perfectos en el sentido de que no tenían pecado: solo sabían lo que era bueno y sus mentes, voluntades y emociones no se habían corrompido.
 
-### Por lo tanto, fue mucho más misericordioso para Dios desterrarlos de lo que hubiera sido para Él permitirles comer del árbol y vivir para siempre en esa condición caída.
+#### En el momento en que pecaron, todo eso cambió. Se convirtieron en pecadores, sus mentes, voluntades y emociones se corrompieron, y su relación con Dios se rompió. Por lo tanto, en lugar de que su destierro fuera un acto de "castigo", fue realmente un acto de gracia y misericordia. Porque mirando el panorama general desde la perspectiva de Dios, sabemos que todo esto termina con nosotros viviendo en la presencia de Dios, en el cielo nuevo y la tierra nueva sin pecado, tristeza, enfermedad o muerte.
 
-### Para nosotros, como creyentes de hoy, en la iglesia, Dios nos ha dado la promesa de Romanos 8:28: Él promete hacer todas las cosas para bien para aquellos que son llamados de acuerdo con Su propósito. La interacción de Dios con Adán y Eva y Sus promesas y acciones hacia ellos a través de todo esto son prueba de Su corazón que realmente está detrás de la promesa de Romanos 8:28.
+#### Por lo tanto, fue mucho más misericordioso para Dios desterrarlos de lo que hubiera sido para Él permitirles comer del árbol y vivir para siempre en esa condición caída.
 
-### Lea Génesis 4:1.
+#### Para nosotros, como creyentes de hoy, en la iglesia, Dios nos ha dado la promesa de Romanos 8:28: Él promete hacer todas las cosas para bien para aquellos que son llamados de acuerdo con Su propósito. La interacción de Dios con Adán y Eva y Sus promesas y acciones hacia ellos a través de todo esto son prueba de Su corazón que realmente está detrás de la promesa de Romanos 8:28.
 
-### Parece muy evidente que Eva creyó la promesa de Dios en Génesis 3:15 por la forma en que responde al dar a luz a un hijo. Cuando dice: "*He recibido un hombre del Señor*", en realidad creía que Caín era la simiente prometida de la mujer que Dios prometió en 3:15.
+#### Parece muy evidente que Eva creyó la promesa de Dios en Génesis 3:15 por la forma en que responde al dar a luz a un hijo. Cuando dice: "*He recibido un hombre del Señor*", en realidad creía que Caín era la simiente prometida de la mujer que Dios prometió en 3:15.
 
-### Lea Génesis 4:2.
+### Génesis 4:2 *Después dio a luz a Abel su hermano. Y Abel fue pastor de ovejas y Caín fue labrador de la tierra.*
 
-### ¿Cuándo nacieron estos dos hijos de Adán y Eva, Caín y Abel? ¿Antes de la caída o después de la caída? ¿Dónde nacieron? ¿En el jardín o fuera del jardín?
+#### ¿Cuándo nacieron estos dos hijos de Adán y Eva, Caín y Abel? ¿Antes de la caída o después de la caída? ¿Dónde nacieron? ¿En el jardín o fuera del jardín?
 
-### Debido a que Adán y Eva ya habían pecado y habían sido juzgados, Caín y Abel nacieron en ese mismo estado. Nacieron de padres pecadores; por lo tanto, ellos también nacieron pecadores, fuera del jardín, y separados de Dios. Y no solo Caín y Abel, sino cada uno de los descendientes hasta nosotros aquí hoy. Toda la humanidad nace en esta misma condición pecaminosa y separada de Dios.
+#### Debido a que Adán y Eva ya habían pecado y habían sido juzgados, Caín y Abel nacieron en ese mismo estado. Nacieron de padres pecadores; por lo tanto, ellos también nacieron pecadores, fuera del jardín, y separados de Dios. Y no solo Caín y Abel, sino cada uno de los descendientes hasta nosotros aquí hoy. Toda la humanidad nace en esta misma condición pecaminosa y separada de Dios.
 
-### Lee Romanos 5:12.
+##### Romanos 5:12 *Por tanto, tal como el pecado entró en el mundo por medio de un hombre, y por medio del pecado la muerte, así también la muerte se extendió a todos los hombres, porque todos pecaron.*
 
-[**Rom 5:12** ](verseid:45.5.12) Por tanto, tal como el pecado entró en el mundo por medio de un hombre, y por medio del pecado la muerte, así también la muerte se extendió a todos los hombres, porque todos pecaron.
+#### No solo nacimos pecadores, separados de Dios, sino que también nacimos en la familia de Satanás. Aunque es Dios quien es la fuente de toda vida, esto no significa que nazcamos como hijos de Dios. Si Adán no hubiera pecado, habríamos nacido a la imagen perfecta de Dios, capaces de amarlo, entenderlo y obedecerlo perfectamente. Pero sabemos que Adán pecó y, como resultado, Satanás ha tomado el lugar de Dios como nuestro padre espiritual. Juan 8:44; Efesios 2:1-2; I Juan 3:8, 10
 
-### No solo nacimos pecadores, separados de Dios, sino que también nacimos en la familia de Satanás. Aunque es Dios quien es la fuente de toda vida, esto no significa que nazcamos como hijos de Dios. Si Adán no hubiera pecado, habríamos nacido a la imagen perfecta de Dios, capaces de amarlo, entenderlo y obedecerlo perfectamente. Pero sabemos que Adán pecó y, como resultado, Satanás ha tomado el lugar de Dios como nuestro padre espiritual.
+##### Juan 8:44 *Ustedes son de su padre el diablo y quieren hacer los deseos de su padre. Él fue un asesino desde el principio, y no se ha mantenido en la verdad porque no hay verdad en él. Cuando habla mentira, habla de su propia naturaleza, porque es mentiroso y el padre de la mentira.*
 
-### Lea Juan 8:44; Efesios 2:1-2; I Juan 3:8, 10.
+##### Efesios 2:1 *Y Él les dio vida a ustedes, que estaban muertos en sus delitos y pecados,*
 
-[**Jhn 8:44** ](verseid:43.8.44) Ustedes son de *su* padre el diablo y quieren hacer los deseos de su padre. Él fue un asesino desde el principio, y no se ha mantenido en la verdad porque no hay verdad en él. Cuando habla mentira, habla de su propia naturaleza, porque es mentiroso y el padre de la mentira.
+##### Efesios 2:2 *en los cuales anduvieron en otro tiempo según la corriente de este mundo, conforme al príncipe de la potestad del aire, el espíritu que ahora opera en los hijos de desobediencia.*
 
-[**Eph 2:1** ](verseid:49.2.1) Y *Él les dio vida* a ustedes, que estaban muertos en sus delitos y pecados,
+##### 1 Juan 3:8 *El que practica el pecado es del diablo, porque el diablo ha pecado desde el principio. El Hijo de Dios se manifestó con este propósito: para destruir las obras del diablo.*
 
-[**Eph 2:2** ](verseid:49.2.2) en los cuales anduvieron en otro tiempo según la corriente de este mundo, conforme al príncipe de la potestad del aire, el espíritu que ahora opera en los hijos de desobediencia.
+##### 1 Juan 3:10 *En esto se reconocen los hijos de Dios y los hijos del diablo: todo aquel que no practica la justicia, no es de Dios; tampoco aquel que no ama a su hermano.*
 
-[**1Jn 3:8** ](verseid:62.3.8) El que practica el pecado es del diablo, porque el diablo ha pecado desde el principio. El Hijo de Dios se manifestó con este propósito: para destruir las obras del diablo.
-
-[**1Jn 3:10** ](verseid:62.3.10) En esto se reconocen los hijos de Dios y los hijos del diablo: todo aquel que no practica la justicia, no es de Dios; tampoco aquel que no ama a su hermano.
-
-### Si nuestro marco de referencia comenzara solo en Génesis 1, podría parecer que Satanás se está saliendo con la suya un poco aquí. Quería ser Dios. Su deseo de hacer pecar a la humanidad fue, en última instancia, otro intento de convertirse en Dios. Quería que la humanidad estuviera bajo su autoridad. Y lo consiguió. PERO, nuestro marco de referencia, 2 Timoteo 1:9 y 1 Pedro 1:18-20, ambos nos dicen, comenzó antes de la fundación de la tierra con un plan eterno de redención que ya existía en el corazón de la Deidad, ¡y que se llevaría a cabo a través de Cristo! Por lo tanto, debemos concluir que los eventos y todos los resultados subsiguientes han sido parte del gran plan eterno de Dios.
+#### Si nuestro marco de referencia comenzara solo en Génesis 1, podría parecer que Satanás se está saliendo con la suya un poco aquí. Quería ser Dios. Su deseo de hacer pecar a la humanidad fue, en última instancia, otro intento de convertirse en Dios. Quería que la humanidad estuviera bajo su autoridad. Y lo consiguió. PERO, nuestro marco de referencia, 2 Timoteo 1:9 y 1 Pedro 1:18-20, ambos nos dicen, comenzó antes de la fundación de la tierra con un plan eterno de redención que ya existía en el corazón de la Deidad, ¡y que se llevaría a cabo a través de Cristo! Por lo tanto, debemos concluir que los eventos y todos los resultados subsiguientes han sido parte del gran plan eterno de Dios.
 
 ## Preguntas de revisión
 
@@ -1664,129 +1640,163 @@ Hechos 17:25 ni es servido por manos humanas, como si necesitara de algo, puesto
 
 # GÉNESIS 4:3-5 - LAS OFRENDAS DE CAÍN Y ABEL
 
-## Introducción: Uno de los atributos o características clave de Dios que vamos a ver una y otra vez a lo largo de toda la Biblia, es primero, Dios SIEMPRE se comunica. Y en segundo lugar, Sus instrucciones SIEMPRE son confiables y claras. Esta es una de las características de Dios que lo separa de los dioses de todas las demás religiones. Nuestro Dios nos ama con un amor que supera todo conocimiento, y prueba de ello es el esfuerzo extremo que pone en darse a conocer a sí mismo y a su palabra a la humanidad.
+## Génesis 4:3-5 Caín y Abel vinieron a presentar ofrendas a Dios
 
-### La humanidad, sin embargo, es extremadamente pecadora y está inclinada a la desobediencia, y aunque Dios es explícito en lo que dice, el hombre a menudo rechaza desafiantemente Su sabiduría y elige la muerte, lo que a su vez revela la gracia y la misericordia de Dios aún más cuando razona pacientemente y espera a aquellos que lo ignoran flagrantemente. Dios siempre está esperando que las personas escuchen y se vuelvan a Él desde su maldad.
+### Génesis 4:3 *Al transcurrir el tiempo, Caín trajo al SEÑOR una ofrenda del fruto de la tierra.*
 
-## Caín y Abel vinieron a presentar ofrendas a Dios
+### Génesis 4:4 *También Abel, por su parte, trajo de los primogénitos de sus ovejas y de la grasa de los mismos. El SEÑOR miró con agrado a Abel y su ofrenda*,
 
-### Lea Génesis 4:3-4.
+#### Introducción: Uno de los atributos o características clave de Dios que vamos a ver una y otra vez a lo largo de toda la Biblia, es primero, Dios SIEMPRE se comunica. Y en segundo lugar, Sus instrucciones SIEMPRE son confiables y claras. Esta es una de las características de Dios que lo separa de los dioses de todas las demás religiones. Nuestro Dios nos ama con un amor que supera todo conocimiento, y prueba de ello es el esfuerzo extremo que pone en darse a conocer a sí mismo y a su palabra a la humanidad.
 
-### Caín creía en la existencia de Dios tanto como Abel. Porque si no lo hubiera hecho, habría traído un sacrificio en primer lugar. Pero solo creer en la existencia de Dios no hizo que Caín fuera aceptable para Dios.
+#### La humanidad, sin embargo, es extremadamente pecadora y está inclinada a la desobediencia, y aunque Dios es explícito en lo que dice, el hombre a menudo rechaza desafiantemente Su sabiduría y elige la muerte, lo que a su vez revela la gracia y la misericordia de Dios aún más cuando razona pacientemente y espera a aquellos que lo ignoran flagrantemente. Dios siempre está esperando que las personas escuchen y se vuelvan a Él desde su maldad.
 
-[**Jas 2:19** ](verseid:59.2.19) Tú crees que Dios es uno. Haces bien; también los demonios creen, y tiemblan.
+#### Caín creía en la existencia de Dios tanto como Abel. Porque si no lo hubiera hecho, habría traído un sacrificio en primer lugar. Pero solo creer en la existencia de Dios no hizo que Caín fuera aceptable para Dios.
 
-### Caín nació como un pecador separado (de Dios) tal como se había convertido su padre Adán. Por lo tanto, su única esperanza era venir a Dios de la manera que Dios le había revelado.
+##### Santiago 2:19 *Tú crees que Dios es uno. Haces bien; también los demonios creen, y tiemblan.*
 
-### Algunas personas hoy piensan que el simple hecho de pasar por los movimientos religiosos de la oración y la adoración los hará aceptables para Dios, pero no podemos venir a Él con nuestras propias ideas o teorías sobre lo que es aceptable para Él. Tiene que ser el camino de Dios.
+#### Caín nació como un pecador separado (de Dios) tal como se había convertido su padre Adán. Por lo tanto, su única esperanza era venir a Dios de la manera que Dios le había revelado.
 
-### ¿Recuerdas cuando Adán y Eva habían pecado y trataron de arreglar los resultados ellos mismos? ¿Recuerdas cómo su propia idea era inaceptable para Dios? En y por nosotros mismos, la humanidad no tiene forma de restaurar nuestra relación rota con Dios. Si Dios no interviniera y abriera un camino para que Adán, Eva, Caín, Abel e incluso nosotros hoy en día seamos restaurados en unidad a Él y, por lo tanto, seamos aceptados, ¡todos tendríamos que morir e ir al infierno!
+#### Algunas personas hoy piensan que el simple hecho de pasar por los movimientos religiosos de la oración y la adoración los hará aceptables para Dios, pero no podemos venir a Él con nuestras propias ideas o teorías sobre lo que es aceptable para Él. Tiene que ser el camino de Dios.
 
-### No habría otra opción para la liberación.
+#### ¿Recuerdas cuando Adán y Eva habían pecado y trataron de arreglar los resultados ellos mismos? ¿Recuerdas cómo su propia idea era inaceptable para Dios? En y por nosotros mismos, la humanidad no tiene forma de restaurar nuestra relación rota con Dios. Si Dios no interviniera y abriera un camino para que Adán, Eva, Caín, Abel e incluso nosotros hoy en día seamos restaurados en unidad a Él y, por lo tanto, seamos aceptados, ¡todos tendríamos que morir e ir al infierno!
 
-### Pero en Su misericordia, Dios les ofreció una manera de venir a Él. Ahora, Génesis 4 en realidad no nos dice que Dios les había dejado claro cómo debían acercarse a Él. Pero basándonos en otros pasajes y verdades que sabemos que son ciertos, creo que es seguro decir que Dios les aclaró esta instrucción. Habrían tenido el testimonio de Dios matando a dos animales para vestir a su madre y a su padre después de haber pecado.
+#### No habría otra opción para la liberación.
 
-### El punto con esto era que Dios claramente quería que Adán y Eva fueran restaurados y aceptados para Él, ¡porque Él fue el que lo hizo! Así que es muy evidente que Dios quiere que el hombre sepa la verdad con respecto a cómo ser restaurado a Él.
+#### Pero en Su misericordia, Dios les ofreció una manera de venir a Él. Ahora, Génesis 4 en realidad no nos dice que Dios les había dejado claro cómo debían acercarse a Él. Pero basándonos en otros pasajes y verdades que sabemos que son ciertos, creo que es seguro decir que Dios les aclaró esta instrucción. Habrían tenido el testimonio de Dios matando a dos animales para vestir a su madre y a su padre después de haber pecado.
 
-### En segundo lugar, Hebreos 11:6 deja en claro que "es imposible agradar a Dios sin fe". Por lo tanto, para que el sacrificio de Abel fuera aceptable a Dios, tenía que hacerse con fe, fe en los hechos y no solo una "esperanza ilusoria". Por lo tanto, para que la ofrenda de Abel se hiciera con "fe en los hechos", tenía que haber sabido cuáles eran los "hechos". Dios tenía que haberles dejado claro cómo debían acercarse a Él.
+#### El punto con esto era que Dios claramente quería que Adán y Eva fueran restaurados y aceptados para Él, ¡porque Él fue el que lo hizo! Así que es muy evidente que Dios quiere que el hombre sepa la verdad con respecto a cómo ser restaurado a Él.
 
-### Otra indicación de que Abel estaba siguiendo la instrucción de Dios es que Abel trajo a Dios "de los primogénitos de su rebaño y de su grasa". Más adelante en Levítico 3:16, vemos que esto era exactamente lo que Dios les había dicho a los israelitas que tenían que traer como sacrificio aceptable.
+#### En segundo lugar, Hebreos 11:6 deja en claro que "es imposible agradar a Dios sin fe". Por lo tanto, para que el sacrificio de Abel fuera aceptable a Dios, tenía que hacerse con fe, fe en los hechos y no solo una "esperanza ilusoria". Por lo tanto, para que la ofrenda de Abel se hiciera con "fe en los hechos", tenía que haber sabido cuáles eran los "hechos". Dios tenía que haberles dejado claro cómo debían acercarse a Él.
 
-### Por lo tanto, pensar que Abel pensó en la idea de traer una oveja y su grasa es contrario a todo el énfasis de las Escrituras. Dios no acepta nada que se origine en el hombre.
+#### Otra indicación de que Abel estaba siguiendo la instrucción de Dios es que Abel trajo a Dios "de los primogénitos de su rebaño y de su grasa". Más adelante en Levítico 3:16, vemos que esto era exactamente lo que Dios les había dicho a los israelitas que tenían que traer como sacrificio aceptable.
 
-### Y por último, sabemos que en los días de Noé, los animales ya eran reconocidos o clasificados como los que estaban limpios y los que eran impuros. Por lo tanto, es muy probable que en la época de Caín y Abel, los animales ya hubieran sido clasificados por Dios de esta manera.
+#### Por lo tanto, pensar que Abel pensó en la idea de traer una oveja y su grasa es contrario a todo el énfasis de las Escrituras. Dios no acepta nada que se origine en el hombre.
 
-### Si nos fijamos en Levítico 11 y el énfasis que se pone en el sacrificio del cordero, seguramente no pudo haber sido una coincidencia que Abel eligiera una oveja para sacrificar, un animal limpio que era la imagen perfecta del Hijo de Dios sin pecado.
+#### Y por último, sabemos que en los días de Noé, los animales ya eran reconocidos o clasificados como los que estaban limpios y los que eran impuros. Por lo tanto, es muy probable que en la época de Caín y Abel, los animales ya hubieran sido clasificados por Dios de esta manera.
 
-[**Isa 53:7** ](verseid:23.53.7) Fue oprimido y afligido, Pero no abrió Su boca. Como cordero que es llevado al matadero, Y como oveja que ante sus trasquiladores permanece muda, Él no abrió Su boca.
+#### Si nos fijamos en Levítico 11 y el énfasis que se pone en el sacrificio del cordero, seguramente no pudo haber sido una coincidencia que Abel eligiera una oveja para sacrificar, un animal limpio que era la imagen perfecta del Hijo de Dios sin pecado.
 
-[**Jhn 1:29** ](verseid:43.1.29) Al día siguiente Juan vio* a Jesús que venía hacia él, y dijo*: «Ahí está el Cordero de Dios que quita el pecado del mundo.
+##### Isaías 53:7 *Fue oprimido y afligido, Pero no abrió Su boca. Como cordero que es llevado al matadero, Y como oveja que ante sus trasquiladores permanece muda, Él no abrió Su boca.*
 
-[**1Pe 1:19** ](verseid:60.1.19) sino con sangre preciosa, como de un cordero sin tacha y sin mancha: *la sangre* de Cristo.
+##### Juan 1:29 *Al día siguiente Juan vio a Jesús que venía hacia él, y dijo: «Ahí está el Cordero de Dios que quita el pecado del mundo.*
 
-[**1Pe 1:20** ](verseid:60.1.20) Porque Él estaba preparado *desde*antes de la fundación del mundo, pero se ha manifestado en estos últimos tiempos por amor a ustedes.
+##### 1 Pedro 1:19 *sino con sangre preciosa, como de un cordero sin tacha y sin mancha: la sangre de Cristo.*
 
+##### 1 Pedro 1:20 *Porque Él estaba preparado desdeantes de la fundación del mundo, pero se ha manifestado en estos últimos tiempos por amor a ustedes.*
 
+#### Por lo tanto, basados en estas verdades, creemos que Dios les había comunicado claramente la forma en que podían ser aceptables para Él
 
-### Por lo tanto, basados en estas verdades, creemos que Dios les había comunicado claramente la forma en que podían ser aceptables para Él
+#### Primero, habrían necesitado reconocer su pecaminosidad, o ni siquiera habrían considerado la necesidad de traer un sacrificio.
 
-### Primero, habrían necesitado reconocer su pecaminosidad, o ni siquiera habrían considerado la necesidad de traer un sacrificio.
+#### En segundo lugar, tenía que haber fe en el Libertador venidero a quien Dios había prometido que regresaría en Génesis 3:15. Sabemos que esa promesa se había registrado con ellos por la respuesta de Eva a dando a luz a un hijo en Génesis 4:1: "El hombre".
 
-### En segundo lugar, tenía que haber fe en el Libertador venidero a quien Dios había prometido que regresaría en Génesis 3:15. Sabemos que esa promesa se había registrado con ellos por la respuesta de Eva a dando a luz a un hijo en Génesis 4:1: "El hombre".
+#### Por último, mientras esperaban la venida del prometido, Dios les instruyó que sacrificaran una oveja que había sido sacrificada de tal manera que se derramara su sangre.
 
-### Por último, mientras esperaban la venida del prometido, Dios les instruyó que sacrificaran una oveja que había sido sacrificada de tal manera que se derramara su sangre.
+##### Levítico 17:11 *Porque la vida de la carne está en la sangre, y Yo se la he dado a ustedes sobre el altar para hacer expiación por sus almas. Porque es la sangre, por razón de la vida, la que hace expiación”.*
 
-[**Lev 17:11** ](verseid:3.17.11) Porque la vida de la carne está en la sangre, y Yo se la he dado a ustedes sobre el altar para hacer expiación por sus almas. Porque es la sangre, por razón de la vida, la que hace expiación”.
+##### Hebreos 9:22 *Y según la ley, casi todo ha de ser purificado con sangre, y sin derramamiento de sangre no hay perdón.*
 
-[**Heb 9:22** ](verseid:58.9.22) Y según la ley, casi todo ha de ser purificado con sangre, y sin derramamiento de sangre no hay perdón.
+#### Hoy sabemos que la sangre de los animales no limpia el pecado. Pero sacrificar un cordero era importante por dos razones. Mantuvo ante ellos el hecho de que la "paga del pecado es muerte", lo mismo que Dios prometió que sucedería si comían del árbol del conocimiento del bien y del mal. Desobedece y morirás. Y lo más importante, fue un continuo presagio y señalamiento al Prometido, cuya sangre realmente nos limpiaría de nuestro pecado.
 
-### Hoy sabemos que la sangre de los animales no limpia el pecado. Pero sacrificar un cordero era importante por dos razones. Mantuvo ante ellos el hecho de que la "paga del pecado es muerte", lo mismo que Dios prometió que sucedería si comían del árbol del conocimiento del bien y del mal. Desobedece y morirás. Y lo más importante, fue un continuo presagio y señalamiento al Prometido, cuya sangre realmente nos limpiaría de nuestro pecado.
+## Génesis 4:4b Dios aceptó la ofrenda de Abel
 
-## Dios aceptó la ofrenda de Abel
+### Génesis 4:4 *También Abel, por su parte, trajo de los primogénitos de sus ovejas y de la grasa de los mismos. El SEÑOR miró con agrado a Abel y su ofrenda,*
 
-### El verdadero problema con Abel y su sacrificio fue el hecho de que CREYÓ en Dios. Abel demostró su fe en Dios al venir a Él de la manera que Dios le había dicho (Hebreos 11:4). Abel obviamente creía que era un pecador o no habría traído un sacrificio. Abel también creyó en la promesa de Dios a sus padres en el jardín de que la simiente de la mujer destruiría a Satanás y salvaría al hombre del poder de Satanás.
+#### El verdadero problema con Abel y su sacrificio fue el hecho de que CREYÓ en Dios. Abel demostró su fe en Dios al venir a Él de la manera que Dios le había dicho (Hebreos 11:4). Abel obviamente creía que era un pecador o no habría traído un sacrificio. Abel también creyó en la promesa de Dios a sus padres en el jardín de que la simiente de la mujer destruiría a Satanás y salvaría al hombre del poder de Satanás.
 
-### La fe que es aceptable para Dios se basa en lo que Dios dice. Dios estaba complacido con la ofrenda de Abel, porque por FE, Abel creyó en las promesas de Dios y por lo tanto hizo lo que Dios le había dicho que hiciera. Es presunción y pecado para nosotros pensar que podemos acercarnos a Dios de cualquier otra manera que no sea por fe en lo que Él nos ha dicho que hagamos en Su palabra.
+#### La fe que es aceptable para Dios se basa en lo que Dios dice. Dios estaba complacido con la ofrenda de Abel, porque por fe, Abel creyó en las promesas de Dios y por lo tanto hizo lo que Dios le había dicho que hiciera. Es presunción y pecado para nosotros pensar que podemos acercarnos a Dios de cualquier otra manera que no sea por fe en lo que Él nos ha dicho que hagamos en Su palabra.
 
-### Lea Romanos 14:23.
+#### Romanos 14:23 Pero el que duda, si come se condena, porque no *lo hace* por fe. Todo lo que no procede de fe, es pecado.
 
-[**Rom 14:23** ](verseid:45.14.23) Pero el que duda, si come se condena, porque no *lo hace* por fe. Todo lo que no procede de fe, es pecado.
+#### Génesis 4:3-4 se refiere al sacrificio de Caín como "producto de la tierra", y al de Abel como de entre los "primogénitos" de su rebaño. Dicen que fue el problema de que no era de entre las primicias en lugar del hecho de que era un producto y no un cordero. De cualquier manera, no podemos perder de vista el verdadero problema aquí. Ese es el hecho de que Dios realmente proveyó una manera para que los pecadores fueran restaurados a la unidad con Dios y fueran liberados de la pena del pecado. Él no solo proporcionó el camino, sino que también lo comunicó misericordiosamente al hombre, para que la humanidad pudiera recibir la salvación eterna. Podemos ver el amor, la gracia, la misericordia, el poder y la soberanía de Dios revelados de una sola vez.
 
-### Génesis 4:3-4 se refiere al sacrificio de Caín como "producto de la tierra", y al de Abel como de entre los "primogénitos" de su rebaño. Dicen que fue el problema de que no era de entre las primicias en lugar del hecho de que era un producto y no un cordero. De cualquier manera, no podemos perder de vista el verdadero problema aquí. Ese es el hecho de que Dios realmente proveyó una manera para que los pecadores fueran restaurados a la unidad con Dios y fueran liberados de la pena del pecado. Él no solo proporcionó el camino, sino que también lo comunicó misericordiosamente al hombre, para que la humanidad pudiera recibir la salvación eterna. Podemos ver el amor, la gracia, la misericordia, el poder y la soberanía de Dios revelados de una sola vez.
+## Génesis 4:5 Dios rechazó la ofrenda de Caín
 
-## Dios rechazó la ofrenda de Caín
+### Génesis 4:5 *pero no miró con agrado a Caín y su ofrenda. Caín se enojó mucho y su semblante se demudó.*
 
-### Dios rechazó la ofrenda de Caín porque pensó que podía venir a Dios a su manera de acuerdo con su propio entendimiento. No se acercó a Dios con sangre de oveja como Dios les había instruido. ¿Qué nos dice sobre Caín? ¡Él no creía en Dios! Dios siempre rechazará a aquellos que intentan seguir su propio camino. Debido a que somos pecadores, cualquier cosa que se origine en nosotros es inaceptable para Dios. Debemos tener en cuenta el hecho del plan eterno de Dios que estaba en Su corazón desde antes de que el mundo comenzara.
+#### Dios rechazó la ofrenda de Caín porque pensó que podía venir a Dios a su manera de acuerdo con su propio entendimiento. No se acercó a Dios con sangre de oveja como Dios les había instruido. ¿Qué nos dice sobre Caín? ¡Él no creía en Dios! Dios siempre rechazará a aquellos que intentan seguir su propio camino. Debido a que somos pecadores, cualquier cosa que se origine en nosotros es inaceptable para Dios. Debemos tener en cuenta el hecho del plan eterno de Dios que estaba en Su corazón desde antes de que el mundo comenzara.
 
-### Basándonos en ese hecho, sabemos que Dios tenía un propósito muy decidido para asegurarse de que todas las cosas se dirigieran hacia el cumplimiento de ese plan. NO habría dejado nada de eso en manos del hombre para que lo descubriera o lo hiciera de acuerdo con su propio entendimiento. Solo Dios puede proporcionar el camino para que las personas sean aceptadas por Él. Vimos esto claramente con Adán y Eva después de haber pecado, y ahora aquí lo estamos viendo de nuevo con Caín y Abel.
+#### Basándonos en ese hecho, sabemos que Dios tenía un propósito muy decidido para asegurarse de que todas las cosas se dirigieran hacia el cumplimiento de ese plan. NO habría dejado nada de eso en manos del hombre para que lo descubriera o lo hiciera de acuerdo con su propio entendimiento. Solo Dios puede proporcionar el camino para que las personas sean aceptadas por Él. Vimos esto claramente con Adán y Eva después de haber pecado, y ahora aquí lo estamos viendo de nuevo con Caín y Abel.
 
-### Haciendo una búsqueda realmente rápida de la frase "mi salvación" a través del Antiguo Testamento, se hace referencia a Dios 32 veces como "mi salvación". ¡Dios es nuestra salvación! Su plan de redención ha estado en Su corazón desde la eternidad pasada, y solo al venir a Él a Su manera lo recibiremos.
+#### Haciendo una búsqueda realmente rápida de la frase "mi salvación" a través del Antiguo Testamento, se hace referencia a Dios 32 veces como "mi salvación". ¡Dios es nuestra salvación! Su plan de redención ha estado en Su corazón desde la eternidad pasada, y solo al venir a Él a Su manera lo recibiremos.
 
-## Caín se negó a escuchar a Dios
+## Génesis 4:6-16 Caín se negó a escuchar a Dios
 
-### Lea Génesis 4:6-16.
+### Génesis 4:6 *Entonces el SEÑOR dijo a Caín: «¿Por qué estás enojado, y por qué se ha demudado tu semblante?*
 
-### Todo este intercambio entre Dios y Caín nos revela algunas cosas sobre Dios y la humanidad. Una vez más, vemos la comunicación fiel de Dios una y otra vez. Primero, había dejado en claro lo que debían traer en sacrificio. Entonces Dios de alguna manera le comunicó a Caín que su sacrificio era inaceptable, porque Caín estaba enojado por eso.
+### Génesis 4:7 *Si haces bien, ¿no serás aceptado? Pero si no haces bien, el pecado yace a la puerta y te codicia, pero tú debes dominarlo».*
 
-### Entonces Dios se comunica más con Caín, razonando con él e implorándole que crea en Dios de la manera en que Abel lo había hecho. Dios también le advierte a Caín del "pecado que está agazapado a su puerta". Una vez más, Caín ignora a Dios y mata a Abel.
+### Génesis 4:8 *Caín dijo a su hermano Abel: «Vayamos al campo». Y aconteció que cuando estaban en el campo, Caín se levantó contra su hermano Abel y lo mató.*
 
-### Dios nuevamente se acerca a Caín y lo persigue, haciéndole el mismo tipo de preguntas que le había hecho a Adán después de haber pecado. Lo último que vemos de Caín es que se está alejando de la presencia del Señor rechazando su gracia y su oferta de aceptación.
+### Génesis 4:9 *Entonces el SEÑOR dijo a Caín: «¿Dónde está tu hermano Abel?». Y él respondió: «No sé. ¿Soy yo acaso guardián de mi hermano?».*
 
-### Debemos notar que no fue traer el sacrificio equivocado lo que llevó al juicio de Caín. Ni siquiera fue el asesinato de su hermano lo que finalmente lo llevó a juicio. Fue el hecho de que Caín le había dado la espalda y rechazado la gracia de Dios lo que finalmente lo llevó a ser juzgado. Porque Caín ya era un pecador antes de que hiciera el sacrificio equivocado o matara a su hermano. ¿Recordar? Nació fuera del Jardín del Edén separado de Dios.
+### Génesis 4:10 *Y el SEÑOR le dijo: «¿Qué has hecho? La voz de la sangre de tu hermano clama a Mí desde la tierra.*
 
-## Los descendientes de Caín siguieron el ejemplo de Caín
+### Génesis 4:11 *Ahora pues, maldito eres de la tierra, que ha abierto su boca para recibir de tu mano la sangre de tu hermano.*
 
-### Lea Génesis 4:16-24.
+### Génesis 4:12 *Cuando cultives el suelo, no te dará más su vigor. Vagabundo y errante serás en la tierra».*
 
-### Los descendientes de Caín eran personas brillantes. Construyeron ciudades, criaron ganado y fabricaron herramientas e instrumentos musicales, pero no estaban interesados en conocer a Dios. Siguieron el ejemplo de Caín de rechazar a Dios. Piense en el terrible efecto que la incredulidad ya había tenido en el mundo en ese momento. Debido a que Adán y Eva pecaron, TODA la humanidad fue enviada al pecado y a la separación de Dios. Caín, el primer hijo de Adán y Eva, asesinó a su hermano.
+### Génesis 4:13 *Y Caín dijo al SEÑOR: «Mi castigo es demasiado grande para soportarlo.*
 
-### Caín se alejó de Dios y no quiso escuchar lo que dijo. Caín rechazó a Dios y todos sus descendientes también vivieron en rechazo de Dios. En Génesis capítulo 4, la raza humana solo ha existido durante unas pocas generaciones y se puede ver claramente el rápido declive de Dios.
+### Génesis 4:14 *Hoy me has arrojado de la superficie de la tierra, y de Tu presencia me esconderé, y seré vagabundo y errante en la tierra. Y sucederá que cualquiera que me halle me matará».*
 
-### Lea Romanos 3:9-18.
+### Génesis 4:15 *Entonces el SEÑOR le dijo: «No será así, pues cualquiera que mate a Caín, siete veces sufrirá venganza». Y el SEÑOR puso una señal sobre Caín, para que cualquiera que lo hallara no lo matara.*
 
-### ¡Sin la intervención divina de Dios, el hombre estaría sin TODA ESPERANZA!
+#### Todo este intercambio entre Dios y Caín nos revela algunas cosas sobre Dios y la humanidad. Una vez más, vemos la comunicación fiel de Dios una y otra vez. Primero, había dejado en claro lo que debían traer en sacrificio. Entonces Dios de alguna manera le comunicó a Caín que su sacrificio era inaceptable, porque Caín estaba enojado por eso.
 
-## El nacimiento de Seth
+#### Entonces Dios se comunica más con Caín, razonando con él e implorándole que crea en Dios de la manera en que Abel lo había hecho. Dios también le advierte a Caín del "pecado que está agazapado a su puerta". Una vez más, Caín ignora a Dios y mata a Abel.
 
-### Lee Génesis 4:25.
+#### Dios nuevamente se acerca a Caín y lo persigue, haciéndole el mismo tipo de preguntas que le había hecho a Adán después de haber pecado. Lo último que vemos de Caín es que se está alejando de la presencia del Señor rechazando su gracia y su oferta de aceptación.
 
-### En el Jardín del Edén, Dios había prometido que enviaría un Libertador que vencería a Satanás. Del comentario de Eva en el versículo 25, podemos ver una tremenda esperanza que ella debe haber tenido en esa promesa que Dios les había dado.
+#### Debemos notar que no fue traer el sacrificio equivocado lo que llevó al juicio de Caín. Ni siquiera fue el asesinato de su hermano lo que finalmente lo llevó a juicio. Fue el hecho de que Caín le había dado la espalda y rechazado la gracia de Dios lo que finalmente lo llevó a ser juzgado. Porque Caín ya era un pecador antes de que hiciera el sacrificio equivocado o matara a su hermano. ¿Recordar? Nació fuera del Jardín del Edén separado de Dios.
 
-### Parecía bastante evidente lo emocionada que estaba en 4:1 de que tal vez Cain era el indicado. Luego, en algún momento, se hizo bastante evidente para ella que Cain no era el indicado. Entonces debe haber pensado que se suponía que Abel era el indicado, pero obviamente Caín lo había matado. Entonces, cuando nació Seth, nuevamente se puede ver que la emoción por su esperanza en la promesa se renovó nuevamente. Hoy, sin embargo, sabemos que Set fue aquel a través de quien Dios planeó que el Libertador viniera al mundo.
+## Génesis 4:16-24 Los descendientes de Caín siguieron el ejemplo de Caín
 
-## Con los descendientes de Set, la gente una vez más comenzó a creer en Dios y adorarlo
+### Génesis 4:16 *Y salió Caín de la presencia del SEÑOR, y se estableció en la tierra de Nod, al oriente del Edén.*
 
-### Lee Génesis 4:26.
+### Génesis 4:17 *Y conoció Caín a su mujer, y ella concibió y dio a luz a Enoc. Caín edificó una ciudad y la llamó Enoc, como el nombre de su hijo.*
 
-### Puede ser tentador enfocarse en las personas en este punto y especular sobre cómo, después de lo que sucedió con Caín y Abel, Adán y Eva pueden haber criado a Set de manera diferente, o tal vez al menos hicieron un mejor trabajo al criarlo para que confiara en Dios. Pero, ¡el verdadero problema aquí es la intervención divina de Dios! Viste lo mal que progresaban las cosas rápidamente en unas pocas generaciones.
+### Génesis 4:18 *A Enoc le nació Irad. Irad fue padre de Mehujael, Mehujael fue padre de Metusael, y Metusael fue padre de Lamec.*
 
-### Pero Dios tenía un plan de redención y, a pesar de la pecaminosidad de la humanidad, interviene divinamente, "detiene el sangrado", por así decirlo, elige usar a Set para llevar a cabo la línea de Cristo. Al final del capítulo 4, la declaración es hombres:
+### Génesis 4:19 *Lamec tomó para sí dos mujeres. El nombre de una era Ada, y el nombre de la otra, Zila.*
 
-#### "*Entonces los hombres comenzaron a invocar el nombre del Señor.*"
+### Génesis 4:20 *Y Ada dio a luz a Jabal, el cual fue padre de los que habitan en tiendas y tienen ganado.*
 
-#### Sin la intervención divina de Dios y llamando a las personas a Sí mismo y creando ese hambre de conocerlo dentro de ellas, ¡NADIE se habría vuelto a Él! El plan eterno de redención se originó en el corazón de Dios antes de que comenzara el tiempo. La realización de ese plan a lo largo de la historia fue TODA hecha por Su intervención divina.
+### Génesis 4:21 *Su hermano se llamaba Jubal, el cual fue padre de todos los que tocan la lira y la flauta.*
 
-#### Dios dejó solo UN componente necesario para que Su plan se llevara a cabo ante la humanidad...... ¡PECADO!
+### Génesis 4:22 *Zila a su vez dio a luz a Tubal Caín, forjador de todo utensilio de bronce y de hierro. Y la hermana de Tubal Caín era Naama.*
+
+### Génesis 4:23 *Lamec dijo a sus mujeres: «Ada y Zila, oigan mi voz; Mujeres de Lamec, Presten oído a mis palabras, Pues he dado muerte a un hombre por haberme herido, Y a un muchacho por haberme pegado.*
+
+### Génesis 4:24 *Si siete veces es vengado Caín, Entonces Lamec lo será setenta veces siete».*
+
+#### Los descendientes de Caín eran personas brillantes. Construyeron ciudades, criaron ganado y fabricaron herramientas e instrumentos musicales, pero no estaban interesados en conocer a Dios. Siguieron el ejemplo de Caín de rechazar a Dios. Piense en el terrible efecto que la incredulidad ya había tenido en el mundo en ese momento. Debido a que Adán y Eva pecaron, toda la humanidad fue enviada al pecado y a la separación de Dios. Caín, el primer hijo de Adán y Eva, asesinó a su hermano.
+
+#### Caín se alejó de Dios y no quiso escuchar lo que dijo. Caín rechazó a Dios y todos sus descendientes también vivieron en rechazo de Dios. En Génesis capítulo 4, la raza humana solo ha existido durante unas pocas generaciones y se puede ver claramente el rápido declive de Dios.
+
+#### ¡Sin la intervención divina de Dios, el hombre estaría sin toda esperanza! Romanos 3:9-18
+
+## Génesis 4:25 El nacimiento de Seth
+
+### Génesis 4:25 *Adán se unió otra vez a su mujer; y ella dio a luz un hijo y le puso por nombre Set, porque, dijo ella: «Dios me ha dado otro hijo en lugar de Abel, pues Caín lo mató».*
+
+#### En el Jardín del Edén, Dios había prometido que enviaría un Libertador que vencería a Satanás. Del comentario de Eva en el versículo 25, podemos ver una tremenda esperanza que ella debe haber tenido en esa promesa que Dios les había dado.
+
+#### Parecía bastante evidente lo emocionada que estaba en 4:1 de que tal vez Cain era el indicado. Luego, en algún momento, se hizo bastante evidente para ella que Cain no era el indicado. Entonces debe haber pensado que se suponía que Abel era el indicado, pero obviamente Caín lo había matado. Entonces, cuando nació Seth, nuevamente se puede ver que la emoción por su esperanza en la promesa se renovó nuevamente. Hoy, sin embargo, sabemos que Set fue aquel a través de quien Dios planeó que el Libertador viniera al mundo.
+
+## Génesis 4:26 Con los descendientes de Set, la gente una vez más comenzó a creer en Dios y adorarlo
+
+### Génesis 4:26 *A Set le nació también un hijo y le puso por nombre Enós. Por ese tiempo comenzaron los hombres a invocar el nombre del SEÑOR.*
+
+#### Puede ser tentador enfocarse en las personas en este punto y especular sobre cómo, después de lo que sucedió con Caín y Abel, Adán y Eva pueden haber criado a Set de manera diferente, o tal vez al menos hicieron un mejor trabajo al criarlo para que confiara en Dios. Pero, ¡el verdadero problema aquí es la intervención divina de Dios! Viste lo mal que progresaban las cosas rápidamente en unas pocas generaciones.
+
+#### Pero Dios tenía un plan de redención y, a pesar de la pecaminosidad de la humanidad, interviene divinamente, "detiene el sangrado", por así decirlo, elige usar a Set para llevar a cabo la línea de Cristo. Al final del capítulo 4, la declaración es hombres:
+
+##### "*Entonces los hombres comenzaron a invocar el nombre del Señor.*"
+
+#### Sin la intervención divina de Dios y llamando a las personas a Sí mismo y creando ese hambre de conocerlo dentro de ellas, ¡nadie se habría vuelto a Él! El plan eterno de redención se originó en el corazón de Dios antes de que comenzara el tiempo. La realización de ese plan a lo largo de la historia fue toda hecha por Su intervención divina.
+
+#### Dios dejó solo un componente necesario para que Su plan se llevara a cabo ante la humanidad...... ¡Pecado!
 
 ## Preguntas de revisión
 
@@ -1800,63 +1810,65 @@ Hechos 17:25 ni es servido por manos humanas, como si necesitara de algo, puesto
 
 ### ¿Qué pecado de Caín fue el que finalmente lo llevó a su juicio?
 
-## LA JUSTICIA DE DIOS EXIGE JUICIO SOBRE EL PECADO, PERO SU GRACIA SIEMPRE PROPORCIONA UN CAMINO DE LIBERACIÓN
+## GÉNESIS 5:1-32 LA JUSTICIA DE DIOS EXIGE JUICIO SOBRE EL PECADO, PERO SU GRACIA SIEMPRE PROPORCIONA UN CAMINO DE LIBERACIÓN
 
-## Introducción: A través de todo lo que hemos estudiado hasta ahora, continuamos viendo a Dios mostrando fielmente que Él solo desea lo mejor para el hombre. Vimos esto en la creación y en Sus maravillosas provisiones para el hombre. Vimos esto en su advertencia de no comer del árbol del conocimiento del bien y del mal. Lo vimos en su promesa inmediata de un libertador. Vistió a Adán y Eva. Se comunicó a la descendencia de Adán en cuanto a qué tipo de sacrificio traer. A pesar de que Caín trajo el sacrificio equivocado y mató a su hermano, Dios todavía lo persiguió, razonando con él, deseando que se arrepintiera.
+#### A través de todo lo que hemos estudiado hasta ahora, continuamos viendo a Dios mostrando fielmente que Él solo desea lo mejor para el hombre. Vimos esto en la creación y en Sus maravillosas provisiones para el hombre. Vimos esto en su advertencia de no comer del árbol del conocimiento del bien y del mal. Lo vimos en su promesa inmediata de un libertador. Vistió a Adán y Eva. Se comunicó a la descendencia de Adán en cuanto a qué tipo de sacrificio traer. A pesar de que Caín trajo el sacrificio equivocado y mató a su hermano, Dios todavía lo persiguió, razonando con él, deseando que se arrepintiera.
 
-## El amor y los deseos perfectos de Dios para la humanidad son obvios, ya que lo vemos persiguiendo al hombre incluso frente a la desobediencia persistente (Génesis 5:3-5)
+#### El amor y los deseos perfectos de Dios para la humanidad son obvios, ya que lo vemos persiguiendo al hombre incluso frente a la desobediencia persistente (Génesis 5:3-5)
 
-### Esta es una imagen muy diferente de Génesis 1 y 2. No había pecado, muerte, enfermedad o tristeza. Vivían en la presencia y comunión de Dios, en el Jardín del Edén con todas las necesidades satisfechas, comiendo del árbol de la vida. Ahora están separados de Dios, trabajando con el sudor de la frente, experimentando pecado, enfermedad, dolor y muerte. Aquí vemos el tercer aspecto de la muerte provocado: la muerte física.
+#### Esta es una imagen muy diferente de Génesis 1 y 2. No había pecado, muerte, enfermedad o tristeza. Vivían en la presencia y comunión de Dios, en el Jardín del Edén con todas las necesidades satisfechas, comiendo del árbol de la vida. Ahora están separados de Dios, trabajando con el sudor de la frente, experimentando pecado, enfermedad, dolor y muerte. Aquí vemos el tercer aspecto de la muerte provocado: la muerte física.
 
-### A través de Génesis 5, vemos la genealogía de Adán. A veces conocemos los nombres de diferentes personajes de la Biblia sin saber con quién estaban relacionados y cómo encajan en el panorama general. ¡Pero observe el énfasis que Dios pone en el hecho de que cada una de estas personas murió! Dios dice específicamente una y otra vez: "¡y murió"!
+#### A través de Génesis 5, vemos la genealogía de Adán. A veces conocemos los nombres de diferentes personajes de la Biblia sin saber con quién estaban relacionados y cómo encajan en el panorama general. ¡Pero observe el énfasis que Dios pone en el hecho de que cada una de estas personas murió! Dios dice específicamente una y otra vez: "¡y murió"!
 
-### Una y otra y otra vez, Dios está demostrando que Él es fiel y que Sus promesas siempre se cumplirán.
+#### Una y otra y otra vez, Dios está demostrando que Él es fiel y que Sus promesas siempre se cumplirán.
 
-### El resultado del pecado condujo a tres aspectos de la muerte: espiritual, físico y eterno. Incluso con los avances actuales en medicina y máquinas en un esfuerzo por mantener la vida, todos sabemos sin lugar a dudas que la muerte física es absolutamente inevitable. De alguna manera parece que pensamos que podemos dar la vuelta y por nuestra cuenta evitar los otros dos aspectos de la muerte. La seguridad de nuestra propia incapacidad para evitar la muerte física es una imagen de la seguridad de nuestra propia incapacidad para evitar la muerte espiritual y eterna.
+#### El resultado del pecado condujo a tres aspectos de la muerte: espiritual, físico y eterno. Incluso con los avances actuales en medicina y máquinas en un esfuerzo por mantener la vida, todos sabemos sin lugar a dudas que la muerte física es absolutamente inevitable. De alguna manera parece que pensamos que podemos dar la vuelta y por nuestra cuenta evitar los otros dos aspectos de la muerte. La seguridad de nuestra propia incapacidad para evitar la muerte física es una imagen de la seguridad de nuestra propia incapacidad para evitar la muerte espiritual y eterna.
 
-### Las personas enumeradas en Génesis 5 son la línea familiar de Set. Desde Adán hasta Noé, hubo 10 generaciones. Fueron las personas de la línea de Set las que parecían ser las principales que continuaron creyendo y buscando al Libertador venidero que Dios había prometido en el Jardín del Edén.
+#### Las personas enumeradas en Génesis 5 son la línea familiar de Set. Desde Adán hasta Noé, hubo 10 generaciones. Fueron las personas de la línea de Set las que parecían ser las principales que continuaron creyendo y buscando al Libertador venidero que Dios había prometido en el Jardín del Edén.
 
-### Uno de los descendientes de Set era un hombre llamado Enoc. Sabemos que Enoc también nació pecador. Pero Enoc creyó en Dios y vino a Él de la manera que Él le había indicado. Debido a la creencia de Enoc, fue guiado a vivir su vida en comunión con Dios.
+#### Uno de los descendientes de Set era un hombre llamado Enoc. Sabemos que Enoc también nació pecador. Pero Enoc creyó en Dios y vino a Él de la manera que Él le había indicado. Debido a la creencia de Enoc, fue guiado a vivir su vida en comunión con Dios.
 
-### Lea Génesis 5:22-23 y Judas 1:14-15.
+### Génesis 5:22 *Enoc anduvo con Dios 300 años después de haber engendrado a Matusalén, y tuvo otros hijos e hijas.*
 
-### De esto entendemos que Enoc fue un mensajero o profeta de Dios en su día. Enoc no solo advirtió a la gente de un juicio venidero, sino que se declara específicamente que profetizó sobre el regreso de Jesús después del milenio cuando regrese con los "santos". Una vez más, la gracia y la fidelidad de Dios se manifiestan y Su continua búsqueda del hombre y su deseo de que se arrepienta. Pero la mayoría rechazó las advertencias de Dios a través de Enoc.
+### Génesis 5:23 *El total de los días de Enoc fue de 365 años.*
 
-### Lee Génesis 5:24.
+#### Judas 1:14 *De estos también profetizó Enoc, en la séptima generacióndesde Adán, diciendo: «El Señor vino con muchos millares de Sus santos,*
 
-### Es interesante que en este capítulo donde Dios enfatiza la muerte física del hombre, hay un hombre en medio de ella que elige intervenir y llevar al cielo sin experimentar la muerte física.
+#### Judas 1:15 *para ejecutar juicio sobre todos, y para condenar a todos los impíos de todas sus obras de impiedad, que han hecho impíamente, y de todas las cosas ofensivas que pecadores impíos dijeron contra Él».*
 
-### Lea Hebreos 11:5.
+#### De esto entendemos que Enoc fue un mensajero o profeta de Dios en su día. Enoc no solo advirtió a la gente de un juicio venidero, sino que se declara específicamente que profetizó sobre el regreso de Jesús después del milenio cuando regrese con los "santos". Una vez más, la gracia y la fidelidad de Dios se manifiestan y Su continua búsqueda del hombre y su deseo de que se arrepienta. Pero la mayoría rechazó las advertencias de Dios a través de Enoc.
 
-### Parece que Dios estaba dando una imagen física aquí. En el capítulo 5, para un hombre tras otro se registra que "murió", pero un hombre, Enoc, Dios intervino y se lo llevó.
+### Génesis 5:24 *Y Enoc anduvo con Dios, y desapareció porque Dios se lo llevó.*
 
-### Dios también dejó en claro que fue debido a la relación y la fe de Enoc en Dios y Sus promesas que Enoc agradó a Dios, y es por eso que Dios eligió intervenir y tomarlo. Así como fue solo a través de la fe que Enoc agradó a Dios y se le permitió escapar de la muerte física, así es solo a través de la fe que el hombre también escapa de la muerte espiritual y eterna. Dios estaba proporcionando otra imagen fiel y testimonio de la verdad, porque Él solo quiere lo mejor para el hombre.
+#### Es interesante que en este capítulo donde Dios enfatiza la muerte física del hombre, hay un hombre en medio de ella que elige intervenir y llevar al cielo sin experimentar la muerte física.
 
-### Lea Génesis 5:25-32.
+#### Parece que Dios estaba dando una imagen física aquí. En el capítulo 5, para un hombre tras otro se registra que "murió", pero un hombre, Enoc, Dios intervino y se lo llevó. Hebreos 11:5
 
-[**Gen 5:25** ](verseid:1.5.25) Matusalén vivió 187 años, y fue padre de Lamec.
+#### Dios también dejó en claro que fue debido a la relación y la fe de Enoc en Dios y Sus promesas que Enoc agradó a Dios, y es por eso que Dios eligió intervenir y tomarlo. Así como fue solo a través de la fe que Enoc agradó a Dios y se le permitió escapar de la muerte física, así es solo a través de la fe que el hombre también escapa de la muerte espiritual y eterna. Dios estaba proporcionando otra imagen fiel y testimonio de la verdad, porque Él solo quiere lo mejor para el hombre.
 
-[**Gen 5:26** ](verseid:1.5.26) Y vivió Matusalén 782 años después de haber engendrado a Lamec, y tuvo *otros* hijos e hijas.
+### Génesis 5:25 *Matusalén vivió 187 años, y fue padre de Lamec.*
 
-[**Gen 5:27** ](verseid:1.5.27) El total de los días de Matusalén fue de 969 años, y murió.
+### Génesis 5:26 *Y vivió Matusalén 782 años después de haber engendrado a Lamec, y tuvo otros hijos e hijas.*
 
-[**Gen 5:28** ](verseid:1.5.28) Lamec vivió 182 años, y tuvo un hijo.
+### Génesis 5:27 *El total de los días de Matusalén fue de 969 años, y murió.*
 
-[**Gen 5:29** ](verseid:1.5.29) Y le puso por nombre Noé, diciendo: «Este nos dará descanso de nuestra labor y del trabajo de nuestras manos, por *causa* de la tierra que el SEÑOR ha maldecido».
+### Génesis 5:28 *Lamec vivió 182 años, y tuvo un hijo.*
 
-[**Gen 5:30** ](verseid:1.5.30) Y vivió Lamec 595 años después de haber engendrado a Noé, y tuvo *otros* hijos e hijas.
+### Génesis 5:29 *Y le puso por nombre Noé, diciendo: «Este nos dará descanso de nuestra labor y del trabajo de nuestras manos, por causa de la tierra que el SEÑOR ha maldecido».*
 
-[**Gen 5:31** ](verseid:1.5.31) El total de los días de Lamec fue de 777 años, y murió.
+### Génesis 5:30 *Y vivió Lamec 595 años después de haber engendrado a Noé, y tuvo otros hijos e hijas.*
 
-[**Gen 5:32** ](verseid:1.5.32) Noé tenía 500 años, y fue padre de Sem, de Cam y de Jafet.
+### Génesis 5:31 *El total de los días de Lamec fue de 777 años, y murió.*
 
-### Sabemos que Matusalén vivió más que nadie, y aquí vemos que su nieto era Noé. Diez generaciones pasaron de Adán a Noé. Con cada generación representando tal esperanza de vida, asumiendo las cifras actuales de crecimiento de la población, es muy concebible que haya habido hasta siete mil millones de personas viviendo en la tierra en ese momento. Mateo 24:37###39 nos da pistas sobre cómo eran las personas y sus actitudes hacia Dios en ese día. De nuevo, más manifestación de la mentalidad de Lucifer.
+### Génesis 5:32 *Noé tenía 500 años, y fue padre de Sem, de Cam y de Jafet.*
+
+#### Sabemos que Matusalén vivió más que nadie, y aquí vemos que su nieto era Noé. Diez generaciones pasaron de Adán a Noé. Con cada generación representando tal esperanza de vida, asumiendo las cifras actuales de crecimiento de la población, es muy concebible que haya habido hasta siete mil millones de personas viviendo en la tierra en ese momento. Mateo 24:37-39 nos da pistas sobre cómo eran las personas y sus actitudes hacia Dios en ese día. De nuevo, más manifestación de la mentalidad de Lucifer.
 
 ### Lea Génesis 6:3, 5-11.
 
 ## Génesis 6:1-11 El telón de fondo para el dilúvio
 
-### Antes de entrar en el capítulo 6 pensamos que es bueno explicar nuestra interpretación sobre estos versículos. Existen tres puntos de vista principalmente sobre esta porción de las Escrituras. La diferencia cae en la identidad de "*los hijos de Dios*". 
+### Antes de entrar en el capítulo 6 pensamos que es bueno explicar nuestra interpretación sobre estos versículos. Existen tres puntos de vista principalmente sobre esta porción de las Escrituras. La diferencia cae en la identidad de "*los hijos de Dios*". ¿Quienes son los hijos de Dios?
 
 #### **Perspectiva 1**: Los hijos de Dios son Ángeles caidos. Los “hijos de Dios” son ángeles que tomaron esposas humanas, engendrando descendencia híbrida (“Nefilim”).
 
@@ -1875,6 +1887,25 @@ Hechos 17:25 ni es servido por manos humanas, como si necesitara de algo, puesto
 ##### Porque concuerda con el tema moral de Génesis 6: la creciente maldad de la humanidad. Génesis 6:5
 
 ##### En ningún momento del contexto amplio o inmediato son mencionados los ángeles, ni antes del dilúvio ni después. El castigo del diluvio es especificamente causado por la humanidad y es terrenal. Génesis 6:3 
+
+##### Claramente, desde Génesis 3:15 en adelante se está haciendo seguimiento de dos linajes: 
+
+Linaje de Caín vs. Linaje de Set en Génesis
+
+| Linaje de Caín (Génesis 4:16–24)                             | Linaje de Set (Génesis 5:1–32)                               |
+| :----------------------------------------------------------- | ------------------------------------------------------------ |
+| Comienza fuera del Edén después de la expulsión de Caín (4:16) | Comienza con Adán → Set como descendencia de reemplazo (4:25; 5:1–3) |
+| Caín → Enoc (ciudad nombrada en honor a su hijo)             | Adán →Set → Enós                                             |
+| Construcción urbana, cultura sin Dios                        | La gente comienza a invocar el nombre de Yahvé (4:26)        |
+| Jared, Mehujael, Metusael (nombres a menudo asociados con el orgullo o la violencia) | Kenán, Mahalalel (“alabanza de Dios”), Enoc (“caminó con Dios”) |
+| Lamec (séptimo desde Adán): violento, polígamo, jactancioso (4:19–24) | Enoc (séptimo desde Adán): caminó con Dios, llevado por Dios (5:22–24) |
+| Termina con la amenaza de venganza de Lamec.                 | Termina con Noé, consuelo y esperanza de la humanidad (5:28–29). |
+| Tema: logros humanos + corrupción.                           | Tema: adoración + esperanza a través de la descendencia elegida de Dios. |
+| No se menciona la «imagen de Dios».                          | Reafirma que los humanos fueron creados a imagen de Dios (5:1–3). |
+| Trayectoria espiritual: alejamiento de la presencia del Señor. | Trayectoria espiritual: invocación a Yahvé, comunión con Dios. |
+| Conduce a la completa corrupción moral en Génesis 6:1–7.     | Preservados por Dios y protegidos mediante Noé.              |
+
+#### Entonces, entramos al capítulo 6:
 
 ### Génesis 6:1 - "*Aconteció que cuando los hombres comenzaron a multiplicarse sobre la superficie de la tierra, y les nacieron hijas,*"
 
@@ -1898,13 +1929,9 @@ Hechos 17:25 ni es servido por manos humanas, como si necesitara de algo, puesto
 
 ### Génesis 6:11 - *Pero la tierra se había corrompido delante de Dios, y estaba la tierra llena de violencia.*
 
-
-
 ### A pesar de la actitud del pueblo hacia Dios en los días de Noé, Dios los amaba y deseaba que se arrepintieran y creyeran en Él. No quería que murieran.
 
-### Lee Ezequiel 33:11.
-
-### Ponga el hecho de que Dios no se complace en la muerte de los impíos junto con el hecho de 2 Pedro 2:5, que dice que Noé fue un "predicador de justicia". Podemos estar seguros de que, una vez más, Dios estaba tomando la iniciativa y ofreciendo gracia a la humanidad.
+### Ponga el hecho de que Dios no se complace en la muerte de los impíos junto con el hecho de 2 Pedro 2:5, que dice que Noé fue un "predicador de justicia". Podemos estar seguros de que, una vez más, Dios estaba tomando la iniciativa y ofreciendo gracia a la humanidad. Ezequiel 33:11
 
 ### Pero según Génesis 6:3, ¿cuánto tiempo continuaría el Espíritu de Dios hablando a través de Noé a la gente? 120 años. ¿Qué características de Dios harían que Él soportara pacientemente y continuara hablando a la gente durante 120 años? Gracia y misericordia.
 
@@ -1938,6 +1965,26 @@ Hechos 17:25 ni es servido por manos humanas, como si necesitara de algo, puesto
 
 ### Lea Génesis 6:13-17.
 
+Génesis 6:13 Entonces Dios dijo a Noé: «He decidido poner fin a toda carne, porque la tierra está llena de violencia por causa de ellos; por eso voy a destruirlos *junto* con la tierra.
+
+Génesis 6:14 Hazte un arca de madera de ciprés. Harás el arca con compartimientos, y la cubrirás con brea por dentro y por fuera.
+
+Génesis 6:15** ](verseid:1.6.15) De esta manera la harás: de 300 codos (135 metros) la longitud del arca, de 50 codos (22.5 metros) su anchura y de 30 codos (13.5 metros) su altura.
+
+Génesis 6:16** ](verseid:1.6.16) Le harás una ventana que terminará a un codo (45 centímetros) del techo, y pondrás la puerta en su costado. Harás el arca de tres pisos.
+
+Génesis 6:17** ](verseid:1.6.17) »Entonces Yo traeré un diluvio sobre la tierra, para destruir toda carne en que hay aliento de vida debajo del cielo. Todo lo que hay en la tierra perecerá.
+
+Génesis 6:18** ](verseid:1.6.18) Pero estableceré Mi pacto contigo. Entrarás en el arca tú, y contigo tus hijos, tu mujer y las mujeres de tus hijos.
+
+Génesis 6:19** ](verseid:1.6.19) »Y de todo ser viviente, de toda carne, meterás dos de cada *especie* en el arca, para preservar*les* la vida contigo; macho y hembra serán.
+
+Génesis 6:20** ](verseid:1.6.20) De las aves según su especie, de los animales según su especie y de todo reptil de la tierra según su especie, dos de cada *especie* vendrán a ti para que *les* preserves la vida.
+
+Génesis 6:21** ](verseid:1.6.21) »Y tú, toma para ti de todo alimento que se come, y almacénalo, y será alimento para ti y para ellos».
+
+
+
 ### Todo ser viviente en la tierra sería destruido excepto aquellos que entraran en el arca. Noé tuvo que seguir las instrucciones de Dios y construir el arca exactamente como Él dijo.
 
 ### No sabemos exactamente cómo era el arca, pero sí conocemos sus dimensiones específicas que Dios había registrado para nosotros. A partir de las medidas dadas en la Biblia, se ha estimado que el arca habría tenido 438 pies de largo, 72.9 pies de ancho y 43.8 pies de alto. Las dimensiones dadas a Noé por Dios para el arca que iba a construir eran proporcionales a los enormes barcos de transporte oceánico que se están construyendo en este siglo.
@@ -1962,9 +2009,9 @@ Hechos 17:25 ni es servido por manos humanas, como si necesitara de algo, puesto
 
 ### Si Noé o cualquier otra persona en su día hubiera tratado de encontrar su propia solución (como lo hicieron Adán y Eva), también habría sido rechazada. ¡Solo Dios es el Creador supremo, soberano y todopoderoso y dueño de toda la creación! ¡Él no solo tiene el derecho de determinar cómo el hombre puede escapar del juicio de la muerte, sino que también QUIERE que le creamos y seamos liberados!
 
-### Lee Génesis 6:22.
+### Génesis 6:22 *Así lo hizo Noé; conforme a todo lo que Dios le había mandado, así lo hizo.*
 
-### ¡Hasta este momento, nunca antes había llovido sobre la tierra! Pero a pesar de que Noé no entendía CÓMO iba a ser la lluvia, ¡creyó en Dios!
+#### ¡Hasta este momento, nunca antes había llovido sobre la tierra! Pero a pesar de que Noé no entendía CÓMO iba a ser la lluvia, ¡creyó en Dios!
 
 ### Lee Hebreos 11:7.
 
@@ -1974,15 +2021,55 @@ Hechos 17:25 ni es servido por manos humanas, como si necesitara de algo, puesto
 
 ### Lea Génesis 7:1-5.
 
+Génesis 7:1** ](verseid:1.7.1) Entonces el SEÑOR dijo a Noé: «Entra en el arca tú y todos los de tu casa; porque he visto que *solo* tú eres justo delante de Mí en esta generación.
+
+Génesis 7:2** ](verseid:1.7.2) De todo animal limpio tomarás contigo siete parejas, el macho y su hembra; y de todo animal que no es limpio, dos, el macho y su hembra.
+
+Génesis 7:3** ](verseid:1.7.3) También de las aves del cielo, siete parejas, macho y hembra, para conservar viva la especie sobre la superficie de toda la tierra.
+
+Génesis 7:4** ](verseid:1.7.4) »Porque dentro de siete días Yo haré llover sobre la tierra cuarenta días y cuarenta noches, y borraré de la superficie de la tierra a todo ser viviente que he creado».
+
+Génesis 7:5** ](verseid:1.7.5) Y Noé hizo conforme a todo lo que el SEÑOR le había mandado.
+
+
+
+
+
+
+
+
+
 
 
 ### Noé creía que Dios iba a destruir el mundo tal como dijo que lo haría. Noé también creía que solo DIOS podía salvarlo a él y a su familia.
 
 ### Lea Génesis 7:6-15.
 
+Génesis 7:6** ](verseid:1.7.6) Noé *tenía* 600 años cuando las aguas del diluvio vinieron sobre la tierra.
+
+Génesis 7:7** ](verseid:1.7.7) Entonces Noé entró en el arca, y con él sus hijos, su mujer y las mujeres de sus hijos, a causa de las aguas del diluvio.
+
+Génesis 7:8** ](verseid:1.7.8) De los animales limpios y de los animales que no son limpios, de las aves y de todo lo que se arrastra sobre la tierra,
+
+Génesis 7:9** ](verseid:1.7.9) entraron de dos en dos con Noé en el arca, macho y hembra, como Dios había ordenado a Noé.
+
+Génesis 7:10** ](verseid:1.7.10) Aconteció que a los siete días las aguas del diluvio vinieron sobre la tierra.
+
+Génesis 7:11** ](verseid:1.7.11) El año 600 de la vida de Noé, el mes segundo, a los diecisiete días del mes, en ese mismo día se rompieron todas las fuentes del gran abismo, y las compuertas del cielo fueron abiertas.
+
+Génesis 7:12** ](verseid:1.7.12) Y cayó la lluvia sobre la tierra por cuarenta días y cuarenta noches.
+
+Génesis 7:13** ](verseid:1.7.13) En ese mismo día entró Noé en el arca, con Sem, Cam y Jafet, hijos de Noé, la mujer de Noé y las tres mujeres de sus hijos con ellos.
+
+Génesis 7:14** ](verseid:1.7.14) También entró toda fiera según su especie, todo ganado según su especie, todo reptil que se arrastra sobre la tierra según su especie, y toda ave según su especie, aves de toda clase.
+
+Génesis 7:15** ](verseid:1.7.15) Entraron, pues, con Noé en el arca de dos en dos de toda carne en que había aliento de vida;
+
 ### Noé y su familia y todos los animales entraron en el arca por su única puerta. No había otra manera de que alguien entrara y se salvara.
 
 ### Lee Génesis 7:16.
+
+Génesis 7:16** ](verseid:1.7.16) los que entraron, macho y hembra de toda carne, entraron como Dios se lo había mandado. Después el SEÑOR cerró *la puerta*detrás de Noé.
 
 ### Note que este versículo dice que DIOS los encerró. Dios cerró la puerta. Dios mismo encerró a Noé y a su familia y a todos los animales dentro de este lugar de seguridad y liberación. Estaban a salvo porque era Dios quien los había encerrado. Esta es una imagen de Juan 10 donde Jesús dijo "nadie puede arrebatárselos de la mano".
 
@@ -1994,7 +2081,23 @@ Hechos 17:25 ni es servido por manos humanas, como si necesitara de algo, puesto
 
 ### Lea Génesis 7:17, 21-23.
 
+Génesis 7:17** ](verseid:1.7.17) Entonces vino el diluvio sobre la tierra por cuarenta días, y las aguas crecieron y alzaron el arca, y esta se elevó sobre la tierra.
+
+Génesis 7:18** ](verseid:1.7.18) Las aguas aumentaron y crecieron mucho sobre la tierra, y el arca flotaba sobre la superficie de las aguas.
+
+Génesis 7:19** ](verseid:1.7.19) Las aguas continuaron aumentando más y más sobre la tierra, y fueron cubiertos todos los altos montes que hay debajo de todos los cielos.
+
+Génesis 7:20** ](verseid:1.7.20) Las aguas subieron 15 codos (6.75 metros) por encima de los montes después que habían sido cubiertos.
+
+Génesis 7:21** ](verseid:1.7.21) Y pereció toda carne que se mueve sobre la tierra: aves, ganados, bestias, y todo lo que se mueve sobre la tierra, y todo ser humano.
+
+Génesis 7:22** ](verseid:1.7.22) Todo aquello en cuya nariz había aliento de espíritu de vida, todo lo que había sobre la tierra firme, murió.
+
+Génesis 7:23** ](verseid:1.7.23) *El SEÑOR* exterminó, pues, todo ser viviente que *había* sobre la superficie de la tierra. Desde el hombre hasta los ganados, los reptiles y las aves del cielo, fueron exterminados de la tierra. Solo quedó Noé y los que *estaban* con él en el arca.
+
 ### Durante 40 días y noches las aguas subieron hasta cubrir las copas de los árboles y las montañas más altas. Recuerde que en el principio, la tierra estaba cubierta de agua. Dios separó las aguas y las colocó sobre la atmósfera de la tierra. Fue esta agua la que Dios hizo caer como lluvia torrencial sobre la tierra. Observe la última oración en el versículo 23: "*Solo Noé y los que estaban con él en el arca permanecieron vivos.*" ¡Nuevamente, en el principio, Dios prometió la muerte como la paga del pecado! Y nuevamente, vemos la absoluta imposibilidad de que el hombre escape de cualquiera de los tres aspectos de la muerte aparte de la gracia, la misericordia y la intervención divina de Dios.
+
+Gen 7:24** ](verseid:1.7.24) Las aguas prevalecieron sobre la tierra 150 días.
 
 ### ¡La única esperanza de Noé era creer en Dios y confiar en Su gracia y misericordia! Es exactamente lo mismo para nosotros hoy; nuestra única esperanza es creer en Dios y confiar en Su gracia y misericordia, ¡punto!
 
@@ -2022,29 +2125,29 @@ Hechos 17:25 ni es servido por manos humanas, como si necesitara de algo, puesto
 
 ### Lea Génesis 8:1-4.
 
-[**Gen 8:1** ](verseid:1.8.1) Entonces Dios se acordó de Noé y de todas las bestias y de todo el ganado que estaban con él en el arca. Y Dios hizo pasar un viento sobre la tierra y decrecieron las aguas.
+Génesis 8:1** ](verseid:1.8.1) Entonces Dios se acordó de Noé y de todas las bestias y de todo el ganado que estaban con él en el arca. Y Dios hizo pasar un viento sobre la tierra y decrecieron las aguas.
 
-[**Gen 8:2** ](verseid:1.8.2) Las fuentes del abismo y las compuertas del cielo se cerraron, y se detuvo la lluvia del cielo.
+Génesis 8:2** ](verseid:1.8.2) Las fuentes del abismo y las compuertas del cielo se cerraron, y se detuvo la lluvia del cielo.
 
-[**Gen 8:3** ](verseid:1.8.3) Las aguas bajaron gradualmente de sobre la tierra, y después de 150 días, las aguas habían disminuido.
+Génesis 8:3** ](verseid:1.8.3) Las aguas bajaron gradualmente de sobre la tierra, y después de 150 días, las aguas habían disminuido.
 
-[**Gen 8:4** ](verseid:1.8.4) Y en el día diecisiete del mes séptimo, el arca descansó sobre los montes de Ararat.
+Génesis 8:4** ](verseid:1.8.4) Y en el día diecisiete del mes séptimo, el arca descansó sobre los montes de Ararat.
 
 ### Dios envió un fuerte viento, que hizo que el agua que cubría la tierra retrocediera lentamente hasta que apareció la tierra seca. Nuevamente vemos revelada la omnipotencia soberana de Dios. Él es el Creador Todopoderoso y es plenamente capaz de controlar Su creación. Vemos esto a través de las Escrituras. "*Él hace soplar su viento, y las aguas fluyen*". Salmo 147:18
 
 ### Lea Génesis 8:14-19.
 
-[**Gen 8:14** ](verseid:1.8.14) En el mes segundo, el día veintisiete del mes, la tierra estaba seca.
+Génesis 8:14** ](verseid:1.8.14) En el mes segundo, el día veintisiete del mes, la tierra estaba seca.
 
-[**Gen 8:15** ](verseid:1.8.15) Entonces dijo Dios a Noé:
+Génesis 8:15** ](verseid:1.8.15) Entonces dijo Dios a Noé:
 
-[**Gen 8:16** ](verseid:1.8.16) «Sal del arca tú, y contigo tu mujer, tus hijos y las mujeres de tus hijos.
+Génesis 8:16** ](verseid:1.8.16) «Sal del arca tú, y contigo tu mujer, tus hijos y las mujeres de tus hijos.
 
-[**Gen 8:17** ](verseid:1.8.17) Saca contigo todo ser viviente de toda carne que está contigo: aves, ganados y todo reptil que se arrastra sobre la tierra, para que se reproduzcan en abundancia sobre la tierra, y sean fecundos y se multipliquen sobre la tierra».
+Génesis 8:17** ](verseid:1.8.17) Saca contigo todo ser viviente de toda carne que está contigo: aves, ganados y todo reptil que se arrastra sobre la tierra, para que se reproduzcan en abundancia sobre la tierra, y sean fecundos y se multipliquen sobre la tierra».
 
-[**Gen 8:18** ](verseid:1.8.18) Salió, pues, Noé, y con él sus hijos y su mujer y las mujeres de sus hijos.
+Génesis 8:18** ](verseid:1.8.18) Salió, pues, Noé, y con él sus hijos y su mujer y las mujeres de sus hijos.
 
-[**Gen 8:19** ](verseid:1.8.19) También salieron del arca todas las bestias, todos los reptiles, todas las aves y todo lo que se mueve sobre la tierra, cada uno según su especie.
+Génesis 8:19** ](verseid:1.8.19) También salieron del arca todas las bestias, todos los reptiles, todas las aves y todo lo que se mueve sobre la tierra, cada uno según su especie.
 
 ### Dios prometió liberar a Noé y a los que llevó al arca, ¡y lo hizo! Dijo que destruiría a todos los que estaban fuera del arca, ¡y también lo hizo! ¡Dios siempre es fiel para hacer lo que dice que va a hacer! ¡Él nunca cambia, siempre es fiel!
 
@@ -2056,11 +2159,11 @@ Hechos 17:25 ni es servido por manos humanas, como si necesitara de algo, puesto
 
 ## La Palabra de Dios es un registro histórico preciso (Génesis 8:20-22)
 
-[**Gen 8:20** ](verseid:1.8.20) Entonces Noé edificó un altar al SEÑOR, y tomó de todo animal limpio y de toda ave limpia, y ofreció holocaustos en el altar.
+Génesis 8:20** ](verseid:1.8.20) Entonces Noé edificó un altar al SEÑOR, y tomó de todo animal limpio y de toda ave limpia, y ofreció holocaustos en el altar.
 
-[**Gen 8:21** ](verseid:1.8.21) El SEÑOR percibió el aroma agradable, y dijo el SEÑOR para sí: «Nunca más volveré a maldecir la tierra por causa del hombre, porque la intención del corazón del hombre es mala desde su juventud. Nunca más volveré a destruir todo ser viviente como lo he hecho.
+Génesis 8:21** ](verseid:1.8.21) El SEÑOR percibió el aroma agradable, y dijo el SEÑOR para sí: «Nunca más volveré a maldecir la tierra por causa del hombre, porque la intención del corazón del hombre es mala desde su juventud. Nunca más volveré a destruir todo ser viviente como lo he hecho.
 
-[**Gen 8:22** ](verseid:1.8.22) Mientras la tierra permanezca, La siembra y la siega, El frío y el calor, El verano y el invierno, El día y la noche, Nunca cesarán».
+Génesis 8:22** ](verseid:1.8.22) Mientras la tierra permanezca, La siembra y la siega, El frío y el calor, El verano y el invierno, El día y la noche, Nunca cesarán».
 
 ### Si recuerdas en Génesis 7:2-3, Dios le había dicho a Noé que tomara siete de ciertos tipos de "animales limpios", pero que tomara solo dos de cada uno de los otros. Dios aceptó el sacrificio de sangre traído por Noé, tal como lo había hecho con el de Abel. Noé y su familia se cruzaron en el camino de Dios, confiando en Él. Debido a Su gracia, Dios los aceptó. Entonces, ¿por qué Dios les exigió que trajeran la sangre de los animales? Para recordarles que la paga del pecado es la muerte.
 
@@ -2068,19 +2171,19 @@ Hechos 17:25 ni es servido por manos humanas, como si necesitara de algo, puesto
 
 ### Lea Génesis 9:1-7.
 
-[**Gen 9:1** ](verseid:1.9.1) Y Dios bendijo a Noé y a sus hijos, y les dijo: «Sean fecundos y multiplíquense, y llenen la tierra.
+Génesis 9:1** ](verseid:1.9.1) Y Dios bendijo a Noé y a sus hijos, y les dijo: «Sean fecundos y multiplíquense, y llenen la tierra.
 
-[**Gen 9:2** ](verseid:1.9.2) El temor y el terror de ustedes estarán sobre todos los animales de la tierra, sobre todas las aves del cielo, en todo lo que se arrastra sobre el suelo, y en todos los peces del mar. En su mano son *todos* entregados.
+Génesis 9:2** ](verseid:1.9.2) El temor y el terror de ustedes estarán sobre todos los animales de la tierra, sobre todas las aves del cielo, en todo lo que se arrastra sobre el suelo, y en todos los peces del mar. En su mano son *todos* entregados.
 
-[**Gen 9:3** ](verseid:1.9.3) Todo lo que se mueve y tiene vida les será para alimento. Todo lo doy a ustedes como *les di* la hierba verde.
+Génesis 9:3** ](verseid:1.9.3) Todo lo que se mueve y tiene vida les será para alimento. Todo lo doy a ustedes como *les di* la hierba verde.
 
-[**Gen 9:4** ](verseid:1.9.4) Pero carne con su vida, *es decir, con* su sangre, no comerán.
+Génesis 9:4** ](verseid:1.9.4) Pero carne con su vida, *es decir, con* su sangre, no comerán.
 
-[**Gen 9:5** ](verseid:1.9.5) »De la sangre de ustedes, de la vida de ustedes, ciertamente pediré cuenta: a cualquier animal, y a cualquier hombre, pediré cuenta; de cada hombre pediré cuenta de la vida de un ser humano.
+Génesis 9:5** ](verseid:1.9.5) »De la sangre de ustedes, de la vida de ustedes, ciertamente pediré cuenta: a cualquier animal, y a cualquier hombre, pediré cuenta; de cada hombre pediré cuenta de la vida de un ser humano.
 
-[**Gen 9:6** ](verseid:1.9.6) El que derrame sangre de hombre, Por el hombre su sangre será derramada, Porque a imagen de Dios Hizo Él al hombre.
+Génesis 9:6** ](verseid:1.9.6) El que derrame sangre de hombre, Por el hombre su sangre será derramada, Porque a imagen de Dios Hizo Él al hombre.
 
-[**Gen 9:7** ](verseid:1.9.7) En cuanto a ustedes, sean fecundos y multiplíquense. Pueblen en abundancia la tierra y multiplíquense en ella».
+Génesis 9:7** ](verseid:1.9.7) En cuanto a ustedes, sean fecundos y multiplíquense. Pueblen en abundancia la tierra y multiplíquense en ella».
 
 
 
@@ -2088,25 +2191,25 @@ Hechos 17:25 ni es servido por manos humanas, como si necesitara de algo, puesto
 
 ### Lea Génesis 9:8-17.
 
-[**Gen 9:8** ](verseid:1.9.8) Entonces Dios habló a Noé y a sus hijos *que estaban* con él y les dijo:
+Génesis 9:8** ](verseid:1.9.8) Entonces Dios habló a Noé y a sus hijos *que estaban* con él y les dijo:
 
-[**Gen 9:9** ](verseid:1.9.9) «Miren, Yo establezco Mi pacto con ustedes, y con su descendencia después de ustedes,
+Génesis 9:9** ](verseid:1.9.9) «Miren, Yo establezco Mi pacto con ustedes, y con su descendencia después de ustedes,
 
-[**Gen 9:10** ](verseid:1.9.10) y con todo ser viviente que está con ustedes: aves, ganados y todos los animales de la tierra que están con ustedes, todos los que han salido del arca, todos los animales de la tierra.
+Génesis 9:10** ](verseid:1.9.10) y con todo ser viviente que está con ustedes: aves, ganados y todos los animales de la tierra que están con ustedes, todos los que han salido del arca, todos los animales de la tierra.
 
-[**Gen 9:11** ](verseid:1.9.11) Yo establezco Mi pacto con ustedes, y nunca más volverá a ser exterminada toda carne por las aguas del diluvio, ni habrá más diluvio para destruir la tierra».
+Génesis 9:11** ](verseid:1.9.11) Yo establezco Mi pacto con ustedes, y nunca más volverá a ser exterminada toda carne por las aguas del diluvio, ni habrá más diluvio para destruir la tierra».
 
-[**Gen 9:12** ](verseid:1.9.12) También dijo Dios: «Esta es la señal del pacto que Yo hago con ustedes y todo ser viviente que está con ustedes, por todas las generaciones:
+Génesis 9:12** ](verseid:1.9.12) También dijo Dios: «Esta es la señal del pacto que Yo hago con ustedes y todo ser viviente que está con ustedes, por todas las generaciones:
 
-[**Gen 9:13** ](verseid:1.9.13) Pongo Mi arco en las nubes y será por señal de Mi pacto con la tierra.
+Génesis 9:13** ](verseid:1.9.13) Pongo Mi arco en las nubes y será por señal de Mi pacto con la tierra.
 
-[**Gen 9:14** ](verseid:1.9.14) »Y acontecerá que cuando haga venir nubes sobre la tierra, se verá el arco en las nubes,
+Génesis 9:14** ](verseid:1.9.14) »Y acontecerá que cuando haga venir nubes sobre la tierra, se verá el arco en las nubes,
 
-[**Gen 9:15** ](verseid:1.9.15) y me acordaré de Mi pacto, con ustedes y con todo ser viviente de toda carne. Nunca más se convertirán las aguas en diluvio para destruir toda carne.
+Génesis 9:15** ](verseid:1.9.15) y me acordaré de Mi pacto, con ustedes y con todo ser viviente de toda carne. Nunca más se convertirán las aguas en diluvio para destruir toda carne.
 
-[**Gen 9:16** ](verseid:1.9.16) Cuando el arco esté en las nubes, lo miraré para acordarme del pacto eterno entre Dios y todo ser viviente de toda carne que está sobre la tierra».
+Génesis 9:16** ](verseid:1.9.16) Cuando el arco esté en las nubes, lo miraré para acordarme del pacto eterno entre Dios y todo ser viviente de toda carne que está sobre la tierra».
 
-[**Gen 9:17** ](verseid:1.9.17) Y dijo Dios a Noé: «Esta es la señal del pacto que Yo he establecido con toda carne que está sobre la tierra».
+Génesis 9:17** ](verseid:1.9.17) Y dijo Dios a Noé: «Esta es la señal del pacto que Yo he establecido con toda carne que está sobre la tierra».
 
 ### Sabemos que Dios dio el arco iris como un recordatorio de Su promesa de que nunca más destruiría la tierra por un diluvio. Es asombroso considerar que cada arco iris que vemos es una continuación de la promesa que Dios le dio a Noé y su familia después de que salieron del arca. Dios es fiel y siempre se puede confiar en él. También es sorprendente darse cuenta de que hay muchas culturas tribales que tienen creencias muy retorcidas sobre el arco iris, la mayoría de las cuales les hacen temerlo. Se ha convertido en un objeto de temor para ellos en lugar de un objeto de esperanza y gracia. Lea Génesis 9:18-19 nuevamente.
 
@@ -2116,13 +2219,13 @@ Hechos 17:25 ni es servido por manos humanas, como si necesitara de algo, puesto
 
 ### Lea Génesis 11:1-4.
 
-[**Gen 11:1** ](verseid:1.11.1) Toda la tierra hablaba la misma lengua y las mismas palabras.
+Génesis 11:1** ](verseid:1.11.1) Toda la tierra hablaba la misma lengua y las mismas palabras.
 
-[**Gen 11:2** ](verseid:1.11.2) Según iban hacia el oriente, hallaron una llanura en la tierra de Sinar, y se establecieron allí.
+Génesis 11:2** ](verseid:1.11.2) Según iban hacia el oriente, hallaron una llanura en la tierra de Sinar, y se establecieron allí.
 
-[**Gen 11:3** ](verseid:1.11.3) Y se dijeron unos a otros: «Vamos, fabriquemos ladrillos y cozámos*los* bien». Y usaron ladrillo en lugar de piedra y asfalto en lugar de mezcla.
+Génesis 11:3** ](verseid:1.11.3) Y se dijeron unos a otros: «Vamos, fabriquemos ladrillos y cozámos*los* bien». Y usaron ladrillo en lugar de piedra y asfalto en lugar de mezcla.
 
-[**Gen 11:4** ](verseid:1.11.4) Luego dijeron: «Vamos, edifiquémonos una ciudad y una torre cuya cúspide *llegue* hasta los cielos, y hagámonos un nombre *famoso*, para que no seamos dispersados sobre la superficie de toda la tierra».
+Génesis 11:4** ](verseid:1.11.4) Luego dijeron: «Vamos, edifiquémonos una ciudad y una torre cuya cúspide *llegue* hasta los cielos, y hagámonos un nombre *famoso*, para que no seamos dispersados sobre la superficie de toda la tierra».
 
 
 
@@ -2725,6 +2828,116 @@ Hechos 17:25 ni es servido por manos humanas, como si necesitara de algo, puesto
 ### Aquí estamos hoy, unos miles de años después, y Dios sigue siendo el mismo y podemos confiar plenamente y esperar que Él permanezca fiel y verdadero mientras continúa haciendo la misma obra de revelarse a Sí mismo en nuestras vidas también. Ha habido dificultades en la vida de las personas que hemos visto que es bastante obvio que Dios orquestó para mostrarse fuerte. Ha habido otras circunstancias que Él no necesariamente orquestó, pero que permitió con el mismo propósito: revelarse a las personas y, por lo tanto, profundizar su conocimiento de Él y su capacidad de confiar y depender de Él.
 
 ### ¡Esta es exactamente la misma obra que Él está haciendo en cada una de nuestras vidas aquí hoy! Hay algunas pruebas y dificultades que obviamente orquesta en nuestras vidas y otras que simplemente permite. TODOS, sin embargo, los está usando para revelarse a sí mismo y a su corazón a nosotros. Desde el principio, Dios creó al hombre con el propósito de tener una relación consigo mismo. ¡Este es el corazón de Dios! Su amor por nosotros es tan grande que supera todo conocimiento, y debido a ese amor, Él se ve impulsado a revelarse a nosotros cada vez más, para que podamos conocerlo y experimentar amor y cercanía en nuestra relación con Él.
+
+
+
+### La serpiente ataca de nuevo: Faraón como la nueva serpiente
+
+#### En Génesis 3:15, la serpiente ataca a la descendencia.
+
+### En Éxodo, este patrón se repite:
+
+#### Faraón = el enemigo semejante a la serpiente
+
+#### Faraón esclaviza, oprime e intenta destruir al pueblo de Dios.
+
+#### Al igual que la serpiente, usa el engaño, la violencia y la muerte.
+
+#### Su decreto de matar a los niños hebreos (Éxodo 1:16, 22) refleja el intento de la serpiente de impedir la supervivencia de la descendencia.
+
+#### Faraón es la encarnación humana de la enemistad de la serpiente.
+
+### Dios preserva a la descendencia mediante nacimientos milagrosos
+
+#### Génesis narra la historia de la descendencia a través de nacimientos milagrosos (Isaac, Jacob).
+
+#### Éxodo continúa:
+
+##### La preservación de Moisés
+
+##### Moisés debería haber muerto por decreto de Faraón.
+
+##### Pero Dios lo salva de manera extraordinaria (Éxodo 2).
+
+##### Moisés se convierte en un libertador semejante a la semilla, uno que aplasta el poder opresor.
+
+##### Su supervivencia es señal de que la semilla prometida es imparable.
+
+### Un Libertador que “Aplasta” la Cabeza de la Serpiente
+
+#### Génesis 3:15 promete conflicto y victoria.
+
+#### Moisés contra la década de 1990. El faraón es un prototipo de la Semilla contra el Faraón. Serpiente a través de las plagas, cada golpe daña a Egipto, el reino de la serpiente.
+
+#### La última plaga, la muerte de los primogénitos, quiebra definitivamente el poder del faraón.
+
+### En el Mar Rojo, los ejércitos del faraón son aplastados (Éxodo 14:27-31).
+
+#### Esto simboliza el aplastamiento de la cabeza de la serpiente.
+
+### Una Nueva Humanidad Nacida del Agua
+
+#### Génesis 3:15 implica una humanidad futura alineada con Dios.
+
+#### Israel se convierte en un nuevo pueblo “adámico”.
+
+#### El cruce del Mar Rojo es un momento de nueva creación (Éxodo 14-15).
+
+#### Abandonan el “viejo mundo” de Egipto (como aguas turbulentas) y emergen como una nueva nación, el “primogénito” de Dios (Éxodo 4:22).
+
+#### Israel se convierte en la descendencia corporativa a través de la cual vendrá la descendencia definitiva.
+
+### El cordero pascual señala a la Descendencia que vencerá a la muerte.
+
+#### En Génesis 3:15, la descendencia será herida al destruir a la serpiente.
+
+#### La Pascua anticipa esto:
+
+#### Un cordero muere para que el pueblo viva.
+
+#### Israel es liberado mediante la sangre de un sustituto.
+
+#### Esto establece el modelo para una descendencia que sufre, pero que triunfa.
+
+#### Los evangelistas se refieren explícitamente a la Pascua → Jesús, la Descendencia.
+
+### El Pacto en el Sinaí: La Simiente se Convierte en una Nación de Sacerdotes
+
+#### Dios le dijo a Abraham: «En tu descendencia serán benditas todas las naciones de la tierra».
+
+#### Éxodo muestra cómo esta descendencia se forma en:
+
+#### Un reino de sacerdotes (Éxodo 19:5-6)
+
+#### Una nación santa
+
+#### Un pueblo a través del cual la promesa continuará.
+
+#### La descendencia colectiva está preparada para llevar adelante la promesa.
+
+### La Anticipación de un Futuro Libertador
+
+#### Moisés es un libertador como la descendencia, pero no el definitivo.
+
+#### Éxodo nos muestra intencionalmente que Moisés:
+
+##### intercede
+
+##### media
+
+##### vence el poder de la serpiente
+
+##### establece un pacto
+
+##### ...pero también fracasa, señalando a un Libertador mayor que completará la obra de vencer a la serpiente.
+
+#### Así, Éxodo mantiene viva la promesa, pero también crea anhelo por la verdadera Descendencia.
+
+### Resumen en una frase
+
+#### Éxodo recrea Génesis 3:15 al mostrar el renovado ataque de la serpiente a través del faraón, la preservación de la simiente por parte de Dios a través de Moisés e Israel, y una victoria decisiva pero incompleta sobre la serpiente que anticipa al Libertador final.
+
+
 
 ## Faraón quería destruir a los israelitas (Éxodo 1:1-11)
 
@@ -3585,6 +3798,276 @@ Hechos 17:25 ni es servido por manos humanas, como si necesitara de algo, puesto
 ### En segundo lugar, "Todo pensamiento e intención del corazón del hombre es solo malo desde la infancia". (Génesis 8:21)
 
 ### Por último, ¡Dios es fiel por lo que es y no por lo que hacemos! Este es un concepto muy importante que debemos entender.
+
+
+
+# LA NECESIDAD DEL SALVADOR
+
+### El libro de Levítico suele considerarse un conjunto de leyes y rituales, pero en realidad es una poderosa continuación de la historia de la descendencia prometida. Explica por qué se necesita esa descendencia, qué clase de descendencia debe ser y cómo Dios protege al pueblo del que provendrá.
+
+### Levítico explica por qué debe venir la descendencia prometida
+
+#### Génesis 3:15 anuncia una guerra entre la serpiente y la descendencia, basada en el pecado y la muerte.
+
+#### Levítico lo deja meridianamente claro:
+
+##### Dios es santo.
+
+##### Los seres humanos son pecadores.
+
+##### El pecado trae la muerte (Levítico 17:11).
+
+#### Todo el sistema de sacrificios dramatiza la realidad de que la humanidad no puede vencer a la serpiente por sí sola. El pueblo necesita un sustituto, un mediador y, en última instancia, un redentor.
+
+#### Esto prepara el terreno para la descendencia que se enfrentará al pecado definitivamente.
+
+### El sistema sacrificial anticipa una descendencia herida pero victoriosa
+
+#### Génesis 3:15 dice: La serpiente herirá el talón de la descendencia.
+
+#### La descendencia aplastará la cabeza de la serpiente.
+
+#### Levítico proporciona el marco teológico para esta «descendencia herida»:
+
+#### Todo sacrificio enseña:
+
+#### Se debe entregar una vida para vencer el pecado y su maldición.
+
+#### Se debe derramar sangre inocente (Levítico 1-7).
+
+#### Un sustituto asume la pena.
+
+#### Esto anticipa el momento en que la descendencia prometida será herida (muerte sacrificial), pero victoriosa (aplastando la muerte y el mal).
+
+### El Sumo Sacerdote prefigura a la Descendencia que vence a la serpiente
+
+#### Para vencer a la serpiente, la descendencia debe:
+
+#### Presentarse ante Dios
+
+#### Representar al pueblo
+
+#### Expiar lo indebido
+
+#### Reconciliar a la humanidad con Dios
+
+#### Levítico muestra que ningún sacerdote común puede lograrlo, porque:
+
+#### Los pecados de Aarón (Levítico 10)
+
+#### Sus hijos fracasaron
+
+#### Todo sacerdote muere
+
+#### Por lo tanto, Levítico señala a un Sumo Sacerdote superior —la verdadera descendencia— que puede restaurar lo que Adán perdió.
+
+### El Día de la Expiación (Levítico 16) prefigura la obra de la descendencia
+
+#### El Día de la Expiación es el capítulo central del libro y una de las referencias más claras a Génesis 3:15.
+
+#### El pecado y la impureza se colocan simbólicamente sobre un macho cabrío.
+
+#### El macho cabrío es llevado al desierto (el dominio de la serpiente).
+
+#### El pueblo es purificado.
+
+#### La presencia de Dios permanece entre ellos.
+
+#### Esto representa un momento futuro en el que la descendencia:
+
+##### cargará con los pecados del pueblo.
+
+##### los borrará para siempre.
+
+##### restaurará el acceso a Dios.
+
+##### derrotará el territorio de la serpiente.
+
+### Levítico muestra cómo Dios preserva el linaje.
+
+#### En Génesis 3:15 y Génesis 12:3, la promesa depende de la supervivencia del pueblo elegido.
+
+#### Levítico los protege mediante:
+
+##### Leyes alimentarias.
+
+##### Leyes de pureza.
+
+##### Leyes sexuales.
+
+##### Mandamientos de santidad.
+
+#### Estos separan a Israel de las naciones que se asemejan a la serpiente y mantienen vivo el linaje hasta la venida del Mesías.
+
+#### Levítico es Dios defendiendo a la descendencia prometida.
+
+### La presencia de Dios con su pueblo revierte la pérdida del Edén
+
+#### Génesis 3 introdujo la separación a causa del pecado.
+
+#### Levítico concluye con Dios habitando en el tabernáculo entre su pueblo (Lev. 26:11–12).
+
+#### Esto representa una reversión parcial de la victoria de la serpiente en el Edén y una señal de que la descendencia prometida restaurará la plena comunión.
+
+### Resumen en una frase
+
+#### Levítico remite a Génesis 3:15 al mostrar la necesidad de la descendencia prometida mediante el sacrificio y la santidad, prefigurando su obra, herida pero victoriosa, a través del sacerdocio y la expiación, y protegiendo al pueblo a través del cual vendrá la descendencia.
+
+
+
+
+
+
+
+NUMEROS
+
+### Números muestra la guerra continua entre la serpiente y la descendencia
+
+#### Génesis 3:15 predice:
+
+#### Enemistad
+
+#### Conflicto continuo
+
+#### Intentos de destruir la descendencia
+
+#### Números está repleto de este patrón. Casi cada evento importante es un ataque, como el de una serpiente, contra el pueblo de la promesa:
+
+#### Quejas e incredulidad (Números 11-14)
+
+#### Rebelión contra Moisés y Aarón (Números 16)
+
+#### Seducción sexual por parte de Moab (Números 25)
+
+#### Falsa profecía de Balaam (Números 22-24)
+
+#### Estos no son eventos aleatorios; son la serpiente atacando la descendencia, buscando destruir a Israel antes de la venida del Mesías.
+
+### La narración de la serpiente de bronce (Números 21) se conecta directamente con Génesis 3:1
+
+#### Esta es la conexión más clara en todo el libro.
+
+#### Israel es atacado por serpientes (neḥashim), un eco del enemigo del Edén.
+
+#### El pueblo muere... hasta que Dios provee una solución paradójica:
+
+#### Una serpiente de bronce es levantada.
+
+#### Quienes alzan la mirada con fe viven.
+
+#### El veneno de la serpiente es vencido.
+
+#### Esta es una profecía evangélica en miniatura, donde:
+
+#### La serpiente ataca.
+
+#### La descendencia es exaltada (prefigurando a Cristo).
+
+#### El poder de la serpiente es anulado por la provisión de Dios.
+
+#### Jesús mismo interpreta esto como una referencia a la cruz (Juan 3:14-15).
+
+#### Así, Números 21 es una continuación directa de Génesis 3:15.
+
+### Números protege a la descendencia preservando a Israel en el desierto.
+
+#### Para cumplir Génesis 3:15 y Génesis 12:3, el pueblo elegido debe sobrevivir.
+
+#### Pero en Números, Israel está constantemente en peligro:
+
+#### por falta de comida y agua
+
+#### por enemigos
+
+#### por rebeliones internas
+
+#### por el juicio divino
+
+#### Sin embargo, no perecen.
+
+#### Dios protege a la nación porque a través de ellos debe venir la descendencia.
+
+#### A pesar de las rebeliones y las muertes, el libro termina con:
+
+#### una nueva generación, purificada
+
+#### lista para entrar en la tierra
+
+#### con la promesa intacta
+
+#### La serpiente no puede aniquilarlos.
+
+### Números revela la estrategia de la serpiente: Seducción en lugar de ataque
+
+#### En Génesis 3, la serpiente usa el engaño.
+
+#### En Números 25, Balaam no puede maldecir a Israel, así que aconseja la seducción, usando a mujeres moabitas para inducir a Israel a la idolatría.
+
+#### Esto es una repetición del Edén:
+
+##### Tentación
+
+##### Falsa adoración
+
+##### Juicio
+
+#### Pero Dios preserva el linaje juzgando a los corruptos y salvando a los fieles.
+
+#### El enemigo ataca, pero no puede destruir al pueblo prometido.
+
+### El liderazgo de Moisés apunta a la descendencia final
+
+#### Moisés en Números:
+
+#### intercede por el pueblo
+
+#### los guía a la victoria
+
+#### se interpone entre la vida y la muerte
+
+#### levanta la serpiente de bronce
+
+#### derrota a enemigos con forma de serpiente
+
+#### Pero Moisés también fracasa (Núm. 20), demostrando que no puede ser quien venza a la serpiente.
+
+#### Números crea expectación:
+
+#### un líder mayor que Moisés
+
+#### un rey mayor que Balac
+
+#### un profeta mayor que Balaam (Núm. 24:17)
+
+#### Lo cual nos lleva a…
+
+### La profecía de la estrella de Balaam (Núm. 24:17) se hace eco de Génesis 3:15
+
+#### Este es el punto culminante mesiánico de Números:
+
+#### «Una estrella saldrá de Jacob;
+
+#### una serpiente saldrá de Israel;
+
+#### aplastará la frente de Moab…»
+
+#### Aplastar la frente.
+
+#### El mismo verbo e imágenes que en Génesis 3:1
+
+#### Esta profecía identifica:
+
+#### la descendencia será un rey de Jacob quien aplastará a los enemigos de Dios, tal como se prometió en el Edén
+
+#### Este es el eco más claro de Génesis 3:15 en toda la Torá después del Génesis.
+
+### Resumen en una frase
+
+#### Números remite a Génesis 3:15 al mostrar el conflicto continuo entre la serpiente y la descendencia, al describir ataques similares a los de serpientes contra Israel, al prefigurar la descendencia herida pero victoriosa a través de la serpiente de bronce y al anunciar un futuro rey que aplastará a los enemigos de Dios.
+
+
+
+
 
 ### A continuación, queremos señalar que habían pasado de 400 a 500 años desde el momento en que Dios había prometido por primera vez la tierra de Canaán a Abraham y sus descendientes hasta este momento en que los israelitas se acercaban a su frontera. Una vez más, este evento nos revela la gracia, el amor y la misericordia de Dios, Y Su santa y justa justicia que exige que castigue todo pecado.
 
@@ -5875,3 +6358,4 @@ Tabla resumiendo los 11 Toledot de Génesis
 [^3]: "*Nadie sino un incrédulo o un ateo buscaría un argumento en prueba de la existencia de Aquel que, por la palabra de Su boca, llamó a los mundos a la existencia, y se declaró a sí mismo el Dios Omnisciente, Todopoderoso y Eterno. ¿Quién sino Dios podría ¿crear algo*?" C. H. Mackintosh
 [^4]: Easton Bible Dictionary
 [^5]: *El Comentario de Conocimiento Bíblico* afirma que "cada ladrillo estaba inscrito con el nombre del dios babilónico, Marduk". Marduk es otro nombre para Baal, uno de los dioses falsos que la gente estableció para adorar en lugar del único Dios verdadero. Aquí estaban, a solo tres generaciones de Noé y no solo estaban ignorando a Dios, ¡ya estaban adorando activamente a dioses falsos! Cuando Dios no interviene divinamente, ¡mira a dónde va el hombre! ¡Siempre se vuelve cada vez más pecador! Nos muestra que el diluvio se deshizo de los pecadores, pero no del pecado, lo que a su vez es una prueba de que todos nacieron con una naturaleza pecaminosa. Romanos 1 nos dice cómo se lleva a cabo esta progresión.
+[^6]: Ed Young, Tengo Multitudes
