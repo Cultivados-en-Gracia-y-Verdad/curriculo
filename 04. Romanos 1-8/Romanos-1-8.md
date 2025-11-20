@@ -10,17 +10,187 @@ La Carta a los Romanos, el sexto libro del Nuevo Testamento, es el más extenso 
 
 ## Sobre el Autor
 
-Aunque se desconoce la fecha exacta de su nacimiento, Pablo estuvo activo como misionero en los años 40 y 50 del siglo 1 d.C. De esto se puede inferir que nació aproximadamente al mismo tiempo que Jesús o un poco después. Se convirtió a la fe en Jesucristo alrededor del año 33 d.C.. Murió, probablemente en Roma, alrededor del año 62-64 d.C.[^4]
+### Aunque se desconoce la fecha exacta de su nacimiento, Pablo estuvo activo como misionero en los años 40 y 50 del siglo 1 d.C. De esto se puede inferir que nació aproximadamente al mismo tiempo que Jesús o un poco después. Se convirtió a la fe en Jesucristo alrededor del año 33 d.C.. Murió, probablemente en Roma, alrededor del año 62-64 d.C.[^4]
 
-Pablo era un judío de habla griega procedente de Asia Menor. Su lugar de nacimiento, Tarso, era una ciudad importante en el este de Cilicia, una región que había pasado a formar parte de la provincia romana de Siria cuando Pablo era adulto. Dos de las principales ciudades de Siria, Damasco y Antioquía, desempeñaron un papel destacado en su vida y sus letras. 
+### Pablo era un judío de habla griega procedente de Asia Menor. Su lugar de nacimiento, Tarso, era una ciudad importante en el este de Cilicia, una región que había pasado a formar parte de la provincia romana de Siria cuando Pablo era adulto. Dos de las principales ciudades de Siria, Damasco y Antioquía, desempeñaron un papel destacado en su vida y sus letras. 
 
-**ROMA**: la ciudad más célebre del mundo en tiempos de Cristo. Se dice que fue fundada en el año 753. Cuando se escribió el Nuevo Testamento, Roma estaba enriquecida y adornada con los despojos del mundo, y contaba con una población estimada en 1.200.000 habitantes, de los cuales la mitad eran esclavos, e incluía representantes de casi todas las naciones conocidas entonces. Se distinguía por su riqueza, lujo y derroche. El imperio del que era capital había alcanzado entonces su mayor esplendor.
+## **ROMA**: 
 
-El día de Pentecostés había en Jerusalén «extranjeros procedentes de Roma», quienes sin duda llevaron consigo a Roma noticias de aquel gran día y desempeñaron un papel fundamental en la fundación de la iglesia allí. Pablo fue llevado a esta ciudad como prisionero, donde permaneció dos años (Hechos 28:30, 31) «en una casa alquilada». Durante su estancia allí, Pablo escribió sus epístolas a los Filipenses, a los Efesios, a los Colosenses, a Filemón y, probablemente, también a los Hebreos. Durante esos años, tuvo como compañeros a Lucas y Aristarco (Hechos 27:2), Timoteo (Filipenses 1:1; Colosenses 1:1), Tíquico (Efesios 6:21), Epafrodito (Filipenses 4:18) y Juan Marcos (Colosenses 4:10). (Véase Pablo). Debajo de esta ciudad se encuentran extensas galerías, llamadas catacumbas, que se utilizaron desde aproximadamente la época de los apóstoles (una de las inscripciones encontradas en ellas lleva la fecha del año 71) durante unos trescientos años como lugares de refugio en tiempos de persecución, y también para el culto y los entierros. Se han encontrado alrededor de cuatro mil inscripciones en las catacumbas. Estas ofrecen una interesante perspectiva de la historia de la Iglesia de Roma hasta la época de Constantino.[^5]
+### la ciudad más célebre del mundo en tiempos de Cristo. Se dice que fue fundada en el año 753. Cuando se escribió el Nuevo Testamento, Roma estaba enriquecida y adornada con los despojos del mundo, y contaba con una población estimada en 1.200.000 habitantes, de los cuales la mitad eran esclavos, e incluía representantes de casi todas las naciones conocidas entonces. Se distinguía por su riqueza, lujo y derroche. El imperio del que era capital había alcanzado entonces su mayor esplendor.
 
-**CATACUMBAS:** Túneles y bóvedas destinados al entierro de los muertos. Las catacumbas bajo la ciudad de Roma, no mencionadas en la Biblia, se hicieron famosas por servir de refugio a los primeros cristianos. Más de 480 kilómetros de pasadizos subterráneos se extienden entre 7,5 y 20 metros bajo tierra, fuera de las murallas de la ciudad. Para más detalles, consulte este artículo: Monumentos cristianos en Roma.[^6]
+### El día de Pentecostés había en Jerusalén «extranjeros procedentes de Roma», quienes sin duda llevaron consigo a Roma noticias de aquel gran día y desempeñaron un papel fundamental en la fundación de la iglesia allí. Pablo fue llevado a esta ciudad como prisionero, donde permaneció dos años (Hechos 28:30, 31) «en una casa alquilada». Durante su estancia allí, Pablo escribió sus epístolas a los Filipenses, a los Efesios, a los Colosenses, a Filemón y, probablemente, también a los Hebreos. Durante esos años, tuvo como compañeros a Lucas y Aristarco (Hechos 27:2), Timoteo (Filipenses 1:1; Colosenses 1:1), Tíquico (Efesios 6:21), Epafrodito (Filipenses 4:18) y Juan Marcos (Colosenses 4:10). (Véase Pablo). Debajo de esta ciudad se encuentran extensas galerías, llamadas catacumbas, que se utilizaron desde aproximadamente la época de los apóstoles (una de las inscripciones encontradas en ellas lleva la fecha del año 71) durante unos trescientos años como lugares de refugio en tiempos de persecución, y también para el culto y los entierros. Se han encontrado alrededor de cuatro mil inscripciones en las catacumbas. Estas ofrecen una interesante perspectiva de la historia de la Iglesia de Roma hasta la época de Constantino.[^5]
 
-Estructura sencilla del libro de Romanos
+### **CATACUMBAS:** Túneles y bóvedas destinados al entierro de los muertos. Las catacumbas bajo la ciudad de Roma, no mencionadas en la Biblia, se hicieron famosas por servir de refugio a los primeros cristianos. Más de 480 kilómetros de pasadizos subterráneos se extienden entre 7,5 y 20 metros bajo tierra, fuera de las murallas de la ciudad. Para más detalles, consulte este artículo: Monumentos cristianos en Roma.[^6]
+
+# ESQUEMA GRAMATICAL DE ROMANOS
+
+## I. Apertura (1:1–17) — basada en oraciones periódicas largas y oraciones de propósito
+
+### **I.**        **1.1–7**
+
+- #### Una larga frase inicial (vv. 1–5     en griego) con una cadena de **participios** e **infinitivos** que     muestran la identidad y misión de Pablo.
+
+### **II.**       **1.8–15**
+
+- #### Una secuencia de **cláusulas     explicativas οὖν / γάρ** .
+
+- #### Múltiples **infinitivos de     propósito** ("predicar el evangelio", etc.).
+
+### **III.**      **1.16–17**
+
+- #### Dos cláusulas causales (**γάρ...     γάρ**) que da la tesis gramaticalmente.
+
+## **II. Condena universal (1:18–3:20) — Dominación de las cláusulas "porque / para / por tanto"**
+
+### **IV.**      **A. 1:18–32**
+
+- #### Comienza con **γάρ**     explicando la necesidad del evangelio.
+
+- #### Uso intenso de **participios     causales** ("porque conocían a Dios... pero no le honró").
+
+- #### Una secuencia de **διό / διὰ     τοῦτο** ("por lo tanto"), que marca tres ciclos de juicio.
+
+### **V.**       **B. 2:1–16**
+
+- #### Desplazamiento gramatical: **segunda     persona singular** ("tú que juzgas").
+
+- #### Una serie de **preguntas     retóricas** que controlan el flujo.
+
+- #### Cláusula de propósito: "para     que toda boca pueda ser cerrada..." (continúa en 3:19).
+
+### **VI.**      **C. 2:17–29**
+
+- #### Continúa en **segunda persona singular** con     estructuras condicionales "if" (εἰ).
+
+- #### Contrastar cláusulas con **ἀλλά**.
+
+### **VII.**     **D. 3:1–8**
+
+- #### Preguntas retóricas de fuego     rápido ; estilo diatriba.
+
+### **VIII.**    **E. 3:9–20**
+
+- #### **Καθὼς γέγραπται** introduce una cadena de citas OT     (vv. 10–18).
+
+- #### Concluye con la cláusula de     propósito **ἵνα πᾶν στόμα φραγῇ** (v. 19).
+
+## **III. Justificación por la fe (3:21–5:21) — Nueva Gramática: "Pero ahora" + Cadenas de argumentos indicativos**
+
+### **IX.**      **A. 3:21–26**
+
+- #### Introducido por **νυνὶ δὲ** =     contraste gramatical marcado.
+
+- #### Frase larga con frases     preposicionales y participiales apiladas.
+
+- #### **cláusula ἵνα** : "para que Él sea justo y     el justificador..." (v. 26).
+
+### **X.**       **B. 3:27–31**
+
+- #### Preguntas retóricas: "¿Dónde     es entonces la fanfarronada?"
+
+- #### Concluye con **οὖν** resumen     inferencial.
+
+### **XI.**      **C. Capítulo 4**
+
+- #### Dominado por **γάρ** (15     veces) explicando a Abraham.
+
+- #### Tiempo verbal: énfasis en **el     aoristo** que muestra acciones completadas.
+
+### **XII.**     **D. Capítulo 5**
+
+- #### Nueva sección señalizada     gramaticalmente por **οὖν** (5:1).
+
+- #### Cadena de **resultados**     introducida por "y no solo esto, sino..."
+
+- #### La sección Adán–Cristo     estructurada con **ὥσπερ... οὕτως** ("Igual que... lo mismo     ocurre").
+
+## **IV. Las implicaciones de la justificación (6:1–8:39) — Imperativos y contrastes**
+
+### **XIII.**    **R. Capítulo 6**
+
+- #### Comienza con una **pregunta     retórica**: "¿Qué decimos entonces?"
+
+- #### Dominados por **imperativos**     ("consideréis muertos... Preséntate...").
+
+- #### Fuerte **contraste gramatical**     con οὐ... ἀλλά ("no... pero...").
+
+### **XIV.**    **B. Capítulo 7**
+
+- #### Cambio gramatical a **primera     persona del singular** ("I").
+
+- #### Serie de explicaciones     "para" (**γάρ**) que describen la lucha.
+
+### **XV.**     **C. Capítulo 8**
+
+- #### Comienza con **οὐδὲν ἄρα**     ("por lo tanto ahora...") marcando un cambio gramatical     importante.
+
+- #### Numerosas **para** cláusulas (**γάρ**)     que dan razones para asegurar la seguridad.
+
+- #### Termina con una amplia serie de **οὔτε...     οὔτε...** Negaciones.
+
+## **V. El Plan Soberano de Dios (9:1–11:36) — Estructura retórica de preguntas y respuestas + Oraciones condicionales**
+
+### **XVI.**    **A. Capítulo 9**
+
+- #### Comienza con **una fórmula que     contiene la verdad ("Estoy diciendo la verdad...")**).
+
+- #### Lleno de preguntas retóricas.
+
+- #### Utiliza contrastes marcados con **οὐ...     ἀλλά**.
+
+### **XVII.**   **B. Capítulo 10**
+
+- #### Centrada en la cadena de     salvación (vv. 9–15) construida a partir de  **las preguntas ὅτι**     ("porque") y **πῶς** ("¿cómo?").
+
+### **XVIII.**  **C. Capítulo 11**
+
+- #### Comienza con **λέγω οὖν** =     nuevo paso argumentativo.
+
+- #### Múltiples **si... luego**     estructuras condicionales (vv. 12, 15, 16, 21–24).
+
+- #### Termina en una **doxología**,     señalada gramaticalmente por una serie de preguntas que conducen a un     elogio.
+
+**VI. Los imperativos (12:1–15:13) — la sección donde la gramática cambia completamente a los mandatos**
+
+### **XIX.**    **A. 12:1–2**
+
+- #### Marcado por **παρακαλῶ**     ("Insto"), una fuerte exhortación.
+
+- #### Contiene dos imperativos     principales.
+
+### **XX.**     **B. 12:3–21**
+
+- #### Serie de imperativos rápidos,     órdenes en presente y participios que funcionan de forma imperativa.
+
+### **XXI.**    **C. Capítulo 13**
+
+- #### Imperativos para someterse; **γάρ**     explicando por qué.
+
+### **XXII.**   **D. 14:1–23**
+
+- #### Imperativos ligados a la     aceptación frente a la condena.
+
+- #### Contrastes fuertes: "no     destruir... pero persíguelo."
+
+### **XXIII.**  **E. 15:1–13**
+
+- #### Imperativos + citas bíblicas.
+
+- #### Termina con la fórmula de la     esperanza: "Que el Dios de la esperanza..."
+
+## **VII. Cierre (15:14–16:27) — Notas personales, saludos y doxología final**
+
+### **XXIV.**  **A. 15:14–33**
+
+- #### Gramática: narrativa en primera     persona, infinitivos de propósito.
+
+### **XXV.**   **B. Capítulo 16**
+
+- #### Lista de saludos (imperativos     para "saludar").
+
+- #### Termina con una doxología     introducida por **τῷ δὲ δυναμένῳ**.
+
+ 
 
 
 
