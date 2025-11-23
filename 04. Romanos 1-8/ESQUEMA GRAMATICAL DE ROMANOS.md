@@ -2,6 +2,32 @@ TEMA: “La revelación de la justicia de Dios en el evangelio”
 
 (Romanos 1:17 como tesis)
 
+# ESQUEMA DE ROMANOS
+
+## I. Apertura (1:1–17)
+
+### A. 1:1–7 Saludo
+
+### B. 1:8–15 Agradecimiento, oración y deseo de visitar
+
+### C. 1:16–17 Tema de la carta
+
+## II. Condena sobre el hombre pecador (1:18–3:20) 
+
+### A. 1:18–32 Dios manifiesta Su desaprobación a la injusticia universal.
+
+#### 1. 1:18 En respuesta a la injusticia universal, Dios manifiesta Su ira
+
+#### 2. 1:19-23 Razónes por Su ira. 
+
+#### 3. 1:24-25 Colapso de conducta: Dios les entrega a la impureza de su corazón
+
+#### 4. 1:26-27 Colapso de valores: Dios les entrega a pasiones degradantes
+
+#### 5. 1:28-32 Colapso de cosmovisión: Dios les entrega a una mente depravada
+
+
+
 # ESQUEMA GRAMATICAL DE ROMANOS
 
 ## Apertura (1:1–17) — basada en oraciones periódicas largas y oraciones de propósito
@@ -442,39 +468,39 @@ TEMA: “La revelación de la justicia de Dios en el evangelio”
 
 ### (Pablo usa εἰς τὸ εἶναι αὐτοὺς ἀναπολογήτους — de modo que no tienen justificación/defensa).
 
-A menudo, esto se estudia como una pregunta retórica subyacente al texto:
+### A menudo, esto se estudia como una pregunta retórica subyacente al texto:
 
-«¿Cómo puede el ser humano alegar excusa ante Dios?»
+#### «¿Cómo puede el ser humano alegar excusa ante Dios?»
 
-A continuación, se presenta una exposición detallada de esta pregunta según la gramática, el contexto y el desarrollo argumentativo.
+### A continuación, se presenta una exposición detallada de esta pregunta según la gramática, el contexto y el desarrollo argumentativo.
 
-Explicación de la pregunta central de Romanos 1
+#### Explicación de la pregunta central de Romanos 1
 
-1. La pregunta (implícita): "¿Por qué no tiene excusa el ser humano ante Dios?"
+##### La pregunta (implícita): "¿Por qué no tiene excusa el ser humano ante Dios?"
 
-Pablo no la formula con signo de interrogación, pero gramaticalmente da la respuesta a una pregunta que espera que el lector se haga.
+###### Pablo no la formula con signo de interrogación, pero gramaticalmente da la respuesta a una pregunta que espera que el lector se haga.
 
-Explica por qué las personas no pueden alegar ignorancia ni exención moral del juicio de Dios.
+###### Explica por qué las personas no pueden alegar ignorancia ni exención moral del juicio de Dios.
 
-2. El argumento de Pablo que conduce a la pregunta
+##### El argumento de Pablo que conduce a la pregunta
 
-Romanos 1:18-23 presenta una cadena lógica, donde Pablo anticipa una objeción:
+###### Romanos 1:18-23 presenta una cadena lógica, donde Pablo anticipa una objeción:
 
-Objeción que Pablo anticipa:
+###### Objeción que Pablo anticipa:
 
-"Si la ira de Dios se ha revelado, ¿cómo pueden ser culpables los gentiles si nunca tuvieron la Ley?"
+###### "Si la ira de Dios se ha revelado, ¿cómo pueden ser culpables los gentiles si nunca tuvieron la Ley?"
 
-Respuesta de Pablo (Basada en la gramática):
+###### Respuesta de Pablo (Basada en la gramática):
 
-Porque:
+###### Porque:
 
-a) Dios ya se ha revelado
+###### a) Dios ya se ha revelado
 
-φανερόν ἐστιν — “es evidente” (realidad presente y continua)
+###### φανερόν ἐστιν — “es evidente” (realidad presente y continua)
 
-ἐφανέρωσεν — “lo ha aclarado” (aoristo, acto consumado)
+###### ἐφανέρωσεν — “lo ha aclarado” (aoristo, acto consumado)
 
-La creación misma funciona como una revelación continua.
+###### La creación misma funciona como una revelación continua.
 
 b) La revelación es lo suficientemente clara para ser comprendida
 

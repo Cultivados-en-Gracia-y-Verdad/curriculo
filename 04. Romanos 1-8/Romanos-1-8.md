@@ -22,197 +22,93 @@ La Carta a los Romanos, el sexto libro del Nuevo Testamento, es el más extenso 
 
 ### **CATACUMBAS:** Túneles y bóvedas destinados al entierro de los muertos. Las catacumbas bajo la ciudad de Roma, no mencionadas en la Biblia, se hicieron famosas por servir de refugio a los primeros cristianos. Más de 480 kilómetros de pasadizos subterráneos se extienden entre 7,5 y 20 metros bajo tierra, fuera de las murallas de la ciudad. Para más detalles, consulte este artículo: Monumentos cristianos en Roma.[^6]
 
-# ESQUEMA GRAMATICAL DE ROMANOS
+# ESQUEMA DE ROMANOS
 
-## I. Apertura (1:1–17) — basada en oraciones periódicas largas y oraciones de propósito
+## I. Apertura (1:1–17)
 
-### **I.**        **1.1–7**
+### A. 1:1–7 Saludo
 
-- #### Una larga frase inicial (vv. 1–5     en griego) con una cadena de **participios** e **infinitivos** que     muestran la identidad y misión de Pablo.
+### B. 1:8–15 Agradecimiento, oración y deseo de visitar
 
-### **II.**       **1.8–15**
+### C. 1:16–17 Tema de la carta
 
-- #### Una secuencia de **cláusulas     explicativas οὖν / γάρ** .
+## II. Condena universal sobre el hombre pecador (1:18–3:20) 
 
-- #### Múltiples **infinitivos de     propósito** ("predicar el evangelio", etc.).
+### A. 1:18–32 Dios manifiesta Su desaprobación a la injusticia del hombre.
 
-### **III.**      **1.16–17**
+#### 1. 1:18 Dios responde en ira. 
 
-- #### Dos cláusulas causales (**γάρ...     γάρ**) que da la tesis gramaticalmente.
+#### 2. 1:19-23 Razónes por Su ira. 
 
-## **II. Condena universal (1:18–3:20) — Dominación de las cláusulas "porque / para / por tanto"**
+#### 3. 1:24-25 Colapso de conducta: Dios les entrega a la impureza de su corazón
 
-### **IV.**      **A. 1:18–32**
+#### 4. 1:26-27 Colapso de valores: Dios les entrega a pasiones degradantes
 
-- #### Comienza con **γάρ**     explicando la necesidad del evangelio.
+#### 5. 1:28-32 Colapso de cosmovisión: Dios les entrega a una mente depravada
 
-- #### Uso intenso de **participios     causales** ("porque conocían a Dios... pero no le honró").
+### B. 2:1–16 
 
-- #### Una secuencia de **διό / διὰ     τοῦτο** ("por lo tanto"), que marca tres ciclos de juicio.
+### C. 2:17–29
 
-### **V.**       **B. 2:1–16**
+### D. 3:1–8
 
-- #### Desplazamiento gramatical: **segunda     persona singular** ("tú que juzgas").
+### E. 3:9–20
 
-- #### Una serie de **preguntas     retóricas** que controlan el flujo.
+## III. Justificación por la fe (3:21–5:21) 
 
-- #### Cláusula de propósito: "para     que toda boca pueda ser cerrada..." (continúa en 3:19).
+### A. 3:21–26
 
-### **VI.**      **C. 2:17–29**
+### B. 3:27–31
 
-- #### Continúa en **segunda persona singular** con     estructuras condicionales "if" (εἰ).
+### C. 4:1-25
 
-- #### Contrastar cláusulas con **ἀλλά**.
+### D. 5:1-21
 
-### **VII.**     **D. 3:1–8**
+## IV. Santificación y Glorificación (6:1–8:39) 
 
-- #### Preguntas retóricas de fuego     rápido ; estilo diatriba.
+### A. 6:1-23
 
-### **VIII.**    **E. 3:9–20**
+### B. 7:1-25
 
-- #### **Καθὼς γέγραπται** introduce una cadena de citas OT     (vv. 10–18).
+### C. 8:1-39
 
-- #### Concluye con la cláusula de     propósito **ἵνα πᾶν στόμα φραγῇ** (v. 19).
+### D. 8:17-39
 
-## **III. Justificación por la fe (3:21–5:21) — Nueva Gramática: "Pero ahora" + Cadenas de argumentos indicativos**
+## V. La promesa y fidelidad de Dios a Israel (9:1–11:36) 
 
-### **IX.**      **A. 3:21–26**
+### A. 9:1-33
 
-- #### Introducido por **νυνὶ δὲ** =     contraste gramatical marcado.
+### B. 10:1-21
 
-- #### Frase larga con frases     preposicionales y participiales apiladas.
+### C. 11:1-36
 
-- #### **cláusula ἵνα** : "para que Él sea justo y     el justificador..." (v. 26).
+## VI. Los imperativos (12:1–15:13) 
 
-### **X.**       **B. 3:27–31**
+### A. 12:1–2
 
-- #### Preguntas retóricas: "¿Dónde     es entonces la fanfarronada?"
+### B. 12:3–21
 
-- #### Concluye con **οὖν** resumen     inferencial.
+### C. 13:1-14
 
-### **XI.**      **C. Capítulo 4**
+### D. 14:1–23
 
-- #### Dominado por **γάρ** (15     veces) explicando a Abraham.
+### E. 15:1–13
 
-- #### Tiempo verbal: énfasis en **el     aoristo** que muestra acciones completadas.
+## VII. Cierre (15:14–16:27) — Notas personales, saludos y doxología final
 
-### **XII.**     **D. Capítulo 5**
+### A. 15:14–33
 
-- #### Nueva sección señalizada     gramaticalmente por **οὖν** (5:1).
+### B. 16:1-27
 
-- #### Cadena de **resultados**     introducida por "y no solo esto, sino..."
-
-- #### La sección Adán–Cristo     estructurada con **ὥσπερ... οὕτως** ("Igual que... lo mismo     ocurre").
-
-## **IV. Las implicaciones de la justificación (6:1–8:39) — Imperativos y contrastes**
-
-### **XIII.**    **R. Capítulo 6**
-
-- #### Comienza con una **pregunta     retórica**: "¿Qué decimos entonces?"
-
-- #### Dominados por **imperativos**     ("consideréis muertos... Preséntate...").
-
-- #### Fuerte **contraste gramatical**     con οὐ... ἀλλά ("no... pero...").
-
-### **XIV.**    **B. Capítulo 7**
-
-- #### Cambio gramatical a **primera     persona del singular** ("I").
-
-- #### Serie de explicaciones     "para" (**γάρ**) que describen la lucha.
-
-### **XV.**     **C. Capítulo 8**
-
-- #### Comienza con **οὐδὲν ἄρα**     ("por lo tanto ahora...") marcando un cambio gramatical     importante.
-
-- #### Numerosas **para** cláusulas (**γάρ**)     que dan razones para asegurar la seguridad.
-
-- #### Termina con una amplia serie de **οὔτε...     οὔτε...** Negaciones.
-
-## **V. El Plan Soberano de Dios (9:1–11:36) — Estructura retórica de preguntas y respuestas + Oraciones condicionales**
-
-### **XVI.**    **A. Capítulo 9**
-
-- #### Comienza con **una fórmula que     contiene la verdad ("Estoy diciendo la verdad...")**).
-
-- #### Lleno de preguntas retóricas.
-
-- #### Utiliza contrastes marcados con **οὐ...     ἀλλά**.
-
-### **XVII.**   **B. Capítulo 10**
-
-- #### Centrada en la cadena de     salvación (vv. 9–15) construida a partir de  **las preguntas ὅτι**     ("porque") y **πῶς** ("¿cómo?").
-
-### **XVIII.**  **C. Capítulo 11**
-
-- #### Comienza con **λέγω οὖν** =     nuevo paso argumentativo.
-
-- #### Múltiples **si... luego**     estructuras condicionales (vv. 12, 15, 16, 21–24).
-
-- #### Termina en una **doxología**,     señalada gramaticalmente por una serie de preguntas que conducen a un     elogio.
-
-**VI. Los imperativos (12:1–15:13) — la sección donde la gramática cambia completamente a los mandatos**
-
-### **XIX.**    **A. 12:1–2**
-
-- #### Marcado por **παρακαλῶ**     ("Insto"), una fuerte exhortación.
-
-- #### Contiene dos imperativos     principales.
-
-### **XX.**     **B. 12:3–21**
-
-- #### Serie de imperativos rápidos,     órdenes en presente y participios que funcionan de forma imperativa.
-
-### **XXI.**    **C. Capítulo 13**
-
-- #### Imperativos para someterse; **γάρ**     explicando por qué.
-
-### **XXII.**   **D. 14:1–23**
-
-- #### Imperativos ligados a la     aceptación frente a la condena.
-
-- #### Contrastes fuertes: "no     destruir... pero persíguelo."
-
-### **XXIII.**  **E. 15:1–13**
-
-- #### Imperativos + citas bíblicas.
-
-- #### Termina con la fórmula de la     esperanza: "Que el Dios de la esperanza..."
-
-## **VII. Cierre (15:14–16:27) — Notas personales, saludos y doxología final**
-
-### **XXIV.**  **A. 15:14–33**
-
-- #### Gramática: narrativa en primera     persona, infinitivos de propósito.
-
-### **XXV.**   **B. Capítulo 16**
-
-- #### Lista de saludos (imperativos     para "saludar").
-
-- #### Termina con una doxología     introducida por **τῷ δὲ δυναμένῳ**.
-
- 
-
-
-
-# ROMANOS 1:1-17 - INTRODUCCIÓN: SALUDOS Y PROPÓSITO DE ESCRIBIR
+# ROMANOS 1:1-17 - APERTURA
 
 ## Romanos 1 es completamente indicativo (afirmaciones de hechos), no imperativo (mandatos).
 
 ### Pablo presenta el evangelio y el problema universal del pecado, sin exhortar aún a realizar acciones específicas.
 
-### Estructura de Romanos 1
+### En todo este pasaje (1:1-6:10), Pablo utiliza verbos en modo indicativo (declarando lo que es), no en modo imperativo (indicando lo que se debe hacer).
 
-#### 1:1–7 — Saludo e identificación de Pablo y el evangelio.
-
-#### 1:8–15 — Presentación personal y el deseo de Pablo de visitar Roma.
-
-#### 1:16–17 — El tema: El evangelio es el poder de Dios para la salvación.
-
-#### 1:18–32 — La ira de Dios revelada contra la impiedad humana y el rechazo de la verdad.
-
-### En todo este pasaje, Pablo utiliza verbos en modo indicativo (declarando lo que es), no en modo imperativo (indicando lo que se debe hacer).
-
-## Romanos 1:1-7 - Saludos, Pablo escribe a los de Roma
+## Romanos 1:1-7 - Saludos 
 
 ### Romanos 1:1a *Pablo,* ya no Saulo. Saulo era su nombre de incrédulo y a los inícios de su vida cristiana. 
 
@@ -282,17 +178,17 @@ La Carta a los Romanos, el sexto libro del Nuevo Testamento, es el más extenso 
 
 #### Entonces, **el evangelio** no se trata de una buena noticia en generál, sino específicamente es: "*el mensaje*"  "*acerca de Su Hijo*", nacido "*según la carne*" y "*descendiente de David*". Fué "*declarado Hijo de Dios*" por medio de un acto milagroso " ("*conforme al Espíritu de santidad*"), "*por la resurrección*" pues estaba "*entre los muertos*". 
 
-##### Pablo no habla en términos de azar, sino de **certeza revelada**: Pablo muestra pruebas contundentes. Es hijo de Dios, hombre, descendiente de David, murió y resucitó. 
+##### Pablo no habla en términos de azar, sino de certeza revelada: Pablo muestra pruebas contundentes. Es hijo de Dios, hombre, descendiente de David, murió y resucitó. 
 
-##### Estudios apologéticos como los de **Peter Stoner** (*Science Speaks*, 1958) calcularon la probabilidad de que **una sola persona** cumpla solo **8 profecías mesiánicas** (de las más claras) por azar: 1 en 10¹⁷ (0.00000000000000001%)
+##### Estudios apologéticos como los de Peter Stoner[^10] calcularon la probabilidad de que una sola persona cumpla solo 8 profecías mesiánicas (de las más claras) por azar: 1 en 10¹⁷ (0.00000000000000001%)
 
-##### Si se incluyen **48 profecías**, la probabilidad baja a **1 en 10¹⁵⁷**, una cifra **astronómicamente imposible** de lograr al azar.
+##### Si se incluyen 48 profecías, la probabilidad baja a 1 en 10¹⁵⁷, una cifra astronómicamente imposible de lograr al azar.
 
-##### Jesús cumplió **más de 300 profecías** relacionadas con el Mesías.
+##### Jesús cumplió más de 300 profecías relacionadas con el Mesías.
 
-##### Así que, desde un punto de vista matemático, el “porcentaje de probabilidad natural” sería **cercano a 0%**, y el “porcentaje de probabilidad divina” (si Dios intervino) sería **100%**.
+##### Así que, desde un punto de vista matemático, el “porcentaje de probabilidad natural” sería cercano a 0%, y el “porcentaje de probabilidad divina” (si Dios intervino) sería 100%.
 
-##### En resumen: Si se analizan las probabilidades naturales, es *prácticamente imposible* que Jesús cumpliera todo esto por azar. Pero según la evidencia histórica y la fe que Pablo predica, el cumplimiento es **total (100 %)** porque Dios mismo lo realizó en la historia.
+##### En resumen: Si se analizan las probabilidades naturales, es *prácticamente imposible* que Jesús cumpliera todo esto por azar. Pero según la evidencia histórica y la fe que Pablo predica, el cumplimiento es total (100 %) porque Dios mismo lo realizó en la historia.
 
 ### Romanos 1:5a *Es por medio de Él que hemos recibido la gracia y el apostolado...* Pablo explica que es mediante Cristo, el personaje del evangelio que habían recibido la gracia y el apostolado.
 
@@ -318,17 +214,17 @@ La Carta a los Romanos, el sexto libro del Nuevo Testamento, es el más extenso 
 
 ### Romanos 1:7c *Gracia y paz a ustedes de parte de Dios nuestro Padre y del Señor Jesucristo.* Como de costumbre, Pablo empezará su carta con un deseo de gracia y paz para ellos. Aquí aclara que es la gracia y paz que proviene de Jesucristo y de Dios, el Padre que compartimos. 
 
-## Romanos 1:8-12 - acción de gracias y deseo de visitar
+## Romanos 1:8-15 Pablo expresa agradecimiento, sus oraciónes y deseos de visitarles
 
 ### Romanos 1:8a *En primer lugar, doy gracias a mi Dios* después de referirse a Dios como nuestro Padre, ahora Pablo habla más personalmente. Dice que esta agradecido a su Dios. 
 
-### *por medio de Jesucristo* Pablo esta agradecido con su Dios por medio de Jesucristo el cual hizo todas las cosas posibles mediante la obra redentora en la cruz. 
+### Romanos 1:8b "*por medio de Jesucristo*" Pablo esta agradecido con su Dios por medio de Jesucristo el cual hizo todas las cosas posibles mediante la obra redentora en la cruz. 
 
-### *por todos ustedes,* Pablo agradece a su Dios por ellos. Pablo esta dando testimonio que tiene agradecimiento a Dios por ellos. 
+### Romanos 1:8c "*por todos ustedes,*" Pablo agradece a su Dios por ellos. Pablo esta dando testimonio que tiene agradecimiento a Dios por ellos. 
 
 ### ¿Por que estaría agradecido a Dios? 
 
-### Romanos 1:8b "*...porque por todo el mundo se habla de su fe.*" Pablo expresa gratitud a Dios por ellos porque su confianza en Dios estaba siendo conocido por todo el mundo. 
+### Romanos 1:8d "*...porque por todo el mundo se habla de su fe.*" Pablo expresa gratitud a Dios por ellos porque su confianza en Dios estaba siendo conocido por todo el mundo. 
 
 #### Pablo luego aclarará que la fe de ellos estaba siendo visto en obediencia. Romanos 16:19; 3 Juan 1:3; Colosenses 1:6, 23
 
@@ -342,15 +238,13 @@ La Carta a los Romanos, el sexto libro del Nuevo Testamento, es el más extenso 
 
 #### Pablo traia un mensaje "*de Su*" (genitivo) la persona del Hijo de Dios. Su foco estaba puesto en un mensaje específico, el mismo mensaje por el cual Pablo había sido apartado que era de pertenencia del Hijo de Dios. 
 
-El mensaje del evangelio 
-
 ### Romanos 1:9c Dios "*...me es testigo de cómo sin cesar hago mención de ustedes...*" Pablo pone a Dios como testigo de la mención interminable por ellos. 
 
 ### Romanos 1:10 "*...siempre en mis oraciones, implorando que ahora, al fin, por la voluntad de Dios, logre ir a ustedes.*" Dios es el único testigo de cuanto ora Pablo e implora que Dios le permita ira a visitarlos. 
 
 ### Romanos 1:11a "*Porque anhelo verlos para impartirles algún don espiritual,*" Su deseo de Pablo es ir a verlos con el propósito de participarles a ellos la gracia de Dios. 
 
-### Romanos 1:11b *a fin de que sean confirmados;* 
+### Romanos 1:11b "*a fin de que sean confirmados;*" 
 
 #### "*Confirmados*" STERIZO ser confirmado (reforzado) v. — estar o volverse más marcado por una firme determinación o resolución.
 
@@ -360,15 +254,15 @@ El mensaje del evangelio
 
 ## Romanos 1:13-15 - explicación de la demora
 
-### Romanos 1:13a *Y no quiero que ignoren, hermanos, que con frecuencia he hecho planes para ir a visitarlos,*
+### Romanos 1:13a "*Y no quiero que ignoren, hermanos, que con frecuencia he hecho planes para ir a visitarlos,*"
 
-### Romanos 1:13b *pero hasta ahora me he visto impedido, a fin de obtener algún fruto también entre ustedes,*
+### Romanos 1:13b "*pero hasta ahora me he visto impedido, a fin de obtener algún fruto también entre ustedes,*"
 
-### Romanos 1:13c *así como entre los demás gentiles.*
+### Romanos 1:13c "*así como entre los demás gentiles.*"
 
-### Romanos 1:14a *Tengo obligación*
+### Romanos 1:14a "*Tengo obligación*"
 
-### Romanos 1:14b *tanto para con los griegos* los griegos son gentiles que hablan griego y que buscan ser cultos. 
+### Romanos 1:14b "*tanto para con los griegos*" los griegos son gentiles que hablan griego y que buscan ser cultos. 
 
 ### Romanos 1:14c *como para con los bárbaros,* Los bárbaros son gentiles que no hablan griego y no les interesa la filosofía griega y helenizar. 
 
@@ -380,9 +274,9 @@ El mensaje del evangelio
 
 ####  ¿Por qué?
 
-## Romanos 1:16-17 - Tesis: la justicia del evangelio/El Evangelio revela la justicia de Dios. 
+## Romanos 1:16-17 - Tema y propósito central de la carta
 
-### Romanos 1:16a *Porque no me avergüenzo del evangelio,* Pablo no sentía remordimiento o vergüenza social por el evangelio que muchas veces era despreciado y burlado. 
+### Romanos 1:16a "*Porque no me avergüenzo del evangelio,*" Pablo no sentía remordimiento o vergüenza social por el evangelio que muchas veces era despreciado y burlado. 
 
 #### "*avergüenzo*" EPAISCHYNOMAI avergonzarse v. — estar o llegar a estar caracterizado por sentimientos de vergüenza, culpa, bochorno o remordimiento.[^1]
 
@@ -416,15 +310,7 @@ El mensaje del evangelio
 
 #### La palabra DUNAMIS (poder) apunta a la energía activa de Dios que produce transformación, no solo rescate. 
 
-Pablo dice: «No me avergüenzo» porque
-
-ha visto, experimentado y confiado en el poder del evangelio;
-
-un poder mayor que el poderío de Roma, la sabiduría griega o el legalismo judío.
-
-«El mensaje de la cruz es locura para los que se pierden;
-
-pero para nosotros, los que nos salvamos, es poder de Dios». — 1 Corintios 1:18
+#### Pablo dice: «No me avergüenzo» porque ha visto, experimentado y confiado en el poder del evangelio; un poder mayor que el poderío de Roma, la sabiduría griega o el legalismo judío. «El mensaje de la cruz es locura para los que se pierden; pero para nosotros, los que nos salvamos, es poder de Dios». — 1 Corintios 1:18
 
 ### Romanos 1:16d *de todo el que cree,*" Este poder para salvar está disponible para todos pero solo se beneficia el que cree. 
 
@@ -446,9 +332,9 @@ pero para nosotros, los que nos salvamos, es poder de Dios». — 1 Corintios 1:
 
 ### Romanos 1:17c *como está escrito: MAS EL JUSTO POR LA FE VIVIRÁ.* Esto respalda la frase anterior: la justicia y la vida se fundamentan en la fe, no en las obras.
 
-## En Síntesis ()
+## En Síntesis (1:1-17)
 
-### EL REGISTRADOR DE LA CORTE (1:1-17): Aquí Pablo, autor de Romanos, proporciona a sus lectores algunos
+### El registrador de la corte (1:1-17): Aquí Pablo, autor de Romanos, proporciona a sus lectores algunos
 
 #### material introductorio previo al juicio.
 
@@ -496,111 +382,158 @@ pero para nosotros, los que nos salvamos, es poder de Dios». — 1 Corintios 1:
 
 ##### Para lograr una fe santificante para los santos (1:17): Por medio de la fe una persona justa puede tener vida.
 
-# Romanos 1:18-3:20 LA NECESIDAD UNIVERSAL DEL EVANGELIO
+# Romanos 1:18-3:20 LA CONDENACIÓN SOBRE EL HOMBRE PECADOR
 
-## Romanos 1:18-32 - Revelación de la ira de Dios y rechazo humano. Varias oraciones unidas por  γάρ,  διό, καθὼς; Se puede dividir en 5:
+## Romanos 1:18-32 - Dios manifiesta Su desaprobación a la injusticia universal.
 
-#### **Romanos 1:18-20 - Dios revela su ira en repuesta al rechazo del hombre**
+### Dios es el creador y en el principio cuando hizo el mundo, era en reflejo perfecto de Su carácter. El mundo era bueno en gran manera. No había nada malo, solo armonía, amor, paz y gozo. No había muerte, no había tristeza y tampoco dolor. 
 
-##### Romanos 1:18a "*Porque la ira de Dios se revela desde el cielo*" Vimos previamente que la justicia de Dios es revelada por medio del evangelio. Ahora la ira de Dios es revelada desde el cielo. 
+#### El mundo, cada molécula en ella, depende de Dios el creador para existir. Dios existe por si, es el gran Yo Soy, pero la creación depende enteramente de Dios. El hombre es dependiente de Dios. Salmo 63:8; Hebreos 1:3; 2 Pedro 3:7
 
-###### "*Revela*" APOCALYPTO ser revelado (estado) v. — ser o llegar a ser conocido por el público; especialmente información que anteriormente solo era conocida por unas pocas personas o que estaba destinada a mantenerse en secreto.[^1]
+#### Entonces, si Dios es realmente es bueno, justo y puro, como lo vimos en como creó inicalmente al mundo, ¿cómo debe responder Dios a la injusticia del hombre? 
 
-###### Revela esá en tiempo presente el cual demuestra que la ira de Dios se esta contínuamente revelando. Revela está en voz pasiva, lo cual indica que es Dios quien se encarga de que Su ira se revele contínuamente.
+#### Pablo empezará presentando el caso de la universalidad del pecado de toda la humanidad a una distancia. Luego, lo hará más personal.  Es decir, empieza usando la tercera persona plural en los versículos 18-32. Luego en los versículos 2:1-5 y 17-29 usa segunda persona singular. Pablo vuelve usar la tercera persona plural en 2:6-16 para mostrar los principios universales de juicio y demostrará inmediatamente después usando segunda persona singular que cada judio en este caso es culpable. 
 
-###### ¿Por qué revela Su ira? 
+##### Resumen del cambio de persona (proceso de demostrar culpabilidad)
 
-##### Romanos 1:18b "*...contra toda impiedad e injusticia de los hombres,*" Dios responde activamente manifestando su ira contra todo impiedad e injusticia de la humanidad. 
+###### 1:18-32 - Condenación de “ellos” 
 
-##### Romanos 1:18c "...*que con injusticia restringen la verdad.*" en vez de simplemente ser portadores de la imagen de Dios (aunque quebrado por el pecado) y manifestar como seres creados, deciden activa, y continuamente disminuir la verdad. Romanos 1:25
+###### 2:1-5 - Condenación del moralista "tú"
 
-###### "*restringen*" KATECHO: comprobar ⇔ controlar v. — disminuir la intensidad de, moderar, contener o mantener dentro de límites; concebido como sujetar físicamente algo.
+###### 2:6-16 - Principios morales universales "él", "esos"
+
+###### 2:17-29 - Condenación de la hipocresía religiosa judía "tú"
+
+###### 3:1-8 - Diálogo religioso judío imaginario (mixto)
+
+###### 3:9-20 - Culpabilidad universal: todos bajo pecado "nosotros", "todos"
+
+###### Pablo pasa de: "ellos" → "tú" → "él"/"ellos" → "tú" → "nosotros"/"todos"
+para demostrar que: No hay justo, ni siquiera uno (3:10).
+
+### **Romanos 1:18 En respuesta a la injusticia universal, Dios manifiesta Su ira**
+
+#### Romanos 1:18a "*Porque la ira de Dios se revela desde el cielo...*" vimos previamente que la justicia de Dios es revelada por medio del evangelio. Ahora, la ira de Dios es revelada desde el cielo. 
+
+##### "*Revela*" APOCALYPTO ser revelado (estado) v. — ser o llegar a ser conocido por el público; especialmente información que anteriormente solo era conocida por unas pocas personas o que estaba destinada a mantenerse en secreto.[^1]
+
+###### "*Revela*" esá en tiempo presente el cual demuestra que la ira de Dios se esta contínuamente revelando. Revela está en voz pasiva, lo cual indica que es Dios quien se encarga de que Su ira se revele contínuamente.
+
+###### ¿Por qué se revela la ira de Dios? 
+
+#### Romanos 1:18b "*...contra toda impiedad e injusticia de los hombres,*" Dios responde activamente manifestando su ira contra toda impiedad e injusticia de la humanidad. 
+
+##### No dice que Dios responde contra el hombre. Dice que Dios revela Su ira contra toda **impiedad** e injusticia del hombre. En otras palabras, Dios responde a favor del hombre, revelando su ira, para demostrarle al hombre su estado verdadero deplorable. 
+
+#### Romanos 1:18c "...*que con injusticia restringen la verdad.*" en vez de simplemente ser portadores de la imagen de Dios (aunque quebrado por el pecado) la humanidad decide, activa, y continuamente disminuir la verdad. Romanos 1:25
+
+##### "*restringen*" KATECHO: comprobar ⇔ controlar v. — disminuir la intensidad de, moderar, contener o mantener dentro de límites; concebido como sujetar físicamente algo.
 
 ###### Restringen esta en tiempo presente voz activa y es un participio. Los hombres son señalados por la acción de suprimir activamente y contínuamente la verdad. 
 
-###### ¿Que verdad es la que los hombres restringen? 
+###### ¿Por qué responde Dios en ira? ¿Que verdad es la que los hombres restringen? 
 
-##### Romanos 1:19a *...Pero lo que se conoce acerca de Dios es evidente dentro de ellos,* Toda persona posee conocimiento de Dios que lleva dentro. Siendo que fueron hechos a la imagen de Dios poseen conocimiento dado por Dios. 
+### **Romanos 1:19-23 Razones por Su ira**
 
-###### "*Evidente*" FANEROS ser manifiesto v. — ser o llegar a ser claramente revelado a la mente, los sentidos o el juicio.[^1]
+#### Romanos 1:19a *...Pero lo que se conoce acerca de Dios es evidente dentro de ellos,* Toda persona posee conocimiento de Dios que lleva dentro. Siendo que fueron hechos a la imagen de Dios poseen conocimiento dado por Dios. 
 
-##### Romanos 1:19b *pues Dios se lo hizo evidente.* Dios lo hizo que sea claramente revelado a la mente. 
+##### "*Evidente*" FANEROS ser manifiesto v. — ser o llegar a ser claramente revelado a la mente, los sentidos o el juicio.[^1]
 
-##### Romanos 1:20a *Porque desde la creación del mundo,* Desde el princípio, Dios se ha encargado de hacerlo evidente por medio de la creación. 
+#### Romanos 1:19b *pues Dios se lo hizo evidente.* Dios lo hizo que sea claramente revelado a la mente. 
 
-###### ¿Que es evidente de Dios? 
+#### Romanos 1:20a *Porque desde la creación del mundo,* Desde el princípio, Dios se ha encargado de hacerlo evidente por medio de la creación. 
 
-##### Romanos 1:20b *Sus atributos invisibles,* las cosas invisibles de Dios. En realidad Dios es invisible pues es espíritu, pero Él ha hecho desde la creación del mundo que sus atributos sean claramente vistos. ¡Que asombroso que lo invisible se haga visible a todo ojo! 
+##### ¿Que es evidente de Dios dentro de ellos? 
 
-###### Tenemos un aparente oxímoron al decir que lo invisible es visible. Sabemos por el Salmo 19 que la creación declara la gloria de Dios. Es decir, la creación declara la existencia de Dios. Salmo 19:1-6
+#### Romanos 1:20b *Sus atributos invisibles,* las cosas invisibles de Dios. En realidad Dios es invisible pues es espíritu, pero Él ha hecho desde la creación del mundo que sus atributos sean claramente vistos. ¡Que asombroso que lo invisible se haga visible a todo ojo! 
 
-###### Salmo 19:1 "*Los cielos proclaman la gloria de Dios, Y el firmamento anuncia la obra de Sus manos...*" 
+##### Tenemos un aparente oxímoron al decir que lo invisible es visible. Sabemos por el Salmo 19 que la creación declara la gloria de Dios. Es decir, la creación declara la existencia de Dios. Salmo 19:1-6
 
-###### Sin embargo, aunque lo creado da evidencia de un creador, Pablo va más allá a simplemente comprobar que la existencia de Dios es evidente.  La Biblia nunca busca comprobar la existencia de Dios. 
+##### Salmo 19:1 "*Los cielos proclaman la gloria de Dios, Y el firmamento anuncia la obra de Sus manos...*" 
 
-###### ¿Qué atributos invisibles hace visibles? 
+##### Sin embargo, aunque lo creado da evidencia de un creador, Pablo va más allá a simplemente comprobar que la existencia de Dios es evidente.  La Biblia nunca busca comprobar la existencia de Dios. 
 
-##### Romanos 1:20c *Su eterno poder y divinidad, se han visto con toda claridad,* no hay manera de decir que no se pueden ver estos atributos. Son claramente vistos. Jeremías 51:15
+##### ¿Qué atributos invisibles hace visibles? 
 
-###### Poder eterno y deidad son atributos invisibles, ¿Cómo son vistos claramente por todos? 
+#### Romanos 1:20c *Su eterno poder y divinidad, se han visto con toda claridad,* no hay manera de decir que no se pueden ver estos atributos. Son claramente vistos. Jeremías 51:15
 
-##### Romanos 1:20e *siendo entendidos por medio de lo creado,* son manifiestos al entendimiento por medio de lo creado. Lo creado manifiesta algo que puede ser claramente discernido y entendido. 
+##### Poder eterno y deidad son atributos invisibles, ¿Cómo son vistos claramente por todos? 
 
-##### Romanos 1:20f *de manera que ellos no tienen excusa.* Aunque el hombre no tenga el conocimiento del evangelio o incluso la ley. 
+#### Romanos 1:20e *siendo entendidos por medio de lo creado,* son manifiestos al entendimiento por medio de lo creado. Lo creado manifiesta algo que puede ser claramente discernido y entendido. 
 
-#### Resultado: «No tienen excusa».
+#### Romanos 1:20f *de manera que ellos no tienen excusa.* Aunque el hombre no tenga el conocimiento del evangelio o incluso la ley. 
 
-#### Dado que esta revelación es:
+##### Resultado: «No tienen excusa». Dado que esta revelación es:
 
-#### **Universal** (para todas las personas, en todas partes),
+###### **Universal** (para todas las personas, en todas partes),
 
-#### **Clara** (perceptible a través de la creación) y
+###### **Clara** (perceptible a través de la creación)
 
-#### **Continua** (desde la creación),
+###### **Continua** (desde la creación),
 
-#### La humanidad no puede alegar ignorancia de la realidad ni de la autoridad de Dios.
+##### La humanidad no puede alegar ignorancia de la realidad ni de la autoridad de Dios.
 
-#### El argumento de Pablo no es que la creación revele todo acerca de Dios, sino que revela lo suficiente para que las personas sean responsables de reconocerlo y honrarlo como Dios.
+##### El argumento de Pablo no es que la creación revele todo acerca de Dios, sino que revela lo suficiente para que las personas sean responsables de reconocerlo y honrarlo como Dios.
 
-#### La tragedia no es la falta de revelación, sino el rechazo y la supresión de la verdad (v. 18).
+##### La tragedia no es la falta de revelación, sino el rechazo y la supresión de la verdad (v. 18). 
 
-#### «Aunque conocían a Dios, no lo glorificaron como a Dios ni le dieron gracias» (v. 21).
+#### Romanos 1:21a "*...Pues aunque conocían a Dios, no lo honraron como a Dios ni le dieron gracias,*" al no honrar a Dios como Dios, al no responder correctamente a lo que la creación hizo conocer de Dios. 
 
-#### **Romanos 1:21-23: el intercambio de gloria y sus consecuencias devastadoras**
+##### "*conocían*" esta en aoristo, activo particípio. Lo que nos aclara que en un punto del tiempo, ellos activamente conocían a Dios. Enfatiza conocimiento real, histórica y responsable no exhibición pasiva o accidental. 
 
-##### Romanos 1:21a "*Pues aunque conocían a Dios, no lo honraron como a Dios ni le dieron gracias,*" al no honrar a Dios como Dios, al no responder correctamente a lo que la creación hizo conocer de Dios. 
+##### "*honraron*" (aoristo, activo, indicativo). El rechazo de honrarlo es su propia acción deliberado. 
+
+##### "*dieron*" (aoristo, activo, indicativo). Nuevamente, activamente deliberado. La ingratitud no es un olvido pasivo sino un rechazo elegido.
 
 ###### ¿Qué pasa con el hombre que rechaza lo que Dios claramente le revela? 
 
-##### Romanos 1:21b "*...sino que se hicieron vanos en sus razonamientos*" No se queda con la misma claridad sino que lo claro se vuelve más difícil de entender porque su razonamiento se hace vano. 
+#### Romanos 1:21b "*...sino que se hicieron vanos en sus razonamientos*" no se queda con la misma claridad sino que lo claro se vuelve más difícil de entender porque su razonamiento se hace vano. 
 
-###### "*Vano*" METAIOO ser fútil v. — ser o volverse inútil como consecuencia de no tener propósito o ser incapaz de producir resultados.[^1]
+##### "*Vano*" METAIOO ser fútil v. - ser o volverse inútil como consecuencia de no tener propósito o ser incapaz de producir resultados.[^1]
 
-##### Romanos 1:21c "*...y su necio corazón fue entenebrecido.*" Lo que el hombre ya carecía de capacidad para comprender plenamente, por no honrar a Dios llegarón a ser aún más reacios a percibir o comprender. 
+#### Romanos 1:21c "*...y su necio corazón fue entenebrecido.*" Lo que el hombre ya carecía de capacidad para comprender plenamente, por no honrar a Dios llegarón a ser aún más reacios a percibir o comprender. 
 
-###### "*necio*" ASYNETOS incomprensible adj. — que carece de la capacidad de comprender el significado o la importancia de algo (o del conocimiento adquirido como resultado).[^1]
+##### "*necio*" ASYNETOS incomprensible adj. — que carece de la capacidad de comprender el significado o la importancia de algo (o del conocimiento adquirido como resultado).[^1]
 
-###### "*entenebrecido*" SKOTIZO volverse insensible ⇔ oscurecer v. — ser o volverse incapaz o reacio a percibir o comprender; concebido como volverse más deficiente en luz o brillo.[^1]
+##### "*entenebrecido*" SKOTIZO volverse insensible ⇔ oscurecer v. — ser o volverse incapaz o reacio a percibir o comprender; concebido como volverse más deficiente en luz o brillo.[^1]
 
-##### Romanos 1:22a "*...Profesando ser sabios, se volvieron necios,*" Esa misma incapacidad y deficiencia lo lleva a auto-declararse sabio
+#### Romanos 1:22a "*...Profesando ser sabios, se volvieron necios,*" Esa misma incapacidad y deficiencia lo lleva a auto-declararse sabio. Mientras la humanidad activamente se piensa astuto e inteligente, la realidad es que se han vuelto tontos. Les ha sobrevenido la locura. 
 
-##### Romanos 1:23a "*...y cambiaron la gloria del Dios incorruptible*" La creación naturalmente proclama la gloria de Dios. Sin embargo el hombre actua en contra de lo que naturalmente sucede. 
+#### Romanos 1:22 encaja en la secuencia de Pablo:
 
-##### Romanos 1:23b "*...por una imagen en forma de hombre corruptible,*" en vez de contemplar la gloria del Dios creador y perfecto, el hombre, que es vano en su razonamiento, lo cambia por una imagen que refleja el hombre creado y caído. 
+##### Conocieron a Dios (1:21a — activo)
 
-##### Romanos 1:23c "*de aves, de cuadrúpedos y de reptiles.*" No solo hace imagenes de forma del hombre sino de aves de cuadrúpedos y reptiles también. Es ilogico reemplazar a Dios por algo que Él ha creado, pero eso demuestra lo irracional de su razonamiendo. 
+##### No glorificaron ni dieron gracias (1:21b — activo)
 
-#### **Romanos 1:24-25: Primera forma que Dios revela su ira: los entrega a sus propios deseos**
+##### Sus pensamientos se volvieron vanos (1:21c — pasivo)
 
-##### En respuesta al rechazo de la verdad, al no honrar a Dios como creador ni darle gloria,  Dios los entrega a los deseos que tienen.
+##### Su corazón se entenebreció (1:21d — pasivo)
 
-##### Romanos 1:24a "*Por lo cual Dios los entregó a la impureza en la lujuria de sus corazones*" Dios responde a la injusticia del hombre entregándolos o dejandolos a su impureza y lujuria de sus corazones. 
+##### Pretendiendo ser sabios… (1:22a — autoengaño activo)
 
-###### "*impureza*" AKATHARSIA inmoralidad ⇔ suciedad n. — inmoralidad entendida especialmente como sucia e impura; especialmente usada para pecados sexuales.[^1]
+##### Se hicieron necios (1:22b — juicio pasivo)
 
-###### "*Lujuria*" EPITHYMIA un deseo intenso. Generalmente visto de mala manera. 
+##### El patrón: Rebelión activa → juicio pasivo → autoengaño activo → exposición divina pasiva
 
-###### Jesus uso esta palabra para expresar un deseo profundo. Obviamente en ese contexto no es un deseo malo. Sabemos que Jesús no nació con la naturaleza caida humana. Lucas 22:15
+##### El tonto no es alguien que es ignorante, necio es alguien que rechaza Dios, sabiendo la verdad. Salmo 14:1
+
+#### Romanos 1:23a "*...y cambiaron la gloria del Dios incorruptible*" La creación naturalmente proclama la gloria de Dios. Sin embargo el hombre actua en contra de lo que naturalmente sucede. 
+
+#### Romanos 1:23b "*...por una imagen en forma de hombre corruptible,*" en vez de contemplar la gloria del Dios creador y perfecto, el hombre, que es vano en su razonamiento, lo cambia por una imagen que refleja el hombre creado y caído. 
+
+#### Romanos 1:23c "*...de aves, de cuadrúpedos y de reptiles.*" No solo hace imagenes de forma del hombre sino de aves de cuadrúpedos y reptiles también. Es ilogico reemplazar a Dios por algo que Él ha creado, pero eso demuestra lo irracional de su razonamiendo. 
+
+### **Romanos 1:24-25: Colapso de conducta humana por la entrega a la impureza de su corazón**
+
+#### Romanos 1:24a "*Por lo cual Dios los entregó a la impureza en la lujuria de sus corazones*" Dios responde a la injusticia del hombre entregándolos o dejandolos a su impureza y lujuria de sus corazones. 
+
+##### "*impureza*" AKATHARSIA inmoralidad ⇔ suciedad n. — inmoralidad entendida especialmente como sucia e impura; especialmente usada para pecados sexuales.[^1]
+
+##### "*Lujuria*" EPITHYMIA un deseo intenso. Generalmente visto de mala manera. 
+
+##### En respuesta al rechazo de la verdad, al no honrar a Dios como creador ni darle gloria,  Dios los entrega a los deseos impuros que tienen.
+
+###### Jesús uso esta palabra para expresar un deseo profundo. Obviamente en ese contexto no es un deseo malo. Sabemos que Jesús no nació con la naturaleza caida humana. Lucas 22:15
 
 ###### Pablo menciona desear buenas cosas. 1 Tesalonicenses 2:17; Filipenses 1:23
 
@@ -618,7 +551,7 @@ pero para nosotros, los que nos salvamos, es poder de Dios». — 1 Corintios 1:
 
 ###### Falsa enseñanza según deseo: Judas 1:18; 2 Pedro 3:3; 2 Timoteo 4:3
 
-##### Santiago explica que es el deseo, concupisencia (deseo que proviene de la carne) que nos lleva a ser tentados: 
+##### Santiago explica que es el deseo, la concupisencia (deseo que proviene de la carne) que nos lleva a ser tentados: 
 
 ###### Santiago 1:13 "*Que nadie diga cuando es tentado: «Soy tentado por Dios». Porque Dios no puede ser tentado por el mal y Él mismo no tienta a nadie.*" Claramente, Dios no lleva a nadie a ser tentado. No podemos hechar la culpa a la "soberanía" o "voluntad" de Dios si somos tentados. Interesantemente también es notar que no dice cuando uno cae en tentación sino "*cuando uno es tentado*". 
 
@@ -626,45 +559,59 @@ pero para nosotros, los que nos salvamos, es poder de Dios». — 1 Corintios 1:
 
 ###### Santiago 1:15 "*Después, cuando la pasión ha concebido, da a luz el pecado; y cuando el pecado es consumado, engendra la muerte.*" Después de ser tentado  la pasión (el deseo de uno) lleva a una concepción (implicito esta que uno cae en tentación), esto termina dando luz o manifestandose como pecado, y cuando el pecado es consumado (el pecado es completado), resulta en la muerte (condición de vida muerta). 
 
-##### Romanos 1:24b "*de modo que deshonraron entre sí sus propios cuerpos.*" La deshonra entre si al cuerpo es síntoma visible del abandono. 
+#### Romanos 1:24b "*de modo que deshonraron entre sí sus propios cuerpos.*" La deshonra entre si al cuerpo es síntoma visible de la entrega. 
 
-##### Romanos 1:25a "*Porque ellos cambiaron la verdad de Dios por la mentira,*" La razón por deshonrarse sus cuerpos es dada: cambiaron la verdad de Dios por su propia "verdad" (que es mentira). 
+##### Esto se refiere a actos sexuales que degradan la dignidad de la persona. Usar el cuerpo como instrumento de la pasión en lugar del honor. La conducta entregada es contrario a su diseño. 1 Tesalonicenses 4:3-5
 
-##### Romanos 1:25b "*y adoraron y sirvieron a la criatura en lugar del Creador,*" A la vez, no solo deshonraron sus propios cuerpos, también adoran y sirven a la creación en vez de adorar y servir al creador. 
+###### Si vemos a la humanidad vivir según los impulsos corporales sin control moral es porque Dios manifiesta su ira contra toda injusticia. El hombre ha sido entregado a estas cosas para sufrir las consecuencias de su rechazo de Dios.  Gálatas 5:19; Efesios 5:3-5; Colosenses 3:5
 
-###### Es notable que la entrega que Dios hace al hombre demuestra el crecimiento de falta de razonamiento. Ha perdido aún más entendimiento de lo que era claro y visible por medio de lo creado y termina maltratandose y dando honor y gloria a lo creado. 
+##### La manifestación de la entrega de Dios a la humanidad es evidente. Se manifiesta externamente en: inmoralidad sexual, deshonra del cuerpo, actos físicos degradantes, impureza relacionada con la idolatría, promiscuidad, sensualidad y explotación del cuerpo ajeno. 
 
-##### Romanos 1:25c "*quien es bendito por los siglos. Amén.*" Pablo aprovecha este momento para dar honra y gloria a Dios. A la vez, hace una clara distinción entre la creación y el creador. Quien, habla de una persona, y dice que es bendito. La respuesta naturalmente es, amén. 
+#### Romanos 1:25a "*...Porque ellos cambiaron la verdad de Dios por la mentira,*" La razón por la deshonra de sus cuerpos es dada: cambiaron la verdad de Dios por su propia "astucia" (que es mentira). Entonces Dios dejó de frenar su conducta. Dios los abandonó a esa impureza de su corazón y se ve manifiesto en su conducta. 
 
-#### **Romanos 1:26-27: Segunda forma que Dios revela su ira: los entrega a pasiones degradantes**
+#### Romanos 1:25b "*...y adoraron y sirvieron a la criatura en lugar del Creador,*" A la vez, no solo deshonraron sus propios cuerpos, también adoran y sirven a la creación en vez de adorar y servir al creador. 
 
-##### El hombre, no contento con su abandono a la verdad, insiste en tapar la verdad con su mentira. 
+##### Es evidente la entrega que Dios hace a la humanidad cuando vemos claramente en la humanidad el colapso de su conducta cuando ¡adoran algo creado en vez del creador que los hizo! 
 
-###### ¿Qué debería hacer Dios en respuesta? 
+###### El hombre puede tratar de esquivar su condición real de los deseos de su corazón pero cuando Dios los entrega entonces se ve manifestado claramente en su conducta.
 
-##### Romanos 1:26a "*Por esta razón Dios los entregó*" Dios no los entrega nuevamente por ninguna razón o simplemente porque el no les agrada. Es porque Dios esta manifestando su ira en respuesta a su abandono. 
+#### Romanos 1:25c "*del Creador...quien es bendito por los siglos. Amén.*" Pablo aprovecha este momento para dar honra y gloria a Dios. 
 
-##### Romanos 1:26b "*a pasiones degradantes;*" ahora no solo es entrega a sus deseos de su corazón, sino a deseos degradantes. 
+##### A la vez, hace una clara distinción entre la creación y el creador. Quien, habla de una persona, y dice que es bendito. La respuesta naturalmente es, amén. 
 
-###### "*Degradantes*" ATIMIA deshonra n. — un estado de vergüenza o desgracia.[^1]
+##### El Creador nunca debe ser visto de mala manera por manifestar Su ira. Al contrario, siempre y en todo es bendito el Creador y digno se ser honrado en todo. Dios no es culpable por la conducta indecorosa de la humanidad, el simplemente revela Su ira justificable al dejarlos conducirse de esa manera por rechazarlo como creador. 
+
+##### Así como Adán culpó a Dios por crear a la mujer, la humanidad típicamente maldice a Dios por revelar Su ira. La humanidad quiere culpar a Dios por el colapso de su conducta e ignorar la verdadera razón que es el rechazo de Dios como creador. Génesis 3:12
+
+### **Romanos 1:26-27: Colapso de valores humanas por la entrega a pasiones degradantes**
+
+##### El hombre, no contento con su abandono a la verdad, insiste en tapar la verdad con su mentira. ¿Qué debería hacer Dios en respuesta? 
+
+#### Romanos 1:26a "*Por esta razón Dios los entregó*" Dios no los entrega nuevamente por ninguna razón o simplemente porque el no les agrada. Es porque Dios esta manifestando su ira en respuesta a su abandono. 
+
+#### Romanos 1:26b "*a pasiones degradantes;*" ahora no solo es entrega a sus deseos de su corazón, sino a deseos degradantes. 
+
+##### "*Degradantes*" ATIMIA deshonra n. - un estado de vergüenza o desgracia.[^1]
 
 ###### Es decir, Dios los entrega, o da permiso, a la pasión vergonzosa que tienen. Dios permite que esto suceda porque adoraron y sirvieron a la criatura en vez de reconocerlo como Dios y creador. 
 
-##### Romanos 1:26c "*porque sus mujeres cambiaron la función natural por la que es contra la naturaleza.*" Esto no es un fluir natural o un resultado de la creación. Tampoco es la evolución que dice que el hombre va mejorando a traves del tiempo. 
+#### Romanos 1:26c "*porque sus mujeres cambiaron la función natural por la que es contra la naturaleza.*" Esto no es un fluir natural o un resultado de la creación. Tampoco es la evolución que dice que el hombre va mejorando a traves del tiempo. 
 
-###### Esto no es según la función natural, es contrario, porque Dios les entregó. Las mujeres cambiaron la función natural a lo que es contra naturaleza. 
+##### Esto no es según la función natural, es contrario, porque Dios les entregó. Las mujeres cambiaron la función natural a lo que es contra naturaleza. 
 
-##### Romanos 1:27a *De la misma manera también los hombres, abandonando el uso natural de la mujer,* No solo las mujeres cambiaron la función natural sino los hombres abandonan lo natural con la mujer. 
+#### Romanos 1:27a *De la misma manera también los hombres, abandonando el uso natural de la mujer,* No solo las mujeres cambiaron la función natural sino los hombres abandonan lo natural con la mujer. 
 
-##### Romanos 1:27b *se encendieron en su lujuria unos con otros,* en vez de tener deseo por la mujer (el cual es natural para el hombre), abandonan lo natural para desearse entre hombres. Es antinatural según por diseño de Dios. 
+#### Romanos 1:27b "*se encendieron en su lujuria unos con otros,*" en vez de tener deseos naturales por la mujer (por diseño de Dios), abandonan lo natural para desearse entre hombres. Tienen un deseo ardiente por lo que es antinatural. 
 
-##### Romanos 1:27c *cometiendo hechos vergonzosos hombres con hombres,* El resultado de desearse entre hombres (homo-mismo sexual) es un acto vergonzoso inclusive entre el mundo animal. 
+#### Romanos 1:27c "*cometiendo hechos vergonzosos hombres con hombres,*" El resultado de desearse entre hombres (homo-mismo sexual) es un acto vergonzoso inclusive entre el mundo animal. 
 
-##### Romanos 1:27d "*y recibiendo en sí mismos el castigo correspondiente a su extravío.*" Reciben en si mismos es la ira de Dios sobre ellos y es según su extravío. 
+#### Romanos 1:27d "*y recibiendo en sí mismos el castigo correspondiente a su extravío.*" Reciben en si mismos es la ira de Dios sobre ellos y es según su extravío. 
 
-### **Romanos 1:28: Tercera forma que Dios revela su ira: los entrega a una mente reprobada**
+##### Su extravío es visto en el colapso de sus valores, llevado por sus deseos pecaminosos. 
 
-#### Ahora vemos la tercera entrega que Dios hace, revelando su ira a la humanidad por su rechazo a la verdad de Dios. Esta vez, y aún peor, es a una mente depravada. 
+### **Romanos 1:28-32: Colapso de cosmovisión humana por la entrega a una mente depravada**
+
+#### Ahora vemos la tercera entrega que Dios hace, revelando Su ira a la humanidad por su rechazo a la verdad de Dios. Esta vez, y aún peor, es a una mente depravada que resulta en el colapso de su cosmovisión. 
 
 #### Romanos 1:28a "*Y así como ellos no tuvieron a bien reconocer a Dios,*" entonces, de  manera que no reconocieron la verdad de Dios, rechazando a Dios, es que Dios procede nuevamente a demostrar su ira para con la humanidad. 
 
@@ -674,7 +621,7 @@ pero para nosotros, los que nos salvamos, es poder de Dios». — 1 Corintios 1:
 
 ##### "*convienen*" KATHEKO ser apropiado v. — estar o llegar a estar marcado por la idoneidad, la corrección o la conveniencia.
 
-### **Romanos 1:29-32 La conclusión del estado real de la humanidad** 
+#### Romanos 1:29-32 La conclusión del estado real de la humanidad
 
 #### Romanos 1:29a "*Están llenos de toda injusticia,*" estan tan llenos como sea posible de toda clase de injusticia. 
 
@@ -682,27 +629,27 @@ pero para nosotros, los que nos salvamos, es poder de Dios». — 1 Corintios 1:
 
 ##### ¿Qué clase de injusticia demuestra tener el hombre?
 
-#### Romanos 1:29b "*maldad,*" PONERIA depravación; corrupción moral; intención de dañar.
+#### Romanos 1:29b "*...maldad,*" PONERIA depravación; corrupción moral; intención de dañar.
 
-#### Romanos 1:29c "*avaricia*" PLEONEXIA deseo codicioso de más; egoísmo insaciable.
+#### Romanos 1:29c "*...avaricia*" PLEONEXIA deseo codicioso de más; egoísmo insaciable.
 
-#### Romanos 1:29d "*y malicia,*" KAKIA mala voluntad; intención de dañar o corromper; depravación moral.
+#### Romanos 1:29d "*...y malicia,*" KAKIA mala voluntad; intención de dañar o corromper; depravación moral.
 
-#### Romanos 1:29e *llenos de envidia,* MESTOUS repleto de; completamente caracterizado por. FTHONOU resentimiento hacia el éxito o la ventaja de otro. 
+#### Romanos 1:29e *...llenos de envidia,* MESTOUS repleto de; completamente caracterizado por. FTHONOU resentimiento hacia el éxito o la ventaja de otro. 
 
-#### Romanos 1:29f *homicidios,* FONOU el acto de quitarle la vida a otro injustamente. 
+#### Romanos 1:29f *...homicidios,* FONOU el acto de quitarle la vida a otro injustamente. 
 
-#### Romanos 1:29g *pleitos,* ERIDOS conflicto, rivalidad, afán de pelear. 
+#### Romanos 1:29g *...pleitos,* ERIDOS conflicto, rivalidad, afán de pelear. 
 
-#### Romanos 1:29h *engaños,* DOLOU deshonestidad deliberada, astucia, traición. 
+#### Romanos 1:29h *...engaños,* DOLOU deshonestidad deliberada, astucia, traición. 
 
-#### Romanos 1:29i *y malignidad.* KAKAETHEIAS mal carácter; disposición rencorosa; bajeza. 
+#### Romanos 1:29i *...y malignidad.* KAKAETHEIAS mal carácter; disposición rencorosa; bajeza. 
 
-#### Romanos 1:29j *Son chismosos,* PSITHYRISTAS habladores secretos; susurradores; aquellos que difunden rumores en privado. 
+#### Romanos 1:29j *...Son chismosos,* PSITHYRISTAS habladores secretos; susurradores; aquellos que difunden rumores en privado. 
 
-#### Romanos 1:30a *detractores,* KATALALOUS aquellos que difaman o hablan mal de otros. 
+#### Romanos 1:30a *...detractores,* KATALALOUS aquellos que difaman o hablan mal de otros. 
 
-#### Romanos 1:30b *aborrecedores de Dios,* THEOSTYGEIS aquellos que detestan o son hostiles hacia Dios. 
+#### Romanos 1:30b *...aborrecedores de Dios,* THEOSTYGEIS aquellos que detestan o son hostiles hacia Dios. 
 
 #### Romanos 1:30c *insolentes,* HYBRISTAS abusadores arrogantes; aquellos que maltratan a otros por orgullo. 
 
@@ -719,13 +666,19 @@ pero para nosotros, los que nos salvamos, es poder de Dios». — 1 Corintios 1:
 #### Romanos 1:31b *indignos de confianza,* ASYNTHETOS que no cumplen los acuerdos; infieles o traicioneros. (Sentido: “que rompen una promesa o pacto”). 
 #### Romanos 1:31c *sin amor,* ASTORGOS que carece de amor o afecto familiar normal; insensible. (Sentido: “ausencia de afecto humano natural.”)
 #### Romanos 1:31d *despiadados.* ANELEEMON sin compasión ni piedad; cruel. (Sentido: “que no muestra misericordia ni empatía.”)
-#### Romanos 1:32a *...Ellos, aunque conocen el decreto de Dios que los que practican tales cosas son dignos de muerte...*
+#### Romanos 1:32a "*...Ellos, aunque conocen el decreto de Dios que los que practican tales cosas son dignos de muerte...*" Conocen pero ya no comprenden. No pueden comprender porque su razonamiento no tiene objetividad real. Es totalmente según su propia manera de interpretar los hechos. 
 
-#### Romanos 1:32c *no solo las hacen, sino que también dan su aprobación a los que las practican.*
+##### Su razonamiento no es falta de conocimiento, es falta de entendimiento. Carecen de entendimiento de la severidad de su situación. El Dios de la Biblia es según su propia cosmovisión y esto afecta toda manera de ver las cosas. 
 
-## En Síntesis
+#### Romanos 1:32c "*no solo las hacen, sino que también dan su aprobación a los que las practican.*" Lo que tenían de entendimiento, ha sido torcido y ahora es interpretado por su vano razonamiento. 
 
-### EL REGISTRO DE LA CORTE (1:18-32): Pablo registra la evidencia presentada en este juicio.
+##### Su cosmovisión es tan torcido se ha corrompido completamente. Ya no ven lo que antes veían con tanta claridad. Lo invisible de Dios es visto por medio del entendimiento que ahora ya esta corrompido. 
+
+##### Vemos entonces la importancia de ir al mundo para compartir el evangelio y no esperar que el mundo venga a Dios. La Biblia dice que nadie busca a Dios y es porque su razonamiento se ha vuelto vano. 
+
+## En Síntesis (1:18-32)
+
+### El registro de la corte (1:18-32): Pablo registra la evidencia presentada en este juicio.
 
 #### La acusación general (1:18-19): "Dios muestra su ira desde el cielo contra todos los pecadores, impíos personas que alejan la verdad de sí mismas. Porque la verdad acerca de Dios les es conocida instintivamente".
 
@@ -751,13 +704,19 @@ pero para nosotros, los que nos salvamos, es poder de Dios». — 1 Corintios 1:
 
 ### Así como Romanos 1,  el capítulo 2 tampoco contiene imperativos. Los verbos siguen siendo indicativos, estableciendo lo que es. Pablo continúa denunciando al pecador y describiendo el justo juicio de Dios, pero aún no da órdenes ni hace súplicas al lector. En otras palabras, el capítulo 2 no es enseñanza para creyentes a como vivir. 
 
-### Romanos 2:1a *Por lo cual no tienes excusa, oh hombre,* vemos aquí nuevamente el hombre no tiene excusa. ¿Porque?
+### Romanos 2:1a *Por lo cual no tienes excusa, oh hombre,* nuevamente vemos la expresión que el hombre no tiene excusa. 
+
+#### Por lo cual...se refiere a todo lo antes mencionado. Pablo anticipa al moralista por juzgar a la humanidad sin entender que se halla incluido en la misma condición de culpable también. 
+
+#### La primera que vimos "no tienes excusa" era porque el hombre no responde a lo invisible de Dios que ha sido visto por lo creado. Ahora es porque su entendimiento ha sido reorientado fuera de Dios y su percepción es que lo que la humanidad hace está mal 
 
 ### Romanos 2:1b "*quienquiera que seas tú que juzgas...*" Pablo se enfoca ahora en una persona (quienquiera que sea) que juzga a otro...
 
+#### El (quienquiera que seas tú) tiene conocimiento de la maldad que hace la gente pero el no se considera mejor y juzga a los demás. 
+
 ### Romanos 2:1c "*pues al juzgar a otro a ti mismo te condenas, porque tú que juzgas practicas las mismas cosas.*" Es inexcusable (culpable) el hombre que juzga a otro y hace las mismas cosas. 
 
-Al juzgar a otro, esta persona demuestra que sabe el bien que se debe hacer. Luego veremos que es porque Dios se lo ha revelado. Romanos 2:15
+####  Al juzgar a otro, esta persona demuestra que sabe el bien que la humanidad no hace. Romanos 2:15
 
 ### Romanos 2:2 "*Sabemos que el juicio de Dios justamente cae sobre los que practican tales cosas.*" Dios es perfectamente justo y juzga justamente. El que practica cosas malas será juzgado. 
 
@@ -2467,3 +2426,4 @@ B. Lo que hace (8:10-14)
 [^6]: John D. Barry et al., eds., «Catacumbas», en The Lexham Bible Dictionary (Bellingham, WA: Lexham Press, 2016).
 [^7]: Faith Alone Journal: https://faithalone.org/journal-articles/repentance-and-salvation-part-3/?utm_source=chatgpt.com
 [^9]:TuVersión | La aplicación de la Biblia | Biblia.com
+[^10]: *Science Speaks*, 1958
