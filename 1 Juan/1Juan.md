@@ -543,7 +543,6 @@ ___-___
 ##### Este <u>mismo</u> mensaje es lo que ahora ellos les anuncian. Juan 1:4-9, 8:12, 9:4-5, 11:9-10
 =======
 ### 1 Juan 1:5a "*Y este es el mensaje que hemos oído de Él y que les anunciamos…*" Este mensaje procede del Padre “*hemos oído de Él*”. Este __<u>mismo</u>__ mensaje es lo que ahora ellos les anuncian. Juan 1:4-9, 8:12, 9:4-5, 11:9-10
->>>>>>> Stashed changes
 
 #### ¿Cuál es __<u>este</u>__ mensaje que habían recibido y que estaban anunciando? 
 
