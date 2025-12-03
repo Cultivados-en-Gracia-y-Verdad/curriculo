@@ -601,3 +601,150 @@ Su decadencia moral demuestra una represión deliberada, no una falta de conocim
 Por lo tanto:
 
 La humanidad no tiene excusa, no porque carezca de revelación, sino porque rechaza la revelación que sí posee.
+
+
+
+
+
+VERBOS EN ROMANOS 4:
+
+4:1
+
+ἐροῦμεν — Fut. Acto. Índico. 1pl - diremos
+εὑρηκέναι — Perf. Acto. inf. - haber encontrado
+
+4:2
+
+ἐδικαιώθη—Aor. Aprobar. Índico. 3sg — estaba justificado
+ἔχει — Pres. Acto. Índico. 3sg—tiene
+
+4:3
+
+λέγει — Pres. Acto. Índico. 3sg — dice
+ἐπίστευσεν—Aor. Acto. Índico. 3sg - creído
+ἐλογίσθη—Aor. Aprobar. Índico. 3sg - fue contado
+
+4:4
+
+ἐργαζομένῳ — Pres. Mediados/Dep. Parte. Dat. masc. sg—al que trabaja
+λογίζεται — Pres. Indicador medio/paso. 3sg - se cuenta
+
+4:5
+
+ἐργαζομένῳ (μὴ) — Pres. Mediados/Dep. Parte. Dat. masc. sg-no funciona
+πιστεύοντι — Pres. Acto. Parte. Dat. masc. sg—creyendo
+δικαιοῦντα — Pres. Acto. Parte. Acc. masc. sg - justificando
+λογίζεται — Pres. Indicador medio/paso. 3sg - se cuenta
+
+4:6
+
+λέγει — Pres. Acto. Índico. 3sg — dice
+λογίζεται — Pres. Indicador medio/paso. 3sg — cuenta
+
+4:7
+
+ἀφέθησαν—Aor. Aprobar. Índico. 3pl - fueron perdonados
+ἐπεκαλύφθησαν—Aor. Aprobar. Índico. 3pl - estaban cubiertos
+
+4:8
+
+λογίσηται—Aor. Medio. Asunto. 3sg - podrá calcular / calculará
+
+4:9
+
+ἔχομεν — Pres. Acto. Índico. 1pl (variante de texto; NA28 tiene ἡ μακαριότης…)
+λέγομεν — Pres. Acto. Índico. 1pl - decimos
+ἐλογίσθη—Aor. Aprobar. Índico. 3sg - fue contado
+
+4:10
+
+ἐλογίσθη—Aor. Aprobar. Índico. 3sg - fue contado
+(no hay verbo finito en la pregunta aparte de la repetición)
+
+4:11
+
+ἔλαβεν—Aor. Acto. Índico. 3sg - recibió
+εἶναι — Pres. Acto. inf. - ser (propósito)
+πιστεύουσιν — Pres. Acto. Parte. Dat. masc. pl—creyendo
+λογισθῇ—Aor. Aprobar. Asunto. 3sg - podría considerarse
+
+4:12
+
+περιπατοῦσιν — Pres. Acto. Parte. Dat. masc. pl—caminar
+(no hay verbo finito; la cláusula dependiente modifica "padre de la circuncisión")
+
+4:13
+
+εἶναι — Pres. Acto. inf. - ser
+(no hay verbo finito en la cláusula principal; implica “vino / fue dado”)
+
+4:14
+
+εἰσίν — Pres. Acto. Índico. 3pl - son
+κενώθη—Aor. Aprobar. Índico. 3sg — ha sido vaciado/anulado
+κατήργηται — Perf. Indicador medio/paso. 3sg - ha sido abolido (o anulado)
+
+4:15
+
+κατεργάζεται — Pres. Indicador medio/paso. 3sg - trabaja / produce
+ἐστίν — Pres. Acto. Índico. 3sg—es
+
+4:16
+
+εἶναι — Pres. Acto. inf. - ser
+(no hay verbo finito en la construcción larga; se proporciona “es” elíptico)
+
+4:17
+
+γέγραπται — Perf. Indicador medio/paso. 3sg - ha sido escrito
+τέθεικά (σε) — Perf. Acto. Índico. 1sg — Yo te he hecho
+ἐπίστευσεν—Aor. Acto. Índico. 3sg - él creyó
+ζωοποιοῦντος — Pres. Acto. Parte. General masc. sg - dando vida
+καλοῦντος — Pres. Acto. Parte. General masc. sg - llamando
+ὄντα — Pres. Acto. Parte. Acc. neutro. pl—siendo
+
+4:18
+
+ἐπίστευσεν—Aor. Acto. Índico. 3sg - creído
+γενέσθαι—Aor. Medio. inf. - convertirse
+ἔσται—Fut. Medio. Índico. 3sg - será
+ἐρρέθη—Aor. Aprobar. Índico. 3sg - fue hablado
+
+4:19
+
+ἀσθενήσας (μὴ) — Aor. Acto. Parte. Nom. masc. sg—no haber debilitado
+κατενόησεν—Aor. Acto. Índico. 3sg - consideró (dependiendo de la variante: algunos dicen “οὐ κατενόησεν”)
+
+4:20
+
+διεκρίθη—Aor. Aprobar. Índico. 3sg - asombrado / dudado
+ἐνεδυναμώθη—Aor. Aprobar. Índico. 3sg — fue fortalecido
+δούς—Aor. Acto. Parte. Nom. masc. sg - dando
+
+4:21
+
+πληροφορηθείς—Aor. Aprobar. Parte. Nom. masc. sg — estar completamente convencido
+ἐπήγγελται — Perf. Indicador medio/paso. 3sg - lo ha prometido
+ποιῆσαι—Aor. Acto. inf. — hacer / realizar
+ἐστίν (ἀγαθὸς) — Pres. Acto. Índico. 3sg (implícito con "capaz")
+
+4:22
+
+ἐλογίσθη—Aor. Aprobar. Índico. 3sg - fue contado
+
+4:23
+
+ἐγράφη—Aor. Aprobar. Índico. 3sg — fue escrito
+ἐλογίσθη—Aor. Aprobar. Índico. 3sg (referencia repetida)
+
+4:24
+
+μελλει — Pres. Acto. Índico. 3sg - está a punto de / lo hará
+λογίζεσθαι — Pres. Medio/Pase Inf. - contar
+πιστεύουσιν — Pres. Acto. Parte. Dat. masc. pl—creyendo
+ἐγείραντα—Aor. Acto. Parte. Acc. masc. sg—habiendo levantado
+
+4:25
+
+παρεδόθη—Aor. Aprobar. Índico. 3sg - fue entregado
+ἠγέρθη—Aor. Aprobar. Índico. 3sg — fue levantado

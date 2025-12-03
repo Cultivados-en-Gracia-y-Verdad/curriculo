@@ -1,6 +1,6 @@
 ---
 Title: Primera epístola del apóstol Juan
-
+Description: Version 0.6
 ---
 ___-___
 # 1 Juan
