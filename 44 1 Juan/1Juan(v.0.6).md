@@ -192,33 +192,18 @@ ___-___
 
 ##### El amor al mundo y __<u>hacer</u>__ la voluntad de Dios. 1 Juan 2:15-17
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-
-##### El Anticristo y <u>su</u> engaño. 1 Juan 2:18-27
-=======
 ##### El anticristo y __<u>su</u>__ engaño.1 Juan 2:18-27
->>>>>>> Stashed changes
-=======
-##### El anticristo y __<u>su</u>__ engaño.1 Juan 2:18-27
->>>>>>> Stashed changes
-
 #### **Vivir como hijos de Dios** - 1 Juan 2:28-4:6
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-##### Nacidos de Dios y el reflejo <u>de</u> Su pureza. 1 Juan 2:28-3:3
+##### Nacidos de Dios y el reflejo __<u>de</u>__ Su pureza. 1 Juan 2:28-3:3
 
-##### La nueva relación con el <u>pecado</u> y la permanencia en Dios. 1 Juan 3:4-10
+##### La nueva relación con el __<u>pecado</u>__ y la permanencia en Dios. 1 Juan 3:4-10
 
-##### El amor a los hermanos frente al <u>odio</u>. 1 Juan 3:11-18
+##### El amor a los hermanos frente al __<u>odio</u>__. 1 Juan 3:11-18
 
-##### Confianza delante de <u>Dios</u> guardando Sus mandamientos. 1 Juan 3:19-24
+##### Confianza delante de __<u>Dios</u>__ guardando Sus mandamientos. 1 Juan 3:19-24
 
-##### Discernimiento del espíritu de <u>verdad</u> y del error. 1 Juan 4:1-6
-=======
-##### Nacidos de Dios y el reflejo __<u>de</u>__ Su pureza. 1 Juan 2:28–3:3
-=======
+##### Discernimiento del espíritu de __<u>verdad</u>__ y del error. 1 Juan 4:1-6
 ##### Nacidos de Dios y el reflejo __<u>de</u>__ Su pureza. 1 Juan 2:28–3:3
 
 ##### La nueva relación con el __<u>pecado</u>__ y la permanencia en Dios. 1 Juan 3:4–10
@@ -228,48 +213,13 @@ ___-___
 ##### Confianza delante de __<u>Dios</u>__ guardando Sus mandamientos. 1 Juan 3:19–24
 
 ##### Discernimiento del espíritu de __<u>verdad</u>__ y del error. 1 Juan 4:1–6
->>>>>>> Stashed changes
-
-##### La nueva relación con el __<u>pecado</u>__ y la permanencia en Dios. 1 Juan 3:4–10
-
-<<<<<<< Updated upstream
-##### El amor a los hermanos frente al __<u>odio</u>__. 1 Juan 3:11–18
-
-##### Confianza delante de __<u>Dios</u>__ guardando Sus mandamientos. 1 Juan 3:19–24
-
-##### Discernimiento del espíritu de __<u>verdad</u>__ y del error. 1 Juan 4:1–6
->>>>>>> Stashed changes
-
 #### **Dios es amor** - 1 Juan 4:7-5:12
-=======
 ##### Origen y manifestación expresada del __<u>amor</u>__. 1 Juan 4:7–10
 
 ##### Permanencia en el amor de __<u>Dios</u>__ y el amor a los hermanos. 1 Juan 4:11–21
-
 ##### La __<u>fe</u>__ que vence al mundo. 1 Juan 5:1–5
 
 ##### El testimonio triple en el cielo y en la __<u>tierra</u>__. 1 Juan 5:6–12
->>>>>>> Stashed changes
-
-<<<<<<< Updated upstream
-##### Origen y manifestación expresada del <u>amor</u>. 1 Juan 4:7-10
-
-<<<<<<< Updated upstream
-##### Permanencia en el amor de <u>Dios</u> y el amor a los hermanos. 1 Juan 4:11-21
-=======
-##### Origen y manifestación expresada del __<u>amor</u>__. 1 Juan 4:7–10
-
-##### Permanencia en el amor de __<u>Dios</u>__ y el amor a los hermanos. 1 Juan 4:11–21
->>>>>>> Stashed changes
-
-##### La __<u>fe</u>__ que vence al mundo. 1 Juan 5:1–5
-
-<<<<<<< Updated upstream
-##### El testimonio triple en el cielo y en la <u>tierra</u>. 1 Juan 5:6-12
-=======
-##### El testimonio triple en el cielo y en la __<u>tierra</u>__. 1 Juan 5:6–12
->>>>>>> Stashed changes
-
 #### **Epílogo**  1 Juan 5:13-21 
 =======
 ##### Seguridad de la __<u>vida</u>__ eterna para los creyentes. 1 Juan 5:13
@@ -281,58 +231,20 @@ ___-___
 ##### Conocimiento de la santidad, el mundo, el verdadero Dios y la vida __<u>eterna</u>__. 1 Juan 5:18–20
 
 ##### Exhortación __<u>final</u>__ con respecto a la idolatría. 1 Juan 5:21
->>>>>>> Stashed changes
-
-##### Seguridad de la __<u>vida</u>__ eterna para los creyentes. 1 Juan 5:13
-
-<<<<<<< Updated upstream
-##### Confianza en las oraciones y <u>peticiones</u>. 1 Juan 5:14-15
-
-<<<<<<< Updated upstream
-##### Intercesión <u>por</u> el hermano que comete pecado. 1 Juan 5:16-17
-
-##### Conocimiento de la santidad, el mundo, el verdadero Dios y la vida <u>eterna</u>. 1 Juan 5:18-20
-=======
-##### Confianza en las oraciones y __<u>peticiones</u>__. 1 Juan 5:14–15
-
-##### Intercesión __<u>por</u>__ el hermano que comete pecado. 1 Juan 5:16–17
-
-##### Conocimiento de la santidad, el mundo, el verdadero Dios y la vida __<u>eterna</u>__. 1 Juan 5:18–20
->>>>>>> Stashed changes
-
-##### Exhortación __<u>final</u>__ con respecto a la idolatría. 1 Juan 5:21
-
 # 1 Juan 1:1-4 LOS TESTIGOS Y SU MENSAJE
 
 ## 1 Juan 1:1-4 - Juan comienza  anunciando el verbo de vida
 
-<<<<<<< Updated upstream
-### El capítulo uno es escrito en primera persona plural. 
-
-### 1 Juan 1:1a – *"Lo que existía* [era RVR09] *desde el principio…"* Comienza hablando de algo que era <u>desde</u> el principio. "*Lo que existía*" se refiere a un hecho o concepto. El pronombre relativo neutral no describe a una persona. 
-=======
 ### 1 Juan 1:1a – *"Lo que existía* [era RV09] *desde el principio…"* Comienza hablando de algo que era __<u>desde</u>__ el principio. "*Lo que existía*" se refiere a un hecho o concepto. El pronombre relativo neutral no describe a una persona. 
->>>>>>> Stashed changes
-
 #### Pudo haber dicho "El que existía" denotando a una persona específica. Sin embargo vemos que esta __<u>dando</u>__ testimonio de un concepto. Aún no menciona de que se trata. 
 
-<<<<<<< Updated upstream
 #### No es algo nuevo, es algo "*que existía*". No es invento de los que están escribiendo...
 
-### 1 Juan 1:1b - “*...lo que hemos oído...visto con nuestros propios ojos...contemplado, y lo que han tocado nuestras manos…*” Estas cuatro <u>acciones</u> hacen referencia a como Juan y sus compañeros llegaron a conocer a Dios mismo, y no fue por medio de fabulas o cuentos, sino por medio de hechos visibles y palpables. 
-=======
 ### 1 Juan 1:1b – “*...lo que hemos oído...visto con nuestros propios ojos...contemplado, y lo que han tocado nuestras manos…”* Estas cuatro __<u>acciones</u>__ hacen referencia a como Juan y sus compañeros llegaron a conocer a Dios mismo, y no fue por medio de fabulas o cuentos, sino por medio de hechos visibles y palpables. 
->>>>>>> Stashed changes
-
 #### Todos estos verbos están en __<u>plural</u>__, probablemente se refiera a los demás apóstoles como testigos, esto hace un énfasis en la veracidad de estos hechos, no solamente a través de un solo testigo, sino de varios. 
 
-<<<<<<< Updated upstream
-#### Todos ellos dan el mismo mensaje porque eran testigos oculares de lo que hablan. 
-
-#### Juan va personificando el mensaje al <u>decir</u> que lo que han oído, visto, contemplado y palpado, es lo que existía desde el principio. 
-=======
 #### Juan va personificando el mensaje al __<u>decir</u>__ que lo que han oído, visto, contemplado y palpado, es lo que existía desde el principio. 
->>>>>>> Stashed changes
+>
 =======
 ### 1 Juan 1:1a – *"Lo que existía* [era RV09] *desde el principio…"* Comienza hablando de algo que era __<u>desde</u>__ el principio. "*Lo que existía*" se refiere a un hecho o concepto. El pronombre relativo neutral no describe a una persona. 
 
@@ -414,12 +326,7 @@ ___-___
 
 #### ¿Porqué era tan importante __<u>para</u>__ Juan proclamarles la vida eterna? 
 
-<<<<<<< Updated upstream
-### 1 Juan 1:3b – "*para que también ustedes tengan comunión con nosotros…*" La palabra "*comunión*" KOINONIA transmite la idea de compañerismo, de <u>tener</u> en común, de participar de lo mismo.
-=======
 ### 1 Juan 1:3b – *"para que también ustedes tengan comunión con nosotros…"* La palabra "*comunión*" KOINONIA transmite la idea de compañerismo, de __<u>tener</u>__ en común, de participar de lo mismo.
->>>>>>> Stashed changes
-
 #### Juan deseaba que ellos también oigan, __<u>vean</u>__, contemplen y palpen la vida eterna así como ellos. 
 
 <<<<<<< Updated upstream
@@ -498,6 +405,8 @@ ___-___
 
 ## Introducción
 
+1 Juan 1:5–2:29 se lee como un marco sintomático, es decir, Juan está dando pruebas, indicadores y manifestaciones que revelan la verdadera condición espiritual de una persona
+
 1:6–2:29 contiene repetidas declaraciones condicionales, indicadores de evidencia y contrastes diagnósticos, como:
 
 Síntomas de luz vs. oscuridad (1:6–2:11) “*Si decimos…*”, “*Si andamos…*”, “*Si confesamos…*” Amar u odiar a los hermanos, Obediencia vs. desobediencia, Guardar los mandamientos vs. no guardarlos
@@ -520,7 +429,7 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 
 #### Juan se incluye en la siguientes declaraciónes haciendo entender que todas estas situaciones son posibilidades reales en la __<u>vida</u>__ de cualquier creyente. "*si decimos*" (1 Juan 1:6, 8, 10), "*si andamos*", "*si tenemos*" (1 Juan 1:7).
 
-## 1 Juan 1:5 Dios es Luz
+## 1 Juan 1:5 Afirmación fundacional: Dios es Luz
 
 ### 1 Juan 1:5a "*Y este es el mensaje que hemos oído de Él y que les anunciamos…*" Este mensaje procede del Padre “*hemos oído de Él*”. Este __<u>mismo</u>__ mensaje es lo que ahora ellos les anuncian. Juan 1:4-9, 8:12, 9:4-5, 11:9-10
 
@@ -583,7 +492,12 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 ##### Juan habla de dos maneras de __<u>vivir</u>__ (andar en la luz y andar en tinieblas) que demuestran claramente si esta en comunión o no. Estos dos son visibles, evidentes para que uno pueda saber. 
 ##### No es posible que alguien verdaderamente tenga comunión con Dios mientras camina en tinieblas. Para comprender esto mejor, sería __<u>bueno</u>__ poder definir que es para Juan andar en luz y andar en tinieblas.
 
-#### Los medicos son educados para detectar síntomas y así __<u>saber</u>__ cual es la enfermedad y tratarlo adecuadamente. Nosotros de similar manera debemos ser entrenados para detectar síntomas que demuestran nuestro estado espiritual para no quedarnos engañados. 
+#### En el mundo de la medicina, un síntoma es una experiencia subjetiva referida por un paciente, como dolor, fatiga o náuseas, que refleja un cambio percibido en una función o sensación corporal que solo el individuo puede percibir. Un diagnóstico es la identificación de la naturaleza y la causa de una enfermedad, lo que implica determinar la enfermedad o afección específica con base en los hallazgos clínicos, incluyendo tanto los síntomas como los signos.[^6]
+
+##### Los medicos son educados para reconocer síntomas y dar un diagnostico de la enfermedad para tratarlo adecuadamente. Juan desea que los creyentes sean entrenados para detectar síntomas que demuestran nuestro estado espiritual para no quedarnos engañados. 
+
+### **1 Juan 1:6-7 Primer par diagnóstico**
+
 ### 1 Juan 1:6a – "*Si decimos que tenemos comunión con Él, pero andamos en tinieblas,*"  Juan demostrará por __<u>medio</u>__ de un síntoma claro, la verdadera condición de uno ante Dios. Si decimos una cosa...pero andamos en otra cosa...ambos no pueden ser ciertas. No es posible estar en comunión con Dios y a la vez andar en tinieblas porque Dios es luz y en Él no hay tinieblas.  Juan 8:12
 
 #### Esta condición esta en plural, indicando que ellos podrían __<u>hacer</u>__ tal declaración. Esta sería una mentira si su vida no lo respalda. No dice: “*los que dicen*”.
@@ -620,51 +534,6 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 
 ##### Es por ello que podemos apreciar la conclusión de __<u>Juan</u>__ en la siguiente frase...
 
-=======
-
-##### No es posible que alguien verdaderamente tenga comunión con Dios mientras camina en tinieblas. Para comprender esto mejor, sería __<u>bueno</u>__ poder definir que es para Juan andar en luz y andar en tinieblas.
-
-#### Los medicos son educados para detectar síntomas y así __<u>saber</u>__ cual es la enfermedad y tratarlo adecuadamente. Nosotros de similar manera debemos ser entrenados para detectar síntomas que demuestran nuestro estado espiritual para no quedarnos engañados. 
-
-### 1 Juan 1:6a – "*Si decimos que tenemos comunión con Él, pero andamos en tinieblas,*"  Juan demostrará por __<u>medio</u>__ de un síntoma claro, la verdadera condición de uno ante Dios. Si decimos una cosa...pero andamos en otra cosa...ambos no pueden ser ciertas. No es posible estar en comunión con Dios y a la vez andar en tinieblas porque Dios es luz y en Él no hay tinieblas.  Juan 8:12
-
-#### Esta condición esta en plural, indicando que ellos podrían __<u>hacer</u>__ tal declaración. Esta sería una mentira si su vida no lo respalda. No dice: “*los que dicen*”.
-
-#### Las tinieblas son __<u>descritas</u>__ en la Biblia como el dominio bajo el cual los incrédulos andan. Hechos 26:18; Colosenses 1:12-13
-
-#### Sencillamente, si nos conducimos en tinieblas no estamos en comunión con Dios. El propósito de Juan de escribirles a estos hermanos que __<u>conocen</u>__ la verdad,  es ayudarlos a distinguir claramente entre lo que es estar en comunión con Dios y lo que no es estar en comunión con Dios. 
-
-#### El no esta enseñandoles como se __<u>pierde</u>__ la comunión. Ellos ya sabían como andar.  
-
-#### Lo que ellos necesitaban era diferenciar lo verdadero de lo que el gnosticismo __<u>decía</u>__. 
-
-#### Por lo tanto, un creyente que __<u>anda</u>__ en ellas participa de las obras infructuosas de las tinieblas. Efesios 5:11
-
-#### Entonces, ¿cómo __<u>puedo</u>__ reconocer si estoy andando en tinieblas? Juan lo demuestra de las siguientes maneras. 
-
-##### Si no estás practicando la verdad y __<u>andas</u>__ en falsedad, estas andando en tinieblas. 1 Juan 1:6
-
-##### Si dices que no __<u>pecas</u>__, la verdad no está en ti y estás andando en tinieblas. 1 Juan 1:8, 10
-
-##### Si odias a tu hermano, __<u>estás</u>__ caminando en tinieblas. 1 Juan 2:11, 4:20
-
-#### "*Si decimos*" esta en contraste con lo que "*andamos*". Si decimos __<u>estar</u>__ en tinieblas y andamos en tinieblas, es decir la verdad. No es verdad porque lo dijimos sino porque el andar alinea con el decir. El dicho debe coincidir con el hecho. 
-
-#### Si la primera proposición, "Decir que andamos en comunión con Él" es cierto, pero la segunda proposición "andamos en tinieblas" es __<u>falso</u>__, entonces toda la conjuncion es falsa. Para que la conjunción sea verdadera, ambas proposiciones deben ser verdaderas. Si la primera proposición es falso y la segunda proposición es verdadero, la conjunción sigue siendo falso. 
-
-#### Estar en comunión con la luz no puede resultar en tinieblas. Tinieblas no es el resultado de estar en la luz. Comunión con Dios (que es Luz) __<u>resulta</u>__ en un andar de luz. 
-
-#### Entonces, __<u>andar</u>__ en luz no produce comunion con Dios. El andar es resultado de la comunión. 
-
-#### ¿Qué pasa si volcamos el orden? ¿El andar resulta en comunión? Andar en tinieblas, ¿rompe comunión con Dios ó demuestra que no estamos en comunion? Juan __<u>quiere</u>__ aclarar a sus lectores que podían reconocer el hecho de que no estaban en comunion con Dios si andaban en tinieblas. 
-
-#### El andar en tinieblas no es lo que hace que el creyente pierda su comunión con Dios. Juan quiere que sus lectores sepan que es __<u>una</u>__ imposibilidad estar en comunión con Dios y la vez estar andando en tinieblas. 
-
-#### El gnosticismo sin embargo, __<u>estaba</u>__ perfectamente de acuerdo con decir que estamos en comunión aunque a la vez andemos en tinieblas. Esta falsa enseñanza causó mucha confusión entre los creyentes. 
-
-##### Es por ello que podemos apreciar la conclusión de __<u>Juan</u>__ en la siguiente frase...
-
->>>>>>> Stashed changes
 ### 1 Juan 1:6a "*...mentimos y no practicamos la verdad*".  Al decir que estamos en comunión __<u>pero</u>__ a la vez andamos en tienieblas, mentimos y nos engañamos a nostros mismos. 
 
 #### "*mentimos*" PSEUDOMAI  es decir una mentira; fingir con intención de engañar. La gramática (presente, media/pasiva, indicativo, 1 persona plural) nos indica que se podría traducir, "nos estamos mintiendo" o "estamos mintiendonós". 
@@ -678,8 +547,6 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 ##### Los gnósticos afirmaban, "*tenemos comunión con Él*" (1 Juan 1:6), y que "*no tenemos pecado*" (1 Juan 1:8, 10). Creían poseer una __<u>justicia</u>__ especial aparte de la sangre purificadora de Cristo (1 Juan 1:7, 1:9). Además, creían practicar continuamente la justicia (1 Juan 3:7). 
 
 ###### Ireneo dijo lo siguiente __<u>respecto</u>__ a los gnósticos: "Y cometiendo muchas otras abominaciones e impiedades, nos tachan de personas completamente despreciables e ignorantes, mientras que ellos se exaltan a sí mismos y afirman ser perfectos, y la semilla elegida"[^1]
-
-## 1 Juan 1:7 El andar visible estando en comunión con Dios
 
 ### 1 Juan 1:7a - *Pero si andamos en luz como él está en la luz…*En contraste al andar en tinieblas, Juan presenta otra alternativa. Se trata de __<u>andar</u>__ en luz. Dios es luz y está (presente, activo, indicativo) en la luz. 
 
@@ -735,7 +602,7 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 
 ##### Experimentamos limpieza de __<u>todo</u>__ pecado (presente y contínuo). 
 
-## 1 Juan 1:8 El andar de tinieblas continuado...
+## 1 Juan 1:8-9 El segundo par diagnostico
 
 ### 1 Juan 1:8 - *Si decimos que no tenemos pecado, nos engañamos a nosotros mismos* ¿porqué nos engañariamos a nosotros mismos? En el versículo 6 vimos como los creyentes que en realidad andaban en __<u>tinieblas</u>__ (aunque decian que tenían comunión con Dios) se mentían y no practicaban la verdad. 1 Juan 1:6
 
@@ -755,9 +622,9 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 
 ##### ¿Pero que __<u>sucede</u>__ cuando andamos en la luz?
 
-## 1 Juan 1:9 Confesar nuestros pecados es permanecer en la luz
+### 1 Juan 1:9a – *“Si confesamos*" el autor se incluye en esta expresión...la confesión aquí indica una acción contínua para el creyente. ¿Por qué? "*Confesamos*" esta en tiempo presente, activo, subjuntivo. Debemos __<u>notar</u>__ que esto no es un imperativo, sino es algo que **podría** estar pasando (subjuntivo). 
 
-### Tomaremos un momento para __<u>mirar</u>__ diferentes puntos de vista sobre la confesión de pecados. Existen 5 puntos de vista principales sobre la confesión de pecados. 
+#### Tomaremos un momento para __<u>mirar</u>__ diferentes puntos de vista sobre la confesión de pecados. Existen 5 puntos de vista principales sobre la confesión de pecados. 
 
 > ##### **Perspectiva #1: La confesión como medio de salvación**: La confesión es el reconocimiento del pecado que __<u>conduce</u>__ al perdón inicial y la purificación en la conversión.  Confesión de pecados expresa la condición para la salvación: estar de acuerdo con Dios acerca del pecado y confiar en su purificación a través de Cristo. Una vez confesado, la persona queda purificada y entra en comunión con Dios.
 
@@ -768,8 +635,6 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 >##### **Perspectiva #4: Confesión como práctica eclesial**: La confesión ocurre dentro de la comunidad como parte de la vida y el __<u>culto</u>__ compartido. Mantiene la pureza y la comunión comunitaria mediante el reconocimiento mutuo. Los verbos en plural (“confesamos…tenemos…”) implican confesión corporativa. Vinculado a la confesión pública o mutua practicada en las asambleas cristianas primitivas.
 
 >##### **Perspectiva #5: La confesión como alineación con la verdad**: La confesión es estar de acuerdo con la luz de Dios, viviendo así en la realidad tal como Dios la define. No es una condición para el perdón, sino una manifestación de que ya se vive en la verdad. Describe el carácter de quienes están en la luz: quienes __<u>dicen</u>__ la verdad en lugar de negar el pecado. El perdón es la acción divina continua que acompaña a esta veracidad. “Confesamos porque vivimos en la verdad”.[^2]
-
-### 1 Juan 1:9a – *“Si confesamos*" el autor se incluye en esta expresión...la confesión aquí indica una acción contínua para el creyente. ¿Por qué? "*Confesamos*" esta en tiempo presente, activo, subjuntivo. Debemos __<u>notar</u>__ que esto no es un imperativo, sino es algo que **podría** estar pasando (subjuntivo). 
 
 #### "*Confesión*" HOMOLOGEO es una palabra que equivale literalmente a __<u>decir</u>__ lo mismo. El que confiesa dice lo mismo que dice Dios. Tito 1:16; Mateo 14:7, 10:32
 
@@ -853,7 +718,7 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 
 #### Es porque Dios se involucra en nuestras vidas que podemos caminar en la luz y participar de su vida. Nunca es al revés, no podemos __<u>mirar</u>__ lo que hacemos por Dios o para con Dios, y que Él responda. 1 Corintios 15:10
 
-## 1 Juan 1:10 Negar nuestro pecado demuestra que no estamos en la luz
+## 1 Juan 1:10-2:2 Tercer par diagnostico: Negar nuestro pecado demuestra que no estamos en la luz
 
 ### 1 Juan 1:10 – *Si decimos que no hemos __<u>pecado</u>__, lo hacemos a él mentiroso y su Palabra no está en nosotros.* En esta última condición, Juan presenta el caso de alguien que termina haciendo a Dios mentiroso. Primero mentimos v6, luego nos engañamos a nosotros mismos v8, pero luego nos oponemos directamente a Dios, llamándolo mentiroso y contradiciendo su Palabra.
 
@@ -869,11 +734,7 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 
 ##### En los siguientes versículos Juan comenzará a presentar la solución de Dios para nuestros pecados, y esto nos __<u>lleva</u>__ a la siguiente sección.
 
-# 1 Juan 2:1-17 ASÍ COMO ÉL ANDUVO
-
-## 1 Juan 2:1-6 – Las provisión de Dios para una vida, y cómo esta se ve
-
-### 1 Juan 2:1-6 – Juan ahora mostrara a Cristo __<u>como</u>__ la solución para nuestros pecados, en Él se halla el poder para andar en __<u>victoria</u>__. Juan nos mostrará los resultados de su intercesión, el conocerlo. 
+### 1 Juan 2:1-2 – Propósito y provisión: Juan ahora mostrara a Cristo __<u>como</u>__ la solución para nuestros pecados, en Él se halla el poder para andar en __<u>victoria</u>__. Juan nos mostrará los resultados de su intercesión, el conocerlo. 
 
 ### 1 Juan 2:1a – *Hijitos míos…*  Juan se dirigirse personalmente, y comienza a referirse a sus destinatarios con algunos términos que muestran una relación __<u>cercana</u>__ e íntima con ellos. 
 
@@ -921,7 +782,11 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 
 #### Es entonces debido a la intercesión continua de Cristo como propiciación por nuestros pecados, que los creyentes hallan acceso continuo al Padre y disfrutan de una comunión con Él. Siempre la relación que Dios y el Hombre disfrutan es en __<u>base</u>__ a la provisión de Dios el Padre en la persona de Su Hijo Jesucristo para nosotros.
 
-## 1 Juan 2:3-6 – Permanecer en Cristo
+#### 1 Juan 2:1-2 concluye las primeras 6 pruebas condicionales. 1 Juan 1:6-10
+
+## 1 Juan 2:3-6 – La obediencia como síntoma
+
+Primero mostrará la formula para un diagnostico generál (2:3), luego un síntoma negativo (2:4), procede a un síntoma positivo (2:5) para luego concluir su diagnóstico (2:6). 
 
 ### Alguien podría decir, entonces simplemente no tengo que pecar, y estoy bien con Dios, y justamente para eso, Juan mostrará que hemos sido salvados por Dios **para** participar de Su vida, y Su vida no consiste en dejar de pecar. Una vida abundante no es solamente dejar de __<u>pecar</u>__, sino que podemos vivir a Cristo y esto es justamente lo que expresaron los apóstoles cuando hablaron de ver, oír, contemplar y palpar el verbo de vida.
 
@@ -969,7 +834,7 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 
 #### Entonces, ¿Cómo anduvo Él?
 
-## 1 Juan 2:7-11 - Una vida de amor
+## 1 Juan 2:7-11 - Introduciendo el siguiente síntoma: Una vida de amor
 
 ### 1 Juan 2:7a - "*Amados...*" Juan nuevamente usa un término cariñoso para referirse a los destinatarios. Lo hará varias veces a lo largo del libro. Esto muestra que __<u>Juan</u>__ tiene las mejores intenciones para ellos al comunicarles la verdad.
 
@@ -1011,7 +876,7 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 
 ### 1 Juan 2:11 – *Pero el que aborrece a su hermano, está en tinieblas y anda en tinieblas, y no sabe a dónde va, porque las tinieblas han cegado sus ojos.* Juan concluye que aquel que está odiando a su hermano (es decir el caso de un creyente), es porque las tinieblas han tomado __<u>control</u>__ sobre su vida, y en lugar de andar como el anduvo, no sabe ni a donde va.
 
-## 1 Juan 2:12-17 
+## 1 Juan 2:12-14 Un parentesis pastoral. Afirmaciónes indicativas. 
 
 #### Juan dijo arriba porque las tinieblas van pasando y la luz verdadera ya está alumbrando. Esto es real de este __<u>mundo</u>__ y lo que nosotros somos como hijos de Dios en este mundo.
 
@@ -1061,7 +926,9 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 
 #### Que bendiciones tremendas para con Dios, y en esta vida que tenemos en la persona de Jesucristo. Haríamos bien en conocerlas, y __<u>vivir</u>__ por ellas. Filipenses 3:7-12, 2 Pedro 1:3
 
-## 1 Juan 2:15-17 - Habiendo ahora considerado todo aquello que somos y todo aquello que por medio de Cristo se ha convertido en nuestra realidad, Juan dará el primer imperativo en la Carta. No hemos sido creados en Cristo para una vida que pasa, sino una que permanece para siempre.
+## 1 Juan 2:15-17 - El amor al mundo como síntoma
+
+Empieza esta sección haciendo una prohibición imperativa (2:15a), luego un diagnostico condicional (2:15b), luego da un explicativo describiendo los componentes del mundo usando tres nominativos (2:16) y termina con un diagnóstico contrastivo (2:17). 
 
 ### 1 Juan 2:15a – *No amen al mundo ni las cosas que están en el mundo.* Como creyentes no debemos amar este mundo, ni nada de las cosas que este mundo __<u>posee</u>__.
 
@@ -1121,7 +988,7 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 
 # 1 Juan 2:18-27 Síntomas de la verdad versus la decepción 
 
-## 1 Juan 2:18-20 – Advertencia en cuanto a la presencia de falsos maestros 
+## 1 Juan 2:18-23 – Anticristos como síntoma: Advertencia en cuanto a la presencia de falsos maestros 
 
 ### 1 Juan 2:18a – *Hijitos, es la última hora…* La advertencia de Juan comienza mostrando el tiempo que estamos viviendo. Habiendo advertido de lo pasajero que es este __<u>mundo</u>__, y comparado esto con la vida eterna que podemos experimentar, es importante saber que tiempos vivimos. 1 Timoteo 4:1; 1 Pedro 4:7; 2 Juan 7
 
@@ -1279,9 +1146,7 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 
 #### Eran creyentes que habían sido enseñados, pero eso no los hacía exentos de haber caído en el error. Debemos permanecer en Cristo ya que él es __<u>nuestra</u>__ única fortaleza.
 
-# 1 Juan 2:28-29 - Síntomas de justicia versus injusticia
-
-## 1 Juan 2:28-29 – Permanezcan en él
+## 1 Juan 2:28-29 - Síntomas de justicia versus injusticia
 
 ### Ya que Dios nos ha prometido la vida eterna, podemos tener esperanza hacia el futuro, por eso Juan nos animará llevándonos a considerar la futura manifestación de Cristo, y como __<u>debería</u>__ ser nuestra respuesta a ella.
 
@@ -1326,6 +1191,36 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 #### Concluimos entonces en que el creyente que permanece en Cristo, producirá la justicia de Cristo como fruto, este creyente que vive de tal forma, podrá __<u>vivir</u>__ esperando ansiosamente la manifestación de Cristo. Juan 15:1-8
 
 #### El creyente que no permanece en Cristo, será sorprendido por la manifestación de Cristo, hallado __<u>desnudo</u>__, y será avergonzado delante de él. Aunque no pierde su salvación, se perdió la oportunidad de vivir a Cristo ahora. Mateo 16:25-26, 1 Corintios 3:10-15
+
+## Resumen de la sección sintomática (1 Juan 1:5-2:29). Flujo completo de síntomas y diagnóstico basado en la gramática. 
+
+#### Premisa: Declaración indicativa sobre Dios (1:5).
+
+#### Seis pruebas condicionales: 1:6-10.
+
+#### Diagnósticos conductuales/condicionales: 2:3-6.
+
+#### Diagnósticos relacionales (amor/odio): 2:7-11.
+
+#### Pausa indicativa (sin pruebas): 2:12-14.
+
+#### Diagnóstico imperativo + condicional (amor al mundo): 2:15-17.
+
+#### Diagnóstico de conducta → identidad (desviación/negación): 2:18-23.
+
+#### Unción + diagnóstico condicional: 2:24-27.
+
+#### Diagnóstico de conducta justa: 2:28-29.
+
+### NOTA: Cada diagnóstico se desencadena gramaticalmente por:
+
+#### ἐάν + subjuntivo
+
+#### ὁ λέγων / ὁ ποιῶν / ὁ μισῶν fórmulas participiales
+
+#### imperativos que conducen a cláusulas de consecuencias
+
+#### Resultados indicativos que identifican luz/oscuridad o verdad/error.
 
 ## 1 Juan 3:1-2 – Miren el amor que nos ha dado el Padre
 
@@ -2222,3 +2117,4 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 [^3]: Bible Sense Lexicon
 [^4]: Vocabulary of the Greek Testament
 [^5]: La crítica textual del Nuevo Testamento.
+[^6]: Consensus, https://search.brave.com/search?q=what+is+the+difference+between+a+symptom+and+a+diagnosis&source=desktop&summary=1&conversation=3dd1ce31cd8c5365e829ad#:~:text=A%20symptom%20is,symptoms%20and%20signs.
