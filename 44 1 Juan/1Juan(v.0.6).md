@@ -38,29 +38,11 @@ ___-___
 
 ## Situación interna de la Iglesia
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-
-### Entender la situación interna de la Iglesia en el <u>momento</u> que se escribió 1 de Juan es clave para comprender sus motivos de escribirles y lo que estaban enfrentando los creyentes.
-=======
-### Entender la situación interna de la iglesia en el __<u>momento</u>__ que se escribió 1 de Juan es clave para comprender sus motivos de escribirles y lo que estaban enfrentando los creyentes.
->>>>>>> Stashed changes
-
-### Las iglesias enfrentaban el desafío de mantener la enseñanza __<u>transmitida</u>__ por los apóstoles fielmente.
-
-<<<<<<< Updated upstream
-### Enfrentaban una división interna debido a las falsas enseñanzas, distorsionando el mensaje acerca de Jesús hecho carne, al punto de negar que Jesús es el <u>Cristo</u>. 1 Juan 2:18-23, 4:1-3
-=======
-### Enfrentaban una división interna debido a las falsas enseñanzas, distorsionando el mensaje acerca de Jesús hecho carne, al punto de negar que Jesús es el __<u>Cristo</u>__. (1 Juan 2:18-23; 4:1-3).
->>>>>>> Stashed changes
-=======
 ### Entender la situación interna de la iglesia en el __<u>momento</u>__ que se escribió 1 de Juan es clave para comprender sus motivos de escribirles y lo que estaban enfrentando los creyentes.
 
 ### Las iglesias enfrentaban el desafío de mantener la enseñanza __<u>transmitida</u>__ por los apóstoles fielmente.
 
 ### Enfrentaban una división interna debido a las falsas enseñanzas, distorsionando el mensaje acerca de Jesús hecho carne, al punto de negar que Jesús es el __<u>Cristo</u>__. (1 Juan 2:18-23; 4:1-3).
->>>>>>> Stashed changes
-
 #### Las __<u>doctrinas</u>__ como el Gnosticismo enseñaban que la materia era mala y el espíritu bueno, negaban que Jesús vino en un cuerpo físico de carne y hueso (docetismo).
 
 ### Existían confusiones en relación al pecado (1 Juan 1:8), guardar sus mandamientos (1 Juan 2:4)  y permanecer en él (1 Juan 2:6), las falsas enseñanzas que afectaron de manera __<u>visible</u>__ y práctica en su andar.
@@ -95,28 +77,11 @@ ___-___
 
 #### Jesús reprende a Jacobo y Juan al principio de __<u>su</u>__ ministerio. Lucas 9:49, 54
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-### Juan entendió su profunda relación de amor con la que Jesús los había <u>amado</u>  Juan 13:1, y desde ese momento se describe como el discípulo amado. Juan 13:23, 19:26, 20:2, 21:7, 20
-
-### Durante la crucificción de Jesús, Él confió el cuidado de su <u>madre</u> María a Juan. Juan 19:26-27
-=======
 ### Juan entendió su profunda relación de amor con la que Jesús los había __<u>amado</u>__  Juan 13:1 , y desde ese momento se describe como el discípulo amado. Juan 13:23, 19:26, 20:2, 21:7, 20
 
 ### Durante la crucificción de Jesús, Él confió el cuidado de su __<u>madre</u>__ María a Juan. Juan 19:26–27
->>>>>>> Stashed changes
-
 ### Después de la resurrección, Juan fue uno de los __<u>primeros</u>__ testigos de ver el sepulcro donde lo enterraron vacío y movida la piedra. Juan 20:1–9
 
-<<<<<<< Updated upstream
-### Juan y Pedro fueron al templo y realizaron un milagro con un cojo en el nombre de Jesús y todos se admiraron Hechos 3:1-10 , fueron arrestados por que enseñaban al <u>pueblo</u> y anunciaban en Jesús la resurrección Hechos 4:1-22 , fueron enviados por los apóstoles a Samaria para confirmar la fe de los creyentes y anunciaron el evangelio en muchas aldeas de los samaritanos. Hechos 8:14-25
-=======
-### Juan y Pedro fueron al templo y realizaron un milagro con un cojo en el nombre de Jesús y todos se admiraron Hechos 3:1-10 , fueron arrestados por que enseñaban al __<u>pueblo</u>__ y anunciaban en Jesús la resurrección Hechos 4:1-22 , fueron enviados por los apóstoles a Samaria para confirmar la fe de los creyentes y anunciaron el evangelio en muchas aldeas de los samaritanos. Hechos 8:14–25
->>>>>>> Stashed changes
-
-### Juan fue desterrado por causa de la palabra de Dios y del testimonio de Jesús a la isla de Patmos (Apocalipsis 1:9) por el emperador Domiciano, alrededor del año 98 d.C esperando que muriera allí, en esta isla fue donde tuvo las visiones que lo llevaron a __<u>escribir</u>__ el libro de Apocalipsis (Apocalipsis 1:19).
-
-=======
 ### Juan entendió su profunda relación de amor con la que Jesús los había __<u>amado</u>__  Juan 13:1 , y desde ese momento se describe como el discípulo amado. Juan 13:23, 19:26, 20:2, 21:7, 20
 
 ### Durante la crucificción de Jesús, Él confió el cuidado de su __<u>madre</u>__ María a Juan. Juan 19:26–27
@@ -127,21 +92,11 @@ ___-___
 
 ### Juan fue desterrado por causa de la palabra de Dios y del testimonio de Jesús a la isla de Patmos (Apocalipsis 1:9) por el emperador Domiciano, alrededor del año 98 d.C esperando que muriera allí, en esta isla fue donde tuvo las visiones que lo llevaron a __<u>escribir</u>__ el libro de Apocalipsis (Apocalipsis 1:19).
 
->>>>>>> Stashed changes
 ### No existe registro bíblico de su muerte, sin embargo según los historiadores (Ireneo, Eusebio, Jerónimo) afirman que murió en paz en Éfeso sin ser martirizado __<u>como</u>__ los otros apóstoles.
 
 ## Escritos atribuidos a Juan
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-### **Evangelio según Juan** Fue escrito alrededor de los años 80-90 d.C, revela a Jesús como el hijo de Dios a todo el mundo para que <u>crean</u>  y creyendo tengan vida eterna.
-=======
 ### **Evangelio según Juan** Fue escrito alrededor de los años 80–90 d.C, revela a Jesús como el hijo de Dios a todo el mundo para que __<u>crean</u>__  y creyendo tengan vida eterna.
->>>>>>> Stashed changes
-=======
-### **Evangelio según Juan** Fue escrito alrededor de los años 80–90 d.C, revela a Jesús como el hijo de Dios a todo el mundo para que __<u>crean</u>__  y creyendo tengan vida eterna.
->>>>>>> Stashed changes
-
 ### Las epístolas de Juan fueron escritas alrededor de los años 85–95 d.C en Éfeso __<u>según</u>__ historiadores de los siglos I y II. 
 
 #### **Primera epístola de Juan** Les muestra a Jesús como el verbo, con el fin que puedan estar en la luz, mostrando comunión con los creyentes y venciendo al __<u>mundo</u>__ por medio de la permanecer en él.
@@ -221,7 +176,6 @@ ___-___
 
 ##### El testimonio triple en el cielo y en la __<u>tierra</u>__. 1 Juan 5:6–12
 #### **Epílogo**  1 Juan 5:13-21 
-=======
 ##### Seguridad de la __<u>vida</u>__ eterna para los creyentes. 1 Juan 5:13
 
 ##### Confianza en las oraciones y __<u>peticiones</u>__. 1 Juan 5:14–15
@@ -240,39 +194,15 @@ ___-___
 
 #### No es algo nuevo, es algo "*que existía*". No es invento de los que están escribiendo...
 
-### 1 Juan 1:1b – “*...lo que hemos oído...visto con nuestros propios ojos...contemplado, y lo que han tocado nuestras manos…”* Estas cuatro __<u>acciones</u>__ hacen referencia a como Juan y sus compañeros llegaron a conocer a Dios mismo, y no fue por medio de fabulas o cuentos, sino por medio de hechos visibles y palpables. 
-#### Todos estos verbos están en __<u>plural</u>__, probablemente se refiera a los demás apóstoles como testigos, esto hace un énfasis en la veracidad de estos hechos, no solamente a través de un solo testigo, sino de varios. 
-
-#### Juan va personificando el mensaje al __<u>decir</u>__ que lo que han oído, visto, contemplado y palpado, es lo que existía desde el principio. 
->
-=======
-### 1 Juan 1:1a – *"Lo que existía* [era RV09] *desde el principio…"* Comienza hablando de algo que era __<u>desde</u>__ el principio. "*Lo que existía*" se refiere a un hecho o concepto. El pronombre relativo neutral no describe a una persona. 
-
-#### Pudo haber dicho "El que existía" denotando a una persona específica. Sin embargo vemos que esta __<u>dando</u>__ testimonio de un concepto. Aún no menciona de que se trata. 
-
-### 1 Juan 1:1b – “*...lo que hemos oído...visto con nuestros propios ojos...contemplado, y lo que han tocado nuestras manos…”* Estas cuatro __<u>acciones</u>__ hacen referencia a como Juan y sus compañeros llegaron a conocer a Dios mismo, y no fue por medio de fabulas o cuentos, sino por medio de hechos visibles y palpables. 
-
-#### Todos estos verbos están en __<u>plural</u>__, probablemente se refiera a los demás apóstoles como testigos, esto hace un énfasis en la veracidad de estos hechos, no solamente a través de un solo testigo, sino de varios. 
-
-#### Juan va personificando el mensaje al __<u>decir</u>__ que lo que han oído, visto, contemplado y palpado, es lo que existía desde el principio. 
->>>>>>> Stashed changes
-
 ### 1 Juan 1:1b – "*...lo que hemos oído,*" El mensaje se recibió de __<u>forma</u>__ audible. El verbo en tiempo perfecto comunica que lo habían escuchado y todavía continúa como algo escuchado.
+
+#### Estas cuatro __<u>acciones</u>__ hacen referencia a como Juan y sus compañeros llegaron a conocer a Dios mismo, y no fue por medio de fabulas o cuentos, sino por medio de hechos visibles y palpables. 
 
 #### La expresión “*Hemos oído*” __<u>Indica</u>__ que es un mensaje que no provino de ellos mismos sino de otro. 
 
 ### 1 Juan 1:1b "*lo que hemos visto con nuestros propios ojos...*" Esto indica una experiencia personal y visual: Es algo vívido y real. Son testigos oculares del __<u>hecho</u>__. 
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-### 1 Juan 1:1b "*lo que hemos contemplado...*" Y no <u>solo</u> visto, sino examinado y contemplado de cerca. 
-=======
 ### 1 Juan 1:1b "*lo que hemos contemplado...*" Y no __<u>solo</u>__ visto, sino examinado y contemplado de cerca.
->>>>>>> Stashed changes
-=======
-### 1 Juan 1:1b "*lo que hemos contemplado...*" Y no __<u>solo</u>__ visto, sino examinado y contemplado de cerca.
->>>>>>> Stashed changes
-
 #### "*Contemplar*" es THEAOMAI significa contemplar algo que __<u>estimula</u>__ las facultades morales y mentales de una manera impresionante (y a menudo asombrosa).[^3]
 
 #### La voz media comunica que __<u>ellos</u>__ se beneficiaron de lo que contemplaron. 
@@ -285,63 +215,15 @@ ___-___
 
 #### ¿De que se trata el __<u>verbo</u>__ LOGOS de vida?
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-##### "*el verbo*" es un sustantivo, genitivo y se refiere a todo el Evangelio, no a Cristo mismo personalmente como lo evidencia el <u>genitivo</u> añadido "*de vida*"; El genitivo indica lo perteneciente a la vida. Luego veremos que es la vida que se manifestó y no el verbo. Hechos 1:8
-
-###### Ellos no hablaban un mensaje que no habían experimentado. 
-
-###### Cuando Ó LOGOS se usa personalmente (Juan 1:1, 4, 1:14), el término es absoluto. Aquí LOGOS es sustantivo nominativo y lleva el <u>artículo</u> definido el Ó. 
-=======
 ##### "*el verbo*" es un sustantivo, genitivo y se refiere a todo el Evangelio, no a Cristo mismo personalmente, como lo evidencia el __<u>genitivo</u>__ añadido "*de vida*"; El genitivo indica lo perteneciente a la vida. Luego veremos que es la vida que se manifestó y no el verbo. 
 
 ###### Cuando Ó LOGOS se usa personalmente (Juan 1:1, 1:14), el término es absoluto. Aquí LOGOS es sustantivo nominativo y lleva el __<u>artículo</u>__ definido el Ó. 
->>>>>>> Stashed changes
-
 ##### Ellos son testigos experienciales de la vida. Vieron, oyeron, palparon la vida de primera mano. Experimentaron la __<u>vida</u>__. 1 Juan 2:24-25; 1 Juan 1:2
-
-<<<<<<< Updated upstream
-### 1 Juan 1:2a - *"y la vida se manifestó* [fue manifestada RVR09]” *Dios se había encargado de enviar y revelar la vida <u>misma</u>*. Mateo 16:16-17
-
-### 1 Juan 1:2b - "*...nosotros la hemos visto, y damos testimonio y les anunciamos a ustedes la vida eterna...*" El dar testimonio muestra el hecho de solamente ser testigos y estar comunicando la vida habían experimentado, no que lo habían <u>creado</u>. Ellos habian conocido de primera mano  la vida eterna.
-
-### 1 Juan 1:2c *…la vida eterna que estaba con el Padre...* esta vida eterna (calidad de vida) que experimentaron de parte del <u>Padre</u> es en realidad conocerlo a Él. Juan 17:3
-=======
-### 1 Juan 1:2a - *"y la vida se manifestó* [fue manifestada RV09]*” Dios se había encargado de enviar y revelar la vida __<u>misma</u>__. Mateo 16:16-17
-
-### 1 Juan 1:2b - *"...nosotros la hemos visto, y damos testimonio y les anunciamos a ustedes la vida eterna..."* El dar testimonio muestra el hecho de solamente ser testigos y estar comunicando la vida habían experimentado, no que lo habían __<u>creado</u>__. Ellos habian conocido de primera mano  la vida eterna.
-
-### 1 Juan 1:2c *…la vida eterna que estaba con el Padre…*esta vida eterna (calidad de vida) que experimentaron de parte del __<u>Padre</u>__ es en realidad conocerlo a Él. Juan 17:3; 1 Juan 
->>>>>>> Stashed changes
 
 #### La vida eterna estaba (imperfecto, activo, indicativo) lo que __<u>indica</u>__ que la vida eterna ya estaba (desde el principio) hasta un momento del pasado con el Padre. 
 
 #### La vida eterna proviene del __<u>Padre</u>__. Juan 5:26, 6:57
 
-### 1 Juan 1:2d "*...y se manifestó a nosotros.*" En el pasado la vida eterna "*estaba con el Padre*". Ahora se manifestó (aoristo, pasivo, indicativo) a nosotros. __<u>Dios</u>__ les manifestó la vida eterna. 
-
-### 1 Juan 1:3a – "*Lo que hemos visto y oído les proclamamos también a ustedes,*" Antes la vida estaba con el Padre, luego Dios se los manifestó, __<u>ahora</u>__ ellos se lo proclaman.  
-
-#### "*proclamar*" APANGELLO - informar a alguien del mensaje de otra persona; a veces sin ninguna idea definida de la __<u>fuente</u>__ del mensaje.[^3]
-
-#### ¿Porqué era tan importante __<u>para</u>__ Juan proclamarles la vida eterna? 
-
-### 1 Juan 1:3b – *"para que también ustedes tengan comunión con nosotros…"* La palabra "*comunión*" KOINONIA transmite la idea de compañerismo, de __<u>tener</u>__ en común, de participar de lo mismo.
-#### Juan deseaba que ellos también oigan, __<u>vean</u>__, contemplen y palpen la vida eterna así como ellos. 
-
-<<<<<<< Updated upstream
-#### Es bueno ver este pasaje para <u>poder</u> comprender más apropiadamente lo que es la comunión y el uso que Juan le da. 
-
-##### Es interesante que el único lugar que aparece la palabra comunión solo aparece en el capítulo 1. 
-=======
-#### Es bueno ver este pasaje para __<u>poder</u>__ comprender más apropiadamente lo que es la comunión y el uso que 1 Juan le da. 
->>>>>>> Stashed changes
-
-##### En la Escritura vemos la comunión que compartimos es un una sola salvación en nuestro Señor Jesucristo y los que estarían excluidos de esto __<u>serían</u>__ los incrédulos. 2 Corintios 13:14 
-
-##### A veces se tiene el concepto de comunión __<u>unos</u>__ con otros en base a compartir alguna actividad en la iglesia. 
-
-<<<<<<< Updated upstream
 ##### Si decimos, como está tu comunión con tu iglesia, generalmente significa, ¿Cuanto asistes a tu iglesia? 
 
 ##### Pero ¿Como se esta explicando la comunión __<u>entre</u>__ hermanos en 1 Juan? ¿Como era posible esta comunión?
@@ -380,7 +262,6 @@ ___-___
 ##### A veces se tiene el concepto de comunión __<u>unos</u>__ con otros en base a compartir alguna actividad en la iglesia. 
 
 ##### Pero ¿Como se esta explicando la comunión __<u>entre</u>__ hermanos en 1 Juan? ¿Como era posible esta comunión?
->>>>>>> Stashed changes
 
 #### __<u>Vemos</u>__ que los apóstoles anunciaban la vida eterna, porque solo esa vida es lo que podría llevarlos a participar a los lectores de una comunión con ellos. 
 
@@ -397,8 +278,6 @@ ___-___
 #### Solo por medio de una correcta comprensión y conocimiento de lo que es vida, el creyente puede disfrutar __<u>plenamente</u>__.
 
 #### Este gozo, es el gozo de Cristo, del que podemos participar. Juan 15:11 dice: “*Estas cosas les he hablado, para que Mi gozo esté en __<u>ustedes</u>__, y su gozo sea perfecto*”.
->>>>>>> Stashed changes
-
 ##### Hoy muchos basan la comunión con Dios por medio de lo que ellos hacen por Dios y esperan algún día experimentar el __<u>gozo</u>__ de esto. Pero el verdadero gozo solo viene por medio de experimentar la vida que proviene de Dios. 2 Pedro 1:3-4
 
 # 1 Juan 1:5-2:29 SINTOMAS DE ANDAR EN LA LUZ
