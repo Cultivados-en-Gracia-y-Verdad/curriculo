@@ -1922,15 +1922,15 @@ Efecto: Su condenación es justa.
 
 ##### Y la gracia es de Dios porque ha sido provista en lo que hizo Cristo. 
 
-### Romanos 3:25a "*a quien Dios exhibió públicamente*" 
+### Romanos 3:25a "*a quien Dios exhibió públicamente como propiciación*" Dios mismo puso en exhibición pública a Cristo Jesús siendo propiciación. 
 
-### Romanos 3:25b "*como propiciación*"
+#### exhibió ENDEIZIN  demostración, exhibición, evidencia.
 
-### Romanos 3:25c "*por Su sangre*"
+### Romanos 3:25b "*por Su sangre*" Su sangre es el instrumento por el cual es hecha la pherpropiciación. 
 
-### Romanos 3:25d "*a través de la fe,*"
+### Romanos 3:25c "*a través de la fe...*" la fe es el medio por el cual lo expuesto tiene efecto o se accede a él.
 
-### Romanos 3:25e "*como demostración de Su justicia,*"
+### Romanos 3:25e "*como demostración de Su justicia,*" la demostración de Su justicia nos ayuda entender Su propósito.  La demostración concierne Su justicia. 
 
 ### Romanos 3:25f *porque en Su tolerancia,*
 

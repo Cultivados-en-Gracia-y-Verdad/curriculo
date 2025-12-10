@@ -503,8 +503,6 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 
 ## En Síntesis (1:5-7)
 
-##### 
-
 ## 1 Juan 1:8-10 El segundo ciclo: La prueba del engaño
 
 ### 1 Juan 1:8 - *Si decimos que no tenemos pecado, nos engañamos a nosotros mismos* ¿porqué nos engañariamos a nosotros mismos? En el versículo 6 vimos como los creyentes que en realidad andaban en __<u>tinieblas</u>__ (aunque decian que tenían comunión con Dios) se mentían y no practicaban la verdad. 1 Juan 1:6
@@ -829,7 +827,7 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 
 ### 1 Juan 2:11 – *Pero el que aborrece a su hermano, está en tinieblas y anda en tinieblas, y no sabe a dónde va, porque las tinieblas han cegado sus ojos.* Juan concluye que aquel que está odiando a su hermano (es decir el caso de un creyente), es porque las tinieblas han tomado __<u>control</u>__ sobre su vida, y en lugar de andar como el anduvo, no sabe ni a donde va.
 
-En Síntesis ()
+## En Síntesis (2:7-11)
 
 ### Symptoms:
 
@@ -897,13 +895,21 @@ En Síntesis ()
 
 #### Que bendiciones tremendas para con Dios, y en esta vida que tenemos en la persona de Jesucristo. Haríamos bien en conocerlas, y __<u>vivir</u>__ por ellas. Filipenses 3:7-12, 2 Pedro 1:3
 
-## 1 Juan 2:15-17 - El amor al mundo como síntoma
+## 1 Juan 2:15-17 - El amor al mundo como síntoma de no estar en la luz
 
-Empieza esta sección haciendo una prohibición imperativa (2:15a), luego un diagnostico condicional (2:15b), luego da un explicativo describiendo los componentes del mundo usando tres nominativos (2:16) y termina con un diagnóstico contrastivo (2:17). 
+### Juan acaba de describir a su audiencia como: “*niños*”, “*padres*”, y "*jóvenes*”. Todo descrito en términos de: conociendo al Padre, venciendo al maligno, teniendo la palabra permaneciendo en ellos. Estos rasgos de identidad forman la base del mandato de 2:15–17.
 
 ### 1 Juan 2:15a – *No amen al mundo ni las cosas que están en el mundo.* Como creyentes no debemos amar este mundo, ni nada de las cosas que este mundo __<u>posee</u>__.
 
 #### Aunque vivimos en este mundo, no __<u>somos</u>__ de este mundo. Juan 17:14-17
+
+#### El uso de mundo dentro de 1 Juan: “El mundo” es una esfera, frecuentemente contrastada con “Dios”, “el Padre”, “el Hijo”, “la verdad”.
+
+##### Es una categoría de fuente/origen.
+
+##### Se asocia con los que niegan, los que odian, los que mienten, los anticristos y los falsos profetas (1 Juan 4:5: “son del mundo… el mundo los escucha”).
+
+##### Así, en contexto, 1 Juan 2:15-17 funciona para: marcar un límite de lealtad, identidades contrastantes, muestran “orígenes” incompatibles.
 
 #### Podemos considerarnos simplemente peregrinos y extranjeros mientras caminamos por __<u>este</u>__ mundo ya que nuestra ciudadanía está en los cielos. 1 Pedro 1:17, Filipenses 3:20-21
 
@@ -917,7 +923,7 @@ Empieza esta sección haciendo una prohibición imperativa (2:15a), luego un dia
 
 #### Que no esté en nosotros aquí, no significa la ausencia de su amor, si no que no es porque el amor de Dios __<u>está</u>__ obrando en nosotros que estamos amando este mundo.
 
-### 1 Juan 2:16 Ahora Juan va a describir a lo que se refiero con *“las cosas que están en el __<u>mundo</u>__”: Porque todo lo que hay en el mundo…*
+### 1 Juan 2:16 Ahora Juan va a describir a lo que se refirió con *“las cosas que están en el __<u>mundo</u>__”: Porque todo lo que hay en el mundo…*
 
 ### 1 Juan 2:16b – *…la pasión de la carne…* Aunque es la única vez que Juan utiliza este término aquí, podemos entender que esto se refiere a todo aquello que el __<u>pecado</u>__ puede hacer a través de nuestros cuerpos como instrumentos de iniquidad. Romanos 6:12-14, 13:14 Gálatas 5:19-21, Efesios 2:3, 1 Pedro 2:11
 
@@ -940,6 +946,8 @@ Empieza esta sección haciendo una prohibición imperativa (2:15a), luego un dia
 #### Este mundo está centrado en uno mismo, el amor de Dios consiste en el bien del otro no en la autosatisfacción de la vida. La autosatisfacción, es una idea de este __<u>mundo</u>__, no de parte de Dios.
 
 ### 1 Juan 2:17a - *El mundo pasa y también sus pasiones…* Todo lo que tiene el mundo es del mismo carácter que el mundo en sí mismo. Esta es una buena noticia para los creyentes, ya que tenemos la esperanza de que no siempre las __<u>tinieblas</u>__ tendrán dominio sobre este siglo. Un día el dominio del maligno se acabará para siempre.
+
+#### Esto actúa como un marcador de límites entre: la comunidad nacida de Dios (“tú has conocido… eres fuerte… la palabra permanece”), y el sistema mundial que contrasta con “*el mundo*" que esta pasando (presente, indicativo). 
 
 ### En 1 Juan 2:8 dijo: *“las tinieblas van pasando”* y aquí: “el mundo va pasando”. En lugar de tener simplemente una experiencia de vida que solamente sea pasajero (que es todo lo que el mundo tiene para ofrecer), Juan mostrará otro __<u>camino</u>__ mejor:
 
@@ -1045,7 +1053,7 @@ Empieza esta sección haciendo una prohibición imperativa (2:15a), luego un dia
 
 #### Hoy muchas falsas enseñanzas mencionan a Jesús, pero niegan lo que él es y lo que hizo. Muchos han tergiversado el evangelio de la gracia de Dios, por no entender la suficiencia de la __<u>persona</u>__ de Cristo para nuestra salvación. Cualquier enseñanza que nos desvíe de la persona de Cristo como suficiente de parte de Dios, es un peligro para los creyentes.
 
-## En síntesis ()
+## En síntesis (2:226)
 
 ### Síntoma:
 
