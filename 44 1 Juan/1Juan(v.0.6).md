@@ -308,6 +308,12 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 
 #### Juan se incluye en la siguientes declaraciónes haciendo entender que todas estas situaciones son posibilidades reales en la __<u>vida</u>__ de cualquier creyente. "*si decimos*" (1 Juan 1:6, 8, 10), "*si andamos*", "*si tenemos*" (1 Juan 1:7).
 
+### Flujo literario de la escalada en las seis pruebas diagnósticas (1:5–2:29)
+
+#### La lógica de Juan se mueve desde la conducta externa y observable → afectos internos → lealtad doctrinal fundamental → unión perseverante con Cristo.
+
+#### Cada prueba es más profunda que la anterior.
+
 ## 1 Juan 1:5 Afirmación fundacional: Dios es Luz
 
 ### 1 Juan 1:5a "*Y este es el mensaje que hemos oído de Él y que les anunciamos…*" Este mensaje procede del Padre “*hemos oído de Él*”. Este __<u>mismo</u>__ mensaje es lo que ahora ellos les anuncian. Juan 1:4-9, 8:12, 9:4-5, 11:9-10
@@ -356,7 +362,7 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 
 #### Entonces, si Dios es luz, las tinieblas no pueden existir en Dios. Estos son opuestos, ya que Él es luz. Ambas cosas no pueden __<u>coexistir</u>__ en la misma persona. No hay oportunidad de engaño, error, maldad o pecado que existan en Dios. Por lo tanto, nada de esto proviene de Dios. 
 
-## 1 Juan 1:6-2:11 Sintomas de la luz versus las tinieblas
+#### "*Dios es luz*" establece el marco interpretativo para todos los diagnósticos posteriores.
 
 #### En su primera carta, __<u>Juan</u>__ usa una manera de exhibir la realidad con hechos. Juan no ignora que ellos tienen conocimiento, sin embargo, el demostrará la realidad con hechos visibles.
 
@@ -375,7 +381,21 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 
 ##### Los medicos son educados para reconocer síntomas y dar un diagnostico de la enfermedad para tratarlo adecuadamente. Juan desea que los creyentes sean entrenados para detectar síntomas que demuestran nuestro estado espiritual para no quedarnos engañados. 
 
-### **1 Juan 1:6-7 Primer par diagnóstico**
+### En la sección de 1 Juan 1:6-2:29 veremos el uso de un síntoma siendo una afirmación hecha o comportamiento descrito (a menudo en tiempo presente). Y el diagnóstico es una afirmación valorativa dada por el autor sobre ese síntoma.
+
+#### Se repite el mismo patrón como:
+
+##### JO LEGON … (“*el que dice*…/...*si decimos*...”) → síntoma
+
+##### KAI… (“*y*…”) cláusula de comportamiento → síntoma
+
+##### OUTOS… / PSIEUSTES ESTIN / EN TO FOTI… → diagnóstico
+
+### La mayor afirmación de todas: Dios es luz. Todas las síntomas y diagnosticos fluyen de esta premisa.  Esta es la realidad central frente a la cual se evalúan todos los síntomas siguientes...
+
+### **1 Juan 1:6-7 Primer cyclo diagnóstico: La prueba de la luz**
+
+### Ante la afirmación de estar en comunión como síntoma, Juan da un diagnosis basandose en que Dios es luz y concluye que "*mentimos y no practicamos la verdad*" (v.6) y "*si andamos en la luz*...*tenemos comunión*...*la sangre nos limpia*..." (v.7)
 
 ### 1 Juan 1:6a – "*Si decimos que tenemos comunión con Él, pero andamos en tinieblas,*"  Juan demostrará por __<u>medio</u>__ de un síntoma claro, la verdadera condición de uno ante Dios. Si decimos una cosa...pero andamos en otra cosa...ambos no pueden ser ciertas. No es posible estar en comunión con Dios y a la vez andar en tinieblas porque Dios es luz y en Él no hay tinieblas.  Juan 8:12
 
@@ -481,7 +501,11 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 
 ##### Experimentamos limpieza de __<u>todo</u>__ pecado (presente y contínuo). 
 
-## 1 Juan 1:8-9 El segundo par diagnostico
+## En Síntesis (1:5-7)
+
+##### 
+
+## 1 Juan 1:8-10 El segundo ciclo: La prueba del engaño
 
 ### 1 Juan 1:8 - *Si decimos que no tenemos pecado, nos engañamos a nosotros mismos* ¿porqué nos engañariamos a nosotros mismos? En el versículo 6 vimos como los creyentes que en realidad andaban en __<u>tinieblas</u>__ (aunque decian que tenían comunión con Dios) se mentían y no practicaban la verdad. 1 Juan 1:6
 
@@ -597,8 +621,6 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 
 #### Es porque Dios se involucra en nuestras vidas que podemos caminar en la luz y participar de su vida. Nunca es al revés, no podemos __<u>mirar</u>__ lo que hacemos por Dios o para con Dios, y que Él responda. 1 Corintios 15:10
 
-## 1 Juan 1:10-2:2 Tercer par diagnostico: Negar nuestro pecado demuestra que no estamos en la luz
-
 ### 1 Juan 1:10 – *Si decimos que no hemos __<u>pecado</u>__, lo hacemos a él mentiroso y su Palabra no está en nosotros.* En esta última condición, Juan presenta el caso de alguien que termina haciendo a Dios mentiroso. Primero mentimos v6, luego nos engañamos a nosotros mismos v8, pero luego nos oponemos directamente a Dios, llamándolo mentiroso y contradiciendo su Palabra.
 
 #### Claramente las tinieblas __<u>pueden</u>__ llegar a cegar a alguien y no permitirle ver el problema en el que está metido (1 Juan 2:11). El pecado puede llegar a ser un problema para el creyente, pero no porque este no tenga solución, sino porque el creyente no camina a la luz de ella.
@@ -612,6 +634,34 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 ##### Dios no es el __<u>culpable</u>__ de nuestros pecados, y tratando de negarlos no solucionamos nada. Por el contrario, estamos oponiéndonos directamente a Dios. Entonces, ¿Cuál es la solución de Dios para nuestros pecados?
 
 ##### En los siguientes versículos Juan comenzará a presentar la solución de Dios para nuestros pecados, y esto nos __<u>lleva</u>__ a la siguiente sección.
+
+## En síntesis (1:5-10)
+
+#### Síntomas:
+
+##### Afirmando comunión
+
+##### Caminando en la oscuridad
+
+##### Afirmando impecabilidad
+
+##### Confesar el pecado
+
+##### Negando el pecado
+
+#### Diagnósticos:
+
+##### Mentiroso; no hacer la verdad
+
+##### Compañerismo + limpieza
+
+##### Engañándose a uno mismo
+
+##### Perdonado + limpiado
+
+##### Hacer de Dios un mentiroso; Su palabra no en nosotros
+
+## 1 Juan 2:1-6 Tercer par diagnostico: Negar nuestro pecado demuestra que no estamos en la luz
 
 ### 1 Juan 2:1-2 – Propósito y provisión: Juan ahora mostrara a Cristo __<u>como</u>__ la solución para nuestros pecados, en Él se halla el poder para andar en __<u>victoria</u>__. Juan nos mostrará los resultados de su intercesión, el conocerlo. 
 
@@ -663,7 +713,7 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 
 #### 1 Juan 2:1-2 concluye las primeras 6 pruebas condicionales. 1 Juan 1:6-10
 
-## 1 Juan 2:3-6 – La obediencia como síntoma
+## 1 Juan 2:3-6 – Tercer ciclo diagnostico: La prueba de la obediencia
 
 Primero mostrará la formula para un diagnostico generál (2:3), luego un síntoma negativo (2:4), procede a un síntoma positivo (2:5) para luego concluir su diagnóstico (2:6). 
 
@@ -713,11 +763,33 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 
 #### Entonces, ¿Cómo anduvo Él?
 
-## 1 Juan 2:7-11 - Introduciendo el siguiente síntoma: Una vida de amor
+## En Síntesis (2:3-6)
 
-### 1 Juan 2:7a - "*Amados...*" Juan nuevamente usa un término cariñoso para referirse a los destinatarios. Lo hará varias veces a lo largo del libro. Esto muestra que __<u>Juan</u>__ tiene las mejores intenciones para ellos al comunicarles la verdad.
+### Síntomas:
 
-### 1 Juan 2:7b -  *no les escribo un mandamiento nuevo, sino un mandamiento antiguo, que han tenido desde el principio.* *“un mandamiento antiguo”*, muestra el hecho de que Dios siempre apunto hacia el amor los unos a los otros, y *“han tenido desde el principio”* muestra que ellos habían sido enseñados en __<u>esto</u>__ por los apóstoles.
+#### diciendo "*Yo lo conozco*"
+
+#### no cumplir comandos
+
+#### manteniendo su palabra
+
+#### diciendo “*yo permanezco en él*”
+
+### Diagnósticos:
+
+#### mentiroso; la verdad no en el
+
+#### amor perfeccionado
+
+#### obligación de caminar como Él caminó
+
+## 1 Juan 2:7-11 - Introduciendo el siguiente síntoma: Una vida de amor (Diagnóstico relacional (amor/odio))
+
+### Después de hablar del amor a Dios, pasa a hablar del amor a los hombres. 
+
+### 1 Juan 2:7a - "*Amados...*" Juan nuevamente usa un término cariñoso para referirse a los destinatarios. Lo hará varias veces a lo largo del libro. Esto muestra que __<u>Juan</u>__ tiene las mejores intenciones para ellos al comunicarles la verdad. 1 Juan 3:2, 21, 4:1, 7, 11
+
+### 1 Juan 2:7b -  "*no les escribo un mandamiento nuevo, sino un mandamiento antiguo, que han tenido desde el principio.*" “*un mandamiento antiguo*”, muestra el hecho de que Dios siempre apunto hacia el amor los unos a los otros, y “*han tenido desde el principio*” muestra que ellos habían sido enseñados en __<u>esto</u>__ por los apóstoles.
 
 ### 1 Juan 2:7c - *El mandamiento antiguo es la palabra que han oído.”* El andar de Cristo va de acuerdo a lo que Dios siempre ha mostrado en Su Palabra, el __<u>amor</u>__ los unos por los otros. 1 Juan 3:11; 2 Juan 5
 
@@ -743,6 +815,8 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 
 #### La victoria de Cristo sobre las tinieblas ha provisto un nuevo camino para la humanidad, la vida de Cristo en nosotros. Es Jesús que está brillando a través de los creyentes __<u>que</u>__ permanecen en Él. Nosotros como hijos de Dios podemos disfrutar de los logros de Cristo. Romanos 13:11-14
 
+## 1 Juan 2:9-11 Cuarto Siclo: Prueba del amor al prójimo
+
 ### 1 Juan 2:9-10 – *El que dice que está en la Luz y aborrece a su hermano, está aún en tinieblas. El que ama a su hermano, permanece en la Luz y no hay causa de tropiezo en él.* A través de esta comparación Juan muestra que una vida de amor es el resultado de la Luz, así como una __<u>vida</u>__ que odio, es el resultado de las tinieblas.
 
 #### Nunca el odio puede ser producida por la Luz. Si alguien está odiando, es porque está bajo el dominio de las tinieblas. Gálatas 5:19-21
@@ -754,6 +828,24 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 ##### No hay causa de tropiezo en él, es decir ni el cae, ni causa a otros caer. Esta es una __<u>vida</u>__ preocupada por el bienestar, o lo mejor del prójimo. Filipenses 2:3-4
 
 ### 1 Juan 2:11 – *Pero el que aborrece a su hermano, está en tinieblas y anda en tinieblas, y no sabe a dónde va, porque las tinieblas han cegado sus ojos.* Juan concluye que aquel que está odiando a su hermano (es decir el caso de un creyente), es porque las tinieblas han tomado __<u>control</u>__ sobre su vida, y en lugar de andar como el anduvo, no sabe ni a donde va.
+
+En Síntesis ()
+
+### Symptoms:
+
+#### saying “I am in the light” + hating
+
+#### loving brother
+
+#### hating brother
+
+### Diagnoses:
+
+#### in darkness until now
+
+#### abiding in light
+
+#### in darkness, walking blindly
 
 ## 1 Juan 2:12-14 Un parentesis pastoral. Afirmaciónes indicativas. 
 
@@ -865,7 +957,7 @@ Empieza esta sección haciendo una prohibición imperativa (2:15a), luego un dia
 
 ### El engaño nos cegará y nos llevará a vivir por aquello que es pasajero, haciéndonos perder la oportunidad de vivir la __<u>vida</u>__ eterna aquí y ahora, haciendo la voluntad de Dios.
 
-# 1 Juan 2:18-27 Síntomas de la verdad versus la decepción 
+# 1 Juan 2:18-27 Quinto siclo: prueba cristológica
 
 ## 1 Juan 2:18-23 – Anticristos como síntoma: Advertencia en cuanto a la presencia de falsos maestros 
 
@@ -953,6 +1045,20 @@ Empieza esta sección haciendo una prohibición imperativa (2:15a), luego un dia
 
 #### Hoy muchas falsas enseñanzas mencionan a Jesús, pero niegan lo que él es y lo que hizo. Muchos han tergiversado el evangelio de la gracia de Dios, por no entender la suficiencia de la __<u>persona</u>__ de Cristo para nuestra salvación. Cualquier enseñanza que nos desvíe de la persona de Cristo como suficiente de parte de Dios, es un peligro para los creyentes.
 
+## En síntesis ()
+
+### Síntoma:
+
+#### Negar a Jesús como el Cristo.
+
+### Diagnósticos:
+
+#### este es el mentiroso
+
+#### el anticristo
+
+#### niega padre e hijo
+
 ## 1 Juan 2:24-27 - Ya que sabemos que hay falsos maestros, y conocemos el verdadero mensaje, ¿qué debemos hacer para combatirlos?
 
 ### 1 Juan 2:24a – *En cuanto a ustedes, que permanezca en ustedes los que oyeron desde el principio…* La forma en la que combatimos o luchamos ardientemente por la __<u>fe</u>__, es permaneciendo firmes en la verdad.
@@ -1025,7 +1131,7 @@ Empieza esta sección haciendo una prohibición imperativa (2:15a), luego un dia
 
 #### Eran creyentes que habían sido enseñados, pero eso no los hacía exentos de haber caído en el error. Debemos permanecer en Cristo ya que él es __<u>nuestra</u>__ única fortaleza.
 
-## 1 Juan 2:28-29 - Síntomas de justicia versus injusticia
+## 1 Juan 2:28-29 - Sexto siclo: la prueba de la justicia (confianza versus vergüenza)
 
 ### Ya que Dios nos ha prometido la vida eterna, podemos tener esperanza hacia el futuro, por eso Juan nos animará llevándonos a considerar la futura manifestación de Cristo, y como __<u>debería</u>__ ser nuestra respuesta a ella.
 
@@ -1071,6 +1177,16 @@ Empieza esta sección haciendo una prohibición imperativa (2:15a), luego un dia
 
 #### El creyente que no permanece en Cristo, será sorprendido por la manifestación de Cristo, hallado __<u>desnudo</u>__, y será avergonzado delante de él. Aunque no pierde su salvación, se perdió la oportunidad de vivir a Cristo ahora. Mateo 16:25-26, 1 Corintios 3:10-15
 
+## En síntesis (2:28--29)
+
+### Síntoma:
+
+#### haciendo justicia
+
+### Diagnóstico:
+
+#### ha nacido de el
+
 ## Resumen de la sección sintomática (1 Juan 1:5-2:29). Flujo completo de síntomas y diagnóstico basado en la gramática. 
 
 #### Premisa: Declaración indicativa sobre Dios (1:5).
@@ -1100,6 +1216,8 @@ Empieza esta sección haciendo una prohibición imperativa (2:15a), luego un dia
 #### imperativos que conducen a cláusulas de consecuencias
 
 #### Resultados indicativos que identifican luz/oscuridad o verdad/error.
+
+
 
 ## 1 Juan 3:1-2 – Miren el amor que nos ha dado el Padre
 

@@ -745,6 +745,3 @@ VERBOS EN ROMANOS 4:
 ἐγείραντα—Aor. Acto. Parte. Acc. masc. sg—habiendo levantado
 
 4:25
-
-παρεδόθη—Aor. Aprobar. Índico. 3sg - fue entregado
-ἠγέρθη—Aor. Aprobar. Índico. 3sg — fue levantado
