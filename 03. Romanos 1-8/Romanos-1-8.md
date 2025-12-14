@@ -1111,15 +1111,15 @@ Efecto: Ser justificados
 
 ### La persona moral y Dios (2:1-11)
 
-14. Causa: Los gentiles (que no tienen la ley) hacen las cosas de la ley (2:14).
+#### Causa: Los gentiles (que no tienen la ley) hacen las cosas de la ley (2:14).
 
-Efecto: Son una ley para sí mismos.
+##### Efecto: Son una ley para sí mismos.
 
-15. Causa: La obra de la ley escrita en sus corazones —mostrada por la conciencia, pensamientos de acusación o defensa (2:15).
+#### Causa: La obra de la ley escrita en sus corazones —mostrada por la conciencia, pensamientos de acusación o defensa (2:15).
 
-Efecto: Sus procesos morales internos funcionan como evidencia en el día del juicio (2:16).
+##### Efecto: Sus procesos morales internos funcionan como evidencia en el día del juicio (2:16).
 
-(2:16 da un efecto final vinculado a 2:15: Dios juzga los secretos de las personas.)
+##### (2:16 da un efecto final vinculado a 2:15: Dios juzga los secretos de las personas.)
 
 #### La súplica hecha (2:1a): La persona moral dice: "Debería ser absuelto por no serlo tan malos como son algunos paganos".
 
@@ -1191,9 +1191,9 @@ Efecto: Sus procesos morales internos funcionan como evidencia en el día del ju
 
 ### Romanos 2:22a "*Tú que dices que no se debe cometer adulterio, ¿adulteras?*" La enseñanza de la ley claramente dice que es prohibido cometer adulterio. El adultero es condenado. 
 
-Posiblemente enseñar estas cosas es para colocar al pecador bajo la ley que lo identifica como pecador. El problema de dejarlo asi es que no tiene solución. 
+#### Posiblemente enseñar estas cosas es para colocar al pecador bajo la ley que lo identifica como pecador. El problema de dejarlo asi es que no tiene solución. 
 
-Ademas, el mismo es adultero también. ¿Que diferencia hay entre el que reconoce ser pecador y el que enseña a no hacerlo? Ninguno. 
+#### Ademas, el mismo es adultero también. ¿Que diferencia hay entre el que reconoce ser pecador y el que enseña a no hacerlo? Ninguno. 
 
 ### Romanos 2:22b "*Tú que abominas a los ídolos, ¿saqueas templos?*"
 
@@ -1237,21 +1237,21 @@ Ademas, el mismo es adultero también. ¿Que diferencia hay entre el que reconoc
 
 ## En Síntesis (2:17-24)
 
-2:17-24 — El judío que confía en la ley
+### 2:17-24 — El judío que confía en la ley
 
-Esta sección enumera muchas causas, cada una con efectos implícitos o explícitos.
+#### Esta sección enumera muchas causas, cada una con efectos implícitos o explícitos.
 
-16. Causa: Confiar en la ley, jactarse en Dios, conocer su voluntad, aprobar lo excelente (2:17-18).
+#### Causa: Confiar en la ley, jactarse en Dios, conocer su voluntad, aprobar lo excelente (2:17-18).
 
-Efecto: Confianza: son guía, luz, corrector, maestro (2:19-20).
+##### Efecto: Confianza: son guía, luz, corrector, maestro (2:19-20).
 
-17. Causa: Enseñar a otros, pero no a sí mismo; predicar que no se robe, pero se roba; decir que no se cometa adulterio, pero se comete; aborrecer los ídolos, pero saquear los templos (2:21-22).
+#### Causa: Enseñar a otros, pero no a sí mismo; predicar que no se robe, pero se roba; decir que no se cometa adulterio, pero se comete; aborrecer los ídolos, pero saquear los templos (2:21-22).
 
-Efecto: Se expone la inconsistencia/hipocresía. (Imlícito: contradicción entre la acción y la afirmación).
+##### Efecto: Se expone la inconsistencia/hipocresía. (Imlícito: contradicción entre la acción y la afirmación).
 
-18. Causa: Quebrantar la ley (2:23).
+#### Causa: Quebrantar la ley (2:23).
 
-Efecto: Deshonrar a Dios; el nombre de Dios es blasfemado entre los gentiles (2:24).
+##### Efecto: Deshonrar a Dios; el nombre de Dios es blasfemado entre los gentiles (2:24).
 
 ## Romanos 2:25-29: Circuncisión del corazón
 
@@ -1311,27 +1311,27 @@ Efecto: Deshonrar a Dios; el nombre de Dios es blasfemado entre los gentiles (2:
 
 ##### Las marcas de los judíos redimidos (2:25-29): Sus corazones son rectos con Dios.
 
-2:25–29 — La verdadera circuncisión y el verdadero judío
+### 2:25–29 — La verdadera circuncisión y el verdadero judío
 
-19. Causa: La circuncisión se practica en el contexto del cumplimiento de la ley (2:25a).
+#### Causa: La circuncisión se practica en el contexto del cumplimiento de la ley (2:25a).
 
-Efecto: La circuncisión es valiosa.
+##### Efecto: La circuncisión es valiosa.
 
-20. Causa: Quebrantar la ley (2:25b).
+#### Causa: Quebrantar la ley (2:25b).
 
-Efecto: La circuncisión se convierte en incircuncisión.
+##### Efecto: La circuncisión se convierte en incircuncisión.
 
-21. Causa: La persona incircuncisa cumple con los justos requisitos de la ley (2:26).
+#### Causa: La persona incircuncisa cumple con los justos requisitos de la ley (2:26).
 
-Efecto: Su incircuncisión se considera circuncisión.
+##### Efecto: Su incircuncisión se considera circuncisión.
 
-22. Causa: La persona físicamente incircuncisa cumple con la ley (2:27).
+#### Causa: La persona físicamente incircuncisa cumple con la ley (2:27).
 
-Efecto: Él juzga al transgresor del código escrito (el judío).
+##### Efecto: Él juzga al transgresor del código escrito (el judío).
 
-23. Causa: Ser judío “interiormente”; circuncisión del corazón, en espíritu, no en la letra (2:29a).
+#### Causa: Ser judío “interiormente”; circuncisión del corazón, en espíritu, no en la letra (2:29a).
 
-Efecto: La alabanza viene de Dios, no de los humanos (2:29b).
+##### Efecto: La alabanza viene de Dios, no de los humanos (2:29b).
 
 ## Romanos 3:1-8 La fidelidad de Dios ante la infidelidad del hombre
 
@@ -1443,102 +1443,113 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 ### Romanos 3:8c *La condenación de los tales es justa.* Aunque solo especifica su naturaleza, el juicio sobre quienes hacen la acusación calumniosa se llama “justo”.
 
-El ejemplo es fuerte y claro. Pablo demuestra que la mentira de los que calumnian con lo que el enseña es enterament justo. Pablo nunca es visto promocionando el pecado. 
+#### El ejemplo es fuerte y claro. Pablo demuestra que la mentira de los que calumnian con lo que el enseña es enterament justo. Pablo nunca es visto promocionando el pecado. 
 
-¿Por qué dirían esto de Pablo? 
+#### ¿Por qué dirían esto de Pablo? 
 
-Incluso en el desarrollo de Romanos 1-3:
+#### Incluso en el desarrollo de Romanos 1-3:
 
-Pablo enfatiza el fracaso de la justicia humana (1:18–3:20).
+#### Pablo enfatiza el fracaso de la justicia humana (1:18–3:20).
 
-Enfatiza la justicia de Dios como algo que se manifiesta independientemente de las obras humanas (3:21).
+#### Enfatiza la justicia de Dios como algo que se manifiesta independientemente de las obras humanas (3:21).
 
-Observación:
-Cuanto más fuerte sea el contraste entre:
+#### Observación:
 
-el pecado humano
-y
+#### Cuanto más fuerte sea el contraste entre:
 
-la justicia de Dios,
-más fácil será para quien objeta exagerar el contraste y convertirlo en una afirmación falsa.
+#### el pecado humano
 
-Romanos muestra que algunos sí lo exageraron.
+#### y
 
-7. La acusación en 3:8 refleja la lógica de 3:5 y 3:7 sacada de contexto.
+#### la justicia de Dios,
 
-En 3:8, el lema citado:
+#### más fácil será para quien objeta exagerar el contraste y convertirlo en una afirmación falsa.
 
-“Hagamos el mal para que venga el bien”
+#### Romanos muestra que algunos sí lo exageraron.
 
-es simplemente la conclusión a la que llega un objetor al malinterpretar las declaraciones hipotéticas de Pablo.
+#### La acusación en 3:8 refleja la lógica de 3:5 y 3:7 sacada de contexto.
 
-Observación:
-Este lema corresponde exactamente a la interpretación errónea de los argumentos hipotéticos de “Si el pecado produce la gloria de Dios…” en los vv. 5-7.
+#### En 3:8, el lema citado:
 
-Por lo tanto, la acusación surge naturalmente de la mala interpretación de la propia técnica retórica de Pablo.
+#### “Hagamos el mal para que venga el bien”
 
-Resumen (Solo Observación)
+#### es simplemente la conclusión a la que llega un objetor al malinterpretar las declaraciones hipotéticas de Pablo.
 
-Se podría acusar a Pablo de enseñar “Haz el mal para que venga el bien” porque:
+#### Observación:
 
-Utilizó situaciones hipotéticas contundentes que involucraban el pecado humano y la justicia de Dios.
+#### Este lema corresponde exactamente a la interpretación errónea de los argumentos hipotéticos de “Si el pecado produce la gloria de Dios…” en los vv. 5-7.
 
-Adoptó la voz del oponente, que podría confundirse con la suya.
+#### Por lo tanto, la acusación surge naturalmente de la mala interpretación de la propia técnica retórica de Pablo.
 
-El contraste entre el fracaso humano y la acción divina podría malinterpretarse.
+#### Resumen (Solo Observación)
 
-No siempre reiteró de inmediato de quién era la voz que hablaba.
+#### Se podría acusar a Pablo de enseñar “Haz el mal para que venga el bien” porque:
 
-El lema en 3:8 es simplemente la distorsión lógica del argumento del objetor en 3:5-7.
+#### Utilizó situaciones hipotéticas contundentes que involucraban el pecado humano y la justicia de Dios.
+
+#### Adoptó la voz del oponente, que podría confundirse con la suya.
+
+#### El contraste entre el fracaso humano y la acción divina podría malinterpretarse.
+
+#### No siempre reiteró de inmediato de quién era la voz que hablaba.
+
+#### El lema en 3:8 es simplemente la distorsión lógica del argumento del objetor en 3:5-7.
 
 ## En Síntesis (3:1-8)
 
 ### BOSQUEJO DE LA SECCIÓN TRES (ROMANOS 3)
 
-3:1-8 — La fidelidad de Dios y la infidelidad humana
+### 3:1-8 — La fidelidad de Dios y la infidelidad humana
 
-Pablo usa preguntas/objeciones y respuestas. De estas respuestas surgen relaciones de causa → efecto.
+#### Pablo usa preguntas/objeciones y respuestas. De estas respuestas surgen relaciones de causa → efecto.
 
-3:1-2
-1. Causa: Ser judío; estar circuncidado (3:1).
+#### 3:1-2
 
-Efecto: Ventaja/gran beneficio (3:1-2).
+1. #### Causa: Ser judío; estar circuncidado (3:1).
 
-2. Causa: Confiados en las “palabras de Dios” (3:2).
+##### Efecto: Ventaja/gran beneficio (3:1-2).
 
-Efecto: Esto define la ventaja.
-(“Ventaja” es el efecto; “encomendación” da la razón).
+2. #### Causa: Confiados en las “palabras de Dios” (3:2).
 
-3:3-4
-3. Causa: Algunos no creyeron/fueron infieles (3:3).
+##### Efecto: Esto define la ventaja.
 
-Efecto: Su incredulidad no anula la fidelidad de Dios.
-(Efecto negativo: algo NO sucede).
+#### (“Ventaja” es el efecto; “encomendación” da la razón).
 
-4. Causa: Las palabras y acciones de Dios son verdaderas (3:4).
+#### 3:3-4
 
-Efecto: Dios se muestra veraz/justificado en sus palabras; prevalece cuando es juzgado. (El versículo establece el efecto explícitamente).
+3. #### Causa: Algunos no creyeron/fueron infieles (3:3).
+
+##### Efecto: Su incredulidad no anula la fidelidad de Dios.
+
+#### (Efecto negativo: algo NO sucede).
+
+4. #### Causa: Las palabras y acciones de Dios son verdaderas (3:4).
+
+##### Efecto: Dios se muestra veraz/justificado en sus palabras; prevalece cuando es juzgado. (El versículo establece el efecto explícitamente).
 
 3:5-6
-5. Causa: La injusticia humana resalta la justicia de Dios (3:5).
+5. #### Causa: La injusticia humana resalta la justicia de Dios (3:5).
 
-Efecto: Objeción: “¿Es Dios injusto al infligir ira?”
-(Este es el efecto dentro del argumento, aunque Pablo niega la conclusión).
+##### Efecto: Objeción: “¿Es Dios injusto al infligir ira?”
 
-6. Causa: Si Dios fuera injusto (hipotético, 3:5-6).
+#### (Este es el efecto dentro del argumento, aunque Pablo niega la conclusión).
 
-Efecto: No podría juzgar al mundo.
-(Pablo razona que la causa hipotética produciría un efecto imposible).
+6. #### Causa: Si Dios fuera injusto (hipotético, 3:5-6).
+
+##### Efecto: No podría juzgar al mundo.
+
+#### (Pablo razona que la causa hipotética produciría un efecto imposible).
 
 3:7-8
-7. Causa: Mentira humana → La verdad de Dios abunda para Su gloria (3:7).
+7. #### Causa: Mentira humana → La verdad de Dios abunda para Su gloria (3:7).
 
-Efecto: Objeción: “¿Por qué sigo siendo juzgado como pecador?”
-(Efecto = la objeción misma).
+##### Efecto: Objeción: “¿Por qué sigo siendo juzgado como pecador?”
 
-8. Causa: Afirmación calumniosa: “Hagamos el mal para que venga el bien” (3:8).
+##### (Efecto = la objeción misma).
 
-Efecto: Su condenación es justa.
+8. #### Causa: Afirmación calumniosa: “Hagamos el mal para que venga el bien” (3:8).
+
+##### Efecto: Su condenación es justa.
 
 #### Pablo presenta seis preguntas y las responde a sus lectores.
 
@@ -1830,29 +1841,31 @@ Efecto: Su condenación es justa.
 
 # ROMANOS 3:21-5:11 - LA JUSTICIA DE DIOS ACCEDIDA POR EL MEDIO DE LA FE EN JESUCRISTO
 
-## Romanos 3:21-31 Dios manifiesta el medio de justificación
+## Romanos 3:21-31 Pero ahora la justicia de Dios ha sido manifestada
 
-### Romanos 3:21–31 forma un párrafo estrechamente unificado cuya gramática muestra una arquitectura clara construida sobre el contraste, la explicación y la conclusión.
+### Romanos 3:21–31 forma un párrafo estrechamente unificado cuya gramática muestra una arquitectura clara construida sobre el contraste, la explicación y la conclusión. Versículos 21-26 es una sola oración presentando un solo argumento y versículos 27-31 es otra oración que da una conclusión. 
 
 ### Romanos 3:21a "*Pero ahora,*" en un marcado contraste a todo lo que vimos en versículos 9-20, un giro gramatical ocurre pasando de la acusación a una condición contrastante. 
 
 #### Lo que presentará ahora, es contrastando a lo que dijo que ningún ser humano será justificado por las obras de La Ley. 
 
-### Miremos a continuación como la gramática tiene dos acciones sobre un mismo sujeto: manifestar y testificar. Los agentes de estas dos acciones no son los mismos y las acciones no son simultáneas. 
+Miremos a continuación como la gramática tiene dos acciones sobre un mismo sujeto: manifestar y testificar. Los agentes de estas dos acciones no son los mismos y las acciones no son simultáneas. 
 
-### Romanos 3:21b "*aparte de la ley, la justicia de Dios ha sido manifestada,*" La primera acción es manifestar la justicia de Dios. Es manifiesta aparte de La Ley. 
+### Romanos 3:21b "*aparte de la ley,*" Pero ahora, **sin** o separado de la ley viene lo que sigue que la justicia de Dios es claramente visible. 
 
-#### Lo que esta por presentar Pablo viene totalmente separado de La Ley. Establece el tema de todo el párrafo: una realidad recién manifestada (tiempo perfecto, resultado existente) que está separada de la ley.
+### Romanos 3:21c "*pero ahora...la justicia de Dios ha sido manifestada,*" 
 
-#### "*manifestada*" PEPSANEROTAI (perfecto, pasivo) fue y sigue manifestandosé por Dios. 
+#### Esta frase es central a todo lo que vino antes y lo que procede después.  Establece el tema de todo el párrafo: una realidad recién manifestada (tiempo perfecto, resultado existente) que ha sido hecho separada de la ley.
 
-#### La justicia de Dios se ha manifestado de una manera independiente de la ley. La Ley y los Profetas no realizan esta acción. No son ellos quienes manifiestan. 
+#### "*manifestada*" PEPSANEROTAI (perfecto, pasivo) - aclarar o dar a conocer.[^12] El perfecto hace entender que fue y sigue siendo manifestado. 
 
-#### La justicia de Dios se ha manifestado (verbo principal) y está siendo presenciada (participio). 
+##### La justicia de Dios se ha manifestado (verbo principal) y está siendo presenciada (participio). 
 
 #### La manifestación es hecha aparte de La Ley y ya es un hecho completado. No nos dice que o quien manifiesta esta justicia pero no es la ley. 
 
 ### Romanos 3:21c "*...confirmada por la ley y los profetas.*" La segunda acción es hecho por La Ley y los profetas. La primera acción era aparte de La Ley. 
+
+#### La justicia de Dios se ha manifestado de una manera independiente de la ley. La Ley y los Profetas no realizan esta acción. No son ellos quienes manifiestan. 
 
 #### "*Confirmada*" MARTUROUMENE (presente, pasivo, participio). Este participio depende del verbo "*manifestada*". El participio presente indica que su testimonio no es un evento pasado, sino un testimonio continuo. La voz pasiva muestra que la "*justicia*" DIKAIOSUNE es quien recibe la testificación, no quien la realiza. El participio es adjetival y modifica "*justicia*" DIKAIOSUNE manifestada en Romanos 3:21, sin introducir una nueva cláusula.
 
@@ -1872,13 +1885,13 @@ Efecto: Su condenación es justa.
 
 #### "*por medio de la fe en Jesucristo*" describe cómo la justicia llega a las personas, no cómo se manifestó. 
 
-### Romanos 3:22b "*es para todos los que creen.*" la justicia de Dios, que ha sido manifiesta aparte de La Ley, que es por medio de la fe en Jesucristo, es para todos los que creen. 
+### Romanos 3:22b "*es para todos los que creen.*" la justicia de Dios es para todos los que creen. 
 
 #### La frase, "*para todos los que creen*" es preposicional lo que indica dirección/aplicación hacia las personas. 
 
-#### El medio de las obras de la La Ley no justificará a nadie jamás. La Ley no consigue dar justicia solo trae conocimiento de injusticia. 
+#### El medio de las obras de la La Ley no justificará a nadie jamás. La Ley no consigue dar justicia solo trae conocimiento de injusticia. La Ley tampoco cooperó en la manifestación de la justicia de Dios. La Ley y los profetas solo fueron testigos de esta justicia. 
 
-#### El medio de la fe en Jesucristo trae justificación a todos los que creen. Consigue justicia la justicia de Dios para el injusto que cree.
+#### El medio de la fe en Jesucristo trae justificación a todos los que creen. Consigue justicia la justicia de Dios para el injusto que cree. 
 
 ### Romanos 3:22c "*Porque no hay distinción,*"  La fe puesta en el medio de la fe en Jesucristo es la forma que Dios da justificación a todos sin excepción. 
 
@@ -1910,9 +1923,11 @@ Efecto: Su condenación es justa.
 
 #### Una definición sincilla de redención es: “liberación de un estado de esclavitud, generalmente mediante el pago de un precio”.
 
-##### En griego del siglo 1:
+##### El griego del siglo 1:
 
 ###### Es un término técnico para la liberación mediante rescate, especialmente en los documentos de manumisión. Se refiere al estado de haber sido liberado de una condición previa de servidumbre u obligación. La palabra tiene una connotación legal y transaccional arraigada en la esclavitud, los contratos y los procedimientos cívicos.
+
+Dios envio a su hijo...para redimirnos. Gálatas 4:4-5
 
 #### La redención siempre implica un costo, una condición previa de restricción y un cambio de estatus. Cristo pagó el precio para la redención de los pecadores. 
 
@@ -1922,19 +1937,191 @@ Efecto: Su condenación es justa.
 
 ##### Y la gracia es de Dios porque ha sido provista en lo que hizo Cristo. 
 
-### Romanos 3:25a "*a quien Dios exhibió públicamente como propiciación*" Dios mismo puso en exhibición pública a Cristo Jesús siendo propiciación. 
+### Romanos 3:25a "*a quien Dios exhibió públicamente como propiciación*" Dios mismo puso en exhibición pública a Cristo Jesús como el lugar o medio de propiciación. 
 
-#### exhibió ENDEIZIN  demostración, exhibición, evidencia.
+#### A quien Dios puso como propiciatorio / lugar de expiación es como es entendido en otros lugares. 
 
-### Romanos 3:25b "*por Su sangre*" Su sangre es el instrumento por el cual es hecha la pherpropiciación. 
+#### "*exhibió*" ENDEIZIN  demostración, exhibición, evidencia.
+
+### Doctrina bíblica de la propiciación
+
+#### Pablo usa un término técnico del Antiguo Testamento. No usa las palabras griegas comunes para “apaciguar a una deidad”. Elige la palabra especializada: propiciación ILASTERION.
+
+##### En la Septuaginta, este término casi siempre significa: “el propiciatorio”, la cubierta del arca donde se hacía la expiación (Levítico 16). Esto indica que Pablo se inspira en la imagen del Día de la Expiación.
+
+#### Pablo nunca más usó esta palabra en ninguno de sus escritos. Es interesante que mientras aquí se refiere al lugar o instrumento donde se hace expiación, en 1 Juan 2:2 que usa una variación de la misma palabra, expresa el acto o medio por el cual los pecados son removidos. 
+
+#### La idea que “propiciación es apaciguar la ira” **no** viene directamente de las palabras bíblicas.
+
+#### Entonces, ¿de dónde proviene en última instancia la idea de “apaciguar la ira”?
+
+##### No del lenguaje de las Escrituras. No del ritual levítico. No del uso del griego bíblico.
+
+#### Proviene de: Vocabulario religioso pagano del griego clásico. Observaciones de fuentes antiguas (Homero, Hesíodo, religión cívica romana): Los humanos intentan evitar la irritación divina. Los sacrificios propiciatorios son iniciados por los fieles, no por la deidad. Son transaccionales y manipuladores.
+
+#### Proviene de Terminología teológica latina, Tradición interpretativa cristiana posbíblica
+
+#### En el Antiguo Testamento: כִּפֶּר (kipper) = cubrir, purificar, limpiar, eliminar la impureza, descontaminar el espacio sagrado. 
+
+##### Nada en el ritual levítico describe: apaciguar a Dios, satisfacer la ira, cambiar la actitud de Dios.
+
+###### Todo el Día de la Expiación (Levítico 16) se trata de purificación ritual, no de apaciguamiento.
+
+muestra a Dios presentando públicamente a Jesús como el medio dado por Dios para tratar con los pecados y demostrar Su justicia, específicamente con respecto a los pecados previamente pasados por alto.
+
+### El propiciatorio en el Antiguo Testamento (Resumen de Observaciones)
+
+#### Ubicación y descripción física. Éxodo 25:17-22
+
+##### Es la cubierta de oro que se coloca sobre el arca del testimonio.
+
+##### Dos querubines están fijados a ella.
+
+##### Es el lugar donde Yahvé habla con Moisés.
+
+##### Se encuentra sobre las tablas del pacto.
+
+##### Observación: El propiciatorio es un lugar de cobertura sobre el arca, asociado con la presencia y comunicación de Dios.
+
+#### Propósito funcional según el texto
+
+##### El propiciatorio es el lugar donde se aplica la sangre. Levítico 16:14-15
+
+###### El sumo sacerdote rocía sangre “sobre el frente del propiciatorio” y “delante del propiciatorio”.
+
+###### Observación:
+
+###### El propiciatorio funciona como el lugar donde se presenta la sangre a Dios.
+
+###### Su propósito está relacionado con “cubrir” (כִּפֶּר – kipper).
+
+###### El verbo en Levítico 16 se repite repetidamente:
+
+###### “Hará expiación (כִּפֶּר kipper) sobre el propiciatorio”.
+
+###### Observación:
+
+###### El propiciatorio es el lugar donde se realiza el kipper (“expiación”, “cubrir”).
+
+##### El propiciatorio es donde se manifiesta la presencia de Dios. Levítico 16:2
+
+###### Dios aparece en una nube sobre el propiciatorio.
+
+###### Observación:
+
+###### Este es el punto de encuentro de la presencia divina y la sangre de la expiación.
+
+##### El propósito del propiciatorio es purificar el santuario de los pecados del pueblo. Levítico 16:15-16
+
+###### La sangre que se deposita sobre el propiciatorio es “a causa de las impurezas de los hijos de Israel”.
+
+###### Esto incluye:
+
+###### Sus inmundicias,
+
+###### Sus transgresiones,
+
+###### Sus pecados.
+
+###### Observación:
+
+###### Su función es remover/purificar la impureza que sus pecados crean en relación con el espacio sagrado.
+
+##### El propiciatorio vincula el pacto, la presencia y la expiación. Éxodo 25:22
+
+###### Dios habla desde arriba del propiciatorio,
+
+###### entre los querubines,
+
+###### sobre el testimonio.
+
+###### Observación:
+
+###### Es la interfaz entre la presencia del pacto de Dios e Israel.
+
+#### Lo que el texto no dice (Observación)
+
+##### Cediéndose estrictamente a la observación:
+
+##### El propiciatorio no se describe como un lugar donde los humanos se expian.
+
+##### No se presenta como una transformación moral plena en el adorador.
+
+##### No se describe como un símbolo de sustitución o satisfacción.
+
+##### Su propósito es la purificación ritual del espacio sagrado, no el alivio psicológico.
+
+##### Estas ideas aparecen posteriormente en la interpretación teológica, pero el texto en sí no las enuncia.
+
+#### Resumen: Propósito del Propiciatorio (Solo Observación)
+
+##### Basado estrictamente en las características textuales:
+
+##### Es la cubierta del arca (Éxodo 25:17).
+
+##### Es el lugar donde se manifiesta la presencia de Dios (Éxodo 25:22; Levítico 16:2).
+
+##### Es el lugar donde se rocía la sangre anualmente (Levítico 16:14-15).
+
+###### Su propósito es realizar la “expiación/cobertura” (כִּפֶּר) en nombre del pueblo (Levítico 16).
+
+###### Mediante este ritual, el santuario se purifica de la impureza de Israel (Levítico 16:16).
+
+###### Funciona como el punto de encuentro entre la presencia del pacto de Dios, las palabras del pacto y el ritual de expiación.
+
+##### Sin embargo ambos usos demuestran a Dios proveyendo el medio por el cual los pecados son tratados. 
+
+#### E. ¿Por qué hilastērion específicamente?
+
+#### Porque:
+
+#### Está vinculado al lugar donde Dios trataba con los pecados que eran pasados por alto una vez al año.
+
+#### Está vinculado a la imagen de la presentación de la sangre.
+
+#### Está vinculado a la visibilidad de la solución de Dios (el propiciatorio era el punto central de la presencia de Dios en el pacto).
+
+#### Está vinculado al problema de la demora (la acumulación de pecados, ser pasados por alto, esperar un juicio justo).
+
+#### Por lo tanto, el término coincide con el propósito declarado de Pablo:
+
+#### Demostrar cómo Dios puede ser justo al mismo tiempo que justifica a los pecadores (3:26).
+
+### El Día de Expiación habla tipologicamente de un día futuro y las Escrituras lo confirman explicitamente: 
+
+##### D. 1 Juan 4:10 “*Él nos amó y envió a su Hijo como ἱλασμός (hilasmos), provisión expiatoria por nuestros pecados*”.
+
+##### Observación:
+
+##### 1 Juan usa el término relacionado “provisión expiatoria” para describir lo enviado.
+
+##### Hebreos 9:11-12 “*Entró una vez para siempre… con su propia sangre, obteniendo eterna redención*”.
+
+##### Observación:
+
+##### Se afirma que la provisión es su entrada y su sangre, y se llama “redención”.
+
+##### Resumen (solo observación):
+
+##### La Escritura identifica consistentemente la provisión como:
+
+##### El propio Hijo de Dios fue enviado como la provisión expiatoria (ἱλαστήριον, ἱλασμός).
+
+##### No es necesario deducir nada: el texto lo afirma explícitamente.
+
+### Romanos 3:25b "*por Su sangre*" la sangre es el medio que se hechaba sobre el propiciatorio. La imagen es que Dios miraba desde arriba hacia abajo. 
+
+#### Sin derramamiento no podía haber perdón de pecados. Levítico 17:11
 
 ### Romanos 3:25c "*a través de la fe...*" la fe es el medio por el cual lo expuesto tiene efecto o se accede a él.
 
 ### Romanos 3:25e "*como demostración de Su justicia,*" la demostración de Su justicia nos ayuda entender Su propósito.  La demostración concierne Su justicia. 
 
-### Romanos 3:25f *porque en Su tolerancia,*
+### Romanos 3:25f "*porque en Su tolerancia,*" el porque 
 
-### Romanos 3:25g *Dios pasó por alto los pecados cometidos anteriormente,*
+#### "*tolerancia*" PARESIS es pasar por alto, dejar ir, suspensión temporal. No es una cancelación sino algo que se posterga. 
+
+### Romanos 3:25g "*Dios pasó por alto los pecados cometidos anteriormente,*"
 
 ### Romanos 3:26a *para demostrar en este tiempo Su justicia,*
 
@@ -1942,33 +2129,45 @@ Efecto: Su condenación es justa.
 
 ### Romanos 3:26c *y sea el que justifica*
 
+#### La gramática de Pablo muestra su propósito es demostrar la "*justicia*"DIKAIOSUNE de Dios.
+
+#### Romanos 3:25–26 tiene dos cláusulas de propósito repetidas (EIS + TO infinitivo):
+
+##### “***para** la demostración de su justicia*” (v. 25)
+
+##### “***para** que él mismo sea justo y el que justifica*” (v. 26)
+
+#### Observación:
+
+##### El propósito gramatical declarado de Pablo no consiste en explicar el mecanismo de la expiación, sino en mostrar la justicia de Dios a la luz de su previo perdón de los pecados.
+
+#### Por lo tanto:
+
+##### El propósito de Pablo = una demostración pública de la justicia de Dios después de haber pasado por alto previamente los pecados.
+
 ### Romanos 3:26d *al que tiene fe en Jesús.*
 
-### Romanos 3:27a *¿Dónde está, pues, la jactancia? Queda excluida.*
+#### Pablo conecta ἱλαστήριον con el problema planteado en Romanos 1:18–3:20.
 
-### Romanos 3:27b *¿Por cuál ley? ¿La de las obras? No,*
+#### Romanos 1:18 comienza con: “Porque la ira de Dios se está revelando…”.
 
-### Romanos 3:27c *sino por la ley de la fe.*
+#### Romanos 3:21–26 es la resolución de toda esa acusación (1:18–3:20).
 
-### Romanos 3:28a *Porque concluimos que el hombre es justificado por la fe*
+#### El término "*propiciación*" se usa justo en el punto de inflexión, donde Pablo pasa de:
 
-### Romanos 3:28b *aparte de las obras de la ley.*
+##### la humanidad injusta (1:18–3:20) a la justa manera de Dios de justificar (3:21–26).
 
-### Romanos 3:29 *¿O es Dios el Dios de los judíos solamente? ¿No es también el Dios de los gentiles? Sí, también de los gentiles,*
+##### Por lo tanto, la ubicación sugiere que Pablo está introduciendo un concepto que:
 
-### Romanos 3:30a *porque en verdad Dios es uno,*
+###### se relaciona con la forma en que Dios maneja el pecado,
 
-### Romanos 3:30b *el cual justificará en virtud de la fe a los circuncisos*
+###### explica la demora del juicio (“pasarlo por alto”),
 
-### Romanos 3:30c *y por medio de la fe a los incircuncisos.*
+###### y muestra la justicia de Dios al hacerlo.
 
-### Romanos 3:31a *¿Anulamos entonces la ley por medio de la fe?*
+##### La imagen del propiciatorio logra las tres cosas.
 
-### Romanos 3:31b *¡De ningún modo!*
-
-### Romanos 3:31c *Al contrario, confirmamos la ley.*
-
-## En Síntesis (3:21-31)
+## En Síntesis (3:21-26)
 
 ### QUINTA PREGUNTA Y RESPUESTA (3:21-30)
 
@@ -1979,6 +2178,52 @@ Efecto: Su condenación es justa.
 ##### La necesidad de salvación (3:23): Se necesita desesperadamente, porque todos han pecado y no la han alcanzado. La gloria de Dios.
 
 ##### El testimonio de salvación del Antiguo Testamento (3:21b): Las Escrituras prometen la salvación aparte de la ley.
+
+## Romanos 3:27-31 
+
+### Romanos 3:27a "*¿Dónde está, pues, la jactancia? Queda excluida.*" La jactancia queda excluida porque lo único que el hombre contribuye para su justificación es el pecado. 
+
+### Romanos 3:27b "*¿Por cuál ley? ¿La de las obras? No,*" ¿cuál fue el camino que quito toda jactancia? ¿El de las obras? 
+
+#### ¿Por qué preguntaria esto Pablo? 
+
+##### porque muchas personas creen que para quitar la jactancia del hombre es necesario:
+
+###### Cambiar de estilo de vida
+
+###### Tener un cambio de actitud sobre su pecado
+
+###### Someterse al Señorio de Cristo
+
+###### Sentir remordimiento por una vida de pecado
+
+###### Pedir a Dios por salvación
+
+###### ¿Puedes pensar en otros ejemplos de obras que se usan como el método para salvación? 
+
+### Romanos 3:27c "*sino por la ley de la fe.*" No es por el camino de las obras sino por un principio que es el medio que Dios estableció, el medio de la fe en Jesucristo para justificación a todo el que cree. 
+
+### Romanos 3:28a "*Porque concluimos que el hombre es justificado por la fe aparte de las obras de la ley.*" Pablo es muy cuidadoso de aclarar que la justificación es soloamente para el que cree sin incluir de alguna manera las obras de la ley. 
+
+#### Como ya estableció, el principio de las obras niega el principio de la fe. 
+
+#### El principio de las obras no quitan la jactancia. El único medio para quitar la jactancia del hombre es por el medio de la fe porque pone toda la gloria y reconocimiento lo recibe aquel que hace la obra meritoria, en este caso Jesucristo en la cruz. 
+
+### Romanos 3:29 "*¿O es Dios el Dios de los judíos solamente? ¿No es también el Dios de los gentiles? Sí, también de los gentiles,*" el principio de las obras (gentiles) o por guardar las obras de La Ley (judíos) es igualmente contrario al principio de justificación por la fe. 
+
+### Romanos 3:30a "*porque en verdad Dios es uno,*" La razón que da es que Dios es el mismo Dios quien justifica al gentíl como al judío. 
+
+### Romanos 3:30b "*el cual justificará en virtud de la fe a los circuncisos y por medio de la fe a los incircuncisos.*" la justificación únicamente viene por la fe sin importar que de que etnía proviene la persona. 
+
+### Romanos 3:31a "*¿Anulamos entonces la ley por medio de la fe?*" Pablo anticipa la pregunta que proviene de pensar que la fe es de alguna manera contradictorio a la ley. 
+
+### Romanos 3:31b "*¡De ningún modo!*" la respuesta anticipada a esa pregunta es que la fe de ninguna mera desacredita o anula La Ley. Veremos que ni siguiera ignora La Ley...
+
+### Romanos 3:31c "*Al contrario, confirmamos la ley.*" La justificación por la fe en Jesucristo confirma La Ley. ¿Cómo?
+
+#### Afirma los requisitos para ser justo que mostraba La Ley. El que peca merece morir. Afirmamos La Ley porque pusimos nuestra fe en la muerte de Cristo a nuestro favor satisfaciendo los requisitos de la ley. 
+
+## En Síntesis (3:26-31)
 
 ##### El método de salvación (3:22, 24-25, 27-28)
 
@@ -2024,7 +2269,7 @@ Efecto: Su condenación es justa.
 
 #### Pablo usa la palabra «padre» para subrayar: No la paternidad étnica. No la paternidad basada en el pacto de la circuncisión. Sino la paternidad basada en la fe.
 
-### B. Para revertir las suposiciones judías sobre Abraham
+### Para revertir las suposiciones judías sobre Abraham
 
 #### Muchos judíos del primer siglo consideraban a Abraham como: padre de Israel por sangre, padre de los circuncidados, padre de la obediencia, padre de la distinción del pacto
 
@@ -2034,7 +2279,7 @@ Efecto: Su condenación es justa.
 
 #### El uso repetido de «padre» recalca que la verdadera descendencia es por fe, no por carne.
 
-### C. Para establecer a Abraham como el prototipo del creyente
+### Para establecer a Abraham como el prototipo del creyente
 
 #### Pablo destaca a Abraham como: prototipo de fe (4:3), prototipo de justificación (4:5-6), prototipo de fe en la resurrección (4:17-25)
 
@@ -2042,7 +2287,7 @@ Efecto: Su condenación es justa.
 
 #### Pablo construye una identidad teológica: Ser creyente es ser hijo de Abraham.
 
-Pablo uso Padre también para continuar el argumento de Romanos 3:27-31 que Dios no solo es Dios del judio sino de los gentiles también. 
+### Pablo uso Padre también para continuar el argumento de Romanos 3:27-31 que Dios no solo es Dios del judio sino de los gentiles también. 
 
 #### Romanos 4 amplía la afirmación anterior de Pablo:
 
@@ -2058,7 +2303,7 @@ Pablo uso Padre también para continuar el argumento de Romanos 3:27-31 que Dios
 
 #### Así pues, las múltiples referencias a la palabra “padre” funcionan como prueba legal de que Dios es el Dios de todas las naciones.
 
-E. Para destacar la promesa del pacto de bendición universal (Génesis 17; 12)
+### Para destacar la promesa del pacto de bendición universal (Génesis 17; 12)
 
 #### Romanos 4 cita o repite repetidamente:
 
@@ -2076,23 +2321,23 @@ E. Para destacar la promesa del pacto de bendición universal (Génesis 17; 12)
 
 #### Por lo tanto, la palabra “padre” vincula Romanos 4 directamente con Génesis.
 
-4. Resumen
+### Resumen
 
 #### Pablo repite la palabra "padre" siete veces en Romanos 4 para:
 
-#### (1) Presentar a Abraham como padre de todos los creyentes, judíos o gentiles
+#### Presentar a Abraham como padre de todos los creyentes, judíos o gentiles
 
-#### (2) Derribar cualquier afirmación de descendencia étnica o legalista exclusiva
+#### Derribar cualquier afirmación de descendencia étnica o legalista exclusiva
 
-#### (3) Enfatizar la fe, no las obras, como base de la identidad familiar
+#### Enfatizar la fe, no las obras, como base de la identidad familiar
 
-#### (4) Mostrar a Abraham como el prototipo de la justificación por la fe
+#### Mostrar a Abraham como el prototipo de la justificación por la fe
 
-#### (5) Vincular el argumento con Génesis 12 y 17
+#### Vincular el argumento con Génesis 12 y 17
 
-#### (6) Expresar la plenitud/completitud de la paternidad espiritual de Abraham
+#### Expresar la plenitud/completitud de la paternidad espiritual de Abraham
 
-7. Romanos 9-11 también se basa en Romanos 4
+### Romanos 9-11 también se basa en Romanos 4
 
 #### Romanos 4: ¿Quiénes son los hijos de Abraham?
 
@@ -2112,20 +2357,22 @@ E. Para destacar la promesa del pacto de bendición universal (Génesis 17; 12)
 
 ### Romanos 4:2a *Porque si Abraham fue justificado por las obras, tiene de qué jactarse,*
 
-"*fue justificado*" EDIKAIOTHE - (aoristo, Aprobar. Índico. 3sg) 
-"*tiene*" EKEI - (Presente, activo, Índico. 3sg)
+#### "*fue justificado*" EDIKAIOTHE - (aoristo, Aprobar. Índico. 3sg) 
+
+#### "*tiene*" EKEI - (Presente, activo, Índico. 3sg)
 
 ### Romanos 4:2b *pero no para con Dios.*
 
 ### Romanos 4:3a *Porque ¿qué dice la Escritura?*
 
-dice LEGEI - (presente, activo, Índico. 3sg)
+#### dice LEGEI - (presente, activo, Índico. 3sg)
 
 
 ### Romanos 4:3b *«Y CREYÓ ABRAHAM A DIOS, Y LE FUE CONTADO POR JUSTICIA».*
 
-creyó EPISTEUSEN - (aoristo, activo, Índico. 3sg)
-fue contado ELOGISTHE - (aoristo, Aprobar. Índico. 3sg)
+#### "*creyó*" EPISTEUSEN - (aoristo, activo, Índico. 3sg)
+
+#### "*fue contado*" ELOGISTHE - (aoristo, Aprobar. Índico. 3sg)
 
 ## Romanos 4:4-8 Contraste lógico entre ir por las obras versus por la fe
 
@@ -2213,16 +2460,17 @@ fue contado ELOGISTHE - (aoristo, Aprobar. Índico. 3sg)
 
 ### Romanos 4:9a *¿Es, pues, esta bendición solo para los circuncisos, o también para los incircuncisos?*
 
-ἔχομεν — presente, activo, Índico. 1pl (variante de texto; NA28 tiene ἡ μακαριότης…)
-λέγομεν — presente, activo, Índico. 1pl - decimos
-ἐλογίσθη—aoristo, Aprobar. Índico. 3sg - fue contado
+EXOMEN ἔχομεν — presente, activo, Índico. 1pl (variante de texto; NA28 tiene ἡ μακαριότης…)
+LEGOMEN λέγομεν — presente, activo, Índico. 1pl - decimos
+ELOGISTHE ἐλογίσθη—aoristo, Aprobar. Índico. 3sg - fue contado
 
 ### Romanos 4:9b *Porque decimos: «A ABRAHAM, LA FE LE FUE CONTADA POR JUSTICIA».* Abram, un gentíl más
 
 ### Romanos 4:10a *Entonces, ¿cómo le fue contada?*
 
-ἐλογίσθη—aoristo, Aprobar. Índico. 3sg - fue contado
-(no hay verbo finito en la pregunta aparte de la repetición)
+#### ἐλογίσθη—aoristo, Aprobar. Índico. 3sg - fue contado
+
+#### (no hay verbo finito en la pregunta aparte de la repetición)
 
 ### Romanos 4:10b *¿Siendo circunciso o incircunciso?*
 
@@ -3992,3 +4240,4 @@ Al andar por el Espíritu, satisfacemos la ley.
 [^9]:TuVersión | La aplicación de la Biblia | Biblia.com
 [^10]: *Science Speaks*, 1958
 [^11]: network.crcna.org
+[^12]: James Hope Moulton y George Milligan, The Vocabulary of the Greek Testament (Londres: Hodder and Stoughton, 1930), 663.

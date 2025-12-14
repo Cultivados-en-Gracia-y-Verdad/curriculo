@@ -6,6 +6,8 @@ ___-___
 # 1 Juan
 ## El puso su vida por nosotros
 
+Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo— resulta naturalmente en Luz, Justicia y Amor.
+
 ##  Importancia de la epístola 
 
 ### La epístola de 1 Juan es muy significativa, debido a que aborda muchas creencias fundamentales de la fe cristiana como la encarnación de Cristo, Su deidad, nos muestra como los creyentes pueden vivir en la luz, la comunión unos con otros, nos muestra quienes son los falsos maestros, la seguridad de salvación y la relación del __<u>creyente</u>__ con el pecado.
