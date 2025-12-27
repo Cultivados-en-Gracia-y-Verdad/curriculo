@@ -316,6 +316,88 @@ El Poder del Evangelio
 
 ### Romanos 1:7c *Gracia y paz a ustedes de parte de Dios nuestro Padre y del Señor Jesucristo.* Como de costumbre, Pablo empezará su carta con un deseo de gracia y paz para ellos. Aquí aclara que es la gracia y paz que proviene de Jesucristo y de Dios, el Padre que compartimos. 
 
+#### ¿Que es gracia CHARIS? 
+
+##### El sentido básico observable por el uso: favor que no se debe
+
+##### El significado se establece mediante contrastes, objetos, fuentes y resultados, no mediante declaraciones de definición.
+
+##### Las Escrituras no definen gracia de manera abstracta; lo demuestra a través de contrastes y resultados.
+
+#### CHARIS se enseña en contraste con la obligación ó deuda. 
+
+##### Romanos 4:4 “*Ahora bien, al que trabaja, su salario no se le acredita como favor* CHARIS, *sino como lo que le corresponde*”.
+
+##### CHARIS se contrasta con: 
+
+##### “*lo que se debe*” OFEILEMA  — 
+
+##### Lo que se gana no se puede llamar CHARIS
+
+##### CHARIS se define negativamente: no obligación
+
+##### Romanos 11:6 “*Pero si es por gracia* CHARIS, *ya no es por obras; de lo contrario*, *gracia* CHARIS *ya no es gracia* CHARIS”.
+
+##### CHARIS es mutuamente excluyente con las obras como base.
+
+##### La frase es autorreferencial: CHARIS deja de ser CHARIS si se mezcla con obras. Este versículo enseña CHARIS mediante un límite lógico, no una explicación.
+
+#### CHARIS se enseña como una forma de dar. 
+
+##### Romanos 3:24 “*siendo justificados gratuitamente por su gracia* CHARIS, *mediante la redención que es en Cristo Jesús*”.
+
+##### CHARIS está vinculado con: “como regalo / gratuitamente”. 
+
+##### CHARIS opera como una manera, no como un objeto.
+
+##### La oración describe cómo se da algo.
+
+#### CHARIS se enseña como algo que puede aumentar
+
+##### Juan 1:16 “*Porque de su plenitud todos hemos recibido, y gracia sobre gracia*”.
+
+##### CHARIS se recibe.  La frase indica reemplazo o sucesión. Ningún mecanismo explicado; sólo implica acumulación o continuación
+
+##### Hechos 4:33 “*Y abundante gracia* CHARIS *estaba sobre todos ellos*”. CHARIS se describe como abundante. Se dice que está "sobre" la gente.
+
+#### CHARIS se enseña en relación con el habla y la conducta.
+
+##### Lucas 4:22 “*Y todos hablaban bien de él, y se maravillaban de las palabras de gracia* CHARIS *que salían de sus labios*”. CHARIS modifica palabras, caracteriza la manera de hablar. No se adjunta ninguna explicación moral.
+
+##### Colosenses 4:6 “*Que vuestra palabra sea siempre con gracia* CHARIS, *como sazonada con sal…*” CHARIS puede calificar la comunicación.  Funciona adjetivamente en efecto. El resultado está implícito, no declarado.
+
+#### CHARIS se enseña como algo en lo que uno puede permanecer
+
+##### Romanos 5:2 “*por quien también hemos obtenido por la fe nuestra entrada en este gracia* CHARIS *en el que estamos…*” CHARIS se representa espacialmente (“ponerse de pie”) esta ingresado. Es un estado presente, no sólo una acción.
+
+#### CHARIS se enseña como algo a lo que se puede resistir o dejar de lado.
+
+##### Gálatas 2:21 “*No anulo la gracia* CHARIS *de Dios…*” CHARIS puede ser anulado (“dejar de lado” ATHETEO ). Indica que CHARIS no tiene efecto automático. La acción se atribuye a las personas.
+
+##### Hebreos 12:15 “*Mirad que nadie deje de alcanzar la gracia* CHARIS *de Dios…*” Uno puede “quedarse corto” de CHARIS. Es algo hacia lo que uno no puede llegar. CHARIS se enseña como una acción potenciadora.
+
+##### 1 Corintios 15:10 “*Pero por la gracia* CHARIS *de Dios soy lo que soy, y su gracia* CHARIS *para conmigo no resultó en vano…*” CHARIS se describe como operativo. Puede ser eficaz o ineficaz (“no en vano”). El trabajo sigue a CHARIS, pero la secuencia se establece, no se explica.
+
+#### Sólo observaciones resumidas.  Solo por el uso, las Escrituras enseñan CHARIS como:
+
+##### No es algo debido (Romanos 4:4)
+
+##### Incompatible con la obligación como base (Romanos 11:6)
+
+##### Una manera de dar (Romanos 3:24)
+
+##### Recibible y abundante (Juan 1:16; Hechos 4:33)
+
+##### Una posición actual (Romanos 5:2)
+
+##### Algo que se puede resistir o anular (Gálatas 2:21)
+
+##### Algo que puede ser eficaz o vano (1 Corintios 15:10)
+
+##### Una cualidad que afecta el habla y la conducta (Lucas 4:22; Colosenses 4:6)
+
+#### Las Escrituras nunca definen CHARIS de manera abstracta; lo enseña a través de contrastes, verbos y resultados.
+
 ## Romanos 1:8-15 Pablo expresa agradecimiento, sus oraciónes y deseos de visitarles
 
 ### Romanos 1:8a *En primer lugar, doy gracias a mi Dios* después de referirse a Dios como nuestro Padre, ahora Pablo habla más personalmente. Dice que esta agradecido a su Dios. 
@@ -344,65 +426,113 @@ El Poder del Evangelio
 
 ### Romanos 1:10 "*...siempre en mis oraciones, implorando que ahora, al fin, por la voluntad de Dios, logre ir a ustedes.*" Dios es el único testigo de cuanto ora Pablo e implora que Dios le permita ira a visitarlos. 
 
-### Romanos 1:11a "*Porque anhelo verlos para impartirles algún don espiritual,*" Su deseo de Pablo es ir a verlos con el propósito de participarles a ellos la gracia de Dios. 
+### Romanos 1:11a "*Porque anhelo verlos*" Pablo tenía un profundo deseo de ir a visitar a los creyentes en Roma.  
 
-### Romanos 1:11b "*a fin de que sean confirmados;*" 
+#### Pablo expresa que quería verlos. Su deseo era verlos a los creyentes en Roma. 
 
-#### "*Confirmados*" STERIZO ser confirmado (reforzado) v. - estar o volverse más marcado por una firme determinación o resolución.
+#### ¿Por qué queria verlos? 
 
-### Romanos 1:12a *es decir, para que cuando esté entre ustedes nos confortemos mutuamente,*
+### Romanos 1:11b "*para impartirles...algún don espiritual,*" ell propósito de verlos era para dar, era para servirles. Pablo pensaba como podría ser de bendición a todos los creyentes en Roma. 
 
-### Romanos 1:12b *cada uno por la fe del otro, tanto la de ustedes como la mía.*
+#### Esto demuestra su afecto y preocupación por la iglesia, no solo como un maestro distante, sino como un padre espiritual amoroso. 1 Corintios 4:15
 
-## Romanos 1:13-15 - explicación de la demora
+#### Este anhelo resalta la importancia de la comunión y el ánimo presencial entre los creyentes.
 
-### Romanos 1:13a "*Y no quiero que ignoren, hermanos, que con frecuencia he hecho planes para ir a visitarlos,*"
+#### Pablo no especifica el don. Vemos que "*algún don*" es singular modificado por el hecho que es espiritual. 
 
-### Romanos 1:13b "*pero hasta ahora me he visto impedido, a fin de obtener algún fruto también entre ustedes,*"
+#### 1 Corintios 12:4-7 - “*Ahora bien, hay diversidad de dones, pero el Espíritu es el mismo; y hay diversidad de servicios, pero el Señor es el mismo; y hay diversidad de actividades, pero es el mismo Dios quien las capacita para todos. A cada uno se le da la manifestación del Espíritu para el bien común*”. 
 
-### Romanos 1:13c "*así como entre los demás gentiles.*"
+##### Este pasaje explica la variedad y el propósito de los dones espirituales:
 
-### Romanos 1:14a "*Tengo obligación*"
+##### Pablo enfatiza que los dones espirituales provienen del Espíritu Santo y tienen como propósito la edificación de todo el cuerpo de Cristo. Romanos 12:6
 
-### Romanos 1:14b "*tanto para con los griegos*" los griegos son gentiles que hablan griego y que buscan ser cultos. 
+#### ¿Qué propósito tenía el don que queria impartirles? 
 
-### Romanos 1:14c *como para con los bárbaros,* Los bárbaros son gentiles que no hablan griego y no les interesa la filosofía griega y helenizar. 
+### Romanos 1:11b "*a fin de que sean confirmados;*" Pablo desea que el don que imparte fortalezca y establezca la fe de los creyentes. 
 
-### Romanos 1:14d *para con los sabios como para con los ignorantes.*
+#### "*Confirmados*" STERIZO (aoristo, pasivo, infinitivo) ser establecido, reforzado o fortalecido v. - estar o volverse más marcado por una firme determinación o resolución.
 
-### Romanos 1:15a *Así que, por mi parte, ansioso estoy de anunciar el evangelio*
+#### El fortalecimiento es pasivo, lo que significa que actúa sobre los receptores. Esta cláusula expresa gramaticalmente el resultado esperado al compartir el don.
 
-### Romanos 1:15b *también a ustedes que están en Roma.* Es interesante que Pablo este tan ansioso de anunciar el evangelio a creyentes en Roma. 
+#### En resumen, Pablo expresa un sincero deseo de visitar a los creyentes romanos para compartir personalmente un don espiritual —dado por el Espíritu Santo— con el propósito de alentar y fortalecer su fe y vida espiritual.
 
-####  ¿Por qué?
+### Romanos 1:12a "*es decir, para que cuando esté entre ustedes nos confortemos mutuamente,*" Pablo clarifica lo que decía en el versículo anterios. Desea dar y que ellos reciban para ser fortalecidos, quiere decir mutuamente animarse el uno al otro. 
 
-## Romanos 1:16-17 - Tema y propósito central de la carta
+#### Pablo no desea ir a fortalecerlos a ellos. Pablo estaba animado porque se fortalecerían los unos a los otros. 
 
-### Romanos 1:16a "*Porque no me avergüenzo del evangelio,*" Pablo no sentía remordimiento o vergüenza social por el evangelio que muchas veces era despreciado y burlado. 
+#### El deseo de Pablo no estaba en estar presidiendo sobre ellos ni tampoco de una manera inferior a ellos. El deseaba estar entre ellos y animarse los unos a los otros. 
+
+### Romanos 1:12b "*cada uno por la fe del otro, tanto la de ustedes como la mía.*" Serian animados mutuamente por medio de la fe que comparten. 
+
+## Romanos 1:13 - explicación de la demora
+
+### Romanos 1:13a "*Y no quiero que ignoren, hermanos, que con frecuencia he hecho planes para ir a visitarlos,* El deseo presente de Pablo es que sepan que en sus planes estaba ir a visitarlos. 
+
+### Romanos 1:13b "*pero hasta ahora me he visto impedido,*" Sin embargo, por fuerza mayor, había sido impedido de ir pero no ha perdido la esperanza de ir. 
+
+### Romanos 1:13c "*a fin de obtener algún fruto también entre ustedes,*" gramaticalmente es imposible ver a que fruto se refiere que tiene como fin obtener entre ellos. 
+
+Aquí el fruto es indefinido. Simplemente menciona fruto sin decir a que se refiere. 
+
+Pablo menciona fruto en otros pasajes de Romanos. El 
+
+Romanos 6:21-22 - 
+
+Romanos 7:4-5 - verbo. 
+
+Romanos 15:28 - *Así que cuando haya cumplido esto y les haya entregado esta ofrenda* [fruto], *iré a España llegando de paso a verlos.* Fruto aquí es el resultado de sus ofrendas. 
+
+### Romanos 1:13d "*así como entre los demás gentiles.*" Es dificil ser enfático, pero al parece el fruto que se refiere Pablo es la colecta de ofrendas que iva haciendo entre los gentiles para llevar a los hermanos judíos en Jerusalén. 
+
+## Romanos 1:14-17 La obligación y la disposición de Pablo explicadas
+
+### Romanos 1:14a "*Tengo obligación*" Pablo les expresa que tiene un deber orientado hacia la acción. Romanos 1:15  
+
+#### "*obligación*" OFEILETES deber en general, con referencia a favores recibidos o perjuicios causados, etc.: Mateo 6:12; Romanos 1:14, 8:12, 15:27; Gálatas 5:3; de los pecadores, en relación con Dios (Hebreos 8:5-6); Lucas 13:4[^13]
+
+### Romanos 1:14b "*tanto para con los griegos*" Su obligación es con los griegos, aquellos que eran buscadores de lo culto y letrados. 
+
+### Romanos 1:14c *como para con los bárbaros,* Su obligación era con los que eran gentiles que no hablaban griego y no les interesa la filosofía griega y helenizar. 
+
+### Romanos 1:14d *para con los sabios como para con los ignorantes.* Su obligación era con personas letradas como no letradas. 
+
+### Romanos 1:15a *Así que, por mi parte, ansioso estoy de anunciar el evangelio*. Como deudor, Pablo explica su disposición por ir a anunciar el evangelio. 
+
+#### El mensaje que Pablo predicaba donde iva era el evangelio por el cual había sido apartado. Romanos 1:1, 9, 15:16, 19; 1 Corintios 1:17, 9:16, 15:1; 2 Corintios 2:12; Gálatas 1:11, 2:2; Efesios 3:6-8; Colosenses 1:23; 1 Tesalonicenses 2:2, 9
+
+### Romanos 1:15b *también a ustedes que están en Roma.* Pablo estaba tan ansioso de anunciar el evangelio también a creyentes en Roma. ¿Por qué?
+
+#### El único mensaje que Pablo enseñaba era el Evangelio. Pablo nunca dice que ya habían escuchado el evangelio y ahora les enseñaba otras cosas. Si dice que habían recibido el evangelio y que estaban firmes en él. Les enseña que deben permanecer y no dejar que sea distorcionado. 1 Corintios 15:1-2
+
+#### En cada caso y en cada lugar, sea los problemas que se ven enfrentados los creyentes, Pablo vuelve a enfatizar la identidad de los creyentes que recibieron al creer el evangelio. 
+
+##### Vemos los siguientes ejemplos: 
+
+###### **Gálatas**: El problema se define como el alejamiento del evangelio, y la solución es la fidelidad a él. El evangelio se presenta como algo que puede ser amenazado y debe permanecer entre los creyentes.
+
+###### **1 Corintios**: Pablo no introduce un nuevo remedio. Reitera el evangelio que recibieron. La medida correctiva no es una “doctrina adicional”, sino nuevamente presentar el mismo evangelio.
+
+###### **Romanos**: El evangelio no es tratado sólo como un mensaje de entrada, sino como la realidad compartida por la cual los creyentes son fortalecidos, unificados e instruidos.
+
+### Romanos 1:16a "*Porque no me avergüenzo del evangelio,*" Pablo no sentía remordimiento o vergüenza para con los griegos, bárbaros, sabios, ignorantes o los creyentes romanos por el evangelio. 
 
 #### "*avergüenzo*" EPAISCHYNOMAI avergonzarse v. - estar o llegar a estar caracterizado por sentimientos de vergüenza, culpa, bochorno o remordimiento.[^1]
 
 ##### Se podría traducir esta frase de la siguiente manera, "No me retraigo, no me escondo ni me avergüenzo del evangelio, aunque el mundo lo desprecie.” 2 Timoteo 1:8, 12
 
-#### Esto demuestra la gran esperanza que Pablo tenia en el evangelio. El estaba convencido que no le decepcionaría. Romanos 5:5
+##### Esto demuestra la gran esperanza que Pablo tenia en el evangelio. El estaba convencido que no le decepcionaría. Romanos 5:5
 
 #### En el primer siglo, Roma era la potencia del mundo. Su capital, la ciudad de Roma. Es decir, el poder de los poderes radicaba en la ciudad de Roma. Inclusive era parte de la religión del estado adorar al emperador romano. 
 
-##### desde el punto de vista cultural: 
-
-###### El evangelio proclamaba que un judío crucificado era el Salvador y Señor del mundo.
+##### El evangelio proclamaba que un judío crucificado era el Salvador y Señor del mundo.
 
 ###### La crucifixión era la muerte más vergonzosa imaginable, reservada para esclavos y criminales. Deuteronomio 21:23; 1 Corintios 1:23
 
 ###### Predicar que la salvación venía a través de tal persona les parecía una locura a los griegos y una ofensa a los judíos. 1 Corintios 1:22-24
 
-###### Así pues, desde la perspectiva del mundo, el mensaje del evangelio era un escándalo y una locura.
+### Romanos 1:16b "*pues es el poder de Dios*" Es asombroso que Pablo diga que no tenia vergüenza, es decir, la razón de su confianza era porque el evangelio es el poder de Dios. Para Pablo el poder de Dios era mucho mayor que cualquier republica, imperio o nación. 1 Corintios 1:18-31
 
-###### Pero Pablo se niega a sentir vergüenza porque sabe que lo que el mundo llama debilidad es, en realidad, el poder de Dios. Lo que para el mundo llama tonto es la sabiduria de Dios. 
-
-### Romanos 1:16b "*pues es el poder de Dios*" Es asombroso que Pablo diga que no tenia vergüenza, es decir, la razón de su confianza era porque el evangelio es el poder de Dios. Para Pablo el poder de Dios era mucho mayor que cualquier republica, imperio o nación. 
-
-#### En contraste con la vergüenza social esta el poder de Dios. 
+#### Así pues, desde la perspectiva del mundo, el mensaje del evangelio era un escándalo y una locura. Pero Pablo se niega a sentir vergüenza porque sabe que lo que el mundo llama debilidad es, en realidad, el poder de Dios. Lo que para el mundo llama tonto es la sabiduria de Dios. 1 Corintios 1:30-31
 
 ### Romanos 1:16c "*el evangelio...es poder de Dios...para la salvación* La provisión para la salvación del hombre no viene del emperador de Roma, viene de Dios y es el evangelio. 
 
@@ -2223,7 +2353,7 @@ muestra a Dios presentando públicamente a Jesús como el medio dado por Dios pa
 
 #### Afirma los requisitos para ser justo que mostraba La Ley. El que peca merece morir. Afirmamos La Ley porque pusimos nuestra fe en la muerte de Cristo a nuestro favor satisfaciendo los requisitos de la ley. 
 
-## En Síntesis (3:26-31)
+## En Síntesis (3:27-31)
 
 ##### El método de salvación (3:22, 24-25, 27-28)
 
@@ -2243,23 +2373,22 @@ muestra a Dios presentando públicamente a Jesús como el medio dado por Dios pa
 
 ## Romanos 4:1-3 Abraham justificado por fe
 
-### Romanos 4 busca explicar lo que estableció en Romanos 3:27-31. La justificación por la fe de Abraham es usado como ejemplo principal. 
+### Romanos capítulo 4 funciona como una demostración bíblica que respalda la afirmación de Romanos 3:21-31. Romanos capítulo 3 afirma algo. Romanos capítulo 4 lo demuestra con las Escrituras. Pablo no introduce un tema nuevo; confirma el argumento anterior.
 
-#### Pablo demuestra por las escrituras que Abraham fue justificado por la fe antes de las obras o la circuncisión, lo que prueba que la justificación es por gracia mediante la fe solamente.
+#### Pablo demuestra por las escrituras que Abraham fue justificado por la fe antes de La Ley o la circuncisión, lo que prueba que la justificación de Abráham ocurrió antes de estas cosas.
 
 #### Dado que el capítulo es argumentativo e ilustrativo, y no exhortativo, no encontramos ningún imperativo.
 
-### Romanos 4:1a *¿Qué diremos, entonces, que halló Abraham,*
+
+### Romanos 4:1a *¿Qué diremos, entonces, que halló Abraham...según la carne* esta pregunta establece el tema que abarca Pablo en todo el capítulo. 
 
 #### "*diremos*" EROUMEN - (Futuro, Activo, Índico, 1plural)
 
 #### "*halló*" EUREKENAI - (perfecto, activo, infinitivo) 
 
-### Romanos 4:1b *nuestro padre según la carne?* 
+#### El capítulo se estructura como una averiguación. Abraham es examinado como evidencia, no como modelo a seguir. "*Según la carne*" limita el análisis a las condiciones históricas visibles, no a los estados internos. 
 
-#### Padre aparece 7 veces en el capítulo 4. Esto es significativo. 
-
-#### Abraham es el receptor o padre de lo que llamamos el pacto Abrahamico. Esto es importante para todo creyente como veremos. 
+### Romanos 4:1b *....nuestro padre...*" Padre aparece 7 veces en el capítulo 4. Esto es significativo.  Abraham es el receptor o padre de lo que llamamos el pacto Abrahamico. Esto es importante para todo creyente como veremos. 
 
 #### Cuando Romanos 4 habla de que Abraham es padre, no es en términos de etnia. Pablo no esta presentando a Abraham como padre de los judíos. 
 
@@ -2319,11 +2448,11 @@ muestra a Dios presentando públicamente a Jesús como el medio dado por Dios pa
 
 #### La base de fe para su cumplimiento.
 
-#### Por lo tanto, la palabra “padre” vincula Romanos 4 directamente con Génesis.
+#### Por lo tanto, la palabra “*padre*” vincula Romanos 4 directamente con Génesis.
 
 ### Resumen
 
-#### Pablo repite la palabra "padre" siete veces en Romanos 4 para:
+#### Pablo repite la palabra "*padre*" siete veces en Romanos 4 para:
 
 #### Presentar a Abraham como padre de todos los creyentes, judíos o gentiles
 
@@ -2355,20 +2484,37 @@ muestra a Dios presentando públicamente a Jesús como el medio dado por Dios pa
 
 ##### Respuesta: La familia está unida, es multiétnica y está arraigada en la promesa.
 
-### Romanos 4:2a *Porque si Abraham fue justificado por las obras, tiene de qué jactarse,*
+### Romanos 4:2a "*Porque si Abraham fue justificado por las obras,*" Pablo presenta una condición hipotética: asumamos por un momento que Abraham fue justificado por hacer buenas obras. 
 
 #### "*fue justificado*" EDIKAIOTHE - (aoristo, Aprobar. Índico. 3sg) 
 
+### Romanos 4:2b "*tiene de qué jactarse,*" la consecuencia lógica (no moral) a esta situación hipotética es el orgullo. 
+
 #### "*tiene*" EKEI - (Presente, activo, Índico. 3sg)
 
-### Romanos 4:2b *pero no para con Dios.*
+### Romanos 4:2c "*pero no para con Dios.*" la esfera de evaluación es ante Dios no ante los hombres. Esto introduce una diferencia en la hipótesis de que si Abraham fuera justificado por obras...no tendría ninguna forma de jactarse ante Dios. 
 
-### Romanos 4:3a *Porque ¿qué dice la Escritura?*
+### Romanos 4:3a "*Porque ¿qué dice la Escritura?*" Para continuar la discusión Pablo no apelará a las opiniones. Irá directo a la fuente para demostrar que dice Dios en Su Palabra. 
 
-#### dice LEGEI - (presente, activo, Índico. 3sg)
+#### "*dice*" LEGEI - (presente, activo, Índico. 3sg)
 
+#### Esto es una importante manera de sostener todo lo que discutimos y sostenemos. Debe ser según las Escrituras. Las Escrituras son como la autoridad puesta por Dios para gobernarnos en cuestiones de fe y práctica. 
 
-### Romanos 4:3b *«Y CREYÓ ABRAHAM A DIOS, Y LE FUE CONTADO POR JUSTICIA».*
+#### Las Escrituras están por encima de las opiniones de los hombres. Todos por igual debemos estar sujetos a la Escrituras y sostenerlas como plena autoridad para nuestras vidas. 
+
+##### Nuestra cosmovisión y todo conceptos que mantenemos deben estar regidos por lo que nos enseñan las Escrituras. Buscamos ser enseñados por la Escrituras y no usamos las Escrituras para apoyar nuestras opiniones. 
+
+#### En este caso, Pablo cita Génesis 15:6 para demostrar la justificación de Abraham evaluada ante Dios. 
+
+### Romanos 4:3b "*«Y CREYÓ ABRAHAM A DIOS, Y LE FUE CONTADO POR JUSTICIA».*" La Escritura es clara...Abraham creyó, Dios justificó. 
+
+#### La Escritura se considera la autoridad decisiva. El verbo "*contado*" LOGIZOMAI indica una acción contable, no un proceso moral. 
+
+#### El texto no describe las acciones de Abraham, sino el ajuste de cuentas de Dios. Dios le contó, le acreditó justicia. 
+
+#### Esto significa que Abraham no hizo nada digno de recibir mérito. No se menciona ninguna acción u obra de parte de Abraham. El Texto bíblico ignora cualquier acción de parte de Abraham y pone el foco sobre el accionar de Dios. 
+
+#### Abraham no tiene razón para la arrogancia porque la justificación no provino de obras sino de Dios. 
 
 #### "*creyó*" EPISTEUSEN - (aoristo, activo, Índico. 3sg)
 
@@ -2376,27 +2522,73 @@ muestra a Dios presentando públicamente a Jesús como el medio dado por Dios pa
 
 ## Romanos 4:4-8 Contraste lógico entre ir por las obras versus por la fe
 
-### Romanos 4:4 *Ahora bien, al que trabaja, el salario no se le cuenta como favor, sino como deuda;*
+### Romanos 4:4 *Ahora bien, al que trabaja, el salario no se le cuenta como favor, sino como deuda;* usando términos económicos Pablo enfatiza la diferencia entre un salaria y un favor. 
+
+#### El salario o sueldo, paga o jornal es algo que es debido a uno por trabajar. Un salario es lo que uno gana por laborar. 
+
+#### Al contrario, un favor o gracia  es muy distinto. La gracia no es algo que es debido ni obligado. 
 
 #### "*al que trabaja*" ERGAZOMENO - (Presente, Mediados/Dep. Parte. Dat. masc. sg)
 
 #### "*se le cuenta*" LOGIZETAI - (presente, Indicador medio/paso. 3sg) 
 
-### Romanos 4:5a *pero al que no trabaja, pero cree en Aquel que justifica al impío,*
+#### Aquí no se hace ninguna valoración moral de las obras, sólo se trata del modo en que se cuenta o acredita  algo.
 
-#### "*no trabaja*" ERGAZOMENO - (presente, Mediados/Dep. Parte. Dat. masc. sg) - literalmente significa no funciona
+### Romanos 4:5a "*pero al que no trabaja, pero cree en Aquel que justifica al impío,*" aquí vemos un contraste de gran importancia. Creer es puesto en contraste de trabajar. 
+
+#### "*no trabaja*" ERGAZOMENO - (presente, Mediados/Dep. Parte. Dat. masc. sg) - literalmente significa no funciona. 
 
 #### "*cree*" PISTEUOMTI - (presente, activo, Parte. Dat. masc. sg)-creyendo
 
 #### "*justifica*" DIKAIOUNTA - (presente, activo, Parte. Acc. masc. sg) - justificando
 
-### Romanos 4:5b *su fe se le cuenta por justicia.*
+#### Se podría traducir esta frase:
+
+##### "pero al que no esta funcionando pero cree". 
+
+##### "al que no esta trabajando pero creyendo". 
+
+##### "aquel que no está ocupado trabajando, pero cree en Dios,"
+
+##### "el que no se caracteriza por trabajar, sino por creer"
+
+#### La gramática no dice:
+
+##### Después que ha dejado de trabajar. Abraham y David no fueron acreditados justicia por Dios por haber dejado de trabajar y luego creer. El Texto no dice eso. 
+
+##### En vez de trabajar más tarde. El principio de la fe es aparte de las obras. Las obras para autentificar la fe es un concepto forastero a la Biblia. 
+
+#### Santiago 2:14-
+
+##### La gramática hace entender que solo se esta contrastando dos modos de proceder o pensar. 
+
+### Romanos 4:5b "*su fe se le cuenta por justicia.*" la justificación viene por ser acreditado justo no por trabajar para ser justo. 
 
 #### "*se le cuenta*" LOGIZETAI - (presente, Indicador medio/paso. 3sg)
 
-### Romanos 4:6-8 David es un ejemplo bíblico de ir por la fe.
+#### Romanos 4:5 contrasta dos principios:
 
-### Romanos 4:6a *Como también David habla de la bendición que viene sobre el hombre a quien Dios atribuye justicia*
+#### trabajar (como base para dar salario). 
+
+#### creer (dirigido a Dios)
+
+#### Los participios funcionan descriptivamente, no causalmente.
+
+#### La traducción debe preservar el contraste sin importar el mecanismo.
+
+#### Romanos 4:5 NO dice que:
+
+##### Creer es una “obra”. Creer es contrastado a trabajar.
+
+##### Creer reemplaza la obra con el tiempo. 
+
+##### Creer gana la justificación. La fe no es meritoria. Si fuera así, la justificación no seria presentado como favor que es acreditado gratuitamente por la gracia. 
+
+##### Creer restaura la comunión. 
+
+## Romanos 4:6-8 Argumento de otro testimonio: David es un ejemplo bíblico de ir por la fe.
+
+### Romanos 4:6a "*Como también David habla de la bendición que viene sobre el hombre a quien Dios atribuye justicia*"
 
 #### "*habla*" LEGEI - (presente, activo, Índico. 3sg) — dice
 
@@ -2404,7 +2596,7 @@ muestra a Dios presentando públicamente a Jesús como el medio dado por Dios pa
 
 ### Romanos 4:6b *aparte de las obras:*
 
-### Romanos 4:7a *«BIENAVENTURADOS AQUELLOS CUYAS INIQUIDADES HAN SIDO PERDONADAS,*
+### Romanos 4:7a *«BIENAVENTURADOS AQUELLOS CUYAS INIQUIDADES HAN SIDO PERDONADAS,* Pablo cita Salmo 32:1-2. 
 
 #### "*han sido perdonadas*" ADETHESAN - (aoristo, Aprobar. Índico. 3pl) - fueron perdonados
 
@@ -2416,7 +2608,13 @@ muestra a Dios presentando públicamente a Jesús como el medio dado por Dios pa
 
 #### "*tomará*" en cuenta LOGISETAI - (aoristo, voz medio. Asunto. 3sg) - podrá calcular / calculará
 
-## En Síntesis (4:1-5)
+#### David es presentado después del pecado, no antes.
+
+#### El énfasis está en: lo que no se cuenta en lugar de lo que se elimina.
+
+#### De nuevo, el verbo clave es λογίζομαι (logizomai — “contar/acreditar”).
+
+## En Síntesis (4:1-8)
 
 ### ABRAHAM, EL PADRE RACIAL DE ISRAEL (4:1-5, 9-25)
 
@@ -2456,13 +2654,27 @@ muestra a Dios presentando públicamente a Jesús como el medio dado por Dios pa
 
 #### El testimonio de David (4:7-8): El rey arrepentido fue perdonado, limpiado y justificado por la fe.
 
-## Romanos 4:9-12 Circuncisión como sello, no causa
+## Romanos 4:9-12 Argumento de orden de sucesos: circuncisión como sello, no causa
+
+#### Pablo fundamenta su argumento en la cronología.
+
+#### La circuncisión se identifica como:
+
+#### una señal (σημεῖον, sēmeion)
+
+#### un sello (σφραγίς, sphragis)
+
+#### Romanos capítulo 4 no dice que la circuncisión produjera justicia.
+
+#### Afirma explícitamente que se produjo después del ajuste de cuentas.
 
 ### Romanos 4:9a *¿Es, pues, esta bendición solo para los circuncisos, o también para los incircuncisos?*
 
-EXOMEN ἔχομεν — presente, activo, Índico. 1pl (variante de texto; NA28 tiene ἡ μακαριότης…)
-LEGOMEN λέγομεν — presente, activo, Índico. 1pl - decimos
-ELOGISTHE ἐλογίσθη—aoristo, Aprobar. Índico. 3sg - fue contado
+#### EXOMEN ἔχομεν — presente, activo, Índico. 1pl (variante de texto; NA28 tiene ἡ μακαριότης…)
+
+#### LEGOMEN λέγομεν — presente, activo, Índico. 1pl - decimos
+
+#### ELOGISTHE ἐλογίσθη—aoristo, Aprobar. Índico. 3sg - fue contado
 
 ### Romanos 4:9b *Porque decimos: «A ABRAHAM, LA FE LE FUE CONTADA POR JUSTICIA».* Abram, un gentíl más
 
@@ -2558,6 +2770,16 @@ ELOGISTHE ἐλογίσθη—aoristo, Aprobar. Índico. 3sg - fue contado
 
 #### "*fueran*" ONTA (presente, activo, Parte. Acc. neutro. pl) —siendo
 
+La ley y la promesa se contrastan mutuamente.
+
+La ley se describe como algo que:
+
+trae ira (Romanos 4:15).
+
+La promesa depende de:
+
+la gracia (Romanos 4:16).
+
 ## Romanos 4:18-22 Fe de Abraham descrito
 
 ### Romanos 4:18a *Abraham creyó en esperanza contra esperanza,*
@@ -2612,6 +2834,16 @@ ELOGISTHE ἐλογίσθη—aoristo, Aprobar. Índico. 3sg - fue contado
 
 #### "*fue*" contada ELOGISTHE (aoristo, Aprobar. Índico. 3sg) - fue contado
 
+La condición física de Abraham no se minimiza.
+
+El enfoque se centra en:
+
+lo que consideró
+
+y lo que no hizo (no titubeó).
+
+No se analiza ningún proceso emocional ni psicológico; solo las respuestas observables.
+
 ## Romanos 4:23-25 Aplicación a los creyentes actuales
 
 ### Romanos 4:23 *Y no solo por él fue escrito que le fue contada,*
@@ -2639,6 +2871,36 @@ ELOGISTHE (aoristo, Aprobar. Índico. 3sg) (referencia repetida)
 ### Romanos 4:25b *y resucitado para nuestra justificación.*
 
 #### "*resucitado*" EGERTHE (aoristo, Aprobar. Índico. 3sg) — fue levantado
+
+Pablo marca explícitamente una extensión textual.
+
+La misma lógica contable se aplica en adelante.
+
+El capítulo termina con un lenguaje sobre muerte y resurrección, anticipando el capítulo 5 de Romanos.
+
+## Conclusión observacional
+
+### Romanos capítulo 4 demuestra que:
+
+### La justicia se acredita, no se gana.
+
+### Esta acreditación ocurre antes de la observancia de la ley.
+
+### La Escritura misma da testimonio de esta lógica.
+
+### Abraham funciona como evidencia, no como excepción.
+
+### Nada en Romanos capítulo 4 describe la justicia como:
+
+### infundida
+
+### desarrollada
+
+### mantenida por la confesión
+
+### restaurada por un ritual.
+
+### La acción dominante a lo largo del capítulo es λογίζομαι (logizomai — “acreditar/contar”), realizada repetidamente por Dios.
 
 ## En Síntesis (4:13-25)
 
@@ -3146,13 +3408,13 @@ demuestra SUNISTESIN (presente, indicativo)
 
 ### Romanos 5:20b "*para que abundara la transgresión,*" cuando se introdujo la ley, el pecado fue activado en mayor manera para llevar a pecar más. 
 
-Cuando la ley es introducida, señala los pecados como transgresiones porque rompen la ley. 
+#### Cuando la ley es introducida, señala los pecados como transgresiones porque rompen la ley. 
 
 ### Romanos 5:20c *pero donde el pecado abundó,*
 
 ### Romanos 5:20d *sobreabundó la gracia,*
 
-La línea de Adán produce pecado cada vez mayor. La ley lo señala como tal. Pero Cristo produce gracia desbordante. Si el pecado de Adán produjo muerte, la dadiva en Cristo causa exuberante gracia. 
+#### La línea de Adán produce pecado cada vez mayor. La ley lo señala como tal. Pero Cristo produce gracia desbordante. Si el pecado de Adán produjo muerte, la dadiva en Cristo causa exuberante gracia. 
 
 ## Romanos 5:21 Pablo concluye con la culminante declaración de propósito
 
@@ -3166,7 +3428,7 @@ La línea de Adán produce pecado cada vez mayor. La ley lo señala como tal. Pe
 
 #### Sin embargo, aunque la ley es buena, pero por razón del pecado, cuando la ley esta en ejecución, la transgresión abunda y la solo la muerte reina. 
 
-### Romanos 5:21b *así como el pecado reinó en la muerte,*" 
+### Romanos 5:21b "*así como el pecado reinó en la muerte,*" 
 
 #### El indicativo "*reinó*" BASILEUO demuestra que no es una escena hipotética, es un hecho en el tiempo. 
 
@@ -3184,13 +3446,9 @@ La línea de Adán produce pecado cada vez mayor. La ley lo señala como tal. Pe
 
 #### Enfatiza el acceso potencial al nuevo reino.
 
-##### Él no dice:
+##### No dice: “reina la gracia” (indicativo) - como una realidad universal y automática.
 
-###### “reina la gracia” (indicativo) - como una realidad universal y automática.
-
-##### Dice:
-
-###### “*para que la gracia reine*” - a través del canal que Dios diseñó.
+##### Lo que si Dice es: “*para que la gracia reine*” - a través del canal que Dios diseñó.
 
 ##### Esto mantiene:
 
@@ -3206,9 +3464,9 @@ La línea de Adán produce pecado cada vez mayor. La ley lo señala como tal. Pe
 
 ###### Es tanto una cláusula de propósito como una realidad continua para los creyentes. Romanos 5:17
 
-### Romanos 5:21d *la gracia reine...por medio de la justicia para vida eterna,*
+### Romanos 5:21d "*la gracia reine...por medio de la justicia para vida eterna,*"
 
-### Romanos 5:21e *mediante Jesucristo nuestro Señor.*
+### Romanos 5:21e "*mediante Jesucristo nuestro Señor.*"
 
 #### Pablo sostiene que aunque la única transgresión de Adán trajo condenación, muerte y el reinado del pecado sobre la humanidad, el completo acto de obediencia de Cristo trae un don gratuito mucho mayor y rebosante que resulta en la justificación, la rectitud y el reino de la gracia para vida eterna.
 
@@ -3672,7 +3930,7 @@ Podemos deducir dos opciones para el creyente. El pecado puede reinar como puede
 
 ##### Ahora deben producir fruto por medio de Cristo (7:4b): Así las personas espirituales son liberadas de la ley.
 
-## ROMANOS 7:7-13 Argumento #2: La ley no es pecado; la ley revela y provoca el pecado
+## ROMANOS 7:7-13 Argumento #2: La ley no es pecado; la ley revela y provoca a la naturaleza pecaminosa
 
 ### Romanos 7:7a *¿Qué diremos entonces? ¿Es pecado la ley?*
 
@@ -3860,21 +4118,21 @@ Podemos deducir dos opciones para el creyente. El pecado puede reinar como puede
 
 ### Romanos 8:3e "*condenó al pecado en la carne,*" lo que fue condenado según este versículo es la naturaleza pecaminosa que entro con Adán. 
 
-Cristo no sentenció al pecado para habitar en la carne. Lo que Cristo hizo fue condenar al pecado que esta en el cuerpo. En el presente el creyente todavía tiene la carne. Pero habrá un día seré librado del mismo pecado que mora en mi. 
+#### Cristo no sentenció al pecado para habitar en la carne. Lo que Cristo hizo fue condenar al pecado que esta en el cuerpo. En el presente el creyente todavía tiene la carne. Pero habrá un día seré librado del mismo pecado que mora en mi. 
 
-Mientras estaba en la cruz, Cristo condenó al pecado en la carne. 
+#### Mientras estaba en la cruz, Cristo condenó al pecado en la carne. 
 
-Esto trata sobre la sentencia sobre el pecado. 
+#### Esto trata sobre la sentencia sobre el pecado. 
 
 ### Romanos 8:4a "*para que*" INA gramaticalmente expresa el propósito de la acción en el versículo 3. 
 
 ### Romanos 8:4b "*el requisito de la ley se cumpliera en nosotros,*"
 
-cumpliera (aoristo, pasivo, subjuntivo)
+#### cumpliera (aoristo, pasivo, subjuntivo)
 
 ### Romanos 8:4c "*que no andamos conforme a la carne, sino conforme al Espíritu.*" el estado del creyente el libertad de la carne, en el Espiritu y andan según el Espíritu. 
 
-Al andar por el Espíritu, satisfacemos la ley. 
+#### Al andar por el Espíritu, satisfacemos todo requerimiento de la ley. 
 
 ## En Síntesis (8:1-4)
 
@@ -4002,7 +4260,7 @@ Al andar por el Espíritu, satisfacemos la ley.
 
 ### Romanos 8:17d *a fin de que también seamos glorificados con Él.*
 
-## En Síntesis ()
+## En Síntesis (8:12-17)
 
 ### EL CREYENTE TIENE UNA NUEVA ADOPCIÓN (8:15-17): Ahora somos miembros de la familia de Dios.
 
@@ -4014,55 +4272,407 @@ Al andar por el Espíritu, satisfacemos la ley.
 
 ## Romanos 8:18-25: Sufrimiento presente y esperanza futura
 
-### Romanos 8:18 *Pues considero que los sufrimientos de este tiempo presente no son dignos de ser comparados con la gloria que nos ha de ser revelada.*
+Nuestra esperanza futura da referencia a nuestro sufriemiento presente y posiblemente futuro.
+
+En realidad conecta versículo 17 con 18. Somos hijos. Padeceremos con Él. Ya que Él padece, nosotros también padecemos con Él. 
+
+Pero, así como el heredará todas las cosas, nosotros también heredamos. Hay una gloria que será revelada en un futuro. En esa misma gloria que nos espera la misma creación esta gimiendo. La creación anhela ver ese día. 
+
+Nosotros esperamos ese día también justamente con el E.S. 
+
+### Romanos 8:18a "*Pues considero que los sufrimientos de este tiempo presente*" Dios quiere que tengamos claro nuestras circunstancias actuales a la luz de lo que Dios ve. 
+
+El sufrimiento es presente. El sufrir no es por sufrir sino para gustar de lo que no se ve, sino sea consolado por la fe en ese sufrimiento. Entonces en esto, Dios esta ayudando nuestra vista para ver los invisible, lo que no se puede ver, lo hace visible por medio de usar el sufrimiento y nos ayuda a anhelar ver ese día. 
+
+
+
+### Romanos 8:18b "*no son dignos de ser comparados con la gloria que nos ha de ser revelada.*"  Poniendo en una balanza, los sufrimientos actuales no llegan a pesar como las glorias venideras que nos espera. 
+
+#### no significa que el sufrimienta actual sea lindo. Sin embargo en comparación a lo que nos espera, no es una gran cosa. 
+
+#### Pablo descubrió que no pueden ser comparados. El sufrimiento es parte del plan de Dios. Si eres hijo de Dios, sufrirás. Esto es un hecho. 
+
+##### Las realidades del creyente son ambos: 
+
+###### Padecerás en el presente
+
+###### Recibirás gloria en el futuro
+
+##### como sabemos que esta gloria nos va pasar? La creación es puesta como testigo. Anhela ver el día que los hijos de Dios sean manifestados. 
 
 ### Romanos 8:19 *Porque el anhelo profundo de la creación es aguardar ansiosamente la revelación de los hijos de Dios.*
 
-### Romanos 8:20a *Porque la creación fue sometida a vanidad,*
+#### toda la naturaleza esta esperando el día en que los hijos de Dios sean revelados con sus cuerpos glorificados. Apocalipsis 19:7-9, 14
 
-### Romanos 8:20b *no de su propia voluntad, sino por causa de Aquel que la sometió,*
+#### La creación entera esta esperando este día porque este día significará ser liberada de la esclavitúd a la cual Dios la sometió. 
 
-### Romanos 8:20c *en la esperanza*
+### Romanos 8:20a "*Porque la creación fue sometida a vanidad,*" 
 
-### Romanos 8:21a *de que la creación misma será también liberada de la esclavitud de la corrupción*
+### Romanos 8:20b "*no de su propia voluntad, sino por causa de Aquel que la sometió,*"
 
-### Romanos 8:21b *a la libertad de la gloria de los hijos de Dios.*
+### Romanos 8:20c "*en la esperanza*" Allá en Edén, Dios maldijo la creación debido al pecado de Adán. 
 
-### Romanos 8:22 *Pues sabemos que la creación entera gime y sufre hasta ahora dolores de parto.*
+La misma creación fue sometida, sujeta a esperanza. Génesis 3:17-19
 
-### Romanos 8:23a *Y no solo ella, sino que también nosotros mismos,*
+Algún día la creación será liberada de la esclavitud. Pero en la gloria futura, la misma tierra será transformada y pasará de la esclavitúd a la libertad. 
 
-### Romanos 8:23b *que tenemos las primicias del Espíritu,*
+### Romanos 8:21a "*de que la creación misma será también liberada de la esclavitud de la corrupción*" En la segunda venida, cuando regresemos con Cristo, la mayoría de la maldición habrá sido quitada. 
 
-### Romanos 8:23c *aun nosotros mismos gemimos en nuestro interior,*
+#### Dios promete que la naturaleza será liberada de su esclavitúd a la corrupción. Isaías 35:1-10
 
-### Romanos 8:23d *aguardando ansiosamente la adopción como hijos,*
+### Romanos 8:21b "*a la libertad de la gloria de los hijos de Dios.*"
 
-### Romanos 8:23e *la redención de nuestro cuerpo.*
+### Romanos 8:22 "*Pues sabemos que la creación entera gime y sufre hasta ahora dolores de parto.*" sabemos esto. No lo vemos todavía pero sabemos que la creación gime. 
 
-### Romanos 8:24a *Porque en esperanza hemos sido salvados,*
+#### Isaías 24:4–6 “*La tierra está de luto y se seca, El mundo se desvanece y se seca…*" La Tierra y el mundo se describen con términos de deterioro físico y emocional. La causa se declara como transgresión humana (no ampliada)
 
-### Romanos 8:24b *pero la esperanza que se ve no es esperanza, pues, ¿por qué esperar lo que uno ve?*
+Jeremías 4:28 “Por esto se lamentará la tierra, Y los cielos arriba se oscurecerán…” Se dice que la Tierra está "de luto"
 
-### Romanos 8:25 *Pero si esperamos lo que no vemos, con paciencia lo aguardamos.*
+El alcance cósmico incluye los cielos.
+
+Jeremías 12:4 “*¿Hasta cuándo estará de luto la tierra? ¿Y que se marchite la vegetación del campo?* Tierra y vegetación descritas como sufrimiento
+
+Lenguaje de duelo aplicado a la tierra
+
+Oseas 4:1–3 “Por eso la tierra está de luto, Y todo el que vive en él languidece…” La tierra se personifica como luto. La vida animal también se ve afectada (bestias, pájaros, peces)
+
+Versículos donde la creación se describe como inestable, decadente o desgastada.
+
+Salmo 102:25–26 “*Incluso ellos perecerán, pero tú resistes; Y todos ellos se desgastarán como un vestido…*” Creación descrita como perecedera. 
+
+Metáfora de envejecimiento/decadencia utilizada
+
+Isaías 51:6 “*Porque los cielos se desvanecerán como humo, Y la tierra se desgastará como un vestido…*” Cielos y tierra sujetos a deterioro. El paralelismo enfatiza la decadencia.
+
+Versos donde la creación reacciona violenta o catastróficamente
+Isaías 13:13 “*Por tanto haré temblar los cielos, Y la tierra será sacudida de su lugar…*” Inestabilidad física atribuida a la creación.
+
+Lenguaje tembloroso y tembloroso.
+
+Hageo 2:6 “*Una vez más, dentro de poco, voy a hacer temblar los cielos y la tierra…*” Los cielos y la tierra responden con movimiento.
+
+No se da ninguna explicación de metáfora.
+
+Salmo 18:7 “*Entonces la tierra tembló y tembló; Y temblaban los cimientos de los montes…*” Se describe que la Tierra y las montañas reaccionan físicamente
+
+Versículos donde se dice que la creación espera o responde a cambios futuros
+Salmo 96:11–13 “*Alégrense los cielos y regocíjese la tierra…*” La creación retratada como capaz de responder
+
+Verbos emocionales aplicados al orden natural.
+
+Isaías 35:1 “*Se alegrarán el desierto y el desierto…*” Creación no humana representada con verbos de respuesta.
+
+Contraste con la esterilidad presente implícita en la redacción.
+
+### Resumen (solo observacional)
+
+#### Las Escrituras usan repetidamente lenguaje de duelo, marchitamiento, sacudimiento, desgaste, temblor y dolor para la creación. Estas descripciones se aplican a:
+
+##### suelo
+
+##### tierra
+
+##### tierra
+
+##### cielos
+
+##### vegetacion
+
+##### animales
+
+#### Romanos 8:22 recoge de manera única este patrón en una sola declaración usando lenguaje de “gemidos”
+
+#### Aunque la ciencia no observa intento, espera o esperanza si podemos observar patrones de tensión, decadencia, inestabilidad y resolución retrasada. Paralelos científicos observables:
+
+##### Tendencia universal hacia la decadencia y la inestabilidad. Los sistemas físicos tienden al desorden, al colapso y a la pérdida de energía. Esto es mensurable y universal.
+
+##### Ejemplos
+
+###### Aumento de entropía (Segunda Ley de la Termodinámica)
+
+###### Fatiga del material
+
+###### Colapso del ecosistema
+
+###### Agotamiento estelar
+
+###### Envejecimiento biológico
+
+##### Punto clave
+
+###### La creación no es estática ni se autoestabiliza.
+
+###### Los sistemas persisten bajo tensión, no en equilibrio.
+
+###### Esto coincide con la realidad observable del estrés sistémico continuo, no del descanso.
+
+
+---
+
+#### Sistemas existentes en estados prolongados “no finales. Muchos sistemas naturales permanecen en estados inestables o de transición durante largos períodos:
+
+##### Placas tectónicas que almacenan tensión antes de su liberación.
+
+##### Estrellas que existen entre la formación y el colapso.
+
+##### Especies que sobreviven en un frágil equilibrio ecológico
+
+##### Los sistemas climáticos oscilan en lugar de estabilizarse
+
+##### Punto clave
+
+###### La naturaleza existe frecuentemente en resolución diferida.
+
+###### El sistema se comporta como si “esperara” una transición, aunque sin intención.
+
+###### Esto corresponde a una prolongada inconclusión, no a un cumplimiento.
+
+
+---
+
+#### Acumulación de estrés seguida de eventos de liberación. La tensión se acumula silenciosamente y luego se expresa a través de la liberación:
+
+##### Terremotos
+
+##### Erupciones volcánicas
+
+##### Supernovas
+
+##### El parto en sí (paralelo biológico que Pablo usa explícitamente)
+
+#### Punto clave
+
+#### El gemido no es ruido, sino presión bajo presión.
+
+#### La liberación ocurre sólo después de una tensión prolongada.
+
+#### La ciencia observa directamente los patrones de tensión → gemido → liberación.
+
+
+---
+
+#### El sufrimiento biológico como característica de todo el sistema
+
+#### Observación
+
+#### El dolor, la muerte, la depredación, la enfermedad y la extinción son características inherentes a los sistemas biológicos.
+
+##### Ejemplos
+
+##### Extinciones masivas
+
+##### Enfermedad crónica
+
+##### Errores de mutación genética
+
+##### Toxicidad ambiental
+
+##### Punto clave
+
+##### La vida persiste a través del sufrimiento, no sin él.
+
+##### Este sufrimiento es sistémico, no anómalo.
+
+##### La naturaleza no muestra un florecimiento universal, sólo supervivencia bajo limitación.
+
+
+---
+
+#### 5.⁠ ⁠Interdependencia entre la actividad humana y la inestabilidad natural
+
+##### Observación
+
+##### Las acciones humanas afectan de manera mensurable la condición de la creación.
+
+##### Ejemplos
+
+##### Contaminación
+
+##### Alteración climática
+
+##### Destrucción del hábitat
+
+##### Pérdida de especies
+
+##### Punto clave
+
+##### La condición de la creación está ligada a la presencia y acción humana.
+
+##### Esto es empíricamente observable, no especulativo.
+
+##### La ciencia confirma un vínculo entre la humanidad y el estado de creación.
+
+#### 6.⁠ ⁠Ausencia de finalidad en cualquier parte del universo observable
+
+##### Observación
+
+##### Ningún sistema natural alcanza un estado permanente y perfeccionado.
+
+##### Ejemplos
+
+##### las estrellas mueren
+
+##### Las galaxias se desplazan
+
+##### Las especies se extinguen
+
+##### Los átomos se desintegran (radiactividad)
+
+##### Punto clave
+
+##### Todo es temporal, tenso y transitorio.
+
+##### No se observa ningún "estado de finalización" dentro de la naturaleza misma.
+
+##### La creación se comporta como inacabada, no resuelta.
+
+#### Resumen (estrictamente observacional)
+
+##### La ciencia observable confirma que:
+
+##### La creación existe bajo tensión constante
+
+##### Los sistemas persisten en estados inestables y no finales.
+
+##### La decadencia, el sufrimiento y la tensión son universales
+
+##### La liberación sigue a una presión prolongada.
+
+##### La humanidad está enredada con la condición de la creación.
+
+##### Ningún sistema alcanza el cumplimiento permanente
+
+#### La ciencia no dice que la creación esté esperando en un sentido consciente —pero sí muestra la creación existente en una condición que coincide con lo que el texto describe como tensión sin resolución.
+
+### Romanos 8:23a "*Y no solo ella, sino que también nosotros mismos,*
+
+### Romanos 8:23b "*que tenemos las primicias del Espíritu,*"
+
+### Romanos 8:23c "*aun nosotros mismos gemimos en nuestro interior,*"
+
+### Romanos 8:23d "*aguardando ansiosamente la adopción como hijos,*" Nosotros practicamos la adopción hoy de distinta manera que se hacía en el primer siglo. En aquél entonces, la adopción iva asociada no son solo ser legalmente hijo sino más especificamente con la herencia. 
+
+#### Parte de nuestra herencia, que ya tenemos legalmente y que nos espera en los cielos, todavía no nos ha sido entregado. Un aspecto de esa herencia es que recibiremos una transformación de cuerpo. 
+
+### Romanos 8:23e "*aguardando...la redención de nuestro cuerpo.*" los hijos de Dios estamos ansiosamente esperando ser librados de la esclavitud de nuestro cuerpo actual. 
+
+#### El cumplimiento total de nuestra adopción como hijos es la redención de nuestros cuerpos cuando recibiremos liberación de la carne y de nuestro cuerpo actual que es mortal. 
+
+#### Finalmente, cuando Dios cambie nuestros cuerpos, todo gemido cesará. Es necesario que todo esto suceda para que su cumpla las siguientes promesas:
+
+####  1 Corintios 15:50-54
+
+#### [**1Co 15:50** ](verseid:46.15.50) Pero esto digo, hermanos: La carne y la sangre no pueden heredar el reino de DIOS; ni la corrupción hereda la incorrupción.
+
+#### [**1Co 15:51** ](verseid:46.15.51) He aquí, os digo un misterio: No todos dormiremos °, pero todos seremos transformados,
+
+#### [**1Co 15:52** ](verseid:46.15.52) en un instante, en un abrir y cerrar de ojos °, a la final trompeta (porque sonará la trompeta), y los muertos serán resucitados incorruptibles, y nosotros seremos transformados.
+
+#### [**1Co 15:53** ](verseid:46.15.53) Porque es necesario que esto corruptible sea vestido de incorrupción, y esto mortal sea vestido de inmortalidad.
+
+#### [**1Co 15:54** ](verseid:46.15.54) Y cuando esto corruptible se vista de incorrupción y esto mortal se vista de inmortalidad, entonces se cumplirá ° la Palabra escrita: ¡Tragada fue la Muerte en victoria!
+
+##### la creación gime porque tiene una esperanza de ser librada de ser sujeta a corrupción.  Es anti-natural que la creación vea decadencia y tensión.
+
+##### Nosotros no gemimos solo por dolor, sino porque esperamos ansiosamente la redención de nuestros cuerpos. 
+
+#### Pasajes donde los hijos/niños se conectan con la transformación corporal o la resurrección
+
+##### Lucas 20:35–36 “*Pero aquellos que son considerados dignos de llegar a esa edad y a la resurrección de entre los muertos…porque ya no pueden morir...y son hijos de Dios, siendo hijos de la resurrección*”. “Hijos de Dios” está gramaticalmente vinculado a: resurrección e incapacidad para morir. 
+
+###### La filiación está relacionada con una condición corporal posterior a la resurrección.
+
+###### La frase “hijos de la resurrección” vincula directamente la identidad con el acontecimiento corporal
+
+##### Juan 5:28–29 “*Todos los que están en los sepulcros oirán su voz, y saldrán…*” Se afirma la resurrección de los cuerpos. No hay plazo de adopción, pero la restauración corporal está vinculada a escuchar la voz del Hijo. 
+
+#### Pasajes donde los hijos de Dios se conectan con manifestaciones futuras que involucran el cuerpo
+
+##### 1 Juan 3:1–2 “*Amados, ahora somos hijos de Dios, y aún no se ha manifestado lo que seremos. Sabemos que cuando Él aparezca, seremos como Él, porque lo veremos tal como Él es*”. Identidad actual: “hijos de Dios”. Cambio futuro: “seremos como Él”. El cambio está conectado con la apariencia y la visión.
+
+###### La naturaleza del cambio no está definida, pero se afirma la transformación futura.
+
+##### 1 Juan 3:3 “*Y todo aquel que tiene puesta en él esta esperanza, se purifica a sí mismo, así como él es puro*”. La esperanza mira hacia el futuro. No se indica ningún mecanismo. La purificación sigue a la anticipación de la semejanza futura.
+
+#### Pasajes donde el lenguaje de la herencia (asociado con la filiación) está conectado con la resurrección o el cambio corporal
+
+##### Gálatas 4:4–7 “*Por cuanto sois hijos, Dios envió el Espíritu de su Hijo a nuestros corazones…*” Lenguaje de adopción/filiación presente. Herencia declarada (“heredero por Dios”). Aquí no hay referencia corporal, pero la herencia anticipa la posesión futura.
+
+##### Efesios 1:13–14 “*…el Espíritu Santo de la promesa, que es dado en prenda de nuestra herencia…*” La herencia está orientada al futuro. La redención corporal no se nombra, pero la posesión es incompleta
+
+#### Pasajes donde la resurrección o la transformación corporal se conectan con el parecido familiar o la gloria
+
+##### Filipenses 3:20–21 “*…quien transformará el cuerpo de nuestro estado humilde en conformidad con el cuerpo de su gloria…*” Transformación corporal explícita. Lenguaje de conformidad (“en conformidad con”). No se utiliza ningún término de adopción, pero se declara la semejanza con el Hijo.
+
+##### 1 Corintios 15:42–49 “*Así como hemos llevado la imagen del terrenal, así llevaremos la imagen del celestial*”. Se describe la resurrección corporal. Lenguaje portador de imágenes. Semejanza familiar implícita en “imagen”, no etiquetada como adopción. 
+
+#### Pasajes donde la herencia/herederos (términos relacionados con el hijo) están ligados a la gloria futura
+
+##### 1 Pedro 1:3–5 “*…para obtener una herencia incorruptible, incontaminada y que no se desvanecerá…*” Herencia reservada para el futuro. Sin términos corporales, pero la imperecebilidad contrasta con la condición actual.
+
+#### Otros pasajes:
+
+##### La filiación/hijos de Dios conectado con la resurrección. Lucas 20:35–36
+
+##### Los hijos de Dios conectados con la semejanza futura. 1 Juan 3:1-2
+
+##### La transformación corporal conectado con la conformidad con el Hijo. Filipenses 3:20-21
+
+##### La herencia (relacionada con el hijo) conectada con el cumplimiento futuro. 
+
+### Romanos 8:24a "*Porque en esperanza hemos sido salvados,*" La promesa de Dios para el que cree en Él es ser salvado en todo sentido, no solo del infierno. 
+
+### Romanos 8:24b "*pero la esperanza que se ve no es esperanza, pues, ¿por qué esperar lo que uno ve?*" 
+
+### Romanos 8:25 "*Pero si esperamos lo que no vemos, con paciencia lo aguardamos.*" 
 
 ## Romanos 8:26-27: El Espíritu intercede
 
-### Romanos 8:26a *De la misma manera, también el Espíritu nos ayuda en nuestra debilidad.*
+### Romanos 8:26a "*De la misma manera, también el Espíritu nos ayuda en nuestra debilidad.*"
 
-### Romanos 8:26b *No sabemos orar como debiéramos,*
+#### No dice que el Espíritu gime. Nos dice que en el presente, nos ayuda a todos nosotros porque todos somos débiles. Debilidad no es individual o excepcional. Pablo se incluye en este grupo. 
 
-### Romanos 8:26c *pero el Espíritu mismo intercede por nosotros con gemidos indecibles.*
+#### ¿Cómo somos débiles?
 
-### Romanos 8:27a *Y Aquel que escudriña los corazones sabe cuál es el sentir del Espíritu,*
+### Romanos 8:26b "*No sabemos orar como debiéramos,*" Somos débiles porque no sabemos orar. Esta clausula define nuestra debilidad:
 
-### Romanos 8:27b *porque Él intercede por los santos conforme a la voluntad de Dios.*
+#### No sabemos. La debilidad es falta de conocimiento no falta de deseo, esfuerzo o sinceridad. El verbo habla de saber no hacer. 
+
+#### El tema es contenido no postura, frequencia o disciplina. 
+
+#### La debilidad concierne sobre lo que pedimos, no si oramos. 
+
+#### Nuestra debilidad es situaciones no total..."*según es necesario...*"
+
+#### La frase implica un estandar o requerimiento que existe. 
+
+#### La debilidad es relativo a ese estandar no absoluta ignorancia. 
+
+#### Nuestra debilidad es compartida por todos los creyentes. No se hace ninguna distincion entre creyentes maduros o inmaduros. 
+
+#### Nuestra debilidad es presentado como normal no como algo para remediar. No es presentado como un fracazo o pecado. 
+
+### Romanos 8:26c "*pero el Espíritu mismo intercede por nosotros con gemidos indecibles.*"
+
+### Romanos 8:27a "*Y Aquel que escudriña los corazones sabe cuál es el sentir del Espíritu,*"
+
+### Romanos 8:27b "*porque Él intercede por los santos conforme a la voluntad de Dios.*"
+
+#### la debilidad no es que nuestros corazones no pueden ser conocidos. 
+
+#### La debilidad no es al lado de la recepción de la oración. 
+
+#### El texto no dice que Dios malinterpreta creyentes. 
+
+## En Síntesis (8:17-27)
+
+### Muchas veces podemos solamente mirar como la glorificación tiene promesas personales que nos impactan. Sin embargo vemos que el plan de Dios esta cubriendo a todo dentro de Su plan para la gloria completa en todo. Creación, hijos de Dios, ES. 
 
 ## Romanos 8:28-30: Propósito eterno de Dios
 
-### Romanos 8:28a *Y sabemos que para los que aman a Dios,*
+### Romanos 8:28a "*Y sabemos que para los que aman a Dios,*"
 
-### Romanos 8:28b *todas las cosas cooperan para bien,*
+### Romanos 8:28b "*todas las cosas cooperan para bien,*"
 
 ### Romanos 8:28c *esto es, para los que son llamados conforme a Su propósito.*
 
@@ -4078,7 +4688,7 @@ Al andar por el Espíritu, satisfacemos la ley.
 
 ### Romanos 8:30c *A los que justificó, a esos también glorificó.*
 
-## En Síntesis ()
+## En Síntesis (8:28-30)
 
 ### EL CREYENTE TIENE UNA NUEVA ESPERANZA (8:18-25): La naturaleza de esta esperanza es la plena y final redención de todas las cosas, incluyendo:
 
@@ -4198,7 +4808,7 @@ Al andar por el Espíritu, satisfacemos la ley.
 
 ### Romanos 8:39e *que es en Cristo Jesús Señor nuestro.*
 
-## En Síntesis ()
+## En Síntesis (8:31-39)
 
 ### La seguridad del creyente (8:31-39)
 
@@ -4241,3 +4851,4 @@ Al andar por el Espíritu, satisfacemos la ley.
 [^10]: *Science Speaks*, 1958
 [^11]: network.crcna.org
 [^12]: James Hope Moulton y George Milligan, The Vocabulary of the Greek Testament (Londres: Hodder and Stoughton, 1930), 663.
+[^13]: G. Abbott-Smith, A Manual Greek Lexicon of the New Testament (Nueva York: Charles Scribner’s Sons, 1922), 330.

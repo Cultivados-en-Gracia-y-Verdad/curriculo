@@ -1,557 +1,379 @@
-“Organizar toda la carta en torno a patrones diagnósticos repetidos que regulan la autoevaluación del lector”.
+Los 15 Ciclos: Lo que se prueba y lo que se muestra
 
+Cada ciclo pone a prueba una afirmación, práctica o confesión observable y luego establece lo que esa condición hace evidente.
 
+Cada ciclo es una unidad evaluativa. 
 
-# ⭐ ciclo 1 — 1 Juan 1:6-7
+# 1 JUAN 1:1-2:27 DIVISIÓN 1: COMUNIÓN/EXPOSICIÓN DE AFIRMACIONES
 
-SÍNTOMAS (participios presentes / afirmaciones de comportamiento)
+## Ciclo 1: 1 Juan 1:1–4
 
-Si decimos que tenemos comunión con él, andamos en tinieblas.
+### Aserciónes
 
-DIAGNÓSTICO (juicio categórico/negación)
+#### Testimonio apostólico: vimos, oíros, tocamos
 
-Mentimos.
+#### Contenido de la proclamación
 
-No practicamos la verdad.
+### Evaluación Bíblica
 
-PRESCRIPCIÓN (gramatical imperativa)
+#### ¿Se basa la comunión en lo que los apóstoles vieron, oyeron y proclamaron?
 
-No hay imperativo explícito.
-Pero si… andamos en la luz, funciona prescriptivamente.
-→ Subjuntivo durativo usado como indicación correctiva (comportamiento a adoptar).
+#### ¿El mensaje proviene del testimonio de un testigo presencial?
 
-# ⭐ ciclo 2 — 1 Juan 1:8-9
+#### ¿La comunión está ligada a lo que se proclamarón los apóstoles?
 
-SÍNTOMA
+### Veredicto
 
-Si decimos que no tenemos pecado
+#### La comunión existe a través de lo que proclamaron los apóstoles.
 
-DIAGNÓSTICO
+## Ciclo 2: 1 Juan 1:5–2:2
 
-Nos engañamos a nosotros mismos
+### Aserciónes/Declaraciónes
 
-La verdad no está en nosotros
+#### “Tenemos comunión con Él” 1 Juan 1:6
 
-RECETA
+#### “No tenemos pecado”. 1 Juan 1:8
 
-Si confesamos nuestros pecados (subjuntivo usado paragenéticamente)
+#### “No hemos pecado”. 1 Juan 1:10
 
-# ⭐ ciclo 3 — 1 Juan 1:10–2:2
+### Evaluación Bíblica
 
-SÍNTOMA
+#### ¿Decimos tener comunión con Él mientras caminamos en oscuridad? 1 Juan 1:6
 
-Si decimos que no hemos pecado
+#### ¿Decimos no tener pecado? 1 Juan 1:8
 
-DIAGNÓSTICO
+#### ¿Decimos que no hemos pecado? 1 Juan 1:10
 
-Lo hacemos mentiroso
+### Veredicto
 
-Su palabra no está en nosotros
+#### Tales afirmaciones = mentira / autoengaño. 1 Juan 1:6, 1 Juan 1:8, 1 Juan 1:10
 
-RECETA
+#### Caminar en la luz = limpieza declarada. 1 Juan 1:7
 
-2:1
+#### Confesión = perdón declarado. 1 Juan 1:9
 
-Les escribo estas cosas… para que no pequen (propósito = prescriptivo)
+## Ciclo 3: 1 Juan 2:3–11
 
-No es imperativo, sino que el aoristo de subjuntivo expresa una acción correctiva intencional.
+### Aserciónes
 
-# ⭐ ciclo 4 — 1 Juan 2:3-6
+#### “Yo lo conozco”. 1 Juan 2:4
 
-SÍNTOMA
+#### “Estoy en la luz” (implícito). 1 Juan 2:9
 
-El que dice: «Yo lo conozco»,
+#### “Amo a mi hermano” (implícito por contraste). 1 Juan 2:10-11
 
-DIAGNÓSTICO
+### Evaluación Bíblica
 
-y no guarda sus mandamientos → es un mentiroso.
+#### ¿Guardamos Sus mandamientos? 1 Juan 2:3
 
-Esta es la verdad.
+#### ¿Decimos estar en la luz mientras odiamos a un hermano? 1 Juan 2:9–11
 
-RECETA
+### Veredicto
 
-El que dice… debe andar como él anduvo.
+#### Pretender conocerlo sin obediencia = mentiroso. 1 Juan 2:4
 
-(Verbo de obligación = prescriptivo).
+#### Odio = en la oscuridad. 1 Juan 2:9, 1 Juan 2:11
 
-# ⭐ ciclo 5 — 1 Juan 2:9-11
+#### Amor a su hermano = permanecer en la luz. 1 Juan 2:10
 
-SÍNTOMA
+## Ciclo 4: 1 Juan 2:12–17
 
-El que dice: «Yo estoy en la luz», y odia a su hermano.
+### Aserciónes
 
-DIAGNÓSTICO
+#### Ciertas realidades ya son ciertas para la audiencia. 1 Juan 2:12-14
 
-está en tinieblas hasta el final.
+#### Uno puede amar al mundo y al Padre simultáneamente (implícito). 1 Juan 2:15
 
-anda en tinieblas.
+### Evaluación Bíblica
 
-RECETA
+#### ¿Amando al mundo? 1 Juan 2:15
 
-Implícito:
+### Veredicto
 
-ama (participio presente prescriptivo).
+#### Amor al mundo = amor del Padre no en él. 1 Juan 2:15
 
-# ⭐ ciclo 6 — 1 Juan 2:15-17
+#### El mundo está pasando. 1 Juan 2:17
 
-SÍNTOMA
+## Ciclo 5: 1 Juan 2:18–27
 
-No améis al mundo (imperativo explícito → también síntoma prescriptivo).
+### Aserciónes
 
-DIAGNÓSTICO
+#### La continua asociación demuestra una pertenencia genuina (implícita). 1 Juan 2:19
 
-Si alguno Ama al mundo, el amor del Padre no está en él.
+#### Se necesita enseñanza nueva o alternativa (implícita). 1 Juan 2:24, 26
 
-RECETA
+### Evaluación Bíblica
 
-No améis al mundo (imperativo explícito)
+#### ¿Permanecemos con aquellos que que "eran de nosotros"? 1 Juan 2:19
 
-Pero el que hace la voluntad de Dios permanece (implícito)
+#### Permanecemos con el mensaje original? 1 Juan 2:19, 1 Juan 2:24
 
-# ⭐ ciclo 7 — 1 Juan 2:18-27
+### Veredicto
 
-SÍNTOMA
+#### La salida muestra no pertenencia. 1 Juan 2:19
 
-Han surgido muchos anticristos
+#### La unción permanece y enseña. 1 Juan 2:27
 
-Algunos de nosotros hemos salido
+# 1 JUAN 2:28-4:6 DIVISIÓN 2 — EXPOSICIÓN DE IDENTIDAD/ORIGEN
 
-El que niega
+Si bien vimos en la primera división (1 Juan 1:5–2:27) de la carta un enfoque dominante: declaraciones sobre caminar, pecado, luz, obediencia, amor, enmarcadas por un lenguaje afirmativo (“si decimos…”).
 
-El que confiesa
+Segunda División: 1 Juan 2:18–4:6
 
-DIAGNÓSTICO
+Enfoque dominante: afirmaciones sobre origen, nacimiento, identidad, permanencia, conocimiento, enmarcadas por un lenguaje de clasificación (“todo aquel que…”, “de Dios / del mundo”).
 
-No eran de nosotros
+### Las declaraciones se refieren cada vez más a lo que alguien es, no simplemente a lo que alguien hace. La sección evalúa el estatus y el origen, no sólo el comportamiento.
 
-Este es el anticristo
+Estos ciclos están diseñados para probar o afirmar identidad.  No mandan a tener identidad sino lo exponen. 
 
-Confiesa → Tiene al Padre y al Hijo
+Las pruebas son constantes ya que se llevan acabo en tiempo presente. La identidad es probada por estados presentes no declaraciones pasadas. 
 
-El que niega → No
+### Ejemplo: 
 
-RECETA
+#### Acerción:  
 
-Permanezcan en él (imperativo explícito, v. 27)
+##### “Somos hijos de Dios” (τέκνα Θεοῦ ἐσμέν) — 1 Juan 3:1–2
 
-# ⭐ ciclo 8 — 1 Juan 3:4-10
+#### Prueba: 
 
-SÍNTOMA
+##### “Todos haciendo justicia…” – 1 Juan 2:29
 
-Serie de participios sustantivos:
+##### “Todos teniendo esta esperanza…” – 1 Juan 3:3
 
-El que comete pecado
+#### Veredicto
 
-El que permanece en él
+##### “Ha nacido de Él” – 1 Juan 2:29
 
-El que peca
+##### “Se purifica a sí mismo” – 1 Juan 3:3
 
-El que hace justicia
+##### Resumen: La función de los ciclos en la sección de identidad. Textualmente, los ciclos:
 
-el que no ama
+###### Afirmar identidad (afirmación)
 
-DIAGNÓSTICO
+###### Sondear la realidad (evaluación)
 
-es del diablo
+###### Declarar estado (veredicto)
 
-nace de Dios
+##### Funcionan como:
 
-no peca
+###### Herramientas de diagnóstico, no escaleras morales
 
-RECETA
+###### Mecanismos de validación, no condiciones de entrada.
 
-Implícito:
+###### Pruebas reveladoras, no mandatos transformadores
 
-Formas durativas del presente que funcionan como correctivo:
+### En la sección de identidad de 1 Juan, los ciclos funcionan para validar lo que se afirma que ya es cierto, emparejando afirmaciones de identidad con indicadores actuales y emitiendo veredictos no negociados sobre el origen y el estatus.
 
-hace justicia
+## Ciclo 6: 1 Juan 2:28–3:3
 
-ama
+### Aserciónes
 
-# ⭐ ciclo 9 — 1 Juan 3:11-18
+#### Permaneciendo en él
 
-SÍNTOMA
+#### Respuesta en manifestación
 
-el que odia
+### Evaluación Bíblica
 
-el que ama
+#### ¿Permanecemos en Él? 1 Juan 2:28
 
-el que tiene la vida del mundo y la cierra
+### Veredicto
 
-DIAGNÓSTICO
+#### Permanecer = confianza en Su aparición no vergüenza. 1 Juan 2:28
 
-permanece en la muerte
+#### Identidad actual declarada como “hijos de Dios”. 1 Juan 3:1–2
 
-no permanece en él el amor de Dios
+## Ciclo 7 - 1 Juan 3:4-10
 
-RECETA
+### Aserciónes
 
-no de palabra, sino de hecho (contraste no imperativo, sino prescriptivo)
+#### Uno puede practicar el pecado y aún así ser de Dios (implícito). 1 Juan 3:6
 
-# ⭐ ciclo 10 — 1 Juan 3:19-24
+#### Uno es justo / nacido de Dios (reclamación de identidad implícita). 1 Juan 3:7, 8-10
 
-SÍNTOMA
+### Evaluación Bíblica
 
-si engendra
+#### Se está practicando el pecado? 1 Juan 3:4–6
 
-el que guarda los mandamientos
+#### ¿La justicia esta siendo practicada? 1 Juan 3:7
 
-DIAGNÓSTICO
+#### ¿Esta ausente el amor por un hermano? 1 Juan 3:10
 
-Yo soy de la verdad
+### Veredicto
 
-permanece en nosotros
+#### La práctica revela la fuente: 
 
-él nos ha dado El Espíritu
+##### “del diablo” – 1 Juan 3:8
 
-RECETA
+##### “nacido de Dios” – 1 Juan 3:9
 
-v. 23
+#### Distinción hecha evidente. 1 Juan 3:10
 
-para que creamos (subjuntivo como mandato)
+## Ciclo 8: 1 Juan 3:11–18
 
-amémonos unos a otros
+### Aserciónes
 
-# ⭐ ciclo 11 — 1 Juan 4:1-6
+#### El odio hacia un hermano es compatible con la vida (implícito). 1 Juan 3:12
 
-SÍNTOMA
+#### El amor sólo puede existir en palabras o palabras. 1 Juan 3:14-15, 18
 
-muchos falsos profetas
+### Evaluación Bíblica
 
-todo espíritu confiesa
+#### ¿Amamos a los hermanos o no? 1 Juan 3:14–15
 
-todo espíritu no confiesa
+#### ¿El amor que expresamos es solo en dicho o es expresado en hechos y verdad? 1 Juan 3:18
 
-DIAGNÓSTICO
+### Veredicto
 
-es de Dios
+#### Odio = permanecer en la muerte. 1 Juan 3:14–15
 
-es del mundo
+#### Amor definido por la acción y la verdad. 1 Juan 3:18
 
-es del anticristo
+## Ciclo 9 - 1 Juan 3:19–24
 
-RECETA
+### Aserciónes
 
-probar los espíritus (imperativo explícito)
+#### “Somos de la verdad”. 1 Juan 3:19
 
-# ⭐ ciclo 12 — 1 Juan 4:7-21
+#### Uno puede tener confianza delante de Dios. 1 Juan 3:21
 
-SÍNTOMA
+### Evaluación Bíblica
 
-amemos
+#### ¿Nos condena nuestro corazón? 1 Juan 3:20-21
 
-temiendo
+#### ¿Guardamos Sus mandamientos? 1 Juan 3:22
 
-no ama al hermano
+#### ¿Permanecemos en Él y Él en nosotros? 1 Juan 3:24
 
-DIAGNÓSTICO
+### Veredicto
 
-es nacido de Dios
+#### Garantía declarada como conocible. 1 Juan 3:19
 
-no conoce a Dios
+#### Confianza ante Dios. 1 Juan 3:21
 
-Dios es amor
+#### Declaración de permanencia mutua. 1 Juan 3:24
 
-RECETA
+## Ciclo 10 - 1 Juan 4:1–6
 
-amémonos unos a otros (subjuntivo similar al imperativo)
+### Aserciónes
 
-el mandamiento → ama a Dios, ama a tu hermano
+#### Un espíritu es de Dios. 1 Juan 4:1
 
-# ⭐ ciclo 13 — 1 Juan 5:1-5
+#### Una confesión es válida. 1 Juan 4:2
 
-SÍNTOMA
+#### Se habla de Dios y hay que ser escuchado. 1 Juan 4:5-6
 
-El creyente
+### Evaluación Bíblica
 
-El que ama
+#### ¿El espíritu confiesa que Jesucristo vino en la carne? 1 Juan 4:2
 
-El que guarda
+#### ¿El espíritu rechaza esta confesión? 1 Juan 4:3
 
-DIAGNÓSTICO
+#### ¿El que enseña escucha el testimonio apostólico? 1 Juan 4:6
 
-nace de Dios
+### Veredicto
 
-La victoria que vence al mundo
+#### Confesión = de Dios. 1 Juan 4:2
 
-RECETA
+#### No confesión = no de Dios. 1 Juan 4:3
 
-Implicado:
+#### Escuchar/no escuchar revela fuente. 1 Juan 4:6
 
-Guardar los mandamientos
+# 1 JUAN 4:7-5:21 DIVISIÓN 3 — Permanencia / Verificación de seguridad (4:7–5:21)
 
-Amar a Dios
+## Ciclo 11 - 1 Juan 4:7–12
 
-# ⭐ ciclo 14 — 1 Juan 5:6-12
+### Aserciónes
 
-SÍNTOMA
+#### Uno ama a dios. 1 Juan 4:7
 
-El creyente
+#### Uno conoce a dios. 1 Juan 4:8
 
-El incrédulo
+### Evaluación Bíblica
 
-DIAGNÓSTICO
+#### ¿Tenemos amor el uno por el otro? 1 Juan 4:7–8
 
-El testimonio es
+### Veredicto
 
-Un mentiroso que lo ha convertido
+#### Amor = nacido de Dios y conoce a Dios. 1 Juan 4:7
 
-La vida en el Hijo
+#### Sin amor = no conoce a Dios. 1 Juan 4:8
 
-RECETA
+## Ciclo 12 - 1 Juan 4:13–18
 
-Implicado:
+### Aserciónes
 
-Creer en el testimonio
+#### Dios permanece en nosotros y nosotros en él. 1 Juan 4:13
 
-# ⭐ ciclo 15 — 1 Juan 5:13-21
+#### Uno tiene confianza para el día del juicio. 1 Juan 4:17
 
-SÍNTOMA
+### Evaluación Bíblica
 
-Si ves
+#### ¿Sabemos que permanecemos en Él y Él en nosotros? 1 Juan 4:13
 
-pecar
+#### ¿Está presente el temor o se ha perfeccionado el amor? 1 Juan 4:18
 
-No pecas para muerte
+### Veredicto/Conclusión
 
-Huye de los ídolos (implícito)
+#### Permanecer es conocido. 1 Juan 4:13
 
-DIAGNÓSTICO
+#### El amor perfecto excluye el miedo. 1 Juan 4:18
 
-Es de Dios
+## Ciclo 13 - 1 Juan 4:19-21
 
-El mundo entero yace en maldad
+### Aserciónes
 
-implícita
+#### "yo amo a Dios". 1 Juan 4:20
 
-RECETA
+### Evaluación Bíblica
 
-v. 21
+#### ¿Afirmamos amar a Dios mientras odiamos a un hermano? 1 Juan 4:20
 
-Guardaos de los ídolos (imperativo explícito)
+### Veredicto/Conclusión
 
+#### Tal afirmación = mentiroso. 1 Juan 4:20
 
+## Ciclo 14 - 1 Juan 5:1–12
 
+### Aserciónes
 
+#### Jesús es el Cristo. 1 Juan 5:1
 
+#### Uno nace de dios. 1 Juan 5:9-10
 
+#### Uno acepta el testimonio de Dios. 1 Juan 5:11-12
 
-===============
+### Evaluación Bíblica
 
-1 Juan 1:6-7 ciclo 1 — Unidad Condicional de Andar en la Oscuridad
+#### ¿Creémos que Jesús es el Cristo? 1 Juan 5:1
 
-Marcador: si… andas + conclusión de identidad negativa
+#### ¿Aceptamos el testimonio de Dios sobre Su Hijo? 1 Juan 5:9–10
 
-1 Juan 1:8-9 ciclo 2 — Unidad Condicional de Auto-Reclamación de No Pecado
+### Veredicto
 
-Marcador: si decimos que no tenemos pecado + es-juicio
+#### Creencia = nacido de Dios. 1 Juan 5:1
 
-1 Juan 1:10-2:2 ciclo 3 — Unidad Condicional de Reclamación de No Pecado Pasado
+#### Rechazo = hacer de Dios un mentiroso. 1 Juan 5:10
 
-Marcador: si decimos que no hemos pecado + es-juicio
+#### La vida situada en el Hijo. 1 Juan 5:11–12
 
-1 Juan 2:3-6 ciclo 4 — Unidad de Prueba de Conocer a Dios con Mandamientos-Obedecer
+## Ciclo 15 - 1 Juan 5:13–21
 
-Marcador: quien dice… + no cumple → es mentiroso
+### Aserciónes
 
-1 Juan 2:9-11 ciclo 5 — Unidad de Reclamación de Luz con Odio al Hermano
+#### “Tienes vida eterna”. 1 Juan 5:13
 
-Marcador: quien dice… odia → está en la oscuridad es
+#### “Sabemos” (afirmaciones de conocimiento repetidas). 1 Juan 5:18-20, 21
 
-1 Juan 2:15-17 ciclo 6 — “Unidad de Prohibición de Amar al Mundo”
+### Evaluación Bíblica
 
-Marcador: no amar (imperativo) + si amas → no es
+#### ¿Sabemos que tenemos vida eterna? 1 Juan 5:18–20
 
-1 Juan 2:18-27 ciclo 7 — “Unidad Imperativo de Identificación y Permanencia con el Anticristo”
+#### ¿Sabemos las verdades que repetidamente han sido declaradas? 1 Juan 5:18-20
 
-Marcador: negar / confesar + permanecer (imperativo)
+### Veredicto
 
-1 Juan 3:4-10 ciclo 8 — “Unidad de Contraste Participial entre Hacer el Pecado vs. Hacer la Justicia”
+#### Finalidad: garantía declarada. 1 Juan 5:13
 
-Marcador: Dominante + participios presentes (ποιῶν, ἁμαρτάνων, μένων) con juicios
+#### Conocimiento repetido afirmado. 1 Juan 5:18–20
 
-1 Juan 3:11–18 ciclo 9 — “Unidad Comportamental de Amor y Odio”
-
-Marcador: odio / amor + respetar las declaraciones
-1 Juan 3:19–24 ciclo 10 — “Unidad subjuntiva para tranquilizar el corazón y mantener las órdenes”
-
-Marcador: ἐὰν καταγινώσκῃ + τηρῶν + ἵνα πιστευσωμεν / ἀγαπῶμεν
-
-(1 Juan 4:1–6) ciclo 11 — “Unidad imperativa para probar el espíritu”
-
-Marcador: δομικάζετε (imperativo) + πᾶν πνεῦμα ὁμολογεῖ / μὴ ὁμολογεῖ
-
-(1 Juan 4:7–21) ciclo 12 — “Unidad Subjuntivo/Participial de Comportamiento Amoroso”
-
-Marcador: ἀγαπῶμεν + participios presentes + juicios ἐστίν
-
-(1 Juan 5:1–5) ciclo 13 — “Creer/Amar/Mantenerse presente-Unidad participativa”
-
-Marcador: ὁ πιστευων / ὁ ἀγαπῶν / ὁ πιστευσων + nacido
-
-(1 Juan 5:6-12) ciclo 14 — “Testimonio - Unidad Creyente / No Creyente”
-
-Marcador: el creyente / el no creyente + hizo / el testimonio es
-
-1 Juan 5:13-21 ciclo 15 — “Idolos - Unidad Imperativa de Evitar”
-
-Marcador: si ven… pecadores + cuídense (imperativo)
-
-
-# BOSQUEJO DE 1 JUAN
-
-# INTRODUCCIÓN
-
-## Por qué esta estructura surge de los 15 ciclos.
-
-### Los ciclos funcionan como ondas repetitivas, cada una conteniendo: contraste, evidencia, mandamiento, fundamento en la naturaleza de Dios. 
-
-### Dado que cada ciclo utiliza las mismas constantes diagnósticas, la carta forma una progresión circular en lugar de un ensayo lineal.
-
-#### El movimiento de la “luz” diagnostica la esfera de la vida.
-
-#### El movimiento de la “justicia” diagnostica la identidad.
-
-#### El movimiento del “amor” diagnostica la seguridad duradera.
-
-### Cada movimiento no es una repetición sino van en desarrollo. 
-
-# 1 JUAN 1:5–2:27 DIOS ES LUZ: CAMINANDO CON DIOS
-
-## Introducción
-
-### Tema: Andar en la luz. Principales objetivos de diagnóstico: pecado, obediencia, odio/amor. Propósito: Revelar las falsas afirmaciones y afirmar la verdadera comunión.
-
-### Cómo el movimiento desarrolla la pareja (Luz → Comunión): La Luz expone tres importantes pruebas de realidad:
-
-#### Nuestra relación con el pecado (1:6–2:2)
-
-#### Nuestra relación con la obediencia (2:3–6)
-
-#### Nuestra relación con los hermanos (2:7–11)
-
-### Cada una de estas pruebas genera una “prueba de compañerismo”.
-
-### Si andas en la luz, tienes compañerismo (1:7).
-
-### Si andas en tinieblas, tus afirmaciones son falsas (1:6).
-
-### Movimiento Uno = “¿Tu andar concuerda con el Dios que es Luz?”
-
-### Los tres movimientos no son simplemente temas; son niveles sucesivos de intimidad relacional. 
-
-#### Comunión basada en la luz (¿Andas con Él?)
-
-#### Identidad basada en la justicia (¿Le perteneces?)
-
-#### Seguridad Perdurable basada en el amor (¿Vives confiadamente en Su amor?)
-
-### Así, los tres movimientos desarrollan, profundizan y completan la secuencia teológica de seis partes:
-
-#### Luz → justicia → amor de Dios se convierten en comunión → identidad → seguridad perdurable con Sus hijos.
-
-## 1 Juan 1:6-7 (ciclo 1) — Unidad condicional de andar en la 0scuridad
-
-### Marcador: si… andas + conclusión de identidad negativa
-
-## 1 Juan 1:8-9 (ciclo 2) — Unidad condicional de auto-reclamación de no pecado
-
-### Marcador: si decimos que no tenemos pecado + es-juicio
-
-## 1 Juan 1:10-2:2 (ciclo 3) — Unidad condicional de reclamación de no pecado pasado
-
-### Marcador: si decimos que no hemos pecado + es-juicio
-
-## 1 Juan 2:3-6 (ciclo 4) — Unidad de prueba de conocer a Dios con mandamientos
-
-### Marcador: quien dice… + no cumple → es mentiroso
-
-## 1 Juan 2:9-11 (ciclo 5) — Unidad de reclamación de luz con odio al hermano
-
-### Marcador: quien dice… odia → está en la oscuridad es
-
-## 1 Juan 2:15-17 (ciclo 6) — “Unidad de prohibición de amar al mundo”
-
-### Marcador: no amar (imperativo) + si amas → no es
-
-## 1 Juan 2:18-27 (ciclo 7) — “Unidad imperativo de identificación y permanencia con el anticristo”
-
-### Marcador: negar / confesar + permanecer (imperativo)
-
-# 1 JUAN 2:28–4:6 DIOS ES JUSTICIA: SIENDO UN HIJO DE DIOS
-
-## 1 Juan 2:28-3:3 Introducción
-
-### Tema: Semejanza con el Padre. Principales objetivos de diagnóstico: justicia vs. pecado, diablo vs. Dios, confesión verdadera vs. anticristo. Propósito: Establecer una identidad espiritual basada en la conducta y la confesión.
-
-### Porque Dios es justo, sus hijos practican la justicia (2:29). No practicar la justicia expone una falsa identidad (3:8-10). Este movimiento va más allá de la comunión (experiencia compartida) hacia la identidad familiar (naturaleza compartida). Marcas clave del tema de la identidad:
-
-#### “Nacidos de Dios” (2:29; 3:9; 4:7; 5:1)
-
-#### “Hijos de Dios” vs. “hijos del diablo” (3:1-10)
-
-#### Profetas verdaderos vs. falsos (4:1-6)
-
-#### Así que aquí, las pruebas cambian de simplemente andar en la luz a demostrar linaje divino.
-
-#### Movimiento Dos = “¿Tu conducta y confesión demuestran que realmente perteneces a Dios?”
-
-## 1 Juan 3:4-10 (ciclo 8) — “Unidad de contraste participial entre hacer el pecado vs. hacer la justicia”
-
-### Marcador: Dominante + participios presentes (ποιῶν, ἁμαρτάνων, μένων) con juicios
-
-## 1 Juan 3:11–18 (ciclo 9) — “Unidad comportamental de amor y odio”
-
-### Marcador: odio / amor + respetar las declaraciones
-
-## 1 Juan 3:19–24 (ciclo 10) — “Unidad subjuntiva para tranquilizar el corazón y mantener las órdenes”
-
-### Marcador: ἐὰν καταγινώσκῃ + τηρῶν + ἵνα πιστευσωμεν / ἀγαπῶμεν
-
-## 1 Juan 4:1–6 (ciclo 11) — “Unidad imperativa para probar el espíritu”
-
-### Marcador: δομικάζετε (imperativo) + πᾶν πνεῦμα ὁμολογεῖ / μὴ ὁμολογεῖ
-
-# 1 JUAN 4:7–5:21 DIOS ES AMOR: VIVIENDO CONFIADAMENTE EN EL AMOR DE DIOS
-
-## Introducción
-
-### Tema: El amor de Dios como realidad integradora. Principales objetivos de diagnóstico: amor perfeccionado, fe, testimonio dado por el Espíritu. Propósito: Generar confianza, seguridad relacional y exhortación final.
-
-### Cómo el movimiento desarrolla la pareja (Amor → Seguridad Permanente):
-
-#### El amor se convierte en la realidad integradora y perfeccionadora:
-
-##### El amor expulsa el temor (4:18) → confianza
-
-##### El amor testifica que permanecemos en Dios (4:12-16)
-
-##### El amor prueba la fe (5:1-2)
-
-##### El amor, la obediencia y la fe convergen en la plena seguridad de la vida eterna (5:13)
-
-#### El amor perfecciona toda la estructura diagnóstica:
-
-##### La luz reveló si tenías comunión.
-
-##### La justicia reveló si eras verdaderamente hijo de Dios.
-
-##### El amor revela que permaneces en Dios con confianza.
-
-#### Movimiento Tres = "¿El amor de Dios que obra en ti produce confianza y el testimonio de permanecer?"
-
-## 1 Juan 4:7–21 (ciclo 12) — “Unidad subjuntivo/participial de comportamiento amoroso”
-
-### Marcador: ἀγαπῶμεν + participios presentes + juicios ἐστίν
-
-## 1 Juan 5:1–5 (ciclo 13) — “Creer/amar/mantenerse presente-unidad participativa”
-
-### Marcador: ὁ πιστευων / ὁ ἀγαπῶν / ὁ πιστευσων + nacido
-
-## 1 Juan 5:6-12 (ciclo 14) — “Testimonio - unidad creyente / no creyente”
-
-### Marcador: el creyente / el no creyente + hizo / el testimonio es
-
-## 1 Juan 5:13-21 (ciclo 15) — “Idolos - Unidad imperativa de evitar”
-
-### Marcador: si ven… pecadores + cuídense (imperativo)
+#### Comando de guardia final. 1 Juan 5:21

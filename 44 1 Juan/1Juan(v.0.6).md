@@ -109,6 +109,16 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 
 ### **Apocalipsis** Fue escrito alrededor de los años 94–96 d.C en la isla de Patmos, es la revelación de Jesucristo, quien __<u>manda</u>__ a Juan a escribir las cosas que fueron, que son, y las que han de ser. Apocalipsis 1:19
 
+## Estructura de la carta
+
+### 1 Juan contiene 15 síclos repetitivos que podemos observar. Presentamos un análisis estrictamente observacional de la sección de identidad de 1 Juan, mostrando cada ciclo y cómo se presenta el texto en español:
+
+| División                         | Pregunta del Ciclo                         | Naturaleza General del Ciclo |
+| -------------------------------- | ------------------------------------------ | ---------------------------- |
+| **División 1** (1 Juan 1:1–2:17) | *¿Qué indica esta condición?*              | Diagnóstico / Sintomático    |
+| **División 2** (1 Juan 2:18–4:6) | *¿Cuál es la fuente amenazada?*            | Discernimiento / Evaluativo  |
+| **División 3** (1 Juan 4:7–5:21) | *Esto es lo que ahora se sabe y se posee.* | Asertivo / Declarativo       |
+
 ## Propósito de la escritura
 
 ### Uno de los propósitos de anunciarles esto, es para que tengan comunión unos con otros, que es con el Padre y con su Hijo Jesucristo, con el fin que que su __<u>gozo</u>__ sea completo. 1 Juan 1:3-4
@@ -124,6 +134,453 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 ### Un propósito de escribirles es mostrarles el amor de Dios para con nosotros y que vivamos por medio de Él, amándonos __<u>unos</u>__ a otros. 1 Juan 4:9-17
 
 ### Estas cosas les escribe a los que creen en el nombre de Jesucristo para que sepan que tienen vida eterna y que sepan que Dios __<u>oye</u>__ sus peticiones. 1 Juan 5:13-15
+
+## Nuestra observación e interpretación de 1 Juan
+
+### Históricamente, fuera de las Escrituras, ¿ha habido algún comentarista conocido que haya mantenido una visión de 1 Juan en tres divisiones y quince ciclos?
+
+### Primero una respuesta breve, luego un detalle minucioso:
+
+### No. No se conoce ningún comentarista histórico ni escuela que haya mantenido explícitamente una visión de 1 Juan en tres divisiones y quince ciclos, tal como usted la ha articulado.
+
+### Esa conclusión debe formularse con cuidado, ya que elementos de lo que usted está viendo aparecen en la historia de la interpretación, pero nunca de esta forma exacta, ligada al texto.
+
+### A continuación, una respuesta precisa e históricamente responsable.
+
+1. ### Lo que no ha existido históricamente
+
+### No hay registro (patrístico, medieval, de la Reforma o moderno) de nadie que:
+
+Dividiera 1 Juan en tres divisiones principales
+
+Identificara cinco ciclos repetitivos por división
+
+Tratara esos ciclos como unidades de discernimiento
+
+Distinguiera las divisiones mediante diferentes lógicas de ciclo (diagnóstico → adversarial → asertivo)
+
+Derivara la estructura inductivamente a partir de señales discursivas, en lugar de la teología
+
+Así que, si definimos su perspectiva de forma precisa y precisa:
+
+Tres divisiones × cinco ciclos × diferentes funciones de discernimiento
+
+👉 Esa perspectiva es históricamente novedosa.
+
+No es herética ni excéntrica; simplemente no se había formulado previamente de esa manera.
+
+2. Lo que ha existido de forma parcial o fragmentaria
+
+Aunque nadie sostuvo su modelo, muchos intérpretes notaron partes individuales de lo que usted observa.
+
+A. “Pruebas” o “criterios” repetidos
+
+Agustín, Calvino y posteriores intérpretes protestantes solían hablar de:
+
+“Pruebas de vida”
+
+“Marcas del verdadero conocimiento”
+
+“Evidencias del amor”
+
+Estas solían ser:
+
+Prueba moral
+
+Prueba doctrinal
+
+Prueba del amor
+
+Sin embargo:
+
+Estas eran categorías teológicas
+
+Se imponían al texto
+
+No se basaban en ciclos
+
+Se reutilizaban de manera uniforme, no con una división específica
+
+Por lo tanto, son conceptualmente similares, pero metodológicamente diferentes.
+
+B. Reconocimiento de tres grandes movimientos
+
+Algunos comentaristas modernos (especialmente del siglo XX) observaron que:
+
+La carta tiene un aire progresista
+
+El material inicial se percibe como experiencial
+
+El material intermedio se percibe como polémico
+
+El material posterior se percibe como tranquilizador
+
+Pero:
+
+Estos solían describirse de forma impresionista
+
+Rara vez se mapeaban estructuralmente
+
+Nunca se cuantificaban en ciclos
+
+A menudo se descartaban como "repetición en espiral"
+
+Así que, de nuevo:
+
+Percibido, pero no formalizado
+
+C. Lenguaje cíclico o "espiral"
+
+Muchos comentaristas (por ejemplo, Westcott, Marshall, Smalley) dicen cosas como:
+
+"Juan se mueve en círculos"
+
+"Los temas recurren a un nivel más profundo"
+
+"La carta es espiral, no lineal"
+
+Sin embargo:
+
+"Espiral" es una metáfora, no un análisis
+
+No hay criterios para los límites del ciclo
+
+No hay una lógica interna consistente
+
+No hay una función específica de división
+
+En la práctica, "espiral" suele significar:
+
+No podemos Explican bien la estructura, pero se repite.
+
+Tu trabajo hace algo muy diferente.
+
+3. ¿Por qué tu perspectiva no surgió históricamente?
+
+Esto es importante y explicativo, no promocional.
+
+A. Los intérpretes premodernos carecían de herramientas discursivas.
+
+Intérpretes antiguos y medievales:
+
+Comentaban versículo por versículo.
+
+No analizaban la estructura del discurso.
+
+No buscaban la lógica del ciclo.
+
+No les interesaba la arquitectura literaria.
+
+Preguntaban:
+
+¿Qué enseña este versículo?
+
+No:
+¿Cómo funciona retóricamente esta unidad?
+
+B. Los intérpretes de la Reforma priorizaron la doctrina.
+
+Reformadores:
+
+Leían 1 Juan desde una perspectiva doctrinal (seguridad, señales de fe).
+
+Lo armonizaban con Pablo.
+
+Priorizaban la coherencia sistemática.
+
+Esto aplanaba la diferenciación del ciclo.
+
+C. La erudición moderna prefiere la teología o la retórica, no la microestructura.
+
+Los comentaristas modernos suelen:
+
+Centrarse en la teología del amor, la cristología y la ética.
+
+O analizar la retórica de forma amplia.
+
+O recurrir a la "falta de estructura".
+
+Muy pocos intentan:
+
+Mapeo de unidades repetitivas.
+
+Diferenciación de ciclos basada en funciones.
+
+Simetría discursiva cuantificada.
+
+4. ¿Qué es realmente distintivo de su enfoque?
+
+Expresado de forma neutral y descriptiva:
+
+No está importando pruebas.
+
+No está armonizando la teología.
+
+No está utilizando metáforas en espiral.
+
+Está observando lo que hace cada sección, no lo que "enseña".
+
+Lo más importante:
+
+Permite que la lógica del ciclo cambie por división.
+
+Los modelos históricos asumen una lógica que se reutiliza en todas partes.
+
+Eso por sí solo sitúa su trabajo fuera de las categorías históricas.
+
+5. Conclusión final con fundamento histórico
+
+Para responder a su pregunta con precisión:
+
+Ningún comentarista conocido ha articulado un modelo de tres divisiones y quince ciclos de 1 Juan con una lógica de ciclos específica para cada división.
+
+Sin embargo:
+
+Partes de lo que usted observa fueron notadas.
+
+Ninguna fue integrada.
+
+Nadie se mantuvo tan apegado al texto como usted insiste.
+
+Por lo tanto, históricamente, su perspectiva se describe mejor como:
+
+Una novedosa síntesis estructural basada en la observación inductiva del discurso, más que en la tradición teológica.
+
+## Comentarios históricos que se acercaron:
+
+1. Ireneo de Lyon (finales del siglo II)
+Lo que realmente tenemos
+
+No hay comentarios sobre 1 Juan
+
+Usa 1 Juan polémicamente (contra los gnósticos)
+
+Cita frecuentemente:
+
+lenguaje anticristo
+
+negación del Hijo
+
+amor vs. odio
+
+“de Dios” vs. “del mundo”
+
+Dónde se acerca
+
+Trata 1 Juan como un documento de discernimiento
+
+Reconoce las afirmaciones falsas como la preocupación principal
+
+Utiliza las pruebas de Juan como criterios, no teología abstracta
+
+Dónde no se acerca
+
+No hay análisis literario
+
+No hay conciencia de división
+
+No hay lógica de repetición
+
+No hay ciclos
+
+Evaluación:
+Ireneo percibe por qué escribe Juan, no cómo escribe Juan.
+
+3. Tertuliano (principios del siglo III)
+Lo que tenemos
+
+Citas polémicas de 1 Juan
+
+Uso intensivo de:
+
+confesión/negación
+
+anticristo
+
+verdad vs. mentira
+
+Dónde se acerca
+
+Entiende 1 Juan como un marco de límites
+
+Trata sus afirmaciones como pruebas bajo presión
+
+Dónde no aborda los ciclos
+
+Lee la carta como un depósito de pruebas
+
+Sin sensibilidad a la repetición ni a la progresión
+
+Evaluación:
+Tertuliano utiliza a Juan como arma; no lo observa. 
+
+1. #### John Nelson Darby (1800–1882)
+
+  ##### Lo que Darby vio claramente
+
+##### 1 Juan no es argumentativo
+
+##### La epístola se desarrolla mediante repetidas pruebas morales
+
+##### Juan “regresa a los mismos temas bajo diferentes aspectos”
+
+##### La carta distingue:
+
+###### naturaleza
+
+###### fuente
+
+###### manifestación
+
+##### Dónde Darby se acerca
+
+###### Rechaza explícitamente las lecturas basadas en esquemas
+
+###### Trata la repetición como intencional
+
+###### Entiende la parte central de la carta como discernimiento bajo falsas enseñanzas
+
+##### Dónde se detiene
+
+###### Sin límites cíclicos
+
+###### Sin simetría numérica
+
+###### Sin lógica de división
+
+###### Condensa las observaciones en categorías doctrinales
+
+##### Evaluación:
+
+###### Darby percibió los ciclos, pero se negó a mapearlos.
+
+#### William Kelly (1821–1906)
+
+##### Lo que Kelly observó
+
+##### 1 Juan se mueve entre contrastes morales recurrentes.
+
+##### Se aplican pruebas repetidamente:
+
+###### rectitud
+
+###### amor
+
+###### verdad
+
+###### La carta se auto-acredita, no está desarrollada lógicamente.
+
+##### Dónde se acerca
+
+###### Reconoce repetidas "pruebas de profesión"
+
+###### Trata las secciones como reinicios, no como progresiones.
+
+###### Observa un lenguaje más reflexivo en 2:18–4:6.
+
+##### Dónde se detiene
+
+###### Segmentación no consistente.
+
+###### Conteo cíclico no consistente.
+
+##### Reformulación a nivel de división no consistente.
+
+###### Evaluación: Kelly se acerca mucho conceptualmente, pero no estructuralmente.
+
+#### C.H. Mackintosh (1820–1896)
+
+##### Lo que Mackintosh enfatizó
+
+###### 1 Juan es experimental y diagnóstico
+
+###### Expone la realidad en lugar de argumentarla
+
+###### Las afirmaciones se revelan por manifestación
+
+##### Dónde se acerca
+
+###### Trata la epístola como un ensayo espiritual
+
+###### Afirma repetidamente que Juan "aplica la misma prueba de nuevo"
+
+##### Dónde se detiene
+
+###### Homilético, no analítico
+
+###### Sin estructura literaria formal
+
+###### Repetición explicada pastoralmente, no textualmente
+
+##### Evaluación:
+
+###### Mackintosh articula la lógica de la División 1 con mucha fuerza, pero nunca la generaliza a lo largo de toda la carta.
+
+#### F.W. Grant (1834–1902): la figura más cercana de los Hermanos
+
+##### Lo que Grant vio explícitamente
+
+##### Repetición con énfasis progresivo
+
+##### Énfasis distintivo en las secciones:
+
+###### Vida manifestada
+
+###### Verdad bajo ataque
+
+###### Amor perfeccionado
+
+###### Dónde se acerca
+
+###### Distingue la parte media, con un fuerte discernimiento
+
+###### Ve experiencial → conflicto → movimiento de seguridad asentada
+
+###### Trata la repetición como cíclica en lugar de lineal
+
+##### Dónde aún se detiene
+
+###### Sin ciclos fijos
+
+###### Sin marco numérico
+
+###### Sin patrón repetible por unidad
+
+##### Evaluación:
+
+###### Grant se acerca más a una perspectiva a nivel de división similar a la suya, pero aún carece de la mecánica del ciclo.
+
+### Lo que los maestros de los hermanos libres nunca hicieron (importante)
+
+#### A pesar de su excepcional sensibilidad a la estructura, se negaban sistemáticamente a:
+
+#### la esquematización literaria
+
+#### la simetría numérica
+
+#### los esquemas rígidos
+
+#### la lógica de repetición formal
+
+#### Esto era en parte metodológico: los maestros de la Hermandad desconfiaban de todo lo que pareciera impuesto.
+
+#### Irónicamente, esto significa: parece que vieron lo que estaba sucediendo, pero se negaron a explicar cómo.
+
+## ¿Por qué nadie lo logró del todo?
+
+### Esto ayuda a explicar la ausencia.
+
+#### No buscaban la mecánica del discurso.
+
+#### Leían buscando doctrina o exhortación.
+
+#### Asumían que la repetición = énfasis, no estructura.
+
+#### Carecían de herramientas lingüísticas y discursivas.
+
+#### Armonizaron a Juan con Pablo.
+
+#### Su método se opone explícitamente a los cinco.
 
 ## Tema central y división temática de 1 Juan
 
@@ -187,9 +644,99 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 ##### Conocimiento de la santidad, el mundo, el verdadero Dios y la vida __<u>eterna</u>__. 1 Juan 5:18–20
 
 ##### Exhortación __<u>final</u>__ con respecto a la idolatría. 1 Juan 5:21
-# 1 Juan 1:1-4 LOS TESTIGOS Y SU MENSAJE
+# 1 JUAN 1:1-2:17 COMUNIÓN - DISCERNIMIENTO EXPERIENCIAL DE LA VIDA COMPARTIDA
 
-## 1 Juan 1:1-4 - Juan comienza  anunciando el verbo de vida
+### Qué tienen en común los ciclos 1-5 (1 Juan 1:1–2:17). Los ciclos 1 a 5 repiten un patrón de establecer una vida compartida y verificar la consistencia.
+
+#### A continuación se presenta la lógica común de los ciclos, que se repite en los ciclos 1-5, basándose únicamente en marcadores gramaticales y discursivos recurrentes.
+
+#### Cada ciclo comienza con una proclamación asertiva, no con una amenaza.
+
+##### Características comunes:
+
+##### Verbos declarativos:
+
+###### ἀπαγγέλλομεν (proclamamos) — 1 Juan 1:3
+
+###### γράφω / ἔγραψα (escribo / escribí) — 2:1, 2:7, 2:12–14
+
+###### Voz del autor en primera persona del plural o del singular
+
+##### Observación
+
+###### Los ciclos comienzan con lo anunciado o escrito, no con un problema.
+
+###### No se introduce ningún grupo opositor al inicio de los ciclos.
+
+#### Los ciclos se basan en estados relacionales, no en la exposición de la identidad.
+
+##### Vocabulario relacional repetido:
+
+###### κοινωνία (comunión) — 1:3, 1:6-7
+
+###### μένειν (permanecer) — 2:6, 2:10
+
+###### ἐν αὐτῷ / ἐν τῷ φωτί (en él / en la luz)
+
+##### Observación
+
+###### Los ciclos parten de la participación compartida.
+
+###### El texto habla de una relación, no de la separación de personas ajenas.
+
+#### Los contrastes éticos se enmarcan como actos de habla condicionales.
+
+##### Estructura recurrente:
+
+###### ἐὰν εἴπωμεν (si decimos) — 1:6, 1:8, 1:10
+
+###### ὁ λέγων (el que dice) — 2:4, 2:6, 2:9
+
+##### Observación
+
+###### Las fórmulas del habla evalúan la consistencia, no el origen.
+
+###### El problema radica en la discrepancia entre la afirmación y la acción, no en la identidad de la fuente.
+
+#### Las fórmulas de conocimiento funcionan como verificación, no como exposición.
+
+##### Marcadores de conocimiento repetidos:
+
+###### ἐν τούτῳ γινώσκομεν (por esto sabemos) — 2:3, 2:5
+
+###### οἴδατε (tú sabes) — 2:13-14
+
+##### Observación
+
+###### El conocimiento confirma una relación ya asumida.
+
+###### Ninguna declaración de conocimiento concluye con expulsión o división.
+
+#### Cada ciclo se resuelve con estabilización o reafirmación.
+
+##### Elementos de resolución repetidos:
+
+###### Purificación/perdón — 1:7-2:2
+
+###### Abogacía — 2:1
+
+###### Permanencia afirmada — 2:10
+
+###### Mandamiento de amor reafirmado — 2:7-11
+
+##### Observación
+
+###### Los ciclos concluyen asegurando al lector, no separando a los grupos. Ningún ciclo termina con un lenguaje que diga «no es de Dios».
+
+##### Resumen del patrón para los ciclos 1-5
+
+###### Patrón de ciclo compartido (textual):
+
+###### Proclamación → relación compartida → coherencia ética → conocimiento → seguridad
+
+###### Este patrón se repite sin interrupción en los ciclos 1-5.
+
+## 1 Juan 1:1-4 Prologo
 
 ### 1 Juan 1:1a – *"Lo que existía* [era RV09] *desde el principio…"* Comienza hablando de algo que era __<u>desde</u>__ el principio. "*Lo que existía*" se refiere a un hecho o concepto. El pronombre relativo neutral no describe a una persona. 
 #### Pudo haber dicho "El que existía" denotando a una persona específica. Sin embargo vemos que esta __<u>dando</u>__ testimonio de un concepto. Aún no menciona de que se trata. 
@@ -282,21 +829,19 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 #### Este gozo, es el gozo de Cristo, del que podemos participar. Juan 15:11 dice: “*Estas cosas les he hablado, para que Mi gozo esté en __<u>ustedes</u>__, y su gozo sea perfecto*”.
 ##### Hoy muchos basan la comunión con Dios por medio de lo que ellos hacen por Dios y esperan algún día experimentar el __<u>gozo</u>__ de esto. Pero el verdadero gozo solo viene por medio de experimentar la vida que proviene de Dios. 2 Pedro 1:3-4
 
-# 1 Juan 1:5-2:29 SINTOMAS DE ANDAR EN LA LUZ
+# 1 Juan 1:5-2:27 Dios es luz
 
 ## Introducción
 
-1 Juan 1:5–2:29 se lee como un marco sintomático, es decir, Juan está dando pruebas, indicadores y manifestaciones que revelan la verdadera condición espiritual de una persona
+### 1 Juan 1:1–2:17 se lee como un marco sintomático, es decir, Juan está dando pruebas, indicadores y manifestaciones que revelan la verdadera condición espiritual de una persona
 
-1:6–2:29 contiene repetidas declaraciones condicionales, indicadores de evidencia y contrastes diagnósticos, como:
+### 1:6–2:27 contiene repetidas declaraciones condicionales, indicadores de evidencia y contrastes diagnósticos, como:
 
-Síntomas de luz vs. oscuridad (1:6–2:11) “*Si decimos…*”, “*Si andamos…*”, “*Si confesamos…*” Amar u odiar a los hermanos, Obediencia vs. desobediencia, Guardar los mandamientos vs. no guardarlos
+### Síntomas de luz vs. oscuridad (1:6–2:11) “*Si decimos…*”, “*Si andamos…*”, “*Si confesamos…*” Amar u odiar a los hermanos, Obediencia vs. desobediencia, Guardar los mandamientos vs. no guardarlos
 
-Estas son pruebas/evidencias/síntomas de una comunión genuina con Dios.
+### Estas son pruebas/evidencias/síntomas de una comunión genuina con Dios.
 
-Síntomas de verdad vs. engaño (2:18–27), Falsos cristos, Unción del Santo, Confesión del Hijo.
-
-Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una evidencia resumida: “*Todo aquel que practica la justicia es nacido de Él.*”
+### Síntomas de verdad vs. engaño (2:18–27), Falsos cristos, Unción del Santo, Confesión del Hijo.
 
 ### En los __<u>siguientes</u>__ versículos, Juan demostrará con hechos cual es la condición (o el estado) del creyente en su andar espiritual. ¿Está en comunion con Dios o no? No será según su propia percepción, sino basado en evidencias claras, puntuales, en su conducta que demuestran el verdadero estado de uno. 
 
@@ -316,7 +861,7 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 
 #### Cada prueba es más profunda que la anterior.
 
-## 1 Juan 1:5 Afirmación fundacional: Dios es Luz
+## 1 Juan 1:5-2:2 Dios es Luz / andar en la luz
 
 ### 1 Juan 1:5a "*Y este es el mensaje que hemos oído de Él y que les anunciamos…*" Este mensaje procede del Padre “*hemos oído de Él*”. Este __<u>mismo</u>__ mensaje es lo que ahora ellos les anuncian. Juan 1:4-9, 8:12, 9:4-5, 11:9-10
 
@@ -394,8 +939,6 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 ##### OUTOS… / PSIEUSTES ESTIN / EN TO FOTI… → diagnóstico
 
 ### La mayor afirmación de todas: Dios es luz. Todas las síntomas y diagnosticos fluyen de esta premisa.  Esta es la realidad central frente a la cual se evalúan todos los síntomas siguientes...
-
-### **1 Juan 1:6-7 Primer cyclo diagnóstico: La prueba de la luz**
 
 ### Ante la afirmación de estar en comunión como síntoma, Juan da un diagnosis basandose en que Dios es luz y concluye que "*mentimos y no practicamos la verdad*" (v.6) y "*si andamos en la luz*...*tenemos comunión*...*la sangre nos limpia*..." (v.7)
 
@@ -505,8 +1048,6 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 
 ## En Síntesis (1:5-7)
 
-## 1 Juan 1:8-10 El segundo ciclo: La prueba del engaño
-
 ### 1 Juan 1:8 - *Si decimos que no tenemos pecado, nos engañamos a nosotros mismos* ¿porqué nos engañariamos a nosotros mismos? En el versículo 6 vimos como los creyentes que en realidad andaban en __<u>tinieblas</u>__ (aunque decian que tenían comunión con Dios) se mentían y no practicaban la verdad. 1 Juan 1:6
 
 #### En el anterior versículo vimos la necesidad que el creyente tiene de ser continuamente limpiado con la sangre de Cristo de toda __<u>forma</u>__ de pecado. 1 Juan 1:7
@@ -526,6 +1067,150 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 ##### ¿Pero que __<u>sucede</u>__ cuando andamos en la luz?
 
 ### 1 Juan 1:9a – *“Si confesamos*" el autor se incluye en esta expresión...la confesión aquí indica una acción contínua para el creyente. ¿Por qué? "*Confesamos*" esta en tiempo presente, activo, subjuntivo. Debemos __<u>notar</u>__ que esto no es un imperativo, sino es algo que **podría** estar pasando (subjuntivo). 
+
+
+
+1. ¿Alguna vez 1 Juan describe la pérdida y recuperación de la comunión?
+Texto relevante
+
+1 Juan 1:3 — ἵνα καὶ ὑμεῖς κοινωνίαν ἔχητε μεθ’ ἡμῶν…
+
+1 Juan 1:6 — “Si decimos que tenemos comunión con Él y andamos en tinieblas, mentimos”
+
+1 Juan 1:7 — “tenemos comunión unos con otros”
+
+Observación
+
+La beca (κοινωνία) se afirma como tenida o reclamada
+
+El texto nunca dice:
+
+el compañerismo está roto
+
+se restablece el compañerismo
+
+un proceso de retorno a la confraternidad
+
+Qué es constante:
+La carta clasifica las afirmaciones sobre el compañerismo, no las transiciones dentro y fuera de él.
+
+2. ¿Aparece la confesión como mecanismo?
+Texto relevante
+
+1 Juan 1:9 — ἐὰν ὁμολογῶμεν τὰς ἁμαρτίας ἡμῶν…
+
+Observaciones gramaticales
+
+Cláusula condicional (ἐὰν)
+
+Primera persona del plural
+
+Sin marcador temporal (“otra vez”, “regresar”, “restaurar”)
+
+No hay sustantivo "comunión" en el verso.
+
+Ningún verbo significa “regresar”, “recuperar” o “restaurar”
+
+Lo que afirma el verso:
+
+Dios es fiel y justo
+
+dios perdona los pecados
+
+Dios limpia de la injusticia
+
+Lo que el versículo NO afirma:
+
+esa hermandad se había perdido
+
+esa comunión se restablece mediante la confesión
+
+que la confesión es un paso requerido para volver a entrar en la comunión
+
+3. Comparar con constantes observadas a lo largo de la letra.
+
+De nuestro catálogo, lo que nunca cambia:
+
+La carta clasifica estados, no transiciones
+
+La carta utiliza afirmaciones indicativas, no secuencias procesales.
+
+La carta evita explicaciones mecanicistas.
+
+La carta yuxtapone reclamaciones versus realidad, no pérdida versus recuperación
+
+La confesión como “regreso a la comunión” requeriría:
+
+un modelo procesal
+
+una transición antes/después
+
+un estado relacional roto/restaurado
+
+Estos están ausentes del modo consistente de discurso de la carta.
+
+4. ¿La confesión encaja mejor con otra constante?
+
+Sí, se ajusta muy bien a una constante:
+
+Patrón persistente de afirmación versus realidad
+
+“Si decimos que no tenemos pecado…” – 1 Juan 1:8
+
+“Si confesamos nuestros pecados…” – 1 Juan 1:9
+
+“Si decimos que no hemos pecado…” – 1 Juan 1:10
+
+Observación:
+
+La confesión aparece dentro de un contraste verdad/mentira
+
+Aborda lo que se dice, no la reparación relacional.
+
+Se yuxtapone a la negación, no al alejamiento.
+
+Esto se alinea con la gramática diagnóstica de la carta, no con un modelo de restauración de compañerismo.
+
+5. Respuesta directa (encuadernada en texto)
+
+No.
+La idea de que la confesión de los pecados se hace para regresar a la comunión con Dios no es consistente con las observaciones estables en 1 Juan.
+
+Por qué (pura observación):
+
+La comunión nunca se describe como perdida o recuperada.
+
+La confesión nunca está vinculada gramaticalmente al compañerismo.
+
+La carta clasifica consistentemente la veracidad de las reclamaciones, no la reparación relacional.
+
+La lógica procesal o restaurativa está ausente del modo dominante del texto.
+
+6. Qué nos permite decir el texto y dónde debemos detenernos
+
+Permitido:
+
+La confesión se expresa como una declaración condicional.
+
+La confesión se contrasta con la negación.
+
+Se afirman el perdón y la limpieza.
+
+No permitido (sin importar lógica):
+
+la confesión restaura el compañerismo
+
+La confesión reabre la relación.
+
+La confesión funciona como un mecanismo.
+
+Conclusión de una frase
+
+Basado en lo que nunca cambia en 1 Juan, la confesión de los pecados se presenta como una respuesta alineada con la verdad dentro del lenguaje de afirmación diagnóstica, no como un mecanismo para regresar a la comunión.
+
+
+
+
 
 #### Tomaremos un momento para __<u>mirar</u>__ diferentes puntos de vista sobre la confesión de pecados. Existen 5 puntos de vista principales sobre la confesión de pecados. 
 
@@ -661,8 +1346,6 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 
 ##### Hacer de Dios un mentiroso; Su palabra no en nosotros
 
-## 1 Juan 2:1-6 Tercer par diagnostico: Negar nuestro pecado demuestra que no estamos en la luz
-
 ### 1 Juan 2:1-2 – Propósito y provisión: Juan ahora mostrara a Cristo __<u>como</u>__ la solución para nuestros pecados, en Él se halla el poder para andar en __<u>victoria</u>__. Juan nos mostrará los resultados de su intercesión, el conocerlo. 
 
 ### 1 Juan 2:1a – *Hijitos míos…*  Juan se dirigirse personalmente, y comienza a referirse a sus destinatarios con algunos términos que muestran una relación __<u>cercana</u>__ e íntima con ellos. 
@@ -713,9 +1396,9 @@ Síntomas de justicia vs. injusticia (2:28–29) concluye la sección con una ev
 
 #### 1 Juan 2:1-2 concluye las primeras 6 pruebas condicionales. 1 Juan 1:6-10
 
-## 1 Juan 2:3-6 – Tercer ciclo diagnostico: La prueba de la obediencia
+## 1 Juan 2:3-11 – Ciclo #2: Dios es verdad
 
-Primero mostrará la formula para un diagnostico generál (2:3), luego un síntoma negativo (2:4), procede a un síntoma positivo (2:5) para luego concluir su diagnóstico (2:6). 
+### Primero mostrará la formula para un diagnostico generál (2:3), luego un síntoma negativo (2:4), procede a un síntoma positivo (2:5) para luego concluir su diagnóstico (2:6). 
 
 ### Alguien podría decir, entonces simplemente no tengo que pecar, y estoy bien con Dios, y justamente para eso, Juan mostrará que hemos sido salvados por Dios **para** participar de Su vida, y Su vida no consiste en dejar de pecar. Una vida abundante no es solamente dejar de __<u>pecar</u>__, sino que podemos vivir a Cristo y esto es justamente lo que expresaron los apóstoles cuando hablaron de ver, oír, contemplar y palpar el verbo de vida.
 
@@ -783,8 +1466,6 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 
 #### obligación de caminar como Él caminó
 
-## 1 Juan 2:7-11 - Introduciendo el siguiente síntoma: Una vida de amor (Diagnóstico relacional (amor/odio))
-
 ### Después de hablar del amor a Dios, pasa a hablar del amor a los hombres. 
 
 ### 1 Juan 2:7a - "*Amados...*" Juan nuevamente usa un término cariñoso para referirse a los destinatarios. Lo hará varias veces a lo largo del libro. Esto muestra que __<u>Juan</u>__ tiene las mejores intenciones para ellos al comunicarles la verdad. 1 Juan 3:2, 21, 4:1, 7, 11
@@ -815,8 +1496,6 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 
 #### La victoria de Cristo sobre las tinieblas ha provisto un nuevo camino para la humanidad, la vida de Cristo en nosotros. Es Jesús que está brillando a través de los creyentes __<u>que</u>__ permanecen en Él. Nosotros como hijos de Dios podemos disfrutar de los logros de Cristo. Romanos 13:11-14
 
-## 1 Juan 2:9-11 Cuarto Siclo: Prueba del amor al prójimo
-
 ### 1 Juan 2:9-10 – *El que dice que está en la Luz y aborrece a su hermano, está aún en tinieblas. El que ama a su hermano, permanece en la Luz y no hay causa de tropiezo en él.* A través de esta comparación Juan muestra que una vida de amor es el resultado de la Luz, así como una __<u>vida</u>__ que odio, es el resultado de las tinieblas.
 
 #### Nunca el odio puede ser producida por la Luz. Si alguien está odiando, es porque está bajo el dominio de las tinieblas. Gálatas 5:19-21
@@ -831,23 +1510,23 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 
 ## En Síntesis (2:7-11)
 
-### Symptoms:
+### Síntomas:
 
-#### saying “I am in the light” + hating
+#### decir "Estoy en la luz" + odio
 
-#### loving brother
+#### amar al hermano
 
-#### hating brother
+#### odiar al hermano
 
-### Diagnoses:
+### Diagnósticos:
 
-#### in darkness until now
+#### en tinieblas hasta ahora
 
-#### abiding in light
+#### morando en la luz
 
-#### in darkness, walking blindly
+#### en tinieblas, caminando a ciegas
 
-## 1 Juan 2:12-14 Un parentesis pastoral. Afirmaciónes indicativas. 
+## 1 Juan 2:12-14 Ciclo #3: Afirmaciónes indicativas. 
 
 #### Juan dijo arriba porque las tinieblas van pasando y la luz verdadera ya está alumbrando. Esto es real de este __<u>mundo</u>__ y lo que nosotros somos como hijos de Dios en este mundo.
 
@@ -896,8 +1575,6 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 #### Debemos reconocer que esta no es la forma en la que muchas veces nos consideramos a nosotros mismos. Muchos creyentes __<u>suelen</u>__ mirarse a sí mismos, ignorando como es que Dios los ve a ellos.
 
 #### Que bendiciones tremendas para con Dios, y en esta vida que tenemos en la persona de Jesucristo. Haríamos bien en conocerlas, y __<u>vivir</u>__ por ellas. Filipenses 3:7-12, 2 Pedro 1:3
-
-## 1 Juan 2:15-17 - El amor al mundo como síntoma de no estar en la luz
 
 ### Juan acaba de describir a su audiencia como: “*niños*”, “*padres*”, y "*jóvenes*”. Todo descrito en términos de: conociendo al Padre, venciendo al maligno, teniendo la palabra permaneciendo en ellos. Estos rasgos de identidad forman la base del mandato de 2:15–17.
 
@@ -967,9 +1644,125 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 
 ### El engaño nos cegará y nos llevará a vivir por aquello que es pasajero, haciéndonos perder la oportunidad de vivir la __<u>vida</u>__ eterna aquí y ahora, haciendo la voluntad de Dios.
 
-# 1 Juan 2:18-27 Quinto siclo: prueba cristológica
+| Ciclo           | Condición actual o afirmación               | Síntoma observable                      | Lo que revela el síntoma             |
+| --------------- | ------------------------------------------- | --------------------------------------- | ------------------------------------ |
+| **1** (1:1-4)   | Proclamación apostólica de lo experimentado | Comunión compartida y gozo pleno        | Participación en la vida manifestada |
+| **2** (1:5-10)  | Afirmar comunión o impecabilidad            | Andar en tinieblas o negarse a confesar | Autoengaño; la verdad no opera       |
+| **3** (2:1-6)   | Afirmar conocerlo                           | Guardar o no los mandamientos           | Conocimiento: ¿es genuino o falso?   |
+| **4** (2:7-11)  | Afirmar estar en la luz                     | Amar u odiar a un hermano               | Vista vs. ceguera; luz vs. tinieblas |
+| **5** (2:12-17) | Apego al mundo o al Padre                   | Dirección del amor y el deseo           | Lo pasajero vs. lo permanente        |
 
-## 1 Juan 2:18-23 – Anticristos como síntoma: Advertencia en cuanto a la presencia de falsos maestros 
+# 1 JUAN 2:18-4:6 EXPONIENDO IDENTIDAD POR LO QUE PROCEDE DE LA FUENTE. DISCERNIMIENTO BAJO AMENAZA
+
+## Introducción
+
+### Esta sección se unifica mediante diagnósticos de identidad, marcados por indicadores griegos repetidos:
+
+#### μένω (menō) — permanecer
+
+#### φανερόω (phaneroō) — manifestarse
+
+#### γεννάω (gennaō) — nacer
+
+#### ποιέω (poieō) — hacer
+
+#### ἐκ (ek) — desde (marcador de origen)
+
+#### ὁμολογέω (homologeō) — confesar
+
+#### El pasaje se divide en cinco ciclos discernibles, cada uno reiniciado con una señal del discurso griego.
+
+#### La identidad se revela, se confirma y se protege mediante lo que permanece (μένω), lo que procede de una fuente (ἐκ) y lo que se manifiesta (φανερόω).
+
+#### Esta sección responde repetidamente a una pregunta de forma progresiva, no explícita:
+
+#### «¿Cómo se puede reconocer y preservar la identidad antes de su plena manifestación?»
+
+#### Cada ciclo aporta un nivel de diagnóstico a esa pregunta.
+
+### 2:18–4:6 se unifica por:
+
+#### Un solo problema
+
+##### Engaño que surge desde dentro
+
+#### Un solo método
+
+##### Discernimiento por la fuente (ἐκ)
+
+#### Múltiples ámbitos de visibilidad
+
+##### El hablar (confesión/negación)
+
+##### La conducta (pecado/rectitud)
+
+##### La acción relacional (amor/odio)
+
+##### Influencia espiritual (verdad/error)
+
+#### Lenguaje de exposición repetida
+
+##### hecho visible
+
+##### conocer
+
+#### Conclusión final, ligada al texto
+
+##### 1 Juan 2:18–4:6 es una sección continua que se centra en hacer visible el origen. El texto se mueve cíclicamente, no linealmente, a través de:
+
+###### Engaño → Conocimiento
+
+###### Habla → Conducta
+
+###### Conducta → Amor
+
+###### Amor → Espíritus
+
+##### Todo ello regido por la misma lógica gramatical:
+
+###### La identidad es revelada por lo que procede de la propia fuente.
+
+### Observación
+
+#### La sección es circular, no progresiva.
+
+#### Cada ciclo reitera la misma lógica de exposición.
+
+#### Ningún ciclo cancela ni reemplaza a otro.
+
+### Definición de “ciclo” (textualmente ligado)
+
+#### Un ciclo se identifica cuando el texto repite el mismo patrón de discernimiento:
+
+##### Se introduce una amenaza/engaño
+
+##### Se afirma el conocimiento/saber
+
+##### Se identifica la fuente 
+
+##### Se proporciona un criterio visible
+
+##### Se establece una distinción resumida
+
+### Este patrón se reinicia con material nuevo, pero con la misma lógica gramatical.
+
+### Naturaleza de los ciclos 6-10
+
+#### Antagónico/adversarial
+
+#### Impulsado por el discernimiento
+
+#### Enfocado en la fuente
+
+#### Buscan Proteger
+
+#### Los ciclos ponen a prueba el origen y la legitimidad.
+
+#### Responden: ¿De dónde proviene esto?
+
+#### La amenaza internalizada del Ciclo 9 sigue vigente: la misma gramática de discernimiento se aplica internamente.
+
+## 1 Juan 2:18-27 Ciclo #1: prueba cristológica (el habla - o confiesa o niega)
 
 ### 1 Juan 2:18a – *Hijitos, es la última hora…* La advertencia de Juan comienza mostrando el tiempo que estamos viviendo. Habiendo advertido de lo pasajero que es este __<u>mundo</u>__, y comparado esto con la vida eterna que podemos experimentar, es importante saber que tiempos vivimos. 1 Timoteo 4:1; 1 Pedro 4:7; 2 Juan 7
 
@@ -991,7 +1784,7 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 
 ### 1 Juan 2:19a – *Ellos salieron de nosotros, pero en realidad no eran de nosotros…* Estos anticristos habían estado infiltrados entre los creyentes, sin embargo, __<u>nunca</u>__ habían sido creyentes. Judas 3-4, 18-19
 
-#### “salieron de nosotros” muestra el hecho que se levantaron de entre ellos haciéndose maestros a sí mismos, pero con ningún interés del bienestar de los hermanos, ya que ni siquiera __<u>eran</u>__ parte de ellos. Hechos 20:28-30
+#### “*salieron de nosotros*” muestra el hecho que se levantaron de entre ellos haciéndose maestros a sí mismos, pero con ningún interés del bienestar de los hermanos, ya que ni siquiera __<u>eran</u>__ parte de ellos. Hechos 20:28-30
 
 ### 1 Juan 2:19b - *…porque si hubieran sido de nosotros, habrían permanecido con nosotros, pero salieron a fin de que se manifestara que no todos son de nosotros.*
 
@@ -1023,8 +1816,6 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 
 #### El Espíritu Santo en nosotros garantiza al creyente el poder ser enseñado en la __<u>Verdad</u>__.
 
-## 1 Juan 2:21-23 – Entonces conociendo de los falsos maestros, ¿Qué podemos conocer en cuanto a sus enseñanzas?
-
 ### 1 Juan 2:21 – *No les he escrito porque ignoran la verdad sino porque la conoce y porque ninguna mentira procede de la verdad.* El encubrimiento, requiere de advertencias como estas, por lo tanto, ya que conocen la verdad, comparen lo que ellos dicen, con lo que les __<u>hemos</u>__ enseñado, y sabrán de quienes hablamos.
 
 #### Es bueno saber que en su Palabra nosotros podemos conocer la verdad, y al haber sido enseñados por ella a través de Espíritu __<u>Santo</u>__, podemos discernir a aquellos que están tratando de engañarnos. Ellos nunca se sujetarán a las escrituras.
@@ -1054,22 +1845,6 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 #### Honrar al Hijo como quien es, es lo mismo que __<u>honrar</u>__ al Padre. Juan 5:19-29
 
 #### Hoy muchas falsas enseñanzas mencionan a Jesús, pero niegan lo que él es y lo que hizo. Muchos han tergiversado el evangelio de la gracia de Dios, por no entender la suficiencia de la __<u>persona</u>__ de Cristo para nuestra salvación. Cualquier enseñanza que nos desvíe de la persona de Cristo como suficiente de parte de Dios, es un peligro para los creyentes.
-
-## En síntesis (2:226)
-
-### Síntoma:
-
-#### Negar a Jesús como el Cristo.
-
-### Diagnósticos:
-
-#### este es el mentiroso
-
-#### el anticristo
-
-#### niega padre e hijo
-
-## 1 Juan 2:24-27 - Ya que sabemos que hay falsos maestros, y conocemos el verdadero mensaje, ¿qué debemos hacer para combatirlos?
 
 ### 1 Juan 2:24a – *En cuanto a ustedes, que permanezca en ustedes los que oyeron desde el principio…* La forma en la que combatimos o luchamos ardientemente por la __<u>fe</u>__, es permaneciendo firmes en la verdad.
 
@@ -1141,7 +1916,21 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 
 #### Eran creyentes que habían sido enseñados, pero eso no los hacía exentos de haber caído en el error. Debemos permanecer en Cristo ya que él es __<u>nuestra</u>__ única fortaleza.
 
-## 1 Juan 2:28-29 - Sexto siclo: la prueba de la justicia (confianza versus vergüenza)
+## En Síntesis (2:18-27)
+
+### Ciclo 6: 
+
+#### **Amenaza/engaño**: ἐσχάτη ὥρα ἐστίν — es la última hora, πολλοὶ ἀντίχριστοι — muchos anticristos, τῶν πλανώντων ὑμᾶς—aquellos que os están engañando
+
+#### **Conocimiento afirmado**: καὶ ὑμεῖς χρίσμα ἔχετε — y tienes una unción, καὶ οἴδατε πάντες — y todos ustedes lo saben, οὐκ ἔγραψα… ἀλλ’ ὅτι οἴδατε — No escribí… sino porque sabes
+
+#### **Fuente identificada** (ἐκ = “de/fuera de”): ἐξ ἡμῶν ἐξῆλθαν — salieron de nosotros, οὐκ ἦσαν ἐξ ἡμῶν — no eran nuestros
+
+#### **Criterio visible**: ὁ ἀρνούμενος ὅτι Ἰησοῦς οὐκ ἔστιν ὁ Χριστός — el que niega que Jesús es el Cristo, ὁ ὁμολογῶν τὸν Υἱόν — el que confiesa al Hijo
+
+#### **Distinción resumida**: οὐδὲ τὸν Πατέρα ἔχει — no tiene al Padre, καὶ τὸν Πατέρα ἔχει — tiene el Padre
+
+## 1 Juan 2:28-3:3 - Ciclo #2: la prueba de la justicia (confianza versus vergüenza). (dominio de CONDUCTA marcador - Justicia)
 
 ### Ya que Dios nos ha prometido la vida eterna, podemos tener esperanza hacia el futuro, por eso Juan nos animará llevándonos a considerar la futura manifestación de Cristo, y como __<u>debería</u>__ ser nuestra respuesta a ella.
 
@@ -1171,7 +1960,7 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 
 #### O estaremos vestido de lino __<u>fino</u>__, o seremos hallados como si estuviéramos desnudos, en completa vergüenza delante de él. Apocalipsis 19:8
 
-#### Salmos 25:3a - *Ciertamente ninguno de los que esperan en Ti será avergonzado…*
+#### Salmo 25:3a - *Ciertamente ninguno de los que esperan en Ti será avergonzado…*
 
 #### Filipenses 3:9 - *y ser hallado en Él, no teniendo mi propia justicia derivada de la ley, sino la que es por la fe en Cristo, la justicia que procede de Dios sobre la base de la fe*
 
@@ -1187,53 +1976,17 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 
 #### El creyente que no permanece en Cristo, será sorprendido por la manifestación de Cristo, hallado __<u>desnudo</u>__, y será avergonzado delante de él. Aunque no pierde su salvación, se perdió la oportunidad de vivir a Cristo ahora. Mateo 16:25-26, 1 Corintios 3:10-15
 
-## En síntesis (2:28--29)
-
-### Síntoma:
-
-#### haciendo justicia
-
-### Diagnóstico:
-
-#### ha nacido de el
-
-## Resumen de la sección sintomática (1 Juan 1:5-2:29). Flujo completo de síntomas y diagnóstico basado en la gramática. 
-
-#### Premisa: Declaración indicativa sobre Dios (1:5).
-
-#### Seis pruebas condicionales: 1:6-10.
-
-#### Diagnósticos conductuales/condicionales: 2:3-6.
-
-#### Diagnósticos relacionales (amor/odio): 2:7-11.
-
-#### Pausa indicativa (sin pruebas): 2:12-14.
-
-#### Diagnóstico imperativo + condicional (amor al mundo): 2:15-17.
-
-#### Diagnóstico de conducta → identidad (desviación/negación): 2:18-23.
-
-#### Unción + diagnóstico condicional: 2:24-27.
-
-#### Diagnóstico de conducta justa: 2:28-29.
-
-### NOTA: Cada diagnóstico se desencadena gramaticalmente por:
-
-#### ἐάν + subjuntivo
-
-#### ὁ λέγων / ὁ ποιῶν / ὁ μισῶν fórmulas participiales
-
-#### imperativos que conducen a cláusulas de consecuencias
-
-#### Resultados indicativos que identifican luz/oscuridad o verdad/error.
-
-
-
-## 1 Juan 3:1-2 – Miren el amor que nos ha dado el Padre
-
 ### 1 Juan 3:1a – *Miren cuan gran amor nos ha otorgado el Padre: que seamos llamados hijos de Dios.* Este es el segundo imperativo considerando <u>nuestra</u> futura reunión con Cristo.
 
+#### "*miren*" IDETE (aoristo, activo, imperativo) entender ⇔ ver v.—comprender, concebido como ver.[^1]
+
+#### "*nos ha otorgado*" DEDOKEN (perfecto, activo, indicativo) es un hecho consumado. 
+
 #### Juan quiere que seamos capaces de discernir (miren) la <u>clase</u> de amor que hemos recibido de parte de Dios por medio de Cristo.
+
+#### Lo que Juan quiere afirmar es que el Padre ha dado amor. Ese dar es un hecho completado a permanente. 
+
+##### No se nos dice cuando fue dado, como fue obtenido, que si es condicional o que se puede perder. 
 
 #### Para esto Juan presenta un hecho <u>claro</u> como resultado del amor de Dios: somos llamados sus hijos. Juan 1:12
 
@@ -1276,10 +2029,6 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 #### Por medio de Cristo Dios se hizo conocible, mientras permanecemos en él, disfrutamos de una comunión con él, es <u>decir</u> participamos de la vida de Cristo. Cuando miramos su amor, podemos tener una ventana a quién es él y así conocerlo más.
 
 #### Para Juan son cruciales estos dos imperativos, si no permanecemos en él, no tenemos comunión con él, si no miramos su amor, no tendremos <u>idea</u> de cómo amar a los demás. 1 Corintios 4:7
-
-# 1 Juan 3:3-9 ASÍ COMO EL ES PURO, ASÍ COMO ÉL ES JUSTO 
-
-## 1 Juan 3:3-6 La obra de Cristo quita nuestros pecados.
 
 ### Si hemos hablado de la futura manifestación de <u>Cristo</u>, debemos considerar entonces los beneficios de su primera manifestación. 
 
@@ -1333,8 +2082,6 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 
 #### Juan no está hablando de cualquier persona que está pecando, sino de los creyentes que pecan. Todo el mundo peca, y nadie es <u>salvo</u> por dejar de pecar. Juan está mostrando que el creyente no debería pecar ya que Cristo ha solucionado este problema por nosotros.
 
-## 1 Juan 3:7-9 La obra de Cristo nos trae libertad
-
 ### 1 Juan 3:7a – *Hijitos míos, que nadie los engañe…* Juan durante toda la <u>carta</u> está tratando de combatir el engaño de los falsos maestros.
 
 #### Es posible que <u>estos</u> enseñaban que el pecado era aceptable en la vida de los creyentes y que los que pecaban tenían comunión con Dios. Aunque tal vez no comunicaban eso directamente, era la mentira que probablemente algunos creyentes habían llegado a abrazar.
@@ -1385,10 +2132,6 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 
 #### Podría entonces alguien preguntar ¿Cómo se ve una vida pura?, ¿cómo se ve una vida Justa? Esto nos lleva a la siguiente sección <u>donde</u> Juan nos mostrara ahora lo que Cristo hizo por nosotros, y no solamente quien es para nosotros.
 
-# 1 Juan 3:10-24 ASÍ COMO EL PUSO SU VIDA
-
-## El amor de Cristo no solamente <u>fueron</u> Palabras, él puso su vida por nosotros
-
 ### 1 Juan 3:10 – *En esto se reconocen los hijos de Dios y los hijos del diablo, todo aquel que no practica la justicia no es de Dios, tampoco aquel que no ama a su hermano.*
 
 #### Los hombres podemos vernos los unos a los otros y reconocernos los unos a los otros, no por lo que vemos en el interior, sino por las acciones de uno. Jesús les dijo a sus discípulos, que ellos serían conocidos como <u>tales</u>, si se amaban los unos a los otros. Juan 13:35
@@ -1410,6 +2153,22 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 #### Sabemos que esto sería imposible por nuestras propias <u>fuerzas</u>, pero permaneciendo en Cristo, podemos hacer verdadera justica al amarnos los unos a los otros, como Cristo nos ha amado.
 
 #### A través de esta fuerte comparación Juan quiere <u>animar</u> a los creyentes diciéndoles: Brillemos como lo que somos. En el capítulo 4 veremos que Juan tiene una razón en mente para decir esto.
+
+## En Síntesis (2:28-3:10)
+
+### Ciclo 7: 1 Juan 2:28–3:10
+
+#### **Amenaza/exposición**: μὴ αἰσχυνθῶμεν ἀπ’ αὐτοῦ — para que no nos avergoncemos delante de él
+
+#### **Conocimiento afirmado**: ἐὰν εἰδῆτε ὅτι δίκαιός ἐστιν — si sabéis que es justo
+
+#### **Fuente identificada (ἐκ)**: ἐξ αὐτοῦ γεγέννηται—ha nacido de él, ἐκ τοῦ διαβόλου ἐστίν — es del diablo, ἐκ τοῦ Θεοῦ γεγέννηται—ha nacido de Dios
+
+#### **Criterio visible**: πᾶς ὁ ποιῶν τὴν δικαιοσύνην — todos haciendo justicia, ὁ ποιῶν τὴν ἁμαρτίαν — el que comete pecado
+
+#### **Distinción resumida**: ἐν τούτῳ φανερά ἐστιν—por esto son evidentes, τὰ τέκνα τοῦ Θεοῦ / τὰ τέκνα τοῦ διαβόλου — hijos de Dios / hijos del diablo
+
+## 1 Juan 3:11-18 Ciclo #8: El amor como acto justo. (Dominio: relación marcador: amor/odio)
 
 ### 1 Juan 3:11 – *Porque este es el mensaje que ustedes han oído desde el principio: que nos amemos los unos a los otros.* El mensaje que hemos oído <u>desde</u> el principio, es a fin de que nos amemos los unos a los otros.
 
@@ -1537,6 +2296,46 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 
 #### Jamás podríamos conocer este <u>tipo</u> de amor, si no fuera gracias a Cristo, simplemente podemos agradecer, por la gracia de Dios, en la persona de Jesucristo.
 
+## En Síntesis (3:11-18)
+
+### Ciclo 8: 
+
+#### **Amenaza/ejemplo negativo**
+
+##### οὐ καθὼς Κάϊν - no como Caín
+
+##### ἐκ τοῦ πονηροῦ ἦν—era del maligno
+
+##### ἔσφαξεν τὸν ἀδελφὸν αὐτοῦ — mató a su hermano
+
+#### **Conocimiento afirmado**
+
+##### οἴδαμεν ὅτι μεταβεβήκαμεν — sabemos que hemos pasado
+
+##### ἐν τούτῳ ἐγνώκαμεν τὴν ἀγάπην — en esto hemos conocido el amor
+
+#### **Fuente identificada (ἐκ)**
+
+##### ἐκ τοῦ πονηροῦ—del maligno
+
+##### ἐκ τοῦ θανάτου εἰς τὴν ζωήν — de la muerte a la vida
+
+#### **Criterio visible**
+
+##### ἀγαπῶμεν ἀλλήλους — amémonos unos a otros
+
+##### ὁ μὴ ἀγαπῶν—el que no cariñoso
+
+##### ἐν ἔργῳ καὶ ἀληθείᾳ — de hecho y en verdad
+
+#### **Distinción resumida**
+
+##### μένει ἐν τῷ θανάτῳ — permanece en la muerte
+
+##### ἔχει ζωὴν αἰώνιον—tiene vida eterna
+
+## 1 Juan 3:19-24 Ciclo #9: Seguridad en amor
+
 ### 1 Juan 3:19-20 – *En esto sabremos que somos de la verdad y aseguraremos nuestros corazones delante de Él en cualquier cosa que nuestro corazón nos condene. Porque Dios es mayor que nuestro corazón y Él sabe todas las cosas.*
 
 #### Al finalizar el capítulo 2, <u>vimos</u> la posibilidad de ser avergonzados en la manifestación de Cristo, y claramente este no es el deseo de Dios para ninguno de sus hijos.
@@ -1585,11 +2384,37 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 
 #### La vida de Cristo en nosotros, solo es posible por <u>medio</u> de la comunión que tenemos con el Padre y con su Hijo.
 
-# 1 Juan 4:1-6 EL ESPÍRITU DE LA VERDAD Y EL ESPÍRITU DEL ERROR
+## En Síntesis (3:19-24)
 
-## Aunque es seguro que el Espíritu Santo está obrando en nosotros, debemos ser conscientes que hay otros espíritus obrando en este __<u>mundo</u>__, y solamente quieren engañarnos
+### Ciclo 9 - 1 Juan 3:19–24
 
-### 1 Juan 4:1 – Juan comienza esta sección con un imperativo doble para sus *“amados”* **. 
+#### **Amenaza/acusación interna**
+
+##### ἐὰν καταγινώσκῃ ἡ καρδία ἡμῶν — si nuestro corazón nos condena
+
+#### **Conocimiento afirmado**
+
+##### ἐν τούτῳ γνωσόμεθα ὅτι ἐκ τῆς ἀληθείας ἐσμέν — en esto sabremos que somos de la verdad
+
+#### **Fuente identificada** (ἐκ)
+
+##### ἐκ τῆς ἀληθείας—de la verdad
+
+##### ἐκ τοῦ Πνεύματος οὗ ἔδωκεν ἡμῖν — del Espíritu que él nos dio
+
+#### **Criterio visible**
+
+##### τηροῦμεν τὰς ἐντολὰς αὐτοῦ — guardamos sus mandamientos
+
+##### πιστεύσωμεν… καὶ ἀγαπῶμεν — que creemos… y amamos
+
+#### **Distinción resumida**
+
+##### μένει ἐν αὐτῷ καὶ αὐτὸς ἐν αὐτῷ — permanece en él y él en él
+
+## 1 Juan 4:1-6 Ciclo #10: Discernimiento de origen. (dominio: Espíritus Marcador: confesión)
+
+### 1 Juan 4:1 – Juan comienza esta sección con un imperativo doble para sus *“amados”* . 
 
 ### 1 Juan 4:1a – *…no crean a todo espíritu…* Debemos saber que no todo mensaje es digno de ser creído. Ya que en el versículo anterior afirma que el Espíritu __<u>santo</u>__ nos da conocimiento, aquí advierte que podemos recibir engaños por parte de otros espíritus, estos espíritus no deben ser creídos.
 
@@ -1669,9 +2494,117 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 
 #### El espíritu de la mentira, por el contrario, habla de lo suyo, es por eso que lleva al __<u>mundo</u>__ a sus oyentes, y ellos lo oyen.
 
-# 1 Juan 4:7-11 ASÍ COMO EL NOS AMÓ
+## En Síntesis (4:1-6)
 
-## Juan ahora pasará de hablar sobre los espíritus engañadores que hay en este mundo, a mostrarnos cómo debemos vivir en este mundo, para que, por medio nuestro, este __<u>mundo</u>__ pueda ver a Dios
+### Ciclo 10:
+
+#### **Amenaza/engaño**: πολλοὶ ψευδοπροφῆται — muchos falsos profetas, ἐξεληλύθασιν εἰς τὸν κόσμον — han salido al mundo
+
+#### **Conocimiento afirmado**: ἐν τούτῳ γινώσκετε — por esto ya sabes, ἡμεῖς οἴδαμεν — sabemos
+
+#### **Fuente identificada (ἐκ)**: ἐκ τοῦ Θεοῦ ἐστίν — es de Dios, ἐκ τοῦ κόσμου εἰσίν — son del mundo
+
+#### **Criterio visible**: ὁμολογεῖ Ἰησοῦν Χριστὸν ἐν σαρκὶ ἐληλυθότα — confiesa que Jesucristo vino en carne, μὴ ὁμολογεῖ τὸν Ἰησοῦν — no confiesa a Jesús
+
+#### **Distinción resumida**: τὸ πνεῦμα τῆς ἀληθείας — el Espíritu de verdad, τὸ πνεῦμα τῆς πλάνης — el espíritu de engaño
+
+| Ciclo             | Amenaza/Engaño Introducido                                   | Conocimiento Afirmado                                        | Fuente Identificada                         | Criterio Visible/Comprobable                                 | Resumen de Distinción                                     |
+| ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------- |
+| **6** (2:18-27)   | Han surgido muchos anticristos; engañadores niegan al Hijo (2:18, 22, 26) | «Tú conoces» la verdad; tienes una unción (2:20-21)          | No eran verdaderamente de nosotros (2:19)   | Permaneciendo en lo oído desde el principio; confesando al Hijo (2:24-25) | De nosotros vs. no de nosotros (2:19)                     |
+| **7** (2:28-3:10) | Posibilidad de vergüenza en su venida (2:28)                 | Sabéis que todo aquel que practica la justicia es nacido de él (2:29) | Nacido de Dios vs. del diablo (2:29; 3:8-9) | Practicar la justicia vs. practicar el pecado (3:4-9)        | Hijos de Dios vs. hijos del diablo, hecho evidente (3:10) |
+| **8** (3:11-18)   | El odio ejemplificado por Caín; el mundo odia (3:12-13)      | Sabemos que hemos pasado de muerte a vida; conocemos el amor (3:14, 16) | De muerte a vida (3:14)                     | Amar en hechos y en verdad, no solo con palabras (3:17-18)   | Permanecer en la muerte vs. tener vida eterna (3:14-15)   |
+| **9** (3:19-24)   | El corazón condena (3:20)                                    | En esto conocemos que somos de la verdad; En esto conocemos que Él permanece en nosotros (3:19, 24) | De la verdad; dado el Espíritu (3:19, 24)   | Guardando sus mandamientos; permaneciendo en Él (3:22-24)    | Corazón condenador vs. confianza ante Dios (3:20-21)      |
+| **10** (4:1-6)    | Muchos falsos profetas han salido al mundo (4:1)             | En esto conocéis el Espíritu de Dios; conocemos el espíritu de verdad y el de error (4:2, 6) | De Dios vs. del mundo (4:4-5)               | Confesando que Jesucristo vino en carne (4:2-3)              | Espíritu de verdad vs. espíritu de error (4:6)            |
+
+# 1 JUAN 4:7-5:21 DIOS ES AMOR. MANIFESTACIÓN RELACIONAL Y SEGURIDAD
+
+### Qué tienen en común los ciclos 11-15 (1 Juan 4:7–5:21). Los ciclos 11 a 15 repiten un patrón de ensayar la verdad y reforzar la seguridad.
+
+#### Ahora se tratan de forma independiente, en sus propios términos.
+
+#### Cada ciclo comienza con una afirmación fundacional, no con una exhortación.
+
+##### Características iniciales comunes:
+
+###### Declaraciones de estilo ontológico:
+
+###### ὁ Θεὸς ἀγάπη ἐστίν (Dios es amor) — 4:8, 4:16
+
+###### αὕτη ἐστὶν ἡ μαρτυρία (este es el testimonio) — 5:11
+
+##### Observación
+
+###### Los ciclos comienzan con lo que ya es verdad, no con una instrucción.
+
+###### No hay imperativos que inicien estos ciclos.
+
+#### Los ciclos están dominados por un lenguaje mutuo que reside en nosotros.
+
+##### Estructuras repetidas:
+
+###### μένειν ἐν (permanecer en) — 4:12, 4:13, 4:15, 4:16
+
+###### ἐν ἡμῖν / ἐν αὐτῷ (en nosotros / en él)
+
+##### Observación
+
+###### La relación se expresa como permanencia mutua, no como un camino condicional.
+
+###### Ninguna advertencia interrumpe estas afirmaciones.
+
+#### Las declaraciones de conocimiento son acumulativas y plurales.
+
+##### Formas repetidas:
+
+###### ο6ἴδαμεν (sabemos) — 5:18, 5:19, 5:20
+
+###### ἵνα εἰδῆτε (para que sepáis) — 5:13
+
+##### Observación
+
+###### El conocimiento no se prueba ni se comprueba.
+
+###### El conocimiento se ensaya y se refuerza.
+
+#### El testimonio reemplaza la prueba.
+
+##### Sustantivos y verbos repetidos:
+
+###### μαρτυρία (testimonio) — 5:9–11
+
+###### μεμαρτύρηκεν (ha testificado) — 5:9
+
+##### Observación
+
+###### Dios es el testigo activo.
+
+###### No se le pide al lector que evalúe a los demás.
+
+#### Cada ciclo se cierra con un lenguaje de confianza o posesión
+
+##### Conclusiones recurrentes:
+
+###### παρρησία (confianza)—4:17; 5:14
+
+###### ἔχει τὴν ζωήν (tiene la vida) — 5:12
+
+###### ἐσμὲν ἐν τῷ ἀληθινῷ (estamos en el verdadero) — 5:20
+
+##### Observación
+
+###### Los ciclos terminan con un estado asegurado, no con una advertencia de comportamiento.
+
+###### Ninguna prueba de visibilidad concluye estos ciclos.
+
+#### Resumen del patrón para los ciclos 11-15
+
+##### Patrón de ciclo compartido (encuadernado en texto):
+
+###### Verdad fundamentada → Permanencia mutua → Conocimiento → Testimonio → Confianza
+
+##### Este patrón se repite consistentemente en los ciclos 11-15.
+
+## 1 Juan 4:7-12 Ciclo #11: Dios es amor
 
 ### 1 Juan 4:7 – *Amados, amémonos unos a otros, porque el amor es de Dios, y todo el que __<u>ama</u>__ es nacido de Dios y conoce a Dios.*
 
@@ -1743,8 +2676,6 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 
 #### El amor que nos debemos como hermanos, está en proporción al __<u>amor</u>__ que hemos recibido de Dios. Esta es el amor que se manifiesta en nosotros, cuando vivimos por medio de Cristo.
 
-# 1 Juan 4:12-21 - ASÍ COMO EL ES, SOMOS EN ESTE MUNDO
-
 ### 1 Juan 4:12 – *A Dios nunca lo ha visto nadie. Si nos amamos unos a otros, Dios permanece en nosotros y su amor se perfecciona en nosotros.* Juan quiere mostrarnos que __<u>Dios</u>__ puede ser visto en nosotros, a través de su amor perfeccionado en nosotros. Juan 1:18, 1 Timoteo 6:16
 
 #### Lo que de amor se ve en nosotros, es el amor de Dios, lo __<u>visible</u>__ de Aquel que es invisible.
@@ -1758,6 +2689,8 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 ### “*Dios permanece en nosotros, y su amor se perfecciona en nosotros”.* Esto no es solamente porqué él está en nosotros, ya que esto es siempre una __<u>realidad</u>__, sino como Dios fluyendo a través de nuestras vidas, como fuente de vida y Poder. Nosotros nutriéndonos de su vida, a través de la comunión.
 
 ### El creyente que está amando, experimenta verdaderamente la comunión con __<u>Dios</u>__, está participando de la misma vida de Cristo. Efesios 3:14-21, Juan 14:21
+
+## 1 Juan 4:13-21 Ciclo #12: Amor perfeccionado
 
 ### 1 Juan 4:13 – *En esto sabemos que permanecemos en Él y Él en nosotros: en que nos ha dado de Su Espíritu.*
 
@@ -1859,11 +2792,9 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 
 #### En Juan 13:1 Juan dice, que Jesús había amado a los suyos, y el mismo decidió identificarse como el discípulo al que Jesús amaba. Fue el amor de Cristo que le mostró lo que él era, y al vivir en esa __<u>realidad</u>__, vivió una vida entregada por los hermanos. Filipenses 2:3-11
 
-# 1 JUAN 5:1-21 -  LA GARANTÍA DE LA VIDA ETERNA
+# 1 Juan 5:1-12 -  Ciclo #13: Fe y testimonio
 
 ### Aunque puesto al final, este capítulo __<u>puede</u>__ aclarar muchas cosas en toda la carta, veremos que Juan quiere garantizarles a todos los que han creído en Cristo que tienen la vida eterna, pero quiere llevarlos a que puedan experimentarla en su plenitud.
-
-## 1 Juan 5:1-5   La vida por la fe, es victoriosa 
 
 ### 1 Juan 5:1a – *Todo aquel que cree que Jesús es el Cristo, es nacido de Dios*… Juan quiere establecer quienes son los miembros de la familia de Dios, __<u>quienes</u>__ son todos estos hermanos.
 
@@ -1906,8 +2837,6 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 #### La victoria es nuestra confianza, es decir en __<u>quien</u>__ hemos creído, y no nuestras obras. La vida victoriosa es el resultado de estar creyendo la verdad. En un andar por fe, la vitoria está siendo.
 
 ### 1 Juan 5:5 – ¿*y quién es el que vence al mundo, sino el que cree que Jesús es el Hijo de Dios?* Solamente los nacidos de Dios, por medio de la fe en Jesucristo, __<u>escapar</u>__ de una vida de autosatisfacción, y la esclavitud en la que estábamos, es imposible si no fuera por Cristo. Cristo es nuestra victoria.
-
-## 1 Juan 5:6-13  El contenido de nuestra fe, el testimonio de Cristo 
 
 ### 1 Juan 5:6-8 – *Este es aquél que vino mediante __<u>agua</u>__ y sangre, Jesucristo; no solo con agua sino con agua y Sangre. Y el Espíritu es el que da testimonio, porque el Espíritu es la verdad. Porque tres son los que dan testimonio en el cielo: El Padre, el Verbo, y el Espíritu Santo, y estos tres son uno. Y tres son los que dan testimonio en la tierra; el Espíritu el agua y la sangre, y los tres concuerdan.*
 
@@ -1993,6 +2922,8 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 
 #### Para Dios el Padre, la única y suficiente solución que dio a la humanidad fue cuando dio a Su Hijo el Salvador del Mundo (4:14), la Propiciación por __<u>nuestros</u>__ pecados (2:2, 4:10).
 
+## 1 Juan 5:13-20 Ciclo #14: Nuestra aseguranza
+
 ### 1 Juan 5:13 – *Estas cosas le he __<u>escrito</u>__ a ustedes que creen en el Nombre del Hijo de Dios, para que sepan que tienen vida eterna.*
 
 #### Primero que nada, vemos una confirmación más de que Juan dirige su carta a creyentes, y por lo tanto poseedores de la Vida __<u>eterna</u>__. Es bueno recordar una vez más, que Juan no duda de la vida de su audiencia, y quiere llevarlo a una certeza de ella, para que puedan aprovecharla al máximo.
@@ -2010,8 +2941,6 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 ##### Cualquiera que ha __<u>puesto</u>__ su fe en Jesús solamente, puede decir con toda certeza: Sé que tengo vida eterna.
 
 #### Como hemos visto antes, los engañadores por medio de sus falsas enseñanzas, promueven una incertidumbre de esta seguridad, al hacernos __<u>mirar</u>__ fuera de Jesucristo para encontrarla. Es por eso que Juan nos ha hecho mirar durante toda su carta únicamente el amor de Dios en la persona de Su Hijo. 1 Juan 3:1
-
-## 1 Juan 5:14-21 Haciendo práctica nuestra fe, confiando en Jesucristo para acercarnos al Padre
 
 ### 1 Juan 5:14 – *Esta es la confianza que __<u>tenemos</u>__ delante de Él, que si pedimos cualquier cosa conforme a su voluntad, Él nos oye*.
 
@@ -2045,9 +2974,7 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 
 #### La razón por la que no nos falta nada no es porque somos suficientes por nosotros mismos, sino que por medio de Cristo __<u>tenemos</u>__ acceso a Aquel que puede todas las cosas. 2 Corintios 3:5-6
 
-#### Esta es como una invitación que te dice: “¡La verdad, no sé qué hace ahí que no estás pidiendo! Si tienes la __<u>garantía</u>__ no solo de ser oído, sino debido a eso, de ser atendido, acércate confiadamente y pídele a Tu Padre que está en los cielos. Efesios 3:20
-
-## 1 Juan 5:16-17  Peticiones conforme a su Voluntad, amándonos los unos a los otros 
+#### Esta es como una invitación que te dice: “¡La verdad, no sé qué hace ahí que no estás pidiendo! Si tienes la __<u>garantía</u>__ no solo de ser oído, sino debido a eso, de ser atendido, acércate confiadamente y pídele a Tu Padre que está en los cielos. Efesios 3:20 
 
 ### En el contexto podemos entender que Juan nos está __<u>mostrando</u>__, el uso de la oración, como una forma de amar a nuestros hermanos. La intercesión por ellos, es una de las mejores cosas que podemos hacer por ellos.
 
@@ -2083,8 +3010,6 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 
 #### Juan mostro con anterioridad que el que permanece en él no peca, solo Cristo es nuestro salvador, e intercedemos por otros, llevándolos __<u>hacia</u>__ él. 1 Juan 3:4-6
 
-## El Verdadero, y la certeza de que nos guarda – 1 Juan 5:18-21
-
 ### 1 Juan 5:18 – *Sabemos que todo el que ha nacido de Dios, no peca; Sino que Aquel que nació de Dios lo guarda y el __<u>maligno</u>__ lo toca.* Esta es una confirmación más de la seguridad que poseemos como nacidos de Dios.
 
 #### Repite el pecado en la vida de los creyentes, no tiene como su fuente la nueva naturaleza. Esto ya lo hemos visto en las enseñanzas del __<u>capítulo</u>__ tres.
@@ -2111,6 +3036,8 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 
 #### Jesús es la __<u>garantía</u>__ de los creyentes, y no la vida que ellos viven. Todo creyente a conocido a Aquel que es verdadero por medio de la fe. Así hemos sido colocados en él, y entonces tenemos la posición misma de Cristo para con Dios.
 
+## 1 Juan 5:21 siclo #15: Protejanse de idolos
+
 ### 1 Juan 5:21 – *Hijitos, aléjense de los ídolos.* Sea o no esto __<u>parte</u>__ del texto original, es apropiado decir:
 
 #### No vayan tras una mentira, no vayan tras una falsificación de Dios. Los falsos maestros pueden estar presentando a otros salvadores, pero __<u>solo</u>__ existe uno, y la vida abundante solamente puede ser vivida por medio de é.
@@ -2118,6 +3045,20 @@ Primero mostrará la formula para un diagnostico generál (2:3), luego un sínto
 #### La vida cristiana no es falsificable, es genuinamente la vida de Cristo en nosotros, Dios envió a Su Hijo, para que vivamos por medio de él. Si __<u>alguien</u>__ vive verdaderamente, es porque Cristo está viviendo por medio de él.
 
 #### Los falsos maestros, que estaban tratando de engañar a estos creyentes, siempre conducirán a una falsa espiritualidad. Puede tener la apariencia, pero Juan se encargó de mostrar el estándar de Dios de la verdadera vida. Aquél __<u>creyente</u>__ que no está amando como Cristo nos amó, se está perdiendo completamente de experimentar la vida eterna.
+
+| Ciclo            | Afirmación central                           | Fundamento establecido                  | Certeza resultante                          |
+| ---------------- | -------------------------------------------- | --------------------------------------- | ------------------------------------------- |
+| **11** (4:7-12)  | El amor es de Dios                           | Dios es amor; el amor se ha manifestado | Conocer a Dios se expresa a través del amor |
+| **12** (4:13-21) | Permanencia mutua entre Dios y los creyentes | Don del Espíritu; confesión del Hijo    | La confianza reemplaza al miedo             |
+| **13** (5:1-5)   | Los nacidos de Dios vencen al mundo          | Fe en Jesús como el Hijo                | La victoria ya está presente                |
+| **14** (5:6-12)  | Dios ha testificado de su Hijo               | El testimonio es de Dios                | La vida se posee al tener al Hijo           |
+| **15** (5:13-21) | La vida eterna es conocida y segura          | El Hijo es el Dios verdadero            | Confianza, protección, advertencia final    |
+
+# APÉNDICE
+
+
+
+# BIBLIOGRAFÍA
 
 [^1]: Ireneo Contra las Herejías, vi.4, p. 324 en Padres Ante Nicenos, vol. 1
 [^2]: Respuesta según ChatGPT
