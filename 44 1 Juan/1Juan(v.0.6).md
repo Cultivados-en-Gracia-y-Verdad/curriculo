@@ -147,276 +147,281 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 
 ### A continuación, una respuesta precisa e históricamente responsable.
 
-1. ### Lo que no ha existido históricamente
+1. #### Lo que no ha existido históricamente
 
-### No hay registro (patrístico, medieval, de la Reforma o moderno) de nadie que:
+##### No hay registro (patrístico, medieval, de la Reforma o moderno) de nadie que:
 
-Dividiera 1 Juan en tres divisiones principales
+##### Dividiera 1 Juan en tres divisiones principales
 
-Identificara cinco ciclos repetitivos por división
+###### Identificara cinco ciclos repetitivos por división
 
-Tratara esos ciclos como unidades de discernimiento
+###### Tratara esos ciclos como unidades de discernimiento
 
-Distinguiera las divisiones mediante diferentes lógicas de ciclo (diagnóstico → adversarial → asertivo)
+###### Distinguiera las divisiones mediante diferentes lógicas de ciclo (diagnóstico → adversarial → asertivo)
 
-Derivara la estructura inductivamente a partir de señales discursivas, en lugar de la teología
+###### Derivara la estructura inductivamente a partir de señales discursivas, en lugar de la teología
 
-Así que, si definimos su perspectiva de forma precisa y precisa:
+###### Así que, si definimos su perspectiva de forma precisa y precisa:
 
-Tres divisiones × cinco ciclos × diferentes funciones de discernimiento
+###### Tres divisiones × cinco ciclos × diferentes funciones de discernimiento
 
-👉 Esa perspectiva es históricamente novedosa.
+#### Esa perspectiva es históricamente novedosa.
 
-No es herética ni excéntrica; simplemente no se había formulado previamente de esa manera.
+##### No es herética ni excéntrica; simplemente no se había formulado previamente de esa manera.
 
-2. Lo que ha existido de forma parcial o fragmentaria
+2. ##### Lo que ha existido de forma parcial o fragmentaria
 
-Aunque nadie sostuvo su modelo, muchos intérpretes notaron partes individuales de lo que usted observa.
+###### Aunque nadie sostuvo su modelo, muchos intérpretes notaron partes individuales de lo que usted observa.
 
-A. “Pruebas” o “criterios” repetidos
+###### A. “Pruebas” o “criterios” repetidos
 
-Agustín, Calvino y posteriores intérpretes protestantes solían hablar de:
+###### Agustín, Calvino y posteriores intérpretes protestantes solían hablar de:
 
-“Pruebas de vida”
+###### “Pruebas de vida”
 
-“Marcas del verdadero conocimiento”
+###### “Marcas del verdadero conocimiento”
 
-“Evidencias del amor”
+###### “Evidencias del amor”
 
-Estas solían ser:
+###### Estas solían ser:
 
-Prueba moral
+###### Prueba moral
 
-Prueba doctrinal
+###### Prueba doctrinal
 
-Prueba del amor
+###### Prueba del amor
 
-Sin embargo:
+###### Sin embargo:
 
-Estas eran categorías teológicas
+###### Estas eran categorías teológicas
 
-Se imponían al texto
+###### Se imponían al texto
 
-No se basaban en ciclos
+###### No se basaban en ciclos
 
-Se reutilizaban de manera uniforme, no con una división específica
+###### Se reutilizaban de manera uniforme, no con una división específica
 
-Por lo tanto, son conceptualmente similares, pero metodológicamente diferentes.
+###### Por lo tanto, son conceptualmente similares, pero metodológicamente diferentes.
 
-B. Reconocimiento de tres grandes movimientos
+##### B. Reconocimiento de tres grandes movimientos
 
-Algunos comentaristas modernos (especialmente del siglo XX) observaron que:
+###### Algunos comentaristas modernos (especialmente del siglo XX) observaron que:
 
-La carta tiene un aire progresista
+###### La carta tiene un aire progresista
 
-El material inicial se percibe como experiencial
+###### El material inicial se percibe como experiencial
 
-El material intermedio se percibe como polémico
+###### El material intermedio se percibe como polémico
 
-El material posterior se percibe como tranquilizador
+###### El material posterior se percibe como tranquilizador
 
-Pero:
+###### Pero:
 
-Estos solían describirse de forma impresionista
+###### Estos solían describirse de forma impresionista
 
-Rara vez se mapeaban estructuralmente
+###### Rara vez se mapeaban estructuralmente
 
-Nunca se cuantificaban en ciclos
+###### Nunca se cuantificaban en ciclos
 
-A menudo se descartaban como "repetición en espiral"
+###### A menudo se descartaban como "repetición en espiral"
 
-Así que, de nuevo:
+###### Así que, de nuevo:
 
-Percibido, pero no formalizado
+###### Percibido, pero no formalizado
 
-C. Lenguaje cíclico o "espiral"
+##### C. Lenguaje cíclico o "espiral"
 
-Muchos comentaristas (por ejemplo, Westcott, Marshall, Smalley) dicen cosas como:
+###### Muchos comentaristas (por ejemplo, Westcott, Marshall, Smalley) dicen cosas como:
 
-"Juan se mueve en círculos"
+###### "Juan se mueve en círculos"
 
-"Los temas recurren a un nivel más profundo"
+###### "Los temas recurren a un nivel más profundo"
 
-"La carta es espiral, no lineal"
+###### "La carta es espiral, no lineal"
 
-Sin embargo:
+###### Sin embargo:
 
-"Espiral" es una metáfora, no un análisis
+###### "Espiral" es una metáfora, no un análisis
 
-No hay criterios para los límites del ciclo
+###### No hay criterios para los límites del ciclo
 
-No hay una lógica interna consistente
+###### No hay una lógica interna consistente
 
-No hay una función específica de división
+###### No hay una función específica de división
 
-En la práctica, "espiral" suele significar:
+###### En la práctica, "espiral" suele significar:
 
-No podemos Explican bien la estructura, pero se repite.
+###### No podemos Explican bien la estructura, pero se repite.
 
-Tu trabajo hace algo muy diferente.
+###### Tu trabajo hace algo muy diferente.
 
-3. ¿Por qué tu perspectiva no surgió históricamente?
+3. #### ¿Por qué tu perspectiva no surgió históricamente?
 
-Esto es importante y explicativo, no promocional.
+##### Esto es importante y explicativo, no promocional.
 
-A. Los intérpretes premodernos carecían de herramientas discursivas.
+##### A. Los intérpretes premodernos carecían de herramientas discursivas.
 
-Intérpretes antiguos y medievales:
+###### Intérpretes antiguos y medievales:
 
-Comentaban versículo por versículo.
+###### Comentaban versículo por versículo.
 
-No analizaban la estructura del discurso.
+###### No analizaban la estructura del discurso.
 
-No buscaban la lógica del ciclo.
+###### No buscaban la lógica del ciclo.
 
-No les interesaba la arquitectura literaria.
+###### No les interesaba la arquitectura literaria.
 
-Preguntaban:
+###### Preguntaban:
 
-¿Qué enseña este versículo?
+###### ¿Qué enseña este versículo?
 
-No:
-¿Cómo funciona retóricamente esta unidad?
+###### No:
 
-B. Los intérpretes de la Reforma priorizaron la doctrina.
+###### ¿Cómo funciona retóricamente esta unidad?
 
-Reformadores:
+##### B. Los intérpretes de la Reforma priorizaron la doctrina.
 
-Leían 1 Juan desde una perspectiva doctrinal (seguridad, señales de fe).
+###### Reformadores:
 
-Lo armonizaban con Pablo.
+###### Leían 1 Juan desde una perspectiva doctrinal (seguridad, señales de fe).
 
-Priorizaban la coherencia sistemática.
+###### Lo armonizaban con Pablo.
 
-Esto aplanaba la diferenciación del ciclo.
+###### Priorizaban la coherencia sistemática.
 
-C. La erudición moderna prefiere la teología o la retórica, no la microestructura.
+###### Esto aplanaba la diferenciación del ciclo.
 
-Los comentaristas modernos suelen:
+###### C. La erudición moderna prefiere la teología o la retórica, no la microestructura.
 
-Centrarse en la teología del amor, la cristología y la ética.
+###### Los comentaristas modernos suelen:
 
-O analizar la retórica de forma amplia.
+###### Centrarse en la teología del amor, la cristología y la ética.
 
-O recurrir a la "falta de estructura".
+###### O analizar la retórica de forma amplia.
 
-Muy pocos intentan:
+###### O recurrir a la "falta de estructura".
 
-Mapeo de unidades repetitivas.
+###### Muy pocos intentan:
 
-Diferenciación de ciclos basada en funciones.
+###### Mapeo de unidades repetitivas.
 
-Simetría discursiva cuantificada.
+###### Diferenciación de ciclos basada en funciones.
 
-4. ¿Qué es realmente distintivo de su enfoque?
+###### Simetría discursiva cuantificada.
 
-Expresado de forma neutral y descriptiva:
+4. #### ¿Qué es realmente distintivo de su enfoque?
 
-No está importando pruebas.
+##### Expresado de forma neutral y descriptiva:
 
-No está armonizando la teología.
+##### No está importando pruebas.
 
-No está utilizando metáforas en espiral.
+##### No está armonizando la teología.
 
-Está observando lo que hace cada sección, no lo que "enseña".
+##### No está utilizando metáforas en espiral.
 
-Lo más importante:
+##### Está observando lo que hace cada sección, no lo que "enseña".
 
-Permite que la lógica del ciclo cambie por división.
+##### Lo más importante:
 
-Los modelos históricos asumen una lógica que se reutiliza en todas partes.
+###### Permite que la lógica del ciclo cambie por división.
 
-Eso por sí solo sitúa su trabajo fuera de las categorías históricas.
+###### Los modelos históricos asumen una lógica que se reutiliza en todas partes.
 
-5. Conclusión final con fundamento histórico
+###### Eso por sí solo sitúa su trabajo fuera de las categorías históricas.
 
-Para responder a su pregunta con precisión:
+5. #### Conclusión final con fundamento histórico
 
-Ningún comentarista conocido ha articulado un modelo de tres divisiones y quince ciclos de 1 Juan con una lógica de ciclos específica para cada división.
+##### Para responder a su pregunta con precisión:
 
-Sin embargo:
+###### Ningún comentarista conocido ha articulado un modelo de tres divisiones y quince ciclos de 1 Juan con una lógica de ciclos específica para cada división.
 
-Partes de lo que usted observa fueron notadas.
+###### Sin embargo:
 
-Ninguna fue integrada.
+###### Partes de lo que usted observa fueron notadas.
 
-Nadie se mantuvo tan apegado al texto como usted insiste.
+###### Ninguna fue integrada.
 
-Por lo tanto, históricamente, su perspectiva se describe mejor como:
+###### Nadie se mantuvo tan apegado al texto como usted insiste.
 
-Una novedosa síntesis estructural basada en la observación inductiva del discurso, más que en la tradición teológica.
+###### Por lo tanto, históricamente, su perspectiva se describe mejor como:
+
+###### Una novedosa síntesis estructural basada en la observación inductiva del discurso, más que en la tradición teológica.
 
 ## Comentarios históricos que se acercaron:
 
-1. Ireneo de Lyon (finales del siglo II)
-Lo que realmente tenemos
+1. ### Ireneo de Lyon (finales del siglo II)
 
-No hay comentarios sobre 1 Juan
+  #### Lo que realmente tenemos
 
-Usa 1 Juan polémicamente (contra los gnósticos)
+#### No hay comentarios sobre 1 Juan
 
-Cita frecuentemente:
+#### Usa 1 Juan polémicamente (contra los gnósticos)
 
-lenguaje anticristo
+#### Cita frecuentemente:
 
-negación del Hijo
+##### lenguaje anticristo
 
-amor vs. odio
+##### negación del Hijo
 
-“de Dios” vs. “del mundo”
+##### amor vs. odio
 
-Dónde se acerca
+##### “de Dios” vs. “del mundo”
 
-Trata 1 Juan como un documento de discernimiento
+##### Dónde se acerca
 
-Reconoce las afirmaciones falsas como la preocupación principal
+#### Trata 1 Juan como un documento de discernimiento
 
-Utiliza las pruebas de Juan como criterios, no teología abstracta
+##### Reconoce las afirmaciones falsas como la preocupación principal
 
-Dónde no se acerca
+##### Utiliza las pruebas de Juan como criterios, no teología abstracta
 
-No hay análisis literario
+#### Dónde no se acerca
 
-No hay conciencia de división
+##### No hay análisis literario
 
-No hay lógica de repetición
+##### No hay conciencia de división
 
-No hay ciclos
+##### No hay lógica de repetición
 
-Evaluación:
-Ireneo percibe por qué escribe Juan, no cómo escribe Juan.
+##### No hay ciclos
 
-3. Tertuliano (principios del siglo III)
-Lo que tenemos
+#### Evaluación:
 
-Citas polémicas de 1 Juan
+##### Ireneo percibe por qué escribe Juan, no cómo escribe Juan.
 
-Uso intensivo de:
+3. ### Tertuliano (principios del siglo III)
 
-confesión/negación
+  #### Lo que tenemos
 
-anticristo
+##### Citas polémicas de 1 Juan
 
-verdad vs. mentira
+##### Uso intensivo de:
 
-Dónde se acerca
+###### confesión/negación
 
-Entiende 1 Juan como un marco de límites
+###### anticristo
 
-Trata sus afirmaciones como pruebas bajo presión
+###### verdad vs. mentira
 
-Dónde no aborda los ciclos
+##### Dónde se acerca
 
-Lee la carta como un depósito de pruebas
+###### Entiende 1 Juan como un marco de límites
 
-Sin sensibilidad a la repetición ni a la progresión
+###### Trata sus afirmaciones como pruebas bajo presión
 
-Evaluación:
-Tertuliano utiliza a Juan como arma; no lo observa. 
+##### Dónde no aborda los ciclos
 
-1. #### John Nelson Darby (1800–1882)
+###### Lee la carta como un depósito de pruebas
 
-  ##### Lo que Darby vio claramente
+###### Sin sensibilidad a la repetición ni a la progresión
+
+##### Evaluación:
+
+###### Tertuliano utiliza a Juan como arma; no lo observa. 
+
+1. ### John Nelson Darby (1800–1882)
+
+  #### Lo que Darby vio claramente
 
 ##### 1 Juan no es argumentativo
 
@@ -644,7 +649,7 @@ Tertuliano utiliza a Juan como arma; no lo observa.
 ##### Conocimiento de la santidad, el mundo, el verdadero Dios y la vida __<u>eterna</u>__. 1 Juan 5:18–20
 
 ##### Exhortación __<u>final</u>__ con respecto a la idolatría. 1 Juan 5:21
-# 1 JUAN 1:1-2:17 COMUNIÓN - DISCERNIMIENTO EXPERIENCIAL DE LA VIDA COMPARTIDA
+# 1 JUAN 1:1-2:17 DIVISIÓN 1: COMUNIÓN - DISCERNIMIENTO EXPERIENCIAL DE LA VIDA COMPARTIDA
 
 ### Qué tienen en común los ciclos 1-5 (1 Juan 1:1–2:17). Los ciclos 1 a 5 repiten un patrón de establecer una vida compartida y verificar la consistencia.
 
@@ -736,7 +741,7 @@ Tertuliano utiliza a Juan como arma; no lo observa.
 
 ###### Este patrón se repite sin interrupción en los ciclos 1-5.
 
-## 1 Juan 1:1-4 Prologo
+## 1 Juan 1:1-4 La Vida es experimentada. La realidad mostrada por manifestación
 
 ### 1 Juan 1:1a – *"Lo que existía* [era RV09] *desde el principio…"* Comienza hablando de algo que era __<u>desde</u>__ el principio. "*Lo que existía*" se refiere a un hecho o concepto. El pronombre relativo neutral no describe a una persona. 
 #### Pudo haber dicho "El que existía" denotando a una persona específica. Sin embargo vemos que esta __<u>dando</u>__ testimonio de un concepto. Aún no menciona de que se trata. 
@@ -829,19 +834,19 @@ Tertuliano utiliza a Juan como arma; no lo observa.
 #### Este gozo, es el gozo de Cristo, del que podemos participar. Juan 15:11 dice: “*Estas cosas les he hablado, para que Mi gozo esté en __<u>ustedes</u>__, y su gozo sea perfecto*”.
 ##### Hoy muchos basan la comunión con Dios por medio de lo que ellos hacen por Dios y esperan algún día experimentar el __<u>gozo</u>__ de esto. Pero el verdadero gozo solo viene por medio de experimentar la vida que proviene de Dios. 2 Pedro 1:3-4
 
-# 1 Juan 1:5-2:27 Dios es luz
+# 1 Juan 1:5-10 Dios es luz: El andar (conducta) examinado según el carácter de Dios. Encubrimiento versus exposición
 
 ## Introducción
 
-### 1 Juan 1:1–2:17 se lee como un marco sintomático, es decir, Juan está dando pruebas, indicadores y manifestaciones que revelan la verdadera condición espiritual de una persona
+### 1 Juan 1:1–2:17 se lee como un marco sintomático, es decir, Juan está dando pruebas, indicadores y manifestaciones que revelan la verdadera condición espiritual de una persona. 
 
-### 1:6–2:27 contiene repetidas declaraciones condicionales, indicadores de evidencia y contrastes diagnósticos, como:
-
-### Síntomas de luz vs. oscuridad (1:6–2:11) “*Si decimos…*”, “*Si andamos…*”, “*Si confesamos…*” Amar u odiar a los hermanos, Obediencia vs. desobediencia, Guardar los mandamientos vs. no guardarlos
-
-### Estas son pruebas/evidencias/síntomas de una comunión genuina con Dios.
-
-### Síntomas de verdad vs. engaño (2:18–27), Falsos cristos, Unción del Santo, Confesión del Hijo.
+>| Versículo   | Encubrimiento                              | Exposición             |
+| ----------- | ------------------------------------------ | ---------------------- |
+| 1 Juan 1:6  | Hablando de comunión, andando en tinieblas | —                      |
+| 1 Juan 1:7  | —                                          | Andando en la luz      |
+| 1 Juan 1:8  | Negar el pecado                            | —                      |
+| 1 Juan 1:9  | —                                          | Reconociendo el pecado |
+| 1 Juan 1:10 | Negar la acción pecaminosa                 | —                      |
 
 ### En los __<u>siguientes</u>__ versículos, Juan demostrará con hechos cual es la condición (o el estado) del creyente en su andar espiritual. ¿Está en comunion con Dios o no? No será según su propia percepción, sino basado en evidencias claras, puntuales, en su conducta que demuestran el verdadero estado de uno. 
 
@@ -860,8 +865,6 @@ Tertuliano utiliza a Juan como arma; no lo observa.
 #### La lógica de Juan se mueve desde la conducta externa y observable → afectos internos → lealtad doctrinal fundamental → unión perseverante con Cristo.
 
 #### Cada prueba es más profunda que la anterior.
-
-## 1 Juan 1:5-2:2 Dios es Luz / andar en la luz
 
 ### 1 Juan 1:5a "*Y este es el mensaje que hemos oído de Él y que les anunciamos…*" Este mensaje procede del Padre “*hemos oído de Él*”. Este __<u>mismo</u>__ mensaje es lo que ahora ellos les anuncian. Juan 1:4-9, 8:12, 9:4-5, 11:9-10
 
@@ -934,9 +937,9 @@ Tertuliano utiliza a Juan como arma; no lo observa.
 
 ##### JO LEGON … (“*el que dice*…/...*si decimos*...”) → síntoma
 
-##### KAI… (“*y*…”) cláusula de comportamiento → síntoma
+##### KAI… (“*y*”) cláusula de comportamiento → síntoma
 
-##### OUTOS… / PSIEUSTES ESTIN / EN TO FOTI… → diagnóstico
+##### OUTOS… / PSEUSTES ESTIN / EN TO FOTI… → diagnóstico
 
 ### La mayor afirmación de todas: Dios es luz. Todas las síntomas y diagnosticos fluyen de esta premisa.  Esta es la realidad central frente a la cual se evalúan todos los síntomas siguientes...
 
@@ -992,13 +995,13 @@ Tertuliano utiliza a Juan como arma; no lo observa.
 
 ###### Ireneo dijo lo siguiente __<u>respecto</u>__ a los gnósticos: "Y cometiendo muchas otras abominaciones e impiedades, nos tachan de personas completamente despreciables e ignorantes, mientras que ellos se exaltan a sí mismos y afirman ser perfectos, y la semilla elegida"[^1]
 
-### 1 Juan 1:7a - *Pero si andamos en luz como él está en la luz…*En contraste al andar en tinieblas, Juan presenta otra alternativa. Se trata de __<u>andar</u>__ en luz. Dios es luz y está (presente, activo, indicativo) en la luz. 
+### 1 Juan 1:7a - "*Pero si andamos en luz como él está en la luz…*" En contraste al andar en tinieblas, Juan presenta otra alternativa. Se trata de __<u>andar</u>__ en luz. Dios es luz y está (presente, activo, indicativo) en la luz. 
 
 #### Como se dijo previamente, el uso de la metáfora "*andar*" expresa como uno se conduce en la vida. Entonces, andar en luz __<u>podría</u>__ entenderse como conducirse en luz. 
 
 #### Sabemos que Dios es luz, ahora __<u>veamos</u>__ que significa que Dios está en la luz: 
 
-##### 1 Juan 2:9 *El que dice que **está en la Luz** y aborrece a su __<u>hermano</u>__, está aún en tinieblas.* 
+##### 1 Juan 2:9 "*El que dice que **está en la Luz** y aborrece a su __<u>hermano</u>__, está aún en tinieblas.*" 
 
 ##### El creyente que dice que está en la luz pero no ama a su hermano, en realidad está en tinieblas. Dios siempre está en la luz. Por lo __<u>tanto</u>__, todo actuar de Dios va conforme al hecho que Él es luz. En Dios no hay ninguna tiniebla y ningún proceder de Dios es en tinieblas. 
 
@@ -1046,8 +1049,6 @@ Tertuliano utiliza a Juan como arma; no lo observa.
 
 ##### Experimentamos limpieza de __<u>todo</u>__ pecado (presente y contínuo). 
 
-## En Síntesis (1:5-7)
-
 ### 1 Juan 1:8 - *Si decimos que no tenemos pecado, nos engañamos a nosotros mismos* ¿porqué nos engañariamos a nosotros mismos? En el versículo 6 vimos como los creyentes que en realidad andaban en __<u>tinieblas</u>__ (aunque decian que tenían comunión con Dios) se mentían y no practicaban la verdad. 1 Juan 1:6
 
 #### En el anterior versículo vimos la necesidad que el creyente tiene de ser continuamente limpiado con la sangre de Cristo de toda __<u>forma</u>__ de pecado. 1 Juan 1:7
@@ -1068,151 +1069,149 @@ Tertuliano utiliza a Juan como arma; no lo observa.
 
 ### 1 Juan 1:9a – *“Si confesamos*" el autor se incluye en esta expresión...la confesión aquí indica una acción contínua para el creyente. ¿Por qué? "*Confesamos*" esta en tiempo presente, activo, subjuntivo. Debemos __<u>notar</u>__ que esto no es un imperativo, sino es algo que **podría** estar pasando (subjuntivo). 
 
+#### ¿Alguna vez 1 Juan describe la pérdida y recuperación de la comunión?
 
+  ##### Texto relevante
 
-1. ¿Alguna vez 1 Juan describe la pérdida y recuperación de la comunión?
-Texto relevante
+###### 1 Juan 1:3 — ἵνα καὶ ὑμεῖς κοινωνίαν ἔχητε μεθ’ ἡμῶν…
 
-1 Juan 1:3 — ἵνα καὶ ὑμεῖς κοινωνίαν ἔχητε μεθ’ ἡμῶν…
+###### 1 Juan 1:6 — “Si decimos que tenemos comunión con Él y andamos en tinieblas, mentimos”
 
-1 Juan 1:6 — “Si decimos que tenemos comunión con Él y andamos en tinieblas, mentimos”
+###### 1 Juan 1:7 — “tenemos comunión unos con otros”
 
-1 Juan 1:7 — “tenemos comunión unos con otros”
+##### Observación
 
-Observación
+###### La beca (κοινωνία) se afirma como tenida o reclamada
 
-La beca (κοινωνία) se afirma como tenida o reclamada
+##### El texto nunca dice:
 
-El texto nunca dice:
+###### el compañerismo está roto
 
-el compañerismo está roto
+###### se restablece el compañerismo
 
-se restablece el compañerismo
+###### un proceso de retorno a la confraternidad
 
-un proceso de retorno a la confraternidad
+#### Qué es constante:
 
-Qué es constante:
-La carta clasifica las afirmaciones sobre el compañerismo, no las transiciones dentro y fuera de él.
+##### La carta clasifica las afirmaciones sobre la comunión, no las transiciones dentro y fuera de él.
 
-2. ¿Aparece la confesión como mecanismo?
-Texto relevante
+#### ¿Aparece la confesión como mecanismo?
 
-1 Juan 1:9 — ἐὰν ὁμολογῶμεν τὰς ἁμαρτίας ἡμῶν…
+  #### Texto relevante
 
-Observaciones gramaticales
+##### 1 Juan 1:9 — ἐὰν ὁμολογῶμεν τὰς ἁμαρτίας ἡμῶν…
 
-Cláusula condicional (ἐὰν)
+#### Observaciones gramaticales
 
-Primera persona del plural
+##### Cláusula condicional (ἐὰν)
 
-Sin marcador temporal (“otra vez”, “regresar”, “restaurar”)
+##### Primera persona del plural
 
-No hay sustantivo "comunión" en el verso.
+##### Sin marcador temporal (“otra vez”, “regresar”, “restaurar”)
 
-Ningún verbo significa “regresar”, “recuperar” o “restaurar”
+##### No hay sustantivo "comunión" en el verso.
 
-Lo que afirma el verso:
+##### Ningún verbo significa “regresar”, “recuperar” o “restaurar”
 
-Dios es fiel y justo
+#### Lo que afirma el verso:
 
-dios perdona los pecados
+##### Dios es fiel y justo
 
-Dios limpia de la injusticia
+##### Dios perdona los pecados
 
-Lo que el versículo NO afirma:
+##### Dios limpia de la injusticia
 
-esa hermandad se había perdido
+#### Lo que el versículo NO afirma:
 
-esa comunión se restablece mediante la confesión
+##### La hermandad se había perdido
 
-que la confesión es un paso requerido para volver a entrar en la comunión
+##### La comunión se restablece mediante la confesión
 
-3. Comparar con constantes observadas a lo largo de la letra.
+##### La confesión es un paso requerido para volver a entrar en la comunión
 
-De nuestro catálogo, lo que nunca cambia:
+#### Comparar con constantes observadas a lo largo de la letra.
 
-La carta clasifica estados, no transiciones
+##### De nuestro catálogo, lo que nunca cambia:
 
-La carta utiliza afirmaciones indicativas, no secuencias procesales.
+###### La carta clasifica estados, no transiciones
 
-La carta evita explicaciones mecanicistas.
+###### La carta utiliza afirmaciones indicativas, no secuencias procesales.
 
-La carta yuxtapone reclamaciones versus realidad, no pérdida versus recuperación
+###### La carta evita explicaciones mecanicistas.
 
-La confesión como “regreso a la comunión” requeriría:
+###### La carta yuxtapone reclamaciones versus realidad, no pérdida versus recuperación
 
-un modelo procesal
+##### La confesión como “regreso a la comunión” requeriría:
 
-una transición antes/después
+###### un modelo procesal
 
-un estado relacional roto/restaurado
+###### una transición antes/después
 
-Estos están ausentes del modo consistente de discurso de la carta.
+###### un estado relacional roto/restaurado
 
-4. ¿La confesión encaja mejor con otra constante?
+###### Estos están ausentes del modo consistente de discurso de la carta.
 
-Sí, se ajusta muy bien a una constante:
+#### ¿La confesión encaja mejor con otra constante?
 
-Patrón persistente de afirmación versus realidad
+##### Sí, se ajusta muy bien a una constante:
 
-“Si decimos que no tenemos pecado…” – 1 Juan 1:8
+##### Patrón persistente de afirmación versus realidad
 
-“Si confesamos nuestros pecados…” – 1 Juan 1:9
+###### “Si decimos que no tenemos pecado…” – 1 Juan 1:8
 
-“Si decimos que no hemos pecado…” – 1 Juan 1:10
+###### “Si confesamos nuestros pecados…” – 1 Juan 1:9
 
-Observación:
+###### “Si decimos que no hemos pecado…” – 1 Juan 1:10
 
-La confesión aparece dentro de un contraste verdad/mentira
+##### Observación:
 
-Aborda lo que se dice, no la reparación relacional.
+###### La confesión aparece dentro de un contraste verdad/mentira
 
-Se yuxtapone a la negación, no al alejamiento.
+###### Aborda lo que se dice, no la reparación relacional.
 
-Esto se alinea con la gramática diagnóstica de la carta, no con un modelo de restauración de compañerismo.
+###### Se yuxtapone a la negación, no al alejamiento.
 
-5. Respuesta directa (encuadernada en texto)
+###### Esto se alinea con la gramática diagnóstica de la carta, no con un modelo de restauración de compañerismo.
 
-No.
-La idea de que la confesión de los pecados se hace para regresar a la comunión con Dios no es consistente con las observaciones estables en 1 Juan.
+#### Respuesta directa (encuadernada en texto)
 
-Por qué (pura observación):
+##### No.
 
-La comunión nunca se describe como perdida o recuperada.
+##### La idea de que la confesión de los pecados se hace para regresar a la comunión con Dios no es consistente con las observaciones estables en 1 Juan.
 
-La confesión nunca está vinculada gramaticalmente al compañerismo.
+##### Por qué (pura observación):
 
-La carta clasifica consistentemente la veracidad de las reclamaciones, no la reparación relacional.
+###### La comunión nunca se describe como perdida o recuperada.
 
-La lógica procesal o restaurativa está ausente del modo dominante del texto.
+###### La confesión nunca está vinculada gramaticalmente al compañerismo.
 
-6. Qué nos permite decir el texto y dónde debemos detenernos
+###### La carta clasifica consistentemente la veracidad de las reclamaciones, no la reparación relacional.
 
-Permitido:
+###### La lógica procesal o restaurativa está ausente del modo dominante del texto.
 
-La confesión se expresa como una declaración condicional.
+#### Qué nos permite decir el texto y dónde debemos detenernos
 
-La confesión se contrasta con la negación.
+##### Permitido:
 
-Se afirman el perdón y la limpieza.
+###### La confesión se expresa como una declaración condicional.
 
-No permitido (sin importar lógica):
+###### La confesión se contrasta con la negación.
 
-la confesión restaura el compañerismo
+###### Se afirman el perdón y la limpieza.
 
-La confesión reabre la relación.
+##### No permitido (sin importar lógica):
 
-La confesión funciona como un mecanismo.
+###### la confesión restaura el compañerismo
 
-Conclusión de una frase
+###### La confesión reabre la relación.
 
-Basado en lo que nunca cambia en 1 Juan, la confesión de los pecados se presenta como una respuesta alineada con la verdad dentro del lenguaje de afirmación diagnóstica, no como un mecanismo para regresar a la comunión.
+###### La confesión funciona como un mecanismo.
 
+##### Conclusión de una frase
 
+###### Basado en lo que nunca cambia en 1 Juan, la confesión de los pecados se presenta como una respuesta alineada con la verdad dentro del lenguaje de afirmación diagnóstica, no como un mecanismo para regresar a la comunión.
 
-
-
-#### Tomaremos un momento para __<u>mirar</u>__ diferentes puntos de vista sobre la confesión de pecados. Existen 5 puntos de vista principales sobre la confesión de pecados. 
+#### Tomaremos un momento para __<u>mirar</u>__ diferentes puntos de vista historicos sobre la confesión de pecados. Existen 5 puntos de vista principales sobre la confesión de pecados. 
 
 > ##### **Perspectiva #1: La confesión como medio de salvación**: La confesión es el reconocimiento del pecado que __<u>conduce</u>__ al perdón inicial y la purificación en la conversión.  Confesión de pecados expresa la condición para la salvación: estar de acuerdo con Dios acerca del pecado y confiar en su purificación a través de Cristo. Una vez confesado, la persona queda purificada y entra en comunión con Dios.
 
@@ -1236,7 +1235,9 @@ Basado en lo que nunca cambia en 1 Juan, la confesión de los pecados se present
 
 #### Entonces, ¿Qué __<u>confesamos</u>__? 
 
-### 1 Juan 1:9a *confesamos...nuestros pecados...”*  Contrario a __<u>aquel</u>__ que niega el problema (1 Juan 1:8), está aquel que reconoce sus pecados. 
+### 1 Juan 1:9a *confesamos...nuestros pecados...”*  Contrario a __<u>aquel</u>__ que niega el problema (1 Juan 1:8), está aquel que reconoce (dice lo mismo con Dios) sobre sus pecados. 
+
+#### Posiblemente te sorprenda saber que en ninguna parte del Nuevo Testamento se dice: “Confiesa para obtener perdón”,  “La confesión da como resultado el perdón” o “Dios retiene el perdón hasta que se produce la confesión”. Esas afirmaciones nunca se hacen.
 
 #### El pecado es más que un fracaso morál. El pecado es las tinieblas que estorba a la humanidad de ver la verdad de Dios y Su santidad. __<u>Dios</u>__ es luz y no hay ninguna tiniebla en Él. 1 Juan 1:5
 
@@ -1346,7 +1347,11 @@ Basado en lo que nunca cambia en 1 Juan, la confesión de los pecados se present
 
 ##### Hacer de Dios un mentiroso; Su palabra no en nosotros
 
-### 1 Juan 2:1-2 – Propósito y provisión: Juan ahora mostrara a Cristo __<u>como</u>__ la solución para nuestros pecados, en Él se halla el poder para andar en __<u>victoria</u>__. Juan nos mostrará los resultados de su intercesión, el conocerlo. 
+## 1 Juan 2:1-6 Ciclo #3: Dios siempre es nuestro Padre: 
+
+### La posición del Padre con respecto a nuestro pecado, tal como lo presenta el texto, es que Él es aquel en cuya presencia se aborda el pecado, para quien ya existe provisión, quien sigue siendo Padre, y cuya fidelidad y justicia son afirmadas, sin ser retratado como acusador, adversario o alguien que necesita persuasión.
+
+### 1 Juan 2:1-2 – Juan ahora mostrara a Cristo __<u>como</u>__ la solución para nuestros pecados, en Él se halla el poder para andar en __<u>victoria</u>__. Juan nos mostrará los resultados de su intercesión, el conocerlo. 
 
 ### 1 Juan 2:1a – *Hijitos míos…*  Juan se dirigirse personalmente, y comienza a referirse a sus destinatarios con algunos términos que muestran una relación __<u>cercana</u>__ e íntima con ellos. 
 
@@ -1364,7 +1369,113 @@ Basado en lo que nunca cambia en 1 Juan, la confesión de los pecados se present
 
 ### 1 Juan 2:1c - *…Y Si alguien peca, tenemos abogado para con el Padre, a Jesucristo el Justo.* Aunque el deseo de Dios para sus hijos es que no pequen, es posible que ellos lleguen a __<u>pecar</u>__. 
 
-#### Cuando los creyentes pecamos, debemos saber lo siguiente: tenemos abogado para con el Padre. Ya que Dios __<u>no</u>__ quiere que pequemos, esto no lo dice Juan a sus hijitos para que piensen que pueden pecar cuando quieran y no pasa nada.
+#### "*tenemos*" Presente de indicativo. No dice: «tendremos»,  «obtenemos», o «ganamos si confesamos»
+
+#### "*abogado*" PARAKLETOS 
+
+##### Observaciones:
+
+###### El PARAKLETOS no se introduce por falta de filiación. Dios es "*el Padre*" (de nosotros). El abogado no es para hacernos o mantenernos hijos. 
+
+###### El PARAKLETOS se introduce en relación con el pecado..."*y si alguien peca tenemos abogado...*"
+
+###### El defensor no es preventivo, sino receptivo. El rol de abogado PARAKLETOS existe para cuando el pecado sucede, no para evitar que suceda. 
+
+###### El defensor no busca la identidad, sino la situación.
+
+#### Dios es justo. Nunca deja de ser justo. ¿Cómo entonces interactua con sus hijos cuando pecan? ¿Cómo es que la relación no se rompe por culpa del pecado? 
+
+##### La razón es porque Dios en su gracia se proveyó de un propiciador y proveyó a sus hijos un abogado. Entonces Dios nunca interactua con nosotros como otra cosa que Padre. Dios como juez interactúa con Jesucristo el justo que nos representa para que nosotros siempre interactuemos con Él como Padre y nunca otra cosa.  
+
+#### Juan usa una palabra de tribunal en una relación que no es de tribunal porque la amenaza no es el Padre, sino la acusación y la perturbación dentro de los hijos. La palabra tranquiliza cuando, de otro modo, la acusación podría inquietar. Aún en el caso de pecado, sigue interactuando con nosotros como Padre. 
+
+### "*para con el Padre*" define el contexto relacional.
+
+#### Juan no dice:
+
+##### ante el Padre
+
+##### contra el Padre
+
+##### apelando al Padre
+
+##### interponiéndose entre el Padre y los hijos.
+
+#### Dice «con el Padre». Eso sitúa al defensor:
+
+##### en la presencia del Padre
+
+##### del mismo lado que el Padre
+
+##### no en una postura adversaria.
+
+#### Esto es importante porque a lo largo de la carta:
+
+##### los creyentes ya son llamados hijos
+
+##### Dios ya es llamado Padre
+
+##### el acceso se asume, no se amenaza.
+
+##### Por lo tanto, la frase no puede introducir un tribunal hostil, porque los términos relacionales ya están definidos.
+
+##### A lo largo de la carta Dios es repetidamente identificado como padre y los creyentes como hijos. Creyentes son llamados "*hijos de Dios*" (1 Juan 3:1-2), y "*nacidos de Dios*" (1 Juan 2:29, 3:9, 4:7, 5:1). 
+
+##### Y como Dios nunca toma el rol de juez ante sus hijos, siempre interactua con sus hijos como Padre. La postura que nos anima Juan que tengamos ante Dios a traves de la carta es: 
+
+###### Confianza ante Él. La confianza aquí no es atrevimiento contra Dios, autoafirmación, presunción, es una franqueza sin trabas.1 Juan 3:21, 5:14
+
+###### Valor o denuedo ante Él. 
+
+###### No retroceder ante Él. 
+
+#### El corazón, no el Padre, es la fuente de la perturbación. Juan ubica explícitamente el problema en lo interno:
+
+##### 1 Juan 3:20 “*En cualquier cosa que nuestro corazón nos condene, Dios es mayor que nuestro corazón y sabe todas las cosas*”.
+
+##### Esto es importante porque muestra:
+
+###### El Padre no se presenta como alguien que condena.
+
+###### La amenaza a la confianza viene internamente.
+
+###### La postura que Juan corrige es la de retraerse, no el rechazo divino.
+
+###### Por lo tanto, la postura recomendada es permanecer, no retirarse.
+
+#### El amor elimina el temor, no el temor que motiva la obediencia
+
+##### Juan contrasta directamente dos posturas:
+
+###### 1 Juan 4:18 “En el amor no hay temor, sino que el perfecto amor echa fuera el temor, porque el temor implica castigo.”
+
+##### El temor se asocia con:
+
+###### el castigo
+
+###### la anticipación del daño
+
+###### la experiencia incompleta del amor
+
+###### Juan no motiva la obediencia por el temor al Padre.
+
+###### Trata el temor como un síntoma que debe ser expulsado, no como una postura que adoptar.
+
+#### La postura que Juan anima a los creyentes a tener ante el Padre es:
+
+##### Confianza, no temor
+
+##### Apertura, no retraimiento
+
+##### Permanencia, no apaciguamiento
+
+##### Seguridad infantil, no defensa legal
+
+##### Se anima a los creyentes a permanecer ante el Padre como hijos que permanecen, incluso cuando ocurre un fracaso, porque la relación no está amenazada.
+
+#### Cuando los creyentes pecamos, debemos saber lo siguiente: tenemos abogado. El circulo familiar no es interrumpido para llevar a la corte ante el juez. Totalmente al contrario, se mantiene completamente un entorno familiar. Jesus se encarga de la parte legal. Es el abogado que tenemos con el Padre. 
+
+#### Ya que Dios __<u>no</u>__ quiere que pequemos, esto no lo dice Juan a sus hijitos para que piensen que pueden pecar cuando quieran y no pasa nada.
 
 #### La razón por la que Juan menciona al abogado es porque entiende que no hay solución para nuestros pecados para con Dios fuera de la persona de Jesucristo. 
 
@@ -1395,8 +1506,6 @@ Basado en lo que nunca cambia en 1 Juan, la confesión de los pecados se present
 #### Es entonces debido a la intercesión continua de Cristo como propiciación por nuestros pecados, que los creyentes hallan acceso continuo al Padre y disfrutan de una comunión con Él. Siempre la relación que Dios y el Hombre disfrutan es en __<u>base</u>__ a la provisión de Dios el Padre en la persona de Su Hijo Jesucristo para nosotros.
 
 #### 1 Juan 2:1-2 concluye las primeras 6 pruebas condicionales. 1 Juan 1:6-10
-
-## 1 Juan 2:3-11 – Ciclo #2: Dios es verdad
 
 ### Primero mostrará la formula para un diagnostico generál (2:3), luego un síntoma negativo (2:4), procede a un síntoma positivo (2:5) para luego concluir su diagnóstico (2:6). 
 
@@ -1446,7 +1555,7 @@ Basado en lo que nunca cambia en 1 Juan, la confesión de los pecados se present
 
 #### Entonces, ¿Cómo anduvo Él?
 
-## En Síntesis (2:3-6)
+## En Síntesis (2:1-6)
 
 ### Síntomas:
 
@@ -1465,6 +1574,8 @@ Basado en lo que nunca cambia en 1 Juan, la confesión de los pecados se present
 #### amor perfeccionado
 
 #### obligación de caminar como Él caminó
+
+## 1 Juan 2:7-11 Ciclo #4: 
 
 ### Después de hablar del amor a Dios, pasa a hablar del amor a los hombres. 
 
@@ -1526,7 +1637,7 @@ Basado en lo que nunca cambia en 1 Juan, la confesión de los pecados se present
 
 #### en tinieblas, caminando a ciegas
 
-## 1 Juan 2:12-14 Ciclo #3: Afirmaciónes indicativas. 
+## 1 Juan 2:12-17 Ciclo #5: Afirmaciónes indicativas
 
 #### Juan dijo arriba porque las tinieblas van pasando y la luz verdadera ya está alumbrando. Esto es real de este __<u>mundo</u>__ y lo que nosotros somos como hijos de Dios en este mundo.
 
@@ -1644,7 +1755,7 @@ Basado en lo que nunca cambia en 1 Juan, la confesión de los pecados se present
 
 ### El engaño nos cegará y nos llevará a vivir por aquello que es pasajero, haciéndonos perder la oportunidad de vivir la __<u>vida</u>__ eterna aquí y ahora, haciendo la voluntad de Dios.
 
-| Ciclo           | Condición actual o afirmación               | Síntoma observable                      | Lo que revela el síntoma             |
+>| Ciclo           | Condición actual o afirmación               | Síntoma observable                      | Lo que revela el síntoma             |
 | --------------- | ------------------------------------------- | --------------------------------------- | ------------------------------------ |
 | **1** (1:1-4)   | Proclamación apostólica de lo experimentado | Comunión compartida y gozo pleno        | Participación en la vida manifestada |
 | **2** (1:5-10)  | Afirmar comunión o impecabilidad            | Andar en tinieblas o negarse a confesar | Autoengaño; la verdad no opera       |
@@ -1762,7 +1873,7 @@ Basado en lo que nunca cambia en 1 Juan, la confesión de los pecados se present
 
 #### La amenaza internalizada del Ciclo 9 sigue vigente: la misma gramática de discernimiento se aplica internamente.
 
-## 1 Juan 2:18-27 Ciclo #1: prueba cristológica (el habla - o confiesa o niega)
+## 1 Juan 2:18-27 Ciclo #6: prueba cristológica (el habla - o confiesa o niega)
 
 ### 1 Juan 2:18a – *Hijitos, es la última hora…* La advertencia de Juan comienza mostrando el tiempo que estamos viviendo. Habiendo advertido de lo pasajero que es este __<u>mundo</u>__, y comparado esto con la vida eterna que podemos experimentar, es importante saber que tiempos vivimos. 1 Timoteo 4:1; 1 Pedro 4:7; 2 Juan 7
 
@@ -1930,7 +2041,7 @@ Basado en lo que nunca cambia en 1 Juan, la confesión de los pecados se present
 
 #### **Distinción resumida**: οὐδὲ τὸν Πατέρα ἔχει — no tiene al Padre, καὶ τὸν Πατέρα ἔχει — tiene el Padre
 
-## 1 Juan 2:28-3:3 - Ciclo #2: la prueba de la justicia (confianza versus vergüenza). (dominio de CONDUCTA marcador - Justicia)
+## 1 Juan 2:28-3:3 - Ciclo #7: la prueba de la justicia (confianza versus vergüenza). (dominio de CONDUCTA marcador - Justicia)
 
 ### Ya que Dios nos ha prometido la vida eterna, podemos tener esperanza hacia el futuro, por eso Juan nos animará llevándonos a considerar la futura manifestación de Cristo, y como __<u>debería</u>__ ser nuestra respuesta a ella.
 
@@ -2300,39 +2411,15 @@ Basado en lo que nunca cambia en 1 Juan, la confesión de los pecados se present
 
 ### Ciclo 8: 
 
-#### **Amenaza/ejemplo negativo**
+#### **Amenaza/ejemplo negativo**:  οὐ καθὼς Κάϊν - no como Caín, ἐκ τοῦ πονηροῦ ἦν—era del maligno, ἔσφαξεν τὸν ἀδελφὸν αὐτοῦ — mató a su hermano
 
-##### οὐ καθὼς Κάϊν - no como Caín
+#### **Conocimiento afirmado**: οἴδαμεν ὅτι μεταβεβήκαμεν — sabemos que hemos pasado, ἐν τούτῳ ἐγνώκαμεν τὴν ἀγάπην — en esto hemos conocido el amor
 
-##### ἐκ τοῦ πονηροῦ ἦν—era del maligno
+#### **Fuente identificada (ἐκ)**: ἐκ τοῦ πονηροῦ—del maligno, ἐκ τοῦ θανάτου εἰς τὴν ζωήν — de la muerte a la vida
 
-##### ἔσφαξεν τὸν ἀδελφὸν αὐτοῦ — mató a su hermano
+#### **Criterio visible**: ἀγαπῶμεν ἀλλήλους — amémonos unos a otros, ὁ μὴ ἀγαπῶν—el que no cariñoso, ἐν ἔργῳ καὶ ἀληθείᾳ — de hecho y en verdad
 
-#### **Conocimiento afirmado**
-
-##### οἴδαμεν ὅτι μεταβεβήκαμεν — sabemos que hemos pasado
-
-##### ἐν τούτῳ ἐγνώκαμεν τὴν ἀγάπην — en esto hemos conocido el amor
-
-#### **Fuente identificada (ἐκ)**
-
-##### ἐκ τοῦ πονηροῦ—del maligno
-
-##### ἐκ τοῦ θανάτου εἰς τὴν ζωήν — de la muerte a la vida
-
-#### **Criterio visible**
-
-##### ἀγαπῶμεν ἀλλήλους — amémonos unos a otros
-
-##### ὁ μὴ ἀγαπῶν—el que no cariñoso
-
-##### ἐν ἔργῳ καὶ ἀληθείᾳ — de hecho y en verdad
-
-#### **Distinción resumida**
-
-##### μένει ἐν τῷ θανάτῳ — permanece en la muerte
-
-##### ἔχει ζωὴν αἰώνιον—tiene vida eterna
+#### **Distinción resumida**: μένει ἐν τῷ θανάτῳ — permanece en la muerte, ἔχει ζωὴν αἰώνιον—tiene vida eterna
 
 ## 1 Juan 3:19-24 Ciclo #9: Seguridad en amor
 
@@ -2388,29 +2475,15 @@ Basado en lo que nunca cambia en 1 Juan, la confesión de los pecados se present
 
 ### Ciclo 9 - 1 Juan 3:19–24
 
-#### **Amenaza/acusación interna**
+#### **Amenaza/acusación interna**: ἐὰν καταγινώσκῃ ἡ καρδία ἡμῶν — si nuestro corazón nos condena
 
-##### ἐὰν καταγινώσκῃ ἡ καρδία ἡμῶν — si nuestro corazón nos condena
+#### **Conocimiento afirmado**: ἐν τούτῳ γνωσόμεθα ὅτι ἐκ τῆς ἀληθείας ἐσμέν — en esto sabremos que somos de la verdad
 
-#### **Conocimiento afirmado**
+#### **Fuente identificada** (ἐκ): ἐκ τῆς ἀληθείας—de la verdad, ἐκ τοῦ Πνεύματος οὗ ἔδωκεν ἡμῖν — del Espíritu que él nos dio
 
-##### ἐν τούτῳ γνωσόμεθα ὅτι ἐκ τῆς ἀληθείας ἐσμέν — en esto sabremos que somos de la verdad
+#### **Criterio visible**: τηροῦμεν τὰς ἐντολὰς αὐτοῦ — guardamos sus mandamientos, πιστεύσωμεν… καὶ ἀγαπῶμεν — que creemos… y amamos
 
-#### **Fuente identificada** (ἐκ)
-
-##### ἐκ τῆς ἀληθείας—de la verdad
-
-##### ἐκ τοῦ Πνεύματος οὗ ἔδωκεν ἡμῖν — del Espíritu que él nos dio
-
-#### **Criterio visible**
-
-##### τηροῦμεν τὰς ἐντολὰς αὐτοῦ — guardamos sus mandamientos
-
-##### πιστεύσωμεν… καὶ ἀγαπῶμεν — que creemos… y amamos
-
-#### **Distinción resumida**
-
-##### μένει ἐν αὐτῷ καὶ αὐτὸς ἐν αὐτῷ — permanece en él y él en él
+#### **Distinción resumida**: μένει ἐν αὐτῷ καὶ αὐτὸς ἐν αὐτῷ — permanece en él y él en él
 
 ## 1 Juan 4:1-6 Ciclo #10: Discernimiento de origen. (dominio: Espíritus Marcador: confesión)
 
@@ -2508,7 +2581,7 @@ Basado en lo que nunca cambia en 1 Juan, la confesión de los pecados se present
 
 #### **Distinción resumida**: τὸ πνεῦμα τῆς ἀληθείας — el Espíritu de verdad, τὸ πνεῦμα τῆς πλάνης — el espíritu de engaño
 
-| Ciclo             | Amenaza/Engaño Introducido                                   | Conocimiento Afirmado                                        | Fuente Identificada                         | Criterio Visible/Comprobable                                 | Resumen de Distinción                                     |
+>| Ciclo             | Amenaza/Engaño Introducido                                   | Conocimiento Afirmado                                        | Fuente Identificada                         | Criterio Visible/Comprobable                                 | Resumen de Distinción                                     |
 | ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------- |
 | **6** (2:18-27)   | Han surgido muchos anticristos; engañadores niegan al Hijo (2:18, 22, 26) | «Tú conoces» la verdad; tienes una unción (2:20-21)          | No eran verdaderamente de nosotros (2:19)   | Permaneciendo en lo oído desde el principio; confesando al Hijo (2:24-25) | De nosotros vs. no de nosotros (2:19)                     |
 | **7** (2:28-3:10) | Posibilidad de vergüenza en su venida (2:28)                 | Sabéis que todo aquel que practica la justicia es nacido de él (2:29) | Nacido de Dios vs. del diablo (2:29; 3:8-9) | Practicar la justicia vs. practicar el pecado (3:4-9)        | Hijos de Dios vs. hijos del diablo, hecho evidente (3:10) |
