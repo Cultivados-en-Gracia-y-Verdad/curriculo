@@ -1369,7 +1369,7 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 
 ### 1 Juan 2:1c - *…Y Si alguien peca, tenemos abogado para con el Padre, a Jesucristo el Justo.* Aunque el deseo de Dios para sus hijos es que no pequen, es posible que ellos lleguen a __<u>pecar</u>__. 
 
-#### "*tenemos*" Presente de indicativo. No dice: «tendremos»,  «obtenemos», o «ganamos si confesamos»
+#### "*tenemos*" Presente de indicativo. No dice: «tendremos»,  «obtenemos», o «ganamos si confesamos». La defensa ya se posee, antes del evento del pecado.
 
 #### "*abogado*" PARAKLETOS 
 
@@ -1485,6 +1485,8 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 
 ### 1 Juan 2:2 - Entonces, ¿de qué forma funciona Jesucristo como la solución para nuestros pecados, en relación con __<u>nuestro</u>__ Padre? Juan dice: *Él mismo es la propiciación por nuestros pecados, y no solo por los nuestros, sino también por los del mundo entero.*
 
+es la propiciación (presente indicativo). 
+
 #### Juan quiere que entendamos que Jesucristo ha tratado completamente con el problema de los pecados para con Dios. A parte de Jesucristo, no existe __<u>solución</u>__ alguna provista por Dios para los pecados de toda la humanidad. 1 Corintios 15:3-4
 
 #### Esto __<u>no</u>__ quiere decir que todas las personas en el mundo son salvas solamente porque Cristo es la propiciación por nuestros pecados. Sino que Cristo es el medio por el cual el mundo puede estar bien con Dios, pero fuera de Cristo, el mundo está condenado. Romanos 3:21-26; Juan 3:17-18
@@ -1504,6 +1506,8 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 #### Jesucristo el Justo es entonces la propiciación, como sacrificio completamente aceptado por el Padre a favor de los pecados de toda la humanidad. Es en base a Su sacrificio que puede abogar por aquellos que han __<u>creído</u>__ en Él. Romanos 3:24-24; 2 Corintios 5:18-21; 1 Timoteo 2:5
 
 #### Es entonces debido a la intercesión continua de Cristo como propiciación por nuestros pecados, que los creyentes hallan acceso continuo al Padre y disfrutan de una comunión con Él. Siempre la relación que Dios y el Hombre disfrutan es en __<u>base</u>__ a la provisión de Dios el Padre en la persona de Su Hijo Jesucristo para nosotros.
+
+##### Jesucristo...es la propiciación...de todo el mundo..." que pecados tuvieron que confesar para que Jesucristo sea su propiciación? Ninguna, es porque ya es un hecho cumplido y terminado. Lo hizo eficazmente en la cruz. 
 
 #### 1 Juan 2:1-2 concluye las primeras 6 pruebas condicionales. 1 Juan 1:6-10
 
