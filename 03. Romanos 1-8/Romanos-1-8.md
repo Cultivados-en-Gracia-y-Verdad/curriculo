@@ -1752,51 +1752,63 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 ##### ¿Quién emite este juicio a ser un hecho? No es Pablo, es Dios y ya dejó escrito en las Escrituras...
 
-### Romanos 3:10 *Como está escrito: «NO HAY JUSTO, NI AUN UNO;* La Escritura encierra a griegos y judíos y todos en un grupo titulado, "injustos". Toda la humanidad está en ese grupo. No hay ni un solo justo ante Dios. 
+Romanos 3:10-12 
 
-#### Al usar un doble negativo OUK OUDE EIS enfatiza que no hay ni un solo justo. 
+### Romanos 3:10 *Como está escrito: «NO HAY JUSTO, NI AUN UNO;* La Escritura encierra a griegos y judíos y todos en un grupo titulado, "injustos". Toda la humanidad está en ese grupo. 
 
-### Romanos 3:11a *NO HAY QUIEN ENTIENDA,* Ni siguiera hay uno que pueda decir, "yo estoy siendo un entendido". Salmo 14:1-3, 53:1-3
+#### Al usar un doble negativo "*ni aún uno*" OUK OUDE EIS enfatiza que no hay ni un solo justo.  
 
-### Romanos 3:11b *NO HAY QUIEN BUSQUE A DIOS.* No hay ni una persona que este buscando a Dios. 
+### Romanos 3:11a *NO HAY QUIEN ENTIENDA,* No hay uno solo que este entendiendo. Ni siguiera hay uno que pueda decir, "yo estoy siendo un entendido". Salmo 14:1-3, 53:1-3
 
-### Romanos 3:12a *TODOS SE HAN DESVIADO,*
+### Romanos 3:11b *NO HAY QUIEN BUSQUE A DIOS.* No hay persona que sea un buscador de Dios. 
 
-### Romanos 3:12b *A UNA SE HICIERON INÚTILES;*
+### Romanos 3:12a *TODOS SE HAN DESVIADO,* no quedó ni uno que no se desvíe. 
 
-### Romanos 3:12c *NO HAY QUIEN HAGA LO BUENO,*
+### Romanos 3:12b *A UNA SE HICIERON INÚTILES;* juntos se hicieron inservibles. 
 
-### Romanos 3:12d *NO HAY NI SIQUIERA UNO.*
+### Romanos 3:12c *NO HAY QUIEN HAGA LO BUENO,* entre todos no se halló uno solo que haga el bien. 
 
-### Romanos 3:13a *SEPULCRO ABIERTO ES SU GARGANTA,*
+### Romanos 3:12d *NO HAY NI SIQUIERA UNO.* claramente todos estan en un grupo junto. No hay, ni aun uno, todos, a una, son expresiones para aclarar la misma cosa de distintas formas; todos estan en un grupo llamado "injustos". 
 
-### Romanos 3:13b *ENGAÑAN DE CONTINUO CON SU LENGUA.*
+## Romanos 3:13-14 El cuerpo manifiesta injusticia. 
 
-### Romanos 3:13c *VENENO DE SERPIENTES HAY BAJO SUS LABIOS;*
+### Romanos 3:13a "*SEPULCRO ABIERTO ES SU GARGANTA,*" su garganta es una tumba abierta. 
 
-### Romanos 3:14a *LLENA ESTÁ SU BOCA DE MALDICIÓN*
+### Romanos 3:13b "*ENGAÑAN DE CONTINUO CON SU LENGUA.*" continuamente engañan con su habla. 
 
-### Romanos 3:14b *Y AMARGURA.*
+### Romanos 3:13c *VENENO DE SERPIENTES HAY BAJO SUS LABIOS;* 
 
-### Romanos 3:15 *SUS PIES SON VELOCES PARA DERRAMAR SANGRE.*
+### Romanos 3:14 *LLENA ESTÁ SU BOCA DE MALDICIÓN Y AMARGURA.* Estas personas injustas (todos) tienen la boca repleta de maldad. Sus palabras son llenas de daño a otros y expresan amargura. 
 
-### Romanos 3:16 *DESTRUCCIÓN Y MISERIA hay EN SUS CAMINOS,*
+### Entonces, la maldad que tienen en sus corazones, pasa por su garganta y sale por su boca expresada en palabras de engaño en su lengua y escondido debajo de sus labios es su veneno. 
 
-### Romanos 3:17 *Y LA SENDA DE PAZ NO HAN CONOCIDO.*
+#### Son tumbas de muertos que siguen abiertos y vemos lo espantoso que son.  Sale engaño, veneno, maldición y amargura. 
 
-### Romanos 3:18 *NO HAY TEMOR DE DIOS DELANTE DE SUS OJOS».*
+## Romanos 3:15-18 Sus caminos no son de paz sino muerte
 
-### Romanos 3:19a *Ahora bien, sabemos que cuanto dice la ley, lo dice a los que están bajo la ley,*
+### Romanos 3:15 *SUS PIES SON VELOCES PARA DERRAMAR SANGRE.* El uso de los pies representa las acciones de las personas. Su andar es rápidamente hacia causar la muerte. 
 
-### Romanos 3:19b *para que toda boca se calle*
+### Romanos 3:16 *DESTRUCCIÓN Y MISERIA hay EN SUS CAMINOS,* sus caminos llevan a la destrucción y miseria. 
 
-### Romanos 3:19c *y todo el mundo sea hecho responsable ante Dios.*
+### Romanos 3:17 *Y LA SENDA DE PAZ NO HAN CONOCIDO.* Sus caminos no les lleva a conocer el camino de la paz. No han conocido (aoristo, activo, indicativo) expresa que definitivamente, nunca conocieron. 
 
-### Romanos 3:20a "*Porque...*" DIOTI por esta razón...se refiere a:
+### Romanos 3:18 *NO HAY TEMOR DE DIOS DELANTE DE SUS OJOS».* Ahora vemos que sus ojos revelan su falta de temor hacia Dios. 
+
+## Romanos 3:19-20 Propósito y conclusión
+
+### Romanos 3:19a *Ahora bien, sabemos...* usa primera persona plural. 
+
+### Romanos 3:19b *que cuanto dice la ley, lo dice a los que están bajo la ley,* lo que la ley dice es a los que estan en la ley. 
+
+### Romanos 3:19c "*para que toda boca se calle*" la ley sirve para demostrar la boca del injusto. 
+
+### Romanos 3:19d  *y* [es para que] *todo el mundo sea hecho responsable ante Dios.* La Ley hace que todos puedan llegar a ser responsables delante de Dios. 
+
+### Romanos 3:20a "*Porque...*" por esta razón...dará una explicación sobre la función de La Ley:
 
 #### Razón principal: Nadie será justificado por la obras de la ley. 
 
-#### Razón de apoyo: La Ley es para dar conocimiento del pecado.
+#### Razón de apoyo: La Ley no es para hacer justo sino es para dar conocimiento del pecado.
 
 ### Romanos 3:20b "*porque...por las obras de la ley*" porque saliendo de o a partir las obras de La Ley. Obras que son relacionadas o caracterizadas por ley.
 
@@ -1850,21 +1862,29 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 ###### Analogías modernas: Estándares de higiene o de prevención de gérmenes elevados a juicios morales (“son descuidados, soy responsable”). Límites de pureza social (“Me niego a relacionarme con personas que…”). Tabúes del estilo de vida comunitario (ciertos alimentos, prácticas o entretenimientos) considerados como una forma de pureza moral. Paralelo: Considerar las prácticas de separación como una elevación moral.
 
-### Romanos 3:20b "*ningún ser humano será justificado*" El primer punto por el cual Pablo rechaza las obras de la La Ley como medio para ser justificado antes Dios es porque nadie lo lograría. 
+### Romanos 3:20b "*ningún ser humano será justificado*" El primer punto por el cual Pablo rechaza las obras de la La Ley como medio para ser justificado antes Dios es porque "*ningún ser humano*" lo lograría. 
 
 #### Será justificado DIKAIOTHESETAI (futuro, pasivo, indicativo). Es decir, ningún ser humano (incluyendo griegos y judíos y todos) jamás (indicativo) recibirá justificación (futuro, pasivo) por el medio de hacer las obras de La Ley. 
+
+#### Es importante que enfatizar que la justificación no es por el medio de las obras. ¿Por qué? Porque por el medio de hacer buenas obras "*nadie será justificado*". Esto es la realidad. Algunos prefieren rechazar esta verdad y aun así intentar por medio de sus esfuerzos alcanzar ser justificados. 
+
+#### Este esfuerzo (aplaudible o no) solo terminará en fracazo. Nadie será reconocido como justo delante de Dios por hacer obras. Esto puede parecer insensible para el hombre religioso o al moral. Ellos se esmeran en hacer buenas obras para hallar ser hechos aceptables ante Dios. 
 
 ###  Romanos 3:20c "*...delante de Él;*" Dios no verá o dejará a nadie en su presencia por cumplir las obras de La Ley. Esto marca donde será rechazada el medio de las obras. Esto es importante reconocer: 
 
 #### Es Dios quien rechazará justificación a todo ser humano que viene a Él a traves de las obras. La justificación es un hecho imposible ante Dios por medio de las obras. Dios negará a todo ser humano la justificación por las obras. 
 
-### Romanos 3:20c "*pues por medio de la ley viene el conocimiento del pecado.*" La segunda razón es porque La Ley nunca fue dado por otra razón sino para dar conocimiento del pecado. 
+#### Es posible que por medio de las obras el hombre sea reconocido como bueno delante de los hombres, pero no "*delante de Él*". Esto es muy importante diferenciar. Pablo comentará más sobre esto en el capítulo 4. 
+
+### Romanos 3:20c "*pues por medio de la ley viene el conocimiento del pecado.*" La segunda razón es porque La Ley nunca fue dado por otra razón sino para dar conocimiento del pecado. Indica reconocimiento o conciencia del pecado. 
 
 #### "*Viene*" no está en el original. No hay un verbo en esta frase. En realidad se podría traducir...por medio de La Ley [es] conocimiento de pecado. 
 
 #### La segunda razón es porque la función de La Ley es conectado al conocimiento del pecado no para justificar. No es la acción de La Ley de negar justificación. Sin embargo, La Ley no provee la habilidad de cumplir lo que demanda, entonces termina bajo condenación aquel que intenta usarla como medio de justificación. 
 
-### Concluimos pues, nadie, ningún ser humano podrá jamás ser justificado por las obras de La Ley. Por lógica, si ni siquiera las obras de La Ley son satisfactorias, entonces por consecuencia hacer ninguna clase de obras es el medio para ser justificado delante de Dios. 
+### Concluimos pues, nadie, ningún ser humano podrá jamás ser justificado por las obras de La Ley. La Ley es para traer conciencia de pecado. Sin embargo ya vimos que el conocimiento solo no justifica sino que yendo por La Ley es necesario cumplir absolutamente todo sin falta. 
+
+### Por lógica, si ni siquiera las obras de La Ley son satisfactorias, entonces por implicación hacer ninguna clase de obras es el medio para ser justificado delante de Dios. 
 
 ## En Síntesis (3:9-20)
 
@@ -1970,7 +1990,7 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 ##### Tanto los judíos como los gentiles son acusados ante Dios (3:19-20).
 
-# ROMANOS 3:21-5:11 - LA JUSTICIA DE DIOS ACCEDIDA POR EL MEDIO DE LA FE EN JESUCRISTO
+# ROMANOS 3:21-5:11 - LA JUSTICIA DE DIOS RECIBIDA MEDIANTE LA FE EN JESUCRISTO
 
 ## Romanos 3:21-31 Pero ahora la justicia de Dios ha sido manifestada
 
@@ -2010,15 +2030,13 @@ Miremos a continuación como la gramática tiene dos acciones sobre un mismo suj
 
 ##### Aunque lo que presenta ahora es completamente aparte de La Ley, es a la vez, confirmada por el Torah y los libros proféticos. 
 
-### Romanos 3:22a "*Esta justicia de Dios por medio de la fe en Jesucristo*" la justicia de Dios no es manifestada por medio de la fe, sino es recibida o aplicada por el medio de la fe en Jesucristo. 
+### Romanos 3:22a "*Esta justicia de Dios...*" la justicia de Dios no es manifestada por medio de la fe, sino es recibida o aplicada por el medio de la fe en Jesucristo. 
 
 #### La fe en Jesucristo es el medio por el cual la justicia ya manifestada se aplica a las personas.
 
-#### "*por medio de la fe en Jesucristo*" describe cómo la justicia llega a las personas, no cómo se manifestó. 
+#### Romanos 3:22b "*Esta justicia de Dios...por medio de la fe en Jesucristo*" describe cómo la justicia llega a las personas, no cómo se manifestó. 
 
-### Romanos 3:22b "*es para todos los que creen.*" la justicia de Dios es para todos los que creen. 
-
-#### La frase, "*para todos los que creen*" es preposicional lo que indica dirección/aplicación hacia las personas. 
+### Romanos 3:22c "*Esta justicia de Dios...es para todos los que creen.*" la justicia de Dios es para todos los que creen. Esta frase es preposicional lo que indica dirección/aplicación hacia las personas. Esta justicia de Dios es **para** los que creen.
 
 #### El medio de las obras de la La Ley no justificará a nadie jamás. La Ley no consigue dar justicia solo trae conocimiento de injusticia. La Ley tampoco cooperó en la manifestación de la justicia de Dios. La Ley y los profetas solo fueron testigos de esta justicia. 
 
@@ -2032,7 +2050,7 @@ Miremos a continuación como la gramática tiene dos acciones sobre un mismo suj
 
 #### ¿De qué son deficientes de alcanzar?
 
-###  Romanos 3:23c "*...la gloria de Dios.*" frase genitiva "de". De lo que se quedan cortos es de la gloria de Dios. 
+###  Romanos 3:23c "*...la gloria de Dios.*" esta frase genitiva (traducida normalmente "de"). De lo que se quedan cortos es **de** la gloria de Dios. 
 
 #### Todos pecaron (completado) . Todos se hicieron culpables.  Todos no alcanzan llegar a la gloria de Dios expresa la acción en el presente. Ambos argumentos apoyan porque no hay distinción. 
 
@@ -2058,7 +2076,7 @@ Miremos a continuación como la gramática tiene dos acciones sobre un mismo suj
 
 ###### Es un término técnico para la liberación mediante rescate, especialmente en los documentos de manumisión. Se refiere al estado de haber sido liberado de una condición previa de servidumbre u obligación. La palabra tiene una connotación legal y transaccional arraigada en la esclavitud, los contratos y los procedimientos cívicos.
 
-Dios envio a su hijo...para redimirnos. Gálatas 4:4-5
+#### Dios envio a su hijo...para redimirnos. Gálatas 4:4-5
 
 #### La redención siempre implica un costo, una condición previa de restricción y un cambio de estatus. Cristo pagó el precio para la redención de los pecadores. 
 
@@ -2098,7 +2116,7 @@ Dios envio a su hijo...para redimirnos. Gálatas 4:4-5
 
 ###### Todo el Día de la Expiación (Levítico 16) se trata de purificación ritual, no de apaciguamiento.
 
-muestra a Dios presentando públicamente a Jesús como el medio dado por Dios para tratar con los pecados y demostrar Su justicia, específicamente con respecto a los pecados previamente pasados por alto.
+#### muestra a Dios presentando públicamente a Jesús como el medio dado por Dios para tratar con los pecados y demostrar Su justicia, específicamente con respecto a los pecados previamente pasados por alto.
 
 ### El propiciatorio en el Antiguo Testamento (Resumen de Observaciones)
 
@@ -2202,7 +2220,7 @@ muestra a Dios presentando públicamente a Jesús como el medio dado por Dios pa
 
 ##### Sin embargo ambos usos demuestran a Dios proveyendo el medio por el cual los pecados son tratados. 
 
-#### E. ¿Por qué hilastērion específicamente?
+#### ¿Por qué hilastērion específicamente?
 
 #### Porque:
 
@@ -2220,7 +2238,7 @@ muestra a Dios presentando públicamente a Jesús como el medio dado por Dios pa
 
 ### El Día de Expiación habla tipologicamente de un día futuro y las Escrituras lo confirman explicitamente: 
 
-##### D. 1 Juan 4:10 “*Él nos amó y envió a su Hijo como ἱλασμός (hilasmos), provisión expiatoria por nuestros pecados*”.
+##### 1 Juan 4:10 “*Él nos amó y envió a su Hijo como ἱλασμός (hilasmos), provisión expiatoria por nuestros pecados*”.
 
 ##### Observación:
 
@@ -2244,7 +2262,7 @@ muestra a Dios presentando públicamente a Jesús como el medio dado por Dios pa
 
 #### Sin derramamiento no podía haber perdón de pecados. Levítico 17:11
 
-### Romanos 3:25c "*a través de la fe...*" la fe es el medio por el cual lo expuesto tiene efecto o se accede a él.
+### Romanos 3:25c "*a través de la fe...*" la fe es el medio por el cual lo expuesto tiene efecto o se accede a él. 
 
 ### Romanos 3:25e "*como demostración de Su justicia,*" la demostración de Su justicia nos ayuda entender Su propósito.  La demostración concierne Su justicia. 
 
@@ -2254,13 +2272,23 @@ muestra a Dios presentando públicamente a Jesús como el medio dado por Dios pa
 
 ### Romanos 3:25g "*Dios pasó por alto los pecados cometidos anteriormente,*"
 
-### Romanos 3:26a *para demostrar en este tiempo Su justicia,*
+### Romanos 3:26a *para demostrar en este tiempo Su justicia,* en el pasado paso por alto los pecados cometidos. En el presente demuestra su justicia. 
 
-### Romanos 3:26b *a fin de que Él sea justo*
+#### La justicia demostrada es la solución de Dios por el pecado del hombre de todos los tiempos. Dios no fue injusto en pasar por alto los pecados cometidos anteriormente. El justificó (paso por alto) los pecados de los antepasados que creyeron en la provisión de Dios en Jesucristo. Dios les declaro justos no por el medio de las obras de la ley sino por la fe. 
 
-### Romanos 3:26c *y sea el que justifica*
+#### Nosotros, en este tiempo pudimos ver ejecutada la justicia de Dios por los pecados cometidos. Dios no paso por alto, los juzgo en Cristo.  Vimos que Dios es justo al castigar a su propio Hijo que vino a pagar por nuestros pecados y así redimirnos de la esclavitud de pecado. 
 
-#### La gramática de Pablo muestra su propósito es demostrar la "*justicia*"DIKAIOSUNE de Dios.
+### Romanos 3:26b *a fin de que Él sea justo* Dios siempre ha procedido en justicia porque es justo. El hecho que Dios fue paciente para con los que pecaron antes de la cruz, no significa que Dios no sea justo. Dios no fue justo: 
+
+#### Al prohibir en retorno inmediato al jardin del Edén para Adán y Eva. Dios tenía un plan para hacerlos verdaderamente justos por la fe. Un día Adán y Eva estarán disfrutando del arbol de la vida pero será porque Dios es justo en todo su proceder. 
+
+Lo mismo para nosotros hoy. Dios no ignoró nuestros pecados. Los trató en justicia en la cruz. 
+
+¿Para que propósito hace Dios justicia con el pecado?
+
+### Romanos 3:26c *y sea el que justifica* Dios es justo para poder justificar por medio del acto justo de la cruz a todos los que creen. 
+
+#### La gramática de Pablo muestra su propósito es demostrar la "*justicia*" DIKAIOSUNE de Dios.
 
 #### Romanos 3:25–26 tiene dos cláusulas de propósito repetidas (EIS + TO infinitivo):
 
@@ -2296,7 +2324,19 @@ muestra a Dios presentando públicamente a Jesús como el medio dado por Dios pa
 
 ###### y muestra la justicia de Dios al hacerlo.
 
-##### La imagen del propiciatorio logra las tres cosas.
+##### La imagen del propiciatorio logra las tres cosas. 
+
+#### El sujeto principal de Romanos 3:21-31 es Dios. Dios es el actor principal y el punto de referencia para ver, hacer, demostrar y reconocer justicia. Dios es justo y el que justifica al impío que se acerca por medio de la fe en Jesús y su obra de derramar su sangre, pagando por nuestros pecados y resucitando al tercer día. 
+
+#### El plan es de Dios, la provisión es de Dios, la justicia proviene de Dios, el medio viene de Dios y la solución es de Dios. La justicia acreditada al injusto pecador también es de Dios. 
+
+#### Mientras que vimos que La Ley fue dada y demostraba la justicia de Dios y la mucha falta de justicia del hombre, no era la provisión de Dios otorgar su justicia. Romanos 3:20 claramente concluyó que Dios negaría justificar a cualquiera que trataría por las obras de La Ley. 
+
+#### ¿Por qué? Porque por cumplir las obras de La Ley sería un medio pasivo por Dios, activo por el hombre. Dios no sería el justo nosotros seriamos los que nos hacemos justos. 
+
+#### Esto negaría toda la sección de la justificación por el medio de la fe en Jesucristo. Es para que Dios sea el actor principal (activo) y la justicia sea dada por Dios no conseguida por el hombre lejos de la gloria de Dios. 
+
+#### Dios activamente es el justo y el que justifica. El hombre no participa de ninguna manera en esta justicia, porque el hombre (todo hombre) es injusto y si participara con Dios de alguna manera solo haría que Dios ya no sea justo ni el que justifica. 
 
 ## En Síntesis (3:21-26)
 
