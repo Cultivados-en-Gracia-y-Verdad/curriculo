@@ -2537,7 +2537,7 @@ Lo mismo para nosotros hoy. Dios no ignoró nuestros pecados. Los trató en just
 
 ### Romanos 4:3a "*Porque ¿qué dice la Escritura?*" Para continuar la discusión Pablo no apelará a las opiniones. Irá directo a la fuente para demostrar que dice Dios en Su Palabra. 
 
-#### "*dice*" LEGEI - (presente, activo, Índico. 3sg)
+#### "*dice*" LEGEI - (presente, activo, Índico. 3ra persona singular)
 
 #### Esto es una importante manera de sostener todo lo que discutimos y sostenemos. Debe ser según las Escrituras. Las Escrituras son como la autoridad puesta por Dios para gobernarnos en cuestiones de fe y práctica. 
 
@@ -2627,7 +2627,7 @@ Lo mismo para nosotros hoy. Dios no ignoró nuestros pecados. Los trató en just
 
 ##### Creer restaura la comunión. 
 
-## Romanos 4:6-8 Argumento de otro testimonio: David es un ejemplo bíblico de ir por la fe.
+## Romanos 4:6-8 Argumento de otro testimonio: David es un ejemplo bíblico de ser contado justo por la fe. 
 
 ### Romanos 4:6a "*Como también David habla de la bendición que viene sobre el hombre a quien Dios atribuye justicia*"
 
@@ -2695,39 +2695,39 @@ Lo mismo para nosotros hoy. Dios no ignoró nuestros pecados. Los trató en just
 
 #### El testimonio de David (4:7-8): El rey arrepentido fue perdonado, limpiado y justificado por la fe.
 
-## Romanos 4:9-12 Argumento de orden de sucesos: circuncisión como sello, no causa
+## Romanos 4:9-12 Argumento de orden de sucesos: circuncisión como sello, no causa para contar justo. 
 
-#### Pablo fundamenta su argumento en la cronología.
+### Romanos 4:9a "*¿Es, pues, esta bendición...*" Pablo continua con el tema de la bendición que David mencionó en el versículo 6, "*David habla de la bendición que viene sobre el hombre a quien Dios atribuye justicia*". 
 
-#### La circuncisión se identifica como:
+#### En el versículo 9 no se introduce ninguna nueva descripción de la bendición; el versículo reutiliza y cuestiona el ámbito de aplicación de los bendecidos ya introducidos.
 
-#### una señal (σημεῖον, sēmeion)
+### Romanos 4:9b "*solo para los circuncisos, o también para los incircuncisos?*"
 
-#### un sello (σφραγίς, sphragis)
+#### EXOMEN (presente, activo, Índico). 1ra persona plural (variante de texto; NA28 tiene ἡ μακαριότης…)
 
-#### Romanos capítulo 4 no dice que la circuncisión produjera justicia.
+### Romanos 4:9b *Porque decimos: «A ABRAHAM, LA FE LE FUE CONTADA POR JUSTICIA».* Abram, un gentíl más fue contado justo por Dios en un momento.
 
-#### Afirma explícitamente que se produjo después del ajuste de cuentas.
+LEGOMEN λέγομεν — presente, activo, Índico. 1pl - decimos
 
-### Romanos 4:9a *¿Es, pues, esta bendición solo para los circuncisos, o también para los incircuncisos?*
+### Romanos 4:10a *Entonces, ¿cómo le fue contada?* 
 
-#### EXOMEN ἔχομεν — presente, activo, Índico. 1pl (variante de texto; NA28 tiene ἡ μακαριότης…)
-
-#### LEGOMEN λέγομεν — presente, activo, Índico. 1pl - decimos
-
-#### ELOGISTHE ἐλογίσθη—aoristo, Aprobar. Índico. 3sg - fue contado
-
-### Romanos 4:9b *Porque decimos: «A ABRAHAM, LA FE LE FUE CONTADA POR JUSTICIA».* Abram, un gentíl más
-
-### Romanos 4:10a *Entonces, ¿cómo le fue contada?*
-
-#### ἐλογίσθη—aoristo, Aprobar. Índico. 3sg - fue contado
+#### "*fue contado*" ELOGISTHE  (aoristo), Aprobar. Índico. 3ra persona singular. El aoristo aclara que sucedió en un punto del tiempo. 
 
 #### (no hay verbo finito en la pregunta aparte de la repetición)
 
-### Romanos 4:10b *¿Siendo circunciso o incircunciso?*
+### Romanos 4:10b *¿Siendo circunciso o incircunciso?* 
 
 ### Romanos 4:10c *No siendo circunciso, sino siendo incircunciso.*
+
+#### Pablo fundamenta su argumento en la cronología. La circuncisión se identifica como:
+
+##### una señal (σημεῖον, sēmeion)
+
+##### un sello (σφραγίς, sphragis)
+
+#### Romanos capítulo 4 no dice que la circuncisión produjera justicia.
+
+#### Afirma explícitamente que se llevó acabo **después** de que fue contado justo.
 
 ### Romanos 4:11a *Abraham recibió la señal de la circuncisión como sello de la justicia de la fe que tenía mientras aún era incircunciso,* circuncisión era señal de algo que sucedió a Abram antes de ser circuncidado. 
 
@@ -2811,15 +2811,15 @@ Lo mismo para nosotros hoy. Dios no ignoró nuestros pecados. Los trató en just
 
 #### "*fueran*" ONTA (presente, activo, Parte. Acc. neutro. pl) —siendo
 
-La ley y la promesa se contrastan mutuamente.
+#### La ley y la promesa se contrastan mutuamente.
 
-La ley se describe como algo que:
+#### La ley se describe como algo que:
 
-trae ira (Romanos 4:15).
+#### trae ira (Romanos 4:15).
 
-La promesa depende de:
+#### La promesa depende de:
 
-la gracia (Romanos 4:16).
+#### la gracia (Romanos 4:16).
 
 ## Romanos 4:18-22 Fe de Abraham descrito
 
@@ -2875,15 +2875,15 @@ la gracia (Romanos 4:16).
 
 #### "*fue*" contada ELOGISTHE (aoristo, Aprobar. Índico. 3sg) - fue contado
 
-La condición física de Abraham no se minimiza.
+#### La condición física de Abraham no se minimiza.
 
-El enfoque se centra en:
+#### El enfoque se centra en:
 
-lo que consideró
+#### lo que consideró
 
-y lo que no hizo (no titubeó).
+#### y lo que no hizo (no titubeó).
 
-No se analiza ningún proceso emocional ni psicológico; solo las respuestas observables.
+#### No se analiza ningún proceso emocional ni psicológico; solo las respuestas observables.
 
 ## Romanos 4:23-25 Aplicación a los creyentes actuales
 
@@ -2891,7 +2891,7 @@ No se analiza ningún proceso emocional ni psicológico; solo las respuestas obs
 
 #### "*fue escrito*" EGRAFE (aoristo, Aprobar. Índico. 3sg) — fue escrito
 
-ELOGISTHE (aoristo, Aprobar. Índico. 3sg) (referencia repetida)
+#### ELOGISTHE (aoristo, Aprobar. Índico. 3sg) (referencia repetida)
 
 ### Romanos 4:24a *sino también por nosotros, a quienes será contada,*
 
@@ -2913,11 +2913,11 @@ ELOGISTHE (aoristo, Aprobar. Índico. 3sg) (referencia repetida)
 
 #### "*resucitado*" EGERTHE (aoristo, Aprobar. Índico. 3sg) — fue levantado
 
-Pablo marca explícitamente una extensión textual.
+#### Pablo marca explícitamente una extensión textual.
 
-La misma lógica contable se aplica en adelante.
+#### La misma lógica contable se aplica en adelante.
 
-El capítulo termina con un lenguaje sobre muerte y resurrección, anticipando el capítulo 5 de Romanos.
+#### El capítulo termina con un lenguaje sobre muerte y resurrección, anticipando el capítulo 5 de Romanos.
 
 ## Conclusión observacional
 
@@ -4353,9 +4353,9 @@ El sufrimiento es presente. El sufrir no es por sufrir sino para gustar de lo qu
 
 ### Romanos 8:20c "*en la esperanza*" Allá en Edén, Dios maldijo la creación debido al pecado de Adán. 
 
-La misma creación fue sometida, sujeta a esperanza. Génesis 3:17-19
+#### La misma creación fue sometida, sujeta a esperanza. Génesis 3:17-19
 
-Algún día la creación será liberada de la esclavitud. Pero en la gloria futura, la misma tierra será transformada y pasará de la esclavitúd a la libertad. 
+#### Algún día la creación será liberada de la esclavitud. Pero en la gloria futura, la misma tierra será transformada y pasará de la esclavitúd a la libertad. 
 
 ### Romanos 8:21a "*de que la creación misma será también liberada de la esclavitud de la corrupción*" En la segunda venida, cuando regresemos con Cristo, la mayoría de la maldición habrá sido quitada. 
 
@@ -4367,45 +4367,47 @@ Algún día la creación será liberada de la esclavitud. Pero en la gloria futu
 
 #### Isaías 24:4–6 “*La tierra está de luto y se seca, El mundo se desvanece y se seca…*" La Tierra y el mundo se describen con términos de deterioro físico y emocional. La causa se declara como transgresión humana (no ampliada)
 
-Jeremías 4:28 “Por esto se lamentará la tierra, Y los cielos arriba se oscurecerán…” Se dice que la Tierra está "de luto"
+#### Jeremías 4:28 “Por esto se lamentará la tierra, Y los cielos arriba se oscurecerán…” Se dice que la Tierra está "de luto"
 
-El alcance cósmico incluye los cielos.
+#### El alcance cósmico incluye los cielos.
 
-Jeremías 12:4 “*¿Hasta cuándo estará de luto la tierra? ¿Y que se marchite la vegetación del campo?* Tierra y vegetación descritas como sufrimiento
+#### Jeremías 12:4 “*¿Hasta cuándo estará de luto la tierra? ¿Y que se marchite la vegetación del campo?* Tierra y vegetación descritas como sufrimiento
 
-Lenguaje de duelo aplicado a la tierra
+#### Lenguaje de duelo aplicado a la tierra
 
-Oseas 4:1–3 “Por eso la tierra está de luto, Y todo el que vive en él languidece…” La tierra se personifica como luto. La vida animal también se ve afectada (bestias, pájaros, peces)
+#### Oseas 4:1–3 “Por eso la tierra está de luto, Y todo el que vive en él languidece…” La tierra se personifica como luto. La vida animal también se ve afectada (bestias, pájaros, peces)
 
-Versículos donde la creación se describe como inestable, decadente o desgastada.
+#### Versículos donde la creación se describe como inestable, decadente o desgastada.
 
-Salmo 102:25–26 “*Incluso ellos perecerán, pero tú resistes; Y todos ellos se desgastarán como un vestido…*” Creación descrita como perecedera. 
+#### Salmo 102:25–26 “*Incluso ellos perecerán, pero tú resistes; Y todos ellos se desgastarán como un vestido…*” Creación descrita como perecedera. 
 
-Metáfora de envejecimiento/decadencia utilizada
+#### Metáfora de envejecimiento/decadencia utilizada
 
-Isaías 51:6 “*Porque los cielos se desvanecerán como humo, Y la tierra se desgastará como un vestido…*” Cielos y tierra sujetos a deterioro. El paralelismo enfatiza la decadencia.
+#### Isaías 51:6 “*Porque los cielos se desvanecerán como humo, Y la tierra se desgastará como un vestido…*” Cielos y tierra sujetos a deterioro. El paralelismo enfatiza la decadencia.
 
-Versos donde la creación reacciona violenta o catastróficamente
-Isaías 13:13 “*Por tanto haré temblar los cielos, Y la tierra será sacudida de su lugar…*” Inestabilidad física atribuida a la creación.
+#### Versos donde la creación reacciona violenta o catastróficamente
 
-Lenguaje tembloroso y tembloroso.
+#### Isaías 13:13 “*Por tanto haré temblar los cielos, Y la tierra será sacudida de su lugar…*” Inestabilidad física atribuida a la creación.
 
-Hageo 2:6 “*Una vez más, dentro de poco, voy a hacer temblar los cielos y la tierra…*” Los cielos y la tierra responden con movimiento.
+#### Lenguaje tembloroso y tembloroso.
 
-No se da ninguna explicación de metáfora.
+#### Hageo 2:6 “*Una vez más, dentro de poco, voy a hacer temblar los cielos y la tierra…*” Los cielos y la tierra responden con movimiento.
 
-Salmo 18:7 “*Entonces la tierra tembló y tembló; Y temblaban los cimientos de los montes…*” Se describe que la Tierra y las montañas reaccionan físicamente
+#### No se da ninguna explicación de metáfora.
 
-Versículos donde se dice que la creación espera o responde a cambios futuros
-Salmo 96:11–13 “*Alégrense los cielos y regocíjese la tierra…*” La creación retratada como capaz de responder
+#### Salmo 18:7 “*Entonces la tierra tembló y tembló; Y temblaban los cimientos de los montes…*” Se describe que la Tierra y las montañas reaccionan físicamente
 
-Verbos emocionales aplicados al orden natural.
+#### Versículos donde se dice que la creación espera o responde a cambios futuros
 
-Isaías 35:1 “*Se alegrarán el desierto y el desierto…*” Creación no humana representada con verbos de respuesta.
+#### Salmo 96:11–13 “*Alégrense los cielos y regocíjese la tierra…*” La creación retratada como capaz de responder
 
-Contraste con la esterilidad presente implícita en la redacción.
+#### Verbos emocionales aplicados al orden natural.
 
-### Resumen (solo observacional)
+#### Isaías 35:1 “*Se alegrarán el desierto y el desierto…*” Creación no humana representada con verbos de respuesta.
+
+### Contraste con la esterilidad presente implícita en la redacción.
+
+#### Resumen (solo observacional)
 
 #### Las Escrituras usan repetidamente lenguaje de duelo, marchitamiento, sacudimiento, desgaste, temblor y dolor para la creación. Estas descripciones se aplican a:
 
@@ -4447,9 +4449,6 @@ Contraste con la esterilidad presente implícita en la redacción.
 
 ###### Esto coincide con la realidad observable del estrés sistémico continuo, no del descanso.
 
-
----
-
 #### Sistemas existentes en estados prolongados “no finales. Muchos sistemas naturales permanecen en estados inestables o de transición durante largos períodos:
 
 ##### Placas tectónicas que almacenan tensión antes de su liberación.
@@ -4468,9 +4467,6 @@ Contraste con la esterilidad presente implícita en la redacción.
 
 ###### Esto corresponde a una prolongada inconclusión, no a un cumplimiento.
 
-
----
-
 #### Acumulación de estrés seguida de eventos de liberación. La tensión se acumula silenciosamente y luego se expresa a través de la liberación:
 
 ##### Terremotos
@@ -4488,9 +4484,6 @@ Contraste con la esterilidad presente implícita en la redacción.
 #### La liberación ocurre sólo después de una tensión prolongada.
 
 #### La ciencia observa directamente los patrones de tensión → gemido → liberación.
-
-
----
 
 #### El sufrimiento biológico como característica de todo el sistema
 
@@ -4516,10 +4509,7 @@ Contraste con la esterilidad presente implícita en la redacción.
 
 ##### La naturaleza no muestra un florecimiento universal, sólo supervivencia bajo limitación.
 
-
----
-
-#### 5.⁠ ⁠Interdependencia entre la actividad humana y la inestabilidad natural
+#### Interdependencia entre la actividad humana y la inestabilidad natural
 
 ##### Observación
 
@@ -4603,15 +4593,15 @@ Contraste con la esterilidad presente implícita en la redacción.
 
 ####  1 Corintios 15:50-54
 
-#### [**1Co 15:50** ](verseid:46.15.50) Pero esto digo, hermanos: La carne y la sangre no pueden heredar el reino de DIOS; ni la corrupción hereda la incorrupción.
+#### 1 Co 15:50 Pero esto digo, hermanos: La carne y la sangre no pueden heredar el reino de DIOS; ni la corrupción hereda la incorrupción.
 
-#### [**1Co 15:51** ](verseid:46.15.51) He aquí, os digo un misterio: No todos dormiremos °, pero todos seremos transformados,
+#### 1 Co 15:51 He aquí, os digo un misterio: No todos dormiremos °, pero todos seremos transformados,
 
-#### [**1Co 15:52** ](verseid:46.15.52) en un instante, en un abrir y cerrar de ojos °, a la final trompeta (porque sonará la trompeta), y los muertos serán resucitados incorruptibles, y nosotros seremos transformados.
+#### 1 Co 15:52 en un instante, en un abrir y cerrar de ojos °, a la final trompeta (porque sonará la trompeta), y los muertos serán resucitados incorruptibles, y nosotros seremos transformados.
 
-#### [**1Co 15:53** ](verseid:46.15.53) Porque es necesario que esto corruptible sea vestido de incorrupción, y esto mortal sea vestido de inmortalidad.
+#### 1 Co 15:53 Porque es necesario que esto corruptible sea vestido de incorrupción, y esto mortal sea vestido de inmortalidad.
 
-#### [**1Co 15:54** ](verseid:46.15.54) Y cuando esto corruptible se vista de incorrupción y esto mortal se vista de inmortalidad, entonces se cumplirá ° la Palabra escrita: ¡Tragada fue la Muerte en victoria!
+#### 1 Co 15:54 Y cuando esto corruptible se vista de incorrupción y esto mortal se vista de inmortalidad, entonces se cumplirá ° la Palabra escrita: ¡Tragada fue la Muerte en victoria!
 
 ##### la creación gime porque tiene una esperanza de ser librada de ser sujeta a corrupción.  Es anti-natural que la creación vea decadencia y tensión.
 
