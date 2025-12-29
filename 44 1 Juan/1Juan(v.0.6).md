@@ -834,7 +834,7 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 #### Este gozo, es el gozo de Cristo, del que podemos participar. Juan 15:11 dice: “*Estas cosas les he hablado, para que Mi gozo esté en __<u>ustedes</u>__, y su gozo sea perfecto*”.
 ##### Hoy muchos basan la comunión con Dios por medio de lo que ellos hacen por Dios y esperan algún día experimentar el __<u>gozo</u>__ de esto. Pero el verdadero gozo solo viene por medio de experimentar la vida que proviene de Dios. 2 Pedro 1:3-4
 
-# 1 Juan 1:5-10 Dios es luz: El andar (conducta) examinado según el carácter de Dios. Encubrimiento versus exposición
+# 1 Juan 1:5-10 Lo que Dios es: Luz, fiel y justo. El andar (conducta) examinado según el carácter de Dios. Encubrimiento versus exposición
 
 ## Introducción
 
@@ -1347,7 +1347,7 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 
 ##### Hacer de Dios un mentiroso; Su palabra no en nosotros
 
-## 1 Juan 2:1-6 Ciclo #3: Dios siempre es nuestro Padre: 
+## 1 Juan 2:1-6 Ciclo #3: Con quienes Dios esta en relación como Padre e hijos: 
 
 ### La posición del Padre con respecto a nuestro pecado, tal como lo presenta el texto, es que Él es aquel en cuya presencia se aborda el pecado, para quien ya existe provisión, quien sigue siendo Padre, y cuya fidelidad y justicia son afirmadas, sin ser retratado como acusador, adversario o alguien que necesita persuasión.
 
@@ -1367,11 +1367,11 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 
 #### Cualquier enseñanza que nos haga pensar que tenemos libertad para pecar, es un engaño directamente de las tinieblas. La __<u>gracia</u>__ de Dios no es libertinaje, sino libertad del pecado. Judas 1:3-4
 
-### 1 Juan 2:1c - *…Y Si alguien peca, tenemos abogado para con el Padre, a Jesucristo el Justo.* Aunque el deseo de Dios para sus hijos es que no pequen, es posible que ellos lleguen a __<u>pecar</u>__. 
+### 1 Juan 2:1c - *…Y Si alguien peca, tenemos abogado para con el Padre, a Jesucristo el Justo.* Aunque el deseo de Dios para sus hijos es que no pequen, es posible que alguien llegue a __<u>pecar</u>__. 
 
-#### "*tenemos*" Presente de indicativo. No dice: «tendremos»,  «obtenemos», o «ganamos si confesamos». La defensa ya se posee, antes del evento del pecado.
+#### "*tenemos*" (presente, indicativo). No dice: «tendremos»,  «obtenemos», o «ganamos si confesamos». La defensa ya se posee, antes del evento del pecado.
 
-#### "*abogado*" PARAKLETOS 
+#### "*abogado*" PARAKLETOS abogado (legal) n. — persona que actúa como portavoz o representante de la política, el propósito o la causa de otra persona; especialmente ante un juez en un tribunal de justicia.[^1]
 
 ##### Observaciones:
 
@@ -1447,7 +1447,7 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 
 ##### Juan contrasta directamente dos posturas:
 
-###### 1 Juan 4:18 “En el amor no hay temor, sino que el perfecto amor echa fuera el temor, porque el temor implica castigo.”
+###### 1 Juan 4:18 “*En el amor no hay temor, sino que el perfecto amor echa fuera el temor, porque el temor implica castigo.*”
 
 ##### El temor se asocia con:
 
@@ -1469,7 +1469,7 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 
 ##### Permanencia, no apaciguamiento
 
-##### Seguridad infantil, no defensa legal
+##### Seguridad de hijo, no defensa legal
 
 ##### Se anima a los creyentes a permanecer ante el Padre como hijos que permanecen, incluso cuando ocurre un fracaso, porque la relación no está amenazada.
 
@@ -1483,9 +1483,29 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 
 #### “Tenemos abogado” es una declaración segura. No hay creyente cuyo abogado no sea Jesucristo el Justo. El problema de nuestros pecados, aun en el caso de que pequemos __<u>como</u>__ creyentes, ha sido solucionado por medio de Jesucristo. 2 Corintios 5:17-21
 
+#### "Jesucristo el justo" nuestro abogado defensor es uno que es justo. 
+
+##### Notese: en primera Juan 1:9 aprendimos que Dios es justo. Ahora vemos que el tema de la justicia continua pero no es la nuestra. Ahora es Cristo el justo que nos defiende ante el Dios justo. 
+
+##### ¿Por qué Juan cambia el referente de «Dios» (1 Juan 1:5-10) a «Padre»(2:1ff)?
+
+##### Solo por observación:
+
+###### «Dios» se usa cuando el discurso se centra en la verdad, la luz, la justicia y la realidad.
+
+###### «Padre» se usa cuando el discurso se centra en la relación, los hijos y la defensa.
+
+##### El cambio ocurre exactamente donde:
+
+###### se reconoce el pecado como posible.
+
+###### se afirma la provisión como presente.
+
+###### se hace necesario el lenguaje relacional.
+
 ### 1 Juan 2:2 - Entonces, ¿de qué forma funciona Jesucristo como la solución para nuestros pecados, en relación con __<u>nuestro</u>__ Padre? Juan dice: *Él mismo es la propiciación por nuestros pecados, y no solo por los nuestros, sino también por los del mundo entero.*
 
-es la propiciación (presente indicativo). 
+#### "*es la propiciación*" (presente indicativo). 
 
 #### Juan quiere que entendamos que Jesucristo ha tratado completamente con el problema de los pecados para con Dios. A parte de Jesucristo, no existe __<u>solución</u>__ alguna provista por Dios para los pecados de toda la humanidad. 1 Corintios 15:3-4
 
@@ -1507,7 +1527,23 @@ es la propiciación (presente indicativo).
 
 #### Es entonces debido a la intercesión continua de Cristo como propiciación por nuestros pecados, que los creyentes hallan acceso continuo al Padre y disfrutan de una comunión con Él. Siempre la relación que Dios y el Hombre disfrutan es en __<u>base</u>__ a la provisión de Dios el Padre en la persona de Su Hijo Jesucristo para nosotros.
 
-##### Jesucristo...es la propiciación...de todo el mundo..." que pecados tuvieron que confesar para que Jesucristo sea su propiciación? Ninguna, es porque ya es un hecho cumplido y terminado. Lo hizo eficazmente en la cruz. 
+##### "*Jesucristo...es la propiciación...de todo el mundo...*" que pecados tuvieron que confesar para que Jesucristo sea su propiciación? Ninguna, es porque ya es un hecho cumplido y terminado. Lo hizo eficazmente en la cruz. 
+
+##### El texto permite esta secuencia mínima:
+
+###### El pecado puede ocurrir (2:1)
+
+###### La defensa ya está presente (2:1)
+
+###### Esa defensa se basa en quién es Jesús (2:2)
+
+##### Observación clave
+
+###### La propiciación no es algo que Jesús hace cuando pecamos.
+
+###### Defendernos es algo que Jesús hace cuando pecamos.
+
+#### Entonces, Jesús es abogado ante el Padre cuando ocurre el pecado, y Él puede permanecer allí porque Él mismo ya es la propiciación por los pecados.
 
 #### 1 Juan 2:1-2 concluye las primeras 6 pruebas condicionales. 1 Juan 1:6-10
 
@@ -1571,13 +1607,7 @@ es la propiciación (presente indicativo).
 
 #### diciendo “*yo permanezco en él*”
 
-### Diagnósticos:
-
-#### mentiroso; la verdad no en el
-
-#### amor perfeccionado
-
-#### obligación de caminar como Él caminó
+### Diagnóstico: es mentiroso; la verdad no en el. Ell amor perfeccionado: obligación de caminar como Él caminó
 
 ## 1 Juan 2:7-11 Ciclo #4: 
 
@@ -2271,7 +2301,7 @@ es la propiciación (presente indicativo).
 
 ## En Síntesis (2:28-3:10)
 
-### Ciclo 7: 1 Juan 2:28–3:10
+### Ciclo 7: 
 
 #### **Amenaza/exposición**: μὴ αἰσχυνθῶμεν ἀπ’ αὐτοῦ — para que no nos avergoncemos delante de él
 
@@ -2477,7 +2507,7 @@ es la propiciación (presente indicativo).
 
 ## En Síntesis (3:19-24)
 
-### Ciclo 9 - 1 Juan 3:19–24
+### Ciclo 9:
 
 #### **Amenaza/acusación interna**: ἐὰν καταγινώσκῃ ἡ καρδία ἡμῶν — si nuestro corazón nos condena
 

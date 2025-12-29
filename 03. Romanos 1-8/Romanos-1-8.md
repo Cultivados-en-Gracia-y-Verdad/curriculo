@@ -1104,29 +1104,29 @@ Romanos 15:28 - *Así que cuando haya cumplido esto y les haya entregado esta of
 
 ## En Síntesis (2:1-5)
 
-Analisis Causa - Efecto
+### Analisis Causa - Efecto
 
-2:1–5 — Juicio e hipocresía
+#### 2:1–5 — Juicio e hipocresía
 
-1. Causa: Juzgas a otro mientras haces lo mismo (2:1).
+##### Causa: Juzgas a otro mientras haces lo mismo (2:1).
 
-Efecto: No tienes excusa; te condenas a ti mismo.
+##### Efecto: No tienes excusa; te condenas a ti mismo.
 
-2. Causa: El juicio de Dios es “conforme a la verdad” (2:2).
+##### Causa: El juicio de Dios es “conforme a la verdad” (2:2).
 
-Efecto: Quienes practican tales cosas serán juzgados como corresponde.
+##### Efecto: Quienes practican tales cosas serán juzgados como corresponde.
 
-3. Causa: Crees que escaparás del juicio de Dios mientras practicas las mismas cosas (2:3).
+##### Causa: Crees que escaparás del juicio de Dios mientras practicas las mismas cosas (2:3).
 
-Efecto: La esperada “escape” no se deduce lógicamente. (Resultado implícito: no hay escapatoria).
+##### Efecto: La esperada “escape” no se deduce lógicamente. (Resultado implícito: no hay escapatoria).
 
-4. Causa: Desprecias las riquezas de su bondad, tolerancia y paciencia (2:4).
+##### Causa: Desprecias las riquezas de su bondad, tolerancia y paciencia (2:4).
 
-Efecto: Pasas por alto el efecto deseado: Su bondad conduce al arrepentimiento.
+##### Efecto: Pasas por alto el efecto deseado: Su bondad conduce al arrepentimiento.
 
-5. Causa: Dureza y corazón impenitente (2:5).
+##### Causa: Dureza y corazón impenitente (2:5).
 
-Efecto: Atesoras ira para el día de la ira y la revelación del justo juicio de Dios.
+##### Efecto: Atesoras ira para el día de la ira y la revelación del justo juicio de Dios.
 
 ## Romanos 2:6-10: Razonando con el pensamiento moral
 
@@ -1188,44 +1188,45 @@ Efecto: Atesoras ira para el día de la ira y la revelación del justo juicio de
 
 ## En Síntesis (2:6-13)
 
-2:6-11 — Juicio según las obras
-6. Causa: Hacer el bien, buscar gloria, honra e inmortalidad (2:7).
+### 2:6-11 — Juicio según las obras
 
-Efecto: Vida eterna.
+#### Causa: Hacer el bien, buscar gloria, honra e inmortalidad (2:7).
 
-7. Causa: Buscar el propio interés, no obedecer la verdad, obedecer la injusticia (2:8).
+#### Efecto: Vida eterna.
 
-Efecto: Ira e ira.
+#### Causa: Buscar el propio interés, no obedecer la verdad, obedecer la injusticia (2:8).
 
-8. Causa: Hacer el mal (2:9).
+#### Efecto: Ira e ira.
 
-Efecto: Tribulación y angustia.
+#### Causa: Hacer el mal (2:9).
 
-9. Causa: Hacer el bien (2:10).
+#### Efecto: Tribulación y angustia.
 
-Efecto: Gloria, honra y paz.
+#### Causa: Hacer el bien (2:10).
 
-(Todos estos se expresan en pares paralelos; Pablo presenta estructuras de causa → efecto reflejadas).
+#### Efecto: Gloria, honra y paz.
 
-2:12-16 — Ley, Pecado y Juicio
+#### (Todos estos se expresan en pares paralelos; Pablo presenta estructuras de causa → efecto reflejadas).
 
-10. Causa: Pecar sin la ley (2:12a).
+#### 2:12-16 — Ley, Pecado y Juicio
 
-Efecto: Perecer sin la ley.
+#### Causa: Pecar sin la ley (2:12a).
 
-11. Causa: Pecar en la ley (2:12b).
+#### Efecto: Perecer sin la ley.
 
-Efecto: Ser juzgados por la ley.
+#### Causa: Pecar en la ley (2:12b).
 
-12. Causa: Escuchar solo la ley (2:13a).
+#### Efecto: Ser juzgados por la ley.
 
-Efecto: No ser justificados.
+#### Causa: Escuchar solo la ley (2:13a).
 
-13. Causa: Cumplir la ley (2:13b).
+#### Efecto: No ser justificados.
 
-Efecto: Ser justificados
+#### Causa: Cumplir la ley (2:13b).
 
-### **Romanos 2:14-16: El hombre moral tiene la ley moral escrita en su corazón pero no la cumple.**
+#### Efecto: Ser justificados
+
+## **Romanos 2:14-16: El hombre moral tiene la ley moral escrita en su corazón pero no la cumple.**
 
 ### Romanos 2:14a "*Porque cuando los gentiles, que no tienen la ley, cumplen por instinto los dictados de la ley,*"
 
@@ -1635,11 +1636,11 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 #### 3:1-2
 
-1. #### Causa: Ser judío; estar circuncidado (3:1).
+#### Causa: Ser judío; estar circuncidado (3:1).
 
 ##### Efecto: Ventaja/gran beneficio (3:1-2).
 
-2. #### Causa: Confiados en las “palabras de Dios” (3:2).
+#### Causa: Confiados en las “palabras de Dios” (3:2).
 
 ##### Efecto: Esto define la ventaja.
 
@@ -1647,37 +1648,37 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 #### 3:3-4
 
-3. #### Causa: Algunos no creyeron/fueron infieles (3:3).
+#### Causa: Algunos no creyeron/fueron infieles (3:3).
 
 ##### Efecto: Su incredulidad no anula la fidelidad de Dios.
 
 #### (Efecto negativo: algo NO sucede).
 
-4. #### Causa: Las palabras y acciones de Dios son verdaderas (3:4).
+#### Causa: Las palabras y acciones de Dios son verdaderas (3:4).
 
 ##### Efecto: Dios se muestra veraz/justificado en sus palabras; prevalece cuando es juzgado. (El versículo establece el efecto explícitamente).
 
 3:5-6
-5. #### Causa: La injusticia humana resalta la justicia de Dios (3:5).
+#### Causa: La injusticia humana resalta la justicia de Dios (3:5).
 
 ##### Efecto: Objeción: “¿Es Dios injusto al infligir ira?”
 
 #### (Este es el efecto dentro del argumento, aunque Pablo niega la conclusión).
 
-6. #### Causa: Si Dios fuera injusto (hipotético, 3:5-6).
+#### Causa: Si Dios fuera injusto (hipotético, 3:5-6).
 
 ##### Efecto: No podría juzgar al mundo.
 
 #### (Pablo razona que la causa hipotética produciría un efecto imposible).
 
 3:7-8
-7. #### Causa: Mentira humana → La verdad de Dios abunda para Su gloria (3:7).
+#### Causa: Mentira humana → La verdad de Dios abunda para Su gloria (3:7).
 
 ##### Efecto: Objeción: “¿Por qué sigo siendo juzgado como pecador?”
 
 ##### (Efecto = la objeción misma).
 
-8. #### Causa: Afirmación calumniosa: “Hagamos el mal para que venga el bien” (3:8).
+#### Causa: Afirmación calumniosa: “Hagamos el mal para que venga el bien” (3:8).
 
 ##### Efecto: Su condenación es justa.
 
