@@ -84,13 +84,13 @@ pluralizelisttitles = false
     url        = "/img/group-table.jpg"
     weight     = 3
 
-#[[menu.main]]
-#    name       = "¡Empieza aquí!"
-#   url        = "/admisiones/"
-#    weight     = 1
-#    identifier = "section.portfolio"
-#    parent     = "menu.portfolio"
-#    post       = 1
+[[menu.main]]
+    name       = "¡Empieza aquí!"
+   url        = "/admisiones/"
+    weight     = 1
+    identifier = "section.portfolio"
+    parent     = "menu.portfolio"
+    post       = 1
 
 [[menu.main]]
     name       = "1. Primeros Pasos"

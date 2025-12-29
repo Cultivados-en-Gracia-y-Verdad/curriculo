@@ -16,7 +16,7 @@ CGV es un centro de formación como ningún otro. Nuestro enfoque concentrado en
 
 ## ES EXHAUSTIVO
 
-Ninguna hoja del texto bíblico se deja sin estudiarla. Nuestra serie Panorama de cuatro partes resume toda la Biblia. El plan de estudios Panorama del Antiguo Testamento proporciona un estudio completo del Antiguo Testamento, mientras que el plan de estudios del Edén al Calvario es una descripción general del gran plan de salvación de Dios desde el Génesis hasta los Evangelios. El Panorama de la vida de Cristo es una armonía de los cuatro Evangelios, complementada por el plan de estudios del Evangelio de Juan. El Panorama del Nuevo Testamento sigue meticulosamente la narrativa histórica de Lucas que se encuentra en el libro de los Hechos. Este curso cubre los primeros 30 años de la iglesia, con una excursión a cada libro del Nuevo Testamento dondequiera que surja en la escena en la cronología del relato histórico. Finalmente, los libros de Daniel y Apocalipsis concluyen el flujo panorámico de la historia, revelando las declaraciones proféticas de Dios de lo que pronto sucederá.
+Ninguna hoja del texto bíblico se deja sin estudiarla. Primeramente empezamos estudiando el mensaje principal de la Biblia. Luego, el plan de estudios continua con El Dios de la Historia que es una descripción general del gran plan de salvación de Dios desde el Génesis hasta los Evangelios. Luego entramos a estudiar la Palabra libro por libro. Cubrimos libros como Romanos, Colosenses, Efesios, Filipenses, Habacúc, Gálatas, 1 Corintios, Filemón, 1 Juan, Hebreos y Zacarías. Finalmente, los libros de Daniel y Apocalipsis concluyen el flujo panorámico de la historia, revelando las declaraciones proféticas de Dios de lo que pronto sucederá.
 
 
 
