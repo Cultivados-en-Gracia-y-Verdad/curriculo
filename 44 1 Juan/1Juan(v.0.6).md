@@ -649,7 +649,7 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 ##### Conocimiento de la santidad, el mundo, el verdadero Dios y la vida __<u>eterna</u>__. 1 Juan 5:18–20
 
 ##### Exhortación __<u>final</u>__ con respecto a la idolatría. 1 Juan 5:21
-# 1 JUAN 1:1-2:17 DIVISIÓN 1: COMUNIÓN - DISCERNIMIENTO EXPERIENCIAL DE LA VIDA COMPARTIDA
+# 1 JUAN 1:1-2:17 LA VIDA DESCRITA: por estado, el caminar y la ubicación relacional
 
 ### Qué tienen en común los ciclos 1-5 (1 Juan 1:1–2:17). Los ciclos 1 a 5 repiten un patrón de establecer una vida compartida y verificar la consistencia.
 
@@ -741,7 +741,7 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 
 ###### Este patrón se repite sin interrupción en los ciclos 1-5.
 
-## 1 Juan 1:1-4 La Vida es experimentada. La realidad mostrada por manifestación
+## 1 Juan 1:1-4 La realidad vida mostrada por manifestación
 
 ### 1 Juan 1:1a – *"Lo que existía* [era RV09] *desde el principio…"* Comienza hablando de algo que era __<u>desde</u>__ el principio. "*Lo que existía*" se refiere a un hecho o concepto. El pronombre relativo neutral no describe a una persona. 
 #### Pudo haber dicho "El que existía" denotando a una persona específica. Sin embargo vemos que esta __<u>dando</u>__ testimonio de un concepto. Aún no menciona de que se trata. 
@@ -788,6 +788,8 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 ##### Ellos son testigos experienciales de la vida. Vieron, oyeron, palparon la vida de primera mano. Experimentaron la __<u>vida</u>__. 1 Juan 2:24-25; 1 Juan 1:2
 
 ### 1 Juan 1:2a - *"y la vida se manifestó* [fue manifestada RV09]*” Dios se había encargado de enviar y revelar la vida __<u>misma</u>__. Mateo 16:16-17
+
+#### Ellos fueron los receptores de lo que fue manifiesto. 
 
 ### 1 Juan 1:2b - *"...nosotros la hemos visto, y damos testimonio y les anunciamos a ustedes la vida eterna..."* El dar testimonio muestra el hecho de solamente ser testigos y estar comunicando la vida habían experimentado, no que lo habían __<u>creado</u>__. Ellos habian conocido de primera mano  la vida eterna.
 
@@ -1797,25 +1799,21 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 | **4** (2:7-11)  | Afirmar estar en la luz                     | Amar u odiar a un hermano               | Vista vs. ceguera; luz vs. tinieblas |
 | **5** (2:12-17) | Apego al mundo o al Padre                   | Dirección del amor y el deseo           | Lo pasajero vs. lo permanente        |
 
-# 1 JUAN 2:18-4:6 EXPONIENDO IDENTIDAD POR LO QUE PROCEDE DE LA FUENTE. DISCERNIMIENTO BAJO AMENAZA
+# 1 JUAN 2:18-4:6 LA VIDA DISTINGUIDA: por origen, fuente y alineación
 
 ## Introducción
 
-### Esta sección se unifica mediante diagnósticos de identidad, marcados por indicadores griegos repetidos:
+### Propósito de la sección: Alertar a la comunidad sobre las amenazas de anticristos, falsos maestros, falsos espíritus, odio y pecado.
 
-#### μένω (menō) — permanecer
+#### El pasaje se divide en cinco ciclos discernibles, cada uno reiniciado con una señal del discurso griego
 
-#### φανερόω (phaneroō) — manifestarse
+### Alineación del ciclo: Cada ciclo se desarrolla secuencialmente dentro de esta sección, sin interrupciones.
 
-#### γεννάω (gennaō) — nacer
+##### El ciclo 1 presenta la amenaza (anticristos y engaño).
 
-#### ποιέω (poieō) — hacer
+##### Los ciclos 2 a 4 profundizan en los indicadores de autenticidad en la enseñanza, el amor y la obediencia.
 
-#### ἐκ (ek) — desde (marcador de origen)
-
-#### ὁμολογέω (homologeō) — confesar
-
-#### El pasaje se divide en cinco ciclos discernibles, cada uno reiniciado con una señal del discurso griego.
+##### El ciclo 5 aborda el discernimiento doctrinal (probando espíritus).
 
 #### La identidad se revela, se confirma y se protege mediante lo que permanece (μένω), lo que procede de una fuente (ἐκ) y lo que se manifiesta (φανερόω).
 
@@ -1825,11 +1823,7 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 
 #### Cada ciclo aporta un nivel de diagnóstico a esa pregunta.
 
-### 2:18–4:6 se unifica por:
-
-#### Un solo problema
-
-##### Engaño que surge desde dentro
+### 2:18–4:6 se unifica por un solo problema. El engaño que surge desde dentro.
 
 #### Un solo método
 
@@ -1906,6 +1900,43 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 #### Responden: ¿De dónde proviene esto?
 
 #### La amenaza internalizada del Ciclo 9 sigue vigente: la misma gramática de discernimiento se aplica internamente.
+
+```yaml
+Ciclo 1: 2:18–27 
+├─ Amenaza: (anticristos), desviación de la comunidad. 
+├─ Objeto amenazado: Comunión / Integridad de la comunidad 
+├─ Evidencia: La salida revela que no eran verdaderamente de la comunidad 
+├─ Evidencia: Unción para reconocer la verdad 
+└─ Observación final: Permaneced en lo que os enseñaron, la unción permanece en vosotros
+
+Ciclo 2: 2:28–3:10 
+├─ Amenaza: Comportamiento pecaminoso, falta de permanecer en Cristo
+├─ Objeto amenazado: Autenticidad Ética/Relacional 
+├─ Evidencia: Práctica de la justicia
+├─ Evidencia: Ser hijos de Dios 
+└─ Observación final: Hijos de Dios versus hijos del diablo son manifiestos
+
+Ciclo 3: 3:11–18 
+├─ Amenaza: Odio, falta de amor mutuo 
+├─ Objeto amenazado: Autenticidad Ética/Relacional 
+├─ Evidencia: Amor en obra y en verdad
+└─ Observación final: No améis de palabra ni de lengua, sino de hecho y en verdad
+
+Ciclo 4: 3:19–24 
+├─ Amenaza: Duda o falta de confianza respecto a la presencia de Dios 
+├─ Objeto amenazado: Autenticidad Ética / Relacional + Garantía de Compañerismo 
+├─ Evidencia: Confianza ante Dios
+├─ Evidencia: Obediencia y amor 
+└─ Observación final: Permanecer confirmado por el Espíritu dado por Dios
+
+Ciclo 5: 4:1–6 
+├─ Amenaza: Espíritus falsos que niegan a Jesús vinieron en carne  
+├─ Objeto amenazado: Discernimiento Doctrinal 
+├─ Evidencia: Espíritus de prueba 
+└─ Observación final: Reconocer Espíritu de verdad versus espíritu de error; escucha a Dios 
+```
+
+
 
 ## 1 Juan 2:18-27 Ciclo #6: prueba cristológica (el habla - o confiesa o niega)
 
@@ -2445,25 +2476,65 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 
 ### Ciclo 8: 
 
-#### **Amenaza/ejemplo negativo**:  οὐ καθὼς Κάϊν - no como Caín, ἐκ τοῦ πονηροῦ ἦν—era del maligno, ἔσφαξεν τὸν ἀδελφὸν αὐτοῦ — mató a su hermano
+#### **Amenaza/ejemplo negativo**:  no como Caín, —era del maligno, — mató a su hermano
 
-#### **Conocimiento afirmado**: οἴδαμεν ὅτι μεταβεβήκαμεν — sabemos que hemos pasado, ἐν τούτῳ ἐγνώκαμεν τὴν ἀγάπην — en esto hemos conocido el amor
+#### **Conocimiento afirmado**: — sabemos que hemos pasado, — en esto hemos conocido el amor
 
-#### **Fuente identificada (ἐκ)**: ἐκ τοῦ πονηροῦ—del maligno, ἐκ τοῦ θανάτου εἰς τὴν ζωήν — de la muerte a la vida
+#### **Fuente identificada (ἐκ)**: —del maligno, — de la muerte a la vida
 
-#### **Criterio visible**: ἀγαπῶμεν ἀλλήλους — amémonos unos a otros, ὁ μὴ ἀγαπῶν—el que no cariñoso, ἐν ἔργῳ καὶ ἀληθείᾳ — de hecho y en verdad
+#### **Criterio visible**: — amémonos unos a otros, —el que no cariñoso, — de hecho y en verdad
 
-#### **Distinción resumida**: μένει ἐν τῷ θανάτῳ — permanece en la muerte, ἔχει ζωὴν αἰώνιον—tiene vida eterna
+#### **Distinción resumida**: — permanece en la muerte, —tiene vida eterna
 
 ## 1 Juan 3:19-24 Ciclo #9: Seguridad en amor
 
-### 1 Juan 3:19-20 – *En esto sabremos que somos de la verdad y aseguraremos nuestros corazones delante de Él en cualquier cosa que nuestro corazón nos condene. Porque Dios es mayor que nuestro corazón y Él sabe todas las cosas.*
+### Este ciclo vincula la amenaza interna (la condenación del corazón) con la evidencia observable (mandamientos, amor, Espíritu), dando a los creyentes una base textual y observable para distinguir lo que es de Dios.
+
+#### 1 Juan 3:19-24 funciona como una guía observacional explícita para discernir la alineación con Dios:
+
+##### Lo que se ve amenazado es la confianza en Dios. El corazón tiene la habilidad de condenar.
+
+##### La evidencia observable se ve en obediencia, amor, y el Espíritu que confirma la permanencia.
+
+##### Propósito de esta sección es proporcionar al creyente criterios para distinguir lo que es de Dios en la comunidad y en la vida personal.
+
+##### Textualmente, conecta la autoevaluación interna con la confirmación externa, haciendo que el discernimiento sea práctico y observable dentro del marco general de la carta para distinguir lo que es de Dios.
+
+### 1 Juan 3:19a – "*En esto sabremos*" La amenza es la duda que proviene del corazón que nos condena. La duda es esencialmente estar de mente dividida y con indecisión. 
+
+#### La confianza "*sabremos*" (presente, activo, subjuntivo) se basa en el amor práctico y verdadero presentado en 3:18. Indica conocimiento potencial o continuo, no un hecho consumado. Dicho de otra manera: Podemos saber o llegar a saber basándonos en la acción observable del amor.
+
+### 1 Juan 3:19b "*En esto sabremos...que somos de la verdad* “Esto” se refiere a la práctica del amor activo y verdadero (3:18), que es el criterio observable por el cual sabemos que somos de la verdad. 
+
+#### Observablemente, el estado de ser de la verdad es un hecho y no esta en duda, mientras que el conocimiento es potencial/contingente al marcador observable (amor práctico). 
+
+#### Es decir, podremos saber, salir de la incertidumbre, de que somos de la verdad. 
+
+### 1 Juan 3:19c *...y aseguraremos nuestros corazones delante de Él*" El resultado (aseguraremos). Nuestros corazones tendrán mayor confianza. La confianza surge del conocimiento anclado en el amor observable. 
+
+#### Nuestros corazones son hechos más confiados en Él. 
+
+#### El versículo mantiene una cuidadosa distinción entre el conocimiento potencial, el estado real y la seguridad resultante.
+
+### 1 Juan 3:20a "*en cualquier cosa que nuestro corazón nos condene.*" Nuestro corazón puede tratar de ahogarnos en culpa. Si, nuestro corazón nos puede condenar, pero veremos que el poder de hacer sentir culpa. 
+
+#### "*condene*" KATAGINOSKO conocer y condenar v. — conocer u observar una mala acción con desaprobación o condena.[^1]
+
+##### Jeremías 17:9 "*»Más engañoso que todo es el corazón, Y sin remedio; ¿Quién lo comprenderá?*" Este versículo nos explica que el corazón es moralmente malo, no solo haciendo sentir culpa. El corazón es corrupto. 
+
+##### Mateo 15:18-19 "*Pero lo que sale de la boca proviene del corazón, y eso es lo que contamina al hombre. Porque del corazón provienen malos pensamientos, homicidios, adulterios, fornicaciones, robos, falsos testimonios y calumnias.*" El corazón es mostrado como el origen de la maldad moral; agente activo de la conducta pecaminosa. 
+
+##### Romanos 1:21 "*Pues aunque conocían a Dios, no lo honraron como a Dios ni ledieron gracias, sino que se hicieron vanos en sus razonamientos y su necio corazón fue entenebrecido.*" El estado moral del corazón determina la respuesta a Dios;
+
+### 1 Juan 3:20b "*Porque Dios es mayor que nuestro corazón y Él sabe todas las cosas.*" esta frase hace entender que el corazón aún puede condenar, pero el conocimiento y la grandeza de Dios anulan la autocondenación interna. 
+
+#### Podemos saber y estar seguros nosotros en base al amor práctico y observable, pero mucho mayor que eso es lo que Dios sabe y Él es mayor que nuestros corazones. Esto establece un ancla para estar seguros. 
 
 #### Al finalizar el capítulo 2, <u>vimos</u> la posibilidad de ser avergonzados en la manifestación de Cristo, y claramente este no es el deseo de Dios para ninguno de sus hijos.
 
 #### Ahora <u>vemos</u> la posibilidad de “*asegurar nuestros corazones delante de Dios*”. ¿Por qué es esto posible?
 
-#### El v20 puede leerse de la siguiente forma: Porque si alguna vez nos está condenando nuestro corazón. Ningún creyente tiene condenación de parte de Dios, <u>pero</u> si podemos experimentar una auto condenación que no llevará a una inseguridad hacia Dios.
+#### El versículo 20 puede leerse de la siguiente forma: Porque si alguna vez nos está condenando nuestro corazón. Ningún creyente tiene condenación de parte de Dios, <u>pero</u> si podemos experimentar una auto condenación que nos llevará a una inseguridad hacia Dios.
 
 #### Dios no quiere que vivamos en inseguridad, <u>sino</u> confiados hacia él, entonces Juan dice: “*Dios es mayor que nuestros corazones, y él sabe todas las cosas”*
 
@@ -2475,13 +2546,17 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 
 ##### La certeza para nuestra vida <u>viene</u> del amor que Cristo tuvo por nosotros al poner su vida por nosotros. Al experimentar este amor, tendremos gran certeza delante de él.
 
-### 1 Juan 3:21 - *Amados, si nuestro corazón no nos condena, confianza tenemos delante de Dios.* Dios está trabajando en nuestros corazones para que andemos en una intimidad con él, tal como la que tiene con su Hijo. La obra de <u>Dios</u> en nosotros, es para que nos acerquemos a él.
+##### 1 Juan 4:17-18 "*En esto se perfecciona el amor en nosotros, para que tengamos confianza en el día del juicio, pues como Él es, así somos también nosotros en este mundo. En el amor no hay temor, sino que el perfecto amor echa fuera el temor, porque el temor involucra castigo, y el que teme no es hecho perfecto en el amor.*"
+
+### 1 Juan 3:21 - *Amados, si nuestro corazón no nos condena, confianza tenemos delante de Dios.* Dios está trabajando en nuestros corazones para que andemos en una intimidad con Él, tal como la tiene con su Hijo. La obra de <u>Dios</u> en nosotros, es para que nos acerquemos a Él. 
+
+#### "*Confianza tenemos*" habla de posesión continua de confianza. Esto expresa el estado actual de seguridad del creyente en relación con Dios.
 
 #### Un creyente que mira la obra <u>mayor</u> de Dios, la grandeza de Dios por sobre nuestros pecados, al no estar experimentando esta auto condenación, crece en su confianza para con Dios.
 
 #### En Hebreos 9:14, vemos como el <u>autor</u> muestra la superioridad de la obra de Cristo a nuestro favor, limpiándonos para ser útiles a Dios.
 
-### 1 Juan 3:22 – *Y todo lo que pidamos lo recibiremos de él, porque guardamos sus mandamientos y hacemos las cosas que son agradables delante de él.*
+### 1 Juan 3:22a – "*Y todo lo que pidamos lo recibiremos de él...*"
 
 #### Juan está diciendo, si algo estamos pidiendo (nuevamente el <u>mismo</u> se incluye aquí). No recibimos aquello que no pedimos.
 
@@ -2489,15 +2564,41 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 
 #### El requisito aquí para recibir lo que pedimos, es pedirlo. “Lo recibiremos” es un indicativo suponiendo que la primera <u>parte</u> de la condición se cumple.
 
-#### “…*porque guardamos sus mandamientos y hacemos las cosas que son agradables delante de él.”* En este contexto es una <u>vida</u> que permanece en él y se apropia del amor que el Padre le ha otorgado, por medio de un andar de fe. Hebreos 11:6, Juan 8:29, 15:7
+#### 1 Juan 3:22b “…*porque guardamos sus mandamientos y hacemos las cosas que son agradables delante de él.”* En este contexto es una <u>vida</u> que permanece en él y se apropia del amor que el Padre le ha otorgado, por medio de un andar de fe. Hebreos 11:6, Juan 8:29, 15:7
 
-### 1 Juan 2:23 – *y este es su mandamiento: que creamos en el nombre de su Hijo Jesucristo, y que nos amemos los unos a otros como él nos ha amado.* Juan 6:29
+##### Es observable que guardar los mandamientos y hacer lo que le agrada se describen como acciones continuas, no como eventos únicos.
+
+#### El uso del subjuntivo aquí vincula la obediencia continua a la posesión continua de confianza.
+
+#### Relación textual con 3:19-20:
+
+##### 3:19-20: El corazón puede condenar → Dios es mayor → potencial de conocimiento/confianza
+
+##### 3:21: La confianza en Dios está explícitamente vinculada a indicadores observables: guardar los mandamientos y hacer lo que le agrada
+
+##### Secuencia observada: amenaza interna → indicadores observables externos → confianza resultante
+
+#### Secuencia: la confianza se basa en acciones continuas y observables (obediencia), que contrarrestan la amenaza interna de la autocondena.
+
+### 1 Juan 2:23 – *y este es su mandamiento: que creamos en el nombre de su Hijo Jesucristo, y que nos amemos los unos a otros como él nos ha amado.* El mandamiento actual de creer (presente, activo, subjuntivo) y amar (presente, activo, subjuntivo) continúa el mandamiento anterior de amar, vinculando la práctica presente con la donación pasada. Juan 6:29
 
 #### Jesús es el mensaje de Dios para los creyentes para incrementar nuestra confianza en él, y así llevarnos a más profundidades de su amor, <u>tanto</u> en experiencia con él, como en acciones para con otros.
 
 #### Dios quiere llevarnos a depender completamente en todo lo que su Hijo Jesucristo es para nosotros. Solo Dios es capaza de llevarnos a amarnos los unos a los tros, de la <u>misma</u> forma en la que él nos ha amado. Juan 13:34-35, 15:12, 1 Juan 2:8
 
-### 1 Juan 2:24 – *El que guarda sus mandamientos permanece en él y Dios en él. Y en esto sabemos que él permanece en nosotros, por el Espíritu que nos ha dado.* <u>Aquel</u> que está firme viviendo en la verdad, está disfrutando de la permanencia de Dios en su vida, se está mandando tremendo banquete con el Padre y con su Hijo. Juan 14:21-23
+#### La confianza en Dios (3:21) se observa en la obediencia constante.
+
+##### 3:23 define específicamente lo que implica la obediencia: creer en el Hijo y amarse unos a otros. El modo subjuntivo enfatiza la acción continua y con propósito, no un solo acto.
+
+### 1 Juan 2:24a – *El que guarda sus mandamientos permanece en él y Dios en él.* El que esta guardando sus mandamientos es identificado por permanecer en Dios. 
+
+### 1 Juan 2:24b *Y en esto sabemos que él permanece en nosotros,* Esta frase apunta hacia atrás a las cosas observables de guardar sus mandamientos y amar en forma práctica. 
+
+#### "*Sabemos*" (presente, activo, indicativo). Si bien la confianza empieza sabiendo en el versículo 19 basado en amor observable, ahora es confirmado basado en obediencia y la permanencia del Espíritu Santo. 
+
+### 1 Juan 2:24c "*por el Espíritu que nos ha dado.*" <u>Aquel</u> que está firme viviendo en la verdad, está disfrutando de la permanencia de Dios en su vida, se está mandando tremendo banquete con el Padre y con su Hijo. Juan 14:21-23
+
+#### El que guarda O TERON (presente, activo, participio) el que esta guardando no es mandato sino que describe una característica de la persona que permanece. El que permanece en Él es un guardador de sus mandamientos. 
 
 #### El conocimiento de que Él permanece en nosotros es por el Espíritu que nos ha dado, no por mirar nuestras obras, sino más <u>bien</u>, por la obra del Espíritu en nosotros, el Padre se manifiesta a nosotros, haciendo de nuestro corazón su hogar. Efesios 3:14-16
 
@@ -2505,19 +2606,61 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 
 #### La vida de Cristo en nosotros, solo es posible por <u>medio</u> de la comunión que tenemos con el Padre y con su Hijo.
 
+#### En resumen: Amenaza interna → 2. Indicadores observables (amor, obediencia) → 3. El Espíritu como confirmación → 4. Conocimiento seguro resultante de la presencia de Dios
+
+```java
+[3:18] Amor Observable en Obras y Verdad
+│
+▼
+[Amenaza Interna]
+1 Juan 3:20 — El corazón puede condenarnos
+│ (presente de indicativo, activo)
+▼
+[Ancla Externa]
+Dios es mayor que el corazón
+│ (presente de indicativo, activo)
+▼
+[Indicadores Observables de Fidelidad]
+1 Juan 3:21 — Confianza en Dios
+│ (presente de indicativo, activo)
+│
+├─> Guardar sus mandamientos (presente de subjuntivo, activo)
+│
+└─> Hacer lo que le agrada (presente de subjuntivo, activo)
+▼
+1 Juan 3:23 — Mandamiento Específico
+│ (presente de subjuntivo, activo)
+├─> Creer en el nombre del Hijo
+└─> Amarnos Otro
+▼
+[Confirmación / Conocimiento]
+1 Juan 3:24 — Permanencia y Confirmación del Espíritu
+│
+├─> Quien guarda los mandamientos permanece en Dios (participio presente + indicativo)
+├─> Dios permanece en el creyente (presente indicativo)
+└─> En esto sabemos que Dios permanece en nosotros (presente indicativo, activo)
+│
+└─> Fuente: El Espíritu ya nos fue dado (aoristo indicativo, activo, ἐκ inverso)
+▼
+[Seguridad resultante]
+Confianza y seguridad fundamentadas en Dios, no en el corazón
+```
+
+
+
 ## En Síntesis (3:19-24)
 
 ### Ciclo 9:
 
-#### **Amenaza/acusación interna**: ἐὰν καταγινώσκῃ ἡ καρδία ἡμῶν — si nuestro corazón nos condena
+#### **Amenaza/acusación interna**: nuestro corazón nos condena
 
-#### **Conocimiento afirmado**: ἐν τούτῳ γνωσόμεθα ὅτι ἐκ τῆς ἀληθείας ἐσμέν — en esto sabremos que somos de la verdad
+#### **Conocimiento afirmado**: en esto sabremos que somos de la verdad
 
-#### **Fuente identificada** (ἐκ): ἐκ τῆς ἀληθείας—de la verdad, ἐκ τοῦ Πνεύματος οὗ ἔδωκεν ἡμῖν — del Espíritu que él nos dio
+#### **Fuente identificada** de la verdad, del Espíritu que él nos dio
 
-#### **Criterio visible**: τηροῦμεν τὰς ἐντολὰς αὐτοῦ — guardamos sus mandamientos, πιστεύσωμεν… καὶ ἀγαπῶμεν — que creemos… y amamos
+#### **Criterio visible**: guardamos sus mandamientos, que creemos… y amamos
 
-#### **Distinción resumida**: μένει ἐν αὐτῷ καὶ αὐτὸς ἐν αὐτῷ — permanece en él y él en él
+#### **Distinción resumida**: permanece en Él y Él en uno. Hace una distinción entre el que permanece y el que vive auto condenado por su corazón. 
 
 ## 1 Juan 4:1-6 Ciclo #10: Discernimiento de origen. (dominio: Espíritus Marcador: confesión)
 
@@ -2623,7 +2766,7 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 | **9** (3:19-24)   | El corazón condena (3:20)                                    | En esto conocemos que somos de la verdad; En esto conocemos que Él permanece en nosotros (3:19, 24) | De la verdad; dado el Espíritu (3:19, 24)   | Guardando sus mandamientos; permaneciendo en Él (3:22-24)    | Corazón condenador vs. confianza ante Dios (3:20-21)      |
 | **10** (4:1-6)    | Muchos falsos profetas han salido al mundo (4:1)             | En esto conocéis el Espíritu de Dios; conocemos el espíritu de verdad y el de error (4:2, 6) | De Dios vs. del mundo (4:4-5)               | Confesando que Jesucristo vino en carne (4:2-3)              | Espíritu de verdad vs. espíritu de error (4:6)            |
 
-# 1 JUAN 4:7-5:21 DIOS ES AMOR. MANIFESTACIÓN RELACIONAL Y SEGURIDAD
+# 1 JUAN 4:7-5:21 VIDA UBICADA: por posesión, permanencia y morada relacional
 
 ### Qué tienen en común los ciclos 11-15 (1 Juan 4:7–5:21). Los ciclos 11 a 15 repiten un patrón de ensayar la verdad y reforzar la seguridad.
 

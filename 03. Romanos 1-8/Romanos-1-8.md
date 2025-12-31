@@ -2376,9 +2376,49 @@ Lo mismo para nosotros hoy. Dios no ignoró nuestros pecados. Los trató en just
 
 ### Romanos 3:28a "*Porque concluimos que el hombre es justificado por la fe aparte de las obras de la ley.*" Pablo es muy cuidadoso de aclarar que la justificación es soloamente para el que cree sin incluir de alguna manera las obras de la ley. 
 
+#### En base a los hechos, llegamos a concluir (LOGIZOMAI) que el hombre el justificado solo por la fe totalmente aparte de la obras que exige La Ley. 
+
 #### Como ya estableció, el principio de las obras niega el principio de la fe. 
 
 #### El principio de las obras no quitan la jactancia. El único medio para quitar la jactancia del hombre es por el medio de la fe porque pone toda la gloria y reconocimiento lo recibe aquel que hace la obra meritoria, en este caso Jesucristo en la cruz. 
+
+#### Es enfático el pasaje que la justificación no es de obras. Las obras son explicitamente excluidas. Gálatas 2:16, 3:2, 5, 11; Efesios 2:8-9; Tito 3:5
+
+#### Las Escrituras tratan las obras y la gracia como principios mutuamente excluyentes.
+
+##### Romanos 11:6 "*Pero si es por gracia, ya no es a base de obras, de otra manera la gracia ya no es gracia. Y si por obras, ya no es gracia; de otra manera la obra ya no es obra.*"
+
+##### Si las obras permanecen operativas, la gracia deja de ser gracia (expresada gramaticalmente, no inferida).
+
+##### Pablo no dice: “Las obras son malas” ni “Las obras fallan”.
+
+##### En cambio, dice: Si hay trabajo, entonces lo que se acredita es el salario, no la gracia, sino la deuda. Así pues, se usa el mismo verbo "se acredita" LOGIZOMAI, pero la categoría de lo que se acredita cambia.
+
+#### Por esto es que importa en el argumento de Pablo:
+
+##### La gracia deja de ser gracia si las obras siguen vigentes.
+
+###### Eso es un colapso de categoría, no un fracaso moral.
+
+###### La gracia no se convierte en "menos gracia".
+
+###### Se convierte en algo completamente diferente.
+
+##### Pablo es muy cuidadoso al:
+
+###### Eliminar las obras, no porque sean malas,
+
+###### sino porque su presencia cambia el tipo de transacción que se describe.
+
+##### Dejar las obras en su lugar significa:
+
+###### Ya no se habla de dádiva.
+
+###### Ahora se habla de salario.
+
+###### Incluso si se usa el mismo verbo ("crédito", "justificar").
+
+###### Ese es el cambio de categoría.
 
 ### Romanos 3:29 "*¿O es Dios el Dios de los judíos solamente? ¿No es también el Dios de los gentiles? Sí, también de los gentiles,*" el principio de las obras (gentiles) o por guardar las obras de La Ley (judíos) es igualmente contrario al principio de justificación por la fe. 
 
@@ -2418,12 +2458,18 @@ Lo mismo para nosotros hoy. Dios no ignoró nuestros pecados. Los trató en just
 
 #### Pablo demuestra por las escrituras que Abraham fue justificado por la fe antes de La Ley o la circuncisión, lo que prueba que la justificación de Abráham ocurrió antes de estas cosas.
 
+#### Veremos el uso de una palabra contar principalmente en el capítulo 4 de Romanos. Cuando la gramática dice que Dios cuenta (LOGIZOMAI) justicia, esta en voz pasiva o media-pasiva. Cuando el hombre es llamado a contar (LOGIZOMAI) algún hecho, y es siempre en voz activa. Aveces en modo imperativo y aveces es medio-indicativo.  
+
+##### Esto significa que cuando Dios cuenta o acredita al hombre justicia, es completamente sin participación del hombre. Romanos 4:4, 5, 6, 8, 9, 10, 11, 22, 23, 24, 9:8
+
+##### Hay ciertas verdades que el creyente debe contar como verdadero, a eso el hombre es responsable de considerarlo, Dios no. Romanos 3:28, 6:11, 8:18
+
 #### Dado que el capítulo es argumentativo e ilustrativo, y no exhortativo, no encontramos ningún imperativo.
 
 
 ### Romanos 4:1a *¿Qué diremos, entonces, que halló Abraham...según la carne* esta pregunta establece el tema que abarca Pablo en todo el capítulo. 
 
-#### "*diremos*" EROUMEN - (Futuro, Activo, Índico, 1plural)
+#### "*diremos*" EROUMEN - (Futuro, Activo, indicativo, 1plural)
 
 #### "*halló*" EUREKENAI - (perfecto, activo, infinitivo) 
 
@@ -2433,111 +2479,111 @@ Lo mismo para nosotros hoy. Dios no ignoró nuestros pecados. Los trató en just
 
 #### Cuando Romanos 4 habla de que Abraham es padre, no es en términos de etnia. Pablo no esta presentando a Abraham como padre de los judíos. 
 
-#### El punto principal de este pasaje es mostrar a Abraham como padre de todo el que creyere, sin importar la circuncisión. La justicia de Abraham es la justifica que viene por la fe. Solamente la fe nos hace descendientes de Abraham, en el sentido que el es el padre de los que creen. Romanos 4:11-12
+##### El punto principal de este pasaje es mostrar a Abraham como padre de todo el que creyere, sin importar la circuncisión. La justicia de Abraham es la justifica que viene por la fe. Solamente la fe nos hace descendientes de Abraham, en el sentido que el es el padre de los que creen. Romanos 4:11-12
 
-#### Abraham es padre de los de la circuncisión solo si creyen. No hay distinción. 
+##### Abraham es padre de los de la circuncisión solo si creyen. No hay distinción. 
 
-#### Pablo usa la palabra «padre» para subrayar: No la paternidad étnica. No la paternidad basada en el pacto de la circuncisión. Sino la paternidad basada en la fe.
+##### Pablo usa la palabra «padre» para subrayar: No la paternidad étnica. No la paternidad basada en el pacto de la circuncisión. Sino la paternidad basada en la fe.
 
-### Para revertir las suposiciones judías sobre Abraham
+#### Para revertir las suposiciones judías sobre Abraham
 
-#### Muchos judíos del primer siglo consideraban a Abraham como: padre de Israel por sangre, padre de los circuncidados, padre de la obediencia, padre de la distinción del pacto
+##### Muchos judíos del primer siglo consideraban a Abraham como: padre de Israel por sangre, padre de los circuncidados, padre de la obediencia, padre de la distinción del pacto
 
-#### Pablo le da la vuelta a esto: Abraham es padre por fe, no por etnicidad
+##### Pablo le da la vuelta a esto: Abraham es padre por fe, no por etnicidad
 
 #### por promesa, no por Torá, por creer, no por obrar
 
-#### El uso repetido de «padre» recalca que la verdadera descendencia es por fe, no por carne.
+##### El uso repetido de «padre» recalca que la verdadera descendencia es por fe, no por carne.
 
-### Para establecer a Abraham como el prototipo del creyente
+#### Para establecer a Abraham como el prototipo del creyente
 
-#### Pablo destaca a Abraham como: prototipo de fe (4:3), prototipo de justificación (4:5-6), prototipo de fe en la resurrección (4:17-25)
+##### Pablo destaca a Abraham como: prototipo de fe (4:3), prototipo de justificación (4:5-6), prototipo de fe en la resurrección (4:17-25)
 
-#### La repetición de la palabra «padre» muestra que Abraham es el modelo y la fuente de:cómo las personas son justificadas, cómo las personas caminan ante Dios, cómo las personas heredan la promesa
+##### La repetición de la palabra «padre» muestra que Abraham es el modelo y la fuente de:cómo las personas son justificadas, cómo las personas caminan ante Dios, cómo las personas heredan la promesa
 
-#### Pablo construye una identidad teológica: Ser creyente es ser hijo de Abraham.
+##### Pablo construye una identidad teológica: Ser creyente es ser hijo de Abraham.
 
-### Pablo uso Padre también para continuar el argumento de Romanos 3:27-31 que Dios no solo es Dios del judio sino de los gentiles también. 
+##### Pablo uso Padre también para continuar el argumento de Romanos 3:27-31 que Dios no solo es Dios del judio sino de los gentiles también. 
 
-#### Romanos 4 amplía la afirmación anterior de Pablo:
+##### Romanos 4 amplía la afirmación anterior de Pablo:
 
-#### “¿Dios es Dios solo de judíos? ¿No lo es también de gentiles? Sí, también de gentiles.” — Romanos 3:29
+##### “¿Dios es Dios solo de judíos? ¿No lo es también de gentiles? Sí, también de gentiles.” — Romanos 3:29
 
-#### En Romanos 4, Pablo lo demuestra mediante Abraham:
+##### En Romanos 4, Pablo lo demuestra mediante Abraham:
 
-#### Abraham fue justificado antes de la circuncisión.
+##### Abraham fue justificado antes de la circuncisión.
 
-#### Por lo tanto, Abraham es padre de creyentes incircuncisos.
+##### Por lo tanto, Abraham es padre de creyentes incircuncisos.
 
-#### Y también padre de creyentes circuncidados que siguen su fe.
+##### Y también padre de creyentes circuncidados que siguen su fe.
 
-#### Así pues, las múltiples referencias a la palabra “padre” funcionan como prueba legal de que Dios es el Dios de todas las naciones.
+##### Así pues, las múltiples referencias a la palabra “padre” funcionan como prueba legal de que Dios es el Dios de todas las naciones.
 
-### Para destacar la promesa del pacto de bendición universal (Génesis 17; 12)
+#### Para destacar la promesa del pacto de bendición universal (Génesis 17; 12)
 
-#### Romanos 4 cita o repite repetidamente:
+##### Romanos 4 cita o repite repetidamente:
 
-#### Génesis 12:3: “*Todas las naciones serán benditas en ti*”.
+##### Génesis 12:3: “*Todas las naciones serán benditas en ti*”.
 
-#### Génesis 17:5: “*Serás padre de muchas naciones*”.
+##### Génesis 17:5: “*Serás padre de muchas naciones*”.
 
-#### Pablo cita Génesis 17:5 en Romanos 4:17 y, por lo tanto, repite la palabra “padre” para mostrar:
+##### Pablo cita Génesis 17:5 en Romanos 4:17 y, por lo tanto, repite la palabra “padre” para mostrar:
 
-#### El rol de Abraham como padre del pactivo,
+##### El rol de Abraham como padre del pactivo,
 
-#### La naturaleza multinacional de esta promesa.
+###### La naturaleza multinacional de esta promesa.
 
-#### La base de fe para su cumplimiento.
+###### La base de fe para su cumplimiento.
 
-#### Por lo tanto, la palabra “*padre*” vincula Romanos 4 directamente con Génesis.
+###### Por lo tanto, la palabra “*padre*” vincula Romanos 4 directamente con Génesis.
 
-### Resumen
+#### Resumen
 
-#### Pablo repite la palabra "*padre*" siete veces en Romanos 4 para:
+##### Pablo repite la palabra "*padre*" siete veces en Romanos 4 para:
 
-#### Presentar a Abraham como padre de todos los creyentes, judíos o gentiles
+##### Presentar a Abraham como padre de todos los creyentes, judíos o gentiles
 
-#### Derribar cualquier afirmación de descendencia étnica o legalista exclusiva
+##### Derribar cualquier afirmación de descendencia étnica o legalista exclusiva
 
-#### Enfatizar la fe, no las obras, como base de la identidad familiar
+##### Enfatizar la fe, no las obras, como base de la identidad familiar
 
-#### Mostrar a Abraham como el prototipo de la justificación por la fe
+##### Mostrar a Abraham como el prototipo de la justificación por la fe
 
-#### Vincular el argumento con Génesis 12 y 17
+##### Vincular el argumento con Génesis 12 y 17
 
-#### Expresar la plenitud/completitud de la paternidad espiritual de Abraham
+##### Expresar la plenitud/completitud de la paternidad espiritual de Abraham
 
-### Romanos 9-11 también se basa en Romanos 4
+##### Romanos 9-11 también se basa en Romanos 4
 
-#### Romanos 4: ¿Quiénes son los hijos de Abraham?
+##### Romanos 4: ¿Quiénes son los hijos de Abraham?
 
 ##### Respuesta: Quienes comparten la fe de Abraham, sean judíos o gentiles.
 
-#### Romanos 9: La incredulidad de Israel no contradice la promesa.
+##### Romanos 9: La incredulidad de Israel no contradice la promesa.
 
 ##### Respuesta: El verdadero Israel se define por la promesa, no por la etnia.
 
-#### Romanos 10: La fe en Cristo es el camino a la familia de Abraham.
+##### Romanos 10: La fe en Cristo es el camino a la familia de Abraham.
 
 ##### Respuesta: La justificación es por la fe, no por las obras de la ley.
 
-#### Romanos 11: La familia de Abraham es un solo olivo con judíos y gentiles.
+##### Romanos 11: La familia de Abraham es un solo olivo con judíos y gentiles.
 
 ##### Respuesta: La familia está unida, es multiétnica y está arraigada en la promesa.
 
-### Romanos 4:2a "*Porque si Abraham fue justificado por las obras,*" Pablo presenta una condición hipotética: asumamos por un momento que Abraham fue justificado por hacer buenas obras. 
+### Romanos 4:2a "*Porque si Abraham fue justificado por las obras,*" Pablo presenta una condición hipotética: "*Porque si*" (asumamos por un momento) que Abraham fue justificado por hacer buenas obras. 
 
-#### "*fue justificado*" EDIKAIOTHE - (aoristo, Aprobar. Índico. 3sg) 
+#### "*fue justificado*" EDIKAIOTHE (aoristo, activo, indicativo. 3ra persona singular) 
 
 ### Romanos 4:2b "*tiene de qué jactarse,*" la consecuencia lógica (no moral) a esta situación hipotética es el orgullo. 
 
-#### "*tiene*" EKEI - (Presente, activo, Índico. 3sg)
+#### "*tiene*" EKEI (Presente, activo, indicativo. 3ra persona singular)
 
 ### Romanos 4:2c "*pero no para con Dios.*" la esfera de evaluación es ante Dios no ante los hombres. Esto introduce una diferencia en la hipótesis de que si Abraham fuera justificado por obras...no tendría ninguna forma de jactarse ante Dios. 
 
 ### Romanos 4:3a "*Porque ¿qué dice la Escritura?*" Para continuar la discusión Pablo no apelará a las opiniones. Irá directo a la fuente para demostrar que dice Dios en Su Palabra. 
 
-#### "*dice*" LEGEI - (presente, activo, Índico. 3ra persona singular)
+#### "*dice*" LEGEI (presente, activo, indicativo, 3ra persona singular)
 
 #### Esto es una importante manera de sostener todo lo que discutimos y sostenemos. Debe ser según las Escrituras. Las Escrituras son como la autoridad puesta por Dios para gobernarnos en cuestiones de fe y práctica. 
 
@@ -2557,9 +2603,9 @@ Lo mismo para nosotros hoy. Dios no ignoró nuestros pecados. Los trató en just
 
 #### Abraham no tiene razón para la arrogancia porque la justificación no provino de obras sino de Dios. 
 
-#### "*creyó*" EPISTEUSEN - (aoristo, activo, Índico. 3sg)
+#### "*creyó*" EPISTEUSEN - (aoristo, activo, indicativo. 3ra persona singular)
 
-#### "*fue contado*" ELOGISTHE - (aoristo, Aprobar. Índico. 3sg)
+#### "*fue contado*" ELOGISTHE - (aoristo, Aprobar, indicativo. 3ra persona singular)
 
 ## Romanos 4:4-8 Contraste lógico entre ir por las obras versus por la fe
 
@@ -2569,23 +2615,23 @@ Lo mismo para nosotros hoy. Dios no ignoró nuestros pecados. Los trató en just
 
 #### Al contrario, un favor o gracia  es muy distinto. La gracia no es algo que es debido ni obligado. 
 
-#### "*al que trabaja*" ERGAZOMENO - (Presente, Mediados/Dep. Parte. Dat. masc. sg)
+#### "*al que trabaja*" ERGAZOMENO - (presente, medio/deponente, dativo masculino singular)
 
-#### "*se le cuenta*" LOGIZETAI - (presente, Indicador medio/paso. 3sg) 
+#### "*se le cuenta*" LOGIZETAI - (presente, medio/pasivo, 3ra persona singular) 
 
 #### Aquí no se hace ninguna valoración moral de las obras, sólo se trata del modo en que se cuenta o acredita  algo.
 
 ### Romanos 4:5a "*pero al que no trabaja, pero cree en Aquel que justifica al impío,*" aquí vemos un contraste de gran importancia. Creer es puesto en contraste de trabajar. 
 
-#### "*no trabaja*" ERGAZOMENO - (presente, Mediados/Dep. Parte. Dat. masc. sg) - literalmente significa no funciona. 
+#### "*no trabaja*" ERGAZOMENO - literalmente no funciona. 
 
-#### "*cree*" PISTEUOMTI - (presente, activo, Parte. Dat. masc. sg)-creyendo
+#### "*cree*" PISTEUOMTI (presente, activo) - creyendo
 
-#### "*justifica*" DIKAIOUNTA - (presente, activo, Parte. Acc. masc. sg) - justificando
+#### "*justifica*" DIKAIOUNTA (presente, activo) - justificando
 
 #### Se podría traducir esta frase:
 
-##### "pero al que no esta funcionando pero cree". 
+##### "pero al que no funciona pero cree". 
 
 ##### "al que no esta trabajando pero creyendo". 
 
@@ -2593,13 +2639,11 @@ Lo mismo para nosotros hoy. Dios no ignoró nuestros pecados. Los trató en just
 
 ##### "el que no se caracteriza por trabajar, sino por creer"
 
-#### La gramática no dice:
+##### La gramática no dice:
 
-##### Después que ha dejado de trabajar. Abraham y David no fueron acreditados justicia por Dios por haber dejado de trabajar y luego creer. El Texto no dice eso. 
+###### Después que ha dejado de trabajar. Abraham y David no fueron acreditados justicia por Dios por haber dejado de trabajar y luego creer. El Texto no dice eso. 
 
-##### En vez de trabajar más tarde. El principio de la fe es aparte de las obras. Las obras para autentificar la fe es un concepto forastero a la Biblia. 
-
-#### Santiago 2:14-
+###### En vez de trabajar más tarde. El principio de la fe es aparte de las obras. Las obras para autentificar la fe es un concepto forastero a la Biblia. 
 
 ##### La gramática hace entender que solo se esta contrastando dos modos de proceder o pensar. 
 
@@ -2627,23 +2671,41 @@ Lo mismo para nosotros hoy. Dios no ignoró nuestros pecados. Los trató en just
 
 ##### Creer restaura la comunión. 
 
+#### Cuando vemos justificación en la Biblia, no debemos asumir que es delante de Dios. Existen pasajes que hablan de una justificación por obras delante de los hombres. Por ejemplo Lucas 16:15 claramente dice: "*Y Jesús les dijo: «Ustedes son los que **se justifican a sí mismos ante los hombres**, pero Dios conoce sus corazones, porque lo que entre los hombres es de alta estima, abominable es delante de Dios.*" 
+
+#### Aunque no dice el Texto "delante de los hombres", el contraste implicado con "*delante de Dios*" es completamente claro cuando Romanos 4:2 pone una situación retórica, "*Porque si Abraham fue justificado por las obras, tiene de qué jactarse, **pero** no para con Dios*." Es decir, Pablo argumenta que Abraham tenía obras para poder jactarse delante de los hombres, pero no delante de Dios. Esto habla de una justificación delante de los hombres por obras pero no para con Dios. 
+
+#### ¿Pero, según Santiago 2:21-24, acaso no fue justificado Abraham por obras? Eso es lo que dice el Texto. Justificado también esta en voz pasiva (otro es el que lo justifica). Lo que no dice Santiago es quien justifica. Nunca dice que es Dios el actor de justificar al que obra. 
+
+#### En contraste a eso, Pablo declara enfáticamente que la justificación por la fe, sin obras es delante de Dios. 
+
+#### El contexto ayuda a entender la justificación de Abraham en Santiago es delante de los hombres que confirmaba las Escrituras del hecho que Abraham ya había sido justificado delante de Dios. El hecho de Génesis 22 cuando Abraham ofreció a su hijo Isaac en el altar sucedió decadas después de ser justificado delante de Dios en Génesis 15:6. 
+
+#### Concluimos pues que la justificación para con Dios claramente es aparte de las obras. No viene por un medio meritorio (razón para jactarse). Hacer cosas como pedir perdón, prometer cambiar, cambiar de actitud, decidir dejar algún vicio, hacer un compromiso con Dios, orar en fe son todos ejemplos de cosas que causan confusión a la enseñanza clara de la justificación solo por fe aparte de la obras. 
+
+##### Estas frases que se usan en la modernidad como "métodos" para "recibir la salvación", solo traen confusión y de alguna manera colocan al pecador en una posición de mérito para ser perdonados. Si el hombre tiene que acudir a la misericordia de Dios "poniendo de su parte" entonces Cristo no lo hizo todo y mintió cuando dijo, "*consumado es*". Juan 19:30
+
+##### Si la obra de Cristo no es totalmente suficiente y que ya efectuó la obra necesaria para salvar al pecador, entonces tenemos que admitir que el hombre tiene algo que hacer para ser justificado y esto es acreditarle algún mérito. Esto seria traer confusión al mensaje del evangelio en el mejor de los casos y en el peor de los casos un evangelio diferente. Gálatas 1:6-10
+
+##### ¿Entonces, que es necesario para ser justificado delante de Dios? 
+
 ## Romanos 4:6-8 Argumento de otro testimonio: David es un ejemplo bíblico de ser contado justo por la fe. 
 
-### Romanos 4:6a "*Como también David habla de la bendición que viene sobre el hombre a quien Dios atribuye justicia*"
+### Romanos 4:6a "*Como también David habla de la bendición que viene sobre el hombre a quien Dios atribuye justicia*" David también recibió la bendición de la justificación por la fe. Dios le contó o acreditó justicia no la consiguió por mérito. 
 
-#### "*habla*" LEGEI - (presente, activo, Índico. 3sg) — dice
+#### "*habla*" LEGEI - (presente, activo, indicativo. 3sg) — dice
 
 #### "*atribuye*" LOGIZETAI - (presente, Indicador medio/paso. 3sg) — cuenta
 
-### Romanos 4:6b *aparte de las obras:*
+### Romanos 4:6b "*aparte de las obras:*" David no gano su justificación por obras, fue algo que recibió. Y esto es asombroso porque a diferencia de Abraham, David si vivia en el tiempo de La Ley. Ya habían pasado unos 430 años desde que Dios había dado La Ley, sin embargo David es un claro ejemplo que no recibió la bendición de la justificación por cumplir la ley o hacer cualquier tipo de obras. 
 
-### Romanos 4:7a *«BIENAVENTURADOS AQUELLOS CUYAS INIQUIDADES HAN SIDO PERDONADAS,* Pablo cita Salmo 32:1-2. 
+### Romanos 4:7a "*«BIENAVENTURADOS AQUELLOS CUYAS INIQUIDADES HAN SIDO PERDONADAS,*" Pablo cita Salmo 32:1-2 para confirmar este hecho, feliz de aquellos que reciben el perdón de Dios. 
 
-#### "*han sido perdonadas*" ADETHESAN - (aoristo, Aprobar. Índico. 3pl) - fueron perdonados
+#### "*han sido perdonadas*" ADETHESAN - (aoristo, indicativo) - fueron perdonados en un punto del pasado. Es un hecho que recibieron perdon por sus iniquidades. 
 
-### Romanos 4:7b *Y CUYOS PECADOS HAN SIDO CUBIERTOS.*
+### Romanos 4:7b "*Y CUYOS PECADOS HAN SIDO CUBIERTOS.*" 
 
-#### "*han sido cubiertos*" EPEKALUDTHESAN  - (aoristo, Aprobar. Índico. 3pl) - estaban cubiertos
+#### "*han sido cubiertos*" EPEKALUDTHESAN  - (aoristo, indicativo) - fueron cubiertos
 
 ### Romanos 4:8 *BIENAVENTURADO EL HOMBRE CUYO PECADO EL SEÑOR NO TOMARÁ EN CUENTA».*
 
@@ -2653,7 +2715,31 @@ Lo mismo para nosotros hoy. Dios no ignoró nuestros pecados. Los trató en just
 
 #### El énfasis está en: lo que no se cuenta en lugar de lo que se elimina.
 
-#### De nuevo, el verbo clave es λογίζομαι (logizomai — “contar/acreditar”).
+#### De nuevo, el verbo clave es "contar/acreditar" LOGIZOMAI.
+
+#### Es bueno notar cuando David dice, "el pecado el Señor no tomará en cuenta". Esto es el resultado de la justificación. 
+
+#### La justificación se describe consistentemente como:
+
+##### Completada (aoristo). Romanos 5:1, 8:30; 1 Corintios 6:11
+
+##### Con resultados (verbos perfectos/contables). Romanos 8:33-34, 1
+
+##### Nunca se describe como temporal ni repetible. Gálatas 2:16, 3:11; Romanos 4:5; Hebreos 10:14
+
+##### Ningún pasaje bíblico introduce:
+
+###### El lenguaje necesario para expresar la revocación.
+
+###### Re-justificación
+
+###### Justificación parcial
+
+###### La justificación nunca se describe como temporal.
+
+###### Nunca se afirma que se pierda.
+
+###### Nunca va seguida de un veredicto contrario.
 
 ## En Síntesis (4:1-8)
 
@@ -2701,17 +2787,17 @@ Lo mismo para nosotros hoy. Dios no ignoró nuestros pecados. Los trató en just
 
 #### En el versículo 9 no se introduce ninguna nueva descripción de la bendición; el versículo reutiliza y cuestiona el ámbito de aplicación de los bendecidos ya introducidos.
 
-### Romanos 4:9b "*solo para los circuncisos, o también para los incircuncisos?*"
+### Romanos 4:9b "*solo para los circuncisos, o también para los incircuncisos?*" 
 
-#### EXOMEN (presente, activo, Índico). 1ra persona plural (variante de texto; NA28 tiene ἡ μακαριότης…)
+#### EXOMEN (presente, activo, indicativo). 1ra persona plural (variante de texto; NA28 tiene ἡ μακαριότης…)
 
 ### Romanos 4:9b *Porque decimos: «A ABRAHAM, LA FE LE FUE CONTADA POR JUSTICIA».* Abram, un gentíl más fue contado justo por Dios en un momento.
 
-LEGOMEN λέγομεν — presente, activo, Índico. 1pl - decimos
+#### "*decimos*" LEGOMEN λέγομεν — presente, activo, indicativo. 1pl - decimos
 
 ### Romanos 4:10a *Entonces, ¿cómo le fue contada?* 
 
-#### "*fue contado*" ELOGISTHE  (aoristo), Aprobar. Índico. 3ra persona singular. El aoristo aclara que sucedió en un punto del tiempo. 
+#### "*fue contado*" ELOGISTHE  (aoristo), Aprobar. indicativo. 3ra persona singular. El aoristo aclara que sucedió en un punto del tiempo. 
 
 #### (no hay verbo finito en la pregunta aparte de la repetición)
 
@@ -2721,17 +2807,15 @@ LEGOMEN λέγομεν — presente, activo, Índico. 1pl - decimos
 
 #### Pablo fundamenta su argumento en la cronología. La circuncisión se identifica como:
 
-##### una señal (σημεῖον, sēmeion)
+##### una señal SEMEION
 
-##### un sello (σφραγίς, sphragis)
+##### un sello SFRAGIS
 
-#### Romanos capítulo 4 no dice que la circuncisión produjera justicia.
-
-#### Afirma explícitamente que se llevó acabo **después** de que fue contado justo.
+#### Romanos capítulo 4 no dice que la circuncisión produjera justicia. Afirma explícitamente que se llevó acabo **después** de que fue contado justo.
 
 ### Romanos 4:11a *Abraham recibió la señal de la circuncisión como sello de la justicia de la fe que tenía mientras aún era incircunciso,* circuncisión era señal de algo que sucedió a Abram antes de ser circuncidado. 
 
-#### "*recibió*" ELABEN - (aoristo, activo, Índico. 3sg) - recibió
+#### "*recibió*" ELABEN - (aoristo, activo, indicativo. 3sg) - recibió
 
 ### Romanos 4:11b *para que fuera padre de todos los que creen sin ser circuncidados,*
 
@@ -2751,23 +2835,41 @@ LEGOMEN λέγομεν — presente, activo, Índico. 1pl - decimos
 
 ### Romanos 4:12c *que tenía nuestro padre Abraham cuando era incircunciso.*
 
-## Romanos 4:13-17 Promesa por la fe, no por la ley
+## Romanos 4:13-17 Promesa es por la fe, no por la ley
 
-### Romanos 4:13a *Porque la promesa a Abraham o a su descendencia de que él sería heredero del mundo,*
+### Romanos 4:13a "*Porque la promesa a Abraham o a su descendencia de que él sería heredero del mundo,*" Dios le hizo una promesa a Abraham que él y su descendiente (simiente) heredarían el mundo. 
 
-#### "*sería*" EINAI - (presente, activo, infinitivo) - ser (no hay verbo finito en la cláusula principal; implica “vino / fue dado”)
+#### Romanos 4:13 asume la promesa como conocida, identifica su contenido, y especifica los medios por los cuales opera.
 
-### Romanos 4:13b *no fue hecha por medio de la ley,*
+##### La promesa tiene su origen en Génesis (Génesis 12:1-3, 7, 13:14-17, 15:1-6, 15:18-21, 17:1-8, 18:17-19, 22:16-18, 26:3-5, 28:13-15, 35:11-12), se recuerda en la Ley (Éxodo 32:13; Levítico 26:42; Salmo 105:8-11), es invocada por los profetas (Miqueas 7:20, Isaías 41:8, 51:2), se menciona explícitamente como “promesa” en Romanos (4:13-21, 9:4-9) y Gálatas (Gálatas 3:6-18, 4:22-31).
 
-### Romanos 4:13c *sino por medio de la justicia de la fe.*
+#### Veamos unos pasajes en Hechos:
 
-### Romanos 4:14-15 consecuencia lógica
+##### Hechos 3:25 *»Ustedes son los hijos de los profetas y del pacto que Dios hizo con sus padres, al decir a Abraham: “Y EN TU SIMIENTE SERÁN BENDITAS TODAS LAS FAMILIAS DE LA TIERRA”.*
 
-### Romanos 4:14 *Porque si los que son de la ley son herederos, vana resulta la fe y anulada la promesa.*
+##### Hechos 7:2-5 *...El Dios de gloria apareció a nuestro padre Abraham...y le dijo: “SAL DE TU TIERRA Y DE TU FAMILIA, Y VE A LA TIERRA QUE YO TE MOSTRARÉ”...Dios lo trasladó a esta tierra...y sin embargo, aunque no tenía hijo, prometió que SE LA DARÍA EN POSESIÓN A ÉL Y A SU DESCENDENCIA DESPUÉS DE ÉL.*
 
-#### "*son*" EISIN - (presente, activo, Índico. 3pl) - son
+### Romanos 4:13b "*no fue hecha por medio de la ley, sino por medio de la justicia de la fe.*" La ley y la fe se consideran canales mutuamente excluyentes. 
 
-#### "*vana*" KENOTHE - (aoristo, Aprobar. Índico. 3sg) — ha sido vaciado/anulado
+Vemos una lista de contrastes que presenta Romanos: 
+
+| La ley se contrasta con   | Ejemplos de referencia           |
+| ------------------------- | -------------------------------- |
+| Fe                        | Romanos 3:27-28; Romanos 4:13-14 |
+| Gracia                    | Romanos 4:16; Romanos 6:14       |
+| Justicia aparte de la ley | Romanos 3:21                     |
+| Promesa                   | Romanos 4:13-15                  |
+| Espíritu                  | Romanos 7:6; Romanos 8:2         |
+| Vida                      | Romanos 7:10; Romanos 8:3        |
+| Llamado                   | Romanos 9:11-12                  |
+| Obras                     | Romanos 11:6                     |
+| Obediencia de la fe       | Romanos 1:5; Romanos 16:26       |
+
+### Romanos 4:14 "*Porque si los que son de la ley son herederos, vana resulta la fe y anulada la promesa.*"
+
+#### "*son*" EISIN - (presente, activo, indicativo. 3pl) - son
+
+#### "*vana*" KENOTHE - (aoristo, Aprobar. indicativo. 3sg) — ha sido vaciado/anulado
 
 #### "*anulada*" KATERYNTAI - perfecto, Indicador medio/paso. 3sg - ha sido abolido (o anulado)
 
@@ -2775,7 +2877,7 @@ LEGOMEN λέγομεν — presente, activo, Índico. 1pl - decimos
 
 #### "*produce*" KATERGAZETAI - (presente, Indicador medio/paso. 3sg) - trabaja / produce
 
-#### "*es*" ESTIN - (presente, activo, Índico. 3sg) - es
+#### "*es*" ESTIN - (presente, activo, indicativo. 3sg) - es
 
 ### Romanos 4:15b *pero donde no hay ley, tampoco hay transgresión.* La ley muestra transgresión. 
 
@@ -2783,29 +2885,29 @@ LEGOMEN λέγομεν — presente, activo, Índico. 1pl - decimos
 
 #### "*es*" EINAI - (presente, activo, infinitivo) - ser (no hay verbo finito en la construcción larga; se proporciona “es” elíptico)
 
-### Romanos 4:16b *a fin de que la promesa sea firme para toda la posteridad,*
+### Romanos 4:16b "*a fin de que la promesa sea firme para toda la posteridad,*"
 
-### Romanos 4:16c *no solo a los que son de la ley,*
+### Romanos 4:16c "*no solo a los que son de la ley,*"
 
-### Romanos 4:16d *sino también a los que son de la fe de Abraham,*
+### Romanos 4:16d "*sino también a los que son de la fe de Abraham,*"
 
-### Romanos 4:16e *quien es padre de todos nosotros.*
+### Romanos 4:16e "*quien es padre de todos nosotros.*"
 
-### Romanos 4:17a *Como está escrito: «TE HE HECHO PADRE DE MUCHAS NACIONES»,*
+### Romanos 4:17a "*Como está escrito: «TE HE HECHO PADRE DE MUCHAS NACIONES»,*"
 
 #### "*está escrito*" GEGRAPTAI  (perfecto, Indicador medio/paso. 3sg) - ha sido escrito
 
-#### "*te he hecho*" TETHEIKA - (perfecto, activo, Índico. 1sg) — Yo te he hecho
+#### "*te he hecho*" TETHEIKA - (perfecto, activo, indicativo. 1sg) — Yo te he hecho
 
-### Romanos 4:17b *delante de Aquel en quien creyó, es decir Dios,*
+### Romanos 4:17b "*delante de Aquel en quien creyó, es decir Dios,*"
 
-#### "*creyó*" EPISTEUSEN - (aoristo, activo, Índico. 3sg) - él creyó
+#### "*creyó*" EPISTEUSEN - (aoristo, activo, indicativo. 3sg) - él creyó
 
-### Romanos 4:17c *que da vida a los muertos*
+### Romanos 4:17c "*que da vida a los muertos*"
 
 #### "*da vida*" ZOOPOIOUNTOS - (presente, activo, Parte. General masc. sg) - dando vida
 
-### Romanos 4:17d *y llama a las cosas que no son, como si fueran.*
+### Romanos 4:17d "*y llama a las cosas que no son, como si fueran.*"
 
 #### "*llama*" KALAOUNTOS - (presente, activo, Parte. General masc. sg) - llamando
 
@@ -2821,27 +2923,37 @@ LEGOMEN λέγομεν — presente, activo, Índico. 1pl - decimos
 
 #### la gracia (Romanos 4:16).
 
+Gálatas 3:10 Porque todos los que son de las obras de la ley están bajo maldición, pues escrito está: «MALDITO TODO EL QUE NO PERMANECE EN TODAS LAS COSAS ESCRITAS EN EL LIBRO DE LA LEY, PARA HACERLAS».
+
+Gálatas 3:11 Y que nadie es justificado ante Dios por la ley es evidente, porque «EL JUSTO VIVIRÁ POR LA FE».
+
+Gálatas 3:12 Sin embargo, la ley no se basa en la fe. Al contrario, «EL QUE LAS HACE, VIVIRÁ POR ELLAS».
+
+Gálatas 3:13 Cristo nos redimió de la maldición de la ley, habiéndose hecho maldición por nosotros, porque escrito está: «MALDITO TODO EL QUE CUELGA DE UN MADERO»,
+
+Gálatas 3:14 a fin de que en Cristo Jesús la bendición de Abraham viniera a los gentiles, para que recibiéramos la promesa del Espíritu mediante la fe.
+
 ## Romanos 4:18-22 Fe de Abraham descrito
 
 ### Romanos 4:18a *Abraham creyó en esperanza contra esperanza,*
 
-#### "*creyó*" EPISTEUSEN (aoristo, activo, Índico. 3sg) - creído
+#### "*creyó*" EPISTEUSEN (aoristo, activo, indicativo. 3sg) - creído
 
 ### Romanos 4:18b *a fin de llegar a ser padre de muchas naciones,*
 
 #### "*llegar*" GENESTHAI (aoristo, Medio. infinitivo) - convertirse
 
-#### "*ser*" ESTAI (futuro, Medio. Índico. 3sg) - será
+#### "*ser*" ESTAI (futuro, Medio. indicativo. 3sg) - será
 
 ### Romanos 4:18c *conforme a lo que se le había dicho: «ASÍ SERÁ TU DESCENDENCIA».*
 
-#### "*se le había dicho*" ERRETHE (aoristo, Aprobar. Índico. 3sg) - fue hablado
+#### "*se le había dicho*" ERRETHE (aoristo, Aprobar. indicativo. 3sg) - fue hablado
 
 ### Romanos 4:19a *Y sin debilitarse en la fe contempló su propio cuerpo,*
 
 #### "*sin debilitarse*" ESTHENESAS (aoristo, activo, Parte. Nom. masc. sg)—no haber debilitado
 
-#### "*contempló*" KATENOESEN (aoristo, activo, Índico. 3sg) - consideró (dependiendo de la variante: algunos dicen “οὐ κατενόησεν”)
+#### "*contempló*" KATENOESEN (aoristo, activo, indicativo. 3sg) - consideró (dependiendo de la variante: algunos dicen “οὐ κατενόησεν”)
 
 ### Romanos 4:19b *que ya estaba como muerto puesto que tenía como cien años,*
 
@@ -2849,11 +2961,11 @@ LEGOMEN λέγομεν — presente, activo, Índico. 1pl - decimos
 
 ### Romanos 4:20a *Sin embargo, respecto a la promesa de Dios, Abraham no titubeó con incredulidad,*
 
-#### "*titubeó*" DIEKRITHE (aoristo, Aprobar. Índico. 3sg) - asombrado / dudado
+#### "*titubeó*" DIEKRITHE (aoristo, Aprobar. indicativo. 3sg) - asombrado / dudado
 
 ### Romanos 4:20b *sino que se fortaleció en fe, dando gloria a Dios,*
 
-#### "*se fortaleció*" ENEDUNAMOTHE (aoristo, Aprobar. Índico. 3sg) — fue fortalecido
+#### "*se fortaleció*" ENEDUNAMOTHE (aoristo, Aprobar. indicativo. 3sg) — fue fortalecido
 
 #### "*dando*" DOUS (aoristo, activo, Parte. Nom. masc. sg) - dando
 
@@ -2869,11 +2981,11 @@ LEGOMEN λέγομεν — presente, activo, Índico. 1pl - decimos
 
 ### Romanos 4:21c *poderoso era también para cumplirlo.*
 
-#### "*era*" ESTIN ἐστίν (ἀγαθὸς) — presente, activo, Índico. 3sg (implícito con "capaz")
+#### "*era*" ESTIN ἐστίν (ἀγαθὸς) — presente, activo, indicativo. 3sg (implícito con "capaz")
 
 ### Romanos 4:22 *Por lo cual también su fe LE FUE CONTADA POR JUSTICIA.*
 
-#### "*fue*" contada ELOGISTHE (aoristo, Aprobar. Índico. 3sg) - fue contado
+#### "*fue*" contada ELOGISTHE (aoristo, Aprobar. indicativo. 3sg) - fue contado
 
 #### La condición física de Abraham no se minimiza.
 
@@ -2889,13 +3001,13 @@ LEGOMEN λέγομεν — presente, activo, Índico. 1pl - decimos
 
 ### Romanos 4:23 *Y no solo por él fue escrito que le fue contada,*
 
-#### "*fue escrito*" EGRAFE (aoristo, Aprobar. Índico. 3sg) — fue escrito
+#### "*fue escrito*" EGRAFE (aoristo, Aprobar. indicativo. 3sg) — fue escrito
 
-#### ELOGISTHE (aoristo, Aprobar. Índico. 3sg) (referencia repetida)
+#### ELOGISTHE (aoristo, Aprobar. indicativo. 3sg) (referencia repetida)
 
 ### Romanos 4:24a *sino también por nosotros, a quienes será contada,*
 
-#### "*será*" MELLEI (presente, activo, Índico. 3sg) - está a punto de / lo hará
+#### "*será*" MELLEI (presente, activo, indicativo. 3sg) - está a punto de / lo hará
 
 #### "*contada*" LOGIZESTHAI (presente, Medio/Pase infinitivo) - contar
 
@@ -2907,11 +3019,11 @@ LEGOMEN λέγομεν — presente, activo, Índico. 1pl - decimos
 
 ### Romanos 4:25a *que fue entregado por causa de nuestras transgresiones*
 
-#### "*fue entregado*" PAREDOTHE (aoristo, Aprobar. Índico. 3sg) - fue entregado
+#### "*fue entregado*" PAREDOTHE (aoristo, Aprobar. indicativo. 3sg) - fue entregado
 
 ### Romanos 4:25b *y resucitado para nuestra justificación.*
 
-#### "*resucitado*" EGERTHE (aoristo, Aprobar. Índico. 3sg) — fue levantado
+#### "*resucitado*" EGERTHE (aoristo, Aprobar. indicativo. 3sg) — fue levantado
 
 #### Pablo marca explícitamente una extensión textual.
 
@@ -4701,13 +4813,59 @@ El sufrimiento es presente. El sufrir no es por sufrir sino para gustar de lo qu
 
 ## Romanos 8:28-30: Propósito eterno de Dios
 
-### Romanos 8:28a "*Y sabemos que para los que aman a Dios,*"
+### Consiste en una afirmación en el presente, respaldada por una cadena explicativa en pasado y asegurado para el futuro. Utiliza aoristos de indicativo ininterrumpidos, con Dios como único agente. Mantiene la continuidad referencial a lo largo de todo el texto. Y se estructura gramaticalmente como una explicación, no como una apelación o condición.
 
-### Romanos 8:28b "*todas las cosas cooperan para bien,*"
+### Romanos 8:28a "*Y sabemos*" Existen ciertas cosas que cierto grupo de personas puede saber. No saber en el sentido de información, sino saber en el sentido de certeza segura. 
 
-### Romanos 8:28c *esto es, para los que son llamados conforme a Su propósito.*
+#### Lo conocido se presenta como una realidad continua, no como una promesa futura.
 
-### Romanos 8:29a *Porque a los que de antemano conoció,*
+###  Romanos 8:28b "*sabemos...que para los que aman a Dios,*" El autor, Pablo, se incluye en este grupo. ¿Quienes son los que aman a Dios? 
+
+#### Ya que Pablo tampoco amaba perfectamente a Dios, no esta describiendo un grupo de cristianos élite que han alcanzado amar a Dios a la perfección. 
+
+#### Esta expresión, "*los que aman a Dios*" se menciona multiples veces en el Antiguo Testamento. Por ejemplo, Exodo 20:6 y Deuteronomio 7:9, 5:10 y Nehemías 1:5 usan esta frase para referirse a creyentes. La misma frase aparece tres veces en el Nuevo Testamento (Romanos 8:28; 1 Corintios 2:9; Santiago 1:12). Funciona para identificar o describir a un grupo de personas, los creyentes. Todo creyente esta incluido en la descripción "los que aman a Dios". 
+
+### Romanos 8:28b "*todas las cosas cooperan para bien,*" describe una acción continua, no un evento completado en el presente. Este pasaje afirma seguridad presente.
+
+#### Las cosas que cooperan para bien no son identificadas aquí porque ya fueron mencionadas varias "cosas" previamente:
+
+##### Sufrimientos. Romanos 8:18
+
+##### La condición de la creación. Romanos 8:19–22
+
+##### Estado corporal de los creyentes. Romanos 8:23
+
+##### Esperanza y espera. Romanos 8:24–25
+
+##### Debilidad. Romanos 8:26
+
+##### La intercesión del Espíritu. Romanos 8:27
+
+#### Estos puntos ya se mencionan cuando se menciona “todas las cosas”. No se reiteran ni se limitan en el versículo 28. 
+
+#### Sin embargo, la frase enfatiza la dirección de la cooperación no las cosas que son incluidas. Todas las cosas cooperan "para bien". Y bien es definido por Dios dentro de sus propósitos. 
+
+#### En los versículos veremos más acerca de "todas las cosas" y el bien provisto por Dios. 
+
+### Romanos 8:28c *esto es, para los que son llamados conforme a Su propósito.* 
+
+#### Todas las cosas cooperan para bien para los que aman a Dios, los que son llamados conforme a Su propósito.  Dos descripciones del mismo grupo de personas. 
+
+#### "los que aman a Dios" (presente, activo, participio) expresa acción humana hacia Dios. Dios ha llamado (pasivo) al creyente para Su propósito. Esto expresa acción divina para con el hombre. Dos descripciones de dos direcciones relacionales opuestas son usadas para describir la identidad de estas personas. 
+
+#### Son dos descripciones diferentes pero no hay ninguna contradicción. La explicación del llamado vendrá en los siguientes versículos. 
+
+#### ¿Cuál es el propósito de Dios? 
+
+#### Como veremos a continuación, todas las cosas, no es meramente las del presente, sino incluye todas las cosas en el pasado, el presente y el porvenir. 
+
+#### En versículos 29 y 30 veremos una cadena sin interrupción. No hay ninguna cosa que puede influir o frustrar esta cadena. 
+
+#### La gramática presenta esta secuencia para verse como un entero. Todos los verbos están en aoristo lo que nos hace ver que la gramática los presenta como un hecho consumado. 
+
+#### Sabemos que todo coopera para bien, ¿Pero, como estar seguro que esto es real? 
+
+### Romanos 8:29a *Porque a los que de antemano conoció,* "porque" abre la puerta para explicar lo que dijo previamente en el versículo 28. 
 
 ### Romanos 8:29b *también los predestinó a ser hechos conforme a la imagen de Su Hijo,*
 
