@@ -2494,31 +2494,63 @@ Ciclo 5: 4:1–6
 
 ##### Lo que se ve amenazado es la confianza en Dios. El corazón tiene la habilidad de condenar.
 
-##### La evidencia observable se ve en obediencia, amor, y el Espíritu que confirma la permanencia.
+##### La evidencia observable se ve en fe y amor, y el Espíritu que confirma la permanencia. 1 Tesalonicenses 1:3
 
-##### Propósito de esta sección es proporcionar al creyente criterios para distinguir lo que es de Dios en la comunidad y en la vida personal.
+##### Una nota sobre la fe y el amor que menciona Juan:
+
+###### Romanos 1:8 “*Porque vuestra **fe** se predica en todo el mundo, y vuestro **amor** es para con todos los santos.*” El amor se dirige explícitamente a los demás creyentes y se observa en las relaciones.
+
+###### Trabajo de amor → acción práctica y continua
+
+###### Observablemente, el amor es una obra que acompaña a la fe, no un mero sentimiento.
+
+###### 2 Tesalonicenses 1:3 “*Siempre debemos dar gracias a Dios por vosotros, hermanos, como es justo, porque vuestra **fe** crece abundantemente y el **amor** de todos y cada uno de vosotros abunda para con los demás.*”
+
+###### La fe y el amor se observan mutuamente en el crecimiento y la acción.
+
+##### El propósito de esta sección es proporcionar al creyente criterios para distinguir lo que es de Dios en la vida personal.
 
 ##### Textualmente, conecta la autoevaluación interna con la confirmación externa, haciendo que el discernimiento sea práctico y observable dentro del marco general de la carta para distinguir lo que es de Dios.
 
 ### 1 Juan 3:19a – "*En esto sabremos*" La amenza es la duda que proviene del corazón que nos condena. La duda es esencialmente estar de mente dividida y con indecisión. 
 
-#### La confianza "*sabremos*" (presente, activo, subjuntivo) se basa en el amor práctico y verdadero presentado en 3:18. Indica conocimiento potencial o continuo, no un hecho consumado. Dicho de otra manera: Podemos saber o llegar a saber basándonos en la acción observable del amor.
+#### La confianza "*sabremos*" (presente, activo, subjuntivo) se basa en el amor práctico y verdadero presentado en 3:18. Indica conocimiento potencial o continuo, no un hecho consumado. Dicho de otra manera: Podemos ir sabiendo basándonos en la acción observable del amor.
 
 ### 1 Juan 3:19b "*En esto sabremos...que somos de la verdad* “Esto” se refiere a la práctica del amor activo y verdadero (3:18), que es el criterio observable por el cual sabemos que somos de la verdad. 
 
-#### Observablemente, el estado de ser de la verdad es un hecho y no esta en duda, mientras que el conocimiento es potencial/contingente al marcador observable (amor práctico). 
+#### El estado de ser de la verdad es algo observable, mientras que el conocimiento es potencial/contingente al marcador observable (amor práctico). 
 
-#### Es decir, podremos saber, salir de la incertidumbre, de que somos de la verdad. 
+#### Entonces, podremos saber, salir de la incertidumbre, de que somos de la verdad. Esto confirma la fuente es Dios, somo nacidos de la verdad. Esto se refiere a lo que somos, no lo que hacemos. 
 
 ### 1 Juan 3:19c *...y aseguraremos nuestros corazones delante de Él*" El resultado (aseguraremos). Nuestros corazones tendrán mayor confianza. La confianza surge del conocimiento anclado en el amor observable. 
 
-#### Nuestros corazones son hechos más confiados en Él. 
+#### Los creyentes dirigen activamente sus corazones hacia Dios, no esperando pasivamente sentimientos o confirmación y como consequencia sus corazones son hechos más confiados en Él. 
 
-#### El versículo mantiene una cuidadosa distinción entre el conocimiento potencial, el estado real y la seguridad resultante.
+#### El versículo mantiene una cuidadosa distinción entre el conocimiento potencial, el estado real y la seguridad resultante, no deben ser confundidos.
 
-### 1 Juan 3:20a "*en cualquier cosa que nuestro corazón nos condene.*" Nuestro corazón puede tratar de ahogarnos en culpa. Si, nuestro corazón nos puede condenar, pero veremos que el poder de hacer sentir culpa. 
+### 1 Juan 3:20a "*en cualquier cosa que nuestro corazón nos condene.*" Nuestro corazón puede tratar de ahogarnos en culpa. 
+
+##### No haces suficiente...eres un pobre cristiano (culpa)
+
+##### No compartes el evangelio a tu vecino/pariente/amigo (culpa)
+
+##### ¿Por qué no pasas más tiempo en la Palabra? (culpa)
+
+##### Tienes que orar, solo oras unos minutos (culpa)
+
+##### No conoces mucho de la Biblia (culpa)
+
+##### Te falta memorizar más versículos (culpa)
+
+##### Hiciste promesas a principio de año, ¿los has cumplido todos? (culpa)
+
+##### ¿Das por lo menos 10% de tus ingresos al Señor? (culpa)
+
+#### Si, nuestro corazón nos puede condenar, pero veremos que el poder de hacer sentir culpa que tiene el corazón es inferior a la confianza que Dios nos puede dar. 
 
 #### "*condene*" KATAGINOSKO conocer y condenar v. — conocer u observar una mala acción con desaprobación o condena.[^1]
+
+#### La gramática hace entender que la condenación que proviene del corazón es de esperarse. 
 
 ##### Jeremías 17:9 "*»Más engañoso que todo es el corazón, Y sin remedio; ¿Quién lo comprenderá?*" Este versículo nos explica que el corazón es moralmente malo, no solo haciendo sentir culpa. El corazón es corrupto. 
 

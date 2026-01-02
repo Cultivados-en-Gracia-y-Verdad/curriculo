@@ -4847,11 +4847,11 @@ El sufrimiento es presente. El sufrir no es por sufrir sino para gustar de lo qu
 
 #### En los versículos veremos más acerca de "todas las cosas" y el bien provisto por Dios. 
 
-### Romanos 8:28c *esto es, para los que son llamados conforme a Su propósito.* 
+### Romanos 8:28c *esto es, para los que son llamados conforme a Su propósito.* Todas las cosas cooperan para bien para los que son llamados por Dios conforme a Su propósito. 
 
 #### Todas las cosas cooperan para bien para los que aman a Dios, los que son llamados conforme a Su propósito.  Dos descripciones del mismo grupo de personas. 
 
-#### "los que aman a Dios" (presente, activo, participio) expresa acción humana hacia Dios. Dios ha llamado (pasivo) al creyente para Su propósito. Esto expresa acción divina para con el hombre. Dos descripciones de dos direcciones relacionales opuestas son usadas para describir la identidad de estas personas. 
+#### "*los que aman a Dios*" (presente, activo, participio) expresa acción humana hacia Dios. Ahora vemos "*los que son llamados*" (pasivo) al creyente para el propósito de Dios. Esto expresa acción divina para con el hombre. Dos descripciones de dos direcciones opuestas son usadas para describir la identidad de estas personas. 
 
 #### Son dos descripciones diferentes pero no hay ninguna contradicción. La explicación del llamado vendrá en los siguientes versículos. 
 
@@ -4865,17 +4865,146 @@ El sufrimiento es presente. El sufrir no es por sufrir sino para gustar de lo qu
 
 #### Sabemos que todo coopera para bien, ¿Pero, como estar seguro que esto es real? 
 
-### Romanos 8:29a *Porque a los que de antemano conoció,* "porque" abre la puerta para explicar lo que dijo previamente en el versículo 28. 
+### Romanos 8:29a *Porque* "porque" abre la puerta para explicar lo que dijo previamente en el versículo 28.  Veremos a continuación como sucedió con el llamado y como es para Su propósito. 
 
-### Romanos 8:29b *también los predestinó a ser hechos conforme a la imagen de Su Hijo,*
+###  Romanos 8:29b "...*a los que de antemano conoció,*" La explicación del porque empieza con el conocimiento previo de Dios. 
 
-### Romanos 8:29c *para que Él sea el primogénito entre muchos hermanos.*
+#### La Biblia enseña: 
 
-### Romanos 8:30a *A los que predestinó, a esos también llamó.*
+##### Dios es todopoderoso. Apocalipsis 1:8; Génesis 17:1; Éxodo 6:3
 
-### Romanos 8:30b *A los que llamó, a esos también justificó.*
+##### Dios conoce todas las cosas. 1 Juan 3:20; 1 Samuel 2:3; Salmo 44:21, 147:5; Proverbios 15:3
 
-### Romanos 8:30c *A los que justificó, a esos también glorificó.*
+###### Isaías 42:9 "*Las cosas anteriores ya se han cumplido, Y Yo anuncio cosas nuevas; **Antes que sucedan, se las anuncio**».*" Dios no solo conoce todas las cosas, el las anuncia antes que sucedan. 
+
+###### Salmo 139:4 "*Aun antes de que haya palabra en mi boca, Oh SEÑOR, **Tú ya la sabes toda**.*" Dios sabe que vamos a decir antes de decirlo. 
+
+#### Entonces, concluimos que Dios conoce todo de todo antes de que sucede. Antes de crear el mundo, Dios ya conocía todo. 
+
+#### Vemos sin embargo que no menciona el conocimiento previo de Dios sin objeto. El objeto de su conocimiento que menciona este pasaje es "*a los*". Se trata del conocimiento previo de personas. No se nos dice como los conoció pero que los conoció. 
+
+##### ¿A quienes conoció Dios de antemano? 
+
+###### Romanos 11:2 menciona la presciencia de Dios de Su pueblo, Israel. 
+
+###### 1 Pedro 1:20 habla de la presciencia de Dios sobre Jesucristo. Hechos 2:23
+
+###### Jeremías 1:5 cita a Dios haciendolo saber a Jeremías que había sido conocido como individuo antes de nacer. 
+
+#### No vemos que las Escrituras nos dicen explícitamente "quienes" fueron conocidos por Dios de antemano. Sin embargo existen muchos versículos que muestran implicitamente que se refiere a creyentes. 
+
+##### Abraham, el padre de la fe fue conocido por Él y el conocimiento de el precede sus propósitos (en este caso de mandar a sus hijos y su casa). Génesis 18:19
+
+##### Moises es dicho por Dios que era conocido por su nombre y que había encontrado favor en sus ojos. Éxodo 33:17
+
+##### En Mateo 7:23, Jesus dijo que la respuesta (a lo que confian en sus obras y no en Él) es, que un día les declararía que nunca les había conocido (por implicación en la enternidad pasada).
+
+##### No hay pasajes bíblicos que dicen que Dios conoció de antemano a los que creen. Lo que si dice es que conocer a Dios (que viene al creer) y uno que conoce a Dios es conocido por Dios. Gálatas 4:9, 1 Corintios 8:3. 
+
+##### 2 Timoteo 2:19 dice que el Señor conoce a los suyos. 
+
+##### Observación léxica y gramatical:  “*saber de antemano*” PROGINOSKO y "*presciencia*" PROGINOSIS se basan en "*saber*" GINOSKO con el prefijo "*antes*" PRO. La fuerza de la palabra es conocer, no es decidir o designar, causar ni ejecutar. 
+
+###### En otras palabras, decir que Dios conoció algo no es lo mismo que decir Dios causó algo. 
+
+#### Concluimos entonces, que Dios conoció de antemano a todos quienes serian los que creen en Jesucristo como su único y suficiente salvador pero no causó que sucediera. 
+
+##### Lo que si vemos claramente que Dios causó es los siguientes eslabones y todas y cada una de ellas fueron hechas en base a su previo conocimiento.
+
+### Romanos 8:29b *también los predestinó a ser hechos conforme a la imagen de Su Hijo,* a los que Dios conocio de antemano, también los predestinó para ser hechos similar en esencia o naturaleza representativa a Cristo. 
+
+#### Se usan dos verbos aoristos distintos:
+
+##### “*él conoció de antemano*” PROEGINOSKO y "el *predestinó*" PROORIZO son unidos por "*también*" KAI pero no se fusionan como un solo verbo. Entonces, conocer de antemano no es igual que predestinar. 
+
+##### "*predestinó*" PROORIZO es determinar algo con antelación o antes de que ocurra.[^1]
+
+##### Si conocer de antemano ya significara preordenar, el segundo verbo sería redundante, pero el Texto no lo trata como tal.
+
+#### En base a Su conocimiento previo, Dios predestinó (a ellos) a ser conformados a la imagen de Cristo. 
+
+#### ¿Que fué predestinado? 
+
+##### Conocimiento: 1 Corintios 2:7 “*que Dios predestinó* PROORIZO *antes de los siglos para nuestra gloria*.”
+
+##### Adopción: Efesios 1:5 “*nos predestinó* PROORIZO *para ser adoptados hijos suyos*.” Efesios 1:11
+
+##### La cruz: Hechos 4:27-28 “*había predestinado que sucediera*”
+
+##### Cristo: Hechos 2:23 “*fue predestinado según plan definido y previo conocimiento de Dios*”
+
+##### Ningún otro pasaje habla de predestinación.
+
+##### La predestinación no fue una acción aleatoria de Dios. La acción de Dios no fue en ignorancia o sin tomar nada en cuenta, era en base a su previo conocimiento. 
+
+### Romanos 8:29c "*...para que Él sea el primogénito entre muchos hermanos.*" "*para*" no muestra que el propósito de Dios es relacionado a la primogenitura de Su hijo. 
+
+#### El término "*primogenito*" señala consistentemente prioridad o preeminencia dentro de un grupo definido, no necesariamente origen cronológico en sentido absoluto. En este caso, Él seria el preeminente or primero entre los que Dios conoció de antemano. 
+
+### Romanos 8:30a *A los que predestinó, a esos también llamó.* los que conoció de antemano que predestinó, también los llamó. 
+
+#### Los mismos que conoció, también los predestinó y esos mismos fuerón llamados. 
+
+#### Es interesante observar que los llamados siempre se refiere a los creyentes. 
+
+### Romanos 8:30b *A los que llamó, a esos también justificó.* los que fueron llamados por Dios también fueron justificados. Dios hizo la obra de predestinarlos, llamarlos y luego justificarlos. 
+
+#### El hombre no participó en ninguno de estos eslabones. No fueron accionados por el hombre. Fue completamente orchestrado por Dios en base a su previo conocimiento. 
+
+### Romanos 8:30c *A los que justificó, a esos también glorificó.* la última etapa es la glorificación. Desde nuestra perspectiva esto todavía no nos ha sucedido pero desde la perspectiva divina ya es un hecho completado.
+
+#### El grupo de personas que Dios conoció de antemano por último llegan a ser glorificados. Esto es obra completa de Dios y la conducta del hombre no llega a interferer de la más minima manera. 
+
+#### La glorificación es la última fase de nuestra salvación. Esto sucede cuando seamos raptados y recibiremos la redención de nuestros cuerpos. Es cuando serémos libres de la presencia del pecado. 
+
+#### En 1 Pedro 1:5 "*Mediante la fe ustedes son protegidos por el poder de Dios, para la salvación que está preparada para ser revelada en el último tiempo.*" Somos guardados en el presente (por el poder de Dios) mediante la fe. La fe es el agente no el medio por el cual somos guardados en el presente. 
+
+##### Una posible interpretatión de esto es:  “Dios actúa según el conocimiento previo de nuestra fe… por lo tanto, somos guardados por la fe… por lo tanto, Dios predestina, llama, justifica y glorifica…”
+
+##### Esta interpretación mantiene en alto lo que las Escrituras enseñan y correlaciona la presciencia divina con la fe humana y a la vez la preservación divina.  Esto proporciona una explicación causal, armoniza múltiples pasajes en un marco unificado. 
+
+#### Los tres tiempos de nuestra salvación
+
+```pgsql
+─────────────────────────────────────────────────────────────────────
+                               TIEMPO
+─────────────────────────────────────────────────────────────────────
+
+    PASADO                    PRESENTE                           FUTURO
+      │                           │                                │
+      │                           │                                │
+      │                           │                                │
+      ▼                           ▼                                ▼
+
+ JUSTIFICACION                VIDA AHORA                     GLORIFICACION
+(Estado establicido)      (Estado experimentado)          (Estado revelado)
+
+• declarado justos         • caminar por fe              • conformado a Cristo
+• reconciliados            • obediencia / lucha          • sin presencia pecado
+• no condenación           • crecimiento / maduréz       • redención completa
+• una-sola-vez-por-todos   • No cambia el estatus        • irreversible
+                           • varía en grados
+
+──────────────────────────────────────────────────────┐
+                                                      │
+        ESTE ESTATUS ES LA BASE                       │
+        SOBRE AMBOS:                                  │
+                                                      │
+        • LA VIDA ES VIVIDA  ◀────────────────────────┤
+        • LA ESPERANZA SE MANTIENE  ──────────────────┘
+                                   │
+                                    ─────────────────────────────────┐
+                                                                     ▼
+
+                                                    GLORIOSA ESPERANZA (PRESENTE)
+                                                     • esperada, no poseida
+                                                     • certero, no especulativo
+                                                     • fundado en la justificación
+                                                     • dirigido a la glorificación
+
+```
+
+La justificación establece el estatus en el que se vive la vida y se mantiene la esperanza, hasta que ese estatus se revela finalmente en la glorificación.
 
 ## En Síntesis (8:28-30)
 
@@ -5027,7 +5156,34 @@ El sufrimiento es presente. El sufrir no es por sufrir sino para gustar de lo qu
 
 ##### Altura y profundidad (8:39)
 
-# Bibliografía
+
+
+# APÉNDICE
+
+los tres tiempos de la salvación
+
+| Fase de Salvación | Orientación Temporal    | Término Central (Orientado al Estatus) | Sentido Verbal Dominante | Qué Cambia                       | Lenguaje Típico de Romanos                                   |
+| ----------------- | ----------------------- | -------------------------------------- | ------------------------ | -------------------------------- | ------------------------------------------------------------ |
+| **Pasado**        | Completado en el pasado | **Establecido**                        | Aoristo / Perfecto       | **Estatus ante Dios**            | *justificado*, *reconciliado*, *liberado de la condenación*  |
+| **Presente**      | En curso                | **Expresado**                          | Presente / Imperativo    | **Vida vivida bajo ese estatus** | *caminando*, *sirviendo*, *presentando*, *conduciendo a la santificación* |
+| **Futuro**        | Esperado                | **Consumado**                          | Futuro                   | **Estado plenamente realizado**  | *será salvo*, *glorificado*, *adopción revelada*             |
+
+| Estatus                            | Madurez                                            |
+| ---------------------------------- | -------------------------------------------------- |
+| ¿Como es considerado esta persona? | ¿Qué esta pasando a lo largo del tiempo?           |
+| ¿Qué es lo cierto?                 | ¿Qué está sucediendo?                              |
+| Habiendo sido justificados...      | sean transformados                                 |
+| hemos sido santificados            | estamos siendo transformados                       |
+| nos transfirió                     | podamos crecer                                     |
+| somos                              | Prosigo...                                         |
+| identidad                          | madurez                                            |
+| estatus es asegurado               | madurez es descrito                                |
+| declarado                          | experimentado                                      |
+| enfatiza pertenencia               | describe crecimiento, aprendizaje y transformación |
+
+___-___
+
+# BIBLIOGRAFÍA
 
 [^1]: Bible Sense Lexicon
 [^2]: John D. Barry et al., The Faithful Study Bible (Bellingham, WA: Lexham Press, 2012, 2016), Ro 1:9
