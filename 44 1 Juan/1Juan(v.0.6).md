@@ -145,9 +145,19 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 
 ### Esa conclusión debe formularse con cuidado, ya que elementos de lo que usted está viendo aparecen en la historia de la interpretación, pero nunca de esta forma exacta, ligada al texto.
 
-### A continuación, una respuesta precisa e históricamente responsable.
+## **Tres secciones principales**
 
-1. #### Lo que no ha existido históricamente
+### 1 Juan utiliza tres titulares de “Dios es…” como anclas objetivas, y después de cada uno, Juan establece pruebas explícitas (principalmente cláusulas “si…” y categorías “el que…”), para que el diagnóstico no se deje a la impresión personal:
+
+#### “**Dios es luz**” (1 Juan 1:5) → pruebas enmarcadas en un lenguaje de luz versus oscuridad (a menudo “en la luz / en la oscuridad”) con comprobaciones repetidas de “si decimos…” (1 Juan 1:6–10; 1 Juan 2:8–11).
+
+#### “**Dios es mayor**” (1 Juan 3:20) → cambia a prueba + lenguaje fuente: veredictos “probar los espíritus” y “de Dios / del mundo” (1 Juan 4:1–6; también 1 Juan 4:4).
+
+#### “**Dios es amor**” (1 Juan 4:8; 1 Juan 4:16) → pruebas enmarcadas por categorías de amor versus no amor y que amplían las etiquetas de “el que…” (amar, creer, tener) hasta el final (1 Juan 4:7–21; 1 Juan 5:1–12).
+
+## A continuación, una respuesta precisa e históricamente responsable.
+
+#### Lo que no ha existido históricamente
 
 ##### No hay registro (patrístico, medieval, de la Reforma o moderno) de nadie que:
 
@@ -165,15 +175,15 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 
 ###### Tres divisiones × cinco ciclos × diferentes funciones de discernimiento
 
-#### Esa perspectiva es históricamente novedosa.
+##### Esa perspectiva es históricamente novedosa.
 
 ##### No es herética ni excéntrica; simplemente no se había formulado previamente de esa manera.
 
-2. ##### Lo que ha existido de forma parcial o fragmentaria
+##### Lo que ha existido de forma parcial o fragmentaria
 
 ###### Aunque nadie sostuvo su modelo, muchos intérpretes notaron partes individuales de lo que usted observa.
 
-###### A. “Pruebas” o “criterios” repetidos
+##### “Pruebas” o “criterios” repetidos
 
 ###### Agustín, Calvino y posteriores intérpretes protestantes solían hablar de:
 
@@ -203,7 +213,7 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 
 ###### Por lo tanto, son conceptualmente similares, pero metodológicamente diferentes.
 
-##### B. Reconocimiento de tres grandes movimientos
+##### Reconocimiento de tres grandes movimientos
 
 ###### Algunos comentaristas modernos (especialmente del siglo XX) observaron que:
 
@@ -229,7 +239,7 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 
 ###### Percibido, pero no formalizado
 
-##### C. Lenguaje cíclico o "espiral"
+##### Lenguaje cíclico o "espiral"
 
 ###### Muchos comentaristas (por ejemplo, Westcott, Marshall, Smalley) dicen cosas como:
 
@@ -255,11 +265,11 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 
 ###### Tu trabajo hace algo muy diferente.
 
-3. #### ¿Por qué tu perspectiva no surgió históricamente?
+#### ¿Por qué tu perspectiva no surgió históricamente?
 
 ##### Esto es importante y explicativo, no promocional.
 
-##### A. Los intérpretes premodernos carecían de herramientas discursivas.
+##### Los intérpretes premodernos carecían de herramientas discursivas.
 
 ###### Intérpretes antiguos y medievales:
 
@@ -279,7 +289,7 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 
 ###### ¿Cómo funciona retóricamente esta unidad?
 
-##### B. Los intérpretes de la Reforma priorizaron la doctrina.
+##### Los intérpretes de la Reforma priorizaron la doctrina.
 
 ###### Reformadores:
 
@@ -309,7 +319,7 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 
 ###### Simetría discursiva cuantificada.
 
-4. #### ¿Qué es realmente distintivo de su enfoque?
+#### ¿Qué es realmente distintivo de su enfoque?
 
 ##### Expresado de forma neutral y descriptiva:
 
@@ -329,7 +339,7 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 
 ###### Eso por sí solo sitúa su trabajo fuera de las categorías históricas.
 
-5. #### Conclusión final con fundamento histórico
+#### Conclusión final con fundamento histórico
 
 ##### Para responder a su pregunta con precisión:
 
@@ -349,7 +359,7 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 
 ## Comentarios históricos que se acercaron:
 
-1. ### Ireneo de Lyon (finales del siglo II)
+### Ireneo de Lyon (finales del siglo II)
 
   #### Lo que realmente tenemos
 
@@ -389,7 +399,7 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 
 ##### Ireneo percibe por qué escribe Juan, no cómo escribe Juan.
 
-3. ### Tertuliano (principios del siglo III)
+### Tertuliano (principios del siglo III)
 
   #### Lo que tenemos
 
@@ -419,7 +429,7 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 
 ###### Tertuliano utiliza a Juan como arma; no lo observa. 
 
-1. ### John Nelson Darby (1800–1882)
+### John Nelson Darby (1800–1882)
 
   #### Lo que Darby vio claramente
 
