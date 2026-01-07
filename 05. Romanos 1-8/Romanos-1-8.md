@@ -2490,7 +2490,7 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 #### Los tres tiempos de nuestra salvación
 
-![tres fases](/Users/johnwry/Nextcloud/Documents/GitHub/curriculo/03. Romanos 1-8/tres fases.png)
+![tres fases](https://raw.githubusercontent.com/Cultivados-en-Gracia-y-Verdad/curriculo/9a19b4ea77839f2d5933dabdc1e4dac4c164fe1c/03.%20Romanos%201-8/tres%20fases.png)
 
 ## En Síntesis (3:21-26)
 
@@ -4129,7 +4129,7 @@ demuestra SUNISTESIN (presente, indicativo)
 
 #### Los tres tiempos de nuestra salvación
 
-![tres fases](/Users/johnwry/Nextcloud/Documents/GitHub/curriculo/03. Romanos 1-8/tres fases.png)
+![tres fases](https://raw.githubusercontent.com/Cultivados-en-Gracia-y-Verdad/curriculo/9a19b4ea77839f2d5933dabdc1e4dac4c164fe1c/03.%20Romanos%201-8/tres%20fases.png)
 
 ## En Síntesis (6:1-10)
 
@@ -5497,7 +5497,7 @@ El contraste cambia de **conflicto interno** a **estado resultante**.
 
 #### Los tres tiempos de nuestra salvación
 
-![tres fases](/Users/johnwry/Nextcloud/Documents/GitHub/curriculo/03. Romanos 1-8/tres fases.png)
+![tres fases](https://raw.githubusercontent.com/Cultivados-en-Gracia-y-Verdad/curriculo/9a19b4ea77839f2d5933dabdc1e4dac4c164fe1c/03.%20Romanos%201-8/tres%20fases.png)
 
 La justificación establece el estatus en el que se vive la vida y se mantiene la esperanza, hasta que ese estatus se revela finalmente en la glorificación.
 
@@ -5730,7 +5730,7 @@ los tres tiempos de la salvación
 | **Presente**      | En curso                | **Expresado**                          | Presente / Imperativo    | **Vida vivida bajo ese estatus** | *caminando*, *sirviendo*, *presentando*, *conduciendo a la santificación* |
 | **Futuro**        | Esperado                | **Consumado**                          | Futuro                   | **Estado plenamente realizado**  | *será salvo*, *glorificado*, *adopción revelada*             |
 
-![tres fases](/Users/johnwry/Nextcloud/Documents/GitHub/curriculo/03. Romanos 1-8/tres fases.png)
+![tres fases](https://raw.githubusercontent.com/Cultivados-en-Gracia-y-Verdad/curriculo/9a19b4ea77839f2d5933dabdc1e4dac4c164fe1c/03.%20Romanos%201-8/tres%20fases.png)
 
 | Estatus                            | Madurez                                            |
 | :--------------------------------- | -------------------------------------------------- |
