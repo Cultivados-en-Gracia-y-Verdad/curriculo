@@ -42,62 +42,6 @@ Title: Romanos 1-8
 
 ### Al completar Romanos 1–8 usando este manual, el estudiante debería ser capaz de seguir el argumento completo de Pablo, reconocer cambios gramaticales significativos, distinguir entre afirmaciones textuales e inferencias, y leer Romanos con mayor precisión, paciencia y fidelidad al texto.
 
-# INTRODUCCIÓN
-
-La Carta a los Romanos, el sexto libro del Nuevo Testamento, es el más extenso y doctrinalmente significativo de los escritos del apóstol Pablo. Probablemente compuesto en Corinto alrededor del año 57d.C., estaba dirigido a la iglesia cristiana en Roma, y Pablo esperaba visitarlos en su camino a España.[^3]
-
-## Sobre el Autor
-
-### Aunque se desconoce la fecha exacta de su nacimiento, Pablo estuvo activo como misionero en los años 40 y 50 del siglo 1 d.C. De esto se puede inferir que nació aproximadamente al mismo tiempo que Jesús o un poco después. Se convirtió a la fe en Jesucristo alrededor del año 33 d.C.. Murió, probablemente en Roma, alrededor del año 62-64 d.C.[^4]
-
-### Pablo era un judío de habla griega procedente de Asia Menor. Su lugar de nacimiento, Tarso, era una ciudad importante en el este de Cilicia, una región que había pasado a formar parte de la provincia romana de Siria cuando Pablo era adulto. Dos de las principales ciudades de Siria, Damasco y Antioquía, desempeñaron un papel destacado en su vida y sus letras. 
-
-## **ROMA**: 
-
-### la ciudad más célebre del mundo en tiempos de Cristo. Se dice que fue fundada en el año 753. Cuando se escribió el Nuevo Testamento, Roma estaba enriquecida y adornada con los despojos del mundo, y contaba con una población estimada en 1.200.000 habitantes, de los cuales la mitad eran esclavos, e incluía representantes de casi todas las naciones conocidas entonces. Se distinguía por su riqueza, lujo y derroche. El imperio del que era capital había alcanzado entonces su mayor esplendor.
-
-### El día de Pentecostés había en Jerusalén «extranjeros procedentes de Roma», quienes sin duda llevaron consigo a Roma noticias de aquel gran día y desempeñaron un papel fundamental en la fundación de la iglesia allí. Pablo fue llevado a esta ciudad como prisionero, donde permaneció dos años (Hechos 28:30, 31) «en una casa alquilada». Durante su estancia allí, Pablo escribió sus epístolas a los Filipenses, a los Efesios, a los Colosenses, a Filemón y, probablemente, también a los Hebreos. Durante esos años, tuvo como compañeros a Lucas y Aristarco (Hechos 27:2), Timoteo (Filipenses 1:1; Colosenses 1:1), Tíquico (Efesios 6:21), Epafrodito (Filipenses 4:18) y Juan Marcos (Colosenses 4:10). (Véase Pablo). Debajo de esta ciudad se encuentran extensas galerías, llamadas catacumbas, que se utilizaron desde aproximadamente la época de los apóstoles (una de las inscripciones encontradas en ellas lleva la fecha del año 71) durante unos trescientos años como lugares de refugio en tiempos de persecución, y también para el culto y los entierros. Se han encontrado alrededor de cuatro mil inscripciones en las catacumbas. Estas ofrecen una interesante perspectiva de la historia de la Iglesia de Roma hasta la época de Constantino.[^5]
-
-### **Catacumbas:** Túneles y bóvedas destinados al entierro de los muertos. Las catacumbas bajo la ciudad de Roma, no mencionadas en la Biblia, se hicieron famosas por servir de refugio a los primeros cristianos. Más de 480 kilómetros de pasadizos subterráneos se extienden entre 7,5 y 20 metros bajo tierra, fuera de las murallas de la ciudad. Para más detalles, consulte este artículo: Monumentos cristianos en Roma.[^6]
-
-## Gramatica de Romanos
-
-### Pablo presenta el evangelio y el problema universal del pecado, sin exhortar aún a realizar acciones específicas.
-
-### Aunque hay ciertas excepciones, en todo Romanos de capítulos 1 al 11, Pablo utiliza verbos mayormente indicativos (declarando lo que es), no imperativos (indicando lo que se debe hacer).
-
-### Indicativos (1-11) → Imperativos (12-15)
-
-### Un cambio gramatical importante ocurre en Romanos 12:1:
-
-#### Capítulos 1-11: abrumado por indicativos, estructuras condicionales, contrastes razonados y marcadores explicativos.
-
-#### Capítulos 12-15: dominado por imperativos.
-
-### Interpretación gramatical:
-
-#### Entonces, la carta pasa de ser declaraciones de hechos a apelaciones a la acción.
-
-### Uniendo toda la gramática
-
-#### Si consideramos las estructuras gramaticales repetidas en conjunto: las condiciones de primera clase (premisas asumidas como verdaderas), una cadena lógica visto por el uso de γάρ/δέ/οὖν, los extensos emparejamientos de contraste, el paso del indicativo al imperativo, convergen en un tema gramatical a gran escala:
-
-##### Romanos se estructura como un argumento lógico construido a partir de premisas asumidas como verdaderas, desarrollado mediante categorías de contraste, explicado con lógica conectiva y culminando en una respuesta imperativa.
-
-## Pablo continuamente utiliza un patrón similar a traves del libro de Romanos. 
-
-### Da una explicación, luego un caso ejemplar y completa el pensamiento en una conclusión.
-
-#### En Romanos, después que Pablo:
-
-##### **Explica** un principio (a menudo empezado con γάρ, οὖν, ἐπειδή, ἐάν).
-
-##### Da un **ejemplo** (una persona o grupo que encarna el principio).
-
-#### Frecuentemente añade un tercer paso:
-
-##### **Conclusión**/inferencia: Una afirmación gramaticalmente correcta extraída de la explicación y el ejemplo.
-
 # ESQUEMA DE ROMANOS
 
 # I. APERTURA (1:1–17)
@@ -246,19 +190,105 @@ Romanos
 
 El Poder del Evangelio
 
+# INTRODUCCIÓN
+
+## Preambulo
+
+### La Carta a los Romanos, es el más extenso y uno de los escritos más extensos y argumentativamente desarrollados de los escritos del apóstol Pablo. Probablemente compuesto en Corinto alrededor del año 56-57 d.C., estaba dirigido a la iglesia cristiana en Roma, y Pablo esperaba visitarlos en su camino a España.[^3]
+
+## Sobre el Autor
+
+### Aunque se desconoce la fecha exacta de su nacimiento, Pablo estuvo activo como misionero en los años 40 y 50 del siglo 1 d.C. La mayoría de las reconstrucciones históricas sugieren que nació aproximadamente al mismo tiempo que Jesús o un poco después. Se convirtió a la fe en Jesucristo alrededor del año 33 d.C.. Murió, probablemente en Roma, alrededor del año 62-64 d.C.[^4]
+
+### Pablo era un judío de habla griega procedente de Asia Menor. Su lugar de nacimiento, Tarso, era una ciudad importante en el este de Cilicia, una región que había pasado a formar parte de la provincia romana de Siria cuando Pablo era adulto. Dos de las principales ciudades de Siria, Damasco y Antioquía, desempeñaron un papel destacado en su vida y sus cartas. 
+
+## **ROMA**: 
+
+### la ciudad más célebre del mundo en tiempos de Cristo tradicionalmente fundada en el año 753 a.C.. Cuando se escribió el Nuevo Testamento, Roma estaba enriquecida y adornada con los despojos del mundo, y contaba con una población estimada en 1.200.000 habitantes, de los cuales la mitad eran esclavos, e incluía una población altamente diversa, con personas de múltiples regiones del imperio. Se distinguía por su riqueza, lujo y derroche. El imperio del que era capital había alcanzado entonces su mayor esplendor.
+
+### El día de Pentecostés había en Jerusalén «extranjeros procedentes de Roma», quienes sin duda llevaron consigo a Roma noticias de aquel gran día y desempeñaron un papel fundamental en la fundación de la iglesia allí. Pablo fue llevado a esta ciudad como prisionero, donde permaneció dos años (Hechos 28:30, 31) «en una casa alquilada». 
+
+### Durante su estancia allí, Pablo escribió sus epístolas a los Filipenses, a los Efesios, a los Colosenses, a Filemón. Durante esos años, tuvo como compañeros a Lucas y Aristarco (Hechos 27:2), Timoteo (Filipenses 1:1; Colosenses 1:1), Tíquico (Efesios 6:21), Epafrodito (Filipenses 4:18) y Juan Marcos (Colosenses 4:10). 
+
+### Debajo de esta ciudad se encuentran extensas galerías, llamadas catacumbas, que se utilizaron desde aproximadamente la época de los apóstoles (una de las inscripciones encontradas en ellas lleva la fecha del año 71) durante unos trescientos años como lugares de refugio en tiempos de persecución, y también para el culto y los entierros. 
+
+### Se han encontrado alrededor de cuatro mil inscripciones en las catacumbas. Estas ofrecen una interesante perspectiva de la historia de la Iglesia de Roma hasta la época de Constantino.[^5]
+
+### **Catacumbas:** Aunque no directamente relacionadas con la carta a los Romanos, ilustran el contexto histórico de la iglesia romana primitiva. Túneles y bóvedas destinados al entierro de los muertos. Las catacumbas bajo la ciudad de Roma, no mencionadas en la Biblia, se hicieron famosas por servir de refugio a los primeros cristianos. Más de 480 kilómetros de pasadizos subterráneos se extienden entre 7,5 y 20 metros bajo tierra, fuera de las murallas de la ciudad. Para más detalles, consulte este artículo: Monumentos cristianos en Roma.[^6]
+
+## Gramatica de Romanos
+
+### Pablo presenta el evangelio y el problema universal del pecado, sin predominio de exhortaciones imperativas directas.
+
+### Aunque hay ciertas excepciones, en todo Romanos de capítulos 1 al 11, Pablo utiliza verbos mayormente indicativos (declarando lo que es), no imperativos (indicando lo que se debe hacer). Esto describe una tendencia dominante, no una ausencia total de imperativos.
+
+### Indicativos (1-11) → Imperativos (12-15)
+
+### Un cambio gramatical importante ocurre en Romanos 12:1:
+
+#### Capítulos 1-11: abrumado por indicativos, estructuras condicionales, contrastes razonados y marcadores explicativos.
+
+#### Capítulos 12-15: dominado por imperativos.
+
+### Interpretación gramatical:
+
+#### Entonces, la carta pasa de ser declaraciones de hechos a apelaciones a la acción.
+
+### Uniendo toda la gramática
+
+#### Si consideramos las estructuras gramaticales repetidas en conjunto: las condiciones de primera clase (premisas asumidas como verdaderas), una cadena lógica visto por el uso de γάρ/δέ/οὖν, los extensos emparejamientos de contraste, el paso del indicativo al imperativo, convergen en un tema gramatical a gran escala:
+
+##### Romanos se estructura como un argumento progresivo construido a partir de premisas asumidas como verdaderas, desarrollado mediante categorías de contraste, explicado con lógica conectiva y culminando en una respuesta imperativa.
+
+## Pablo continuamente utiliza un patrón similar a traves del libro de Romanos. 
+
+### Da una explicación, luego un caso ejemplar y completa el pensamiento en una conclusión.
+
+#### En Romanos, después que Pablo:
+
+##### **Explica** un principio (a menudo empezado con γάρ, οὖν, ἐπειδή, ἐάν).
+
+##### Da un **ejemplo** (una persona o grupo que encarna el principio).
+
+##### Este patrón no aparece de forma idéntica en cada sección, pero se repite con suficiente frecuencia como para ser observable.
+
+#### Frecuentemente añade un tercer paso:
+
+##### **Conclusión**/inferencia: Una afirmación gramaticalmente correcta extraída de la explicación y el ejemplo.
+
+#### Este estudio abordará Romanos priorizando la observación gramatical, discursiva y contextual del texto griego, evitando conclusiones teológicas no explicitadas por la sintaxis o el flujo argumentativo del propio texto.
+
+## En Síntesis (Introducción)
+
+### Romanos es una carta extensa y cuidadosamente estructurada, escrita por Pablo en un contexto histórico concreto.
+
+### Está dirigida a la iglesia en Roma, una comunidad ubicada en el centro del mundo romano.
+
+### En los capítulos 1–11 predomina el **indicativo**: Pablo declara, explica y contrasta realidades.
+
+### En los capítulos 12–15 predomina el **imperativo**: aparecen exhortaciones y llamados a la acción.
+
+### El cambio en Romanos 12:1 marca una transición gramatical clara, no un cambio de tema.
+
+### Pablo utiliza conectores (γάρ, δέ, οὖν), contrastes y estructuras condicionales de forma recurrente.
+
+### Se observa un patrón frecuente: **explicación → ejemplo → conclusión**.
+
+### La carta avanza de afirmaciones establecidas hacia respuestas prácticas basadas en ellas.
+
 # ROMANOS 1:1-17 - APERTURA
 
 ## Romanos 1:1-7 - Saludos 
 
-### Romanos 1:1a *Pablo,* ya no Saulo. Saulo era su nombre de incrédulo y a los inícios de su vida cristiana. 
+### Romanos 1:1a "*Pablo,*" ya no Saulo. Saulo era su nombre de incrédulo y a los inícios de su vida cristiana. 
 
 #### Saulo (aquel que pidieron) llegó a ser Pablo (pequeño). Hechos 7:58, 13:9, 21:40
 
-### Romanos 1:1b *siervo de Cristo Jesús,* Pablo se consideraba comprado con precio y su nuevo amo era Cristo Jesús. 
+### Romanos 1:1b "*siervo de Cristo Jesús,*" Pablo se consideraba comprado con precio y su nuevo amo era Cristo Jesús. 
 
 #### Pablo consideraba un honor ser siervo de Cristo. 
 
-### Romanos 1:1c *llamado a ser apóstol,* El llamado que recibió Pablo de parte de Dios era para ser apóstol, un enviado con un mensaje. 
+### Romanos 1:1c "*llamado a ser apóstol,*" El llamado que recibió Pablo de parte de Dios era para ser apóstol, un enviado con un mensaje. 
 
 ### Romanos 1:1d "*apartado para el evangelio...*" su llamado de apóstol era para el evangelio. 
 
@@ -330,7 +360,7 @@ El Poder del Evangelio
 
 ##### En resumen: Si se analizan las probabilidades naturales, es *prácticamente imposible* que Jesús cumpliera todo esto por azar. Pero según la evidencia histórica y la fe que Pablo predica, el cumplimiento es total (100 %) porque Dios mismo lo realizó en la historia.
 
-### Romanos 1:5a *Es por medio de Él que hemos recibido la gracia y el apostolado...* Pablo explica que es mediante Cristo, el personaje del evangelio que habían recibido la gracia y el apostolado.
+### Romanos 1:5a "*Es por medio de Él que hemos recibido la gracia y el apostolado...*" Pablo explica que es mediante Cristo, el personaje del evangelio que habían recibido la gracia y el apostolado.
 
 #### Pablo había recibido la gracia y el apostolado mediante Cristo para ser apartado para Dios. 
 
@@ -342,101 +372,47 @@ El Poder del Evangelio
 
 #### ¿Porque habría amor a su nombre? Porque la buena noticia que recibimos es sobre Él. 
 
-### Romanos 1:6a *...entre los cuales están también ustedes...*  estos hermanos en Roma eran gentiles que Pablo queria llevar el mensaje del evangelio que promovería obediencia a la fe por amor a Su nombre. 
+## En Síntesis (Romanos 1:1-5)
 
-### Romanos 1:6b *llamados de Jesucristo.* Su nombre por el que son llamados es los "*de Jesucristo*". Hoy en día los creyentes son llamados "cristianos". Son de Cristo o pequeños cristos. 
+### Pablo se presenta con una **identidad redefinida**: siervo de Cristo Jesús y llamado apóstol.
 
-### Romanos 1:7a *A todos los amados de Dios que están en Roma,* amados de Dios es un término usado solo para creyentes en Jesucristo. Estos creyentes estaban ubicados en Roma. 
+### Su llamado es **específico**: estar apartado **para el evangelio**, no para una causa personal.
+
+### El evangelio tiene **origen divino**: procede de Dios, no de iniciativa humana.
+
+### No es un mensaje nuevo: **Dios lo había prometido previamente** por medio de los profetas.
+
+### Las promesas del evangelio quedaron **registradas en las Sagradas Escrituras**.
+
+### El contenido del evangelio es **objetivo y definido**: es el mensaje acerca del Hijo de Dios.
+
+### Jesucristo es presentado como **verdaderamente humano**, descendiente de David según la carne.
+
+### Su identidad como Hijo de Dios fue **declarada con poder** mediante la resurrección.
+
+### La resurrección ocurre **conforme al Espíritu de santidad**, como acto aprobatorio de Dios.
+
+### El evangelio no es “buena noticia” en general, sino **una noticia única y concreta sobre Cristo**.
+
+### Por medio de Cristo, Pablo recibió **gracia y apostolado**.
+
+### Ese llamado tenía un propósito: **promover la obediencia que procede de la fe**.
+
+### Dicha obediencia tiene un fin último: **el honor del nombre de Cristo**.
+
+## Romanos 1:6-13 Audiencia y planes de Pablo con ellos
+
+### Romanos 1:6a "*...entre los cuales están también ustedes...*"  estos hermanos en Roma eran gentiles que Pablo queria llevar el mensaje del evangelio que promovería obediencia a la fe por amor a Su nombre. 
+
+### Romanos 1:6b "*llamados de Jesucristo.*" Su nombre por el que son llamados es los "*de Jesucristo*". Hoy en día los creyentes son llamados "cristianos". Son de Cristo o pequeños cristos. 
+
+### Romanos 1:7a "*A todos los amados de Dios que están en Roma,*" amados de Dios es un término usado solo para creyentes en Jesucristo. Estos creyentes estaban ubicados en Roma. 
 
 ### Romanos 1:7b "*llamados a ser santos:*" aunque el llamado de Jesucristo es llamado a ser santo, el griego no tiene las palabras "a ser". Literalmente Pablo dice, "*a todos los que estáis en Roma, amados de DIOS, llamados santos:*" (BTX4)
 
 #### Pablo les está acordando que ellos son amados de Dios y santos. El término santo es la expresión más usada por Pablo en sus saludos. 
 
 ### Romanos 1:7c *Gracia y paz a ustedes de parte de Dios nuestro Padre y del Señor Jesucristo.* Como de costumbre, Pablo empezará su carta con un deseo de gracia y paz para ellos. Aquí aclara que es la gracia y paz que proviene de Jesucristo y de Dios, el Padre que compartimos. 
-
-#### ¿Que es gracia CHARIS? 
-
-##### El sentido básico observable por el uso: favor que no se debe
-
-##### El significado se establece mediante contrastes, objetos, fuentes y resultados, no mediante declaraciones de definición.
-
-##### Las Escrituras no definen gracia de manera abstracta; lo demuestra a través de contrastes y resultados.
-
-#### CHARIS se enseña en contraste con la obligación ó deuda. 
-
-##### Romanos 4:4 “*Ahora bien, al que trabaja, su salario no se le acredita como favor* CHARIS, *sino como lo que le corresponde*”.
-
-##### CHARIS se contrasta con: 
-
-##### “*lo que se debe*” OFEILEMA  — 
-
-##### Lo que se gana no se puede llamar CHARIS
-
-##### CHARIS se define negativamente: no obligación
-
-##### Romanos 11:6 “*Pero si es por gracia* CHARIS, *ya no es por obras; de lo contrario*, *gracia* CHARIS *ya no es gracia* CHARIS”.
-
-##### CHARIS es mutuamente excluyente con las obras como base.
-
-##### La frase es autorreferencial: CHARIS deja de ser CHARIS si se mezcla con obras. Este versículo enseña CHARIS mediante un límite lógico, no una explicación.
-
-#### CHARIS se enseña como una forma de dar. 
-
-##### Romanos 3:24 “*siendo justificados gratuitamente por su gracia* CHARIS, *mediante la redención que es en Cristo Jesús*”.
-
-##### CHARIS está vinculado con: “como regalo / gratuitamente”. 
-
-##### CHARIS opera como una manera, no como un objeto.
-
-##### La oración describe cómo se da algo.
-
-#### CHARIS se enseña como algo que puede aumentar
-
-##### Juan 1:16 “*Porque de su plenitud todos hemos recibido, y gracia sobre gracia*”.
-
-##### CHARIS se recibe.  La frase indica reemplazo o sucesión. Ningún mecanismo explicado; sólo implica acumulación o continuación
-
-##### Hechos 4:33 “*Y abundante gracia* CHARIS *estaba sobre todos ellos*”. CHARIS se describe como abundante. Se dice que está "sobre" la gente.
-
-#### CHARIS se enseña en relación con el habla y la conducta.
-
-##### Lucas 4:22 “*Y todos hablaban bien de él, y se maravillaban de las palabras de gracia* CHARIS *que salían de sus labios*”. CHARIS modifica palabras, caracteriza la manera de hablar. No se adjunta ninguna explicación moral.
-
-##### Colosenses 4:6 “*Que vuestra palabra sea siempre con gracia* CHARIS, *como sazonada con sal…*” CHARIS puede calificar la comunicación.  Funciona adjetivamente en efecto. El resultado está implícito, no declarado.
-
-#### CHARIS se enseña como algo en lo que uno puede permanecer
-
-##### Romanos 5:2 “*por quien también hemos obtenido por la fe nuestra entrada en este gracia* CHARIS *en el que estamos…*” CHARIS se representa espacialmente (“ponerse de pie”) esta ingresado. Es un estado presente, no sólo una acción.
-
-#### CHARIS se enseña como algo a lo que se puede resistir o dejar de lado.
-
-##### Gálatas 2:21 “*No anulo la gracia* CHARIS *de Dios…*” CHARIS puede ser anulado (“dejar de lado” ATHETEO ). Indica que CHARIS no tiene efecto automático. La acción se atribuye a las personas.
-
-##### Hebreos 12:15 “*Mirad que nadie deje de alcanzar la gracia* CHARIS *de Dios…*” Uno puede “quedarse corto” de CHARIS. Es algo hacia lo que uno no puede llegar. CHARIS se enseña como una acción potenciadora.
-
-##### 1 Corintios 15:10 “*Pero por la gracia* CHARIS *de Dios soy lo que soy, y su gracia* CHARIS *para conmigo no resultó en vano…*” CHARIS se describe como operativo. Puede ser eficaz o ineficaz (“no en vano”). El trabajo sigue a CHARIS, pero la secuencia se establece, no se explica.
-
-#### Sólo observaciones resumidas.  Solo por el uso, las Escrituras enseñan CHARIS como:
-
-##### No es algo debido (Romanos 4:4)
-
-##### Incompatible con la obligación como base (Romanos 11:6)
-
-##### Una manera de dar (Romanos 3:24)
-
-##### Recibible y abundante (Juan 1:16; Hechos 4:33)
-
-##### Una posición actual (Romanos 5:2)
-
-##### Algo que se puede resistir o anular (Gálatas 2:21)
-
-##### Algo que puede ser eficaz o vano (1 Corintios 15:10)
-
-##### Una cualidad que afecta el habla y la conducta (Lucas 4:22; Colosenses 4:6)
-
-#### Las Escrituras nunca definen CHARIS de manera abstracta; lo enseña a través de contrastes, verbos y resultados.
-
-## Romanos 1:8-15 Pablo expresa agradecimiento, sus oraciónes y deseos de visitarles
 
 ### Romanos 1:8a *En primer lugar, doy gracias a mi Dios* después de referirse a Dios como nuestro Padre, ahora Pablo habla más personalmente. Dice que esta agradecido a su Dios. 
 
@@ -492,7 +468,7 @@ El Poder del Evangelio
 
 #### El fortalecimiento es pasivo, lo que significa que actúa sobre los receptores. Esta cláusula expresa gramaticalmente el resultado esperado al compartir el don.
 
-#### En resumen, Pablo expresa un sincero deseo de visitar a los creyentes romanos para compartir personalmente un don espiritual —dado por el Espíritu Santo— con el propósito de alentar y fortalecer su fe y vida espiritual.
+#### En resumen, Pablo expresa un sincero deseo de visitar a los creyentes romanos para compartir personalmente un don espiritual -dado por el Espíritu Santo- con el propósito de alentar y fortalecer su fe y vida espiritual.
 
 ### Romanos 1:12a "*es decir, para que cuando esté entre ustedes nos confortemos mutuamente,*" Pablo clarifica lo que decía en el versículo anterios. Desea dar y que ellos reciban para ser fortalecidos, quiere decir mutuamente animarse el uno al otro. 
 
@@ -502,25 +478,39 @@ El Poder del Evangelio
 
 ### Romanos 1:12b "*cada uno por la fe del otro, tanto la de ustedes como la mía.*" Serian animados mutuamente por medio de la fe que comparten. 
 
-## Romanos 1:13 - explicación de la demora
-
 ### Romanos 1:13a "*Y no quiero que ignoren, hermanos, que con frecuencia he hecho planes para ir a visitarlos,* El deseo presente de Pablo es que sepan que en sus planes estaba ir a visitarlos. 
 
 ### Romanos 1:13b "*pero hasta ahora me he visto impedido,*" Sin embargo, por fuerza mayor, había sido impedido de ir pero no ha perdido la esperanza de ir. 
 
 ### Romanos 1:13c "*a fin de obtener algún fruto también entre ustedes,*" gramaticalmente es imposible ver a que fruto se refiere que tiene como fin obtener entre ellos. 
 
-Aquí el fruto es indefinido. Simplemente menciona fruto sin decir a que se refiere. 
+#### Aquí el fruto es indefinido. Simplemente menciona fruto sin decir a que se refiere. 
 
-Pablo menciona fruto en otros pasajes de Romanos. El 
-
-Romanos 6:21-22 - 
-
-Romanos 7:4-5 - verbo. 
-
-Romanos 15:28 - *Así que cuando haya cumplido esto y les haya entregado esta ofrenda* [fruto], *iré a España llegando de paso a verlos.* Fruto aquí es el resultado de sus ofrendas. 
+#### Romanos 15:28 - *Así que cuando haya cumplido esto y les haya entregado esta ofrenda* [fruto], *iré a España llegando de paso a verlos.* Fruto aquí es el resultado de sus ofrendas. 
 
 ### Romanos 1:13d "*así como entre los demás gentiles.*" Es dificil ser enfático, pero al parece el fruto que se refiere Pablo es la colecta de ofrendas que iva haciendo entre los gentiles para llevar a los hermanos judíos en Jerusalén. 
+
+## En Síntesis (Romanos 1:6-13)
+
+### Pablo afirma haber **recibido gracia y apostolado** con un propósito definido.
+
+### El objetivo expresado es **obediencia de fe** entre todas las naciones.
+
+### Los destinatarios en Roma son incluidos como **llamados de Jesucristo**.
+
+### Pablo expresa **gratitud constante** por ellos, conocida públicamente.
+
+### Su testimonio es que **sirve a Dios en el evangelio**, no solo externamente.
+
+### Manifiesta un **deseo continuo** de visitarlos, dependiente de la voluntad de Dios.
+
+### El propósito del viaje es **compartir algún don espiritual** para fortalecimiento.
+
+### La relación buscada es **mutuo ánimo**, no una instrucción unilateral.
+
+### Pablo aclara que **no ha dejado de intentar ir**, aunque ha sido impedido.
+
+### Su expectativa es **producir fruto** también entre ellos, como en otros pueblos.
 
 ## Romanos 1:14-17 La obligación y la disposición de Pablo explicadas
 
@@ -530,15 +520,15 @@ Romanos 15:28 - *Así que cuando haya cumplido esto y les haya entregado esta of
 
 ### Romanos 1:14b "*tanto para con los griegos*" Su obligación es con los griegos, aquellos que eran buscadores de lo culto y letrados. 
 
-### Romanos 1:14c *como para con los bárbaros,* Su obligación era con los que eran gentiles que no hablaban griego y no les interesa la filosofía griega y helenizar. 
+### Romanos 1:14c "*como para con los bárbaros,*" Su obligación era con los que eran gentiles que no hablaban griego y no les interesa la filosofía griega y helenizar. 
 
-### Romanos 1:14d *para con los sabios como para con los ignorantes.* Su obligación era con personas letradas como no letradas. 
+### Romanos 1:14d "*para con los sabios como para con los ignorantes.*" Su obligación era con personas letradas como no letradas. 
 
-### Romanos 1:15a *Así que, por mi parte, ansioso estoy de anunciar el evangelio*. Como deudor, Pablo explica su disposición por ir a anunciar el evangelio. 
+### Romanos 1:15a "*Así que, por mi parte, ansioso estoy de anunciar el evangelio*". Como deudor, Pablo explica su disposición por ir a anunciar el evangelio. 
 
 #### El mensaje que Pablo predicaba donde iva era el evangelio por el cual había sido apartado. Romanos 1:1, 9, 15:16, 19; 1 Corintios 1:17, 9:16, 15:1; 2 Corintios 2:12; Gálatas 1:11, 2:2; Efesios 3:6-8; Colosenses 1:23; 1 Tesalonicenses 2:2, 9
 
-### Romanos 1:15b *también a ustedes que están en Roma.* Pablo estaba tan ansioso de anunciar el evangelio también a creyentes en Roma. ¿Por qué?
+### Romanos 1:15b "*también a ustedes que están en Roma.*" Pablo estaba tan ansioso de anunciar el evangelio también a creyentes en Roma. ¿Por qué?
 
 #### El único mensaje que Pablo enseñaba era el Evangelio. Pablo nunca dice que ya habían escuchado el evangelio y ahora les enseñaba otras cosas. Si dice que habían recibido el evangelio y que estaban firmes en él. Les enseña que deben permanecer y no dejar que sea distorcionado. 1 Corintios 15:1-2
 
@@ -572,15 +562,33 @@ Romanos 15:28 - *Así que cuando haya cumplido esto y les haya entregado esta of
 
 #### Así pues, desde la perspectiva del mundo, el mensaje del evangelio era un escándalo y una locura. Pero Pablo se niega a sentir vergüenza porque sabe que lo que el mundo llama debilidad es, en realidad, el poder de Dios. Lo que para el mundo llama tonto es la sabiduria de Dios. 1 Corintios 1:30-31
 
-### Romanos 1:16c "*el evangelio...es poder de Dios...para la salvación* La provisión para la salvación del hombre no viene del emperador de Roma, viene de Dios y es el evangelio. 
+### Romanos 1:16c "*el evangelio...es poder de Dios...* La provisión para la salvación del hombre no viene del emperador de Roma, viene de Dios y es el evangelio. 
 
-#### El contenido del evangelio (Cristo crucificado y resucitado) parece débil,
-
-#### pero su efecto (la salvación) el poder salvador de Dios.
+#### El contenido del evangelio (Cristo crucificado y resucitado) parece débil, pero no su efecto (la salvación) el poder salvador de Dios.
 
 #### La palabra DUNAMIS (poder) apunta a la energía activa de Dios que produce transformación, no solo rescate. 
 
 #### Pablo dice: «No me avergüenzo» porque ha visto, experimentado y confiado en el poder del evangelio; un poder mayor que el poderío de Roma, la sabiduría griega o el legalismo judío. «El mensaje de la cruz es locura para los que se pierden; pero para nosotros, los que nos salvamos, es poder de Dios». - 1 Corintios 1:18
+
+### Romanos 1:16d "*...para la salvación*"
+
+#### La salvación en Romanos siempre está conectada con el evangelio.
+
+##### Sin importar el momento —pasado, presente o futuro—, el evangelio es el medio.
+
+#### La salvación en Romanos siempre se aplica a los creyentes.
+
+##### El término se asocia constantemente con: fe, esperanza, justicia, reconciliación y liberación futura
+
+#### El lenguaje de la salvación se extiende a lo largo de la historia del creyente.
+
+##### Romanos mismo presenta la salvación como algo ya iniciada, aún no completada.
+
+###### Iniciado. Romanos 8:24
+
+###### Operativo. Romanos 1:16, 13:11
+
+###### Esperado. Romanos 13:11, 5:9-10
 
 ### Romanos 1:16d *de todo el que cree,*" Este poder para salvar está disponible para todos pero solo se beneficia el que cree. 
 
@@ -589,6 +597,50 @@ Romanos 15:28 - *Así que cuando haya cumplido esto y les haya entregado esta of
 ##### Puesto de otra manera, el que está creyendo puede referirse al incrédulo siendo salvo de la condenación del infierno. El evangelio es el poder de Dios para salvar al incrédulo de la perdición eterna. 
 
 ##### Pero también puede referirse a la santificación del creyente que anda por fe. El evangelio es para lo que puede rescatar al creyente, empoderarlo para un andar según el poder de Dios. 
+
+#### Pablo afirma explícitamente que el evangelio **es** poder de Dios para salvación de los **creyentes**.
+
+##### Dos observaciones textuales clave:
+
+###### “*Es*” - ESTIN (presente). Romanos afirma que el evangelio **es** actualmente el poder de Dios.
+
+###### “*Para todo aquel que cree*” TOU PISTEUONTOS (participio, presente) 
+
+##### Así pues, el Texto enmarca el evangelio como poderoso en el presente para quienes ya creen. 1 Corintios 1:18
+
+#### Pablo claramente escribe a personas que ya creen.
+
+##### Pablo identifica a la audiencia romana como:
+
+###### "*amados de Dios*". Romanos 1:7
+
+###### "*llamados santos*". Romanos 1:7 
+
+###### su fe está siendo proclamada. Romanos 1:8 
+
+##### Por lo tanto, la carta no tiene un propósito evangelístico, sino enseñanza, dirigida a personas que ya se caracterizan por la fe.
+
+#### Sin embargo, Pablo aún desea predicarles el evangelio.
+
+##### Pablo dice explícitamente: "*Estoy deseoso de predicarles el evangelio también a ustedes que están en Roma.*" Romanos 1:15
+
+##### Así que la secuencia en el texto es: Ellos ya creen. Su fe ya es conocida. Pablo aún desea predicarles el evangelio. Porque el evangelio es el poder de Dios para los creyentes.
+
+##### No hay ninguna indicación en la gramática ni en la redacción de que «evangelio» cambie de significado aquí. Es el mismo mensaje, ahora aplicado a los creyentes.
+
+#### Pablo declara su propósito: quiere fortalecer a los creyentes a través del evangelio. Pablo explica por qué quiere ministrar entre ellos: "*Para impartirles algún don espiritual, a fin de que sean confirmados*". Romanos 1:11
+
+##### Y luego aclara: "*Para que nos animemos mutuamente por la fe de los demás.*" Romanos 1:12
+
+##### Así pues, el evangelio funciona en Romanos como:
+
+##### no solo: “el mensaje con el que se inicia la vida cristiana”
+
+##### sino también: “el mensaje mediante el cual los creyentes son fortalecidos, cimentados y estabilizados”.
+
+##### El evangelio es el poder de Dios para la salvación para el creyente. Salvación es la meta, no la definición del Evangelio. 
+
+##### El evangelio sigue funcionando para los creyentes. La salvación no se agota en el momento de la fe inicial. Los creyentes siguen en pie en relación con el lenguaje de la salvación. Romanos 13:11
 
 ### Romanos 1:16e *del judío primeramente y también del griego.* El evangelio es ofrecido al judío (primeramente) y también al griego. El mismo evangelio es poder de Dios para salvar al judío como también al griego. 
 
@@ -602,57 +654,33 @@ Romanos 15:28 - *Así que cuando haya cumplido esto y les haya entregado esta of
 
 ### Romanos 1:17c *como está escrito: MAS EL JUSTO POR LA FE VIVIRÁ.* Esto respalda la frase anterior: la justicia y la vida se fundamentan en la fe, no en las obras.
 
-## En Síntesis (1:1-17)
+#### El evangelio se presenta como el medio continuo por el cual viven los creyentes. Pablo quiere que vivan fortalecidos por ese evangelio. Por lo tanto, los creyentes deben vivir en continua dependencia del evangelio.
 
-### El registrador de la corte (1:1-17): Aquí Pablo, autor de Romanos, proporciona a sus lectores algunos
+## En Síntesis (1:14-17)
 
-#### material introductorio previo al juicio.
+### Pablo se declara deudor con todos: griegos y bárbaros, sabios e ignorantes, sin distinción cultural o intelectual.
 
-#### Sus credenciales (1:1, 5): Pablo relata cuatro hechos acerca de sí mismo.
+### Su condición de deudor explica su disposición activa a anunciar el evangelio.
 
-##### Es un siervo de Jesús (1:1a).
+### El evangelio es el único mensaje que Pablo proclama, incluso a creyentes ya establecidos.
 
-##### Es un apóstol (1:1b).
+### Pablo afirma no avergonzarse del evangelio, aun en un contexto cultural hostil como Roma.
 
-##### Ha sido apartado para predicar el evangelio (1:1c).
+### La razón de esa confianza es que el evangelio es el poder de Dios, no poder humano.
 
-##### Es un misionero a los gentiles (1:5).
+### Ese poder está orientado a la salvación, no a la aprobación social o política.
 
-#### Su Cristo (1:2-4)
+### El alcance del evangelio es todo el que cree, descrito como el que está creyendo.
 
-##### El Mesías fue profetizado en el Antiguo Testamento (1:2).
+### En Romanos, salvación no se define aquí, sino que se desarrolla progresivamente en la carta.
 
-##### El Mesías ahora es proclamado en el Nuevo Testamento (1:3-4).
+### La justicia de Dios se revela continuamente en el evangelio.
 
-###### Con respecto a su naturaleza humana (1:3): Es descendiente de David.
+### Esa justicia opera por fe y para fe, estableciendo la fe como principio y continuidad.
 
-###### Con respecto a su naturaleza divina (1:4): Su resurrección prueba su deidad.
+### La cita de Habacuc confirma que vida y justicia están vinculadas a la fe, no a las obras.
 
-###### Su congregación (1:6-15): Pablo escribe esta epístola a una asamblea de la iglesia local.
-
-##### La identidad de esta iglesia (1,6-7): Es la congregación en Roma.
-
-##### La intercesión por esta iglesia (1:8-10)
-
-###### Su alabanza de ellos (1:8): Pablo los alaba por su fe universalmente conocida.
-
-###### Sus oraciones por ellos (1:9-10): Ora por la iglesia y le pide a Dios que se le permita visítalos.
-
-##### El interés en esta iglesia (1:11-13)
-
-###### Pablo desea verlos (1:11-12).
-
-###### Pablo desea servirlos (1:13): Desea sembrar semilla entre ellos.
-
-##### La deuda con la iglesia (1:14-15): Pablo siente la obligación de ministrarlos.
-
-#### Su confianza (1:16-17): Pablo expresa su plena seguridad en el poder del evangelio para lograr dos cosas.
-
-##### Para lograr la fe salvadora para los pecadores (1:16): Por medio de la fe el pecador puede ser salvo.
-
-##### Para lograr una fe santificante para los santos (1:17): Por medio de la fe una persona justa puede tener vida.
-
-# Romanos 1:18-3:20 LA CONDENACIÓN SOBRE EL HOMBRE PECADOR
+# Romanos 1:18-3:20 LA CONDENACIÓN IMPARCIAL SOBRE EL HOMBRE PECADOR
 
 ## Romanos 1:18-32 - Dios manifiesta Su desaprobación a la injusticia universal.
 
@@ -660,25 +688,25 @@ Romanos 15:28 - *Así que cuando haya cumplido esto y les haya entregado esta of
 
 #### El mundo, cada molécula en ella, depende de Dios el creador para existir. Dios existe por si, es el gran Yo Soy, pero la creación depende enteramente de Dios. El hombre es dependiente de Dios. Salmo 63:8; Hebreos 1:3; 2 Pedro 3:7
 
-#### Entonces, si Dios es realmente es bueno, justo y puro, como lo vimos en como creó inicalmente al mundo, ¿cómo debe responder Dios a la injusticia del hombre? 
+#### Entonces, si Dios es realmente bueno, justo y puro, ¿cómo debe responder Dios a la injusticia del hombre? 
 
-#### Pablo empezará presentando el caso de la universalidad del pecado de toda la humanidad a una distancia. Luego, lo hará más personal.  Es decir, empieza usando la tercera persona plural en los versículos 18-32. Luego en los versículos 2:1-5 y 17-29 usa segunda persona singular. Pablo vuelve usar la tercera persona plural en 2:6-16 para mostrar los principios universales de juicio y demostrará inmediatamente después usando segunda persona singular que cada judio en este caso es culpable. 
+##### Pablo empezará presentando el caso de la universalidad del pecado de toda la humanidad a una distancia. Luego, lo hará cada vez más personal. Es decir, todos debemos entender nuestra culpabilidad. Dios es imparcialmente justo con todo ser humano.  
 
 ##### Resumen del cambio de persona (proceso de demostrar culpabilidad)
 
-###### 1:18-32 - Condenación de “ellos”.  
+###### Romanos 1:18-32 - Condenación de “*ellos*”.  
 
-###### 2:1-5 - Condenación del moralista "tú"
+###### Romanos 2:1-5 - Condenación del moralista "*tú*"
 
-###### 2:6-16 - Principios morales universales "él", "esos"
+###### Romanos 2:6-16 - Principios morales universales "*él*", "*esos*"
 
-###### 2:17-29 - Condenación de la hipocresía religiosa judía "tú"
+###### Romanos 2:17-29 - Condenación de la hipocresía religiosa judía "*tú*"
 
-###### 3:1-8 - Diálogo religioso judío imaginario (mixto)
+###### Romanos 3:1-8 - Diálogo religioso judío imaginario (mixto)
 
-###### 3:9-20 - Culpabilidad universal: "nosotros", "todos" bajo pecado 
+###### Romanos 3:9-20 - Culpabilidad universal: "*nosotros*", "*todos*" bajo pecado 
 
-###### Pablo pasa de: "ellos" → "tú" → "él"/"ellos" → "tú" → "nosotros"/"todos" para demostrar que: No hay justo, ni siquiera uno (3:10).
+###### Pablo pasa de: "*ellos*" → "*tú*" → "*él*"/"*ellos*" → "*tú*" → "*nosotros*"/"*todos*" para demostrar que **No hay justo, ni siquiera uno**. Romanos 3:10
 ### **Romanos 1:18 La ira de Dios es respuesta a la injusticia del hombre**
 
 #### Romanos 1:18a "*Porque la ira de Dios se revela desde el cielo...*" vimos previamente que la justicia de Dios es revelada por medio del evangelio. Ahora, la ira de Dios es revelada desde el cielo. 
@@ -695,11 +723,13 @@ Romanos 15:28 - *Así que cuando haya cumplido esto y les haya entregado esta of
 
 #### Romanos 1:18c "...*que con injusticia restringen la verdad.*" en vez de simplemente ser portadores de la imagen de Dios (aunque quebrado por el pecado) la humanidad decide, activa, y continuamente disminuir la verdad. Romanos 1:25
 
-##### "*restringen*" KATECHO: comprobar ⇔ controlar v. - disminuir la intensidad de, moderar, contener o mantener dentro de límites; concebido como sujetar físicamente algo.
+##### "*restringen*" KATECHO es comprobar, controlar - disminuir la intensidad de, moderar, contener o mantener dentro de límites; concebido como sujetar físicamente algo.
 
 ###### Restringen esta en tiempo presente voz activa y es un participio. Los hombres son señalados por la acción de suprimir activamente y contínuamente la verdad. 
 
-###### ¿Por qué responde Dios en ira? ¿Que verdad es la que los hombres restringen? 
+###### ¿Por qué responde Dios en ira? Porque los hombres restringen la verdad de Dios. 
+
+###### ¿Que verdad es la que los hombres restringen? Esto lo veremos desarrollar en los siguientes versículos. 
 
 ### **Romanos 1:19-23 Tres rechazos de Dios**
 
@@ -749,11 +779,11 @@ Romanos 15:28 - *Así que cuando haya cumplido esto y les haya entregado esta of
 
 #### Romanos 1:21a "*...Pues aunque conocían a Dios, no lo honraron como a Dios ni le dieron gracias,*" al no honrar a Dios como Dios, al no responder correctamente a lo que la creación hizo conocer de Dios. 
 
-##### "*conocían*" esta en aoristo, activo particípio. Lo que nos aclara que en un punto del tiempo, ellos activamente conocían a Dios. Enfatiza conocimiento real, histórica y responsable no exhibición pasiva o accidental. 
+##### "*Conocían*" esta en aoristo, activo particípio. Lo que nos aclara que en un punto del tiempo, ellos activamente conocían a Dios. Enfatiza conocimiento real, histórica y responsable no exhibición pasiva o accidental. 
 
-##### "*honraron*" (aoristo, activo, indicativo). El rechazo de honrarlo es su propia acción deliberado. 
+##### "*Honraron*" (aoristo, activo, indicativo). El rechazo de honrarlo es su propia acción deliberado. 
 
-##### "*dieron*" (aoristo, activo, indicativo). Nuevamente, activamente deliberado. La ingratitud no es un olvido pasivo sino un rechazo elegido.
+##### "*Dieron*" (aoristo, activo, indicativo). Nuevamente, activamente deliberado. La ingratitud no es un olvido pasivo sino un rechazo elegido.
 
 ###### ¿Qué pasa con el hombre que rechaza lo que Dios claramente le revela? 
 
@@ -767,27 +797,27 @@ Romanos 15:28 - *Así que cuando haya cumplido esto y les haya entregado esta of
 
 ##### "*entenebrecido*" SKOTIZO volverse insensible ⇔ oscurecer v. - ser o volverse incapaz o reacio a percibir o comprender; concebido como volverse más deficiente en luz o brillo.[^1]
 
-**Romanos 1:22 El rechazo a la verdad de Dios**
+### **Romanos 1:22 - El rechazo a la verdad de Dios**
 
 #### Romanos 1:22a "*...Profesando ser sabios, se volvieron necios,*" Esa misma incapacidad y deficiencia lo lleva a auto-declararse sabio. Mientras la humanidad activamente se piensa astuto e inteligente, la realidad es que se han vuelto tontos. Les ha sobrevenido la locura. 
 
 ##### Conocieron a Dios (1:21a - voz activa)
 
-##### No glorificaron ni dieron Le dieron gracias (1:21b - voz activa)
+##### No glorificaron ni dieron gracias (1:21b - voz activa)
 
 ##### Sus pensamientos se volvieron vanos (1:21c - voz pasiva)
 
 ##### Su corazón se entenebreció (1:21d - voz pasiva)
 
-##### Pretendiendo ser sabios… (1:22a - autoengaño activo)
+##### Pretendieron ser sabios.  (1:22a - autoengaño activo)
 
 ##### Se hicieron necios (1:22b - juicio pasivo)
 
-##### El patrón: conocimiento activo → rebelión activo → juicio pasivo → autoengaño activo → exposición divina pasiva
+###### Patrón visible: conocimiento activo → rebelión activo → juicio pasivo → autoengaño activo → exposición divina pasiva
 
-##### El tonto no es alguien que es ignorante. El necio es alguien que rechaza a Dios, sabiendo la verdad. Salmo 14:1
+###### El tonto no es alguien que es ignorante (que desconoce la verdad), es alguien que rechaza a Dios, sabiendo la verdad. Salmo 14:1
 
-**Romanos 1:23 El reemplazo de Dios**
+### **Romanos 1:23 - El reemplazo de Dios**
 
 #### Romanos 1:23a "*...y cambiaron la gloria del Dios incorruptible*" La creación naturalmente proclama la gloria de Dios. Sin embargo el hombre actua en contra de lo que naturalmente sucede. 
 
@@ -795,7 +825,7 @@ Romanos 15:28 - *Así que cuando haya cumplido esto y les haya entregado esta of
 
 #### Romanos 1:23c "*...de aves, de cuadrúpedos y de reptiles.*" No solo hace imagenes de forma del hombre sino de aves de cuadrúpedos y reptiles también. Es ilogico reemplazar a Dios por algo que Él ha creado, pero eso demuestra lo irracional de su razonamiendo. 
 
-### **Romanos 1:24-25: Primer entrega de Dios resulta en el colapso de la conducta humana**
+### **Romanos 1:24-25 -  Entrega de Dios #1: El colapso de la conducta humana**
 
 #### Romanos 1:24a "*Por lo cual Dios los entregó a la impureza en la lujuria de sus corazones*" Dios responde a la injusticia del hombre entregándolos o dejandolos a su impureza y lujuria de sus corazones. 
 
@@ -859,7 +889,7 @@ Romanos 15:28 - *Así que cuando haya cumplido esto y les haya entregado esta of
 
 ##### Así como Adán culpó a Dios por crear a la mujer, la humanidad típicamente maldice a Dios por revelar Su ira. La humanidad quiere culpar a Dios por el colapso de su conducta e ignorar la verdadera razón que es el rechazo de Dios como creador. Génesis 3:12
 
-### **Romanos 1:26-27: Segunda entrega de Dios resulta en el colapso de valores humanos**
+### **Romanos 1:26-27: Entrega de Dios #2: El colapso de valores humanos**
 
 ##### El hombre, no contento con su abandono a la verdad, insiste en tapar la verdad con su mentira. ¿Qué debería hacer Dios en respuesta? 
 
@@ -885,7 +915,7 @@ Romanos 15:28 - *Así que cuando haya cumplido esto y les haya entregado esta of
 
 ##### Su extravío es visto en el colapso de sus valores, llevado por sus deseos pecaminosos. 
 
-### **Romanos 1:28-32: Tercera entrega de Dios resulta en el colapso de cosmovisión humana**
+## **Romanos 1:28-32: Entrega de Dios #3: El colapso de cosmovisión humana**
 
 #### Ahora vemos la tercera entrega que Dios hace, revelando Su ira a la humanidad por su rechazo a la verdad de Dios. Esta vez, y aún peor, es a una mente depravada que resulta en el colapso de su cosmovisión. 
 
@@ -936,7 +966,7 @@ Romanos 15:28 - *Así que cuando haya cumplido esto y les haya entregado esta of
 
 #### Romanos 1:30f *inventores de lo malo,* KAKON creadores o inventores de planes perversos. [^1] 
 
-#### Romanos 1:30g *desobedientes a los padres,* APEITHEIS negarse a cumplir con la patria potestad. [^1] 
+#### Romanos 1:30g *desobedientes a los padres,* APEITHEIS negarse a cumplir con la potestad de los padres. [^1] 
 
 #### Romanos 1:31a *sin entendimiento,* ASYNETOS Que carece de entendimiento moral o práctico; necio, insensato. (Sentido: “persona necia” – falta de discernimiento o juicio). [^1]
 #### Romanos 1:31b *indignos de confianza,* ASYNTHETOS que no cumplen los acuerdos; infieles o traicioneros. (Sentido: “que rompen una promesa o pacto”). [^1] 
@@ -954,35 +984,69 @@ Romanos 15:28 - *Así que cuando haya cumplido esto y les haya entregado esta of
 
 ## En Síntesis (1:18-32)
 
-### El registro de la corte (1:18-32): Pablo registra la evidencia presentada en este juicio.
+### La ira de Dios es revelada continuamente (Romanos 1:18) como respuesta justa a la impiedad e injusticia humanas. No es caprichosa, sino consecuencia del rechazo activo del hombre a la verdad.
 
-#### La acusación general (1:18-19): "Dios muestra su ira desde el cielo contra todos los pecadores, impíos personas que alejan la verdad de sí mismas. Porque la verdad acerca de Dios les es conocida instintivamente".
+### La humanidad suprime la verdad que Dios ya hizo clara en su conciencia y en la creación (Romanos 1:19–20).
 
-#### Los cargos específicos (1:20-32)
+####  Esta revelación es:
 
-##### Primera acusación ignorancia inexcusable (1:20): Dios siempre ha revelado su existencia y poder para la humanidad.
+##### Universal
 
-##### Segunda acusación-ingratitud (1:21): La gente es ingrata y se niega a adorar a su Creador.
+##### Clara
 
-##### Tercera acusación-insolencia (1:22): Pretendiendo ser sabios sin Dios, se vuelven tontos en su lugar.
+##### Continua
 
-##### Cuarta acusación-idolatría (1:23): Cambian la gloria de Dios por ídolos que se asemejan a meros personas, pájaros, animales y serpientes.
+#####  Por lo tanto, el hombre es responsable y no tiene excusa.
 
-##### Quinta acusación-inmoralidad (1:24-27): Son culpables de lesbianismo y homosexualidad.
+### Aunque conocían a Dios, no lo honraron ni dieron gracias (Romanos 1:21).
 
-##### Sexta acusación-incorregibilidad (1:28-32)
+####  Resultado:
 
-###### Abrazan sus malas acciones (1:28-31).
+##### Su razonamiento se volvió vano
 
-###### Respaldan sus malas acciones (1:32).
+##### Su corazón se oscureció
+
+##### Se declararon sabios, pero se hicieron necios
+
+##### Reemplazaron la gloria del Creador por ídolos (Romanos 1:22–23)
+
+### Dios revela Su ira “entregando” al hombre a su propio pecado en tres etapas:
+
+#### Colapso moral y sexual (Romanos 1:24–25)
+
+#####  Impureza, deshonra del cuerpo, idolatría práctica.
+
+#### Colapso de valores (Romanos 1:26–27)
+
+#####  Pasiones vergonzosas contrarias al diseño natural.
+
+#### Colapso de la mente y cosmovisión (Romanos 1:28–32)
+
+#####  Mente depravada que normaliza y aprueba el mal.
+
+#### El resultado es una humanidad llena de toda clase de injusticia, no solo externa sino interna: corrupción moral, egoísmo, violencia, engaño, malicia, odio hacia Dios, ruptura de relaciones, falta de afecto natural y ausencia de misericordia.
+
+#### La tragedia no es falta de revelación sino rechazo de Dios.
+
+#####  El hombre:
+
+###### Conoce la verdad
+
+###### La suprime
+
+###### Vive fuera de diseño
+
+###### Y aun así aprueba lo que Dios condena
+
+### La ira de Dios ya está en operación en el mundo presente, no solo futura, cuando Dios deja al hombre seguir su camino y el pecado mismo se vuelve juicio.
 
 ## Romanos 2:1-16 El hombre moral
 
 ### Romanos 2:1-5: Acusación: El hombre moral condena a otros y hace los mismo
 
-### Así como Romanos 1, el capítulo 2 tampoco contiene imperativos. Los verbos siguen siendo indicativos, estableciendo lo que es. Pablo continúa denunciando al pecador y describiendo el justo juicio de Dios, pero aún no da órdenes ni hace súplicas al lector. En otras palabras, el capítulo 2 no es enseñanza para creyentes a como vivir. 
+#### Así como Romanos 1, el capítulo 2 tampoco contiene imperativos. Los verbos siguen siendo indicativos, estableciendo lo que es. Pablo continúa denunciando al pecador y describiendo el justo juicio de Dios, pero aún no da órdenes ni hace súplicas al lector. En otras palabras, el capítulo 2 no es enseñanza para creyentes a como vivir. 
 
-Romanos 2:1a "*Por lo cual*"...se refiere a todo lo antes mencionado. Pablo anticipa al moralista por juzgar a la humanidad sin entender que se halla incluido en la misma condición de culpable también. 
+### Romanos 2:1a "*Por lo cual*"...se refiere a todo lo antes mencionado. Pablo anticipa al moralista por juzgar a la humanidad sin entender que se halla incluido en la misma condición de culpable también. 
 
 ### Romanos 2:1b "*no tienes excusa, oh hombre,*"  La primera que vimos "no tienes excusa" era porque el hombre no responde a lo invisible de Dios que ha sido visto por lo creado. Ahora es porque su entendimiento ha sido reorientado fuera de Dios y su percepción es que lo que la humanidad hace está mal.
 
@@ -1008,7 +1072,7 @@ Romanos 2:1a "*Por lo cual*"...se refiere a todo lo antes mencionado. Pablo anti
 
 #### No es suficiente condenar a otro por hacer algo. Para las exigencias de la justicia de Dios, uno mismo tiene que practicar el bien que sabe y exige a otros. Es decir, no es suficiente saber el bien, es necesario hacerlo. 
 
-### **Romanos 2:4 El hombre moral no entiende la bondad de Dios**
+### **Romanos 2:4 El hombre moral no valora la bondad de Dios**
 
 #### Romanos 2:4a "*¿O tienes en poco las riquezas de Su bondad y tolerancia y paciencia,*" Pablo continua con el mismo modo, ¿No es presumido pensar que Dios no te juzgará? 
 
@@ -1016,19 +1080,19 @@ Romanos 2:1a "*Por lo cual*"...se refiere a todo lo antes mencionado. Pablo anti
 
 #### Romanos 2:4b *ignorando que la bondad de Dios te guía al arrepentimiento?* Al pensar que ha escapado del juicio de Dios por condenar a otros por su conducta, esta ignorando (depreciando) la bondad de Dios que es para guiar al cambio de mente. 
 
-#### **Explicación sobre el arrepentimiento bíblico**
+#### **Breve explicación sobre el arrepentimiento bíblico**
 
-##### Arrepentimiento METANOIA es una palabra compuesta de dos palabras griegas. META (después, más allá, cambio) y NOIA (mente, entendimiento, percepción). Literalmente significa cambio de mente o cambio de opinión. 
+##### Arrepentimiento es la traducción al español de la palabra griega METANOIA.  METANOIA es una palabra compuesta de dos palabras griegas. META (después, más allá, cambio) y NOIA (mente, entendimiento, percepción). Literalmente significa cambio de mente o cambio de opinión. 
 
-##### La palabra arrepentimiento viene del latin y significa, "el pesar que una persona siente por algo que ha hecho, dicho o dejado de hacer, y conlleva una voluntad personal y sincera de asumir responsablemente las consecuencias de actos considerados moralmente reprobables, comprometiéndose a no perpetuarlos."
+##### La palabra arrepentimiento en el español viene del latin y significa, "el pesar que una persona siente por algo que ha hecho, dicho o dejado de hacer, y conlleva una voluntad personal y sincera de asumir responsablemente las consecuencias de actos considerados moralmente reprobables, comprometiéndose a no perpetuarlos."
 
-##### Entonces, claramente, la palabra arrepentimiento al español es muy mala traducción de la palabra griega METANOIA. No se parece en nada. 
+##### Entonces, claramente, la palabra arrepentimiento al español es muy mala traducción de la palabra griega METANOIA. No se parecen en nada. El autor del lexico Robertson dice que es: “*La peor traducción del Nuevo Testamento*”.[^15]
 
-##### Historia del uso de la palabra METANOIA
+##### Breve reseña histórica del uso de la palabra METANOIA
 
 ###### Contexto griego clásico (siglos V-III a.C.): En filósofos como Platón, Jenofonte y Polibio, metanoia se refería a una reconsideración después de una acción, arrepentimiento o cambio de opinión.
 
-###### Ejemplo (Polibio 1.27.7): “Cambió de opinión (metanoia) sobre el plan”. Cambio de decisión puramente intelectual.
+###### Ejemplo (Polibio 1.27.7): “Cambió de opinión METANOIA sobre el plan”. Cambio de decisión puramente intelectual.
 
 ###### Según el uso clásico METANOIA significaba reevaluación mental, no arrepentimiento moral.
 
@@ -1040,7 +1104,7 @@ Romanos 2:1a "*Por lo cual*"...se refiere a todo lo antes mencionado. Pablo anti
 
 ###### Nótese que en todos los casos citados, la persona o personas en cuestión habían pensado una cosa o tomado una decisión y luego, basándose en nuevas pruebas o información, cambiaron de opinión.[^7]
 
-##### Antinguo Testamento (Septuaginta): Metanoia y metanoeō aparecen veinte veces en los libros canónicos del Antiguo Testamento griego (Septuaginta). Conservan el significado de un cambio de opinión sobre alguien o algo en la Septuaginta. Los siguientes ejemplos son representativos.
+##### Antinguo Testamento (Septuaginta): METANOIA y METANOEO aparecen veinte veces en los libros canónicos del Antiguo Testamento griego (Septuaginta). Conservan el significado de un cambio de opinión sobre alguien o algo en la Septuaginta. Los siguientes ejemplos son representativos.
 
 ###### Cuando el Señor decidió quitarle el reino al rey Saúl, le ordenó a Samuel que dijera: «No se arrepentirá ni cambiará de parecer, porque no es como el hombre para que cambie de parecer» (1 Samuel 15:29).
 
@@ -1054,9 +1118,9 @@ Romanos 2:1a "*Por lo cual*"...se refiere a todo lo antes mencionado. Pablo anti
 
 ###### La Vulgata latina: Jerónimo estableció esta traducción del latín antiguo como autorizada al conservar paenitentia como traducción de METANOIA. El sistema de penitencia se convirtió en un camino establecido mediante el cual se esperaba obtener la gracia.
 
-###### Primeras versiones al Español: La primera Biblia traducida completamente al español fue la Biblia Alfonsina, realizada entre 1260 y 1280 bajo el patrocinio del rey Alfonso X el Sabio de Castilla y León. La traducción se basó en la Biblia Vulgata, **la versión latina de San Jerónimo**, y fue llevada a cabo por la Escuela de Traductores de Toledo.
+###### Primeras versiones al Español: La primera Biblia traducida completamente al español fue la Biblia Alfonsina, realizada entre 1260 y 1280 bajo el patrocinio del rey Alfonso X el Sabio de Castilla y León. La traducción se basó en la Biblia Vulgata, la versión latina de Jerónimo, y fue llevada a cabo por la Escuela de Traductores de Toledo.
 
-###### Primeras versiones al Inglés: John Wycliffe, «la Estrella de la Mañana de la Reforma», fue pionero en la primera Biblia completa en inglés a finales del siglo XIV. Desafortunadamente, su obra no se basó en el griego y el hebreo originales, sino que fue una **traducción muy literal de la Vulgata**. Por lo tanto, no debería sorprendernos que tradujera el latín agite paenitentiam como «hacer penitencia». 
+###### Primeras versiones al Inglés: John Wycliffe, «la Estrella de la Mañana de la Reforma», fue pionero en la primera Biblia completa en inglés a finales del siglo XIV. Desafortunadamente, su obra no se basó en el griego y el hebreo originales, sino que fue una traducción muy literal de la Vulgata. Por lo tanto, no debería sorprendernos que tradujera el latín agite paenitentiam como «hacer penitencia». 
 
 ###### Las traducciónes de «arrepentimiento» parecen mantener la idea de que uno debe apartarse de sus pecados para obtener el favor de Dios. Sin embargo, elimina la noción de que, además, uno debe confesar sus pecados a un sacerdote y realizar las buenas obras prescritas antes de poder obtener (o recuperar) la gracia.
 
@@ -1064,27 +1128,23 @@ Romanos 2:1a "*Por lo cual*"...se refiere a todo lo antes mencionado. Pablo anti
 
 ###### Argumentaron que METANOIA significa más apropiadamente «cambio de mentalidad»/«conversión», no necesariamente realizar actos de penitencia.[^11]
 
-##### Alguna traduccion moderna al español que traduce METANOIA correctamente: La Biblia “TCB” (Traducción Contemporanea de la Biblia) en Mateo 3:2, el griego μετανοεῖτε (metanoeite) se traduce como “**cambien su manera de pensar**” en lugar de “arrepentíos”.[^9]
+##### Alguna traduccion moderna al español que traduce METANOIA correctamente: La Biblia “TCB” (Traducción Contemporanea de la Biblia) en Mateo 3:2, el griego μετανοεῖτε (metanoeite) se traduce como “cambien su manera de pensar” en lugar de “arrepentíos”.[^9]
 
-###### Sin embargo, esta misma versión, aunque traduce METANOIA cambio de mentalidad, también agrega que se verá en un cambio de conducta como veremos en Romanos 2:4...
+###### Sin embargo, esta misma versión, aunque traduce METANOIA cambio de mentalidad, muestra una falta de fidelidad cuando agrega que necesariamente: "se verá en un cambio de conducta" como veremos en Romanos 2:4...
 
-###### "*¿No ves que desprecias las riquezas de la bondad de Dios, de su misericordia y de su paciencia, al no reconocer que la bondad de Dios quiere **llevarte a un cambio de mentalidad que se refleja en un cambio de conducta**?*"
+###### "*¿No ves que desprecias las riquezas de la bondad de Dios, de su misericordia y de su paciencia, al no reconocer que la bondad de Dios quiere llevarte a un cambio de mentalidad que se refleja en un cambio de conducta?*"
 
-###### Esto también es equivocado y no es una traducción de la palabra METANOIA sino una interpretación.  Para que sea un "genuino arrepentimiento" habrá un cambio de conducta que acompaña. 
+###### Esto también es equivocado y no es una traducción fiel de la palabra METANOIA sino una interpretación.  Para que sea un "genuino arrepentimiento" habrá un cambio de conducta que acompaña alegan. 
 
-##### En Conclusión: 
-
-###### ¿Como debemos entender arrepentimiento en Romanos 2:4?
+##### En Conclusión:  ¿Como debemos entender arrepentimiento en Romanos 2:4?
 
 ###### Literalmente: «La bondad de Dios te lleva a un **cambio de parecer**.»
 
-###### ó
-
 ###### Dinámicamente: «La bondad de Dios te lleva al arrepentimiento (**un cambio de corazón y de vida**).»
 
-###### Ya que una traducción dinámica de la palabra contradice el resto de la Biblia, no es una opción válida. El arrepentimiento es requisito para recibir la salvación como regalo no como un premio. Bíblicamente no es por ni una sola obra que somos salvos. Es más, al querer agregarle una obra, rechazamos que sea por gracia. 
+###### Ya que una traducción dinámica de la palabra contradice el resto de la Biblia, no es una opción válida. El arrepentimiento es requisito para recibir la salvación como regalo inmerecido no como un regalo "inmerecido" pero sin hacer nada. Bíblicamente no es por ni una sola acción que somos salvos. Es más, al querer agregarle una obra, rechazamos que sea por gracia y la convertimos en obras. Romanos 11:6
 
-###### Entonces, exigir como necesario del arrepentimiento tener un cambio de vida o tener un cambio de mente que resulta en un cambio de vida es requerir obras. Esto contradice estos textos bíblicos: Efesios 2:8-9; Tito 3:5; Juan 3:15-16; Juan 1:12; 
+###### Entonces, exigir como necesario del arrepentimiento tener un cambio de vida o tener un cambio de mente que resulta en un cambio de vida es requerir la obra de un cambio de vida. Esto contradice estos textos bíblicos: Efesios 2:8-9; Tito 3:5; Juan 3:15-16; Juan 1:12
 
 ###### La bondad de Dios es para guiar o conducir a un cambio de mente. "*¿Piensas o hombre...?*" es imposible que un incrédulo crea el evangelio sin tener un cambio de parecer. No debe ignorar la bondad de Dios (al no juzgarlo inmediatamente siendo tolerante y paciente) y considerar que no escapará el juicio de Dios que es inminente para todos. 
 
@@ -1106,11 +1166,11 @@ Romanos 2:1a "*Por lo cual*"...se refiere a todo lo antes mencionado. Pablo anti
 
 ###### En el Nuevo Testamento, el corazón KARDIA y la mente NOUS /  DIANOIA a menudo comparten significados. No son palabras idénticas, pero la cosmovisión bíblica los considera a ambos como la persona interior, el centro del pensamiento, la voluntad y el sentimiento, no la división entre emoción e intelecto que solemos asumir hoy.
 
-###### Pensamiento/razonamiento (Proverbios 23:7) *«según piensa en su corazón»*
+###### Pensamiento y corazón  *«según piensa en su corazón»*. Proverbios 23:7
 
-###### Entendimiento (1 Reyes 3:9)
+###### Entendimiento y corazón. 1 Reyes 3:9
 
-###### Emociones y voluntad (Deuteronomio 6:5)
+###### Emociones, voluntad y corazón. Deuteronomio 6:5
 
 ##### Así pues, para los judíos, el corazón representa el ser interior: mente, emoción y voluntad en conjunto.
 
@@ -1140,45 +1200,63 @@ Romanos 2:1a "*Por lo cual*"...se refiere a todo lo antes mencionado. Pablo anti
 
 ## En Síntesis (2:1-5)
 
-### Analisis Causa - Efecto
+### El hombre moral es igualmente culpable.
 
-#### 2:1–5 — Juicio e hipocresía
+####  Aunque condena el pecado en otros, practica lo mismo. Al juzgar, demuestra conocer el bien —y por lo tanto— no tiene excusa ante Dios (2:1–3).
 
-##### Causa: Juzgas a otro mientras haces lo mismo (2:1).
+### El juicio de Dios es justo e inescapable.
 
-##### Efecto: No tienes excusa; te condenas a ti mismo.
+####  Dios juzga según la verdad, no por comparación entre personas. Nadie escapa por tener estándares morales —solo quien hiciera siempre el bien podría evitar condena (2:2–3).
 
-##### Causa: El juicio de Dios es “conforme a la verdad” (2:2).
+### El hombre moral malinterpreta la paciencia de Dios.
 
-##### Efecto: Quienes practican tales cosas serán juzgados como corresponde.
+####  Confunde la paciencia divina con aprobación, en lugar de reconocer que la bondad de Dios busca llevarlo a un cambio de mente (metanoia) (2:4).
 
-##### Causa: Crees que escaparás del juicio de Dios mientras practicas las mismas cosas (2:3).
+### Si no cambia su manera de pensar, acumula ira.
 
-##### Efecto: La esperada “escape” no se deduce lógicamente. (Resultado implícito: no hay escapatoria).
+####  La terquedad del corazón no arrepentido almacena juicio para el día final, cuando se revelará la justicia perfecta de Dios (2:5).
 
-##### Causa: Desprecias las riquezas de su bondad, tolerancia y paciencia (2:4).
+### El estándar judicial de Dios es absoluto.
 
-##### Efecto: Pasas por alto el efecto deseado: Su bondad conduce al arrepentimiento.
+#### Vida eterna: solo para quien persevera siempre en el bien (hipotéticamente).
 
-##### Causa: Dureza y corazón impenitente (2:5).
+#### Ira y juicio: para quien obra mal (realidad universal).
 
-##### Efecto: Atesoras ira para el día de la ira y la revelación del justo juicio de Dios.
+### Dios juzga imparcialmente.
+
+####  Judíos y gentiles serán juzgados:
+
+##### Por sus obras
+
+##### Conforme a la luz que tuvieron
+
+### Conclusión:
+
+####  El moralista:
+
+##### Conoce el bien
+
+##### Lo exige a otros
+
+##### No lo practica: queda igualmente condenado
+
+### La paciencia de Dios no es aprobación, sino oportunidad para creer.
 
 ## Romanos 2:6-10: Razonando con el pensamiento moral
 
 ### Romanos 2:6 *ÉL PAGARÁ A CADA UNO CONFORME A SUS OBRAS:* En el día del  justo juicio de Dios, Él pagará a cada uno según lo que han hecho. 
 
-### En otras palabras, Dios paga lo que es debido, según las obras de cada uno. 
+#### En otras palabras, Dios paga lo que es debido, según las obras de cada uno. 
 
 ### Romanos 2:7 *a los que por la perseverancia en hacer el bien buscan gloria, honor e inmortalidad: vida eterna;* Dios pagaría vida eterna a los que perseveran en hacer el bien...
 
-### No es suficiente pensar el bien, debe hacer el bien. No es suficiente juzgar a lo que no hacen bien, uno debe practicarlo, perseverando hacer el bien. 
+#### No es suficiente pensar el bien, debe hacer el bien. No es suficiente juzgar a lo que no hacen bien, uno debe practicarlo, perseverando hacer el bien. 
 
-#### "*Perseverar*" HYPOMONE es resistencia firme n. - la capacidad de soportar dificultades o estrés; especialmente la fortaleza interior necesaria.
+>#### "*Perseverar*" HYPOMONE es resistencia firme n. - la capacidad de soportar dificultades o estrés; especialmente la fortaleza interior necesaria.
 
 #### Perseverar no es meramente ser sincero, es firmemente resistir. No da la idea de al menos intentar hacer el bien. Establece que se mantiene firme haciendo el bien. Buscan es un verbo en tiempo presente. Buscan continuamente gloria, honor e inmortalidad...siempre hacen el bien. 
 
-#### ¿Habrá alguien que puede ser pagado vida eterna? 
+#### ¿Habrá alguien que puede ser pagado con perdón y  vida eterna? 
 
 #### ¿Y que sucede si no perseveran perfectamente?
 
@@ -1674,135 +1752,77 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 #### ¿Por qué dirían esto de Pablo? 
 
-#### Incluso en el desarrollo de Romanos 1-3:
+##### Incluso en el desarrollo de Romanos 1-3:
 
-#### Pablo enfatiza el fracaso de la justicia humana (1:18–3:20).
+###### Pablo enfatiza el fracaso de la justicia humana (1:18–3:20).
 
-#### Enfatiza la justicia de Dios como algo que se manifiesta independientemente de las obras humanas (3:21).
+###### Enfatiza la justicia de Dios como algo que se manifiesta independientemente de las obras humanas (3:21).
 
-#### Observación:
+###### Cuanto más fuerte sea el contraste entre el pecado humano y la justicia de Dios, más fácil será para quien objeta exagerar el contraste y convertirlo en una afirmación falsa.
 
-#### Cuanto más fuerte sea el contraste entre:
+###### Romanos muestra que algunos sí lo exageraron.
 
-#### el pecado humano
+###### La acusación en 3:8 refleja la lógica de 3:5 y 3:7 sacada de contexto.
 
-#### y
+###### En 3:8, el lema citado: “Hagamos el mal para que venga el bien” es simplemente la conclusión a la que llega un objetor al malinterpretar las declaraciones hipotéticas de Pablo.
 
-#### la justicia de Dios,
+###### Este pensamiento corresponde exactamente a la interpretación errónea de los argumentos hipotéticos de “Si el pecado produce la gloria de Dios…” en los vv. 5-7.
 
-#### más fácil será para quien objeta exagerar el contraste y convertirlo en una afirmación falsa.
-
-#### Romanos muestra que algunos sí lo exageraron.
-
-#### La acusación en 3:8 refleja la lógica de 3:5 y 3:7 sacada de contexto.
-
-#### En 3:8, el lema citado:
-
-#### “Hagamos el mal para que venga el bien”
-
-#### es simplemente la conclusión a la que llega un objetor al malinterpretar las declaraciones hipotéticas de Pablo.
-
-#### Observación:
-
-#### Este lema corresponde exactamente a la interpretación errónea de los argumentos hipotéticos de “Si el pecado produce la gloria de Dios…” en los vv. 5-7.
-
-#### Por lo tanto, la acusación surge naturalmente de la mala interpretación de la propia técnica retórica de Pablo.
-
-#### Resumen (Solo Observación)
-
-#### Se podría acusar a Pablo de enseñar “Haz el mal para que venga el bien” porque:
-
-#### Utilizó situaciones hipotéticas contundentes que involucraban el pecado humano y la justicia de Dios.
-
-#### Adoptó la voz del oponente, que podría confundirse con la suya.
-
-#### El contraste entre el fracaso humano y la acción divina podría malinterpretarse.
-
-#### No siempre reiteró de inmediato de quién era la voz que hablaba.
-
-#### El lema en 3:8 es simplemente la distorsión lógica del argumento del objetor en 3:5-7.
+#### Por lo tanto, la acusación surge naturalmente de la mala interpretación de la propia técnica retórica de Pablo porque él queria siempre aclarar en enfatizar la gracia de Dios. 
 
 ## En Síntesis (3:1-8)
 
-### BOSQUEJO DE LA SECCIÓN TRES (ROMANOS 3)
+### La fidelidad de Dios ante la infidelidad del hombre
 
-### 3:1-8 — La fidelidad de Dios y la infidelidad humana
+#### Pablo continúa el argumento: todos los seres humanos son culpables ante Dios.
 
-#### Pablo usa preguntas/objeciones y respuestas. De estas respuestas surgen relaciones de causa → efecto.
+#### Ser judío sí tiene ventaja:
 
-#### 3:1-2
+##### les fueron confiados los oráculos de Dios.
 
-#### Causa: Ser judío; estar circuncidado (3:1).
+#### Pero la incredulidad humana no cancela la fidelidad de Dios.
 
-##### Efecto: Ventaja/gran beneficio (3:1-2).
+#### Conclusión clave:
 
-#### Causa: Confiados en las “palabras de Dios” (3:2).
+##### Dios siempre es veraz
 
-##### Efecto: Esto define la ventaja.
+##### todo hombre, mentiroso, si contradice lo que Dios ha dicho.
 
-#### (“Ventaja” es el efecto; “encomendación” da la razón).
+#### La cita de Salmo 51 muestra:
 
-#### 3:3-4
+##### aun cuando el hombre peca,
 
-#### Causa: Algunos no creyeron/fueron infieles (3:3).
+##### Dios permanece justo, santo y fiel en todo lo que dice y juzga.
 
-##### Efecto: Su incredulidad no anula la fidelidad de Dios.
+#### Algunos objetan:
 
-#### (Efecto negativo: algo NO sucede).
+##### “Si nuestro pecado resalta la justicia de Dios…
 
-#### Causa: Las palabras y acciones de Dios son verdaderas (3:4).
+##### ¿por qué Dios nos juzga?”
 
-##### Efecto: Dios se muestra veraz/justificado en sus palabras; prevalece cuando es juzgado. (El versículo establece el efecto explícitamente).
+#### Pablo responde:
 
-#### Causa: La injusticia humana resalta la justicia de Dios (3:5).
+##### ¡De ningún modo!
 
-##### Efecto: Objeción: “¿Es Dios injusto al infligir ira?”
+##### Si Dios fuera injusto al juzgar,
 
-#### (Este es el efecto dentro del argumento, aunque Pablo niega la conclusión).
+##### no podría juzgar al mundo.
 
-#### Causa: Si Dios fuera injusto (hipotético, 3:5-6).
+#### Otros llevan la objeción al extremo:
 
-##### Efecto: No podría juzgar al mundo.
+##### “Hagamos el mal para que venga el bien.”
 
-#### (Pablo razona que la causa hipotética produciría un efecto imposible).
+#### Pablo afirma:
 
-#### Causa: Mentira humana → La verdad de Dios abunda para Su gloria (3:7).
+##### esa acusación contra él es calumniosa
 
-##### Efecto: Objeción: “¿Por qué sigo siendo juzgado como pecador?”
+##### y la condenación de quienes piensan así es justa.
 
-##### (Efecto = la objeción misma).
+#### Punto central:
 
-#### Causa: Afirmación calumniosa: “Hagamos el mal para que venga el bien” (3:8).
+##### La fidelidad y justicia de Dios nunca dependen del hombre.
 
-##### Efecto: Su condenación es justa.
-
-#### Pablo presenta seis preguntas y las responde a sus lectores.
-
-### PRIMERA PREGUNTA Y RESPUESTA (3:1-2)
-
-#### Pregunta (3:1): ¿Cuáles son las ventajas de ser judío o de ser circuncidado?
-
-#### Respuesta (3:2): La ventaja más importante es que a Israel se le ha confiado la Palabra de Dios.
-
-### SEGUNDA PREGUNTA Y RESPUESTA (3:3-4)
-
-#### Pregunta (3:3): ¿La infidelidad de Israel anulará las promesas de Dios?
-
-#### Respuesta (3:4)
-
-##### El testimonio de Pablo (3:4a): "¡Por supuesto que no! Aunque todos los demás en el mundo son mentirosos, Dios lo es cierto".
-
-##### El testimonio de David (3:4b): Pablo cita el Salmo 51:4 para probar su punto.
-
-### TERCERA PREGUNTA Y RESPUESTA (3:5-8)
-
-#### Pregunta (3:5): Si nuestra injusticia saca a relucir la justicia de Dios, ¿no es injusto castigarlo? ¿nos?
-
-#### Respuesta (3:6-8)
-
-##### La reprobación (3:8b): Pablo ha sido acusado falsamente de enseñar esto mismo, es decir, hacer mal para que pueda resultar el bien.
-
-##### La respuesta (3:6-8a): Pablo responde: "Si sigues ese tipo de pensamiento... también podrías decir que cuanto más pecamos, mejor es! Aquellos que dicen tales cosas merecen ser condenados".
+##### El pecado humano resalta aún más que Dios es fiel pero nunca lo justifica.
 
 ## Romanos 3:9-20 Todos bajo pecado y silenciados ante Dios.
 
@@ -1872,11 +1892,21 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 ### **Romanos 3:13-14 Expresión verbal según las Escrituras.** 
 
-#### Romanos 3:13a "*SEPULCRO ABIERTO ES SU GARGANTA,*" su garganta es una tumba abierta. 
+#### Tres imágenes consecutivas del habla humana para describir la corrupción internta que sale por la boca. La progresión anatómica muestra que todo el aparato del habla está comprometido.
 
-#### Romanos 3:13b "*ENGAÑAN DE CONTINUO CON SU LENGUA.*" continuamente engañan con su habla. 
+##### garganta → sepulcro abierto
 
-#### Romanos 3:13c *VENENO DE SERPIENTES HAY BAJO SUS LABIOS;* 
+##### lengua → instrumento de engaño
+
+##### labios → llenos de veneno mortal
+
+##### Pablo no se baja en los eventos actuales sino que cita las Escrituras (Salmo 5:9, 140:3) para demostrar esto era el caso en aquél entonces como podemos atestiguar lo sigue siendo hoy. 
+
+#### Romanos 3:13a "*SEPULCRO ABIERTO ES SU GARGANTA,*" su garganta ha sido y sigue abierto. La gargante permanece un "*sepulcro abierto*" lo que es una imagen de corrupción expuesta. 
+
+#### Romanos 3:13b "*ENGAÑAN DE CONTINUO CON SU LENGUA.*" habitualmente engañaban con su habla. Esto describe la característica continua del hablar del hombre.
+
+#### Romanos 3:13c *VENENO DE SERPIENTES HAY BAJO SUS LABIOS;* el veneno esta (presente) bajo los labios. 
 
 #### Romanos 3:14 *LLENA ESTÁ SU BOCA DE MALDICIÓN Y AMARGURA.* Estas personas injustas (todos) tienen la boca repleta de maldad. Sus palabras son llenas de daño a otros y expresan amargura. 
 
@@ -1884,9 +1914,13 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 ##### Son tumbas de muertos que siguen abiertos y vemos lo espantoso que son.  Sale engaño, veneno, maldición y amargura. 
 
+#### Pablo muestra que el pecado no solo afecta obras externas, sino palabras, intención y carácter interior. Así prepara el terreno para la conclusión en 3:19–20: toda boca queda cerrada- irónicamente, la boca que antes engañaba y destilaba veneno ya no tiene defensa ante Dios.
+
 ### **Romanos 3:15-18 Los caminos del hombre según las Escrituras**
 
 #### Romanos 3:15 *SUS PIES SON VELOCES PARA DERRAMAR SANGRE.* El uso de los pies representa las acciones de las personas. Su andar es rápidamente hacia causar la muerte. 
+
+##### Al citar Isaías 58:7 (Septuaginta) Pablo sigue mostrando la condición universal del hombre bajo pecado. 
 
 #### Romanos 3:16 *DESTRUCCIÓN Y MISERIA hay EN SUS CAMINOS,* sus caminos llevan a la destrucción y miseria. 
 
@@ -1894,31 +1928,39 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 #### Romanos 3:18 *NO HAY TEMOR DE DIOS DELANTE DE SUS OJOS».* Ahora vemos que sus ojos revelan su falta de temor hacia Dios. 
 
+#####  En 3:13–18 Pablo recorre: garganta → lengua → labios → pies → caminos → ojos
+
+#####  Es un cuadro totalizante: todo el ser humano (sus miembros) está afectado por el pecado.
+
 ## Romanos 3:19-20 Propósito y conclusión
 
-#### Romanos 3:19a *Ahora bien, sabemos...* usa primera persona plural. 
+### Romanos 3:19a *Ahora bien, sabemos...* usa primera persona plural para expresar sabemos y seguimos sabiendo. Se da por sentado el conocimiento establecido, asumido y compartido por Pablo y sus lectores. 
 
-#### Romanos 3:19b *que cuanto dice la ley, lo dice a los que están bajo la ley,* lo que la ley dice es a los que estan en la ley. 
+### Romanos 3:19b *que cuanto dice la ley, lo dice a los que están bajo la ley,* lo que la ley dice es a los que estan en la ley. 
 
-#### Romanos 3:19c "*para que toda boca se calle*" la ley sirve para demostrar la boca del injusto. 
+#### Pablo muestra que hasta el pueblo con revelación especial queda culpable.
 
-#### Romanos 3:19d  *y* [es para que] *todo el mundo sea hecho responsable ante Dios.* La Ley hace que todos puedan llegar a ser responsables delante de Dios. 
+#### La Ley dice (presente). Indica que sigue hablando, osea que su trabajo continúa. Pero su testimonio es "*a los que están bajo la ley*". 1 Timoteo 1:8-10
 
-#### Romanos 3:20a "*Porque...*" por esta razón...dará una explicación sobre la función de La Ley:
+### Romanos 3:19c "*para que toda boca se calle*" la boca es cerrada (pasivo) por una fuerza externa (el testimonio de la Ley). 
 
-##### Razón principal: Nadie será justificado por la obras de la ley. 
+#### Dicha de otra manera, el acusado queda sin defensa, totalmente en silencio. 
 
-##### Razón de apoyo: La Ley no es para hacer justo sino es para dar conocimiento del pecado.
+### Romanos 3:19d  *y* [es para que] *todo el mundo sea hecho responsable ante Dios.* La Ley hace que todos puedan llegar a ser responsables delante de Dios. 
 
-#### Romanos 3:20b "*porque...por las obras de la ley*" porque saliendo de o a partir las obras de La Ley. Obras que son relacionadas o caracterizadas por ley.
+### Romanos 3:20a "*Porque...*" por esta razón...dará una explicación sobre la función de La Ley:
 
-##### Pablo marca gramaticalmente la fuente o medio que se niega como base para ser justificado.
+#### Razón principal: Nadie será justificado por la obras de la ley. 
 
-##### Veamos una lista de ejemplos de “*obras de la Ley*” para ilustrar lo que Pablo queria demostrar representado por obras de la ley. 
+#### Razón de apoyo: La Ley no es para hacer justo sino es para dar conocimiento del pecado.
 
-###### A continuación se presenta una lista extraída directamente de mandamientos explícitos de la Torá. Estas son acciones concretas que la Ley exige, agrupadas solo para mayor claridad.
+### Romanos 3:20b "*porque...por las obras de la ley*" porque saliendo de o a partir las obras de La Ley. Obras que son relacionadas o caracterizadas por ley.
 
-###### Marcas de identidad rituales: Circuncisión (Génesis 17; Levítico 12). Observancia de las leyes alimentarias (Levítico 11). Uso de borlas en las vestimentas (Números 15:38-39). Mantenimiento de la pureza ritual (Levítico15; Números 19). 
+#### Pablo marca la fuente o medio que se niega como base para ser justificado. Veamos una lista de ejemplos de “*obras de la Ley*” para ilustrar lo que Pablo queria demostrar representado por obras de la ley. 
+
+#### A continuación se presenta una lista extraída directamente de mandamientos explícitos de la Torá. Estas son acciones concretas que la Ley exige, agrupadas solo para mayor claridad.
+
+##### Marcas de identidad rituales: Circuncisión (Génesis 17; Levítico 12). Observancia de las leyes alimentarias (Levítico 11). Uso de borlas en las vestimentas (Números 15:38-39). Mantenimiento de la pureza ritual (Levítico15; Números 19). 
 
 ###### Analogías Modernas: Códigos dietéticos específicos (veganos, solo orgánicos, sin azúcar) utilizados como marcadores de identidad moral. Marcas de estilo de vida (minimalismo, cero residuos) consideradas como una señal de mayor virtud. Símbolos, insignias o hashtags sociales o políticos utilizados para mostrar alineamiento moral. Adherencia estricta a los códigos de etiqueta para indicar dignidad o superioridad. 
 
@@ -1964,17 +2006,17 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 ### Romanos 3:20b "*ningún ser humano será justificado*" El primer punto por el cual Pablo rechaza las obras de la La Ley como medio para ser justificado antes Dios es porque "*ningún ser humano*" lo lograría. 
 
-#### Será justificado DIKAIOTHESETAI (futuro, pasivo, indicativo). Es decir, ningún ser humano (incluyendo griegos y judíos y todos) jamás (indicativo) recibirá justificación (futuro, pasivo) por el medio de hacer las obras de La Ley. 
+#### "*Será justificado*" DIKAIOTHESETAI (futuro, pasivo, indicativo). Es decir, ningún ser humano (incluyendo griegos y judíos y todos) jamás (indicativo) recibirá justificación (futuro, pasivo) por el medio de hacer las obras de La Ley. 
 
-#### Es importante que enfatizar que la justificación no es por el medio de las obras. ¿Por qué? Porque por el medio de hacer buenas obras "*nadie será justificado*". Esto es la realidad. Algunos prefieren rechazar esta verdad y aun así intentar por medio de sus esfuerzos alcanzar ser justificados. 
+##### Es importante que enfatizar que la justificación no es por el medio de las obras. ¿Por qué? Porque por el medio de hacer buenas obras "*nadie será justificado*". Esto es la realidad. Algunos prefieren rechazar esta verdad y aun así intentar por medio de sus esfuerzos alcanzar ser justificados. 
 
-#### Este esfuerzo (aplaudible o no) solo terminará en fracazo. Nadie será reconocido como justo delante de Dios por hacer obras. Esto puede parecer insensible para el hombre religioso o al moral. Ellos se esmeran en hacer buenas obras para hallar ser hechos aceptables ante Dios. 
+##### Este esfuerzo (aplaudible o no) solo terminará en fracazo. Nadie será reconocido como justo delante de Dios por hacer obras. Esto puede parecer insensible para el hombre religioso o al moral. Ellos se esmeran en hacer buenas obras para hallar ser hechos aceptables ante Dios. 
 
 ###  Romanos 3:20c "*...delante de Él;*" Dios no verá o dejará a nadie en su presencia por cumplir las obras de La Ley. Esto marca donde será rechazada el medio de las obras. Esto es importante reconocer: 
 
-#### Es Dios quien rechazará justificación a todo ser humano que viene a Él a traves de las obras. La justificación es un hecho imposible ante Dios por medio de las obras. Dios negará a todo ser humano la justificación por las obras. 
+#### Es Dios quien rechazará justificación a todo ser humano que viene a Él a traves de las obras. La justificación es un hecho imposible ante Dios por medio de las obras. Dios **negará** a todo ser humano la justificación por las obras. 
 
-#### Es posible que por medio de las obras el hombre sea reconocido como bueno delante de los hombres, pero no "*delante de Él*". Esto es muy importante diferenciar. Pablo comentará más sobre esto en el capítulo 4. 
+#### Es posible que por medio de las obras el hombre sea reconocido como bueno delante de los hombres, pero no "*delante de Él*". Esto es muy importante diferenciar. Pablo comentará más sobre esta diferencia en el capítulo 4. 
 
 ### Romanos 3:20c "*pues por medio de la ley viene el conocimiento del pecado.*" La segunda razón es porque La Ley nunca fue dado por otra razón sino para dar conocimiento del pecado. Indica reconocimiento o conciencia del pecado. 
 
@@ -1982,113 +2024,65 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 #### La segunda razón es porque la función de La Ley es conectado al conocimiento del pecado no para justificar. No es la acción de La Ley de negar justificación. Sin embargo, La Ley no provee la habilidad de cumplir lo que demanda, entonces termina bajo condenación aquel que intenta usarla como medio de justificación. 
 
-### Concluimos pues, nadie, ningún ser humano podrá jamás ser justificado por las obras de La Ley. La Ley es para traer conciencia de pecado. Sin embargo ya vimos que el conocimiento solo no justifica sino que yendo por La Ley es necesario cumplir absolutamente todo sin falta. 
+### Concluimos pues, que nadie, ningún ser humano podrá jamás ser justificado por las obras de La Ley. La Ley es para traer conciencia de pecado. Sin embargo ya vimos que el conocimiento solo no justifica sino que apoyándose de La Ley es necesario cumplir absolutamente todo sin falta. 
 
-### Por lógica, si ni siquiera las obras de La Ley son satisfactorias, entonces por implicación hacer ninguna clase de obras es el medio para ser justificado delante de Dios. 
+##### Lógicamente, si ni siquiera las obras de La Ley son satisfactorias, entonces por hacer cualquier clase de obras como medio para ser justificado delante de Dios es inservible. 
 
 ## En Síntesis (3:9-20)
 
-### CUARTA PREGUNTA Y RESPUESTA (3:9-20)
+### No hay grupo con ventaja moral ante Dios.
 
-### 3:9-18 — Todos bajo pecado / Prueba bíblica 3:9
+####  Pablo pregunta si “nosotros” (cualquiera que se crea moralmente superior) somos mejores — y responde con un rotundo **no**. Judíos y gentiles por igual están “bajo pecado” (3:9).
 
-#### Causa: Tanto judíos como griegos están “bajo pecado” (3:9).
+### La Escritura declara universal la injusticia humana.
 
-##### Efecto: Nadie tiene ventaja.
+####  En una cadena de citas (3:10–18), la Biblia afirma que:
 
-### (El “en absoluto” de Pablo niega la ventaja como efecto de la condición).
+##### no hay justo — ni siquiera uno
 
-### 3:10-18 (Cadena bíblica)
+##### nadie entiende
 
-#### Aquí, las causas son descripciones; los efectos son los comportamientos o condiciones resultantes de estar “bajo pecado”.
+##### nadie busca a Dios
 
-#### Pablo no atribuye consecuencias externas; estas son efectos conductuales de la condición humana.
+##### todos se han desviado
 
-#### Causa: No hay justo (3:10).
+##### nadie hace el bien
 
-##### Efecto: No hay nadie que entienda ni busque a Dios (3:11).
+####  Esto describe la condición interna del ser humano, no solo su conducta externa.
 
-#### Causa: Todos se desvían (3:12).
+### El pecado invade todo el ser.
 
-##### Efecto: Todos se vuelven inútiles; nadie hace el bien.
+####  La corrupción sale por la boca (garganta, lengua, labios), se expresa en camino violento (pies, senderos), y termina en falta de temor de Dios (ojos).
 
-#### Causa: La garganta comparada con un sepulcro abierto (3:13a).
+###  Es una descripción totalizante: el corazón, las palabras, las obras y la visión de la vida están afectados por el pecado.
 
-##### Efecto: El habla se describe como destructiva o mortal.
+### La Ley no absuelve — acusa.
 
-#### Causa: La lengua engaña (3:13b).
+####  Lo que la Ley dice, lo dice a los que están bajo la Ley, para que:
 
-##### Efecto: Engaño en el habla.
+##### toda boca sea cerrada
 
-#### Causa: Veneno de áspides bajo los labios (3:13c).*
+##### todo el mundo quede declarado culpable ante Dios (3:19)
 
-##### Efecto: Habla peligrosa (efecto metafórico).
+#### La escena es judicial: el acusado queda en silencio, sin defensa.
 
-#### Causa: Boca llena de maldición y amargura (3:14).*
+### Nadie será justificado por obras de la Ley.
 
-##### Efecto: El resultado es un lenguaje dañino.
+####  Absolutamente nadie será declarado justo delante de Dios por cumplir mandamientos o practicar religión (3:20a).
 
-#### Causa: Pies rápidos para derramar sangre (3:15).*
+####  La Ley nunca fue dada para justificar, sino para dar conocimiento del pecado (3:20b).
 
-##### Efecto: Violencia / disposición para el daño.
+### Conclusión final del argumento (1:18–3:20):
 
-#### Causa: Ruina y miseria en sus caminos (3:16).*
+#### Todo ser humano está bajo pecado
 
-##### Efecto: Resultados destructivos tras sus acciones.
+#### Toda boca queda silenciada
 
-#### Causa: Camino de paz desconocido (3:17).*
+#### Toda obra queda anulada como base de justicia
 
-##### Efecto: Ausencia de paz en la conducta.
+#### Toda esperanza en mérito propio queda descartada
 
-#### Causa: No hay temor de Dios ante sus ojos (3:18).*
-
-##### Efecto: Se describe todo el patrón de conducta injusta.
-
-#### 3:19-20 — El discurso y la función de la ley 3:19
-
-##### Causa: Todo lo que la ley dice, lo dice a los que están bajo la ley (3:19a).
-
-###### Efecto: Toda boca puede callar (3:19b).
-
-##### Causa: La ley habla a los que están bajo la ley (3:19a).
-
-###### Efecto: Todo el mundo rinde cuentas a Dios (3:19b).
-
-###### (Efecto expresado en dos resultados paralelos). 3:20
-
-##### Causa: Obras de la ley (3:20a).
-
-###### Efecto: Ninguna carne será justificada ante Dios.
-
-##### Causa: Por la ley viene el conocimiento del pecado (3:20b).
-
-###### Efecto: La función de la ley es (enunciada): explicitamente el conocimiento del pecado.
-
-### Romanos 3:9-20 ¿Son los judíos mejores que todos los demás pueblos?
-
-#### La corrupción (3:10-18): Pablo describe el cáncer del pecado que ha infectado a la raza humana.
-
-##### La conciencia humana es depravada (3:10-11): Nadie desea siquiera conocer y seguir a Dios.
-
-###### El carácter humano es depravado (3:12): Todos han dejado el camino del bien y se han convertido en inútil.
-
-###### La conversación humana es depravada (3:13-14): La conversación de la gente es sucia y sucia, parecida a:
-
-###### El hedor de una tumba abierta (3:13a)
-
-###### El veneno de una serpiente mortal (3:13b-14)
-
-##### La conducta humana es depravada (3:15-18).
-
-###### "Se apresuran a cometer asesinatos" (3:15-17).
-
-###### "No temen a Dios" (3:18).
-
-#### La conclusión (3:9, 19-20): Después de presentar todos los hechos terribles, Pablo llega a este doble conclusión:
-
-##### Tanto los judíos como los gentiles han pecado contra Dios (3:9).
-
-##### Tanto los judíos como los gentiles son acusados ante Dios (3:19-20).
+#### La necesidad universal de gracia queda establecida.
 
 # ROMANOS 3:21-5:11 - LA JUSTICIA DE DIOS RECIBIDA MEDIANTE LA FE EN JESUCRISTO
 
@@ -2100,7 +2094,7 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 #### Lo que presentará ahora, es contrastando a lo que dijo que ningún ser humano será justificado por las obras de La Ley. 
 
-Miremos a continuación como la gramática tiene dos acciones sobre un mismo sujeto: manifestar y testificar. Los agentes de estas dos acciones no son los mismos y las acciones no son simultáneas. 
+#### Miremos a continuación como la gramática tiene dos acciones sobre un mismo sujeto: manifestar y testificar. Los agentes de estas dos acciones no son los mismos y las acciones no son simultáneas. 
 
 ### Romanos 3:21b "*aparte de la ley,*" Pero ahora, **sin** o separado de la ley viene lo que sigue que la justicia de Dios es claramente visible. 
 
@@ -2164,7 +2158,87 @@ Miremos a continuación como la gramática tiene dos acciones sobre un mismo suj
 
 ### Romanos 3:24b "*por Su gracia*" Esto explica como la justificación sucedió. La forma para justificar es por gracia. 
 
+#### Según los lexicos BDAG Liddell-Scott, Incluso antes del Nuevo Testamento, CHARIS significaba una bondad no exigida por la ley o el deber.
+
 #### Ya que todos son pecadores y merecen condenación, la justificación es solamente posible por la gracia de Dios. 
+
+#### ¿Que es gracia CHARIS? El sentido básico observable por el uso: favor que no se debe
+
+##### El significado se establece mediante contrastes, objetos, fuentes y resultados, no mediante declaraciones de definición.
+
+##### CHARIS se enseña en contraste con la obligación ó deuda. 
+
+##### CHARIS se contrasta con “*lo que se debe*” OFEILEMA  : 
+
+###### Romanos 4:4 “*Ahora bien, al que trabaja, su salario no se le acredita como favor* [CHARIS], *sino como lo que le corresponde*”.
+
+###### Lo que se gana no se puede llamar CHARIS
+
+##### CHARIS se define negativamente: no obligación
+
+###### Romanos 4:5 *pero **al que no trabaja**, pero cree en Aquel que justifica al impío, su fe se le cuenta por justicia.*
+
+###### Romanos 11:6 “*Pero si es por gracia* [CHARIS], *ya no es por obras; de lo contrario*, *gracia* [CHARIS] *ya no es gracia* [CHARIS]”.
+
+##### CHARIS es mutuamente excluyente con las obras como base.
+
+###### Romanos 11:6 “*Pero si es por gracia* [CHARIS], *ya no es por obras; de lo contrario*, *gracia* [CHARIS] *ya no es gracia* [CHARIS]”.
+
+###### La frase es autorreferencial: CHARIS deja de ser CHARIS si se mezcla con obras. Este versículo enseña CHARIS mediante un límite lógico, no una explicación.
+
+##### CHARIS se enseña como una forma de dar. 
+
+###### Romanos 3:24 “*siendo justificados gratuitamente por su gracia* [CHARIS], *mediante la redención que es en Cristo Jesús*”.
+
+##### CHARIS está vinculado con: “como regalo / gratuitamente”. 
+
+##### CHARIS opera como una manera, no como un objeto.
+
+##### CHARIS se enseña como algo que puede aumentar
+
+###### Juan 1:16 “*Porque de su plenitud todos hemos recibido, y gracia sobre gracia*”.
+
+##### CHARIS se recibe.  La frase indica reemplazo o sucesión. Ningún mecanismo explicado; sólo implica acumulación o continuación
+
+###### Hechos 4:33 “*Y abundante gracia* [CHARIS] *estaba sobre todos ellos*”. CHARIS se describe como abundante. Se dice que está "sobre" la gente.
+
+##### CHARIS se enseña en relación con el habla y la conducta.
+
+###### Lucas 4:22 “*Y todos hablaban bien de él, y se maravillaban de las palabras de gracia* [CHARIS] *que salían de sus labios*”. CHARIS modifica palabras, caracteriza la manera de hablar. No se adjunta ninguna explicación moral.
+
+###### Colosenses 4:6 “*Que vuestra palabra sea siempre con gracia* [CHARIS], *como sazonada con sal…*” CHARIS puede calificar la comunicación.  Funciona adjetivamente en efecto. El resultado está implícito, no declarado.
+
+##### CHARIS se enseña como algo en lo que uno puede permanecer
+
+###### Romanos 5:2 “*por quien también hemos obtenido por la fe nuestra entrada en este gracia* [CHARIS] *en el que estamos…*” CHARIS se representa espacialmente (“ponerse de pie”) esta ingresado. Es un estado presente, no sólo una acción.
+
+##### CHARIS se enseña como algo a lo que se puede resistir o dejar de lado.
+
+###### Gálatas 2:21 “*No anulo la gracia* [CHARIS] *de Dios…*” CHARIS puede ser anulado (“dejar de lado” ATHETEO ). Indica que CHARIS no tiene efecto automático. La acción se atribuye a las personas.
+
+###### Hebreos 12:15 “*Mirad que nadie deje de alcanzar la gracia* [CHARIS] *de Dios…*” Uno puede “quedarse corto” de CHARIS. Es algo hacia lo que uno no puede llegar. CHARIS se enseña como una acción potenciadora.
+
+###### 1 Corintios 15:10 “*Pero por la gracia* [CHARIS] *de Dios soy lo que soy, y su gracia* [CHARIS] *para conmigo no resultó en vano…*” CHARIS se describe como operativo. Puede ser eficaz o ineficaz (“no en vano”). El trabajo sigue a CHARIS, pero la secuencia se establece, no se explica.
+
+#### Resumiendo, solo por el uso, las Escrituras enseñan CHARIS como:
+
+##### No es algo debido. Romanos 4:4
+
+##### Incompatible con la obligación como base. Romanos 11:6
+
+##### Una manera de dar. Romanos 3:24
+
+##### Recibible y abundante. Juan 1:16; Hechos 4:33
+
+##### Una posición actual. Romanos 5:2
+
+##### Algo que se puede resistir o anular. Gálatas 2:21
+
+##### Algo que puede ser eficaz o vano. 1 Corintios 15:10
+
+##### Una cualidad que afecta el habla y la conducta. Lucas 4:22; Colosenses 4:6
+
+#### Las Escrituras nunca definen CHARIS de manera abstracta; lo enseña a través de contrastes, verbos y resultados.
 
 #### La justificación tiene que ser un regalo gratuito, inmerecido, que proviene del favor de Dios. No hay otra manera que el pecador sea justificado porque claramente dice, "*todos son justificados*" de esta manera. 
 
@@ -2172,9 +2246,7 @@ Miremos a continuación como la gramática tiene dos acciones sobre un mismo suj
 
 #### Una definición sincilla de redención es: “liberación de un estado de esclavitud, generalmente mediante el pago de un precio”.
 
-##### El griego del siglo 1:
-
-###### Es un término técnico para la liberación mediante rescate, especialmente en los documentos de manumisión. Se refiere al estado de haber sido liberado de una condición previa de servidumbre u obligación. La palabra tiene una connotación legal y transaccional arraigada en la esclavitud, los contratos y los procedimientos cívicos.
+##### El griego del siglo 1: Es un término técnico para la liberación mediante rescate, especialmente en los documentos de manumisión. Se refiere al estado de haber sido liberado de una condición previa de servidumbre u obligación. La palabra tiene una connotación legal y transaccional arraigada en la esclavitud, los contratos y los procedimientos cívicos.
 
 #### Dios envio a su hijo...para redimirnos. Gálatas 4:4-5
 
@@ -2218,7 +2290,7 @@ Miremos a continuación como la gramática tiene dos acciones sobre un mismo suj
 
 #### muestra a Dios presentando públicamente a Jesús como el medio dado por Dios para tratar con los pecados y demostrar Su justicia, específicamente con respecto a los pecados previamente pasados por alto.
 
-### El propiciatorio en el Antiguo Testamento (Resumen de Observaciones)
+### El propiciatorio en el Antiguo Testamento
 
 #### Ubicación y descripción física. Éxodo 25:17-22
 
@@ -2322,37 +2394,17 @@ Miremos a continuación como la gramática tiene dos acciones sobre un mismo suj
 
 #### ¿Por qué hilastērion específicamente?
 
-#### Porque:
+##### Está vinculado al lugar donde Dios trataba con los pecados que eran pasados por alto una vez al año.
 
-#### Está vinculado al lugar donde Dios trataba con los pecados que eran pasados por alto una vez al año.
+##### Está vinculado a la imagen de la presentación de la sangre.
 
-#### Está vinculado a la imagen de la presentación de la sangre.
+##### Está vinculado a la visibilidad de la solución de Dios (el propiciatorio era el punto central de la presencia de Dios en el pacto).
 
-#### Está vinculado a la visibilidad de la solución de Dios (el propiciatorio era el punto central de la presencia de Dios en el pacto).
+##### Está vinculado al problema de la demora (la acumulación de pecados, ser pasados por alto, esperar un juicio justo).
 
-#### Está vinculado al problema de la demora (la acumulación de pecados, ser pasados por alto, esperar un juicio justo).
+##### Por lo tanto, el término coincide con el propósito declarado de Pablo:
 
-#### Por lo tanto, el término coincide con el propósito declarado de Pablo:
-
-#### Demostrar cómo Dios puede ser justo al mismo tiempo que justifica a los pecadores (3:26).
-
-### El Día de Expiación habla tipologicamente de un día futuro y las Escrituras lo confirman explicitamente: 
-
-##### 1 Juan 4:10 “*Él nos amó y envió a su Hijo como ἱλασμός (hilasmos), provisión expiatoria por nuestros pecados*”.
-
-##### Observación:
-
-##### 1 Juan usa el término relacionado “provisión expiatoria” para describir lo enviado.
-
-##### Hebreos 9:11-12 “*Entró una vez para siempre… con su propia sangre, obteniendo eterna redención*”.
-
-##### Observación: Se afirma que la provisión es su entrada y su sangre, y se llama “redención”.
-
-##### Resumen (solo observación):
-
-##### La Escritura identifica consistentemente la provisión como:
-
-###### El propio Hijo de Dios fue enviado como la provisión expiatoria.
+#### Para demostrar cómo Dios puede ser justo al mismo tiempo que justifica a los pecadores (3:26).
 
 ### Romanos 3:25b "*por Su sangre*" la sangre es el medio que se hechaba sobre el propiciatorio. La imagen es que Dios miraba desde arriba hacia abajo. 
 
@@ -2366,13 +2418,15 @@ Miremos a continuación como la gramática tiene dos acciones sobre un mismo suj
 
 #### "*tolerancia*" PARESIS es pasar por alto, dejar ir, suspensión temporal. No es una cancelación sino algo que se posterga. 
 
-### Romanos 3:25g "*Dios pasó por alto los pecados cometidos anteriormente,*"
+### Romanos 3:25g "*Dios pasó por alto los pecados cometidos anteriormente,*" No niega castigo, sino muestra un retraso en plena manifestación de juicio.
 
 ### Romanos 3:26a *para demostrar en este tiempo Su justicia,* en el pasado paso por alto los pecados cometidos. En el presente demuestra su justicia. 
 
 #### La justicia demostrada es la solución de Dios por el pecado del hombre de todos los tiempos. Dios no fue injusto en pasar por alto los pecados cometidos anteriormente. El justificó (paso por alto) los pecados de los antepasados que creyeron en la provisión de Dios en Jesucristo. Dios les declaro justos no por el medio de las obras de la ley sino por la fe. 
 
 #### Nosotros, en este tiempo pudimos ver ejecutada la justicia de Dios por los pecados cometidos. Dios no paso por alto, los juzgo en Cristo.  Vimos que Dios es justo al castigar a su propio Hijo que vino a pagar por nuestros pecados y así redimirnos de la esclavitud de pecado. 
+
+#### Romanos 3:25 afirma que Dios mismo presentó públicamente a Cristo como el medio expiatorio - ligado a su sangre derramada - accesible por medio de la fe, con el fin de demostrar Su justicia. Esta demostración era necesaria porque, en Su paciencia, Dios había pasado por alto pecados anteriores, y la muerte de Cristo revela que Su justicia nunca fue comprometida.
 
 ### Romanos 3:26b *a fin de que Él sea justo* Dios siempre ha procedido en justicia porque es justo. El hecho que Dios fue paciente para con los que pecaron antes de la cruz, no significa que Dios no sea justo. Dios no fue justo: 
 
@@ -2402,9 +2456,9 @@ Miremos a continuación como la gramática tiene dos acciones sobre un mismo suj
 
 ### Romanos 3:26d *al que tiene fe en Jesús.*
 
-#### Pablo conecta ἱλαστήριον con el problema planteado en Romanos 1:18–3:20.
+#### Pablo conecta HILASTERION con el problema planteado en Romanos 1:18–3:20.
 
-#### Romanos 1:18 comienza con: “Porque la ira de Dios se está revelando…”.
+#### Romanos 1:18 comienza con: “*Porque la ira de Dios se está revelando…*”.
 
 #### Romanos 3:21–26 es la resolución de toda esa acusación (1:18–3:20).
 
@@ -2434,17 +2488,41 @@ Miremos a continuación como la gramática tiene dos acciones sobre un mismo suj
 
 #### Dios activamente es el justo y el que justifica. El hombre no participa de ninguna manera en esta justicia, porque el hombre (todo hombre) es injusto y si participara con Dios de alguna manera solo haría que Dios ya no sea justo ni el que justifica. 
 
+#### Los tres tiempos de nuestra salvación
+
+![tres fases](/Users/johnwry/Nextcloud/Documents/GitHub/curriculo/03. Romanos 1-8/tres fases.png)
+
 ## En Síntesis (3:21-26)
 
-### QUINTA PREGUNTA Y RESPUESTA (3:21-30)
+### Un giro decisivo en la historia bíblica (Romanos 3:21)
+#### Después de mostrar que nadie puede ser justificado por obras de la Ley, Pablo anuncia: “Pero ahora”, la justicia de Dios ha sido manifestada aparte de la Ley, aunque la Ley y los Profetas daban testimonio de ella.
 
-#### Pregunta (3:21a): ¿Cómo salva Dios a las personas?
+### La justicia de Dios no se obtiene — se recibe (Romanos 3:22–24)
+#### Esta justicia viene por medio de la fe en Jesucristo para todos los que creen, sin distinción, porque todos pecaron y no alcanzan la gloria de Dios, pero son justificados gratuitamente por Su gracia, no por mérito humano.
 
-#### Respuesta (3:21b-30)
+### La base de esta justificación es la redención en Cristo Jesús (Romanos 3:24)
+#### Cristo paga el precio de nuestra liberación, de modo que la justicia es un regalo inmerecido, no salario ni deuda.
 
-##### La necesidad de salvación (3:23): Se necesita desesperadamente, porque todos han pecado y no la han alcanzado. La gloria de Dios.
+### Dios presentó públicamente a Cristo como propiciación (Romanos 3:25–26)
+#### Cristo es el medio dado por Dios para tratar con el pecado, mediante Su sangre, recibido por fe.
+#### Esto demuestra la justicia de Dios: aunque antes había pasado por alto pecados, la cruz revela que Dios nunca dejó de ser justo y ahora justifica al que cree.
 
-##### El testimonio de salvación del Antiguo Testamento (3:21b): Las Escrituras prometen la salvación aparte de la ley.
+### Resultado: se excluye toda jactancia (Romanos 3:27–31)
+#### Nadie puede gloriarse en obras; la justificación es por fe aparte de la Ley.
+#### Dios es Dios de judíos y gentiles por igual.
+#### La fe no anula la Ley — la confirma señalando su verdadero propósito.
+
+### Tema central de toda la sección (Romanos 3:21–5:11)
+#### La justicia pertenece a Dios
+#### Dios la revela
+#### Dios provee el medio
+#### Dios justifica
+#### El hombre solo cree
+#### Así, Dios es justo y el que justifica al pecador que confía en Jesús.
+
+### Conclusión 
+#### La salvación no surge del esfuerzo humano, sino del plan, provisión y gracia de Dios manifestada en Cristo.
+#### La fe no añade mérito; simplemente recibe lo que Dios ya proveyó.
 
 ## Romanos 3:27-31 
 
@@ -2532,21 +2610,33 @@ Miremos a continuación como la gramática tiene dos acciones sobre un mismo suj
 
 ## En Síntesis (3:27-31)
 
-##### El método de salvación (3:22, 24-25, 27-28)
+### La jactancia queda completamente excluida (3:27)
+#### No hay lugar para el orgullo humano porque el hombre no contribuye nada a su justificación excepto su pecado.
+#### La exclusión de la jactancia no ocurre por medio de obras, sino por el principio de la fe.
 
-###### Negativo (3:27-28): No se logra por buenas obras.
+### La justificación es únicamente por fe, aparte de las obras (3:28)
+#### Pablo concluye que el hombre es justificado por la fe sin incluir obras de la Ley.
+#### Las obras y la gracia son principios mutuamente excluyentes — si hay obra, hay salario; si hay gracia, hay regalo.
+#### Por tanto, introducir obras cambia la categoría completa: ya no sería gracia.
 
-###### Positivo (3:22, 24-25): Se realiza por gracia a través de la fe en el sacrificio de Cristo.
+### Dios justifica a todos por el mismo medio — la fe (3:29–30)
+#### Dios no es solo Dios de los judíos, sino también de los gentiles.
+#### Porque Dios es uno, justifica a judíos y gentiles por el mismo medio: la fe.
+#### Nadie tiene una vía especial o distinta hacia la justificación.
 
-##### El cumplimiento legal de la salvación (3:26): Permite que un Dios justo y santo declare pecadores arrepentidos justos.
+### La fe no anula la Ley — la confirma (3:31)
+#### Pablo rechaza la idea de que la fe invalida la Ley.
+#### La fe confirma la Ley porque reconoce que la pena exigida por ella fue cumplida en la muerte de Cristo.
+#### Así, la justicia que la Ley demanda no es ignorada, sino satisfecha.
 
-##### El alcance de la salvación (3:29-30): Está disponible tanto para judíos como para gentiles.
+### Idea central del pasaje
+#### La fe elimina toda base de jactancia humana.
+#### La fe revela la gracia como regalo, no salario.
+#### La fe establece a Dios como el único que justifica.
+#### La fe honra la Ley al reconocer que Cristo cargó su condena.
 
-### SEXTA PREGUNTA Y RESPUESTA (3:31)
-
-#### Pregunta (3:31a): ¿La fe anula la ley?
-
-#### Respuesta (3:31b): ¡Al contrario, la fe cumple la ley!
+### Conclusión
+#### La justificación es por gracia mediante la fe, para toda persona, sin lugar para orgullo humano y sin conflicto con la Ley, porque en Cristo la Ley es plenamente afirmada.
 
 ## Romanos 4:1-3 Abraham justificado por fe
 
@@ -2554,7 +2644,7 @@ Miremos a continuación como la gramática tiene dos acciones sobre un mismo suj
 
 #### Pablo demuestra por las escrituras que Abraham fue justificado por la fe antes de La Ley o la circuncisión, lo que prueba que la justificación de Abráham ocurrió antes de estas cosas.
 
-#### Veremos el uso de una palabra contar principalmente en el capítulo 4 de Romanos. Cuando la gramática dice que Dios cuenta (LOGIZOMAI) justicia, esta en voz pasiva o media-pasiva. Cuando el hombre es llamado a contar (LOGIZOMAI) algún hecho, y es siempre en voz activa. Aveces en modo imperativo y aveces es medio-indicativo.  
+#### Veremos el uso de una palabra contar principalmente en el capítulo 4 de Romanos. Cuando la gramática dice que Dios *cuenta* LOGIZOMAI justicia, esta en voz pasiva o media-pasiva. Cuando el hombre es llamado a *contar* LOGIZOMAI algún hecho, y es siempre en voz activa. Aveces en modo imperativo y aveces es medio-indicativo.  
 
 ##### Esto significa que cuando Dios cuenta o acredita al hombre justicia, es completamente sin participación del hombre. Romanos 4:4, 5, 6, 8, 9, 10, 11, 22, 23, 24, 9:8
 
@@ -2649,23 +2739,23 @@ Miremos a continuación como la gramática tiene dos acciones sobre un mismo suj
 
 ##### Expresar la plenitud/completitud de la paternidad espiritual de Abraham
 
-##### Romanos 9-11 también se basa en Romanos 4
+#### Romanos 9-11 también se basa en Romanos 4
 
 ##### Romanos 4: ¿Quiénes son los hijos de Abraham?
 
-##### Respuesta: Quienes comparten la fe de Abraham, sean judíos o gentiles.
+###### Respuesta: Quienes comparten la fe de Abraham, sean judíos o gentiles.
 
 ##### Romanos 9: La incredulidad de Israel no contradice la promesa.
 
-##### Respuesta: El verdadero Israel se define por la promesa, no por la etnia.
+###### Respuesta: El verdadero Israel se define por la promesa, no por la etnia.
 
 ##### Romanos 10: La fe en Cristo es el camino a la familia de Abraham.
 
-##### Respuesta: La justificación es por la fe, no por las obras de la ley.
+###### Respuesta: La justificación es por la fe, no por las obras de la ley.
 
 ##### Romanos 11: La familia de Abraham es un solo olivo con judíos y gentiles.
 
-##### Respuesta: La familia está unida, es multiétnica y está arraigada en la promesa.
+###### Respuesta: La familia está unida, es multiétnica y está arraigada en la promesa.
 
 ### Romanos 4:2a "*Porque si Abraham fue justificado por las obras,*" Pablo presenta una condición hipotética: "*Porque si*" (asumamos por un momento) que Abraham fue justificado por hacer buenas obras. 
 
@@ -3305,6 +3395,10 @@ demuestra SUNISTESIN (presente, indicativo)
 
 ### Romanos 5:11c *por quien ahora hemos recibido la reconciliación.*
 
+#### Los tres tiempos de nuestra salvación
+
+![tres fases](/Users/johnwry/Nextcloud/Documents/GitHub/curriculo/03. Romanos 1-8/tres fases.png)
+
 ## En Síntesis (5:1-11)
 
 ### Pablo ahora describe la seguridad de la salvación, no da instrucciones.
@@ -3853,7 +3947,7 @@ demuestra SUNISTESIN (presente, indicativo)
 
 ### Romanos 6:1 "*¿Qué diremos, entonces? ¿Continuaremos en pecado para que la gracia abunde?*" ¿Debería cambiar el comportamiento para aprovechar la gracia?”
 
-Romanos 6:1 sigue a Romanos 5:20-21.  La ley incrementó la transgresión pero la gracia sobreabundó y ahora la gracia reina. 
+#### Romanos 6:1 sigue a Romanos 5:20-21.  La ley incrementó la transgresión pero la gracia sobreabundó y ahora la gracia reina. 
 
 #### La gramática griega lo hace inconfundible. Pablo usa el artículo definido (τῇ) y el sustantivo singular (ἁμαρτίᾳ). Este es el mismo uso que Romanos 5:12–21:
 
@@ -3973,31 +4067,45 @@ Romanos 6:1 sigue a Romanos 5:20-21.  La ley incrementó la transgresión pero l
 
 #### Saber algo no es lo mismo que hacer algo. Saber (presente, activo, participio) en este pasaje es estar conociendo que nuestro viejo hombre (lit. viejo humano) ya "*fue crucificado*" (aoristo, pasivo, indicativo) y a diferencia de nosotros (nuestro nuevo yo) quedó allí. 
 
+#### Hemos muerto al pecado es un hecho. Ahora miraremos como Dios lo logró. 
+
 #### ¿por qué era necesario que la persona que eramos en Adán muera? 
 
-### Romanos 6:6b "*para que nuestro cuerpo de pecado fuera destruido,*" la razón que tuvo que morir nuestro viejo ser es para rendir inoperante o despojado de poder a el pecado. 
+### Romanos 6:6b "*para que nuestro cuerpo de pecado fuera destruido,*" la razón que tuvo que morir nuestro viejo ser es para dejar despojado de poder a el pecado o desactivado. 
 
-#### Hemos muerto al pecado es un hecho. Ahora vemos como Dios lo logró. 
+#### "*Fuera destruido*" KATARGEO (aoristo, pasivo, subjuntivo) estar o volverse inactivo, inactivo o inútil.[^1] KATARGEO tiene la idea de: anular (Romanos 3:31), descargar (Romanos 7:6), alienar (Gálatas 5:4)
 
 #### El evangelio realmente es el poder para vivir porque fue cuando Cristo murio, la persona que eramos en Adán murió. Cuando ese murió nos quedamos desligados de la naturaleza pecaminosa (el pecado) que entró con Adán. 
 
-#### Cuando resucitamos con Cristo, resucitamos en novedad de vida y novedad de quienes somos. Hemos sido creados de nuevo, nacimos de nuevo, ahora somos nuevas criaturas. 
+##### Cuando resucitamos con Cristo, resucitamos en novedad de vida y novedad de quienes somos. Hemos sido creados de nuevo, nacimos de nuevo, ahora somos nuevas criaturas. 
 
-#### Pero, ¿qué resultó de que el pecado quedó sin poder sobre nosotros? 
+##### Pero, ¿qué resultó de que el pecado quedó sin poder sobre nosotros? 
 
-### Romanos 6:6c "*a fin de que ya no seamos esclavos del pecado;*" hay muchos beneficios de haber muerto, pero uno de los más importantes es para que quedamos libres del pecado. 
+### Romanos 6:6c "*a fin de que ya no seamos esclavos del pecado;*" hay muchos beneficios de haber muerto, pero uno de los más importantes es que quedamos libres del pecado para no ser esclavos de él. 
 
-#### Al morir, el estado entre quien eramos en Adán y el pecado quedó anulado. Esa realidad quedó en el pasado y ya no es real.  En Adán, el pecado reinaba en muerte. Al morir, ese reinado quedó atrás. 
+#### Al morir al estado de quien eramos en Adán, nuestra relación de esclavo y amo que teníamos con el pecado quedó anulado. Esa realidad quedó en el pasado y ya no es real.  En Adán, el pecado reinaba en muerte. Al morir, la jurisdicción de ese reino terminó. 
 
-#### La esclavitud (el ser propiedad de otro) es lo opuesto a ser libre. Cuando eres cautivo de algo no eres libre para hacer otra cosa. Solo te ves obligado a hacer lo que te dicta. Eres su esclavo. Le perteneces. 
+#### La esclavitud es ser propiedad de otro. Cuando eres cautivo de algo no eres libre para hacer otra cosa sino lo que te ordena. Estás obligado a hacer lo que te dicta. Eres su esclavo. Le perteneces. 
 
 #### Cuando dejamos de pertenecer a el pecado, ¿que sucedió?
 
-### Romanos 6:7 "*porque el que ha muerto, ha sido libertado del pecado.*" libertad es un hecho ya consumado. El que ha muerto quedó libre del pecado. 
+### Romanos 6:7 "*porque el que ha muerto, ha sido libertado del pecado.*" *libertado* (pasado, indicativo) es un hecho ya consumado. El que ha muerto quedó libre del pecado. 
 
-#### Si has confiado en Cristo como tu único y suficiente salvador que murió pagando completamente por tus pecados y resucitó, ya quedaste libre del poder del pecado. Es un hecho y nunca más volverás a ser propiedad del pecado. ¡Has *sido libertado del pecado*! 
+#### ¡Esto es asombroso! Significa que no solo ya has muerte sino que ya quedaste libre. Ya no tienes que "morir al yo". Algunos ejemplos claros de falsas ideas sobre "morir" son:
 
-#### Ahora que quedaste libre del pecado, ¿qué significa eso para tí hoy?
+##### **Auto-negación constante**: apagar deseos personales, renunciar a preferencias, desconfiar de lo que quieres o sientes. Estas cosas solo niegan el hecho que ya sucedió. 
+
+##### **Sufrimiento voluntario**: El sufrimiento no es señal de fidelidad, como por ejemplo: aceptar abuso, tolerar injusticia, permanecer en situaciones dañinas "por humildad". Esto no es lo que la Biblia enseña como fuente de verdadera espiritualidad. 
+
+##### **Esfuerzo diario moral**: cada día se tiene que morir y si no hace morir un día es considerado como fracaso. 
+
+##### **Abandono de emociones**: servir sin descanso, no poner límites, no decir "no" por amor. El agotamiento se considera como espiritualidad. 
+
+##### **Desprecio al cuerpo o lo material**: el disfrute legítimo es mundano, lo espiritual siempre compite con lo humano, lo físico es sospechoso.
+
+#### Si has confiado en Cristo como tu único y suficiente salvador que murió pagando completamente por tus pecados y resucitó, ¡¡ya moriste!! y quedaste libre del poder del pecado. Es un hecho y nunca más volverás a ser propiedad del pecado. ¡Has *sido libertado del pecado*! 
+
+##### Ahora que quedaste libre del pecado, ¿qué significa eso para tí hoy?
 
 ## Romanos 6:8-10 Unidos en Vida
 
@@ -4018,6 +4126,10 @@ Romanos 6:1 sigue a Romanos 5:20-21.  La ley incrementó la transgresión pero l
 #### En Él, tu muerte es una vez para siempre. Significa que la solución sobre el pecado ¡ya sucedió y es eterno!
 
 ### Romanos 6:10b "*pero en cuanto Él vive, vive para Dios.*" en el presente, Cristo vive. Y Su vida es para Dios el Padre. 
+
+#### Los tres tiempos de nuestra salvación
+
+![tres fases](/Users/johnwry/Nextcloud/Documents/GitHub/curriculo/03. Romanos 1-8/tres fases.png)
 
 ## En Síntesis (6:1-10)
 
@@ -4157,7 +4269,7 @@ Romanos 6:1 sigue a Romanos 5:20-21.  La ley incrementó la transgresión pero l
 
 ###### La gracia no es simplemente perdón. La gracia es el poder gobernante que produce justicia.
 
-## Romanos 6:15-18, De siervos del pecado a siervos de justicia
+## Romanos 6:15-18, De esclavos del pecado a siervos de justicia
 
 ### Romanos 6:15a *¿Entonces qué? ¿Pecaremos porque no estamos bajo la ley, sino bajo la gracia?* La pregunta es, cometeremos pecados? 
 
@@ -4175,71 +4287,147 @@ Romanos 6:1 sigue a Romanos 5:20-21.  La ley incrementó la transgresión pero l
 
 #### En Romanos 6:1 Pablo establece lo que es verdad mientras que en Romanos 6:15 se dirige a como es visto la vida bajo la gracia. 
 
-#### Pasajes de Romanos donde Pablo rechaza explícitamente la lógica del “pecado” permitida en la vida del creyente. 
+#### Pasajes de Romanos donde Pablo rechaza explícitamente la lógica del “pecado” permitida en la vida del creyente. Romanos 6:1-2, 12, 13, 15
 
-##### Romanos 6:1–2 “*continuaremos en el pecado*” … “*de ninguna manera*”
+##### En Romanos 3:8 (rechazando la calumnia de “[hacer] *el mal para que venga el bien*”, Pablo inmediatamente marca esto como condenable: “*La condenación de los tales es justa*”)
 
-##### Romanos 6:12 “*no… dejes que reine el pecado*”
+### Romanos 6:15b *Pecaremos...¡De ningún modo!* Entonces, es inadmisible decir que la gracia de Dios aprueba el pecado o que nos llevará a pecar. 
 
-##### Romanos 6:13 “*ni presente… al pecado*”
+### Romanos 6:16a *¿No saben ustedes que cuando se presentan como esclavos a alguien para obedecerle, son esclavos de aquel a quien obedecen,* dependiendo a quien uno se presenta resultará en siendolo obediente, al igual que un soldado se presente ante su comandante. 
 
-##### Romanos 6:15 “*pecaremos*”… “*de ninguna manera*”
+#### Puesto de manera sencilla, eres esclavo de cualquier cosa que obedezcas, ya sea pecado u obediencia, y cada amo tiene su propio resultado direccional.
 
-##### Romanos 3:8 (rechazando la calumnia de “*hacer mal por bien*”)  “*debemos hacer lo malo para que venga lo bueno*” (Pablo inmediatamente marca esto como condenable: “*cuyo juicio es justo*”)
+#### La *obediencia* (sustantivo) resulta de *presentar* (verbo, activo). La acción es *presentarse*. La obediencia es a donde lleva la acción. La obediencia no es mandado aquí. Lo que es mandado es el presentarse. 
 
-### Romanos 6:15b *Pecaremos...¡De ningún modo!* Entonces, es inadmisible decir que la gracia aprueba el pecado o que nos llevará a pecar. 
+#### Lo que Pablo quiere establecer es que: Presentarte lleva a obediencia que lleva a esclavitud y que tiene resultados. En ambos casos es igual el mecanismo, lo único que causa la diferencia es **a quien** te presentas. 
 
-### Romanos 6:16a *¿No saben ustedes que cuando se presentan como esclavos a alguien para obedecerle, son esclavos de aquel a quien obedecen,* 
+##### En Romanos 6:13, la pregunta es: ¿A quién te estás presentando?
 
-### Romanos 6:16b *ya sea del pecado para muerte, o de la obediencia para justicia?*
+##### En Romanos 6:16, la pregunta es: ¿Qué tipo de relación establece esa presentación?
 
-### Romanos 6:17 *Pero gracias a Dios, que aunque ustedes eran esclavos del pecado, se hicieron obedientes de corazón a aquella forma de doctrina a la que fueron entregados,*
+### Romanos 6:16b *ya sea del pecado para muerte, o de la obediencia para justicia?* En el caso del creyente, tiene la opción de presentarse a la obediencia. 
 
-### Romanos 6:18 *y habiendo sido libertados del pecado, ustedes se han hecho siervos de la justicia.*
+#### Es interesante notar que no dice a que obedecen sino a quien. La obediencia es constante. Lo que cambia es a quien según a quién uno se presente.  Existen dos amos y solo dos amos:
+
+#####  El Primer personaje (a quien) es "*el pecado*" (genitivo, singular),  un amo cuyo esclavitud conduce a la muerte. La muerte es el resultado de servir a este amo. 
+
+##### El segundo amo es "*la obediencia*" (genitivo, singular). Es un amo cuyo servicio conduce a la justicia.
+
+#### ¿Por qué los amos no son “pecado versus Dios” en este versículo? 
+
+#### Aunque Dios está claramente presente en el contexto más amplio (Romanos 6:13), Romanos 6:16 en sí no nombra a Dios como maestro. En cambio, encuadra deliberadamente el contraste como: *el pecado* y *la obediencia*.
+
+##### Esto es importante textualmente: Los maestros se definen por lo que gobierna la respuesta de la persona. Dios aparece anteriormente como el destinatario de la presentación, pero aquí el foco está en lo que uno termina obedeciendo.
+
+###### La obediencia al el pecado es representado como esclavitud.  El ser esclavo de Dios es representado por la obediencia que lleva a la justicia. Ya vimos mandado (que se prensenten a Dios) en los versículos 12-13. Romanos 6:12-13
+
+###### Entonces los dos amos representan dos resultados: pecado versus obediencia. Romanos 6:16 no está redefiniendo al maestro; está explicando cómo es presentarse a Dios en términos funcionales.
+
+##### Pablo evita aquí a “Dios” a propósito.  Si Pablo hubiera escrito “esclavos de Dios para la justicia” el verso sería colapsar el mecanismo claramente detallado a mera identidad. Omitiría el paso explicativo, y no mostraría por qué es importante la obediencia.
+
+##### Al nombrar la obediencia, Pablo puede mostrar la esclavitud se establece por respuesta, el dominio se evidencia en lo que se obedece, los resultados son inevitablemente de esa obediencia. Esto encaja con la lógica de los imperativos anteriores.
+
+##### Romanos 6:16 no reemplaza a Dios con obediencia; explica que el señorío de Dios se expresa a través de la obediencia, así como el señorío del pecado se expresa a través de actos de pecado.
+
+##### Lo que la obediencia en Romanos no es: 
+
+###### La obediencia no es justificación. Romanos 3:24
+
+###### La obediencia no es la causa de la gracia. La gracia precede la obediencia. La Biblia nunca dice que la obediencia activa o genera gracia. Romanos 5:20-21
+
+###### La obediencia no es un acto separado de presentarse. La obediencia no es introducido como un mandato.  Romanos 6:16
+
+###### La obediencia no es el equivalente a cumplimiento de La Ley. Romanos 6:14, 4:15
+
+###### La obediencia no es el objeto a **que** nos presentamos, sino representa a Dios a **quien** nos presentamos. Romanos 6:13
+
+###### La obediencia no es el fin en si. La obediencia es le medio no el fin. La vida eterna es el fin no la obediencia y esto se menciona explícitamente como el fin. 
+
+###### La obediencia no es opcional. A quien nos presentamos si lo es. Es decir, no existe un estado libre de esclavitud sin consecuencias. Lo que cambia es a quien somos esclavos. 
+
+### Romanos 6:17a *Pero gracias a Dios, que aunque ustedes eran esclavos del pecado, se hicieron obedientes de corazón,* ellos definitivamente habían sido obedientes en un momento del pasado. 
+
+#### La obediencia implica que dejaron en ese momento de ser esclavos del pecado. 
+
+#### Pablo reconoce y da Gracias a Dios (Él único que puede lograr este milagro) que aquellos que antes existieron como esclavos del pecado hayan obedecido—una vez, de corazón—hacia un patrón específico de enseñanza al cual fueron entregados, con la gramática enfatizando la obediencia completa y la recepción pasiva en lugar de la acción autoiniciada.
+
+###  Romanos 6:17b "*obedientes...a aquella forma de doctrina a la que fueron entregados*"
+
+#### La obediencia no se presenta como algo que se desarrolla lentamente. Está ligado al momento en que fueron entregados a un patrón de enseñanza específico. La voz pasiva muestra que esta colocación fue recibida, no iniciada. De modo que la obediencia se produjo en el momento de ser entregados a la enseñanza, no más tarde como un resultado gradual.
+
+##### "*obediencia a la fe*" es anclada a la enseñanza (*la fe*). Romanos 1:5
+
+### Romanos 6:18 *y habiendo sido libertados del pecado, ustedes se han hecho siervos de la justicia.* 
+
+#### "*habiendo sido libertados*" ELEUTHEROTHENTES (aoristo, pasivo, participio). Esto demuestra que nuestra libertad del pecado es un hecho. El participio hace una separación de la fuente de el pecado. 
+
+#### Si se quedaron libres del pecado, entonces ¿a quien se han hecho obedientes? Se hicieron siervos de la justicia.  
 
 ## Romanos 6:19-23, Fruto de la justicia y la vida eterna
 
-### Romanos 6:19a *Hablo en términos humanos, por causa de la debilidad de su carne.*
+### Romanos 6:19a *Hablo en términos humanos, por causa de la debilidad de su carne.* Pablo acomoda su modo de explicar y busca simplificar para comprensión. La razón es por su la debilidad de su carne. 
 
-### Romanos 6:19b *Porque de la manera que ustedes presentaron sus miembros como esclavos a la impureza y a la iniquidad, para iniquidad,*
+#### Pablo usa una analogía enmarcada humanamente para comparar una presentación pasada de los miembros a la impureza y la anarquía con un mandamiento presente de presentar esos mismos miembros a la justicia, dirigiendo hacia la santificación.
 
-### Romanos 6:19c *así ahora presenten sus miembros como esclavos a la justicia,*
+### Romanos 6:19b "*Porque de la manera que ustedes presentaron sus miembros como esclavos a la impureza y a la iniquidad, para iniquidad, así ahora presenten sus miembros como esclavos a la justicia, para santificación*".
 
-### Romanos 6:19d *para santificación.*
+#### El cambio del indicativo (lo que hicieron) al imperativo (lo que ahora se ordena) es central para la función del versículo.
 
-### Romanos 6:20 *Porque cuando ustedes eran esclavos del pecado, eran libres en cuanto a la justicia.*
+#### De la misma manera que antes presentaban sus miembros al pecado ahora, Pablo les dice, presenten sus miembros a Dios y serán esclavos a la justicia para llevar a santificación. 
 
-### Romanos 6:21a *¿Qué fruto tenían entonces en aquellas cosas de las cuales ahora se avergüenzan?*
+#### El repetido lenguaje de la esclavitud mantiene la continuidad con Romanos 6:16-18 al tiempo que avanza el argumento hacia la santificación como un resultado direccional.
 
-### Romanos 6:21b *Porque el fin de esas cosas es muerte.*
+### Romanos 6:20 *Porque cuando ustedes eran esclavos del pecado, eran libres en cuanto a la justicia.* Antes no pensaban o se frustraban tratando de alcanzar la justicia. Vivian totalmente despreocupados de la justicia porque eran esclavos del pecado. 
 
-### Romanos 6:22a *Pero ahora, habiendo sido libertados del pecado y hechos siervos de Dios,*
+#### El mecanismo de presentarse a ser esclavos que resultaba en fruto ya era una realidad en su vida pasada. Al vivir presentados al pecado eran libres de la justicia. 
 
-### Romanos 6:22b *tienen por su fruto la santificación,*
+### Romanos 6:21a *¿Qué fruto tenían entonces en aquellas cosas de las cuales ahora se avergüenzan?* Vivían libres de la justicia pero, que resultaba estar viviendo presentados a el pecado? Cosas que ahora les daban verguenza. 
 
-### Romanos 6:22c *y como resultado la vida eterna.*
+#### Sin embargo, presentarse al pecado resultaba en cosas vergonzosas. 
 
-### Romanos 6:23a *Porque la paga del pecado es muerte,*
+#### ¿Cómo era ese fruto que resultó? 
 
-### Romanos 6:23b *pero la dádiva de Dios es vida eterna*
+### Romanos 6:21b *Porque el fin de esas cosas es muerte.* la meta final de esas cosas termina en muerte. 
 
-### Romanos 6:23c *en Cristo Jesús Señor nuestro.*
+#### Muerte es lo opuesto a vida eterna que es el fin de ser siervo de la justicia. 
+
+#### La muerte es lo que entró como resultado del pecado. La muerte reinó en Adán. 
+
+#### La muerte y la vida eterna se combinan como reinos o resultados. El lenguaje de la justificación no se encuentra en este contraste. La muerte pertenece al reino del pecado.
+
+### Romanos 6:22a *Pero ahora, habiendo sido libertados del pecado y hechos siervos de Dios,* Pero ahora, hace un contraste a lo que era la situación pasada. Ahora han sido libertados del pecado y su nueva realidad es que son hechos siervos de Dios. 
+
+#### Antes eran libres también. Eran libres en cuanto a la justicia. Les eludia cualquier idea o influencia hacia la justicia. 
+
+#### Ahora son libres de la injusticia. Son completamente separados de su reinado y pueden vivir en esa libertad. 
+
+### Romanos 6:22b *tienen por su fruto la santificación,* Como siervos de Dios, tienen como su fruto que lleva en dirección a la santificación. 
+
+#### Antes tenian fruto que les llevaba en dirección a la muerte. Ahora su fruto es muy diferente y conduce a la santificación. 
+
+#### Sabemos por Juan 15 que el creyente no produce fruto sino que lleva fruto que el Señor Jesucristo produce. Juan 15:5-6
+
+### Romanos 6:22c "*y como resultado la vida eterna.*" La finalidad de santificación es vida eterna. La vida eterna es la finalidad del reino de Dios. 
+
+#### La finalidad de el pecado es llevar a sus subyugue a la muerte.  Dios lleva a la vida. 
+
+#### La estructura posesión presente (tienen)  → fruto direccional (para santificación) → fin (vida),  prepara directamente para Romanos 6:23, donde los resultados se expresan con precisión.
+
+### Romanos 6:23a *Porque la paga del pecado es muerte,* Lo que paga el pecado siempre es muerte. El pecado no da un fruto que no lleve a la muerte. 
+
+#### El pecado produce una paga caracterizada como muerte. 
+
+### Romanos 6:23b *pero la dádiva de Dios es vida eterna en Cristo Jesús Señor nuestro* Pero hoy, recibimos como regado la vida eterna. 
+
+### Dios da un regalo caracterizado como vida eterna, ubicada en Cristo Jesús nuestro Señor.
+
+#### El versículo contrasta deliberadamente la compensación ganada con un regalo inmerecido.
+
+#### La muerte y la vida eterna se presentan como resultados, no como procesos o mandatos.
 
 ## En Síntesis (6:11-23)
 
 ### Observamos en estos versículos cómo los imperativos de Pablo siguen a sus indicativos:
-
-| VERDAD INDICATIVA →                               | IMPERATIVO CORRESPONDIENTE                                   |
-| ------------------------------------------------- | ------------------------------------------------------------ |
-| Ustedes murieron con Cristo (6:2-10 - indicativo) | Por lo tanto, considérense muertos al pecado (6:11 - imperativo) |
-| Ustedes viven con Cristo (6:8 - indicativo)       | Por lo tanto, no permitan que el pecado reine (6:12 - imperativo) |
-| Ustedes pertenecen a Dios (6:13-18 - indicativo)  | Por lo tanto, preséntense a Dios (6:13, 19 - imperativo)     |
-
-#### El patrón de Pablo siempre es:
-
-| Conocer  → | Considerar  → | Presentar              |
-| ---------- | ------------- | ---------------------- |
-| Verdad  →  | Creerla  →    | Actuar en consecuencia |
 
 ### PASO 2-CALCULAR (6:11): Debemos contar nuestra crucifixión y resurrección como eventos consumados.
 
@@ -4265,39 +4453,37 @@ Romanos 6:1 sigue a Romanos 5:20-21.  La ley incrementó la transgresión pero l
 
 ## Romanos 7:1-6 Argumento #1: La jurisdicción de la ley para hacer demandas termina en nuestra muerte 
 
-### Romanos 7:1-3 Una analogía del matrimonio
-
-### Romanos 7:1a *¿Acaso ignoran, hermanos, (pues hablo a los que conocen la ley),*
+### Romanos 7:1a *¿Acaso ignoran, hermanos, (pues hablo a los que conocen la ley),* ¿Acaso ignoran?...conecta el argumento que sigue con lo que presentó ya en Romanos 6. 
 
 ### Romanos 7:1b "*que la ley tiene jurisdicción sobre una persona mientras vive?*" La ley civil tiene poder sobre alguien solo mientras vive. Cuando una persona muere, la ley no tiene poder sobre el/ella. 
 
 ### Romanos 7:2a "*Pues la mujer casada está ligada por la ley a su marido mientras él vive;*" Pablo procede a dar un ejemplo de jurisdicción de la ley civil sobre una persona. 
 
-#### Cuando una persona se casa, entra en un acuerdo legal. La ley coloca a el esposo y la esposa en unión.  En términos civiles, crea un conjunto vinculante de derechos, responsabilidades y obligaciones ante la ley.
+#### Cuando una persona se casa, entra en un acuerdo legal. La ley coloca a el esposo y la esposa en una unión llamada "matrimonio".  En términos civiles, crea un conjunto vinculante de derechos, responsabilidades y obligaciones ante la ley.
 
-#### Cuando se registra un matrimonio, el Estado lo reconoce formalmente como un pacto legal, no solo como un compromiso personal o religioso.
+#### Cuando se registra un matrimonio, el estado lo reconoce formalmente como un pacto legal, no solo como un compromiso personal o religioso. Es una union legalmente vinculante. La única manera de disolver ese matrimonio es legalmente. La ley típicamente reconoce el divorcio o la muerte de uno de los conyugues como las maneras que se disuelva un matrimonio. 
 
-#### Se vuelve “legal” porque:
+#### El matrimonio se vuelve “legal” porque crea un nuevo estatus legal (“casado” en lugar de “soltero/a”). Otorga derechos y protecciones legales (herencia, división de bienes, estatus fiscal, decisiones médicas, etc.). Impone deberes legales (fidelidad, manutención, responsabilidad compartida, etc.). Requiere disolución legal (divorcio, anulación) para terminar la unión civil.
 
-##### Crea un nuevo estatus legal (ahora eres “casado” en lugar de “soltero/a”).
-
-##### Otorga derechos y protecciones legales (herencia, división de bienes, estatus fiscal, decisiones médicas, etc.).
-
-##### Impone deberes legales (fidelidad, manutención, responsabilidad compartida, etc.).
-
-##### Requiere disolución legal (divorcio, anulación) para terminar la unión civil.
-
-#### Por lo tanto, el matrimonio no es solo una promesa privada, sino un contrato reconocido por la ley.
+##### Por lo tanto, el matrimonio no es solo una promesa privada, sino un contrato reconocido por la ley.
 
 ### Romanos 7:2b "*pero si su marido muere, queda libre de la ley en cuanto al marido.*" El acuerdo civil, es "hasta que la muerte nos separe..." Cuando un conyugue muere, el matrimonio muere también. El estatus legal del conyugue que sobrevive cambia de ser casado a ser viudo. 
 
+#### En nuestro sistema legal, si el viudo quiere hacer algún tramite legal y su carnet de identidad todavía dice "casado" entonces la ley requiere que la otra parte del matrimonio esté presente para firmar. En el caso que ha fallecido, el viudo necesita actualizar su estado legal y cambian su carnet a "viudo". 
+
+#### Para hacer ese tramite es necesario mostrar el certificado de óbito que certifica que el conyuque efectivamente ha muerto. 
+
 ### Romanos 7:3a "*Así que, mientras vive su marido, será llamada adúltera si ella se une a otro hombre;*" Sin embargo, aunque enfermo pero sigue vivo, el matrimonio sigue legal. 
+
+#### Si uno de los conyugues (en este caso, ella) va y se une a otro hombre es un acto ilegal llamado adulterio. Es imposible para ella casarse con otro hombre porque la ley del matrimonio lo prohibe. 
 
 ### Romanos 7:3b *pero si su marido muere, está libre de la ley,* Sin embargo, el momento de morir el marido, ella queda libre. El matrimonio queda nulo al morir uno de los dos. 
 
 ### Romanos 7:3c *de modo que no es adúltera aunque se una a otro hombre.* Al morir su esposo, ella puede unirse a otro hombre en matrimonio y de ninguna manera sería adulterio. 
 
-### Romanos 7:4 Conclusiónes de la analogía que explican que hizo Dios
+#### La ley del matrimonio require que los dos conyugues estén vivos. Cuando uno muerte, la jurisdicción del matrimonio ya no tiene alcance al conyugue que sigue vivo. Puede volver a contraer matrimonio, es perfectamente legal. 
+
+## Romanos 7:4-6 Aplicación de la ilustración del matrimonio
 
 ### Romanos 7:4a "*Por tanto, hermanos míos, también a ustedes se les hizo morir a la ley*" los creyentes ya han muerto a la ley porque Dios les hizo morir. 
 
@@ -4305,25 +4491,37 @@ Romanos 6:1 sigue a Romanos 5:20-21.  La ley incrementó la transgresión pero l
 
 #### "*les hizo morir*" esta en voz pasiva. El creyente no se hace morir, es Dios quien lo hace. 
 
-### Romanos 7:4b "*por medio del cuerpo de Cristo,*" ya que fuimos unidos (bautizados) en la persona de Cristo, entonces todo lo que hizo también hemos hecho en Él. Si Cristo murio, entonces por medio de Él también morimos. 
+#### ¿Cómo hace Dios esto?
 
-### Romanos 7:4c *para que sean unidos a otro,* El propósito de hacernos morir era para unirnos a otros. 
+### Romanos 7:4b "*por medio del cuerpo de Cristo,*" Dios hace posible nuestra muerte al ser unidos (identificados) en la persona de Cristo. Si Cristo murio, entonces por medio de Él también morimos. Al morir quedamos libres de toda relación legal vinculante en Adán. 
+
+#### En Adán estabamos legalmente vinculados a las siguientes cosas: 
+
+##### La Ley. Romanos 7:4; Gálatas 3:23, 4:4-5
+
+##### Al pecado. Romanos 3:9, 6:6, 17
+
+##### A Satanas. Juan 8:44, 3:10
+
+##### Al mundo. Juan 15:19; Gálatas 4:3
+
+### Romanos 7:4c "*para que sean unidos a otro,*" El propósito de hacernos morir era para unirnos a otros. La única manera de quedar libres de la jurisdicción de la ley era muriendo. 
 
 ### Romanos 7:4d *a Aquel que resucitó de entre los muertos,* vemos que la union que sucedió por medio de hacernos morir era con Él que resucitó de los muertos. 
 
 #### No solo fuimos unidos el la muerte de Cristo sino también en su resurrección. Morimos para ser unido a Él. ¿Porque dice Pablo que fuimos unido al que resucitó de entre los muertos? 
 
-### Romanos 7:4e *a fin de que llevemos fruto para Dios.* Fuimos resucitados para llevar fruto para Dios.  
+### Romanos 7:4e "*a fin de que llevemos fruto para Dios.*" Bajo la ley era imposible llevar fruto para Dios porque estabamos esclavizados a el pecado. 
 
-### Romanos 7:5-6 Explicación del porque Dios nos desunió de la ley
+#### El levar fruto para Dios no es aparte de la gracia de Dios. El hecho que Dios ya nos declaró justos, nos significa que podamos hacer buenos frutos. Es por eso que Dios tuvo que hacernos morir a La Ley para unirnos a Cristo. El fin de morir a la ley fue para llevar fruto para Dios. 
 
-### Romanos 7:5a *Porque mientras estábamos en la carne,* en el estado antes de ser unido a Cristo, estabamos en la carne. 
+### Romanos 7:5a "*Porque mientras estábamos en la carne,*" en el estado antes de ser unido a Cristo, estabamos en la carne. El verbo en el imperfecto expresa que era un estado contínuo, no meramente por un momento. Esto era nuestra realidad en Adán legalmente vinculado con el pecado o en la carne. 
 
-### Romanos 7:5b *las pasiones pecaminosas despertadas por la ley,* Cuando estabamos en la carne, vivos a la ley, las pasiones de la carne fueron despertadas.
+### Romanos 7:5b "*las pasiones pecaminosas despertadas por la ley,*" Cuando estabamos en la carne, vivos a la ley, las pasiones de la carne fueron despertadas.
 
-### Romanos 7:5c *actuaban en los miembros de nuestro cuerpo* 
+### Romanos 7:5c "*actuaban en los miembros de nuestro cuerpo*"  Igualmente en tiempo imperfecto demostrando que era actividad continua en el pasado. El lugar donde esto sucedía era en los  miembros de nuestros cuerpos. 
 
-### Romanos 7:5d *a fin de llevar fruto para muerte.* en la carne, antes de morir a la ley, antes de ser resucitados con Cristo, solo podíamos llevar fruto para muerte. 
+### Romanos 7:5d *a fin de llevar fruto para muerte.* mientras estábamos en la carne, las pasiones asociadas con los pecados —mediadas a través de la ley— estaban trabajando activamente en los miembros, dando como resultado fruto dirigido hacia la muerte.
 
 ### Romanos 7:6a *Pero ahora hemos quedado libres de la ley,* en nuestro nuevo estado, muertos a la ley, vivificados en Cristo, quedamos libres de la jurisdicción de la ley. 
 
@@ -4361,177 +4559,333 @@ Romanos 6:1 sigue a Romanos 5:20-21.  La ley incrementó la transgresión pero l
 
 ##### Ahora deben producir fruto por medio de Cristo (7:4b): Así las personas espirituales son liberadas de la ley.
 
-## ROMANOS 7:7-13 Argumento #2: La ley no es pecado; la ley revela y provoca a la naturaleza pecaminosa
+## Romanos 7:7-13 Pablo comparte su experiencia de conocer "el pecado" por medio de la ley. 
 
-### Romanos 7:7a *¿Qué diremos entonces? ¿Es pecado la ley?*
+### Romanos 7:7a *¿Qué diremos entonces? ¿Es pecado la ley?* Nuevamente, Pablo hace una pregunta retorica anticipando la pregunta de alguien después de escuchar lo que dijo en los versículos 5 y 6.  Es una pregunta que requiere una respuesta de si o no. 
 
-### Romanos 7:7b *¡De ningún modo!*
+### Romanos 7:7b *¡De ningún modo!* Pablo enfáticamente responde no. 
 
-### Romanos 7:7c *Al contrario, yo no hubiera llegado a conocer el pecado si no hubiera sido por medio de la ley.*
+### Romanos 7:7c "*Al contrario, yo no hubiera llegado a conocer el pecado si no hubiera sido por medio de la ley.*" al contrario de ser pecaminoso, Pablo considera que la ley es buena porque le hizo conocer el pecado.  
 
-### Romanos 7:7d *Porque yo no hubiera sabido lo que es la codicia, si la ley no hubiera dicho: «NO CODICIARAS».*
+### Romanos 7:7d *Porque yo no hubiera sabido lo que es la codicia, si la ley no hubiera dicho: «NO CODICIARAS».* Pablo da testimonio que fue la ley que le hizo conocer la codicia en el porque la ley dijo no codiciarás. 
 
-### Romanos 7:8a *Pero el pecado, aprovechándose del mandamiento,*
+#### El conocimiento de Pablo que provino de ley era activar a el pecado cuando dijo que no codicie entonces el pecado en Pablo fue activado y empezó a codiciar. 
 
-### Romanos 7:8b *produjo en mí toda clase de codicia.*
+#### No es que Pablo no codiciaba antes pero la ley lo resalto para ser visible. 
 
-### Romanos 7:8c *Porque aparte de la ley el pecado está muerto.*
+#### A continuación veremos como Pablo expresa su experiencia...
 
-### Romanos 7:9a *En un tiempo yo vivía sin la ley,*
+### Romanos 7:8a "*Pero el pecado, aprovechándose del mandamiento,*" La ley dijo, "no codicies" pero el pecado tomó ventaja de la ley. 
 
-### Romanos 7:9b *pero al venir el mandamiento,*
+#### Pablo explica su experiencia de como el pecado tomó la ley y se aprovechó. 
 
-### Romanos 7:9c *el pecado revivió, y yo morí;*
+#### Pablo sinceramente intentaba vivir la vida cristiana bajo la ley. Pero en vez de dominar al pecado como uno pensaría que pasa, activó el pecado y se aprovechó de la ley. 
 
-### Romanos 7:10a *y este mandamiento, que era para vida,*
+### Romanos 7:8b "*produjo en mí toda clase de codicia.*" en seguida Pablo se hallo codiciando. El pecado produjo toda clase de codicia. 
 
-### Romanos 7:10b *a mí me resultó para muerte;*
+#### El que produjo codicia en el no fue la ley sino fue la carne que lo produjo. 
 
-### Romanos 7:11a *porque el pecado, aprovechándose del mandamiento, me engañó,*
+#### La Ley dijo, no codicies. El pecado tomó esa ley y la convirtio en toda clase de codicia. 
 
-### Romanos 7:11b *y por medio de él me mató.*
+### Romanos 7:8c "*Porque aparte de la ley el pecado está muerto.*" El pecado queda "dormido" donde no hay ley. Pero el momento que se le da una ley, se activa y produce toda clase de deseos pecaminosos. 
 
-### Romanos 7:12a *Así que la ley es santa,*
+#### El versículo continúa el argumento de Romanos 7:7 al pasar del conocimiento del pecado a la actividad pecaminosa.
 
-### Romanos 7:12b *y el mandamiento es santo,*
+#### La personificación del pecado es coherente con Romanos 5-6, donde el pecado actúa, reina y produce resultados.
 
-### Romanos 7:12c *justo*
+#### La ley nunca es culpada; gramaticalmente es secundaria y utilizada instrumentalmente por el pecado.
 
-### Romanos 7:12d *y bueno.*
+### Romanos 7:9 "*En un tiempo yo vivía sin la ley, pero al venir el mandamiento, el pecado revivió, y yo morí*" La secuencia es explícita y ordenada: vida anterior sin la ley, llegada del mandamiento, el pecado se activa, resulta en muerte. 
+
+#### Esto describe un estado anterior de vida apartado de la ley, seguido por la llegada del mandamiento, que coincide con el pecado volviéndose activo y resultando en muerte.
+
+#### Debemos reconocer lo que Pablo experimentó confirma la necesidad de no andar bajo la ley. La actividad de el pecado no es turbado o bloqueado por La Ley. Al contrario, el pecado es activado cuando entra en escena el mandamiento. 
+
+### Romanos 7:10 *y este mandamiento, que era para vida, a mí me resultó para muerte;* En ningún momento hizo mal el pecado a Pablo. Pero claramente la ley nunca fue diseñada para dar vida sino señalar la fuente de vida, Cristo. Gálatas 3:24
+
+#### El propósito de La Ley es buena pero si tratamos de vivir como cristianos bajo la ley terminaremos experimentando muerte. 
+
+##### ¿por qué?
+
+### Romanos 7:11a *porque el pecado, aprovechándose del mandamiento, me engañó,* si quieres vivir la vida cristiana por la ley, terminarás activando el pecado. Te verás andando según el pecado. 
+
+#### El engaño del pecado es presentar (tentar) usando la ley buena como medio para vivir cuando en realidad resulta en muerte. Hebreos 3:13; Gálatas 6:7
+
+### Romanos 7:11b *y por medio de él me mató.* Si el pecado usó la ley para producir fruto que le llevó a experimentar corrupción en su vida. 
+
+#### Santiago describe bien el proceso del engaño. 
+
+##### Santiago 1:13 *Que nadie diga cuando es tentado: «Soy tentado por Dios». Porque Dios no puede ser tentado por el mal y Él mismo no tienta a nadie*. La tentación no viene por Dios. La tentación es una apelación a nuestros deseos y nunca proviene de Dios... 
+
+##### Algunos ejemplos engañosos de tentación: 
+
+###### El conocimiento apela a nuestros sentidos, haciendonos sentir seguros (1 Corintios 8:1), 
+
+###### Cumplir los mandamientos produce conducta observable, control y seguridad (Romanos 7:10-13), 
+
+###### Descansar en la ley produce confianza en lo que se ve (Romanos 2:17-20), 
+
+###### Celo por Dios pensando que la obediencia es vida (produce alivio moral inmediato) (Romanos 10:2).  El control (sentidos) se siente mejor que la dependencia (fe). 
+
+##### Santiago 1:14 *Sino que cada uno es tentado cuando es llevado y seducido por su propia pasión*.
+
+###### La verdadera fuente (que usa cosas buenas aveces que apelan a los sentidos) que nos conduce a que seamos tentados, es el pecado (*nuestra propia pasión* o *concupisencia* (RVR60)). 
+
+##### Santiago 1:15 *Después, cuando la pasión ha concebido, da a luz el pecado; y cuando el pecado es consumado, engendra la muerte.* Cuando la pasión (el pecado) ha concebido (tentado) da a luz el pecado (fruto) cuando es consumado engendra muerte. 
+
+##### Santiago 1:16 *Amados hermanos míos, no se engañen.* El engaño del pecado es sutil. Y es facil caer preso a su engaño porque usa cosas buenas para lograr su astucia. 
+
+##### Santiago 1:17 *Toda buena dádiva y todo don perfecto viene de lo alto, desciende del Padre de las luces, con el cual no hay cambio ni sombra de variación.* Dios nunca nos lleva a ser tentados. La fuente del bien no es mediante nuestra pasión (carne) sino proviene del Padre. 
+
+###### No quiere decir que no haya tentación porque siempre lo hay. Pero Dios provee para que la tentación no nos engañe y más aún, que no tenga atraccíón o poder. 
+
+##### Santiago 1:18 *En el ejercicio de Su voluntad, Él nos hizo nacer por la palabra de verdad, para que fuéramos las primicias de sus criaturas.* Hemos nacido por la palabra de verdad para que la verdad tuviera su lugar en nosotros y tenga su resultado de hacernos primicias de sus criaturas. Esto lo logra Dios (que no tienta) sino es luz y hace todo en la luz (ni sombra de variación). 
+
+###### Las cosas que son provistas por Dios deben ser percibidos por los ojos de la fe y no es una apelación por medio de los sentidos (tentación). 
+
+##### Entonces, vemos como el pecado puede usar buenas cosas para engañarnos, esclavizarnos y matarnos. 
+
+### Romanos 7:12a "*Así que la ley es santa, y el mandamiento es santo, justo y bueno.*" La Biblia nunca dice que La Ley sea mala, pecaminosa, corrupta o que cause el pecado. 
+
+#### La ley es santo. Salmo 19:7
+
+#### La ley es justo. Deuteronomio 4:8
+
+#### La ley es bueno. 1 Timoteo 1:8; Salmo 119:39
+
+### Romanos 7:13a "*¿Entonces lo que es bueno vino a ser causa de muerte para mí?*" ¿La ley es culpable de que experimenté muerte en mi vida? En parte, pero no es la *causa*. 
+
+#### No hay duda que la ley tomó parte en lo que sucedió pero no lo causó. 
+
+### Romanos 7:13b "*¡De ningún modo!*" en absoluto. 
+
+### Romanos 7:13c *Al contrario, fue el pecado,* totalmente al revés. Fue la naturaleza pecaminosa (las pasiones, el pecado) que causo mi muerte. 
+
+### Romanos 7:13d *a fin de mostrarse que es pecado al producir mi muerte por medio de lo que es bueno,* La Ley fue parte del proceso pero no la causa. 
+
+#### ¿por qué participaría la ley en que tenga una experiencia de muerte. Simplemente porque quiere hacer conocer que lo que sucede no viene de Dios y es absolutamente malo. 
+
+### Romanos 7:13e *para que por medio del mandamiento el pecado llegue a ser en extremo pecaminoso.* La Ley pone el claro el pecado como fuente es realmente pecaminoso. 
+
+#### La ley fuerza el pecado a ser plenamente visible. La ley no se esconde ni se acobarda; se opone al pecado y lo resalta por lo que realmente es.
+
+#### Esto es el punto principal de esta sección: "*Al contrario, yo no hubiera llegado a conocer el pecado si no hubiera sido por medio de la ley.*" Romanos 7:7
+
+#### Lo que Pablo no dice:
+
+###### La ley causa muerte
+
+###### La ley engaña
+
+###### La ley falla
+
+###### La ley se aparta del pecado
+
+#### Pablo si dice que la ley demuestra:
+
+##### El pecado engaña (Romanos 7:11)
+
+##### El pecado mata
+
+##### La ley se mantiene firme y expone el pecado por completo
+
+#### En este mundo de engaño y sabiendo que el pecado es engañoso, es bueno tener muy en claro que la ley es buena. 
 
 ## En Síntesis (7:7-13)
 
-### LAS PERSONAS NATURALES Y LA LEY (7:7-13): La ley se usa de una manera doble.
+### Pablo anticipa una objeción y **niega rotundamente** que la ley sea pecado.
 
-#### El uso de la ilustración (7:7, 10): Dios usó la ley para revelar la pecaminosidad de la carne.
+### Afirma que **la ley le permitió conocer el pecado**, específicamente la codicia.
 
-#### El uso de la condenación (7:8-9, 11-13): El pecado usó la ley para reavivar la pecaminosidad de la carne.
+### El mandamiento no crea el pecado, sino que **lo hace visible y explícito**.
 
-#### Por lo tanto, las personas naturales están condenadas por la ley.
+### El pecado **aprovecha el mandamiento** y produce toda clase de deseos.
 
-### Romanos 7:13a *¿Entonces lo que es bueno vino a ser causa de muerte para mí?*
+### Aparte de la ley, el pecado es descrito como **inactivo**; con el mandamiento, se activa.
 
-### Romanos 7:13b *¡De ningún modo!*
+### La secuencia presentada es clara: **llega el mandamiento → el pecado se activa → resulta muerte**.
 
-### Romanos 7:13c *Al contrario, fue el pecado,*
+### El mandamiento, aunque **era para vida**, resultó en muerte **por causa del pecado**, no por falla de la ley.
 
-### Romanos 7:13d *a fin de mostrarse que es pecado al producir mi muerte por medio de lo que es bueno,*
+### El pecado **engaña usando algo bueno** (la ley) y por medio de ello produce muerte.
 
-### Romanos 7:13e *para que por medio del mandamiento el pecado llegue a ser en extremo pecaminoso.*
+### La ley es declarada **santa, justa y buena**; nunca es culpada del mal.
 
-## Romanos 7:14-25 Argumento #3: El conflicto interno
+### El propósito de la ley en este proceso es **exponer el pecado como verdaderamente pecaminoso**.
 
-### Romanos 7:14a *Porque sabemos que la ley es espiritual,* su naturaleza está alineada con el Espíritu de Dios, expresa la voluntad de Dios. 
+### La ley no se retira ni se suaviza ante el pecado; **lo confronta y lo deja al descubierto**.
 
-### Romanos 7:14b *pero yo soy carnal,*
+### El punto central de la sección es que **la ley revela y desenmascara el pecado**, mientras que el pecado engaña y mata.
 
-### Romanos 7:14c *vendido a la esclavitud del pecado.*
+## Romanos 7:14-25 Describiendo el conflicto interno
 
-### Romanos 7:15a *Porque lo que hago, no lo entiendo.*
+### Romanos 7:14a *Porque sabemos que la ley es espiritual,* la naturaleza de la ley está alineada con el Espíritu de Dios, expresa la voluntad de Dios. 
 
-### Romanos 7:15b *Porque no practico lo que quiero hacer,*
+#### "*Sabemos*" (plural) que la es buena, justa y santa. Ahora Pablo añade que la ley es espiritual, alineándolo con el reino de Dios en lugar de la carne. 
 
-### Romanos 7:15c *sino que lo que aborrezco, eso hago.*
+#### En los últimos versículos podría parecer que Pablo estaba implicando que la ley y el pecado obraron juntos. De ninguna manera y quiere dejar eso en claro. La ley es espiritual. 
 
-### Romanos 7:16a *Y si lo que no quiero hacer, eso hago, estoy de acuerdo con la ley,*
+#### En esta sección veremos que Pablo demostrará el contraste entre la ley y el creyente. 
 
-### Romanos 7:16b *reconociendo que es buena.*
+### Romanos 7:14b *pero yo soy carnal, vendido a la esclavitud del pecado.* Pablo puede confirmar que en ese momento (soy) de su vida como creyente era carnal. Pablo demuestra su carnalidad por el conflicto interno que vive y por los resultados reveladores. 
 
-### Romanos 7:17 *Así que ya no soy yo el que lo hace, sino el pecado que habita en mí.*
+### Romanos 7:15a *Porque lo que hago, no lo entiendo.* Pablo luchaba por entender por qué hacía lo que hacia. 
 
-### Romanos 7:18a *Porque yo sé que en mí, es decir, en mi carne, no habita nada bueno.*
+¿Qué le hacía dudar a Pablo? 
 
-### Romanos 7:18b *Porque el querer está presente en mí, pero el hacer el bien, no.*
+### Romanos 7:15b *Porque no practico lo que quiero hacer, sino que lo que aborrezco, eso hago.* Pablo encontró que no lograba hacer lo que sabia que debía. 
 
-### Romanos 7:19 *Pues no hago el bien que deseo, sino el mal que no quiero, eso practico.*
+#### El querer estaba presente en el pero el hacer no. Romanos 7:18
 
-### Romanos 7:20a *Y si lo que no quiero hacer, eso hago, ya no soy yo el que lo hace,*
+#### No hago el bien que deseo sino el mal que no quiero. Romanos 7:19
 
-### Romanos 7:20b *sino el pecado que habita en mí.*
+#### con la mente sirvo a la ley de Dios pero en mis miembros al pecado. Romanos 7:25
 
-### Romanos 7:21a *Así que, queriendo yo hacer el bien,*
+#### Describe un conflicto continuo en el que las intenciones y deseos del hablante no se alinean con las acciones realmente llevadas a cabo, lo que resulta en la práctica y realización de lo que se opone y se odia.
 
-### Romanos 7:21b *hallo la ley de que el mal está presente en mí.*
+##### El versículo amplía el argumento al ilustrar las consecuencias prácticas de ser “carnal” y “vendido al pecado”, como se declara en Romanos 7:14.
 
-## Romanos 7:22-23 Dos normas o principios de vida
+### Romanos 7:16a *Y si lo que no quiero hacer, eso hago, estoy de acuerdo con la ley, reconociendo que es buena.* afirma que cuando el hablante hace lo que no quiere, este mismo conflicto demuestra acuerdo con la ley y afirma que la ley es buena.
 
-### Seria bueno recorder lo que vimos en el capítulo 4 con Abraham. 
+#### Pablo demuestra estar de acuerdo con la ley pero termina haciendo lo que la ley prohibe. 
 
-#### Romanos 4:13 *Porque la promesa a Abraham o a su descendencia de que él sería heredero del mundo, **no fue hecha por medio de la ley**, sino por medio de la **justicia de la fe**.*
+### Romanos 7:17 *Así que ya no soy yo el que lo hace, sino el pecado que habita en mí.* Pablo reconoce la procedencia del mal que no quería hacer. No es la ley, y el esta de acuerdo con la ley, sino el actor del mal es el pecado que mora en él. 
 
-#### Romanos 4:14 *Porque si los que son de la ley son herederos, vana resulta la fe y anulada la promesa.*
+#### concluye que las acciones contrarias a la voluntad ya no se atribuyen al “yo” como agente, sino al pecado descrito como algo que habita en el interior, desplazando la agencia sin negar la realidad de la acción.
 
-#### Romanos 4:15 *Porque **la ley produce ira**, pero donde no hay ley, tampoco hay transgresión.*
+##### El versículo no niega la participación personal; aclara el agente, no la responsabilidad.
 
-#### Romanos 4:16 ***Por eso es por fe, para que esté de acuerdo con la gracia**, a fin de que la promesa sea firme para toda la posteridad, no solo a los que son de la ley, sino también a los que son de la fe de Abraham, quien es padre de todos nosotros.*
+##### Esta declaración prepara el terreno para la formulación repetida en Romanos 7:20 y el conflicto más amplio descrito en Romanos 7:18-23.
 
-### Miremos lo que dijo Romanos 5:20-21
+### Romanos 7:18a "*Porque yo sé que en mí, es decir, en mi carne, no habita nada bueno.*" La razón que Pablo dijo, "*soy carnal, vendido al pecado*" es porque en su carne no habita nada bueno. Y cuando Pablo era engañado y llevado por su carne, entonces el era carnal. 
 
-#### Romanos 5:20 *La ley llegó **para que el pecado aumentara**, pero cuando hubo más pecado, el generoso amor de Dios se hizo aun mucho más grande.* (PDT)
+### Romanos 7:18b *Porque el querer está presente en mí, pero el hacer el bien, no.* Ya hemos visto en Romanos si quieres ir por la ley, entonces no es suficiente saberlo o querer hacerlo. 
 
-#### Romanos 5:21 *El pecado reinó por medio de la muerte, pero ahora el generoso amor de Dios reina aprobándonos por medio de nuestro Señor Jesucristo y dándonos vida eterna.* (PDT)
+#### Romanos 2:13 *Porque no son los oidores de la ley los justos ante Dios, sino los que cumplen la ley...* El principio de ser hechos justos delante de Dios no vino conociendo la ley. Pablo tampoco debe basar su santificación querer hacer el bien que requiere la ley. 
 
-### Romanos 7:22 *Porque en el hombre interior me deleito con la ley de Dios,*
+##### Gálatas 3:3-5 *¿Tan insensatos son? Habiendo comenzado por el Espíritu, ¿van a terminar ahora por la carne? ¿Han padecido tantas cosas en vano? ¡Si es que en realidad fue en vano! Aquel, pues, que les suministra el Espíritu y hace milagros entre ustedes, ¿lo hace **por las obras de la ley o por el oír con fe**?* La santificación es por el mismo medio que la justificación. 
 
-### Romanos 7:23a *pero veo otra ley en los miembros de mi cuerpo que hace guerra contra la ley de mi mente,*
+### Romanos 7:19 *Pues no hago el bien que deseo, sino el mal que no quiero, eso practico.* El resultado de todo el conflicto interno de Pablo era que no hacía lo que queria sino lo que no queria eso terminaba haciendo. 
 
-### Romanos 7:23b *y me hace prisionero de la ley del pecado que está en mis miembros.*
+#### Esto demuestra que Pablo estaba esclavizado al pecado. Sabía el bien que debía hacer pero no se encontraba posibilitado de hacerlo. Gálatas 5:16-17
 
-### Romanos 7:24a *¡Miserable de mí!*
+### Romanos 7:20a *Y si lo que no quiero hacer, eso hago, ya no soy yo el que lo hace,* En vez de cargarse de culpa, Pablo reconoce que la inabilidad de hacer el bien y la practica de hacer el mal no procedia de él (su nueva identidad en Cristo).
 
-### Romanos 7:24b *¿Quién me libertará de este cuerpo de muerte?*
+#### Existe mucha falta en identificar el verdadero agente. 
 
-### Romanos 7:25a *Gracias a Dios, por Jesucristo Señor nuestro.*
+##### No es el viejo hombre (ese ya murió). Romanos 6:6
 
-### Romanos 7:25b *Así que yo mismo, por un lado, con la mente sirvo a la ley de Dios,*
+##### No es Satanás (el está confinado a un solo lugar a la vez y es probable que no esté ocupado en ti)
 
-### Romanos 7:25c *pero por el otro, con la carne, a la ley del pecado.*
+##### No es tu cuerpo físico. El pecado mora en tu cuerpo físico pero no son lo mismo. 
+
+##### La ley no es culpable. Ya estableció que la ley es perfecta.
+
+##### "Soy así no puedo evitarlo". Esto demuestra una falta de entender tu nueva realidad en Cristo. Quien eres no es definido por lo que haces sino por la declaración de Dios. 
+
+### Romanos 7:20b *sino el pecado que habita en mí.* Es muy importante cuando Pablo nos aclara el agente verdadero del mal que practicaba. No se esta excusando de culpa, esta señalando de donde proviene. 
+
+#### Pablo no dice ese pecado o hecha la culpa a otro, sino que proviene del pecado que habita/mora **en mi**. 
+
+### Romanos 7:21 *Así que, queriendo yo hacer el bien, hallo la ley de que el mal está presente en mí.* Pablo señala una conclusión extraída de la experiencia, siempre que hay una voluntad presente de hacer el bien, el mal está simultáneamente presente y disponible. 
+
+### Romanos 7:22 *Porque en el hombre interior me deleito con la ley de Dios,* sitúa el deleite en relación con la ley de Dios, no en el esfuerzo propio o el resultado.
+
+#### Este versículo refuerza que el conflicto no es hostilidad hacia la ley; la persona interior se alinea positivamente con ella.
+
+### Romanos 7:23a *pero veo otra ley en los miembros de mi cuerpo que hace guerra contra la ley de mi mente,* el problema no es solo en los resultados sino también Pablo expresa una guerra que se lleva acabo en contra de su mente. 
+
+### Romanos 7:23b *y me hace prisionero de la ley del pecado que está en mis miembros.* Describe la percepción de Pablo de un principio opuesto que opera en los miembros, luchando activamente contra la ley de la mente y resultando en cautiverio a la ley del pecado presente en los miembros.
+
+### Romanos 7:24a *¡Miserable de mí! ¿Quién me libertará de este cuerpo de muerte?* Pablo demuestra estar totalmente necesitado, no solo reconoce un conflicto, reconoce que necesita liberación de el pecado. Pablo correctamente identifica "*quien*" y no meramente un que. 1 Corintios 1:30
+
+#### Pablo necesitaba ser liberado del cuerpo de muerte, o la naturaleza de pecado, que pesaba fuertemente sobre su cuerpo terrenal. 
+
+#### Existen maestros que enseñan liberarse de el pecado mediante cosas y no mediante un "quien". 
+
+##### El "yoga cristiano" no libera del pecado. 
+
+##### Las "disciplinas espirituales" no liberan del pecado. 
+
+##### La madurez espiritual impuesta por el hombre no significa liberación del pecado. 
+
+##### Las prohibiciones, el separarse del mundo, hacer más, hacer menos, no son maneras para liberarse del pecado. Colosenses 2:20-23
+
+### Romanos 7:25a *Gracias a Dios, por Jesucristo Señor nuestro.*Pablo agradece a la persona que lo liberó y continúa liberando del pecado. Era Jesucristo. El mismo que libera a Pablo es el mismo que libera a todos los creyentes. 
+
+#### Pablo no describe el mecanismo de liberación porque no es un mecanismo. Es una persona, Jesucristo. 
+
+### Romanos 7:25b "*Así que yo mismo, por un lado, con la mente sirvo a la ley de Dios, pero por el otro, con la carne, a la ley del pecado.*" Pablo resume la batalla que experimentó y que es de todo creyente. 
+
+#### La acción de gracias precede a la explicación, marcando un punto de transición más que una resolución completa.
+
+#### El versículo nos prepara para lo que viene en Romanos 8.
 
 ## En Síntesis (7:14-25)
 
-### El pueblo carnal y la ley (7:14-26)
+### La ley es afirmada como **espiritual**, alineada con la voluntad y el ámbito de Dios.
 
-#### Pablo ha aprendido que cualquier intento de guardar la ley conduce a la carnalidad (7:14-23).
+### Pablo se describe como **carnal**, en una condición donde el pecado ejerce dominio.
 
-##### La confusión (7:14-16): La frustración de Pablo es doble.
+### Existe una **desconexión persistente** entre el querer hacer el bien y el poder hacerlo.
 
-###### No hace las cosas que quiere hacer (7:14-15a, 16a).
+### El conflicto no demuestra rechazo de la ley, sino **acuerdo con que es bueno**.
 
-###### Hace las cosas que no quiere hacer (7:15b, 16b).
+### El mal practicado no se atribuye a la ley, sino al **pecado que habita en mí**.
 
-##### La corrupción (7:17-20): Se da cuenta de la corrupción total de su antigua naturaleza pecaminosa.
+### En la carne **no habita nada bueno**, aunque el deseo por el bien esté presente.
 
-##### La conclusión (7:21-23): Comprende la lucha diaria dentro de él.
+### El problema no es falta de conocimiento ni de intención, sino **incapacidad de ejecución**.
 
-###### La vieja naturaleza, siempre tratando de hacer el mal (7:21a, 23)
+### El conflicto se experimenta como una **guerra interna** entre dos “leyes/principios”.
 
-###### La nueva naturaleza, siempre tratando de hacer lo correcto (7:21b-22)
+### El pecado opera en los **miembros**, produciendo cautiverio y resultados contrarios al querer.
 
-#### Pablo ha aprendido que ningún intento de guardar la ley puede conducir a la espiritualidad (7:24-25).
+### El “hombre interior” se **deleita en la ley de Dios**, confirmando que la ley no es el problema.
 
-##### La agonía del problema de Pablo (7:24): "¡Qué miserable soy! ¿Quién me librará de esta vida que está dominada por el pecado?"
+### La situación culmina en un **clamor por liberación**, dirigido a un “quién”, no a un “qué”.
 
-##### La respuesta al problema de Pablo (7:25): "¡Gracias a Dios! La respuesta está en Jesucristo nuestro Señor".
+### La respuesta es **gratitud a Dios por medio de Jesucristo**, no por métodos o esfuerzos humanos.
+
+### El pasaje concluye con un **resumen de la tensión**: la mente sirve a la ley de Dios, la carne a la ley del pecado.
+
+### La sección **no resuelve** completamente el conflicto; prepara el terreno para Romanos 8.
 
 # ROMANOS 8:1-30 LA VIDA MAGNIFICA DEL CREYENTE
 
-## Romanos 8:1-4: Dos estados, vida en el Espíritu, no en la carne
+## Romanos 8:1-4: A la imposibilidad de vida en justicia, Dios intenviene...
+
+Romanos 8:1 **retoma directamente** el clamor y la tensión no resuelta de Romanos 7:24–25.
+
+El paso no es explicativo (cómo), sino **declarativo** (qué es ahora cierto).
+
+El contraste cambia de **conflicto interno** a **estado resultante**.
 
 ### Encontramos en los versículos 1-4 un continuo argumento. Gramaticalmente, ninguno de los versículos funcionan independiente del otro. Si se quita una parte, toda la cadena se rompe. 
 
 ### Romanos 8:1a *Por tanto, ahora no hay condenación para los que están en Cristo Jesús,* en base a lo que se dijo previamente, "*por tanto*", ahora (gracias al Señor Jesus) no hay condenación para todos y cada uno de lo que se encuentran colocados en Cristo. 
 
-#### Afirmación principal. No hay condenación. 
+#### “*Ahora, pues*” marca conclusión inferencial del argumento previo. La afirmación es absoluta: *ninguna condenación*.
+
+#### El foco no está en la conducta ni en el conflicto, sino en la posición (*en Cristo Jesús*). No se introduce todavía el “cómo vivir”, sino qué ya no aplica (condenación).
 
 ### Romanos 8:1b "*los que no andan conforme a la carne sino conforme al Espíritu.*"
 
-### Romanos 8:2a "*Porque la ley del Espíritu de vida en Cristo Jesús*"
+### Romanos 8:2a "*Porque la ley del Espíritu de vida en Cristo Jesús te ha libertado de la ley del pecado y de la muerte.*" La razón que no hay ninguna condenación en Cristo Jesús es porque ahora el medio y el fin es otro. 
 
-#### Explicación del versículo 1, "*porque*" GAR. 
+#### El contraste se formula con el mismo lenguaje de Romanos 7:
 
-### Romanos 8:2b "*te ha libertado de la ley del pecado y de la muerte.*" 
+##### antes: *ley del pecado y de la muerte*
 
-### Romanos 8:3a "*Pues lo que la ley no pudo hacer, ya que era débil por causa de la carne,*" la ley no podia traernos justicia por la debilidad de la carne. 
+##### ahora: *ley del Espíritu de vida*
+
+##### El énfasis no es esfuerzo humano, sino qué principio gobierna.
+
+### Romanos 8:3a "*Pues lo que la ley no pudo hacer, ya que era débil por causa de la carne,*" Pablo aclara por qué la ley no pudo resolver el conflicto de Romanos 7. 
+
+#### La incapacidad no se atribuye a la ley, sino a la carne. Pablo dijo, “*soy carnal*” (7:14) y “*en mi carne no habita nada bueno*” (7:18). La carne es el factor que reacciona negativamente contra la ley. La Ley no quita el poder del pecado, lo activa. 
+
+##### La ley queda nuevamente exonerada.
 
 #### Dios nunca dió La Ley para ser gestionadores del pecado. La vida Cristiana, empoderado por Cristo, no mediante La Ley porque La Ley no lo puede hacer. La Ley trae conocimiento de pecado. 
 
@@ -4539,15 +4893,17 @@ Romanos 6:1 sigue a Romanos 5:20-21.  La ley incrementó la transgresión pero l
 
 #### No es hasta que entendemos que la vida cristiana, provista por la obra de Cristo, es principalmente madurez espiritual. Obviamente al madurar espiritualmente pecamos menos pero no maduramos espiritualmente solo porque pequemos menos. Dios en vano hubiera dado a su Hijo para que en semejanza de carne condene la carne en el cuerpo. 
 
-#### Explicación del versículo 2 "*pues*" GAR. Versículo 3 depende del versículo 2. 
+#### En Romanos 7 vemos que dependía enteramente de Pablo para cumplir las exigencias de la ley que aunque el quería y reconocia que era bueno, le fue imposible. 
 
-### Romanos 8:3b "*Dios lo hizo: enviando a Su propio Hijo*" Dios hizo lo que la ley no podía hacer. Envió a su Hijo. 
+### Romanos 8:3b "*Dios lo hizo: enviando a Su propio Hijo*" En lugar que dependiera de Pablo, Dios intevino e hizo lo que ningún otro podía hacer. Envió a su Hijo para traer resolución a todo el conflicto. 
 
-### Romanos 8:3c "*en semejanza de carne de pecado*" como hombre. 
+#### La maravilla de la obra comprehensiva de Dios es que proveyó para justificarnos pero también proveyo para poder vivir libres del poder del pecado y llevar fruto para Dios. Romanos 7:4
+
+### Romanos 8:3c "*en semejanza de carne de pecado*" como hombre, en lugar de la humanidad. El envío del Hijo aborda exactamente el ámbito del problema: *la carne*. 
 
 ### Romanos 8:3d "*y como ofrenda por el pecado,*" no como pecador, sino ofrenda por el pecado. En lugar del pecador para condenar el pecador (singular con el artículo definido). 
 
-### Romanos 8:3e "*condenó al pecado en la carne,*" lo que fue condenado según este versículo es la naturaleza pecaminosa que entro con Adán. 
+### Romanos 8:3e "*condenó al pecado en la carne,*" lo que fue condenado según este versículo es la naturaleza pecaminosa que entro con Adán. El pecado es tratado en su propio terreno, no ignorado ni suavizado. 
 
 #### Cristo no sentenció al pecado para habitar en la carne. Lo que Cristo hizo fue condenar al pecado que esta en el cuerpo. En el presente el creyente todavía tiene la carne. Pero habrá un día seré librado del mismo pecado que mora en mi. 
 
@@ -4555,11 +4911,11 @@ Romanos 6:1 sigue a Romanos 5:20-21.  La ley incrementó la transgresión pero l
 
 #### Esto trata sobre la sentencia sobre el pecado. 
 
-### Romanos 8:4a "*para que*" INA gramaticalmente expresa el propósito de la acción en el versículo 3. 
+### Romanos 8:4a "*para que*" expresa el propósito de la acción en el versículo 3. 
 
-### Romanos 8:4b "*el requisito de la ley se cumpliera en nosotros,*"
+### Romanos 8:4b "*el requisito de la ley se cumpliera en nosotros,*" El propósito no se limita a quitar condenación, sino a cumplir la justa exigencia de la ley. El cumplimiento no se describe como logro humano, sino como resultado. 
 
-#### cumpliera (aoristo, pasivo, subjuntivo)
+#### Sabemos que esto es solo gracias a la provisión de Dios en Cristo ("*Dios hizo*").
 
 ### Romanos 8:4c "*que no andamos conforme a la carne, sino conforme al Espíritu.*" el estado del creyente el libertad de la carne, en el Espiritu y andan según el Espíritu. 
 
@@ -4567,33 +4923,61 @@ Romanos 6:1 sigue a Romanos 5:20-21.  La ley incrementó la transgresión pero l
 
 ## En Síntesis (8:1-4)
 
-### Bosquejo de la sección ocho (Romanos 8)
+### Romanos 8:1–4 continúa directamente el clamor no resuelto de Romanos 7 y presenta una conclusión declarativa, no un método.
 
-#### Pablo describe siete nuevas garantías que acompañan a la salvación.
+### Los versículos forman una cadena argumental inseparable: cada afirmación depende de la anterior.
 
-### El creyente tiene una nueva posición (8:1-8).
+### La sección pasa del conflicto interno a un estado objetivo: ninguna condenación para los que están en Cristo.
 
-#### Nuestra posición con respecto al Hijo de Dios (8:1-3): El creyente está en Cristo.
+### La ausencia de condenación se fundamenta en la posición en Cristo, no en la conducta.
 
-##### El milagro involucrado (8:1, 3a): Los creyentes no reciben condenación y son liberados del pecado y muerte.
+### El cambio decisivo es de principio gobernante: de la ley del pecado y la muerte a la ley del Espíritu de vida.
 
-##### Los medios involucrados (8:2, 3b): Esto se logró no a través de la Ley de Moisés sino por la muerte de Cristo.
+### La ley no falló; su incapacidad se debe a la debilidad de la carne.
 
-#### Nuestra posición con respecto a la ley de Dios (8:4): Ahora podemos cumplir a los justos requisitos de la ley en y a través de Cristo.
+### Dios intervino donde el ser humano no podía: “Dios lo hizo”, enviando a su propio Hijo.
 
-## Romanos 8:5-8: Describiendo dos realidades, cada uno con su mentalidad y sus resultados correspondientes
+### El Hijo fue enviado en el mismo ámbito del problema (la carne), pero como ofrenda por el pecado.
 
-### Romanos 8:5a "*Porque los que viven conforme a la carne, ponen la mente en las cosas de la carne,*" Pablo presenta un estado de vida por el cual el creyente puede conducirse. 
+### El pecado fue condenado en la carne, no excusado ni reformado.
+
+### El propósito de esta acción no fue solo quitar condenación, sino cumplir el justo requisito de la ley en nosotros.
+
+### Ese cumplimiento es resultado de la obra de Dios, no del esfuerzo humano.
+
+### La vida que fluye de esta obra se describe como andar según el Espíritu, no según la carne.
+
+## Romanos 8:5-11: Describiendo El Espíritu que mora en nosotros y la promesa de vida
+
+### Romanos 8:5–11 no inicia un tema nuevo; desarrolla lo que significa *“andar según el Espíritu”* (8:4).
+
+### El enfoque sigue siendo explicativo, no exhortativo: Pablo describe realidades, no manda conductas.
+
+### Romanos 8:5a "*Porque los que viven conforme a la carne, ponen la mente en las cosas de la carne, pero los que viven conforme al Espíritu, en las cosas del Espíritu.*" Identifica dos tipos de personas por esfera de existencia, no por acción.
+
+#### Pablo organiza el argumento alrededor de dos esferas mutuamente excluyentes. Uno es *según la carne* y el otro es *según el Espíritu*. 
 
 #### "*viven conforme*" (presente, activo, indicativo) literalmente significa, "los que siendo según". Vivir conforme es la condición o estado de causa.  El estado de mente es el resultado. 
 
-#### La naturaleza de la mente que resulta de un andar conforme a la carne, es que la mente este ocupada en las cosas de la carne. 
+##### Pablo describe dos tipos de personas, no dos pasos. Observe la estructura:
 
-### Romanos 8:5b "*pero los que viven conforme al Espíritu, en las cosas del Espíritu.*" La naturaleza de la mente que resulta de alguien que anda conforme al Espíritu, es vida y paz.
+###### “*los que son según…*” = identidad/esfera
 
-### Romanos 8:6a "*Porque la mente puesta en la carne es muerte,*" la mente que resulta de vivir según la carne resulta en la muerte. 
+##### La mentalidad se describe como característica de esa esfera. Pablo no está diciendo: “Si alguien vive según la carne, su mente se vuelve carnal”. Está diciendo “Quienes pertenecen a la esfera carnal se caracterizan por una mente dirigida por la carne”. Por lo tanto, la mente es diagnóstica, no causal.
+
+### Romanos 8:6a "*Porque la mente puesta en la carne es muerte,*" la mente que resulta de vivir según la carne resulta en la muerte.
+
+#### La naturaleza de la mente de un andar conforme a la carne, es caracterizada por estar ocupada en las cosas de la carne y direcciona hacia la muerte. 
+
+#### Según la gramática griega la palabra "es" es implicito. Esto es una construcción normal en el griego. Simplemente hace una cosa igual que la otra. 
+
+#### Entonces, la mente puesta en las cosas de la carne es lo mismo que muerte. 
 
 ### Romanos 8:6b "*pero la mente puesta en el Espíritu es vida y paz.*" la mente ocupada en el Espíritu **es** vida y paz interior. 
+
+#### La naturaleza de la mente del que anda conforme al Espíritu, es vida y paz.
+
+#### De igual que la mente puesta en la carne es muerte, la mente puesta en el Espíritu es vida y paz. Esto es diferente a pensar que resulta en vida y paz. La mente orientada hacia el Espíritu es vida y paz.Esto es descriptivo, no condicional ni describe un procedimiento.
 
 ### Romanos 8:7a "*La mente puesta en la carne es enemiga de Dios,*" la mente de muerte, que esta puesta en la carne es enemiga de Dios. 
 
@@ -4610,8 +4994,6 @@ Romanos 6:1 sigue a Romanos 5:20-21.  La ley incrementó la transgresión pero l
 #### esta frase no es condicional sino descriptivo. El verbo "*no pueden agradar*" es indicativo. Los incrédulos están en la carne. No pueden agradar a Dios. 
 
 #### El hecho que muestra Pablo es que los que solo andan por la carne porque no tienen otra opción, nunca pueden agradar a Dios. 
-
-## Romanos 8:9-11: El Espíritu mora en el creyente
 
 ### Romanos 8:9a "*Sin embargo,*" esta frase inicia un fuerte contraste a lo anterior. 
 
@@ -4633,89 +5015,187 @@ Romanos 6:1 sigue a Romanos 5:20-21.  La ley incrementó la transgresión pero l
 
 ### Romanos 8:9d "*Pero si alguien no tiene el Espíritu de Cristo, el tal no es de Él.*" En otras palabras, si alguien no tiene el Espíritu, es imposible ser de Él porque nunca fue trasladado por Dios del reino del pecado al reino de la gracia. Es únicamente los creyentes quienes tienen el Espíritu de Cristo y son de Él. 
 
-### Romanos 8:10a "*Y si Cristo está en ustedes,*" dado que es cierto que Cristo está en ustedes. Pablo argumenta el tema con ellos para su comprensión. 
+### Romanos 8:10a "*Y si Cristo está en ustedes,*" (condición 1ra clase) dado que es cierto que Cristo está en ustedes. Pablo argumenta el tema con ellos para su comprensión. 
 
-### Romanos 8:10b "*aunque el cuerpo esté muerto*" 
+### Romanos 8:10b "*aunque el cuerpo esté muerto*" establece una condición presente, no un resultado futuro. 
 
-### Romanos 8:10c "*a causa del pecado,*"
+### Romanos 8:10c "*a causa del pecado,*" la muerte del cuerpo es atribuido a la carne. 
 
-### Romanos 8:10d "*sin embargo, el espíritu está vivo*" 
+### Romanos 8:10d "*sin embargo, el espíritu está vivo*" forma una declaración comparable, identificando al Espíritu con la vida, no meramente como dador de vida.
 
-### Romanos 8:10e "*a causa de la justicia.*" 
+### Romanos 8:10e "*a causa de la justicia.*" la vida es atribuida a la justicia. 
 
-### Romanos 8:11a *Pero si el Espíritu de Aquel que resucitó a Jesús de entre los muertos habita en ustedes,*
+#### El verso no resuelve la tensión entre muerte y vida; las mantiene unidas como realidades presentes.
+
+#### No aparece ningún imperativo ni exhortación; el versículo describe un estatus, no una instrucción.
+
+#### Afirma que si Cristo está en los creyentes, coexisten dos realidades: el cuerpo está muerto a causa del pecado, mientras que el Espíritu vive a causa de la justicia.
+
+#### El versículo prepara directamente para Romanos 8:11, donde se aborda el futuro del cuerpo mortal, sin alterar la tensión presente que se describe aquí.
+
+### Romanos 8:11a *Pero si el Espíritu de Aquel que resucitó a Jesús de entre los muertos habita en ustedes,* nuevamente usa una condición de 1ra clase que asume que el Espíritu mora en la audiencia. 
 
 ### Romanos 8:11b "*el mismo que resucitó a Cristo Jesús de entre los muertos,*"
 
-### Romanos 8:11c "*también dará vida a sus cuerpos mortales*" 
+#### El Espíritu es identificado por una acción pasada, aquel que levanto a Jesus de los muertos. Esto ancla la seguridad presente en un hecho histórico. 
 
-### Romanos 8:11d "*por medio de Su Espíritu que habita en ustedes.*" la vida es mediante aquel que resucitó a Cristo que vive en el creyente. 
+### Romanos 8:11c "*también dará vida a sus cuerpos mortales por medio de Su Espíritu que habita en ustedes*." Si el mismo Espíritu que habita (presente) en ellos y que en la historia levantó a Jesus de los muertos, pueden estar seguros que dará (futuro) vida a sus cuerpos mortales. 
+
+#### El Espíritu que mora en nosotros es la base para la futura vivificación. Éfesios 1:13-14, 4:30
+
+#### Esto afirma que si el Espíritu que resucitó a Jesús mora en los creyentes, Dios también dará vida a sus cuerpos mortales a través de ese mismo Espíritu que mora en ellos, conectando el poder de resurrección pasado, la presencia presente y la vida corporal futura.
 
 ## En Síntesis (8:5-11)
 
-### El creyente tiene un nuevo huésped (8:9-14).
+### Romanos 8:5–11 desarrolla qué significa andar según el Espíritu, en continuidad directa con 8:4.
 
-### Quién es él (8:9): Él es el bendito Espíritu Santo mismo.
+### El pasaje es explicativo y descriptivo, no exhortativo; presenta realidades, no mandatos.
 
-### Lo que hace (8:10-14)
+### Pablo contrasta dos esferas de existencia mutuamente excluyentes: carne y Espíritu.
 
-### Una vez fortaleció a Cristo y lo resucitó de entre los muertos (8:11).
+### La mente no es la causa, sino el rasgo diagnóstico de la esfera en la que alguien existe.
 
-### Ahora vive dentro de nosotros y nos controla (8:9).
+### La mente según la carne es muerte; la mente según el Espíritu es vida y paz (identificación, no proceso).
 
-### Ahora nos fortalece y algún día nos resucitará de entre los muertos (8:10, 12-14).
+### La mente de la carne es hostil a Dios y estructuralmente incapaz de sujetarse a su ley.
 
-## Romanos 8:12-17: Hijos y herederos de Dios
+### Los que están solo en la carne no pueden agradar a Dios; la afirmación es descriptiva, no condicional.
 
-### Romanos 8:12a *Así que, hermanos, somos deudores,*
+### Pablo aplica el esquema a los lectores: no están en la carne, sino en el Espíritu, si el Espíritu mora en ellos.
 
-### Romanos 8:12b *no a la carne, para vivir conforme a la carne.*
+### Tener el Espíritu de Cristo es lo que define pertenecer a Cristo.
 
-### Romanos 8:13a *Porque si ustedes viven conforme a la carne, habrán de morir;*
+### Aun con Cristo en nosotros, coexisten dos realidades presentes:
 
-### Romanos 8:13b *pero si por el Espíritu hacen morir las obras de la carne, vivirán.*
+#### el cuerpo está muerto a causa del pecado,
 
-### Romanos 8:14a *Porque todos los que son guiados por el Espíritu de Dios,*
+#### el Espíritu es vida a causa de la justicia.
 
-### Romanos 8:14b *los tales son hijos de Dios.*
+### El mismo Espíritu que resucitó a Jesús mora ahora en los creyentes.
 
-### Romanos 8:15 *Pues ustedes no han recibido un espíritu de esclavitud para volver otra vez al temor, sino que han recibido un espíritu de adopción como hijos, por el cual clamamos: «¡Abba, Padre!».*
+### Esa morada presente garantiza la vivificación futura del cuerpo mortal.
 
-### Romanos 8:16 *El Espíritu mismo da testimonio a nuestro espíritu de que somos hijos de Dios.*
+### El pasaje conecta pasado (resurrección de Cristo), presente (Espíritu que habita) y futuro (vida corporal) en una sola línea de esperanza.
 
-### Romanos 8:17a *Y si somos hijos, somos también herederos;*
+## Romanos 8:12-17: Implicaciones, Hijos y herederos de Dios
 
-### Romanos 8:17b *herederos de Dios y coherederos con Cristo,*
+### El pasaje continúa la lógica de 8:1–11, pero introduce un nuevo tono: ya no solo describe realidades, sino que deriva implicaciones. Esta sección no es exhortiva ni contiene mandatos. Contiene indicativos que declaran que el creyente tiene 2 maneras de andar. 
 
-### Romanos 8:17c *si en verdad padecemos con Él*
+### Romanos 8:12a *Así que, hermanos, somos deudores, no a la carne, para vivir conforme a la carne.* Pablo introduce lenguaje de deuda/obligación, pero niega que sea hacia la carne.
 
-### Romanos 8:17d *a fin de que también seamos glorificados con Él.*
+#### El conector “así que” señala conclusión práctica, sin volver a condenación ni a ley.
+
+#### No se establece una obligación legal, sino una congruencia relacional con la nueva esfera (Espíritu).
+
+#### Introduce el concepto de obligación, pero sin especificar todavía un acreedor. Pero explicitamente dice que no es la carne.  El lenguaje de la obligación surge aquí de la identidad y del ámbito, no de la ley o la condena.
+
+#### Por tanto, existe una responsabilidad direccional. No se trata de quiénes son legalmente, sino de cómo se orienta ahora la vida dada la nueva realidad del Espíritu.
+
+##### ¿por qué es tan importante que sepan que no son deudores a la carne?
+
+### Romanos 8:13a *Porque si ustedes viven conforme a la carne, habrán de morir;* porque si (condición 1ra clase) ustedes viven conforme a la carne estan en camino a morir. No es un evento inmediato sino habla de ir en dirección a la muerte. 
+
+#### Es facil caer preso a la carne pensando que tenemos alguna deuda que saldar. Debemos saber que no le debemos nada a la carne. 
+
+### Romanos 8:13b *pero si por el Espíritu hacen morir las obras de la carne, vivirán.* es notorio el énfasis en el Espíritu como el medio para hacer morir las obras de la carne. No es por esfuerzo humano. 
+
+#### hacen morir esta en tiempo presente. Es una actividad continua pero siempre "*por el Espíritu*" y no en independencia. 
+
+#### Vida es el resultado. La vida se presenta como un resultado alineado con el reino del Espíritu en lugar de un desempeño legal. Romanos 5:20-21
+
+#### El versículo 13 contrasta explícitamente dos formas de vivir. Pablo establece un contraste experiencial claro: Vivir según la carne conduce a muerte y por el Espíritu haciendo morir las obras de la carne conduce a vida.
+
+##### Este no es un lenguaje de estatus (condena versus justificación).
+
+##### Se refiere a dos maneras de vivir: Una forma de vida produce un resultado. Otra forma otro resultado.
+
+##### Pablo está explicando cómo funciona la vida bajo cada poder gobernante.
+
+### Romanos 8:14a "*Porque todos los que son guiados por el Espíritu de Dios,*" Pablo hace un declaración de estado no de conducta. Los hijos de Dios son de los que son guiados por el Espíritu. 
+
+#### "*son guiados*" (presente, pasivo, indicativo). Pone al espiritu como el lider activo. Obviamente esto solo puede referirse a creyentes (porque incrédulos no son guiados por el Espíritu). 
+
+### Romanos 8:14b "*los tales son hijos de Dios.*" Los que son hijos maduros son los creyentes que caminan según el Espíritu de Dios de forma consistente. La palabra que Pablo usa y el contexto, revelan que Pablo habla aquí de hijos que han crecido en madurez espiritual, no que son hijos verdaderos demostrado por ser guiado por el Espíritu. 
+
+#### "*son*" (presente, activo, indicativo) El *“son*” activo funciona como una etiqueta, no como un veredicto.
+
+#### "*Hijos*" HUIOI normalmente significa hijos. Entendemos que en Gálatas 4 el contexto demuestra etapas donde la madurez es representada por HUIOI. Sin embargo en este contexto no parece estar haciendo énfasis en madurez sino en definir quienes son. 
+
+##### “Guiados por el Espíritu” es la descripción operativa
+
+##### “Hijos de Dios” nombra el tipo de relación que se expresa cuando esa operación está activa.
+
+##### No se detiene a definir quién califica como hijo, sino los que tienen la vida gobernada por el Espíritu. Ellos son hijos maduros. 
+
+### Romanos 8:15 *Pues ustedes no han recibido un espíritu de esclavitud para volver otra vez al temor, sino que han recibido un espíritu de adopción como hijos, por el cual clamamos: «¡Abba, Padre!».* La seguridad de saber que eres un hijo amado de Dios debería llevarte a disfrutar de una relación íntima con el Señor en tu vida diaria. Si Dios te parece distante, probablemente estés dejando de experimentar este profundo sentido de pertenencia que Él ofrece a todos Sus hijos. 1 Pedro 1:23; 1 Juan 3:1
+
+#### El versículo 15 explica la diferencia experiencial. Un modo de vida produce miedo. El otro produce confianza y cercanía. Pablo está explicando por qué la vida guiada por el Espíritu se siente y funciona de manera diferente.
+
+### Romanos 8:16 *El Espíritu mismo da testimonio a nuestro espíritu de que somos hijos de Dios.*Tu nuevo nacimiento te otorgó una nueva identidad como hijo de Dios. Uno de los ministerios prácticos del Espíritu Santo es afirmarte constantemente esta realidad. Gálatas 4:6
+
+#### Cuando andamos conforme al Espíritu, percibimos con claridad el testimonio del Espíritu Santo asegurándonos nuestro lugar en la familia de Dios. Pero cuando vivimos conforme a la carne, fácilmente volvemos a pensar como esclavos llenos de temor.
+
+#### Nunca podremos salir de la familia de Dios, pero sí podemos perder el sentido de pertenencia. La inseguridad debilita, y no es la voluntad de Dios para ninguno de Sus hijos. Aunque Jesús amaba por igual a todos Sus discípulos, deberíamos adoptar la actitud del apóstol Juan, quien se describía a sí mismo como “el discípulo a quien Jesús amaba”. Juan 13:23, 20:2, 21:20
+
+#### El Espíritu da testimonio a nuestro espíritu. La experiencia es seguridad, no ansiedad.
+
+#### Nuevamente, esto se ajusta al principio de caminar: La vida gobernada por el Espíritu conlleva confirmación interior. La vida gobernada por la carne no.
+
+### Romanos 8:17a *Y si somos hijos, somos también herederos;* si (condición 1ra clase) hijos entonces herederos. 
+
+### Romanos 8:17b *herederos de Dios y coherederos con Cristo,* son herederos ciertamente de Dios pero coherederos con Cristo. Pablo hace un contraste en realidad entre herederos y coherederos. 
+
+### Romanos 8:17c *si en verdad padecemos con Él* describe una acción de hecho en el presente y compartida. 
+
+### Romanos 8:17d *a fin de que también seamos glorificados con Él.* sufrimos con Él, también seremos glorificados con Él. 
+
+#### Ser hijo de Dios incluye el privilegio de participar en los sufrimientos de Cristo, y por eso Pablo nos asegura que también participaremos en Su gloria (1 Pedro 4:13).
+
+##### Pablo usa la expresión  “si en verdad / puesto que realmente”, indicando que el sufrimiento con Cristo es un hecho. Así, el sentido es: *“Ya que sufrimos con Él, también compartiremos Su gloria.”*
+
+##### No está diciendo que sólo algunos creyentes serán glorificados, sino afirmando que todos los que pertenecen a Cristo -y comparten Su sufrimiento- también compartirán Su gloria. Romanos 8:35–39; Filipenses 3:10; 1 Pedro 2:21–23
+
+##### El versículo 17 extiende el mismo principio al futuro. Pablo dice que aquellos que viven en esta relación orientada a los hijos: compartirán en la herencia, compartirán en el sufrimiento y avanzarán hacia la gloria compartida. 
+
+##### Esta no es una escalera de recompensas. Es una explicación de trayectoria: Esta forma de vida participa en el camino de Cristo, ahora y en el futuro.
 
 ## En Síntesis (8:12-17)
 
-### EL CREYENTE TIENE UNA NUEVA ADOPCIÓN (8:15-17): Ahora somos miembros de la familia de Dios.
+### La nueva vida en el Espíritu define una nueva dirección de vivir.
 
-#### Dándonos una intimidad con el Padre (8:15-16)
+### No le debemos nada a la carne; vivir según ella conduce a muerte.
 
-#### Dándonos una herencia del Padre (8:17)
+### Por el Espíritu hacemos morir las obras de la carne, y eso produce vida.
 
-# Romanos 8:18-8:39 GLORIFICACIÓN: LA GLORIA FUTURA CON CRISTO
+### Pablo describe dos formas de andar, no dos estatus espirituales.
+
+### Los creyentes que son guiados por el Espíritu caracteriza a los hijos maduros de Dios.
+
+### La relación filial no produce temor, sino confianza e intimidad.
+
+### El Espíritu confirma interiormente nuestra identidad como hijos.
+
+### Ser hijos significa también ser herederos de Dios y coherederos con Cristo.
+
+### Participamos con Cristo en sufrimiento ahora y en gloria futura.
+
+### No es recompensa; es la trayectoria propia de la vida en Cristo.
+
+# Romanos 8:18-39 GLORIFICACIÓN: LA GLORIA FUTURA CON CRISTO
 
 ## Romanos 8:18-25: Sufrimiento presente y esperanza futura
 
-Nuestra esperanza futura da referencia a nuestro sufriemiento presente y posiblemente futuro.
+### Nuestra esperanza futura da referencia a nuestro sufriemiento presente y posiblemente futuro.
 
-En realidad conecta versículo 17 con 18. Somos hijos. Padeceremos con Él. Ya que Él padece, nosotros también padecemos con Él. 
+#### En realidad conecta versículo 17 con 18. Somos hijos. Padeceremos con Él. Ya que Él padece, nosotros también padecemos con Él. 
 
-Pero, así como el heredará todas las cosas, nosotros también heredamos. Hay una gloria que será revelada en un futuro. En esa misma gloria que nos espera la misma creación esta gimiendo. La creación anhela ver ese día. 
+#### Pero, así como el heredará todas las cosas, nosotros también heredamos. Hay una gloria que será revelada en un futuro. En esa misma gloria que nos espera la misma creación esta gimiendo. La creación anhela ver ese día. 
 
-Nosotros esperamos ese día también justamente con el E.S. 
+#### Nosotros esperamos ese día también justamente con el E.S. 
 
 ### Romanos 8:18a "*Pues considero que los sufrimientos de este tiempo presente*" Dios quiere que tengamos claro nuestras circunstancias actuales a la luz de lo que Dios ve. 
 
-El sufrimiento es presente. El sufrir no es por sufrir sino para gustar de lo que no se ve, sino sea consolado por la fe en ese sufrimiento. Entonces en esto, Dios esta ayudando nuestra vista para ver los invisible, lo que no se puede ver, lo hace visible por medio de usar el sufrimiento y nos ayuda a anhelar ver ese día. 
-
-
+#### El sufrimiento es presente. El sufrir no es por sufrir sino para gustar de lo que no se ve, sino sea consolado por la fe en ese sufrimiento. Entonces en esto, Dios esta ayudando nuestra vista para ver los invisible, lo que no se puede ver, lo hace visible por medio de usar el sufrimiento y nos ayuda a anhelar ver ese día. 
 
 ### Romanos 8:18b "*no son dignos de ser comparados con la gloria que nos ha de ser revelada.*"  Poniendo en una balanza, los sufrimientos actuales no llegan a pesar como las glorias venideras que nos espera. 
 
@@ -4731,9 +5211,7 @@ El sufrimiento es presente. El sufrir no es por sufrir sino para gustar de lo qu
 
 ##### como sabemos que esta gloria nos va pasar? La creación es puesta como testigo. Anhela ver el día que los hijos de Dios sean manifestados. 
 
-### Romanos 8:19 *Porque el anhelo profundo de la creación es aguardar ansiosamente la revelación de los hijos de Dios.*
-
-#### toda la naturaleza esta esperando el día en que los hijos de Dios sean revelados con sus cuerpos glorificados. Apocalipsis 19:7-9, 14
+### Romanos 8:19 *Porque el anhelo profundo de la creación es aguardar ansiosamente la revelación de los hijos de Dios.* toda la naturaleza esta esperando el día en que los hijos de Dios sean revelados con sus cuerpos glorificados. Apocalipsis 19:7-9, 14
 
 #### La creación entera esta esperando este día porque este día significará ser liberada de la esclavitúd a la cual Dios la sometió. 
 
@@ -4753,227 +5231,35 @@ El sufrimiento es presente. El sufrir no es por sufrir sino para gustar de lo qu
 
 ### Romanos 8:21b "*a la libertad de la gloria de los hijos de Dios.*"
 
-### Romanos 8:22 "*Pues sabemos que la creación entera gime y sufre hasta ahora dolores de parto.*" sabemos esto. No lo vemos todavía pero sabemos que la creación gime. 
+### Romanos 8:22 "*Pues sabemos que la creación entera gime y sufre hasta ahora dolores de parto.*" sabemos esto. No lo vemos todavía pero sabemos que la creación gime. Isaías 24:46; Jeremías 4:28
 
-#### Isaías 24:4–6 “*La tierra está de luto y se seca, El mundo se desvanece y se seca…*" La Tierra y el mundo se describen con términos de deterioro físico y emocional. La causa se declara como transgresión humana (no ampliada)
+#### La creación se describe como inestable, decadente o desgastada. Salmo 102:25-26
 
-#### Jeremías 4:28 “Por esto se lamentará la tierra, Y los cielos arriba se oscurecerán…” Se dice que la Tierra está "de luto"
+#### La creación reacciona violenta o catastróficamente. Isaías 13:13
 
-#### El alcance cósmico incluye los cielos.
+#### La creación espera o responde a cambios futuros. Salmo 96:11-13
 
-#### Jeremías 12:4 “*¿Hasta cuándo estará de luto la tierra? ¿Y que se marchite la vegetación del campo?* Tierra y vegetación descritas como sufrimiento
-
-#### Lenguaje de duelo aplicado a la tierra
-
-#### Oseas 4:1–3 “Por eso la tierra está de luto, Y todo el que vive en él languidece…” La tierra se personifica como luto. La vida animal también se ve afectada (bestias, pájaros, peces)
-
-#### Versículos donde la creación se describe como inestable, decadente o desgastada.
-
-#### Salmo 102:25–26 “*Incluso ellos perecerán, pero tú resistes; Y todos ellos se desgastarán como un vestido…*” Creación descrita como perecedera. 
-
-#### Metáfora de envejecimiento/decadencia utilizada
-
-#### Isaías 51:6 “*Porque los cielos se desvanecerán como humo, Y la tierra se desgastará como un vestido…*” Cielos y tierra sujetos a deterioro. El paralelismo enfatiza la decadencia.
-
-#### Versos donde la creación reacciona violenta o catastróficamente
-
-#### Isaías 13:13 “*Por tanto haré temblar los cielos, Y la tierra será sacudida de su lugar…*” Inestabilidad física atribuida a la creación.
-
-#### Lenguaje tembloroso y tembloroso.
-
-#### Hageo 2:6 “*Una vez más, dentro de poco, voy a hacer temblar los cielos y la tierra…*” Los cielos y la tierra responden con movimiento.
-
-#### No se da ninguna explicación de metáfora.
-
-#### Salmo 18:7 “*Entonces la tierra tembló y tembló; Y temblaban los cimientos de los montes…*” Se describe que la Tierra y las montañas reaccionan físicamente
-
-#### Versículos donde se dice que la creación espera o responde a cambios futuros
-
-#### Salmo 96:11–13 “*Alégrense los cielos y regocíjese la tierra…*” La creación retratada como capaz de responder
-
-#### Verbos emocionales aplicados al orden natural.
-
-#### Isaías 35:1 “*Se alegrarán el desierto y el desierto…*” Creación no humana representada con verbos de respuesta.
-
-### Contraste con la esterilidad presente implícita en la redacción.
-
-#### Resumen (solo observacional)
-
-#### Las Escrituras usan repetidamente lenguaje de duelo, marchitamiento, sacudimiento, desgaste, temblor y dolor para la creación. Estas descripciones se aplican a:
-
-##### suelo
-
-##### tierra
-
-##### tierra
-
-##### cielos
-
-##### vegetacion
-
-##### animales
-
-#### Romanos 8:22 recoge de manera única este patrón en una sola declaración usando lenguaje de “gemidos”
-
-#### Aunque la ciencia no observa intento, espera o esperanza si podemos observar patrones de tensión, decadencia, inestabilidad y resolución retrasada. Paralelos científicos observables:
+#### Aunque la ciencia no observa intento, espera o esperanza si observa patrones de tensión, decadencia, inestabilidad y resolución retrasada. 
 
 ##### Tendencia universal hacia la decadencia y la inestabilidad. Los sistemas físicos tienden al desorden, al colapso y a la pérdida de energía. Esto es mensurable y universal.
 
-##### Ejemplos
+##### Ejemplos: aumento de entropía (segunda ley de la termodinámica), fatiga del material, colapso del ecosistema, agotamiento estelar y envejecimiento biológico
 
-###### Aumento de entropía (Segunda Ley de la Termodinámica)
+##### Punto clave: La creación no es estática ni se autoestabiliza. Los sistemas persisten bajo tensión, no en equilibrio. Esto coincide con la realidad observable del estrés sistémico continuo, no del descanso.
 
-###### Fatiga del material
+##### Acumulación de estrés seguida de eventos de liberación. La tensión se acumula silenciosamente y luego se expresa a través de la liberación: terremotos, erupciones volcánicas, supernovas.
 
-###### Colapso del ecosistema
+###### La ciencia no dice que la creación esté esperando en un sentido consciente -pero sí muestra la creación existente en una condición que coincide con lo que el texto describe como tensión sin resolución.
 
-###### Agotamiento estelar
+### Romanos 8:23a "*Y no solo ella, sino que también nosotros mismos,* los creyentes mismos (parte de la creación) también gimen. 
 
-###### Envejecimiento biológico
+### Romanos 8:23b "*que tenemos las primicias del Espíritu,*" habla de la posesion que ya tienen los creyentes. Primicias del Espíritu habla de algo que proviene del Espiritu y marca relación. 
 
-##### Punto clave
-
-###### La creación no es estática ni se autoestabiliza.
-
-###### Los sistemas persisten bajo tensión, no en equilibrio.
-
-###### Esto coincide con la realidad observable del estrés sistémico continuo, no del descanso.
-
-#### Sistemas existentes en estados prolongados “no finales. Muchos sistemas naturales permanecen en estados inestables o de transición durante largos períodos:
-
-##### Placas tectónicas que almacenan tensión antes de su liberación.
-
-##### Estrellas que existen entre la formación y el colapso.
-
-##### Especies que sobreviven en un frágil equilibrio ecológico
-
-##### Los sistemas climáticos oscilan en lugar de estabilizarse
-
-##### Punto clave
-
-###### La naturaleza existe frecuentemente en resolución diferida.
-
-###### El sistema se comporta como si “esperara” una transición, aunque sin intención.
-
-###### Esto corresponde a una prolongada inconclusión, no a un cumplimiento.
-
-#### Acumulación de estrés seguida de eventos de liberación. La tensión se acumula silenciosamente y luego se expresa a través de la liberación:
-
-##### Terremotos
-
-##### Erupciones volcánicas
-
-##### Supernovas
-
-##### El parto en sí (paralelo biológico que Pablo usa explícitamente)
-
-#### Punto clave
-
-#### El gemido no es ruido, sino presión bajo presión.
-
-#### La liberación ocurre sólo después de una tensión prolongada.
-
-#### La ciencia observa directamente los patrones de tensión → gemido → liberación.
-
-#### El sufrimiento biológico como característica de todo el sistema
-
-#### Observación
-
-#### El dolor, la muerte, la depredación, la enfermedad y la extinción son características inherentes a los sistemas biológicos.
-
-##### Ejemplos
-
-##### Extinciones masivas
-
-##### Enfermedad crónica
-
-##### Errores de mutación genética
-
-##### Toxicidad ambiental
-
-##### Punto clave
-
-##### La vida persiste a través del sufrimiento, no sin él.
-
-##### Este sufrimiento es sistémico, no anómalo.
-
-##### La naturaleza no muestra un florecimiento universal, sólo supervivencia bajo limitación.
-
-#### Interdependencia entre la actividad humana y la inestabilidad natural
-
-##### Observación
-
-##### Las acciones humanas afectan de manera mensurable la condición de la creación.
-
-##### Ejemplos
-
-##### Contaminación
-
-##### Alteración climática
-
-##### Destrucción del hábitat
-
-##### Pérdida de especies
-
-##### Punto clave
-
-##### La condición de la creación está ligada a la presencia y acción humana.
-
-##### Esto es empíricamente observable, no especulativo.
-
-##### La ciencia confirma un vínculo entre la humanidad y el estado de creación.
-
-#### 6.⁠ ⁠Ausencia de finalidad en cualquier parte del universo observable
-
-##### Observación
-
-##### Ningún sistema natural alcanza un estado permanente y perfeccionado.
-
-##### Ejemplos
-
-##### las estrellas mueren
-
-##### Las galaxias se desplazan
-
-##### Las especies se extinguen
-
-##### Los átomos se desintegran (radiactividad)
-
-##### Punto clave
-
-##### Todo es temporal, tenso y transitorio.
-
-##### No se observa ningún "estado de finalización" dentro de la naturaleza misma.
-
-##### La creación se comporta como inacabada, no resuelta.
-
-#### Resumen (estrictamente observacional)
-
-##### La ciencia observable confirma que:
-
-##### La creación existe bajo tensión constante
-
-##### Los sistemas persisten en estados inestables y no finales.
-
-##### La decadencia, el sufrimiento y la tensión son universales
-
-##### La liberación sigue a una presión prolongada.
-
-##### La humanidad está enredada con la condición de la creación.
-
-##### Ningún sistema alcanza el cumplimiento permanente
-
-#### La ciencia no dice que la creación esté esperando en un sentido consciente —pero sí muestra la creación existente en una condición que coincide con lo que el texto describe como tensión sin resolución.
-
-### Romanos 8:23a "*Y no solo ella, sino que también nosotros mismos,*
-
-### Romanos 8:23b "*que tenemos las primicias del Espíritu,*"
-
-### Romanos 8:23c "*aun nosotros mismos gemimos en nuestro interior,*"
+### Romanos 8:23c "*aun nosotros mismos gemimos en nuestro interior,*" gemimos (presente, activo, indicativo). Ésta es la afirmación principal sobre la experiencia actual de los creyentes. Gemimos internamente. 
 
 ### Romanos 8:23d "*aguardando ansiosamente la adopción como hijos,*" Nosotros practicamos la adopción hoy de distinta manera que se hacía en el primer siglo. En aquél entonces, la adopción iva asociada no son solo ser legalmente hijo sino más especificamente con la herencia. 
 
-#### Parte de nuestra herencia, que ya tenemos legalmente y que nos espera en los cielos, todavía no nos ha sido entregado. Un aspecto de esa herencia es que recibiremos una transformación de cuerpo. 
+#### Parte de nuestra herencia, que ya poseemos legalmente que nos espera en los cielos, todavía no nos hemos recibido. Un aspecto de esa herencia es que recibiremos una transformación de cuerpo. Esto es la compleción de la adopción como hijos. 
 
 ### Romanos 8:23e "*aguardando...la redención de nuestro cuerpo.*" los hijos de Dios estamos ansiosamente esperando ser librados de la esclavitud de nuestro cuerpo actual. 
 
@@ -4981,65 +5267,31 @@ El sufrimiento es presente. El sufrir no es por sufrir sino para gustar de lo qu
 
 #### Finalmente, cuando Dios cambie nuestros cuerpos, todo gemido cesará. Es necesario que todo esto suceda para que su cumpla las siguientes promesas:
 
-####  1 Corintios 15:50-54
+##### 1 Corintios 15:50 *Pero esto digo, hermanos: La carne y la sangre no pueden heredar el reino de DIOS; ni la corrupción hereda la incorrupción.*
 
-#### 1 Co 15:50 Pero esto digo, hermanos: La carne y la sangre no pueden heredar el reino de DIOS; ni la corrupción hereda la incorrupción.
+##### 1 Corintios 15:51 *He aquí, os digo un misterio: No todos dormiremos °, pero todos seremos transformados,*
 
-#### 1 Co 15:51 He aquí, os digo un misterio: No todos dormiremos °, pero todos seremos transformados,
+##### 1 Corintios 15:52 *en un instante, en un abrir y cerrar de ojos °, a la final trompeta (porque sonará la trompeta), y los muertos serán resucitados incorruptibles, y nosotros seremos transformados.*
 
-#### 1 Co 15:52 en un instante, en un abrir y cerrar de ojos °, a la final trompeta (porque sonará la trompeta), y los muertos serán resucitados incorruptibles, y nosotros seremos transformados.
+##### 1 Corintios 15:53 *Porque es necesario que esto corruptible sea vestido de incorrupción, y esto mortal sea vestido de inmortalidad.*
 
-#### 1 Co 15:53 Porque es necesario que esto corruptible sea vestido de incorrupción, y esto mortal sea vestido de inmortalidad.
+##### 1 Corintios 15:54 *Y cuando esto corruptible se vista de incorrupción y esto mortal se vista de inmortalidad, entonces se cumplirá ° la Palabra escrita: ¡Tragada fue la Muerte en victoria!*
 
-#### 1 Co 15:54 Y cuando esto corruptible se vista de incorrupción y esto mortal se vista de inmortalidad, entonces se cumplirá ° la Palabra escrita: ¡Tragada fue la Muerte en victoria!
-
-##### la creación gime porque tiene una esperanza de ser librada de ser sujeta a corrupción.  Es anti-natural que la creación vea decadencia y tensión.
+##### La creación gime porque tiene una esperanza de ser librada de ser sujeta a corrupción.  Es anti-natural que la creación vea decadencia y tensión.
 
 ##### Nosotros no gemimos solo por dolor, sino porque esperamos ansiosamente la redención de nuestros cuerpos. 
 
-#### Pasajes donde los hijos/niños se conectan con la transformación corporal o la resurrección
+##### Los hijos/niños se conectan con la transformación corporal o la resurrección. Lucas 20:35-36
 
-##### Lucas 20:35–36 “*Pero aquellos que son considerados dignos de llegar a esa edad y a la resurrección de entre los muertos…porque ya no pueden morir...y son hijos de Dios, siendo hijos de la resurrección*”. “Hijos de Dios” está gramaticalmente vinculado a: resurrección e incapacidad para morir. 
+##### La filiación está relacionada con una condición corporal posterior a la resurrección. La frase “*hijos de la resurrección*” vincula directamente la identidad con el acontecimiento corporal. Juan 5:28-29
 
-###### La filiación está relacionada con una condición corporal posterior a la resurrección.
+##### Los hijos de Dios se conectan con manifestaciones futuras que involucran el cuerpo. 1 Juan 3:1-2, 3
 
-###### La frase “hijos de la resurrección” vincula directamente la identidad con el acontecimiento corporal
+##### El lenguaje de la herencia (asociado con la filiación) está conectado con la resurrección o el cambio corporal. Gálatas 4:4-7; Efesios 1:13-14
 
-##### Juan 5:28–29 “*Todos los que están en los sepulcros oirán su voz, y saldrán…*” Se afirma la resurrección de los cuerpos. No hay plazo de adopción, pero la restauración corporal está vinculada a escuchar la voz del Hijo. 
+##### La resurrección o la transformación corporal se conectan con el parecido familiar o la gloria. Filipenses 3:20-21; 1 Corintios 15:42-49
 
-#### Pasajes donde los hijos de Dios se conectan con manifestaciones futuras que involucran el cuerpo
-
-##### 1 Juan 3:1–2 “*Amados, ahora somos hijos de Dios, y aún no se ha manifestado lo que seremos. Sabemos que cuando Él aparezca, seremos como Él, porque lo veremos tal como Él es*”. Identidad actual: “hijos de Dios”. Cambio futuro: “seremos como Él”. El cambio está conectado con la apariencia y la visión.
-
-###### La naturaleza del cambio no está definida, pero se afirma la transformación futura.
-
-##### 1 Juan 3:3 “*Y todo aquel que tiene puesta en él esta esperanza, se purifica a sí mismo, así como él es puro*”. La esperanza mira hacia el futuro. No se indica ningún mecanismo. La purificación sigue a la anticipación de la semejanza futura.
-
-#### Pasajes donde el lenguaje de la herencia (asociado con la filiación) está conectado con la resurrección o el cambio corporal
-
-##### Gálatas 4:4–7 “*Por cuanto sois hijos, Dios envió el Espíritu de su Hijo a nuestros corazones…*” Lenguaje de adopción/filiación presente. Herencia declarada (“heredero por Dios”). Aquí no hay referencia corporal, pero la herencia anticipa la posesión futura.
-
-##### Efesios 1:13–14 “*…el Espíritu Santo de la promesa, que es dado en prenda de nuestra herencia…*” La herencia está orientada al futuro. La redención corporal no se nombra, pero la posesión es incompleta
-
-#### Pasajes donde la resurrección o la transformación corporal se conectan con el parecido familiar o la gloria
-
-##### Filipenses 3:20–21 “*…quien transformará el cuerpo de nuestro estado humilde en conformidad con el cuerpo de su gloria…*” Transformación corporal explícita. Lenguaje de conformidad (“en conformidad con”). No se utiliza ningún término de adopción, pero se declara la semejanza con el Hijo.
-
-##### 1 Corintios 15:42–49 “*Así como hemos llevado la imagen del terrenal, así llevaremos la imagen del celestial*”. Se describe la resurrección corporal. Lenguaje portador de imágenes. Semejanza familiar implícita en “imagen”, no etiquetada como adopción. 
-
-#### Pasajes donde la herencia/herederos (términos relacionados con el hijo) están ligados a la gloria futura
-
-##### 1 Pedro 1:3–5 “*…para obtener una herencia incorruptible, incontaminada y que no se desvanecerá…*” Herencia reservada para el futuro. Sin términos corporales, pero la imperecebilidad contrasta con la condición actual.
-
-#### Otros pasajes:
-
-##### La filiación/hijos de Dios conectado con la resurrección. Lucas 20:35–36
-
-##### Los hijos de Dios conectados con la semejanza futura. 1 Juan 3:1-2
-
-##### La transformación corporal conectado con la conformidad con el Hijo. Filipenses 3:20-21
-
-##### La herencia (relacionada con el hijo) conectada con el cumplimiento futuro. 
+##### La herencia/herederos (términos relacionados con el hijo) están ligados a la gloria futura. 1 Pedro 1:3-5
 
 ### Romanos 8:24a "*Porque en esperanza hemos sido salvados,*" La promesa de Dios para el que cree en Él es ser salvado en todo sentido, no solo del infierno. 
 
@@ -5047,47 +5299,49 @@ El sufrimiento es presente. El sufrir no es por sufrir sino para gustar de lo qu
 
 ### Romanos 8:25 "*Pero si esperamos lo que no vemos, con paciencia lo aguardamos.*" 
 
-## Romanos 8:26-27: El Espíritu intercede
-
-### Romanos 8:26a "*De la misma manera, también el Espíritu nos ayuda en nuestra debilidad.*"
+### Romanos 8:26a "*De la misma manera, también el Espíritu nos ayuda en nuestra debilidad.*" El accionar del Espíritu es conectado al tema anterios. literalmente dice: “toma juntamente con nuestra debilidad”.
 
 #### No dice que el Espíritu gime. Nos dice que en el presente, nos ayuda a todos nosotros porque todos somos débiles. Debilidad no es individual o excepcional. Pablo se incluye en este grupo. 
 
 #### ¿Cómo somos débiles?
 
-### Romanos 8:26b "*No sabemos orar como debiéramos,*" Somos débiles porque no sabemos orar. Esta clausula define nuestra debilidad:
+### Romanos 8:26b "*No sabemos orar como debiéramos,*" somos debiles porque no sabemos **qué** debemos pedir.  La debilidad es falta de conocimiento sobre contenido de oración, no falta de deseo.
 
-#### No sabemos. La debilidad es falta de conocimiento no falta de deseo, esfuerzo o sinceridad. El verbo habla de saber no hacer. 
+### Romanos 8:26c "*pero el Espíritu mismo intercede por nosotros con gemidos indecibles.*" El Espíritu entra en acción por nuestra debilidad de forma constante en nuestro favor. 
 
-#### El tema es contenido no postura, frequencia o disciplina. 
+#### Gemidos indecibles no define al Espíritu gimiendo, sino **el modo** de su intercesión.
 
-#### La debilidad concierne sobre lo que pedimos, no si oramos. 
+##### Se afirma un ministerio del Espíritu, no se ordena nada al creyente.
 
-#### Nuestra debilidad es situaciones no total..."*según es necesario...*"
+### Romanos 8:27a "*Y Aquel que escudriña los corazones sabe cuál es el sentir del Espíritu,*" expresa conocimiento establecido y continuo: “Él conoce la mentalidad/intención del Espíritu”.
 
-#### La frase implica un estandar o requerimiento que existe. 
+### Romanos 8:27b "*porque Él intercede por los santos conforme a la voluntad de Dios.*" explica por qué este conocimiento es cierto: el Espíritu intercede según Dios (es decir, de acuerdo con la voluntad de Dios). Dios entiende completamente la intercesión del Espíritu a favor de los santos. 
 
-#### La debilidad es relativo a ese estandar no absoluta ignorancia. 
+## En Síntesis (8:18-27)
 
-#### Nuestra debilidad es compartida por todos los creyentes. No se hace ninguna distincion entre creyentes maduros o inmaduros. 
+### El sufrimiento presente forma parte de la vida de los hijos de Dios.
 
-#### Nuestra debilidad es presentado como normal no como algo para remediar. No es presentado como un fracazo o pecado. 
+### Pero ese sufrimiento no se compara con la gloria futura que será revelada.
 
-### Romanos 8:26c "*pero el Espíritu mismo intercede por nosotros con gemidos indecibles.*"
+### La creación entera gime, esperando la futura liberación de la corrupción.
 
-### Romanos 8:27a "*Y Aquel que escudriña los corazones sabe cuál es el sentir del Espíritu,*"
+### Su esperanza está ligada a la manifestación gloriosa de los hijos de Dios.
 
-### Romanos 8:27b "*porque Él intercede por los santos conforme a la voluntad de Dios.*"
+### También nosotros gemimos, aun teniendo las primicias del Espíritu.
 
-#### la debilidad no es que nuestros corazones no pueden ser conocidos. 
+### Esperamos la redención de nuestro cuerpo como parte final de nuestra adopción.
 
-#### La debilidad no es al lado de la recepción de la oración. 
+### Nuestra salvación está orientada hacia la esperanza, todavía no vista.
 
-#### El texto no dice que Dios malinterpreta creyentes. 
+### Por eso esperamos con paciencia lo que aún no vemos.
 
-## En Síntesis (8:17-27)
+### En esta espera, el Espíritu nos ayuda en nuestra debilidad.
 
-### Muchas veces podemos solamente mirar como la glorificación tiene promesas personales que nos impactan. Sin embargo vemos que el plan de Dios esta cubriendo a todo dentro de Su plan para la gloria completa en todo. Creación, hijos de Dios, ES. 
+### Él intercede conforme a la voluntad de Dios, supliendo lo que no sabemos pedir.
+
+### Podemos solamente mirar como la glorificación tiene promesas personales que nos impactan. 
+
+### Sin embargo vemos que el plan de Dios esta cubriendo a todo dentro de Su plan para la gloria completa en todo. Creación, hijos de Dios, ES. 
 
 ## Romanos 8:28-30: Propósito eterno de Dios
 
@@ -5243,166 +5497,196 @@ El sufrimiento es presente. El sufrir no es por sufrir sino para gustar de lo qu
 
 #### Los tres tiempos de nuestra salvación
 
-```pgsql
-─────────────────────────────────────────────────────────────────────
-                               TIEMPO
-─────────────────────────────────────────────────────────────────────
-
-     PASADO                    PRESENTE                         FUTURO
-       │                          │                                │
-       │                          │                                │
-       │                          │                                │
-       ▼                          ▼                                ▼
-
-  JUSTIFICACION               VIDA AHORA                     GLORIFICACION
-(Estado establicido)       (Estado vivido)                 (Estado revelado)
-
-• declarado justos         • caminar por fe              • conformado a Cristo
-• reconciliados            • obediencia / lucha          • sin presencia pecado
-• no condenación           • crecimiento / maduréz       • redención completa
-• una-sola-vez-por-todos   • No cambia el estatus        • irreversible
-                           • varía en grados
-
-──────────────────────────────────────────────────────┐
-                                                      │
-        ESTE ESTADO ES LA BASE                       │
-        SOBRE AMBOS:                                  │
-                                                      │
-        • LA VIDA ES VIVIDA  ◀────────────────────────┤
-        • LA ESPERANZA SE MANTIENE  ──────────────────┘
-                                   │
-                                    ─────────────────────────────────┐
-                                                                     ▼
-
-                                                    GLORIOSA ESPERANZA (PRESENTE)
-                                                     • esperada, no poseida
-                                                     • certero, no especulativo
-                                                     • fundado en la justificación
-                                                     • dirigido a la glorificación
-
-```
+![tres fases](/Users/johnwry/Nextcloud/Documents/GitHub/curriculo/03. Romanos 1-8/tres fases.png)
 
 La justificación establece el estatus en el que se vive la vida y se mantiene la esperanza, hasta que ese estatus se revela finalmente en la glorificación.
 
 ## En Síntesis (8:28-30)
 
-### EL CREYENTE TIENE UNA NUEVA ESPERANZA (8:18-25): La naturaleza de esta esperanza es la plena y final redención de todas las cosas, incluyendo:
+### Pablo afirma una certeza presente para todos los creyentes.
 
-#### Cristianos (8:18, 23-25)
+### “Los que aman a Dios” = los creyentes (lenguaje bíblico descriptivo).
 
-##### El dolor presente (8:18a, 23): Los creyentes gimen para ser liberados del dolor y el sufrimiento.
+### “Todas las cosas” cooperan para bien según el propósito de Dios.
 
-##### La gloria futura (8:18b, 24-25)
+### Este mismo grupo también es llamado “los que son llamados”.
 
-###### La comparación (8:18b): El dolor de hoy no es nada en comparación con la gloria de mañana.
+### Ambas expresiones describen al mismo pueblo desde dos perspectivas:
 
-###### El mandamiento (8:24-25): Hasta entonces, sin embargo, debemos esperar con paciencia y confianza.
+####  - respuesta humana (amar)
 
-#### Creación (8:19-22)
+####  - acción divina (llamar).
 
-##### La naturaleza, la víctima (8:20, 21b-22): El mundo natural de las plantas y los animales gime de dolor debido a la caída.
+### Los vv. 29–30 explican por qué esta certeza es absoluta.
 
-##### La naturaleza, la vencedora (8:19, 21a): La naturaleza también será liberada de la decadencia y la muerte a la libertad y fecundidad.
+### Dios es el único agente en toda la cadena.
 
-### EL CREYENTE TIENE UN NUEVO AYUDANTE DE ORACIÓN (8:26-27).
+### Todos los verbos están en aoristo indicativo (presentados como hechos).
 
-#### La identidad de este ayudante (8:26a): Él es el Espíritu Santo.
+### A quienes conoció de antemano,
 
-#### La indispensabilidad de este ayudante (8:26b): Sus oraciones son vitales, porque ni siquiera sabemos por qué debemos orar.
+####  - también predestinó a ser conformados a Cristo,
 
-#### La intensidad de este ayudante (8:26c-27)
+####  - también llamó,
 
-##### Cómo ora (8:26c): Ora por nosotros con gemidos que no se pueden expresar con palabras.
+####  - también justificó,
 
-##### Lo que ora (8:27): Él ruega por nosotros en armonía con la propia voluntad de Dios.
+####  - también glorificó.
 
-### EL CREYENTE TIENE UNA NUEVA CONFIANZA (8:28).
+### La cadena es ininterrumpida - no se pierde nadie en el proceso.
 
-#### Lo que implica (8:28a): Dios hace que todo funcione para bien.
+### El propósito final: Cristo como el Primogénito entre muchos hermanos.
 
-#### A quién involucra (8:28b): Aquellos que aman a Dios y son llamados de acuerdo con su propósito para ellos.
+### La glorificación futura se declara segura desde la perspectiva divina.
 
-### EL CREYENTE TIENE UN NUEVO DESTINO (8:29-39).
-
-#### El resumen (8:29): El Padre mismo ha decretado que todos los creyentes deben ser como los suyos querido Hijo!
-
-#### Los pasos (8:30)
-
-##### Fuimos conocidos de antemano por el Padre (8:30a).
-
-##### Fuimos predestinados por el Padre (8:30b).
-
-##### Fuimos llamados por el Padre (8:30c).
-
-##### Fuimos justificados por el Padre (8:30d).
-
-##### Fuimos glorificados por el Padre (8:30e).
+### El pasaje describe obra de Dios, no una condición humana que mantener.
 
 ## Romanos 8:31-39: Canto triunfal: nada nos separará del amor de Dios
 
-### Romanos 8:31 *Entonces, ¿qué diremos a esto? Si Dios está por nosotros, ¿quién estará contra nosotros?*
+### La siguiente sección usa preguntas retóricas para afirmar seguridad. Todo el pasaje es indicativo, no exhortativo. Dios y Cristo aparecen como agentes activos en tiempos pasado y presente. Se acumulan posibles amenazas en listas amplias y paralelas. Conclusión gramatical: ninguna entidad o circunstancia es capaz (δυνήσεται) de separar a los creyentes del amor de Dios en Cristo.
 
-### Romanos 8:32a *El que no negó ni a Su propio Hijo, sino que lo entregó por todos nosotros,*
+#### Pablo hará 6 preguntas retóricas que reflejan dudas que pueden existir. Todas las preguntas están hechas en tiempo futuro. 
 
-### Romanos 8:32b *¿cómo no nos dará también junto con Él todas las cosas?*
+### Romanos 8:31a *Entonces, ¿qué diremos a esto?* la respuesta esperada es, "¡gracias a Dios!". Después de ver todo lo que hemos visto, es un gran consuelo al creyente saber estas cosas.
 
-### Romanos 8:33 *¿Quién acusará a los escogidos de Dios? Dios es el que justifica.*
+#### Dios ya hizo todo esto por nosotros: predestinó, llamó, justificó, glorificó
 
-### Romanos 8:34a *¿Quién es el que condena? Cristo Jesús es el que murió,*
+### Romanos 8:31b *Si Dios está por nosotros, ¿quién estará contra nosotros?* Hemos visto que Dios ha estado, sigue estando y estará siempre por nosotros. Entonces, ¿Habrá alquien que puede contra esto? 
 
-### Romanos 8:34b *sí, más aún, el que resucitó,*
+#### Pablo hará una serie de preguntas retóricas que anticipa los que todavía dudan y todos pueden ser afirmados. 
 
-### Romanos 8:34c *el que además está a la diestra de Dios,*
+####  Si Dios defiende al creyente, ninguna oposición tiene poder por encima de Él.
 
-### Romanos 8:34d *el que también intercede por nosotros.*
+#### ¿Hay alguna fuerza más grande que Dios?
 
-### Romanos 8:35a *¿Quién nos separará del amor de Cristo?*
+#### ¿Qué temores se desarman al leer este versículo?
 
-### Romanos 8:35a *¿Tribulación,*
+### Romanos 8:32a *El que no negó ni a Su propio Hijo, sino que lo entregó por todos nosotros,* En el pasado, Dios dió a su único Hijo por nosotros. 
 
-### Romanos 8:35a *o angustia,*
+### Romanos 8:32b *¿cómo no nos dará también junto con Él todas las cosas?* Si Dios no negó en dar a su Hijo por nosotros en el pasado, no seria ilogico hacerlo en vano y dejar que Su Hijo sea sacrificado sin ningún propósito eterno? 
 
-### Romanos 8:35b *o persecución,*
+####  Si Dios ya dio lo más valioso, también cuidará del resto.
 
-### Romanos 8:35c *o hambre,*
+##### Dios no es indiferente a nuestras necesidades.
 
-### Romanos 8:35d *o desnudez,*
+### Romanos 8:33a *¿Quién acusará a los escogidos de Dios?* habrá alguien que puede acusar a los que Dios escogió. Dios nos escogió en Su Hijo antes de la fundación del mundo. Efesios 1:4
 
-### Romanos 8:35e *o peligro,*
+####  Nadie porque Dios mismo nos declaró justos.
 
-### Romanos 8:35f *o espada?*
+##### ¿Quién tiene la última palabra sobre tu identidad?
+
+### Romanos 8:33b *Dios es el que justifica.* Dios no nos acusará porque es Dios quien nos justifica. 
+
+### Romanos 8:34a *¿Quién es el que condena?* ¿Habrá alguien que podría venir con algo para condenarnos? 
+
+#### Razones por las que Cristo NO condena al creyente
+
+##### Cristo murió por nosotros
+
+##### Cristo resucitó
+
+##### Cristo está a la diestra de Dios
+
+##### Cristo intercede por nosotros
+
+##### El abogado no se convierte en acusador.
+
+### Romanos 8:34b *Cristo Jesús es el que murió,* No Cristo porque el es el que murio. 
+
+### Romanos 8:34b *sí, más aún, el que resucitó,* Cristo no puede ser quien nos condene, porque Dios confirmó que aceptó plenamente Su obra al resucitarlo de entre los muertos.
+
+### Romanos 8:34d *el que además está a la diestra de Dios, el que también intercede por nosotros.* Tampoco puede ser Cristo quien nos condene, porque Él está sentado en el lugar de máximo honor, a la diestra de Dios, e intercede continuamente por nosotros. Juan 3:17; Hebreos 7:25; 1 Juan 2:2
+
+### Romanos 8:35a *¿Quién nos separará del amor de Cristo?* Pablo presenta siete posibles situaciones extremas que podrían hacernos sentir abandonados por Dios - pero ninguna de ellas puede realmente separarnos de Su amor.
+
+## Lista de circunstancias extremas
+
+### Romanos 8:35a *¿Tribulación,* ¿Qué pasa si atravesamos grandes problemas o sufrimos fuertes aflicciones? 2 Corintios 4:8–11
+
+### Romanos 8:35a *o angustia,* ¿Qué sucede si enfrentamos tiempos de profunda presión y dolor emocional? 2 Corintios 7:5–6
+
+### Romanos 8:35b *o persecución,* ¿Qué si somos rechazados, perseguidos, maltratados o incluso asesinados por causa de Cristo? Hechos 8:1
+
+### Romanos 8:35c *o hambre,* ¿Qué si llegamos a carecer de alimento y sufrimos necesidad? Hechos 11:28–30
+
+### Romanos 8:35d *o desnudez,* ¿Qué si perdemos nuestros recursos básicos y quedamos desprotegidos? Hebreos 11:37–38
+
+### Romanos 8:35e *o peligro,* ¿Qué si enfrentamos riesgos extremos y amenazas constantes? 2 Corintios 11:23–27
+
+### Romanos 8:35f *o espada?* ¿Qué si somos traicionados, atacados violentamente o incluso muertos por causa de nuestra fe? Hechos 7:58–8:2
+
+##### ¿Alguna de estas experiencias significa abandono divino?
+
+##### ¿Qué tentación aparece en el sufrimiento?
 
 ### Romanos 8:36a *Tal como está escrito: «POR CAUSA TUYA SOMOS PUESTOS A MUERTE TODO EL DÍA;*
+
+####  El sufrimiento ha sido una realidad para el pueblo de Dios.
+
+##### sufrir no contradice el amor de Dios
 
 ### Romanos 8:36b *SOMOS CONSIDERADOS COMO OVEJAS PARA EL MATADERO».*
 
 ### Romanos 8:37 *Pero en todas estas cosas somos más que vencedores por medio de Aquel que nos amó.*
 
-### Romanos 8:38a *Porque estoy convencido*
+#### No vencemos porque evitamos problemas sino porque nada puede anular lo que Dios ya aseguró.
 
-### Romanos 8:38b *de que ni la muerte,*
+##### La victoria del creyente está en Cristo, no en circunstancias.
 
-### Romanos 8:38c *ni la vida,*
+### Romanos 8:38a *Porque estoy convencido* Aunque enfrentó pruebas extremas, nunca dudó del amor de Dios por él. La pregunta es: ¿Tú también estás convencido?
 
-### Romanos 8:38d *ni ángeles,*
+### Romanos 8:38b *de que ni la muerte, ni la vida* Pablo estaba plenamente seguro de que ninguna forma de existencia -ni en la muerte ni en la vida- puede separarnos del amor de Dios en Cristo (Romanos 8:35).
 
-### Romanos 8:38e *ni principados,*
+### Romanos 8:38e **ni ángeles, ni principados,* Ningún poder espiritual o sobrenatural puede separarnos del amor de Dios en Cristo (Romanos 8:35).
 
-### Romanos 8:38f *ni lo presente,*
+#### Sí, esto incluye a Satanás — quien también es un ángel caído. Ni siquiera él puede hacerlo.
 
-### Romanos 8:38g *ni lo por venir,*
+### Romanos 8:38h *ni lo presente, ni lo por venir, ni los poderes,* Nada que esté ocurriendo ahora, ni nada que pueda ocurrir en el futuro, puede separarnos del amor de Dios en Cristo (Romanos 8:35).
 
-### Romanos 8:38h *ni los poderes,*
+#### Incluye:
 
-### Romanos 8:39a *ni lo alto,*
+##### Tus futuros pecados
 
-### Romanos 8:39b *ni lo profundo,*
+##### Tus futuras dudas
 
-### Romanos 8:39c *ni ninguna otra cosa creada*
+##### Tus futuras caídas espirituales
 
-### Romanos 8:39d *nos podrá separar del amor de Dios*
+##### Ni siquiera esos escenarios pueden romper el amor de Dios hacia ti.**
 
-### Romanos 8:39e *que es en Cristo Jesús Señor nuestro.*
+### Romanos 8:39b *ni lo alto, ni lo profundo,* No existe lugar alguno en todo el universo al que el amor de Dios no alcance.
+
+#### Ni el valle más oscuro
+
+#### Ni la cima más elevada
+
+#### Nada puede separarte de Su amor en Cristo Jesús.
+
+#### Aunque un creyente pueda alejarse de la comunión con Dios,
+
+####  Jamás puede alejarse de Su amor.
+
+#### Incluso el hijo pródigo seguía siendo hijo —y amado— aun estando lejos (Lucas 15:11–32).
+
+### Romanos 8:39c *ni ninguna otra cosa creada* Nada de lo que Dios ha creado tiene el poder de separarte de Su amor (Efesios 3:17–19).
+
+#### Y como tú también eres una criatura de Dios: Ni siquiera tú mismo puedes romper ese amor.
+
+####  Puedes dejar de amar a Dios…
+
+#### Pero Él jamás dejará de amarte.
+
+#### La salvación que Él da no es reversible. Romanos 11:29; 1 Pedro 1:23
+
+### Romanos 8:39e *nos podrá separar del amor de Dios que es en Cristo Jesús Señor nuestro.* Nuestra unión con Cristo garantiza que nada en toda la creación hará que Dios deje de amarnos.
+Para que eso ocurriera, Dios tendría que dejar de amar a Su propio Hijo — y eso nunca sucederá.
+
+#### ¿Crees realmente que Dios no dejará de amarte nunca?
+
+#### ¿Qué tiende a hacerte dudar de esto?
+
+#### ¿Cómo cambiaría tu vida si vivieras plenamente convencido?
+
+#### ¿Qué diferencia hay entre sentir amor de Dios y saberlo?
 
 ## En Síntesis (8:31-39)
 
@@ -5434,7 +5718,7 @@ La justificación establece el estatus en el que se vive la vida y se mantiene l
 
 ##### Altura y profundidad (8:39)
 
-
+___-___
 
 # APÉNDICE
 
@@ -5446,8 +5730,10 @@ los tres tiempos de la salvación
 | **Presente**      | En curso                | **Expresado**                          | Presente / Imperativo    | **Vida vivida bajo ese estatus** | *caminando*, *sirviendo*, *presentando*, *conduciendo a la santificación* |
 | **Futuro**        | Esperado                | **Consumado**                          | Futuro                   | **Estado plenamente realizado**  | *será salvo*, *glorificado*, *adopción revelada*             |
 
+![tres fases](/Users/johnwry/Nextcloud/Documents/GitHub/curriculo/03. Romanos 1-8/tres fases.png)
+
 | Estatus                            | Madurez                                            |
-| ---------------------------------- | -------------------------------------------------- |
+| :--------------------------------- | -------------------------------------------------- |
 | ¿Como es considerado esta persona? | ¿Qué esta pasando a lo largo del tiempo?           |
 | ¿Qué es lo cierto?                 | ¿Qué está sucediendo?                              |
 | Habiendo sido justificados...      | sean transformados                                 |
@@ -5475,3 +5761,5 @@ ___-___
 [^11]: network.crcna.org
 [^12]: James Hope Moulton y George Milligan, The Vocabulary of the Greek Testament (Londres: Hodder and Stoughton, 1930), 663.
 [^13]: G. Abbott-Smith, A Manual Greek Lexicon of the New Testament (Nueva York: Charles Scribner’s Sons, 1922), 330.
+[^14]: [*The Lexham Analytical Lexicon to the Greek New Testament*](https://ref.ly/logosres/lxgrcanlex?hw=καταργέω&off=103&ctx=.+fr.+LXX%3a+בטל+(2x) ~13.100+(10)+to+nulli) (Logos Bible Software, 2011).
+[^15]: [Free Grace Free Speech](freegracefreespeech.blogspot.com)
