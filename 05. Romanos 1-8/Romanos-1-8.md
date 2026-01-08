@@ -3100,6 +3100,18 @@ Vemos una lista de contrastes que presenta Romanos:
 
 ### Romanos 5:5c *por medio del Espíritu Santo que nos fue dado.*
 
+## En Síntesis (5:1-5)
+
+### La justificación introduce al creyente en una nueva realidad estable.
+
+### La paz con Dios es objetiva, no emocional.
+
+### El acceso a la gracia es permanente, no intermitente.
+
+### La esperanza se fundamenta en el estatus, no en las circunstancias.
+
+### La tribulación no amenaza la justificación, sino que ocurre dentro de ella.
+
 ## Romanos 5:6-11 El amor de Dios demostrado objetivamente (la seguridad del creyente se funamenta en la obra histórica de Cristo, no en su experiencia presente)
 
 ### Romanos 5:6a *Porque mientras aún éramos débiles,* 
@@ -3122,11 +3134,11 @@ Vemos una lista de contrastes que presenta Romanos:
 
 #### "*Pero*" DE contraste. 
 
-demuestra SUNISTESIN (presente, indicativo)
+#### demuestra SUNISTESIN (presente, indicativo)
 
 ### Romanos 5:8b *en que siendo aún pecadores,* 
 
-*siendo* nuevamente es un participio en tiempo presente. 
+#### *siendo* nuevamente es un participio en tiempo presente. 
 
 ### Romanos 5:8c *Cristo murió por nosotros.*
 
@@ -3186,55 +3198,19 @@ demuestra SUNISTESIN (presente, indicativo)
 
 #### Los tres tiempos de nuestra salvación
 
-![tres fases](https://raw.githubusercontent.com/Cultivados-en-Gracia-y-Verdad/curriculo/9a19b4ea77839f2d5933dabdc1e4dac4c164fe1c/03.%20Romanos%201-8/tres%20fases.png)
+## En Síntesis (5:6-11)
 
-## En Síntesis (5:1-11)
+### El amor de Dios se demuestra por la muerte de Cristo por los impíos.
 
-### Pablo ahora describe la seguridad de la salvación, no da instrucciones.
+### La seguridad del creyente se basa en un hecho pasado, no en su desempeño presente.
 
-#### Sus verbos describen lo que Dios ha hecho y lo que los creyentes ahora poseen:
+### La justificación y la reconciliación están fundadas en la obra de Cristo.
 
-##### «Tenemos paz…»
+### La muerte de Cristo garantiza la salvación futura.
 
-##### «Permanecemos en la gracia…»
+### La seguridad aumenta al considerar lo que Dios ya hizo.
 
-##### «Nos regocijamos en la esperanza…»
-
-##### «Cristo murió por nosotros…»
-
-##### «Seremos salvos…»
-
-#### Todas son afirmaciones de la realidad; la gramática refleja la certeza de la salvación.
-
-#### Pablo habla del gozo que proviene de la fe. Él contrasta al Adán pecador con el Cristo sin pecado.
-
-### UN RESUMEN DE LA JUSTIFICACIÓN (5:1-11): Pablo enumera cinco resultados de la justificación divina.
-
-#### El creyente tiene paz con Dios (5:1): Esto se logra a través de la obra realizada por Jesús Cristo.
-
-#### El creyente tiene acceso a Dios (5:2): Este alto privilegio produce gran confianza y gozo sobre el futuro.
-
-#### El creyente tiene seguridad de Dios (5:3-4).
-
-##### El hecho de esta seguridad (5:3): Nos ayuda en tiempos de sufrimiento.
-
-##### El fruto de la seguridad (5:4): El sufrimiento produce perseverancia, que produce carácter, lo que produce esperanza.
-
-#### El creyente es habitado por Dios (5:5): El Espíritu Santo vive en los corazones de los creyentes.
-
-#### El creyente es preservado en Dios (5:6-11): La salvación de un creyente está segura, garantizada por:
-
-##### La obra pasada de Cristo en la cruz del Calvario (5:6-8)
-
-###### Lo que hizo (5:6): Murió en la cruz por nosotros.
-
-###### Por qué lo hizo (5:7-8a): Murió porque nos ama.
-
-###### Cuando lo hizo (5:8b): Lo hizo cuando todavía éramos pecadores indefensos y hostiles.
-
-##### La obra actual de Cristo a la diestra de Dios (5:9-11): Pablo dice que Cristo murió para salvarnos y ahora vidas para mantenernos salvados.
-
-## Romanos 5:12–21 Dos cabezas, dos humanidades
+## Romanos 5:12–14 Dos cabezas, dos humanidades (¿cómo entraron el pecado y la muerte en la experiencia humana?)
 
 ### Romanos 5:12-21 Pablo hace uso de un caístico para ayudarnos en la comprensión.
 
@@ -3488,7 +3464,19 @@ demuestra SUNISTESIN (presente, indicativo)
 
 #### Veremos a continuación como Adán funciona perfectamente para presentar un contraste entre dos hombres. Uno que fue desobediente e introduce la muerte a la humanidad, mientras que Cristo es obediente y trae consigo la posibilidad de vida. 
 
-## Romanos 5:15-17 El reino de vida
+## En Síntesis (5:12-14)
+
+### El pecado y la muerte entraron al mundo por medio de un solo hombre.
+
+### La muerte reina como consecuencia del pecado.
+
+### El problema humano es corporativo y representativo.
+
+### La muerte reinó aun antes de la ley.
+
+### Adán es presentado como figura del que había de venir.
+
+## Romanos 5:15-17 El contraste entre Adán y Cristo (la obra de Cristo no solo revierte el daño de Adán, sino que lo sobrepasa abundantemente)
 
 #### Ya vimos en los versículos 12 a 14 como por medio de la transgresión de Adán entró el pecado y con el pecado y bajo su dominio todos llegan a ser pecadores y mueren. 
 
@@ -3540,8 +3528,6 @@ demuestra SUNISTESIN (presente, indicativo)
 
 #### Justificación esta en oposición a la condenación y juicio. Romanos 5:16, 18, 8:1; Juan 3:18; 2 Corintios 3:9
 
-## Romanos 5:17 Dos reinados en Vida (Muerte versus Vida) 
-
 ### Romanos presenta repetidamente “reinados” en competencia. Romanos 5:17 presenta dos reinados posibles en vida. La opción de vida en vida. 
 
 #### Los reinados observados incluyen: muerte, gracia, el pecado
@@ -3574,7 +3560,19 @@ demuestra SUNISTESIN (presente, indicativo)
 
 #### La recepción de la gracia y el regalo de justicia por medio de Cristo es mucho mayor que lo que trajo la transgresión de Adán. 
 
-## Romanos 5:18-19 Dos hombres comparados
+## En Síntesis (5:15-17)
+
+### La obra de Cristo no es paralela a la de Adán, sino superior.
+
+### El don de la gracia sobreabunda sobre la transgresión.
+
+### Muchos murieron por la transgresión de uno.
+
+### Muchos reciben vida por el don de uno.
+
+### Los que reciben la gracia reinan en vida por medio de Jesucristo.
+
+## Romanos 5:18-19 Un acto individual, resultados universales (dos actos representativos producen dos resultados universales y opuestos)
 
 ### Romanos 5:18a *Así pues, tal como por una transgresión resultó la condenación de todos los hombres...* ahora, de similar manera Pablos los compara. 
 
@@ -3604,7 +3602,19 @@ demuestra SUNISTESIN (presente, indicativo)
 
 ##### Esta es una construcción futura explícita. Sin ambigüedad: el propio verbo sitúa la constitución de “justo” en futuro. Esta es la expresión futura más fuerte y explícita de ser hecho justo en Romanos. Gálatas 5:5; Mateo 5:9; Filipenses 3:21; 1 Juan 3:2
 
-## Romanos 5:20 la gracia supercede la ley
+## En Síntesis (5:18-19)
+
+### Un solo acto trajo condenación a todos.
+
+### Un solo acto de justicia trajo justificación de vida.
+
+### La condenación y la justificación operan por representación.
+
+### Muchos fueron constituidos pecadores por uno.
+
+### Muchos son constituidos justos por uno.
+
+## Romanos 5:20-21 La función de la ley y el reinado de la gracia (la ley intensifica la transgresión, pero la gracia reina con mayor poder)
 
 ### Romanos 5:20a "*La ley se introdujo*" Dios fue quien introdujo la ley. La ley es buena porque Dios es su autor. La ley tuvo su início en el Monte Sinaí poco después del éxodo del pueblo de Israel. Hay aproximadamente 1500 años 
 
@@ -3617,8 +3627,6 @@ demuestra SUNISTESIN (presente, indicativo)
 ### Romanos 5:20c "*pero donde el pecado abundó, sobreabundó la gracia,*" 
 
 #### La línea de Adán produce pecado cada vez mayor. La ley lo señala como tal. Pero Cristo produce gracia desbordante. Si el pecado de Adán produjo muerte, la dadiva en Cristo causa exuberante gracia. 
-
-## Romanos 5:21 Pablo concluye con la culminante declaración de propósito
 
 ### Romanos 5:21a "*para que*" lo que vimos anteriormente es con propósito. La ley se introdujo "para que" la transgresión abundara. 
 
@@ -3676,47 +3684,19 @@ demuestra SUNISTESIN (presente, indicativo)
 
 #### En este versículo Pablo introduce lo que seguirá desarrollando en los capítulos 6 al 8. Dios nos sacó del reino del pecado y la muerte y no colocó en el reino de la gracia para que ahora como justos vivamos prácticamente con la gracia reinando en nuestro andar para experimentar vida eterna en el presente. 
 
-## En Síntesis (5:12-21)
+## En Síntesis (5:20-21)
 
-### Un resumen de la condenación (5:12-21): Pablo contrasta la obra de Adán (el padre pecador de todas las personas) con la obra de Cristo (el Salvador sin pecado de todas las personas).
+### La ley entró para que la transgresión abundara.
 
-#### La obra de Adán (5:12-15, 16a, 17a, 18a, 19a, 20a, 21a)
+### Donde abundó el pecado, sobreabundó la gracia.
 
-##### La realidad de su acto (5:12a): "Cuando Adán pecó, el pecado entró en todo el género humano".
+### La gracia no solo cubre el pecado, sino que reina.
 
-##### El alcance de su acto (5:12b-13): "Y la muerte se extendió a todos, porque todos pecaron".
+### La gracia reina por medio de la justicia.
 
-##### La naturaleza de su acto (5:19a): "Debido a que una persona desobedeció a Dios, muchas personas se convirtieron en pecadores".
+### Romanos 5 concluye con el dominio victorioso de la gracia.
 
-##### Los resultados de su acto (5:14-15a, 16a, 17a, 18a, 21a)
-
-###### Juicio imputado a la posteridad de Adán (5:14): "Todos murieron de todos modos, aunque lo hicieron no desobedecer un mandamiento explícito de Dios, como lo hizo Adán".
-
-###### Juicio eterno sobre todos los que no son salvos (5:15a, 16a, 17a, 18a, 21a): El pecado de Adán trajo la muerte y condenación sobre todas las personas.
-
-##### La relación de la ley con su acto (5:20a): "La ley de Dios fue dada para que todos los hombres pudieran mira lo pecadores que eran".
-
-#### La obra de Cristo (5:15b, 16b, 17b, 18b, 19b, 20b, 21b): Debido a la muerte de Cristo, las personas pueden ser salvos a pesar de su pecado.
-
-##### El alcance de su acto (5:15b, 18b)
-
-###### "Jesucristo... trajo el perdón a muchos a través del generoso don de Dios" (5:15b).
-
-###### "El único acto de justicia de Cristo hace que todas las personas sean rectas a los ojos de Dios y les da vida" (5:18b).
-
-##### La naturaleza de su acto (5:19b): "Porque otra persona obedeció a Dios, muchas personas serán hecho justo a los ojos de Dios".
-
-##### Los resultados de su acto (5:16b, 17b, 21b)
-
-###### Justificación (5:16b): Todas las personas ahora pueden ser aceptadas por Dios.
-
-###### Santificación (5:17b): Todas las personas ahora pueden ser justas a los ojos de Dios.
-
-###### Glorificación (5:21b): Todas las personas ahora pueden tener vida eterna.
-
-##### La relación del pecado con su acto (5:20b): "A medida que la gente pecaba más y más, la maravillosa la bondad se hizo más abundante".
-
-# ROMANOS 6:1-8:17 LA VIDA QUE BROTA DE LA JUSTIFICACIÓN
+# ROMANOS 6:1-8:17 SANTIFICACIÓN: LA VIDA QUE BROTA DE LA JUSTIFICACIÓN
 
 ## Romanos 6:1-10 Identificados con Cristo
 
