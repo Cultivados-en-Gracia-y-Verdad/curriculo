@@ -278,7 +278,7 @@ El Poder del Evangelio
 
 # ROMANOS 1:1-17 - EL EVANGELIO QUE DIOS ANUNCIÓ
 
-## Romanos 1:1-7 - Saludos 
+## Romanos 1:1-7 - El evangelio prometido y revelado (Pablo no comienza su carta con el problema del hombre, sino con la iniciativa de Dios)
 
 ### Romanos 1:1a "*Pablo,*" ya no Saulo. Saulo era su nombre de incrédulo y a los inícios de su vida cristiana. 
 
@@ -372,36 +372,6 @@ El Poder del Evangelio
 
 #### ¿Porque habría amor a su nombre? Porque la buena noticia que recibimos es sobre Él. 
 
-## En Síntesis (Romanos 1:1-5)
-
-### Pablo se presenta con una **identidad redefinida**: siervo de Cristo Jesús y llamado apóstol.
-
-### Su llamado es **específico**: estar apartado **para el evangelio**, no para una causa personal.
-
-### El evangelio tiene **origen divino**: procede de Dios, no de iniciativa humana.
-
-### No es un mensaje nuevo: **Dios lo había prometido previamente** por medio de los profetas.
-
-### Las promesas del evangelio quedaron **registradas en las Sagradas Escrituras**.
-
-### El contenido del evangelio es **objetivo y definido**: es el mensaje acerca del Hijo de Dios.
-
-### Jesucristo es presentado como **verdaderamente humano**, descendiente de David según la carne.
-
-### Su identidad como Hijo de Dios fue **declarada con poder** mediante la resurrección.
-
-### La resurrección ocurre **conforme al Espíritu de santidad**, como acto aprobatorio de Dios.
-
-### El evangelio no es “buena noticia” en general, sino **una noticia única y concreta sobre Cristo**.
-
-### Por medio de Cristo, Pablo recibió **gracia y apostolado**.
-
-### Ese llamado tenía un propósito: **promover la obediencia que procede de la fe**.
-
-### Dicha obediencia tiene un fin último: **el honor del nombre de Cristo**.
-
-## Romanos 1:6-13 Audiencia y planes de Pablo con ellos
-
 ### Romanos 1:6a "*...entre los cuales están también ustedes...*"  estos hermanos en Roma eran gentiles que Pablo queria llevar el mensaje del evangelio que promovería obediencia a la fe por amor a Su nombre. 
 
 ### Romanos 1:6b "*llamados de Jesucristo.*" Su nombre por el que son llamados es los "*de Jesucristo*". Hoy en día los creyentes son llamados "cristianos". Son de Cristo o pequeños cristos. 
@@ -413,6 +383,20 @@ El Poder del Evangelio
 #### Pablo les está acordando que ellos son amados de Dios y santos. El término santo es la expresión más usada por Pablo en sus saludos. 
 
 ### Romanos 1:7c *Gracia y paz a ustedes de parte de Dios nuestro Padre y del Señor Jesucristo.* Como de costumbre, Pablo empezará su carta con un deseo de gracia y paz para ellos. Aquí aclara que es la gracia y paz que proviene de Jesucristo y de Dios, el Padre que compartimos. 
+
+## En Síntesis (1:1-7)
+
+### El evangelio tiene su origen en Dios, no en el hombre.
+
+### No es una idea nueva, sino una promesa anunciada en las Escrituras.
+
+### Jesucristo es el centro del plan redentor de Dios.
+
+### El llamado apostólico existe para producir obediencia de fe.
+
+### Desde el inicio, el evangelio tiene un alcance universal.
+
+## Romanos 1:8-17 El evangelio como poder de Dios (no es solo información, sino poder eficaz)
 
 ### Romanos 1:8a *En primer lugar, doy gracias a mi Dios* después de referirse a Dios como nuestro Padre, ahora Pablo habla más personalmente. Dice que esta agradecido a su Dios. 
 
@@ -489,30 +473,6 @@ El Poder del Evangelio
 #### Romanos 15:28 - *Así que cuando haya cumplido esto y les haya entregado esta ofrenda* [fruto], *iré a España llegando de paso a verlos.* Fruto aquí es el resultado de sus ofrendas. 
 
 ### Romanos 1:13d "*así como entre los demás gentiles.*" Es dificil ser enfático, pero al parece el fruto que se refiere Pablo es la colecta de ofrendas que iva haciendo entre los gentiles para llevar a los hermanos judíos en Jerusalén. 
-
-## En Síntesis (Romanos 1:6-13)
-
-### Pablo afirma haber **recibido gracia y apostolado** con un propósito definido.
-
-### El objetivo expresado es **obediencia de fe** entre todas las naciones.
-
-### Los destinatarios en Roma son incluidos como **llamados de Jesucristo**.
-
-### Pablo expresa **gratitud constante** por ellos, conocida públicamente.
-
-### Su testimonio es que **sirve a Dios en el evangelio**, no solo externamente.
-
-### Manifiesta un **deseo continuo** de visitarlos, dependiente de la voluntad de Dios.
-
-### El propósito del viaje es **compartir algún don espiritual** para fortalecimiento.
-
-### La relación buscada es **mutuo ánimo**, no una instrucción unilateral.
-
-### Pablo aclara que **no ha dejado de intentar ir**, aunque ha sido impedido.
-
-### Su expectativa es **producir fruto** también entre ellos, como en otros pueblos.
-
-## Romanos 1:14-17 La obligación y la disposición de Pablo explicadas
 
 ### Romanos 1:14a "*Tengo obligación*" Pablo les expresa que tiene un deber orientado hacia la acción. Romanos 1:15  
 
@@ -658,33 +618,21 @@ El Poder del Evangelio
 
 ### El evangelio no comienza con el hombre, sino con Dios y Su propósito.
 
-## En Síntesis (1:14-17)
+## En Síntesis (1:8-17)
 
-### Pablo se declara deudor con todos: griegos y bárbaros, sabios e ignorantes, sin distinción cultural o intelectual.
+### Pablo presenta el evangelio como poder eficaz, no solo como mensaje.
 
-### Su condición de deudor explica su disposición activa a anunciar el evangelio.
+### El evangelio es poder de Dios para salvación a todo el que cree.
 
-### El evangelio es el único mensaje que Pablo proclama, incluso a creyentes ya establecidos.
+### La justicia de Dios se revela por fe y para fe.
 
-### Pablo afirma no avergonzarse del evangelio, aun en un contexto cultural hostil como Roma.
+### Esta sección establece la tesis que gobierna toda la carta.
 
-### La razón de esa confianza es que el evangelio es el poder de Dios, no poder humano.
-
-### Ese poder está orientado a la salvación, no a la aprobación social o política.
-
-### El alcance del evangelio es todo el que cree, descrito como el que está creyendo.
-
-### En Romanos, salvación no se define aquí, sino que se desarrolla progresivamente en la carta.
-
-### La justicia de Dios se revela continuamente en el evangelio.
-
-### Esa justicia opera por fe y para fe, estableciendo la fe como principio y continuidad.
-
-### La cita de Habacuc confirma que vida y justicia están vinculadas a la fe, no a las obras.
+### Todo lo que sigue explica por qué este poder es necesario.
 
 # Romanos 1:18-3:20 EL MUNDO NECESITA SALVACIÓN
 
-## Romanos 1:18-32 - Dios manifiesta Su desaprobación a la injusticia universal
+## Romanos 1:18-23 - La revelación de la ira de Dios (en resultado por el rechazo de Dios como Dios)
 
 ### Dios es el creador y en el principio cuando hizo el mundo, era en reflejo perfecto de Su carácter. El mundo era bueno en gran manera. No había nada malo, solo armonía, amor, paz y gozo. No había muerte, no había tristeza y tampoco dolor. 
 
@@ -709,8 +657,6 @@ El Poder del Evangelio
 ###### Romanos 3:9-20 - Culpabilidad universal: "*nosotros*", "*todos*" bajo pecado 
 
 ###### Pablo pasa de: "*ellos*" → "*tú*" → "*él*"/"*ellos*" → "*tú*" → "*nosotros*"/"*todos*" para demostrar que **No hay justo, ni siquiera uno**. Romanos 3:10
-### **Romanos 1:18 La ira de Dios es respuesta a la injusticia del hombre**
-
 #### Romanos 1:18a "*Porque la ira de Dios se revela desde el cielo...*" vimos previamente que la justicia de Dios es revelada por medio del evangelio. Ahora, la ira de Dios es revelada desde el cielo. 
 
 ##### "*Revela*" APOCALYPTO ser revelado (estado) v. - ser o llegar a ser conocido por el público; especialmente información que anteriormente solo era conocida por unas pocas personas o que estaba destinada a mantenerse en secreto.[^1]
@@ -732,8 +678,6 @@ El Poder del Evangelio
 ###### ¿Por qué responde Dios en ira? Porque los hombres restringen la verdad de Dios. 
 
 ###### ¿Que verdad es la que los hombres restringen? Esto lo veremos desarrollar en los siguientes versículos. 
-
-### **Romanos 1:19-23 Tres rechazos de Dios**
 
 #### Romanos 1:19a *...Pero lo que se conoce acerca de Dios es evidente dentro de ellos,* Toda persona posee conocimiento de Dios que lleva dentro. Siendo que fueron hechos a la imagen de Dios poseen conocimiento dado por Dios. 
 
@@ -777,8 +721,6 @@ El Poder del Evangelio
 
 ##### La tragedia no es la falta de revelación, sino el rechazo y la supresión de la verdad (v. 18). 
 
-### **Romanos 1:21 El rechazo de la gloria de Dios**
-
 #### Romanos 1:21a "*...Pues aunque conocían a Dios, no lo honraron como a Dios ni le dieron gracias,*" al no honrar a Dios como Dios, al no responder correctamente a lo que la creación hizo conocer de Dios. 
 
 ##### "*Conocían*" esta en aoristo, activo particípio. Lo que nos aclara que en un punto del tiempo, ellos activamente conocían a Dios. Enfatiza conocimiento real, histórica y responsable no exhibición pasiva o accidental. 
@@ -799,8 +741,6 @@ El Poder del Evangelio
 
 ##### "*entenebrecido*" SKOTIZO volverse insensible ⇔ oscurecer v. - ser o volverse incapaz o reacio a percibir o comprender; concebido como volverse más deficiente en luz o brillo.[^1]
 
-### **Romanos 1:22 - El rechazo a la verdad de Dios**
-
 #### Romanos 1:22a "*...Profesando ser sabios, se volvieron necios,*" Esa misma incapacidad y deficiencia lo lleva a auto-declararse sabio. Mientras la humanidad activamente se piensa astuto e inteligente, la realidad es que se han vuelto tontos. Les ha sobrevenido la locura. 
 
 ##### Conocieron a Dios (1:21a - voz activa)
@@ -819,15 +759,25 @@ El Poder del Evangelio
 
 ###### El tonto no es alguien que es ignorante (que desconoce la verdad), es alguien que rechaza a Dios, sabiendo la verdad. Salmo 14:1
 
-### **Romanos 1:23 - El reemplazo de Dios**
-
 #### Romanos 1:23a "*...y cambiaron la gloria del Dios incorruptible*" La creación naturalmente proclama la gloria de Dios. Sin embargo el hombre actua en contra de lo que naturalmente sucede. 
 
 #### Romanos 1:23b "*...por una imagen en forma de hombre corruptible,*" en vez de contemplar la gloria del Dios creador y perfecto, el hombre, que es vano en su razonamiento, lo cambia por una imagen que refleja el hombre creado y caído. 
 
 #### Romanos 1:23c "*...de aves, de cuadrúpedos y de reptiles.*" No solo hace imagenes de forma del hombre sino de aves de cuadrúpedos y reptiles también. Es ilogico reemplazar a Dios por algo que Él ha creado, pero eso demuestra lo irracional de su razonamiendo. 
 
-### **Romanos 1:24-25 -  Entrega de Dios #1: El colapso de la conducta humana**
+## En Síntesis (1:18-23)
+
+### La ira de Dios se revela contra la impiedad y la injusticia.
+
+### El problema del hombre no es ignorancia, sino supresión de la verdad.
+
+### Dios se ha dado a conocer de manera suficiente.
+
+### El rechazo de Dios conduce a la idolatría.
+
+### El pecado comienza con un intercambio: verdad por mentira.
+
+## Romanos 1:24 -  Entrega de Dios #1: El colapso de la conducta humana (la degradación moral es resultado, no causa)
 
 #### Romanos 1:24a "*Por lo cual Dios los entregó a la impureza en la lujuria de sus corazones*" Dios responde a la injusticia del hombre entregándolos o dejandolos a su impureza y lujuria de sus corazones. 
 
@@ -891,7 +841,19 @@ El Poder del Evangelio
 
 ##### Así como Adán culpó a Dios por crear a la mujer, la humanidad típicamente maldice a Dios por revelar Su ira. La humanidad quiere culpar a Dios por el colapso de su conducta e ignorar la verdadera razón que es el rechazo de Dios como creador. Génesis 3:12
 
-### **Romanos 1:26-27: Entrega de Dios #2: El colapso de valores humanos**
+## En Síntesis (1:24-25)
+
+### Dios entrega al hombre como consecuencia de su rechazo previo.
+
+### La primera entrega produce un colapso en la conducta humana.
+
+### El cuerpo se convierte en escenario del desorden moral.
+
+### La degradación es resultado del intercambio de la verdad.
+
+### El juicio de Dios es coherente, no arbitrario.
+
+## Romanos 1:26-27: Entrega de Dios #2: El colapso de valores humanos (la consecuencia es que resulta en inversión de valores)
 
 ##### El hombre, no contento con su abandono a la verdad, insiste en tapar la verdad con su mentira. ¿Qué debería hacer Dios en respuesta? 
 
@@ -917,7 +879,19 @@ El Poder del Evangelio
 
 ##### Su extravío es visto en el colapso de sus valores, llevado por sus deseos pecaminosos. 
 
-## **Romanos 1:28-32: Entrega de Dios #3: El colapso de cosmovisión humana**
+## En Síntesis (1:26-27)
+
+### La segunda entrega afecta el sistema de valores humanos.
+
+### Se invierte lo que se considera natural y correcto.
+
+### El problema ya no es solo conducta, sino criterio moral.
+
+### El pecado redefine lo que se honra y lo que se rechaza.
+
+### El colapso de valores revela una corrupción más profunda.
+
+## Romanos 1:28-32: Entrega de Dios #3: El colapso de cosmovisión humana (la ira de Dios los deja hasta llegar a un punto sin pensamiento, son incapaces de evaluar correctamente)
 
 #### Ahora vemos la tercera entrega que Dios hace, revelando Su ira a la humanidad por su rechazo a la verdad de Dios. Esta vez, y aún peor, es a una mente depravada que resulta en el colapso de su cosmovisión. 
 
@@ -933,47 +907,91 @@ El Poder del Evangelio
 
 #### Romanos 1:29a "*Están llenos de toda injusticia,*" estan tan llenos como sea posible de toda clase de injusticia. 
 
-##### "*llenos*" PLEROO estar lleno v. - estar o llegar a contener tanto o tantos como sea posible o normal.[^1]
+> "*llenos*" PLEROO estar lleno v. - estar o llegar a contener tanto o tantos como sea posible o normal.[^1]
 
 ##### ¿Qué clase de injusticia demuestra tener el hombre?
 
-#### Romanos 1:29b "*...maldad,*" PONERIA depravación; corrupción moral; intención de dañar. [^1]
+#### Romanos 1:29b "*...maldad,*" 
 
-#### Romanos 1:29c "*...avaricia*" PLEONEXIA deseo codicioso de más; egoísmo insaciable. [^1]
+>PONERIA depravación; corrupción moral; intención de dañar. [^1]
 
-#### Romanos 1:29d "*...y malicia,*" KAKIA mala voluntad; intención de dañar o corromper; depravación moral. [^1]
+#### Romanos 1:29c "*...avaricia*" 
 
-#### Romanos 1:29e *...llenos de envidia,* MESTOUS repleto de; completamente caracterizado por. FTHONOU resentimiento hacia el éxito o la ventaja de otro. [^1] 
+>PLEONEXIA deseo codicioso de más; egoísmo insaciable. [^1]
 
-#### Romanos 1:29f *...homicidios,* FONOU el acto de quitarle la vida a otro injustamente. [^1] 
+#### Romanos 1:29d "*...y malicia,*" 
 
-#### Romanos 1:29g *...pleitos,* ERIDOS conflicto, rivalidad, afán de pelear. [^1] 
+>KAKIA mala voluntad; intención de dañar o corromper; depravación moral. [^1]
 
-#### Romanos 1:29h *...engaños,* DOLOU deshonestidad deliberada, astucia, traición. [^1] 
+#### Romanos 1:29e *...llenos de envidia,* 
 
-#### Romanos 1:29i *...y malignidad.* KAKAETHEIAS mal carácter; disposición rencorosa; bajeza. [^1] 
+>MESTOUS repleto de; completamente caracterizado por. FTHONOU resentimiento hacia el éxito o la ventaja de otro. [^1] 
 
-#### Romanos 1:29j *...Son chismosos,* PSITHYRISTAS habladores secretos; susurradores; aquellos que difunden rumores en privado. [^1] 
+#### Romanos 1:29f *...homicidios,* 
 
-#### Romanos 1:30a *...detractores,* KATALALOUS aquellos que difaman o hablan mal de otros.  [^1]
+>FONOU el acto de quitarle la vida a otro injustamente. [^1] 
 
-#### Romanos 1:30b *...aborrecedores de Dios,* THEOSTYGEIS aquellos que detestan o son hostiles hacia Dios.  [^1]
+#### Romanos 1:29g *...pleitos,* 
 
-#### Romanos 1:30c *insolentes,* HYBRISTAS abusadores arrogantes; aquellos que maltratan a otros por orgullo.  [^1]
+>ERIDOS conflicto, rivalidad, afán de pelear. [^1] 
+
+#### Romanos 1:29h *...engaños,* 
+
+>DOLOU deshonestidad deliberada, astucia, traición. [^1] 
+
+#### Romanos 1:29i *...y malignidad.* 
+
+>KAKAETHEIAS mal carácter; disposición rencorosa; bajeza. [^1] 
+
+#### Romanos 1:29j *...Son chismosos,* 
+
+>PSITHYRISTAS habladores secretos; susurradores; aquellos que difunden rumores en privado. [^1] 
+
+#### Romanos 1:30a *...detractores,* 
+
+>KATALALOUS aquellos que difaman o hablan mal de otros.  [^1]
+
+#### Romanos 1:30b *...aborrecedores de Dios,* 
+
+>THEOSTYGEIS aquellos que detestan o son hostiles hacia Dios.  [^1]
+
+#### Romanos 1:30c *insolentes,* 
+
+>HYBRISTAS abusadores arrogantes; aquellos que maltratan a otros por orgullo.  [^1]
 
 
-#### Romanos 1:30d *soberbios,* HYPEREFANOUS orgullosos; con una visión inflada de su propia importancia.  [^1]
+#### Romanos 1:30d *soberbios,* 
 
-#### Romanos 1:30e *jactanciosos,* ALAZONAS pretendientes; aquellos que exageran sus habilidades o logros. [^1]
+>HYPEREFANOUS orgullosos; con una visión inflada de su propia importancia.  [^1]
 
-#### Romanos 1:30f *inventores de lo malo,* KAKON creadores o inventores de planes perversos. [^1] 
+#### Romanos 1:30e *jactanciosos,* 
 
-#### Romanos 1:30g *desobedientes a los padres,* APEITHEIS negarse a cumplir con la potestad de los padres. [^1] 
+>ALAZONAS pretendientes; aquellos que exageran sus habilidades o logros. [^1]
 
-#### Romanos 1:31a *sin entendimiento,* ASYNETOS Que carece de entendimiento moral o práctico; necio, insensato. (Sentido: “persona necia” – falta de discernimiento o juicio). [^1]
-#### Romanos 1:31b *indignos de confianza,* ASYNTHETOS que no cumplen los acuerdos; infieles o traicioneros. (Sentido: “que rompen una promesa o pacto”). [^1] 
-#### Romanos 1:31c *sin amor,* ASTORGOS que carece de amor o afecto familiar normal; insensible. (Sentido: “ausencia de afecto humano natural.”) [^1]
-#### Romanos 1:31d *despiadados.* ANELEEMON sin compasión ni piedad; cruel. (Sentido: “que no muestra misericordia ni empatía.”) [^1]
+#### Romanos 1:30f *inventores de lo malo,* 
+
+>KAKON creadores o inventores de planes perversos. [^1] 
+
+#### Romanos 1:30g *desobedientes a los padres,* 
+
+>APEITHEIS negarse a cumplir con la potestad de los padres. [^1] 
+
+#### Romanos 1:31a *sin entendimiento,* 
+
+>ASYNETOS Que carece de entendimiento moral o práctico; necio, insensato. (Sentido: “persona necia” – falta de discernimiento o juicio). [^1]
+
+#### Romanos 1:31b *indignos de confianza,* 
+
+>ASYNTHETOS que no cumplen los acuerdos; infieles o traicioneros. (Sentido: “que rompen una promesa o pacto”). [^1] 
+
+#### Romanos 1:31c *sin amor,* 
+
+>ASTORGOS que carece de amor o afecto familiar normal; insensible. (Sentido: “ausencia de afecto humano natural.”) [^1]
+
+#### Romanos 1:31d *despiadados.* 
+
+>ANELEEMON sin compasión ni piedad; cruel. (Sentido: “que no muestra misericordia ni empatía.”) [^1]
+
 #### Romanos 1:32a "*...Ellos, aunque conocen el decreto de Dios que los que practican tales cosas son dignos de muerte...*" Conocen pero ya no comprenden. No pueden medir las consecuencias porque su razonamiento no tiene objetividad real. Es totalmente según su propia manera de interpretar los hechos. 
 
 ##### Su razonamiento no es falta de conocimiento, es falta de entendimiento. Carecen de entendimiento de la severidad de su situación. El Dios de la Biblia es según su propia cosmovisión y esto afecta toda manera de ver las cosas. 
@@ -984,65 +1002,29 @@ El Poder del Evangelio
 
 ##### Vemos entonces la importancia de ir al mundo para compartir el evangelio y no esperar que el mundo venga a Dios. La Biblia dice que nadie busca a Dios y es porque su razonamiento se ha vuelto vano. 
 
-## En Síntesis (1:18-32)
+## En Síntesis (1:28-32)
 
-### La ira de Dios es revelada continuamente (Romanos 1:18) como respuesta justa a la impiedad e injusticia humanas. No es caprichosa, sino consecuencia del rechazo activo del hombre a la verdad.
+### La tercera entrega afecta la cosmovisión y el pensamiento humano.
 
-### La humanidad suprime la verdad que Dios ya hizo clara en su conciencia y en la creación (Romanos 1:19–20).
+### La mente es descrita como incapaz de evaluar correctamente.
 
-####  Esta revelación es:
+### El pecado se manifiesta en múltiples formas sociales y relacionales.
 
-##### Universal
+### El hombre no solo practica el mal, sino que lo aprueba.
 
-##### Clara
+### Romanos 1 concluye el diagnóstico del mundo sin ley.
 
-##### Continua
+### Romanos 1 muestra una **progresión**, no una lista:
 
-#####  Por lo tanto, el hombre es responsable y no tiene excusa.
+#### rechazo de la verdad
 
-### Aunque conocían a Dios, no lo honraron ni dieron gracias (Romanos 1:21).
+#### colapso de la conducta
 
-####  Resultado:
+#### colapso de los valores
 
-##### Su razonamiento se volvió vano
+#### colapso de la cosmovisión
 
-##### Su corazón se oscureció
-
-##### Se declararon sabios, pero se hicieron necios
-
-##### Reemplazaron la gloria del Creador por ídolos (Romanos 1:22–23)
-
-### Dios revela Su ira “entregando” al hombre a su propio pecado en tres etapas:
-
-#### Colapso moral y sexual (Romanos 1:24–25)
-
-#####  Impureza, deshonra del cuerpo, idolatría práctica.
-
-#### Colapso de valores (Romanos 1:26–27)
-
-#####  Pasiones vergonzosas contrarias al diseño natural.
-
-#### Colapso de la mente y cosmovisión (Romanos 1:28–32)
-
-#####  Mente depravada que normaliza y aprueba el mal.
-
-#### El resultado es una humanidad llena de toda clase de injusticia, no solo externa sino interna: corrupción moral, egoísmo, violencia, engaño, malicia, odio hacia Dios, ruptura de relaciones, falta de afecto natural y ausencia de misericordia.
-
-#### La tragedia no es falta de revelación sino rechazo de Dios.
-
-#####  El hombre:
-
-###### Conoce la verdad
-
-###### La suprime
-
-###### Vive fuera de diseño
-
-###### Y aun así aprueba lo que Dios condena
-
-### La ira de Dios ya está en operación en el mundo presente, no solo futura, cuando Dios deja al hombre seguir su camino y el pecado mismo se vuelve juicio.
-
-## Romanos 2:1-16 El hombre moral
+## Romanos 2:1-5 El juicio de Dios es imparcial (juzgar a otros no exime al hombre del juicio de Dios)
 
 ### Romanos 2:1-5: Acusación: El hombre moral condena a otros y hace los mismo
 
@@ -1074,15 +1056,13 @@ El Poder del Evangelio
 
 #### No es suficiente condenar a otro por hacer algo. Para las exigencias de la justicia de Dios, uno mismo tiene que practicar el bien que sabe y exige a otros. Es decir, no es suficiente saber el bien, es necesario hacerlo. 
 
-### **Romanos 2:4 El hombre moral no valora la bondad de Dios**
-
 #### Romanos 2:4a "*¿O tienes en poco las riquezas de Su bondad y tolerancia y paciencia,*" Pablo continua con el mismo modo, ¿No es presumido pensar que Dios no te juzgará? 
 
 ##### Todo incrédulo debe entender que Dios esta siendo misericordioso y paciente en tolerar la injusticia del hombre para que llegue a ser salvo, no porque haya escapado del justo juicio. 
 
 #### Romanos 2:4b *ignorando que la bondad de Dios te guía al arrepentimiento?* Al pensar que ha escapado del juicio de Dios por condenar a otros por su conducta, esta ignorando (depreciando) la bondad de Dios que es para guiar al cambio de mente. 
 
-#### **Breve explicación sobre el arrepentimiento bíblico**
+### **Breve explicación sobre el arrepentimiento bíblico**
 
 ##### Arrepentimiento es la traducción al español de la palabra griega METANOIA.  METANOIA es una palabra compuesta de dos palabras griegas. META (después, más allá, cambio) y NOIA (mente, entendimiento, percepción). Literalmente significa cambio de mente o cambio de opinión. 
 
@@ -1150,8 +1130,6 @@ El Poder del Evangelio
 
 ###### La bondad de Dios es para guiar o conducir a un cambio de mente. "*¿Piensas o hombre...?*" es imposible que un incrédulo crea el evangelio sin tener un cambio de parecer. No debe ignorar la bondad de Dios (al no juzgarlo inmediatamente siendo tolerante y paciente) y considerar que no escapará el juicio de Dios que es inminente para todos. 
 
-### **Romanos 2:5-11 Estandar Judicial: Dios juzga al hombre moral según sus hechos no comparando con otros**
-
 #### Pablo elimina la defensa favorita del hombre moral: compararse con los demás.
 
 ##### Dios juzga: No por reputación, No por filosofía moral, No por ser “mejor” que el prójimo, Sino por la perseverancia perfecta en las buenas obras. 
@@ -1202,49 +1180,17 @@ El Poder del Evangelio
 
 ## En Síntesis (2:1-5)
 
-### El hombre moral es igualmente culpable.
+### Pablo confronta al moralista que juzga a otros.
 
-####  Aunque condena el pecado en otros, practica lo mismo. Al juzgar, demuestra conocer el bien —y por lo tanto— no tiene excusa ante Dios (2:1–3).
+### Juzgar a otros no libra al hombre del juicio de Dios.
 
-### El juicio de Dios es justo e inescapable.
+### El juicio divino se basa en la verdad, no en apariencias.
 
-####  Dios juzga según la verdad, no por comparación entre personas. Nadie escapa por tener estándares morales —solo quien hiciera siempre el bien podría evitar condena (2:2–3).
+### La paciencia de Dios no es aprobación del pecado.
 
-### El hombre moral malinterpreta la paciencia de Dios.
+### El corazón impenitente acumula juicio, no mérito.
 
-####  Confunde la paciencia divina con aprobación, en lugar de reconocer que la bondad de Dios busca llevarlo a un cambio de mente (metanoia) (2:4).
-
-### Si no cambia su manera de pensar, acumula ira.
-
-####  La terquedad del corazón no arrepentido almacena juicio para el día final, cuando se revelará la justicia perfecta de Dios (2:5).
-
-### El estándar judicial de Dios es absoluto.
-
-#### Vida eterna: solo para quien persevera siempre en el bien (hipotéticamente).
-
-#### Ira y juicio: para quien obra mal (realidad universal).
-
-### Dios juzga imparcialmente.
-
-####  Judíos y gentiles serán juzgados:
-
-##### Por sus obras
-
-##### Conforme a la luz que tuvieron
-
-### Conclusión:
-
-####  El moralista:
-
-##### Conoce el bien
-
-##### Lo exige a otros
-
-##### No lo practica: queda igualmente condenado
-
-### La paciencia de Dios no es aprobación, sino oportunidad para creer.
-
-## Romanos 2:6-10: Razonando con el pensamiento moral
+## Romanos 2:6-11: Dios juzga según las obras, sin acepción de personas (el juicio de Dios es justo, público e imparcial)
 
 ### Romanos 2:6 *ÉL PAGARÁ A CADA UNO CONFORME A SUS OBRAS:* En el día del  justo juicio de Dios, Él pagará a cada uno según lo que han hecho. 
 
@@ -1254,7 +1200,7 @@ El Poder del Evangelio
 
 #### No es suficiente pensar el bien, debe hacer el bien. No es suficiente juzgar a lo que no hacen bien, uno debe practicarlo, perseverando hacer el bien. 
 
->#### "*Perseverar*" HYPOMONE es resistencia firme n. - la capacidad de soportar dificultades o estrés; especialmente la fortaleza interior necesaria.
+> "*Perseverar*" HYPOMONE es resistencia firme n. - la capacidad de soportar dificultades o estrés; especialmente la fortaleza interior necesaria.
 
 #### Perseverar no es meramente ser sincero, es firmemente resistir. No da la idea de al menos intentar hacer el bien. Establece que se mantiene firme haciendo el bien. Buscan es un verbo en tiempo presente. Buscan continuamente gloria, honor e inmortalidad...siempre hacen el bien. 
 
@@ -1264,7 +1210,7 @@ El Poder del Evangelio
 
 ### Romanos 2:8a "*pero a los que son ambiciosos y no obedecen a la verdad,*" la palabra "*pero*", indica otra realidad para los que no perseveran en hacer el bien. Los que dejan a un lado lo moral por ambición personal y no obedecen (continuamente) a la verdad que se les ha sido revelada.
 
-#### "*ambiciosos*" ERITHEIA ambición egoísta n. - un fuerte impulso por el éxito personal sin inhibiciones morales.[^1]
+> "*ambiciosos*" ERITHEIA ambición egoísta n. - un fuerte impulso por el éxito personal sin inhibiciones morales.[^1]
 
 #### En el versículo 7 vimos un lado del argumento. Si uno llegará a cumplir completamente lo que sabe que debe hacer, buscando gloria, honor e inmortalidad, Dios le pagaría con vida eterna. Esta situación hipotética apela al moralista ya que en su mente es lo intenta hace. 
 
@@ -1290,6 +1236,20 @@ El Poder del Evangelio
 
 ##### El moralista no ha cumplido perfectamente y minimamente debe dudar de su propia actuación. 
 
+## En Síntesis (2:6-11)
+
+### Dios juzga con justicia y sin acepción de personas.
+
+### El juicio divino es conforme a las obras, no a las intenciones.
+
+### Judíos y gentiles enfrentan el mismo estándar de juicio.
+
+### La recompensa y el castigo son presentados como resultados del juicio.
+
+### Este principio establece la imparcialidad del juicio, no el camino de salvación.
+
+## Romanos 2:12-16 La responsabilidad según la revelacón recibida (Dios juzga a cada persona según la luz que ha recibido)
+
 ### Romanos 2:12a  *Pues todos los que han pecado sin la ley, sin la ley también perecerán;* El grado de juicio es según la revelación que haya recibido la persona. Por ejemplo, el judío que tiene la ley escrita, será y tiene mayor claridad sobre la justicia de Dios, entonces será juzgado según esa revelación de Dios. 
 
 #### La persona que nunca haya recibido revelación más alla de lo que se ve claramente por medio de lo creado, igualmente será juzgado pero según la revelación que haya recibido. 
@@ -1302,48 +1262,6 @@ El Poder del Evangelio
 
 ### Romanos 2:13b *sino los que cumplen la ley; esos serán justificados.* Bajo el sistema de ley, las obras que requiere deben ser cumplido para ser declarado justo por Dios. No es suficiente solo haber oido la ley. 
 
-## En Síntesis (2:6-13)
-
-### 2:6-11 — Juicio según las obras
-
-#### Causa: Hacer el bien, buscar gloria, honra e inmortalidad (2:7).
-
-#### Efecto: Vida eterna.
-
-#### Causa: Buscar el propio interés, no obedecer la verdad, obedecer la injusticia (2:8).
-
-#### Efecto: Ira e ira.
-
-#### Causa: Hacer el mal (2:9).
-
-#### Efecto: Tribulación y angustia.
-
-#### Causa: Hacer el bien (2:10).
-
-#### Efecto: Gloria, honra y paz.
-
-#### (Todos estos se expresan en pares paralelos; Pablo presenta estructuras de causa → efecto reflejadas).
-
-#### 2:12-16 — Ley, Pecado y Juicio
-
-#### Causa: Pecar sin la ley (2:12a).
-
-#### Efecto: Perecer sin la ley.
-
-#### Causa: Pecar en la ley (2:12b).
-
-#### Efecto: Ser juzgados por la ley.
-
-#### Causa: Escuchar solo la ley (2:13a).
-
-#### Efecto: No ser justificados.
-
-#### Causa: Cumplir la ley (2:13b).
-
-#### Efecto: Ser justificados
-
-## **Romanos 2:14-16: El hombre moral tiene la ley moral escrita en su corazón pero no la cumple.**
-
 ### Romanos 2:14a "*Porque cuando los gentiles, que no tienen la ley, cumplen por instinto los dictados de la ley,*"
 
 ### Romanos 2:14b "*ellos, no teniendo la ley, son una ley para sí mismos.*"
@@ -1354,39 +1272,19 @@ El Poder del Evangelio
 
 ### Romanos 2:16 "*el día en que, según mi evangelio, Dios juzgará los secretos de los hombres mediante Cristo Jesús.*"
 
-## En Síntesis (2:14-16)
+## En Síntesis (2:12-16)
 
-### La persona moral y Dios (2:1-11)
+### Cada persona es responsable según la revelación que ha recibido.
 
-#### Causa: Los gentiles (que no tienen la ley) hacen las cosas de la ley (2:14).
+### Los que pecan sin ley perecen sin ley.
 
-##### Efecto: Son una ley para sí mismos.
+### Los que pecan bajo la ley serán juzgados por la ley.
 
-#### Causa: La obra de la ley escrita en sus corazones —mostrada por la conciencia, pensamientos de acusación o defensa (2:15).
+### La conciencia funciona como testigo interno.
 
-##### Efecto: Sus procesos morales internos funcionan como evidencia en el día del juicio (2:16).
+### El juicio final revelará lo oculto por medio de Jesucristo.
 
-##### (2:16 da un efecto final vinculado a 2:15: Dios juzga los secretos de las personas.)
-
-#### La súplica hecha (2:1a): La persona moral dice: "Debería ser absuelto por no serlo tan malos como son algunos paganos".
-
-#### La súplica refutada (2:1b-11)
-
-##### La razón de esto (2:1b-4): Dios dice: "Hacéis las mismas cosas básicas, solo que de una manera más refinada ¡manera!"
-
-##### Los resultados de esto (2:5-11)
-
-###### Ser el objeto de la terrible ira de Dios (2:5-8)
-
-###### Experimentar tristeza y sufrimiento (2:9-11)
-
-### La persona pagana y Dios (2:12-16)
-
-#### La súplica hecha (2:12-13): La persona pagana dice: "Debería ser absuelto por motivos de ¡Ignorancia!"
-
-#### La súplica refutada (2:14-16): Dios dice: "Ustedes tienen los testigos gemelos de la conciencia y la naturaleza (ver también 1:19-20). Por lo tanto, serás juzgado por estos y no por la ley escrita".
-
-## Romanos 2:17-20: Jactancia de cumplir La Ley
+## Romanos 2:17-24: La ley no protege al transgresor (poseer la ley no equivale a cumplirla)
 
 ### Romanos 2:17a "*Pero si tú...*" El pronombre tú, esta en segunda persona singular. Enfatiza el sujeto como una persona  y no un grupo en general. Esto crea un contraste con las declaraciones anteriores hechas en los versículos 12-16 sobre gentiles. 
 
@@ -1459,8 +1357,6 @@ El Poder del Evangelio
 ###### ubicada en la ley.
 
 ###### No se afirma ninguna contradicción, ironía ni evaluación gramatical solo en este versículo; estas surgen solo en el contexto posterior.
-
-## Romanos 2:21-24 Tu que te jactas en la ley, ¿Obedeces en cumplirlo? 
 
 ### La siguiente sección no es para juzgar a esta persona de ser hipócrita en exigir algo y no tener que hacerlo el mismo. No, el punto es llevarlo a comprender que esta siendo engañado. La ley exige cumplimiento total, no solo las partes que uno piensa o quiere cumplir. 
 
@@ -1544,23 +1440,17 @@ El Poder del Evangelio
 
 ## En Síntesis (2:17-24)
 
-### 2:17-24 — El judío que confía en la ley
+### Poseer la ley no equivale a cumplirla.
 
-#### Esta sección enumera muchas causas, cada una con efectos implícitos o explícitos.
+### El privilegio religioso no protege del juicio.
 
-#### Causa: Confiar en la ley, jactarse en Dios, conocer su voluntad, aprobar lo excelente (2:17-18).
+### La desobediencia invalida la confianza en la ley.
 
-##### Efecto: Confianza: son guía, luz, corrector, maestro (2:19-20).
+### El nombre de Dios es blasfemado por la hipocresía religiosa.
 
-#### Causa: Enseñar a otros, pero no a sí mismo; predicar que no se robe, pero se roba; decir que no se cometa adulterio, pero se comete; aborrecer los ídolos, pero saquear los templos (2:21-22).
+### La ley expone al transgresor, no lo justifica.
 
-##### Efecto: Se expone la inconsistencia/hipocresía. (Implícito: contradicción entre la acción y la afirmación).
-
-#### Causa: Quebrantar la ley (2:23).
-
-##### Efecto: Deshonrar a Dios; el nombre de Dios es blasfemado entre los gentiles (2:24).
-
-## Romanos 2:25-29: Circuncisión del corazón
+## Romanos 2:25-29: La verdadera circuncisión es interno (la identidad delante de Dios no es externa sino interna)
 
 ### Romanos 2:25a "*Pues ciertamente la circuncisión es de valor si tú practicas la ley,*" la circunsición tiene valor para los gentiles cuando el rito religioso es apoyado por el cumplimiento de la ley. 
 
@@ -1608,39 +1498,17 @@ El Poder del Evangelio
 
 ## En Síntesis (2:25-29)
 
-### LA PERSONA RELIGIOSA Y DIOS (2:17-29)
+### La circuncisión externa no garantiza aceptación delante de Dios.
 
-#### La súplica (2:17-20): El hombre religioso dice: "Debería ser absuelto sobre la base de que conocer la ley de Dios y enseñar cursos de religión!"
+### La verdadera identidad se define internamente, no externamente.
 
-#### La súplica refutada (2:21-29): Dios dice: "¡No practicas lo que predicas!"
+### El judío verdadero lo es en lo interior.
 
-##### Las marcas de los judíos religiosos (2:21-24): Debido a su hipocresía, deshonran el santo nombre entre los gentiles.
+### La alabanza que importa proviene de Dios, no de los hombres.
 
-##### Las marcas de los judíos redimidos (2:25-29): Sus corazones son rectos con Dios.
+### Este cierre redefine la identidad del pueblo de Dios y prepara Romanos 3.
 
-### 2:25–29 — La verdadera circuncisión y el verdadero judío
-
-#### Causa: La circuncisión se practica en el contexto del cumplimiento de la ley (2:25a).
-
-##### Efecto: La circuncisión es valiosa.
-
-#### Causa: Quebrantar la ley (2:25b).
-
-##### Efecto: La circuncisión se convierte en incircuncisión.
-
-#### Causa: La persona incircuncisa cumple con los justos requisitos de la ley (2:26).
-
-##### Efecto: Su incircuncisión se considera circuncisión.
-
-#### Causa: La persona físicamente incircuncisa cumple con la ley (2:27).
-
-##### Efecto: Él juzga al transgresor del código escrito (el judío).
-
-#### Causa: Ser judío “interiormente”; circuncisión del corazón, en espíritu, no en la letra (2:29a).
-
-##### Efecto: La alabanza viene de Dios, no de los humanos (2:29b).
-
-## Romanos 3:1-8 La fidelidad de Dios ante la infidelidad del hombre
+## Romanos 3:1-8 La fidelidad de Dios ante la infidelidad humana (Dios permanece justo y fiel aunque el hombre sea infiel)
 
 ### Romanos 3 continúa el argumento lógico de Pablo de los capítulos 1 y 2.
 
@@ -1774,7 +1642,17 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 ## En Síntesis (3:1-8)
 
-## Romanos 3:9-10 Todos bajo pecado
+### Pablo responde a las objeciones sobre la fidelidad de Dios.
+
+### La infidelidad humana no invalida la justicia ni las promesas divinas.
+
+### Dios permanece justo incluso cuando juzga al hombre pecador.
+
+### El pecado del hombre no sirve como excusa ni como mérito.
+
+### La justicia de Dios no depende del comportamiento humano.
+
+## Romanos 3:9-10 Todos bajo pecado (declaración judicial universal: no hay justo, ni aún uno)
 
 ### Romanos 3:9a *¿Entonces qué? ¿Somos nosotros mejores que ellos?* Entonces que, nosotros (los lectores) tenemos alguna ventaja? 
 
@@ -1824,6 +1702,20 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 ##### Sin embargo este sistema de medir justicia no es según o conforme a las Escrituras por ellas declaran que "*no hay justo, ni aun uno*". 
 
+## En Síntesis (3:9-10)
+
+### Pablo declara el veredicto final sobre toda la humanidad.
+
+### Judíos y gentiles están igualmente bajo pecado.
+
+### No existe excepción ni ventaja moral delante de Dios.
+
+### La Escritura concluye que no hay justo, ni siquiera uno.
+
+### El problema del hombre es universal, no cultural ni étnico.
+
+## Romanos 3:11-18 La condición moral del hombre (Evidencia escritural que describe la corrupción humana)
+
 #### Romanos 3:11a "*NO HAY QUIEN ENTIENDA,*" No hay uno solo que este entendiendo. Ni siguiera hay uno que pueda decir, "yo estoy siendo un entendido". Salmo 14:1-3, 53:1-3
 
 #### Romanos 3:11b "*NO HAY QUIEN BUSQUE A DIOS.*" No hay persona que sea un buscador de Dios. Salmo 14:1-3
@@ -1860,8 +1752,6 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 #### Pablo muestra que el pecado no solo afecta obras externas, sino palabras, intención y carácter interior. Así prepara el terreno para la conclusión en 3:19–20: toda boca queda cerrada- irónicamente, la boca que antes engañaba y destilaba veneno ya no tiene defensa ante Dios.
 
-### **Romanos 3:15-18 Los caminos del hombre según las Escrituras**
-
 #### Romanos 3:15 *SUS PIES SON VELOCES PARA DERRAMAR SANGRE.* El uso de los pies representa las acciones de las personas. Su andar es rápidamente hacia causar la muerte. 
 
 ##### Al citar Isaías 58:7 (Septuaginta) Pablo sigue mostrando la condición universal del hombre bajo pecado. 
@@ -1876,7 +1766,19 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 #####  Es un cuadro totalizante: todo el ser humano (sus miembros) está afectado por el pecado.
 
-## Romanos 3:19-20 Propósito y conclusión
+## En Síntesis (3:11-18)
+
+### Pablo presenta la evidencia bíblica que describe la condición humana.
+
+### El pecado afecta el entendimiento, la voluntad, las palabras y las acciones.
+
+### La corrupción del hombre es integral, no superficial.
+
+### La Escritura habla del estado del hombre, no de casos aislados.
+
+### El temor de Dios está ausente del corazón humano.
+
+## Romanos 3:19-20 La ley cierra toda boca (la función de la ley no es justificar, sino acusar)
 
 ### Romanos 3:19a *Ahora bien, sabemos...* usa primera persona plural para expresar sabemos y seguimos sabiendo. Se da por sentado el conocimiento establecido, asumido y compartido por Pablo y sus lectores. 
 
@@ -1972,65 +1874,21 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 ##### Lógicamente, si ni siquiera las obras de La Ley son satisfactorias, entonces por hacer cualquier clase de obras como medio para ser justificado delante de Dios es inservible. 
 
-## En Síntesis (3:9-20)
+## En Síntesis (3:19-20)
 
-### No hay grupo con ventaja moral ante Dios.
+### La ley define el ámbito donde toda boca queda cerrada.
 
-####  Pablo pregunta si “nosotros” (cualquiera que se crea moralmente superior) somos mejores — y responde con un rotundo **no**. Judíos y gentiles por igual están “bajo pecado” (3:9).
+### La función de la ley no es justificar, sino revelar culpa.
 
-### La Escritura declara universal la injusticia humana.
+### Nadie puede ser declarado justo por las obras de la ley.
 
-####  En una cadena de citas (3:10–18), la Biblia afirma que:
+### El conocimiento del pecado viene por medio de la ley.
 
-##### no hay justo — ni siquiera uno
+### La ley prepara el terreno para la necesidad de gracia.
 
-##### nadie entiende
+# ROMANOS 3:21-5:21 - JUSTIFICACIÓN: LA JUSTICIA QUE DIOS PROVEE
 
-##### nadie busca a Dios
-
-##### todos se han desviado
-
-##### nadie hace el bien
-
-####  Esto describe la condición interna del ser humano, no solo su conducta externa.
-
-### El pecado invade todo el ser.
-
-####  La corrupción sale por la boca (garganta, lengua, labios), se expresa en camino violento (pies, senderos), y termina en falta de temor de Dios (ojos).
-
-###  Es una descripción totalizante: el corazón, las palabras, las obras y la visión de la vida están afectados por el pecado.
-
-### La Ley no absuelve — acusa.
-
-####  Lo que la Ley dice, lo dice a los que están bajo la Ley, para que:
-
-##### toda boca sea cerrada
-
-##### todo el mundo quede declarado culpable ante Dios (3:19)
-
-#### La escena es judicial: el acusado queda en silencio, sin defensa.
-
-### Nadie será justificado por obras de la Ley.
-
-####  Absolutamente nadie será declarado justo delante de Dios por cumplir mandamientos o practicar religión (3:20a).
-
-####  La Ley nunca fue dada para justificar, sino para dar conocimiento del pecado (3:20b).
-
-### Conclusión final del argumento (1:18–3:20):
-
-#### Todo ser humano está bajo pecado
-
-#### Toda boca queda silenciada
-
-#### Toda obra queda anulada como base de justicia
-
-#### Toda esperanza en mérito propio queda descartada
-
-#### La necesidad universal de gracia queda establecida.
-
-# ROMANOS 3:21-5:11 - LA JUSTICIA QUE DIOS PROVEE
-
-## Romanos 3:21-31 La justicia revelada aparte de las obras
+## Romanos 3:21-26 La justicia revelada aparte de la ley (Dios provee por medio de la obra de Cristo)
 
 ### Romanos 3:21–31 forma un párrafo estrechamente unificado cuya gramática muestra una arquitectura clara construida sobre el contraste, la explicación y la conclusión. Versículos 21-26 es una sola oración presentando un solo argumento y versículos 27-31 es otra oración que da una conclusión. 
 
@@ -2436,37 +2294,17 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 ## En Síntesis (3:21-26)
 
-### Un giro decisivo en la historia bíblica (Romanos 3:21)
-#### Después de mostrar que nadie puede ser justificado por obras de la Ley, Pablo anuncia: “Pero ahora”, la justicia de Dios ha sido manifestada aparte de la Ley, aunque la Ley y los Profetas daban testimonio de ella.
+### Dios introduce una justicia completamente nueva.
 
-### La justicia de Dios no se obtiene — se recibe (Romanos 3:22–24)
-#### Esta justicia viene por medio de la fe en Jesucristo para todos los que creen, sin distinción, porque todos pecaron y no alcanzan la gloria de Dios, pero son justificados gratuitamente por Su gracia, no por mérito humano.
+### Esta justicia es revelada aparte de la ley, aunque testificada por ella.
 
-### La base de esta justificación es la redención en Cristo Jesús (Romanos 3:24)
-#### Cristo paga el precio de nuestra liberación, de modo que la justicia es un regalo inmerecido, no salario ni deuda.
+### La justicia de Dios se manifiesta por medio de la fe en Jesucristo.
 
-### Dios presentó públicamente a Cristo como propiciación (Romanos 3:25–26)
-#### Cristo es el medio dado por Dios para tratar con el pecado, mediante Su sangre, recibido por fe.
-#### Esto demuestra la justicia de Dios: aunque antes había pasado por alto pecados, la cruz revela que Dios nunca dejó de ser justo y ahora justifica al que cree.
+### La redención y la propiciación tienen su base en la obra de Cristo.
 
-### Resultado: se excluye toda jactancia (Romanos 3:27–31)
-#### Nadie puede gloriarse en obras; la justificación es por fe aparte de la Ley.
-#### Dios es Dios de judíos y gentiles por igual.
-#### La fe no anula la Ley — la confirma señalando su verdadero propósito.
+### Dios es justo y el que justifica al que cree.
 
-### Tema central de toda la sección (Romanos 3:21–5:11)
-#### La justicia pertenece a Dios
-#### Dios la revela
-#### Dios provee el medio
-#### Dios justifica
-#### El hombre solo cree
-#### Así, Dios es justo y el que justifica al pecador que confía en Jesús.
-
-### Conclusión 
-#### La salvación no surge del esfuerzo humano, sino del plan, provisión y gracia de Dios manifestada en Cristo.
-#### La fe no añade mérito; simplemente recibe lo que Dios ya proveyó.
-
-## Romanos 3:27-31 
+## Romanos 3:27-31 La jactancia excluida (la justificación por fe elimina el orgullo humano y une a todos)
 
 ### Romanos 3:27a "*¿Dónde está, pues, la jactancia? Queda excluida.*" La jactancia queda excluida porque lo único que el hombre contribuye para su justificación es el pecado. 
 
@@ -2552,32 +2390,15 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 ## En Síntesis (3:27-31)
 
-### La jactancia queda completamente excluida (3:27)
-#### No hay lugar para el orgullo humano porque el hombre no contribuye nada a su justificación excepto su pecado.
-#### La exclusión de la jactancia no ocurre por medio de obras, sino por el principio de la fe.
+### La justificación por fe excluye toda jactancia humana.
 
-### La justificación es únicamente por fe, aparte de las obras (3:28)
-#### Pablo concluye que el hombre es justificado por la fe sin incluir obras de la Ley.
-#### Las obras y la gracia son principios mutuamente excluyentes — si hay obra, hay salario; si hay gracia, hay regalo.
-#### Por tanto, introducir obras cambia la categoría completa: ya no sería gracia.
+### No hay diferencia entre judíos y gentiles ante Dios.
 
-### Dios justifica a todos por el mismo medio — la fe (3:29–30)
-#### Dios no es solo Dios de los judíos, sino también de los gentiles.
-#### Porque Dios es uno, justifica a judíos y gentiles por el mismo medio: la fe.
-#### Nadie tiene una vía especial o distinta hacia la justificación.
+### Un solo Dios justifica a todos por el mismo principio.
 
-### La fe no anula la Ley — la confirma (3:31)
-#### Pablo rechaza la idea de que la fe invalida la Ley.
-#### La fe confirma la Ley porque reconoce que la pena exigida por ella fue cumplida en la muerte de Cristo.
-#### Así, la justicia que la Ley demanda no es ignorada, sino satisfecha.
+### La fe no invalida la ley, sino que la establece en su lugar correcto.
 
-### Idea central del pasaje
-#### La fe elimina toda base de jactancia humana.
-#### La fe revela la gracia como regalo, no salario.
-#### La fe establece a Dios como el único que justifica.
-#### La fe honra la Ley al reconocer que Cristo cargó su condena.
-
-#### La justificación es por gracia mediante la fe, para toda persona, sin lugar para orgullo humano y sin conflicto con la Ley, porque en Cristo la Ley es plenamente afirmada.
+### El argumento prepara el camino para la demostración en Abraham.
 
 ## Romanos 4:1-3 Abraham examinado ante Dios
 
