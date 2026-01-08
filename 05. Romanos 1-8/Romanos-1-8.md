@@ -3062,9 +3062,7 @@ Vemos una lista de contrastes que presenta Romanos:
 ### Romanos 4 prepara el terreno para la seguridad desarrollada en Romanos 5.
 
 # ROMANOS 5:1-21 UN NUEVO ESTATUS DELANTE DE DIOS
-### (La justificación cambia completamente la posición del hombre)
-
-## Romanos 5:1-11 Paz con Dios y acceso a la gracia
+## Romanos 5:1-5 Los resultados inmediatos de la justificación (el creyente entra en una nueva realidad relacional y estable delante de Dios)
 
 ### Romanos 5 marca un punto de inflexión en la carta: Pablo pasa de demostrar cómo somos justificados (capítulos 3-4) a describir las consecuencias de la justificación: paz, acceso a Dios, esperanza y vida en Cristo.
 
@@ -3102,11 +3100,11 @@ Vemos una lista de contrastes que presenta Romanos:
 
 ### Romanos 5:5c *por medio del Espíritu Santo que nos fue dado.*
 
-Romanos 5:6-8 Tres razones apoyando la declaración del versículo 5. 
+## Romanos 5:6-11 El amor de Dios demostrado objetivamente (la seguridad del creyente se funamenta en la obra histórica de Cristo, no en su experiencia presente)
 
 ### Romanos 5:6a *Porque mientras aún éramos débiles,* 
 
-porque GAR 
+> porque GAR 
 
 #### *éramos* es un participio en tiempo presente. Podría traducirse, "siendo débiles". 
 
