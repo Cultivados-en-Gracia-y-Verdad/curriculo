@@ -52,7 +52,10 @@ Title: Romanos 1-8
 
 ## C. 1:16–17 Tema de la carta - El Evangelio
 
-# II. PROBLEMA UNIVERSAL (1:18–3:20) 
+# II. PROBLEMA UNIVERSAL
+
+![Romanos 1 – La verdad suprimida](images/romans-1-truth-suppressed.png)
+ (1:18–3:20) 
 
 ## A. 1:18–32 Dios manifiesta Su desaprobación a la injusticia del hombre.
 
@@ -88,7 +91,10 @@ Title: Romanos 1-8
 
 ### 3:19-20 Conclusión: Para que toda boca se cierre...
 
-# III. LA MANERA DE SER DECLARADO JUSTO POR DIOS (3:21–4:25) 
+# III. LA MANERA DE SER DECLARADO JUSTO
+
+![Romanos 4 – Justicia acreditada](images/romans-4-justification-accounting.png)
+ POR DIOS (3:21–4:25) 
 
 ## A. 3:21–26 - El medio justo de Dios: La redención en Cristo
 
@@ -106,7 +112,10 @@ Title: Romanos 1-8
 
 ### 4:23-25 Conclusión: fue escrito para nosotros también. 
 
-# IV. CERTEZAS DEL NUEVO ESTADO Y SUS CONCLUSIONES (5:1–8:39) 
+# IV. CERTEZAS DEL NUEVO ESTADO
+
+![Romanos 5 – Adán y Cristo](images/romans-5-adam-vs-christ-overview.png)
+ Y SUS CONCLUSIONES (5:1–8:39) 
 
 ## A. 5:1-21 - Un nuevo estado con Dios: Paz y amor
 
@@ -116,7 +125,10 @@ Title: Romanos 1-8
 
 ### 5:20-21 Conclusión: para que la gracia reine
 
-## B. 6:1-23 - Una nueva identidad: bautizados en Cristo
+## B. 6:1-23
+
+![Romanos 6 – Identidad vs caminar](images/romans-6-identity-vs-walk.png)
+ - Una nueva identidad: bautizados en Cristo
 
 ### 6:1-14 Explicación: 
 
@@ -124,7 +136,10 @@ Title: Romanos 1-8
 
 ### 6:21-23 Conclusión: la paga del pecado es muerte
 
-## C. 7:1-25 - Una nueva relación: libertado de la ley
+## C. 7:1-25
+
+![Romanos 7 – Tensión bajo la ley](images/romans-7-law-tension.png)
+ - Una nueva relación: libertado de la ley
 
 ### 7:1-6 Explicación: Libertados de la ley, unidos a Cristo
 
@@ -132,7 +147,10 @@ Title: Romanos 1-8
 
 ### 7:25 Conclusión: ¡Ay de mi! lo que quiero no hago, lo que no quiero eso hago
 
-## D. 8:1-39 Una nueva esfera: vida en el Espíritu
+## D. 8:1-39
+
+![Romanos 8 – Ninguna condenación](images/romans-8-no-condemnation.png)
+ Una nueva esfera: vida en el Espíritu
 
 ### 8:1-17 Explicación:
 
@@ -5452,6 +5470,9 @@ Para que eso ocurriera, Dios tendría que dejar de amar a Su propio Hijo — y e
 ### Romanos 8 concluye con seguridad absoluta e inquebrantable.
 
 # EPÍLOGO VISUAL
+
+![Romanos 8–11 – Israel como prueba](images/romans-epilogue-israel-proof.png)
+
 
 ### Romanos 8 termina con una afirmación rotunda: nada puede separar al pueblo de Dios de su amor en Cristo Jesús, nuestro Señor (Romanos 8:39). Surge una pregunta natural: “¿Y qué hay de Israel?”. Romanos 9-11 responde directamente a esa pregunta.  Sin integrar a Israel en la iglesia, Romanos 9-11 funciona como prueba histórica de que el propósito salvador de Dios es inquebrantable: la misma seguridad que Romanos 8 declara para el creyente.
 

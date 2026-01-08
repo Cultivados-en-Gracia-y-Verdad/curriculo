@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="600">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <rect x="100" y="250" width="350" height="100" fill="#eaeaea" stroke="#000"/>
+  <rect x="525" y="250" width="350" height="100" fill="#eaeaea" stroke="#000"/>
+  <rect x="950" y="250" width="350" height="100" fill="#eaeaea" stroke="#000"/>
+  <text x="275" y="310" text-anchor="middle" font-size="24">Justificación</text>
+  <text x="700" y="310" text-anchor="middle" font-size="24">Experiencia</text>
+  <text x="1125" y="310" text-anchor="middle" font-size="24">Glorificación</text>
+</svg>
