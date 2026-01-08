@@ -2977,7 +2977,7 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 ###### Nunca va seguida de un veredicto contrario.
 
-## En Síntesis (4:1-8)
+## En Síntesis (4:6-8)
 
 ### ABRAHAM, EL PADRE RACIAL DE ISRAEL (4:1-5, 9-25)
 
@@ -3319,7 +3319,10 @@ Gálatas 3:14 a fin de que en Cristo Jesús la bendición de Abraham viniera a l
 
 ### Jesús fue entregado por nuestras transgresiones y resucitado para nuestra justificación, completando así el modelo de fe y promesa (v. 25).
 
-## Romanos 5:1-2 Paz y esperanza con Dios, resultados de la justificación
+# ROMANOS 5:1-21 UN NUEVO ESTATUS DELANTE DE DIOS
+### (La justificación cambia completamente la posición del hombre)
+
+## Romanos 5:1-11 Paz con Dios y acceso a la gracia
 
 ### Romanos 5 marca un punto de inflexión en la carta: Pablo pasa de demostrar cómo somos justificados (capítulos 3-4) a describir las consecuencias de la justificación: paz, acceso a Dios, esperanza y vida en Cristo.
 
@@ -3339,8 +3342,6 @@ Gálatas 3:14 a fin de que en Cristo Jesús la bendición de Abraham viniera a l
 
 ### Romanos 5:2d *y nos gloriamos en la esperanza de la gloria de Dios.*
 
-## Romanos 5:3-5 Gloria en las tribulaciones
-
 ### Romanos 5:3a *Y no solo esto, sino que también nos gloriamos en las tribulaciones,*
 
 ### Romanos 5:3b *sabiendo que la tribulación produce paciencia;*
@@ -3358,8 +3359,6 @@ Gálatas 3:14 a fin de que en Cristo Jesús la bendición de Abraham viniera a l
 #### "*ha sido derramado*" (perfecto pasivo de indicativo) quiere decir que es una acción completada con estado continuo.
 
 ### Romanos 5:5c *por medio del Espíritu Santo que nos fue dado.*
-
-## Romanos 5:6-11 Amor de Dios. Cristo muere. Nosotros somos salvos
 
 Romanos 5:6-8 Tres razones apoyando la declaración del versículo 5. 
 
@@ -3495,19 +3494,17 @@ demuestra SUNISTESIN (presente, indicativo)
 
 ##### La obra actual de Cristo a la diestra de Dios (5:9-11): Pablo dice que Cristo murió para salvarnos y ahora vidas para mantenernos salvados.
 
-# ROMANOS 5:12-8:17 SANTIFICACIÓN: LA NUEVA VIDA EN CRISTO
-
-## Romanos 5:12–21 Dos reinos como resultado de dos hombres
+## Romanos 5:12–21 Dos cabezas, dos humanidades
 
 ### Romanos 5:12-21 Pablo hace uso de un caístico para ayudarnos en la comprensión.
 
->#### A (5:12) Un hombre → el pecado entra → muerte para todos
->
->##### B (5:15-17) Contrastes ampliados (don vs. transgresión)
->
->##### B′ (5:18-19) Contrastes condensados (un acto vs. otro acto)
->
->#### A′ (5:20-21) La ley entra / se destaca la muerte → la gracia abunda → reina la vida
+#### A (5:12) Un hombre → el pecado entra → muerte para todos
+
+##### B (5:15-17) Contrastes ampliados (don vs. transgresión)
+
+##### B′ (5:18-19) Contrastes condensados (un acto vs. otro acto)
+
+#### A′ (5:20-21) La ley entra / se destaca la muerte → la gracia abunda → reina la vida
 
 ##### A coincide con A′ mediante el vocabulario de «entra» y «reinado».
 
@@ -3979,7 +3976,9 @@ demuestra SUNISTESIN (presente, indicativo)
 
 ##### La relación del pecado con su acto (5:20b): "A medida que la gente pecaba más y más, la maravillosa la bondad se hizo más abundante".
 
-## Romanos 6:1-10, 
+# ROMANOS 6:1-8:17 LA VIDA QUE BROTA DE LA JUSTIFICACIÓN
+
+## Romanos 6:1-10 Identificados con Cristo
 
 ### Romanos 6:1–10 forma una única unidad argumentativa, marcada por:
 
@@ -4070,8 +4069,6 @@ demuestra SUNISTESIN (presente, indicativo)
 #### Cuando alguien es librado de la prisión lo antes posible sale para nunca mas querer volver. Sería inconcevible que alguien reciba la libertad después de pagar su condena y quiera continuar viviendo en la cárcel porque le agrada vivir encerrado y sin libertad. 
 
 #### Dios nos ha libertado del pecado y la idea es que nunca más queramos volver a ese estado esclavizador. 
-
-## Romanos 6:3-4 Libertados del pecado: muerte con Cristo
 
 ### Romanos 6:3a "*¿O no saben ustedes*" ¿acaso ignoras esto? Asume que el lector ya es conocedor de esto. Introduce el fundamento (base) para la afirmación de que continuar en pecado es incompatible
 
@@ -4197,7 +4194,7 @@ demuestra SUNISTESIN (presente, indicativo)
 
 ### Vivos en el Salvador (6:8-10): Ahora debemos vivir en el poder de resurrección de aquel que resucitó de entre los muertos y está vivo para siempre.
 
-## Romanos 6:11-14, No dejar reinar el pecado
+## Romanos 6:11-14 Contanto en tu nueva identidad
 
 ### Entonces, ¿por qué sigues pecado? No seas engañado, si has creido en Cristo como tu único y suficiente salvador, estas en una nueva realidad libertado del pecado. 
 
@@ -4319,7 +4316,9 @@ demuestra SUNISTESIN (presente, indicativo)
 
 ###### La gracia no es simplemente perdón. La gracia es el poder gobernante que produce justicia.
 
-## Romanos 6:15-18, De esclavos del pecado a siervos de justicia
+## En Síntesis ()
+
+## Romanos 6:15-23 Viviendo según tu nueva identidad
 
 ### Romanos 6:15a *¿Entonces qué? ¿Pecaremos porque no estamos bajo la ley, sino bajo la gracia?* La pregunta es, cometeremos pecados? 
 
@@ -4413,8 +4412,6 @@ demuestra SUNISTESIN (presente, indicativo)
 
 #### Si se quedaron libres del pecado, entonces ¿a quien se han hecho obedientes? Se hicieron siervos de la justicia.  
 
-## Romanos 6:19-23, Fruto de la justicia y la vida eterna
-
 ### Romanos 6:19a *Hablo en términos humanos, por causa de la debilidad de su carne.* Pablo acomoda su modo de explicar y busca simplificar para comprensión. La razón es por su la debilidad de su carne. 
 
 #### Pablo usa una analogía enmarcada humanamente para comparar una presentación pasada de los miembros a la impureza y la anarquía con un mandamiento presente de presentar esos mismos miembros a la justicia, dirigiendo hacia la santificación.
@@ -4475,7 +4472,7 @@ demuestra SUNISTESIN (presente, indicativo)
 
 #### La muerte y la vida eterna se presentan como resultados, no como procesos o mandatos.
 
-## En Síntesis (6:11-23)
+## En Síntesis (6:15-23)
 
 ### Observamos en estos versículos cómo los imperativos de Pablo siguen a sus indicativos:
 
@@ -4498,8 +4495,6 @@ demuestra SUNISTESIN (presente, indicativo)
 ###### "La paga del pecado es muerte" (6:23a).
 
 ###### "La dádiva de Dios es vida eterna en Cristo Jesús Señor nuestro" (6:23b).
-
-# ROMANOS 7:1-25 CONOCIENDO LA RELACIÓN DEL CREYENTE CON LA LEY
 
 ## Romanos 7:1-6 Argumento #1: La jurisdicción de la ley para hacer demandas termina en nuestra muerte 
 
@@ -4901,9 +4896,7 @@ demuestra SUNISTESIN (presente, indicativo)
 
 ### La sección **no resuelve** completamente el conflicto; prepara el terreno para Romanos 8.
 
-# ROMANOS 8:1-30 LA VIDA MAGNIFICA DEL CREYENTE
-
-## Romanos 8:1-4: A la imposibilidad de vida en justicia, Dios intenviene...
+## Romanos 8:1-4: La vida posible solo por el Espíritu
 
 Romanos 8:1 **retoma directamente** el clamor y la tensión no resuelta de Romanos 7:24–25.
 
@@ -5231,7 +5224,7 @@ El contraste cambia de **conflicto interno** a **estado resultante**.
 
 ### No es recompensa; es la trayectoria propia de la vida en Cristo.
 
-# Romanos 8:18-39 GLORIFICACIÓN: LA GLORIA FUTURA CON CRISTO
+# Romanos 8:18-39 GLORIFICACION: ESPERAZA Y SEGURIDAD EN EL PROPÓSITO DE DIOS
 
 ## Romanos 8:18-25: Sufrimiento presente y esperanza futura
 
@@ -5767,6 +5760,12 @@ Para que eso ocurriera, Dios tendría que dejar de amar a Su propio Hijo — y e
 ##### Tanto presente como futuro (8:38c)
 
 ##### Altura y profundidad (8:39)
+
+# EPÍLOGO VISUAL
+
+### **La Fidelidad de Dios a Través del Tiempo**
+
+*(Israel como confirmación histórica del Evangelio de Poder)*
 
 ___-___
 
