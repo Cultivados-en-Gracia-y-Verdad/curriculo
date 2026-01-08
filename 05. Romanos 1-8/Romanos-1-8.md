@@ -276,7 +276,7 @@ El Poder del Evangelio
 
 ### La carta avanza de afirmaciones establecidas hacia respuestas prácticas basadas en ellas.
 
-# ROMANOS 1:1-17 - APERTURA
+# ROMANOS 1:1-17 - EL EVANGELIO QUE DIOS ANUNCIÓ
 
 ## Romanos 1:1-7 - Saludos 
 
@@ -656,6 +656,8 @@ El Poder del Evangelio
 
 #### El evangelio se presenta como el medio continuo por el cual viven los creyentes. Pablo quiere que vivan fortalecidos por ese evangelio. Por lo tanto, los creyentes deben vivir en continua dependencia del evangelio.
 
+### El evangelio no comienza con el hombre, sino con Dios y Su propósito.
+
 ## En Síntesis (1:14-17)
 
 ### Pablo se declara deudor con todos: griegos y bárbaros, sabios e ignorantes, sin distinción cultural o intelectual.
@@ -680,9 +682,9 @@ El Poder del Evangelio
 
 ### La cita de Habacuc confirma que vida y justicia están vinculadas a la fe, no a las obras.
 
-# Romanos 1:18-3:20 LA CONDENACIÓN IMPARCIAL SOBRE EL HOMBRE PECADOR
+# Romanos 1:18-3:20 EL MUNDO NECESITA SALVACIÓN
 
-## Romanos 1:18-32 - Dios manifiesta Su desaprobación a la injusticia universal.
+## Romanos 1:18-32 - Dios manifiesta Su desaprobación a la injusticia universal
 
 ### Dios es el creador y en el principio cuando hizo el mundo, era en reflejo perfecto de Su carácter. El mundo era bueno en gran manera. No había nada malo, solo armonía, amor, paz y gozo. No había muerte, no había tristeza y tampoco dolor. 
 
@@ -2084,9 +2086,9 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 #### La necesidad universal de gracia queda establecida.
 
-# ROMANOS 3:21-5:11 - LA JUSTICIA DE DIOS RECIBIDA MEDIANTE LA FE EN JESUCRISTO
+# ROMANOS 3:21-5:11 - LA JUSTICIA QUE DIOS PROVEE
 
-## Romanos 3:21-31 Pero ahora la justicia de Dios ha sido manifestada
+## Romanos 3:21-31 La justicia revelada aparte de las obras
 
 ### Romanos 3:21–31 forma un párrafo estrechamente unificado cuya gramática muestra una arquitectura clara construida sobre el contraste, la explicación y la conclusión. Versículos 21-26 es una sola oración presentando un solo argumento y versículos 27-31 es otra oración que da una conclusión. 
 
@@ -2638,7 +2640,7 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 ### Conclusión
 #### La justificación es por gracia mediante la fe, para toda persona, sin lugar para orgullo humano y sin conflicto con la Ley, porque en Cristo la Ley es plenamente afirmada.
 
-## Romanos 4:1-3 Abraham justificado por fe
+## Romanos 4:1-5 Abraham fue contado justo por fe
 
 ### Romanos capítulo 4 funciona como una demostración bíblica que respalda la afirmación de Romanos 3:21-31. Romanos capítulo 3 afirma algo. Romanos capítulo 4 lo demuestra con las Escrituras. Pablo no introduce un tema nuevo; confirma el argumento anterior.
 
@@ -2793,8 +2795,6 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 #### "*fue contado*" ELOGISTHE - (aoristo, Aprobar, indicativo. 3ra persona singular)
 
-## Romanos 4:4-8 Contraste lógico entre ir por las obras versus por la fe
-
 ### Romanos 4:4 *Ahora bien, al que trabaja, el salario no se le cuenta como favor, sino como deuda;* usando términos económicos Pablo enfatiza la diferencia entre un salaria y un favor. 
 
 #### El salario o sueldo, paga o jornal es algo que es debido a uno por trabajar. Un salario es lo que uno gana por laborar. 
@@ -2875,7 +2875,57 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 ##### ¿Entonces, que es necesario para ser justificado delante de Dios? 
 
-## Romanos 4:6-8 Argumento de otro testimonio: David es un ejemplo bíblico de ser contado justo por la fe. 
+## En Síntesis (Romanos 4:1-5)
+
+### Romanos 4 no introduce un tema nuevo, sino que demuestra bíblicamente lo afirmado en Romanos 3:21–31.
+
+### Abraham es presentado como evidencia examinada, no como ejemplo moral a imitar.
+
+### La pregunta “¿qué halló Abraham según la carne?” limita el análisis a condiciones históricas visibles, no a estados internos ni méritos espirituales.
+
+### La Escritura establece que Abraham creyó y Dios le contó justicia; la acción decisiva es divina, no humana.
+
+### El verbo *contar* (λογίζομαι) muestra dos direcciones claras:
+
+#### Cuando Dios cuenta justicia, lo hace sin participación del hombre.
+
+#### Cuando el hombre es llamado a contar algo como verdadero, lo hace como respuesta a una realidad ya establecida.
+
+### Justificación y obras operan bajo principios completamente distintos:
+
+#### Trabajar produce salario (deuda).
+
+#### Creer recibe justicia como gracia.
+
+### Creer no es una obra ni un sustituto de las obras; es el contraste directo con trabajar como base de aceptación.
+
+### La justificación descrita en Romanos 4 es delante de Dios, no delante de los hombres.
+
+### Abraham no puede jactarse ante Dios porque su justicia no provino de obras, sino de ser acreditado justo por Dios.
+
+### La repetición del término “padre” subraya que Abraham es padre:
+
+#### No por etnicidad.
+
+#### No por circuncisión.
+
+#### No por ley.
+
+#### Sino por fe.
+
+### Por lo tanto, Abraham es padre de todos los que creen, judíos o gentiles, sin distinción.
+
+### Romanos 4 establece la base para Romanos 9–11:
+
+#### La promesa no depende de la etnia.
+
+#### La incredulidad presente no anula la promesa.
+
+#### La familia de Dios se define por la fe y la promesa, no por la carne.
+
+### En Romanos 4:1–5, Pablo deja claro que la justificación delante de Dios es solo por fe, aparte de las obras, y que cualquier intento de añadir mérito humano distorsiona el evangelio.
+
+## Romanos 4:6-8 La fe de David fue contado como justicia
 
 ### Romanos 4:6a "*Como también David habla de la bendición que viene sobre el hombre a quien Dios atribuye justicia*" David también recibió la bendición de la justificación por la fe. Dios le contó o acreditó justicia no la consiguió por mérito. 
 
