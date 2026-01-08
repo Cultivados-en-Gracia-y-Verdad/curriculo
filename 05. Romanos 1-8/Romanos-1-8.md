@@ -2640,7 +2640,7 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 ### Conclusión
 #### La justificación es por gracia mediante la fe, para toda persona, sin lugar para orgullo humano y sin conflicto con la Ley, porque en Cristo la Ley es plenamente afirmada.
 
-## Romanos 4:1-5 Abraham fue contado justo por fe
+## Romanos 4:1-3 Abraham examinado ante Dios
 
 ### Romanos capítulo 4 funciona como una demostración bíblica que respalda la afirmación de Romanos 3:21-31. Romanos capítulo 3 afirma algo. Romanos capítulo 4 lo demuestra con las Escrituras. Pablo no introduce un tema nuevo; confirma el argumento anterior.
 
@@ -2795,6 +2795,20 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 #### "*fue contado*" ELOGISTHE - (aoristo, Aprobar, indicativo. 3ra persona singular)
 
+## En Síntesis (4:1-3)
+
+### Abraham es presentado como evidencia examinada, no como ejemplo moral.
+
+### La pregunta inicial limita el análisis a lo que puede lograrse “según la carne”.
+
+### Pablo establece que la evaluación decisiva es **delante de Dios**, no delante de los hombres.
+
+### La Escritura define el veredicto: Abraham creyó, y Dios le contó justicia.
+
+### La autoridad final del argumento no es la opinión, sino la Escritura misma.
+
+## Romanos 4:4-5 Dos principios opuestos: salario o gracia
+
 ### Romanos 4:4 *Ahora bien, al que trabaja, el salario no se le cuenta como favor, sino como deuda;* usando términos económicos Pablo enfatiza la diferencia entre un salaria y un favor. 
 
 #### El salario o sueldo, paga o jornal es algo que es debido a uno por trabajar. Un salario es lo que uno gana por laborar. 
@@ -2875,57 +2889,19 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 ##### ¿Entonces, que es necesario para ser justificado delante de Dios? 
 
-## En Síntesis (Romanos 4:1-5)
+## En Síntesis (4:4-5)
 
-### Romanos 4 no introduce un tema nuevo, sino que demuestra bíblicamente lo afirmado en Romanos 3:21–31.
+### Pablo contrasta dos principios incompatibles: salario y gracia.
 
-### Abraham es presentado como evidencia examinada, no como ejemplo moral a imitar.
+### Trabajar produce deuda; creer recibe un favor inmerecido.
 
-### La pregunta “¿qué halló Abraham según la carne?” limita el análisis a condiciones históricas visibles, no a estados internos ni méritos espirituales.
+### La fe no es una obra ni un mérito alternativo.
 
-### La Escritura establece que Abraham creyó y Dios le contó justicia; la acción decisiva es divina, no humana.
+### Dios es presentado como el que **justifica al impío**, no al merecedor.
 
-### El verbo *contar* (λογίζομαι) muestra dos direcciones claras:
+### La justificación opera bajo un sistema de gracia, no de retribución.
 
-#### Cuando Dios cuenta justicia, lo hace sin participación del hombre.
-
-#### Cuando el hombre es llamado a contar algo como verdadero, lo hace como respuesta a una realidad ya establecida.
-
-### Justificación y obras operan bajo principios completamente distintos:
-
-#### Trabajar produce salario (deuda).
-
-#### Creer recibe justicia como gracia.
-
-### Creer no es una obra ni un sustituto de las obras; es el contraste directo con trabajar como base de aceptación.
-
-### La justificación descrita en Romanos 4 es delante de Dios, no delante de los hombres.
-
-### Abraham no puede jactarse ante Dios porque su justicia no provino de obras, sino de ser acreditado justo por Dios.
-
-### La repetición del término “padre” subraya que Abraham es padre:
-
-#### No por etnicidad.
-
-#### No por circuncisión.
-
-#### No por ley.
-
-#### Sino por fe.
-
-### Por lo tanto, Abraham es padre de todos los que creen, judíos o gentiles, sin distinción.
-
-### Romanos 4 establece la base para Romanos 9–11:
-
-#### La promesa no depende de la etnia.
-
-#### La incredulidad presente no anula la promesa.
-
-#### La familia de Dios se define por la fe y la promesa, no por la carne.
-
-### En Romanos 4:1–5, Pablo deja claro que la justificación delante de Dios es solo por fe, aparte de las obras, y que cualquier intento de añadir mérito humano distorsiona el evangelio.
-
-## Romanos 4:6-8 La fe de David fue contado como justicia
+## Romanos 4:6-8 David y la justicia acreditada sin obras
 
 ### Romanos 4:6a "*Como también David habla de la bendición que viene sobre el hombre a quien Dios atribuye justicia*" David también recibió la bendición de la justificación por la fe. Dios le contó o acreditó justicia no la consiguió por mérito. 
 
@@ -2979,45 +2955,17 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 ## En Síntesis (4:6-8)
 
-### ABRAHAM, EL PADRE RACIAL DE ISRAEL (4:1-5, 9-25)
+### David es introducido como segundo testigo bíblico.
 
-#### Abraham y su salvación (4:1-5, 9-15)
+### La justicia acreditada excluye tanto las obras como la imputación de pecado.
 
-##### Lo que Abraham recibió (4:1-5): Dios mismo canceló los pecados de Abraham y lo declaró virtuoso.
+### La bienaventuranza se define por lo que Dios **no cuenta** al hombre.
 
-##### Cómo lo recibió Abraham (4:1-5)
+### La justificación es descrita en términos contables, no morales.
 
-###### No se produjo por sus obras (4:1-2, 4).
+### La Escritura confirma que la gracia elimina toda base para la jactancia.
 
-###### Sucedió por su fe (4:3, 5).
-
-##### Cuando Abraham lo recibió (4:9-15)
-
-###### Lo recibió antes de ser circuncidado (4:9-12).
-
-###### Lo recibió antes de dar la ley (4:13-15).
-
-#### Abraham y su descendencia (4:16-25): Pablo muestra los resultados de la fe de Abraham después de su salvación.
-
-##### La simiente física de Abraham (4:18-22)
-
-###### La promesa (4:18): Dios le dijo a Abraham que daría a luz un hijo a través de Sara.
-
-###### El problema (4:19): Abraham y su esposa estéril eran demasiado viejos para esto.
-
-##### La perseverancia (4:20-22): Abraham continuó creyendo en Dios para lo imposible, y ¡Isaac nació!
-
-#### La simiente espiritual de Abraham (4:16-17, 23-25): Todos los judíos y gentiles que ejercen el tipo de fe
-
-##### Abraham tenía, espiritualmente hablando, relacionado con Abraham, a quien se le llama el "padre de todos los que creer".
-
-###  DAVID, EL PADRE REAL DE ISRAEL (4:6-8)
-
-#### Las transgresiones de David (4:6): Fue culpable de adulterio y asesinato (ver 2 Sam. 11:1-24).
-
-#### El testimonio de David (4:7-8): El rey arrepentido fue perdonado, limpiado y justificado por la fe.
-
-## Romanos 4:9-12 Argumento de orden de sucesos: circuncisión como sello, no causa para contar justo. 
+## Romanos 4:9-12 Justificación antes y aparte de la circuncisión
 
 ### Romanos 4:9a "*¿Es, pues, esta bendición...*" Pablo continua con el tema de la bendición que David mencionó en el versículo 6, "*David habla de la bendición que viene sobre el hombre a quien Dios atribuye justicia*". 
 
@@ -3071,7 +3019,19 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 ### Romanos 4:12c "*que tenía nuestro padre Abraham cuando era incircunciso.*"
 
-## Romanos 4:13-17 Promesa es por la fe, no por la ley
+## En Síntesis (4:9-12)
+
+### Pablo aborda directamente el alcance de la justificación.
+
+### Abraham fue justificado **antes** de la circuncisión.
+
+### La circuncisión es una señal, no la causa de la justicia.
+
+### La paternidad de Abraham se define por la fe, no por la etnia.
+
+### La familia de Dios incluye tanto a judíos como a gentiles creyentes.
+
+## Romanos 4:13-15 Promesa no viene por la ley
 
 ### Romanos 4:13a "*Porque la promesa a Abraham o a su descendencia de que él sería heredero del mundo,*" Dios le hizo una promesa a Abraham que él y su descendiente (simiente) heredarían el mundo. 
 
@@ -3117,6 +3077,20 @@ Vemos una lista de contrastes que presenta Romanos:
 
 ### Romanos 4:15b *pero donde no hay ley, tampoco hay transgresión.* La ley muestra transgresión. 
 
+## En Síntesis (4:13-15)
+
+### La promesa hecha a Abraham no fue otorgada por medio de la ley.
+
+### La ley no puede asegurar la promesa; solo produce transgresión.
+
+### Si la herencia dependiera de la ley, la promesa quedaría anulada.
+
+### La gracia es necesaria para que la promesa sea firme.
+
+### La certeza de la promesa descansa en Dios, no en el desempeño humano.
+
+## Romanos 4:16-17 La fe que corresponde a la promesa
+
 ### Romanos 4:16a *Por eso es por fe, para que esté de acuerdo con la gracia,*
 
 #### "*es*" EINAI - (presente, activo, infinitivo) - ser (no hay verbo finito en la construcción larga; se proporciona “es” elíptico)
@@ -3159,17 +3133,29 @@ Vemos una lista de contrastes que presenta Romanos:
 
 #### la gracia (Romanos 4:16).
 
-Gálatas 3:10 Porque todos los que son de las obras de la ley están bajo maldición, pues escrito está: «MALDITO TODO EL QUE NO PERMANECE EN TODAS LAS COSAS ESCRITAS EN EL LIBRO DE LA LEY, PARA HACERLAS».
+#### Gálatas 3:10 *Porque todos los que son de las obras de la ley están bajo maldición, pues escrito está: «MALDITO TODO EL QUE NO PERMANECE EN TODAS LAS COSAS ESCRITAS EN EL LIBRO DE LA LEY, PARA HACERLAS».*
 
-Gálatas 3:11 Y que nadie es justificado ante Dios por la ley es evidente, porque «EL JUSTO VIVIRÁ POR LA FE».
+#### Gálatas 3:11 *Y que nadie es justificado ante Dios por la ley es evidente, porque «EL JUSTO VIVIRÁ POR LA FE».*
 
-Gálatas 3:12 Sin embargo, la ley no se basa en la fe. Al contrario, «EL QUE LAS HACE, VIVIRÁ POR ELLAS».
+#### Gálatas 3:12 *Sin embargo, la ley no se basa en la fe. Al contrario, «EL QUE LAS HACE, VIVIRÁ POR ELLAS».*
 
-Gálatas 3:13 Cristo nos redimió de la maldición de la ley, habiéndose hecho maldición por nosotros, porque escrito está: «MALDITO TODO EL QUE CUELGA DE UN MADERO»,
+#### Gálatas 3:13 *Cristo nos redimió de la maldición de la ley, habiéndose hecho maldición por nosotros, porque escrito está: «MALDITO TODO EL QUE CUELGA DE UN MADERO»,*
 
-Gálatas 3:14 a fin de que en Cristo Jesús la bendición de Abraham viniera a los gentiles, para que recibiéramos la promesa del Espíritu mediante la fe.
+#### Gálatas 3:14 *a fin de que en Cristo Jesús la bendición de Abraham viniera a los gentiles, para que recibiéramos la promesa del Espíritu mediante la fe.*
 
-## Romanos 4:18-22 Fe de Abraham descrito
+## En Síntesis (4:16-17)
+
+### La fe corresponde a la promesa porque ambas operan por gracia.
+
+### Abraham es declarado padre de muchas naciones.
+
+### El objeto de la fe es el Dios que da vida a los muertos.
+
+### La promesa tiene un alcance multinacional.
+
+### La fe mira al poder creador y vivificador de Dios.
+
+## Romanos 4:18-22 Fe de Abraham descrito y la certeza de la promesa
 
 ### Romanos 4:18a *Abraham creyó en esperanza contra esperanza,*
 
@@ -3233,7 +3219,19 @@ Gálatas 3:14 a fin de que en Cristo Jesús la bendición de Abraham viniera a l
 
 #### No se analiza ningún proceso emocional ni psicológico; solo las respuestas observables.
 
-## Romanos 4:23-25 Aplicación a los creyentes actuales
+## En Síntesis (4:18-22)
+
+### La fe de Abraham es descrita, no ordenada.
+
+### Abraham creyó contra toda esperanza visible.
+
+### Las circunstancias no debilitaron la promesa de Dios.
+
+### La fe glorifica a Dios al descansar en Su fidelidad.
+
+### La justicia fue contada a Abraham por confiar en la promesa.
+
+## Romanos 4:23-25 La misma justicia para nosotros
 
 ### Romanos 4:23 *Y no solo por él fue escrito que le fue contada,*
 
@@ -3291,33 +3289,17 @@ Gálatas 3:14 a fin de que en Cristo Jesús la bendición de Abraham viniera a l
 
 ### La acción dominante a lo largo del capítulo es λογίζομαι (logizomai — “acreditar/contar”), realizada repetidamente por Dios.
 
-## En Síntesis (4:13-25)
+## En Síntesis (4:23-25)
 
-### La promesa a Abraham se hizo mediante la justicia de la fe, no mediante la ley (v. 13).
+### Pablo aplica el argumento directamente a los creyentes.
 
-### Si la ley fuera el medio de herencia, tanto la fe como la promesa quedarían vacías de valor (v. 14).
+### La misma justicia acreditada a Abraham es acreditada a nosotros.
 
-### La ley produce ira porque define y expone la transgresión en lugar de asegurar la promesa (v. 15).
+### La fe ahora tiene como objeto a Dios que resucitó a Jesús.
 
-### Fundamentar la promesa en la gracia la hace cierta y garantizada para todos los descendientes de Abraham (v. 16).
+### La justificación está ligada a la obra completa de Cristo.
 
-### Abraham es padre de muchas naciones porque Dios lo declaró y lo estableció como modelo de fe (v. 17).
-
-### La fe de Abraham demuestra confianza en el Dios que da vida a los muertos y llama a la existencia lo que no existe (v. 17).
-
-### Abraham creyó “contra toda esperanza”, a pesar de la muerte de su propio cuerpo y del vientre de Sara (v. 18-19).
-
-### En lugar de flaquear, la fe de Abraham se fortaleció al responder a la promesa de Dios (v. 20).
-
-### Abraham glorificó a Dios al estar plenamente convencido de que Él era capaz de cumplir lo que había prometido (v. 21).
-
-### La fe de Abraham le fue contada por justicia porque confió en la promesa de Dios (v. 22).
-
-### Esta justicia contada no fue escrita solo para Abraham, sino como modelo para todos los creyentes (v. 23-24a).
-
-### La justicia también será contada a quienes creen en el Dios que resucitó a Jesús (v. 24).
-
-### Jesús fue entregado por nuestras transgresiones y resucitado para nuestra justificación, completando así el modelo de fe y promesa (v. 25).
+### Romanos 4 prepara el terreno para la seguridad desarrollada en Romanos 5.
 
 # ROMANOS 5:1-21 UN NUEVO ESTATUS DELANTE DE DIOS
 ### (La justificación cambia completamente la posición del hombre)
