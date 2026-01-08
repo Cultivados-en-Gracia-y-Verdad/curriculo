@@ -1,5 +1,6 @@
 ---
 Title: Romanos 1-8
+
 ---
 
 
@@ -707,6 +708,7 @@ El Poder del Evangelio
 ###### Romanos 3:9-20 - Culpabilidad universal: "*nosotros*", "*todos*" bajo pecado 
 
 ###### Pablo pasa de: "*ellos*" → "*tú*" → "*él*"/"*ellos*" → "*tú*" → "*nosotros*"/"*todos*" para demostrar que **No hay justo, ni siquiera uno**. Romanos 3:10
+
 ### **Romanos 1:18 La ira de Dios es respuesta a la injusticia del hombre**
 
 #### Romanos 1:18a "*Porque la ira de Dios se revela desde el cielo...*" vimos previamente que la justicia de Dios es revelada por medio del evangelio. Ahora, la ira de Dios es revelada desde el cielo. 
@@ -959,7 +961,6 @@ El Poder del Evangelio
 
 #### Romanos 1:30c *insolentes,* HYBRISTAS abusadores arrogantes; aquellos que maltratan a otros por orgullo.  [^1]
 
-
 #### Romanos 1:30d *soberbios,* HYPEREFANOUS orgullosos; con una visión inflada de su propia importancia.  [^1]
 
 #### Romanos 1:30e *jactanciosos,* ALAZONAS pretendientes; aquellos que exageran sus habilidades o logros. [^1]
@@ -969,9 +970,13 @@ El Poder del Evangelio
 #### Romanos 1:30g *desobedientes a los padres,* APEITHEIS negarse a cumplir con la potestad de los padres. [^1] 
 
 #### Romanos 1:31a *sin entendimiento,* ASYNETOS Que carece de entendimiento moral o práctico; necio, insensato. (Sentido: “persona necia” – falta de discernimiento o juicio). [^1]
+
 #### Romanos 1:31b *indignos de confianza,* ASYNTHETOS que no cumplen los acuerdos; infieles o traicioneros. (Sentido: “que rompen una promesa o pacto”). [^1] 
+
 #### Romanos 1:31c *sin amor,* ASTORGOS que carece de amor o afecto familiar normal; insensible. (Sentido: “ausencia de afecto humano natural.”) [^1]
+
 #### Romanos 1:31d *despiadados.* ANELEEMON sin compasión ni piedad; cruel. (Sentido: “que no muestra misericordia ni empatía.”) [^1]
+
 #### Romanos 1:32a "*...Ellos, aunque conocen el decreto de Dios que los que practican tales cosas son dignos de muerte...*" Conocen pero ya no comprenden. No pueden medir las consecuencias porque su razonamiento no tiene objetividad real. Es totalmente según su propia manera de interpretar los hechos. 
 
 ##### Su razonamiento no es falta de conocimiento, es falta de entendimiento. Carecen de entendimiento de la severidad de su situación. El Dios de la Biblia es según su propia cosmovisión y esto afecta toda manera de ver las cosas. 
@@ -988,7 +993,7 @@ El Poder del Evangelio
 
 ### La humanidad suprime la verdad que Dios ya hizo clara en su conciencia y en la creación (Romanos 1:19–20).
 
-####  Esta revelación es:
+#### Esta revelación es:
 
 ##### Universal
 
@@ -996,11 +1001,11 @@ El Poder del Evangelio
 
 ##### Continua
 
-#####  Por lo tanto, el hombre es responsable y no tiene excusa.
+##### Por lo tanto, el hombre es responsable y no tiene excusa.
 
 ### Aunque conocían a Dios, no lo honraron ni dieron gracias (Romanos 1:21).
 
-####  Resultado:
+#### Resultado:
 
 ##### Su razonamiento se volvió vano
 
@@ -1014,21 +1019,21 @@ El Poder del Evangelio
 
 #### Colapso moral y sexual (Romanos 1:24–25)
 
-#####  Impureza, deshonra del cuerpo, idolatría práctica.
+##### Impureza, deshonra del cuerpo, idolatría práctica.
 
 #### Colapso de valores (Romanos 1:26–27)
 
-#####  Pasiones vergonzosas contrarias al diseño natural.
+##### Pasiones vergonzosas contrarias al diseño natural.
 
 #### Colapso de la mente y cosmovisión (Romanos 1:28–32)
 
-#####  Mente depravada que normaliza y aprueba el mal.
+##### Mente depravada que normaliza y aprueba el mal.
 
 #### El resultado es una humanidad llena de toda clase de injusticia, no solo externa sino interna: corrupción moral, egoísmo, violencia, engaño, malicia, odio hacia Dios, ruptura de relaciones, falta de afecto natural y ausencia de misericordia.
 
 #### La tragedia no es falta de revelación sino rechazo de Dios.
 
-#####  El hombre:
+##### El hombre:
 
 ###### Conoce la verdad
 
@@ -1056,7 +1061,7 @@ El Poder del Evangelio
 
 ### Romanos 2:1c "*pues al juzgar a otro a ti mismo te condenas, porque tú que juzgas practicas las mismas cosas.*" Es inexcusable (culpable) el hombre que juzga a otro y hace las mismas cosas. 
 
-####  Al juzgar a otro, esta persona demuestra que sabe el bien que la humanidad no hace. Romanos 2:15
+#### Al juzgar a otro, esta persona demuestra que sabe el bien que la humanidad no hace. Romanos 2:15
 
 ### Romanos 2:2 "*Sabemos que el juicio de Dios justamente cae sobre los que practican tales cosas.*" Dios es perfectamente justo y juzga justamente. El que practica cosas malas será juzgado. 
 
@@ -1068,7 +1073,7 @@ El Poder del Evangelio
 
 ### Romanos 2:3b *tú que condenas a los que practican tales cosas y haces lo mismo, que escaparás del juicio de Dios?*  Pablo se dirige a la persona diréctamente, "tú que condenas..." le pregunta, ¿crees realmente que con juzgar a otro por el mal que ellos hacen escaparás tu del ser juzgado?
 
-###  Pero rápidamente se demostrará que la rendición de cuentas al final no a la vista de los hombres sino ante Dios.
+### Pero rápidamente se demostrará que la rendición de cuentas al final no a la vista de los hombres sino ante Dios.
 
 #### No es suficiente condenar a otro por hacer algo. Para las exigencias de la justicia de Dios, uno mismo tiene que practicar el bien que sabe y exige a otros. Es decir, no es suficiente saber el bien, es necesario hacerlo. 
 
@@ -1202,19 +1207,19 @@ El Poder del Evangelio
 
 ### El hombre moral es igualmente culpable.
 
-####  Aunque condena el pecado en otros, practica lo mismo. Al juzgar, demuestra conocer el bien —y por lo tanto— no tiene excusa ante Dios (2:1–3).
+#### Aunque condena el pecado en otros, practica lo mismo. Al juzgar, demuestra conocer el bien —y por lo tanto— no tiene excusa ante Dios (2:1–3).
 
 ### El juicio de Dios es justo e inescapable.
 
-####  Dios juzga según la verdad, no por comparación entre personas. Nadie escapa por tener estándares morales —solo quien hiciera siempre el bien podría evitar condena (2:2–3).
+#### Dios juzga según la verdad, no por comparación entre personas. Nadie escapa por tener estándares morales —solo quien hiciera siempre el bien podría evitar condena (2:2–3).
 
 ### El hombre moral malinterpreta la paciencia de Dios.
 
-####  Confunde la paciencia divina con aprobación, en lugar de reconocer que la bondad de Dios busca llevarlo a un cambio de mente (metanoia) (2:4).
+#### Confunde la paciencia divina con aprobación, en lugar de reconocer que la bondad de Dios busca llevarlo a un cambio de mente (metanoia) (2:4).
 
 ### Si no cambia su manera de pensar, acumula ira.
 
-####  La terquedad del corazón no arrepentido almacena juicio para el día final, cuando se revelará la justicia perfecta de Dios (2:5).
+#### La terquedad del corazón no arrepentido almacena juicio para el día final, cuando se revelará la justicia perfecta de Dios (2:5).
 
 ### El estándar judicial de Dios es absoluto.
 
@@ -1224,7 +1229,7 @@ El Poder del Evangelio
 
 ### Dios juzga imparcialmente.
 
-####  Judíos y gentiles serán juzgados:
+#### Judíos y gentiles serán juzgados:
 
 ##### Por sus obras
 
@@ -1232,7 +1237,7 @@ El Poder del Evangelio
 
 ### Conclusión:
 
-####  El moralista:
+#### El moralista:
 
 ##### Conoce el bien
 
@@ -1252,7 +1257,7 @@ El Poder del Evangelio
 
 #### No es suficiente pensar el bien, debe hacer el bien. No es suficiente juzgar a lo que no hacen bien, uno debe practicarlo, perseverando hacer el bien. 
 
->#### "*Perseverar*" HYPOMONE es resistencia firme n. - la capacidad de soportar dificultades o estrés; especialmente la fortaleza interior necesaria.
+> #### "*Perseverar*" HYPOMONE es resistencia firme n. - la capacidad de soportar dificultades o estrés; especialmente la fortaleza interior necesaria.
 
 #### Perseverar no es meramente ser sincero, es firmemente resistir. No da la idea de al menos intentar hacer el bien. Establece que se mantiene firme haciendo el bien. Buscan es un verbo en tiempo presente. Buscan continuamente gloria, honor e inmortalidad...siempre hacen el bien. 
 
@@ -1928,9 +1933,9 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 #### Romanos 3:18 *NO HAY TEMOR DE DIOS DELANTE DE SUS OJOS».* Ahora vemos que sus ojos revelan su falta de temor hacia Dios. 
 
-#####  En 3:13–18 Pablo recorre: garganta → lengua → labios → pies → caminos → ojos
+##### En 3:13–18 Pablo recorre: garganta → lengua → labios → pies → caminos → ojos
 
-#####  Es un cuadro totalizante: todo el ser humano (sus miembros) está afectado por el pecado.
+##### Es un cuadro totalizante: todo el ser humano (sus miembros) está afectado por el pecado.
 
 ## Romanos 3:19-20 Propósito y conclusión
 
@@ -2012,7 +2017,7 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 ##### Este esfuerzo (aplaudible o no) solo terminará en fracazo. Nadie será reconocido como justo delante de Dios por hacer obras. Esto puede parecer insensible para el hombre religioso o al moral. Ellos se esmeran en hacer buenas obras para hallar ser hechos aceptables ante Dios. 
 
-###  Romanos 3:20c "*...delante de Él;*" Dios no verá o dejará a nadie en su presencia por cumplir las obras de La Ley. Esto marca donde será rechazada el medio de las obras. Esto es importante reconocer: 
+### Romanos 3:20c "*...delante de Él;*" Dios no verá o dejará a nadie en su presencia por cumplir las obras de La Ley. Esto marca donde será rechazada el medio de las obras. Esto es importante reconocer: 
 
 #### Es Dios quien rechazará justificación a todo ser humano que viene a Él a traves de las obras. La justificación es un hecho imposible ante Dios por medio de las obras. Dios **negará** a todo ser humano la justificación por las obras. 
 
@@ -2032,11 +2037,11 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 ### No hay grupo con ventaja moral ante Dios.
 
-####  Pablo pregunta si “nosotros” (cualquiera que se crea moralmente superior) somos mejores — y responde con un rotundo **no**. Judíos y gentiles por igual están “bajo pecado” (3:9).
+#### Pablo pregunta si “nosotros” (cualquiera que se crea moralmente superior) somos mejores — y responde con un rotundo **no**. Judíos y gentiles por igual están “bajo pecado” (3:9).
 
 ### La Escritura declara universal la injusticia humana.
 
-####  En una cadena de citas (3:10–18), la Biblia afirma que:
+#### En una cadena de citas (3:10–18), la Biblia afirma que:
 
 ##### no hay justo — ni siquiera uno
 
@@ -2048,17 +2053,17 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 ##### nadie hace el bien
 
-####  Esto describe la condición interna del ser humano, no solo su conducta externa.
+#### Esto describe la condición interna del ser humano, no solo su conducta externa.
 
 ### El pecado invade todo el ser.
 
-####  La corrupción sale por la boca (garganta, lengua, labios), se expresa en camino violento (pies, senderos), y termina en falta de temor de Dios (ojos).
+#### La corrupción sale por la boca (garganta, lengua, labios), se expresa en camino violento (pies, senderos), y termina en falta de temor de Dios (ojos).
 
-###  Es una descripción totalizante: el corazón, las palabras, las obras y la visión de la vida están afectados por el pecado.
+### Es una descripción totalizante: el corazón, las palabras, las obras y la visión de la vida están afectados por el pecado.
 
 ### La Ley no absuelve — acusa.
 
-####  Lo que la Ley dice, lo dice a los que están bajo la Ley, para que:
+#### Lo que la Ley dice, lo dice a los que están bajo la Ley, para que:
 
 ##### toda boca sea cerrada
 
@@ -2068,9 +2073,9 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 ### Nadie será justificado por obras de la Ley.
 
-####  Absolutamente nadie será declarado justo delante de Dios por cumplir mandamientos o practicar religión (3:20a).
+#### Absolutamente nadie será declarado justo delante de Dios por cumplir mandamientos o practicar religión (3:20a).
 
-####  La Ley nunca fue dada para justificar, sino para dar conocimiento del pecado (3:20b).
+#### La Ley nunca fue dada para justificar, sino para dar conocimiento del pecado (3:20b).
 
 ### Conclusión final del argumento (1:18–3:20):
 
@@ -2144,7 +2149,7 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 #### ¿De qué son deficientes de alcanzar?
 
-###  Romanos 3:23c "*...la gloria de Dios.*" esta frase genitiva (traducida normalmente "de"). De lo que se quedan cortos es **de** la gloria de Dios. 
+### Romanos 3:23c "*...la gloria de Dios.*" esta frase genitiva (traducida normalmente "de"). De lo que se quedan cortos es **de** la gloria de Dios. 
 
 #### Todos pecaron (completado) . Todos se hicieron culpables.  Todos no alcanzan llegar a la gloria de Dios expresa la acción en el presente. Ambos argumentos apoyan porque no hay distinción. 
 
@@ -2495,33 +2500,49 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 ## En Síntesis (3:21-26)
 
 ### Un giro decisivo en la historia bíblica (Romanos 3:21)
+
 #### Después de mostrar que nadie puede ser justificado por obras de la Ley, Pablo anuncia: “Pero ahora”, la justicia de Dios ha sido manifestada aparte de la Ley, aunque la Ley y los Profetas daban testimonio de ella.
 
 ### La justicia de Dios no se obtiene — se recibe (Romanos 3:22–24)
+
 #### Esta justicia viene por medio de la fe en Jesucristo para todos los que creen, sin distinción, porque todos pecaron y no alcanzan la gloria de Dios, pero son justificados gratuitamente por Su gracia, no por mérito humano.
 
 ### La base de esta justificación es la redención en Cristo Jesús (Romanos 3:24)
+
 #### Cristo paga el precio de nuestra liberación, de modo que la justicia es un regalo inmerecido, no salario ni deuda.
 
 ### Dios presentó públicamente a Cristo como propiciación (Romanos 3:25–26)
+
 #### Cristo es el medio dado por Dios para tratar con el pecado, mediante Su sangre, recibido por fe.
+
 #### Esto demuestra la justicia de Dios: aunque antes había pasado por alto pecados, la cruz revela que Dios nunca dejó de ser justo y ahora justifica al que cree.
 
 ### Resultado: se excluye toda jactancia (Romanos 3:27–31)
+
 #### Nadie puede gloriarse en obras; la justificación es por fe aparte de la Ley.
+
 #### Dios es Dios de judíos y gentiles por igual.
+
 #### La fe no anula la Ley — la confirma señalando su verdadero propósito.
 
 ### Tema central de toda la sección (Romanos 3:21–5:11)
+
 #### La justicia pertenece a Dios
+
 #### Dios la revela
+
 #### Dios provee el medio
+
 #### Dios justifica
+
 #### El hombre solo cree
+
 #### Así, Dios es justo y el que justifica al pecador que confía en Jesús.
 
 ### Conclusión 
+
 #### La salvación no surge del esfuerzo humano, sino del plan, provisión y gracia de Dios manifestada en Cristo.
+
 #### La fe no añade mérito; simplemente recibe lo que Dios ya proveyó.
 
 ## Romanos 3:27-31 
@@ -2611,31 +2632,47 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 ## En Síntesis (3:27-31)
 
 ### La jactancia queda completamente excluida (3:27)
+
 #### No hay lugar para el orgullo humano porque el hombre no contribuye nada a su justificación excepto su pecado.
+
 #### La exclusión de la jactancia no ocurre por medio de obras, sino por el principio de la fe.
 
 ### La justificación es únicamente por fe, aparte de las obras (3:28)
+
 #### Pablo concluye que el hombre es justificado por la fe sin incluir obras de la Ley.
+
 #### Las obras y la gracia son principios mutuamente excluyentes — si hay obra, hay salario; si hay gracia, hay regalo.
+
 #### Por tanto, introducir obras cambia la categoría completa: ya no sería gracia.
 
 ### Dios justifica a todos por el mismo medio — la fe (3:29–30)
+
 #### Dios no es solo Dios de los judíos, sino también de los gentiles.
+
 #### Porque Dios es uno, justifica a judíos y gentiles por el mismo medio: la fe.
+
 #### Nadie tiene una vía especial o distinta hacia la justificación.
 
 ### La fe no anula la Ley — la confirma (3:31)
+
 #### Pablo rechaza la idea de que la fe invalida la Ley.
+
 #### La fe confirma la Ley porque reconoce que la pena exigida por ella fue cumplida en la muerte de Cristo.
+
 #### Así, la justicia que la Ley demanda no es ignorada, sino satisfecha.
 
 ### Idea central del pasaje
+
 #### La fe elimina toda base de jactancia humana.
+
 #### La fe revela la gracia como regalo, no salario.
+
 #### La fe establece a Dios como el único que justifica.
+
 #### La fe honra la Ley al reconocer que Cristo cargó su condena.
 
 ### Conclusión
+
 #### La justificación es por gracia mediante la fe, para toda persona, sin lugar para orgullo humano y sin conflicto con la Ley, porque en Cristo la Ley es plenamente afirmada.
 
 ## Romanos 4:1-3 Abraham justificado por fe
@@ -2651,7 +2688,6 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 ##### Hay ciertas verdades que el creyente debe contar como verdadero, a eso el hombre es responsable de considerarlo, Dios no. Romanos 3:28, 6:11, 8:18
 
 #### Dado que el capítulo es argumentativo e ilustrativo, y no exhortativo, no encontramos ningún imperativo.
-
 
 ### Romanos 4:1a *¿Qué diremos, entonces, que halló Abraham...según la carne* esta pregunta establece el tema que abarca Pablo en todo el capítulo. 
 
@@ -2961,7 +2997,7 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 ##### Abraham tenía, espiritualmente hablando, relacionado con Abraham, a quien se le llama el "padre de todos los que creer".
 
-###  DAVID, EL PADRE REAL DE ISRAEL (4:6-8)
+### DAVID, EL PADRE REAL DE ISRAEL (4:6-8)
 
 #### Las transgresiones de David (4:6): Fue culpable de adulterio y asesinato (ver 2 Sam. 11:1-24).
 
@@ -3397,7 +3433,7 @@ demuestra SUNISTESIN (presente, indicativo)
 
 #### Los tres tiempos de nuestra salvación
 
-![tres fases](https://raw.githubusercontent.com/Cultivados-en-Gracia-y-Verdad/curriculo/9a19b4ea77839f2d5933dabdc1e4dac4c164fe1c/03.%20Romanos%201-8/tres%20fases.png)
+![tres fases](/Users/johnwry/Nextcloud/Documents/GitHub/curriculo/03. Romanos 1-8/tres fases.png)
 
 ## En Síntesis (5:1-11)
 
@@ -3451,13 +3487,13 @@ demuestra SUNISTESIN (presente, indicativo)
 
 ### Romanos 5:12-21 Pablo hace uso de un caístico para ayudarnos en la comprensión.
 
->#### A (5:12) Un hombre → el pecado entra → muerte para todos
+> #### A (5:12) Un hombre → el pecado entra → muerte para todos
 >
->##### B (5:15-17) Contrastes ampliados (don vs. transgresión)
+> ##### B (5:15-17) Contrastes ampliados (don vs. transgresión)
 >
->##### B′ (5:18-19) Contrastes condensados (un acto vs. otro acto)
+> ##### B′ (5:18-19) Contrastes condensados (un acto vs. otro acto)
 >
->#### A′ (5:20-21) La ley entra / se destaca la muerte → la gracia abunda → reina la vida
+> #### A′ (5:20-21) La ley entra / se destaca la muerte → la gracia abunda → reina la vida
 
 ##### A coincide con A′ mediante el vocabulario de «entra» y «reinado».
 
@@ -4309,7 +4345,7 @@ demuestra SUNISTESIN (presente, indicativo)
 
 #### Es interesante notar que no dice a que obedecen sino a quien. La obediencia es constante. Lo que cambia es a quien según a quién uno se presente.  Existen dos amos y solo dos amos:
 
-#####  El Primer personaje (a quien) es "*el pecado*" (genitivo, singular),  un amo cuyo esclavitud conduce a la muerte. La muerte es el resultado de servir a este amo. 
+##### El Primer personaje (a quien) es "*el pecado*" (genitivo, singular),  un amo cuyo esclavitud conduce a la muerte. La muerte es el resultado de servir a este amo. 
 
 ##### El segundo amo es "*la obediencia*" (genitivo, singular). Es un amo cuyo servicio conduce a la justicia.
 
@@ -4351,7 +4387,7 @@ demuestra SUNISTESIN (presente, indicativo)
 
 #### Pablo reconoce y da Gracias a Dios (Él único que puede lograr este milagro) que aquellos que antes existieron como esclavos del pecado hayan obedecido—una vez, de corazón—hacia un patrón específico de enseñanza al cual fueron entregados, con la gramática enfatizando la obediencia completa y la recepción pasiva en lugar de la acción autoiniciada.
 
-###  Romanos 6:17b "*obedientes...a aquella forma de doctrina a la que fueron entregados*"
+### Romanos 6:17b "*obedientes...a aquella forma de doctrina a la que fueron entregados*"
 
 #### La obediencia no se presenta como algo que se desarrolla lentamente. Está ligado al momento en que fueron entregados a un patrón de enseñanza específico. La voz pasiva muestra que esta colocación fue recibida, no iniciada. De modo que la obediencia se produjo en el momento de ser entregados a la enseñanza, no más tarde como un resultado gradual.
 
@@ -5351,7 +5387,7 @@ El contraste cambia de **conflicto interno** a **estado resultante**.
 
 #### Lo conocido se presenta como una realidad continua, no como una promesa futura.
 
-###  Romanos 8:28b "*sabemos...que para los que aman a Dios,*" El autor, Pablo, se incluye en este grupo. ¿Quienes son los que aman a Dios? 
+### Romanos 8:28b "*sabemos...que para los que aman a Dios,*" El autor, Pablo, se incluye en este grupo. ¿Quienes son los que aman a Dios? 
 
 #### Ya que Pablo tampoco amaba perfectamente a Dios, no esta describiendo un grupo de cristianos élite que han alcanzado amar a Dios a la perfección. 
 
@@ -5399,7 +5435,7 @@ El contraste cambia de **conflicto interno** a **estado resultante**.
 
 ### Romanos 8:29a *Porque* "porque" abre la puerta para explicar lo que dijo previamente en el versículo 28.  Veremos a continuación como sucedió con el llamado y como es para Su propósito. 
 
-###  Romanos 8:29b "...*a los que de antemano conoció,*" La explicación del porque empieza con el conocimiento previo de Dios. 
+### Romanos 8:29b "...*a los que de antemano conoció,*" La explicación del porque empieza con el conocimiento previo de Dios. 
 
 #### La Biblia enseña: 
 
@@ -5513,9 +5549,9 @@ La justificación establece el estatus en el que se vive la vida y se mantiene l
 
 ### Ambas expresiones describen al mismo pueblo desde dos perspectivas:
 
-####  - respuesta humana (amar)
+#### - respuesta humana (amar)
 
-####  - acción divina (llamar).
+#### - acción divina (llamar).
 
 ### Los vv. 29–30 explican por qué esta certeza es absoluta.
 
@@ -5525,13 +5561,13 @@ La justificación establece el estatus en el que se vive la vida y se mantiene l
 
 ### A quienes conoció de antemano,
 
-####  - también predestinó a ser conformados a Cristo,
+#### - también predestinó a ser conformados a Cristo,
 
-####  - también llamó,
+#### - también llamó,
 
-####  - también justificó,
+#### - también justificó,
 
-####  - también glorificó.
+#### - también glorificó.
 
 ### La cadena es ininterrumpida - no se pierde nadie en el proceso.
 
@@ -5555,7 +5591,7 @@ La justificación establece el estatus en el que se vive la vida y se mantiene l
 
 #### Pablo hará una serie de preguntas retóricas que anticipa los que todavía dudan y todos pueden ser afirmados. 
 
-####  Si Dios defiende al creyente, ninguna oposición tiene poder por encima de Él.
+#### Si Dios defiende al creyente, ninguna oposición tiene poder por encima de Él.
 
 #### ¿Hay alguna fuerza más grande que Dios?
 
@@ -5565,13 +5601,13 @@ La justificación establece el estatus en el que se vive la vida y se mantiene l
 
 ### Romanos 8:32b *¿cómo no nos dará también junto con Él todas las cosas?* Si Dios no negó en dar a su Hijo por nosotros en el pasado, no seria ilogico hacerlo en vano y dejar que Su Hijo sea sacrificado sin ningún propósito eterno? 
 
-####  Si Dios ya dio lo más valioso, también cuidará del resto.
+#### Si Dios ya dio lo más valioso, también cuidará del resto.
 
 ##### Dios no es indiferente a nuestras necesidades.
 
 ### Romanos 8:33a *¿Quién acusará a los escogidos de Dios?* habrá alguien que puede acusar a los que Dios escogió. Dios nos escogió en Su Hijo antes de la fundación del mundo. Efesios 1:4
 
-####  Nadie porque Dios mismo nos declaró justos.
+#### Nadie porque Dios mismo nos declaró justos.
 
 ##### ¿Quién tiene la última palabra sobre tu identidad?
 
@@ -5621,7 +5657,7 @@ La justificación establece el estatus en el que se vive la vida y se mantiene l
 
 ### Romanos 8:36a *Tal como está escrito: «POR CAUSA TUYA SOMOS PUESTOS A MUERTE TODO EL DÍA;*
 
-####  El sufrimiento ha sido una realidad para el pueblo de Dios.
+#### El sufrimiento ha sido una realidad para el pueblo de Dios.
 
 ##### sufrir no contradice el amor de Dios
 
@@ -5663,7 +5699,7 @@ La justificación establece el estatus en el que se vive la vida y se mantiene l
 
 #### Aunque un creyente pueda alejarse de la comunión con Dios,
 
-####  Jamás puede alejarse de Su amor.
+#### Jamás puede alejarse de Su amor.
 
 #### Incluso el hijo pródigo seguía siendo hijo —y amado— aun estando lejos (Lucas 15:11–32).
 
@@ -5671,13 +5707,14 @@ La justificación establece el estatus en el que se vive la vida y se mantiene l
 
 #### Y como tú también eres una criatura de Dios: Ni siquiera tú mismo puedes romper ese amor.
 
-####  Puedes dejar de amar a Dios…
+#### Puedes dejar de amar a Dios…
 
 #### Pero Él jamás dejará de amarte.
 
 #### La salvación que Él da no es reversible. Romanos 11:29; 1 Pedro 1:23
 
 ### Romanos 8:39e *nos podrá separar del amor de Dios que es en Cristo Jesús Señor nuestro.* Nuestra unión con Cristo garantiza que nada en toda la creación hará que Dios deje de amarnos.
+
 Para que eso ocurriera, Dios tendría que dejar de amar a Su propio Hijo — y eso nunca sucederá.
 
 #### ¿Crees realmente que Dios no dejará de amarte nunca?
@@ -5756,7 +5793,7 @@ ___-___
 [^5]: M. G. Easton, Diccionario bíblico ilustrado y tesoro de historia, biografía, geografía, doctrina y literatura bíblicas (Nueva York: Harper & Brothers, 1893), 588.
 [^6]: John D. Barry et al., eds., «Catacumbas», en The Lexham Bible Dictionary (Bellingham, WA: Lexham Press, 2016).
 [^7]: Faith Alone Journal: https://faithalone.org/journal-articles/repentance-and-salvation-part-3/?utm_source=chatgpt.com
-[^9]:TuVersión | La aplicación de la Biblia | Biblia.com
+[^9]: TuVersión | La aplicación de la Biblia | Biblia.com
 [^10]: *Science Speaks*, 1958
 [^11]: network.crcna.org
 [^12]: James Hope Moulton y George Milligan, The Vocabulary of the Greek Testament (Londres: Hodder and Stoughton, 1930), 663.
