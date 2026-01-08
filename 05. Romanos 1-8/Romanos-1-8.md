@@ -1774,59 +1774,7 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 ## En Síntesis (3:1-8)
 
-### La fidelidad de Dios ante la infidelidad del hombre
-
-#### Pablo continúa el argumento: todos los seres humanos son culpables ante Dios.
-
-#### Ser judío sí tiene ventaja:
-
-##### les fueron confiados los oráculos de Dios.
-
-#### Pero la incredulidad humana no cancela la fidelidad de Dios.
-
-#### Conclusión clave:
-
-##### Dios siempre es veraz
-
-##### todo hombre, mentiroso, si contradice lo que Dios ha dicho.
-
-#### La cita de Salmo 51 muestra:
-
-##### aun cuando el hombre peca,
-
-##### Dios permanece justo, santo y fiel en todo lo que dice y juzga.
-
-#### Algunos objetan:
-
-##### “Si nuestro pecado resalta la justicia de Dios…
-
-##### ¿por qué Dios nos juzga?”
-
-#### Pablo responde:
-
-##### ¡De ningún modo!
-
-##### Si Dios fuera injusto al juzgar,
-
-##### no podría juzgar al mundo.
-
-#### Otros llevan la objeción al extremo:
-
-##### “Hagamos el mal para que venga el bien.”
-
-#### Pablo afirma:
-
-##### esa acusación contra él es calumniosa
-
-##### y la condenación de quienes piensan así es justa.
-
-#### Punto central:
-
-##### La fidelidad y justicia de Dios nunca dependen del hombre.
-
-##### El pecado humano resalta aún más que Dios es fiel pero nunca lo justifica.
-
-## Romanos 3:9-20 Todos bajo pecado y silenciados ante Dios.
+## Romanos 3:9-10 Todos bajo pecado
 
 ### Romanos 3:9a *¿Entonces qué? ¿Somos nosotros mejores que ellos?* Entonces que, nosotros (los lectores) tenemos alguna ventaja? 
 
@@ -1868,10 +1816,6 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 ##### ¿Quién emite este juicio a ser un hecho? No es Pablo, es Dios y ya dejó escrito en las Escrituras...a continuación Pablo citará conclusiones sobre este hecho. 
 
-## Romanos 3:10-18 La Escritura como testimonio 
-
-### **Romanos 3:10-12 La condición interna humana según las Escrituras.** 
-
 #### Romanos 3:10 *Como está escrito: «NO HAY JUSTO, NI AUN UNO;* La Escritura encierra a griegos y judíos y todos en un grupo titulado, "injustos". Toda la humanidad está en ese grupo. 
 
 ##### Al usar un doble negativo "*ni aún uno*" OUK OUDE EIS enfatiza que no hay ni un solo justo.  
@@ -1891,8 +1835,6 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 #### Romanos 3:12c "*NO HAY QUIEN HAGA LO BUENO,*" entre todos no se halló uno solo que haga el bien. 
 
 #### Romanos 3:12d "*NO HAY NI SIQUIERA UNO.*" claramente todos estan en un grupo junto. No hay, ni aun uno, todos, a una, son expresiones para aclarar la misma cosa de distintas formas; todos estan en un grupo llamado "injustos". 
-
-### **Romanos 3:13-14 Expresión verbal según las Escrituras.** 
 
 #### Tres imágenes consecutivas del habla humana para describir la corrupción internta que sale por la boca. La progresión anatómica muestra que todo el aparato del habla está comprometido.
 
@@ -2492,8 +2434,6 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 #### Los tres tiempos de nuestra salvación
 
-![tres fases](https://raw.githubusercontent.com/Cultivados-en-Gracia-y-Verdad/curriculo/9a19b4ea77839f2d5933dabdc1e4dac4c164fe1c/03.%20Romanos%201-8/tres%20fases.png)
-
 ## En Síntesis (3:21-26)
 
 ### Un giro decisivo en la historia bíblica (Romanos 3:21)
@@ -2637,7 +2577,6 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 #### La fe establece a Dios como el único que justifica.
 #### La fe honra la Ley al reconocer que Cristo cargó su condena.
 
-### Conclusión
 #### La justificación es por gracia mediante la fe, para toda persona, sin lugar para orgullo humano y sin conflicto con la Ley, porque en Cristo la Ley es plenamente afirmada.
 
 ## Romanos 4:1-3 Abraham examinado ante Dios
