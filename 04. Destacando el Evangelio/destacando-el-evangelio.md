@@ -8,133 +8,133 @@
 
 ### La palabra griega para ***evangelio*** es *EUANGELION.*&nbsp;
 
-#### La palabra *EUANGELION* puede significar cualquier tipo de buena noticia. Se usa setenta y siete ***veces*** en el Nuevo Testamento.
+#### La palabra *EUANGELION* puede significar cualquier tipo de <u>buena</u> noticia. Se usa setenta y siete ***veces*** en el Nuevo Testamento.
 
-### Los escritores del Nuevo Testamento le dieron un significado ***especial*** a la palabra *EUANGELION*, o evangelio, articulándola (agregando la palabra “*el*” delante de ella).&nbsp;
+### Los escritores del <u>Nuevo</u> Testamento le dieron un significado ***especial*** a la palabra *EUANGELION*, o evangelio, articulándola (agregando la palabra “*el*” delante de ella).&nbsp;
 
-#### En las Escrituras, la palabra *evangelio* llegó a significar ***las*** buenas nuevas de salvación de Dios para toda la humanidad. 
+#### En las Escrituras, la palabra *evangelio* llegó a significar ***las*** buenas nuevas de salvación de Dios para <u>toda</u> la humanidad. 
 
-#### *EUANGELION* describe el mensaje salvador, las *Buenas Nuevas*, que un incrédulo ***debe*** creer para ser salvo (1 Corintios 15:1-4; Gálatas 1:6-9).
+#### *EUANGELION* describe el <u>mensaje</u> salvador, las *Buenas Nuevas*, que un incrédulo ***debe*** creer para ser salvo (1 Corintios 15:1-4; Gálatas 1:6-9).
 
 ## ¿Salvo de qué?
 
-### Implícitamente en el término *salvación* y en el título de Jesús como *Salvador* está que la humanidad necesita ser ***salva***. La pregunta es “¿salva de qué?"
+### Implícitamente en el término *salvación* y en el título de Jesús <u>como</u> *Salvador* está que la humanidad necesita ser ***salva***. La pregunta es “¿salva de qué?"
 
-### En otras palabras, para apreciar verdaderamente *el* evangelio, primero debemos reconocer las malas noticias y la ***necesidad*** del *EUANGELION.*&nbsp;
+### En otras palabras, para <u>apreciar</u> verdaderamente *el* evangelio, primero debemos reconocer las malas noticias y la ***necesidad*** del *EUANGELION.*&nbsp;
 
-#### La mala noticia simplemente es esta: como descendientes de Adán, nacemos ***separados*** de Dios (debido al primer pecado de Adán), y probamos, o demostramos, nuestra posición caída "en Adán" a través de actos personales de pecado. (Salmo 51:5; Romanos 5:12-14; 1 Corintios 15:22).  
+#### La mala noticia simplemente es esta: como descendientes de Adán, nacemos ***separados*** de Dios (debido al primer pecado de Adán), y probamos, o demostramos, nuestra posición <u>caída</u> "en Adán" a través de actos personales de pecado. (Salmo 51:5; Romanos 5:12-14; 1 Corintios 15:22).  
 
-#### La Ley de Moisés fue dada para probar aún más esta verdad y para "cerrar la boca" cada vez que intentamos justificarnos o declararnos justos (Romanos 3:19-20).
+#### La Ley de Moisés fue dada para <u>probar</u> aún más esta verdad y para "cerrar la boca" cada vez que intentamos justificarnos o declararnos justos (Romanos 3:19-20).
 
-#### La Ley de Moisés es implacable y no permite concesiones. Guardar toda la ley, mientras ofende en un solo punto, resulta en condenación (Santiago 2:10).&nbsp;
+#### La Ley de Moisés es implacable y no permite concesiones. Guardar toda la ley, mientras <u>ofende</u> en un solo punto, resulta en condenación (Santiago 2:10).&nbsp;
 
-### ¿Y qué? Sin embargo, ¿no peca todo el mundo? Sí, pero el pecado tiene una ***consecuencia***, que la Biblia describe como *muerte*.
+### ¿Y qué? Sin embargo, ¿no <u>peca</u> todo el mundo? Sí, pero el pecado tiene una ***consecuencia***, que la Biblia describe como *muerte*.
 
-#### La muerte, por definición, es ***separación*** (***consulte el Apéndice 1 - Tipos de muerte***).
+#### La <u>muerte</u>, por definición, es ***separación*** (***consulte el Apéndice 1 - Tipos de muerte***).
 
 #### La consecuencia de la muerte es el resultado de nuestra falta de justicia perfecta y nuestra falta del cumplimiento a la Ley de Dios. Dios debe ***castigar*** a los infractores de la ley.
 
-#### La muerte se describe en Romanos 6:23 como "salario adeudado" o como algo ganado o ***merecido***.
+#### La muerte se describe en Romanos 6:23 como "salario adeudado" o como algo <u>ganado</u> o ***merecido***.
 
-#### Además, esta pena de muerte es una deuda que las personas ***nunca*** pueden pagar por sí mismas.
+#### Además, esta <u>pena</u> de muerte es una deuda que las personas ***nunca*** pueden pagar por sí mismas.
 
-#### Esta *muerte* tiene múltiples niveles. Primero, incluye la muerte física, ya que todo ser humano muere físicamente. En segundo lugar, incluye la muerte ***espiritual***, ya que cada ser humano está separado relacionalmente de Dios al nacer. En tercer lugar, incluye la "***segunda*** muerte", ya que todo ser humano, que muere sin Cristo, será separado de Dios en el Lago de Fuego eternamente (Apocalipsis 20:11-15).&nbsp;
+#### Esta *muerte* tiene múltiples niveles. Primero, incluye la muerte física, ya que todo ser humano muere físicamente. En segundo lugar, incluye la muerte ***espiritual***, ya que cada ser humano está separado relacionalmente de Dios al nacer. En tercer lugar, incluye la "***segunda*** muerte", ya que <u>todo</u> ser humano, que muere sin Cristo, será separado de Dios en el Lago de Fuego eternamente (Apocalipsis 20:11-15).&nbsp;
 
-### Nuestro doble problema (el problema en el que necesitamos ser salvos) se puede resumir como: (1) Tenemos una deuda que no podemos ***pagar***, Y (2) No tenemos la justicia ***perfecta*** necesaria para entrar al Cielo (el lugar perfecto de Dios).&nbsp;
+### Nuestro doble problema (el problema en el que necesitamos ser salvos) se puede resumir como: (1) Tenemos una deuda que no podemos ***pagar***, Y (2) No tenemos la justicia ***perfecta*** necesaria para <u>entrar</u> al Cielo (el lugar perfecto de Dios).&nbsp;
 
 ## **El Evangelio Descrito – Su Capacidad (Romanos 1:16-17)**
 
-### Romanos 1:16-17 — El evangelio es un mensaje poderoso y es el único medio por el cual Dios salva a la humanidad ***pecadora***. Observe que es el evangelio *de Cristo*, no un evangelio hecho por el hombre.
+### Romanos 1:16-17 — El evangelio es un <u>mensaje</u> poderoso y es el único medio por el cual Dios salva a la humanidad ***pecadora***. Observe que es el evangelio *de Cristo*, no un evangelio hecho por el hombre.
 
-#### (vs. 16): *Poder* (dunamis) – la palabra utilizada aquí significa capaz y poderoso, y se centra en heredar la ***capacidad***. Por lo tanto, el evangelio es capaz de proporcionar la salvación que la humanidad necesita.
+#### (vs. 16): *Poder* (dunamis) – la palabra utilizada aquí significa capaz y poderoso, y se <u>centra</u> en heredar la ***capacidad***. Por lo tanto, el evangelio es capaz de proporcionar la salvación que la humanidad necesita.
 
-#### Sin embargo, observe que hay una condición. El evangelio *solo* puede o es capaz de salvar a aquellos que ***creen*** (profundizaremos esto más adelante).
+#### Sin embargo, observe que hay una condición. El evangelio *solo* puede o es <u>capaz</u> de salvar a aquellos que ***creen*** (profundizaremos esto más adelante).
 
-#### (vs. 17): El evangelio es lo que proporciona la justicia de Dios a los pecadores que no lo merecen. Recuerde, ¡no podemos hacer ***nada*** para salvarnos!
+#### (vs. 17): El evangelio es lo que proporciona la <u>justicia</u> de Dios a los pecadores que no lo merecen. Recuerde, ¡no podemos hacer ***nada*** para salvarnos!
 
-### El evangelio es lo ***único*** que se ocupa de nuestro doble problema: (1) una deuda que no podemos pagar, y (2) una justicia perfecta necesaria para entrar al Cielo.
+### El evangelio es lo ***único*** que se ocupa de nuestro doble problema: (1) una <u>deuda</u> que no podemos pagar, y (2) una justicia perfecta necesaria para entrar al Cielo.
 
-### El evangelio es el mensaje objetivo e histórico de lo que Dios ya ha ***hecho*** para salvarnos de Su justa ira (nuestra deuda) y proporcionarnos una justicia que nunca podríamos obtener por nosotros mismos, permitiéndonos vivir eternamente con Él.
+### El evangelio es el mensaje <u>objetivo</u> e histórico de lo que Dios ya ha ***hecho*** para salvarnos de Su justa ira (nuestra deuda) y proporcionarnos una justicia que nunca podríamos obtener por nosotros mismos, permitiéndonos vivir eternamente con Él.
 
-### El evangelio no es un método subjetivo de "cómo hacerlo" para mover, empujar o manipular a las personas a través de un ***proceso*** de salvación. No implica algo que debas hacer o seguir haciendo en el futuro.&nbsp;
+### El evangelio no es un método subjetivo de "cómo hacerlo" para mover, empujar o manipular a las personas a través de un ***proceso*** de salvación. No implica <u>algo</u> que debas hacer o seguir haciendo en el futuro.&nbsp;
 
 ## El Evangelio Explicado – Los Mínimos Irreducibles (1 Corintios 15:1-8)**
 
-### La frase *mínimos irreducibles* describe los ingredientes mínimos que ***debe*** tener para un producto terminado. Por ejemplo, para tener un sándwich de mantequilla de maní y mermelada, sus mínimos irreductibles son pan, mantequilla de maní y mermelada. Sin ninguno de estos, no tienes un sándwich de mantequilla de maní y mermelada. 
+### La frase *mínimos irreducibles* describe los ingredientes mínimos que ***debe*** tener para un producto terminado. Por ejemplo, para tener un sándwich de mantequilla de maní y mermelada, sus mínimos irreductibles son pan, mantequilla de maní y mermelada. Sin ninguno de estos, no <u>tienes</u> un sándwich de mantequilla de maní y mermelada. 
 
-### El evangelio (*Euangelion)* también tiene mínimos irreducibles. Esos mínimos irreducibles del mensaje del evangelio se pueden resumir en ***dos*** "ingredientes" principales:&nbsp;
+### El evangelio (*Euangelion)* también tiene mínimos irreducibles. Esos mínimos irreducibles del mensaje del <u>evangelio</u> se pueden resumir en ***dos*** "ingredientes" principales:&nbsp;
 
-#### Las buenas nuevas de una sola ***Persona***: el Dios-hombre, Jesucristo.
+#### Las <u>buenas</u> nuevas de una sola ***Persona***: el Dios-hombre, Jesucristo.
 
-#### Las buenas nuevas se refieren a una ***obra***: el evento real, histórico y verificable de la muerte y resurrección de Jesucristo.
+#### Las buenas nuevas se refieren a una ***obra***: el evento real, histórico y verificable de la <u>muerte</u> y resurrección de Jesucristo.
 
 ### La persona – Dos componentes (completamente Dios y completamente Hombre)&nbsp;
 
-#### Cristo es la traducción griega de la palabra hebrea Mesías (Juan 7:41).
+#### Cristo es la traducción <u>griega</u> de la palabra hebrea Mesías (Juan 7:41).
 
-#### El Cristo/Mesías sería un ser ***humano.*** (Romanos 1:3, 9:5).
+#### El Cristo/Mesías <u>sería</u> un ser ***humano.*** (Romanos 1:3, 9:5).
 
-#### El Mesías es la Persona (***Simiente*** de la mujer) quien fue prometido para que algún día resolviera el doble problema de la humanidad desde el Jardín del Edén, donde se nos da el *primer* vistazo del evangelio (Génesis 3:15).
+#### El Mesías es la Persona (***Simiente*** de la mujer) quien fue prometido para que algún día resolviera el <u>doble</u> problema de la humanidad desde el Jardín del Edén, donde se nos da el *primer* vistazo del evangelio (Génesis 3:15).
 
-#### El Cristo sería la ***Deidad*.** Cristo sería Dios residiendo con nosotros (Isaías 7:14; Romanos 1:4).
+#### El Cristo sería la ***Deidad*.** Cristo sería <u>Dios</u> residiendo con nosotros (Isaías 7:14; Romanos 1:4).
 
-#### ¿Por qué es importante Su Persona? Parte del problema de la humanidad era la pena de muerte. El Cristo tenía que ser verdaderamente humano para ***morir***, y tenía que ser divino para que su muerte contara para los ***demás***.&nbsp;
+#### ¿Por qué es importante Su Persona? Parte del problema de la humanidad era la pena de muerte. El Cristo tenía que ser verdaderamente humano para ***morir***, y tenía que ser divino para que su <u>muerte</u> contara para los ***demás***.&nbsp;
 
 ### Su Obra – Dos componentes (muerte y resurrección)
 
-#### Cristo ***murió*** por nuestros pecados. Cristo sufrió muerte espiritual, eterna y física. Pagó la pena de muerte en toda su plenitud. ***Prueba*** de su muerte
+#### Cristo ***murió*** por nuestros pecados. Cristo sufrió muerte espiritual, eterna y física. Pagó la <u>pena</u> de muerte en toda su plenitud. ***Prueba*** de su muerte
 
-##### Según las ***Escrituras*** ... tal como Dios dijo que sucedería (Salmo 22:17-18; 69:11; Isaías 53:3-6; Daniel 9:26; Zacarías 12:10; Lucas 24:46).
+##### Según las ***Escrituras*** ... tal como Dios <u>dijo</u> que sucedería (Salmo 22:17-18; 69:11; Isaías 53:3-6; Daniel 9:26; Zacarías 12:10; Lucas 24:46).
 
-##### Fue ***enterrado***. No entierras a los vivos.
+##### Fue ***enterrado***. No entierras a los <u>vivos</u>.
 
 #### Cristo resucitó al ***tercer*** día.
 
 ##### ***Prueba*** de su resurrección&nbsp;
 
-###### Según las ***Escrituras***, tal como Dios dijo que sucedería (Salmo 16:8-11; Job 19:25-26; Isaías 25:8; 53:10).
+###### Según las ***Escrituras***, tal como Dios <u>dijo</u> que sucedería (Salmo 16:8-11; Job 19:25-26; Isaías 25:8; 53:10).
 
 ###### Fue ***visto***. El Cristo resucitado fue visto por muchos testigos.&nbsp;
 
-###### ***Pedro,*** uno de sus amigos más cercanos y probablemente uno de los cristianos más conocidos de todos los tiempos (v. 5a).
+###### ***Pedro,*** uno de sus amigos más cercanos y probablemente uno de los cristianos más conocidos de <u>todos</u> los tiempos (v. 5a).
 
-###### Los ***doce*** discípulos que todavía dudaban. Aunque en ese momento, Judas estaba muerto, y solo había once discípulos, corporativamente todavía se les llamaba los doce (v. 5b).
+###### Los ***doce*** discípulos que todavía dudaban. Aunque en ese momento, <u>Judas</u> estaba muerto, y solo había once discípulos, corporativamente todavía se les llamaba los doce (v. 5b).
 
-###### Se apareció a más de ***500*** personas en un evento, la mayoría de las cuales todavía estaban vivas en el momento en que Pablo escribió. Si alguien quisiera entrevistar a estos testigos oculares en persona, podría haberlo hecho (vs. 6).
+###### Se apareció a más de ***500*** personas en un <u>evento</u>, la mayoría de las cuales todavía estaban vivas en el momento en que Pablo escribió. Si alguien quisiera entrevistar a estos testigos oculares en persona, podría haberlo hecho (vs. 6).
 
-###### Santiago, el ***medio*** hermano de Cristo, lo vio después de la resurrección, y todos saben que los hermanos se conocen entre sí. Alguien que creció contigo puede confirmar fácilmente quién eres o identificarte como un fraude (vs. 7a).
+###### Santiago, el ***medio*** hermano de Cristo, lo vio después de la resurrección, y todos saben que los hermanos se conocen entre sí. Alguien que creció contigo puede confirmar fácilmente quién eres o identificarte como un <u>fraude</u> (vs. 7a).
 
-###### Los ***apóstoles***, aquellos a quienes Él personalmente comisionó para compartir los hechos de Su muerte y resurrección con el resto del mundo, vieron al Cristo resucitado (v. 7b).
+###### Los ***apóstoles***, aquellos a quienes Él personalmente comisionó para compartir los <u>hechos</u> de Su muerte y resurrección con el resto del mundo, vieron al Cristo resucitado (v. 7b).
 
-###### El apóstol ***Pablo*** vio al Cristo resucitado. Había sido un blasfemo y destructor de la Iglesia, pero vio al Cristo resucitado y creyó (vs. 8-10).&nbsp;
+###### El apóstol ***Pablo*** vio al Cristo resucitado. Había sido un blasfemo y destructor de la Iglesia, pero vio al Cristo resucitado y <u>creyó</u> (vs. 8-10).&nbsp;
 
-#### Por lo tanto, los mínimos irreductibles del *Euangelion son la* Persona ***de Cristo*** (Él es Dios y Él es hombre) y la obra de Cristo (Él murió por nuestros pecados y resucitó al tercer día).
+#### Por lo tanto, los mínimos irreductibles del *Euangelion son la* Persona ***de Cristo*** (Él es Dios y Él es hombre) y la <u>obra</u> de Cristo (Él murió por nuestros pecados y resucitó al tercer día).
 
 ## **E. La respuesta requerida del hombre – Fe**
 
-### ¿Qué respuesta se ***requiere*** del hombre para ser salvo si la obra objetiva, histórica y verificable de Cristo ya se ha cumplido?
+### ¿Qué respuesta se ***requiere*** del hombre para ser <u>salvo</u> si la obra objetiva, histórica y verificable de Cristo ya se ha cumplido?
 
-### Según las Escrituras, solo se requiere una respuesta del hombre. Y esa es solamente ***fe*** en Cristo
+### Según las Escrituras, solo se requiere <u>una</u> respuesta del hombre. Y esa es solamente ***fe*** en Cristo
 
-#### Hay ***160*** versículos en el Nuevo Testamento que describen la fe o la creencia en Cristo como el único requisito previo para la salvación (***Ver Apéndice 2 – "160 Versículos").***
+#### Hay ***160*** versículos en el Nuevo Testamento que describen la fe o la creencia en Cristo como el <u>único</u> requisito previo para la salvación (***Ver Apéndice 2 – "160 Versículos").***
 
 #### Hechos 16:30-31; Juan 6:47; Juan 8:24; Juan 11:25-26; Juan 20:30-31
 
 ### ¿Qué es la fe bíblica?
 
-#### Las palabras griegas *pistis* (sustantivo) y *pisteuo* (verbo) significan literalmente creer, ***confiar***, descansar o tener fe.
+#### Las palabras griegas *pistis* (sustantivo) y *pisteuo* (verbo) significan literalmente creer, ***confiar***, <u>descansar</u> o tener fe.
 
-#### *Creer* es un verbo, y requiere un sujeto (alguien que hace la confianza) y un ***objeto*** (algo o alguien en quien confiar).
+#### *Creer* es un <u>verbo</u>, y requiere un sujeto (alguien que hace la confianza) y un ***objeto*** (algo o alguien en quien confiar).
 
-#### El valor de la fe de uno se basa únicamente en el ***valor*** o la ***capacidad*** del objeto en el que uno confía (Jeremías 17:5-8).
+#### El valor de la fe de uno se <u>basa</u> únicamente en el ***valor*** o la ***capacidad*** del objeto en el que uno confía (Jeremías 17:5-8).
 
-#### La fe comienza al ***escuchar*** la Palabra de Dios (Juan 5:24; Romanos 10:13-17).
+#### La fe comienza al ***escuchar*** la Palabra de <u>Dios</u> (Juan 5:24; Romanos 10:13-17).
 
-#### La fe está excluida de la categoría de obras por las Escrituras (Romanos 4:4-5).
+#### La fe está excluida de la categoría de <u>obras</u> por las Escrituras (Romanos 4:4-5).
 
-#### Dado que la fe no es meritoria ni es una especie de obra, es ***consistente*** por la gracia de Dios (Efesios 2:8-9; Romanos 11:6).
+#### Dado que la fe no es meritoria ni es una especie de obra, es ***consistente*** por la <u>gracia</u> de Dios (Efesios 2:8-9; Romanos 11:6).
 
-#### Dado que la fe no es una ***obra***, en el momento en que crees en Cristo, la salvación viene como un ***regalo***, y entonces toda la gloria va a Dios (Romanos 4:20; Efesios 2:8-9).
+#### Dado que la fe no es una ***obra***, en el momento en que <u>crees</u> en Cristo, la salvación viene como un ***regalo***, y entonces toda la gloria va a Dios (Romanos 4:20; Efesios 2:8-9).
 
 # Clichés de respuesta al evangelio – (#1) Cree y confiesa tus pecados y (#2) Entrega tu corazón (o vida) a Dios
 
@@ -142,341 +142,341 @@
 
 ## **Reseña rápida**&nbsp;
 
-### El doble problema de la humanidad se resume en: (1) Tenemos una ***deuda*** que no podemos pagar (muerte), y (2) no tenemos *la* justicia ***perfecta*** necesaria para entrar al Cielo (el lugar perfecto de Dios).
+### El doble problema de la humanidad se resume en: (1) Tenemos una ***deuda*** que no podemos <u>pagar</u> (muerte), y (2) no tenemos *la* justicia ***perfecta*** necesaria para entrar al Cielo (el lugar perfecto de Dios).
 
-### El evangelio es lo *único* que se ocupa de nuestro ***doble*** problema. El evangelio es la *única* ***solución***.
+### El evangelio es lo *único* que se <u>ocupa</u> de nuestro ***doble*** problema. El evangelio es la *única* ***solución***.
 
-### El evangelio es el mensaje objetivo e histórico de lo que Dios ***ya ha*** hecho para salvarnos de Su justa ira (nuestra deuda) y proporcionarnos una justicia que nunca podríamos obtener por nosotros mismos, permitiéndonos así vivir eternamente con Él.
+### El evangelio es el mensaje objetivo e histórico de lo que Dios ***ya ha*** <u>hecho</u> para salvarnos de Su justa ira (nuestra deuda) y proporcionarnos una justicia que nunca podríamos obtener por nosotros mismos, permitiéndonos así vivir eternamente con Él.
 
-### Entonces, ¿qué hizo Dios exactamente? Él envió a Su Hijo Jesucristo (completamente Dios y completamente hombre) para ***morir*** por nuestros pecados y ***resucitar*** .
+### Entonces, ¿qué hizo Dios exactamente? Él envió a Su Hijo Jesucristo (completamente Dios y completamente hombre) para ***morir*** por <u>nuestros</u> pecados y ***resucitar*** .
 
-### Según las Escrituras, solo se requiere una respuesta de la humanidad. Es solo ***fe*** en Cristo. Esto es simplemente tomar lo que Dios dice en Su palabra y confiar en Su ***solución*** (Cristo y Su obra terminada) para nuestra salvación.&nbsp;
+### Según las Escrituras, solo se requiere una respuesta de la humanidad. Es solo ***fe*** en Cristo. Esto es simplemente tomar lo que Dios dice en Su palabra y <u>confiar</u> en Su ***solución*** (Cristo y Su obra terminada) para nuestra salvación.&nbsp;
 
 ## **¿Cuáles son las falsas condiciones para la salvación?**&nbsp;
 
-### Muchas personas hoy en día tienen la extraña costumbre de sincretizar diferentes respuestas al evangelio. Este es un intento de unir o armonizar piezas de información, incluso si son ***contradictorias*** o tienen significados diferentes.
+### Muchas personas hoy en día tienen la extraña costumbre de sincretizar diferentes respuestas al evangelio. Este es un intento de unir o armonizar <u>piezas</u> de información, incluso si son ***contradictorias*** o tienen significados diferentes.
 
-### Es por eso que es sumamente esencial examinar lo que la Biblia dice que es la respuesta adecuada al evangelio, conociendo nuestra propia tendencia natural a sincretizar muchos clichés falsos de respuesta al evangelio.
+### Es por eso que es sumamente esencial examinar lo que la Biblia dice que es la respuesta adecuada al evangelio, conociendo nuestra propia tendencia natural a sincretizar <u>muchos</u> clichés falsos de respuesta al evangelio.
 
-### En realidad, es cuando comienzas a determinar lo que el evangelio ***no** es* o cuando identificas clichés comunes de respuestas cristianas que muchas personas a menudo ***no están*** de acuerdo. Sin embargo, ¡también es cuando otros comienzan a recibir y disfrutar de una ***claridad*** más profunda!
+### En realidad, es cuando comienzas a determinar lo que el evangelio ***no** es* o cuando identificas clichés <u>comunes</u> de respuestas cristianas que muchas personas a menudo ***no están*** de acuerdo. Sin embargo, ¡también es cuando otros comienzan a recibir y disfrutar de una ***claridad*** más profunda!
 
-### El apóstol Pablo no tuvo ningún problema en declarar ***cuál*** es *la respuesta al evangelio* y lo que *no es el evangelio.* Vaya a Efesios 2:8-9 (Ver también Romanos 4:5; Gálatas 2:16).&nbsp;
+### El apóstol Pablo no tuvo <u>ningún</u> problema en declarar ***cuál*** es *la respuesta al evangelio* y lo que *no es el evangelio.* Vaya a Efesios 2:8-9 (Ver también Romanos 4:5; Gálatas 2:16).&nbsp;
 
-#### Con respecto a lo que ***es**:* La salvación es por ***gracia***, y es a través de la fe. ¡También se describe como un regalo!
+#### Con respecto a lo que ***es**:* La salvación es por ***gracia***, y es a través de la fe. ¡También se describe como un <u>regalo</u>!
 
-#### Con respecto a lo que ***no** es*: La salvación ***no** es* de ***nosotros***, y ***no** es* por obras. **No** es para tu gloria, "para que nadie se gloríe" (Efesios 2:9).
+#### Con respecto a lo que ***no** es*: La salvación ***no** es* de ***nosotros***, y ***no** es* por obras. **No** es <u>para</u> tu gloria, "para que nadie se gloríe" (Efesios 2:9).
 
-#### Esto aporta ***claridad*** a la respuesta requerida por la humanidad al evangelio: ¡saber lo que *es* y lo que *no es*!
+#### Esto <u>aporta</u> ***claridad*** a la respuesta requerida por la humanidad al evangelio: ¡saber lo que *es* y lo que *no es*!
 
-#### La salvación no puede ser la obra de Cristo y la nuestra al ***mismo*** tiempo. No puede ser 99% Cristo y 1% nosotros. Desafortunadamente, muchos clichés utilizados hoy en día requieren algún tipo de obra nuestra para salvarnos.
+#### La salvación no puede ser la obra de Cristo y la nuestra al ***mismo*** tiempo. No puede ser 99% Cristo y 1% nosotros. Desafortunadamente, muchos clichés utilizados hoy en día requieren algún tipo de <u>obra</u> nuestra para salvarnos.
 
-#### O confiamos únicamente en la obra de Cristo o únicamente en ***nosotros*** mismos; no hay término medio (Isaías 42:8; Hechos 4:10-12; Romanos 4:5).&nbsp;
+#### O confiamos únicamente en la obra de Cristo o únicamente en ***nosotros*** mismos; no hay término <u>medio</u> (Isaías 42:8; Hechos 4:10-12; Romanos 4:5).&nbsp;
 
-### Recuerde, la respuesta correcta al evangelio ***no** se* basa en una respuesta o sentimiento emocional. Se basa en una respuesta de fe a un mensaje objetivo basado en ***hechos*** históricos y verificables.
+### Recuerde, la respuesta correcta al evangelio ***no** se* basa en una respuesta o sentimiento emocional. Se <u>basa</u> en una respuesta de fe a un mensaje objetivo basado en ***hechos*** históricos y verificables.
 
-### El evangelio ***no*** es algo que sucede en nuestros corazones, y no es una experiencia que tenemos. Es algo que le sucedió a Jesucristo hace ***2.000*** años (dio su vida por nosotros).&nbsp;
+### El evangelio ***no*** es algo que sucede en nuestros corazones, y no es una experiencia que tenemos. Es algo que le sucedió a Jesucristo hace ***2.000*** <u>años</u> (dio su vida por nosotros).&nbsp;
 
 ## Preparandonos para los clichés confusos&nbsp;
 
-### Juan 19:30 — Cuando Jesús dijo: *"Consumado es* (*Tetelestai*)", quiso decir que todo había sido resuelto en términos de nuestro ***doble*** problema. Nuestra deuda había sido pagada, y la justicia de Dios pudo ser acreditada en nuestras cuentas.
+### Juan 19:30 — Cuando Jesús dijo: *"Consumado es* (*Tetelestai*)", quiso decir que todo había sido resuelto en términos de nuestro ***doble*** problema. Nuestra <u>deuda</u> había sido pagada, y la justicia de Dios pudo ser acreditada en nuestras cuentas.
 
-### De hecho, la palabra griega *Tetelestai* (traducida como "Consumado es") tiene ***múltiples*** significados en griego, y cada uno tiene un valioso significado.&nbsp;
+### De hecho, la palabra griega *Tetelestai* (traducida como "Consumado es") tiene ***múltiples*** significados en <u>griego</u>, y cada uno tiene un valioso significado.&nbsp;
 
-#### "La deuda ha sido ***pagada***". Esta palabra se ha encontrado en las facturas y recibos pagados en el primer siglo, cuando uno hacía su pago final. 
+#### "La deuda ha sido ***pagada***". Esta palabra se ha encontrado en las facturas y recibos pagados en el <u>primer</u> siglo, cuando uno hacía su pago final. 
 
-#### "El ***cordero*** del sacrificio ha sido encontrado". Esta palabra fue utilizada por aquellos grupos que buscaban un cordero aceptable e inmaculado en los campos para los sacrificios de la Pascua. 
+#### "El ***cordero*** del sacrificio ha sido encontrado". Esta palabra fue utilizada por aquellos grupos que buscaban un cordero aceptable e inmaculado en los <u>campos</u> para los sacrificios de la Pascua. 
 
-#### "El trabajo que me diste para hacer se ha ***completado***". Esta palabra fue utilizada por los sirvientes para informar a sus amos o figuras de autoridad que su tarea se había completado.
+#### "El trabajo que me diste para hacer se ha ***completado***". Esta palabra fue utilizada por los sirvientes para informar a sus amos o <u>figuras</u> de autoridad que su tarea se había completado.
 
-#### Jesucristo, al usar esta ***palabra*** , dijo literalmente: "Amado Padre, la deuda ha sido pagada, el Cordero sacrificial ha sido hallado, y la obra que me diste para hacer ha sido completada".
+#### Jesucristo, al usar esta ***palabra*** , dijo literalmente: "Amado Padre, la deuda ha sido pagada, el Cordero sacrificial ha sido hallado, y la obra que me <u>diste</u> para hacer ha sido completada".
 
 ###  Al mirar los clichés, tome nota de las siguientes cosas:
 
-#### ¿Son las respuestas/clichés del evangelio ***sinónimos*** de fe, confianza, creencia o confianza?
+#### ¿Son las respuestas/clichés del evangelio ***sinónimos*** de fe, confianza, <u>creencia</u> o confianza?
 
-#### ¿Alguna de las respuestas/clichés del evangelio se ocupa de la ***pena*** por el pecado (muerte)? (***Ver Apéndice 3 – Sin derramamiento de sangre***).
+#### ¿Alguna de las respuestas/clichés del evangelio se <u>ocupa</u> de la ***pena*** por el pecado (muerte)? (***Ver Apéndice 3 – Sin derramamiento de sangre***).
 
-#### ¿Las respuestas/clichés del evangelio mantienen el ***foco*** en Jesucristo y Su obra terminada para ti, o ponen el foco en ti, y algo que debes hacer para ser salvo?
+#### ¿Las respuestas/clichés del evangelio mantienen el ***foco*** en Jesucristo y Su obra terminada para ti, o ponen el <u>foco</u> en ti, y algo que debes hacer para ser salvo?
 
-#### ¿Las respuestas/clichés del evangelio agregan una condición ***adicional*** a la única condición bíblica de la fe?&nbsp;
+#### ¿Las respuestas/clichés del evangelio agregan una condición ***adicional*** a la <u>única</u> condición bíblica de la fe?&nbsp;
 
 ## Cliché de respuesta al evangelio \# 1: Cree y confiesa tus pecados.&nbsp;
 
-### Ahora, *la confesión de pecado* es un concepto bíblico, pero *no es* un ***requisito*** para la salvación. Una persona ***no** está* obligada a confesar sus pecados para ser salva.
+### Ahora, *la confesión de pecado* es un concepto bíblico, pero *no es* un ***requisito*** para la salvación. Una persona ***no** está* obligada a confesar sus pecados para ser <u>salva</u>.
 
-### A menudo, muchas personas agrupan las siguientes frases: "Confiesa tus pecados", "Arrepiéntete de tus pecados" y "Pide perdón". La gente tiende a hacer esto porque piensa que todas estas frases comunican lo ***mismo***. Sin embargo, como veremos, no lo hacen.
+### A menudo, muchas personas agrupan las siguientes frases: "Confiesa tus pecados", "Arrepiéntete de tus pecados" y "Pide perdón". La gente tiende a hacer esto porque <u>piensa</u> que todas estas frases comunican lo ***mismo***. Sin embargo, como veremos, no lo hacen.
 
 ### Algunos malentendidos comunes de la frase, “*confiesa tus pecados*” son los siguientes:&nbsp;
 
-#### Primero, muchos te enseñarán que debes recordar y confesar todos tus pecados para ser salvo. Sin embargo, sería imposible ***recordar*** todos los pecados que hayas cometido. ¡La mayoría de nosotros ni siquiera podemos recordar lo que cenamos anoche!&nbsp;
+#### Primero, muchos te enseñarán que debes recordar y confesar todos tus pecados para ser salvo. Sin embargo, sería imposible ***recordar*** todos los pecados que hayas cometido. ¡La mayoría de nosotros ni siquiera podemos recordar lo que cenamos <u>anoche</u>!&nbsp;
 
-##### Matemáticas de la confesión: Si tuvieras un promedio de tres pecados por ***día*** durante toda tu vida, equivaldría a 1,095 pecados por año. Si vivieras hasta los ochenta años, significaría que tendrías que confesar los 87.600 pecados para asegurar tu salvación.
+##### Matemáticas de la confesión: Si tuvieras un promedio de tres pecados por ***día*** durante toda tu vida, equivaldría a 1,095 pecados por año. Si vivieras <u>hasta</u> los ochenta años, significaría que tendrías que confesar los 87.600 pecados para asegurar tu salvación.
 
-##### Por lo tanto, tu salvación ya no se basaría en el Portador de Pecados (Jesucristo), quien pagó el castigo por todos tus pecados, sino que se basaría en tu ***memoria*** y capacidad para recordar y confesar cada pecado que hayas cometido.
+##### Por lo tanto, tu salvación ya no se basaría en el Portador de Pecados (Jesucristo), quien pagó el castigo por todos tus pecados, sino que se basaría en tu ***memoria*** y capacidad para recordar y confesar <u>cada</u> pecado que hayas cometido.
 
-##### Segundo, debido a este tipo de presión sobre uno mismo para recordar, la comprensión de este método invitaría a una introspección desconcertante. Una persona que creyera esto nunca estaría segura de su salvación por temor a haber ***olvidado*** algún pecado.
+##### Segundo, debido a este tipo de presión sobre uno mismo para recordar, la comprensión de este método invitaría a una introspección desconcertante. Una persona que creyera esto nunca estaría segura de su salvación por <u>temor</u> a haber ***olvidado*** algún pecado.
 
-### Como se discutió anteriormente, la respuesta bíblica al evangelio es solo la fe en la obra terminada de Cristo. Por lo tanto, los individuos serán condenados al Lago de Fuego, no porque no confesaron todos sus pecados, sino porque no ***creyeron*** en el Señor JESUCRISTO, QUIEN YA HABÍA PAGADO POR TODOS SUS PECADOS (Juan 3:18).
+### Como se discutió anteriormente, la respuesta bíblica al evangelio es solo la fe en la obra terminada de Cristo. Por lo tanto, los individuos serán condenados al Lago de Fuego, no porque no confesaron <u>todos</u> sus pecados, sino porque no ***creyeron*** en el Señor JESUCRISTO, QUIEN YA HABÍA PAGADO POR TODOS SUS PECADOS (Juan 3:18).
 
-#### Considere algunos de los pasajes bíblicos que usan la palabra *confesar,* y observe cómo a menudo se usan para promover este malentendido (Romanos 10:9-10; 1 Juan 1:9).&nbsp;
+#### Considere algunos de los pasajes bíblicos que usan la palabra *confesar,* y observe cómo a menudo se <u>usan</u> para promover este malentendido (Romanos 10:9-10; 1 Juan 1:9).&nbsp;
 
-##### Antes de pasar a esos pasajes, consideremos primero el significado de la palabra griega traducida *confesar*. La palabra es una palabra compuesta (***homologeo**),* y se deriva de dos palabras raíz: *homo,* que significa lo ***mismo***, y *logeo,* que significa decir.&nbsp;
+##### Antes de pasar a esos pasajes, consideremos primero el significado de la palabra griega traducida *confesar*. La palabra es una palabra compuesta (***homologeo**),* y se <u>deriva</u> de dos palabras raíz: *homo,* que significa lo ***mismo***, y *logeo,* que significa decir.&nbsp;
 
-##### Literalmente, la palabra *confesar* significa decir lo mismo o estar de ***acuerdo*** con ello.
+##### Literalmente, la palabra *confesar* significa decir lo <u>mismo</u> o estar de ***acuerdo*** con ello.
 
-##### La palabra no requiere que las ***emociones*** (llorar o sentir remordimiento) estén presentes. La palabra ***no** es* ***sinónimo*** de la palabra *pedir o hacer*. La palabra, en sí misma, no tiene nada que ver con el ***pecado***.&nbsp;
+##### La palabra no requiere que las ***emociones*** (llorar o sentir remordimiento) estén presentes. La palabra ***no** es* ***sinónimo*** de la palabra *pedir o hacer*. La palabra, en sí misma, no <u>tiene</u> nada que ver con el ***pecado***.&nbsp;
 
-#### Romanos 10:9-10 es un pasaje que cubriremos con más detalle en un cliché posterior de la respuesta al evangelio, pero, por ahora, es fácil ver por el contexto que el "pecado" ***no*** es lo que se confiesa en este pasaje.&nbsp;
+#### Romanos 10:9-10 es un pasaje que cubriremos con más detalle en un cliché posterior de la respuesta al evangelio, pero, por ahora, es fácil ver por el contexto que el "pecado" ***no*** es lo que se confiesa en este <u>pasaje</u>.&nbsp;
 
-#### Claramente, lo que se confiesa en Romanos 10:9 es "el ***Señor Jesús***", ***no*** el pecado. Entonces, ¿qué significa esto?
+#### Claramente, lo que se <u>confiesa</u> en Romanos 10:9 es "el ***Señor Jesús***", ***no*** el pecado. Entonces, ¿qué significa esto?
 
-#### La palabra *Señor* (***kurios***) tiene un significado general de señor, maestro, dueño o señor. Es genéricamente un título de ***respeto***.&nbsp;
+#### La palabra *Señor* (***kurios***) tiene un significado general de señor, maestro, dueño o señor. Es genéricamente un <u>título</u> de ***respeto***.&nbsp;
 
-###### Pero, basado en el uso de la palabra en la Septuaginta (LXX), así como en la audiencia prevista de Pablo (los judíos), lo más probable es que Pablo estuviera usando este término como un término más ***técnico*** .
+###### Pero, basado en el uso de la palabra en la Septuaginta (LXX), así como en la audiencia prevista de <u>Pablo</u> (los judíos), lo más probable es que Pablo estuviera usando este término como un término más ***técnico*** .
 
-###### La palabra *Señor* (***kurios***) se usa como sinónimo de ***Yahvé*** en el Antiguo Testamento más de 8.600 veces en la Septuaginta (LXX). Uno de esos sucesos está en Deuteronomio 6:4 en lo que se conoce como el *Shemá (En castellano “oye”)*.
+###### La palabra *Señor* (***kurios***) se usa como sinónimo de ***Yahvé*** en el Antiguo Testamento más de 8.600 <u>veces</u> en la Septuaginta (LXX). Uno de esos sucesos está en Deuteronomio 6:4 en lo que se conoce como el *Shemá (En castellano “oye”)*.
 
-###### Esto es significativo porque la Septuaginta (LXX) era la versión de la Biblia que la mayoría de los judíos usaban en los días de Pablo. Entonces, al usar esta palabra (***kurios***), Pablo está haciendo una fuerte declaración de la deidad de Jesús (Su verdadera identidad).
+###### Esto es significativo porque la Septuaginta (LXX) era la versión de la Biblia que la mayoría de los judíos <u>usaban</u> en los días de Pablo. Entonces, al usar esta palabra (***kurios***), Pablo está haciendo una fuerte declaración de la deidad de Jesús (Su verdadera identidad).
 
-###### Entonces, ¿qué significa la frase confesar *que Jesús es el Señor* ? Los judíos de la época de Pablo debían estar de acuerdo con Dios (y con Pablo) en que Jesús era realmente Dios y, por lo tanto, estaba calificado para salvarlos de sus pecados. Debían "confesar que Jesús es Yahvé (Dios)" (es decir, decir lo ***mismo*** sobre Jesús que Dios dice sobre Él: Él es Yahvé).&nbsp;
+###### Entonces, ¿qué significa la frase confesar *que Jesús es el Señor* ? Los judíos de la <u>época</u> de Pablo debían estar de acuerdo con Dios (y con Pablo) en que Jesús era realmente Dios y, por lo tanto, estaba calificado para salvarlos de sus pecados. Debían "confesar que Jesús es Yahvé (Dios)" (es decir, decir lo ***mismo*** sobre Jesús que Dios dice sobre Él: Él es Yahvé).&nbsp;
 
 ### 1 Juan 1:9&nbsp;
 
-#### En este versículo, tenemos la frase *Si confesamos nuestros pecados,* pero ¿está hablando de cómo uno es ***salvo*,** o está hablando de otra cosa?
+#### En este versículo, tenemos la frase *Si confesamos nuestros pecados,* pero ¿está hablando de <u>cómo</u> uno es ***salvo*,** o está hablando de otra cosa?
 
-#### El ***contexto*** de todo el capítulo de 1 Juan 1 revela que su audiencia principal son aquellos que ya son salvos. Por lo tanto, como veremos, el problema es la comunión y ***no** la* salvación.&nbsp;
+#### El ***contexto*** de todo el capítulo de 1 Juan 1 revela que su audiencia principal son aquellos que ya son <u>salvos</u>. Por lo tanto, como veremos, el problema es la comunión y ***no** la* salvación.&nbsp;
 
-##### Considere que Juan usa la palabra *comunión* cuatro veces en 1 Juan capítulo 1. Compañerismo es un término familiar para aquellos que ya ***están*** en la familia. La comunión ***nunca*** se usa para describir a los incrédulos en relación con Dios.
+##### Considere que Juan usa la palabra *comunión* <u>cuatro</u> veces en 1 Juan capítulo 1. Compañerismo es un término familiar para aquellos que ya ***están*** en la familia. La comunión ***nunca*** se usa para describir a los incrédulos en relación con Dios.
 
-##### Además, Juan se incluye a ***sí mismo*** con sus lectores al usar los pronombres plurales en primera persona "nosotros" y "nuestro". Por lo tanto, todo lo que es cierto de Juan es cierto de sus lectores.
+##### Además, Juan se incluye a ***sí mismo*** con sus lectores al usar los pronombres plurales en primera persona "nosotros" y "nuestro". Por lo tanto, <u>todo</u> lo que es cierto de Juan es cierto de sus lectores.
 
-##### Por lo tanto, este pasaje con esta exhortación a "confesar nuestros pecados" es para alguien que ya es ***creyente***, no un requisito previo para que alguien se convierta en creyente.
+##### Por lo tanto, este pasaje con esta exhortación a "confesar nuestros pecados" es para <u>alguien</u> que ya es ***creyente***, no un requisito previo para que alguien se convierta en creyente.
 
-##### La confesión de pecados es, por lo tanto, para que el creyente restaure la comunión con Dios, no para que el incrédulo ***se*** salve. La confesión de pecado es el mecanismo de Dios para restaurar la intimidad en comunión con Él cuando un creyente ha pecado.
+##### La confesión de pecados es, por lo tanto, para que el <u>creyente</u> restaure la comunión con Dios, no para que el incrédulo ***se*** salve. La confesión de pecado es el mecanismo de Dios para restaurar la intimidad en comunión con Él cuando un creyente ha pecado.
 
-##### Dios no quiere que sus hijos ***pidan*** perdón, sino que Él quiere que le digan exactamente lo que hicieron ***mal***. ¡Esto es confesión! Y cuando confesamos nuestros pecados, Él es fiel y justo para perdonar nuestros pecados y restaurarnos de nuevo a la comunión.&nbsp;
+##### Dios no quiere que sus hijos ***pidan*** perdón, sino que Él quiere que le digan exactamente lo que hicieron ***mal***. ¡Esto es confesión! Y cuando confesamos nuestros pecados, Él es fiel y justo para <u>perdonar</u> nuestros pecados y restaurarnos de nuevo a la comunión.&nbsp;
 
 ## **Cliché de respuesta al evangelio \# 2: Entrega tu corazón o vida a Dios.**&nbsp;
 
 ### El mensaje salvador del evangelio no implica ***dar*** algo a Dios a cambio de la salvación.
 
-#### Si la salvación se alcanza a través de un intercambio de cualquier tipo, ya no es un regalo gratuito, sino que se convierte en algo ganado o ***negociado***. ¡La gracia es gracia o no lo es! (Ver Romanos 11:6.)
+#### Si la salvación se alcanza a través de un intercambio de cualquier tipo, ya no es un regalo <u>gratuito</u>, sino que se convierte en algo ganado o ***negociado***. ¡La gracia es gracia o no lo es! (Ver Romanos 11:6.)
 
-#### Este cliché lo pone todo al ***revés***. ¿El evangelio trata de que entregues tu vida, tu corazón o cualquier otra cosa a Dios, ***o*** el evangelio trata de Jesucristo dando Su vida por ti? (Ver Gálatas 2:20; Efesios 5:2.)
+#### Este cliché lo pone todo al ***revés***. ¿El evangelio trata de que entregues tu vida, tu corazón o cualquier otra <u>cosa</u> a Dios, ***o*** el evangelio trata de Jesucristo dando Su vida por ti? (Ver Gálatas 2:20; Efesios 5:2.)
 
 # Clichés de respuesta al Evangelio – (#3) Pide perdón y (#4) Haz la oración del pecador
 
 ## **Reseña rápida**
 
-### El ***doble*** problema de la humanidad se resume en: (1) Tenemos una ***deuda*** que no podemos pagar (muerte), y (2) **no** tenemos la justicia ***perfecta*** necesaria para entrar al Cielo (el lugar perfecto de Dios).
+### El ***doble*** problema de la humanidad se resume en: (1) Tenemos una ***deuda*** que no podemos <u>pagar</u> (muerte), y (2) **no** tenemos la justicia ***perfecta*** necesaria para entrar al Cielo (el lugar perfecto de Dios).
 
-### El evangelio es lo único que se ocupa de nuestro ***doble*** problema. El evangelio es la única ***solución***.
+### El evangelio es lo único que se <u>ocupa</u> de nuestro ***doble*** problema. El evangelio es la única ***solución***.
 
-### El evangelio es el mensaje objetivo e histórico de lo que Dios ya ha ***hecho*** para salvarnos de Su justa ira (nuestra deuda) y proporcionarnos una justicia que nunca podríamos obtener por nosotros mismos, permitiéndonos así vivir eternamente con Él.
+### El evangelio es el mensaje objetivo e histórico de lo que Dios ya ha ***hecho*** para salvarnos de Su justa ira (nuestra deuda) y proporcionarnos una justicia que nunca podríamos obtener por nosotros <u>mismos</u>, permitiéndonos así vivir eternamente con Él.
 
-### Entonces, ¿qué hizo Dios exactamente? Él envió a Su Hijo Jesucristo (completamente Dios y completamente hombre) para ***morir*** por nuestros pecados y ***resucitar*** al tercer día.
+### Entonces, ¿qué hizo Dios exactamente? Él envió a Su Hijo Jesucristo (completamente Dios y completamente hombre) para ***morir*** por <u>nuestros</u> pecados y ***resucitar*** al tercer día.
 
 ### Según las Escrituras, solo se requiere *una* respuesta del hombre al evangelio. Y eso es: solo ***fe*** en Cristo. Esto es simplemente tomar lo que Dios dice en Su Palabra y confiar en Su ***solución*** (Cristo y Su obra terminada) para nuestra salvación.
 
 ## **Cliché de respuesta al evangelio \# 3: Pide perdón.**&nbsp;
 
-### La pregunta fundamental que las personas deben hacerse al usar este cliché es la siguiente: "¿***Cómo*** se recibe el perdón de los pecados?" ¿es por **pedirle** a Dios por ello, **o** es simplemente un beneficio que uno recibe cuando pone su fe en Jesucristo?  ¿qué respuesta es ***bíblica***?
+### La pregunta fundamental que las personas deben hacerse al usar este cliché es la siguiente: "¿***Cómo*** se recibe el perdón de los pecados?" ¿es por **pedirle** a Dios por ello, **o** es simplemente un beneficio que uno <u>recibe</u> cuando pone su fe en Jesucristo?  ¿qué respuesta es ***bíblica***?
 
 ### "Pedir" y "creer" ***no** son* ***sinónimos***.&nbsp;
 
 #### *Pedirle* algo a alguien implica que la respuesta está en ***duda*.** En otras palabras, la respuesta podría ser "sí" o podría ser "no".
 
-#### *Pedirle* algo a alguien implica que el trabajo o la acción aún debe ***hacerse***. Algunos ejemplos genéricos de la vida cotidiana incluyen:&nbsp;
+#### *Pedirle* algo a alguien implica que el trabajo o la acción aún debe ***hacerse***. Algunos ejemplos genéricos de la <u>vida</u> cotidiana incluyen:&nbsp;
 
-##### "Papá, ¿puedo tener las llaves del auto?" (pidiendo) – "Sí, aquí están" (obra ejecutada).
+##### "Papá, ¿puedo tener las llaves del auto?" (pidiendo) – "Sí, aquí están" (obra <u>ejecutada</u>).
 
-##### "Papá, ¿puedo pedir prestado algo de dinero?" (preguntando) – "No, no puedes" (trabajo no ejecutado).
+##### "Papá, ¿puedo pedir prestado algo de dinero?" (preguntando) – "No, no puedes" (<u>trabajo</u> no ejecutado).
 
-##### "Amigo, ¿puedo pasar la noche en tu casa mañana?" (pidiendo) – "Claro, aquí está la llave de mi puerta principal" (trabajo ejecutado).
+##### "Amigo, ¿puedo pasar la noche en tu casa mañana?" (pidiendo) – "Claro, aquí está la <u>llave</u> de mi puerta principal" (trabajo ejecutado).
 
-##### "¿Me ayudas a cambiar mi llanta pinchada?" (pidiendo) – "Me encantaría, pero ya llego tarde al trabajo" (trabajo no ejecutado).&nbsp;
+##### "¿Me ayudas a cambiar mi llanta pinchada?" (pidiendo) – "Me encantaría, pero ya <u>llego</u> tarde al trabajo" (trabajo no ejecutado).&nbsp;
 
-#### En contraste con *pedir*, la fe bíblica implica que una obra ***ya*** se ha hecho y que usted confía en ella para su salvación.
+#### En contraste con *pedir*, la fe bíblica implica que una obra ***ya*** se ha hecho y que us<u>t</u>ed confía en ella para su salvación.
 
-#### El creer o la fe, descansa en un ***resultado*** conocido, mientras que pedirle algo a alguien implica un resultado ***desconocido***.
+#### El creer o la fe, descansa en un ***resultado*** conocido, mientras que <u>pedirle</u> algo a alguien implica un resultado ***desconocido***.
 
-#### Debido a que *pedirle* perdón a Dios, por definición, tiene un nivel de duda implícito, este cliché de uso frecuente es realmente una forma sutil de ***incredulidad*** y ***no*** es fe.&nbsp;
+#### Debido a que *pedirle* perdón a Dios, por definición, tiene un <u>nivel</u> de duda implícito, este cliché de uso frecuente es realmente una forma sutil de ***incredulidad*** y ***no*** es fe.&nbsp;
 
-### RECIBES UN PERDÓN *posicional* único y total de tus pecados como incrédulo, cuando crees en el Señor Jesucristo (Hechos 10:43; 13:38-39).
+### RECIBES UN PERDÓN *posicional* único y total de tus pecados como incrédulo, cuando crees en el <u>Señor</u> Jesucristo (Hechos 10:43; 13:38-39).
 
-### Y como se discute en el cliché de respuesta al evangelio \# 1, usted recibe *el* perdón continuo y de comunión de los pecados como cristiano cuando ***confiesa*** sus pecados (1 Juan 1:9).&nbsp;
+### Y como se discute en el cliché de respuesta al evangelio \# 1, usted recibe *el* <u>perdón</u> continuo y de comunión de los pecados como cristiano cuando ***confiesa*** sus pecados (1 Juan 1:9).&nbsp;
 
-#### *LA CONFESIÓN* significa decir lo ***mismo*** , y debemos decir lo mismo sobre nuestro pecado que Dios.
+#### *LA CONFESIÓN* significa decir lo ***mismo*** , y debemos decir lo mismo sobre nuestro <u>pecado</u> que Dios.
 
-#### ESTO ES ESTAR DE ACUERDO CON DIOS, O *nombrar nuestro pecado*, no ***pedir*** perdón o simplemente decir "lo siento".&nbsp;
+#### ESTO ES ESTAR DE ACUERDO CON DIOS, O *nombrar nuestro pecado*, no ***pedir*** <u>perdón</u> o simplemente decir "lo siento".&nbsp;
 
-### Dios ya había determinado cómo, cuándo, dónde y por qué medios proporcionaría el regalo gratuito de la salvación, que ***incluye*** el perdón de los pecados. Lo hizo a través de la obra del Señor Jesucristo en la cruz del Calvario y la posterior resurrección de Jesús de entre los muertos.
+### Dios ya había determinado cómo, cuándo, dónde y por qué medios proporcionaría el regalo gratuito de la salvación, que ***incluye*** el perdón de los pecados. Lo hizo a través de la obra del Señor Jesucristo en la cruz del Calvario y la posterior resurrección de Jesús de <u>entre</u> los muertos.
 
-### ¡No encontrará en ***ninguna*** parte de la Biblia donde se enseñe a los incrédulos o creyentes a pedir perdón por sus pecados! Pero algunos pueden preguntar: "¿Qué pasa con el Padre Nuestro en Lucas 11:4?"&nbsp;
+### ¡No encontrará en ***ninguna*** parte de la Biblia donde se enseñe a los incrédulos o creyentes a pedir perdón por sus pecados! Pero <u>algunos</u> pueden preguntar: "¿Qué pasa con el Padre Nuestro en Lucas 11:4?"&nbsp;
 
 #### Lucas 11:4 es parte del Padre Nuestro, según lo registrado por Lucas, donde dice específicamente: "Y perdónanos nuestros pecados, porque también nosotros perdonamos a todos los que nos deben..."
 
 #### ¿Cómo sabemos que Lucas ***no** está* enseñando a los incrédulos cómo ser salvos? Consideremos el contexto.&nbsp;
 
-##### La oración comienza con las palabras, *Padre Nuestro*, que indican a aquellos que ***ya son*** parte de la familia de Dios. Esta ***no** es* una oración de salvación por parte de un incrédulo, sino más bien una oración de alguien que ya está en la familia de Dios.
+##### La oración comienza con las palabras, *Padre Nuestro*, que indican a aquellos que ***ya son*** parte de la familia de Dios. Esta ***no** es* una oración de salvación por parte de un incrédulo, sino más bien una oración de <u>alguien</u> que ya está en la familia de Dios.
 
-##### La oración espera con ansias el establecimiento del Reino de Dios en la tierra a través del Mesías tan esperado. Por lo tanto, el enfoque está en un ***periodo*** de tiempo muy específico en la historia bíblica (aún futuro en este momento).
+##### La oración <u>espera</u> con ansias el establecimiento del Reino de Dios en la tierra a través del Mesías tan esperado. Por lo tanto, el enfoque está en un ***periodo*** de tiempo muy específico en la historia bíblica (aún futuro en este momento).
 
-##### La palabra perdonar significa "enviar o alejar, dejar ir de uno mismo o despedir de uno mismo". Esta es ***la clave*** para entender **por qué** Jesús animó a sus discípulos a pedir perdón aquí.&nbsp;
+##### La palabra perdonar significa "enviar o alejar, dejar ir de uno <u>mismo</u> o despedir de uno mismo". Esta es ***la clave*** para entender **por qué** Jesús animó a sus discípulos a pedir perdón aquí.&nbsp;
 
-###### En el Antiguo Testamento, el pecado solo era *expiado* o ***cubierto.*** El pecado nunca fue *quitado* ni ***perdonado***. Es por eso que la palabra *perdonar* (***salah***) se usa principalmente en tiempo futuro en el Antiguo Testamento.
+###### En el Antiguo Testamento, el <u>pecado</u> solo era *expiado* o ***cubierto.*** El pecado nunca fue *quitado* ni ***perdonado***. Es por eso que la palabra *perdonar* (***salah***) se usa principalmente en tiempo futuro en el Antiguo Testamento.
 
-###### ¡Esto también es la razón por la que Juan el Bautista hace en Juan 1:29 una declaración tan increíble! Él dice: "¡He aquí! ¡El Cordero de Dios que ***quita*** el pecado del mundo!"
+###### ¡Esto también es la razón por la que Juan el Bautista hace en Juan 1:29 una declaración tan increíble! Él dice: "¡He aquí! ¡El Cordero de Dios que ***quita*** el pecado del <u>mundo</u>!"
 
-###### Los santos del Antiguo Testamento esperaban el día en que el Mesías quitara sus pecados, como se prometió en su ***Nuevo*** Pacto (Jeremías 31:31-34 – ***versículo 34***).
+###### Los santos del Antiguo Testamento esperaban el día en que el Mesías <u>quitara</u> sus pecados, como se prometió en su ***Nuevo*** Pacto (Jeremías 31:31-34 – ***versículo 34***).
 
-###### Por lo tanto, en esta oración en Lucas 11, pedirle a Dios que perdone sus pecados era similar a pedirle a Dios que estableciera *Su reino y los ***efectos*** del Nuevo Pacto.*&nbsp;
+###### Por lo tanto, en esta oración en Lucas 11, pedirle a Dios que perdone sus pecados era <u>similar</u> a pedirle a Dios que estableciera *Su reino y los ***efectos*** del Nuevo Pacto.*&nbsp;
 
 ## Cliché de respuesta al evangelio \# 4: Haz la oración del pecador.**&nbsp;
 
-### ¿Le sorprendería saber que no hay una "oración del pecador" que se encuentre en la ***Biblia***? Además, ¿le sorprendería saber que nunca hay un ***ejemplo*** en la Biblia de una sola persona que guíe a otra persona en una oración para ser salva?
+### ¿Le sorprendería saber que no hay una "oración del pecador" que se encuentre en la ***Biblia***? Además, ¿le sorprendería saber que nunca hay un ***ejemplo*** en la Biblia de una <u>sola</u> persona que guíe a otra persona en una oración para ser salva?
 
-### Por favor, tómese un minuto y vaya al ***Apéndice 4: Diferentes versiones de la oración del pecador*** y léalo. Notará que ninguna de las versiones de la oración es la ***misma***. Si cierta oración te salvara, ¿no querrías saber si estás diciendo la correcta o incluyendo las cosas correctas en tu oración?
+### Por favor, tómese un minuto y vaya al ***Apéndice 4: Diferentes versiones de la oración del pecador*** y léalo. Notará que ninguna de las versiones de la oración es la ***misma***. Si cierta oración te salvara, ¿no querrías saber si estás diciendo la correcta o incluyendo las cosas correctas en tu <u>oración</u>?
 
-### LA RESPUESTA BÍBLICA ADECUADA AL EVANGELIO NO IMPLICA ***repetir*** una oración o caminar por el pasillo en la iglesia. Una vez más, la respuesta bíblica ***no*** requiere que **hagas** algo en el presente, sino que confíes en algo que ***ya*** sucedió en el pasado.&nbsp;
+### LA RESPUESTA BÍBLICA ADECUADA AL EVANGELIO NO IMPLICA ***repetir*** una oración o caminar por el pasillo en la iglesia. Una vez más, la respuesta bíblica ***no*** requiere que **hagas** algo en el presente, sino que <u>confíes</u> en algo que ***ya*** sucedió en el pasado.&nbsp;
 
-#### Si hacer una oración fuera un ***requisito*** para la salvación, el Señor lo habría dejado muy en claro e incluido esta respuesta en múltiples pasajes de las Escrituras.
+#### Si hacer una oración fuera un ***requisito*** para la salvación, el Señor lo habría dejado muy en <u>claro</u> e incluido esta respuesta en múltiples pasajes de las Escrituras.
 
-#### Si hacer una oración fuera un requisito para la salvación, uno esperaría verlo confirmado para nosotros en los relatos ***narrativos*** de los Evangelios, o en el libro de los Hechos, o claramente enseñada o instruida en las epístolas.&nbsp;
+#### Si hacer una oración fuera un requisito para la salvación, uno esperaría <u>verlo</u> confirmado para nosotros en los relatos ***narrativos*** de los Evangelios, o en el libro de los Hechos, o claramente enseñada o instruida en las epístolas.&nbsp;
 
 ### Considere dos pasajes que a menudo se mencionan para promover la respuesta de orar para la salvación de uno. Incluyen:&nbsp;
 
 #### Lucas 18:9-14&nbsp;
 
-##### La clave para ***entender*** este pasaje, contextualmente, es el versículo 9. "A unos que confiaban en sí mismos (fariseos) como justos, y menospreciaban a los otros, dijo también (Jesús) esta parábola".
+##### La clave para ***entender*** este pasaje, contextualmente, es el versículo 9. "A unos que confiaban en sí <u>mismos</u> (fariseos) como justos, y menospreciaban a los otros, dijo también (Jesús) esta parábola".
 
-###### Por lo general, las parábolas tienen ***una*** verdad o principio importante que están tratando de comunicar. En esta parábola, Jesús nos dice exactamente cuál es esa verdad en el versículo 9.
+###### Por lo general, las parábolas tienen ***una*** verdad o principio importante que están tratando de comunicar. En esta parábola, Jesús nos dice exactamente cuál es esa <u>verdad</u> en el versículo 9.
 
-###### Jesús está hablando a los fariseos santurrones, que pensaban que eran mejores que todos los demás porque confiaban en su propia preservación ***meticulosa*** de la Ley para su justicia.
+###### Jesús está hablando a los fariseos santurrones, que pensaban que eran mejores que <u>todos</u> los demás porque confiaban en su propia preservación ***meticulosa*** de la Ley para su justicia.
 
-###### Observe cómo el fariseo (vs. 11) "puesto en pie, *oraba consigo mismo".* Todo lo que estaba haciendo era para mostrar y llamar la atención. Estaba exaltando su ***propia*** justicia externa.
+###### Observe cómo el fariseo (vs. 11) "puesto en pie, *oraba consigo mismo".* Todo lo que estaba haciendo era para mostrar y llamar la <u>atención</u>. Estaba exaltando su ***propia*** justicia externa.
 
-###### Leer un principio o verdad adicional en esta parábola es extralimitarse en nuestra interpretación de ella. En otras palabras, hacer de esta parábola una enseñanza sobre cómo uno se salva al hacer una oración es dañar la intención original de la enseñanza.&nbsp;
+###### Leer un principio o verdad adicional en esta parábola es extralimitarse en nuestra interpretación de ella. En otras palabras, hacer de esta parábola una enseñanza sobre cómo uno se <u>salva</u> al hacer una oración es dañar la intención original de la enseñanza.&nbsp;
 
-#### EL RECAUDADOR DE IMPUESTOS, POR EL CONTRARIO, NO ***DEPENDÍA*** de sí mismo para su posición justa ante Dios. Tenía una clara comprensión de su propia indignidad. &nbsp;
+#### EL RECAUDADOR DE IMPUESTOS, POR EL CONTRARIO, NO ***DEPENDÍA*** de sí mismo para su <u>posición</u> justa ante Dios. Tenía una clara comprensión de su propia indignidad. &nbsp;
 
-##### Por lo tanto, su oración no era por salvación, sino que estaba ***exhibiendo*** su fe en Dios por su posición justa y lo estaba haciendo a través de la oración.
+##### Por lo tanto, su oración no era por salvación, sino que estaba ***exhibiendo*** su fe en Dios por su posición <u>justa</u> y lo estaba haciendo a través de la oración.
 
-##### La oración *no lo* ***salvó***. Oró porque ya era *salvo* (justificado o declarado justo por Dios). La oración solo manifestaba su fe ya presente.&nbsp;
+##### La oración *no lo* ***salvó***. Oró <u>porque</u> ya era *salvo* (justificado o declarado justo por Dios). La oración solo manifestaba su fe ya presente.&nbsp;
 
-### Romanos 10:13 – Entraremos en todos los detalles del contexto de este pasaje en un cliché de respuesta del evangelio posterior, pero, por ahora, considere las siguientes observaciones:&nbsp;
+### Romanos 10:13 – Entraremos en todos los detalles del contexto de este pasaje en un <u>cliché</u> de respuesta del evangelio posterior, pero, por ahora, considere las siguientes observaciones:&nbsp;
 
-#### Observe que Romanos 10:13 establece que *invocar el nombre del Señor* es un ***requisito*** previo para ser salvo. La pregunta clave cuando alguien ve la palabra *salvo* en la Biblia es: "¿Salvo de qué?" ¿Qué tipo de salvación hay en la mente de Pablo aquí?&nbsp;
+#### Observe que Romanos 10:13 establece que *invocar el nombre del Señor* es un ***requisito*** previo para ser salvo. La pregunta clave cuando <u>alguien</u> ve la palabra *salvo* en la Biblia es: "¿Salvo de qué?" ¿Qué tipo de salvación hay en la mente de Pablo aquí?&nbsp;
 
-###### Basado en su uso y distinción de *obtener justicia y salvación,* visto anteriormente en el capítulo, y basado en el hecho de que Romanos 10:13 es realmente una cita de Joel 2:32, parece como si la salvación a la que Pablo se refiere fuera la salvación del futuro en el gran período de la ***tribulación***, que conduce al Reino Milenial.
+###### Basado en su uso y distinción de *obtener justicia y salvación,* visto anteriormente en el capítulo, y basado en el hecho de que Romanos 10:13 es realmente una cita de Joel 2:32, parece como si la salvación a la que Pablo se <u>refiere</u> fuera la salvación del futuro en el gran período de la ***tribulación***, que conduce al Reino Milenial.
 
-###### El contexto de Joel 2 es el *Día del Señor,* compuesto ***tanto*** por la Tribulación (Semana 70 de Daniel) como por el Reino Milenial.&nbsp;
+###### El contexto de Joel 2 es el *Día del Señor,* compuesto ***tanto*** por la Tribulación (Semana 70 de Daniel) <u>como</u> por el Reino Milenial.&nbsp;
 
-##### Observe el orden de las palabras en los versículos 14-15. Tienes que trabajar en retrospectiva para ver el orden ***previsto***. Se ***envía un*** mensajero, ese mensajero ***predica***, la audiencia del mensajero ***escucha*** el mensaje, la audiencia ***cree*** el mensaje y luego la audiencia ***invoca*** al Señor.&nbsp;
+##### Observe el orden de las palabras en los versículos 14-15. Tienes que trabajar en retrospectiva para ver el orden ***previsto***. Se ***envía un*** mensajero, ese mensajero ***predica***, la audiencia del mensajero ***escucha*** el mensaje, la audiencia ***cree*** el mensaje y luego la audiencia ***invoca*** al <u>Señor</u>.&nbsp;
 
-###### Entonces, para cuando alguien *invoca al Señor,* él o ella ya es salvo porque ha ***creído*** en Él.
+###### Entonces, para cuando alguien *invoca al Señor,* él o ella ya es salvo <u>porque</u> ha ***creído*** en Él.
 
-###### Decir que estas personas no son ***salvas*** hasta que invoquen el nombre del Señor, significaría decir que no fueron salvas cuando creyeron.  Si ese es el caso, se debería explicar por qué 160 versículos en el Nuevo Testamento enseñan la fe como el único requisito previo para la salvación (***ver Apéndice 2: 160 versículos que prueban la justificación solo por la fe***).&nbsp;
+###### Decir que estas personas no son ***salvas*** hasta que invoquen el nombre del Señor, significaría decir que no fueron salvas cuando creyeron.  Si ese es el caso, se debería explicar por qué 160 versículos en el Nuevo Testamento enseñan la fe como el <u>único</u> requisito previo para la salvación (***ver Apéndice 2: 160 versículos que prueban la justificación solo por la fe***).&nbsp;
 
-#### Algunos pueden preguntar: "Si hice una oración para ser salvo, ¿eso significa que no soy salvo?" No necesariamente. Si estas personas pusieron su fe en Cristo y en Su obra terminada, entonces fueron salvos al ***momento*** de creer. Algunos que hacen *la oración del pecador* probablemente fueron salvos unos momentos antes de hacer la oración, cuando realmente confiaron por primera vez en Cristo y Su obra terminada.
+#### Algunos pueden preguntar: "Si hice una oración para ser salvo, ¿eso significa que no soy salvo?" No necesariamente. Si estas personas pusieron su fe en Cristo y en Su obra terminada, entonces fueron salvos al ***momento*** de creer. Algunos que hacen *la oración del pecador* probablemente fueron salvos unos momentos antes de hacer la oración, cuando realmente confiaron por primera vez en Cristo y Su <u>obra</u> terminada.
 
 ## Clichés de respuesta al Evangelio – (#5) Debes hacer una profesión pública de tu fe
 
 ## Reseña rápida
 
-### El ***doble*** problema de la humanidad se resume en: (1) Tenemos una ***deuda*** que no podemos pagar (muerte), y (2) **no** tenemos la justicia ***perfecta*** necesaria para entrar al Cielo (el lugar perfecto de Dios).
+### El ***doble*** problema de la humanidad se resume en: (1) Tenemos una ***deuda*** que no podemos pagar (muerte), y (2) **no** tenemos la justicia ***perfecta*** necesaria para <u>entrar</u> al Cielo (el lugar perfecto de Dios).
 
-### El evangelio es lo único que se ocupa de nuestro ***doble*** problema. El evangelio es la única ***solución***.
+### El evangelio es lo <u>único</u> que se ocupa de nuestro ***doble*** problema. El evangelio es la única ***solución***.
 
-### El evangelio es el mensaje objetivo e histórico de lo que Dios ya ha ***hecho*** para salvarnos de Su justa ira (nuestra deuda) y proporcionarnos una justicia que nunca podríamos obtener por nosotros mismos, permitiéndonos así vivir eternamente con Él.
+### El evangelio es el mensaje objetivo e histórico de lo que Dios ya ha ***hecho*** para salvarnos de Su justa ira (nuestra deuda) y proporcionarnos una justicia que <u>nunca</u> podríamos obtener por nosotros mismos, permitiéndonos así vivir eternamente con Él.
 
-### Entonces, ¿qué hizo Dios exactamente? Él envió a Su Hijo Jesucristo (completamente Dios y completamente hombre) para ***morir*** por nuestros pecados y ***resucitar***.
+### Entonces, ¿qué hizo Dios exactamente? Él envió a Su Hijo Jesucristo (completamente Dios y completamente hombre) para ***morir*** por <u>nuestros</u> pecados y ***resucitar***.
 
-### Según las Escrituras, solo se requiere una respuesta del hombre. Es solo ***fe*** en Cristo. Esto es simplemente tomar lo que Dios dice en Su Palabra y confiar en Su ***solución*** (Cristo y Su obra terminada) para nuestra salvación.&nbsp;
+### Según las Escrituras, solo se <u>requiere</u> una respuesta del hombre. Es solo ***fe*** en Cristo. Esto es simplemente tomar lo que Dios dice en Su Palabra y confiar en Su ***solución*** (Cristo y Su obra terminada) para nuestra salvación.&nbsp;
 
 ## **Cliché de respuesta al Evangelio \#5: Debes hacer una profesión pública de tu fe**&nbsp;
 
 ### Este error implica que, para que uno se salve, uno tiene que hacer una profesión ***verbal*** y pública de su fe en Cristo.&nbsp;
 
-#### Ahora bien, ¿es ***incorrecto*** enseñar a las personas que han creído a hacer profesiones públicas de su fe en Jesucristo? No, esto es exactamente lo que queremos que aquellos que son salvos por la fe hagan en la vida a través del evangelismo e incluso a través del bautismo en agua, etc.
+#### Ahora bien, ¿es ***incorrecto*** enseñar a las personas que han <u>creído</u> a hacer profesiones públicas de su fe en Jesucristo? No, esto es exactamente lo que queremos que aquellos que son salvos por la fe hagan en la vida a través del evangelismo e incluso a través del bautismo en agua, etc.
 
-#### Sin embargo, si la profesión pública fuera un requisito previo para ser salvo, entonces la obra de Cristo en la cruz para pagar por el pecado ***no** fue* ***suficiente***. Los individuos tendrían que agregar su ***obra*** de *confesión pública* a la obra de Cristo de morir por sus pecados para ***completar*** su salvación.
+#### Sin embargo, si la profesión pública fuera un requisito previo para ser salvo, entonces la obra de Cristo en la cruz para pagar por el pecado ***no** fue* ***suficiente***. Los individuos tendrían que <u>agregar</u> su ***obra*** de *confesión pública* a la obra de Cristo de morir por sus pecados para ***completar*** su salvación.
 
-### Además, ¿dónde dejaría esto a las personas que no pueden hablar (aquellos que son ***mudos***), y dónde dejaría esto a las personas que escucharon el evangelio y que pusieron su fe en Cristo, pero luego murieron antes de poder confesar públicamente a Cristo?
+### Además, ¿dónde dejaría esto a las personas que no pueden hablar (aquellos que son ***mudos***), y dónde dejaría esto a las personas que escucharon el evangelio y que pusieron su fe en Cristo, pero <u>luego</u> murieron antes de poder confesar públicamente a Cristo?
 
-### Una vez más, la razón por la que se usa este cliché de respuesta al evangelio es porque el concepto de profesión pública de Cristo es ***bíblico***. Simplemente *no es* un requisito previo para ser salvo.
+### Una vez más, la razón por la que se usa este cliché de respuesta al evangelio es porque el concepto de profesión pública de Cristo es ***bíblico***. Simplemente *no es* un requisito previo para <u>ser</u> salvo.
 
-#### Es cierto que la confesión pública será recompensada en la eternidad, y la negación lo excluirá a uno de recompensa, pero de ninguna manera ***gana*** la salvación de una persona.
+#### Es cierto que la confesión pública será recompensada en la eternidad, y la negación lo excluirá a uno de recompensa, pero de <u>ninguna</u> manera ***gana*** la salvación de una persona.
 
-#### Si la negación o la falta de profesión pública son requeridas para la salvación, entonces el apóstol Pedro no podría haber sido ***salvo*** (por ejemplo, tres cantos del gallo).&nbsp;
+#### Si la negación o la <u>falta</u> de profesión pública son requeridas para la salvación, entonces el apóstol Pedro no podría haber sido ***salvo*** (por ejemplo, tres cantos del gallo).&nbsp;
 
-### Algunas personas, parece que necesitan un evento visible y medible para que sientan que su experiencia de salvación es ***oficial***. Sin embargo, ¡Dios ve fe! Él no necesita ningún comportamiento u oración para hacerlo *oficial*. Es oficial el ***momento*** en que una persona confía en la obra terminada de Cristo.
+### Algunas personas, parece que necesitan un evento visible y medible para que sientan que su experiencia de salvación es ***oficial***. Sin embargo, ¡Dios ve fe! Él no necesita <u>ningún</u> comportamiento u oración para hacerlo *oficial*. Es oficial el ***momento*** en que una persona confía en la obra terminada de Cristo.
 
-### Consideremos uno de los pasajes más populares utilizados para enseñar que uno debe hacer una profesión pública verbal de Cristo como requisito para la salvación.&nbsp;
+### Consideremos uno de los pasajes más populares utilizados para enseñar que uno debe <u>hacer</u> una profesión pública verbal de Cristo como requisito para la salvación.&nbsp;
 
 #### Romanos 10:9-10&nbsp;
 
-##### El versículo 8 es el ***eje*** de la exhortación de Pablo a los judíos (en los versículos 9-10) para que crean en el Señor Jesucristo y dejen de seguir su propio camino desinformado de justicia basada en la ley (ver versículos 1-4).
+##### El versículo 8 es el ***eje*** de la exhortación de Pablo a los judíos (en los versículos 9-10) para que crean en el Señor Jesucristo y dejen de seguir su propio <u>camino</u> desinformado de justicia basada en la ley (ver versículos 1-4).
 
-##### Pablo ***no*** está dando una ***fórmula*** detallada por la cual alguien se salva, sino que está construyendo una referencia cruzada del Antiguo Testamento para enseñar la fe y la justicia.
+##### Pablo ***no*** está dando una ***fórmula*** detallada por la cual alguien se salva, sino que está construyendo una referencia cruzada del Antiguo Testamento para <u>enseñar</u> la fe y la justicia.
 
-##### La referencia del Antiguo Testamento que Pablo cita es Deuteronomio 30:12-14, pero, como veremos, hace algunos ***cambios*** clave bajo la inspiración del Espíritu Santo.&nbsp;
+##### La referencia del Antiguo Testamento que Pablo cita es Deuteronomio 30:12-14, pero, como veremos, hace algunos ***cambios*** clave <u>bajo</u> la inspiración del Espíritu Santo.&nbsp;
 
-###### Pablo menciona dos elementos clave de su mensaje, que son los dos principales ***obstáculos*** para sus hermanos judíos de hoy en día. Esos obstáculos son la identidad de Jesús y la resurrección de Jesús.
+###### Pablo menciona dos elementos clave de su mensaje, que son los dos principales ***obstáculos*** para sus hermanos <u>judíos</u> de hoy en día. Esos obstáculos son la identidad de Jesús y la resurrección de Jesús.
 
-###### Para comunicar a sus hermanos judíos de hoy en día que este mensaje de *fe-justicia* estaba ***cerca*** de ellos y ***disponible*** para ellos, Pablo usa el pasaje de Deuteronomio para comunicar esta *cercanía* ya que Moisés usó este concepto con respecto a la Ley.
+###### Para comunicar a sus hermanos judíos de hoy en día que este mensaje de *fe-justicia* estaba ***cerca*** de ellos y ***disponible*** para ellos, Pablo usa el <u>pasaje</u> de Deuteronomio para comunicar esta *cercanía* ya que Moisés usó este concepto con respecto a la Ley.
 
-###### Es por eso que Pablo continúa usando las palabras *corazón* y *boca* en los versículos 9-10. Se basa en Deuteronomio 30 y lo vincula con pequeñas ***modificaciones*** y aplicaciones del Nuevo Testamento.
+###### Es por eso que Pablo continúa usando las palabras *corazón* y *boca* en los versículos 9-10. Se basa en Deuteronomio 30 y lo <u>vincula</u> con pequeñas ***modificaciones*** y aplicaciones del Nuevo Testamento.
 
-###### Mientras que Deuteronomio 30 se centró en la Ley y en lo que uno debe ***hacer***, Pablo se enfoca en la Persona/obra de Cristo y en lo que uno debe ***creer***.&nbsp;
+###### Mientras que Deuteronomio 30 se centró en la Ley y en lo que uno debe ***hacer***, Pablo se <u>enfoca</u> en la Persona/obra de Cristo y en lo que uno debe ***creer***.&nbsp;
 
 ##### Consideremos los dos obstáculos en el versículo 9 para los lectores judíos de Pablo de hoy en día:
 
 ##### ***Obstáculo \#1: La identidad de Jesús — Confesar a Jesús como Señor:*** La palabra griega traducida *confesar* (***homologeo***) significa decir lo ***mismo*** o estar de acuerdo.&nbsp;
 
-###### Observe que esto no es una confesión de ***pecado*** o un sentimiento de lástima por el pecado. ¿Qué significa entonces *la confesión* en este contexto?
+###### Observe que esto no es una confesión de ***pecado*** o un sentimiento de <u>lástima</u> por el pecado. ¿Qué significa entonces *la confesión* en este contexto?
 
-###### La palabra griega traducida *Señor* (***kurios***) tiene un significado genérico de señor, maestro, dueño o señor. Es genéricamente un ***título*** de respeto.
+###### La palabra griega traducida *Señor* (***kurios***) tiene un significado genérico de señor, <u>maestro</u>, dueño o señor. Es genéricamente un ***título*** de respeto.
 
-###### Sin embargo, llegó a tener un uso más técnico, especialmente en lo que se refiere a la traducción griega del Antiguo Testamento (la Septuaginta o LXX). ¡Esta palabra (***kurios***) se usa para el Dios de Israel que guarda el pacto (***Yahweh*** o Jehová) más de 8,600 veces!
+###### Sin embargo, llegó a tener un uso más técnico, especialmente en lo que se refiere a la traducción griega del Antiguo Testamento (la Septuaginta o LXX). ¡Esta palabra (***kurios***) se usa para el Dios de <u>Israel</u> que guarda el pacto (***Yahweh*** o Jehová) más de 8,600 veces!
 
-###### Entonces, estos judíos incrédulos debían confesar que Jesús es ***Dios*** o Deidad. Debían estar de ***acuerdo*** con Pablo y la Palabra de Dios de que Jesús era Yahvé (ver Juan 8:24).
+###### Entonces, estos judíos incrédulos <u>debían</u> confesar que Jesús es ***Dios*** o Deidad. Debían estar de ***acuerdo*** con Pablo y la Palabra de Dios de que Jesús era Yahvé (ver Juan 8:24).
 
-###### ¡Ningún judío confesaría esto a menos que creyera que es ***verdad***! ¿Por qué confesarían al Señor Jesús si no hubieran ***creído*** primero que Él era el *Señor* Jesús? (El versículo 10 nos da este orden: creer, **luego** confesar).  
+###### ¡Ningún judío confesaría esto a menos que creyera que es ***verdad***! ¿Por qué confesarían al Señor Jesús si no hubieran ***creído*** <u>primero</u> que Él era el *Señor* Jesús? (El versículo 10 nos da este orden: creer, **luego** confesar).  
 
-###### La confesión es lo ***opuesto*** a la negación. Si uno niega que Cristo es Dios, ¿por qué esa persona confiaría en Él para su salvación?&nbsp;
+###### La confesión es lo ***opuesto*** a la negación. Si uno <u>niega</u> que Cristo es Dios, ¿por qué esa persona confiaría en Él para su salvación?&nbsp;
 
 #### ***Obstáculo \#2: La resurrección de Jesús – Cree que Jesús resucitó de entre los muertos***
 
-##### Creer con el corazón es sinónimo de la *mente* o el centro de nuestro ser. En ninguna parte de la Biblia los escritores ***distinguen*** entre la fe *de mente* y la fe *del corazón*.
+##### Creer con el corazón es sinónimo de la *mente* o el <u>centro</u> de nuestro ser. En ninguna parte de la Biblia los escritores ***distinguen*** entre la fe *de mente* y la fe *del corazón*.
 
-##### El hecho de que Jesús es el Señor (Dios/Deidad) quedó claro cuando resucitó de entre los muertos. Dado que Dios es descrito como el "Ejecutor" en la resurrección de Jesús, significa que Dios ***aceptó*** el pago de Jesús en la cruz como suficiente.&nbsp;
+##### El hecho de que Jesús es el Señor (Dios/Deidad) quedó claro cuando resucitó de entre los muertos. Dado que Dios es descrito como el "Ejecutor" en la resurrección de Jesús, significa que Dios ***aceptó*** el <u>pago</u> de Jesús en la cruz como suficiente.&nbsp;
 
-#### Entonces, si los lectores de Pablo creyeran cualquiera de estas dos cosas, la otra caería como un ***dominó***. Si Jesús fuera Yahvé, entonces, por supuesto, podría resucitar, y si resucitara para no morir nunca más, entonces Él era Yahvé.&nbsp;
+#### Entonces, si los lectores de Pablo creyeran cualquiera de <u>estas</u> dos cosas, la otra caería como un ***dominó***. Si Jesús fuera Yahvé, entonces, por supuesto, podría resucitar, y si resucitara para no morir nunca más, entonces Él era Yahvé.&nbsp;
 
 ### El versículo 10 nos da el ***orden*** correcto entre *creer* y *confesar*. Es *creer y **luego** confesar verbalmente.* Si existe la confesión verbal, es porque primero estuvo el creer.
 
 ### Ahora, debe señalarse que Pablo usa aquí dos palabras ***distintas***. Son las palabras *justicia* y *salvación/salvo*.&nbsp;
 
-#### Cuando Pablo usa la palabra *justicia*, está hablando de la salvación de la ***pena*** del pecado. En el mundo occidental, normalmente usaríamos la palabra *salvación* o *salvado* para describir esto.
+#### Cuando Pablo usa la palabra *justicia*, está hablando de la salvación de la ***pena*** del pecado. En el <u>mundo</u> occidental, normalmente usaríamos la palabra *salvación* o *salvado* para describir esto.
 
-##### Pablo ha sido consistente con su mensaje en el libro de Romanos con respecto a cómo uno ***obtiene*** la justicia de Dios. Es solo por la fe en la Persona y la obra terminada de Cristo (Romanos 1:16-17; 3:10; 3:21-26, etc.)
+##### Pablo ha sido consistente con su mensaje en el <u>libro</u> de Romanos con respecto a cómo uno ***obtiene*** la justicia de Dios. Es solo por la fe en la Persona y la obra terminada de Cristo (Romanos 1:16-17; 3:10; 3:21-26, etc.)
 
-##### Cuando las personas ***creen*** en Jesús y su obra terminada, inmediatamente obtienen la justicia de Dios sin demora. Esta obtención de justicia se llama *justificación (*véase Romanos 5:1).&nbsp;
+##### Cuando las personas ***creen*** en Jesús y su obra terminada, inmediatamente obtienen la <u>justicia</u> de Dios sin demora. Esta obtención de justicia se llama *justificación (*véase Romanos 5:1).&nbsp;
 
-#### Cuando Pablo usa *salvación/salvo,* debido al contexto escatológico (fin de los tiempos), se está refiriendo a la *salvación de los judíos* DEL período de la ***tribulación*** venidera y **hacia** el posterior Reino Milenial.&nbsp;
+#### Cuando Pablo usa *salvación/salvo,* debido al contexto escatológico (fin de los tiempos), se está refiriendo a la *salvación de los judíos* DEL <u>período</u> de la ***tribulación*** venidera y **hacia** el posterior Reino Milenial.&nbsp;
 
-##### Para el judío, el Reino es ***sinónimo*** del estado eterno. El mundo occidental/la Iglesia habla del *Cielo*. Pero los judíos hablan del Reino.
+##### Para el judío, el Reino es ***sinónimo*** del <u>estado</u> eterno. El mundo occidental/la Iglesia habla del *Cielo*. Pero los judíos hablan del Reino.
 
-##### Es por eso que Pablo continúa citando Joel 2:32 en Romanos 10:13. El contexto de Joel 2:32 es el Día del Señor (Joel 2:31), que comprende tanto el período de siete años de ***Tribulación*** como también el establecimiento del Reino Milenial de Jesucristo.
+##### Es por eso que Pablo continúa citando Joel 2:32 en Romanos 10:13. El contexto de Joel 2:32 es el Día del Señor (Joel 2:31), que comprende tanto el período de <u>siete</u> años de ***Tribulación*** como también el establecimiento del Reino Milenial de Jesucristo.
 
-##### Entonces en Romanos 10, Pablo parece usar *la confesión* y *el invocar* indistintamente, o al menos están estrechamente relacionados si es que son distintos. ¡Ambas acciones están ***precedidas*** por la fe en Jesucristo!
+##### Entonces en Romanos 10, Pablo parece usar *la confesión* y *el invocar* indistintamente, o al menos están estrechamente relacionados si es que son distintos. ¡Ambas <u>acciones</u> están ***precedidas*** por la fe en Jesucristo!
 
-##### En resumen, para que los judíos sean salvos de la pena del pecado y obtengan la justicia de Dios, deben poner su ***fe*** en la obra terminada de Cristo.
+##### En resumen, para que los judíos sean <u>salvos</u> de la pena del pecado y obtengan la justicia de Dios, deben poner su ***fe*** en la obra terminada de Cristo.
 
-##### Cuando un judío (o gentil) ha hecho esto, él o ella nace de ***nuevo*** y entrará en el Reino de Dios (ver Juan 3:3).
+##### Cuando un judío (o gentil) ha hecho esto, él o ella nace de ***nuevo*** y entrará en el Reino de <u>Dios</u> (ver Juan 3:3).
 
-##### Sin embargo, para la ***generación*** específica de judíos que viviran durante el período de la Tribulación, serán liberados (salvados) de la Tribulación cuando *invoquen el nombre del Señor Jesús*, pero solo lo harán cuando ya ***hubiesen*** creído en Él.&nbsp;
+##### Sin embargo, para la ***generación*** específica de judíos que viviran durante el período de la Tribulación, serán liberados (salvados) de la Tribulación cuando *invoquen el nombre del Señor Jesús*, pero solo lo <u>harán</u> cuando ya ***hubiesen*** creído en Él.&nbsp;
 
 #### Para una mirada detallada a otro pasaje, vea la sección "Estudio adicional" para la Lección 4, donde también se analiza 2 Timoteo 2:11-13.
 
@@ -484,71 +484,71 @@
 
 ## **Reseña rápida**&nbsp;
 
-### El ***doble*** problema de la humanidad se resume en: (1) Tenemos una ***deuda*** que no podemos pagar (muerte), y (2) **no** tenemos la justicia ***perfecta*** necesaria para entrar al Cielo (el lugar perfecto de Dios).
+### El ***doble*** problema de la humanidad se resume en: (1) Tenemos una ***deuda*** que no podemos pagar (muerte), y (2) **no** tenemos la justicia ***perfecta*** necesaria para <u>entrar</u> al Cielo (el lugar perfecto de Dios).
 
-### El evangelio es lo único que se ocupa de nuestro ***doble*** problema. El evangelio es la única ***solución***.
+### El evangelio es lo único que se ocupa de nuestro ***doble*** problema. El evangelio es la <u>única</u> ***solución***.
 
-### El evangelio es el mensaje objetivo e histórico de lo que Dios ***ya ha*** hecho para salvarnos de Su justa ira (nuestra deuda) y proporcionarnos una justicia que nunca podríamos obtener por nosotros mismos, permitiéndonos así vivir eternamente con Él.
+### El evangelio es el mensaje objetivo e histórico de lo que Dios ***ya ha*** hecho para salvarnos de Su justa ira (nuestra deuda) y proporcionarnos una justicia que nunca podríamos obtener por nosotros mismos, permitiéndonos así <u>vivir</u> eternamente con Él.
 
-### Entonces, ¿qué hizo Dios exactamente? Él envió a Su Hijo Jesucristo (completamente Dios y completamente hombre) para ***morir*** por nuestros pecados y ***resucitar*** .
+### Entonces, ¿qué hizo Dios exactamente? Él envió a Su <u>Hijo</u> Jesucristo (completamente Dios y completamente hombre) para ***morir*** por nuestros pecados y ***resucitar*** .
 
-### Según las Escrituras, solo se requiere una respuesta del hombre. Es solo ***fe*** en Cristo. Esto es simplemente tomar lo que Dios dice en Su Palabra y confiar en Su ***solución*** (Cristo y Su obra terminada) para nuestra salvación.&nbsp;
+### Según las Escrituras, solo se requiere una respuesta del hombre. Es solo ***fe*** en Cristo. Esto es simplemente tomar lo que Dios dice en Su Palabra y <u>confiar</u> en Su ***solución*** (Cristo y Su obra terminada) para nuestra salvación.&nbsp;
 
 ## **Cliché de respuesta al Evangelio \#6: Pedirle a Jesús que entre en tu corazón**&nbsp;
 
-### Este es probablemente el más común y popular de todos los clichés de respuesta al evangelio en el cristianismo moderno.&nbsp;
+### Este es probablemente el más común y <u>popular</u> de todos los clichés de respuesta al evangelio en el cristianismo moderno.&nbsp;
 
-#### ¡Un pastor estimó que le había pedido a Jesús que entrara en su corazón ***5,000*** veces cuando tenía dieciocho años! Afirma tener el *Libro Guinness de los Récords Mundiales* no oficial por hacerlo.
+#### ¡Un pastor estimó que le había pedido a Jesús que entrara en su corazón ***5,000*** veces cuando tenía dieciocho años! Afirma <u>tener</u> el *Libro Guinness de los Récords Mundiales* no oficial por hacerlo.
 
 ### Las siguientes son cinco razones bíblicas para ***nunca*** pedirle a Jesús que entre en tu corazón.
 
 #### **RAZÓN \# 1**:* "Pedirle a Jesús que entre en tu corazón" no se encontrará ***nunca*** en la Biblia.
 
-##### EN NINGUNA PARTE DE LA BIBLIA SE INSTRUYE A NADIE A PEDIRLE A CRISTO QUE ENTRE EN SU CORAZÓN PARA SER ***salvo***, ¡y en ninguna parte de la Biblia hay un ejemplo de que esto suceda! (Más allá de esto, ¿realmente necesitamos otra razón?)
+##### EN NINGUNA PARTE DE LA BIBLIA SE INSTRUYE A NADIE A PEDIRLE A CRISTO QUE ENTRE EN SU CORAZÓN PARA SER ***salvo***, ¡y en ninguna parte de la Biblia hay un <u>ejemplo</u> de que esto suceda! (Más allá de esto, ¿realmente necesitamos otra razón?)
 
-##### ES SEGURO ASUMIR QUE SI NUNCA ESCUCHASTE UNA RADIO CRISTIANA, ASISTISTE A UNA CRUZADA EVANGELÍSTICA O FUISTE A UNA IGLESIA, Y TODO LO QUE HICISTE FUE ***leer*** tu Biblia, entonces *no* llegarás a la conclusión de que debes pedirle a Jesús que entre en tu corazón para ser salvo.&nbsp;
+##### ES SEGURO ASUMIR QUE SI NUNCA ESCUCHASTE UNA RADIO CRISTIANA, ASISTISTE A UNA CRUZADA EVANGELÍSTICA O FUISTE A UNA IGLESIA, Y TODO LO QUE HICISTE FUE ***leer*** tu Biblia, entonces *no* llegarás a la conclusión de que <u>debes</u> pedirle a Jesús que entre en tu corazón para ser salvo.&nbsp;
 
 ### **RAZÓN \# 2: "Pedirle a Jesús que entre en tu corazón" no es la forma en que uno es ***salvo***.
 
-#### Hechos 16:30-31, Efesios 2:8-9 y muchos otros pasajes nos enseñan que somos salvos por gracia a través de la fe en la persona y obra de Jesucristo.&nbsp;
+#### Hechos 16:30-31, Efesios 2:8-9 y muchos otros pasajes nos enseñan que somos <u>salvos</u> por gracia a través de la fe en la persona y obra de Jesucristo.&nbsp;
 
-##### *Pedirle* algo a alguien implica que la respuesta está en ***duda***, lo que significa que podría ser "sí" o podría ser "no".
+##### *Pedirle* algo a <u>alguien</u> implica que la respuesta está en ***duda***, lo que significa que podría ser "sí" o podría ser "no".
 
-##### La *fe bíblica* implica que una obra ***ya*** se ha hecho, y usted está confiando en ella para salvarlo.
+##### La *fe bíblica* implica que una obra ***ya*** se ha hecho, y usted está confiando en <u>ella</u> para salvarlo.
 
-##### El creer o la fe descansa en un resultado ***conocido***, mientras que pedirle algo a alguien implica un resultado ***desconocido***.
+##### El <u>creer</u> o la fe descansa en un resultado ***conocido***, mientras que pedirle algo a alguien implica un resultado ***desconocido***.
 
-##### Debido a que *pedirle* perdón a Dios, por definición, tiene un nivel de duda implícito, este cliché de uso frecuente es realmente una forma sutil de ***incredulidad*** y **no** de fe.
+##### Debido a que *pedirle* perdón a Dios, por definición, tiene un nivel de <u>duda</u> implícito, este cliché de uso frecuente es realmente una forma sutil de ***incredulidad*** y **no** de fe.
 
-##### Cristo no entra en los corazones de los creyentes porque se lo ***pidan***; sino que es un ***resultado*** directo de creer en Él.&nbsp;
+##### Cristo no entra en los corazones de los creyentes <u>porque</u> se lo ***pidan***; sino que es un ***resultado*** directo de creer en Él.&nbsp;
 
 ### **RAZÓN \# 3: "Pedirle a Jesús que entre en tu corazón" no requiere ***comprensión*** del evangelio para hacerlo.&nbsp;
 
-#### Recuerde que el evangelio es que Jesucristo (el Dios-hombre) murió por nuestros pecados y resucitó. Puedes pedirle a Jesús que entre en tu corazón sin creer o incluso ***conocer*** esta verdad.
+#### Recuerde que el evangelio es que Jesucristo (el Dios-hombre) murió por nuestros pecados y resucitó. Puedes pedirle a Jesús que entre en tu corazón sin <u>creer</u> o incluso ***conocer*** esta verdad.
 
-#### A lo largo de los años, en cientos de conversaciones con personas sobre la salvación, es sorprendente notar que muchos de los que han *pedido a Jesús que entre en sus corazones* ni siquiera mencionan a ***Cristo*** o Su obra.&nbsp;
+#### A lo largo de los años, en <u>cientos</u> de conversaciones con personas sobre la salvación, es sorprendente notar que muchos de los que han *pedido a Jesús que entre en sus corazones* ni siquiera mencionan a ***Cristo*** o Su obra.&nbsp;
 
-##### De hecho, muchas de estas personas continúan enseñando cómo las buenas obras son ***necesarias*** para ser salvo o permanecer salvos.
+##### De hecho, muchas de estas personas continúan enseñando cómo las buenas <u>obras</u> son ***necesarias*** para ser salvo o permanecer salvos.
 
-##### Esto se debe a que su confianza (fe) está puesta en lo ***equivocado***. Su confianza ha sido dirigida a un evento o un proceso en el que se les dijo que le pidieran a Jesús que entrara en sus corazones (generalmente a través de un tipo de *oración de pecador*), y por lo tanto su confianza **no** está solo en la obra ***terminada*** de Cristo.&nbsp;
+##### Esto se debe a que su confianza (fe) está puesta en lo ***equivocado***. Su confianza ha sido dirigida a un evento o un proceso en el que se les dijo que le pidieran a Jesús que <u>entrara</u> en sus corazones (generalmente a través de un tipo de *oración de pecador*), y por lo tanto su confianza **no** está solo en la obra ***terminada*** de Cristo.&nbsp;
 
-#### Si alguien te preguntara: "¿Sabes con certeza que eres salvo y que iras al cielo? Si tu respuesta es afirmativa, ¿por qué?" El enfoque de tu respuesta debe estar en las ***Buenas Nuevas*** de Jesucristo muriendo por tus pecados y resucitando, ***no*** en algún evento en el que le pediste a Jesús que entrara en tu corazón. ¡Este es el ***evento*** *equivocado*!&nbsp;
+#### Si alguien te preguntara: "¿Sabes con certeza que eres salvo y que iras al cielo? Si tu respuesta es afirmativa, ¿por qué?" El enfoque de tu respuesta debe estar en las ***Buenas Nuevas*** de Jesucristo <u>muriendo</u> por tus pecados y resucitando, ***no*** en algún evento en el que le pediste a Jesús que entrara en tu corazón. ¡Este es el ***evento*** *equivocado*!&nbsp;
 
 ### **RAZÓN \# 4: "Pedirle a Jesús que entre en tu corazón" no da como resultado ninguna ***seguridad*** de salvación; o trae una ***falsa*** seguridad a las personas.&nbsp;
 
 #### ¡NADIE HA SIDO ***salvo*** por *pedirle a Jesús que entre en su corazón*! De hecho, ¡nadie puede salvarse pidiéndole *a Jesús que entre en su corazón*!&nbsp;
 
-##### Esta es probablemente la razón por la que muchas personas que han *pedido a Jesús que entre en sus corazones* lo han hecho más de ***una*** vez.
+##### Esta es probablemente la razón por la que <u>muchas</u> personas que han *pedido a Jesús que entre en sus corazones* lo han hecho más de ***una*** vez.
 
-##### Inevitablemente, esto se debe a que esta respuesta pone el enfoque de las personas en sí mismas, y ***no*** en Jesucristo.
+##### Inevitablemente, esto se debe a que esta respuesta <u>pone</u> el enfoque de las personas en sí mismas, y ***no*** en Jesucristo.
 
-##### Desafortunadamente, para muchos de nosotros, el ***objeto*** de nuestra fe (en lo que confiamos para ser salvos) se convierte en el evento en el que le *pedimos a Jesús que entrara en nuestros corazones, **no*** el ***evento*** de la obra terminada de Jesucristo.
+##### Desafortunadamente, para <u>muchos</u> de nosotros, el ***objeto*** de nuestra fe (en lo que confiamos para ser salvos) se convierte en el evento en el que le *pedimos a Jesús que entrara en nuestros corazones, **no*** el ***evento*** de la obra terminada de Jesucristo.
 
-##### "Pedir a Jesús que entre en nuestros corazones" es un objeto de fe poco ***confiable***, y en el fondo lo sabemos, y es por eso que muchos de nosotros lo hemos hecho repetidamente.&nbsp;
+##### "Pedir a Jesús que entre en nuestros corazones" es un objeto de fe poco ***confiable***, y en el fondo lo sabemos, y es por eso que muchos de nosotros lo hemos <u>hecho</u> repetidamente.&nbsp;
 
-#### AHORA, ALGUNAS PERSONAS PUEDEN HABER PUESTO SU CONFIANZA SOLO EN CRISTO PERO ESTÁN CONFUNDIDAS. SIN EMBARGO, SON VERDADERAMENTE SALVOS PORQUE PONEN SU CONFIANZA SOLO EN CRISTO, *no* porque *le pidieron a Jesús que entrara en sus corazones*.
+#### AHORA, ALGUNAS PERSONAS PUEDEN HABER PUESTO SU CONFIANZA SOLO EN CRISTO PERO ESTÁN CONFUNDIDAS. SIN EMBARGO, SON VERDADERAMENTE SALVOS <u>PORQUE</u> PONEN SU CONFIANZA SOLO EN CRISTO, *no* porque *le pidieron a Jesús que entrara en sus corazones*.
 
-#### Debido a la ***incertidumbre*** que causa esta falsa respuesta, algunas preguntas y preocupaciones típicas surgen después de que uno le ha *pedido a Jesús que entre en sus corazones,* por ejemplo:
+#### Debido a la ***incertidumbre*** que causa esta <u>falsa</u> respuesta, algunas preguntas y preocupaciones típicas surgen después de que uno le ha *pedido a Jesús que entre en sus corazones,* por ejemplo:
 
 ##### ¿Realmente ***entró*** Jesucristo cuando se lo pedí?
 
@@ -558,21 +558,21 @@
 
 ##### ¿Cómo sé que Él entró con seguridad?&nbsp;
 
-#### ESTA FALTA DE SEGURIDAD OCURRE AL *pedirle a Jesús que entre en nuestros corazones* porque estamos cambiando el tema de la salvación a lo que estamos ***haciendo*** en lugar de poner nuestra confianza en Jesucristo, ¡y en lo que Él ***ya ha*** hecho por nosotros!&nbsp;
+#### ESTA FALTA DE SEGURIDAD OCURRE AL *pedirle a Jesús que entre en nuestros corazones* porque estamos cambiando el tema de la salvación a lo que estamos ***haciendo*** en lugar de poner <u>nuestra</u> confianza en Jesucristo, ¡y en lo que Él ***ya ha*** hecho por nosotros!&nbsp;
 
 ### **RAZÓN \# 5: Apocalipsis 3:20 **no** ***enseña*** a alguien *a pedirle a Jesús que entre en su corazón.*&nbsp;
 
-#### Curiosamente, las palabras *pedir*, *Jesús* y *corazón* ni siquiera se ***encuentran*** en este versículo: sin embargo, este es el texto de uso común para mostrar que esta respuesta falsa del evangelio es bíblica.
+#### Curiosamente, las palabras *pedir*, *Jesús* y *corazón* ni siquiera se ***encuentran*** en este versículo: sin embargo, este es el texto de uso común para mostrar que <u>esta</u> respuesta falsa del evangelio es bíblica.
 
-#### Como con todos los pasajes de la Biblia, el contexto es clave. Entonces, ¿quién es la audiencia original a la que Juan está escribiendo aquí? La ***iglesia*** en Laodicea es la audiencia original de Apocalipsis 3:20 (Apocalipsis 3:14-22 es el mensaje completo a la iglesia de Laodicea).  
+#### Como con todos los pasajes de la Biblia, el contexto es clave. Entonces, ¿quién es la audiencia original a la que Juan está escribiendo aquí? La ***iglesia*** en Laodicea es la audiencia <u>original</u> de Apocalipsis 3:20 (Apocalipsis 3:14-22 es el mensaje completo a la iglesia de Laodicea).  
 
-#### Jesús aquí no está enseñando cómo un ***incrédulo*** se salva, ni está dando un llamado a los incrédulos para que respondan al evangelio.&nbsp;
+#### Jesús aquí no está enseñando cómo un ***incrédulo*** se salva, ni está dando un <u>llamado</u> a los incrédulos para que respondan al evangelio.&nbsp;
 
-##### Lo que está claro en el pasaje es que Jesús está ***corrigiendo*** y ***reprendiendo*** a una iglesia local carnal y demasiado confiada.
+##### Lo que está claro en el pasaje es que Jesús está ***corrigiendo*** y ***reprendiendo*** a una iglesia <u>local</u> carnal y demasiado confiada.
 
-##### Esta es una iglesia que ha evaluado mal sus propias acciones y ha determinado que ella es el prototipo del ***éxito*** (vs. 17a). La evaluación de Jesús fue completamente ***diferente*** (vs. 17b-19).
+##### Esta es una <u>iglesia</u> que ha evaluado mal sus propias acciones y ha determinado que ella e1s el prototipo del ***éxito*** (vs. 17a). La evaluación de Jesús fue completamente ***diferente*** (vs. 17b-19).
 
-#### En el versículo 20, ¿a qué puerta está llamando Jesús? Por el contexto, está claro que Él está llamando a la puerta de la ***iglesia***, ***no*** al corazón del incrédulo.  &nbsp;
+#### En el versículo 20, ¿a qué puerta <u>está</u> llamando Jesús? Por el contexto, está claro que Él está llamando a la puerta de la ***iglesia***, ***no*** al corazón del incrédulo.  &nbsp;
 
 ##### Este versículo trata sobre la ***comunión*** con el Señor, como lo demuestra la descripción de "cenar con Él" para el creyente, ***no*** la salvación para el incrédulo.
 
@@ -582,583 +582,583 @@
 
 ## **Reseña rápida**&nbsp;
 
-### El ***doble*** problema de la humanidad se resume en: (1) Tenemos una ***deuda*** que no podemos pagar (muerte), y (2) **no** tenemos la justicia ***perfecta*** necesaria para entrar al Cielo (el lugar perfecto de Dios).
+### El ***doble*** problema de la humanidad se resume en: (1) Tenemos una ***deuda*** que no podemos pagar (muerte), y (2) **no** tenemos la justicia ***perfecta*** necesaria para <u>entrar</u> al Cielo (el lugar perfecto de Dios).
 
-### El evangelio es lo único que se ocupa de nuestro ***doble*** problema. El evangelio es la única ***solución***.
+### El evangelio es lo único que se <u>ocupa</u> de nuestro ***doble*** problema. El evangelio es la única ***solución***.
 
-### El evangelio es el mensaje objetivo e histórico de lo que Dios ***ya ha*** hecho para salvarnos de Su justa ira (nuestra deuda) y proporcionarnos una justicia que nunca podríamos obtener por nosotros mismos, permitiéndonos así vivir eternamente con Él.
+### El evangelio es el mensaje objetivo e histórico de lo que Dios ***ya ha*** hecho para salvarnos de Su justa ira (nuestra deuda) y proporcionarnos una justicia que nunca podríamos <u>obtener</u> por nosotros mismos, permitiéndonos así vivir eternamente con Él.
 
-### Entonces, ¿qué hizo Dios exactamente? Él envió a Su Hijo Jesucristo (completamente Dios y completamente hombre) para ***morir*** por nuestros pecados y ***resucitar***.
+### Entonces, ¿qué hizo Dios exactamente? Él envió a Su <u>Hijo</u> Jesucristo (completamente Dios y completamente hombre) para ***morir*** por nuestros pecados y ***resucitar***.
 
-### Según las Escrituras, solo se requiere una respuesta de la humanidad. Es solo ***fe*** en Cristo. Esto es simplemente tomar lo que Dios dice en Su palabra y confiar en Su ***solución*** (Cristo y Su obra terminada) para nuestra salvación.&nbsp;
+### Según las Escrituras, solo se requiere una respuesta de la humanidad. Es solo ***fe*** en Cristo. Esto es simplemente tomar lo que Dios dice en Su palabra y <u>confiar</u> en Su ***solución*** (Cristo y Su obra terminada) para nuestra salvación.&nbsp;
 
 ## **Cliché de respuesta al Evangelio \#7: Arrepiéntete "de" *o* arrepiéntete "por" tus pecados.**&nbsp;
 
-### Puede que te sorprenda saber que la frase “*arrepiéntete ***de*** tus pecados* o *arrepiéntete ***por*** tus pecados”* no se encuentra en ninguna parte de la Biblia.
+### Puede que te sorprenda <u>saber</u> que la frase “*arrepiéntete ***de*** tus pecados* o *arrepiéntete ***por*** tus pecados”* no se encuentra en ninguna parte de la Biblia.
 
-### La Palabra de Dios no ***exige*** el arrepentimiento de los pecados para ser salvo, pero cada persona que alguna vez ha creído en Jesucristo se ha arrepentido de algo.
+### La Palabra de Dios no ***exige*** el arrepentimiento de los pecados para ser salvo, pero cada persona que alguna vez ha creído en Jesucristo se ha arrepentido de <u>algo</u>.
 
 ### Entonces, ¿qué significa *arrepentirse*?&nbsp;
 
-#### *Metanoeo* (verbo) o *metanoia* (sustantivo) son palabras compuestas en griego formadas por dos palabras: *meta*, que significa un ***cambio*** de lugar o condición, y *noeo*, que significa ejercitar la ***mente***, pensar o comprender.
+#### *Metanoeo* (verbo) o *metanoia* (sustantivo) son palabras compuestas en <u>griego</u> formadas por dos palabras: *meta*, que significa un ***cambio*** de lugar o condición, y *noeo*, que significa ejercitar la ***mente***, pensar o comprender.
 
-#### Juntando estos dos, la palabra significa cambiar la ***mente***, ceder, un pensamiento tardío o un pensamiento diferente del pensamiento anterior.
+#### Juntando estos dos, la palabra significa cambiar la ***mente***, ceder, un pensamiento <u>tardío</u> o un pensamiento diferente del pensamiento anterior.
 
-#### Algunas definiciones ***erróneas*** pero comunes de la palabra *arrepentirse* son las siguientes: sentir lástima por su pecado, dar un giro de 180 grados y alejarse del pecado y volverse a Dios.
+#### Algunas definiciones ***erróneas*** pero comunes de la palabra *arrepentirse* son las siguientes: sentir <u>lástima</u> por su pecado, dar un giro de 180 grados y alejarse del pecado y volverse a Dios.
 
-#### Todo estudiante de la Biblia desea entender lo que significaban las palabras bíblicas en el tiempo en que fueron escritas. Este es el principio original de la audiencia. ¿Qué habría significado la palabra para la audiencia a la que se escribió durante ese tiempo específico? Esto es parte del contexto de las Escrituras.
+#### Todo estudiante de la Biblia desea entender lo que significaban las palabras bíblicas en el tiempo en que fueron escritas. Este es el principio original de la audiencia. ¿Qué habría significado la palabra para la <u>audiencia</u> a la que se escribió durante ese tiempo específico? Esto es parte del contexto de las Escrituras.
 
-#### Para un ejemplo secular de esto, si usted y yo leyéramos algo que dijera que George Washington era gay, nunca interpretaríamos que era ***homosexual***. Entenderíamos que el uso normal y común de la palabra *gay* en la época de George Washington era para describir a alguien feliz.
+#### Para un ejemplo secular de esto, si usted y yo leyéramos algo que dijera que George Washington era gay, nunca interpretaríamos que era ***homosexual***. Entenderíamos que el uso <u>normal</u> y común de la palabra *gay* en la época de George Washington era para describir a alguien feliz.
 
 ### Consideremos una breve historia del uso de la palabra *arrepentirse* en griego:
 
 #### Uso clásico (900-300 a. C.)&nbsp;
 
-##### El significado de *arrepentirse*, tanto para Platón como para Jenofonte (430-350 a.C.) era *cambiar de ***opinión, y el significado para Tucídides (471-400 a.C.) era *una ocurrencia tardía*.
+##### El significado de *arrepentirse*, tanto para Platón como <u>para</u> Jenofonte (430-350 a.C.) era *cambiar de ***opinión, y el significado para Tucídides (471-400 a.C.) era *una ocurrencia tardía*.
 
-##### Tucídides escribe sobre una revuelta en la ciudad de Mitilene que el concilio ateniense tuvo que abordar. En el primer juicio, el consejo decidió ***matar*** a todos en la ciudad, no solo a los que se estaban rebelando. Sin embargo, a la mañana siguiente se dijo que se habían *arrepentido* y decidieron matar solo a los ***participantes*** en la revuelta.&nbsp;
+##### Tucídides escribe sobre una revuelta en la ciudad de Mitilene que el concilio ateniense tuvo que abordar. En el primer juicio, el consejo decidió ***matar*** a todos en la ciudad, no solo a los que se <u>estaban</u> rebelando. Sin embargo, a la mañana siguiente se dijo que se habían *arrepentido* y decidieron matar solo a los ***participantes*** en la revuelta.&nbsp;
 
 ### ***Uso de Koiné (300 a.C.-100 d.C.)***&nbsp;
 
-#### Polibio (208-126 a. C.), al describir el plan del pueblo Dardani para atacar Macedonia mientras Filipo estaba fuera, usó la palabra *arrepentimiento* para describir el cambio de planes de los Dardanios cuando Filipo regresó rápidamente antes de que pudieran atacar.
+#### Polibio (208-126 a. C.), al describir el plan del pueblo Dardani para atacar Macedonia mientras Filipo estaba fuera, usó la palabra *arrepentimiento* para describir el <u>cambio</u> de planes de los Dardanios cuando Filipo regresó rápidamente antes de que pudieran atacar.
 
-#### Plutarco (46 a.C.-120 d.C.) cuenta la historia de Cípselo, quien cuando era un bebé se suponía que iba a ser asesinado por unos pocos hombres enviados para matarlo. Cuando llegaron a Cípselo, les sonrió, y los hombres cambiaron de ***opinión*** y decidieron no matarlo. Luego, después de que se fueron y tuvieron tiempo de pensarlo un poco más, cambiaron de opinión ***nuevamente*** y decidieron encontrarlo de nuevo para poder matarlo, pero no pudieron encontrarlo la segunda vez.&nbsp;
+#### Plutarco (46 a.C.-120 d.C.) cuenta la historia de Cípselo, quien cuando era un bebé se suponía que iba a ser asesinado por unos pocos hombres enviados para matarlo. Cuando llegaron a Cípselo, les sonrió, y los hombres cambiaron de ***opinión*** y decidieron no matarlo. Luego, después de que se <u>fueron</u> y tuvieron tiempo de pensarlo un poco más, cambiaron de opinión ***nuevamente*** y decidieron encontrarlo de nuevo para poder matarlo, pero no pudieron encontrarlo la segunda vez.&nbsp;
 
 ### ***Uso de la Septuaginta (LXX) (250 a. C.) – Antiguo Testamento griego***&nbsp;
 
 #### Hay ***veinte*** ap4ariciones de las palabras griegas *metanoeo* (arrepentimiento) y *metanoia* (arrepentirse) en la Septuaginta (LXX).&nbsp;
 
-##### Trece pertenecen a ***Dios***, arrepintiéndose o no arrepintiéndose.
+##### Trece pertenecen a ***Dios***, arrepintiéndose o <u>no</u> arrepintiéndose.
 
-##### Cuatro ocurren en el libro de ***Proverbios*** e involucran a personas que piensan o cambian de opinión sobre algo.
+##### Cuatro ocurren en el libro de ***Proverbios*** e involucran a personas que <u>piensan</u> o cambian de opinión sobre algo.
 
-##### Otros tres involucran a pecadores que cambian de ***opinión*** sobre la naturaleza de Dios o su pecado.&nbsp;
+##### Otros tres involucran a <u>pecadores</u> que cambian de ***opinión*** sobre la naturaleza de Dios o su pecado.&nbsp;
 
-#### En cuanto a lo que la gente cambia de opinión no está implícito en la palabra *arrepentirse*. *Arrepentirse* puede usarse para el ***pecado***, o puede usarse para algo ***bueno***.
+#### En cuanto a lo que la gente cambia de <u>opinión</u> no está implícito en la palabra *arrepentirse*. *Arrepentirse* puede usarse para el ***pecado***, o puede usarse para algo ***bueno***.
 
-#### Cada versículo de la Biblia que usa la palabra *arrepentirse* habla de ***quién*** necesita específicamente cambiar de opinión o de pensamiento, y sobre ***qué*** necesita cambiar de opinión o de pensamiento.
+#### Cada versículo de la Biblia que usa la palabra *arrepentirse* habla de ***quién*** necesita específicamente <u>cambiar</u> de opinión o de pensamiento, y sobre ***qué*** necesita cambiar de opinión o de pensamiento.
 
-#### En el momento en que creíste en Cristo, cambiaste de opinión sobre lo que solías ***creer*** y decidiste creer exclusivamente en Jesucristo. Este fue el mensaje de Juan el Bautista (ver Hechos 19:4).
+#### En el momento en que creíste en Cristo, cambiaste de opinión sobre lo que solías ***creer*** y decidiste <u>creer</u> exclusivamente en Jesucristo. Este fue el mensaje de Juan el Bautista (ver Hechos 19:4).
 
-#### El arrepentimiento implica que ninguna persona es una ***pizarra*** en blanco antes de la salvación. ¡Cada individuo confía en algo o alguien!&nbsp;
+#### El arrepentimiento implica que ninguna persona es una ***pizarra*** en blanco antes de la salvación. ¡Cada individuo <u>confía</u> en algo o alguien!&nbsp;
 
 ### Entonces, ¿qué salió ***mal*** con el significado de la palabra *arrepentirse* y por qué su significado es tan erróneo y confuso hoy en día?&nbsp;
 
-#### Al principio de la historia de la Iglesia (dentro de los primeros siglos después de los apóstoles), surgió una falsa enseñanza con respecto al pecado y la solución de Dios para él.
+#### Al principio de la <u>historia</u> de la Iglesia (dentro de los primeros siglos después de los apóstoles), surgió una falsa enseñanza con respecto al pecado y la solución de Dios para él.
 
-#### La falsa enseñanza fue esta: El pecado original y todos los pecados cometidos ***antes*** del bautismo eran eliminados por el bautismo.
+#### La falsa enseñanza fue esta: El pecado original y todos los pecados <u>cometidos</u> ***antes*** del bautismo eran eliminados por el bautismo.
 
-##### Debido a esta creencia, las personas esperaban hasta estar cerca de la ***muerte*** para bautizarse.
+##### Debido a esta creencia, las personas esperaban <u>hasta</u> estar cerca de la ***muerte*** para bautizarse.
 
-##### Este tipo de malentendidos preocupó a los pastores y maestros de la Biblia de la época. Y en lugar de dirigirlos de regreso a la Biblia y al cumplimiento de la obra consumada de Cristo, ellos reaccionaron a esta enseñanza tomando otra dirección equivocada.&nbsp;
+##### Este tipo de malentendidos preocupó a los pastores y maestros de la Biblia de la época. Y en <u>lugar</u> de dirigirlos de regreso a la Biblia y al cumplimiento de la obra consumada de Cristo, ellos reaccionaron a esta enseñanza tomando otra dirección equivocada.&nbsp;
 
-### Su reacción a esta falsa enseñanza fue así: El arrepentimiento es la solución para los pecados postbautismales. Sin embargo, el arrepentimiento, tal como lo definieron estos teólogos bien intencionados, implicaba ***sentir*** lástima y ***confesar*** los pecados postbautismales, así como realizar actos de ***penitencia***.
+### Su reacción a esta falsa enseñanza fue así: El arrepentimiento es la solución para los pecados postbautismales. Sin embargo, el arrepentimiento, tal como lo definieron estos teólogos <u>bien</u> intencionados, implicaba ***sentir*** lástima y ***confesar*** los pecados postbautismales, así como realizar actos de ***penitencia***.
 
-### Para reflejar esta teología, las palabras griegas para *arrepentirse* y *arrepentimiento* se tradujeron al ***latín*** con palabras que significan "hacer actos de penitencia".
+### Para reflejar esta teología, las palabras griegas para *arrepentirse* y *arrepentimiento* se tradujeron al ***latín*** con <u>palabras</u> que significan "hacer actos de penitencia".
 
-### Entonces, cuando Jerónimo (340-420 d.C.) hizo la traducción de la Biblia en griego a la *vulgata latina,* ***conservó*** la práctica de traducir metanoeo*/*metanoia *(*arrepentimiento *y* arrepentirse*) con una palabra latina que significa "hacer actos de penitencia".*&nbsp;
+### Entonces, cuando Jerónimo (340-420 d.C.) hizo la traducción de la <u>Biblia</u> en griego a la *vulgata latina,* ***conservó*** la práctica de traducir metanoeo*/*metanoia *(*arrepentimiento *y* arrepentirse*) con una palabra latina que significa "hacer actos de penitencia".*&nbsp;
 
 #### Esta palabra latina *poenitentia* significa *lamentar, entristecer, disgustar, o hacer ***penitencia***.*
 
-#### Debido a que la traducción latina de la Biblia (conocida como la *Vulgata*) se convirtió en la traducción ***estándar*** durante muchos siglos (1.100 años), provocó un cambio en el significado de la palabra *“arrepentirse”* que significa *cambio de opinión* a otro significado *dolor por el pecado,* que se ha mantenido en gran parte hasta nuestros días.
+#### Debido a que la traducción latina de la Biblia (conocida como la *Vulgata*) se convirtió en la traducción ***estándar*** durante muchos siglos (1.100 años), <u>provocó</u> un cambio en el significado de la palabra *“arrepentirse”* que significa *cambio de opinión* a otro significado *dolor por el pecado,* que se ha mantenido en gran parte hasta nuestros días.
 
-#### Además de eso, John Wycliffe (1320-1384 d.C.), mientras traducía la primera Biblia en inglés, ***se basó*** más en la *Vulgata latina* que en los textos originales hebreos y griegos.
+#### Además de eso, John Wycliffe (1320-1384 d.C.), mientras traducía la <u>primera</u> Biblia en inglés, ***se basó*** más en la *Vulgata latina* que en los textos originales hebreos y griegos.
 
-#### La versión *católica romana de Douay* (1609-1610) hizo lo ***mismo***, y de ahí la razón del ***arrastre*** del énfasis incorrecto con la palabra.&nbsp;
+#### La versión *católica romana de Douay* (1609-1610) hizo lo ***mismo***, y de ahí la razón del ***arrastre*** del énfasis <u>incorrecto</u> con la palabra.&nbsp;
 
 ### Hoy en día, cuando muchas personas dicen que uno debe arrepentirse *de su pecado para ser salvo, están diciendo que uno debe* alejarse del pecado.&nbsp;
 
-#### Para estas personas no significa que la persona debe ser perfecta (sin pecado), sino que debe tener el deseo de pecar menos. Y en algún momento, debe ser ***menos*** pecadora de lo que fue antes de ser salva.
+#### Para estas personas no significa que la persona debe ser perfecta (sin pecado), sino que debe tener el deseo de pecar menos. Y en algún momento, debe ser ***menos*** <u>pecadora</u> de lo que fue antes de ser salva.
 
 ##### ¡Cómo se mida esto, bíblicamente es un ***misterio***!
 
-##### Por lo general, se argumenta que si los individuos siguen cometiendo ***habitualmente*** el mismo pecado que cometían antes de ser salvos, entonces nunca se arrepintieron verdaderamente de ese pecado.
+##### Por lo general, se argumenta que si los individuos siguen cometiendo ***habitualmente*** el mismo pecado que cometían antes de ser salvos, entonces <u>nunca</u> se arrepintieron verdaderamente de ese pecado.
 
-##### Sin embargo, si ese es el caso, ¿cuántas veces pueden las personas cometer un pecado después de ser salvas antes de que el pecado se considere "***habitual***"? ¿Es una vez al año, una vez al mes, una vez a la semana, etc.?&nbsp;
+##### Sin embargo, si ese es el caso, ¿cuántas veces pueden las personas <u>cometer</u> un pecado después de ser salvas antes de que el pecado se considere "***habitual***"? ¿Es una vez al año, una vez al mes, una vez a la semana, etc.?&nbsp;
 
-###### Y, si este es el caso, ¿a qué pasaje bíblico podemos acudir para esta clara delineación de la enseñanza? ¡La verdad es que tal pasaje no existe!
+###### Y, si este es el caso, ¿a qué pasaje bíblico podemos acudir para esta <u>clara</u> delineación de la enseñanza? ¡La verdad es que tal pasaje no existe!
 
-###### Si uno tuviera que usar la definición incorrecta de "arrepentimiento" promovida por tanta gente, ¿no sería la conclusión lógica: "Si realmente te has arrepentido (te has alejado del pecado), entonces ***nunca*** debes volver a ese pecado porque si vuelves al mismo pecado, es una indicación de que no te arrepentiste ***verdaderamente***"?&nbsp;
+###### Si uno tuviera que <u>usar</u> la definición incorrecta de "arrepentimiento" promovida por tanta gente, ¿no sería la conclusión lógica: "Si realmente te has arrepentido (te has alejado del pecado), entonces ***nunca*** debes volver a ese pecado porque si vuelves al mismo pecado, es una indicación de que no te arrepentiste ***verdaderamente***"?&nbsp;
 
-##### Además, ¿qué pasa si alguien comete un "***nuevo***" pecado después de ser salvo, un pecado que la persona nunca antes había cometido? ¿esa persona se pierde, y ahora necesita "apartarse de ese pecado" para volver a ser salva?&nbsp;
+##### Además, ¿qué pasa si alguien <u>comete</u> un "***nuevo***" pecado después de ser salvo, un pecado que la persona nunca antes había cometido? ¿esa persona se pierde, y ahora necesita "apartarse de ese pecado" para volver a ser salva?&nbsp;
 
-#### Si el arrepentimiento exige cierto nivel de mejora en la espiritualidad, pecando ***menos***, entonces uno puede ver que esta respuesta es una respuesta orientada a las ***obras,*** que requiere que las personas limpien su vida para ser salvos o permanecer salvos.
+#### Si el arrepentimiento exige cierto nivel de mejora en la espiritualidad, pecando ***menos***, entonces uno puede ver que esta respuesta es una respuesta <u>orientada</u> a las ***obras,*** que requiere que las personas limpien su vida para ser salvos o permanecer salvos.
 
-#### Esto pone el enfoque del arrepentimiento en un "cambio de conducta" y ***no*** en un "cambio de ***pensamiento***", que es un mal uso de la palabra *arrepentirse*.
+#### Esto pone el <u>enfoque</u> del arrepentimiento en un "cambio de conducta" y ***no*** en un "cambio de ***pensamiento***", que es un mal uso de la palabra *arrepentirse*.
 
-#### Este tipo de pensamiento ***contradice*** el pensamiento bíblico. Pensamiento bíblico = "Soy un pecador sin esperanza y ***necesito*** un Salvador". El pensamiento no bíblico se asocia con un cambio de conducta, visión del arrepentimiento = "Soy un pecador esperanzado y puedo ***ayudar*** a salvarme".
+#### Este tipo de pensamiento ***contradice*** el pensamiento bíblico. Pensamiento bíblico = "Soy un pecador sin esperanza y ***necesito*** un Salvador". El pensamiento no bíblico se asocia con un cambio de conducta, visión del arrepentimiento = "Soy un pecador esperanzado y <u>puedo</u> ***ayudar*** a salvarme".
 
-#### ¡Ninguna cantidad de reforma en conducta, reforma del carácter, educación, compromiso o renuncia a los pecados puede proporcionar limpieza de las consecuencias de los pecados pasados! La "paga del pecado es muerte", ¡y Jesús mismo y solo Él pagó la pena por los pecados (incluidos los pecados futuros) en su ***totalidad*** en la cruz!&nbsp;
+#### ¡Ninguna cantidad de reforma en conducta, reforma del carácter, educación, compromiso o renuncia a los pecados puede proporcionar limpieza de las consecuencias de los pecados pasados! La "paga del pecado es muerte", ¡y Jesús mismo y solo Él pagó la <u>pena</u> por los pecados (incluidos los pecados futuros) en su ***totalidad*** en la cruz!&nbsp;
 
-### Para una observación detallada a varios pasajes de la Biblia y el significado del uso de la palabra traducida *arrepentirse* en esos pasajes, consulte la sección "Estudio adicional" para la Lección 6.
+### Para una observación detallada a varios pasajes de la Biblia y el significado del uso de la palabra traducida *arrepentirse* en esos pasajes, consulte la <u>sección</u> "Estudio adicional" para la Lección 6.
 
 # Clichés de respuesta al evangelio – (#8) Haz de Cristo el Señor de tu vida (es decir, salvación por señorío)
 
 ## **Reseña rápida**&nbsp;
 
-### El ***doble*** problema de la humanidad se resume en: (1) Tenemos una ***deuda*** que no podemos pagar (muerte), y (2) **no** tenemos la justicia ***perfecta*** necesaria para entrar al Cielo (el lugar perfecto de Dios).
+### El ***doble*** problema de la humanidad se resume en: (1) Tenemos una ***deuda*** que no podemos pagar (muerte), y (2) **no** tenemos la justicia ***perfecta*** necesaria para <u>entrar</u> al Cielo (el lugar perfecto de Dios).
 
-### El evangelio es lo único que se ocupa de nuestro ***doble*** problema. El evangelio es la única ***solución***.
+### El evangelio es lo único que se <u>ocupa</u> de nuestro ***doble*** problema. El evangelio es la única ***solución***.
 
-### El evangelio es el mensaje objetivo e histórico de lo que Dios ***ya ha*** hecho para salvarnos de Su justa ira (nuestra deuda) y proporcionarnos una justicia que nunca podríamos obtener por nosotros mismos, permitiéndonos así vivir eternamente con Él.
+### El evangelio es el mensaje objetivo e histórico de lo que Dios ***ya ha*** hecho para salvarnos de Su justa ira (nuestra deuda) y proporcionarnos una justicia que nunca podríamos <u>obtener</u> por nosotros mismos, permitiéndonos así vivir eternamente con Él.
 
-### ¿Qué hizo Dios exactamente? Él envió a Su Hijo Jesucristo (completamente Dios y completamente hombre) para ***morir*** por nuestros pecados y ***resucitar***.
+### ¿Qué hizo Dios exactamente? Él envió a Su Hijo <u>Jesucristo</u> (completamente Dios y completamente hombre) para ***morir*** por nuestros pecados y ***resucitar***.
 
-### Según las Escrituras, solo se requiere una respuesta de la humanidad. Es solo ***fe*** en Cristo. Esto es simplemente tomar lo que Dios dice en Su palabra y confiar en Su ***solución*** (Cristo y Su obra terminada) para nuestra salvación.&nbsp;
+### Según las Escrituras, solo se requiere una respuesta de la humanidad. Es solo ***fe*** en Cristo. Esto es simplemente tomar lo que Dios dice en Su palabra y <u>confiar</u> en Su ***solución*** (Cristo y Su obra terminada) para nuestra salvación.&nbsp;
 
 ## **Cliché de respuesta al Evangelio \#8: Haz de Cristo el Señor de tu vida – Salvación por señorío.**&nbsp;
 
 ### Este es un cliché que usa terminología bíblica, pero, desafortunadamente, ***confunde*** la justificación con la santificación.&nbsp;
 
-#### ¿Deberían los creyentes ***someterse*** al señorío o dominio de Cristo en sus vidas? ¡100%, sí!
+#### ¿Deberían los creyentes ***someterse*** al señorío o <u>dominio</u> de Cristo en sus vidas? ¡100%, sí!
 
-#### Pero, ¿tienen los incrédulos que someterse al señorío o dominio de Cristo en sus vidas para ser ***salvos***? ¡No! 
+#### Pero, ¿tienen los incrédulos que someterse al <u>señorío</u> o dominio de Cristo en sus vidas para ser ***salvos***? ¡No! 
 
-##### Solo la fe en la obra terminada de Cristo es la ***única*** respuesta bíblica requerida para ser salvo de la pena del pecado (muerte) y recibir la vida eterna.
+##### Solo la fe en la obra terminada de Cristo es la ***única*** respuesta bíblica requerida para ser salvo de la pena del pecado (muerte) y recibir la vida <u>eterna</u>.
 
-##### El momento en que las personas agregan una condición ***adicional***, incluido este cliché del evangelio de hacer de Jesús el Señor de sus vidas, han introducido un evangelio *de obras*.&nbsp;
+##### El momento en que las personas <u>agregan</u> una condición ***adicional***, incluido este cliché del evangelio de hacer de Jesús el Señor de sus vidas, han introducido un evangelio *de obras*.&nbsp;
 
-### Ahora bien, conviene hacer algunos comentarios aclaratorios adicionales, ya que para que un incrédulo sea salvo, necesita tener una visión ***precisa*** de *quién* es Jesucristo. ¡Jesús es completamente Dios y completamente hombre! ¡Él es el Señor!&nbsp;
+### Ahora bien, conviene hacer algunos comentarios aclaratorios adicionales, ya que para que un incrédulo sea salvo, necesita tener una visión ***precisa*** de *quién* es Jesucristo. ¡Jesús es completamente <u>Dios</u> y completamente hombre! ¡Él es el Señor!&nbsp;
 
 #### En Romanos 10:9-10, observe que al incrédulo no se le instruye a "hacer de Jesús *el* Señor de su vida", sino que se le dice que "***confiese*** a Jesús como Señor".
 
-##### Recuerde que la palabra *confesar* significa "decir lo ***mismo***". La verdad es que uno debe "decir lo mismo que" o "estar de acuerdo con" el Señor Jesús. ¿Qué significa esto en contexto?
+##### Recuerde que la palabra *confesar* significa "decir lo ***mismo***". La <u>verdad</u> es que uno debe "decir lo mismo que" o "estar de acuerdo con" el Señor Jesús. ¿Qué significa esto en contexto?
 
-##### La palabra griega *kurios,* traducida Señor tiene un significado genérico de señor, maestro, dueño o señor. Era genéricamente un título de ***respeto***.
+##### La palabra griega *kurios,* traducida Señor tiene un significado genérico de <u>señor</u>, maestro, dueño o señor. Era genéricamente un título de ***respeto***.
 
-##### Sin embargo, llegó a tener un uso más ***técnico***, especialmente en lo que se refiere a la traducción griega del Antiguo Testamento (la Septuaginta o LXX). ¡Esta palabra *kurios* se usa para el Dios de Israel que guarda el pacto (***Yahweh*** o Jehová) más de 8,600 veces!
+##### Sin embargo, llegó a tener un uso más ***técnico***, especialmente en lo que se refiere a la traducción griega del Antiguo Testamento (la Septuaginta o LXX). ¡Esta palabra *kurios* se usa para el Dios de <u>Israel</u> que guarda el pacto (***Yahweh*** o Jehová) más de 8,600 veces!
 
-##### Estos judíos ***incrédulos*** debían confesar que Jesús es Dios o Deidad. Debían estar ***de acuerdo*** con Pablo y la Palabra de Dios en que Jesús era Yahvé. (Véase Juan 8:24.)
+##### Estos judíos ***incrédulos*** debían confesar que Jesús es Dios o Deidad. Debían estar ***de acuerdo*** con Pablo y la Palabra de <u>Dios</u> en que Jesús era Yahvé. (Véase Juan 8:24.)
 
-#### El problema con el cliché de la respuesta del evangelio del señorío es que toma una verdad de ***santificación*** (someterse al señorío de Cristo) y la convierte en una verdad de justificación (cómo ser salvo).&nbsp;
+#### El problema con el cliché de la respuesta del evangelio del señorío es que <u>toma</u> una verdad de ***santificación*** (someterse al señorío de Cristo) y la convierte en una verdad de justificación (cómo ser salvo).&nbsp;
 
-##### Este "enturbiamiento de las aguas" ***confunde*** los 160 versículos claros, que dan a la fe como la ***única*** respuesta requerida para la justificación. (Ver Apéndice \# 2: 160 versículos que prueban la justificación solo por la fe).
+##### Este "enturbiamiento de las aguas" ***confunde*** los 160 versículos claros, que dan a la fe como la ***única*** respuesta requerida para la justificación. (Ver Apéndice \# 2: 160 versículos que <u>prueban</u> la justificación solo por la fe).
 
 ##### Es interesante notar que, al comparar las versiones de la Biblia (RV60, NBLA, LBLA, NVI y NTV) la palabra *rendición* ***nunca*** se encuentra en un contexto de salvación.&nbsp;
 
 ###### Si *rendirse* a Cristo fuera un ***requisito*** para ser salvo, ¿no deberíamos esperar que se enseñe en la Biblia?
 
-###### Al mirar las palabras en la Biblia traducidas como *comprometerse* y someterse, tampoco tienen relevancia para el tema de la ***justificación***, sino que se relacionan con la santificación y otros temas.&nbsp;
+###### Al mirar las palabras en la Biblia traducidas como *comprometerse* y someterse, tampoco tienen relevancia para el tema de la ***justificación***, sino que se relacionan con la santificación y otros <u>temas</u>.&nbsp;
 
-##### El cliché de la respuesta del evangelio del señorío requiere un compromiso de ser obediente a Cristo en su vida como una definición de sumisión al señorío de Cristo para ser salvo. Sin embargo, nadie podría hacer esto lo suficientemente perfecto como para garantizar o ***justificar*** el cielo.
+##### El cliché de la respuesta del evangelio del señorío requiere un compromiso de ser obediente a Cristo en su vida como una definición de sumisión al señorío de Cristo para ser salvo. Sin embargo, nadie podría <u>hacer</u> esto lo suficientemente perfecto como para garantizar o ***justificar*** el cielo.
 
-#### El cliché de la respuesta del evangelio del señorío nunca podría permitir que alguien sepa con certeza que es salvo, y por lo tanto los seguidores de este cliché carecen de ***seguridad***.&nbsp;
+#### El cliché de la respuesta del evangelio del señorío nunca podría permitir que alguien sepa con <u>certeza</u> que es salvo, y por lo tanto los seguidores de este cliché carecen de ***seguridad***.&nbsp;
 
-##### **1 Juan** 5:13 dice: "Estas cosas os he escrito a vosotros que creéis en el nombre del Hijo de Dios, para que ***sepáis*** que tenéis vida eterna". Dios quiere que los creyentes ***sepan*** que tienen vida eterna en el ***momento*** en que creen, ***no*** después de una vida de fidelidad.
+##### **1 Juan** 5:13 dice: "Estas cosas os he escrito a vosotros que creéis en el nombre del Hijo de Dios, para que ***sepáis*** que tenéis vida eterna". Dios <u>quiere</u> que los creyentes ***sepan*** que tienen vida eterna en el ***momento*** en que creen, ***no*** después de una vida de fidelidad.
 
-##### ¿Quién puede afirmar que nunca en ningún momento ha ***negado*** el señorío de Cristo en su vida? De hecho, los cristianos hacen esto cada vez que pecan.
+##### ¿Quién puede afirmar que nunca en <u>ningún</u> momento ha ***negado*** el señorío de Cristo en su vida? De hecho, los cristianos hacen esto cada vez que pecan.
 
-##### Si este fuera el **verdadero** estándar, o un requisito para la salvación, ¡entonces ***nadie*** podría ser salvo!
+##### Si este fuera el **verdadero** estándar, o un requisito para la <u>salvación</u>, ¡entonces ***nadie*** podría ser salvo!
 
-##### De hecho, ¿qué salva a una persona? ¿Una vida de ***rendirse*** fielmente al Señor, o un Salvador que paga la deuda de pecado en su totalidad, de modo que ***nunca*** se le exija a nadie personalmente por su castigo? Claramente, la Biblia enseña que es la obra ***terminada*** de Cristo, que está diseñada para dar al creyente plena seguridad (Hebreos 10:1-14).&nbsp;
+##### De hecho, ¿qué salva a una persona? ¿Una vida de ***rendirse*** fielmente al Señor, o un Salvador que paga la deuda de pecado en su totalidad, de modo que ***nunca*** se le exija a nadie personalmente por su castigo? Claramente, la Biblia enseña que es la obra ***terminada*** de Cristo, que está <u>diseñada</u> para dar al creyente plena seguridad (Hebreos 10:1-14).&nbsp;
 
 #### El cliché de la respuesta del evangelio del señorío no reconoce la realidad bíblica de un cristiano ***carnal***.&nbsp;
 
-##### Para ser claros desde el principio, argumentaríamos apasionadamente que la Biblia ***no*** ***promueve*** la carnalidad en la vida de un creyente; sin embargo, reconoce la posibilidad de que un creyente viva carnalmente.
+##### Para ser claros desde el principio, argumentaríamos apasionadamente que la Biblia ***no*** ***promueve*** la carnalidad en la vida de un creyente; sin embargo, <u>reconoce</u> la posibilidad de que un creyente viva carnalmente.
 
-##### Los defensores del señorío enseñan que un *cristiano carnal* ("uno que no está ***completamente*** sometido al señorío de Cristo") ***no** es* un cristiano en absoluto.&nbsp;
+##### Los defensores del señorío <u>enseñan</u> que un *cristiano carnal* ("uno que no está ***completamente*** sometido al señorío de Cristo") ***no** es* un cristiano en absoluto.&nbsp;
 
-###### Los defensores del señorío dicen que esta persona ***nunca*** fue realmente salva si continúa en una carnalidad obstinada.
+###### Los defensores del señorío dicen que <u>esta</u> persona ***nunca*** fue realmente salva si continúa en una carnalidad obstinada.
 
-###### Sin embargo, este es un caso perfecto en el que la teología de uno ***impulsa*** su interpretación.
+###### Sin embargo, este es un <u>caso</u> perfecto en el que la teología de uno ***impulsa*** su interpretación.
 
 ##### En 1 Corintios 3:1-4, Pablo les dice específicamente a los creyentes corintios que son *carnales*.
 
-###### Pablo está hablando a creyentes genuinos aquí. ¿Cómo sabemos esto? Es porque en el capítulo 3:1, Pablo los llama *hermanos*.&nbsp;
+###### Pablo está hablando a creyentes genuinos aquí. ¿Cómo sabemos esto? Es <u>porque</u> en el capítulo 3:1, Pablo los llama *hermanos*.&nbsp;
 
-###### Este es un término que Pablo y otros escritores bíblicos usan para describir y dirigirse a los ***creyentes*** en Jesucristo.
+###### Este es un término que <u>Pablo</u> y otros escritores bíblicos usan para describir y dirigirse a los ***creyentes*** en Jesucristo.
 
 ###### De hecho, Pablo usa el término *hermanos* en ***todos*** los capítulos de 1 Corintios, excepto en el capítulo 13.&nbsp;
 
-##### En el capítulo 3:3, Pablo dice que los creyentes corintios *siguen siendo* carnales. Esta es una condición ***continua*** que ha persistido durante algún tiempo.&nbsp;
+##### En el capítulo 3:3, Pablo dice que los creyentes <u>corintios</u> *siguen siendo* carnales. Esta es una condición ***continua*** que ha persistido durante algún tiempo.&nbsp;
 
-###### Esta declaración indica que la carnalidad en la vida del creyente puede estar en un estado ***continuo***. Una vez más, esto ***no** es* deseable ni se fomenta, pero es ***posible***.&nbsp;
+###### Esta declaración indica que la carnalidad en la <u>vida</u> del creyente puede estar en un estado ***continuo***. Una vez más, esto ***no** es* deseable ni se fomenta, pero es ***posible***.&nbsp;
 
-##### Todos los verbos en 3:3-4 son verbos en tiempo presente, lo que indica una acción actual o presente e incluso una acción continua. Por lo tanto, vivían en un estado ***continuo*** de carnalidad.
+##### Todos los verbos en 3:3-4 son verbos en <u>tiempo</u> presente, lo que indica una acción actual o presente e incluso una acción continua. Por lo tanto, vivían en un estado ***continuo*** de carnalidad.
 
 ### El cliché de la respuesta del evangelio del señorío confunde la palabra debe  con debería  en los pasajes relacionados con la santificación.&nbsp;
 
-#### Todos los maestros ortodoxos de la Biblia estarían de acuerdo en que los creyentes *no deben* vivir ***habitualmente*** en pecado.
+#### Todos los maestros ortodoxos de la Biblia estarían de <u>acuerdo</u> en que los creyentes *no deben* vivir ***habitualmente*** en pecado.
 
-#### Desafortunadamente, aquellos que enseñan este cliché de respuesta al evangelio del señorío como un requisito previo para la salvación van un paso más allá cuando dicen que un *verdadero* creyente no ***puede*** vivir habitualmente en pecado. En otras palabras, piensan que es imposible.
+#### Desafortunadamente, aquellos que enseñan este cliché de respuesta al evangelio del señorío como un requisito previo para la salvación van un paso más allá <u>cuando</u> dicen que un *verdadero* creyente no ***puede*** vivir habitualmente en pecado. En otras palabras, piensan que es imposible.
 
-#### ¡La presencia misma de mandamientos imperativos en el Nuevo Testamento implica que los cristianos *pueden* pecar!&nbsp;
+#### ¡La presencia misma de mandamientos imperativos en el Nuevo Testamento <u>implica</u> que los cristianos *pueden* pecar!&nbsp;
 
-##### Si alguien ***no*** tiene la ***capacidad*** de hacer algo, ¡entonces **no** hay necesidad de decirle que no lo haga!
+##### Si alguien ***no*** tiene la ***capacidad*** de hacer algo, ¡entonces **no** hay necesidad de <u>decirle</u> que no lo haga!
 
-##### La presencia misma de los mandamientos de "no pecar" o de no "vivir continuamente en pecado" nos dice que los creyentes tienen el ***potencial*** de hacerlo (Romanos 6:12-13; Efesios 4:17).&nbsp;
+##### La presencia <u>misma</u> de los mandamientos de "no pecar" o de no "vivir continuamente en pecado" nos dice que los creyentes tienen el ***potencial*** de hacerlo (Romanos 6:12-13; Efesios 4:17).&nbsp;
 
-#### El uso del modo ***subjuntivo*** griego en los pasajes de santificación es un fuerte argumento en contra de la *santificación (práctica) garantizada que exige el cliché de la respuesta del evangelio del señorío.*
+#### El uso del modo ***subjuntivo*** griego en los pasajes de santificación es un <u>fuerte</u> argumento en contra de la *santificación (práctica) garantizada que exige el cliché de la respuesta del evangelio del señorío.*
 
-##### El modo subjuntivo griego es un modo que presenta la acción verbal como ***probable*** o intencional. También puede expresar la acción verbal en términos de mera ***posibilidad***.
+##### El modo subjuntivo griego es un <u>modo</u> que presenta la acción verbal como ***probable*** o intencional. También puede expresar la acción verbal en términos de mera ***posibilidad***.
 
-##### El modo indicativo griego es el modo en el que la acción del verbo se presenta como real. Es el modo de aserción: afirmar algo como real o ***fáctico***.
+##### El modo indicativo griego es el modo en el que la acción del <u>verbo</u> se presenta como real. Es el modo de aserción: afirmar algo como real o ***fáctico***.
 
-##### Considere los siguientes pasajes que enseñan el concepto de debería (modo subjuntivo - deseo) en lugar del concepto *de voluntad* o deber (modo indicativo - ordenanza).  &nbsp;
+##### Considere los siguientes pasajes que enseñan el concepto de <u>debería</u> (modo subjuntivo - deseo) en lugar del concepto *de voluntad* o deber (modo indicativo - ordenanza).  &nbsp;
 
-###### Romanos 6:4, 12 – "Porque somos sepultados juntamente con él para muerte por el bautismo, a fin de que como Cristo resucitó de los muertos por la gloria del Padre, así también nosotros ***andemos*** en vida nueva... *Por tanto*, no reine, pues el pecado en vuestro cuerpo mortal, de modo que ***lo obedezcáis*** en sus concupiscencias."&nbsp;
+###### Romanos 6:4, 12 – "Porque somos sepultados juntamente con él para muerte por el bautismo, a fin de que como Cristo resucitó de los muertos por la gloria del Padre, así también <u>nosotros</u> ***andemos*** en vida nueva... *Por tanto*, no reine, pues el pecado en vuestro cuerpo mortal, de modo que ***lo obedezcáis*** en sus concupiscencias."&nbsp;
 
-###### Esto significa que Dios ***desea*** que los creyentes anden en una vida nueva, y que no *deben* obedecer al pecado que mora en ellos, pero también significa que **no** está ***garantizado***. ¿Por qué? Porque los creyentes deben elegir caminar por fe en la obra terminada de Cristo (nuestra co-crucifixión y co-resurrección con Él) para beneficiarse de la salvación del poder del pecado.&nbsp;
+###### Esto significa que Dios ***desea*** que los creyentes anden en una vida nueva, y que no *deben* obedecer al pecado que mora en ellos, pero también significa que **no** está ***garantizado***. ¿Por qué? Porque los creyentes <u>deben</u> elegir caminar por fe en la obra terminada de Cristo (nuestra co-crucifixión y co-resurrección con Él) para beneficiarse de la salvación del poder del pecado.&nbsp;
 
-##### Efesios 2:10 – "Porque somos hechura suya, creados en Cristo Jesús para buenas obras, las cuales Dios preparó de antemano para que anduviésemos *en* ellas".&nbsp;
+##### Efesios 2:10 – "Porque somos hechura suya, creados en Cristo Jesús para buenas obras, las cuales <u>Dios</u> preparó de antemano para que anduviésemos *en* ellas".&nbsp;
 
-###### Esto significa que Dios ***desea*** que los creyentes caminen en las buenas obras que Él ha preparado para ellos, pero también significa que ***no** está* ***garantizado***. ¿Por qué? Porque los creyentes deben elegir caminar por fe y responder al Señor para ejecutar estas buenas obras.&nbsp;
+###### Esto significa que Dios ***desea*** que los creyentes caminen en las buenas obras que Él ha preparado para ellos, pero también significa que ***no** está* ***garantizado***. ¿Por qué? Porque los creyentes deben elegir <u>caminar</u> por fe y responder al Señor para ejecutar estas buenas obras.&nbsp;
 
 #### Tito 2:12 – "Enseñándonos que, renunciando a la impiedad y a los deseos mundanos, ***vivamos*** \[modo subjuntivo\] en este siglo sobria, justa y piadosamente".&nbsp;
 
-##### Esto significa que la gracia ***desea*** enseñar a los creyentes a vivir sobria, justa y piadosamente, pero ***no** está* ***garantizado***. ¿Por qué? Porque los creyentes deben elegir caminar por fe y responder a lo que la gracia les está enseñando.&nbsp;
+##### Esto significa que la gracia ***desea*** enseñar a los creyentes a vivir sobria, justa y piadosamente, pero ***no** está* ***garantizado***. ¿Por qué? Porque los <u>creyentes</u> deben elegir caminar por fe y responder a lo que la gracia les está enseñando.&nbsp;
 
-#### Tito 3:8 – "Palabra fiel es esta, y en estas cosas quiero que insistas con firmeza, para que los que creen en Dios **procuren** \[modo subjuntivo\] ocuparse en buenas obras. Estas cosas son buenas y útiles a los hombres".&nbsp;
+#### Tito 3:8 – "Palabra fiel es esta, y en estas cosas quiero que insistas con firmeza, para que los que creen en Dios **procuren** \[modo subjuntivo\] <u>ocuparse</u> en buenas obras. Estas cosas son buenas y útiles a los hombres".&nbsp;
 
-##### Esto significa que Dios ***desea*** que los creyentes se ocupen en buenas obras, pero **no** está ***garantizado*** que lo hagan. ¿Por qué? Porque los creyentes deben elegir caminar por fe y responder al continuo aliento y afirmación de Pablo y Tito con respecto a estas buenas obras.
+##### Esto significa que Dios ***desea*** que los creyentes se ocupen en buenas obras, pero **no** está ***garantizado*** que lo hagan. ¿Por qué? Porque los creyentes <u>deben</u> elegir caminar por fe y responder al continuo aliento y afirmación de Pablo y Tito con respecto a estas buenas obras.
 
 ## Cliché de respuesta al Evangelio – (#9) Cree y bautízate en agua
 
 ## **Reseña rápida**&nbsp;
 
-### El ***doble*** problema de la humanidad se resume en: (1) Tenemos una ***deuda*** que no podemos pagar (muerte), y (2) **no** tenemos la justicia ***perfecta*** necesaria para entrar al Cielo (el lugar perfecto de Dios).
+### El ***doble*** problema de la humanidad se resume en: (1) Tenemos una ***deuda*** que no podemos pagar (muerte), y (2) **no** tenemos la justicia ***perfecta*** necesaria para <u>entrar</u> al Cielo (el lugar perfecto de Dios).
 
-### El evangelio es lo único que se ocupa de nuestro ***doble*** problema. El evangelio es la única ***solución***.
+### El evangelio es lo <u>único</u> que se ocupa de nuestro ***doble*** problema. El evangelio es la única ***solución***.
 
-### El evangelio es el mensaje objetivo e histórico de lo que Dios ***ya ha*** hecho para salvarnos de Su justa ira (nuestra deuda) y proporcionarnos una justicia que nunca podríamos obtener por nosotros mismos, permitiéndonos así vivir eternamente con Él.
+### El evangelio es el mensaje objetivo e histórico de lo que Dios ***ya ha*** hecho para salvarnos de Su justa ira (nuestra deuda) y proporcionarnos una <u>justicia</u> que nunca podríamos obtener por nosotros mismos, permitiéndonos así vivir eternamente con Él.
 
-### ¿Qué hizo Dios exactamente? Él envió a Su Hijo Jesucristo (completamente Dios y completamente hombre) para ***morir*** por nuestros pecados y ***resucitar***.
+### ¿Qué hizo Dios exactamente? Él envió a Su <u>Hijo</u> Jesucristo (completamente Dios y completamente hombre) para ***morir*** por nuestros pecados y ***resucitar***.
 
-### Según las Escrituras, solo se requiere una respuesta del hombre. Es solo ***fe*** en Cristo. Esto es simplemente tomar lo que Dios dice en Su Palabra y confiar en Su ***solución*** (Cristo y Su obra terminada) para nuestra salvación.&nbsp;
+### Según las Escrituras, solo se requiere una respuesta del <u>hombre</u>. Es solo ***fe*** en Cristo. Esto es simplemente tomar lo que Dios dice en Su Palabra y confiar en Su ***solución*** (Cristo y Su obra terminada) para nuestra salvación.&nbsp;
 
 ## **Cliché de respuesta al Evangelio \#9: Cree y sé bautizado en agua – Regeneración bautismal.**&nbsp;
 
-### Muchos de nuestros clichés de respuesta al evangelio son conceptos bíblicos simplemente enseñados fuera de orden. El bautismo en agua es un gran ejemplo de esto porque el bautismo en agua está diseñado para ser un ***testimonio*** público de salvación para los creyentes, no el medio de salvación para los no salvos.
+### Muchos de nuestros clichés de respuesta al evangelio son conceptos <u>bíblicos</u> simplemente enseñados fuera de orden. El bautismo en agua es un gran ejemplo de esto porque el bautismo en agua está diseñado para ser un ***testimonio*** público de salvación para los creyentes, no el medio de salvación para los no salvos.
 
-### ¿Qué significa la palabra *bautismo*? Significa poner, ***identificarse***, sumergirse, ser colocado en unión con.&nbsp;
+### ¿Qué significa la palabra *bautismo*? Significa poner, ***identificarse***, sumergirse, ser <u>colocado</u> en unión con.&nbsp;
 
-#### La palabra se usaba de las siguientes maneras en la cultura ***griega***: de soldados que sumergían (*baptizo*) las puntas de sus lanzas en sangre de cerdo antes de la batalla; de una tela blanca que se sumergía (*baptizo*) en una tina de tinte de color; de un barco que se hunde o alguien que se hunde en el barro; de cómo un pepino se convierte en un pepinillo.
+#### La palabra se usaba de las siguientes maneras en la cultura ***griega***: de soldados que sumergían (*baptizo*) las puntas de sus lanzas en sangre de cerdo antes de la batalla; de una tela blanca que se sumergía (*baptizo*) en una tina de tinte de color; de un barco que se hunde o alguien que se hunde en el barro; de cómo un <u>pepino</u> se convierte en un pepinillo.
 
 #### ¡Tenga en cuenta que la palabra en sí ***no*** transmite ***agua***!&nbsp;
 
 ### Algunos puntos rápidos a considerar al ver la palabra *bautismo* en la Biblia:&nbsp;
 
-#### No todos los bautismos en la Biblia son bautismos húmedos que involucran agua. De hecho, hay *siete* tipos diferentes de bautismos mencionados en la Biblia y ***cuatro*** de ellos son secos, ¡y solo tres de ellos son húmedos! (***ver Apéndice 5 – Siete bautismos de la Biblia***)
+#### No todos los bautismos en la Biblia son bautismos húmedos que involucran agua. De hecho, hay *siete* tipos diferentes de bautismos mencionados en la Biblia y ***cuatro*** de ellos son <u>secos</u>, ¡y solo tres de ellos son húmedos! (***ver Apéndice 5 – Siete bautismos de la Biblia***)
 
-#### Cada vez que uno se encuentra con la palabra *bautismo* en la Biblia, debe recordar el significado genérico general de la palabra y tratar de comprender el ***contexto*** en el que se está usando.
+#### Cada vez que uno se encuentra con la palabra *bautismo* en la Biblia, debe <u>recordar</u> el significado genérico general de la palabra y tratar de comprender el ***contexto*** en el que se está usando.
 
-#### Hay 160 versículos en el Nuevo Testamento que enseñan que la salvación es solo por fe ***sin*** mencionar *el* bautismo como un requisito previo adicional ***(ver Apéndice 2 – 160 versículos que prueban la justificación solo por la fe).*** Efesios 2:8-9 dice específicamente que la salvación "no es por obras" ni "de vosotros mismos".&nbsp;
+#### Hay 160 versículos en el Nuevo Testamento que enseñan que la salvación es solo por fe ***sin*** mencionar *el* bautismo como un requisito previo adicional ***(ver Apéndice 2 – 160 versículos que prueban la justificación solo por la fe).*** Efesios 2:8-9 dice específicamente que la <u>salvación</u> "no es por obras" ni "de vosotros mismos".&nbsp;
 
-##### En contraste con la abrumadora evidencia bíblica de que la única respuesta requerida al evangelio es solo la fe en la obra terminada de Cristo, hay aproximadamente ***siete*** pasajes principales que las personas usarán para promover la regeneración bautismal como una respuesta adicional. (***Vea el "Estudio adicional" para la lección 8.***)
+##### En contraste con la abrumadora evidencia bíblica de que la única respuesta requerida al evangelio es solo la fe en la obra terminada de Cristo, hay aproximadamente ***siete*** pasajes principales que las personas usarán para promover la regeneración <u>bautismal</u> como una respuesta adicional. (***Vea el "Estudio adicional" para la lección 8.***)
 
-##### Sin embargo, considere un argumento lógico. Si la Biblia no se contradice a sí misma, y creemos que no lo hace, ¿qué punto de vista tiene la mayor carga de prueba interpretativa? (1) ¿Aferrarse solo a la fe en Cristo de acuerdo con 160 versículos de la Biblia y luego ver cómo los siete versículos (mencionados anteriormente) ***encajan*** con los 160? O (2) ¿Mantener la creencia con respecto al bautismo de acuerdo con los siete versículos y luego explicar cómo los otros 160 versículos ***encajan*** con los siete versículos?&nbsp;
+##### Sin embargo, considere un argumento lógico. Si la Biblia no se contradice a sí misma, y creemos que no lo hace, ¿qué punto de vista tiene la mayor carga de prueba interpretativa? (1) ¿Aferrarse solo a la fe en Cristo de acuerdo con 160 versículos de la Biblia y luego ver cómo los <u>siete</u> versículos (mencionados anteriormente) ***encajan*** con los 160? O (2) ¿Mantener la creencia con respecto al bautismo de acuerdo con los siete versículos y luego explicar cómo los otros 160 versículos ***encajan*** con los siete versículos?&nbsp;
 
 #### Bautizar a los creyentes no era el ***énfasis*** del ministerio de Jesús (Juan 4:1-2), ni el ministerio de Pablo (1 Corintios 1:17) donde él separa claramente *el bautismo* del *evangelio*.
 
-#### El bautismo no se menciona como parte del mensaje del evangelio que Pablo predicó en 1 Corintios 15:1-4.
+#### El bautismo no se menciona como <u>parte</u> del mensaje del evangelio que Pablo predicó en 1 Corintios 15:1-4.
 
-#### Si el bautismo fuera un requisito previo esencial para nuestra salvación, entonces la salvación de la que se habla en la Biblia sería una salvación por obras. En otras palabras, se requeriría una ***acción*** o ***conducta*** externa de nuestra propia voluntad. Sin embargo, esto estaría en contradicción directa con Romanos 4:5, que dice: "Mas al que *NO obra,* sino cree en aquel..."
+#### Si el bautismo fuera un requisito previo esencial para nuestra salvación, entonces la salvación de la que se habla en la Biblia sería una salvación por obras. En otras palabras, se <u>requeriría</u> una ***acción*** o ***conducta*** externa de nuestra propia voluntad. Sin embargo, esto estaría en contradicción directa con Romanos 4:5, que dice: "Mas al que *NO obra,* sino cree en aquel..."
 
-#### El bautismo en agua no hace algo ***por*** ti, sino que refleja algo que ya hicieron **en** ti. En este sentido, es una ayuda visual de nuestro bautismo espiritual ya completado en Cristo (1 Corintios 12:13; Romanos 6:3-4).&nbsp;
+#### El bautismo en agua no hace algo ***por*** ti, sino que refleja <u>algo</u> que ya hicieron **en** ti. En este sentido, es una ayuda visual de nuestro bautismo espiritual ya completado en Cristo (1 Corintios 12:13; Romanos 6:3-4).&nbsp;
 
 ### ¿Qué salió mal con el significado de la palabra *bautismo* y por qué su significado es tan confuso hoy en día?&nbsp;
 
-#### Desde un período temprano en la historia de la iglesia (el siglo II), el bautismo comenzó a estar más ***regulado***. Además, llegó a ser visto como algo que tenía una cualidad mística. La gente comenzó a orar para *santificar* el agua. Por lo tanto, desde finales del siglo II en adelante, se creía profundamente que el bautismo lavaba el ***pecado***.  
+#### Desde un período temprano en la historia de la iglesia (el siglo II), el bautismo <u>comenzó</u> a estar más ***regulado***. Además, llegó a ser visto como algo que tenía una cualidad mística. La gente comenzó a orar para *santificar* el agua. Por lo tanto, desde finales del siglo II en adelante, se creía profundamente que el bautismo lavaba el ***pecado***.  
 
-#### También fue en esta época que los candidatos al bautismo a menudo tenían un período de prueba de tres años para ver si su conversión era legítima y si su ***comportamiento*** realmente había cambiado. Si sobrevivían a estos tres años, entonces se les instruía en la doctrina cristiana, se les hacía memorizar un "credo" de algún tipo y luego se bautizaban.
+#### También fue en esta época que los candidatos al bautismo a menudo tenían un período de prueba de tres años para ver si su conversión era legítima y si su ***comportamiento*** realmente había cambiado. Si sobrevivían a estos tres años, entonces se les instruía en la <u>doctrina</u> cristiana, se les hacía memorizar un "credo" de algún tipo y luego se bautizaban.
 
-#### El modo casi universal de bautismo en este momento era generalmente la ***inmersión*** total en un río o en una bañera de una casa grande. En su bautismo, los candidatos respondían preguntas sobre sus creencias en la Trinidad y eran sumergidos ***tres*** veces.
+#### El modo casi universal de bautismo en este momento era generalmente la ***inmersión*** total en un río o en una bañera de una casa grande. En su bautismo, los candidatos respondían <u>preguntas</u> sobre sus creencias en la Trinidad y eran sumergidos ***tres*** veces.
 
-#### Eventualmente, la tradición requería que un ***líder*** de la iglesia impusiera las manos sobre la persona que se bautizaba, e incluso más tarde el líder de la iglesia comenzaba a orar para que el creyente ***recibiera*** el Espíritu Santo en el bautismo.
+#### Eventualmente, la tradición requería que un ***líder*** de la iglesia impusiera las manos sobre la persona que se bautizaba, e incluso más tarde el líder de la iglesia comenzaba a <u>orar</u> para que el creyente ***recibiera*** el Espíritu Santo en el bautismo.
 
-#### Otros factores que influyeron en la confusión con respecto a la regeneración bautismal fueron las enseñanzas de Agustín sobre el pecado original o de nacimiento y la alta tasa de mortalidad infantil durante este tiempo en la historia. Debido a estos dos factores, el bautismo de niños comenzó a generalizarse a mediados del siglo IV. Se enseñaba que el bautismo lavaba el pecado original (pecado de nacimiento).
+#### Otros factores que influyeron en la confusión con respecto a la regeneración bautismal fueron las enseñanzas de Agustín sobre el pecado original o de nacimiento y la alta tasa de mortalidad <u>infantil</u> durante este tiempo en la historia. Debido a estos dos factores, el bautismo de niños comenzó a generalizarse a mediados del siglo IV. Se enseñaba que el bautismo lavaba el pecado original (pecado de nacimiento).
 
-#### Por lo tanto, en el siglo VI, los ***únicos*** bautismos que se realizaban eran bautismos de niños, y teníamos un mundo "cristiano".&nbsp;
+#### Por lo tanto, en el siglo VI, los ***únicos*** bautismos que se realizaban eran bautismos de <u>niños</u>, y teníamos un mundo "cristiano".&nbsp;
 
 ### Bíblicamente hablando, el bautismo en agua fue dado a los discípulos de Jesucristo como un ***medio*** para hacer discípulos adicionales. Vaya a Mateo 28:18-20 – la Gran Comisión.&nbsp;
 
-#### En este pasaje, hay un verbo principal (un mandato imperativo) con tres participios, que modifican el verbo principal. ¡Estos tres participios describen con más detalle ***cómo*** hacer la acción del verbo principal!&nbsp;
+#### En este pasaje, hay un verbo principal (un mandato imperativo) con tres participios, que <u>modifican</u> el verbo principal. ¡Estos tres participios describen con más detalle ***cómo*** hacer la acción del verbo principal!&nbsp;
 
-##### "Haced discípulos" es nuestro verbo principal, y es el ***único*** mandamiento en este pasaje. Este verbo significa no solo aprender, sino convertirse en un seguidor del maestro tanto en la doctrina como en la conducta de la vida.
+##### "Haced discípulos" es nuestro verbo principal, y es el ***único*** mandamiento en este <u>pasaje</u>. Este verbo significa no solo aprender, sino convertirse en un seguidor del maestro tanto en la doctrina como en la conducta de la vida.
 
-##### "Id", o mejor dicho "ve", es el primer participio que ***modifica*** este verbo. Por lo tanto, la formación de discípulos debe suceder a medida que los discípulos van de un lugar a otro en su vida diaria.
+##### "Id", o mejor dicho "ve", es el primer participio que ***modifica*** este verbo. Por lo tanto, la formación de <u>discípulos</u> debe suceder a medida que los discípulos van de un lugar a otro en su vida diaria.
 
-##### "Enseñandoles" es el segundo participio que modifica este verbo. Debían enseñar a sus discípulos a observar todas las cosas que Jesucristo mandó a sus discípulos originales.&nbsp;
+##### "Enseñándoles" es el segundo participio que <u>modifica</u> este verbo. Debían enseñar a sus discípulos a observar todas las cosas que Jesucristo mandó a sus discípulos originales.&nbsp;
 
-###### Esto podría implicar una especie de estudio intencional y sistematizado, pero también podría incluir instrucción bíblica personal sobre temas de la vida.
+###### Esto podría implicar una especie de <u>estudio</u> intencional y sistematizado, pero también podría incluir instrucción bíblica personal sobre temas de la vida.
 
-###### Aquí es donde el hacedor de discípulos utiliza la ***sabiduría*** divina que Dios le ha dado a través de años de crecimiento espiritual para instruir a aquellos a quienes está discipulando mientras navegan por la vida.&nbsp;
+###### Aquí es donde el hacedor de discípulos utiliza la ***sabiduría*** divina que Dios le ha dado a través de años de crecimiento espiritual para instruir a aquellos a quienes está discipulando <u>mientras</u> navegan por la vida.&nbsp;
 
 #### "Bautizándolos" es el tercer participio que modifica este verbo. Debían bautizar a sus discípulos en agua, "en el nombre del Padre, y del Hijo, y del Espíritu Santo".&nbsp;
 
-##### Esta fue una ***identificación*** pública con Jesucristo y su mensaje de fe-justicia.
+##### Esta fue una ***identificación*** pública con Jesucristo y su <u>mensaje</u> de fe-justicia.
 
-##### Esto también fue una ayuda ***visual*** de la verdad que se hizo realidad de ellos al momento de creer. El Espíritu de Dios identificó o bautizó, al creyente en el cuerpo de Cristo (1 Corintios 12:13).
+##### Esto también fue una ayuda ***visual*** de la verdad que se <u>hizo</u> realidad de ellos al momento de creer. El Espíritu de Dios identificó o bautizó, al creyente en el cuerpo de Cristo (1 Corintios 12:13).
 
-##### Se esperaba que esta verdad estuviera en la mente de los discípulos cuando aceptaron ser bautizados en agua y por lo tanto, el aspecto de enseñanza del discipulado se ***asocia*** muy bien con el aspecto del bautismo en agua.&nbsp;
+##### Se esperaba que esta verdad estuviera en la mente de los discípulos cuando aceptaron ser bautizados en agua y por lo tanto, el aspecto de enseñanza del discipulado se ***asocia*** muy bien con el <u>aspecto</u> del bautismo en agua.&nbsp;
 
-#### Para una mirada detallada a los siete pasajes bíblicos que pretenden enseñar la doctrina de la regeneración bautismal, consulte la sección "Estudio adicional" de la Lección 8.
+#### Para una mirada detallada a los siete <u>pasajes</u> bíblicos que pretenden enseñar la doctrina de la regeneración bautismal, consulte la sección "Estudio adicional" de la Lección 8.
 
 ### 2 Timoteo 2:11-13&nbsp;
 
-#### Pablo usa la misma estructura gramatical para cada una de estas declaraciones condicionales. Todas son declaraciones ***condicionales*** de primera clase en griego.
+#### Pablo usa la <u>misma</u> estructura gramatical para cada una de estas declaraciones condicionales. Todas son declaraciones ***condicionales*** de primera clase en griego.
 
-#### Las declaraciones condicionales de primera clase ***asumen*** el cumplimiento de la condición por causa (o el bien) del argumento. En otras palabras, podríamos decir: "Si ESTO es cierto, y supongamos que es cierto (por causa del argumento), entonces **eso** sucederá".
+#### Las declaraciones condicionales de primera clase ***asumen*** el cumplimiento de la condición por <u>causa</u> (o el bien) del argumento. En otras palabras, podríamos decir: "Si ESTO es cierto, y supongamos que es cierto (por causa del argumento), entonces **eso** sucederá".
 
-#### Entonces, el versículo 11 se leería: "Si somos muertos con Él (Cristo), \[y ***supongamos*** que morimos con Cristo por causa del argumento\], (entonces) también viviremos con Él".&nbsp;
+#### Entonces, el versículo 11 se leería: "Si <u>somos</u> muertos con Él (Cristo), \[y ***supongamos*** que morimos con Cristo por causa del argumento\], (entonces) también viviremos con Él".&nbsp;
 
-##### ¿Realmente mueren los creyentes ***con*** Cristo? Sí, esta verdad se enseña en todas las Escrituras (Romanos 6:1-11; Colosenses 2:20-3:4; Gálatas 2:20).
+##### ¿Realmente mueren los creyentes ***con*** Cristo? Sí, esta verdad se <u>enseña</u> en todas las Escrituras (Romanos 6:1-11; Colosenses 2:20-3:4; Gálatas 2:20).
 
-##### Entonces la ***garantía*** es que los creyentes realmente vivirán con Él. Esta garantía se hace aún más segura utilizando el futuro indicativo de la palabra *viviremos*. El indicativo futuro representa una ***promesa*** garantizada.&nbsp;
+##### Entonces la ***garantía*** es que los creyentes realmente vivirán con Él. Esta <u>garantía</u> se hace aún más segura utilizando el futuro indicativo de la palabra *viviremos*. El indicativo futuro representa una ***promesa*** garantizada.&nbsp;
 
 #### Por lo tanto, el versículo 12a se leería: "Si sufrimos, \[y ***supongamos*** que lo haremos por causa del argumento\], (entonces) también reinaremos con Él".&nbsp;
 
 ##### La palabra *sufrimos* significa permanecer ***bajo***, perseverar o soportar.
 
-##### Santiago usa esta misma palabra (en forma de sustantivo) en Santiago 1:3-4 como algo que se *produce* o *crece* a través del proceso de pruebas, lo que indica que *sufrir o perseverar* es algo que no se hace de manera ***perfecta*** o consistente a lo largo de la vida de un creyente.
+##### Santiago usa esta misma palabra (en forma de sustantivo) en Santiago 1:3-4 como algo que se *produce* o *crece* a través del proceso de pruebas, lo que indica que *sufrir o perseverar* es algo que no se hace de manera ***perfecta*** o consistente a lo largo de la <u>vida</u> de un creyente.
 
-##### A medida que un creyente nacido de nuevo vive fielmente en la vida a través de diferentes pruebas, confiando en el Señor, tendrá una posición o papel más privilegiado en la ***futura administración*** del reino de Cristo.
+##### A medida que un creyente <u>nacido</u> de nuevo vive fielmente en la vida a través de diferentes pruebas, confiando en el Señor, tendrá una posición o papel más privilegiado en la ***futura administración*** del reino de Cristo.
 
-##### En cierto nivel, cada creyente perseverará, y por lo tanto, en algún nivel el creyente reinará con Cristo. ¡Esto está garantizado! El nivel en el que cada creyente persevera se basa ***únicamente*** en sus repetidas respuestas de **fe** durante las pruebas.&nbsp;
+##### En cierto nivel, cada creyente perseverará, y por lo tanto, en algún nivel el creyente reinará con Cristo. ¡Esto está garantizado! El nivel en el que <u>cada</u> creyente persevera se basa ***únicamente*** en sus repetidas respuestas de **fe** durante las pruebas.&nbsp;
 
 #### Por lo tanto, el versículo 12b se leería: "Si le negáremos, \[y ***supongamos*** que lo hacemos por causa del argumento\], (entonces) Él también nos negará".&nbsp;
 
-##### Ahora bien, dado que esto se asume como cierto para todos los creyentes, si esta negación de Jesucristo implicaría la ***pérdida*** de salvación, entonces, ¿cómo podría alguien ser salvo? Y además, ¿qué es exactamente lo que Cristo está ***negando*** al creyente que lo niega a Él?
+##### Ahora bien, dado que esto se <u>asume</u> como cierto para todos los creyentes, si esta negación de Jesucristo implicaría la ***pérdida*** de salvación, entonces, ¿cómo podría alguien ser salvo? Y además, ¿qué es exactamente lo que Cristo está ***negando*** al creyente que lo niega a Él?
 
-##### Debido al énfasis en este pasaje en vivir fielmente mientras se soportan posibles dificultades, y debido a la declaración anterior en el versículo 12a sobre *reinar con Él*, es mejor entender esta negación como la negación de una ***recompensa*** futura.
+##### Debido al énfasis en este pasaje en <u>vivir</u> fielmente mientras se soportan posibles dificultades, y debido a la declaración anterior en el versículo 12a sobre *reinar con Él*, es mejor entender esta negación como la negación de una ***recompensa*** futura.
 
-##### Cada vez que un creyente peca, ya sea explícitamente (al avergonzarse y negar a Jesucristo ***públicamente***) o implícitamente (al pecar en general, ya que esto constituye un rechazo o negación a Jesucristo), el creyente está perdiendo una ***potencial*** recompensa.&nbsp;
+##### Cada vez que un creyente peca, ya sea explícitamente (al avergonzarse y negar a Jesucristo ***públicamente***) o implícitamente (al pecar en general, ya que esto constituye un <u>rechazo</u> o negación a Jesucristo), el creyente está perdiendo una ***potencial*** recompensa.&nbsp;
 
 #### En el versículo 13, también diría: "Si fueremos infieles, \[y supongamos que lo somos por causa del argumento\], (entonces) Él permanece fiel; Él no puede negarse a sí mismo".&nbsp;
 
-##### Entonces, con respecto a la acción infiel del creyente (un pecado) o el estado continuo de acciones (pecado habitual), este versículo hace dos declaraciones ***seguras*** sobre el carácter de Dios.
+##### Entonces, con respecto a la acción infiel del creyente (un pecado) o el <u>estado</u> continuo de acciones (pecado habitual), este versículo hace dos declaraciones ***seguras*** sobre el carácter de Dios.
 
-##### ***Primero***, "*Él permanece fiel* al creyente". Este es el estado permanente de respuesta de Dios al creyente, independientemente de cómo el creyente esté respondiendo ***actualmente*** al Señor.
+##### ***Primero***, "*Él permanece fiel* al creyente". Este es el estado permanente de respuesta de <u>Dios</u> al creyente, independientemente de cómo el creyente esté respondiendo ***actualmente*** al Señor.
 
-##### ***Segundo***, "Él no puede negarse a sí mismo". Fíjese, no dice que Dios *no puede negar al creyente,* sino que no puede *negarse a ***sí mismo. ¿Cómo se negaría Dios a sí mismo si no permaneciera fiel al creyente?&nbsp;
+##### ***Segundo***, "Él no puede negarse a sí mismo". Fíjese, no dice que Dios *no puede negar al creyente,* sino que no puede *negarse a* sí mismo. ¿Cómo se negaría <u>Dios</u> a sí mismo si no permaneciera fiel al creyente?&nbsp;
 
 #### Estaría negando/rechazando Sus ***promesas***, tales como ya no hay pena de muerte, vida eterna, perdón de pecados, edificación de Su Iglesia, etc.
 
-##### Estaría negando/rechazando la ***obra*** terminada de Cristo y el ***valor*** de lo que logró.
+##### Estaría negando/rechazando la ***obra*** <u>terminada</u> de Cristo y el ***valor*** de lo que logró.
 
-##### Estaría negando/rechazando su propio ***carácter*** de veracidad y omnisciencia.
+##### Estaría negando/rechazando su propio ***carácter*** de <u>veracidad</u> y omnisciencia.
 
-##### Estaría negando/rechazando la unión misma del creyente con Su Hijo porque el creyente está inseparablemente unificado con Jesucristo.
+##### Estaría negando/rechazando la unión <u>misma</u> del creyente con Su Hijo porque el creyente está inseparablemente unificado con Jesucristo.
 
 ## estudio adicional
 
 ## ***(Continuación del esquema de la Lección Seis)***
 
-### Considere los siguientes pasajes en ***contexto*** y determine sobre qué está enseñando el autor a su audiencia para que cambien de pensamiento:
+### Considere los siguientes pasajes en ***contexto*** y determine sobre qué está enseñando el <u>autor</u> a su audiencia para que cambien de pensamiento:
 
-#### Mateo 3:2-11 – ¿Sobre qué estaba enseñando Juan el Bautista a su ***audiencia*** para que cambiaran de pensamiento?
+#### Mateo 3:2-11 – ¿Sobre qué estaba enseñando Juan el <u>Bautista</u> a su ***audiencia*** para que cambiaran de pensamiento?
 
-##### Sobre la ***justicia*** necesaria para entrar en el Reino de Dios. La audiencia judía de Juan creía que por el hecho de ser descendientes físicos de Abraham, Isaac y Jacob, así como también de ser circuncidados, entrarían en el Reino (3:9).
+##### Sobre la ***justicia*** necesaria para entrar en el Reino de Dios. La audiencia judía de Juan creía que por el hecho de ser descendientes físicos de Abraham, Isaac y Jacob, así como <u>también</u> de ser circuncidados, entrarían en el Reino (3:9).
 
-##### Pablo dejó en claro lo que predicaba Juan el Bautista y lo que quería ***decir*** cuando usó la palabra *arrepentimiento* en Hechos 19:4. Juan quería que las personas *cambiaran de pensamiento* acerca de lo que estaban confiando para entrar en el Reino, y quería que pusieran su confianza solo en Jesucristo para una posición correcta delante de Dios.&nbsp;
+##### Pablo dejó en claro lo que predicaba Juan el Bautista y lo que quería ***decir*** cuando usó la palabra *arrepentimiento* en Hechos 19:4. Juan quería que las personas *cambiaran de pensamiento* acerca de lo que estaban confiando para entrar en el Reino, y quería que <u>pusieran</u> su confianza solo en Jesucristo para una posición correcta delante de Dios.&nbsp;
 
-#### Hechos 2:38 – ¿Sobre qué estaba esneñando Pedro a su ***audiencia*** para que cambiaran de pensamiento?
+#### Hechos 2:38 – ¿Sobre qué estaba enseñando Pedro a su ***audiencia*** para que cambiaran de pensamiento?
 
-##### Sobre la ***identidad*** de Jesucristo. Cincuenta días antes, el pueblo judío determinó que Jesús era digno de la muerte de un criminal. 
+##### Sobre la ***identidad*** de Jesucristo. Cincuenta días antes, el pueblo <u>judío</u> determinó que Jesús era digno de la muerte de un criminal. 
 
-##### Pedro quería que cambiaran de pensamiento sobre Jesucristo, que *NO era* ***digno*** de muerte. Él era su Mesías y digno de su confianza y adoración.&nbsp;
+##### Pedro quería que cambiaran de pensamiento <u>sobre</u> Jesucristo, que *NO era* ***digno*** de muerte. Él era su Mesías y digno de su confianza y adoración.&nbsp;
 
 #### Hechos 17:30-31 – ¿Sobre qué estaba enseñando Pablo a su ***audiencia*** para que cambiara de pensamiento?
 
-##### Sobre su ***acercamiento*** al único Dios verdadero. Pablo se dirigía a una audiencia gentil, pagana y politeísta en Atenas. Eran muy supersticiosos y adoraban a muchos dioses falsos, en gran parte por temor a ofender a alguno de ellos.
+##### Sobre su ***acercamiento*** al único Dios verdadero. Pablo se dirigía a una audiencia gentil, pagana y politeísta en Atenas. Eran muy supersticiosos y adoraban a muchos <u>dioses</u> falsos, en gran parte por temor a ofender a alguno de ellos.
 
-##### Pablo les ordenó que cambiaran de pensamiento". ¿Por qué? Por lo que dice el versículo 31, que dice: "Por cuanto ha establecido un día en el cual juzgará al mundo con justicia, por aquel varón a quien designó, dando fe a todos con haberle levantado de los muertos".
+##### Pablo les ordenó que cambiaran de pensamiento". ¿Por qué? Por lo que dice el versículo 31, que dice: "Por cuanto ha establecido un día en el cual juzgará al mundo con <u>justicia</u>, por aquel varón a quien designó, dando fe a todos con haberle levantado de los muertos".
 
-##### Estos politeístas paganos necesitaban dejar de preocuparse por lo que los dioses falsos *podrían* hacerles y ***creer*** en el único Dios verdadero que proporcionó el ***camino*** para escapar del juicio. Necesitaban cambiar de pensamiento.&nbsp;
+##### Estos politeístas paganos necesitaban dejar de preocuparse por lo que los dioses falsos *podrían* hacerles y ***creer*** en el único Dios verdadero que proporcionó el ***camino*** para escapar del juicio. Necesitaban <u>cambiar</u> de pensamiento.&nbsp;
 
 #### Hechos 20:21 – ¿Sobre qué estaba enseñando Pablo a su ***audiencia*** para que cambiaran de pensamiento?
 
-#### Pablo tiene ***dos*** audiencias mencionadas aquí. *Primero*, su audiencia judía, que necesitaba cambiar de pensamiento sobre ***quién*** es Jesucristo y poner su fe solo en Él para salvación/justicia. (Ver Hechos 2:38)
+#### Pablo tiene ***dos*** audiencias mencionadas aquí. *Primero*, su audiencia judía, que necesitaba cambiar de pensamiento sobre ***quién*** es Jesucristo y poner su fe solo en Él <u>para</u> salvación/justicia. (Ver Hechos 2:38)
 
-#### *En segundo lugar*, la audiencia gentil de Pablo que necesitaba cambiar de pensamiento sobre el ***politeísmo*** y poner su fe en el único Dios verdadero y en Su solución, Jesucristo y Su obra terminada en la cruz para su problema de pecado. (Véase Hechos 17:30-31.) &nbsp;
+#### *En segundo lugar*, la audiencia gentil de Pablo que necesitaba cambiar de pensamiento sobre el ***politeísmo*** y poner su fe en el único Dios verdadero y en Su solución, Jesucristo y Su obra terminada en la cruz <u>para</u> su problema de pecado. (Véase Hechos 17:30-31.) &nbsp;
 
 #### Hechos 26:20 – ¿Sobre qué estaba enseñando Pablo a su ***audiencia*** para que cambiaran de pensamiento?
 
-##### Aunque no se dan detalles en este pasaje, Pablo menciona tanto a judíos como a gentiles, por lo que lo más probable es que sea el mismo *cambio de pensamiento* descrito en los pasajes anteriores (Hechos 2:38; 17:30-31; 20:21).
+##### Aunque no se dan detalles en este pasaje, Pablo menciona tanto a judíos como a <u>gentiles</u>, por lo que lo más probable es que sea el mismo *cambio de pensamiento* descrito en los pasajes anteriores (Hechos 2:38; 17:30-31; 20:21).
 
-##### Lo que es aún más fascinante acerca de este pasaje es la distinción que se proporciona entre las palabras arrepentirse y convertirse*** a Dios.* Y *arrepentirse* y *hacer ***obras*** dignas de arrepentimiento.*&nbsp;
+##### Lo que es aún más fascinante acerca de este pasaje es la distinción que se proporciona <u>entre</u> las palabras arrepentirse y convertirse*** a Dios.* Y *arrepentirse* y *hacer ***obras*** dignas de arrepentimiento.*&nbsp;
 
-###### La primera comparación que esto comunica es que el arrepentimiento es diferente y ***distinto*** de *convertirse a Dios*. ¡**No** son ***sinónimos***! El arrepentimiento puede (y debe) llevar a convertirse a Dios, pero ***no** es* sinónimo ni está garantizado.
+###### La primera comparación que esto comunica es que el arrepentimiento es diferente y ***distinto*** de *convertirse a Dios*. ¡**No** son ***sinónimos***! El arrepentimiento puede (y debe) <u>llevar</u> a convertirse a Dios, pero ***no** es* sinónimo ni está garantizado.
 
-###### La segunda comparación que esto revela es que el arrepentimiento es diferente y ***distinto*** de *hacer obras dignas*. En otras palabras, el arrepentimiento es un cambio de pensamiento, mientras que *hacer obras dignas* es un cambio de ***comportamiento***. El arrepentimiento puede (y debe) llevar a un estilo de vida de *hacer obras dignas*, pero ***no** es* sinónimo ni está garantizado.
+###### La segunda comparación que esto revela es que el arrepentimiento es diferente y ***distinto*** de *hacer obras dignas*. En otras palabras, el arrepentimiento es un cambio de pensamiento, mientras que *hacer obras dignas* es un cambio de ***comportamiento***. El arrepentimiento puede (y debe) llevar a un <u>estilo</u> de vida de *hacer obras dignas*, pero ***no** es* sinónimo ni está garantizado.
 
 ### Ahora consideremos los siete pasajes que pretenden enseñar la doctrina de la regeneración bautismal:&nbsp;
 
 #### 1: Efesios 4:5 – "Un Señor, una fe, un bautismo ..."&nbsp;
 
-#### Como se mencionó anteriormente, la Biblia menciona ***siete*** bautismos diferentes, entonces, ¿a qué bautismo se refiere este versículo? Se refiere al *único* bautismo que ***todos*** los creyentes tienen en ***común***, que es el bautismo que los puso ***en*** Cristo por el Espíritu Santo. (Ver 1 Corintios 12:13.)
+#### Como se mencionó anteriormente, la Biblia menciona ***siete*** bautismos diferentes, entonces, ¿a qué bautismo se refiere este versículo? Se refiere al *único* bautismo que ***todos*** los creyentes <u>tienen</u> en ***común***, que es el bautismo que los puso ***en*** Cristo por el Espíritu Santo. (Ver 1 Corintios 12:13.)
 
-#### A lo que se hace referencia en Efesios 4:5 es al bautismo en el ***Espíritu*** (seco) ***no** al* bautismo en agua (húmedo). Este es el *único* bautismo que **todos** los creyentes tienen en ***común*** porque este bautismo ocurre ***automáticamente*** con todos los individuos al momento de poner su fe solo en Jesucristo para la salvación.
+#### A lo que se hace referencia en Efesios 4:5 es al bautismo en el ***Espíritu*** (seco) ***no** al* bautismo en agua (húmedo). Este es el *único* bautismo que **todos** los creyentes tienen en ***común*** porque este <u>bautismo</u> ocurre ***automáticamente*** con todos los individuos al momento de poner su fe solo en Jesucristo para la salvación.
 
 #### Observe lo siguiente en 1 Corintios 12:13, que nos conecta con Efesios 4:5 y su énfasis en la unidad:&nbsp;
 
-#### El uso de la palabra “***todos**”* ***dos*** veces, está describiendo *a **todos*** los creyentes: "fuimos **todos** bautizados..." y "...a **todos** se nos dio a beber..."
+#### El uso de la palabra “***todos**”* ***dos*** veces, está describiendo *a **todos*** los <u>creyentes</u>: "fuimos **todos** bautizados..." y "...a **todos** se nos dio a beber..."
 
-#### El uso de la palabra “***un**”* ***dos*** veces: "Fuimos todos bautizados en ***un*** cuerpo..." y "... a todos se nos dio a beber de ***un*** mismo Espíritu..."
+#### El uso de la palabra “***un**”* ***dos*** veces: "Fuimos todos <u>bautizados</u> en ***un*** cuerpo..." y "... a todos se nos dio a beber de ***un*** mismo Espíritu..."
 
 #### La ***conexión*** de los “***un**”* tanto en 1 Corintios 12:13 como en Efesios 4:4-5: ***un*** cuerpo y ***un*** Espíritu.
 
-#### Además, observe la conexión entre 1 Corintios 12:13 y Efesios (en general) en el sentido de que mencionan que este bautismo espiritual es lo que ***une*** a judíos y a griegos, a esclavos y a libres en el cuerpo de Cristo.&nbsp;
+#### Además, observe la conexión entre 1 Corintios 12:13 y Efesios (en general) en el sentido de que mencionan que este bautismo espiritual es lo que ***une*** a judíos y a griegos, a <u>esclavos</u> y a libres en el cuerpo de Cristo.&nbsp;
 
 ### #2: Marcos 16:16 – "El que creyere y fuere bautizado, será salvo; mas el que no creyere, será condenado".&nbsp;
 
-#### Consideremos algunos puntos clave de ***contexto*** para este versículo.&nbsp;
+#### Consideremos algunos puntos clave de ***contexto*** para este <u>versículo</u>.&nbsp;
 
-##### Marcos 16:9-15 son hechos ***repetidos*** en los otros relatos bíblicos de los Evangelios.
+##### Marcos 16:9-15 son hechos ***repetidos*** en los otros relatos <u>bíblicos</u> de los Evangelios.
 
-##### Este pasaje de Marcos es *su* versión de la ***Gran*** Comisión, que también encontramos en el relato de Mateo en el capítulo 28:19-20.
+##### Este pasaje de Marcos es *su* versión de la ***Gran*** Comisión, que también encontramos en el <u>relato</u> de Mateo en el capítulo 28:19-20.
 
-##### Una ***diferencia*** menor entre las dos Grandes Comisiones que se encuentran en Marcos y Mateo es que la palabra *predicad* es el único mandamiento en Marcos, mientras que "*haced discípulos*" es el único mandamiento en Mateo 28.
+##### Una ***diferencia*** menor entre las dos Grandes Comisiones que se encuentran en Marcos y Mateo es que la palabra *predicad* es el <u>único</u> mandamiento en Marcos, mientras que "*haced discípulos*" es el único mandamiento en Mateo 28.
 
-##### Del relato de Mateo, está claro que parte de ser un ***discípulo*** de Jesucristo implica ser bautizado en agua. "*Bautizándolos*" es un participio que describe ***cómo*** se hacen discípulos. Es a través del bautismo en agua (identificación pública con Jesucristo) y enseñándoles a guardar todas las cosas que Jesús les había mandado.&nbsp;
+##### Del relato de Mateo, está claro que parte de ser un ***discípulo*** de Jesucristo implica ser bautizado en agua. "*Bautizándolos*" es un participio que describe ***cómo*** se hacen discípulos. Es a través del bautismo en agua (identificación pública con Jesucristo) y enseñándoles a <u>guardar</u> todas las cosas que Jesús les había mandado.&nbsp;
 
 #### Habiendo considerado el contexto, ¿qué está enseñando ahora Marcos 16:15-16?&nbsp;
 
-##### ***Primero***, la frase "*fuere bautizado*" está en voz pasiva, lo que requiere que ***alguien*** más complete la acción sobre la persona que cree. En otras palabras, según las personas que sostienen el punto de vista de la regeneración bautismal, uno no puede ser salvo a menos que otra persona esté ***disponible*** para bautizarlo.
+##### ***Primero***, la frase "*fuere bautizado*" está en voz pasiva, lo que requiere que ***alguien*** más complete la acción sobre la persona que cree. En otras palabras, según las personas que sostienen el punto de vista de la regeneración bautismal, uno no puede ser salvo a menos que otra <u>persona</u> esté ***disponible*** para bautizarlo.
 
-##### Entonces hipotéticamente, si una persona pusiera su confianza solo en Cristo, pero él o ella estuviera ***solo*** sin exposición a otro ser humano, Dios no podría salvar a esa persona. Por definición, esto requeriría ***más*** que solo la obra terminada de Jesucristo, *y* requeriría que otro ser humano asegurara la salvación de una persona.
+##### Entonces hipotéticamente, si una persona pusiera su confianza solo en Cristo, pero él o ella estuviera ***solo*** sin exposición a otro ser humano, Dios no podría <u>salvar</u> a esa persona. Por definición, esto requeriría ***más*** que solo la obra terminada de Jesucristo, *y* requeriría que otro ser humano asegurara la salvación de una persona.
 
 ##### ***Segundo***, si solo estamos mirando el ***texto***, ¿cuáles son las condiciones para ser ***salvo*** en el versículo 16? *Cree* y *bautízate*.
 
 ##### ***Tercero,*** si solo estamos mirando el ***texto***, ¿cuáles son las condiciones para ser ***condenado*** en el versículo 16? *No creer*. Observe que no *se menciona no ser bautizado* .&nbsp;
 
-###### Para usar un ejemplo, es como decir que alguien (cualquier persona) que se **sube** a un autobús y se **sienta** irá a Nueva York. Eso no significa que uno deba ***sentarse*** para llegar a Nueva York. Técnicamente, lo único que se necesita para llegar a Nueva York es **subirse** al autobús.
+###### Para usar un ejemplo, es como decir que <u>alguien</u> (cualquier persona) que se **sube** a un autobús y se **sienta** irá a Nueva York. Eso no significa que uno deba ***sentarse*** para llegar a Nueva York. Técnicamente, lo único que se necesita para llegar a Nueva York es **subirse** al autobús.
 
 ###### Entonces en Marcos 16:16 y utilizando este ejemplo, *creer* es subir al ***autobús***, mientras que *ser bautizado* es ***sentarse*** en el asiento provisto.
 
-###### Lo que Dios desea en última instancia es que cada persona confíe solo en Jesucristo para su salvación, *y* que continúe caminando con Él en el ***discipulado*** a lo largo de su vida. Sin embargo, caminar con Él en el discipulado ***no** es* un ***requisito*** para ser salvo o nacer de nuevo.&nbsp;
+###### Lo que Dios desea en última instancia es que cada persona <u>confíe</u> solo en Jesucristo para su salvación, *y* que continúe caminando con Él en el ***discipulado*** a lo largo de su vida. Sin embargo, caminar con Él en el discipulado ***no** es* un ***requisito*** para ser salvo o nacer de nuevo.&nbsp;
 
-#### Cuarto, considere cómo Jesús termina su declaración en Marcos 16. Él describe ciertas señales que seguirán a las personas ***salvas***, pero observe **cómo** describe a un individuo salvo: "los que creen". No "¡los que creen *Y* son bautizados!"&nbsp;
+#### Cuarto, considere cómo Jesús <u>termina</u> su declaración en Marcos 16. Él describe ciertas señales que seguirán a las personas ***salvas***, pero observe **cómo** describe a un individuo salvo: "los que creen". No "¡los que creen *Y* son bautizados!"&nbsp;
 
-##### Una vez más, cuando realmente estudiamos el requisito previo para la salvación, observe que ser bautizado se ***omite*** un par de veces en este pasaje de Marcos y ***no*** se menciona como requisito previo las otras 160 veces en el Nuevo Testamento.&nbsp;
+##### Una vez más, cuando realmente estudiamos el requisito previo para la salvación, observe que ser bautizado se ***omite*** un par de veces en este <u>pasaje</u> de Marcos y ***no*** se menciona como requisito previo las otras 160 veces en el Nuevo Testamento.&nbsp;
 
 ### #3: Gálatas 3:27 – "Porque todos los que habéis sido bautizados en Cristo, de Cristo estáis revestidos".&nbsp;
 
 #### Consideremos algunos puntos clave de ***contexto*** para este versículo.&nbsp;
 
-##### Gálatas 3 trata sobre el ***uso*** apropiado de la ley en relación con la salvación, es decir, nuestra justificación ante Dios. El énfasis de Pablo es que los creyentes son justificados (declarados justos) ***solo*** por la fe, sin ningún esfuerzo o habilidad requerida para guardar la ley.  &nbsp;
+##### Gálatas 3 trata sobre el ***uso*** apropiado de la ley en relación con la salvación, es decir, nuestra justificación ante Dios. El énfasis de Pablo es que los creyentes son <u>justificados</u> (declarados justos) ***solo*** por la fe, sin ningún esfuerzo o habilidad requerida para guardar la ley.  &nbsp;
 
-###### De hecho, la ironía de usar este pasaje para enseñar la ***regeneración*** bautismal es que Pablo está haciendo el argumento más fuerte posible en este pasaje *contra* cualquier otra respuesta que no sea solo la fe.
+###### De hecho, la ironía de usar este pasaje para enseñar la ***regeneración*** bautismal es que Pablo está haciendo el argumento más fuerte <u>posible</u> en este pasaje *contra* cualquier otra respuesta que no sea solo la fe.
 
-###### En un libro diseñado para aclarar el mensaje del evangelio, es irónico que la palabra *bautismo* (forma sustantiva) y la palabra *bautizado* (forma verbal) solo se usen ***una*** vez , en el versículo 27.&nbsp;
+###### En un libro diseñado para aclarar el <u>mensaje</u> del evangelio, es irónico que la palabra *bautismo* (forma sustantiva) y la palabra *bautizado* (forma verbal) solo se usen ***una*** vez , en el versículo 27.&nbsp;
 
 ##### En este pasaje, Pablo está en medio del uso de ilustraciones comunes y modernas de un niño que llega a la madurez para reflejar la nueva posición del creyente en Cristo.&nbsp;
 
-###### ***Primero***, la necesidad de un ***tutor*** mientras un niño está en sus años preadolescentes. El papel de un tutor era guiar al niño hacia y desde la escuela y el hogar. Una vez que el niño era adulto y un hijo maduro, el tutor ya no era necesario (3:23-25).
+###### ***Primero***, la necesidad de un ***tutor*** mientras un niño está en sus años preadolescentes. El papel de un tutor era <u>guiar</u> al niño hacia y desde la escuela y el hogar. Una vez que el niño era adulto y un hijo maduro, el tutor ya no era necesario (3:23-25).
 
-###### ***En segundo lugar***, la imagen de la ***adopción*,** o convertirse en un hijo completo con derechos de herencia, se comunica a través del uso de la palabra griega *huios*, traducida como "hijo" en el versículo 26 y la descripción de la adopción que sigue en 4:1-2.
+###### ***En segundo lugar***, la imagen de la ***adopción*,** o convertirse en un hijo completo con derechos de herencia, se comunica a través del uso de la palabra griega *huios*, traducida como "hijo" en el versículo 26 y la descripción de la <u>adopción</u> que sigue en 4:1-2.
 
-###### ***En tercer lugar***, las imágenes utilizadas en la frase "revestidos" de Cristo parecen continuar con las imágenes de un niño que llega a la madurez al hacer referencia sutilmente a la práctica de proporcionar a un joven una nueva prenda de vestir (una ***toga*** para adultos) cuando alcanzan *el estatus de hijo* varón (3:27).&nbsp;
+###### ***En tercer lugar***, las imágenes utilizadas en la frase "revestidos" de Cristo parecen continuar con las imágenes de un <u>niño</u> que llega a la madurez al hacer referencia sutilmente a la práctica de proporcionar a un joven una nueva prenda de vestir (una ***toga*** para adultos) cuando alcanzan *el estatus de hijo* varón (3:27).&nbsp;
 
 #### Habiendo considerado ahora el contexto, ¿qué enseña Gálatas 3:27?&nbsp;
 
-##### Note en primer lugar que el versículo ***no*** dice "bautizado en agua" o incluso simplemente "bautizado", sino que dice específicamente "bautizados en Cristo". Esto está hablando del bautismo espiritual, como se menciona en 1 Corintios 12:13.&nbsp;
+##### Note en primer lugar que el versículo ***no*** dice "bautizado en agua" o incluso simplemente "bautizado", sino que dice específicamente "bautizados en Cristo". Esto está hablando del <u>bautismo</u> espiritual, como se menciona en 1 Corintios 12:13.&nbsp;
 
-###### La misma frase "bautizado en" se usa en Romanos 6:3 de ser bautizado en la muerte de Cristo, en 1 Corintios 10:2 de ser bautizado en ***Moisés***, y en 1 Corintios 12:13 de ser bautizado en un solo ***cuerpo*** (la Iglesia).
+###### La misma frase "bautizado en" se usa en Romanos 6:3 de ser bautizado en la muerte de Cristo, en 1 Corintios 10:2 de ser bautizado en ***Moisés***, y en 1 Corintios 12:13 de ser bautizado en un <u>solo</u> ***cuerpo*** (la Iglesia).
 
-###### Todos estos son bautismos ***secos,*** y todos los bautismos secos en la Biblia son bautismos espirituales, que no involucran agua u otras *personas*.  &nbsp;
+###### Todos estos son bautismos ***secos,*** y todos los bautismos secos en la Biblia son <u>bautismos</u> espirituales, que no involucran agua u otras *personas*.  &nbsp;
 
-##### Entonces, ¿cómo entramos *en Cristo*? ¿Es a través del bautismo en agua o del bautismo en seco, y cómo lo ***sabemos*** con certeza? 1 Corintios 1:30 nos dice lo siguiente: "Más por Él \[Dios el Padre\] estáis vosotros en Cristo Jesús..."
+##### Entonces, ¿cómo entramos *en Cristo*? ¿Es a través del bautismo en agua o del bautismo en <u>seco</u>, y cómo lo ***sabemos*** con certeza? 1 Corintios 1:30 nos dice lo siguiente: "Más por Él \[Dios el Padre\] estáis vosotros en Cristo Jesús..."
 
-##### Por lo tanto, entramos *en* Cristo no a través de un bautismo en agua por parte del ***hombre***, sino a través del bautismo espiritual por ***Dios*** el Espíritu Santo (1 Corintios 12:13).
+##### Por lo tanto, entramos *en* Cristo no a través de un bautismo en <u>agua</u> por parte del ***hombre***, sino a través del bautismo espiritual por ***Dios*** el Espíritu Santo (1 Corintios 12:13).
 
-##### Pablo simplemente está argumentando que si has creído en el Señor Jesucristo, entonces has sido ***bautizado*** por el Espíritu de Dios *en* Él. Por lo tanto, usted se ha "revestido" de Cristo, reflejando la filiación y la herencia completa que viene con esa designación.&nbsp;
+##### Pablo simplemente está argumentando que si has <u>creído</u> en el Señor Jesucristo, entonces has sido ***bautizado*** por el Espíritu de Dios *en* Él. Por lo tanto, usted se ha "revestido" de Cristo, reflejando la filiación y la herencia completa que viene con esa designación.&nbsp;
 
 #### #4: Juan 3:5 – "Respondió Jesús: De cierto, de cierto te digo, que el que no naciere de agua y del Espíritu, no puede entrar en el reino de Dios".&nbsp;
 
 ##### Consideremos algunos puntos clave de ***contexto*** para este versículo.&nbsp;
 
-###### Jesús está en medio de una conversación con Nicodemo, un líder religioso judío muy estimado, que introduce la ***necesidad*** del nuevo nacimiento para entrar en el Reino de Dios (el estado eterno).
+###### Jesús está en medio de una conversación con Nicodemo, un líder religioso judío muy estimado, que introduce la ***necesidad*** del nuevo nacimiento para <u>entrar</u> en el Reino de Dios (el estado eterno).
 
-###### El uso de Jesús de la frase "debes nacer de nuevo" o "nacer de lo alto" parece confundir realmente a Nicodemo, como lo demuestra su respuesta inicial a Jesús en 3:4.
+###### El uso de Jesús de la frase "debes nacer de nuevo" o "nacer de lo alto" <u>parece</u> confundir realmente a Nicodemo, como lo demuestra su respuesta inicial a Jesús en 3:4.
 
-###### Por lo tanto, la respuesta de Jesús en los versículos 5-8 está diseñada para explicarle a Nicodemo el concepto de "nacer de nuevo", y Jesús parece estar ***sorprendido*** de que su explicación no ayude a la comprensión de Nicodemo (3:10).&nbsp;
+###### Por lo tanto, la respuesta de <u>Jesús</u> en los versículos 5-8 está diseñada para explicarle a Nicodemo el concepto de "nacer de nuevo", y Jesús parece estar ***sorprendido*** de que su explicación no ayude a la comprensión de Nicodemo (3:10).&nbsp;
 
-###### Jesús espera que Nicodemo entienda su ***explicación***, cuando dice: "¿Eres tú maestro de Israel, y no sabes esto?"
+###### Jesús espera que Nicodemo entienda su ***explicación***, cuando dice: "¿Eres tú <u>maestro</u> de Israel, y no sabes esto?"
 
-###### Esta pregunta es la que nos da una idea de adónde Jesús había llevado a Nicodemo en los versículos 5-8 para ***explicar*** el concepto de "nacer de nuevo". ¡Jesús estaba usando ejemplos de nuevo nacimiento descritos en el ***Antiguo*** Testamento!&nbsp;
+###### Esta pregunta es la que nos da una idea de adónde Jesús había llevado a Nicodemo en los versículos 5-8 para ***explicar*** el concepto de "nacer de nuevo". ¡Jesús estaba <u>usando</u> ejemplos de nuevo nacimiento descritos en el ***Antiguo*** Testamento!&nbsp;
 
 #### Habiendo considerado ahora el contexto, ¿qué está enseñando Juan 3:5?&nbsp;
 
-##### Comenzando en el versículo 5, Jesús usa tres ejemplos ***indirectos*** del Antiguo Testamento que Nicodemo debería haber conocido ya que era un rabino preeminente en la nación de Israel (3:10).
+##### Comenzando en el versículo 5, Jesús usa tres ejemplos ***indirectos*** del Antiguo Testamento que Nicodemo debería haber conocido ya que era un <u>rabino</u> preeminente en la nación de Israel (3:10).
 
 ##### A primera ***vista***, las dos frases "nacido de agua" y "(nacido de) el Espíritu" parecen ser dos frases separadas y dos eventos distintos.&nbsp;
 
-###### Sin embargo, la preposición ***de*** gobierna ***tanto*** el agua como el Espíritu, lo que significa que ambos términos son una descripción de la ***misma*** cosa (el nacimiento espiritual de uno).
+###### Sin embargo, la preposición ***de*** gobierna ***tanto*** el agua como el Espíritu, lo que significa que <u>ambos</u> términos son una descripción de la ***misma*** cosa (el nacimiento espiritual de uno).
 
-###### Parece como si, en este versículo, Jesús estuviera refiriendo indirectamente a Nicodemo a Ezequiel 36 y la ***renovación*** de Israel a través del Nuevo Pacto, cuando Israel entre en el Reino Milenario.
+###### Parece como si, en este versículo, Jesús <u>estuviera</u> refiriendo indirectamente a Nicodemo a Ezequiel 36 y la ***renovación*** de Israel a través del Nuevo Pacto, cuando Israel entre en el Reino Milenario.
 
-###### En Ezequiel 36:25-28, Ezequiel menciona tanto *el agua* como el *espíritu* con el ***nuevo*** nacimiento.
+###### En Ezequiel 36:25-28, Ezequiel menciona <u>tanto</u> *el agua* como el *espíritu* con el ***nuevo*** nacimiento.
 
-###### Ezequiel 36:25 – Dios esparcirá ***agua*** limpia , y quedarán limpios; Él (Dios) los limpiará de toda su inmundicia y de todos sus ídolos.
+###### Ezequiel 36:25 – Dios esparcirá ***agua*** limpia , y <u>quedarán</u> limpios; Él (Dios) los limpiará de toda su inmundicia y de todos sus ídolos.
 
-###### Ezequiel 36:26-27 – Dios les dará un nuevo ***Espíritu*** dentro de ellos y los hará andar en Sus estatutos, para que pudieran guardar Sus preceptos y ponerlos en práctica.
+###### Ezequiel 36:26-27 – Dios les dará un nuevo ***Espíritu*** dentro de ellos y los hará andar en Sus estatutos, para que pudieran guardar Sus preceptos y ponerlos en <u>práctica</u>.
 
-###### Ezequiel 36:28 – Entonces y solo entonces, *habitarán* (***entrarán*** y vivirán) en la tierra que Él dio a sus padres; ellos serán Su pueblo, y Él será su Dios.&nbsp;
+###### Ezequiel 36:28 – Entonces y solo entonces, *habitarán* (***entrarán*** y vivirán) en la tierra que Él dio a sus <u>padres</u>; ellos serán Su pueblo, y Él será su Dios.&nbsp;
 
-##### En Juan 3:6, Jesús distingue el nacimiento espiritual del nacimiento carnal aludiendo al nacimiento ***milagroso*** de Isaac en contraste con Ismael. Esta historia debería haberle recordado a Nicodemo que el nacimiento físico ***no** era* suficiente para ser hijo del pacto prometido.
+##### En Juan 3:6, Jesús distingue el nacimiento espiritual del nacimiento carnal aludiendo al nacimiento ***milagroso*** de Isaac en contraste con Ismael. Esta historia debería haberle recordado a Nicodemo que el <u>nacimiento</u> físico ***no** era* suficiente para ser hijo del pacto prometido.
 
-##### En Juan 3:8, Jesús alude a Ezequiel 37:1-14 donde el Espíritu de Dios trajo vida a un valle lleno de ***huesos*** muertos, y donde el ***viento*** se asocia con la vida que el Espíritu sopló en estos huesos.
+##### En Juan 3:8, Jesús alude a Ezequiel 37:1-14 donde el Espíritu de Dios trajo vida a un valle <u>lleno</u> de ***huesos*** muertos, y donde el ***viento*** se asocia con la vida que el Espíritu sopló en estos huesos.
 
-#### \#5: Hechos 2:38 – "Pedro les dijo: Arrepentíos, y bautícese cada uno de vosotros en el nombre de Jesucristo para perdón de los pecados; y recibiréis el don del Espíritu Santo”.&nbsp;
+#### \#5: Hechos 2:38 – "Pedro les dijo: Arrepentíos, y bautícese cada uno de vosotros en el nombre de Jesucristo para <u>perdón</u> de los pecados; y recibiréis el don del Espíritu Santo”.&nbsp;
 
 #### Considere algun4os puntos clave del ***contexto*** de este versículo.&nbsp;
 
-#### Había llegado el día de Pentecostés y el Espíritu Santo había ***descendido*** del cielo como lo prometió Jesucristo para morar en los creyentes.  
+#### Había llegado el día de Pentecostés y el Espíritu Santo había ***descendido*** del cielo como lo prometió Jesucristo para <u>morar</u> en los creyentes.  
 
-#### Como señal para ***validar*** su mensaje, los creyentes habitados por el Espíritu Santo hablaron en idiomas que hasta ese momento no les eran familiares.
+#### Como señal para ***validar*** su mensaje, los creyentes habitados por el Espíritu Santo hablaron en <u>idiomas</u> que hasta ese momento no les eran familiares.
 
-#### Todos los judíos viajeros que estaban en la ciudad para las fiestas de Pascua y Pentecostés, oyeron sus propios dialectos nativos en el don de ***lenguas***, declarando las "maravillas de Dios" (2:11).
+#### Todos los judíos viajeros que estaban en la ciudad para las fiestas de Pascua y Pentecostés, oyeron sus <u>propios</u> dialectos nativos en el don de ***lenguas***, declarando las "maravillas de Dios" (2:11).
 
-#### La multitud judía presente acusó a los hombres de estar ***ebrios*** de vino, lo cual Pedro corrige y comunica correctamente, que estos hombres en realidad están llenos del Espíritu Santo, lo cual es similar a lo que el Señor hará en una fecha ***posterior*** en los últimos días durante el Período de la Tribulación (Joel 2:28-32).  &nbsp;
+#### La multitud judía presente acusó a los hombres de estar ***ebrios*** de vino, lo cual Pedro <u>corrige</u> y comunica correctamente, que estos hombres en realidad están llenos del Espíritu Santo, lo cual es similar a lo que el Señor hará en una fecha ***posterior*** en los últimos días durante el Período de la Tribulación (Joel 2:28-32).  &nbsp;
 
-##### La similitud entre Hechos 2 y Joel 2, que Pedro está reconociendo, es el ***derramamiento*** del Espíritu Santo, que resulta en manifestaciones inusuales, pero es muy diferente y no es el mismo evento.
+##### La similitud entre Hechos 2 y Joel 2, que Pedro está reconociendo, es el ***derramamiento*** del Espíritu Santo, que resulta en manifestaciones inusuales, pero es muy diferente y no es el mismo <u>evento</u>.
 
 #### Pedro acaba de predicar un ***sermón***, que comienza en el versículo 22 y termina en el versículo 36.
 
-#### Su sermón repasó la historia de Jesús, recordó a los hombres lo que habían visto y presenciado, explicó que el Espíritu Santo que moraba en ellos era una promesa de Dios, vinculada en pasajes del Antiguo Testamento que se aplicaban a la resurrección de Jesús (como se comunicó a través de David), identificó a Jesús como el Mesías tan esperado de Israel y puso toda la ***responsabilidad*** sobre los hombres que escuchaban, diciéndoles que lo crucificaron. Concluye el sermón en el versículo 36 haciéndole saber a la audiencia que Dios hizo a Jesús Señor y Cristo.
+#### Su sermón repasó la historia de Jesús, recordó a los hombres lo que habían visto y presenciado, explicó que el Espíritu Santo que moraba en ellos era una promesa de Dios, vinculada en pasajes del Antiguo Testamento que se aplicaban a la resurrección de Jesús (como se comunicó a través de David), identificó a Jesús como el Mesías tan <u>esperado</u> de Israel y puso toda la ***responsabilidad*** sobre los hombres que escuchaban, diciéndoles que lo crucificaron. Concluye el sermón en el versículo 36 haciéndole saber a la audiencia que Dios hizo a Jesús Señor y Cristo.
 
-#### En respuesta al sermón de Pedro, los hombres preguntan en el versículo 37: "¿Qué haremos?"  Habían reconocido que habían cometido un ***error*** y querían saber si había algo que pudieran hacer para escapar del ***juicio*** de Dios sobre la base de crucificar a Jesús.&nbsp;
+#### En respuesta al sermón de Pedro, los hombres preguntan en el versículo 37: "¿Qué haremos?"  Habían reconocido que habían cometido un ***error*** y querían saber si había algo que pudieran hacer para escapar del ***juicio*** de Dios <u>sobre</u> la base de crucificar a Jesús.&nbsp;
 
-##### El juicio pendiente sobre la nación judía se anunciaba a menudo por la presencia de ***idiomas*** extranjeros en Jerusalén. (Véase Isaías 28:11; Además, 1 Corintios 14:21 relaciona esto con el propósito del don espiritual de lenguas/idiomas).&nbsp;
+##### El <u>juicio</u> pendiente sobre la nación judía se anunciaba a menudo por la presencia de ***idiomas*** extranjeros en Jerusalén. (Véase Isaías 28:11; Además, 1 Corintios 14:21 relaciona esto con el propósito del don espiritual de lenguas/idiomas).&nbsp;
 
 #### Habiendo considerado ahora el contexto general, considere algunas ***observaciones*** adicionales que serán útiles antes de sumergirnos en los detalles de Hechos 2:38.&nbsp;
 
-##### Sabemos por la historia que Lucas escribió el Evangelio de Lucas y el Libro de los Hechos como una especie de conjunto de historia de la iglesia en dos volúmenes. El primer volumen registró los eventos de la vida de Jesucristo, y el segundo volumen siguió los eventos que rodearon a sus primeros seguidores. 
+##### Sabemos por la historia que Lucas escribió el Evangelio de Lucas y el Libro de los Hechos como una especie de conjunto de <u>historia</u> de la iglesia en dos volúmenes. El primer volumen registró los eventos de la vida de Jesucristo, y el segundo volumen siguió los eventos que rodearon a sus primeros seguidores. 
 
-##### La versión o registro de Lucas de la Gran Comisión se encuentra en Lucas 24:46-47, que dice: "Y les dijo: Así está escrito, y así fue necesario que el Cristo padeciese, y resucitase de los muertos al tercer día, y que se predicase en su nombre el ***arrepentimiento*** y el perdón de pecados en todas las naciones, comenzando desde Jerusalén'".&nbsp;
+##### La versión o registro de Lucas de la Gran Comisión se encuentra en Lucas 24:46-47, que dice: "Y les dijo: Así está escrito, y así fue necesario que el Cristo padeciese, y <u>resucitase</u> de los muertos al tercer día, y que se predicase en su nombre el ***arrepentimiento*** y el perdón de pecados en todas las naciones, comenzando desde Jerusalén'".&nbsp;
 
-###### Observe el uso de la frase "arrepentimiento y perdón de pecados" en el relato de la ***Gran*** Comisión de Lucas.
+###### Observe el uso de la frase "arrepentimiento y perdón de pecados" en el <u>relato</u> de la ***Gran*** Comisión de Lucas.
 
-###### Observe lo que Pedro predica en Hechos 2:38: "***arrepentimiento*** y perdón de pecados". Pedro también lo hace en Hechos 3:19 cuando dice: "Así que, ***arrepentíos*** y convertíos, para que sean borrados vuestros pecados" y en Hechos 5:31 cuando dice: "...para dar a Israel ***arrepentimiento*** y perdón de pecados".
+###### Observe lo que Pedro predica en Hechos 2:38: "***arrepentimiento*** y perdón de pecados". Pedro también lo hace en Hechos 3:19 cuando dice: "Así que, ***arrepentíos*** y convertíos, para que sean <u>borrados</u> vuestros pecados" y en Hechos 5:31 cuando dice: "...para dar a Israel ***arrepentimiento*** y perdón de pecados".
 
-###### Si uno observa lo que ***precede*** al *arrepentimiento* en cada uno de estos pasajes de Hechos, notará una acusación contra la participación de la audiencia en la muerte de Jesús. Esto es **de lo** que necesitaban *arrepentirse* (cambiar de pensamiento): acerca de la identidad de Jesucristo.&nbsp;
+###### Si uno observa lo que ***precede*** al *arrepentimiento* en cada uno de estos <u>pasajes</u> de Hechos, notará una acusación contra la participación de la audiencia en la muerte de Jesús. Esto es **de lo** que necesitaban *arrepentirse* (cambiar de pensamiento): acerca de la identidad de Jesucristo.&nbsp;
 
 ##### Curiosamente, observe lo que está ***ausente*** en Lucas 24:46-47 (la Gran Comisión de Lucas), Hechos 3:19 y Hechos 5:31. El ***bautismo*** está ausente de todos estos pasajes.
 
-##### Otra cosa a considerar antes de sumergirnos en Hechos 2:38 es el uso de la palabra *fe (creer)* con la frase *perdón de pecados* en el Libro de los Hechos. De hecho, la fe se señala claramente como el ***único*** requisito previo para recibir el *perdón de pecados*.&nbsp;
+##### Otra cosa a considerar antes de sumergirnos en Hechos 2:38 es el uso de la palabra *fe (creer)* con la frase *perdón de pecados* en el Libro de los Hechos. De hecho, la fe se <u>señala</u> claramente como el ***único*** requisito previo para recibir el *perdón de pecados*.&nbsp;
 
-###### Pedro, en su sermón a Cornelio y su familia, usa la frase *perdón de pecados* en Hechos 10:43. También señala *la fe (creyeren)* como único requisito para obtenerla.  
+###### Pedro, en su sermón a Cornelio y su <u>familia</u>, usa la frase *perdón de pecados* en Hechos 10:43. También señala *la fe (creyeren)* como único requisito para obtenerla.  
 
-###### En Hechos 11:17-18, Pedro da su propio comentario tanto sobre la conversión gentil como sobre los eventos en Hechos 2. Afirma claramente que el ***único*** requisito para recibir el don del Espíritu Santo y la vida eterna es *creer en el Señor Jesucristo*.
+###### En Hechos 11:17-18, Pedro da su propio comentario tanto sobre la conversión <u>gentil</u> como sobre los eventos en Hechos 2. Afirma claramente que el ***único*** requisito para recibir el don del Espíritu Santo y la vida eterna es *creer en el Señor Jesucristo*.
 
-###### Más tarde, en Hechos 13:38-39, el apóstol Pablo predica un mensaje en Antioquía en Pisidia donde también da la fe (creer) como el ***único*** requisito previo para el *perdón de los pecados*.   
+###### Más tarde, en Hechos 13:38-39, el apóstol Pablo predica un mensaje en Antioquía en Pisidia donde también da la fe (creer) como el ***único*** requisito <u>previo</u> para el *perdón de los pecados*.   
 
-###### En el concilio de Jerusalén que se registra en Hechos 15:7-11, Pedro una vez más vincula tanto la conversión inicial de los gentiles en Hechos 10 como la conversión inicial de los judíos en Hechos 2 con una respuesta de ***solamente*** por fe. Esta respuesta resulta en la recepción del Espíritu Santo y el perdón de pecados. Una vez más, **no** se menciona el bautismo en agua.&nbsp;
+###### En el concilio de Jerusalén que se registra en Hechos 15:7-11, Pedro una vez más vincula tanto la conversión <u>inicial</u> de los gentiles en Hechos 10 como la conversión inicial de los judíos en Hechos 2 con una respuesta de ***solamente*** por fe. Esta respuesta resulta en la recepción del Espíritu Santo y el perdón de pecados. Una vez más, **no** se menciona el bautismo en agua.&nbsp;
 
 #### Habiendo visto ahora el ***contexto*** completo, ¿qué enseña Hechos 2:38?&nbsp;
 
 ##### Observe la pregunta en Hechos 2:37: "¿Qué *haremos*?", en comparación con la de Hechos 16:30: "¿Qué debo hacer para ser salvo?"&nbsp;
 
-###### La respuesta de Pablo a la pregunta del carcelero de Filipos en Hechos 16:30 se encuentra en Hechos 16:31, donde responde: "***Cree*** en el Señor Jesucristo, y serás salvo, tú y tu casa".&nbsp;
+###### La respuesta de Pablo a la pregunta del carcelero de Filipos en Hechos 16:30 se encuentra en Hechos 16:31, donde responde: "***Cree*** en el Señor Jesucristo, y <u>serás</u> salvo, tú y tu casa".&nbsp;
 
-##### Debido a que la pregunta de la audiencia de Pedro era ***amplia*** y abierta, y debido a que Pedro estaba siguiendo la prescripción de la Gran Comisión recibida de Cristo solo unos días o semanas antes, se dio como respuesta a esa pregunta en específico: "arrepentimiento *y* bautismo".&nbsp;
+##### Debido a que la pregunta de la audiencia de Pedro era ***amplia*** y abierta, y debido a que Pedro estaba siguiendo la prescripción de la Gran Comisión recibida de Cristo solo unos días o semanas <u>antes</u>, se dio como respuesta a esa pregunta en específico: "arrepentimiento *y* bautismo".&nbsp;
 
-###### Pedro básicamente responde a su pregunta amplia y abierta con una respuesta ***completa***: "Arrepiéntete/confía en el nombre de Jesucristo" ***MÁS*** "Bautízate" (lo que deben hacer como ***discípulos*** de Cristo después de la respuesta de fe al evangelio para identificarse públicamente con Cristo).&nbsp;
+###### Pedro básicamente responde a su pregunta amplia y <u>abierta</u> con una respuesta ***completa***: "Arrepiéntete/confía en el nombre de Jesucristo" ***MÁS*** "Bautízate" (lo que deben hacer como ***discípulos*** de Cristo después de la respuesta de fe al evangelio para identificarse públicamente con Cristo).&nbsp;
 
-###### La Gran Comisión dio la instrucción completa y ***exhaustiva*** sobre lo que los apóstoles debían hacer para edificar la Iglesia del Señor: 1. Predicar el evangelio, *y* 2. ***Discipular*** a los que creen, bautizándolos y enseñándoles. (Véase Mateo 28:19-20; Marcos 16:15-16; Lucas 24:46-47.)&nbsp;
+###### La Gran Comisión dio la instrucción completa y ***exhaustiva*** sobre lo que los apóstoles debían hacer para edificar la Iglesia del Señor: 1. Predicar el evangelio, *y* 2. ***Discipular*** a los que <u>creen</u>, bautizándolos y enseñándoles. (Véase Mateo 28:19-20; Marcos 16:15-16; Lucas 24:46-47.)&nbsp;
 
-#### La palabra *arrepentirse* es la palabra griega *metanoia*, que significa uncambio de mentalidad*. El verbo se usa como aoristo, activo, imperativo, 2ª persona, ***plural***.
+#### La palabra *arrepentirse* es la palabra griega *metanoia*, que significa un <u>cambio</u> de mentalidad*. El verbo se usa como aoristo, activo, imperativo, 2ª persona, ***plural***.
 
 #### *Bautizar* es el verbo griego *baptizo*, y significa *sumergir y ser identificado con* él. Este verbo se usa como aoristo, pasivo, imperativo, 3ª persona, ***singular***.
 
@@ -1166,103 +1166,103 @@
 
 #### Además, observe el orden de las palabras y el uso de la ***preposición*** griega *epi*, traducida como la palabra *en*.&nbsp;
 
-##### La palabra griega *epi* significa *en, sobre, ***descansando*** sobre, sobre el terreno de, o sobre la autoridad de.*
+##### La palabra griega *epi* significa *en, sobre, ***descansando*** sobre, sobre el terreno de, o sobre la autoridad de.
 
 ##### A.T. Robertson, considerado por muchos como el decano de los eruditos bíblico-griegos estadounidenses, dice del "significado fundamental" (sus palabras): "Es 'sobre' ... '*epi'* implica un ***descanso*** real sobre..."
 
-##### Note que el texto ***no*** dice: "Arrepentíos y bautícese para el perdón de los pecados", sino más bien "Arrepentíos y bautícese en \[***descansando*** sobre\] el nombre de Jesucristo para el perdón de los pecados".&nbsp;
+##### Note que el texto ***no*** dice: "Arrepentíos y bautícese para el <u>perdón</u> de los pecados", sino más bien "Arrepentíos y bautícese en \[***descansando*** sobre\] el nombre de Jesucristo para el perdón de los pecados".&nbsp;
 
-#### En pocas palabras, Pedro simplemente le está diciendo a su audiencia que deben ***cambiar*** de opinión sobre Jesucristo (quién es Él y lo que ha logrado), descansar en Él por fe para el perdón de los pecados y seguirlo en el ***discipulado*** a través del bautismo en agua, que es una identificación pública con la Persona y el mensaje de Jesucristo.&nbsp;
+#### En pocas palabras, Pedro simplemente le está diciendo a su audiencia que deben ***cambiar*** de opinión sobre Jesucristo (quién es Él y lo que ha logrado), descansar en Él por fe para el perdón de los pecados y seguirlo en el ***discipulado*** a través del <u>bautismo</u> en agua, que es una identificación pública con la Persona y el mensaje de Jesucristo.&nbsp;
 
 ### \#6: Hechos 22:16 – "Ahora, pues, ¿por qué te detienes? Levántate y bautízate, y lava tus pecados, invocando su nombre".&nbsp;
 
 #### Considere algunos puntos clave del ***contexto*** de este versículo.&nbsp;
 
-##### Este es uno de los tres relatos de la conversión de Pablo que se encuentran en el Libro de los Hechos.  Hechos 9 (cuando ocurrió la conversión de Pablo), Hechos 22 (Pablo relata los eventos a una audiencia judía / turba en el Templo), Hechos 26 (Pablo relata los eventos al rey Agripa, el bisnieto de Herodes el Grande).
+##### Este es uno de los tres relatos de la conversión de Pablo que se encuentran en el Libro de los Hechos.  Hechos 9 (cuando ocurrió la conversión de Pablo), Hechos 22 (Pablo relata los eventos a una audiencia <u>judía</u> / turba en el Templo), Hechos 26 (Pablo relata los eventos al rey Agripa, el bisnieto de Herodes el Grande).
 
-##### (Hechos 21:17-24): Antes de este evento, Jacobo y los ancianos de la iglesia en Jerusalén instruyeron a Pablo que fuera al templo para hacer las paces porque los judíos de todas partes pensaban que Pablo estaba enseñando ***en contra*** de la Ley y en contra de Moisés. Esta fue una situación especialmente delicada para los cristianos judíos locales.
+##### (Hechos 21:17-24): Antes de este evento, Jacobo y los ancianos de la iglesia en Jerusalén instruyeron a Pablo que fuera al templo para hacer las paces porque los judíos de todas partes pensaban que Pablo estaba enseñando ***en contra*** de la Ley y en contra de Moisés. Esta fue una situación especialmente delicada para los cristianos <u>judíos</u> locales.
 
-##### (Hechos 21:27-32): Los judíos de Asia (el área de Éfeso) reconocieron a Pablo en el templo y se volvieron eufóricos. Hicieron acusaciones contra Pablo, diciendo que enseñó contra el "pueblo, la ley y este lugar (el templo)". También lo acusaron de llevar a un gentil (Trófimo el Efesio) a un área ***prohibida*** del templo para gentiles. Como resultado, los judíos en el templo lo capturaron y planearon matarlo a golpes.
+##### (Hechos 21:27-32): Los judíos de Asia (el área de Éfeso) reconocieron a Pablo en el templo y se volvieron eufóricos. Hicieron acusaciones contra Pablo, diciendo que <u>enseñó</u> contra el "pueblo, la ley y este lugar (el templo)". También lo acusaron de llevar a un gentil (Trófimo el Efesio) a un área ***prohibida*** del templo para gentiles. Como resultado, los judíos en el templo lo capturaron y planearon matarlo a golpes.
 
-##### (Hechos 21:33-40): Los romanos entran para disolver la turba, y luego Pablo, una vez fuera del alcance de los judíos, busca ***dirigirse*** a la multitud, y lo hace en el idioma hebreo. Esto toma a la multitud con la guardia baja y llama su atención, y comienzan a escuchar el testimonio de Pablo. 
+##### (Hechos 21:33-40): Los romanos entran para disolver la <u>turba</u>, y luego Pablo, una vez fuera del alcance de los judíos, busca ***dirigirse*** a la multitud, y lo hace en el idioma hebreo. Esto toma a la multitud con la guardia baja y llama su atención, y comienzan a escuchar el testimonio de Pablo. 
 
-##### Muchos de los hechos del testimonio de Pablo se repiten textualmente en cada historia, pero lo que se comunica en Hechos 22:16 ***solo*** se encuentra en este relato.&nbsp;
+##### Muchos de los <u>hechos</u> del testimonio de Pablo se repiten textualmente en cada historia, pero lo que se comunica en Hechos 22:16 ***solo*** se encuentra en este relato.&nbsp;
 
 #### Habiendo visto ahora el contexto, ¿qué enseña Hechos 22:16?&nbsp;
 
-##### La primera pregunta que debemos hacer con respecto al testimonio de Pablo es: ¿En qué momento de la narración Pablo fue salvo? ¿Fue salvo en el camino a Damasco antes de la llegada de Ananías, o fue salvo en la ciudad de Damasco ***después*** de la llegada de Ananías?&nbsp;
+##### La primera pregunta que <u>debemos</u> hacer con respecto al testimonio de Pablo es: ¿En qué momento de la narración Pablo fue salvo? ¿Fue salvo en el camino a Damasco antes de la llegada de Ananías, o fue salvo en la ciudad de Damasco ***después*** de la llegada de Ananías?&nbsp;
 
-###### Basado en las claras declaraciones de los ***otros*** relatos, parece probable que Pablo fue salvo antes de que Ananías llegara a la escena.
+###### Basado en las claras declaraciones de los ***otros*** relatos, parece <u>probable</u> que Pablo fue salvo antes de que Ananías llegara a la escena.
 
-###### Jesús se refiere a Pablo como si ya ***fuese*** salvo en Hechos 9:12-15 cuando llama a Pablo "instrumento escogido me es éste, para llevar mi nombre en presencia de los gentiles, y de reyes, y de los hijos de Israel" y en Hechos 22:10 cuando le dice a Pablo que le dirá "todo lo que está ordenado que hagas".
+###### Jesús se refiere a Pablo como si ya ***fuese*** salvo en Hechos 9:12-15 cuando llama a Pablo "instrumento escogido me es éste, para llevar mi nombre en <u>presencia</u> de los gentiles, y de reyes, y de los hijos de Israel" y en Hechos 22:10 cuando le dice a Pablo que le dirá "todo lo que está ordenado que hagas".
 
-###### Ananías se refiere a Pablo como "***Hermano*** Saulo" tanto en Hechos 9:17 como en Hechos 22:13.
+###### Ananías se <u>refiere</u> a Pablo como "***Hermano*** Saulo" tanto en Hechos 9:17 como en Hechos 22:13.
 
-###### También vemos que Pablo recibió el Espíritu Santo ***antes*** de ser bautizado en Hechos 9:17-18.
+###### También vemos que Pablo <u>recibió</u> el Espíritu Santo ***antes*** de ser bautizado en Hechos 9:17-18.
 
-##### Entonces, volviendo a Hechos 22, Ananías le hace una pregunta muy puntual a Pablo, a la que luego le da algunas instrucciones muy precisas: "Ahora, pues, ¿por qué te detienes?" La palabra griega *mello* significa *esperar o retrasar*. Describe a una persona que está ***extendiendo*** el tiempo indebidamente con la implicación de una falta de decisión.&nbsp;
+##### Entonces, volviendo a Hechos 22, Ananías le hace una pregunta muy puntual a Pablo, a la que luego le da algunas instrucciones muy precisas: "Ahora, pues, ¿por qué te detienes?" La palabra griega *mello* significa *esperar o retrasar*. Describe a una <u>persona</u> que está ***extendiendo*** el tiempo indebidamente con la implicación de una falta de decisión.&nbsp;
 
-###### Pablo debió estar en estado de ***shock***. Apenas tres días antes iba a Damasco a perseguir a los cristianos. Odiaba a los cristianos, y tuvo esta increíble experiencia en el camino, perdió la vista y probablemente comenzó a darse cuenta de que su vida estaba a punto de cambiar. La incertidumbre en ese momento debió haberlo ***congelado***.&nbsp;
+###### Pablo debió estar en estado de ***shock***. Apenas tres días antes iba a Damasco a perseguir a los cristianos. Odiaba a los cristianos, y tuvo esta increíble experiencia en el <u>camino</u>, perdió la vista y probablemente comenzó a darse cuenta de que su vida estaba a punto de cambiar. La incertidumbre en ese momento debió haberlo ***congelado***.&nbsp;
 
 ##### Ananías quiere hacer avanzar a Pablo, y le da dos ***mandatos*** específicos: (1) ser bautizado y (2) lavar sus pecados.
 
-##### Además, Ananías le da a Pablo dos ***participios*** para modificar los dos mandatos. Estos son los siguientes: (1) Levantate, y (2) Invoca su nombre. Consideremos la gramática de estas palabras.
+##### Además, Ananías le da a Pablo dos ***participios*** para modificar los dos mandatos. Estos son los siguientes: (1) Levántate, y (2) Invoca su nombre. Consideremos la gramática de estas palabras.
 
-###### Primero, debemos reconocer qué mandato va con qué participio. El mandato *bautízate* está ***relacionado*** con el participio *levántate*. El mandamiento *de lava tus pecados* está ***relacionado*** con el participio *invocando su nombre.*
+###### Primero, debemos <u>reconocer</u> qué mandato va con qué participio. El mandato *bautízate* está ***relacionado*** con el participio *levántate*. El mandamiento *de lava tus pecados* está ***relacionado*** con el participio *invocando su nombre.*
 
-###### En segundo lugar, la palabra *levántate* es un aoristo, participio activo que está conectado con el mandato de *bautízate*, que es un aoristo, un imperativo medio. Gramaticalmente, esto nos dice que primero debes levantarte y luego *ser bautizado*. Uno podría decir: "Habiendote levantado, bautízate".
+###### En segundo lugar, la palabra *levántate* es un aoristo, participio activo que está conectado con el mandato de *bautízate*, que es un aoristo, un <u>imperativo</u> medio. Gramaticalmente, esto nos dice que primero debes levantarte y luego *ser bautizado*. Uno podría decir: "Habiéndote levantado, bautízate".
 
-###### En tercer lugar, "invocando su nombre" es un aoristo, un participio medio que está conectado con el mandamiento *lava tus pecados,* que es un aoristo, un imperativo medio. Gramaticalmente, esto nos dice que primero debes *invocar su nombre* y luego *lava tus pecados*. Uno podría decir: "Habiendo invocado su nombre, lavar tus pecados".&nbsp;
+###### En tercer lugar, "invocando su nombre" es un aoristo, un participio medio que está conectado con el mandamiento *lava tus pecados,* que es un aoristo, un imperativo medio. Gramaticalmente, esto nos dice que <u>primero</u> debes *invocar su nombre* y luego *lava tus pecados*. Uno podría decir: "Habiendo invocado su nombre, lavar tus pecados".&nbsp;
 
-##### Ahora, ¿qué quiere decir Ananías cuando le dice a Pablo "lava tus pecados"? ¿Le está diciendo a Pablo que se salve, o si Pablo ***ya es*** salvo (como se discutió anteriormente), podría estar diciendo algo más?&nbsp;
+##### Ahora, ¿qué quiere decir <u>Ananías</u> cuando le dice a Pablo "lava tus pecados"? ¿Le está diciendo a Pablo que se salve, o si Pablo ***ya es*** salvo (como se discutió anteriormente), podría estar diciendo algo más?&nbsp;
 
-###### Los cristianos llegaron a ser conocidos como aquellos que invocaban el nombre del Señor Jesucristo (Hechos 9:14, 21; 1 Corintios 1:2). Los cristianos reconocían una autoridad superior a la del César y un trono más grande que el suyo. Eran ciudadanos de una ciudad celestial; y así como el ciudadano romano apelaba sobre la cabeza de los jueces subordinados, así los cristianos ***apelaban*** sobre la cabeza de cada juez terrenal al Juez de todos. Su Señor y Salvador se sentó a la diestra de la Majestad en lo Alto. Por lo tanto, "invocar el nombre del Señor" se ve como una actividad característica de los ***creyentes***, ***no** de* los incrédulos.
+###### Los cristianos llegaron a ser conocidos como aquellos que invocaban el nombre del Señor Jesucristo (Hechos 9:14, 21; 1 Corintios 1:2). Los cristianos reconocían una autoridad superior a la del César y un trono más grande que el suyo. Eran ciudadanos de una ciudad celestial; y así como el ciudadano romano apelaba sobre la cabeza de los jueces subordinados, así los cristianos ***apelaban*** sobre la cabeza de cada juez <u>terrenal</u> al Juez de todos. Su Señor y Salvador se sentó a la diestra de la Majestad en lo Alto. Por lo tanto, "invocar el nombre del Señor" se ve como una actividad característica de los ***creyentes***, ***no** de* los incrédulos.
 
-###### Considere el orden de Romanos 10:13-15. Trabajando hacia atrás en el texto, pero en orden cronológico: (1) el predicador enviado, (2) el predicador predica, (3) la gente escucha el mensaje, (4) la gente ***cree*** el mensaje, y (5) la gente invoca el nombre del Señor.
+###### Considere el orden de Romanos 10:13-15. Trabajando hacia atrás en el texto, pero en orden cronológico: (1) el predicador enviado, (2) el predicador predica, (3) la gente escucha el <u>mensaje</u>, (4) la gente ***cree*** el mensaje, y (5) la gente invoca el nombre del Señor.
 
-###### La frase "lava tus pecados" solo se usa ***una*** vez más en el Nuevo Testamento. Está en 1 Corintios 6:11, cuando en referencia a los creyentes corintios, Pablo dice: "ya habéis sido lavados". Gramaticalmente, esta frase en 1 Corintios 6:11 también se encuentra en el aoristo, indicativo medio, como nuestro uso de Hechos 22:16. Curiosamente, las otras dos frases mencionadas en 1 Corintios 6:11 ("fuisteis santificados" y "fuisteis justificados") están ambas en el indicativo aoristo pasivo. Entonces, ¿qué tiene de significativo la construcción aoristo del medio?
+###### La frase "lava tus pecados" solo se usa ***una*** vez más en el Nuevo Testamento. Está en 1 Corintios 6:11, cuando en referencia a los creyentes corintios, Pablo dice: "ya habéis sido lavados". Gramaticalmente, esta frase en 1 Corintios 6:11 también se encuentra en el aoristo, indicativo medio, como <u>nuestro</u> uso de Hechos 22:16. Curiosamente, las otras dos frases mencionadas en 1 Corintios 6:11 ("fuisteis santificados" y "fuisteis justificados") están ambas en el indicativo aoristo pasivo. Entonces, ¿qué tiene de significativo la construcción aoristo del medio?
 
-###### La voz media en griego significa que el sujeto del verbo se ve ***afectado*** por su propia acción que actúa sobre sí mismo. El Nuevo Testamento a menudo presenta a individuos realizando acciones que tienen resultados que recaen sobre ellos mismos, pero en última instancia es ***Dios*** quien realiza la acción. Por ejemplo, (1) Romanos 6:11 dice que debemos considerarnos *muertos* al pecado y vivos para Dios. Este es un imperativo presente, medio. Pero, *estar muerto al pecado y vivo para Dios* es obra de Dios, y nuestro *ajuste de cuentas / consideración* (con una voz media) es un acto de fe que nos pone en una posición para ***beneficiarnos*** de la acción de Dios. (2) En Juan 18:25, Pedro se estaba *calentando* junto al fuego. Este es un participio presente medio. Aunque se describe a Pedro como haciendo la acción, él no era el ***agente*** del calentamiento, ya que era el fuego. Sin embargo, se paró de tal manera y en tal lugar que se calentó con el fuego. 
+###### La voz media en griego significa que el sujeto del verbo se ve ***afectado*** por su propia acción que actúa sobre sí mismo. El Nuevo Testamento a menudo presenta a individuos realizando acciones que tienen resultados que recaen sobre ellos mismos, pero en última instancia es ***Dios*** quien realiza la acción. Por ejemplo, (1) Romanos 6:11 dice que debemos considerarnos *muertos* al pecado y <u>vivos</u> para Dios. Este es un imperativo presente, medio. Pero, *estar muerto al pecado y vivo para Dios* es obra de Dios, y nuestro *ajuste de cuentas / consideración* (con una voz media) es un acto de fe que nos pone en una posición para ***beneficiarnos*** de la acción de Dios. (2) En Juan 18:25, Pedro se estaba *calentando* junto al fuego. Este es un participio presente medio. Aunque se describe a Pedro como haciendo la acción, él no era el ***agente*** del calentamiento, ya que era el fuego. Sin embargo, se paró de tal manera y en tal lugar que se calentó con el fuego. 
 
-###### Entonces, ¿qué estaba haciendo Pablo cuando invocaba el nombre del Señor para lavar sus pecados? Parece más probable, debido al contexto de esta exhortación (después de Su salvación), que esto fue más para tener ***comunión*** y avanzar con el Señor.
+###### Entonces, ¿qué estaba haciendo Pablo cuando <u>invocaba</u> el nombre del Señor para lavar sus pecados? Parece más probable, debido al contexto de esta exhortación (después de Su salvación), que esto fue más para tener ***comunión*** y avanzar con el Señor.
 
-###### Pablo parecía estar luchando con su ***conciencia*** con respecto a sus pecados anteriores (Hechos 22:19-20), y por lo tanto esta era la forma en que Ananías lo animaba a seguir adelante.&nbsp;
+###### Pablo parecía estar luchando con su ***conciencia*** con respecto a sus pecados anteriores (Hechos 22:19-20), y por lo tanto esta era la <u>forma</u> en que Ananías lo animaba a seguir adelante.&nbsp;
 
 ##### Entonces, ¿por qué se ordena el bautismo aquí si no es para la salvación? Una vez más, es el cumplimiento de la ***Gran*** Comisión, y los apóstoles/discípulos lo tomaron muy en serio.&nbsp;
 
-###### Cuando un judío se identificaba públicamente con Jesucristo como el Mesías, era un *gran* problema, que afectaba sus relaciones actuales y futuras con familiares, amigos, colegas de negocios y beneficios.&nbsp;
+###### Cuando un judío se identificaba públicamente con Jesucristo como el Mesías, era un *gran* problema, que afectaba sus relaciones <u>actuales</u> y futuras con familiares, amigos, colegas de negocios y beneficios.&nbsp;
 
 ### \#7: 1 Pedro 3:20-21 – "los que en otro tiempo desobedecieron, cuando una vez esperaba la paciencia de Dios en los días de Noé, mientras se preparaba el arca, en la cual pocas personas, es decir, ocho, fueron salvadas por agua. El bautismo que corresponde a esto ahora nos salva (no quitando las inmundicias de la carne, sino como la aspiración de una buena conciencia hacia Dios) por la resurrección de Jesucristo".&nbsp;
 
 #### Considere algunos puntos clave del ***contexto*** de este versículo.&nbsp;
 
-##### La carta de 1 Pedro trata de un grupo de creyentes que se enfrentan a la ***persecución*** por causa de su fe. La mayor parte del libro circula dentro del tema del manejo del *sufrimiento / persecución*.
+##### La carta de 1 Pedro <u>trata</u> de un grupo de creyentes que se enfrentan a la ***persecución*** por causa de su fe. La mayor parte del libro circula dentro del tema del manejo del *sufrimiento / persecución*.
 
-##### En el capítulo 3, comenzando en el versículo 13, Pedro una vez más aborda el tema del ***sufrimiento***, y una vez más señala el ejemplo de Jesucristo en el versículo 18. (Véase también 1 Pedro 2:21-25.)  
+##### En el capítulo 3, comenzando en el versículo 13, Pedro una vez más aborda el tema del ***sufrimiento***, y una vez más señala el ejemplo de Jesucristo en el <u>versículo</u> 18. (Véase también 1 Pedro 2:21-25.)  
 
-##### Específicamente, en el versículo 13 y los siguientes, Pedro aborda el concepto de sufrir ***injustamente*** (por causa de la justicia), y usa a Noé como un ejemplo de sufrimiento injusto.  
+##### Específicamente, en el versículo 13 y los siguientes, Pedro aborda el concepto de sufrir ***injustamente*** (por causa de la justicia), y usa a Noé como un ejemplo de <u>sufrimiento</u> injusto.  
 
-##### Además, Pedro usa a Noé y el arca como un ejemplo de la paciencia del Señor para juzgar a los pecadores, lo que significa que Dios les da tiempo suficiente para que los pecadores escuchen un mensaje y luego cambien de pensamiento.
+##### Además, Pedro usa a Noé y el arca como un ejemplo de la paciencia del Señor para juzgar a los pecadores, lo que significa que Dios les da tiempo suficiente para que los <u>pecadores</u> escuchen un mensaje y luego cambien de pensamiento.
 
-##### Pedro básicamente dice esto a su audiencia ***creyente***: "Dios está haciendo cosas mucho más grandes en esta vida a través de estas pruebas, que simplemente tratar de hacer que sus vidas sean más fáciles circunstancialmente (es decir, eliminando todas las pruebas, persecución y tribulaciones)".  
+##### Pedro básicamente dice esto a su audiencia ***creyente***: "Dios está haciendo cosas mucho más grandes en esta vida a través de estas pruebas, que simplemente tratar de hacer que sus vidas sean más <u>fáciles</u> circunstancialmente (es decir, eliminando todas las pruebas, persecución y tribulaciones)".  
 
-##### Los creyentes están compartiendo el sufrimiento de Cristo, y a los incrédulos se les está dando la oportunidad de ***responder*** al mensaje del evangelio testificado a través de las acciones/respuestas de los creyentes (versículos 13-17).
+##### Los creyentes <u>están</u> compartiendo el sufrimiento de Cristo, y a los incrédulos se les está dando la oportunidad de ***responder*** al mensaje del evangelio testificado a través de las acciones/respuestas de los creyentes (versículos 13-17).
 
-##### Entonces, ¡el tema principal del sufrimiento es que *Dios gana*! Aunque Cristo pudo haber sufrido injustamente, el versículo 22 nos dice que ahora es exaltado. Por lo tanto, la exhortación es confiar en Dios en medio del sufrimiento porque Él resolverá todo castigo y recompensa.&nbsp;
+##### Entonces, ¡el <u>tema</u> principal del sufrimiento es que *Dios gana*! Aunque Cristo pudo haber sufrido injustamente, el versículo 22 nos dice que ahora es exaltado. Por lo tanto, la exhortación es confiar en Dios en medio del sufrimiento porque Él resolverá todo castigo y recompensa.&nbsp;
 
 #### Habiendo considerado ahora el contexto más amplio de 1 Pedro y nuestro pasaje, considere un contexto ***adicional*** de Génesis y la historia de Noé que será útil antes de sumergirnos en los detalles de 1 Pedro 3:20-21.&nbsp;
 
-##### El pueblo en los días de Noé era ***malvado*** (Génesis 6:5, 11-12), pero Noé halló gracia ante los ojos del Señor (Génesis 6:8).
+##### El pueblo en los días de Noé era ***malvado*** (Génesis 6:5, 11-12), pero Noé halló gracia <u>ante</u> los ojos del Señor (Génesis 6:8).
 
-##### Dios le ordenó a Noé que construyera un arca, y le dio instrucciones ***específicas*** sobre cómo construir y a quién/qué llevar a bordo (Génesis 6:14). Noé le obedeció y siguió Sus instrucciones al pie de la *letra* (Génesis 6:22).
+##### Dios le ordenó a Noé que construyera un arca, y le dio instrucciones ***específicas*** sobre cómo <u>construir</u> y a quién/qué llevar a bordo (Génesis 6:14). Noé le obedeció y siguió Sus instrucciones al pie de la *letra* (Génesis 6:22).
 
-##### Sin embargo, para no enfatizar únicamente la obediencia de Noé, Hebreos 11:7 arroja luz sobre la ***raíz*** de su obediencia, que era su fe. Ahora, hagamos y respondamos algunas preguntas basadas en Hebreos 11:7.&nbsp;
+##### Sin embargo, para no enfatizar únicamente la obediencia de Noé, Hebreos 11:7 arroja luz sobre la ***raíz*** de su obediencia, que era su fe. Ahora, hagamos y respondamos algunas <u>preguntas</u> basadas en Hebreos 11:7.&nbsp;
 
 ###### ¿Qué salvó a la casa de Noé?  El ***Arca***
 
-###### ¿Qué condenó al mundo? La ***preparación*** del Arca por parte de Noé y el rechazo de su ***predicación*** durante su preparación física del Arca durante 120 años (implícito en el pasaje). Génesis 6:3 nos da el marco de tiempo de 120 años, y 2 Pedro 2:5 llama a Noé un "pregonero (predicador) de justicia".
+###### ¿Qué condenó al mundo? La ***preparación*** del Arca por parte de Noé y el <u>rechazo</u> de su ***predicación*** durante su preparación física del Arca durante 120 años (implícito en el pasaje). Génesis 6:3 nos da el marco de tiempo de 120 años, y 2 Pedro 2:5 llama a Noé un "pregonero (predicador) de justicia".
 
-###### ¿Cómo llegó a ser Noé el "heredero de la justicia"? La preparación del Arca por parte de Noé ***exhibió*** su fe. Noé llevó el manto de la *fe y la justicia* de Abel.&nbsp;
+###### ¿Cómo llegó a ser Noé el "heredero de la justicia"? La preparación del Arca por <u>parte</u> de Noé ***exhibió*** su fe. Noé llevó el manto de la *fe y la justicia* de Abel.&nbsp;
 
 ##### Dios envió las aguas del diluvio desde arriba y desde abajo (Génesis 7:11), y Dios fue quien ***cerró*** el Arca (Génesis 7:16).&nbsp;
 
@@ -1270,35 +1270,35 @@
 
 #### Habiendo visto ahora el contexto ***completo***, ¿qué enseña 1 Pedro 3:20-21?&nbsp;
 
-##### Primero, tenemos que abordar una porción del versículo 19, donde se dice que Cristo fue y "***predicó*** a los espíritus encarcelados", que "en otro tiempo desobedecieron" en los días de Noé.
+##### Primero, tenemos que abordar una <u>porción</u> del versículo 19, donde se dice que Cristo fue y "***predicó*** a los espíritus encarcelados", que "en otro tiempo desobedecieron" en los días de Noé.
 
-###### Estos *espíritus* son los espíritus de los ***incrédulos*** en los días de Noé, que habían rechazado su predicación y la ayuda visual de la construcción del Arca.
+###### Estos *espíritus* son los espíritus de los ***incrédulos*** en los días de Noé, que habían <u>rechazado</u> su predicación y la ayuda visual de la construcción del Arca.
 
-###### Cristo, a través del Espíritu Santo, predicó ***a través de*** Noé (2 Pedro 2:5) a estos hombres y mujeres mientras estaban en la tierra.&nbsp;
+###### Cristo, a través del Espíritu Santo, predicó ***a través de*** Noé (2 Pedro 2:5) a estos <u>hombres</u> y mujeres mientras estaban en la tierra.&nbsp;
 
-##### ***Versículo 20***: Con estas personas Dios fue muy ***paciente*** en los días de Noé. De hecho, se enfatiza la *gran paciencia* de Dios con respecto a la persecución de Noé y el rechazo de su mensaje por parte del mundo incrédulo.
+##### ***Versículo 20***: Con estas personas Dios fue muy ***paciente*** en los días de Noé. De hecho, se <u>enfatiza</u> la *gran paciencia* de Dios con respecto a la persecución de Noé y el rechazo de su mensaje por parte del mundo incrédulo.
 
-##### Es por eso que **solo** *ocho* almas se salvaron a través del agua. Observe que fueron salvadas ***por*** agua y ***no*** ***en*** el agua.&nbsp;
+##### Es por eso que **solo** *ocho* <u>almas</u> se salvaron a través del agua. Observe que fueron salvadas ***por*** agua y ***no*** ***en*** el agua.&nbsp;
 
-###### Nuevamente, observe que los ocho que fueron salvos ***nunca*** se mojaron. Fueron los perseguidores desobedientes y los que rechazaron el mensaje de Noé los que murieron a través de las aguas del diluvio.
+###### Nuevamente, observe que los ocho que fueron salvos ***nunca*** se mojaron. Fueron los perseguidores desobedientes y los que rechazaron el <u>mensaje</u> de Noé los que murieron a través de las aguas del diluvio.
 
-###### Sería extraño entonces usar el bautismo en agua como antitipo, como lo hace Pedro en el siguiente versículo.&nbsp;
+###### Sería extraño entonces usar el <u>bautismo</u> en agua como antitipo, como lo hace Pedro en el siguiente versículo.&nbsp;
 
-##### ***Versículo 21***: El tipo y el antitipo representan una ***ilustración***. **El tipo** aquí es el Arca salvando a las personas físicamente del juicio de las aguas del diluvio y el ***antitipo*** es el bautismo a través de la resurrección de Jesucristo salvando a las personas espiritualmente.
+##### ***Versículo 21***: El tipo y el antitipo representan una ***ilustración***. **El tipo** aquí es el Arca salvando a las personas físicamente del juicio de las aguas del diluvio y el ***antitipo*** es el bautismo a través de la resurrección de Jesucristo <u>salvando</u> a las personas espiritualmente.
 
 ##### La pregunta es: ¿a qué ***tipo*** de bautismo se refiere Pedro aquí?&nbsp;
 
-###### Este bautismo debe representar la provisión de Dios (Jesucristo = el Arca), salvando al creyente ***espiritualmente*** (de la paga del pecado = las aguas del diluvio).
+###### Este bautismo debe representar la <u>provisión</u> de Dios (Jesucristo = el Arca), salvando al creyente ***espiritualmente*** (de la paga del pecado = las aguas del diluvio).
 
-###### La salvación espiritual de Dios es el colocar a cada creyente individual ***en*** Jesucristo (en unión con Él a través del bautismo del ***Espíritu)***. (Véase 1 Corintios 12:13.) La salvación espiritual de Dios es el ***antitipo*** de la salvación física de Dios al colocar a Noé y su familia en el Arca y salvarlos del juicio ***físico***.  
+###### La salvación espiritual de Dios es el colocar a cada creyente individual ***en*** Jesucristo (en unión con Él a través del bautismo del ***Espíritu)***. (Véase 1 Corintios 12:13.) La salvación <u>espiritual</u> de Dios es el ***antitipo*** de la salvación física de Dios al colocar a Noé y su familia en el Arca y salvarlos del juicio ***físico***.  
 
-###### En última instancia, la salvación de los creyentes y su posición justa ante Dios se basan en su ***unión*** con Jesucristo. (Ver Romanos 8:1 – "Ahora, pues, ninguna condenación hay para los que están en Cristo Jesús". Ver 2 Corintios 5:21 – "...para que nosotros fuésemos hechos justicia de Dios ***en*** Él").&nbsp;
+###### En última instancia, la salvación de los creyentes y su posición justa ante Dios se basan en su ***unión*** con Jesucristo. (Ver Romanos 8:1 – "Ahora, pues, <u>ninguna</u> condenación hay para los que están en Cristo Jesús". Ver 2 Corintios 5:21 – "...para que nosotros fuésemos hechos justicia de Dios ***en*** Él").&nbsp;
 
 ##### Este es el bautismo espiritual, que también se describe en Romanos 6:3-4.  &nbsp;
 
-###### Bautizados* representa nuestra identificación con Él en Su muerte, que también se ***ilustra*** en el Arca que resiste las aguas del diluvio.
+###### Bautizados* representa nuestra identificación con Él en Su <u>muerte</u>, que también se ***ilustra*** en el Arca que resiste las aguas del diluvio.
 
-###### *Andemos* representa nuestra identificación con Él en Su resurrección, que se ilustra en el Arca que desembarca en tierra ***seca*** y comienza la vida en una nueva tierra.
+###### *Andemos* representa nuestra identificación con Él en Su resurrección, que se <u>ilustra</u> en el Arca que desembarca en tierra ***seca*** y comienza la vida en una nueva tierra.
 
 # APÉNDICE 1
 
