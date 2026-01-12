@@ -3092,9 +3092,9 @@ Confianza y seguridad fundamentadas en Dios, no en el corazón
 
 #### Juan está completamente de __<u>acuerdo</u>__ con toda la escritura, con la fe sola en Jesucristo solamente, como único requisito para ser un nacido de Dios.
 
-#### El que cree, describe a alguien, __<u>cuyo</u>__ objeto de fe, es la persona y obra de Jesús. Jesús es el Mesías, para Juan: El Hijo Propiciación por nuestros pecados, el Hijo Salvador del mundo. Estos que creen, son hijos de Dios. Juan 1:12
+#### El que cree, describe a alguien, __<u>cuyo</u>__ objeto de fe, es la persona y obra de Jesús. Jesús es el Mesías, para Juan: El Hijo, Propiciación por nuestros pecados, el Hijo Salvador del mundo. Estos que creen, son hijos de Dios. Juan 1:12
 
-### “…*es nacido de Dios…”* describe a alguien que ha __<u>nacido</u>__ y continúa siendo un nacido de Dios. El nuevo nacimiento es algo que permanece para siempre.
+#### “…*es nacido de Dios…”* describe a alguien que ha __<u>nacido</u>__ y continúa siendo un nacido de Dios. El nuevo nacimiento es algo que permanece para siempre.
 
 ### 1 Juan 5:1b - *…todo aquel que ama al Padre, ama al que ha nacido de él.* Debido a que amamos al Padre, aquel que nos dio la vida, el engendrador de vida, __<u>amamos</u>__ también a nuestros hermanos, miembros de la misma familia.
 

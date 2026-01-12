@@ -3,6 +3,8 @@ Title: Romanos 1-8
 ---
 
 
+Romanos 1–8 (portada): ![Portada](images/portada-romanos-1-8.jpg)
+
 
 # CÓMO USAR ESTE MANUAL
 
@@ -631,6 +633,8 @@ El Poder del Evangelio
 ### Todo lo que sigue explica por qué este poder es necesario.
 
 # Romanos 1:18-3:20 EL MUNDO NECESITA SALVACIÓN
+
+![Todos bajo pecado — En Adán](images/en-adam.png)
 
 ## Romanos 1:18-23 - La revelación de la ira de Dios (en resultado por el rechazo de Dios como Dios)
 
@@ -1510,6 +1514,11 @@ El Poder del Evangelio
 
 ## Romanos 3:1-8 La fidelidad de Dios ante la infidelidad humana (Dios permanece justo y fiel aunque el hombre sea infiel)
 
+![Justificación](images/justificacion.png)
+
+*Justificación (Romanos 3:24–26; Romanos 5:1).*
+
+
 ### Romanos 3 continúa el argumento lógico de Pablo de los capítulos 1 y 2.
 
 #### Sigue argumentando sobre el pecado y la culpa universales ante Dios -tanto de judíos como de gentiles- y luego presenta la revelación de la justicia mediante la fe en Cristo.
@@ -1889,6 +1898,8 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 # ROMANOS 3:21-5:21 - JUSTIFICACIÓN: LA JUSTICIA QUE DIOS PROVEE
 
 ## Romanos 3:21-26 La justicia revelada aparte de la ley (Dios provee por medio de la obra de Cristo)
+
+![Justificación](images/justificacion.png)
 
 ### Romanos 3:21–31 forma un párrafo estrechamente unificado cuya gramática muestra una arquitectura clara construida sobre el contraste, la explicación y la conclusión. Versículos 21-26 es una sola oración presentando un solo argumento y versículos 27-31 es otra oración que da una conclusión. 
 
@@ -2402,6 +2413,8 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 
 ## Romanos 4:1-3 Abraham examinado ante Dios
 
+![Justificación](images/justificacion.png)
+
 ### Romanos capítulo 4 funciona como una demostración bíblica que respalda la afirmación de Romanos 3:21-31. Romanos capítulo 3 afirma algo. Romanos capítulo 4 lo demuestra con las Escrituras. Pablo no introduce un tema nuevo; confirma el argumento anterior.
 
 #### Pablo demuestra por las escrituras que Abraham fue justificado por la fe antes de La Ley o la circuncisión, lo que prueba que la justificación de Abráham ocurrió antes de estas cosas.
@@ -2502,6 +2515,11 @@ Al parecer la persona que hace la objeción parece tener un bueno punto y parece
 ##### Expresar la plenitud/completitud de la paternidad espiritual de Abraham
 
 #### Romanos 9-11 también se basa en Romanos 4
+
+![Israel](images/israel-romanos-9-11.png)
+
+*Dios fiel a sus promesas (Romanos 9:6; Romanos 11:29).*
+
 
 ##### Romanos 4: ¿Quiénes son los hijos de Abraham?
 
@@ -3212,6 +3230,20 @@ Vemos una lista de contrastes que presenta Romanos:
 
 ## Romanos 5:12–14 Dos cabezas, dos humanidades (¿cómo entraron el pecado y la muerte en la experiencia humana?)
 
+![En Adán y En Cristo — Muerte y Vida](images/en-adan-en-cristo-muerte-vida.png)
+
+![Reinado de vida en Cristo](images/en-cristo.png)
+
+![En Adán y En Cristo](images/en-adan-en-cristo-muerte-vida.png)
+
+*Dos cabezas, dos dominios (Romanos 5:12–21).*
+
+![Cuadrante En Adán](images/en-adan-cuadrante.png)
+
+![Cuadrante En Cristo](images/en-cristo-cuadrante.png)
+
+*“En Adán / En Cristo” (Romanos 5:12–21).*
+
 ### Romanos 5:12-21 Pablo hace uso de un caístico para ayudarnos en la comprensión.
 
 #### A (5:12) Un hombre → el pecado entra → muerte para todos
@@ -3699,6 +3731,25 @@ Vemos una lista de contrastes que presenta Romanos:
 # ROMANOS 6:1-8:17 SANTIFICACIÓN: LA VIDA QUE BROTA DE LA JUSTIFICACIÓN
 
 ## Romanos 6:1-2 ¿Permaneceremos en el pecado? (la gracia abundante provoca una objeción lógica: si la gracia reina, ¿importa el pecado?) 
+
+![No hay realidad compartida](images/no-realidad-compartida.png)
+
+![Cadenas rotas](images/cadenas-rotas.png)
+
+![Cadenas rotas](images/cadenas-rotas.png)
+
+*Libertados del dominio del pecado (Romanos 6:6–7; Romanos 6:17–18).*
+
+![Plataforma](images/regla-y-plataforma.png)
+
+*La nueva base de vida (Romanos 6:4; Romanos 6:11).*
+
+![No hay realidad compartida](images/no-realidad-compartida.png)
+
+*No se puede vivir “a la mitad” (Romanos 6:2).*
+
+
+
 
 ### Romanos 6:1–10 forma una única unidad argumentativa, marcada por:
 
@@ -4246,6 +4297,13 @@ Vemos una lista de contrastes que presenta Romanos:
 
 ## Romanos 7:1-6 Muertos a La Ley para vivir para Dios (la relación del creyente con la ley ha terminado de manera definitiva)
 
+![Santificación](images/santificacion.png)
+
+*Santificación: caminar en novedad (Romanos 6:22; Romanos 8:4).*
+
+![La ley no puede producir vida](images/regla-y-plataforma.png)
+
+
 ### Romanos 7:1a *¿Acaso ignoran, hermanos, (pues hablo a los que conocen la ley),* ¿Acaso ignoran?...conecta el argumento que sigue con lo que presentó ya en Romanos 6. 
 
 ### Romanos 7:1b "*que la ley tiene jurisdicción sobre una persona mientras vive?*" La ley civil tiene poder sobre alguien solo mientras vive. Cuando una persona muere, la ley no tiene poder sobre el/ella. 
@@ -4646,6 +4704,18 @@ Vemos una lista de contrastes que presenta Romanos:
 
 ## Romanos 8:1-4: La vida posible solo por el Espíritu
 
+![Glorificación](images/glorificacion.png)
+
+*Glorificación: esperanza futura segura (Romanos 8:18; Romanos 8:30).*
+
+![Hijos de Dios](images/hijos-de-dios.png)
+
+![Sufrimiento presente](images/sufrimiento.png)
+
+![La creación gime](images/creacion-gime.png)
+
+![Glorificación futura](images/glorificacion.png)
+
 ### Romanos 8:1 **retoma directamente** el clamor y la tensión no resuelta de Romanos 7:24–25.
 
 ### El paso no es explicativo (cómo), sino **declarativo** (qué es ahora cierto).
@@ -4836,6 +4906,11 @@ Vemos una lista de contrastes que presenta Romanos:
 
 ## Romanos 8:12-17 Implicaciones, hijos y herederos de Dios
 
+![Hijos de Dios](images/hijos-de-dios.png)
+
+*Adopción / filiación (Romanos 8:14–16).*
+
+
 ### El pasaje continúa la lógica de 8:1–11, pero introduce un nuevo tono: ya no solo describe realidades, sino que deriva implicaciones. Esta sección no es exhortiva ni contiene mandatos. Contiene indicativos que declaran que el creyente tiene 2 maneras de andar. 
 
 ### Romanos 8:12a *Así que, hermanos, somos deudores, no a la carne, para vivir conforme a la carne.* Pablo introduce lenguaje de deuda/obligación, pero niega que sea hacia la carne.
@@ -4941,6 +5016,11 @@ Vemos una lista de contrastes que presenta Romanos:
 # Romanos 8:18-39 GLORIFICACION: ESPERAZA Y SEGURIDAD EN EL PROPÓSITO DE DIOS
 
 ## Romanos 8:18-25: Sufrimiento presente y gloria futura (el sufrimiento no contradice la esperanza, la confirma)
+
+![Sufrimiento](images/sufrimiento.png)
+
+*Padecimientos presentes / gloria venidera (Romanos 8:18).*
+
 
 ### Nuestra esperanza futura da referencia a nuestro sufriemiento presente y posiblemente futuro.
 
@@ -5455,6 +5535,8 @@ Para que eso ocurriera, Dios tendría que dejar de amar a Su propio Hijo — y e
 
 ### Romanos 8 termina con una afirmación rotunda: nada puede separar al pueblo de Dios de su amor en Cristo Jesús, nuestro Señor (Romanos 8:39). Surge una pregunta natural: “¿Y qué hay de Israel?”. Romanos 9-11 responde directamente a esa pregunta.  Sin integrar a Israel en la iglesia, Romanos 9-11 funciona como prueba histórica de que el propósito salvador de Dios es inquebrantable: la misma seguridad que Romanos 8 declara para el creyente.
 
+![Fidelidad de Dios a sus promesas](images/israel-romanos-9-11.png)
+
 ### Romanos 8:30 dice por ejemplo, “*A los que justificó, a ésos también glorificó.*” 
 
 #### Romanos 9-11 aborda directamente el temor de que la incredulidad generalizada del pueblo judío signifique el colapso de la promesa de Dios. La respuesta de Pablo es explícita: la palabra de Dios no ha fallado (Romanos 9:6) y su llamado es irrevocable (Romanos 11:29).
@@ -5488,6 +5570,13 @@ Para que eso ocurriera, Dios tendría que dejar de amar a Su propio Hijo — y e
 #### Respuesta a la pregunta sobre Israel: “*No ha desechado Dios a su pueblo, al cual antes conoció.*” Romanos 11:2
 
 #### Pablo usa deliberadamente el mismo concepto de ancla (“conoció de antemano”) para insistir en que la historia de Israel no contradice la lógica de seguridad de Romanos 8. Si “conoció de antemano” respalda la seguridad de Romanos 8, también respalda la negación de Romanos 11 de que Dios haya rechazado a su pueblo.
+
+![Resumen — En Adán](images/en-adan-cuadrante.png)
+
+![Resumen — En Cristo](images/en-cristo-cuadrante.png)
+
+![Resumen — Santificación](images/santificacion.png)
+
 
 ## EN SÍNTESIS (1–11)
 
@@ -5541,7 +5630,6 @@ los tres tiempos de la salvación
 | **Presente**      | En curso                | **Expresado**                          | Presente / Imperativo    | **Vida vivida bajo ese estatus** | *caminando*, *sirviendo*, *presentando*, *conduciendo a la santificación* |
 | **Futuro**        | Esperado                | **Consumado**                          | Futuro                   | **Estado plenamente realizado**  | *será salvo*, *glorificado*, *adopción revelada*             |
 
-![tres fases](https://raw.githubusercontent.com/Cultivados-en-Gracia-y-Verdad/curriculo/9a19b4ea77839f2d5933dabdc1e4dac4c164fe1c/03.%20Romanos%201-8/tres%20fases.png)
 
 | Estatus                            | Madurez                                            |
 | :--------------------------------- | -------------------------------------------------- |
