@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="400">
-  <line x1="100" y1="200" x2="1300" y2="200" stroke="#000" stroke-width="6"/>
-  <line x1="650" y1="120" x2="750" y2="280" stroke="#000" stroke-width="6"/>
-  <line x1="750" y1="120" x2="650" y2="280" stroke="#000" stroke-width="6"/>
-  <text x="700" y="80" font-size="32" text-anchor="middle">NO HAY REALIDAD COMPARTIDA</text>
-</svg>
