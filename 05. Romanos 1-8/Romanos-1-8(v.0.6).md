@@ -5632,7 +5632,6 @@ Title: Romanos 1-8
 #### Pablo aclara que se dirige a personas que “conocen la ley”. Esto no limita el argumento a judíos, sino que establece una base común: todos entienden cómo funciona la ley en términos de jurisdicción.
 
 ### Romanos 7:1b *que la ley tiene jurisdicción sobre una persona mientras vive?*
-
 #### Pablo establece un principio legal básico: la ley ejerce autoridad solo mientras la persona vive.
 
 #### La muerte pone fin a la jurisdicción legal. Cuando alguien muere, la ley ya no tiene poder sobre esa persona.
@@ -5640,7 +5639,6 @@ Title: Romanos 1-8
 #### Este principio será la base para todo el razonamiento posterior.
 
 ### Romanos 7:2a *Pues la mujer casada está ligada por la ley a su marido mientras él vive;*
-
 #### Pablo introduce un ejemplo concreto tomado del ámbito civil: el matrimonio.
 
 #### El matrimonio no es presentado como una experiencia emocional, sino como una relación legal establecida y regulada por la ley.
@@ -5652,18 +5650,17 @@ Title: Romanos 1-8
 #### El matrimonio crea un nuevo estatus legal: “soltero/a” → “casado/a”.
 
 #### Este estatus:
-- otorga derechos (herencia, protección legal, decisiones médicas),
-- impone deberes (fidelidad, responsabilidad mutua),
-- y requiere una disolución legal para terminarse.
+##### - otorga derechos (herencia, protección legal, decisiones médicas),
+##### - impone deberes (fidelidad, responsabilidad mutua),
+##### - y requiere una disolución legal para terminarse.
 
 #### La ley reconoce dos vías principales para disolver el vínculo:
-- el divorcio,
-- o la muerte de uno de los cónyuges.
+##### - el divorcio,
+##### - o la muerte de uno de los cónyuges.
 
 #### Por eso, el matrimonio no es solo una promesa privada, sino una relación jurídicamente vinculante.
 
 ### Romanos 7:2b *pero si su marido muere, queda libre de la ley en cuanto al marido.*
-
 #### La muerte del marido disuelve automáticamente el vínculo legal del matrimonio.
 
 #### El estatus legal de la mujer cambia de “casada” a “viuda”.
@@ -5671,23 +5668,19 @@ Title: Romanos 1-8
 #### La ley ya no puede exigirle fidelidad al marido fallecido porque la relación legal ha terminado.
 
 ### Romanos 7:3a *Así que, mientras vive su marido, será llamada adúltera si ella se une a otro hombre;*
-
 #### Mientras el marido vive, la ley del matrimonio sigue vigente.
 
 #### Cualquier unión con otro hombre sería considerada ilegal, no por razones emocionales, sino jurídicas.
 
 ### Romanos 7:3b *pero si su marido muere, está libre de la ley,*
-
 #### La muerte rompe la jurisdicción de la ley matrimonial.
 
 ### Romanos 7:3c *de modo que no es adúltera aunque se una a otro hombre.*
-
 #### Una nueva unión ya no viola la ley, porque la relación legal anterior ha terminado por muerte.
 
 #### Este ejemplo establece el principio clave: la muerte pone fin a la autoridad legal.
 
 ### Romanos 7:4a *Por tanto, hermanos míos, también a ustedes se les hizo morir a la ley*
-
 #### Pablo aplica el principio legal al creyente.
 
 #### El creyente no murió por esfuerzo propio. El texto está en voz pasiva: “se les hizo morir”.
@@ -5695,7 +5688,6 @@ Title: Romanos 1-8
 #### Dios es el agente de esta muerte. El creyente no se libera de la ley; Dios lo libera.
 
 ### Romanos 7:4b *por medio del cuerpo de Cristo,*
-
 #### Dios ejecuta esta muerte mediante la unión con Cristo.
 
 #### Si Cristo murió, y el creyente fue unido a Cristo, entonces el creyente murió con Él.
@@ -5705,67 +5697,60 @@ Title: Romanos 1-8
 ### Relaciones legales terminadas en Adán
 
 #### En Adán, el ser humano estaba legalmente vinculado a:
-- la ley,
-- el pecado,
-- el dominio de Satanás,
-- el sistema del mundo.
+#### - la ley,
+#### - el pecado,
+#### - el dominio de Satanás,
+#### - el sistema del mundo.
 
 #### La muerte en Cristo rompe todas esas jurisdicciones.
 
-### Romanos 7:4c *para que sean unidos a otro,*
-
+### Romanos 7:4c "*para que sean unidos a otro,*"
 #### La muerte no es el fin; tiene un propósito relacional.
 
 #### El creyente muere para quedar libre y así poder ser unido legítimamente a otro.
 
-### Romanos 7:4d *a Aquel que resucitó de entre los muertos,*
-
+### Romanos 7:4d "*a Aquel que resucitó de entre los muertos,*"
 #### El creyente no es unido a un Cristo muerto, sino al Cristo resucitado.
 
 #### La unión es con una vida nueva, no con una tumba.
 
-### Romanos 7:4e *a fin de que llevemos fruto para Dios.*
-
+### Romanos 7:4e "*a fin de que llevemos fruto para Dios.*"
 #### Aquí se expresa el propósito final: llevar fruto para Dios.
 
 #### Bajo la ley, esto era imposible porque el pecado dominaba.
 
 #### La justificación previa hace posible el fruto posterior. El fruto no produce la relación; fluye de ella.
 
-### Romanos 7:5a *Porque mientras estábamos en la carne,*
-
+### Romanos 7:5a "*Porque mientras estábamos en la carne,*"
 #### Pablo describe la condición pasada.
 
 #### “estábamos” (imperfecto) indica un estado continuo, no un evento puntual.
 
-### Romanos 7:5b *las pasiones pecaminosas despertadas por la ley,*
+### Romanos 7:5b "*las pasiones pecaminosas despertadas por la ley,*"
 
 #### La ley, al interactuar con la carne, activaba las pasiones pecaminosas.
 
-### Romanos 7:5c *actuaban en los miembros de nuestro cuerpo*
-
+### Romanos 7:5c "*actuaban en los miembros de nuestro cuerpo*"
 #### El pecado operaba activamente en el cuerpo.
 
-### Romanos 7:5d *a fin de llevar fruto para muerte.*
-
+### Romanos 7:5d "*a fin de llevar fruto para muerte.*"
 #### El resultado inevitable era fruto dirigido hacia la muerte.
 
-### Romanos 7:6a *Pero ahora hemos quedado libres de la ley,*
+### Romanos 7:6a "*Pero ahora hemos quedado libres de la ley,*"
 
 #### “pero ahora” marca un cambio definitivo de estado.
 
 #### El creyente ya no está bajo la jurisdicción de la ley.
 
-### Romanos 7:6b *habiendo muerto a lo que nos ataba,*
+### Romanos 7:6b "*habiendo muerto a lo que nos ataba,*"
 
 #### La muerte rompió la atadura legal.
 
-### Romanos 7:6c *de modo que sirvamos en la novedad del Espíritu*
+### Romanos 7:6c "*de modo que sirvamos en la novedad del Espíritu*"
 
 #### El nuevo servicio ocurre en un nuevo marco: el Espíritu.
 
-### Romanos 7:6d *y no en el arcaísmo de la letra.*
-
+### Romanos 7:6d "*y no en el arcaísmo de la letra.*"
 #### El servicio ya no está regulado por el antiguo sistema legal.
 
 #### La ley no pudo producir fruto; la gracia sí.
@@ -5782,23 +5767,19 @@ Title: Romanos 1-8
 
 ### La vida cristiana ocurre en un marco completamente nuevo.
 
-## Romanos 7:7-12 La Ley no es pecado, pero lo revela  
-*(la ley expone el pecado sin tener poder para vencerlo)*
+## Romanos 7:7-12 La Ley no es pecado, pero lo revela 
+### (la ley expone el pecado sin tener poder para vencerlo)
 
-### Romanos 7:7a *¿Qué diremos entonces? ¿Es pecado la ley?* 
-
+### Romanos 7:7a "*¿Qué diremos entonces? ¿Es pecado la ley?*" 
 #### Nuevamente, Pablo hace una pregunta retórica, anticipando la inquietud de alguien después de escuchar lo dicho en los versículos 5 y 6. Es una pregunta que requiere una respuesta de sí o no. 
 
-### Romanos 7:7b *¡De ningún modo!* 
-
+### Romanos 7:7b "*¡De ningún modo!*" 
 #### Pablo responde enfáticamente que no. 
 
-### Romanos 7:7c *Al contrario, yo no hubiera llegado a conocer el pecado si no hubiera sido por medio de la ley.* 
-
+### Romanos 7:7c "*Al contrario, yo no hubiera llegado a conocer el pecado si no hubiera sido por medio de la ley.*" 
 #### Lejos de ser pecaminosa, Pablo considera que la ley es buena porque le hizo conocer el pecado.  
 
-### Romanos 7:7d *Porque yo no hubiera sabido lo que es la codicia, si la ley no hubiera dicho: «NO CODICIARÁS».* 
-
+### Romanos 7:7d "*Porque yo no hubiera sabido lo que es la codicia, si la ley no hubiera dicho: «NO CODICIARÁS».*" 
 #### Pablo da testimonio de que fue la ley la que le hizo conocer la codicia, al declarar: no codiciarás. 
 
 #### El conocimiento que Pablo obtuvo por medio de la ley activó al pecado; cuando la ley dijo “no codicies”, el pecado en Pablo fue activado y comenzó a codiciar. 
@@ -5807,24 +5788,21 @@ Title: Romanos 1-8
 
 #### A continuación, Pablo describe su experiencia personal. 
 
-### Romanos 7:8a *Pero el pecado, aprovechándose del mandamiento,* 
-
+### Romanos 7:8a "*Pero el pecado, aprovechándose del mandamiento,*" 
 #### La ley dijo “no codicies”, pero el pecado tomó ventaja del mandamiento. 
 
 #### Pablo explica cómo el pecado tomó la ley y se aprovechó de ella. 
 
 #### Pablo intentaba sinceramente vivir la vida cristiana bajo la ley. Pero, en lugar de dominar al pecado, como uno esperaría, el pecado fue activado y se aprovechó de la ley. 
 
-### Romanos 7:8b *produjo en mí toda clase de codicia.* 
-
+### Romanos 7:8b "*produjo en mí toda clase de codicia.*" 
 #### Pablo se encontró codiciando; el pecado produjo toda clase de codicia. 
 
 #### Quien produjo la codicia no fue la ley, sino el pecado que actuaba en la carne. 
 
 #### La ley dijo “no codicies”, y el pecado tomó ese mandamiento y lo convirtió en toda clase de codicia. 
 
-### Romanos 7:8c *Porque aparte de la ley el pecado está muerto.* 
-
+### Romanos 7:8c "*Porque aparte de la ley el pecado está muerto.*" 
 #### El pecado permanece “inactivo” donde no hay ley. Pero en el momento en que se introduce un mandamiento, el pecado se activa y produce toda clase de deseos pecaminosos. 
 
 #### El versículo continúa el argumento de Romanos 7:7, pasando del conocimiento del pecado a la actividad pecaminosa. 
@@ -5833,70 +5811,66 @@ Title: Romanos 1-8
 
 #### La ley nunca es culpada; gramaticalmente es secundaria y utilizada instrumentalmente por el pecado. 
 
-### Romanos 7:9 *En un tiempo yo vivía sin la ley, pero al venir el mandamiento, el pecado revivió, y yo morí* 
-
+### Romanos 7:9 "*En un tiempo yo vivía sin la ley, pero al venir el mandamiento, el pecado revivió, y yo morí*" 
 #### La secuencia es explícita y ordenada: vida anterior sin la ley, llegada del mandamiento, activación del pecado y resultado en muerte. 
 
 #### Esto describe un estado anterior de vida sin la ley, seguido por la llegada del mandamiento, lo cual coincide con el pecado volviéndose activo y produciendo muerte. 
 
 #### Lo que Pablo experimentó confirma la necesidad de no vivir bajo la ley. La actividad del pecado no es frenada por la ley; al contrario, el pecado se activa cuando el mandamiento entra en escena. 
 
-### Romanos 7:10 *y este mandamiento, que era para vida, a mí me resultó para muerte;* 
-
+### Romanos 7:10 "*y este mandamiento, que era para vida, a mí me resultó para muerte;*" 
 #### En ningún momento Pablo afirma que la ley haya hecho algo malo. Sin embargo, la ley nunca fue diseñada para dar vida, sino para señalar la fuente de vida: Cristo. Gálatas 3:24
 
 #### El propósito de la ley es bueno, pero si tratamos de vivir como cristianos bajo la ley, terminaremos experimentando muerte. 
 
 ##### ¿Por qué?
 
-### Romanos 7:11a *porque el pecado, aprovechándose del mandamiento, me engañó,* 
-
+### Romanos 7:11a "*porque el pecado, aprovechándose del mandamiento, me engañó,*"
 #### Si intentas vivir la vida cristiana por medio de la ley, terminarás activando el pecado y caminando según él. 
 
 #### El engaño del pecado consiste en presentar la ley —que es buena— como medio de vida, cuando en realidad produce muerte. Hebreos 3:13; Gálatas 6:7
 
-### Romanos 7:11b *y por medio de él me mató.* 
-
+### Romanos 7:11b "*y por medio de él me mató.*" 
 #### El pecado usó la ley para producir fruto que llevó a Pablo a experimentar muerte en su vivencia. 
 
 #### Santiago describe claramente este proceso de engaño. 
 
-##### Santiago 1:13 *Que nadie diga cuando es tentado: «Soy tentado por Dios». Porque Dios no puede ser tentado por el mal y Él mismo no tienta a nadie.* 
+##### Santiago 1:13 "*Que nadie diga cuando es tentado: «Soy tentado por Dios». Porque Dios no puede ser tentado por el mal y Él mismo no tienta a nadie.*"
 
 #### La tentación no proviene de Dios; es una apelación a nuestros deseos. 
 
 ##### Algunos ejemplos engañosos de tentación:
 
-###### El conocimiento apela a los sentidos y produce falsa seguridad (1 Corintios 8:1).
+###### El conocimiento apela a los sentidos y produce falsa seguridad. 1 Corintios 8:1
 
-###### Cumplir mandamientos genera conducta observable, control y seguridad (Romanos 7:10–13).
+###### Cumplir mandamientos genera conducta observable, control y seguridad. Romanos 7:10–13
 
-###### Descansar en la ley produce confianza en lo visible (Romanos 2:17–20).
+###### Descansar en la ley produce confianza en lo visible. Romanos 2:17–20
 
 ###### Celo por Dios pensando que la obediencia es vida (produce alivio moral inmediato) (Romanos 10:2). El control se siente mejor que la dependencia por fe. 
 
-##### Santiago 1:14 *Sino que cada uno es tentado cuando es llevado y seducido por su propia pasión.* 
+##### Santiago 1:14 "*Sino que cada uno es tentado cuando es llevado y seducido por su propia pasión.*" 
 
 ###### La verdadera fuente de la tentación es el pecado residente, que a veces usa cosas buenas para apelar a los sentidos. 
 
-##### Santiago 1:15 *Después, cuando la pasión ha concebido, da a luz el pecado; y cuando el pecado es consumado, engendra la muerte.* 
+##### Santiago 1:15 "*Después, cuando la pasión ha concebido, da a luz el pecado; y cuando el pecado es consumado, engendra la muerte.*" 
 
-##### Santiago 1:16 *Amados hermanos míos, no se engañen.* 
+##### Santiago 1:16 "*Amados hermanos míos, no se engañen.*" 
 ###### El engaño del pecado es sutil y usa cosas buenas para ejercer su astucia. 
 
-##### Santiago 1:17 *Toda buena dádiva y todo don perfecto viene de lo alto, desciende del Padre de las luces, en quien no hay cambio ni sombra de variación.*  
+##### Santiago 1:17 "*Toda buena dádiva y todo don perfecto viene de lo alto, desciende del Padre de las luces, en quien no hay cambio ni sombra de variación.*"
 ###### Dios nunca es la fuente de la tentación. 
 
 ###### La tentación existe, pero Dios provee lo necesario para que no nos engañe ni ejerza poder sobre nosotros. 
 
-##### Santiago 1:18 *En el ejercicio de Su voluntad, Él nos hizo nacer por la palabra de verdad, para que fuéramos primicias de Sus criaturas.* 
+##### Santiago 1:18 "*En el ejercicio de Su voluntad, Él nos hizo nacer por la palabra de verdad, para que fuéramos primicias de Sus criaturas.*" 
 ###### La verdad ocupa su lugar en nosotros y produce fruto por la obra de Dios. 
 
 ###### Lo que proviene de Dios se discierne por la fe, no por los sentidos. 
 
 ##### Así vemos cómo el pecado puede usar cosas buenas para engañar, esclavizar y producir muerte. 
 
-### Romanos 7:12a *Así que la ley es santa, y el mandamiento es santo, justo y bueno.* 
+### Romanos 7:12a "*Así que la ley es santa, y el mandamiento es santo, justo y bueno.*" 
 
 #### La Escritura nunca presenta la ley como mala, pecaminosa o corrupta. 
 
@@ -5921,18 +5895,18 @@ Title: Romanos 1-8
 ## Romanos 7:13-17 El problema real: el pecado que habita en uno 
 ### (el conflicto no proviene de la ley, sino del pecado residente)
 
-### Romanos 7:13a *¿Entonces lo que es bueno vino a ser causa de muerte para mí?* 
+### Romanos 7:13a "*¿Entonces lo que es bueno vino a ser causa de muerte para mí?*" 
 #### ¿Es la ley culpable de que haya experimentado muerte en mi vida? 
 
 #### La ley participó en el proceso, pero no es la causa.
 
 #### Pablo reconoce que la ley estuvo involucrada, pero rechaza que sea el origen del problema.
 
-### Romanos 7:13b *¡De ningún modo!* 
+### Romanos 7:13b "*¡De ningún modo!*" 
 #### La negación es absoluta. La ley no es la causa de la muerte.
 
-### Romanos 7:13c *Al contrario, fue el pecado,* 
-#### La causa real es identificada claramente: el pecado.  
+### Romanos 7:13c "*Al contrario, fue el pecado,*" 
+#### La causa real es identificada claramente: el pecado. 
 
 #### No una acción aislada, sino el pecado como poder residente.
 
@@ -5943,14 +5917,14 @@ Title: Romanos 1-8
 
 #### La ley no origina la muerte; hace visible que la muerte proviene del pecado.
 
-### Romanos 7:13e *para que por medio del mandamiento el pecado llegue a ser en extremo pecaminoso.* 
+### Romanos 7:13e "*para que por medio del mandamiento el pecado llegue a ser en extremo pecaminoso.*" 
 
-#### La función de la ley es desenmascarar al pecado en toda su gravedad.  
+#### La función de la ley es desenmascarar al pecado en toda su gravedad.
 #### La ley obliga al pecado a mostrarse tal como es.
 
-#### La ley no se alía con el pecado; lo confronta y lo expone.
+#### La Ley no se alía con el pecado; lo confronta y lo expone.
 
-#### Este versículo retoma y profundiza lo afirmado en Romanos 7:7:  
+#### Este versículo retoma y profundiza lo afirmado en Romanos 7:7: 
 #### *“yo no hubiera llegado a conocer el pecado si no hubiera sido por medio de la ley.”*
 
 #### Lo que Pablo **no** dice:
@@ -5960,33 +5934,32 @@ Title: Romanos 1-8
 ##### La ley coopera con el pecado 
 
 #### Lo que Pablo **sí** afirma:
-
-##### El pecado engaña (Romanos 7:11)
+##### El pecado engaña. Romanos 7:11
 ##### El pecado mata 
-##### La ley permanece buena y revela al pecado con claridad  
+##### La ley permanece buena y revela al pecado con claridad 
 
 #### En un contexto donde el pecado es engañoso, Pablo protege explícitamente la bondad de la ley.
 
-### Romanos 7:14a *Porque sabemos que la ley es espiritual,* 
+### Romanos 7:14a "*Porque sabemos que la ley es espiritual,*"
+#### La ley pertenece a la esfera de Dios. 
 
-#### La ley pertenece a la esfera de Dios.  
 #### Es coherente con el Espíritu y expresa la voluntad divina.
 
-#### “Sabemos” (plural) indica un conocimiento compartido y establecido.  
+#### “Sabemos” (plural) indica un conocimiento compartido y establecido. 
 #### La ley es santa, justa, buena y ahora se afirma: espiritual.
 
 #### Pablo elimina cualquier sospecha de que la ley y el pecado operen juntos.
 
 ### Romanos 7:14b *pero yo soy carnal, vendido a la esclavitud del pecado.* 
+#### Pablo se describe a sí mismo como carnal en esta experiencia. 
 
-#### Pablo se describe a sí mismo como carnal en esta experiencia.  
 #### La carnalidad se manifiesta en el conflicto interno que sigue.
 
 ![measure-up](images/measure-up.png)
 
 ### Romanos 7:15a *Porque lo que hago, no lo entiendo.* 
+#### Pablo expresa desconcierto frente a sus propias acciones. 
 
-#### Pablo expresa desconcierto frente a sus propias acciones.  
 #### Existe una ruptura entre comprensión, deseo y acción.
 
 ### Romanos 7:15b *Porque no practico lo que quiero hacer, sino que lo que aborrezco, eso hago.* 
@@ -5999,7 +5972,8 @@ Title: Romanos 1-8
 ##### No hago el bien que deseo, sino el mal que no quiero (Romanos 7:19) 
 ##### Con la mente sirvo a la ley de Dios, pero en los miembros a la ley del pecado (Romanos 7:25)
 
-#### El conflicto es continuo y real.  
+#### El conflicto es continuo y real.
+
 #### El deseo interno no se traduce automáticamente en obediencia práctica.
 
 ### Romanos 7:16a *Y si lo que no quiero hacer, eso hago, estoy de acuerdo con la ley, reconociendo que es buena.* 
