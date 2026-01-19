@@ -111,13 +111,377 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 
 ## Estructura de la carta
 
-### 1 Juan contiene 15 síclos repetitivos que podemos observar. Presentamos un análisis estrictamente observacional de la sección de identidad de 1 Juan, mostrando cada ciclo y cómo se presenta el texto en español:
+### 1 Juan contiene unidades diagnósticas, repetitivas que podemos observar. 
 
-| División                         | Pregunta del Ciclo                         | Naturaleza General del Ciclo |
-| -------------------------------- | ------------------------------------------ | ---------------------------- |
-| **División 1** (1 Juan 1:1–2:17) | *¿Qué indica esta condición?*              | Diagnóstico / Sintomático    |
-| **División 2** (1 Juan 2:18–4:6) | *¿Cuál es la fuente amenazada?*            | Discernimiento / Evaluativo  |
-| **División 3** (1 Juan 4:7–5:21) | *Esto es lo que ahora se sabe y se posee.* | Asertivo / Declarativo       |
+#### Qué es una Unidad Diagnóstica
+
+##### Una unidad diagnóstica es una sección literaria delimitada en la que Juan examina o discierne el origen, el estado o la realidad, en lugar de narrar eventos o dar órdenes.
+
+##### Su objetivo es responder a preguntas como:
+
+###### **¿Qué revela esto sobre la fuente, el estado o la autenticidad de lo que se afirma o experimenta?**
+
+#### Qué hace que una unidad sea “diagnóstica” (Señales textuales)
+
+##### Una unidad es diagnóstica no por su longitud ni su estructura, sino por lo que el lenguaje hace.
+
+##### Los indicadores comunes incluyen:
+
+###### Binarios contrastivos
+
+###### Dios / mundo
+
+###### Verdad / mentira
+
+###### Luz / tinieblas
+
+###### Amor / odio
+
+###### De Dios / no de Dios
+
+##### Lenguaje de prueba
+
+###### “En esto conocemos”
+
+###### “Si alguien dice…”
+
+###### “El que…”
+
+###### “Todo aquel que…”
+
+###### “Así es como… se revela”
+
+##### Resultados observables
+
+###### Lo que se manifiesta
+
+###### Lo que aparece
+
+###### Lo que está ausente
+
+###### Lo que falla al ser expuesto
+
+3. ### Qué hace una unidad diagnóstica
+
+#### Una unidad diagnóstica:
+
+##### Expone la realidad en lugar de crearla
+
+##### Revela la fuente en lugar de imponer un comportamiento
+
+##### Aclara la identidad en lugar de producirla
+
+##### Prueba las afirmaciones mediante correspondencia observable
+
+#### En otras palabras:
+
+##### El diagnóstico precede a la confirmación, la exhortación o la consolidación.
+
+#### Qué no es una unidad diagnóstica. Una unidad diagnóstica no es:
+
+##### Un "ciclo" por defecto
+
+##### Una estructura simétrica que debe repetirse
+
+##### Una lista de verificación moral
+
+##### Un sistema teológico
+
+##### Puede contener lenguaje repetido, pero la repetición por sí sola no define la unidad.
+
+#### Estas señales muestran que Juan está evaluando, no exhortando.
+
+## 3 Divisiones principales:
+
+#### Juan lleva la carta de exponer la realidad bajo la luz (1 Juan 1:1-2:17). 
+
+##### Aquí la pregunta que debes hacer es: ¿Qué es cierto al exponerlo a la luz?
+
+#### La siguiente división es aclarar las fuentes (1 Juan 2:18-4:6). "*de esta manera sabemos...*" apunta hacia comprobar. 
+
+##### ¿De donde proviene esto? 
+
+#### Por último, la carta termina en consolidación (1 Juan 4:7-5:21). "*Sabemos*" confirma lo establecido, lo que ya concretamente sabemos. 
+
+##### ¿Dado lo revelado y conocido, ¿cómo se sostiene, se mantiene y nos inspira confianza esta realidad?
+
+###### Esta no es una cuestión de comportamiento.
+
+###### Es una cuestión de estado de ser.
+
+| División                  | Pregunta de la división                                      | Naturaleza General del Ciclo |
+| ------------------------- | ------------------------------------------------------------ | ---------------------------- |
+| **#1** (1 Juan 1:1–2:17)  | ¿Que es cierto expuesto a la luz?                            | Diagnóstico / Sintomático    |
+| **# 2** (1 Juan 2:18–4:6) | ¿De donde proviene?                                          | Diagnósitco / Evaluativo     |
+| **# 3** (1 Juan 4:7–5:21) | Conociendo nuestra realidad, ¿que significa para nuestra confianza? | Asertivo / Declarativo       |
+
+### **DIvisión #1: Exponiendo a la Luz**
+
+#### En 1 Juan 1:6–2:17, Juan expone las afirmaciones de comunión, conocimiento de Dios, luz y amor, colocándolas junto a la orientación visible de la vida. Sin determinar aún su origen ni ofrecer una consolidación, el texto revela si la profesión y la práctica se corresponden o se contradicen. La comunión se expone por el andar, el conocimiento por la obediencia, la luz por el amor y el amor al Padre por la orientación alejada del mundo. El pasaje no resuelve estas tensiones, sino que las hace visibles, preparando el camino para el discernimiento y la seguridad posteriores.
+
+#### **Exposición en 1 Juan 1:6–2:17**
+
+#### 1 Juan 1:6 “*Si decimos que tenemos comunión con Él, y sin embargo andamos en tinieblas…*”
+##### Afirmación: Comunión con Dios.
+##### Exposición: Andar en tinieblas no corresponde a esa afirmación.
+
+#### 1 Juan 1:7 “*Pero si andamos en la luz, como Él está en la luz…*”
+##### Afirmación: Andar en la luz.
+##### Exposición: Donde hay luz, la comunión y la purificación son visibles.
+###### (Esto muestra cómo se ve la coherencia).
+
+#### 1 Juan 1:8 “*Si decimos que no tenemos pecado…*”
+##### Afirmación: Ausencia de pecado.
+##### Exposición: La afirmación revela autoengaño y ausencia de verdad.
+
+#### 1 Juan 1:9 “*Si confesamos nuestros pecados…*”
+##### Afirmación: Confesión del pecado.
+##### Exposición: La apertura corresponde a la verdad y la purificación.
+
+#### 1 Juan 1:10 “*Si decimos que no hemos pecado…*”
+##### Afirmación: Negación de haber pecado.
+##### Exposición: La afirmación contradice la palabra de Dios y expone una negación total.
+###### En este punto, la exposición ha puesto a prueba las afirmaciones sobre la comunión, la identidad, la veracidad y la postura ante el pecado.
+
+#### 1 Juan 2:1-2 (Nota importante) Esta sección no introduce una nueva afirmación.
+##### Nota: Aquí no se pone a prueba ninguna afirmación. Dado que han sido expuestos de tal manera, Juan ahora explica porque les dice estas cosas. 
+##### Esta sección proporciona consuelo y estabilidad, no exposición.
+
+#### 1 Juan 2:3 “*En esto sabemos que le conocemos, si guardamos sus mandamientos.*”
+##### Afirmación: Conocer a Dios.
+##### Exposición: El conocimiento se hace visible mediante la obediencia.
+
+#### 1 Juan 2:4 “*El que dice: ‘Yo le conozco’, y no guarda sus mandamientos…*”
+##### Afirmación: Conocer a Dios (explícitamente).
+##### Exposición: La desobediencia expone la contradicción entre la afirmación y la práctica.
+
+#### 1 Juan 2:5-6 “*Pero el que guarda su palabra…*”
+##### Afirmación: Permanecer en Él (implícito).
+##### Exposición: La obediencia y andar como Él anduvo corresponden a permanecer.
+
+#### 1 Juan 2:7-8 “*No escribo un mandamiento nuevo…*”
+##### Afirmación: El mandamiento de amar es antiguo y nuevo.
+##### Exposición: La luz ya brilla; las tinieblas ya están pasando. (Esto establece el contexto para la siguiente exposición).
+
+#### 1 Juan 2:9-11 “*El que dice estar en la luz, y aborrece a su hermano…*”
+##### Afirmación: Estar en la luz.
+##### Exposición: El odio hacia un hermano expone la oscuridad continua.
+
+#### 1 Juan 2:15-17 “*No améis al mundo…*”
+##### Afirmación: Amor al Padre (implícito).
+##### Exposición: El amor al mundo contradice el amor al Padre; la orientación revela lealtad.
+
+### **División #2: Definiendo la fuente**
+
+#### El texto ya no pregunta *si* algo corresponde. Pregunta **qué revela su correspondencia sobre su origen**. Juan ya no dice: “Aquí hay una afirmación, ¿coincide con la realidad?” Ahora dice: Aquí hay algo presente, ¿de dónde proviene?”
+
+#### En 1 Juan 2:18–4:6, Juan ya no formula afirmaciones principalmente para exponerlas, sino que se basa en lo ya revelado para determinar su origen. Los contrastes previamente expuestos —verdad y mentira, obediencia y desobediencia, confesión y negación, amor y odio— se interpretan ahora en función de su origen, ya sea de Dios, del mundo o del maligno. Esta sección representa un cambio: de visibilizar la realidad a explicar su origen.
+
+#### Lista resumida de situaciones engañosas (1 Juan 2:18–4:6). Es decepción porque imita alineación. 
+
+##### 1 Juan 2:18–19 Aparente pertenencia que resulta falsa
+
+###### Engaño: Pertenencia. Por su presencia en la comunidad. Daba una impresión de genuina alineación.
+
+##### 1 Juan 2:22 Negación de Jesús como el Cristo
+
+###### Engaño: Ortodoxia. Utilizando un lenguage religioso, redefine o rechaza la identidad de Jesús. 
+
+##### 1 Juan 2:23 Separación de la relación con Dios de la relación con el Hijo
+
+###### Engaño: Teismo. Se afirma una relación con Dios, excluyendo al Hijo.
+
+##### 1 Juan 2:24-26 Enseñanza que compite con lo recibido “desde el principio”
+
+###### Engaño: Continuidad. La nueva instrucción socava lo recibido originalmente. Parece real porque se presenta como desarrollo, aclaración o comprensión más profunda, no como rechazo.
+
+##### 1 Juan 2:26-27 Dependencia implícita de instrucción espiritual nueva o superior
+
+###### Engaño: Madurez. Se crea dependencia de enseñanzas adicionales a las ya conocidas.Parece real porque apela al crecimiento y la madurez espiritual, lo que implica insuficiencia en lo recibido.
+
+##### 1 Juan 2:29-3:10 Confianza basada en la práctica sin una verdadera alineación
+
+###### Engaño: Práctica. El comportamiento visible se considera prueba suficiente de la verdadera posición. Parece real porque el comportamiento observable es más fácil de medir que el verdadero origen.
+
+##### 1 Juan 3:10-15 Ruptura relacional al afirmar la alineación
+
+###### Engaño: Exactitúd. La ruptura relacional contradice las afirmaciones de alineación. Parece real porque las creencias o acciones correctas pueden coexistir externamente con el fracaso relacional.
+
+##### 1 Juan 3:19-21 Permitir que el sentimiento interno determine la posición
+
+###### Engaño: Consciencia. Se permite que la acusación o la seguridad del corazón definan la realidad. Parece real porque la experiencia interna se siente inmediata y confiable.
+
+##### 1 Juan 4:1 Aceptación acrítica de afirmaciones o experiencias espirituales
+
+###### Engaño: Espiritualidad. Se asume que las expresiones espirituales son válidas sin discernimiento. Parece real porque el lenguaje y la experiencia espirituales conllevan una autoridad asumida.
+
+##### 1 Juan 4:2-3 Confesión verbalmente correcta, pero sustancialmente falsa
+
+###### Engaño: Confesión. Una confesión que suena correcta se usa de manera engañosa. Parece real porque la confesión puede ser formalista, sonando ortodoxa sin correspondencia.
+
+##### 1 Juan 4:5 Mensajes validados por su amplia aceptación
+
+###### Engaño: Recepción. La recepción generalizada crea una falsa sensación de legitimidad. Parece real porque la afirmación y la recepción sugieren validación.
+
+##### 1 Juan 4:6 Voces contrapuestas que difuminan la verdad y el error
+
+###### Engaño: Autoridad. Voces contrapuestas oscurecen la distinción clara entre lo verdadero y lo falso. Parece real porque múltiples voces seguras crean ambigüedad en lugar de una contradicción obvia.
+
+### **División #3: Consolidando** 
+
+#### En 1 Juan 4:7–5:21, Juan entra de lleno en la consolidación, dejando de exponer afirmaciones y de determinar la fuente, para luego hablar desde realidades que ahora se consideran establecidas. El amor, la permanencia, la fe y la vida eterna se presentan como posesiones compartidas, no como pruebas de autenticidad. El conocimiento se afirma repetidamente en lugar de evaluarse, el miedo es reemplazado por la confianza, y la seguridad se declara explícitamente como el propósito de la escritura. La carta concluye no repasando el engaño ni la advertencia, sino reforzando lo que los creyentes ya tienen y saben.
+
+#### Situaciones de Acuerdo en 1 Juan 4:7–5:21
+
+##### 1 Juan 4:7–8 El amor como una realidad compartida
+
+##### Lo que está establecido: Se asume que el amor entre los creyentes está presente y opera.
+
+###### El amor no se prueba; se presupone que fluye de Dios.
+
+###### Juan habla desde el amor, no hacia el amor.
+
+##### 1 Juan 4:9–10 El amor de Dios ya manifestado
+
+###### Lo que está establecido: El amor de Dios ya se ha revelado de manera concreta.
+
+###### La manifestación del amor no se debate ni se defiende.
+
+###### El fundamento del amor se considera consumado.
+
+##### 1 Juan 4:11–12 La morada mutua establecida
+
+###### Lo que está establecido:
+
+###### Dios mora en los creyentes, y los creyentes moran en Dios.
+
+###### Se habla del amor como la expresión visible de esa realidad.
+
+###### La permanencia se asume, no se examina.
+
+##### 1 Juan 4:13 Conocimiento compartido de la permanencia
+
+###### Lo establecido:
+
+###### Los creyentes saben que permanecen en Dios.
+
+###### La presencia del Espíritu se considera una realidad dada.
+
+###### El conocimiento es declarativo, no condicional.
+
+##### 1 Juan 4:14-16 Confesión y testimonio unificados
+
+###### Lo establecido:
+
+###### La confesión de Jesús como Hijo de Dios es compartida.
+
+###### La creencia y la permanencia se consideran realidades presentes.
+
+###### La confesión ya no se examina; se afirma.
+
+##### 1 Juan 4:17-18 La confianza reemplaza al miedo
+
+###### Lo establecido:
+
+###### La confianza antes del juicio es posible y presente.
+
+###### El miedo se considera algo desplazado, no expuesto.
+
+###### El amor se expresa como maduro y eficaz.
+
+##### 1 Juan 4:19-21 El amor como respuesta natural
+
+###### Lo establecido:
+
+###### El amor a Dios y al prójimo fluye naturalmente de ser amado.
+
+###### El mandato de amar se basa en una realidad ya establecida.
+
+###### El amor es respuesta, no prueba.
+
+##### 1 Juan 5:1-2 La fe, el amor y el nuevo nacimiento unidos
+
+###### La creencia, el amor y la identidad relacional van de la mano.
+
+###### Estas realidades están entrelazadas, no separadas.
+
+###### No se intenta aislarlas como prueba.
+
+##### 1 Juan 5:3 La obediencia como algo sin carga
+
+###### Lo establecido:
+
+###### Los mandatos de Dios no son opresivos.
+
+###### La obediencia fluye de la vida en común, no de la presión.
+
+###### El tono es apacible, no evaluativo.
+
+##### 1 Juan 5:4-5 La victoria como ya poseída
+
+###### Lo que está decidido:
+
+###### Se habla de la victoria sobre el mundo como presente.
+
+###### La fe se presenta como efectiva y operativa.
+
+###### No hay aquí una narrativa de lucha, solo afirmación.
+
+##### 1 Juan 5:6-12 El testimonio como concluyente
+
+###### Lo que está decidido:
+
+###### El testimonio de Dios acerca de su Hijo se mantiene.
+
+###### Se habla de la vida eterna como dada y poseída.
+
+###### El testimonio se reitera, no se discute.
+
+##### 1 Juan 5:13 La seguridad como propósito explícito
+
+###### Lo que está decidido:
+
+###### Los creyentes pueden saber que tienen vida eterna.
+
+###### La seguridad es el objetivo declarado de la carta.
+
+###### Nada queda sin resolver.
+
+##### 1 Juan 5:14-15 La confianza en la oración
+
+###### Lo que está decidido:
+
+###### Dios escucha a los creyentes. Las peticiones que se alinean con Su voluntad son respondidas.
+
+###### La confianza reemplaza la incertidumbre.
+
+##### 1 Juan 5:16-18 Vida preservada sin alarma
+
+###### Lo resuelto:
+
+###### El pecado se reconoce sin pánico.
+
+###### Se habla de protección y vida como realidades seguras.
+
+###### El tono se mantiene tranquilo y sereno.
+
+##### 1 Juan 5:19-20 Orientación clara de la realidad
+
+###### Lo resuelto:
+
+###### Los creyentes saben cuál es su postura.
+
+###### La verdad se conoce y se posee.
+
+###### No se requiere mayor discernimiento.
+
+##### 1 Juan 5:21 Objetos falsos descartados brevemente
+
+###### Lo resuelto:
+
+###### Los objetos falsos no necesitan argumentos.
+
+###### La carta termina con fundamento, sin ponerse a la defensiva.
 
 ## Propósito de la escritura
 
@@ -659,7 +1023,7 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 ##### Conocimiento de la santidad, el mundo, el verdadero Dios y la vida __<u>eterna</u>__. 1 Juan 5:18–20
 
 ##### Exhortación __<u>final</u>__ con respecto a la idolatría. 1 Juan 5:21
-# 1 JUAN 1:1-2:17 LA VIDA DESCRITA: por estado, el caminar y la ubicación relacional
+# 1 JUAN 1:1-2:17 EXPONIENDO A LA LUX: por estado, el caminar y la ubicación relacional
 
 ### Qué tienen en común los ciclos 1-5 (1 Juan 1:1–2:17). Los ciclos 1 a 5 repiten un patrón de establecer una vida compartida y verificar la consistencia.
 
@@ -751,7 +1115,7 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 
 ###### Este patrón se repite sin interrupción en los ciclos 1-5.
 
-## 1 Juan 1:1-4 La realidad vida mostrada por manifestación
+## 1 Juan 1:1-5 La autoridad establecida. 
 
 ### 1 Juan 1:1a – *"Lo que existía* [era RV09] *desde el principio…"* Comienza hablando de algo que era __<u>desde</u>__ el principio. "*Lo que existía*" se refiere a un hecho o concepto. El pronombre relativo neutral no describe a una persona. 
 #### Pudo haber dicho "El que existía" denotando a una persona específica. Sin embargo vemos que esta __<u>dando</u>__ testimonio de un concepto. Aún no menciona de que se trata. 
@@ -899,6 +1263,180 @@ Experimentar la vida de Dios - conociendo, permaneciendo, recibiendo y poseyendo
 ##### Somos llamados a andar como __<u>hijos</u>__ de luz desenmascarando las tinieblas. Efesios 5:8-13
 
 #### En el evanglio de Juan (también __<u>escrito</u>__ por Juan), la luz es asociada con la vida. Según Juan, la luz proviene de la vida. La vida se revela como luz. La vida es la fuente. Luz es la manifestación de esa vida. Juan 1:4-5
+
+Qué es “la Luz” (Textualmente, en 1 Juan)
+1. “La Luz” es, ante todo, una realidad afirmada, no una metáfora para descifrar
+
+En 1 Juan 1:5:
+
+“Dios es luz, y en él no hay ningunas tinieblas”.
+
+Textualmente, esto no explica la luz.
+
+La afirma.
+
+Por lo tanto, debemos definir “luz” según el uso que se le da en la carta, no por analogía.
+
+2. Qué hace la Luz en la carta
+
+A lo largo de 1 Juan 1:6–2:11, la luz funciona consistentemente como aquello que:
+
+hace visible la realidad
+
+impide el ocultamiento
+
+obliga a la correspondencia
+
+expone la contradicción
+
+permite que la verdad esté presente
+
+La luz nunca se trata como:
+
+esfuerzo moral
+
+sentimiento interno
+
+estado místico
+
+Es la condición bajo la cual las cosas se ven tal como son.
+
+Así que, textualmente:
+
+Luz = la realidad revelada y no oculta de Dios, en la que nada falso puede permanecer oculto.
+
+3. La oscuridad, en cambio, no es “pecado” per se
+
+La oscuridad se define funcionalmente, no moralmente.
+
+La oscuridad se da donde:
+
+Las afirmaciones están desconectadas de la realidad
+
+La verdad está ausente
+
+El caminar no corresponde a la profesión
+
+El odio ciega
+
+La negación persiste
+
+Así que la oscuridad es ocultamiento, distorsión y desorientación, no simplemente maldad.
+
+Qué significa “caminar en la luz” (textualmente)
+4. “Caminar” se trata de orientación, no de perfección
+
+En 1 Juan, “caminar” se refiere consistentemente a:
+
+dirección
+
+manera
+
+patrón
+
+visibilidad
+
+No:
+
+impecabilidad
+
+impecabilidad
+
+logro
+
+Esto es crucial, porque Juan rechaza explícitamente las afirmaciones de impecabilidad (1:8, 1:10).
+
+Así que “andar en la luz” no puede significar “nunca pecar”, porque eso contradiría la lógica de la exposición.
+
+5. Andar en la luz = Vivir abiertamente en la realidad revelada
+
+Según los pasajes de exposición, andar en la luz significa:
+
+No negar el pecado (1:8-10)
+
+No ocultar la realidad
+
+Permitir que la verdad esté presente
+
+Permitir que la conducta, el amor y la lealtad sean visibles
+
+Permanecer donde la exposición sea posible
+
+Por eso:
+
+La purificación se asocia con la luz (1:7)
+
+La confesión pertenece a la luz, no a la oscuridad
+
+El odio no puede coexistir con la luz
+
+El engaño requiere oscuridad
+
+Textualmente:
+
+Andar en la luz significa vivir abiertamente dentro de la realidad revelada de Dios, donde las afirmaciones, la conducta y la orientación se exponen y se permite que correspondan.
+
+6. Lo que no es andar en la luz
+
+Del texto mismo se desprende que no es:
+
+Afirmar superioridad moral
+
+Afirmar impecabilidad
+
+Afirmar espiritualidad avanzada
+
+Afirmar exención de exposición
+
+De hecho, lo contrario es cierto:
+
+Andar en la luz implica exposición continua.
+
+Por qué esto es importante para el Modo de Exposición
+
+Ahora la lógica de la exposición se vuelve clara y estable:
+
+Juan no está comparando el comportamiento con un ideal.
+
+Está exponiendo si las personas están dispuestas a permanecer en la realidad revelada.
+
+Las afirmaciones fracasan no por imperfección, sino por negación, ocultación o contradicción.
+
+Esto previene:
+
+moralismo
+
+espirales de introspección
+
+perfeccionismo
+
+pruebas de falsa seguridad
+
+Y preserva:
+
+honestidad
+
+visibilidad
+
+coherencia
+
+realidad compartida
+
+Una definición clara y fácil de entender
+
+Podría expresarse con seguridad de esta manera:
+
+En 1 Juan, «la luz» se refiere a la realidad revelada de Dios en la que nada falso puede permanecer oculto, y «andar en la luz» describe vivir abiertamente dentro de esa realidad, permitiendo que las afirmaciones, la conducta, el amor y la lealtad se expongan y se muestren como realmente son.
+
+Esa definición es:
+
+basada en el uso
+
+coherente con el modo de exposición
+
+protectora contra el uso indebido
+
+fiel al flujo de la letra
 
 ##### Juan 1:4 *En Él estaba la vida, y la **vida era la Luz** de los hombres.* La vida __<u>estaba</u>__ en Cristo y la luz se presenta como la manifestación (o expresión exterior) de la vida a los hombres. 1 Juan 1:1-2
 
@@ -3086,17 +3624,25 @@ Confianza y seguridad fundamentadas en Dios, no en el corazón
 
 # 1 Juan 5:1-12 -  Ciclo #13: Fe y testimonio
 
-### Aunque puesto al final, este capítulo __<u>puede</u>__ aclarar muchas cosas en toda la carta, veremos que Juan quiere garantizarles a todos los que han creído en Cristo que tienen la vida eterna, pero quiere llevarlos a que puedan experimentarla en su plenitud.
+### Aunque puesto al final, este capítulo __<u>puede</u>__ aclarar muchas cosas en toda la carta, veremos que Juan quiere garantizarles a todos los que han creído en Cristo que tienen la vida eterna, pero quiere llevarlos a que puedan experimentarla en su plenitud. 1 Juan 1:1-4
+
+##### Juan está anunciandoles lo que habían visto y oido (la vida eterna). Para que ellos tengan también comunión (participar) con ellos. 
+
+###### La comunión con ellos significa participar con el Padre y el Hijo porque su comunión de ellos era con el Padre y el Hijo. 
+
+#### El siguiente pasaje continua en relación a ello. Juan no ha dejado atrás el tema. 
 
 ### 1 Juan 5:1a – *Todo aquel que cree que Jesús es el Cristo, es nacido de Dios*… Juan quiere establecer quienes son los miembros de la familia de Dios, __<u>quienes</u>__ son todos estos hermanos.
 
-#### Juan está completamente de __<u>acuerdo</u>__ con toda la escritura, con la fe sola en Jesucristo solamente, como único requisito para ser un nacido de Dios.
+#### Juan está completamente de __<u>acuerdo</u>__ con toda la escritura: con la fe sola en Jesucristo solamente, como único requisito para ser un nacido de Dios.
 
-#### El que cree, describe a alguien, __<u>cuyo</u>__ objeto de fe, es la persona y obra de Jesús. Jesús es el Mesías, para Juan: El Hijo, Propiciación por nuestros pecados, el Hijo Salvador del mundo. Estos que creen, son hijos de Dios. Juan 1:12
+##### "*Todo*" el que cree llega a ser re-nacido. 
+
+#### "*Aquel que cree*", describe a alguien, __<u>cuyo</u>__ objeto de fe, es la persona y obra de Jesús. Jesús es el Mesías, para Juan: El Hijo, Propiciación por nuestros pecados, el Hijo Salvador del mundo. Estos que creen, son hijos de Dios. Juan 1:12
 
 #### “…*es nacido de Dios…”* describe a alguien que ha __<u>nacido</u>__ y continúa siendo un nacido de Dios. El nuevo nacimiento es algo que permanece para siempre.
 
-### 1 Juan 5:1b - *…todo aquel que ama al Padre, ama al que ha nacido de él.* Debido a que amamos al Padre, aquel que nos dio la vida, el engendrador de vida, __<u>amamos</u>__ también a nuestros hermanos, miembros de la misma familia.
+### 1 Juan 5:1b - "*…todo aquel que ama al Padre, ama al que* [engendró RVR60] *ha nacido de él.*" Debido a que amamos al Padre, aquel que nos dio la vida, el engendrador de vida, __<u>amamos</u>__ también a nuestros hermanos, miembros de la misma familia.
 
 #### No es lógico no amar a alguien que __<u>vino</u>__ de aquel a quien amamos. Es por eso que, si amamos a Dios, amamos a nuestros hermanos, ya que entendemos que ellos también vienen de nuestro Padre. Juan 20:17
 
@@ -3116,27 +3662,35 @@ Confianza y seguridad fundamentadas en Dios, no en el corazón
 
 #### Los mandamientos para los __<u>hijos</u>__ de Dios entonces, ya no son difíciles, o mejor dicho: *una carga”.* No es algo que un hijo de Dios debe cargar, sino es el fruto del amor de Dios para con él.
 
-#### Mateo 11:28-29 – Es su vida para con nosotros, es conocerlo a él y __<u>crecer</u>__ en su gracia para con nosotros.
+#### Mateo 11:28-29 – Es Su vida para con nosotros, es conocerlo a Él y __<u>crecer</u>__ en su gracia para con nosotros.
 
-#### ¿Por qué los mandamientos ya no son una __<u>carga</u>__ para los hijos de Dios?
+#### ¿Por qué los mandamientos ya no son una __<u>carga</u>__ para los hijos de Dios? 
 
-### 1 Juan 5:4 – *Porque todo lo que es __<u>nacido</u>__ de Dios vence al mundo. Y esta es la victoria que ha vencido al mundo: nuestra fe.*
+##### El amor es de Dios. Dios es amor y el creyente ha nacido de Dios. Al mirar al amor de Dios el creyente en motivado para llevar acabo sus mandamientos. 
+
+### 1 Juan 5:4 – "*Porque todo lo que es __<u>nacido</u>__ de Dios vence al mundo. Y esta es la victoria que ha vencido al mundo: nuestra fe.*"
+#### Ya hemos vencido (pasado), pero aquí habla de vencer (presente).
+
+#### Dos fuentes son presentadas. Dios y el mundo. 
 
 #### Los mandatos de Dios, ya no son una carga para sus hijos, debido a lo que somos como nacidos de Dios. No son una carga porque el __<u>amor</u>__ de Dios en nosotros, ha triunfado sobre el mundo y su esclavitud.
 
-#### En 1 Juan 2:15-17, vimos como Juan describió la vida que el mundo ofrece centrada en la autosuficiencia, pero __<u>habiendo</u>__ vencido esto, podemos amar al mirar el amor de Dios para con nosotros, y mirar en su amor, lo que somos para él.
+#### En 1 Juan 2:15-17, vimos como Juan describió la vida que el mundo ofrece centrada en la autosuficiencia, pero __<u>habiendo</u>__ vencido esto, podemos amar al mirar el amor de Dios para con nosotros, y mirar en Su amor, lo que somos para Él.
 
-#### La victoria es nuestra confianza, es decir en __<u>quien</u>__ hemos creído, y no nuestras obras. La vida victoriosa es el resultado de estar creyendo la verdad. En un andar por fe, la vitoria está siendo.
+#### La victoria es nuestra confianza, es decir en __<u>quien</u>__ hemos creído, y no nuestras obras. La vida victoriosa es el resultado de estar creyendo la verdad. En un andar por fe, la vitoria está siendo. 1 Juan 2:12-14
 
-### 1 Juan 5:5 – ¿*y quién es el que vence al mundo, sino el que cree que Jesús es el Hijo de Dios?* Solamente los nacidos de Dios, por medio de la fe en Jesucristo, __<u>escapar</u>__ de una vida de autosatisfacción, y la esclavitud en la que estábamos, es imposible si no fuera por Cristo. Cristo es nuestra victoria.
+### 1 Juan 5:5 – "¿*y quién es el que vence al mundo, sino el que cree que Jesús es el Hijo de Dios?*" 
+#### Solamente los nacidos de Dios, por medio de la fe en Jesucristo, __<u>escapan</u>__ de una vida de autosatisfacción, y la esclavitud en la que estábamos. Es imposible si no fuera por Cristo. Cristo es nuestra victoria.
 
-### 1 Juan 5:6-8 – *Este es aquél que vino mediante __<u>agua</u>__ y sangre, Jesucristo; no solo con agua sino con agua y Sangre. Y el Espíritu es el que da testimonio, porque el Espíritu es la verdad. Porque tres son los que dan testimonio en el cielo: El Padre, el Verbo, y el Espíritu Santo, y estos tres son uno. Y tres son los que dan testimonio en la tierra; el Espíritu el agua y la sangre, y los tres concuerdan.*
+### 1 Juan 5:6-8 – "*Este es aquél que vino mediante __<u>agua</u>__ y sangre, Jesucristo; no solo con agua sino con agua y Sangre. Y el Espíritu es el que da testimonio, porque el Espíritu es la verdad. Porque tres son los que dan testimonio en el cielo: El Padre, el Verbo, y el Espíritu Santo, y estos tres son uno. Y tres son los que dan testimonio en la tierra; el Espíritu el agua y la sangre, y los tres concuerdan.*"
 
 #### Sobre esta porción debemos hacer una aclaración. En los textos griegos no aparece gran parte del versículo 7, el __<u>texto</u>__ debería terminar en la palabra testimonio, y luego continuar con el 8.
 
 #### Ningún comentarista del texto griego __<u>cuenta</u>__ esa parte de los versículos en cuanta, de hecho, añaden que aparece en nuestras Biblias, proviniendo desde la Vulgata latina.
 
-#### *La nota tuvo un origen Latino. La primera vez que aparece este pasaje en la forma más larga (con el testigo celestial) es en el Tratado Liber Apologeticus, escrito por un hereje español Prisciliano (murió 385 d.C) o su seguidor, el obispo Instantio… La nota apareció en los escritos de los padres latinos en el norte de __<u>Africa</u>__ e Italia (como parte del texto de la Epístola) a partir del siglo V, y encontró lugar en más y más copias de la Vulgata Latina. (La traducción original de Jerónimo no la contenía.) El pasaje del “testigo celestial” no se encuentra en ningún texto de ningún manuscrito griego antes del siglo XIV, y nunca fue citado por algún padre griego.[^5] – *
+#### La nota tuvo un origen Latino. La primera vez que aparece este pasaje en la forma más larga (con el testigo celestial) es en el Tratado Liber Apologeticus, escrito por un hereje español Prisciliano (murió 385 d.C) o su seguidor, el obispo Instantio… 
+
+#### La nota apareció en los escritos de los padres latinos en el norte de __<u>Africa</u>__ e Italia (como parte del texto de la Epístola) a partir del siglo V, y encontró lugar en más y más copias de la Vulgata Latina. (La traducción original de Jerónimo no la contenía.) El pasaje del “testigo celestial” no se encuentra en ningún texto de ningún manuscrito griego antes del siglo XIV, y nunca fue citado por algún padre griego.[^5] – *
 
 ### 1 Juan 5:6-8 – *Este es aquél que vino mediante agua y sangre, Jesucristo; no solo con agua sino con agua y Sangre. Y el Espíritu es el que da testimonio, __<u>porque</u>__ el Espíritu es la verdad. Porque tres son los que dan testimonio; el Espíritu el agua y la sangre, y los tres concuerdan*. (versículos copiados sin la porción explicada, para el estudio de este currículo).
 
@@ -3152,13 +3706,15 @@ Confianza y seguridad fundamentadas en Dios, no en el corazón
 
 ### Mediante sangre, el testimonio __<u>junto</u>__ con el espíritu que dan hace referencia a la muerte de Jesús, el propósito de su venida, y su postrera resurrección. Romanos 1:4
 
-### 1 Juan 5:6b - …*Y el Espíritu es el que da testimonio, porque el Espíritu es la verdad.* Juan no solo habla del hecho de un testimonio dado, por __<u>medio</u>__ del agua y de la sangre, sino que un testimonió que el Espíritu está dando, el cuál es la verdad. Juan 15:26-27
+### 1 Juan 5:6b - …*Y el Espíritu es el que da testimonio, porque el Espíritu es la verdad.* 
+#### Juan no solo habla del hecho de un testimonio dado, por __<u>medio</u>__ del agua y de la sangre, sino que un testimonió que el Espíritu está dando, el cuál es la verdad. Juan 15:26-27
 
 #### Juan 15:22 – Jesucristo dio un testimonio del Padre en su __<u>venida</u>__. Y ahora el Espíritu Santo da testimonio del Hijo.
 
-#### Cuando el __<u>mensaje</u>__ de Cristo es rechazado, es un rechazo directo al testimonio al Espíritu santo, que está siendo la verdad. Hechos 5:32, 7:51-52
+#### Cuando el __<u>mensaje</u>__ de Cristo es rechazado, es un rechazo directo al testimonio al Espíritu Santo, que está siendo la verdad. Hechos 5:32, 7:51-52
 
-### 1 Juan 5:7-8 – *Porque tres son los que dan testimonio; el Espíritu el agua y la sangre, y los tres concuerdan*. Ahora muestra como el __<u>hecho</u>__ de que vino mediante agua y sangre, es un hecho que se une a dar un testimonio, junto con el Espíritu santo, y estos tres están dando testimonio. Junto con los apóstoles, que eran testigos de todas estas cosas. Hechos 1:21-22
+### 1 Juan 5:7-8 – *Porque tres son los que dan testimonio; el Espíritu el agua y la sangre, y los tres concuerdan*. 
+#### Ahora muestra como el __<u>hecho</u>__ de que vino mediante agua y sangre, es un hecho que se une a dar un testimonio, junto con el Espíritu santo, y estos tres están dando testimonio. Junto con los apóstoles, que eran testigos de todas estas cosas. Hechos 1:21-22
 
 #### Los tres testimonios apuntan hacia el mismo, Jesucristo. Juan quiere validar esta declaración como una verdad absoluta, Jesucristo, el Hijo de Dios, ha __<u>venido</u>__ en carne, y ha muerto por nuestros pecados, Él es el salvador del mundo y la propiciación por nuestros pecados.
 
@@ -3167,7 +3723,6 @@ Confianza y seguridad fundamentadas en Dios, no en el corazón
 ### Los __<u>testigos</u>__ de Cristo, sus apóstoles, simplemente testificaron solemnemente de hechos, y estos hechos, testificaron juntamente con ellos. Juan 15:26-27; Hechos 1:8
 
 ### 1 Juan 5:9a – *Si recibimos el testimonio de los hombres, __<u>mayor</u>__ es el testimonio de Dios…* 1 Juan 4:14
-
 #### Esta es una condición de primera clase, entonces podemos decir que Juan está diciéndoles a los creyentes, ya que __<u>hemos</u>__ recibido el testimonio de hombres (habían escuchado de Cristo por medio de ellos, los apóstoles).
 
 #### De hecho, todos hemos escuchado el Evangelio por __<u>medio</u>__ de la predicación de este, es decir hemos recibido un mensaje. 1 Corintios 1:21-22; Efesios 1:13; Romanos 10:14
@@ -3195,6 +3750,10 @@ Confianza y seguridad fundamentadas en Dios, no en el corazón
 ### 1 Juan 5:11 – *y el testimonio es este: que Dios ha __<u>dado</u>__ vida eterna y esta vida está en su Hijo.*
 
 #### En 1:2 Juan, junto con los apóstoles dicen: que la vida fue manifestada, y la hemos visto. También dice que esta vida __<u>estaba</u>__ con el Padre, y se había manifestado a ellos. Juan 1:4
+
+##### La convergencia del «nosotros» autoritario con la comunidad creyente encuentra su expresión más clara en 1 Juan 5:11-13, donde Juan afirma que el testimonio es este: que Dios nos ha dado vida eterna, y que esta vida está en su Hijo. La vida que primero oyeron, vieron y proclamaron los testigos ahora se declara genuinamente poseída por quienes creen en el nombre del Hijo de Dios, para que sepan que tienen vida eterna. 
+
+##### En esta afirmación final, la seguridad ya no es diagnóstica, sino declarativa: no se basa en repetir la experiencia original de los testigos, sino en compartir plenamente la vida que se reveló a través de esa experiencia. Así, lo que comenzó con un testimonio autoritario culmina en una certeza compartida, pues la misma voz que proclamó la vida ahora da seguridad a todos los que participan en ella.
 
 #### Claramente Dios ha dado la vida eterna al __<u>mundo</u>__, pero lo ha hecho por medio de Su Hijo. Jesús mismo dijo: “Yo Soy la Resurrección y la Vida”. Juan 11:25
 

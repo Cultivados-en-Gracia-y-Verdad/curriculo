@@ -1,0 +1,50 @@
+
+<svg width="1400" height="500" viewBox="0 0 1400 500" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 34px; font-weight: 600; fill: #222; }
+    .subtitle { font-size: 18px; font-style: italic; fill: #555; }
+    .h { font-size: 22px; font-weight: 600; fill: #111; }
+    .t { font-size: 16px; fill: #111; }
+    .q { font-size: 16px; font-style: italic; fill: #333; }
+    .foot { font-size: 18px; font-style: italic; fill: #333; }
+  </style>
+
+  <!-- Title -->
+  <text x="700" y="50" text-anchor="middle" class="title">Flujo Macro de 1 Juan</text>
+  <text x="700" y="82" text-anchor="middle" class="subtitle">Movimiento de la carta tal como se observa</text>
+
+  <!-- Chevron shapes -->
+  <!-- Exposure -->
+  <polygon points="50,160 420,160 470,220 420,280 50,280" fill="#bfe3f5"/>
+  <text x="235" y="215" text-anchor="middle" class="h">Exposición</text>
+  <text x="235" y="245" text-anchor="middle" class="q">¿Qué está realmente presente a la luz?</text>
+
+  <!-- Source -->
+  <polygon points="470,160 840,160 890,220 840,280 470,280 520,220" fill="#cfe3b0"/>
+  <text x="680" y="215" text-anchor="middle" class="h">Determinación del origen</text>
+  <text x="680" y="245" text-anchor="middle" class="q">¿De dónde procede?</text>
+
+  <!-- Consolidation -->
+  <polygon points="890,160 1260,160 1310,220 1260,280 890,280 940,220" fill="#f7d18a"/>
+  <text x="1100" y="215" text-anchor="middle" class="h">Consolidación</text>
+  <text x="1100" y="245" text-anchor="middle" class="q">¿Qué asegura la realidad ya establecida?</text>
+
+  <!-- Bullets -->
+  <!-- Exposure bullets -->
+  <rect x="70" y="310" width="6" height="6" fill="#4aa3cf"/><text x="90" y="316" class="t">Prueba de afirmaciones y contrastes</text>
+  <rect x="70" y="340" width="6" height="6" fill="#4aa3cf"/><text x="90" y="346" class="t">La realidad es expuesta</text>
+  <rect x="70" y="370" width="6" height="6" fill="#4aa3cf"/><text x="90" y="376" class="t">Nada se da por supuesto</text>
+  <text x="235" y="415" text-anchor="middle" class="foot">1 Juan 1:5–2:29</text>
+
+  <!-- Source bullets -->
+  <rect x="520" y="310" width="6" height="6" fill="#7fa83b"/><text x="540" y="316" class="t">«De Dios» / «del mundo»</text>
+  <rect x="520" y="340" width="6" height="6" fill="#7fa83b"/><text x="540" y="346" class="t">El origen queda al descubierto</text>
+  <rect x="520" y="370" width="6" height="6" fill="#7fa83b"/><text x="540" y="376" class="t">Se aplica discernimiento</text>
+  <text x="680" y="415" text-anchor="middle" class="foot">1 Juan 2:18–4:6</text>
+
+  <!-- Consolidation bullets -->
+  <rect x="940" y="310" width="6" height="6" fill="#d89b22"/><text x="960" y="316" class="t">Confianza y seguridad</text>
+  <rect x="940" y="340" width="6" height="6" fill="#d89b22"/><text x="960" y="346" class="t">Permanencia y conocimiento</text>
+  <rect x="940" y="370" width="6" height="6" fill="#d89b22"/><text x="960" y="376" class="t">La verdad es afirmada</text>
+  <text x="1100" y="415" text-anchor="middle" class="foot">1 Juan 4:7–5:21</text>
+</svg>
