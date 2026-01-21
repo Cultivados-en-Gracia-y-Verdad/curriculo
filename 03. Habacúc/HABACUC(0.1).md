@@ -2,33 +2,93 @@
 Title: Habacúc
 ---
 
-# Contenido
+### **INTRODUCCIÓN**
 
-## YO HARE UNA OBRA
+**Yo haré una obra**
 
-## ANTECEDENTES
+#### Cómo leer Habacuc verso por verso
 
-### Acerca del autor
+#### Por qué Dios habla antes de explicar
 
-### La audiencia
+#### La diferencia entre describir la realidad y comprenderla
 
-### Género Literario
+### **Habacuc 1:1–4 La realidad de Judá y el diagnóstico del profeta**
 
-### Contexto histórico
+#### Violencia normalizada
 
-## UN CLAMOR POR JUSTICIA
+#### La ley debilitada
 
-## MIREN YO HARE UNA OBRA
+#### La justicia torcida
 
-## SEGUNDA QUEJA DE HABACUC 1:12-17
+#### El diagnóstico del profeta
 
-### Dios no te das cuenta de lo haces
+**Pregunta rectora:**
 
-## DIOS RESPONDE
+> ¿Puede una descripción correcta producir una conclusión incorrecta?
 
-## UNA SATIRA COMICA
+### **Habacuc 1:5 La declaración de Dios sin explicación**
 
-## SALMO DE HABACUC
+#### Iniciativa divina
+
+#### Ruptura de expectativas
+
+#### “Yo haré una obra” como confrontación, no consuelo
+
+### **Habacuc 1:6–11 El instrumento que ofende la justicia humana**
+
+#### Babilonia descrita sin disculpa
+
+#### “Su justicia procede de ellos mismos”
+
+#### Dios asume la autoría sin justificarse
+
+### **Habacuc 1:12–17 La apelación moral del profeta**
+
+#### La santidad de Dios invocada como argumento
+
+#### Justicia comparativa (“más justos que ellos”)
+
+#### El silencio de Dios interpretado como problema
+
+### **Diagnóstico clave:**
+
+> #### Habacuc apela al mérito relativo, no a la misericordia.
+
+### **Habacuc 2:1 Esperar sin resolución**
+
+#### Cambio de postura
+
+#### Expectativa de corrección
+
+#### Suspensión del argumento
+
+### **Habacuc 2:2–5 Vida sin explicación**
+
+#### Visión clara, tiempo incierto
+
+#### La fe separada del resultado
+
+#### “El justo vivirá por su fe” como redefinición, no cierre
+
+### **Habacuc 2:6–20 El colapso de toda justicia humana**
+
+#### Cinco ayes
+
+#### Sistemas de justicia auto-generados juzgados
+
+#### Dios como único justo
+
+#### Silencio impuesto a toda la tierra
+
+### **Habacuc 3 Confiar sin claridad**
+
+#### La memoria reemplaza la disputa
+
+#### El temor permanece
+
+#### El gozo no depende de resultados
+
+#### Descanso en la persona de Dios, no en una explicación
 
 # HABACUC
 ## Yo hare una obra
@@ -169,17 +229,17 @@ Title: Habacúc
 ### Habacuc 1:5a “Mirad entre las naciones, y ved, y asombraos.”* Veremos a Dios actuar, podríamos llegar a la conclusión que lo Dios mostrara a continuación, es como la situación se le salió de la mano, y su nación esta siendo desolada, pero esta es la obra de Dios, que El hará*. Romanos 11:33-35.*
 
 ####  Esta afirmación, nos habla acerca de dos posibilidades, que las naciones verán esta obra y quedaran asombrados, o en un tiempo futuro Israel será esparcido, y de entre todas las naciones verán esta obra y quedaran asombrados.
-    
+
 ####  Cualquiera sea las dos opciones esta obra será algo asombroso que solo Dios puede hacer, es su obra. Salmo 145:1-3
 
 ### Habacuc1:5b “Porque hare una obra en vuestros días, que aun cuando se os contare, no la creeréis.”*
 
 ####  Para entender este versículo, podemos concluir que la obra que hará en sus días, es lo que a continuación mostrara el levantar, a los caldeos, como juicio, instrumentó de parte de Dios, impondrá un imperio, prospero, que gobierne y llegue a subyugar todas, las naciones y potencias actuales en el momento como los Asirios y los egipcios, potencias hasta el momento.
-    
+
 ####  Este versículo en la Septuaginta es traducido: *“Ved, los despreciadores y mirad, y admirad lo admirable y desapareced, por esto: por que obra yo obro en vuestros días, que no creeréis, no, si alguien narrare*
-    
+
 ####  Así es citado en el nuevo testamento, Pablo con Bernabé llega a Antioquia, en una sinagoga y anuncian el evangelio, y es usado como manera negativa, que no menosprecien esta obra. Hechos 13:41.
-    
+
 ####  ¿Cuál es su obra?, solamente serán, los caldeos narrados a continuación, o esta obra es mucho mas grande, que solamente una nación, sino algo mucho superior, una obra que solamente Dios puede hacer, espero que en lo que continua este estudio podamos ver juntamente, quedar asombrados, y admirar la obra de Dios, poder confiar en ella, y concluir como concluyo el profeta. 
 
 ####  El gran Dios es el artista de esta obra, una obra perfecta, algo en que su audiencia podía confiar, aunque no lo veía con sus ojos, podía confiar en esta obra, y vivir confiando en ella. Habacuc 3:17-18.
@@ -187,13 +247,13 @@ Title: Habacúc
 ### Habacuc 1:6 “Porque he aquí, yo levanto a los caldeos nación cruel y presurosa, que camina por la anchura de la tierra para poseer moradas ajenas”* Jehová es claro al decir que El levanta esta nación a los caldeos, o los babilonios, como son más conocidos.
 
 ####  EL profeta Jeremías hablo acerca de Babilonia al referirse a Nabucodonosor como su siervo quien iba a destruir a Egipto, muy posiblemente como no tenemos, una fecha exacta de la escritura de esta profecía podemos pensar que se encuentra en el reinado del Rey Joacim, quien era títere de Egipto.
-    
+
 ####  En este tiempo Juda estaba siendo oprimido con impuestos que había puesto el rey Necao de Egipto, y tenían que pagar. 2 Reyes 23:35.
-    
+
 ####  *“y diles: Así ha dicho Jehová de los ejércitos, Dios de Israel: He aquí yo enviaré y tomaré a Nabucodonosor rey de Babilonia, mi siervo, y pondré su trono sobre estas piedras que he escondido, y extenderá su pabellón sobre ellas. Y vendrá y asolará la tierra de Egipto; los que a muerte, a muerte, y los que a cautiverio, a cautiverio, y los que a espada, a espada. Y pondrá fuego a los templos de los dioses de Egipto y los quemará, y a ellos los llevará cautivos; y limpiará la tierra de Egipto, como el pastor limpia su capa, y saldrá de allá en paz. Además, quebrará las estatuas de Bet-semes, que está en tierra de Egipto, y los templos de los dioses de Egipto quemará a fuego.” Jeremías 43:10-13.*
-    
+
 ####  En un momento seria un alivio, que al fin Egipto una nación que había puesto impuestos a los de Juda, ya no este, pero algo que Dios les diría, es que esta nación no será mejor que Egipto, sino será mucho peor, tanto que los destruirá.
-    
+
 ####  Según la tradición de
 
 ### Habacuc 1:7 “Formidable es y terrible; de ella misma procede su justicia y su dignidad.”* Si Habacuc clamaba por justicia, entendería que esta nación no tendría un punto de vista de la justicia de la justicia de Dios en base de la ley, sino que esta tendría su propia justicia, y su excelencia.
@@ -203,7 +263,7 @@ Title: Habacúc
 ### Habacuc 1:9 “Toda ella vendrá a la presa; el terror va delante de ella, y recogerá cautivos como arena.”* Otra versión LBLA nos dice “*Vienen toda ella para hacer violencia”*
 
 ####  Al referirse como termino violencia, es decir que harán lo malo, no simplemente, mataran y llevaran cautivos, sino que cometerán toda clase de hechos viles a las personas que dominen.
-    
+
 ####  También nos habla de que recogerá cautivos como la arena, el hecho que la manera de proceder de esta nación, los Babilonios, era llevar cautivos de las naciones a las personas, a su tierra, adiestrarlos, con su cultura, y así hacer desaparecer, civilizaciones enteras, e imponer la suya por sobre las otras. Daniel 1:3-4
 
 ### Habacuc 1:10a “Escarnecerá a los reyes, y de los príncipes hará burla”* Siguiendo la narrativa eso es lo que hacía esta nación, era tomar cautivo al rey, matar a sus hijos los príncipes, y mutilar al rey, como hicieron en el caso de Sedequias rey de Juda. 2 Reyes 25:7
@@ -231,9 +291,9 @@ Title: Habacúc
 ### Habacuc 1: 12a “¿No eres tú desde el principio, oh Jehová, Dios mío, Santo mío?”* Habacuc tenia un conocimiento de Dios, usa 3 nombres para referirse a Dios, desde la eternidad desde el principio, le increpa en la pregunta diciendo no eres TU.
 
 #### *Oh Jehová;* (YHVH), este nombre muestra la aseidad de Dios el que subsiste por su propio poder. *“Y respondió Dios a Moisés: YO SOY EL QUE SOY. Y dijo: Así dirás a los hijos de Israel: YO SOY me envió a vosotros” Éxodo 3:14.*
-    
+
 #### *Dios mío; (Elohim),* este termino Dios mío, es usado en el primer versículo de la ley, el pentateuco, El Dios creador comienza diciendo que desde el principio el existía y el creo, todo lo que existe tanto visible como invisible. *“En el principio creó Dios los cielos y la tierra. Genesis 1:1”.*
-    
+
 #### *Santo mío; (consagrado, apartado),* Dios es apartado de la maldad, en el no hay pecado, ni hace lo malo. *“Porque así dijo el Alto y Sublime, el que habita la eternidad, y cuyo nombre es el Santo: Yo habito en la altura y la santidad, y con el quebrantado y humilde de espíritu, para hacer vivir el espíritu de los humildes, y para vivificar el corazón de los quebrantados. Isaías 57:15”* Santiago 1:17.
 
 ## Habacuc responde
@@ -259,7 +319,7 @@ Title: Habacúc
 ### Habacuc 1:15-16 “*Sacará a todos con anzuelo, los recogerá con su red, y los juntará en sus mallas; por lo cual se alegrará y se regocijará. Por esto hará sacrificios a su red, y ofrecerá sahumerios a sus mallas; porque con ellas engordó su porción, y engrasó su comida.*”
 
 #### *Sacará a todos con anzuelo, los recogerá con su red, y los juntará en sus mallas;* Serán sacados como con ganchos, recogidos, y la nación se alegrará, por la gran pesca que tendrá. Jeremías 16:26, Amos 4:2.
-    
+
 #### Y por esta gran pesca que tendrá, sin saber si quiera que son instrumentos de Dios puestos para juicio y castigo, darán las gracias a sus propias mallas, su propio poder y su propia capacidad. Sus mallas serán su Dios. Habacuc 1:11.
 
 ## Una tercera pregunta, así concluye su queja Habacuc, esta pregunta es su conclusión, ya que Dios los hizo así, y les dio todo el poder necesario, ellos no pararan.*
@@ -295,11 +355,11 @@ Title: Habacúc
 ### Habacuc 2:2 “*Y Jehová me respondió, y dijo: Escribe la visión, y declárala en tablas, para que corra el que leyere en ella.*”
 
 #### Otra traducción mas literal lo traduce: *Entonces YHVH me respondió y dijo: Escribe la visión y explícala en tablillas, para que cualquiera la lea con rapidez. BTX4.*
-    
+
 #### Hay una orden a Habacuc, primeramente, Dios le mostrara una visión, es una profecía, posiblemente para un tiempo futuro, podía conocer que esta profecía seria segura, ya que en sus mismos días vería, esta obra de Dios el levantar de esta nación de los caldeos. Así podría saber que lo que viene a continuación sería algo seguro podía confiar que vendría. Habacuc 2:3.
-    
+
 #### *Declara en tablas;* (explícala), una orden que esta profecía debía ser escrita en tablas, y ser explicada por Habacuc, para poder explicarlas, primero tenia que ser enseñado, comprenderla y enseñar a otra persona. Romanos 15:4.
-    
+
 #### *Para que corra el que leyera en ella;* (para que cualquiera la lea con rapidez), la manera sencilla de ser escrita, podía ser comprendida rápidamente, por cualquiera que lea esta profecía, es un desafío al realizar este estudio, pero es el animo a los que leen esta profecía, el mensaje no es complicado, ni algo misterioso y extraño, Dios la declaró de una manera sencilla que puede ser entendida, comprendida y ser el objeto de fe, de los oyentes. 2Pedro 1:20-21.
 
 ### Habacuc 2:3a “*Aunque la visión tardara aun por un tiempo*” 
@@ -315,45 +375,45 @@ Title: Habacúc
 #### Al final, esta visión hablara, no será frustrada, no defraudara a los que en ella esperan, como se comentó anteriormente, no iba a ver el cumplimiento de esta visión en sus días de vida, podía estar seguro y confiar, llegara al final, no tardara.
 
 #### *Porque yo Jehová hablaré, y se cumplirá la palabra que yo hable; no se tardará más, sino que, en vuestros días, oh casa rebelde, hablaré palabra y la cumpliré, dice Jehová el Señor. Ezequiel 12:25.*
-    
+
 #### *¿Por qué voy a inquietarme? ¿Por qué me voy a angustiar? En Dios pondré mi esperanza, y todavía lo alabaré. ¡Él es mi Salvador y mi Dios! Salmo 42:11.*
-    
+
 #### *Los muchachos se fatigan y se cansan, los jóvenes flaquean y caen; pero los que esperan a Jehová tendrán nuevas fuerzas; levantarán alas como las águilas; correrán, y no se cansarán; caminarán, y no se fatigarán. Isaías 40:30-31.*
 
 ### Habacuc 2:4 “He aquí que aquel cuya alma no es recta, se enorgullece; más el justo por su fe vivirá.”*
 
 #### *He aquí el orgulloso: en él, su alma no es recta, más el justo por su fe vivirá. LBLA.*
-    
+
 #### Este versículo es citado 3 veces a lo largo del nuevo testamento, los autores lo citaron para dar entender que El justo por la fe vive, pero la fe tiene un objeto especifico. Romanos 1:17; Gálatas 3:11; Hebreos 10:38.
-    
+
 #### Podemos entender por una traducción mas literal, hay dos tipos de personas, que Dios está mostrando. El orgullo y el justo.
-    
+
 #### *He aquí el orgulloso: en él, su alma no es recta (LBLA);* una característica del orgullo, no tiene rectitud en el mismo, su alma no es recta, podemos entender que quizás en si mismo no se sienta jamás recto el orgulloso, comprende que no hay rectitud en su vida, mas en eso se enorgullece. Proverbios 6:16-17.
-    
+
 #### *Mas el justo por su fe vivirá.* Por su fe vivirá el justo, la palabra aquí usada, es en el tiempo presente, no es algo que ocurre en un punto pasado, sino vivirá, es un continuo presente vivirá por su fe.
-    
+
 #### SU FE; algo interesante de ver, es que la fe no es algo sobrenatural venido de Dios, sino que literalmente nos dice es su propia fe de esta persona el justo.
-    
+
 #### La palabra "fe" en el Antiguo Testamento se relaciona con conceptos como "creer" y "fidelidad". Aparece en sentido propio en Deuteronomio 32:20 y Habacuc 2:4. En hebreo, se traduce como "emun" o "emunah", que implica firmeza e inmutabilidad. Aunque la palabra "fe" es escasa en el Antiguo Testamento, su significado es fundamental, especialmente en la historia de Abraham, considerado el padre de la fe. En total, la palabra "fe" aparece en Números 35:30 e Isaías 57:11.
-    
+
 #### Aquí es usada por primera vez como una condición de vida de una persona, en este caso el justo. Podemos entender que el justo vive, por su fe, no por algún tipo de condición u otra, la palabra dice es justo, no hay un requisito previo solamente la fe.
-    
+
 #### Pero surge una pregunta que intentaremos responder, esta FE, en que tiene que descansar, hasta este punto, Israel, aquí bajo el pacto, pensábamos que, para ganar el favor de Jehová, tenia que cumplirla y literalmente en Deuteronomio 28:15-68 están las condiciones de guardar el pacto. Para las bendiciones en la tierra.
-    
+
 #### *Saddiq es la palabra hebrea para justo,* que significa a la vez rectitud, alguien fiel es el ejemplo de la fidelidad de un súbdito a un rey. Esta rectitud se basa en su fe o confianza.
-    
+
 #### *Malaquías 3:18 Entonces os volveréis, y discerniréis la diferencia entre el justo y el malo, entre el que sirve a Dios y el que no le sirve.*
 
 ### Habacuc 2:5* “*Y también, el que es dado al vino es traicionero, hombre soberbio, que no permanecerá; ensanchó como el Seol su alma, y es como la muerte, que no se saciará; antes reunió para sí todas las gentes, y juntó para sí todos los pueblos.”*
 
 #### Se puede entender a una persona que es dada al vino, alguien que en el vino esta su deleite es así, alguien traicionero soberbio, porque hay disolución en el embriagarse con vino y pierde la cordura y la sabiduría un hombre dado al tal. Proverbios 20:1.
-    
+
 #### Mas entendemos dado el versículo Habacuc 2:2, es una visión que el profeta esta recibiendo de parte de Dios, algo que tenia que explicar, iba a venir a su tiempo, aunque no lo vean, y piensan que tarde vendrá. Esta es la obra que Dios hará en el tiempo señalado.
-    
+
 #### Desde la siguiente parte del versículo. “*ensancho como el Seol su alma (garganta LBLA), y es como la muerte, que no se saciara: antes reunió para si todas las gentes, y junto para si todos los pueblos”*, es la característica de una persona, hombre soberbio, no permanecerá, alguien que reunirá unirá los pueblos, y las gentes irán en pos de él. Isaías 5:11-15
-    
+
 #### A continuación, habrá una sátira una comedia, una serie de ayes, juicios contra este hombre soberbio.
-    
+
 #### Deducimos que sea, el juicio a Babilonia, los caldeos, estos hombres que vienen y harán estragos al mundo conocido hasta el momento, pero también se entiende que es una profecía, hacia un sistema, una forma de gobernar, una forma de proceder injusta, por que su gloria que tiene o lo que poseen, fue como el profeta anuncio al principio con violencia, iniquidad, pecado. “*Dios está en su santo templo calle delante de El toda la tierra. Habacuc 2:20”*
 
 # UNA SATIRA COMICA 
