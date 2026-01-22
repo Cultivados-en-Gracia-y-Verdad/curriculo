@@ -1,0 +1,218 @@
+\documentclass[12pt]{article}
+
+% ==================================================
+%  ENGINE & FONT (XeLaTeX)
+% ==================================================
+\usepackage{fontspec}
+\setmainfont{IBM Plex Serif}
+
+% ==================================================
+%  LANGUAGE
+% ==================================================
+\usepackage[spanish]{babel}
+
+% ==================================================
+%  PDF METADATA / LINKS (safe for italics/bold in bookmarks)
+% ==================================================
+\usepackage[bookmarks=false]{hyperref}
+\pdfstringdefDisableCommands{%
+  \def\textit#1{#1}%
+  \def\emph#1{#1}%
+  \def\textbf#1{#1}%
+}
+
+% ==================================================
+%  PAGE GEOMETRY
+% ==================================================
+\usepackage[a4paper,margin=2.5cm]{geometry}
+
+% ==================================================
+%  LINE SPACING (PRINT-SAFE)
+% ==================================================
+\usepackage{setspace}
+\setstretch{1.25}
+
+% ==================================================
+%  PAGE BALANCE
+% ==================================================
+\raggedbottom
+
+% ==================================================
+%  DENSE PAGE BREAK PENALTIES
+% ==================================================
+\clubpenalty=100
+\widowpenalty=100
+\displaywidowpenalty=100
+\interlinepenalty=50
+
+% ==================================================
+%  SECTION CONTROL
+% ==================================================
+\usepackage{titlesec}
+
+% Allow breaks after headings (Pandoc-friendly)
+\makeatletter
+\@afterindentfalse
+\makeatother
+
+% --------------------------------------------------
+% NUMBERING LADDER: I. A. 1. a. i.
+% --------------------------------------------------
+\renewcommand{\thesection}{\Roman{section}}
+\renewcommand{\thesubsection}{\Alph{subsection}}
+\renewcommand{\thesubsubsection}{\arabic{subsubsection}}
+\renewcommand{\theparagraph}{\alph{paragraph}}
+\renewcommand{\thesubparagraph}{\roman{subparagraph}}
+
+\setcounter{secnumdepth}{5}
+\setcounter{tocdepth}{5}
+
+% --------------------------------------------------
+% HEADING FORMATTING
+% --------------------------------------------------
+% H1
+\titleformat{\section}
+  {\normalfont\bfseries\Large\linespread{1}\selectfont}
+  {\thesection.}{1em}{}
+
+% H2
+\titleformat{\subsection}
+  {\normalfont\bfseries\large\linespread{1}\selectfont}
+  {\thesubsection.}{1em}{}
+
+% H3
+\titleformat{\subsubsection}
+  {\normalfont\normalsize\linespread{1}\selectfont}
+  {\thesubsubsection.}{1em}{}
+
+% H4
+\titleformat{\paragraph}
+  {\normalfont\normalsize\linespread{1}\selectfont}
+  {\theparagraph.}{1em}{}
+
+% H5
+\titleformat{\subparagraph}
+  {\normalfont\normalsize\linespread{1}\selectfont}
+  {\thesubparagraph.}{1em}{}
+
+% --------------------------------------------------
+% HEADING SPACING (VERTICAL)
+% (Leave your defaults — we’ll fix the *quote* gap locally.)
+% --------------------------------------------------
+\titlespacing*{\section}
+  {0pt}{2.0\baselineskip}{0.8\baselineskip}
+
+\titlespacing*{\subsection}
+  {1.2cm}{1.6\baselineskip}{0.6\baselineskip}
+
+\titlespacing*{\subsubsection}
+  {2.4cm}{1.3\baselineskip}{0.5\baselineskip}
+
+\titlespacing*{\paragraph}
+  {3.6cm}{1.0\baselineskip}{0.4\baselineskip}
+
+\titlespacing*{\subparagraph}
+  {4.8cm}{0.8\baselineskip}{0.3\baselineskip}
+
+% ==================================================
+%  PREVENT ORPHANED HEADERS
+% ==================================================
+\usepackage{needspace}
+
+\let\oldsection\section
+\renewcommand{\section}{\needspace{6\baselineskip}\oldsection}
+
+\let\oldsubsection\subsection
+\renewcommand{\subsection}{\needspace{5\baselineskip}\oldsubsection}
+
+\let\oldsubsubsection\subsubsection
+\renewcommand{\subsubsection}{\needspace{4\baselineskip}\oldsubsubsection}
+
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}{\needspace{3\baselineskip}\oldparagraph}
+
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}{\needspace{2\baselineskip}\oldsubparagraph}
+
+% ==================================================
+%  PARAGRAPH BEHAVIOR
+% ==================================================
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5em}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% ==================================================
+%  QUOTES / EVIDENCE BLOCKS (Pandoc)
+% ==================================================
+\usepackage{framed}
+\usepackage{xcolor}
+
+% Pandoc default blockquote sometimes uses "quote" or can be styled via shaded.
+% We keep shaded available, but your real target is :::evidence (Div class).
+%
+% Key idea: evidence ends with a small negative kern to cancel the
+% heading-before-skip “double gap” effect in your layout.
+
+% --- Pandoc shaded block (kept for compatibility) ---
+\renewenvironment{shaded}{
+  \par\vspace{4pt}%
+  \def\FrameCommand{\fcolorbox{white}{gray!10}}%
+  \MakeFramed{
+    \advance\hsize-\width
+    \FrameRestore
+    \setlength{\parskip}{0pt}
+    \setlength{\parindent}{0pt}
+  }%
+  \noindent
+}{
+  \endMakeFramed
+  \par\vspace{4pt}%
+}
+
+% --- Pandoc fenced div: :::evidence ... :::  ->  environment evidence ---
+\newenvironment{evidence}{
+  \par\smallskip
+  \def\FrameCommand{\fcolorbox{white}{gray!10}}%
+  \MakeFramed{
+    \advance\hsize-\width
+    \FrameRestore
+    \setlength{\parskip}{0pt}
+    \setlength{\parindent}{0pt}
+  }%
+  \noindent
+}{
+  \endMakeFramed
+  % IMPORTANT: remove the “mystery gap” before the next heading/item
+  % by cancelling the accumulated paragraph + heading beforeskip.
+  \par\kern-0.65\baselineskip
+}
+
+% ==================================================
+%  LISTS (tighten defaults so paragraphs/lists don’t inflate)
+% ==================================================
+\usepackage{enumitem}
+
+% Ordered / unordered
+\setlist[itemize]{leftmargin=*, topsep=0.4em, itemsep=0.2em, parsep=0pt, partopsep=0pt}
+\setlist[enumerate]{leftmargin=*, topsep=0.4em, itemsep=0.2em, parsep=0pt, partopsep=0pt}
+
+% Description lists (your existing style)
+\setlist[description]{
+  font=\normalfont\bfseries,
+  labelindent=0pt,
+  leftmargin=2.4cm,
+  style=nextline,
+  itemsep=0.3em,
+  topsep=0.6em
+}
+
+% ==================================================
+%  DOCUMENT
+% ==================================================
+\begin{document}
+
+$body$
+
+\end{document}
