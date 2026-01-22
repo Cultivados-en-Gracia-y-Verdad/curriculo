@@ -156,7 +156,7 @@
 #### La realización de este apostolado no era por medio de hombre alguno, ni si quiera de Pablo mismo, sino que era realizado por medio de la intervención, la fuerza y el mensaje que venían del Hijo y del Padre.
 
 ### Gálatas 1:1e - *"...Dios el Padre que lo resucitó de entre los muertos"* 
-#### Pablo aclara que Aquel que había encomendado a Pablo a como apóstol, es el mismo que en un punto de la historia levanto de entre los muertos a Jesucristo. Hechos 3:15; Romanos 4:24
+#### Pablo aclara que Aquel que había encomendado a Pablo como apóstol, es el mismo que en un punto de la historia levanto de entre los muertos a Jesucristo. Hechos 3:15; Romanos 4:24
 
 #### La resurrección de Jesucristo no fue posible por medio de intervención o poder de alguna carne, de algún ser humano.
 
