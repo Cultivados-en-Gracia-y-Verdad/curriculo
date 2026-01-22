@@ -70,7 +70,7 @@
 ## Fecha probable de escritura
 
 ### Considerando que:
-#### Pablo no menciona el **Concilio de Jerusalén**. Hechos 15
+#### Pablo menciona el **Concilio de Jerusalén**. Hechos 15
 #### trata temas relacionados con la ley, la circuncisión y los gentiles (Temas por los cuales habían pasado persecución en su primer viaje)
 #### y expresa sorpresa por un desvío ocurrido “tan pronto”,
 
