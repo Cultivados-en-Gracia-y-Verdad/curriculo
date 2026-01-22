@@ -97,7 +97,7 @@
 ### Este contexto facilitó:
 #### los viajes misioneros,
 #### la comunicación entre iglesias,
-#### la rápida expansión del cristianismo primitivo
+#### la rápida expansión del cristianismo del primer siglo
 
 ## Contexto cultural de los gálatas
 
