@@ -1,0 +1,297 @@
+\documentclass[12pt,twoside]{article}
+\usepackage{graphicx}  % ← must come first
+% ===============================
+% ENGINE & FONT
+% ===============================
+\usepackage{fontspec}
+\setmainfont{IBM Plex Serif}
+\newfontface\headingfont{IBM Plex Serif}[
+  UprightFont = *-Medium,  % You can try *Regular or *Light
+  BoldFont    = *-SemiBold
+]
+% ===============================
+% LANGUAGE
+% ===============================
+\usepackage[spanish]{babel}
+
+\usepackage[bookmarks=false]{hyperref}
+\pdfstringdefDisableCommands{%
+  \def\textit#1{#1}%
+  \def\emph#1{#1}%
+  \def\textbf#1{#1}%
+}
+
+% ===============================
+% PAGE GEOMETRY
+% ===============================
+\usepackage[a4paper,margin=2.5cm]{geometry}
+
+% ===============================
+% LINE SPACING
+% ===============================
+\usepackage{setspace}
+\setstretch{1.25}
+
+% ===============================
+% PAGE BALANCE
+% ===============================
+\raggedbottom
+
+% ===============================
+% BREAK PENALTIES
+% ===============================
+\clubpenalty=100
+\widowpenalty=100
+\displaywidowpenalty=100
+\interlinepenalty=50
+
+% ===============================
+% HEADER / FOOTER
+% ===============================
+% ===============================
+% HEADER / FOOTER SETUP
+% ===============================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}  % clear all headers and footers
+
+\fancyhead{}  % no headers
+
+% Footer: alternating page numbers
+\fancyhead[LE]{\thepage}  % Left on Even pages
+\fancyhead[RO]{\thepage}  % Right on Odd pages
+\renewcommand{\headrulewidth}{0pt}   % Remove line above header
+\renewcommand{\footrulewidth}{0.2pt} % Add line above footer
+% --- Header: page number (top right only) ---
+
+
+% --- Footer ---
+\fancyfoot[C]{
+  \begin{minipage}[t]{\textwidth}
+    \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l c r}
+      \begin{minipage}[t]{0.33\textwidth}
+        \raggedright
+        \small Gálatas\\
+        \small Llamados para Libertad
+      \end{minipage}
+      &
+      \begin{minipage}[c]{0.33\textwidth}
+        \centering
+        \includegraphics[height=1.5cm]{cgv-logo.png}
+      \end{minipage}
+      &
+      \begin{minipage}[t]{0.33\textwidth}
+        \raggedleft
+        \small \texttt{www.discipuladocgv.org}
+      \end{minipage}
+    \end{tabular*}
+  \end{minipage}
+}
+
+\setlength{\headheight}{14pt}
+\setlength{\headsep}{18pt}
+% ===============================
+% SECTION CONTROL
+% ===============================
+\usepackage{titlesec}
+
+\makeatletter
+\@afterindentfalse
+\makeatother
+
+\renewcommand{\thesection}{\Roman{section}}
+\renewcommand{\thesubsection}{\Alph{subsection}}
+\renewcommand{\thesubsubsection}{\arabic{subsubsection}}
+\renewcommand{\theparagraph}{\alph{paragraph}}
+\renewcommand{\thesubparagraph}{\roman{subparagraph}}
+
+\setcounter{secnumdepth}{5}
+\setcounter{tocdepth}{5}
+
+% Heading formats
+\titleformat{\section}{\normalfont\headingfont\Large\linespread{1.3}\selectfont}{\thesection.}{1em}{\MakeUppercase}
+\titleformat{\subsection}{\normalfont\headingfont\large\linespread{1.3}\selectfont}{\thesubsection.}{1em}{}
+\titleformat{\subsubsection}{\normalfont\normalsize\linespread{1.3}\selectfont}{\thesubsubsection.}{1em}{}
+\titleformat{\paragraph}{\normalfont\normalsize\linespread{1.3}\selectfont}{\theparagraph.}{1em}{}
+\titleformat{\subparagraph}{\normalfont\normalsize\linespread{1.3}\selectfont}{\thesubparagraph.}{1em}{}
+
+\titlespacing*{\section}{0pt}{2.0\baselineskip}{0.3\baselineskip}
+\titlespacing*{\subsection}{1.2cm}{1.6\baselineskip}{0.1\baselineskip}
+\titlespacing*{\subsubsection}{2.2cm}{0.1\baselineskip}{0.1\baselineskip}
+\titlespacing*{\paragraph}{3.0cm}{0.1\baselineskip}{0.1\baselineskip}
+\titlespacing*{\subparagraph}{4.8cm}{0.1\baselineskip}{0.1\baselineskip}
+
+% Prevent orphaned headers
+\usepackage{needspace}
+\let\oldsection\section
+\renewcommand{\section}{\needspace{6\baselineskip}\oldsection}
+\let\oldsubsection\subsection
+\renewcommand{\subsection}{\needspace{5\baselineskip}\oldsubsection}
+\let\oldsubsubsection\subsubsection
+\renewcommand{\subsubsection}{\needspace{4\baselineskip}\oldsubsubsection}
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}{\needspace{3\baselineskip}\oldparagraph}
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}{\needspace{2\baselineskip}\oldsubparagraph}
+
+% ===============================
+% PARAGRAPH SETTINGS
+% ===============================
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5em}
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% ===============================
+% BLOCK QUOTES
+% ===============================
+\usepackage{mdframed}
+\usepackage{etoolbox}
+\usepackage{xcolor}
+\usepackage{setspace}
+
+% normal BLOCKQUOTES
+\renewenvironment{quote}
+  {\begin{mdframed}[
+    leftmargin=28cm,
+    rightmargin=28cm,
+    linewidth=0.2pt,
+    linecolor=gray!50,
+    skipabove=0.8em,
+  skipbelow=0.2em,
+    backgroundcolor=gray!5,
+    topline=true,
+  bottomline=true,
+  rightline=false,
+  leftline=false,
+    font=\itshape
+  ]}
+  {\end{mdframed}}
+% --- QUOTE Block ---
+\newmdenv[
+  backgroundcolor=gray!10,
+  leftmargin=10cm,
+  rightmargin=10cm,
+  skipabove=0.8em,
+  skipbelow=0.8em,
+  linewidth=1pt,
+  topline=true,
+  bottomline=true,
+  rightline=false,
+  leftline=false,
+  font=\itshape,
+]{quoteblock}
+
+% --- SCRIPTURE Block (inline citation support) ---
+\newmdenv[
+  backgroundcolor=gray!10,
+  leftmargin=5.5cm,
+  rightmargin=5cm,
+  linewidth=2pt,
+  font=\itshape\small,
+  skipabove=0.2em,
+  skipbelow=0.2em
+]{scripture}
+
+% --- EVIDENCE Block (visually distinct) ---
+\newmdenv[
+  leftmargin=0.5cm,
+  rightmargin=0cm,
+  linewidth=1pt,
+  linecolor=gray!50,
+  font=\small\itshape,
+  skipabove=0.6em,
+  skipbelow=0.6em,
+  innerleftmargin=0.5em,
+  innerrightmargin=0.2em,
+  innertopmargin=0.2em,
+  innerbottommargin=0.2em
+]{evidence}
+
+% ===============================
+% DEFINITION styling
+% ===============================
+
+% List styling for normal `description` lists
+\usepackage{enumitem}
+\usepackage{xcolor}
+
+\setlist[description]{
+  labelsep=0pt,           % no colon between term and definition
+  leftmargin=0pt,         % align to the left
+  labelwidth=\widthof{\bfseries WidestTerm}, % reserve space for longest term if needed
+  style=nextline          % put definition on next line
+}
+
+% Optional: Styling for term label in description lists
+\let\olddescriptionlabel\descriptionlabel
+\renewcommand{\descriptionlabel}[1]{%
+  \hspace\labelsep
+  \textbf{\textcolor{black}{#1}}\par\vspace{0.2em}%
+}
+
+% ===============================
+% Boxed definitions using tcolorbox
+% ===============================
+
+\usepackage[most]{tcolorbox} % full feature set
+
+% Define dynamic title command (only if not already defined)
+\providecommand{\definitiontitle}{} 
+
+% Define box style
+\tcbset{
+  definitionstyle/.style={
+    breakable,
+    enhanced,
+    title=\definitiontitle,
+    coltitle=black,
+    fonttitle=\bfseries,
+    colbacktitle=gray!20,
+    colback=white,
+    colframe=gray!60,
+    boxrule=0.4pt,
+    arc=2pt,
+    left=6pt,
+    right=6pt,
+    top=6pt,
+    bottom=6pt,
+    before skip=10pt,
+    after skip=10pt
+  }
+}
+
+% Define environment (only once)
+\newenvironment{definitionbox}[1]
+  {\renewcommand{\definitiontitle}{#1}%
+   \begin{tcolorbox}[definitionstyle]}
+  {\end{tcolorbox}}
+
+\usepackage{tcolorbox}
+\tcbuselibrary{skins}
+
+% First undefine if already defined
+\let\olddefinitionbox\definitionbox
+\let\endolddefinitionbox\enddefinitionbox
+\renewenvironment{definitionbox}[1]{%
+  \begin{tcolorbox}[title=#1, colback=gray!5!white, colframe=gray!50!black, fonttitle=\bfseries]
+}{%
+  \end{tcolorbox}
+}
+
+% ===============================
+% DEFINITIONS (DESCRIPTION LISTS)
+% ===============================
+\usepackage{enumitem}
+\setlist[description]{font=\normalfont\bfseries, labelindent=0pt, leftmargin=2.4cm, style=nextline, itemsep=0.3em, topsep=0.6em}
+
+% ===============================
+% BEGIN DOCUMENT
+% ===============================
+\begin{document}
+
+\pagenumbering{arabic}
+\setcounter{page}{2}
+
+\begin{definitionbox}{Justification}
+
+\end{document}

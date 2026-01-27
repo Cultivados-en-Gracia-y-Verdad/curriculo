@@ -1,0 +1,354 @@
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\documentclass[11pt,twoside]{article}
+\usepackage{graphicx}  % ← must come first
+\usepackage[margin=1in]{geometry}
+\usepackage{fontspec}
+\usepackage{tcolorbox}
+\tcbuselibrary{skins} % <-- REQUIRED for 'enhanced' to work
+\usepackage{xcolor}
+
+% --- FORCE-disable csquotes if it is loaded anywhere ---
+\makeatletter
+\@ifundefined{csq@quote@i}{}{%
+  \let\csq@quote@i\relax
+  \let\csq@quote@ii\relax
+}
+\makeatother
+% ===============================
+% ENGINE & FONT
+% ===============================
+\usepackage{fontspec}
+\usepackage{csquotes}
+%\newcommand{\q}[1]{\textit{«#1»}}
+%\newcommand{\q}[1]{\fontsize{12pt}{16pt}\selectfont\ScriptureFont\itshape «#1»}
+
+% Main body font (already working)
+\setmainfont[
+  Path = /Users/johnwry/Library/Fonts/,
+  Ligatures=TeX,
+  Numbers=OldStyle,
+  UprightFont = IBMPlexSerif-Light.ttf,
+  ItalicFont  = IBMPlexSerif-LightItalic.ttf,
+  BoldFont    = IBMPlexSerif-SemiBold.ttf,
+  BoldItalicFont = IBMPlexSerif-Italic.ttf
+  ]{IBM Plex Serif}
+
+% H1 = SEMIBOLD, H2 = MEDIUM, H3–H5 = LIGHT
+\newfontface\headingfont[
+  Path = /Users/johnwry/Library/Fonts/,
+  UprightFont = IBMPlexSerif-Medium.ttf,
+  BoldFont    = IBMPlexSerif-SemiBold.ttf
+]{IBM Plex Serif}
+
+% Define a slightly lighter heading font for H3–H5
+\newfontface\headingfontlight{IBM Plex Serif}[
+  UprightFont = *-Light,
+  BoldFont    = *-SemiBold,
+  FakeBold    = 1.4
+]
+
+% H3–H5 lighter
+\newfontface\lightheadingfont[
+  Path = /Users/johnwry/Library/Fonts/,
+  UprightFont = IBMPlexSerif-Light.ttf
+]{IBM Plex Serif}
+
+% Scripture font: Light Italic with slight spacing
+\newfontfamily\ScriptureFont[
+  Path = /Users/johnwry/Library/Fonts/,
+  ItalicFont = IBMPlexSerif-LightItalic.ttf,
+  LetterSpace = 1.0
+]{IBMPlexSerif-LightItalic.ttf}
+
+
+% Set scripture font to IBM Plex Serif Light Italic with spacing
+\usepackage{ifthen} % Needed for conditional logic
+
+% Define \scripture command
+%\newcommand{\scripture}[1]{\ScriptureFont\itshape #1}
+%\newcommand{\q}[1]{\ScriptureFont\itshape «#1»}
+\newcommand{\scripture}[1]{%
+  {\fontsize{12pt}{16pt}\selectfont\ScriptureFont\itshape #1}%
+}
+% Handle span classes like {.scripture}
+\providecommand{\textspan}[2]{%
+  \ifthenelse{\equal{#1}{scripture}}%
+    {\scripture{#2}}%
+    {#2}%
+}
+\linespread{1.25}
+% ===============================
+% LANGUAGE
+% ===============================
+\usepackage[spanish]{babel}
+
+\usepackage[bookmarks=false]{hyperref}
+\pdfstringdefDisableCommands{%
+  \def\textit#1{#1}%
+  \def\emph#1{#1}%
+  \def\textbf#1{#1}%
+}
+
+% ===============================
+% PAGE GEOMETRY
+% ===============================
+%\usepackage[a4paper,margin=2.5cm]{geometry}
+% ===============================
+% LINE SPACING
+% ===============================
+\usepackage{setspace}
+\setstretch{1.0}
+
+% ===============================
+% PAGE BALANCE
+% ===============================
+\raggedbottom
+
+% ===============================
+% BREAK PENALTIES
+% ===============================
+\clubpenalty=100
+\widowpenalty=100
+\displaywidowpenalty=100
+\interlinepenalty=50
+
+% ===============================
+% HEADER / FOOTER
+% ===============================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}  % clear all headers and footers
+
+\fancyhead{}  % no headers
+
+% Footer: alternating page numbers
+\fancyhead[LE]{\thepage}  % Left on Even pages
+\fancyhead[RO]{\thepage}  % Right on Odd pages
+\renewcommand{\headrulewidth}{0pt}   % Remove line above header
+\renewcommand{\footrulewidth}{0.2pt} % Add line above footer
+% --- Header: page number (top right only) ---
+
+
+% --- Footer ---
+\fancyfoot[C]{
+  \begin{minipage}[t]{\textwidth}
+    \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l c r}
+      \begin{minipage}[t]{0.33\textwidth}
+        \raggedright
+        \color[gray]{0.5}
+        \small  $title$ (v.$version$)\\
+        \small  $subtitle$
+      \end{minipage}
+      &
+      \begin{minipage}[c]{0.33\textwidth}
+        \centering
+        \includegraphics[height=1.75cm]{$logo$}
+      \end{minipage}
+      &
+      \begin{minipage}[t]{0.33\textwidth}
+        \raggedleft
+        \color[gray]{0.5}
+        \small {www.discipuladocgv.org}
+      \end{minipage}
+    \end{tabular*}
+  \end{minipage}
+}
+
+\setlength{\headheight}{14pt}
+\setlength{\headsep}{18pt}
+% ===============================
+% SECTION CONTROL
+% ===============================
+\usepackage{titlesec}
+
+\makeatletter
+\@afterindentfalse
+\makeatother
+
+\renewcommand{\thesection}{\Roman{section}}
+\renewcommand{\thesubsection}{\Alph{subsection}}
+\renewcommand{\thesubsubsection}{\arabic{subsubsection}}
+\renewcommand{\theparagraph}{\alph{paragraph}}
+\renewcommand{\thesubparagraph}{\roman{subparagraph}}
+
+\setcounter{secnumdepth}{5}
+\setcounter{tocdepth}{5}
+
+%-----------------------
+% Nested Header Formatting (Final – No Italics)
+%-----------------------
+% Custom light and slightly faded heading font for H3–H5
+\newcommand{\lightfadedheading}{\fontseries{l}\color{black!75}\selectfont}
+
+% H1 – Numbers (I II III)
+\titleformat{\section}
+  {\headingfont\bfseries\fontsize{13.5pt}{16pt}\selectfont}
+  {\thesection.}{1em}{\MakeUppercase}
+\titlespacing*{\section}{0pt}{12pt plus 2pt minus 1pt}{6pt}
+
+% H2 – Capital Letters (A, B, C)
+\titleformat{\subsection}
+  {\headingfont\bfseries\large}
+  {\thesubsection.}{0.5em}{}
+\titlespacing*{\subsection}{20pt}{12pt plus 2pt minus 1pt}{6pt}
+
+% H3 – Numbers (1, 2, 3)
+\titleformat{\subsubsection}
+  {\normalfont\headingfontlight\normalsize}
+  {\thesubsubsection.}{0.5em}{}
+\titlespacing*{\subsubsection}{44pt}{12pt plus 2pt minus 1pt}{4pt}
+
+% H4 – Letters (a, b, c)
+\titleformat{\paragraph}
+  {\normalfont\headingfontlight\normalsize}
+  {\theparagraph)}{0.5em}{}
+\titlespacing*{\paragraph}{66pt}{6pt plus 1pt minus 1pt}{2pt}
+
+% H5 – Roman lowercase (i, ii, iii)
+\titleformat{\subparagraph}
+  {\normalfont\headingfontlight\normalsize}
+  {\thesubparagraph)}{0.5em}{}
+\titlespacing*{\subparagraph}{82pt}{4pt plus 1pt minus 1pt}{1pt}
+
+
+\titlespacing*{\section}{0.2cm}{2.0\baselineskip}{0.3\baselineskip}
+\titlespacing*{\subsection}{1.3cm}{1.6\baselineskip}{0.1\baselineskip}
+\titlespacing*{\subsubsection}{2.0cm}{0.1\baselineskip}{0.1\baselineskip}
+\titlespacing*{\paragraph}{2.8cm}{0.1\baselineskip}{0.1\baselineskip}
+\titlespacing*{\subparagraph}{3.5cm}{0.1\baselineskip}{0.1\baselineskip}
+
+% Prevent orphaned headers
+\usepackage{needspace}
+\let\oldsection\section
+\renewcommand{\section}{\needspace{6\baselineskip}\oldsection}
+\let\oldsubsection\subsection
+\renewcommand{\subsection}{\needspace{5\baselineskip}\oldsubsection}
+\let\oldsubsubsection\subsubsection
+\renewcommand{\subsubsection}{\needspace{4\baselineskip}\oldsubsubsection}
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}{\needspace{3\baselineskip}\oldparagraph}
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}{\needspace{2\baselineskip}\oldsubparagraph}
+
+% ===============================
+% PARAGRAPH SETTINGS
+% ===============================
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5em}
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% ================================
+%   LIST STYLE
+% ================================
+\usepackage{enumitem}
+\setlist[enumerate,1]{label=\arabic*.}
+\setlist[enumerate,2]{label=\alph*), leftmargin=2em}
+\setlist[enumerate,3]{label=\roman*., leftmargin=2em}
+
+% Optional: spacing fixes
+\setlist{nosep}
+
+
+\setlist[enumerate,2]{
+  before=\let\labelenumii\relax,
+  label=\alph*),
+  leftmargin=3.2em
+}
+
+\setlist[enumerate,3]{
+  before=\let\labelenumiii\relax,
+  label=\arabic*),
+  leftmargin=3.6em
+}
+
+\setlist[enumerate,4]{
+  before=\let\labelenumiv\relax,
+  label=\roman*., 
+  leftmargin=4em
+}
+
+\setlist[enumerate]{
+  align=left,
+  labelsep=0.6em
+}
+
+% Define tan color
+\definecolor{mytan}{RGB}{209, 201, 152}
+
+% Define the styled definition box
+\newtcolorbox{definitionbox}[1]{
+  enhanced,
+  colback=white,
+  colframe=black!35,
+  boxrule=0.4pt,
+  arc=0mm,
+  left=6mm,
+  right=6mm,
+  top=4mm,
+  bottom=4mm,
+  fontupper=\small,
+  before skip=10pt,
+  after skip=10pt,
+  title=\textbf{#1},
+  fonttitle=\small\bfseries,
+  coltitle=black,
+  attach boxed title to top left={
+    xshift=6mm,
+    yshift=-2mm
+  },
+  boxed title style={
+    colback=white,
+    boxrule=0pt,
+    sharp corners
+  }
+}
+% =====================
+% BLOCKQUOTE STYLE
+% =====================
+\usepackage{etoolbox}
+
+\AtBeginEnvironment{quote}{%
+  \par\addvspace{0.8em}%
+  \begin{center}%
+  \begin{minipage}{0.8\linewidth}%
+  \hrule height 0.25pt
+  \vspace{0.6em}%
+  \setlength{\parindent}{0pt}%
+  \setlength{\parskip}{0pt}%
+  \itshape
+  \raggedright
+  \emergencystretch=2em
+  \sloppy
+  \setlength{\parindent}{0pt}%
+  \setlength{\parskip}{0pt}%
+  }
+
+\AtEndEnvironment{quote}{%
+  \vspace{0.4em}%
+  \normalfont
+  \hrule height 0.25pt
+  \end{minipage}%
+  \end{center}%
+  \addvspace{0.8em}%
+}
+
+
+
+
+% --- Force custom enumerate labels (Pandoc-safe) ---
+% Clean and consistent enumerate labels
+\usepackage{enumitem}
+\setlist[enumerate,1]{label=\arabic*.}
+\setlist[enumerate,2]{label=\alph*)}
+\setlist[enumerate,3]{label=\arabic*)}
+\setlist[enumerate,4]{label=\roman*.}
+
+
+\begin{document}
+\pagenumbering{arabic}
+\setcounter{page}{2}
+
+$body$
+
+\end{document}
