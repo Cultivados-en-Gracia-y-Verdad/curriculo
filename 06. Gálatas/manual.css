@@ -1,0 +1,226 @@
+/* ======================================================
+   MANUAL.CSS — CLEAN BASELINE
+   Markdown → HTML → PDF (Manuals)
+   ====================================================== */
+
+/* ===============================
+   ROOT VARIABLES
+   =============================== */
+
+:root {
+  --num-width: 1.2cm;
+  --num-gap: 0.4em;
+}
+
+/* ===============================
+   PAGE SETUP
+   =============================== */
+
+@page {
+  size: A4;
+  margin: 2.5cm;
+}
+
+/* ===============================
+   BASE TYPOGRAPHY
+   =============================== */
+
+body {
+  font-family: "IBM Plex Serif", serif;
+  font-size: 10.8pt;
+  line-height: 1.22;
+  font-weight: 400;
+  color: #000;
+  margin: 0;
+
+  font-kerning: normal;
+  font-feature-settings: "liga", "kern";
+}
+
+/* ===============================
+   PARAGRAPHS
+   =============================== */
+
+p {
+  margin: 0 0 0.6em 0;
+  hyphens: auto;
+}
+
+/* ===============================
+   HEADINGS — STRUCTURE, NOT DECORATION
+   =============================== */
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "IBM Plex Serif", serif;
+  font-weight: 500;
+  line-height: 1.15;
+  letter-spacing: 0.005em;
+
+  margin-top: 1.4em;
+  margin-bottom: 0.35em;
+
+/* Number gutter */
+padding-left: 2.4em;
+
+/* Text offset (applies to all lines) */
+box-sizing: border-box;
+
+  page-break-after: avoid;
+}
+/* Shift heading TEXT (not numbers) */
+h1::before,
+h2::before,
+h3::before,
+h4::before,
+h5::before {
+  margin-right: 0.6em;
+}
+
+/* ===============================
+   HEADING SIZES (MANUAL SCALE)
+   =============================== */
+
+h1 { font-size: 1.45em; }
+h2 { font-size: 1.28em; }
+h3 { font-size: 1.12em; }
+h4 { font-size: 1.00em; }
+h5 { font-size: 0.95em; }
+h6 { font-size: 0.90em; }
+
+
+
+/* ===============================
+   HEADING COUNTERS (ONE SYSTEM)
+   =============================== */
+
+body { counter-reset: h1; }
+h1   { counter-reset: h2; }
+h2   { counter-reset: h3; }
+h3   { counter-reset: h4; }
+h4   { counter-reset: h5; }
+h5   { counter-reset: h6; }
+
+/* ===============================
+   HEADING NUMBER RENDERING
+   =============================== */
+
+h1::before,
+h2::before,
+h3::before,
+h4::before,
+h5::before,
+h6::before {
+  grid-column: 1;
+  text-align: right;
+  padding-right: var(--num-gap);
+  font-weight: 500;
+}
+
+h1::before {
+  counter-increment: h1;
+  content: counter(h1, upper-roman) ".";
+}
+
+h2::before {
+  counter-increment: h2;
+  content: counter(h2, upper-alpha) ".";
+}
+
+h3::before {
+  counter-increment: h3;
+  content: counter(h3, decimal) ".";
+}
+
+h4::before {
+  counter-increment: h4;
+  content: counter(h4, lower-alpha) ".";
+}
+
+h5::before {
+  counter-increment: h5;
+  content: counter(h5, lower-roman) ".";
+}
+
+h6::before {
+  counter-increment: h6;
+  content: "•";
+}
+
+/* ===============================
+   PARAGRAPHS UNDER HEADINGS
+   (ALIGN WITH HEADING TEXT)
+   =============================== */
+
+h1 + p { margin-left: calc(0 * var(--level-indent) + var(--num-width) + var(--num-gap)); }
+h2 + p { margin-left: calc(1 * var(--level-indent) + var(--num-width) + var(--num-gap)); }
+h3 + p { margin-left: calc(2 * var(--level-indent) + var(--num-width) + var(--num-gap)); }
+h4 + p { margin-left: calc(3 * var(--level-indent) + var(--num-width) + var(--num-gap)); }
+h5 + p { margin-left: calc(4 * var(--level-indent) + var(--num-width) + var(--num-gap)); }
+h6 + p { margin-left: calc(5 * var(--level-indent) + var(--num-width) + var(--num-gap)); }
+
+/* ===============================
+   EVIDENCE (SCRIPTURE SUPPORT)
+   =============================== */
+
+.evidence {
+  margin-top: 0.2em;
+  margin-bottom: 0.6em;
+
+  padding-left: 1em;
+  border-left: 3px solid #ccc;
+
+  font-style: italic;
+  font-size: 0.98em;
+}
+
+/* Align evidence under heading text */
+h1 + .evidence { margin-left: calc(0 * var(--level-indent) + var(--num-width) + var(--num-gap)); }
+h2 + .evidence { margin-left: calc(1 * var(--level-indent) + var(--num-width) + var(--num-gap)); }
+h3 + .evidence { margin-left: calc(2 * var(--level-indent) + var(--num-width) + var(--num-gap)); }
+h4 + .evidence { margin-left: calc(3 * var(--level-indent) + var(--num-width) + var(--num-gap)); }
+h5 + .evidence { margin-left: calc(4 * var(--level-indent) + var(--num-width) + var(--num-gap)); }
+h6 + .evidence { margin-left: calc(5 * var(--level-indent) + var(--num-width) + var(--num-gap)); }
+
+/* ===============================
+   OBSERVATIONS
+   =============================== */
+
+.observation {
+  margin: 0.6em 0;
+  padding-left: 1em;
+  border-left: 3px solid #666;
+  font-size: 0.95em;
+}
+
+/* ===============================
+   LISTS
+   =============================== */
+
+ol, ul {
+  margin: 0.4em 0 0.6em 0;
+  padding-left: calc(var(--num-width) + var(--num-gap));
+}
+
+
+li {
+  margin-bottom: 0.3em;
+}
+
+/* ===============================
+   PRINT POLISH
+   =============================== */
+
+@media print {
+  body {
+    text-rendering: optimizeLegibility;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    break-after: avoid;
+  }
+
+  p, .evidence, .observation {
+    break-inside: avoid;
+  }
+}
