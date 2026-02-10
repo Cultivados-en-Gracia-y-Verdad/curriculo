@@ -269,53 +269,56 @@ Con este marco: la violencia es real, la crisis es concreta, la confrontación e
 
 ## Habacuc 1:1 Encabezamiento del libro
 
-### Habacuc 1:1 “*La carga que vio el profeta Habacuc.*”
+### Habacuc 1:1 
 
-### Habacuc 1:1a “*La carga*...”
-#### El libro no comienza con una visión de esperanza ni con una promesa. Comienza con una **carga**.
+La carga que vio el profeta Habacuc.
 
-##### El término introduce: peso, presión y gravedad,  algo que debe ser llevado, no resuelto de inmediato. 
+#### La carga
+##### El libro no comienza con una visión de esperanza ni con una promesa. Comienza con una **carga**.
 
-##### Desde la primera palabra, el lector es advertido: lo que sigue **no será ligero**, ni rápido, ni tranquilizador.
+- El término introduce: peso, presión y gravedad,  algo que debe ser llevado, no resuelto de inmediato. 
+- Desde la primera palabra, el lector es advertido: lo que sigue **no será ligero**, ni rápido, ni tranquilizador.
+- La carga no es definida todavía. Solo se declara su existencia.
 
-##### La carga no es definida todavía. Solo se declara su existencia.
+#### que vio
 
-### Habacuc 1:1b “*que vio*”
-#### Habacuc no dice: “lo que sentí”, “lo que pensé”, “lo que imaginé”. Dice: “*lo que vio*.”
+##### Habacuc no dice: “lo que sintió”, “lo que pensó”, “lo que imaginó”. Dice: *lo que vio*.
 
-#### Esto establece algo importante desde el inicio: Habacuc no presenta una reacción emocional aislada, presenta una percepción de la realidad. El conflicto del libro no nace de ignorancia, sino de observación.
+##### Esto establece algo importante desde el inicio: Habacuc no presenta una reacción emocional aislada, presenta una percepción de la realidad. El conflicto del libro no nace de ignorancia, sino de observación.
 
-#### Esto será clave más adelante: el problema de Habacuc no es que no vea, sino cómo interpreta lo que ve.
+##### Esto será clave más adelante: el problema de Habacuc no es que no vea, sino cómo interpreta lo que ve.
 
-### Habacuc 1:1c “*el profeta...*”
-#### El texto identifica a Habacuc por su función, no por su historia personal. No se menciona: su familia, su ciudad, su autoridad social, solo "*el profeta.*"
+#### el profeta
+##### El texto identifica a Habacuc por su función, no por su historia personal. No se menciona: su familia, su ciudad, su autoridad social, solo *el profeta.*
 
-#### Esto indica que: su carga no es privada, su diálogo con Dios no es trivial, su queja ocurre dentro de una relación legítima con Dios.  Habacuc no habla como rebelde. Habla como alguien que conoce a Dios y espera coherencia.
+##### Esto indica que: su carga no es privada, su diálogo con Dios no es trivial, su dirá a continuación ocurre dentro de una relación legítima con Dios.  Habacuc no habla en ignorancia, habla como alguien que conoce a Dios y espera coherencia.
 
-### Habacuc 1:1d “*Habacuc*...”
-#### El nombre se presenta sin explicación, como si el lector ya debiera escucharlo.
+#### Habacuc
+##### El nombre se presenta sin explicación, como si el lector ya debiera escucharlo.
 
-#### El libro no intenta: defender a Habacuc, justificar su postura, advertir que está equivocado, simplemente lo deja hablar.
+##### El libro no intenta: defender a Habacuc, justificar su postura, advertir que está equivocado, simplemente lo deja hablar.
 
-#### Eso es importante: el texto **no edita al profeta** para protegerlo.
+##### Eso es importante: el texto **no edita al profeta** para protegerlo.
 
-#### Habacuc 1:1 establece el marco de todo el libro: hay un peso, hay una visión, hay un profeta, hay una realidad observada. 
+##### Habacuc 1:1 establece el marco de todo el libro: hay un peso, hay una visión, hay un profeta, hay una realidad observada. 
 
-#### El conflicto **aún no ha comenzado**. Solo ha sido cargado sobre el lector.
+##### El conflicto **aún no ha comenzado**. Solo ha sido cargado sobre el lector.
 
-#### Este versículo hace tres cosas fundamentales: Autoriza la queja, No es un arrebato impulsivo. Ancla el libro en la realidad. Lo que sigue no es abstracto.
+##### Este versículo hace tres cosas fundamentales: Autoriza la queja, No es un arrebato impulsivo. Ancla el libro en la realidad. Lo que sigue no es abstracto.
 
-###### Con el peso establecido, el texto ahora permite que el profeta **hable**. La pregunta que abre el libro no será,  “¿Existe la injusticia?” sino, "¿Qué hace Dios con ella?". 
+###### Con el peso establecido, el texto ahora permite que el profeta **hable**. 
+
+###### La pregunta que abre el libro no será,  “¿Existe la injusticia?” sino, "¿Qué hace Dios con ella?". 
 
 ## En Síntesis (Habacuc 1:1)
 
-### El libro se presenta como una carga recibida, no como una reflexión personal.
+El libro se presenta como una carga recibida, no como una reflexión personal.
 
-### Habacuc es identificado como profeta antes que como observador.
+Habacuc es identificado como profeta antes que como observador.
 
-### El marco establece autoridad divina sobre todo lo que sigue.
+El marco establece autoridad divina sobre todo lo que sigue.
 
-### La tensión del libro queda legitimada como palabra revelada.
+La tensión del libro queda legitimada como palabra revelada.
 
 # HABACUC 1:2–4 PRIMERA QUEJA DEL PROFETA
 
