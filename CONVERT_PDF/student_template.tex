@@ -1,0 +1,25 @@
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{fontspec}
+\newcommand{\ManualTitle}{$title$}
+\newcommand{\ManualVersion}{$version$}
+\newcommand{\ManualSubtitle}{$subtitle$}
+% ============================
+% Load the full manual template
+% ============================
+\input{manual_template.tex}
+
+% ============================
+% STUDENT VERSION SETTINGS
+% ============================
+% Fill-ins become blank lines
+\renewcommand{\ULthickness}{0.8pt}
+\newlength{\fillinwidth}
+\renewcommand{\fillin}[1]{%
+  \settowidth{\fillinwidth}{\textbf{#1}}%
+  \addtolength{\fillinwidth}{1.5em} % extra space for handwriting
+  \uline{\makebox[\fillinwidth][l]{\hspace*{\fillinwidth}}}%
+}
+\begin{document}
+$body$  % Real content begins here
+\end{document}

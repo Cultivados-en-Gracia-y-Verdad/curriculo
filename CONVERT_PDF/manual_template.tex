@@ -1,0 +1,217 @@
+\usepackage[most]{tcolorbox}
+\usepackage{changepage} % for adjustwidth
+\usepackage{etoolbox}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage[normalem]{ulem} % for underline
+\usepackage{xcolor}
+\usepackage{longtable}
+\usepackage{graphicx}
+
+
+% ============================
+% FONT SETUP
+% ============================
+% === Visual Style Variables ===
+\newcommand{\AnchorColor}{black!70}
+\newcommand{\ScriptureColor}{black!98}
+\newcommand{\CommentColor}{black!70}
+\newcommand{\ListColor}{black!70}
+\newcommand{\BodyColor}{black!70}
+\newcommand{\AnchorIndent}{1.5em}
+\newcommand{\NestedIndent}{2.5em} 
+
+\setlength{\parindent}{0pt}        % No indentation
+\setlength{\parskip}{3em}       % More space between paragraphs
+%\definecolor{paragraphgray}{gray}{0.25} %You can adjust 0.25 for lighter or darker: 0.25 = fairly light 0.35 = medium-light 0.5 = medium gray
+\setmainfont[
+  Path = /Users/johnwry/Library/Fonts/,
+  Ligatures=TeX,
+  UprightFont = IBMPlexSerif-Regular.ttf,
+  ItalicFont  = IBMPlexSerif-Italic.ttf,
+  BoldFont    = IBMPlexSerif-SemiBold.ttf,
+  BoldItalicFont = IBMPlexSerif-BoldItalic.ttf
+]{IBM Plex Serif}
+
+\newfontfamily\BodyFont[
+  Path = /Users/johnwry/Library/Fonts/,
+  UprightFont = *-Light.ttf,
+  ItalicFont  = *-LightItalic.ttf
+]{IBMPlexSerif}
+
+% Scripture font: light italic
+\newfontfamily\ScriptureFont[
+  Path = /Users/johnwry/Library/Fonts/,
+  UprightFont = *-Regular.ttf,
+  ItalicFont  = *-MediumItalic.ttf
+]{IBMPlexSerif}
+
+% ============================
+% BASIC COMMANDS
+% ============================
+\newcommand{\headingfont}{\normalfont}
+\newcommand{\fillin}[1]{\uline{\textbf{#1}}}
+\newcommand{\scripture}[1]{{\selectfont\ScriptureFont\itshape «#1»}}
+
+% ============================
+% SPACING
+% ============================
+\setlength{\parskip}{1.5em}
+\setlength{\parindent}{0pt}
+
+\usepackage{xcolor} % (if not already loaded)
+
+\newtcolorbox{definitionbox}[1]{
+  enhanced,
+  colback=white,
+  width=0.85\textwidth,
+  boxrule=0.5pt,
+  colframe=black!30,
+  arc=1mm,
+  left=2mm,
+  right=2mm,
+  top=2mm,
+  bottom=2mm,
+  fonttitle=\bfseries,
+  fontupper=\small,
+  title=#1,
+  coltitle=black!40,
+  attach boxed title to top left={xshift=4mm,yshift=-2mm},
+  boxed title style={
+    colback=white,
+    boxrule=0pt,
+    boxsep=0pt
+  },
+  before upper={\color{black!40}}, % 👈 set lighter text color
+  before skip=14pt,
+  after skip=10pt
+}
+
+
+
+% ============================
+% LEVEL 5 HEADING (COMMENTARY)
+% ============================
+%\newcommand{\headingfive}[1]{%
+%  \vspace{0.5em}%
+%  \begin{adjustwidth}{2.8em}{}%
+%  \noindent #1%
+%  \end{adjustwidth}%
+%  \vspace{0.5em}%
+%}
+
+% ============================
+% EN SÍNTESIS STYLE
+% ============================
+\definecolor{sintesisgray}{gray}{0.25}
+\newcommand{\sintesisrule}{
+  \vspace{1.2em}
+  \noindent\rule{0.15\textwidth}{0.2pt}
+  \color{black!20}
+  \vspace{0.2em}
+}
+\makeatletter
+\AddToHook{cmd/subsection/before}{%
+  \edef\temp@title{\@currentlabelname}%
+  \ifdefstring{\temp@title}{En S\'intesis}{%
+    \sintesisrule
+  }{}
+}
+\makeatother
+
+
+
+% ============================
+% Pandoc list compatibility
+% ============================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}%
+}
+\usepackage{titlesec}
+\usepackage{xcolor}
+
+% Base paragraph font
+\newcommand{\parastyle}{\BodyFont\color{\BodyColor}\normalsize}
+
+\newenvironment{paraHone}
+  {\begin{adjustwidth}{0pt}{}%
+   \color{\BodyColor}%
+   \setlength{\parskip}{0pt}%
+   \setlength{\parindent}{0pt}%
+   \vspace{1pt}
+   \setlist[itemize]{label={}, left=0pt, itemsep=0pt, topsep=0pt}} % Suppress bullets
+  {\vspace{1pt}\end{adjustwidth}}
+
+\newenvironment{paraHtwo}
+  {\begin{adjustwidth}{3em}{}%
+   \color{\BodyColor}%
+   \setlength{\parskip}{0pt}%
+   \setlength{\parindent}{0pt}%
+   \vspace{2pt}}
+  {\vspace{2pt}\end{adjustwidth}}
+
+\newenvironment{paraHthree}
+  {\begin{adjustwidth}{3em}{}%
+   \color{\BodyColor}%
+   \setlength{\parskip}{0pt}%
+   \setlength{\parindent}{0pt}%
+   \vspace{2pt}}
+  {\vspace{2pt}\end{adjustwidth}}
+
+\newenvironment{paraHfour}
+  {\begin{adjustwidth}{2.5em}{}%
+   \color{\BodyColor}%
+   \setlength{\parskip}{0pt}%
+   \setlength{\parindent}{0pt}%
+   \vspace{2pt}}
+  {\vspace{2pt}\end{adjustwidth}}
+
+% paraHfive: tightly spaced commentary below anchor
+\newenvironment{paraHfive}
+  {\begin{adjustwidth}{2em}{}%
+    \color{\BodyColor}%
+   \setlength{\parskip}{0.25em}%
+   \setlength{\parindent}{0pt}%
+   \fontsize{12pt}{15pt}\selectfont}
+  {\end{adjustwidth}}
+
+  \usepackage{enumitem} % Add this if not present already
+% tighter itemize spacing inside paraHfive
+\AtBeginEnvironment{itemize}{\color{\ListColor}}
+\setlist[itemize,1]{
+  leftmargin=\dimexpr\NestedIndent + 2.5em\relax,
+  labelsep=0.6em,
+  itemsep=0.2em,
+  topsep=0pt,
+  parsep=0pt,
+  partopsep=0pt,
+  after=\vspace{-0.5em}  % Manually reduce extra space after list
+}
+% footnotes
+
+\makeatletter
+\newcommand{\reusefootnote}[2]{%
+  \@ifundefined{fn@#1}{%
+    \expandafter\gdef\csname fn@#1\endcsname{}%
+    \footnote{\label{#1}#2}%
+  }{%
+    \footnotemark[\ref{#1}]%
+  }%
+}
+\makeatother
+
+%Cover stuff
+\usepackage{graphicx}
+\usepackage{eso-pic} % Needed for full-page background
+\usepackage{geometry}
+\newcommand\FullCover[1]{%
+  \AddToShipoutPictureBG*{%
+    \includegraphics[width=\paperwidth,height=\paperheight]{#1}%
+  }%
+  \thispagestyle{empty}\clearpage
+}
+  
+% ============================
+% OUTLINE FORMATTING (Load external)
+% ============================
+\input{outline.tex}

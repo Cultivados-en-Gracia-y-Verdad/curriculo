@@ -82,18 +82,6 @@ Esta forma es:
 
 ------
 
-## 4️⃣ Definiciones (forma alternativa)
-
-Si el sistema de presentación no admite listas de definición:
-
-```
-**Paciencia:** Capacidad de soportar sin reaccionar impulsivamente; tolerancia estable.
-```
-
-⚠️ Esta forma es válida, pero **menos estructural** que la preferida.
-
-------
-
 ## 5️⃣ Listas (enumeración real)
 
 Las listas se usan **solo cuando hay una enumeración real**.
