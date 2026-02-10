@@ -8,135 +8,135 @@ Date: "2026-02-10"
 
 ![cover](images/cover.png)
 
-# Tabla de Contenidos
+# **TABLA DE CONTENIDOS**
 
-### **INTRODUCCIÓN**
+**INTRODUCCIÓN**
 
-#### Yo haré una obra
+Yo haré una obra
 
-#### Cómo leer Habacuc verso por verso
+Cómo leer Habacuc verso por verso
 
-#### Por qué Dios habla antes de explicar
+¿Porqué Dios habla antes de explicar?
 
-#### La diferencia entre describir la realidad y comprenderla
+La diferencia entre describir la realidad y comprenderla
 
-### **MARCO HISTÓRICO Y CONTEXTO**
+**MARCO HISTÓRICO Y CONTEXTO**
 
-#### El libro y su carácter
+El libro y su carácter
 
-#### El autor: Habacuc
+El autor: Habacuc
 
-#### Marco histórico general
+Marco histórico general
 
-#### Judá bajo el rey Joacim
+Judá bajo el rey Joacim
 
-#### El problema no es la violencia — es la interpretación
+El problema no es la violencia — es la interpretación
 
-#### Babilonia como instrumento histórico
+Babilonia como instrumento histórico
 
-#### Por qué este contexto es indispensable
+Por qué este contexto es indispensable
 
-### **HABACUC 1:1 — TÍTULO Y MARCO PROFÉTICO**
+**HABACUC 1:1 — TÍTULO Y MARCO PROFÉTICO**
 
-#### Habacuc 1:1 Encabezamiento del libro
+Habacuc 1:1 Encabezamiento del libro
 
-### **HABACUC 1:2–4 PRIMERA QUEJA DEL PROFETA**
+**HABACUC 1:2–4 PRIMERA QUEJA DEL PROFETA**
 
-#### Habacuc 1:2 — Clamor persistente del profeta
+Habacuc 1:2 — Clamor persistente del profeta
 
-#### Habacuc 1:3 — Violencia y conflicto visibles
+Habacuc 1:3 — Violencia y conflicto visibles
 
-#### Habacuc 1:4 — Colapso del orden legal y judicial
+Habacuc 1:4 — Colapso del orden legal y judicial
 
-### **HABACUC 1:5 PRIMERA RESPUESTA DEL SEÑOR**
+**HABACUC 1:5 PRIMERA RESPUESTA DEL SEÑOR**
 
-#### Habacuc 1:5a — Llamado divino a observar
+Habacuc 1:5a — Llamado divino a observar
 
-#### Habacuc 1:5b — Anuncio que desafía la incredulidad
+Habacuc 1:5b — Anuncio que desafía la incredulidad
 
-#### Habacuc 1:5c — Obra divina inesperada
+Habacuc 1:5c — Obra divina inesperada
 
-### **HABACUC 1:6–11 DESCRIPCIÓN DEL INSTRUMENTO LEVANTADO POR DIOS**
+**HABACUC 1:6–11 DESCRIPCIÓN DEL INSTRUMENTO LEVANTADO POR DIOS**
 
-#### Habacuc 1:6 — Identificación del instrumento
+Habacuc 1:6 — Identificación del instrumento
 
-#### Habacuc 1:7 — Autoridad y justicia auto-definidas
+Habacuc 1:7 — Autoridad y justicia auto-definidas
 
-#### Habacuc 1:8 — Rapidez y alcance militar
+Habacuc 1:8 — Rapidez y alcance militar
 
-#### Habacuc 1:9 — Violencia orientada a la conquista
+Habacuc 1:9 — Violencia orientada a la conquista
 
-#### Habacuc 1:10 — Dominio sobre reyes y fortalezas
+Habacuc 1:10 — Dominio sobre reyes y fortalezas
 
-#### Habacuc 1:11 — Culpabilidad y arrogancia del poder
+Habacuc 1:11 — Culpabilidad y arrogancia del poder
 
-### **HABACUC 1:12–17 SEGUNDA QUEJA DEL PROFETA**
+**HABACUC 1:12–17 SEGUNDA QUEJA DEL PROFETA**
 
-#### Habacuc 1:12 — Apelación al carácter eterno y santo del Señor
+Habacuc 1:12 — Apelación al carácter eterno y santo del Señor
 
-#### Habacuc 1:13 — Tensión entre santidad y tolerancia del mal
+Habacuc 1:13 — Tensión entre santidad y tolerancia del mal
 
-#### Habacuc 1:14–15 — Humanidad tratada como presa
+Habacuc 1:14–15 — Humanidad tratada como presa
 
-#### Habacuc 1:16 — Idolatría del propio poder
+Habacuc 1:16 — Idolatría del propio poder
 
-#### Habacuc 1:17 — Pregunta sin respuesta inmediata
+Habacuc 1:17 — Pregunta sin respuesta inmediata
 
-### **HABACUC 2:1 LA POSTURA DEL PROFETA EN ESPERA**
+**HABACUC 2:1 LA POSTURA DEL PROFETA EN ESPERA**
 
-#### Habacuc 2:1a — Posición deliberada de vigilancia
+Habacuc 2:1a — Posición deliberada de vigilancia
 
-#### Habacuc 2:1b — Expectativa de respuesta divina
+Habacuc 2:1b — Expectativa de respuesta divina
 
-### **HABACUC 2:2–5 LA VISIÓN Y LA VIDA ANTE DIOS**
+**HABACUC 2:2–5 LA VISIÓN Y LA VIDA ANTE DIOS**
 
-#### Habacuc 2:2 — Mandato de registrar la visión
+Habacuc 2:2 — Mandato de registrar la visión
 
-#### Habacuc 2:3 — Tiempo señalado y espera requerida
+Habacuc 2:3 — Tiempo señalado y espera requerida
 
-#### Habacuc 2:4a — El orgullo como postura interna
+Habacuc 2:4a — El orgullo como postura interna
 
-#### Habacuc 2:4b — La vida definida por la fidelidad
+Habacuc 2:4b — La vida definida por la fidelidad
 
-#### Habacuc 2:5 — Expansión del problema del orgullo
+Habacuc 2:5 — Expansión del problema del orgullo
 
-### **HABACUC 2:6–20 EL COLAPSO DE TODA JUSTICIA HUMANA**
+**HABACUC 2:6–20 EL COLAPSO DE TODA JUSTICIA HUMANA**
 
-#### Habacuc 2:6–8 — Primer ay: acumulación injusta
+Habacuc 2:6–8 — Primer ay: acumulación injusta
 
-#### Habacuc 2:9–11 — Segundo ay: seguridad construida sobre mal
+Habacuc 2:9–11 — Segundo ay: seguridad construida sobre mal
 
-#### Habacuc 2:12–14 — Tercer ay: ciudades edificadas con sangre
+Habacuc 2:12–14 — Tercer ay: ciudades edificadas con sangre
 
-#### Habacuc 2:15–17 — Cuarto ay: humillación impuesta a otros
+Habacuc 2:15–17 — Cuarto ay: humillación impuesta a otros
 
-#### Habacuc 2:18–19 — Quinto ay: idolatría sin voz
+Habacuc 2:18–19 — Quinto ay: idolatría sin voz
 
-#### Habacuc 2:20 — El Señor entronizado y la tierra en silencio
+Habacuc 2:20 — El Señor entronizado y la tierra en silencio
 
-### **HABACUC 3 MEMORIA Y ALABANZA ANTE LA FIDELIDAD DEL SEÑOR**
+**HABACUC 3 MEMORIA Y ALABANZA ANTE LA FIDELIDAD DEL SEÑOR**
 
-#### Habacuc 3:1 — Oración en forma de cántico
+Habacuc 3:1 — Oración en forma de cántico
 
-#### Habacuc 3:2 — Temor reverente y recuerdo de las obras del Señor
+Habacuc 3:2 — Temor reverente y recuerdo de las obras del Señor
 
-#### Habacuc 3:3–7 — Manifestación histórica del Señor
+Habacuc 3:3–7 — Manifestación histórica del Señor
 
-#### Habacuc 3:8–11 — El poder del Señor sobre la creación
+Habacuc 3:8–11 — El poder del Señor sobre la creación
 
-#### Habacuc 3:12–15 — Salvación realizada a favor de su pueblo
+Habacuc 3:12–15 — Salvación realizada a favor de su pueblo
 
-#### Habacuc 3:16 — Temblor interior ante la acción divina
+Habacuc 3:16 — Temblor interior ante la acción divina
 
-#### Habacuc 3:17–18 — Gozo independiente de las circunstancias
+Habacuc 3:17–18 — Gozo independiente de las circunstancias
 
-#### Habacuc 3:19 — Fortaleza y seguridad en el Señor
+Habacuc 3:19 — Fortaleza y seguridad en el Señor
 
-### **CONCLUSIÓN**
+**CONCLUSIÓN**
 
-### **APÉNDICE**
+**APÉNDICE**
 
-### **BIBLIOGRAFÍA**
+**BIBLIOGRAFÍA**
 
 # Haré un Obra
 
@@ -144,134 +144,126 @@ Date: "2026-02-10"
 
 ## **Yo haré una obra**
 
-### El libro de **Habacuc** no comienza con una respuesta de Dios, sino con una queja del profeta. Tampoco comienza con una explicación divina, sino con una descripción humana de la realidad.
+El libro de **Habacuc** no comienza con una respuesta de Dios, sino con una queja del profeta. Tampoco comienza con una explicación divina, sino con una descripción humana de la realidad.
 
-### Habacuc ve violencia.
+Habacuc ve violencia.
 
-###  Ve injusticia.
+Ve injusticia.
 
-###  Ve una ley debilitada y una justicia torcida.
+Ve una ley debilitada y una justicia torcida.
 
-### Su diagnóstico no es superficial.
+Su diagnóstico no es superficial.
 
-###  El problema no es que Habacuc esté inventando una crisis, sino que **está interpretando esa crisis desde una justicia humana**.
+El problema no es que Habacuc esté inventando una crisis, sino que **está interpretando esa crisis desde una justicia humana**.
 
-### Este libro no fue escrito para negar la realidad de Judá, sino para confrontar **la manera en que esa realidad es evaluada**.
+Este libro no fue escrito para negar la realidad de Judá, sino para confrontar **la manera en que esa realidad es evaluada**.
 
-## Dios habla antes de explicar
+## ¿Porqué Dios habla antes de explicar?
 
-### Cuando Dios responde, no comienza validando el análisis del profeta. No empieza justificando Su proceder. No entra en diálogo moral. Dios declara: “*Yo haré una obra*.”
+Cuando Dios responde, no comienza validando el análisis del profeta. No empieza justificando Su proceder. No entra en diálogo moral. Dios declara: “*Yo haré una obra*.”
 
-### Esa frase no tranquiliza. Descoloca. Interrumpe. Antes de explicar *por qué*, Dios afirma *qué* hará. Antes de responder a la justicia humana, Dios establece Su soberanía.
+Esa frase no tranquiliza. Descoloca. Interrumpe. Antes de explicar *por qué*, Dios afirma *qué* hará. Antes de responder a la justicia humana, Dios establece Su soberanía.
 
-### Este manual se rige por ese orden. El error no está en ver, sino en medir.  Habacuc ve correctamente la violencia en Judá. Pero **mide a Dios** usando esa violencia como punto de referencia.
+Este manual se rige por ese orden. El error no está en ver, sino en medir.  Habacuc ve correctamente la violencia en Judá. Pero **mide a Dios** usando esa violencia como punto de referencia.
 
-#### Su lógica es comparativa: Judá es injusta, Babilonia es más injusta, Por lo tanto, Judá debería ser tratada con mayor indulgencia, Ese razonamiento no niega el pecado. Lo **gradúa**.
+- Su lógica es comparativa: Judá es injusta, Babilonia es más injusta, Por lo tanto, Judá debería ser tratada con mayor indulgencia, Ese razonamiento no niega el pecado. Lo **gradúa**.
 
-#### Aquí comienza el conflicto central del libro: no entre justicia e injusticia, sino entre **justicia humana y justicia divina**.
-
-#### Este libro no resuelve la tensión — la sostiene. Habacuc no recibe una explicación que armonice todo. Recibe una redefinición de cómo se vive **cuando la justicia no se entiende**.
-
-#### Por eso, este estudio: no apresura conclusiones, no suaviza el escándalo del texto, no convierte la fe en comprensión, La fe que emerge en Habacuc no es fe en un sistema explicado, sino **confianza en Dios sin resolución moral completa**.
-
-## Cómo leer este manual
-
-### Este manual sigue el texto: verso por verso, frase por frase cuando sea necesario. No busca defender a Habacuc. Tampoco busca justificar a Dios. Busca permitir que el texto haga lo que fue escrito para hacer: **confrontar al lector**.
-
-#### Porque el lector moderno suele repetir el mismo error: medir a Dios con su propia justicia.
+- ### Aquí comienza el conflicto central del libro: no entre justicia e injusticia, sino entre **justicia humana y justicia divina**.
 
 
-## Declaración rectora del estudio
+- ### Este libro no resuelve la tensión — la sostiene. Habacuc no recibe una explicación que armonice todo. Recibe una redefinición de cómo se vive **cuando la justicia no se entiende**.
 
-### Habacuc comienza midiendo a Dios según su sentido de justicia. Termina confiándose a Dios a pesar de una justicia no resuelta. Entre esos dos puntos, ocurre la confrontación. Y es ahí donde este estudio invita al lector a permanecer.
+
+- ### Por eso, este estudio: no apresura conclusiones, no suaviza el escándalo del texto, no convierte la fe en comprensión, La fe que emerge en Habacuc no es fe en un sistema explicado, sino **confianza en Dios sin resolución moral completa**.
+
+
+## Cómo leer Habacuc verso por verso
+
+Este manual sigue el texto: verso por verso, frase por frase cuando sea necesario. No busca defender a Habacuc. Tampoco busca justificar a Dios. Busca permitir que el texto haga lo que fue escrito para hacer: **confrontar al lector**.
+
+Porque el lector moderno suele repetir el mismo error: medir a Dios con su propia justicia.
+
+
+## La diferencia entre describir la realidad y comprenderla
+
+Habacuc comienza midiendo a Dios según su sentido de justicia. Y termina confiándose a Dios a pesar de una justicia no resuelta. Entre esos dos puntos, ocurre la confrontación. Y es ahí donde este estudio invita al lector a permanecer.
 
 # **MARCO HISTÓRICO Y CONTEXTO**
 
 ## El libro y su carácter
 
-### El libro de **Habacuc** es distinto a la mayoría de los profetas.
+El libro de **Habacuc** es distinto a la mayoría de los profetas.
 
-### Aquí: el profeta **no habla al pueblo** de parte de Dios, sino que **habla con Dios** en medio de una crisis histórica real. El texto conserva ese diálogo sin suavizarlo.
+Aquí: el profeta **no habla al pueblo** de parte de Dios, sino que **habla con Dios** en medio de una crisis histórica real. El texto conserva ese diálogo sin suavizarlo.
 
-###  No edita la incomodidad del profeta ni justifica de inmediato las acciones divinas.
+No edita la incomodidad del profeta ni justifica de inmediato las acciones divinas.
 
 ## El autor: Habacuc
 
-### Poco se nos dice de Habacuc fuera de este libro.
+Poco se nos dice de Habacuc fuera de este libro.
 
-### No se menciona: su linaje, su ciudad, su oficio específico (sacerdote, profeta de corte, etc.).
+No se menciona: su linaje, su ciudad, su oficio específico (sacerdote, profeta de corte, etc.).
 
-### Esto no es una carencia, sino una señal literaria importante: El peso del libro no recae en quién es Habacuc, sino en cómo responde a Dios. Habacuc representa al creyente que: conoce el carácter de Dios, reconoce la corrupción a su alrededor, pero **evalúa la obra divina desde un marco humano de justicia**.
+Esto no es una carencia, sino una señal literaria importante: El peso del libro no recae en quién es Habacuc, sino en cómo responde a Dios. Habacuc representa al creyente que: conoce el carácter de Dios, reconoce la corrupción a su alrededor, pero **evalúa la obra divina desde un marco humano de justicia**.
 
 ## Marco histórico general
 
-### El libro se sitúa **a finales del siglo VII a.C.**, aproximadamente entre **609 y 605 a.C.**
+El libro se sitúa **a finales del siglo VII a.C.**, aproximadamente entre **609 y 605 a.C.**
 
-### Este es un período de **transición violenta** en el Cercano Oriente:
+Este es un período de **transición violenta** en el Cercano Oriente:
 
-#### Asiria está colapsando
-
-#### Nínive cae en el año 612 a.C.
-
-#### Babilonia emerge rápidamente como potencia dominante
-
-#### Egipto intenta mantener influencia en Judá
-
-#### Judá se encuentra políticamente vulnerable y espiritualmente deteriorada.
+- Asiria está colapsando
+- Nínive cae en el año 612 a.C.
+- Babilonia emerge rápidamente como potencia dominante
+- Egipto intenta mantener influencia en Judá
+- Judá se encuentra políticamente vulnerable y espiritualmente deteriorada.
 
 ## Judá bajo el rey Joacim
 
-### El reinado de **Joacim (609–598 a.C.)** es clave para entender Habacuc.
+El reinado de **Joacim (609–598 a.C.)** es clave para entender Habacuc.
 
-### Características del período:
+Características del período:
 
-#### injusticia institucional
+- Injusticia institucional
+- Opresión económica
+- Violencia interna
+- Desprecio por la ley de Dios
+- Represión de los profetas
 
-#### opresión económica
+Otros profetas contemporáneos (como Jeremías) describen este tiempo como uno de: corrupción abierta, liderazgo explotador, falsa seguridad religiosa, Habacuc **no exagera** cuando habla de violencia.
 
-#### violencia interna
-
-#### desprecio por la ley de Dios
-
-#### represión de los profetas
-
-### Otros profetas contemporáneos (como Jeremías) describen este tiempo como uno de: corrupción abierta, liderazgo explotador, falsa seguridad religiosa, Habacuc **no exagera** cuando habla de violencia.
-
-###  Su descripción de la realidad es históricamente creíble.
+Su descripción de la realidad es históricamente creíble.
 
 ## El problema no es la violencia — es la interpretación
 
-### Este punto es crucial para todo el manual: El libro **no cuestiona si Judá es culpable**. Eso está fuera de discusión.
+Este punto es crucial para todo el manual: El libro **no cuestiona si Judá es culpable**. Eso está fuera de discusión.
 
-### La tensión surge cuando Habacuc **interpreta** esa culpa y **evalúa la respuesta de Dios**.
+La tensión surge cuando Habacuc **interpreta** esa culpa y **evalúa la respuesta de Dios**.
 
-#### Su marco implícito es:
+Su marco implícito es:
 
-##### Dios debería actuar según **comparación moral**
-
-##### Dios debería castigar al más malo primero
-
-##### Dios debería explicar Su justicia antes de ejercerla
-
-##### Ese marco no es pagano. Es **religioso**.
+- Dios debería actuar según **comparación moral**
+- Dios debería castigar al más malo primero
+- Dios debería explicar Su justicia antes de ejercerla
+- Ese marco no es pagano. Es **religioso**.
 
 ## Babilonia como instrumento histórico
 
-### Cuando Dios menciona a Babilonia: no la presenta como justa, no la limpia moralmente, no la convierte en modelo. La describe tal como es: violenta, arrogante, auto-legitimada con una justicia que “procede de sí misma”.
+Cuando Dios menciona a Babilonia: no la presenta como justa, no la limpia moralmente, no la convierte en modelo. La describe tal como es: violenta, arrogante, auto-legitimada con una justicia que “procede de sí misma”.
 
-### La sorpresa del libro no es que Babilonia sea mala. La sorpresa es que **Dios se atribuya la acción histórica** sin explicarse.
+La sorpresa del libro no es que Babilonia sea mala. La sorpresa es que **Dios se atribuya la acción histórica** sin explicarse.
 
 ## Por qué este contexto es indispensable
 
-### Sin este marco histórico: Habacuc parece solo emocional, Dios parece arbitrario, la fe parece ciega.
+Sin este marco histórico: Habacuc parece solo emocional, Dios parece arbitrario, la fe parece ciega.
 
-#### Con este marco: la violencia es real, la crisis es concreta, la confrontación es inevitable. El lector queda preparado para leer el texto **sin domesticarlo**.
+Con este marco: la violencia es real, la crisis es concreta, la confrontación es inevitable. El lector queda preparado para leer el texto **sin domesticarlo**.
 
-### **Puente hacia el estudio textual**
+**Puente hacia el estudio textual**
 
-#### Con el contexto establecido, el lector ahora está listo para entrar al texto y enfrentar la primera pregunta real del libro: ¿Puede una descripción correcta de la realidad producir una conclusión incorrecta sobre Dios?
+###### Con el contexto establecido, el lector ahora está listo para entrar al texto y enfrentar la primera pregunta real del libro: ¿La realidad de las circunstancias pueden llevar una conclusión correcta sobre Dios?
 
-#### Esa pregunta gobierna Habacuc 1:1–4.
+###### Esa pregunta gobierna Habacuc 1:1–4.
 
 # HABACUC 1:1 — TÍTULO Y MARCO PROFÉTICO
 
