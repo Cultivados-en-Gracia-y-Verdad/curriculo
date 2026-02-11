@@ -566,86 +566,91 @@ La respuesta no explica el mal, anuncia una acción inesperada.
 Porque he aquí, yo levanto a los caldeos, nación cruel y presurosa, que recorre la anchura de la tierra para poseer moradas que no son suyas.
 
 #### Porque he aquí
-#### Esta expresión introduce **explicación**, pero no una justificación. Dios conecta el versículo directamente con 1:5: "*Yo haré una obra*, *Porque he aquí…*"
+##### Esta expresión introduce **explicación**, pero no una justificación. Dios conecta el versículo directamente con 1:5: "*Yo haré una obra*, *Porque he aquí…*"
 
-#### El “*porque*” no significa "esto te convencerá". Sino: "esto es lo que estoy haciendo". La lógica sigue siendo **divina**, no negociada.
+##### El *porque* no significa "esto te convencerá". Sino: "esto es lo que estoy haciendo". La lógica sigue siendo **divina**, la iniciativa viene solo de Dios, no de Dios y el hombre.
 
-### Habacuc 1:6b “*yo levanto*"
+#### yo levanto
 
-#### El verbo es decisivo. Dios no dice: “permito”, o “tolero” o “uso lo que ya existe”.  Dice: "*yo levanto*".
+##### El verbo es decisivo. Dios no dice: “permito”, o “tolero” o “uso lo que ya existe”.  Dice: *yo levanto*.
 
-#### Esto atribuye a Dios: iniciativa histórica, dirección soberana, control del proceso. La obra no es reactiva. Es **intencional**.
+##### Esto atribuye a Dios: iniciativa histórica, dirección soberana, control del proceso. La obra no es reactiva. Es **intencional**.
 
-### Habacuc 1:6c “*a los caldeos...*"
-#### Aquí aparece el elemento más ofensivo del texto. Dios no introduce una reforma interna, un avivamiento, un juez justo o una corrección gradual. 
+#### a los caldeos...
+##### Aquí aparece el elemento más ofensivo del texto. Dios no introduce una reforma interna, un avivamiento, un juez justo o una corrección gradual. 
 
-#### Introduce a **los caldeos (Babilonia)**. Esto confronta directamente la conclusión de Habacuc en 1:4: "*el impío cerca al justo*". La respuesta de Dios es, en efecto: "sí — y yo estoy actuando por medio de ello". 
+##### Introduce a **los caldeos (Babilonia)**. Esto confronta directamente la conclusión de Habacuc en 1:4: "*el impío cerca al justo*". La respuesta de Dios es, en efecto: "sí — y yo estoy actuando por medio de ello". 
 
-### Habacuc 1:6d  “*nación cruel y presurosa*"
+#### nación cruel y presurosa
 
-#### Dios **no moraliza positivamente** al instrumento. Los describe como: cruel, violento, impetuoso.
+##### Dios **no moraliza positivamente** su instrumento (los caldeos - babilonios). Lo describe como: cruel, violento, impetuoso.
 
-##### Esto es crucial: Dios no redefine el mal como bien, Dios no niega la injusticia del instrumento.  El medio no es justificado para los fines de Dios. 
+- Esto es crucial: Dios no redefine el mal como bien, Dios no niega la injusticia del instrumento.  El medio no es justificado para los fines de Dios.
+- El Señor es tan soberano, que incluso Él utilizará una nación despiadada cómo Babilonia para mostrar Su obra, no solo a Su pueblo Israel, sino al mundo. 
+- Los caldeos pensarían en el poder que tenían, sin considerar que eso es provisto por medio del Señor de señores.
+- ¿Cómo? ¿Porqué? Es algo que Habacuc e Israel estará preguntándose, y veremos cómo el Señor continuará mostrándose.
 
-#### El problema no es que Habacuc se equivoque sobre Babilonia.  El problema es que **no acepta que Dios pueda actuar mediante ella**.
+##### El problema no es que Habacuc se equivoque sobre Babilonia.  El problema es que **no acepta que Dios pueda actuar mediante ella**.
 
-### Habacuc 1:6e “*que recorre la anchura de la tierra*"
+#### que recorre la anchura de la tierra
 
-#### La escala se amplía. Habacuc ha pensado en: Judá, la ley, la justicia local.  Dios introduce expansión, alcance global, historia internacional.  
+##### La escala se amplía. Habacuc ha pensado en: Judá, la ley, la justicia local.  Dios introduce expansión, alcance global, historia internacional.  
 
-#### La justicia de Dios **no está limitada** a las fronteras del pacto.
+##### La justicia de Dios **no está limitada** a las fronteras del pacto, esta es la manera en la que Dios obra, va conectada a Su capacidad, Omnipotente.
 
-### Habacuc 1:6f “*para poseer moradas que no son suyas*"
+#### para poseer moradas que no son suyas
 
-#### Aquí se describe el carácter injusto del instrumento. Babilonia toma lo que no le pertenece, invade, despoja. 
+##### Aquí se describe el carácter injusto del instrumento. Babilonia toma lo que no le pertenece, invade, despoja. 
 
-#### Dios no lo suaviza. Lo declara abiertamente. Esto elimina cualquier intento de justificar a Babilonia.
+##### Dios no lo suaviza. Lo declara abiertamente. Esto elimina cualquier intento de justificar a Babilonia.
 
-#### Habacuc 1:6 hace algo muy importante: **Confirma el diagnóstico de Habacuc sobre la injusticia, pero niega su conclusión sobre cómo debe actuar Dios.** La violencia es real. La injusticia es real. El instrumento es injusto.
+##### Habacuc 1:6 hace algo muy importante: **Confirma el diagnóstico de Habacuc sobre la injusticia, pero niega su conclusión sobre cómo debe actuar Dios.** La violencia es real. La injusticia es real. El instrumento es injusto.
 
-#### Y aun así Dios dice: “*yo levanto*." Este versículo introduce la pregunta que dominará el resto del capítulo: **¿Puede Dios ser justo mientras actúa por medio de un instrumento injusto?**
+##### Y aun así Dios dice: “*yo levanto*." Este versículo introduce la pregunta que dominará el resto del capítulo: **¿Puede Dios ser justo mientras actúa por medio de un instrumento injusto?**
 
-#### Habacuc responderá con una **segunda queja**, no porque no entienda los datos, sino porque **los datos ofenden su sentido de justicia**.
+##### Habacuc responderá con una **segunda queja**, no porque no entienda los datos, sino porque **los datos ofenden su sentido de justicia**. Dentro del pensamiento humano Habacuc esta en lo correcto, pero cómo lo ve el Señor.
 
-#### En 1:6, Dios nombra al instrumento.  En **1:7–11**, Dios lo **describe en detalle**, sin disculpa alguna. Y esa descripción hará la tensión **aún mayor**.
+##### En 1:6, Dios nombra al instrumento.  En **1:7–11**, Dios lo **describe en detalle**, sin disculpa alguna. Y esa descripción hará la tensión **aún mayor**.
 
 ## Habacuc 1:7 Descripción de su autoridad
 
-### Habacuc 1:7 "*Terrible y espantosa es; de ella misma procede su justicia y su dignidad.*"
+### Habacuc 1:7
 
-### Habacuc 1:7a “*Terrible y espantosa es*"
+Terrible y espantosa es; de ella misma procede su justicia y su dignidad.
 
-### Dios describe a los caldeos **sin atenuantes**. No los presenta como disciplinadores justos, correctores necesarios ni instrumentos moralmente neutrales.
+#### Terrible y espantosa es
 
-#### Lo define por lo que es: "*terrible y espantosa*". El énfasis no está en una acción aislada, sino en su **carácter permanente**. La amenaza no es circunstancial; es estructural.
+##### Dios describe a los caldeos **sin atenuantes**. No los presenta como disciplinadores justos, correctores necesarios ni instrumentos moralmente neutrales.
 
-#### Es ineresante el uso del verbo “*es*". El texto no dice: “actúan de manera terrible”, sino: "*terrible y espantosa es*".  Esto señala identidad, no solo conducta. Babilonia no ocasionalmente produce terror — **lo encarna**.
+##### Es interesante el uso del verbo *es*. El texto no dice: “actúan de manera terrible”, sino: "*terrible y espantosa es*".  Esto señala identidad, no solo conducta. Babilonia no ocasionalmente produce terror — **lo encarna**.
 
-### Habacuc 1:7b “*de ella misma procede su justicia*"
+##### Lo define por lo que es: *terrible y espantosa*. El énfasis no está en una acción aislada, sino en su **identidad permanente**. La amenaza no es solo una acción que realizarán, la amenaza viene de lo que son, una nación terrible y espantosa, todo lo que hagan, su andar, será acorde a eso.
 
-#### Esta frase es central para todo el libro. Dios afirma explícitamente que la justicia de Babilonia no proviene de Dios.  No se somete a una ley superior. No responde a un estándar externo.
+#### de ella misma procede su justicia
 
-#### Su justicia se origina en sí misma. Se valida a sí misma, se impone por poder.
+##### Esta frase es central para todo el libro. Dios afirma explícitamente que la justicia de Babilonia no proviene de Dios.  No se somete a una ley superior. No responde a un estándar externo.
 
-#### Esto confirma que Babilonia **no es justa**, ni siquiera instrumentalmente.
+##### Su justicia se origina en sí misma. Se valida a sí misma, se impone por poder.
 
-### Habacuc 1:7c “*y su dignidad*"
+##### Esto confirma que Babilonia **no es justa**, solo es un instrumento utilizado para la obra del Señor. No debemos pensar que Dios necesita u origina la maldad. Más bien, lo que muestra es que ni siquiera la maldad del hombre (en este caso la de los caldeos) afectan quien es el Señor y Su obra, es más, Él puede llevarlo para Sus propósitos.
 
-#### La dignidad (autoridad, honor, legitimidad) sigue la misma lógica.  No le es otorgada. No le es conferida. No le es reconocida desde fuera. Procede de sí misma.
+#### y su dignidad
 
-#### Esto describe un sistema donde el poder define lo correcto, la fuerza se convierte en legitimidad, la victoria sustituye al derecho.
+##### La dignidad (autoridad, honor, legitimidad) sigue la misma lógica.  No le es otorgada. No le es conferida. No le es reconocida desde fuera. Procede de sí misma.
 
-##### Elimina cualquier posible confusión: **Dios no está delegando Su justicia a Babilonia.** **Está actuando por medio de un poder cuya justicia es falsa.**
+##### Esto describe un sistema donde el poder humano define lo correcto, la fuerza humana se convierte en legitimidad, la victoria sustituye al derecho.
 
-#### Esto hace la obra de Dios **más ofensiva**, no menos. En 1:4, Habacuc concluyó: “*la justicia sale torcida*”*. En 1:7, Dios confirma implícitamente, sí, y estoy actuando dentro de sistemas donde la justicia nace torcida.
+- Elimina cualquier posible confusión: **Dios no está delegando Su justicia a Babilonia.** **Está actuando por medio de un poder cuya justicia es falsa, ya que no proviene de Dios.**
 
-#### La diferencia es crucial: Habacuc ve torcedura y concluye inacción divina. Dios ve torcedura y afirma **acción soberana**. 
+##### Esto hace la obra de Dios **más ofensiva** para el pensamiento del "justo" Habacuc, no menos. En 1:4, Habacuc concluyó: “*la justicia sale torcida*”*. En 1:7, Dios confirma implícitamente, sí, y estoy actuando dentro de sistemas donde la justicia nace torcida.
 
-#### Este versículo descarta toda idealización del instrumento. Bloquea cualquier intento de justificar a Babilonia y prepara el terreno para la segunda queja del profeta. 
+##### La diferencia es crucial: Habacuc ve torcedura y concluye que es porque Dios no esta interviniendo. Pero Dios ve torcedura y afirma **acción soberana**, pero no acorde a la justicia de Habacuc.
 
-#### Habacuc no podrá decir: “no sabía cuán injustos eran”. Dios mismo lo ha dicho.
+##### Este versículo descarta toda idealización del instrumento (Babilonia). Bloquea cualquier intento de justificar a Babilonia y prepara el terreno para la segunda queja del profeta. 
 
-##### Después de definir el **carácter moral** de Babilonia, Dios ahora describirá su **velocidad y fuerza militar**. La amenaza no solo es injusta — es **imparable**.
+##### Habacuc no podrá decir: “no sabía cuán injustos eran”. Dios mismo lo ha dicho.
+
+- Después de definir el **carácter moral** de Babilonia, Dios ahora describirá su **velocidad y fuerza militar**. La amenaza que Dios levanta no solo es injusta — es **imparable**.
 
 ## Habacuc 1:8 Comparaciones sobre su rapidez
 
