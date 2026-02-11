@@ -654,40 +654,46 @@ Terrible y espantosa es; de ella misma procede su justicia y su dignidad.
 
 ## Habacuc 1:8 Comparaciones sobre su rapidez
 
-Habacuc 1:8 "*Sus caballos son más veloces que leopardos, y más feroces que lobos nocturnos; sus jinetes se multiplican; vienen de lejos sus jinetes, vuelan como águila que se apresura a devorar.*"
+### Habacuc 1:8
 
-#### Aquí vemos imágenes de velocidad y ferocidad. Dios describe a Babilonia usando **comparaciones animales**, no morales. Empieza con *leopardos* (velocidad súbita), *lobos nocturnos* (ferocidad hambrienta) y el *águila* (dominio desde lo alto, ataque inevitable). 
+Sus caballos son más veloces que leopardos, y más feroces que lobos nocturnos; sus jinetes se multiplican; vienen de lejos sus jinetes, vuelan como águila que se apresura a devorar.
 
-#### Estas imágenes no apelan a ética, apelan a **eficacia violenta**. La fuerza de Babilonia no es reflexiva ni deliberada. Es **rápida, instintiva y devastadora**.
+Aquí vemos imágenes de velocidad y ferocidad. Dios describe a Babilonia usando **comparaciones animales**, no morales. Empieza con *leopardos* (velocidad súbita), *lobos nocturnos* (ferocidad hambrienta) y el *águila* (dominio desde lo alto, ataque inevitable). 
 
-### Habacuc 1:8 “*Sus caballos… sus jinetes*"
+Estas imágenes no apelan a ética, apelan a **eficacia violenta**. La fuerza de Babilonia no es reflexiva ni deliberada. Es **rápida, instintiva y devastadora**.
 
-#### El énfasis se repite: caballos, jinetes, multiplicación, movimiento constante. Esto subraya su capacidad militar organizada, su superioridad táctica e imposibilidad de contención. 
+#### Sus caballos… sus jinetes
 
-#### La amenaza no es simbólica. Es literal, **operativa y concreta**.
+##### El énfasis se repite: caballos, jinetes, multiplicación, movimiento constante. Esto subraya su capacidad militar organizada, su superioridad táctica e imposibilidad de contención. 
 
-### Habacuc 1:8 “*se multiplican*"
+##### La amenaza no es simbólica. Es literal, **operativa y concreta**.
 
-#### El texto señala **crecimiento**, no estancamiento. Babilonia no es una fuerza momentánea. Está en **expansión activa**. Esto elimina cualquier expectativa de que el problema se resolverá solo. 
+#### se multiplican
 
-#### La violencia no se agotará rápidamente. 
+##### El texto señala **crecimiento**, no estancamiento. Babilonia no es una fuerza momentánea. Está en **expansión activa**. Esto elimina cualquier expectativa de que el problema se resolverá solo. 
 
-### Habacuc 1:8 “*vienen de lejos*"
+##### La violencia no se agotará rápidamente, es una amenaza que estará en crecimiento constante.
 
-#### La distancia no limita su alcance. Esto comunica proyección de poder, ausencia de fronteras seguras, inevitabilidad del contacto. Judá no está aislada por estar alejada. Está **expuesta**.
+#### vienen de lejos
 
-### Habacuc 1:8 “*vuelan como águila que se apresura a devorar*"
+##### La distancia no limita su alcance. Esto comunica proyección de poder, ausencia de fronteras seguras, inevitabilidad del contacto. Judá no está aislada por estar alejada. Está **expuesta**.
 
-#### La imagen final une dos ideas: rapidez y propósito destructivo.  No es movimiento sin dirección. Es avance **con intención de consumir**.
+##### Es importante ponernos a meditar, porqué Dios esta revelando esto a Habacuc y en ultima instancia a Israel. ¿Qué necesitan comprender?
 
-#### La violencia no es accidental. 
+#### vuelan como águila que se apresura a devorar
 
-##### Habacuc 1:8 no añade juicio moral nuevo. Añade **escala y urgencia**. Después de decir que "son injustos" (1:7), Dios ahora añade, "y son imparables".
+##### La imagen final une dos ideas: rapidez y propósito destructivo.  No es movimiento sin dirección. Es avance **con intención de consumir**.
 
-##### Esto intensifica el problema para Habacuc: no solo Dios usa un instrumento injusto, sino uno **que nadie puede detener**.
-###### Este versículo elimina toda esperanza de resistencia humana. Refuerza la asimetría de poder y  prepara la reacción emocional y teológica del profeta.  Habacuc no está siendo consolado. Está siendo **desarmado**.
+##### La violencia no es accidental. 
 
-###### En 1:8, la violencia avanza con rapidez. En **1:9**, se nos dirá **qué produce ese avance**: no solo conquista, sino **terror colectivo**.
+- Habacuc 1:8 no añade juicio moral nuevo. Añade **escala y urgencia**. Después de decir que "son injustos" (1:7), Dios ahora añade, "y son imparables".
+
+- Esto intensifica el problema para Habacuc: no solo Dios usa un instrumento injusto, sino uno **que nadie puede detener**.
+
+  - Este versículo elimina toda esperanza de resistencia humana para Israel y las demás naciones. Dios aclara aún más la diferencia de poder Babilónico con las demás naciones (Israel incluida) 
+  - También prepara la reacción emocional y conocimiento de Dios del profeta Habacuc. Habacuc no está siendo consolado. Está siendo **desarmado**, Dios actuará, pero de una manera completamente diferente a lo que el profeta esperaría.
+
+  - En 1:8, la violencia avanza con rapidez. En **1:9**, se nos dirá **qué produce ese avance**: No solo es una conquista inevitable, también va acompañada**terror colectivo**.
 
 ## Habacuc 1:9 Dirección de su avance
 
