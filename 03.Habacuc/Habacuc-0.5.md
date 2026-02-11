@@ -493,41 +493,48 @@ El problema no es ausencia de religión, sino su ineficacia.
 
 # HABACUC 1:5 — PRIMERA RESPUESTA DEL SEÑOR
 
-## Habacuc 1:5a Llamado a mirar entre las naciones
+## Habacuc 1:5 Llamado a mirar entre las naciones
 
-Habacuc 1:5 
-“*Mirad entre las naciones, observad, asombraos, quedaos asombrados; porque yo haré una obra en vuestros días que aun cuando se os cuente, no la creeréis.*”
+### Habacuc 1:5 
 
-### Habacuc 1:5a “*Mirad… observad*”
-#### Dios comienza Su respuesta **ordenando a mirar**.
+Mirad entre las naciones, observad, asombraos, quedaos asombrados; porque yo haré una obra en vuestros días que aun cuando se os cuente, no la creeréis.
 
-#### Esto es significativo porque Habacuc ya ha insistido, "*me haces ver iniquidad*".  Dios no corrige la vista del profeta;  **corrige el campo de visión**.
+#### Mirad…ved
+##### Dios comienza Su respuesta **ordenando a mirar**.
 
-#### La implicación es clara: el problema no es que Habacuc no vea, sino **qué tan lejos está mirando**.
+##### Esto es significativo porque Habacuc ya ha insistido, *me haces ver iniquidad*.  Dios no corrige la vista del profeta;  **corrige el campo de visión**, la manera en la cual Habacuc estaba mirando.
 
-### Habacuc 1:5b “*...entre las naciones*”
-#### Aquí ocurre un desplazamiento decisivo.
+##### La implicación es clara: el problema no es que Habacuc no vea, sino **qué tan lejos está mirando**.
 
-#### Habacuc ha estado observando Judá, la injusticia interna y la ley dentro del pacto. 
+#### ...entre las naciones
+##### Aquí ocurre un desplazamiento decisivo.
 
-#### Dios lo dirige fuera de ese marco a mirar a las naciones, a la historia y al escenario internacional.  La justicia de Dios no será tratada **localmente primero**,  sino **históricamente**. Esto ya pone en tensión la conclusión de 1:4.
+##### Habacuc ha estado observando Judá, la injusticia interna y la ley dentro del pacto. 
 
-## Habacuc 1:5c Anuncio de una obra futura
+##### Dios lo dirige fuera de ese marco a mirar a las naciones, a la historia y al escenario internacional.  La justicia de Dios no será tratada **localmente primero**,  sino **históricamente**. Esto ya pone en tensión la conclusión de 1:4.
 
-### Habacuc 1:5c “*asombraos, quedaos asombrados*”
-#### La repetición intensifica el efecto. Dios no dice “comprended”, “razonad” o “entended”. 
+## Habacuc 1:5 Anuncio de una obra futura
 
-#### Ordena **asombro**.
+#### y asombraos, quedaos asombrados
+##### La repetición intensifica el efecto. Dios no dice “comprended”, “razonad” o “entended”. 
+
+##### Ordena **asombro**.
 
 ##### Esto prepara al profeta — y al lector — no para claridad, sino para **desconcierto**. Lo que Dios hará **no encajará** en el marco de justicia humana.
 
-## Habacuc 1:5d Declaración de incredulidad anticipada
+## Habacuc 1:5 Declaración de incredulidad anticipada
 
-### Habacuc 1:5d “*porque yo haré una obra*”
-#### Esta es la **declaración central del libro**. El sujeto es **yo**. La acción es **haré**, pero  la obra no se define.  Dios no promete explicación. Promete **acción soberana**. Esta frase **no responde** a la queja de Habacuc; la **interrumpe**.
+#### porque yo haré una obra
+##### Esta es la **declaración central del libro**. El sujeto es **yo**. La acción es **haré**, pero  la obra no se define.  Dios no promete explicación. Promete **acción soberana**. Esta frase **no responde** a la queja de Habacuc; la **interrumpe**.
 
-### Habacuc 1:5e “*en vuestros días*”
-#### La obra no es teórica ni distante. Es contemporánea, inminente, históricamente concreta. Dios no calma la crisis descrita por Habacuc. La **intensifica**. La violencia que preocupa al profeta no desaparecerá antes de que la obra comience.
+##### Habacuc a estado basando su pensamiento en base a lo que a estado viendo, esto lo llevo a unas concluciones equivocadas de Dios y cómo el actua, Habacuc incluso llegó a concluir en cómo Dios debería actuar.
+
+##### Ahora Dios estará mostrándose a Habacuc, no por medio de lo que Habacuc piensa que es lo importante, sino a través de ver lo que Dios hará, y desde ahí verá quien es Dios y cómo el actúa entonces.
+
+#### en vuestros días
+##### La obra no es teórica ni distante. Es contemporánea, inminente, históricamente concreta. Dios no calma la crisis descrita por Habacuc. La **intensifica**. La violencia que preocupa al profeta no desaparecerá antes de que la obra comience.
+
+##### Dios no atiende el clamor de Habacuc, Él estará actuando en esas circunstancias.
 
 ### Habacuc 1:5f “*que aun cuando se os cuente, no la creeréis*"
 #### Esta cláusula es crucial. Dios declara de antemano: que la explicación no producirá aceptación.  La información no resolverá el conflicto. El problema no es ignorancia.  Incluso con explicación, la obra seguirá siendo **increíble** para el marco humano.
