@@ -534,36 +534,38 @@ Mirad entre las naciones, observad, asombraos, quedaos asombrados; porque yo har
 #### en vuestros días
 ##### La obra no es teórica ni distante. Es contemporánea, inminente, históricamente concreta. Dios no calma la crisis descrita por Habacuc. La **intensifica**. La violencia que preocupa al profeta no desaparecerá antes de que la obra comience.
 
-##### Dios no atiende el clamor de Habacuc, Él estará actuando en esas circunstancias.
+##### Dios no actuará como Habacuc piensa que el Señor debería actuar, Él obrará cómo quien es Él no en base al pensamiento de Habacuc o de las circunstancias.
 
-### Habacuc 1:5f “*que aun cuando se os cuente, no la creeréis*"
-#### Esta cláusula es crucial. Dios declara de antemano: que la explicación no producirá aceptación.  La información no resolverá el conflicto. El problema no es ignorancia.  Incluso con explicación, la obra seguirá siendo **increíble** para el marco humano.
+#### que aun cuando se os cuente, no la creeréis
+##### Esta cláusula es crucial. Dios declara de antemano: que la explicación no producirá aceptación.  La información no resolverá el conflicto. El problema no es ignorancia.  Incluso con explicación, la obra seguirá siendo **increíble** para el pensamiento humano.
 
-#### Habacuc 1:5 **no valida** la conclusión de 1:4 ni la refuta explícitamente. La **ignora**.
+##### Habacuc 1:5 **no valida** la conclusión de 1:4 ni la refuta explícitamente. La **ignora**. No se trata del pensamiento del "justo" Habacuc o la situación de la injusticia en Israel o la opresión que experimentaba. Se trata de Dios siendo el Señor y obrando.
 
-#### Dios no entra en el razonamiento del profeta. Establece una nueva realidad desde Su soberanía.
+##### Dios no entra en el razonamiento del profeta. Establece una nueva realidad desde Su soberanía.
 
-#### Este versículo rompe la lógica humana, desplaza el marco de justicia, introduce acción sin defensa y prepara al lector para el escándalo. A partir de aquí, el libro ya no trata de: ¿por qué Dios no actúa? sino, **¿qué hace Dios cuando actúa de una manera que no aceptamos?**
+##### Este versículo rompe la lógica humana, desplaza el marco de justicia, introduce acción sin defensa y prepara al lector para el escándalo. A partir de aquí, el libro ya no trata de: ¿por qué Dios no actúa? sino, **¿qué hace Dios cuando actúa de una manera que no aceptamos?**
 
-##### Después de declarar "Yo haré una obra", Dios ahora revelará **cuál es esa obra**. Y será exactamente lo que Habacuc no considera compatible con la justicia.
+- Después de declarar "Yo haré una obra", Dios ahora revelará **cuál es esa obra**. Y será exactamente lo que Habacuc no considera compatible con la justicia, su justicia.
 
 ## En Síntesis (Habacuc 1:5)
 
-### Dios afirma que ya está obrando en la historia.
+Dios afirma que ya está obrando en la historia.
 
-### La obra divina supera la capacidad de comprensión humana.
+La obra divina supera la capacidad de comprensión humana.
 
-### La incredulidad posible no es moral, sino perceptiva.
+La incredulidad posible no es moral, sino perceptiva.
 
-### La respuesta no explica el mal, anuncia una acción inesperada.
+La respuesta no explica el mal, anuncia una acción inesperada.
 
 # HABACUC 1:6–11 — DESCRIPCIÓN DEL INSTRUMENTO LEVANTADO POR DIOS
 
 ## Habacuc 1:6 Declaración del levantamiento de los caldeos
 
-Habacuc 1:6 “*Porque he aquí, yo levanto a los caldeos, nación cruel y presurosa, que recorre la anchura de la tierra para poseer moradas que no son suyas.*”
+### Habacuc 1:6 
 
-### Habacuc 1:6a “*Porque he aquí*"
+Porque he aquí, yo levanto a los caldeos, nación cruel y presurosa, que recorre la anchura de la tierra para poseer moradas que no son suyas.
+
+#### Porque he aquí
 #### Esta expresión introduce **explicación**, pero no una justificación. Dios conecta el versículo directamente con 1:5: "*Yo haré una obra*, *Porque he aquí…*"
 
 #### El “*porque*” no significa "esto te convencerá". Sino: "esto es lo que estoy haciendo". La lógica sigue siendo **divina**, no negociada.
