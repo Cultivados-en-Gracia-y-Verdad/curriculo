@@ -690,36 +690,38 @@ Estas imágenes no apelan a ética, apelan a **eficacia violenta**. La fuerza de
 
 - Esto intensifica el problema para Habacuc: no solo Dios usa un instrumento injusto, sino uno **que nadie puede detener**.
 
-  - Este versículo elimina toda esperanza de resistencia humana para Israel y las demás naciones. Dios aclara aún más la diferencia de poder Babilónico con las demás naciones (Israel incluida) 
+  - Este versículo elimina toda esperanza de fortaleza humana para Israel y las demás naciones. Dios aclara aún más la diferencia de poder Babilónico con las demás naciones (Israel incluida).
   - También prepara la reacción emocional y conocimiento de Dios del profeta Habacuc. Habacuc no está siendo consolado. Está siendo **desarmado**, Dios actuará, pero de una manera completamente diferente a lo que el profeta esperaría.
 
-  - En 1:8, la violencia avanza con rapidez. En **1:9**, se nos dirá **qué produce ese avance**: No solo es una conquista inevitable, también va acompañada**terror colectivo**.
+  - En 1:8, la violencia avanza con rapidez. En **1:9**, se nos dirá **qué produce ese avance**: No solo es una conquista inevitable, también va acompañada de un **terror colectivo**.
 
 ## Habacuc 1:9 Dirección de su avance
 
-Habacuc 1:9 
-"*Toda ella vendrá para violencia; el terror de sus rostros va hacia adelante, y recogerán cautivos como arena.*"
+### Habacuc 1:9 
 
-### Habacuc 1:9a “*Toda ella vendrá para violencia*"
+Toda ella vendrá para violencia; el terror de sus rostros va hacia adelante, y recogerán cautivos como arena.
 
-#### La frase es totalizante. No dice que “algunos vendrán” o “en ciertos casos habrá violencia”.  Dice "*toda ella*". 
+#### Toda ella vendrá para violencia
 
-#### La violencia no es un exceso ocasional. Es el **propósito dominante** del avance. Esto confirma que Babilonia no es un instrumento correctivo limitado.  No opera con moderación, más aún, no distingue proporcionalmente.
+##### La frase es totalizante. No dice que “algunos vendrán con violencia” o “en ciertos casos habrá violencia”.  Dice "*toda ella*". 
 
-### Habacuc 1:9 “*vendrá para violencia*"
+##### La violencia no es ocasional. El **propósito dominante y único** del avance es la violencia. Esto confirma que Babilonia no es un instrumento correctivo de un solo momento.  No operará con moderación, su actuar será completamente violento.
 
-#### La violencia no es un efecto secundario. Es el **fin**. El movimiento tiene dirección clara: no viene a administrar justicia, no viene a restaurar orden, viene **para violencia**.
+#### vendrá para violencia
 
-##### Esto intensifica la confrontación: Dios no solo levanta un instrumento injusto, sino uno cuya finalidad es destructiva.
-### Habacuc 1:9 “*el terror de sus rostros va hacia adelante*"
+##### La violencia no es un efecto secundario. Es el **fin**. El movimiento tiene dirección clara: no viene a administrar justicia, no viene a restaurar orden, viene **para violencia**.
 
-#### Aquí la violencia se vuelve **psicológica**. No es solo lo que hacen, sino lo que **producen al aparecer**.
+- Esto intensifica la confrontación: Dios no solo levanta un instrumento injusto, sino uno cuya finalidad es destructiva. Recordemos que Israel no estará excluida de esto, es parte de la violencia que vendrá por parte de los caldeos.
 
-##### El terror precede a la acción. Paraliza antes del golpe - domina incluso antes del contacto. La conquista comienza **en la mirada**, no en la espada.
+#### el terror de sus rostros va hacia adelante
 
-### Habacuc 1:9 “*va hacia adelante*"
+##### Aquí la violencia se vuelve **psicológica**. No es solo lo que hacen, sino lo que **producen al aparecer**.
 
-#### Nada los detiene. El terror no retrocede, no se repliega, no se contiene. Esto refuerza la idea de inevitabilidad introducida en 1:8.
+- El terror precede a la acción. Paraliza antes del golpe - domina incluso antes del contacto. La conquista comienza **en la mirada**, no en la espada.
+
+#### va hacia adelante
+
+##### Nada los detiene. El terror no retrocede, no se repliega, no se contiene. Esto refuerza el futuro inevitable para Israel introducida en 1:8.
 
 ### Habacuc 1:9 “*y recogerán cautivos como arena*"
 
