@@ -87,7 +87,36 @@
   after skip=10pt
 }
 
+% gray shade
+\usepackage{xcolor}
+\usepackage{framed}
 
+\definecolor{shadecolor}{gray}{0.95}
+
+\newenvironment{Shaded}
+  {\begin{snugshade}}
+  {\end{snugshade}}
+
+% --- Pandoc compatibility environments ---
+\usepackage{fancyvrb}
+\usepackage{framed}
+
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{
+  commandchars=\\\{\}
+}
+
+\makeatletter
+\@ifundefined{Shaded}{
+  \newenvironment{Shaded}
+    {\begin{quote}}
+    {\end{quote}}
+}{}
+\makeatother
+
+\usepackage{graphicx}
+
+% Pandoc compatibility (pandoc >= 3.2.1)
+\providecommand{\pandocbounded}[1]{#1}
 
 % ============================
 % LEVEL 5 HEADING (COMMENTARY)
@@ -185,7 +214,7 @@
   topsep=0pt,
   parsep=0pt,
   partopsep=0pt,
-  after=\vspace{-0.5em}  % Manually reduce extra space after list
+  after=\vspace{-0.1em}  % Manually reduce extra space after list
 }
 % footnotes
 
