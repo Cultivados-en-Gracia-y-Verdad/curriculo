@@ -306,9 +306,9 @@ La carga que vio el profeta Habacuc.
 
 ##### Este versículo hace tres cosas fundamentales: Autoriza la queja, No es un arrebato impulsivo. Ancla el libro en la realidad. Lo que sigue no es abstracto.
 
-###### Con el peso establecido, el texto ahora permite que el profeta **hable**. 
+- Con el peso establecido, el texto ahora permite que el profeta **hable**. 
 
-###### La pregunta que abre el libro no será,  “¿Existe la injusticia?” sino, "¿Qué hace Dios con ella?". 
+- La pregunta que abre el libro no será,  “¿Existe la injusticia?” sino, "¿Qué hace Dios con ella?". 
 
 ## En Síntesis (Habacuc 1:1)
 
@@ -324,170 +324,172 @@ La tensión del libro queda legitimada como palabra revelada.
 
 ## Habacuc 1:2 Pregunta dirigida al Señor
 
-Habacuc 1:2 
-"*¿Hasta cuándo, SEÑOR, clamaré, y no oirás; daré voces a ti a causa de la violencia, y no salvarás?*"
+### Habacuc 1:2
 
-### Habacuc 1:2a “*¿Hasta cuándo…?*”
-#### La primera palabra hablada en el libro es una **pregunta de duración**. Habacuc no pregunta: *si* Dios actúa, *si* Dios es justo, *si* Dios existe.
+¿Hasta cuándo, SEÑOR, clamaré, y no oirás; daré voces a ti a causa de la violencia, y no salvarás?
 
-#### Pregunta **cuánto tiempo**. Esto presupone algo importante: Habacuc **espera** que Dios actúe. Habacuc **asume** que la situación ya ha excedido un límite aceptable. La pregunta no es neutral. Es una **acusación implícita de demora**.
+#### ¿Hasta cuándo…
+##### La primera palabra hablada en el libro es una **pregunta de duración**. Habacuc no pregunta: *si* Dios actúa, *si* Dios es justo, *si* Dios existe.
 
-### Habacuc 1:2b “*SEÑOR...*”
-#### Habacuc dirige su queja al **SEÑOR** (YHWH), no a una fuerza abstracta. Esto indica una relación de pacto, confianza previa y conocimiento del carácter de Dios. 
+##### Pregunta **cuánto tiempo**. Esto presupone algo importante: Habacuc **espera** que Dios actúe. Habacuc **asume** que la situación ya ha excedido un límite aceptable. La pregunta no es neutral, es una **acusación implícita de demora**.
 
-#### La queja **no es incrédula**. Es **teológicamente informada**. Eso hará la confrontación más seria, no menos.
+#### SEÑOR
+##### Habacuc dirige su queja al **SEÑOR** (YHWH), no a una fuerza abstracta. Esto indica una relación de pacto, confianza previa y conocimiento del carácter de Dios de parte del profeta. 
 
-### Habacuc 1:2c “*clamaré...*”
-#### El verbo indica repetición, insistencia y persistencia en el tiempo.  Habacuc no ha orado una vez. Ha clamado **muchas veces**.
+##### La queja **no es incrédula**. Es **teológicamente informada**. Eso hará la confrontación más seria, no menos.
 
-#### Esto introduce una tensión importante: el silencio de Dios **no es momentáneo**, la frustración ha sido acumulada. 
+#### clamaré
+##### El verbo indica repetición, insistencia y persistencia en el tiempo.  Habacuc no ha orado una vez. Ha clamado **muchas veces**.
 
-### Habacuc 1:2d “*y no oirás*”
-#### Aquí aparece la primera afirmación fuerte del libro. Habacuc no dice: “parece que no oyes” o “no entiendo si escuchas”.
+##### Esto introduce una tensión importante: el silencio de Dios **no es momentáneo**, la frustración ha sido acumulada. 
 
-#### Dice: "*no oirás*."
+#### y no oirás
 
-##### Desde su perspectiva la oración no ha producido respuesta. Dios ha permanecido pasivo. Este es el primer punto donde la percepción comienza a **interpretarse**.
+##### Aquí aparece la primera afirmación fuerte del libro. Habacuc no dice: “parece que no oyes” o “no entiendo si escuchas”.
 
-### Habacuc 1:2e “*daré voces a ti a causa de la violencia*”
-#### Habacuc especifica el motivo de su clamor: violencia. No habla todavía de: idolatría, apostasía, pecado ritual. Habla de algo **visible, social, tangible**.
+##### Dice: *no oirás*.
 
-##### Esto ancla su queja en la realidad histórica: la violencia no es doctrinal, es experimentada, es pública. Hasta aquí, el texto **no cuestiona** esta observación.
+- Desde su perspectiva el clamor incesante no ha producido respuesta de parte del Señor. Dios ha permanecido pasivo. Este es el primer punto donde la percepción de Habacuc lo lleva a una **interpretación**.
 
-### Habacuc 1:2f “*y no salvarás*”
-#### El paralelismo intensifica la acusación: “no oirás”, “no salvarás”. Habacuc no solo acusa a Dios de **no escuchar**, sino de **no intervenir**. La salvación aquí es: concreta, histórica, inmediata. 
+#### daré voces a ti a causa de la violencia
+##### Habacuc especifica el motivo de su clamor: violencia. No habla de: idolatría, apostasía, pecado ritual. Habla de algo **visible, social, tangible**. ¡Violencia!
 
-#### Habacuc espera **acción visible**, no consuelo interno.
+- Esto ancla su queja en la realidad histórica: la violencia no es doctrinal, es experimentada, es pública. Hasta aquí, el texto **no cuestiona** esta observación.
 
-#### Habacuc 1:2 tiene una forma muy definida: pregunta → acusación, clamor → silencio, violencia → ausencia de salvación. 
+#### ...y no salvarás?
+##### El paralelismo intensifica la acusación: “no oirás”, “no salvarás”. Habacuc no solo acusa a Dios de **no escuchar**, sino de **no intervenir**. La salvación aquí es: concreta, histórica, inmediata. 
 
-#### El versículo no explica, no defiende, no resuelve. Solo expone una percepción acumulada.
+##### Habacuc espera **acción visible**, no consuelo interno.
 
-#### Tensión introducida por el versículo. Este versículo establece el problema que gobernará todo el capítulo: Si Dios es justo, ¿por qué permite que la violencia continúe sin intervención visible? 
+##### Habacuc 1:2 tiene una forma muy definida: pregunta → acusación, clamor → silencio, violencia → ausencia de salvación. 
 
-##### Esa pregunta no será respondida de la manera que Habacuc espera. Pero todavía no lo sabemos.
+##### El versículo no explica, no defiende, no resuelve. Solo expone lo que Habacuc llega a persivir.
 
-#### En 1:2, Habacuc acusa a Dios de no oír y no salvar. En 1:3, la queja se intensificará: no solo Dios no actúa, sino que Dios lo obliga a ver. Ahí la tensión aumenta.
+##### Tensión introducida por el versículo. Este versículo establece el problema que gobernará todo el capítulo: Si Dios es justo, ¿por qué permite que la violencia continúe sin intervención visible? 
+
+- Esa pregunta no será respondida de la manera que Habacuc espera. Pero todavía no lo sabemos.
+
+##### En 1:2, Habacuc acusa a Dios de no oír y no salvar. En 1:3, la queja se intensificará: no solo Dios no actúa, sino que Dios lo obliga a ver. Ahí la tensión aumenta.
 
 ## Habacuc 1:3 Descripción de lo que el profeta ve
 
-Habacuc 1:3 
-“*¿Por qué me haces ver iniquidad, y haces que mire la opresión? La destrucción y la violencia están delante de mí; hay contienda y se levanta pleito.*”
+### Habacuc 1:3
 
-### Habacuc 1:3a “*¿Por qué…?*”
-#### Habacuc pasa de "*¿Hasta cuándo?*" (tiempo) a "*¿Por qué?*" (causa). Esto marca una escalada clara. Ya no solo hay demora, ahora hay **responsabilidad atribuida**.
+¿Por qué me haces ver iniquidad, y haces que mire la opresión? La destrucción y la violencia están delante de mí; hay contienda y se levanta pleito.
 
-#### Habacuc no pregunta por el origen del mal en abstracto. Pregunta por **el papel de Dios en su experiencia del mal**.
+#### ¿Por qué…
+##### Habacuc pasa de *¿Hasta cuándo?* (tiempo) a *¿Por qué?* (causa). Esto marca una escalada clara. Habacuc ya no solo cuestiona la demora del Señor, ahora le atribuye la **responsabilidad** de las circunstancias.
 
-### Habacuc 1:3b “*me haces ver...*”
-#### Este es un giro crítico. Habacuc no dice “veo iniquidad” o “hay iniquidad”. 
+##### Habacuc no pregunta por el origen del mal en abstracto. Él pregunta por **el papel de Dios en su experiencia del mal**.
 
-#### Dice: "*me haces ver.*"
+#### me haces ver
+##### Este es un giro crítico. Habacuc no dice “veo iniquidad” o “hay iniquidad”. 
 
-#### Esto implica que Dios no solo permite la situación, Dios expone activamente al profeta a ella. La percepción deja de ser pasiva. Dios es presentado como **agente** de la exposición.
+##### Dice: *me haces ver.*
 
-### Habacuc 1:3c “*iniquidad*”
-#### El término no apunta solo a violencia externa,sino a **distorsión moral**, **culpa**, **perversión**. Habacuc no ve simples fallas sociales. Ve algo **fundamentalmente torcido**.
+##### Esto implica que Dios no solo permite la situación, Dios expone activamente al profeta a ella. La percepción deja de ser pasiva. Dios es presentado como **agente** de la exposición.
 
-#### Hasta aquí el texto no niega esta observación. La carga se intensifica, no se corrige.
+#### me haces ver iniquidad
+##### El término *iniquidad* no apunta solo a violencia externa, sino a **distorsión moral**, **culpa** y **perversión**. Habacuc no ve simples fallas sociales. Ve algo **fundamentalmente torcido**.
 
-### Habacuc 1:3d “*y haces que mire la opresión*”
-#### El paralelismo refuerza la acusación, “*me haces ver*”.  “*haces que mire*” hace entender que no hay escape visual. Habacuc se siente **forzado a contemplar** la injusticia.
+##### Hasta aquí el texto no niega esta observación. La carga se intensifica, no se corrige.
 
-#### Esto sugiere agotamiento, saturación y una carga que no se puede dejar de cargar. 
+#### y haces que mire la opresión
+##### El paralelismo refuerza la acusación, “*me haces ver*”.  “*haces que mire*” hace entender que no hay escape visual. Habacuc se siente **forzado a contemplar** la injusticia y es el Señor el autor de aquello.
 
-### Habacuc 1:3e “*La destrucción y la violencia están delante de mí*”
-#### La injusticia no es ocasional. Está "*delante de mí*". Es constante, es pública, es visible.
+##### Esto sugiere agotamiento, saturación y una carga que no se puede dejar de cargar. 
 
-#### Habacuc no describe una crisis futura. Describe un **presente continuo**.
+#### La destrucción y la violencia están delante de mí
+##### La injusticia no es ocasional. Está *delante de mí*. Es constante, es pública, es visible.
 
-### Habacuc 1:3f “*hay contienda y se levanta pleito*”
-#### Aquí aparece el efecto social: conflicto constante, litigio sin resolución, relaciones desgastadas, justicia reducida a disputa
+##### Habacuc no describe una crisis futura. Describe un **presente continuo**.
 
-#### Esto prepara el terreno para 1:4, donde la ley y la justicia serán directamente nombradas.
+#### hay contienda y se levanta pleito
+##### Aquí aparece el efecto social: conflicto constante, litigio sin resolución, relaciones desgastadas, justicia reducida a disputa
 
-#### En Habacuc 1:3 ocurre algo decisivo: Habacuc comienza a **atribuir su experiencia del mal a Dios**.
+##### Esto prepara el terreno para 1:4, donde la ley y la justicia serán directamente nombradas.
 
-#### No acusa a Dios de causar la iniquidad, pero sí de obligarlo a verla, sostenerla en su campo visual y no intervenir mientras lo expone a ella.  Este es el punto donde la queja **cruza de descripción a imputación**.
+##### En Habacuc 1:3 ocurre algo decisivo: Habacuc comienza a **atribuir su experiencia del mal a Dios**.
 
-#### Habacuc 1:3: intensifica la queja, reduce la distancia entre Dios y la crisis, prepara la acusación sobre la ley y la justicia. 
+##### No acusa a Dios de causar la iniquidad, pero sí de obligarlo a verla, sostenerla en su campo visual y no intervenir mientras lo expone a ella.  Este es el punto donde la queja **cruza de descripción a imputación**.
 
-#### La pregunta implícita ahora es: **Si Dios es santo, ¿por qué me mantiene expuesto a una realidad que no corrige?**
+##### Habacuc 1:3: intensifica la queja, reduce la distancia entre Dios y la crisis, prepara la acusación sobre la ley y la justicia. 
 
-#### Esa pregunta **no será respondida directamente**.
+##### La pregunta implícita ahora es: **Si Dios es santo, ¿por qué me mantiene expuesto a una realidad que no corrige?**
 
-#### Después de acusar a Dios de: no oír (1:2), no salvar (1:2), hacerlo ver iniquidad (1:3), Habacuc ahora sacará una **conclusión estructural**: la ley no funciona y la justicia está torcida.
+##### Esa pregunta **no será respondida directamente**.
+
+##### Después de acusar a Dios de: no oír (1:2), no salvar (1:2), hacerlo ver iniquidad (1:3), Habacuc ahora sacará una **conclusión estructural**: la ley no funciona y la justicia está torcida.
 
 ## Habacuc 1:4  Declaración sobre la ley y la justicia
 
-### Habacuc 1:4 *“Por eso la ley es debilitada, y la justicia no sale jamás; porque el impío cerca al justo, por eso la justicia sale torcida.”*
+### Habacuc 1:4 
 
-### Habacuc 1:4a “*Por eso”*
-#### Esta expresión marca una **conclusión lógica**. Habacuc no está añadiendo información nueva. Está **interpretando** lo que ya ha descrito en 1:2–3.
+Por eso la ley es debilitada, y la justicia no sale jamás; porque el impío cerca al justo, por eso la justicia sale torcida.
 
-#### La frase indica, "dado lo que veo, esta es la conclusión correcta". Aquí la queja deja de ser descriptiva y se vuelve **evaluativa**.
+#### Por eso
 
-### Habacuc 1:4b “*la ley es debilitada*”
-#### Habacuc no afirma que la ley haya desaparecido. Afirma que ha sido **debilitada**.
+##### Esta expresión marca una **conclusión lógica**. Habacuc no está añadiendo información nueva. Está **interpretando** en base a lo que ya ha descrito en 1:2–3.
 
-#### Esto implica que la ley existe, la ley es conocida pero la ley carece de fuerza operativa. El problema no es ignorancia, sino **ineficacia**.
+##### La frase indica, "dado lo que veo, esta es la conclusión correcta". Aquí la queja deja de ser descriptiva y se vuelve **evaluativa**.
 
-### Habacuc 1:4c “*y la justicia no sale jamás*”
-#### La justicia es presentada como algo que debería manifestarse, debería hacerse visible y producir resultados concretos. 
+#### la ley es debilitada
+##### Habacuc no afirma que la ley haya desaparecido. Afirma que ha sido **debilitada**.
 
-#### Pero, según Habacuc, **nunca emerge**.
+##### Esto implica que la ley existe, la ley es conocida pero la ley carece de fuerza operativa. El problema no es ignorancia, sino **ineficacia**.
 
-#### Aquí se introduce una presuposición importante: si la justicia no es visible, entonces no está funcionando. La justicia queda definida por **resultados observables**.
+#### y la justicia no sale jamás
+##### La justicia es presentada como algo que debería manifestarse, debería hacerse visible y producir resultados concretos. 
 
-### Habacuc 1:4d “*porque el impío cerca al justo*”
-#### Habacuc identifica la causa inmediata:
+##### Pero, según Habacuc, **nunca emerge**.
 
-##### el impío rodea
+##### Aquí se introduce una presuposición importante: si la justicia no es visible, entonces no está funcionando. La justicia queda definida por **resultados observables**.
 
-##### el justo queda cercado
+#### porque el impío cerca al justo
+##### Habacuc identifica la causa inmediata:
 
-##### la balanza de poder está invertida
+- El impío rodea
+- El justo queda cercado
+- La balanza de poder está invertida
 
-#### Este es un diagnóstico social. No niega que existan justos pero afirma que están estructuralmente superados. 
+##### Este es un diagnóstico social. No niega que existan justos pero afirma que están estructuralmente superados. 
 
-### Habacuc 1:4e “*por eso la justicia sale torcida*"
-#### La conclusión se repite y se intensifica.
+#### por eso la justicia sale torcida
+##### La conclusión se repite y se intensifica.
 
-#### La justicia no solo tarda y no solo se oculta sino cuando aparece, aparece **distorsionada**. 
+##### La justicia no solo tarda y no solo se oculta sino cuando aparece, aparece **distorsionada**. 
 
-#### Esto sugiere decisiones injustas, veredictos sesgados y un sistema judicial moralmente deformado. 
+##### Esto sugiere decisiones injustas, veredictos sesgados y un sistema judicial moralmente deformado. 
 
-#### Habacuc 1:4 completa un razonamiento cerrado: 
+##### Habacuc 1:4 completa un razonamiento cerrado: 
 
-##### La violencia persistente
+- La violencia persistente
+- El silencio de Dios
+- La injusticia social estructural
 
-##### El silencio de Dios
+##### **Conclusión de Habacuc:** la ley es ineficaz y la justicia está torcida
 
-##### La injusticia social estructural
-
-###### **Conclusión de Habacuc:** la ley es ineficaz y la justicia está torcida
-
-#### Este razonamiento es **coherente desde una lógica humana**. Eso lo hace peligroso. Este versículo responde implícitamente a la pregunta: *¿Cómo debería verse la justicia si Dios estuviera actuando correctamente?*
+##### Este razonamiento es **coherente desde una lógica humana**. Eso lo hace peligroso. Este versículo responde implícitamente a la pregunta: *¿Cómo debería verse la justicia si Dios estuviera actuando correctamente?*
 
 ##### Respuesta de Habacuc es que la ley tendría fuerza, el justo no estaría cercado y la justicia produciría resultados claros. 
 
-###### Tal vez el problema no sea que Dios esté inactivo, sino que Habacuc está confiando en lo equivocado para producir justicia.
+- Tal vez el problema no sea que Dios esté inactivo, sino que Habacuc está confiando en lo equivocado para producir justicia.
 
-#### Este marco será **confrontado**, no afirmado, en 1:5. Después de declarar su conclusión, Habacuc **deja de hablar**.
+##### Este marco será **confrontado**, no afirmado, en 1:5. Después de declarar su conclusión, Habacuc **deja de hablar**.
 
-#### Ahora es Dios quien responde —no corrigiendo la lógica, sino **redefiniendo la realidad**.
+##### Ahora es Dios quien responde —no corrigiendo la lógica, sino **redefiniendo la realidad**.
 
 ## En Síntesis (Habacuc 1:2–4)
 
-### Habacuc denuncia violencia, injusticia y distorsión del derecho.
+Habacuc denuncia violencia, injusticia y distorsión del derecho.
 
-### La queja surge de una percepción prolongada, no momentánea.
+La queja surge de una percepción prolongada, no momentánea.
 
-### Dios es interpelado directamente por su aparente inacción.
+Dios es interpelado directamente por su aparente inacción.
 
-### La ley existe, pero no produce justicia.
+La ley existe, pero no produce justicia.
 
-### El problema no es ausencia de religión, sino su ineficacia.
+El problema no es ausencia de religión, sino su ineficacia.
 
 # HABACUC 1:5 — PRIMERA RESPUESTA DEL SEÑOR
 
