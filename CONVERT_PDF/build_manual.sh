@@ -4,7 +4,7 @@ set -euo pipefail
 # configure these:
 # ================================
 MANUAL_NAME="Romanos 1-8"
-FILE_LOCATION="05.Romanos1-8"
+FILE_LOCATION="../05.Romanos1-8/"
 FILENAME="manual.md"
 # ==================================
 FILE=${FILE_LOCATION}${FILENAME}
@@ -68,6 +68,7 @@ pandoc \
   --quiet \
   --from markdown+fancy_lists+footnotes \
   --to latex \
+  --no-highlight \
   --template=teacher_template.tex \
   --lua-filter=filters/inline_scripture.lua \
   --lua-filter=filters/scripturefont.lua \
@@ -100,6 +101,7 @@ pandoc \
   --quiet \
   --from markdown+fancy_lists+footnotes \
   --to latex \
+  --no-highlight \
   --template=student_template.tex \
   --lua-filter=filters/inline_scripture.lua \
   --lua-filter=filters/scripturefont.lua \
@@ -123,4 +125,4 @@ pdfunite temp/cover_teacher.pdf teacher_manual.pdf "${FILE_LOCATION}${MANUAL_NAM
 echo "▶ ${FILE_LOCATION}${MANUAL_NAME}_manual_maestro(V.${VERSION}).pdf"
 pdfunite temp/cover_student.pdf student_manual.pdf "${FILE_LOCATION}${MANUAL_NAME}_manual_estudiante(V.${VERSION}).pdf"
 
-rm -f temp/*
+#rm -f temp/*

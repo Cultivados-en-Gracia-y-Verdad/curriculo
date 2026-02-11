@@ -23,13 +23,13 @@
     \MakeUppercase
     \sectionrule\\[-0.4em]%
     }
-\titlespacing*{\section}{2em}{4pt plus 2pt minus 1pt}{2pt}
+\titlespacing*{\section}{2em}{4pt plus 2pt minus 1pt}{0pt}
 
 % H2 – SUBSECTION – Bold, 50% black (not uppercase)
 \titleformat{\subsection}[block]
   {\headingfont\bfseries\color{\AnchorColor}\large}
   {}{0pt}{}
-\titlespacing*{\subsection}{2em}{2pt plus 2pt minus 1pt}{0pt}
+\titlespacing*{\subsection}{2em}{2pt plus 2pt minus 1pt}{3pt}
 
 
 % H3 – Scripture reference (e.g. Romanos 1:1)
@@ -57,20 +57,20 @@
 
 % H4 – Anchor word styling: paragraph, spaced tight above & below
 \renewcommand{\paragraph}[1]{%
-  \par\vspace{-0.8em}%
+  \par\vspace{-1.0em}%
   {\ScriptureFont\itshape\normalsize\color{\AnchorColor}\noindent\hspace*{1.5em}«#1»\par}%
   \vspace{-0.7em}%
 }
 
 % Anchorblock environment – handles H4 + H5 together
 \newenvironment{anchorblock}[1]{%
-  \par\vspace{-0.7em}
+  \par\vspace{-0.8em}
 
   % Anchor word
   {\ScriptureFont\itshape\color{\AnchorColor}\normalsize %
    \hspace*{2em}«#1»\par}
 
-  \vspace{-0.1em}
+  \vspace{0.1em}
 
   % Begin indented content (SAFE)
   \begingroup
@@ -99,7 +99,7 @@
 
 % Headingfive stuff
 \usepackage{etoolbox}
-
+\usepackage{setspace}
 % Detect if we're inside an item
 \newif\ifinitem
 \pretocmd{\item}{\initemtrue}{}{}
@@ -109,7 +109,7 @@
 % H5 – each anchor comment (inside anchorblock or standalone)
 \newcommand{\headingfive}[1]{%
   \par\vspace{0.5em}%
-  {\color{\CommentColor}#1\par}%
+  {\color{\CommentColor}\setstretch{1.1}#1\par}%
   \vspace{0.1em}%
 }
 
