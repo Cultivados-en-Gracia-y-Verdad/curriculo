@@ -723,51 +723,53 @@ Toda ella vendrá para violencia; el terror de sus rostros va hacia adelante, y 
 
 ##### Nada los detiene. El terror no retrocede, no se repliega, no se contiene. Esto refuerza el futuro inevitable para Israel introducida en 1:8.
 
-### Habacuc 1:9 “*y recogerán cautivos como arena*"
+#### y recogerán cautivos como arena
 
-#### La imagen final comunica **cantidad y facilidad**: *arena* (incontable), *recogerán* (sin esfuerzo). 
+##### La imagen final comunica **cantidad y facilidad**: *arena* (incontable), *recogerán* (sin esfuerzo). 
 
-#### Los cautivos no son casos excepcionales. Son **resultado masivo y rutinario**. La vida humana queda reducida a un número.
+##### Los cautivos no son casos excepcionales. Son **resultado masivo y rutinario**. La vida humana queda reducida a un número.
 
-#### Habacuc 1:9 elimina cualquier lectura defensiva: La obra de Dios incluye violencia real, terror real, y sufrimiento humano masivo. El texto **no lo justifica**. Tampoco lo minimiza. Simplemente lo afirma.
+##### Habacuc 1:9 elimina cualquier lectura defensiva: La obra de Dios incluye violencia real, terror real, y sufrimiento humano masivo. El texto **no lo justifica**. Tampoco lo minimiza. Simplemente lo afirma.
 
-##### Este versículo profundiza el escándalo moral. Hace insostenible cualquier consuelo superficial y prepara el terreno para la segunda queja del profeta. Si Habacuc tenía dificultades en 1:6–7, aquí el problema se vuelve **intolerable** para su marco de justicia.
+- Este versículo profundiza el escándalo moral. Hace insostenible cualquier consuelo superficial y prepara el terreno para la segunda queja del profeta. Si Habacuc tenía dificultades en 1:6–7, aquí el problema se vuelve **intolerable** para su pensamiento de justicia.
 
-###### En **1:10**, Dios mostrará cómo esta violencia se expresa frente a **autoridades y estructuras de poder**. Los Caldeos no solo dominan pueblos, se burlan de reyes.
+- En **1:10**, Dios mostrará cómo esta violencia se expresa frente a **autoridades y estructuras de poder**. Los Caldeos no solo dominan pueblos, se burlan de reyes.
 
 ## Habacuc 1:10 Actitud frente a reyes y fortalezas
 
-Habacuc 1:10 
-"*Escarnecerá a los reyes, y de los príncipes hará burla; se reirá de toda fortaleza, y levantará terraplén y la tomará.*"
+### Habacuc 1:10 
 
-### Habacuc 1:10 “*Escarnecerá a los reyes*"
+Escarnecerá a los reyes, y de los príncipes hará burla; se reirá de toda fortaleza, y levantará terraplén y la tomará.
 
-#### La violencia de Babilonia no se limita al pueblo común. Se dirige **directamente contra la autoridad**.
+#### Escarnecerá a los reyes
 
-##### Los reyes, símbolos de orden, continuidad y poder—no solo son derrotados, sino **ridiculizados**.
+##### La violencia de Babilonia no se limita al pueblo común. Se dirige **directamente contra la autoridad**.
 
-##### Esto implica: humillación pública, colapso de legitimidad, desmantelamiento del honor político
+- Los reyes, símbolos de orden, continuidad y poder—no solo son derrotados, sino **ridiculizados**.
+- Esto implica: humillación pública, colapso de legitimidad, desmantelamiento del honor político
 
-### Habacuc 1:10 “*y de los príncipes hará burla*"
+#### y de los príncipes hará burla
 
-#### La burla intensifica el desprecio. No hay reconocimiento de jerarquía. No hay respeto por rango o dignidad. Las estructuras que deberían contener el mal, administrar justicia y proteger al pueblo, son tratadas como **irrelevantes**.
+##### La burla intensifica el desprecio. No hay reconocimiento de jerarquía. No hay respeto por rango o dignidad. Las estructuras que deberían contener el mal, administrar justicia y proteger al pueblo, son tratadas como **irrelevantes**.
 
-### Habacuc 1:10 “*se reirá de toda fortaleza*"
+#### se reirá de toda fortaleza
 
-#### Las defensas humanas quedan expuestas como insuficientes. Las murallas, los ejércitos, los sistemas de seguridad, no generan temor en Babilonia. Provocan **risa**.
+##### Las defensas humanas quedan expuestas como insuficientes. Las murallas, los ejércitos, los sistemas de seguridad, no generan temor en Babilonia. Le provocan **risa**.
 
-##### Esto subraya la **futilidad de la seguridad humana** cuando se enfrenta a una fuerza históricamente dominante.
+- Esto subraya la **futilidad de la seguridad humana** cuando se enfrenta a una fuerza históricamente dominante. 
+- No importará la fortaleza de cualquier reino que se encuentre delante de los caldeos, será insignificante ante su poder.
+- Esto traería una mayor angustia al Israel ya debilitada. Ahora vendría una nación como Babilonia con un poder superior nunca antes visto, donde no solo ellos serían afectados, sino todos los reinos conocidos de ese tiempo.
 
-### Habacuc 1:10 “*y levantará terraplén y la tomará*"
+#### y levantará terraplén y la tomará
 
-#### La descripción es práctica, no poética. No es magia. Es técnica militar efectiva.
+##### La descripción es práctica, no poética. No es magia. Es técnica militar efectiva.
 
 ##### Esto comunica determinación, método e inevitabilidad.  La fortaleza no cae por accidente.  Cae porque Babilonia **sabe cómo tomarla**.
 ##### Habacuc 1:10 muestra que ninguna autoridad humana es intocable.  Ningún sistema es suficientemente fuerte. Ningún poder ofrece refugio seguro.
 
 ##### La justicia humana, incluso organizada, no puede detener el avance descrito.
 
-##### Habacuc se quejó de que: “*el impío cerca al justo”*. Aquí Dios muestra que: el impío no solo cerca, **domina completamente**.
+##### Habacuc se quejó de que: *el impío cerca al justo*. Aquí Dios muestra que: el impío no solo cerca, **domina completamente**.
 
 ###### Esto intensifica la tensión: si la justicia ya estaba torcida, ahora está completamente desarmada.
 
@@ -777,49 +779,50 @@ Habacuc 1:10
 
 ## Habacuc 1:11 Declaración final sobre su proceder
 
-Habacuc 1:11 
-"*Luego pasará como el huracán y ofenderá, atribuyendo su fuerza a su dios.*"
+### Habacuc 1:11
 
-### Habacuc 1:11 “*Luego pasará como el huracán*"
+Luego pasará como el huracán y ofenderá, atribuyendo su fuerza a su dios.
 
-#### La imagen enfatiza **velocidad y fugacidad**. Un huracán se mueve rápidamente, devasta, no permanece. Esto introduce un matiz importante: el dominio de Babilonia, aunque abrumador, **no es permanente**. El poder es real, pero **temporal**.
+#### Luego pasará como el huracán
 
-### Habacuc 1:11 “*y ofenderá*"
+##### La imagen enfatiza **velocidad y fugacidad**. Un huracán se mueve rápidamente, devasta, no permanece. Esto introduce un matiz importante: el dominio de Babilonia, aunque abrumador, **no es permanente**. El poder es real, pero **temporal**.
 
-#### Aquí el texto cruza una línea. El verbo indica **culpabilidad**, no simplemente violencia. Hasta este punto se describió la crueldad. Se detalló el terror y se observó la dominación.  Ahora Babilonia **incurre en infracción**.
+#### y ofenderá
 
-##### Esto marca el momento en el que la acción se vuelve culpable, la violencia se convierte en transgresión. Describe el paso de instrumento a delincuente. 
+##### En la Biblia NBLA esta frase es traducida como: *Y se le tendrá por culpable...*
 
-##### Este versículo es crucial porque muestra que Dios *usa* Babilonia (1:6), Dios *describe* Babilonia honestamente (1:7–10), Dios ahora **nombra la culpa de Babilonia** (1:11). 
+##### Aquí el texto cruza una línea. El verbo indica **culpabilidad**, no simplemente violencia. Hasta este punto se describió la crueldad. Se detalló el terror y se observó la dominación.  Ahora Babilonia **incurre en infracción**.
 
-#### Esto evita un peligroso malentendido que aunque Babilonia sea usado como instrumento, nunca es moralmente neutral.
+- Esto marca el momento en el que la acción se vuelve culpable, la violencia se convierte en transgresión. Describe el paso de instrumento a delincuente. 
 
-### Habacuc 1:11 “*atribuyendo su fuerza a su dios*"
+- Este versículo es crucial porque muestra que Dios *usa* Babilonia (1:6), Dios *describe* Babilonia honestamente (1:7–10), Dios ahora **nombra la culpa de Babilonia** (1:11). 
 
-#### Aquí se especifica el delito. Babilonia no sólo actúa violentamente; **reinterpreta su éxito religiosamente**. Su lógica es, somos fuertes, por lo tanto nuestro dios es supremo, por lo tanto nuestro poder está justificado.
-##### Esto no es ignorancia. Es **arrogancia religiosa**. Esta cláusula establece un límite. Dios puede usar soberanamente a Babilonia, pero Babilonia todavía es **responsable**. La soberanía divina no equivale a aprobación moral.
+Esto evita un peligroso malentendido que aunque Babilonia sea usado como instrumento, nunca es moralmente neutral. Dios no pasará por alto la transgresión de Babilonia, cada obra será pagada debidamente por Él, nunca ignorará el pecado.
 
-#### Esta distinción es esencial para todo lo que sigue, especialmente los *cinco ayes* del capítulo 2.
+#### atribuyendo su fuerza a su dios
 
-#### Habacuc 1:11 hace realidad dos cosas **al mismo tiempo**: Dios gobierna la historia y Babilonia es moralmente culpable. El texto se niega a colapsar uno dentro del otro.
+##### Aquí se especifica el delito. Babilonia no sólo actúa violentamente; **reinterpreta su éxito religiosamente**. Su lógica es, somos fuertes, por lo tanto nuestro dios es supremo, por lo tanto nuestro poder está justificado.
+- Esto no es ignorancia. Es **arrogancia religiosa**. Esta cláusula establece un límite. Dios puede usar soberanamente a Babilonia, pero Babilonia todavía es **responsable**. La soberanía divina no equivale a aprobación moral o ignorar el pecado.
 
-##### Este verso: cierra la primera respuesta de Dios, previene la confusión moral y prepara segunda denuncia de Habacuc.  
+##### Esta distinción es esencial para todo lo que sigue, especialmente los ***cinco ayes*** del capítulo 2.
 
-##### Habacuc no puede decir, “Entonces Babilonia debe ser justa”. Pero tampoco puede decir, “Entonces Dios está inactivo”. La tensión persiste, **intencionalmente**.
+##### Habacuc 1:11 hace realidad dos cosas **al mismo tiempo**: Dios gobierna la historia y Babilonia es moralmente culpable.
 
-##### Ahora que Dios ha terminado de hablar, Habacuc responderá nuevamente. Pero su segunda queja será **más aguda**, más teológicamente razonada y más perturbadora que la primera.
+- Este verso: cierra la primera respuesta de Dios, previene la confusión moral y prepara segunda denuncia de Habacuc.  
+- Habacuc no puede decir, “Entonces Babilonia debe ser justa”. Pero tampoco puede decir, “Entonces Dios está inactivo”. La tensión persiste, **intencionalmente**.
+- Ahora que Dios ha terminado de hablar, Habacuc responderá nuevamente. Pero su segunda queja será **más aguda**, más teológicamente razonada y más perturbadora que la primera.
 
 ## En Síntesis (Habacuc 1:6–11)
 
-### Dios identifica explícitamente al instrumento de su obra.
+Dios identifica explícitamente al instrumento de su obra (los caldeos).
 
-### La descripción enfatiza poder, violencia y autosuficiencia.
+La descripción enfatiza el poder, violencia y autosuficiencia de los caldeos.
 
-### El instrumento es eficaz, pero moralmente problemático.
+El instrumento es eficaz, pero no se encuentra eximido de culpa delante del Señor.
 
-### La tensión se intensifica: Dios usa lo que el profeta considera injusto.
+La tensión se intensifica: Dios usa lo que el profeta considera en su razonamiento humano como injusto.
 
-### El poder humano es presentado como transitorio y arrogante.
+El poder humano es presentado como transitorio y arrogante.
 
 # HABACUC 1:12–17 — SEGUNDA QUEJA DEL PROFETA
 
