@@ -828,163 +828,161 @@ El poder humano es presentado como transitorio y arrogante.
 
 ## Habacuc 1:12–13a — La santidad de Dios invocada como argumento
 
-### Habacuc 1:12 "*¿No eres tú desde el principio, oh SEÑOR, Dios mío, Santo mío? No moriremos. Oh SEÑOR, para juicio lo pusiste; y tú, oh Roca, lo fundaste para castigar.*"
+### Habacuc 1:12
 
-### Habacuc 1:12 “*¿No eres tú desde el principio…?*"
+¿No eres tú desde el principio, oh SEÑOR, Dios mío, Santo mío? No moriremos. Oh SEÑOR, para juicio lo pusiste; y tú, oh Roca, lo fundaste para castigar.
 
-#### Habacuc comienza con un clamor dirigido a Dios. Esto ya no es un grito de frustración (1:2), sino un **argumento basado en quién es Dios**.
-##### Habacuc apela a la eternidad de Dios, la identidad de Dios y la relación del pacto de Dios. 
+#### ¿No eres tú desde el principio…?
 
-##### Esto indica un cambio: Habacuc ahora cree que el problema reside **no en la conciencia de Dios**, sino en **las implicaciones de la acción de Dios**.
-### Habacuc 1:12 “*oh SEÑOR, Dios mío, Santo mío*"
+##### Habacuc comienza con un clamor dirigido a Dios. Esto ya no es un grito de frustración (1:2), sino un **argumento basado en quién es Dios**.
+- Habacuc apela a la eternidad de Dios, la identidad de Dios y la relación del pacto de Dios. 
+- Esto indica un cambio: Habacuc ahora cree que el problema reside **no en la manera en la cual Dios ve las cosas**, sino en **el resultado de la acción de Dios**.
 
-#### La acumulación de títulos es intencionada. Habacuc invoca a**SEÑOR** (nombre del pacto), **Dios mío** (relación personal) y **Santo mío** (pureza moral).  Esto no es un halago. Es **apalancamiento**.
+#### oh SEÑOR, Dios mío, Santo mío
 
-##### Habacuc basa su argumento en la santidad de Dios.
+##### La acumulación de títulos es intencionada. Habacuc invoca al **SEÑOR** (nombre del pacto), **Dios mío** (relación personal) y **Santo mío** (pureza moral).  Esto no es un halago. 
 
-### Habacuc 1:12 “*No moriremos*"
+##### Lo que Habacuc esta haciendo es un **apalancamiento**, inicia su argumento en base a recordar la santidad de Dios.
 
-#### Esta breve cláusula es sorprendente. Habacuc introduce una **afirmación de supervivencia**.
+#### No moriremos
 
-##### Esto puede reflejar confianza en la continuidad del pacto y creencia de que la aniquilación total es incompatible con el carácter de Dios. 
+##### Esta breve cláusula es sorprendente. Habacuc introduce una **afirmación de supervivencia**.
 
-##### Pero ojo: esta no es una promesa que Dios acaba de hacer. Es una **deducción que hace Habacuc**.  Esto importará más adelante.
+- Esto puede reflejar confianza en la continuidad del pacto y creencia de que la aniquilación total es incompatible con el carácter de Dios. 
+- Pero ojo: esta no es una promesa que Dios acaba de hacer. Es una **deducción que hace Habacuc** en base a como Dios se estuvo mostrando desde el comienzo de todo y con Israel.  Esto importará más adelante.
 
-### Habacuc 1:12 “*para juicio lo pusiste*"
+#### para juicio lo pusiste
 
-#### Aquí Habacuc **acepta parte de la explicación de Dios**. Él reconoce que Babilonia es designada y que la acción tiene un propósito, y finalmente, el juicio está destinado. Esto muestra crecimiento.  Habacuc ya no niega la acción divina. Pero la aceptación es **parcial**, no completa.
+##### Aquí Habacuc **acepta parte de la explicación de Dios**. Él reconoce que Babilonia es designada y que la acción tiene un propósito, y finalmente, el juicio está destinado. 
 
-### Habacuc 1:12 “*y tú, oh Roca, lo fundaste para castigar...*"
+##### Esto muestra un crecimiento en la comprensión de Dios.  Habacuc ya no niega la acción divina. Pero la aceptación es **parcial**, no completa.
 
-#### Habacuc refuerza la idea: Dios es el iniciador, Dios es el establecidor, Dios es quien puso esto en marcha.  Llamar a Dios "Roca" enfatiza: estabilidad, confiabilidad, coherencia moral. 
+##### Nótese que este progreso de conocer a Dios por parte de Habacuc vino después de que el Señor habló. Podemos ver los versículos 1:5-11 como simplemente "advertencias" de juicio por parte de Dios, pero realmente era el Señor revelándose a Habacuc en base a la obra que anunció que haría.
 
-#### Esto intensifica la tensión: *Si Dios es una Roca, ¿cómo puede sostenerse este método?*
+#### y tú, oh Roca, lo fundaste para castigar...
 
-#### Habacuc 1:12 muestra un desarrollo importante: Habacuc ya no acusa a Dios de silencio.  Ahora **argumenta a partir de los atributos de Dios**. Acepta el juicio en principio. Pero no ha aceptado los **medios**. 
+##### Habacuc refuerza la idea: Dios es el iniciador, Dios es el establecedor, Dios es quien puso esto en marcha.  Llamar a Dios "Roca" enfatiza: estabilidad, confiabilidad, coherencia moral. 
 
-#### Esta es una objeción más refinada y, por tanto, más peligrosa.
+##### Esto intensifica la tensión: *Si Dios es una Roca, ¿Cómo puede sostenerse este método? ¿Cual es el fin de esta obra que hará?*
 
-#### Habacuc asume la santidad de Dios restringe sus métodos. Asume que la eternidad de Dios garantiza una justicia predecible.  También asume que el pacto de Dios limita la severidad del juicio.
+##### Habacuc 1:12 muestra un desarrollo importante: Habacuc ya no acusa a Dios de silencio.  Ahora **argumenta a partir de los atributos de Dios**. Acepta el juicio en principio. Pero no ha aceptado los **medios** por los cuales ejecutará el juicio (los caldeos). 
 
-##### Ninguno de estos es declarado por Dios en este capítulo. Son **inferencias teológicas** de Habacuc.
+##### Esta es una objeción más refinada por parte del "justo" Habacuc y, por tanto, más peligrosa.
 
-#### Este verso reabre la queja a un nivel superior. Pasa de la injusticia social a la coherencia divina, prepara la pregunta central del libro...la pregunta de Habacuc deja de ser, ¿Por qué Dios no actúa?
+##### Habacuc asume la santidad de Dios restringe sus métodos, los cuestiona.
 
-##### Ahora su pregunta es: **¿Puede Dios permanecer santo mientras actúa de esta manera?**
+##### Asume que la eternidad de Dios garantiza una justicia predecible.  También asume que el pacto de Dios limita la severidad del juicio.
 
-#### En el siguiente versículo Habacuc llevará más allá esta lógica y articulará la **objeción moral central** del libro.
+- Ninguno de estos es declarado por Dios en este capítulo. Son **conclusiones del conocimiento de Dios** de Habacuc.
 
-Habacuc 1:13
- "*Muy limpio eres de ojos para ver el mal, ni puedes ver el agravio; ¿por qué ves a los menospreciadores, y callas cuando destruye el impío al más justo que él?*"
+##### Este verso reabre la queja a un nivel superior. Pasa de la injusticia social a la coherencia divina, prepara la pregunta central del libro...la pregunta de Habacuc deja de ser, ¿Por qué Dios no actúa?
 
-### Habacuc 1:13a “*Muy limpio eres de ojos para ver el mal*"
+- Ahora su pregunta es: **¿Puede Dios permanecer santo mientras actúa de esta manera?**
 
-#### Habacuc comienza con una **afirmación sobre el carácter de Dios**.
+##### En el siguiente versículo Habacuc llevará más allá este pensamiento y articulará la **objeción moral central** del libro.
+
+### Habacuc 1:13
+
+Muy limpio eres de ojos para ver el mal, ni puedes ver el agravio; ¿por qué ves a los menospreciadores, y callas cuando destruye el impío al más justo que él?
+
+#### Muy limpio eres de ojos para ver el mal
+
+##### Habacuc comienza con una **afirmación sobre el carácter de Dios**.
 
 ##### Declara:
 
-###### Pureza moral.
+- Pureza moral.
+- Santidad de percepción.
+- Incompatibilidad con el mal.
+- No es ironía ni sarcasmo. Son expresiones que provienen de la Palabra de Dios.
+- Habacuc parte de lo que sabe (o cree saber) acerca de Dios.
 
-###### Santidad de percepción.
+##### Podemos ser iguales que Habacuc. Fácilmente presumimos conocer el proceder de Dios en base a ideas que acarreamos de Él (incluso pueden ser ideas "acompañadas" con partes de la Escritura).
 
-###### Incompatibilidad con el mal.
+##### Sin embargo, nuestra comprensión de Dios debe ser establecida por Él mismo, por lo que Él dice en Su Palabra que es, y no por lo que nosotros creemos que es. 
 
-###### No es ironía ni sarcasmo. Es **teología confesional**.
-
-###### Habacuc parte de lo que sabe (o cree saber) acerca de Dios.
-
-#### Podemos ser iguales que Habacuc. Facilmente presumimos conocer el proceder de Dios en base a ideas que acarreamos de Él. 
-
-#### Sin embargo, nuestra comprensión de Dios (teología) debe ser establecida por Él mismo, por lo que Él dice en Su Palabra que es, y no por lo que nosotros creemos que es. 
-
-#### Para poder seguir siendo enseñados, es importante estar dispuesto a soltar cualquier teología que sostenemos a la luz de La Palabra de Dios. 
+##### Para poder seguir siendo enseñados, es importante estar dispuesto a soltar cualquier pensamiento respecto a Dios que sostenemos **a la luz de La Palabra de Dios**. 
 
 ##### Tomando en cuenta esto, sigamos escuchando hablar a Habacuc...
 
-### Habacuc 1:13b “*ni puedes ver el agravio*"
+#### ni puedes ver el agravio
 
-#### La afirmación se intensifica. Habacuc no dice que a Dios *no le agrada* el agravio, sino que **no puede mirarlo**.
-##### Esto presenta la santidad de Dios como: absoluta, restrictiva y determinante de Su acción. Aquí Habacuc formula un **absoluto teológico**, no una cita directa de una palabra divina.
+##### La afirmación se intensifica. Habacuc no dice que a Dios *no le agrada* el agravio, sino que **no puede mirarlo**.
+- Esto presenta la santidad de Dios como: absoluta, restrictiva y determinante de Su acción. Aquí Habacuc formula una **conclusión absoluta** del carácter de Dios, no una cita directa de una palabra divina.
 
-### Habacuc 1:13c “*¿por qué ves a los menospreciadores…?*"
+#### ¿por qué ves a los menospreciadores…?
 
-#### Aquí la tensión se hace explícita. Habacuc contrasta dos ideas que, para él, no pueden coexistir:
+##### Aquí la tensión se hace explícita. Habacuc contrasta dos ideas que, para él, no pueden coexistir:
 
-##### Dios no puede mirar el mal
+- Dios no puede mirar el mal
+- Dios está mirando a los impíos
+- La pregunta no busca información. Habacuc busca coherencia de **su pensamiento de lo bueno y malo** con **el carácter santo de Dios**. 
+- Habacuc no duda de que Dios ve. Duda de **cómo puede ver sin actuar**.
 
-##### Dios está mirando a los impíos
+#### y callas cuando destruye el impío…
 
-##### La pregunta no busca información. Busca **coherencia moral**. Habacuc no duda de que Dios ve. Duda de **cómo puede ver sin actuar**.
-### Habacuc 1:13d “*y callas cuando destruye el impío…*"
+##### El tema del silencio reaparece, pero agravado. Antes, Dios no oía (1:2) y Dios no salvaba (1:2). Ahora, en el pensamiento de Habacuc, Dios ve y se calla.
 
-#### El tema del silencio reaparece, pero agravado. Antes, Dios no oía (1:2) y Dios no salvaba (1:2). Ahora Dios ve y se calla. 
+##### El silencio ya no es distancia. Es **presencia sin intervención**. Es pasividad al mal. Esto intensifica la acusación de Habacuc hacia Dios.
 
-#### El silencio ya no es distancia. Es **presencia sin intervención**. Es pasividad al mal. Esto intensifica la acusación.
+#### al más justo que él
 
-### Habacuc 1:13e “*al más justo que él*"
+##### Esta frase revela el **supuesto central** de Habacuc. Habacuc no habla de justicia absoluta, sino de **justicia comparativa**.
+- El argumento es: el impío es malo, pero hay otros ***menos* malos**, por lo tanto, Dios debería intervenir. 
+- El concepto de  justicia de Habacuc es medida **por grados**, no por el estándar absoluto justicia de Dios.
+- Habacuc 1:13 expone el conflicto central del libro: La santidad de Dios confrontada con Su manera de actuar. Habacuc no niega ninguno de los dos. No logra **hacerlos coexistir** en su pensamiento de justicia.
+- Habacuc asume que La santidad de Dios limita los instrumentos que puede usar. Asume que el silencio de Dios implica inconsistencia moral, que a veces ignora lo bueno y lo malo. 
+- Habacuc concluye que su justicia de comparación debería orientar a Dios de cómo actuar, en este caso de como Dios debería hacer Su obra. 
 
-#### Esta frase revela el **supuesto central** de Habacuc. Habacuc no habla de justicia absoluta, sino de **justicia comparativa**.
-##### El argumento es: el impío es malo, pero hay otros *menos* malos, por lo tanto, Dios debería intervenir. 
-
-##### El concepto de  justicia de Habacuc es medida **por grados relativos**, no por un estándar divino absoluto.
-
-##### Habacuc 1:13 expone el conflicto central del libro: La santidad de Dios confrontada con Su método histórico. Habacuc no niega ninguno de los dos. No logra **hacerlos coexistir**.
-##### Habacuc asume que La santidad de Dios limita los instrumentos que puede usar. Asume que el silencio de Dios implica inconsistencia moral. Habacuc concluye que la justicia relativa debe gobernar la acción divina. 
-
-#### Estas suposiciones **no son corregidas aquí**. Solo quedan expuestas.
+##### Estas suposiciones de Habacuc **no son corregidas por Dios aquí**. Solo quedan expuestas.
 
 ##### Este versículo:
 
-###### Demuestra el centro teológico de la segunda queja.
+- Demuestra la confusión del pensamiento de Habacuc con el carácter de Dios en la segunda queja.
+- Explica por qué Habacuc continuará hablando.
+- Justifica, desde su perspectiva, la protesta que hará a continuación.
 
-###### Explica por qué Habacuc continuará hablando.
+##### Después de este punto, Habacuc ya no razona en sus propias ideas o pensamiento. Ahora comienza a **ilustrar las consecuencias** de lo que Dios hará.
 
-###### Justifica, desde su perspectiva, la protesta que sigue.
-
-##### Después de este punto, Habacuc ya no razona en abstracto. Comienza a **ilustrar las consecuencias**.
-
-##### Habiendo formulado la contradicción moral, Habacuc ahora describe el resultado humano: una humanidad reducida a presa, sin gobierno. 
+##### Habiendo formulado la supuesta contradicción de Dios, de entre lo justo e injusto, Habacuc ahora describe el resultado humano: una humanidad reducida a presa, sin gobierno.
 
 ## Habacuc 1:14–15 — Humanidad tratada como presa
 
-Habacuc 1:14 
-"*Y haces que sean los hombres como los peces del mar, como reptiles que no tienen quien los gobierne.*"
+### Habacuc 1:14
 
-### Habacuc 1:14a “*Y haces que sean los hombres…*"
+Y haces que sean los hombres como los peces del mar, como reptiles que no tienen quien los gobierne.
 
-#### Habacuc **atribuye acción directa a Dios**.
+#### Y haces que sean los hombres…
 
-#### No dice: “los hombres se han vuelto…” o “Babilonia los trata como…”.
+##### Habacuc **atribuye acción directa a Dios**.
 
-#### Dice: "*...y haces que sean*".
+##### No dice: “los hombres se han vuelto…” o “Babilonia los trata como…”.
 
-#### Esto es crucial: Habacuc interpreta la situación como **resultado de la acción divina**, no solo de la crueldad humana.
+##### Dice: "*...y haces que sean*".
 
-### Habacuc 1:14b “*los hombres como los peces del mar*"
+##### Esto es crucial: Habacuc interpreta la situación como **resultado de la acción divina de Dios**, no solo de la crueldad humana.
 
-#### La imagen introduce despojo de la dignidad humana.  Al comparar al hombre con  "*los peces del mar*", Habacuc está concluyendo: 
+#### los hombres como los peces del mar
 
-###### No poseen agencia política, 
+##### La imagen introduce despojo de la dignidad humana.  Al comparar al hombre con  "*los peces del mar*", Habacuc está concluyendo: 
 
-###### No tienen protección legal, 
-
-###### Existen para ser capturados. 
+- No poseen agencia política, 
+- No tienen protección legal, 
+- Existen para ser capturados. 
 
 ##### En otras palabras, comparar a los hombres con peces implica: vulnerabilidad total, ausencia de sus derechos, exposición al depredador. 
 
 ###### Habacuc no está describiendo caos; está describiendo falta de amparo.
 
-### Habacuc 1:14c “*como reptiles que no tienen quien los gobierne*"
+#### como reptiles que no tienen quien los gobierne
 
-#### La segunda imagen intensifica la primera comparación.
+##### La segunda imagen intensifica la primera comparación.
 
-#### Los reptiles:
+##### Los reptiles:
 
-##### no tienen liderazgo
-
-##### no poseen orden interno
-
-##### carecen de estructura protectora
+- No tienen liderazgo
+- No poseen orden interno
+- Carecen de estructura protectora
 
 ##### La frase "*no tienen quien los gobierne*" señala: ausencia de autoridad legítima, colapso del orden y el vacío de justicia. 
 
@@ -994,16 +992,19 @@ Habacuc 1:14
 
 ###### En 1:4, Habacuc dijo: la ley es debilitada, la justicia sale torcida. En 1:14, muestra el **resultado final** de esa lógica: la humanidad reducida a presa, ausencia de autoridad justa, dominio absoluto del violento. La queja ahora es **existencial**, no solo legal.
 
-#### Este versículo profundiza la acusación contra Dios. Conecta la soberanía con consecuencias humanas. Prepara la metáfora extendida de la pesca (1:15–17).  Habacuc está a punto de decir: "si esto es gobierno divino, parece indistinguible del caos".
+##### La pregunta de Habacuc: ¿Cómo Dios siendo Santo puede obrar de esta manera?
+
+##### Este versículo profundiza la acusación contra Dios. Conecta la soberanía con consecuencias humanas. Prepara la metáfora extendida de la pesca (1:15–17).  Habacuc está a punto de decir: "si esto es gobierno divino, parece indistinguible del caos".
 
 ##### En el siguiente verso, Habacuc desarrollará esta imagen  y describirá cómo Babilonia **explota** esta indefensión. La metáfora se volverá **económica y religiosa**.
 
-Habacuc 1:15
-"*A todos los saca con anzuelo, los recoge con su red, y los junta en su malla; por eso se alegra y se regocija.*"
+### Habacuc 1:15
 
-### Habacuc 1:15a “*A todos los saca con anzuelo*"
+A todos los saca con anzuelo, los recoge con su red, y los junta en su malla; por eso se alegra y se regocija.
 
-#### Habacuc retoma y desarrolla la imagen iniciada en 1:14. "*todos*" (totalidad, sin excepción), "*anzuelo*" (captura individual, deliberada).  La violencia no es caótica. Es **selectiva, intencional y eficaz**. Los hombres no caen por accidente. Son **pescados**.
+#### A todos los saca con anzuelo
+
+##### Habacuc retoma y desarrolla la imagen iniciada en 1:14. "*todos*" (totalidad, sin excepción), "*anzuelo*" (captura individual, deliberada).  La violencia no es caótica. Es **selectiva, intencional y eficaz**. Los hombres no caen por accidente. Son **pescados**.
 
 ### Habacuc 1:15b  “*los recoge con su red*"
 
