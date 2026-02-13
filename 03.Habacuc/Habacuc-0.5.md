@@ -1214,48 +1214,55 @@ Porque es aún visión para el tiempo señalado, y hablará al fin, y no mentir�
 
 ##### Aquí aparece el tema del **tiempo**, pero no como problema, sino como gobierno. El tiempo no es: caótico, impredecible, determinado por la urgencia humana. Es un tiempo **señalado** por Dios. 
 
-##### Esto introduce una diferencia crucial: la justicia humana exige inmediatez; la justicia de Dios opera por designación.
+##### Esto introduce una diferencia crucial: la justicia humana (Habacuc) exige inmediatez; la justicia de Dios opera por designación.
 
-### Habacuc 2:3c “*y hablará al fin*"
+#### y hablará al fin
 
-#### La visión tiene **voz**, pero no inmediata. No necesita ser defendida ahora. No necesita ser explicada en el momento. Hablará **al fin**.
-##### Esto implica vindicación futura y confirmación histórica. La verdad no depende de su reconocimiento inmediato.
+##### La visión tiene **voz**, pero no inmediata. No necesita ser defendida ahora. No necesita ser explicada en el momento. Hablará **al fin**.
+- Esto implica vindicación futura y confirmación histórica. La verdad no depende de su reconocimiento inmediato.
 
-### Habacuc 2:3d “*y no mentirá*”
+#### y no mentirá
 
-#### Dios anticipa la duda. La tardanza podría interpretarse como error o fracaso o inclusive engaño. Dios lo niega de antemano, la visión **no miente**. El problema no será la falsedad, sino la **paciencia requerida**.
+##### Dios anticipa la duda. La tardanza podría interpretarse como error o fracaso o inclusive engaño. Dios lo niega de antemano, la visión **no miente**. El problema no será la falsedad, sino la **paciencia requerida** hasta que la visión llegue a hablar, se cumpla.
 
-### Habacuc 2:3e “*aunque tardare, espéralo*"
+#### aunque tardare, espéralo
 
-#### Aquí se redefine la respuesta humana. No se ordena entender, justificar, o explicar. Se ordena **esperar**.
+##### Aquí se redefine la respuesta humana. No se ordena entender, justificar, o explicar. Se ordena **esperar** a lo que Dios habla.
 
-#### La espera no es pasividad. Es confianza bajo incertidumbre.
+##### La espera no es pasividad. Es confianza bajo incertidumbre.
 
-### Habacuc 2:3a “*porque sin duda vendrá, no tardará*"
+#### porque sin duda vendrá, no tardará
 
-#### La frase parece paradójica. *tardare*...*no tardará*.  La tensión no se resuelve; se **sostiene**. Desde la perspectiva humana parece tardar.  Desde la perspectiva divina llega exactamente a tiempo.
+##### La frase parece paradójica. *tardare*...*no tardará*.  La tensión no se resuelve; se **sostiene**. Desde la perspectiva humana parece tardar.  Desde la perspectiva divina llega exactamente a tiempo.
 
-#### Esto desarma el reclamo inicial de Habacuc, "¿hasta cuándo?"
+##### Esto desarma el reclamo inicial de Habacuc, "¿hasta cuándo?"
 
-#### La respuesta no es un calendario, sino una **confianza en el gobierno del tiempo**.
+##### La respuesta no es un calendario, sino una **confianza en quien esta al control de los tiempos**.
 
-#### Habacuc 2:3 redefine el problema central: El conflicto no es la injusticia visible, sino **la espera bajo soberanía**. Dios no promete acelerar la historia. Promete **cumplirla**.
+##### Habacuc 2:3 redefine el problema central: El conflicto no es la injusticia visible, sino **la espera bajo soberanía**. Dios no promete acelerar la historia. Promete **cumplirla**.
 
-#### Este versículo responde indirectamente a la impaciencia del profeta y luego establece el marco temporal del resto del libro. 
+##### Este versículo responde indirectamente a la impaciencia del profeta y luego establece el marco temporal del resto del libro. 
 
-#### Dios establece **cuándo** se verá Su obra.
+##### Dios establece **cuándo** se verá Su obra.
 
-#### En **Habacuc 2:4**, Dios hará la distinción decisiva: una forma de vivir que no espera correctamente y una forma de vivir que **vive por fe**. Ese contraste define todo lo que sigue.
+- *declárala en tablas*, lo que Dios dice queda registrado.
+- *tardará aún por un tiempo*, lo que Dios dijo se cumplirá en un momento establecido por Él.
+- *se apresura*, lo Dios dijo se cumplirá pronto.
+- *no mentirá*, lo que Dios dijo no defraudará.
+- *sin duda vendrá, no tardará*, lo que Dios dijo no se ve ahora pero se cumplirá.
+
+##### En **Habacuc 2:4**, Dios hará la distinción decisiva: una forma de vivir que no espera correctamente y una forma de vivir que **vive por fe**. Ese contraste define todo lo que sigue.
 
 ## Habacuc 2:4 — Contraste entre dos descripciones
 
-Habacuc 2:4 
-"*He aquí que aquel cuya alma no es recta, se enorgullece; mas el justo por su fe vivirá.*"
+### Habacuc 2:4
 
-### Habacuc 2:4a “*He aquí*"
+He aquí que aquel cuya alma no es recta, se enorgullece; mas el justo por su fe vivirá.
 
-#### Esta expresión señala **contraste deliberado**. Dios no continúa la explicación del tiempo (2:3). Introduce una **distinción de tipos humanos**.
-#### El problema ya no es Babilonia versus Judá o el calendario de la historia. El problema ahora es **cómo** se vive dentro de esa historia.
+#### He aquí
+
+##### Esta expresión señala **contraste deliberado**. Dios no continúa la explicación del tiempo (2:3). Introduce una **distinción de tipos humanos**.
+##### El problema ya no es Babilonia versus Judá o el calendario de la historia. El problema ahora es **cómo** se vive dentro de esa historia.
 
 ### Habacuc 2:4b “*aquel cuya alma no es recta*"
 
