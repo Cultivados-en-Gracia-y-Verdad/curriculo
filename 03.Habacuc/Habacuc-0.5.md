@@ -1006,111 +1006,109 @@ A todos los saca con anzuelo, los recoge con su red, y los junta en su malla; po
 
 ##### Habacuc retoma y desarrolla la imagen iniciada en 1:14. "*todos*" (totalidad, sin excepción), "*anzuelo*" (captura individual, deliberada).  La violencia no es caótica. Es **selectiva, intencional y eficaz**. Los hombres no caen por accidente. Son **pescados**.
 
-### Habacuc 1:15b  “*los recoge con su red*"
+#### los recoge con su red
 
-#### La imagen se amplía. El anzuelo captura uno por uno. Pero la red captura en masa.  Habacuc presenta un sistema completo: táctico, repetible, eficiente. Esto describe **dominación estructural** universal, no abuso aislado. 
+La imagen se amplía. El anzuelo captura uno por uno. Pero la red captura en masa.  Habacuc presenta un sistema completo: táctico, repetible, eficiente. Esto describe **dominación estructural** universal por parte de los caldeos, no abuso aislado. 
 
-### Habacuc 1:15c  “*y los junta en su malla*"
+#### y los junta en su malla
 
-#### La progresión continúa: captura -> recolección -> acumulación. Las personas dejan de ser sujetos. Se convierten en **posesión**.
+##### La progresión continúa: captura -> recolección -> acumulación. Las personas dejan de ser sujetos. Se convierten en **posesión**.
 
 ##### Aquí la deshumanización es total: no hay nombre, no hay rostro, no hay distinción moral.
 
-### Habacuc 1:15d  “*por eso se alegra y se regocija*"
+##### Habacuc esta profetizando todo lo que el Imperio Babilónico será y la forma en la cual actuará ante cualquiera que este en su camino.
 
-#### Este es uno de los detalles más ofensivos del pasaje. La violencia no produce remordimiento, cansancio o límite. Produce **gozo**, "*se regocija*". 
+#### por eso se alegra y se regocija
 
-#### La alegría de Babilonia: nace del dominio, se alimenta del éxito violento, se refuerza con cada captura. Esto no es solo crueldad. Es **celebración del poder** y el abuso al ser humano.
+##### Este es uno de los detalles más ofensivos del pasaje. La violencia no produce remordimiento, cansancio o límite. Produce **gozo**, "*se regocija*". 
 
-##### Habacuc 1:15 presenta a Babilonia como: eficaz, sistemática, y **emocionalmente satisfecha** con su violencia. Esto intensifica el problema moral: no solo destruye...¡**disfruta destruir**!.
+##### La alegría de Babilonia: nace del dominio, se alimenta del éxito violento, se refuerza con cada captura. Esto no es solo crueldad. Es **celebración del poder** y el abuso al ser humano.
 
-##### Habacuc había llegado a entender que Dios ve, Dios calla y Dios usa este instrumento. 
-
-##### Pero ahora muestra **qué produce ese uso**: deshumanización total, violencia normalizada, gozo en la opresión. 
-
-##### El contraste con la santidad de Dios (1:13) es deliberado. Si Babilonia se alegra en esto, ¿cómo puede Dios permanecer en silencio?
-
-##### En **1:16**, Habacuc dará el paso final: no solo describirá violencia, sino **idolatría**. La red no solo captura hombres. Se convierte en objeto de adoración.
+- Habacuc 1:15 presenta a Babilonia como: eficaz, sistemática, y **emocionalmente satisfecha** con su violencia. Esto intensifica el problema moral: no solo destruye...¡**disfruta destruir**!.
+- Habacuc había llegado a entender que Dios ve, Dios calla y Dios usa este instrumento. 
+- Pero ahora muestra **qué produce ese uso**: deshumanización total, violencia normalizada, gozo en la opresión. 
+- El contraste con la santidad de Dios (1:13) es deliberado. Si Babilonia se alegra en esto, ¿cómo puede Dios permanecer en silencio?
+- En **1:16**, Habacuc dará el paso final: no solo describirá violencia, sino **idolatría**. La red no solo captura hombres. Se convierte en objeto de adoración.
 
 ## Habacuc 1:16 — Idolatría del propio poder
 
-Habacuc 1:16 
-"*Por eso sacrifica a su red, y quema incienso a su malla; porque con ellas engordó su porción, y engrasó su comida.*"
+### Habacuc 1:16 
 
-### Habacuc 1:16a “*Por eso sacrifica a su red*"
+Por eso sacrifica a su red, y quema incienso a su malla; porque con ellas engordó su porción, y engrasó su comida.
 
-#### La conversación continua. Habacuc ahora pasa de **descripción a interpretación**. La violencia descrita por, "*se alegra y se regocija*" introduce lo que ahora dirá que produce adoración.
+#### Por eso sacrifica a su red
 
-#### El instrumento de conquista se convierte en objeto de reverencia. Llega a ser su fuente de gratitud y foco de devoción. 
+##### La conversación continua. Habacuc ahora pasa de **descripción a interpretación**. La violencia descrita por, "*se alegra y se regocija*" introduce lo que ahora dirá que produce adoración.
 
-#### La “red” ya no es una herramienta. Está **deificado**.
+##### El instrumento de conquista se convierte en objeto de reverencia. Llega a ser su fuente de gratitud y foco de devoción. 
 
-### Habacuc 1:16b “*y quema incienso a su malla*"
+##### La “red” ya no es una herramienta. Ahora es objeto de culto para el que se beneficia de ella.
 
-#### El lenguaje es explícitamente **expresión religiosa**. El sacrificio y el incienso pertenecen al ámbito del culto.  Habacuc utiliza deliberadamente términos religiosos para mostrar: la violencia de Babilonia se ritualiza, el éxito se sacraliza, el poder se santifica. Esto no es ateísmo. Es **idolatría**.
+#### y quema incienso a su malla
 
-### Habacuc 1:16c “*porque con ellas engordó su porción*"
+##### El lenguaje es explícitamente **expresión religiosa**. El sacrificio y el incienso pertenecen al ámbito del culto.  Habacuc utiliza deliberadamente términos religiosos para mostrar: la violencia de Babilonia se ritualiza, el éxito se sacraliza, el poder se santifica. Esto no es ateísmo. Es **idolatría**.
 
-#### Habacuc da la lógica detrás del culto de Babilonia. La red da éxito, la red produce abundancia, por lo tanto la red merece honor. El estándar de valor es **beneficio**. Lo que nos alimenta se convierte en lo que adoramos.
+#### porque con ellas engordó su porción
 
-### Habacuc 1:16d “*y engrasó su comida*"
+##### Habacuc da la lógica detrás del culto de Babilonia. La red da éxito, la red produce abundancia, por lo tanto la red merece honor. El estándar de valor es **beneficio**. Lo que nos alimenta se convierte en lo que adoramos.
 
-#### La imagen refuerza la **autocomplacencia**. La conquista no sólo sustenta la vida.  Produce exceso. La violencia conduce a: abundancia, comodidad, satisfacción. Esto explica la devoción:  el sistema funciona.
-#### Habacuc 1:16 revela la ofensa más profunda hasta el momento: Babilonia no sólo actúa violentamente. **teologiza su violencia**. El éxito se convierte en prueba de legitimidad. El poder se convierte en evidencia de rectitud.
-##### Dios ya dijo: La justicia de Babilonia viene de sí misma (1:7). También dijo que Babilonia incurrirá en culpa (1:11). Aquí Habacuc muestra **cómo** se manifiesta esa culpa: adoración al poder, gratitud hacia la violencia, devoción a la dominación. Esto confirma la culpabilidad de Babilonia.
+#### y engrasó su comida
 
-##### Este verso: completa la acusación moral, muestra a Babilonia como religiosamente corrupta. Intensifica la cuestión del silencio de Dios. El problema ya no es sólo la injusticia. Es **falsa adoración bajo el gobierno divino**.
-
-##### Habiendo mostrado la violencia (1:15) y luego la idolatría (1:16), Habacuc ahora hace su pregunta final: *¿Cuánto tiempo puede continuar esto?* 
-
-##### Esa pregunta cierra el capítulo en Habacuc 1:17.
+##### La imagen refuerza la **autocomplacencia**. La conquista no sólo sustenta la vida.  Produce exceso. La violencia conduce a: abundancia, comodidad, satisfacción. Esto explica la devoción:  el sistema funciona.
+##### Habacuc 1:16 revela la ofensa más profunda hasta el momento: Babilonia no sólo actúa violentamente. **su violencia y poder se ha hecho objeto de su adoración, es su dios**. El éxito se convierte en prueba de legitimidad. El poder se convierte en evidencia de rectitud.
+- Dios ya dijo: La justicia de Babilonia viene de sí misma (1:7). También dijo que Babilonia incurrirá en culpa (1:11). Aquí Habacuc muestra **cómo** se manifiesta esa culpa: adoración al poder, gratitud hacia la violencia, devoción a la dominación. Esto confirma la culpabilidad de Babilonia.
+- Este verso: completa la acusación moral, muestra a Babilonia como religiosamente corrupta. Intensifica la cuestión del silencio de Dios. El problema ya no es sólo la injusticia. Es **falsa adoración bajo el gobierno de Dios**.
+- Habiendo mostrado la violencia (1:15) y luego la idolatría (1:16), Habacuc ahora hace su pregunta final: *¿Cuánto tiempo puede continuar esto?* 
+- Esa pregunta cierra el capítulo en Habacuc 1:17.
 
 ## Habacuc 1:17 — Pregunta sin respuesta inmediata
 
-### Habacuc 1:17 "*¿Vaciará por eso su red, y no tendrá piedad de aniquilar naciones continuamente?*"
+### Habacuc 1:17 
 
-#### Habacuc termina el capítulo **sin afirmación**, solo con una pregunta. No es curiosidad. Es **protesta moral final**. 
+¿Vaciará por eso su red, y no tendrá piedad de aniquilar naciones continuamente?
 
-#### La pregunta presupone que lo descrito en los versículos 15 y 16 no es momentáneo, no es excepcional y es continuo.
+Habacuc termina el capítulo **sin afirmación**, solo con una pregunta. No es curiosidad. Es una **protesta basada en lo que él percibe como injusticia**. 
 
-### Habacuc 1:17a “*¿Vaciará por eso su red…?*"
+La pregunta presupone que lo descrito en los versículos 15 y 16 no es momentáneo, no es excepcional sino continuo.
 
-#### La imagen de la pesca se mantiene. *Vaciar la red* implica captura repetida, un ciclo continuo y ausencia de límite moral. No es una acción única. Es un **método permanente**.
+#### ¿Vaciará por eso su red…?
 
-#### Habacuc no pregunta *si puede* hacerlo, sino *si seguirá haciéndolo*.
+##### La imagen de la pesca se mantiene. *Vaciar la red* implica captura repetida, un ciclo continuo y ausencia de límite al perverso actuar de Babilonia. No es una acción única. Es un **método permanente**.
 
-### Habacuc 1:17b “*y no tendrá piedad*"
+##### Habacuc no pregunta *si puede* hacerlo, sino *si seguirá haciéndolo*.
 
-#### Aquí aparece el criterio ético explícito. El problema ya no es solo: violencia e idolatría, sino **ausencia total de misericordia**.
+#### y no tendrá piedad
 
-##### Para Habacuc, esto es incompatible con el carácter de Dios (1:12–13) y la noción de justicia que él sostiene.
+##### Aquí aparece el criterio ético explícito. El problema ya no es solo: violencia e idolatría, sino **ausencia total de misericordia**.
 
-### Habacuc 1:17c “*de aniquilar naciones*"
+- Para Habacuc, esto es incompatible con el carácter de Dios (1:12–13) y la noción de justicia que él sostiene.
 
-#### La escala vuelve a ampliarse. No se trata de individuos, ciudades o conflictos locales, sino de **naciones enteras**. Esto elimina cualquier intento de minimizar el problema como corrección puntual.
+#### y no tendrá piedad de aniquilar naciones
 
-### Habacuc 1:17d “*continuamente...*"
+##### La escala vuelve a ampliarse. No se trata de individuos, ciudades o conflictos locales, sino de **naciones enteras**. Esto elimina cualquier intento de minimizar el problema como corrección puntual.
 
-#### Esta palabra cierra el capítulo con peso. El temor de Habacuc no es solo **qué está pasando**, sino **que no haya fin**. Si esto continúa la historia se vuelve depredación perpetua, la justicia queda sin horizonte y la misericordia desaparece del gobierno del mundo.
-#### Habacuc 1:17 no pide explicación. Pide **límite**. El profeta no dice: “explícame por qué haces esto”. Dice, en esencia: "¿Habrá un punto donde esto se detenga?"
+#### continuamente...
 
-#### Esto muestra que el problema no es ignorancia, sino **moralidad sostenida en el tiempo**. Este versículo cierra la segunda queja. Deja la acusación completa y obliga a Dios a responder nuevamente. 
+##### Esta palabra cierra el capítulo con peso. El temor de Habacuc no es solo **qué está pasando**, sino **que no haya fin**. En su pensamiento, si esto continúa la historia se vuelve depredación perpetua, la justicia queda sin horizonte y la misericordia desaparece del gobierno del mundo.
+##### Habacuc 1:17, Habacuc no pide explicación. Pide **límite**. El profeta no dice: “explícame por qué haces esto”. Dice, en esencia: "¿Habrá un punto donde esto se detenga?"
 
-#### Habacuc ha llevado su lógica **hasta el final**. Ahora no queda más argumento humano, no queda más descripción, solo queda **esperar respuesta**.
+##### Esto muestra que el problema no es ignorancia, sino **una justicia comparativa sostenida en el tiempo** por parte de Habacuc. Este versículo cierra la segunda queja. Termina la acusación y deja abierta la puerta para la respuesta de Dios. 
 
-#### Después de preguntar, Habacuc **calla**. No porque esté satisfecho, sino porque ha dicho todo lo que puede decir. En **Habacuc 2:1**, el profeta cambia de postura y deja de acusar. Se coloca a esperar. Ese cambio es crucial.
+##### Habacuc ha llevado su lógica **hasta el final**. Ahora no queda más argumento humano, no queda más descripción, solo queda **esperar respuesta**.
+
+##### Después de preguntar, Habacuc **calla**. No porque esté satisfecho, sino porque ha dicho todo lo que puede decir. En **Habacuc 2:1**, el profeta cambia de postura y deja de acusar. Se coloca a esperar. Ese cambio es crucial.
 
 ## En Síntesis (Habacuc 1:12–17)
 
-### Habacuc apela al carácter eterno y santo de Dios.
+Habacuc apela al carácter eterno y santo de Dios para defender su pensamiento de "justicia".
 
-### El profeta no niega la soberanía divina, la confronta.
+El profeta no niega la soberanía de Dios, la confronta.
 
-### La pregunta central gira en torno a la tolerancia del mal mayor.
+La pregunta central gira en torno a la tolerancia del mal de los "menos" justos.
 
-### El silencio divino vuelve a ser el punto de tensión.
+El silencio de Dios vuelve a ser el punto de tensión.
 
-### La queja culmina sin respuesta inmediata.
+La queja culmina sin respuesta inmediata por parte de Dios.
 
 # HABACUC 2:1 LA POSTURA DEL PROFETA EN ESPERA
 
