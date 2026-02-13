@@ -1114,98 +1114,107 @@ La queja culmina sin respuesta inmediata por parte de Dios.
 
 ## Habacuc 2:1a Decisión de colocarse en vigilancia
 
-Habacuc 2:1 
-"*Sobre mi guarda estaré, y sobre la fortaleza afirmaré el pie, y velaré para ver lo que se me dirá, y qué he de responder tocante a mi queja.*"
+### Habacuc 2:1 
 
-### Habacuc 2:1a “*Sobre mi guarda estaré*"
+Sobre mi guarda estaré, y sobre la fortaleza afirmaré el pie, y velaré para ver lo que se me dirá, y qué he de responder tocante a mi queja.
 
-#### Habacuc cambia de **hablar** a **vigilar**. Ya no acusa. Ya no describe la violencia. Ya no presenta argumentos. Adopta la postura de un **centinela**. Esto implica atención, disciplina y espera deliberada. Habacuc reconoce que el momento de hablar ha terminado.
+#### Sobre mi guarda estaré
 
-### Habacuc 2:1b “*y sobre la fortaleza afirmaré el pie*"
+##### Habacuc cambia de **hablar** a **vigilar**. Ya no acusa. Ya no describe la violencia. Ya no presenta argumentos. Adopta la postura de un **centinela**. Esto implica atención, disciplina y espera deliberada. Habacuc reconoce que el momento de hablar ha terminado.
 
-#### La espera no es pasiva. Habacuc no se sienta ni se retira. **Se afirma**. La imagen comunica: firmeza, disposición, seriedad ante lo que viene. La fortaleza no es refugio contra Dios, sino el lugar donde **la palabra de Dios debe enfrentarse**.
+#### y sobre la fortaleza afirmaré el pie
 
-### Habacuc 2:1c “*y velaré para ver lo que se me dirá*"
+##### La espera no es pasiva. Habacuc no se sienta ni se retira. **Se afirma**. La imagen comunica: firmeza, disposición, seriedad ante lo que viene. La fortaleza no es refugio contra Dios, sino el lugar donde **la palabra de Dios debe enfrentarse**.
 
-#### Habacuc espera una respuesta real. No sabe cuándo vendrá, cómo vendrá ni qué dirá. Pero está convencido de que **Dios hablará**. La atención ya no está en formular preguntas, sino en **recibir palabra**.
+#### y velaré para ver lo que se me dirá
 
-### Habacuc 2:1d “*y qué he de responder*"
+##### Habacuc espera una respuesta real. No sabe cuándo vendrá, cómo vendrá ni qué dirá. Pero está convencido de que **Dios hablará**. La atención ya no está en formular preguntas, sino en **recibir palabra de Dios**.
 
-#### Esta frase marca un giro profundo. Habacuc asume que: la respuesta de Dios exigirá *su* respuesta.  Él podría necesitar corregirse, su queja no es el último punto del diálogo. Antes Habacuc exigía respuesta de Dios.  Ahora Habacuc se prepara para **responder él**.
+#### y qué he de responder
 
-### Habacuc 2:1e “*tocante a mi queja*"
+##### Esta frase marca un giro profundo. Habacuc asume que: la respuesta de Dios exigirá *su* respuesta.  Él podría necesitar corregirse, su queja no es el último punto del diálogo. Antes Habacuc exigía respuesta de Dios.  Ahora Habacuc se prepara para **responder él**.
 
-#### Habacuc nombra su discurso anterior con honestidad. No lo llama revelación, oración inspirada o palabra profética.  Lo llama "*mi queja*." Esto muestra su autoconciencia, una humildad inicial y apertura a corrección
+#### tocante a mi queja
 
-#### No es arrepentimiento todavía, pero sí es **suspensión del juicio propio**.
+##### Habacuc nombra su discurso anterior con honestidad. No lo llama revelación, oración inspirada o palabra profética.  Lo llama "*mi queja*." Esto muestra su autoconciencia, una humildad inicial y apertura a corrección
 
-#### Habacuc 2:1 es un **versículo bisagra**. Hasta aquí el profeta hablaba, Dios respondía y el profeta protestaba.  A partir de aquí el profeta calla, Dios redefine la realidad, la justicia deja de ser debatida y pasa a ser **vivida**.
+##### Aun no a cambiado de pensamiento completamente respecto a la manera de pensar que estuvo expresando en los anteriores versículos, pero **su razonamiento de justicia propia esta cambiando**.
 
-#### Este versículo cierra definitivamente la queja.  Detiene el razonamiento humano y prepara el terreno para la visión.  La pregunta ya no será: *¿Por qué Dios hace esto?* Sino: **¿Cómo se vive mientras Dios lo hace?**
+##### Habacuc 2:1 es un **versículo bisagra**. Hasta aquí el profeta hablaba, Dios respondía y el profeta protestaba.  A partir de aquí el profeta calla, Dios redefine la realidad, la justicia deja de ser debatida y pasa a ser **vivida**.
 
-#### Con la postura correcta establecida, Dios ahora hablará. No para explicar la historia, sino para **definir la vida bajo Su gobierno**.
+##### Este versículo cierra definitivamente la queja.  Detiene el razonamiento humano y prepara el terreno para la visión.  La pregunta ya no será: *¿Por qué Dios hace esto?* Sino: **¿Cómo se vive mientras Dios lo hace?**
+
+##### Con la postura correcta establecida, Dios ahora hablará. No para explicar la historia, sino para **definir la vida bajo Su gobierno**.
+
+##### Hasta el momento Habacuc estuvo viendo a Dios y las circunstancias en base a su razonamiento humano, y en su razonamiento estaba en lo correcto, esto lo llevo a una vida de angustia, queja y negatividad. Incluso llego al punto de cuestionar a Dios y su manera de actuar. 
+
+##### Pero el Señor estuvo mostrándole que Su carácter y Sus caminos son distintos a los del hombre incapaz, Él estuvo dándose a conocer a Habacuc. Ahora el profeta esta en un proceso de cambio de pensamiento, esto como resultado de Dios habérsele revelado.
+
+##### El cambió de pensamiento de Habacuc en base a la verdad de Dios, resultará en una vida de Habacuc conforme a la verdad de Dios, conforme a Su justicia. Acompañemos al profeta en este proceso de conocer a Dios.
 
 ## En Síntesis (Habacuc 2:1)
 
-### Habacuc adopta una posición activa de vigilancia.
+Habacuc adopta una posición activa de vigilancia.
 
-### La espera es deliberada, no pasiva.
+La espera es deliberada, no pasiva.
 
-### El profeta espera corrección tanto como explicación.
+El profeta espera corrección tanto como explicación.
 
-### La postura refleja sumisión sin renunciar a la pregunta.
+La postura refleja sumisión sin renunciar a la pregunta.
 
 # HABACUC 2:2–5 — LA VISIÓN Y LA VIDA ANTE DIOS
 
 ## Habacuc 2:2 — Mandato de registrar la visión
 
-Habacuc 2:2 
-"*Y Jehová me respondió, y dijo: Escribe la visión, y declárala en tablas, para que corra el que leyere en ella.*"
+### Habacuc 2:2 
 
-### Habacuc 2:2a "*Y Jehová me respondió*"
+Y Jehová me respondió, y dijo: Escribe la visión, y declárala en tablas, para que corra el que leyere en ella.
 
-#### La respuesta llega, pero **no como Habacuc la esperaba**.
+#### Y Jehová me respondió
 
-#### Dios no comienza evaluando la queja. No defiende Su método. Tampoco corrige el diagnóstico. Simplemente **responde**.
+##### La respuesta llega, pero **no como Habacuc la esperaba**.
 
-#### El silencio terminó, pero no en los términos del profeta.
+##### Dios no comienza evaluando la queja. No defiende Su manera de actuar. Tampoco corrige el diagnóstico. Simplemente **responde**.
 
-### Habacuc 2:2b "*y dijo*"
+##### El silencio terminó, pero no en los términos del profeta.
 
-#### La brevedad es significativa. No hay discurso largo. No hay introducción emocional. No hay explicación previa. La autoridad está en **el hecho de que Dios habla**, no en la extensión de Sus palabras.
+#### y dijo
 
-### Habacuc 2:2c “*Escribe la visión*"
+##### La brevedad es significativa. No hay discurso largo. No hay introducción emocional. No hay explicación previa. La autoridad está en **el hecho de que Dios habla**, no en la extensión de Sus palabras.
 
-#### La primera orden no es: “entiende”, “razona”, “explica”.
+#### Escribe la visión
 
-#### Es: "*escribe*." Esto indica que la visión no debe quedarse privada. Ultimadamente, no es solo para Habacuc, tiene validez objetiva y pública. La respuesta de Dios **debe permanecer**, no solo escucharse.
+##### La primera orden no es: “entiende”, “razona”, “explica”.
 
-### Habacuc 2:2d  “*y declárala en tablas*"
+##### Es: "*escribe*." Esto indica que la visión no debe quedarse privada. La finalidad de que el profeta escribiera esta visión, es que esta no es solo para Habacuc, tiene validez objetiva y pública. La respuesta de Dios **debe permanecer**, no solo escucharse.
 
-#### El mandato se refuerza. La visión debe ser visible, fija y accesible.  Las tablas sugieren: permanencia, claridad y autoridad. Esto contrasta con la queja de Habacuc, que fue verbal, momentánea y reactiva.
+#### y declárala en tablas
 
-### Habacuc 2:2e “*para que corra el que leyere en ella*"
+##### El mandato se refuerza. La visión debe ser visible, fija y accesible.  Las tablas sugieren: permanencia, claridad y autoridad. Esto contrasta con la queja de Habacuc, que fue verbal, momentánea y reactiva.
 
-#### El propósito no es contemplación, sino **movimiento**. La visión está diseñada para ser entendida con claridad, impulsar acción y guiar vida en medio de crisis.  No se escribe para resolver dudas intelectuales, sino para **sostener al que sigue avanzando**.
+#### para que corra el que leyere en ella
 
-#### Habacuc 2:2 establece un principio fundamental: La respuesta de Dios no explica el pasado, **orienta el futuro**. La visión no responde por qué Babilonia. Responde**cómo vivir mientras Babilonia actúa**.
-#### Este versículo cambia el tipo de respuesta divina, desplaza el foco de justicia a vida, y prepara el contenido central del libro.  La pregunta ya no es: *¿Es Dios justo?* Sino: **¿Cómo vive el justo cuando la justicia no se ve?**
+##### El propósito no es contemplación, sino **movimiento**. La visión está diseñada para ser entendida con claridad, impulsar acción y guiar vida en medio de crisis.  No se escribe para resolver las dudas intelectuales del hombre, sino para **sostener al que sigue avanzando**.
 
-#### En **Habacuc 2:3**, Dios abordará directamente el problema del **tiempo**. No negará la crisis. No acelerará la historia. Definirá **la espera**.
+##### Habacuc 2:2 establece un principio fundamental: La respuesta de Dios no explica el pasado, **orienta el futuro**. La visión no responde por qué Babilonia. Responde **cómo vivir mientras Babilonia actúa**.
+##### Este versículo cambia el tipo de respuesta divina, desplaza el foco de justicia a vida, y prepara el contenido central del libro.  La pregunta ya no es: *¿Es Dios justo?* Sino: **¿Cómo vive el justo cuando la justicia no se ve?**
+
+##### En **Habacuc 2:3**, Dios abordará directamente el problema del **tiempo**. No negará la crisis. No acelerará la historia. Definirá **la espera**.
 ## Habacuc 2:3 Declaración sobre el tiempo de la visión
 
-Habacuc 2:3 
-"*Porque es aún visión para el tiempo señalado, y hablará al fin, y no mentirá; aunque tardare, espéralo, porque sin duda vendrá, no tardará.*"
+### Habacuc 2:3 
 
-### Habacuc 2:3a “*Porque es aún visión*"
+Porque es aún visión para el tiempo señalado, y hablará al fin, y no mentirá; aunque tardare, espéralo, porque sin duda vendrá, no tardará.
 
-#### Dios comienza afirmando la **validez** de la visión. No es provisional. No es tentativa. No es condicionada por la respuesta humana. La visión **permanece verdadera**, independientemente de la experiencia inmediata.
+#### Porque es aún visión
 
-### Habacuc 2:3b “*para el tiempo señalado*"
+##### Dios comienza afirmando la **validez** de la visión. No es provisional. No es tentativa. No es condicionada por la respuesta humana. La visión **permanece verdadera**, independientemente de la experiencia inmediata.
 
-#### Aquí aparece el tema del **tiempo**, pero no como problema, sino como gobierno. El tiempo no es: caótico, impredecible, determinado por la urgencia humana. Es **señalado**. 
+#### para el tiempo señalado
 
-#### Esto introduce una diferencia crucial: la justicia humana exige inmediatez; la justicia de Dios opera por designación.
+##### Aquí aparece el tema del **tiempo**, pero no como problema, sino como gobierno. El tiempo no es: caótico, impredecible, determinado por la urgencia humana. Es un tiempo **señalado** por Dios. 
+
+##### Esto introduce una diferencia crucial: la justicia humana exige inmediatez; la justicia de Dios opera por designación.
 
 ### Habacuc 2:3c “*y hablará al fin*"
 
