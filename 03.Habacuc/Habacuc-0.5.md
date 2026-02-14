@@ -1950,7 +1950,7 @@ Oración del profeta Habacuc, en tono de Sigionot.
 
 ### Habacuc 3:2 
 
-Oh SEÑOR, he oído lo que se dice de Ti y temí. Aviva, oh SEÑOR, Tu obra en medio de los años, En medio de los años dala a conocer; En la ira, acuérdate de tener compasión. 
+Oh SEÑOR, he oído lo que se dice de Ti y temí. Aviva, oh SEÑOR, Tu obra en medio de los años, En medio de los años dala a conocer; En la ira, acuérdate de tener compasión.
 
 #### Oh SEÑOR...Oh SEÑOR
 
@@ -1988,347 +1988,340 @@ Oh SEÑOR, he oído lo que se dice de Ti y temí. Aviva, oh SEÑOR, Tu obra en m
 
 ##### Esto conecta con el conocimiento de la gloria de Jehová (2:14). La obra de Dios no solo transforma la historia; **enseña quién es Dios**.
 
-### Habacuc 3:2g “*en la ira acuérdate de la misericordia*"
+#### En la ira, acuérdate de tener compasión.
 
-#### Este es el clímax teológico del versículo. Habacuc no niega la ira. No la suaviza. No la cuestiona. La **acepta como real**. Pero apela a algo mayor: la misericordia como parte del carácter de Dios.
+##### Este es el clímax de la enseñanza de Dios del versículo. Habacuc no niega la ira de Dios. No la suaviza. No la cuestiona. La **acepta como real**. Pero apela a algo mayor: la misericordia como parte del carácter de Dios.
 
-##### No pide cancelación del juicio, anulación de la justicia, evasión de consecuencias. Pide **memoria misericordiosa dentro del juicio**.
+- No pide cancelación del juicio, anulación de la justicia, evasión de consecuencias. Pide **memoria misericordiosa dentro del juicio**.
 
-#### Habacuc 3:2 muestra un cambio total de postura: Habacuc ya no pide que Dios se alinee con su justicia, sino que su propia esperanza se alinee con el carácter de Dios.
+##### Habacuc 3:2 muestra un cambio total de postura: Habacuc ya no desea que Dios se alinee con su justicia, sino que su esperanza se alinee con el carácter de Dios.
 
-#### El profeta vive ahora: sin explicaciones completas, sin control histórico, pero con **confianza reverente**. El justo vive por fe porque: oye la palabra, teme a Dios, espera en medio del tiempo, confía en la misericordia aun en la ira. Habacuc **encarna** lo que Dios declaró.
+##### El profeta vive ahora: sin explicaciones completas, sin control histórico, pero con **confianza reverente**. El justo vive por fe porque: oye la palabra, teme a Dios, espera en medio del tiempo, confía en la misericordia aun en la ira. Habacuc **vive** por la fe lo que Dios declaró.
 
-#### Este versículo: introduce la oración histórica que sigue, establece el tono de temor y confianza, explica por qué Habacuc puede recordar los actos pasados de Dios sin exigir cambios inmediatos. La fe ya no discute. La fe **adora y espera**.
+##### Este versículo: introduce la oración histórica que sigue, establece el tono de temor y confianza, explica por qué Habacuc puede recordar los actos pasados de Dios sin exigir cambios inmediatos. La fe ya no discute. La fe **adora y espera**.
 
-#### En **3:3**, Habacuc comenzará a **recordar la historia de Dios**: no como argumento, sino como fundamento de confianza. La memoria sustituye a la queja.
+##### En **3:3**, Habacuc comenzará a **recordar la historia de Dios**: no como argumento de una queja, sino como fundamento de confianza. La memoria sustituye a la queja.
 
 ## Habacuc 3:3–15 — La fidelidad del Señor en acción
 
-Habacuc 3:3 
-"*Dios vendrá de Temán, y el Santo desde el monte de Parán. Selah. Su gloria cubrió los cielos, y la tierra se llenó de su alabanza.*"
+### Habacuc 3:3 
 
-### Habacuc 3:3a “*Dios vendrá*"
+Dios viene de Temán, Y el Santo, del monte Parán. (Selah) Su esplendor cubre los cielos, Y de Su alabanza está llena la tierra.
 
-#### Habacuc comienza con una **afirmación de acción divina**, no una petición. No dice: *quizá vendrá*, *si Dios viene*, *esperamos que venga*.
+#### Dios viene
 
-#### Dice: "vendrá." Esto no describe un evento nuevo, sino una **forma reconocible de actuar de Dios**. Habacuc está evocando el patrón histórico de la intervención divina.
+##### Habacuc comienza con una **afirmación de acción divina**, no una petición. No dice: *quizá vendrá*, *si Dios viene*, *esperamos que venga*.
 
-### Habacuc 3:3b “*de Temán… desde el monte de Parán*"
+##### Dice: "Dios viene" Esto no describe un evento nuevo, sino una **forma reconocible de actuar de Dios**. Habacuc está evocando el patrón histórico de la intervención divina del Señor.
 
-#### Estos lugares no son geográficos al azar. Temán y Parán están asociados con: el sur, el desierto, el éxodo, las teofanías tempranas de Dios.
+#### el Santo
 
-#### Habacuc conecta a Dios con liberación pasada, manifestación poderosa, intervención soberana fuera de los centros humanos de poder. Dios no emerge de imperios, sino **desde lugares marginales según el hombre**.
+##### El título es intencional. Habacuc no enfatiza: poder militar, fuerza destructiva, dominio político. Enfatiza **santidad**. Esto conecta directamente con: su tensión inicial en 1:13, la dificultad de reconciliar santidad y método divino.
 
-### Habacuc 3:3c “*el Santo*"
+##### Ahora, Habacuc no cuestiona la santidad;  la **afirma sin conflicto**.
 
-#### El título es intencional. Habacuc no enfatiza: poder militar, fuerza destructiva, dominio político. Enfatiza **santidad**. Esto conecta directamente con: su tensión inicial en 1:13, la dificultad de reconciliar santidad y método divino.
+#### de Temán…del monte Parán
 
-#### Ahora, Habacuc no cuestiona la santidad;  la **afirma sin conflicto**.
+##### Estos lugares no son geográficos al azar. Temán y Parán están asociados con: el sur, el desierto, el éxodo, las teofanías (manifestaciones) tempranas de Dios.
 
-### Habacuc 3:3d “*Selah*"
+##### Habacuc conecta a Dios con liberación pasada, manifestación poderosa, intervención soberana fuera de los centros humanos de poder. Dios no emerge de imperios, sino **desde lugares marginales según el hombre**.
 
-#### Este término introduce **pausa reflexiva**. No avanza la acción. Detiene el ritmo. Invita a contemplar, asimilar, internalizar lo dicho. La fe necesita memoria, y la memoria necesita **pausa**.
+#### Selah
 
-### Habacuc 3:3e “*Su gloria cubrió los cielos*"
+##### Este término introduce **pausa reflexiva**. No avanza la acción. Detiene el ritmo. Invita a contemplar, asimilar, internalizar lo dicho. La fe necesita memoria, y la memoria necesita **pausa**.
 
-#### Habacuc amplía la escala. La manifestación de Dios no es local. No es tribal. No es limitada. La gloria cubre, envuelve, sobrepasa. Los cielos representan lo inalcanzable, lo que trasciende control humano. Dios no actúa discretamente. Actúa con **plenitud visible**.
+#### Su esplendor cubre los cielos
 
-### Habacuc 3:3f “*y la tierra se llenó de su alabanza*"
+Habacuc amplía la escala. La manifestación de Dios no es local. No es tribal. No es limitada. Su esplendor (gloria) cubre, envuelve, sobrepasa. Los cielos representan lo inalcanzable, lo que trasciende control humano. Dios no actúa discretamente. Actúa con **plenitud y libertad visible**, porque Él es quien es.
 
-#### Aquí ocurre algo importante. La tierra no solo ve la gloria, es afectada por la gloria.
+#### Y de Su alabanza está llena la tierra.
 
-#### La tierra **responde** con alabanza. Esto muestra que: la creación reconoce a su Creador, la manifestación divina produce reconocimiento, la historia tiene capacidad de responder a Dios.
+##### Aquí ocurre algo importante. La tierra no solo ve la gloria, es afectada por la gloria.
 
-#### Esto anticipa directamente **Habacuc 2:14**: la tierra llena del conocimiento de la gloria de Jehová.
+##### La tierra **responde** con alabanza. Esto muestra que: la creación reconoce a su Creador, la manifestación del Señor produce reconocimiento, la historia tiene capacidad de responder a Dios.
 
-#### Habacuc 3:3 establece este principio: La fe se sostiene recordando cómo Dios ha actuado, no exigiendo que actúe según nuestras expectativas actuales. Habacuc no explica el presente; lo **ubica dentro de una historia mayor**.
+##### Esto anticipa directamente **Habacuc 2:14**: la tierra llena del conocimiento de la gloria de Jehová.
 
-##### Capítulo 1: Habacuc observa violencia presente
+##### Habacuc 3:3 establece este principio: La fe se sostiene recordando cómo Dios ha actuado, no exigiendo que actúe según nuestras expectativas actuales. Habacuc no explica el presente; lo **ubica dentro de una historia mayor**, la de Dios.
 
-##### Capítulo 2: Dios redefine cómo vivir
+- Capítulo 1: Habacuc observa violencia presente
+- Capítulo 2: Dios redefine cómo vivir
+- Capítulo 3: Habacuc recuerda quién es Dios históricamente
 
-##### Capítulo 3: Habacuc recuerda quién es Dios históricamente
+##### Reconocer quien es Dios sustituye a la queja como fundamento de confianza. Este versículo inicia la sección manifestación de Dios, establece a Dios como protagonista de la historia, prepara la descripción poderosa que seguirá (3:4–15).
 
-#### La memoria sustituye a la queja como fundamento de confianza. Este versículo inicia la sección teofánica, establece a Dios como protagonista histórico, prepara la descripción poderosa que seguirá (3:4–15).
+##### Habacuc ya no pregunta: *¿por qué haces esto?* Ahora afirma: "Este es el Dios que actúa." En **3:4**, la gloria descrita se volverá **visible y activa**: luz, poder, autoridad. La manifestación de Dios se intensifica.
 
-#### Habacuc ya no pregunta: *¿por qué haces esto?* Ahora afirma: "Este es el Dios que actúa." En **3:4**, la gloria descrita se volverá **visible y activa**: luz, poder, autoridad. La teofanía se intensifica.
+### Habacuc 3:4
 
-Habacuc 3:4 
-"*Y el resplandor fue como la luz; rayos brillantes salían de su mano, y allí estaba escondido su poder.*"
+Su resplandor es como la luz; Tiene rayos que salen de Su mano, Y allí se oculta Su poder.
 
-### Habacuc 3:4a “*Y el resplandor fue como la luz*"
+#### Su resplandor es como la luz
 
-#### Habacuc describe **apariencia**, no definición. No intenta explicar qué es Dios, sino **cómo se manifiesta** cuando actúa.
+##### Habacuc describe **apariencia**, no definición. No intenta explicar qué es Dios, sino **cómo se manifiesta** cuando actúa.
 
-#### El resplandor: precede a la acción, anuncia presencia, impone atención.
+##### El resplandor: precede a la acción, anuncia presencia, impone atención.
 
-#### La comparación “como la luz” indica: claridad absoluta, imposibilidad de ocultamiento, revelación que desplaza la oscuridad.
+##### La comparación “como la luz” indica: claridad absoluta, imposibilidad de ocultamiento, revelación que desplaza la oscuridad.
 
-#### La intervención divina no es ambigua. "La luz como señal de revelación** La luz aquí no es solo brillo, sino **revelación activa**. Implica: verdad expuesta, realidad desenmascarada, fin del ocultamiento.
+##### La intervención de Dios no es ambigua. **La luz esta como señal de revelación**. La luz aquí no es solo brillo, sino **revelación activa**. Implica: verdad expuesta, realidad desenmascarada, fin del ocultamiento.
 
-#### Esto contrasta con: idolatría muda (2:18–19), sistemas que operan en engaño, violencia encubierta por poder.
+##### Esto contrasta con: idolatría muda (2:18–19), sistemas que operan en engaño, violencia encubierta por poder.
 
-#### Cuando Dios se manifiesta, **todo queda visible**.
+##### Cuando Dios se manifiesta, **todo queda visible**.
 
-### Habacuc 3:4b “*rayos brillantes salían de su mano*"
+#### Tiene rayos que salen de Su mano
 
-#### La imagen cambia de pasiva a **dinámica**. La mano representa: acción directa, autoridad ejecutiva, control soberano.
+##### La imagen cambia de pasiva a **dinámica**. La mano representa: acción directa, autoridad ejecutiva, control soberano.
 
-#### Los rayos: no son decorativos, no son simbólicos solamente, expresan **energía activa y dirigida**. Dios no solo aparece; **actúa**.
+##### Los rayos: no son decorativos, no son simbólicos solamente, expresan **energía activa y dirigida**. Dios no solo aparece; **actúa**.
 
-### Habacuc 3:4 La procedencia: “*de su mano*"
+##### Habacuc 3:4 La procedencia: “*de Su mano*"
 
-#### El poder no es autónomo. No es fuerza impersonal. Proviene de Dios mismo. Esto corrige cualquier idea de energía abstracta, destino ciego, poder sin voluntad. El juicio y la salvación proceden del **Dios personal**.
+- El poder no es autónomo. No es fuerza impersonal. Proviene de Dios mismo. Esto corrige cualquier idea de energía abstracta, destino ciego, poder sin voluntad. El juicio y la salvación proceden del **Dios vivo**.
 
-### Habacuc 3:4c “*y allí estaba escondido su poder*"
+#### Y allí se oculta Su poder.
 
-#### Este detalle es crucial. Aunque Dios se manifiesta con gloria, **Su poder no se agota en lo visible**. Parte de Su poder permanece oculto, no es plenamente perceptible, no es controlable por el observador.
+##### Este detalle es crucial. Aunque Dios se manifiesta con gloria, **Su poder no se agota en lo visible**. Parte de Su poder permanece oculto, no es plenamente perceptible, no es controlable por el observador.
 
-#### Esto introduce un equilibrio. Dios revela lo suficiente para confiar, pero oculta lo suficiente para no ser dominado.
+##### Esto introduce un equilibrio. Dios revela lo suficiente para confiar.
 
-#### Habacuc 3:4 establece este principio: Dios se revela con claridad suficiente pero nunca con totalidad manejable. La fe no nace de comprender todo, sino de reconocer **quién actúa**.
-#### Habacuc comenzó preguntando: *¿Por qué ves el mal?*, *¿Por qué callas?*
+- Habacuc 3:4 establece este principio: Dios se revela con claridad suficiente hacia la humanidad. La fe no nace de comprender todo, sino de reconocer **quién actúa**.
+- Habacuc comenzó preguntando: *¿Por qué ves el mal?*, *¿Por qué callas?*
+- Aquí aprende algo distinto: El poder de Dios no siempre es visible, pero nunca está ausente. El hecho de que esté “escondido” no significa que no esté operando.
+- Este versículo: introduce la descripción detallada de la manifestación de Dios, muestra que la historia no está fuera del control del Señor, prepara la secuencia de acción poderosa que sigue (3:5–15). Habacuc ya no exige explicación. Contempla **la manifestación del Señor de los ejércitos**.
 
-#### Aquí aprende algo distinto: El poder de Dios no siempre es visible, pero nunca está ausente. El hecho de que esté “escondido” no significa que no esté operando.
-#### Este versículo: introduce la descripción detallada de la teofanía, muestra que la historia no está fuera del control divino, prepara la secuencia de acción poderosa que sigue (3:5–15). Habacuc ya no exige explicación. Contempla **manifestación**.
+### Habacuc 3:5
 
-Habacuc 3:5 
-"*Delante de él iba la pestilencia, y a sus pies salía carbunclo.*"
+Delante de Él va la pestilencia, Y la plaga sigue Sus pasos.
 
-### Habacuc 3:5a “*Delante de él*"
+#### Delante de Él
 
-#### La acción tiene **dirección**. La pestilencia no aparece por azar. No surge independientemente. Va **delante de Dios**. 
+##### La acción tiene **dirección**. La pestilencia no aparece por azar. No surge independientemente. Va **delante de Dios**. 
 
-#### Esto indica: iniciativa divina, precedencia, autoridad absoluta sobre los eventos.
+##### Esto indica: iniciativa divina, precedencia, autoridad absoluta sobre los eventos.
 
-#### La historia no se adelanta a Dios; **Dios va delante de la historia**.
+##### La historia no se adelanta a Dios; **Dios va delante de la historia**.
 
-### Habacuc 3:5b “*iba la pestilencia*"
+#### va la pestilencia
 
-#### La pestilencia aquí no es descrita médicamente, sino **teológicamente**. Representa juicio, fragilidad humana, interrupción de seguridad.
+##### La pestilencia aquí no es descrita médicamente, sino **como revelación de Dios**. Representa juicio, fragilidad humana, interrupción de seguridad.
 
-#### Importante: Habacuc no moraliza la pestilencia. No la explica. La **ubica bajo el gobierno de Dios**. Esto responde indirectamente a la crisis inicial: Dios no es espectador del caos; incluso lo que trae temor está subordinado a Él.
+##### Importante: Habacuc no moraliza la pestilencia. No la explica. La **ubica bajo el gobierno de Dios**. Esto responde indirectamente a la crisis inicial: Dios no es espectador del caos; incluso lo que trae temor está subordinado a Él.
 
-#### El verbo “iba” muestra **avance constante**. No es un estallido momentáneo. Es una marcha. La teofanía no es estática: Dios no aparece y desaparece, Dios **avanza**. La justicia divina no es pasiva.
-### Habacuc 3:5c “*y a sus pies*"
+##### El verbo “va” muestra **avance constante**. No es un estallido momentáneo. Es una marcha. Su manifestación no es estática: Dios no aparece y desaparece, Dios **avanza**. La justicia divina no es pasiva sino activa.
+#### Y la plaga
 
-#### La imagen cambia de lo que va delante a lo que sigue inmediatamente. “*Sus pies*” indican: cercanía absoluta, subordinación total, control directo. Nada actúa por encima de Dios. Nada actúa fuera de Su alcance.
+##### La plaga intensifica la imagen. No solo hay enfermedad, sino **consumo**. Esto comunica: juicio que purifica, destrucción de lo corrupto, avance que no deja intacto lo injusto. La presencia de Dios **afecta profundamente** el entorno.
 
-### Habacuc 3:5d “*salía carbunclo*"
+#### sigue Sus pasos.
 
-#### El carbunclo (ardor, fuego, plaga) intensifica la imagen. No solo hay enfermedad, sino **consumo**. Esto comunica: juicio que purifica, destrucción de lo corrupto, avance que no deja intacto lo injusto. La presencia de Dios **afecta profundamente** el entorno.
+##### La imagen cambia de lo que va delante a lo que sigue inmediatamente. “*Sus pasos” indican: cercanía absoluta, subordinación total, control directo. Nada actúa por encima de Dios. Nada actúa fuera de Su alcance.
 
-#### Habacuc 3:5 establece este principio: La presencia de Dios no es neutral. Donde Él avanza, algo es confrontado. La santidad no solo ilumina; también **consume lo que no puede permanecer**.
-#### Habacuc comenzó preguntando: ¿Por qué no intervienes? ¿Por qué callas ante la violencia?
+- Habacuc 3:5 establece este principio: La presencia de Dios no es neutral. Donde Él avanza, algo es confrontado. La santidad no solo ilumina; también **consume lo que no puede permanecer**.
+- Habacuc comenzó preguntando: ¿Por qué no intervienes? ¿Por qué callas ante la violencia?
+- Ahora ve algo distinto. La intervención de Dios es más profunda y más temible de lo que había imaginado. Dios no interviene **a la medida humana** sino a Su medida.
+- Este versículo: inicia la secuencia de juicio en movimiento, muestra que la gloria de Dios tiene efecto histórico, prepara la confrontación con la creación misma (3:6). La historia no resiste intacta cuando Dios pasa por ella.
+- En **Habacuc 3:6**, el avance divino afectará: tierra, montes, estructuras que parecen permanentes. Lo estable se sacudirá.
 
-#### Ahora ve algo distinto. La intervención de Dios es más profunda y más temible de lo que había imaginado. Dios no interviene **a la medida humana**.
-#### Este versículo: inicia la secuencia de juicio en movimiento, muestra que la gloria de Dios tiene efecto histórico, prepara la confrontación con la creación misma (3:6). La historia no resiste intacta cuando Dios pasa por ella.
+### Habacuc 3:6
 
-#### En **Habacuc 3:6**, el avance divino afectará: tierra, montes, estructuras que parecen permanentes. Lo estable se sacudirá.
+Se detuvo, e hizo temblar la tierra, Miró e hizo estremecerse a las naciones. Sí, se desmoronaron los montes perpetuos, Se hundieron las colinas antiguas. Sus caminos son eternos.
 
-Habacuc 3:6 
-"*Se levantó, y midió la tierra; miró, e hizo temblar las naciones; y los montes antiguos fueron desmenuzados, los collados antiguos se humillaron. Sus caminos son eternos.*"
+#### Se detuvo
 
-### Habacuc 3:6a “*Se levantó*”
+##### La imagen es deliberadamente **regia y activa**. Dios no aparece como espectador. No observa desde lejos. **Se detuvo**.
 
-#### La imagen es deliberadamente **regia y activa**. Dios no aparece como espectador. No observa desde lejos. **Se levanta**.
+##### Este verbo comunica: iniciativa soberana, autoridad en acción, decisión ejecutiva. Cuando Dios se detiene, la historia **no permanece igual**.
 
-#### Este verbo comunica: iniciativa soberana, autoridad en acción, decisión ejecutiva. Cuando Dios se levanta,  la historia **no permanece igual**.
+#### e hizo temblar la tierra
 
-### Habacuc 3:6b “*y midió la tierra*”
+##### Una mejor traducción a esta expresión la encontramos en la RV09: *y midió la tierra*
 
-#### Medir no es solo observar; es **evaluar y delimitar**. Medir implica: establecer límites, afirmar propiedad, ejercer derecho legítimo. La tierra no es autónoma. No se gobierna a sí misma.
+##### Medir no es solo observar; es **evaluar y delimitar**. Medir implica: establecer límites, afirmar propiedad, ejercer derecho legítimo. La tierra no es autónoma. No se gobierna a sí misma.
 
-#### Es **medida por Dios**. Esto responde directamente a la arrogancia humana: los imperios no poseen la tierra; Dios la mide.
+##### Es **medida por Dios**. Esto responde directamente a la arrogancia humana: los imperios no poseen la tierra; Dios la posee, Él la mide.
 
-### Habacuc 3:6c “*miró, e hizo temblar las naciones*"
+#### Miró e hizo estremecerse a las naciones
 
-#### La acción es mínima; el efecto es máximo. Dios **mira**, y las naciones **tiemblan**. No hay batalla descrita. No hay discurso. No hay negociación. La sola presencia de Dios: desestabiliza poder, revela fragilidad, expone dependencia.
+##### La acción es mínima; el efecto es máximo. Dios **mira**, y las naciones **tiemblan**. No hay batalla descrita. No hay discurso. No hay negociación. La sola presencia de Dios: desestabiliza poder, revela fragilidad, expone dependencia.
 
-#### Las naciones no tiemblan por ignorancia, sino por **reconocimiento implícito**.
+##### Las naciones no tiemblan por ignorancia, sino por **reconocer quien realmente es el Gobernante**.
 
-### Habacuc 3:6d “*los montes antiguos fueron desmenuzados*”
+#### Sí, se desmoronaron los montes perpetuos
 
-#### Los montes representan: estabilidad, permanencia, lo que parece inamovible.“*Antiguos*” refuerza esta idea: larga duración, resistencia histórica, autoridad simbólica. Pero ante Dios: se desmenuzan, pierden solidez, dejan de sostener. Lo que parecía eterno, **no lo es**.
+##### Los montes representan: estabilidad, permanencia, lo que parece inamovible. 
 
-### Habacuc 3:6e “*los collados antiguos se humillaron*”
+##### “*Perpetuos*” refuerza esta idea: larga duración, resistencia histórica, autoridad simbólica. Pero ante Dios: Se desmenuzan, pierden solidez, dejan de sostener. Lo que parecía eterno, **no lo es**.
 
-#### La imagen se repite con variación. No solo se quiebran; **se humillan**. Esto introduce una dimensión moral: la creación responde al Creador, lo elevado desciende, lo orgulloso se somete. La humillación aquí no es castigo, sino **reconocimiento de jerarquía**.
+#### Se hundieron las colinas antiguas
 
-### Habacuc 3:6f “*Sus caminos son eternos*"
+##### La imagen se repite con variación. No solo se quiebran; **se hunden**. Esto introduce una dimensión moral: la creación responde al Creador, lo elevado desciende, lo orgulloso se somete. La hundimiento aquí no es castigo, sino **reconocimiento de jerarquía**.
 
-#### Este enunciado cierra el versículo con contraste absoluto. Mientras las naciones tiemblan, montes se deshacen, estructuras antiguas caen, **los caminos de Dios permanecen**.
+#### Sus caminos son eternos.
 
-#### No los caminos humanos. No los sistemas imperiales.  No las ciudades fundadas en sangre. Los caminos de Dios: no envejecen, no colapsan, no requieren corrección.
+##### Este enunciado cierra el versículo con contraste absoluto. Mientras las naciones tiemblan, montes se deshacen, estructuras antiguas caen, **los caminos de Dios permanecen**.
 
-#### Habacuc 3:6 establece este principio: Todo lo que parece permanente en la historia es relativo frente a los caminos eternos de Dios.  La fe descansa aquí: no en lo estable, sino en **lo eterno**.
+##### Ni los caminos humanos, ni los sistemas imperiales, ni las ciudades fundadas en sangre permanecerán. Pero los caminos de Dios: no envejecen, no colapsan, no requieren corrección.
 
-#### Habacuc temía: la fuerza de Babilonia, la aparente permanencia de la injusticia, el dominio prolongado del mal. Aquí aprende que lo antiguo no es eterno y lo poderoso no es definitivo.
+- Habacuc 3:6 establece este principio: Todo lo que parece permanente en la historia es relativo frente a los caminos eternos de Dios. La fe descansa aquí: no en lo estable, sino en **lo eterno** (Dios y lo que proviene del Él).
+- Habacuc temía: la fuerza de Babilonia, la aparente permanencia de la injusticia, el dominio prolongado del mal. Aquí aprende que lo antiguo no es eterno y lo poderoso no es definitivo.
+- Este versículo: amplía el alcance de Dios manifestándose a escala global, desmantela toda falsa seguridad histórica, prepara la referencia explícita a pueblos concretos (3:7). Nada queda intacto cuando Dios se detiene.
+- En **Habacuc 3:7**, Habacuc volverá a mirar: pueblos específicos, tiendas, naciones concretas, y verá que el temblor no es abstracto, sino **histórico y real**.
 
-#### Este versículo: amplía el alcance de la teofanía a escala global, desmantela toda falsa seguridad histórica, prepara la referencia explícita a pueblos concretos (3:7). Nada queda intacto cuando Dios se levanta.
+### Habacuc 3:7 
 
-#### En **Habacuc 3:7**, Habacuc volverá a mirar: pueblos específicos, tiendas, naciones concretas, y verá que el temblor no es abstracto, sino **histórico y real**.
+Bajo aflicción vi las tiendas de Cusán, Temblaban las tiendas de la tierra de Madián. 
 
-Habacuc 3:7 
-"*He visto las tiendas de Cusán en aflicción; las tiendas de la tierra de Madián temblaron.*"
+#### ...vi...
 
-### Habacuc 3:7a “*He visto*"
+##### Habacuc vuelve a hablar en **primera persona**. No está citando una tradición abstracta.  No está repitiendo una fórmula litúrgica. Está **testificando**. El profeta no solo oye (3:2); ahora **ve**. La fe no se limita a aceptar palabras; aprende a **interpretar la historia a la luz de Dios**.
 
-#### Habacuc vuelve a hablar en **primera persona**. No está citando una tradición abstracta.  No está repitiendo una fórmula litúrgica. Está **testificando**. El profeta no solo oye (3:2); ahora **ve**. La fe no se limita a aceptar palabras; aprende a **interpretar la historia a la luz de Dios**.
+#### las tiendas de Cusán
 
-### Habacuc 3:7b “*las tiendas de Cusán*"
+##### La referencia a *tiendas* es significativa. No se mencionan palacios, ciudades fortificadas, estructuras permanentes. Se mencionan **tiendas**: Se refiere a una vida nómada, vulnerabilidad, dependencia constante del entorno.
 
-#### La referencia a *tiendas* es significativa. No se mencionan palacios, ciudades fortificadas, estructuras permanentes. Se mencionan **tiendas**: vida nómada, vulnerabilidad, dependencia constante del entorno.
+##### Cusán representa pueblos reales, históricos, pero **frágiles ante el avance divino**.
 
-#### Cusán representa pueblos reales, históricos, pero **frágiles ante el avance divino**.
+#### Bajo aflicción
 
-### Habacuc 3:7c “*en aflicción*"
+##### La reacción no es neutral. No hay resistencia organizada. No hay contraataque. Hay **aflicción**: Angustia, opresión interna, reconocimiento de incapacidad. La presencia de Dios no produce indiferencia; produce **crisis**.
 
-#### La reacción no es neutral. No hay resistencia organizada. No hay contraataque. Hay **aflicción**: angustia, opresión interna, reconocimiento de incapacidad. La presencia de Dios no produce indiferencia; produce **crisis**.
+#### Temblaban
 
-### Habacuc 3:7d “*las tiendas de la tierra de Madián*"
+##### El verbo conecta directamente con 3:6. Las naciones temblaron (3:6) Las tiendas tiemblan (3:7). El temblor no es solo político, es **existencial**. Cuando Dios avanza lo fuerte tiembla, lo frágil tiembla, lo antiguo tiembla.
 
-#### La repetición con variación refuerza el punto. Madián: aparece repetidamente en la historia temprana de Israel, representa pueblos del desierto, simboliza lo que está fuera del centro de poder imperial. Dios no solo confronta imperios; confronta **toda forma de vida humana**. Nadie queda al margen.
+#### las tiendas de la tierra de Madián.
 
-### Habacuc 3:7e “*temblaron*"
+##### La repetición con variación refuerza el punto. Madián: aparece repetidamente en la historia temprana de Israel, representa pueblos del desierto, simboliza lo que está fuera del centro de poder imperial. Dios no solo confronta imperios; confronta **toda forma de vida humana**. Nadie queda al margen.
 
-#### El verbo conecta directamente con 3:6. Las naciones temblaron (3:6) Las tiendas temblan (3:7) El temblor no es solo político, es **existencial**. Cuando Dios avanza lo fuerte tiembla, lo frágil tiembla, lo antiguo tiembla.
+##### Habacuc 3:7 establece este principio: La acción de Dios alcanza tanto a lo global como a lo cotidiano. No solo se sacuden montes y naciones; **también se sacude la vida ordinaria del ser humano**.
+##### La manifestación del Señor avanza así:
 
-#### Habacuc 3:7 establece este principio: La acción de Dios alcanza tanto a lo global como a lo cotidiano. No solo se sacuden montes y naciones; **también se sacude la vida ordinaria**.
-#### La teofanía avanza así:
+- 3:3–4 → Gloria visible
+- 3:5 → Juicio en movimiento
+- 3:6 → Colapso de lo permanente
+- 3:7 → Impacto en pueblos concretos
 
-##### 3:3–4 → gloria visible
+##### Habacuc está viendo que la historia no es un escenario distante, sino un lugar **habitado por personas reales**. Habacuc comenzó preocupado por: violencia concreta, injusticia visible, sufrimiento humano real.
 
-##### 3:5 → juicio en movimiento
+##### Aquí ve que Dios no es indiferente a pueblos pequeños ni a vidas aparentemente insignificantes. La soberanía divina **no borra lo humano**; lo incluye.
 
-##### 3:6 → colapso de lo permanente
+##### Este versículo: conecta la Dios con la historia concreta, muestra que el temor no es abstracto y prepara el lenguaje de confrontación directa con la creación (3:8). El avance continúa.
 
-##### 3:7 → impacto en pueblos concretos
+### Habacuc 3:8 
 
-#### Habacuc está viendo que la historia no es un escenario distante, sino un lugar **habitado por personas reales**. Habacuc comenzó preocupado por: violencia concreta, injusticia visible, sufrimiento humano real.
+¿Te indignaste, SEÑOR, contra los ríos? ¿Contra los ríos fue Tu ira, Contra el mar Tu furor, Cuando montaste en Tus caballos, En Tus carros de victoria?
 
-#### Aquí ve que Dios no es indiferente a pueblos pequeños ni a vidas aparentemente insignificantes. La soberanía divina **no borra lo humano**; lo incluye.
+El versículo está compuesto por **tres preguntas consecutivas**. No son preguntas informativas.  Son **retóricas**.
 
-#### Este versículo: conecta la teofanía con la historia concreta muestra que el temor no es abstracto prepara el lenguaje de confrontación directa con la creación (3:8). El avance continúa.
+Habacuc no está buscando saber *si* Dios se airó, sino **contra quién** y **por qué**. La repetición intensifica el punto: ríos, ríos (de nuevo), mar. La creación es interrogada como posible objeto de la ira.
 
-Habacuc 3:8 
-"*¿Te airaste, oh Jehová, contra los ríos? ¿Contra los ríos fue tu ira? ¿O contra el mar tu enojo, cuando montabas en tus caballos, y en tus carros de victoria?*"
+#### ¿Te indignaste, SEÑOR, contra los ríos?
 
-#### El versículo está compuesto por **tres preguntas consecutivas**. No son preguntas informativas.  Son **retóricas**.
+##### Los ríos representan: provisión, vida, estabilidad natural, orden creado.
 
-#### Habacuc no está buscando saber *si* Dios se airó, sino **contra quién** y **por qué**. La repetición intensifica el punto: ríos, ríos (de nuevo), mar. La creación es interrogada como posible objeto de la ira.
+##### Habacuc sabe que los ríos **no son culpables**. La pregunta expone una tensión, si la creación fue sacudida, no fue porque la creación pecó. Esto obliga a mirar **más allá de este evento**.
 
-### Habacuc 3:8a “*¿Te airaste… contra los ríos?*"
+#### ¿Contra los ríos fue Tu ira...?
 
-#### Los ríos representan: provisión, vida, estabilidad natural, orden creado.
+##### La repetición no es accidental. Refuerza la idea de que: el objeto visible (ríos) no es el objeto real del juicio. Habacuc está separando: **medio** de la acción, motivo de la acción. Dios puede usar la creación sin que la creación sea el enemigo.
 
-#### Habacuc sabe que los ríos **no son culpables**. La pregunta expone una tensión, si la creación fue sacudida, no fue porque la creación pecó. Esto obliga a mirar **más allá del fenómeno**.
+#### Contra el mar Tu furor
 
-### Habacuc 3:8b “*¿Contra los ríos fue tu ira?*” (repetición)
+##### El mar representa: caos, amenaza, fuerza incontrolable para el hombre. En la historia bíblica, el mar suele ser: dominado por Dios, atravesado por Dios, sometido a Dios
 
-#### La repetición no es accidental. Refuerza la idea de que: el objeto visible (ríos) no es el objeto real del juicio. Habacuc está separando: **medio** de la acción, motivo de la acción. Dios puede usar la creación sin que la creación sea el enemigo.
+- Habacuc sabe: Dios no pelea contra el mar como si el mar fuera rival.
 
-### Habacuc 3:8c “*¿O contra el mar tu enojo?*"
+#### Cuando montaste en Tus caballos
 
-#### El mar representa: caos, amenaza, fuerza incontrolable para el hombre. En la historia bíblica, el mar suele ser: dominado por Dios, atravesado por Dios, sometido a Dios
+##### Aquí la imagen cambia. Dios aparece como **guerrero victorioso**. Los caballos: indican avance, fuerza, velocidad, determinación. Pero no son caballos humanos. Son **instrumentos divinos**. La guerra no es defensiva. Es **decisiva**.
 
-##### Habacuc sabe: Dios no pelea contra el mar como si el mar fuera rival.
+#### ¿...En Tus carros de victoria?
 
-### Habacuc 3:8d “*cuando montabas en tus caballos*"
+##### El propósito se declara explícitamente. No son carros de destrucción arbitraria. Son **carros de victoria**. Esto redefine todo el capítulo: la sacudida, el temblor, el juicio. No son fines en sí mismos. Son **medios hacia victoria**.
 
-#### Aquí la imagen cambia. Dios aparece como **guerrero victorioso**. Los caballos: indican avance, fuerza, velocidad, determinación. Pero no son caballos humanos. Son **instrumentos divinos**. La guerra no es defensiva. Es **decisiva**.
+- Habacuc 3:8 establece este principio: Dios puede sacudir la creación sin que la creación sea el enemigo. La ira divina no es caótica, sin propósito. Sino que es **dirigida, intencional y redentora**.
+- Habacuc temía que: La violencia fuera sin propósito, el juicio fuera incoherente, la historia careciera de dirección. Aquí aprende que: incluso lo que parece descontrol está orientado hacia victoria, la del Señor.
+- Este versículo: aclara el objeto del juicio, absuelve a la creación como culpable, prepara la descripción del poder armado de Dios (3:9). La acción divina continúa, pero ahora con **dirección explícita**.
+- En **Habacuc 3:9**, el armamento de Dios será descrito: arco, juramento, palabra. La victoria no es solo se trata de la fuerza de Dios; sino también de su **fidelidad a lo prometido**.
 
-### Habacuc 3:8e “*y en tus carros de victoria*"
+### Habacuc 3:9
 
-#### El propósito se declara explícitamente. No son carros de destrucción arbitraria. Son **carros de victoria**. Esto redefine todo el capítulo: la sacudida, el temblor, el juicio. No son fines en sí mismos. Son **medios hacia victoria**.
+Tu arco fue desnudado por completo, Las varas de castigo fueron juradas. (Selah) Con ríos hendiste la tierra.
 
-#### Habacuc 3:8 establece este principio: Dios puede sacudir la creación sin que la creación sea el enemigo. La ira divina no es caótica. Es **dirigida, intencional y redentora**.
+#### Tu arco fue desnudado por completo
 
-#### Habacuc temía que: la violencia fuera sin propósito, el juicio fuera incoherente, la historia careciera de dirección. Aquí aprende que: incluso lo que parece descontrol está orientado hacia victoria.
+##### La imagen es **militar**, pero profundamente simbólica. El arco descubierto implica: preparación explícita, intención manifiesta, acción deliberada. No es amenaza velada. No es poder latente. Dios **revela** Su instrumento.
 
-#### Este versículo: aclara el objeto del juicio, absuelve a la creación como culpable, prepara la descripción del poder armado de Dios (3:9). La acción divina continúa, pero ahora con **dirección explícita**.
+- Esto comunica que Su acción: No es impulsiva, no es arbitraria, no es secreta. El juicio y la liberación proceden con **claridad de propósito**.
+- A diferencia de armas de contacto, el arco actúa a distancia. Esto sugiere: control, precisión, alcance soberano. Dios no actúa por reacción inmediata, sino por **dirección consciente**.
 
-##### En **Habacuc 3:9**, el armamento de Dios será descrito: arco, juramento, palabra. La victoria no es solo fuerza;  es **fidelidad a lo prometido**.
+#### Las varas de castigo
 
-Habacuc 3:9 
-"*Descubierto fue tu arco; fueron juramentos de tribus, palabra segura. Selah. Hendiste la tierra con ríos.*"
+##### En esta frase y la siguiente consideramos una traducción más acertada la que se encuentra en la RV60: *Los juramentos a las tribus...*
 
-### Habacuc 3:9a “*Descubierto fue tu arco*"
+##### Aquí aparece un elemento clave: **juramento**. La acción de Dios no es solo fuerza, es **fidelidad comprometida**. Los juramentos: remiten a promesas previas, evocan pactos históricos, conectan acción presente con palabra pasada. Dios actúa **en base a sus promesas**, no de manera arbitraría.
 
-#### La imagen es **militar**, pero profundamente simbólica. El arco descubierto implica: preparación explícita, intención manifiesta, acción deliberada. No es amenaza velada. No es poder latente. Dios **revela** Su instrumento.
+#### fueron juradas.
 
-##### Esto comunica que Su acción: no es impulsiva, no es arbitraria, no es secreta. El juicio y la liberación proceden con **claridad de propósito**.
+##### Según  la RV60: *...fueron palabra segura*
 
-##### A diferencia de armas de contacto, el arco actúa a distancia. Esto sugiere: control, precisión, alcance soberano. Dios no actúa por reacción inmediata, sino por **dirección consciente**.
+##### Esta frase ancla todo el versículo. El arco está ligado a la palabra. La acción está ligada al juramento. Esto significa: La historia no avanza al azar, el poder no se ejerce caprichosamente, la violencia no es autónoma. Lo que el Señor habló es la manera en la que Él actuará.
 
-### Habacuc 3:9b “*fueron juramentos de tribus*"
+#### Selah
 
-#### Aquí aparece un elemento clave: **juramento**. La acción de Dios no es solo fuerza, es **fidelidad comprometida**. Los juramentos: remiten a promesas previas, evocan pactos históricos, conectan acción presente con palabra pasada. Dios actúa **porque prometió**.
+##### De nuevo, pausa. No para emoción, sino para **meditar** en base a lo que Dios acababa de revelar.
 
-### Habacuc 3:9c “*palabra segura*"
+##### El lector debe detenerse a considerar: Que el juicio de Dios está ligado a Su promesa, que Su fuerza va acompañada a Su fidelidad, que la historia obedece a Su palabra.
 
-#### Esta frase ancla todo el versículo. El arco está ligado a la palabra. La acción está ligada al juramento. Esto significa: la historia no avanza al azar, el poder no se ejerce caprichosamente, la violencia no es autónoma. La palabra de Dios **gobierna la acción de Dios**.
+#### Con ríos hendiste la tierra.
 
-### Habacuc 3:9d “*Selah*"
+##### La imagen final vuelve a la creación. “Hendir” implica: Ruptura, intervención decisiva, transformación del paisaje.
 
-#### De nuevo, pausa. No para emoción, sino para **ponderación**.
+##### Los ríos: no solo destruyen, también dan vida, reorganizan la tierra. Esto sugiere que la acción divina: Juzga, pero también **reconfigura**. No es solo fin, es **reordenamiento** a la buena voluntad de Dios.
 
-#### El lector debe detenerse a considerar: que el juicio está ligado a promesa, que la fuerza está subordinada a fidelidad, que la historia obedece palabra.
+- Habacuc 3:9 establece este principio: El poder de Dios no se ejerce sin palabra, ni la palabra de Dios queda sin acción. Su Promesa y Su ejecución son inseparables.
+- Esto responde directamente a: La visión escrita (2:2), la palabra que no miente (2:3), la vida sostenida por fe (2:4).
+- Habacuc ahora ve que: La palabra (de Dios) que sostuvo su fe **sostiene también el rumbo de la historia**.
+- Este versículo: Une poder y promesa, explica por qué la acción de Dios es confiable, prepara la confrontación directa con la creación estremecida (3:10). La manifestación de Dios continúa, pero ahora con **la certeza de Su fidelidad**.
 
-### Habacuc 3:9e “*Hendiste la tierra con ríos*"
+### Habacuc 3:10
 
-#### La imagen final vuelve a la creación. “Hendir” implica: ruptura, intervención decisiva, transformación del paisaje.
+Te vieron los montes y temblaron, El diluvio de aguas pasó; Dio el abismo su voz, Levantó en alto sus manos.
 
-#### Los ríos: no solo destruyen, también dan vida, reorganizan la tierra. Esto sugiere que la acción divina: juzga, pero también **reconfigura**. No es solo fin, es **reordenamiento**.
+#### Te vieron los montes
 
-#### Habacuc 3:9 establece este principio: El poder de Dios no se ejerce sin palabra,ni la palabra de Dios queda sin acción. Promesa y ejecución son inseparables.
+##### La creación es presentada como **testigo consciente**. No es lenguaje científico, sino **lenguaje relacional**. Esto muestra la relación estrecha que el Creador tiene con Su creación.
 
-#### Esto responde directamente a: la visión escrita (2:2), la palabra que no miente (2:3), la vida sostenida por fe (2:4).
+##### Los montes: No solo existen, no solo son sacudidos, **reconocen** la presencia de Dios.
 
-#### Habacuc ahora ve que: la palabra que sostuvo su fe **sostiene también la historia**.
+##### "*vieron*" implica: percepción, reconocimiento, reacción inevitable. La creación **responde a Su Creador**.
 
-#### Este versículo: une poder y promesa, explica por qué la acción de Dios es confiable, prepara la confrontación directa con la creación estremecida (3:10). La teofanía continúa, pero ahora con **certeza de fidelidad**.
+#### y temblaron
 
-Habacuc 3:10 
-"*Los montes te vieron, y temblaron; pasó la inundación de las aguas; el abismo dio su voz, a lo alto alzó sus manos.*"
+##### La reacción es inmediata. No hay negociación. No hay resistencia. No hay demora. El temblor no se refiere a su destrucción, sino a una **respuesta reverente**. Esto refuerza el patrón de cuando Dios se manifiesta, entonces lo firme se vuelve frágil.
 
-### Habacuc 3:10a “*Los montes te vieron*"
+#### El diluvio de aguas pasó
 
-#### La creación es presentada como **testigo consciente**. No es lenguaje científico, sino **lenguaje relacional**.
+##### La imagen introduce **movimiento poderoso**. Las aguas no están quietas, no están controladas por el hombre, avanzan con fuerza. Pero aquí no avanzan libremente; **pasan**.
 
-#### Los montes: no solo existen, no solo son sacudidos, **reconocen** la presencia de Dios.
+##### Esto sugiere: Límite impuesto, dirección controlada, duración determinada. La fuerza natural no es autónoma también esta bajo el Señor de los ejércitos.
 
-#### "*vieron*" implica: percepción, reconocimiento, reacción inevitable. La creación **responde al Creador**.
+#### Dio el abismo su voz
 
-### Habacuc 3:10b “*y temblaron*"
+##### El abismo representa: profundidad, misterio, lo inexplorable. “*dio su voz*” implica: Respuesta, reconocimiento, sometimiento. Incluso lo más profundo y desconocido no permanece en silencio ante Dios.
 
-#### La reacción es inmediata. No hay negociación. No hay resistencia. No hay demora. El temblor no es destrucción total, sino **respuesta reverente y forzada**. Esto refuerza el patrón cuando Dios se manifiesta, lo firme se vuelve frágil.
+#### Levantó en alto sus manos.
 
-### Habacuc 3:10c “*pasó la inundación de las aguas*"
+##### La imagen es sorprendente. Levantar las manos puede significar: rendición, clamor, reconocimiento de autoridad. La creación no lucha; **se rinde** ante su Creador. Lo profundo se orienta hacia lo alto.
 
-#### La imagen introduce **movimiento poderoso**. Las aguas no están quietas, no están controladas por el hombre, avanzan con fuerza. Pero aquí no avanzan libremente; **pasan**.
-
-#### Esto sugiere: límite impuesto, dirección controlada, duración determinada. La fuerza natural no es autónoma.
-
-### Habacuc 3:10d “*el abismo dio su voz*"
-
-#### El abismo representa: profundidad, misterio, lo inexplorable. “*dio su voz*” implica: respuesta, reconocimiento, sometimiento. Incluso lo más profundo y desconocido no permanece en silencio ante Dios.
-
-### Habacuc 3:10e “*a lo alto alzó sus manos*"
-
-#### La imagen es sorprendente. Levantar las manos puede significar: rendición, clamor, reconocimiento de autoridad. La creación no lucha;  **se rinde**. Lo profundo se orienta hacia lo alto.
-
-#### Habacuc 3:10 establece este principio: Toda la creación reconoce la presencia de Dios antes que el ser humano la entienda.
-
-#### La creación responde **instintivamente** a lo que el hombre discute intelectualmente.
-
-#### Habacuc luchaba con: incoherencia aparente, silencio divino, injusticia persistente.
-
-#### Aquí ve que el universo no duda del gobierno de Dios. La creación no pregunta *¿hasta cuándo?* Simplemente responde.
-
-#### Este versículo: intensifica la respuesta cósmica a la teofanía, muestra que el juicio no es solo histórico, sino universal. Prepara la descripción del control absoluto sobre luz y tiempo (3:11). La teofanía avanza hacia su punto culminante.
-
-#### En **Habacuc 3:11**, incluso: el sol, la luna, los ritmos celestes se detendrán ante la acción divina.
+- Habacuc 3:10 establece este principio: Toda la creación reconoce la presencia de Dios antes que el ser humano la entienda.
+- La creación responde **naturalmente** a lo que el hombre discute en su razonamiento.
+- Habacuc luchaba con: Incoherencia aparente, silencio divino, injusticia persistente. Era su razonamiento humano
+- Aquí ve que el universo no duda del gobierno de Dios. La creación no pregunta *¿hasta cuándo?* Simplemente responde a lo que es real, quien gobierna y define la historia es el Señor, el Creador, el Soberano.
+- Este versículo: Intensifica la respuesta cósmica a la manifestación de Dios, muestra que Su  juicio no es solo histórico, sino universal. Prepara la descripción del control absoluto de Dios sobre luz y tiempo (3:11). La revelación de Dios avanza hacia su punto culminante.
+- En **Habacuc 3:11**, incluso: El sol, la luna, los ritmos celestes se detendrán ante la acción divina.
 
 Habacuc 3:11 
 "*El sol y la luna se pararon en su lugar; a la luz de tus saetas anduvieron, y al resplandor de tu fulgente lanza.*"
