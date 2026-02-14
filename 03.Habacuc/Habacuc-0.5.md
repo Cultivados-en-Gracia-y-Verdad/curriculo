@@ -1829,7 +1829,7 @@ Derramaron sangre, y robaron, así les vendrá el juicio.
 - Este versículo: inicia el último “ay”, desenmascara la raíz espiritual del poder injusto, prepara el contraste final con el Dios vivo (2:19–20).
 - Después de exponer: violencia, orgullo, humillación, explotación, Dios revela que todo descansa sobre **confianza falsa**.
 
-### Habacuc 2:19 
+### Habacuc 2:19
 
 ¡Ay del que dice al madero: “Despierta”, O a la piedra muda: “Levántate!”. ¿Será esto tu maestro? Mira que está cubierto de oro y plata, Y no hay aliento alguno en su interior.
 
@@ -1916,78 +1916,77 @@ El silencio final es una respuesta implícita, Dios y Su palabra permanecerán p
 
 ## Habacuc 3:1 Introducción a la oración del profeta
 
-### Habacuc 3:1 
+### Habacuc 3:1
 
 Oración del profeta Habacuc, en tono de Sigionot.
 
-### Habacuc 3:1a “*Oración*”
+#### Oración
 
-#### El género cambia explícitamente. Ya no es queja, diálogo, visión, ay. Es **oración**. 
+##### El género cambia explícitamente. Ya no es queja, diálogo, visión, "ay". Ahora Habacuc se expresará en una **oración**. 
 
-#### Esto indica postura correcta ante Dios, palabra dirigida **a** Dios, no **sobre** Dios. Habacuc no vuelve a argumentar. Se dirige a Dios con en confianza.
+##### Esto indica postura correcta ante Dios, palabra dirigida **a** Dios, no **sobre** Dios. Habacuc no vuelve a argumentar. Ahora se dirige a Dios en base a un conocimiento correcto de Él, en fe.
 
-### Habacuc 3:1b “*del profeta Habacuc*"
+#### del profeta Habacuc
 
-#### El profeta se nombra a sí mismo. Esto subraya continuidad personal (es el mismo Habacuc), pero **transformación de postura**. El que antes cuestionaba, ahora ora. No porque todo esté resuelto, sino porque **Dios reina**.
+##### El profeta se nombra a sí mismo. Esto subraya continuidad personal (es el mismo Habacuc), pero **transformación de postura**. El que antes cuestionaba, ahora ora. No porque todo esté resuelto, no porque sus quejas anteriores hayan sido respondidas, sino porque ahora sabe y confía que **Dios reina**.
 
-### Habacuc 3:1c “*sobre Sigionot*"
+#### en tono de Sigionot.
 
-#### Este término indica **forma**, no contenido. Se asocia con: canto apasionado, expresión poética, ritmo emocional intenso. La oración no es fría ni técnica. Es **afectiva**, profundamente sentida. Esto es importante la fe no elimina emoción, la **ordena**.
+##### Este término indica **forma**, no contenido. Se asocia con: canto apasionado, expresión poética, ritmo emocional intenso. La oración no es fría ni técnica. Es **afectiva**, profundamente sentida. Esto es importante, la fe no elimina la emoción, la **ordena**.
 
-#### Habacuc 3:1 muestra que: El silencio reverente (2:20) no termina en mutismo, sino en **oración transformada**. Habacuc no deja de hablar, pero deja de **disputar**.
+##### Habacuc 3:1 muestra que: El silencio reverente (2:20) no termina en mutismo, sino en **oración transformada**. Habacuc no deja de hablar, deja de **disputar**.
 
-##### Capítulo 1: Habacuc habla **desde su medida de justicia**
+- Capítulo 1: Habacuc habla **desde su medida de justicia**
+- Capítulo 2: Dios redefine **cómo vivir**
+- Capítulo 3: Habacuc ora **desde reconocimiento del gobierno divino de Dios**
 
-##### Capítulo 2: Dios redefine **cómo vivir**
+##### La oración no nace de respuestas, sino de una **confianza ajustada** hacia Dios.
 
-##### Capítulo 3: Habacuc ora **desde reconocimiento del gobierno divino**
+##### Este versículo: introduce el acto final del libro, establece tono litúrgico, prepara una oración que recuerda quién es Dios
 
-#### La oración no nace de respuestas, sino de **confianza ajustada**.
-
-#### Este versículo: introduce el acto final del libro, establece tono litúrgico, prepara una oración que recuerda quién es Dios
-
-#### Lo que sigue no será explicación del presente, sino **memoria del Dios que actúa en la historia**. En **3:2**, Habacuc hablará directamente: reconocerá temor, pedirá acción, y se ubicará correctamente en el tiempo de Dios.
+##### Lo que sigue no será explicación del presente, sino **memoria del Dios que actúa en la historia**. En **3:2**, Habacuc hablará directamente: reconocerá temor, pedirá acción, y se ubicará correctamente en el tiempo de Dios.
 
 ## Habacuc 3:2 Recuerdo de las obras del Señor
 
-Habacuc 3:2 
-"*Oh Jehová, he oído tu palabra, y temí. Oh Jehová, aviva tu obra en medio de los tiempos, en medio de los tiempos hazla conocer; en la ira acuérdate de la misericordia.*"
+### Habacuc 3:2 
 
-### Habacuc 3:2a “*Oh Jehová..Oh Jevohá*” (doble invocación)
+Oh SEÑOR, he oído lo que se dice de Ti y temí. Aviva, oh SEÑOR, Tu obra en medio de los años, En medio de los años dala a conocer; En la ira, acuérdate de tener compasión. 
 
-#### El nombre divino abre **y divide** el versículo. Habacuc se dirige directamente a Jehová: no habla *sobre* Dios, no razona *acerca* de Dios, habla **a** Dios. La repetición del nombre marca intensidad, muestra dependencia, expresa cercanía reverente. El profeta ya no interpela; **suplica**.
+#### Oh SEÑOR...Oh SEÑOR
 
-### Habacuc 3:2b “*he oído tu palabra*"
+##### El nombre divino abre **y divide** el versículo. Habacuc se dirige directamente al SEÑOR (Jehová): no habla *sobre* Dios, no razona *acerca* de Dios, habla **a** Dios. La repetición del nombre marca intensidad, muestra dependencia, expresa cercanía reverente. El profeta ya no pide explicaciones; ahora **suplica**.
 
-#### Este enunciado es decisivo. Habacuc no dice: “he entendido”, “he resuelto”, “he recibido respuestas claras”.
+#### he oído lo que se dice de Ti
 
-#### Dice: "*he oído.*"
+##### Este enunciado es decisivo. Habacuc no dice: “he entendido”, “he resuelto”, “he recibido respuestas claras”.
 
-#### Esto conecta directamente con: la visión escrita (2:2), la palabra que no miente (2:3), la redefinición de la vida por fe (2:4). Habacuc reconoce que Dios **sí habló**, aunque no habló como él esperaba.
+##### Dice: "*he oído.*"
 
-### Habacuc 3:2c “*y temí*"
+##### Esto conecta directamente con: la visión escrita (2:2), la palabra que no miente (2:3), la redefinición de la vida por fe (2:4). Habacuc reconoce que Dios **sí habló**, aunque no habló como él esperaba.
 
-#### El efecto de la palabra no fue alivio, sino **temor**. Este temor no es pánico, huida o desesperación. Es **temor reverente**: conciencia de la grandeza de Dios, reconocimiento del propio límite, aceptación de la soberanía divina.
+#### y temí
 
-#### Habacuc no queda tranquilo; queda **ubicado correctamente**.
+##### El efecto de la palabra de Dios no fue alivio, sino **temor**. Este temor no es pánico, huida o desesperación. Es **temor reverente**: conciencia de la grandeza de Dios, reconocimiento del propio límite, aceptación de la soberanía Dios.
 
-### Habacuc 3:2d “*aviva tu obra*"
+##### Habacuc no queda tranquilo; ahora comprende su posición delante de Dios y Su obra.
 
-#### Habacuc ahora adopta **el lenguaje de Dios**. Dios dijo: “Yo haré una obra” (1:5). Habacuc responde: “aviva tu obra”.
+#### Aviva, oh SEÑOR, Tu obra
 
-#### Esto es clave ya no propone su propia solución, ya no pide justicia según su medida. Pide que **la obra de Dios continúe**. La fe no exige un cambio de plan, pide **la fidelidad de Dios a Su propósito**.
+##### Habacuc ahora adopta **el lenguaje de Dios**. Dios dijo: “Yo haré una obra” (1:5). Habacuc responde: *aviva tu obra*.
 
-### Habacuc 3:2e “*en medio de los tiempos*” (repetido)
+##### Esto es clave, Habacuc ya no propone su propia solución, ya no pide justicia según su medida. Pide que **la obra de Dios continúe**. La fe no exige un cambio de plan, descansa en **la fidelidad de Dios a Su propósito**.
 
-#### La repetición no es redundante; es intencional. Habacuc se ubica entre promesa y cumplimiento, entre palabra y consumación, entre injusticia visible y gloria futura (2:14).
+#### en medio de los años, En medio de los años
 
-#### “*En medio*” expresa espera prolongada, tensión histórica, vida sin resolución inmediata. Habacuc acepta el **tiempo señalado** (2:3).
+##### La repetición no es redundante; es intencional. Habacuc se ubica entre promesa y cumplimiento, entre palabra y consumación, entre injusticia visible y gloria futura (2:14).
 
-### Habacuc 3:2f “*hazla conocer*"
+##### “*En medio*” expresa espera prolongada, tensión histórica, vida sin resolución inmediata. Habacuc acepta el **tiempo señalado y correcto**, el de Dios (2:3).
 
-#### La petición no es solo acción, sino **revelación**. Habacuc pide que la obra no sea invisible, que no quede oculta, que sea reconocida como obra de Dios.
+#### En medio de los años dala a conocer
 
-#### Esto conecta con el conocimiento de la gloria de Jehová (2:14). La obra de Dios no solo transforma la historia; **enseña quién es Dios**.
+##### La petición no es solo acción, sino **revelación**. Habacuc pide que la obra del Señor no sea invisible, que no quede oculta, que sea reconocida como obra de Dios.
+
+##### Esto conecta con el conocimiento de la gloria de Jehová (2:14). La obra de Dios no solo transforma la historia; **enseña quién es Dios**.
 
 ### Habacuc 3:2g “*en la ira acuérdate de la misericordia*"
 
