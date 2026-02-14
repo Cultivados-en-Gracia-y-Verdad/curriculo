@@ -4,7 +4,7 @@ set -euo pipefail
 # configure these:
 # ================================
 MANUAL_NAME="Romanos 1-8"
-FILE_LOCATION="../05.Romanos1-8/"
+FILE_LOCATION="../06.Romanos1-8/"
 FILENAME="manual.md"
 # ==================================
 FILE=${FILE_LOCATION}${FILENAME}

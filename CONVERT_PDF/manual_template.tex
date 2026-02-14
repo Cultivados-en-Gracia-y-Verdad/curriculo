@@ -66,7 +66,7 @@
   colback=white,
   width=0.85\textwidth,
   boxrule=0.5pt,
-  colframe=black!30,
+  colframe=black!40,
   arc=1mm,
   left=2mm,
   right=2mm,
@@ -75,14 +75,14 @@
   fonttitle=\bfseries,
   fontupper=\small,
   title=#1,
-  coltitle=black!40,
+  coltitle=black!60,
   attach boxed title to top left={xshift=4mm,yshift=-2mm},
   boxed title style={
     colback=white,
     boxrule=0pt,
     boxsep=0pt
   },
-  before upper={\color{black!40}}, % 👈 set lighter text color
+  before upper={\color{black!55}}, % 👈 set lighter text color
   before skip=14pt,
   after skip=10pt
 }
@@ -165,11 +165,13 @@
 \newenvironment{paraHone}
   {\begin{adjustwidth}{0pt}{}%
    \color{\BodyColor}%
+   \setstretch{1.25}% ← THIS is the key
    \setlength{\parskip}{0pt}%
    \setlength{\parindent}{0pt}%
-   \vspace{1pt}
-   \setlist[itemize]{label={}, left=0pt, itemsep=0pt, topsep=0pt}} % Suppress bullets
-  {\vspace{1pt}\end{adjustwidth}}
+   \vspace{2pt}%
+   \setlist[itemize]{label={}, left=0pt, itemsep=2pt, topsep=2pt}} % subtle list breathing
+  {\vspace{2pt}\end{adjustwidth}}
+
 
 \newenvironment{paraHtwo}
   {\begin{adjustwidth}{3em}{}%

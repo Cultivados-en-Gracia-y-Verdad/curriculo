@@ -192,3 +192,35 @@
 \setlength{\headheight}{14pt}
 \setlength{\headsep}{18pt}
 
+% En Síntesis stuff
+\usepackage{tcolorbox}
+\tcbuselibrary{breakable}
+
+\newtcolorbox{sintesisblock}{
+  breakable,
+  colback=white,
+  colframe=black!20,
+  boxrule=0.4pt,
+  left=1.8em,
+  right=1.8em,
+  top=1.2em,
+  bottom=1.2em,
+  before skip=1.5em,
+  after skip=1.5em
+}
+
+\newcommand{\sintesisTitle}[1]{%
+  {\headingfont\bfseries\itshape\color{black!60}#1\par}%
+  \vspace{0.8em}%
+}
+
+\newcommand{\sintesisItem}[1]{%
+  \par\noindent
+  \hangindent=1.6em
+  \hangafter=1
+  {\color{\CommentColor}\setstretch{1.25}%
+  \textbullet\hspace{0.6em}#1\par}%
+  \vspace{0.45em}%
+}
+
+

@@ -1,161 +1,171 @@
-- # Bible Study Rules
+# Reglas del Estudio Bíblico
 
-  ## Textual Base
-  - All Bible study must be based exclusively on the original-language texts.
-  - We will use this as our source manuscript: https://johnwry.github.io/bible-study/docs/sblgnt-txt/
-  - New Testament default: Nestle–Aland Greek New Testament, 28th Edition (NA28).
-  - Old Testament default: Biblia Hebraica Stuttgartensia (BHS).
-  - Modern translations must never be used for observation.
-  - Translations may only be referenced if explicitly requested and never as a basis for observation.
-  
-  ## Observation First
-  - All analysis must remain strictly text-bound.
-  - Observation precedes interpretation.
-  - Observations are limited to grammar, morphology, syntax, discourse markers, and immediate context.
-  - No theological synthesis or doctrinal framing is permitted during observation.
-  
-  ## No External Frameworks
-  - Do not impose theological systems, logical models, or scholarly outlines.
-  - The text must define its own structure and claims.
-  - Apparent tensions or contradictions may be noted but not resolved unless the text resolves them.
-  
-  ## Grammar Rules
-  - All grammatical observations must arise directly from the Greek or Hebrew text.
-  - English translations must never determine grammatical conclusions.
-  - Grammar may establish what the text asserts, but not theological meaning.
-  
-  ## Greek and English Presentation
-  - Greek text must be written in lowercase.
-  - Every Greek word cited must include its English gloss.
-  - English glosses must be italicized and enclosed in quotation marks.
-  - No Greek word may appear without an accompanying English gloss.
-  
-  ## Bible Reference Formatting
-  - Bible book names must always be written in full (no abbreviations).
-  - Traditional naming must be used (e.g., 1 John, 2 John).
-  - References must be written out fully.
-  - When applicable, references should be compatible with Blue Letter Bible Tagger (NBLA settings).
-  
-  ## Required Output Structure
-  All Bible study outputs must be structured entirely within the following numbered sections:
-  
-  1. Interlinear (horizontal)
-  2. Verb list with full morphology
-  3. Case-check table (article + noun combined)
-  4. Observations (text-bound)
-  5. Summary
-  6. Additional notes (non-interpretive, if needed)
-  
-  No content is permitted outside these sections.
-  
-  ## Analyze Command Rules
-  When the command “analyze” is used, the following apply:
-  
-  ### Section 1 – Interlinear
-  - Greek word followed by English gloss in horizontal format.
-  
-  ### Section 2 – Verb List with Full Morphology
-  Each verb must include:
-  - Tense, voice, mood, person, and number
-  - Greek lexeme
-  - English gloss
-  
-  ### Section 3 – Case-Check Table
-  - Single table combining article + noun.
-  - Columns for nominative, accusative, genitive, dative, and vocative using checkmarks only.
-  
-  ### Section 4 – Observations
-  - Strictly grammatical and textual.
-  - No interpretation or theology.
-  
-  ### Section 5 – Summary
-  - Restates what the grammar asserts.
-  - No doctrinal conclusions.
-  
-  ### Section 6 – Additional Notes
-  - Optional.
-  - Must remain non-interpretive.
-  
-  ## Lexical Definitions (Added Rule)
-  - In Section 2 (Verb list with full morphology), every verb must include a short lexical definition.
-  - Lexical definitions must come from reputable lexicons:
-    - BDAG is the default.
-    - LSJ may be used when broader classical sense is helpful.
-  - Each lexical entry must include:
-    - Greek lexeme
-    - English gloss
-    - Short, neutral lexical definition
-    - Lexicon cited
-  
-  Lexical definitions must be descriptive, text-bound, and free of theological interpretation or synthesis. Lexicons define semantic range, not meaning-in-context.
-  
-  ## Voice and Agency
-  - Active and passive distinctions must always be observed.
-  - Agency may only be assigned where grammar assigns it.
-  - Means, instrument, and sphere must be identified grammatically, not theologically.
-  
-  ## Imperative vs. Indicative
-  - The presence or absence of imperatives must be noted.
-  - Indicative statements must not be turned into exhortations.
-  - Declarative content remains declarative unless the text shifts mode.
-  
-  ## En Síntesis Rule
-  - En Síntesis sections must begin with an H2 header.
-  - Markdown headers only.
-  - No numbered headers.
-  - Every line must begin with a header marker.
-  - En Síntesis summarizes observations, not interpretations.
-  
-  ## Consistency
-  - These rules apply to all Bible-related work.
-  - If a rule conflicts with convenience, the rule prevails.
-  - When uncertain, default to less interpretation, not more.
-  - ### 1. Cross-References
-  
-    - Cross-references that appear **at the end of a sentence** must be placed **after the period**.
-    - **Do not use parentheses** for end-of-line references.
-    - When listing **multiple references**:
-      - Use a **semicolon ( ; )** to separate references from **different books**.
-      - Use a **comma ( , )** to separate references from the **same book**, without repeating the book name.
-  
-    **Example:**
-  
-    > …the argument is fully developed. 1 Corinthians 3:1, 4, 5:3; 2 Corinthians 3:3.
-  
-    ------
-  
-    ### 2. Six-Header Rule (Structural Requirement)
-  
-    - **All content must fall under one of the six designated headers.**
-    - **No content is permitted outside a header**, with **one exception**:
-      - **Block quotes** may appear without an additional header.
-  
-    This rule is absolute and applies to:
-  
-    - Explanatory text
-    - Observations
-    - Notes
-    - Lists
-    - Transitional statements
-  
-    ------
-  
-    ### 3. Block Quotes for Lexical and Reference Material
-  
-    - **Lexical definitions**, **dictionary entries**, **lexicon quotations**, and similar reference material **must always be placed in block quotes**.
-    - This includes:
-      - Greek or Hebrew lexical definitions
-      - Dictionary explanations
-      - Quoted reference material
-  
-    This visually and structurally distinguishes **observation and explanation** from **reference material**.
-  
-    ------
-  
-    ### 4. Editorial Intent
-  
-    These formatting rules exist to ensure:
-  
-    - Structural consistency across the entire manual
-    - Clear separation between **observation**, **explanation**, and **reference material**
-    - Compatibility with teaching, print, Word, PDF, and Hugo outputs
+## Base Textual
+
+- Todo estudio bíblico debe basarse exclusivamente en los textos originales.
+- Utilizaremos este manuscrito como fuente: https://johnwry.github.io/bible-study/docs/sblgnt-txt/
+- Nuevo Testamento: Nestlé-Aland Greek New Testament, 28.ª Edición (NA28).
+- Antiguo Testamento: Biblia Hebraica Stuttgartensia (BHS).
+- Las traducciones modernas nunca deben utilizarse para la observación.
+- Las traducciones solo se pueden citar si se solicita explícitamente y nunca como base para la observación.
+
+## Versíon Biblia en Español
+- Citamos la biblia NBLA en español de Lockman Foundation. 
+
+## Observación Primero
+
+- Todo análisis debe apegarse estrictamente al texto.
+- La observación precede a la interpretación.
+- Las observaciones se limitan a la gramática, la morfología, la sintaxis, los marcadores discursivos y el contexto inmediato.
+- No se permite la síntesis teológica ni el encuadre doctrinal durante la observación.
+
+## Sin marcos externos
+
+- No imponga sistemas teológicos, modelos lógicos ni esquemas académicos.
+- El texto debe definir su propia estructura y afirmaciones.
+- Se pueden señalar tensiones o contradicciones aparentes, pero no resolverlas a menos que el texto las resuelva.
+
+## Reglas gramaticales
+
+- Todas las observaciones gramaticales deben surgir directamente del texto griego o hebreo.
+- Las traducciones al inglés o español nunca deben determinar conclusiones gramaticales.
+- La gramática puede establecer lo que el texto afirma, pero no el significado teológico.
+
+## Presentación en griego y español
+
+- El texto griego debe escribirse en minúsculas (transliterado es mayúsculas). 
+- Cada palabra griega citada debe incluir su glosa en español.
+- Las glosas en español deben estar en cursiva y entre comillas.
+- Ninguna palabra griega puede aparecer sin una glosa en españ que la acompañe.
+
+## Formato de referencias bíblicas
+
+- Los nombres de los libros bíblicos siempre deben escribirse completos (sin abreviaturas). - Se debe usar la nomenclatura tradicional (p. ej., 1 Juan, 2 Juan).
+- Las referencias deben escribirse completas.
+
+
+## Estructura requerida del resultado
+
+Todos los resultados de estudios bíblicos deben estructurarse completamente dentro de las siguientes secciones numeradas:
+
+1. Interlineal (horizontal)
+2. Lista de verbos con morfología completa
+3. Tabla de verificación de casos (artículo + sustantivo combinados)
+4. Observaciones (encuadernado en texto)
+5. Resumen
+6. Notas adicionales (no interpretativas, si es necesario)
+
+No se permite contenido fuera de estas secciones.
+
+## Reglas del comando "Analizar"
+
+Cuando se utiliza el comando "analizar" o "analyze", se aplica lo siguiente:
+
+### Sección 1 – Interlineal
+
+- Palabra griega seguida de glosa en español en formato horizontal.
+
+### Sección 2 – Lista de verbos con morfología completa
+
+Cada verbo debe incluir:
+
+- Tiempo, voz, modo, persona y número
+- Lexema griego
+- Glosa en español
+
+### Sección 3 – Tabla de casos y comparación
+
+- Tabla única que combina artículo y sustantivo.
+- Columnas para nominativo, acusativo, genitivo, dativo y vocativo, utilizando solo tildes.
+
+### Sección 4 – Observaciones
+
+- Estrictamente gramatical y textual.
+- Sin interpretación ni teología.
+
+### Sección 5 – Resumen
+
+- Reitera lo que afirma la gramática.
+- Sin conclusiones doctrinales.
+
+### Sección 6 – Notas adicionales
+
+- Opcional.
+- Deben ser no interpretativas.
+
+## Definiciones Léxicas (Regla Añadida)
+
+- En la Sección 2 (Lista de Verbos con Morfología Completa), cada verbo debe incluir una breve definición léxica.
+- Las definiciones léxicas deben provenir de léxicos de renombre:
+- BDAG es la opción predeterminada.
+- Se puede usar LSJ cuando sea útil un sentido clásico más amplio.
+- Cada entrada léxica debe incluir:
+- Lexema griego
+- Glosa inglesa
+- Definición léxica breve y neutra
+- Léxico citado
+
+Las definiciones léxicas deben ser descriptivas, estar ligadas al texto y libres de interpretación o síntesis teológica. Los léxicos definen el rango semántico, no el significado en contexto.
+
+## Voz y Agencia
+
+- Siempre se deben observar las distinciones entre voz activa y pasiva.
+- La agencia solo se puede asignar cuando la gramática la asigna.
+- Los medios, el instrumento y la esfera deben identificarse gramaticalmente, no teológicamente.
+
+## Imperativo vs. Indicativo
+
+- Se debe notar la presencia o ausencia de imperativos.
+- Las afirmaciones indicativas no deben convertirse en exhortaciones.
+- El contenido declarativo sigue siendo declarativo a menos que el texto cambie de modo.
+
+## Regla de En Síntesis
+
+- Las secciones de En Síntesis deben comenzar con un encabezado H2.
+- Solo encabezados Markdown.
+- No se permiten encabezados numerados.
+- Cada línea debe comenzar con un marcador de encabezado.
+- En Síntesis resume observaciones, no interpretaciones.
+
+## Coherencia
+
+- Estas reglas se aplican a toda obra relacionada con la Biblia.
+- Si una regla entra en conflicto con la conveniencia, prevalece.
+- En caso de duda, se opta por una interpretación menor, no mayor.
+
+- ### 1. Referencias cruzadas
+
+- Las referencias cruzadas que aparecen **al final de una oración** deben colocarse **después del punto**.
+- **No utilice paréntesis** para las referencias de final de línea.
+
+- Al enumerar **varias referencias**:
+- Use un **punto y coma (;)** para separar las referencias de **diferentes libros**.
+- Use una **coma (,)** para separar las referencias del **mismo libro**, sin repetir el nombre del libro.
+
+**Ejemplo:**
+
+> …el argumento está completamente desarrollado. 1 Corintios 3:1, 4, 5:3; 2 Corintios 3:3.
+
+------
+
+### 2. Regla de los seis encabezados (Estructura
+
+```markdown
+# Contexto amplio generál. (Rom 1:1-17)
+## Contexto más específico (pasaje- Rom 1:1-7))
+### Referencia de versículo (Romanos 1:1)
+versículo (sin italico, ni comillas) 
+#### Palabra/frase de enfoque
+##### Comentario 
+- Punto bajo comentario
+
+palabra - GRIEGO TRANSLITERADO
+: definición
+```
+
+## El Uso de la IA
+- el uso de IA es bueno pero debe ser usado medidamente. 
+### La IA no es de confiar
+- todo lo que la IA indica debe ser confirmado
+- la IA es inestable (un día dice una cosa, otro día dice otra cosa)
+- la IA sabe dar definiciones al griego/hebreo. Vienen de fuentes externas. No deben ser confiadas pero sirve usando con referencia (pie de página por ejemplo). 

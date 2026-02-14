@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  10 FEB 2026 20:26
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  10 FEB 2026 22:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3531,17 +3531,14 @@ L3 programming layer <2025-01-18>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `student_manual.out' has not changed.
 (rerunfilecheck)             Checksum: 21E308AF31E8B74E7D4824B605CB2878;52595.
  ) 
 Here is how much of TeX's memory you used:
- 31289 strings out of 473832
- 675321 string characters out of 5729482
- 1217533 words of memory out of 5000000
- 53834 multiletter control sequences out of 15000+600000
+ 31293 strings out of 473832
+ 675381 string characters out of 5729482
+ 1217935 words of memory out of 5000000
+ 53838 multiletter control sequences out of 15000+600000
  564312 words of font info for 84 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  121i,17n,124p,634b,1427s stack positions out of 10000i,1000n,20000p,200000b,200000s

@@ -267,7 +267,7 @@ Es el mensaje acerca de Su Hijo, que nació de la descendencia de David según l
 
 ##### La carta comienza con lo que Dios es y <u>da</u>, no con lo que exige. 
 
-> **En Síntesis (1:1–7)
+>En Síntesis (1:1–7)
 >
 >- El evangelio tiene su origen en Dios, no en el hombre.
 >

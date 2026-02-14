@@ -1,5 +1,5 @@
 ---
-title:  "Galatas"
+title:  "Gálatas"
 subtitle:  "Llamados para Libertad"
 author:  "CGV"
 version:  "0.8"
@@ -8,109 +8,145 @@ date:  "2026-01-23"
 
 # Gálatas - Llamados para Libertad
 
+# Tabla de Contenidos
+
+I. Introducción y Contexto
+- Autor
+- Destinatarios
+- Contexto histórico
+- Contexto cultural
+- Situación que motiva la carta
+- Tema general
+II. Autoridad del Mensaje (Gálatas 1–2)
+- Pablo, no de hombres
+- Evangelio recibido por revelación
+- Conflicto con judaísmo
+- Pedro en Antioquía
+- Justificación por fe (2:16–21)
+III. Promesa vs Ley (Gálatas 3)
+- Abraham como modelo
+- Ley añadida por transgresiones
+- Ley temporal
+- Mediador vs promesa
+- Herencia depende de Dios
+IV. Esclavitud vs Adopción (Gálatas 4)
+- Heredero menor de edad
+- Rudimentos del mundo
+- Redención
+- Adopción
+- Conocer vs ser conocido
+- Volver a esclavitud
+V. Libertad y Vida en el Espíritu (Gálatas 5)
+- Libertad en Cristo
+- No volver a ley
+- Obras de la carne
+- Fruto del Espíritu
+- Contra tales cosas no hay ley
+VI. Implicaciones Prácticas (Gálatas 6)
+- Restauración
+- Sembrar y cosechar
+- Gloriarse en la cruz
+
 # Introducción al libro de Gálatas 
 
 ## Autor
 
-### El autor de la <u>carta</u> se identifica explícitamente como **Pablo**.
->Pablo, apóstol (no de hombres ni por hombre, sino por Jesucristo y por Dios el Padre).  Gálatas 1:1
+El autor de la <u>carta</u> se identifica explícitamente como Pablo.
+*Pablo, apóstol (no de hombres ni por hombre, sino por Jesucristo y por Dios el Padre).*  Gálatas 1:1
 
+A lo largo de la carta, el <u>autor</u> hace referencia directa a:
+Su conversión. Gálatas 1:15–16
+Su relación con los <u>apóstoles</u> en Jerusalén. Gálatas 1:18–24; 2:1–10
+Y su <u>ministerio</u> previo entre los destinatarios. Gálatas 4:13
 
-### A lo largo de la carta, el <u>autor</u> hace referencia directa a:
-#### Su conversión. Gálatas 1:15–16
-#### Su relación con los <u>apóstoles</u> en Jerusalén. Gálatas 1:18–24; 2:1–10
-#### Y su <u>ministerio</u> previo entre los destinatarios. Gálatas 4:13
-
-### Estos datos concuerdan con el <u>relato</u> histórico de Hechos 9, 13–14, lo cual apoya la autoría paulina desde el propio texto bíblico.
+Estos datos concuerdan con el <u>relato</u> histórico de Hechos 9, 13–14, lo cual apoya la autoría paulina desde el propio texto bíblico.
 
 ## Destinatarios
 
-### La carta está dirigida a múltiples iglesias ubicadas en la <u>región</u> de Galacia.
->a las iglesias de Galacia.   Gálatas 1:2
+La carta está dirigida a múltiples iglesias ubicadas en la <u>región</u> de Galacia.
+*a las iglesias de Galacia.*   Gálatas 1:2
 
-### (En esta guía la posición que tomamos respecto a la iglesias de Galacia a las que Pablo se dirige es que <u>trata</u> de las ubicadas en Galacia del Sur).
+(En esta guía la posición que tomamos respecto a la iglesias de Galacia a las que Pablo se dirige es que <u>trata</u> de las ubicadas en Galacia del Sur).
 
-### Los destinatarios corresponden a las iglesias fundadas por Pablo durante su primer <u>viaje</u> misionero (Hechos 13–14), en Galacia del Sur, específicamente en ciudades de Antioquía de Pisidia, Iconio, Listra y Derbe. 
-### La forma plural _iglesias_ <u>indica</u> un conjunto de congregaciones con una situación común.
+Los destinatarios corresponden a las iglesias fundadas por Pablo durante su primer <u>viaje</u> misionero (Hechos 13–14), en Galacia del Sur, específicamente en ciudades de Antioquía de Pisidia, Iconio, Listra y Derbe. 
+La forma plural _iglesias_ <u>indica</u> un conjunto de congregaciones con una situación común.
 
 ## Relación entre Pablo y los gálatas
 
-### Pablo escribe a creyentes <u>que</u> lo conocieron personalmente y a quienes él mismo anunció el evangelio.
->a causa de una enfermedad del cuerpo os anuncié el evangelio al principio.   
->Gálatas 4:13
+Pablo escribe a creyentes <u>que</u> lo conocieron personalmente y a quienes él mismo anunció el evangelio.
+*a causa de una enfermedad del cuerpo os anuncié el evangelio al principio.*    Gálatas 4:13
 
->antes me recibisteis como a un ángel de Dios, como a Cristo Jesús.   Gálatas 4:14
+*antes me recibisteis como a un ángel de Dios, como a Cristo Jesús.*   Gálatas 4:14
 
-### Esto muestra que:
-#### Pablo <u>estuvo</u> físicamente entre ellos,
-#### el evangelio llegó a esas iglesias por <u>medio</u> de su ministerio directo,
-#### existía una relación previa <u>fuerte</u> entre el apóstol y las congregaciones.
+Esto muestra que:
+Pablo <u>estuvo</u> físicamente entre ellos,
+el evangelio llegó a esas iglesias por <u>medio</u> de su ministerio directo,
+existía una relación previa <u>fuerte</u> entre el apóstol y las congregaciones.
 
 ## Fundación y crecimiento de las iglesias
 
-### El libro de Hechos describe la fundación de <u>estas</u> iglesias durante el primer viaje misionero de Pablo y Bernabé.
->confirmando los ánimos de los discípulos… y constituyeron ancianos en cada iglesia.   Hechos 14:22–23
+El libro de Hechos describe la fundación de <u>estas</u> iglesias durante el primer viaje misionero de Pablo y Bernabé.
+*confirmando los ánimos de los discípulos… y constituyeron ancianos en cada iglesia.*   Hechos 14:22–23
 
-### Tiempo estimado:
-#### Primer viaje misionero fue aproximadamente <u>entre</u> 44–46 d.C.
-#### Las iglesias ya <u>estaban</u> organizadas con ancianos antes del regreso de Pablo a Antioquía (Hechos 14:26–28).
+Tiempo estimado:
+Primer viaje misionero fue aproximadamente <u>entre</u> 44–46 d.C.
+Las iglesias ya <u>estaban</u> organizadas con ancianos antes del regreso de Pablo a Antioquía (Hechos 14:26–28).
 
-### Esto <u>indica</u> que las iglesias:
-#### Crecieron rápidamente,
-#### Se organizaron en poco <u>tiempo</u>,
+Esto <u>indica</u> que las iglesias:
+Crecieron rápidamente,
+Se organizaron en poco <u>tiempo</u>,
 
 ## Fecha probable de escritura
 
-### Considerando que:
-#### Pablo no <u>menciona</u> el **Concilio de Jerusalén**. Hechos 15
-#### Trata temas relacionados con la ley, la circuncisión y los gentiles (temas por los cuales habían <u>pasado</u> persecución en su primer viaje)
-#### y expresa sorpresa por un <u>desvío</u> ocurrido “*tan pronto*”,
->Estoy maravillado de que tan pronto os hayáis alejado. Gálatas 1:6
+Considerando que:
+Pablo no <u>menciona</u> el **Concilio de Jerusalén**. Hechos 15
+Trata temas relacionados con la ley, la circuncisión y los gentiles (temas por los cuales habían <u>pasado</u> persecución en su primer viaje) y expresa sorpresa por un <u>desvío</u> ocurrido “*tan pronto*”,
+*Estoy maravillado de que tan pronto os hayáis alejado.* Gálatas 1:6
 
-### La carta se fecha comúnmente entre 48–49 d.C., después del primer viaje misionero y antes del <u>Concilio</u> de Jerusalén.
+La carta se fecha comúnmente entre 48–49 d.C., después del primer viaje misionero y antes del <u>Concilio</u> de Jerusalén.
 
-#### Tiempo entre fundación y <u>crisis</u>:
-##### La fundación de las iglesias probablemente <u>haya</u> sido alrededor del 45 d.C.
+Tiempo entre fundación y <u>crisis</u>:
+La fundación de las iglesias probablemente <u>haya</u> sido alrededor del 45 d.C.
 
-##### Escritura de la carta probablemente <u>entre</u> 48–49 d.C.
-#### Intervalo <u>estimado</u>: 2–4 años
+Escritura de la carta probablemente <u>entre</u> 48–49 d.C.
+Intervalo <u>estimado</u>: 2–4 años
 
-#### Este corto período explica el <u>tono</u> urgente de la carta y la preocupación de Pablo.
+Este corto período explica el <u>tono</u> urgente de la carta y la preocupación de Pablo.
 
 ## Contexto histórico general
 
-### En el <u>momento</u> de la escritura:
-#### El mundo mediterráneo <u>estaba</u> bajo el dominio del Imperio Romano,
-#### El emperador era  <u>Claudio</u>  (41–54 d.C.),
-#### Existía estabilidad política <u>relativa</u> (*pax romana*),
-#### Las provincias estaban bien conectadas por <u>caminos</u> romanos.
+En el <u>momento</u> de la escritura:
+El mundo mediterráneo <u>estaba</u> bajo el dominio del Imperio Romano,
+El emperador era  <u>Claudio</u>  (41–54 d.C.),
+Existía estabilidad política <u>relativa</u> (*pax romana*),
+Las provincias estaban bien conectadas por <u>caminos</u> romanos.
 
-### Este contexto facilitó:
-#### Los viajes <u>misioneros</u>,
-#### La comunicación <u>entre</u> iglesias,
-#### La <u>rápida</u> expansión del cristianismo primitivo.
+Este contexto facilitó:
+Los viajes <u>misioneros</u>,
+La comunicación <u>entre</u> iglesias,
+La <u>rápida</u> expansión del cristianismo primitivo.
 
 ## Contexto cultural de los gálatas
 
-### Las iglesias estaban compuestas mayormente por <u>gentiles</u>, muchos de ellos ex-paganos.
+Las iglesias estaban compuestas mayormente por <u>gentiles</u>, muchos de ellos ex-paganos.
 >no conociendo a Dios, servíais a los que por naturaleza no son dioses.  Gálatas 4:8
 
-### Esto indica:
-#### Una membresía predominantemente <u>gentil</u>,
-#### Poca o ninguna formación <u>previa</u> en la ley judía, (Estaban siendo guiados hacia ello)
-#### Exposición <u>tanto</u> al paganismo grecorromano como a la influencia de judíos de la diáspora.
+Esto indica:
+Una membresía predominantemente <u>gentil</u>,
+Poca o ninguna formación <u>previa</u> en la ley judía, (Estaban siendo guiados hacia ello)
+Exposición <u>tanto</u> al paganismo grecorromano como a la influencia de judíos de la diáspora.
 
-### Culturalmente, <u>estas</u> ciudades eran:
-#### Helenizadas (<u>lengua</u> griega),
-#### <u>Romanas</u> en administración,
-#### Religiosamente <u>plurales</u>.
+Culturalmente, <u>estas</u> ciudades eran:
+Helenizadas (<u>lengua</u> griega),
+<u>Romanas</u> en administración,
+Religiosamente <u>plurales</u>.
 
 ## Situación que motiva la carta
 
-#### Pablo escribe porque las iglesias estaban siendo afectadas por enseñanzas contrarias al evangelio que <u>recibieron</u>.
+Pablo escribe porque las iglesias estaban siendo afectadas por enseñanzas contrarias al evangelio que <u>recibieron</u>.
 >hay algunos que os perturban y quieren pervertir el evangelio de Cristo.  Gálatas 1:7
 
-#### Esto ocurre en una <u>etapa</u> temprana del cristianismo, cuando aún se estaban definiendo las relaciones entre judíos y gentiles dentro de la iglesia.
+Esto ocurre en una <u>etapa</u> temprana del cristianismo, cuando aún se estaban definiendo las relaciones entre judíos y gentiles dentro de la iglesia.
 
 ## Tema de la carta
 
@@ -122,32 +158,34 @@ date:  "2026-01-23"
 
 ## Gálatas 1:1-2 - Apóstol, no de hombres
 
-### Gálatas 1:1a - *Pablo...* 
-#### Vemos a Pablo presentándose <u>como</u> el autor de la epístola. Gálatas 5:2
+### Gálatas 1:1
+Pablo, apóstol, no de parte de hombres ni mediante hombre alguno, sino por medio de Jesucristo y de Dios el Padre que lo resucitó de entre los muertos,
 
-### Gálatas 1:1b - *Pablo, apóstol...* 
+#### Pablo... 
+##### Vemos a Pablo presentándose <u>como</u> el autor de la epístola. Gálatas 5:2
 
-apóstol (APÓSTOLOS) 
+#### Pablo, apóstol...
+##### En este caso vemos a Pablo presentándose como un apóstol, alguien que había sido enviado con un mensaje, que <u>tiene</u> una tarea que realizar.
+
+apóstol - APÓSTOLOS
 : Significa mensajero, embajador o enviado. Esta palabra se usaba para describir a una persona <u>enviada</u> por una autoridad o un grupo de personas con el propósito de cumplir alguna tarea asignada.
 
-#### En este caso vemos a Pablo presentándose como un apóstol, alguien que había sido enviado con un mensaje, que <u>tiene</u> una tarea que realizar.
+#### ...apóstol, no de parte de hombres ni mediante hombre alguno...
+##### Pablo ahora dirá de <u>parte</u> de quién era apóstol y por medio de quién era realizado su apostolado.
 
-### Gálatas 1:1c - *...apóstol, no de parte de hombres ni mediante hombre alguno...* 
-#### Pablo ahora dirá de <u>parte</u> de quién era apóstol y por medio de quién era realizado su apostolado.
+#### ...no de parte de hombres...
+##### El apostolado de Pablo no vino por iniciativa o idea humana. Pablo no fue un enviado o un mensajero de hombres, por lo <u>tanto</u> el mensaje que anunciaba tampoco provenía de hombres.
 
-#### *...no de parte de hombres...* 
-#### El apostolado de Pablo no vino por iniciativa o idea humana. Pablo no fue un enviado o un mensajero de hombres, por lo <u>tanto</u> el mensaje que anunciaba tampoco provenía de hombres.
+#### ...ni mediante hombre alguno... 
+##### El apostolado de Pablo tampoco era posible por medio de la ayuda o intervención que <u>algún</u> hombre podría hacer o no hacer.
 
-#### *...ni mediante hombre alguno...* 
-#### El apostolado de Pablo tampoco era posible por medio de la ayuda o intervención que <u>algún</u> hombre podría hacer o no hacer.
+#### ...sino [apóstol] por medio de Jesucristo y de Dios el Padre... 
+##### El apostolado de Pablo tuvo su comienzo por la iniciativa de Jesucristo y de Dios el Padre, por lo que el mensaje  que <u>Pablo</u> anunciaba también era de parte de Jesucristo y del Padre.
 
-### Gálatas 1:1d - *...sino* [apóstol] *por medio de Jesucristo y de Dios el Padre...* 
-#### El apostolado de Pablo tuvo su comienzo por la iniciativa de Jesucristo y de Dios el Padre, por lo que el mensaje  que <u>Pablo</u> anunciaba también era de parte de Jesucristo y del Padre.
+##### La realización de este apostolado no era por medio de hombre alguno, ni si quiera de Pablo <u>mismo</u>, sino que era realizado por medio de la intervención, la fuerza y el mensaje que venían del Hijo y del Padre.
 
-#### La realización de este apostolado no era por medio de hombre alguno, ni si quiera de Pablo <u>mismo</u>, sino que era realizado por medio de la intervención, la fuerza y el mensaje que venían del Hijo y del Padre.
-
-### Gálatas 1:1e - *...Dios el Padre que lo resucitó de entre los muertos* 
-#### Pablo aclara que Aquel que había encomendado a Pablo a como apóstol, es el mismo que en un punto de la historia <u>levanto</u> de entre los muertos a Jesucristo. Hechos 3:15; Romanos 4:24
+#### ...Dios el Padre que lo resucitó de entre los muertos
+##### Pablo aclara que Aquel que había encomendado a Pablo a como apóstol, es el mismo que en un punto de la historia <u>levanto</u> de entre los muertos a Jesucristo. Hechos 3:15; Romanos 4:24
 
 #### La resurrección de Jesucristo no fue posible por <u>medio</u> de intervención o poder de alguna carne, de algún ser humano.
 
@@ -157,16 +195,21 @@ apóstol (APÓSTOLOS)
 
 ### Pablo quiere dejar claro desde el <u>inicio</u> a sus lectores, que Dios mismo era por medio de quien él era apóstol, no por medio de hombres. El rol que Pablo cumplía, el mensaje que anunciaba había sido dado por Dios Padre y Su Hijo Jesucristo.
 
-### Gálatas 1:2a - *y todos los hermanos que están conmigo:...* 
-#### El mensaje que se encuentra en esta epístola fue escrita por el apóstol de Dios, Pablo y en <u>apoyo</u> de los hermanos que estaban junto a él. Pablo no era el único que estaba de acuerdo con el contenido de esta carta, la cual veremos en todo este estudio.
+### Gálatas 1:2
+y todos los hermanos que están conmigo: A las iglesias de Galacia:
 
-### Gálatas 1:2b - *...A las iglesias de Galacia:...* 
+#### y todos los hermanos que están conmigo:... 
+##### El mensaje que se encuentra en esta epístola fue escrita por el apóstol de Dios, Pablo y en <u>apoyo</u> de los hermanos que estaban junto a él. Pablo no era el único que estaba de acuerdo con el contenido de esta carta, la cual veremos en todo este estudio.
+
+#### A las iglesias de Galacia:...* 
 #### Esta epístola no esta dirigida a una sola persona o a una sola iglesia local. Esta epístola fue escrita a todos los hermanos de <u>todas</u> las iglesias de la región de Galacia (Galacia del Sur). De ahí el nombre de esta epístola, Gálatas.
 
 ## Gálatas 1:3 - Deseos de Pablo para las iglesias de Galacia
 
-### Gálatas 1:3a - *Gracia y paz a ustedes...* 
-#### En el primer siglo al escribir una carta, después de que el autor se presentaba y mencionaba a los destinatarios de <u>dicha</u> carta, el autor pasaba a dar deseos de bienestar para sus destinatarios. En este caso Pablo da dos buenos deseos para sus hermanos de Galacia:
+### Gálatas 1:3  Gracia y paz a ustedes de parte de Dios nuestro Padre y del Señor Jesucristo,
+
+#### Gracia y paz a ustedes...
+##### En el primer siglo al escribir una carta, después de que el autor se presentaba y mencionaba a los destinatarios de <u>dicha</u> carta, el autor pasaba a dar deseos de bienestar para sus destinatarios. En este caso Pablo da dos buenos deseos para sus hermanos de Galacia:
 
 Gracia (CHARIS)
 : Significa bondad inmerecida, favor o bendición. Era parte de un saludo típico griego del siglo I, Pablo deseaba que los hermanos de Galacia disfrutaran de bondad inmerecida, <u>favor</u> en sus vidas.
@@ -174,16 +217,19 @@ Gracia (CHARIS)
 Paz (EIRENE)
 : Significa bienestar, tranquilidad. Era parte de un saludo típico judío, Pablo también deseaba bienestar y <u>orden</u> para la vida de estos hermanos.
 
-#### Pero ¿De <u>dónde</u> vendrían la gracia y la paz que Pablo deseaba para ellos?
+##### Pero ¿De <u>dónde</u> vendrían la gracia y la paz que Pablo deseaba para ellos?
 
-### Gálatas 1:3b - *...de parte de Dios nuestro Padre y del Señor Jesucristo* 
-#### Pablo se dirige a Dios como Padre, pero no solo el suyo, sino que también era el Padre de los hermanos <u>gálatas</u> y también se dirige a Jesucristo, como Señor.
+#### ...de parte de Dios nuestro Padre y del Señor Jesucristo
+##### Pablo se dirige a Dios como Padre, pero no solo el suyo, sino que también era el Padre de los hermanos <u>gálatas</u> y también se dirige a Jesucristo, como Señor.
 
-#### Pablo sabía que la gracia y la paz que estos creyentes podrían disfrutar en sus vidas solo podrían <u>venir</u> de su Dios Padre y de Jesucristo, su Señor. Esto es lo que el apóstol Pablo deseaba para ellos y para cualquier creyente en Jesucristo.
+##### Pablo sabía que la gracia y la paz que estos creyentes podrían disfrutar en sus vidas solo podrían <u>venir</u> de su Dios Padre y de Jesucristo, su Señor. Esto es lo que el apóstol Pablo deseaba para ellos y para cualquier creyente en Jesucristo.
 
 ## Gálatas 1:4-5 - La obra de Cristo conforme a la voluntad del Padre
 
-### Gálatas 1:4a - *que Él [Jesucristo] mismo se dio por nuestros pecados...* 
+### Gálatas 1:4 
+que Él mismo se dio por nuestros pecados para librarnos de este presente siglo malo, conforme a la voluntad de nuestro Dios y Padre,
+
+#### Gálatas 1:4a - *que Él [Jesucristo] mismo se dio por nuestros pecados...* 
 #### Ahora Pablo les recordará a los hermanos la obra que Jesucristo el Señor había hecho y el <u>propósito</u> de aquella.
 
 #### En un punto de la historia, fue Jesucristo, el Señor, quien voluntariamente se entrego para <u>morir</u> en la cruz, Él no fue obligado ni lo hiso de mala gana. Este acto fue en completo amor de Dios hacia la humanidad. Juan 3:16, 10:11; Efesios 5:2
@@ -206,6 +252,9 @@ Paz (EIRENE)
 
 #### ¿Cómo reaccionar <u>ante</u> tal manifestación del amor de nuestro Padre?
 
+### Gálatas 1:5 
+a quien sea la gloria por los siglos de los siglos. Amén.
+
 ### Gálatas 1:5 - *a quien sea la gloria por los siglos de los siglos. Amén.* 
 #### Pablo termina con una alabanza para Dios el Padre, esta alabanza nace por medio de conocer Su gran y <u>perfecta</u> voluntad hecha en Su Hijo Jesucristo. Solo Dios merece gloria, y desde siempre y para siempre, amén.
 
@@ -222,6 +271,8 @@ Paz (EIRENE)
 # Gálatas 1:6-10 - El Evangelio de Cristo
 
 ## Gálatas 1:6-9 - Abandonando a Aquel que los llamó
+
+### Gálatas 1:6  Me maravillo de que tan pronto ustedes hayan abandonado a Aquel que los llamó por la gracia de Cristo, para seguir un evangelio diferente,
 
 ### Gálatas 1:6a - *Me maravillo...* 
 #### La palabra maravillar refleja asombro o admiración. El apóstol Pablo estaba asombrado, pero era en <u>respuesta</u> a una realidad negativa de los hermanos gálatas. ¿Qué es lo que ellos habían hecho?
@@ -254,6 +305,8 @@ diferente (JETEROS)
 
 #### Lo que vemos hasta el momento es que una iglesia la cual va por un evangelio contrario al que Dios manifiesta en Su Palabra, es una <u>iglesia</u> la cual se esta apartando de Dios.
 
+### Gálatas 1:7  que en realidad no es otro evangelio, sino que hay algunos que los perturban a ustedes y quieren pervertir el evangelio de Cristo.
+
 ### Gálatas 1:7a - *que en realidad no es otro evangelio...* 
 #### Pablo les aclara a los hermanos que en <u>realidad</u> no hay mas evangelios, solo existe un evangelio. 1 Corintios 15:1-2
 
@@ -275,6 +328,8 @@ Perturbar (TARÁSSO)
 
 #### Pablo aclara que el evangelio, la buena <u>noticia</u> era del Dios-Hombre, Cristo. 1 Timoteo 2:5
 
+### Gálatas 1:8  Pero si aun nosotros, o un ángel del cielo, les anunciara otro evangelio contrario al que les hemos anunciado, sea anatema.
+
 ### Gálatas 1:8 - *Pero si aun nosotros, o un ángel del cielo, les anunciara otro evangelio contrario al que les hemos anunciado, sea anatema.* 
 #### En respuesta a los que deseaban <u>cambiar</u> el evangelio entre los hermanos gálatas, Pablo dará algunas declaraciones.
 
@@ -286,6 +341,8 @@ Perturbar (TARÁSSO)
 ##### En el Nuevo Testamento esta palabra <u>generalmente</u> es usada en un sentido negativo (Romanos 9:3; 1 Corintios 12:3, 16:22).
 
 ##### Pablo declara que si él y sus compañeros o un ángel les anunciaban un evangelio diferente, deberían <u>estar</u> bajo juicio de Dios.
+
+### Gálatas 1:9  Como hemos dicho antes, también repito ahora: Si alguien les anuncia un evangelio contrario al que recibieron, sea anatema.
 
 ### Gálatas 1:9 - *Como hemos dicho antes, también repito ahora: Si alguien les anuncia un evangelio contrario al que recibieron, sea anatema.* 
 #### Pablo vuelve a enfatizar las consecuencias de alguien que llega a anunciar un evangelio extraño, <u>esto</u> que hacían los que les perturbaban y trataban de cambiar el evangelio era algo muy serio.
@@ -300,6 +357,8 @@ Perturbar (TARÁSSO)
 ### El evangelio que Pablo les había anunciado no era de ningún hombre, ni siquiera de Pablo, era del Dios que <u>planeo</u> la obra de salvación de Cristo en la cruz, era del Dios que había resucitado a Cristo de entre los muertos, era del Dios Todopoderoso.
 
 ## Gálatas 1:10 - Agradar a los hombres o ser siervo de Cristo
+
+### Gálatas 1:10  Porque ¿busco ahora el favor de los hombres o el de Dios? ¿O me esfuerzo por agradar a los hombres? Si yo todavía estuviera tratando de agradar a los hombres, no sería siervo de Cristo.
 
 ### Gálatas 1:10a - *Porque ¿busco ahora el favor de los hombres o el de Dios? ¿O me esfuerzo por agradar a los hombres?...* 
 #### Pablo ahora explicará el <u>porque</u> de su posición ante los que intentaban pervertir el evangelio de Cristo.
@@ -333,6 +392,8 @@ Perturbar (TARÁSSO)
 
 ## Gálatas 1:11-12 - El evangelio que les fue anunciado
 
+### Gálatas 1:11  Pues quiero que sepan, hermanos, que el evangelio que fue anunciado por mí no es según el hombre.
+
 ### Gálatas 1:11a - *Pues quiero que sepan, hermanos, que el evangelio que fue anunciado por mí...* 
 #### En Gálatas 1:6 vemos que los <u>hermanos</u> habían cambiado el evangelio que Pablo les había anunciado.
 
@@ -342,6 +403,8 @@ Perturbar (TARÁSSO)
 
 ### Gálatas 1:11b - *...no es según el hombre.* 
 #### Los hermanos gálatas debían <u>saber</u> que el evangelio que Pablo les anunció no fue creado, ni tampoco vino por iniciativa de algún hombre.
+
+### Gálatas 1:12  Pues ni lo recibí de hombre, ni me fue enseñado, sino que lo recibí por medio de una revelación de Jesucristo.
 
 ### Gálatas 1:12a - *Pues ni lo recibí de hombre, ni me fue enseñado...* 
 #### Ningún hombre le <u>encomendó</u> el evangelio a Pablo y tampoco ningún hombre le enseño algo referente al evangelio.
@@ -363,6 +426,8 @@ Perturbar (TARÁSSO)
 
 ## Gálatas 1:13-17 - Vida pasada de Pablo y su llamado al ministerio
 
+### Gálatas 1:13  Porque ustedes han oído acerca de mi antigua manera de vivir en el judaísmo, de cuán desmedidamente perseguía yo a la iglesia de Dios y trataba de destruirla.
+
 ### Gálatas 1:13 - *Porque ustedes han oído acerca de mi antigua manera de vivir en el judaísmo, de cuán desmedidamente perseguía yo a la iglesia de Dios y trataba de destruirla.* 
 #### Los hermanos gálatas conocían la vida <u>anterior</u> de Pablo, antes de ser creyente, ahora quiere recordarles nuevamente.
 
@@ -371,6 +436,8 @@ Perturbar (TARÁSSO)
 #### También Pablo mismo lleno de furia contra los <u>cristianos</u>, realizaba su búsqueda para llevarlos encadenados y arrastrados a Jerusalén, esto obligándolos a blasfemar en contra de Cristo. Hechos 8:3, 9:1-2, 22:4-5
 
 #### Tal era el deseo de Pablo de <u>destruir</u> a la iglesia de Dios que incluso persiguió a los creyentes más allá de los territorios de Judea, en el extranjero. Hechos 26:9-11
+
+### Gálatas 1:14  Yo aventajaba en el judaísmo a muchos de mis compatriotas contemporáneos, mostrando mucho más celo por las tradiciones de mis antepasados.
 
 ### Gálatas 1:14 - *Yo aventajaba en el judaísmo a muchos de mis compatriotas contemporáneos, mostrando mucho más celo por las tradiciones de mis antepasados.* 
 #### La palabra judaísmo solo aparece dos <u>veces</u> en el Nuevo Testamento. Gálatas 1:13-14
@@ -387,12 +454,16 @@ Perturbar (TARÁSSO)
 
 ### La razón de que Pablo les recuerde su vida anterior en el judaísmo es para que vean que el evangelio que Pablo anunció a estos hermanos no podría venir de él ni de la religión judía, ya que en su pasada vida los pensamientos y acciones de Pablo iban en contra <u>directa</u> de Dios.
 
+### Gálatas 1:15  Pero cuando Dios, que me apartó desde el vientre de mi madre y me llamó por Su gracia, tuvo a bien
+
 ### Gálatas 1:15a - *Pero cuando Dios, que me apartó desde el vientre de mi madre y me llamó por Su gracia,...* 
 #### En base a Su previo conocimiento, Dios escogió a Pablo <u>incluso</u> desde antes que naciera. 
 
 #### Pablo no esta diciendo que Dios lo escogió para salvación, Pablo no tenía nada en especial delante de Dios, él era igual que los demás <u>pecadores</u>. Por eso aclara que él también fue llamado por la gracia de Dios, fue otro pecador salvado por la fe en Jesucristo.
 
 #### Entonces ¿Para qué fue <u>escogido</u> por Dios?
+
+### Gálatas 1:16  revelar a Su Hijo en mí para que yo lo anunciara entre los gentiles, no consulté enseguida con carne y sangre,
 
 ### Gálatas 1:15b-16a - *...tuvo a bien revelar a Su Hijo en mí para que yo lo anunciara entre los gentiles...* 
 #### Fue a Dios quien le agrado escoger a Pablo con el propósito de <u>mostrarle</u> a Su Hijo y apartarlo para que él lo anuncie a los gentiles. Romanos 1:1
@@ -403,6 +474,8 @@ Perturbar (TARÁSSO)
 
 ### Gálatas 1:16b - *...no consulté enseguida con carne y sangre,* 
 #### En respuesta a la revelación de Dios, Pablo no <u>busco</u> guía de ningún hombre, no le importaba saber lo que opinarían sobre el plan y mensaje que Dios le había revelado.
+
+### Gálatas 1:17  ni subí a Jerusalén a los que eran apóstoles antes que yo, sino que fui a Arabia, y regresé otra vez a Damasco.
 
 ### Gálatas 1:17a - *ni subí a Jerusalén a los que eran apóstoles antes de mí,...* 
 #### Los versículos anteriores donde hablan de Pablo <u>siendo</u> designado por Dios como apóstol apuntan a los inicios de los relatos de la vida de Pablo en Hechos 9.
@@ -430,6 +503,8 @@ Perturbar (TARÁSSO)
 
 ## Gálatas 1:18-24 - Los viajes e interacciones de Pablo como apóstol de Jesucristo
 
+### Gálatas 1:18  Entonces, tres años después, subí a Jerusalén para conocer a Pedro, y estuve con él quince días.
+
 ### Gálatas 1:18 - *Entonces, tres años después, subí a Jerusalén para conocer a Pedro, y estuve con él quince días.* 
 #### Pablo continuará narrando los eventos de sus viajes <u>después</u> de ser designado como apóstol de Jesucristo.
 
@@ -438,6 +513,9 @@ Perturbar (TARÁSSO)
 #### Por Hechos 9:26-30 sabemos que en la visita de Pablo los <u>hermanos</u> conocieron lo que el Señor ya estaba haciendo a través de él por medio del evangelio. También estuvo anunciando el evangelio en Jerusalén junto a los hermanos.
 
 #### Pablo aclara el poco tiempo, solo 15 días que estuvo junto a <u>Pedro</u>, un apóstol, alguien muy influyente entre los hermanos de la iglesia en ese tiempo. Vemos que el apostolado y mensaje de Pablo no comenzó ni era por medio del influyente Pedro.
+
+### Gálatas 1:19  
+Pero no vi a ningún otro de los apóstoles, sino a Jacobo, el hermano del Señor.
 
 ### Gálatas 1:19 - *Pero no vi a ningún otro de los apóstoles, sino a Jacobo, el hermano del Señor.* 
 #### Pablo no dice que no vio a ningún creyente más, sino que <u>solo</u> vio a dos apóstoles. 
@@ -448,6 +526,9 @@ Perturbar (TARÁSSO)
 
 #### Las únicas personas de renombre entre los hermanos que <u>Pablo</u> vio fueron a Pedro y Jacobo el hermanos del Señor, Pablo no había ido en busca de ellos para que lo ayuden o lo orienten en su apostolado. 
 
+### Gálatas 1:20  
+En lo que les escribo, les aseguro delante de Dios que no miento.
+
 ### Gálatas 1:20 - *En lo que les escribo, les aseguro delante de Dios que no miento.* 
 #### Pablo les asegura a los hermanos <u>gálatas</u> que lo que él les estaba contando era veraz, y ponía al Dios y padre como testigo. Esto debía ser muy bien considero por ellos:
 
@@ -457,6 +538,9 @@ Perturbar (TARÁSSO)
 
 #### Cuando Pablo fue a Jerusalén no buscaba guía o <u>instrucción</u> de lideres de la iglesia que talvez eran muy influyentes como podrían ser Pedro y Jacobo. 
 
+### Gálatas 1:21  
+Después fui a las regiones de Siria y Cilicia.
+
 ### Gálatas 1:21 - *Después fui a las regiones de Siria y Cilicia.* 
 #### Los viajes de Pablo como apóstol continuaron fuera de <u>Jerusalén</u> por las regiones de Siria y Cilicia.
 
@@ -464,8 +548,14 @@ Perturbar (TARÁSSO)
 
 #### Luego de un tiempo Pablo va hacia Antioquía de la región de <u>Siria</u>. Hechos 11:25-26
 
+### Gálatas 1:22  
+Pero todavía no era conocido en persona en las iglesias de Judea que eran en Cristo.
+
 ### Gálatas 1:22 - *Pero todavía no era conocido en persona en las iglesias de Judea que eran en Cristo.* 
 #### Pablo había estado con hermanos de la iglesia en Jerusalén, <u>pero</u> él aún no había conocido a gran parte de los hermanos de Judea.
+
+### Gálatas 1:23
+Ellos solo oían decir: «El que en otro tiempo nos perseguía, ahora predica la fe que en un tiempo quería destruir».
 
 ### Gálatas 1:23 - *Ellos solo oían decir: El que en otro tiempo nos perseguía, ahora predica la fe que en un tiempo quería destruir.* 
 #### Lo que si sabían los hermanos de Judea respecto a Pablo era <u>como</u> su vida había cambiado.
@@ -475,6 +565,9 @@ Perturbar (TARÁSSO)
 #### Pero ahora Pablo ya no perseguía a la iglesia de Dios, ahora él <u>estaba</u> predicando la fe, el evangelio que antes buscaba erradicar. 1 Timoteo 1:14-16; 1 Corintios 15:10
 
 #### ¿Cómo podía ser posible esto?
+
+### Gálatas 1:24
+Y glorificaban a Dios por causa de mí.
 
 ### Gálatas 1:24 - *Y glorificaban a Dios por causa de mí.* 
 #### Como vimos en Gálatas 1:13-16 Cuando <u>Pablo</u> era un practicante del judaísmo y perseguidor del evangelio, fue llamado por la gracia de Dios y designado como Su apóstol para proclamar Su evangelio a los gentiles.
