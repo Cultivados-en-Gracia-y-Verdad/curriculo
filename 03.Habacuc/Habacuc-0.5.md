@@ -1796,122 +1796,129 @@ Derramaron sangre, y robaron, así les vendrá el juicio.
 
 ## Habacuc 2:18–19 Quinto ay: "El colapso de toda confianza falsa"
 
-Habacuc 2:18 
-"*¿De qué sirve la escultura que esculpió el que la hizo, y la estatua de fundición que enseña mentira, para que haciendo imágenes mudas confíe el hacedor en su obra?*"
+### Habacuc 2:18 
 
-### Habacuc 2:18a “*¿De qué sirve la escultura…?*"
+¿De qué sirve el ídolo que su artífice ha esculpido, O la imagen fundida, maestra de mentiras, Para que su hacedor confíe en su obra Cuando hace ídolos mudos?
 
-#### Dios inicia con una **pregunta de inutilidad**. No discute estética. No discute habilidad artesanal. La pregunta es funcional, **¿qué produce realmente?**
+#### ¿De qué sirve el ídolo…?
 
-#### La idolatría es evaluada por su **resultado**, no por su intención.
+##### Dios inicia con una **pregunta de inutilidad**. No discute estética. No discute habilidad artesanal. La pregunta es funcional, **¿qué produce realmente?**
 
-### Habacuc 2:18b “*que esculpió el que la hizo*”
+##### La idolatría es evaluada por su **resultado**, no por su intención.
 
-#### Aquí se subraya el problema central: el creador, confía en lo creado. La relación está invertida. El objeto no precede al hombre, no lo trasciende, no lo gobierna. Es producto humano, no fuente de verdad.
+#### que su artífice ha esculpido
 
-### Habacuc 2:18c “*y la estatua de fundición*”
+##### Aquí se subraya el problema central: el creador, confía en lo creado. La relación está invertida. El objeto no precede al hombre, no lo trasciende, no lo gobierna. Es producto humano, no fuente de verdad.
 
-#### La repetición refuerza el argumento. No importa el material: madera, piedra, metal. El problema no es la forma, sino **la dependencia**. Cambiar el medio no cambia la falsedad.
+#### O la imagen fundida
 
-### Habacuc 2:18d “*que enseña mentira*”
+##### La repetición refuerza el argumento. No importa el material: madera, piedra, metal. El problema no es la forma, sino **la dependencia**. Cambiar el medio no cambia la falsedad.
 
-#### Aquí aparece la acusación doctrinal. El ídolo **enseña**, pero lo que enseña es falso. No es neutral. No es silencioso. Produce falsa seguridad, falsa dirección, falsa interpretación de la realidad. La idolatría es **pedagogía engañosa**.
+#### maestra de mentiras
 
-### Habacuc 2:18e “*imágenes mudas*”
+##### Aquí aparece la acusación doctrinal. El ídolo **enseña**, pero lo que enseña es falso. No es neutral. No es silencioso. Produce falsa seguridad, falsa dirección, falsa interpretación de la realidad. La idolatría es **pedagogía engañosa**.
 
-#### La ironía es deliberada. no hablan, no responden, no corrigen, no advierten Y aun así, el hombre **confía** en ellas. La mudez del ídolo contrasta con Dios que habla en (2:2), la visión que declara, la palabra que gobierna la vida.
+#### Para que su hacedor confíe en su obra
 
-### Habacuc 2:18f “*confíe el hacedor en su obra*”
+##### Este es el núcleo del “ay”. El problema no es solo adorar algo falso, sino **confiar en lo que uno mismo produce**. Esto conecta con todo el capítulo: orgullo que se expande (2:5), ciudades fundadas en sangre (2:12), gloria humana que termina en vergüenza (2:16). La idolatría es la **expresión religiosa del orgullo**.
+#### ¿...Cuando hace ídolos mudos?
 
-#### Este es el núcleo del “ay”. El problema no es solo adorar algo falso, sino **confiar en lo que uno mismo produce**. Esto conecta con todo el capítulo: orgullo que se expande (2:5), ciudades fundadas en sangre (2:12), gloria humana que termina en vergüenza (2:16). La idolatría es la **expresión religiosa del orgullo**.
-#### Habacuc 2:18 establece este principio final: El sistema injusto termina justificándose mediante una religión que confirma su engaño. La idolatría no corrige la injusticia;  la **legitima**.
-#### Este versículo: inicia el último “ay”, desenmascara la raíz espiritual del poder injusto, prepara el contraste final con el Dios vivo (2:19–20).
+##### La ironía es deliberada. no hablan, no responden, no corrigen, no advierten Y aun así, el hombre **confía** en ellas. La mudez del ídolo contrasta con Dios que habla en (2:2), la visión que declara, la palabra que gobierna la vida.
 
-#### Después de exponer: violencia, orgullo, humillación, explotación, Dios revela que todo descansa sobre **confianza falsa**.
+- Habacuc 2:18 establece este principio final: El sistema injusto termina justificándose mediante una religión que confirma su engaño. La idolatría no corrige la injusticia;  la **legitima**.
+- Este versículo: inicia el último “ay”, desenmascara la raíz espiritual del poder injusto, prepara el contraste final con el Dios vivo (2:19–20).
+- Después de exponer: violencia, orgullo, humillación, explotación, Dios revela que todo descansa sobre **confianza falsa**.
 
-Habacuc 2:19 
-"*¡Ay del que dice al palo: Despiértate; y a la piedra muda: Levántate! ¿Podrá él enseñar? He aquí está cubierto de oro y plata, y no hay espíritu dentro de él.*"
+### Habacuc 2:19 
 
-### Habacuc 2:19a “*¡Ay del que dice al palo: Despiértate!*”
+¡Ay del que dice al madero: “Despierta”, O a la piedra muda: “Levántate!”. ¿Será esto tu maestro? Mira que está cubierto de oro y plata, Y no hay aliento alguno en su interior.
 
-#### La idolatría llega aquí a su **máxima ironía**. El hombre habla a lo inanimado, espera respuesta, atribuye vida donde no la hay.
+#### ¡Ay del que dice al madero: “Despierta”...!
 
-#### El verbo *despiértate* supone: conciencia, actividad, capacidad de actuar. Todo esto es **proyectado**, no real.
+##### La idolatría llega aquí a su **máxima ironía**. El hombre habla a lo inanimado, espera respuesta, atribuye vida donde no la hay.
 
-### Habacuc 2:19b “*y a la piedra muda: Levántate*”
+##### El verbo *despierta* supone: conciencia, actividad, capacidad de actuar. Todo esto es **proyectado**, no real.
 
-#### La piedra es explícitamente llamada **muda**. No hay ambigüedad, no puede hablar, no puede responder, no puede instruir. Aun así, el hombre **le ordena actuar**. Esto revela la contradicción: se exige vida de aquello que no la posee.
+#### ¡...O a la piedra muda: “Levántate!”
 
-### Habacuc 2:19c “*¿Podrá él enseñar?*”
+##### La piedra es explícitamente llamada **muda**. No hay ambigüedad, no puede hablar, no puede responder, no puede instruir. Aun así, el hombre **le ordena actuar**. Esto revela la contradicción: se exige vida de aquello que no la posee.
 
-#### Dios introduce la pregunta decisiva. La idolatría no solo busca ayuda, busca **dirección**. Pero lo mudo: no enseña, no corrige, no revela. El ídolo no puede guiar la vida en un mundo moralmente complejo.
-### Habacuc 2:19d “*He aquí está cubierto de oro y plata*”
+#### ¿Será esto tu maestro?
 
-#### La apariencia intenta compensar la ausencia. El valor es **externo**: brillo, costo, atractivo visual. Pero el revestimiento no produce vida. La riqueza no transforma lo muerto en viviente.
+##### Dios introduce la pregunta decisiva. La idolatría no solo busca ayuda, busca **dirección**. Pero lo mudo: no enseña, no corrige, no revela. El ídolo no puede guiar la vida en un mundo moralmente complejo.
 
-### Habacuc 2:19e “*y no hay espíritu dentro de él*”
+#### Mira que está cubierto de oro y plata,
 
-#### Esta es la sentencia final. El problema no es solo falsedad, sino **ausencia total de vida**.
+##### La apariencia intenta compensar la ausencia. El valor es **externo**: brillo, costo, atractivo visual. Pero el revestimiento no produce vida. La riqueza no transforma lo muerto en viviente.
 
-#### Sin espíritu: no hay palabra, no hay acción, no hay verdad. Esto contrasta directamente con: el Dios que habla (2:2), la visión que vive (2:3), el justo que vive por fe (2:4).
+#### Y no hay aliento alguno en su interior.
 
-#### Habacuc 2:19 establece este principio: La idolatría es confiar en lo que no tiene vida para orientar la vida. El sistema injusto no solo es violento, es **espiritualmente vacío**.
+##### Esta es la sentencia final. El problema no es solo falsedad, sino **ausencia total de vida**.
 
-#### Este versículo: completa la acusación contra la idolatría, muestra la irracionalidad del falso culto, prepara el contraste final y absoluto (2:20).  Después de esto, no queda nada que exponer. Solo queda **silencio verdadero**.
+##### Sin espíritu: no hay palabra, no hay acción, no hay verdad. Esto contrasta directamente con: el Dios que habla (2:2), la visión que vive (2:3), el justo que vive por fe (2:4).
+
+- Habacuc 2:19 establece este principio: La idolatría es confiar en lo que no tiene vida para orientar la vida. El sistema injusto no solo es violento, es **espiritualmente vacío**.
+- Este versículo: completa la acusación contra la idolatría, muestra la irracionalidad del falso culto, prepara el contraste final y absoluto (2:20).  Después de esto, no queda nada que exponer. Solo queda **silencio verdadero**.
 
 ## Habacuc 2:20 — Declaración final del Señor
 
-Habacuc 2:20 
-"*Mas Jehová está en su santo templo; calle delante de él toda la tierra.*"
+### Habacuc 2:20 
 
-### Habacuc 2:20a “*Mas*”
+Pero el SEÑOR está en Su santo templo: Calle delante de Él toda la tierra
 
-#### Esta palabra marca el **contraste absoluto**. Después de los ídolos mudos (2:18–19), palabras humanas sin vida, confianza en obras propias, aparece una **realidad completamente distinta**. No una corrección menor, sino un **cambio de fundamento**.
+#### Pero
 
-### Habacuc 2:20b “*Jehová está*”
+##### Esta palabra marca el **contraste absoluto**. Después de los ídolos mudos (2:18–19), palabras humanas sin vida, confianza en obras propias, aparece una **realidad completamente distinta**. No una corrección menor, sino un **cambio de fundamento**.
 
-#### Esta es una afirmación de **presencia**, no de acción. Dios no es descrito como: defendiéndose, explicándose, justificándose. Simplemente **está**. 
+#### el SEÑOR
 
-#### Esto responde al problema inicial de Habacuc: ¿Dónde estás cuando hay injusticia?Respuesta: **Dios nunca estuvo ausente.**
+##### Esta es una afirmación de **presencia**, no de acción. Dios **no** es descrito como: defendiéndose, explicándose, justificándose. Simplemente **está**. 
 
-### Habacuc 2:20c “*en su santo templo*"
+##### Esto responde al problema inicial de Habacuc: ¿Dónde estás cuando hay injusticia?
 
-#### El templo aquí no es solo un edificio. Representa: autoridad soberana, trono legítimo, gobierno real. “*Santo*” indica separación moral, pureza absoluta, inaccesibilidad al juicio humano. Dios no compite con ídolos. No dialoga con ellos. **Reina**.
+##### Respuesta: **Dios nunca estuvo ausente.**
 
-### Habacuc 2:20d “*calle delante de él*”
+#### está en Su santo templo
 
-#### La respuesta apropiada ya no es discurso. Después de: quejas (cap. 1), argumentos, preguntas, ayes, denuncias, la única postura correcta es **silencio**. Este silencio no es vacío. Es **reconocimiento**.
+##### El templo aquí no es solo un edificio. Representa: autoridad soberana, trono legítimo, gobierno real. “*santo*” indica separación moral, pureza absoluta, inaccesibilidad al juicio humano. Dios no compite con ídolos. No dialoga con ellos. **Él reina sobre todo y todos**.
 
-### Habacuc 2:20e “*toda la tierra*”
+#### Calle delante de Él
 
-#### El alcance es universal. No solo: Babilonia, Judá, los pueblos oprimidos.**Toda la tierra**. Esto incluye víctimas, opresores, profetas, lectores. Nadie queda fuera del llamado al silencio.
+##### La respuesta apropiada ya no es discurso. Después de: quejas (cap. 1), argumentos, preguntas, ayes, denuncias, la única postura correcta es **silencio**. Este silencio no es vacío. Es **reconocimiento** de la posición que tiene el Señor de los ejércitos.
 
-#### Habacuc 2:20 establece este principio final del capítulo: La respuesta última a la injusticia no es explicación, sino **reconocimiento de la soberanía de Dios**. La fe no vence al mal con argumentos, sino con **reverencia confiada**.
+#### toda la tierra
 
-#### El justo vive por fe porque Dios reina, Dios está presente, Dios no necesita justificarse. La fe sabe cuándo hablar y cuándo **callar delante de Dios**.
+##### El alcance es universal. No solo: Babilonia, Judá, los pueblos oprimidos. **Toda la tierra**. Esto incluye víctimas, opresores, profetas, lectores. Nadie queda fuera del llamado al silencio.
 
-#### Este versículo cierra el diálogo de los capítulos 1–2, pone fin a toda acusación, prepara el tono del capítulo 3. El capítulo 3 no será explicación, sino **adoración bajo temor**. **Puente hacia Habacuc 3**.
+- Habacuc 2:20 establece este principio final del capítulo: La respuesta última a la injusticia no es explicación, sino **reconocimiento de la soberanía de Dios**. La fe no vence al mal con argumentos, sino con **reverencia confiada**.
 
-#### Después del silencio, Habacuc hablará otra vez, pero ya no para protestar. Hablará **desde reverencia**.
+- El justo vive por fe porque Dios reina, Dios está presente, Dios no necesita justificarse. La fe sabe cuándo hablar y cuándo **callar delante de Dios**.
+
+- Este versículo cierra el diálogo de los capítulos 1–2, pone fin a toda acusación, prepara el tono del capítulo 3. El capítulo 3 no será explicación, sino **adoración bajo temor**, un justo viviendo por la fe. 
+
+  **Puente hacia Habacuc 3**.
+
+- Después del silencio, Habacuc hablará otra vez, pero ya no para protestar. Hablará **desde reverencia**. Una reverencia que procede de la fe en quien se le estuvo revelando durante los primeros capítulos, el Señor. No en base a justicia humana o razonamiento humano, sino en base a la justicia y sabiduría de Dios.
 
 ## En Síntesis (Habacuc 2:6–20)
 
-### Los “ayes” revelan la fragilidad de todo sistema humano.
+Los “ayes” revelan la fragilidad de todo sistema humano.
 
-### La injusticia contiene en sí misma su juicio.
+La injusticia contiene en sí misma su propio juicio futuro.
 
-### El poder, la riqueza y la violencia no permanecen.
+El poder, la riqueza y la violencia no permanecen.
 
-### Dios es presentado como soberano y presente en su templo.
+Dios es presentado como soberano y presente en su templo.
 
-### El silencio final es una respuesta implícita.
+El silencio final es una respuesta implícita, Dios y Su palabra permanecerán para siempre.
 
 # **HABACUC 3:1-19 MEMORIA Y ALABANZA ANTE LA FIDELIDAD DEL SEÑOR**
 
 ## Habacuc 3:1 Introducción a la oración del profeta
 
-Habacuc 3:1 
-"*Oración del profeta Habacuc, sobre Sigionot.*"
+### Habacuc 3:1 
+
+Oración del profeta Habacuc, en tono de Sigionot.
 
 ### Habacuc 3:1a “*Oración*”
 
