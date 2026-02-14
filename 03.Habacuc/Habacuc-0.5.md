@@ -271,18 +271,18 @@ Con este marco: la violencia es real, la crisis es concreta, la confrontación e
 
 ### Habacuc 1:1 
 
-La carga que vio el profeta Habacuc.
+Oráculo que tuvo en visión el profeta Habacuc.
 
-#### La carga
+#### Oráculo [La carga - RV09]
 ##### El libro no comienza con una visión de esperanza ni con una promesa. Comienza con una **carga**.
 
 - El término introduce: peso, presión y gravedad,  algo que debe ser llevado, no resuelto de inmediato. 
 - Desde la primera palabra, el lector es advertido: lo que sigue **no será ligero**, ni rápido, ni tranquilizador.
 - La carga no es definida todavía. Solo se declara su existencia.
 
-#### que vio
+#### que tuvo en visión
 
-##### Habacuc no dice: “lo que sintió”, “lo que pensó”, “lo que imaginó”. Dice: *lo que vio*.
+##### Habacuc no dice: “lo que sintió”, “lo que pensó”, “lo que imaginó”. Dice: *que tuvo*.
 
 ##### Esto establece algo importante desde el inicio: Habacuc no presenta una reacción emocional aislada, presenta una percepción de la realidad. El conflicto del libro no nace de ignorancia, sino de observación.
 
@@ -326,37 +326,37 @@ La tensión del libro queda legitimada como palabra revelada.
 
 ### Habacuc 1:2
 
-¿Hasta cuándo, SEÑOR, clamaré, y no oirás; daré voces a ti a causa de la violencia, y no salvarás?
+¿Hasta cuándo, oh SEÑOR, pediré ayuda, Y no escucharás? Clamo a Ti: «¡Violencia!». Sin embargo, Tú no salvas.
 
 #### ¿Hasta cuándo…
 ##### La primera palabra hablada en el libro es una **pregunta de duración**. Habacuc no pregunta: *si* Dios actúa, *si* Dios es justo, *si* Dios existe.
 
 ##### Pregunta **cuánto tiempo**. Esto presupone algo importante: Habacuc **espera** que Dios actúe. Habacuc **asume** que la situación ya ha excedido un límite aceptable. La pregunta no es neutral, es una **acusación implícita de demora**.
 
-#### SEÑOR
+#### oh SEÑOR
 ##### Habacuc dirige su queja al **SEÑOR** (YHWH), no a una fuerza abstracta. Esto indica una relación de pacto, confianza previa y conocimiento del carácter de Dios de parte del profeta. 
 
 ##### La queja **no es incrédula**. Es **teológicamente informada**. Eso hará la confrontación más seria, no menos.
 
-#### clamaré
+#### pediré ayuda
 ##### El verbo indica repetición, insistencia y persistencia en el tiempo.  Habacuc no ha orado una vez. Ha clamado **muchas veces**.
 
 ##### Esto introduce una tensión importante: el silencio de Dios **no es momentáneo**, la frustración ha sido acumulada. 
 
-#### y no oirás
+#### ¿...Y no escucharás?
 
 ##### Aquí aparece la primera afirmación fuerte del libro. Habacuc no dice: “parece que no oyes” o “no entiendo si escuchas”.
 
-##### Dice: *no oirás*.
+##### Dice: *Y no escucharás*.
 
 - Desde su perspectiva el clamor incesante no ha producido respuesta de parte del Señor. Dios ha permanecido pasivo. Este es el primer punto donde la percepción de Habacuc lo lleva a una **interpretación**.
 
-#### daré voces a ti a causa de la violencia
+#### Clamo a Ti: «¡Violencia!».
 ##### Habacuc especifica el motivo de su clamor: violencia. No habla de: idolatría, apostasía, pecado ritual. Habla de algo **visible, social, tangible**. ¡Violencia!
 
 - Esto ancla su queja en la realidad histórica: la violencia no es doctrinal, es experimentada, es pública. Hasta aquí, el texto **no cuestiona** esta observación.
 
-#### ...y no salvarás?
+#### Sin embargo, Tú no salvas. 
 ##### El paralelismo intensifica la acusación: “no oirás”, “no salvarás”. Habacuc no solo acusa a Dios de **no escuchar**, sino de **no intervenir**. La salvación aquí es: concreta, histórica, inmediata. 
 
 ##### Habacuc espera **acción visible**, no consuelo interno.
@@ -375,7 +375,7 @@ La tensión del libro queda legitimada como palabra revelada.
 
 ### Habacuc 1:3
 
-¿Por qué me haces ver iniquidad, y haces que mire la opresión? La destrucción y la violencia están delante de mí; hay contienda y se levanta pleito.
+¿Por qué me haces ver la iniquidad, Y me haces mirar la opresión? La destrucción y la violencia están delante de mí, Hay rencilla y surge la discordia. 
 
 #### ¿Por qué…
 ##### Habacuc pasa de *¿Hasta cuándo?* (tiempo) a *¿Por qué?* (causa). Esto marca una escalada clara. Habacuc ya no solo cuestiona la demora del Señor, ahora le atribuye la **responsabilidad** de las circunstancias.
@@ -425,7 +425,7 @@ La tensión del libro queda legitimada como palabra revelada.
 
 ### Habacuc 1:4 
 
-Por eso la ley es debilitada, y la justicia no sale jamás; porque el impío cerca al justo, por eso la justicia sale torcida.
+Por eso no se cumple la ley Y nunca prevalece la justicia. Porque el impío asedia al justo; Por eso sale pervertida la justicia.
 
 #### Por eso
 
@@ -433,19 +433,19 @@ Por eso la ley es debilitada, y la justicia no sale jamás; porque el impío cer
 
 ##### La frase indica, "dado lo que veo, esta es la conclusión correcta". Aquí la queja deja de ser descriptiva y se vuelve **evaluativa**.
 
-#### la ley es debilitada
-##### Habacuc no afirma que la ley haya desaparecido. Afirma que ha sido **debilitada**.
+####  no se cumple la ley
+##### Habacuc no afirma que la ley haya desaparecido. Afirma que ha sido **debilitada**, no se cumple.
 
 ##### Esto implica que la ley existe, la ley es conocida pero la ley carece de fuerza operativa. El problema no es ignorancia, sino **ineficacia**.
 
-#### y la justicia no sale jamás
+#### Y nunca prevalece la justicia.
 ##### La justicia es presentada como algo que debería manifestarse, debería hacerse visible y producir resultados concretos. 
 
 ##### Pero, según Habacuc, **nunca emerge**.
 
 ##### Aquí se introduce una presuposición importante: si la justicia no es visible, entonces no está funcionando. La justicia queda definida por **resultados observables**.
 
-#### porque el impío cerca al justo
+####  Porque el impío asedia al justo
 ##### Habacuc identifica la causa inmediata:
 
 - El impío rodea
@@ -454,10 +454,10 @@ Por eso la ley es debilitada, y la justicia no sale jamás; porque el impío cer
 
 ##### Este es un diagnóstico social. No niega que existan justos pero afirma que están estructuralmente superados. 
 
-#### por eso la justicia sale torcida
+#### Por eso sale pervertida la justicia.
 ##### La conclusión se repite y se intensifica.
 
-##### La justicia no solo tarda y no solo se oculta sino cuando aparece, aparece **distorsionada**. 
+##### La justicia no solo tarda y no solo se oculta sino cuando aparece, aparece **distorsionada, pervertida**. 
 
 ##### Esto sugiere decisiones injustas, veredictos sesgados y un sistema judicial moralmente deformado. 
 
@@ -497,9 +497,9 @@ El problema no es ausencia de religión, sino su ineficacia.
 
 ### Habacuc 1:5 
 
-Mirad entre las naciones, observad, asombraos, quedaos asombrados; porque yo haré una obra en vuestros días que aun cuando se os cuente, no la creeréis.
+«¡Miren entre las naciones! ¡Observen! ¡Asómbrense, quédense atónitos! Porque haré una obra en sus días Que ustedes no la creerían si alguien se la contara.
 
-#### Mirad…ved
+#### Mirad…¡Observen!
 ##### Dios comienza Su respuesta **ordenando a mirar**.
 
 ##### Esto es significativo porque Habacuc ya ha insistido, *me haces ver iniquidad*.  Dios no corrige la vista del profeta;  **corrige el campo de visión**, la manera en la cual Habacuc estaba mirando.
@@ -515,7 +515,7 @@ Mirad entre las naciones, observad, asombraos, quedaos asombrados; porque yo har
 
 ## Habacuc 1:5 Anuncio de una obra futura
 
-#### y asombraos, quedaos asombrados
+#### ¡Asómbrense, quédense atónitos!
 ##### La repetición intensifica el efecto. Dios no dice “comprended”, “razonad” o “entended”. 
 
 ##### Ordena **asombro**.
@@ -524,19 +524,19 @@ Mirad entre las naciones, observad, asombraos, quedaos asombrados; porque yo har
 
 ## Habacuc 1:5 Declaración de incredulidad anticipada
 
-#### porque yo haré una obra
+#### Porque haré una obra
 ##### Esta es la **declaración central del libro**. El sujeto es **yo**. La acción es **haré**, pero  la obra no se define.  Dios no promete explicación. Promete **acción soberana**. Esta frase **no responde** a la queja de Habacuc; la **interrumpe**.
 
 ##### Habacuc a estado basando su pensamiento en base a lo que a estado viendo, esto lo llevo a unas concluciones equivocadas de Dios y cómo el actua, Habacuc incluso llegó a concluir en cómo Dios debería actuar.
 
 ##### Ahora Dios estará mostrándose a Habacuc, no por medio de lo que Habacuc piensa que es lo importante, sino a través de ver lo que Dios hará, y desde ahí verá quien es Dios y cómo el actúa entonces.
 
-#### en vuestros días
+#### en sus días
 ##### La obra no es teórica ni distante. Es contemporánea, inminente, históricamente concreta. Dios no calma la crisis descrita por Habacuc. La **intensifica**. La violencia que preocupa al profeta no desaparecerá antes de que la obra comience.
 
 ##### Dios no actuará como Habacuc piensa que el Señor debería actuar, Él obrará cómo quien es Él no en base al pensamiento de Habacuc o de las circunstancias.
 
-#### que aun cuando se os cuente, no la creeréis
+#### Que ustedes no la creerían si alguien se la contara.
 ##### Esta cláusula es crucial. Dios declara de antemano: que la explicación no producirá aceptación.  La información no resolverá el conflicto. El problema no es ignorancia.  Incluso con explicación, la obra seguirá siendo **increíble** para el pensamiento humano.
 
 ##### Habacuc 1:5 **no valida** la conclusión de 1:4 ni la refuta explícitamente. La **ignora**. No se trata del pensamiento del "justo" Habacuc o la situación de la injusticia en Israel o la opresión que experimentaba. Se trata de Dios siendo el Señor y obrando.
@@ -563,25 +563,25 @@ La respuesta no explica el mal, anuncia una acción inesperada.
 
 ### Habacuc 1:6 
 
-Porque he aquí, yo levanto a los caldeos, nación cruel y presurosa, que recorre la anchura de la tierra para poseer moradas que no son suyas.
+Porque voy a levantar a los caldeos, Pueblo feroz e impetuoso, Que marcha por la anchura de la tierra Para apoderarse de moradas ajenas.
 
-#### Porque he aquí
-##### Esta expresión introduce **explicación**, pero no una justificación. Dios conecta el versículo directamente con 1:5: "*Yo haré una obra*, *Porque he aquí…*"
+#### Porque
+##### Esta expresión introduce **explicación**, pero no una justificación. Dios conecta el versículo directamente con 1:5: "*Yo haré una obra*, *Porque…*"
 
 ##### El *porque* no significa "esto te convencerá". Sino: "esto es lo que estoy haciendo". La lógica sigue siendo **divina**, la iniciativa viene solo de Dios, no de Dios y el hombre.
 
-#### yo levanto
+####  voy a levantar
 
-##### El verbo es decisivo. Dios no dice: “permito”, o “tolero” o “uso lo que ya existe”.  Dice: *yo levanto*.
+##### El verbo es decisivo. Dios no dice: “permito”, o “tolero” o “uso lo que ya existe”.  Dice: *voy a levantar*.
 
 ##### Esto atribuye a Dios: iniciativa histórica, dirección soberana, control del proceso. La obra no es reactiva. Es **intencional**.
 
 #### a los caldeos...
 ##### Aquí aparece el elemento más ofensivo del texto. Dios no introduce una reforma interna, un avivamiento, un juez justo o una corrección gradual. 
 
-##### Introduce a **los caldeos (Babilonia)**. Esto confronta directamente la conclusión de Habacuc en 1:4: "*el impío cerca al justo*". La respuesta de Dios es, en efecto: "sí — y yo estoy actuando por medio de ello". 
+##### Introduce a **los caldeos (Babilonia)**. Esto confronta directamente la conclusión de Habacuc en 1:4: "*el impío asedia al justo*". La respuesta de Dios es, en efecto: "sí — y yo estoy actuando por medio de ello". 
 
-#### nación cruel y presurosa
+#### Pueblo feroz e impetuoso
 
 ##### Dios **no moraliza positivamente** su instrumento (los caldeos - babilonios). Lo describe como: cruel, violento, impetuoso.
 
@@ -592,13 +592,13 @@ Porque he aquí, yo levanto a los caldeos, nación cruel y presurosa, que recorr
 
 ##### El problema no es que Habacuc se equivoque sobre Babilonia.  El problema es que **no acepta que Dios pueda actuar mediante ella**.
 
-#### que recorre la anchura de la tierra
+#### Que marcha por la anchura de la tierra
 
 ##### La escala se amplía. Habacuc ha pensado en: Judá, la ley, la justicia local.  Dios introduce expansión, alcance global, historia internacional.  
 
 ##### La justicia de Dios **no está limitada** a las fronteras del pacto, esta es la manera en la que Dios obra, va conectada a Su capacidad, Omnipotente.
 
-#### para poseer moradas que no son suyas
+#### Para apoderarse de moradas ajenas.
 
 ##### Aquí se describe el carácter injusto del instrumento. Babilonia toma lo que no le pertenece, invade, despoja. 
 
@@ -616,17 +616,17 @@ Porque he aquí, yo levanto a los caldeos, nación cruel y presurosa, que recorr
 
 ### Habacuc 1:7
 
-Terrible y espantosa es; de ella misma procede su justicia y su dignidad.
+Imponente y temible es; De él mismo proceden su justicia y su grandeza.
 
-#### Terrible y espantosa es
+#### Imponente y temible es;
 
 ##### Dios describe a los caldeos **sin atenuantes**. No los presenta como disciplinadores justos, correctores necesarios ni instrumentos moralmente neutrales.
 
-##### Es interesante el uso del verbo *es*. El texto no dice: “actúan de manera terrible”, sino: "*terrible y espantosa es*".  Esto señala identidad, no solo conducta. Babilonia no ocasionalmente produce terror — **lo encarna**.
+##### Es interesante el uso del verbo *es*. El texto no dice: “actúan de manera terrible”, sino: "*Imponente y temible es*".  Esto señala identidad, no solo conducta. Babilonia no ocasionalmente produce terror — **lo encarna**.
 
-##### Lo define por lo que es: *terrible y espantosa*. El énfasis no está en una acción aislada, sino en su **identidad permanente**. La amenaza no es solo una acción que realizarán, la amenaza viene de lo que son, una nación terrible y espantosa, todo lo que hagan, su andar, será acorde a eso.
+##### Lo define por lo que es: *Imponente y temible*. El énfasis no está en una acción aislada, sino en su **identidad permanente**. La amenaza no es solo una acción que realizarán, la amenaza viene de lo que son, una nación terrible y espantosa, todo lo que hagan, su andar, será acorde a eso.
 
-#### de ella misma procede su justicia
+#### De él mismo proceden su justicia
 
 ##### Esta frase es central para todo el libro. Dios afirma explícitamente que la justicia de Babilonia no proviene de Dios.  No se somete a una ley superior. No responde a un estándar externo.
 
@@ -634,15 +634,15 @@ Terrible y espantosa es; de ella misma procede su justicia y su dignidad.
 
 ##### Esto confirma que Babilonia **no es justa**, solo es un instrumento utilizado para la obra del Señor. No debemos pensar que Dios necesita u origina la maldad. Más bien, lo que muestra es que ni siquiera la maldad del hombre (en este caso la de los caldeos) afectan quien es el Señor y Su obra, es más, Él puede llevarlo para Sus propósitos.
 
-#### y su dignidad
+#### y su grandeza.
 
-##### La dignidad (autoridad, honor, legitimidad) sigue la misma lógica.  No le es otorgada. No le es conferida. No le es reconocida desde fuera. Procede de sí misma.
+##### La grandeza (autoridad, honor, legitimidad) sigue la misma lógica.  No le es otorgada. No le es conferida. No le es reconocida desde fuera. Procede de sí misma.
 
 ##### Esto describe un sistema donde el poder humano define lo correcto, la fuerza humana se convierte en legitimidad, la victoria sustituye al derecho.
 
 - Elimina cualquier posible confusión: **Dios no está delegando Su justicia a Babilonia.** **Está actuando por medio de un poder cuya justicia es falsa, ya que no proviene de Dios.**
 
-##### Esto hace la obra de Dios **más ofensiva** para el pensamiento del "justo" Habacuc, no menos. En 1:4, Habacuc concluyó: “*la justicia sale torcida*”*. En 1:7, Dios confirma implícitamente, sí, y estoy actuando dentro de sistemas donde la justicia nace torcida.
+##### Esto hace la obra de Dios **más ofensiva** para el pensamiento del "justo" Habacuc, no menos. En 1:4, Habacuc concluyó: “*Por eso sale pervertida la justicia*”*. En 1:7, Dios confirma implícitamente, sí, y estoy actuando dentro de sistemas donde la justicia nace torcida.
 
 ##### La diferencia es crucial: Habacuc ve torcedura y concluye que es porque Dios no esta interviniendo. Pero Dios ve torcedura y afirma **acción soberana**, pero no acorde a la justicia de Habacuc.
 
@@ -656,9 +656,9 @@ Terrible y espantosa es; de ella misma procede su justicia y su dignidad.
 
 ### Habacuc 1:8
 
-Sus caballos son más veloces que leopardos, y más feroces que lobos nocturnos; sus jinetes se multiplican; vienen de lejos sus jinetes, vuelan como águila que se apresura a devorar.
+Sus caballos son más veloces que leopardos Y más astutos que lobos al anochecer. Al galope vienen sus jinetes, Sus jinetes vienen de lejos, Vuelan como águila que se precipita a devorar.
 
-Aquí vemos imágenes de velocidad y ferocidad. Dios describe a Babilonia usando **comparaciones animales**, no morales. Empieza con *leopardos* (velocidad súbita), *lobos nocturnos* (ferocidad hambrienta) y el *águila* (dominio desde lo alto, ataque inevitable). 
+Aquí vemos imágenes de velocidad y ferocidad. Dios describe a Babilonia usando **comparaciones animales**, no morales. Empieza con *leopardos* (velocidad súbita), *lobos al anochecer* (ferocidad hambrienta) y el *águila* (dominio desde lo alto, ataque inevitable). 
 
 Estas imágenes no apelan a ética, apelan a **eficacia violenta**. La fuerza de Babilonia no es reflexiva ni deliberada. Es **rápida, instintiva y devastadora**.
 
@@ -668,19 +668,19 @@ Estas imágenes no apelan a ética, apelan a **eficacia violenta**. La fuerza de
 
 ##### La amenaza no es simbólica. Es literal, **operativa y concreta**.
 
-#### se multiplican
+#### Al galope vienen sus jinetes
 
 ##### El texto señala **crecimiento**, no estancamiento. Babilonia no es una fuerza momentánea. Está en **expansión activa**. Esto elimina cualquier expectativa de que el problema se resolverá solo. 
 
 ##### La violencia no se agotará rápidamente, es una amenaza que estará en crecimiento constante.
 
-#### vienen de lejos
+#### Sus jinetes vienen de lejos
 
 ##### La distancia no limita su alcance. Esto comunica proyección de poder, ausencia de fronteras seguras, inevitabilidad del contacto. Judá no está aislada por estar alejada. Está **expuesta**.
 
 ##### Es importante ponernos a meditar, porqué Dios esta revelando esto a Habacuc y en ultima instancia a Israel. ¿Qué necesitan comprender?
 
-#### vuelan como águila que se apresura a devorar
+#### Vuelan como águila que se precipita a devorar.
 
 ##### La imagen final une dos ideas: rapidez y propósito destructivo.  No es movimiento sin dirección. Es avance **con intención de consumir**.
 
@@ -699,33 +699,33 @@ Estas imágenes no apelan a ética, apelan a **eficacia violenta**. La fuerza de
 
 ### Habacuc 1:9 
 
-Toda ella vendrá para violencia; el terror de sus rostros va hacia adelante, y recogerán cautivos como arena.
+Vienen todos ellos para hacer violencia, Su horda de rostros avanza, Recoge cautivos como arena. 
 
-#### Toda ella vendrá para violencia
+#### Vienen todos ellos para hacer violencia
 
-##### La frase es totalizante. No dice que “algunos vendrán con violencia” o “en ciertos casos habrá violencia”.  Dice "*toda ella*". 
+##### La frase es totalizante. No dice que “algunos vendrán con violencia” o “en ciertos casos habrá violencia”.  Dice "*todos ellos*". 
 
 ##### La violencia no es ocasional. El **propósito dominante y único** del avance es la violencia. Esto confirma que Babilonia no es un instrumento correctivo de un solo momento.  No operará con moderación, su actuar será completamente violento.
 
-#### vendrá para violencia
+#### para hacer violencia
 
 ##### La violencia no es un efecto secundario. Es el **fin**. El movimiento tiene dirección clara: no viene a administrar justicia, no viene a restaurar orden, viene **para violencia**.
 
 - Esto intensifica la confrontación: Dios no solo levanta un instrumento injusto, sino uno cuya finalidad es destructiva. Recordemos que Israel no estará excluida de esto, es parte de la violencia que vendrá por parte de los caldeos.
 
-#### el terror de sus rostros va hacia adelante
+#### Su horda de rostros avanza
 
 ##### Aquí la violencia se vuelve **psicológica**. No es solo lo que hacen, sino lo que **producen al aparecer**.
 
 - El terror precede a la acción. Paraliza antes del golpe - domina incluso antes del contacto. La conquista comienza **en la mirada**, no en la espada.
 
-#### va hacia adelante
+#### avanza
 
 ##### Nada los detiene. El terror no retrocede, no se repliega, no se contiene. Esto refuerza el futuro inevitable para Israel introducida en 1:8.
 
-#### y recogerán cautivos como arena
+#### Recoge cautivos como arena.
 
-##### La imagen final comunica **cantidad y facilidad**: *arena* (incontable), *recogerán* (sin esfuerzo). 
+##### La imagen final comunica **cantidad y facilidad**: *arena* (incontable), *recoge* (sin esfuerzo). 
 
 ##### Los cautivos no son casos excepcionales. Son **resultado masivo y rutinario**. La vida humana queda reducida a un número.
 
@@ -739,20 +739,20 @@ Toda ella vendrá para violencia; el terror de sus rostros va hacia adelante, y 
 
 ### Habacuc 1:10 
 
-Escarnecerá a los reyes, y de los príncipes hará burla; se reirá de toda fortaleza, y levantará terraplén y la tomará.
+Se burla de los reyes, Y los gobernantes le son motivo de risa; Se ríe de toda fortaleza, Amontona escombros para tomarla
 
-#### Escarnecerá a los reyes
+#### Se burla de los reyes
 
 ##### La violencia de Babilonia no se limita al pueblo común. Se dirige **directamente contra la autoridad**.
 
 - Los reyes, símbolos de orden, continuidad y poder—no solo son derrotados, sino **ridiculizados**.
 - Esto implica: humillación pública, colapso de legitimidad, desmantelamiento del honor político
 
-#### y de los príncipes hará burla
+#### Y los gobernantes le son motivo de risa
 
 ##### La burla intensifica el desprecio. No hay reconocimiento de jerarquía. No hay respeto por rango o dignidad. Las estructuras que deberían contener el mal, administrar justicia y proteger al pueblo, son tratadas como **irrelevantes**.
 
-#### se reirá de toda fortaleza
+#### Se ríe de toda fortaleza
 
 ##### Las defensas humanas quedan expuestas como insuficientes. Las murallas, los ejércitos, los sistemas de seguridad, no generan temor en Babilonia. Le provocan **risa**.
 
@@ -760,7 +760,7 @@ Escarnecerá a los reyes, y de los príncipes hará burla; se reirá de toda for
 - No importará la fortaleza de cualquier reino que se encuentre delante de los caldeos, será insignificante ante su poder.
 - Esto traería una mayor angustia al Israel ya debilitada. Ahora vendría una nación como Babilonia con un poder superior nunca antes visto, donde no solo ellos serían afectados, sino todos los reinos conocidos de ese tiempo.
 
-#### y levantará terraplén y la tomará
+#### Amontona escombros para tomarla
 
 ##### La descripción es práctica, no poética. No es magia. Es técnica militar efectiva.
 
@@ -769,7 +769,7 @@ Escarnecerá a los reyes, y de los príncipes hará burla; se reirá de toda for
 
 ##### La justicia humana, incluso organizada, no puede detener el avance descrito.
 
-##### Habacuc se quejó de que: *el impío cerca al justo*. Aquí Dios muestra que: el impío no solo cerca, **domina completamente**.
+##### Habacuc se quejó de que: *el impío asedia al justo*. Aquí Dios muestra que: el impío no solo cerca, **domina completamente**.
 
 ###### Esto intensifica la tensión: si la justicia ya estaba torcida, ahora está completamente desarmada.
 
@@ -781,15 +781,13 @@ Escarnecerá a los reyes, y de los príncipes hará burla; se reirá de toda for
 
 ### Habacuc 1:11
 
-Luego pasará como el huracán y ofenderá, atribuyendo su fuerza a su dios.
+Entonces pasará como el viento y seguirá, Y se le tendrá por culpable, Porque hace de su poder su dios».
 
-#### Luego pasará como el huracán
+#### Entonces pasará como el viento [huracán - RV09] y seguirá
 
 ##### La imagen enfatiza **velocidad y fugacidad**. Un huracán se mueve rápidamente, devasta, no permanece. Esto introduce un matiz importante: el dominio de Babilonia, aunque abrumador, **no es permanente**. El poder es real, pero **temporal**.
 
-#### y ofenderá
-
-##### En la Biblia NBLA esta frase es traducida como: *Y se le tendrá por culpable...*
+#### Y se le tendrá por culpable
 
 ##### Aquí el texto cruza una línea. El verbo indica **culpabilidad**, no simplemente violencia. Hasta este punto se describió la crueldad. Se detalló el terror y se observó la dominación.  Ahora Babilonia **incurre en infracción**.
 
@@ -799,7 +797,7 @@ Luego pasará como el huracán y ofenderá, atribuyendo su fuerza a su dios.
 
 Esto evita un peligroso malentendido que aunque Babilonia sea usado como instrumento, nunca es moralmente neutral. Dios no pasará por alto la transgresión de Babilonia, cada obra será pagada debidamente por Él, nunca ignorará el pecado.
 
-#### atribuyendo su fuerza a su dios
+#### Porque hace de su poder su dios
 
 ##### Aquí se especifica el delito. Babilonia no sólo actúa violentamente; **reinterpreta su éxito religiosamente**. Su lógica es, somos fuertes, por lo tanto nuestro dios es supremo, por lo tanto nuestro poder está justificado.
 - Esto no es ignorancia. Es **arrogancia religiosa**. Esta cláusula establece un límite. Dios puede usar soberanamente a Babilonia, pero Babilonia todavía es **responsable**. La soberanía divina no equivale a aprobación moral o ignorar el pecado.
@@ -830,9 +828,9 @@ El poder humano es presentado como transitorio y arrogante.
 
 ### Habacuc 1:12
 
-¿No eres tú desde el principio, oh SEÑOR, Dios mío, Santo mío? No moriremos. Oh SEÑOR, para juicio lo pusiste; y tú, oh Roca, lo fundaste para castigar.
+¿No eres Tú desde la eternidad, Oh SEÑOR, Dios mío, Santo mío? No moriremos. Oh SEÑOR, para juicio lo has puesto; Tú, oh Roca, lo has establecido para corrección.
 
-#### ¿No eres tú desde el principio…?
+#### ¿No eres Tú desde el principio…?
 
 ##### Habacuc comienza con un clamor dirigido a Dios. Esto ya no es un grito de frustración (1:2), sino un **argumento basado en quién es Dios**.
 - Habacuc apela a la eternidad de Dios, la identidad de Dios y la relación del pacto de Dios. 
@@ -851,7 +849,7 @@ El poder humano es presentado como transitorio y arrogante.
 - Esto puede reflejar confianza en la continuidad del pacto y creencia de que la aniquilación total es incompatible con el carácter de Dios. 
 - Pero ojo: esta no es una promesa que Dios acaba de hacer. Es una **deducción que hace Habacuc** en base a como Dios se estuvo mostrando desde el comienzo de todo y con Israel.  Esto importará más adelante.
 
-#### para juicio lo pusiste
+#### Oh SEÑOR, para juicio lo has puesto
 
 ##### Aquí Habacuc **acepta parte de la explicación de Dios**. Él reconoce que Babilonia es designada y que la acción tiene un propósito, y finalmente, el juicio está destinado. 
 
@@ -859,7 +857,7 @@ El poder humano es presentado como transitorio y arrogante.
 
 ##### Nótese que este progreso de conocer a Dios por parte de Habacuc vino después de que el Señor habló. Podemos ver los versículos 1:5-11 como simplemente "advertencias" de juicio por parte de Dios, pero realmente era el Señor revelándose a Habacuc en base a la obra que anunció que haría.
 
-#### y tú, oh Roca, lo fundaste para castigar...
+#### Tú, oh Roca, lo has establecido para corrección.
 
 ##### Habacuc refuerza la idea: Dios es el iniciador, Dios es el establecedor, Dios es quien puso esto en marcha.  Llamar a Dios "Roca" enfatiza: estabilidad, confiabilidad, coherencia moral. 
 
@@ -883,9 +881,9 @@ El poder humano es presentado como transitorio y arrogante.
 
 ### Habacuc 1:13
 
-Muy limpio eres de ojos para ver el mal, ni puedes ver el agravio; ¿por qué ves a los menospreciadores, y callas cuando destruye el impío al más justo que él?
+Muy limpios son Tus ojos para mirar el mal, Y no puedes contemplar la opresión. ¿Por qué miras con agrado A los que proceden pérfidamente, Y guardas silencio cuando el impío devora Al que es más justo que él?
 
-#### Muy limpio eres de ojos para ver el mal
+#### Muy limpios son Tus ojos para mirar el mal
 
 ##### Habacuc comienza con una **afirmación sobre el carácter de Dios**.
 
@@ -905,12 +903,12 @@ Muy limpio eres de ojos para ver el mal, ni puedes ver el agravio; ¿por qué ve
 
 ##### Tomando en cuenta esto, sigamos escuchando hablar a Habacuc...
 
-#### ni puedes ver el agravio
+#### Y no puedes contemplar la opresión.
 
 ##### La afirmación se intensifica. Habacuc no dice que a Dios *no le agrada* el agravio, sino que **no puede mirarlo**.
 - Esto presenta la santidad de Dios como: absoluta, restrictiva y determinante de Su acción. Aquí Habacuc formula una **conclusión absoluta** del carácter de Dios, no una cita directa de una palabra divina.
 
-#### ¿por qué ves a los menospreciadores…?
+#### ¿Por qué miras con agrado A los que proceden pérfidamente...?
 
 ##### Aquí la tensión se hace explícita. Habacuc contrasta dos ideas que, para él, no pueden coexistir:
 
@@ -919,13 +917,13 @@ Muy limpio eres de ojos para ver el mal, ni puedes ver el agravio; ¿por qué ve
 - La pregunta no busca información. Habacuc busca coherencia de **su pensamiento de lo bueno y malo** con **el carácter santo de Dios**. 
 - Habacuc no duda de que Dios ve. Duda de **cómo puede ver sin actuar**.
 
-#### y callas cuando destruye el impío…
+#### Y guardas silencio cuando el impío devora...
 
 ##### El tema del silencio reaparece, pero agravado. Antes, Dios no oía (1:2) y Dios no salvaba (1:2). Ahora, en el pensamiento de Habacuc, Dios ve y se calla.
 
 ##### El silencio ya no es distancia. Es **presencia sin intervención**. Es pasividad al mal. Esto intensifica la acusación de Habacuc hacia Dios.
 
-#### al más justo que él
+#### ¿...Al que es más justo que él?
 
 ##### Esta frase revela el **supuesto central** de Habacuc. Habacuc no habla de justicia absoluta, sino de **justicia comparativa**.
 - El argumento es: el impío es malo, pero hay otros ***menos* malos**, por lo tanto, Dios debería intervenir. 
@@ -950,19 +948,19 @@ Muy limpio eres de ojos para ver el mal, ni puedes ver el agravio; ¿por qué ve
 
 ### Habacuc 1:14
 
-Y haces que sean los hombres como los peces del mar, como reptiles que no tienen quien los gobierne.
+¿Por qué has hecho a los hombres como los peces del mar, Como reptiles que no tienen jefe?
 
-#### Y haces que sean los hombres…
+#### ¿Por qué has hecho a los hombres...?
 
 ##### Habacuc **atribuye acción directa a Dios**.
 
 ##### No dice: “los hombres se han vuelto…” o “Babilonia los trata como…”.
 
-##### Dice: "*...y haces que sean*".
+##### Dice: "*...has hecho*".
 
 ##### Esto es crucial: Habacuc interpreta la situación como **resultado de la acción divina de Dios**, no solo de la crueldad humana.
 
-#### los hombres como los peces del mar
+#### como los peces del mar
 
 ##### La imagen introduce despojo de la dignidad humana.  Al comparar al hombre con  "*los peces del mar*", Habacuc está concluyendo: 
 
@@ -972,9 +970,9 @@ Y haces que sean los hombres como los peces del mar, como reptiles que no tienen
 
 ##### En otras palabras, comparar a los hombres con peces implica: vulnerabilidad total, ausencia de sus derechos, exposición al depredador. 
 
-###### Habacuc no está describiendo caos; está describiendo falta de amparo.
+##### Habacuc no está describiendo caos; está describiendo falta de amparo.
 
-#### como reptiles que no tienen quien los gobierne
+#### ¿...Como reptiles que no tienen jefe?
 
 ##### La segunda imagen intensifica la primera comparación.
 
@@ -984,13 +982,13 @@ Y haces que sean los hombres como los peces del mar, como reptiles que no tienen
 - No poseen orden interno
 - Carecen de estructura protectora
 
-##### La frase "*no tienen quien los gobierne*" señala: ausencia de autoridad legítima, colapso del orden y el vacío de justicia. 
+##### La frase "*que no tienen jefe*" señala: ausencia de autoridad legítima, colapso del orden y el vacío de justicia. 
 
 ##### Para Habacuc esto es intolerable porque el gobierno es el medio por el cual la justicia debería operar.
 
-###### Habacuc 1:14 revela el **núcleo de su objeción**: Si Dios gobierna, ¿por qué Su acción produce una humanidad sin gobierno? El problema no es solo violencia. Es **anarquía moral bajo soberanía divina**.
+##### Habacuc 1:14 revela el **núcleo de su objeción**: Si Dios gobierna, ¿por qué Su acción produce una humanidad sin gobierno? El problema no es solo violencia. Es **anarquía moral bajo soberanía divina**.
 
-###### En 1:4, Habacuc dijo: la ley es debilitada, la justicia sale torcida. En 1:14, muestra el **resultado final** de esa lógica: la humanidad reducida a presa, ausencia de autoridad justa, dominio absoluto del violento. La queja ahora es **existencial**, no solo legal.
+##### En 1:4, Habacuc dijo: la ley es debilitada, la justicia sale torcida. En 1:14, muestra el **resultado final** de esa lógica: la humanidad reducida a presa, ausencia de autoridad justa, dominio absoluto del violento. La queja ahora es **existencial**, no solo legal.
 
 ##### La pregunta de Habacuc: ¿Cómo Dios siendo Santo puede obrar de esta manera?
 
@@ -1000,17 +998,17 @@ Y haces que sean los hombres como los peces del mar, como reptiles que no tienen
 
 ### Habacuc 1:15
 
-A todos los saca con anzuelo, los recoge con su red, y los junta en su malla; por eso se alegra y se regocija.
+A todos los saca con anzuelo el pueblo invasor, Los arrastra con su red Y los junta en su malla. Por eso se alegra y se regocija,
 
-#### A todos los saca con anzuelo
+#### A todos los saca con anzuelo el pueblo invasor
 
 ##### Habacuc retoma y desarrolla la imagen iniciada en 1:14. "*todos*" (totalidad, sin excepción), "*anzuelo*" (captura individual, deliberada).  La violencia no es caótica. Es **selectiva, intencional y eficaz**. Los hombres no caen por accidente. Son **pescados**.
 
-#### los recoge con su red
+#### Los arrastra con su red
 
 La imagen se amplía. El anzuelo captura uno por uno. Pero la red captura en masa.  Habacuc presenta un sistema completo: táctico, repetible, eficiente. Esto describe **dominación estructural** universal por parte de los caldeos, no abuso aislado. 
 
-#### y los junta en su malla
+#### Y los junta en su malla.
 
 ##### La progresión continúa: captura -> recolección -> acumulación. Las personas dejan de ser sujetos. Se convierten en **posesión**.
 
@@ -1018,7 +1016,7 @@ La imagen se amplía. El anzuelo captura uno por uno. Pero la red captura en mas
 
 ##### Habacuc esta profetizando todo lo que el Imperio Babilónico será y la forma en la cual actuará ante cualquiera que este en su camino.
 
-#### por eso se alegra y se regocija
+#### Por eso se alegra y se regocija
 
 ##### Este es uno de los detalles más ofensivos del pasaje. La violencia no produce remordimiento, cansancio o límite. Produce **gozo**, "*se regocija*". 
 
@@ -1034,9 +1032,9 @@ La imagen se amplía. El anzuelo captura uno por uno. Pero la red captura en mas
 
 ### Habacuc 1:16 
 
-Por eso sacrifica a su red, y quema incienso a su malla; porque con ellas engordó su porción, y engrasó su comida.
+Por eso ofrece sacrificio a su red Y quema incienso a su malla, Pues gracias a ellas su pesca es abundante, Y suculenta su comida. 
 
-#### Por eso sacrifica a su red
+#### Por eso ofrece sacrificio a su red 
 
 ##### La conversación continua. Habacuc ahora pasa de **descripción a interpretación**. La violencia descrita por, "*se alegra y se regocija*" introduce lo que ahora dirá que produce adoración.
 
@@ -1044,15 +1042,15 @@ Por eso sacrifica a su red, y quema incienso a su malla; porque con ellas engord
 
 ##### La “red” ya no es una herramienta. Ahora es objeto de culto para el que se beneficia de ella.
 
-#### y quema incienso a su malla
+#### Y quema incienso a su malla
 
 ##### El lenguaje es explícitamente **expresión religiosa**. El sacrificio y el incienso pertenecen al ámbito del culto.  Habacuc utiliza deliberadamente términos religiosos para mostrar: la violencia de Babilonia se ritualiza, el éxito se sacraliza, el poder se santifica. Esto no es ateísmo. Es **idolatría**.
 
-#### porque con ellas engordó su porción
+#### Pues gracias a ellas su pesca es abundante
 
 ##### Habacuc da la lógica detrás del culto de Babilonia. La red da éxito, la red produce abundancia, por lo tanto la red merece honor. El estándar de valor es **beneficio**. Lo que nos alimenta se convierte en lo que adoramos.
 
-#### y engrasó su comida
+#### Y suculenta su comida
 
 ##### La imagen refuerza la **autocomplacencia**. La conquista no sólo sustenta la vida.  Produce exceso. La violencia conduce a: abundancia, comodidad, satisfacción. Esto explica la devoción:  el sistema funciona.
 ##### Habacuc 1:16 revela la ofensa más profunda hasta el momento: Babilonia no sólo actúa violentamente. **su violencia y poder se ha hecho objeto de su adoración, es su dios**. El éxito se convierte en prueba de legitimidad. El poder se convierte en evidencia de rectitud.
@@ -1065,29 +1063,29 @@ Por eso sacrifica a su red, y quema incienso a su malla; porque con ellas engord
 
 ### Habacuc 1:17 
 
-¿Vaciará por eso su red, y no tendrá piedad de aniquilar naciones continuamente?
+¿Vaciará, pues, su red Y seguirá matando sin piedad a las naciones?
 
 Habacuc termina el capítulo **sin afirmación**, solo con una pregunta. No es curiosidad. Es una **protesta basada en lo que él percibe como injusticia**. 
 
 La pregunta presupone que lo descrito en los versículos 15 y 16 no es momentáneo, no es excepcional sino continuo.
 
-#### ¿Vaciará por eso su red…?
+#### ¿Vaciará, pues, su red…?
 
 ##### La imagen de la pesca se mantiene. *Vaciar la red* implica captura repetida, un ciclo continuo y ausencia de límite al perverso actuar de Babilonia. No es una acción única. Es un **método permanente**.
 
 ##### Habacuc no pregunta *si puede* hacerlo, sino *si seguirá haciéndolo*.
 
-#### y no tendrá piedad
+#### Y seguirá matando sin piedad
 
 ##### Aquí aparece el criterio ético explícito. El problema ya no es solo: violencia e idolatría, sino **ausencia total de misericordia**.
 
 - Para Habacuc, esto es incompatible con el carácter de Dios (1:12–13) y la noción de justicia que él sostiene.
 
-#### y no tendrá piedad de aniquilar naciones
+#### a las naciones
 
 ##### La escala vuelve a ampliarse. No se trata de individuos, ciudades o conflictos locales, sino de **naciones enteras**. Esto elimina cualquier intento de minimizar el problema como corrección puntual.
 
-#### continuamente...
+#### ¿...Y seguirá...?
 
 ##### Esta palabra cierra el capítulo con peso. El temor de Habacuc no es solo **qué está pasando**, sino **que no haya fin**. En su pensamiento, si esto continúa la historia se vuelve depredación perpetua, la justicia queda sin horizonte y la misericordia desaparece del gobierno del mundo.
 ##### Habacuc 1:17, Habacuc no pide explicación. Pide **límite**. El profeta no dice: “explícame por qué haces esto”. Dice, en esencia: "¿Habrá un punto donde esto se detenga?"
@@ -1116,25 +1114,27 @@ La queja culmina sin respuesta inmediata por parte de Dios.
 
 ### Habacuc 2:1 
 
-Sobre mi guarda estaré, y sobre la fortaleza afirmaré el pie, y velaré para ver lo que se me dirá, y qué he de responder tocante a mi queja.
+Estaré en mi puesto de guardia, Y sobre la fortaleza me pondré; Velaré para ver lo que Él me dice, Y qué he de responder cuando sea reprendido. 
 
-#### Sobre mi guarda estaré
+#### Estaré en mi puesto de guardia
 
 ##### Habacuc cambia de **hablar** a **vigilar**. Ya no acusa. Ya no describe la violencia. Ya no presenta argumentos. Adopta la postura de un **centinela**. Esto implica atención, disciplina y espera deliberada. Habacuc reconoce que el momento de hablar ha terminado.
 
-#### y sobre la fortaleza afirmaré el pie
+#### Y sobre la fortaleza me pondré
 
 ##### La espera no es pasiva. Habacuc no se sienta ni se retira. **Se afirma**. La imagen comunica: firmeza, disposición, seriedad ante lo que viene. La fortaleza no es refugio contra Dios, sino el lugar donde **la palabra de Dios debe enfrentarse**.
 
-#### y velaré para ver lo que se me dirá
+#### Velaré para ver lo que Él me dice
 
 ##### Habacuc espera una respuesta real. No sabe cuándo vendrá, cómo vendrá ni qué dirá. Pero está convencido de que **Dios hablará**. La atención ya no está en formular preguntas, sino en **recibir palabra de Dios**.
 
-#### y qué he de responder
+#### Y qué he de responder
 
 ##### Esta frase marca un giro profundo. Habacuc asume que: la respuesta de Dios exigirá *su* respuesta.  Él podría necesitar corregirse, su queja no es el último punto del diálogo. Antes Habacuc exigía respuesta de Dios.  Ahora Habacuc se prepara para **responder él**.
 
-#### tocante a mi queja
+#### cuando sea reprendido.
+
+##### La RV60 lo traduce de la siguiente manera: *y qué he de responder tocante a **mi queja***
 
 ##### Habacuc nombra su discurso anterior con honestidad. No lo llama revelación, oración inspirada o palabra profética.  Lo llama "*mi queja*." Esto muestra su autoconciencia, una humildad inicial y apertura a corrección
 
@@ -1168,9 +1168,9 @@ La postura refleja sumisión sin renunciar a la pregunta.
 
 ### Habacuc 2:2 
 
-Y Jehová me respondió, y dijo: Escribe la visión, y declárala en tablas, para que corra el que leyere en ella.
+Entonces el SEÑOR me respondió: «Escribe la visión y grábala en tablas, Para que corra el que la lea. 
 
-#### Y Jehová me respondió
+#### Entonces el SEÑOR me respondió
 
 ##### La respuesta llega, pero **no como Habacuc la esperaba**.
 
@@ -1178,7 +1178,7 @@ Y Jehová me respondió, y dijo: Escribe la visión, y declárala en tablas, par
 
 ##### El silencio terminó, pero no en los términos del profeta.
 
-#### y dijo
+#### y dijo [RV60]
 
 ##### La brevedad es significativa. No hay discurso largo. No hay introducción emocional. No hay explicación previa. La autoridad está en **el hecho de que Dios habla**, no en la extensión de Sus palabras.
 
@@ -1188,11 +1188,11 @@ Y Jehová me respondió, y dijo: Escribe la visión, y declárala en tablas, par
 
 ##### Es: "*escribe*." Esto indica que la visión no debe quedarse privada. La finalidad de que el profeta escribiera esta visión, es que esta no es solo para Habacuc, tiene validez objetiva y pública. La respuesta de Dios **debe permanecer**, no solo escucharse.
 
-#### y declárala en tablas
+#### y grábala en tablas
 
 ##### El mandato se refuerza. La visión debe ser visible, fija y accesible.  Las tablas sugieren: permanencia, claridad y autoridad. Esto contrasta con la queja de Habacuc, que fue verbal, momentánea y reactiva.
 
-#### para que corra el que leyere en ella
+#### Para que corra el que la lea.
 
 ##### El propósito no es contemplación, sino **movimiento**. La visión está diseñada para ser entendida con claridad, impulsar acción y guiar vida en medio de crisis.  No se escribe para resolver las dudas intelectuales del hombre, sino para **sostener al que sigue avanzando**.
 
@@ -1204,7 +1204,7 @@ Y Jehová me respondió, y dijo: Escribe la visión, y declárala en tablas, par
 
 ### Habacuc 2:3 
 
-Porque es aún visión para el tiempo señalado, y hablará al fin, y no mentirá; aunque tardare, espéralo, porque sin duda vendrá, no tardará.
+Porque es aún visión para el tiempo señalado; Se apresura hacia el fin y no defraudará. Aunque tarde, espérala; Porque ciertamente vendrá, no tardará.
 
 #### Porque es aún visión
 
@@ -1216,24 +1216,26 @@ Porque es aún visión para el tiempo señalado, y hablará al fin, y no mentir�
 
 ##### Esto introduce una diferencia crucial: la justicia humana (Habacuc) exige inmediatez; la justicia de Dios opera por designación.
 
-#### y hablará al fin
+#### Se apresura hacia el fin
+
+##### La RV09 lo traduce de la siguiente manera: *mas al fin **hablará***
 
 ##### La visión tiene **voz**, pero no inmediata. No necesita ser defendida ahora. No necesita ser explicada en el momento. Hablará **al fin**.
 - Esto implica vindicación futura y confirmación histórica. La verdad no depende de su reconocimiento inmediato.
 
-#### y no mentirá
+#### y no defraudará
 
 ##### Dios anticipa la duda. La tardanza podría interpretarse como error o fracaso o inclusive engaño. Dios lo niega de antemano, la visión **no miente**. El problema no será la falsedad, sino la **paciencia requerida** hasta que la visión llegue a hablar, se cumpla.
 
-#### aunque tardare, espéralo
+#### Aunque tarde, espérala
 
 ##### Aquí se redefine la respuesta humana. No se ordena entender, justificar, o explicar. Se ordena **esperar** a lo que Dios habla.
 
 ##### La espera no es pasividad. Es confianza bajo incertidumbre.
 
-#### porque sin duda vendrá, no tardará
+#### Porque ciertamente vendrá, no tardará.
 
-##### La frase parece paradójica. *tardare*...*no tardará*.  La tensión no se resuelve; se **sostiene**. Desde la perspectiva humana parece tardar.  Desde la perspectiva divina llega exactamente a tiempo.
+##### La frase parece paradójica. *aunque tarde*...*no tardará*.  La tensión no se resuelve; se **sostiene**. Desde la perspectiva humana parece tardar.  Desde la perspectiva divina llega exactamente a tiempo.
 
 ##### Esto desarma el reclamo inicial de Habacuc, "¿hasta cuándo?"
 
@@ -1245,11 +1247,11 @@ Porque es aún visión para el tiempo señalado, y hablará al fin, y no mentir�
 
 ##### Dios establece **cuándo** se verá Su obra.
 
-- *declárala en tablas*, lo que Dios dice queda registrado.
-- *tardará aún por un tiempo*, lo que Dios dijo se cumplirá en un momento establecido por Él.
+- *grábala en tablas*, lo que Dios dice queda registrado.
+- *es aún visión para el tiempo señalado*, lo que Dios dijo se cumplirá en un momento establecido por Él.
 - *se apresura*, lo Dios dijo se cumplirá pronto.
-- *no mentirá*, lo que Dios dijo no defraudará.
-- *sin duda vendrá, no tardará*, lo que Dios dijo no se ve ahora pero se cumplirá.
+- *no defraudará*, lo que Dios dijo no defraudará.
+- *ciertamente vendrá, no tardará*, lo que Dios dijo no se ve ahora pero se cumplirá.
 
 ##### En **Habacuc 2:4**, Dios hará la distinción decisiva: una forma de vivir que no espera correctamente y una forma de vivir que **vive por fe**. Ese contraste define todo lo que sigue.
 
@@ -1257,7 +1259,7 @@ Porque es aún visión para el tiempo señalado, y hablará al fin, y no mentir�
 
 ### Habacuc 2:4
 
-He aquí que aquel cuya alma no es recta, se enorgullece; mas el justo por su fe vivirá.
+He aquí que aquel cuya alma no es recta, se enorgullece; mas el justo por su fe vivirá. [RV60]
 
 #### He aquí
 
@@ -1324,7 +1326,7 @@ He aquí que aquel cuya alma no es recta, se enorgullece; mas el justo por su fe
 
 ### Habacuc 2:5
 
-Y también el que es dado al vino es traicionero, hombre soberbio, que no permanecerá; que ensanchó como el Seol su alma, y es como la muerte, que no se sacia; antes reunió para sí todas las gentes, y juntó para sí todos los pueblos.
+Además, el vino traiciona al hombre arrogante, De modo que no se queda en casa. Porque ensancha su garganta como el Seol, Y es como la muerte, que nunca se sacia; Reúne para sí todas las naciones, Y recoge para sí todos los pueblos.
 
 #### Y también
 
@@ -1332,18 +1334,18 @@ Y también el que es dado al vino es traicionero, hombre soberbio, que no perman
 
 ##### El versículo 5 no es otro grupo distinto; es el **mismo tipo humano**, ahora descrito con más detalle.
 
-#### el que es dado al vino es traicionero
+#### el vino traiciona al hombre
 
 ##### El vino aquí no funciona solo como bebida, sino como **imagen de descontrol y engaño**. El punto no es embriaguez literal, sino una vida: impulsada por deseo, desinhibida de límites, seducida por exceso. La traición no es accidental; es consecuencia de una vida sin dominio.
 
-#### hombre soberbio
+#### hombre arrogante
 
 ##### Aquí Dios nombra explícitamente el rasgo central.
 
-- La soberbia: rechaza dependencia, no acepta espera, se autojustifica, se expande sin freno.
+- La arrogancia: rechaza dependencia, no acepta espera, se autojustifica, se expande sin freno.
 - Esto conecta directamente con: la justicia que procede de sí misma (1:7), la idolatría del poder (1:16), el orgullo de 2:4.
 
-#### que no permanecerá
+#### De modo que no se queda en casa.
 
 ##### Esta es la primera afirmación clara de **límite**. El orgulloso parece estable, parece dominante, parece invencible, pero **no permanece**.
 
@@ -1351,23 +1353,23 @@ Y también el que es dado al vino es traicionero, hombre soberbio, que no perman
 
 - Respuesta: **no**.
 
-#### que ensanchó como el Seol su alma
+#### Porque ensancha su garganta como el Seol
 
 ##### La imagen es de **apetito infinito**. 
 
 ##### El Seol: recibe constantemente, nunca se llena, no devuelve lo que toma. Así es el orgullo: siempre quiere más, nunca se satisface, no reconoce suficiencia.
 
-#### y es como la muerte, que no se sacia
+#### Y es como la muerte, que nunca se sacia
 
 ##### La comparación se intensifica. La muerte no negocia, no se detiene, no se conmueve. El orgulloso vive con la misma lógica: expansión constante sin límite moral.
 
-#### antes reunió para sí todas las gentes
+#### Reúne para sí todas las naciones
 
 ##### El verbo “reunir” muestra **apropiación**. Las naciones no son: responsabilidad, cuidado, administración. Son **posesión**.
 
 ##### Esto conecta con la metáfora de la pesca y con la acumulación descrita en el capítulo 1.
 
-#### y juntó para sí todos los pueblos
+#### Y recoge para sí todos los pueblos
 
 ##### La repetición refuerza la idea: expansión total, ambición sin frontera, dominio universal deseado. El orgulloso no conoce “suficiente”.
 
@@ -1395,9 +1397,9 @@ El enfoque se desplaza del resultado al modo de vivir.
 
 ### Habacuc 2:6 
 
-¿No han de levantar todos éstos refrán sobre él, y sarcasmos, contra él? Y dirán: ¡Ay del que multiplica lo que no es suyo! ¿Hasta cuándo? Y al que carga de deudas.
+¿No pronunciarán todos estos contra él una sátira, Y burlas e intrigas contra él? Y dirán: “¡Ay del que aumenta lo que no es suyo ¿hasta cuándo? Y se hace rico con préstamos!”.
 
-#### ¿No han de levantar todos éstos…?
+#### ¿No pronunciarán todos estos contra él una sátira…?
 
 ##### Dios introduce un **cambio de voz**. Hasta ahora: Dios hablaba, Habacuc respondía.
 
@@ -1405,30 +1407,30 @@ El enfoque se desplaza del resultado al modo de vivir.
 
 ##### Esto señala un principio importante: la historia también responde.
 
-#### refrán… y sarcasmos
+#### ¿...Y burlas e intrigas contra él?
 
 ##### El juicio adopta forma de **burla pública**. No es solo condena formal; es: ridiculización, exposición, inversión de honor.
 
 ##### El poder que se burlaba de reyes (1:10) ahora se convierte en **objeto de burla**. La justicia no llega con solemnidad inmediata, sino con **desenmascaramiento**.
 
-#### ¡Ay del que multiplica lo que no es suyo!
+#### Y dirán: “¡Ay del que aumenta lo que no es suyo
 
 ##### Aquí se formula el cargo principal. El problema no es crecimiento en sí, sino **apropiación ilegítima**.
 
-##### El verbo “multiplica” conecta con: expansión del orgullo (2:5), acumulación sin límite, dominio por despojo. La riqueza y el poder no nacen del trabajo justo, sino del robo sistemático.
+##### El verbo “aumenta” conecta con: expansión del orgullo (2:5), acumulación sin límite, dominio por despojo. La riqueza y el poder no nacen del trabajo justo, sino del robo sistemático.
 
-#### ¿Hasta cuándo...?
+#### ¿hasta cuándo?
 
 ##### Esta pregunta es clave. Es **la misma pregunta** que Habacuc hizo en 1:2, pero ahora puesta en boca de las naciones.
 ##### Esto muestra que: la impaciencia de Habacuc no era única, el clamor humano es compartido, Dios no ignoró esa pregunta. La diferencia es **quién responde y cuándo**.
 
-#### ¿...había de acumular sobre sí prenda tras prenda?
+#### ¡...Y se hace rico con préstamos!
 
-##### La imagen es económica y moral. *acumular sobre sí prenda tras prenda* implica: opresión estructural, dependencia forzada, enriquecimiento a costa de otros. La violencia ya no es solo militar; es **sistémica**.
+##### La imagen es económica y moral, implica: opresión estructural, dependencia forzada, enriquecimiento a costa de otros. La violencia ya no es solo militar; es **sistémica**.
 
 ##### El poder injusto crea obligaciones que benefician solo al dominante.
 
-##### Habacuc 2:6 marca el inicio de una **inversión histórica**: el que acumuló será acusado, el que dominó será juzgado, el que se burló será burlado. El juicio no es inmediato, pero es **inevitable**.
+##### Habacuc 2:6 marca el inicio de una **inversión histórica**: el que acumuló será acusado, el que dominó será juzgado, el que se burló será burlado. El juicio no es inmediato, pero es **inevitable**, deberá pagar la riqueza surgida de "préstamos".
 ##### Este versículo: inicia la serie de cinco “ayes”, da voz a las víctimas, muestra que el orgullo no queda sin respuesta
 
 ##### Dios no defendió Su método antes, pero ahora muestra que **el método no cancela la justicia final**.
@@ -1439,30 +1441,30 @@ El enfoque se desplaza del resultado al modo de vivir.
 
 ### Habacuc 2:7 
 
-¿No se levantarán de repente tus deudores, y se despertarán los que te harán temblar, y serás a ellos por rapiña?
+¿No se levantarán de repente tus acreedores, Y se despertarán tus cobradores? Ciertamente serás despojo para ellos.
 
 #### ¿No se levantarán de repente…?
 
 ##### El juicio comienza con **sorpresa temporal**. La caída no es gradual ni anunciada. Es **repentina**.
 ##### Esto confronta la ilusión del orgulloso: estabilidad prolongada, control continuo, dominio permanente. La historia no avisa cuando invierte el poder.
 
-#### tus deudores
+#### tus acreedores
 
 ##### El lenguaje retoma directamente **2:6**. Los que antes estaban: cargados, oprimidos, endeudados, no desaparecieron. Fueron **retenidos en silencio**, pero no anulados.
 
 ##### La deuda se convierte ahora en **memoria activa**.
 
-#### y se despertarán
+#### Y se despertarán
 
 ##### El verbo sugiere una acción latente que irrumpe en su debido momento. No describe creación ni resurrección, sino activación. Los actores no estaban ausentes ni anulados, sino contenidos. 
 
 ##### El texto no explica el despertar; simplemente indica que ocurre cuando llega el momento. Los que Dios permitiría ser oprimidos por Babilonia, también se les concederá dar su debida respuesta contra Babilonio, es el Señor al control de todo aquello.
 
-#### los que te harán temblar
+#### tus cobradores ["los que te harán temblar" - RV60]
 
 ##### Aquí ocurre la inversión psicológica. Antes Babilonia producía terror (1:9). Ahora Babilonia **temblará**. El temor cambia de dirección. El poder que intimidaba, el que Babilonia adoraba como su dios, ahora se vuelve **vulnerable**.
 
-#### y serás a ellos por rapiña
+#### Ciertamente serás despojo para ellos
 
 ##### La imagen final es exacta y contundente. Antes Babilonia tomaba como botín, reunía pueblos para sí (2:5). Ahora **Babilonia es el botín**. La historia no elimina la lógica del poder humano; la **revierte**.
 - Habacuc 2:7 muestra que la expansión injusta crea las condiciones de su propia inversión. El juicio no viene de fuera del sistema, sino **desde dentro de la misma dinámica**, como conquistaron, serán conquistados.
@@ -1473,15 +1475,15 @@ El enfoque se desplaza del resultado al modo de vivir.
 
 ### Habacuc 2:8 
 
-Por cuanto tú has despojado a muchas naciones, todos los otros pueblos te despojarán; a causa de la sangre de los hombres, y de la violencia hecha a la tierra, a las ciudades y a todos sus moradores.
+Porque tú has despojado a muchas naciones, Todos los demás pueblos te despojarán a ti, Por la sangre humana y la violencia hecha a la tierra, Al pueblo y a todos sus habitantes. 
 
-#### Por cuanto tú has despojado a muchas naciones
+#### Porque tú has despojado a muchas naciones
 
 ##### Aquí el “ay” se fundamenta explícitamente. El juicio no es arbitrario. Tiene **causa histórica identificable**.
 
 ##### El verbo *despojar* implica: saqueo sistemático, privación forzada, enriquecimiento mediante pérdida ajena. No es una acción aislada. Es **patrón repetido**.
 
-#### todos los otros pueblos te despojarán
+#### Todos los demás pueblos te despojarán a ti
 
 ##### La inversión se universaliza. Ya no son solo los deudores inmediatos (2:7), sino **todos los pueblos restantes**.
 ##### La violencia expansiva produce: resentimiento acumulado, memoria colectiva, respuesta múltiple. El que tomó de muchos será tomado por muchos.
@@ -1490,17 +1492,17 @@ Por cuanto tú has despojado a muchas naciones, todos los otros pueblos te despo
 
 ##### La forma del pecado determina la forma del juicio.
 
-#### a causa de la sangre de los hombres
+#### Por la sangre humana
 
 ##### Aquí la acusación se vuelve personal. La violencia no es abstracta. Tiene víctimas humanas reales.
 
 ##### La sangre derramada: clama, permanece, no se disuelve con el tiempo. Babilonia por ahora pasará a ser despojada de sus bienes, pero no solo por haber despojado a otras naciones, sino por la sangre derramada de hombres durante sus conquistas. El juicio no se trata de algo meramente económico 
 
-#### y de la violencia hecha a la tierra
+#### y la violencia hecha a la tierra
 
 La acusación se amplía. No solo personas: la tierra (la creación de Dios) es dañada, el orden creado es violentado. La conquista deja: devastación ambiental, destrucción de sustento, ruina prolongada. El pecado tiene **efecto general de todo lo creado**, no solo fue afectado el ser humano.
 
-#### a las ciudades y a todos sus moradores
+#### Al pueblo y a todos sus habitantes
 
 ##### El juicio no ignora escala.
 
@@ -1519,239 +1521,278 @@ La acusación se amplía. No solo personas: la tierra (la creación de Dios) es 
 
 ## Habacuc 2:9–11 Segundo ay: "La seguridad edificada sobre injusticia"
 
-Habacuc 2:9 
-"*¡Ay del que codicia ganancia injusta para su casa, para poner su nido en alto, para escapar del poder del mal!*"
+### Habacuc 2:9
 
-### Habacuc 2:9a “*¡Ay del que codicia ganancia injusta!*"
+¡Ay del que obtiene ganancias ilícitas para su casa, Para poner en alto su nido, Para librarse de la mano de la calamidad!
 
-#### El segundo “ay” comienza con el **motivo interno**. No es solo despojo externo (2:6–8), sino **codicia deliberada**. La ganancia es: deseada, perseguida, calculada.  Y es **injusta** desde su origen, no solo en su uso.
-### Habacuc 2:9b “*para su casa*"
+#### ¡Ay del que obtiene [codicia - RV60] ganancias ilícitas...!
 
-#### La injusticia no es accidental ni improvisada. Tiene un objetivo claro: consolidación, permanencia, beneficio propio y doméstico
+##### El segundo “ay” comienza con el **motivo interno**. No es solo despojo externo (2:6–8), sino **codicia deliberada**. La ganancia es: deseada, perseguida, calculada.  Y es **injusta** desde su origen, no solo en su uso.
+#### para su casa
 
-#### La “casa” representa: estabilidad, herencia, continuidad. El pecado ahora se muestra **estratégico**, no impulsivo.
+##### La injusticia no es accidental ni improvisada. Tiene un objetivo claro: consolidación, permanencia, beneficio propio y doméstico
 
-### Habacuc 2:9c “*para poner su nido en alto*"
+##### La “casa” representa: estabilidad, herencia, continuidad. El pecado ahora se muestra **estratégico**, no impulsivo. La naturaleza humana, el pensamiento del hombre incrédulo hacia Dios, busca lo suyo pero desde la codicia a partir de lo ganado injustamente.
 
-#### La imagen del nido introduce **auto-protección**. El nido alto sugiere: inaccesibilidad, seguridad, distancia del peligro. El poder injusto no solo quiere dominar; quiere **protegerse de las consecuencias**.
+#### Para poner en alto su nido
 
-### Habacuc 2:9 “*para escapar del poder del mal*"
+##### La imagen del nido introduce **auto-protección**. El nido alto sugiere: inaccesibilidad, seguridad, distancia del peligro. El poder injusto no solo quiere dominar; quiere **protegerse de las consecuencias**, confía en la seguridad propia que puede conseguirse, su seguridad no proviene del Dios Soberano.
 
-#### Aquí aparece una ironía profunda. El que actúa con maldad: intenta protegerse del mal, busca inmunidad frente al juicio, quiere seguridad sin rendición de cuentas. El problema no es solo injusticia, sino **ilusión de invulnerabilidad**.
+#### ¡...Para librarse de la mano de la calamidad!
 
-#### Habacuc 2:9 revela un principio importante: La injusticia no busca solo beneficio, busca **seguridad independiente de Dios**. La altura del nido es una alternativa a la confianza. 
+##### Aquí aparece una ironía profunda. El que actúa con maldad: intenta protegerse del mal, busca inmunidad frente al juicio, quiere seguridad sin rendición de cuentas. El problema no es solo injusticia, sino **ilusión de invulnerabilidad**.
 
-#### El justo: vive por fe, espera el tiempo señalado
+##### Habacuc 2:9 revela un principio importante: La injusticia no busca solo beneficio, busca **seguridad independiente de Dios**. La altura del nido es una alternativa a la confianza. 
 
-#### El orgulloso: acumula injustamente, se eleva, busca escapar
+- El justo: vive por fe, espera el tiempo señalado
+- El orgulloso: acumula injustamente, se eleva, busca escapar de la consecuencia de sus acciones.
+- Ambos enfrentan la inseguridad, pero responden de maneras opuestas.
 
-#### Ambos enfrentan la inseguridad, pero responden de maneras opuestas.
+##### Este versículo introduce el segundo “ay”, expone la motivación del poder injusto, prepara el juicio específico que sigue (2:10–11). La altura que logre no le salvará. El nido que construya no le protegerá.
 
-#### Este versículo introduce el segundo “ay”, expone la motivación del poder injusto, prepara el juicio específico que sigue (2:10–11). La altura no salvará. El nido no protegerá.
+### Habacuc 2:10
 
-Habacuc 2:10 
-"*Consultaste vergüenza para tu casa, destruyendo muchos pueblos, y has pecado contra tu alma.*"
+Has tramado cosa vergonzosa para tu casa, Destruyendo a muchos pueblos, Pecando contra ti mismo.
 
-### Habacuc 2:10b “*Consultaste vergüenza para tu casa*”
+#### Has tramado cosa vergonzosa para tu casa
 
-#### La palabra “consultaste” es significativa. No fue un error. No fue un accidente. Fue **deliberado**. El poder injusto planificó, calculó, decidió su camino. Pero el resultado de esa estrategia no fue seguridad, sino **vergüenza**.
-#### La casa que debía ser protegida se convierte en fuente de deshonra. En 2:9, el objetivo era: poner el nido en alto, escapar del mal, asegurar la casa. En 2:10, el resultado es lo opuesto: exposición, humillación, deshonra pública. La injusticia **fracasa en su propio propósito**.
+##### La expresión “has tramado” es significativa. No fue un error. No fue un accidente. Fue **deliberado**. El poder injusto planificó, calculó, decidió su camino. Pero el resultado de esa estrategia no fue seguridad, sino **vergüenza**.
+##### La casa que debía ser protegida se convierte en fuente de deshonra. En 2:9, el objetivo era: poner el nido en alto, escapar del mal, asegurar la casa. En 2:10, el resultado es lo opuesto: exposición, humillación, deshonra pública. La injusticia **fracasa en su propio propósito**.
 
-### Habacuc 2:10c “*destruyendo muchos pueblos*"
+#### Destruyendo a muchos pueblos
 
-#### Aquí se nombra nuevamente el medio. La vergüenza no surge de mala suerte, sino de **violencia ejercida conscientemente**. El progreso de uno: requirió la ruina de muchos, se construyó sobre pérdida ajena, acumuló culpa histórica. La casa se levantó con escombros humanos.
+##### Aquí se nombra nuevamente el medio. La vergüenza no surge de mala suerte, sino de **violencia ejercida conscientemente**. El progreso de uno: requirió la ruina de muchos, se construyó sobre pérdida ajena, acumuló culpa histórica. La casa se levantó con escombros humanos.
 
-### Habacuc 2:10c “*y has pecado contra tu alma*"
+#### Pecando contra ti mismo.
 
-#### Este es uno de los enunciados más penetrantes del pasaje. El pecado no solo afectó: a otros pueblos, a sistemas externos, a víctimas visibles. Afectó **al propio ser**. El alma: quedó dañada, quedó corrompida, quedó culpable. La injusticia no solo destruye fuera; **destruye desde dentro**.
+##### Una traducción literal sería: *has pecado contra tu **alma***
 
-#### Habacuc 2:10 muestra que La seguridad construida sobre injusticia produce vergüenza externa y corrupción interna. El pecado promete protección, pero deja **culpa y exposición**.
-#### Esto confirma el fracaso del “nido alto”, conecta injusticia externa con daño interno, prepara el testimonio silencioso que sigue (2:11). La casa injusta no queda en silencio.
+##### Este es uno de los enunciados más penetrantes del pasaje. El pecado no solo afectó: a otros pueblos, a sistemas externos, a víctimas visibles. Afectó **al propio ser**. El alma: quedó dañada, quedó corrompida, quedó culpable. La injusticia no solo destruye fuera; **destruye desde dentro**.
 
-Habacuc 2:11 
-"*Porque la piedra clamará desde el muro, y la tabla del enmaderado le responderá.*"
+##### Habacuc 2:10 muestra que La seguridad construida sobre injusticia produce vergüenza externa y corrupción interna. El pecado promete protección, pero deja **culpa y exposición**.
+##### Esto confirma el fracaso del “nido alto”, conecta injusticia externa con daño interno, prepara el testimonio silencioso que sigue (2:11). La casa injusta no queda en silencio.
 
-### Habacuc 2:11a “*Porque*"
+### Habacuc 2:11
 
-#### El versículo comienza con **conexión causal**. Lo que sigue **explica** la afirmación previa: la vergüenza consultada (2:10), el pecado contra el alma (2:10). Nada queda sin testimonio.
+Ciertamente la piedra clamará desde el muro, Y la viga le contestará desde el armazón. 
 
-### Habacuc 2:11b “*la piedra clamará desde el muro*"
+#### Ciertamente
 
-#### Aquí ocurre algo decisivo: **la creación inanimada habla**. La piedra: no tiene voz propia, no participa moralmente, no decide. Y aun así **clama**.
+##### El versículo comienza con **conexión causal**. Lo que sigue **explica** la afirmación previa: la vergüenza consultada (2:10), el pecado contra el alma (2:10). Nada queda sin testimonio.
 
-#### Esto implica que la injusticia deja huella objetiva, el pecado queda inscrito en la obra misma, la evidencia no depende de testigos humanos. El muro construido para protección se convierte en **acusador**.
+#### la piedra clamará desde el muro
 
-### Habacuc 2:11c “*desde el muro*"
+##### Aquí ocurre algo decisivo: **la creación inanimada habla**. La piedra: no tiene voz propia, no participa moralmente, no decide. Y aun así **clama**.
 
-#### El lugar es importante. El muro representa seguridad, defensa, fortaleza, separación del peligro. Precisamente aquello que debía proteger es lo que **expone la culpa**. La injusticia queda atrapada en su propia arquitectura.
+##### Esto implica que la injusticia deja huella objetiva, el pecado queda inscrito en la obra misma, la evidencia no depende de testigos humanos. El **muro construido** para protección se convierte en **acusador**.
 
-### Habacuc 2:11d “*y la tabla del enmaderado le responderá*"
+#### desde el muro
 
-#### El testimonio es **coral**, no aislado. No solo una piedra. No solo un punto débil. Todo el sistema constructivo piedra, madera, estructura completa responde y confirma la acusación. La casa injusta **no puede guardar silencio**.
+##### El lugar es importante. El muro representa seguridad, defensa, fortaleza, separación del peligro. Precisamente aquello que debía proteger es lo que **expone la culpa**. La injusticia queda atrapada en su propia arquitectura.
 
-#### Habacuc 2:11 establece este principio: La injusticia deja evidencia estructural que eventualmente se manifiesta. No todo juicio viene de palabras humanas.  A veces, la obra misma condena al autor.
+#### Y la viga le contestará desde el armazón
 
-##### El orgulloso: construye para asegurarse eleva su nido confía en estructuras visibles
+##### El testimonio es **coral**, no aislado. No solo una piedra. No solo un punto débil. Todo el sistema constructivo piedra, madera, estructura completa responde y confirma la acusación. La casa injusta **no puede guardar silencio**.
 
-##### El justo: vive por fe, no descansa en lo edificado, no necesita ocultar su obra. Lo construido sin fe termina hablando contra su constructor.
+##### Habacuc 2:11 establece este principio: La injusticia deja evidencia estructural que eventualmente se manifiesta. No todo juicio viene de palabras humanas.  A veces, la obra misma condena al autor.
 
-#### Este versículo cierra el segundo “ay”, demuestra que la injusticia no puede ocultarse, prepara el tercer “ay” (2:12). El juicio ahora avanzará del **hogar privado** a la **ciudad entera**.
+- El orgulloso: Construye para asegurarse eleva su nido confía en estructuras visibles, en su poder.
+- El justo: Vive por fe, no descansa en lo edificado, no necesita ocultar su obra. Lo construido sin fe termina hablando contra su constructor.
+
+##### Este versículo cierra el segundo “ay”, demuestra que la injusticia no puede ocultarse, prepara el tercer “ay” (2:12). El juicio ahora avanzará del **hogar privado** a la **ciudad entera**.
 
 ## Habacuc 2:12–14 Tercer ay: "El trabajo que no permanece"
 
-Habacuc 2:12 
-"*¡Ay del que edifica la ciudad con sangre, y del que funda una ciudad con iniquidad!*"
+### Habacuc 2:12
 
-### Habacuc 2:12a “*¡Ay del que edifica la ciudad…!*”
+¡Ay del que edifica una ciudad con sangre Y funda un pueblo con violencia!
 
-#### El alcance del juicio se **expande**. Ya no es: una casa (2:9–11), una estructura privada, una seguridad doméstica. Ahora es **la ciudad**: proyecto colectivo, sistema social, orden civil. El pecado deja de ser individual y se muestra **institucional**.
+#### ¡Ay del que edifica una ciudad…!
 
-### Habacuc 2:12b “*con sangre*”
+##### El alcance del juicio se **expande**. Ya no es: una casa (2:9–11), una estructura privada, una seguridad doméstica. Ahora es **la ciudad**: proyecto colectivo, sistema social, orden civil. El pecado deja de ser individual y se muestra **institucional**.
 
-#### La acusación es directa y sin matices. “Sangre” implica: muerte real, violencia letal, vidas sacrificadas para sostener el sistema.
+#### con sangre
 
-#### No es daño colateral. Es **fundamento**. La ciudad se levanta **sobre cuerpos**, no sobre justicia.
+##### La acusación es directa y sin matices. “Sangre” implica: muerte real, violencia letal, vidas sacrificadas para sostener el sistema.
 
-### Habacuc 2:12c “*y del que funda una ciudad con iniquidad*”
+##### No es daño colateral. Es **fundamento**. La ciudad se levanta **sobre cuerpos**, no sobre justicia.
 
-#### La repetición refuerza el cargo.
+#### ¡...Y funda un pueblo con violencia...!
 
-##### *edifica* → construcción visible
-##### *funda* → base, origen, principio rector
+##### La repetición refuerza el cargo.
 
-#### La iniquidad no es un defecto posterior; está **en el diseño**. El sistema nace torcido.
+- *edifica* → Construcción visible
+- *funda* → Base, origen, principio rector
 
-#### El versículo usa paralelismo para intensificar:
+##### La violencia no es un defecto posterior; está **en el diseño**. El sistema nace torcido.
 
-##### ciudad + sangre
-##### ciudad + iniquidad
+##### El versículo usa paralelismo para intensificar:
 
-#### Esto muestra que la violencia sostiene la estructura, la injusticia define la lógica interna, No hay contradicción entre éxito urbano y corrupción moral; coexisten.
+- Ciudad + Sangre
+- Pueblo + Violencia
 
-#### Habacuc 2:12 establece este principio: Un orden social puede prosperar visiblemente mientras está moralmente condenado desde su fundamento. El crecimiento no es evidencia de aprobación divina.
+##### Esto muestra que la violencia sostiene la estructura, la injusticia define la lógica interna, No hay contradicción entre éxito urbano y corrupción moral; coexisten.
 
-#### Este “ay” responde a la pregunta inicial del libro: Habacuc vio violencia en Judá (1:3), Dios mostró violencia en Babilonia (1:6–11). Aquí queda claro: **Dios no ignora ninguna de las dos.** La justicia divina no distingue por éxito, sino por fundamento.
+##### Habacuc 2:12 establece este principio: Un orden social puede prosperar visiblemente mientras está moralmente condenado desde su fundamento. El crecimiento externo no es evidencia de aprobación Dios.
 
-#### Este versículo: introduce el tercer “ay”, desplaza el juicio al plano civilizacional, prepara la corrección teológica que sigue (2:13). La pregunta ahora no es solo **qué se construye**, sino **para quién y con qué propósito**.
+##### Este “ay” responde a la pregunta inicial del libro: Habacuc vio violencia en Judá (1:3), Dios mostró violencia en Babilonia (1:6–11). Aquí queda claro: **Dios no ignora ninguna de las dos.** La justicia divina no distingue por éxito, sino por fundamento, porque medios vino ese "exito".
 
-Habacuc 2:13 
-"*¿No es esto de Jehová de los ejércitos? Los pueblos, pues, trabajarán para el fuego, y las naciones se fatigarán en vano.*"
+##### Este versículo: introduce el tercer “ay”, desplaza el juicio al plano de civilización, prepara la corrección de quién es Dios que seguirá a continuación (2:13). La pregunta ahora no es solo **qué se construye**, sino **para quién y con qué propósito**.
 
-### Habacuc 2:13a “*¿No es esto de Jehová de los ejércitos?*"
+### Habacuc 2:13 
 
-#### Dios introduce una **pregunta retórica**. No busca información. Busca **reorientación**. La pregunta afirma: autoridad divina, soberanía histórica, control sobre el destino de las naciones. Lo que ocurre **no está fuera del gobierno de Dios**, aunque contradiga la lógica humana.
+¿No viene del SEÑOR de los ejércitos Que los pueblos trabajen para el fuego Y las naciones se fatiguen en vano?
 
-### Habacuc 2:13b “*Jehová de los ejércitos*"
+#### ¿No viene del SEÑOR de los ejércitos...?
 
-#### Este título no es decorativo. Subraya que Dios: gobierna fuerzas visibles e invisibles, domina ejércitos humanos y celestiales, no compite con los poderes históricos. Las ciudades construidas con sangre no están fuera de Su jurisdicción.
+##### Dios introduce una **pregunta retórica**. No busca información. Busca **reorientación**. La pregunta afirma: autoridad divina, soberanía histórica, control sobre el destino de las naciones. Lo que ocurre **no está fuera del gobierno de Dios**, del SEÑOR de los ejércitos, aunque contradiga la lógica humana.
 
-### Habacuc 2:13c “*Los pueblos, pues, trabajarán para el fuego*"
+#### SEÑOR de los ejércitos
 
-#### Aquí se revela el destino del esfuerzo injusto. “Trabajar” implica: inversión, energía, planificación, sacrificio.  Pero el resultado es **el fuego**- destrucción, consumo total, desaparición del producto del trabajo. El problema no es falta de esfuerzo, sino **futilidad del fin**.
+##### Este título no es decorativo. Subraya que Dios: gobierna fuerzas visibles e invisibles, domina ejércitos humanos y celestiales, no compite con los poderes históricos. Las ciudades construidas con sangre no están fuera de Su jurisdicción.
 
-### Habacuc 2:13d “*y las naciones se fatigarán en vano*"
+#### Que los pueblos trabajen para el fuego
 
-#### La imagen se refuerza. No solo hay pérdida material, hay **agotamiento inútil**. La fatiga es real, es costosa, es intensa, pero es **en vano**. El sistema entero se mueve, progresa, construye…para **no llegar a nada duradero**.
+##### Aquí se revela el destino del esfuerzo injusto. “Trabajar” implica: inversión, energía, planificación, sacrificio.  Pero el resultado es **el fuego**, destrucción, consumo total, desaparición del producto del trabajo. El problema no es falta de esfuerzo, sino **inutilidad del fin**.
 
-#### Habacuc 2:13 establece este principio central,  todo proyecto humano que excluye a Dios termina en desgaste sin permanencia.
+#### ¿...Y las naciones se fatiguen en vano?
 
-#### El juicio no siempre es inmediato destrucción, a veces es **vaciamiento de sentido**. 2:12 expuso ciudades fundadas en sangre. 2:13 explica por qué esas ciudades no permanecen. No por falta de ingenio, sino porque **Dios no sostiene su finalidad**.
+##### La imagen se refuerza. No solo hay pérdida material, hay **agotamiento inútil**. La fatiga es real, es costosa, es intensa, pero es **en vano**. El sistema entero se mueve, progresa, construye…para **no llegar a nada duradero** e incluso quedar en un estado de debilidad.
 
-#### Este versículo: relativiza el poder humano, responde a la aparente prosperidad injusta, devuelve la historia al gobierno divino. 
+##### Habacuc 2:13 establece este principio central,  todo proyecto humano (del hombre orgulloso) que excluye a Dios termina en desgaste sin permanencia.
 
-#### La pregunta inicial de Habacuc (“¿hasta cuándo?”) encuentra aquí una respuesta implícita: **hasta que el esfuerzo sin Dios se consuma solo.**
+##### El juicio no siempre es destrucción inmediata al pecador, a veces es **un resultado vacío y sin propósito** a lo que busca. Habacuc 2:12 expuso ciudades fundadas en sangre. 2:13 explica por qué esas ciudades no permanecen. No por falta de ingenio, sino porque **Dios no sostiene su finalidad**, son acciones y propósitos que vienen de la incredulidad hacia Dios.
 
-Habacuc 2:14 
-"*Porque la tierra será llena del conocimiento de la gloria de Jehová, como las aguas cubren el mar.*"
+##### Este versículo: Coloca el poder humano en su lugar (algo que perece), responde a la aparente prosperidad injusta, devuelve la historia al gobierno de Dios, quien esta bajo el control de todo.
 
-### Habacuc 2:14a “*Porque*”
+##### La pregunta inicial de Habacuc (“¿hasta cuándo?”) encuentra aquí una respuesta implícita: **hasta que el esfuerzo del hombre sin Dios se consuma solo.**
 
-#### Este versículo está **directamente conectado** con 2:13. No introduce un tema nuevo; explica **por qué** el trabajo injusto termina en vano. La razón no es solo castigo, sino **propósito superior**.
+### Habacuc 2:14
 
-### Habacuc 2:14b “*la tierra será llena*”
+Pues la tierra se llenará Del conocimiento de la gloria del SEÑOR Como las aguas cubren el mar.
 
-#### La acción es **pasiva y segura**. No dice: *podría ser llena*, *quizá llegará a ser*
+#### Pues
 
-#### Dice, "*será llena*." Esto comunica certeza absoluta, resultado inevitable, cumplimiento histórico. La historia no se dirige al vacío, sino a **plenitud**.
+##### Este versículo está **directamente conectado** con 2:13. No introduce un tema nuevo; explica **por qué** el trabajo injusto termina en vano. La razón no es solo castigo, sino **propósito superior**.
 
-### Habacuc 2:14c “*del conocimiento*”
+#### la tierra se llenará
 
-#### El énfasis no es solo en gloria visible, sino en **conocimiento** de esa gloria. No es mera manifestación externa, sino: reconocimiento, comprensión, conciencia extendida.  La ignorancia que permite la injusticia no será permanente.
+##### La acción es **pasiva y segura**. No dice: *podría ser llena*, *quizá llegará a ser*
 
-### Habacuc 2:14d “*de la gloria de Jehová*”
+##### Dice, "*se llenará*." Esto comunica certeza absoluta, resultado inevitable, cumplimiento histórico. La historia no se dirige al vacío, sino a **plenitud**. La historia no es un conjunto de cosas que suceden al azar sino que pasa por las manos soberanas del Señor de los ejércitos.
 
-#### Aquí está el centro. No será: la gloria de Babilonia, la gloria de la ciudad, la gloria del poder humano. Será **la gloria de Jehová**.
+#### Del conocimiento
 
-#### Esto contrasta directamente con ciudades fundadas en sangre (2:12), trabajo para el fuego (2:13), orgullo que se expande (2:5). La historia no termina glorificando al hombre.
+##### El énfasis no es solo en gloria visible, sino en **conocimiento** de esa gloria. No es mera manifestación externa, sino: reconocimiento, comprensión, conciencia extendida.  La ignorancia que permite la injusticia no será permanente.
 
-### Habacuc 2:14e “*como las aguas cubren el mar*”
+#### de la gloria del SEÑOR
 
-#### La metáfora es totalizante. Las aguas: no cubren parcialmente, no dejan espacios secos, no compiten entre sí. Cubren **todo**.
+##### Aquí está el centro. No será: la gloria de Babilonia, la gloria de la ciudad, la gloria del poder humano. Será **la gloria de Jehová** de la que será llena toda la tierra.
 
-##### Esto implica: universalidad, inevitabilidad, ausencia de resistencia efectiva. La gloria de Dios no se impondrá con violencia, sino con **plenitud abrumadora**.
+##### Esto contrasta directamente con ciudades fundadas en sangre (2:12), trabajo para el fuego (2:13), orgullo que se expande (2:5). La historia no termina glorificando al hombre, sino al Señor.
 
-#### Habacuc 2:14 establece el **horizonte final de la historia**: La injusticia no tiene la última palabra porque **la gloria de Dios sí la tiene**.
+#### Como las aguas cubren el mar
 
-##### El problema no es solo corregir el mal,  sino **reorientar el fin de todas las cosas**.
+##### La metáfora es totalizante. Las aguas: no cubren parcialmente, no dejan espacios secos, no compiten entre sí. Cubren **todo**.
 
-#### El justo vive por fe porque: aún no ve esta plenitud, aún vive entre ciudades injustas, aún espera el tiempo señalado. La fe vive **a la luz de este futuro**, no del presente visible.
+- Esto implica: universalidad, inevitabilidad, ausencia de resistencia efectiva. La gloria de Dios no se impondrá con violencia, sino con **plenitud abrumadora**.
 
-##### Este versículo: explica por qué Dios tolera temporalmente la injusticia, redefine éxito histórico, da sentido a la espera ordenada en 2:3. La historia no se mueve al azar, sino hacia **conocimiento de la gloria de Dios**.
+##### Habacuc 2:14 establece el **horizonte final de la historia**: La injusticia no tiene la última palabra porque **la gloria de Dios sí la tiene**.
+
+- El problema no es solo corregir el mal,  sino **reorientar el fin de todas las cosas**.
+
+##### El justo vive por fe porque: aún no ve esta plenitud, aún vive entre ciudades injustas, aún espera el tiempo señalado. La fe vive **a la luz de este futuro** (de la verdad de Dios), no del presente visible.
+
+- Este versículo: explica por qué Dios tolera temporalmente la injusticia, redefine éxito histórico, da sentido a la espera ordenada en 2:3. La historia no se mueve al azar, sino hacia **conocimiento de la gloria de Dios**.
 
 ## Habacuc 2:15–17 Cuarto ay: "La violencia que vuelve sobre sí misma"
 
-Habacuc 2:15 
-"*¡Ay del que da de beber a su prójimo, que echando tu hiel, y embriagándolo, para mirar su desnudez!*"
+### Habacuc 2:15
 
-### Habacuc 2:15a “*¡Ay del que da de beber a su prójimo!*"
+¡Ay del que da de beber a su prójimo! ¡Ay de ti que mezclas tu veneno hasta embriagarlo, Para contemplar su desnudez!
 
-#### El cuarto “ay” cambia nuevamente de enfoque. Aquí no se trata de: expansión territorial, acumulación económica, edificación de ciudades. Se trata de **relación directa con el prójimo**. El pecado es **relacional**, no solo estructural.
+#### ¡Ay del que da de beber a su prójimo!
 
-### Habacuc 2:15b “*que echando tu hiel*"
+##### El cuarto “ay” cambia nuevamente de enfoque. Aquí no se trata de: expansión territorial, acumulación económica, edificación de ciudades. Se trata de **relación directa con el prójimo**. El pecado es **relacional**, no solo estructural.
 
-#### La bebida no es neutral. La “hiel” introduce: amargura, veneno, intención dañina. No es hospitalidad. Es **manipulación**. El acto externo parece ofrecer algo,  pero el contenido está diseñado para dañar.
+#### ¡Ay de ti que mezclas tu veneno...!
 
-### Habacuc 2:15c “*y embriagándolo*"
+##### La bebida no es neutral. El “veneno” introduce: amargura, intención dañina. No es hospitalidad. Es **manipulación**. El acto externo parece ofrecer algo,  pero el contenido está diseñado para dañar.
 
-#### La embriaguez aquí es **instrumental**. No es placer compartido, sino medio para: debilitar, desorientar, quitar control. El poder injusto no necesita fuerza directa; usa **desarme moral y psicológico**.
-### Habacuc 2:15d “*para mirar su desnudez*"
+#### hasta embriagarlo
 
-#### Este es el objetivo explícito. La desnudez representa vergüenza, vulnerabilidad, exposición forzada. El pecado no termina en dominio; termina en **humillación**. El poderoso disfruta: ver al otro reducido, contemplar su caída, afirmar su superioridad.
+##### La embriaguez aquí es **instrumental**. No es placer compartido, sino medio para: debilitar, desorientar, quitar control. El poder injusto no necesita fuerza directa; usa **desarme moral y psicológico**, así es la naturaleza del hombre.
+#### ¡...Para contemplar su desnudez!
 
-#### Habacuc 2:15 revela este principio: El poder injusto no solo oprime; **degrada deliberadamente**. La humillación es parte del placer del dominio.
-#### Este “ay” conecta con: deshumanización de 1:14–15, idolatría del poder de 1:16, orgullo que no se sacia de 2:5, La lógica es consistente: el otro existe como objeto, no como persona.
+##### Este es el objetivo explícito. La desnudez representa vergüenza, vulnerabilidad, exposición forzada. El pecado no termina en dominio; termina en **humillación**. El poderoso disfruta: ver al otro reducido, contemplar su caída, afirmar su superioridad.
 
-#### Este versículo: expone la perversión moral del poder, muestra que la injusticia es intencional, prepara la inversión inmediata que sigue (2:16). La vergüenza impuesta será **devuelta**.
+##### Habacuc 2:15 revela este principio: El poder injusto no solo oprime; **degrada deliberadamente**. La humillación es parte del placer del dominio.
+##### Este “ay” conecta con: deshumanización de 1:14–15, idolatría del poder de 1:16, orgullo que no se sacia de 2:5, La lógica es consistente: el otro existe como objeto, no como persona.
 
-Habacuc 2:16 
-"*Te has llenado de deshonra más que de honra; bebe tú también, y serás descubierto; el cáliz de la mano derecha de Jehová vendrá hasta ti, y vómito de afrenta sobre tu gloria.*"
+##### Este versículo: expone la perversión moral del poder, muestra que la injusticia es intencional, prepara la inversión inmediata que sigue (2:16). La vergüenza impuesta será **devuelta**.
 
-### Habacuc 2:16a “*Te has llenado de deshonra más que de honra*"
+### Habacuc 2:16 
 
-#### Aquí se declara el **resultado real**, no el aparente. Aunque el poder parecía glorioso, Dios revela el balance verdadero: no honra, **deshonra acumulada**. La llenura no es neutral. Aquello con lo que uno se llena termina definiéndolo.
-### Habacuc 2:16b “*bebe tú también*"
+Serás saciado de deshonra más que de gloria. Bebe tú también y muestra tu desnudez. Se volverá sobre ti la copa de la diestra del SEÑOR, Y la ignominia sobre tu gloria.
 
-#### La inversión es directa y personal. El que hizo beber a otros (2:15) ahora **debe beber él**. No hay excepción. No hay inmunidad. La justicia divina opera por **correspondencia**, no por arbitrariedad.
-### Habacuc 2:16c “*y serás descubierto*"
+#### Serás saciado de deshonra más que de gloria.
 
-#### La embriaguez ya no es instrumento,  es **exposición**. Lo que antes fue usado para humillar a otros, ahora revela al culpable. La desnudez ya no es del prójimo, sino **propia**.
+##### Aquí se declara el **resultado real**, no el aparente. Aunque el poder humano parecía glorioso, Dios revela el balance verdadero: Esto no trae gloria, sino **deshonra acumulada**. La llenura (deshonra) no es neutral. Aquello con lo que uno se llena termina definiéndolo.
+#### Bebe tú también
 
-### Habacuc 2:16d “*el cáliz de la mano derecha de Jehová*"
+##### La inversión es directa y personal. El que hizo beber a otros (2:15) ahora **debe beber él**. No hay excepción. No hay inmunidad. La justicia divina opera por **correspondencia**, no por arbitrariedad.
+#### y muestra tu desnudez
 
-#### Aquí se introduce la **fuente** del juicio. No es revancha humana. No es azar histórico. El cáliz procede: de la mano de Jehová, de Su autoridad directa, de Su gobierno soberano. Esto responde al silencio inicial de Dios.  Él **no estaba ausente**.
+##### La embriaguez ya no es instrumento,  es **exposición**. Lo que antes fue usado para humillar a otros, ahora revela al culpable. La desnudez ya no es del prójimo, sino **propia**.
 
-### Habacuc 2:16e “*vendrá hasta ti*"
+#### Se volverá sobre ti
 
-#### El juicio no puede evitarse. No se pierde en el camino. No se diluye en la historia. No se transfiere a otro. Llega **personalmente**.
+##### El juicio no puede evitarse. No se pierde en el camino. No se diluye en la historia. No se transfiere a otro. Llega **personalmente**.
 
-### Habacuc 2:16f “*y vómito de afrenta sobre tu gloria*"
+#### la copa de la diestra del SEÑOR
 
-#### La imagen es deliberadamente ofensiva. La “gloria” humana, construida sobre humillación ajena, termina cubierta de **vergüenza visible**.
+##### Aquí se introduce la **fuente** del juicio. No es revancha humana. No es azar histórico. La copa procede: De la mano del Señor (Jehová), de Su autoridad directa, de Su gobierno soberano. Esto responde al silencio inicial de Dios. Él **no estaba ausente**.
 
-##### El vómito expresa exceso, pérdida de control, repulsión pública. La gloria falsa se vuelve repulsiva.
+#### Y la ignominia sobre tu gloria. 
 
-#### Habacuc 2:16 establece este principio: La humillación infligida a otros regresa como deshonra personal. El pecado no solo cae; **se expone**.
-#### Este versículo: completa el cuarto “ay”, ejecuta la inversión moral anunciada, prepara el último “ay” (2:17). La copa ha cambiado de manos. La historia avanza hacia cierre.
+##### La imagen es deliberadamente ofensiva. La “gloria” humana, construida sobre humillación ajena, termina cubierta de **vergüenza visible**.
+
+- La ignominia expresa exceso, pérdida de control, repulsión pública. La gloria falsa se vuelve repulsiva.
+
+##### Habacuc 2:16 establece este principio: La humillación infligida a otros regresa como deshonra personal. El pecado no solo cae; **se expone**.
+### Habacuc 2:17
+
+Porque la violencia contra el Líbano te cubrirá, Y el exterminio de las fieras te aterrará, A causa del derramamiento de sangre humana y la violencia hecha a la tierra, A la ciudad y a todos los que habitan en ella
+
+#### Porque
+
+##### Esto conecta con el juicio mencionado anteriormente, el actuar de Dios para con los caldeos, no es   arbitrario. Su juicio vendrá con justa razón, en base a lo que hayan hecho.
+
+#### la violencia contra el Líbano te cubrirá
+
+Probablemente se refiera a la misma violencia que ejerció para ir contra el Líbano la capital de Egipto, y toda la violencia que hicieron se les volverá a ellos, serán cubiertos con la misma que ejercieron y no podrán hacer nada para evitarlo.
+
+Derramaron sangre, y robaron, así les vendrá el juicio. 
+
+#### Y el exterminio de las fieras te aterrará
+
+##### La violencia no solo fue con el lugar sino también llego hacia los animales, su injusticia no conoce limites.
+
+##### Ese mismo terror causado hacía las fieras es el que los aterrará en un futuro, a su debido tiempo.
+
+#### A causa del derramamiento de sangre humana
+
+##### Dios continua mostrando la razón de este actuar, dice *a causa del*.
+
+##### Su violencia llegó hasta el punto del asesinato a seres humanos, por causa de aquello viene a ellos su juicio, por la sangre humana derramada.
+
+#### y la violencia hecha a la tierra, A la ciudad y a todos los que habitan en ella
+
+##### La misma violencia hacía el Líbano los cubrirá, el terror causado a las fieras del campo los aterrará a ellos. Esto por causa de la sangre humana derramada y la violencia hacia la tierra, la ciudad y todos sus habitantes.
+
+##### Habacuc 2:17 establece este principio: La violencia infligida a otros regresa como violencia. El pecado no queda sin castigo; **será retribuido justamente**.
+
+##### Este versículo: completa el cuarto “ay”, ejecuta la inversión moral anunciada, prepara el último “ay” (2:18). La copa ha cambiado de manos. La historia avanza hacia cierre.
 
 ## Habacuc 2:18–19 Quinto ay: "El colapso de toda confianza falsa"
 
