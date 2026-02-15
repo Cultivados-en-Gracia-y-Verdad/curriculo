@@ -2647,150 +2647,189 @@ Cada “aunque” elimina un pilar más de estabilidad humana. La fe de Habacuc 
 
 ##### Aquí no queda: Ahorro, respaldo, futuro visible. Habacuc imagina **ruina completa**.
 
-- Habacuc 3:17 establece este principio decisivo: La fe bíblica no depende ni de provisión, ni de productividad, ni de estabilidad, ni de futuro visible.
-- Todo apoyo humano ha sido retirado.
-- Habacuc comenzó pidiendo: Justicia inmediata, corrección visible, alivio histórico. Aquí acepta la fe puede existir **sin ninguna señal externa de favor**. Esto responde definitivamente a la idea de que la aprobación de Dios se gana por justicia humana.
-- Este versículo: prepara el clímax confesional (3:18–19), establece el escenario de pérdida total, demuestra que la fe de Habacuc ya no negocia con Dios. La fe ya no dice: si tú haces… entonces yo confiaré. La fe ha quedado **sola con Dios**.
-- Al início del libro, Habacuc parecía depender de la ley para producir algo que nunca fue diseñada para garantizar. En Habacuc 1:2–4, su queja presupone que la Torah debería ser inmediatamente aplicada, visiblemente efectiva y socialmente correctiva; que la justicia de Dios debería medirse por los resultados en la sociedad; y que la violación del pacto debería provocar una corrección pronta. 
-- De este modo, el profeta no trata la ley únicamente como revelación de la voluntad de Dios, sino como un mecanismo capaz de producir justicia en la nación. Sin embargo, esa expectativa coloca sobre la ley un peso que no le corresponde. La ley expone la injusticia, define lo que es correcto y testifica del carácter de Dios, pero no garantiza obediencia, transformación moral ni orden social. 
-- La frustración de Habacuc surge precisamente porque la ley está haciendo lo que siempre hace: revelar el pecado, no corregirlo.
-- En ese sentido, su frustración no nace de incredulidad ni de rebeldía, sino de una confianza mal ubicada. Habacuc parece asumir que la posesión de la ley, la identidad del pacto y la distinción moral frente a otras naciones deberían obligar a Dios a actuar de una forma determinada. Su confianza no está todavía plenamente anclada en la persona de Dios, sino parcialmente en el sistema, la estructura y los medios del pacto.
-- Por eso la respuesta divina en Habacuc 1:5 resulta tan desestabilizadora: Dios no corrige los datos del profeta, sino sus expectativas. A lo largo del libro, Habacuc no transita de incredulidad a fe, sino de confiar en cómo Dios debería actuar a descansar en quién Dios es. Al final, ya no apela a la ley ni mide la justicia por resultados visibles, sino que descansa en el carácter, la fidelidad y la soberanía de Dios, aun cuando la justicia permanezca sin resolver. 
-- Su frustración era real, pero estaba desalineada: no porque la justicia no importe, sino porque esperaba que el instrumento equivocado la asegurara.
+Habacuc 3:17 establece este principio decisivo: La fe bíblica no depende ni de provisión, ni de productividad, ni de estabilidad, ni de futuro visible.
 
-Habacuc 3:18 
-"*Con todo, yo me alegraré en Jehová, y me gozaré en el Dios de mi salvación.*"
+Todo apoyo humano ha sido retirado.
 
-### Habacuc 3:18a “*Con todo*”
+Habacuc comenzó pidiendo: Justicia inmediata, corrección visible, alivio de los acontecimientos. 
 
-#### Esta expresión conecta directamente con **3:17**. No introduce un cambio de circunstancias, sino **una decisión en contraste**.
+Aquí acepta que la fe puede existir **sin ninguna señal externa de favor**. Esto responde definitivamente a la idea de que la aprobación de Dios no se gana por justicia humana.
 
-#### “Con todo” significa: a pesar de todo lo anterior, sin condiciones nuevas, sin reversión de la pérdida. La fe no espera que algo mejore para poder hablar.
+Este versículo: Prepara el clímax confesional (3:18–19), establece el escenario de pérdida total, demuestra que la fe de Habacuc ya no negocia con Dios. 
 
-### Habacuc 3:18b “*yo me alegraré*”
+- La fe ya no dice: "si tú haces, entonces yo confiaré". 
 
-#### El verbo está en **futuro decidido**. No es: sentimiento espontáneo, emoción automática, reacción circunstancial. Es una **resolución personal**.
+- La fe ha quedado **sola con Dios**.
 
-#### Habacuc no niega la ruina descrita; declara una respuesta distinta frente a ella. La alegría aquí es **activa**, no pasiva.
+Al inicio del libro, Habacuc parecía depender de la ley para producir algo que nunca fue diseñada para garantizar. En Habacuc 1:2–4, su queja presupone que la Torah debería ser inmediatamente aplicada, visiblemente efectiva y socialmente correctiva; que la justicia de Dios debería medirse por los resultados en la sociedad; y que la violación del pacto debería provocar una corrección pronta.
 
-#### Habacuc 3:18 El énfasis en el sujeto: “*yo*"
+De este modo, el profeta no trata la ley únicamente como revelación de la voluntad de Dios, sino como un mecanismo capaz de producir justicia en la nación. Sin embargo, esa expectativa coloca sobre la ley un peso que no le corresponde. La ley expone la injusticia, define lo que es correcto y testifica del carácter de Dios, pero no garantiza obediencia, transformación moral ni orden social, mucho menos trae justicia para el hombre. 
 
-#### Habacuc se involucra plenamente. No habla: en nombre del pueblo, como teólogo, como observador distante. Habla como **persona afectada**. Después de temblar (3:16), después de perderlo todo (3:17), el “yo” permanece. La fe no elimina al individuo; lo **reubica**.
+La frustración de Habacuc surge precisamente porque la ley está haciendo lo que siempre hace: revelar el pecado, no corregirlo.
 
-### Habacuc 3:18c “*en Jehová*"
+En ese sentido, su frustración no nace de incredulidad ni de rebeldía, sino de una confianza mal ubicada. Habacuc parece asumir que la posesión de la ley, la identidad del pacto y la distinción moral frente a otras naciones deberían obligar a Dios a actuar de una forma determinada. Su confianza no está todavía plenamente anclada en la persona de Dios, sino parcialmente en el sistema, la estructura y los medios del pacto.
 
-#### El objeto de la alegría es preciso. No es: en la provisión, en la estabilidad, en la supervivencia.  Es **en Jehová**. La fe madura no se alegra *por medio* de Dios, sino **en Dios mismo**. Dios no es medio; es **fin**.
+Por eso la respuesta divina en Habacuc 1:5 resulta tan desestabilizadora: Dios no corrige los datos del profeta, sino sus expectativas. A lo largo del libro, Habacuc no transita de incredulidad a fe, sino de confiar en cómo Dios debería actuar a descansar en quién Dios es. 
 
-### Habacuc 3:18d “*y me gozaré*"
+Al final, ya no apela a la ley ni mide la justicia por resultados visibles, sino que descansa en el carácter, la fidelidad y la soberanía de Dios, aun cuando la justicia permanezca sin resolver. 
 
-#### El paralelismo refuerza la idea. “Alegrarse” y “gozarse” no son redundantes; intensifican la declaración. Habacuc no afirma una resignación fría, sino una **afirmación interna profunda**. El gozo no cancela el dolor; coexiste con él.
+Su frustración era real, pero estaba desalineada con la verdad de Dios: no porque la justicia no importe, sino porque esperaba que el instrumento equivocado la asegurara.
 
-### Habacuc 3:18e “*en el Dios de mi salvación*"
+### Habacuc 3:18
 
-#### Aquí se declara la razón última. Dios es:  **Dios** (soberano), **de mi salvación** (personal). Habacuc no dice: *el Dios que me libró*, *el Dios que me prospera*. Dice: el Dios que **me salva**.
+Con todo yo me alegraré en el SEÑOR, Me regocijaré en el Dios de mi salvación.
 
-#### La salvación no es definida por el momento, sino por la **relación**. 
+#### Con todo
 
-#### Habacuc 3:18 establece este principio central del libro: La fe verdadera se alegra en Dios aun cuando Dios no cambia las circunstancias. Esto desmantela completamente la idea de: fe como mecanismo de control, justicia humana como moneda de aprobación, gozo condicionado al resultado.
+Esta expresión conecta directamente con **3:17**. No introduce un cambio de circunstancias, sino **una decisión en contraste**.
 
-#### “*El justo por su fe vivirá*” no era una idea abstracta.
+“Con todo” significa: A pesar de todo lo anterior, sin condiciones nuevas, sin reversión de la pérdida. La fe no espera que algo mejore para poder hablar.
 
-#### Aquí se **encarna**.  Vivir por fe significa: alegrarse sin respaldo visible, confiar sin garantías, descansar en Dios como salvación. Habacuc comenzó midiendo a Dios por su concepto de justicia.
+#### yo me alegraré
 
-#### Aquí termina **abrazando a Dios** sin exigir resolución inmediata. La fe ya no discute justicia; **descansa en el Justo**. 
+##### El verbo está en un **futuro decidido**. No es: Sentimiento espontáneo, emoción automática, reacción circunstancial o mentalidad positiva. Es una **resolución personal** en base a la comprensión de la persona de Dios y Sus caminos.
 
-#### Este versículo: declara el centro emocional y espiritual del final prepara la afirmación final de fortaleza y caminar (3:19). muestra que la fe no es negación de pérdida, sino **reorientación del gozo**. La historia puede colapsar. Dios **permanece suficiente**.
+##### Habacuc no niega la ruina descrita; declara una respuesta distinta frente a ella, una que proviene de la fe. La alegría aquí es **activa**, no pasiva.
 
-Habacuc 3:19 
-"*Jehová el Señor es mi fortaleza; él hará mis pies como de ciervas, y me hará andar sobre mis alturas. Al jefe de los cantores, sobre mis instrumentos de cuerdas.*"
+#### yo
 
-### Habacuc 3:19a “*Jehová el Señor es mi fortaleza*"
+##### Habacuc se involucra plenamente. No habla: En nombre del pueblo, o como líder, o como observador distante. Sino que habla como **desde una posición muy cercana**. Después de temblar (3:16), después de perderlo todo (3:17), el “yo” permanece. La fe no aleja al individuo; lo **reubica** en lo real.
 
-#### Habacuc termina donde nunca había comenzado antes: **con una afirmación directa sobre Dios**, no una pregunta. La fortaleza no es: circunstancial, emocional, estratégica. Es **Jehová el Señor** mismo.
+#### yo me alegraré en el SEÑOR
 
-#### Habacuc no dice: *Dios me da fortaleza*, *Dios me ayudará a resistir*. Dice: **Dios es mi fortaleza**.
+##### El objeto de la alegría es preciso. 
 
-#### La fuente y el recurso son uno. Este enunciado es profundamente personal: “mi fortaleza”
+- No es: En la provisión, en la estabilidad o en la supervivencia.  
+- Es **en Jehová**. La fe madura no se alegra *por medio* de Dios, sino **en Dios mismo**. Dios no es el medio; es el **fin**.
 
-#### Después de haber perdido: estabilidad económica, seguridad nacional, futuro visible, Habacuc declara una **identidad redefinida**. Ya no se define por lo que posee, sino por **quién lo sostiene**.
+#### Me regocijaré
 
-### Habacuc 3:19b “*él hará mis pies como de ciervas*"
+##### El paralelismo refuerza la idea. “Alegrarse” y “regocijarse” no son redundantes; intensifican la declaración. Habacuc no afirma una resignación fría, sino una **afirmación de gozo interna y   profunda**. El gozo no cancela el dolor; prevalece sobre él.
 
-#### La imagen cambia de defensa a **movimiento**. Las ciervas representan: agilidad, estabilidad en terreno difícil, avance sin torpeza.
+#### en el Dios de mi salvación.
 
-#### Esto no describe huida, sino **capacidad para moverse con seguridad**. La fe no inmoviliza; **habilita el caminar**. Habacuc no recibe alas para escapar, sino pies firmes para avanzar.
+##### Aquí se declara la razón última. Dios es:  **Dios** (soberano), **de mi salvación** (personal). 
 
-#### Esto es clave: Dios no siempre saca al justo del terreno difícil; le da firmeza para caminar en él. La fe no elimina la realidad; la **atraviesa con estabilidad**.
-### Habacuc 3:19c “*y me hará andar sobre mis alturas*"
+- Habacuc no dice: *el Dios que me libró*, *el Dios que me prospera*. 
+- Dice: el Dios que **me salva**.
 
-#### Las “alturas” no son ausencia de peligro, sino lugares elevados y expuestos. Andar sobre ellas implica: dominio, perspectiva, seguridad donde antes había riesgo. Lo que antes producía temor se convierte en **terreno transitado**. Las alturas ya no pertenecen al enemigo; son **lugares recorridos por el justo**.
+##### La salvación no es definida por el momento, sino por la **relación**. 
 
-#### Habacuc 3:19 establece este principio final: La fe no solo descansa; **camina con firmeza en medio de la realidad**. La justicia de Dios no es solo confesada; es **vivida**.
-### Habacuc 3:19d “*Al jefe de los cantores…*"
+- Habacuc 3:18 establece este principio central del libro: La fe de la que habla la Biblia se alegra en Dios aun cuando Dios no cambia las circunstancias. 
+- Esto desmantela completamente la idea de: Fe como mecanismo de control, o justicia humana como moneda de aprobación, o gozo condicionado al resultado.
+- “*El justo por su fe vivirá*” no era una idea abstracta, sino una realidad.
+- Aquí se **encarna**. Vivir por fe significa: Alegrarse sin respaldo visible, confiar sin garantías, descansar en Dios como salvación. 
+- Habacuc comenzó midiendo a Dios por su concepto de justicia.
+- Aquí termina **abrazando a Dios** sin exigir resolución inmediata. Porque la fe no discute justicia; **descansa en el Justo**.
+- Este versículo: Declara el centro emocional y espiritual del final, prepara la afirmación final de fortaleza y caminar (3:19). muestra que la fe no es negación de pérdida, sino **reorientación del gozo**. 
+- La historia puede colapsar, no permanece. Pero Dios **permanece como suficiente**.
 
-#### El libro termina con una nota litúrgica. Esto indica que: la experiencia de Habacuc no es privada, la fe vivida se convierte en testimonio, la confianza personal se transforma en adoración comunitaria. La fe que comenzó en queja termina en **cántico público**.
+### Habacuc 3:19
 
-#### El movimiento completo queda claro:
+El Señor DIOS es mi fortaleza; Él ha hecho mis pies como los de las ciervas, Y por las alturas me hace caminar. Para el director del coro, con mis instrumentos de cuerda. 
 
-##### Capítulo 1: protesta y confusión
+#### El Señor DIOS es mi fortaleza
 
-##### Capítulo 2: corrección y redefinición de vida
+##### Habacuc termina donde nunca había comenzado antes: **Con una afirmación directa sobre Dios**, no una pregunta. 
 
-##### Capítulo 3: revelación, temor, fe, gozo y estabilidad
+##### La fortaleza del que anda por fe no es: Circunstancial, emocional, estratégica. Es **Jehová el Señor** mismo.
 
-##### Habacuc no recibe todas las respuestas. Recibe **a Dios**.
+##### Habacuc no dice: *Dios me da fortaleza*, *Dios me ayudará a resistir*. Dice: **Dios es mi fortaleza**.
 
-#### **Conclusión final del mensaje de Habacuc: El justo no vive porque entiende la justicia de Dios, sino porque **descansa en el Dios justo. La fe no exige alineación con la realidad humana;  **se alinea con la realidad divina**. Habacuc termina de pie, no porque el mundo sea seguro, sino porque **Dios lo es**.
+##### La fuente y el recurso son uno. Este enunciado es profundamente personal: “*mi fortaleza*”
+
+##### Después de haber perdido: Estabilidad económica, seguridad nacional, futuro visible. Habacuc declara una **identidad redefinida**. Ya no se define por lo que posee, por lo que es o puede llegar a ser, sino por **quién lo sostiene**.
+
+#### Él ha hecho mis pies como los de las ciervas
+
+##### La imagen cambia de defensa a **movimiento**. Las ciervas representan: Agilidad, estabilidad en terreno difícil, avance sin torpeza.
+
+##### Esto no describe huida, sino **capacidad para moverse con seguridad**. La fe no inmoviliza; **habilita el caminar**. Habacuc no recibe alas para escapar, sino pies firmes para avanzar.
+
+##### Esto es clave: Dios no siempre saca al justo del terreno difícil; le da firmeza para caminar en él. La fe no elimina la realidad; la **atraviesa con estabilidad** gracias a su fortaleza, el Señor Dios.
+#### Y por las alturas me hace caminar.
+
+##### Las “alturas” no son ausencia de peligro, sino lugares elevados y expuestos. Andar sobre ellas implica: Dominio, perspectiva, seguridad donde antes había riesgo. 
+
+##### Lo que antes producía temor se convierte en **terreno transitado**. Las alturas ya no pertenecen al enemigo; son **lugares recorridos por el justo**.
+
+##### Habacuc 3:19 establece este principio final: La fe no solo descansa; **camina con firmeza en medio de la realidad de las circunstancias**. La justicia de Dios no es solo confesada; es **vivida**.
+#### Para el director del coro
+
+##### El libro termina con una nota litúrgica. Esto indica que: La experiencia de Habacuc no es privada, la fe vivida se convierte en testimonio, la confianza personal se transforma en adoración comunitaria. La fe que comenzó en queja termina en **cántico público** basado en la manifestación y conocimiento de el Señor Dios.
+
+##### El movimiento completo queda claro:
+
+- Capítulo 1: Protesta y confusión
+- Capítulo 2: Corrección y redefinición de vida
+- Capítulo 3: Revelación, temor, fe, gozo y estabilidad
+- Habacuc no recibe todas las respuestas. Recibe **la verdad Dios**.
+
+##### **Conclusión final del mensaje de Habacuc: El justo no vive porque entiende la justicia de Dios, sino porque **descansa en el Dios justo. La fe no exige alineación con la realidad humana;  **se alinea con la realidad de Dios**. 
+
+##### Habacuc termina de pie, no porque el mundo sea seguro, sino porque **Dios lo es**.
 
 ## En Síntesis (Habacuc 3)
 
-### Habacuc recuerda las obras históricas de Dios.
+##### Habacuc recuerda las obras históricas de Dios.
 
-### La memoria redefine la percepción del presente.
+##### La memoria redefine la percepción del presente.
 
-### El temor es reemplazado por confianza reverente.
+##### El temor es reemplazado por confianza reverente.
 
-### Las circunstancias no cambian, la postura interior sí.
+##### Las circunstancias no cambian, la postura interior ante ellas si.
 
-### La alabanza surge sin garantías visibles.
+##### La alabanza no surge de garantías visibles, sino de Dios como fortaleza.
 
-### El libro concluye en reposo, no en resolución intelectual.
+##### El libro concluye en reposo, no en resolución intelectual.
 
 # CONCLUSIÓN
 
-### Habacuc no termina con una explicación del mal, sino con una **reubicación del hombre frente a Dios**. El profeta comienza midiendo a Dios según su propio sentido de justicia.
+Habacuc no termina con una explicación del mal, sino con una **reubicación del hombre frente a Dios**. 
 
-###  Observa violencia, opresión y corrupción, y concluye que Dios **no está actuando conforme a lo que debería**. Desde esa percepción, Habacuc protesta, cuestiona y exige respuesta. Dios no corrige la realidad de la injusticia. La confirma.
+El profeta comienza midiendo a Dios según su propio sentido de justicia.
 
-###  Pero redefine completamente **cómo debe vivir el justo dentro de esa realidad**.
+Observa violencia, opresión y corrupción, y concluye que Dios **no está actuando conforme a lo que debería**. Desde esa percepción, Habacuc protesta, cuestiona y exige respuesta. 
 
-### La respuesta divina no es: una defensa del método, una justificación del sufrimiento, ni una promesa de alivio inmediato. Es una declaración fundamental: **El justo por su fe vivirá.** 
+Dios no corrige la realidad de la injusticia. La confirma.
 
-### Esto no significa que el justo comprenderá todo. Significa que **vivirá sin controlar**, **esperará sin ver**, y **confiará sin condiciones favorables**.
+Pero redefine completamente **cómo debe vivir el justo dentro de esa realidad**.
 
-### A lo largo del libro, Habacuc es llevado: de la protesta a la escucha, de la exigencia a la espera, de la observación del caos a la contemplación del Dios soberano.
+La respuesta de Dios no es: Una defensa del método, una justificación del sufrimiento, ni una promesa de alivio inmediato. Es una declaración fundamental: **El justo por su fe vivirá.** 
 
-### En el capítulo 3, Dios no explica la historia: **se revela a sí mismo**.
+Esto no significa que el justo comprenderá todo. Significa que **vivirá sin controlar**, **esperará sin ver**, y **confiará sin condiciones favorables**.
 
-### Habacuc ve que: Dios gobierna la creación, domina el tiempo, juzga a las naciones, salva a su pueblo, y avanza sobre el caos sin ser amenazado por él. Esa revelación no elimina el temor del profeta. Lo **ordena**.
+A lo largo del libro, Habacuc es llevado: 
 
-### Habacuc termina temblando, pero quieto. 
+- De la protesta a la escucha.
+- De la exigencia a la espera.
+- De la observación del caos a la contemplación del Dios soberano.
 
-### Consciente del juicio que vendrá, pero descansando. 
+En el capítulo 3, Dios no explica la historia: **se revela a sí mismo**.
 
-### Sin provisión visible, pero con gozo real. 
+Habacuc ve que: Dios gobierna la creación, domina el tiempo, juzga a las naciones, salva a su pueblo, y avanza sobre el caos sin ser amenazado por él. Esa revelación no elimina el temor del profeta. Lo **ordena**.
 
-### Sin control del futuro, pero con firmeza para caminar.
+Habacuc termina:
 
-### El libro no enseña que la fe obtiene justicia humana.
+- Temblando, pero quieto, ante la revelación de Dios.
+- Consciente del juicio que vendrá, pero descansando. 
+- Sin provisión visible, pero con gozo real. 
+- Sin control del futuro, pero con firmeza para caminar.
 
-###  Enseña que la fe **sobrevive cuando la justicia humana colapsa**.
+El libro no enseña que la fe obtiene justicia humana.
 
-### Habacuc aprende que: la aprobación de Dios no se gana, la justicia de Dios no se negocia, y la fe no es un mecanismo para cambiar a Dios, sino una respuesta correcta ante Él. La conclusión del libro no es optimismo. Es **confianza**.
+Enseña que la fe **sobrevive cuando la justicia humana colapsa**.
 
-#### No confianza en circunstancias, sino en **Jehová el Señor**, quien se convierte en fortaleza, estabilidad y camino seguro.
+Habacuc aprende que: La aprobación de Dios no se gana, la justicia de Dios no se negocia, y la fe no es un mecanismo para cambiar a Dios, sino una respuesta correcta ante Él. 
 
-#### Habacuc no termina entendiendo todo. Termina **de pie**. Y esa es, finalmente, la vida del justo.
+La conclusión del libro:
+
+- No es optimismo. Es **confianza** en la **verdadera salvación**, Dios.
+- No confianza en circunstancias, sino en el **Señor DIOS**, quien se convierte en fortaleza, estabilidad y camino seguro.
+
+Habacuc no termina entendiendo todo. Termina **de pie**. 
+
+Y esa es, finalmente, la vida del justo, vive por la fe.
 
 # APÉNDICE
 
