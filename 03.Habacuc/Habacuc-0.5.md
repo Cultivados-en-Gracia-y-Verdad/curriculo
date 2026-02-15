@@ -2492,52 +2492,60 @@ Traspasaste con sus propios dardos La cabeza de sus guerreros Que irrumpieron pa
 - Habacuc se quejaba de: Violencia contra el justo, opresión del pobre, mal celebrándose sin freno. Aquí se ve que Dios no solo ve la injusticia, sino también **el origen y el placer que se toma en ella**. Nada queda oculto delante de Él.
 - Este versículo: Muestra la derrota del enemigo desde dentro, conecta la violencia pasada con su consecuencia, prepara el cierre del juicio y la afirmación final de dominio (3:15). La tempestad se vuelve contra sí misma.
 
-Habacuc 3:15 
-"*Caminaste por el mar con tus caballos, por el montón de grandes aguas.*"
+### Habacuc 3:15
 
-### Habacuc 3:15a “*Caminaste por el mar*"
+Marchaste por el mar con Tus caballos, En el oleaje de las inmensas aguas.
 
-#### La acción es presentada con **calma soberana**. No dice: luchaste, forzaste, irrumpiste. Dice: "***caminaste***".
+#### Marchaste por el mar
 
-#### Esto comunica: dominio sin esfuerzo, autoridad tranquila, control absoluto.
+##### La acción es presentada con **calma soberana**. No dice: Luchaste, forzaste, irrumpiste. Dice: ***marchaste***.
 
-#### El mar, símbolo tradicional de caos, no ofrece resistencia. Dios no corre; **avanza con certeza**.
+##### Esto comunica: Dominio sin esfuerzo, autoridad tranquila, control absoluto.
 
-#### En el imaginario bíblico, el mar representa: amenaza, desorden, lo incontrolable para el hombre. Que Dios camine sobre él indica: sometimiento total, ausencia de peligro, victoria completa. El caos no es rival. Es **escenario sometido**.
+##### El mar, símbolo tradicional de caos, no ofrece resistencia. Dios no corre; **avanza con certeza**.
 
-### Habacuc 3:15b “*con tus caballos*”
+##### Generalmente en la Biblia el mar representa: Amenaza, desorden, lo incontrolable para el hombre. Que Dios camine sobre él indica: Sometimiento total, ausencia de peligro, victoria completa. El caos no es rival. Es **escenario sometido** por Dios.
 
-#### La imagen guerrera permanece, pero ahora sin conflicto visible. Los caballos: siguen presentes, acompañan el avance, no combaten. Esto sugiere que: la victoria ya fue asegurada, el poder no necesita demostrarse más, el dominio es incuestionable.
+#### con Tus caballos
 
-### Habacuc 3:15c “*por el montón de grandes aguas*"
+##### La imagen guerrera permanece, pero ahora sin conflicto visible. 
 
-#### La frase intensifica el escenario. No son aguas tranquilas. Son **grandes aguas**, amontonadas.
+##### Los caballos: Siguen presentes, acompañan el avance, no combaten. 
 
-#### Aun así no detienen, no desvían, no amenazan. La magnitud del obstáculo no altera el paso de Dios.
+##### Esto sugiere que: La victoria ya fue asegurada, el poder no necesita demostrarse más, el dominio es incuestionable.
 
-#### Habacuc 3:15 establece este principio: El caos que aterra al hombre es camino firme bajo los pies de Dios. Lo que para el hombre es límite, para Dios es **ruta**.
-#### La secuencia se completa así:
+#### En el oleaje de las inmensas aguas
 
-##### 3:3–4 → manifestación de gloria
-##### 3:5–6 → juicio en avance
-##### 3:7–11 → reacción cósmica
-##### 3:12–14 → derrota del enemigo
-##### 3:15 → dominio tranquilo y final
+##### La frase intensifica el escenario. No son aguas tranquilas. Son **grandes aguas**, amontonadas.
 
-#### No queda tensión. No queda resistencia. No queda amenaza. Habacuc comenzó viendo: caos moral, violencia sin freno, injusticia dominante.
+##### Aun así no detienen, no desvían, no amenazan. La magnitud del obstáculo no altera el paso de Dios.
 
-#### Aquí ve que el caos no gobierna la historia; **Dios camina sobre él**.
+##### Habacuc 3:15 establece este principio: El caos que aterra al hombre es camino firme bajo los pies de Dios. Lo que para el hombre es obstáculo, para Dios es **ruta**.
+##### La secuencia se completa así:
 
-#### La fe ya no discute el desorden; descansa en el dominio divino.
+- 3:3–4 → Manifestación de gloria
+- 3:5–6 → Juicio en avance
+- 3:7–11 → Reacción universal
+- 3:12–14 → Derrota del enemigo
+- 3:15 → Dominio tranquilo y final de Dios
 
-#### Este versículo: concluye la teofanía, sella la victoria divina, prepara el cambio de voz del profeta (3:16). Después de ver esto, Habacuc **no puede hablar igual**.
+##### No queda tensión. No queda resistencia. No queda amenaza. Habacuc comenzó viendo: Caos moral, violencia sin freno, injusticia dominante.
 
-#### En **3:16**, Habacuc vuelve a sí mismo: su cuerpo, su temor, su espera. La visión transforma al profeta.
+##### Aquí ve que el caos no gobierna la historia; **Dios camina y gobierna sobre él**.
+
+##### La fe ya no discute el desorden; descansa en el **control total** de Dios.
+
+##### Este versículo: Concluye la manifestación de Dios, sella Su victoria, prepara el cambio de voz del profeta (3:16). Después de ver esto, Habacuc **no podrá hablar igual**.
+
+##### En **3:16**, Habacuc vuelve a sí mismo: Su cuerpo, su temor, su espera. 
+
+##### La visión (revelación de Dios) cambia la perspectiva del profeta, por lo tanto también cambia donde estaba su fe, esto se verá en la manera que se expresará en los siguientes versiculos.
 
 ## Habacuc 3:16 La respuesta del profeta ante el Señor
 
-Habacuc 3:16 
-"*Oí, y se conmovieron mis entrañas; a la voz temblaron mis labios; pudrición entró en mis huesos, y dentro de mí mismo me estremecí; si bien estaré quieto en el día de la angustia, cuando suba al pueblo el que lo invadirá con sus tropas.*"
+### Habacuc 3:16
+
+Oí, y se estremecieron mis entrañas; A Tu voz temblaron mis labios. Entra podredumbre en mis huesos, Y tiemblo donde estoy. Tranquilo espero el día de la angustia, Al pueblo que se levantará para invadirnos.
 
 ### Habacuc 3:16a “*Oí*"
 
