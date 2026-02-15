@@ -2318,178 +2318,179 @@ Te vieron los montes y temblaron, El diluvio de aguas pasó; Dio el abismo su vo
 
 - Habacuc 3:10 establece este principio: Toda la creación reconoce la presencia de Dios antes que el ser humano la entienda.
 - La creación responde **naturalmente** a lo que el hombre discute en su razonamiento.
-- Habacuc luchaba con: Incoherencia aparente, silencio divino, injusticia persistente. Era su razonamiento humano
+- Habacuc luchaba con: Incoherencia aparente, el "silencio" de Dios, "injusticia" persistente. Era su razonamiento humano
 - Aquí ve que el universo no duda del gobierno de Dios. La creación no pregunta *¿hasta cuándo?* Simplemente responde a lo que es real, quien gobierna y define la historia es el Señor, el Creador, el Soberano.
 - Este versículo: Intensifica la respuesta cósmica a la manifestación de Dios, muestra que Su  juicio no es solo histórico, sino universal. Prepara la descripción del control absoluto de Dios sobre luz y tiempo (3:11). La revelación de Dios avanza hacia su punto culminante.
 - En **Habacuc 3:11**, incluso: El sol, la luna, los ritmos celestes se detendrán ante la acción divina.
 
-Habacuc 3:11 
-"*El sol y la luna se pararon en su lugar; a la luz de tus saetas anduvieron, y al resplandor de tu fulgente lanza.*"
+### Habacuc 3:11 
 
-### Habacuc 3:11a “*El sol y la luna se pararon*"
+El sol y la luna se detuvieron en su sitio; A la luz de Tus flechas se fueron, Al resplandor de Tu lanza fulgurante.
 
-#### Aquí se menciona el **orden más estable y regular** de la creación.
+#### El sol y la luna se detuvieron
 
-#### El sol y la luna representan: ritmo, tiempo, constancia, previsibilidad.
+##### Aquí se menciona el **orden más estable y regular** de la creación.
 
-#### Lo que “*se pararon*” indica: suspensión del orden normal, interrupción del flujo habitual, subordinación total al actuar divino. Nada es tan constante que no pueda detenerse ante Dios.
+##### El sol y la luna representan: Ritmo, tiempo, constancia, previsibilidad.
 
-### Habacuc 3:11b “*en su lugar*"
+##### Lo que “*se detuvieron*” indica: Suspensión del orden normal, interrupción del flujo habitual, subordinación total al actuar divino. Nada es tan constante que no pueda detenerse ante Dios.
 
-#### No se describe caos desordenado. El sol y la luna no desaparecen, no colapsan,  no se desintegran. **Se detienen en su lugar**.
+#### en su sitio
 
-#### Esto muestra que: Dios no destruye el orden, Dios **lo gobierna**. La creación no entra en confusión; entra en **obediencia momentánea**.
+##### No se describe caos desordenado. El sol y la luna no desaparecen, no colapsan,  no se desintegran. **Se detienen en su lugar**.
 
-### Habacuc 3:11c “*a la luz de tus saetas anduvieron*"
+##### Esto muestra que: Dios no destruye el orden, Dios **lo gobierna en orden**. La creación no entra en confusión; entra en **obediencia momentánea**.
 
-#### La imagen vuelve al lenguaje militar. Las “saetas”: implican dirección, precisión, propósito definido. La luz que emiten guía el movimiento.
+#### A la luz de Tus flechas se fueron
 
-#### Esto sugiere que: incluso los astros, ajustan su movimiento, según la acción de Dios. La guerra divina no es oscura; es **iluminadora**.
+##### La imagen vuelve al lenguaje militar. Las “flechas”: Implican dirección, precisión, propósito definido. La luz que emiten guía el movimiento.
 
-### Habacuc 3:11d “*y al resplandor de tu fulgente lanza*"
+##### Esto sugiere que: Incluso los astros, ajustan su movimiento, según la acción de Dios. La guerra divina no es oscura; es **iluminadora**.
 
-#### La lanza refuerza la imagen de confrontación directa. El resplandor no es solo brillo, sino **manifestación visible de autoridad**.
+#### Al resplandor de Tu lanza fulgurante.
 
-#### Dios no actúa ocultamente. Su intervención es: clara, perceptible, imposible de ignorar. La gloria acompaña al juicio.
+##### La lanza refuerza la imagen de confrontación directa. El resplandor no es solo brillo, sino **manifestación visible de la autoridad** de Dios.
 
-#### Habacuc 3:11 establece este principio: El Dios que gobierna la historia gobierna también el tiempo.
-#### Ni los ciclos naturales ni los ritmos celestes operan independientemente de Él.
+##### Dios no actúa ocultamente. Su intervención es: Clara, perceptible, imposible de ignorar. Su gloria acompaña a Su juicio.
 
-#### Dios había dicho: la visión tiene tiempo señalado, aunque tarde, vendrá.
+- Habacuc 3:11 establece este principio: El Dios que gobierna la historia gobierna también el tiempo.
+- Ni los ciclos naturales ni los ritmos celestes operan independientemente de Él.
+- Dios había dicho: La visión tiene tiempo señalado, aunque tarde, vendrá.
+- Aquí se muestra que el tiempo mismo responde a Dios. La espera no significa ausencia de control.
+- Habacuc temía que: La injusticia avanzara sin freno, el tiempo favoreciera al impío.
+- Ahora ve que: Incluso el tiempo se detiene cuando Dios actúa. Nada corre fuera de Su alcance.
+- Este versículo: Eleva la manifestación de Dios a un plano universal máximo, muestra que la victoria de Dios afecta todo orden creado, prepara el retorno a la acción histórica concreta (3:12). Después de detener cielos y tiempo, Dios avanzará nuevamente **sobre la tierra**.
 
-#### Aquí se muestra que el tiempo mismo responde a Dios. La espera no significa ausencia de control.
+### Habacuc 3:12
 
-#### Habacuc temía que: la injusticia avanzara sin freno, el tiempo favoreciera al impío.
+Con indignación marchaste por la tierra; Con ira pisoteaste las naciones.
 
-#### Ahora ve que: incluso el tiempo se detiene cuando Dios actúa. Nada corre fuera de Su alcance.
+#### Con indignación marchaste por la tierra
 
-#### Este versículo: eleva la teofanía al plano cósmico máximo, muestra que la victoria divina afecta todo orden creado, prepara el retorno a la acción histórica concreta (3:12). Después de detener cielos y tiempo, Dios avanzará nuevamente **sobre la tierra**.
+El verbo **marchar** implica: Pisar con autoridad, someter, avanzar sin resistencia efectiva. No es desplazamiento casual. Es **dominio activo** de Dios sobre la faz de la tierra.
 
-Habacuc 3:12 
-"*Con ira hollaste la tierra, con furor trillaste las naciones.*"
+La indignación aquí no es explosión emocional, sino **reacción dirigida**. Dios no pisa por capricho, sino como ejercicio de Su justicia soberana.  
 
-### Habacuc 3:12a “*Con ira hollaste la tierra*"
+"La indignación como modo de acción", Habacuc no suaviza el lenguaje.
 
-#### El verbo **hollar** implica: pisar con autoridad, someter, avanzar sin resistencia efectiva. No es desplazamiento casual. Es **dominio activo**.
+La indignación no es negada, ni explicada, ni justificada. Simplemente es **afirmada**.
 
-#### La ira aquí no es explosión emocional, sino **energía moral dirigida**. Dios no pisa por capricho, sino como ejercicio de justicia soberana.  "La ira como modo de acción" Habacuc no suaviza el lenguaje.
+Esto muestra que: La indignación de Dios es parte de Su actuar histórico, no es incompatible con Su santidad, no es contraria a Su propósito redentor. Habacuc ya no discute la indignación; la **reconoce**.
 
-#### La ira no es negada, ni explicada, ni justificada. Simplemente es **afirmada**.
+#### por la tierra
 
-#### Esto muestra que: la ira divina es parte de Su actuar histórico, no es incompatible con Su santidad, no es contraria a Su propósito redentor. Habacuc ya no discute la ira; la **reconoce**.
+##### El objeto es amplio. No se limita a: Una ciudad, una nación, un enemigo específico.
 
-### Habacuc 3:12b “*la tierra*"
+##### La tierra representa: el escenario completo de la acción humana, el ámbito donde su injusticia se manifiesta, el lugar que Habacuc antes veía dominado por el impío e ignorado por Dios. Dios no actúa solo en los márgenes; **Él atraviesa la tierra**.
 
-#### El objeto es amplio. No se limita a: una ciudad, una nación, un enemigo específico.
+#### Con ira pisoteaste [trillaste - RV60] las naciones.
 
-#### La tierra representa: el escenario completo de la acción humana, el ámbito donde la injusticia se manifiesta, el lugar que Habacuc antes veía dominado por el impío. Dios no actúa solo en los márgenes; **atraviesa la tierra**.
+##### La imagen agrícola es deliberada. **Trillar** implica: Separar, aplastar, exponer lo que no sirve, revelar lo que es real.
 
-### Habacuc 3:12c “*con furor trillaste las naciones*"
+##### No es destrucción caótica. Es **proceso discriminador**. El ira no elimina la intención; la **ejecuta**. 
 
-#### La imagen agrícola es deliberada. **Trillar** implica: separar, aplastar, exponer lo que no sirve, revelar lo que es real.
+##### Las naciones aquí no son identificadas por nombre, porque el punto no es histórico puntual, sino **principio universal**.
 
-#### No es destrucción caótica. Es **proceso discriminador**. El furor no elimina la intención;  la **ejecuta**. 
+##### Toda nación que: Se exalta, oprime, se sostiene en sangre, queda bajo esta acción. Esto responde directamente a la pregunta inicial: *¿Hasta cuándo dominará el impío?* 
 
-#### Las naciones aquí no son identificadas por nombre, porque el punto no es histórico puntual, sino **principio universal**.
+##### Respuesta implícita: **Hasta que Dios pise y trille.**
 
-#### Toda nación que: se exalta, oprime, se sostiene en sangre, queda bajo esta acción. Esto responde directamente a la pregunta inicial: *¿Hasta cuándo dominará el impío?* Respuesta implícita: **hasta que Dios pise y trille.**
+- Habacuc 3:12 establece este principio: La ira de Dios no es pasiva ni teórica; se manifiesta históricamente con acción concreta.
+- La fe no ignora la ira de Dios; la **ubica dentro del gobierno justo de Dios**.
+- Habacuc comenzó viendo: Violencia sin corrección, dominio impune, justicia torcida.
+- Aquí ve que: La corrección no fue anulada, solo **postergada y redefinida** por el dueño de todo.
+- Dios no perdió control; estaba avanzando hacia Su momento señalado.
+- Este versículo: Afirma el carácter activo del juicio de Dios, conecta la revelación de Dios con la historia humana, prepara la revelación del **propósito** de esa acción (3:13). La pregunta ya no es *si* Dios juzga, sino **para qué** y **cómo** lo hace.
 
-#### Habacuc 3:12 establece este principio: La ira de Dios no es pasiva ni teórica; se manifiesta históricamente con acción concreta.
-#### La fe no ignora la ira; la **ubica dentro del gobierno justo de Dios**.
+### Habacuc 3:13 
 
-#### Habacuc comenzó viendo: violencia sin corrección, dominio impune, justicia torcida.
+Saliste para salvar a Tu pueblo, Para salvar a Tu ungido. Destrozaste la cabeza de la casa del impío, Descubriéndolo de arriba abajo. (Selah) 
 
-#### Aquí ve que: la corrección no fue anulada, solo **postergada y redefinida**.
-#### Dios no perdió control; estaba avanzando hacia el momento señalado.
+#### Saliste
 
-#### Este versículo: afirma el carácter activo del juicio divino, conecta la teofanía con la historia humana, prepara la revelación del **propósito** de esa acción (3:13). La pregunta ya no es *si* Dios juzga, sino **para qué** lo hace.
+##### El verbo es decisivo. Dios no permanece distante, pasivo, observando desde lo alto. **Él sale**.
 
-Habacuc 3:13 
-"*Saliste para socorrer a tu pueblo, para socorrer a tu ungido. Traspasaste la cabeza de la casa del impío, descubriendo el cimiento hasta la roca. Selah.*"
+##### Esto indica: Iniciativa divina, involucramiento directo, compromiso histórico. La acción de Dios no es reacción al mal; es **movimiento deliberado hacia Sus propósito**.
 
-### Habacuc 3:13a “*Saliste*”
+#### para salvar a Tu pueblo
 
-#### El verbo es decisivo. Dios no permanece distante, pasivo, observando desde lo alto. **Sale**.
+##### Aquí se revela claramente el **objetivo primario**. Dios actúa: No solo para juzgar, no solo para demostrar poder, sino **para salvar**.
 
-#### Esto indica: iniciativa divina, involucramiento directo, compromiso histórico. La acción de Dios no es solo reacción al mal; es **movimiento deliberado hacia su propósito**.
+##### “Salvar” implica: Rescatar, auxiliar en peligro, intervenir ante la incapacidad humana. Esto responde directamente a la angustia inicial de Habacuc: *¿Por qué no salvas?* (1:2). 
 
-### Habacuc 3:13b “*para socorrer a tu pueblo*”
+##### Respuesta: **Dios sí sale para salvar,** pero no en base al pensamiento humano, sino en base a Su propósito
 
-#### Aquí se revela claramente el **objetivo primario**. Dios actúa: no solo para juzgar, no solo para demostrar poder, sino **para socorrer**.
+#### Para salvar a Tu ungido
 
-#### “Socorrer” implica: rescatar, auxiliar en peligro, intervenir cuando no hay salida humana. Esto responde directamente a la angustia inicial de Habacuc: *¿Por qué no salvas?* (1:2). Respuesta: **Dios sí sale para salvar.**
+##### La repetición no es redundante; es **especificación**. El “ungido” señala: Al representante del pueblo, al instrumento elegido por Dios, a aquel sobre quien recae la promesa.
 
-### Habacuc 3:13c “*para socorrer a tu ungido*"
+##### No se define aquí su identidad concreta, porque el énfasis está en la **relación con Dios**: Pertenece a Dios y por eso es protegido. La salvación es en base a la promesa de Dios.
 
-#### La repetición no es redundante; es **especificación**. El “ungido” señala: al representante del pueblo, al instrumento elegido por Dios, a aquel sobre quien recae la promesa.
+#### Destrozaste la cabeza de la casa del impío
 
-#### No se define aquí su identidad concreta, porque el énfasis está en la **relación con Dios**: pertenece a Dios y por eso es protegido. La salvación tiene rostro **pactual**.
+##### El lenguaje se vuelve directo y contundente. La “cabeza” representa: Autoridad, liderazgo, fuente de poder.
 
-### Habacuc 3:13d “*Traspasaste la cabeza de la casa del impío*”
+##### La “*casa del impío*” no es solo una persona, sino **un sistema organizado de maldad**. 
 
-#### El lenguaje se vuelve directo y contundente. La “cabeza” representa: autoridad, liderazgo, fuente de poder.
+##### Traspasar la cabeza significa: Derrota decisiva, colapso del mando, fin del control injusto. El juicio no es superficial; va al **centro del poder**.
 
-#### La “*casa del impío*” no es solo una persona, sino **un sistema organizado de maldad**. 
+#### Descubriéndolo de arriba abajo
 
-#### Traspasar la cabeza significa: derrota decisiva, colapso del mando, fin del control injusto. El juicio no es superficial; va al **centro del poder**.
+##### Aquí se describe **desmantelamiento total**. No solo se derriba lo visible. Se expone lo oculto. Descubrir el cimiento implica: Revelar lo que sostenía la casa, mostrar su fragilidad, dejarla sin posibilidad de reconstrucción. La casa del impío no cae por accidente; es **desnudada hasta su base**.
 
-### Habacuc 3:13e “*descubriendo el cimiento hasta la roca*”
+#### Selah
 
-#### Aquí se describe **desmantelamiento total**. No solo se derriba lo visible. Se expone lo oculto. Descubrir el cimiento implica: revelar lo que sostenía la casa, mostrar su fragilidad, dejarla sin posibilidad de reconstrucción. La casa del impío no cae por accidente; es **desnudada hasta su base**.
+##### La pausa vuelve a aparecer, pero ahora con mayor peso.
 
-### Habacuc 3:13f “*Selah*”
+##### Después de salvación declarada, juicio ejecutado, poder central destruido, el lector es llamado a **detenerse y considerar**. La fe no corre. La fe **contempla**.
 
-#### La pausa vuelve a aparecer, pero ahora con mayor peso.
+- Habacuc 3:13 establece este principio central: El juicio de Dios está subordinado a Su propósito salvador. Dios no juzga porque perdió paciencia, sino porque **protege lo que le pertenece** y esto en base a los tiempos que Él señala y Su Palabra.
+- La salvación y el juicio no son fuerzas opuestas, sino acciones coordinadas. El justo vive por fe porque: la salvación no siempre es visible al inicio, el juicio no siempre es inmediato, pero el propósito de Dios **es firme**, Él es la Roca.
+- La vida no viene de las circunstancias o confianza que Dios solucione lo que pensamos humanamente. La vida viene de la confianza puesta en el que Salva, el que actua, el que se relaciona como quien es, el Señor (Jehová).
+- Habacuc ahora ve que: La fe se trata de confiar en un Dios que sale para salvar aun cuando el camino incluye juicio.
+- Este versículo: Revela el motivo último de la manifestación de Dios, justifica la ira y el furor previos ya que no son contrarios a quien es Él, es más centra toda la acción de Dios en **redención**. Todo lo anterior converge aquí.
 
-#### Después de salvación declarada, juicio ejecutado, poder central destruido, el lector es llamado a **detenerse y considerar**. La fe no corre.  La fe **contempla**.
+### Habacuc 3:14
 
-#### Habacuc 3:13 establece este principio central: El juicio de Dios está subordinado a Su propósito salvador. Dios no juzga porque perdió paciencia, sino porque **protege lo que le pertenece**.
+Traspasaste con sus propios dardos La cabeza de sus guerreros Que irrumpieron para dispersarnos; Su regocijo fue como el de los que devoran en secreto a los oprimidos.
 
-#### La salvación y el juicio no son fuerzas opuestas, sino acciones coordinadas. El justo vive por fe porque: la salvación no siempre es visible al inicio, el juicio no siempre es inmediato, pero el propósito de Dios es firme.
+#### Traspasaste con sus propios dardos
 
-#### Habacuc ahora ve que: la fe confía en un Dios que sale para salvar aun cuando el camino incluye juicio.
+##### El juicio adopta una forma **irónica y reveladora**. Dios no introduce un arma externa. Utiliza **las mismas armas del impío**.
 
-#### Este versículo: revela el motivo último de la teofanía, justifica la ira y el furor previos, centra toda la acción divina en **redención**. Todo lo anterior converge aquí.
+##### Esto indica: Reversión del mal, autodestrucción del sistema injusto, justicia que vuelve sobre sí misma. El mal cae **por lo que produce**.
 
-Habacuc 3:14 
-"*Traspasaste con sus propios dardos las cabezas de sus guerreros, que como tempestad acometían para dispersarme, cuyo regocijo era como para devorar al pobre en secreto.*"
+#### La cabeza de sus guerreros
 
-### Habacuc 3:14a “*Traspasaste con sus propios dardos*"
+##### El blanco del juicio es estratégico. La “cabeza” representan: Liderazgo, dirección, mando militar. Dios no ataca solo a soldados anónimos; desmantela **la estructura de poder**.
 
-#### El juicio adopta una forma **irónica y reveladora**. Dios no introduce un arma externa. Utiliza **las mismas armas del enemigo**.
+##### La derrota es organizada, definitiva, irreparable.
 
-#### Esto indica: reversión del mal, autodestrucción del sistema injusto, justicia que vuelve sobre sí misma. El mal cae **por lo que produce**.
+#### Que irrumpieron
 
-### Habacuc 3:14b “*las cabezas de sus guerreros*"
+##### La imagen describe la percepción humana del enemigo.
 
-#### El blanco del juicio es estratégico. Las “cabezas” representan: liderazgo, dirección, mando militar. Dios no ataca solo a soldados anónimos; desmantela **la estructura de poder**.
+##### "Irrumpir" indica: Avance rápido, imparable, genera terror.
 
-#### La derrota es organizada, definitiva, irreparable.
+##### Habacuc había visto así a Babilonia: Violenta, dominante, arrolladora. 
 
-### Habacuc 3:14c “*que como tempestad acometían*"
+##### Pero ahora se revela: Lo que parecía imparable sería **vulnerable ante Dios**.
 
-#### La imagen describe la percepción humana del enemigo.
+#### para dispersarnos
 
-#### Una tempestad: avanza rápido, parece imparable, genera terror.
+##### Aquí Habacuc vuelve a aparecer personalmente. No es análisis distante. Es **experiencia vivida**.
 
-#### Habacuc había visto así a Babilonia: violenta, dominante, arrolladora. Pero ahora se revela: lo que parecía imparable era **vulnerable ante Dios**.
+##### El ataque no sería abstracto: Sería contra el profeta, contra el pueblo, contra los indefensos. Dios no ignora el impacto personal del mal.
 
-### Habacuc 3:14d “*para dispersarme*”
+#### Su regocijo fue como el de los que devoran en secreto a los oprimidos
 
-#### Aquí Habacuc vuelve a aparecer personalmente. No es análisis distante. Es **experiencia vivida**.
+##### Este detalle es crucial. El enemigo: No solo oprimiría, **se regocijaría** en hacerlo. El mal no es solo acción; es **deleite perverso**. No solo se trata de lo que hace, sino por medio de que lo hace.
 
-#### El ataque no era abstracto: era contra el profeta, contra el pueblo, contra los indefensos. Dios no ignora el impacto personal del mal.
+##### “En secreto” indica: Hipocresía, impunidad aparente, ausencia de rendición de cuentas. Dios ve lo que se celebra en oculto.
 
-### Habacuc 3:14e “*cuyo regocijo era como para devorar al pobre en secreto*"
-
-#### Este detalle es crucial. El enemigo: no solo oprime, **se regocija** en hacerlo. El mal no es solo acción; es **deleite perverso**.
-
-#### “En secreto” indica: hipocresía, impunidad aparente, ausencia de rendición de cuentas. Dios ve lo que se celebra en oculto.
-
-#### Habacuc 3:14 establece este principio: La injusticia contiene en sí misma las semillas de su propia destrucción cuando Dios interviene. El juicio no siempre introduce algo nuevo;  a veces **retira la contención**.
-#### Habacuc se quejaba de: violencia contra el justo, opresión del pobre, mal celebrándose sin freno. Aquí se ve que Dios no solo ve la injusticia, sino también **el placer que se toma en ella**. Nada queda oculto.
-
-##### Este versículo: muestra la derrota del enemigo desde dentro, conecta la violencia pasada con su consecuencia, prepara el cierre del juicio y la afirmación final de dominio (3:15). La tempestad se vuelve contra sí misma.
+- Habacuc 3:14 establece este principio: La injusticia contiene en sí misma las semillas de su propia destrucción cuando Dios interviene. El juicio no siempre introduce algo nuevo;  a veces **retira lo que detenía la autodestrucción**.
+- Habacuc se quejaba de: Violencia contra el justo, opresión del pobre, mal celebrándose sin freno. Aquí se ve que Dios no solo ve la injusticia, sino también **el origen y el placer que se toma en ella**. Nada queda oculto delante de Él.
+- Este versículo: Muestra la derrota del enemigo desde dentro, conecta la violencia pasada con su consecuencia, prepara el cierre del juicio y la afirmación final de dominio (3:15). La tempestad se vuelve contra sí misma.
 
 Habacuc 3:15 
 "*Caminaste por el mar con tus caballos, por el montón de grandes aguas.*"
