@@ -169,3 +169,225 @@ palabra - GRIEGO TRANSLITERADO
 - todo lo que la IA indica debe ser confirmado
 - la IA es inestable (un día dice una cosa, otro día dice otra cosa)
 - la IA sabe dar definiciones al griego/hebreo. Vienen de fuentes externas. No deben ser confiadas pero sirve usando con referencia (pie de página por ejemplo). 
+
+----
+
+## Filosofía del Uso de H1 (Encabezado Principal)
+
+El uso de H1 en este manual no responde a categorías teológicas, esquemas tradicionales ni divisiones sistemáticas.
+
+H1 debe reflejar **movimientos visibles en el desarrollo del argumento**, no temas doctrinales ni palabras clave.
+
+### Principios Rectores
+
+1. **Movimiento argumentativo primero**
+   H1 marca un cambio claro en lo que el autor está haciendo (defender, explicar, probar, ilustrar, exhortar), no simplemente un cambio en vocabulario.
+2. **Debe ser evidente sin análisis técnico**
+   El cambio que justifica un H1 debe poder percibirse al leer el texto cuidadosamente, sin necesidad de análisis léxico ni herramientas especializadas.
+3. **No segmentación por palabras clave**
+   La repetición de términos no determina divisiones mayores. El manual evita fragmentar el texto en bloques temáticos basados en vocabulario.
+4. **Respeto por el flujo del autor**
+   H1 existe para ayudar a ver el desarrollo del argumento completo y evitar perder el bosque por los árboles. No debe interrumpir la continuidad del pensamiento.
+5. **Rareza y peso**
+   H1 debe utilizarse con moderación. Solo cuando el autor cambia claramente de estrategia o función argumentativa.
+6. **Autoridad textual**
+   El encabezado no determina el significado del pasaje. Solo señala el movimiento del discurso ya presente en el texto.
+
+### Jerarquía Estructural
+
+- H1 → Cambio mayor en el movimiento del argumento.
+- H2 → Desarrollo interno dentro del mismo movimiento.
+- H3 → Referencia de versículo.
+- H4–H5 → Observación y explicación.
+
+El propósito de H1 es ayudar al lector a reconstruir el progreso del argumento del libro completo sin imponer categorías externas.
+
+
+
+## Filosofía del Uso de H2
+
+H2 describe cómo se desarrolla el movimiento identificado en H1.
+
+Mientras H1 identifica qué está ocurriendo en el argumento,
+ H2 muestra cómo ese movimiento progresa internamente:
+
+- cómo se introduce
+- cómo se sostiene
+- cómo se demuestra
+- cómo se aclara
+- cómo se aplica
+
+H2 preserva la coherencia del razonamiento dentro del mismo movimiento sin fragmentar el texto ni imponer categorías externas.
+
+## Surgimiento de H2 desde el Texto
+
+H2 no se impone sobre el texto.
+ Debe surgir de señales observables en el desarrollo del argumento, tales como cambios en el modo discursivo, marcadores retóricos, intensificaciones o nuevas líneas de razonamiento.
+
+Antes de introducir un H2, se debe poder señalar el elemento textual que justifica su existencia.
+
+Si no puede señalarse una base textual clara, el H2 debe reconsiderarse.
+
+------
+
+# MUY IMPORTANTE: FILOSOFIA DE ESTRUCTURA
+
+## Coherencia Estructural y Verificación Interna
+
+La estructura del manual funciona de manera jerárquica y verificable.
+
+- H1 propone el movimiento argumentativo mayor.
+- H2 traza el desarrollo interno de ese movimiento.
+- H3 ancla cada observación en el texto bíblico mismo.
+
+Estos niveles deben estar en coherencia.
+
+Si el desarrollo interno (H2) no fluye naturalmente dentro del movimiento propuesto (H1), entonces el H1 debe reconsiderarse.
+ Si los versículos (H3) no respaldan claramente el desarrollo señalado en H2, entonces el H2 debe ajustarse.
+
+La estructura no existe para imponer una lectura, sino para comprobarla.
+ Si los niveles no armonizan, la estructura está equivocada, no el texto.
+
+## Flexibilidad y Criterio Editorial
+
+Aunque la estructura H1–H2–H3 busca coherencia y verificación interna, su aplicación requiere criterio.
+
+No se trata de aplicar un esquema rígido, sino de servir al texto con claridad y sensibilidad.
+ La estructura guía el análisis, pero no sustituye la lectura atenta ni la percepción del flujo argumentativo.
+
+Se reconoce que existe un margen legítimo de juicio editorial.
+ Cuando el texto lo exige, puede haber ajustes razonables que no rompan la coherencia general.
+
+La meta no es producir un sistema perfecto, sino una lectura fiel, clara y responsable.
+
+
+
+# La Estructura Real
+
+• H1 propone el movimiento macro.
+• H2 traza el desarrollo interno.
+• H3 ancla todo al texto.
+Si:
+• H2 no puede desarrollarse naturalmente bajo H1 → Es probable que H1 sea demasiado amplio o esté mal definido.
+• H3 (los versículos reales) no respaldan claramente a H2 → H2 es forzado.
+• H3 contradice el movimiento propuesto por H1 → Es necesario reconsiderar H1.
+Así, el sistema se corrige a sí mismo desde abajo.
+
+
+
+
+
+
+
+# Proceso de Trabajo y Verificación
+
+El trabajo comienza con una hipótesis estructural:
+
+- H1 propone un posible movimiento argumentativo.
+- H2 desarrolla internamente ese movimiento.
+- H3 expone el texto bíblico en detalle.
+
+Sin embargo, la validación ocurre en sentido inverso.
+
+El texto (H3) debe confirmar el desarrollo propuesto (H2).
+ Y el desarrollo interno (H2) debe sostener el movimiento mayor (H1).
+
+Si el texto no respalda el desarrollo planteado, el H2 debe revisarse.
+ Si el desarrollo no sostiene el movimiento mayor, el H1 debe reconsiderarse.
+
+H1 no es una conclusión definitiva, sino una hipótesis que debe ser comprobada por el texto.
+
+
+
+## Naturaleza Provisional de la Estructura
+
+La Escritura no cambia.
+ Nuestra comprensión sí puede y debe ajustarse.
+
+Por ello, los encabezados estructurales (H1 y H2) no son afirmaciones definitivas, sino propuestas de lectura que deben ser comprobadas por el texto mismo.
+
+El texto bíblico (H3) tiene la autoridad final.
+ Si la estructura no armoniza con el desarrollo real del pasaje, la estructura debe revisarse.
+
+La teología se deriva de la Escritura; no la determina.
+ De la misma manera, la estructura sirve al texto; no lo gobierna.
+
+
+
+## Limitaciones del Método
+
+La estructura propuesta es una herramienta de trabajo.
+ Como toda herramienta humana, es limitada.
+
+Su propósito es reducir la arbitrariedad y proteger la coherencia, no garantizar infalibilidad.
+
+La lectura fiel depende finalmente de una atención honesta al texto mismo.
+ Si en algún punto la estructura comienza a forzar el pasaje en lugar de servirlo, debe reconsiderarse.
+
+El sistema existe para ayudar, no para sustituir la responsabilidad interpretativa.
+
+
+
+
+
+
+
+# Metodología Estructural del Manual
+
+Este manual utiliza una estructura jerárquica con el propósito de preservar el flujo argumentativo del texto bíblico sin imponer categorías externas.
+
+La estructura no determina el significado; lo sirve.
+
+------
+
+## 1. Movimiento Mayor (H1)
+
+H1 identifica el movimiento argumentativo principal del autor.
+ No introduce categorías doctrinales externas ni resume el texto en eslóganes teológicos.
+
+Es una propuesta de lectura basada en lo que el autor está haciendo en el desarrollo del argumento.
+
+------
+
+## 2. Desarrollo Interno (H2)
+
+H2 muestra cómo ese movimiento se desarrolla internamente.
+ No fragmenta el texto por palabras clave ni multiplica divisiones innecesarias.
+
+Su función es preservar la coherencia del razonamiento dentro del mismo movimiento y evitar lecturas aisladas verso por verso.
+
+------
+
+## 3. Anclaje Textual (H3)
+
+H3 presenta el texto bíblico mismo.
+ El texto tiene la autoridad final.
+
+------
+
+## 4. Proceso y Verificación
+
+El trabajo comienza con una hipótesis estructural:
+
+H1 → propone el movimiento
+ H2 → desarrolla internamente ese movimiento
+ H3 → expone el texto
+
+Pero la validación ocurre en sentido inverso:
+
+H3 debe confirmar el desarrollo propuesto en H2.
+ H2 debe sostener coherentemente el movimiento planteado en H1.
+
+Si el texto no respalda la estructura, la estructura debe revisarse.
+
+------
+
+## 5. Naturaleza Provisional
+
+La Escritura no cambia.
+ Nuestra comprensión sí puede ajustarse.
+
+Por ello, la estructura es una herramienta de trabajo, no una autoridad.
+ Existe para reducir arbitrariedad y proteger coherencia, no para garantizar perfección.
+
+Cuando la estructura comienza a forzar el texto en lugar de servirlo, debe reconsiderarse.

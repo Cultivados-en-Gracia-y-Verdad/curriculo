@@ -2,50 +2,33 @@
 title:  "Gálatas"
 subtitle:  "Llamados para Libertad"
 author:  "CGV"
-version:  "0.8"
+version:  "0.9"
 date:  "2026-01-23"
 ---
 
-# Gálatas - Llamados para Libertad
-
+:::title
+Gálatas
+:::
+:::subtitle
+Llamados para Libertad
+:::
 # Tabla de Contenidos
 
-I. Introducción y Contexto
-- Autor
-- Destinatarios
-- Contexto histórico
-- Contexto cultural
-- Situación que motiva la carta
-- Tema general
-II. Autoridad del Mensaje (Gálatas 1–2)
-- Pablo, no de hombres
-- Evangelio recibido por revelación
-- Conflicto con judaísmo
-- Pedro en Antioquía
-- Justificación por fe (2:16–21)
-III. Promesa vs Ley (Gálatas 3)
-- Abraham como modelo
-- Ley añadida por transgresiones
-- Ley temporal
-- Mediador vs promesa
-- Herencia depende de Dios
-IV. Esclavitud vs Adopción (Gálatas 4)
-- Heredero menor de edad
-- Rudimentos del mundo
-- Redención
-- Adopción
-- Conocer vs ser conocido
-- Volver a esclavitud
-V. Libertad y Vida en el Espíritu (Gálatas 5)
-- Libertad en Cristo
-- No volver a ley
-- Obras de la carne
-- Fruto del Espíritu
-- Contra tales cosas no hay ley
-VI. Implicaciones Prácticas (Gálatas 6)
-- Restauración
-- Sembrar y cosechar
-- Gloriarse en la cruz
+Introducción
+
+Gálatas 1:1–10 Pablo confronta la distorsión del evangelio
+
+Gálatas 1:11–2:21 Pablo defiende el evangelio que anunció
+
+Gálatas 3:1–4:7 Pablo argumenta para mostrar que la promesa precede y supera a la ley
+
+Gálatas 4:8–31 Pablo advierte contra el regreso a la esclavitud
+
+Gálatas 5:1–12 Pablo declara con urgencia las consecuencias de someterse a la ley
+
+Gálatas 5:13–26 Pablo contrasta la carne y el Espíritu como principio de vida
+
+Gálatas 6:1–18 Pablo aplica la libertad a la vida comunitaria y la centra en la cruz
 
 # Introducción al libro de Gálatas 
 
@@ -151,13 +134,13 @@ Esto ocurre en una <u>etapa</u> temprana del cristianismo, cuando aún se estaba
 
 ## Tema de la carta
 
-### Los hermanos de Galacia estaban siendo engañados respecto a la verdad del Evangelio de Cristo. Esto los <u>estaba</u> llevando a una perspectiva engañosa y vida esclavizante. Pablo los guiara nuevamente, a la verdad, a Cristo crucificado, mostrándoles que la verdadera libertad solo proviene de Cristo.
+Los hermanos de Galacia estaban siendo engañados respecto a la verdad del Evangelio de Cristo. Esto los <u>estaba</u> llevando a una perspectiva engañosa y vida esclavizante. Pablo los guiara nuevamente, a la verdad, a Cristo crucificado, mostrándoles que la verdadera libertad solo proviene de Cristo.
 
-### Titulo del <u>libro</u>: Llamados para libertad
+Titulo del <u>libro</u>: Llamados para libertad
 
-# Gálatas 1:1-5 - Mensaje y obra de Dios
+# Gálatas 1:1-10 - Pablo confronta la distorsión del evangelio
 
-## Gálatas 1:1-2 - Apóstol, no de hombres
+## Gálatas 1:1-5 - El fundamento apostólico y el mensaje que proviene de Dios
 
 ### Gálatas 1:1
 Pablo, apóstol, no de parte de hombres ni mediante hombre alguno, sino por medio de Jesucristo y de Dios el Padre que lo resucitó de entre los muertos,
@@ -188,13 +171,13 @@ apóstol - APÓSTOLOS
 #### ...Dios el Padre que lo resucitó de entre los muertos
 ##### Pablo aclara que Aquel que había encomendado a Pablo a como apóstol, es el mismo que en un punto de la historia <u>levanto</u> de entre los muertos a Jesucristo. Hechos 3:15; Romanos 4:24
 
-#### La resurrección de Jesucristo no fue posible por <u>medio</u> de intervención o poder de alguna carne, de algún ser humano.
+##### La resurrección de Jesucristo no fue posible por <u>medio</u> de intervención o poder de alguna carne, de algún ser humano.
 
-#### Solo Dios el Padre, Su poder, fue el que <u>obro</u> en Jesucristo cuando lo resucito de entre los muertos. Efesios 1:20
+##### Solo Dios el Padre, Su poder, fue el que <u>obro</u> en Jesucristo cuando lo resucito de entre los muertos. Efesios 1:20
 
-### Es de notar la <u>manera</u> en la cual Pablo comienza esta epístola, es diferente a las presentaciones que se ven en otra epístolas que escribiría mas adelante. Romanos 1:1; 1 Corintios 1:1; 2 Corintios 1:1; Efesios 1:1; Filipenses 1:1; Colosenses 1:1
+##### Es de notar la <u>manera</u> en la cual Pablo comienza esta epístola, es diferente a las presentaciones que se ven en otra epístolas que escribiría mas adelante. Romanos 1:1; 1 Corintios 1:1; 2 Corintios 1:1; Efesios 1:1; Filipenses 1:1; Colosenses 1:1
 
-### Pablo quiere dejar claro desde el <u>inicio</u> a sus lectores, que Dios mismo era por medio de quien él era apóstol, no por medio de hombres. El rol que Pablo cumplía, el mensaje que anunciaba había sido dado por Dios Padre y Su Hijo Jesucristo.
+##### Pablo quiere dejar claro desde el <u>inicio</u> a sus lectores, que Dios mismo era por medio de quien él era apóstol, no por medio de hombres. El rol que Pablo cumplía, el mensaje que anunciaba había sido dado por Dios Padre y Su Hijo Jesucristo.
 
 ### Gálatas 1:2
 y todos los hermanos que están conmigo: A las iglesias de Galacia:
@@ -203,9 +186,7 @@ y todos los hermanos que están conmigo: A las iglesias de Galacia:
 ##### El mensaje que se encuentra en esta epístola fue escrita por el apóstol de Dios, Pablo y en <u>apoyo</u> de los hermanos que estaban junto a él. Pablo no era el único que estaba de acuerdo con el contenido de esta carta, la cual veremos en todo este estudio.
 
 #### A las iglesias de Galacia:...
-#### Esta epístola no esta dirigida a una sola persona o a una sola iglesia local. Esta epístola fue escrita a todos los hermanos de <u>todas</u> las iglesias de la región de Galacia (Galacia del Sur). De ahí el nombre de esta epístola, Gálatas.
-
-## Gálatas 1:3 - Deseos de Pablo para las iglesias de Galacia
+##### Esta epístola no esta dirigida a una sola persona o a una sola iglesia local. Esta epístola fue escrita a todos los hermanos de <u>todas</u> las iglesias de la región de Galacia (Galacia del Sur). De ahí el nombre de esta epístola, Gálatas.
 
 ### Gálatas 1:3
 Gracia y paz a ustedes de parte de Dios nuestro Padre y del Señor Jesucristo,
@@ -226,73 +207,69 @@ Paz (EIRENE)
 
 ##### Pablo sabía que la gracia y la paz que estos creyentes podrían disfrutar en sus vidas solo podrían <u>venir</u> de su Dios Padre y de Jesucristo, su Señor. Esto es lo que el apóstol Pablo deseaba para ellos y para cualquier creyente en Jesucristo.
 
-## Gálatas 1:4-5 - La obra de Cristo conforme a la voluntad del Padre
-
 ### Gálatas 1:4 
 que Él mismo se dio por nuestros pecados para librarnos de este presente siglo malo, conforme a la voluntad de nuestro Dios y Padre,
 
-#### que Él [Jesucristo] mismo se dio por nuestros pecados...* 
-#### Ahora Pablo les recordará a los hermanos la obra que Jesucristo el Señor había hecho y el <u>propósito</u> de aquella.
+#### que Él [Jesucristo] mismo se dio por nuestros pecados...
+##### Ahora Pablo les recordará a los hermanos la obra que Jesucristo el Señor había hecho y el <u>propósito</u> de aquella.
 
-#### En un punto de la historia, fue Jesucristo, el Señor, quien voluntariamente se entrego para <u>morir</u> en la cruz, Él no fue obligado ni lo hiso de mala gana. Este acto fue en completo amor de Dios hacia la humanidad. Juan 3:16, 10:11; Efesios 5:2
+##### En un punto de la historia, fue Jesucristo, el Señor, quien voluntariamente se entrego para <u>morir</u> en la cruz, Él no fue obligado ni lo hiso de mala gana. Este acto fue en completo amor de Dios hacia la humanidad. Juan 3:16, 10:11; Efesios 5:2
 
-#### El que se dio así mismo y <u>murió</u> una sola vez para siempre fue Jesucristo, y esta gran obra suya fue por los pecados. 1 Pedro 3:18
+##### El que se dio así mismo y <u>murió</u> una sola vez para siempre fue Jesucristo, y esta gran obra suya fue por los pecados. 1 Pedro 3:18
 
-#### *...por nuestros pecados...* 
-#### Jesucristo es el que pago de la deuda por los pecados, y Pablo es claro al mostrar que Él murió tanto por los pecados de los hermanos gálatas como los <u>suyos</u> (los de Pablo). Mateo 20:28; 1 Timoteo 2:6; 1 Juan 2:2
+#### ...por nuestros pecados...
+##### Jesucristo es el que pago de la deuda por los pecados, y Pablo es claro al mostrar que Él murió tanto por los pecados de los hermanos gálatas como los <u>suyos</u> (los de Pablo). Mateo 20:28; 1 Timoteo 2:6; 1 Juan 2:2
 
-### ...para librarnos de este presente siglo malo,...* 
-#### La razón por la que Jesucristo <u>murió</u> por los pecados de Pablo y los gálatas fue para librarlos. ¿Librarlos de qué?
+#### ...para librarnos de este presente siglo malo,... 
+##### La razón por la que Jesucristo <u>murió</u> por los pecados de Pablo y los gálatas fue para librarlos. ¿Librarlos de qué?
 
-#### *este presente siglo malo* que Pablo menciona hace referencia tanto al mundo (las personas incrédulas) y su corriente de <u>maldad</u> a la cual las personas están esclavizadas. También hace referencia a Satanás y sus demonios que dominan esa corriente de maldad que es real en el presente. Juan 12:31; 2 Corintios 4:4; Efesios 2:2, 6:12
+##### *este presente siglo malo* que Pablo menciona hace referencia tanto al mundo (las personas incrédulas) y su corriente de <u>maldad</u> a la cual las personas están esclavizadas. También hace referencia a Satanás y sus demonios que dominan esa corriente de maldad que es real en el presente. Juan 12:31; 2 Corintios 4:4; Efesios 2:2, 6:12
 #### Estos hermanos gálatas debían tener claro que ellos ya habían sido hechos libres de la esclavitud de este presente <u>siglo</u> malvado y que eso fue posible únicamente por la obra del Señor Jesucristo en la Cruz por sus pecados. 1 Juan 5:19
 
-### ...conforme a la voluntad de nuestro Dios y Padre* 
-#### Esta gran obra de nuestro Señor Jesucristo y su propósito lleno de gracia para Pablo y los creyentes gálatas fue en <u>base</u> a la buena voluntad de su Dios y Padre.
+#### ...conforme a la voluntad de nuestro Dios y Padre 
+##### Esta gran obra de nuestro Señor Jesucristo y su propósito lleno de gracia para Pablo y los creyentes gálatas fue en <u>base</u> a la buena voluntad de su Dios y Padre.
 
-#### El pago de los pecados y la liberación de este mundo malvado no fue por pensamiento o poder humano. Esto solo fue posible por la iniciativa y deseo que vino del Padre lleno de amor que <u>tenían</u>, y esto lo hizo posible solo en la persona de Jesucristo. Romanos 8:32; Hebreos 10:4-10
+##### El pago de los pecados y la liberación de este mundo malvado no fue por pensamiento o poder humano. Esto solo fue posible por la iniciativa y deseo que vino del Padre lleno de amor que <u>tenían</u>, y esto lo hizo posible solo en la persona de Jesucristo. Romanos 8:32; Hebreos 10:4-10
 
 #### ¿Cómo reaccionar <u>ante</u> tal manifestación del amor de nuestro Padre?
 
 ### Gálatas 1:5 
 a quien sea la gloria por los siglos de los siglos. Amén.
 
-### a quien sea la gloria por los siglos de los siglos. Amén.* 
-#### Pablo termina con una alabanza para Dios el Padre, esta alabanza nace por medio de conocer Su gran y <u>perfecta</u> voluntad hecha en Su Hijo Jesucristo. Solo Dios merece gloria, y desde siempre y para siempre, amén.
+#### a quien sea la gloria por los siglos de los siglos. Amén.
+##### Pablo termina con una alabanza para Dios el Padre, esta alabanza nace por medio de conocer Su gran y <u>perfecta</u> voluntad hecha en Su Hijo Jesucristo. Solo Dios merece gloria, y desde siempre y para siempre, amén.
 
-### Es de notar los <u>primeros</u> versículos de esta epístola:
+##### Es de notar los <u>primeros</u> versículos de esta epístola:
 
-#### Pablo quiere dejar muy en claro a estos hermanos que el no es un apóstol (enviado) de hombres, sino de <u>Dios</u> y Jesucristo mismo.
+##### Pablo quiere dejar muy en claro a estos hermanos que el no es un apóstol (enviado) de hombres, sino de <u>Dios</u> y Jesucristo mismo.
 
-#### Él les menciona la muerte y resurrección de Jesucristo, Su persona y Su obra, el evangelio (1 Corintios 15:3-4). Y toda persona pecadora que llega a escuchar el evangelio y creerlo, <u>entonces</u> tiene vida eterna por medio de Jesucristo. Juan 3:16, Efesios 1:13-14
+##### Él les menciona la muerte y resurrección de Jesucristo, Su persona y Su obra, el evangelio (1 Corintios 15:3-4). Y toda persona pecadora que llega a escuchar el evangelio y creerlo, <u>entonces</u> tiene vida eterna por medio de Jesucristo. Juan 3:16, Efesios 1:13-14
 
-#### Pablo les recuerda el evangelio, el mensaje que anuncia la obra de Jesucristo, y que esta obra fue por medio del <u>poder</u> y voluntad de Dios el Padre.
+##### Pablo les recuerda el evangelio, el mensaje que anuncia la obra de Jesucristo, y que esta obra fue por medio del <u>poder</u> y voluntad de Dios el Padre.
 
-#### Este es el mensaje que Pablo estaba encargado de anunciar, y es el mensaje que estos hermanos ya <u>habían</u> escuchado de él como veremos mas adelante.
+##### Este es el mensaje que Pablo estaba encargado de anunciar, y es el mensaje que estos hermanos ya <u>habían</u> escuchado de él como veremos mas adelante.
 
-# Gálatas 1:6-10 - El Evangelio de Cristo
+## Gálatas 1:6-7 - La desviación del evangelio en las iglesias
 
-## Gálatas 1:6-9 - Abandonando a Aquel que los llamó
-
-### Gálatas 1:6  
+### Gálatas 1:6
 Me maravillo de que tan pronto ustedes hayan abandonado a Aquel que los llamó por la gracia de Cristo, para seguir un evangelio diferente,
 
-#### Me maravillo...* 
+#### Me maravillo...
 ##### La palabra maravillar refleja asombro o admiración. El apóstol Pablo estaba asombrado, pero era en <u>respuesta</u> a una realidad negativa de los hermanos gálatas. ¿Qué es lo que ellos habían hecho?
 
-#### ...de que tan pronto ustedes hayan abandonado a Aquel...* 
+#### ...de que tan pronto ustedes hayan abandonado a Aquel...
 ##### Pablo estaba sorprendido de lo rápido que ellos habían abandonado al Padre. Tan solo dos años aproximadamente de que <u>Pablo</u> les había conocido y anunciado el evangelio en Galacia
 
 ##### La palabra abandonado es un verbo que se encuentra en voz media y tiempo presente, también <u>puede</u> ser traducido como desviarse, apartarse. Esto significa que ellos mismos estaban apartándose del Padre.
 
-#### ...Aquel que los llamó por la gracia de Cristo...* 
+#### ...Aquel que los llamó por la gracia de Cristo...
 ##### Por las escrituras encontramos que toda persona que cree en el evangelio llega a ser un llamado de Dios, alguien que <u>responde</u> al llamado del evangelio. 1 Corintios 1:24; 2 Tesalonicenses 2:14; 2 Timoteo 1:9
 
 ##### La salvación que Dios provee para cada persona en este mundo es por medio de Su Gracia, es de <u>manera</u> inmerecida. Cristo murió por todos los pecados, satisfizo la ira de Dios y toda persona puede llegar a ser salva (llamada) únicamente por medio de la gracia encontrada en Cristo. Hechos 15:11; Romanos 5:2
 
 ##### Los creyentes gálatas estaban apartándose del que los había llamado. Pero ¿Cómo lo había llamado? Pablo les <u>recuerda</u> que la razón por la que ellos habían sido llamados fue por la gracia de Cristo y por ningún otro medio más.
 
-#### ...para seguir un evangelio diferente,* 
+#### ...para seguir un evangelio diferente,
 ##### Ellos se <u>estaban</u> apartando de Dios hacia otro evangelio diferente.
 
 diferente (JETEROS) 
@@ -308,7 +285,7 @@ diferente (JETEROS)
 
 ##### Lo que vemos hasta el momento es que una iglesia la cual va por un evangelio contrario al que Dios manifiesta en Su Palabra, es una <u>iglesia</u> la cual se esta apartando de Dios.
 
-### Gálatas 1:7  
+### Gálatas 1:7
 que en realidad no es otro evangelio, sino que hay algunos que los perturban a ustedes y quieren pervertir el evangelio de Cristo.
 
 #### que en realidad no es otro evangelio...* 
@@ -320,32 +297,35 @@ que en realidad no es otro evangelio, sino que hay algunos que los perturban a u
 
 ##### ¿Porqué estaba pasando esto <u>entre</u> los hermanos?
 
-#### ...sino que hay algunos que los perturban a ustedes...* 
+#### ...sino que hay algunos que los perturban a ustedes...
 
 Perturbar (TARÁSSO)
 : Significa espantar, asustar, agitar. Lo que estaba pasando entre los hermanos era que habían personas que les estaban perturbando, esta palabra no solo enfatiza un miedo interno, sino también intranquilidad, confusión y dificultad en el diario vivir. 
 
-#### ...y quieren pervertir el evangelio de Cristo.* 
+#### ...y quieren pervertir el evangelio de Cristo.
 ##### Estos personajes no solo <u>estaban</u> perturbando a los hermanos en Galacia sino que ellos también deseaban cambiar totalmente el evangelio.
 
 ##### Estas personas no estaban <u>tratando</u> de pervertir cualquier mensaje, el evangelio no trata de algún hombre en común, o alguna hazaña de un hombre.
 
 ##### Pablo aclara que el evangelio, la buena <u>noticia</u> era del Dios-Hombre, Cristo. 1 Timoteo 2:5
 
-### Gálatas 1:8  
+## Gálatas 1:8-10 - La advertencia contra alterar el mensaje anunciado
+
+### Gálatas 1:8 
 Pero si aun nosotros, o un ángel del cielo, les anunciara otro evangelio contrario al que les hemos anunciado, sea anatema.
 
-#### Pero si aun nosotros, o un ángel del cielo, les anunciara otro evangelio contrario al que les hemos anunciado, sea anatema.* 
+#### Pero si aun nosotros, o un ángel del cielo, les anunciara otro evangelio contrario al que les hemos anunciado, sea anatema.
 ##### En respuesta a los que deseaban <u>cambiar</u> el evangelio entre los hermanos gálatas, Pablo dará algunas declaraciones.
 
-#### *...si aún nosotros...*  
+#### ...si aún nosotros...
 ##### Pablo se incluye así <u>mismo</u> y también a los que lo acompañaban.
-#### *...o un ángel del cielo...*  
+
+#### ...o un ángel del cielo...
 ##### Las palabras del <u>cielo</u> indican a un ser celestial, un ángel también entra en esta declaración.
 
 ##### Si Pablo o un ángel llegaban a anunciar un evangelio diferente al que Pablo mismo había anunciado a los <u>hermanos</u> gálatas, entonces apóstol tiene una conclusión para ellos:
 
-#### *...sea anatema.* 
+#### ...sea anatema.
 ##### Anatema en los inicios de la Escritura era usada para algo dedicado a Dios, ya sea para <u>sacrificio</u> (Levítico 27:28) o incluso para destrucción, algo que estaba en desfavor delante de Dios (Deuteronomio 7:26; Josué 6:17; Zacarías 14:11). 
 
 ##### En el Nuevo Testamento esta palabra <u>generalmente</u> es usada en un sentido negativo (Romanos 9:3; 1 Corintios 12:3, 16:22).
@@ -358,7 +338,7 @@ Como hemos dicho antes, también repito ahora: Si alguien les anuncia un evangel
 #### Como hemos dicho antes, también repito ahora: Si alguien les anuncia un evangelio contrario al que recibieron, sea anatema.* 
 ##### Pablo vuelve a enfatizar las consecuencias de alguien que llega a anunciar un evangelio extraño, <u>esto</u> que hacían los que les perturbaban y trataban de cambiar el evangelio era algo muy serio.
 
-#### *Si alguien...*  
+#### Si alguien...
 ##### Esta declaración <u>ahora</u> indica que cualquier persona que llega a anunciar un evangelio diferente al que los gálatas ya habían recibido, entonces otra vez, sea anatema.
 
 ##### Si bien no se da mucho <u>detalle</u> de que trata esta maldición, pero es evidente la desaprobación de parte de Dios en el hecho de que Su mensaje se cambiado de cualquier tipo de forma.
@@ -368,8 +348,6 @@ Como hemos dicho antes, también repito ahora: Si alguien les anuncia un evangel
 ##### Anunciar un evangelio diferente era pervertir el **evangelio de Cristo**, era cambiar el mensaje <u>provisto</u> por Dios como poder para salvación a todo aquel que cree. Romanos 1:16
 
 ##### El evangelio que Pablo les había anunciado no era de ningún hombre, ni siquiera de Pablo, era del Dios que <u>planeo</u> la obra de salvación de Cristo en la cruz, era del Dios que había resucitado a Cristo de entre los muertos, era del Dios Todopoderoso.
-
-## Gálatas 1:10 - Agradar a los hombres o ser siervo de Cristo
 
 ### Gálatas 1:10 
 Porque ¿busco ahora el favor de los hombres o el de Dios? ¿O me esfuerzo por agradar a los hombres? Si yo todavía estuviera tratando de agradar a los hombres, no sería siervo de Cristo.
@@ -381,7 +359,7 @@ Porque ¿busco ahora el favor de los hombres o el de Dios? ¿O me esfuerzo por a
 
 ##### Pablo <u>sabía</u> que la única manera de ser aceptable a Dios en este caso era por medio de la fidelidad al anunciar el único evangelio de Cristo y yendo en contra de cualquier evangelio extraño. Hechos 4:19-20, 5:29; 1 Tesalonicenses 2:4 
 
-#### ...Si yo todavía estuviera tratando de agradar a los hombres, no sería siervo de Cristo.* 
+#### ...Si yo todavía estuviera tratando de agradar a los hombres, no sería siervo de Cristo. 
 ##### Si Pablo siendo un apóstol, estuviera tratando de agradar a los hombres, cambiando el evangelio de Cristo, <u>entonces</u> no sería un siervo de Dios, no estaría al servicio del Padre porque no estaría siendo fiel al único evangelio que Dios y el Hijo le habían encomendado. Romanos 1:1; Gálatas 1:1
 
 ##### Llegar a cambiar el evangelio de <u>Cristo</u>, es algo que es completamente reprobable delante de Dios, ya que se trata de Su mensaje, de Su obra. 
@@ -402,21 +380,21 @@ Porque ¿busco ahora el favor de los hombres o el de Dios? ¿O me esfuerzo por a
 
 ##### Esta era la <u>realidad</u> de los creyentes en Galacia, y Pablo se dedicará a mostrar de la manera mas clara de donde vino el evangelio que ellos habían escuchado, creído y después abandonado.
 
-# Gálatas 1:11-24 - El evangelio revelado por Cristo
+# Gálatas 1:11-2:21 - Pablo defiende la verdad que anunció
 
-## Gálatas 1:11-12 - El evangelio que les fue anunciado
+## Gálatas 1:11–12 — Origen divino
 
 ### Gálatas 1:11 
 Pues quiero que sepan, hermanos, que el evangelio que fue anunciado por mí no es según el hombre.
 
-#### Pues quiero que sepan, hermanos, que el evangelio que fue anunciado por mí...* 
+#### Pues quiero que sepan, hermanos, que el evangelio que fue anunciado por mí... 
 ##### En Gálatas 1:6 vemos que los <u>hermanos</u> habían cambiado el evangelio que Pablo les había anunciado.
 
 ##### En Gálatas 1:8-9 Pablo daba <u>advertencias</u> hacia los que anunciaban un evangelio contrario al que él había anunciado a los hermanos. 
 
 ##### Ahora Pablo quiere que los ellos <u>sepan</u> **quién** le había dado el evangelio.
 
-#### ...no es según el hombre.* 
+#### ...no es según el hombre. 
 ##### Los hermanos gálatas debían <u>saber</u> que el evangelio que Pablo les anunció no fue creado, ni tampoco vino por iniciativa de algún hombre.
 
 ### Gálatas 1:12
@@ -440,12 +418,12 @@ Pues ni lo recibí de hombre, ni me fue enseñado, sino que lo recibí por medio
 
 ##### Vemos en estos versículos como Cristo se mostro a Pablo y le revelo Su palabra para que él sea Su testigo y proclamará Su <u>mensaje</u> de salvación, el evangelio.
 
-## Gálatas 1:13-17 - Vida pasada de Pablo y su llamado al ministerio
+## Gálatas 1:13-17 - Llamado y revelación
 
 ### Gálatas 1:13
 Porque ustedes han oído acerca de mi antigua manera de vivir en el judaísmo, de cuán desmedidamente perseguía yo a la iglesia de Dios y trataba de destruirla.
 
-#### Porque ustedes han oído acerca de mi antigua manera de vivir en el judaísmo, de cuán desmedidamente perseguía yo a la iglesia de Dios y trataba de destruirla.* 
+#### Porque ustedes han oído acerca de mi antigua manera de vivir en el judaísmo, de cuán desmedidamente perseguía yo a la iglesia de Dios y trataba de destruirla.
 ##### Los hermanos gálatas conocían la vida <u>anterior</u> de Pablo, antes de ser creyente, ahora quiere recordarles nuevamente.
 
 ##### Pablo en el pasado estuvo de <u>acuerdo</u> con la persecución de creyentes y su muerte, entre esos estuvo el joven Esteban. Hechos 8:1 
@@ -457,7 +435,7 @@ Porque ustedes han oído acerca de mi antigua manera de vivir en el judaísmo, d
 ### Gálatas 1:14 
 Yo aventajaba en el judaísmo a muchos de mis compatriotas contemporáneos, mostrando mucho más celo por las tradiciones de mis antepasados.
 
-#### Yo aventajaba en el judaísmo a muchos de mis compatriotas contemporáneos, mostrando mucho más celo por las tradiciones de mis antepasados.* 
+#### Yo aventajaba en el judaísmo a muchos de mis compatriotas contemporáneos, mostrando mucho más celo por las tradiciones de mis antepasados.
 #### La palabra judaísmo solo aparece dos <u>veces</u> en el Nuevo Testamento. Gálatas 1:13-14
 
 ##### La palabra Judaísmo IOUDAISMÓS en <u>griego</u>, hace referencia a las practicas y creencias judías de la época. 
@@ -475,7 +453,7 @@ Yo aventajaba en el judaísmo a muchos de mis compatriotas contemporáneos, most
 ### Gálatas 1:15
 Pero cuando Dios, que me apartó desde el vientre de mi madre y me llamó por Su gracia, tuvo a bien
 
-#### Pero cuando Dios, que me apartó desde el vientre de mi madre y me llamó por Su gracia,...* 
+#### Pero cuando Dios, que me apartó desde el vientre de mi madre y me llamó por Su gracia,...
 ##### En base a Su previo conocimiento, Dios escogió a Pablo <u>incluso</u> desde antes que naciera. 
 
 ##### Pablo no esta diciendo que Dios lo escogió para salvación, Pablo no tenía nada en especial delante de Dios, él era igual que los demás <u>pecadores</u>. Por eso aclara que él también fue llamado por la gracia de Dios, fue otro pecador salvado por la fe en Jesucristo.
@@ -485,20 +463,20 @@ Pero cuando Dios, que me apartó desde el vientre de mi madre y me llamó por Su
 ### Gálatas 1:16
 revelar a Su Hijo en mí para que yo lo anunciara entre los gentiles, no consulté enseguida con carne y sangre,
 
-#### Gálatas 1:15b-16a - *...tuvo a bien revelar a Su Hijo en mí para que yo lo anunciara entre los gentiles...* 
+#### ...tuvo a bien revelar a Su Hijo en mí para que yo lo anunciara entre los gentiles...
 ##### Fue a Dios quien le agrado escoger a Pablo con el propósito de <u>mostrarle</u> a Su Hijo y apartarlo para que él lo anuncie a los gentiles. Romanos 1:1
 
 ##### Fue Dios quien escogió a Pablo como <u>apóstol</u>, con el propósito de llevar Su evangelio a los gentiles. Gálatas 1:1; Hechos 9:15, 22:14-15
 
 ##### El Evangelio que les fue anunciado, no vino de hombre alguno, ni siquiera de Pablo viendo su antigua vida en el <u>judaísmo</u>, sino que fue Dios quien le dio Su evangelio y le dio el deber de anunciarlo.
 
-#### ...no consulté enseguida con carne y sangre,* 
+#### ...no consulté enseguida con carne y sangre, 
 ##### En respuesta a la revelación de Dios, Pablo no <u>busco</u> guía de ningún hombre, no le importaba saber lo que opinarían sobre el plan y mensaje que Dios le había revelado.
 
 ### Gálatas 1:17
 ni subí a Jerusalén a los que eran apóstoles antes que yo, sino que fui a Arabia, y regresé otra vez a Damasco.
 
-#### ni subí a Jerusalén a los que eran apóstoles antes de mí,...* 
+#### ni subí a Jerusalén a los que eran apóstoles antes de mí,... 
 ##### Los versículos anteriores donde hablan de Pablo <u>siendo</u> designado por Dios como apóstol apuntan a los inicios de los relatos de la vida de Pablo en Hechos 9.
 
 ##### En Hechos 9:1-6 vemos la primera interacción de <u>Cristo</u> con Pablo, donde le indica ir hacia Damasco.
@@ -511,7 +489,7 @@ ni subí a Jerusalén a los que eran apóstoles antes que yo, sino que fui a Ara
 
 ##### Ahora vemos que tampoco fue a Jerusalén, porque en ningún momento busco consultar siquiera a los que fueron apóstoles <u>antes</u> que él. 
 
-#### ...sino que fui a Arabia, y regresé otra vez a Damasco.* 
+#### ...sino que fui a Arabia, y regresé otra vez a Damasco.
 ##### Lo que sí Pablo hiso al ser designado como <u>apóstol</u> fue ir a Arabia, la única vez que Pablo menciona un viaje a Arabia es en este mismo versículo, trataremos de dar un estimado de en que momento pudo ocurrir este viaje.
 
 ##### Hechos 9:19-22 Pablo estuvo predicando y <u>compartiendo</u> con hermanos en Damasco después de su conversión.
@@ -522,12 +500,12 @@ ni subí a Jerusalén a los que eran apóstoles antes que yo, sino que fui a Ara
 
 ##### Pablo al ser designado como apóstol por Jesucristo anunciaba al Hijo sin ningún tipo de dependencia o autoridad humana, y comenzó en <u>Damasco</u> y Arabia.
 
-## Gálatas 1:18-24 - Los viajes e interacciones de Pablo como apóstol de Jesucristo
+## Gálatas 1:18-24 - Independencia inicial
 
 ### Gálatas 1:18
 Entonces, tres años después, subí a Jerusalén para conocer a Pedro, y estuve con él quince días.
 
-#### Entonces, tres años después, subí a Jerusalén para conocer a Pedro, y estuve con él quince días.* 
+#### Entonces, tres años después, subí a Jerusalén para conocer a Pedro, y estuve con él quince días.
 ##### Pablo continuará narrando los eventos de sus viajes <u>después</u> de ser designado como apóstol de Jesucristo.
 
 ##### Solo después de 3 años de los sucesos de Gálatas 1:17, Pablo fue a Jerusalén y solo con el propósito de conocer a Pedro, nada más. En esos 3 primeros años Pablo ya anunciaba el evangelio como <u>apóstol</u> de Jesucristo
@@ -539,7 +517,7 @@ Entonces, tres años después, subí a Jerusalén para conocer a Pedro, y estuve
 ### Gálatas 1:19 
 Pero no vi a ningún otro de los apóstoles, sino a Jacobo, el hermano del Señor.
 
-#### Pero no vi a ningún otro de los apóstoles, sino a Jacobo, el hermano del Señor.* 
+#### Pero no vi a ningún otro de los apóstoles, sino a Jacobo, el hermano del Señor. 
 ##### Pablo no dice que no vio a ningún creyente más, sino que <u>solo</u> vio a dos apóstoles. 
 
 ##### A diferencia de Pedro, Jacobo el hermano de <u>Jesús</u> no era un apóstol del Cordero, es decir alguien encomendado directamente por Jesucristo como Su apóstol, como lo eran Pablo (Gálatas 1:1, 11-16) y Pedro (Hechos 1:12-14; 1 Pedro 1:1) en este caso.
@@ -573,7 +551,7 @@ Después fui a las regiones de Siria y Cilicia.
 ### Gálatas 1:22
 Pero todavía no era conocido en persona en las iglesias de Judea que eran en Cristo.
 
-#### Pero todavía no era conocido en persona en las iglesias de Judea que eran en Cristo.* 
+#### Pero todavía no era conocido en persona en las iglesias de Judea que eran en Cristo.
 ##### Pablo había estado con hermanos de la iglesia en Jerusalén, <u>pero</u> él aún no había conocido a gran parte de los hermanos de Judea.
 
 ### Gálatas 1:23
@@ -604,18 +582,19 @@ Y glorificaban a Dios por causa de mí.
 
 ##### pablo menciona el evangelio que predicaba entre los gentiles. como dos obro poderosamente tambien entre los gentiles, como pedro se <u>equivoco</u> al hacer judaizar a los gentiles, ellos no eran menos que los judios
 
-# Gálatas 2:1-21 - La verdad del Evangelio
 
-Gal 2:1  Entonces, después de catorce años, subí otra vez a Jerusalén con Bernabé, llevando también a Tito.
+## Gálatas 2:1-10 - Reconocimiento en Jerusalén
 
-## Gálatas 2:1-10 - Evangelio para los gentiles
+### Gálatas 2:1  
+Entonces, después de catorce años, subí otra vez a Jerusalén con Bernabé, llevando también a Tito.
 
 #### Entonces, después de catorce años, subí otra vez a Jerusalén con Bernabé, llevando también a Tito.* 
 ##### Pablo continuará mostrando a los hermanos gálatas (gentiles) <u>distintos</u> eventos respecto al evangelio que él les predico.
 
 ##### Solo catorce años después de que Pablo estuvo en Jerusalén la <u>primera</u> vez (Gálatas 1:18), él volvió, pero esta vez junto a Bernabé (Hechos 4:36-37, 13:2) y Tito (2 Corintios 8:16, 23). Ellos eran compañeros en la proclamación del evangelio junto a Pablo.
 
-Gal 2:2  Subí por causa de una revelación y les presenté el evangelio que predico entre los gentiles, pero lo hice en privado a los que tenían alta reputación, para asegurarme de que no corría ni había corrido en vano.
+### Gálatas 2:2  
+Subí por causa de una revelación y les presenté el evangelio que predico entre los gentiles, pero lo hice en privado a los que tenían alta reputación, para asegurarme de que no corría ni había corrido en vano.
 
 #### Subí por causa de una revelación...* 
 ##### Pablo menciona que no fue por medio de su <u>plan</u> ir a Jerusalén, sino por una revelación divina.
@@ -637,7 +616,7 @@ Gal 2:2  Subí por causa de una revelación y les presenté el evangelio que pre
 
 ##### ¿Qué es lo que estaba ocurriendo entre los <u>hermanos</u> en Jerusalén? Habían falsos hermanos que:
 
-Gal 2:3
+### Gálatas 2:3
 Pero ni aun Tito, que estaba conmigo, fue obligado a circuncidarse, aunque era griego.
 
 ##### Incitaban a los creyentes gentiles a circuncidarse. Gálatas 2:3a
@@ -655,7 +634,7 @@ Pero ni aun Tito, que estaba conmigo, fue obligado a circuncidarse, aunque era g
 
 ##### La circuncisión no tenía ninguna relación con el evangelio que él había predicado a los gálatas (gentiles). Una falsa enseñanza relacionada al evangelio era el hecho de buscar la circuncisión <u>como</u> medio ayuda para la salvación. Gálatas 5:2, Hechos 15:1
 
-Gal 2:4
+### Gálatas 2:4
 Y esto fue por causa de los falsos hermanos introducidos secretamente, que se habían infiltrado para espiar la libertad que tenemos en Cristo Jesús, a fin de someternos a esclavitud,
 
 #### Y esto fue por causa de los falsos hermanos introducidos secretamente, que se habían infiltrado... 
@@ -674,49 +653,50 @@ Y esto fue por causa de los falsos hermanos introducidos secretamente, que se ha
 
 ##### Pablo irá aclarando la esclavitud y la <u>libertad</u> en Cristo Jesús más adelante.
 
-Gal 2:5  a los cuales ni por un momento cedimos, para no someternos, a fin de que la verdad del evangelio permanezca con ustedes.
+### Gálatas 2:5
+a los cuales ni por un momento cedimos, para no someternos, a fin de que la verdad del evangelio permanezca con ustedes.
 
-#### a los cuales...* 
+#### a los cuales...
 ##### Ante el ataque de los que estaban intentando engañar a los hermanos respecto al mensaje del evangelio veremos la respuesta que <u>tuvieron</u> Pablo y los demás.
 
-#### *ni por un momento cedimos...* 
+#### ni por un momento cedimos... 
 ##### Ellos no aceptaron ni por un momento, por ninguna circunstancia, cambiar algo del <u>contenido</u> del evangelio que Dios había dado.
 
-#### *...para no someternos,...* 
+#### ...para no someternos,...
 ##### No aceptar ningún cambio en el evangelio era no ser sometidos a esclavitud. No eran los engañadores los que los esclavizarían directamente, sino que los hermanos <u>cambien</u> el contenido del evangelio.
 
-#### *...a fin de que la verdad del evangelio permanezca con ustedes.* 
+#### ...a fin de que la verdad del evangelio permanezca con ustedes. 
 ##### ¿Cual era el propósito de Pablo y los demás de no <u>cambiar</u> por nada el evangelio de Dios?
 
 ##### El propósito era que lo real respecto al evangelio no sea cambiado, sino que se mantenga integro. El evangelio (Cristo y Su obra) es el <u>único</u> mensaje provisto por Dios para el mundo, para que cualquiera que llegue a creerlo sea salvo.
 
-#### *...permanezca con ustedes.* 
+#### ...permanezca con ustedes.
 ##### Esto fue de beneficio para los hermanos gentiles de Galacia, ya que ellos <u>escucharon</u> el evangelio por medio de Pablo, un mensaje que fue defendido ante el engaño. 
 
 ##### Un mensaje por el cual ellos llegaron a tener vida eterna, tener libertad por medio de Cristo, esto solo fue posible por medio de la <u>verdad</u> del evangelio.
 
-Gal 2:6  Y de aquellos que tenían reputación de ser algo (lo que eran, nada me importa; Dios no hace acepción de personas); pues bien, los que tenían reputación, nada me enseñaron.
+### Gálatas 2:6  Y de aquellos que tenían reputación de ser algo (lo que eran, nada me importa; Dios no hace acepción de personas); pues bien, los que tenían reputación, nada me enseñaron.
 
-#### Y de aquellos que tenían reputación de ser algo (lo que eran, nada me importa; Dios no hace acepción de personas);...* 
+#### Y de aquellos que tenían reputación de ser algo (lo que eran, nada me importa; Dios no hace acepción de personas);...
 ##### Pablo sabía que delante de Dios no hay diferencias entre <u>personas</u>, no le importaban los de reputación, en ningún momento dudo de su apostolado o evangelio que predico a los gentiles. 
 
 ##### Él no busco <u>aceptación</u> de parte de los de reputación en la iglesia en Jerusalén, ellos eran hombres igual que Pablo, pero Dios fue el que lo había apartado para el evangelio.
 
-#### ...pues bien, los que tenían reputación, nada me enseñaron.* 
+#### ...pues bien, los que tenían reputación, nada me enseñaron.
 ##### Los que eran vistos como importantes no <u>agregaron</u> o ni cambiaron nada del evangelio que Pablo anunciaba, el mismo evangelio que los gálatas habían escuchado.
 
-Gal 2:7  Sino al contrario, vieron que se me había encomendado el evangelio a los de la incircuncisión, así como Pedro lo había sido a los de la circuncisión.
+### Gálatas 2:7  Sino al contrario, vieron que se me había encomendado el evangelio a los de la incircuncisión, así como Pedro lo había sido a los de la circuncisión.
 
-#### Antes por el contrario, como vieron que me había sido encomendado el evangelio de la incircuncisión, así como Pedro lo había sido a los de la circuncisión.* 
+#### Antes por el contrario, como vieron que me había sido encomendado el evangelio de la incircuncisión, así como Pedro lo había sido a los de la circuncisión.
 ##### Los de reputación entendieron que a Pablo le había sido <u>encargado</u> proclamar el evangelio a los gentiles. De la misma manera que a Pedro le había sido encargado el evangelio a los judíos.
 
 ##### El hecho de que Pablo mencione el evangelio de la incircuncisión o circuncisión y no directamente gentiles y judíos es por el <u>problema</u> resaltado en Gálatas 2:3 donde la circuncisión era utilizada para dañar el mensaje del evangelio.
 
 ##### Pablo no esta diciendo que hay un evangelio para los gentiles y otro para los judíos, esto iría en contra de lo que menciona en Gálatas 1:7, donde explica que no hay distintos <u>evangelios</u>. En Hechos 13:46-48 vemos que Pablo proclamaba el mismo mensaje a judíos y gentiles.
 
-Gal 2:8  (Porque Aquel que obró eficazmente para con Pedro en su apostolado a los de la circuncisión, también obró eficazmente para conmigo en mi apostolado a los gentiles).
+### Gálatas 2:8  (Porque Aquel que obró eficazmente para con Pedro en su apostolado a los de la circuncisión, también obró eficazmente para conmigo en mi apostolado a los gentiles).
 
-#### (Porque Aquel que obró eficazmente para con Pedro en su apostolado a los de la circuncisión, también obró eficazmente para conmigo en mi apostolado a los gentiles).* 
+#### (Porque Aquel que obró eficazmente para con Pedro en su apostolado a los de la circuncisión, también obró eficazmente para conmigo en mi apostolado a los gentiles).
 ##### El apostolado de Pedro fue en base al <u>poder</u> y mensaje de Dios. Y Pablo muestra que Dios también había obrado con el mismo poder y mensaje en su apostolado.
 
 ##### Pedro había sido puesto por Dios como <u>apóstol</u> de Cristo y en este versículo vemos que fue encomendado mas directamente al pueblo judío. 1 Pedro 1:1; Hechos 1:8, 2:14, 22, 36, 3:12-13
@@ -725,24 +705,24 @@ Gal 2:8  (Porque Aquel que obró eficazmente para con Pedro en su apostolado a l
 
 ##### Solo existe el evangelio de Cristo por el cual <u>circuncisos</u> o incircuncisos son salvos por medio de la fe y Dios había confiado este mensaje a de Pablo y Pedro para proclamarlo a judíos y gentiles. 
 
-Gal 2:9  Al reconocer la gracia que se me había dado, Jacobo, Pedro y Juan, que eran considerados como columnas, nos dieron a mí y a Bernabé la diestra de compañerismo, para que nosotros fuéramos a los gentiles y ellos a los de la circuncisión.
+### Gálatas 2:9  Al reconocer la gracia que se me había dado, Jacobo, Pedro y Juan, que eran considerados como columnas, nos dieron a mí y a Bernabé la diestra de compañerismo, para que nosotros fuéramos a los gentiles y ellos a los de la circuncisión.
 
-#### Al reconocer la gracia que se me había dado,...* 
+#### Al reconocer la gracia que se me había dado,...
 ##### Pablo muestra el rol de apóstol que Dios le dio no como algo que él ganado, sino como gracia de parte de Dios, y los de alta <u>reputación</u> pudieron reconocer aquello. Romanos 1:5; 1 Corintios 15:10; Efesios 3:8
 
-#### ...Jacobo, Pedro y Juan, que eran considerados como columnas,...* 
+#### ...Jacobo, Pedro y Juan, que eran considerados como columnas,...
 ##### Ahora vemos que los de alta reputación que Pablo <u>estuvo</u> mencionando eran Jacobo (Gálatas 1:19), Pedro y Juan. 
 
 ##### Eran hermanos vistos como columnas, con <u>muchas</u> responsabilidades e influencia entre la iglesia del primer siglo.
 
-#### ...nos dieron a mí y a Bernabé la diestra de compañerismo, para que nosotros fuéramos a los gentiles y ellos a los de la circuncisión.* 
+#### ...nos dieron a mí y a Bernabé la diestra de compañerismo, para que nosotros fuéramos a los gentiles y ellos a los de la circuncisión.
 ##### Jacobo, Pedro y Juan no agregaron nada al evangelio que Pablo anunciaba a los gentiles, ellos solo pudieron <u>confirmar</u> que el apostolado y mensaje de Pablo provenían solo de Dios.
 
 ##### Entonces les dieron la diestra de compañerismo como símbolo de que compartían el mismo evangelio y que trabajaban por <u>medio</u> del mismo Dios y Jesucristo. Ellos a los judíos y Pablo y Bernabé a los gentiles.
 
-Gal 2:10  Solo nos pidieron que nos acordáramos de los pobres, lo mismo que yo estaba también deseoso de hacer.
+### Gálatas 2:10  Solo nos pidieron que nos acordáramos de los pobres, lo mismo que yo estaba también deseoso de hacer.
 
-#### Solo nos pidieron que nos acordáramos de los pobres, lo mismo que yo estaba también deseoso de hacer.* 
+#### Solo nos pidieron que nos acordáramos de los pobres, lo mismo que yo estaba también deseoso de hacer. 
 ##### Lo único que los hermanos de Jerusalén pidieron a Pablo y Bernabé fue que ayuden a los creyentes necesitados. Este era el <u>mismo</u> deseo de Pablo.
 
 ##### El mismo deseo que ellos compartían va en relación a mismo evangelio que ellos compartían. Más adelante veremos que la <u>ayuda</u> entre los creyentes esta relacionado a la verdad del evangelio.
@@ -752,11 +732,12 @@ Gal 2:10  Solo nos pidieron que nos acordáramos de los pobres, lo mismo que yo 
 #### **Este fue el mensaje que los gálatas habían recibido:** 
 ##### El evangelio de Dios anunciado por Pablo nunca estuvo en duda, fue confirmado por hermanos de alta reputación y defendido frente a los intentos de <u>alterarlo</u>, todo para beneficio de los mismos gálatas, para que más adelante escucharan la verdad del Evangelio.
 
-## Gálatas 2:11-15 - ¿Judíos y Gentiles, diferentes? o Algunos contradiciendo el Evangelio
+## Gálatas 2:11-14 - Confrontación pública
 
-Gal 2:11  Pero cuando Pedro vino a Antioquía, me opuse a él cara a cara, porque él era digno de ser censurado.
+### Gálatas 2:11
+Pero cuando Pedro vino a Antioquía, me opuse a él cara a cara, porque él era digno de ser censurado.
 
-#### Pero cuando Pedro vino a Antioquía,...* 
+#### Pero cuando Pedro vino a Antioquía,... 
 ##### Después del versículo 10 Pablo comienza a <u>narrar</u> otro evento posterior, cuando Pedro visita la ciudad de Antioquía, con una población mayormente gentil.
 
 ##### No se encuentra una cita especifica donde se narré lo que Pablo contará a continuación, probablemente este evento <u>haya</u> ocurrido después de la vuelta de Pablo y Bernabé a Antioquia en su visita a Jerusalén (Hechos 12:25; Gálatas 2:1-10) y antes del primer viaje misionero de Pablo (Hechos 13:1-2).
@@ -765,22 +746,23 @@ Gal 2:11  Pero cuando Pedro vino a Antioquía, me opuse a él cara a cara, porqu
 
 ##### Ahora Pablo mostrará una situación diferente a la de los anteriores <u>versículos</u>.
 
-#### Pero...me opuse a él cara a cara,...* 
+#### Pero...me opuse a él cara a cara,...
 ##### La expresión que Pablo utiliza cuando Pedro vino a Antioquía enfatiza una <u>postura</u> completamente contraría y de enfrentamiento hacia Pedro.
 
-#### ...porque él era digno de ser censurado.* 
+#### ...porque él era digno de ser censurado.
 ##### La BTX4 lo traduce como *...porque era digno de condenar.* 
 
 ##### La <u>actitud</u> dura de Pablo hacia Pedro era porque Pedro debía ser hallado culpable en una falla que estaba cometiendo. Es lo que la palabra condenar enfatiza. 
 
 ##### ¿Qué es lo <u>que</u> Pedro estaba haciendo?
 
-Gal 2:12  Porque antes de venir algunos de parte de Jacobo, él comía con los gentiles, pero cuando aquellos vinieron, Pedro empezó a retraerse y apartarse, porque temía a los de la circuncisión.
+### Gálatas 2:12
+Porque antes de venir algunos de parte de Jacobo, él comía con los gentiles, pero cuando aquellos vinieron, Pedro empezó a retraerse y apartarse, porque temía a los de la circuncisión.
 
-#### Porque antes de venir algunos de parte de Jacobo, él comía con los gentiles,...* 
+#### Porque antes de venir algunos de parte de Jacobo, él comía con los gentiles,...
 ##### Pedro en Antioquía comía juntamente con los hermanos gentiles, tenía una <u>interacción</u> cercana con ellos. Esto era antes de que algunos hermanos de parte de Jacobo (Gálatas 2:9), líder creyente, llegarán a Antioquía.
 
-#### ...pero cuando aquellos vinieron, Pedro empezó a retraerse y apartarse, porque temía a los de la circuncisión.* 
+#### ...pero cuando aquellos vinieron, Pedro empezó a retraerse y apartarse, porque temía a los de la circuncisión.
 ##### Pero cuando los hermanos de parte de Jacobo llegaron, la <u>situación</u> cambió.
 
 Retraerse (JUPOSTÉLO) 
@@ -793,26 +775,28 @@ Apartarse (AFORÍZO)
 
 ##### Esto lo hizo por miedo a los hermanos que habían llegado de parte de Jacobo, ellos eran de la circuncisión, eran judíos. El pensamiento general <u>judío</u> era de rechazo y desprecio hacia las demás naciones, los gentiles, este estuvo incluso entre creyentes judíos. Hechos 10:27-28, 11:2-3
 
-Gal 2:13  Y el resto de los judíos se le unió en su hipocresía, de tal manera que aun Bernabé fue arrastrado por la hipocresía de ellos.
+### Gálatas 2:13
+Y el resto de los judíos se le unió en su hipocresía, de tal manera que aun Bernabé fue arrastrado por la hipocresía de ellos.
 
-#### Y el resto de los judíos se le unió en su hipocresía, de tal manera que aun Bernabé fue arrastrado por la hipocresía de ellos.* 
+#### Y el resto de los judíos se le unió en su hipocresía, de tal manera que aun Bernabé fue arrastrado por la hipocresía de ellos.
 ##### Pedro como apóstol de Cristo, llego a ser alguien de mucha influencia en la iglesia, tanto así que los demás hermanos judíos y hasta el mismo <u>Bernabé</u> (compañero de Pablo) también empezaron a apartarse de los hermanos gentiles.
 
 ##### Pablo llamó a este actuar de Pedro <u>como</u> una hipocresía, una simulación, este actuar era algo falso no verdadero. Pablo mostró a los demás judíos y Bernabé que se habían unido a esta hipocresía.
 
 ##### ¿Porqué era esto una hipocresía?
 
-Gal 2:14  Pero cuando vi que no andaban con rectitud en cuanto a la verdad del evangelio, dije a Pedro delante de todos: «Si tú, siendo judío, vives como los gentiles y no como los judíos, ¿por qué obligas a los gentiles a vivir como judíos?
+### Gálatas 2:14
+Pero cuando vi que no andaban con rectitud en cuanto a la verdad del evangelio, dije a Pedro delante de todos: «Si tú, siendo judío, vives como los gentiles y no como los judíos, ¿por qué obligas a los gentiles a vivir como judíos?
 
-#### Pero cuando vi que no andaban con rectitud en cuanto a la verdad del evangelio,...* 
+#### Pero cuando vi que no andaban con rectitud en cuanto a la verdad del evangelio,...
 ##### Pablo vio que la conducta de Pedro, Bernabé y los <u>demás</u> hermanos judíos era una hipocresía porque no era conforme a la verdad, la verdad del Evangelio de Cristo.
 
 ##### Este actuar de creyentes judíos apartándose de creyentes gentiles no iba conforme, es decir, estaban yendo en <u>contra</u> directa a la verdad del evangelio. Ellos estaban comunicando una mentira por medio de su conducta. ¿Cual?
 
-#### ...dije a Pedro delante de todos:...* 
+#### ...dije a Pedro delante de todos:...
 ##### Anteriormente veíamos a Pablo interactuando de una manera más reservada entre los creyentes, pero cuando él vio que la conducta de los <u>hermanos</u> judíos era contra la verdad del evangelio él hablo públicamente, delante de todos a Pedro.
 
-#### ...Si tú, siendo judío, vives como los gentiles y no como los judíos,...* 
+#### ...Si tú, siendo judío, vives como los gentiles y no como los judíos,...
 ##### Pablo le dice a Pedro que siendo un creyente y judío de nacimiento, ni él mismo vivía como judío sino como un gentil (un no <u>judío</u>).
 
 ##### Vivir como judío <u>según</u> algunos pasajes podemos ver que indica:
@@ -825,16 +809,19 @@ Gal 2:14  Pero cuando vi que no andaban con rectitud en cuanto a la verdad del e
 
 ##### Celo por la tradiciones de antepasados <u>judíos</u>. Gálatas 1:14
 
-#### ...¿por qué obligas a los gentiles a vivir como judíos?* 
+#### ...¿por qué obligas a los gentiles a vivir como judíos?
 ##### Pablo no dice que Pedro estaba hablando algún mensaje mentiroso, el énfasis que hace era en su actuar. Pedro se estaba apartando a de los hermanos gentiles (no judíos) y al hacer eso estaba yendo en contra del <u>evangelio</u>.
 
 ##### El mensaje que estaba dando era que los hermanos gentiles no eran iguales a los hermanos judíos y ellos estaban <u>obligados</u> a judaizar, es decir, a vivir como judíos. Pero ni siquiera Pedro vivía como judío.
 
 ##### Lo qué Pedro estaba haciendo era una completa <u>mentira</u>, estaba yendo en contra de la verdad del Evangelio de Cristo y esto causaba una confusión a hacia los hermanos judíos y gentiles.
 
-Gal 2:15  »Nosotros somos judíos de nacimiento y no pecadores de entre los gentiles.
+## Gálatas 2:15-21 - Declaración sobre la justicia de Dios
 
-#### Nosotros somos judíos de nacimiento y no pecadores de entre los gentiles.* 
+### Gálatas 2:15
+Nosotros somos judíos de nacimiento y no pecadores de entre los gentiles.
+
+#### Nosotros somos judíos de nacimiento y no pecadores de entre los gentiles.
 ##### Nosotros, Pablo se incluye en esta declaración. Este era el mensaje que los hermanos judíos estaban dando por medio de su <u>conducta</u>:
 
 ##### Pablo, Pedro, Bernabé y los demás hermanos judíos eran diferentes a los hermanos gentiles, <u>porque</u> los judíos de nacimiento no eran como los pecadores gentiles de nacimiento.
@@ -851,8 +838,6 @@ Gal 2:15  »Nosotros somos judíos de nacimiento y no pecadores de entre los gen
 
 ##### Pablo llamo a esto un ataque directo a la verdad, al evangelio de Cristo y una hipocresía, una <u>falsedad</u> total. Ahora Pablo explicará este problema.
 
-## Gálatas 2:16-21 - La Justicia de Dios solo por la Gracia de Dios
-
 ##### La actitud por parte de Pedro hacia los creyentes gentiles y el versículo de Gálatas 2:15 aparentemente muestran que los creyentes judíos de <u>nacimiento</u> y practicantes del judaísmo son los no pecadores. 
 
 ##### Por lo que los <u>creyentes</u> gentiles estarían obligados a vivir como judíos para no ser pecadores. Gálatas 2:14b
@@ -865,9 +850,10 @@ Gal 2:15  »Nosotros somos judíos de nacimiento y no pecadores de entre los gen
 
 ##### *Nosotros somos judíos de nacimiento y no pecadores de entre los gentiles.* Gálatas 2:15
 
-Gal 2:16  Sin embargo, sabiendo que el hombre no es justificado por las obras de la ley, sino mediante la fe en Cristo Jesús, también nosotros hemos creído en Cristo Jesús, para que seamos justificados por la fe en Cristo, y no por las obras de la ley. Puesto que por las obras de la ley nadie será justificado.
+### Gálatas 2:16
+Sin embargo, sabiendo que el hombre no es justificado por las obras de la ley, sino mediante la fe en Cristo Jesús, también nosotros hemos creído en Cristo Jesús, para que seamos justificados por la fe en Cristo, y no por las obras de la ley. Puesto que por las obras de la ley nadie será justificado.
 
-#### Sin embargo, sabiendo que el hombre...* 
+#### Sin embargo, sabiendo que el hombre...
 ##### Pablo continua con las palabras Sin embargo, mostrando una idea <u>contraría</u> a lo mencionado en el anterior versículo.
 
 ##### El verbo sabiendo esta en plural, masculino, por lo que Pablo continua hablando como judíos de nacimiento desde Gálatas 2:15. La <u>palabra</u> también podría traducirse como sabemos.
@@ -877,7 +863,7 @@ Gal 2:16  Sin embargo, sabiendo que el hombre no es justificado por las obras de
 
 #### Pablo, Pedro, Bernabé y los demás hermanos judíos ya tenían conocimiento de lo que Pablo dirá a continuación sobre todas las <u>personas</u>.
 
-#### el hombre no es justificado por las obras de la ley,...* 
+#### el hombre no es justificado por las obras de la ley,...
 ##### Hay una verdad respecto a toda persona (judíos y no judíos), todos <u>necesitan</u> ser justificados. ¿Porqué?
 
 ##### Según las Escrituras todos somos injustos, pecadores <u>delante</u> de Dios (Romanos 3:10), por lo que estamos separados de Él (Romanos 3:23).
@@ -888,7 +874,7 @@ Gal 2:16  Sin embargo, sabiendo que el hombre no es justificado por las obras de
 
 ##### Por lo que vivir como judíos cumpliendo la ley no justificaría a los gentiles, pero tampoco a los <u>judíos</u>. Esto deja en la misma condición tanto a judíos como a gentiles delante de Dios.
 
-#### el hombre...sino [es justificado] mediante la fe en Cristo Jesús,...* 
+#### el hombre...sino [es justificado] mediante la fe en Cristo Jesús,...
 ##### Judíos y no <u>judíos</u> solo pueden ser declarados justos por medio de la fe en Jesucristo.
 
 ##### Al igual que todos estamos separados de Dios como injustos, Dios también mostro Su justicia, la justificación y es para todo el que <u>crea</u> en Cristo Jesús, sin diferencia. Romanos 3:21-23
@@ -897,100 +883,105 @@ Gal 2:16  Sin embargo, sabiendo que el hombre no es justificado por las obras de
 
 ##### Judíos y gentiles no pueden ser justificados por las <u>obras</u> de la ley. Judíos y gentiles solo pueden ser justificados por la fe en Cristo Jesús.
 
-#### ...también nosotros [judíos] hemos creído en Cristo Jesús, para que seamos justificados por la fe en Cristo, y no por las obras de la ley.* 
+#### ...también nosotros [judíos] hemos creído en Cristo Jesús, para que seamos justificados por la fe en Cristo, y no por las obras de la ley.
 ##### Pablo les <u>recuerda</u> a los creyentes judíos de nacimiento (Pablo incluido), que ellos también tuvieron que creer en Cristo para ser justificados, no fueron justificados por intentar cumplir la ley.
 
 ##### Los creyentes <u>judíos</u> no fueron declarados justos por lo que hacían, tampoco debería ser el pensamiento de los creyentes gentiles. ¿Porqué?
 
-#### Puesto que por las obras de la ley nadie será justificado.* 
+#### Puesto que por las obras de la ley nadie será justificado.
 ##### Pablo repite que <u>nadie</u>, ninguna persona, podrá ser declarada como justa delante de Dios por medio del cumplimiento de la ley.
 
-Gal 2:17  »Pero si buscando ser justificados en Cristo, también nosotros hemos sido hallados pecadores, ¿es Cristo, entonces, ministro de pecado? ¡De ningún modo!
+### Gálatas 2:17
+Pero si buscando ser justificados en Cristo, también nosotros hemos sido hallados pecadores, ¿es Cristo, entonces, ministro de pecado? ¡De ningún modo!
 
-#### Pero si buscando ser justificados en Cristo, también nosotros hemos sido hallados pecadores, ¿es Cristo, entonces, ministro de pecado? ¡De ningún modo!* 
-#### A primera vista este versículo puede ser contradictorio a lo que Pablo explico, ¿cómo una <u>persona</u> puede resultar como pecadora buscando ser justificada en Cristo? ¿Ante qué o quién estaban siendo hallados pecadores?Trataremos de aclarar lo que quiere explicar Pablo.
+#### Pero si buscando ser justificados en Cristo, también nosotros hemos sido hallados pecadores, ¿es Cristo, entonces, ministro de pecado? ¡De ningún modo!
+##### A primera vista este versículo puede ser contradictorio a lo que Pablo explico, ¿cómo una <u>persona</u> puede resultar como pecadora buscando ser justificada en Cristo? ¿Ante qué o quién estaban siendo hallados pecadores?Trataremos de aclarar lo que quiere explicar Pablo.
 
-#### Pablo esta hablando en primera <u>persona</u> plural, por lo cual continua hablando como grupo judío de nacimiento. Ellos estaban buscando ser justificados en Cristo, pero también resultaban hallados como pecadores, como injustos. ¿Eso era correcto?
+##### Pablo esta hablando en primera <u>persona</u> plural, por lo cual continua hablando como grupo judío de nacimiento. Ellos estaban buscando ser justificados en Cristo, pero también resultaban hallados como pecadores, como injustos. ¿Eso era correcto?
 
-#### Si es así, entonces Pablo expresa una pregunta como conclusión errónea: *¿es Cristo, entonces, ministro de pecado?*. La palabra ministro en griego es DIÁKONOS que también puede significar <u>servidor</u> o ayudante. ¿Ellos estaban siendo vistos como pecadores porque Cristo es servidor del pecado?
+##### Si es así, entonces Pablo expresa una pregunta como conclusión errónea: *¿es Cristo, entonces, ministro de pecado?*. La palabra ministro en griego es DIÁKONOS que también puede significar <u>servidor</u> o ayudante. ¿Ellos estaban siendo vistos como pecadores porque Cristo es servidor del pecado?
 
-#### Absolutamente no, Pablo diría: *¡De ningún modo!*. Cristo no es servidor del pecado, por lo que el apóstol <u>continuará</u> explicando el verdadero problema en los siguientes versículos.
+##### Absolutamente no, Pablo diría: *¡De ningún modo!*. Cristo no es servidor del pecado, por lo que el apóstol <u>continuará</u> explicando el verdadero problema en los siguientes versículos.
 
-Gal 2:18  Porque si yo reedifico lo que en otro tiempo destruí, yo mismo resulto transgresor.
+### Gálatas 2:18
+Porque si yo reedifico lo que en otro tiempo destruí, yo mismo resulto transgresor.
 
-####  2:18 - *Porque si yo reedifico lo que en otro tiempo destruí, yo mismo resulto transgresor.* 
-#### Cristo no sería el problema, ya <u>que</u> el no tiene ninguna relación con el pecado. Pablo explica que el problema sería él mismo. ¿Cómo?
+####  Porque si yo reedifico lo que en otro tiempo destruí, yo mismo resulto transgresor.
+##### Cristo no sería el problema, ya <u>que</u> el no tiene ninguna relación con el pecado. Pablo explica que el problema sería él mismo. ¿Cómo?
 
-#### Si Pablo esta edificando, es decir, habilitando nuevamente algo que él mismo destruyó en el pasado, entonces él <u>mismo</u> es culpable de ser hallado como pecador, y más específicamente como transgresor (desobediente), pero ¿Transgresor respecto a qué?
+##### Si Pablo esta edificando, es decir, habilitando nuevamente algo que él mismo destruyó en el pasado, entonces él <u>mismo</u> es culpable de ser hallado como pecador, y más específicamente como transgresor (desobediente), pero ¿Transgresor respecto a qué?
 
-Gal 2:19  Pues mediante la ley yo morí a la ley, a fin de vivir para Dios.
+### Gálatas 2:19
+Pues mediante la ley yo morí a la ley, a fin de vivir para Dios.
 
-####  2:19a - *Pues mediante la ley...* 
-#### Pablo aclara esto mencionando la ley, <u>aquello</u> que él estaría edificando nuevamente sería la ley.
+####  Pues mediante la ley...
+##### Pablo aclara esto mencionando la ley, <u>aquello</u> que él estaría edificando nuevamente sería la ley.
 
-#### Pablo y los creyentes judíos estarían siendo hallados como pecadores (Gálatas 2:17) si <u>trataban</u> de encontrar justicia por la ley, ya que la ley muestra los pecados. Romanos 3:19
+##### Pablo y los creyentes judíos estarían siendo hallados como pecadores (Gálatas 2:17) si <u>trataban</u> de encontrar justicia por la ley, ya que la ley muestra los pecados. Romanos 3:19
 
-#### Si Pablo trata de encontrar justicia por medio de la ley, solo <u>sería</u> hallado como transgresor. Romanos 4:15
+##### Si Pablo trata de encontrar justicia por medio de la ley, solo <u>sería</u> hallado como transgresor. Romanos 4:15
 
-#### Esto era lo que los creyentes judíos estaban haciendo en Antioquía, estaban volviendo a las tradiciones y leyes judías, de esta <u>manera</u> estaban forzando a los creyentes gentiles a vivir de la misma manera, como judíos para no ser pecadores.
+##### Esto era lo que los creyentes judíos estaban haciendo en Antioquía, estaban volviendo a las tradiciones y leyes judías, de esta <u>manera</u> estaban forzando a los creyentes gentiles a vivir de la misma manera, como judíos para no ser pecadores.
 
-#### Pero el problema es que solo los llevaría a ser hallados como pecadores y transgresores de la ley. Ellos como creyentes estarían buscando algo que ya les había sido <u>provisto</u> por Dios, Su justicia por la fe. Gálatas 2:16
+##### Pero el problema es que solo los llevaría a ser hallados como pecadores y transgresores de la ley. Ellos como creyentes estarían buscando algo que ya les había sido <u>provisto</u> por Dios, Su justicia por la fe. Gálatas 2:16
 
-#### Estas acciones iban en contra de la verdad del evangelio de Cristo. Donde muestra que la justicia de Dios para todos (judíos y no judíos) solo <u>proviene</u> por medio de la fe en Cristo Jesús por medio de Su gracia para todos (judíos y no judíos).
+##### Estas acciones iban en contra de la verdad del evangelio de Cristo. Donde muestra que la justicia de Dios para todos (judíos y no judíos) solo <u>proviene</u> por medio de la fe en Cristo Jesús por medio de Su gracia para todos (judíos y no judíos).
 
-###  Pues mediante la ley yo morí a la ley,...* 
-#### Pablo y los demás hermanos no tendrían que resultar como pecadores y transgresores. Pablo <u>mostrará</u> la nueva realidad que él y cualquier creyente tiene como justificado en relación a la ley.
+####  Pues mediante la ley yo morí a la ley,...
+##### Pablo y los demás hermanos no tendrían que resultar como pecadores y transgresores. Pablo <u>mostrará</u> la nueva realidad que él y cualquier creyente tiene como justificado en relación a la ley.
 
-#### La verbo *morí* en este pasaje no enfatiza inexistencia sino separación y también se encuentra como aoristo, activo, indicativo. <u>Significa</u> que es una acción real que ya ocurrió en el pasado.
+##### La verbo *morí* en este pasaje no enfatiza inexistencia sino separación y también se encuentra como aoristo, activo, indicativo. <u>Significa</u> que es una acción real que ya ocurrió en el pasado.
 
-#### Pablo y todo creyente ahora esta <u>separado</u> de la ley, no tiene ninguna relación a ella y fue por medio de la ley misma ¿Cómo?
+##### Pablo y todo creyente ahora esta <u>separado</u> de la ley, no tiene ninguna relación a ella y fue por medio de la ley misma ¿Cómo?
 
-#### La ley es la que muestra a la persona su pecado, y <u>comprende</u> que merece estar separado de Dios. Romanos 3:19-20, 23
+##### La ley es la que muestra a la persona su pecado, y <u>comprende</u> que merece estar separado de Dios. Romanos 3:19-20, 23
 
-#### La ley es la que muestra que necesita ser <u>justificado</u> y guía a la persona a confiar en Jesucristo. Gálatas 3:24
+##### La ley es la que muestra que necesita ser <u>justificado</u> y guía a la persona a confiar en Jesucristo. Gálatas 3:24
 
-#### Como vimos en Gálatas 2:16, en el momento en que la persona cree en Jesucristo es justificada delante de Dios y también llega a ser <u>bautizada</u> (identificada) por el Espíritu Santo en la persona de Cristo (Efesios 1:13-14, 1 Corintios 12:13), de esta manera es identificada en la muerte de Cristo y llega a morir junto con Cristo. 
+##### Como vimos en Gálatas 2:16, en el momento en que la persona cree en Jesucristo es justificada delante de Dios y también llega a ser <u>bautizada</u> (identificada) por el Espíritu Santo en la persona de Cristo (Efesios 1:13-14, 1 Corintios 12:13), de esta manera es identificada en la muerte de Cristo y llega a morir junto con Cristo. 
 
-#### En en esa misma <u>muerte</u> el creyente también llega a morir a la ley. Ahora como justificado ya no tiene ninguna relación con la ley porque a muerto a ella. Gálatas 3:25, Romanos 6:2, 7:4
+##### En en esa misma <u>muerte</u> el creyente también llega a morir a la ley. Ahora como justificado ya no tiene ninguna relación con la ley porque a muerto a ella. Gálatas 3:25, Romanos 6:2, 7:4
 
-#### Pablo no estaba ordenando a los creyentes a <u>morir</u> a la ley, el muestra que esto ya había sucedido.
+##### Pablo no estaba ordenando a los creyentes a <u>morir</u> a la ley, el muestra que esto ya había sucedido.
 
-####  2:19b - *...a fin de vivir para Dios.* 
-#### La muerte de Pablo y de cualquier creyente fue por obra misma de Dios al momento de creer en Jesucristo (2 Corintios 5:21) y fue con el propósito de que ahora puedan vivir para Él, el Padre. ¿Cómo sería <u>vivir</u> para Dios? Pablo lo explicará en el siguiente versículo.
+####  ...a fin de vivir para Dios.
+##### La muerte de Pablo y de cualquier creyente fue por obra misma de Dios al momento de creer en Jesucristo (2 Corintios 5:21) y fue con el propósito de que ahora puedan vivir para Él, el Padre. ¿Cómo sería <u>vivir</u> para Dios? Pablo lo explicará en el siguiente versículo.
 
-Gal 2:20  »Con Cristo he sido crucificado, y ya no soy yo el que vive, sino que Cristo vive en mí; y la vida que ahora vivo en la carne, la vivo por la fe en el Hijo de Dios, el cual me amó y se entregó a sí mismo por mí.
+#### Gálatas 2:20
+Con Cristo he sido crucificado, y ya no soy yo el que vive, sino que Cristo vive en mí; y la vida que ahora vivo en la carne, la vivo por la fe en el Hijo de Dios, el cual me amó y se entregó a sí mismo por mí.
 
-####  2:20a - *Con Cristo he sido crucificado,...* 
-#### Así como Pablo, también nosotros hemos sido crucificados junto con Cristo cuando fuimos bautizados (identificados) en Él, <u>hemos</u> muerto junto con Él en la cruz.
+####  Con Cristo he sido crucificado,...
+##### Así como Pablo, también nosotros hemos sido crucificados junto con Cristo cuando fuimos bautizados (identificados) en Él, <u>hemos</u> muerto junto con Él en la cruz.
 
-#### Algunas traducciones como la RVR60 <u>traducen</u> así: *Con Cristo estoy juntamente crucificado...* Cualquiera de las dos traducciones podrían ser correctas. Pablo no indica que debían crucificarse, sino que ya habían sido crucificados. 
+##### Algunas traducciones como la RVR60 <u>traducen</u> así: *Con Cristo estoy juntamente crucificado...* Cualquiera de las dos traducciones podrían ser correctas. Pablo no indica que debían crucificarse, sino que ya habían sido crucificados. 
 
-#### Pero ¿Qué significa <u>ahora</u> esta verdad sobre nuestra muerte junto con Cristo?
+##### Pero ¿Qué significa <u>ahora</u> esta verdad sobre nuestra muerte junto con Cristo?
 
-####  2:20b - *...y ya no soy yo el que vive, sino que Cristo vive en mí;...* 
-#### Esta es ahora ahora nuestra realidad desde el momento que creímos en Cristo. Hemos muerto, por lo que no somos los que <u>vivimos</u> ahora, no somos los que pensamos o actuamos en este mundo.
+####  ...y ya no soy yo el que vive, sino que Cristo vive en mí;...
+##### Esta es ahora ahora nuestra realidad desde el momento que creímos en Cristo. Hemos muerto, por lo que no somos los que <u>vivimos</u> ahora, no somos los que pensamos o actuamos en este mundo.
 
-#### Ahora Cristo es el que piensa y actúa en nosotros, esta es la verdad que ahora Dios dice de nosotros, <u>Cristo</u> es el que ahora vive en nosotros.
+##### Ahora Cristo es el que piensa y actúa en nosotros, esta es la verdad que ahora Dios dice de nosotros, <u>Cristo</u> es el que ahora vive en nosotros.
 
-####  2:20c - *...y la vida que ahora vivo en la carne, la vivo por la fe en el Hijo de Dios,...* 
-#### En base a nuestra nueva realidad, que trata de Cristo viviendo en nosotros. Ahora podemos vivir en este <u>cuerpo</u> físico de una sola manera.
+####  ...y la vida que ahora vivo en la carne, la vivo por la fe en el Hijo de Dios,...
+##### En base a nuestra nueva realidad, que trata de Cristo viviendo en nosotros. Ahora podemos vivir en este <u>cuerpo</u> físico de una sola manera.
 
-#### Éramos injustos, pecadores delante de Dios, merecedores de Su <u>ira</u> y no pudimos ser justificados por la obras de la ley.
+##### Éramos injustos, pecadores delante de Dios, merecedores de Su <u>ira</u> y no pudimos ser justificados por la obras de la ley.
 
-#### Nosotros <u>fuimos</u> justificados por la fe en el Hijo de Dios (Cristo), Dios nos dio Su justicia.
+##### Nosotros <u>fuimos</u> justificados por la fe en el Hijo de Dios (Cristo), Dios nos dio Su justicia.
 
-#### Nosotros fuimos identificados en el Hijo de Dios y <u>morimos</u> junto con Él por la fe en Él.
+##### Nosotros fuimos identificados en el Hijo de Dios y <u>morimos</u> junto con Él por la fe en Él.
 
-#### Ahora podemos vivir esta <u>nueva</u> vida, como justificados de Dios, solo por la fe también, por la fe en el Hijo de Dios. Colosenses 2:6
+##### Ahora podemos vivir esta <u>nueva</u> vida, como justificados de Dios, solo por la fe también, por la fe en el Hijo de Dios. Colosenses 2:6
 
-####  2:20d - *...el cual me amó y se entregó a sí mismo por mí.* 
-#### Ahora podemos andar por esta vida confiando en alguien, en el único Hijo de Dios, el cual nos amó, y su amor fue tan grande por <u>nosotros</u> que estuvo dispuesto a entregarse voluntariamente a la muerte en la cruz por el pago de todos nuestros pecados. Mateo 20:28; Juan 3:16, 10:10; Romanos 5:8, 8:37; 1 Juan 4:9-10
+####  ...el cual me amó y se entregó a sí mismo por mí.
+##### Ahora podemos andar por esta vida confiando en alguien, en el único Hijo de Dios, el cual nos amó, y su amor fue tan grande por <u>nosotros</u> que estuvo dispuesto a entregarse voluntariamente a la muerte en la cruz por el pago de todos nuestros pecados. Mateo 20:28; Juan 3:16, 10:10; Romanos 5:8, 8:37; 1 Juan 4:9-10
 
-#### Fue por la obra del Hijo, que <u>pudimos</u> ser justificados por la fe. Y ahora también es por la obra del Hijo que podemos gozar de una nueva vida, el viviendo en nosotros, y esto, solo andando por la fe en Él.
+##### Fue por la obra del Hijo, que <u>pudimos</u> ser justificados por la fe. Y ahora también es por la obra del Hijo que podemos gozar de una nueva vida, el viviendo en nosotros, y esto, solo andando por la fe en Él.
 
-Gal 2:21  No hago nula la gracia de Dios, porque si la justicia viene por medio de la ley, entonces Cristo murió en vano».
+### Gálatas 2:21
+No hago nula la gracia de Dios, porque si la justicia viene por medio de la ley, entonces Cristo murió en vano».
 
-#### No hago nula la gracia de Dios, porque si la justicia viene por medio de la ley, entonces Cristo murió en vano* 
+#### No hago nula la gracia de Dios, porque si la justicia viene por medio de la ley, entonces Cristo murió en vano
 ##### De esta manera, Pablo viviendo por la fe en el Hijo de Dios, no estaría despreciando la gracia de Dios provista en la persona y <u>obra</u> de Cristo por nosotros (1 Corintios 15:3-4; Gálatas 2:16, 20)
 
 ##### Fue por medio de la gracia de Dios en Cristo que fuimos justificados. Por medio de la Gracia de Dios en Cristo es que <u>ahora</u> podemos disfrutar de una nueva vida, como justos.
@@ -1013,20 +1004,23 @@ Gal 2:21  No hago nula la gracia de Dios, porque si la justicia viene por medio 
 
 ##### Los pasajes de Gálatas 2:16 al 21 podrían ser el mensaje general de la carta, ya que ahora Pablo pasará a explicar a detalle lo que acaba de mencionar, la justicia de Dios, la ley, la libertad en Cristo y la nueva vida del creyente en Cristo. Aclarará ¿Cómo es posible y de que trata?
 
-# Gálatas 3:1-14 - Jesucristo crucificado
+# Gálatas 3:1- 4:7 - Pablo argumenta para mostrar que la promesa precede y supera a la ley
 
 Al igual que en Antioquía en su momento, ahora los hermanos gálatas habían abandonado al <u>Dios</u> y Padre por seguir un evangelio extraño, cambiaron la verdad del Evangelio de Cristo. Gálatas 1:6
 
 Ahora Pablo pasará a <u>hablar</u> directamente a los hermanos gálatas.
 
-## Gálatas 3:1-6 - Dios haciendo milagros por medio de la fe o por las obras de la ley
+## Gálatas 3:1-5 - Empezaron por el Espíritu, no por la ley
 
-#### ¡Oh, gálatas insensatos!...* 
+### Gálatas 3:1  
+¡Oh, gálatas insensatos! ¿Quién los ha fascinado a ustedes, ante cuyos ojos Jesucristo fue presentado públicamente como crucificado?
+
+#### ¡Oh, gálatas insensatos!...
 ##### Insensato también podría traducirse como no <u>entendedor</u> o carente de entendimiento. Pablo estaba sorprendido por la manera tan necia en la que estaban actuando.
 
 ##### Ellos habían cambiado la verdad, el evangelio, por algo tan necio como ir por medio de las obras de la ley. Pablo les <u>hará</u> una serie de preguntes para que comprendan lo necios que estaban siendo.
 
-#### ...¿Quién los ha fascinado a ustedes, ante cuyos ojos Jesucristo fue presentado públicamente como crucificado?* 
+#### ...¿Quién los ha fascinado a ustedes, ante cuyos ojos Jesucristo fue presentado públicamente como crucificado?
 ##### Pablo les pregunta quien había sido el culpable del estado de ellos.
 
 ##### Pablo les había enseñado **claramente** la verdad, a Jesucristo y este crucificado. Cristo por medio de Su muerte en la cruz fue el <u>pago</u> por los pecados y la satisfacción de la ira de Dios. Solo Cristo crucificado era la Justicia de Dios manifestada para todo aquel que cree. 1 Corintios 1:18, 23-24, 2:2, 5
@@ -1034,28 +1028,37 @@ Ahora Pablo pasará a <u>hablar</u> directamente a los hermanos gálatas.
 ##### *¿Quién los ha fascinado...?* 
 ##### Pablo no dice que podrían ser engañados, ellos ya habían caído presas del engaño y esto no ocurrió por <u>falta</u> de conocimiento, ellos habían sido enseñados sobre Cristo.
 
-#### Esto es lo único que quiero averiguar de ustedes...* 
+### Gálatas 3:2  
+Esto es lo único que quiero averiguar de ustedes ¿Recibieron el Espíritu por las obras de la ley, o por el oír con fe?
+
+#### Esto es lo único que quiero averiguar de ustedes...
 ##### Pablo empezará a mostrarles por medio de preguntas lo necio que había sido abandonar el evangelio de Cristo crucificado y como el <u>mensaje</u> que creían iba en contra de la verdad de Dios.
 
-#### ...¿Recibieron el Espíritu por las obras de la ley, o por el oír con fe?* 
+#### ...¿Recibieron el Espíritu por las obras de la ley, o por el oír con fe?
 ##### Comienza preguntándoles cómo es que ellos habían recibido el Espíritu Santo.
 
 ##### Solo cuando la persona <u>escucha</u> y cree (oye con fe) la verdad del Evangelio llega a recibir el Espíritu Santo, y esto es solo obra de Dios, sin ninguna intervención humana. Efesios 1:13-14; Hechos 11:15-18
 
 ##### Esto lo sabían los hermanos gálatas y Pablo les recuerda que, de la manera que ellos fueron justificados, también habían <u>recibido</u> el Espíritu Santo, solo por haber **oído y creído** el Evangelio de Cristo, no por intentar cumplir la ley. Romanos 10:16-17
 
-#### ¿Tan insensatos son?...* 
+### Gálatas 3:3  
+¿Tan insensatos son? Habiendo comenzado por el Espíritu, ¿van a terminar ahora por la carne?
+
+#### ¿Tan insensatos son?...
 ##### Pablo vuelve enfatizar que era una total locura que hayan abandonado el evangelio y les vuelve a preguntar si eran así de <u>insensatos</u> ya que estaban pensando y actuando neciamente. ¿Porqué?
 
-#### ...Habiendo comenzado por el Espíritu,...* 
+#### ...Habiendo comenzado por el Espíritu,...
 ##### Ellos ya habían <u>comenzado</u> por el Espíritu, esto fue cuando creyeron el mensaje de Cristo crucificado y ahí fue cuando el Espíritu Santo comenzó a morar en ellos. 
 
-###### Pablo no duda de este hecho, lo que esta haciendo es recordarles la verdad acerca de ellos. Fue por la <u>obra</u> de Dios que ellos recibieron el Espíritu, por la fe, no por obra humana suya. Filipenses 1:6
+##### Pablo no duda de este hecho, lo que esta haciendo es recordarles la verdad acerca de ellos. Fue por la <u>obra</u> de Dios que ellos recibieron el Espíritu, por la fe, no por obra humana suya. Filipenses 1:6
 
-#### ...¿van a terminar ahora por la carne?* 
+#### ...¿van a terminar ahora por la carne?
 ##### La nueva vida que ellos comenzaron en Cristo por medio la fe, ser justificados y recibir el Espíritu fue solo por la obra y <u>poder</u> de Dios. Ahora ellos querían continuar y acabar lo que Dios comenzó por medio de su propio capacidad humana, tratando cumplir la ley.
 
-#### ¿Han padecido tantas cosas en vano? ¡Si es que en realidad fue en vano!* 
+### Gálatas 3:4  
+¿Han padecido tantas cosas en vano? ¡Si es que en realidad fue en vano!
+
+#### ¿Han padecido tantas cosas en vano? ¡Si es que en realidad fue en vano!
 ##### Pablo recuerda a los hermanos gálatas los <u>sufrimientos</u> que experimentaron.
 
 ##### Probablemente se refiera a los sufrimientos ocurridos por la persecución de parte de los <u>judíos</u> incrédulos, estos son mencionados en el primer viaje misionero de Pablo, como ser:
@@ -1074,17 +1077,20 @@ Ahora Pablo pasará a <u>hablar</u> directamente a los hermanos gálatas.
 
 ##### No, esos sufrimientos fueron por permanecer confiando en el evangelio de Jesucristo, fueron de provecho ya que fue por <u>causa</u> de la verdad, y Dios, el Espíritu Santo fue el que estuvo obrando en ellos a través de la verdad del evangelio. En realidad los sufrimientos no fueron en vano.
 
-#### Aquel, pues, que les suministra el Espíritu...* 
+### Gálatas 3:5  
+Aquel, pues, que les suministra el Espíritu y hace milagros entre ustedes, ¿lo hace por las obras de la ley o por el oír con fe?
+
+#### Aquel, pues, que les suministra el Espíritu...
 ##### Pablo les recuerda que Dios el Padre era el que les estaba proveyendo del poder del Espíritu <u>Santo</u>, no venía de ellos.
 
 ##### Pablo no solo se refiere a cuando Dios les dio el Espíritu cuando <u>creyeron</u> en el evangelio. Gálatas 3:2
 
 ##### Pablo indica una provisión presente, Dios, solo Él les <u>estaba</u> brindando de Su poder por medio del Espíritu. Juan 7:37
 
-#### ...y hace milagros entre ustedes,...* 
+#### ...y hace milagros entre ustedes,...
 ##### Habían milagros, maravillas entre los hermanos gálatas, pero no venían de ellos mismo, Dios <u>mismo</u> era el que realizaba esto en ellos y entre ellos.
 
-#### Aquel, pues,...¿lo hace por las obras de la ley o por el oír con fe?* 
+#### Aquel, pues,...¿lo hace por las obras de la ley o por el oír con fe?
 ##### Esta provisión de Dios de Su Espíritu y los <u>milagros</u> que Él hacía entre los hermanos, ¿Cómo eran posibles?
 
 ##### Los hermanos sabían cómo esto era posible y Pablo les recuerda que no era por medio de ellos tratando de <u>cumplir</u> la ley, por medio su capacidad o esfuerzo humano.
@@ -1097,108 +1103,131 @@ Ahora Pablo pasará a <u>hablar</u> directamente a los hermanos gálatas.
 
 ##### Cuando se menciona a Dios suministrando su Espíritu o Dios haciendo milagros, se nos vienen a la mente <u>cosas</u> como curación de enfermedades o señales sobrenaturales. Pero veamos lo que Pablo dirá a continuación.
 
-#### Así Abraham...* 
-##### Esto también <u>podría</u> traducirse como: *De la misma manera, Abraham...*. 
+## Gálatas 3:6-14 - El ejemplo de Abraham
+
+### Gálatas 3:6  
+Así Abraham CREYÓ A DIOS Y LE FUE CONTADO COMO JUSTICIA.
+
+#### Así Abraham...
+##### Esto también <u>podría</u> traducirse como: *De la misma manera, Abraham.... 
 
 ##### Pablo ahora mostrará un ejemplo a los hermanos gálatas, un ejemplo de Dios haciendo milagros, maravillas, pero en este caso en un <u>personaje</u> del Antiguo Testamento, Abraham.
 
-#### Así* [como] *Abraham CREYÓ A DIOS Y LE FUE CONTADO COMO JUSTICIA.* 
+#### Así [como] Abraham CREYÓ A DIOS Y LE FUE CONTADO COMO JUSTICIA. 
 ##### En Génesis 15:6 encontramos que Abraham el que también era injusto a los ojos de Dios, creyó a Dios y Él le atribuyo Su <u>justicia</u>, es decir, Abraham fue justificado por Dios por medio de la fe. Romanos 4:3-6
 
 ##### Jehová obro un milagro en Abraham. El hecho de que Abraham el pecador, el cual merecía una condena separado de Dios para <u>siempre</u> sea declarado sin culpa delante de Dios, es un milagro, un milagro que solo podía ser hecho por Dios.
 
 ##### De la misma manera Dios había hecho maravillas en cada uno de los gálatas desde el momento que ellos <u>creyeron</u> y fueron justificados por Dios. Y ellos podrían continuar experimentando de la justicia de Dios, de Sus maravillas, solo por la fe.
 
-## Gálatas 3:7-9 - Bendición para los de la fe
+##### Recordando el problema que surgía en los hermanos gálatas, ellos habían sido persuadidos a cambiar el evangelio, ignorando a <u>Cristo</u> crucificado (quien había provisto la justicia de Dios para todo aquel que cree en Él) y escogiendo vivir por medio de sus fuerzas tratando de cumplir la ley para alcanzar justicia.
 
-Recordando el problema que surgía en los hermanos gálatas, ellos habían sido persuadidos a cambiar el evangelio, ignorando a <u>Cristo</u> crucificado (quien había provisto la justicia de Dios para todo aquel que cree en Él) y escogiendo vivir por medio de sus fuerzas tratando de cumplir la ley para alcanzar justicia.
+##### Pablo comenzó Gálatas 3 mostrándoles como es que Dios les había dado el Espíritu Santo y como <u>obraba</u> milagros entre ellos, y como esto era solo por la fe, no por las obras de la ley.
 
-Pablo comenzó Gálatas 3 mostrándoles como es que Dios les había dado el Espíritu Santo y como <u>obraba</u> milagros entre ellos, y como esto era solo por la fe, no por las obras de la ley.
+##### Ahora Pablo continuará mostrando que Dios siempre estuvo justificando, proveyendo Su justicia a toda <u>persona</u> solo por medio de la fe, y utilizará a un personaje del Antiguo Testamento, Abraham.
 
-Ahora Pablo continuará mostrando que Dios siempre estuvo justificando, proveyendo Su justicia a toda <u>persona</u> solo por medio de la fe, y utilizará a un personaje del Antiguo Testamento, Abraham.
+*Y Abram creyó en el SEÑOR, y Él se lo reconoció por justicia.* Génesis 15:6
 
-*Y Abram creyó en el SEÑOR, y Él se lo reconoció por justicia.* Gálatas 15:6
+### Gálatas 3:7  
+Por tanto, sepan que los que son de fe, estos son hijos de Abraham.
 
-#### Por tanto, sepan que los que son de fe, estos son hijos de Abraham.* 
+#### Por tanto, sepan que los que son de fe, estos son hijos de Abraham.
 ##### Ya que Abraham fue <u>justificado</u> por Dios solo por medio de la fe y sin ningún tipo de obra, los hermanos gálatas deberían en entender que:
 
 ##### Los verdaderos hijos de Abraham eran simplemente todos los que tuvieron fe al igual que Abraham, esto incluía tanto a los <u>judíos</u> de nacimiento como a los gálatas gentiles. Romanos 4:11-12
 
 ##### Nadie es hijo de Abraham por lo que es, o por <u>seguir</u> la ley y la circuncisión. Mateo 3:9; Romanos 2:28
 
-#### La Escritura, previendo que Dios justificaría a los gentiles por la fe,...* 
+### Gálatas 3:8  
+La Escritura, previendo que Dios justificaría a los gentiles por la fe, anunció de antemano las buenas nuevas a Abraham, diciendo: «EN TI SERÁN BENDITAS TODAS LAS NACIONES».
+
+#### La Escritura, previendo que Dios justificaría a los gentiles por la fe,...
 ##### El hecho de que los gentiles (no judíos) sean justificados por la fe siempre estuvo dentro de los planes de Dios, nunca fue diferente, y Dios lo <u>había</u> estado revelando.
 
-#### ...anunció de antemano las buenas nuevas a Abraham, diciendo: EN TI SERÁN BENDITAS TODAS LAS NACIONES.*
+#### ...anunció de antemano las buenas nuevas a Abraham, diciendo: EN TI SERÁN BENDITAS TODAS LAS NACIONES.
 ##### Pablo muestra el ser <u>declarado</u> justo como una bendición de Dios. 
 
 ##### Dios había revelado siglos atrás estas buenas noticias a Abraham (Génesis 12:3). La buena noticia es que esta bendición en él era para <u>todas</u> las naciones (gentiles), y también sería para los gálatas.
 
 ##### ¿Cómo la bendición era en Abraham? ¿Qué <u>significa</u> ser hijo de Abraham? Pablo lo aclarará un poco más adelante.
 
-#### Así que, los que son de la fe son bendecidos con Abraham, el creyente.* 
+### Gálatas 3:9  
+Así que, los que son de la fe son bendecidos con Abraham, el creyente.
+
+#### Así que, los que son de la fe son bendecidos con Abraham, el creyente.
 ##### Entonces, solo la persona que cree es bendecida (justificada) al igual que el bendecido (justificado) Abraham, el <u>cual</u> simplemente creyó a Dios y Dios hizo un milagro en él.
 
 ##### Esta bendición, la justicia de Dios siempre fue provista para todos, judíos y gentiles por medio de la fe, <u>incluso</u> desde el Antiguo Testamento.
 
-## Gálatas 3:10-12 - Maldición para los de la ley
+### Gálatas 3:10  
+Porque todos los que son de las obras de la ley están bajo maldición, pues escrito está: «MALDITO TODO EL QUE NO PERMANECE EN TODAS LAS COSAS ESCRITAS EN EL LIBRO DE LA LEY, PARA HACERLAS».
 
-#### Porque todos los que son de las obras de la ley están bajo maldición,...* 
+#### Porque todos los que son de las obras de la ley están bajo maldición,...
 ##### Las palabras *...los que son de...* también <u>puede</u> ser traducido como *...los que dependen de...*.
 
 ##### Al igual que **todos** los de la fe, los que <u>creen</u>, son los que reciben de la bendición de Dios (justificación).
 
 ##### De la misma manera, **todos** los que dependen de las obras de la ley, los que quieren llegar a ser justificados por <u>medio</u> de su propia obra o esfuerzo, solo hay un resultado para ellos, están bajo maldición. ¿Porqué?
 
-#### ...pues escrito está: MALDITO TODO EL QUE NO PERMANECE EN TODAS LAS COSAS ESCRITAS EN EL LIBRO DE LA LEY, PARA HACERLAS.* 
+#### ...pues escrito está: MALDITO TODO EL QUE NO PERMANECE EN TODAS LAS COSAS ESCRITAS EN EL LIBRO DE LA LEY, PARA HACERLAS. 
 #### Pablo cita Deuteronomio 27:26 para mostrar que toda persona que no cumpla con todo lo que esta escrito en la ley <u>entonces</u> es maldito delante de Dios y merece la muerte.
 
 ##### Al igual que la bendición de Dios ya estaba revelada desde el Antiguo Testamento, Pablo no estaba <u>mostrando</u> algo nuevo aquí, la maldición para todo aquel que dependía de la ley ya había sido revelado por el Señor. 
 
 ##### El que depende de la ley para obtener justicia, esta obligado a cumplir cada mandamiento de la ley, pero como eso es imposible, Pablo <u>muestra</u> que quienes dependen de la ley inevitablemente están bajo maldición, separados de Dios y bajo Su ira. Santiago 2:10; Romanos 4:15
 
-#### Y que nadie es justificado ante Dios por la ley es evidente, porque EL JUSTO VIVIRÁ POR LA FE.* 
+### Gálatas 3:11  
+Y que nadie es justificado ante Dios por la ley es evidente, porque «EL JUSTO VIVIRÁ POR LA FE».
+
+#### Y que nadie es justificado ante Dios por la ley es evidente, porque EL JUSTO VIVIRÁ POR LA FE.
 ##### Ninguna persona (judía o gentil) jamás podrá ser justificada (bendecida) delante de Dios por medio de las obras de la ley, es mas, esto solo <u>traería</u> maldición para las persona. Gálatas 2:16
 
 ##### Esto es algo que el Señor dejo claro, nunca lo oculto, y Pablo cita un pasaje de la palabra de Dios <u>mostrando</u> esta realidad en Habacuc 2:4b, otro pasaje del Antiguo Testamento.
 
 ##### El justo delante de Dios no vivirá por las obras de la ley que hizo o hará, el justo solo vivirá por la fe, esto no solo habla de la <u>posición</u> justa por medio de Dios en un momento en el pasado, sino una relación restaurada en la Justicia de Dios, para siempre. Dios siempre dejo en claro que las personas pueden ser provistas de Su justicia solo por medio de la fe.
 
-#### Sin embargo, la ley no se basa en la fe. Al contrario, EL QUE LAS HACE, VIVIRÁ POR ELLAS.* 
+### Gálatas 3:12  
+Sin embargo, la ley no se basa en la fe. Al contrario, «EL QUE LAS HACE, VIVIRÁ POR ELLAS».
+
+#### Sin embargo, la ley no se basa en la fe. Al contrario, EL QUE LAS HACE, VIVIRÁ POR ELLAS.
 ##### Pablo dice que la ley no tiene <u>ninguna</u> relación con la fe. El hecho de ir por medio de las obras de la ley para llegar a se justificado, no tiene ninguna relación con simplemente creer.¿Porqué?
 
 ##### Porque la ley se trata de que la <u>persona</u> haga la ley, la cumpla, solo vivirá por lo que hace, no por la fe.
 
 ##### El hecho de que una persona diga que tiene fe, pero su confianza depende de cumplir las obras de la ley, delante de Dios en <u>realidad</u> esta yendo por obras y no por la fe. Romanos 4:4-5
 
-## Gálatas 3:13-14 - La Bendición de Abraham por medio de Cristo crucificado
+##### Desde Gálatas 3:6-12 Pablo estuvo <u>mostrando</u> la bendición de Dios para todo aquel que cree y la maldición de Dios para todo aquel que depende de las obras de la ley.
 
-Desde Gálatas 3:6-12 Pablo estuvo <u>mostrando</u> la bendición de Dios para todo aquel que cree y la maldición de Dios para todo aquel que depende de las obras de la ley.
+##### Cada persona desde Adán, Abraham, Pablo, los hermanos gálatas, incluso nosotros y también las personas que <u>existirán</u>, todos nacemos separados de Dios, somos hijos de ira, estamos muertos en nuestros pecados delante de Él. Efesios 2:1-2
 
-Cada persona desde Adán, Abraham, Pablo, los hermanos gálatas, incluso nosotros y también las personas que <u>existirán</u>, todos nacemos separados de Dios, somos hijos de ira, estamos muertos en nuestros pecados delante de Él. Efesios 2:1-2
+##### Y en Gálatas 3:10-12 nos muestra que también <u>estamos</u> malditos delante de Dios, que somos injustos sin ninguna esperanza de salvarnos, de vernos justos delante suyo. Romanos 3:19-20
 
-Y en Gálatas 3:10-12 nos muestra que también <u>estamos</u> malditos delante de Dios, que somos injustos sin ninguna esperanza de salvarnos, de vernos justos delante suyo. Romanos 3:19-20
+##### Pablo quería que los gálatas comprendieran esto, ahora volverá a dirigirse a ellos nuevamente para <u>mostrarles</u> la verdadera solución a este problema.
 
-Pablo quería que los gálatas comprendieran esto, ahora volverá a dirigirse a ellos nuevamente para <u>mostrarles</u> la verdadera solución a este problema.
+### Gálatas 3:13  
+Cristo nos redimió de la maldición de la ley, habiéndose hecho maldición por nosotros, porque escrito está: «MALDITO TODO EL QUE CUELGA DE UN MADERO»,
 
-#### Cristo nos redimió de la maldición de la ley,...* 
+#### Cristo nos redimió de la maldición de la ley,...
 ##### Pablo también se incluye en esta declaración, él y también los hermanos gálatas habían sido redimidos, <u>liberados</u> de la maldición de la ley.
 
 ##### Pablo no dice que deberían buscar ser liberados de la maldición de la ley, ellos ya habían sido liberados, pero no fue por <u>ellos</u> mismo. El que los había rescatado de la maldición de la ley, y de tener que pagarlo con la muerte, fue solamente Cristo. Creyente esto también es para ti ¿Cómo lo hizo Cristo?
 
-#### ...habiéndose hecho maldición por nosotros, porque escrito está: MALDITO TODO EL QUE CUELGA DE UN MADERO,* 
+#### ...habiéndose hecho maldición por nosotros, porque escrito está: MALDITO TODO EL QUE CUELGA DE UN MADERO,
 ##### El mismo Señor Jesucristo quien voluntariamente decidió sufrir la maldición de la ley por nosotros. Se hizo maldito (cargó la <u>maldición</u> del pecado) cuando fue crucificado, pagando por todas nuestras transgresiones. Romanos 4:25
 
 ##### Dios el Padre no ignoro el castigo por los pecados, las transgresiones de las personas, esa maldición <u>mostrada</u> por la ley tenía que ser pagada y Cristo voluntariamente decidió pagar el precio, muriendo en un madero. Hebreos 10:4-10
 
-#### a fin de que en Cristo Jesús la bendición de Abraham viniera a los gentiles,...* 
+### Gálatas 3:14  
+a fin de que en Cristo Jesús la bendición de Abraham viniera a los gentiles, para que recibiéramos la promesa del Espíritu mediante la fe.
+
+#### a fin de que en Cristo Jesús la bendición de Abraham viniera a los gentiles,...
 ##### En Gálatas 3:6-9 vimos que la bendición de Abraham (la justificación) también era para todos los gentiles que creyeran. <u>Ahora</u> vemos que la bendición de Abraham era por medio de Cristo.
 
 ##### Solo mediante la obra de Cristo en la cruz (Su padecimiento por la maldición de la ley) que todas las naciones podían ser <u>bendecidas</u> (justificadas) en Abraham, por medio de Cristo.
 
 ##### Solo hay una manera de ser salvados de la maldición de la ley y es por medio de Cristo, quien se ofreció para <u>pagar</u> por el castigo de nuestras transgresiones. Hechos 4:12; 1 Timoteo 2:4-6
 
-#### ...para que recibiéramos la promesa del Espíritu mediante la fe.* 
+#### ...para que recibiéramos la promesa del Espíritu mediante la fe.
 ##### Es por medio de Cristo <u>liberándonos</u> de la maldición de la ley y proveyéndonos bendición (justificación) que ahora también todo aquel que cree recibe el Espíritu Santo que Dios había prometido. Gálatas 3:2
 
 ##### Cristo había prometido que todo creyente recibiría el Espíritu Santo por medio de la fe, y es algo que el Señor estuvo <u>cumpliendo</u>, mas adelante Pablo mostrará la obra del Espíritu Santo en el creyente, ahora nos muestra que solo por medio de la obra de Cristo es que nos fue provisto. Juan 7:39
@@ -1209,11 +1238,12 @@ Pablo quería que los gálatas comprendieran esto, ahora volverá a dirigirse a 
 
 ##### La ley no es la culpable de la maldición hacía la persona, sino que el culpable es la persona tratando de ser justo por la ley ya que solo <u>cometerá</u> transgresión y traerá mas maldición hacía él mismo. Pero Dios no dio la ley para ser justos, el proveyó solo la fe para ser justos. Dios no estaría en el error, sino la persona que depende de un medio erróneo para ser justos.
 
-# Gálatas 3:15-4:7 - Hijos y herederos por medio de Dios
+## Gálatas 3:15-18 - La promesa vino antes que la ley
 
 Fue por medio de la fe en Cristo Jesús que recibimos la promesa del Espíritu Santo, Pablo continuará <u>mostrando</u> a los hermanos gálatas lo que fue provisto por Dios en Cristo, y comenzará a explicar lo que significa una promesa, como Dios ve y da Sus promesas.
 
-## Gálatas 3:15-18 - Herencia por medio de una promesa
+### Gálatas 3:15  
+Hermanos, hablo en términos humanos. Un pacto, aunque sea humano, una vez ratificado nadie lo invalida ni le añade condiciones.
 
 #### Hermanos, hablo en términos humanos....* 
 ##### Pablo quiere que los hermanos vayan comprendiendo lo que les a sido provisto y cómo les a sido provisto. Para eso utilizará un <u>ejemplo</u> humano, cotidiano para ejemplificar una realidad espiritual.
@@ -1228,12 +1258,18 @@ Fue por medio de la fe en Cristo Jesús que recibimos la promesa del Espíritu S
 #### ...nadie lo invalida ni le añade condiciones.
 ##### Pablo les recuerda a los gálatas que un pacto que a sido ratificado (confirmado), nadie ni nada puede anularlo, ni tampoco es <u>posible</u> quitar o añadir condiciones al cumplimiento del pacto. Como a sido ratificado (confirmado) debe cumplirse.
 
+### Gálatas 3:16  
+Ahora bien, las promesas fueron hechas a Abraham y a su descendencia. No dice: «y a las descendencias», como refiriéndose a muchas, sino más bien a una: «y a tu descendencia», es decir, Cristo.
+
 #### Ahora bien, las promesas fueron hechas a Abraham y a su descendencia. No dice: y a las descendencias, como refiriéndose a muchas, sino más bien a una: y a tu descendencia, es decir, Cristo. 
 ##### En base al tema de pactos, ahora Pablo lo utilizará para <u>enseñar</u> algo referente un pacto hecho a Abraham:
 
 ##### Una promesa era lo que un pacto declaraba que se concedería. En este caso, Dios había hecho promesas a Abraham, <u>cosas</u> que Dios concedería a Abraham, pero no solo a Abraham sino también a su simiente, su descendiente, el cual es Cristo. Génesis 12:1-3, 13:14-17, 15:18, 17:1-14, 22:15-18
 
 ##### Estas promesas fueron de Dios hacia Abraham, no Abraham hacia Dios. Todas las promesas eran en base a un solo <u>pacto</u> como veremos en el siguiente versículo.
+
+### Gálatas 3:17  
+Lo que digo es esto: la ley, que vino 430 años más tarde, no invalida un pacto ratificado anteriormente por Dios, como para anular la promesa.
 
 #### Lo que digo es esto:...
 ##### En base a la promesa de Dios hacia Abraham <u>mencionada</u> anteriormente, Pablo quiere explicar algo.
@@ -1249,6 +1285,9 @@ Fue por medio de la fe en Cristo Jesús que recibimos la promesa del Espíritu S
 ##### Como el pacto ratificado por Dios a Abraham no podía ser invalidado, tampoco la promesa que contenía podía ser <u>anulada</u>.
 
 ##### La ley no tuvo ningún efecto para invalidar o modificar la promesa de Dios hacia Abraham. La promesa no dependía de la ley ni tampoco de Abraham mismo. Esta promesa solo dependía de Dios el <u>cual</u> era el que había ratificado el pacto, él era el que se encargaría de que el pacto se cumpliese.
+
+### Gálatas 3:18  
+Porque si la herencia depende de una ley, ya no depende de una promesa; pero Dios se la concedió a Abraham por medio de una promesa.
 
 #### Porque si la herencia depende de una ley, ya no depende de una promesa;...
 ##### La herencia es el resultado de lo prometido en el pacto hacia Abraham, pero suponiendo que la herencia era obtenida por medio de la ley, entonces no tendría sentido la promesa que Dios había hecho. Si Abraham <u>podía</u> obtener la herencia por medio de la ley, en vano sería la promesa de Dios.
@@ -1266,11 +1305,14 @@ Fue por medio de la fe en Cristo Jesús que recibimos la promesa del Espíritu S
 
 ##### Esta <u>herencia</u> (justificación) para Abraham, no dependía de su cumplimiento de la ley ni de ninguna cosa de parte Abraham. Ya que Dios fue el que prometió y confirmo Su pacto, la herencia dependía solamente de la promesa de Dios, sin nada a cambio, sin ninguna intervención humana, solo de Dios. Gálatas 3:14
 
-## Gálatas 3:19-22 - Naturaleza y propósito de la ley
+## Gálatas 3:19-25 - ¿Para qué fue dada la ley?
 
 Pablo comenzará a aclarar lo que es una promesa, ya que fue por <u>medio</u> de promesa a Abraham que él fue heredero. Abraham no fue heredero por medio de una promesa de Abraham hacia Dios, o merito de Abraham en algún sentido, peor aún por medio de cumplir la ley.
 
 Entonces esto puede <u>traer</u> algunas preguntas legitimas a los hermanos, preguntas que Pablo se adelantará en responder.
+
+### Gálatas 3:19  
+Entonces, ¿para qué fue dada la ley? Fue añadida a causa de las transgresiones, hasta que viniera la descendencia a la cual había sido hecha la promesa, ley que fue promulgada mediante ángeles por mano de un mediador.
 
 #### Entonces, ¿para qué fue dada la ley?... 
 ##### Si, la ley no tiene ningún efecto ante la promesa, no la invalida, ni añade nada. Tampoco es por medio de la ley que se <u>obtiene</u> la herencia. Entonces ¿Cual sería el propósito de la ley?
@@ -1292,6 +1334,9 @@ Entonces esto puede <u>traer</u> algunas preguntas legitimas a los hermanos, pre
 
 ##### La interacción entre el pueblo de Israel y Dios cuando la ley fue promulgada no fue directa, hubo un mediador, Moisés. Éxodo 24:2-3
 
+### Gálatas 3:20  
+Ahora bien, un mediador no representa a uno solo, pero Dios es uno solo.
+
 #### Ahora bien, un mediador no representa a uno solo, pero Dios es uno solo. 
 ##### Moisés fue el mediado entre Dios e Israel, entre dos partes en la <u>promulgación</u> de la ley. Pero cuando Dios hizo las promesas a Abraham no hubo mediador, ya que solo Dios es el que realizo la promesa.
 
@@ -1301,6 +1346,9 @@ Entonces esto puede <u>traer</u> algunas preguntas legitimas a los hermanos, pre
 
 ##### Cuando la ley fue dada, fue promulgada por medio de ángeles y había un mediador (Moisés) entre Dios e Israel (Gálatas 3:19). En el caso de Abraham, Dios mismo hizo la promesa a Abraham, Dios mismo ratifico el pacto, Dios mismo sería el que se encargaría de cumplir lo que Él <u>mismo</u> prometió. Claras diferencias entre lo que representa la ley y la promesa.
 
+### Gálatas 3:21  
+¿Es entonces la ley contraria a las promesas de Dios? ¡De ningún modo! Porque si se hubiera dado una ley capaz de impartir vida, entonces la justicia ciertamente hubiera dependido de la ley.
+
 #### ¿Es entonces la ley contraria a las promesas de Dios? ¡De ningún modo!... 
 ##### Entonces podríamos llegar a la conclusión de que la ley esta en contra de la promesa de Dios, Pablo responde que no. Vemos que la ley y la promesa de Dios son diferentes, pero no <u>significa</u> que haya algún conflicto entre ambas. ¿Porqué?
 
@@ -1308,6 +1356,9 @@ Entonces esto puede <u>traer</u> algunas preguntas legitimas a los hermanos, pre
 ##### Si Dios hubiese dado una la ley que pudiera dar vida a la persona, entonces su justificación hubiese dependido de si la persona <u>cumplía</u> la ley.
 
 ##### Si eso fuese cierto la fe no sería la única razón para que el justo viva, sino también podría ser por <u>medio</u> de las obras de la ley, también habría un conflicto entre lo que Pablo había explicado anteriormente. Gálatas 3:11-12
+
+### Gálatas 3:22  
+Pero la Escritura lo encerró todo bajo pecado, para que la promesa que es por la fe en Jesucristo fuera dada a todos los que creen.
 
 #### Pero la Escritura lo encerró todo bajo pecado,... 
 ##### Pablo aclara que en la Escritura, la palabra de Dios no muestra que la ley provea vida o justicia. La Escritura muestra que la primera condición de <u>todos</u> es que estamos bajo pecado, todos (judíos o no judíos) somos pecadores y transgresores delante de Él. Romanos 3:9-18, 5:12
@@ -1317,9 +1368,10 @@ Entonces esto puede <u>traer</u> algunas preguntas legitimas a los hermanos, pre
 
 ##### La ley y la promesa no entran en conflicto ya que Dios muestra que solo por medio de la fe en Jesucristo es que se recibe la promesa, la justicia, la vida. Pablo ira explicando mas de que trata esta promesa que Dios <u>proveyó</u> que por la fe en Jesucristo y como Dios utiliza la ley en Sus propositos.
 
-## Gálatas 3:23-25 - La ley utilizada por Dios para llevarnos a Cristo
+### Gálatas 3:23  
+Antes de venir la fe, estábamos encerrados bajo la ley, confinados para la fe que había de ser revelada.
 
-#### Antes de venir la fe, estábamos encerrados bajo la ley,...* 
+#### Antes de venir la fe, estábamos encerrados bajo la ley,...
 ##### Ahora Pablo les recuerda su antigua condición, Pablo también se incluye.
 
 ##### Encerrados en griego FROURÉO, es un <u>termino</u> militar que enfatiza confinar a alguien o mantener bajo vigilancia. Enfatiza que la ley era nuestro vigilante, no con un sentido de destrucción sino con un sentido positivo.
@@ -1337,35 +1389,47 @@ Confinados - SUNKLEÍO
 #### ...para la fe que había de ser revelada. 
 ##### La condición en la cual nos encontrábamos por medio de la ley como vigilados en <u>incapaces</u> era con el propósito de que nos sea manifestada solo una cosa, la fe, el mensaje del Evangelio en el cual pudimos creer, y la ley no lo impediría.
 
-#### De manera que la ley ha venido a ser nuestro guía para conducirnos a Cristo,...* 
+### Gálatas 3:24  
+De manera que la ley ha venido a ser nuestro guía para conducirnos a Cristo, a fin de que seamos justificados por la fe.
+
+#### De manera que la ley ha venido a ser nuestro guía para conducirnos a Cristo,...
 ##### Entonces, Dios estableció la ley como un guía, el cual en base a lo que nos muestra nuestra realidad (pecadores, <u>injustos</u> e incapaces) también a la vez nos guía a un único camino, una única solución a nuestra condición de enemistad delante de Dios, nos guio a nuestro Señor Cristo. ¿Porqué a Cristo?
 
-#### ...a fin de que seamos justificados por la fe.* 
+#### ...a fin de que seamos justificados por la fe.
 ##### Dios utilizó la ley para conducirnos a Cristo porque solo por medio de Cristo es que pudimos ser declarados justos delante Él por <u>medio</u> de la fe.
 
-#### Pero ahora que ha venido la fe,...* 
+### Gálatas 3:25  
+Pero ahora que ha venido la fe, ya no estamos bajo el guía.
+
+#### Pero ahora que ha venido la fe,...
 ##### Pablo continua dirigiéndose a los <u>hermanos</u> gálatas y continúa incluyéndose en estas declaraciones.
 
 ##### Ahora que ellos habían sido guiados por la ley a Cristo y justificados por medio de la fe. ¿Qué es lo que ahora pasa con la ley <u>para</u> Pablo y los gálatas (personas ya justificadas)?
 
-#### ...ya no estamos bajo el guía.* 
+#### ...ya no estamos bajo el guía.
 ##### Ellos ya no estaban bajo el guía, el que les había <u>llevado</u> a Cristo, ya había llegado la fe. Gálatas 3:23 ¿Porqué ya no estaban bajo la ley?
 
-## Gálatas 3:26-29 - La nueva identidad del creyente en Cristo
+## Gálatas 3:26-4:7 - Ahora somos hijos y herederos
 
-#### Pues todos ustedes son hijos de Dios mediante la fe en Cristo Jesús.* 
+### Gálatas 3:26  
+Pues todos ustedes son hijos de Dios mediante la fe en Cristo Jesús.
+
+#### Pues todos ustedes son hijos de Dios mediante la fe en Cristo Jesús.
 ##### Pablo y los gálatas ya no estaban <u>vigilados</u> ni confinados por la ley, tampoco eran vistos como injustos delante de Dios. Y esto era porque ahora ellos eran hijos de Dios y fue solo por medio de la fe en Cristo Jesús. Juan 1:12-13; 1 Juan 3:1
 
 ##### Es importante notar, que Pablo nunca <u>ataco</u> a la ley o la desmerito, el estuvo mostrando el propósito de la ley y cómo Dios la utiliza para el mundo perdido con el propósito de llevarlos a la fe en Su Hijo Jesucristo. 
 
 ##### Ahora el creyente en Jesucristo ya no esta bajo la ley en una vida llena de acusaciones, condenación y maldición, ya que a <u>los</u> ojos de Dios el creyente en Cristo ahora es justo, es Su hijo. ¿Porqué ahora el creyente es hijo de Dios?
 
-#### Porque todos los que fueron bautizados en Cristo,...* 
+### Gálatas 3:27  
+Porque todos los que fueron bautizados en Cristo, de Cristo se han revestido.
+
+#### Porque todos los que fueron bautizados en Cristo,...
 ##### Todos los que han creído en Jesucristo son <u>hijos</u> de Dios y todos son hijos Dios porque todos han sido bautizados en Cristo, Pablo da esta declaración incluyendo a todo creyente.
 
 ##### Todo persona que cree en el Evangelio de Cristo es sellado por el <u>Espíritu</u> Santo en la persona de Cristo, es bautizado (identificado) en Cristo. Romanos 6:3; Efesios 1:13-14; 1 Corintios 12:13
 
-#### ...de Cristo se han revestido.* 
+#### ...de Cristo se han revestido.
 ##### Todo creyente a sido bautizado en Cristo, por lo que también todo creyente a sido revestido de Cristo, <u>Pablo</u> no pone en duda esta realidad para algunos, el da por hecho que es real para todos los creyentes.
 
 ##### Nótese que el <u>versículo</u> no indica que debían vestirse de Cristo, ellos estaban revestidos de Cristo porque habían sido bautizados en Cristo.
@@ -1373,6 +1437,9 @@ Confinados - SUNKLEÍO
 ##### En el primer <u>siglo</u> ser revestido enfatizaba ser vestido de alguna ropa nueva, la cual podría indicar un cambio de estatus o identidad. 
 
 ##### En este caso, Pablo no dice que todo creyente en <u>Jesucristo</u> fue vestido de alguna ropa, sino que fue revestido de Cristo mismo, ahora le ha sido otorgado de lo que solo posee Cristo, ser un hijo de Dios y también lo que Pablo continuará mostrando en los siguientes versículos.
+
+### Gálatas 3:28  
+No hay judío ni griego; no hay esclavo ni libre; no hay hombre ni mujer, porque todos son uno en Cristo Jesús.
 
 #### No hay judío ni griego; no hay esclavo ni libre; no hay hombre ni mujer, porque todos son uno en Cristo Jesús.
 ##### Al ser revestidos de Cristo, identificados en Él, no hay <u>distinción</u> entre ningún tipo de persona:
@@ -1384,6 +1451,9 @@ Confinados - SUNKLEÍO
 ##### Hombre o <u>mujer</u>, no hay diferencia entre los géneros.
 
 ##### La igualdad no viene por <u>medio</u> de obra humana o deseo humano. Todos fuimos pecadores los cuales merecíamos la muerte eterna, todos pecadores acusados por la ley, que al creer en Jesucristo, fuimos identificados con Él y en Él no hay distinción, somos uno en Él. 
+
+### Gálatas 3:29  
+Y si ustedes son de Cristo, entonces son descendencia de Abraham, herederos según la promesa.
 
 #### Y si ustedes son de Cristo,...
 ##### Pablo estuvo identificando a los creyentes como <u>bautizados</u> en Cristo, revestidos de Cristo (Gálatas 3:27), los que están en Cristo (Gálatas 2:28) y ahora como los que son de Cristo.
@@ -1407,17 +1477,21 @@ Confinados - SUNKLEÍO
 
 ##### Esto solo es por <u>medio</u> de la fe en Cristo Jesús, y no por las obras de la ley.
 
-## Gálatas 4:1-7 - La adopción como hijos por medio del Hijo
+### Gálatas 4:1  
+Digo, pues: mientras el heredero es menor de edad, en nada es diferente del siervo, aunque sea el dueño de todo,
 
 #### Digo, pues:...
 ##### Pablo había mencionado en Gálatas 3:25-26, 29 que los <u>creyentes</u> ya no estaban bajo la ley, porque ahora eran hijos de Dios y herederos, esto por medio de la fe en Jesucristo. 
 
-##### Ahora Pablo explicará cómo Dios hizo <u>posible</u> la herencia y la adopción como hijos utilizando como ejemplo una realidad legal y social del mundo grecorromano del primer siglo.
+##### Ahora Pablo explicará cómo Dios hizo <u>posible</u> la herencia y la adopción como hijos utilizando como ejemplo una realidad le### Gálatas y social del mundo grecorromano del primer siglo.
 
 #### ...mientras el heredero es menor de edad, en nada es diferente del siervo, aunque sea el dueño de todo,
 ##### Uno podía ser declarado como heredero pero aún ser <u>considerado</u> como un inmaduro NÉPIOS (menor de edad) legalmente hablando ya sea por la ley o por el padre mismo.
 
 ##### Entonces en esta <u>condición</u> (menor de edad) el trato del heredero en la practica no sería diferente a la de un siervo, ya que también estaría sujeto a ordenes, aún si el heredero era receptor de todo lo perteneciente a al padre. Es importante notar la palabra mientras esto indica que no era un estado permanente.
+
+### Gálatas 4:2  
+sino que está bajo guardianes y tutores hasta la edad señalada por el padre.
 
 #### sino que está bajo guardianes y tutores hasta la edad señalada por el padre.
 ##### El heredero no sería visto, ni tratado, ni con la <u>capacidad</u> de ejercer como el dueño, su condición sería como la de un esclavo, bajo ordenes de:
@@ -1429,15 +1503,21 @@ Confinados - SUNKLEÍO
 #### ..hasta la edad señalada por el padre.
 ##### El cambio de esta posición del <u>heredero</u> (como menor de edad) para que pueda tener plena libertad de decisión y libertad de estar bajo sujeción no dependía de él mismo, sino del tiempo en que el padre lo fuera a decidir.
 
+### Gálatas 4:3  
+Así también nosotros, mientras éramos niños, estábamos sujetos a servidumbre bajo las cosas elementales del mundo.
+
 #### Así también nosotros, mientras éramos niños [NÉPIOS], estábamos sujetos a servidumbre bajo las cosas elementales del mundo.
 ##### Pablo y los hermanos gálatas también en un tiempo pasado fueron como menores de edad (inmaduros) y en esa condición también <u>estarían</u> sujetos a obediencia a:
 
-#### *Cosas elementales del mundo 
+#### Cosas elementales del mundo 
 
 Elementales (STOIJEÍON) 
 : significa principio básico, o algo elemental. En este <u>contexto</u> enfatiza algo algo rudimentario, algo que es incompleto. 
 
 ##### Pablo recuerda a los creyentes que eran incapaces de cualquier cosa delante de Dios, ellos solo <u>estuvieron</u> sirviendo, estaban bajo obediencia a las cosas incompletas, cosas sin propósito que pertenecían al mundo, no a Dios.
+
+### Gálatas 4:4  
+Pero cuando vino la plenitud del tiempo, Dios envió a Su Hijo, nacido de mujer, nacido bajo la ley,
 
 #### Pero cuando vino la plenitud del tiempo, Dios envió a Su Hijo,...
 ##### Luego de mostrar el estado de incapacidad y esclavitud en la cual se encontraban, Pablo ahora hará un contraste a esta <u>triste</u> situación. Cuando llegó el momento indicado, Dios entra en escena, Él envía a Su Hijo. 
@@ -1448,6 +1528,9 @@ Elementales (STOIJEÍON)
 ##### Dios envió a Su Hijo como nacido bajo la ley y vivió bajo ella <u>cumpliéndola</u> de manera perfecta durante toda su estadía en la tierra. Mateo 5:17
 
 ##### ¿Porqué Dios envió a Su Hijo nacido de <u>mujer</u> y nacido bajo la ley?
+
+### Gálatas 4:5  
+a fin de que redimiera a los que estaban bajo la ley, para que recibiéramos la adopción de hijos.
 
 #### a fin de que redimiera a los que estaban bajo la ley,...
 ##### Dios envió a Su Hijo como <u>humano</u> y bajo la obediencia de la ley para poder liberar a los humanos que estaban bajo la obediencia de la ley.
@@ -1463,12 +1546,18 @@ Elementales (STOIJEÍON)
 #### ...para que recibiéramos la adopción de hijos.
 ##### Cristo nos liberó de estar bajo la ley, con el <u>propósito</u> recibir la adopción como hijos, es de notar que la adopción no es algo que la persona gana, sino que es recibido gratuitamente para todo aquel que a sido redimido por medio del Hijo. Todo aquel que es adoptado, ya ha sido hecho libre de la ley. ¿Hijos de quién?
 
+### Gálatas 4:6  
+Y porque ustedes son hijos, Dios ha enviado el Espíritu de Su Hijo a nuestros corazones, clamando: «¡Abba! ¡Padre!».
+
 #### Y porque ustedes son hijos, Dios ha enviado el Espíritu de Su Hijo a nuestros corazones, clamando: ¡Abba! ¡Padre!.
 ##### ¿Cómo sabemos que ahora somos hijos de Dios? <u>Porque</u> hemos recibido el Espíritu del Hijo de Dios.
 
 ##### Por medio de Cristo, fuimos liberados de la obediencia obligatoria de la ley, y por ser liberados ahora fuimos <u>adoptados</u> como hijos de Dios, y por ser hijos Dios envió el Espíritu de Cristo a nuestros corazones. Desde Gálatas 1:1-4 que Pablo no se dirigía a Dios como Padre.
 
 ##### Esa de cercana es la relación que ahora goza cada creyente para con Dios, ya no es de condenación ya que a sido liberado de la ley que lo <u>condenaba</u> al transgredirla. Ahora todo creyente tiene una relación de Padre a hijo con Dios.
+
+### Gálatas 4:7  
+Por tanto, ya no eres siervo, sino hijo; y si hijo, también heredero por medio de Dios.
 
 #### Por tanto, ya no eres siervo, sino hijo; y si hijo, también heredero por medio de Dios.
 ##### En conclusión ya no eres esclavo, eso eras cuando estabas bajo la ley, bajo los rudimentos de este mundo, Pablo no esta <u>diciendo</u> que la ley no tiene ningún propósito (Gálatas 3:23-24).
@@ -1483,11 +1572,14 @@ Elementales (STOIJEÍON)
 
 ##### La herencia no puede ser posible y no tendría sentido si no es por medio de Cristo ya que gracias a el fuimos <u>redimidos</u> y adoptados como hijos. Es lo que ahora somos hijos y nunca más esclavos.
 
-# Gálatas 4:8-31 - Esclavitud por engaño y Libertad por la verdad
+# Gálatas 4:8-31 - Pablo advierte de Volver a la esclavitud
 
-## Gálatas 4:8-11 - Volviendo a la esclavitud
+## Gálatas 4:8-11 - ¿Por qué volver a ser esclavos?
 
 Luego de que Pablo mostró que ahora tenían la <u>condición</u> de hijos y herederos de Dios. Ahora cambiará el enfoque a mostrarles la cercanía que tenían y ahora tienen para con Dios.
+
+### Gálatas 4:8  
+Pero en aquel tiempo, cuando ustedes no conocían a Dios, eran siervos de los que por naturaleza no son dioses.
 
 #### Pero en aquel tiempo, cuando ustedes no conocían a Dios,...
 ##### Había una realidad <u>pasada</u> respecto a los creyentes gálatas.
@@ -1498,6 +1590,9 @@ Luego de que Pablo mostró que ahora tenían la <u>condición</u> de hijos y her
 
 #### eran siervos de los que por naturaleza no son dioses.
 ##### Por el hecho de no conocer al único Dios ellos eran esclavos, estaban sujetos a las ordenes de otros dioses, dioses que ni <u>siquiera</u> eran reales. Su realidad era estar al servició de algo que no existía. Salmos 135:15-18
+
+### Gálatas 4:9  
+Pero ahora que conocen a Dios, o más bien, que son conocidos por Dios, ¿cómo es que se vuelven otra vez a las cosas débiles, inútiles y elementales, a las cuales desean volver a estar esclavizados de nuevo?
 
 #### Pero ahora que conocen a Dios, o más bien, que son conocidos por Dios,...
 ##### Pero ahora vemos otra <u>situación</u>, otra realidad de los gálatas.
@@ -1523,6 +1618,9 @@ Luego de que Pablo mostró que ahora tenían la <u>condición</u> de hijos y her
 
 ##### ¿Porqué Pablo menciona que ellos estaban queriendo <u>volver</u> a ser esclavizados?
 
+### Gálatas 4:10  
+Ustedes observan los días, los meses, las estaciones y los años.
+
 #### Ustedes observan los días, los meses, las estaciones y los años.
 ##### Ellos estaban siendo engañados por medio de practicantes judíos por lo que ellos estarían siendo arrastrados hacia guardar (observar) ciertos eventos que eran parte de la religión judía.
 
@@ -1538,10 +1636,16 @@ Luego de que Pablo mostró que ahora tenían la <u>condición</u> de hijos y her
 
 ##### Respecto a su vida como gentiles paganos y ahora el <u>hecho</u> de guardar las normas judías, Pablo las muestra como cosas elementales, primitivas, incompletas. Esto y cualquier tipo de engaño que nos desvía de ver la realidad que ahora poseemos por medio de Dios solo lleva a no experimentar lo provisto por Dios en Cristo, de la verdadera libertad y conocimiento de Él.
 
+### Gálatas 4:11  
+Temo que quizá he trabajado en vano por ustedes.
+
 #### Temo que quizá he trabajado en vano por ustedes.
 ##### Pablo estaba muy preocupado por los gálatas, la manera en la cual ellos habían sido <u>llevados</u> hacia cosas sin propósito, inútiles por medio del engaño. Pablo les había enseñado la verdad, el evangelio de Cristo como veremos mas adelante (Gálatas 4:13), pero ahora parece que todo eso fue en vano por su desvió de la verdad.
 
-## Gálatas 4:12-20 - Resultados de la verdad y resultados de la mentira
+## Gálatas 4:12-20 - Recuerden cómo me recibieron
+
+### Gálatas 4:12  
+Les ruego, hermanos, háganse como yo, pues yo también me he hecho como ustedes. Ningún agravio me han hecho.
 
 #### Les ruego, hermanos,...
 ##### De esta manera Pablo <u>quiere</u> que los hermanos gálatas presten atención a lo que dirá, en los siguientes pasajes estará dirigiéndose de una forma muy cercana hacia ellos.
@@ -1560,15 +1664,24 @@ Luego de que Pablo mostró que ahora tenían la <u>condición</u> de hijos y her
 #### Ningún agravio me han hecho.
 ##### Pablo quiere aclarar, que de esto que les habla no tiene nada personal hacia él o hacia ellos. Los hermanos gálatas en nada dañaron o <u>atacaron</u> a Pablo, no eran diferencias personales de lo que Pablo hablaba. Continuará aclarando el verdadero problema.
 
+### Gálatas 4:13  
+Pero saben que fue por causa de una enfermedad física que les prediqué el evangelio la primera vez.
+
 #### Pero saben que fue por causa de una enfermedad física que les prediqué el evangelio la primera vez.
 ##### Pablo comenzará a recordarles eventos pasados que <u>compartió</u> con los hermanos gálatas y que ellos conocían.
 
 ##### Cuando los gálatas y Pablo se conocieron por primera vez, fue por causa de una enfermedad de Pablo que <u>tuvo</u> la oportunidad de compartirles la verdad del evangelio de Cristo. 
 
+### Gálatas 4:14  
+Y lo que para ustedes fue una prueba en mi condición física, que no despreciaron ni rechazaron, sino que me recibieron como un ángel de Dios, como a Cristo Jesús mismo.
+
 #### Y lo que para ustedes fue una prueba en mi condición física, que no despreciaron ni rechazaron, sino que me recibieron como un ángel de Dios, como a Cristo Jesús mismo.
 ##### El resultado de ellos haber recibido la verdad del Evangelio fue que ellos no despreciaron a Pablo por su condición de <u>enfermedad</u>, sino que lo trataron como un mensajero de Dios, hasta como a Cristo mismo.
 
 ##### Es importante notar que <u>este</u> trato de los gálatas hacia Pablo fue un resultado de lo que ellos habían recibido, el mensaje de Cristo, la verdad. 
+
+### Gálatas 4:15  
+¿Dónde está, pues, aquel sentido de bendición que tuvieron? Pues testigo soy en favor de ustedes de que de ser posible, se hubieran sacado los ojos y me los hubieran dado.
 
 #### ¿Dónde está, pues, aquel sentido de bendición que tuvieron?...
 ##### Esa acción positiva de los hermanos gálatas, ese <u>trato</u> hacia Pablo que tuvieron en el pasado al parecer había desaparecido, ¿porqué? El cambio no se debe a Pablo, sino a algo que estará aclarando en el versículo 16.
@@ -1576,12 +1689,18 @@ Luego de que Pablo mostró que ahora tenían la <u>condición</u> de hijos y her
 #### ...Pues testigo soy en favor de ustedes de que de ser posible, se hubieran sacado los ojos y me los hubieran dado.
 ##### Pablo no ataca a los hermanos gálatas, es más se <u>pone</u> como defensor de ellos al recordarles la acción incondicional que habían demostrado hacía él, tanto así que hasta estaban dispuestos a sacar sus propios ojos y dárselos (probablemente su enfermedad estaba relacionada con la vista).
 
+### Gálatas 4:16  
+¿Me he vuelto, por tanto, enemigo de ustedes al decirles la verdad?
+
 #### Gálatas 4:16 -*¿Me he vuelto, por tanto, enemigo de ustedes al decirles la verdad?
 ##### Al parecer ahora Pablo se <u>había</u> vuelto un enemigo para los hermanos gálatas, y esto era por haberles dicho la verdad, el evangelio de Cristo.
 
 ##### El aprecio incondicional de estos creyentes hacia Pablo había nacido de la verdad del Evangelio que ellos habían recibido. Pero <u>ahora</u> que habían sido engañados sobre la verdad, lo que resulto fue enemistad para con Pablo.
 
 ##### Este no era un tema de Pablo queriendo decirles que cambien su conducta para con él. Pablo quería que se dieran cuenta lo que <u>produjo</u> esa enemistad, y lo que había producido aquello era el mensaje de mentira, un evangelio diferente que habían recibido. Gálatas 1:6, 3:1
+
+### Gálatas 4:17  
+Algunos les tienen celo, no con buena intención, sino que quieren excluirlos a fin de que ustedes muestren celo por ellos.
 
 #### Algunos les tienen celo, no con buena intención,...
 ##### Pablo ahora comienza a mostrar por <u>medio</u> de quienes vino el mensaje de mentira que llego a cambiar el evangelio que los gálatas habían recibido y cuales eran sus intenciones.
@@ -1593,10 +1712,16 @@ Luego de que Pablo mostró que ahora tenían la <u>condición</u> de hijos y her
 
 ##### El interés de estos engañadores no era ni siquiera del mensaje de mentira que compartían, el objetivo de todo era tener <u>atención</u>, gloria de los hombres, esto va acorde al mensaje que tenían. Su interés por agradar superficialmente (carnalmente) iba acorde al mensaje que confiaban y compartían. Mensaje mentiroso, produce un celo con mala intención Gálatas 6:12
 
+### Gálatas 4:18  
+Es bueno mostrar celo con buena intención siempre, y no solo cuando yo estoy presente con ustedes.
+
 #### Es bueno mostrar celo con buena intención siempre, y no solo cuando yo estoy presente con ustedes.
 ##### Pablo aclara que siempre es <u>bueno</u> tener interés por los demás, pero un interés con buenos propósitos.
 
 ##### Pero no como los mentirosos que estaban <u>entre</u> ellos y mostraban interés con malas intenciones cambiando el mensaje del evangelio y apartándolos de la verdad y de una relación con los hermanos en base a la verdad del evangelio.
+
+### Gálatas 4:19  
+Hijos míos, por quienes de nuevo sufro dolores de parto hasta que Cristo sea formado en ustedes,
 
 #### Hijos míos, por quienes de nuevo sufro dolores de parto hasta que Cristo sea formado en ustedes,
 ##### Pablo se dirige de una manera aún más <u>cercana</u> a los hermanos gálatas, los llama hijos suyos.
@@ -1608,10 +1733,16 @@ Luego de que Pablo mostró que ahora tenían la <u>condición</u> de hijos y her
 
 ##### Pero ellos habiendo dejado el mensaje de Cristo por medio del engaño, esto produjo en Pablo otra vez sufrimiento <u>comparado</u> a un dolor de parto, esto hasta que ellos vuelvan a la verdad del Evangelio de Cristo, y puedan experimentarlo por la fe.
 
+### Gálatas 4:20  
+quisiera estar presente con ustedes ahora y cambiar mi tono, pues estoy perplejo en cuanto a ustedes.
+
 #### quisiera estar presente con ustedes ahora y cambiar mi tono, pues estoy perplejo en cuanto a ustedes.
 ##### Pablo deseaba estar con ellos para poder <u>expresarse</u> de distinta manera para con ellos porque estaba completamente perplejo ante tal situación de los hermanos gálatas. Ellos habían cambiado el mensaje de libertad en Cristo, a un engaño esclavizante.
 
-## Gálatas 4:21-31 - ¿No sabías? Eres hijo de la libre
+## Gálatas 4:21-27 - La historia de las dos mujeres
+
+### Gálatas 4:21  
+Díganme, los que desean estar bajo la ley, ¿no oyen a la ley?
 
 #### Díganme, los que desean estar bajo la ley, ¿no oyen a la ley?
 ##### Pablo continuará dirigiéndose a los hermanos gálatas, <u>pero</u> de una manera general hacia un grupo.
@@ -1622,12 +1753,18 @@ Luego de que Pablo mostró que ahora tenían la <u>condición</u> de hijos y her
 
 ##### Pablo comenzará hablarles sobre un evento de la Escritura para ejemplificar la realidad de los <u>creyentes</u> que estaban queriendo vivir bajo la ley, y para que comprender lo que es vivir bajo ella.
 
+### Gálatas 4:22  
+Porque está escrito que Abraham tuvo dos hijos, uno de la sierva y otro de la libre.
+
 #### Porque está escrito que Abraham tuvo dos hijos, uno de la sierva y otro de la libre.
 ##### Pablo presenta un evento que se <u>encuentra</u> en las Escrituras, y es sobre el nacimiento de dos hijos de Abraham. 
 
 ##### Un hijo provino de la sierva y <u>otro</u> hijo provino de la libre, mientras vayamos avanzando a través de los versículos observaremos que Pablo esta hablando de Sara e Isaac y Agar e Ismael.
 
 ##### Es importante notar como se esta refiriendo a las madres que dieron a luz, no se dirige a ellas por su nombre, sino por la <u>realidad</u> que las caracterizaba en su tiempo, esclava y libre. Esto no es casualidad va acorde a lo que Pablo desea mostrar.
+
+### Gálatas 4:23  
+Pero el hijo de la sierva nació según la carne, y el hijo de la libre por medio de la promesa.
 
 #### Pero el hijo de la sierva nació según la carne,...
 ##### La palabra Pero.. hace una <u>fuerte</u> distinción, hay dos claras diferencias entre estos dos hijos, no solo nacieron de madres diferentes, sino que también sus nacimientos fueron de formas diferentes.
@@ -1665,7 +1802,11 @@ Luego de que Pablo mostró que ahora tenían la <u>condición</u> de hijos y her
 
 ##### En Génesis 21:1-3, vemos a Abraham y Sara teniendo a Isaac su hijo, y esto fue por medio de la obra de Dios, en Su poder. Este <u>evento</u> solo fue posible por medio de lo que Dios dijo e hizo, fue por medio de la promesa, promesa de Dios. Así la libre (Sara) dio a luz un hijo, Isaac que nació según la promesa.
 
-#### Esto contiene una alegoría,...* Alegoría viene de la palabra en griego ALEGORÉO se refiere a una forma de expresión en la que hechos o personajes reales son presentados de manera <u>figurada</u> para comunicar una verdad adicional, sin negar su realidad histórica.
+### Gálatas 4:24
+Esto contiene una alegoría, pues estas mujeres son dos pactos. Uno procede del monte Sinaí que engendra hijos para ser esclavos; este es Agar.
+
+#### Esto contiene una alegoría,...
+##### Alegoría viene de la palabra en griego ALEGORÉO se refiere a una forma de expresión en la que hechos o personajes reales son presentados de manera <u>figurada</u> para comunicar una verdad adicional, sin negar su realidad histórica.
 
 ##### Es importante notar que esta alegorización a la historia de Abraham que viene por <u>parte</u> de Pablo, no es por iniciativa propia sino por inspiración del Espíritu Santo, como apóstol de Cristo. 2 Pedro 3:15
 
@@ -1694,6 +1835,9 @@ Luego de que Pablo mostró que ahora tenían la <u>condición</u> de hijos y her
 
 ##### Pablo no esta diciendo que la ley es el problema la cual trae esclavitud, sino que los que quieren vivir bajo la ley es para quienes a <u>resultado</u> en esclavitud. Su condición es esclavitud, por lo que su andar estará ligado a aquello, vivir como esclavo.
 
+### Gálatas 4:25  
+Ahora bien, Agar es el monte Sinaí en Arabia, y corresponde a la Jerusalén actual, porque ella está en esclavitud con sus hijos.
+
 #### Ahora bien, Agar es el monte Sinaí en Arabia,...
 ##### Pablo continúa hablando de Agar el pacto mosaico, ahora indica que se trata de el monte Sinaí en Arabia, Agar y el momento <u>Sinaí</u> se refieren a lo mismo, el pacto mosaico.
 
@@ -1703,6 +1847,9 @@ Luego de que Pablo mostró que ahora tenían la <u>condición</u> de hijos y her
 ##### En las Escrituras y en el tiempo de Pablo encontramos que el pueblo judío (toda Jerusalén) se encontraban con un corazón <u>incrédulo</u> hacia Dios, habiendo ignorado Su verdad, incluso cuando envió a Su Hijo Cristo lo rechazaron no creyendo en Él. Mateo 23:37-38
 
 ##### La confianza del Pueblo judío en su mayoría esta en su propia justicia provista por la ley, están viviendo bajo la ley, <u>están</u> siendo esclavos. Romanos 9:1-3, 10:1-4; Hechos 7:51-53
+
+### Gálatas 4:26  
+Pero la Jerusalén de arriba es libre; esta es nuestra madre.
 
 #### Pero...
 ##### Ahora Pablo hace un fuerte contraste con los hijos de Agar los que nacieron como esclavos y viven <u>como</u> esclavos bajo la ley. 
@@ -1716,17 +1863,32 @@ Luego de que Pablo mostró que ahora tenían la <u>condición</u> de hijos y her
 
 ##### Esto es una realidad para cualquier persona que a creído en la <u>verdad</u> del Evangelio, tiene como madre a la libre, por lo tanto es libre, es parte de todo lo real provisto por parte de la Jerusalén de arriba.
 
-#### Porque escrito está: **REGOCÍJATE**, OH ESTÉRIL, LA QUE NO CONCIBES; **PRORRUMPE Y CLAMA**, TÚ QUE NO TIENES DOLORES DE PARTO, PORQUE MÁS SON LOS HIJOS DE LA DESOLADA, QUE DE LA QUE TIENE MARIDO.
+### Gálatas 4:27  
+Porque escrito está: «REGOCÍJATE, OH ESTÉRIL, LA QUE NO CONCIBES; PRORRUMPE Y CLAMA, TÚ QUE NO TIENES DOLORES DE PARTO, PORQUE MÁS SON LOS HIJOS DE LA DESOLADA, QUE DE LA QUE TIENE MARIDO».
+
+#### Porque escrito está: 
+##### Pablo argumenta desde las Escrituras...
+
+#### **REGOCÍJATE**, OH ESTÉRIL, LA QUE NO CONCIBES; **PRORRUMPE Y CLAMA**, TÚ QUE NO TIENES DOLORES DE PARTO, PORQUE MÁS SON LOS HIJOS DE LA DESOLADA, QUE DE LA QUE TIENE MARIDO.
 ##### Esto es un orden, la madre de los <u>creyentes</u>, la Jerusalén libre y celestial debe regocijarse, prorrumpir y clamar. ¿Porqué?
 
 ##### El estado de la madre como libre no se verá afectada en absoluto por parte de la esclava, por lo que tampoco la libertad de sus hijos se vería afecta, y esto a <u>pesar</u> de que los hijos de la esclava sean mayoría, porque su condición es esa, solo esclavitud.
 
+## Gálatas 4:28-31 - Somos hijos de la libre
+
+### Gálatas 4:28  
+Y ustedes, hermanos, como Isaac, son hijos de la promesa.
+
 #### Y ustedes, hermanos, como Isaac, son hijos de la promesa.
+
 ##### Pablo se dirige directamente a los gálatas, ¡Hermanos, <u>escúchenme</u>!
 
 ##### Ellos eran iguales a Isaac ¿En que sentido? Ellos también eran hijos de la promesa. Isaac nació como hijo libre, de la libre, y fue por medio de la <u>obra</u> y poder de Dios no por medio de obra o poder humano.
 
 ##### La realidad de los hermanos era que habían nacido en libertad y no por <u>medio</u> de obra o poder humano, sino por medio la obra y poder de Dios. Esta es la identidad de los creyentes, son hijos de la promesa.
+
+### Gálatas 4:29  
+Pero así como entonces el que nació según la carne persiguió al que nació según el Espíritu, así también sucede ahora.
 
 #### Pero así como entonces el que nació según la carne persiguió al que nació según el Espíritu, así también sucede ahora.
 ##### Por Génesis 21:9 vemos que Ismael, el que nació según la carne de la <u>sierva</u> Agar perseguía a Isaac el hijo de la libre Sara. La palabra perseguir DIÓKO esta relacionada en un sentido negativo, persecución con un mal propósito.
@@ -1738,12 +1900,18 @@ Luego de que Pablo mostró que ahora tenían la <u>condición</u> de hijos y her
 #### *así también sucede ahora.
 ##### Y así como Ismael perseguía a Isaac con una mala <u>intención</u>, también sucede ahora, no debería ser sorpresa para ellos que estén siendo perseguidos por los hijos de la esclava, los que viven bajo la justicia propia mediante la ley esclavizado, ellos tratan de atacarlos por medio del engaño.
 
+### Gálatas 4:30  
+Pero, ¿qué dice la Escritura? «ECHA FUERA A LA SIERVA Y A SU HIJO, PUES EL HIJO DE LA SIERVA NO SERÁ HEREDERO CON EL HIJO DE LA LIBRE».
+
 #### Pero, ¿qué dice la Escritura? ECHA FUERA A LA SIERVA Y A SU HIJO, PUES EL HIJO DE LA SIERVA NO SERÁ HEREDERO CON EL HIJO DE LA LIBRE.
 ##### Cómo podrían los hermanos reaccionar ante tal realidad, sufriendo persecución por <u>medio</u> de personas esclavizadas y que buscaban esclavizarlos.
 
 ##### La Escritura dice que su mensaje de engaño y los mismo engañadores no pueden <u>gozar</u> de ningún tipo de tolerancia por parte de los hijos de la libre ¿Por qué? Porque ellos no son parte de la herencia provista para los creyentes, los que si son herederos por medio de la fe. Gálatas 2:4-5
 
 ##### El imperativo es claro, y esto no proviene de Pablo, sino que lo cita de la misma Escritura. Los hermanos gálatas deberían rechazar completamente el engaño de vivir bajo la ley esclavizados y <u>también</u> a los que viven conforme a aquel engaño. Los creyentes como herederos de Dios no tienen ninguna relación con la esclavitud. Gálatas 1:8-9
+
+### Gálatas 4:31  
+Así que, hermanos, no somos hijos de la sierva, sino de la libre.
 
 #### Así que, hermanos, no somos hijos de la sierva, sino de la libre.
 ##### Como conclusión a todo lo que Pablo <u>estuvo</u> hablando. 
@@ -1756,13 +1924,17 @@ Luego de que Pablo mostró que ahora tenían la <u>condición</u> de hijos y her
 
 ##### Pero el creyente nunca mas será esclavo, porque nunca fue hecho libre por lo que hacía sino por medio de la obra de Dios. Su <u>posición</u> como libre nunca cambiará, porque eso viene por medio de su posición en Cristo y no por medio de él. Gálatas 3:26-29
 
-# Gálatas 5:1-25 - Libertad que Cristo proveyó
+
+# Gálatas 5:1-12 - Pablo declara con urgencia las consecuencias de someterse a la ley
+
+## Gálatas 5:1 - Permanezcan firmes en la libertad
 
 Pablo estuvo mostrando a los hermanos gálatas quién era Cristo y lo que había logrado por medio de Su obra en la cruz también en beneficio de los creyentes, cosas <u>como</u>: Ser declarados justos, recibir el Espíritu Santo, ser benditos, ser hijos de Dios, ser herederos de Dios, ser hijos de la libre según promesa/Espíritu y libres de la ley.
 
 Esta es la libertad en Cristo, que ha sido provista para toda persona que ha creído en Él. <u>Ahora</u> Pablo comenzará a exhortar a los creyentes gálatas en base a lo que estuvo enseñándoles.
 
-## Gálatas 5:1 - Libres para libertad
+### Gálatas 5:1  
+Para libertad fue que Cristo nos hizo libres. Por tanto, permanezcan firmes, y no se sometan otra vez al yugo de esclavitud.
 
 #### Para libertad fue que Cristo nos hizo libres.
 ##### Pablo se incluye en esta declaración, ellos ya habían sido hechos libres, no debían buscar ser libres, ya lo eran. Y esta liberación vino por medio de Cristo, Él fue quien <u>los</u> liberto.
@@ -1800,9 +1972,13 @@ Permanecer (STÉKO)
 
 ##### Pablo <u>estará</u> mostrando de manera más clara como alguien no estaría experimentando la libertad de Cristo y como alguien si lo estaría haciendo.
 
-## Gálatas 5:2-6 - Rechazando la libertad de Cristo
+## Gálatas 5:2-4 - Lo que pasa si aceptan la circuncisión
+
+### Gálatas 5:2  
+Miren, yo, Pablo, les digo que si se dejan circuncidar, Cristo de nada les aprovechará.
 
 #### Miren, yo, Pablo, les digo...
+
 ##### Por la gramática se observa que Pablo <u>quiere</u> que los hermanos gálatas presten mucha atención a lo que les dirá.
 
 #### ...que si se dejan circuncidar, Cristo de nada les aprovechará.
@@ -1814,6 +1990,9 @@ Permanecer (STÉKO)
 
 ##### Es por medio de la fe <u>en</u> Evangelio que una persona puede ser justificada, pero si un creyente (alguien ya justificado) se circuncidaba para ser justificado entonces no se estaría beneficiando de la persona de Cristo.
 
+### Gálatas 5:3  
+Otra vez testifico a todo hombre que se circuncida, que está obligado a cumplir toda la ley.
+
 #### Otra vez testifico a todo hombre que se circuncida, que está obligado a cumplir toda la ley.
 ##### Pablo continua con lo dicho en el anterior versículo. Esta declaración es para todo <u>hombre</u> que se circuncida, que busca la justificación por medio de la circuncisión.
 
@@ -1824,6 +2003,9 @@ Permanecer (STÉKO)
 ##### Esto es en lo que los hermanos gálatas habían sido fascinados (Gálatas 3:1) ellos habían seguido una evangelio extraño, una mentira, no la <u>verdad</u> del Evangelio. Gálatas 1:6
 
 ##### Ellos estaban ignorando lo que Cristo ya les había provisto, <u>Justicia</u> de Dios, solo por medio de la fe. Ahora ellos iban por medio de la circuncisión, obras de la ley, tradiciones judías y Pablo les mostrará que significaba eso para ellos.
+
+### Gálatas 5:4  
+De Cristo se han separado, ustedes que procuran ser justificados por la ley; de la gracia han caído.
 
 #### De Cristo se han separado, ustedes que procuran ser justificados por la ley;...
 ##### Pablo habla directamente a los gálatas ustedes. Ellos, que <u>estaban</u> buscando ser declarados justos por la ley, debían saber que se habían apartado de Cristo.
@@ -1843,7 +2025,13 @@ Permanecer (STÉKO)
 
 ##### La gracia de Dios que los hermanos habían experimentado por la fe en Cristo, sin ningún tipo de <u>obras</u>, ahora no la estaban experimentando, ya que estaban buscando justicia fuera de la gracia de Dios, fuera de la persona de Cristo. No estaban experimentando de la libertad de Cristo, estaban viviendo como esclavizados.
 
+## Gálatas 5:5-6 - Lo que realmente cuenta
+
+### Gálatas 5:5  
+Pues nosotros, por medio del Espíritu, esperamos por la fe la esperanza de justicia.
+
 #### Pues nosotros,...
+
 ##### Probablemente se refiera a Pablo y los hermanos que estaban con él (Gálatas 1:2), lo que si es claro es que Pablo esta haciendo un <u>contraste</u> con la situación anterior que mostro de los hermanos gálatas, que estaban viviendo bajo el yugo de esclavitud.
 
 #### ...por medio del Espíritu, esperamos por la fe la esperanza de justicia.
@@ -1857,6 +2045,9 @@ Permanecer (STÉKO)
 
 ##### Confiando en la justicia ya provista por Cristo en la justificación, ahora el creyente goza de una esperanza <u>también</u> por la fe, una esperanza futura, esto es una vida *...por medio del Espíritu... experimentando la unión con Cristo y la gracia de Dios.
 
+### Gálatas 5:6  
+Porque en Cristo Jesús ni la circuncisión ni la incircuncisión significan nada, sino la fe que obra por amor.
+
 #### Porque en Cristo Jesús ni la circuncisión ni la incircuncisión significan nada,...
 ##### Pablo mostrará que una vida empoderada no viene por medio de lo externo, sino en base a nuestra posición en Cristo, por <u>medio</u> del Espíritu. Gálatas 5:5
 
@@ -1868,6 +2059,9 @@ Permanecer (STÉKO)
 ##### Pablo irá explicando lo que es la realidad del creyente por el Espíritu más adelante, lo que ahora esta mostrando es que un <u>creyente</u> permaneciendo en la libertad de Cristo, es una vida (eficaz) en la que la fe obra poderosamente por medio del amor, a diferencia de la ineficacia del esfuerzo humano, por medio de la ley o sin la ley.
 
 ## Gálatas 5:7-12 - ¿Quién los estorbo?
+
+### Gálatas 5:7  
+Ustedes corrían bien, ¿quién les impidió obedecer a la verdad?
 
 #### Ustedes corrían bien,...
 ##### Pablo estará mostrando a los hermanos gálatas de <u>manera</u> mas clara su realidad, y la causa de estar viviendo en ella.
@@ -1883,6 +2077,9 @@ Permanecer (STÉKO)
 
 ##### Pablo pregunta *quién él les muestra que fue alguien quien los había llevado hacia esto, alguien les <u>había</u> impedido de seguir confiando en la verdad de Cristo e hizo que ellos dejen de correr bien.
 
+### Gálatas 5:8  
+Esta persuasión no vino de Aquel que los llama.
+
 #### Esta persuasión no vino de Aquel que los llama.
 ##### Pablo quiere aclarar que este <u>desvió</u> de la verdad claramente no vino de Aquel.
 
@@ -1892,10 +2089,16 @@ Permanecer (STÉKO)
 
 ##### Es importante notar que el versículo dice que los <u>llama</u>, El Padre que los había llamado por gracia y al que habían abandonado, aún continuaba llamándoles por medio de Su gracia. El Padre quería que ellos volvieran a experimentar una vida de verdadera libertad.
 
+### Gálatas 5:9  
+Un poco de levadura fermenta toda la masa.
+
 #### Un poco de levadura fermenta toda la masa.
 ##### El hecho de que los hermanos gálatas dejen de prestar <u>atención</u> solo un poco a la verdad de Cristo en su totalidad puede llegar a afectar en todo. 
 
 ##### Cambiar solo un poco del mensaje de Cristo, puede llevar al creyente a no estar confiando en la <u>verdad</u> del evangelio, esto lo llevaría a esclavitud, porque la libertad solo viene por medio de la verdad. Gálatas 2:5, 5:1
+
+### Gálatas 5:10  
+Yo tengo confianza respecto a ustedes en el Señor de que no optarán por otro punto de vista; pero el que los perturba llevará su castigo, quienquiera que sea.
 
 #### Yo tengo confianza respecto a ustedes en el Señor de que no optarán por otro punto de vista;...*
 ##### Pablo confiaba en el Señor de que los hermanos comprenderían lo que él les estaba mostrando y no estarían en <u>contra</u>.
@@ -1907,6 +2110,9 @@ Permanecer (STÉKO)
 
 ##### Pablo indica que el intento de engaño y perturbación no quedará sin efecto, Dios les pagará a su debido tiempo. Pablo no esta indicando si eran creyentes o no creyentes, indistintamente de aquello, transmitir un mensaje pervertido del evangelio de <u>Cristo</u> tendrá su castigo de parte de Dios, no importa quien sea. Gálatas 1:8-9
 
+### Gálatas 5:11  
+Pero yo, hermanos, si todavía predico la circuncisión, ¿por qué soy perseguido aún? En tal caso, el escándalo de la cruz ha sido quitado.
+
 #### Pero yo, hermanos, si todavía predico la circuncisión, ¿por qué soy perseguido aún? En tal caso, el escándalo de la cruz ha sido quitado.
 ##### Al parecer, los que estaban perturbando a los hermanos gálatas también decían que Pablo predicaba la circuncisión como <u>requisito</u> para ser declarado justo.
 
@@ -1914,12 +2120,20 @@ Permanecer (STÉKO)
 
 ##### Pero este no era el caso, Pablo sí estaba <u>siendo</u> perseguido por causa del mensaje del Evangelio. Gálatas 6:12, 17
 
+### Gálatas 5:12  
+¡Ojalá que los que los perturban también se mutilaran!
+
 #### ¡Ojalá que los que los perturban también se mutilaran!
 ##### Pablo indica que los que estaban perturbando a los hermanos gálatas por medio del engaño, cambiando la <u>verdad</u> de Cristo, no deberían quedarse con la circuncisión, sino que ellos mismo deberían castrarse totalmente.
 
 ##### Estos no solo estaban engañados y confiando en la mentira sino que estaban engañando y perturbando a otros, si <u>creían</u> que la salvación era por circuncisión, deberían ir un nivel más allá. ¿Porqué Pablo estaba tan en contra de los que engañaban a los hermanos gálatas hacia la esclavitud? Lo explicará en los siguientes versículos
 
-## Gálatas 5:13-15 - La Libertad de Cristo en el creyente
+# Gálatas 5:13–26 - Pablo contrasta la carne y el espiritu como principio de vida
+
+## Gálatas 5:13-15 - Libertad para servir
+
+### Gálatas 5:13  
+Porque ustedes, hermanos, a libertad fueron llamados; solo que no usen la libertad como pretexto para la carne, sino sírvanse por amor los unos a los otros.
 
 #### Porque ustedes, hermanos, a libertad fueron llamados;...
 ##### Pablo estaba siendo muy duro contra el mensaje mentiroso (Gálatas 4:30) y los engañadores mismos (Gálatas 5:12) <u>porque</u> estaban llevando a los hermanos hacia un pensamiento que no era conforme a realidad de los gálatas.
@@ -1944,10 +2158,16 @@ Permanecer (STÉKO)
 
 ##### La libertad de Cristo en los creyentes se ve experimentada en el servicio de los creyentes, unos por otros, <u>este</u> servicio es por medio del amor (ágape) unos por otros, el mismo amor que Cristo manifestó en la cruz. 1 Juan 3:16-19
 
+### Gálatas 5:14  
+Porque toda la ley en una palabra se cumple en el precepto: «AMARÁS A TU PRÓJIMO COMO A TI MISMO».
+
 #### Porque toda la ley en una palabra se cumple en el precepto: AMARÁS A TU PRÓJIMO COMO A TI MISMO.
 ##### Cristo redimió de la esclavitud de la ley a <u>todo</u> creyente, y lo libertó para vivir en Su libertad. Pablo muestra que eso no significa que la ley debe ser transgredida, pero tampoco que ahora volvemos a vivir bajo las normas de la ley ignorando nuestra libertad de la ley.
 
 ##### Sino que la libertad de Cristo en la vida del creyente es una vida de servicio a través del amor (por la fe, no por las <u>obras</u> de la ley), la cual a la vez esto es una vida que no va en contra de la ley, sino que va de acuerdo a ella, ya que la ley se cumple en el amor. Y una vida por medio de la Libertad de Cristo es una vida de amor.
+
+### Gálatas 5:15  
+Pero si ustedes se muerden y se devoran unos a otros, tengan cuidado, no sea que se consuman unos a otros.
 
 #### Pero si ustedes se muerden y se devoran unos a otros, tengan cuidado, no sea que se consuman unos a otros.
 ##### Ahora vuelve a dirigirse hacía los gálatas. Pablo da por hecho que ellos se estaban destruyendo unos a otros, él les <u>advierte</u> que tengan cuidado, no sea que esto lleve a un resultado mucho peor.
@@ -1957,6 +2177,9 @@ Permanecer (STÉKO)
 ##### Ahora Pablo mostrará de <u>manera</u> mas clara como podían vivir en la libertad de Cristo.
 
 ## Gálatas 5:16-18 - Un andar de libertad es por el Espíritu
+
+### Gálatas 5:16  
+Digo, pues: anden por el Espíritu, y no cumplirán el deseo de la carne.
 
 #### Digo, pues: anden por el Espíritu,...
 ##### Para entender estos pasajes es <u>importante</u> tomar en cuenta lo siguiente:
@@ -2002,10 +2225,13 @@ Permanecer (STÉKO)
 
 ##### Entonces podríamos decir que si un creyente esta pecando, es <u>porque</u> no esta andando por el Espíritu. Pablo explicará porqué esto es así en el siguiente versículo.
 
+### Gálatas 5:17  
+Porque el deseo de la carne es contra el Espíritu, y el del Espíritu es contra la carne, pues estos se oponen el uno al otro, de manera que ustedes no pueden hacer lo que deseen.
+
 #### Porque el deseo de la carne es contra el Espíritu, y el del Espíritu es contra la carne, pues estos se oponen el uno al otro,...
 ##### Pablo aclara que la carne y el Espíritu <u>tienen</u> deseos, pero los deseos de la carne y los deseos del Espíritu son contrarios, diferentes entre sí.
 
-#### *...estos se oponen... 
+#### ...estos se oponen... 
 ##### Esto no indica una lucha igualitaria entre los deseos de la carne y los <u>deseos</u> del Espíritu, solo refleja una postura opuesta, enfatiza lo contrarios que son uno de otro. 
 
 ##### Por eso es que si estas andando por el Espíritu entonces no estas satisfaciendo los deseos de la carne, sino del Espíritu y <u>viceversa</u>. Más adelante Pablo mostrará que el andar por el Espíritu y no hacerlo tendrá sus resultados
@@ -2014,6 +2240,9 @@ Permanecer (STÉKO)
 ##### Esta contrariedad entre el deseo de la carne y del Espíritu es tan radical, que el creyente no puede <u>actuar</u> libremente según sus propios deseos, sino que o esta bajo los deseos de la carne o los deseos del Espíritu.
 
 ##### El versículo 17 es como una explicación a la <u>declaración</u> del versículo 16. El versículo 18 será una continuación a la declaración del versículo 16.
+
+### Gálatas 5:18  
+Pero si son guiados por el Espíritu, no están bajo la ley.
 
 #### [Pero ó Y] si son guiados por el Espíritu, no están bajo la ley.
 ##### Cuando un creyente esta andando por el Espíritu, estará andando bajo los deseos del Espíritu, como indica en este pasaje, <u>estará</u> siendo guiado por el Espíritu. 
@@ -2026,13 +2255,10 @@ Permanecer (STÉKO)
 
 ##### Esta es la realidad que el Señor había <u>provisto</u> a los gálatas una vida de disfrutar de la libertad de Cristo, libres de los deseos de la carne y libres del yugo de esclavitud de la ley. Una vida empoderada por el Espíritu del Hijo.
 
-## Gálatas 5:19-23 - Lo producido por la libertad y lo producido por la esclavitud
+## Gálatas 5:19-21 - Las obras de la carne
 
-Gal 5:19  Ahora bien, las obras de la carne son evidentes, las cuales son: inmoralidad, impureza, sensualidad,
-Gal 5:20  idolatría, hechicería, enemistades, pleitos, celos, enojos, rivalidades, disensiones, herejías,
-Gal 5:21  envidias, borracheras, orgías y cosas semejantes, contra las cuales les advierto, como ya se lo he dicho antes, que los que practican tales cosas no heredarán el reino de Dios.
-Gal 5:22  Pero el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fidelidad,
-Gal 5:23  mansedumbre, dominio propio; contra tales cosas no hay ley.
+### Gálatas 5:19  
+Ahora bien, las obras de la carne son evidentes, las cuales son: inmoralidad, impureza, sensualidad,
 
 #### Ahora bien, las obras de la carne son evidentes, las cuales son:...
 ##### Como <u>vimos</u> anteriormente, cuando el creyente no este andando por el Espíritu entonces no estará siendo guiado por los deseos del Espíritu, sino por los deseos de la carne. 
@@ -2049,6 +2275,9 @@ Gal 5:23  mansedumbre, dominio propio; contra tales cosas no hay ley.
 
 #### ...sensualidad,
 ##### Indica comportamiento sin <u>control</u> ni vergüenza, puede ser un ámbito moral o sexual.
+
+### Gálatas 5:20  
+idolatría, hechicería, enemistades, pleitos, celos, enojos, rivalidades, disensiones, herejías,
 
 #### ...idolatría,
 ##### Se refiere a un servicio o veneración <u>dirigida</u> a ídolos o realidades sustitutas a Dios.
@@ -2076,6 +2305,9 @@ Gal 5:23  mansedumbre, dominio propio; contra tales cosas no hay ley.
 
 #### ...herejías,
 ##### Hace referencia a grupos separados <u>formados</u> por elección propia, grupos que fragmentan la unidad, esto en un sentido negativo.
+
+### Gálatas 5:21  
+envidias, borracheras, orgías y cosas semejantes, contra las cuales les advierto, como ya se lo he dicho antes, que los que practican tales cosas no heredarán el reino de Dios.
 
 #### ...envidias,
 ##### Se refiere a un resentimiento por el <u>bien</u> o la ventaja que otro posee.
@@ -2110,7 +2342,13 @@ Gal 5:23  mansedumbre, dominio propio; contra tales cosas no hay ley.
 
 ##### Pablo describe <u>como</u> no herederos del Reino a aquellos cuya vida está caracterizada por la práctica continua de las obras de la carne, una descripción que en las Escrituras corresponde a los que no han creído en Cristo. No deberían ser participes de lo que no tiene ninguna relación con lo eterno, el reino de Dios.
 
+## Gálatas 5:22-23 El fruto del Espíritu
+
+### Gálatas 5:22  
+Pero el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fidelidad,
+
 #### Pero el fruto del Espíritu es...
+
 ##### Una realidad distinta de cuando un creyente anda por el Espíritu es el fruto del Espíritu. Debemos <u>notar</u> que esto proviene del Espíritu, no del creyente. No es algo que el creyente debe buscar producir, sino que esto viene como resultado de un creyente que esta andando por el Espíritu.
 
 ##### La Escritura no dice busquen producir el fruto para que anden por el Espíritu, sino que lo que muestra es un Si <u>andan</u> por el Espíritu, esto será lo que el Espíritu Santo producirá, esto será Cristo viviendo en nosotros. Gálatas 2:20
@@ -2138,6 +2376,9 @@ Gal 5:23  mansedumbre, dominio propio; contra tales cosas no hay ley.
 #### ...fidelidad,
 ##### No se refiere a una fidelidad fingida, en base a la mentira, o una basada en optimismo humano. Se refiere a un fidelidad genuina, <u>acción</u> por medio de una convicción, en base a la verdad. 1 Timoteo 1:14; 2 Timoteo 2:2
 
+### Gálatas 5:23  
+mansedumbre, dominio propio; contra tales cosas no hay ley.
+
 #### ...mansedumbre,
 ##### No se refiere a debilidad, timidez, falta de carácter o pasividad. Se refiere una fortaleza o poder bajo <u>control</u>, una firmeza sin dureza. Mateo 11:28-30; Gálatas 6:1
 
@@ -2155,9 +2396,10 @@ Gal 5:23  mansedumbre, dominio propio; contra tales cosas no hay ley.
 
 ##### Y la vida del creyente guiada por el Espíritu no llevará a la transgresión de cualquier ley, es más, la ley <u>misma</u> es cumplida, pero no por medio de las obras de la ley (el esfuerzo humano), sino por medio del Poder del Espíritu.
 
-## Gálatas 5:24-25 - Eres libre, entonces anda como libre
+## Gálatas 5:24-26 - Eres libre, entonces anda como libre
 
-Gal 5:24  Pues los que son de Cristo Jesús han crucificado la carne con sus pasiones y deseos.
+### Gálatas 5:24
+Pues los que son de Cristo Jesús han crucificado la carne con sus pasiones y deseos.
 
 #### Pues los que son de Cristo Jesús han crucificado la carne con sus pasiones y deseos.
 ##### Para interpretar lo mejor posible este <u>pasaje</u> es necesario observarlo de manera cuidadosa:
@@ -2187,7 +2429,7 @@ Gal 5:24  Pues los que son de Cristo Jesús han crucificado la carne con sus pas
 
 ##### Un vida empoderada por el Espíritu es una vida en la practica libre de la ley y libre de los deseos de la carne y va <u>acorde</u> a lo expresado en este versículo, es una realidad que el creyente ya tiene.
 
-Gal 5:25
+### Gálatas 5:25
 Si vivimos por el Espíritu, andemos también por el Espíritu.
 
 #### Si vivimos por el Espíritu, andemos también por el Espíritu.
@@ -2199,19 +2441,15 @@ Si vivimos por el Espíritu, andemos también por el Espíritu.
 
 ##### Por medio de lo que el Padre proveyó a sus hijos en Cristo, es que ellos pueden experimentar por la fe, la verdadera libertad, <u>verdadero</u> poder y verdadera vida.
 
-# Gálatas 5:26-6:10 - Viviendo en libertad
+##### Antes de pasar a esta sección es importante considerar que los versículos siguientes no se encuentran de manera aislada, sino que son una continuación final a la carta. Pablo estuvo mostrando y enseñando muchas verdades, por lo que todo lo mostrado anteriormente por Pablo <u>debe</u> ser considerado también en estos últimos pasajes.
 
-Antes de pasar a esta sección es importante considerar que los versículos siguientes no se encuentran de manera aislada, sino que son una continuación final a la carta. Pablo estuvo mostrando y enseñando muchas verdades, por lo que todo lo mostrado anteriormente por Pablo <u>debe</u> ser considerado también en estos últimos pasajes.
+##### Esta declaración es una continuación a lo que Pablo había mencionado respecto al hecho de que por medio del Espíritu es que <u>vivimos</u>, por lo que lo evidente es que andemos también por el Espíritu.
 
-## Gálatas 5:26-6:6 - Viéndonos a la luz de la libertad unos a otros
+##### Lo que Pablo dirá a continuación es en base a un creyente que esta andando por el Espíritu, un creyente que esta <u>andando</u> por medio del poder del Espíritu Santo es un creyente que esta considerando las realidades de la libertad provista por Cristo. Esta experimentando la libertad de Cristo en su vida.
 
-Esta declaración es una continuación a lo que Pablo había mencionado respecto al hecho de que por medio del Espíritu es que <u>vivimos</u>, por lo que lo evidente es que andemos también por el Espíritu.
+##### Entonces esto resultará en lo que dirá a continuación, las <u>siguiente</u> declaraciones enfatizan participación grupal y no individual.
 
-Lo que Pablo dirá a continuación es en base a un creyente que esta andando por el Espíritu, un creyente que esta <u>andando</u> por medio del poder del Espíritu Santo es un creyente que esta considerando las realidades de la libertad provista por Cristo. Esta experimentando la libertad de Cristo en su vida.
-
-Entonces esto resultará en lo que dirá a continuación, las <u>siguiente</u> declaraciones enfatizan participación grupal y no individual.
-
-Gal 5:26
+### Gálatas 5:26
 No nos hagamos vanagloriosos, provocándonos unos a otros, envidiándonos unos a otros.
 
 #### No nos hagamos vanagloriosos,...
@@ -2227,11 +2465,15 @@ No nos hagamos vanagloriosos, provocándonos unos a otros, envidiándonos unos a
 #### ...envidiándonos unos a otros.
 ##### De esta manera estarían envidiándose, codiciando entre <u>ellos</u> lo que cada uno posee, y esto unos a otros.
 
-##### Pablo se refiere a una realidad en grupo, el trato unos a otros, que sean vanagloriosos, los <u>llevaría</u> a provocarse y envidiarse unos a otros, este sería el trato como grupo. 
+# Gálatas 6:1-18 libertad Comunitaria centrada en la cruz
 
-##### Evidentemente no estarían andando por el Espíritu, por lo que el resultado no sería el fruto del Espíritu <u>sino</u> creyentes satisfaciendo los deseos de la carne. Serían creyentes no permaneciendo en la libertad de Cristo, sino andando en esclavitud
+Pablo se refiere a una realidad en grupo, el trato unos a otros, que sean vanagloriosos, los <u>llevaría</u> a provocarse y envidiarse unos a otros, este sería el trato como grupo. 
 
-Gal 6:1  
+Evidentemente no estarían andando por el Espíritu, por lo que el resultado no sería el fruto del Espíritu <u>sino</u> creyentes satisfaciendo los deseos de la carne. Serían creyentes no permaneciendo en la libertad de Cristo, sino andando en esclavitud
+
+## Gálatas 6:1-5 - Viéndonos a la luz de la libertad unos a otros
+
+### Gálatas 6:1
 Hermanos , aun si alguien es sorprendido en alguna falta, ustedes que son espirituales, restáurenlo en un espíritu de mansedumbre, mirándote a ti mismo, no sea que tú también seas tentado.
 
 #### Hermanos, aun si alguien es sorprendido en alguna falta,...
@@ -2266,7 +2508,7 @@ Hermanos , aun si alguien es sorprendido en alguna falta, ustedes que son espiri
 
 ##### Cualquier creyente puede estar enredado en transgresión, por lo que estar consientes de esa realidad es <u>bueno</u>, ya que va conforme a la realidad también, y no lleva a un pensamiento de fortaleza vana, confianza en la mentira, lo cual no sería andar por el Espíritu.
 
-Gal 6:2  
+### Gálatas 6:2
 Lleven los unos las cargas de los otros, y cumplan así la ley de Cristo.
 
 #### Lleven los unos las cargas de los otros,...
@@ -2291,15 +2533,15 @@ Lleven los unos las cargas de los otros, y cumplan así la ley de Cristo.
 
 ##### Llevando las cargas de los <u>demás</u>, unos a otros
 
-#### Estas son cosas visibles, no internas. De esta manera es realizada, completada la ley (el principio) de Cristo, cuando los <u>creyentes</u> viven conforme a la libertad entonces están realizando lo que es parte de su nueva realidad en Cristo.
+##### Estas son cosas visibles, no internas. De esta manera es realizada, completada la ley (el principio) de Cristo, cuando los <u>creyentes</u> viven conforme a la libertad entonces están realizando lo que es parte de su nueva realidad en Cristo.
 
-#### Otra opción como ley de Cristo, también podría <u>referirse</u> al mandamiento que Cristo dijo a sus discípulos:
+##### Otra opción como ley de Cristo, también podría <u>referirse</u> al mandamiento que Cristo dijo a sus discípulos:
 
 ##### Vemos Juan 13:34, 15:12; 1 Juan 3:23, donde manda a que los creyentes se amén unos a otros, pero con el mismo amor de <u>Cristo</u> de Dios.
 
 ##### Esta realidad también podemos verla en estos pasajes de Gálatas, creyentes amándose unos a otros con el <u>amor</u> de Dios. En términos de Gálatas son creyentes experimentando el amor del Espíritu Santo, el amor de Dios, unos a otros.
 
-Gal 6:3  
+### Gálatas 6:3
 Porque si alguien se cree que es algo, no siendo nada, se engaña a sí mismo.
 
 #### Porque si alguien se cree que es algo, no siendo nada, se engaña a sí mismo.
@@ -2309,7 +2551,7 @@ Porque si alguien se cree que es algo, no siendo nada, se engaña a sí mismo.
 
 ##### De esta manera estará considerándose como algo que no es realmente, algo que no va conforme a la libertad de Cristo, se estará <u>engañando</u> él mismo. Será la realidad de Gálatas 5:26 y no la de Gálatas 6:2
 
-Gal 6:4  
+### Gálatas 6:4
 Pero que cada uno examine su propia obra, y entonces tendrá motivo para gloriarse solamente con respecto a sí mismo, y no con respecto a otro.
 
 #### Pero que cada uno examine su propia obra,...
@@ -2323,14 +2565,16 @@ Pero que cada uno examine su propia obra, y entonces tendrá motivo para gloriar
 #### Porque cada uno llevará su propia carga.
 ##### ¿Porqué por el Espíritu, examinarían su <u>propia</u> obra y podrían gozarse en aquello?
 
-Gal 6:5  
+### Gálatas 6:5
 Porque cada uno llevará su propia carga.
 
 ##### Porque cada uno creyente es responsable de la obra <u>propia</u> que realiza, ya sean las guiadas por los deseos de la carne, o por las del Espíritu, cada uno será responsable de ello. 2 Corintios 5:10-11
 
 ##### Este versículo no contradice el mandato de llevar las cargas unos de otros (Gálatas 6:2), ya que Pablo usa <u>términos</u> distintos: Una cosa es participar en la ayuda de un hermano que esta necesitado, y otra es la responsabilidad personal que cada creyente debe asumir delante de Dios, en base a sus obras.
 
-Gal 6:6  
+## Gálatas 6:6-10 Lo que uno siembra, eso cosecha
+
+### Gálatas 6:6
 Y al que se le enseña la palabra, que comparta toda cosa buena con el que le enseña.
 
 #### Y al que se le enseña la palabra, que comparta toda cosa buena con el que le enseña.
@@ -2344,9 +2588,7 @@ Y al que se le enseña la palabra, que comparta toda cosa buena con el que le en
 
 ##### Estos pasajes muestran el resultado de la libertad de Cristo <u>entre</u> los creyentes. Los creyentes por la fe, pueden ser parte de estas realidades, realidades que no tratan de individualismo o egoísmo, sino de una participación mutua, unos a otros. Es lo que Cristo proveyó.
 
-## Gálatas 6:7-10 - La libertad con propósitos eternos
-
-Gal 6:7  
+### Gálatas 6:7 
 No se dejen engañar, de Dios nadie se burla; pues todo lo que el hombre siembre, eso también segará.
 
 #### No se dejen engañar,...
@@ -2363,7 +2605,7 @@ No se dejen engañar, de Dios nadie se burla; pues todo lo que el hombre siembre
 
 ##### Al igual que un sembrador no recibe inmediatamente lo que sembró, sino que esto será más adelante en el <u>futuro</u>. De la misma manera todo andar del creyente tendrá su debida respuesta en un futuro.
 
-Gal 6:8  
+### Gálatas 6:8
 Porque el que siembra para su propia carne, de la carne segará corrupción, pero el que siembra para el Espíritu, del Espíritu segará vida eterna.
 
 #### Porque el que siembra para su propia carne, de la carne segará corrupción,...
@@ -2382,7 +2624,7 @@ Porque el que siembra para su propia carne, de la carne segará corrupción, per
 
 ##### El contexto muestra que el andar del creyente en dependencia de Dios o no, tendrá resultados reales en la vida del creyente, no relacionados a destino eterno, sino respecto a experimentar la <u>posición</u> eterna que ya posee durante su vida en la tierra.
 
-Gal 6:9  
+### Gálatas 6:9
 No nos cansemos de hacer el bien, pues a su tiempo, si no nos cansamos, segaremos.
 
 #### No nos cansemos de hacer el bien, pues a su tiempo, si no nos cansamos, segaremos.
@@ -2392,7 +2634,7 @@ No nos cansemos de hacer el bien, pues a su tiempo, si no nos cansamos, segaremo
 
 ##### Pablo aclara que no debería ser ese el pensamiento, es más, el creyente debe saber que todo lo bueno que haga por medio del <u>Espíritu</u>, a su tiempo será tomado en cuenta por el Señor. Así que no debe desanimarse, sino confiar en que por la fe esta participando de cosas eternas, no corruptibles.
 
-Gal 6:10  
+### Gálatas 6:10
 Así que entonces, hagamos bien a todos según tengamos oportunidad, y especialmente a los de la familia de la fe.
 
 #### Así que entonces, hagamos bien a todos según tengamos oportunidad,...
@@ -2407,17 +2649,15 @@ Así que entonces, hagamos bien a todos según tengamos oportunidad, y especialm
 
 ##### Y esto es algo que podemos experimentar junto con otros pecadores como nosotros, otros injustos que fueron justificados por la Gracia de Dios en Cristo. Esta es para lo que fuimos hechos libres, para vivir en libertad, de esta manera los hermanos en la fe y el mundo verán la libertad de Cristo, de primera <u>mano</u>.
 
-# Gálatas 6:11-18 - La verdadera gloria se encuentra en la libertad de Cristo provista en la cruz
+## Gálatas 6:11-13 - Lo que buscan los que presionan
 
-## Gálatas 6:11-16 - La libertad muestra lo realmente importante
-
-Gal 6:11  
+### Gálatas 6:11
 Miren con qué letras tan grandes les escribo de mi propia mano.
 
 #### Miren con qué letras tan grandes les escribo de mi propia mano.
 ##### Esta declaración indica el cierre de la carta. Pablo dará unas ultimas palabras a los hermanos gálatas, <u>haciendo</u> declaraciones de cierre.
 
-Gal 6:12  
+### Gálatas 6:12
 Los que desean agradar en la carne tratan de obligarlos a que se circunciden, simplemente para no ser perseguidos a causa de la cruz de Cristo.
 
 #### Los que desean agradar en la carne tratan de obligarlos a que se circunciden,...
@@ -2444,7 +2684,7 @@ Los que desean agradar en la carne tratan de obligarlos a que se circunciden, si
 
 ##### <u>Nuevamente</u> el pensamiento superficial, en este caso el de buscar el bienestar propio, eso no proviene de la libertad de Cristo (mensaje de la cruz), eso es el resultado de un falso mensaje.
 
-Gal 6:13  
+### Gálatas 6:13
 Porque ni aun los mismos que son circuncidados guardan la ley, pero ellos desean hacerlos circuncidar para gloriarse en la carne de ustedes.
 
 #### Porque ni aun los mismos que son circuncidados guardan la ley,...
@@ -2457,7 +2697,9 @@ Porque ni aun los mismos que son circuncidados guardan la ley, pero ellos desean
 
 ##### En Gálatas 5:26, encontramos que el pensamiento y confianza en la carne de este grupo solo era resultado de su mensaje, ya que no <u>provenía</u> del mensaje de la libertad de Cristo. Esto era resultado de un mensaje de esclavitud.
 
-Gal 6:14  
+## Gálatas 6:14-15 Solo me glorío en la cruz
+
+### Gálatas 6:14
 Pero jamás acontezca que yo me gloríe, sino en la cruz de nuestro Señor Jesucristo, por el cual el mundo ha sido crucificado para mí y yo para el mundo.
 
 #### Pero jamás acontezca que yo me gloríe, sino en la cruz de nuestro Señor Jesucristo,...
@@ -2474,7 +2716,7 @@ Pero jamás acontezca que yo me gloríe, sino en la cruz de nuestro Señor Jesuc
 
 ##### La realidad que Pablo ahora experimenta no provino del mundo y tampoco ahora vive por medio del mundo, ahora vive por <u>medio</u> de la realidad que Dios le proveyó por medio de Su Hijo Cristo, verdadera libertad. Gálatas 2:20.
 
-Gal 6:15  
+### Gálatas 6:15
 Porque ni la circuncisión es nada, ni la incircuncisión, sino una nueva creación.
 
 #### Porque ni la circuncisión es nada, ni la incircuncisión,...
@@ -2491,7 +2733,9 @@ Porque ni la circuncisión es nada, ni la incircuncisión, sino una nueva creaci
 
 ##### El creyente puede experimentar una vida que no proviene del mundo o del esfuerzo humano, sino una vida que proviene de lo eterno, por <u>medio</u> de Cristo crucificado.
 
-Gal 6:16  
+## Gálatas 6:16-18 - Palabras finales y bendición
+
+### Gálatas 6:16 
 Y a los que anden conforme a esta regla, paz y misericordia sea sobre ellos y sobre el Israel de Dios.
 
 #### Y a los que anden conforme a esta regla,...
@@ -2523,9 +2767,7 @@ Y a los que anden conforme a esta regla, paz y misericordia sea sobre ellos y so
 
 ##### Con esta declaración Pablo muestra que en <u>absoluto</u> no es así, Pablo (un judío de nacimiento) desea paz y misericordia sobre Israel, que es de Dios, es Su Pueblo y aún tiene planes con ellos en un futuro. Romanos 9-11
 
-## Gálatas 6:17-18 - Sufrimiento por causa de la libertad y despedida
-
-Gal 6:17  
+### Gálatas 6:17
 De aquí en adelante nadie me cause molestias, porque yo llevo en mi cuerpo las marcas de Jesús.
 
 #### De aquí en adelante nadie me cause molestias, porque yo llevo en mi cuerpo las marcas de Jesús.
@@ -2537,7 +2779,7 @@ De aquí en adelante nadie me cause molestias, porque yo llevo en mi cuerpo las 
 
 ##### Participaba de sufrimientos por causa de la verdad, por la <u>causa</u> de Cristo por lo que eran las mismas marcas de Cristo, participando junto con Él de los sufrimientos por causa de la verdad. Colosenses 1:24; 2 Corintios 4:10
 
-Gal 6:18  
+### Gálatas 6:18
 Hermanos, la gracia de nuestro Señor Jesucristo sea con el espíritu de ustedes. Amén.
 
 #### Hermanos, la gracia de nuestro Señor Jesucristo sea con el espíritu de ustedes. Amén.
