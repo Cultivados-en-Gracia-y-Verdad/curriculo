@@ -2539,7 +2539,7 @@ Marchaste por el mar con Tus caballos, En el oleaje de las inmensas aguas.
 
 ##### En **3:16**, Habacuc vuelve a sí mismo: Su cuerpo, su temor, su espera. 
 
-##### La visión (revelación de Dios) cambia la perspectiva del profeta, por lo tanto también cambia donde estaba su fe, esto se verá en la manera que se expresará en los siguientes versiculos.
+##### La visión (revelación de Dios) cambia la perspectiva del profeta, por lo tanto también cambia donde estaba su fe, esto se verá en la manera que se expresará en los siguientes versículos.
 
 ## Habacuc 3:16 La respuesta del profeta ante el Señor
 
@@ -2547,116 +2547,116 @@ Marchaste por el mar con Tus caballos, En el oleaje de las inmensas aguas.
 
 Oí, y se estremecieron mis entrañas; A Tu voz temblaron mis labios. Entra podredumbre en mis huesos, Y tiemblo donde estoy. Tranquilo espero el día de la angustia, Al pueblo que se levantará para invadirnos.
 
-### Habacuc 3:16a “*Oí*"
+#### Oí
 
-#### Habacuc vuelve al punto inicial de su transformación. Antes dijo: “*he oído tu palabra, y temí*” (3:2). Aquí, oír ya no produce solo temor reverente,  produce **impacto corporal total**. La revelación no fue abstracta. Fue **experimentada**.
+##### Habacuc vuelve al punto inicial de su transformación. Antes dijo: “*he oído tu palabra, y temí*” (3:2). Aquí, oír ya no produce solo temor reverente,  produce **impacto corporal total**. La revelación  de Dios no fue abstracta. Fue **experimentada**.
 
-### Habacuc 3:16b “*se conmovieron mis entrañas*"
+#### y se estremecieron mis entrañas
 
-#### Las entrañas representan: centro emocional, profundidad interna, reacción involuntaria. Habacuc no controla esta respuesta. No la razona. No la filtra. La presencia de Dios **afecta lo más profundo** del ser humano.
+Las entrañas representan: centro emocional, profundidad interna, reacción involuntaria. Habacuc no controla esta respuesta. No la razona. No la filtra. La presencia de Dios **afecta lo más profundo** del ser humano.
 
-### Habacuc 3:16c “*a la voz temblaron mis labios*"
+#### A Tu voz temblaron mis labios
 
-#### La voz de Dios provoca pérdida de firmeza, incapacidad de responder inmediatamente, silencio forzado. Los labios que antes protestaban (cap. 1) ahora **tiemblan**. No por miedo servil, sino por **conciencia de grandeza**.
+##### La voz de Dios provoca pérdida de firmeza, incapacidad de responder inmediatamente, silencio forzado. Los labios que antes hablaban en protesta (cap. 1) ahora **tiemblan** delante del que ahora habla. No por miedo servil, sino por **conciencia de grandeza**, un temor que proviene de la fe.
 
-### Habacuc 3:16d “*pudrición entró en mis huesos*"
+#### Entra podredumbre en mis huesos
 
-#### Esta es una de las descripciones más fuertes del libro.
+##### Esta es una de las descripciones más fuertes del libro.
 
-#### Los huesos representan: estructura, fuerza, estabilidad personal.
+##### Los huesos representan: Estructura, fuerza, estabilidad personal.
 
-#### Que la pudrición entre en ellos indica: colapso de autosuficiencia, agotamiento total, reconocimiento de fragilidad. Habacuc no queda fortalecido externamente; queda **quebrantado internamente**.
+##### Que la pudrición entre en ellos indica: Colapso de autosuficiencia, agotamiento total, reconocimiento de fragilidad. Habacuc no queda fortalecido externamente; queda **quebrantado internamente**.
 
-### Habacuc 3:16e “*y dentro de mí mismo me estremecí*"
+#### Y tiemblo donde estoy
 
-#### La reacción no es superficial. No es momentánea. Todo el ser del profeta: físico, emocional, interno, responde a la revelación de Dios. Esto desmonta cualquier idea de fe triunfalista. La fe verdadera **no anestesia el impacto**.
+##### La reacción no es superficial. No es momentánea. Todo el ser del profeta: Físico, emocional, interno, responde a la revelación de Dios. Esto desmonta cualquier idea de fe triunfalista. La fe verdadera **no anestesia el impacto** experiencial de conocer a Dios.
 
-### Habacuc 3:16f “*si bien estaré quieto*"
+#### Tranquilo espero
 
-#### Aquí ocurre el giro decisivo. A pesar de: temblor, debilidad, angustia corporal, Habacuc declara una **decisión consciente**: estaré quieto.
+##### Aquí ocurre el giro decisivo. A pesar de: Temblor, debilidad, angustia corporal, Habacuc declara una **posición que proviene de la fe**: Tranquilo espera.
 
-#### No porque no haya peligro, sino porque **Dios ha sido revelado**. La quietud no es negación del miedo, es **sometimiento confiado**.
+##### No porque no haya peligro, sino porque **Dios se ha revelado**. La quietud no es negación del miedo o las circunstancias, es **descanso** en la Roca firme, El Señor de los ejércitos.
 
-### Habacuc 3:16g “*en el día de la angustia*"
+#### el día de la angustia
 
-#### Habacuc no espiritualiza la realidad. El día de la angustia: sigue siendo real, sigue siendo futuro, sigue siendo inevitable. La fe no elimina el día malo; **cambia cómo se lo espera**.
+##### Habacuc no espiritualiza la realidad. El día de la angustia: Sigue siendo real, sigue siendo futuro, sigue siendo inevitable. La fe no elimina el día malo; **cambia cómo se lo espera**. Tranquilo, porque sabe quien esta bajo el control y designio de todo ello.
 
-### Habacuc 3:16h “*cuando suba al pueblo el que lo invadirá*"
+#### Al pueblo que se levantará para invadirnos.
 
-#### El enemigo no desaparece.  La invasión no es cancelada.
+##### El enemigo no desaparece.  La invasión no es cancelada por Dios.
 
-#### Esto es crucial: Habacuc acepta que el juicio anunciado **aún vendrá**. La fe no reescribe la historia; la **atraviesa con confianza**.
-#### Habacuc 3:16 establece este principio fundamental: La fe bíblica no es ausencia de temor, sino quietud confiada en medio de él. Habacuc no niega su reacción humana. La integra bajo la soberanía de Dios.
+##### Esto es crucial: Habacuc acepta que el juicio anunciado **aún vendrá**. La fe no reescribe la historia; la **atraviesa con confianza**.
+##### Habacuc 3:16 establece este principio fundamental: La fe bíblica no es ausencia de temor, sino quietud confiada en medio de él. 
 
-##### Capítulo 1: inquietud y protesta
-##### Capítulo 2: redefinición de vida por fe
-##### Capítulo 3: revelación del Dios soberano
-##### Aquí: **respuesta personal transformada**. Habacuc ya no exige justicia inmediata. **Descansa**.
+##### Habacuc no niega su reacción humana. La integra bajo la soberanía de Dios. La fe no se trata de suprimir emociones, sino que estas sean guiadas por la fe en Dios.
 
-#### Este versículo: prepara la confesión final (3:17–19). explica por qué Habacuc puede alegrarse sin circunstancias favorables, muestra que la fe madura **coexiste con fragilidad humana**. El profeta no se vuelve invulnerable. Se vuelve **estable en Dios**.
+- Capítulo 1: Inquietud y protesta
+- Capítulo 2: Redefinición de vida por fe
+- Capítulo 3: Revelación del Dios soberano
+- Aquí: **respuesta personal transformada**. Habacuc ya no exige su justicia inmediata. **Descansa** en la justicia de Dios.
+
+##### Este versículo: prepara la confesión final (3:17–19). explica por qué Habacuc puede alegrarse sin circunstancias favorables, muestra que la fe madura **coexiste con fragilidad humana**. El profeta no se vuelve invulnerable. Se vuelve **estable en Dios**, su Roca.
 
 ## Habacuc 3:17–19  Alabanza final del profeta
 
-Habacuc 3:17 
-"*Aunque la higuera no florezca, ni en las vides haya frutos; aunque falte el producto del olivo, y los labrados no den mantenimiento; y las ovejas sean quitadas de la majada, y no haya vacas en los corrales.*"
+### Habacuc 3:17
 
-#### Hay una estructura condicional acumulativa (“*aunque… aunque… aunque…*”). El versículo está construido por **una cadena de concesiones**. No es una hipótesis única. Es una **desintegración progresiva de toda seguridad económica y vital**.
+Aunque la higuera no eche brotes, Ni haya fruto en las viñas; Aunque falte el producto del olivo, Y los campos no produzcan alimento; Aunque falten las ovejas del redil, Y no haya vacas en los establos
 
-#### Cada “aunque” elimina un pilar más de estabilidad. La fe de Habacuc no se apoya en un solo escenario, sino que **sobrevive al colapso total**.
+#### Aunque…Aunque…Aunque…
 
-### Habacuc 3:17a “*la higuera no florezca*”
+Hay una estructura condicional acumulativa. El versículo está construido por **una cadena de concesiones**. No es una hipótesis única. Es una **desintegración progresiva de toda seguridad económica y vital**.
 
-#### La higuera representa: provisión básica, estabilidad doméstica, continuidad diaria.
+Cada “aunque” elimina un pilar más de estabilidad humana. La fe de Habacuc no se apoya en un solo escenario de seguridad humana, sino que incluso **sobrevive al colapso total de su propia  capacidad**.
 
-#### Que no florezca indica: interrupción temprana, fracaso desde el inicio del ciclo. No hay ni siquiera promesa de fruto futuro.
+#### la higuera no eche brotes
 
-### Habacuc 3:17b “*ni en las vides haya frutos*”
+##### La higuera representa: Provisión básica, estabilidad doméstica, continuidad diaria.
 
-#### La vid está asociada con: gozo, celebración, abundancia. Aquí no se niega el lujo; se **niega el gozo legítimo**. La fe de Habacuc no depende ni siquiera de la alegría normal de la vida.
+##### Que no florezca indica: interrupción temprana, fracaso desde el inicio del ciclo. No hay ni siquiera promesa de fruto futuro.
 
-### Habacuc 3:17c “*falte el producto del olivo*”
+#### Ni haya fruto en las viñas
 
-#### El olivo provee: aceite, alimento, luz, medicina.
+##### La viña está asociada con: Gozo, celebración, abundancia. Aquí no se niega el lujo; se **niega el gozo legítimo**. La fe de Habacuc no depende ni siquiera de la alegría normal de la vida.
 
-#### Su pérdida implica: oscuridad, escasez, debilitamiento de la vida cotidiana. La fe continúa aun cuando los **medios de sostenimiento desaparecen**.
+#### Aunque falte el producto del olivo
 
-### Habacuc 3:17d “*los labrados no den mantenimiento*”
+##### El olivo provee: Aceite, alimento, luz, medicina.
 
-#### Aquí se toca el **trabajo humano**. No es solo pérdida natural; es frustración del esfuerzo. 
+##### Su pérdida implica: Oscuridad, escasez, debilitamiento de la vida cotidiana. 
 
-#### Habacuc contempla un escenario donde: se trabaja, pero no se sostiene la vida. La fe no se apoya en productividad.
+##### La fe continúa aun cuando los **medios de sostenimiento desaparecen**.
 
-### Habacuc 3:17e “*las ovejas sean quitadas de la majada*”
+#### Y los campos no produzcan alimento
 
-#### Las ovejas representan: subsistencia básica, seguridad familiar, continuidad comunitaria.
+##### Aquí se toca el **trabajo humano**. No es solo pérdida natural; es frustración del esfuerzo, ya que llegará a ser inútil.
 
-#### Ser “quitadas” sugiere: pérdida violenta, invasión, despojo externo. No es mala cosecha; es **opresión histórica**.
+##### Habacuc contempla un escenario donde: Se trabaja, pero no se sostiene la vida. La fe no se apoya en productividad.
 
-### Habacuc 3:17f “*no haya vacas en los corrales*”
+#### Aunque falten las ovejas del redil
 
-#### Este es el cierre total. Las vacas eran: reserva, capital, seguridad a largo plazo.
+##### Una mejor traducción la encontramos en la RV60: *Y las ovejas sean quitadas de la majada*
 
-#### Aquí no queda: ahorro, respaldo, futuro visible. Habacuc imagina **ruina completa**.
+##### Las ovejas representan: Subsistencia básica, seguridad familiar, continuidad comunitaria.
 
-#### Habacuc 3:17 establece este principio decisivo: La fe bíblica no depende ni de provisión, ni de productividad, ni de estabilidad, ni de futuro visible.
+##### Que sean "quitadas" sugiere: Pérdida violenta, invasión, despojo externo. No se trata de una mala época; se refiere a una **opresión histórica**.
 
-#### Todo apoyo humano ha sido retirado.
+#### Y no haya vacas en los establos
 
-#### Habacuc comenzó pidiendo: justicia inmediata, corrección visible, alivio histórico. Aquí acepta la fe puede existir **sin ninguna señal externa de favor**. Esto responde definitivamente a la idea de que la aprobación de Dios se gana por justicia humana.
+##### Este es el cierre total. Las vacas eran: Reserva, capital, seguridad a largo plazo.
 
-#### Este versículo: prepara el clímax confesional (3:18–19), establece el escenario de pérdida total, demuestra que la fe de Habacuc ya no negocia con Dios. La fe ya no dice: si tú haces… entonces yo confiaré. La fe ha quedado **sola con Dios**.
+##### Aquí no queda: Ahorro, respaldo, futuro visible. Habacuc imagina **ruina completa**.
 
-#### Al início del libro, Habacuc parecía depender de la ley para producir algo que nunca fue diseñada para garantizar. En Habacuc 1:2–4, su queja presupone que la Torah debería ser inmediatamente aplicada, visiblemente efectiva y socialmente correctiva; que la justicia de Dios debería medirse por los resultados en la sociedad; y que la violación del pacto debería provocar una corrección pronta. 
-
-#### De este modo, el profeta no trata la ley únicamente como revelación de la voluntad de Dios, sino como un mecanismo capaz de producir justicia en la nación. Sin embargo, esa expectativa coloca sobre la ley un peso que no le corresponde. La ley expone la injusticia, define lo que es correcto y testifica del carácter de Dios, pero no garantiza obediencia, transformación moral ni orden social. 
-
-#### La frustración de Habacuc surge precisamente porque la ley está haciendo lo que siempre hace: revelar el pecado, no corregirlo.
-
-#### En ese sentido, su frustración no nace de incredulidad ni de rebeldía, sino de una confianza mal ubicada. Habacuc parece asumir que la posesión de la ley, la identidad del pacto y la distinción moral frente a otras naciones deberían obligar a Dios a actuar de una forma determinada. Su confianza no está todavía plenamente anclada en la persona de Dios, sino parcialmente en el sistema, la estructura y los medios del pacto.
-
-#### Por eso la respuesta divina en Habacuc 1:5 resulta tan desestabilizadora: Dios no corrige los datos del profeta, sino sus expectativas. A lo largo del libro, Habacuc no transita de incredulidad a fe, sino de confiar en cómo Dios debería actuar a descansar en quién Dios es. Al final, ya no apela a la ley ni mide la justicia por resultados visibles, sino que descansa en el carácter, la fidelidad y la soberanía de Dios, aun cuando la justicia permanezca sin resolver. 
-
-#### Su frustración era real, pero estaba desalineada: no porque la justicia no importe, sino porque esperaba que el instrumento equivocado la asegurara.
+- Habacuc 3:17 establece este principio decisivo: La fe bíblica no depende ni de provisión, ni de productividad, ni de estabilidad, ni de futuro visible.
+- Todo apoyo humano ha sido retirado.
+- Habacuc comenzó pidiendo: justicia inmediata, corrección visible, alivio histórico. Aquí acepta la fe puede existir **sin ninguna señal externa de favor**. Esto responde definitivamente a la idea de que la aprobación de Dios se gana por justicia humana.
+- Este versículo: prepara el clímax confesional (3:18–19), establece el escenario de pérdida total, demuestra que la fe de Habacuc ya no negocia con Dios. La fe ya no dice: si tú haces… entonces yo confiaré. La fe ha quedado **sola con Dios**.
+- Al início del libro, Habacuc parecía depender de la ley para producir algo que nunca fue diseñada para garantizar. En Habacuc 1:2–4, su queja presupone que la Torah debería ser inmediatamente aplicada, visiblemente efectiva y socialmente correctiva; que la justicia de Dios debería medirse por los resultados en la sociedad; y que la violación del pacto debería provocar una corrección pronta. 
+- De este modo, el profeta no trata la ley únicamente como revelación de la voluntad de Dios, sino como un mecanismo capaz de producir justicia en la nación. Sin embargo, esa expectativa coloca sobre la ley un peso que no le corresponde. La ley expone la injusticia, define lo que es correcto y testifica del carácter de Dios, pero no garantiza obediencia, transformación moral ni orden social. 
+- La frustración de Habacuc surge precisamente porque la ley está haciendo lo que siempre hace: revelar el pecado, no corregirlo.
+- En ese sentido, su frustración no nace de incredulidad ni de rebeldía, sino de una confianza mal ubicada. Habacuc parece asumir que la posesión de la ley, la identidad del pacto y la distinción moral frente a otras naciones deberían obligar a Dios a actuar de una forma determinada. Su confianza no está todavía plenamente anclada en la persona de Dios, sino parcialmente en el sistema, la estructura y los medios del pacto.
+- Por eso la respuesta divina en Habacuc 1:5 resulta tan desestabilizadora: Dios no corrige los datos del profeta, sino sus expectativas. A lo largo del libro, Habacuc no transita de incredulidad a fe, sino de confiar en cómo Dios debería actuar a descansar en quién Dios es. Al final, ya no apela a la ley ni mide la justicia por resultados visibles, sino que descansa en el carácter, la fidelidad y la soberanía de Dios, aun cuando la justicia permanezca sin resolver. 
+- Su frustración era real, pero estaba desalineada: no porque la justicia no importe, sino porque esperaba que el instrumento equivocado la asegurara.
 
 Habacuc 3:18 
 "*Con todo, yo me alegraré en Jehová, y me gozaré en el Dios de mi salvación.*"
