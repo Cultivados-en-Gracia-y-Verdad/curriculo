@@ -54,14 +54,16 @@
 
 ### Para entender mejor nuestro objetivo, el anillo exterior de la diana es **nuestro comportamiento**. Como humanos, nuestro comportamiento incluye las acciones externas que llevan a cabo nuestros cuerpos. 
 
-### Si entramos más hacia el centro de la diana, vemos que nuestro comportamiento, está determinado por el siguiente anillo en el objetivo, **nuestros valores**, que son: estándares comunes de lo que es aceptable o inaceptable, importante o no importante, correcto o incorrecto, viable o inviable... en una comunidad de sociedad ([^1])En otras palabras, nuestro comportamiento proviene de nuestros valores. Nuestros valores determinan como nos comportamos. Nuestros valores están determinados por el siguiente anillo, **nuestras creencias**. Por ejemplo: valoramos las creencias de la superación en el aprendizaje y educación personal, con el fin de brindar la mejor educación y crecimiento a nuestros hijos, Entonces, lo que creemos determina nuestros valores.
+### Si entramos más hacia el centro de la diana, vemos que nuestro comportamiento, está determinado por el siguiente anillo en el objetivo, **nuestros valores**, que son: Estándares comunes de lo que es aceptable o inaceptable, importante o no importante, correcto o incorrecto, viable o inviable... en una comunidad de sociedad ([^1])En otras palabras, nuestro comportamiento proviene de nuestros valores. Nuestros valores determinan como nos comportamos. 
+
+### Nuestros valores están determinados por el siguiente anillo, **nuestras creencias**. Por ejemplo: valoramos las creencias de la superación en el aprendizaje y educación personal, con el fin de brindar la mejor educación y crecimiento a nuestros hijos, Entonces, lo que creemos determina nuestros valores.
 
 
 ### Sin embargo, es el siguiente anillo en la diana el que determina nuestras creencias y esa es **nuestra cosmovisión**. La visión del mundo es la orientación fundamental de un individuo o sociedad. Es lo que determina lo que creen.
 
 ### Entonces al centro de la diana está la **cosmovisión**. El siguiente anillo son las **creencias**, seguido por los **valores** y por último está nuestro **comportamiento**. Siguiendo la ilustración de la diana para entender nuestro objetivo, ¿Dónde crees que apuntaremos en este estudio? ¡Exacto! ¡Al centro! Queremos dar con el dardo a establecer una cosmovisión correcta. 
 
-### En realidad, todos los humanos hacemos y creemos lo que es mejor en beneficio personal de una forma u otra. En cambio, en el centro de nuestra cosmovisión está nuestro conocimiento de Dios (o falta de él). Es el grado de nuestro conocimiento de Dios lo que finalmente determinará nuestra orientación fundamental en la vida, ¡incluso como cristianos! Cuanto menos conozcamos a Dios, mayor será nuestra orientación y enfoque al beneficio personal propio.
+### En realidad, todos los humanos hacemos y creemos lo que es mejor en beneficio personal de una forma u otra. En cambio, en el centro de nuestra cosmovisión está nuestro conocimiento de Dios (o falta de él). Es el grado de nuestro conocimiento de Dios lo que finalmente determinará nuestra orientación fundamental en la vida, ¡incluso como cristianos! Cuanto menos conozcamos a Dios, mayor será nuestra orientación fundamental en el “yo".
 
 ### Aquí es donde sale a la luz la diferencia fundamental entre la enseñanza tradicional y la enseñanza cronológica. Cuando elegimos o sacamos ciertas porciones de las Escrituras y las enseñamos de forma individual sin antes tomarnos el tiempo para establecer una base contextual adecuada, definitivamente el enfoque será totalmente cambiado de la perspectiva de como opinan las personas acerca de Dios y como vivir la vida cristiana. 
 
@@ -69,7 +71,7 @@
 
 ### Su enfoque estará en sí mismos, en cuanto hacen por Dios, en cuan devotos son a Dios y en sus propios compromisos de vivir una vida santa en lugar de confiar en las provisiones que Dios **ya les ha dado**. Por defecto, los llevaremos a pensar que necesitan hacer algo para obtener la bendición y la aceptación de Dios en lugar de descansar en lo que Él, en lo que Él ya ha hecho y nos ha dado a través de Cristo.
 
-### Cuando revisas el plan eterno de Dios en Cristo antes de la creación (es decir, mucho antes de Génesis, y más bien empiezas por 2 Timoteo 1:9-10; 1 Pedro 1:19-20; Efesios 1:4) y proporcionas un desarrollo fundamental y progresivo de todo el contexto de la Palabra de Dios, entonces puedes ver más claramente los atributos y el carácter de Dios, y su plan eterno de salvación con la humanidad. 
+### Cuando comienzas por el principio, (es decir, mucho antes de Génesis, y más bien empiezas por 2 Timoteo 1:9-10; 1 Pedro 1:19-20; Efesios 1:4) y proporcionas un desarrollo fundamental y progresivo de todo el contexto de la Palabra de Dios, entonces puedes ver más claramente los atributos y el carácter de Dios vividos a través de Su interacción con la humanidad.
 
 ### Te vas con una perspectiva más clara en cuanto a: Como es Dios realmente, como verdaderamente es la naturaleza humana (y de lo que es capaz), y como Dios interactúa con la humanidad. 
 
@@ -113,9 +115,9 @@
 
 ### A través del Antiguo Testamento, Dios hace muchas referencias a la importancia de conocer los **caminos** del Señor. Deleitarse en Sus caminos, cantar Sus caminos, conocer Sus caminos. 
 
-#### 2 Crónicas 17:6: *Y su corazón se entusiasmó **en los caminos del SEÑOR**, y además quitó de Judá los lugares altos y las Aseras.* 
+#### 2 Crónicas 17:6: *Y su corazón se entusiasmó **en los caminos del SEÑOR**, y además quitó de Judá los lugares altos y las Aseras.*
 
-#### Salmo 138:5: *Y cantarán de los caminos del SEÑOR, Porque grande es la gloria del SEÑOR.* Los caminos aquí también pueden describirse como un curso de vida o un modo de acción. Es el corazón de Dios. 
+#### Salmo 138:5: *Y cantarán de los caminos del SEÑOR, Porque grande es la gloria del SEÑOR.* Los "caminos" aquí también pueden describirse como un curso de vida o un modo de acción. Es el corazón de Dios.
 
 #### Hechos 13:22*: Cuando lo quitó, les levantó por rey a David, del cual Dios también testificó y dijo: HE HALLADO A DAVID, hijo de Isaí, UN HOMBRE CONFORME A MI CORAZÓN, que hará toda Mi voluntad.*
 
@@ -129,7 +131,7 @@
 
 #### Pero David conocía a Dios, y por esa razón se acercó a Él, pidió misericordia de Él. Sin embargo, el niño igualmente murió.
 
-#### Al fallecer el niño, David se levanta, se lava, se unge y entra en la casa del Señor y lo adora. Observe que no dice que entró a lamentarse. ¡Entró a adorar! 
+#### Al fallecer el niño, David se levanta, se lava, se unge y entra en la casa del Señor y lo adora. Observe que no dice que entró a lamentarse. ¡Entró a adorar!
 
 #### Después de todo lo que David había hecho y causado, ver a ese bebé muerto a causa de su pecado, sería fácil pensar que David se sentiría muy indigno de adorar a Dios. La respuesta de muchos hoy seria ¿Por qué querría Dios escuchar mi voz? ¿Por qué Dios querría siquiera mirarme?
 
@@ -209,7 +211,7 @@
 
 ### Incluso entre los cristianos, existen muchos conceptos erróneos y equivocados acerca de Dios.
 
-### Esto no es culpa de Dios, ya que Él no se ha escondido del hombre; Él ha hecho todo lo posible para revelarse claramente al mundo a través de Su Palabra y también a través de su creación. El objetivo de este estudio es el de ir aclarando cada vez mas las preguntas acerca de como es él realmente y conocerle mas a profundidad.
+### Esto no es culpa de Dios, ya que Él no se ha escondido del hombre; Él ha hecho todo lo posible para revelarse claramente al mundo a través de Su Palabra y también a través de su creación. A medida que continuemos con este estudio, las preguntas acerca de Dios como ser, quién es Él, cómo es realmente y qué significa eso en tu vida diaria se volverán cada vez más claras.
 
 ### Hay cosas que encontrarás que Dios revela acerca de sí mismo al principio de Génesis, y otras cosas se aclararán a medida que avancemos en el Antiguo Testamento. A medida que estudiamos el Antiguo Testamento, la naturaleza y el carácter de Dios se revelarán por la forma en que interactúa a través de los eventos que registró para nosotros en Su Palabra.
 
@@ -239,11 +241,11 @@
 
 ### Dios existe por Sí mismo. Él existe por Su propio poder. Él es la fuente de todo poder y toda vida. Los humanos somos exactamente lo contrario. Somos extremadamente dependientes de otras personas y otras cosas. Sin los padres, no habríamos llegado al mundo, y sin Su cuidado, nunca habríamos vivido más allá de nuestras primeras 48 horas. Sin aire, comida y agua, moriríamos muy rápido. ¿Cuánto tiempo podríamos funcionar sin dormir? ¿Sin los rayos ultravioleta del sol? Las formas de nuestra dependencia son demasiadas numerosas para contarlas, ¡pero Dios no necesita ni una sola cosa!
 
-### Es asombroso considerar la forma en que el Espíritu de Dios comienza el libro de Génesis. Nos presenta de inmediato a Dios en la plenitud de la esencia de Su ser y actuar. No hay ningún argumento preliminar para su existencia. Lo oímos irrumpir en la quietud y la oscuridad de la tierra con el propósito de desarrollar un lugar en donde cumplir Su plan eterno de redención para con la humanidad y manifestar en él Su eterno poder y deidad.
+### Es asombroso considerar la forma en que el Espíritu de Dios comienza el libro de Génesis. Nos presenta de inmediato a Dios en la plenitud de la esencia de Su ser y actuar. No hay ningún argumento preliminar para su existencia. Lo oímos irrumpir en la quietud y la oscuridad de la tierra con el propósito de desarrollar un lugar en donde cumplir Su plan eterno de redención para con la humanidad y manifestar en él Su eterno poder y deidad. Colosenses 1:16-18
 
 ### La primera frase de la Palabra de Dios nos expone quien es Dios y su fuente infinita de poder,  No existe ningún argumento de Dios probando su existencia, debido a que él mismo se encuentra revelándose quien es él a través de lo creado.
 
-### Él existe de una manera completamente diferente su creación. Nosotros, Sus criaturas, existimos de una manera dependiente, derivada, finita y frágil; pero Dios existe de manera eterna, sin la necesidad cosa alguna para subsistir, sin embargo nosotros somos seres finitos, que envejecemos y morimos, sin embargo Dios continúa para siempre sin cambios porque es su naturaleza eterna. Este es uno de los muchos contrastes entre la criatura y el Creador. ([^2])
+### Él existe de una manera completamente diferente su creación. Nosotros, Sus criaturas, existimos de una manera dependiente, derivada, finita y frágil; pero Dios existe de manera eterna, sin la necesidad de cosa alguna para subsistir, sin embargo nosotros somos seres finitos, que envejecemos y morimos, pero Dios continúa para siempre sin cambios porque es Su naturaleza eterna. Este es uno de los muchos contrastes entre la creación y el Creador. ([^2])
 
 ### La eternidad de Dios es extremadamente significativa para nosotros como creyentes hoy, porque no solo Dios mismo es eterno, sino que también todos Sus atributos son eternos:
 
@@ -297,7 +299,7 @@
 
 #### En toda nuestra mente sabemos que esto es cierto. Pero todos los días, mientras caminamos por la vida, ¿estamos viviendo y viendo la vida a la luz de esta realidad?
 
-#### Si analizaríamos nuestras vidas, encontraríamos muchas áreas de independencia de Dios, en muchos aspectos donde dependemos completamente de nuestros propios esfuerzos, sabiduría y comprensión, son un reflejo de no conocer a cabalidad quien es Dios realmente.
+#### Si analizaríamos nuestras vidas, todos encontraríamos muchas áreas de independencia de Dios dentro de nosotros, lugares o áreas donde dependemos de nuestros propios esfuerzos, sabiduría y comprensión en lugar de Dios. Estos son signos de no conocer a Dios.
 
 #### ¿Y en nuestra visión de Satanás? ¿Hay realmente una batalla entre Dios y Satanás? Las Escrituras hablan de una batalla que se desarrolla dentro de nosotros entre la carne y el espíritu. Satanás anda como un león rugiente buscando a quien devorar, buscando a quien engañar. Pero desde la perspectiva de Dios, ¿hay realmente una batalla entre Dios y Satanás? No, Satanás ya es un enemigo derrotado.
 
@@ -2722,7 +2724,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 #### Moisés se aferraba a excusas para rechazar este mandamiento/petición de Dios de regresar a Egipto. El último intento que tuvo de ayudar a su pueblo fue rechazado por los israelitas y resultó en que el faraón lo buscara para matarlo. Moisés sabía que los israelitas lo mirarían y le dirían: *¿Quién eres tú y por qué debemos creerte?*. ¡También debemos recordar que Israel había sido esclavo durante 400 años! Eso es mucho, mucho tiempo
 
-#### Bolivia es una nación recién desde hace 200 años y, sin embargo, desde nuestra perspectiva, parece que nuestro país siempre ha sido así. Esta es nuestra identidad.
+#### Bolivia es una nación recién desde hace 200 años y, sin embargo, desde nuestra perspectiva, parece que nuestro país "siempre ha sido así". Esta es nuestra identidad.
 
 #### Israel había sido esclavo durante 400 años. Esa era su identidad. Aunque estaban comenzando a clamar a Dios, era todo lo que habían conocido. Moisés sabía que harían preguntas. En los tiempos del Antiguo Testamento, el nombre de una persona enfatizaba algunas características o cualidades personales sobre ellos. Por ejemplo, el nombre de Moisés significaba "sacado de las aguas" de porque la hija del faraón lo rescató de una cesta del rio Nilo. Pensemos en los atributos de Dios que se encuentran registrados en la biblia y cual podría significar su nombre.
 
@@ -2806,7 +2808,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ## Moisés y Aaron se presentan al Faraón
 
-### ¡Dios es supremo! Nada bajo el cielo o la tierra puede disminuir Su autoridad. Su palabra es confiable y Sus planes son imparables. Hemos aprendido que Satanás desafió arrogantemente a su Hacedor, pero fue en vano. A lo largo de la historia, ha tratado tenazmente de oponerse a Dios. Satanás confabuló y convenció al hombre para que hiciera lo mismo, pero Dios nunca será derrotado. Estos actos de desafío y rebelión solo sirven para proporcionar a Dios un telón de fondo para mostrar su gran poder. ¡Satanás mismo se ha convertido en nada más que una herramienta en la mano de Dios que Él usa donde Él quiere para llevar a cabo Su voluntad para Su gloria! Faraón se negó a obedecer el mandato de Dios, y sucederá lo mismo con él
+### ¡Dios es supremo! Nada bajo el cielo o la tierra puede disminuir Su autoridad. Su palabra es confiable y Sus planes son imparables. Hemos aprendido que Satanás desafió arrogantemente a su Hacedor, pero fue en vano. A lo largo de la historia, ha tratado tenazmente de oponerse a Dios. Satanás confabuló y convenció al hombre para que hiciera lo mismo, pero Dios nunca será derrotado. Estos actos de desafío y rebelión solo sirven para proporcionar a Dios un telón de fondo para mostrar su gran poder. ¡Satanás mismo se ha convertido en nada más que una herramienta en la mano de Dios que Él usa donde Él quiere para llevar a cabo Su voluntad para Su gloria! Faraón se negó a obedecer el mandato de Dios, y sucederá lo mismo con él.
 
 ### Éxodo 5:1-2 *Después Moisés y Aarón fueron y dijeron a Faraón: Así dice el SEÑOR, Dios de Israel: Deja ir a Mi pueblo para que me celebre una fiesta en el desierto. Pero Faraón dijo: ¿Quién es el SEÑOR para que yo escuche Su voz y deje ir a Israel? No conozco al SEÑOR, y además, no dejaré ir a Israel.*
 
@@ -3038,9 +3040,9 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ##### ¿Por qué sigues pidiendo ayuda? Ya les di Mi promesa de lo que iba a hacer. Dejen de pedir ayuda y diles a los israelitas que se muevan.
 
-#### Esta es una imagen física de lo que hacemos con respecto a nuestras vidas cristianas hoy. Al igual que los israelitas, vemos nuestra gran necesidad. Vemos el pecado en el que seguimos caminando. Como Moisés, seguimos clamando a Dios por ayuda. Seguimos pidiéndole que nos cambie, que nos empodere, que nos transforme, que nos ponga un cerco, que nos dé fuerza, etc. 
+#### Esta es una imagen física de lo que hacemos con respecto a nuestras vidas cristianas hoy. Al igual que los israelitas, vemos nuestra gran necesidad. Vemos el pecado en el que seguimos caminando. Como Moisés, seguimos clamando a Dios por ayuda. Seguimos pidiéndole que nos cambie, que nos empodere, que nos transforme, que nos ponga un cerco, que nos dé fuerza, etc.
 
-#### Pero como lo hizo con Moisés, Dios nos dice: ¿Por qué sigues clamando a mí por ayuda? *Ya les he dado todas las cosas que pertenecen a la vida y a la piedad*. Ya he provisto tu salvación de la pena del pecado, así como del poder del pecado. ¡Solo créelo y camina en esa verdad!
+#### Pero como lo hizo con Moisés, Dios nos dice: ¿Por qué sigues clamando a mí por ayuda? *Ya les he dado todas las cosas que pertenecen a la vida y a la piedad*. (2 Pedro 1:3) Ya he provisto tu salvación de la pena del pecado, así como del poder del pecado. ¡Solo créelo y camina en esa verdad!
 
 ### Leer Éxodo 14:19-22.
 
@@ -3100,7 +3102,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 #### Dios había declarado claramente Su promesa de que los llevaría de regreso a la Tierra Prometida, pero en el versículo 3 dicen: *Pues nos han traído a este desierto para matar de hambre a toda esta multitud.* Esta es una clara negativa a creer en la promesa de Dios.
 
-#### De una manera similar es el desierto para nosotros los cristianos, en el cual nos explica en Hebreos tomando el ejemplo de Israel, como ellos deambularon por el desierto debido a que no creyeron en la promesa de Dios, aún viendo su mano poderosa en cada milagro visual que les había rescatado. De la misma manera los creyentes podemos deambular por el desierto, separados de Él y su provisión para nuestra santificación.
+#### De una manera similar es el desierto para nosotros los cristianos, en el cual nos explica en Hebreos tomando el ejemplo de Israel, como ellos deambularon por el desierto debido a que no creyeron en la promesa de Dios, aún viendo su mano poderosa en cada milagro visual que les había rescatado. De la misma manera para los creyentes, sino confiamos en la verdad que Dios nos revela en Su Palabra, podemos deambular por el desierto, ignorándolo a Él y su provisión para nuestra vida.
 
 #### A medida que abracemos este proceso y aprendamos a caminar por fe, entraremos en el *descanso* que Dios tiene para nosotros aquí y ahora mientras aún permanezcamos en esta tierra. Sin embargo, si nuestra respuesta es más como la de los israelitas, la incredulidad, pasaremos el resto de nuestras vidas dando vueltas en un desierto estéril.
 
@@ -3532,13 +3534,17 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### Una vez más, el tabernáculo, los sacerdotes, sus roles, los sacrificios y el mobiliario nos brindan una imagen física bastante clara de Cristo, Su obra terminada y algunos de los privilegios y responsabilidades que acompañan a la posición que hemos recibido en Cristo.
 
-### Como creyentes, ninguno de nosotros se convirtió en hijo de Dios ni fue colocado en Cristo por algo que hicimos para merecerlo, sino que todo fue de Dios y por gracia. Nosotros también nos convertimos en sacerdotes-creyentes a través del nacimiento, nuestro segundo nacimiento espiritual. Como hijos de Dios / creyentes-sacerdotes, nosotros también hemos recibido un gran privilegio y una gran responsabilidad.
+### Como creyentes, ninguno de nosotros se convirtió en hijo de Dios ni fue colocado en Cristo por algo que hicimos (sacrificios u obras) para merecerlo, sino que todo fue de Dios y por gracia en la persona de Cristo. Nosotros también nos convertimos en sacerdotes-creyentes a través del nacimiento, nuestro segundo nacimiento espiritual. (1 Pedro 1:3, 23) Como hijos de Dios / creyentes-sacerdotes, nosotros también hemos recibido un gran privilegio y una gran responsabilidad.
 
-### 1 Pedro 2:9 – la única forma en que podemos efectivamente proclamar las alabanzas de Aquel que nos llamó de las tinieblas a su luz admirable es que mantengamos nuestra santidad o limpieza espiritual y esto lo haremos al continuar aprendiendo y creciendo para caminar menos en la carne y más en el Espíritu.
+### 1 Pedro 2:9 – La única forma en que podemos efectivamente proclamar las alabanzas de Aquel que nos llamó de las tinieblas a su luz admirable es que mantengamos nuestra santidad o limpieza espiritual y esto será real solo por medio de Cristo. 1 Pedro 2:5b 
 
-### 1 Pedro 2:11-12 – El papel de los sacerdotes era mediar en la relación entre Dios y el israelita común. Este pasaje nos dice que, al caminar en el Espíritu manifestando la vida de Cristo, hay quienes se verán afectados por la transformación de nuestras vidas y glorificarán a Dios como resultado.
+### Para todo creyente, Cristo es la piedra viva, escogida y preciosa de Dios (1 Pedro 2:4), la piedra angular (1 Pedro 2:6). Y ningún creyente será avergonzado. 1 Pedro 2:6b
 
-### Jesús, nuestro Sumo Sacerdote. Él es nuestro misericordioso y fiel sumo sacerdote (Hebreos 2:17); Pasó por los cielos y simpatiza con nuestras debilidades (Hebreos 4:14-15); Fue elegido por Dios (Hebreos 5:5, 10); Él es nuestro sumo sacerdote PARA SIEMPRE (Hebreos 6:20); Él posee Su sacerdocio inmutable para siempre (Hebreos 7:23-28); Él es nuestro sumo sacerdote que está sentado en el cielo (Hebreos 8:1); Él es el sumo sacerdote de un tabernáculo hecho sin manos que ofreció su propia sangre y no solo la de toros y machos cabríos (Hebreos 9:11-12).
+### Solo por medio de Cristo es que todo aquel que cree nace de nuevo y lleva **sacrificios espirituales** aceptables para el Padre. 1 Pedro 1:3, 2:5b
+
+### 1 Pedro 2:10-12 – El papel de los sacerdotes era mediar en la relación entre Dios y el israelita común. Este pasaje nos dice que, al andar como extranjeros y peregrinos (ciudadanos celestiales), hay quienes se verán afectados por la transformación de nuestras vidas y glorificarán a Dios como resultado.
+
+### Jesús, nuestro Sumo Sacerdote. Él es nuestro misericordioso y fiel Sumo Sacerdote (Hebreos 2:17); Pasó por los cielos y simpatiza con nuestras debilidades (Hebreos 4:14-15); Fue elegido por Dios (Hebreos 5:5, 10); Él es nuestro sumo sacerdote PARA SIEMPRE (Hebreos 6:20); Él posee Su sacerdocio inmutable para siempre (Hebreos 7:23-28); Él es nuestro sumo sacerdote que está sentado en el cielo (Hebreos 8:1); Él es el sumo sacerdote de un tabernáculo hecho sin manos que ofreció su propia sangre y no solo la de toros y machos cabríos (Hebreos 9:11-12).
 
 ### Lea Hebreos 10:19-23.
 
@@ -3844,7 +3850,9 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ## El Señor le dijo a Moisés que enviara espías a la tierra (Números 13:1-3, 17-33)
 
-### Este relato proporciona una gran imagen física de cómo la fe en Dios o la falta de ella puede afectarnos en nuestra vida diaria. ¡La información que los diez espías dieron a la gente era absolutamente cierta! Había gigantes allí y sus ciudades estaban bien fortificadas. ¡PERO DIOS! Pero el pueblo había dejado a Dios y su promesa fuera de la ecuación. Estos hombres miraban sus problemas desde un punto de vista mundano o humano y, desde ese punto de vista, tenían toda la razón. Israel en sí mismo nunca podría haber derrotado a estas ciudades cananeas, pero acababan de ver algunas manifestaciones bastante sorprendentes y sin precedentes del poder, la soberanía y la gracia y el amor de Dios:
+### Este relato proporciona una gran imagen física de cómo la fe en Dios o la falta de ella puede afectarnos en como percibimos las circunstancia y andamos en esta vida. ¡La información que los diez espías dieron a la gente era absolutamente cierta! Había gigantes allí y sus ciudades estaban bien fortificadas. ¡PERO ELLOS TENÍAN A JEHOVA, EL YO SOY!
+
+### Lamentablemente el pueblo había dejado a Dios y su promesa fuera de la ecuación. Estos hombres miraban sus problemas desde un punto de vista mundano (humano) y, desde ese punto de vista, tenían toda la razón. Israel en sí mismo nunca podría haber derrotado a estas ciudades cananeas, pero acababan de ver algunas manifestaciones bastante sorprendentes y sin precedentes del poder, la soberanía y la gracia y el amor de Dios:
 
 #### Vieron todas las plagas en Egipto.
 
@@ -3920,7 +3928,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 #### Él es soberano y supremo.
 
-#### Él es santo y justo y también es misericordioso y misericordioso.
+#### Él es santo y justo y también es misericordioso y clemente.
 
 #### Es amable y amoroso y al mismo tiempo odia el pecado y la maldad.
 
@@ -3934,7 +3942,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### Aquí hay otro ejemplo de Dios usando un incidente para revelar su gracia, misericordia, amor y perdón, así como su santidad y justo juicio del pecado. Por un lado, perdonó su pecado y no los aniquiló, pero, por otro lado, ya no se les permitió entrar en la Tierra Prometida.
 
-### Lo principal a lo que quiero llamar nuestra atención en esto es que, qué fue lo que realmente llevó a Dios a decir: Está bien, ahora vas a recibir castigo por esto. No fue tanto como merecían, pero sin embargo fue un castigo. ¡Era Israel rechazando la bondad y la gracia de Dios a través de la incredulidad! Notarás que había una mayor responsabilidad sobre aquellos a quienes Dios les había dado mayor revelación. Véanse los versículos 36-38.
+### Lo principal a lo que queremos llevar nuestra atención en esto es que, qué fue lo que realmente llevó a Dios a decir: Está bien, ahora vas a recibir castigo por esto. No fue tanto como merecían, pero sin embargo fue un castigo. ¡Era Israel rechazando la bondad y la gracia de Dios a través de la incredulidad! Notarás que había una mayor responsabilidad sobre aquellos a quienes Dios les había dado mayor revelación. Véanse los versículos 36-38.
 
 ### La creencia era el verdadero problema, porque la gente trató de deshacer su pecado siguiendo adelante y creyendo en Dios, pero esto fue motivado por el deseo de evitar el castigo y no por creer en Dios. Su acción entonces (que podría haber parecido una creencia), porque fue automotivada, fue desagradable para Dios y solo empeoró su situación.
 
@@ -3956,9 +3964,9 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 #### Este no es un lugar de granos, higos, vides o granadas, ni hay agua aquí.
 
-### Este pasaje realmente revela el corazón de la humanidad y la increíble paciencia y paciencia de la gracia y la misericordia de Dios. ¡Fue la incredulidad de Israel en Dios lo que los llevó a esta condición en el desierto, no Dios! Dios tenía cosas grandes y maravillosas reservadas para ellos. Él quería que fueran a la tierra y fueran maravillosamente bendecidos, pero, a pesar de las grandes y muchas manifestaciones de Su amor por ellos y de Su poder todopoderoso, lo rechazaron y Él les permitió soportar esas consecuencias.
+### Este pasaje realmente revela el corazón de la humanidad y la increíble paciencia y longanimidad de la gracia y la misericordia de Dios. ¡Fue la incredulidad de Israel en Dios lo que los llevó a esta condición en el desierto, no Dios! Dios tenía cosas grandes y maravillosas reservadas para ellos. Él quería que fueran a la tierra y fueran maravillosamente bendecidos, pero, a pesar de las grandes y muchas manifestaciones de Su amor por ellos y de Su poder todopoderoso, lo rechazaron y Él les permitió soportar esas consecuencias.
 
-### Lo mismo es cierto de nosotros hoy; como creyentes, Dios nos ha dado su revelación completa de sí mismo a través de la creación, las escrituras y el ministerio del Espíritu Santo (1 Corintios 2:12). No conocerlo llevará a dudar de Él cuando se encuentre en medio de dificultades y pruebas. Dios nos permitirá dudar de Él y experimentar las consecuencias que resultarán de ello. Dudar de Él en las dificultades y dificultades conducirá a muchas de las mismas emociones que los israelitas expresaron en este último pasaje: ansiedad, preocupación, ira e incluso hasta el punto de culpar a Dios.
+### Lo mismo es cierto de nosotros hoy; como creyentes, Dios nos ha dado su revelación completa de sí mismo a través de la creación, las escrituras y el ministerio del Espíritu Santo (1 Corintios 2:12). No conocerlo llevará a dudar de Él cuando se encuentre en medio de dificultades y pruebas. Dios nos permitirá dudar de Él y experimentar las consecuencias que resultarán de ello. Dudar de Él en las dificultades y pruebas conducirá a muchas de las mismas emociones que los israelitas expresaron en este último pasaje: Ansiedad, preocupación, ira e incluso hasta el punto de culpar a Dios.
 
 ### Lea Números 20:7-13.
 
@@ -3974,9 +3982,9 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### Nuestro desierto espiritual es básicamente el tiempo que pasamos en esta tierra. Comienza en el momento en que aceptamos a Cristo como nuestro Salvador y somos liberados de nuestra esclavitud al pecado. Nuestro desierto finalmente termina en el momento en que morimos y dejamos estos cuerpos malditos y la tierra maldita por el pecado, pero podemos comenzar a experimentar ese descanso espiritual aquí y ahora cuanto más aprendamos a caminar menos en la carne y más en el Espíritu.
 
-### La forma en que Dios trae esto a nuestras vidas es la misma manera que lo estaba haciendo en la vida de los israelitas, es decir, a través de dificultades y dificultades. Junto con cada prueba que enfrentó Israel, vino la oportunidad para que vieran claramente su propia impotencia para liberarse a sí mismos y para ver nuevamente a Dios revelarse a sí mismo a través de su interacción e intervención constantes y fieles en sus vidas mientras los liberaba fielmente a través de cada prueba.
+### La forma en que Dios trae esto a nuestras vidas es la misma manera que lo estaba haciendo en la vida de los israelitas, es decir, a través de dificultades y pruebas. Junto con cada prueba que enfrentó Israel, vino la oportunidad para que vieran claramente su propia impotencia para liberarse a sí mismos y para ver nuevamente a Dios revelarse a sí mismo a través de su interacción e intervención constantes y fieles en sus vidas mientras los liberaba fielmente a través de cada prueba.
 
-### Exactamente lo mismo es cierto para nosotros. Dios usa cada prueba dificultad y dificultad en nuestras vidas para enseñarnos que no podemos confiar y depender de nosotros mismos y para mostrarnos que ÉL y la obra terminada de Cristo en la cruz es nuestra única esperanza de SALVACIÓN (que incluye justificación, santificación y glorificación futura). Observe que el versículo 4 dice: El alma del pueblo se había desanimado mucho en el camino. En lugar de ir a Dios y clamar a Él por Su misericordia, se quejaron y se quejaron contra Él, dudando nuevamente de Su bondad.
+### Exactamente lo mismo es cierto para nosotros. Dios usa cada prueba, dificultad y tribulación en nuestras vidas para enseñarnos que no podemos confiar y depender de nosotros mismos y para mostrarnos que ÉL y la obra terminada de Cristo en la cruz es nuestra única esperanza de SALVACIÓN (que incluye justificación, santificación y glorificación futura). Observe que el versículo 4 dice: El alma del pueblo se había desanimado mucho en el camino. En lugar de ir a Dios y clamar a Él por Su misericordia, se quejaron y se quejaron contra Él, dudando nuevamente de Su bondad.
 
 ### Observe que la solución de Dios no fue atender su carne y hacerlos sentir mejor. ¡De hecho, empeoró su circunstancia! Hizo que sus circunstancias fueran lo suficientemente malas como para desesperarlos, lo que a su vez los llevó a depender de Él, quien fue su única esperanza todo el tiempo. ¡Simplemente no se dieron cuenta! Mientras caminamos en la carne, responderemos al procesamiento de Dios de nuestras vidas de la misma manera que lo hizo Israel con aflicción, desaliento, decepción y quejas.
 
@@ -4024,7 +4032,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### Ahora mire Isaías 42:8 y 48:11. Dios dice: ¡No daré mi gloria a ningún otro! Yo soy el Señor Dios que te ha otorgado gracia y misericordia. ¡YO soy el que ha sido extremadamente sufrido y he abundado en bondad y verdad hacia TI! Soy YO quien ha perdonado TU iniquidad, transgresión y pecado y no permitiré que des crédito por estas cosas a ningún otro.
 
-### ¡Ser misericordioso, sufrido y perdonar el pecado es la máxima revelación del corazón de Dios y los profundos deseos para Su pueblo! 
+### ¡Ser misericordioso, clemente, sufrido y perdonar el pecado es la máxima revelación del corazón de Dios y los profundos deseos para Su pueblo! Alejarse de Dios a los falsos ídolos no es solo una cuestión de cambiar una estatua por otra.
 
 ### Aparte del hecho de que Dios es verdaderamente Dios y está verdaderamente vivo, uno de los aspectos principales que lo separa de los dioses de todas las demás religiones es el hecho de que Él es misericordioso, sufrido, bueno y perdonador de pecados.
 
@@ -4082,7 +4090,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### Dios hizo exactamente lo que prometió que haría. No permitió que Moisés entrara en la tierra, pero sí lo llevó al monte y le permitió verlo desde la distancia. Puede ser tentador escuchar esta historia sobre Moisés y ver a Dios como algo duro. Quiero decir, mire todas las cosas buenas que Moisés había hecho para el Señor. ¿No podría haber sido un poco más amable con él? Vamos, ¿Dios no le debía al menos un poco? Sin embargo, debemos tener en cuenta que no hay nada más importante que Dios, Su voluntad y Su gloria. Dios no le debía nada a Moisés. Fue la pura gracia de Dios que Moisés recibiera algo del Señor, ya que era un pecador como todos nosotros que solo merece morir e ir al infierno.
 
-### A veces, como cristianos, podemos caer en esa misma mentalidad con respecto a nuestras propias vidas, es decir, que en momentos en que Dios nos bendice con algo, en el fondo podemos tender a pensar que Él nos debe o que fue por algo que hemos hecho bien o bien o que hemos sacrificado.
+### A veces, como cristianos, podemos caer en esa misma mentalidad con respecto a nuestras propias vidas, es decir, que en momentos en que Dios nos bendice con algo, en el fondo podemos tender a pensar que Él nos debe o que fue por algo que hemos hecho correcto o bien o que hemos sacrificado.
 
 ### Dos cosas deberían sorprendernos absolutamente; primero, lo único que merecemos del Señor es castigo. El hecho de que haya enviado a su Hijo para ser castigado y muerto para nuestra salvación lo glorificará por toda la eternidad. En segundo lugar, no solo no merecemos no ser castigados, ¡sino que tampoco merecemos recibir nada bueno de Dios! Podríamos pasar meses hablando de todas las cosas buenas que recibimos del Señor. Hay una canción de Ascend the Hill llamada The Love of God que tiene el siguiente versículo en el: Si nosotros llenáramos de tinta los océanos, y si los cielos fueran un pergamino, si cada tallo de la tierra fuera una pluma y cada hombre un escriba de oficio, escribir el amor de Dios arriba drenaría el océano seco, ni el rollo podría contenerlos a todos, aunque se extendiera de cielo a cielo.
 
@@ -4094,7 +4102,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ## Israel se volvió a la idolatría después de la muerte de Josué (Josué 23:14-16)
 
-### Antes de morir, Josué reunió a los israelitas y los desafió a permanecer fieles a Dios recordándoles cuán misericordioso y fiel había sido Dios en sus vidas. Era el principio de Le amamos porque Él nos amó primero. Pero tan pronto como Josué y su generación murieron, la siguiente generación se apartó rápidamente del Señor.
+### Antes de morir, Josué reunió a los israelitas y los desafió a permanecer fieles a Dios recordándoles cuán misericordioso y fiel había sido Dios en sus vidas. Era el principio de "Le amamos porque Él nos amó primero". Pero tan pronto como Josué y su generación murieron, la siguiente generación se apartó rápidamente del Señor.
 
 ### Lea Jueces 2:7-13.
 
@@ -4140,7 +4148,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### ¡De todos esos reyes, el rey David fue el único rey al que Dios se refiere como un hombre conforme al corazón de Dios! Un hombre que había cometido asesinato, adulterio y que tenía varias esposas, ¿Cómo podría llamarse un hombre conforme al corazón de Dios? Al resaltar este aspecto de la vida de David, nuestro objetivo no es enfocarnos en David aquí, sino enfocarnos en la gracia y misericordia que Dios da.
 
-### ¿Recuerdas lo que compartimos sobre la gloria de Dios y el hecho de que consiste en Su gracia, misericordia y  bondad para con el hombre pecador? No fueron las acciones de David las que lo convirtieron en un hombre conforme al corazón de Dios; ¡era que David conocía y se gloriaba en estas verdades acerca de Dios! ¡La confianza y dependencia de David no estaba en sí mismo, sino únicamente en la gracia y la misericordia de Dios! Como dijimos en nuestra lección introductoria, David conocía a Dios entendiendo como es el corazón de Dios, considerando su justicia y misericordia. Ejemplos de esto son 2 Samuel 12:15-22, David suplicando a Dios que perdone a su hijo que tuvo con Betsabé; 1 Samuel 21:16, Los hombres de David comen el pan santo de la mesa de los panes de la proposición.
+### ¿Recuerdas lo que compartimos sobre la gloria de Dios y el hecho de que consiste en Su gracia, misericordia y  bondad para con el hombre pecador? No fueron las acciones de David las que lo convirtieron en un hombre conforme al corazón de Dios; ¡era que David conocía y se gloriaba en estas verdades acerca de Dios! ¡La confianza y dependencia de David no estaba en sí mismo, sino únicamente en la gracia y la misericordia de Dios! Como dijimos en nuestra lección introductoria, David conocía a Dios de acuerdo a Sus caminos, considerando su justicia y misericordia. Ejemplos de esto son 2 Samuel 12:15-22, David suplicando a Dios que perdone a su hijo que tuvo con Betsabé; 1 Samuel 21:16, Los hombres de David comen el pan santo de la mesa de los panes de la proposición.
 
 ### En un esfuerzo por aprender más sobre el corazón de Dios, es interesante comparar estos relatos registrados del pecado de David con los de los israelitas que ya hemos visto, primero en la frontera de Canaán y luego con la nueva generación después de la muerte de Josué.
 
@@ -4194,7 +4202,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### ¡Este pequeño relato proporciona una imagen asombrosa de cómo son realmente las cosas! La razón principal por la que los asirios eran tan odiados por Israel era por lo despiadadamente malvados que eran. Tan malvados, que Jonás no podía comprender la idea de que Dios fuera misericordioso con ellos. 
 
-### Aparte de la obra terminada de Cristo, ¡cada uno de nosotros somos ninivitas! No, Puede que no estemos cometiendo los mismos pecados que ellos estaban cometiendo, pero cada uno de nosotros nació con la misma naturaleza pecaminosa que ellos e igualmente separados y tan enemigos de Dios como ellos.
+### Aparte de la obra terminada de Cristo, ¡cada uno de nosotros somos ninivitas! Puede que no estemos cometiendo los mismos pecados que ellos estaban cometiendo, pero cada uno de nosotros nació con la misma naturaleza pecaminosa que ellos e igualmente separados y tan enemigos de Dios como ellos.
 
 ### Sin embargo, observe cómo Dios los describe. No los describe como excesivamente pecaminosos; ¡Los describe como tan perdidos, confundidos y en la oscuridad que ni siquiera pueden discernir entre su mano izquierda y su mano derecha!
 
@@ -4204,7 +4212,9 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### Como cristianos, estamos muy inclinados a centrarnos en nosotros mismos, en nuestros esfuerzos, en nuestras oraciones, nos centramos en nuestra propia justicia. Sin embargo no podemos ver la misericordia que Dios tiene para con los gentiles que se encuentran totalmente perdidos sin distinguir la derecha de su izquierda, de hecho todos nos encontrábamos en la misma condición de perdidos que ellos.
 
-### La preocupación por los perdidos siempre ha estado en el corazón de Dios antes de la  fundación del mundo, y esa es la razón por la que envió a su hijo Jesucristo a salvar a todos los perdidos, basado en su amor y misericordia.
+### La preocupación por los perdidos no vino del hombre, ni siquiera de los creyentes. Esto siempre ha estado en el corazón de Dios antes de la  fundación del mundo, y esa es la razón por la que envió a su hijo Jesucristo a salvar a todos los perdidos, basado en su amor y misericordia.
+
+### Tal como lo retrata este relato con Jonás, ¡realmente TODO ES ASÍ por Él y solo de Él!
 
 ## Israel se negó a creer en el mensaje de Dios dio a los profetas.
 
@@ -4232,13 +4242,13 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 #### Los israelitas desde el momento en que salieron de Egipto hasta que entraron en Canaán.
 
-#### De la misma manera, Dios fue extremadamente paciente y paciente con Israel y Judá. Durante muchos cientos de años, envió a Sus profetas para decirles que estaba enojado por su rechazo y que serían castigados si no se arrepentían.
+#### De la misma manera, Dios fue extremadamente paciente y compasivo con Israel y Judá. Durante muchos cientos de años, envió a Sus profetas para decirles que estaba enojado por su rechazo y que serían castigados si no se arrepentían.
 
 ### Dios, en Su soberanía, eligió llevar a buen término primero el juicio de Israel, el Reino del Norte. Había enviado a Isaías a profetizar y advertirles que Dios estaba a punto de enviar a los asirios a luchar y capturarlos si no se arrepentían. Jeremías 5:1-4, 9-19
 
 ### Como puede imaginar, el Reino del Norte optó por negarse a creer esta advertencia y la ignoró. No creían que Dios permitiría que sus enemigos se apoderaran de su tierra. Sin embargo, un día alrededor del año 722 a.C., después de un asedio de tres años a la capital, Samaria, el Reino del Norte de Israel quedó bajo el control completo de los asirios. Miles de israelitas fueron llevados cautivos a Asiria. Dios había advertido que esto iba a suceder, pero se negaron a creer en sus advertencias. Isaías 10:5-6
 
-### Los asirios luego trajeron personas de otros países para establecerse en el área norte de Israel. Muchas de esas personas eran aquellos que no conocían al Dios verdadero y viviente y que eran idólatras. 2 Reyes 17:5-18
+### Los asirios luego trajeron personas de otros países para establecerse en el área norte de Israel. Muchas de esas personas no conocían al Dios verdadero y viviente y eran idólatras. 2 Reyes 17:5-18
 
 ### Muchos de los israelitas que permanecieron en su tierra comenzaron a casarse con estos Extranjeros y sus descendientes más tarde se conocieron como los samaritanos, tenían mezclas culturales de israelitas y paganos.
 
@@ -4308,17 +4318,17 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### El profeta que Malaquías profetizó, nacería pronto y su predicación y enseñanza sería para preparar la famosa llegada del libertador prometido. Debía ser como un heraldo que iba delante de un rey. Es interesante notar que los padres de este profeta (Juan) eran israelitas que creían en Dios y esperaban al Libertador.
 
-### Qué imagen tan asombrosa de la maravilla de la gracia de Dios. Aquí estaba Zacarías, un sacerdote fiel en la casa de Israel, quien ahora con su esposa Elizabet, habían llegado a una edad avanzada. Ella había sido estéril toda su vida y habían pasado mucho tiempo suplicando fielmente al Señor que les permitiera tener un hijo.  Lucas 1:5-17
+### Qué imagen tan asombrosa de la maravilla de la gracia de Dios. Aquí estaba Zacarías, un sacerdote fiel en la casa de Israel, quien ahora con su esposa Elizabet, habían llegado a una edad avanzada. Ella había sido estéril toda su vida y habían pasado mucho tiempo suplicando fielmente al Señor que les permitiera tener un hijo. Lucas 1:5-17
 
 ### A pesar de que Zacarías era un sacerdote fiel, tanto él como Elizabet seguían siendo humanos con una naturaleza pecaminosa y estoy seguro de que hubo momentos en los que realmente lucharon con el hecho de que Dios nunca les había permitido tener hijos. Dios no eligió registrar ninguna de esas luchas que pudieron haber experimentado a lo largo de los años; todo lo que dice es que eran de edad avanzada, que ambos eran justos ante Dios y sin mancha, y que Zacarías estaba cumpliendo fielmente con sus deberes en el templo como sacerdote cuando el ángel se le apareció.
 
 ### Podríamos llegar a pensar que Dios escogió a Zacarías porque era fiel y justo sobre la casa de Israel, Sin embargo esto es simplemente una imagen de la gracia de Dios otorgada a un hombre temeroso de Dios que servía en la casa de Israel y esperaba con ansias el cumplimiento de la promesa del Libertador venidero.
 
-### En segundo lugar, Dios escogió una situación humanamente imposible, al igual que con Abraham y Sara, que eran de edad avanzada y para hacerlo mucho mas imposible ambas eran estériles. Sin embargo Dios tenía mucho más reservado para ellos que simplemente darles un hijo. Él iba a usarlos para traer al mundo al profeta más grande de todos (palabras de Jesús). ¡El que Dios mismo estaba enviando para preparar el camino al salvador del mundo!
+### En segundo lugar, Dios escogió una situación humanamente imposible, al igual que con Abraham y Sara, que eran de edad avanzada y para hacerlo mucho mas imposible ambas eran estériles. Sin embargo Dios tenía mucho más reservado para ellos que simplemente darles un hijo. Él iba a usarlos para traer al mundo al profeta más grande de todos (palabras de Jesús). ¡El que Dios mismo estaba enviando para preparar el camino al Señor, el Salvador del mundo!
 
-### Desde antes de la fundación de la tierra, Dios había realizado este plan eterno de redención, y ya estaba a punto de venir. Él había creado el universo y luego trabajó para preparar el escenario para el cumplimiento de su venida y su plan de redención de toda la humanidad, ¡y el día y la hora finalmente había llegado!
+### Desde antes de la fundación de la tierra, Dios había realizado este plan eterno de redención, y ya estaba a punto de venir. Él había creado el universo y luego preparó el escenario para el cumplimiento de su venida y su plan de redención de toda la humanidad, ¡y el día y la hora finalmente había llegado!
 
-### Dios bendijo a esta pareja de Israelitas que esperaban en el señor una respuesta a sus oraciones y tambien esperaban la venida del mesías prometido.
+### En el curso de la realización de estos últimos detalles finales para que el Mesías fuera traído al mundo, Dios también bendijo a esta pareja de Israelitas que esperaban en el señor una respuesta a sus oraciones y también esperaban la venida del Mesías prometido. Puedes ver como Dios cumplió Su plan de una manera muy cercana al ser humano.
 
 ### ¿Te imaginas la respuesta de Zacarias? No solo se le apareció un ángel, sino que el ángel le dijo que iba a tener un hijo. ¡Y no solo un niño, sino el profeta prometido que vendría a preparar el camino para el Señor mismo! Finalmente, el tan esperado Libertador prometido estaba a punto de llegar y sería el hijo de Zacarías quien prepararía a Israel para su llegada.
 
@@ -4326,7 +4336,9 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 # Nacimiento de Juan (Lucas 1:18-25)
 
-### Por la respuesta que Zacarías le había dado al ángel en el versículo 18, había perdido la esperanza de que él y su esposa pudieran tener hijos. Sin embargo no se dio cuenta con quien estaba hablando y de quien era el mensaje que le estaba transmitiendo, debido a la incredulidad de creer el mensaje de Dios el ángel le anunció que estaría incapacitado de hablar hasta que todo esto suceda. Dios estaba mostrando a Zacarías que a pesar de su incredulidad esto sucedería por gracia. 
+### Por la respuesta que Zacarías le había dado al ángel en el versículo 18, había perdido la esperanza de que él y su esposa pudieran tener hijos. Sin embargo no se dio cuenta con quien estaba hablando y de quien era el mensaje que le estaba transmitiendo, debido a la incredulidad de creer el mensaje de Dios el ángel le anunció que estaría incapacitado de hablar hasta que todo esto suceda. 
+
+### Dios se estaba mostrando a Zacarías, ¡ahora no podía hablar! Este evento no podría venir de hombre, sino de Dios mismo. Zacarías iría viendo que a pesar de su incredulidad este plan continuaría, porque no dependía de él, sino de Dios. 
 
 ### Este es nuevamente el corazón de Dios. Debido a que Él es amor y desea una relación íntima con nosotros por encima de todas las cosas, todo lo que hace y permite que entre en nuestras vidas es para ese propósito, incluso la disciplina.
 
@@ -4334,7 +4346,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### En ese momento, estaba más emocionada de que la gente ya no la viera como alguien maldecida por Dios, sino que por el hecho de que Dios finalmente estaba a punto de dar a luz al Libertador tan esperado.
 
-### También me encanta la forma en que el Señor no la corrige. Él simplemente le permite concentrarse en sí misma y sentirse bendecida, porque verdaderamente la estaba bendiciendo en el proceso de llevar a cabo y cumplir Su plan eterno de redención. Entonces, nació Juan
+### También es importante observar que el Señor no la corrige. Él simplemente le permite concentrarse en sí misma y sentirse bendecida, porque verdaderamente la estaba bendiciendo en el proceso de llevar a cabo y cumplir Su plan eterno de redención. Entonces, nació Juan
 
 ### Una vez más vemos otra promesa de Dios fielmente cumplida. Y una vez más, lo lleva todo a cabo de una manera que ayuda a las personas a confiar en las promesas de Dios. Porque todo pensamiento e intención del corazón del hombre es solo malo desde la infancia. ¡Nacemos separados de Dios! Por lo tanto, sin Dios obrando de manera tan misericordiosa y amorosa con tal comprensión, el hombre nunca llegar a conocerlo. Lucas 1:57-66
 
@@ -4404,17 +4416,35 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### Hemos visto a Dios obrar de maneras realmente asombrosas y también estamos conociendo de manera personal como es su corazón, 1 Juan 4 dice que DIOS ES AMOR. También sabemos que Dios creó a la humanidad con la capacidad y el propósito de tener una relación con él.
 
-### Por lo tanto, sabemos que la razón número uno por la que Dios obra de maneras tan asombrosas es con el propósito de revelarse a sí mismo y mostrar su corazón a toda la humanidad. Sin estas asombrosas manifestaciones de Su carácter y Sus atributos, la humanidad nunca podría llegar a conocer a Dios realmente. 
+### Por lo tanto, sabemos que la razón número uno por la que Dios obra de maneras tan asombrosas es con el propósito de revelarse a sí mismo y mostrar su corazón a toda la humanidad. Sin estas asombrosas manifestaciones de Su carácter y Sus atributos, la humanidad nunca podría llegar a conocer a Dios por sí misma. Una vez más, vemos en estos pasajes sobre la provisión de Dios del Libertador, es otra clara manifestación de Dios obrando de maneras tan claras y obvias para darse a conocer a sí mismo y a Su corazón aún más.
 
-### Dios continúa revelando su carácter y poder a través de todo lo creado, y había llegado el tiempo planificado por Dios desde la eternidad. ¿Recuerdas 2 Timoteo 1:9?, Desde ese momento hasta ahora, aquí en Lucas 1, Dios ha estado cumpliendo su plan a cabalidad. 
+### Dios continúa revelando su soberanía y supremacía. ¿Recuerdas 2 Timoteo 1:9 y el hecho de que el plan eterno de redención de Dios estaba en Su corazón antes de que comenzara el tiempo? Desde ese momento hasta ahora, aquí en Lucas 1, Dios ha estado cumpliendo soberanamente ese plan por gracia, en el momento apropiado y para Su gloria. Cada evento que debe tener lugar en el cumplimiento siempre es iniciado por Él. Desde Génesis 1 hasta este punto, solo ha habido un evento que hemos visto a la humanidad llevar a cabo por sí misma: ¡PECADO, la caída! Todos los demás aspectos, Dios mismo ha tomado la iniciativa para realizarlos en el momento apropiado.
 
 ### Este maravilloso evento comienza con Dios enviando al ángel Gabriel para llevar este mensaje a María. Dios determinó que era hora y el día para enviar al Libertador del mundo, Dios eligió a María para que en su vientre se gestara el que habría de salvar al mundo.
 
-### Ahora vemos a Dios eligiendo a una persona María para que sea la que de a luz al Libertador.
+### ¿Dónde más hemos visto a Dios ejercer su soberanía de esta manera?
 
-### Vemos a Dios eligiendo soberanamente a personas (no para salvación) para llevar a cabo la línea genealógica por la cual vendría el salvador del mundo.
+#### Predeterminar Su plan eterno de redención
 
-### María también encajaba en la descripción de Génesis 8:21, que todo pensamiento e intención del corazón fue solo malo desde la infancia. Por lo tanto, sabemos que, como todos los demás, ella fue simplemente elegida por Dios por su gracia, no hizo ningún mérito especial para ser escogida. Una prueba que tenemos de que María misma reconoció su propia pecaminosidad fue el hecho de que se refiere a Dios como su Salvador. Lucas 1:46-47
+#### Creación
+
+#### Colocando a la humanidad en el jardín
+
+#### Decidir que no era bueno para el hombre estar solo y luego crear su compañero de ayuda
+
+#### Elegir a Abraham
+
+#### Elegir a Moisés
+
+#### Elegir a Israel como nación 
+
+#### Elegir a varios profetas
+
+#### Y ahora eligiendo a María para que sea la que lleve al Libertador
+
+### ¿Puedes darte cuenta cuan en control estuvo Dios desde siempre? El ser humano puede llegar a tener muchos planes que pueden llegar a fracasar. Pero el Señor siempre esta al control de todo y todo esta bajo su cuidado. Evidentemente Su plan eterno de redención en Cristo no sería una excepción. Lo que el habló se cumplió, y cumplirá.
+
+### Al igual que el resto de las personas a las que Dios eligió usar para llevar a cabo su plan, María también encajaba en la descripción de Génesis 8:21, que "todo pensamiento e intención del corazón fue solo malo desde la infancia". Por lo tanto, sabemos que, como todos los demás, ella fue simplemente elegida por Dios en Su gracia para Su plan eterno. Una prueba que tenemos de que María misma reconoció su propia pecaminosidad fue el hecho de que se refiere a Dios como "su Salvador".
 
 ### Obviamente, María reconoció su propia necesidad de un Salvador y esperaba con ansias la venida del Libertador prometido. Después de creer el mensaje de Gabriel para ella, María fue a ver a su prima Elizabet para regocijarse juntas por esta gran noticia, ambas habían recibido una noticia de que darían a luz de una manera totalmente imposible para el pensamiento humano.
 
@@ -4434,13 +4464,35 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### En el versículo 32, Gabriel le dijo a María que será grande, y será llamado Hijo del Altísimo. Dios estaba dejando en claro que el hijo de María no solo sería su hijo, sino que también sería el verdadero Hijo de Dios. Otra verdad que debemos tener en cuenta es que este evento, el nacimiento venidero de Jesús el Libertador, fue el propósito final por el cual todos los eventos anteriores se habían cumplido o llevado a cabo.
 
-### Todas las cosas fueron creadas POR Él y PARA Él. Desde Génesis 1 hasta este pasaje de Lucas 1, el escenario había sido preparado o establecido para que el Hijo de Dios viniera y revelara la gracia de Dios. En los versículos 34-35, Gabriel también le dijo a María que sería el Espíritu Santo quien realizaría este milagro de ella, una virgen que queda embarazada. El propósito de Dios de que no sea engendrado desde la descendencia de Adán fue claro,  Dios mismo era Su Padre y no Adán, Jesús no heredaría la pecaminosidad de Adán. Nacería con el mismo carácter que Dios: santo y sin pecado.
+### Todas las cosas fueron creadas POR Él y PARA Él. Desde Génesis 1 hasta este pasaje de Lucas 1, el escenario había sido preparado o establecido para que el Hijo de Dios viniera y revelara la gracia de Dios. En los versículos 34-35, Gabriel también le dijo a María que sería el Espíritu Santo quien realizaría este milagro de ella, una virgen que queda embarazada. 
 
-### Dios quiere que toda la humanidad sea salva, a través del evangelio y lo hizo posible para todos.
+### El propósito de Dios de que no sea engendrado desde la descendencia de Adán fue claro,  Dios mismo era Su Padre y no Adán, Jesús no heredaría la pecaminosidad de Adán. Nacería con el mismo carácter que Dios: santo y sin pecado.
+
+### ¡Que Juan naciera de una mujer mayor y Jesús de una virgen son eventos imposibles para la lógica humana!
+
+### Vemos como Dios siempre quiso que las personas lo conozcan y crean la verdad, que Él obra de manera innegable para demostrar que es verdaderamente de Él. Nombra algunos otros casos en los que lo hemos visto obrar de maneras tan innegables:
+
+#### Permitió que los ángeles lo vieran parte de la creación.
+
+#### La forma en que creó a Eva después de hacerle obvio a Adán que no tenía una pareja adecuada. Obviamente era de Él.
+
+#### Noé, arca, diluvio, cierre de la puerta
+
+#### Sodoma y Gomorra
+
+#### El hijo de Abraham
+
+#### José
+
+#### Levantando a Moisés
+
+#### Las plagas y la liberación de Israel
+
+#### Proveyendo para Israel a través del desierto
 
 ## El Libertador sería Jesús, el Cristo.
 
-### Dentro del plan de Dios, Jesús vino a ser el Cristo, El mesías prometido a Israel, y salvador del mundo. Cristo es una palabra griega que significa ungido. Es la traducción griega de la palabra Mesías. Sabemos que Jesucristo fue ungido o apartado por Dios para tres deberes específicos. Él sería el último Profeta, Sacerdote y Rey de Dios. Mateo 1:1
+### Dentro del plan de Dios, Jesús vino a ser el Cristo (el Ungido), El mesías prometido a Israel, y salvador del mundo. Cristo es una palabra griega que significa ungido. Es la traducción griega de la palabra Mesías. Sabemos que Jesucristo fue ungido o apartado por Dios para tres deberes específicos. Él sería el último Profeta, Sacerdote y Rey de Dios. Mateo 1:1
 
 ## Como Profeta (Deuteronomio 18:15)
 
@@ -4454,7 +4506,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### La imagen física que tenemos de los sacerdotes del Antiguo Testamento era de mediación. Realizaban sacrificios en nombre del pueblo y sus deberes incluían la realización de una representación de la comunión de Israel con Dios dentro del lugar santo.
 
-### Jesús, como nuestro Sumo Sacerdote, no solo es el Sumo Sacerdote y mediador entre nosotros y Dios, sino que también es el sacrificio que nos ha restaurado de una vez por todas a la unidad con Dios, haciendo posible que disfrutemos personalmente de nuestra propia comunión y comunión con Dios.
+### Jesús, como nuestro Sumo Sacerdote, no solo es el Sumo Sacerdote y mediador entre nosotros y Dios, sino que también es el sacrificio que nos ha restaurado de una vez por todas a la unidad con Dios, haciendo posible que disfrutemos personalmente de una comunión con Él.
 
 ## Como Rey (Isaías 9:6-7, Hebreos 10:1-12)
 
@@ -4540,9 +4592,9 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### Como nota al margen, se cree que estos sabios vinieron de Media y Persia. Sabemos que Judá fue llevado cautivo por Babilonia, que fue cuando Daniel, Sadrac y Mesac fueron llevados a Babilonia. Luego, en 539 a.C., Babilonia fue capturada por los medos y los persas. En el libro de Daniel, menciona a Darío, Ciro y otros reyes persas. Dado el testimonio que hemos leído de Daniel y sus tres amigos, diría que es muy probable que el conocimiento que estos sabios tenían del Libertador venidero viniera a través de Daniel y sus amigos.
 
-### ¡Y aquí lo tienes! Los sabios de una tierra lejana vieron las señales, creyeron y adoraron a Jesús, el Hijo de Dios, mientras que los propios escribas y fariseos de Israel (que conocían las profecías) se negaron a creer y aceptarlo como el Libertador. Mateo 2:3-12
+### ¡Y aquí lo tienes! Los sabios de una tierra lejana vieron las señales, creyeron y adoraron a Jesús, el Hijo de Dios, mientras que los propios escribas y fariseos de Israel (que conocían las profecías) se negaron a creer y aceptarlo como el Libertador. ¡Esta también fue una declaración de Dios de que Jesús es verdaderamente Dios! Mateo 2:3-12
 
-### Podemos ver la oposición liderada por parte de Satanás en Faraón al mandar a asesinar a todos los niños Israelitas en Egipto, para evitar que el Plan de Dios se cumpla,(En Moisés), y de la misma manera vemos cuando vino Jesús  mandó a asesinar a todos los nacidos en Belén, sin embargo ninguno de sus planes podría obstaculizar los planes soberanos de Dios. Mateo 2:13-18
+### Hemos visto esto antes. Vimos al faraón tratar de destruir a todos los niños israelitas de Egipto. Así como creo que Satanás estaba detrás de esto en ese momento (para deshacerse del Libertador), también lo fue esta vez con Jesús. Pero fíjate, aunque diríamos que Satanás lucha contra Dios tratando de obstaculizar Sus planes, ¿Ves alguna lucha desde el punto de vista de Dios? ¿Hubo una batalla en lo que a Él respectaba?  Mateo 2:13-18
 
 ### Más de 700 años antes del nacimiento de Jesús, Dios predijo por medio del profeta Oseas que el Libertador sería llamado por Dios para salir de Egipto. Oseas 11:1; Mateo 2:19-23
 
@@ -4568,7 +4620,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 #### Misericordioso y misericordioso
 
-#### Siempre en comunión y dependiente de la Dios
+#### Siempre en comunión y dependiente de Dios
 
 ### Mire Isaías 11:1-2. A medida que continuamos con estas lecciones y vemos una y otra vez cómo Jesús cumplió todas las profecías mesiánicas
 
@@ -4592,31 +4644,31 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### Dios comienza a revelar públicamente quien es Jesús, no lo hace de la manera en que los humanos probablemente lo hubiéramos hecho: con estandartes y trompetas. En cambio, usa a un hombre de aspecto salvaje con ropa pobre y áspera, que vivía en el desierto y tenía extraños hábitos alimenticios para anunciar su llegada. Dios usaría este heraldo inusual para predicar un mensaje a la gente que prepararía sus corazones para reconocer su necesidad de que un Libertador viniera y los salvara de sus pecados, Juan el bautista.
 
-### Observe dónde tuvo lugar el ministerio de Juan: en el desierto. Aparte del hecho de que era práctico, ya que estaba al lado de un río que facilitaba a Juan bautizar a las personas recordaba a las personas la historia de Israel vagando en el desierto durante 40 años. Mateo 3:1-2
+### Observe dónde tuvo lugar el ministerio de Juan: en el desierto. Aparte del hecho de que era práctico, ya que estaba al lado de un río que facilitaba a Juan bautizar a las personas, creo que fue significativo por otras razones. Cuando escuchas "desierto" en la Biblia, ¿Qué evento principal en la historia de Israel te viene a la mente? Vagando por el desierto durante cuarenta años. Mateo 3:1-2
 
-### Tambien les recordaría que en el desierto fue que Dios les entregó la ley a Israel, con el propósito de conocimiento de pecado y que tengan la necesidad de un salvador. El mensaje de Juan el bautista era que cambien de mente y crean en aquel que Dios enviaría.
+### ¿Cómo caracterizaría usted el tiempo de Israel en el desierto? Perdido, incierto, incredulidad, tal vez incluso silencio. Muchas de las mismas características que probablemente habrían caracterizado a Israel en la época de Juan el Bautista.
 
-### Podemos ver la fidelidad de Dios en demostrar claramente cada detalle de sus planes y propósitos.
+### Definitivamente estaban perdidos, los tiempos eran muy inciertos, había incredulidad, y acababan de pasar por 400 años de "silencio" de Dios, pero creo que el punto en común más significativo es el hecho de que en Éxodo 19 fue en el desierto donde Dios le dio la ley a Israel.
 
-### El mensaje de Juan era sencillo: era un mensaje de arrepentimiento (cambio de mente). ¡Debemos notar aquí que el arrepentimiento NO es una promesa! No es una promesa para dejar de pecar o esforzarse más. Es un cambio de mentalidad, un cambio en lo que cada persona está confiando para su salvación, el cambio de mente que Juan anunciaba era que dejen de confiar en sí mismos y confíen en el que Dios ha provisto para salvación y perdón de Pecados.
+### ¿Cuál era el propósito de la ley? Para mostrarle a Israel su pecado y la necesidad de un Salvador. ¿Cuál fue el propósito del ministerio y el mensaje de Juan el Bautista? Para convencer a las personas de su pecado y necesidad de un Salvador.
+
+### ¡La fidelidad de Dios es sorprendente! usa cada detalle como una forma de comunicar Sus planes y propósitos. El mensaje de Juan era sencillo: Era un mensaje de arrepentimiento. ¡Debemos notar aquí que el arrepentimiento NO es una promesa! No es una promesa de cambiar, dejar de pecar o esforzarse más. Es un cambio de mentalidad hacia Dios, hacia uno mismo y hacia el propio pecado que lo condena. En efecto, es un reconocimiento de que "Dios, tiene razón y yo estoy equivocado". Básicamente, Juan habría estado llamando a los judíos a reconocer su pecaminosidad, ver su necesidad de un Salvador y confiar en el Libertador prometido venidero.
 
 ### Juan fue la persona que Isaías anunció que vendría antes del libertador prometido. Isaías 40:3.
 
 ### Mateo 3:1-3. *En aquellos días llegó Juan el Bautista predicando en el desierto de Judea, diciendo: Arrepiéntanse, porque el reino de los cielos se ha acercado. Porque este Juan es aquel a quien se refirió el profeta Isaías, cuando dijo: VOZ DEL QUE CLAMA EN EL DESIERTO:PREPAREN EL CAMINO DEL SEÑOR, HAGAN DERECHAS SUS SENDAS*
 
-### En Mateo 3:4. *Y él, Juan, tenía un vestido de pelo de camello y un cinto de cuero a la cintura; y su comida era de langostas y miel silvestre.* 
+#### Otra señal de Dios que facilita que las personas identifiquen al prometido.
+
+### En Mateo 3:4. *Y él, Juan, tenía un vestido de pelo de camello y un cinto de cuero a la cintura; y su comida era de langostas y miel silvestre.*
 
 ### Mateo 3:5-6. *Entonces Jerusalén, toda Judea y toda la región alrededor del Jordán, acudían a él,  y confesando sus pecados, eran bautizados por Juan en el río Jordán.*
 
-### Muchos de los judíos se arrepintieron cuando escucharon el mensaje de Juan. Su forma de pensar cambió por completo con respecto a Dios, y en lo que ellos estaban confiando, entendían que eran pecadores y creyeron en el mensaje de Juan el bautista, que había de venir un libertador y salvador.
+### Muchos de los judíos se arrepintieron cuando escucharon el mensaje de Juan. Su forma de pensar cambió por completo con respecto a Dios, y en lo que ellos estaban confiando, entendían que eran pecadores y creyeron en el mensaje de Juan el bautista, que había de venir un Libertador y Salvador.
 
 ### El bautismo es la identificación pública con un mensaje, en este contexto los creyentes que se bautizaban en el bautismo de Juan se identificaban con el mensaje que Juan predicaba, en otras palabras creían en el mensaje de Juan y por eso se bautizaban.
 
-### Sin embargo,  el bautismo con el que Juan bautizaba no era todavía el evangelio, debido a que todavía no conocían al que habría de salvar al mundo, pero se identificaban esperando la promesa de un salvador. 
-
-### El bautismo del creyente es diferente, debido a que el creyente cuando se bautiza entiende claramente el evangelio, y confiesa públicamente haber creído en una persona y una obra específica para su salvación.
-
-### Muchos fueron bautizados en el bautismo de Juan, sin embargo no eran todavía salvos, debido a que faltaba la revelación de la persona y obra de Jesucristo. Tenemos el testimonio de Apolos en que solo conocían hasta el bautismo de Juan y ese era un mensaje parcial, no era el evangelio como hoy lo conocemos completamente. Hechos 18:24-28
+### Sabemos que el mensaje de Juan no era el "evangelio" y su bautismo era diferente al bautismo del creyente. Tenemos el testimonio de Apolos en Hechos 18:24-28: solo sabía del bautismo de Juan. Solo tenía un mensaje parcial. Eres un pecador y necesitas un Salvador. Juan no los bautizó en el nombre del Padre, del Hijo y del Espíritu Santo, como se nos dice que hagamos en el bautismo del creyente.
 
 ### Mateo 3:7-10. *Pero cuando vio que muchos de los fariseos y saduceos venían para el bautismo, les dijo: ¡Camada de víboras! ¿Quién les enseñó a huir de la ira que está al venir? Por tanto, den frutos dignos de arrepentimiento; y no piensen que pueden decirse a sí mismos: “Tenemos a Abraham por padre”, porque les digo que Dios puede levantar hijos a Abraham de estas piedras. El hacha ya está puesta a la raíz de los árboles; por tanto, todo árbol que no da buen fruto es cortado y echado al fuego.*
 
@@ -4685,7 +4737,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### Mateo 4:1 *Entonces Jesús fue llevado por el Espíritu al desierto para ser tentado por el diablo.*
 
-### Uno de los conceptos erróneos más grande en el mundo de hoy es la relación que existe entre Dios y Satanás, Hoy en día es evidente que muchos los ven en igualdad de condiciones: uno es poderoso y bueno y el otro es poderoso y malo. La verdad es que, aunque Satanás tiene temporalmente cierta autoridad, fue creado por Dios y nunca podrá vencer a su Hacedor Todopoderoso.
+### Uno de los conceptos erróneos más grande en el mundo de hoy es la relación que existe entre Dios y Satanás, Hoy en día es evidente que muchos los ven en igualdad de condiciones: Uno es poderoso y bueno y el otro es poderoso y malo. La verdad es que, aunque Satanás tiene temporalmente cierta autoridad, fue creado por Dios y nunca podrá vencer a su Hacedor Todopoderoso.
 
 ### Satanás tentó a Jesús. Satanás es el gran enemigo de Dios. Odia a Dios, y también odia al hombre que fue creado por Dios. Satanás se ha opuesto a su Creador desde el principio. Así fue como se convirtió en Satanás en primer lugar.
 
@@ -4703,11 +4755,11 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### En segundo lugar, convertirse en el Autor de la Salvación Eterna – Hebreos 5:5-9. Una vez más, ¡Jesús era 100% hombre! Al nacer hombre, creció, maduró y aprendió.
 
-### Debo admitir que Jesús siendo 100% Dios agrega un elemento de misterio a todo el asunto. Jesús creció en sabiduría y estatura y en favor de Dios y de los hombres. Lucas 2:52
+### Es de notar que Jesús siendo 100% Dios agrega un elemento de misterio a todo el asunto. Jesús creció en sabiduría y estatura y en favor de Dios y de los hombres. Lucas 2:52
 
 ### Entonces, ¿Cómo pudo Jesús, que era 100% Dios, crecer en favor de Dios? La única explicación que puedo dar es como hombre y más específicamente como el Libertador. Como hombre, parece evidente que Jesús tuvo que experimentar el verdadero significado de la obediencia en términos del sufrimiento que implicaba para ser perfeccionado para el papel que desempeñaría como nuestro Capitán y Sumo Sacerdote.
 
-### Un comentario decía: En un sentido real no completamente comprensible, la encarnación le dio al ya infinitamente sabio y perfecto Hijo de Dios la adquisición experiencial de conocimiento sobre la condición humana. El sufrimiento se convirtió así en una realidad que Él probó y de él puede simpatizar profundamente con Sus seguidores.
+### Un comentario decía: "En un sentido real no completamente comprensible, la encarnación le dio al ya infinitamente sabio y perfecto Hijo de Dios la adquisición experiencial de conocimiento sobre la condición humana. El sufrimiento se convirtió así en una realidad que Él probó y de ahí puede simpatizar profundamente con Sus seguidores".
 
 ### Desde el punto de vista de Satanás, estaba tratando que Jesús pecara para que no se convirtiera en el Libertador del mundo, sin embargo él fue usado como una herramienta en las manos de Dios que estaba siendo utilizada para preparar a nuestro Libertador en todo sentido, ¡no para obstaculizarlo! ¡Se trataba de Dios haciendo que Jesús fuera el Autor de nuestra Salvación!
 
@@ -4741,7 +4793,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### Véase Juan 8:44; 2 Corintios 4:4; 1 Juan 5:19.
 
-### Nuestra carne tiene la misma mentalidad que Satanás. Por eso Jesús dijo: Vosotros sois de vuestro padre el diablo. Entonces, cualquiera que no haya aceptado a Cristo como Salvador, que está controlado por su carne al 100%, en ese sentido está bajo el control de Satanás y la mentalidad será exactamente la misma. Véase 1 Juan 3:8. Incluso como creyentes, cuando caminamos en la carne, es cuando es posible que Satanás nos engañe, porque la mentalidad será la misma.
+### Nuestra carne tiene la misma mentalidad que Satanás. Por eso Jesús dijo: Vosotros sois de vuestro padre el diablo. Entonces, cualquiera que no haya creído en Cristo como Salvador, está controlado por su carne al 100%, en ese sentido está bajo el control de Satanás y la mentalidad será exactamente la misma. Véase 1 Juan 3:8. Incluso como creyentes, cuando caminamos en la carne, es cuando es posible que Satanás nos engañe, porque la mentalidad será la misma.
 
 ### El intento de Satanás de hacer que Jesús lo adore, lo tomo como lo mismo que cuando era Lucifer y trató de tomar el lugar de Dios. Recuerdo que cuando era un joven creyente pensaba: ¿Por qué Satanás no se da por vencido? Tiene que saber que nunca tendrá una oportunidad. Es tan intrínsecamente malvado que es imposible para él cambiar o hacer algo diferente. Es tan malvado que se ha vuelto un necio, se encuentra enceguecido creyendo que podría vencer a Dios, Su creador. Nuestra carne nos hace exactamente lo mismo. Nos hace pensar que no necesitamos de Dios ni de sus provisiones.
 
@@ -4799,7 +4851,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### Jesús les dijo que creyeran. Esto no es diferente de lo que hemos visto a lo largo del Antiguo Testamento. La fe, la creencia en la promesa de Dios del Libertador venidero, es siempre lo que justifica a alguien. Pero ahora el objetivo real de esa fe se está volviendo más claro. Dios había estado mostrando que Jesús es el Libertador, y ahora Jesús también estaba comenzando a declararlo.
 
-### Es interesante notar que ahora que el Libertador había venido, ya no era suficiente creer que vendría. Aquellos que terminaron rechazando a Jesús como el Mesías todavía creían en la promesa de Dios de enviar un Libertador. Simplemente no creían que fuera Jesús. NO creer que Jesús era Él era lo mismo que no creerlo en absoluto. Hubo una progresión hacia lo que la gente debía creer.
+### Es interesante notar que ahora que el Libertador había venido, ya no era suficiente creer que vendría. Aquellos que terminaron rechazando a Jesús como el Mesías todavía creían en la promesa de Dios de enviar un Libertador. Simplemente no creían que fuera Jesús. NO creer que Jesús era Él era lo mismo que no creer en absoluto. Hubo una progresión hacia lo que la gente debía creer.
 
 ### Marcos 1:16-20. *Mientras caminaba junto al mar de Galilea, vio a Simón y a Andrés, hermano de Simón, echando una red en el mar, porque eran pescadores. Y Jesús les dijo: Vengan conmigo, y Yo haré que ustedes sean pescadores de hombres. Dejando al instante las redes, ellos lo siguieron. Yendo un poco más adelante, Jesús vio a Jacobo, el hijo de Zebedeo, y a su hermano Juan, los cuales estaban también en la barca, remendando las redes. Al instante los llamó; y ellos, dejando a su padre Zebedeo en la barca con los jornaleros, se fueron con Jesús.*
 
@@ -4957,7 +5009,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### Durante el lapso de tres años que Jesús estuvo llevando a cabo su ministerio, los evangelios registran que sanó públicamente la enfermedad o dolencia de alguien 18 veces diferentes. Hay cuatro ocasiones específicas en las que Jesús demostró que era Dios al perdonar públicamente el pecado. Cada vez que los fariseos decían algo como: Oye, ¿quién se cree que es? Solo Dios puede perdonar el pecado. ¡Tenían razón! Al menos nueve veces diferentes, reveló que era Dios al revelar su autoridad sobre la naturaleza. Calmó las tormentas, caminó sobre el agua, alimentó a cuatro y cinco mil con el almuerzo de un solo niño, capturas milagrosas de peces, resucitó a los muertos, obtuvo una moneda de un pez y envió demonios a los cerdos.
 
-### Al menos seis veces demostró que era Dios al revelar su autoridad sobre el mundo de los espíritus al expulsar demonios. Reveló que era Dios al revelar su autoridad sobre la muerte. No solo resucitó públicamente a tres personas de entre los muertos, sino que cuando entregó Su espíritu en la cruz, muchas, muchas personas fueron resucitadas de entre los muertos.
+### Al menos seis veces demostró que era Dios al revelar su autoridad sobre el mundo de los espíritus al expulsar demonios. Reveló que era Dios al revelar su autoridad sobre la muerte. No solo resucitó públicamente a tres personas de entre los muertos, sino que cuando entregó Su espíritu en la cruz muchas personas fueron resucitadas de entre los muertos.
 
 ### Mateo 27:50-53. En dos ocasiones específicas, Dios el Padre, hablando con una voz audible desde el cielo, lo proclamó como su Hijo amado. Jesús reveló que Él era Dios por Su enseñanza. En numerosas ocasiones la gente se asombró por la autoridad con la que enseñaba. Otra forma en que Dios probó una y otra vez quién era Jesús, fue a través del cumplimiento de todas sus promesas y profecías con respecto a Él. En última instancia, Dios dio TANTAS promesas y profecías para ser cumplidas por el Libertador que solo ÉL podía orquestar el cumplimiento de cada una de ellas a través de un hombre.
 
@@ -4969,9 +5021,11 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### El profesor emérito de Ciencias en Westmont College, Peter Stoner, ha calculado la probabilidad de que un hombre cumpla las principales profecías hechas con respecto al Mesías. Las estimaciones fueron elaboradas por doce clases diferentes que representaban a unos 600 estudiantes universitarios. Los estudiantes sopesaron cuidadosamente todos los factores, discutieron cada profecía extensamente y examinaron las diversas circunstancias que podrían indicar que los hombres habían conspirado juntos para cumplir una profecía en particular. Hicieron sus estimaciones lo suficientemente conservadoras como para que finalmente hubiera un acuerdo unánime incluso entre los estudiantes más escépticos. Sin embargo, el profesor Stoner tomó sus estimaciones y las hizo aún más conservadoras. También alentó a otros escépticos o científicos a hacer sus propias estimaciones para ver si sus conclusiones eran más que justas. Finalmente, presentó sus cifras para su revisión a un comité de la American Scientific Affiliation. Tras el examen, verificaron que sus cálculos eran confiables y precisos con respecto al material científico presentado. (Peter Stoner, La ciencia habla, Chicago: Moody Press, 1969, 4.)
 
-### Por ejemplo, con respecto a Miqueas 5:2, donde se afirma que el Mesías nacería en Belén Efrata, Stoner y sus estudiantes determinaron la población promedio de Belén desde el tiempo de Miqueas hasta el presente; Luego lo dividieron por la población promedio de la tierra durante el mismo período. Concluyeron que la posibilidad de que un hombre naciera en -
+### Por ejemplo, con respecto a Miqueas 5:2, donde se afirma que el Mesías nacería en Belén Efrata, Stoner y sus estudiantes determinaron la población promedio de Belén desde el tiempo de Miqueas hasta el presente; Luego lo dividieron por la población promedio de la tierra durante el mismo período. Concluyeron que la posibilidad de que un hombre naciera en Belén era 1 en 300,000 (o uno en 2.8 x 10 ^ 5 redondeado).
 
-### Belén era 1 en 300,000 (o uno en 2.8 x 10 ^ 5 redondeado). Después de examinar solo ocho profecías diferentes (Idem, 106), estimaron conservadoramente que la probabilidad de que un hombre cumpliera las ocho profecías era de una en 10^17. Para ilustrar cuán grande es el número 10 ^ 17 (una cifra con 17 ceros), Stoner dio esta ilustración: si marcas uno de los diez boletos, y colocas todos los boletos en un sombrero, y los revuelves bien, y luego le pides a un hombre con los ojos vendados que saque uno, su probabilidad de obtener el boleto correcto es de uno en diez. Supongamos que tomamos 10^17 dólares de plata y los ponemos sobre la faz de Texas. Cubrirán todo el estado a dos pies de profundidad. Ahora marque uno de estos dólares de plata y revuelva toda la masa a fondo, por todo el estado. Véndele los ojos a un hombre y dígale que puede viajar tan lejos como desee, pero que debe tomar un dólar de plata y decir que este es el correcto. ¿Qué posibilidades tendría de conseguir el correcto? Justo la misma oportunidad que los profetas habrían tenido de escribir estas ocho profecías y hacer que todas se hicieran realidad en cualquier hombre, desde su día hasta el presente, siempre que las escribieran en su propia sabiduría. (Ídem, 106-107.)
+### Después de examinar solo ocho profecías diferentes (Idem, 106), estimaron conservadoramente que la probabilidad de que un hombre cumpliera las ocho profecías era de una en 10^17. Para ilustrar cuán grande es el número 10 ^ 17 (una cifra con 17 ceros), Stoner dio esta ilustración: si marcas uno de los diez boletos, y colocas todos los boletos en un sombrero, y los revuelves bien, y luego le pides a un hombre con los ojos vendados que saque uno, su probabilidad de obtener el boleto correcto es de uno en diez. Supongamos que tomamos 10^17 dólares de plata y los ponemos sobre la faz de Texas. Cubrirán todo el estado a dos pies de profundidad. Ahora marque uno de estos dólares de plata y revuelva toda la masa a fondo, por todo el estado. Véndele los ojos a un hombre y dígale que puede viajar tan lejos como desee, pero que debe tomar un dólar de plata y decir que este es el correcto. 
+
+### ¿Qué posibilidades tendría de conseguir el correcto? Justo la misma oportunidad que los profetas habrían tenido de escribir estas ocho profecías y hacer que todas se hicieran realidad en cualquier hombre, desde su día hasta el presente, siempre que las escribieran en su propia sabiduría. (Ídem, 106-107.)
 
 ### Pero, por supuesto, hay muchas más de ocho profecías. En otro cálculo, Stoner usó 48 profecías (Idem, 109) (aunque podría haber usado las 456 de Edersheim), y llegó a la estimación extremadamente conservadora de que la probabilidad de que se cumplan 48 profecías en una persona es el increíble número 10 ^ 157. ¿Qué tan grande es el número uno en 10 ^ 157? ¡10 ^ 157 contiene 157 ceros! Stoner da una ilustración de este número usando electrones. Los electrones son objetos muy pequeños. Son más pequeños que los átomos. Se necesitarían 2.5 VECES 10 ^ 15 de ellos, colocados uno al lado del otro, para hacer una pulgada. Incluso si contáramos 250 de estos electrones cada minuto, y contáramos día y noche, todavía tomaría 19 millones de años contar una línea de electrones de una pulgada de largo. (Stoner, op. cit., 109.)
 
@@ -4987,13 +5041,13 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### Pero el segundo aspecto de su enseñanza fue en términos de lo que estaba revelando/enseñando sobre sí mismo a través de sus acciones. Jesús está haciendo aquí exactamente lo que Dios estaba haciendo durante todo el Antiguo Testamento: revelar quién es realmente y cómo es realmente a través de su interacción con la humanidad.
 
-### Con Jesús siendo la imagen expresada de Dios (como se nos dice en Hebreos), podemos verlo manifestando tanto su santidad, justicia, justicia y su amor, gracia y misericordia, todo al mismo tiempo, tal como vimos a Dios hacer muchas veces en el Antiguo Testamento.
+### Con Jesús siendo la imagen expresada de Dios (como se nos dice en Hebreos), podemos verlo manifestando tanto Su santidad, rectitud, justicia y su amor, gracia y misericordia, todo al mismo tiempo, tal como vimos a Dios hacer muchas veces en el Antiguo Testamento.
 
-### El versículo 5 dice: *Cuando Jesús vio la FE de ellos*... ¡Dios es siempre ve la fe de las personas! Cuando Israel se acercó en incredulidad a Dios, la respuesta de Dios fue no dejarles entrar a la tierra prometida, debido a que no habían creído en lo que Dio había dicho que haría.
+### El versículo 5 dice: *Cuando Jesús vio la FE de ellos*... ¡Dios es siempre ve la fe de las personas! Cuando Israel se acercó en incredulidad a Dios, la respuesta de Dios fue no dejarles entrar a la tierra prometida, debido a que no habían creído en lo que Dios había dicho que haría.
 
 ### ¡El problema más grande era la incredulidad! Dios mismo dice del hombre que todo pensamiento e intención de sus corazones fue solo malo desde la infancia, por lo tanto el problema mas grande es acercarse a Dios en incredulidad.
 
-### Dios mismo ha creado a todos los seres humanos con la capacidad de ser receptores de la revelación misma de Dios, aprender sobre Él, sobre su poder y grandeza, y creer en la revelación visible de Dios. Sin embargo el rechazar la revelación de Dios los hace directamente responsables, debido a que entienden claramente que existe un Dios en la tierra, solo que se niegan rotundamente a creer en como se reveló. (Romanos 1).
+### Dios mismo ha creado a todos los seres humanos con la capacidad de ser receptores de la revelación misma de Dios, aprender sobre Él, sobre su poder y grandeza, y creer en la revelación visible de Dios. Sin embargo el rechazar (no creer) la revelación de Dios los hace directamente responsables, debido a que entienden claramente que existe un Dios en la tierra, solo que se niegan rotundamente a creer en como se reveló. (Romanos 1).
 
 ### Estos hombres en Marcos 2, por otro lado, habían visto mucha menos revelación de primera mano de Dios que la que había visto esa generación de Israel, y sin embargo, esta escrito que se acercaron con fe, a Jesús, ellos habían visto y escuchado lo suficiente sobre Jesús como para creer que Él podía sanar a su amigo y lo haría.
 
@@ -5059,7 +5113,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### Lea Mateo 8:14-16.
 
-### Poco después de comenzar a seguir a Jesús, van a la casa de Pedro y Jesús sana a la suegra de Pedro. Luego, esa noche, muchas personas poseídas por demonios fueron traídas a Él. Él expulsó a los demonios con un simple mandato y sanó a Todos los enfermos. Estaba mostrando su compasión, su poder y su autoridad. Esto es lo que soy.
+### Poco después de comenzar a seguir a Jesús, van a la casa de Pedro y Jesús sana a la suegra de Pedro. Luego, esa noche, muchas personas poseídas por demonios fueron traídas a Él. Él expulsó a los demonios con un simple mandato y sanó a todos los enfermos. Estaba mostrando su compasión, su poder y su autoridad. Esto es lo que soy.
 
 ### Lea Mateo 14:13-21.
 
@@ -5177,7 +5231,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### Creen que la vida de Jesús proporciona un modelo o ejemplo de cómo Dios quiere que sea la vida cristiana para nosotros. En el contexto de estas circunstancias extremas de sufrimiento, Jesús como hombre, en su alma es aplastado hasta el punto de la muerte. Se acerca a Dios y se dirige a Él como Abba Padre, revelando la intimidad y la cercanía de su relación.
 
-### Basado en el hecho de que Dios es todopoderoso y supremo, Jesús le pide a Dios que lo libere de este tiempo de sufrimiento. Pero debido a que Dios es omnisciente y omnipotente, Jesús, más que querer Su propia voluntad, quiere que se cumpla la voluntad de Dios el Padre. Mira 1 Pedro 2:21-23. Para nosotros, sin conocerlo íntimamente, no tendremos ese tipo de cercanía e intimidad, ni querremos Su voluntad por encima de la nuestra. Dudamos de la bondad de Dios y, por lo tanto, no confiamos en Él.
+### Basado en el hecho de que Dios es todopoderoso y supremo, Jesús le pide a Dios que lo libere de este tiempo de sufrimiento. Pero debido a que Dios es omnisciente, Jesús, más que querer Su propia voluntad, quiere que se cumpla la voluntad de Dios el Padre. Mira 1 Pedro 2:21-23. Para nosotros, sin conocerlo íntimamente, no tendremos ese tipo de cercanía e intimidad, ni querremos Su voluntad por encima de la nuestra. Dudamos de la bondad de Dios y, por lo tanto, no confiamos en Él.
 
 ### Lea Marcos 14:37-42.
 
@@ -5211,7 +5265,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### ¿Cómo podría alguien así ser el grande que nos librara de los romanos? Por lo tanto, cuando Jesús volvió a afirmar que era el Hijo de Dios, el sumo sacerdote se enfureció. ¡En sus mentes había cometido blasfemia!
 
-### Isaías 50:6 e Isaías 53 eran profecías sobre cómo se trataría al Libertador. Marcos 14:65 cumple esa profecía. ¡Fíjate en el detalle! ¡Incluso hasta cómo sería tratado! Para mí, Dios estaba dejando muy, muy claras dos cosas principales: primero, Jesús es verdaderamente el Libertador y, segundo, ¡la realidad de la depravación y la maldad del hombre y la necesidad desesperada del hombre de un Libertador!
+### Isaías 50:6 e Isaías 53 eran profecías sobre cómo se trataría al Libertador. Marcos 14:65 cumple esa profecía. ¡Fíjate en el detalle! ¡Incluso hasta cómo sería tratado! Para mí, Dios estaba dejando muy, muy claras dos cosas principales: Primero, Jesús es verdaderamente el Libertador y, segundo, ¡la realidad de la depravación y la maldad del hombre y la necesidad desesperada del hombre de un Libertador!
 
 ### Lea Marcos 15:1-5.
 
@@ -5297,7 +5351,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### Marcos escribió que Jesús clamó a gran voz justo antes de morir, pero Marcos no nos dice lo que dijo. Sin embargo, en Juan 19:30, Juan nos dice que Jesús dijo: *Consumado es.* Sabemos que, con esta declaración, Jesús no quiso decir que había perdido y que sus enemigos habían ganado. En cambio, ¡quiso decir que lo que había venido a hacer al mundo se cumplió por completo! Había venido a liberar a los pecadores, y había logrado su propósito. Había sido separado de Dios y se le había dado su sangre y su vida como pago completo por nuestros pecados. ¡El plan de Dios desde antes de los siglos ahora estaba completo!
 
-### Ahora, ya no hay necesidad de que nadie se separe de Dios. Debido a que Jesús pagó todo lo necesario, Dios perdona los pecados de aquellos que están de acuerdo con Él en que son pecadores y creen en Jesús y Su muerte por ellos. A ellos les da el don de la vida eterna. En el Jardín del Edén, Dios había prometido que enviaría un Libertador y cumplió su promesa. Jesús terminó la obra que su Padre le había encomendado para que hiciera por nosotros. Él es el único camino de regreso a Dios. Juan 14:6 dice: *Yo soy el camino, la verdad y la vida, nadie viene al Padre sino por mí.*
+### Ahora, ya no hay necesidad de que nadie se separe de Dios. Debido a que Jesús pagó todo lo necesario, Dios perdona los pecados de aquellos que están de acuerdo con Él en que son pecadores y creen en Jesús y Su muerte por ellos. A ellos les da el don de la vida eterna. En el Jardín del Edén, Dios había prometido que enviaría un Libertador y cumplió su promesa. Jesús terminó la obra que su Padre le había encomendado que hiciera por nosotros. Él es el único camino de regreso a Dios. Juan 14:6 dice: *Yo soy el camino, la verdad y la vida, nadie viene al Padre sino por mí.*
 
 ### El trato en el que Marcos informó que algunos dijeron que estaba llamando a Elías probablemente fue una forma de burlarse de Jesús. La creencia judía popular en ese momento creía que Elías vino en tiempos de angustia para liberar a los justos que sufrían. Entonces, habrían estado diciendo: Oh, mira, Él piensa que Él es un sufridor justo y eso Elías vendrá a liberarlo.
 
@@ -5399,13 +5453,13 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 #### Otra parte del castigo del pecado es la maldición que Dios puso sobre la tierra como parte del castigo del hombre (la segunda ley de la termodinámica: todo tiende al azar y a la decadencia).
 
-## El momento en que aceptamos a Cristo como Salvador
+## El momento en que creemos en Cristo como Salvador
 
-### Sí, en el momento en que aceptamos a Cristo como nuestro Salvador, es el momento en que creemos que Su sangre derramada paga por el castigo de nuestro pecado, en ese mismo momento recibimos la salvación del castigo del pecado. Recibimos liberación de todo el castigo y la paga del pecado que se han establecido anteriormente. Recibimos la salvación de la muerte que habíamos recibido.
+### Sí, en el momento en que creemos en Cristo como nuestro Salvador, es el momento en que creemos que Su sangre derramada paga por el castigo de nuestro pecado, en ese mismo momento recibimos la salvación del castigo del pecado. Recibimos liberación de todo el castigo y la paga del pecado que se han establecido anteriormente. Recibimos la salvación de la muerte que habíamos recibido.
 
 ### Esa relación que se rompió entre Adán y Dios, y en la que nacimos instantáneamente, se restaura. Romanos 5:10-11; 2 Corintios 5:18; 1 Corintios 1:9; 1 Juan 1:3-4.
 
-### La muerte espiritual o estar muertos a Dios en la que nacimos también recibimos liberación desde el momento en que aceptamos a Cristo como Salvador. Romanos 6:11; 1 Corintios 15:22; Efesios 2:4-5; Colosenses 2:13.
+### La muerte espiritual o estar separados de Dios, es la condición en la que nacimos. También recibimos liberación de esa realidad desde el momento en que creemos en Cristo. Romanos 6:11; 1 Corintios 15:22; Efesios 2:4-5; Colosenses 2:13.
 
 ### Entonces también recibimos la salvación del tercer aspecto de la muerte, que es la separación eterna de Dios.  Romanos 5:18-21; 6:23; 1 Timoteo 1:16; Tito 1:1-2; Tito 3:4-7; 1 Juan 1; 1-2; 2:24-25; Génesis 5:10-13.
 
@@ -5513,7 +5567,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### Pedro también afirma que, a través del conocimiento de Dios, hemos sido llamados por o para la virtud. La virtud aquí habla de que somos agradables a Dios a través de la superioridad de Dios como se manifiesta en el evangelio. Una vez más, esto habla de nuestra posición que recibimos a través de la obra terminada de Cristo y está afectando nuestra condición.
 
-### Ahora, pasemos al versículo 4. Comienza con por qué. Pedro está diciendo que es el hecho de que seamos llamados o restaurados a esa gloria y virtud lo que nos ha llevado a recibir o recibir grandes y preciosas promesas (o las grandes y preciosas promesas vienen junto con la posición), lo que a su vez resulta en que nos convirtamos en participantes de la naturaleza divina.
+### Ahora, pasemos al versículo 4. Comienza con por qué. Pedro está diciendo que es el hecho de que seamos llamados o restaurados a esa gloria y virtud lo que nos ha llevado a recibir grandes y preciosas promesas (o las grandes y preciosas promesas vienen junto con la posición), lo que a su vez resulta en que nos convirtamos en participantes de la naturaleza divina.
 
 ### Lee Hebreos 8:6.
 
@@ -5527,11 +5581,11 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 # Efesios Capítulo 1
 
-### Efesios 1:3-4 – El versículo 4 comienza con según y modifica ser bendecido con toda bendición espiritual. Fuimos bendecidos con toda bendición espiritual DE ACUERDO o DE ACUERDO con el hecho de que hemos sido elegidos en Él antes de la fundación de la tierra. Significa elegir entre o entre. También incluye la idea de bondad, amor y favor. No implica necesariamente el rechazo de lo que no fue elegido.
+### Efesios 1:3-4 – El versículo 4 comienza con según y modifica ser bendecido con toda bendición espiritual. Fuimos bendecidos con toda bendición espiritual DE ACUERDO  con el hecho de que hemos sido elegidos en Él antes de la fundación de la tierra. Significa elegir entre. También incluye la idea de bondad, amor y favor. No implica necesariamente el rechazo de lo que no fue elegido.
 
-### Cabe aclarar que la elección en este versículo no se está refiriendo a Dios salvando a personas soberanamente, según su preferencia, sino la elección es en ÉL, Todos los creyentes se encuentran como escogidos en Cristo, Como una persona es colocada dentro de Cristo es a través de creer en el evangelio de Salvación, no es Dios soberanamente escogiendo a unos para salvación y a otros para condena eterna.
+### Cabe aclarar que la elección en este versículo no se está refiriendo a Dios salvando a personas soberanamente, según su preferencia, sino la elección es en ÉL (Cristo), Todos los creyentes se encuentran como escogidos en Cristo, Como una persona es colocada dentro de Cristo es a través de creer en el evangelio de Salvación (Efesios 1:13-14), no es Dios soberanamente escogiendo a unos para salvación y a otros para condena eterna.
 
-### La elección de Dios no se basa en el mérito personal o algo que Dios haya visto en nosotros, sino la elección se basa en el previo conocimiento de Dios de quienes habrían de Creer en el evangelio esos son los escogidos de Dios en Cristo.
+### La elección de Dios no se basa en el mérito personal o algo que Dios haya visto en nosotros, sino la elección se basa en el previo conocimiento de Dios de quienes habrían de Creer en el evangelio esos son los escogidos de Dios **en Cristo.**
 
 ### Pablo continúa dándonos el propósito de haber sido colocados dentro de Cristo, mostrándonos nuestra nueva naturaleza e identidad nueva delante de Él. El apóstol Pedro tambien lo describió como...
 
@@ -5563,9 +5617,11 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 #### Él liberó a la nación de Israel de Egipto y los condujo a la Tierra Prometida, basado en sus promesas a Abraham y de acuerdo a su Pacto.
 
-### La soberanía de Dios no consiste en salvar a las personas según la elección de unos para salvación y otros para perdición. La soberanía de Dios consiste en que Dios lo que se propone lo cumple. Dios soberanamente decidió crear todo el universo y lo que en él existe de acuerdo a su voluntad, y soberanamente hizo posible la salvación de todas las personas a través de su hijo Jesucristo. no hay nadie que pueda ir en contra de la soberanía de Dios. no existe ningún humano, o ángel ó demonio, o ser creado en todo el universo que impida que Dios evite hacer su voluntad. y lo que se propuso hacer, lo hizo soberanamente, sin embargo la salvación ó perdición de las personas Dios escogió que sea en base al creer en el evangelio, y de esa manera es que bajo el libre albedrio cada persona elige creer en el evangelio o rechazarlo.
+### La soberanía de Dios no consiste en salvar a las personas según la elección de unos para salvación y otros para perdición. La soberanía de Dios consiste en que Dios lo que se propone lo cumple. Dios soberanamente decidió crear todo el universo y lo que en él existe de acuerdo a su voluntad, y soberanamente hizo posible la salvación de todas las personas a través de su hijo Jesucristo. no hay nadie que pueda ir en contra de la soberanía de Dios. no existe ningún humano, o ángel ó demonio, o ser creado en todo el universo que impida que Dios evite hacer su voluntad. y lo que se propuso hacer, lo hizo soberanamente. 
 
-### Cada creyente ha sido escogido "en Cristo" antes de la fundación del mundo, basado en el previo conocimiento de Dios de quienes habrían de Creer en Cristo, los colocó como escogidos en Él. y predestino, fijó un destino a todos los que habrían de Creer en Cristo, fueran hechos santos y sin mancha delante de él.
+### Sin embargo la salvación ó perdición de las personas Dios escogió que sea en base al creer en el evangelio, y de esa manera es que bajo el libre albedrio cada persona elige creer en el evangelio o rechazarlo.
+
+### Cada creyente ha sido escogido "en Cristo" antes de la fundación del mundo, basado en el previo conocimiento de Dios de quienes habrían de creer en Cristo, los colocó como escogidos en Él. y predestino, fijó un destino a todos los que habrían de Creer en Cristo, fueran hechos santos y sin mancha delante de él.
 
 ### Este plan eterno de redención que hemos estado señalando y hablando a lo largo de este estudio, que Dios mantuvo como un misterio hasta el momento señalado, es que a través de Cristo, Dios usaría a una raza humana pecadora y separada de Él para pasar de su estado pecaminoso caído a Su gloria y virtud, con el fin de revelar Su bondad y la GLORIA o magnificencia de Su gracia.
 
