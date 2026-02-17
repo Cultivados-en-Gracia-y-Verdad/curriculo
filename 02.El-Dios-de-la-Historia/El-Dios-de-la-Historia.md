@@ -297,11 +297,11 @@
 
 #### No existe persona o poder superior al de Dios. Él es la autoridad suprema, Él está sobre todo el universo y todo lo que existe dentro de él, Dios tiene control absoluto sobre todos los poderes y autoridades espirituales.
 
-#### En toda nuestra mente sabemos que esto es cierto. Pero todos los días, mientras caminamos por la vida, ¿estamos viviendo y viendo la vida a la luz de esta realidad?
+#### En toda nuestra mente sabemos que esto es cierto. Pero todos los días, mientras caminamos por la vida, ¿estamos confiando y andando la vida a la luz de esta realidad?
 
 #### Si analizaríamos nuestras vidas, todos encontraríamos muchas áreas de independencia de Dios dentro de nosotros, lugares o áreas donde dependemos de nuestros propios esfuerzos, sabiduría y comprensión en lugar de Dios. Estos son signos de no conocer a Dios.
 
-#### ¿Y en nuestra visión de Satanás? ¿Hay realmente una batalla entre Dios y Satanás? Las Escrituras hablan de una batalla que se desarrolla dentro de nosotros entre la carne y el espíritu. Satanás anda como un león rugiente buscando a quien devorar, buscando a quien engañar. Pero desde la perspectiva de Dios, ¿hay realmente una batalla entre Dios y Satanás? No, Satanás ya es un enemigo derrotado.
+#### ¿Y en nuestra visión de Satanás? ¿Hay realmente una batalla entre Dios y Satanás?  La Biblia dice que Satanás anda como un león rugiente buscando a quien devorar, buscando a quien engañar. Pero desde la perspectiva de Dios, ¿hay realmente una batalla entre Dios y Satanás? No, Satanás ya es un enemigo derrotado.
 
 #### No hay nadie ni nada que pueda compararse con Dios. Él es mucho más grande y superior que todo lo que existe, inclusive de Satanás. el poder y deidad de Dios está mucho más allá de nuestro entendimiento. Salmo 147:1-9, 148:1-14
 
@@ -553,7 +553,7 @@
 
 ### ¿Es significativa la respuesta de la pregunta 1? Si es así, ¿por qué?
 
-### ¿Cuál es el significado de que Dios haya creado a todos los seres espirituales antes de crear todo lo demás?
+### ¿Cuál es el significado de que Dios haya querido mostrar parte de Su creación a los ángeles?
 
 ### ¿Sorprendieron a Dios Lucifer y la rebelión de los ángeles?
 
@@ -1050,7 +1050,7 @@
 
 ### Sabemos que cuando Dios creó el mundo, el universo y todo lo que contiene, no existía nada malo. Todo estaba en paz y armonía. No había pecado, enfermedad, tristeza o muerte. También sabemos que, poco después, esta hermosa tranquilidad cambió como resultado del pecado.
 
-### Aprendimos anteriormente que antes de que Dios creara cualquier otra cosa, creó a los ángeles. También sabemos que Él los creó como seres espirituales con sabiduría y poder para servirle. Sabemos que debido a que los ángeles son seres creados por Dios, nunca podrían convertirse en Dios o usurpar Su autoridad.
+### Aprendimos anteriormente que Dios creó a los ángeles para que pudieran presenciar parte de Su creación. También sabemos que Él los creó como seres espirituales con sabiduría y poder para servirle. Sabemos que debido a que los ángeles son seres creados por Dios, nunca podrían convertirse en Dios o usurpar Su autoridad.
 
 ### También sabemos de Lucifer, a quien originalmente Dios había creado perfecto como todos los demás ángeles. Su nombre Lucifer significaba Estrella de la Mañana. Refiriéndose a Lucifer, Ezequiel 28:15 dice: *Perfecto eras en tus caminos desde el día que fuiste creado...*
 
@@ -1146,7 +1146,13 @@
 
 #### Este es generalmente el punto donde declaramos que Satanás no quería que se quedaran así, que quería arruinar todos los grandes planes de Dios para el hombre. Aunque eso puede ser cierto, más que querer arruinar los planes de Dios, Satanás quería ser Dios. El hombre estaba actualmente en comunión con Dios bajo Su autoridad. Ser Dios significaba que el hombre tendría que estar bajo su autoridad. Satanás quería recibir esa autoridad y adoración de parte del hombre. 
 
-#### Satanás había visto a Dios crear al hombre. Había sido testigo de cómo Dios nombró a Adán y Eva como administradores sobre la tierra. Más tarde vio el cuidado de Dios hacia ellos mientras les proporcionaba todo lo que necesitaban en el Jardín del Edén. Satanás podía ver el amor que Dios tenía por ellos. Satanás también estaba al tanto del mandato de Dios de no comer del árbol del conocimiento del bien y del mal. Debido a que Satanás sabía que había sido juzgado y condenado al castigo eterno, también quería que el hombre pecara y fuera castigado junto con él.
+#### Satanás (un ángel) había visto a Dios crear al hombre. Había sido testigo de cómo Dios nombró a Adán y Eva como administradores sobre la tierra. Más tarde vio el cuidado de Dios hacia ellos mientras les proporcionaba todo lo que necesitaban en el Jardín del Edén. Satanás podía ver el amor que Dios tenía por ellos. 
+
+#### Satanás también estaba al tanto del mandato de Dios de no comer del árbol del conocimiento del bien y del mal. Debido a que Satanás sabía que había sido juzgado y condenado al castigo eterno, también quería que el hombre pecara y fuera castigado junto con él. 
+
+#### ¿Dónde estaba Dios en esta situación? Esto no escapó del conocimiento de Dios, el es Omnisciente, sabía todo lo que eran las intenciones de Satanás. 
+
+#### ¿Porqué lo permitió? Él  no es un Dios reaccionario y nada escapa de Su control. Recordemos, Su plan no comienza en la creación, mucho menos después de los malévolos planes de Satanás. Su Plan comienza desde la ETERNIDAD. 2 Timoteo 1:9
 
 ### Génesis 3:2-3 *La mujer respondió a la serpiente: Del fruto de los árboles del huerto podemos comer; pero del fruto del árbol que está en medio del huerto, Dios ha dicho: No comerán de él, ni lo tocarán, para que no mueran*
 
@@ -1304,7 +1310,7 @@
 
 #### Dios no llamó a Adán para averiguar dónde estaban, fue para que Adán y Eva se dieran cuenta de dónde estaban y se dieran cuenta de cómo sus mentes, voluntades y emociones también habían cambiado. Quería que reconocieran y admitieran su pecado.
 
-#### Tenemos que volver a los versículos que vimos en nuestra primera semana, que, desde antes de la fundación de la tierra, este plan de redención ya existía en el corazón de Dios y que se llevaría a cabo a través de Cristo. El pecado ya se había calculado hace mucho tiempo. Entonces, el pecado de Adán y Eva no cambió el plan de Dios, en realidad lo estaba cumpliendo.
+#### Tenemos que volver a los versículos que vimos anteriormente, que, desde antes de la fundación de la tierra, este plan de redención ya existía en el corazón de Dios y que se llevaría a cabo a través de Cristo. El pecado ya se había calculado hace mucho tiempo. Entonces, el pecado de Adán y Eva no cambió el plan de Dios, en realidad lo estaba cumpliendo.
 
 #### De la misma manera que Dios estaba llamando a Adán y Eva para ayudarlos a darse cuenta de su pecado, Dios hace lo mismo hoy. Todavía llama a las personas para ayudarlas a ver su pecado y su necesidad de un Salvador. ¿Cuáles son algunas de las formas en que Él hace esto? Él habla a través de las cosas que ha creado. 
 
