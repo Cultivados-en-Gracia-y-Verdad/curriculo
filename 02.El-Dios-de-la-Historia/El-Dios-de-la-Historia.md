@@ -3222,11 +3222,29 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### Leer Éxodo 19:16-25
 
-#### Después de que Israel hizo su voto de hacer *todo lo que el SEÑOR ha dicho*, vimos el cambio en la respuesta de Dios hacia ellos. Podemos ver claramente el cambio en la respuesta de Israel cuando por primera vez experimentan esta forma diferente de Dios en relacionarse con ellos. Hasta este momento, la respuesta de Israel hacia Dios nunca se describió en términos de temor o miedo.
+#### Después de que Dios anuncia el pacto de la ley e Israel responde de hacer *todo lo que el SEÑOR ha dicho*, veremos que el Señor comienza a revelar mas de Él al pueblo de Israel. Podemos ver a Israel cuando por primera vez experimentan un aspecto diferente de Dios en Su relación con ellos (Su santidad, justicia y poder). Hasta este momento, la respuesta de Israel hacia Dios nunca se describió en términos de temor o miedo.
 
-#### Hasta este punto, la base para el trato de Dios con ellos siempre estuvo sobre la base de Su intervención divina y de gracia. Siempre estuvo de su lado, protegiéndolos, guiándolos, proveyéndolos y amándolos. Su aceptación de ellos se basó en el hecho de que Él los había elegido. Este es el verdadero corazón de Dios cuando trata con su pueblo según la gracia. ¡Es todo de Él! Pero, una vez que Israel dijo: Lo haremos, Dios ya no pudo tratar con ellos según la gracia.
+#### Hasta este punto, el trato de Dios con ellos siempre estuvo sobre la base de Su intervención divina y de gracia. Siempre estuvo a su lado, protegiéndolos, guiándolos, proveyéndolos y amándolos. Su aceptación de ellos se basó en el hecho de que Él los había elegido como Su pueblo, nación de quien vendría Su Mesías. Este es el verdadero corazón de Dios con su pueblo, según Su gracia. ¡Todo proviene de Él!
 
-#### Ahora, tendría que tratar con ellos de acuerdo con la ley. Bajo la ley, la aceptación de Israel ante Dios estaría determinada por su propia capacidad para guardar la ley. Dios aún los protegería y proveería para ellos, siempre y cuando fueran fieles para obedecer la ley. Así es como se ve cuando Dios está tratando con su pueblo de acuerdo con la ley: *hizo temblar a todo el pueblo que estaba en el campamento*.
+#### Ahora, se puede llegar a pensar que a partir de Éxodo 19 Dios cambia para con Israel. Pero ¿realmente es así? ¿Dios cambió o es que ahora?
+
+#### Desde que Israel comenzó a conocer de primera mano a Dios desde Éxodo 4:29-31, Él fue revelándose de manera progresiva a ellos. El pacto en el monte Sinaí y el Tabernáculo respectivamente no es Dios cambiando para con Israel, sino que es Dios revelándose más y más a Su pueblo y al mundo, Él se esta dando a conocer.
+
+#### A través de este evento el pueblo de Israel estaría conociendo:
+
+##### Dios es santo y su presencia requiere separación. Esto ya había sido visto cuando Moisés se encuentra en la presencia del gran YO SOY en la zarza ardiente. Éxodo 3:5; Éxodo 19:23
+
+##### La santidad de Dios por medio de límites reales al acercamiento irreverente. Éxodo 19:12–13
+
+##### La majestad y poder de Dios por medio de la manifestación de una densa nube, truenos, relámpagos y fuego. Éxodo 19:9, 16–18
+
+##### La preparación y purificación del pueblo muestran que el encuentro con Dios no es común, sino sagrado, es en base a Su santidad. Éxodo 19:10–11
+
+##### El mismo Dios que salvó con poder en el Mar Rojo ahora se revela como el que les dará la ley santa y justa, la cual es la que refleja Su Persona. Éxodo 14:31, 20:1; Deuteronomio 4:8
+
+#### La evento del Sinaí no muestra un cambio en Dios, sino una ampliación de lo que ya había mostrado desde el principio. Dios desciende no para destruir a Israel, sino para revelarse y hablar a su pueblo. Éxodo 19:9; Éxodo 20:1
+
+#### La relación entre Dios e Israel (según Su gracia, amor, misericordia) no cambia porque Dios no cambia. Lo que ahora vemos es que el Señor esta mostrando más acerca de Su persona, incluso desde ahora la interacción con Dios será aún más clara ya que se revelará más respecto a la verdad del pecado y sus consecuencias, pero también Dios se mostrará proveedor incluso en esto.
 
 ## Dios tenía un propósito específico para dar Sus mandamientos a Israel (Éxodo 20:1-19)
 
