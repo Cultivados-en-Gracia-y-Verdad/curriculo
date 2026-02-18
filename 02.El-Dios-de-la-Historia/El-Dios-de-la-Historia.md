@@ -3126,31 +3126,83 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 #### Observe cómo Dios mismo describe su liberación de Israel de la esclavitud: *Ustedes han visto lo que he hecho a los egipcios, y cómo los he tomado sobre alas de águilas y los he traído a Mí.* Él no dice: Te llevé en alas de águila y te liberé, o te saqué de la esclavitud o te llevé a la libertad, sino ¡los he traído a Mí!
 
-#### No habría mejor manera para que Dios le mostrara a Israel cuán importantes y significativos eran para Él que decir: los he traído a Mí. ¡Te quería para mí! Quiero una relación contigo. ¿Sabes que Dios dice exactamente lo mismo hoy sobre nosotros como creyentes? 
+#### No habría mejor manera para que Dios le mostrara a Israel cuán importantes y significativos eran para Él que decir: los he traído a Mí. ¡Te quería para mí! Quiero una relación contigo. ¿Sabes que Dios dice exactamente lo mismo hoy sobre nosotros como creyentes?
 
-#### En 2 Corintios 5:18-19, Pablo dijo que *Dios nos reconcilió con Él mismo por medio de Cristo.* Al igual que Israel, Él nos trajo a Él. No lo elegimos a Él, no lo buscamos, ¡sino que Él nos trajo a Él! ¡Nada podría hacerte más significativo que el hecho de que el glorioso y todopoderoso Dios del universo te trajo a Él!
+#### En 2 Corintios 5:18-19, Pablo dijo que *Dios nos reconcilió con Él mismo por medio de Cristo.* Al igual que Israel, Él nos trajo a Él, nos reconcilió consigo mismo por la fe en Cristo. No lo elegimos a Él, no lo buscamos, ¡sino que Él nos trajo a Él! ¡Nada podría hacerte más significativo que el hecho de que el glorioso y todopoderoso Dios del universo te trajo a Él!
 
-#### Ahora Dios dice: si escuchas mi voz y guardas mi pacto, entonces serás un pueblo especial para mí. Hasta este punto, ¿cómo había sonado la voz de Dios? ¿En qué se había basado Su trato? GRACIA e Intervención Divina. No había reglas ni regulaciones. Los había liberado gratuitamente de la esclavitud, los había protegido libremente de la espada de sus enemigos, los había conducido libremente a través del Mar Rojo, había hecho llover pan del cielo y había sacado agua de una roca como un regalo.
+#### Ahora Dios dice: Si escuchas mi voz y guardas mi pacto, entonces serás mi especial tesoro entre **todos** los pueblos, porque Yo soy el dueño de toda la creación. Hasta este punto, ¿cómo había sonado la voz de Dios? ¿En qué se había basado Su relación? En Su GRACIA e intervención Divina. No se basaba  en reglas ni regulaciones. 
 
-#### Así es como había sonado la voz de Dios hasta este punto. Todo era gracia y no tenía nada que ver con que Israel hiciera algo. Antes de llevar a cabo cualquiera de estas cosas, Dios no les había dado condiciones ni demandas. No se les puso ninguna carga ni yugo alrededor de sus cuellos.
+#### En Su gracia los había liberado de la esclavitud, los había protegido libremente de la espada de sus enemigos, los había conducido libremente a través del Mar Rojo, había hecho llover pan del cielo y había sacado agua de una roca como un regalo.
 
-#### Desde el momento en que Dios prometió a Adán y Eva un Libertador en Génesis 3:15 y hasta Abraham, Isaac y Jacob; el pacto y las promesas de Dios no tenían condiciones. Se trataba de Su gracia.
+#### Así es como había sonado la voz de Dios hasta este punto. Todo era en base a Su gracia, fidelidad y provisión. No tenía nada que ver con que Israel hiciera algo o lo mereciera. Antes de llevar a cabo cualquiera de estas cosas, su relación con Dios no se trataba de condiciones ni demandas, sino de quien era Él. No se les puso ninguna carga ni yugo alrededor de sus cuellos.
 
-#### Es muy significativo que Dios le haya dado a Israel este recordatorio de Su amor, poder y gracia antes de ofrecerles este pacto basado en la ley. El significado realmente se destaca cuando lo consideras a la luz de la declaración anterior de Dios en Éxodo 16:4: *Entonces el SEÑOR dijo a Moisés: Yo haré llover pan del cielo para ustedes. El pueblo saldrá y recogerá diariamente la porción de cada día, para ponerlos a prueba si andan o no en Mi ley.*
+#### Desde el momento en que Dios prometió a Adán y Eva un Libertador en Génesis 3:15 y hasta Abraham, Isaac y Jacob; el pacto y las promesas de Dios no se basaban en la capacidad o merito del hombre. Siempre todo se trató y dependía de la gracia del Señor.
 
-#### Ya sabemos el resultado. Antes de ofrecer a Israel esta relación de pacto basada en la ley con Él mismo en el capítulo 19, Dios primero los probó diciéndoles que NO hicieran una pequeña cosa. Cuando recolectes maná todos los días, solo recolecta el valor de ese día. No recolectes más y trata de guardarlo para el día siguiente. 
+#### Es muy significativo que Dios le haya dado a Israel este recordatorio de Su amor, poder y gracia (Éxodo 19:4) antes de anunciarles este pacto de la ley. El significado realmente se destaca cuando lo consideras a la luz de la declaración anterior de Dios en Éxodo 16:4: *Entonces el SEÑOR dijo a Moisés: Yo haré llover pan del cielo para ustedes. El pueblo saldrá y recogerá diariamente la porción de cada día, para ponerlos a prueba si andan o no en Mi ley.*
 
-#### Dios estaba requiriendo esto para enseñarles que podían confiar en Dios para la provisión de cada día. La prueba no era para que Dios descubriera nada; Él es omnisciente. Era para beneficio de Israel, para mostrarles que eran incapaces de seguir incluso las órdenes más simples y fáciles de llevar a cabo. Los israelitas prometieron obedecer al Señor.
+#### Ya sabemos el resultado. Antes de anunciar a Israel el pacto de la ley en el capítulo 19, Dios primero los probó diciéndoles que NO hicieran una pequeña cosa. Cuando recolectes maná todos los días, solo recolecta el valor de ese día. No recolectes más y trata de guardarlo para el día siguiente.
 
-#### Entonces, aquí en el capítulo 19, cuando Dios ofreció este pacto basado en la ley con ellos, deberían haberse postrado sobre sus rostros ante Dios y decir: ¡queremos que sigas luchando por nosotros! ¡Queremos que sigas llevándonos en alas de águila! ¡Queremos que nuestra relación contigo se base en tu gracia y misericordia, no en nuestra obediencia! Nos hemos quejado y dudado de ti en cada prueba y ni siquiera pudimos seguir las órdenes más simples de no reunir más de un día de maná. Somos incapaces de obedecerte
+#### Dios estaba requiriendo esto para enseñarles que podían confiar en Dios para la provisión de cada día. La prueba no era para que Dios descubriera nada; Él es omnisciente. Era para beneficio de Israel, para mostrarles que eran incapaces de seguir incluso las órdenes más fáciles de llevar a cabo y vieran que no se trataba de su capacidad de obrar o cumplir para que entrarán a la tierra prometida, sino de la promesa Dios, y de quién era Él.
 
-#### C.H. Mackintosh, en sus notas en el Pentateuco declara: *En cambio, hicieron uno de los votos más presuntuosos que cualquier ser humano podría hacer: Todo lo que el Señor ha hablado, lo haremos. No, INTENTAREMOS hacerlo, o nos ESFORZAREMOS por hacerlo. Esto al menos habría comunicado un nivel de desconfianza en sí mismos. Pero, no, tomaron el terreno más absoluto, NOSOTROS LO HAREMOS.*
+#### Entonces, aquí en el capítulo 19, cuando Dios anunció este pacto de la ley, ellos debían haber recordado que:
 
-#### Y no fueron solo unas pocas personas. Dice que TODAS las personas hicieron este mismo voto audaz y presuntuoso. Eran como Caín que pensaba que podía agradar a Dios por lo que le ofrecía. ¿Recuerdas la declaración de Dios sobre la humanidad en Génesis 8:21? Cada pensamiento e intención del corazón del hombre es solo malo desde la infancia. Las personas que realmente creen que eso es cierto sobre sí mismas nunca habrían hecho tal voto.
+##### Dios hizo distinción entre Israel y Egipto en las plagas. Éxodo 8:22–23
+
+##### Dios protegió a su pueblo bajo la sangre del cordero en la Pascua. Éxodo 12:13
+
+##### Dios los guio continuamente con una columna de nube y fuego. Éxodo 13:21–22
+
+##### Dios peleó por ellos en el Mar Rojo y los salva. Éxodo 14:13–14
+
+##### Dios demostró Su poder y cuidado en el cruce del mar. Éxodo 14:31
+
+##### Dios sanó las aguas amargas en Mara. Éxodo 15:25
+
+##### Dios hizo llover pan del cielo diariamente. Éxodo 16:4
+
+##### Dios prometió saciarlos con carne y pan y lo hizo. Éxodo 16:12
+
+##### Dios hizo brotar agua de la roca en el desierto. Éxodo 17:6
+
+##### Dios derrotó a Amalec mientras Moisés intercede. Éxodo 17:13–14
+
+#### Y también debían haber recordado que:
+
+##### Israel culpó a Moisés cuando aumentó la opresión. Éxodo 5:20–21
+
+##### Israel no escuchó el mensaje de Dios por desánimo y angustia. Éxodo 6:9
+
+##### Israel tuvo temor y deseos de volver a Egipto ante el Mar Rojo. Éxodo 14:11–12
+
+##### Israel murmuró por el agua en Mara. Éxodo 15:24
+
+##### Israel recuerda Egipto y desconfío por falta de comida. Éxodo 16:2–3
+
+##### Israel fue desobediente guardando maná y fueron contra la orden de Dios. Éxodo 16:19–20
+
+##### Israel salió a recoger maná en el día de reposo desobedeciendo a Dios. Éxodo 16:27–28
+
+##### Israel contendió y cuestionó a Dios. Éxodo 17:2–3
+
+#### En todo ese tiempo que Dios estuvo revelándose a Israel (Éxodo 1-18), fue mostrando Su carácter y actuar. Esto no es algo que se quedo en meras palabras de parte de Dios, Él mostro claramente quien era Él y como eran Sus Caminos, Israel lo vio de primera mano.
+
+#### La **relación** entre el YO SOY e Israel y el **cumplimiento** de Sus promesas nunca se baso en su capacidad, merito o esfuerzo propio. Siempre se trato y dependió de Dios, de Su gracias, amor, fidelidad, etc.
+
+#### El Señor les recuerda esta realidad en Éxodo 19:4 justo antes de anunciar el pacto de la ley, eso no puede ser casualidad.
+
+#### Ahora que Dios e Israel harían un pacto, ¿el carácter y los caminos de Dios cambiarían? Evidentemente no, Dios nunca cambia, por lo que tampoco cambiaría la manera en la cual Israel se relacionaría con Dios. ¡Su relación seguiría siendo en base a  quién es Dios mismo!
+
+#### Ellos solo debían oír la voz de Dios, confiar en todo lo que Él estuvo mostrándose hasta ese momento y de esta manera guardar (cumplir) el pacto. Note que Dios no dice "Si guardan mi pacto...entonces". Él claramente dice: *Si en verdad **escuchan** mi Mi voz y guardan Mi pacto...entonces*
+
+#### Si ellos confiaban en el YO SOY, que lo estuvo cuidando fielmente y guardaban Su pacto entonces serían Su especial tesoro entre las demás naciones, ya eran Su pueblo, pero podrían llegar a ser Su especial tesoro, un reino de sacerdotes y una nación Santa.
+
+#### Lamentablemente ignoraron todo lo que Dios se había dado a conocer a ellos y se perdieron en su propia capacidad y obediencia como veremos. Éxodo 19:8
+
+#### Y no fueron solo unas pocas personas. Dice que TODAS las personas hicieron esta misma declaración audaz y presuntuosa. Eran como Caín que pensaba que podía agradar a Dios por lo que le ofrecía. ¿Recuerdas la declaración de Dios sobre la humanidad en Génesis 8:21? Cada pensamiento e intención del corazón del hombre es solo malo desde la infancia. Las personas que realmente creen que eso es cierto sobre sí mismas nunca habrían hecho tal declaración.
 
 #### Tan pronto como Moisés transmitió oficialmente la respuesta del pueblo a Dios, mire el resultado inmediato en el versículo 9: 
 
-##### *Y el SEÑOR dijo a Moisés: Yo vendré a ti en una densa nube… Pondrás límites alrededor para el pueblo, y dirás: De ningún modo suban al monte o toquen su límite. Cualquiera que toque el monte, ciertamente morirá.* ¡WOAU! ¡Qué cambio! Aquel que acababa de declarar que los había llevado en alas de águila y los había traído a Sí mismo, ahora se envuelve en una espesa nube y amenaza a la gente con la muerte si se acercan a la montaña.
+##### *Y el SEÑOR dijo a Moisés: Yo vendré a ti en una densa nube… Pondrás límites alrededor para el pueblo, y dirás: De ningún modo suban al monte o toquen su límite. Cualquiera que toque el monte, ciertamente morirá.* ¡WOAU! Ahora comenzaremos a ver una manera interacciones entre Dios e Israel que hasta el momento no se habían visto. Será Dios revelándose más y más a Su pueblo.
 
 #### Los dulces acentos de la gracia y la misericordia se cambian por los truenos y los relámpagos del monte de fuego. Israel había dicho: LO HAREMOS. Y ahora, por lo tanto, deben ser puestos a distancia para que se pueda ver completamente lo que son capaces de hacer.
 
@@ -3160,11 +3212,11 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ##### Todo pensamiento e intención de nuestros corazones son solo malos desde la infancia, y está muy claro que la SALVACIÓN, que es justificación, santificación y glorificación, es el resultado de Cristo y su obra terminada a nuestro favor.
 
-##### Depender de nosotros mismos y de nuestros esfuerzos para cualquier parte de esto, puede hacernos parecer espirituales en apariencia, pero en realidad estamos haciendo exactamente lo que hizo Caín, ¡caminando en incredulidad! Caminar en incredulidad es rechazar a Dios y Su provisión para nosotros, lo que resulta en distancia y separación, no en cercanía e intimidad.
+##### Depender de nosotros mismos y de nuestros esfuerzos para cualquier parte de esto, puede hacernos parecer espirituales en apariencia, pero en realidad estamos haciendo exactamente lo que hizo Caín, ¡caminando en incredulidad! Caminar en incredulidad es rechazar a Dios y Su provisión para nosotros, lo que resulta en distancia y separación, no en cercanía e intimidad. Como en el caso de Israel, en el que habían ignorado el hecho de que la manera de relacionarse con Dios siempre fue en base a quien era Él y no en base a *Haremos todo lo que el Señor ha dicho*
 
 ##### Cuando nos esforzamos por vivir una vida santa en nuestros propios esfuerzos, Dios no puede y nunca bendecirá esos esfuerzos. Hacerlo sería hacernos aún más orgullosos, santurrones e independientes de Él. Más bien, Él hará exactamente lo que hizo con Israel: dará un paso atrás y nos permitirá seguir adelante para demostrar que no podemos depender de nosotros mismos.
 
-#### *Así, entonces, Israel cometió un error fatal al decir: Lo haremos. Era tomar sobre sí un voto que no podían cumplir, incluso si estaban dispuestos a pagar las consecuencias. Y sabemos quién ha dicho: 'Es mejor que no hagas promesas, que hagas votos y no pagues'. Es de la esencia misma de un voto que asume la competencia para cumplir; ¿Y dónde está la competencia del hombre? Lo mismo podría hacer una persona en bancarrota, girar un cheque contra el banco, como un pecador indefenso hacer un voto. Un hombre que hace un voto niega la verdad en cuanto a su naturaleza y condición. Está arruinado, ¿qué puede hacer? Carece por completo de fuerzas y no puede querer ni hacer nada bueno. ¿Cumplió Israel su voto? ¿Hicieron todo lo que el Señor mandó? Sea testigo del becerro de oro, las tablas rotas, el sábado profanado, las ordenanzas despreciadas y descuidadas, los mensajeros apedreados, los hijos sacrificados, el Cristo rechazado y crucificado, el Espíritu resistido. Tales son las abrumadoras evidencias de las promesas deshonradas del hombre. Así debe ser siempre cuando la humanidad caída se compromete a hacer votos. Querido lector cristiano, ¿no te regocijas en el hecho de que tu salvación eterna no descansa en tus pobres votos y resoluciones sombrías, sino en la única ofrenda de Jesucristo una vez? Oh, sí, 'esta es nuestra alegría que nunca puede fallar'. Cristo ha tomado todos nuestros votos sobre sí mismo, y los ha cumplido gloriosamente para siempre. Su vida de resurrección fluye a través de sus miembros y produce en nosotros resultados que los votos y las reclamaciones legales nunca podrían afectar. Él es nuestra vida y Él es nuestra justicia. Que su causa siempre ordene nuestras energías. Que sea nuestra comida y nuestra bebida para gastar y ser gastadas en Su querido servicio. C. H. Mackintosh*
+#### *Así, entonces, Israel no estaba comprendiendo la realidad al decir: Lo haremos. Iban por un pensamiento que no podían cumplir, incluso si estaban dispuestos a pagar las consecuencias. Lo mismo podría hacer una persona en bancarrota, girar un cheque contra el banco. Está arruinado, ¿qué puede hacer? Carece por completo de capacidad y no puede querer ni hacer nada. ¿Cumplió Israel lo que ellos creían poder cumplir, olvidándose de la revelación de Dios? ¿Hicieron todo lo que el Señor mandó? Sea testigo del becerro de oro, las tablas rotas, el sábado profanado, las ordenanzas despreciadas y descuidadas, los mensajeros apedreados, los hijos sacrificados, el Cristo rechazado y crucificado. Tales son las abrumadoras evidencias de las promesas deshonradas del hombre. Así debe ser siempre cuando la humanidad caída se ignora la provisión de Dios y va en su autosuficiencia. Querido lector cristiano, ¿no te regocijas en el hecho de que tu salvación eterna no descansa en tus pobres votos y resoluciones sombrías, sino en la única ofrenda de Jesucristo una vez? Oh, sí, 'esta es nuestra alegría que nunca puede fallar'. Cristo ha tomado todos nuestros pecados sobre sí mismo, y los ha pagado para siempre. Su vida de resurrección fluye a través de sus miembros y produce en nosotros resultados que nuestras promesas y esfuerzos nunca podrían lograr. Él es nuestra vida y Él es nuestra justicia.*
 
 ## Dios habló a los israelitas desde el Monte Sinaí
 
