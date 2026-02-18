@@ -1300,17 +1300,19 @@
 
 ### *Y él respondió: Te oí en el huerto, tuve miedo porque estaba desnudo, y me escondí. ¿Quién te ha hecho saber que estabas desnudo?, le preguntó Dios. ¿Has comido del árbol del cual Yo te mandé que no comieras?*
 
-#### Es difícil imaginar que, a la luz del maravilloso carácter de Dios, Adán actuó independientemente de Dios. A menudo hablamos de la vergüenza de estar desnudos y temerosos cuando se escondieron de Dios como los primeros signos de corrupción de su pecado. Pero creo que la primera emoción nueva que sintieron después de pecar tuvo que ser el horror de saber que habían pecado, que habían comido del único árbol del que Dios les había ordenado que no comieran. Hasta este punto, nunca antes habían sentido los resultados del pecado.
+#### Es difícil imaginar que, a la luz del maravilloso carácter de Dios, Adán actuó independientemente de Dios. A menudo hablamos de la vergüenza de estar desnudos y temerosos cuando se escondieron de Dios como los primeros signos de corrupción de su pecado. Pero probablemente la primera emoción nueva que sintieron después de pecar tuvo que ser el horror de saber que habían pecado, que habían comido del único árbol del que Dios les había ordenado que no comieran. Hasta este punto, nunca antes habían experimentado el pecado y sus resultados.
 
 #### Dios amó a Adán y Eva y vino al jardín para estar con ellos. Antes de separarse de Dios, disfrutaban de estar con Él; pero después de desobedecerlo, Adán y Eva trataron de esconderse de Dios.
 
 #### Cuando Adán y Eva intentaban esconderse entre los árboles, Dios sabía dónde estaban, porque Él está en todas partes, lo ve y lo sabe todo.
 
-#### Entonces, en vista del hecho de que nada puede ocultarse de Dios, ¿por qué gritó: ¿Dónde estás? Dios llamó a Adán y Eva porque todavía los amaba. A pesar de que Dios iba a tener que cumplir con el castigo que había prometido por su desobediencia, les estaba dando la oportunidad de venir a Él voluntariamente y admitir su pecado.
+#### Entonces, en vista del hecho de que nada puede ocultarse de Dios, ¿por qué gritó: ¿Dónde estás? Dios llamó a Adán y Eva porque todavía los amaba. A pesar de que Dios iba a tener que cumplir con el castigo que había prometido por su desobediencia, Él se acerco a ellos, no los dejó solos.
 
-#### Dios no llamó a Adán para averiguar dónde estaban, fue para que Adán y Eva se dieran cuenta de dónde estaban y se dieran cuenta de cómo sus mentes, voluntades y emociones también habían cambiado. Quería que reconocieran y admitieran su pecado.
+#### Es importante notar esto, la iniciativa de Adán y Eva fue ocultarse de Dios, Dios fue quien se acerco a ellos. Veremos esto repetidas veces, el Señor siempre buscando al hombre, nunca al revés. Podemos ver la gracia, misericordia y amor de Dios hacía el hombre
 
-#### Tenemos que volver a los versículos que vimos anteriormente, que, desde antes de la fundación de la tierra, este plan de redención ya existía en el corazón de Dios y que se llevaría a cabo a través de Cristo. El pecado ya se había calculado hace mucho tiempo. Entonces, el pecado de Adán y Eva no cambió el plan de Dios, en realidad lo estaba cumpliendo.
+#### Dios no llamó a Adán para averiguar dónde estaban, fue para que Adán y Eva se dieran cuenta de lo que habían hecho, dónde estaban y de cómo sus mentes, voluntades y emociones también habían cambiado. Quería que se dieran cuenta de la verdad.
+
+#### ¿Qué pasó con el plan de Dios ahora que Adán y Eva pecaron? Tenemos que volver a los versículos que vimos anteriormente, que, desde antes de la fundación de la tierra, este plan de redención ya existía en el corazón de Dios y que se llevaría a cabo a través de Cristo. El pecado ya se había calculado hace mucho tiempo. Entonces, el pecado de Adán y Eva no cambió el plan de Dios, en realidad lo estaba cumpliendo.
 
 #### De la misma manera que Dios estaba llamando a Adán y Eva para ayudarlos a darse cuenta de su pecado, Dios hace lo mismo hoy. Todavía llama a las personas para ayudarlas a ver su pecado y su necesidad de un Salvador. ¿Cuáles son algunas de las formas en que Él hace esto? Él habla a través de las cosas que ha creado. 
 
@@ -1318,15 +1320,17 @@
 
 #### Cuanto más aprendemos sobre la inmensidad de la creación de Dios, más podemos ver y comprender Su grandeza.
 
-### La belleza y la expansión de la creación de Dios deberían hacernos detenernos y darnos cuenta de que Dios, el Creador de todas las cosas, quiere que lo conozcamos. Salmo 19:1-3
+### La belleza y la expansión de la creación de Dios deberían hacernos detenernos y darnos cuenta de que Dios, el Creador de todas las cosas, quiere que lo conozcamos. Salmos 19:1-3
 
-### Dios también nos habla a través de Su Palabra. La palabra de Dios es Su mensaje para el mundo entero. Lamentablemente, la mayoría solo lo ve como una lista de lo que se debe y no se debe hacer. Pero en realidad es una autobiografía que Dios ha escrito para revelarse a la humanidad.
+### Dios también nos habla a través de Su Palabra. La palabra de Dios es Su mensaje para el mundo entero. Lamentablemente, la mayoría solo lo ve como una lista de lo que se debe y no se debe hacer. Pero en realidad es una autobiografía que Dios ha escrito para revelarse (revelar la verdad) a la humanidad.
 
-#### Aquí vemos nuevamente a Dios cuestionando a Adán, una vez más, Dios le estaba dando a Adán la oportunidad de admitir su pecado. También a partir de esto vemos a Dios estableciendo el hecho de que Él tiene autoridad absoluta sobre toda Su creación.
+#### Aquí vemos nuevamente a Dios cuestionando a Adán, una vez más, Dios se acercaba a Adán para que viera lo que había hecho. También a partir de esto vemos a Dios estableciendo el hecho de que Él tiene autoridad absoluta sobre toda Su creación.
 
 #### Cuando Lucifer y los ángeles pecaron, ¿Dios simplemente lo dejó pasar? No, tenían que responder a Dios y someterse a Su autoridad. Lo mismo fue cierto para Adán y Eva, y también es cierto para todos nosotros. Un día, toda la humanidad responderá a Dios. Debido a que Dios es nuestro Creador, Él es nuestro legítimo dueño.
 
 #### Hechos 17:25 *ni es servido por manos humanas, como si necesitara de algo, puesto que Él da a todos vida y aliento y todas las cosas.*
+
+#### Vemos como Dios siempre a estado revelándose así mismo. Incluso ahora en la desobediencia del hombre, continua revelando Su paciencia y Bondad para con el hombre.
 
 ## Génesis 3:12-13 Adán culpó a Eva, y Eva culpó a la serpiente
 
@@ -1336,13 +1340,17 @@
 
 #### Piense en el momento en que Dios creó a Eva. Dios llevó a cabo ese evento de tal manera que manifestó claramente su amor por Adán. Ahora, ¡aquí está Adán culpando a Dios y su gran amor por él como la causa de su pecado! Vaya, eso es el colmo de la arrogancia y la vanidad. Esto es lo que nuestra naturaleza pecaminosa es capaz de hacer: ¡Bueno, no deberías haberme dado a la mujer! Entonces Eva culpó a la serpiente. Adán y Eva trataron de evitar asumir la responsabilidad personal por lo que habían hecho.
 
-#### Este es un problema importante en nuestra sociedad actual también. Las personas buscan inherentemente evitar ser responsables de sus pecados y fracasos, a veces incluso hasta el punto de permitir que se culpe a otra persona. Pero al final, nadie puede engañar a Dios. El pecado no quedará impune. Dios ve y conoce la verdad sobre cada persona. Nadie puede escapar del castigo de Dios culpando a otra persona. Dios responsabiliza a cada persona por su propio pecado. Adán culpó a Dios y Eva culpó a la serpiente, pero Dios ya sabía la verdad sobre todo lo que había sucedido. ¡Nada es oculto para Dios!
+#### Este es un problema importante en nuestra sociedad actual también. Las personas buscan inherentemente evitar ser responsables de sus pecados y fracasos, a veces incluso hasta el punto de permitir que se culpe a otra persona. Pero al final, nadie puede engañar a Dios. El pecado no quedará impune. 
+
+#### Dios ve y conoce la verdad sobre cada persona. Nadie puede escapar del castigo de Dios culpando a otra persona. Dios responsabiliza a cada persona por su propio pecado. Adán culpó a Dios y Eva culpó a la serpiente, pero Dios ya sabía la verdad sobre todo lo que había sucedido. ¡Nada es oculto para Dios! 
+
+#### Adán y Eva no confiaron en Dios y habían pecado, eso cambió completamente la relación que tenían con Dios al inicio, perfecta, ahora estaban muertos, separados de Dios. Esa era la verdad. Y vemos como Dios ahora esta pacientemente mostrándoles la verdad Adán y Eva, Él nunca oculta la verdad.
 
 ## Génesis 3:14 Dios maldijo a la serpiente
 
 ### Génesis 3:14a *Y el SEÑOR Dios dijo a la serpiente: Por cuanto has hecho esto,* La primera maldición viene a la serpiente. ¿Quién es la serpiente? ¿Es solo una víbora que Satanás poseyó? 
 
-#### No sabemos, pero lo que no se puede discutir es que la maldición a la Serpiente va estrechamente ligada a la simiente de Satanás y a ser aplastada en la cabeza por La Simiente de la mujer. 
+#### No sabemos, pero lo que no se puede discutir es que la maldición a la Serpiente va estrechamente ligada a la simiente de Satanás y a ser aplastada en la cabeza por La Simiente de la mujer.
 
 ##### De hecho, la promesa del Redentor en Génesis 3:15 es hecho en una conversación con la serpiente. 
 
@@ -1706,11 +1714,17 @@
 
 ### Leer Génesis 4:16-24
 
-#### Los descendientes de Caín eran personas brillantes. Construyeron ciudades, criaron ganado y fabricaron herramientas e instrumentos musicales, pero no estaban interesados en conocer a Dios. Siguieron el ejemplo de Caín de rechazar a Dios. Piense en el terrible efecto que la incredulidad ya había tenido en el mundo en ese momento. Debido a que Adán y Eva pecaron, toda la humanidad fue enviada al pecado y a la separación de Dios. Caín, el primer hijo de Adán y Eva, asesinó a su hermano.
+#### Notemos las características "positivas" de los descendientes de Caín, eran personas brillantes. Construyeron ciudades, criaron ganado y fabricaron herramientas e instrumentos musicales. Aquí comienza a verse el pensamiento de autosuficiencia del hombre y su independencia de Dios (algo muy similar a lo que veremos en Génesis 6), ellos no estaban interesados en conocer a Dios, habían rechazado Su revelación. Una prueba de ello es la expresión ególatra de Lamec, descendiente de Caín (Génesis 4:24), él conocía el evento de Caín, ellos conocían como Dios se había revelado anteriormente.
+
+#### Siguieron el ejemplo de Caín de rechazar a Dios. Piense en el terrible efecto que la incredulidad ya había tenido en el mundo en ese momento. Debido a que Adán y Eva pecaron, toda la humanidad fue enviada al pecado y a la separación de Dios. Caín, el primer hijo de Adán y Eva, asesinó a su hermano.
 
 #### Caín se alejó de Dios y no quiso escuchar lo que dijo. Caín rechazó a Dios y todos sus descendientes también vivieron en rechazo de Dios. En Génesis capítulo 4, la raza humana solo había existido por unas pocas generaciones y se puede ver claramente el rápido declive de Dios.
 
 #### ¡Sin la intervención divina de Dios, el hombre estaría sin toda esperanza! Romanos 3:9-18
+
+Puede que exista la pregunta ¿Con quien pudo casarse Caín y tener descendientes? Vimos desde el comienzo de la Escrituras que los primeros seres humanos fueron Adán y Eva (Génesis 1:27), siguieron Caín y Abel (Génesis 4:1-2). Luego de que Caín asesina a su hermano Abel encontraremos en Génesis 4:25 que nace Set, el tercer hijo de Adán y Eva. 
+
+En Génesis 5:4 podemos encontrar que Adán y Eva llegaron a tener otros hijos e **hijas**. Podemos concluir entonces, que Caín llego a unirse con una de las otras hijas de Adán y Eva.
 
 ## Génesis 4:25 El nacimiento de Set
 
@@ -1842,8 +1856,6 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 #### Pero según Génesis 6:3, ¿cuánto tiempo continuaría el Espíritu de Dios hablando a través de Noé a la gente? 120 años. ¿Qué características de Dios harían que Él soportara pacientemente y continuara hablando a la gente durante 120 años? Gracia y misericordia.
 
-#### ¿Cuál sería la actitud de Dios si el pueblo se negara a arrepentirse durante este período de tiempo? Ya no mostraría misericordia, mostraría juicio.
-
 #### De la misma manera que el Espíritu de Dios guio a Noé para que hablara el mensaje de Dios a la gente de su tiempo, así también Dios guía hoy a aquellos que enseñan fielmente la Palabra de Dios. Y así como Dios amorosa y fielmente trató de advertir a la gente de los días de Noé, hace lo mismo hoy. A través de la iglesia (columna y baluarte de la verdad).
 
 #### El mismo Dios misericordioso, y amoroso que buscó a Caín después de traer el sacrificio equivocado y matar a su hermano, hoy continúa buscando al hombre pecador.
@@ -1852,15 +1864,15 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 #### Si bien puede haber sido posible que las personas en los días de Noé se engañaran y ocultaran su pecado unos de otros, es evidente que no podían ocultar su pecado delante de Dios. Él los vio, tal como había visto a Adán y Eva comer el fruto, y tal como había visto a Caín matar a Abel. ¡Dios era omnipresente entonces, y es omnipresente ahora! Él conoce y ve cada detalle minucioso de nuestras vidas, incluso antes de que lo llevemos a cabo.
 
-#### La gente era tan malvada, y el odio de Dios hacia el pecado es tan grande, que dijo que los iba a destruir. ¿Puedes ver en esto cuánto odia Dios el pecado? A la luz de la forma en que hemos visto a Dios buscar al hombre pecador, extender pacientemente su gracia, prometer enviar un Libertador, que Él llegue a este punto es extremadamente serio.
+#### La gente era tan malvada, y el odio de Dios hacia el pecado es tan grande, que dijo que los iba a destruir. ¿Puedes ver en esto cuánto odia Dios el pecado? A la luz de la forma en que hemos visto a Dios buscar al hombre pecador, extender pacientemente Su gracia, prometer enviar un Libertador, que Él llegue a este punto es extremadamente serio.
 
-#### Es muy probable que la actitud que hubiésemos tenido cualquiera de nosotros sería: está bien, no quieren escuchar, aquí está el castigo que merecen. Una vez más, vemos la fidelidad de Dios para hacer todo lo que promete. Prometió a Adán y Eva que morirían si comían del fruto.
+#### Es muy probable que la actitud que hubiésemos tenido cualquiera de nosotros sería: Está bien, no quieren escuchar, aquí está el castigo que merecen. Una vez más, vemos la fidelidad de Dios para hacer todo lo que promete. Prometió a Adán y Eva que morirían si comían del fruto.
 
 #### Caín y Abel sabían cómo acercarse a Dios. Caín vino según su propio entendimiento, y Dios lo rechazó.
 
-#### Ahora, durante 120 años, Dios estuvo continuamente advirtiendo a la gente que se arrepintiera. Les advirtió que los castigaría si no escuchaban y creían. Se negaron a arrepentirse.
+#### Ahora, durante 120 años, Dios estuvo continuamente advirtiendo a la gente del juicio del diluvio por el pecado. Pero la gente de ese tiempo se negó a creer en este, mensaje, por lo que solo ocho personas llegaron a ser salvas del diluvio
 
-#### Como humanos, estamos muy acostumbrados a que las personas no cumplan con lo que dicen. Muchos de nosotros lo hemos hecho como padres. Pero Dios no hace falsas amenazas. Él siempre hace lo que dice que hará.
+#### Como humanos, estamos muy acostumbrados a que las personas no cumplan con lo que dicen. Muchos de nosotros lo hemos hecho como padres. Pero Dios nunca miente. Él siempre hace lo que dice que hará. Tito 1:2
 
 ### Leer Génesis 6:8-10.
 
@@ -2348,7 +2360,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ## Génesis 25:5-22 Las promesas de Dios a Abraham fueron transmitidas a Isaac (Génesis 19-27)
 
-### Leer Génesis 17:15-21
+### Leer Génesis 17:1-6, 15-22; 25:5-11, 19-27. 
 
 #### En este punto en el que Dios transmite la promesa que le dio a Abraham a Isaac, Isaac es la vigésimo primera generación desde que Dios creó a Adán perfecto y sin pecado. En diez generaciones (Noé), la raza humana ya se había vuelto tan pervertida y malvada, que Dios decidió que era hora de borrar a la raza humana en juicio y reiniciar con Noé y su familia. Como nota al margen, comenzando en Génesis 4:25 y llegando al final del capítulo 5, tenemos la genealogía de Adán desde Set hasta Noé, nueve generaciones. Es muy interesante notar los significados de sus nombres.
 
@@ -2536,109 +2548,13 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ## Moisés un tipo de Cristo; El Faraón un tipo de la serpiente
 
-### Cada vez es más evidente para nosotros acerca de quién es Dios y cómo es que nunca cambia. Las vidas de algunas de las personas que hemos destacado hasta ahora han estado llenas de giros y vueltas inesperados, pero Dios sigue siendo el mismo. Sus acciones en medio de la agitación humana revelan su carácter confiable. Lo hemos visto continuar trabajando firmemente en Su plan de una manera omnipotente, santa y soberana, aunque las cosas a menudo parecen muy sombrías.
+### Cada vez es más evidente para nosotros acerca de quién es Dios y cómo es que nunca cambia. Las vidas de algunas de las personas que hemos destacado hasta ahora han estado llenas de giros y vueltas inesperados, pero Dios sigue siendo el mismo. Sus acciones en medio de la agitación humana revelan Su carácter confiable. Lo hemos visto continuar trabajando firmemente en Su plan de una manera omnipotente, santa y soberana, aunque las cosas a menudo parecen muy sombrías.
 
-### Aquí estamos hoy, unos miles de años después, y Dios sigue siendo el mismo y podemos seguir confiando plenamente y esperar que Él permanecerá fiel y verdadero mientras continúa haciendo la misma obra de revelarse a Sí mismo en nuestras vidas también. Ha habido dificultades en la vida de las personas que hemos visto hasta ahora, pero que Dios orquestó para mostrarse fiel. Ha habido otras circunstancias que Él no necesariamente orquestó, pero que permitió con el mismo propósito: revelarse a las personas y, por lo tanto, profundizar su conocimiento de Él y su capacidad de confiar y depender de Él.
+### Aquí estamos hoy, unos miles de años después, y Dios sigue siendo el mismo y podemos seguir confiando plenamente y esperar que Él permanecerá fiel y verdadero mientras continúa haciendo la misma obra de revelarse a Sí mismo en nuestras vidas también. Ha habido dificultades en la vida de las personas que hemos visto hasta ahora, pero que Dios orquestó para mostrarse fiel. Ha habido otras circunstancias que Él no necesariamente orquestó, pero que permitió con el mismo propósito: revelarse a las personas y, por lo tanto, profundizar su conocimiento de Él para que sepan que pueden confiar y depender de Él.
 
 ### ¡Esta es exactamente la misma obra que Él está haciendo en cada una de nuestras vidas hoy! Hay pruebas y dificultades que obviamente orquesta en nuestras vidas y otras que simplemente permite. Sin embargo, TODAS las está usando para revelarse a sí mismo a nosotros. Desde el principio, Dios creó al hombre con el propósito de tener una relación. ¡Este es el corazón de Dios! Su amor por nosotros es tan grande que supera todo conocimiento, y debido a ese amor, Él se ve impulsado a revelarse a nosotros cada vez más, para que podamos conocerlo, experimentar su amor y cercanía en nuestra relación con Él.
 
-### La serpiente ataca de nuevo: Faraón como la nueva serpiente
-
-#### En Génesis 3:15, la serpiente atacaría a la descendencia de la mujer.
-
-### En Éxodo, este patrón se repite:
-
-#### Faraón = el enemigo semejante a la serpiente
-
-#### Faraón esclaviza, oprime e intenta destruir al pueblo de Dios.
-
-#### Al igual que la serpiente, usa el engaño, la violencia y la muerte.
-
-#### Su decreto de matar a los niños hebreos (Éxodo 1:16, 22) refleja el intento de la serpiente de impedir la supervivencia de la descendencia.
-
-#### Faraón es la encarnación humana de la enemistad de la serpiente.
-
-### Dios preserva a la descendencia mediante nacimientos milagrosos
-
-#### Génesis narra la historia de la descendencia a través de nacimientos milagrosos (Isaac, Jacob).
-
-#### Éxodo continúa:
-
-##### La preservación de Moisés
-
-##### Moisés debería haber muerto por decreto de Faraón.
-
-##### Pero Dios lo salva de manera extraordinaria (Éxodo 2).
-
-##### Moisés se convierte en un libertador semejante a la semilla, uno que aplasta el poder opresor.
-
-##### Su supervivencia es señal de que la semilla prometida es imparable.
-
-### En el Mar Rojo, los ejércitos del faraón son aplastados (Éxodo 14:27-31).
-
-#### Esto simboliza el aplastamiento de la cabeza de la serpiente.
-
-### Una Nueva Humanidad Nacida del Agua
-
-#### Génesis 3:15 implica una humanidad futura alineada con Dios.
-
-#### Israel se convierte en un nuevo pueblo adámico.
-
-#### El cruce del Mar Rojo es un momento de nueva creación (Éxodo 14-15).
-
-#### Abandonan el viejo mundo de Egipto (como aguas turbulentas) y emergen como una nueva nación, el primogénito de Dios (Éxodo 4:22).
-
-#### Israel se convierte en la descendencia a través de la cual vendrá la simiente prometida.
-
-### El cordero pascual señala a la Simiente que vencerá a la muerte.
-
-#### En Génesis 3:15, la Simiente de la mujer será herida al destruir a la Simiente de la serpiente.
-
-#### La Pascua anticipa esto:
-
-##### Un cordero muere para que el pueblo viva.
-
-##### Israel es liberado mediante la sangre de un sustituto.
-
-##### Esto establece el modelo para una descendencia que sufre, pero que triunfa.
-
-##### Las escrituras se refieren explícitamente a la Pascua → Jesús, la Descendencia.
-
-### El Pacto en el Sinaí: La Simiente se Convierte en una Reino de Sacerdotes
-
-#### Dios le dijo a Abraham: «En tu descendencia serán benditas todas las naciones de la tierra».
-
-#### Éxodo muestra cómo esta descendencia se forma en:
-
-##### Un reino de sacerdotes (Éxodo 19:5-6)
-
-##### Una nación santa
-
-##### Un pueblo a través del cual la promesa continuará.
-
-##### A través de la descendencia de Israel se llevará a cabo la promesa.
-
-### La Anticipación de un Futuro Libertador
-
-#### Moisés es un libertador como la descendencia, pero no el definitivo.
-
-#### Éxodo nos muestra intencionalmente que Moisés:
-
-##### Intercede
-
-##### Media
-
-##### Vence el poder de la serpiente
-
-##### Establece un pacto
-
-##### Pero también fracasa, señalando a un Libertador mayor que completará la obra de vencer a la serpiente.
-
-#### Así, Éxodo mantiene viva la promesa, pero también crea anhelo por la verdadera Descendencia.
-
-### Resumen en una frase
-
-#### Éxodo recrea Génesis 3:15 al mostrar el renovado ataque de la serpiente a través del faraón, la preservación de la simiente por parte de Dios a través de Moisés e Israel, y una victoria decisiva pero incompleta sobre la serpiente que anticipa al Libertador final.
+### A través de este estudio vimos a Dios cumpliendo Su plan a través de personas específicas (Abraham, Isaac, Jacob, José, etc.). Ahora veremos que la manera de obrar se irá expandiendo, esta vez través de una nación, Israel, la que el mismo creó. Isaías 44:2
 
 ## Éxodo 1:1-11 Faraón quería destruir a los israelitas
 
@@ -2651,6 +2567,12 @@ Linaje de Caín vs. Linaje de Set en Génesis
 ### Este pasaje también nos dice que Dios había bendecido a los israelitas; fueron fructíferos y se multiplicaron grandemente. Se estaban convirtiendo en una sociedad poderosa y rica. 
 
 ### Debido a su prosperidad, el nuevo faraón los vio como una amenaza para la seguridad de Egipto, por lo que los esclavizó. Más tarde los condenó a trabajos forzados. Además, ordenó que todos los bebés varones fueran asesinados en un intento de acabar con los israelitas.
+
+### ¿De dónde surgió esta idea contra le pueblo de Dios?
+
+### En Éxodo 1:8-10 encontramos que el nuevo faraón dice: *Ahora, pues, seamos sabios para con él (Israel)* (RV60). Esta idea contra el pueblo de Dios era un ataque directo contra los planes de Dios mismo, era una idea sabia, astuta, pero no era una sabiduría que viniera de la verdad de Dios. Era un plan diabólico.
+
+### Continuaremos viendo como Dios en Su sabiduría continua desarrollando Su plan eterno de redención sin importar de los ataques que provienen de la sabiduría humana.
 
 ### Leer Éxodo 1:12-22.
 
@@ -3000,7 +2922,9 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### Inmediatamente después de liberar a Israel de la esclavitud, vemos a Dios guiándolos soberanamente y cuidándolos de acuerdo con lo que era mejor para ellos. Humanamente hablando, habría tenido más sentido que Dios los guiara por la ruta más directa que era la más transitada en ese período de tiempo.
 
-### En cambio, Dios los guía directamente por el desierto para que experimenten muchas preocupaciones y necesidades. ¡Porque lo MEJOR para Israel era primero conocerlo! Llegar al punto en que confiaran solamente en Dios y sus atributos. Esto solo se podía lograr colocándolos en situaciones imposibles como éstas. 
+### En cambio, Dios los guio directamente por el desierto para que no viera la aflicción de la guerra y muerte proveniente de ella. El Señor sabía que si eso pasaba el pueblo de desanimaría muy pronto y querían volverse a Egipto. Él también los cuido de aquello.
+
+### En el desierto, Jehová continuaría revelándose a Su pueblo de una manera progresiva, también experimentarían muchas preocupaciones y necesidades. ¡Porque lo MEJOR para Israel era primero conocerlo! Llegar al punto en que confiaran solamente en Dios y sus atributos (entre ellos, Fiel y Proveedor). Esto solo se podía lograr colocándolos en situaciones imposibles como éstas. 
 
 ### Cuando los israelitas entraron a Egipto, 430 años antes, había alrededor de 70 personas. Ahora había unos 600.000 hombres que salieron de Egipto. Si estimamos que cada hombre tenía una esposa y dos hijos, los israelitas habrían sumado aproximadamente 2,5 millones de personas. A pesar de todo el maltrato, la tortura y el sufrimiento, Dios realmente había bendecido y prosperado a los israelitas.
 
@@ -3096,7 +3020,17 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 #### Los israelitas tuvieron que ser sacados de la esclavitud para poder disfrutar de la Tierra Prometida. Nosotros también debemos ser salvados y liberados de la esclavitud del pecado para disfrutar de la Vida abundante en Cristo.
 
-#### Su salvación resultó en fe, alabanza y adoración a Dios. Nuestra salvación resulta en fe, alabanza y adoración a Dios.
+#### Luego de que el Señor (Jehová) liberara a Israel del ejercito egipcio a través del mar rojo en Éxodo 15 encontramos que todo Israel alaba y adora al Señor.
+
+#### ¿De dónde surge esta alabanza? Éxodo 14:13-14 nos muestra que Moisés anuncia a Israel que:
+
+##### Serían salvos de los egipcios.
+
+##### Que no los verían nunca más.
+
+##### El Señor pelearía por ellos mientras ellos estaban ahí, quietos.
+
+#### Al final en Éxodo 14:31 Israel vio que todo lo que se anunció que el Señor haría, lo hizo. Conocieron más a Dios y Sus caminos, esto resulto en una alabanza y adoración. La alabanza que encontramos en la Escritura no se centra necesariamente en un "método o forma perfecta" de adoración, sino en una adoración que proviene de conocer a Dios, a través de Su verdad.
 
 ### Leer Éxodo 16:1-3
 
@@ -3104,13 +3038,13 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 #### La forma en que Israel respondió a Dios en medio de estas pruebas en el desierto fue lo que finalmente determinó cuánto tiempo pasarían en el desierto.
 
-####  Se estima que Israel podría haber entrado en la Tierra Prometida dentro de los tres meses posteriores a su salida de Egipto. En cambio, les tomó 40 años. No importa cuánto Dios se les reveló, o incluso cuán grandemente se manifestó a ellos, simplemente no podían confiar en Él frente a las pruebas y dificultades que atravesaban.
+####  Se estima que Israel podría haber entrado en la Tierra Prometida dentro de los tres meses posteriores a su salida de Egipto. En cambio, les tomó 40 años. No importa cuánto Dios se les reveló, o incluso cuán grandemente se manifestó a ellos, simplemente en la mayoría de los casos no confiaban en Él frente a las pruebas y dificultades que atravesaban.
 
 #### Dios había declarado claramente Su promesa de que los llevaría de regreso a la Tierra Prometida, pero en el versículo 3 dicen: *Pues nos han traído a este desierto para matar de hambre a toda esta multitud.* Esta es una clara negativa a creer en la promesa de Dios.
 
-#### De una manera similar es el desierto para nosotros los cristianos, en el cual nos explica en Hebreos tomando el ejemplo de Israel, como ellos deambularon por el desierto debido a que no creyeron en la promesa de Dios, aún viendo su mano poderosa en cada milagro visual que les había rescatado. De la misma manera para los creyentes, sino confiamos en la verdad que Dios nos revela en Su Palabra, podemos deambular por el desierto, ignorándolo a Él y su provisión para nuestra vida.
+#### De una manera similar es el desierto para nosotros los cristianos, en el cual nos explica en Hebreos tomando el ejemplo de Israel, como ellos deambularon por el desierto debido a que no creyeron en la promesa de Dios, aún viendo su mano poderosa en cada milagro visual que les había rescatado. De la misma manera para los creyentes, sino confiamos en la verdad que Dios nos revela en Su Palabra, podemos deambular por el "desierto", ignorándolo a Él y su provisión para nuestra vida.
 
-#### A medida que abracemos este proceso y aprendamos a caminar por fe, entraremos en el *descanso* que Dios tiene para nosotros aquí y ahora mientras aún permanezcamos en esta tierra. Sin embargo, si nuestra respuesta es más como la de los israelitas, la incredulidad, pasaremos el resto de nuestras vidas dando vueltas en un desierto estéril.
+#### A medida que abracemos este proceso (conocer a Dios) y aprendamos a caminar por fe, entraremos en el *descanso* que Dios tiene para nosotros aquí y ahora mientras aún permanezcamos en esta tierra. Sin embargo, si nuestra respuesta es más como la de los israelitas, la incredulidad, pasaremos el resto de nuestras vidas dando vueltas en un desierto estéril.
 
 ### Leer Éxodo 16:4-21
 
