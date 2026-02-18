@@ -3250,15 +3250,25 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### Leer Éxodo 20:1-17
 
-#### En primer lugar, compare lo que Dios dice en Éxodo 20:2 y lo que dijo en Éxodo 19:4. ¿Notas alguna diferencia? En Éxodo19:4, Dios todavía estaba tratando con ellos según la gracia, y al describir Su liberación de Israel de Egipto lo describe tiernamente como lo haría un padre amoroso con sus propios hijos: *los he tomado sobre alas de águilas y los he traído a Mí.* El propósito de Dios al recordarles esto era revelarles su corazón por ellos.
+#### En primer lugar, compare lo que Dios dice en Éxodo 20:2 y lo que dijo en Éxodo 19:4. Dios constantemente les hace recuerdo de Su gracia, y al describir Su liberación de Israel de Egipto lo describe tiernamente como lo haría un padre amoroso con sus propios hijos: *...**los he tomado** sobre alas de águilas y **los he traído** a Mí.*, *Yo soy el SEÑOR tu Dios, que **te saqué** de la tierra de Egipto, de la casa de servidumbre.* El propósito de Dios al recordarles esto era revelarles su corazón por ellos.
 
-#### Pero, ahora en Éxodo 20:2, mientras Él está tratando con ellos de acuerdo con la ley. En lugar de ser con el propósito de revelar Su corazón por ellos, es más con el propósito de establecer Su autoridad y derecho para darles estos mandamientos y esperar su obediencia. *Yo soy el SEÑOR tu Dios, que te saqué de la tierra de Egipto, … por lo tanto, solo me serviréis y me obedeceréis (énfasis agregado)*
+#### Es importante notar que lo de Éxodo 20:2 se encuentra justo antes de Dios dar los diez mandamientos, estos tampoco van separados de quien es Jehová.
 
-#### Dios luego les da los Diez Mandamientos y mire lo que dice en los versículos 18 y 19: Todo el pueblo percibía los truenos y relámpagos, el sonido de la trompeta y el monte que humeaba. Cuando el pueblo vio aquello, temblaron, y se mantuvieron a distancia. Entonces dijeron a Moisés: *Habla tú con nosotros y escucharemos, pero que no hable Dios con nosotros, no sea que muramos.*
+#### Dios luego de darles los Diez Mandamientos, miremos lo que dice en los versículos 18 y 19: Todo el pueblo percibía los truenos y relámpagos, el sonido de la trompeta y el monte que humeaba. Cuando el pueblo vio aquello, temblaron, y se mantuvieron a distancia. Entonces dijeron a Moisés: *Habla tú con nosotros y escucharemos, pero que no hable Dios con nosotros, no sea que muramos.*
 
-#### Esta es una gran imagen física de la verdad espiritual. Si nuestra relación con Dios está de acuerdo con la ley (o las reglas y regulaciones), entonces nosotros también temeremos, porque habrá una condenación continua por nuestros fracasos. En la ley, Dios establece cómo debe ser el hombre y pronuncia una maldición sobre todos los que no son así. Entonces, cuando TODOS y cada uno de los hombres o mujeres se miran a sí mismos a la luz de la ley, en realidad se encuentran a sí mismos como lo que la ley condena. Así que, ¿cómo podría alguien obtener la vida eterna guardando la ley?
+#### Esta es una gran imagen física de una verdad espiritual. Cuando Dios dio la ley también mostraba de manera externa Su Santidad y justicia. El pueblo respondió con temor.
 
-#### La ley propone que la vida y la justicia sean obtenidas por cualquiera que pueda guardarlas, pero luego se da la vuelta y prueba que todos estamos en un estado de muerte e injusticia. Para que podamos hacer lo que la ley requiere, debemos tener vida. Y para que seamos lo que la ley requiere, debemos tener justicia. En y por nosotros mismos, no tenemos ninguno de los dos y por eso estamos malditos.
+#### Pero miremos la respuesta de Moisés en Éxodo 20:20. Dios se estaba revelando de esta manera a ellos y lo estaban conociendo, esto con el propósito de que el temor (reverencia) de Dios de Israel permaneciera en ellos y así **no pecarían**.
+
+#### En cada parte de esta interacción de Éxodo 19 y 20 entre Dios e Israel, Dios no dejo de darse a conocer ¡WOW! Mira en Éxodo 20:22: *Ustedes han visto que les he hablado desde el cielo.*. Israel vio todo lo que Dios quiso mostrarles. 
+
+#### En el resto de los versículos de Éxodo 20 encontramos más mandamiento de Dios para Israel. Vemos como Dios mientras dio Su ley a Israel estuvo revelándose a la vez, y quedo claro que el cumplimiento de esta ley (pacto en el monte Sinaí), el no pecar contra Dios, era en base al temor (reverencia) de Dios, pero este temor de Dios no viene de la mentira o sabiduría humana, sino de la misma revelación que Dios estuvo teniendo para con Israel, era en base a conocerlo.
+
+#### La ley nunca fue un conjunto de reglas vacías para obedecer y agradar a Dios. Sino que fue la revelación del carácter Santo y Justo de Dios y la única manera de que Israel la cumpliera era en base a conocer a Dios y Sus caminos. Esto los llevaría al temor de Él, el temor del Señor y la fe en él van de la mano (Éxodo 14:31), esto era oír la voz de Dios y guardar Su pacto para los israelitas.
+
+#### En las Escrituras también podemos ver que a través de la ley, Dios establece cómo debe ser el hombre y pronuncia una maldición sobre todos los que no son así. Entonces, cuando TODOS y cada uno de los hombres o mujeres se miran a sí mismos a la luz de la ley, en realidad se encuentran a sí mismos como lo que la ley condena (Romanos 3:19). Así que, ¿cómo podría alguien obtener la vida eterna guardando la ley?
+
+#### La ley propone que la vida y la justicia sean obtenidas por cualquiera que pueda guardarlas, pero luego se da la vuelta y prueba que todos estamos en un estado de muerte e injusticia. Romanos 3:20
 
 #### Así llegamos al verdadero propósito de Dios dando la ley o los Diez Mandamientos.
 
@@ -3268,15 +3278,13 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 #### C. H. Mackintosh tiene esto que decir acerca de la ley: *Era en cierto sentido, como un espejo perfecto bajado del cielo para revelar al hombre su trastorno moral. Si me presento con el hábito de la locura ante un espejo, muestra la perturbación, pero no la corrige. Si mido una pared torcida con una plomada perfecta, revela la torcedura, pero no la elimina. Si saco una lámpara en una noche oscura, me revela todos los obstáculos y disgustos en el camino, pero no los elimina. Además, el espejo, la plomada y la lámpara no crean los males que señalan claramente. No crean ni eliminan, sino que simplemente revelan. Lo mismo ocurre con la ley. No crea el mal en el corazón del hombre, ni lo elimina, sino que lo revela con una precisión infalible.*
 
-#### Esto nos lleva a uno de nuestros principales problemas en el cristianismo moderno. El Nuevo Testamento está lleno de todo tipo de instrucción bíblica, que en realidad presenta un estándar aún más alto que los Diez Mandamientos. Cuando la obediencia para seguir esa instrucción bíblica es el enfoque de la enseñanza, se convierte en la ley para los creyentes. Así como la ley no proporcionó ayuda ni poder para permitir que los israelitas la guardaran, la instrucción bíblica en sí misma no proporciona ayuda ni poder para permitir que el creyente camine en ella.
-
-#### Esto es exactamente lo que F.J. Huegel está diciendo en la siguiente cita: *No hay un requisito del Nuevo Testamento que no ponga inmediatamente al creyente cara a cara con un dilema abrumador. O debe dejar de moverse en el reino de lo puramente natural, morir a la vida carnal y encontrar en el Cristo resucitado una nueva vida, o debe fracasar como cristiano.*
+#### Esto nos lleva a uno de nuestros principales problemas en el cristianismo moderno. El Nuevo Testamento está lleno de todo tipo de instrucción bíblica, que en realidad presenta un estándar aún más alto que los Diez Mandamientos. Cuando la obediencia para seguir esa instrucción bíblica es el enfoque de la enseñanza, se convierte en la ley para los creyentes. Así como la ley no proporcionó ayuda ni poder para permitir que los israelitas la guardaran, una vida de instrucción y mandamientos en sí misma no proporciona ayuda ni poder para permitir que el creyente camine en ellas.
 
 #### Si la instrucción bíblica es el enfoque de nuestra enseñanza bíblica moderna, ese tipo de enseñanza tendrá este mismo efecto en nuestras vidas como creyentes. El Nuevo Testamento está lleno de mucha instrucción bíblica que contiene muchos imperativos o mandamientos. Si vemos nuestra relación con Dios a la luz de nuestra capacidad para obedecer esa enseñanza, entonces nosotros también tendremos la misma respuesta temerosa hacia Dios, porque revelará en nosotros nuestra propia incapacidad para vivir la vida cristiana.
 
-#### Y así como era importante que Israel reconociera su pecaminosidad para ver su necesidad del Libertador prometido venidero, también es importante que nosotros hoy como cristianos veamos que somos incapaces de vivir la vida cristiana por nuestra cuenta.
+#### Dios utilizo la ley para mostrar el pecado de una manera más clara a Israel y al mundo, para mostrar la necesidad de un Salvador, ya que por sus propios medios lo único que obtenían era pecado y transgresión. Dios conocía esto por lo que la ley a la vez fue dada hasta que viniera alguien, el Salvador prometido, el cual traería verdadera solución para los pecados no solo de Israel, sino del mundo, la simiente prometida (Cristo). Gálatas 3:19
 
-#### Así como el autoproclamado compromiso y devoción de Pedro a Cristo (aunque tenga que morir por ti) lo dejó corriendo y llorando por las calles, nosotros también necesitamos ver y reconocer nuestro propio fracaso e incapacidad para vivir el tipo de vidas comprometidas y devotas a Cristo que todos deseamos vivir. Porque solo entonces nuestros corazones estarán preparados para aceptar y apropiarse de TODO el evangelio, es decir, la muerte sustitutiva de Cristo por la pena del pecado, nuestra co-crucifixión y co-resurrección con Él por el poder del pecado, y que todo esto RESULTARÁ en nuestra futura glorificación en el cielo con Él por toda la eternidad. Todo por gracia.
+#### Y así como era importante que Israel reconociera su pecaminosidad para ver su necesidad del Libertador prometido venidero, también es importante que nosotros hoy como cristianos veamos que somos incapaces de vivir la vida cristiana por nuestra cuenta.
 
 ## Preguntas de revisión
 
@@ -3286,11 +3294,11 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### Antes de darle la Ley a Israel, ¿cómo les demostró Dios que eran incapaces de seguir incluso los mandamientos más simples?
 
-### ¿Qué voto hizo Israel con Dios y por qué fue tan presuntuoso?
+### ¿Cual era el pensamiento que tuvo Israel cuando Dios dio la ley y porque era incorrecto?
 
-### ¿Por qué Dios no es honrado y glorificado por nuestros votos y compromisos de obediencia?
+### ¿Por qué Dios no es honrado y glorificado por nuestros propio intento de obediencia?
 
-### Describe la diferencia entre la relación con Dios que se basa en la ley y la que se basa en la gracia.
+### Describe como Dios fue revelando más de Él a través de Éxodo 19 y 20.
 
 ### ¿Cuál es la ley moderna para la mayoría de los creyentes de hoy?
 
