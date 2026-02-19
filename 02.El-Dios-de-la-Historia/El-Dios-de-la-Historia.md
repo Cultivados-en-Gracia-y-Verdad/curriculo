@@ -3308,35 +3308,35 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### Dios es perfectamente santo y justo. Sin embargo, al mismo tiempo, también es perfectamente amoroso, misericordioso y bondadoso. Nada resalta todos estos atributos al mismo tiempo como este relato de Dios dándole a Moisés los Diez Mandamientos seguidos inmediatamente por Su instrucción de construir el tabernáculo. Después de darle a Israel la ley que Él sabía que no podrían cumplir, Dios también les proporciona una manera de cubrir sus pecados hasta que venga el Libertador prometido. ¿Puedes pensar en algún otro evento que muestre tan claramente todos estos atributos de Dios al mismo tiempo?
 
-### La Caída: Inmediatamente después de que Dios maldijo a Adán y Eva, Él da la primera promesa del Libertador venidero.
+#### La Caída: Inmediatamente después de que Dios maldijo a Adán y Eva, Él da la primera promesa del Libertador venidero.
 
-### La búsqueda de Caín por parte de Dios
+#### La búsqueda de Caín por parte de Dios
 
-### Noé y el diluvio
+#### Noé y el diluvio
 
-### Destrucción de Sodoma y Gomorra
+#### Destrucción de Sodoma y Gomorra
 
-### La entrega de la ley y el tabernáculo probó la pecaminosidad de la humanidad, la gracia de Dios, y da imágenes claras del Libertador venidero y Su obra terminada, ¡todo de una sola vez!
+#### La entrega de la ley y el tabernáculo probó la pecaminosidad de la humanidad, la gracia de Dios, y da imágenes claras del Libertador venidero y Su obra terminada, ¡todo de una sola vez!
 
 ## La primera vez que Israel probó acercarse a Dios (Éxodo 24:1-11)
 
 ### Leer Éxodo 24:1-11.
 
-#### Estos once versículos dan una pequeña visión instantánea de cómo será la relación de Israel con Dios bajo la ley. Observe las declaraciones de Dios a Moisés en los dos primeros versículos. *Sube hacia el SEÑOR, tú y Aarón, Nadab y Abiú, y setenta de los ancianos de Israel, y adorarán desde lejos.* En ninguna parte de la ley o mientras están bajo la ley, se le dice a nadie que se acerque a Dios. No escuchamos ese tipo de declaraciones hasta el Nuevo Testamento después de la obra terminada de Cristo.
+#### Estos once versículos dan una pequeña visión instantánea de cómo Dios ahora muestra de manera más clara Su santidad y Justicia. Observe las declaraciones de Dios a Moisés en los dos primeros versículos. *Sube hacia el SEÑOR, tú y Aarón, Nadab y Abiú, y setenta de los ancianos de Israel, y adorarán **desde lejos**.* Desde este momento Dios revelamos claramente la pecaminosidad del hombre y como esta lo separa de Dios Santo. No escuchamos declaraciones del hombre acercándose libremente al Señor hasta el Nuevo Testamento después de la obra terminada de Cristo.
 
-#### También dice que el pueblo *no se acercarán, ni subirá con él*. Según la ley, esta es la única forma en que puede ser. La ley magnifica tanto la santidad de Dios como la pecaminosidad del hombre, la ley siempre condenará a la humanidad y nos mantendrá separados de Dios.
+#### También dice que el pueblo *no se acercarán, ni subirá con él*. Cuando la ley apareció comenzó a mostrar más claramente tanto la santidad de Dios como la pecaminosidad del hombre, la ley siempre mostrará la condenación de la humanidad y mostrará su separación de Dios.
 
 #### Observe la declaración de Moisés en el versículo 8: *Esta es la sangre del pacto que el SEÑOR ha hecho con ustedes, según todas estas palabras.* Básicamente, Moisés estaba diciendo que esta es la base sobre la cual podrás estar en paz con Dios; es decir, sobre la base de la sangre derramada, porque la paga del pecado es muerte.
 
-#### Luego, en los versículos 3-11, Dios le da a Israel su primera muestra de cómo se mantendrá su relación con Dios bajo la ley. Moisés y los otros ancianos, siendo hombres pecadores, que vivían en contaminación entre la humanidad, antes de ascender a la montaña para encontrarse con Dios y adorarlo, se detuvieron al pie del monte para ofrecer holocaustos y ofrendas de paz, derramando la sangre de los animales y rociándola sobre el altar. 
+#### Luego, en los versículos 3-11, Dios le da a Israel su primera muestra de cómo se dirigirán delante de Dios bajo la ley. Moisés y los otros ancianos, siendo hombres pecadores, que vivían en contaminación entre la humanidad, antes de ascender a la montaña para encontrarse con Dios y adorarlo, se detuvieron al pie del monte para ofrecer holocaustos y ofrendas de paz, derramando la sangre de los animales y rociándola sobre el altar. 
 
-#### La sangre de los animales no PAGÓ por su pecado, sino que cubrió su pecado mientras continuaban creyendo y esperando al Libertador prometido que vendría. También es interesante notar que fue Moisés y los ancianos de Israel a quienes Dios llamó para ver esta manifestación de sí mismo; es decir, fue el liderazgo.
+#### La sangre de los animales no PAGÓ por su pecado, sino que cubrió su pecado mientras continuaban confiando y esperando al Libertador prometido que vendría. También es interesante notar que fue Moisés y los ancianos de Israel a quienes Dios llamó para ver esta manifestación de sí mismo; es decir, fue el liderazgo.
 
-#### Observe lo que Dios reveló acerca de sí mismo. Se manifestó en luz, pureza, majestad y santidad. No era el mismo tipo de afecto paternal por sus hijos pequeños como vimos en Egipto, donde era más Dios revelando su corazón por y para Israel. Ahora, la visión que tuvieron de Dios en el versículo 10 fue de separación. Esto habla de la luz y pureza inaccesibles de Dios. Este tipo de visión de Dios pide separación y no cercanía.
+#### Observe lo que Dios reveló acerca de sí mismo. Se manifestó en luz, pureza, majestad y santidad. Ahora, la visión que tuvieron de Dios en el versículo 10 fue de separación por causa de su condición pecadora. Esto habla de la luz y pureza inaccesibles de Dios. Este tipo de visión de Dios pide separación y no cercanía. Dios esta mostrando una realidad espiritual (Su santidad y pecaminosidad del hombre) a través de este evento externo.
 
 #### Al mismo tiempo, el versículo 11 continúa diciendo que Dios *no extendió Su mano contra los príncipes de los israelitas. Ellos vieron a Dios, y comieron y bebieron.* Esto habla de la paciencia y la misericordia de Dios debido a la sangre derramada.
 
-##### *Bendita sea para siempre la gracia que no nos ha dejado bajo el pacto de obras. Bendito sea Aquel que ha silenciado los fuertes truenos de la ley y apagado la llama del Monte Sinaí con la sangre del pacto eterno, y nos ha dado una paz que ningún poder de la tierra o del infierno puede sacudir. a aquel que nos amó, y nos lavó de nuestros pecados en su sangre, y nos hizo reyes y sacerdotes para Dios y su Padre. A Él sea la gloria y dominio por los siglos de los siglos. Amén* C. H. Mackintosh
+##### *Bendita sea para siempre la gracia que no nos ha dejado bajo el pacto de la ley. Bendito sea Aquel que ha silenciado los fuertes truenos de la ley y apagado la llama del Monte Sinaí con la sangre del pacto eterno, y nos ha dado una paz que ningún poder de la tierra o del infierno puede sacudir. a aquel que nos amó, y nos lavó de nuestros pecados en su sangre, y nos hizo reyes y sacerdotes para Dios y su Padre. A Él sea la gloria y dominio por los siglos de los siglos. Amén* C. H. Mackintosh
 
 ## Dios escribió los Diez Mandamientos en piedra (Éxodo 24:12-18)
 
@@ -3350,7 +3350,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### Dios no iba a forzar Su presencia sobre Israel. Había hecho un pacto con ellos y había prometido protegerlos, proveerlos y bendecirlos si obedecían Sus mandamientos y ahora se ofrecía a vivir entre ellos para cumplir Su fin del convenio si lo querían. Traer los artículos que Dios pidió, voluntariamente desde el corazón, revelaría la fe de la gente. Aquellos que creyeron en Dios y valoraron Su presencia entre ellos habrían contribuido voluntariamente con lo que tenían.
 
-### Si ninguno de los israelitas hubiera traído nada para el tabernáculo, Dios no habría morado entre ellos. Él es exactamente de la misma manera con nosotros hoy como creyentes. Dios no se impone a sí mismo sobre nosotros. Podemos entristecer y apagar al Espíritu Santo en nuestras vidas viviendo una vida carnal y pecaminosa. Si elegimos vivir de esa manera, el resultado será el mismo: nos perderemos la morada de Dios en nosotros. No experimentaremos una relación genuina con Él.
+### Él es exactamente de la misma manera con nosotros hoy como creyentes. Dios no se impone a sí mismo sobre nosotros. Podemos vivir sin conocer a Dios y Sus caminos, sin confiar en Él y de esta manera vivir una vida pasajera, sin propósito. Si elegimos vivir de esa manera, el resultado será el mismo que Israel en sus momentos de incredulidad: Nos perderemos la morada de Dios en nosotros. No experimentaremos una relación genuina con Él.
 
 ## El tabernáculo tenía que construirse exactamente como Dios lo había instruido (Éxodo 25:9)
 
@@ -3486,10 +3486,6 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 #### Después de hacer el sacrificio por el individuo, el sacerdote tenía que ir a la fuente y lavarse. Este lavamiento lo purificaba y le permitía entrar en el tabernáculo y llevar a cabo el resto de sus deberes a favor del pueblo. Efesios 5:25-27.
 
-#### Sin tener primero el sacrificio en el altar de bronce, el lavado en la fuente de bronce habría sido irrelevante. Lo mismo ocurre con nosotros. Uno primero debe creer en la muerte de Jesús en la cruz como el pago por su pecado para estar en una posición en la que sea posible que sea lavado por el agua de la palabra. 
-
-#### Si no eres creyente, solo una parte muy pequeña de la palabra de Dios es relevante para tu vida y, por lo tanto, es imposible que tu vida en ese momento sea cambiada y transformada al estudiar la palabra de Dios. Esto, a su vez, significa que los próximos pasos que se deben dar (simbólicamente) dentro del lugar santo son aún más imposibles e irrelevantes para la persona (incrédulo).
-
 ## Dentro del Lugar Santo
 
 ### Todos los días los sacerdotes entraban en el lugar santo para servir o adorar al Señor. Su entrada en esta habitación tenía lugar solo después de que había un sacrificio en el altar, seguido de un lavado ceremonial en la fuente. Entonces, y solo entonces, podrían entrar en el lugar santo y llevar a cabo sus deberes que simbolizarían los privilegios espirituales del futuro creyente y la comunión con Dios.
@@ -3515,14 +3511,6 @@ Linaje de Caín vs. Linaje de Set en Génesis
 #### Esto proporciona una tremenda imagen física de la verdad espiritual para nosotros hoy como creyentes. La capacidad de ofrecer oración, alabanza y adoración aceptables a Dios se proporciona a través de la muerte de Cristo en la cruz (el altar de bronce) y nuestro crecimiento en la gracia y el conocimiento de Dios (lavamiento de la fuente).
 
 ### Nuestro privilegio para orar, alabar y adorar a Dios proviene de la posición que recibimos en el momento en que creemos en Cristo como nuestro Salvador, pero el deseo, el corazón y la capacidad de orar, alabar y honrar estarán en proporción directa a nuestro crecimiento en el conocimiento de Dios y Su gracia.
-
-### Como sabemos, era el fuego o las brasas las que hacían que el incienso ardiera y se emitiera el aroma fragante. A través de las Escrituras, el fuego a menudo se asocia con el Espíritu Santo y el juicio. Filipenses 3:3
-
-### A medida que el Espíritu Santo continúa haciendo Su obra dentro de nosotros y haciendo que nos juzguemos a nosotros mismos en el sentido de reconocer y admitir nuestra carnalidad, más podremos caminar en el Espíritu y ser cada vez más conformados a la imagen de Cristo. Cuanto más conformados a la imagen de Cristo nos volvamos, más fragantes serán nuestras vidas y acciones para Dios.
-
-#### *Ahorrará años de frustración y esfuerzo para que uno comprenda que la oración nunca se puede aprender o desarrollar. La oración es el flujo de la nueva vida; A medida que uno crece, a medida que la cruz libera lo nuevo de lo viejo, hay crecimiento de la oración efectiva. Sin la cruz, la oración se convierte en una mera formalidad religiosa... A medida que la cruz obra en nosotros, manteniendo en el lugar de la muerte toda afirmación del viejo hombre, y todo lo que está en nuestra vieja naturaleza que está en contra de Dios, nuestro espíritu encuentra un camino claro hacia la comunión en el trono.*
-
-#### *Lejos de la cruz, la oración se convierte en nada más que una ordenanza eclesiástica o un ejercicio religioso expresado en frases devocionales; te ruego que, cuando leas un libro sobre la oración, averigües el lugar que el autor le da a la cruz en él, y podrás estimar su valor.* G. Watson
 
 ## El candelabro (Éxodo 25:31-40)
 
@@ -3554,13 +3542,13 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### Como creyentes, ninguno de nosotros se convirtió en hijo de Dios ni fue colocado en Cristo por algo que hicimos (sacrificios u obras) para merecerlo, sino que todo fue de Dios y por gracia en la persona de Cristo. Nosotros también nos convertimos en sacerdotes-creyentes a través del nacimiento, nuestro segundo nacimiento espiritual. (1 Pedro 1:3, 23) Como hijos de Dios / creyentes-sacerdotes, nosotros también hemos recibido un gran privilegio y una gran responsabilidad.
 
-### 1 Pedro 2:9 – La única forma en que podemos efectivamente proclamar las alabanzas de Aquel que nos llamó de las tinieblas a su luz admirable es que mantengamos nuestra santidad o limpieza espiritual y esto será real solo por medio de Cristo. 1 Pedro 2:5b 
+### 1 Pedro 2:9 – La única forma en que podemos efectivamente proclamar las alabanzas de Aquel que nos llamó de las tinieblas a su luz admirable es que mantengamos nuestra santidad o limpieza espiritual y esto será real solo por medio de Cristo, por la obra que realizó en la cruz. 1 Pedro 2:5b, 24
 
 ### Para todo creyente, Cristo es la piedra viva, escogida y preciosa de Dios (1 Pedro 2:4), la piedra angular (1 Pedro 2:6). Y ningún creyente será avergonzado. 1 Pedro 2:6b
 
 ### Solo por medio de Cristo es que todo aquel que cree nace de nuevo y lleva **sacrificios espirituales** aceptables para el Padre. 1 Pedro 1:3, 2:5b
 
-### 1 Pedro 2:10-12 – El papel de los sacerdotes era mediar en la relación entre Dios y el israelita común. Este pasaje nos dice que, al andar como extranjeros y peregrinos (ciudadanos celestiales), hay quienes se verán afectados por la transformación de nuestras vidas y glorificarán a Dios como resultado.
+### 1 Pedro 2:10-12 – Este pasaje nos dice que, al andar como extranjeros y peregrinos (ciudadanos celestiales), hay quienes se verán afectados por la transformación de nuestras vidas y glorificarán a Dios como resultado.
 
 ### Jesús, nuestro Sumo Sacerdote. Él es nuestro misericordioso y fiel Sumo Sacerdote (Hebreos 2:17); Pasó por los cielos y simpatiza con nuestras debilidades (Hebreos 4:14-15); Fue elegido por Dios (Hebreos 5:5, 10); Él es nuestro sumo sacerdote PARA SIEMPRE (Hebreos 6:20); Él posee Su sacerdocio inmutable para siempre (Hebreos 7:23-28); Él es nuestro sumo sacerdote que está sentado en el cielo (Hebreos 8:1); Él es el sumo sacerdote de un tabernáculo hecho sin manos que ofreció su propia sangre y no solo la de toros y machos cabríos (Hebreos 9:11-12).
 
@@ -4378,7 +4366,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### Primero, Dios permite estos acontecimientos quitando toda incredulidad de Zacarías y viendo como el plan de Dios se desarrolla a pesar de. Luego, cuando el niño finalmente nace, el Espíritu Santo viene sobre este Zacarías e ilumina su mente para comprender el panorama general de lo que Dios iba a lograr a través de su hijo y del Libertador, ¡y luego lo habilita para articular verbalmente el plan eterno de redención de Dios!
 
-### Esta es exactamente la obra que Dios ha hecho y continúa haciendo en cada uno de nosotros hoy como creyentes. El va permitiendo pruebas imposibles que nos ayudan a confiar únicamente en él. Como lo hizo con Zacarías, Dios obra de tal manera para mostrarnos claramente el evangelio y poder confiar en la obra de su hijo Jesucristo.
+### Esta es exactamente la obra que Dios ha hecho y continúa haciendo en cada uno de nosotros hoy como creyentes. El va revelándose a nosotros a través de Su palabra para de esta manera responder por la fe a lo que nos revela. Como lo hizo con Zacarías, Dios obra de tal manera para mostrarnos claramente el evangelio y poder confiar en la obra de su hijo Jesucristo.
 
 ### Cuanto más conocemos la verdad en nuestros corazones, podremos compartirla de manera segura y confiable. Observe en el versículo 76 que Zacarías declaró que Juan iría delante del Señor para preparar sus caminos. Uno de los propósitos de Dios en el ministerio de Juan sería ayudar a Israel a darse cuenta de que era el Señor mismo quien vendría a liberarlos. 1 Corintios 2:12
 
@@ -5203,7 +5191,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### Lea Juan 21:1-8.
 
-### Pedro dice que va a pescar y el resto decide ir con él. Pescan toda la noche y no pescan nada. Jesús aparece en la orilla y les dice que lancen al otro lado de la barca y atrapan una gran carga de peces. Pedro se da cuenta de que es Jesús y se sumerge y nada hasta la orilla. Necesitamos tener en cuenta lo que acaba de suceder en la vida de Pedro unos días antes. Acababa de negar a Cristo y había sido quebrantado y llevado al fin de sí mismo. Ahora, allí está Jesús parado en la orilla. El quebrantamiento de Pedro y el llegar al final de sí mismo aumentaron su valor por Cristo y su deseo de estar en comunión con Él. Jesús era ahora más la ocupación del corazón de Pedro que él mismo.
+### Pedro dice que va a pescar y el resto decide ir con él. Pescan toda la noche y no pescan nada. Jesús aparece en la orilla y les dice que lancen al otro lado de la barca y atrapan una gran carga de peces. Pedro se da cuenta de que es Jesús y se sumerge y nada hasta la orilla. Necesitamos tener en cuenta lo que acaba de suceder en la vida de Pedro unos días antes. Acababa de negar a Cristo y había sido quebrantado y llevado al fin de sí mismo. Ahora, allí está Jesús parado en la orilla. El quebrantamiento de Pedro y el llegar al final de sí mismo aumentaron su dependencia de Cristo y su confianza en Él. Jesús era ahora estaba conociendo de mejor manera al Señor, a Jesucristo.
 
 ### Lea Juan 21:15-17.
 
