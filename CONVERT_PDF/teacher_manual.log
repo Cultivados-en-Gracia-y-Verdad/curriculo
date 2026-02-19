@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  10 FEB 2026 22:38
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  18 FEB 2026 12:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -915,29 +915,29 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@widthR=\skip77
 \@temptokenb=\toks44
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 141.
+Package hyperref Info: Option `colorlinks' set `true' on input line 157.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 141.
+(hyperref)                removing `math shift' on input line 157.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 141.
+(hyperref)                removing `math shift' on input line 157.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 141.
+(hyperref)                removing `math shift' on input line 157.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 141.
+(hyperref)                removing `math shift' on input line 157.
 
 
 Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
 less.
 (fancyhdr)                Please consider using the `twoside' option on input l
-ine 146.
+ine 162.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/footmisc/footmisc.sty
 Package: footmisc 2024/12/24 v6.0g a miscellany of footnote facilities
@@ -1158,41 +1158,47 @@ l enseña primero a observar y comprender
 [4
 
 ]
+Overfull \hbox (8.77055pt too wide) in paragraph at lines 123--125
+[]\TU/IBMPlexSerif(0)/m/n/10.95 ROMANOS 9:1-11:36 - Israel y la Fidelidad de Di
+os ROMANOS 12:1-15:13 - Exhortaciones
+ []
+
+
 
 [5
 
 ]
-Overfull \hbox (4.3049pt too wide) in paragraph at lines 143--148
+Overfull \hbox (4.3049pt too wide) in paragraph at lines 145--150
 \TU/IBMPlexSerif(0)/m/n/10.95 en contenido |   [] en argumentación, del apóstol
  Pablo. Probablemente fue compuesta
  []
 
 
-Overfull \hbox (30.86351pt too wide) in paragraph at lines 150--152
+Overfull \hbox (30.86351pt too wide) in paragraph at lines 152--154
 \TU/IBMPlexSerif(0)/m/n/10.95 cuyo propósito principal es exponer el evangelio 
 de manera ordenada, profunda y progresiva. 
  []
 
 
-Overfull \hbox (19.71275pt too wide) in paragraph at lines 156--163
+Overfull \hbox (19.71275pt too wide) in paragraph at lines 158--165
 []\TU/IBMPlexSerif(0)/m/n/10.95 Aunque se desconoce la fecha exacta de su nacim
 iento, Pablo estuvo activo como misionero
  []
 
 
-Overfull \hbox (4.3049pt too wide) in paragraph at lines 169--171
+Overfull \hbox (4.3049pt too wide) in paragraph at lines 171--173
 \TU/IBMPlexSerif(0)/m/n/10.95 en contenido |   [] en argumentación, del apóstol
  Pablo. Probablemente fue compuesta
  []
 
 
-Overfull \hbox (4.3049pt too wide) in paragraph at lines 173--178
+Overfull \hbox (4.3049pt too wide) in paragraph at lines 175--180
 \TU/IBMPlexSerif(0)/m/n/10.95 en contenido |   [] en argumentación, del apóstol
  Pablo. Probablemente fue compuesta
  []
 
 
-Overfull \hbox (32.24321pt too wide) in paragraph at lines 180--182
+Overfull \hbox (32.24321pt too wide) in paragraph at lines 182--184
 \TU/IBMPlexSerif(0)/m/n/10.95 cuyo propósito principal es |   [] el evangelio d
 e manera ordenada, profunda y progresiva. 
  []
@@ -1200,37 +1206,37 @@ e manera ordenada, profunda y progresiva.
 
 
 [6]
-Overfull \hbox (2.60255pt too wide) in paragraph at lines 186--194
+Overfull \hbox (2.60255pt too wide) in paragraph at lines 188--196
 \TU/IBMPlexSerif(0)/m/n/10.95 derroche. El imperio del cual era capital se enco
 ntraba entonces en su mayor esplendor. 
  []
 
 
-Overfull \hbox (3.10771pt too wide) in paragraph at lines 196--201
+Overfull \hbox (3.10771pt too wide) in paragraph at lines 198--203
 \TU/IBMPlexSerif(0)/m/n/10.95 importante en el surgimiento de la iglesia en esa
  ciudad. Más adelante, Pablo fue llevado
  []
 
 
-Overfull \hbox (5.1836pt too wide) in paragraph at lines 203--207
+Overfull \hbox (5.1836pt too wide) in paragraph at lines 205--209
 []\TU/IBMPlexSerif(0)/m/n/10.95 Durante ese período, Pablo escribió varias de s
 us epístolas: a los Filipenses, a los Efesios,
  []
 
 
-Overfull \hbox (26.593pt too wide) in paragraph at lines 209--214
+Overfull \hbox (26.593pt too wide) in paragraph at lines 211--216
 \TU/IBMPlexSerif(0)/m/n/10.95 unos trescientos años sirvieron como lugares de e
 ntierro, refugio en tiempos de persecución
  []
 
 
-Overfull \hbox (23.54527pt too wide) in paragraph at lines 229--232
+Overfull \hbox (23.54527pt too wide) in paragraph at lines 231--234
 []\TU/IBMPlexSerif(0)/m/n/10.95 Aunque existen algunas excepciones, en Romanos 
 capítulos 1–11 Pablo utiliza mayormente
  []
 
 
-Overfull \hbox (10.67685pt too wide) in paragraph at lines 238--240
+Overfull \hbox (10.67685pt too wide) in paragraph at lines 240--242
 []\TU/IBMPlexSerif(0)/m/n/10.95 Capítulos 1–11: predominan los indicativos, las
  estructuras condicionales, los contrastes
  []
@@ -1238,31 +1244,31 @@ Overfull \hbox (10.67685pt too wide) in paragraph at lines 238--240
 
 
 [7]
-Overfull \hbox (22.37361pt too wide) in paragraph at lines 257--260
+Overfull \hbox (22.37361pt too wide) in paragraph at lines 259--262
 []\TU/IBMPlexSerif(0)/m/n/10.95 Romanos se presenta como un argumento progresiv
 o, construido sobre premisas asumidas
  []
 
 
-Overfull \hbox (16.84167pt too wide) in paragraph at lines 257--260
+Overfull \hbox (16.84167pt too wide) in paragraph at lines 259--262
 \TU/IBMPlexSerif(0)/m/n/10.95 como verdaderas, desarrollado |   [] contrastes c
 laros, explicado con lógica conectiva
  []
 
 
-Overfull \hbox (3.3316pt too wide) in paragraph at lines 268--271
+Overfull \hbox (3.3316pt too wide) in paragraph at lines 270--273
 \TU/IBMPlexSerif(0)/m/n/10.95 EAN), presenta un |   [] (una persona o grupo que
  encarna ese principio), y completa
  []
 
 
-Overfull \hbox (9.28606pt too wide) in paragraph at lines 305--305
+Overfull \hbox (9.28606pt too wide) in paragraph at lines 307--307
  []\TU/IBMPlexSerif(0)/m/n/10.95 A diferencia de las cartas occidentales modern
 as (“Queridos hermanos… Atentamente,
  []
 
 
-Overfull \hbox (18.7611pt too wide) in paragraph at lines 307--307
+Overfull \hbox (18.7611pt too wide) in paragraph at lines 309--309
  []\TU/IBMPlexSerif(0)/m/n/10.95 También facilitaba la lectura en público. Much
 as cartas se leían en voz alta en asambleas,
  []
@@ -1270,135 +1276,141 @@ as cartas se leían en voz alta en asambleas,
 
 
 [8]
-Overfull \hbox (3.7681pt too wide) in paragraph at lines 339--339
+Overfull \hbox (3.7681pt too wide) in paragraph at lines 341--341
  \TU/IBMPlexSerif(0)/m/n/10.95 afirma repetidamente que su apostolado y su misi
 ón no se originaron por designación
  []
 
 
 LaTeX Font Warning: Font shape `TU/IBMPlexSerif(2)/b/it' undefined
-(Font)              using `TU/IBMPlexSerif(2)/m/n' instead on input line 371.
+(Font)              using `TU/IBMPlexSerif(2)/m/n' instead on input line 373.
 
 
 
 [9]
 
 [10]
-Overfull \hbox (16.31561pt too wide) in paragraph at lines 460--460
+Overfull \hbox (16.31561pt too wide) in paragraph at lines 468--468
  \TU/IBMPlexSerif(0)/m/n/10.95 Jesús no es un hombre pecador sino Dios el Espír
 itu de santidad. Hace que su testimonio
  []
 
 
+Overfull \hbox (9.4001pt too wide) in paragraph at lines 495--498
+[]\TU/IBMPlexSerif(0)/m/n/10.95 En Romanos 7 El Espíritu es mencionado contrast
+ando ser algo novedoso versus
+ []
+
+
+Overfull \hbox (1.23216pt too wide) in paragraph at lines 498--500
+[]\TU/IBMPlexSerif(0)/m/n/10.95 En Romanos 8 el Espíritu es vida, radica en el 
+creyente, adopción, resurrección
+ []
+
+
 
 [11]
-Overfull \hbox (16.52264pt too wide) in paragraph at lines 598--599
-[]\TU/IBMPlexSerif(0)/m/n/10.95 No es una idea nueva, |   [] una promesa anunci
-ada en las Escrituras. 
- []
-
-
 
 [12]
-Overfull \hbox (6.9472pt too wide) in paragraph at lines 603--604
-[]\TU/IBMPlexSerif(0)/m/n/10.95 El llamado apostólico |   [] para producir obed
-iencia que procede
- []
 
-
-Overfull \hbox (5.02519pt too wide) in paragraph at lines 657--657
+[13]
+Overfull \hbox (5.02519pt too wide) in paragraph at lines 681--681
  \TU/IBMPlexSerif(0)/m/n/10.95 meramente externo, sino que brota de lo |   [] d
 e su ser. Hechos 18:25; Filipenses
  []
 
 
-Underfull \hbox (badness 5133) in paragraph at lines 661--662
+Underfull \hbox (badness 5133) in paragraph at lines 685--686
 []\TU/IBMPlexSerif(0)/m/n/10 término usado para el servicio sacerdotal de Israe
 l a Yahvé (Éxodo 20:5;
  []
 
 
 
-[13]
-
 [14]
-Overfull \hbox (22.32106pt too wide) in paragraph at lines 727--727
+Overfull \hbox (22.32106pt too wide) in paragraph at lines 751--751
  []\TU/IBMPlexSerif(0)/m/n/10.95 Este lenguaje |   [] su afecto pastoral y su p
 rioridad por la edificación de los creyentes.
  []
 
 
-Overfull \hbox (10.89679pt too wide) in paragraph at lines 757--757
+
+[15]
+Overfull \hbox (10.89679pt too wide) in paragraph at lines 781--781
  []\TU/IBMPlexSerif(0)/m/n/10.95 No va como superior ni como |   [], sino como 
 hermano entre hermanos. 1 Corintios
  []
 
 
 
-[15]
-Overfull \hbox (30.60681pt too wide) in paragraph at lines 821--821
+[16]
+Overfull \hbox (30.60681pt too wide) in paragraph at lines 845--845
  []\TU/IBMPlexSerif(0)/m/n/10.95 El evangelio no |   [] por cultura, idioma o n
 ivel educativo. Pablo se siente responsable
  []
 
 
-Overfull \hbox (12.32375pt too wide) in paragraph at lines 841--841
+Overfull \hbox (12.32375pt too wide) in paragraph at lines 865--865
  []\TU/IBMPlexSerif(0)/m/n/10.95 El evangelio no se deja atrás: los creyentes p
 ermanecen en él y |   [] siendo edificados
  []
 
 
 
-[16]
-
 [17]
-Overfull \hbox (3.60315pt too wide) in paragraph at lines 969--972
+
+[18]
+Overfull \hbox (3.60315pt too wide) in paragraph at lines 996--999
 []\TU/IBMPlexSerif(0)/m/n/10.95 Dios es el Creador y, en el principio, todo lo 
 que hizo reflejaba perfectamente Su carácter.
  []
 
 
-
-[18]
-Overfull \hbox (1.1471pt too wide) in paragraph at lines 979--982
+Overfull \hbox (1.1471pt too wide) in paragraph at lines 1006--1009
 \TU/IBMPlexSerif(0)/m/n/10.95 existe por Sí mismo; Él es el gran YO SOY. La cre
 ación, en cambio, depende enteramente
  []
 
 
-Overfull \hbox (19.42323pt too wide) in paragraph at lines 994--997
+Overfull \hbox (19.42323pt too wide) in paragraph at lines 1021--1024
 \TU/IBMPlexSerif(0)/m/n/10.95 progresiva, la hace cada vez más personal. Su obj
 etivo es demostrar que toda la humanidad
  []
 
 
-Overfull \hbox (11.5864pt too wide) in paragraph at lines 1031--1031
+
+[19]
+Overfull \hbox (19.77484pt too wide) in paragraph at lines 1042--1043
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Romanos 3:9–20 – Culpabilidad universal: “nosot
+ros”, “todos” |   [] pecado. 
+ []
+
+
+Overfull \hbox (11.5864pt too wide) in paragraph at lines 1058--1058
  []\TU/IBMPlexSerif(0)/m/n/10.95 En Romanos 1:17 Pablo |   [] que la justicia d
 e Dios se revela por medio del evangelio.
  []
 
 
-
-[19]
-Overfull \hbox (6.37935pt too wide) in paragraph at lines 1043--1043
+Overfull \hbox (6.37935pt too wide) in paragraph at lines 1070--1070
  []\TU/IBMPlexSerif(0)/m/n/10.95 La ira de Dios no se dirige contra la humanida
 d como creación, sino contra la impiedad
  []
 
 
-Overfull \hbox (3.88005pt too wide) in paragraph at lines 1043--1043
+Overfull \hbox (3.88005pt too wide) in paragraph at lines 1070--1070
  \TU/IBMPlexSerif(0)/m/n/10.95 y la |   [] humanas. Esto muestra que el problem
 a no es existir como ser humano,
  []
 
 
-Overfull \hbox (4.23924pt too wide) in paragraph at lines 1055--1055
+Overfull \hbox (4.23924pt too wide) in paragraph at lines 1082--1082
  []\TU/IBMPlexSerif(0)/m/n/10.95 La humanidad no solo ignora la verdad, |   [] 
 que activamente la suprime. El problema
  []
 
 
-Underfull \hbox (badness 1014) in paragraph at lines 1059--1060
+Underfull \hbox (badness 1014) in paragraph at lines 1086--1087
 []\TU/IBMPlexSerif(0)/m/n/10 comportamiento que viola lo que es correcto o debi
 do; desviación activa del
  []
@@ -1406,145 +1418,139 @@ do; desviación activa del
 
 
 [20]
-Overfull \hbox (4.7013pt too wide) in paragraph at lines 1119--1119
+Overfull \hbox (4.7013pt too wide) in paragraph at lines 1146--1146
  []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo especifica |   [] atributos son evidente
 s: poder eterno y divinidad. La creación
  []
 
 
-Overfull \hbox (3.88736pt too wide) in paragraph at lines 1133--1133
+
+[21]
+Overfull \hbox (3.88736pt too wide) in paragraph at lines 1160--1160
  []\TU/IBMPlexSerif(0)/m/n/10.95 La creación comunica información real y compre
 nsible acerca de Dios. El ser humano
  []
 
 
-Overfull \hbox (13.24596pt too wide) in paragraph at lines 1139--1139
+Overfull \hbox (13.24596pt too wide) in paragraph at lines 1166--1166
  []\TU/IBMPlexSerif(0)/m/n/10.95 La conclusión de Pablo es definitiva: no hay |
    [] válida. La revelación fue suficiente,
  []
 
 
-Overfull \hbox (38.58061pt too wide) in paragraph at lines 1151--1151
+Overfull \hbox (38.58061pt too wide) in paragraph at lines 1178--1178
  []\TU/IBMPlexSerif(0)/m/n/10.95 El conocimiento de Dios no |   [] una respuest
 a correcta. \TU/IBMPlexSerif(2)/m/it/10.95 «Conocían» \TU/IBMPlexSerif(0)/m/n/1
 0.95 indica conocimiento
  []
 
 
-
-[21]
-Overfull \hbox (3.42163pt too wide) in paragraph at lines 1163--1163
+Overfull \hbox (3.42163pt too wide) in paragraph at lines 1190--1190
  []\TU/IBMPlexSerif(0)/m/n/10.95 Al rechazar a Dios, el pensamiento humano |   
 [] propósito y dirección. El problema
  []
 
 
-Overfull \hbox (21.63365pt too wide) in paragraph at lines 1169--1169
+Overfull \hbox (21.63365pt too wide) in paragraph at lines 1196--1196
  []\TU/IBMPlexSerif(0)/m/n/10.95 El corazón |   [] capacidad de discernimiento 
 espiritual. La oscuridad es consecuencia,
  []
 
 
-Overfull \hbox (15.67586pt too wide) in paragraph at lines 1215--1216
-[]\TU/IBMPlexSerif(0)/m/n/10.95 El problema del hombre no es ignorancia, sino |
-   [] deliberada
- []
 
-
-Overfull \hbox (14.30197pt too wide) in paragraph at lines 1218--1218
+[22]
+Overfull \hbox (37.29703pt too wide) in paragraph at lines 1245--1245
 []\TU/IBMPlexSerif(0)/m/n/10.95 Dios se ha dado a conocer de manera suficiente 
 a toda la humanidad. 
  []
 
 
-
-[22]
-Overfull \hbox (4.62946pt too wide) in paragraph at lines 1245--1245
+Overfull \hbox (4.62946pt too wide) in paragraph at lines 1271--1271
  []\TU/IBMPlexSerif(0)/m/n/10.95 Esta “entrega” debe leerse como consecuencia d
 el intercambio previo (Romanos 1:23)
  []
 
 
-Overfull \hbox (9.76051pt too wide) in paragraph at lines 1255--1257
+Overfull \hbox (9.76051pt too wide) in paragraph at lines 1281--1283
 []\TU/IBMPlexSerif(0)/m/n/10.95 “\TU/IBMPlexSerif(2)/m/it/10.95 «Impureza»\TU/I
 BMPlexSerif(0)/m/n/10.95 ” AKATHARSIA se refiere a inmoralidad entendida como s
 uciedad
  []
 
 
-Overfull \hbox (17.5704pt too wide) in paragraph at lines 1255--1257
+Overfull \hbox (17.5704pt too wide) in paragraph at lines 1281--1283
 \TU/IBMPlexSerif(0)/m/n/10.95 o contaminación moral, usada especialmente para p
 ecados de carácter sexual.[][][][][][] 
  []
 
 
-Overfull \hbox (2.24034pt too wide) in paragraph at lines 1261--1264
+
+[23]
+Overfull \hbox (2.24034pt too wide) in paragraph at lines 1287--1290
 []\TU/IBMPlexSerif(0)/m/n/10.95 “\TU/IBMPlexSerif(2)/m/it/10.95 «Lujuria»\TU/IB
 MPlexSerif(0)/m/n/10.95 ” EPITHYMIA describe un deseo intenso. El término no es
  negativo
  []
 
 
-Overfull \hbox (2.7534pt too wide) in paragraph at lines 1267--1270
+Overfull \hbox (2.7534pt too wide) in paragraph at lines 1293--1293
  []\TU/IBMPlexSerif(0)/m/n/10.95 Jesús usó este término para expresar un deseo 
 profundo sin connotación pecaminosa
  []
 
 
-Overfull \hbox (0.50064pt too wide) in paragraph at lines 1267--1270
- \TU/IBMPlexSerif(0)/m/n/10.95 (Lucas 22:15), lo que muestra que el problema no
- es el deseo en sí, sino su orientación
+Overfull \hbox (1.92415pt too wide) in paragraph at lines 1293--1293
+ \TU/IBMPlexSerif(0)/m/n/10.95 (Lucas 22:15), lo que |   [] que el problema no 
+es el deseo en sí, sino su orientación
  []
 
 
-Overfull \hbox (7.73566pt too wide) in paragraph at lines 1281--1287
- \TU/IBMPlexSerif(0)/m/n/10.95 la tentación surge cuando cada uno es llevado y 
-seducido por su propio deseo (Santiago
+Overfull \hbox (8.91826pt too wide) in paragraph at lines 1299--1299
+ \TU/IBMPlexSerif(0)/m/n/10.95 la tentación surge cuando cada uno es |   [] y s
+educido por su propio deseo (Santiago
  []
 
 
-Overfull \hbox (5.08237pt too wide) in paragraph at lines 1281--1287
+Overfull \hbox (5.08237pt too wide) in paragraph at lines 1299--1299
  \TU/IBMPlexSerif(0)/m/n/10.95 (Santiago 1:15). El énfasis recae en la responsa
 bilidad humana, no en la acción directa
  []
 
 
-
-[23]
-Overfull \hbox (3.29608pt too wide) in paragraph at lines 1298--1298
+Overfull \hbox (3.29608pt too wide) in paragraph at lines 1309--1309
  []\TU/IBMPlexSerif(0)/m/n/10.95 Esta expresión describe la \TU/IBMPlexSerif(0)
 /b/n/10.95 primera etapa \TU/IBMPlexSerif(0)/m/n/10.95 de la ira de Dios. Debid
 o a que la humanidad
  []
 
 
-Overfull \hbox (4.7003pt too wide) in paragraph at lines 1298--1298
+Overfull \hbox (4.7003pt too wide) in paragraph at lines 1309--1309
  |   [] \TU/IBMPlexSerif(0)/m/n/10.95 glorificar a Dios como Creador (Romanos 1
 :21), Dios los entregó a la impureza
  []
 
 
-Overfull \hbox (1.38611pt too wide) in paragraph at lines 1302--1302
+Overfull \hbox (1.38611pt too wide) in paragraph at lines 1313--1313
  \TU/IBMPlexSerif(0)/m/n/10.95 utilizando el cuerpo como |   [] de pasión en lu
 gar de honor, en contradicción
  []
 
 
-Overfull \hbox (2.00662pt too wide) in paragraph at lines 1304--1304
+
+[24]
+Overfull \hbox (2.00662pt too wide) in paragraph at lines 1315--1315
  \TU/IBMPlexSerif(0)/m/n/10.95 no debe interpretarse |   [] libertad, sino como
  manifestación de la ira de Dios contra
  []
 
 
-
-[24]
-Overfull \hbox (7.39865pt too wide) in paragraph at lines 1336--1336
+Overfull \hbox (7.39865pt too wide) in paragraph at lines 1347--1347
  []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo interrumpe la descripción para |   [] ho
 nor y gloria a Dios. Hace una distinción
  []
 
 
-Overfull \hbox (29.67703pt too wide) in paragraph at lines 1340--1340
+Overfull \hbox (29.67703pt too wide) in paragraph at lines 1351--1351
  \TU/IBMPlexSerif(0)/m/n/10.95 humanidad; Su ira se manifiesta de manera justa 
 al entregar al hombre a las consecuencias
  []
@@ -1552,53 +1558,59 @@ al entregar al hombre a las consecuencias
 
 
 [25]
-Overfull \hbox (0.14879pt too wide) in paragraph at lines 1392--1392
+Overfull \hbox (15.36418pt too wide) in paragraph at lines 1364--1364
+[]\TU/IBMPlexSerif(0)/m/n/10.95 La primera entrega |   [] un colapso en la cond
+ucta humana. 
+ []
+
+
+Overfull \hbox (0.14879pt too wide) in paragraph at lines 1403--1403
  []\TU/IBMPlexSerif(0)/m/n/10.95 Ahora la entrega no se |   [] a los deseos del
  corazón, sino que avanza hacia pasiones
  []
 
 
-Overfull \hbox (20.23569pt too wide) in paragraph at lines 1413--1413
+
+[26]
+Overfull \hbox (20.23569pt too wide) in paragraph at lines 1421--1421
  \TU/IBMPlexSerif(0)/m/n/10.95 deliberado que ocurre como consecuencia de la en
 trega de Dios. Las |   [] abandonan
  []
 
 
-
-[26]
-Overfull \hbox (38.14165pt too wide) in paragraph at lines 1451--1451
+Overfull \hbox (38.14165pt too wide) in paragraph at lines 1459--1459
  []\TU/IBMPlexSerif(0)/m/n/10.95 El texto indica que las consecuencias no son e
 xternas únicamente, sino que se experimentan
  []
 
 
-Overfull \hbox (11.21921pt too wide) in paragraph at lines 1453--1453
+
+[27]
+Overfull \hbox (11.21921pt too wide) in paragraph at lines 1461--1461
  []\TU/IBMPlexSerif(0)/m/n/10.95 El énfasis recae en correspondencia: la consec
 uencia es “correspondiente”, mostrando
  []
 
 
-Overfull \hbox (11.78497pt too wide) in paragraph at lines 1455--1455
+Overfull \hbox (11.78497pt too wide) in paragraph at lines 1463--1463
  []\TU/IBMPlexSerif(0)/m/n/10.95 El extravío se evidencia en el colapso de los 
 valores, impulsado por deseos pecaminosos
  []
 
 
-Overfull \hbox (4.09663pt too wide) in paragraph at lines 1483--1486
+Overfull \hbox (4.09663pt too wide) in paragraph at lines 1490--1493
 []\TU/IBMPlexSerif(0)/m/n/10.95 Ahora se presenta la tercera entrega mediante l
 a cual Dios revela Su ira frente al |   []
  []
 
 
-
-[27]
-Overfull \hbox (8.65329pt too wide) in paragraph at lines 1508--1508
+Overfull \hbox (8.65329pt too wide) in paragraph at lines 1515--1515
  []\TU/IBMPlexSerif(0)/m/n/10.95 El resultado es una conducta inapropiada y des
 ordenada, contraria a lo que es |   []
  []
 
 
-Underfull \hbox (badness 1735) in paragraph at lines 1512--1513
+Underfull \hbox (badness 1735) in paragraph at lines 1519--1520
 []\TU/IBMPlexSerif(0)/m/n/10 significa ser apropiado o correcto; aquello que co
 rresponde al orden y a la
  []
@@ -1610,99 +1622,87 @@ rresponde al orden y a la
 [29]
 
 [30]
-Overfull \hbox (1.45189pt too wide) in paragraph at lines 1756--1756
+
+[31]
+Overfull \hbox (1.45189pt too wide) in paragraph at lines 1763--1763
 []| \TU/IBMPlexSerif(2)/m/it/10.95 «Ellos, aunque conocen el decreto de Dios qu
 e los que practican tales cosas son dignos de muerte,» 
  []
 
 
-Overfull \hbox (33.48668pt too wide) in paragraph at lines 1760--1760
+Overfull \hbox (33.48668pt too wide) in paragraph at lines 1767--1767
  []\TU/IBMPlexSerif(0)/m/n/10.95 La falla no es de información, sino de entendi
 miento. La cosmovisión está tan distorsionada
  []
 
 
 
-[31]
-Overfull \hbox (8.90363pt too wide) in paragraph at lines 1777--1778
-[]\TU/IBMPlexSerif(0)/m/n/10.95 La tercera entrega |   [] la cosmovisión y el p
-ensamiento humano. 
- []
-
-
-Overfull \hbox (27.26675pt too wide) in paragraph at lines 1782--1783
-[]\TU/IBMPlexSerif(0)/m/n/10.95 El pecado se |   [] en múltiples dimensiones so
-ciales y relacionales. 
- []
-
-
-Overfull \hbox (17.16728pt too wide) in paragraph at lines 1831--1831
+[32]
+Overfull \hbox (17.16728pt too wide) in paragraph at lines 1838--1838
  []\TU/IBMPlexSerif(0)/m/n/10.95 Anteriormente vimos que el hombre no tenía exc
 usa porque no respondió a la revelación
  []
 
 
-Overfull \hbox (35.43578pt too wide) in paragraph at lines 1831--1831
+Overfull \hbox (35.43578pt too wide) in paragraph at lines 1838--1838
  \TU/IBMPlexSerif(0)/m/n/10.95 de Dios manifestada en la |   []. Ahora, la falt
 a de excusa se debe a que su entendimiento
  []
 
 
-
-[32]
-Overfull \hbox (1.87257pt too wide) in paragraph at lines 1845--1845
+Overfull \hbox (1.87257pt too wide) in paragraph at lines 1852--1852
  []\TU/IBMPlexSerif(0)/m/n/10.95 El hombre moral queda expuesto |   [] inexcusa
 ble. Al condenar a otros por acciones
  []
 
 
-Overfull \hbox (1.32289pt too wide) in paragraph at lines 1885--1885
+
+[33]
+Overfull \hbox (1.32289pt too wide) in paragraph at lines 1892--1892
  []\TU/IBMPlexSerif(0)/m/n/10.95 No basta con condenar el |   [] ajeno. Para sa
 tisfacer la justicia de Dios, sería necesario
  []
 
 
-
-[33]
-Overfull \hbox (3.34982pt too wide) in paragraph at lines 1905--1905
+Overfull \hbox (3.34982pt too wide) in paragraph at lines 1912--1912
  []\TU/IBMPlexSerif(0)/m/n/10.95 Al pensar que ha escapado del |   [] por su mo
 ralidad, el hombre desprecia la bondad
  []
 
 
-Overfull \hbox (22.02174pt too wide) in paragraph at lines 1909--1909
+Overfull \hbox (22.02174pt too wide) in paragraph at lines 1916--1916
  []\TU/IBMPlexSerif(0)/m/n/10.95 La palabra traducida |   [] “arrepentimiento” 
 corresponde al término griego METANOIA,
  []
 
 
-Overfull \hbox (1.27881pt too wide) in paragraph at lines 1913--1913
+
+[34]
+Overfull \hbox (1.27881pt too wide) in paragraph at lines 1920--1920
  []\TU/IBMPlexSerif(0)/m/n/10.95 La bondad de Dios no |   [] a producir méritos
  ni reformas morales como condición
  []
 
 
-Overfull \hbox (1.27664pt too wide) in paragraph at lines 1913--1913
+Overfull \hbox (1.27664pt too wide) in paragraph at lines 1920--1920
  \TU/IBMPlexSerif(0)/m/n/10.95 para la salvación, sino a confrontar el razonami
 ento equivocado del hombre y llevarlo
  []
 
 
-Overfull \hbox (3.30823pt too wide) in paragraph at lines 1915--1915
+Overfull \hbox (3.30823pt too wide) in paragraph at lines 1922--1922
  []\TU/IBMPlexSerif(0)/m/n/10.95 Este cambio de manera de |   [] es necesario p
 ara creer correctamente el evangelio.
  []
 
 
-Overfull \hbox (13.23863pt too wide) in paragraph at lines 1927--1927
+Overfull \hbox (13.23863pt too wide) in paragraph at lines 1934--1934
  \TU/IBMPlexSerif(0)/m/n/10.95 razonamiento. Su “corazón” —entendido bíblicamen
 te como el centro del pensamiento,
  []
 
 
-
-[34]
-Overfull \hbox (54.25638pt too wide) in paragraph at lines 1935--1935
+Overfull \hbox (54.25638pt too wide) in paragraph at lines 1942--1942
  []\TU/IBMPlexSerif(0)/m/n/10.95 Al |   [] en su manera equivocada de pensar, e
 l hombre moral no reduce su responsabilidad,
  []
@@ -1710,20 +1710,20 @@ l hombre moral no reduce su responsabilidad,
 
 
 [35]
-Overfull \hbox (2.7449pt too wide) in paragraph at lines 2013--2013
+Overfull \hbox (2.7449pt too wide) in paragraph at lines 2019--2019
  []\TU/IBMPlexSerif(0)/m/n/10.95 La conjunción \TU/IBMPlexSerif(2)/m/it/10.95 «
 pero» \TU/IBMPlexSerif(0)/m/n/10.95 introduce el otro lado del argumento. Aquí 
 se describe a quienes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2017--2018
+Underfull \hbox (badness 10000) in paragraph at lines 2023--2024
 []\TU/IBMPlexSerif(0)/m/n/10 ambición egoísta n. – un impulso centrado en el be
 neficio personal sin
  []
 
 
-Overfull \hbox (37.7788pt too wide) in paragraph at lines 2021--2021
+Overfull \hbox (37.7788pt too wide) in paragraph at lines 2027--2027
  []\TU/IBMPlexSerif(0)/m/n/10.95 En el versículo 7 se presenta una condición hi
 potética: si alguien perseverara perfectamente
  []
@@ -1731,128 +1731,130 @@ potética: si alguien perseverara perfectamente
 
 
 [36]
-Overfull \hbox (6.19687pt too wide) in paragraph at lines 2041--2041
+Overfull \hbox (6.19687pt too wide) in paragraph at lines 2047--2047
 []| \TU/IBMPlexSerif(2)/m/it/10.95 «Habrá tribulación y angustia para toda alma
  humana que hace lo malo, del judío primeramente
  []
 
 
-Overfull \hbox (4.15018pt too wide) in paragraph at lines 2043--2043
+Overfull \hbox (4.15018pt too wide) in paragraph at lines 2049--2049
  |   [] \TU/IBMPlexSerif(0)/m/n/10.95 el mal. El judío es mencionado primero po
 r haber recibido mayor revelación,
  []
 
 
-Overfull \hbox (0.53053pt too wide) in paragraph at lines 2073--2073
+Overfull \hbox (0.53053pt too wide) in paragraph at lines 2079--2079
  []\TU/IBMPlexSerif(0)/m/n/10.95 El propósito de esta sección es confrontar al 
 moralista que confía en su propia justicia
  []
 
 
-Overfull \hbox (20.1413pt too wide) in paragraph at lines 2077--2077
+Overfull \hbox (20.1413pt too wide) in paragraph at lines 2083--2083
  []\TU/IBMPlexSerif(0)/m/n/10.95 El moralista no ha |   [] ese estándar y, por 
 lo tanto, debería cuestionar su seguridad. 
  []
 
 
-Overfull \hbox (9.41461pt too wide) in paragraph at lines 2090--2091
-[]\TU/IBMPlexSerif(0)/m/n/10.95 La recompensa y el |   [] se presentan como res
-ultados del juicio. 
- []
-
-
 
 [37]
-Overfull \hbox (30.96452pt too wide) in paragraph at lines 2127--2127
- \TU/IBMPlexSerif(0)/m/n/10.95 limitada. Nadie queda exento de responsabilidad,
- aunque la medida del juicio corresponde
- []
-
-
-Overfull \hbox (12.23978pt too wide) in paragraph at lines 2133--2133
- []\TU/IBMPlexSerif(0)/m/n/10.95 Quienes conocieron la ley y |   [] contra ella
- serán juzgados por ese mismo estándar.
+Overfull \hbox (3.44476pt too wide) in paragraph at lines 2099--2100
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Este pasaje establece la imparcialidad del |   
+[], no el camino
  []
 
 
 
 [38]
-Overfull \hbox (17.69798pt too wide) in paragraph at lines 2179--2179
+Overfull \hbox (30.96452pt too wide) in paragraph at lines 2133--2133
+ \TU/IBMPlexSerif(0)/m/n/10.95 limitada. Nadie queda exento de responsabilidad,
+ aunque la medida del juicio corresponde
+ []
+
+
+Overfull \hbox (12.23978pt too wide) in paragraph at lines 2139--2139
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Quienes conocieron la ley y |   [] contra ella
+ serán juzgados por ese mismo estándar.
+ []
+
+
+Overfull \hbox (17.69798pt too wide) in paragraph at lines 2185--2185
  []\TU/IBMPlexSerif(0)/m/n/10.95 Aun sin la ley escrita, demuestran que existe 
 un estándar moral que opera internamente. 
  []
 
 
-Overfull \hbox (23.78252pt too wide) in paragraph at lines 2191--2191
+
+[39]
+Overfull \hbox (23.78252pt too wide) in paragraph at lines 2197--2197
  []\TU/IBMPlexSerif(0)/m/n/10.95 La conciencia actúa |   [] testigo interno, ev
 idenciando que ciertos actos son reconocidos
  []
 
 
-Overfull \hbox (16.99496pt too wide) in paragraph at lines 2209--2209
+Overfull \hbox (16.99496pt too wide) in paragraph at lines 2215--2215
  \TU/IBMPlexSerif(0)/m/n/10.95 anuncia, Dios juzgará incluso lo oculto del ser 
 humano, y lo hará por medio de Jesucristo. 
  []
 
 
-
-[39]
-Overfull \hbox (23.37833pt too wide) in paragraph at lines 2246--2246
+Overfull \hbox (23.37833pt too wide) in paragraph at lines 2253--2253
  []\TU/IBMPlexSerif(0)/m/n/10.95 La expresión ”\TU/IBMPlexSerif(2)/m/it/10.95 «
 si»\TU/IBMPlexSerif(0)/m/n/10.95 ” |   [] una condición de primera clase. No pl
 antea una posibilidad
  []
 
 
-Overfull \hbox (0.35246pt too wide) in paragraph at lines 2250--2250
+
+[40]
+Overfull \hbox (0.35246pt too wide) in paragraph at lines 2257--2257
  \TU/IBMPlexSerif(0)/m/n/10.95 una serie de calificativos: te llamas judío, te 
 apoyas en la ley, te jactas de Dios, conoces
  []
 
 
-Overfull \hbox (2.98483pt too wide) in paragraph at lines 2256--2256
+Overfull \hbox (2.98483pt too wide) in paragraph at lines 2263--2263
  []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo se dirige específicamente a quien se |  
  [] como judío, no solo étnicamente,
  []
 
 
-Overfull \hbox (33.36378pt too wide) in paragraph at lines 2272--2272
+Overfull \hbox (33.36378pt too wide) in paragraph at lines 2281--2281
  []\TU/IBMPlexSerif(0)/m/n/10.95 Este marco prepara el terreno para Romanos 2:1
 8–20, donde se examinarán |   [],
  []
 
 
 
-[40]
-Overfull \hbox (1.1182pt too wide) in paragraph at lines 2334--2334
+[41]
+Overfull \hbox (1.1182pt too wide) in paragraph at lines 2343--2343
  []\TU/IBMPlexSerif(0)/m/n/10.95 Estas |   [] funcionan como descripciones para
 lelas de la autoridad percibida
  []
 
 
-
-[41]
-Overfull \hbox (17.97173pt too wide) in paragraph at lines 2358--2358
+Overfull \hbox (17.97173pt too wide) in paragraph at lines 2367--2367
  []\TU/IBMPlexSerif(0)/m/n/10.95 La sección siguiente no |   [] señalar simplem
 ente hipocresía, sino revelar autoengaño.
  []
 
 
-Overfull \hbox (2.34854pt too wide) in paragraph at lines 2360--2360
+Overfull \hbox (2.34854pt too wide) in paragraph at lines 2369--2369
  []\TU/IBMPlexSerif(0)/m/n/10.95 El conocimiento será contrastado con la |   []
 . Sabe mucho, pero no lo practica.
  []
 
 
-Overfull \hbox (15.51382pt too wide) in paragraph at lines 2382--2382
+
+[42]
+Overfull \hbox (15.51382pt too wide) in paragraph at lines 2391--2391
  []\TU/IBMPlexSerif(0)/m/n/10.95 Si roba —aunque sea de forma encubierta— queda
  bajo la |   [] condena que proclama. 
  []
 
 
 
-[42]
-Overfull \hbox (6.71523pt too wide) in paragraph at lines 2451--2451
+[43]
+Overfull \hbox (6.71523pt too wide) in paragraph at lines 2460--2460
  []\TU/IBMPlexSerif(0)/m/n/10.95 ”\TU/IBMPlexSerif(2)/m/it/10.95 «Blasfemado»\T
 U/IBMPlexSerif(0)/m/n/10.95 ” BLASFEMEO está en voz pasiva. El nombre de Dios r
 esulta calumniado
@@ -1860,138 +1862,124 @@ esulta calumniado
 
 
 
-[43]
-
 [44]
-Overfull \hbox (0.87248pt too wide) in paragraph at lines 2562--2562
+
+[45]
+Overfull \hbox (0.87248pt too wide) in paragraph at lines 2571--2571
  []\TU/IBMPlexSerif(0)/m/n/10.95 El estatus externo no define la |   [] real de
 lante de Dios. La circuncisión externa
  []
 
 
-Overfull \hbox (8.7044pt too wide) in paragraph at lines 2578--2578
+Overfull \hbox (8.7044pt too wide) in paragraph at lines 2587--2587
  []\TU/IBMPlexSerif(0)/m/n/10.95 La identidad verdadera no se establece por un 
 acto ritual externo, sino por una realidad
  []
 
 
-Overfull \hbox (5.80263pt too wide) in paragraph at lines 2580--2580
+Overfull \hbox (5.80263pt too wide) in paragraph at lines 2589--2589
  []\TU/IBMPlexSerif(0)/m/n/10.95 Según la ley del Antiguo |   [], cualquier var
 ón gentil que quisiera incorporarse
  []
 
 
-Overfull \hbox (3.23767pt too wide) in paragraph at lines 2582--2582
+Overfull \hbox (3.23767pt too wide) in paragraph at lines 2591--2591
  []\TU/IBMPlexSerif(0)/m/n/10.95 Esto no significa que todos los creyentes se |
    [] en judíos. El pacto abrahámico
  []
 
 
-Overfull \hbox (6.26251pt too wide) in paragraph at lines 2597--2598
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Además de la promesa |   [], Dios anuncia bendi
-ción para todas las etnias
- []
-
-
-
-[45]
-Overfull \hbox (8.49849pt too wide) in paragraph at lines 2603--2605
-\TU/IBMPlexSerif(0)/m/n/10.95 será desarrollado con mayor |   [] en Romanos 9–1
-1 (Romanos 11:25–27). 
- []
-
-
-Overfull \hbox (17.17818pt too wide) in paragraph at lines 2636--2637
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Este cierre redefine la |   [] y prepara el arg
-umento de Romanos
- []
-
-
-Overfull \hbox (12.25215pt too wide) in paragraph at lines 2660--2661
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Por eso, Romanos 3 avanza respondiendo pregunta
-s que el |   [] necesariamente tendría
+Overfull \hbox (10.61702pt too wide) in paragraph at lines 2609--2610
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Esa bendición a las naciones se cumple a |   []
+ de la Simiente, Jesucristo,
  []
 
 
 
 [46]
-Overfull \hbox (1.41385pt too wide) in paragraph at lines 2670--2672
+Overfull \hbox (12.25215pt too wide) in paragraph at lines 2669--2670
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Por eso, Romanos 3 avanza respondiendo pregunta
+s que el |   [] necesariamente tendría
+ []
+
+
+Overfull \hbox (1.41385pt too wide) in paragraph at lines 2679--2681
 \TU/IBMPlexSerif(0)/m/n/10.95 como de gentiles— y prepara el terreno para la re
 velación de la justicia de Dios mediante
  []
 
 
-Overfull \hbox (3.4761pt too wide) in paragraph at lines 2707--2707
+
+[47]
+Overfull \hbox (3.4761pt too wide) in paragraph at lines 2716--2716
  []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa hablando del |   [] y formula u
 na pregunta retórica: ¿existe realmente
  []
 
 
 
-[47]
-Overfull \hbox (5.06535pt too wide) in paragraph at lines 2773--2773
+[48]
+Overfull \hbox (5.06535pt too wide) in paragraph at lines 2782--2782
  []\TU/IBMPlexSerif(0)/m/n/10.95 Si Dios habló a Israel y muchos no respondiero
 n, el lector podría pensar que la |   []
  []
 
 
-Overfull \hbox (0.7985pt too wide) in paragraph at lines 2777--2777
+Overfull \hbox (0.7985pt too wide) in paragraph at lines 2786--2786
  []\TU/IBMPlexSerif(0)/m/n/10.95 Dicho de otra manera: si Dios hizo promesas a 
 Israel y muchos no creyeron, ¿significa
  []
 
 
 
-[48]
-Overfull \hbox (0.74008pt too wide) in paragraph at lines 2815--2815
+[49]
+Overfull \hbox (0.74008pt too wide) in paragraph at lines 2824--2824
  []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo apela a un patrón visible: el hombre fal
 la repetidamente, |   [] Dios permanece. 
  []
 
 
 
-[49]
-Overfull \hbox (5.99825pt too wide) in paragraph at lines 2851--2851
+[50]
+Overfull \hbox (5.99825pt too wide) in paragraph at lines 2860--2860
  []\TU/IBMPlexSerif(0)/m/n/10.95 El |   [] del Salmo 51 es David reconociendo s
 u pecado después de ser confrontado
  []
 
 
 
-[50]
-Overfull \hbox (3.0673pt too wide) in paragraph at lines 2914--2914
+[51]
+Overfull \hbox (3.0673pt too wide) in paragraph at lines 2926--2926
  []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo está mostrando que Dios permanece justo 
 aun cuando |   [] a pecadores reales. 
  []
 
 
 
-[51]
-
 [52]
 
 [53]
-Overfull \hbox (12.14783pt too wide) in paragraph at lines 3102--3102
+Overfull \hbox (12.14783pt too wide) in paragraph at lines 3106--3106
  []\TU/IBMPlexSerif(0)/m/n/10.95 Por lo tanto, el uso del pronombre no tiene un
  propósito étnico, sino retórico: involucrar
  []
 
 
-Overfull \hbox (15.9445pt too wide) in paragraph at lines 3102--3102
+Overfull \hbox (15.9445pt too wide) in paragraph at lines 3106--3106
  \TU/IBMPlexSerif(0)/m/n/10.95 a cada |   [] en el veredicto y llevar a cada in
 dividuo a reconocer su propia culpabilidad
  []
 
 
-Overfull \hbox (3.77328pt too wide) in paragraph at lines 3110--3110
+
+[54]
+Overfull \hbox (3.77328pt too wide) in paragraph at lines 3114--3114
 []| \TU/IBMPlexSerif(2)/m/it/10.95 «Aunque ser judío era una ventaja por haber 
 recibido los oráculos de Dios, esa ventaja no produce
  []
 
 
-
-[54]
-Overfull \hbox (18.70909pt too wide) in paragraph at lines 3134--3134
+Overfull \hbox (18.70909pt too wide) in paragraph at lines 3138--3138
 []| \TU/IBMPlexSerif(2)/m/it/10.95 «Si judíos y griegos están bajo pecado, no q
 ueda ningún otro grupo humano fuera de esta condición.» 
  []
@@ -1999,33 +1987,33 @@ ueda ningún otro grupo humano fuera de esta condición.»
 
 
 [55]
-Overfull \hbox (25.5233pt too wide) in paragraph at lines 3223--3223
+Overfull \hbox (25.5233pt too wide) in paragraph at lines 3227--3227
  []\TU/IBMPlexSerif(0)/m/n/10.95 “Entender” aquí no significa solo |   [] infor
 mación; significa comprender correctamente
  []
 
 
-Overfull \hbox (7.20642pt too wide) in paragraph at lines 3229--3229
+
+[56]
+Overfull \hbox (7.20642pt too wide) in paragraph at lines 3233--3233
  []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo apela a la Escritura para que el |   [] 
 no piense que esto es exageración humana.
  []
 
 
-
-[56]
-Overfull \hbox (7.15166pt too wide) in paragraph at lines 3239--3239
+Overfull \hbox (7.15166pt too wide) in paragraph at lines 3243--3243
  []\TU/IBMPlexSerif(0)/m/n/10.95 La afirmación |   [] es absoluta: Pablo no est
 á diciendo “son pocos los buscadores”,
  []
 
 
-Overfull \hbox (12.17528pt too wide) in paragraph at lines 3243--3243
+Overfull \hbox (12.17528pt too wide) in paragraph at lines 3247--3247
  []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo no está describiendo un |   [] cultural;
  está describiendo al hombre bajo pecado,
  []
 
 
-Overfull \hbox (11.38715pt too wide) in paragraph at lines 3281--3281
+Overfull \hbox (11.38715pt too wide) in paragraph at lines 3285--3285
  []\TU/IBMPlexSerif(0)/m/n/10.95 “Hacer lo bueno” no se |   [] aquí por compara
 ción entre humanos, sino por el estándar
  []
@@ -2033,7 +2021,7 @@ ción entre humanos, sino por el estándar
 
 
 [57]
-Overfull \hbox (0.421pt too wide) in paragraph at lines 3334--3334
+Overfull \hbox (0.421pt too wide) in paragraph at lines 3338--3338
  []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo muestra que la Escritura ya |   [] diagn
 osticado esta condición como universal
  []
@@ -2041,7 +2029,7 @@ osticado esta condición como universal
 
 
 [58]
-Overfull \hbox (1.86792pt too wide) in paragraph at lines 3352--3352
+Overfull \hbox (1.86792pt too wide) in paragraph at lines 3356--3356
  []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo no está describiendo una |   [] ocasiona
 l, sino una condición del hablar injusto. 
  []
@@ -2053,19 +2041,19 @@ l, sino una condición del hablar injusto.
 [60]
 
 [61]
-Overfull \hbox (1.94756pt too wide) in paragraph at lines 3492--3492
+Overfull \hbox (1.94756pt too wide) in paragraph at lines 3496--3496
  []\TU/IBMPlexSerif(0)/m/n/10.95 Esto explica por qué el hombre no entiende, no
  busca, se desvía, habla con corrupción
  []
 
 
-Overfull \hbox (7.62979pt too wide) in paragraph at lines 3535--3535
+Overfull \hbox (7.62979pt too wide) in paragraph at lines 3539--3539
  []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo introduce una conclusión basada en todo 
 lo que acaba de demostrar en Romanos
  []
 
 
-Overfull \hbox (17.70528pt too wide) in paragraph at lines 3537--3537
+Overfull \hbox (17.70528pt too wide) in paragraph at lines 3541--3541
  []\TU/IBMPlexSerif(0)/m/n/10.95 “Sabemos” no introduce una opinión nueva, sino
  un conocimiento que resulta inevitable
  []
@@ -2073,13 +2061,25 @@ Overfull \hbox (17.70528pt too wide) in paragraph at lines 3537--3537
 
 
 [62]
-Overfull \hbox (16.83658pt too wide) in paragraph at lines 3541--3541
+Overfull \hbox (16.83658pt too wide) in paragraph at lines 3545--3545
  []\TU/IBMPlexSerif(0)/m/n/10.95 No es un saber intuitivo ni cultural, sino un 
 saber derivado del testimonio de la Escritura. 
  []
 
 
-Overfull \hbox (10.94696pt too wide) in paragraph at lines 3595--3595
+Overfull \hbox (7.04726pt too wide) in paragraph at lines 3557--3557
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Esto incluye principalmente al pueblo judío, q
+ue recibió la ley como revelación directa. 
+ []
+
+
+Overfull \hbox (1.8986pt too wide) in paragraph at lines 3561--3561
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Sin embargo, lejos de eximir a Israel, la ley 
+los coloca bajo una responsabilidad mayor. 
+ []
+
+
+Overfull \hbox (10.94696pt too wide) in paragraph at lines 3581--3581
  []\TU/IBMPlexSerif(0)/m/n/10.95 En el contexto previo, la boca había sido inst
 rumento de engaño, maldición y amargura. 
  []
@@ -2087,13 +2087,13 @@ rumento de engaño, maldición y amargura.
 
 
 [63]
-Overfull \hbox (8.85622pt too wide) in paragraph at lines 3649--3649
+Overfull \hbox (8.85622pt too wide) in paragraph at lines 3659--3659
  []\TU/IBMPlexSerif(2)/m/it/10.95 «Obras de la ley» \TU/IBMPlexSerif(0)/m/n/10.
 95 se refiere a acciones realizadas en obediencia a mandamientos legales. 
  []
 
 
-Overfull \hbox (0.29843pt too wide) in paragraph at lines 3655--3655
+Overfull \hbox (0.29843pt too wide) in paragraph at lines 3665--3665
  []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo no critica la ley como mala, sino el uso
  de las obras como medio de justificación. 
  []
@@ -2101,21 +2101,21 @@ Overfull \hbox (0.29843pt too wide) in paragraph at lines 3655--3655
 
 
 [64]
-Overfull \hbox (26.15355pt too wide) in paragraph at lines 3727--3727
+
+[65]
+Overfull \hbox (26.15355pt too wide) in paragraph at lines 3745--3745
  []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo ha llevado al lector hasta el punto exac
 to donde el evangelio se vuelve absolutamente
  []
 
 
-
-[65]
-Overfull \hbox (7.42836pt too wide) in paragraph at lines 3761--3762
+Overfull \hbox (7.42836pt too wide) in paragraph at lines 3779--3780
 []\TU/IBMPlexSerif(0)/m/n/10.95 Hasta este punto, el lector ha quedado sin defe
 nsa: toda boca cerrada, toda la humanidad
  []
 
 
-Overfull \hbox (28.70247pt too wide) in paragraph at lines 3770--3771
+Overfull \hbox (28.70247pt too wide) in paragraph at lines 3788--3789
 []\TU/IBMPlexSerif(0)/m/n/10.95 Los versículos 21–26 presentan un solo argument
 o continuo; los versículos 27–31 presentan
  []
@@ -2123,13 +2123,13 @@ o continuo; los versículos 27–31 presentan
 
 
 [66]
-Overfull \hbox (17.30963pt too wide) in paragraph at lines 3806--3806
+Overfull \hbox (17.30963pt too wide) in paragraph at lines 3824--3824
  []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo responde directamente a la conclusión de
  Romanos 3:20: la ley no puede justificar. 
  []
 
 
-Overfull \hbox (3.947pt too wide) in paragraph at lines 3834--3834
+Overfull \hbox (3.947pt too wide) in paragraph at lines 3852--3852
  []\TU/IBMPlexSerif(2)/m/it/10.95 «La ley y los profetas» \TU/IBMPlexSerif(0)/m
 /n/10.95 es una forma de referirse al conjunto de las Escrituras del Antiguo
  []
@@ -2148,13 +2148,13 @@ File: images/justificacion.png Graphic file (type bmp)
 [70]
 
 [71]
-Overfull \hbox (10.36809pt too wide) in paragraph at lines 4088--4088
+Overfull \hbox (10.36809pt too wide) in paragraph at lines 4106--4106
  []\TU/IBMPlexSerif(0)/m/n/10.95 En todo el pasaje, Dios es el actor principal:
  Él manifiesta, exhibe, demuestra y justifica. 
  []
 
 
-Overfull \hbox (28.13918pt too wide) in paragraph at lines 4128--4128
+Overfull \hbox (28.13918pt too wide) in paragraph at lines 4146--4146
  []\TU/IBMPlexSerif(0)/m/n/10.95 La jactancia queda excluida porque lo único qu
 e el hombre contribuye para su justificación
  []
@@ -2162,7 +2162,7 @@ e el hombre contribuye para su justificación
 
 
 [72]
-Overfull \hbox (10.11911pt too wide) in paragraph at lines 4150--4150
+Overfull \hbox (10.11911pt too wide) in paragraph at lines 4168--4168
  []\TU/IBMPlexSerif(0)/m/n/10.95 Se suele pensar que el problema del orgullo se
  resuelve agregando requisitos humanos. 
  []
@@ -2170,7 +2170,7 @@ Overfull \hbox (10.11911pt too wide) in paragraph at lines 4150--4150
 
 
 [73]
-Overfull \hbox (19.75293pt too wide) in paragraph at lines 4208--4208
+Overfull \hbox (19.75293pt too wide) in paragraph at lines 4226--4226
  []\TU/IBMPlexSerif(0)/m/n/10.95 Después de examinar la condición humana y la o
 bra de Cristo, la conclusión es inevitable. 
  []
@@ -2180,13 +2180,13 @@ bra de Cristo, la conclusión es inevitable.
 [74]
 
 [75]
-Overfull \hbox (5.91797pt too wide) in paragraph at lines 4366--4367
+Overfull \hbox (5.91797pt too wide) in paragraph at lines 4384--4385
 []\TU/IBMPlexSerif(0)/m/n/10.95 Romanos capítulo 4 funciona como una demostraci
 ón bíblica que respalda la afirmación
  []
 
 
-Overfull \hbox (0.8569pt too wide) in paragraph at lines 4383--4384
+Overfull \hbox (0.8569pt too wide) in paragraph at lines 4401--4402
 []\TU/IBMPlexSerif(0)/m/n/10.95 Abraham es el caso ideal, porque vivió antes de
  la ley mosaica y antes de la circuncisión. 
  []
@@ -2194,13 +2194,13 @@ Overfull \hbox (0.8569pt too wide) in paragraph at lines 4383--4384
 
 
 [76]
-Overfull \hbox (12.19014pt too wide) in paragraph at lines 4426--4428
+Overfull \hbox (12.19014pt too wide) in paragraph at lines 4444--4446
 \TU/IBMPlexSerif(0)/m/n/10.95 Esto indica que cuando Dios acredita justicia al 
 hombre, lo hace sin participación humana
  []
 
 
-Overfull \hbox (17.53615pt too wide) in paragraph at lines 4435--4438
+Overfull \hbox (17.53615pt too wide) in paragraph at lines 4453--4456
 []\TU/IBMPlexSerif(0)/m/n/10.95 En contraste, hay verdades que el creyente debe
  \TU/IBMPlexSerif(2)/m/it/10.95 «contar» \TU/IBMPlexSerif(0)/m/n/10.95 como ver
 daderas. Estas verdades
@@ -2209,40 +2209,40 @@ daderas. Estas verdades
 
 
 [77]
-Overfull \hbox (5.77489pt too wide) in paragraph at lines 4476--4476
+Overfull \hbox (5.77489pt too wide) in paragraph at lines 4494--4494
  []\TU/IBMPlexSerif(0)/m/n/10.95 La pregunta no es qué hizo Abraham espiritualm
 ente, sino, ¿qué logró humanamente? 
  []
 
 
-Overfull \hbox (5.85591pt too wide) in paragraph at lines 4478--4478
+Overfull \hbox (5.85591pt too wide) in paragraph at lines 4496--4496
  []\TU/IBMPlexSerif(0)/m/n/10.95 La expresión \TU/IBMPlexSerif(2)/m/it/10.95 «s
 egún la carne» \TU/IBMPlexSerif(0)/m/n/10.95 limita el análisis a lo que Abraha
 m pudo haber producido
  []
 
 
-Overfull \hbox (35.41519pt too wide) in paragraph at lines 4502--4502
+Overfull \hbox (35.41519pt too wide) in paragraph at lines 4520--4520
  []\TU/IBMPlexSerif(0)/m/n/10.95 Abraham es padre de los circuncidados únicamen
 te si creen. Y es padre de los incircuncisos
  []
 
 
-Overfull \hbox (4.68059pt too wide) in paragraph at lines 4534--4534
+
+[78]
+Overfull \hbox (4.68059pt too wide) in paragraph at lines 4552--4552
  \TU/IBMPlexSerif(0)/m/n/10.95 definida por cómo Abraham fue justificado para e
 stablecer a Abraham como prototipo
  []
 
 
-
-[78]
-Overfull \hbox (11.5329pt too wide) in paragraph at lines 4548--4548
+Overfull \hbox (11.5329pt too wide) in paragraph at lines 4566--4566
  []\TU/IBMPlexSerif(0)/m/n/10.95 Abraham no es un caso excepcional; es el patró
 n para destacar la promesa de bendición
  []
 
 
-Overfull \hbox (5.38388pt too wide) in paragraph at lines 4550--4550
+Overfull \hbox (5.38388pt too wide) in paragraph at lines 4568--4568
  []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo conecta Romanos 4 con Génesis 12 y 17. L
 a promesa siempre fue multinacional.
  []
@@ -2250,29 +2250,35 @@ a promesa siempre fue multinacional.
 
 
 [79]
-Overfull \hbox (4.18927pt too wide) in paragraph at lines 4653--4653
+Overfull \hbox (4.18927pt too wide) in paragraph at lines 4671--4671
 []\TU/IBMPlexSerif(0)/m/n/10.95 Abraham es examinado como evidencia, no present
 ado como ejemplo moral. 
  []
 
 
-Overfull \hbox (7.87436pt too wide) in paragraph at lines 4678--4678
+
+[80]
+Overfull \hbox (7.87436pt too wide) in paragraph at lines 4696--4696
  []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo introduce una ilustración tomada del mun
 do cotidiano del trabajo y la economía. 
  []
 
 
-
-[80]
-Overfull \hbox (22.64737pt too wide) in paragraph at lines 4683--4683
+Overfull \hbox (22.64737pt too wide) in paragraph at lines 4701--4701
  []\TU/IBMPlexSerif(0)/m/n/10.95 Usando términos económicos, Pablo establece un
 a distinción absoluta entre dos sistemas
  []
 
 
+Overfull \hbox (12.09164pt too wide) in paragraph at lines 4708--4711
+[]\TU/IBMPlexSerif(0)/m/n/10.95 El salario no depende de la buena voluntad del 
+empleador, sino de una obligación
+ []
+
+
 
 [81]
-Overfull \hbox (3.34619pt too wide) in paragraph at lines 4812--4812
+Overfull \hbox (3.34619pt too wide) in paragraph at lines 4830--4830
  []\TU/IBMPlexSerif(0)/m/n/10.95 Es decir, No dice que primero uno no trabaje p
 ero luego crea como una etapa posterior
  []
@@ -2282,7 +2288,7 @@ ero luego crea como una etapa posterior
 [82]
 
 [83]
-Overfull \hbox (10.44276pt too wide) in paragraph at lines 4961--4961
+Overfull \hbox (10.44276pt too wide) in paragraph at lines 4979--4979
  []\TU/IBMPlexSerif(0)/m/n/10.95 El texto obliga a una sola conclusión. La just
 ificación delante de Dios es completamente
  []
@@ -2290,7 +2296,7 @@ ificación delante de Dios es completamente
 
 
 [84]
-Overfull \hbox (16.96771pt too wide) in paragraph at lines 5008--5008
+Overfull \hbox (16.96771pt too wide) in paragraph at lines 5026--5026
  []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo no está cambiando de tema; está reforzan
 do el mismo principio con otra Escritura. 
  []
@@ -2302,7 +2308,7 @@ do el mismo principio con otra Escritura.
 [86]
 
 [87]
-Overfull \hbox (34.68143pt too wide) in paragraph at lines 5222--5222
+Overfull \hbox (34.68143pt too wide) in paragraph at lines 5239--5239
  []\TU/IBMPlexSerif(0)/m/n/10.95 Si la bendición alcanza también a los incircun
 cisos, entonces no depende de la circuncisión. 
  []
@@ -2312,25 +2318,25 @@ cisos, entonces no depende de la circuncisión.
 [88]
 
 [89]
-Overfull \hbox (1.18553pt too wide) in paragraph at lines 5302--5302
+Overfull \hbox (1.18553pt too wide) in paragraph at lines 5319--5319
  []\TU/IBMPlexSerif(0)/m/n/10.95 La justicia es acreditada (LOGIZOMAI) a otros 
 de la misma manera. No hay un método
  []
 
 
-Underfull \hbox (badness 1931) in paragraph at lines 5308--5310
+Underfull \hbox (badness 1931) in paragraph at lines 5325--5327
 []\TU/IBMPlexSerif(2)/m/it/10.95 « También Abraham es padre de la circuncisión 
 para aquellos que no solamente son de la
  []
 
 
-Overfull \hbox (30.56282pt too wide) in paragraph at lines 5312--5312
+Overfull \hbox (30.56282pt too wide) in paragraph at lines 5329--5329
 []| \TU/IBMPlexSerif(2)/m/it/10.95 «También Abraham es padre de la circuncisión
  para aquellos que no solamente son de la circuncisión,» 
  []
 
 
-Overfull \hbox (1.1888pt too wide) in paragraph at lines 5359--5359
+Overfull \hbox (1.1888pt too wide) in paragraph at lines 5376--5376
  []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo amplía el argumento. Ya no habla solo de
  justificación. Ahora habla de promesa
  []
@@ -2348,13 +2354,13 @@ Overfull \hbox (1.1888pt too wide) in paragraph at lines 5359--5359
 [94]
 
 [95]
-Overfull \hbox (2.89935pt too wide) in paragraph at lines 5723--5723
+Overfull \hbox (25.89441pt too wide) in paragraph at lines 5740--5740
 []\TU/IBMPlexSerif(0)/m/n/10.95 Abraham creyó cuando la esperanza humana había 
 desaparecido. 
  []
 
 
-Overfull \hbox (1.89447pt too wide) in paragraph at lines 5750--5750
+Overfull \hbox (1.89447pt too wide) in paragraph at lines 5767--5767
  []\TU/IBMPlexSerif(0)/m/n/10.95 Fue escrito con una intención más amplia. La E
 scritura no es meramente descriptiva;
  []
@@ -2362,32 +2368,32 @@ scritura no es meramente descriptiva;
 
 
 [96]
-Overfull \hbox (3.16002pt too wide) in paragraph at lines 5802--5802
+Overfull \hbox (3.16002pt too wide) in paragraph at lines 5819--5819
  []\TU/IBMPlexSerif(0)/m/n/10.95 Así como Abraham creyó en el Dios que da vida 
 a los muertos (4:17), nosotros creemos
  []
 
 
-Overfull \hbox (7.20642pt too wide) in paragraph at lines 5804--5804
+Overfull \hbox (7.20642pt too wide) in paragraph at lines 5821--5821
  []\TU/IBMPlexSerif(0)/m/n/10.95 El contenido de la fe de Abraham varía en que 
 no conocía exáctamente como lo lograría
  []
 
 
-Overfull \hbox (13.04886pt too wide) in paragraph at lines 5825--5825
+Overfull \hbox (13.04886pt too wide) in paragraph at lines 5842--5842
  []\TU/IBMPlexSerif(0)/m/n/10.95 Fue \TU/IBMPlexSerif(2)/m/it/10.95 «por causa 
 de» \TU/IBMPlexSerif(0)/m/n/10.95 nuestras transgresiones. La muerte de Cristo 
 responde directamente
  []
 
 
-Overfull \hbox (2.33978pt too wide) in paragraph at lines 5839--5839
+Overfull \hbox (2.33978pt too wide) in paragraph at lines 5856--5856
  []\TU/IBMPlexSerif(0)/m/n/10.95 La muerte trata con el pecado. La resurrección
  confirma que el problema fue resuelto. 
  []
 
 
-Overfull \hbox (9.89526pt too wide) in paragraph at lines 5841--5841
+Overfull \hbox (9.89526pt too wide) in paragraph at lines 5858--5858
  []\TU/IBMPlexSerif(0)/m/n/10.95 La resurrección es la declaración pública de q
 ue la obra fue aceptada. Sin resurrección,
  []
@@ -2397,20 +2403,20 @@ ue la obra fue aceptada. Sin resurrección,
 [97]
 
 [98]
-Overfull \hbox (17.39723pt too wide) in paragraph at lines 5931--5931
+Overfull \hbox (17.39723pt too wide) in paragraph at lines 5959--5959
  []\TU/IBMPlexSerif(0)/m/n/10.95 El participio \TU/IBMPlexSerif(2)/m/it/10.95 «
 habiendo sido justificados» \TU/IBMPlexSerif(0)/m/n/10.95 señala una acción com
 pleta con efectos vigentes.
  []
 
 
-Overfull \hbox (0.74014pt too wide) in paragraph at lines 5933--5933
+Overfull \hbox (0.74014pt too wide) in paragraph at lines 5961--5961
  []\TU/IBMPlexSerif(0)/m/n/10.95 La fe es el medio por el cual ocurrió la justi
 ficación, no el medio por el cual se obtienen
  []
 
 
-Overfull \hbox (12.77776pt too wide) in paragraph at lines 5943--5943
+Overfull \hbox (12.77776pt too wide) in paragraph at lines 5971--5971
  []\TU/IBMPlexSerif(2)/m/it/10.95 «Paz» \TU/IBMPlexSerif(0)/m/n/10.95 aquí no d
 escribe calma interna, tranquilidad psicológica ni ausencia de ansiedad.
  []
@@ -2418,13 +2424,13 @@ escribe calma interna, tranquilidad psicológica ni ausencia de ansiedad.
 
 
 [99]
-Underfull \hbox (badness 1406) in paragraph at lines 5983--5984
+Underfull \hbox (badness 1406) in paragraph at lines 6011--6012
 []\TU/IBMPlexSerif(0)/m/n/10 estar en posesión de, tener (el perfecto de ECHO i
 ndica un estado presente
  []
 
 
-Overfull \hbox (11.10828pt too wide) in paragraph at lines 6004--6004
+Overfull \hbox (11.10828pt too wide) in paragraph at lines 6032--6032
  []\TU/IBMPlexSerif(0)/m/n/10.95 La fe aparece nuevamente como el principio opu
 esto a las obras: el medio de recepción,
  []
@@ -2432,47 +2438,41 @@ esto a las obras: el medio de recepción,
 
 
 [100]
-Overfull \hbox (2.58186pt too wide) in paragraph at lines 6070--6070
+Overfull \hbox (2.58186pt too wide) in paragraph at lines 6098--6098
  []\TU/IBMPlexSerif(0)/m/n/10.95 Produce perseverancia porque el fundamento de 
 la relación con Dios no está en juego. 
  []
 
 
-Overfull \hbox (9.81256pt too wide) in paragraph at lines 6092--6092
+
+[101]
+Overfull \hbox (9.81256pt too wide) in paragraph at lines 6120--6120
  []\TU/IBMPlexSerif(0)/m/n/10.95 La esperanza no se debilita; se fortalece. La 
 sequencia es de esperanza a una esperanza
  []
 
 
-
-[101]
-Overfull \hbox (12.44559pt too wide) in paragraph at lines 6124--6124
+Overfull \hbox (12.44559pt too wide) in paragraph at lines 6152--6152
  []\TU/IBMPlexSerif(0)/m/n/10.95 El Espíritu Santo es presentado como don (rega
 lado), no como recompensa (no ganado).
  []
 
 
-Overfull \hbox (34.59962pt too wide) in paragraph at lines 6165--6165
-[]\TU/IBMPlexSerif(0)/m/n/10.95 La justificación introduce al creyente en un es
-tatus nuevo y permanente. 
- []
-
-
-Overfull \hbox (52.78905pt too wide) in paragraph at lines 6171--6172
-[]\TU/IBMPlexSerif(0)/m/n/10.95 La esperanza se fundamenta en el estatus recibi
-do, no en las circunstancias. 
- []
-
-
 
 [102]
-Overfull \hbox (24.85197pt too wide) in paragraph at lines 6183--6184
+Overfull \hbox (3.68932pt too wide) in paragraph at lines 6202--6202
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Las tribulaciones ocurren dentro de la justific
+ación, no contra
+ []
+
+
+Overfull \hbox (24.85197pt too wide) in paragraph at lines 6211--6212
 []\TU/IBMPlexSerif(0)/m/n/10.95 (La seguridad del creyente se fundamenta en la 
 obra histórica de Cristo, no en su experiencia
  []
 
 
-Overfull \hbox (6.95116pt too wide) in paragraph at lines 6198--6198
+Overfull \hbox (6.95116pt too wide) in paragraph at lines 6226--6226
  \TU/IBMPlexSerif(0)/m/n/10.95 de ignorancia temporal. El ser humano no estaba 
 buscando, cooperando ni avanzando
  []
@@ -2480,7 +2480,7 @@ buscando, cooperando ni avanzando
 
 
 [103]
-Overfull \hbox (2.48991pt too wide) in paragraph at lines 6251--6251
+Overfull \hbox (2.48991pt too wide) in paragraph at lines 6279--6279
  []\TU/IBMPlexSerif(0)/m/n/10.95 Incluso cuando una persona es beneficiosa, nob
 le o admirable, el sacrificio voluntario
  []
@@ -2490,19 +2490,19 @@ le o admirable, el sacrificio voluntario
 [104]
 
 [105]
-Overfull \hbox (10.59506pt too wide) in paragraph at lines 6373--6373
+Overfull \hbox (10.59506pt too wide) in paragraph at lines 6401--6401
  []\TU/IBMPlexSerif(0)/m/n/10.95 De aquí en adelante, todo lo que procede es ún
 icamente sobre la base de la justificación.
  []
 
 
-Overfull \hbox (10.93454pt too wide) in paragraph at lines 6390--6390
+Overfull \hbox (10.93454pt too wide) in paragraph at lines 6418--6418
  []\TU/IBMPlexSerif(0)/m/n/10.95 Si decimos que el problema del pecado ha sido 
 resuelto, no significa que ya no pecamos.
  []
 
 
-Overfull \hbox (2.54051pt too wide) in paragraph at lines 6392--6392
+Overfull \hbox (2.54051pt too wide) in paragraph at lines 6420--6420
  \TU/IBMPlexSerif(0)/m/n/10.95 importante para Dios que en la vida del incrédul
 o. Dios no quiere que su hijos pequen. 
  []
@@ -2510,7 +2510,7 @@ o. Dios no quiere que su hijos pequen.
 
 
 [106]
-Overfull \hbox (9.58984pt too wide) in paragraph at lines 6452--6452
+Overfull \hbox (9.58984pt too wide) in paragraph at lines 6480--6480
  []\TU/IBMPlexSerif(0)/m/n/10.95 Solo porque ya fuimos justificados nuestra rel
 ación con Dios no es directa ni autónoma.
  []
@@ -2518,7 +2518,7 @@ ación con Dios no es directa ni autónoma.
 
 
 [107]
-Overfull \hbox (6.10045pt too wide) in paragraph at lines 6470--6470
+Overfull \hbox (6.10045pt too wide) in paragraph at lines 6498--6498
  []\TU/IBMPlexSerif(0)/m/n/10.95 Romanos 5:6–11 establece que la seguridad del 
 creyente no depende de su constancia, 
  []
@@ -2526,7 +2526,7 @@ creyente no depende de su constancia,
 
 
 [108]
-Overfull \hbox (9.10078pt too wide) in paragraph at lines 6566--6566
+Overfull \hbox (9.10078pt too wide) in paragraph at lines 6594--6594
  []\TU/IBMPlexSerif(0)/m/n/10.95 La universalidad de la muerte demuestra que el
  problema no es meramente individual.
  []
@@ -2534,7 +2534,7 @@ Overfull \hbox (9.10078pt too wide) in paragraph at lines 6566--6566
 
 
 [109]
-Overfull \hbox (1.50758pt too wide) in paragraph at lines 6604--6604
+Overfull \hbox (1.50758pt too wide) in paragraph at lines 6632--6632
  []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo responde: el pecado existía antes de La 
 Ley. La Ley no es la fuente del problema. 
  []
@@ -2542,31 +2542,25 @@ Ley. La Ley no es la fuente del problema.
 
 
 [110]
-Overfull \hbox (3.18169pt too wide) in paragraph at lines 6645--6645
+Overfull \hbox (3.18169pt too wide) in paragraph at lines 6673--6673
 []| \TU/IBMPlexSerif(2)/m/it/10.95 «El problema es más que acciones indebidas. 
 Es un problema interno que ocaciona que pequemos
  []
 
 
-Overfull \hbox (19.4332pt too wide) in paragraph at lines 6653--6653
+Overfull \hbox (19.4332pt too wide) in paragraph at lines 6681--6681
  []\TU/IBMPlexSerif(0)/m/n/10.95 Adán es figura, no porque sea similar moralmen
 te a Cristo, sino porque ambos funcionan
  []
 
 
-Overfull \hbox (7.34505pt too wide) in paragraph at lines 6672--6672
-[]\TU/IBMPlexSerif(0)/m/n/10.95 El pecado entra históricamente al mundo por med
-io de un hombre. 
- []
-
-
-Overfull \hbox (15.58676pt too wide) in paragraph at lines 6676--6676
+Overfull \hbox (38.58182pt too wide) in paragraph at lines 6704--6704
 []\TU/IBMPlexSerif(0)/m/n/10.95 La universalidad de la muerte demuestra una con
 dición corporativa. 
  []
 
 
-Overfull \hbox (17.19792pt too wide) in paragraph at lines 6690--6691
+Overfull \hbox (17.19792pt too wide) in paragraph at lines 6718--6719
 []\TU/IBMPlexSerif(0)/m/n/10.95 (La obra de Cristo no solo revierte el daño de 
 Adán, sino que lo sobrepasa abundantemente) 
  []
@@ -2574,7 +2568,7 @@ Adán, sino que lo sobrepasa abundantemente)
 
 
 [111]
-Overfull \hbox (23.01218pt too wide) in paragraph at lines 6719--6719
+Overfull \hbox (23.01218pt too wide) in paragraph at lines 6747--6747
 []| \TU/IBMPlexSerif(2)/m/it/10.95 «La transgresión y la dádiva no funcionan ba
 jo el mismo principio. No producen efectos equivalentes.
  []
@@ -2582,7 +2576,7 @@ jo el mismo principio. No producen efectos equivalentes.
 File: images/en-adan-cuadrante.png Graphic file (type bmp)
 <images/en-adan-cuadrante.png>
 
-Overfull \hbox (21.52318pt too wide) in paragraph at lines 6753--6753
+Overfull \hbox (21.52318pt too wide) in paragraph at lines 6781--6781
  []\TU/IBMPlexSerif(0)/m/n/10.95 El énfasis no está en cuántas veces pecaron lo
 s muchos, sino en que una sola transgresión
  []
@@ -2597,13 +2591,13 @@ File: images/en-cristo.png Graphic file (type bmp)
 
 
 [114]
-Overfull \hbox (3.19649pt too wide) in paragraph at lines 6826--6826
+Overfull \hbox (3.19649pt too wide) in paragraph at lines 6854--6854
  []\TU/IBMPlexSerif(0)/m/n/10.95 En contraste, la dádiva surge en un contexto c
 ompletamente distinto: Pablo introduce
  []
 
 
-Overfull \hbox (19.39157pt too wide) in paragraph at lines 6851--6851
+Overfull \hbox (19.39157pt too wide) in paragraph at lines 6879--6879
 \TU/IBMPlexSerif(0)/m/n/10.95 confirma que no está describiendo experiencias ai
 sladas, sino \TU/IBMPlexSerif(0)/b/n/10.95 esferas de dominio \TU/IBMPlexSerif(
 0)/m/n/10.95 incompatibles. 
@@ -2612,7 +2606,7 @@ sladas, sino \TU/IBMPlexSerif(0)/b/n/10.95 esferas de dominio \TU/IBMPlexSerif(
 
 
 [115]
-Overfull \hbox (7.90135pt too wide) in paragraph at lines 6909--6909
+Overfull \hbox (7.90135pt too wide) in paragraph at lines 6937--6937
 []\TU/IBMPlexSerif(0)/m/n/10.95 En estos versículos Pablo ya no introduce nuevo
 s conceptos,resume, condensa y fija legalmente
  []
@@ -2620,33 +2614,33 @@ s conceptos,resume, condensa y fija legalmente
 
 
 [116]
-Overfull \hbox (23.427pt too wide) in paragraph at lines 6947--6947
+Overfull \hbox (23.427pt too wide) in paragraph at lines 6975--6975
  []\TU/IBMPlexSerif(0)/m/n/10.95 La condenación no aparece aquí como castigo ac
 umulado por muchas acciones humanas.
  []
 
 
-Overfull \hbox (8.37953pt too wide) in paragraph at lines 6949--6949
+Overfull \hbox (8.37953pt too wide) in paragraph at lines 6977--6977
  []\TU/IBMPlexSerif(2)/m/it/10.95 «Todos los hombres» \TU/IBMPlexSerif(0)/m/n/1
 0.95 no describe conducta personal, describe \TU/IBMPlexSerif(0)/b/n/10.95 pert
 enencia a una esfera\TU/IBMPlexSerif(0)/m/n/10.95 .
  []
 
 
-Overfull \hbox (43.93939pt too wide) in paragraph at lines 6977--6977
+Overfull \hbox (43.93939pt too wide) in paragraph at lines 7005--7005
 []| \TU/IBMPlexSerif(2)/m/it/10.95 «La expresión no se refiere a una cualidad i
 nterna, sino a una acción concreta, objetiva y representativa.» 
  []
 
 
-Overfull \hbox (29.09912pt too wide) in paragraph at lines 6990--6990
+Overfull \hbox (29.09912pt too wide) in paragraph at lines 7018--7018
 []\TU/IBMPlexSerif(0)/m/n/10.95 La explicación del mecanismo representativo: Pa
 blo ahora explica \TU/IBMPlexSerif(0)/b/n/10.95 cómo \TU/IBMPlexSerif(0)/m/n/10
 .95 funciona este paralelismo. 
  []
 
 
-Overfull \hbox (1.1pt too wide) in paragraph at lines 7002--7002
+Overfull \hbox (1.1pt too wide) in paragraph at lines 7030--7030
 []| \TU/IBMPlexSerif(2)/m/it/10.95 «Porque así como por la desobediencia de un 
 hombre los muchos fueron constituidos pecadores,» 
  []
@@ -2657,7 +2651,7 @@ hombre los muchos fueron constituidos pecadores,»
 File: images/en-cristo-cuadrante.png Graphic file (type bmp)
 <images/en-cristo-cuadrante.png>
 
-Overfull \hbox (33.11192pt too wide) in paragraph at lines 7028--7028
+Overfull \hbox (33.11192pt too wide) in paragraph at lines 7056--7056
  []\TU/IBMPlexSerif(0)/m/n/10.95 Los muchos no son llamados pecadores porque pe
 caron primero, pecan porque pertenecen
  []
@@ -2667,7 +2661,7 @@ caron primero, pecan porque pertenecen
 [118]
 
 [119]
-Overfull \hbox (32.57796pt too wide) in paragraph at lines 7078--7078
+Overfull \hbox (32.57796pt too wide) in paragraph at lines 7106--7106
  []\TU/IBMPlexSerif(0)/m/n/10.95 La representación es total. La pertenencia es 
 exclusiva. O bien se está bajo la desobediencia
  []
@@ -2677,13 +2671,13 @@ File: images/no-realidad-compartida.png Graphic file (type bmp)
 
 
 [120]
-Overfull \hbox (2.14902pt too wide) in paragraph at lines 7118--7118
+Overfull \hbox (2.14902pt too wide) in paragraph at lines 7146--7146
  []\TU/IBMPlexSerif(0)/m/n/10.95 La Ley no aparece como una reacción al pecado,
  sino como una intervención histórica
  []
 
 
-Overfull \hbox (7.88461pt too wide) in paragraph at lines 7142--7142
+Overfull \hbox (7.88461pt too wide) in paragraph at lines 7170--7170
  []\TU/IBMPlexSerif(0)/m/n/10.95 El pecado ya existía, pero La Ley lo define, l
 o nombra y lo multiplica como transgresión.
  []
@@ -2693,7 +2687,7 @@ File: images/pecador-.png Graphic file (type bmp)
 
 
 [121]
-Overfull \hbox (19.05676pt too wide) in paragraph at lines 7163--7163
+Overfull \hbox (19.05676pt too wide) in paragraph at lines 7191--7191
 []| \TU/IBMPlexSerif(2)/m/it/10.95 «Pablo no dice que la gracia simplemente “ig
 uala” al pecado. Dice que la gracia . Si una transgresión
  []
@@ -2701,13 +2695,13 @@ uala” al pecado. Dice que la gracia . Si una transgresión
 
 
 [122]
-Overfull \hbox (6.44965pt too wide) in paragraph at lines 7231--7231
+Overfull \hbox (6.44965pt too wide) in paragraph at lines 7259--7259
  []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo no está diciendo que la gracia reina aut
 omáticamente sobre todos. Está diciendo
  []
 
 
-Overfull \hbox (24.1731pt too wide) in paragraph at lines 7275--7275
+Overfull \hbox (24.1731pt too wide) in paragraph at lines 7303--7303
  []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo concluye así todo el argumento de Romano
 s 5: Adán introdujo pecado, condenación
  []
@@ -2715,13 +2709,13 @@ s 5: Adán introdujo pecado, condenación
 
 
 [123]
-Overfull \hbox (28.18175pt too wide) in paragraph at lines 7279--7279
+Overfull \hbox (28.18175pt too wide) in paragraph at lines 7307--7307
  []\TU/IBMPlexSerif(0)/m/n/10.95 Romanos 6 explicará cómo este nuevo reinado se
  vive. Romanos 7 mostrará la incapacidad
  []
 
 
-Overfull \hbox (17.53839pt too wide) in paragraph at lines 7298--7298
+Overfull \hbox (17.53839pt too wide) in paragraph at lines 7326--7326
  \TU/IBMPlexSerif(0)/b/n/12 ROMANOS 6:1–8:17 SANTIFICACIÓN: LA VIDA QUE BROTA D
 E LA JUSTIFICACIÓN| 
  []
@@ -2729,7 +2723,7 @@ E LA JUSTIFICACIÓN|
 File: images/santificacion.png Graphic file (type bmp)
 <images/santificacion.png>
 
-Overfull \hbox (8.81755pt too wide) in paragraph at lines 7309--7310
+Overfull \hbox (8.81755pt too wide) in paragraph at lines 7337--7338
 []\TU/IBMPlexSerif(0)/m/n/10.95 (La gracia abundante provoca una objeción lógic
 a: si la gracia reina, ¿importa el pecado?) 
  []
@@ -2737,7 +2731,7 @@ a: si la gracia reina, ¿importa el pecado?)
 
 
 [124]
-Overfull \hbox (25.35199pt too wide) in paragraph at lines 7336--7336
+Overfull \hbox (25.35199pt too wide) in paragraph at lines 7364--7364
  []\TU/IBMPlexSerif(0)/m/n/10.95 Romanos 5 ha afirmado con claridad que: donde 
 el pecado abundó, la gracia sobreabundó.
  []
@@ -2745,7 +2739,7 @@ el pecado abundó, la gracia sobreabundó.
 
 
 [125]
-Overfull \hbox (4.94342pt too wide) in paragraph at lines 7415--7415
+Overfull \hbox (4.94342pt too wide) in paragraph at lines 7443--7443
  \TU/IBMPlexSerif(0)/m/n/10.95 Pero si es un rechazo categórico a la noción que
  continuariamos viviendo en el pecado. 
  []
@@ -2753,7 +2747,7 @@ Overfull \hbox (4.94342pt too wide) in paragraph at lines 7415--7415
 
 
 [126]
-Overfull \hbox (22.22035pt too wide) in paragraph at lines 7539--7539
+Overfull \hbox (22.22035pt too wide) in paragraph at lines 7567--7567
 []| \TU/IBMPlexSerif(2)/m/it/10.95 «Ilustración conceptual: Sería como ser libe
 rado legalmente de prisión, recibir una nueva identidad,
  []
@@ -2763,13 +2757,13 @@ rado legalmente de prisión, recibir una nueva identidad,
 [127]
 
 [128]
-Overfull \hbox (5.27924pt too wide) in paragraph at lines 7697--7697
+Overfull \hbox (5.27924pt too wide) in paragraph at lines 7725--7725
  []\TU/IBMPlexSerif(0)/m/n/10.95 No se trata de una figura retórica: la sepultu
 ra elimina la idea de una muerte simbólica
  []
 
 
-Overfull \hbox (23.5672pt too wide) in paragraph at lines 7705--7705
+Overfull \hbox (23.5672pt too wide) in paragraph at lines 7733--7733
  []\TU/IBMPlexSerif(0)/m/n/10.95 El medio de esta muerte no fue el esfuerzo hum
 ano, sino la acción de Dios al identificarnos
  []
@@ -2777,7 +2771,7 @@ ano, sino la acción de Dios al identificarnos
 
 
 [129]
-Overfull \hbox (2.11377pt too wide) in paragraph at lines 7779--7779
+Overfull \hbox (2.11377pt too wide) in paragraph at lines 7807--7807
 []| \TU/IBMPlexSerif(2)/m/it/10.95 « no significa imitación externa. No se afir
 ma identidad de ser, sino participación en el resultado
  []
@@ -2785,19 +2779,19 @@ ma identidad de ser, sino participación en el resultado
 
 
 [130]
-Overfull \hbox (1.37737pt too wide) in paragraph at lines 7820--7821
+Overfull \hbox (1.37737pt too wide) in paragraph at lines 7848--7849
 []\TU/IBMPlexSerif(0)/m/n/10.95 (La muerte y resurrección con Cristo implican l
 iberación del antiguo señorío y un nuevo
  []
 
 
-Overfull \hbox (1.20361pt too wide) in paragraph at lines 7833--7833
+Overfull \hbox (1.20361pt too wide) in paragraph at lines 7861--7861
  \TU/IBMPlexSerif(0)/m/n/10.95 Saber aquí no significa recordar información doc
 trinal, sino \TU/IBMPlexSerif(0)/b/n/10.95 vivir desde una realidad
  []
 
 
-Overfull \hbox (3.73892pt too wide) in paragraph at lines 7835--7835
+Overfull \hbox (3.73892pt too wide) in paragraph at lines 7863--7863
  []\TU/IBMPlexSerif(0)/m/n/10.95 El contenido de ese conocimiento es claro: el 
 \TU/IBMPlexSerif(2)/m/it/10.95 «viejo hombre» \TU/IBMPlexSerif(0)/m/n/10.95 fue
  crucificado con Cristo. 
@@ -2808,26 +2802,26 @@ Overfull \hbox (3.73892pt too wide) in paragraph at lines 7835--7835
 [131]
 
 [132]
-Overfull \hbox (16.40567pt too wide) in paragraph at lines 7956--7956
+Overfull \hbox (16.40567pt too wide) in paragraph at lines 7984--7984
  []\TU/IBMPlexSerif(0)/m/n/10.95 La esclavitud no es solo comportamiento forzad
 o. Es \TU/IBMPlexSerif(0)/b/n/10.95 pertenencia\TU/IBMPlexSerif(0)/m/n/10.95 . 
 Un esclavo pertenece
  []
 
 
-Overfull \hbox (2.72447pt too wide) in paragraph at lines 7974--7974
+Overfull \hbox (2.72447pt too wide) in paragraph at lines 8002--8002
  []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo introduce una afirmación jurídica simple
 . En cualquier sistema legal, la muerte
  []
 
 
-Overfull \hbox (10.12885pt too wide) in paragraph at lines 8014--8014
+Overfull \hbox (10.12885pt too wide) in paragraph at lines 8042--8042
  []\TU/IBMPlexSerif(0)/m/n/10.95 Todas esas ideas niegan un hecho ya consumado.
  El creyente no muere repetidamente.
  []
 
 
-Overfull \hbox (2.93642pt too wide) in paragraph at lines 8014--8014
+Overfull \hbox (2.93642pt too wide) in paragraph at lines 8042--8042
  \TU/IBMPlexSerif(0)/m/n/10.95 Murió una vez para siempre, en Cristo. Romanos 6
 :2; Colosenses 2:20, 3:3; 2 Corintios
  []
@@ -2837,25 +2831,31 @@ Overfull \hbox (2.93642pt too wide) in paragraph at lines 8014--8014
 [133]
 
 [134]
-Overfull \hbox (13.70363pt too wide) in paragraph at lines 8126--8130
+Overfull \hbox (6.49467pt too wide) in paragraph at lines 8137--8137
+[]\TU/IBMPlexSerif(0)/m/n/10.95 La muerte produjo una liberación real del domin
+io del pecado. 
+ []
+
+
+Overfull \hbox (13.70363pt too wide) in paragraph at lines 8154--8158
 []\TU/IBMPlexSerif(0)/m/n/10.95 El problema práctico que Pablo aborda. Hasta aq
 uí, Pablo ha establecido hechos objetivos:
  []
 
 
-Overfull \hbox (8.125pt too wide) in paragraph at lines 8126--8130
+Overfull \hbox (8.125pt too wide) in paragraph at lines 8154--8158
 \TU/IBMPlexSerif(0)/m/n/10.95 El creyente murió con Cristo (Romanos 6:2–4). El 
 viejo hombre fue crucificado (Romanos
  []
 
 
-Overfull \hbox (1.42773pt too wide) in paragraph at lines 8132--8135
+Overfull \hbox (1.42773pt too wide) in paragraph at lines 8160--8163
 []\TU/IBMPlexSerif(0)/m/n/10.95 Sin embargo, surge una pregunta inevitable: Si 
 todo esto es verdad, ¿por qué el creyente
  []
 
 
-Overfull \hbox (9.08376pt too wide) in paragraph at lines 8132--8135
+Overfull \hbox (9.08376pt too wide) in paragraph at lines 8160--8163
 \TU/IBMPlexSerif(0)/m/n/10.95 todavía peca? Pablo no responde diciendo que la o
 bra de Cristo fue incompleta. Tampoco
  []
@@ -2863,13 +2863,13 @@ bra de Cristo fue incompleta. Tampoco
 
 
 [135]
-Overfull \hbox (19.69818pt too wide) in paragraph at lines 8175--8175
+Overfull \hbox (19.69818pt too wide) in paragraph at lines 8203--8203
  []\TU/IBMPlexSerif(0)/m/n/10.95 La obediencia cristiana no comienza con esfuer
 zo, comienza con \TU/IBMPlexSerif(0)/b/n/10.95 alinear el pensamiento
  []
 
 
-Underfull \hbox (badness 2111) in paragraph at lines 8207--8209
+Underfull \hbox (badness 2111) in paragraph at lines 8235--8237
 []\TU/IBMPlexSerif(2)/m/it/10.95 « ni presenten los miembros de su cuerpo al pe
 cado como instrumentos de iniquidad, sino
  []
@@ -2877,13 +2877,13 @@ cado como instrumentos de iniquidad, sino
 
 
 [136]
-Overfull \hbox (19.74661pt too wide) in paragraph at lines 8239--8239
+Overfull \hbox (19.74661pt too wide) in paragraph at lines 8267--8267
  []\TU/IBMPlexSerif(0)/m/n/10.95 No nos presentamos como personas que intentan 
 vivir. Nos presentamos como personas
  []
 
 
-Overfull \hbox (15.8849pt too wide) in paragraph at lines 8287--8287
+Overfull \hbox (15.8849pt too wide) in paragraph at lines 8315--8315
  []\TU/IBMPlexSerif(0)/m/n/10.95 Resumen del flujo del argumento: El pecado rei
 nó bajo Adán. El creyente fue transferido
  []
@@ -2891,7 +2891,7 @@ nó bajo Adán. El creyente fue transferido
 
 
 [137]
-Overfull \hbox (16.0409pt too wide) in paragraph at lines 8358--8358
+Overfull \hbox (16.0409pt too wide) in paragraph at lines 8386--8386
  []\TU/IBMPlexSerif(0)/m/n/10.95 La objeción es comprensible: si la ley ya no g
 obierna, ¿qué impide una vida pecaminosa? 
  []
@@ -2899,13 +2899,13 @@ obierna, ¿qué impide una vida pecaminosa?
 
 
 [138]
-Overfull \hbox (2.96756pt too wide) in paragraph at lines 8368--8368
+Overfull \hbox (2.96756pt too wide) in paragraph at lines 8396--8396
  []\TU/IBMPlexSerif(0)/m/n/10.95 La gracia nunca es presentada como neutral fre
 nte al pecado. Tampoco es presentada
  []
 
 
-Overfull \hbox (0.71188pt too wide) in paragraph at lines 8394--8394
+Overfull \hbox (0.71188pt too wide) in paragraph at lines 8422--8422
  []\TU/IBMPlexSerif(0)/m/n/10.95 No existe un estado neutral sin señorío. Los d
 os amos no se definen aquí por nombres
  []
@@ -2919,7 +2919,7 @@ os amos no se definen aquí por nombres
 [141]
 
 [142]
-Overfull \hbox (12.28354pt too wide) in paragraph at lines 8671--8671
+Overfull \hbox (12.28354pt too wide) in paragraph at lines 8699--8699
  []\TU/IBMPlexSerif(2)/m/it/10.95 «Santificación» \TU/IBMPlexSerif(0)/m/n/10.95
  aquí funciona como dirección y resultado progresivo del nuevo dominio. 
  []
@@ -2927,19 +2927,13 @@ Overfull \hbox (12.28354pt too wide) in paragraph at lines 8671--8671
 
 
 [143]
-Overfull \hbox (8.02031pt too wide) in paragraph at lines 8750--8751
+Overfull \hbox (31.01537pt too wide) in paragraph at lines 8778--8779
 []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo explica el argumento con una analogía sim
 ple: presentación,
  []
 
 
-Overfull \hbox (11.76157pt too wide) in paragraph at lines 8759--8759
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Romanos 6 concluye con un contraste absoluto: p
-aga versus dádiva. 
- []
-
-
-Overfull \hbox (3.9202pt too wide) in paragraph at lines 8782--8782
+Overfull \hbox (3.9202pt too wide) in paragraph at lines 8810--8810
  []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo aclara que se dirige a personas que “con
 ocen la ley”. Esto no limita el argumento
  []
@@ -2947,13 +2941,13 @@ ocen la ley”. Esto no limita el argumento
 
 
 [144]
-Overfull \hbox (12.49092pt too wide) in paragraph at lines 8834--8834
+Overfull \hbox (12.49092pt too wide) in paragraph at lines 8862--8862
  []\TU/IBMPlexSerif(0)/m/n/10.95 Por eso, el matrimonio no es solo una promesa 
 privada, sino una relación jurídicamente
  []
 
 
-Overfull \hbox (11.67183pt too wide) in paragraph at lines 8858--8858
+Overfull \hbox (11.67183pt too wide) in paragraph at lines 8886--8886
  []\TU/IBMPlexSerif(0)/m/n/10.95 Cualquier unión con otro hombre sería consider
 ada ilegal, no por razones emocionales,
  []
@@ -2967,13 +2961,13 @@ ada ilegal, no por razones emocionales,
 [147]
 
 [148]
-Overfull \hbox (37.74742pt too wide) in paragraph at lines 9093--9093
+Overfull \hbox (37.74742pt too wide) in paragraph at lines 9121--9121
  \TU/IBMPlexSerif(0)/m/n/10.95 introduce un mandamiento, el pecado se activa y 
 produce toda clase de deseos pecaminosos. 
  []
 
 
-Overfull \hbox (0.40062pt too wide) in paragraph at lines 9097--9097
+Overfull \hbox (0.40062pt too wide) in paragraph at lines 9125--9125
  []\TU/IBMPlexSerif(0)/m/n/10.95 La personificación del pecado es coherente con
  Romanos 5–6, donde el pecado actúa,
  []
@@ -2981,25 +2975,25 @@ Overfull \hbox (0.40062pt too wide) in paragraph at lines 9097--9097
 
 
 [149]
-Overfull \hbox (13.13524pt too wide) in paragraph at lines 9099--9099
+Overfull \hbox (13.13524pt too wide) in paragraph at lines 9127--9127
  []\TU/IBMPlexSerif(0)/m/n/10.95 La ley nunca es culpada; gramaticalmente es se
 cundaria y utilizada instrumentalmente
  []
 
 
-Overfull \hbox (7.39407pt too wide) in paragraph at lines 9111--9111
+Overfull \hbox (7.39407pt too wide) in paragraph at lines 9139--9139
  []\TU/IBMPlexSerif(0)/m/n/10.95 La secuencia es explícita y ordenada: vida ant
 erior sin la ley, llegada del mandamiento,
  []
 
 
-Overfull \hbox (25.90321pt too wide) in paragraph at lines 9113--9113
+Overfull \hbox (25.90321pt too wide) in paragraph at lines 9141--9141
  []\TU/IBMPlexSerif(0)/m/n/10.95 Esto describe un estado anterior de vida sin l
 a ley, seguido por la llegada del mandamiento,
  []
 
 
-Overfull \hbox (30.02527pt too wide) in paragraph at lines 9115--9115
+Overfull \hbox (30.02527pt too wide) in paragraph at lines 9143--9143
  \TU/IBMPlexSerif(0)/m/n/10.95 del pecado no es frenada por la ley; al contrari
 o, el pecado se activa cuando el mandamiento
  []
@@ -3007,36 +3001,48 @@ o, el pecado se activa cuando el mandamiento
 
 
 [150]
-Overfull \hbox (29.76337pt too wide) in paragraph at lines 9171--9173
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Celo por Dios pensando que la obediencia es vid
-a (produce alivio moral inmediato)
+Overfull \hbox (13.54895pt too wide) in paragraph at lines 9191--9192
+[]\TU/IBMPlexSerif(0)/m/n/10.95 El conocimiento apela a los sentidos y produce 
+falsa seguridad. 1 Corintios
  []
 
 
-Overfull \hbox (10.08772pt too wide) in paragraph at lines 9211--9211
+Overfull \hbox (10.91992pt too wide) in paragraph at lines 9194--9195
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Cumplir mandamientos genera conducta observable
+, control y seguridad.
+ []
+
+
+Overfull \hbox (10.42088pt too wide) in paragraph at lines 9199--9201
+\TU/IBMPlexSerif(0)/m/n/10.95 inmediato) (Romanos 10:2). El control se siente m
+ejor que la dependencia
+ []
+
+
+Overfull \hbox (6.66411pt too wide) in paragraph at lines 9225--9226
+[]\TU/IBMPlexSerif(0)/m/n/10.95 La tentación existe, pero Dios provee lo necesa
+rio para que no nos engañe
+ []
+
+
+
+[151]
+Overfull \hbox (10.08772pt too wide) in paragraph at lines 9239--9239
  []\TU/IBMPlexSerif(0)/m/n/10.95 Así vemos cómo el pecado puede usar cosas buen
 as para engañar, esclavizar y producir
  []
 
 
 
-[151]
-
 [152]
+
+[153]
 File: images/measure-up.png Graphic file (type bmp)
 <images/measure-up.png>
 
 
-[153]
-
 [154]
-Overfull \hbox (9.37962pt too wide) in paragraph at lines 9396--9398
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Con la mente sirvo a la ley de Dios, pero en lo
-s miembros a la ley del pecado (Romanos
- []
-
-
-Overfull \hbox (0.37727pt too wide) in paragraph at lines 9432--9432
+Overfull \hbox (0.37727pt too wide) in paragraph at lines 9460--9460
  []\TU/IBMPlexSerif(0)/m/n/10.95 El pecado es descrito como algo que mora en el
  interior y produce acciones contrarias
  []
@@ -3046,13 +3052,13 @@ Overfull \hbox (0.37727pt too wide) in paragraph at lines 9432--9432
 [155]
 
 [156]
-Overfull \hbox (8.54965pt too wide) in paragraph at lines 9514--9514
+Overfull \hbox (8.54965pt too wide) in paragraph at lines 9542--9542
  []\TU/IBMPlexSerif(0)/m/n/10.95 La incapacidad de hacer el bien y la práctica 
 del mal no proceden de su nueva identidad
  []
 
 
-Overfull \hbox (2.22195pt too wide) in paragraph at lines 9550--9550
+Overfull \hbox (2.22195pt too wide) in paragraph at lines 9578--9578
  []\TU/IBMPlexSerif(0)/m/n/10.95 Esta afirmación mantiene la responsabilidad pe
 rsonal, pero distingue correctamente
  []
@@ -3060,19 +3066,19 @@ rsonal, pero distingue correctamente
 
 
 [157]
-Overfull \hbox (2.45561pt too wide) in paragraph at lines 9586--9586
+Overfull \hbox (2.45561pt too wide) in paragraph at lines 9614--9614
  []\TU/IBMPlexSerif(0)/m/n/10.95 siempre que hay una voluntad presente de hacer
  el bien, el mal está simultáneamente
  []
 
 
-Overfull \hbox (5.02156pt too wide) in paragraph at lines 9598--9598
+Overfull \hbox (5.02156pt too wide) in paragraph at lines 9626--9626
  []\TU/IBMPlexSerif(0)/m/n/10.95 sitúa el deleite en relación con la ley de Dio
 s, no en el esfuerzo propio ni en el resultado. 
  []
 
 
-Overfull \hbox (3.62701pt too wide) in paragraph at lines 9600--9600
+Overfull \hbox (3.62701pt too wide) in paragraph at lines 9628--9628
  []\TU/IBMPlexSerif(0)/m/n/10.95 Este versículo refuerza que el conflicto no es
  hostilidad hacia la ley; la persona interior
  []
@@ -3080,22 +3086,22 @@ Overfull \hbox (3.62701pt too wide) in paragraph at lines 9600--9600
 
 
 [158]
-Overfull \hbox (13.56914pt too wide) in paragraph at lines 9674--9676
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Las prohibiciones, el separarse del mundo, hace
-r más o hacer menos, no son maneras
+Overfull \hbox (13.35307pt too wide) in paragraph at lines 9699--9702
+[]\TU/IBMPlexSerif(0)/m/n/10.95 La madurez espiritual impuesta por el hombre no
+ significa liberación del pecado. 
  []
 
 
 
 [159]
-Overfull \hbox (23.1766pt too wide) in paragraph at lines 9720--9721
+Overfull \hbox (46.17166pt too wide) in paragraph at lines 9748--9749
 []\TU/IBMPlexSerif(0)/m/n/10.95 El capítulo deja al lector \TU/IBMPlexSerif(0)/
 b/n/10.95 sin salida en la ley\TU/IBMPlexSerif(0)/m/n/10.95 , para abrir comple
 tamente
  []
 
 
-Overfull \hbox (2.33755pt too wide) in paragraph at lines 9735--9737
+Overfull \hbox (2.33755pt too wide) in paragraph at lines 9763--9765
 []\TU/IBMPlexSerif(0)/m/n/10.95 Encontramos en los versículos 1–4 un argumento 
 continuo. Gramaticalmente, ninguno
  []
@@ -3103,7 +3109,7 @@ continuo. Gramaticalmente, ninguno
 
 
 [160]
-Overfull \hbox (14.44005pt too wide) in paragraph at lines 9824--9824
+Overfull \hbox (14.44005pt too wide) in paragraph at lines 9852--9852
 []| \TU/IBMPlexSerif(2)/m/it/10.95 «No es hasta que entendemos que la vida cris
 tiana, provista por la obra de Cristo, es principalmente
  []
@@ -3111,7 +3117,7 @@ tiana, provista por la obra de Cristo, es principalmente
 
 
 [161]
-Overfull \hbox (10.53233pt too wide) in paragraph at lines 9864--9864
+Overfull \hbox (10.53233pt too wide) in paragraph at lines 9892--9892
  []\TU/IBMPlexSerif(0)/m/n/10.95 no como pecador, sino como ofrenda por el peca
 do, en lugar del pecador, para condenar
  []
@@ -3124,18 +3130,12 @@ File: images/regla-y-plataforma.png Graphic file (type bmp)
 
 
 [163]
-Overfull \hbox (1.85912pt too wide) in paragraph at lines 9923--9923
-[]\TU/IBMPlexSerif(0)/m/n/10.95 No existe ninguna condenación para los que está
-n en Cristo Jesús. 
- []
-
-
 
 [164]
 File: images/mind-flesh.png Graphic file (type bmp)
 <images/mind-flesh.png>
 
-Overfull \hbox (9.18254pt too wide) in paragraph at lines 10027--10027
+Overfull \hbox (9.18254pt too wide) in paragraph at lines 10055--10055
  []\TU/IBMPlexSerif(0)/m/n/10.95 Esta enemistad no se presenta como una elecció
 n consciente, sino como una condición
  []
@@ -3145,13 +3145,13 @@ n consciente, sino como una condición
 [165]
 
 [166]
-Overfull \hbox (6.33069pt too wide) in paragraph at lines 10083--10083
+Overfull \hbox (6.33069pt too wide) in paragraph at lines 10111--10111
  []\TU/IBMPlexSerif(0)/m/n/10.95 El texto pasa de descripción general (vv. 5–8)
  a aplicación directa, situando al creyente
  []
 
 
-Overfull \hbox (12.06374pt too wide) in paragraph at lines 10099--10099
+Overfull \hbox (12.06374pt too wide) in paragraph at lines 10127--10127
  []\TU/IBMPlexSerif(0)/m/n/10.95 La construcción EN + dativo expresa esfera o d
 ominio: el creyente existe \TU/IBMPlexSerif(2)/m/it/10.95 «en el Espíritu»\TU/I
 BMPlexSerif(0)/m/n/10.95 . 
@@ -3167,13 +3167,7 @@ File: images/settled.png Graphic file (type bmp)
 [168]
 
 [169]
-Overfull \hbox (8.378pt too wide) in paragraph at lines 10210--10210
-[]\TU/IBMPlexSerif(0)/m/n/10.95 La vida cristiana se experimenta desde una nuev
-a realidad interior. 
- []
-
-
-Overfull \hbox (4.00319pt too wide) in paragraph at lines 10219--10222
+Overfull \hbox (4.00319pt too wide) in paragraph at lines 10247--10250
 []\TU/IBMPlexSerif(0)/m/n/10.95 El pasaje continúa la lógica de 8:1–11, pero in
 troduce un nuevo tono: ya no solo describe
  []
@@ -3190,7 +3184,7 @@ File: images/hijos-de-dios.png Graphic file (type bmp)
 [172]
 
 [173]
-Overfull \hbox (21.28824pt too wide) in paragraph at lines 10418--10418
+Overfull \hbox (21.28824pt too wide) in paragraph at lines 10446--10446
  \TU/IBMPlexSerif(0)/b/n/12 Romanos 8:18-39 GLORIFICACIÓN: ESPERANZA Y SEGURIDA
 D EN EL PROPÓSITO
  []
@@ -3203,7 +3197,7 @@ File: images/glorificacion.png Graphic file (type bmp)
 File: images/sufrimiento.png Graphic file (type bmp)
 <images/sufrimiento.png>
 
-Overfull \hbox (10.96619pt too wide) in paragraph at lines 10471--10471
+Overfull \hbox (10.96619pt too wide) in paragraph at lines 10499--10499
  []\TU/IBMPlexSerif(0)/m/n/10.95 Esto no significa que el sufrimiento actual se
 a agradable. Sin embargo, en comparación
  []
@@ -3218,7 +3212,7 @@ File: images/revealed sons....png Graphic file (type bmp)
 
 
 [177]
-Overfull \hbox (14.83636pt too wide) in paragraph at lines 10569--10569
+Overfull \hbox (14.83636pt too wide) in paragraph at lines 10597--10597
  []\TU/IBMPlexSerif(0)/m/n/10.95 Ejemplos: aumento de entropía (segunda ley de 
 la termodinámica), fatiga de materiales,
  []
@@ -3226,37 +3220,37 @@ la termodinámica), fatiga de materiales,
 
 
 [178]
-Overfull \hbox (5.29045pt too wide) in paragraph at lines 10571--10571
+Overfull \hbox (5.29045pt too wide) in paragraph at lines 10599--10599
  \TU/IBMPlexSerif(0)/m/n/10.95 bajo tensión, no en equilibrio. Esto coincide co
 n la descripción bíblica de una creación
  []
 
 
-Overfull \hbox (29.79799pt too wide) in paragraph at lines 10599--10599
+Overfull \hbox (29.79799pt too wide) in paragraph at lines 10627--10627
  []\TU/IBMPlexSerif(0)/m/n/10.95 Gemimos (presente, activo, indicativo). Esta e
 s la afirmación principal sobre la experiencia
  []
 
 
-Overfull \hbox (40.93172pt too wide) in paragraph at lines 10605--10605
+Overfull \hbox (40.93172pt too wide) in paragraph at lines 10633--10633
  []\TU/IBMPlexSerif(0)/m/n/10.95 En el primer siglo, la adopción estaba vincula
 da no solo a la filiación legal, sino especialmente
  []
 
 
-Overfull \hbox (3.19435pt too wide) in paragraph at lines 10607--10607
+Overfull \hbox (3.19435pt too wide) in paragraph at lines 10635--10635
  []\TU/IBMPlexSerif(0)/m/n/10.95 Parte de nuestra herencia, aunque ya es legalm
 ente nuestra, aún no la hemos recibido
  []
 
 
-Overfull \hbox (5.54326pt too wide) in paragraph at lines 10607--10607
+Overfull \hbox (5.54326pt too wide) in paragraph at lines 10635--10635
  \TU/IBMPlexSerif(0)/m/n/10.95 plenamente. Un aspecto de esa herencia es la tra
 nsformación corporal. Esto completa
  []
 
 
-Overfull \hbox (4.03604pt too wide) in paragraph at lines 10615--10615
+Overfull \hbox (4.03604pt too wide) in paragraph at lines 10643--10643
  []\TU/IBMPlexSerif(0)/m/n/10.95 El cumplimiento total de nuestra adopción es l
 a redención del cuerpo, cuando seamos
  []
@@ -3264,66 +3258,66 @@ a redención del cuerpo, cuando seamos
 
 
 [179]
-Overfull \hbox (11.86746pt too wide) in paragraph at lines 10621--10621
+Overfull \hbox (11.86746pt too wide) in paragraph at lines 10649--10649
  []\TU/IBMPlexSerif(0)/m/n/10.95 1 Corintios 15:51-54 \TU/IBMPlexSerif(2)/m/it/
 10.95 «Todos seremos transformados… lo mortal se vestirá de inmortalidad.» 
  []
 
 
-Overfull \hbox (9.5047pt too wide) in paragraph at lines 10659--10659
+Overfull \hbox (9.5047pt too wide) in paragraph at lines 10687--10687
  []\TU/IBMPlexSerif(0)/m/n/10.95 “Esperamos con ansias mediante la perseveranci
 a.” La cláusula condicional especifica
  []
 
 
+Overfull \hbox (3.56009pt too wide) in paragraph at lines 10694--10694
+[]\TU/IBMPlexSerif(0)/m/n/10.95 El sufrimiento presente no es comparable con la
+ gloria futura. 
+ []
+
+
 
 [180]
-Overfull \hbox (13.32745pt too wide) in paragraph at lines 10683--10684
+Overfull \hbox (13.32745pt too wide) in paragraph at lines 10711--10712
 []\TU/IBMPlexSerif(0)/m/n/10.95 (La intercesión divina suple la incapacidad hum
 ana y garantiza alineación con la voluntad
  []
 
 
-Overfull \hbox (6.25743pt too wide) in paragraph at lines 10698--10698
+Overfull \hbox (6.25743pt too wide) in paragraph at lines 10726--10726
  []\TU/IBMPlexSerif(0)/m/n/10.95 La debilidad no se presenta como un defecto mo
 ral ni como una falta de espiritualidad.
  []
 
 
-Overfull \hbox (15.61746pt too wide) in paragraph at lines 10723--10725
-[]\TU/IBMPlexSerif(0)/m/n/10.95 En ese contexto, \TU/IBMPlexSerif(0)/b/n/10.95 
-no siempre sabemos qué pedir de manera alineada con el propósito
- []
-
-
 
 [181]
-Overfull \hbox (23.99059pt too wide) in paragraph at lines 10757--10757
+Overfull \hbox (23.99059pt too wide) in paragraph at lines 10785--10785
  []\TU/IBMPlexSerif(0)/m/n/10.95 El énfasis aquí no está en los corazones human
 os, sino en que \TU/IBMPlexSerif(0)/b/n/10.95 Dios conoce perfectamente
  []
 
 
-Overfull \hbox (26.08449pt too wide) in paragraph at lines 10759--10759
+Overfull \hbox (26.08449pt too wide) in paragraph at lines 10787--10787
  []\TU/IBMPlexSerif(0)/m/n/10.95 La intercesión del Espíritu no es ambigua, con
 fusa ni incierta. Dios no necesita interpretar
  []
 
 
-Overfull \hbox (3.0892pt too wide) in paragraph at lines 10761--10761
+Overfull \hbox (3.0892pt too wide) in paragraph at lines 10789--10789
  []\TU/IBMPlexSerif(0)/m/n/10.95 El texto afirma una \TU/IBMPlexSerif(0)/b/n/10
 .95 plena correspondencia de entendimiento \TU/IBMPlexSerif(0)/m/n/10.95 entre 
 Dios y el Espíritu. 
  []
 
 
-Overfull \hbox (12.5525pt too wide) in paragraph at lines 10771--10771
+Overfull \hbox (12.5525pt too wide) in paragraph at lines 10799--10799
  []\TU/IBMPlexSerif(0)/m/n/10.95 No hay tensión entre lo que el Espíritu pide y
  lo que Dios desea hacer. No hay corrección,
  []
 
 
-Overfull \hbox (0.60503pt too wide) in paragraph at lines 10773--10773
+Overfull \hbox (0.60503pt too wide) in paragraph at lines 10801--10801
  []\TU/IBMPlexSerif(0)/m/n/10.95 El Espíritu no intercede según emociones human
 as, necesidades percibidas o deseos
  []
@@ -3331,7 +3325,19 @@ as, necesidades percibidas o deseos
 
 
 [182]
-Overfull \hbox (5.04318pt too wide) in paragraph at lines 10835--10835
+Overfull \hbox (6.70636pt too wide) in paragraph at lines 10812--10812
+[]\TU/IBMPlexSerif(0)/m/n/10.95 El Espíritu acompaña activamente al creyente en
+ su debilidad. 
+ []
+
+
+Overfull \hbox (22.04367pt too wide) in paragraph at lines 10820--10821
+[]\TU/IBMPlexSerif(0)/m/n/10.95 La voluntad de Dios nunca queda comprometida po
+r la limitación
+ []
+
+
+Overfull \hbox (5.04318pt too wide) in paragraph at lines 10863--10863
  []\TU/IBMPlexSerif(0)/m/n/10.95 La misma frase aparece tres veces en el Nuevo 
 Testamento (Romanos 8:28; 1 Corintios
  []
@@ -3339,13 +3345,13 @@ Testamento (Romanos 8:28; 1 Corintios
 
 
 [183]
-Overfull \hbox (28.11726pt too wide) in paragraph at lines 10845--10845
+Overfull \hbox (28.11726pt too wide) in paragraph at lines 10873--10873
  []\TU/IBMPlexSerif(0)/m/n/10.95 Las cosas que cooperan para bien no son identi
 ficadas aquí porque ya fueron mencionadas
  []
 
 
-Overfull \hbox (4.69522pt too wide) in paragraph at lines 10858--10858
+Overfull \hbox (4.69522pt too wide) in paragraph at lines 10886--10886
  []\TU/IBMPlexSerif(0)/m/n/10.95 En los versículos siguientes veremos más acerc
 a de \TU/IBMPlexSerif(2)/m/it/10.95 «todas las cosas» \TU/IBMPlexSerif(0)/m/n/1
 0.95 y del bien provisto
@@ -3354,27 +3360,27 @@ a de \TU/IBMPlexSerif(2)/m/it/10.95 «todas las cosas» \TU/IBMPlexSerif(0)/m/n/
 
 
 [184]
-Overfull \hbox (8.07877pt too wide) in paragraph at lines 10888--10888
+Overfull \hbox (8.07877pt too wide) in paragraph at lines 10916--10916
  []\TU/IBMPlexSerif(0)/m/n/10.95 La gramática presenta esta secuencia como un t
 odo: \TU/IBMPlexSerif(0)/b/n/10.95 todos los verbos están en aoristo\TU/IBMPlex
 Serif(0)/m/n/10.95 ,
  []
 
 
-Overfull \hbox (6.16983pt too wide) in paragraph at lines 10910--10910
+Overfull \hbox (6.16983pt too wide) in paragraph at lines 10938--10938
  []\TU/IBMPlexSerif(0)/m/n/10.95 Dios conoce todas las cosas. 1 Juan 3:20; 1 Sa
 muel 2:3; Salmo 44:21; 147:5; Proverbios
  []
 
 
-Overfull \hbox (7.832pt too wide) in paragraph at lines 10924--10924
+Overfull \hbox (7.832pt too wide) in paragraph at lines 10950--10950
  []\TU/IBMPlexSerif(0)/m/n/10.95 Lo que sí afirma claramente es que Dios \TU/IB
 MPlexSerif(0)/b/n/10.95 causó los siguientes eslabones\TU/IBMPlexSerif(0)/m/n/1
 0.95 , todos basados
  []
 
 
-Overfull \hbox (16.50359pt too wide) in paragraph at lines 10930--10930
+Overfull \hbox (16.50359pt too wide) in paragraph at lines 10956--10956
  []\TU/IBMPlexSerif(0)/m/n/10.95 A los que Dios conoció de antemano, también lo
 s predestinó con un propósito específico:
  []
@@ -3382,13 +3388,7 @@ s predestinó con un propósito específico:
 
 
 [185]
-Overfull \hbox (14.01724pt too wide) in paragraph at lines 10981--10981
-[]\TU/IBMPlexSerif(0)/m/n/10.95 La glorificación futura se declara segura desde
- la perspectiva divina. 
- []
-
-
-Overfull \hbox (29.07115pt too wide) in paragraph at lines 10995--11000
+Overfull \hbox (29.07115pt too wide) in paragraph at lines 11021--11026
 \TU/IBMPlexSerif(0)/m/n/10.95 pasado y presente. Se acumulan posibles amenazas 
 en listas amplias y paralelas. Conclusión
  []
@@ -3396,7 +3396,7 @@ en listas amplias y paralelas. Conclusión
 
 
 [186]
-Overfull \hbox (11.948pt too wide) in paragraph at lines 11021--11021
+Overfull \hbox (11.948pt too wide) in paragraph at lines 11047--11047
  []\TU/IBMPlexSerif(0)/m/n/10.95 Hemos visto que Dios ha estado, sigue estando 
 y estará siempre por nosotros. Entonces,
  []
@@ -3404,7 +3404,7 @@ y estará siempre por nosotros. Entonces,
 
 
 [187]
-Overfull \hbox (1.09047pt too wide) in paragraph at lines 11113--11113
+Overfull \hbox (1.09047pt too wide) in paragraph at lines 11139--11139
  []\TU/IBMPlexSerif(0)/m/n/10.95 Cristo no puede ser quien nos condene, porque 
 Dios confirmó que aceptó plenamente
  []
@@ -3412,25 +3412,25 @@ Dios confirmó que aceptó plenamente
 
 
 [188]
-Overfull \hbox (44.81598pt too wide) in paragraph at lines 11131--11131
+Overfull \hbox (44.81598pt too wide) in paragraph at lines 11157--11157
  []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo presenta siete posibles situaciones extr
 emas que podrían hacernos sentir abandonados
  []
 
 
-Overfull \hbox (15.64032pt too wide) in paragraph at lines 11137--11137
+Overfull \hbox (15.64032pt too wide) in paragraph at lines 11163--11163
  []\TU/IBMPlexSerif(0)/m/n/10.95 ¿Qué pasa si atravesamos grandes problemas o s
 ufrimos fuertes aflicciones? 2 Corintios
  []
 
 
-Overfull \hbox (18.12233pt too wide) in paragraph at lines 11143--11143
+Overfull \hbox (18.12233pt too wide) in paragraph at lines 11169--11169
  []\TU/IBMPlexSerif(0)/m/n/10.95 ¿Qué sucede si enfrentamos tiempos de profunda
  presión y dolor emocional? 2 Corintios
  []
 
 
-Overfull \hbox (5.08818pt too wide) in paragraph at lines 11167--11167
+Overfull \hbox (5.08818pt too wide) in paragraph at lines 11193--11193
  []\TU/IBMPlexSerif(0)/m/n/10.95 ¿Qué si enfrentamos riesgos extremos y amenaza
 s constantes? (2 Corintios 11:23–27) 
  []
@@ -3440,32 +3440,32 @@ s constantes? (2 Corintios 11:23–27)
 [189]
 
 [190]
-Overfull \hbox (10.08997pt too wide) in paragraph at lines 11291--11291
+Overfull \hbox (10.08997pt too wide) in paragraph at lines 11317--11317
 []| \TU/IBMPlexSerif(2)/m/it/10.95 «Nuestra unión con Cristo garantiza que nada
  en toda la creación hará que Dios deje de amarnos.» 
  []
 
 
-Overfull \hbox (5.48514pt too wide) in paragraph at lines 11295--11295
+Overfull \hbox (5.48514pt too wide) in paragraph at lines 11321--11321
 []| \TU/IBMPlexSerif(2)/m/it/10.95 «Para que eso ocurriera, Dios tendría que de
 jar de amar a Su propio Hijo —y eso nunca sucederá.» 
  []
 
 
-Overfull \hbox (18.56038pt too wide) in paragraph at lines 11318--11322
+Overfull \hbox (18.56038pt too wide) in paragraph at lines 11344--11348
 []\TU/IBMPlexSerif(0)/m/n/10.95 Romanos 8 no es una afirmación aislada ni abstr
 acta. Romanos 9–11 existen precisamente
  []
 
 
-Overfull \hbox (6.19778pt too wide) in paragraph at lines 11318--11322
+Overfull \hbox (6.19778pt too wide) in paragraph at lines 11344--11348
 \TU/IBMPlexSerif(0)/m/n/10.95 porque Romanos 8 \TU/IBMPlexSerif(0)/b/n/10.95 po
 dría ser cuestionado\TU/IBMPlexSerif(0)/m/n/10.95 . Pablo anticipa que alguien 
 haga la pregunta,
  []
 
 
-Overfull \hbox (23.54895pt too wide) in paragraph at lines 11318--11322
+Overfull \hbox (23.54895pt too wide) in paragraph at lines 11344--11348
 \TU/IBMPlexSerif(0)/m/n/10.95 “si Dios cumple sus promesas sin importar la part
 icipación del hombre, ¿Cómo entendemos
  []
@@ -3481,11 +3481,11 @@ icipación del hombre, ¿Cómo entendemos
 [194]
 
 LaTeX Font Warning: Font shape `TU/IBMPlexSerif(2)/b/n' undefined
-(Font)              using `TU/IBMPlexSerif(2)/m/n' instead on input line 11545.
+(Font)              using `TU/IBMPlexSerif(2)/m/n' instead on input line 11571.
 
 
 
-Overfull \hbox (29.14291pt too wide) in paragraph at lines 11551--11570
+Overfull \hbox (29.14291pt too wide) in paragraph at lines 11577--11596
 \TU/IBMPlexSerif(0)/b/n/10.95 Presente \TU/IBMPlexSerif(0)/m/n/10.95 | En curso
  | \TU/IBMPlexSerif(0)/b/n/10.95 Expresado \TU/IBMPlexSerif(0)/m/n/10.95 | Pres
 ente / Imperativo | \TU/IBMPlexSerif(0)/b/n/10.95 Vida vivida bajo ese estatus 
@@ -3494,7 +3494,7 @@ BMPlexSerif(0)/m/n/10.95 ,
  []
 
 
-Overfull \hbox (24.32634pt too wide) in paragraph at lines 11551--11570
+Overfull \hbox (24.32634pt too wide) in paragraph at lines 11577--11596
 \TU/IBMPlexSerif(0)/b/n/10.95 Futuro \TU/IBMPlexSerif(0)/m/n/10.95 | Esperado |
  \TU/IBMPlexSerif(0)/b/n/10.95 Consumado \TU/IBMPlexSerif(0)/m/n/10.95 | Futuro
  | \TU/IBMPlexSerif(0)/b/n/10.95 Estado plenamente realizado \TU/IBMPlexSerif(0
@@ -3517,15 +3517,15 @@ L3 programming layer <2025-01-18>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `teacher_manual.out' has not changed.
-(rerunfilecheck)             Checksum: 21E308AF31E8B74E7D4824B605CB2878;52595.
+(rerunfilecheck)             Checksum: A96C2104316D1DE54BF32692C779848A;53477.
  ) 
 Here is how much of TeX's memory you used:
- 31292 strings out of 473832
- 675370 string characters out of 5729482
- 1216911 words of memory out of 5000000
- 53837 multiletter control sequences out of 15000+600000
+ 31303 strings out of 473832
+ 675554 string characters out of 5729482
+ 1219178 words of memory out of 5000000
+ 53848 multiletter control sequences out of 15000+600000
  564312 words of font info for 84 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 121i,17n,124p,634b,1427s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 121i,17n,124p,540b,1427s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on teacher_manual.pdf (196 pages).

@@ -10,17 +10,19 @@ date: "2026-01-29"
 
 INTRODUCCIÓN
 
-ROMANOS 1:1–17 – EL EVANGELIO QUE DIOS ANUNCIÓ
+ROMANOS 1:1–17 – Introducción y tesis del evangelio
 
-Romanos 1:18–3:20 – EL MUNDO NECESITA SALVACIÓN
+Romanos 1:18–3:20 – La revelación de la ira y la responsabilidad universal
 
-ROMANOS 3:21–5:21 – JUSTIFICACIÓN: LA JUSTICIA QUE DIOS PROVEE
+ROMANOS 3:21–4:25 – La justicia revelada y confirmada
 
-ROMANOS 6:1-8:17 SANTIFICACIÓN: LA VIDA QUE BROTA DE LA JUSTIFICACIÓN
-
-Romanos 8:18-39 GLORIFICACIÓN: ESPERANZA Y SEGURIDAD EN EL PROPÓSITO DE DIOS
+ROMANOS 5:1-8:39 La nueva realidad y sus implicaciones
 
 EPÍLOGO VISUAL
+
+ROMANOS 9:1-11:36 - Israel y la Fidelidad de Dios
+ROMANOS 12:1-15:13 - Exhortaciones que surgen del evangelio
+ROMANOS 15:14-16:27 - Conclusion y Saludos
 
 APÉNDICE
 
@@ -95,9 +97,9 @@ A lo largo de la carta, Pablo \fillin{utiliza} de manera constante un patrón re
 \textbf{Generalmente:}
 Explica un principio (a menudo introducido con GAR, OUN, EPEIDE, EAN), presenta un \fillin{ejemplo} (una persona o grupo que encarna ese principio), y completa el pensamiento con una conclusión o inferencia.
 
-# ROMANOS 1:1–17 – EL EVANGELIO QUE DIOS ANUNCIÓ
+# ROMANOS 1:1–17 – Introducción y tesis del evangelio
 
-## Romanos 1:1–7 – El evangelio prometido y revelado
+## Romanos 1:1–7 – Identidad apostólica y descripción del evangelio
 
 ### Romanos 1:1
 \begin{verseblock}
@@ -194,6 +196,10 @@ Es el mensaje acerca de Su Hijo, que nació de la descendencia de David según l
 
 \headingfive{Esto conecta el evangelio con las \fillin{promesas} davídicas sin desarrollarlas todavía.}
 
+### Romanos 1:4
+\begin{verseblock}
+y que fue declarado Hijo de Dios con un acto de poder, conforme al Espíritu de santidad, por la resurrección de entre los muertos: nuestro Señor Jesucristo.
+\end{verseblock}
 #### que fue declarado Hijo de Dios con poder,
 \headingfive{Su identidad fue confirmada mediante un \fillin{acto} poderoso.}
 
@@ -225,6 +231,10 @@ Es el mensaje acerca de Su Hijo, que nació de la descendencia de David según l
 
 \headingfive{La resurrección de los muertos funciona como \fillin{punto} de validación. Pablo establece la veracidad inmediata e incuestionable de Jesucristo desde el início de su carta. }
 
+### Romanos 1:4
+\begin{verseblock}
+Es por medio de Él que hemos recibido la gracia y el apostolado para promover la obediencia a la fe entre todos los gentiles, por amor a Su nombre;
+\end{verseblock}
 #### por medio de Él hemos recibido la gracia y el apostolado…
 \headingfive{Pablo recibió la gracia y su rol de apostol por medio de Cristo.}
 
@@ -243,6 +253,10 @@ Es el mensaje acerca de Su Hijo, que nació de la descendencia de David según l
 - Dios no nos ha dado un espíritu de temor, entonces si somos motivados por el alarmismo, es una motivación extranjera, erronea. 1 Timoteo 1:7
     - La intimidación no es el medio que promueve obediencia a Dios.
 
+### Romanos 1:6
+\begin{verseblock}
+entre los cuales están también ustedes, llamados de Jesucristo.
+\end{verseblock}
 #### entre los cuales están también ustedes…
 \headingfive{Los creyentes en \fillin{Roma} forman parte de ese alcance.}
 
@@ -254,6 +268,10 @@ Es el mensaje acerca de Su Hijo, que nació de la descendencia de David según l
 #### llamados de Jesucristo.
 \headingfive{Su identidad está \fillin{definida} por Aquel a quien pertenecen. Estos creyentes en Roma han sido llamados de la misma manera que Pablo. Ellos son entre los que "estan también" de Jesucristo. }
 
+### Romanos 1:7 
+\begin{verseblock}
+A todos los amados de Dios que están en Roma, llamados a ser santos: Gracia y paz a ustedes de parte de Dios nuestro Padre y del Señor Jesucristo.
+\end{verseblock}
 #### a todos los amados de Dios que están en Roma,
 \headingfive{Esta expresión se refiere a \fillin{creyentes} en Jesucristo. }
 - Aunque estén en Roma, aunque Pablo tal vez no los conoce, son amados de Dios.
@@ -270,7 +288,7 @@ Es el mensaje acerca de Su Hijo, que nació de la descendencia de David según l
 
 \headingfive{La carta comienza con lo que Dios es y \fillin{da}, no con lo que exige. }
 
-> **En Síntesis (1:1–7)
+>En Síntesis (1:1–7)
 >
 >- El evangelio tiene su origen en Dios, no en el hombre.
 >
@@ -282,9 +300,7 @@ Es el mensaje acerca de Su Hijo, que nació de la descendencia de David según l
 >
 >- Desde el inicio, el evangelio \fillin{tiene} un alcance universal.
 
-## Romanos 1:8–17 – El evangelio <u>como</u> poder de Dios
-(No es \fillin{solo} información, sino poder eficaz. 1 Corintios 1:18)
-
+## Romanos 1:8–15 – Relación con los creyentes en Roma
 ### Romanos 1:8
 \begin{verseblock}
 En primer lugar, doy gracias a mi Dios por medio de Jesucristo por todos ustedes, porque por todo el mundo se habla de su fe.
@@ -416,7 +432,10 @@ Así que, por mi parte, ansioso estoy de anunciar el evangelio también a ustede
 
 \headingfive{El evangelio no se deja atrás: los creyentes permanecen en él y \fillin{siguen} siendo edificados por su poder. 1 Corintios 15:1–2}
 
+## Romanos 1:16–17 Declaración central del evangelio
+
 ### Romanos 1:16
+
 \begin{verseblock}
 Porque no me avergüenzo del evangelio, pues es el poder de Dios para la salvación de todo el que cree, del judío primeramente y también del griego.
 \end{verseblock}
@@ -478,11 +497,11 @@ fe - PISTIS
 ### El evangelio no comienza con el hombre, <u>sino</u> con Dios y Su propósito.
 
 \begin{verseblock}
-> **En Síntesis (1:8–17) > >- Pablo presenta el evangelio \fillin{como} poder eficaz, no solo como información. > >- El evangelio es poder de Dios para salvación para \fillin{todo} el que cree. > >- La justicia de Dios se revela en el evangelio y gobierna la \fillin{vida} del creyente. > >- Esta sección establece la tesis que \fillin{gobierna} toda la carta. > >- Todo lo que sigue explica por qué este \fillin{poder} es necesario y suficiente.
+>En Síntesis (1:8–17) > >- Pablo presenta el evangelio \fillin{como} poder eficaz, no solo como información. > >- El evangelio es poder de Dios para salvación para \fillin{todo} el que cree. > >- La justicia de Dios se revela en el evangelio y gobierna la \fillin{vida} del creyente. > >- Esta sección establece la tesis que \fillin{gobierna} toda la carta. > >- Todo lo que sigue explica por qué este \fillin{poder} es necesario y suficiente.
 \end{verseblock}
-# ROMANOS 1:18–3:20 – EL MUNDO NECESITA SALVACIÓN
+# ROMANOS 1:18–3:20 – La revelación de la ira y la responsabilidad universal
 
-## Romanos 1:18–23 – La revelación de la ira de Dios (resultado del rechazo de Dios como Dios)
+## Romanos 1:18–23 – La revelación de Dios y supresión de la verdad
 
 Dios es el Creador y, en el principio, todo lo que hizo reflejaba perfectamente Su carácter. El \fillin{mundo} era bueno en gran manera. No había mal, ni muerte, ni tristeza, ni dolor; todo estaba marcado por armonía, amor, paz y gozo.
 
@@ -612,7 +631,7 @@ y cambiaron la gloria del Dios incorruptible por una imagen en forma de hombre c
 #### y de aves, de cuadrúpedos y de reptiles
 \headingfive{La idolatría se degrada progresivamente, reflejando la \fillin{confusión} moral y espiritual del ser humano.}
 
-> **En Síntesis (1:18–23)
+>En Síntesis (1:18–23)
 >
 >- La ira de Dios se revela porque la \fillin{verdad} ha sido rechazada, no porque haya estado ausente.
 >
@@ -624,7 +643,7 @@ y cambiaron la gloria del Dios incorruptible por una imagen en forma de hombre c
 >
 >- Esta sección explica por qué el evangelio debe ser \fillin{poder}, no solo información.
 
-## Romanos 1:24–25 – Entrega de Dios #1: El colapso de la conducta humana
+## Romanos 1:24–25 – Entregados a los deseos del corazón
 (La degradación moral es resultado, no causa)
 
 ### Romanos 1:24
@@ -644,15 +663,15 @@ Por lo cual Dios los entregó a la impureza en la lujuria de sus corazones, de m
 
 > "\scripture{Lujuria}" EPITHYMIA describe un deseo intenso. El término no es negativo en sí mismo, pero en el Nuevo Testamento aparece mayormente con una connotación negativa cuando el deseo está desordenado o gobernado por la carne.
 
-###### Jesús usó este término para expresar un deseo profundo sin connotación pecaminosa (Lucas 22:15), lo que <u>muestra</u> que el problema no es el deseo en sí, sino su orientación y dominio.
+\headingfive{Jesús usó este término para expresar un deseo profundo sin connotación pecaminosa (Lucas 22:15), lo que \fillin{muestra} que el problema no es el deseo en sí, sino su orientación y dominio.}
 
-###### Pablo también <u>utiliza</u> este término para deseos legítimos. 1 Tesalonicenses 2:17; Filipenses 1:23
+\headingfive{Pablo también \fillin{utiliza} este término para deseos legítimos. 1 Tesalonicenses 2:17; Filipenses 1:23}
 
-###### Sin embargo, la gran mayoría de sus usos en el Nuevo Testamento describen deseos desordenados: deseos del padre Satanás (Juan 8:44), deseos de la carne (Romanos 6:12; 7:7–8; 13:14; Gálatas 5:16, 24; Efesios 2:3; Colosenses 3:5), deseos <u>propios</u> del estado previo a la fe (1 Pedro 1:14; 4:3; Tito 3:3), y deseos en contraste con la voluntad de Dios (1 Juan 2:17; 1 Pedro 4:2).
+\headingfive{Sin embargo, la gran mayoría de sus usos en el Nuevo Testamento describen deseos desordenados: deseos del padre Satanás (Juan 8:44), deseos de la carne (Romanos 6:12; 7:7–8; 13:14; Gálatas 5:16, 24; Efesios 2:3; Colosenses 3:5), deseos \fillin{propios} del estado previo a la fe (1 Pedro 1:14; 4:3; Tito 3:3), y deseos en contraste con la voluntad de Dios (1 Juan 2:17; 1 Pedro 4:2).}
 
-###### Santiago explica el proceso interno del deseo: Dios no tienta a nadie (Santiago 1:13); la tentación surge cuando cada uno es <u>llevado</u> y seducido por su propio deseo (Santiago 1:14); y cuando el deseo concibe, produce pecado, que finalmente engendra muerte (Santiago 1:15). El énfasis recae en la responsabilidad humana, no en la acción directa de Dios para tentar.
+\headingfive{Santiago explica el proceso interno del deseo: Dios no tienta a nadie (Santiago 1:13); la tentación surge cuando cada uno es \fillin{llevado} y seducido por su propio deseo (Santiago 1:14); y cuando el deseo concibe, produce pecado, que finalmente engendra muerte (Santiago 1:15). El énfasis recae en la responsabilidad humana, no en la acción directa de Dios para tentar.}
 
-###### Esta cadena <u>ayuda</u> al lector a ver cómo “lo interno” produce “lo externo” sin culpar a Dios como autor del mal, sino reconociendo la responsabilidad humana previa.
+\headingfive{Esta cadena \fillin{ayuda} al lector a ver cómo “lo interno” produce “lo externo” sin culpar a Dios como autor del mal, sino reconociendo la responsabilidad humana previa.}
 
 #### de modo que deshonraron entre sí sus propios cuerpos
 \headingfive{La deshonra del cuerpo es el resultado visible de esta \fillin{entrega}. El cuerpo se convierte en el escenario donde se manifiesta externamente lo que ya gobierna internamente el corazón.}
@@ -694,7 +713,7 @@ Porque ellos cambiaron la verdad de Dios por la mentira, y adoraron y sirvieron 
 
 \headingfive{Esto protege el hilo rector del evangelio: si Dios fuera injusto, el evangelio no podría ser “poder de Dios \fillin{para} salvación”; Pablo deja claro que Dios es justo aun al juzgar.}
 
-> \textbf{En Síntesis (1:24–25)}
+>En Síntesis (1:24–25)**
 >
 >- Dios entrega al hombre \fillin{como} consecuencia de su rechazo previo.
 >
@@ -706,7 +725,7 @@ Porque ellos cambiaron la verdad de Dios por la mentira, y adoraron y sirvieron 
 >
 >- El juicio de Dios es coherente y justo, no \fillin{arbitrario}.
 
-## Romanos 1:26–27 – Entrega de Dios 2: El colapso de valores humanos
+## Romanos 1:26–27 – Entregados a pasiones degradantes
 
 ### La consecuencia es <u>una</u> inversión de valores
 
@@ -729,9 +748,9 @@ Por esta razón Dios los entregó a pasiones degradantes; porque sus mujeres cam
 Degradantes - ATIMIA
 : se refiere a un estado de deshonra, vergüenza o descrédito.^[Bible Sense Lexicon]
 
-###### Es decir, Dios los entrega —o permite— que sus <u>pasiones</u> vergonzosas gobiernen su conducta. Esta entrega ocurre porque adoraron y sirvieron a la criatura en lugar de reconocer a Dios como Creador.
+\headingfive{Es decir, Dios los entrega —o permite— que sus \fillin{pasiones} vergonzosas gobiernen su conducta. Esta entrega ocurre porque adoraron y sirvieron a la criatura en lugar de reconocer a Dios como Creador.}
 
-###### El punto del texto no es <u>presentar</u> una “nueva libertad”, sino una esclavitud más profunda: pasiones que ahora dictan valor y conducta.
+\headingfive{El punto del texto no es \fillin{presentar} una “nueva libertad”, sino una esclavitud más profunda: pasiones que ahora dictan valor y conducta.}
 
 #### porque sus mujeres cambiaron la función natural por la que es contra la naturaleza.
 \headingfive{Pablo aclara que este cambio no es \fillin{resultado} del diseño original ni de un proceso natural de la creación.}
@@ -766,7 +785,7 @@ De la misma manera también los hombres, abandonando el uso natural de la mujer,
 
 \headingfive{El extravío se evidencia en el colapso de los valores, impulsado por deseos pecaminosos que \fillin{ahora} determinan lo que se considera aceptable.}
 
-> \textbf{En Síntesis (1:26–27)}
+>En Síntesis (1:26–27)**
 >
 >- La segunda entrega \fillin{afecta} el sistema de valores humanos.
 >
@@ -778,7 +797,7 @@ De la misma manera también los hombres, abandonando el uso natural de la mujer,
 >
 >- El colapso de \fillin{valores} revela una corrupción más profunda.
 
-## Romanos 1:28–32 – Entrega de Dios 3: El colapso de la cosmovisión humana
+## Romanos 1:28–32 – Entregados a una mente reprobada
 
 (La ira de Dios los deja \fillin{hasta} llegar a un punto sin discernimiento; se vuelven incapaces de evaluar correctamente)
 
@@ -861,7 +880,7 @@ Son chismosos - PSITHYRISTAS
 \begin{verseblock}
 detractores, aborrecedores de Dios, insolentes, soberbios, jactanciosos, inventores de lo malo, desobedientes a los padres,
 \end{verseblock}
-#### detractores,
+#### detractores
 
 detractores - KATALALOUS
 : son los que difaman y hablan mal de otros.^[Bible Sense Lexicon]
@@ -936,7 +955,7 @@ Ellos, aunque conocen el decreto de Dios que los que practican tales cosas son d
 
 \headingfive{Esto explica por qué el evangelio debe ir al mundo. El mundo no busca a Dios porque su \fillin{manera} de pensar ha sido deformada por el rechazo previo de la verdad.}
 
-> **En Síntesis (1:28–32)
+>En Síntesis (1:28–32)
 >
 >- La tercera entrega \fillin{afecta} la cosmovisión y el pensamiento humano.
 >
@@ -958,7 +977,7 @@ Ellos, aunque conocen el decreto de Dios que los que practican tales cosas son d
 >
 >- colapso de la \fillin{cosmovisión}
 
-## Romanos 2:1–5 – El juicio de Dios es imparcial
+## Romanos 2:1–5 – Juicio sobre el que juzga
 (Juzgar a otros no \fillin{exime} al hombre del juicio de Dios)
 
 \textbf{Romanos 2:1–5 – Acusación: el hombre moral condena a otros y hace lo mismo}
@@ -1046,7 +1065,7 @@ Pero por causa de tu terquedad y de tu corazón no arrepentido, estás acumuland
 
 \headingfive{Ignorar la bondad de Dios no \fillin{elimina} el juicio futuro; lo acumula.}
 
-> **En Síntesis (2:1–5)
+>En Síntesis (2:1–5)
 >
 >- Pablo \fillin{confronta} al hombre moral que juzga a otros.
 >
@@ -1058,7 +1077,7 @@ Pero por causa de tu terquedad y de tu corazón no arrepentido, estás acumuland
 >
 >- Un corazón que no \fillin{cambia} de parecer acumula juicio, no justicia.
 
-## Romanos 2:6–11 – Dios juzga según las obras, sin acepción de personas
+## Romanos 2:6–11 – Principio del juicio imparcial de Dios
 (El juicio de Dios es \fillin{justo}, público e imparcial)
 
 ### Romanos 2:6 
@@ -1139,7 +1158,7 @@ Porque en Dios no hay acepción de personas.
 
 \headingfive{El moralista no ha \fillin{cumplido} ese estándar y, por lo tanto, debería cuestionar su seguridad.}
 
-> **En Síntesis (2:6–11)
+>En Síntesis (2:6–11)
 >
 >- Dios juzga con \fillin{justicia} y sin acepción de personas.
 >
@@ -1151,7 +1170,7 @@ Porque en Dios no hay acepción de personas.
 >
 >- Este pasaje establece la imparcialidad del \fillin{juicio}, no el camino de salvación.
 
-## Romanos 2:12–16 – La responsabilidad según la revelación recibida
+## Romanos 2:12–16 – Juicio según la ley y la conciencia
 (Dios juzga a cada \fillin{persona} conforme a la luz que ha recibido)
 
 ### Romanos 2:12
@@ -1216,7 +1235,7 @@ el día en que, según mi evangelio, Dios juzgará los secretos de los hombres m
 #### el día en que, según mi evangelio, Dios juzgará los secretos de los hombres mediante Cristo Jesús.
 \headingfive{Todo este juicio \fillin{apunta} a un día futuro y definitivo. Según el evangelio que Pablo anuncia, Dios juzgará incluso lo oculto del ser humano, y lo hará por medio de Jesucristo.}
 
-> **En Síntesis (2:12–16)
+>En Síntesis (2:12–16)
 >
 >- Cada persona es responsable \fillin{conforme} a la revelación que ha recibido.
 >
@@ -1228,7 +1247,7 @@ el día en que, según mi evangelio, Dios juzgará los secretos de los hombres m
 >
 >- El juicio final revelará lo \fillin{oculto} mediante Jesucristo.
 
-## Romanos 2:17–24 – La ley no protege al transgresor
+## Romanos 2:17–24 – Juicio sobre el que se gloría en Dios y no cumple la ley
 (Poseer la ley no \fillin{equivale} a cumplirla)
 
 ### Romanos 2:17 
@@ -1251,9 +1270,11 @@ Pero si tú, que llevas el nombre de judío y te apoyas en la ley; que te glorí
 \headingfive{Su confianza descansa en la ley. No se describe a alguien sujeto a la ley, sino a \fillin{alguien} que se apoya en ella como base de seguridad.}
 
 #### tú que te glorías en Dios*"
-\headingfive{No se dice que glorifica a Dios, sino que se \fillin{gloría} en Dios. Dios se convierte en el medio de su propia gloria.}
+\headingfive{No se dice que glorifica a Dios, sino que se \fillin{gloría} en Dios. }
 
 \headingfive{El versículo establece un \fillin{marco} de autopercepción: identidad judía, confianza en la ley y jactancia en Dios.}
+
+\headingfive{La implicación es que Dios se convierte en el medio para su propio beneficio (gloria).}
 
 \headingfive{Este marco prepara el terreno para Romanos 2:18–20, donde se examinarán \fillin{conocimiento}, discernimiento y enseñanza, antes de exponer la tensión entre estatus declarado y obediencia real.}
 
@@ -1373,7 +1394,7 @@ Porque tal como está escrito: «EL NOMBRE DE DIOS ES BLASFEMADO ENTRE LOS GENTI
 
 \headingfive{Resultado: en lugar de iluminar, oscurece; en lugar de guiar, extravía; en lugar de producir madurez, genera corrupción, \fillin{comenzando} por sí mismo.}
 
-> **En Síntesis (2:17–24)
+>En Síntesis (2:17–24)
 >
 >- Poseer la ley no \fillin{equivale} a cumplirla.
 >
@@ -1385,7 +1406,7 @@ Porque tal como está escrito: «EL NOMBRE DE DIOS ES BLASFEMADO ENTRE LOS GENTI
 >
 >- La ley expone al \fillin{transgresor}, no lo justifica.
 
-## Romanos 2:25–29: La verdadera circuncisión es interna
+## Romanos 2:25–29: Juicio sobre la circuncisión externa
 (La identidad delante de Dios no es \fillin{externa}, sino interna)
 
 ### Romanos 2:25 
@@ -1458,7 +1479,7 @@ Pues es judío el que lo es interiormente, y la circuncisión es la del corazón
 #### la alabanza del cual no procede de los hombres, sino de Dios.*"
 \headingfive{La aprobación que realmente \fillin{importa} no proviene de los hombres, sino de Dios.}
 
-> **En Síntesis (2:25–29)
+>En Síntesis (2:25–29)
 >
 >- La circuncisión \fillin{externa} no garantiza aceptación delante de Dios.
 >
@@ -1470,7 +1491,7 @@ Pues es judío el que lo es interiormente, y la circuncisión es la del corazón
 >
 >- Este cierre redefine la \fillin{identidad} y prepara el argumento de Romanos 3.
 
-## Romanos 3:1–8 La fidelidad de Dios ante la infidelidad humana
+## Romanos 3:1–4 Privilegio revelado y fidelidad divina
 (Dios permanece justo y fiel \fillin{aunque} el hombre sea infiel)
 
 Romanos 3 continúa el argumento \fillin{lógico} de Pablo de los capítulos 1 y 2.
@@ -1658,7 +1679,10 @@ Entonces ¿qué? Si algunos fueron infieles, ¿acaso su infidelidad anulará la 
 
 \headingfive{Aun cuando el hombre falla, Dios permanece \fillin{fiel} y justo.}
 
+## Romanos 3:5-8 La justicia de Dios ante la acusación humana
+
 ### Romanos 3:5 
+
 \begin{verseblock}
 Pero si nuestra injusticia hace resaltar la justicia de Dios, ¿qué diremos? ¿Acaso es injusto el Dios que expresa Su ira? Hablo en términos humanos.
 \end{verseblock}
@@ -1768,7 +1792,7 @@ Pero si por mi mentira la verdad de Dios abundó para Su gloria, ¿por qué tamb
 
 \headingfive{El evangelio salva del pecado, no lo \fillin{justifica} como método.}
 
-> **En Síntesis (3:1–8)
+>En Síntesis (3:1–8)
 >
 >- Pablo responde a objeciones sobre la \fillin{fidelidad} de Dios.
 >
@@ -1780,7 +1804,7 @@ Pero si por mi mentira la verdad de Dios abundó para Su gloria, ¿por qué tamb
 >
 >- La justicia de \fillin{Dios} no depende del comportamiento humano.
 
-## Romanos 3:9–10 Todos bajo pecado
+## Romanos 3:9–18 La condición universal bajo pecado
 (declaración judicial universal: no hay \fillin{justo}, ni aun uno)
 
 ### Romanos 3:9  
@@ -1790,13 +1814,13 @@ Pero si por mi mentira la verdad de Dios abundó para Su gloria, ¿por qué tamb
 #### ¿Entonces qué? ¿Somos nosotros mejores que ellos?
 \headingfive{Entonces, ¿tenemos \fillin{nosotros} alguna ventaja?}
 
-#### Esta pregunta retoma la conversación <u>sobre</u> “ventaja” y la lleva al punto final.
+\headingfive{Esta pregunta retoma la conversación \fillin{sobre} “ventaja” y la lleva al punto final.}
 
-#### Pablo ahora mueve el <u>enfoque</u> de “ventaja de revelación” a “ventaja moral”.
+\headingfive{Pablo ahora mueve el \fillin{enfoque} de “ventaja de revelación” a “ventaja moral”.}
 
-#### Pablo pregunta si existe superioridad real en justicia <u>entre</u> grupos humanos.
+\headingfive{Pablo pregunta si existe superioridad real en justicia \fillin{entre} grupos humanos.}
 
-#### ¿A quiénes se <u>refiere</u> Pablo con “nosotros”? Gramaticalmente, el pronombre puede referirse a:
+\headingfive{¿A quiénes se \fillin{refiere} Pablo con “nosotros”? Gramaticalmente, el pronombre puede referirse a:}
 
 \headingfive{Pablo junto con sus destinatarios \fillin{creyentes} en Roma. Romanos 1:6–7}
 
@@ -1865,7 +1889,7 @@ Como está escrito: «NO HAY JUSTO, NI AUN UNO;
 
 \headingfive{Sin embargo, ese sistema de medición no es el estándar bíblico. La Escritura declara de forma categórica que no hay \fillin{justo}, ni siquiera uno.}
 
-> **En Síntesis (3:9–10)
+>En Síntesis (3:9–10)
 >
 > Pablo declara el \fillin{veredicto} final sobre toda la humanidad.
 >
@@ -2101,7 +2125,7 @@ NO HAY TEMOR DE DIOS DELANTE DE SUS OJOS».
 
 \headingfive{Es un cuadro totalizador: todo el ser humano, en cada uno de sus miembros, está afectado por el pecado.}
 
-> **En Síntesis (3:11–18)
+>En Síntesis (3:11–18)
 >
 > Pablo presenta evidencia bíblica directa sobre la condición humana.
 >
@@ -2131,21 +2155,21 @@ Ahora bien, sabemos que cuanto dice la ley, lo dice a los que están bajo la ley
 \headingfive{Pablo está guiando al lector a reconocer algo que ya no puede negarse.}
 
 #### que cuanto dice la ley, lo dice a los que están bajo la ley,
-- Pablo define primero el alcance inmediato de la ley.
+\headingfive{Pablo define primero el alcance inmediato de la ley.}
 
-#### La ley habla, y lo que habla tiene destinatarios concretos: \scripture{los que están bajo la ley}.
+\headingfive{La ley habla, y lo que habla tiene destinatarios concretos: \scripture{los que están bajo la ley}.}
 
-#### Esto incluye principalmente al pueblo judío, que recibió la ley como revelación directa.
+\headingfive{Esto incluye principalmente al pueblo judío, que recibió la ley como revelación directa.}
 
-#### Pablo deja claro que la ley no fue dada primero a los gentiles, sino a Israel.
+\headingfive{Pablo deja claro que la ley no fue dada primero a los gentiles, sino a Israel.}
 
-#### Sin embargo, lejos de eximir a Israel, la ley los coloca bajo una responsabilidad mayor.
+\headingfive{Sin embargo, lejos de eximir a Israel, la ley los coloca bajo una responsabilidad mayor.}
 
-#### Pablo muestra que incluso aquellos con privilegio revelacional quedan plenamente expuestos por lo que la ley dice.
+\headingfive{Pablo muestra que incluso aquellos con privilegio revelacional quedan plenamente expuestos por lo que la ley dice.}
 
-#### \scripture{Dice} está en tiempo presente, indicando que la ley sigue hablando; su testimonio no quedó en el pasado.
+\headingfive{\scripture{Dice} está en tiempo presente, indicando que la ley sigue hablando; su testimonio no quedó en el pasado.}
 
-#### La ley continúa declarando lo mismo hoy que cuando fue dada.
+\headingfive{La ley continúa declarando lo mismo hoy que cuando fue dada.}
 
 \headingfive{La vigencia del hablar de la ley implica que su acusación sigue activa. 1 Timoteo 1:8–10}
 
@@ -2184,6 +2208,19 @@ Ahora bien, sabemos que cuanto dice la ley, lo dice a los que están bajo la ley
 \headingfive{No queda ningún grupo fuera del tribunal.}
 
 \headingfive{El juez no es la sociedad, ni la conciencia, ni la tradición: es Dios mismo.}
+
+\headingfive{El texto no dice: "La ley acusa"}
+
+\headingfive{Dice: “La ley resulta en responsabilidad”.}
+
+\headingfive{La idea acusatoria está implícita en la imagen del tribunal, pero la función explícita que se declara es:}
+- Conocimiento del pecado.
+- Así que, si debemos ceñirnos estrictamente al texto.
+
+\headingfive{El propósito de la ley aquí es:}
+- Producir conocimiento del pecado y responsabilizar al mundo.
+
+\headingfive{La ley revela el pecado y deja al mundo sin defensa}
 
 ### Romanos 3:20
 \begin{verseblock}
@@ -2241,19 +2278,19 @@ Será justificado - DIKAIOTHESETAI
 #### pues por medio de la ley viene el conocimiento del pecado.
 \headingfive{Pablo concluye explicando la verdadera función de la ley.}
 
-\headingfive{La ley no fue dada para salvar, sino para revelar.}
+\headingfive{La ley no fue dada para salvar, reformar o justificar sino para revelar.}
 
 \headingfive{\scripture{Conocimiento del pecado} indica conciencia, reconocimiento y exposición.}
 
-\headingfive{La ley define lo que es pecado y deja al hombre sin ignorancia.}
+\headingsix{La ley define lo que es pecado y deja al hombre sin ignorancia.}
 
-\headingfive{El verbo \scripture{viene} no aparece explícitamente en el texto original.}
+\headingsix{El verbo \scripture{viene} no aparece explícitamente en el texto original.}
 
-\headingfive{La idea es directa: por medio de la ley, conocimiento de pecado.}
-
-\headingfive{La ley ilumina, acusa y expone, pero no capacita para obedecer perfectamente.}
-
-\headingfive{La ley muestra el problema, pero no provee la solución.}
+\headingsix{La idea es directa: por medio de la ley: }
+- trae conocimiento de pecado.
+- ilumina,
+- acusa y expone, pero no capacita para obedecer perfectamente.
+- La ley muestra el problema, pero no provee la solución.
 
 \headingfive{Conclusión}
 
@@ -2267,7 +2304,7 @@ Será justificado - DIKAIOTHESETAI
 
 \headingfive{Pablo ha llevado al lector hasta el punto exacto donde el evangelio se vuelve absolutamente necesario.}
 
-> **En Síntesis (3:19–20)
+>En Síntesis (3:19–20)
 >
 >- La ley cierra toda boca delante de Dios.
 >
@@ -2279,7 +2316,7 @@ Será justificado - DIKAIOTHESETAI
 >
 >- La ley prepara el terreno para la gracia.
 
-# ROMANOS 3:21–5:21 – JUSTIFICACIÓN: LA JUSTICIA QUE DIOS PROVEE
+# ROMANOS 3:21–4:25 – La justicia revelada y confirmada
 
 ## Romanos 3:21–26 La justicia revelada aparte de la ley
 (Dios provee por medio de la obra de Cristo)
@@ -2531,7 +2568,7 @@ para demostrar en este tiempo Su justicia, a fin de que Él sea justo y sea el q
 
 \headingfive{La justicia no es producida por el hombre, sino otorgada por Dios.}
 
-> **En Síntesis (3:21–26)
+>En Síntesis (3:21–26)
 >
 >- Dios introduce una justicia completamente nueva.
 >
@@ -2662,7 +2699,7 @@ aparte - CHŌRIS
 - Que Dios pasa de dador a deudor.
 - Que el evangelio se convierte en un sistema de compensación.
 
-###### Ese es el colapso de categoría que Pablo evita cuidadosamente.
+\headingfive{Ese es el colapso de categoría que Pablo evita cuidadosamente.}
 
 #### ¿O es Dios el Dios de los judíos solamente? ¿No es también el Dios de los gentiles? Sí, también de los gentiles.
 \headingfive{Pablo ahora muestra una consecuencia inevitable.}
@@ -2722,7 +2759,7 @@ aparte - CHŌRIS
 
 \headingfive{Y su exigencia es satisfecha, no ignorada. Y esto es jústamente la única manera de satisfacer las demandas de la ley. }
 
-> **En Síntesis (3:27–31)
+> En Síntesis (3:27–31)
 >
 > La justificación por fe excluye toda jactancia humana.
 >
@@ -2922,7 +2959,7 @@ fue contado - ELOGISTHĒ
 \headingfive{El pasivo confirma que Abraham no hizo la imputación.}
 \headingfive{Dios actuó unilateralmente.}
 
-> **En Síntesis (4:1–3)
+>En Síntesis (4:1–3)
 >
 > Abraham es examinado como evidencia, no presentado como ejemplo moral.
 >
@@ -3107,7 +3144,7 @@ se le cuenta - LOGIZETAI
 - No admite deuda.
 - No admite contribución humana.
 
-> **En Síntesis (4:4–5)
+>En Síntesis (4:4–5)
 >
 > Pablo presenta dos sistemas incompatibles: salario y gracia.
 >
@@ -3221,7 +3258,7 @@ BIENAVENTURADO EL HOMBRE CUYO PECADO EL SEÑOR NO TOMARÁ EN CUENTA».
 \headingfive{sino por lo que Dios \textbf{decide no contar}.}
 
 \headingfive{Esto no significa que el pecado desaparezca ontológicamente. }
-###### El pecado no deja de existir.  El pecado no es eliminado como realidad.
+\headingfive{El pecado no deja de existir.  El pecado no es eliminado como realidad.}
 
 \headingfive{El pecado sigue estando presente, aunque su estatus, poder o función pueda haber cambiado. }
 
@@ -3248,7 +3285,7 @@ BIENAVENTURADO EL HOMBRE CUYO PECADO EL SEÑOR NO TOMARÁ EN CUENTA».
 
 #### Ambos confirman que la justicia es acreditada sin obras.
 
-> **En Síntesis (4:6–8)
+>En Síntesis (4:6–8)
 >
 > David es presentado como segundo testigo escritural.
 >
@@ -3356,7 +3393,7 @@ También Abraham es padre de la circuncisión para aquellos que no solamente son
 
 \headingfive{Así, Abraham es padre de creyentes judíos y gentiles por el mismo principio.}
 
-> **En Síntesis (4:9–12)
+>En Síntesis (4:9–12)
 >
 > La bendición de la justificación no está limitada a la circuncisión.
 >
@@ -3405,7 +3442,7 @@ Porque la ley produce ira, pero donde no hay ley, tampoco hay transgresión.
 #### pero donde no hay ley, tampoco hay transgresión.
 \headingfive{Pablo no dice que no haya pecado. Dice que no hay transgresión imputable sin ley. Esto refuerza que la promesa no puede descansar en la ley.}
 
-> **En Síntesis (4:13–15)
+>En Síntesis (4:13–15)
 >
 > La promesa no fue dada por la ley.
 >
@@ -3458,7 +3495,7 @@ Como está escrito: «TE HE HECHO PADRE DE MUCHAS NACIONES», delante de Aquel e
 #### y llama a las cosas que no son, como si fueran.
 \headingfive{La promesa descansa en el poder creador de Dios. No en la capacidad humana.}
 
-> **En Síntesis (4:16–17)
+>En Síntesis (4:16–17)
 >
 > La fe corresponde a la gracia.
 >
@@ -3596,7 +3633,7 @@ Por lo cual también su fe LE FUE CONTADA POR JUSTICIA.
 - Que la fe honra a Dios al confiar en su poder.
 - Y que esta fe es la base sobre la cual Dios acredita justicia.
 
-> **En Síntesis (4:18–22)
+>En Síntesis (4:18–22)
 >
 >- La fe de Abraham es descrita, no exigida.
 >
@@ -3710,12 +3747,24 @@ que fue entregado por causa de nuestras transgresiones y resucitado para nuestra
 
 \headingfive{Nada en Romanos 4 describe la justicia como infundida gradualmente. Nada presenta la justificación como mantenida por rituales o restaurada por actos humanos.}
 
-### La acción dominante del capítulo es la acreditación divina de justicia.
+\headingfive{La acción dominante del capítulo es la acreditación divina de justicia.}
 
-\begin{verseblock}
-> **En Síntesis (4:23–25) > > Pablo aplica directamente el argumento al lector. > > La misma justicia acreditada a Abraham es acreditada a nosotros. > > La fe tiene como objeto al Dios que resucitó a Jesús. > > La justificación está ligada a la obra completa de Cristo. > > Romanos 4 prepara el terreno para la certeza desarrollada en Romanos 5.
-\end{verseblock}
+>En Síntesis (4:23–25)
+>
+> Pablo aplica directamente el argumento al lector.
+>
+> La misma justicia acreditada a Abraham es acreditada a nosotros.
+>
+> La fe tiene como objeto al Dios que resucitó a Jesús.
+>
+> La justificación está ligada a la obra completa de Cristo.
+>
+> Romanos 4 prepara el terreno para la certeza desarrollada en Romanos 5.
+
+# Romanos 5:1-8:39 - La nueva realidad y sus implicaciones
+
 ## Romanos 5:1–5 Los resultados inmediatos de la justificación
+
 (El creyente entra en una nueva realidad relacional y estable delante de Dios)
 
 ### Romanos 5:1
@@ -3864,7 +3913,7 @@ Ha sido derramado - EKCHEO
 \headingfive{Ninguno de estos beneficios es condicional. Ninguno se presenta como provisional o temporal. Todos descansan sobre un mismo fundamento: }
 - haber sido justificados por la fe.
 
-> **En Síntesis (5:1–5)
+>En Síntesis (5:1–5)
 >
 >- La justificación introduce al creyente en un estatus nuevo y permanente.
 >
@@ -4066,7 +4115,7 @@ Y no solo esto, sino que también nos gloriamos en Dios por medio de nuestro Se�
 \headingfive{Romanos 5:6–11 establece que la seguridad del creyente no depende de su constancia,}
 \headingfive{sino de la constancia del amor demostrado por Dios en Cristo.}
 
-> **En Síntesis (5:6–11)
+>En Síntesis (5:6–11)
 >
 > El amor de Dios se demuestra objetivamente en la muerte de Cristo.
 >
@@ -4204,7 +4253,7 @@ reinó - BASILEUO (aoristo, activo, indicativo) gobernar como rey, ejercer autor
 
 \headingfive{Pablo aún no desarrolla la comparación; solo la anuncia.}
 
-> **En Síntesis (5:12–14)
+>En Síntesis (5:12–14)
 >
 >- El pecado entra históricamente al mundo por medio de un hombre.
 >
@@ -4326,7 +4375,7 @@ Porque si por la transgresión de un hombre, por este reinó la muerte, mucho m�
 
 \headingfive{La vida no es solo restauración del estado anterior. Es una realidad superior.}
 
-> **En Síntesis (5:15–17)
+>En Síntesis (5:15–17)
 >
 > La obra de Cristo no es paralela a la de Adán, sino superior.
 >
@@ -4453,7 +4502,7 @@ Porque así como por la desobediencia de un hombre los muchos fueron constituido
 
 ![No hay realidad compartida](images/no-realidad-compartida.png)
 
-> **En Síntesis (5:18–19)
+>En Síntesis (5:18–19)
 >
 > Un solo acto representativo trajo condenación universal.
 >
@@ -4572,7 +4621,7 @@ reine - BASILEUO
 
 \headingfive{Romanos 6 explicará cómo este nuevo reinado se vive. Romanos 7 mostrará la incapacidad de la ley para producirlo. Romanos 8 describirá la vida bajo el poder del Espíritu.}
 
-> **En Síntesis (5:20–21)
+>En Síntesis (5:20–21)
 >
 > La ley fue introducida para exponer plenamente el pecado.
 >
@@ -4712,7 +4761,7 @@ El tema no es comportamiento aislado, sino \textbf{estado, dominio y pertenencia
 
 #### No es una falta de voluntad. Es una contradicción de estatus.
 
-> **En Síntesis (6:1–2)
+>En Síntesis (6:1–2)
 >
 > La gracia abundante genera una objeción lógica.
 >
@@ -4858,7 +4907,7 @@ Porque si hemos sido unidos a Cristo en la semejanza de Su muerte, ciertamente l
 
 #### Pablo aún no explica \textbf{cómo} se manifiesta esta vida. Solo establece que \textbf{ya existe}.
 
-> **En Síntesis (6:3–5)
+>En Síntesis (6:3–5)
 >
 > Pablo fundamenta su respuesta en una realidad compartida con Cristo.
 >
@@ -5030,7 +5079,7 @@ vida - ZOE
 
 \headingfive{Esta es la vida en la que el creyente participa por unión.}
 
-> **En Síntesis (6:6–10)
+>En Síntesis (6:6–10)
 >
 >- El viejo hombre fue crucificado, no reformado.
 >
@@ -5153,7 +5202,7 @@ Porque el pecado no tendrá dominio sobre ustedes, pues no están bajo la ley si
 
 \headingfive{Por eso el primer imperativo no es “compórtate”. Es: \textbf{cuenta con lo que Dios ya hizo}.}
 
-> **En Síntesis (6:11–14)
+>En Síntesis (6:11–14)
 >
 >- El primer llamado es mental, no conductual.
 >
@@ -5283,7 +5332,7 @@ siervos - DOULO
 
 \headingfive{La libertad cristiana no es autonomía. Es pertenencia transformada.}
 
-> **En Síntesis (6:15–18)
+>En Síntesis (6:15–18)
 >
 >- La gracia no autoriza el pecado.
 >
@@ -5416,7 +5465,7 @@ Porque la paga del pecado es muerte, pero la dádiva de Dios es vida eterna en C
 - la gracia cambia de reino,
 - y produce un fruto con un fin opuesto.
 
-> **En Síntesis (6:19–23)
+>En Síntesis (6:19–23)
 >
 >- Pablo explica el argumento con una analogía simple: presentación, fruto y fin.
 >
@@ -5581,7 +5630,7 @@ Pero ahora hemos quedado libres de la ley, habiendo muerto a lo que nos ataba, d
 
 \headingfive{La ley no pudo producir fruto; la gracia sí.}
 
-> **En Síntesis (7:1–6)
+>En Síntesis (7:1–6)
 >
 > El creyente ha muerto a la ley por obra de Dios.
 >
@@ -5664,7 +5713,7 @@ y este mandamiento, que era para vida, a mí me resultó para muerte;
 
 \headingfive{El propósito de la ley es bueno, pero si tratamos de vivir como cristianos bajo la ley, terminaremos experimentando muerte. }
 
-###### ¿Por qué?
+\headingsix{¿Por qué?}
 
 ### Romanos 7:11
 \begin{verseblock}
@@ -5727,7 +5776,7 @@ Así que la ley es santa, y el mandamiento es santo, justo y bueno.
 
 \headingfive{La ley es buena. 1 Timoteo 1:8; Salmo 119:39}
 
-> **En Síntesis (7:7-12)
+>En Síntesis (7:7-12)
 >
 >- La ley no es pecado ni produce pecado.
 >
@@ -5857,7 +5906,7 @@ Así que ya no soy yo el que lo hace, sino el pecado que habita en mí.
 
 \headingfive{Este versículo prepara el desarrollo posterior del conflicto en Romanos 7:18–23.}
 
-> **En Síntesis (7:13-17)
+>En Síntesis (7:13-17)
 >
 >- La ley no es la causa de la muerte experimentada.
 >
@@ -5933,7 +5982,7 @@ Y si lo que no quiero hacer, eso hago, ya no soy yo el que lo hace, sino el peca
 
 \headingfive{Esta afirmación mantiene la responsabilidad personal, pero distingue correctamente la fuente.}
 
-> **En Síntesis (7:18-20)
+>En Síntesis (7:18-20)
 >
 >- El querer hacer el bien no produce la capacidad para hacerlo.
 >
@@ -5976,7 +6025,7 @@ pero veo otra ley en los miembros de mi cuerpo que hace guerra contra la ley de 
 #### y me hace prisionero de la ley del pecado que está en mis miembros.
 \headingfive{Describe la percepción de Pablo de un principio opuesto que opera en los miembros,  luchando activamente contra la ley de la mente y resultando en cautiverio a la ley del pecado presente en los miembros.}
 
-> **En Síntesis (7:21-23)
+>En Síntesis (7:21-23)
 >
 >- La ley opera como un principio de conflicto constante.
 >
@@ -6031,7 +6080,7 @@ Gracias a Dios, por Jesucristo Señor nuestro. Así que yo mismo, por un lado, c
 
 \headingfive{El versículo nos prepara para lo que viene en Romanos 8.}
 
-> **En Síntesis (7:24-25)
+>En Síntesis (7:24-25)
 >
 >- El clamor final es por liberación, no por instrucción.
 >
@@ -6160,7 +6209,7 @@ para que el requisito de la ley se cumpliera en nosotros, que no andamos conform
 
 \headingfive{Al andar conforme al Espíritu, se cumple plenamente el requisito de la Ley. }
 
-> **En Síntesis (8:1-4)
+>En Síntesis (8:1-4)
 >
 >- No existe ninguna condenación para los que están en Cristo Jesús.
 >
@@ -6328,7 +6377,7 @@ Pero si el Espíritu de Aquel que resucitó a Jesús de entre los muertos habita
 
 \headingfive{El texto une pasado (resurrección de Cristo), presente (morada del Espíritu)  y futuro (vida del cuerpo).}
 
-> **En Síntesis (8:5-11)
+>En Síntesis (8:5-11)
 >
 >- Existen dos esferas de vida: carne y Espíritu.
 >
@@ -6361,7 +6410,7 @@ Así que, hermanos, somos deudores, no a la carne, para vivir conforme a la carn
 
 \headingfive{No se trata de quiénes son legalmente, sino de cómo se orienta ahora la vida dada la nueva realidad del Espíritu.}
 
-###### ¿Por qué es tan importante que sepan que no son deudores a la carne?
+\headingsix{¿Por qué es tan importante que sepan que no son deudores a la carne?}
 
 ### Romanos 8:13  
 \begin{verseblock}
@@ -6459,7 +6508,7 @@ Y si somos hijos, somos también herederos; herederos de Dios y coherederos con 
 
 \headingfive{La herencia incluye identidad, participación y destino compartido.}
 
-> **En Síntesis (8:12-17)
+>En Síntesis (8:12-17)
 >
 > La vida en el Espíritu define una nueva dirección.
 >
@@ -6510,7 +6559,7 @@ Pues considero que los sufrimientos de este tiempo presente no son dignos de ser
 
 ![El sufrimiento presente](images/sufrimiento.png)
 
-###### El padecimiento no niega la promesa.
+\headingsix{El padecimiento no niega la promesa.}
 
 #### no son dignos de ser comparados con la gloria que nos ha de ser revelada.
 \headingfive{Puestos en una balanza, los sufrimientos actuales no alcanzan a pesar lo mismo que la gloria venidera que nos espera. }
@@ -6641,7 +6690,7 @@ Pero si esperamos lo que no vemos, con paciencia lo aguardamos.
 #### Pero si esperamos lo que no vemos, con paciencia lo aguardamos.
 \headingfive{“Esperamos con ansias mediante la perseverancia.” La cláusula condicional especifica la condición bajo la cual se da esta espera: esperar lo que no se ve.}
 
-> **En Síntesis (8:18-25)
+>En Síntesis (8:18-25)
 >
 >- El sufrimiento presente no es comparable con la gloria futura.
 >
@@ -6724,7 +6773,7 @@ Y Aquel que escudriña los corazones sabe cuál es el sentir del Espíritu, porq
 
 \headingfive{El énfasis no está en mejorar la calidad de la oración humana, sino en asegurar que \textbf{la voluntad de Dios se cumpla sin obstáculo}, incluso en medio de la debilidad humana.}
 
-> **En Síntesis (8:26-27)
+>En Síntesis (8:26-27)
 >
 >- El Espíritu acompaña activamente al creyente en su debilidad.
 >
@@ -6818,9 +6867,9 @@ Porque a los que de antemano conoció, también los predestinó a ser hechos con
 \headingfive{Dios es todopoderoso. Apocalipsis 1:8; Génesis 17:1; Éxodo 6:3 }
 \headingfive{Dios conoce todas las cosas. 1 Juan 3:20; 1 Samuel 2:3; Salmo 44:21; 147:5; Proverbios 15:3 }
 
-###### Isaías 42:9  \scripture{“Las cosas anteriores ya se han cumplido, y Yo anuncio cosas nuevas; antes que sucedan, se las anuncio.”}
+\headingsix{Isaías 42:9  \scripture{“Las cosas anteriores ya se han cumplido, y Yo anuncio cosas nuevas; antes que sucedan, se las anuncio.”}}
 
-###### Salmo 139:4  \scripture{“Aun antes de que haya palabra en mi boca, oh SEÑOR, Tú ya la sabes toda.”}
+\headingsix{Salmo 139:4  \scripture{“Aun antes de que haya palabra en mi boca, oh SEÑOR, Tú ya la sabes toda.”}}
 
 \headingfive{Dios conoce todo antes de que suceda.}
 
@@ -6853,7 +6902,7 @@ A los que predestinó, a esos también llamó. A los que llamó, a esos también
 
 \headingfive{Resumen del versículo en su sentido principal: “Él los glorificó.”}
 
-> **En Síntesis (8:28-30)
+>En Síntesis (8:28-30)
 >
 >- Pablo afirma una certeza presente para todos los creyentes.
 >
@@ -6919,7 +6968,7 @@ El que no negó ni a Su propio Hijo, sino que lo entregó por todos nosotros, ¿
 
 \headingfive{Nadie, porque Dios mismo nos declaró justos.}
 
-###### ¿Quién tiene la última palabra sobre tu identidad?
+\headingsix{¿Quién tiene la última palabra sobre tu identidad?}
 
 #### Dios es el que justifica.
 \headingfive{Dios no nos acusará porque es Él quien nos justifica.}
@@ -7046,7 +7095,7 @@ ni lo alto, ni lo profundo, ni ninguna otra cosa creada nos podrá separar del a
 
 #### Para que eso ocurriera, Dios tendría que dejar de amar a Su propio Hijo —y eso nunca sucederá.
 
-> **En Síntesis (8:31-39)
+>En Síntesis (8:31-39)
 >
 > Ninguna acusación puede prevalecer contra los escogidos de Dios.
 >
@@ -7183,7 +7232,7 @@ Romanos 8 no es una afirmación aislada ni abstracta.  Romanos 9–11 existen pr
 \headingfive{Romanos 12 en adelante:}
 \headingfive{\textbf{Cómo vivir a la luz de una seguridad real}}
 
-> **En Síntesis FINAL (ROMANOS 1–11)
+>En Síntesis FINAL (ROMANOS 1–11)
 >
 >- Romanos 8 declara seguridad absoluta.
 >

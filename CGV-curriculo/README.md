@@ -356,6 +356,24 @@ H2 muestra cómo ese movimiento se desarrolla internamente.
 
 Su función es preservar la coherencia del razonamiento dentro del mismo movimiento y evitar lecturas aisladas verso por verso.
 
+
+
+H1 = macromovimiento argumentativo
+
+H2 = observación a nivel de párrafo bajo esa macrotesis
+
+H3 = ancla del verso
+
+Eso no es un esquema clásico. Es una observación por capas.
+
+
+
+H1 = movimiento
+H2 = grupo
+H3 = verso
+
+Ese es un modelo estructural sólido.
+
 ------
 
 ## 3. Anclaje Textual (H3)

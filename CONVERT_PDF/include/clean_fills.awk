@@ -81,6 +81,20 @@ function replace_italics(line,    out, pre, mid, post) {
     }
 
     # -----------------------------------------
+    # H6 → \headingsix{...}
+    # -----------------------------------------
+    if (line ~ /^###### /) {
+        sub(/^###### /, "", line)
+
+        # Convert <u> BEFORE escaping
+        line = replace_fillin(line)
+
+        heading = escape_latex_specials(line)
+        print "\\headingsix{" heading "}"
+        next
+    }
+
+    # -----------------------------------------
     # Detect H3 as verse reference header
     # -----------------------------------------
     if (line ~ /^### /) {
