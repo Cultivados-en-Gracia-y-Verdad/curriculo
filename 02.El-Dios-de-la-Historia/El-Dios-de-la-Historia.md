@@ -2218,9 +2218,9 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 #### De la misma manera, los ángeles agarraron a Lot de la mano y lo libraron del juicio, así que eso es exactamente lo que Dios ha hecho con nosotros a través de Cristo y Su obra terminada. La salvación de la pena del pecado, del poder del pecado y de la presencia del pecado es todo por la obra terminada de Cristo.
 
-#### Una declaración que realmente revela el corazón de Dios y representa claramente Su gracia y misericordia cuando Él interviene divinamente en nuestras vidas es la declaración que el ángel le hizo a Lot en el versículo 22: *¡Date prisa, escapa allí, porque nada puedo hacer hasta que llegues allí!* No se me permite juzgar y destruir a estas personas tremendamente malvadas hasta que seas retirado a salvo. Este es un patrón que vemos a lo largo de toda la Palabra de Dios y es exactamente lo que veremos con respecto a la gran tribulación que viene en el libro de Apocalipsis. Antes de que se libere el juicio, como Lot, Dios sacará a todos los creyentes de manera segura a través del rapto.
+#### Una declaración que realmente revela el corazón de Dios y representa claramente Su gracia y misericordia cuando Él interviene divinamente en nuestras vidas es la declaración que el ángel le hizo a Lot en el versículo 22: *¡Date prisa, escapa allí, porque nada puedo hacer hasta que llegues allí!* No se me permite juzgar y destruir a estas personas tremendamente malvadas hasta que seas retirado a salvo. Este es un patrón que vemos a lo largo de toda la Palabra de Dios y es exactamente lo que veremos con respecto a la gran tribulación que viene en el libro de Apocalipsis. Antes de que se libere el juicio, como Lot, Dios sacará a todos los creyentes de manera segura a través del rapto. Juan 14:1-3; 1 Tesalonicenses 4:16-17
 
-### Génesis 19:24-25 *Entonces el SEÑOR hizo llover azufre y fuego sobre Sodoma y Gomorra, de parte del SEÑOR desde los cielos. Él destruyó aquellas ciudades y todo el valle y todos los habitantes de las ciudades y todo lo que crecía en la tierra.*
+###  Génesis 19:24-25 *Entonces el SEÑOR hizo llover azufre y fuego sobre Sodoma y Gomorra, de parte del SEÑOR desde los cielos. Él destruyó aquellas ciudades y todo el valle y todos los habitantes de las ciudades y todo lo que crecía en la tierra.*
 
 #### Después de que Lot estuvo a salvo fuera de la ciudad, Dios hizo llover fuego y azufre sobre Sodoma y Gomorra. Esto habría sido una tremenda demostración del terrible odio de Dios por el pecado. Esto no debería sorprendernos, porque ya hemos visto el odio de Dios por el pecado demostrado varias veces:
 
@@ -2514,21 +2514,9 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 #### Dios no ha cambiado. Aunque no podemos verlo obrar la mayor parte del tiempo, tenga la seguridad de que si lo está haciendo. Él es el Dios soberano que hará todo lo que ha dicho que hará en Su palabra. Él es el Creador soberano y todopoderoso que tiene la última palabra en todas las cosas. Nada ni nadie escapa a Su atención.
 
-#### La vida de José no solo sirve como un tremendo testimonio de la soberanía de Dios, sino que también es una imagen muy verdadera y clara de Cristo.
+#### La vida de José no solo sirve como un tremendo testimonio de la soberanía de Dios.
 
-##### Al igual que Jesús, José fue odiado y rechazado por sus hermanos.
 
-##### Al igual que Jesús, José fue VENDIDO. Jesús en manos de sus enemigos y José en esclavitud.
-
-##### Al igual que Jesús, José fue acusado falsamente.
-
-##### Al igual que Jesús, José fue castigado por crímenes que no cometió.
-
-##### Al igual que Jesús, José perdonó a quienes le hicieron daño. Jesús dijo: Padre, perdónalos porque no saben lo que hacen. José dijo: Pero en cuanto a ti, pensaste mal contra mí; pero Dios lo hizo para bien, para que se realizara como es hoy, para salvar a muchas personas con vida. (Génesis 50:20)
-
-##### Al igual que Jesús, José fue exaltado por Dios: Jesús a la diestra de Dios y José a la diestra del faraón.
-
-##### 1 Pedro 2:19-23: *Porque esto halla gracia, si por causa de la conciencia ante Dios, alguien sobrelleva penalidades sufriendo injustamente. Pues ¿qué mérito hay, si cuando ustedes pecan y son tratados con severidad lo soportan con paciencia? Pero si cuando hacen lo bueno sufren por ello y lo soportan con paciencia, esto halla gracia con Dios. Porque para este propósito han sido llamados, pues también Cristo sufrió por ustedes, dejándoles ejemplo para que sigan Sus pasos, EL CUAL NO COMETIÓ PECADO, NI ENGAÑO ALGUNO SE HALLÓ EN SU BOCA; y quien cuando lo ultrajaban, no respondía ultrajando. Cuando padecía, no amenazaba, sino que se encomendaba a Aquel que juzga con justicia.*
 
 ## Preguntas de revisión
 
@@ -3416,19 +3404,19 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 #### Inmediatamente después de darles la ley, Dios les proporciona el camino para que Él habite entre ellos, así como el camino para que Israel reciba la liberación de la condenación en la que incurrirán por no poder guardar esa ley. Tal es el camino de Dios, porque la redención del hombre siempre ha sido acerca de Cristo y su obra terminada, incluso desde antes de la fundación de la tierra.
 
-#### Otro pensamiento interesante sobre el propiciatorio es con respecto a los querubines. En el comentario de Henry W. Soltau, *El Tabernáculo, el Sacerdocio y las Ofrendas,* afirma que es muy significativo que las Escrituras señalen que los querubines y el propiciatorio fueron forjados juntos de una sola pieza de oro; es decir, no fueron formados por separado y luego unidos entre sí. 
+#### Otro pensamiento interesante sobre el propiciatorio es con respecto a los querubines. Es muy significativo que las Escrituras señalen que los querubines y el propiciatorio fueron forjados juntos de una sola pieza de oro; es decir, no fueron formados por separado y luego unidos entre sí. 
 
-##### Soltau dice que esto representa a Cristo como Aquel que posee todo el poder glorioso de Dios que está asociado con la misericordia. Es a través de Él que Dios puede mostrar Su poder y justicia siempre inseparablemente vinculados a Su misericordia y gracia. 
+##### Es a través de Cristo que Dios puede mostrar Su poder y justicia siempre inseparablemente vinculados a Su misericordia y gracia. 
 
 ##### El primer lugar donde vemos querubines en las Escrituras es cuando fueron colocados en el Jardín del Edén para evitar que la humanidad regresara a comer del árbol de la vida. Estaban asociados con la espada llameante, una espada de venganza y juicio.
 
 ##### Estas cosas también eran un testimonio de que toda la majestad del poder y la santidad de Dios estaba ahora en contra del hombre por su acto de desafío deliberado contra Dios. La palabra y la majestad de Dios habían sido tomadas a la ligera por la humanidad y en realidad habían dado más crédito a la mentira de Satanás.
 
-##### Soltau afirma: En este lugar significativo de los querubines se ha auto manifestado la desesperanza de cualquier intento por parte del hombre de recuperar la vida por sus propios esfuerzos. Y que a menos que la gloria de Dios pudiera ser encontrada y la espada llameante de la venganza y de la santidad satisfecha, sería en vano que el hombre esperara alguna manera de volver a la vida. Y, por lo tanto, la muerte y la maldición serían su parte inevitable.
+##### En este lugar significativo de los querubines se ha auto manifestado la desesperanza de cualquier intento por parte del hombre de recuperar la vida por sus propios esfuerzos. Y que a menos que la gloria de Dios pudiera ser encontrada y la espada llameante de la venganza y de la santidad satisfecha, sería en vano que el hombre esperara alguna manera de volver a la vida. Y, por lo tanto, la muerte y la maldición serían su parte inevitable.
 
 ##### El hecho de que esos querubines, que una vez impidieron que la humanidad volviera a la vida, y que ahora se encuentran en el propiciatorio, simboliza el hecho de que Dios mismo ha abierto un camino para que su propia justicia y santidad sean satisfechas en nombre de la humanidad.
 
-##### Nuevamente Soltau escribe: *Ningún acto muestra más la justicia de Dios que su acto de misericordia hacia un pecador. Dios nunca se muestra más santo que cuando perdona el pecado. Porque esa misericordia y perdón siempre se basan en que sus justos juicios han sido derramados sobre la cabeza de Cristo, en nombre y como sustituto del pecador. Dios es fiel y justo en el perdón de los pecados, y los mismos atributos de su santidad, que estaban en contra de nosotros como pecadores, se convierten en nuestra defensa y protección más segura a través de Cristo. Los Querubines de gloria han dejado la espada de fuego y ahora han tomado su posición sobre el propiciatorio.*
+
 
 ## Preguntas de revisión
 
@@ -5197,7 +5185,11 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ### Todos los discípulos habían llegado a tierra con la pesca y ahora estaban todos sentados alrededor del fuego comiendo juntos. Jesús le pregunta a Pedro: *Pedro, ¿me amas más que a estos?*
 
-### (Jesús estaba hablando de los otros discípulos y no de los peces). Es decir, habías jurado que incluso si TODOS ME abandonan, TÚ nunca lo harás; entonces, ¿me amas más que los demás? ¿Se puede confiar en tu propio amor y compromiso conmigo para que te lleve a ser más devoto que nadie? Sabemos que Pedro finalmente se dio cuenta de lo que Jesús había estado tratando de mostrarle todo el tiempo al comparar los términos para el amor que Jesús y él usaron.
+### El texto no especifica claramente a qué se refiere “estos”. Sin embargo, el contexto inmediato es importante: Pedro había dicho: “Voy a pescar” (Juan 21:3), regresando a su ocupación anterior. Es posible que Jesús estuviera señalando aquello mismo que estaba delante de ellos — las redes, los peces, la barca — y preguntándole si lo amaba más que su antigua vida.
+
+### La pregunta entonces no sería una comparación con los otros discípulos, sino una confrontación más profunda: ¿Me amas más que aquello a lo que naturalmente regresarías? ¿Me amas más que tu seguridad, tu oficio, tu antiguo camino?
+
+### Pedro había vuelto a pescar. Jesús lo vuelve a llamar. No a redes, sino a pastorear. No a peces, sino a personas.
 
 ### Jesús le preguntó tres veces: ¿Me amas (*ágape*, amas)? Finalmente, por tercera vez, Pedro respondió: *Señor, Tú sabes TODAS las cosas, Tú sabes que te amo* (*phileo* amor)  Sabes que mi amor por Ti es solo humano o fraternal.
 
@@ -5455,7 +5447,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 #### Dios originalmente le dio dominio sobre la tierra a la humanidad, pero cuando Adán y Eva pecaron, pasaron ese dominio a Satanás. Ahora, toda la humanidad nace bajo el gobierno y dominio de Satanás.
 
-#### Cuando Adán y Eva pecaron, Satanás adquirió una posición que no tenía antes de la caída. Es decir, una posición o autoridad para ejercer el poder de la muerte como un juicio justo de Dios.
+#### Cuando Adán y Eva pecaron, Satanás adquirió una posición que no tenía antes de la caída. Es decir, una posición o autoridad para ejercer el poder. Lucas 4:6
 
 #### Otra parte del castigo del pecado es la maldición que Dios puso sobre la tierra como parte del castigo del hombre (la segunda ley de la termodinámica: todo tiende al azar y a la decadencia).
 
