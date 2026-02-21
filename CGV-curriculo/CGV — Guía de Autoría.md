@@ -151,3 +151,96 @@ Si la respuesta no es clara, el pasaje necesita corrección.
 * La explicación sigue
 * La estructura sirve, pero no gobierna
 * El manual confiesa sumisión a la Escritura en su forma, no solo en su contenido
+
+# FILOSOFÍA DE CGV EN EL MANEJO DEL TEXTO
+
+## 1. Punto de partida: la Revelación
+
+Creemos que la Escritura se presenta a sí misma como revelación escrita dada por Dios por medio de autores humanos.
+
+Dios habló.
+ Eligió palabras.
+ Eligió género.
+ Eligió contexto histórico.
+ Eligió audiencia.
+
+Lo que está escrito es lo que Él quiso que fuera escrito.
+
+La Escritura es objetiva.
+ No es producto de nuestra interpretación.
+ No depende de nuestra aprobación.
+
+Nosotros nos acercamos como lectores sometidos, no como constructores de significado.
+
+------
+
+## 2. La naturaleza del texto bíblico
+
+La Biblia no es una colección de ideas sueltas.
+
+Es comunicación escrita intencional.
+
+Por lo tanto:
+
+- Las palabras importan.
+- La estructura importa.
+- El desarrollo importa.
+- El contexto importa.
+- El género importa.
+
+Si Dios eligió lenguaje humano, debemos respetar las reglas normales de la comunicación humana.
+
+------
+
+## 3. Escritura fija — Teología dinámica
+
+La Escritura no cambia.
+ Nuestra comprensión puede crecer.
+
+La teología no existe de manera autónoma.
+ Es el resultado de la lectura fiel de la Escritura.
+
+Por lo tanto:
+
+- La teología debe someterse al texto.
+- Ninguna formulación doctrinal puede contradecir ningún pasaje.
+- Si una categoría teológica no puede sostenerse ante el texto, debe ser revisada.
+
+Esto no produce inestabilidad.
+
+Produce humildad.
+
+La verdad no cambia.
+ Nuestro mapa puede mejorar.
+
+------
+
+## 4. Sobre el desacuerdo
+
+Cuando hay desacuerdo:
+
+- No apelamos a tradición.
+- No apelamos a preferencias.
+- No apelamos a intuiciones.
+
+Apelamos al texto.
+
+La autoridad final no es la interpretación, sino la Escritura demostrada.
+
+Si el texto permite más de una lectura legítima, reconocemos el rango permitido por el texto.
+
+Si el texto es claro, nos sometemos sin suavizarlo.
+
+------
+
+## 5. Postura institucional
+
+CGV no existe para defender un sistema.
+
+Existe para cultivar lectores sometidos a la revelación escrita.
+
+No buscamos originalidad.
+ No buscamos reacción.
+ No buscamos identidad distintiva.
+
+Buscamos fidelidad textual.
