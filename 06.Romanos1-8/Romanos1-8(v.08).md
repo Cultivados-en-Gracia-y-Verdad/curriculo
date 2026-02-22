@@ -3832,6 +3832,8 @@ Pero Dios demuestra su amor para con nosotros, en que siendo aún pecadores, Cri
 
 ##### El verbo implica una acción histórica verificable. El amor de Dios no se define por sentimientos, sino por hechos.
 
+// hechos que siguen hablando, ya que por ese hecho sigue demostrando su amor
+
 #### en que siendo aún pecadores, Cristo murió por nosotros.
 ##### Pablo repite y profundiza la condición humana.
 
@@ -3884,7 +3886,7 @@ reconciliar - KATALLASSO
 ##### sino mientras la enemistad aún existía.
 
 ##### La paz con Dios no fue después que "arreglamos cuentas con Dios". 
-##### No habíamos hecho absolutemente nada que amerite reconciliación con Dios, solo amontonar más ira. 
+##### No habíamos hecho absolutamente nada que amerite reconciliación con Dios, solo amontonar más ira. 
 
 #### por la muerte de Su Hijo,
 ##### La reconciliación tiene una causa única.
@@ -3933,7 +3935,7 @@ reconciliar - KATALLASSO
 
 ##### Los beneficios reales de la justificación recién empezamos a contemplar. Lo que tenemos es digno para detenerse a mirar. 
 
-##### ¡Dejemosnos macerar en nuestra nueva realidad de reconciliados con Dios! 
+##### ¡Dejémonos macerar en nuestra nueva realidad de reconciliados con Dios! 
 
 ### Romanos 5:11
 Y no solo esto, sino que también nos gloriamos en Dios por medio de nuestro Señor Jesucristo, por quien ahora hemos recibido la reconciliación.
@@ -4162,7 +4164,7 @@ Pero no sucede con la dádiva como con la transgresión. Porque si por la transg
 - Adán actúa en desobediencia.
 - Cristo actúa como don.
 
-#### La justicia no se produce, se da como regalo.  Adan produjo consecuencias.  Cristo dió como don. 
+#### La justicia no se produce, se da como regalo.  Adán produjo consecuencias.  Cristo dio como don. 
 
 ![Reinado de vida en Cristo](images/en-cristo.png)
 
@@ -4634,7 +4636,7 @@ El tema no es comportamiento aislado, sino **estado, dominio y pertenencia**. Pa
 
 ##### ¿Te acuerdas que mencionamos nuestra unión con Cristo? Ahora veremos explicado exáctamente eso. Será explicado en términos de nuestro bautismo en Cristo Jesús. 
 
-##### Detengamonos un momento para mirar la palabra bautismo. Comenzaremos con el uso del primer siglo, antes del ritual o la teología, y luego dejemos que las Escrituras muestren cómo se extiende la palabra.
+##### Detengámonos un momento para mirar la palabra bautismo. Comenzaremos con el uso del primer siglo, antes del ritual o la teología, y luego dejemos que las Escrituras muestren cómo se extiende la palabra.
 
 bautizo - BAPTIZO
 : meter algo dentro de otra cosa de modo que quede inundado por lo que entra. ^[griego común]
@@ -4658,6 +4660,8 @@ bautizo - BAPTIZO
 ##### El bautismo en agua es una expresión visible, aquí Pablo habla de una **identificación espiritual realizada por Dios**.
 
 ##### La Biblia el concepto de bautizar para hablar de sumergir en agua pero también es usado para expresar como somos sumergido espiritualmente en Cristo. , *bautizar* se refiere a **identificar, unir, colocar dentro de** Cristo. 
+
+//falta algo después de la Biblia
 
 ##### Por lo tanto, ser “*bautizados en Cristo Jesús*” significa:
 - haber sido colocados en unión con Su persona, 
@@ -5025,6 +5029,8 @@ Porque el pecado no tendrá dominio sobre ustedes, pues no están bajo la ley si
 ##### Resumen del flujo del argumento:  El pecado reinó bajo Adán. El creyente fue transferido fuera de ese dominio. El pecado ya no tiene autoridad legal. Pero puede ejercer influencia práctica si el creyente no cuenta con su nueva identidad.
 
 ##### Por eso el primer imperativo no es “compórtate”. Es: **cuenta con lo que Dios ya hizo**.
+
+// tal vez una explicación en cuanto a los otros imperativos: no reine, preséntense, como consecuencia de alinearse ala realidad
 
 >En Síntesis (6:11–14)
 >
