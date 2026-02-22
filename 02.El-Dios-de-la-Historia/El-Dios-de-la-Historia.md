@@ -4,154 +4,154 @@
 
 ## Nuestro Punto de partida
 
-### Es maravilloso conocer que Dios, siendo invisible pues es espíritu, se hace ver claramente de muchas maneras. Es decir, Dios pudo mantenerse escondido del hombre sin hacer nada, pero como veremos en este estudio, Dios hace todo lo contrario. Él activamente y a propósito se hace ver. 
+### Es maravilloso conocer que Dios, siendo invisible pues es espíritu, se hace ver claramente de muchas maneras. Es decir, Dios pudo mantenerse escondido del hombre sin hacer <u>nada</u>, pero como veremos en este estudio, Dios hace todo lo contrario. Él activamente y a propósito se hace ver. 
 
-### Se hace ver por medio de lo creado. El poder y la deidad de Dios se ven claramente por medio de lo creado. (Romanos 1:20; Salmos 97:6)
+### Dios se revela a través de lo creado. Su poder y deidad se <u>ven</u> claramente por medio de la creación. (Romanos 1:20; Salmos 97:6)
 
-### Se hace ver por medio de Su Palabra. Dios ha orquestado una magnífica manera de darse a conocer plenamente. Es por medio de un libro que Él hizo escribir por medio de 40 autores diferentes durante un periodo de 1500 años o más, y fue compilado hace aproximadamente 2000 años atrás. 
+### Se revela por medio de Su Palabra. Dios ha orquestado una magnífica manera de darse a conocer plenamente. Es por medio de un <u>libro</u> que Él hizo escribir por medio de 40 autores diferentes durante un periodo de 1500 años o más, y fue compilado hace aproximadamente 2000 años atrás. 
 
-### Lo que veremos de aquí en adelante es lo que Dios nos ha revelado acerca de Si mismo en Su Palabra. Puede ser que tengas una manera diferente de pensar acerca de Dios en comparación de lo que te mostraremos, pero te animamos a que consideres lo que Dios dejó escrito en Su Libro, la Biblia. 
+### Lo que veremos de aquí en adelante es lo que Dios nos ha revelado acerca de Si mismo en Su Palabra. Puede ser que tengas una manera diferente de pensar acerca de Dios en comparación de lo que te mostraremos, pero te animamos a que consideres lo que Dios dejó <u>escrito</u> en Su Libro, la Biblia. 
 
 ## Objetivos de esta enseñanza
 
-### Ya que la Biblia es un solo mensaje de principio a fin y contiene la revelación de parte de Dios para el hombre, queremos conocer a Dios, quién es Él y cómo es Él a través de un estudio cronológico de Su Palabra.
+### Ya que la Biblia es un solo mensaje de principio a fin y contiene la revelación de parte de Dios <u>para</u> el hombre, queremos conocer a Dios, quién es Él y cómo es Él a través de un estudio cronológico de Su Palabra.
 
-### Queremos crecer en el conocimiento de Dios al ver lo que Él ha revelado acerca de Sí mismo por medio de Su interacción con la humanidad a través del Antiguo Testamento.
+### Queremos <u>crecer</u> en el conocimiento de Dios al ver lo que Él ha revelado acerca de Sí mismo por medio de Su interacción con la humanidad a través del Antiguo Testamento.
 
-### Crecer en nuestra comprensión de cómo Dios quiere que sea nuestra relación con Él, así cada uno de nosotros estará mejor equipado para proporcionar un desarrollo progresivo de la palabra de Dios para los demás y, por lo tanto, guiarlos a un conocimiento más profundo y también a una comunión más íntima con Dios.
+### Crecer en nuestra comprensión de cómo Dios quiere que sea nuestra relación con Él, así cada uno de nosotros estará <u>mejor</u> equipado para proporcionar un desarrollo progresivo de la palabra de Dios para los demás y, por lo tanto, guiarlos a un conocimiento más profundo y también a una comunión más íntima con Dios.
 
 ## ¿Cómo se logrará esto?
 
-### Siguiendo el patrón de Dios, de revelarse progresivamente a Sí mismo y a Su plan de redención en el contexto de la historia.
+### Siguiendo el patrón de Dios, de revelarse progresivamente a Sí <u>mismo</u> y a Su plan de redención en el contexto de la historia.
 
-### Comenzando en Génesis, avanzaremos progresivamente a través del Antiguo Testamento y la vida de Cristo, destacando los temas claves de la Biblia, conoceremos el carácter de Dios a medida que lo veamos desplegar Su plan de redención. Aprender la Palabra de Dios como una historia continua es extremadamente significativo, ya que afectará en gran medida nuestra cosmovisión, nuestras creencias, nuestros valores y, en última instancia, nuestro comportamiento. 
+### Comenzando en Génesis, avanzaremos progresivamente a través del Antiguo Testamento y la vida de Cristo, destacando los temas claves de la Biblia, conoceremos el carácter de Dios a medida que lo veamos desplegar Su plan de redención. Aprender la Palabra de Dios como una historia <u>continua</u> es extremadamente significativo, ya que afectará en gran medida nuestra cosmovisión, nuestras creencias, nuestros valores y, en última instancia, nuestro comportamiento. 
 
-### El hecho de que la mayoría de los creyentes hoy en día tengan la perspectiva de que la vida cristiana se trata solo de ellos y sus acciones, es una clara prueba de la confusión que se genera por la errónea conclusión a la que se llega en la forma tradicional de enseñar la Palabra de Dios.
+### El hecho de que la mayoría de los creyentes hoy en día tengan la perspectiva de que la vida cristiana se trata solo de ellos y sus acciones, es una clara <u>prueba</u> de la confusión que se genera por la errónea conclusión a la que se llega en la forma tradicional de enseñar la Palabra de Dios.
 
 ## ¿A que nos referimos en la forma tradicional de enseñar la Biblia?
 
-### En el momento de la conversión (salvación), la mayoría de las personas tienen algún tipo de comprensión sobre algunas historias del Antiguo Testamento. Tal vez hayan oído hablar de la creación, Adán y Eva, o tal vez de Noé, etc.
+### En el momento de la conversión (salvación), la mayoría de las personas tienen algún tipo de comprensión sobre <u>algunas</u> historias del Antiguo Testamento. Tal vez hayan oído hablar de la creación, Adán y Eva, o tal vez de Noé, etc.
 
-### Entonces, típicamente comienzan a asistir a una iglesia local. Esa iglesia local tiene un servicio de adoración principal. ¿Qué se le enseñará a esa persona a través de la enseñanza en ese servicio de adoración principal? Podrían ser muchas diferentes cosas: temas de interés o algún texto del Nuevo Testamento o del Antiguo Testamento. La iglesia podría estar en medio de la enseñanza expositiva a través de un libro a la cual esta persona se incorpora. 
+### Entonces, típicamente comienzan a asistir a una iglesia local. Esa iglesia local tiene un servicio de adoración principal. ¿Qué se le enseñará a esa persona a través de la enseñanza en ese <u>servicio</u> de adoración principal? Podrían ser muchas diferentes cosas: Temas de interés o algún texto del Nuevo Testamento o del Antiguo Testamento. La iglesia podría estar en medio de la enseñanza expositiva a través de un libro a la cual esta persona se incorpora. 
 
-### Normalmente en la iglesia hay una clase de escuela dominical a la que asiste esta persona. ¿Qué enseñanza se le proporcionará en esta clase? Una vez más, podría ser sobre cualquier número de temas o de cualquier libro de la Biblia, pero probablemente no tendrá nada que ver con la enseñanza que recibe en el servicio de adoración.
+### Normalmente en la iglesia hay una clase de escuela dominical a la que asiste esta persona. ¿Qué enseñanza se le proporcionará en esta clase? Una vez más, podría ser sobre cualquier número de temas o de cualquier libro de la Biblia, pero probablemente no tendrá nada que ver con la enseñanza que <u>recibe</u> en el servicio de adoración.
 
-### La misma iglesia probablemente también tiene un estudio bíblico semanal. ¿Qué se le enseñará a esa persona cuando asista a este estudio semanal? Podría ser cualquier tema o cualquier libro, y nuevamente, probablemente no tendrá nada que ver con la enseñanza que recibe en el servicio de adoración o en la escuela dominical.
+### La misma iglesia probablemente también tiene un estudio bíblico semanal. ¿Qué se le enseñará a esa persona cuando asista a este <u>estudio</u> semanal? Podría ser cualquier tema o cualquier libro, y nuevamente, probablemente no tendrá nada que ver con la enseñanza que recibe en el servicio de adoración o en la escuela dominical.
 
-### Entonces, a esta persona se le enseña la Palabra de Dios de cierta manera durante unos años, supongamos que esta persona decide ir a un instituto bíblico. ¿Qué se le enseñará en el instituto bíblico? Básicamente, recibirá una ráfaga de escopeta de la verdad durante unos tres a cuatro años. Cada día, sus clases consistirán en temas alternos de forma sistemática extraídos del Antiguo y Nuevo Testamento.
+### Entonces, a esta persona se le enseña la Palabra de Dios de cierta manera durante unos años, supongamos que esta persona decide ir a un instituto bíblico. ¿Qué se le enseñará en el instituto bíblico? Básicamente, recibirá una ráfaga de escopeta de la verdad durante unos tres a cuatro años. Cada día, sus clases consistirán en <u>temas</u> alternos de forma sistemática extraídos del Antiguo y Nuevo Testamento.
 
-### Si comparamos la verdad con una cadena, la forma en que se enseña tradicionalmente a las personas sería como entregarles una pila de eslabones de cadena que no están conectados entre sí. Claro que saldrán con algún entendimiento de algunas verdades, pero habrá mucha confusión con respecto a cómo encajan estas verdades individuales en el contexto del panorama general de la verdad.
+### Si comparamos la verdad con una cadena, la forma en que se enseña tradicionalmente a las personas sería como entregarles una pila de eslabones de cadena que no están conectados entre sí. Claro que saldrán con algún entendimiento de algunas verdades, pero habrá mucha confusión con respecto a cómo encajan estas <u>verdades</u> individuales en el contexto del panorama general de la verdad.
 
-### La confusión es amplificada aún más cuando se agrega un marco de comportamiento como el objetivo principal. Por medio del cambio de conducta se procede a vivir la vida cristiana. Entonces esa persona a la que le ha sido dada cierto conocimiento, hará todo lo posible para enseñar a otros lo que aprendió en la iglesia. El mismo patrón se implementará en un nuevo convertido. 
+### La confusión es amplificada aún más cuando se <u>agrega</u> un marco de comportamiento como el objetivo principal. Por medio del cambio de conducta se procede a vivir la vida cristiana. Entonces esa persona a la que le ha sido dada cierto conocimiento, hará todo lo posible para enseñar a otros lo que aprendió en la iglesia. El mismo patrón se implementará en un nuevo convertido. 
 
 ### La misma confusión que uno tiene la pasará al siguiente y así sucesivamente. 
 
 ## Enseñanza cronológica vs. enseñanza tradicional
 
-### Hay una diferencia entre la enseñanza cronológica y la enseñanza que acabamos de describir. La diferencia es importante, y ambos no llegan al mismo objetivo. 
+### Hay una diferencia entre la enseñanza cronológica y la enseñanza que acabamos de describir. La diferencia es importante, y ambos no llegan al mismo <u>objetivo</u>. 
 
-### Piense en esto como una diana. Cuando uno hace tiro al blanco, el objetivo es llegar al mismo centro de la diana. Cuando jugamos tiro al blanco, por ejemplo, no apuntamos a la orilla de la diana. El objetivo es dar con el dardo al centro de la diana. 
+### Piense en esto como una diana. Cuando uno hace tiro al blanco, el objetivo es llegar al mismo <u>centro</u> de la diana. Cuando jugamos tiro al blanco, por ejemplo, no apuntamos a la orilla de la diana. El objetivo es dar con el dardo al centro de la diana. 
 
-### Para entender mejor nuestro objetivo, el anillo exterior de la diana es **nuestro comportamiento**. Como humanos, nuestro comportamiento incluye las acciones externas que llevan a cabo nuestros cuerpos. 
+### Para entender mejor nuestro objetivo, el anillo exterior de la diana es **nuestro comportamiento**. Como humanos, nuestro comportamiento incluye las acciones externas que llevan a cabo nuestros <u>cuerpos</u>. 
 
-### Si entramos más hacia el centro de la diana, vemos que nuestro comportamiento, está determinado por el siguiente anillo en el objetivo, **nuestros valores**, que son: Estándares comunes de lo que es aceptable o inaceptable, importante o no importante, correcto o incorrecto, viable o inviable... en una comunidad de sociedad ([^1])En otras palabras, nuestro comportamiento proviene de nuestros valores. Nuestros valores determinan como nos comportamos. 
+### Si entramos más hacia el centro de la diana, vemos que nuestro comportamiento, está determinado por el siguiente anillo en el objetivo, **nuestros valores**, que son: Estándares comunes de lo que es <u>aceptable</u> o inaceptable, importante o no importante, correcto o incorrecto, viable o inviable en una comunidad de sociedad ([^1])En otras palabras, nuestro comportamiento proviene de nuestros valores. Nuestros valores determinan como nos comportamos. 
 
-### Nuestros valores están determinados por el siguiente anillo, **nuestras creencias**. Por ejemplo: valoramos las creencias de la superación en el aprendizaje y educación personal, con el fin de brindar la mejor educación y crecimiento a nuestros hijos, Entonces, lo que creemos determina nuestros valores.
+### Nuestros valores están determinados por el siguiente anillo, **nuestras creencias**. Por ejemplo: Valoramos las creencias de la superación en el aprendizaje y educación <u>personal</u>, con el fin de brindar la mejor educación y crecimiento a nuestros hijos, Entonces, lo que creemos determina nuestros valores.
 
 
-### Sin embargo, es el siguiente anillo en la diana el que determina nuestras creencias y esa es **nuestra cosmovisión**. La visión del mundo es la orientación fundamental de un individuo o sociedad. Es lo que determina lo que creen.
+### Sin embargo, es el siguiente anillo en la diana el que determina nuestras creencias y esa es **nuestra cosmovisión**. La <u>visión</u> del mundo es la orientación fundamental de un individuo o sociedad. Es lo que determina lo que creen.
 
-### Entonces al centro de la diana está la **cosmovisión**. El siguiente anillo son las **creencias**, seguido por los **valores** y por último está nuestro **comportamiento**. Siguiendo la ilustración de la diana para entender nuestro objetivo, ¿Dónde crees que apuntaremos en este estudio? ¡Exacto! ¡Al centro! Queremos dar con el dardo a establecer una cosmovisión correcta. 
+### Entonces al centro de la diana está la **cosmovisión**. El siguiente anillo son las **creencias**, seguido por los **valores** y por último está nuestro **comportamiento**. Siguiendo la ilustración de la diana para entender nuestro <u>objetivo</u>, ¿Dónde crees que apuntaremos en este estudio? ¡Exacto! ¡Al centro! Queremos dar con el dardo a establecer una cosmovisión correcta. 
 
-### En realidad, todos los humanos hacemos y creemos lo que es mejor en beneficio personal de una forma u otra. En cambio, en el centro de nuestra cosmovisión está nuestro conocimiento de Dios (o falta de él). Es el grado de nuestro conocimiento de Dios lo que finalmente determinará nuestra orientación fundamental en la vida, ¡incluso como cristianos! Cuanto menos conozcamos a Dios, mayor será nuestra orientación fundamental en el “yo".
+### En realidad, todos los humanos hacemos y creemos lo que es mejor en beneficio personal de una forma u otra. En cambio, en el centro de nuestra cosmovisión está <u>nuestro</u> conocimiento de Dios (o falta de él). Es el grado de nuestro conocimiento de Dios lo que finalmente determinará nuestra orientación fundamental en la vida, ¡incluso como cristianos! Cuanto menos conozcamos a Dios, mayor será nuestra orientación fundamental en el “yo".
 
-### Aquí es donde sale a la luz la diferencia fundamental entre la enseñanza tradicional y la enseñanza cronológica. Cuando elegimos o sacamos ciertas porciones de las Escrituras y las enseñamos de forma individual sin antes tomarnos el tiempo para establecer una base contextual adecuada, definitivamente el enfoque será totalmente cambiado de la perspectiva de como opinan las personas acerca de Dios y como vivir la vida cristiana. 
+### Aquí es donde sale a la luz la diferencia fundamental entre la enseñanza tradicional y la enseñanza cronológica. Cuando elegimos o sacamos ciertas porciones de las Escrituras y las enseñamos de <u>forma</u> individual sin antes tomarnos el tiempo para establecer una base contextual adecuada, definitivamente el enfoque será totalmente cambiado de la perspectiva de como opinan las personas acerca de Dios y como vivir la vida cristiana. 
 
-### Cuando nuestro enfoque en el Antiguo Testamento está principalmente en la promesa de Dios de bendición a cambio de obediencia (que eran promesas a Israel), y nuestro enfoque en el Nuevo Testamento está principalmente en los imperativos de Dios de vivir y actuar de cierta manera, llevamos a las personas a una visión distorsionada de Dios, de sí mismos y de lo que se trata la vida cristiana. 
+### Cuando nuestro enfoque en el Antiguo Testamento está principalmente en la promesa de Dios de bendición a cambio de obediencia (que eran promesas a Israel), y nuestro enfoque en el Nuevo Testamento está principalmente en los imperativos de Dios de <u>vivir</u> y actuar de cierta manera, llevamos a las personas a una visión distorsionada de Dios, de sí mismos y de lo que se trata la vida cristiana. 
 
-### Su enfoque estará en sí mismos, en cuanto hacen por Dios, en cuan devotos son a Dios y en sus propios compromisos de vivir una vida santa en lugar de confiar en las provisiones que Dios **ya les ha dado**. Por defecto, los llevaremos a pensar que necesitan hacer algo para obtener la bendición y la aceptación de Dios en lugar de descansar en lo que Él, en lo que Él ya ha hecho y nos ha dado a través de Cristo.
+### Su enfoque estará en sí mismos, en cuanto hacen por Dios, en cuan <u>devotos</u> son a Dios y en sus propios compromisos de vivir una vida santa en lugar de confiar en las provisiones que Dios **ya les ha dado**. Por defecto, los llevaremos a pensar que necesitan hacer algo para obtener la bendición y la aceptación de Dios en lugar de descansar en lo que Él, en lo que Él ya ha hecho y nos ha dado a través de Cristo.
 
-### Cuando comienzas por el principio, (es decir, mucho antes de Génesis, y más bien empiezas por 2 Timoteo 1:9-10; 1 Pedro 1:19-20; Efesios 1:4) y proporcionas un desarrollo fundamental y progresivo de todo el contexto de la Palabra de Dios, entonces puedes ver más claramente los atributos y el carácter de Dios vividos a través de Su interacción con la humanidad.
+### Cuando comienzas por el principio, (es decir, mucho antes de Génesis, y más bien empiezas por 2 Timoteo 1:9-10; 1 Pedro 1:19-20; Efesios 1:4) y proporcionas un desarrollo fundamental y progresivo de todo el contexto de la Palabra de Dios, entonces puedes ver más claramente los atributos y el carácter de Dios <u>vividos</u> a través de Su interacción con la humanidad.
 
-### Te vas con una perspectiva más clara en cuanto a: Como es Dios realmente, como verdaderamente es la naturaleza humana (y de lo que es capaz), y como Dios interactúa con la humanidad. 
+### Te vas con una perspectiva más clara en cuanto a: Como es Dios realmente, como verdaderamente es la naturaleza humana (y de lo que es capaz), y <u>como</u> Dios interactúa con la humanidad. 
 
-#### La imagen clara que proporciona el telón de fondo principal del contexto para toda la Palabra de Dios es: Dios, el Dios todopoderoso, soberano, supremo, santo, amoroso y misericordioso, creador y salvador, que se extiende para desarrollar Su plan de redención para una raza humana ciega, ignorante, indefensa, malvada y pecadora.
+#### La imagen clara que proporciona el telón de fondo principal del contexto para toda la Palabra de Dios es: Dios, el Dios todopoderoso, soberano, supremo, santo, amoroso y misericordioso, creador y salvador, que se extiende para desarrollar Su plan de redención para una <u>raza</u> humana ciega, ignorante, indefensa, malvada y pecadora.
 
-### Ver claramente quién es Dios y quiénes somos nosotros es clave para obtener una perspectiva adecuada del contexto.
+### Ver claramente quién es Dios y quiénes somos nosotros es <u>clave</u> para obtener una perspectiva adecuada del contexto.
 
-### El hecho de que Dios lleve a cabo Su plan de redención no es reaccionario; es decir, no es su plan B. Tampoco es misericordioso con nosotros a pesar de nuestro pecado. Él es misericordioso con nosotros **debido** a nuestro pecado y porque Él es amor y además es absolutamente imposible que el hombre haga algo para ayudarse a sí mismo. Este es un patrón que se ve a lo largo de toda la Palabra de Dios.
+### El hecho de que Dios lleve a cabo Su plan de redención no es reaccionario; es decir, no es su plan B. Tampoco es misericordioso con nosotros a pesar de nuestro pecado. Él es misericordioso con nosotros **debido** a nuestro pecado y porque Él es amor y además es absolutamente imposible que el hombre pueda hacer <u>algo</u> para ayudarse a sí mismo. Este es un patrón que se ve a lo largo de toda la Palabra de Dios.
 
-### ¿Qué les habría pasado a Adán y Eva y a toda la raza humana si Dios los hubiera creado perfectos y rectos y luego los hubiera dejado solos para lidiar con las consecuencias de sus propias decisiones? El resultado sería la muerte eterna, una muerte que nunca más sería restaurada.
+### ¿Qué les habría pasado a Adán y Eva y a toda la raza humana si Dios los hubiera creado perfectos y rectos y luego los hubiera dejado solos para lidiar con las consecuencias de sus propias decisiones? El resultado sería la <u>muerte</u> eterna, una muerte que nunca más sería restaurada.
 
-#### El pecado es el único ingrediente que agregó el hombre. Y cuando consideras la entrega de la ley a Israel en el Antiguo Testamento y la instrucción bíblica a la Iglesia en el Nuevo Testamento a la luz de este telón de fondo contextual, entonces saldrás con una perspectiva correcta de Dios, la vida cristiana y cómo debemos vivirla.
+#### El pecado es el único ingrediente que agregó el hombre. Y cuando consideras la entrega de la ley a Israel en el Antiguo Testamento y la instrucción bíblica a la Iglesia en el Nuevo Testamento a la luz de este telón de fondo contextual, entonces saldrás con una perspectiva correcta de Dios, la vida cristiana y cómo debemos <u>vivirla</u>.
 
 ## El cristianismo está destinado a ser una relación
 
-### Otro punto simple pero profundo que tenemos que entender para obtener una perspectiva adecuada sobre el contexto de la Palabra de Dios, es que la vida cristiana está destinada a ser una relación. Una relación real y tangible con nuestro Padre Celestial, una relación tan real como la que tenemos con nuestras propias familias.
+### Otro punto simple pero profundo que tenemos que entender para obtener una perspectiva adecuada sobre el contexto de la Palabra de Dios, es que la vida cristiana está destinada a ser una relación. Una relación real y tangible con nuestro Padre Celestial, una <u>relación</u> tan real como la que tenemos con nuestras propias familias.
 
-### ¿Por qué Dios creó a Adán y Eva? Debido a que Dios es amor, y en su amor, Dios creó al hombre para tener una relación (Juan 17:9-10, 20-26). Pero la única forma posible que tenemos para experimentar una relación con Dios es llegando a conocer a Dios. El verdadero conocimiento de Dios nos dará una visión adecuada del mundo, lo que permitirá que nuestras creencias, valores y comportamiento se conviertan en un flujo o manifestación de nuestra relación con Dios. Podremos confiar en Dios y en Su Palabra, y esto afectará nuestras creencias que establecerán nuestros valores y que determinarán nuestro comportamiento.
+### ¿Por qué Dios creó a Adán y Eva? Debido a que Dios es amor, y en su amor, Dios creó al hombre para tener una relación (Juan 17:9-10, 20-26). Pero la única forma posible que tenemos para experimentar una relación con Dios es llegando a conocer a Dios. El verdadero conocimiento de Dios nos dará una visión adecuada del mundo, lo que permitirá que nuestras creencias, valores y comportamiento se conviertan en un flujo o manifestación de nuestra relación con Dios. Podremos <u>confiar</u> en Dios y en Su Palabra, y esto afectará nuestras creencias que establecerán nuestros valores y que determinarán nuestro comportamiento.
 
-### Es imposible apropiarse verdaderamente y caminar consistentemente en la verdad sin conocer a Dios porque no podremos confiar en Él. Caminar en la verdad es una cuestión de confiar en Él, no meramente un conocimiento amplio de las Escrituras. Hay mucha información que creemos que es verdad, pero caminar con Dios es de acuerdo a lo que Dios ha revelado realmente acerca de Él, no según la opinión individual de cada persona. 
+### Es imposible apropiarse verdaderamente y caminar consistentemente en la verdad sin conocer a Dios porque no podremos confiar en Él. Caminar en la verdad es una cuestión de confiar en Él, no meramente un conocimiento amplio de las Escrituras. Hay <u>mucha</u> información que creemos que es verdad, pero caminar con Dios es de acuerdo a lo que Dios ha revelado realmente acerca de Él, no según la opinión individual de cada persona. 
 
-### La falta de un conocimiento adecuado de Dios distorsiona absolutamente todo. Cuanto menos conozcamos a Dios, más pequeña será nuestra visión de Él. Cuanto más pequeña sea nuestra visión de Él, más grande será nuestra visión de nosotros mismos. Pensaremos en nosotros mismos más de lo que deberíamos pensar. Nosotros, y cómo nos afectan las cosas, se convierte en nuestro marco de referencia o nuestra orientación fundamental.
+### La falta de un conocimiento adecuado de Dios distorsiona absolutamente todo. Cuanto menos conozcamos a Dios, más pequeña será nuestra visión de Él. Cuanto más pequeña sea nuestra visión de Él, más grande será nuestra visión de nosotros <u>mismos</u>. Pensaremos en nosotros mismos más de lo que deberíamos pensar. Nosotros, y cómo nos afectan las cosas, se convierte en nuestro marco de referencia o nuestra orientación fundamental.
 
-### Entonces, nuestra orientación egocéntrica determina nuestras creencias. Creeré que Dios quiere que sea feliz, cómodo, libre de estrés, etc. Comenzamos a creer que nuestros deseos son los deseos de Dios. Valorare cualquier cosa que creo que pueda darme esto; es decir, orar a Dios, obedecer, servir y llevar a cabo mis propios planes y esquemas. Entonces, mis oraciones y la realización de cualquier otra disciplina cristiana (aunque parezcan espirituales y parezcan confianza en Dios), realmente estarán motivadas por una visión del mundo, creencias y valores egocéntricos.
+### Entonces, nuestra orientación egocéntrica determina nuestras creencias. Creeré que Dios quiere que sea feliz, cómodo, libre de estrés, etc. Comenzamos a creer que nuestros deseos son los deseos de Dios. Valorare cualquier cosa que creo que pueda <u>darme</u> esto; es decir, orar a Dios, obedecer, servir y llevar a cabo mis propios planes y esquemas. Entonces, mis oraciones y la realización de cualquier otra disciplina cristiana (aunque parezcan espirituales y parezcan confianza en Dios), realmente estarán motivadas por una visión del mundo, creencias y valores egocéntricos.
 
-### Esto resultará en que vivamos la vida cristiana como una religión y no como una relación. Esto también conducirá a muchos otros malentendidos y confusión en la vida cristiana:
+### Esto resultará en que vivamos la vida cristiana como una religión y no como una <u>relación</u>. Esto también conducirá a muchos otros malentendidos y confusión en la vida cristiana:
 
-#### La gracia será malinterpretada.
+#### La gracia <u>será</u> malinterpretada.
 
-#### Estarás más enfocado en las bendiciones físicas terrenales.
+#### Estarás más enfocado en las bendiciones <u>físicas</u> terrenales.
 
-#### Creerás que la obediencia/buenas obras son la clave de la espiritualidad.
+#### Creerás que la obediencia/buenas obras son la <u>clave</u> de la espiritualidad.
 
-#### Usarás la Biblia como una serie de reglas que hay que cumplirlas o como un manual de vida y no como lo que realmente es, una carta de nuestro amoroso Padre Celestial cuyo único deseo es revelarse a nosotros y así llevarnos a una comunión más profunda con Él.
+#### Usarás la Biblia como una serie de <u>reglas</u> que hay que cumplirlas o como un manual de vida y no como lo que realmente es, una carta de nuestro amoroso Padre Celestial cuyo único deseo es revelarse a nosotros y así llevarnos a una comunión más profunda con Él.
 
-##### Serás como aquellas personas en el Antiguo Testamento que en realidad no conocían a Dios, aunque pensaban que sí. Éxodo 5; Jueces 2:6-11; Jeremías 2:1-13
+##### Serás como aquellas personas en el Antiguo Testamento que en realidad no conocían a Dios, aunque <u>pensaban</u> que sí. Éxodo 5; Jueces 2:6-11; Jeremías 2:1-13
 
-### Queremos pedirte que tomes un momento para reflexionar. ¿Esto te describe a ti? Si es así, queremos pedirte que permitas que Dios use Su Palabra a través de este estudio y llegues a conocerlo a Él de la manera que tan maravillosamente se ha revelado en la Biblia. Deja a un lado tu opinión de Dios y escucha como Él se presenta. 
+### Queremos pedirte que tomes un momento para reflexionar. ¿Esto te describe a ti? Si es así, queremos pedirte que permitas que Dios use Su Palabra a través de este estudio y llegues a conocerlo a Él de la manera que tan maravillosamente se ha <u>revelado</u> en la Biblia. Deja a un lado tu opinión de Dios y escucha como Él se presenta. 
 
 ## Los caminos de Dios
 
-### A través del Antiguo Testamento, Dios hace muchas referencias a la importancia de conocer los **caminos** del Señor. Deleitarse en Sus caminos, cantar Sus caminos, conocer Sus caminos. 
+### A través del Antiguo Testamento, Dios hace <u>muchas</u> referencias a la importancia de conocer los **caminos** del Señor. Deleitarse en Sus caminos, cantar Sus caminos, conocer Sus caminos. 
 
-#### 2 Crónicas 17:6: *Y su corazón se entusiasmó **en los caminos del SEÑOR**, y además quitó de Judá los lugares altos y las Aseras.*
+#### 2 Crónicas 17:6: *Y su corazón se entusiasmó **en los caminos del SEÑOR**, y además <u>quitó</u> de Judá los lugares altos y las Aseras.*
 
-#### Salmo 138:5: *Y cantarán de los caminos del SEÑOR, Porque grande es la gloria del SEÑOR.* Los "caminos" aquí también pueden describirse como un curso de vida o un modo de acción. Es el corazón de Dios.
+#### Salmo 138:5: *Y cantarán de los caminos del SEÑOR, Porque grande es la gloria del SEÑOR.* Los "caminos" aquí también pueden describirse como un <u>curso</u> de vida o un modo de acción. Es el corazón de Dios.
 
-#### Hechos 13:22*: Cuando lo quitó, les levantó por rey a David, del cual Dios también testificó y dijo: HE HALLADO A DAVID, hijo de Isaí, UN HOMBRE CONFORME A MI CORAZÓN, que hará toda Mi voluntad.*
+#### Hechos 13:22*: Cuando lo quitó, les levantó por rey a <u>David</u>, del cual Dios también testificó y dijo: HE HALLADO A DAVID, hijo de Isaí, UN HOMBRE CONFORME A MI CORAZÓN, que hará toda Mi voluntad.*
 
-### El Antiguo Testamento también menciona mucho sobre obedecer los mandamientos de Dios y guardar sus estatutos. Es completamente posible estar enfocado en guardar y obedecer los mandamientos de Dios sin conocerlo realmente ni deleitarse en Sus caminos.
+### El Antiguo Testamento también menciona mucho sobre obedecer los mandamientos de Dios y <u>guardar</u> sus estatutos. Es completamente posible estar enfocado en guardar y obedecer los mandamientos de Dios sin conocerlo realmente ni deleitarse en Sus caminos.
 
-### Así que, volvamos a la diana. Si el enfoque de Dios en nuestras vidas está principalmente en nuestra obediencia, en guardar Sus mandamientos, en vivir el tipo de vida cristiana que creemos que Él espera que vivamos, nuestra visión del mundo, creencias, valores y comportamiento serán muy diferentes de lo que serían si realmente conocemos y nos deleitamos en Sus caminos.
+### Así que, volvamos a la diana. Si el enfoque de Dios en nuestras vidas está principalmente en nuestra obediencia, en guardar Sus mandamientos, en vivir el tipo de <u>vida</u> cristiana que creemos que Él espera que vivamos, nuestra visión del mundo, creencias, valores y comportamiento serán muy diferentes de lo que serían si realmente conocemos y nos deleitamos en Sus caminos.
 
-#### Veamos este punto de la vida del rey David como ejemplo en 2 Samuel 12:13-23. Según la ley, los adúlteros debían ser apedreados hasta la muerte. Pero Natán dijo que Dios había quitado el pecado de David y que no moriría. Sin embargo, también le dijo que su hijo que nacería iba a morir. 
+#### Veamos este punto de la vida del rey David como ejemplo en 2 Samuel 12:13-23. Según la ley, los adúlteros <u>debían</u> ser apedreados hasta la muerte. Pero Natán dijo que Dios había quitado el pecado de David y que no moriría. Sin embargo, también le dijo que su hijo que nacería iba a morir. 
 
-#### Entonces David, que debería haber sido asesinado, comenzó a suplicar a Dios por el niño. Ayunaba y oraba todo el día y la noche durante siete días tratando de persuadir a Dios que cambiara de opinión. Después de lo que hizo David y los problemas que había causado a través de su pecado, uno pensaría que se sentiría indigno de acercarse a Dios para hacer más peticiones. 
+#### Entonces David, que debería haber sido asesinado, comenzó a suplicar a Dios por el niño. Ayunaba y oraba todo el día y la noche durante siete días tratando de persuadir a Dios que cambiara de opinión. Después de lo que hizo David y los problemas que había causado a través de su <u>pecado</u>, uno pensaría que se sentiría indigno de acercarse a Dios para hacer más peticiones. 
 
-#### Pero David conocía a Dios, y por esa razón se acercó a Él, pidió misericordia de Él. Sin embargo, el niño igualmente murió.
+#### Pero David conocía a Dios, y por esa razón se acercó a Él, pidió misericordia de Él. Sin embargo, el <u>niño</u> igualmente murió.
 
-#### Al fallecer el niño, David se levanta, se lava, se unge y entra en la casa del Señor y lo adora. Observe que no dice que entró a lamentarse. ¡Entró a adorar!
+#### Al fallecer el niño, David se levanta, se <u>lava</u>, se unge y entra en la casa del Señor y lo adora. Observe que no dice que entró a lamentarse. ¡Entró a adorar!
 
-#### Después de todo lo que David había hecho y causado, ver a ese bebé muerto a causa de su pecado, sería fácil pensar que David se sentiría muy indigno de adorar a Dios. La respuesta de muchos hoy seria ¿Por qué querría Dios escuchar mi voz? ¿Por qué Dios querría siquiera mirarme?
+#### Después de todo lo que David había hecho y causado, ver a ese bebé muerto a causa de su pecado, sería <u>fácil</u> pensar que David se sentiría muy indigno de adorar a Dios. La respuesta de muchos hoy seria ¿Por qué querría Dios escuchar mi voz? ¿Por qué Dios querría siquiera mirarme?
 
-#### Luego David explica sus acciones a sus siervos en el versículo 22*: ¿Quién sabe si el SEÑOR tendrá compasión de mí…?* David era un hombre conforme al corazón de Dios. Conocía y se deleitaba en los caminos del Señor. David conocía a Dios de acuerdo a Sus caminos y no de acuerdo a la ley o a sus propias opiniones. 
+#### Luego David explica sus acciones a sus siervos en el versículo 22*: ¿Quién sabe si el SEÑOR tendrá compasión de mí…?* David era un hombre conforme al <u>corazón</u> de Dios. Conocía y se deleitaba en los caminos del Señor. David conocía a Dios de acuerdo a Sus caminos y no de acuerdo a la ley o a sus propias opiniones. 
 
-#### Dios no era conforme a la opinión de David. ¡David era un hombre conforme al corazón de Dios! 
+#### Dios no era conforme a la opinión de David. ¡David era un hombre conforme al <u>corazón</u> de Dios! 
 
-##### Según la ley, David no habría tenido espacio para pedirle nada a Dios; pero según los caminos de Dios, sus tiernas misericordias son para siempre.
+##### Según la ley, David no habría tenido espacio para pedirle nada a Dios; pero según los caminos de Dios, sus <u>tiernas</u> misericordias son para siempre.
 
-##### De acuerdo con la ley, David no debía haberse sentido digno de entrar en la presencia de Dios para adorarlo, pero David estaba adorando a Dios por quién es Él, y no para ganar algo.
+##### De acuerdo con la ley, David no debía haberse <u>sentido</u> digno de entrar en la presencia de Dios para adorarlo, pero David estaba adorando a Dios por quién es Él, y no para ganar algo.
 
-#### Lo que hace que Dios sea digno de nuestra adoración es quién es Él, no lo que hemos hecho o cómo estamos viviendo. Solo al conocerlo podremos centrarnos en Él y no en nosotros mismos.
+#### Lo que hace que Dios sea digno de nuestra adoración es quién es Él, no lo que <u>hemos</u> hecho o cómo estamos viviendo. Solo al conocerlo podremos centrarnos en Él y no en nosotros mismos.
 
-#### Las epístolas están llenas de verdad con respecto a nuestra posición actual en Cristo como hijos de Dios. Habla de las riquezas que son nuestras en Cristo, nuestra esperanza que está en el cielo, estar sentados con Cristo en los lugares celestiales. Conocer a Dios conforme a Sus caminos nos permitirá confiar en Él y por fe apropiarnos de esas maravillosas verdades y promesas y por lo tanto, nos capacitará para seguir la instrucción bíblica.
+#### Las epístolas están llenas de verdad con respecto a nuestra posición actual en Cristo como hijos de Dios. Habla de las riquezas que son nuestras en Cristo, nuestra esperanza que está en el cielo, estar sentados con Cristo en los lugares celestiales. Conocer a Dios conforme a Sus caminos nos permitirá confiar en Él y por fe apropiarnos de esas maravillosas verdades y promesas y por lo tanto, nos capacitará para <u>seguir</u> la instrucción bíblica.
 
-#### Sin embargo, conocer a Dios solo superficialmente de acuerdo a algunas referencias de la Biblia, nos llevará a una cosmovisión defectuosa que no nos permitirá crecer y tampoco apropiarnos de la verdad que se encuentra escrita en su palabra. Si tuviéramos que reducir las metas y propósitos de este plan de estudios de Dios en la Historia a un objetivo principal, sería este: *guiarnos a un conocimiento y comprensión más profundo de los **caminos de Dios**.*
+#### Sin embargo, conocer a Dios <u>solo</u> superficialmente de acuerdo a algunas referencias de la Biblia, nos llevará a una cosmovisión defectuosa que no nos permitirá crecer y tampoco apropiarnos de la verdad que se encuentra escrita en su palabra. Si tuviéramos que reducir las metas y propósitos de este plan de estudios de Dios en la Historia a un objetivo principal, sería este: *guiarnos a un conocimiento y comprensión más profundo de los **caminos de Dios**.*
 
-#### En este estudio a través del Antiguo Testamento, veremos como Dios puso todas las cosas en su lugar para que Cristo viniera y cumpliese su propósito, y de todas estas cosas ni una sola cosa dejó en dependencia del hombre. ¡Dios fue quien llevó a cabo absolutamente todo por sí mismo! 
+#### En este estudio a través del Antiguo Testamento, veremos <u>como</u> Dios puso todas las cosas en su lugar para que Cristo viniera y cumpliese su propósito, y de todas estas cosas ni una sola cosa dejó en dependencia del hombre. ¡Dios fue quien llevó a cabo absolutamente todo por sí mismo! 
 
-#### Igualmente, en el Nuevo Testamento, al final de los Evangelios, Hechos y el establecimiento de los apóstoles, en el mensaje y el crecimiento de la Iglesia, ¿qué requirió Dios que haga el hombre para llevarlo a cabo? ¡Nada!
+#### Igualmente, en el Nuevo Testamento, al final de los Evangelios, Hechos y el establecimiento de los apóstoles, en el <u>mensaje</u> y el crecimiento de la Iglesia, ¿qué requirió Dios que haga el hombre para llevarlo a cabo? ¡Nada!
 
 ## Preguntas de revisión
 
@@ -169,163 +169,163 @@
 
 ## Dios es comunicador, quiere expresarse, revelarse al mundo entero
 
-### Solo en el libro de Génesis, la frase *Dios dijo* se usa 25 veces. *El Señor dijo* se usa 18 veces. *Él dijo* (refiriéndose a Dios) se usa 26 veces. Entonces, al hacer una búsqueda rápida, contamos 69 referencias de Dios comunicándose al hombre solo en Génesis. El solo hecho de que Dios haya considerado oportuno darnos la Biblia, esta revelación completa, da testimonio del hecho de que Él quiere que lo conozcamos. Deuteronomio 29:29
+### Solo en el libro de Génesis, la frase *Dios dijo* se usa 25 veces. *El Señor dijo* se usa 18 veces. *Él dijo* (refiriéndose a Dios) se usa 26 veces. Entonces, al hacer una búsqueda rápida, contamos 69 referencias de Dios comunicándose al hombre solo en Génesis. El solo hecho de que Dios haya considerado oportuno <u>darnos</u> la Biblia, esta revelación completa, da testimonio del hecho de que Él quiere que lo conozcamos. Deuteronomio 29:29
 
-### Fue Dios quien inspiró a hombres a escribir la Biblia, no fue idea de los hombres. Durante más de 1.500 años, Dios escogió a 40 hombres de todos los ámbitos de la vida para escribir los 66 libros de la Biblia. Dios eligió a diferentes personas, de diferentes oficios ú ocupaciones para escribir su palabra, su Espíritu los inspiró a escribir lo que Él quería que escribieran. Estos hombres provenían de todos los ámbitos de la vida, desde Amós, el recolector de higos, hasta Lucas, el médico. 
+### Fue Dios quien inspiró a hombres a escribir la Biblia, no fue idea de los hombres. Durante más de 1.500 años, Dios escogió a 40 hombres de todos los ámbitos de la vida para escribir los 66 libros de la Biblia. Dios eligió a diferentes personas, de diferentes oficios ú ocupaciones para escribir su palabra, su Espíritu los inspiró a <u>escribir</u> lo que Él quería que escribieran. Estos hombres provenían de todos los ámbitos de la vida, desde Amós, el recolector de higos, hasta Lucas, el médico. 
 
-### Había pescadores sin educación y estaba Pablo, un fariseo bien educado, Moisés, que fue educado en el palacio de Faraón. Pero a pesar de que había una gran variedad de escritores que escribían a diferentes personas, de diferentes culturas, en diferentes circunstancias, el mensaje de la Palabra de Dios está completamente unificado de un extremo al otro. Eso es sólo porque el Dios omnisciente (todo lo sabe), Omnipresente (está en todo lugar) y Omnipotente (todopoderoso) es su autor. Dios en Su soberanía y omnisciencia fue el autor de toda la escritura, y Dios en Su soberanía y omnipotencia sigue preservado su escritura tal como quiso escribirla.
+### Había pescadores sin educación y estaba Pablo, un fariseo bien educado, Moisés, que fue educado en el palacio de Faraón. Pero a pesar de que había una gran variedad de escritores que escribían a diferentes personas, de diferentes <u>culturas</u>, en diferentes circunstancias, el mensaje de la Palabra de Dios está completamente unificado de un extremo al otro. Eso es sólo porque el Dios omnisciente (todo lo sabe), Omnipresente (está en todo lugar) y Omnipotente (todopoderoso) es su autor. Dios en Su soberanía y omnisciencia fue el autor de toda la escritura, y Dios en Su soberanía y omnipotencia sigue preservado su escritura tal como quiso escribirla.
 
-### Por lo general, cuando escuchamos a las personas hablar de la intención del autor, generalmente se refieren a lo que Pablo, Moisés ó Pedro querían decir acerca de lo que estaban escribiendo. Definitivamente hay validez en esto, ya que cada uno de los escritores escribía a personas específicas, bajo ciertas circunstancias, durante un cierto período de tiempo y dentro de una cierta cultura. Pero, en última instancia, es Dios quien inspiró a cada uno de ellos a escribir lo que Él quería que escribieran con el propósito de que algún día todo se unifique para formar la revelación completa de Dios, La biblia.
+### Por lo general, cuando escuchamos a las personas hablar de la intención del autor, generalmente se refieren a lo que Pablo, Moisés ó Pedro querían decir acerca de lo que estaban escribiendo. Definitivamente hay validez en esto, ya que cada uno de los escritores escribía a personas específicas, bajo <u>ciertas</u> circunstancias, durante un cierto período de tiempo y dentro de una cierta cultura. Pero, en última instancia, es Dios quien inspiró a cada uno de ellos a escribir lo que Él quería que escribieran con el propósito de que algún día todo se unifique para formar la revelación completa de Dios, La biblia.
 
-### Y así, Dios en Su soberanía escribió Su Palabra a través de la inspiración de Su Espíritu, y luego la unificó para formar esta revelación completa para la Iglesia.
+### Y así, Dios en Su soberanía escribió Su Palabra a través de la inspiración de Su Espíritu, y luego la unificó para formar esta revelación completa <u>para</u> la Iglesia.
 
-### Entonces, volviendo a nuestro diagrama de objetivos, Dios ha reunido soberanamente Su Palabra como una revelación completa acerca de quién es Él y cómo es Él. Se revela a través del desarrollo de Su plan eterno de redención en el contexto de la interacción con la humanidad a lo largo de la historia. Cuando enseñamos a través de la Palabra de Dios tal como está escrita, entonces estamos sentando las bases importantes que deben estar en su lugar para que tener una visión adecuada del mundo y, por lo tanto, creencias, valores y comportamientos apropiados.
+### Entonces, volviendo a nuestro diagrama de objetivos, Dios ha reunido soberanamente Su Palabra como una revelación completa acerca de quién es Él y cómo es Él. Se revela a través del desarrollo de Su plan eterno de redención en el contexto de la interacción con la humanidad a lo <u>largo</u> de la historia. Cuando enseñamos a través de la Palabra de Dios tal como está escrita, entonces estamos sentando las bases importantes que deben estar en su lugar para que tener una visión adecuada del mundo y, por lo tanto, creencias, valores y comportamientos apropiados.
 
-### Sin embargo, la mayor parte de la enseñanza bíblica actual se centra en el nivel de comportamiento. Esto hace que las personas (1) vean la Biblia más como un libro de instrucciones, (2) vivan el cristianismo como una religión humana y (3) tengan muchas confusiones acerca de Dios y como Él es realmente.
+### Sin embargo, la mayor parte de la enseñanza bíblica actual se <u>centra</u> en el nivel de comportamiento. Esto hace que las personas (1) vean la Biblia más como un libro de instrucciones, (2) vivan el cristianismo como una religión humana y (3) tengan muchas confusiones acerca de Dios y como Él es realmente.
 
-### Nuevamente, nuestro objetivo a través de este estudio será enfocarnos en Dios. Queremos crecer en nuestra comprensión de Él y de Sus caminos. Queremos conocer Su corazón. Esto es el centro de la diana. 
+### Nuevamente, nuestro objetivo a través de este estudio será enfocarnos en Dios. Queremos <u>crecer</u> en nuestra comprensión de Él y de Sus caminos. Queremos conocer Su corazón. Esto es el centro de la diana. 
 
 ## Como todos sabemos, existen muchos conceptos erróneos acerca de Dios
 
-### Algunas personas lo ven como una deidad distante que tiene un gran poder, pero está poco interesado en los problemas de este mundo.
+### Algunas personas lo ven como una deidad distante que tiene un gran poder, pero está poco interesado en los problemas de <u>este</u> mundo.
 
-### Otros tienen la visión acerca de Dios de acuerdo a como son sus circunstancias.
+### Otros tienen la visión acerca de Dios de acuerdo a <u>como</u> son sus circunstancias.
 
 ### La gente generalmente se hace estas preguntas sobre Dios:
 
-#### ¿Existe realmente?
+#### ¿Existe <u>realmente</u>?
 
-#### ¿De dónde vino?
+#### ¿De dónde <u>vino</u>?
 
-#### ¿Qué puede hacer Él? 
+#### ¿Qué puede <u>hacer</u> Él? 
 
-#### ¿Hay algo que Él no pueda hacer?
+#### ¿Hay <u>algo</u> que Él no pueda hacer?
 
-#### ¿Realmente tiene autoridad absoluta sobre toda la tierra?
+#### ¿Realmente tiene autoridad absoluta <u>sobre</u> toda la tierra?
 
-#### ¿Realmente le importa la raza humana?
+#### ¿Realmente le importa la <u>raza</u> humana?
 
-#### ¿Cómo puede un Dios bueno permitir tanto sufrimiento y dolor?
+#### ¿Cómo puede un Dios bueno permitir tanto sufrimiento y <u>dolor</u>?
 
-#### ¿Cómo podría un Dios bueno permitir que los niños sean abusados?
+#### ¿Cómo podría un Dios bueno permitir que los niños <u>sean</u> abusados?
 
-### Incluso entre los cristianos, existen muchos conceptos erróneos y equivocados acerca de Dios.
+### Incluso entre los cristianos, existen <u>muchos</u> conceptos erróneos y equivocados acerca de Dios.
 
-### Esto no es culpa de Dios, ya que Él no se ha escondido del hombre; Él ha hecho todo lo posible para revelarse claramente al mundo a través de Su Palabra y también a través de su creación. A medida que continuemos con este estudio, las preguntas acerca de Dios como ser, quién es Él, cómo es realmente y qué significa eso en tu vida diaria se volverán cada vez más claras.
+### Esto no es culpa de Dios, ya que Él no se ha escondido del hombre; Él ha hecho todo lo posible para revelarse claramente al mundo a través de Su Palabra y también a través de su creación. A medida que continuemos con este <u>estudio</u>, las preguntas acerca de Dios como ser, quién es Él, cómo es realmente y qué significa eso en tu vida diaria se volverán cada vez más claras.
 
-### Hay cosas que encontrarás que Dios revela acerca de sí mismo al principio de Génesis, y otras cosas se aclararán a medida que avancemos en el Antiguo Testamento. A medida que estudiamos el Antiguo Testamento, la naturaleza y el carácter de Dios se revelarán por la forma en que interactúa a través de los eventos que registró para nosotros en Su Palabra.
+### Hay cosas que encontrarás que Dios revela acerca de sí mismo al principio de Génesis, y otras <u>cosas</u> se aclararán a medida que avancemos en el Antiguo Testamento. A medida que estudiamos el Antiguo Testamento, la naturaleza y el carácter de Dios se revelarán por la forma en que interactúa a través de los eventos que registró para nosotros en Su Palabra.
 
-### A medida que busquemos dirigir nuestra atención solo a Él, te sorprenderá saber cuánto ha revelado realmente sobre Sí mismo. Él realmente quiere que lo conozcamos. Realmente quiere una relación íntima con nosotros. Este es Su corazón. Jeremías 9:23-24
+### A medida que busquemos dirigir nuestra atención solo a Él, te sorprenderá saber <u>cuánto</u> ha revelado realmente sobre Sí mismo. Él realmente quiere que lo conozcamos. Realmente quiere una relación íntima con nosotros. Este es Su corazón. Jeremías 9:23-24
 
 # EL DIOS DE LA HISTORIA
 
 ## Antes del principio estaba Dios
 
-### Génesis 1:1 *En el principio **Dios**...* Antes del principio, antes de que hubiera algo... ¡estaba Dios! Dios ya existía. La Biblia comienza con Dios ya existiendo. No se da ningún argumento o prueba de Su existencia, la Biblia lo da por hecho.
+### Génesis 1:1 *En el principio **Dios**...* Antes del principio, <u>antes</u> de que hubiera algo. ¡Estaba Dios! Dios ya existía. La Biblia comienza con Dios ya existiendo. No se da ningún argumento o prueba de Su existencia, la Biblia lo da por hecho.
 
-### Antes de entrar en el relato de la creación, es importante entender el plan eterno de Dios que mencionados anteriormente.
+### Antes de entrar en el relato de la creación, es importante entender el <u>plan</u> eterno de Dios que mencionados anteriormente.
 
-#### 2 Timoteo 1:9 (NBLA): *Él nos ha salvado y nos ha llamado con un llamamiento santo, no según nuestras obras, sino según Su propósito y según la gracia que nos fue dada en Cristo Jesús **desde la eternidad**.*
+#### 2 Timoteo 1:9 (NBLA): *Él nos ha salvado y nos ha llamado con un llamamiento <u>santo</u>, no según nuestras obras, sino según Su propósito y según la gracia que nos fue dada en Cristo Jesús **desde la eternidad**.*
 
-#### 1 Pedro 1:18-20 (NBLA): *Ustedes saben que no fueron redimidos de su vana manera de vivir heredada de sus padres con cosas perecederas como oro o plata, sino con sangre preciosa, como de un cordero sin tacha y sin mancha: la sangre de Cristo. Porque Él estaba preparado desde **antes de la fundación del mundo**, pero se ha manifestado en estos últimos tiempos por amor a ustedes.*
+#### 1 Pedro 1:18-20 (NBLA): *Ustedes saben que no fueron redimidos de su vana manera de <u>vivir</u> heredada de sus padres con cosas perecederas como oro o plata, sino con sangre preciosa, como de un cordero sin tacha y sin mancha: la sangre de Cristo. Porque Él estaba preparado desde **antes de la fundación del mundo**, pero se ha manifestado en estos últimos tiempos por amor a ustedes.*
 
-### Habiendo establecido el hecho del plan y propósito que existía en el corazón de Dios desde antes de que comenzara el tiempo, ahora veremos mejor como el comienzo de Dios llevando a cabo Su plan. Un plan y propósito que incluía la gracia que se nos otorgaba a través de Cristo nuestro Salvador y Libertador. Tener en cuenta estos hechos ayudará a establecer el contexto de todo el Antiguo Testamento.
+### Habiendo establecido el hecho del plan y propósito que existía en el corazón de Dios desde antes de que comenzara el tiempo, ahora veremos mejor como el comienzo de Dios llevando a cabo Su plan. Un plan y propósito que incluía la gracia que se nos otorgaba a través de Cristo <u>nuestro</u> Salvador y Libertador. Tener en cuenta estos hechos ayudará a establecer el contexto de todo el Antiguo Testamento.
 
-### Al mirar el relato de la creación, nuestro propósito será considerar lo que Dios ha revelado acerca de Sí mismo a través de Su creación. Por último, a medida que avancemos por la creación, veremos la creación en el orden en que Dios la creó. Salmo 95:1-7
+### Al mirar el relato de la creación, nuestro propósito será considerar lo que Dios ha revelado acerca de Sí mismo a través de Su creación. Por último, a medida que avancemos por la <u>creación</u>, veremos la creación en el orden en que Dios la creó. Salmo 95:1-7
 
-#### En el Salmo 14:1, Dios revela que, desde Su perspectiva (a la luz de TODO lo que Él ha revelado sobre Sí mismo a través de la creación y en nuestros corazones sobre Su existencia), tendrías que ser un necio para negar Su existencia. ¿Cuánto tiempo existió antes de que decidiera crearlo todo? ¡Desde la eternidad!
+#### En el Salmo 14:1, Dios revela que, desde Su perspectiva (a la luz de TODO lo que Él ha revelado sobre Sí mismo a través de la creación y en nuestros corazones sobre Su existencia), tendrías que ser un <u>necio</u> para negar Su existencia. ¿Cuánto tiempo existió antes de que decidiera crearlo todo? ¡Desde la eternidad!
 
-#### Nunca hubo un momento en el tiempo en el que Dios no existiera (intente entender eso). Véase Salmo 90:2. No hay un instante en que Dios no exista, y nunca habrá un momento en que deje de existir.
+#### Nunca hubo un momento en el <u>tiempo</u> en el que Dios no existiera (intente entender eso). Véase Salmo 90:2. No hay un instante en que Dios no exista, y nunca habrá un momento en que deje de existir.
 
-### ¡Dios es ETERNO! Dios es eterno y existió antes de que hubiera algo creado. Por lo tanto, sabemos que Él también es completamente independiente de todo y de todos. No necesita aire para respirar, comida para comer, agua para beber, noche para dormir, luz, tiempo o espacio.
+### ¡Dios es ETERNO! Dios es eterno y existió antes de que hubiera algo creado. Por lo tanto, sabemos que Él también es completamente independiente de todo y de todos. No necesita aire para respirar, comida para comer, agua para <u>beber</u>, noche para dormir, luz, tiempo o espacio.
 
-### Dios existe por Sí mismo. Él existe por Su propio poder. Él es la fuente de todo poder y toda vida. Los humanos somos exactamente lo contrario. Somos extremadamente dependientes de otras personas y otras cosas. Sin los padres, no habríamos llegado al mundo, y sin Su cuidado, nunca habríamos vivido más allá de nuestras primeras 48 horas. Sin aire, comida y agua, moriríamos muy rápido. ¿Cuánto tiempo podríamos funcionar sin dormir? ¿Sin los rayos ultravioleta del sol? Las formas de nuestra dependencia son demasiadas numerosas para contarlas, ¡pero Dios no necesita ni una sola cosa!
+### Dios existe por Sí mismo. Él existe por Su <u>propio</u> poder. Él es la fuente de todo poder y toda vida. Los humanos somos exactamente lo contrario. Somos extremadamente dependientes de otras personas y otras cosas. Sin los padres, no habríamos llegado al mundo, y sin Su cuidado, nunca habríamos vivido más allá de nuestras primeras 48 horas. Sin aire, comida y agua, moriríamos muy rápido. ¿Cuánto tiempo podríamos funcionar sin dormir? ¿Sin los rayos ultravioleta del sol? Las formas de nuestra dependencia son demasiadas numerosas para contarlas, ¡pero Dios no necesita ni una sola cosa!
 
-### Es asombroso considerar la forma en que el Espíritu de Dios comienza el libro de Génesis. Nos presenta de inmediato a Dios en la plenitud de la esencia de Su ser y actuar. No hay ningún argumento preliminar para su existencia. Lo oímos irrumpir en la quietud y la oscuridad de la tierra con el propósito de desarrollar un lugar en donde cumplir Su plan eterno de redención para con la humanidad y manifestar en él Su eterno poder y deidad. Colosenses 1:16-18
+### Es asombroso considerar la forma en que el Espíritu de Dios comienza el libro de Génesis. Nos presenta de inmediato a Dios en la plenitud de la esencia de Su ser y actuar. No hay ningún argumento preliminar para su existencia. Lo <u>oímos</u> irrumpir en la quietud y la oscuridad de la tierra con el propósito de desarrollar un lugar en donde cumplir Su plan eterno de redención para con la humanidad y manifestar en él Su eterno poder y deidad. Colosenses 1:16-18
 
-### La primera frase de la Palabra de Dios nos expone quien es Dios y su fuente infinita de poder,  No existe ningún argumento de Dios probando su existencia, debido a que él mismo se encuentra revelándose quien es él a través de lo creado.
+### La primera frase de la Palabra de Dios nos expone quien es Dios y su fuente infinita de poder,  No existe ningún argumento de Dios probando su existencia, debido a que él mismo se encuentra revelándose quien es él a través de lo <u>creado</u>.
 
-### Él existe de una manera completamente diferente su creación. Nosotros, Sus criaturas, existimos de una manera dependiente, derivada, finita y frágil; pero Dios existe de manera eterna, sin la necesidad de cosa alguna para subsistir, sin embargo nosotros somos seres finitos, que envejecemos y morimos, pero Dios continúa para siempre sin cambios porque es Su naturaleza eterna. Este es uno de los muchos contrastes entre la creación y el Creador. ([^2])
+### Él existe de una manera completamente diferente su creación. Nosotros, Sus criaturas, existimos de una manera dependiente, derivada, finita y frágil; pero Dios existe de manera eterna, sin la necesidad de cosa alguna para subsistir, sin embargo nosotros somos seres <u>finitos</u>, que envejecemos y morimos, pero Dios continúa para siempre sin cambios porque es Su naturaleza eterna. Este es uno de los muchos contrastes entre la creación y el Creador. ([^2])
 
-### La eternidad de Dios es extremadamente significativa para nosotros como creyentes hoy, porque no solo Dios mismo es eterno, sino que también todos Sus atributos son eternos:
+### La eternidad de Dios es extremadamente significativa para nosotros como creyentes hoy, porque no solo Dios mismo es eterno, sino que también <u>todos</u> Sus atributos son eternos:
 
-#### Él siempre fue y siempre será santo.
+#### Él siempre <u>fue</u> y siempre será santo.
 
-#### Él siempre fue y será amor.
+#### Él siempre fue y <u>será</u> amor.
 
-#### Él siempre fue y siempre será misericordioso.
+#### Él siempre fue y <u>siempre</u> será misericordioso.
 
-#### Él siempre nos otorgará Su gracia.
+#### Él siempre nos <u>otorgará</u> Su gracia.
 
-#### Él siempre fue y siempre será omnipotente.
+#### Él <u>siempre</u> fue y siempre será omnipotente.
 
-#### Él siempre fue y siempre será omnipresente.
+#### <u>Él</u> siempre fue y siempre será omnipresente.
 
-#### Él siempre fue y siempre será omnisciente.
+#### Él siempre fue y <u>siempre</u> será omnisciente.
 
-#### Él siempre fue y será inmutable o sin cambio alguno.
+#### Él siempre fue y será inmutable o sin <u>cambio</u> alguno.
 
-### No solo Dios el Padre es eterno, sino que también lo es Dios el Hijo y Dios el Espíritu Santo. ¡El hecho de la eternidad de Jesús también es muy importante para nosotros! Porque es a través de Su obra terminada en Cristo que somos aceptables a Dios.
+### No solo Dios el Padre es eterno, sino que también lo es Dios el Hijo y Dios el Espíritu Santo. ¡El hecho de la eternidad de Jesús también es muy importante para nosotros! Porque es a través de Su obra terminada en Cristo que <u>somos</u> aceptables a Dios.
 
-### Debido a que Cristo y Su obra terminada satisfacen la justicia requerida de Dios por toda la eternidad, significa que nuestra relación con Dios y Su aceptación para con nosotros es eterna. El hecho de que el Espíritu Santo sea eterno significa que Él será fiel para llevar a cabo Su papel y ministerio en nuestras vidas por toda la eternidad. Actualmente, mientras todavía estamos en esta tierra, Su papel es guiarnos a la verdad y hacernos conocer las profundidades de Cristo. Podemos esperar absolutamente que Él siempre será fiel, porque Él es eterno.
+### Debido a que Cristo y Su obra terminada satisfacen la justicia requerida de Dios por toda la eternidad, significa que nuestra relación con Dios y Su aceptación para con nosotros es eterna. El hecho de que el Espíritu Santo sea eterno significa que Él será <u>fiel</u> para llevar a cabo Su papel y ministerio en nuestras vidas por toda la eternidad. Actualmente, mientras todavía estamos en esta tierra, Su papel es guiarnos a la verdad y hacernos conocer las profundidades de Cristo. Podemos esperar absolutamente que Él siempre será fiel, porque Él es eterno.
 
 ### Dios es espíritu, no tiene un cuerpo de carne y huesos como nosotros (Juan 4:24)
 
-#### No tiene un cuerpo físico. Aunque Dios es espíritu, esto no lo convierte en una energía ó fuerza del universo como lo describen las filosofías orientales. Dios es un ser espiritual con su propia personalidad, voluntad y mente, Más importante aún, 1 Juan 4:7-8 dice que Dios es amor. Esto no dice que Él tiene amor o que manifiesta amor; dice que ¡Él es amor!, su naturaleza misma es amor. Esto significa que no hay nada que Él pueda hacer o permitir que entre en nuestras vidas que esté desprovisto de Su amor. Romanos 8:31-39
+#### No tiene un cuerpo físico. Aunque Dios es espíritu, esto no lo convierte en una energía ó fuerza del universo como lo describen las filosofías orientales. Dios es un ser espiritual con su propia personalidad, voluntad y mente, Más importante aún, 1 Juan 4:7-8 dice que Dios es amor. Esto no dice que Él tiene amor o que manifiesta amor; dice que ¡Él es amor!, su naturaleza misma es amor. Esto significa que no hay <u>nada</u> que Él pueda hacer o permitir que entre en nuestras vidas que esté desprovisto de Su amor. Romanos 8:31-39
 
 ### Dios es omnipresente. Está en todas partes al mismo tiempo (Salmo 139:7-12; Proverbios 15:3)
 
-#### Solo podemos saber esto acerca de Dios a través de Su propia revelación. Sin que Él nos lo diga, nunca sabríamos dónde está, porque no podemos verlo. Él está en las partes más lejanas del universo, y está aquí con nosotros en esta habitación. Él está con los creyentes en China y con ellos tambien en el Ecuador.
+#### Solo podemos saber esto acerca de Dios a través de Su propia revelación. Sin que Él nos lo diga, nunca sabríamos dónde está, porque no podemos verlo. Él está en las partes más lejanas del universo, y está aquí con nosotros en esta habitación. Él está con los creyentes en <u>China</u> y con ellos también en el Ecuador.
 
-#### Toda la creación está sujeta y limitada por el tiempo y el espacio. Sin embargo Dios no se encuentra limitado por el tiempo, espacio ú cosa alguna que fue creada.
+#### Toda la creación está sujeta y limitada por el tiempo y el espacio. Sin embargo Dios no se encuentra <u>limitado</u> por el tiempo, espacio ú cosa alguna que fue creada.
 
-#### Piensa en esto acerca de Satanás. Ahora mismo, ¿cuántos creyentes de muchos diferentes países al mismo tiempo se encuentran culpando a Satanás por algo en sus vidas?, Él es un ser creado que NO es omnipresente u omnipotente, ni posee ningún atributo de Dios. Dios es el único que siempre está presente en todo lugar.
+#### Piensa en esto acerca de Satanás. Ahora mismo, ¿cuántos creyentes de muchos diferentes países al mismo tiempo se encuentran culpando a Satanás por algo en sus vidas?, Él es un ser creado que NO es omnipresente u omnipotente, ni posee ningún atributo de Dios. Dios es el único que <u>siempre</u> está presente en todo lugar.
 
 ### Dios es una trinidad, un mismo Dios, tres personas forman parte del único Dios.
 
-#### Esta enseñanza es explicada a través de las páginas del nuevo testamento, expresando la relación de Jesús, el Padre, y su espíritu siendo uno mismo.
+#### Esta enseñanza es explicada a través de las páginas del <u>Nuevo</u> Testamento, expresando la relación de Jesús, el Padre, y su espíritu siendo uno mismo.
 
-#### Jesús oró a Dios el Padre, enseño tambien eso a sus discípulos, sin embargo las escrituras nos revelan que Jesús tambien es Dios. Juan 20:28-31; Hechos 7:59; Romanos 9:5, 10:9-13; 2 Corintios 12:7-9; Filipenses 2:5-6; Colosenses 1:15-17, 2:9; Hebreos 1:1-12
+#### Jesús oró a Dios el Padre, enseño también eso a sus discípulos, sin embargo las Escrituras nos <u>revelan</u> que Jesús también es Dios. Juan 20:28-31; Hechos 7:59; Romanos 9:5, 10:9-13; 2 Corintios 12:7-9; Filipenses 2:5-6; Colosenses 1:15-17, 2:9; Hebreos 1:1-12
 
-#### En Juan 14:16, Jesús dijo que rogaría al Padre para darnos un Consolador (Paráclito) se refiere a un abogado defensor, alguien que nos representaría y daría consuelo. ([^3])
+#### En Juan 14:16, Jesús dijo que rogaría al Padre para darnos un Consolador (Paráclito) se refiere a un abogado <u>defensor</u>, alguien que nos representaría y daría consuelo. ([^3])
 
-#### Las Escrituras son claras y se refieren a Dios el Padre, Dios el Hijo y Dios el Espíritu Santo, como un mismo Dios, los roles de cada uno son diferentes como nos muestran en las escrituras. 2 Corintios 13:14
+#### Las Escrituras son claras y se refieren a Dios el Padre, Dios el Hijo y Dios el Espíritu Santo, como un mismo Dios, los <u>roles</u> de cada uno son diferentes como nos muestran en las escrituras. 2 Corintios 13:14
 
 ### Debido a que solo Dios existió antes de cualquier cosa creada, Él es superior en tamaño a todo lo existente.
 
-#### Dios es más grande que cualquier otra fuerza en todo el universo. Él es absolutamente más grande que todos y todo lo que existe, Dios es completamente superior a todos los espíritus. 
+#### Dios es más grande que cualquier otra fuerza en todo el universo. Él es absolutamente más grande que <u>todos</u> y todo lo que existe, Dios es completamente superior a todos los espíritus. 
 
-#### No existe persona o poder superior al de Dios. Él es la autoridad suprema, Él está sobre todo el universo y todo lo que existe dentro de él, Dios tiene control absoluto sobre todos los poderes y autoridades espirituales.
+#### No existe persona o poder <u>superior</u> al de Dios. Él es la autoridad suprema, Él está sobre todo el universo y todo lo que existe dentro de él, Dios tiene control absoluto sobre todos los poderes y autoridades espirituales.
 
-#### En toda nuestra mente sabemos que esto es cierto. Pero todos los días, mientras caminamos por la vida, ¿estamos confiando y andando la vida a la luz de esta realidad?
+#### En toda nuestra mente sabemos que esto es <u>cierto</u>. Pero todos los días, mientras caminamos por la vida, ¿estamos confiando y andando la vida a la luz de esta realidad?
 
-#### Si analizaríamos nuestras vidas, todos encontraríamos muchas áreas de independencia de Dios dentro de nosotros, lugares o áreas donde dependemos de nuestros propios esfuerzos, sabiduría y comprensión en lugar de Dios. Estos son signos de no conocer a Dios.
+#### Si analizaríamos nuestras vidas, todos encontraríamos muchas áreas de independencia de Dios dentro de nosotros, lugares o áreas donde dependemos de nuestros propios esfuerzos, sabiduría y comprensión en lugar de Dios. Estos son <u>signos</u> de no conocer a Dios.
 
-#### ¿Y en nuestra visión de Satanás? ¿Hay realmente una batalla entre Dios y Satanás?  La Biblia dice que Satanás anda como un león rugiente buscando a quien devorar, buscando a quien engañar. Pero desde la perspectiva de Dios, ¿hay realmente una batalla entre Dios y Satanás? No, Satanás ya es un enemigo derrotado.
+#### ¿Y en nuestra visión de Satanás? ¿Hay realmente una batalla entre Dios y Satanás?  La Biblia dice que Satanás anda como un león rugiente buscando a quien devorar, buscando a quien engañar. Pero desde la perspectiva de Dios, ¿hay realmente una batalla <u>entre</u> Dios y Satanás? No, Satanás ya es un enemigo derrotado.
 
-#### No hay nadie ni nada que pueda compararse con Dios. Él es mucho más grande y superior que todo lo que existe, inclusive de Satanás. el poder y deidad de Dios está mucho más allá de nuestro entendimiento. Salmo 147:1-9, 148:1-14
+#### No hay nadie ni nada que pueda compararse con Dios. Él es mucho más grande y superior que <u>todo</u> lo que existe, inclusive de Satanás. el poder y deidad de Dios está mucho más allá de nuestro entendimiento. Salmo 147:1-9, 148:1-14
 
-##### No podemos comprender a cabalidad a Aquel que no tuvo principio y jamás tendrá fin.
+##### No podemos comprender a cabalidad a Aquel que no <u>tuvo</u> principio y jamás tendrá fin.
 
-##### Es difícil comprender a alguien que nunca necesita nada.
+##### Es difícil comprender a alguien que <u>nunca</u> necesita nada.
 
-##### Aquel que lo ve todo, pero no puede ser visto por nadie, debido a que Él es Espíritu.
+##### Aquel que lo ve <u>todo</u>, pero no puede ser visto por nadie, debido a que Él es Espíritu.
 
-##### Cómo puede residir en el cielo y, sin embargo, estar en todas partes al mismo tiempo.
+##### Cómo puede residir en el <u>cielo</u> y, sin embargo, estar en todas partes al mismo tiempo.
 
-##### Las tres personas de la Trinidad son el único Dios. Muy difícil de entender. Dios supera todo conocimiento y entendimiento.
+##### Las tres personas de la Trinidad son el <u>único</u> Dios. Muy difícil de entender. Dios supera todo conocimiento y entendimiento.
 
-#### A la infinita superioridad de Dios nos referimos como Su soberanía. Al reflejar la soberanía de Dios, la Biblia a menudo llama a Dios el Altísimo: *el Altísimo sobre toda la tierra*. Salmo 83:18
+#### A la infinita superioridad de Dios nos referimos <u>como</u> Su soberanía. Al reflejar la soberanía de Dios, la Biblia a menudo llama a Dios el Altísimo: *el Altísimo sobre toda la tierra*. Salmo 83:18
 
-##### *Yo soy el Señor, y no hay otro; no hay Dios fuera de mí*. Isaías 45:5
+##### *Yo soy el Señor, y no hay otro; no hay Dios <u>fuera</u> de mí*. Isaías 45:5
 
-#### Si realmente creyéramos que estas verdades de  Dios, si estuviéramos viviendo la vida a través de esta realidad que son verdades que nos muestran acerca de él, entonces el Salmo 46:10 sería nuestra respuesta natural: *Estad quietos y conoced que yo soy Dios*.
+#### Si realmente creyéramos que estas verdades de  Dios, si estuviéramos viviendo la vida a través de esta realidad que son verdades que nos muestran acerca de él, entonces el Salmo 46:10 sería nuestra respuesta <u>natural</u>: *Estad quietos y conoced que yo soy Dios*.
 
-#### Debido a que Dios es el único que estuvo allí antes de todas las cosas, solo Él tiene la autoridad y la potestad de decirnos y explicarnos cómo comenzó todo.
+#### Debido a que Dios es el único que estuvo allí antes de todas las <u>cosas</u>, solo Él tiene la autoridad y la potestad de decirnos y explicarnos cómo comenzó todo.
 
-##### Como humanos, debido a que somos tan finitos e inconscientes, sin un testigo ocular, no podríamos descubrir la verdad por nosotros mismos, tratar de entender como comenzó el mundo por nuestros propios medios seria como dos niños pequeños que discuten entre sí.
+##### Como humanos, debido a que somos tan finitos e inconscientes, sin un testigo ocular, no podríamos descubrir la verdad por nosotros mismos, tratar de entender como comenzó el mundo por nuestros propios medios seria como dos niños pequeños que <u>discuten</u> entre sí.
 
-##### A través de los siglos, el hombre en su arrogancia y orgullo ha tratado de idear muchas teorías sobre el comienzo del universo. Pero, todos ellos son contradichos por la palabra de Dios, Es únicamente Dios el  que estaba allí en el principio. Solo Él puede darnos el testimonio verdadero del relato del comienzo de la creación. Dios es la autoridad suprema y dependemos de Él para todas las cosas, Él es nuestra única fuente de verdad. 
+##### A través de los siglos, el hombre en su arrogancia y orgullo ha tratado de idear muchas teorías sobre el comienzo del universo. Pero, todos ellos son contradichos por la palabra de Dios, Es únicamente Dios el  que estaba allí en el principio. Solo Él puede <u>darnos</u> el testimonio verdadero del relato del comienzo de la creación. Dios es la autoridad suprema y dependemos de Él para todas las cosas, Él es nuestra única fuente de verdad. 
 
 ## Preguntas de revisión
 
@@ -339,213 +339,213 @@
 
 ## Dios es un comunicador, se ha revelado de manera ordenada y progresiva
 
-### Podemos ver el relato de la creación, la mayoría de los eruditos afirman que fue Moisés quien escribió el libro de Génesis, y también el Pentateuco o la Torá (los primeros cinco libros de la Biblia). El propósito de Dios para que Moisés escriba el Pentateuco (para los israelitas), era el de revelarse completamente a su pueblo escogido, como también lo es hoy para su iglesia, es Dios revelándose a toda la humanidad como es él a través de su palabra escrita.
+### Podemos ver el relato de la creación, la mayoría de los eruditos afirman que fue Moisés <u>quien</u> escribió el libro de Génesis, y también el Pentateuco o la Torá (los primeros cinco libros de la Biblia). El propósito de Dios para que Moisés escriba el Pentateuco (para los israelitas), era el de revelarse completamente a su pueblo escogido, como también lo es hoy para su iglesia, es Dios revelándose a toda la humanidad como es él a través de su palabra escrita.
 
-### Israel se dirigía a Canaán (La tierra prometida), donde los habitantes adoraban a todo tipo de dioses falsos y paganos. Iba a ser extremadamente importante para todas las generaciones futuras tener un registro claro de quién es el Dios de Israel y cómo es realmente. Mira Jueces 2:6-13 como prueba de la necesidad de recordar.
+### Israel se dirigía a Canaán (La tierra prometida), donde los habitantes adoraban a todo tipo de dioses falsos y paganos. Iba a ser extremadamente importante para todas las generaciones futuras tener un registro claro de quién es el Dios de Israel y <u>cómo</u> es realmente. Mira Jueces 2:6-13 como prueba de la necesidad de recordar.
 
-### La necesidad de que nosotros, como creyentes hoy, estemos absolutamente convencidos de quién es Dios y cómo es Él. No es menos importante de lo que fue para los israelitas que entraron en Canaán. La vida cristiana está destinada a ser una relación. Sin un conocimiento profundo e íntimo de Él, viviremos inherentemente la vida cristiana como una religión y no como una relación.
+### La necesidad de que nosotros, como creyentes hoy, estemos absolutamente convencidos de quién es Dios y cómo es Él. No es menos importante de lo que fue para los israelitas que entraron en Canaán. La <u>vida</u> cristiana está destinada a ser una relación. Sin un conocimiento profundo e íntimo de Él, viviremos inherentemente la vida cristiana como una religión y no como una relación.
 
-### Otro aspecto está en la apropiación de la verdad. Si no conocemos a Dios, no confiaremos en Él. Si no podemos confiar en Él, entonces nos apropiaremos de la verdad en nuestras vidas. Crecer en el conocimiento de Dios es El fundamento de toda la vida cristiana.
+### Otro aspecto está en la apropiación de la verdad. Si no conocemos a Dios, no confiaremos en Él. Si no podemos confiar en Él, entonces nos apropiaremos de la verdad en nuestras vidas. Crecer en el conocimiento de Dios es El fundamento de <u>toda</u> la vida cristiana.
 
 # GÉNESIS 1:1-25 DIOS EMPEZÓ PREPARANDO EL MUNDO PARA EL HOMBRE
 
 ## Génesis 1:1-5 - El primer día Dios creó los cielos, la tierra y la luz
 
-### Génesis 1:1a *En el principio Dios*... El nombre usado para Dios nos dice que Dios es poderoso y glorioso.
+### Génesis 1:1a *En el principio Dios*... El nombre usado para Dios nos dice que Dios es poderoso y <u>glorioso</u>.
 
-#### La primera frase del primer versículo de toda la Biblia nos da dos verdades muy importantes sobre los atributos de Dios. Primero, es Su nombre.
+#### La primera frase del primer versículo de toda la Biblia nos da dos verdades muy importantes sobre los <u>atributos</u> de Dios. Primero, es Su nombre.
 
-##### Una de las formas en que Dios se revela a sí mismo y quién es a nosotros es por la **forma** en que se refiere a Sí mismo. Cuando encuentras un nombre para Dios que Él usa una y otra vez, sabes que es importante para Él que la gente lo conozca como tal.
+##### Una de las formas en que Dios se revela a sí mismo y quién es a <u>nosotros</u> es por la **forma** en que se refiere a Sí mismo. Cuando encuentras un nombre para Dios que Él usa una y otra vez, sabes que es importante para Él que la gente lo conozca como tal.
 
-##### El nombre hebreo de Dios en Génesis 1:1 es ELOHIM. La terminación IM es la forma plural que significa tres o más, y por lo tanto hace referencia a la trinidad.
+##### El nombre hebreo de Dios en Génesis 1:1 es ELOHIM. La terminación IM es la forma <u>plural</u> que significa tres o más, y por lo tanto hace referencia a la trinidad.
 
-##### El nombre ELOHIM expresa que Dios es el poderoso y glorioso Creador que gobierna el universo en omnipotencia, soberanía y fidelidad. Por lo tanto, debe ser reverenciado y temido (Daniel 6:26-27). ¡Así es como Dios se ha revelado a Sí mismo en la primera oración de la Biblia! 
+##### El nombre ELOHIM <u>expresa</u> que Dios es el poderoso y glorioso Creador que gobierna el universo en omnipotencia, soberanía y fidelidad. Por lo tanto, debe ser reverenciado y temido (Daniel 6:26-27). ¡Así es como Dios se ha revelado a Sí mismo en la primera oración de la Biblia! 
 
-### Génesis 1:1b *En el principio Dios **creó**...* En el principio, Dios creó sin ningún material preexistente. ¡Era el principio de todo! Pero fue Su voluntad que estas cosas existieran. Dios formó todas las cosas en orden con una existencia que dependía de Su voluntad.
+### Génesis 1:1b *En el principio Dios **creó**...* En el principio, Dios creó sin ningún material preexistente. ¡Era el principio de todo! Pero fue Su voluntad que estas cosas existieran. Dios formó todas las cosas en <u>orden</u> con una existencia que dependía de Su voluntad.
 
 #### Algunas cosas para considerar aquí:
 
-##### Realmente hay mucho más en el relato de la creación de lo que podemos entender. Nosotros no podemos crear una sola cosa sin usar algún material ya existente, y no podemos entender completamente cómo Dios puede hacerlo.
+##### Realmente hay mucho más en el <u>relato</u> de la creación de lo que podemos entender. Nosotros no podemos crear una sola cosa sin usar algún material ya existente, y no podemos entender completamente cómo Dios puede hacerlo.
 
-##### Es una afirmación entender que Dios crea de lo que no existe, sin embargo no se nos explica el como.
+##### Es una afirmación entender que Dios crea de lo que no <u>existe</u>, sin embargo no se nos explica el como.
 
-##### El espacio y el tiempo son dimensiones del orden creado y Dios tampoco está en ni está limitado por ninguno de los dos.
+##### El espacio y el tiempo son dimensiones del <u>orden</u> creado y Dios tampoco está en ni está limitado por ninguno de los dos.
 
-##### La estabilidad del universo y de los seres creados depende completamente de Él. Sin Él, todas las criaturas de todo tipo dejarían de existir. 
+##### La estabilidad del universo y de los seres <u>creados</u> depende completamente de Él. Sin Él, todas las criaturas de todo tipo dejarían de existir. 
 
-###### Hechos 17:25-26 *ni es servido por manos humanas, como si necesitara de algo, puesto que Él da a todos vida y aliento y todas las cosas. De uno solo, Dios hizo todas las naciones del mundo para que habitaran sobre toda la superficie de la tierra, habiendo determinado sus tiempos y las fronteras de los lugares donde viven.*
+###### Hechos 17:25-26 *ni es servido por manos humanas, como si necesitara de algo, puesto que Él da a todos vida y aliento y todas las cosas. De uno solo, Dios hizo todas las naciones del mundo para que habitaran sobre toda la superficie de la tierra, habiendo determinado sus <u>tiempos</u> y las fronteras de los lugares donde viven.*
 
-#### Necesitamos que Dios abra nuestros ojos para comenzar a comprender la maravilla y la grandeza que Él ha revelado sobre Sí mismo a través de Sus actos creativos. Porque solo entonces podremos alabarlo sinceramente como el creador todopoderoso que es.
+#### Necesitamos que Dios abra nuestros ojos para comenzar a comprender la maravilla y la grandeza que Él ha revelado sobre Sí mismo a través de Sus actos creativos. Porque solo entonces podremos alabarlo sinceramente como el <u>creador</u> todopoderoso que es.
 
-#### Se debe confiar en Dios como el Señor soberano, con un plan eterno que cubre todos los eventos y destinos sin excepción. Él tiene poder para redimir, recrear y renovar. Cuanto más lo comprendamos y lo veamos como el creador soberano todopoderoso, más confiaremos en Él.
+#### Se debe confiar en Dios como el Señor soberano, con un plan eterno que cubre todos los eventos y destinos sin excepción. Él tiene poder para redimir, recrear y renovar. Cuanto más lo comprendamos y lo veamos como el <u>creador</u> soberano todopoderoso, más confiaremos en Él.
 
-#### Para nosotros los creyentes, aquí es donde comienza la piedad, con Dios el Creador como el primer foco de nuestros pensamientos.
+#### Para nosotros los creyentes, aquí es donde comienza la <u>piedad</u>, con Dios el Creador como el primer foco de nuestros pensamientos.
 
-### Génesis 1:1b *En el principio Dios creó **los cielos**...* Los cielos, entendidos como espacio y cosmos, fueron formados por el mandato divino de Dios, estando la tierra inicialmente sin forma y vacía, cubierta de oscuridad.
+### Génesis 1:1b *En el principio Dios creó **los cielos**...* Los cielos, entendidos como espacio y cosmos, fueron formados por el mandato divino de Dios, estando la tierra inicialmente sin forma y vacía, <u>cubierta</u> de oscuridad.
 
-#### Cielo SHAMAYIM (vapor, Deuteronomio 33:26; 2 Samuel 22:12; Job 37:18). Puede referirse a las nubes o al firmamento. *Y a través de los cielos en Su majestad* (Deuteronomio 33:26). Es una expresión figurativa que denota omnipotencia. ([^4])
+#### Cielo SHAMAYIM (vapor, Deuteronomio 33:26; 2 Samuel 22:12; Job 37:18). Puede referirse a las nubes o al firmamento. *Y a través de los cielos en Su majestad* (Deuteronomio 33:26). Es una expresión figurativa que <u>denota</u> omnipotencia. ([^4])
 
 #### La creación de Ángeles
 
-##### Todos los ángeles son seres creados. Dios los creó. Esto incluye ángeles caídos como Satanás y sus demonios. Claro que Dios los creó a todos perfectos, pero algunos decidieron rebelarse contra Dios y se convirtieron en demonios. 
+##### Todos los ángeles son seres creados. Dios los creó. Esto incluye <u>ángeles</u> caídos como Satanás y sus demonios. Claro que Dios los creó a todos perfectos, pero algunos decidieron rebelarse contra Dios y se convirtieron en demonios. 
 
-##### Sin embargo, la creación de los ángeles no es detallado en Génesis 1. No sabemos exactamente cuando fueron creados los ángeles. Es posible que sucedió cuando Dios creó los cielos, o cuando Dios creó el firmamento o en otro momento, no sabemos el día porque la Biblia no nos da mayores detalles. 
+##### Sin embargo, la creación de los ángeles no es detallado en Génesis 1. No <u>sabemos</u> exactamente cuando fueron creados los ángeles. Es posible que sucedió cuando Dios creó los cielos, o cuando Dios creó el firmamento o en otro momento, no sabemos el día porque la Biblia no nos da mayores detalles. 
 
-##### Es seguro decir que existe mucha confusión en el mundo de hoy con respecto al mundo espiritual y especialmente en cuanto a los ángeles. Cada cultura tiene sus creencias. Sin embargo, solo Dios es la verdadera fuente de la verdad. Y si estamos realmente interesados en conocer la verdad, entonces tenemos que averiguar lo que Él dice sobre un asunto.
+##### Es seguro decir que existe mucha confusión en el <u>mundo</u> de hoy con respecto al mundo espiritual y especialmente en cuanto a los ángeles. Cada cultura tiene sus creencias. Sin embargo, solo Dios es la verdadera fuente de la verdad. Y si estamos realmente interesados en conocer la verdad, entonces tenemos que averiguar lo que Él dice sobre un asunto.
 
-##### A diferencia de Dios, los ángeles no son eternos. Fueron creados por Dios y, por lo tanto, tuvieron un principio.
+##### A diferencia de Dios, los ángeles no son eternos. Fueron creados por Dios y, por lo tanto, <u>tuvieron</u> un principio.
 
-###### Colosenses 1:16 *Porque en Él fueron creadas **todas las cosas**, tanto en los cielos como en la tierra, visibles e invisibles; ya sean tronos o dominios o poderes o autoridades; todo ha sido creado por medio de Él y para Él.* 
+###### Colosenses 1:16 *Porque en Él fueron creadas **todas las cosas**, tanto en los cielos como en la tierra, <u>visibles</u> e invisibles; ya sean tronos o dominios o poderes o autoridades; todo ha sido creado por medio de Él y para Él.* 
 
-###### El *tronos*, *dominios*, *poderes*, y *autoridades* en este versículo se refieren a la multitud de espíritus que fueron creados por Dios y a los que se les dieron diferentes posiciones de autoridad.
+###### El *tronos*, *dominios*, *poderes*, y *autoridades* en este versículo se refieren a la multitud de espíritus que <u>fueron</u> creados por Dios y a los que se les dieron diferentes posiciones de autoridad.
 
-##### **Todo** (incluyendo a los ángeles) fue creado en 6 días literales. 
+##### **Todo** (incluyendo a los ángeles) fue creado en 6 días <u>literales</u>. 
 
-###### Éxodo 20:11 *Porque en **seis días hizo el SEÑOR los cielos y la tierra**, el mar y todo lo que en ellos hay, y reposó en el séptimo día. Por tanto, el SEÑOR bendijo el día de reposo y lo santificó.*
+###### Éxodo 20:11 *Porque en **seis días hizo el SEÑOR los cielos y la tierra**, el mar y <u>todo</u> lo que en ellos hay, y reposó en el séptimo día. Por tanto, el SEÑOR bendijo el día de reposo y lo santificó.*
 
-###### Algunos maestros de la Biblia quieren colocar la creación de los ángeles antes de la semana de creación en algún momento antes del tiempo para dar tiempo a la evolución. Esto contradice totalmente Éxodo 20:11. 
+###### Algunos maestros de la Biblia quieren colocar la creación de los ángeles antes de la semana de creación en <u>algún</u> momento antes del tiempo para dar tiempo a la evolución. Esto contradice totalmente Éxodo 20:11. 
 
 #### ¿En qué día fueron creados lo ángeles?
 
-##### Génesis 2:1-2 *Así fueron acabados los cielos y la tierra **y todas sus huestes**. En el séptimo día ya Dios había completado la obra que había estado haciendo, y reposó en el día séptimo de toda la obra que había hecho.*
+##### Génesis 2:1-2 *Así fueron acabados los cielos y la tierra **y todas sus huestes**. En el séptimo día ya Dios había completado la <u>obra</u> que había estado haciendo, y reposó en el día séptimo de toda la obra que había hecho.*
 
-##### Lucifer, un ángel, fue creado por Dios en un día, lo cual requiere que sea durante la semana de creación...
+##### Lucifer, un ángel, fue <u>creado</u> por Dios en un día, lo cual requiere que sea durante la semana de creación...
 
-###### Ezequiel 28:13 *En el Edén estabas, en el huerto de Dios; Toda piedra preciosa era tu vestidura: El rubí, el topacio y el diamante, El berilo, el ónice y el jaspe, El zafiro, la turquesa y la esmeralda; Y el oro, la hechura de tus engastes y de tus encajes, Estaba en ti. **El día** que fuiste creado Fueron preparados.*
+###### Ezequiel 28:13 *En el Edén estabas, en el huerto de Dios; Toda piedra preciosa era tu vestidura: El rubí, el topacio y el diamante, El berilo, el ónice y el jaspe, El zafiro, la turquesa y la esmeralda; Y el oro, la hechura de tus <u>engastes</u> y de tus encajes, Estaba en ti. **El día** que fuiste creado Fueron preparados.*
 
-###### Ezequiel 28:15 *Perfecto eras en tus caminos Desde **el día** que fuiste creado Hasta que la iniquidad se halló en ti.*
+###### Ezequiel 28:15 *Perfecto eras en tus caminos Desde **el día** que fuiste <u>creado</u> Hasta que la iniquidad se halló en ti.*
 
 ##### La Biblia indica que los ángeles observaron cuando Dios hizo las lumbreras para la tierra...
 
-###### Job 38:4-7 *¿Dónde estabas tú cuando Yo echaba los cimientos de la tierra? Dímelo, si tienes inteligencia. ¿Quién puso sus medidas? Ya que sabes. ¿O quién extendió sobre ella cordel? ¿Sobre qué se asientan sus bases, O quién puso su piedra angular Cuando cantaban juntas **las estrellas del alba**, Y todos **los hijos de Dios** gritaban de gozo?*
+###### Job 38:4-7 *¿Dónde estabas tú cuando Yo echaba los cimientos de la tierra? Dímelo, si tienes inteligencia. ¿Quién puso sus medidas? Ya que sabes. ¿O quién extendió sobre ella cordel? ¿Sobre qué se asientan sus bases, O quién puso su piedra angular Cuando cantaban <u>juntas</u> **las estrellas del alba**, Y todos **los hijos de Dios** gritaban de gozo?*
 
-###### En Job, los hijos de Dios probablemente se refieran a ángeles...
+###### En Job, los <u>hijos</u> de Dios probablemente se refieran a ángeles...
 
-###### Job 1:6 *Un día, cuando los hijos de Dios vinieron a presentarse delante del SEÑOR, Satanás vino también entre ellos.* 
+###### Job 1:6 *Un día, cuando los hijos de Dios vinieron a presentarse <u>delante</u> del SEÑOR, Satanás vino también entre ellos.* 
 
-###### Si los hijos de Dios son ángeles, entonces en Job podemos deducir que al menos estaban presentes para observar la creación de las estrellas (el cuarto día) *cuando cantaban juntas las estrellas del alba...*. 
+###### Si los hijos de Dios son ángeles, entonces en Job podemos deducir que al menos <u>estaban</u> presentes para observar la creación de las estrellas (el cuarto día) *cuando cantaban juntas las estrellas del alba...*. 
 
 #### ¿Cuándo cayeron los ángeles?
 
-##### Dios había revelado claramente ser digno de alabanza y adoración. Entonces, que Lucifer tenga la audacia de pensar que podría tomar el lugar de Dios, realmente agrega una perspectiva a la profundidad de su orgullo, la arrogancia y la maldad que existe dentro de él.
+##### Dios había revelado claramente ser digno de alabanza y adoración. Entonces, que Lucifer tenga la <u>audacia</u> de pensar que podría tomar el lugar de Dios, realmente agrega una perspectiva a la profundidad de su orgullo, la arrogancia y la maldad que existe dentro de él.
 
-###### La Biblia guarda silencio acerca del momento en qué sucedió la gran rebelión en el cielo cuando Lucifer se llevó a un tercio de los ángeles. Sabemos que tuvo que ser después de los 7 días, debido a que Dios el séptimo día reposó de su obra y declaró que todo era *muy bueno*. Génesis 1:31
+###### La Biblia guarda silencio acerca del momento en qué sucedió la gran rebelión en el cielo cuando Lucifer se llevó a un <u>tercio</u> de los ángeles. Sabemos que tuvo que ser después de los 7 días, debido a que Dios el séptimo día reposó de su obra y declaró que todo era *muy bueno*. Génesis 1:31
 
-##### Si los siguientes versículos se refieren a Lucifer, entonces su caída empezó en el corazón. 
+##### Si los siguientes versículos se refieren a Lucifer, entonces su <u>caída</u> empezó en el corazón. 
 
-###### Isaías 14:12-14 *¡Cómo has caído del cielo, Oh Lucero de la mañana!... Pero tú dijiste en tu corazón: Subiré al cielo, Por encima de las estrellas de Dios levantaré mi trono, Y me sentaré en el monte de la asamblea, En el extremo norte. Subiré sobre las alturas de las nubes, Me haré semejante al Altísimo.*
+###### Isaías 14:12-14 *¡Cómo has caído del cielo, Oh Lucero de la mañana!... Pero tú dijiste en tu corazón: Subiré al cielo, Por encima de las estrellas de Dios levantaré mi trono, Y me sentaré en el monte de la asamblea, En el extremo norte. Subiré <u>sobre</u> las alturas de las nubes, Me haré semejante al Altísimo.*
 
-###### Poco después poseyó a la serpiente y fue con la intención de mentir contra Dios y subyugar al hombre.
+###### Poco después <u>poseyó</u> a la serpiente y fue con la intención de mentir contra Dios y subyugar al hombre.
 
-###### Vemos que Dios no solo castiga al hombre en Génesis 3, sino que también a la serpiente. Si la serpiente, es decir Satanás, ya recibió su condena previa por rebelarse contra Dios, entonces ya su sentencia hubiese sido hecha. Sin embargo, es en Génesis 3 que nos enteramos de que Dios castiga a Satanás para arrastrarse sobre la tierra. Deducimos que, aunque Satanás tuvo la intención en su corazón no llego a efectuar su plan sino en Genesis 2. 
+###### Vemos que Dios no solo castiga al hombre en Génesis 3, sino que también a la serpiente. Si la serpiente, es decir Satanás, ya recibió su condena previa por rebelarse contra Dios, entonces ya su <u>sentencia</u> hubiese sido hecha. Sin embargo, es en Génesis 3 que nos enteramos de que Dios castiga a Satanás para arrastrarse sobre la tierra. Deducimos que, aunque Satanás tuvo la intención en su corazón no llego a efectuar su plan sino en Genesis 2. 
 
 #### Dios creó los ángeles para un propósito especial.
 
-##### Los ángeles fueron creados para ser siervos y mensajeros de Dios. La palabra ángel en realidad significa mensajero. Salmo 103:20-21; Zacarías 1:9-10
+##### Los ángeles fueron creados para ser siervos y mensajeros de Dios. La palabra ángel en <u>realidad</u> significa mensajero. Salmo 103:20-21; Zacarías 1:9-10
 
-##### A veces, los ángeles son enviados a prestar servicio a los cristianos de acuerdo con la voluntad de Dios y para Su gloria.
+##### A veces, los ángeles son enviados a prestar servicio a los cristianos de acuerdo con la voluntad de <u>Dios</u> y para Su gloria.
 
-###### Hebreos 1:14 *¿No son todos ellos* \[ángeles\] *espíritus ministradores, enviados para servir por causa de los que heredarán la salvación?*
+###### Hebreos 1:14 *¿No son todos ellos* \[ángeles\] *espíritus ministradores, enviados para servir por <u>causa</u> de los que heredarán la salvación?*
 
-##### Debido a que Dios es su creador y fue Él quien los creó como Él quería que fueran y para qué propósito quería que fueran creados, todos los ángeles/seres espirituales pertenecen legítimamente a Dios. ¡Él es su dueño!
+##### Debido a que Dios es su creador y fue Él quien los creó como Él quería que fueran y para qué propósito quería que fueran <u>creados</u>, todos los ángeles/seres espirituales pertenecen legítimamente a Dios. ¡Él es su dueño!
 
-##### Este es un punto muy significativo en términos de la autoridad y soberanía de Dios, especialmente en una época en la que las personas, incluso los cristianos, parecen atribuir más autoridad, poder y habilidad a las fuerzas de las tinieblas de lo que es apropiado.
+##### Este es un punto muy significativo en términos de la autoridad y soberanía de Dios, especialmente en una época en la que las personas, <u>incluso</u> los cristianos, parecen atribuir más autoridad, poder y habilidad a las fuerzas de las tinieblas de lo que es apropiado.
 
-##### Así como uno es el dueño de todo lo que hace, Dios es el dueño de todo y de todos los que creó. ¡Él es su Dios, su creador y su dueño!
+##### Así como uno es el dueño de todo lo que hace, Dios es el dueño de todo y de <u>todos</u> los que creó. ¡Él es su Dios, su creador y su dueño!
 
 #### Dios creó a todos los ángeles/seres espirituales perfectos
 
-##### Dado que Dios es completamente santo, nunca crearía nada malo. Todo lo que piensa, dice y hace es perfecto. Aunque Dios sabía absolutamente cómo sería cada ángel, no creó a ninguno de ellos como malvado. Él los creó a todos perfectos y sin pecado.
+##### Dado que Dios es completamente santo, nunca crearía nada malo. Todo lo que <u>piensa</u>, dice y hace es perfecto. Aunque Dios sabía absolutamente cómo sería cada ángel, no creó a ninguno de ellos como malvado. Él los creó a todos perfectos y sin pecado.
 
-##### Colosenses dice que todas las cosas (incluyendo todos los seres espirituales) fueron creadas por Él y para Él (Cristo).
+##### Colosenses dice que todas las <u>cosas</u> (incluyendo todos los seres espirituales) fueron creadas por Él y para Él (Cristo).
 
-##### Entonces, esto incluye a Lucifer y todos los ángeles que luego se convirtieron en Satanás y los demonios.
+##### Entonces, esto incluye a Lucifer y <u>todos</u> los ángeles que luego se convirtieron en Satanás y los demonios.
 
 #### Dios creó una gran cantidad de ángeles. Mateo 26:53; Apocalipsis 5:11
 
-##### La próxima vez que te sientas tentado a preocuparte por los ataques del enemigo, ¡recuerda estos dos versículos y la gran cantidad de ángeles que Dios simplemente habló para que existieran! Con tal poder, sabiduría, soberanía y grandeza, ¿por qué nosotros, como creyentes de la obra terminada, nos encontraríamos remotamente preocupados por lo que el enemigo está tratando de lograr?
+##### La próxima vez que te sientas tentado a preocuparte por los ataques del enemigo, ¡recuerda estos dos versículos y la gran cantidad de ángeles que Dios simplemente habló para que existieran! Con tal poder, sabiduría, soberanía y grandeza, ¿por qué nosotros, como creyentes de la <u>obra</u> terminada, nos encontraríamos remotamente preocupados por lo que el enemigo está tratando de lograr?
 
 ##### Al escudriñar un poco, vemos de las Escrituras que Dios no creó este enorme número de ángeles exactamente igual.
 
-##### Ezequiel 28:11-14 - Este pasaje es una referencia a Lucifer. Observe en el versículo 14, que fue llamado el *querubín protector*. Como todos los demás ángeles, Lucifer también fue creado perfecto, irreprensible y sin pecado. El versículo 15 dice: *Perfecto eras en tus caminos desde el día que fuiste creado*. Parece que Lucifer tenía belleza, sabiduría y una posición por encima de todos los demás ángeles.
+##### Ezequiel 28:11-14 - Este pasaje es una referencia a Lucifer. Observe en el versículo 14, que fue llamado el *querubín protector*. Como todos los demás ángeles, Lucifer también fue creado perfecto, irreprensible y sin pecado. El versículo 15 dice: *Perfecto eras en tus caminos desde el día que fuiste creado*. Parece que Lucifer tenía belleza, sabiduría y una posición por <u>encima</u> de todos los demás ángeles.
 
-##### Este punto habla de la soberanía de Dios como el Creador y Dueño de Su creación. Él tenía la autoridad y el derecho de crear Su creación de la manera que Él deseó que fuera.
+##### Este punto habla de la soberanía de Dios como el Creador y Dueño de Su creación. Él <u>tenía</u> la autoridad y el derecho de crear Su creación de la manera que Él deseó que fuera.
 
 #### Dios creó a los ángeles con un intelecto poderoso y poder para hacer Su voluntad.
 
-##### Salmo 103:20 - Los ángeles tienen gran conocimiento y entendimiento, y Dios les dio poder para hacer grandes cosas. Sin embargo, a diferencia de Dios, no saben y no pueden hacerlo todo.
+##### Salmo 103:20 - Los ángeles tienen gran conocimiento y entendimiento, y Dios les dio poder para hacer grandes <u>cosas</u>. Sin embargo, a diferencia de Dios, no saben y no pueden hacerlo todo.
 
-##### Efesios 3:10 y 1 Pedro 1:12 - Estos dos pasajes nos muestran que los ángeles no lo saben todo. Es muy evidente que Dios desea que Su creación lo conozca. Ha hecho todo lo posible y detallada su revelación.
+##### Efesios 3:10 y 1 Pedro 1:12 - Estos dos pasajes nos muestran que los ángeles no lo saben todo. Es muy evidente que Dios <u>desea</u> que Su creación lo conozca. Ha hecho todo lo posible y detallada su revelación.
 
-##### Él creó a los ángeles primero, en parte para poder revelarse a ellos a medida que avanzaba para crear el resto de la creación. Ahora lo vemos usando su interacción con la iglesia para revelar aún más su sabiduría y gracia al mundo espiritual.
+##### Él creó a los ángeles primero, en parte para <u>poder</u> revelarse a ellos a medida que avanzaba para crear el resto de la creación. Ahora lo vemos usando su interacción con la iglesia para revelar aún más su sabiduría y gracia al mundo espiritual.
 
-##### Entonces, deducimos que los ángeles fueron creados entre el primer y tercer día, pero tenían que estar presentes para observar la creación del cuarto día. 
+##### Entonces, deducimos que los ángeles fueron creados entre el <u>primer</u> y tercer día, pero tenían que estar presentes para observar la creación del cuarto día. 
 
-### Génesis 1:1c *En el principio Dios creó los cielos **y la tierra**.* Nuevamente, de la nada, Dios creó. De lo que no existía absolutamente nada, ahora tenemos cielos y tierra porque Dios los creó. Es importante entender que no había nada antes que Dios lo creara. Antes del principio solo estaba Dios el Padre, Dios el Hijo y Dios el Espíritu Santo. 
+### Génesis 1:1c *En el principio Dios creó los cielos **y la tierra**.* Nuevamente, de la nada, Dios creó. De lo que no existía absolutamente nada, ahora tenemos cielos y tierra porque Dios los creó. Es importante <u>entender</u> que no había nada antes que Dios lo creara. Antes del principio solo estaba Dios el Padre, Dios el Hijo y Dios el Espíritu Santo. 
 
 #### ¿Cómo era la tierra en el principio cuando la creó?
 
-### Génesis 1:2a *La tierra estaba sin orden y vacía, y las tinieblas cubrían la superficie...* en su estado inicial, la tierra era sin forma, faltaba llenarla y era cubierta por oscuridad. 
+### Génesis 1:2a *La tierra estaba sin orden y vacía, y las tinieblas cubrían la superficie...* en su estado inicial, la tierra era sin forma, faltaba llenarla y era <u>cubierta</u> por oscuridad. 
 
-#### Dios pudo revelar la creación del mundo y terminar con el versículo 1. Esta frase nos muestra que Dios quería invitarnos a ver dos cosas: 
+#### Dios pudo revelar la creación del mundo y terminar con el versículo 1. Esta frase nos muestra que Dios <u>quería</u> invitarnos a ver dos cosas: 
 
-##### Primero, el proceso de la creación mientras Dios fue creando. Fue de ser completamente sin forma y vacía a ser lleno y muy bueno. 
+##### Primero, el proceso de la creación mientras Dios fue creando. Fue de ser completamente sin <u>forma</u> y vacía a ser lleno y muy bueno. 
 
-##### Segundo, más que simplemente conocer el proceso, Dios se va revelando desde lo más mínimo al verlo interactuar con su obra maestra, la creación del universo. Dios no nos esconde Su motivación y propósito al crear, Él nos invita a querer conocerlo desde la misma forma en que relata el inicio de la historia humana. 
+##### Segundo, más que simplemente conocer el <u>proceso</u>, Dios se va revelando desde lo más mínimo al verlo interactuar con su obra maestra, la creación del universo. Dios no nos esconde Su motivación y propósito al crear, Él nos invita a querer conocerlo desde la misma forma en que relata el inicio de la historia humana. 
 
-### Génesis 1:2b *…y las tinieblas cubrían la superficie del abismo, y el Espíritu de Dios se movía sobre la superficie de las aguas.* Igual que una audiencia que mira una obra de arte al empezar y no ve nada apreciable, la creación en este momento solo es un lienzo vacío, todavía no hay nada digno de asombro. En este momento de observar al artista no sabemos si es talentoso o no. Pero nos llama la atención y nos quedamos a mirar un poco más...
+### Génesis 1:2b *…y las tinieblas cubrían la superficie del abismo, y el Espíritu de Dios se movía sobre la superficie de las aguas.* Igual que una audiencia que mira una obra de arte al empezar y no ve nada apreciable, la creación en este momento solo es un <u>lienzo</u> vacío, todavía no hay nada digno de asombro. En este momento de observar al artista no sabemos si es talentoso o no. Pero nos llama la atención y nos quedamos a mirar un poco más...
 
-#### Nuestra imaginación es cautivada inmediatamente al entrar en la historia. Es como cuando alguien nos quiere contar un cuento. Para que un cuento sea bueno debe tener un protagonista, acción, conflicto y resolución. Este cuento contiene todos esos aspectos como ya empezaremos a ver. Solo que esta vez no es un cuento de hadas, es la historia real de todas las cosas. 
+#### Nuestra imaginación es cautivada inmediatamente al entrar en la historia. Es como cuando alguien nos quiere contar un cuento. Para que un cuento sea bueno debe tener un protagonista, acción, conflicto y resolución. Este cuento contiene todos esos aspectos como ya empezaremos a ver. Solo que esta vez no es un cuento de hadas, es la <u>historia</u> real de todas las cosas. 
 
-##### No es solo **basado** en hechos reales, es exactamente lo que sucedió y Dios como testigo ocular de los hechos, es al narrador. 
+##### No es solo **basado** en hechos reales, es exactamente lo que sucedió y Dios como <u>testigo</u> ocular de los hechos, es al narrador. 
 
-##### La narrativa nos atrae como un magneto porque contiene y responde los aspectos más existenciales: De dónde venimos y porque existimos...
+##### La narrativa nos atrae como un magneto porque contiene y responde los <u>aspectos</u> más existenciales: De dónde venimos y porque existimos...
 
-### Génesis 1:3 *Entonces dijo Dios: **Sea la luz**. Y hubo luz.* La historia no empieza por un accidente sin causa ni razón. Nuestra historia empieza con Dios creando y luego entrando cuidadosamente a formar su creación y llenarlo de cosas maravillosas que delatan un diseñador hábil y creativo. 
+### Génesis 1:3 *Entonces dijo Dios: **Sea la luz**. Y hubo luz.* La historia no empieza por un accidente sin causa ni razón. Nuestra historia empieza con Dios creando y luego entrando cuidadosamente a formar su creación y llenarlo de cosas maravillosas que <u>delatan</u> un diseñador hábil y creativo. 
 
-#### A diferencia de algunos artistas, Dios no nos deja con una creación abstracta para que lleguemos a conclusiones indecisas e incongruentes. El propósito de crearnos la tierra y los cielos es para revelarse claramente por medio de lo que ha creado. 
+#### A diferencia de algunos artistas, Dios no nos deja con una creación abstracta para que lleguemos a conclusiones indecisas e incongruentes. El propósito de crearnos la tierra y los cielos es para revelarse claramente por <u>medio</u> de lo que ha creado.
 
-#### Al hacer una búsqueda rápida, encontramos al menos 50 veces a lo largo de toda la Biblia que Dios se refiere a sí mismo como *El Dios vivo*. Josué 3:10 
+#### Al hacer una búsqueda rápida, encontramos al menos 50 veces a lo largo de toda la Biblia que Dios se <u>refiere</u> a sí mismo como *El Dios vivo*. Josué 3:10 
 
-#### Hemos visto otros lugares en las Escrituras donde Dios describe a los dioses falsos como si no estuvieran vivos. Tienen ojos, pero no pueden ver. Oídos, pero no pueden oír. Tienen bocas, pero no pueden hablar.
+#### Hemos visto otros lugares en las Escrituras donde Dios <u>describe</u> a los dioses falsos como si no estuvieran vivos. Tienen ojos, pero no pueden ver. Oídos, pero no pueden oír. Tienen bocas, pero no pueden hablar.
 
-#### Por lo tanto, no es coincidencia que antes de que Dios haya creado algo, incluya la frase *y dijo Dios...* ¡Él quiere dejar muy claro que Él y solo Él es el Dios omnisciente, todopoderoso y vivo!
+#### Por lo tanto, no es coincidencia que antes de que Dios haya <u>creado</u> algo, incluya la frase *y dijo Dios...* ¡Él quiere dejar muy claro que Él y solo Él es el Dios omnisciente, todopoderoso y vivo!
 
-#### Cuando realmente te detienes y piensas en ello, al crear la luz o cualquier otra cosa, Dios realmente ni siquiera necesitaba decir una palabra. Decidió hacer su intención audible, conocible. 
+#### Cuando realmente te detienes y piensas en ello, al crear la luz o cualquier otra cosa, Dios realmente ni siquiera necesitaba decir una palabra. Decidió <u>hacer</u> su intención audible, conocible. 
 
-### Génesis 1:4 *Dios vio que la luz era buena; y Dios separó la luz de las tinieblas.* Dios declara que la luz era *buena*. La luz permite ver lo que existe. Sin la luz no se puede observar nada. Ya que Dios quiere que se vea el mundo, lo que hace es crear la luz para poder ver su creación. 
+### Génesis 1:4 *Dios vio que la luz era buena; y Dios separó la luz de las tinieblas.* Dios declara que la luz era *buena*. La luz permite ver lo que existe. Sin la luz no se puede <u>observar</u> nada. Ya que Dios quiere que se vea el mundo, lo que hace es crear la luz para poder ver su creación. 
 
-### Génesis 1:5 *Y Dios llamó a la luz día y a las tinieblas llamó noche. Y fue la tarde y fue la mañana: un día.* Dios empieza diferenciando el día de la noche. 
+### Génesis 1:5 *Y Dios llamó a la luz día y a las tinieblas llamó noche. Y fue la tarde y fue la mañana: un día.* Dios empieza diferenciando el día de la <u>noche</u>. 
 
-#### La secuencia de eventos que establece el primer día: Todo estaba en tinieblas. Luego Dios creó la luz (Génesis 1:3-4). Separó la luz de las tinieblas. Entonces el ciclo terminó por la tarde (oscuridad), luego mañana (luz). Noche, día, noche, el primer día. Según el día judío, el cambio de día no sucede a medianoche sino al atardecer. 
+#### La secuencia de eventos que establece el primer día: Todo estaba en tinieblas. Luego Dios creó la luz (Génesis 1:3-4). Separó la luz de las tinieblas. Entonces el ciclo terminó por la tarde (oscuridad), luego mañana (luz). Noche, día, noche, el primer día. Según el día judío, el cambio de día no <u>sucede</u> a medianoche sino al atardecer. 
 
-#### Debemos aclarar entre Dios es luz (un concepto) y Dios creó la luz (literal). Dios no es luz porque alumbra. Cuando Juan dice que Dios es luz, se estaba refiriendo a que Dios es verdad, puro, santo y perfecto. Dios creó la luz, significa algo que literalmente alumbra, hace visible y distingue lo que es oscuridad. 
+#### Debemos aclarar entre Dios es luz (un concepto) y Dios creó la luz (literal). Dios no es luz porque alumbra. Cuando Juan dice que Dios es luz, se estaba refiriendo a que Dios es verdad, puro, santo y perfecto. Dios creó la luz, significa algo que literalmente <u>alumbra</u>, hace visible y distingue lo que es oscuridad. 
 
-#### Moisés estaba escribiendo Génesis a los israelitas justo antes de que entraran en la Tierra Prometida, donde se enfrentarían a muchos, muchos dioses falsos muertos. En este acto de crear luz (no el sol, sino luz), Dios reveló el deseo que tiene de que se vea todo mientras lo va creando. 
+#### Moisés estaba escribiendo Génesis a los israelitas justo antes de que entraran en la Tierra Prometida, donde se enfrentarían a muchos, muchos dioses falsos muertos. En este acto de crear luz (no el sol, sino luz), Dios reveló el deseo que tiene de que se vea <u>todo</u> mientras lo va creando. 
 
-#### Este ciclo de día y noche continuará hasta el fin de los tiempos, porque Dios es fiel y Él es el sustentador de todas las cosas.
+#### Este ciclo de día y noche continuará hasta el fin de los <u>tiempos</u>, porque Dios es fiel y Él es el sustentador de todas las cosas.
 
 ## Génesis 1:6-8 - El segundo día, Dios creó los cielos
 
-### Génesis 1:6 *Entonces dijo Dios: Haya expansión en medio de las aguas, y separe las aguas de las aguas.* El segundo día Dios separó las aguas en la expansión. Dios quiso separar dos grupos de aguas con una expansión en el medio. 
+### Génesis 1:6 *Entonces dijo Dios: Haya expansión en medio de las aguas, y separe las aguas de las aguas.* El segundo día Dios separó las aguas en la expansión. Dios quiso <u>separar</u> dos grupos de aguas con una expansión en el medio. 
 
-### Génesis 1:7 *Dios hizo la expansión, y separó las aguas que estaban debajo de la expansión de las aguas que estaban sobre la expansión. Y así fue.* Dios creó una expansión y separó las aguas por debajo y por encima. 
+### Génesis 1:7 *Dios hizo la expansión, y separó las aguas que estaban debajo de la expansión de las aguas que estaban sobre la expansión. Y así fue.* Dios creó una expansión y separó las aguas por <u>debajo</u> y por encima. 
 
-### Génesis 1:8 *Y Dios llamó a la expansión cielos. Y fue la tarde y fue la mañana: el segundo día.* Dios llamó a la expansión *cielos*. Es interesante que cielos es plural. No significa que existan varios cielos, pero si hay varias capas. 
+### Génesis 1:8 *Y Dios llamó a la expansión cielos. Y fue la tarde y fue la mañana: el segundo día.* Dios llamó a la expansión *cielos*. Es interesante que cielos es <u>plural</u>. No significa que existan varios cielos, pero si hay varias capas. 
 
-##### El cielo (donde vuelan las aves). Génesis 1:20
+##### El <u>cielo</u> (donde vuelan las aves). Génesis 1:20
 
-##### El reino sobre el firmamento (las aguas de arriba). Génesis 1:7
+##### El <u>reino</u> sobre el firmamento (las aguas de arriba). Génesis 1:7
 
-##### El cielo más alto (la morada de Dios). Deuteronomio 10:14
+##### El cielo más <u>alto</u> (la morada de Dios). Deuteronomio 10:14
 
-#### Dios creó el firmamento. El firmamento en estos versículos se refiere al espacio atmosférico que rodea la tierra. Lo que podemos ver es solo una fracción de la vasta atmósfera que lo rodea. Con solo hablar, Dios creó la atmósfera de la Tierra y fue perfecta.
+#### Dios creó el firmamento. El firmamento en estos versículos se refiere al espacio atmosférico que rodea la tierra. Lo que podemos ver es solo una fracción de la vasta atmósfera que lo rodea. Con <u>solo</u> hablar, Dios creó la atmósfera de la Tierra y fue perfecta.
 
-##### Jeremías 10:12 *Él es el que hizo la tierra con Su poder, El que estableció el mundo con Su sabiduría, Y con Su inteligencia extendió los cielos.*
+##### Jeremías 10:12 *Él es el que hizo la tierra con Su poder, El que estableció el <u>mundo</u> con Su sabiduría, Y con Su inteligencia extendió los cielos.*
 
-##### Salmo 19:1 *Los cielos proclaman la gloria de Dios, Y el firmamento anuncia la obra de Sus manos.*
+##### Salmo 19:1 *Los cielos proclaman la gloria de Dios, Y el firmamento anuncia la <u>obra</u> de Sus manos.*
 
-#### Otra cosa que realmente se destaca en el relato de la creación es la sabiduría del orden en el que Dios creó todas las cosas. Era apropiado y lógico que Dios creara primero la luz y luego la atmósfera, dos de las cosas principales que todos los seres vivos necesitarían para sobrevivir. 
+#### Otra cosa que realmente se destaca en el relato de la creación es la sabiduría del orden en el que Dios creó todas las cosas. Era apropiado y lógico que Dios creara primero la luz y luego la atmósfera, dos de las cosas principales que todos los <u>seres</u> vivos necesitarían para sobrevivir. 
 
 ## Preguntas de revisión
 
