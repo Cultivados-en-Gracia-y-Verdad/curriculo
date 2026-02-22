@@ -561,119 +561,119 @@
 
 ## Génesis 1:9-13 - Al tercer día, Dios formó la tierra seca y creó toda la vida vegetal
 
-### Génesis 1:9 *Entonces dijo Dios: Júntense en un lugar las aguas que están debajo de los cielos, y que aparezca lo seco. Y así fue.*
+### Génesis 1:9 *Entonces dijo Dios: Júntense en un lugar las aguas que <u>están</u> debajo de los cielos, y que aparezca lo seco. Y así fue.*
 
-#### Al tercer día, Dios hizo que parte del agua que aún cubría la tierra retrocediera, y la tierra seca quedó expuesta por primera vez. Fue entonces cuando se formaron los océanos originales. Dios mandó y las aguas y los océanos le obedecieron. Job 28:23-28, 38:4-6, 8-11; Salmo 33:6-9, 74:12-17
+#### Al tercer día, Dios hizo que parte del agua que aún <u>cubría</u> la tierra retrocediera, y la tierra seca quedó expuesta por primera vez. Fue entonces cuando se formaron los océanos originales. Dios mandó y las aguas y los océanos le obedecieron. Job 28:23-28, 38:4-6, 8-11; Salmo 33:6-9, 74:12-17
 
-### Génesis 1:10 *Dios llamó a lo seco tierra, y al conjunto de las aguas llamó mares. Y Dios vio que era bueno.*
+### Génesis 1:10 *Dios llamó a lo seco tierra, y al conjunto de las aguas llamó mares. Y Dios vio que era <u>bueno</u>.*
 
-#### Dios no solo demostró su poder y control soberano sobre el agua en el principio, sino que continuó haciéndolo a lo largo de las Escrituras.
+#### Dios no solo demostró su poder y control soberano sobre el agua en el principio, sino que continuó haciéndolo a lo <u>largo</u> de las Escrituras.
 
-#### Él usó el diluvio para juzgar la tierra durante el tiempo de Noé.
+#### Él usó el diluvio para juzgar la tierra durante el <u>tiempo</u> de Noé.
 
-#### Convirtió el agua en sangre para demostrar su poder a Israel y Egipto cuando los israelitas eran esclavos en Egipto.
+#### Convirtió el agua en sangre para demostrar su <u>poder</u> a Israel y Egipto cuando los israelitas eran esclavos en Egipto.
 
-#### Dividió el Mar Rojo, y proporcionó agua de una roca en el desierto.
+#### Dividió el Mar Rojo, y proporcionó agua de una <u>roca</u> en el desierto.
 
-#### En los días de Elías, retuvo la lluvia durante dos años y luego permitió que lloviera nuevamente en el tiempo señalado para Su gloria.
+#### En los días de Elías, retuvo la lluvia <u>durante</u> dos años y luego permitió que lloviera nuevamente en el tiempo señalado para Su gloria.
 
-#### Jesús convirtió el agua en vino y calmó las olas furiosas en una tormenta.
+#### Jesús convirtió el agua en <u>vino</u> y calmó las olas furiosas en una tormenta.
 
-#### Dios ha usado el agua una y otra vez para revelar su poder y fuerza a la humanidad. También en el tercer día, Dios creó toda la vida vegetal. Dios creó una gran variedad de plantas, árboles y frutas con una increíble diversidad de colores, formas y tamaños. Se estima que hay más de 500 categorías de frutas solamente.
+#### Dios ha usado el agua una y otra vez para revelar su poder y fuerza a la humanidad. También en el tercer día, Dios creó toda la vida vegetal. Dios creó una gran variedad de plantas, árboles y frutas con una increíble diversidad de <u>colores</u>, formas y tamaños. Se estima que hay más de 500 categorías de frutas solamente.
 
-### Génesis 1:11 *Entonces dijo Dios: Produzca la tierra vegetación: hierbas que den semilla, y árboles frutales que den su fruto con su semilla sobre la tierra según su especie. Y así fue.*
+### Génesis 1:11 *Entonces dijo Dios: Produzca la tierra vegetación: hierbas que den <u>semilla</u>, y árboles frutales que den su fruto con su semilla sobre la tierra según su especie. Y así fue.*
 
-### Génesis 1:12 *Y produjo la tierra vegetación: hierbas que dan semilla según su especie, y árboles que dan su fruto con semilla, según su especie. Y Dios vio que era bueno.*
+### Génesis 1:12 *Y produjo la tierra vegetación: hierbas que dan semilla según su especie, y árboles que dan su fruto con <u>semilla</u>, según su especie. Y Dios vio que era bueno.*
 
-#### Los árboles y plantas que tenemos hoy provienen de aquellos que Dios creó en el tercer día de la creación. Dios es el diseñador maestro de todas las cosas. La ciencia es una herramienta o disciplina maravillosa que Dios nos ha dado y que nos permite descubrir aún más acerca de Su increíble sabiduría, poder y gloria.
+#### Los árboles y plantas que tenemos hoy provienen de aquellos que Dios creó en el <u>tercer</u> día de la creación. Dios es el diseñador maestro de todas las cosas. La ciencia es una herramienta o disciplina maravillosa que Dios nos ha dado y que nos permite descubrir aún más acerca de Su increíble sabiduría, poder y gloria.
 
-#### Hice una búsqueda en línea para obtener un número de cuántos tipos diferentes de verduras existen en el mundo y obtuve esta cita: *Actualmente, debido a su gran número, no existe una lista oficial de cuántas verduras hay en el mundo. Pero por ejemplo, hay 4,000 variedades solamente de tomates.*
+#### Hice una búsqueda en línea para obtener un número de cuántos <u>tipos</u> diferentes de verduras existen en el mundo y obtuve esta cita: *Actualmente, debido a su gran número, no existe una lista oficial de cuántas verduras hay en el mundo. Pero por ejemplo, hay 4,000 variedades solamente de tomates.*
 
-#### Luego tienes una gran cantidad de vegetación no comestible y vegetación que puedes ver y vegetación que no puedes ver. Y cada variedad fue creada con la capacidad de reproducirse según su propio tipo. Las semillas de manzana solo producirán manzanos. Nunca producirán tallos de maíz. Dios nunca ha tenido que regresar y actualizar o reparar ninguna parte de la vida vegetal que creó.
+#### Luego tienes una gran cantidad de vegetación no comestible y vegetación que puedes ver y vegetación que no <u>puedes</u> ver. Y cada variedad fue creada con la capacidad de reproducirse según su propio tipo. Las semillas de manzana solo producirán manzanos. Nunca producirán tallos de maíz. Dios nunca ha tenido que regresar y actualizar o reparar ninguna parte de la vida vegetal que creó.
 
-#### Tomemos las flores, por ejemplo. Cada tipo tiene un patrón de identificación propio. En las semillas de cada flor hay características peculiares de su tipo. Cuando estas semillas se propagan, invariablemente producirán flores con el mismo pétalo, disposición de tallos y fragancia que las originales. Si examinaras una flor bajo una lupa, verías patrones característicos de su tipo.
+#### Tomemos las flores, por ejemplo. Cada tipo tiene un patrón de identificación propio. En las semillas de cada flor hay características peculiares de su tipo. Cuando estas semillas se propagan, invariablemente producirán flores con el mismo pétalo, disposición de <u>tallos</u> y fragancia que las originales. Si examinaras una flor bajo una lupa, verías patrones característicos de su tipo.
 
-#### Luego, si tomaras una pequeña rebanada del pétalo o tallo y la pusieras bajo un microscopio, descubrirías una disposición aún más ordenada de las células peculiares de ese tipo de flor. Este es solo un pequeño ejemplo del hecho de que Dios es verdaderamente, El Diseñador Maestro. Las cosas no sucedieron por casualidad. Dios creó esta gran variedad de plantas y árboles con un propósito. Dios existía antes de que existiera cualquier vida vegetal, por lo que sabemos que Él no las creó para sí mismo. Dios estaba preparando la tierra para alguien más, sí para la raza humana.
+#### Luego, si tomaras una pequeña rebanada del pétalo o tallo y la pusieras <u>bajo</u> un microscopio, descubrirías una disposición aún más ordenada de las células peculiares de ese tipo de flor. Este es solo un pequeño ejemplo del hecho de que Dios es verdaderamente, El Diseñador Maestro. Las cosas no sucedieron por casualidad. Dios creó esta gran variedad de plantas y árboles con un propósito. Dios existía antes de que existiera cualquier vida vegetal, por lo que sabemos que Él no las creó para sí mismo. Dios estaba preparando la tierra para alguien más, sí para la raza humana.
 
-#### Él creó una gran variedad de plantas que sabía que necesitaríamos usar como alimento. También creó una gran variedad de plantas y árboles de los cuales sabía que tendríamos que depender para otras cosas: calefacción, construcción de casas, etc. Luego, hay otra gran variedad de vegetación que Él creó por la sencilla razón de que sabía que disfrutaríamos de su belleza y fragancia.
+#### Él creó una gran variedad de plantas que sabía que necesitaríamos usar como <u>alimento</u>. También creó una gran variedad de plantas y árboles de los cuales sabía que tendríamos que depender para otras cosas: calefacción, construcción de casas, etc. Luego, hay otra gran variedad de vegetación que Él creó por la sencilla razón de que sabía que disfrutaríamos de su belleza y fragancia.
 
 ### Génesis 1:13 *Y fue la tarde y fue la mañana: el tercer día.*
 
 ## Génesis 1:14-19 - El cuarto día, Dios creó el sol, la luna y las estrellas
 
-### Génesis 1:14 *Entonces dijo Dios: Haya lumbreras en la expansión de los cielos para separar el día de la noche, y sean para señales y para estaciones y para días y para años.*
+### Génesis 1:14 *Entonces dijo Dios: Haya lumbreras en la expansión de los cielos para separar el <u>día</u> de la noche, y sean para señales y para estaciones y para días y para años.*
 
-### Génesis 1:15 *y sean por luminarias en la expansión de los cielos para alumbrar sobre la tierra. Y así fue.*
+### Génesis 1:15 *y <u>sean</u> por luminarias en la expansión de los cielos para alumbrar sobre la tierra. Y así fue.*
 
-### Génesis 1:16 *Dios hizo las dos grandes lumbreras, la lumbrera mayor para dominio del día y la lumbrera menor para dominio de la noche. Hizo también las estrellas.*
+### Génesis 1:16 *Dios hizo las dos grandes lumbreras, la lumbrera <u>mayor</u> para dominio del día y la lumbrera menor para dominio de la noche. Hizo también las estrellas.*
 
-### Génesis 1:17 *Dios las puso en la expansión de los cielos para alumbrar sobre la tierra.*
+### Génesis 1:17 *Dios las puso en la expansión de los cielos para alumbrar <u>sobre</u> la tierra.*
 
-### Génesis 1:18 *y para dominar el día y la noche, y para separar la luz de las tinieblas. Y Dios vio que era bueno.*
+### Génesis 1:18 *y para dominar el día y la <u>noche</u>, y para separar la luz de las tinieblas. Y Dios vio que era bueno.*
 
-### Génesis 1:19 *Y fue la tarde y fue la mañana: el cuarto día.*
+### Génesis 1:19 *Y fue la tarde y fue la mañana: el <u>cuarto</u> día.*
 
-#### Agreguemos algo de perspectiva a esto. Si estuviéramos viajando a la velocidad de la luz (300.000 km por segundo), podríamos hacer siete viajes alrededor del mundo en un segundo. A esa velocidad, se necesitarían cuatro años para llegar a la estrella más cercana y 59.000 años para llegar al final de nuestra galaxia, y luego otros 750.000 años para llegar a la siguiente galaxia.
+#### Agreguemos algo de perspectiva a esto. Si estuviéramos viajando a la velocidad de la luz (300.000 km por segundo), podríamos hacer siete viajes alrededor del mundo en un segundo. A esa velocidad, se necesitarían cuatro años para <u>llegar</u> a la estrella más cercana y 59.000 años para llegar al final de nuestra galaxia, y luego otros 750.000 años para llegar a la siguiente galaxia.
 
-#### La galaxia en la que estamos tiene más de 200 mil millones de estrellas. Un millón de ellos son del tamaño del sol, que es solo una estrella de tamaño mediano.
+#### La galaxia en la que estamos tiene más de 200 mil millones de estrellas. Un millón de <u>ellos</u> son del tamaño del sol, que es solo una estrella de tamaño mediano.
 
-#### Los astrónomos estiman que hay tantas galaxias fuera de la Vía Láctea como estrellas en ella. El Hubble Ultra Deep Field, tomado en 2004, tomó imágenes de 10.000 galaxias en un cono de espacio tan delgado que podría cubrirlo con un grano de arena sostenido con el brazo extendido. Integrado en todo el cielo, eso significaría que hay más de 100 mil millones de galaxias en el universo visible, muchas con más de 100 mil millones de estrellas cada una.
+#### Los astrónomos estiman que hay <u>tantas</u> galaxias fuera de la Vía Láctea como estrellas en ella. El Hubble Ultra Deep Field, tomado en 2004, tomó imágenes de 10.000 galaxias en un cono de espacio tan delgado que podría cubrirlo con un grano de arena sostenido con el brazo extendido. Integrado en todo el cielo, eso significaría que hay más de 100 mil millones de galaxias en el universo visible, muchas con más de 100 mil millones de estrellas cada una.
 
-#### Según el Salmo 147:4, Dios las llama a todas por su nombre. Tenga en cuenta que Dios no solo ha creado este inmenso universo, sino que también creó todas las leyes y la física que gobiernan el universo.
+#### Según el Salmo 147:4, Dios las llama a <u>todas</u> por su nombre. Tenga en cuenta que Dios no solo ha creado este inmenso universo, sino que también creó todas las leyes y la física que gobiernan el universo.
 
-#### El sol, la luna y las estrellas también continúan siguiendo sus patrones ordenados para los que Dios los creó, a partir de este cuarto día de la creación. Salmo 104:19
+#### El sol, la luna y las estrellas también continúan siguiendo sus patrones ordenados para los que Dios los creó, a <u>partir</u> de este cuarto día de la creación. Salmo 104:19
 
-#### Isaías 40:12 - Todo el universo fue creado para que funcionara plenamente de la manera que Dios quiso que lo hiciera a lo largo de todos los tiempos. No pasaron muchos años luz para que la luz de los cuerpos celestes llegara a la tierra. Su luz era visible desde el planeta Tierra en el momento en que Dios los creó.
+#### Isaías 40:12 - Todo el universo fue <u>creado</u> para que funcionara plenamente de la manera que Dios quiso que lo hiciera a lo largo de todos los tiempos. No pasaron muchos años luz para que la luz de los cuerpos celestes llegara a la tierra. Su luz era visible desde el planeta Tierra en el momento en que Dios los creó.
 
-##### Jeremías 23:23 *¿Acaso soy Yo un Dios de cerca, declara el SEÑOR, Y no un Dios de lejos?*
+##### Jeremías 23:23 *¿Acaso soy Yo un Dios de cerca, <u>declara</u> el SEÑOR, Y no un Dios de lejos?*
 
-##### Jeremías 23:24 *¿Podrá alguien esconderse en escondites De modo que Yo no lo vea?, declara el SEÑOR. ¿No lleno Yo los cielos y la tierra?, declara el SEÑOR.*
+##### Jeremías 23:24 *¿Podrá alguien esconderse en escondites De modo que Yo no lo vea?, declara el SEÑOR. ¿No lleno Yo los <u>cielos</u> y la tierra?, declara el SEÑOR.*
 
 ## Génesis 1:20-23 - El quinto día, Dios creó toda la vida marina y las aves
 
-### Génesis 1:20 *Entonces dijo Dios: Llénense las aguas de multitudes de seres vivientes, y vuelen las aves sobre la tierra en la abierta expansión de los cielos.*
+### Génesis 1:20 *Entonces dijo Dios: Llénense las aguas de multitudes de seres vivientes, y vuelen las aves sobre la tierra en la abierta expansión de los <u>cielos</u>.*
 
-### Génesis 1:21 *Y Dios creó los grandes monstruos marinos y todo ser viviente que se mueve, de los cuales, según su especie, están llenas las aguas, y toda ave según su especie. Y Dios vio que era bueno.*
+### Génesis 1:21 *Y Dios creó los grandes monstruos marinos y todo ser viviente que se <u>mueve</u>, de los cuales, según su especie, están llenas las aguas, y toda ave según su especie. Y Dios vio que era bueno.*
 
-### Génesis 1:22 *Dios los bendijo, diciendo: Sean fecundos y multiplíquense, y llenen las aguas en los mares, y multiplíquense las aves en la tierra.*
+### Génesis 1:22 *Dios los <u>bendijo</u>, diciendo: Sean fecundos y multiplíquense, y llenen las aguas en los mares, y multiplíquense las aves en la tierra.*
 
-### Génesis 1:23 *Y fue la tarde y fue la mañana: el quinto día.*
+### Génesis 1:23 *Y fue la tarde y fue la <u>mañana</u>: el quinto día.*
 
-#### Dios creó numerosos tipos de criaturas acuáticas y aves de innumerables diseños y formas. Cuanto más busca el hombre en las profundidades oceánicas y en los lugares remotos de la tierra, más tipos de vida marina y aves se descubren. Con respecto a los mares, una cita que encontré decía: *Más de un millón de especies conocidas de plantas y animales viven allí y los científicos dicen que puede haber hasta como nueve millones de especies que aún no hemos descubierto*.
+#### Dios creó numerosos tipos de criaturas acuáticas y aves de innumerables diseños y formas. Cuanto más busca el hombre en las profundidades oceánicas y en los lugares remotos de la tierra, más tipos de vida <u>marina</u> y aves se descubren. Con respecto a los mares, una cita que encontré decía: *Más de un millón de especies conocidas de plantas y animales viven allí y los científicos dicen que puede haber hasta como nueve millones de especies que aún no hemos descubierto*.
 
-#### Dios creó a cada ser viviente para que solo pudiera reproducirse *según su especie.* La frase *según su género* se repite diez veces en el primer capítulo del Génesis. El ADN de cada organismo fue creado y programado por Dios para que solo pueda dirigirse a la reproducción del mismo tipo. Aunque son posibles grandes variaciones dentro de cada tipo, la evolución de nuevos tipos es imposible.
+#### Dios creó a cada ser viviente para que solo pudiera reproducirse *según su especie.* La frase *según su género* se repite diez veces en el primer capítulo del Génesis. El ADN de cada organismo fue creado y programado por Dios para que solo <u>pueda</u> dirigirse a la reproducción del mismo tipo. Aunque son posibles grandes variaciones dentro de cada tipo, la evolución de nuevos tipos es imposible.
 
-##### Incluso las criaturas más pequeñas y ordinarias son creación de Dios y son increíblemente complejas. *La biología molecular ha demostrado que incluso el más simple de todos los sistemas vivos de la tierra hoy en día, las células bacterianas, son extremadamente complejas...*
+##### Incluso las criaturas más pequeñas y ordinarias son <u>creación</u> de Dios y son increíblemente complejas. *La biología molecular ha demostrado que incluso el más simple de todos los sistemas vivos de la tierra hoy en día, las células bacterianas, son extremadamente complejas...*
 
-##### *Los seres humanos tenemos 1 célula de las de bacteria por cada una de las nuestras, pero como ellas son significativamente más pequeñas, pesan menos. En total, los 39 billones de células calculadas en las últimas estimaciones equivalen a 1 o 2 kilos a lo sumo. (*[^5]*)*
+##### *Los seres humanos tenemos 1 célula de las de bacteria por cada una de las nuestras, pero como ellas son significativamente más pequeñas, <u>pesan</u> menos. En total, los 39 billones de células calculadas en las últimas estimaciones equivalen a 1 o 2 kilos a lo sumo. (*[^5]*)*
 
-##### *Cada bacteria es en realidad una verdadera fábrica micro miniaturizada que contiene miles de piezas exquisitamente diseñadas de intrincada maquinaria molecular, compuesta en total por cien mil millones de átomos. Son mucho más complicados que cualquier máquina construida por el hombre y absolutamente sin paralelo en el mundo vivo.*
+##### *Cada bacteria es en realidad una verdadera fábrica micro miniaturizada que contiene miles de piezas exquisitamente diseñadas de intrincada maquinaria molecular, compuesta en total por cien mil millones de átomos. Son mucho más complicados que cualquier máquina construida por el <u>hombre</u> y absolutamente sin paralelo en el mundo vivo.*
 
-##### Nuestro Dios es todopoderoso y Él hizo todo por Su propio gran entendimiento.
+##### Nuestro Dios es todopoderoso y Él hizo todo por Su <u>propio</u> gran entendimiento.
 
 ## Génesis 1:24-25 - El sexto día, Dios creó a los animales
 
-### Génesis 1:24 *Entonces dijo Dios: Produzca la tierra seres vivientes según su especie: ganados, reptiles y animales de la tierra según su especie. Y así fue.*
+### Génesis 1:24 *Entonces dijo Dios: Produzca la tierra seres <u>vivientes</u> según su especie: ganados, reptiles y animales de la tierra según su especie. Y así fue.*
 
-### Génesis 1:25 *Dios hizo las bestias de la tierra según su especie, y el ganado según su especie, y todo lo que se arrastra sobre la tierra según su especie. Y Dios vio que era bueno.*
+### Génesis 1:25 *Dios hizo las bestias de la tierra según su especie, y el ganado según su especie, y todo lo que se arrastra sobre la <u>tierra</u> según su especie. Y Dios vio que era bueno.*
 
-#### Dios creó un número y una variedad inconcebible de animales, y creó cada tipo con características únicas y con la capacidad de reproducir solo otros animales de su propia especie. Para tener un poco más de perspectiva, tenga en cuenta esto: el reino animal se divide en unos 30 filos. Los nueve filos más grandes contienen la mayoría de las especies. Un filo, los artrópodos, que incluye insectos y arañas, constituye aproximadamente el 75 por ciento de todas las especies animales conocidas. Se han descrito más de 900.000 artrópodos y, según algunas estimaciones, puede haber más de cinco millones más.
+#### Dios creó un número y una variedad inconcebible de animales, y creó cada tipo con características únicas y con la capacidad de reproducir solo otros animales de su propia especie. Para tener un poco más de perspectiva, tenga en cuenta esto: El <u>reino</u> animal se divide en unos 30 filos. Los nueve filos más grandes contienen la mayoría de las especies. Un filo, los artrópodos, que incluye insectos y arañas, constituye aproximadamente el 75 por ciento de todas las especies animales conocidas. Se han descrito más de 900.000 artrópodos y, según algunas estimaciones, puede haber más de cinco millones más.
 
-#### El número de especies conocidas para todos los animales que no sean artrópodos es de aproximadamente 250,000. El grupo más grande dentro de los filos de artrópodos y la clase más diversa en todos los reinos son los insectos. Se han descrito más de 750.000. Algunos suponen que hay quizás hasta tres millones de especies diferentes de insectos en el mundo. La familia de insectos más diversa son los escarabajos, con más de 375,000 tipos identificados.
+#### El número de especies conocidas para todos los animales que no sean artrópodos es de aproximadamente 250,000. El grupo más grande dentro de los filos de artrópodos y la clase más diversa en todos los reinos son los insectos. Se han descrito más de 750.000. Algunos suponen que hay quizás hasta tres millones de especies diferentes de insectos en el mundo. La familia de insectos más <u>diversa</u> son los escarabajos, con más de 375,000 tipos identificados.
 
-#### Otras grandes familias de insectos incluyen mariposas y polillas (más de 100,000 especies), abejas y avispas (más de 20,000 especies) y hormigas (alrededor de 10,000 especies).
+#### Otras grandes familias de insectos <u>incluyen</u> mariposas y polillas (más de 100,000 especies), abejas y avispas (más de 20,000 especies) y hormigas (alrededor de 10,000 especies).
 
-#### Con más de 30.000 especies conocidas, las arañas, que no son insectos, constituyen una de las grandes familias de otros tipos de artrópodos.
+#### Con más de 30.000 especies conocidas, las arañas, que no son insectos, constituyen una de las <u>grandes</u> familias de otros tipos de artrópodos.
 
-#### Solo se sabe que otros dos filos dentro del reino animal, los gusanos redondos y los moluscos, contienen más de 100.000 especies. Todos los demás filos generalmente tienen mucho menos.
+#### Solo se sabe que otros dos <u>filos</u> dentro del reino animal, los gusanos redondos y los moluscos, contienen más de 100.000 especies. Todos los demás filos generalmente tienen mucho menos.
 
-#### Los filos dominantes en el planeta, los vertebrados, consisten en menos de 50.000 especies conocidas. Se estima que el número de especies de peces es de más de 20.000, las especies de aves aproximadamente 8.700, los reptiles alrededor de 6.000, los mamíferos alrededor de 4.500 y los anfibios alrededor de 2.500. Dentro de los mamíferos, los roedores son el orden más variado, con 34 familias y más de 1.700 especies.
+#### Los filos dominantes en el planeta, los vertebrados, consisten en menos de 50.000 especies conocidas. Se estima que el número de especies de <u>peces</u> es de más de 20.000, las especies de aves aproximadamente 8.700, los reptiles alrededor de 6.000, los mamíferos alrededor de 4.500 y los anfibios alrededor de 2.500. Dentro de los mamíferos, los roedores son el orden más variado, con 34 familias y más de 1.700 especies.
 
-#### Cada acto de la creación reveló algún aspecto del carácter glorioso de Dios. De este primer capítulo del primer libro de la Biblia, que cubre los primeros hechos registrados que Dios había realizado, ¿cuáles son algunos de los atributos y características de Dios que hemos visto hasta ahora? 
+#### Cada acto de la creación reveló algún aspecto del carácter glorioso de Dios. De este primer capítulo del primer libro de la Biblia, que cubre los primeros <u>hechos</u> registrados que Dios había realizado, ¿cuáles son algunos de los atributos y características de Dios que hemos visto hasta ahora? 
 
-#### Cuantos más hechos y detalles aprendamos sobre la creación de Dios, más comenzaremos a comprender Su grandeza y maravilla. Romanos 1:20
+#### Cuantos más hechos y detalles aprendamos sobre la creación de Dios, más comenzaremos a comprender Su grandeza y <u>maravilla</u>. Romanos 1:20
 
-#### Entonces, ¿qué significa eso para nosotros hoy, unos pocos miles de años después del evento?
+#### Entonces, ¿qué significa eso para nosotros hoy, unos pocos <u>miles</u> de años después del evento?
 
 ## Preguntas de revisión
 
@@ -695,113 +695,113 @@
 
 ## Génesis 1:26-31 Dios terminó de preparar la tierra para el hombre
 
-### ¿Qué características de Dios ves, cuando contemplas que todo lo que Dios creó, lo hizo para satisfacer las necesidades del hombre? Su amor y amabilidad.
+### ¿Qué características de Dios ves, cuando contemplas que <u>todo</u> lo que Dios creó, lo hizo para satisfacer las necesidades del hombre? Su amor y amabilidad.
 
-### Isaías 45:18 *Porque así dice el SEÑOR, que creó los cielos; (El Dios que formó la tierra y la hizo, La estableció y no la hizo un lugar desolado, Sino que la formó para ser habitada): Yo soy el SEÑOR y no hay ningún otro.*
+### Isaías 45:18 *Porque así dice el SEÑOR, que <u>creó</u> los cielos; (El Dios que formó la tierra y la hizo, La estableció y no la hizo un lugar desolado, Sino que la formó para ser habitada): Yo soy el SEÑOR y no hay ningún otro.*
 
-### Todo lo que el hombre necesitaría para vivir en la tierra fue completamente preparado para él por Dios. ¿Qué hace una pareja joven cuando espera su primer bebé? Pasan mucho tiempo preparando cosas que el bebé necesitará a su llegada. ¿Qué tan involucrado está el bebé en todos esos preparativos? Al tomar decisiones sobre qué comprar y proporcionar para el bebé, ¿cuánto consultan los padres al bebé? NADA. Los padres saben qué es lo mejor y toman todas las decisiones. CADA decisión que toman está motivada por el amor.
+### Todo lo que el hombre necesitaría para vivir en la tierra fue completamente preparado para él por Dios. ¿Qué hace una pareja joven cuando espera su primer bebé? Pasan mucho tiempo preparando cosas que el bebé necesitará a su llegada. ¿Qué tan involucrado está el bebé en todos esos preparativos? Al tomar decisiones sobre qué <u>comprar</u> y proporcionar para el bebé, ¿cuánto consultan los padres al bebé? NADA. Los padres saben qué es lo mejor y toman todas las decisiones. CADA decisión que toman está motivada por el amor.
 
-### ¡Es lo mismo con Dios! Dios hizo todos los preparativos y estableció un lugar para el hombre. ¡El lugar que Él preparó era perfecto porque Dios es perfecto! Cada decisión Dios la tomó con amor hacia aquellos que Él iba a crear y su posterior descendencia que seguiría. Todo esto fue en preparación para el objetivo final de llevar a cabo Su plan eterno de redención.
+### ¡Es lo mismo con Dios! Dios hizo todos los preparativos y estableció un lugar para el hombre. ¡El lugar que Él preparó era perfecto porque Dios es perfecto! Cada decisión Dios la tomó con amor hacia aquellos que Él iba a crear y su posterior descendencia que seguiría. Todo esto fue en preparación para el objetivo final de llevar a cabo Su plan <u>eterno</u> de redención.
 
-### Ahora, como creyentes, tenemos la promesa de otro lugar que actualmente se está preparando para nosotros.
+### Ahora, como creyentes, tenemos la promesa de otro <u>lugar</u> que actualmente se está preparando para nosotros.
 
 ## Génesis 1:26-31 Dios creó al primer hombre y a la primera mujer
 
-### Génesis 1:26 *Y dijo Dios: Hagamos al hombre a nuestra imagen, conforme a nuestra semejanza; y ejerza dominio sobre los peces del mar, sobre las aves del cielo, sobre los ganados, sobre toda la tierra, y sobre todo reptil que se arrastra sobre la tierra.*
+### Génesis 1:26 *Y dijo Dios: Hagamos al hombre a nuestra imagen, conforme a <u>nuestra</u> semejanza; y ejerza dominio sobre los peces del mar, sobre las aves del cielo, sobre los ganados, sobre toda la tierra, y sobre todo reptil que se arrastra sobre la tierra.*
 
 ## Dios planeó crear al hombre a su propia imagen (Juan 14:1-3)
 
-1)  ### Génesis 1:26 - ¿Quiénes son el *hagamos* y el *nuestro* en este pasaje? La Trinidad. Dios el Padre, Dios el Hijo y Dios el Espíritu Santo estaban conversando el plan para crear al hombre. Dios planeó crear al hombre superior a los animales. De todo lo que Dios creó en la tierra, el hombre sería el ser más importante y lo creó a su imagen y esto en sí mismo hace que el hombre sea superior a todos los animales.
+1)  ### Génesis 1:26 - ¿Quiénes son el *hagamos* y el *nuestro* en este pasaje? La Trinidad. Dios el Padre, Dios el Hijo y Dios el Espíritu Santo estaban conversando el <u>plan</u> para crear al hombre. Dios planeó crear al hombre superior a los animales. De todo lo que Dios creó en la tierra, el hombre sería el ser más importante y lo creó a su imagen y esto en sí mismo hace que el hombre sea superior a todos los animales.
 
-2)  ### En nuestro mundo actual, vemos muchas evidencias del rechazo del hombre a Dios y a la verdad. El hombre fue creado superior a los animales y, sin embargo, mire nuestra sociedad actual: muchos animales tienen más derechos que los bebés no nacidos. Esto también da evidencia de cuán verdadera es la declaración de Dios en Génesis 8:21, la perspectiva de la humanidad sobre lo que es bueno y malo es exactamente lo opuesto a la de Dios.
+2)  ### En nuestro mundo actual, vemos muchas evidencias del rechazo del hombre a Dios y a la verdad. El hombre fue creado superior a los animales y, sin embargo, mire nuestra sociedad actual: muchos animales tienen más derechos que los bebés no <u>nacidos</u>. Esto también da evidencia de cuán verdadera es la declaración de Dios en Génesis 8:21, la perspectiva de la humanidad sobre lo que es bueno y malo es exactamente lo opuesto a la de Dios.
 
-3)  ### Entonces, ¿qué significa ser creado a imagen de Dios? Obviamente, esto no se refiere a que el cuerpo del hombre sea como el de Dios, porque Dios es Espíritu. Más bien, Dios se refería a esa parte del hombre que no se puede ver: el alma y el espíritu del hombre. El alma y el espíritu del hombre fueron creados a imagen de Dios, apartando al hombre del mundo animal. Nuestra alma, voluntad y emociones.
+3)  ### Entonces, ¿qué significa ser creado a imagen de Dios? Obviamente, esto no se refiere a que el cuerpo del hombre sea como el de Dios, porque Dios es Espíritu. Más bien, Dios se refería a esa parte del hombre que no se puede ver: el alma y el espíritu del hombre. El alma y el espíritu del hombre <u>fueron</u> creados a imagen de Dios, apartando al hombre del mundo animal. Nuestra alma, voluntad y emociones.
 
-4)  ### Ser hecho a imagen de Dios significa que los humanos comparten, aunque de manera imperfecta y finita, la naturaleza de Dios. Es decir, en Sus atributos comunicables (vida, personalidad, verdad, sabiduría, amor, santidad, justicia) y así tener la capacidad de comunión espiritual con Él. Dios planeó darle al hombre una mente con la que pudiera pensar y razonar.
+4)  ### Ser hecho a imagen de Dios significa que los humanos comparten, aunque de manera imperfecta y finita, la naturaleza de Dios. Es decir, en Sus atributos comunicables (vida, personalidad, verdad, sabiduría, amor, santidad, justicia) y así tener la capacidad de comunión espiritual con Él. Dios <u>planeó</u> darle al hombre una mente con la que pudiera pensar y razonar.
 
-5)  ### En pocas palabras, Dios creó al hombre para poder tener una relación con él. Por lo tanto, Dios creó al hombre con una mente que le permita comprender lo que Dios quería comunicarle. Este es uno de los puntos clave que distingue a Dios y al cristianismo de todas las demás religiones: el hecho de que Dios quiere comunicarse con nosotros y tener una relación con nosotros.
+5)  ### En pocas palabras, Dios creó al hombre para poder tener una <u>relación</u> con él. Por lo tanto, Dios creó al hombre con una mente que le permita comprender lo que Dios quería comunicarle. Este es uno de los puntos clave que distingue a Dios y al cristianismo de todas las demás religiones: el hecho de que Dios quiere comunicarse con nosotros y tener una relación con nosotros.
 
-6)  ### Dios planeó darle emociones al hombre. Dios tiene emociones. Él ama, odia, siente tristeza y alegría, y para tener una relación con el hombre, el hombre también debería tener emociones. ¿Se puede tener una relación sin emociones? ¡Es imposible! Es por eso que Dios creó al hombre con una mente y con emociones, para que podamos conocerlo y entenderlo, comprender su amor por nosotros y amarlo a cambio. ¿Qué es lo primero en nosotros, como padres, que esperamos de nuestros hijos a cambio de darles nuestro amor? La respuesta es Amor. Es lo mismo con Dios.
+6)  ### Dios planeó darle emociones al hombre. Dios tiene emociones. Él ama, odia, siente tristeza y alegría, y para tener una relación con el hombre, el hombre también debería tener emociones. ¿Se puede tener una relación sin emociones? ¡Es imposible! Es por eso que Dios creó al hombre con una <u>mente</u> y con emociones, para que podamos conocerlo y entenderlo, comprender su amor por nosotros y amarlo a cambio. ¿Qué es lo primero en nosotros, como padres, que esperamos de nuestros hijos a cambio de darles nuestro amor? La respuesta es Amor. Es lo mismo con Dios.
 
-7)  ### Dios también planeó darle al hombre Voluntad. Dios tiene una Voluntad. Él toma decisiones y elecciones. ¿Dónde hemos visto ya a Dios tomar decisiones? Creación. Cuando creó, decidió cómo sería cada cosa. Dios también planeó que el hombre pudiera tomar decisiones. ¿Por qué es esto significativo? Si no pudiéramos tomar decisiones, seríamos como un objeto controlado por otra persona. Seríamos como un robot. Cuando te vistes cada mañana, ¿tu ropa tiene algo que decir sobre lo que te pondrás? ¿El contenido de tu refrigerador decide por ti cómo lo usaras en tu próxima comida? ¿Tu automóvil determina la ruta que tomarás para ir al trabajo? Los objetos inanimados no tienen voz en nuestras decisiones. ¡Están controlados por nosotros!
+7)  ### Dios también planeó darle al hombre Voluntad. Dios tiene una Voluntad. Él toma decisiones y elecciones. ¿Dónde hemos visto ya a Dios tomar decisiones? Creación. Cuando creó, decidió cómo sería cada cosa. Dios también planeó que el hombre pudiera tomar decisiones. ¿Por qué es esto significativo? Si no pudiéramos tomar decisiones, seríamos como un objeto controlado por otra persona. Seríamos como un robot. Cuando te <u>vistes</u> cada mañana, ¿tu ropa tiene algo que decir sobre lo que te pondrás? ¿El contenido de tu refrigerador decide por ti cómo lo usaras en tu próxima comida? ¿Tu automóvil determina la ruta que tomarás para ir al trabajo? Los objetos inanimados no tienen voz en nuestras decisiones. ¡Están controlados por nosotros!
 
-8)  ### Dios podría haber hecho al hombre sin mente, voluntad y emociones, pero nunca podría haber habido una relación si Él hubiera hecho eso. Dios no nos hizo como objetos. Le da un valor muy alto al hombre.
+8)  ### Dios podría haber hecho al hombre sin mente, voluntad y emociones, pero nunca podría haber habido una <u>relación</u> si Él hubiera hecho eso. Dios no nos hizo como objetos. Le da un valor muy alto al hombre.
 
-9)  ###  Al hombre se le debía dar una mente que pudiera entender lo que Dios quería comunicarle, la inteligencia para pensar en lo que Dios decía; la capacidad de aprender sobre Su carácter y ser capaz de comunicarse con Él. Al hombre también se le debían dar emociones para que pudiera responder a Dios por amor a Él. Ver 1 Juan: amamos a Dios porque Él nos amó primero.
+9)  ###  Al hombre se le debía dar una mente que pudiera entender lo que Dios <u>quería</u> comunicarle, la inteligencia para pensar en lo que Dios decía; la capacidad de aprender sobre Su carácter y ser capaz de comunicarse con Él. Al hombre también se le debían dar emociones para que pudiera responder a Dios por amor a Él. Ver 1 Juan: amamos a Dios porque Él nos amó primero.
 
-10) ### Por último, al hombre se le debía dar una voluntad para que pudiera elegir llevar a cabo la voluntad de Dios en la tierra, no como un robot, sino como alguien que escucharía a Dios, lo apreciaría, lo amaría, y elegiría obedecerlo. El hombre fue creado como un ser racional, moral y espiritual, porque fue creado a imagen de Dios. 
+10) ### Por último, al hombre se le debía dar una voluntad para que pudiera elegir llevar a cabo la voluntad de Dios en la tierra, no como un robot, sino como alguien que escucharía a Dios, lo apreciaría, lo amaría, y elegiría obedecerlo. El hombre fue creado como un ser racional, moral y espiritual, porque fue <u>creado</u> a imagen de Dios. 
 
-11) ### NOTA: Dios no creó al hombre a Su imagen con el propósito de que el hombre se volviera grande e independiente. ¡Él creó al hombre a Su imagen para que el hombre pudiera comulgar íntimamente con Él y reflejarle por toda la tierra!
+11) ### NOTA: Dios no creó al hombre a Su imagen con el propósito de que el hombre se volviera grande e independiente. ¡Él creó al hombre a Su <u>imagen</u> para que el hombre pudiera comulgar íntimamente con Él y reflejarle por toda la tierra!
 
-### Génesis 1:27 Creó, pues, Dios al hombre a imagen suya, a imagen de Dios lo creó; varón y hembra los creó. 
+### Génesis 1:27 Creó, pues, Dios al hombre a imagen suya, a imagen de Dios lo creó; <u>varón</u> y hembra los creó. 
 
-#### Dios creó al primer hombre y luego, el mismo día, creó a la primera mujer. Más adelante en Génesis 2 nos enfocaremos en los detalles de la creación de Eva, pero por ahora, nos enfocaremos en la creación de Adán.
+#### Dios creó al primer hombre y luego, el mismo día, creó a la primera mujer. Más adelante en Génesis 2 nos enfocaremos en los detalles de la creación de Eva, pero por <u>ahora</u>, nos enfocaremos en la creación de Adán.
 
-#### Dios hizo el cuerpo de Adán de la tierra. Cuando Dios creó todo lo demás, simplemente habló y aparecieron. Formó a todos los animales dando una orden a la tierra para que los produjera. Pero cuando hizo al primer hombre, Dios formó personalmente el cuerpo del hombre de la tierra. El cuerpo del hombre fue formado por la intervención inmediata de Dios. No creció; ni fue producido por ningún proceso de desarrollo. Compare Génesis 1:24 con 2:7.
+#### Dios hizo el cuerpo de Adán de la tierra. Cuando Dios creó todo lo demás, simplemente habló y aparecieron. Formó a todos los animales dando una orden a la tierra para que los produjera. Pero cuando hizo al primer hombre, Dios formó personalmente el <u>cuerpo</u> del hombre de la tierra. El cuerpo del hombre fue formado por la intervención inmediata de Dios. No creció; ni fue producido por ningún proceso de desarrollo. Compare Génesis 1:24 con 2:7.
 
-##### Génesis 2:7 *Entonces el SEÑOR Dios formó al hombre del polvo de la tierra, y sopló en su nariz el aliento de vida; y fue el hombre un ser viviente.*
+##### Génesis 2:7 *Entonces el SEÑOR Dios formó al hombre del polvo de la <u>tierra</u>, y sopló en su nariz el aliento de vida; y fue el hombre un ser viviente.*
 
-##### Después de que Dios creó el cuerpo de Adán, todavía no tenía vida. Cada parte de él estaba perfectamente formado, pero estaba sin vida. El alma y espíritu, que dieron vida al cuerpo, aún no habían sido creados. ¿Qué hizo Dios para darle vida a Adán? Le dio aliento de vida al cuerpo de Adán. El alma del hombre se derivó de Dios. Sopló en el hombre el aliento de vida, es decir, esa vida que lo constituyó en hombre, una ser viviente portadora de la imagen de Dios. Cuando Dios insufló vida a Adán, se convirtió en una persona viva. Solo Dios puede dar vida. Él es la fuente de toda vida, y le dio vida a Adán.
+##### Después de que Dios creó el cuerpo de Adán, todavía no tenía vida. Cada parte de él estaba perfectamente formado, pero estaba sin vida. El alma y espíritu, que dieron vida al cuerpo, aún no habían sido creados. ¿Qué hizo Dios para darle vida a Adán? Le dio aliento de vida al <u>cuerpo</u> de Adán. El alma del hombre se derivó de Dios. Sopló en el hombre el aliento de vida, es decir, esa vida que lo constituyó en hombre, una ser viviente portadora de la imagen de Dios. Cuando Dios insufló vida a Adán, se convirtió en una persona viva. Solo Dios puede dar vida. Él es la fuente de toda vida, y le dio vida a Adán.
 
-###### Miremos el ejemplo de las máquinas eléctricas. Sin poder, son inútiles y sin valor. La electricidad les da vida, por así decirlo. Nuestros cuerpos son iguales. Sin la vida de Dios, estarían muertos y sin valor. Esta es una verdad fundamental sobre Dios que proporciona una imagen física de la verdad espiritual. Porque, así como fue Él quien dio vida física a Adán y Eva, así Él es la verdadera y única fuente de vida espiritual. Jesús dijo: *YO SOY el camino, la verdad y la VIDA.*
+###### Miremos el ejemplo de las máquinas eléctricas. Sin poder, son inútiles y sin valor. La electricidad les da vida, por así decirlo. Nuestros cuerpos son iguales. Sin la <u>vida</u> de Dios, estarían muertos y sin valor. Esta es una verdad fundamental sobre Dios que proporciona una imagen física de la verdad espiritual. Porque, así como fue Él quien dio vida física a Adán y Eva, así Él es la verdadera y única fuente de vida espiritual. Jesús dijo: *YO SOY el camino, la verdad y la VIDA.*
 
-### Génesis 1:28 *Y los bendijo Dios y les dijo: Sed fecundos y multiplicaos, y llenad la tierra y sojuzgadla; ejerced dominio sobre los peces del mar, sobre las aves del cielo y sobre todo ser viviente que se mueve sobre la tierra.* Dios hizo solo un hombre y una mujer. Entonces Dios les ordenó que tuvieran hijos para que, con el tiempo, el mundo se poblara. Dios hizo al primer hombre y mujer administradores de toda la vida en la tierra.
+### Génesis 1:28 *Y los bendijo Dios y les dijo: Sed fecundos y multiplicaos, y llenad la tierra y sojuzgadla; ejerced dominio sobre los peces del mar, sobre las aves del cielo y sobre todo ser viviente que se mueve sobre la tierra.* Dios hizo solo un hombre y una mujer. Entonces Dios les ordenó que tuvieran hijos para que, con el tiempo, el mundo se <u>poblara</u>. Dios hizo al primer hombre y mujer administradores de toda la vida en la tierra.
 
-### Génesis 1:29 *Y dijo Dios: He aquí, yo os he dado toda planta que da semilla que hay en la superficie de toda la tierra, y todo árbol que tiene fruto que da semilla; esto os servirá de alimento.* 
+### Génesis 1:29 *Y dijo Dios: He aquí, yo os he dado toda planta que da semilla que hay en la superficie de toda la tierra, y todo árbol que tiene <u>fruto</u> que da semilla; esto os servirá de alimento.* 
 
-### Génesis 1:30 *Y a toda bestia de la tierra, a toda ave de los cielos y a todo lo que se mueve sobre la tierra, y que tiene vida, les he dado toda planta verde para alimento. Y fue así.* 
+### Génesis 1:30 *Y a toda bestia de la tierra, a toda ave de los cielos y a todo lo que se mueve sobre la tierra, y que tiene vida, les he dado toda <u>planta</u> verde para alimento. Y fue así.* 
 
-#### Dios le dio al hombre grandes responsabilidades. De acuerdo con Su plan, del cual leemos en el versículo 26, Dios puso a Adán y Eva a cargo de la tierra y de todo lo que hay en ella. Les explicó que debían ser sus representantes en la tierra. Tomemos, por ejemplo, un gerente o un padre que entrega un negocio a un hijo. De la misma manera, Dios designó al primer hombre para que fuera supervisor y cuidador de todo lo que Dios había creado en la tierra.
+#### Dios le dio al hombre grandes responsabilidades. De acuerdo con Su plan, del cual leemos en el versículo 26, Dios puso a Adán y Eva a cargo de la tierra y de todo lo que hay en ella. Les explicó que debían ser sus representantes en la tierra. Tomemos, por ejemplo, un gerente o un padre que entrega un negocio a un hijo. De la misma manera, Dios designó al primer hombre para que fuera supervisor y cuidador de <u>todo</u> lo que Dios había creado en la tierra.
 
-#### ¿Por qué Dios tenía la autoridad para darles esta posición y responsabilidad? Porque Él había creado todo, y Él tenía el derecho de hacer lo que quisiera con Su creación.
+#### ¿Por qué Dios tenía la autoridad para <u>darles</u> esta posición y responsabilidad? Porque Él había creado todo, y Él tenía el derecho de hacer lo que quisiera con Su creación.
 
-##### Salmo 24:1-2 *Del SEÑOR es la tierra y todo lo que hay en ella, el mundo y los que en él habitan. Porque Él la fundó sobre los mares, y la asentó sobre los ríos.*
+##### Salmo 24:1-2 *Del SEÑOR es la tierra y todo lo que hay en ella, el mundo y los que en él <u>habitan</u>. Porque Él la fundó sobre los mares, y la asentó sobre los ríos.*
 
-###### Debido a que Dios creó y posee legítimamente la tierra, pudo confiarla a quien quisiera. Dios, el Creador de todas las cosas, dio la tierra a Adán y Eva. Él tenía la autoridad para hacer esto porque Él es supremo y soberano.
+###### Debido a que Dios creó y posee legítimamente la tierra, pudo confiarla a quien quisiera. Dios, el Creador de todas las cosas, dio la tierra a Adán y Eva. Él <u>tenía</u> la autoridad para hacer esto porque Él es supremo y soberano.
 
-### Génesis 1:31 *Dios vio todo lo que había hecho; y era bueno en gran manera. Y fue la tarde y fue la mañana: el sexto día.* Todo lo que Dios hizo fue bueno.
+### Génesis 1:31 *Dios vio todo lo que había hecho; y era bueno en gran manera. Y fue la tarde y fue la mañana: el sexto día.* Todo lo que <u>Dios</u> hizo fue bueno.
 
-#### ¿Por qué todo lo que Dios hizo fue muy bueno? Debido a que Dios es perfecto y bueno, todo lo que hizo fue perfecto. Al principio, el clima era perfecto. Ningún animal dañaría al hombre. No había espinas, cardos o malas hierbas que arruinaran la tierra. Todo fue completamente sin fallas ni defectos. ¡Todo fue creado como un verdadero reflejo del carácter santo de Dios!
+#### ¿Por qué todo lo que Dios hizo fue muy bueno? Debido a que Dios es perfecto y bueno, todo lo que hizo fue perfecto. Al principio, el clima era perfecto. Ningún animal dañaría al hombre. No había espinas, cardos o malas <u>hierbas</u> que arruinaran la tierra. Todo fue completamente sin fallas ni defectos. ¡Todo fue creado como un verdadero reflejo del carácter santo de Dios!
 
-#### Los ángeles de Dios, incluido Lucifer, fueron testigos de la creación del hombre por parte de Dios. Ellos estaban observando cuando Dios preparó la tierra y luego hizo al hombre. Los ángeles cantaron juntos con alegría, alabando y adorando a Dios por su gran poder y sabiduría que demostró al crear todas las cosas (Job 38:4-11).
+#### Los ángeles de Dios, incluido Lucifer, fueron testigos de la creación del hombre por parte de Dios. Ellos estaban observando cuando Dios preparó la tierra y luego hizo al hombre. Los ángeles cantaron juntos con <u>alegría</u>, alabando y adorando a Dios por su gran poder y sabiduría que demostró al crear todas las cosas (Job 38:4-11).
 
 ## El hombre debía ser administrador de la tierra
 
-### De toda la creación de Dios, el hombre tendría una posición única: iba a ser el representante de Dios en la tierra. Debía ser el cuidador de la tierra, incluso con autoridad sobre los animales. El hombre sería capaz de llevar a cabo este papel, porque fue creado con mente, voluntad y emociones.
+### De toda la creación de Dios, el hombre tendría una posición única: iba a ser el representante de Dios en la tierra. Debía ser el cuidador de la tierra, incluso con autoridad sobre los animales. El hombre sería capaz de llevar a cabo este papel, porque fue <u>creado</u> con mente, voluntad y emociones.
 
-### Esto nuevamente da testimonio de la sabiduría y el orden de Dios. Así como creó todo de lo que el hombre necesitaría antes de ser creado, también creó al hombre con las facultades que necesitaría para llevar a cabo todo lo que Dios quiso que hiciera.
+### Esto nuevamente da testimonio de la <u>sabiduría</u> y el orden de Dios. Así como creó todo de lo que el hombre necesitaría antes de ser creado, también creó al hombre con las facultades que necesitaría para llevar a cabo todo lo que Dios quiso que hiciera.
 
 ## Génesis 2:1 - Dios terminó Su obra de creación
 
-### Génesis 2:1 *Así fueron acabados los cielos y la tierra y todas sus huestes.*
+### Génesis 2:1 *Así <u>fueron</u> acabados los cielos y la tierra y todas sus huestes.*
 
-#### Dios terminó de crear todo lo que había planeado. Esta es una tremenda manifestación de la sabiduría, la grandeza y el poder de Dios. En seis días literales, Dios había hablado para que existiera cada pedazo de la creación que alguna vez haya existido.
+#### Dios terminó de crear todo lo que había planeado. Esta es una tremenda manifestación de la sabiduría, la grandeza y el poder de Dios. En seis días literales, Dios había hablado para que existiera cada <u>pedazo</u> de la creación que alguna vez haya existido.
 
-#### La inmensa variedad que Dios creó es tan vasta, que hoy, miles de años después, el hombre aún no la ha descubierto toda. Cosas que son tan diminutas que ni siquiera podemos verlas sin el uso de microscopios potentes. Luego, en el otro extremo del cosmos, creó cosas que son tan grandes, incluso más grandes que la tierra, pero están colocadas tan lejos, que es imposible para nosotros verlas sin el más grande de los telescopios.
+#### La inmensa variedad que Dios creó es tan vasta, que hoy, miles de años después, el hombre aún no la ha descubierto toda. Cosas que son tan diminutas que ni siquiera podemos verlas sin el uso de microscopios potentes. Luego, en el otro extremo del cosmos, creó cosas que son tan <u>grandes</u>, incluso más grandes que la tierra, pero están colocadas tan lejos, que es imposible para nosotros verlas sin el más grande de los telescopios.
 
-#### Sin embargo, las Escrituras nos dicen que Él puede volver a medirlo todo con la palma de Su mano. Todo esto fue hablado para que existiera de la nada en seis días literales. ¿Cuánto tiempo le toma al hombre construir una sola casa?
+#### Sin embargo, las Escrituras nos dicen que Él puede volver a medirlo todo con la palma de Su mano. Todo esto fue hablado para que existiera de la <u>nada</u> en seis días literales. ¿Cuánto tiempo le toma al hombre construir una sola casa?
 
-#### Dios sabía exactamente todo lo que iba a crear, y en qué consistiría todo, tanto que incluso sabía cuándo lo había completado. Y lo completó. ¿Cuántas veces nosotros, como humanos, comenzamos algo que no terminamos? Pero, Dios nunca lo hace. Él siempre completa lo que comienza. Este es un punto muy significativo sobre Dios que tiene una tremenda aplicación para nosotros hoy como cristianos. Filipenses 1:6
+#### Dios sabía exactamente todo lo que iba a crear, y en qué consistiría todo, tanto que <u>incluso</u> sabía cuándo lo había completado. Y lo completó. ¿Cuántas veces nosotros, como humanos, comenzamos algo que no terminamos? Pero, Dios nunca lo hace. Él siempre completa lo que comienza. Este es un punto muy significativo sobre Dios que tiene una tremenda aplicación para nosotros hoy como cristianos. Filipenses 1:6
 
 ## Génesis 2:2-3 - Dios reposó de Su obra de creación
 
-### Génesis 2:2 *En el séptimo día ya Dios había completado la obra que había estado haciendo, y reposó en el día séptimo de toda la obra que había hecho.*
+### Génesis 2:2 *En el séptimo día ya Dios había completado la obra que había estado haciendo, y <u>reposó</u> en el día séptimo de toda la obra que había hecho.*
 
-### Génesis 2:3 *Dios bendijo el séptimo día y lo santificó, porque en él reposó de toda la obra que Él había creado y hecho.*
+### Génesis 2:3 *Dios bendijo el séptimo día y lo santificó, <u>porque</u> en él reposó de toda la obra que Él había creado y hecho.*
 
-#### En el séptimo día, Dios reposó de Su obra de creación. Como humanos, todos necesitamos descansar después de un duro día de trabajo, pero Dios no es como nosotros. Dios nunca se cansa.
+#### En el séptimo día, Dios reposó de Su obra de creación. Como humanos, todos necesitamos descansar <u>después</u> de un duro día de trabajo, pero Dios no es como nosotros. Dios nunca se cansa.
 
-#### La razón por la que Dios reposó fue porque había completado todo lo que había planeado crear. Terminó la creación. Es como nosotros cuando estamos trabajando en un proyecto. Llega un momento en el que terminamos con el proyecto. Tenemos la energía para seguir trabajando, pero dejamos de trabajar en ello porque hemos terminado con eso. Isaías 40:28
+#### La razón por la que Dios reposó fue porque había completado todo lo que había <u>planeado</u> crear. Terminó la creación. Es como nosotros cuando estamos trabajando en un proyecto. Llega un momento en el que terminamos con el proyecto. Tenemos la energía para seguir trabajando, pero dejamos de trabajar en ello porque hemos terminado con eso. Isaías 40:28
 
-#### Tenga en cuenta el plan de Dios desde antes de la fundación del mundo (2 Timoteo 1:9; 1 Pedro 1:18-20). Este plan se originó en el corazón de Dios antes de la fundación de la tierra, y luego llegó el momento en que Dios comenzara a llevar a cabo Su plan, y comenzó con la creación.
+#### Tenga en cuenta el plan de Dios desde antes de la fundación del mundo (2 Timoteo 1:9; 1 Pedro 1:18-20). Este plan se originó en el corazón de Dios antes de la fundación de la tierra, y luego llegó el momento en que Dios comenzara a llevar a cabo Su plan, y <u>comenzó</u> con la creación.
 
-#### El lugar donde se llevaría a cabo Su plan estaba completo.
+#### El lugar donde se llevaría a cabo Su plan <u>estaba</u> completo.
 
 ## Conclusión
 
-### Lo que hemos estudiado es un poderoso recordatorio de lo asombroso que es Dios. Él no es una energía poderosa como la filosofía lo describe, y nosotros no somos el resultado de una casualidad ciega o de la evolución. Dios creó amorosamente al hombre y preparó un ambiente maravilloso para acogerlo. ¡Él creó amorosamente al hombre para una relación consigo mismo! Entonces, durante esta semana, ¡piense en lo que estas verdades sobre Dios significan para nosotros todos los días en nuestra vida diaria!
+### Lo que hemos estudiado es un poderoso recordatorio de lo asombroso que es Dios. Él no es una energía poderosa como la filosofía lo describe, y nosotros no somos el resultado de una casualidad ciega o de la evolución. Dios creó amorosamente al <u>hombre</u> y preparó un ambiente maravilloso para acogerlo. ¡Él creó amorosamente al hombre para una relación consigo mismo! Entonces, durante esta semana, ¡piense en lo que estas verdades sobre Dios significan para nosotros todos los días en nuestra vida diaria!
 
-### Todo lo que Dios creó fue bueno y perfecto porque Él es bueno y perfecto, y todo lo que hace es un reflejo de quién es Él y cómo es.
+### Todo lo que Dios creó fue bueno y perfecto porque Él es <u>bueno</u> y perfecto, y todo lo que hace es un reflejo de quién es Él y cómo es.
 
 ## Preguntas de revisión
 
@@ -823,63 +823,63 @@
 
 ## Génesis 2:4-6 Las condiciones de la tierra antes de crear al hombre
 
-### Génesis 2: 4a *Estos son los orígenes de los cielos y de la tierra cuando fueron creados.*
+### Génesis 2: 4a *Estos son los orígenes de los cielos y de la tierra cuando <u>fueron</u> creados.*
 
-#### Hemos estado observando la grandeza y la maravilla de Dios y cómo si nos detenemos y miramos Su creación con más detalle, realmente podemos ver Su obra y comenzar a vislumbrar la magnitud de Su poder y sabiduría. La creación de Dios es tan vasta y grande que nuestras mentes ni siquiera pueden comenzar a comprender todo lo que contienen los cielos. La tierra también apunta a Su grandeza. Tenemos las hermosas aves de colores que vienen y anidan en un árbol al lado de la ventana de nuestra cocina. Algo tan simple como un pájaro de hermosos colores sentado en una rama verde oscura puede hacer que te quedes mirando con asombro. Qué maravilloso debe haber sido todo en su perfección. Nuestro Dios todopoderoso no dejó nada sin crear, y Él sabía cuándo había terminado.
+#### Hemos estado observando la grandeza y la maravilla de Dios y cómo si nos detenemos y miramos Su creación con más detalle, realmente podemos ver Su obra y comenzar a vislumbrar la magnitud de Su poder y sabiduría. La creación de Dios es tan vasta y grande que nuestras mentes ni siquiera pueden comenzar a comprender todo lo que contienen los cielos. La tierra también apunta a Su grandeza. Tenemos las hermosas aves de colores que <u>vienen</u> y anidan en un árbol al lado de la ventana de nuestra cocina. Algo tan simple como un pájaro de hermosos colores sentado en una rama verde oscura puede hacer que te quedes mirando con asombro. Qué maravilloso debe haber sido todo en su perfección. Nuestro Dios todopoderoso no dejó nada sin crear, y Él sabía cuándo había terminado.
 
 ### Breve explicación de la palabra orígenes.
 
-#### La palabra *orígenes* que vemos en el versículo cuatro es TOLEDÁ. Tomaremos un momento para entender el uso de esta palabra en Génesis. También es traducido como generaciones ó descendencia, conocido como árbol genealógico. 
+#### La palabra *orígenes* que vemos en el versículo cuatro es TOLEDÁ. Tomaremos un momento para entender el uso de esta <u>palabra</u> en Génesis. También es traducido como generaciones ó descendencia, conocido como árbol genealógico. 
 
-##### Génesis sigue la simiente prometida trazando un único linaje conocido por Dios —desde Adán (Eva), pasando por Set, Noé, Sem, Abraham, Isaac, Jacob y finalmente Judá— eliminando todos los otros linajes paralelos, culminando en la identificación de la tribu de la que vendrá el Mesías.
+##### Génesis sigue la simiente prometida trazando un único linaje conocido por Dios —desde Adán (Eva), pasando por Set, Noé, Sem, Abraham, Isaac, Jacob y finalmente Judá— eliminando todos los otros linajes paralelos, culminando en la identificación de la <u>tribu</u> de la que vendrá el Mesías.
 
 #### ¿Cómo identificamos esto? 
 
-##### Génesis está estructurado en torno a 11 *toledá* principales, cada uno de los cuales introduce una nueva sección. Los *toledá* giran en torno a la promesa dada en Génesis 3:15. 
+##### Génesis está estructurado en torno a 11 *toledá* principales, cada uno de los cuales introduce una <u>nueva</u> sección. Los *toledá* giran en torno a la promesa dada en Génesis 3:15. 
 
 #### La idea central del Toledá en Génesis
 
-##### Basado en los resultados o consecuencias de alguien o algo que vino anteriormente presenta lo que viene a continuación; una narración histórica o una transición hacia lo que surgió de una figura o evento. 
+##### Basado en los resultados o consecuencias de <u>alguien</u> o algo que vino anteriormente presenta lo que viene a continuación; una narración histórica o una transición hacia lo que surgió de una figura o evento. 
 
-##### Cada *toledá* funciona como el título de un capítulo: En otras palabras, «Aquí comienza el relato de lo que surgió de...» Y luego, la siguiente sección desarrolla las consecuencias o la historia.
+##### Cada *toledá* funciona como el título de un capítulo: En otras palabras, «Aquí comienza el <u>relato</u> de lo que surgió de...» Y luego, la siguiente sección desarrolla las consecuencias o la historia.
 
 #### ¿Por qué es importante?
 
-##### Génesis no es una colección aleatoria de historias que son para destacar a los hombres por lo que hicieron; está estructurado cuidadosamente, siguiendo el hilo de lo que Dios fue haciendo según Su plan predeterminado. 
+##### Génesis no es una colección aleatoria de historias que son para destacar a los hombres por lo que hicieron; está estructurado cuidadosamente, siguiendo el <u>hilo</u> de lo que Dios fue haciendo según Su plan predeterminado. 
 
-##### La estructura de *toledá* no es solo una forma de organizar el material. Funciona como un faro narrativo que rastrea la descendencia prometida de Génesis 3:15 a través de la historia.
+##### La estructura de *toledá* no es solo una forma de organizar el material. Funciona como un faro narrativo que <u>rastrea</u> la descendencia prometida de Génesis 3:15 a través de la historia.
 
-###### Muestra que Génesis es un libro unificado.
+###### Muestra que Génesis es un libro <u>unificado</u>.
 
-###### Mantiene la narrativa enfocada.
+###### Mantiene la narrativa <u>enfocada</u>.
 
-###### Organiza la historia en torno a La Simiente prometida.
+###### Organiza la historia en torno a La Simiente <u>prometida</u>.
 
-###### Asegura que el lector siga la línea de redención.
+###### Asegura que el lector siga la línea de <u>redención</u>.
 
-###### Conecta Génesis 3:15 con el resto de las Escrituras.
+###### Conecta Génesis 3:15 con el resto de las <u>Escrituras</u>.
 
-###### Todo el libro funciona como un enfoque genealógico, que apunta a la línea de descendencia de venida del mesías prometido, Jesucristo. Lucas 3; Mateo 1
+###### Todo el libro funciona como un enfoque genealógico, que <u>apunta</u> a la línea de descendencia de venida del Mesías prometido, Jesucristo. Lucas 3; Mateo 1
 
 #### Analicemos brevemente la promesa de Génesis 3:15...
 
-##### Dios le dice a la serpiente: *«Pondré enemistad entre ti y la mujer, y entre tu descendencia y la suya; él te herirá en la cabeza, y tú le herirás en el talón»*. (Luego veremos este versículo en más detalle, pero por el momento queremos destacar 4 detalles de la Promesa que Dios hace en Génesis 3:15...)
+##### Dios le dice a la serpiente: *«Pondré enemistad entre ti y la mujer, y entre tu descendencia y la suya; él te <u>herirá</u> en la cabeza, y tú le herirás en el talón»*. (Luego veremos este versículo en más detalle, pero por el momento queremos destacar 4 detalles de la Promesa que Dios hace en Génesis 3:15...)
 
-###### Introduce dos líneas de descendencia (*tu descendencia y la suya...*).
+###### Introduce dos <u>líneas</u> de descendencia (*tu descendencia y la suya...*).
 
-###### Introduce un futuro descendiente masculino (*Él*). 
+###### Introduce un <u>futuro</u> descendiente masculino (*Él*). 
 
-###### Introduce un conflicto global que Dios inicia (*pondré enemistad...*).
+###### Introduce un conflicto <u>global</u> que Dios inicia (*pondré enemistad...*).
 
-###### Introduce una esperanza de victoria sobre el mal (*herirá en la cabeza*).
+###### Introduce una esperanza de <u>victoria</u> sobre el mal (*herirá en la cabeza*).
 
-###### A partir de este momento, la Biblia comienza una búsqueda por La Simiente prometida: ¿Quién será la descendencia prometida? ¿De dónde viene? ¿Qué linaje transmitirá la promesa?
+###### A partir de este momento, la Biblia comienza una <u>búsqueda</u> por La Simiente prometida: ¿Quién será la descendencia prometida? ¿De dónde viene? ¿Qué linaje transmitirá la promesa?
 
-##### Las secciones de *toledá* del Génesis responden intencionalmente a estas preguntas. Cada sección de *toledá* retoma la búsqueda de La Simiente. Génesis contiene 11 secciones distinguidas por la palabra Toledá. 
+##### Las secciones de *toledá* del Génesis responden intencionalmente a estas preguntas. Cada <u>sección</u> de *toledá* retoma la búsqueda de La Simiente. Génesis contiene 11 secciones distinguidas por la palabra Toledá. 
 
-###### Cada toledá contiene: El trasfondo (o en base) de lo que antecede, un patriarca receptor, la descendencia del patriarca, un receptor elegido (por Dios, y por gracia) entre toda la descendencia para ser portador de la simiente, y por último contiene un avance de la historia hacia el Mesías.
+###### Cada toledá contiene: El trasfondo (o en base) de lo que antecede, un patriarca receptor, la descendencia del patriarca, un receptor <u>elegido</u> (por Dios, y por gracia) entre toda la descendencia para ser portador de la simiente, y por último contiene un avance de la historia hacia el Mesías.
 
-##### Llegamos entonces a tener este bosquejo del libro de Génesis, solo observando el uso que Moisés le dio a la palabra TOLEDÁ. 
+##### Llegamos entonces a tener este bosquejo del libro de Génesis, solo observando el uso que Moisés le dio a la <u>palabra</u> TOLEDÁ. 
 
 | Descripción                                                                | Capítulo |
 |----------------------------------------------------------------------------|----------|
@@ -896,75 +896,75 @@
 | XI\. Esaú/Edom – Genealogía cerrada (La promesa reducida a una nación)     | \(36\)   |
 | XII\. Jacob – Judá elegido (La promesa reducida a una tribu)               | (37–50)  |
 
-#### Promesa de la simiente de la mujer → Set → Noé → Sem → Abraham → Isaac → Jacob → Judá. Una línea clara e ininterrumpida recorre el Génesis hacia el Libertador venidero.
+#### Promesa de la simiente de la mujer → Set → Noé → Sem → Abraham → Isaac → Jacob → Judá. Una línea <u>clara</u> e ininterrumpida recorre el Génesis hacia el Libertador venidero.
 
-#### Génesis termina con el foco puesto en el linaje real de Judá (Génesis 49:10), preparando al lector para la venida del Rey. Después de Judá veremos que proceden David y luego El Mesías. 
+#### Génesis termina con el foco puesto en el linaje real de Judá (Génesis 49:10), preparando al lector para la <u>venida</u> del Rey. Después de Judá veremos que proceden David y luego El Mesías. 
 
-#### Estandarte final: «La simiente viene; él aplastará la cabeza de la serpiente».
+#### Estandarte final: «La simiente viene; él aplastará la cabeza de la <u>serpiente</u>».
 
-#### Ninguna de estas personas fue parte de la promesa al ser escogidos por el hombre. El plan de Dios no depende en absoluto de ningún hombre. Es decir, es exclusivamente Dios quien mantiene fiel y segura su promesa a través de la historia. 
+#### Ninguna de estas personas fue parte de la promesa al ser escogidos por el hombre. El plan de Dios no depende en absoluto de ningún hombre. Es decir, es exclusivamente Dios quien mantiene fiel y segura su <u>promesa</u> a través de la historia. 
 
-#### Así como Génesis revela el mapa hacia el Salvador prometido, el resto de las Escrituras seguirán revelando más detalles, pero todo basado en el plan eterno de Redención de Dios. 
+#### Así como Génesis revela el mapa hacia el Salvador prometido, el resto de las Escrituras seguirán revelando más <u>detalles</u>, pero todo basado en el plan eterno de Redención de Dios. 
 
-#### En resumen, Dios mostrará Su fidelidad y soberanía por medio del cumplimiento fiel de Su Promesa. A través de la historia humana, Dios orquesta Su plan de Redención. 
+#### En resumen, Dios mostrará Su fidelidad y soberanía por medio del cumplimiento <u>fiel</u> de Su Promesa. A través de la historia humana, Dios orquesta Su plan de Redención. 
 
-##### (Para más detalles sobre los *toledá* en Génesis, ver el apéndice de este manual) 
+##### (Para más detalles sobre los *toledá* en <u>Génesis</u>, ver el apéndice de este manual) 
 
-### Génesis 2:4b *...el día en que el SEÑOR Dios hizo la tierra y los cielos...* En todas las referencias anteriores a Dios hasta este punto, Dios usa el nombre Elohim, que significa el supremo y habla del poder y la fuerza de Dios. Comenzando en este versículo, Dios usa el nombre de Jehová, Yahvé, El que es, el auto existente, el Yo Soy.
+### Génesis 2:4b *...el día en que el SEÑOR Dios hizo la tierra y los cielos...* En todas las referencias anteriores a Dios hasta este punto, Dios usa el nombre Elohim, que significa el supremo y habla del poder y la fuerza de Dios. Comenzando en este versículo, Dios usa el <u>nombre</u> de Jehová, Yahvé, El que es, el auto existente, el Yo Soy.
 
-#### A lo largo del Antiguo Testamento, hay muchos nombres que se usan para Dios, todos con significados específicos. Esto habla del deseo de Dios de que la humanidad lo conozca, de saber cómo es Él y cómo es Su corazón. Una vez más, la razón de esto es que Él desea tener una relación con nosotros.
+#### A lo largo del Antiguo Testamento, hay muchos nombres que se usan para Dios, todos con significados específicos. Esto habla del deseo de Dios de que la humanidad lo conozca, de saber cómo es Él y cómo es Su corazón. Una vez más, la <u>razón</u> de esto es que Él desea tener una relación con nosotros.
 
-### Génesis 2:5 *Aún no había ningún arbusto del campo en la tierra, ni había aún brotado ninguna planta del campo, porque el SEÑOR Dios no había enviado lluvia sobre la tierra, ni había hombre para labrar la tierra.* Antes de que Dios creara al hombre, no había vegetación. Parece implicar que había una gran cantidad de terreno sin trabajarlo. Vemos que el propósito de la vegetación y la tierra era desde el inicio para el provecho del hombre. 
+### Génesis 2:5 *Aún no había ningún arbusto del campo en la tierra, ni había aún brotado ninguna planta del campo, porque el SEÑOR Dios no había enviado lluvia sobre la tierra, ni había hombre para labrar la tierra.* Antes de que Dios creara al hombre, no había vegetación. Parece implicar que había una gran <u>cantidad</u> de terreno sin trabajarlo. Vemos que el propósito de la vegetación y la tierra era desde el inicio para el provecho del hombre. 
 
-### Génesis 2:6 *Pero se levantaba de la tierra un vapor que regaba toda la superficie del suelo.* En ese momento, la tierra estaba regada con una niebla que se elevaba de la tierra. En ese momento, no llovía. 
+### Génesis 2:6 *Pero se levantaba de la tierra un vapor que regaba toda la superficie del suelo.* En ese momento, la tierra estaba <u>regada</u> con una niebla que se elevaba de la tierra. En ese momento, no llovía. 
 
 ## Génesis 2:7-8 - Dios puso a Adán en el jardín (Nehemías 9:25; Salmo 31:19, 103:1-5; Santiago 1:17-18)
 
-### Génesis 2:7 *Entonces el SEÑOR Dios formó al hombre del polvo de la tierra, y sopló en su nariz el aliento de vida, y fue el hombre un ser viviente.* Dios quiso mostrar que la creación del hombre era una parte muy íntima de su obra maestra. En vez de decir, hágase el hombre, el formo al hombre y luego introdujo (sopló) su vida en la nariz del hombre. 
+### Génesis 2:7 *Entonces el SEÑOR Dios formó al hombre del polvo de la tierra, y sopló en su nariz el aliento de vida, y fue el hombre un ser viviente.* Dios quiso mostrar que la creación del hombre era una parte muy íntima de su obra maestra. En vez de decir, hágase el hombre, el formo al hombre y luego introdujo (sopló) su <u>vida</u> en la nariz del hombre. 
 
-### Génesis 2:8 *Y el SEÑOR Dios plantó un huerto hacia el oriente, en Edén, y puso allí al hombre que había formado.*
+### Génesis 2:8 *Y el SEÑOR Dios plantó un huerto hacia el oriente, en Edén, y puso allí al hombre que <u>había</u> formado.*
 
-#### Debido al gran amor de Dios por Adán y Eva, preparó un hermoso jardín para ellos. A menudo, todos hacemos cosas realmente especiales el uno por el otro como una forma de mostrar nuestro amor mutuo. Lo mismo sucedió con Dios. Debido a Su amor por el hombre, Él preparó un lugar maravilloso para que el hombre viviera.
+#### Debido al gran amor de Dios por Adán y Eva, preparó un hermoso jardín para ellos. A menudo, todos hacemos cosas realmente especiales el uno por el otro como una forma de mostrar nuestro amor mutuo. Lo mismo sucedió con Dios. Debido a Su <u>amor</u> por el hombre, Él preparó un lugar maravilloso para que el hombre viviera.
 
-#### Los jardines botánicos más exquisitos del mundo no podrían darnos ni una mínima idea en comparación a lo que fue este jardín que fue plantado por Dios mismo. Incluyó en el jardín todas las verduras y árboles frutales que el hombre necesitaría. Dios proveyó lo que necesitarían para sobrevivir, pero también incluyó muchas otras cosas que sabía que disfrutarían, porque Dios es el dador de cosas buenas.
+#### Los jardines botánicos más exquisitos del mundo no podrían darnos ni una mínima idea en comparación a lo que fue este jardín que fue plantado por Dios mismo. Incluyó en el jardín todas las verduras y <u>árboles</u> frutales que el hombre necesitaría. Dios proveyó lo que necesitarían para sobrevivir, pero también incluyó muchas otras cosas que sabía que disfrutarían, porque Dios es el dador de cosas buenas.
 
-#### Cuando Dios tuvo el jardín listo para Adán, Dios no le preguntó a Adán si quería vivir en él. No dijo: Oye, este jardín es maravilloso, ¿te gustaría vivir en él? Dios lo puso en el. Dios tenía la autoridad absoluta para colocar a Adán en cualquier lugar que así lo deseara. Dios es el Creador y dueño todopoderoso de toda Su creación.
+#### Cuando Dios tuvo el jardín listo para Adán, Dios no le preguntó a Adán si quería vivir en él. No dijo: Oye, este jardín es maravilloso, ¿te gustaría vivir en él? Dios lo puso en el. Dios tenía la autoridad absoluta para <u>colocar</u> a Adán en cualquier lugar que así lo deseara. Dios es el Creador y dueño todopoderoso de toda Su creación.
 
-#### Pero hay algo importante: ¡la autoridad de Dios nunca se lleva a cabo sin amor! 1 Juan 4 dice que Dios es amor. Por lo tanto, ¡absolutamente todo lo que Él hace siempre es con amor, siempre es perfecto y siempre es lo mejor!
+#### Pero hay algo importante: ¡la autoridad de Dios nunca se lleva a cabo sin amor! 1 Juan 4 dice que Dios es amor. Por lo tanto, ¡absolutamente todo lo que Él hace siempre es con amor, siempre es perfecto y siempre es lo <u>mejor</u>!
 
 ## Génesis 2:9 - Dios plantó dos árboles especiales en medio del jardín
 
-### Génesis 2:9 *El SEÑOR Dios hizo brotar de la tierra todo árbol agradable a la vista y bueno para comer. Asimismo, en medio del huerto, hizo brotar el árbol de la vida y el árbol del conocimiento del bien y del mal.*
+### Génesis 2:9 *El SEÑOR Dios hizo brotar de la tierra <u>todo</u> árbol agradable a la vista y bueno para comer. Asimismo, en medio del huerto, hizo brotar el árbol de la vida y el árbol del conocimiento del bien y del mal.*
 
-#### Dios hizo que crecieran muchos tipos de árboles en el jardín. Algunos habrían sido plantados por Dios para el puro placer y disfrute del hombre, como árboles en flor, mientras que otros sirvieron para propósitos más prácticos, como proporcionar sombra, o frutas y alimentos para comer. Dios hizo lo mismo que hacemos nosotros como padres. Proporcionamos no solo lo que nuestros hijos necesitan, sino también cosas que sabemos que disfrutarán.
+#### Dios hizo que crecieran muchos tipos de árboles en el jardín. Algunos habrían sido plantados por Dios para el puro placer y disfrute del hombre, como árboles en flor, mientras que otros sirvieron para propósitos más prácticos, como proporcionar sombra, o <u>frutas</u> y alimentos para comer. Dios hizo lo mismo que hacemos nosotros como padres. Proporcionamos no solo lo que nuestros hijos necesitan, sino también cosas que sabemos que disfrutarán.
 
-#### Sin embargo, entre todos esos árboles, también había dos árboles especiales: el *Árbol de la Vida y el Árbol del Conocimiento del Bien y del Mal*. Hay dos razones principales por las que Dios colocó esos dos árboles allí y dio la orden de no comer de uno.
+#### Sin embargo, entre todos esos árboles, también <u>había</u> dos árboles especiales: el *Árbol de la Vida y el Árbol del Conocimiento del Bien y del Mal*. Hay dos razones principales por las que Dios colocó esos dos árboles allí y dio la orden de no comer de uno.
 
-##### Primero, Dios creó al hombre para que dependiera de Él. Él no creó al hombre para que fuera independiente. Habrían tenido que seguir comiendo del árbol de la vida para vivir para siempre, y Dios quería que siguieran dependiendo de Él para mostrarles lo que estaba bien y lo que estaba mal.
+##### Primero, Dios creó al hombre para que dependiera de Él. Él no creó al <u>hombre</u> para que fuera independiente. Habrían tenido que seguir comiendo del árbol de la vida para vivir para siempre, y Dios quería que siguieran dependiendo de Él para mostrarles lo que estaba bien y lo que estaba mal.
 
-##### En segundo lugar, recuerde que Dios creó al hombre a Su imagen con mente, voluntad y emociones para poder tener una relación con el hombre. Junto con eso viene la capacidad de elegir obedecer o elegir pecar. En el verdadero sentido de haber sido creado a imagen de Dios, al hombre se le dio la capacidad de elegir.
+##### En segundo lugar, recuerde que Dios creó al hombre a Su imagen con mente, <u>voluntad</u> y emociones para poder tener una relación con el hombre. Junto con eso viene la capacidad de elegir obedecer o elegir pecar. En el verdadero sentido de haber sido creado a imagen de Dios, al hombre se le dio la capacidad de elegir.
 
 ## Génesis 2:16-17 - Dios le advirtió a Adán que desobedecer resultaría en la muerte
 
-### Génesis 2:16-17 *Y el SEÑOR Dios ordenó al hombre: «De todo árbol del huerto podrás comer, pero del árbol del conocimiento del bien y del mal no comerás, porque el día que de él comas, ciertamente morirás».*
+### Génesis 2:16-17 *Y el SEÑOR Dios ordenó al hombre: «De todo árbol del huerto podrás comer, pero del árbol del conocimiento del bien y del <u>mal</u> no comerás, porque el día que de él comas, ciertamente morirás».*
 
-####  Hasta este momento, todo lo que Adán había experimentado era bueno porque Dios le había provisto todo lo que necesitaba. Nunca había visto la muerte. Sin embargo, en este momento, Dios dejó en claro que, si Adán quería ser independiente de Dios y desobedecerlo comiendo del árbol prohibido, entonces moriría.
+####  Hasta este momento, todo lo que Adán había experimentado era bueno porque Dios le había provisto todo lo que necesitaba. Nunca había visto la muerte. Sin embargo, en este momento, Dios dejó en claro que, si Adán quería ser independiente de Dios y desobedecerlo comiendo del <u>árbol</u> prohibido, entonces moriría.
 
 #### Cuando Dios le dijo a Adán que moriría, significaba tres cosas:
 
-##### Primero, Adán estaría separado de tener una relación **espiritual** con Dios. Esto significa que Adán se corrompería y pasaría de ser amigo de Dios a convertirse en enemigo de Dios. La razón por la que Dios había creado a Adán a su propia imagen era para que el hombre pudiera disfrutar de una relación y comunión con Dios.
+##### Primero, Adán estaría separado de tener una relación **espiritual** con Dios. Esto significa que Adán se corrompería y pasaría de ser amigo de Dios a convertirse en enemigo de Dios. La razón por la que Dios había creado a Adán a su propia <u>imagen</u> era para que el hombre pudiera disfrutar de una relación y comunión con Dios.
 
-###### Pero si Adán lo desobedecía, esa parte de Adán que fue hecha a imagen de Dios, su mente, voluntad y emociones se estropearían y corromperían y, por lo tanto, se separarían de Dios. Adán moriría espiritualmente y la maravillosa relación que tenía con Dios llegaría a su fin.
+###### Pero si Adán lo desobedecía, esa parte de Adán que fue hecha a imagen de Dios, su mente, voluntad y emociones se estropearían y corromperían y, por lo tanto, se separarían de Dios. Adán moriría espiritualmente y la maravillosa <u>relación</u> que tenía con Dios llegaría a su fin.
 
-##### En segundo lugar, Adán moriría **físicamente**. Esto no significaba que Adán moriría inmediatamente ese mismo día. Significaba que Adán sería separado de Dios, su fuente de vida, y eventualmente experimentaría la muerte física. Cuando el cuerpo de Adán llegara al punto de morir físicamente, su espíritu y su alma se separarían de su cuerpo. Es un regreso a lo que era antes de que Dios insuflara vida en su cuerpo.
+##### En segundo lugar, Adán moriría **físicamente**. Esto no significaba que Adán moriría inmediatamente ese mismo día. Significaba que Adán sería separado de Dios, su fuente de vida, y eventualmente experimentaría la muerte física. Cuando el cuerpo de Adán llegara al punto de <u>morir</u> físicamente, su espíritu y su alma se separarían de su cuerpo. Es un regreso a lo que era antes de que Dios insuflara vida en su cuerpo.
 
-###### El alma y el espíritu de Adán eventualmente se separarían de su cuerpo, pero este no sería el final de su existencia.
+###### El alma y el espíritu de Adán eventualmente se separarían de su cuerpo, pero este no sería el <u>final</u> de su existencia.
 
-##### El aspecto final de la muerte que experimentaría Adán sería la muerte **eterna**. Habiendo muerto primero espiritualmente y luego físicamente, Adán se separaría de Dios para siempre y nunca más tendría la oportunidad de disfrutar del amor y la amistad de Dios. En sí mismo, no habría forma de que Adán escapara de este juicio.
+##### El aspecto final de la muerte que experimentaría Adán sería la muerte **eterna**. Habiendo muerto primero espiritualmente y luego físicamente, Adán se separaría de Dios para siempre y nunca más tendría la oportunidad de disfrutar del amor y la amistad de Dios. En sí mismo, no habría forma de que Adán <u>escapara</u> de este juicio.
 
-##### El estado de Adán sería como una rama que se rompe de un árbol. ¿Está muerta la rama? No lo parece. ¿Cuándo comenzó a morir la rama? Para que esta rama vuelva a vivir, ¿qué tendría que suceder?
+##### El estado de Adán sería como una rama que se rompe de un árbol. ¿Está muerta la rama? No lo parece. ¿Cuándo comenzó a <u>morir</u> la rama? Para que esta rama vuelva a vivir, ¿qué tendría que suceder?
 
-##### Lo mismo será cierto de Adán y Eva si eligen desobedecer a Dios. Se separarán de Dios, su fuente de vida, y ellos también comenzarán a morir en ese mismo momento.
+##### Lo mismo será cierto de Adán y Eva si eligen desobedecer a Dios. Se separarán de Dios, su fuente de vida, y ellos también comenzarán a morir en ese <u>mismo</u> momento.
 
 ## Preguntas de revisión
 
@@ -984,53 +984,53 @@
 
 ## Génesis 2:18 - Dios decidió que Adán necesitaba una esposa como ayudante
 
-### Génesis 2:18 – *Entonces el SEÑOR Dios dijo: «No es bueno que el hombre esté solo; le haré una ayuda adecuada».* Dios fue el que dijo que no era bueno que el hombre esté solo. Él sabe lo que es mejor y solo desea proporcionar lo mejor.
+### Génesis 2:18 – *Entonces el SEÑOR Dios dijo: «No es bueno que el hombre esté solo; le haré una ayuda adecuada».* Dios fue el que dijo que no era bueno que el hombre esté solo. Él sabe lo que es mejor y solo <u>desea</u> proporcionar lo mejor.
 
-#### Dios conoce íntimamente su creación. Cuando hizo a Adán, sabía cuáles serían sus necesidades y planeó amorosamente satisfacerlas. En esta lección, veremos Su increíble bondad al proporcionarle a Adán un regalo como ningún otro. Hoy, Dios no ha cambiado. El corazón que vemos en la forma en que Él amó y cuidó de Adán, es el mismo corazón hoy con nosotros también. Nuestro problema es que determinamos por nosotros mismos lo que queremos, en lugar de confiar en que Él nos guíe y provea.
+#### Dios conoce íntimamente su creación. Cuando hizo a Adán, sabía cuáles serían sus necesidades y planeó amorosamente satisfacerlas. En esta lección, veremos Su increíble bondad al proporcionarle a Adán un <u>regalo</u> como ningún otro. Hoy, Dios no ha cambiado. El corazón que vemos en la forma en que Él amó y cuidó de Adán, es el mismo corazón hoy con nosotros también. Nuestro problema es que determinamos por nosotros mismos lo que queremos, en lugar de confiar en que Él nos guíe y provea.
 
-#### Ya hemos aprendido que Dios creó a Eva el mismo día que creó a Adán y a los animales. Génesis 1:26-27
+#### Ya hemos aprendido que Dios creó a Eva el mismo día que <u>creó</u> a Adán y a los animales. Génesis 1:26-27
 
-##### ¿Podrías describir cómo Dios hizo a Adán, formó su cuerpo del polvo de la tierra y luego le dio vida?
+##### ¿Podrías describir cómo Dios hizo a Adán, formó su <u>cuerpo</u> del polvo de la tierra y luego le dio vida?
 
-#### Hasta este punto, no hemos visto cómo Dios hizo el cuerpo de Eva. La sección de las Escrituras que vamos a estudiar ahora explica por qué y cómo fue hecha Eva. Veamos primero por qué Dios decidió crear a Eva.
+#### Hasta este punto, no hemos visto cómo Dios hizo el cuerpo de Eva. La sección de las Escrituras que vamos a estudiar ahora explica por qué y cómo fue hecha Eva. Veamos <u>primero</u> por qué Dios decidió crear a Eva.
 
-#### Dios no creó al hombre para que fuera independiente de Él. No quería que Adán comiera del árbol del conocimiento del bien y del mal y comenzara a decidir por sí mismo lo que es bueno y lo que no es bueno. Dios es omnisciente y Adán no lo era. Dios sabía lo que era mejor y había planeado proporcionarle una compañera.
+#### Dios no creó al hombre para que fuera independiente de Él. No quería que Adán comiera del árbol del conocimiento del bien y del mal y comenzara a decidir por sí mismo lo que es <u>bueno</u> y lo que no es bueno. Dios es omnisciente y Adán no lo era. Dios sabía lo que era mejor y había planeado proporcionarle una compañera.
 
-#### Luego, la base de la decisión de Dios fue Su amor y sabiduría. Dios amó y cuidó a Adán; Ya hemos visto muchas pruebas de ello. Adán fue creado a imagen de Dios con mente, voluntad y emociones. Él nos creó para ser relacionales. Para que Adán alcance su máximo potencial, en términos de experimentar el reino completo de emociones y relaciones para las que Dios lo creó, Adán debía tener una compañera adecuada.
+#### Luego, la base de la decisión de Dios fue Su amor y sabiduría. Dios amó y cuidó a Adán; Ya hemos visto muchas pruebas de ello. Adán fue creado a imagen de Dios con mente, voluntad y emociones. Él nos creó para ser relacionales. Para que Adán alcance su máximo potencial, en términos de experimentar el reino completo de emociones y relaciones para las que Dios lo creó, Adán <u>debía</u> tener una compañera adecuada.
 
-#### Por último, Dios quería que el hombre cumpliera el propósito por el cual fueron puestos en la tierra. ¿Qué propósito le había dado Dios a Adán? Adán iba a ser el administrador de todos los seres vivos de la tierra. Debían llenar y someter la tierra. Para que eso sucediera, Adán debió tener una esposa e hijos para dar lugar a la raza humana. Dios quería que la raza humana creciera, se multiplicara, se extendiera y cubriera la tierra.
+#### Por último, Dios quería que el hombre cumpliera el propósito por el cual fueron puestos en la tierra. ¿Qué propósito le había dado Dios a Adán? Adán iba a ser el administrador de todos los seres vivos de la tierra. Debían llenar y someter la tierra. Para que eso sucediera, Adán debió tener una esposa e hijos para dar lugar a la raza humana. Dios quería que la raza humana <u>creciera</u>, se multiplicara, se extendiera y cubriera la tierra.
 
 ## Génesis 2:19-20 - Dios trajo los animales a Adán para que los nombrara
 
-### Génesis 2:19-20 – *Jehová Dios formó, pues, de la tierra toda bestia del campo, y toda ave de los cielos, y las trajo a Adán para que viese cómo las había de llamar; y todo lo que Adán llamó a los animales vivientes, ése es su nombre. Y puso Adán nombre a toda bestia y ave de los cielos y a todo ganado del campo; más para Adán no se halló ayuda idónea para él.* (RVR60)
+### Génesis 2:19-20 – *Jehová Dios formó, pues, de la tierra toda bestia del campo, y toda ave de los cielos, y las trajo a Adán para que viese cómo las había de llamar; y todo lo que Adán llamó a los animales vivientes, ése es su nombre. Y puso Adán nombre a toda <u>bestia</u> y ave de los cielos y a todo ganado del campo; más para Adán no se halló ayuda idónea para él.* (RVR60)
 
-#### Dios dio a Adán la responsabilidad de nombrar a los animales. Dado que Dios ya había dado al hombre el cuidado de administrar la tierra, le dio a Adán la responsabilidad de nombrar a todos los animales. Debido a que Adán tenía una mente perfecta, tenía la capacidad de nombrar rápida y adecuadamente a cada uno de los animales. ¿Por qué crees que Dios no le dijo a Adán cómo se llamaban los animales? Fue por varias razones.
+#### Dios dio a Adán la responsabilidad de nombrar a los animales. Dado que Dios ya había dado al hombre el cuidado de administrar la tierra, le dio a Adán la responsabilidad de nombrar a todos los animales. Debido a que Adán tenía una mente perfecta, <u>tenía</u> la capacidad de nombrar rápida y adecuadamente a cada uno de los animales. ¿Por qué crees que Dios no le dijo a Adán cómo se llamaban los animales? Fue por varias razones.
 
-#### El hombre fue creado por encima del resto de la creación y Dios le dio responsabilidades, casi haciendo una especie de colaborador junto con él. Dios dejó muy claro que su relación con el hombre era especial.
+#### El hombre fue creado por encima del resto de la creación y Dios le dio responsabilidades, casi haciendo una especie de colaborador <u>junto</u> con él. Dios dejó muy claro que su relación con el hombre era especial.
 
-#### Al traer todos los animales a Adán para nombrarlos, Dios también le dio a Adán una clara muestra de Su poder, sabiduría y soberanía. Al nombrar a todos los animales, se hizo evidente para Adán que ninguno de ellos era adecuado para ser su compañero; ninguno fue creado como él, a imagen de Dios.
+#### Al traer todos los animales a Adán para nombrarlos, Dios también le dio a Adán una clara muestra de Su poder, sabiduría y soberanía. Al nombrar a todos los animales, se hizo evidente para Adán que ninguno de ellos era adecuado para ser su compañero; ninguno fue creado como él, a <u>imagen</u> de Dios.
 
 ## Génesis 2:21-22 - Adán fue creado a imagen de Dios. Fue creado para gobernar sobre todos los animales
 
-### Génesis 2:21-22 – *Entonces Jehová Dios hizo caer sueño profundo sobre Adán, y mientras éste dormía, tomó una de sus costillas, y cerró la carne en su lugar.* *Y de la costilla que Jehová Dios tomó del hombre, hizo una mujer, y la trajo al hombre.* (RVR60)
+### Génesis 2:21-22 – *Entonces Jehová Dios hizo caer sueño profundo sobre Adán, y mientras éste dormía, tomó una de sus costillas, y cerró la <u>carne</u> en su lugar.* *Y de la costilla que Jehová Dios tomó del hombre, hizo una mujer, y la trajo al hombre.* (RVR60)
 
-#### Para que Adán experimente el máximo potencial de la relación con otra persona, esa compañera también debía ser creada a imagen de Dios. Necesitaba tener a alguien que pudiera interactuar con él y comunicarse con él en el mismo nivel intelectual y emocional. Necesitaba a alguien que compartiera los mismos intereses y disfrutara de las mismas actividades que él disfrutaba. Adán no podía hacer nada para proveerse de una compañera adecuada. Solo Dios podía hacer eso.
+#### Para que Adán experimente el máximo potencial de la relación con otra persona, esa compañera también debía ser creada a imagen de Dios. Necesitaba tener a alguien que pudiera interactuar con él y comunicarse con él en el mismo nivel intelectual y emocional. Necesitaba a alguien que compartiera los <u>mismos</u> intereses y disfrutara de las mismas actividades que él disfrutaba. Adán no podía hacer nada para proveerse de una compañera adecuada. Solo Dios podía hacer eso.
 
-#### En primer lugar, ¡solo Dios podría lograr tal hazaña! Nada, nada, nada es imposible para Dios. ¡Él es absolutamente todopoderoso! Al igual que Adán, Dios creó a Eva a su imagen. Tenía una mente, emociones y una voluntad perfecta para poder comunicarse con Él y con Adán. Piense en por qué Dios creó a Eva de la costilla de Adán. Fue tomada de una parte del hombre para significar su unidad. Entonces, la parte de la que fue hecha significa igualdad, pero bajo su protección y autoridad.
+#### En primer lugar, ¡solo Dios podría lograr tal hazaña! Nada, nada, nada es imposible para Dios. ¡Él es absolutamente todopoderoso! Al igual que Adán, Dios creó a Eva a su imagen. Tenía una mente, emociones y una voluntad perfecta para <u>poder</u> comunicarse con Él y con Adán. Piense en por qué Dios creó a Eva de la costilla de Adán. Fue tomada de una parte del hombre para significar su unidad. Entonces, la parte de la que fue hecha significa igualdad, pero bajo su protección y autoridad.
 
 ## Génesis 2:23-24 - El matrimonio fue ordenado por Dios
 
-### Génesis 2:23-24 – *Dijo entonces Adán: Esto es ahora, hueso de mis huesos y carne de mi carne; ésta será llamada Varona, porque del varón fue tomada.* *Por tanto, dejará el hombre a su padre y a su madre, y se unirá a su mujer, y serán una sola carne.* (RVR60)
+### Génesis 2:23-24 – *Dijo entonces Adán: Esto es ahora, hueso de mis huesos y carne de mi carne; ésta será llamada Varona, porque del varón fue tomada.* *Por tanto, dejará el hombre a su padre y a su madre, y se unirá a su mujer, y serán una <u>sola</u> carne.* (RVR60)
 
-#### Dios hizo a Eva para Adán para que pudieran vivir juntos como marido y mujer y tener hijos. ¿Recuerdas el mandato de Dios para ellos en Génesis 1:28? Debían ser fructíferos y multiplicarse, llenar la tierra y someterla. Aquí está muy claro que es Dios quien instituyó el matrimonio y la familia. Así como creó a todos los animales como macho y hembra, también lo hizo con la humanidad.
+#### Dios hizo a Eva para Adán para que pudieran vivir juntos como marido y mujer y tener hijos. ¿Recuerdas el mandato de Dios para ellos en Génesis 1:28? Debían ser fructíferos y multiplicarse, llenar la tierra y someterla. Aquí está muy claro que es Dios quien instituyó el matrimonio y la familia. Así como creó a todos los animales como <u>macho</u> y hembra, también lo hizo con la humanidad.
 
 ## Génesis 2:25 - Adán y su esposa no se avergonzaron de su desnudez
 
-### Génesis 2:25 – *Y estaban ambos desnudos, Adán y su mujer, y no se avergonzaban.* (RVR60) Adán y Eva vivieron juntos en total amor y pureza. Sus mentes aún no se habían corrompido; por lo tanto, no se avergonzaron de su desnudez.
+### Génesis 2:25 – *Y estaban ambos desnudos, Adán y su mujer, y no se avergonzaban.* (RVR60) Adán y Eva vivieron juntos en total amor y pureza. Sus mentes aún no se habían corrompido; por lo tanto, no se avergonzaron de su <u>desnudez</u>.
 
-#### En todo lo que hemos visto desde el principio hasta ahora, ¿en algún punto has visto a Dios hacer o decir algo que no era lo mejor para el hombre? Puedes revisar el resto de cada página de las Escrituras y nunca encontrarás un caso en el que Él no haga lo mejor para la humanidad.
+#### En todo lo que hemos visto desde el principio hasta ahora, ¿en algún punto has visto a Dios hacer o decir algo que no era lo mejor para el hombre? Puedes revisar el resto de cada página de las Escrituras y nunca encontrarás un <u>caso</u> en el que Él no haga lo mejor para la humanidad.
 
-#### El corazón de Dios sigue siendo el mismo hoy. Él quiere lo mejor para cada uno de nosotros, pero no nos lo impondrá. ¿Por qué? Porque Su objetivo desde el principio fue una relación. En lugar de forzar lo que es mejor para nosotros, Él esperará pacientemente a que aprendamos (de la manera difícil) que no podemos confiar en nosotros mismos y que necesitamos depender completamente de Él.
+#### El corazón de Dios sigue siendo el mismo hoy. Él quiere lo mejor para cada uno de nosotros, pero no nos lo impondrá. ¿Por qué? Porque Su objetivo desde el principio fue una relación. En lugar de forzar lo que es mejor para nosotros, Él esperará pacientemente a que aprendamos (de la manera difícil) que no podemos confiar en nosotros mismos y que necesitamos <u>depender</u> completamente de Él.
 
 ## Preguntas de revisión
 
@@ -1048,27 +1048,27 @@
 
 ## Los ángeles fueron creados buenos
 
-### Sabemos que cuando Dios creó el mundo, el universo y todo lo que contiene, no existía nada malo. Todo estaba en paz y armonía. No había pecado, enfermedad, tristeza o muerte. También sabemos que, poco después, esta hermosa tranquilidad cambió como resultado del pecado.
+### Sabemos que cuando Dios creó el mundo, el universo y todo lo que contiene, no existía nada malo. Todo estaba en paz y armonía. No había pecado, enfermedad, tristeza o muerte. También sabemos que, poco después, esta <u>hermosa</u> tranquilidad cambió como resultado del pecado.
 
-### Aprendimos anteriormente que Dios creó a los ángeles para que pudieran presenciar parte de Su creación. También sabemos que Él los creó como seres espirituales con sabiduría y poder para servirle. Sabemos que debido a que los ángeles son seres creados por Dios, nunca podrían convertirse en Dios o usurpar Su autoridad.
+### Aprendimos anteriormente que Dios creó a los ángeles para que pudieran presenciar parte de Su creación. También sabemos que Él los creó como seres espirituales con sabiduría y poder para servirle. Sabemos que debido a que los ángeles son seres creados por Dios, <u>nunca</u> podrían convertirse en Dios o usurpar Su autoridad.
 
-### También sabemos de Lucifer, a quien originalmente Dios había creado perfecto como todos los demás ángeles. Su nombre Lucifer significaba Estrella de la Mañana. Refiriéndose a Lucifer, Ezequiel 28:15 dice: *Perfecto eras en tus caminos desde el día que fuiste creado...*
+### También sabemos de Lucifer, a quien originalmente Dios había creado perfecto como todos los demás <u>ángeles</u>. Su nombre Lucifer significaba Estrella de la Mañana. Refiriéndose a Lucifer, Ezequiel 28:15 dice: *Perfecto eras en tus caminos desde el día que fuiste creado...*
 
-### También aprendimos que Dios le había dado una posición importante a Lucifer. Parece que su posición era de gran autoridad y poder sobre los otros ángeles. En Ezequiel 28:14 se le llama: *querubín grande, que cubre. (RV1909).* Parece que Dios le había dado a Lucifer la posición más cercana de Su trono que se le podía dar a un ser creado.
+### También aprendimos que Dios le había dado una posición importante a Lucifer. Parece que su posición era de gran autoridad y poder sobre los otros ángeles. En Ezequiel 28:14 se le llama: *querubín grande, que cubre. (RV1909).* Parece que Dios le había dado a Lucifer la <u>posición</u> más cercana de Su trono que se le podía dar a un ser creado.
 
 ## Lucifer se rebeló contra Dios, y otros ángeles lo siguieron
 
-### Hay diferentes posturas con respecto a Lucifer, sus ángeles y cuál fue su pecado. Al poner Judas 6 junto a Ezequiel 28, es claro que Lucifer tenía malas intenciones. Sin embargo, recién se hace evidente cuando lo lleva a la acción, en el jardín. 
+### Hay diferentes posturas con respecto a Lucifer, sus ángeles y cuál fue su <u>pecado</u>. Al poner Judas 6 junto a Ezequiel 28, es claro que Lucifer tenía malas intenciones. Sin embargo, recién se hace evidente cuando lo lleva a la acción, en el jardín. 
 
-### Su primer estado o principado se refiere a su posición original de estar bajo la autoridad de la Deidad. Se sintieron insatisfechos con la voluntad y la ubicación de Dios para ellos y aspiraron a ser más altos. Judas 1:6; Ezequiel 28:13-15
+### Su primer estado o principado se refiere a su posición original de estar bajo la autoridad de la Deidad. Se sintieron insatisfechos con la <u>voluntad</u> y la ubicación de Dios para ellos y aspiraron a ser más altos. Judas 1:6; Ezequiel 28:13-15
 
-### Cuando te detienes y piensas en ello, no había razón para que Lucifer se revelara. Había sido honrado por Dios al recibir la posición más alta sobre todos los demás ángeles. Debería haber obedecido y servido a Dios. Pero de Ezequiel 28:17, parece que Lucifer se enorgulleció a causa de su belleza, inteligencia y posición.
+### Cuando te detienes y piensas en ello, no había razón para que Lucifer se revelara. Había sido honrado por Dios al recibir la posición más alta sobre todos los <u>demás</u> ángeles. Debería haber obedecido y servido a Dios. Pero de Ezequiel 28:17, parece que Lucifer se enorgulleció a causa de su belleza, inteligencia y posición.
 
-### De todo esto, también entendemos que, aunque Lucifer y los ángeles fueron creados perfectos, se les dio libre albedrío. La rebelión de Lucifer fue un acto de su voluntad, una elección consciente de oponerse a Dios. Lucifer quería ser como Dios. Aspiraba a ocupar el lugar de Dios como gobernante supremo sobre todas las cosas y recibir la adoración del hombre. Isaías 14:12-15; Ezequiel 28:17
+### De todo esto, también entendemos que, aunque Lucifer y los ángeles fueron creados perfectos, se les dio libre albedrío. La rebelión de Lucifer fue un acto de su voluntad, una elección consciente de oponerse a Dios. Lucifer quería ser como Dios. Aspiraba a ocupar el lugar de Dios como gobernante supremo sobre todas las cosas y <u>recibir</u> la adoración del hombre. Isaías 14:12-15; Ezequiel 28:17
 
 ## Dios quitó a Lucifer y a los ángeles rebeldes de su posición como siervos de Dios
 
-### Con respecto a la rebelión de Lucifer, cabe señalar que no fue solo una cuestión de que Dios no permitió que Lucifer tomara Su posición. Más bien, habría sido imposible para él tomarlo. ¡Un ser creado nunca podría convertirse en Dios! Dios es el gran Yo Soy, el que existe por sí mismo y que existió siempre en majestad y plenitud antes de que algo fuera creado. Él vive por Su propio poder, y da vida a todo. ¡Él es absolutamente soberano y supremo! ¡Nadie le dio esta posición! ¡Es quien Él es!
+### Con respecto a la rebelión de Lucifer, cabe señalar que no fue solo una cuestión de que Dios no permitió que Lucifer tomara Su posición. Más bien, habría sido imposible para él tomarlo. ¡Un ser creado nunca podría convertirse en Dios! Dios es el gran Yo Soy, el que existe por sí mismo y que existió siempre en majestad y <u>plenitud</u> antes de que algo fuera creado. Él vive por Su propio poder, y da vida a todo. ¡Él es absolutamente soberano y supremo! ¡Nadie le dio esta posición! ¡Es quien Él es!
 
 ### ¡Lucifer nunca podría ser Dios porque no es Dios! ¡No podría ser Dios sin que Dios lo hiciera Dios, lo que en efecto lo hace No Dios! ¡Ser Dios no es como convertirse en rey o presidente! Las personas pueden ser elegidas o designadas para estos puestos y luego comenzar a actuar como tales. Para ser Dios tienes que ser auto existente y eterno, y como ser creado, Lucifer depende de Dios. Es imposible que un ser creado alcance el estado de no tener principio, porque fue creado.
 
