@@ -3490,59 +3490,59 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ## El altar del incienso (Éxodo 30:1-10)
 
-### Los sacerdotes quemaban incienso en este altar todas las mañanas y tardes. El incienso se hizo a partir de una receta especial que Dios le había dado a Moisés y este fue el único lugar donde se le permitió a alguien quemar este incienso específico. Tenía que ser únicamente el que Dios había prescrito. 
+### Los sacerdotes quemaban incienso en este altar todas las <u>mañanas</u> y tardes. El incienso se hizo a partir de una receta especial que Dios le había dado a Moisés y este fue el único lugar donde se le permitió a alguien quemar este incienso específico. Tenía que ser únicamente el que Dios había prescrito. 
 
-#### Parece ser que este incienso ardiente era un símbolo de oración y adoración a Dios. Hay lugares en el Antiguo Testamento donde Dios señala que Israel estaba quemando incienso a los ídolos y otros dioses falsos (Isaías 65:3; Jeremías 44:8, 18; Oseas 11:2). En el Salmo 55:17, David menciona que oraba al atardecer, por la mañana y al mediodía, que eran los momentos en que los sacerdotes quemaban el incienso.
+#### Parece ser que este incienso ardiente era un símbolo de oración y adoración a Dios. Hay lugares en el Antiguo Testamento donde Dios señala que Israel estaba quemando incienso a los ídolos y otros dioses falsos (Isaías 65:3; Jeremías 44:8, 18; Oseas 11:2). En el Salmo 55:17, David menciona que <u>oraba</u> al atardecer, por la mañana y al mediodía, que eran los momentos en que los sacerdotes quemaban el incienso.
 
-### Según Éxodo 30:10, el altar del incienso debía su posición a la sangre de expiación que provenía del sacrificio hecho sobre el altar de bronce. Además, el fuego santo que hizo que el dulce aroma ascendiera fue el que primero había descendido y consumido el sacrificio en el altar de bronce (2 Corintios 2:14).
+### Según Éxodo 30:10, el altar del incienso debía su posición a la sangre de expiación que provenía del sacrificio hecho sobre el altar de <u>bronce</u>. Además, el fuego santo que hizo que el dulce aroma ascendiera fue el que primero había descendido y consumido el sacrificio en el altar de bronce (2 Corintios 2:14).
 
-#### Esto proporciona una tremenda imagen física de la verdad espiritual para nosotros hoy como creyentes. La capacidad de ofrecer oración, alabanza y adoración aceptables a Dios se proporciona a través de la muerte de Cristo en la cruz (el altar de bronce) y nuestro crecimiento en la gracia y el conocimiento de Dios (lavamiento de la fuente).
+#### Esto proporciona una tremenda imagen física de la verdad espiritual para nosotros hoy como creyentes. La capacidad de ofrecer oración, alabanza y adoración aceptables a Dios se proporciona a través de la muerte de Cristo en la cruz (el altar de bronce) y <u>nuestro</u> crecimiento en la gracia y el conocimiento de Dios (lavamiento de la fuente).
 
-### Nuestro privilegio para orar, alabar y adorar a Dios proviene de la posición que recibimos en el momento en que creemos en Cristo como nuestro Salvador, pero el deseo, el corazón y la capacidad de orar, alabar y honrar estarán en proporción directa a nuestro crecimiento en el conocimiento de Dios y Su gracia.
+### Nuestro privilegio para orar, alabar y adorar a Dios proviene de la posición que recibimos en el momento en que creemos en Cristo como nuestro Salvador, pero el deseo, el corazón y la capacidad de orar, alabar y honrar estarán en proporción <u>directa</u> a nuestro crecimiento en el conocimiento de Dios y Su gracia.
 
 ## El candelabro (Éxodo 25:31-40)
 
-### La mesa de los panes de la proposición y el altar del incienso hablan más de la relación e interacción del creyente con Dios. Mientras que el candelabro habla más de la funcionalidad y el propósito del creyente mientras permanece aquí en la tierra.
+### La mesa de los panes de la proposición y el altar del incienso hablan más de la relación e interacción del creyente con Dios. Mientras que el candelabro habla más de la funcionalidad y el propósito del <u>creyente</u> mientras permanece aquí en la tierra.
 
-####  La luz a través de las Escrituras es siempre una imagen o símbolo de la verdad. Jesús es la luz del mundo y también se le llama la verdad. Él es la verdad y, por lo tanto, la fuente de toda verdad. Juan 1:1-9; Mateo 5:14-16; Efesios 5:8-18; Colosenses 1:12; 1 Tesalonicenses 5:5; 1 Pedro 2:9.
+####  La luz a través de las Escrituras es siempre una imagen o símbolo de la verdad. Jesús es la luz del mundo y también se le llama la verdad. Él es la verdad y, por lo tanto, la fuente de toda <u>verdad</u>. Juan 1:1-9; Mateo 5:14-16; Efesios 5:8-18; Colosenses 1:12; 1 Tesalonicenses 5:5; 1 Pedro 2:9.
 
-### Con este candelabro en el tabernáculo, tenemos el simbolismo de la luz, pero también está el simbolismo asociado con el aceite que contenía como combustible para la luz. 
+### Con este candelabro en el tabernáculo, tenemos el simbolismo de la luz, pero también está el simbolismo asociado con el <u>aceite</u> que contenía como combustible para la luz. 
 
-#### La mayoría de las veces, a través de las Escrituras, el aceite se asocia con el Espíritu Santo. Esta imagen física proporciona una imagen clara del papel y el ministerio del Espíritu Santo en nuestras vidas hoy. Juan 16:14; 1 Corintios 2:12; 1 Pedro 1:22; 1 Corintios 6:11; 2 Corintios 3:18.
+#### La mayoría de las veces, a través de las Escrituras, el aceite se asocia con el Espíritu Santo. Esta imagen física proporciona una imagen clara del <u>papel</u> y el ministerio del Espíritu Santo en nuestras vidas hoy. Juan 16:14; 1 Corintios 2:12; 1 Pedro 1:22; 1 Corintios 6:11; 2 Corintios 3:18.
 
-### Cuanto más el Espíritu Santo continúe procesándonos, enseñándonos a caminar más en el Espíritu y menos en la carne, más conformados a la imagen de Cristo seremos en la vida diaria. Cuanto más conformados seamos a la imagen de Cristo, más brillantes serán nuestras vidas con la vida de Cristo a todos los que nos rodean. Sin el sacrificio (altar de bronce, cruz) y sin el lavamiento (fuente, la Palabra de Dios y el ministerio del Espíritu Santo), todas estas cosas serán totalmente imposibles e irrelevantes.
+### Cuanto más el Espíritu Santo continúe procesándonos, enseñándonos a caminar más en el Espíritu y menos en la carne, más conformados a la imagen de Cristo seremos en la vida diaria. Cuanto más conformados seamos a la imagen de Cristo, más brillantes serán nuestras vidas con la vida de Cristo a todos los que nos <u>rodean</u>. Sin el sacrificio (altar de bronce, cruz) y sin el lavamiento (fuente, la Palabra de Dios y el ministerio del Espíritu Santo), todas estas cosas serán totalmente imposibles e irrelevantes.
 
 ## Simbolismo del sacerdocio
 
-### Al echar un breve vistazo a los sacerdotes levitas, en lugar de mirar el simbolismo en lo que vestían, etc., solo quiero echar un vistazo rápido a su posición y servicios.
+### Al echar un breve vistazo a los sacerdotes levitas, en lugar de mirar el simbolismo en lo que vestían, etc. Solo queremos echar un <u>vistazo</u> rápido a su posición y servicios.
 
-### Lo primero y más importante es el hecho de que los levitas fueron elegidos únicamente por la soberanía de Dios. No hicieron nada para ganarse este puesto. Dios simplemente le dijo a Moisés que tomara a su hermano Aarón y a los hijos de Aarón y los separara del resto para que fueran sacerdotes para el Señor (Éxodo 28).
+### Lo primero y más importante es el hecho de que los levitas fueron elegidos únicamente por la soberanía de Dios. No hicieron nada para ganarse este puesto. Dios simplemente le dijo a Moisés que <u>tomara</u> a su hermano Aarón y a los hijos de Aarón y los separara del resto para que fueran sacerdotes para el Señor (Éxodo 28).
 
-### Después de elegir la primera generación de sacerdotes, todos los demás futuros sacerdotes se convirtieron en sacerdotes por nacimiento; es decir, solo por el hecho de que nacieron en la tribu de Leví.
+### Después de elegir la primera generación de sacerdotes, <u>todos</u> los demás futuros sacerdotes se convirtieron en sacerdotes por nacimiento; es decir, solo por el hecho de que nacieron en la tribu de Leví.
 
-### Fueron separados o apartados de todo el resto de Israel para un servicio especial al Señor. El hecho de que esto sea apartado para el propósito y uso de Dios lleva consigo tanto el privilegio como la responsabilidad.
+### Fueron separados o apartados de todo el resto de Israel para un servicio <u>especial</u> al Señor. El hecho de que esto sea apartado para el propósito y uso de Dios lleva consigo tanto el privilegio como la responsabilidad.
 
-### Su papel principal era funcionar como mediadores entre Dios y el hombre. Para que pudieran funcionar correctamente en ese papel, su santidad que estaba simbolizada por estándares estrictos para permanecer ceremonialmente limpios tenía que cumplirse estrictamente.
+### Su papel principal era funcionar como mediadores entre Dios y el hombre. Para que pudieran funcionar correctamente en ese papel, su santidad que estaba simbolizada por estándares estrictos para permanecer ceremonialmente limpios tenía que <u>cumplirse</u> estrictamente.
 
 ### Lea 1 Pedro 2:4-10.
 
-### Una vez más, el tabernáculo, los sacerdotes, sus roles, los sacrificios y el mobiliario nos brindan una imagen física bastante clara de Cristo, Su obra terminada y algunos de los privilegios y responsabilidades que acompañan a la posición que hemos recibido en Cristo.
+### Una vez más, el tabernáculo, los sacerdotes, sus roles, los sacrificios y el mobiliario nos brindan una imagen física bastante clara de Cristo, Su obra terminada y algunos de los privilegios y responsabilidades que acompañan a la posición que hemos <u>recibido</u> en Cristo.
 
-### Como creyentes, ninguno de nosotros se convirtió en hijo de Dios ni fue colocado en Cristo por algo que hicimos (sacrificios u obras) para merecerlo, sino que todo fue de Dios y por gracia en la persona de Cristo. Nosotros también nos convertimos en sacerdotes-creyentes a través del nacimiento, nuestro segundo nacimiento espiritual. (1 Pedro 1:3, 23) Como hijos de Dios / creyentes-sacerdotes, nosotros también hemos recibido un gran privilegio y una gran responsabilidad.
+### Como creyentes, ninguno de nosotros se convirtió en hijo de Dios ni fue colocado en Cristo por algo que hicimos (sacrificios u obras) para merecerlo, sino que todo fue de Dios y por gracia en la persona de Cristo. Nosotros también nos convertimos en sacerdotes-creyentes a través del nacimiento, nuestro <u>segundo</u> nacimiento espiritual. (1 Pedro 1:3, 23) Como hijos de Dios / creyentes-sacerdotes, nosotros también hemos recibido un gran privilegio y una gran responsabilidad.
 
-### 1 Pedro 2:9 – La única forma en que podemos efectivamente proclamar las alabanzas de Aquel que nos llamó de las tinieblas a su luz admirable es que mantengamos nuestra santidad o limpieza espiritual y esto será real solo por medio de Cristo, por la obra que realizó en la cruz. 1 Pedro 2:5b, 24
+### 1 Pedro 2:9 – La única forma en que podemos efectivamente proclamar las alabanzas de Aquel que nos llamó de las <u>tinieblas</u> a su luz admirable es que mantengamos nuestra santidad o limpieza espiritual y esto será real solo por medio de Cristo, por la obra que realizó en la cruz. 1 Pedro 2:5b, 24
 
-### Para todo creyente, Cristo es la piedra viva, escogida y preciosa de Dios (1 Pedro 2:4), la piedra angular (1 Pedro 2:6). Y ningún creyente será avergonzado. 1 Pedro 2:6b
+### Para todo creyente, Cristo es la piedra viva, escogida y preciosa de Dios (1 Pedro 2:4), la piedra angular (1 Pedro 2:6). Y <u>ningún</u> creyente será avergonzado. 1 Pedro 2:6b
 
-### Solo por medio de Cristo es que todo aquel que cree nace de nuevo y lleva **sacrificios espirituales** aceptables para el Padre. 1 Pedro 1:3, 2:5b
+### Solo por medio de Cristo es que todo aquel que cree nace de <u>nuevo</u> y lleva **sacrificios espirituales** aceptables para el Padre. 1 Pedro 1:3, 2:5b
 
-### 1 Pedro 2:10-12 – Este pasaje nos dice que, al andar como extranjeros y peregrinos (ciudadanos celestiales), hay quienes se verán afectados por la transformación de nuestras vidas y glorificarán a Dios como resultado.
+### 1 Pedro 2:10-12 – Este pasaje nos dice que, al <u>andar</u> como extranjeros y peregrinos (ciudadanos celestiales), hay quienes se verán afectados por la transformación de nuestras vidas y glorificarán a Dios como resultado.
 
-### Jesús, nuestro Sumo Sacerdote. Él es nuestro misericordioso y fiel Sumo Sacerdote (Hebreos 2:17); Pasó por los cielos y simpatiza con nuestras debilidades (Hebreos 4:14-15); Fue elegido por Dios (Hebreos 5:5, 10); Él es nuestro sumo sacerdote PARA SIEMPRE (Hebreos 6:20); Él posee Su sacerdocio inmutable para siempre (Hebreos 7:23-28); Él es nuestro sumo sacerdote que está sentado en el cielo (Hebreos 8:1); Él es el sumo sacerdote de un tabernáculo hecho sin manos que ofreció su propia sangre y no solo la de toros y machos cabríos (Hebreos 9:11-12).
+### Jesús, nuestro Sumo Sacerdote. Él es nuestro misericordioso y fiel Sumo Sacerdote (Hebreos 2:17); Pasó por los cielos y simpatiza con nuestras debilidades (Hebreos 4:14-15); Fue elegido por Dios (Hebreos 5:5, 10); Él es nuestro sumo sacerdote PARA SIEMPRE (Hebreos 6:20); Él posee Su <u>sacerdocio</u> inmutable para siempre (Hebreos 7:23-28); Él es nuestro sumo sacerdote que está sentado en el cielo (Hebreos 8:1); Él es el sumo sacerdote de un tabernáculo hecho sin manos que ofreció su propia sangre y no solo la de toros y machos cabríos (Hebreos 9:11-12).
 
 ### Lea Hebreos 10:19-23.
 
-### Jesús es el tabernáculo, el sacrificio en el altar de bronce (así como todas las demás ofrendas y sacrificios que debían hacerse), el Sumo Sacerdote, el pan y el sacrificio una vez al año cuya sangre era rociada sobre el propiciatorio. Todas estas cosas apuntan a Él y a Su obra terminada.
+### Jesús es el tabernáculo, el sacrificio en el altar de bronce (así como todas las demás ofrendas y sacrificios que debían hacerse), el Sumo Sacerdote, el pan y el sacrificio una vez al año cuya sangre era rociada sobre el propiciatorio. Todas estas cosas <u>apuntan</u> a Él y a Su obra terminada.
 
 ## Preguntas de revisión
 
@@ -3556,135 +3556,135 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ## Introducción
 
-###  Si todo lo que tuviéramos de la Biblia fuera el Nuevo Testamento y no tuviéramos un registro escrito de estas historias del Antiguo Testamento, ¿Cuánto de los atributos y características de Dios podríamos llegar a conocer realmente? ¿Cuánto de cómo es realmente el corazón de Dios podríamos entender realmente? Creo que muy poco. Como ya hemos visto, Dios nos ha dado relatos maravillosos que revelan todos sus atributos y lo que sucede cuando desata su poder. Debe haber sido absolutamente asombroso ver cómo se abría el Mar Rojo, presenciar cómo el agua brotaba de la roca que Moisés golpeó y ver el Monte Sinaí temblar violentamente en la presencia de Dios. Dios hizo que estos relatos fueran registrados y preservados, para que hoy, nosotros, la Iglesia, pudiéramos crecer en el conocimiento de Él y, por lo tanto, poder confiar y depender de Él.
+###  Si todo lo que tuviéramos de la Biblia fuera el Nuevo Testamento y no tuviéramos un registro escrito de estas historias del Antiguo Testamento, ¿Cuánto de los atributos y características de Dios podríamos llegar a conocer realmente? ¿Cuánto de cómo es realmente el corazón de Dios podríamos entender realmente? Creo que muy poco. Como ya hemos visto, Dios nos ha dado relatos maravillosos que <u>revelan</u> todos sus atributos y lo que sucede cuando desata su poder. Debe haber sido absolutamente asombroso ver cómo se abría el Mar Rojo, presenciar cómo el agua brotaba de la roca que Moisés golpeó y ver el Monte Sinaí temblar violentamente en la presencia de Dios. Dios hizo que estos relatos fueran registrados y preservados, para que hoy, nosotros, la Iglesia, pudiéramos crecer en el conocimiento de Él y, por lo tanto, poder confiar y depender de Él.
 
 ## El Señor llevó a los israelitas a la frontera de Canaán (Éxodo 40:35-38)
 
-### Después de que el Señor dio Sus leyes en el Monte Sinaí y después de que se construyó el tabernáculo y Dios vino a vivir entre los israelitas, era hora de que fueran llevados a la tierra que Dios había prometido a sus antepasados. Esta generación de israelitas nunca antes había visto la tierra de Canaán, ni conocían el camino.
+### Después de que el Señor dio Sus leyes en el Monte Sinaí y después de que se construyó el tabernáculo y Dios vino a <u>vivir</u> entre los israelitas, era hora de que fueran llevados a la tierra que Dios había prometido a sus antepasados. Esta generación de israelitas nunca antes había visto la tierra de Canaán, ni conocían el camino.
 
-### Por lo tanto, Dios los guio por medio de la nube a lo largo de su viaje. Me encanta la forma en que Dios termina el versículo 38 con la frase: a lo largo de TODOS sus viajes. Es conocer el resto de la historia lo que le da a esa frase su significado. Como veremos, Israel duda y no cree continuamente en Dios, pero Él permanece fiel y nunca los abandona ni deja de guiarlos a lo largo de sus viajes. Esto realmente revela el amor, la gracia y la paciencia de Dios.
+### Por lo tanto, Dios los guio por medio de la nube a lo largo de su viaje. Me <u>encanta</u> la forma en que Dios termina el versículo 38 con la frase: a lo largo de TODOS sus viajes. Es conocer el resto de la historia lo que le da a esa frase su significado. Como veremos, Israel duda y no cree continuamente en Dios, pero Él permanece fiel y nunca los abandona ni deja de guiarlos a lo largo de sus viajes. Esto realmente revela el amor, la gracia y la paciencia de Dios.
 
-### Dios los guio de tal manera que pudieran tener plena confianza en que Él realmente los estaba guiando. Tenían una columna de nube de día y fuego de noche. Cuando se detuviera, debían acampar. Cuando se moviera, debían seguirlo. No podría haber sido más claro y obvio que eso. Desde el momento en que Dios sacó a Israel de Egipto hasta este punto en Éxodo 40, hemos visto a los israelitas dudar de Dios más de lo que confiaban en Él, y sin embargo, seguimos viendo a Dios, guiándolos con gracia y amor. ¿Por qué?
+### Dios los guio de tal manera que pudieran tener <u>plena</u> confianza en que Él realmente los estaba guiando. Tenían una columna de nube de día y fuego de noche. Cuando se detuviera, debían acampar. Cuando se moviera, debían seguirlo. No podría haber sido más claro y obvio que eso. Desde el momento en que Dios sacó a Israel de Egipto hasta este punto en Éxodo 40, hemos visto a los israelitas dudar de Dios más de lo que confiaban en Él, y sin embargo, seguimos viendo a Dios, guiándolos con gracia y amor. ¿Por qué?
 
-### En primer lugar, ¡Dios es OMNISCIENTE! Ninguna de las acciones o respuestas del hombre lo toma por sorpresa. Es por eso que estableció su propósito y gracia por medio de Cristo antes de que comenzara el tiempo. ¡Él es OMNISCIENTE!
+### En primer lugar, ¡Dios es OMNISCIENTE! Ninguna de las <u>acciones</u> o respuestas del hombre lo toma por sorpresa. Es por eso que estableció su propósito y gracia por medio de Cristo antes de que comenzara el tiempo. ¡Él es OMNISCIENTE!
 
-### En segundo lugar, Todo pensamiento e intención del corazón del hombre es solo malo desde la infancia. (Génesis 8:21)
+### En segundo lugar, Todo pensamiento e <u>intención</u> del corazón del hombre es solo malo desde la infancia. (Génesis 8:21)
 
-### Por último, ¡Dios es fiel por lo que es y no por lo que hacemos! Este es un concepto muy importante que debemos entender.
+### Por último, ¡Dios es fiel por lo que es y no por lo que hacemos! Este es un concepto muy importante que <u>debemos</u> entender.
 
 # LA NECESIDAD DEL SALVADOR
 
 ## El libro de Levítico
 
-### Suele considerarse un conjunto de leyes y rituales, pero en realidad es una poderosa continuación de la historia de la descendencia prometida. Explica por qué se necesita esa descendencia, qué clase de descendencia debe ser y cómo Dios protege al pueblo del que provendrá.
+### Suele considerarse un conjunto de leyes y rituales, pero en <u>realidad</u> es una poderosa continuación de la historia de la descendencia prometida. Explica por qué se necesita esa descendencia, qué clase de descendencia debe ser y cómo Dios protege al pueblo del que provendrá.
 
 ### Levítico explica por qué debe venir la descendencia prometida
 
-#### Génesis 3:15 anuncia una guerra entre la serpiente y la descendencia, basada en el pecado y la muerte.
+#### Génesis 3:15 anuncia una guerra entre la serpiente y la descendencia, <u>basada</u> en el pecado y la muerte.
 
 #### Levítico lo deja meridianamente claro:
 
-##### Dios es santo.
+##### Dios es <u>santo</u>.
 
-##### Los seres humanos son pecadores.
+##### Los seres <u>humanos</u> son pecadores.
 
-##### El pecado trae la muerte (Levítico 17:11).
+##### El pecado trae la <u>muerte</u> (Levítico 17:11).
 
-#### Todo el sistema de sacrificios dramatiza la realidad de que la humanidad no puede vencer a la serpiente por sí sola. El pueblo necesita un sustituto, un mediador y, en última instancia, un redentor.
+#### Todo el sistema de sacrificios dramatiza la realidad de que la humanidad no puede vencer a la serpiente por sí sola. El pueblo necesita un sustituto, un <u>mediador</u> y, en última instancia, un redentor.
 
-#### Esto prepara el terreno para la descendencia que se enfrentará al pecado definitivamente.
+#### Esto prepara el terreno para la descendencia que se enfrentará al <u>pecado</u> definitivamente.
 
 ### El sistema sacrificial anticipa una descendencia herida pero victoriosa
 
-#### Génesis 3:15 dice: La serpiente herirá el talón de la descendencia.
+#### Génesis 3:15 dice: La serpiente herirá el <u>talón</u> de la descendencia.
 
-#### La descendencia aplastará la cabeza de la serpiente.
+#### La descendencia aplastará la <u>cabeza</u> de la serpiente.
 
-#### Levítico proporciona el marco teológico para esta «descendencia herida»:
+#### Levítico proporciona una <u>imagen</u> de la persona y obra de esta «descendencia herida»:
 
 #### Todo sacrificio enseña:
 
-#### Se debe entregar una vida para vencer el pecado y su maldición.
+#### Se debe entregar una vida para <u>vencer</u> el pecado y su maldición.
 
-#### Se debe derramar sangre inocente (Levítico 1-7).
+#### Se debe derramar sangre <u>inocente</u> (Levítico 1-7).
 
-#### Un sustituto asume la pena.
+#### Un sustituto asume la <u>pena</u>.
 
-#### Esto anticipa el momento en que la descendencia prometida será herida (muerte sacrificial), pero victoriosa (aplastando la muerte y el mal).
+#### Esto anticipa el momento en que la descendencia prometida será <u>herida</u> (muerte sacrificial), pero victoriosa (aplastando la muerte y el mal).
 
 ### El Sumo Sacerdote prefigura a la Descendencia que vence a la serpiente
 
 #### Para vencer a la serpiente, la descendencia debe:
 
-#### Presentarse ante Dios
+##### Presentarse <u>ante</u> Dios
 
-#### Representar al pueblo
+##### Representar al <u>pueblo</u>
 
-#### Expiar lo indebido
+##### Expiar lo <u>indebido</u>
 
-#### Reconciliar a la humanidad con Dios
+##### Reconciliar a la <u>humanidad</u> con Dios
 
 #### Levítico muestra que ningún sacerdote común puede lograrlo, porque:
 
-#### Los pecados de Aarón (Levítico 10)
+##### Los <u>pecados</u> de Aarón (Levítico 10)
 
-#### Sus hijos fracasaron
+##### Sus <u>hijos</u> fracasaron
 
-#### Todo sacerdote muere
+##### Todo sacerdote <u>muere</u>
 
-#### Por lo tanto, Levítico señala a un Sumo Sacerdote superior —la verdadera descendencia— que puede restaurar lo que Adán perdió.
+#### Por lo tanto, Levítico <u>señala</u> a un Sumo Sacerdote superior —la verdadera descendencia— que puede restaurar lo que Adán perdió.
 
 ### El Día de la Expiación (Levítico 16) prefigura la obra de la descendencia
 
-#### El Día de la Expiación es el capítulo central del libro y una de las referencias más claras a Génesis 3:15.
+#### El Día de la Expiación es el capítulo central del libro y una de las referencias más <u>claras</u> a Génesis 3:15.
 
-#### El pecado y la impureza se colocan simbólicamente sobre un macho cabrío.
+#### El pecado y la impureza se colocan simbólicamente sobre un <u>macho</u> cabrío.
 
-#### El macho cabrío es llevado al desierto (el dominio de la serpiente).
+#### El macho <u>cabrío</u> es llevado al desierto (el dominio de la serpiente).
 
-#### El pueblo es purificado.
+#### El <u>pueblo</u> es purificado.
 
-#### La presencia de Dios permanece entre ellos.
+#### La <u>presencia</u> de Dios permanece entre ellos.
 
 #### Esto representa un momento futuro en el que la descendencia:
 
-##### Cargará con los pecados del pueblo.
+##### Cargará con los <u>pecados</u> del pueblo.
 
-##### Los borrará para siempre.
+##### Los borrará para <u>siempre</u>.
 
-##### Restaurará el acceso a Dios.
+##### Restaurará el <u>acceso</u> a Dios.
 
-##### Derrotará el territorio de la serpiente.
+##### Derrotará el <u>territorio</u> de la serpiente.
 
 ### Levítico muestra cómo Dios preserva el linaje.
 
-#### En Génesis 3:15 y Génesis 12:3, la promesa depende de la supervivencia del pueblo elegido.
+#### En Génesis 3:15 y Génesis 12:3, la promesa <u>depende</u> de la supervivencia del pueblo elegido.
 
 #### Levítico los protege mediante:
 
-##### Leyes alimentarias.
+##### Leyes <u>alimentarias</u>.
 
-##### Leyes de pureza.
+##### Leyes de <u>pureza</u>.
 
-##### Leyes sexuales.
+##### Leyes <u>sexuales</u>.
 
-##### Mandamientos de santidad.
+##### Mandamientos de <u>santidad</u>.
 
-#### Estos separan a Israel de las naciones que se asemejan a la serpiente y mantienen vivo el linaje hasta la venida del Mesías.
+#### Estos separan a Israel de las naciones que se <u>asemejan</u> a la serpiente y mantienen vivo el linaje hasta la venida del Mesías.
 
-#### Levítico es Dios defendiendo a la descendencia prometida.
+#### Levítico es Dios defendiendo a la descendencia <u>prometida</u>.
 
 ### La presencia de Dios con su pueblo revierte la pérdida del Edén
 
-#### Génesis 3 introdujo la separación a causa del pecado.
+#### Génesis 3 introdujo la <u>separación</u> a causa del pecado.
 
-#### Levítico concluye con Dios habitando en el tabernáculo entre su pueblo (Lev. 26:11–12).
+#### Levítico concluye con Dios habitando en el tabernáculo <u>entre</u> su pueblo (Lev. 26:11–12).
 
-#### Esto representa una reversión parcial de la victoria de la serpiente en el Edén y una señal de que la descendencia prometida restaurará la plena comunión.
+#### Esto representa una reversión <u>parcial</u> de la victoria de la serpiente en el Edén y una señal de que la descendencia prometida restaurará la plena comunión.
 
 ### Resumen en una frase
 
-#### Levítico remite a Génesis 3:15 al mostrar la necesidad de la descendencia prometida mediante el sacrificio y la santidad, prefigurando su obra, herida pero victoriosa, a través del sacerdocio y la expiación, y protegiendo al pueblo a través del cual vendrá la descendencia.
+#### Levítico remite a Génesis 3:15 al mostrar la necesidad de la descendencia prometida mediante el sacrificio y la santidad, prefigurando su obra, herida pero victoriosa, a través del sacerdocio y la expiación, y protegiendo al pueblo a través del cual <u>vendrá</u> la descendencia.
 
 ## NUMEROS
 
@@ -3692,83 +3692,83 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 #### Génesis 3:15 predice:
 
-#### Enemistad
+##### Enemistad
 
-#### Conflicto continuo
+##### Conflicto continuo
 
-#### Intentos de destruir la descendencia
+##### Intentos de <u>destruir</u> la descendencia
 
-#### Números está repleto de este patrón. Casi cada evento importante es un ataque, como el de una serpiente, contra el pueblo de la promesa:
+##### Números está repleto de este <u>patrón</u>. Casi cada evento importante es un ataque, como el de una serpiente, contra el pueblo de la promesa:
 
-#### Quejas e incredulidad (Números 11-14)
+##### <u>Quejas</u> e incredulidad (Números 11-14)
 
-#### Rebelión contra Moisés y Aarón (Números 16)
+##### Rebelión contra Moisés y <u>Aarón</u> (Números 16)
 
-#### Seducción sexual por parte de Moab (Números 25)
+##### Seducción sexual por <u>parte</u> de Moab (Números 25)
 
-#### Falsa profecía de Balaam (Números 22-24)
+##### Falsa <u>profecía</u> de Balaam (Números 22-24)
 
-#### Estos no son eventos aleatorios; son la serpiente atacando la descendencia, buscando destruir a Israel antes de la venida del Mesías.
+##### Estos no son eventos aleatorios; son la serpiente <u>atacando</u> la descendencia, buscando destruir a Israel antes de la venida del Mesías.
 
 ### La narración de la serpiente de bronce (Números 21) se conecta directamente con Génesis 3:1
 
-#### Esta es la conexión más clara en todo el libro.
+#### Esta es la conexión más <u>clara</u> en todo el libro.
 
-#### Israel es atacado por serpientes (neḥashim), un eco del enemigo del Edén.
+#### Israel es <u>atacado</u> por serpientes (neḥashim), un eco del enemigo del Edén.
 
-#### El pueblo muere... hasta que Dios provee una solución paradójica:
+#### El pueblo muere...hasta que Dios provee una solución paradójica:
 
-#### Una serpiente de bronce es levantada.
+#### Una serpiente de <u>bronce</u> es levantada.
 
-#### Quienes alzan la mirada con fe viven.
+#### Quienes alzan la <u>mirada</u> con fe viven.
 
-#### El veneno de la serpiente es vencido.
+#### El <u>veneno</u> de la serpiente es vencido.
 
-#### Esta es una profecía evangélica en miniatura, donde:
+#### Esta es una profecía evangélica en <u>miniatura</u>, donde:
 
 #### La serpiente ataca.
 
-#### La descendencia es exaltada (prefigurando a Cristo).
+#### La descendencia es <u>exaltada</u> (prefigurando a Cristo).
 
-#### El poder de la serpiente es anulado por la provisión de Dios.
+#### El poder de la serpiente es <u>anulado</u> por la provisión de Dios.
 
-#### Jesús mismo interpreta esto como una referencia a la cruz (Juan 3:14-15).
+#### Jesús mismo interpreta esto como una referencia a la <u>cruz</u> (Juan 3:14-15).
 
-#### Así, Números 21 es una continuación directa de Génesis 3:15.
+#### Así, Números 21 es una continuación <u>directa</u> de Génesis 3:15.
 
 ### Números protege a la descendencia preservando a Israel en el desierto.
 
-#### Para cumplir Génesis 3:15 y Génesis 12:3, el pueblo elegido debe sobrevivir.
+#### Para cumplir Génesis 3:15 y Génesis 12:3, el pueblo <u>elegido</u> debe sobrevivir.
 
-#### Pero en Números, Israel está constantemente en peligro:
+#### Pero en Números, Israel está constantemente en <u>peligro</u>:
 
-#### Por falta de comida y agua
+##### Por falta de <u>comida</u> y agua.
 
-#### Por enemigos
+##### Por <u>enemigos</u>.
 
-#### Por rebeliones internas
+##### Por rebeliones <u>internas</u>.
 
-#### Por el juicio divino
+##### Por el juicio <u>divino</u>.
 
-#### Sin embargo, no perecen.
+#### Sin embargo, no <u>perecen</u>.
 
-#### Dios protege a la nación porque a través de ellos debe venir la descendencia.
+#### Dios protege a la nación porque a través de ellos debe <u>venir</u> la descendencia.
 
-#### A pesar de las rebeliones y las muertes, el libro termina con:
+#### A pesar de las rebeliones y las <u>muertes</u>, el libro termina con:
 
-#### Una nueva generación, purificada
+##### Una nueva <u>generación</u>.
 
-#### Lista para entrar en la tierra
+##### Lista para <u>entrar</u> en la tierra.
 
-#### Con la promesa intacta
+##### Con la promesa <u>intacta</u>.
 
-#### La serpiente no puede aniquilarlos.
+##### La serpiente no <u>puede</u> aniquilarlos.
 
-### Números revela la estrategia de la serpiente: Seducción en lugar de ataque
+### Números revela la estrategia de la serpiente: Seducción en lugar de ataque.
 
-#### En Génesis 3, la serpiente usa el engaño.
+#### En Génesis 3, la <u>serpiente</u> usa el engaño.
 
-#### En Números 25, Balaam no puede maldecir a Israel, así que aconseja la seducción, usando a mujeres moabitas para inducir a Israel a la idolatría.
+#### En Números 25, Balaam no puede maldecir a Israel, así que <u>aconseja</u> la seducción, usando a mujeres moabitas para inducir a Israel a la idolatría.
 
 #### Esto es una repetición del Edén:
 
@@ -3778,225 +3778,199 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ##### Juicio
 
-#### Pero Dios preserva el linaje juzgando a los corruptos y salvando a los fieles.
+#### Pero Dios preserva el linaje juzgando a los corruptos y <u>salvando</u> a los fieles.
 
-#### El enemigo ataca, pero no puede destruir al pueblo prometido.
-
-### El liderazgo de Moisés apunta a la descendencia final
-
-#### Moisés en Números:
-
-#### Intercede por el pueblo
-
-#### Los guía a la victoria
-
-#### Se interpone entre la vida y la muerte
-
-#### Levanta la serpiente de bronce
-
-#### Derrota a enemigos con forma de serpiente
-
-#### Pero Moisés también fracasa (Núm. 20), demostrando que no puede ser quien venza a la serpiente.
-
-#### Números crea expectación:
-
-#### Un líder mayor que Moisés
-
-#### Un rey mayor que Balac
-
-#### Un profeta mayor que Balaam (Núm. 24:17)
-
-#### Lo cual nos lleva a…
+#### El enemigo ataca, pero no puede <u>destruir</u> al pueblo prometido.
 
 ### La profecía de la estrella de Balaam (Núm. 24:17) se hace eco de Génesis 3:15
 
-#### Este es el punto culminante mesiánico de Números:
+#### Este es el punto culminante <u>mesiánico</u> de Números:
 
-#### «Una estrella saldrá de Jacob;
+#### «Una <u>estrella</u> saldrá de Jacob;
 
-#### Una serpiente saldrá de Israel;
+#### Una serpiente saldrá de <u>Israel</u>;
 
-#### Aplastará la frente de Moab…»
+#### Aplastará la <u>frente</u> de Moab…»
 
-#### Aplastar la frente.
+#### Aplastar la <u>frente</u>.
 
-#### El mismo verbo e imágenes que en Génesis 3:1
+#### El mismo <u>verbo</u> e imágenes que en Génesis 3:1
 
 #### Esta profecía identifica:
 
-#### La descendencia será un rey de Jacob quien aplastará a los enemigos de Dios, tal como se prometió en el Edén
+#### La descendencia será un rey de Jacob quien aplastará a los <u>enemigos</u> de Dios, tal como se prometió en el Edén
 
-#### Este es el eco más claro de Génesis 3:15 en toda la Torá después del Génesis.
+#### Este es el eco más claro de Génesis 3:15 en toda la Torá <u>después</u> del Génesis.
 
 ### Resumen en una frase
 
-#### Números remite a Génesis 3:15 al mostrar el conflicto continuo entre la serpiente y la descendencia, al describir ataques similares a los de serpientes contra Israel, al prefigurar la descendencia herida pero victoriosa a través de la serpiente de bronce y al anunciar un futuro rey que aplastará a los enemigos de Dios.
+#### Números remite a Génesis 3:15 al mostrar el conflicto continuo entre la <u>serpiente</u> y la descendencia, al describir ataques similares a los de serpientes contra Israel, al prefigurar la descendencia herida pero victoriosa a través de la serpiente de bronce y al anunciar un futuro rey que aplastará a los enemigos de Dios.
 
-### A continuación, queremos señalar que habían pasado de 400 a 500 años desde el momento en que Dios había prometido por primera vez la tierra de Canaán a Abraham y sus descendientes hasta este momento en que los israelitas se acercaban a su frontera. Una vez más, este evento nos revela la gracia, el amor y la misericordia de Dios, Y Su santa y justa justicia que exige que castigue todo pecado.
+### A continuación, queremos señalar que habían pasado de 400 a 500 años desde el <u>momento</u> en que Dios había prometido por primera vez la tierra de Canaán a Abraham y sus descendientes hasta este momento en que los israelitas se acercaban a su frontera. Una vez más, este evento nos revela la gracia, el amor y la misericordia de Dios, Y Su santa y justa justicia que exige que castigue todo pecado.
 
-### Antes de que Dios eligiera a Abraham y milagrosamente le diera descendencia, la nación de Israel ni siquiera existía. Dios los trajo intencionalmente a la existencia para Su propio propósito y uso. La elección de Dios de ellos se basó en Su propia soberana voluntad y no en que Israel hiciera algo para ganarla o merecerla. La elección de Israel por parte de Dios y la forma en que Él los ha amado, protegido, provisto y bendecido con gracia y fidelidad, manifiesta muy claramente Su misericordia y gracia.
+### Antes de que Dios eligiera a Abraham y milagrosamente le diera descendencia, la <u>nación</u> de Israel ni siquiera existía. Dios los trajo intencionalmente a la existencia para Su propio propósito y uso. La elección de Dios de ellos se basó en Su propia soberana voluntad y no en que Israel hiciera algo para ganarla o merecerla. La elección de Israel por parte de Dios y la forma en que Él los ha amado, protegido, provisto y bendecido con gracia y fidelidad, manifiesta muy claramente Su misericordia y gracia.
 
-### Desde el punto de vista de los cananeos, entonces, vemos el otro lado. Vemos la justicia santa y justa de Dios que exige castigo por el pecado. Sin embargo, junto con la justicia, la gracia de Dios siempre se ofrece y se revela. Vemos esto en la declaración de Dios cuando Dios hizo por primera vez la promesa de la tierra de Canaán a Abraham en Génesis 15:16, donde declaró que la iniquidad de los amorreos aún no ha sido completa.
+### Desde el punto de vista de los cananeos, entonces, vemos el otro lado. Vemos la justicia <u>santa</u> y justa de Dios que exige castigo por el pecado. Sin embargo, junto con la justicia, la gracia de Dios siempre se ofrece y se revela. Vemos esto en la declaración de Dios cuando Dios hizo por primera vez la promesa de la tierra de Canaán a Abraham en Génesis 15:16, donde declaró que la iniquidad de los amorreos aún no ha sido completa.
 
-### Dios es absolutamente Santo y nunca actuará injustamente, ¡incluso hacia aquellos que lo rechazan! Aunque los amorreos ya eran extremadamente malvados y pecadores en el momento en que Dios le hizo esta promesa a Abraham, debido a la paciencia sufrida de Dios y al deseo de que todos se arrepintieran, la pecaminosidad de los amorreos aún no había llegado a ese punto en el que Dios estaba listo para llevar a cabo su castigo Israel.
+### Dios es absolutamente Santo y nunca actuará injustamente, ¡incluso hacia aquellos que lo rechazan! Aunque los amorreos ya eran extremadamente malvados y pecadores en el momento en que Dios le hizo esta promesa a Abraham, debido a la paciencia sufrida de Dios y al deseo de que <u>todos</u> se arrepintieran, la pecaminosidad de los amorreos aún no había llegado a ese punto en el que Dios estaba listo para llevar a cabo su castigo Israel.
 
 ### Lea 2 Pedro 3:9.
 
 ## El Señor le dijo a Moisés que enviara espías a la tierra (Números 13:1-3, 17-33)
 
-### Este relato proporciona una gran imagen física de cómo la fe en Dios o la falta de ella puede afectarnos en como percibimos las circunstancia y andamos en esta vida. ¡La información que los diez espías dieron a la gente era absolutamente cierta! Había gigantes allí y sus ciudades estaban bien fortificadas. ¡PERO ELLOS TENÍAN A JEHOVA, EL YO SOY!
+### Este relato proporciona una gran imagen física de cómo la fe en Dios o la falta de ella puede afectarnos en como percibimos las circunstancia y andamos en esta vida. ¡La información que los diez espías dieron a la gente era absolutamente cierta! Había <u>gigantes</u> allí y sus ciudades estaban bien fortificadas. ¡PERO ELLOS TENÍAN A JEHOVA, EL YO SOY!
 
-### Lamentablemente el pueblo había dejado a Dios y su promesa fuera de la ecuación. Estos hombres miraban sus problemas desde un punto de vista mundano (humano) y, desde ese punto de vista, tenían toda la razón. Israel en sí mismo nunca podría haber derrotado a estas ciudades cananeas, pero acababan de ver algunas manifestaciones bastante sorprendentes y sin precedentes del poder, la soberanía y la gracia y el amor de Dios:
+### Lamentablemente el pueblo había dejado a Dios y su promesa fuera de la ecuación. Estos hombres miraban sus problemas desde un punto de vista mundano (humano) y, desde ese punto de vista, tenían toda la razón. Israel en sí mismo nunca podría haber <u>derrotado</u> a estas ciudades cananeas, pero acababan de ver algunas manifestaciones bastante sorprendentes y sin precedentes del poder, la soberanía y la gracia y el amor de Dios:
 
-#### Vieron todas las plagas en Egipto.
+#### Vieron todas las <u>plagas</u> en Egipto.
 
-#### Experimentaron la liberación de la esclavitud en Egipto.
+#### Experimentaron la liberación de la <u>esclavitud</u> en Egipto.
 
-#### Vieron a Dios dividir el Mar Rojo.
+#### Vieron a Dios <u>dividir</u> el Mar Rojo.
 
-#### Vieron a Dios proveer maná en el desierto.
+#### Vieron a Dios <u>proveer</u> maná en el desierto.
 
-#### Vieron a Dios proveer agua de una roca.
+#### Vieron a Dios proveer agua de una <u>roca</u>.
 
-#### Acababan de ver su gran despliegue de poder en el monte Sinaí.
+#### Acababan de ver su gran despliegue de <u>poder</u> en el monte Sinaí.
 
-### Entonces, estos diez espías y su incredulidad, ¿Era que no creían que Dios podía vencer a los cananeos, o que no creían que Él los vencería? Hay una diferencia. Como creyentes de hoy, a menudo caminamos en la misma incredulidad. A veces tiene que ver con las necesidades físicas y los deseos que tenemos en nuestras vidas. Más importante aún, a menudo tiene que ver con la verdad espiritual.
+### Entonces, estos diez espías y su incredulidad, ¿Era que no creían que Dios podía vencer a los cananeos, o que no creían que Él los vencería? Hay una diferencia. Como creyentes de hoy, a menudo caminamos en la misma incredulidad. A veces tiene que ver con las necesidades <u>físicas</u> y los deseos que tenemos en nuestras vidas. Más importante aún, a menudo tiene que ver con la verdad espiritual.
 
-### A lo largo del Nuevo Testamento hay algunas declaraciones y promesas realmente radicales y sorprendentes que Dios hace acerca de nosotros que Él dice que ya son verdaderas y que ya han tenido lugar.
+### A lo largo del Nuevo Testamento hay algunas declaraciones y promesas realmente <u>radicales</u> y sorprendentes que Dios hace acerca de nosotros que Él dice que ya son verdaderas y que ya han tenido lugar.
 
-#### Redimido
+#### Somos <u>redimidos</u>
 
-#### Perdonado
+#### <u>Somos</u> perdonados
 
-#### Hizo a sus hijos
+#### Nos hizo sus <u>hijos</u>.
 
-#### Aceptado en el amado
+#### <u>Aceptados</u> en el Amado.
 
-#### Completo en Él
+#### <u>Completos</u> en Él.
 
-#### Sentado con Él a la diestra de Dios
+#### Sentados con Él a la <u>diestra</u> de Dios.
 
-#### Revestidos de Su justicia
+#### Revestidos de Su <u>justicia</u>.
 
-#### Hizo una nueva creación 
+#### Nos hizo una nueva <u>creación</u>.
 
-#### Co-crucificado y co-resucitado
+#### Co-crucificado y <u>co-resucitado</u>.
 
 ### Luego también hay otras declaraciones y promesas que también tienen un aspecto futuro:
 
-#### Él nos está conformando a la imagen de Su Hijo.
+#### Él nos está conformando a la <u>imagen</u> de Su Hijo.
 
-#### Él completará en cada uno de nosotros lo que ha comenzado.
+#### Él completará en cada uno de <u>nosotros</u> lo que ha comenzado.
 
-#### Ha ido a prepararnos un lugar.
+#### Ha ido a <u>prepararnos</u> un lugar.
 
-#### Él usará todas las cosas juntas para bien en nuestras vidas.
+#### Él usará todas las cosas juntas para bien en <u>nuestras</u> vidas.
 
-#### Él nunca nos dejará ni nos abandonará.
+#### Él nunca nos <u>dejará</u> ni nos abandonará.
 
-### Y así, dependiendo de nuestra visión de Dios, o de la falta de ella, a menudo no creemos que Dios pueda hacer estas cosas o no creemos que Él hará estas cosas. Al igual que los diez espías, a veces pensamos que llevar a cabo estas cosas depende de nosotros y no de Dios, o podemos pensar que Su fidelidad para llevar a cabo estas cosas depende de nuestra fidelidad para obedecerle, servirle o complacerle de alguna manera.
+### Y así, dependiendo de nuestra visión de Dios, o de la falta de ella, a menudo no creemos que Dios pueda hacer estas cosas o no creemos que Él hará estas cosas. Al igual que los diez espías, a veces pensamos que llevar a cabo estas cosas depende de <u>nosotros</u> y no de Dios, o podemos pensar que Su fidelidad para llevar a cabo estas cosas depende de nuestra fidelidad para obedecerle, servirle o complacerle de alguna manera.
 
 ## Los israelitas estuvieron de acuerdo con los diez espías que dudaban de Dios (Números 14:1-10)
 
-### ¡Escuche esa respuesta! ¡Una respuesta que no necesitaba hacerse! Estrés, tristeza y enojo que no necesitaban experimentar, porque estaba totalmente fundada en la duda de Dios y Su bondad. Primero, no creían que Dios pudiera o les daría la tierra, a pesar de que Él lo había prometido. Acusaron a Dios de mentiroso (1 Juan 5:9-10). Luego, aquí en el versículo 3, dijeron: ¿Por qué el Señor nos ha traído a esta tierra para morir a espada y nuestras esposas e hijos son víctimas? ¡Su incredulidad había ido más allá de llamar mentiroso a Dios para acusarlo de malicia!
+### ¡Escuche esa respuesta! ¡Una respuesta que no necesitaba hacerse! Estrés, tristeza y enojo que no necesitaban experimentar, porque estaba totalmente fundada en la duda de Dios y Su bondad. Primero, no creían que Dios pudiera o les daría la tierra, a pesar de que Él lo había prometido. Acusaron a Dios de <u>mentiroso</u> (1 Juan 5:9-10). Luego, aquí en el versículo 3, dijeron: ¿Por qué el Señor nos ha traído a esta tierra para morir a espada y nuestras esposas e hijos son víctimas? ¡Su incredulidad había ido más allá de llamar mentiroso a Dios para acusarlo de malicia!
 
-### Amigos, hacemos exactamente lo mismo. Todo lo que tenemos que hacer es mirar hacia atrás unos pocos párrafos a algunas de las promesas que Él ha hecho acerca de nosotros como creyentes. ¿Está Dios obrando todas las cosas juntas para bien en tu vida?
+### Amigos, hacemos exactamente lo mismo. Todo lo que tenemos que hacer es mirar hacia atrás unos <u>pocos</u> párrafos a algunas de las promesas que Él ha hecho acerca de nosotros como creyentes. ¿Está Dios obrando todas las cosas juntas para bien en tu vida?
 
-### ¿Puedes decir sinceramente que crees de todo corazón en eso independientemente de las circunstancias que se te presenten? Decir eso es una cosa, pero vivirlo es otra. Si no podemos, entonces pensamos que Dios está mintiendo o dudamos de Su bondad.
+### ¿Puedes decir sinceramente que crees de todo corazón en eso independientemente de las circunstancias que se te presenten? Decir eso es una cosa, pero <u>vivirlo</u> es otra. Si no podemos, entonces pensamos que Dios está mintiendo o dudamos de Su bondad.
 
-### ¿Qué pasa con Su promesa de nunca dejarte ni desampararte? ¿Alguna vez has orado para que Dios esté contigo para cierto viaje o evento?
+### ¿Qué pasa con Su promesa de nunca dejarte ni desampararte? ¿Alguna vez has orado para que Dios esté <u>contigo</u> para cierto viaje o evento?
 
-### ¿Qué pasa cuando eres tentado por el pecado? Es fácil evitar ciertos pecados cuando sabemos que alguien nos atrapará, pero ¿importa que Dios lo vea? Si no, muestra la visión extremadamente pequeña que tenemos de Dios que proviene de la falta de conocerlo.
+### ¿Qué pasa cuando eres tentado por el pecado? Es fácil evitar ciertos <u>pecados</u> cuando sabemos que alguien nos atrapará, pero ¿importa que Dios lo vea? Si no, muestra la visión extremadamente pequeña que tenemos de Dios que proviene de la falta de conocerlo.
 
-### ¿Qué pasa cuando te sientes rechazado por otra persona? ¿Te anima el hecho de que Jesús promete estar siempre contigo? Quiero decir, ¿realmente te animó, hasta el punto de que ser rechazado por la gente no importa?
+### ¿Qué pasa cuando te sientes rechazado por otra persona? ¿Te anima el hecho de que Jesús <u>promete</u> estar siempre contigo? Quiero decir, ¿realmente te animó, hasta el punto de que ser rechazado por la gente no importa?
 
-### ¿Qué pasa con las promesas de Dios con respecto a quiénes somos y qué se nos ha dado en Cristo? ¿Crees que realmente eres quien ÉL dice que eres? ¿Que realmente se te ha dado lo que Él dice que se te ha dado? ¿Que realmente estás colocado donde ÉL dice que has sido colocado? ¿O tu visión de ti mismo está más determinada por cómo estás viviendo y si sientes que eres fiel o no?
+### ¿Qué pasa con las promesas de Dios con respecto a quiénes somos y qué se nos ha dado en Cristo? ¿Crees que realmente eres quien ÉL dice que eres? ¿Que realmente se te ha dado lo que Él dice que se te ha dado? ¿Que realmente estás <u>colocado</u> donde ÉL dice que has sido colocado? ¿O tu visión de ti mismo está más determinada por cómo estás viviendo y si sientes que eres fiel o no?
 
-### El versículo 10 termina con los israelitas amenazando con apedrear a Caleb y Josué por sugerir que confíen en Dios, y luego Dios interviene divinamente por Su gloria, iluminando el tabernáculo.
+### El versículo 10 termina con los israelitas amenazando con <u>apedrear</u> a Caleb y Josué por sugerir que confíen en Dios, y luego Dios interviene divinamente por Su gloria, iluminando el tabernáculo.
 
 #### Lea Números 14:11-25.
 
-### La tentación es ver esto como que Dios decide aniquilar a los israelitas; pero a través de la intervención de Moisés, Dios cambió de opinión. Casi parece como si Dios hubiera arruinado su calma y Moisés pudiera señalarlo al panorama general y calmarlo, pero ¿quién es Dios aquí, Dios o Moisés? Tenemos que tener en cuenta todo lo que ya sabemos que es verdad acerca de Dios:
+### La tentación es ver esto como que Dios decide <u>aniquilar</u> a los israelitas; pero a través de la intervención de Moisés, Dios cambió de opinión. Casi parece como si Dios hubiera arruinado su calma y Moisés pudiera señalarlo al panorama general y calmarlo, pero ¿quién es Dios aquí, Dios o Moisés? Tenemos que tener en cuenta todo lo que ya sabemos que es verdad acerca de Dios:
 
 #### Él es omnisciente.
 
-#### Él es soberano y supremo.
+#### Él es soberano y <u>supremo</u>.
 
-#### Él es santo y justo y también es misericordioso y clemente.
+#### Él es santo y <u>justo</u> y también es misericordioso y clemente.
 
-#### Es amable y amoroso y al mismo tiempo odia el pecado y la maldad.
+#### Es amable y amoroso y al mismo tiempo <u>odia</u> el pecado y la maldad.
 
-#### También sabemos que Dios desea una relación profunda e íntima con su pueblo y esto solo puede tener lugar a medida que su pueblo crece en el conocimiento de Él.
+#### También sabemos que Dios desea una relación profunda e <u>íntima</u> con su pueblo y esto solo puede tener lugar a medida que su pueblo crece en el conocimiento de Él.
 
-### De eso se trataba este intercambio con Moisés. Se trataba de que Dios se revelara cada vez más a su pueblo. La única forma en que Dios podía revelar verdaderamente su gracia, misericordia y fidelidad sufrida a su pueblo (y al mundo), era a través de este tipo de interacción con un pueblo extremadamente terco y de dura cerviz.
+### De eso se trataba este intercambio con Moisés. Se trataba de que Dios se revelara cada vez más a su pueblo. La única forma en que Dios podía revelar verdaderamente su gracia, misericordia y fidelidad sufrida a su pueblo (y al mundo), era a través de este tipo de interacción con un <u>pueblo</u> extremadamente terco y de dura cerviz.
 
-### Piénsalo: Si Dios hubiera hecho sus promesas e Israel las hubiera creído y obedecido al instante, entonces Dios los habría bendecido como había prometido. ¿Qué aprenderíamos de eso? La fidelidad de Dios para bendecir y cumplir sus promesas se basa en la fidelidad de su pueblo. No habría ninguna manifestación de Su gracia y misericordia en eso. Pero cuando Él se revela fiel y continuamente una y otra vez en la vida de estas personas, y continúan dudando de Su bondad y dudan de Él (hasta el extremo de dudar y rechazarlo), y luego Él se da la vuelta y retiene lo que merecen, ¡esa es la manifestación más clara de Su misericordia! En realidad, cuanto más extremas son las personas en dudar y no creer en Dios, ¡Su perdón revela su gracia y su misericordia aún más!
+### Piénsalo: Si Dios hubiera hecho sus promesas e Israel las hubiera creído y obedecido al instante, entonces Dios los habría bendecido como había prometido. ¿Qué aprenderíamos de eso? La fidelidad de Dios para bendecir y cumplir sus promesas se basa en la fidelidad de su pueblo. No habría <u>ninguna</u> manifestación de Su gracia y misericordia en eso. Pero cuando Él se revela fiel y continuamente una y otra vez en la vida de estas personas, y continúan dudando de Su bondad y dudan de Él (hasta el extremo de dudar y rechazarlo), y luego Él se da la vuelta y retiene lo que merecen, ¡esa es la manifestación más clara de Su misericordia! En realidad, cuanto más extremas son las personas en dudar y no creer en Dios, ¡Su perdón revela su gracia y su misericordia aún más!
 
 ## Dios castigó a los israelitas por su incredulidad (Números 14:26-45)
 
-### Aquí hay otro ejemplo de Dios usando un incidente para revelar su gracia, misericordia, amor y perdón, así como su santidad y justo juicio del pecado. Por un lado, perdonó su pecado y no los aniquiló, pero, por otro lado, ya no se les permitió entrar en la Tierra Prometida.
+### Aquí hay otro ejemplo de Dios usando un incidente para revelar Su gracia, misericordia, amor y perdón, así como Su <u>santidad</u> y justo juicio del pecado. Por un lado, perdonó su pecado y no los aniquiló, pero, por otro lado, ya no se les permitió entrar en la Tierra Prometida.
 
-### Lo principal a lo que queremos llevar nuestra atención en esto es que, qué fue lo que realmente llevó a Dios a decir: Está bien, ahora vas a recibir castigo por esto. No fue tanto como merecían, pero sin embargo fue un castigo. ¡Era Israel rechazando la bondad y la gracia de Dios a través de la incredulidad! Notarás que había una mayor responsabilidad sobre aquellos a quienes Dios les había dado mayor revelación. Véanse los versículos 36-38.
+### Lo principal a lo que queremos llevar nuestra atención en esto es que, qué fue lo que realmente llevó a Dios a decir: Está bien, ahora vas a recibir castigo por esto. No fue tanto como merecían, pero sin embargo fue un castigo. ¡Era Israel rechazando la bondad y la gracia de Dios a través de la incredulidad! Notarás que había una <u>mayor</u> responsabilidad sobre aquellos a quienes Dios les había dado mayor revelación. Véanse los versículos 36-38.
 
-### La creencia era el verdadero problema, porque la gente trató de deshacer su pecado siguiendo adelante y creyendo en Dios, pero esto fue motivado por el deseo de evitar el castigo y no por creer en Dios. Su acción entonces (que podría haber parecido una creencia), porque fue automotivada, fue desagradable para Dios y solo empeoró su situación.
+### La creencia era el verdadero problema, porque la gente trató de deshacer su pecado siguiendo adelante y creyendo en Dios, pero esto fue motivado por el <u>deseo</u> de evitar el castigo y no por creer en Dios. Su acción entonces (que podría haber parecido una creencia), porque fue automotivada, fue desagradable para Dios y solo empeoró su situación.
 
-### Antes de este relato, diariamente, ¿Cuántos pecados se supone que se está cometiendo en la vida de los israelitas? Supongo que muchos, al igual que en nuestras propias vidas todos los días, es decir, malas actitudes, ira, lujuria, chismes, orgullo, etc.
+### Antes de este relato, diariamente, ¿Cuántos pecados se supone que se está cometiendo en la vida de los israelitas? Supongo que muchos, al igual que en nuestras <u>propias</u> vidas todos los días, es decir, malas actitudes, ira, lujuria, chismes, orgullo, etc.
 
-### ¿Recuerdas Génesis 8:21? Esto seguía siendo cierto para ellos, por lo tanto, no eran sus pecados cotidianos los que los llevaban a ser juzgados y castigados, sino lo que hacían con la revelación específica de Dios de sí mismo en sus vidas. Era el hecho de que estaban viendo a Dios como exactamente lo opuesto a cómo se había revelado tan claramente una y otra vez para ellos.
+### ¿Recuerdas Génesis 8:21? Esto seguía siendo cierto para ellos, por lo tanto, no eran sus <u>pecados</u> cotidianos los que los llevaban a ser juzgados y castigados, sino lo que hacían con la revelación específica de Dios de sí mismo en sus vidas. Era el hecho de que estaban viendo a Dios como exactamente lo opuesto a cómo se había revelado tan claramente una y otra vez para ellos.
 
-### Todo pensamiento e intención de sus corazones fue solo malo desde la infancia; por lo tanto, no tenían la capacidad de dejar de pecar diariamente. Sin embargo, debido a que Dios los había creado (a todos los humanos) a Su imagen con mente, voluntad y emociones, toda la humanidad tiene la capacidad de ver la revelación de Dios de sí mismo, aprender sobre Él y Su grandeza, y creer que Él es todo lo que se ha revelado que es. Es el rechazo de esa revelación por la cual Dios responsabiliza al hombre (Romanos 1).
+### Todo pensamiento e intención de sus corazones fue solo malo desde la infancia; por lo tanto, no tenían la capacidad de dejar de pecar diariamente. Sin embargo, debido a que Dios los había creado (a todos los humanos) a Su imagen con mente, <u>voluntad</u> y emociones, toda la humanidad tiene la capacidad de ver la revelación de Dios de sí mismo, aprender sobre Él y Su grandeza, y creer que Él es todo lo que se ha revelado que es. Es el rechazo de esa revelación por la cual Dios responsabiliza al hombre (Romanos 1).
 
 ## Israel se queja porque están sin agua otra vez (Números 20:1-6)
 
-### ¡Esto es absolutamente increíble! Después de experimentar lo que acababan de pasar, se dan la vuelta y continúan dudando de la bondad y la gracia de Dios:
+### ¡Esto es absolutamente increíble! Después de experimentar lo que acababan de pasar, se dan la vuelta y continúan <u>dudando</u> de la bondad y la gracia de Dios:
 
-#### Si tan solo hubiéramos muerto cuando nuestros hermanos (los diez espías) habían muerto.
+#### Si tan solo hubiéramos muerto cuando <u>nuestros</u> hermanos (los diez espías) habían muerto.
 
-#### ¿Por qué nos has traído a este desierto para que nosotros y nuestros animales muramos aquí?
+#### ¿Por qué nos has traído a este <u>desierto</u> para que nosotros y nuestros animales muramos aquí?
 
-#### ¿Por qué nos has sacado de Egipto (donde eran esclavos) a este lugar malvado?
+#### ¿Por qué nos has <u>sacado</u> de Egipto (donde eran esclavos) a este lugar malvado?
 
-#### Este no es un lugar de granos, higos, vides o granadas, ni hay agua aquí.
+#### Este no es un lugar de granos, <u>higos</u>, vides o granadas, ni hay agua aquí.
 
-### Este pasaje realmente revela el corazón de la humanidad y la increíble paciencia y longanimidad de la gracia y la misericordia de Dios. ¡Fue la incredulidad de Israel en Dios lo que los llevó a esta condición en el desierto, no Dios! Dios tenía cosas grandes y maravillosas reservadas para ellos. Él quería que fueran a la tierra y fueran maravillosamente bendecidos, pero, a pesar de las grandes y muchas manifestaciones de Su amor por ellos y de Su poder todopoderoso, lo rechazaron y Él les permitió soportar esas consecuencias.
+### Este pasaje realmente revela el corazón de la humanidad y la increíble paciencia y longanimidad de la gracia y la misericordia de Dios. ¡Fue la incredulidad de Israel en Dios lo que los llevó a esta condición en el desierto, no Dios! Dios tenía cosas <u>grandes</u> y maravillosas reservadas para ellos. Él quería que fueran a la tierra y fueran maravillosamente bendecidos, pero, a pesar de las grandes y muchas manifestaciones de Su amor por ellos y de Su poder todopoderoso, lo rechazaron y Él les permitió soportar esas consecuencias.
 
-### Lo mismo es cierto de nosotros hoy; como creyentes, Dios nos ha dado su revelación completa de sí mismo a través de la creación, las escrituras y el ministerio del Espíritu Santo (1 Corintios 2:12). No conocerlo llevará a dudar de Él cuando se encuentre en medio de dificultades y pruebas. Dios nos permitirá dudar de Él y experimentar las consecuencias que resultarán de ello. Dudar de Él en las dificultades y pruebas conducirá a muchas de las mismas emociones que los israelitas expresaron en este último pasaje: Ansiedad, preocupación, ira e incluso hasta el punto de culpar a Dios.
+### Lo mismo es cierto de nosotros hoy; como creyentes, Dios nos ha dado su revelación completa de sí mismo a través de la creación, las escrituras y el ministerio del Espíritu Santo (1 Corintios 2:12). No conocerlo llevará a dudar de Él cuando se encuentre en medio de dificultades y <u>pruebas</u>. Dios nos permitirá dudar de Él y experimentar las consecuencias que resultarán de ello. Dudar de Él en las dificultades y pruebas conducirá a muchas de las mismas emociones que los israelitas expresaron en este último pasaje: Ansiedad, preocupación, ira e incluso hasta el punto de culpar a Dios.
 
 ### Lea Números 20:7-13.
 
-### ¿Recuerdas la última vez que no tuvieron agua en Éxodo 17:5-6 y Dios le había ordenado a Moisés que golpeara la roca? ¡Esta vez Dios le dijo específicamente a Moisés que simplemente LE HABLARA! Esto se debió a que Dios estaba usando esta roca en el desierto para establecer una imagen del tipo de Cristo. Ver 1 Corintios 10:1-4. Sabemos que Jesús fue derribado (en la cruz) solo una vez por el pecado del mundo y a través de esa muerte Él provee el agua viva (salvación) para todos los que creen.
+### ¿Recuerdas la última vez que no tuvieron agua en Éxodo 17:5-6 y Dios le había ordenado a Moisés que golpeara la roca? ¡Esta vez Dios le dijo específicamente a Moisés que simplemente LE HABLARA! Esto se debió a que Dios estaba usando esta roca en el desierto para establecer una <u>imagen</u> del tipo de Cristo. Ver 1 Corintios 10:1-4. Sabemos que Jesús fue derribado (en la cruz) solo una vez por el pecado del mundo y a través de esa muerte Él provee el agua viva (salvación) para todos los que creen.
 
-### Cuando Moisés golpeó la roca por ira por segunda vez, desobedeció directamente las instrucciones específicas de Dios: arruinó la imagen espiritual de Cristo que Dios estaba produciendo a través de este evento físico. Dios, en su gracia, todavía permitió que el agua fluyera para la gente. ¡La ira y la infidelidad de Moisés no impidieron que Dios derramara Su gracia y proveyera para el pueblo!
+### Cuando Moisés golpeó la roca por ira por segunda vez, desobedeció directamente las instrucciones específicas de Dios: arruinó la imagen espiritual de Cristo que Dios estaba produciendo a través de este evento físico. Dios, en su gracia, todavía permitió que el agua fluyera para la gente. ¡La ira y la infidelidad de Moisés no impidieron que Dios <u>derramara</u> Su gracia y proveyera para el pueblo!
 
-### Esto choca en la cara de los conceptos erróneos y las creencias erróneas que muchos cristianos tienen sobre Dios hoy en día. Un ejemplo es orar por amigos y familiares perdidos. Sí, necesitamos orar por las personas, pero ¿Qué pasaría si ningún cristiano volviera a orar por la salvación de los incrédulos? ¿No permitiría Dios que otra alma se salvara alguna vez? ¡La gracia de Dios NO está determinada ni depende de nuestra fidelidad!
+### Esto choca en la cara de los conceptos erróneos y las creencias erróneas que muchos cristianos tienen sobre Dios hoy en día. Un ejemplo es orar por amigos y familiares perdidos. Sí, necesitamos orar por las personas, pero ¿Qué pasaría si ningún cristiano volviera a orar por la salvación de los incrédulos? ¿No permitiría Dios que otra alma se <u>salvara</u> alguna vez? ¡La gracia de Dios NO está determinada ni depende de nuestra fidelidad!
 
 ## Cuando los israelitas hablaron contra Dios y Moisés nuevamente, Dios envió serpientes venenosas (Números 21:4-9)
 
-### El desierto de Israel fue el tiempo entre ser liberados de la esclavitud en Egipto y el momento real en que finalmente entraron en la Tierra Prometida. Esto proporciona una imagen física asombrosa de nuestro desierto espiritual.
+### El desierto de Israel fue el tiempo entre ser liberados de la esclavitud en Egipto y el momento real en que finalmente entraron en la Tierra Prometida. Esto proporciona una imagen física asombrosa de nuestro <u>desierto</u> espiritual.
 
-### Nuestro desierto espiritual es básicamente el tiempo que pasamos en esta tierra. Comienza en el momento en que aceptamos a Cristo como nuestro Salvador y somos liberados de nuestra esclavitud al pecado. Nuestro desierto finalmente termina en el momento en que morimos y dejamos estos cuerpos malditos y la tierra maldita por el pecado, pero podemos comenzar a experimentar ese descanso espiritual aquí y ahora cuanto más aprendamos a caminar menos en la carne y más en el Espíritu.
+### Nuestro desierto espiritual es básicamente el tiempo que pasamos en esta tierra. Comienza en el momento en que aceptamos a Cristo como nuestro Salvador y somos liberados de nuestra esclavitud al pecado. Nuestro desierto finalmente <u>termina</u> en el momento en que morimos y dejamos estos cuerpos malditos y la tierra maldita por el pecado, pero podemos comenzar a experimentar ese descanso espiritual aquí y ahora cuanto más aprendamos a caminar menos en la carne y más en el Espíritu.
 
-### La forma en que Dios trae esto a nuestras vidas es la misma manera que lo estaba haciendo en la vida de los israelitas, es decir, a través de dificultades y pruebas. Junto con cada prueba que enfrentó Israel, vino la oportunidad para que vieran claramente su propia impotencia para liberarse a sí mismos y para ver nuevamente a Dios revelarse a sí mismo a través de su interacción e intervención constantes y fieles en sus vidas mientras los liberaba fielmente a través de cada prueba.
+### La forma en que Dios trae esto a nuestras vidas es la misma manera que lo estaba haciendo en la vida de los israelitas, es decir, a través de dificultades y pruebas. Junto con cada prueba que enfrentó Israel, vino la oportunidad para que <u>vieran</u> claramente su propia impotencia para liberarse a sí mismos y para ver nuevamente a Dios revelarse a sí mismo a través de su interacción e intervención constantes y fieles en sus vidas mientras los liberaba fielmente a través de cada prueba.
 
-### Exactamente lo mismo es cierto para nosotros. Dios usa cada prueba, dificultad y tribulación en nuestras vidas para enseñarnos que no podemos confiar y depender de nosotros mismos y para mostrarnos que ÉL y la obra terminada de Cristo en la cruz es nuestra única esperanza de SALVACIÓN (que incluye justificación, santificación y glorificación futura). Observe que el versículo 4 dice: El alma del pueblo se había desanimado mucho en el camino. En lugar de ir a Dios y clamar a Él por Su misericordia, se quejaron y se quejaron contra Él, dudando nuevamente de Su bondad.
+### Exactamente lo mismo es cierto para nosotros. Dios usa cada prueba, dificultad y tribulación en nuestras vidas para enseñarnos que no <u>podemos</u> confiar y depender de nosotros mismos y para mostrarnos que ÉL y la obra terminada de Cristo en la cruz es nuestra única esperanza de SALVACIÓN (que incluye justificación, santificación y glorificación futura). Observe que el versículo 4 dice: El alma del pueblo se había desanimado mucho en el camino. En lugar de ir a Dios y clamar a Él por Su misericordia, se quejaron y se quejaron contra Él, dudando nuevamente de Su bondad.
 
-### Observe que la solución de Dios no fue atender su carne y hacerlos sentir mejor. ¡De hecho, empeoró su circunstancia! Hizo que sus circunstancias fueran lo suficientemente malas como para desesperarlos, lo que a su vez los llevó a depender de Él, quien fue su única esperanza todo el tiempo. ¡Simplemente no se dieron cuenta! Mientras caminamos en la carne, responderemos al procesamiento de Dios de nuestras vidas de la misma manera que lo hizo Israel con aflicción, desaliento, decepción y quejas.
+### Observe que la solución de Dios no fue atender su carne y hacerlos sentir mejor. ¡De hecho, empeoró su circunstancia! Hizo que sus circunstancias fueran lo suficientemente malas como para desesperarlos, lo que a su vez los llevó a depender de Él, quien fue su única <u>esperanza</u> todo el tiempo. ¡Simplemente no se dieron cuenta! Mientras caminamos en la carne, responderemos al procesamiento de Dios de nuestras vidas de la misma manera que lo hizo Israel con aflicción, desaliento, decepción y quejas.
 
-### Ya sea que respondamos con fe y dependencia o con irritación y queja, Dios satisfará nuestras necesidades en su gracia y nos liberará a través de ellas. Nuestras respuestas no cambian quién es Él y cómo es. Habrá otra prueba que vendrá, y cada vez Dios está tratando de llevarnos a niveles cada vez más profundos de conocerlo y confiar en Él. ¡La comunión estrecha e íntima con Él es el único lugar donde encontraremos verdadera satisfacción y plenitud para nuestras almas!
+### Ya sea que respondamos con fe y dependencia o con irritación y queja, Dios satisfará nuestras necesidades en su gracia y nos liberará a través de ellas. Nuestras respuestas no cambian quién es Él y cómo es. Habrá otra prueba que vendrá, y cada vez Dios está tratando de llevarnos a niveles cada vez más profundos de conocerlo y confiar en Él. ¡La comunión estrecha e íntima con Él es el único lugar donde encontraremos verdadera satisfacción y <u>plenitud</u> para nuestras almas!
 
-### Este relato nos da otro vistazo de la grandeza de Dios. Junto con lo que buscaba lograr en la vida de Israel, también estaba proporcionando otra imagen física del Libertador prometido venidero y Su obra futura. Véase Juan 3:14-17. Dios está haciendo exactamente lo mismo con nosotros.
+### Este relato nos da otro vistazo de la grandeza de Dios. Junto con lo que buscaba lograr en la vida de Israel, también estaba proporcionando otra imagen física del Libertador prometido venidero y Su obra futura. Véase Juan 3:14-17. Dios está <u>haciendo</u> exactamente lo mismo con nosotros.
 
-### Al mirar este relato de Dios guiando a Israel a un conocimiento más profundo de sí mismo mientras lleva a cabo su plan eterno de redención para ellos y a través de ellos, me gustaría que ahora vayamos a Hebreos 3:12-19; 4:1-2. ¿Qué fue lo que impidió que Israel entrara en la Tierra Prometida? INCREDULIDAD. ¿Incredulidad sobre qué? ¿Las promesas de Dios? ¡En última instancia, fue incredulidad con respecto a Dios mismo! Las promesas que Dios hace no tienen poder dentro de sí mismas para llevar a cabo nada. Es Dios quien los lleva a buen término; por lo tanto, la incredulidad era una duda directa de Dios mismo.
+### Al mirar este relato de Dios guiando a Israel a un conocimiento más profundo de sí mismo mientras lleva a cabo su plan eterno de redención para ellos y a través de ellos, me gustaría que ahora vayamos a Hebreos 3:12-19; 4:1-2. ¿Qué fue lo que impidió que Israel entrara en la Tierra Prometida? INCREDULIDAD. ¿Incredulidad sobre qué? ¿Las promesas de Dios? ¡En última instancia, fue incredulidad con respecto a Dios mismo! Las promesas que Dios hace no <u>tienen</u> poder dentro de sí mismas para llevar a cabo nada. Es Dios quien los lleva a buen término; por lo tanto, la incredulidad era una duda directa de Dios mismo.
 
-### Esto es exactamente lo que sucede en nuestras vidas hoy como cristianos. ¿Cuáles son las promesas de Dios para nosotros hoy? Creo que podemos dividir las promesas de Dios para nosotros en tres categorías: Lo que Él nos ha dado, Lo que Él nos ha hecho ser, Dónde nos ha colocado.
+### Esto es exactamente lo que sucede en <u>nuestras</u> vidas hoy como cristianos. ¿Cuáles son las promesas de Dios para nosotros hoy? Creo que podemos dividir las promesas de Dios para nosotros en tres categorías: Lo que Él nos ha dado, Lo que Él nos ha hecho ser, Dónde nos ha colocado.
 
 ### Veamos Efesios 1. Pablo comienza en los versículos 1 al 14 declarando los hechos que son verdaderos de cada creyente en Cristo, simplemente porque están en Cristo.
 
-#### 1-14 – Toda bendición espiritual en los lugares celestiales, la filiación, escogida en Cristo, la aceptación, la redención por medio de Su sangre, el perdón de pecados según las riquezas de la gracia, una herencia, predestinada según Su propósito, el sello del Espíritu Santo como garantía de nuestra herencia.
+#### 1-14 – Toda bendición espiritual en los lugares celestiales, la filiación, escogida en Cristo, la aceptación, la redención por medio de Su sangre, el perdón de pecados según las riquezas de la gracia, una <u>herencia</u>, predestinada según Su propósito, el sello del Espíritu Santo como garantía de nuestra herencia.
 
-#### 15-23 – Pablo comparte con ellos cuál es su oración por ellos. Básicamente, era que Dios abriera sus ojos y corazones para saber y creer que realmente han recibido y han sido hechos todo lo que él enumeró anteriormente. Y también que sean capaces de conocer y creer toda la poderosa obra de Cristo que Él hizo en su comportamiento que los hace ser quienes son en Cristo.
+#### 15-23 – Pablo comparte con ellos cuál es su oración por ellos. Básicamente, era que Dios abriera sus ojos y corazones para saber y creer que realmente han recibido y han sido hechos todo lo que él enumeró anteriormente. Y también que sean capaces de <u>conocer</u> y creer toda la poderosa obra de Cristo que Él hizo en su comportamiento que los hace ser quienes son en Cristo.
 
-### Esta es una parte muy importante, porque como creyentes, si no somos tomados y enfocados en la obra terminada de Cristo, entonces nuestro enfoque estará en nosotros mismos. En pocas palabras, si los efesios crecen en el conocimiento de Dios y en estas verdades que Él enumera aquí, el resultado será una verdadera transformación y crecimiento espiritual, y la experiencia del descanso que se nos promete hoy. No conocer o creer estas verdades resultará en su propio deambular por el desierto.
+### Esta es una parte muy importante, porque como creyentes, si no somos tomados y enfocados en la obra terminada de Cristo, entonces nuestro enfoque estará en nosotros mismos. En pocas palabras, si los efesios crecen en el conocimiento de Dios y en estas verdades que Él enumera aquí, el resultado será una <u>verdadera</u> transformación y crecimiento espiritual, y la experiencia del descanso que se nos promete hoy. No conocer o creer estas verdades resultará en su propio deambular por el desierto.
 
 ## Preguntas de revisión
 
@@ -4014,23 +3988,23 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ## Introducción
 
-### La palabra de Dios es absolutamente confiable. Él nunca tiene que retractarse de una declaración porque Su conocimiento es perfecto y Él es completamente omnipotente y absolutamente soberano. Por lo tanto, ¡Su palabra es inmutable y Él es totalmente digno de confianza! Cuando se habla de los atributos de Dios, hay atributos que reciben todo el enfoque: santidad, omnipotencia, omnisciencia, soberanía, amor, gracia, misericordia, que nunca cambia, eterno, etc.; pero luego hay atributos de los que rara vez se oye hablar, atributos como el celo de Dios. ¿Cuál es el celo de Dios? ¿Es diferente de estar celoso? ¿Y por qué es celoso Dios? Estas son algunas de las preguntas que responderemos en esta lección.
+### La palabra de Dios es absolutamente confiable. Él nunca tiene que retractarse de una declaración porque Su conocimiento es perfecto y Él es completamente omnipotente y absolutamente soberano. Por lo tanto, ¡Su palabra es inmutable y Él es totalmente digno de confianza! Cuando se habla de los atributos de Dios, hay atributos que reciben todo el enfoque: santidad, omnipotencia, omnisciencia, soberanía, amor, gracia, misericordia, que nunca cambia, eterno, etc.; pero luego hay <u>atributos</u> de los que rara vez se oye hablar, atributos como el celo de Dios. ¿Cuál es el celo de Dios? ¿Es diferente de estar celoso? ¿Y por qué es celoso Dios? Estas son algunas de las preguntas que responderemos en esta lección.
 
 ## Israel se involucra en la idolatría (Números 25)
 
-### Al igual que en la última lección con respecto a la falta de voluntad de Israel para creer en Dios y entrar en Canaán, hasta este punto en el que Dios eligió castigar a Israel por este pecado, ¿Cuánto otro pecado crees que existía en la vida de cada individuo? ¡Supongo que muchos! Observe la respuesta extremadamente fuerte de Dios con respecto a este pecado en los versículos 4 al 9. También observe que al igual que en la frontera de Canaán, este pecado también tuvo que ver directamente con la relación de Israel con Dios y su rechazo de Su revelación de Sí mismo a ellos. A continuación, observe lo que Dios dice acerca de Finees en los versículos 10 al 13: Y fue celoso con mi celo entre ellos, para que no consumiera a Israel con mi celo... Era celoso de su Dios e hizo expiación por la nación de Israel.
+### Al igual que en la última lección con respecto a la falta de voluntad de Israel para creer en Dios y entrar en Canaán, hasta este punto en el que Dios eligió castigar a Israel por este pecado, ¿Cuánto otro pecado crees que existía en la vida de cada individuo? ¡Supongo que muchos! Observe la respuesta extremadamente fuerte de Dios con respecto a este pecado en los versículos 4 al 9. También observe que al igual que en la frontera de Canaán, este pecado también tuvo que ver directamente con la <u>relación</u> de Israel con Dios y su rechazo de Su revelación de Sí mismo a ellos. A continuación, observe lo que Dios dice acerca de Finees en los versículos 10 al 13: Y fue celoso con mi celo entre ellos, para que no consumiera a Israel con mi celo... Era celoso de su Dios e hizo expiación por la nación de Israel.
 
 ### Lee Éxodo 33:18 – 34:17.
 
-### Lo que quiero señalar aquí es que cuando Moisés le pide a Dios que vea Su gloria, en referencia a la gloria de Dios, ¿Qué es lo que se convierte en el enfoque? Éxodo 34:5-7 enfatiza el hecho de que Él es misericordioso, clemente, paciente, abundante en bondad y verdad, y que perdona la iniquidad, la transgresión y el pecado.
+### Lo que quiero señalar aquí es que cuando Moisés le pide a Dios que vea Su gloria, en referencia a la gloria de Dios, ¿Qué es lo que se convierte en el enfoque? Éxodo 34:5-7 enfatiza el hecho de que Él es misericordioso, clemente, paciente, abundante en bondad y verdad, y que <u>perdona</u> la iniquidad, la transgresión y el pecado.
 
-### Ahora mire Isaías 42:8 y 48:11. Dios dice: ¡No daré mi gloria a ningún otro! Yo soy el Señor Dios que te ha otorgado gracia y misericordia. ¡YO soy el que ha sido extremadamente sufrido y he abundado en bondad y verdad hacia TI! Soy YO quien ha perdonado TU iniquidad, transgresión y pecado y no permitiré que des crédito por estas cosas a ningún otro.
+### Ahora mire Isaías 42:8 y 48:11. Dios dice: ¡No daré mi gloria a ningún otro! Yo soy el Señor Dios que te ha <u>otorgado</u> gracia y misericordia. ¡YO soy el que ha sido extremadamente sufrido y he abundado en bondad y verdad hacia TI! Soy YO quien ha perdonado TU iniquidad, transgresión y pecado y no permitiré que des crédito por estas cosas a ningún otro.
 
-### ¡Ser misericordioso, clemente, sufrido y perdonar el pecado es la máxima revelación del corazón de Dios y los profundos deseos para Su pueblo! Alejarse de Dios a los falsos ídolos no es solo una cuestión de cambiar una estatua por otra.
+### ¡Ser misericordioso, clemente, sufrido y <u>perdonar</u> el pecado es la máxima revelación del corazón de Dios y los profundos deseos para Su pueblo! Alejarse de Dios a los falsos ídolos no es solo una cuestión de cambiar una estatua por otra.
 
-### Aparte del hecho de que Dios es verdaderamente Dios y está verdaderamente vivo, uno de los aspectos principales que lo separa de los dioses de todas las demás religiones es el hecho de que Él es misericordioso, sufrido, bueno y perdonador de pecados.
+### Aparte del hecho de que Dios es verdaderamente Dios y está verdaderamente vivo, uno de los aspectos principales que lo separa de los dioses de todas las demás religiones es el hecho de que Él es misericordioso, sufrido, <u>bueno</u> y perdonador de pecados.
 
-### Entonces, cuando Israel se unió a los moabitas para adorar a Baal en Números 25, esto fue para tomar todas estas verdades que son verdaderas de Dios (y que Él otorgó a Israel una y otra vez) y decir que son verdaderas de Baal y no de Dios. Con respecto a la diferencia entre ser celoso y estar celoso, en realidad ambos términos se usan para traducir el mismo término hebreo Kanaw o Kinaw. Dependiendo de la versión de la Biblia que uses, algunas versiones usan celoso aquí en Números 25 en lugar de celoso. Sin embargo, en general, ser celoso generalmente se conoce como una forma positiva o piadosa de celos. Siempre tiene que ver con Dios, Su verdad, Sus caminos o Su pueblo. Cuando se usa en humanos, a veces es positivo, pero generalmente es negativo. Cuando Dios lo usa, siempre lo hace en un sentido santo y justo. Ver también:
+### Entonces, cuando Israel se unió a los moabitas para adorar a Baal en Números 25, esto fue para tomar todas estas verdades que son verdaderas de Dios (y que Él otorgó a Israel una y otra vez) y decir que son verdaderas de Baal y no de Dios. Con respecto a la diferencia entre ser celoso y estar celoso, en realidad ambos términos se usan para traducir el mismo término hebreo Kanaw o Kinaw. Dependiendo de la versión de la Biblia que uses, algunas versiones usan <u>celoso</u> aquí en Números 25 en lugar de celoso. Sin embargo, en general, ser celoso generalmente se conoce como una forma positiva o piadosa de celos. Siempre tiene que ver con Dios, Su verdad, Sus caminos o Su pueblo. Cuando se usa en humanos, a veces es positivo, pero generalmente es negativo. Cuando Dios lo usa, siempre lo hace en un sentido santo y justo. Ver también:
 
 #### Éxodo 20:5; 34:14
 
@@ -4060,93 +4034,93 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 #### Santiago 3:14,16
 
-### Las cosas que vemos que Dios protege con celo santo son su pueblo, sus elegidos, su relación con sus escogidos y su gloria. ¡La relación de Dios con Sus elegidos se basa en Su gloria! Esto fue cierto para Israel y también es igualmente cierto para nosotros hoy como cristianos. ¡Todo lo que tenemos y todo lo que somos está totalmente basado en la obra terminada de nuestro Dios y Salvador misericordioso, misericordioso y sufrido que nos ha salvado de todos nuestros pecados!
+### Las cosas que vemos que Dios protege con celo santo son su pueblo, sus elegidos, su relación con sus escogidos y su gloria. ¡La relación de Dios con Sus elegidos se basa en Su gloria! Esto fue cierto para Israel y también es igualmente <u>cierto</u> para nosotros hoy como cristianos. ¡Todo lo que tenemos y todo lo que somos está totalmente basado en la obra terminada de nuestro Dios y Salvador misericordioso, misericordioso y sufrido que nos ha salvado de todos nuestros pecados!
 
 ## Los israelitas incrédulos murieron en el desierto.
 
-### Entonces, continuando, sabemos que la generación adulta que se negó a creer en Dios y entrar en Canaán, murió en el desierto en 40 años.
+### Entonces, continuando, sabemos que la generación <u>adulta</u> que se negó a creer en Dios y entrar en Canaán, murió en el desierto en 40 años.
 
 ### Lea Hebreos 3:16-4:2.
 
-### El verdadero problema de los israelitas era que habían rechazado a Dios, Quien se había revelado muy claramente. Es la tremenda cantidad de gracia, misericordia, amor e intervención divina que Dios les otorgó pacientemente, sin embargo ellos aún así eligieron rechazarlo.
+### El verdadero problema de los israelitas era que habían <u>rechazado</u> a Dios, Quien se había revelado muy claramente. Es la tremenda cantidad de gracia, misericordia, amor e intervención divina que Dios les otorgó pacientemente, sin embargo ellos aún así eligieron rechazarlo.
 
-### ¿Qué hay de nosotros hoy? ¡Dios nos ha dado aún más revelación de sí mismo! Él ha enviado a su Hijo a morir en la cruz y nos ha dado su revelación completa por escrito de sí mismo y los detalles de su plan eterno de redención que se llevó a cabo a través de Cristo. Así como esta generación de israelitas murió en el desierto y nunca experimentó la Tierra Prometida debido a su rechazo de la revelación de Dios de sí mismo, lo mismo es posible para nosotros hoy como cristianos.
+### ¿Qué hay de nosotros hoy? ¡Dios nos ha dado aún más revelación de sí mismo! Él ha enviado a su Hijo a morir en la cruz y nos ha dado su revelación completa por escrito de sí mismo y los detalles de su plan eterno de redención que se llevó a cabo a través de Cristo. Así como esta generación de israelitas murió en el desierto y <u>nunca</u> experimentó la Tierra Prometida debido a su rechazo de la revelación de Dios de sí mismo, lo mismo es posible para nosotros hoy como cristianos.
 
-### Lo que hagamos con la revelación de Dios de sí mismo, de Cristo, de su obra terminada y de lo que nos hemos convertido determinará directamente si residimos o no en la tierra prometida o si permanecemos en el desierto.
+### Lo que hagamos con la revelación de Dios de sí mismo, de Cristo, de su obra terminada y de lo que nos hemos convertido determinará directamente si <u>residimos</u> o no en la tierra prometida o si permanecemos en el desierto.
 
 ## Dios eligió a Josué para tomar el lugar de Moisés (Números 27:18-23)
 
-### Una de las cosas que realmente se destaca aquí es el hecho de que Dios es el iniciador amoroso. En este punto, se suponía que Israel estaba en la Tierra Prometida y Moisés con ellos. Debido a su pecado de incredulidad y a que Moisés golpeó la roca dos veces, todavía están en el desierto esperando morir para que la próxima generación sea conducida a Canaán. A pesar de que su pecado e incredulidad los habían metido en este lío, Dios en Su gracia y longanimidad levantó a otro hombre piadoso y fiel para que tomara el lugar de Moisés y fuera el que los guiara a Canaán.
+### Una de las cosas que realmente se destaca aquí es el hecho de que Dios es el iniciador amoroso. En este punto, se suponía que Israel estaba en la Tierra Prometida y Moisés con ellos. Debido a su <u>pecado</u> de incredulidad y a que Moisés golpeó la roca dos veces, todavía están en el desierto esperando morir para que la próxima generación sea conducida a Canaán. A pesar de que su pecado e incredulidad los habían metido en este lío, Dios en Su gracia y longanimidad levantó a otro hombre piadoso y fiel para que tomara el lugar de Moisés y fuera el que los guiara a Canaán.
 
-### Josué había sido el compañero y ayudante constante de Moisés. Había acompañado a Moisés cuando Dios le dio los Diez Mandamientos en el Monte Sinaí. Josué también fue uno de los espías que había creído que Dios les daría a los israelitas la tierra de Canaán. Josué era un hombre que confiaba en Dios.
+### Josué había sido el compañero y ayudante constante de Moisés. Había acompañado a Moisés cuando Dios le dio los Diez Mandamientos en el Monte Sinaí. Josué también fue uno de los espías que había <u>creído</u> que Dios les daría a los israelitas la tierra de Canaán. Josué era un hombre que confiaba en Dios.
 
 ### Lea Deuteronomio 34:1-5.
 
-### Dios hizo exactamente lo que prometió que haría. No permitió que Moisés entrara en la tierra, pero sí lo llevó al monte y le permitió verlo desde la distancia. Puede ser tentador escuchar esta historia sobre Moisés y ver a Dios como algo duro. Quiero decir, mire todas las cosas buenas que Moisés había hecho para el Señor. ¿No podría haber sido un poco más amable con él? Vamos, ¿Dios no le debía al menos un poco? Sin embargo, debemos tener en cuenta que no hay nada más importante que Dios, Su voluntad y Su gloria. Dios no le debía nada a Moisés. Fue la pura gracia de Dios que Moisés recibiera algo del Señor, ya que era un pecador como todos nosotros que solo merece morir e ir al infierno.
+### Dios hizo exactamente lo que prometió que haría. No permitió que Moisés entrara en la tierra, pero sí lo llevó al monte y le permitió verlo desde la distancia. Puede ser tentador escuchar esta historia sobre Moisés y ver a Dios como algo duro. Quiero decir, mire todas las cosas buenas que Moisés había hecho para el Señor. ¿No podría haber sido un poco más amable con él? Vamos, ¿Dios no le debía al menos un poco? Sin embargo, debemos tener en cuenta que no hay nada más importante que Dios, Su voluntad y Su gloria. Dios no le debía <u>nada</u> a Moisés. Fue la pura gracia de Dios que Moisés recibiera algo del Señor, ya que era un pecador como todos nosotros que solo merece morir e ir al infierno.
 
-### A veces, como cristianos, podemos caer en esa misma mentalidad con respecto a nuestras propias vidas, es decir, que en momentos en que Dios nos bendice con algo, en el fondo podemos tender a pensar que Él nos debe o que fue por algo que hemos hecho correcto o bien o que hemos sacrificado.
+### A veces, como cristianos, podemos caer en esa misma mentalidad con respecto a nuestras propias vidas, es decir, que en momentos en que Dios nos bendice con algo, en el <u>fondo</u> podemos tender a pensar que Él nos debe o que fue por algo que hemos hecho correcto o bien o que hemos sacrificado.
 
-### Dos cosas deberían sorprendernos absolutamente; primero, lo único que merecemos del Señor es castigo. El hecho de que haya enviado a su Hijo para ser castigado y muerto para nuestra salvación lo glorificará por toda la eternidad. En segundo lugar, no solo no merecemos no ser castigados, ¡sino que tampoco merecemos recibir nada bueno de Dios! Podríamos pasar meses hablando de todas las cosas buenas que recibimos del Señor. Hay una canción de Ascend the Hill llamada The Love of God que tiene el siguiente versículo en el: Si nosotros llenáramos de tinta los océanos, y si los cielos fueran un pergamino, si cada tallo de la tierra fuera una pluma y cada hombre un escriba de oficio, escribir el amor de Dios arriba drenaría el océano seco, ni el rollo podría contenerlos a todos, aunque se extendiera de cielo a cielo.
+### Dos cosas deberían sorprendernos absolutamente; primero, lo único que merecemos del Señor es castigo. El hecho de que haya enviado a su Hijo para ser castigado y muerto para nuestra salvación lo glorificará por toda la eternidad. En segundo lugar, no solo no merecemos no ser castigados, ¡sino que tampoco merecemos recibir nada bueno de Dios! Podríamos pasar meses hablando de todas las cosas buenas que recibimos del Señor. Hay una canción de Ascend the Hill llamada The Love of God que tiene el siguiente versículo en el: Si nosotros llenáramos de tinta los océanos, y si los cielos fueran un pergamino, si cada tallo de la tierra fuera una pluma y cada hombre un escriba de oficio, escribir el amor de Dios arriba drenaría el <u>océano</u> seco, ni el rollo podría contenerlos a todos, aunque se extendiera de cielo a cielo.
 
 ## Josué condujo a los israelitas a Canaán (Deuteronomio 34:9; Josué 1:1-2)
 
-### Nadie podía impedir que Dios cumpliera su plan de dar a los israelitas la tierra de Canaán. Los egipcios no pudieron. Satanás no podía. Los cananeos no pudieron. Ni siquiera la propia pecaminosidad e incredulidad de Israel.
+### Nadie podía impedir que Dios cumpliera su plan de dar a los israelitas la tierra de Canaán. Los egipcios no <u>pudieron</u>. Satanás no podía. Los cananeos no pudieron. Ni siquiera la propia pecaminosidad e incredulidad de Israel.
 
-### Esto proporciona una imagen física bastante sorprendente de Dios y el plan de redención que Él está llevando a cabo hoy para la iglesia. Satanás no puede impedirlo. Las leyes y regulaciones gubernamentales no pueden obstaculizarlo. El mundo no puede obstaculizarlo. Ni siquiera la pecaminosidad de la humanidad, porque en realidad es nuestra pecaminosidad la que crea la razón o la necesidad del plan de redención de Dios en primer lugar.
+### Esto proporciona una imagen física bastante sorprendente de Dios y el plan de redención que Él está llevando a cabo hoy para la iglesia. Satanás no puede impedirlo. Las leyes y regulaciones gubernamentales no pueden obstaculizarlo. El mundo no <u>puede</u> obstaculizarlo. Ni siquiera la pecaminosidad de la humanidad, porque en realidad es nuestra pecaminosidad la que crea la razón o la necesidad del plan de redención de Dios en primer lugar.
 
 ## Israel se volvió a la idolatría después de la muerte de Josué (Josué 23:14-16)
 
-### Antes de morir, Josué reunió a los israelitas y los desafió a permanecer fieles a Dios recordándoles cuán misericordioso y fiel había sido Dios en sus vidas. Era el principio de "Le amamos porque Él nos amó primero". Pero tan pronto como Josué y su generación murieron, la siguiente generación se apartó rápidamente del Señor.
+### Antes de morir, Josué reunió a los israelitas y los desafió a permanecer fieles a Dios recordándoles cuán misericordioso y fiel había sido Dios en sus vidas. Era el principio de "Le amamos porque Él nos amó primero". Pero tan pronto como Josué y su generación murieron, la siguiente generación se <u>apartó</u> rápidamente del Señor.
 
 ### Lea Jueces 2:7-13.
 
-### Después de la muerte de Josué y su generación, los israelitas siguieron los caminos de las naciones idólatras cercanas, haciendo ídolos y adorándolos en lugar del único Dios verdadero. ¡Tenga en cuenta que al hacerlo estaban dando la gloria de Dios a estatuas muertas! ¡Estaban diciendo que el amor, la gracia, la misericordia y la liberación que habían recibido de Dios en realidad habían sido recibidos de estas estatuas sin vida! Entonces, ¿Qué hizo Dios?
+### Después de la muerte de Josué y su generación, los israelitas siguieron los caminos de las naciones idólatras cercanas, haciendo ídolos y adorándolos en lugar del único Dios verdadero. ¡Tenga en cuenta que al hacerlo estaban <u>dando</u> la gloria de Dios a estatuas muertas! ¡Estaban diciendo que el amor, la gracia, la misericordia y la liberación que habían recibido de Dios en realidad habían sido recibidos de estas estatuas sin vida! Entonces, ¿Qué hizo Dios?
 
 ### Lea Jueces 2:14-15.
 
-### Con este tiempo de castigo, comienza un ciclo en Israel que continúa y continúa durante muchas generaciones, hasta el tiempo de Cristo en los evangelios. Ese es el ciclo de Israel rechazando a Dios, Dios provocando el castigo, Israel volviéndose a Él y Dios liberándolos.
+### Con este tiempo de castigo, comienza un ciclo en Israel que continúa y continúa durante muchas generaciones, hasta el tiempo de Cristo en los evangelios. Ese es el ciclo de Israel rechazando a Dios, Dios provocando el <u>castigo</u>, Israel volviéndose a Él y Dios liberándolos.
 
 ### Lea Jueces 2:16-23.
 
-### En este punto, la forma en que Dios estaba obrando en la vida de Israel como nación había cambiado drásticamente de Su descripción en Éxodo 19:4 cuando dice: Te llevé sobre alas de águila y te traje a Mí.
+### En este punto, la forma en que Dios estaba obrando en la vida de Israel como nación había <u>cambiado</u> drásticamente de Su descripción en Éxodo 19:4 cuando dice: Te llevé sobre alas de águila y te traje a Mí.
 
-### Entre Éxodo 19 y Jueces 2, Dios se había revelado y manifestado una y otra vez a Israel. Con gran paciencia y longanimidad, les otorgó mucha gracia, misericordia, amor y perdón. La generación anterior se había negado a creer en Dios en la frontera de Canaán y murieron en el desierto. Esta próxima generación había sido bendecida y privilegiada al ser guiada para finalmente ocupar la Tierra Prometida. Ellos también habían visto a Dios revelarse a sí mismo a través de los muchos milagros que realizó al darles esta tierra (Jericó, etc.).
+### Entre Éxodo 19 y Jueces 2, Dios se había revelado y manifestado una y otra vez a Israel. Con gran paciencia y longanimidad, les otorgó mucha gracia, misericordia, amor y perdón. La generación anterior se había negado a creer en Dios en la frontera de Canaán y murieron en el <u>desierto</u>. Esta próxima generación había sido bendecida y privilegiada al ser guiada para finalmente ocupar la Tierra Prometida. Ellos también habían visto a Dios revelarse a sí mismo a través de los muchos milagros que realizó al darles esta tierra (Jericó, etc.).
 
-### Ahora aquí está la próxima generación que probablemente eran niños cuando ocuparon la tierra. ¡No solo no están creyendo en Dios, sino que lo están rechazando y despreciando totalmente y volviéndose en adoración a falsos ídolos! Por eso dice Jueces 2:19 que se volverían y actuarían más corruptos que sus padres.
+### Ahora aquí está la próxima generación que probablemente eran <u>niños</u> cuando ocuparon la tierra. ¡No solo no están creyendo en Dios, sino que lo están rechazando y despreciando totalmente y volviéndose en adoración a falsos ídolos! Por eso dice Jueces 2:19 que se volverían y actuarían más corruptos que sus padres.
 
-### Ha quedado bastante claro a través de estas últimas lecciones que Dios ha castigado a Israel únicamente por la forma en que respondieron a Su revelación de sí mismo en sus vidas. Este es un patrón que se ve hasta la vida de Cristo e incluso hasta nosotros hoy en esta época. Fue el rechazo de Israel a Dios y su revelación de sí mismo lo que los llevó a no creerle en la frontera de Canaán y el castigo de morir en el desierto. Fue el rechazo de Israel a Dios aquí en Jueces 2 lo que los llevó a ser conquistados por sus enemigos. Vemos que esto sucede una y otra vez a lo largo del resto del Antiguo Testamento.
+### Ha quedado bastante claro a través de estas últimas lecciones que Dios ha castigado a Israel únicamente por la forma en que respondieron a Su revelación de sí mismo en sus vidas. Este es un patrón que se ve hasta la vida de Cristo e incluso hasta nosotros hoy en esta época. Fue el rechazo de Israel a Dios y su revelación de sí mismo lo que los llevó a no creerle en la frontera de Canaán y el castigo de morir en el desierto. Fue el rechazo de Israel a Dios aquí en Jueces 2 lo que los llevó a ser conquistados por sus <u>enemigos</u>. Vemos que esto sucede una y otra vez a lo largo del resto del Antiguo Testamento.
 
-### Luego vemos que es el rechazo de Israel a Jesús como el Cristo lo que los llevó a ser apartados como nación y el giro de Dios para trabajar en y a través de la Iglesia. Hoy, como individuos, es lo que hacemos con la revelación de Dios de quién es realmente Jesús y nuestra necesidad de Su sacrificio lo que determina si recibimos la vida eterna o la muerte eterna. Sin embargo, también como hemos visto una y otra vez a lo largo del Antiguo Testamento, junto con la justicia y el juicio de Dios, Su gracia y misericordia están siempre presentes.
+### Luego vemos que es el rechazo de Israel a Jesús como el Cristo lo que los llevó a ser <u>apartados</u> como nación y el giro de Dios para trabajar en y a través de la Iglesia. Hoy, como individuos, es lo que hacemos con la revelación de Dios de quién es realmente Jesús y nuestra necesidad de Su sacrificio lo que determina si recibimos la vida eterna o la muerte eterna. Sin embargo, también como hemos visto una y otra vez a lo largo del Antiguo Testamento, junto con la justicia y el juicio de Dios, Su gracia y misericordia están siempre presentes.
 
-### No importa cuántas veces Israel se alejó de Dios, Dios nunca los abandonó por completo. Fueron y siguen siendo su pueblo elegido. Cuando confesaban su pecado, Él siempre estaba listo y dispuesto a perdonarlos y aceptarlos de nuevo.
+### No importa cuántas veces Israel se alejó de Dios, Dios <u>nunca</u> los abandonó por completo. Fueron y siguen siendo su pueblo elegido. Cuando confesaban su pecado, Él siempre estaba listo y dispuesto a perdonarlos y aceptarlos de nuevo.
 
 ### Dios siempre fue fiel para preservar un remanente.
 
-### Además de levantar jueces para liberarlos de la situación actual en la que se encontraban, Dios también estaba construyendo más testimonios y presagios que apuntaban hacia el Libertador final venidero que de una vez por todas los liberaría de su pecado.
+### Además de levantar jueces para liberarlos de la situación <u>actual</u> en la que se encontraban, Dios también estaba construyendo más testimonios y presagios que apuntaban hacia el Libertador final venidero que de una vez por todas los liberaría de su pecado.
 
-### En última instancia, Dios estaba protegiendo fielmente a Israel porque eran su pueblo elegido. Fueron elegidos para ser aquellos por medio de los cuales el mundo entero será bendecido, usándolos para traer al Libertador al mundo. Dios los usó para registrar las Sagradas Escrituras para que un día se les diera la revelación completa de Dios a la iglesia futura. También fueron elegidos para ser aquellos a través de los cuales Dios se revelaría a sí mismo y a su corazón al resto del mundo al registrar su interacción con ellos.
+### En última instancia, Dios estaba protegiendo fielmente a Israel porque eran su pueblo elegido. Fueron elegidos para ser aquellos por medio de los cuales el mundo entero será bendecido, usándolos para traer al Libertador al mundo. Dios los usó para <u>registrar</u> las Sagradas Escrituras para que un día se les diera la revelación completa de Dios a la iglesia futura. También fueron elegidos para ser aquellos a través de los cuales Dios se revelaría a sí mismo y a su corazón al resto del mundo al registrar su interacción con ellos.
 
 ### Lea Isaías 41:8-10; 44:1-8.
 
-### Al final del tiempo de los jueces, Dios levantó a Samuel y estoy seguro de que la mayoría de nosotros conocemos su historia. Hacia el final de la vida de Samuel, no había nadie que ocupara su lugar porque sus hijos no eran obedientes al Señor.
+### Al final del tiempo de los jueces, Dios levantó a Samuel y estoy seguro de que la mayoría de <u>nosotros</u> conocemos su historia. Hacia el final de la vida de Samuel, no había nadie que ocupara su lugar porque sus hijos no eran obedientes al Señor.
 
 ### Lea 1 Samuel 8:1-9.
 
-### Hable sobre una imagen asombrosa que manifiesta claramente cuán soberano y supremo es realmente Dios. En medio del continuo rechazo de Israel a Dios y su deseo de ser como las otras naciones pecaminosas a su alrededor, Dios usó su pecaminosidad para establecer una línea real dentro de Israel a través de la cual el futuro Libertador entraría al mundo. El futuro Libertador sería profeta, sacerdote y rey.
+### Hable sobre una imagen asombrosa que manifiesta claramente cuán soberano y supremo es realmente Dios. En medio del continuo rechazo de Israel a Dios y su deseo de ser como las otras naciones pecaminosas a su alrededor, Dios usó su pecaminosidad para establecer una línea real dentro de Israel a través de la cual el <u>futuro</u> Libertador entraría al mundo. El futuro Libertador sería profeta, sacerdote y rey.
 
-### A pesar de que Israel continuó pecando y alejándose de Dios, Dios los castigaría basado en su pacto en el pacto que realizaron, Dios sigue siendo fiel a su pacto, todavía no cambió Su plan ni alteró Su fidelidad para llevarlo a cabo.  
+### A pesar de que Israel continuó pecando y alejándose de Dios, Dios los castigaría <u>basado</u> en su pacto en el pacto que realizaron, Dios sigue siendo fiel a su pacto, todavía no cambió Su plan ni alteró Su fidelidad para llevarlo a cabo.  
 
 ## Muchos reyes gobernaron sobre Israel.
 
-### Como saben, ese último intercambio entre Israel y Samuel dio inicio a la época de la historia de Israel en la que fueron gobernados por reyes. Saúl fue elegido para ser el primer rey, seguido por David y luego Salomón. Después de la muerte de Salomón, la nación de Israel se dividió en dos reinos. Primero fueron las diez tribus del norte que continuaron llamándose Israel, y luego las dos tribus del sur que se llamaron Judá. Ambos reinos terminaron teniendo veinte reyes cada uno a lo largo de los años. Los veinte reyes de Israel en el norte eran reyes malos o impíos, mientras que algunos de los reyes de Judá eran malos y otros eran buenos.
+### Como saben, ese último intercambio entre Israel y Samuel dio inicio a la época de la historia de Israel en la que fueron gobernados por reyes. Saúl fue elegido para ser el primer rey, seguido por David y luego Salomón. Después de la muerte de Salomón, la nación de Israel se dividió en dos reinos. Primero fueron las diez tribus del norte que continuaron llamándose Israel, y luego las dos tribus del sur que se llamaron Judá. Ambos reinos terminaron <u>teniendo</u> veinte reyes cada uno a lo largo de los años. Los veinte reyes de Israel en el norte eran reyes malos o impíos, mientras que algunos de los reyes de Judá eran malos y otros eran buenos.
 
-### ¡De todos esos reyes, el rey David fue el único rey al que Dios se refiere como un hombre conforme al corazón de Dios! Un hombre que había cometido asesinato, adulterio y que tenía varias esposas, ¿Cómo podría llamarse un hombre conforme al corazón de Dios? Al resaltar este aspecto de la vida de David, nuestro objetivo no es enfocarnos en David aquí, sino enfocarnos en la gracia y misericordia que Dios da.
+### ¡De todos esos reyes, el rey David fue el único rey al que Dios se refiere como un hombre conforme al corazón de Dios! Un hombre que había cometido asesinato, adulterio y que tenía varias esposas, ¿Cómo podría llamarse un hombre conforme al corazón de Dios? Al resaltar este aspecto de la vida de David, nuestro <u>objetivo</u> no es enfocarnos en David aquí, sino enfocarnos en la gracia y misericordia que Dios da.
 
-### ¿Recuerdas lo que compartimos sobre la gloria de Dios y el hecho de que consiste en Su gracia, misericordia y  bondad para con el hombre pecador? No fueron las acciones de David las que lo convirtieron en un hombre conforme al corazón de Dios; ¡era que David conocía y se gloriaba en estas verdades acerca de Dios! ¡La confianza y dependencia de David no estaba en sí mismo, sino únicamente en la gracia y la misericordia de Dios! Como dijimos en nuestra lección introductoria, David conocía a Dios de acuerdo a Sus caminos, considerando su justicia y misericordia. Ejemplos de esto son 2 Samuel 12:15-22, David suplicando a Dios que perdone a su hijo que tuvo con Betsabé; 1 Samuel 21:16, Los hombres de David comen el pan santo de la mesa de los panes de la proposición.
+### ¿Recuerdas lo que compartimos sobre la gloria de Dios y el hecho de que consiste en Su gracia, misericordia y  bondad para con el hombre pecador? No fueron las acciones de David las que lo convirtieron en un hombre conforme al corazón de Dios; ¡era que David conocía y se gloriaba en estas verdades acerca de Dios! ¡La confianza y dependencia de David no estaba en sí mismo, sino únicamente en la gracia y la misericordia de Dios! Como dijimos en <u>nuestra</u> lección introductoria, David conocía a Dios de acuerdo a Sus caminos, considerando su justicia y misericordia. Ejemplos de esto son 2 Samuel 12:15-22, David suplicando a Dios que perdone a su hijo que tuvo con Betsabé; 1 Samuel 21:16, Los hombres de David comen el pan santo de la mesa de los panes de la proposición.
 
-### En un esfuerzo por aprender más sobre el corazón de Dios, es interesante comparar estos relatos registrados del pecado de David con los de los israelitas que ya hemos visto, primero en la frontera de Canaán y luego con la nueva generación después de la muerte de Josué.
+### En un esfuerzo por aprender más sobre el corazón de Dios, es interesante <u>comparar</u> estos relatos registrados del pecado de David con los de los israelitas que ya hemos visto, primero en la frontera de Canaán y luego con la nueva generación después de la muerte de Josué.
 
-### Teniendo en cuenta el hecho de Génesis 8:21 y Efesios 2 (nacidos por naturaleza hijos de ira), aparte de la obra terminada de Cristo, el hombre NO tiene capacidad alguna para dejar de pecar y es bastante claro ver que Dios lo trata en consecuencia. Dios desea que todos los hombres sean salvos y cambien de mente en relación a lo que están confiando, y se ha revelado claramente a toda la creación su gloria y poder.
+### Teniendo en cuenta el hecho de Génesis 8:21 y Efesios 2 (nacidos por naturaleza hijos de ira), aparte de la obra terminada de Cristo, el hombre NO tiene capacidad alguna para dejar de pecar y es bastante claro ver que Dios lo trata en consecuencia. Dios desea que todos los hombres sean <u>salvos</u> y cambien de mente en relación a lo que están confiando, y se ha revelado claramente a toda la creación su gloria y poder.
 
 ## Preguntas de revisión
 
@@ -4164,117 +4138,117 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ## Introducción
 
-### Con cada lección que documenta diferentes historias o aspectos de la interacción de Dios con Israel, debemos seguir recordándonos el hecho del plan eterno de redención de Dios que ha estado en Su corazón desde la eternidad pasada (2 Timoteo 1:9; 1 Pedro 1:18-21; Apocalipsis 13:8). Es este plan el que nos ayuda a darnos la perspectiva y el entendimiento adecuados para todo lo que Dios hace. En primer lugar, nos ayuda a ver y reconocer el esfuerzo extremo que Dios pone en buscar rescatar a la humanidad. Una de las cosas que realmente se ha destacado con respecto a la revelación de Dios de sí mismo a través del Antiguo Testamento hasta ahora ha sido cómo Dios una y otra vez ofrece gracia y liberación a las personas.
+### Con cada lección que documenta diferentes historias o aspectos de la interacción de Dios con Israel, debemos seguir recordándonos el hecho del plan eterno de redención de Dios que ha estado en Su corazón desde la eternidad pasada (2 Timoteo 1:9; 1 Pedro 1:18-21; Apocalipsis 13:8). Es este plan el que nos ayuda a darnos la perspectiva y el entendimiento adecuados para todo lo que Dios hace. En primer lugar, nos ayuda a ver y reconocer el esfuerzo extremo que Dios pone en <u>buscar</u> rescatar a la humanidad. Una de las cosas que realmente se ha destacado con respecto a la revelación de Dios de sí mismo a través del Antiguo Testamento hasta ahora ha sido cómo Dios una y otra vez ofrece gracia y liberación a las personas.
 
-### En lugar de castigar inmediatamente al hombre, Dios advierte constantemente a la humanidad de las consecuencias de no creerle. Dios ama a todas las personas y desea que nadie perezca. Desde la caída en Génesis 3, Dios ha comunicado fiel y consistentemente Su promesa del Libertador venidero que cumplirá Su plan eterno de redención. A lo largo del camino, Él ha llegado fielmente a grandes extremos para revelarse a sí mismo y quién es Él para permitir que las personas crean en Sus promesas.
+### En lugar de castigar inmediatamente al hombre, Dios advierte constantemente a la humanidad de las consecuencias de no creerle. Dios ama a todas las personas y desea que nadie perezca. Desde la <u>caída</u> en Génesis 3, Dios ha comunicado fiel y consistentemente Su promesa del Libertador venidero que cumplirá Su plan eterno de redención. A lo largo del camino, Él ha llegado fielmente a grandes extremos para revelarse a sí mismo y quién es Él para permitir que las personas crean en Sus promesas.
 
 ## Dios desea comunicarse con las personas.
 
-### Desde el principio del mundo, Dios se ha comunicado fielmente con las personas. Esta verdad revela una serie de cosas que son verdaderas para Dios, pero que también son ciertas para nosotros. Primero está el hecho del amor de Dios. Dios ES amor y creó a la humanidad para ser un objeto de Su amor. En segundo lugar, esta es la razón por la que eligió crear a la humanidad con mente, voluntad y emociones. Podría habernos programado para obedecer como robots.
+### Desde el principio del mundo, Dios se ha comunicado fielmente con las personas. Esta verdad revela una serie de cosas que son verdaderas para Dios, pero que también son ciertas para nosotros. Primero está el hecho del <u>amor</u> de Dios. Dios ES amor y creó a la humanidad para ser un objeto de Su amor. En segundo lugar, esta es la razón por la que eligió crear a la humanidad con mente, voluntad y emociones. Podría habernos programado para obedecer como robots.
 
-### Pero Él tiene que ver con las relaciones y nos creó con la capacidad de ver, oír y recibir Sus comunicaciones y revelaciones sobre Él y la verdad para que podamos responder a Su amor y gracia. La fidelidad y la comunicación constante con la humanidad es una de las principales cosas que realmente lo separa de los dioses de todas las demás religiones. ¡Solo Dios está verdaderamente vivo, y solo ÉL es la fuente de toda verdad!
+### Pero Él tiene que ver con las relaciones y nos creó con la capacidad de ver, oír y recibir Sus comunicaciones y revelaciones sobre Él y la verdad para que podamos responder a Su amor y gracia. La fidelidad y la comunicación <u>constante</u> con la humanidad es una de las principales cosas que realmente lo separa de los dioses de todas las demás religiones. ¡Solo Dios está verdaderamente vivo, y solo ÉL es la fuente de toda verdad!
 
-### La comunicación fiel y constante de Dios con la humanidad es una prueba continua de que Su evaluación de la humanidad es verdadera, que cada pensamiento e intención del corazón del hombre es solo malo desde la infancia. Si Dios no preservara la verdad y nos la comunicara fielmente, NADIE llegaría a conocerla o a Él por sí mismo. ¡Muestra que cada aspecto de la redención y todo lo que está incluido en ella es TODO de Dios! Algunos ejemplos que ya hemos visto de la fidelidad de Dios para comunicar la verdad directamente con la humanidad son Adán y Eva, Caín, Noé, Abraham, Isaac y Jacob, Moisés, cuando dio la ley en el Monte Sinaí. Hay otros ejemplos de Él hablando la verdad con la gente a través de un mensajero (Noé, Moisés, Samuel).
+### La comunicación fiel y constante de Dios con la humanidad es una prueba continua de que Su evaluación de la humanidad es verdadera, que cada pensamiento e intención del corazón del hombre es solo malo desde la infancia. Si Dios no preservara la verdad y nos la comunicara fielmente, NADIE llegaría a conocerla o a Él por sí mismo. ¡Muestra que cada aspecto de la redención y todo lo que está incluido en ella es TODO de Dios! Algunos ejemplos que ya hemos visto de la <u>fidelidad</u> de Dios para comunicar la verdad directamente con la humanidad son Adán y Eva, Caín, Noé, Abraham, Isaac y Jacob, Moisés, cuando dio la ley en el Monte Sinaí. Hay otros ejemplos de Él hablando la verdad con la gente a través de un mensajero (Noé, Moisés, Samuel).
 
-### Más adelante en la historia de Israel, Dios continuó hablando fielmente a Israel, Judá y algunas naciones circundantes a través de Sus profetas. No tenemos tiempo en esta clase para repasar a cada profeta en detalle, pero nuestro propósito aquí es verlos a todos como un testimonio del amor de Dios por Su pueblo y Su profundo deseo, que SIMPLEMENTE confíen en Él. El mensaje de Dios una y otra vez fue ¿Le crees a Dios? ¿Confiarás en Él para satisfacer todas tus necesidades? ¿Le permitirás seguir llevándote en alas de águila?
+### Más adelante en la historia de Israel, Dios continuó hablando fielmente a Israel, Judá y algunas naciones circundantes a través de Sus profetas. No tenemos tiempo en esta clase para repasar a cada profeta en detalle, pero nuestro propósito aquí es verlos a todos como un testimonio del amor de Dios por Su pueblo y Su profundo deseo, que SIMPLEMENTE confíen en Él. El mensaje de Dios una y otra vez fue ¿Le crees a Dios? ¿Confiarás en Él para <u>satisfacer</u> todas tus necesidades? ¿Le permitirás seguir llevándote en alas de águila?
 
-### Israel siempre se estaba alejando de Dios y atribuyendo Su gloria a los dioses falsos de las naciones que los rodeaban. En consecuencia Dios envío a diferentes profetas advertencias de juicios venideros en relación con el pacto establecido.
+### Israel siempre se estaba alejando de Dios y atribuyendo Su gloria a los dioses <u>falsos</u> de las naciones que los rodeaban. En consecuencia Dios envío a diferentes profetas advertencias de juicios venideros en relación con el pacto establecido.
 
-### Es como el padre de un niño extremadamente rebelde y obstinado. Mezclado con las afirmaciones de amor y aceptación. Habrá muchas más comunicaciones de advertencias de lo que sucederá si no obedecen. También hubo otros ejemplos de la gracia de Dios que se extendió a los pueblos de otras naciones, como Jonás.
+### Es como el padre de un niño extremadamente rebelde y obstinado. Mezclado con las afirmaciones de amor y aceptación. Habrá muchas más comunicaciones de advertencias de lo que sucederá si no obedecen. También hubo otros ejemplos de la gracia de Dios que se <u>extendió</u> a los pueblos de otras naciones, como Jonás.
 
-### Dios le dijo a Jonás que fuera a Nínive (una ciudad terrible y pecadora) para advertirles del juicio venidero. Los israelitas odiaban a los asirios y Jonás no quería tener nada que ver con ellos, mucho menos rescatarlos del juicio, así que se subió a un barco que se dirigía en la dirección opuesta. Dios orquestó las circunstancias que hicieron que los hombres en el barco arrojaran a Jonás por la borda y Dios había designado un pez grande para tragarse a Jonás entero.
+### Dios le dijo a Jonás que fuera a Nínive (una ciudad terrible y pecadora) para advertirles del juicio venidero. Los israelitas odiaban a los asirios y Jonás no quería tener nada que ver con ellos, mucho menos rescatarlos del juicio, así que se subió a un <u>barco</u> que se dirigía en la dirección opuesta. Dios orquestó las circunstancias que hicieron que los hombres en el barco arrojaran a Jonás por la borda y Dios había designado un pez grande para tragarse a Jonás entero.
 
-### Dentro del vientre del pez, Jonás entendió que la salvación es del señor solo él puede salvar a todos los pecadores, incluyéndole. Dios hizo que el pez regurgitara a Jonás en la playa y nuevamente le ordenó que fuera a Nínive. Jonás obedece esta vez, aunque muy a regañadientes, va y da la advertencia, y toda la ciudad se arrepiente.
+### Dentro del vientre del pez, Jonás entendió que la salvación es del señor solo él puede salvar a todos los pecadores, incluyéndole. Dios hizo que el pez regurgitara a Jonás en la playa y nuevamente le ordenó que fuera a Nínive. Jonás <u>obedece</u> esta vez, aunque muy a regañadientes, va y da la advertencia, y toda la ciudad se arrepiente.
 
-### Jonás entonces está molesto porque sabía que Dios sería misericordioso con los ninivitas y no los juzgaría si se arrepentían (cambiaban de mente), y efectivamente eso fue lo que sucedió.
+### Jonás entonces está molesto porque sabía que Dios sería misericordioso con los <u>ninivitas</u> y no los juzgaría si se arrepentían (cambiaban de mente), y efectivamente eso fue lo que sucedió.
 
 ### Lea Jonás 3:10-4:4.
 
-### Entonces Jonás sale de la ciudad a una colina para ver qué será de la ciudad y se hace un refugio. Dios había preparado una planta que proporcionaba una gran sombra para Jonás y Jonás disfrutó mucho de la planta. Pero tan rápido como creció, Dios también había preparado un gusano para matarlo y un viento cálido del este para soplar hasta que Jonás se desmayó, se desanimó y se enojó hasta el punto de desear la muerte.
+### Entonces Jonás sale de la ciudad a una colina para ver qué será de la ciudad y se hace un refugio. Dios había preparado una planta que proporcionaba una gran sombra para Jonás y Jonás disfrutó mucho de la planta. Pero tan rápido como creció, Dios también había preparado un <u>gusano</u> para matar la planta y un viento cálido del este para soplar hasta que Jonás se desmayó, se desanimó y se enojó hasta el punto de desear la muerte.
 
 ### Lea Jonás 4:8-11.
 
-### ¡Este pequeño relato proporciona una imagen asombrosa de cómo son realmente las cosas! La razón principal por la que los asirios eran tan odiados por Israel era por lo despiadadamente malvados que eran. Tan malvados, que Jonás no podía comprender la idea de que Dios fuera misericordioso con ellos. 
+### ¡Este pequeño relato proporciona una <u>imagen</u> asombrosa de cómo son realmente las cosas! La razón principal por la que los asirios eran tan odiados por Israel era por lo despiadadamente malvados que eran. Tan malvados, que Jonás no podía comprender la idea de que Dios fuera misericordioso con ellos. 
 
-### Aparte de la obra terminada de Cristo, ¡cada uno de nosotros somos ninivitas! Puede que no estemos cometiendo los mismos pecados que ellos estaban cometiendo, pero cada uno de nosotros nació con la misma naturaleza pecaminosa que ellos e igualmente separados y tan enemigos de Dios como ellos.
+### Aparte de la obra terminada de Cristo, ¡cada uno de nosotros somos ninivitas! Puede que no estemos cometiendo los mismos pecados que ellos estaban cometiendo, pero cada uno de nosotros nació con la misma <u>naturaleza</u> pecaminosa que ellos e igualmente separados y tan enemigos de Dios como ellos.
 
-### Sin embargo, observe cómo Dios los describe. No los describe como excesivamente pecaminosos; ¡Los describe como tan perdidos, confundidos y en la oscuridad que ni siquiera pueden discernir entre su mano izquierda y su mano derecha!
+### Sin embargo, observe cómo Dios los describe. No los describe como excesivamente pecaminosos; ¡Los describe como tan perdidos, confundidos y en la oscuridad que ni siquiera pueden discernir entre su mano izquierda y su <u>mano</u> derecha!
 
-### La segunda cosa que destaca este relato es la obra de Dios a salvar al pecador totalmente perdido y no la obra de los perdidos que intentaban salvarse. Fue Dios el iniciador de advertir a los ninivitas sobre el juicio venidero, dándoles la oportunidad a que puedan arrepentirse.
+### La segunda cosa que destaca este relato es la obra de Dios a salvar al pecador totalmente perdido y no la obra de los perdidos que intentaban salvarse. Fue Dios el iniciador de advertir a los ninivitas sobre el juicio venidero, dándoles la oportunidad a que <u>puedan</u> arrepentirse.
 
-### Dios eligió a Jonás para que fuera él quien les llevara el mensaje. No era Jonás quien quería ir a ellos, sino que era Dios quien quería que Jonás fuera. Notarás aquí que Jonás ni siquiera quería ir a estas personas, de hecho los odiaba y quería que fueran juzgados. No quería que Dios fuera misericordioso con ellos. Dios en realidad tuvo que FORZAR a Jonás a ir y finalmente fue muy a regañadientes. Finalmente, al verse obligado a irse, Jonás proclamó la advertencia y toda la ciudad se arrepiente.
+### Dios eligió a Jonás para que fuera él quien les llevara el mensaje. No era Jonás quien quería ir a ellos, sino que era Dios quien quería que Jonás fuera. Notarás aquí que Jonás ni siquiera quería ir a estas personas, de hecho los odiaba y quería que <u>fueran</u> juzgados. No quería que Dios fuera misericordioso con ellos. Dios en realidad tuvo que FORZAR a Jonás a ir y finalmente fue muy a regañadientes. Finalmente, al verse obligado a irse, Jonás proclamó la advertencia y toda la ciudad se arrepiente.
 
-### Como cristianos, estamos muy inclinados a centrarnos en nosotros mismos, en nuestros esfuerzos, en nuestras oraciones, nos centramos en nuestra propia justicia. Sin embargo no podemos ver la misericordia que Dios tiene para con los gentiles que se encuentran totalmente perdidos sin distinguir la derecha de su izquierda, de hecho todos nos encontrábamos en la misma condición de perdidos que ellos.
+### Como cristianos, estamos muy inclinados a centrarnos en nosotros mismos, en nuestros esfuerzos, en nuestras oraciones, nos centramos en nuestra propia justicia. Sin embargo no podemos ver la misericordia que Dios tiene para con los gentiles que se encuentran totalmente perdidos sin <u>distinguir</u> la derecha de su izquierda, de hecho todos nos encontrábamos en la misma condición de perdidos que ellos.
 
-### La preocupación por los perdidos no vino del hombre, ni siquiera de los creyentes. Esto siempre ha estado en el corazón de Dios antes de la  fundación del mundo, y esa es la razón por la que envió a su hijo Jesucristo a salvar a todos los perdidos, basado en su amor y misericordia.
+### La preocupación por los perdidos no vino del hombre, ni siquiera de los creyentes. Esto siempre ha estado en el corazón de Dios antes de la  fundación del mundo, y esa es la razón por la que envió a su hijo Jesucristo a salvar a todos los perdidos, <u>basado</u> en su amor y misericordia.
 
-### Tal como lo retrata este relato con Jonás, ¡realmente TODO ES ASÍ por Él y solo de Él!
+### Tal como lo retrata este <u>relato</u> con Jonás, ¡realmente TODO ES ASÍ por Él y solo de Él!
 
 ## Israel se negó a creer en el mensaje de Dios dio a los profetas.
 
-### Volviendo a la interacción de Dios con la nación de Israel, en su mayor parte, Israel como nación se negó a prestar atención a las muchas advertencias consistentes que Dios les dio en su gracia a través de los profetas. De hecho, no solo rechazaron los mensajes de los profetas, sino que también persiguieron y mataron a varios de ellos porque no les gustó su mensaje.
+### Volviendo a la interacción de Dios con la nación de Israel, en su mayor parte, Israel como nación se negó a prestar atención a las muchas advertencias consistentes que Dios les dio en su gracia a través de los <u>profetas</u>. De hecho, no solo rechazaron los mensajes de los profetas, sino que también persiguieron y mataron a varios de ellos porque no les gustó su mensaje.
 
-### En lugar de creer en el mensaje, prestar atención a las advertencias y regresar a Dios, la mayoría de Israel continuó adorando ídolos falsos. La mayoría de ellos continuaron yendo al templo para ofrecer sacrificios, una imagen física que Dios les había dado para recordarles continuamente al Libertador venidero; pero tanto los líderes de Israel como el pueblo mismo comenzaron a pervertir los servicios y los rituales que se llevaban a cabo en el templo.
+### En lugar de creer en el mensaje, prestar atención a las advertencias y regresar a Dios, la mayoría de Israel continuó adorando ídolos falsos. La mayoría de ellos continuaron yendo al templo para ofrecer sacrificios, una imagen <u>física</u> que Dios les había dado para recordarles continuamente al Libertador venidero; pero tanto los líderes de Israel como el pueblo mismo comenzaron a pervertir los servicios y los rituales que se llevaban a cabo en el templo.
 
-### Cuanto más tiempo pasaba, peor se volvían, hasta que incluso la mayoría de los sacerdotes y líderes de Israel se habían convertido en hombres malvados que realmente no creían en la palabra de Dios.
+### Cuanto más tiempo pasaba, peor se volvían, hasta que incluso la mayoría de los sacerdotes y líderes de Israel se habían convertido en <u>hombres</u> malvados que realmente no creían en la palabra de Dios.
 
 ### Lee Isaías 29:13.
 
-### También en ese momento, había muchos falsos profetas en Israel. Sin embargo, el verdadero problema no era con los falsos profetas y las mentiras que proclamaban como verdad de Dios. El verdadero problema era que debido a que la mayoría de la gente ya se había alejado de Dios, no tenían forma de prevenir el engaño que venía a través de los falsos profetas. No querían la verdad; Querían creer lo que querían creer y se desviaron.
+### También en ese momento, había muchos falsos profetas en Israel. Sin embargo, el verdadero problema no era con los falsos profetas y las mentiras que proclamaban como verdad de Dios. El verdadero problema era que debido a que la mayoría de la gente ya se había alejado de Dios, no tenían <u>forma</u> de prevenir el engaño que venía a través de los falsos profetas. No querían la verdad; Querían creer lo que querían creer y se desviaron.
 
 ## Dios juzgó a Israel y a Judá
 
-### Como hemos visto una y otra vez a través del Antiguo Testamento, Dios es extremadamente paciente y sufrido. Él no castiga inmediatamente a los pecadores. Algunos ejemplos en los que hemos visto esto sobre Dios:
+### Como hemos visto una y otra vez a través del Antiguo Testamento, Dios es extremadamente paciente y <u>sufrido</u>. Él no castiga inmediatamente a los pecadores. Algunos ejemplos en los que hemos visto esto sobre Dios:
 
-#### Caín
+#### Caín después de <u>asesinar</u> a su hermano Abel.
 
-#### Esperó 120 años para que la gente de los días de Noé se arrepintiera.
+#### Esperó 120 años para que la <u>gente</u> de los días de Noé se arrepintiera.
 
-#### Esperó a que la gente de Sodoma y Gomorra se arrepintiera antes de juzgarlos.
+#### Esperó a que la gente de Sodoma y Gomorra se arrepintiera <u>antes</u> de juzgarlos.
 
-#### Los egipcios y las diez plagas
+#### Los <u>egipcios</u> y las diez plagas.
 
-#### Los israelitas desde el momento en que salieron de Egipto hasta que entraron en Canaán.
+#### Los israelitas desde el momento en que <u>salieron</u> de Egipto hasta que entraron en Canaán.
 
-#### De la misma manera, Dios fue extremadamente paciente y compasivo con Israel y Judá. Durante muchos cientos de años, envió a Sus profetas para decirles que estaba enojado por su rechazo y que serían castigados si no se arrepentían.
+#### De la misma manera, Dios fue extremadamente paciente y <u>compasivo</u> con Israel y Judá. Durante muchos cientos de años, envió a Sus profetas para decirles que estaba enojado por su rechazo y que serían castigados si no se arrepentían.
 
-### Dios, en Su soberanía, eligió llevar a buen término primero el juicio de Israel, el Reino del Norte. Había enviado a Isaías a profetizar y advertirles que Dios estaba a punto de enviar a los asirios a luchar y capturarlos si no se arrepentían. Jeremías 5:1-4, 9-19
+### Dios, en Su soberanía, eligió llevar a <u>buen</u> término primero el juicio de Israel, el Reino del Norte. Había enviado a Isaías a profetizar y advertirles que Dios estaba a punto de enviar a los asirios a luchar y capturarlos si no se arrepentían. Jeremías 5:1-4, 9-19
 
-### Como puede imaginar, el Reino del Norte optó por negarse a creer esta advertencia y la ignoró. No creían que Dios permitiría que sus enemigos se apoderaran de su tierra. Sin embargo, un día alrededor del año 722 a.C., después de un asedio de tres años a la capital, Samaria, el Reino del Norte de Israel quedó bajo el control completo de los asirios. Miles de israelitas fueron llevados cautivos a Asiria. Dios había advertido que esto iba a suceder, pero se negaron a creer en sus advertencias. Isaías 10:5-6
+### Como puede imaginar, el Reino del Norte optó por negarse a creer esta advertencia y la ignoró. No creían que Dios permitiría que sus <u>enemigos</u> se apoderaran de su tierra. Sin embargo, un día alrededor del año 722 a.C., después de un asedio de tres años a la capital, Samaria, el Reino del Norte de Israel quedó bajo el control completo de los asirios. Miles de israelitas fueron llevados cautivos a Asiria. Dios había advertido que esto iba a suceder, pero se negaron a creer en sus advertencias. Isaías 10:5-6
 
-### Los asirios luego trajeron personas de otros países para establecerse en el área norte de Israel. Muchas de esas personas no conocían al Dios verdadero y viviente y eran idólatras. 2 Reyes 17:5-18
+### Los asirios luego trajeron personas de otros países para establecerse en el área norte de Israel. Muchas de esas personas no <u>conocían</u> al Dios verdadero y viviente y eran idólatras. 2 Reyes 17:5-18
 
-### Muchos de los israelitas que permanecieron en su tierra comenzaron a casarse con estos Extranjeros y sus descendientes más tarde se conocieron como los samaritanos, tenían mezclas culturales de israelitas y paganos.
+### Muchos de los israelitas que permanecieron en su tierra comenzaron a <u>casarse</u> con estos Extranjeros y sus descendientes más tarde se conocieron como los samaritanos, tenían mezclas culturales de israelitas y paganos.
 
-### Como nota al margen, estos samaritanos afirmaban adorar al mismo Dios que los judíos, aunque no aceptaban todo el Antiguo Testamento. Afirmaban seguir el Pentateuco, pero creían que el monte Gerizim en Samaria era el lugar correcto para adorar a Dios y no el templo en Jerusalén. Por lo tanto, construyeron su propio templo.
+### Como nota al margen, estos samaritanos afirmaban adorar al mismo Dios que los judíos, aunque no aceptaban todo el Antiguo Testamento. Afirmaban seguir el Pentateuco, pero creían que el monte Gerizim en Samaria era el lugar correcto para adorar a Dios y no el templo en Jerusalén. Por lo tanto, construyeron su <u>propio</u> templo.
 
-### Dios también envió profetas directamente al Reino del Sur de Judá para advertirles también. A través del profeta Jeremías, Dios advirtió a Judá que iba a enviar a los babilonios a conquistarlos si no se arrepentían. Al igual que el Reino del Norte, Judá se negó a creer este mensaje y arrepentirse; fiel a su estilo, cuando llegó el momento adecuado, Dios cumplió su promesa y envió a los babilonios a conquistar Judá. Derribaron los muros de Jerusalén y derribaron y quemaron totalmente el templo de Dios.
+### Dios también envió profetas directamente al Reino del Sur de Judá para advertirles también. A través del profeta Jeremías, Dios advirtió a Judá que iba a enviar a los babilonios a conquistarlos si no se arrepentían. Al igual que el Reino del Norte, Judá se negó a <u>creer</u> este mensaje y arrepentirse; fiel a su estilo, cuando llegó el momento adecuado, Dios cumplió su promesa y envió a los babilonios a conquistar Judá. Derribaron los muros de Jerusalén y derribaron y quemaron totalmente el templo de Dios.
 
 ### Lea 2 Crónicas 36:15-21; Jeremías 52:1-30 (también 2 Reyes 25:1-12).
 
 ## Algunos de los exiliados regresaron a Judá.
 
-### Todas estas cosas sucedieron exactamente como Dios había prometido que sucederían. Luego, después de setenta años de exilio, Dios devolvió a muchos de su pueblo a su propia tierra. Dios les permitió reconstruir Jerusalén, su templo y sus muros, y la tierra de Israel fue repoblada una vez más por Israel. Esto fue más o menos en el momento en que los israelitas comenzaron a ser conocidos como judíos, lo que probablemente se derivó de Judá.
+### Todas estas cosas sucedieron exactamente como Dios había prometido que sucederían. Luego, después de setenta años de exilio, Dios devolvió a muchos de su pueblo a su propia tierra. Dios les permitió reconstruir Jerusalén, su templo y sus <u>muros</u>, y la tierra de Israel fue repoblada una vez más por Israel. Esto fue más o menos en el momento en que los israelitas comenzaron a ser conocidos como judíos, lo que probablemente se derivó de Judá.
 
 ## Dios permitió que otras naciones conquistaran Israel.
 
-### Aunque estos judíos habían experimentado la fidelidad de Dios para guiarlos de regreso a su tierra natal, la mayoría de ellos continuaron NO caminando fielmente con Él. Por esta razón, Dios continuó permitiendo que los enemigos de Israel en varias ocasiones los conquistaran, estas eran consecuencias de la desobediencia del pacto en el cual se encontraban.
+### Aunque estos judíos habían experimentado la fidelidad de Dios para guiarlos de regreso a su tierra natal, la mayoría de ellos continuaron NO caminando fielmente con Él. Por esta razón, Dios continuó permitiendo que los enemigos de Israel en varias ocasiones los conquistaran, estas eran consecuencias de la desobediencia del <u>pacto</u> en el cual se encontraban.
 
-### Grecia creció en el poder alrededor del 400 a.C. e Israel quedó bajo el gobierno de Alejandro Magno alrededor del 330 a.C. Durante este tiempo, el griego se convirtió en un segundo idioma de muchos judíos.
+### Grecia creció en el poder alrededor del 400 a.C. e Israel quedó <u>bajo</u> el gobierno de Alejandro Magno alrededor del 330 a.C. Durante este tiempo, el griego se convirtió en un segundo idioma de muchos judíos.
 
-### Luego, llegaron los romanos. Los romanos conquistaron a los griegos y, alrededor del año 63 a.C., Israel quedó bajo el dominio romano. Los judíos tenían que pagar impuestos a los gobernantes romanos, y si algún judío desobedecía el dominio romano, era castigado.
+### Luego, llegaron los romanos. Los romanos conquistaron a los griegos y, alrededor del año 63 a.C., Israel quedó bajo el dominio romano. Los judíos tenían que pagar impuestos a los gobernantes romanos, y si algún judío desobedecía el <u>dominio</u> romano, era castigado.
 
-### Los romanos adoraban a muchos dioses falsos y adoraban a César. Sin embargo, permitieron que los judíos continuaran adorando a Dios. Durante estos tiempos, los judíos construyeron sinagogas en todas las ciudades y en casi todos los pueblos en los que vivían. Cada sábado en estas sinagogas, los líderes religiosos judíos leían y enseñaban la ley de Dios y los escritos de los profetas. Sin embargo, las explicaciones de los rabinos a menudo eran incorrectas porque interpretaban las cosas a la luz de las tradiciones judías en lugar de en el contexto del resto de las escrituras.
+### Los romanos <u>adoraban</u> a muchos dioses falsos y adoraban a César. Sin embargo, permitieron que los judíos continuaran adorando a Dios. Durante estos tiempos, los judíos construyeron sinagogas en todas las ciudades y en casi todos los pueblos en los que vivían. Cada sábado en estas sinagogas, los líderes religiosos judíos leían y enseñaban la ley de Dios y los escritos de los profetas. Sin embargo, las explicaciones de los rabinos a menudo eran incorrectas porque interpretaban las cosas a la luz de las tradiciones judías en lugar de en el contexto del resto de las escrituras.
 
 ### Lea Mateo 15:3-9.
 
 ## El escenario está listo para el Libertador venidero.
 
-### La nación de Israel fue elegida por Dios para ser Su pueblo especial a través del cual Él traería al Libertador prometido al mundo, pero mire en qué desastre se había convertido la nación de Israel en términos de su espiritualidad y relación con Dios.
+### La nación de Israel fue elegida por Dios para ser Su pueblo <u>especial</u> a través del cual Él traería al Libertador prometido al mundo, pero mire en qué desastre se había convertido la nación de Israel en términos de su espiritualidad y relación con Dios.
 
-### El último profeta del Antiguo Testamento que Dios levanta es Malaquías en el año 400 a.C. En ese momento, muchos en Israel probablemente estaban muy confundidos acerca de lo que era cierto acerca de Dios y su relación de pacto con Él. Malaquías comienza en 1:2 con el mensaje de Dios: ¡Siempre te he amado! En el medio hay alguna otra instrucción que les da, y luego termina en el capítulo 4, versículo 2, con un último recordatorio de la promesa de Dios de traer al Libertador.
+### El último profeta del Antiguo Testamento que Dios levanta es Malaquías en el año 400 a.C. En ese momento, muchos en Israel probablemente estaban muy confundidos acerca de lo que era cierto acerca de Dios y su relación de pacto con Él. Malaquías comienza en 1:2 con el <u>mensaje</u> de Dios: ¡Siempre te he amado! En el medio hay alguna otra instrucción que les da, y luego termina en el capítulo 4, versículo 2, con un último recordatorio de la promesa de Dios de traer al Libertador.
 
-### ¡Y luego Dios se queda en silencio durante 400 años! Malaquías 4:2
+### ¡Y luego Dios se queda en silencio durante 400 <u>años</u>! Malaquías 4:2
 
 ## Preguntas de revisión
 
@@ -4294,103 +4268,103 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ## Dios desea comunicarse con las personas.
 
-### Como todos ustedes saben, a través de la historia de Israel en el Antiguo Testamento, Dios levantó profetas en varias ocasiones para comunicar lo que Él quería que Israel supiera. Como mencionamos en la última lección, Malaquías fue el último de los profetas de Dios en el Antiguo Testamento y Dios lo usó para escribir el último libro del Antiguo Testamento. Dios usó a Malaquías para recordarles a los judíos que el Libertador prometido por Dios vendría pronto. También les dijo que, antes de la llegada del Libertador, Dios enviaría otro profeta. Este profeta enseñaría a los judíos la preparación para la llegada del Libertador.
+### Como todos ustedes saben, a través de la historia de Israel en el Antiguo Testamento, Dios levantó profetas en <u>varias</u> ocasiones para comunicar lo que Él quería que Israel supiera. Como mencionamos en la última lección, Malaquías fue el último de los profetas de Dios en el Antiguo Testamento y Dios lo usó para escribir el último libro del Antiguo Testamento. Dios usó a Malaquías para recordarles a los judíos que el Libertador prometido por Dios vendría pronto. También les dijo que, antes de la llegada del Libertador, Dios enviaría otro profeta. Este profeta enseñaría a los judíos la preparación para la llegada del Libertador.
 
 ### Lee Malaquías 3:1.
 
-### Después de la muerte de Malaquías, Dios no envió otro profeta durante 400 años. Estos se conocen como los años silenciosos porque Dios no habló a través de un profeta durante ese tiempo. Sin embargo, aunque Dios no envió ningún profeta durante 400 años, todavía estaba preparando el camino para la venida del Libertador:
+### Después de la muerte de Malaquías, Dios no envió otro profeta durante 400 años. Estos se conocen como los años silenciosos porque Dios no habló a través de un profeta durante ese tiempo. Sin embargo, aunque Dios no envió <u>ningún</u> profeta durante 400 años, todavía estaba preparando el camino para la venida del Libertador:
 
-### A través de los griegos, Dios hizo que un idioma fuera común a muchas partes del mundo.
+### A través de los griegos, Dios hizo que un <u>idioma</u> fuera común a muchas partes del mundo.
 
-### A través de los romanos, había unido ciudades y caminos distantes.
+### A través de los romanos, había unido <u>ciudades</u> y caminos distantes.
 
-### A través de los judíos que habían construido sinagogas en países extranjeros, se enseñaba el Antiguo Testamento con sus muchas promesas del Libertador.
+### A través de los judíos que habían construido sinagogas en países extranjeros, se enseñaba el Antiguo Testamento con sus <u>muchas</u> promesas del Libertador.
 
-### Durante los 400 años de silencio, Dios estaba preparando el escenario para la llegada del mesías esperado, desde antes de la fundación del mundo, Dios minuciosamente se estaba encargando de cada área de vida, política, cultural y económica para el cumplimiento de su plan eterno de redención en Cristo. Hechos 15:21
+### Durante los 400 años de silencio, Dios estaba preparando el escenario para la llegada del mesías esperado, desde antes de la fundación del mundo, Dios minuciosamente se estaba encargando de cada área de vida, política, cultural y económica para el cumplimiento de su <u>plan</u> eterno de redención en Cristo. Hechos 15:21
 
 ## Dios prometió que Zacarías y Elizabet tendrían un hijo.
 
-### El profeta que Malaquías profetizó, nacería pronto y su predicación y enseñanza sería para preparar la famosa llegada del libertador prometido. Debía ser como un heraldo que iba delante de un rey. Es interesante notar que los padres de este profeta (Juan) eran israelitas que creían en Dios y esperaban al Libertador.
+### El profeta que Malaquías profetizó, nacería pronto y su predicación y enseñanza <u>sería</u> para preparar la famosa llegada del libertador prometido. Debía ser como un heraldo que iba delante de un rey. Es interesante notar que los padres de este profeta (Juan) eran israelitas que creían en Dios y esperaban al Libertador.
 
-### Qué imagen tan asombrosa de la maravilla de la gracia de Dios. Aquí estaba Zacarías, un sacerdote fiel en la casa de Israel, quien ahora con su esposa Elizabet, habían llegado a una edad avanzada. Ella había sido estéril toda su vida y habían pasado mucho tiempo suplicando fielmente al Señor que les permitiera tener un hijo. Lucas 1:5-17
+### Qué imagen tan asombrosa de la maravilla de la gracia de Dios. Aquí estaba Zacarías, un sacerdote fiel en la casa de Israel, quien ahora con su esposa Elizabet, habían llegado a una edad avanzada. Ella había sido estéril toda su vida y habían pasado mucho tiempo suplicando fielmente al Señor que les permitiera <u>tener</u> un hijo. Lucas 1:5-17
 
-### A pesar de que Zacarías era un sacerdote fiel, tanto él como Elizabet seguían siendo humanos con una naturaleza pecaminosa y estoy seguro de que hubo momentos en los que realmente lucharon con el hecho de que Dios nunca les había permitido tener hijos. Dios no eligió registrar ninguna de esas luchas que pudieron haber experimentado a lo largo de los años; todo lo que dice es que eran de edad avanzada, que ambos eran justos ante Dios y sin mancha, y que Zacarías estaba cumpliendo fielmente con sus deberes en el templo como sacerdote cuando el ángel se le apareció.
+### A pesar de que Zacarías era un sacerdote fiel, tanto él como Elizabet seguían <u>siendo</u> humanos con una naturaleza pecaminosa y estoy seguro de que hubo momentos en los que realmente lucharon con el hecho de que Dios nunca les había permitido tener hijos. Dios no eligió registrar ninguna de esas luchas que pudieron haber experimentado a lo largo de los años; todo lo que dice es que eran de edad avanzada, que ambos eran justos ante Dios y sin mancha, y que Zacarías estaba cumpliendo fielmente con sus <u>deberes</u> en el templo como sacerdote cuando el ángel se le apareció.
 
-### Podríamos llegar a pensar que Dios escogió a Zacarías porque era fiel y justo sobre la casa de Israel, Sin embargo esto es simplemente una imagen de la gracia de Dios otorgada a un hombre temeroso de Dios que servía en la casa de Israel y esperaba con ansias el cumplimiento de la promesa del Libertador venidero.
+### Podríamos llegar a pensar que Dios escogió a Zacarías porque era fiel y justo sobre la casa de Israel, Sin embargo esto es simplemente una <u>imagen</u> de la gracia de Dios otorgada a un hombre temeroso de Dios que servía en la casa de Israel y esperaba con ansias el cumplimiento de la promesa del Libertador venidero.
 
-### En segundo lugar, Dios escogió una situación humanamente imposible, al igual que con Abraham y Sara, que eran de edad avanzada y para hacerlo mucho mas imposible ambas eran estériles. Sin embargo Dios tenía mucho más reservado para ellos que simplemente darles un hijo. Él iba a usarlos para traer al mundo al profeta más grande de todos (palabras de Jesús). ¡El que Dios mismo estaba enviando para preparar el camino al Señor, el Salvador del mundo!
+### En segundo lugar, Dios escogió una situación humanamente imposible, al igual que con Abraham y Sara, que eran de edad avanzada y para hacerlo mucho mas imposible ambas eran estériles. Sin embargo Dios tenía <u>mucho</u> más reservado para ellos que simplemente darles un hijo. Él iba a usarlos para traer al mundo al profeta más grande de todos (palabras de Jesús). ¡El que Dios mismo estaba enviando para preparar el camino al Señor, el Salvador del mundo!
 
-### Desde antes de la fundación de la tierra, Dios había realizado este plan eterno de redención, y ya estaba a punto de venir. Él había creado el universo y luego preparó el escenario para el cumplimiento de su venida y su plan de redención de toda la humanidad, ¡y el día y la hora finalmente había llegado!
+### Desde antes de la fundación de la tierra, Dios había realizado este plan eterno de redención, y ya estaba a punto de venir. Él había creado el universo y luego preparó el escenario para el cumplimiento de su venida y su plan de <u>redención</u> de toda la humanidad, ¡y el día y la hora finalmente había llegado!
 
-### En el curso de la realización de estos últimos detalles finales para que el Mesías fuera traído al mundo, Dios también bendijo a esta pareja de Israelitas que esperaban en el señor una respuesta a sus oraciones y también esperaban la venida del Mesías prometido. Puedes ver como Dios cumplió Su plan de una manera muy cercana al ser humano.
+### En el curso de la realización de estos <u>últimos</u> detalles finales para que el Mesías fuera traído al mundo, Dios también bendijo a esta pareja de Israelitas que esperaban en el señor una respuesta a sus oraciones y también esperaban la venida del Mesías prometido. Puedes ver como Dios cumplió Su plan de una manera muy cercana al ser humano.
 
-### ¿Te imaginas la respuesta de Zacarias? No solo se le apareció un ángel, sino que el ángel le dijo que iba a tener un hijo. ¡Y no solo un niño, sino el profeta prometido que vendría a preparar el camino para el Señor mismo! Finalmente, el tan esperado Libertador prometido estaba a punto de llegar y sería el hijo de Zacarías quien prepararía a Israel para su llegada.
+### ¿Te imaginas la respuesta de Zacarias? No solo se le apareció un ángel, sino que el ángel le dijo que iba a tener un hijo. ¡Y no solo un niño, sino el profeta prometido que vendría a preparar el camino para el Señor mismo! Finalmente, el tan esperado Libertador prometido estaba a punto de llegar y sería el <u>hijo</u> de Zacarías quien prepararía a Israel para su llegada.
 
-### Podemos ver claramente el panorama cercano y lejano del cumplimiento minucioso del Plan de redención de toda la humanidad llevándose a cabo.
+### Podemos ver claramente el panorama cercano y <u>lejano</u> del cumplimiento minucioso del Plan de redención de toda la humanidad llevándose a cabo.
 
 # Nacimiento de Juan (Lucas 1:18-25)
 
-### Por la respuesta que Zacarías le había dado al ángel en el versículo 18, había perdido la esperanza de que él y su esposa pudieran tener hijos. Sin embargo no se dio cuenta con quien estaba hablando y de quien era el mensaje que le estaba transmitiendo, debido a la incredulidad de creer el mensaje de Dios el ángel le anunció que estaría incapacitado de hablar hasta que todo esto suceda. 
+### Por la respuesta que Zacarías le había dado al ángel en el versículo 18, había perdido la esperanza de que él y su esposa pudieran tener hijos. Sin embargo no se dio cuenta con quien estaba hablando y de quien era el <u>mensaje</u> que le estaba transmitiendo, debido a la incredulidad de creer el mensaje de Dios el ángel le anunció que estaría incapacitado de hablar hasta que todo esto suceda. 
 
-### Dios se estaba mostrando a Zacarías, ¡ahora no podía hablar! Este evento no podría venir de hombre, sino de Dios mismo. Zacarías iría viendo que a pesar de su incredulidad este plan continuaría, porque no dependía de él, sino de Dios. 
+### Dios se estaba mostrando a Zacarías, ¡ahora no podía hablar! Este evento no podría venir de hombre, sino de Dios mismo. Zacarías iría viendo que a pesar de su incredulidad este plan continuaría, porque no <u>dependía</u> de él, sino de Dios. 
 
-### Este es nuevamente el corazón de Dios. Debido a que Él es amor y desea una relación íntima con nosotros por encima de todas las cosas, todo lo que hace y permite que entre en nuestras vidas es para ese propósito, incluso la disciplina.
+### Este es nuevamente el corazón de Dios. Debido a que Él es amor y desea una relación íntima con nosotros por encima de todas las cosas, todo lo que hace y permite que entre en nuestras vidas es para ese propósito, incluso la <u>disciplina</u>.
 
-### En segundo lugar, me encanta la respuesta de Elizabet en el versículo 25. Su enfoque estaba totalmente en sí misma y en el reproche que había soportado durante años. Todo lo que sabía era que Dios la estaba bendiciendo. Hebreos 12:3-6
+### En segundo lugar, me encanta la respuesta de Elizabet en el versículo 25. Su enfoque estaba totalmente en sí <u>misma</u> y en el reproche que había soportado durante años. Todo lo que sabía era que Dios la estaba bendiciendo. Hebreos 12:3-6
 
-### En ese momento, estaba más emocionada de que la gente ya no la viera como alguien maldecida por Dios, sino que por el hecho de que Dios finalmente estaba a punto de dar a luz al Libertador tan esperado.
+### En ese momento, estaba más emocionada de que la gente ya no la viera como alguien maldecida por Dios, sino que por el <u>hecho</u> de que Dios finalmente estaba a punto de dar a luz al Libertador tan esperado.
 
-### También es importante observar que el Señor no la corrige. Él simplemente le permite concentrarse en sí misma y sentirse bendecida, porque verdaderamente la estaba bendiciendo en el proceso de llevar a cabo y cumplir Su plan eterno de redención. Entonces, nació Juan
+### También es importante observar que el Señor no la corrige. Él simplemente le permite concentrarse en sí misma y <u>sentirse</u> bendecida, porque verdaderamente la estaba bendiciendo en el proceso de llevar a cabo y cumplir Su plan eterno de redención. Entonces, nació Juan
 
-### Una vez más vemos otra promesa de Dios fielmente cumplida. Y una vez más, lo lleva todo a cabo de una manera que ayuda a las personas a confiar en las promesas de Dios. Porque todo pensamiento e intención del corazón del hombre es solo malo desde la infancia. ¡Nacemos separados de Dios! Por lo tanto, sin Dios obrando de manera tan misericordiosa y amorosa con tal comprensión, el hombre nunca llegar a conocerlo. Lucas 1:57-66
+### Una vez más vemos otra promesa de Dios fielmente cumplida. Y una vez más, lo lleva todo a cabo de una manera que ayuda a las personas a confiar en las promesas de Dios. Porque todo pensamiento e intención del corazón del hombre es solo malo desde la infancia. ¡Nacemos separados de Dios! Por lo tanto, sin Dios <u>obrando</u> de manera tan misericordiosa y amorosa con tal comprensión, el hombre nunca llegar a conocerlo. Lucas 1:57-66
 
-### Dios había hecho tan evidente el hecho de su intervención divina con Zacarías y Elizabet que el temor se apoderó de todos los que vivían a su alrededor y estas cosas se discutieron en toda la región montañosa de Judea. Marcos 9:14-24
+### Dios había hecho tan evidente el hecho de su intervención divina con Zacarías y Elizabet que el temor se apoderó de todos los que <u>vivían</u> a su alrededor y estas cosas se discutieron en toda la región montañosa de Judea. Marcos 9:14-24
 
-### Luego, el versículo 66 dice que todos los que oyeron estas cosas las guardaron en sus corazones y la mano del Señor estaba con él. Dios continuó haciendo evidente a lo largo de la vida de Juan que Dios tenía un uso especial para él. Personalmente, creo que esto fue para que cuando llegara el momento de que Dios usara a Juan, no hubiera duda en la mente de las personas de que su mensaje y ministerio eran verdaderamente de Dios.
+### Luego, el versículo 66 dice que todos los que oyeron estas cosas las guardaron en sus corazones y la mano del Señor estaba con él. Dios continuó haciendo evidente a lo largo de la vida de Juan que Dios tenía un uso especial para él. Personalmente, creo que esto fue para que <u>cuando</u> llegara el momento de que Dios usara a Juan, no hubiera duda en la mente de las personas de que su mensaje y ministerio eran verdaderamente de Dios.
 
 # Zacarías profetizó acerca del Libertador y Juan (Lucas 1:67-79)
 
-### ¿Ves la progresión aquí de Dios trabajando en y a través de Zacarías? ¿Qué papel desempeñó Zacarías en la planificación y el cumplimiento de su participación en el plan de redención de Dios? Zacarías un hombre común era incapaz de contribuir ó ayudar de alguna manera en el Plan eterno de Dios.
+### ¿Ves la progresión aquí de Dios trabajando en y a través de Zacarías? ¿Qué papel desempeñó Zacarías en la planificación y el cumplimiento de su participación en el plan de redención de Dios? Zacarías un hombre común era incapaz de contribuir ó ayudar de alguna <u>manera</u> en el Plan eterno de Dios.
 
-### Primero, Dios permite estos acontecimientos quitando toda incredulidad de Zacarías y viendo como el plan de Dios se desarrolla a pesar de. Luego, cuando el niño finalmente nace, el Espíritu Santo viene sobre este Zacarías e ilumina su mente para comprender el panorama general de lo que Dios iba a lograr a través de su hijo y del Libertador, ¡y luego lo habilita para articular verbalmente el plan eterno de redención de Dios!
+### Primero, Dios permite estos acontecimientos quitando toda incredulidad de Zacarías y viendo como el plan de Dios se desarrolla a pesar de. Luego, cuando el niño finalmente nace, el Espíritu Santo viene sobre este Zacarías e ilumina su <u>mente</u> para comprender el panorama general de lo que Dios iba a lograr a través de su hijo y del Libertador, ¡y luego lo habilita para articular verbalmente el plan eterno de redención de Dios!
 
-### Esta es exactamente la obra que Dios ha hecho y continúa haciendo en cada uno de nosotros hoy como creyentes. El va revelándose a nosotros a través de Su palabra para de esta manera responder por la fe a lo que nos revela. Como lo hizo con Zacarías, Dios obra de tal manera para mostrarnos claramente el evangelio y poder confiar en la obra de su hijo Jesucristo.
+### Esta es exactamente la obra que Dios ha hecho y continúa haciendo en cada uno de nosotros hoy como creyentes. El va revelándose a nosotros a través de Su palabra para de esta manera responder por la fe a lo que nos revela. Como lo hizo con Zacarías, Dios obra de tal manera para mostrarnos claramente el <u>evangelio</u> y poder confiar en la obra de su hijo Jesucristo.
 
-### Cuanto más conocemos la verdad en nuestros corazones, podremos compartirla de manera segura y confiable. Observe en el versículo 76 que Zacarías declaró que Juan iría delante del Señor para preparar sus caminos. Uno de los propósitos de Dios en el ministerio de Juan sería ayudar a Israel a darse cuenta de que era el Señor mismo quien vendría a liberarlos. 1 Corintios 2:12
+### Cuanto más conocemos la verdad en nuestros corazones, <u>podremos</u> compartirla de manera segura y confiable. Observe en el versículo 76 que Zacarías declaró que Juan iría delante del Señor para preparar sus caminos. Uno de los propósitos de Dios en el ministerio de Juan sería ayudar a Israel a darse cuenta de que era el Señor mismo quien vendría a liberarlos. 1 Corintios 2:12
 
-### En todas las demás religiones, las personas son guiadas y enseñadas a depender de sus propias obras (sacrificios, participación en ceremonias, buenas obras) para recibir bendición o liberación; Pero debido a que cada pensamiento e intención del corazón del hombre es solo malo, no hay nada que el hombre pueda hacer para Salvarse, ninguna de estas obras cuenta para salvación.
+### En todas las demás religiones, las personas son guiadas y enseñadas a depender de sus propias obras (sacrificios, participación en ceremonias, buenas obras) para recibir bendición o liberación; Pero debido a que cada pensamiento e intención del corazón del hombre es solo malo, no hay nada que el hombre pueda <u>hacer</u> para Salvarse, ninguna de estas obras cuenta para salvación.
 
-### Por lo tanto, Dios mismo TENÍA que venir y liberar al hombre mismo.
+### Por lo tanto, Dios mismo TENÍA que venir y liberar al <u>hombre</u> mismo.
 
-### El Señor, que es Dios, es el gran Salvador de todos los que confían en Él. Hemos visto muchas otras imágenes físicas de Dios liberando a los que confían en Él:
+### El Señor, que es Dios, es el gran Salvador de <u>todos</u> los que confían en Él. Hemos visto muchas otras imágenes físicas de Dios liberando a los que confían en Él:
 
-#### Noé y su familia en el diluvio
+#### Noé y su familia en el <u>diluvio</u>
 
-#### Proporcionó un carnero para ser sacrificado en lugar de Isaac.
+#### Proporcionó un <u>carnero</u> para ser sacrificado en lugar de Isaac.
 
-#### Lot en Sodoma y Gomorra
+#### Lot en Sodoma y <u>Gomorra</u>
 
-#### Liberó a José de la prisión en Egipto
+#### Liberó a José de la <u>prisión</u> en Egipto
 
-#### Israelitas de la esclavitud en Egipto
+#### Israelitas de la esclavitud en <u>Egipto</u>
 
-#### Israelitas del ejército egipcio en el Mar Rojo
+#### Israelitas del <u>ejército</u> egipcio en el Mar Rojo
 
-#### Liberó a los israelitas de la muerte durante sus viajes por el desierto
+#### Liberó a los israelitas de la muerte <u>durante</u> sus viajes por el desierto
 
 ## No hay otro Salvador fuera de Dios (Isaías 43:11, 45:22; Lucas 1:77-79)
 
-### Aquí nuevamente el verdadero corazón de Dios se manifiesta alto y claro en la forma en que el Espíritu Santo guía a Zacarías a describir cómo será el ministerio del Libertador. Primero, dice: *Para dar conocimiento de la salvación a su pueblo*  (liberación o perdón) *de sus pecados.* Esta liberación se obtendrá *por la tierna misericordia de nuestro Dios,* nos visitó para *dar luz a los que habitan en tinieblas y sombra de muerte, para guiar nuestros pasos por el camino de la paz.*
+### Aquí nuevamente el verdadero corazón de Dios se manifiesta alto y claro en la forma en que el Espíritu Santo guía a Zacarías a describir cómo será el ministerio del Libertador. Primero, dice: *Para dar conocimiento de la salvación a su pueblo*  (liberación o perdón) *de sus pecados.* Esta <u>liberación</u> se obtendrá *por la tierna misericordia de nuestro Dios,* nos visitó para *dar luz a los que habitan en tinieblas y sombra de muerte, para guiar nuestros pasos por el camino de la paz.*
 
-### La descripción que hace Dios del Libertador habla de la absoluta incapacidad humana para salvarse por sus propios medios. Si estuvieras caminando por las montañas en algún lugar y te perderías en una noche de total tinieblas, no tuvieras ninguna linterna contigo o de alguna manera algo para iluminarte, solo te quedaría esperar a que amanezca, no habría ninguna posibilidad de crear luz para ti mismo ó encontrar alguna salida.
+### La descripción que hace Dios del Libertador habla de la absoluta incapacidad humana para salvarse por sus propios medios. Si estuvieras caminando por las montañas en algún lugar y te perderías en una noche de total tinieblas, no tuvieras ninguna linterna contigo o de alguna <u>manera</u> algo para iluminarte, solo te quedaría esperar a que amanezca, no habría ninguna posibilidad de crear luz para ti mismo ó encontrar alguna salida.
 
-### Esta es la descripción que Dios da del Libertador venidero. La humanidad está sentada en completa oscuridad espiritual, dirigiéndose al infierno, sin ninguna esperanza de poder liberarse a sí misma. ¡Pero Dios en Su misericordia ha enviado la Luz! Él es el Camino, la verdad y la vida para liberarnos de nuestro pecado y guiarnos por el camino de la paz. ¡Estamos en completa Paz con Dios!
+### Esta es la descripción que Dios da del Libertador venidero. La humanidad está sentada en completa oscuridad espiritual, dirigiéndose al infierno, sin ninguna esperanza de poder liberarse a sí misma. ¡Pero Dios en Su misericordia ha enviado la Luz! Él es el Camino, la verdad y la vida para <u>liberarnos</u> de nuestro pecado y guiarnos por el camino de la paz. ¡Estamos en completa Paz con Dios!
 
 ## Conclusión
 
-### Todo estaba ahora listo para que el Libertador viniera y finalmente llevara a cabo el plan de redención que había estado en el corazón de Dios desde la eternidad. A lo largo de los años desde la creación, millones habían muerto esperando al Libertador. Muchos, como Abraham y Sara, vivieron y murieron, persuadidos de que Él vendría y que Su venida sería la base para la salvación de todos los que creyeran. (Ver Juan 8:56; Hebreos 11:13.) Sin embargo, hubo muchos millones de otros que también escucharon las promesas pero que se negaron a creer.
+### Todo estaba ahora listo para que el Libertador viniera y finalmente llevara a cabo el plan de redención que había estado en el corazón de Dios desde la eternidad. A lo largo de los años desde la creación, millones habían muerto <u>esperando</u> al Libertador. Muchos, como Abraham y Sara, vivieron y murieron, persuadidos de que Él vendría y que Su venida sería la base para la salvación de todos los que creyeran. (Ver Juan 8:56; Hebreos 11:13.) Sin embargo, hubo muchos millones de otros que también escucharon las promesas pero que se negaron a creer.
 
-### En cualquier caso, el estado físico y espiritual en que se encontraba Israel al tiempo del nacimiento de Jesús da clara evidencia de la verdad de que la humanidad estaba sentada en completa tinieblas bajo la sombra de la muerte. 
+### En cualquier caso, el estado físico y espiritual en que se encontraba Israel al tiempo del nacimiento de Jesús da clara <u>evidencia</u> de la verdad de que la humanidad estaba sentada en completa tinieblas bajo la sombra de la muerte. 
 
 ## Preguntas de revisión
 
@@ -4408,119 +4382,119 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ## Dios le prometió a María un hijo (Lucas 1:26-35)
 
-### Hemos visto a Dios obrar de maneras realmente asombrosas y también estamos conociendo de manera personal como es su corazón, 1 Juan 4 dice que DIOS ES AMOR. También sabemos que Dios creó a la humanidad con la capacidad y el propósito de tener una relación con él.
+### Hemos visto a Dios obrar de maneras realmente asombrosas y también estamos conociendo de manera <u>personal</u> como es su corazón, 1 Juan 4 dice que DIOS ES AMOR. También sabemos que Dios creó a la humanidad con la capacidad y el propósito de tener una relación con él.
 
-### Por lo tanto, sabemos que la razón número uno por la que Dios obra de maneras tan asombrosas es con el propósito de revelarse a sí mismo y mostrar su corazón a toda la humanidad. Sin estas asombrosas manifestaciones de Su carácter y Sus atributos, la humanidad nunca podría llegar a conocer a Dios por sí misma. Una vez más, vemos en estos pasajes sobre la provisión de Dios del Libertador, es otra clara manifestación de Dios obrando de maneras tan claras y obvias para darse a conocer a sí mismo y a Su corazón aún más.
+### Por lo tanto, sabemos que la razón número uno por la que Dios obra de maneras tan asombrosas es con el propósito de revelarse a sí mismo y mostrar su corazón a toda la humanidad. Sin estas asombrosas manifestaciones de Su carácter y Sus atributos, la humanidad nunca podría llegar a <u>conocer</u> a Dios por sí misma. Una vez más, vemos en estos pasajes sobre la provisión de Dios del Libertador, es otra clara manifestación de Dios obrando de maneras tan claras y obvias para darse a conocer a sí mismo y a Su corazón aún más.
 
-### Dios continúa revelando su soberanía y supremacía. ¿Recuerdas 2 Timoteo 1:9 y el hecho de que el plan eterno de redención de Dios estaba en Su corazón antes de que comenzara el tiempo? Desde ese momento hasta ahora, aquí en Lucas 1, Dios ha estado cumpliendo soberanamente ese plan por gracia, en el momento apropiado y para Su gloria. Cada evento que debe tener lugar en el cumplimiento siempre es iniciado por Él. Desde Génesis 1 hasta este punto, solo ha habido un evento que hemos visto a la humanidad llevar a cabo por sí misma: ¡PECADO, la caída! Todos los demás aspectos, Dios mismo ha tomado la iniciativa para realizarlos en el momento apropiado.
+### Dios continúa revelando su soberanía y supremacía. ¿Recuerdas 2 Timoteo 1:9 y el hecho de que el plan eterno de redención de Dios estaba en Su corazón antes de que comenzara el tiempo? Desde ese momento hasta ahora, aquí en Lucas 1, Dios ha estado cumpliendo soberanamente ese plan por gracia, en el momento apropiado y para Su gloria. Cada evento que debe tener lugar en el cumplimiento <u>siempre</u> es iniciado por Él. Desde Génesis 1 hasta este punto, solo ha habido un evento que hemos visto a la humanidad llevar a cabo por sí misma: ¡PECADO, la caída! Todos los demás aspectos, Dios mismo ha tomado la iniciativa para realizarlos en el momento apropiado.
 
-### Este maravilloso evento comienza con Dios enviando al ángel Gabriel para llevar este mensaje a María. Dios determinó que era hora y el día para enviar al Libertador del mundo, Dios eligió a María para que en su vientre se gestara el que habría de salvar al mundo.
+### Este maravilloso evento comienza con Dios enviando al ángel Gabriel para llevar este mensaje a María. Dios determinó que era hora y el día para enviar al Libertador del mundo, Dios eligió a María para que en su <u>vientre</u> se gestara el que habría de **salvar** al mundo.
 
 ### ¿Dónde más hemos visto a Dios ejercer su soberanía de esta manera?
 
-#### Predeterminar Su plan eterno de redención
+#### Predeterminar Su <u>plan</u> eterno de redención.
 
-#### Creación
+#### En la <u>creación.</u>
 
-#### Colocando a la humanidad en el jardín
+#### Colocando a la humanidad en el <u>jardín.</u>
 
-#### Decidir que no era bueno para el hombre estar solo y luego crear su compañero de ayuda
+#### Decidir que no era bueno para el <u>hombre</u> estar solo y luego crear su compañero de ayuda.
 
-#### Elegir a Abraham
+#### Elegir a <u>Abraham</u>.
 
-#### Elegir a Moisés
+#### <u>Elegir</u> a Moisés.
 
-#### Elegir a Israel como nación 
+#### Elegir a Israel como <u>nación</u>.
 
-#### Elegir a varios profetas
+#### Elegir a varios <u>profetas</u>.
 
-#### Y ahora eligiendo a María para que sea la que lleve al Libertador
+#### Y ahora eligiendo a María para que sea la que <u>lleve</u> al Libertador.
 
-### ¿Puedes darte cuenta cuan en control estuvo Dios desde siempre? El ser humano puede llegar a tener muchos planes que pueden llegar a fracasar. Pero el Señor siempre esta al control de todo y todo esta bajo su cuidado. Evidentemente Su plan eterno de redención en Cristo no sería una excepción. Lo que el habló se cumplió, y cumplirá.
+### ¿Puedes darte cuenta cuan en control estuvo Dios desde siempre? El ser humano puede llegar a tener muchos planes que pueden llegar a fracasar. Pero el Señor siempre esta al <u>control</u> de todo y todo esta bajo su cuidado. Evidentemente Su plan eterno de redención en Cristo no sería una excepción. Lo que el habló se cumplió, y cumplirá.
 
-### Al igual que el resto de las personas a las que Dios eligió usar para llevar a cabo su plan, María también encajaba en la descripción de Génesis 8:21, que "todo pensamiento e intención del corazón fue solo malo desde la infancia". Por lo tanto, sabemos que, como todos los demás, ella fue simplemente elegida por Dios en Su gracia para Su plan eterno. Una prueba que tenemos de que María misma reconoció su propia pecaminosidad fue el hecho de que se refiere a Dios como "su Salvador".
+### Al igual que el resto de las personas a las que Dios eligió usar para llevar a cabo su plan, María también encajaba en la descripción de Génesis 8:21, que "todo pensamiento e intención del corazón fue solo malo desde la infancia". Por lo tanto, sabemos que, como todos los demás, ella fue simplemente <u>elegida</u> por Dios en Su gracia para Su plan eterno. Una prueba que tenemos de que María misma reconoció su propia pecaminosidad fue el hecho de que se refiere a Dios como "su Salvador".
 
-### Obviamente, María reconoció su propia necesidad de un Salvador y esperaba con ansias la venida del Libertador prometido. Después de creer el mensaje de Gabriel para ella, María fue a ver a su prima Elizabet para regocijarse juntas por esta gran noticia, ambas habían recibido una noticia de que darían a luz de una manera totalmente imposible para el pensamiento humano.
+### Obviamente, María reconoció su propia necesidad de un Salvador y esperaba con ansias la venida del Libertador prometido. Después de creer el mensaje de Gabriel para ella, María fue a ver a su prima Elizabet para regocijarse juntas por esta gran noticia, ambas habían recibido una noticia de que <u>darían</u> a luz de una manera totalmente imposible para el pensamiento humano.
 
 ## Ahora escuche la respuesta de María (Lucas 1:36-55)
 
-### Al escuchar la respuesta de María aquí, su visión de Dios y las cosas que dice sobre Él, se basaron en su audición de estas mismas historias que hemos estado viendo y que han sido registradas y preservadas en el Antiguo Testamento.
+### Al escuchar la respuesta de María aquí, su visión de Dios y las cosas que dice sobre Él, se basaron en su audición de estas mismas <u>historias</u> que hemos estado viendo y que han sido registradas y preservadas en el Antiguo Testamento.
 
-### La gracia, misericordia, amor, perdón, compasión son los atributos y caracter de Dios mismo.
+### La gracia, misericordia, amor, perdón, compasión son los <u>atributos</u> y carácter de Dios mismo.
 
-### A través de los años Dios preservó estos relatos acerca de sí mismo y de su interacción con Israel para dar a conocer a todos su carácter santo, bondad y misericordia.
+### A través de los años Dios preservó estos relatos acerca de sí mismo y de su interacción con Israel para dar a <u>conocer</u> a todos su carácter santo, bondad y misericordia.
 
-### Vimos que Gabriel le dijo a María que debía llamar a su hijo Jesús, que significa Jehová es el Salvador. Una vez más, Dios estaba haciendo que el hecho de lo que estaba haciendo fuera extremadamente claro y obvio, porque quiere que la humanidad conozca la verdad y confíe en Él. Isaías 45:22
+### Vimos que Gabriel le dijo a María que debía llamar a su hijo Jesús, que significa Jehová es el Salvador. Una vez más, Dios estaba haciendo que el hecho de lo que estaba haciendo fuera extremadamente claro y obvio, porque quiere que la humanidad <u>conozca</u> la verdad y confíe en Él. Isaías 45:22
 
-### ¡Estaba dejando absolutamente claro quién iba a ser este hijo de María, que realmente iba a ser el prometido tan esperado! También estaba cumpliendo fielmente el plan que comenzó en su corazón antes de la fundación de la tierra y que prometió en Génesis 3:15, a Abraham, Isaac, Jacob, David y a través de varios profetas.
+### ¡Estaba dejando absolutamente claro quién iba a ser este hijo de María, que realmente iba a ser el prometido tan esperado! También estaba cumpliendo fielmente el plan que comenzó en su corazón antes de la <u>fundación</u> de la tierra y que prometió en Génesis 3:15, a Abraham, Isaac, Jacob, David y a través de varios profetas.
 
 ## Jesús sería tanto Dios como hombre
 
-### En el versículo 32, Gabriel le dijo a María que será grande, y será llamado Hijo del Altísimo. Dios estaba dejando en claro que el hijo de María no solo sería su hijo, sino que también sería el verdadero Hijo de Dios. Otra verdad que debemos tener en cuenta es que este evento, el nacimiento venidero de Jesús el Libertador, fue el propósito final por el cual todos los eventos anteriores se habían cumplido o llevado a cabo.
+### En el versículo 32, Gabriel le dijo a María que será grande, y será llamado Hijo del Altísimo. Dios estaba dejando en claro que el hijo de María no solo sería su hijo, sino que también sería el verdadero Hijo de Dios. Otra verdad que debemos tener en cuenta es que este <u>evento</u>, el nacimiento venidero de Jesús el Libertador, fue el propósito final por el cual todos los eventos anteriores se habían cumplido o llevado a cabo.
 
-### Todas las cosas fueron creadas POR Él y PARA Él. Desde Génesis 1 hasta este pasaje de Lucas 1, el escenario había sido preparado o establecido para que el Hijo de Dios viniera y revelara la gracia de Dios. En los versículos 34-35, Gabriel también le dijo a María que sería el Espíritu Santo quien realizaría este milagro de ella, una virgen que queda embarazada. 
+### Todas las cosas fueron creadas POR Él y PARA Él. Desde Génesis 1 hasta este pasaje de Lucas 1, el escenario había sido preparado o establecido para que el Hijo de Dios viniera y revelara la gracia de Dios. En los versículos 34-35, Gabriel también le dijo a María que sería el Espíritu Santo quien <u>realizaría</u> este milagro de ella, una virgen que queda embarazada. 
 
-### El propósito de Dios de que no sea engendrado desde la descendencia de Adán fue claro,  Dios mismo era Su Padre y no Adán, Jesús no heredaría la pecaminosidad de Adán. Nacería con el mismo carácter que Dios: santo y sin pecado.
+### El propósito de Dios de que no sea engendrado desde la descendencia de Adán fue claro,  Dios mismo era Su Padre y no Adán, Jesús no <u>heredaría</u> la pecaminosidad de Adán. Nacería con el mismo carácter que Dios: santo y sin pecado.
 
-### ¡Que Juan naciera de una mujer mayor y Jesús de una virgen son eventos imposibles para la lógica humana!
+### ¡Que Juan naciera de una mujer mayor y Jesús de una virgen son <u>eventos</u> imposibles para la lógica humana!
 
-### Vemos como Dios siempre quiso que las personas lo conozcan y crean la verdad, que Él obra de manera innegable para demostrar que es verdaderamente de Él. Nombra algunos otros casos en los que lo hemos visto obrar de maneras tan innegables:
+### Vemos como Dios siempre quiso que las personas lo conozcan y <u>crean</u> la verdad, que Él obra de manera innegable para demostrar que es verdaderamente de Él. Nombra algunos otros casos en los que lo hemos visto obrar de maneras tan innegables:
 
-#### Permitió que los ángeles lo vieran parte de la creación.
+#### Permitió que los ángeles lo <u>vieran</u> parte de la creación.
 
-#### La forma en que creó a Eva después de hacerle obvio a Adán que no tenía una pareja adecuada. Obviamente era de Él.
+#### La forma en que creó a Eva después de hacerle <u>obvio</u> a Adán que no tenía una pareja adecuada. Obviamente era de Él.
 
-#### Noé, arca, diluvio, cierre de la puerta
+#### Noé, arca, diluvio, <u>cierre</u> de la puerta.
 
-#### Sodoma y Gomorra
+#### La <u>destrucción</u> de Sodoma y Gomorra.
 
-#### El hijo de Abraham
+#### El <u>hijo</u> de Abraham.
 
-#### José
+#### Durante la <u>vida</u> de José.
 
-#### Levantando a Moisés
+#### <u>Levantando</u> a Moisés.
 
-#### Las plagas y la liberación de Israel
+#### Las plagas y la liberación de <u>Israel.</u>
 
-#### Proveyendo para Israel a través del desierto
+#### Proveyendo <u>para</u> Israel a través del desierto.
 
 ## El Libertador sería Jesús, el Cristo.
 
-### Dentro del plan de Dios, Jesús vino a ser el Cristo (el Ungido), El mesías prometido a Israel, y salvador del mundo. Cristo es una palabra griega que significa ungido. Es la traducción griega de la palabra Mesías. Sabemos que Jesucristo fue ungido o apartado por Dios para tres deberes específicos. Él sería el último Profeta, Sacerdote y Rey de Dios. Mateo 1:1
+### Dentro del plan de Dios, Jesús vino a ser el Cristo (el Ungido), El Mesías prometido a Israel, y salvador del mundo. Cristo es una palabra griega que significa ungido. Es la traducción griega de la palabra Mesías. Sabemos que Jesucristo fue ungido o <u>apartado</u> por Dios para tres deberes específicos. Él sería el último Profeta, Sacerdote y Rey de Dios. Mateo 1:1
 
 ## Como Profeta (Deuteronomio 18:15)
 
-### Este es un ejemplo de profecía general. Tenía aplicación a la situación en cuestión en la que se dio, pero su cumplimiento final se encontraría en Cristo.
+### Este es un ejemplo de profecía general. Tenía aplicación a la situación en <u>cuestión</u> en la que se dio, pero su cumplimiento final se encontraría en Cristo.
 
-### El papel de los profetas en el Antiguo Testamento era proclamar la verdad que Dios les reveló como mensajes o advertencias para Israel y sus naciones circundantes.
+### El papel de los profetas en el Antiguo Testamento era proclamar la <u>verdad</u> que Dios les reveló como mensajes o advertencias para Israel y sus naciones circundantes.
 
-### Sabemos que Jesús mismo es el camino, la VERDAD y la vida. Como La Verdad, Jesús mismo es el cumplimiento final de todos los profetas y profecías.
+### Sabemos que Jesús mismo es el camino, la VERDAD y la vida. Como La Verdad, Jesús mismo es el cumplimiento <u>final</u> de todos los profetas y profecías.
 
 ## Como sacerdote (Hebreos 4:14-15; 7:24-25)
 
-### La imagen física que tenemos de los sacerdotes del Antiguo Testamento era de mediación. Realizaban sacrificios en nombre del pueblo y sus deberes incluían la realización de una representación de la comunión de Israel con Dios dentro del lugar santo.
+### La imagen física que tenemos de los sacerdotes del Antiguo Testamento era de mediación. Realizaban sacrificios en nombre del pueblo y sus deberes incluían la realización de una representación de la comunión de Israel con Dios dentro del <u>lugar</u> santo.
 
-### Jesús, como nuestro Sumo Sacerdote, no solo es el Sumo Sacerdote y mediador entre nosotros y Dios, sino que también es el sacrificio que nos ha restaurado de una vez por todas a la unidad con Dios, haciendo posible que disfrutemos personalmente de una comunión con Él.
+### Jesús, como nuestro Sumo Sacerdote, no solo es el Sumo Sacerdote y mediador entre nosotros y Dios, sino que también es el sacrificio que nos ha restaurado de una vez por todas a la unidad con Dios, haciendo <u>posible</u> que disfrutemos personalmente de una comunión con Él.
 
 ## Como Rey (Isaías 9:6-7, Hebreos 10:1-12)
 
-### Jesús también sería el último Rey de Dios para gobernar sobre Israel y el mundo entero. Dios le había prometido al rey David que siempre habría uno de sus descendientes en el trono de Israel. Jesús, como descendiente de David, es el cumplimiento final de esa promesa. ¡Se le llama Rey de reyes y Señor de señores! El Cristo iba a nacer en cumplimiento de las profecías del Antiguo Testamento.
+### Jesús también sería el último Rey de Dios para gobernar sobre Israel y el mundo entero. Dios le había prometido al rey David que siempre habría uno de sus descendientes en el trono de Israel. Jesús, como descendiente de David, es el cumplimiento final de esa <u>promesa</u>. ¡Se le llama Rey de reyes y Señor de señores! El Cristo iba a nacer en cumplimiento de las profecías del Antiguo Testamento.
 
-### Ahora veremos un cuadro de las profecías del Antiguo Testamento sobre el Libertador venidero. Hay muchas otras profecías del Antiguo Testamento sobre el Libertador. Los que están en esta tabla han sido elegidos porque registran algunos de los detalles más significativos relacionados con Cristo, desde su nacimiento hasta su resurrección.
+### Ahora veremos un cuadro de las profecías del Antiguo Testamento sobre el Libertador venidero. Hay muchas otras profecías del Antiguo Testamento sobre el Libertador. Los que están en esta tabla han sido elegidos porque registran algunos de los detalles más significativos relacionados con Cristo, desde su <u>nacimiento</u> hasta su resurrección.
 
 ## Existen hay tres tipos de profecía mesiánica.
 
-### El Primero Deuteronomio 18:15  Es de naturaleza general, tuvo una aplicación directa a la situación en cuestión, pero su cumplimiento final se encontrará en Cristo.
+### El Primero Deuteronomio 18:15  Es de naturaleza general, tuvo una aplicación directa a la situación en cuestión, pero su cumplimiento <u>final</u> se encontrará en Cristo.
 
-### El segundo tipo es la profecía directa que habla específicamente del futuro Mesías y es de naturaleza más personal. Isaías 7:14 es un ejemplo de esto.
+### El segundo tipo es la profecía directa que habla específicamente del futuro Mesías y es de naturaleza más <u>personal</u>. Isaías 7:14 es un ejemplo de esto.
 
-### El tercer tipo es la profecía que es una aplicación del Antiguo Testamento en el Nuevo Testamento. Mateo 2:15 y Oseas 11:1 ejemplifican esto. Oseas no da ninguna indicación de predicción específica, pero Mateo la aplica al Mesías.
+### El tercer tipo es la profecía que es una aplicación del Antiguo Testamento en el Nuevo Testamento. Mateo 2:15 y Oseas 11:1 ejemplifican esto. Oseas no da ninguna indicación de predicción específica, pero Mateo la <u>aplica</u> al Mesías.
 
-### La profecía mesiánica no es un montón de declaraciones independientes. Es una serie de promesas continua. Es  una promesa mesiánica a través del tiempo que se desarrolla y elabora a lo largo de la historia, dando mayor revelación de Cristo a través de los profetas y lo que haría.
+### La profecía mesiánica no es un montón de declaraciones independientes. Es una serie de <u>promesas</u> continuas. Es una promesa mesiánica a través del tiempo que se desarrolla y elabora a lo largo de la historia, dando mayor revelación de Cristo a través de los profetas y lo que haría.
 
-### La progresión de la promesa mesiánica, se vuelve cada vez más específica en cuanto a quién sería el Mesías; comienza como La semilla de la mujer, y se va ampliando dando claridad a lo que haría y como lo haría.
+### La progresión de la promesa mesiánica, se vuelve cada vez más específica en cuanto a quién sería el Mesías; comienza como La semilla de la mujer, y se va ampliando dando <u>claridad</u> a lo que haría y como lo haría.
 
-### *Todo se centra en Cristo e irradia desde Él hasta los límites del universo creado por Dios. La unión con Cristo es el corazón de todos los pensamientos revelados de Dios con respecto al hombre y la relación del hombre con Dios.* T. Austin Sparks
+### *Todo se centra en Cristo e irradia desde Él hasta los límites del universo creado por Dios. La <u>unión</u> con Cristo es el corazón de todos los pensamientos revelados de Dios con respecto al hombre y la relación del hombre con Dios.* T. Austin Sparks
 
 ## Preguntas de revisión
 
@@ -4536,87 +4510,87 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 # EL LIBERTADOR NACIÓ Y CRECIÓ HASTA LA EDAD ADULTA
 
-### Hemos visto la sabiduría de Dios, como Él obra, y lo hace en completa sabiduría, no como le parece al hombre, sino lo hace desde un punto de vista imposible al entendimiento humano, hemos visto claras manifestaciones de Su poder, soberanía, amor, gracia, santidad y odio al pecado a través del transcurso de la historia. 
+### Hemos visto la sabiduría de Dios, como Él obra, y lo hace en completa <u>sabiduría</u>, no como le parece al hombre, sino lo hace desde un punto de vista imposible al entendimiento humano, hemos visto claras manifestaciones de Su poder, soberanía, amor, gracia, santidad y odio al pecado a través del transcurso de la historia. 
 
-### Romanos 11:33 ¡*Oh profundidad de las riquezas de la sabiduría y del conocimiento de Dios! ¡Cuán inescrutables son sus juicios y sus caminos insondables!*
+### Romanos 11:33 ¡*Oh profundidad de las riquezas de la sabiduría y del conocimiento de Dios! ¡Cuán inescrutables son sus <u>juicios</u> y sus caminos insondables!*
 
-### 1 Corintios 1:18-25 *Porque el mensaje de la cruz es locura para los que se pierden, pero para nosotros los que somos salvos es poder de Dios. Porque está escrito: Destruiré la sabiduría de los sabios, y reduciré a la nada la inteligencia de los prudentes. ¿Dónde está el sabio? ¿Dónde está el escriba? ¿Dónde está el disputador de esta época? ¿No ha enloquecido Dios la sabiduría de este mundo? Porque puesto que en la sabiduría de Dios el mundo no conoció a Dios por medio de la sabiduría, agradó a Dios salvar a los creyentes por la locura del mensaje predicado. Porque los judíos piden una señal, y los griegos buscan la sabiduría; pero nosotros predicamos a Cristo crucificado, a los judíos piedra de tropiezo y a los griegos locura, pero a los llamados, tanto judíos como griegos, Cristo es poder de Dios y sabiduría de Dios. Porque la necedad de Dios es más sabia que los hombres, y la debilidad de Dios es más fuerte que los hombres.*
+### 1 Corintios 1:18-25 *Porque el mensaje de la cruz es locura para los que se pierden, pero para nosotros los que somos salvos es poder de Dios. Porque está escrito: Destruiré la sabiduría de los sabios, y <u>reduciré</u> a la nada la inteligencia de los prudentes. ¿Dónde está el sabio? ¿Dónde está el escriba? ¿Dónde está el disputador de esta época? ¿No ha enloquecido Dios la sabiduría de este mundo? Porque puesto que en la sabiduría de Dios el mundo no conoció a Dios por medio de la sabiduría, agradó a Dios salvar a los creyentes por la locura del mensaje predicado. Porque los judíos piden una señal, y los griegos buscan la sabiduría; pero nosotros predicamos a Cristo crucificado, a los judíos piedra de tropiezo y a los griegos locura, pero a los llamados, tanto judíos como griegos, Cristo es poder de Dios y sabiduría de Dios. Porque la necedad de Dios es más sabia que los hombres, y la debilidad de Dios es más fuerte que los hombres.*
 
-### 1 Corintios 1:30 *Pero por obra Suya están ustedes en Cristo Jesús, el cual se hizo para nosotros sabiduría de Dios, y justificación, santificación y redención,*
+### 1 Corintios 1:30 *Pero por obra Suya están <u>ustedes</u> en Cristo Jesús, el cual se hizo para nosotros sabiduría de Dios, y justificación, santificación y redención,*
 
-### 1 Corintios 2:6-7  *Pero hablamos sabiduría entre los que son maduros, pero no la sabiduría de este siglo, ni la de los gobernantes de este siglo, que se van a la nada. Pero hablamos la sabiduría de Dios en un misterio, la sabiduría oculta que Dios ordenó antes de los siglos para nuestra gloria.*
+### 1 Corintios 2:6-7  *Pero hablamos sabiduría entre los que son <u>maduros</u>, pero no la sabiduría de este siglo, ni la de los gobernantes de este siglo, que se van a la nada. Pero hablamos la sabiduría de Dios en un misterio, la sabiduría oculta que Dios ordenó antes de los siglos para nuestra gloria.*
 
-### Si el plan de redención habría sido según la sabiduría del mundo, sería completamente diferente, de seguro no habría sido Dios dando a su hijo unigénito para morir por nuestros pecados, en un nacimiento de pesebre, humilde, Dios mismo el creador del universo, en una condición totalmente humilde.
+### Si el plan de redención habría sido según la sabiduría del mundo, sería completamente <u>diferente</u>, de seguro no habría sido Dios dando a su hijo unigénito para morir por nuestros pecados, en un nacimiento de pesebre, humilde, Dios mismo el creador del universo, en una condición totalmente humilde.
 
 ## El ángel le explicó a José que María iba a tener un bebé (Mateo 1:18-19)
 
-### Sabemos que María había sido la prometida de José para darse en matrimonio, Dentro de la cultura judía, el compromiso era tan sagrado como si fuera el matrimonio mismo, José podría haber demandado a María y ella ser acusada de fornicación y adulterio, y castigada públicamente, resultando en un divorcio y que María fuera apedreada hasta la muerte. 
+### Sabemos que María había sido la prometida de José para darse en matrimonio, Dentro de la cultura judía, el compromiso era tan <u>sagrado</u> como si fuera el matrimonio mismo, José podría haber demandado a María y ella ser acusada de fornicación y adulterio, y castigada públicamente, resultando en un divorcio y que María fuera apedreada hasta la muerte. 
 
-### Dios se tomó el tiempo para comunicarse con José, para ponerlo en sintonía con lo que ÉL estaba haciendo. Se tomó el tiempo para darle confianza a José al conocer la verdad de lo que realmente sucedió y cómo María había quedado embarazada.
+### Dios se tomó el tiempo para comunicarse con José, para ponerlo en sintonía con lo que ÉL estaba haciendo. Se tomó el tiempo para darle <u>confianza</u> a José al conocer la verdad de lo que realmente sucedió y cómo María había quedado embarazada.
 
-### Una vez que José entendió que el bebé que María había concebido era por el Poder de el Espíritu Santo, aceptó casarse con María y protegerla para que Jesús viniera a este mundo y habitara entre nosotros como una persona común. Mateo 1:20-25
+### Una vez que José entendió que el bebé que María había concebido era por el Poder de el Espíritu Santo, aceptó casarse con María y <u>protegerla</u> para que Jesús viniera a este mundo y habitara entre nosotros como una persona común. Mateo 1:20-25
 
-### Dios desde la creación vio bueno la institución del matrimonio entre un hombre y mujer creando así la familia, aquí en el nacimiento de Jesús, el salvador del mundo no sería diferente, Dios permitió que sea criado dentro de una familia humana, con un Padre y Madre que velaban por sus Hijos. Dios quería que María tuviera un esposo y quería que Jesús tuviera un padre y una familia terrenales. ¡Este es el corazón y la sabiduría de Dios!
+### Dios desde la <u>creación</u> vio bueno la institución del matrimonio entre un hombre y mujer creando así la familia, aquí en el nacimiento de Jesús, el salvador del mundo no sería diferente, Dios permitió que sea criado dentro de una familia humana, con un Padre y Madre que velaban por sus Hijos. Dios quería que María tuviera un esposo y quería que Jesús tuviera un padre y una familia terrenales. ¡Este es el corazón y la sabiduría de Dios!
 
-### Vemos el corazón de Dios se manifiesta en Su cuidado y preocupación por que el hombre, que lo conozca a Él y conozca los planes que Él se encontraba realizando. El ángel le dijo a José que debía llamar al bebé Jesús. El nombre Jesús significa Jehová es Salvación o Jehová es el Salvador.
+### Vemos el corazón de Dios se manifiesta en Su cuidado y preocupación por que el <u>hombre</u>, que lo conozca a Él y conozca los planes que Él se encontraba realizando. El ángel le dijo a José que debía llamar al bebé Jesús. El nombre Jesús significa Jehová es Salvación o Jehová es el Salvador.
 
-### Según lo que el ángel le dijo a José Jesús venía para librar a su pueblo de sus pecados. Isaías 45:21-22
+### Según lo que el ángel le dijo a José Jesús venía para <u>librar</u> a su pueblo de sus pecados. Isaías 45:21-22
 
-### El ángel también le dijo a José que el nacimiento de Jesús daría el cumplimiento profetizado en Isaías 7:14, nacido de una virgen. Dios había anunciado como había de venir el Libertador y lo realizó según lo que había prometido.
+### El ángel también le dijo a José que el nacimiento de Jesús daría el cumplimiento profetizado en Isaías 7:14, nacido de una virgen. Dios había anunciado como había de <u>venir</u> el Libertador y lo realizó según lo que había prometido.
 
-### Estaba dando pruebas innegables de que el Dios del antiguo testamento y sus promesas eran realmente cumplidas en Cristo. Era Emanuel el que había nacido, Dios con Nosotros. Jesucristo es Dios que habitó entre nosotros.
+### Estaba dando <u>pruebas</u> innegables de que el Dios del Antiguo Testamento y sus promesas eran realmente cumplidas en Cristo. Era Emanuel el que había nacido, Dios con Nosotros. Jesucristo es Dios que habitó entre nosotros.
 
-### Dentro del contexto judío los nombres tenían mucho significado para la vida de sus padres y la de sus hijos, para sus Padres cada ves que llamaban a Jesús o se referían a él entendían Jehová es el Salvador, El Ungido, Dios con nosotros. 
+### Dentro del contexto judío los nombres tenían mucho significado para la vida de sus <u>padres</u> y la de sus hijos, para sus Padres cada ves que llamaban a Jesús o se referían a él entendían Jehová es el Salvador, El Ungido, Dios con nosotros. 
 
-### Esto habría sido muy claro, dejando en evidencia que ¡Dios mismo, había venido a ser nuestro Salvador!
+### Esto habría sido muy claro, dejando en evidencia que ¡Dios mismo, había venido a ser <u>nuestro</u> Salvador!
 
 ## Jesús nació en Belén (Mateo 2:1-2 y Lucas 2:1-21)
 
-### Algo importante a Señalar en el Versículo 11 dice: *Porque os ha nacido hoy, en la ciudad de David, un Salvador, que es Cristo el Señor.* Podemos ver que tan grandes y seguras son las promesas de Dios, Este era el anunció de que ya había llegado el libertador prometido.¡Cristo ya estaba AQUÍ en el mundo!
+### Algo importante a Señalar en el Versículo 11 dice: *Porque os ha nacido hoy, en la ciudad de David, un Salvador, que es Cristo el Señor.* Podemos ver que tan grandes y seguras son las promesas de Dios, Este era el anunció de que ya había llegado el <u>libertador</u> prometido.¡Cristo ya estaba AQUÍ en el mundo!
 
-### Luego los versículos 13-14 dicen: *Y de repente apareció con el ángel una multitud de las huestes celestiales que alababan a Dios y decían: Gloria a Dios en las alturas, y en la tierra paz, buena voluntad para con los hombres.* 
+### Luego los versículos 13-14 dicen: *Y de repente apareció con el ángel una multitud de las <u>huestes</u> celestiales que alababan a Dios y decían: Gloria a Dios en las alturas, y en la tierra paz, buena voluntad para con los hombres.* 
 
-### Dios le dio al mundo otro anuncio claro y evidente. El hecho de que se anunciara a los pastores y no a la realeza se remonta a la sabiduría de Dios. Sus caminos no son nuestros caminos; Sus caminos están más allá de descubrirlos.
+### Dios le dio al mundo otro anuncio claro y evidente. El hecho de que se anunciara a los <u>pastores</u> y no a la realeza se remonta a la sabiduría de Dios. Sus caminos no son nuestros caminos; Sus caminos están más allá de descubrirlos.
 
-### 1 Corintios 1:26-29 *Porque veis, hermanos, vuestra vocación, que no muchos sabios según la carne, ni muchos poderosos, ni muchos nobles son llamados. Pero Dios ha escogido las necedades del mundo para avergonzar a los sabios, y Dios ha escogido las cosas débiles del mundo para avergonzar a los poderosos; y las cosas viles del mundo y las que son despreciadas Dios ha escogido, y las que no lo son, para reducir a la nada las cosas que son, para que ninguna carne se gloríe en su presencia.*
+### 1 Corintios 1:26-29 *Porque veis, hermanos, vuestra vocación, que no muchos sabios según la carne, ni muchos poderosos, ni muchos nobles son llamados. Pero Dios ha escogido las necedades del mundo para avergonzar a los sabios, y Dios ha escogido las cosas débiles del mundo para avergonzar a los poderosos; y las cosas viles del <u>mundo</u> y las que son despreciadas Dios ha escogido, y las que no lo son, para reducir a la nada las cosas que son, para que ninguna carne se gloríe en su presencia.*
 
-### Ochocientos años antes de que naciera Jesús, el profeta Miqueas dijo que el Libertador nacería en Belén. (Ver Miqueas 5:2.) Debemos tener en cuenta que esta promesa profética de Miqueas fue dada en el contexto de Miqueas llamando a Israel a prepararse para el ataque vicioso de Asiria, lo que a su vez significa que Israel se había alejado de Dios para seguir a dioses falsos.
+### Ochocientos años antes de que naciera Jesús, el profeta Miqueas dijo que el Libertador nacería en Belén. (Ver Miqueas 5:2.) Debemos tener en cuenta que esta <u>promesa</u> profética de Miqueas fue dada en el contexto de Miqueas llamando a Israel a prepararse para el ataque vicioso de Asiria, lo que a su vez significa que Israel se había alejado de Dios para seguir a dioses falsos.
 
-### Podemos ver el corazón de Dios, en lugar de Juzgar a Israel por su Pecado, envía al Salvador y libertador, vemos de manera similar en el Jardín del Edén, en lugar de que Adán y Eva mueran por su desobediencia, decide sacrificar un ser inocente para cubrir su pecado. Este es el corazón de Dios. Es lo que Pablo dijo en Romanos 6: *donde abunda el pecado, abunda mucho más la gracia.* Mateo 2 también declaró que los reyes magos vinieron de lejos en busca de Jesús. Si estos sabios de un país lejano en el este, a quienes NO se les dieron directamente todas las promesas que Dios le había dado a Israel, pudieran reconocer las señales y venir en creencia, entonces los judíos no tenían excusa para no aceptarlo.
+### Podemos ver el corazón de Dios, en lugar de Juzgar a Israel por su Pecado, envía al Salvador y libertador, vemos de manera similar en el Jardín del Edén, en lugar de que Adán y Eva mueran por su desobediencia, decide sacrificar un ser inocente para cubrir su <u>pecado</u>. Este es el corazón de Dios. Es lo que Pablo dijo en Romanos 6: *donde abunda el pecado, abunda mucho más la gracia.* Mateo 2 también declaró que los reyes magos vinieron de lejos en busca de Jesús. Si estos sabios de un país lejano en el este, a quienes NO se les dieron directamente todas las promesas que Dios le había dado a Israel, pudieran reconocer las señales y venir en creencia, entonces los judíos no tenían excusa para no aceptarlo.
 
-### Como nota al margen, se cree que estos sabios vinieron de Media y Persia. Sabemos que Judá fue llevado cautivo por Babilonia, que fue cuando Daniel, Sadrac y Mesac fueron llevados a Babilonia. Luego, en 539 a.C., Babilonia fue capturada por los medos y los persas. En el libro de Daniel, menciona a Darío, Ciro y otros reyes persas. Dado el testimonio que hemos leído de Daniel y sus tres amigos, diría que es muy probable que el conocimiento que estos sabios tenían del Libertador venidero viniera a través de Daniel y sus amigos.
+### Como nota al margen, se cree que estos sabios vinieron de Media y Persia. Sabemos que Judá fue llevado cautivo por Babilonia, que fue cuando Daniel, Sadrac y Mesac fueron llevados a Babilonia. Luego, en 539 a.C., Babilonia fue capturada por los <u>medos</u> y los persas. En el libro de Daniel, menciona a Darío, Ciro y otros reyes persas. Dado el testimonio que hemos leído de Daniel y sus tres amigos, diría que es muy probable que el conocimiento que estos sabios tenían del Libertador venidero viniera a través de Daniel y sus amigos.
 
-### ¡Y aquí lo tienes! Los sabios de una tierra lejana vieron las señales, creyeron y adoraron a Jesús, el Hijo de Dios, mientras que los propios escribas y fariseos de Israel (que conocían las profecías) se negaron a creer y aceptarlo como el Libertador. ¡Esta también fue una declaración de Dios de que Jesús es verdaderamente Dios! Mateo 2:3-12
+### ¡Y aquí lo tienes! Los sabios de una tierra lejana vieron las señales, <u>creyeron</u> y adoraron a Jesús, el Hijo de Dios, mientras que los propios escribas y fariseos de Israel (que conocían las profecías) se negaron a creer y aceptarlo como el Libertador. ¡Esta también fue una declaración de Dios de que Jesús es verdaderamente Dios! Mateo 2:3-12
 
-### Hemos visto esto antes. Vimos al faraón tratar de destruir a todos los niños israelitas de Egipto. Así como creo que Satanás estaba detrás de esto en ese momento (para deshacerse del Libertador), también lo fue esta vez con Jesús. Pero fíjate, aunque diríamos que Satanás lucha contra Dios tratando de obstaculizar Sus planes, ¿Ves alguna lucha desde el punto de vista de Dios? ¿Hubo una batalla en lo que a Él respectaba?  Mateo 2:13-18
+### Hemos visto esto antes. Vimos al faraón tratar de destruir a todos los niños israelitas de Egipto. Así como creo que Satanás estaba detrás de esto en ese momento (para deshacerse del Libertador), también lo fue esta vez con Jesús. Pero fíjate, aunque diríamos que <u>Satanás</u> lucha contra Dios tratando de obstaculizar Sus planes, ¿Ves alguna lucha desde el punto de vista de Dios? ¿Hubo una batalla en lo que a Él respectaba?  Mateo 2:13-18
 
-### Más de 700 años antes del nacimiento de Jesús, Dios predijo por medio del profeta Oseas que el Libertador sería llamado por Dios para salir de Egipto. Oseas 11:1; Mateo 2:19-23
+### Más de 700 años antes del nacimiento de Jesús, Dios predijo por medio del <u>profeta</u> Oseas que el Libertador sería llamado por Dios para salir de Egipto. Oseas 11:1; Mateo 2:19-23
 
-### Con todos los detalles de las profecías, Dios se estaba encargando de que este mensaje sea totalmente evidente, para que las personas puedan creer en las profecías y a quien apuntaban. El versículo 23 también dice que el acontecimiento de José y María para establecerse en Nazaret también fue un cumplimiento de las Escrituras. Estas pequeñas frases que seguimos viendo para que se cumpliera lo dicho por los profetas son muy, muy significativas. Hay aproximadamente 300 profecías en la Biblia que pertenecen al Mesías. Las probabilidades de que Jesús (por casualidad) cumpla todas las profecías anunciadas por los profetas considerando que sea una casualidad, son totalmente imposibles.
+### Con todos los detalles de las profecías, Dios se estaba encargando de que este mensaje sea totalmente evidente, para que las personas puedan creer en las profecías y a quien apuntaban. El versículo 23 también dice que el acontecimiento de José y María para establecerse en Nazaret también fue un cumplimiento de las Escrituras. Estas pequeñas frases que seguimos viendo para que se cumpliera lo dicho por los <u>profetas</u> son muy, muy significativas. Hay aproximadamente 300 profecías en la Biblia que pertenecen al Mesías. Las probabilidades de que Jesús (por casualidad) cumpla todas las profecías anunciadas por los profetas considerando que sea una casualidad, son totalmente imposibles.
 
 ## Jesús como joven (Lucas 2:40-51)
 
-### Dios nos da pequeños destellos de la infancia de Jesús y aunque Jesús es 100% Dios, también es 100% hombre. Solo porque Él es Dios, como hombre, no se salvó de ninguna de las dificultades y tentaciones que conlleva ser humano en este mundo caído. No se saltó ninguna parte de ser humano. Incluso fue un niño pequeño una vez y a lo largo de su vida experimentó todas las tentaciones de esta vida pero, la única diferencia fue que nunca pecó.
+### Dios nos da pequeños destellos de la infancia de Jesús y aunque Jesús es 100% Dios, también es 100% hombre. Solo porque Él es Dios, como hombre, no se salvó de ninguna de las dificultades y tentaciones que conlleva ser <u>humano</u> en este mundo caído. No se saltó ninguna parte de ser humano. Incluso fue un niño pequeño una vez y a lo largo de su vida experimentó todas las tentaciones de esta vida pero, la única diferencia fue que nunca pecó.
 
-### Como humano Cristo puede identificarse completamente con nosotros y con nuestras debilidades. *Teniendo, pues, un gran Sumo Sacerdote que trascendió los cielos, Jesús, el Hijo de Dios, retengamos nuestra fe. Porque no tenemos un Sumo Sacerdote que no pueda compadecerse de nuestras flaquezas, sino Uno que ha sido tentado en todo como nosotros, pero sin pecado.*  Hebreos 4:14-15  
+### Como humano Cristo puede identificarse completamente con nosotros y con nuestras debilidades. *Teniendo, pues, un gran Sumo Sacerdote que trascendió los <u>cielos</u>, Jesús, el Hijo de Dios, retengamos nuestra fe. Porque no tenemos un Sumo Sacerdote que no pueda compadecerse de nuestras flaquezas, sino Uno que ha sido tentado en todo como nosotros, pero sin pecado.*  Hebreos 4:14-15  
 
-### Piensa en cómo debe haber sido Jesús cuando interactuaba con amigos, familiares y vecinos. Hebreos 1:3 dice que Jesús es la imagen expresa de la persona de Dios. Entonces, ¿Cuáles son las características y atributos de Dios? Así era Jesús: Lucas 2:52
+### Piensa en cómo debe haber sido Jesús cuando interactuaba con <u>amigos</u>, familiares y vecinos. Hebreos 1:3 dice que Jesús es la imagen expresa de la persona de Dios. Entonces, ¿Cuáles son las características y atributos de Dios? Así era Jesús: Lucas 2:52
 
-#### Sin pecado y santo
+#### Sin pecado y <u>santo</u>.
 
-#### Fiel, siempre cumplió Su palabra
+#### Fiel, siempre <u>cumplió</u> Su palabra.
 
-#### Completamente justo
+#### Completamente <u>justo</u>.
 
-#### Perfectamente sabio
+#### Perfectamente <u>sabio</u>.
 
-#### Amable y cariñoso
+#### Amable y <u>cariñoso</u>.
 
-#### Misericordioso y misericordioso
+#### Misericordioso y compasivo.
 
-#### Siempre en comunión y dependiente de Dios
+#### Siempre en comunión y <u>dependiente</u> de Dios.
 
-### Mire Isaías 11:1-2. A medida que continuamos con estas lecciones y vemos una y otra vez cómo Jesús cumplió todas las profecías mesiánicas
+### Mire Isaías 11:1-2. A medida que continuamos con estas lecciones y vemos una y otra vez cómo Jesús cumplió todas las <u>profecías</u> mesiánicas
 
 ## Preguntas de revisión
 
@@ -4634,84 +4608,84 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ##  JUAN BAUTIZÓ A JESÚS
 
-### Dios está desarrollando el escenario para revelar al mesías prometido, cumpliendo las profesas y señales que decían acerca de él, estamos a 3 años de el acontecimiento mas importante de la historia en todo el universo, la muerte de Jesús el hijo de Dios.
+### Dios está desarrollando el escenario para revelar al mesías prometido, cumpliendo las profesas y <u>señales</u> que decían acerca de él, estamos a 3 años de el acontecimiento mas importante de la historia en todo el universo, la muerte de Jesús el hijo de Dios.
 
-### Dios comienza a revelar públicamente quien es Jesús, no lo hace de la manera en que los humanos probablemente lo hubiéramos hecho: con estandartes y trompetas. En cambio, usa a un hombre de aspecto salvaje con ropa pobre y áspera, que vivía en el desierto y tenía extraños hábitos alimenticios para anunciar su llegada. Dios usaría este heraldo inusual para predicar un mensaje a la gente que prepararía sus corazones para reconocer su necesidad de que un Libertador viniera y los salvara de sus pecados, Juan el bautista.
+### Dios comienza a revelar públicamente quien es Jesús, no lo hace de la manera en que los humanos probablemente lo hubiéramos hecho: con estandartes y trompetas. En cambio, usa a un hombre de aspecto salvaje con ropa pobre y áspera, que vivía en el desierto y tenía extraños hábitos <u>alimenticios</u> para anunciar su llegada. Dios usaría este heraldo inusual para predicar un mensaje a la gente que prepararía sus corazones para reconocer su necesidad de que un Libertador viniera y los salvara de sus pecados, Juan el bautista.
 
-### Observe dónde tuvo lugar el ministerio de Juan: en el desierto. Aparte del hecho de que era práctico, ya que estaba al lado de un río que facilitaba a Juan bautizar a las personas, creo que fue significativo por otras razones. Cuando escuchas "desierto" en la Biblia, ¿Qué evento principal en la historia de Israel te viene a la mente? Vagando por el desierto durante cuarenta años. Mateo 3:1-2
+### Observe dónde tuvo lugar el ministerio de Juan: en el desierto. Aparte del hecho de que era práctico, ya que estaba al lado de un río que facilitaba a Juan bautizar a las personas, creo que fue significativo por otras razones. Cuando escuchas "desierto" en la Biblia, ¿Qué evento principal en la <u>historia</u> de Israel te viene a la mente? Vagando por el desierto durante cuarenta años. Mateo 3:1-2
 
-### ¿Cómo caracterizaría usted el tiempo de Israel en el desierto? Perdido, incierto, incredulidad, tal vez incluso silencio. Muchas de las mismas características que probablemente habrían caracterizado a Israel en la época de Juan el Bautista.
+### ¿Cómo caracterizaría usted el <u>tiempo</u> de Israel en el desierto? Perdido, incierto, incredulidad, tal vez incluso silencio. Muchas de las mismas características que probablemente habrían caracterizado a Israel en la época de Juan el Bautista.
 
-### Definitivamente estaban perdidos, los tiempos eran muy inciertos, había incredulidad, y acababan de pasar por 400 años de "silencio" de Dios, pero creo que el punto en común más significativo es el hecho de que en Éxodo 19 fue en el desierto donde Dios le dio la ley a Israel.
+### Definitivamente estaban perdidos, los tiempos eran muy inciertos, había incredulidad, y acababan de pasar por 400 años de "silencio" de Dios, pero creo que el punto en común más significativo es el hecho de que en Éxodo 19 fue en el <u>desierto</u> donde Dios le dio la ley a Israel.
 
-### ¿Cuál era el propósito de la ley? Para mostrarle a Israel su pecado y la necesidad de un Salvador. ¿Cuál fue el propósito del ministerio y el mensaje de Juan el Bautista? Para convencer a las personas de su pecado y necesidad de un Salvador.
+### ¿Cuál era el propósito de la ley? Para mostrarle a Israel su pecado y la necesidad de un Salvador. ¿Cuál fue el propósito del ministerio y el mensaje de Juan el Bautista? Para convencer a las personas de su pecado y <u>necesidad</u> de un Salvador.
 
-### ¡La fidelidad de Dios es sorprendente! usa cada detalle como una forma de comunicar Sus planes y propósitos. El mensaje de Juan era sencillo: Era un mensaje de arrepentimiento. ¡Debemos notar aquí que el arrepentimiento NO es una promesa! No es una promesa de cambiar, dejar de pecar o esforzarse más. Es un cambio de mentalidad hacia Dios, hacia uno mismo y hacia el propio pecado que lo condena. En efecto, es un reconocimiento de que "Dios, tiene razón y yo estoy equivocado". Básicamente, Juan habría estado llamando a los judíos a reconocer su pecaminosidad, ver su necesidad de un Salvador y confiar en el Libertador prometido venidero.
+### ¡La fidelidad de Dios es sorprendente! usa cada detalle como una forma de comunicar Sus planes y propósitos. El mensaje de Juan era sencillo: Era un mensaje de arrepentimiento. ¡Debemos notar aquí que el arrepentimiento NO es una promesa! No es una promesa de cambiar, dejar de pecar o esforzarse más. Es un cambio de mentalidad hacia Dios, hacia uno mismo y hacia el propio pecado que lo <u>condena</u>. En efecto, es un reconocimiento de que "Dios, tiene razón y yo estoy equivocado". Básicamente, Juan habría estado llamando a los judíos a reconocer su pecaminosidad, ver su necesidad de un Salvador y confiar en el Libertador prometido venidero.
 
-### Juan fue la persona que Isaías anunció que vendría antes del libertador prometido. Isaías 40:3.
+### Juan fue la persona que Isaías <u>anunció</u> que vendría antes del libertador prometido. Isaías 40:3.
 
-### Mateo 3:1-3. *En aquellos días llegó Juan el Bautista predicando en el desierto de Judea, diciendo: Arrepiéntanse, porque el reino de los cielos se ha acercado. Porque este Juan es aquel a quien se refirió el profeta Isaías, cuando dijo: VOZ DEL QUE CLAMA EN EL DESIERTO:PREPAREN EL CAMINO DEL SEÑOR, HAGAN DERECHAS SUS SENDAS*
+### Mateo 3:1-3. *En aquellos días llegó Juan el Bautista predicando en el <u>desierto</u> de Judea, diciendo: Arrepiéntanse, porque el reino de los cielos se ha acercado. Porque este Juan es aquel a quien se refirió el profeta Isaías, cuando dijo: VOZ DEL QUE CLAMA EN EL DESIERTO:PREPAREN EL CAMINO DEL SEÑOR, HAGAN DERECHAS SUS SENDAS*
 
-#### Otra señal de Dios que facilita que las personas identifiquen al prometido.
+#### Otra señal de Dios que facilita que las personas <u>identifiquen</u> al prometido.
 
-### En Mateo 3:4. *Y él, Juan, tenía un vestido de pelo de camello y un cinto de cuero a la cintura; y su comida era de langostas y miel silvestre.*
+### En Mateo 3:4. *Y él, Juan, tenía un vestido de pelo de camello y un <u>cinto</u> de cuero a la cintura; y su comida era de langostas y miel silvestre.*
 
-### Mateo 3:5-6. *Entonces Jerusalén, toda Judea y toda la región alrededor del Jordán, acudían a él,  y confesando sus pecados, eran bautizados por Juan en el río Jordán.*
+### Mateo 3:5-6. *Entonces Jerusalén, toda Judea y toda la región alrededor del Jordán, acudían a él,  y <u>confesando</u> sus pecados, eran bautizados por Juan en el río Jordán.*
 
-### Muchos de los judíos se arrepintieron cuando escucharon el mensaje de Juan. Su forma de pensar cambió por completo con respecto a Dios, y en lo que ellos estaban confiando, entendían que eran pecadores y creyeron en el mensaje de Juan el bautista, que había de venir un Libertador y Salvador.
+### Muchos de los judíos se arrepintieron cuando escucharon el mensaje de Juan. Su forma de pensar cambió por completo con <u>respecto</u> a Dios, y en lo que ellos estaban confiando, entendían que eran pecadores y creyeron en el mensaje de Juan el bautista, que había de venir un Libertador y Salvador.
 
-### El bautismo es la identificación pública con un mensaje, en este contexto los creyentes que se bautizaban en el bautismo de Juan se identificaban con el mensaje que Juan predicaba, en otras palabras creían en el mensaje de Juan y por eso se bautizaban.
+### El bautismo es la identificación pública con un mensaje, en este contexto los <u>creyentes</u> que se bautizaban en el bautismo de Juan se identificaban con el mensaje que Juan predicaba, en otras palabras creían en el mensaje de Juan y por eso se bautizaban.
 
-### Sabemos que el mensaje de Juan no era el "evangelio" y su bautismo era diferente al bautismo del creyente. Tenemos el testimonio de Apolos en Hechos 18:24-28: solo sabía del bautismo de Juan. Solo tenía un mensaje parcial. Eres un pecador y necesitas un Salvador. Juan no los bautizó en el nombre del Padre, del Hijo y del Espíritu Santo, como se nos dice que hagamos en el bautismo del creyente.
+### Sabemos que el mensaje de Juan no era el "evangelio" y su bautismo era diferente al bautismo del creyente. Tenemos el testimonio de Apolos en Hechos 18:24-28: solo sabía del bautismo de Juan. Solo tenía un mensaje parcial. Eres un pecador y necesitas un Salvador. Juan no los bautizó en el <u>nombre</u> del Padre, del Hijo y del Espíritu Santo, como se nos dice que hagamos en el bautismo del creyente.
 
-### Mateo 3:7-10. *Pero cuando vio que muchos de los fariseos y saduceos venían para el bautismo, les dijo: ¡Camada de víboras! ¿Quién les enseñó a huir de la ira que está al venir? Por tanto, den frutos dignos de arrepentimiento; y no piensen que pueden decirse a sí mismos: “Tenemos a Abraham por padre”, porque les digo que Dios puede levantar hijos a Abraham de estas piedras. El hacha ya está puesta a la raíz de los árboles; por tanto, todo árbol que no da buen fruto es cortado y echado al fuego.*
+### Mateo 3:7-10. *Pero cuando vio que muchos de los fariseos y saduceos venían para el bautismo, les dijo: ¡Camada de víboras! ¿Quién les enseñó a huir de la ira que está al venir? Por tanto, den frutos dignos de arrepentimiento; y no <u>piensen</u> que pueden decirse a sí mismos: “Tenemos a Abraham por padre”, porque les digo que Dios puede levantar hijos a Abraham de estas piedras. El hacha ya está puesta a la raíz de los árboles; por tanto, todo árbol que no da buen fruto es cortado y echado al fuego.*
 
-### Estos líderes religiosos eran personas orgullosas debido a las posiciones que ocupaban. Se negaron a admitir que eran pecadores. Por lo tanto, Juan fue absolutamente franco cuando les habló.
+### Estos líderes religiosos eran personas orgullosas debido a las <u>posiciones</u> que ocupaban. Se negaron a admitir que eran pecadores. Por lo tanto, Juan fue absolutamente franco cuando les habló.
 
-### Los fariseos eran un movimiento laico no político dentro del judaísmo. Se les llamaba los piadosos. Se opusieron a la sincretización de la cultura y la religión griega con el judaísmo alrededor del año 100 a.C. Enseñaron una estricta adherencia a la ley, no solo a la ley escrita de Moisés (Torá), sino también a las tradiciones orales que afirmaban que Moisés les había transmitido. Su objetivo era defender la ley escrita contra cualquier posible infracción.
+### Los fariseos eran un movimiento laico no político dentro del judaísmo. Se les llamaba los piadosos. Se opusieron a la sincretización de la cultura y la religión griega con el judaísmo alrededor del año 100 a.C. Enseñaron una estricta adherencia a la ley, no solo a la ley escrita de Moisés (Torá), sino también a las tradiciones orales que afirmaban que Moisés les había transmitido. Su objetivo era <u>defender</u> la ley escrita contra cualquier posible infracción.
 
-### Eran personas temerosas de Dios y respetuosas de la ley. Eran famosos por transmitir sus interpretaciones de generación en generación de boca en boca, estableciendo una tradición oral sobre asuntos legales. Argumentaron que, si todos obedecían la ley, la nación sería purgada del pecado y Dios establecería su reino sobre todas las naciones.
+### Eran personas temerosas de Dios y respetuosas de la ley. Eran famosos por transmitir sus interpretaciones de generación en generación de boca en boca, estableciendo una tradición oral sobre asuntos legales. Argumentaron que, si todos obedecían la ley, la nación sería <u>purgada</u> del pecado y Dios establecería su reino sobre todas las naciones.
 
-### Las tradiciones de los fariseos se convirtieron en los escritos rabínicos conocidos como la Mishná y el Talmud. La influencia principal de los fariseos estaba en las comunidades locales de la sinagoga, mientras que los saduceos eran más influyentes en la adoración del templo en Jerusalén y en el Sanedrín.
+### Las tradiciones de los fariseos se convirtieron en los escritos rabínicos conocidos como la Mishná y el Talmud. La influencia principal de los fariseos estaba en las comunidades locales de la sinagoga, mientras que los saduceos eran más influyentes en la adoración del <u>templo</u> en Jerusalén y en el Sanedrín.
 
-### Los saduceos estaban formados por la clase sacerdotal, eran políticamente nombrados, eran el nexo entre Roma e Israel, controlaron el sistema religioso del Templo, Según Josefo, eran poderosos aristócratas que no tenían gran favor e influencia entre el pueblo, debido a que servían tambien a Roma como mediadores religiosos.
+### Los saduceos estaban formados por la clase sacerdotal, eran políticamente nombrados, eran el nexo entre Roma e Israel, controlaron el sistema religioso del Templo, Según Josefo, eran poderosos aristócratas que no tenían gran <u>favor</u> e influencia entre el pueblo, debido a que servían tambien a Roma como mediadores religiosos.
 
-### Sus puntos de vista eran contarios a los de los fariseos, Principalmente solo se aferraban al Pentateuco y rechazaban las tradiciones orales que tanto apreciaban los fariseos. También en contraste, no creían en la resurrección de los muertos (Mateo 23:23-33) o de los seres angelicales (Hechos 23:8).
+### Sus puntos de vista eran contarios a los de los fariseos, Principalmente solo se aferraban al Pentateuco y rechazaban las tradiciones orales que tanto apreciaban los fariseos. También en contraste, no <u>creían</u> en la resurrección de los muertos (Mateo 23:23-33) o de los seres angelicales (Hechos 23:8).
 
-### Algunos de los otros líderes judíos que se presentaron habrían sido llamados escribas. Eran hombres que copiaron los escritos originales de los profetas en nuevos rollos. También se les conocía como abogados o maestros de la ley porque su trabajo incluía interpretar el significado de las leyes de Dios y los escritos de los profetas judíos.
+### Algunos de los otros líderes judíos que se presentaron habrían sido llamados escribas. Eran hombres que copiaron los escritos originales de los profetas en nuevos rollos. También se les conocía como abogados o maestros de la ley porque su <u>trabajo</u> incluía interpretar el significado de las leyes de Dios y los escritos de los profetas judíos.
 
-### Los escribas estaban orgullosos de su conocimiento de las Escrituras. Pensaban que agradaban a Dios porque habían memorizado grandes secciones del Antiguo Testamento y se consideraban mejores que los demás porque pensaban que conocían el significado de la palabra de Dios.
+### Los escribas estaban <u>orgullosos</u> de su conocimiento de las Escrituras. Pensaban que agradaban a Dios porque habían memorizado grandes secciones del Antiguo Testamento y se consideraban mejores que los demás porque pensaban que conocían el significado de la palabra de Dios.
 
-### Los fariseos estaban orgullosos de su observancia de la ley y pensaban que eso era lo que los hacía aceptables a Dios. Los saduceos estaban orgullosos de su poder y posición. Los escribas estaban orgullosos de su conocimiento de las Escrituras.
+### Los fariseos estaban orgullosos de su observancia de la ley y <u>pensaban</u> que eso era lo que los hacía aceptables a Dios. Los saduceos estaban orgullosos de su poder y posición. Los escribas estaban orgullosos de su conocimiento de las Escrituras.
 
-### Entonces, Desde una apariencia externa, no habría habido nadie que pareciera ser más santo, justo o espiritual en todo Israel que estos tres grupos de hombres (Filipenses 3:3-8). No había nadie que fuera más estricto en cuanto a guardar la ley que los fariseos. La ley no te lleva al pecado, ¡exige una santidad perfecta! Sin embargo, debido a su arrogancia y santurronería, ¡Juan los llama una camada de víboras!
+### Entonces, Desde una apariencia externa, no habría habido nadie que pareciera ser más santo, justo o espiritual en todo Israel que estos tres grupos de hombres (Filipenses 3:3-8). No había nadie que fuera más estricto en cuanto a guardar la ley que los <u>fariseos</u>. La ley no te lleva al pecado, ¡exige una santidad perfecta! Sin embargo, debido a su arrogancia y santurronería, ¡Juan los llama una camada de víboras!
 
-### También sabemos que más tarde Jesús se vuelve igual de fuerte con ellos llamándolos sepulcros blanqueados. En ninguna parte de las Escrituras se ve ni se oye a nadie referirse a aquellos que el mundo vería como lo peor de lo peor con un lenguaje tan fuerte.
+### También sabemos que más tarde Jesús se vuelve igual de fuerte con ellos llamándolos sepulcros blanqueados. En ninguna parte de las Escrituras se ve ni se oye a nadie referirse a aquellos que el mundo vería como lo peor de lo peor con un lenguaje tan <u>fuerte</u>.
 
-### Aquí vemos el verdadero problema. ¡Efesios 2 dice que todos los hombres nacen como hijos de ira! Por lo tanto, ¡ninguna cantidad de observancia de la ley o conocimiento de las Escrituras u oración o ayuno o cualquier otra cosa espiritual puede cambiar ese hecho! Solo la muerte sustitutiva de un Salvador puede hacer eso.
+### Aquí vemos el verdadero problema. ¡Efesios 2 dice que todos los hombres nacen como hijos de ira! Por lo tanto, ¡ninguna cantidad de observancia de la ley o conocimiento de las Escrituras u oración o ayuno o cualquier otra cosa espiritual puede cambiar ese hecho! Solo la <u>muerte</u> sustitutiva de un Salvador puede hacer eso.
 
-### Este es un tema recurrente que vemos a lo largo de las Escrituras. Dios está en contra de los orgullosos, pero ayuda y salva a los quebrantados y humildes, ¡aquellos que reconocen que su única esperanza es la misericordia de Dios! En las duras palabras de Juan a estos líderes religiosos, Dios les estaba dando la oportunidad de reconocer su propio pecado y arrepentirse también. Juan también sabía que estos hombres estaban orgullosos de ser descendientes de Abraham y que esto los ayudaba a ser aceptables ante Dios.
+### Este es un tema recurrente que vemos a lo largo de las Escrituras. Dios está en contra de los orgullosos, pero ayuda y salva a los quebrantados y humildes, ¡aquellos que reconocen que su única esperanza es la misericordia de Dios! En las duras palabras de Juan a estos líderes religiosos, Dios les estaba <u>dando</u> la oportunidad de reconocer su propio pecado y arrepentirse también. Juan también sabía que estos hombres estaban orgullosos de ser descendientes de Abraham y que esto los ayudaba a ser aceptables ante Dios.
 
-### ¿Quién era Abraham de todos modos? Un hombre que Dios por su gracia llamó de entre los adoradores de ídolos y a través del cual creó la nación de Israel. No había nación de Israel antes de que Dios los creara; así que Juan tenía razón, Dios podría levantar más hijos de Abraham de las piedras si quisiera. Juan está señalando que todo esto de lo que estás orgulloso y en lo que confías no tiene valor. Es lo mismo que Pablo hizo en Filipenses 3:3-8.
+### ¿Quién era Abraham de todos modos? Un hombre que Dios por su gracia llamó de entre los adoradores de ídolos y a través del cual creó la nación de Israel. No había nación de Israel antes de que Dios los creara; así que Juan tenía razón, Dios podría levantar más hijos de Abraham de las piedras si quisiera. Juan está señalando que <u>todo</u> esto de lo que estás orgulloso y en lo que confías no tiene valor. Es lo mismo que Pablo hizo en Filipenses 3:3-8.
 
-### ¡El versículo 10 es asombroso! Verás, los líderes confiaban en sus esfuerzos por ganarse el favor de Dios. Decir que el árbol será cortado de raíz era decir que, si un árbol es infructuoso, entonces todo el árbol no es bueno y no solo el fruto. No es que simplemente hagamos COSAS mal, ¡ESTAMOS equivocados! ¡Somos pecadores y el juicio de Dios está sobre NOSOTROS, no simplemente sobre las cosas que hemos hecho!
+### ¡El versículo 10 es asombroso! Verás, los líderes confiaban en sus esfuerzos por ganarse el favor de Dios. Decir que el árbol será cortado de raíz era decir que, si un árbol es infructuoso, entonces todo el <u>árbol</u> no es bueno y no solo el fruto. No es que simplemente hagamos COSAS mal, ¡ESTAMOS equivocados! ¡Somos pecadores y el juicio de Dios está sobre NOSOTROS, no simplemente sobre las cosas que hemos hecho!
 
-### Mateo 3:11-12 *Yo, en verdad, los bautizo a ustedes con agua para arrepentimiento, pero Aquel que viene detrás de mí es más poderoso que yo, a quien no soy digno de quitar las sandalias; Él los bautizará con el Espíritu Santo y con fuego. El bieldo está en Su mano y limpiará completamente Su era; y recogerá Su trigo en el granero, pero quemará la paja en un fuego que no se apaga*
+### Mateo 3:11-12 *Yo, en verdad, los bautizo a ustedes con agua para arrepentimiento, pero Aquel que viene detrás de mí es más poderoso que yo, a quien no soy digno de quitar las sandalias; Él los bautizará con el Espíritu <u>Santo</u> y con fuego. El bieldo está en Su mano y limpiará completamente Su era; y recogerá Su trigo en el granero, pero quemará la paja en un fuego que no se apaga*
 
-### Obviamente, Juan sabía que su ministerio era preparar el camino para el Libertador venidero, y obviamente entendía cuál sería el papel del Libertador. Afirma que el Libertador venidero bautizaría con el Espíritu Santo a los que lo acepten y los que lo rechacen serán juzgados. Observe la diferencia entre Juan y estos líderes y cada uno de sus puntos de vista de sí mismos ante Dios. Los líderes eran ricos, altos y encumbrados; sin embargo, Dios los llama una camada de víboras. Juan era pobre, vivía en el desierto, tenía ropa de pobre y comía langosta y miel silvestre. Dijo de sí mismo que era solo una voz y que no era digno ni siquiera de llevar las sandalias de Jesús. Pero en Mateo 11:11, Jesús dijo: De todos los que han vivido en Israel, ninguno es más grande que Juan el Bautista.
+### Obviamente, Juan sabía que su ministerio era preparar el camino para el Libertador venidero, y obviamente entendía cuál sería el papel del Libertador. Afirma que el Libertador venidero bautizaría con el Espíritu Santo a los que lo <u>acepten</u> y los que lo rechacen serán juzgados. Observe la diferencia entre Juan y estos líderes y cada uno de sus puntos de vista de sí mismos ante Dios. Los líderes eran ricos, altos y encumbrados; sin embargo, Dios los llama una camada de víboras. Juan era pobre, vivía en el desierto, tenía ropa de pobre y comía langosta y miel silvestre. Dijo de sí mismo que era solo una voz y que no era digno ni siquiera de llevar las sandalias de Jesús. Pero en Mateo 11:11, Jesús dijo: De todos los que han vivido en Israel, ninguno es más grande que Juan el Bautista.
 
 ### Mateo 3:13-17.*Entonces Jesús llegó de Galilea al Jordán, a donde estaba Juan, para ser bautizado por él. 
- Pero Juan trató de impedirlo, diciendo: Yo necesito ser bautizado por Ti, ¿y Tú vienes a mí?. Jesús le respondió: Permítelo ahora; porque es conveniente que así cumplamos toda justicia. Entonces Juan consintió. Después de ser bautizado, Jesús salió del agua inmediatamente; y los cielos se abrieron en ese momento y él vio al Espíritu de Dios que descendía como una paloma y venía sobre Él. Y se oyó una voz de los cielos que decía: Este es Mi Hijo amado en quien me he complacido*
+ Pero Juan trató de impedirlo, diciendo: Yo necesito ser bautizado por Ti, ¿y Tú vienes a mí?. Jesús le respondió: Permítelo ahora; porque es conveniente que así cumplamos toda justicia. Entonces Juan consintió. Después de ser bautizado, Jesús salió del <u>agua</u> inmediatamente; y los cielos se abrieron en ese momento y él vio al Espíritu de Dios que descendía como una paloma y venía sobre Él. Y se oyó una voz de los cielos que decía: Este es Mi Hijo amado en quien me he complacido*
 
-### Jesús tenía unos treinta años cuando vino a Juan para ser bautizado (Lucas 3:23). La razón de Jesús para venir a bautizarse no fue la misma razón por la que todos los demás vinieron. Todos vinieron a mostrar su arrepentimiento y su creencia en su necesidad de un Libertador. Jesús vino a mostrar que aceptaba a Juan como profeta de Dios. Dios requirió el bautismo de aquellos que aceptaron el mensaje de arrepentimiento de Juan. Si Jesús no hubiera sido bautizado, la gente habría pensado que se negaba a obedecer los mandamientos de Dios o que no creía que el mensaje que Juan el bautista que provenía de Dios. Lucas 7:29-30.
+### Jesús tenía unos treinta años cuando vino a Juan para ser bautizado (Lucas 3:23). La razón de Jesús para venir a bautizarse no fue la misma razón por la que todos los demás vinieron. Todos vinieron a mostrar su arrepentimiento y su creencia en su necesidad de un Libertador. Jesús vino a <u>mostrar</u> que aceptaba a Juan como profeta de Dios. Dios requirió el bautismo de aquellos que aceptaron el mensaje de arrepentimiento de Juan. Si Jesús no hubiera sido bautizado, la gente habría pensado que se negaba a obedecer los mandamientos de Dios o que no creía que el mensaje que Juan el bautista que provenía de Dios. Lucas 7:29-30.
 
-### Cuando Jesús volvió a salir del agua después de ser bautizado, Dios, el Espíritu Santo, vino a estar con Él para guiarlo y capacitarlo para la obra que Dios planeó que hiciera. Jesús era Dios Todopoderoso, pero cuando se hizo hombre, vivió como hombre y dependió del Espíritu Santo para hacer la voluntad de Dios aquí en la tierra. tal como tenemos que hacer.  Isaías 11:2; Juan 8:28; Mateo 14:10.
+### Cuando Jesús volvió a salir del agua después de ser bautizado, Dios, el Espíritu Santo, vino a estar con Él para guiarlo y capacitarlo para la obra que Dios planeó que hiciera. Jesús era Dios Todopoderoso, pero cuando se hizo hombre, vivió como hombre y dependió del Espíritu Santo para <u>hacer</u> la voluntad de Dios aquí en la tierra. tal como tenemos que hacer.  Isaías 11:2; Juan 8:28; Mateo 14:10.
 
-### Entonces Dios declara desde el cielo: Este es mi Hijo amado en quien me complazco. ¿Podría ser más clara la declaración de Dios de quién era el Libertador? Tuviste todo el cumplimiento milagroso de la profecía. Entonces viene el Espíritu Santo y se posa sobre Jesús, y entonces Dios Padre mismo declara con voz audible desde el cielo: ESTE ES MI HIJO AMADO EN QUIEN YO ESTOY MUY COMPLACIDO.
+### Entonces Dios declara desde el cielo: Este es mi Hijo amado en quien me complazco. ¿Podría ser más clara la declaración de Dios de quién era el Libertador? Tuviste todo el cumplimiento milagroso de la <u>profecía</u>. Entonces viene el Espíritu Santo y se posa sobre Jesús, y entonces Dios Padre mismo declara con voz audible desde el cielo: ESTE ES MI HIJO AMADO EN QUIEN YO ESTOY MUY COMPLACIDO.
 
-###  Juan 1:29-34. Juan el bautista reconoció las señales que mostraban claramente que Jesús era el prometido. Él lo llama el Cordero de Dios que quita el pecado del mundo, lo que nos da una progresión interesante. En Génesis, tenemos el registro de un cordero por persona. En Éxodo, tenemos un cordero para una familia. Después de que se creó el tabernáculo, cada año se sacrificaba un cordero por toda la nación.
+###  Juan 1:29-34. Juan el bautista reconoció las señales que mostraban claramente que Jesús era el prometido. Él lo llama el Cordero de Dios que quita el pecado del mundo, lo que nos da una progresión <u>interesante</u>. En Génesis, tenemos el registro de un cordero por persona. En Éxodo, tenemos un cordero para una familia. Después de que se creó el tabernáculo, cada año se sacrificaba un cordero por toda la nación.
 
-### Ahora, Jesús es el cordero de Dios enviado para todo el mundo, Aquel a través de Quien el propósito y la gracia de Dios nos fueron otorgados desde la eternidad pasada.
+### Ahora, Jesús es el cordero de Dios <u>enviado</u> para todo el mundo, Aquel a través de Quien el propósito y la gracia de Dios nos fueron otorgados desde la eternidad pasada.
 
 ## Preguntas de revisión
 
@@ -4729,75 +4703,75 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 # JESÚS RESISTIÓ LAS TENTACIONES DE SATANÁS
 
-### Mateo 4:1 *Entonces Jesús fue llevado por el Espíritu al desierto para ser tentado por el diablo.*
+### Mateo 4:1 *Entonces Jesús fue llevado por el Espíritu al <u>desierto</u> para ser tentado por el diablo.*
 
-### Uno de los conceptos erróneos más grande en el mundo de hoy es la relación que existe entre Dios y Satanás, Hoy en día es evidente que muchos los ven en igualdad de condiciones: Uno es poderoso y bueno y el otro es poderoso y malo. La verdad es que, aunque Satanás tiene temporalmente cierta autoridad, fue creado por Dios y nunca podrá vencer a su Hacedor Todopoderoso.
+### Uno de los conceptos erróneos más grande en el mundo de hoy es la relación que existe entre Dios y Satanás, Hoy en día es evidente que muchos los ven en igualdad de condiciones: Uno es poderoso y bueno y el otro es poderoso y malo. La verdad es que, aunque Satanás tiene temporalmente cierta <u>autoridad</u>, fue creado por Dios y nunca podrá vencer a su Hacedor Todopoderoso.
 
-### Satanás tentó a Jesús. Satanás es el gran enemigo de Dios. Odia a Dios, y también odia al hombre que fue creado por Dios. Satanás se ha opuesto a su Creador desde el principio. Así fue como se convirtió en Satanás en primer lugar.
+### Satanás tentó a Jesús. Satanás es el gran enemigo de Dios. Odia a Dios, y también odia al hombre que fue <u>creado</u> por Dios. Satanás se ha opuesto a su Creador desde el principio. Así fue como se convirtió en Satanás en primer lugar.
 
-### ¿Cuáles fueron algunas de las formas en que hemos visto a Satanás tratar de obstaculizar el plan de Dios de enviar al Libertador?
+### ¿Cuáles fueron algunas de las formas en que hemos visto a Satanás tratar de obstaculizar el plan de Dios de <u>enviar</u> al Libertador?
 
-#### El asesinato de Abel
+#### El <u>asesinato</u> de Abel.
 
-#### Faraón aniquilando a los israelitas
+#### Faraón aniquilando a los <u>israelitas</u>.
 
-#### Tratando de destruir a Jesús cuando era un bebé
+#### Tratando de <u>destruir</u> a Jesús cuando era un bebé.
 
-### Cada batalla en la que Satanás ha tratado de enfrentar a Dios, la ha perdido cada vez, pero aun así nunca deja de rebelarse contra Dios y obstaculizar Su plan para salvar al hombre.
+### Cada batalla en la que Satanás ha tratado de enfrentar a Dios, la ha perdido cada vez, pero aun así <u>nunca</u> deja de rebelarse contra Dios y obstaculizar Su plan para salvar al hombre.
 
-### Mateo 4:1. Observe quién tenía el control y hacía la dirección en esta situación: ¡El Espíritu Santo y NO Satanás! ¡Fue el Espíritu Santo el que llevó a Jesús a este lugar para ser tentado por el Diablo! ¿Por qué? Puede haber más razones, pero me gustaría señalar dos de las principales. Primero, el primer hombre, Adán, cuando fue tentado, no obedeció a Dios. Jesús vino como el segundo hombre o el postrer Adán – Romanos 5:18-19; 1 Corintios 15:45-47. Era necesario, por lo tanto, que Jesús, como hombre, también fuera tentado a mostrar que era perfectamente apto para tomar su lugar como el Último Adán, la Cabeza de un nuevo pueblo – 2 Corintios 5:17.
+### Mateo 4:1. Observe quién tenía el control y hacía la dirección en esta situación: ¡El Espíritu Santo y NO Satanás! ¡Fue el Espíritu Santo el que llevó a Jesús a este lugar para ser tentado por el Diablo! ¿Por qué? Puede haber más razones, pero me gustaría señalar dos de las principales. Primero, el <u>primer</u> hombre, Adán, cuando fue tentado, no obedeció a Dios. Jesús vino como el segundo hombre o el postrer Adán – Romanos 5:18-19; 1 Corintios 15:45-47. Era necesario, por lo tanto, que Jesús, como hombre, también fuera tentado a mostrar que era perfectamente apto para tomar su lugar como el Último Adán, la Cabeza de un nuevo pueblo – 2 Corintios 5:17.
 
-### En segundo lugar, convertirse en el Autor de la Salvación Eterna – Hebreos 5:5-9. Una vez más, ¡Jesús era 100% hombre! Al nacer hombre, creció, maduró y aprendió.
+### En segundo lugar, convertirse en el Autor de la Salvación Eterna – Hebreos 5:5-9. Una vez más, ¡Jesús era 100% hombre! Al <u>nacer</u> hombre, creció, maduró y aprendió.
 
-### Es de notar que Jesús siendo 100% Dios agrega un elemento de misterio a todo el asunto. Jesús creció en sabiduría y estatura y en favor de Dios y de los hombres. Lucas 2:52
+### Es de notar que Jesús siendo 100% Dios agrega un elemento de <u>misterio</u> a todo el asunto. Jesús creció en sabiduría y estatura y en favor de Dios y de los hombres. Lucas 2:52
 
-### Entonces, ¿Cómo pudo Jesús, que era 100% Dios, crecer en favor de Dios? La única explicación que puedo dar es como hombre y más específicamente como el Libertador. Como hombre, parece evidente que Jesús tuvo que experimentar el verdadero significado de la obediencia en términos del sufrimiento que implicaba para ser perfeccionado para el papel que desempeñaría como nuestro Capitán y Sumo Sacerdote.
+### Entonces, ¿Cómo pudo Jesús, que era 100% Dios, crecer en favor de Dios? La única explicación que puedo dar es como hombre y más específicamente como el Libertador. Como hombre, parece evidente que Jesús tuvo que experimentar el verdadero significado de la obediencia en términos del sufrimiento que implicaba para ser perfeccionado para el <u>papel</u> que desempeñaría como nuestro Capitán y Sumo Sacerdote.
 
-### Un comentario decía: "En un sentido real no completamente comprensible, la encarnación le dio al ya infinitamente sabio y perfecto Hijo de Dios la adquisición experiencial de conocimiento sobre la condición humana. El sufrimiento se convirtió así en una realidad que Él probó y de ahí puede simpatizar profundamente con Sus seguidores".
+### Un comentario decía: "En un sentido real no completamente <u>comprensible</u>, la encarnación le dio al ya infinitamente sabio y perfecto Hijo de Dios la adquisición experiencial de conocimiento sobre la condición humana. El sufrimiento se convirtió así en una realidad que Él probó y de ahí puede simpatizar profundamente con Sus seguidores".
 
-### Desde el punto de vista de Satanás, estaba tratando que Jesús pecara para que no se convirtiera en el Libertador del mundo, sin embargo él fue usado como una herramienta en las manos de Dios que estaba siendo utilizada para preparar a nuestro Libertador en todo sentido, ¡no para obstaculizarlo! ¡Se trataba de Dios haciendo que Jesús fuera el Autor de nuestra Salvación!
+### Desde el punto de vista de Satanás, estaba tratando que Jesús pecara para que no se convirtiera en el Libertador del mundo, sin embargo él fue usado como una herramienta en las <u>manos</u> de Dios que estaba siendo utilizada para preparar a nuestro Libertador en todo sentido, ¡no para obstaculizarlo! ¡Se trataba de Dios haciendo que Jesús fuera el Autor de nuestra Salvación!
 
-### Mateo 4:2-4. *Después de haber ayunado cuarenta días y cuarenta noches, entonces tuvo hambre. Y acercándose el tentador, le dijo: Si eres Hijo de Dios, ordena que estas piedras se conviertan en pan. Pero Jesús le respondió: Escrito está: “NO SOLO DE PAN VIVIRÁ EL HOMBRE, SINO DE TODA PALABRA QUE SALE DE LA BOCA DE DIOS”.* 
+### Mateo 4:2-4. *Después de haber ayunado cuarenta días y cuarenta noches, entonces tuvo <u>hambre</u>. Y acercándose el tentador, le dijo: Si eres Hijo de Dios, ordena que estas piedras se conviertan en pan. Pero Jesús le respondió: Escrito está: “NO SOLO DE PAN VIVIRÁ EL HOMBRE, SINO DE TODA PALABRA QUE SALE DE LA BOCA DE DIOS”.* 
 
-### De nuevo, más evidencia de que Jesús era verdaderamente hombre. Él no usó Sus atributos divinos para liberarse de ninguna de las dificultades que le trajo ser humano. Lo que realmente me llama la atención es que Jesús no ideó sus propias soluciones para sus problemas. Adán y Eva lo intentaron, Caín lo hizo, Abraham lo hizo, Jacob lo hizo, y la lista continúa.
+### De nuevo, más evidencia de que Jesús era verdaderamente hombre. Él no usó Sus atributos divinos para <u>liberarse</u> de ninguna de las dificultades que le trajo ser humano. Lo que realmente me llama la atención es que Jesús no ideó sus propias soluciones para sus problemas. Adán y Eva lo intentaron, Caín lo hizo, Abraham lo hizo, Jacob lo hizo, y la lista continúa.
 
-### Sin embargo, Jesús no confió en su propio entendimiento. Para mí, esta es una de las áreas que lo contrasta a Él, el Segundo Adán, con el primer Adán. Dios originalmente no tenía la intención de que el hombre supiera lo que es bueno y lo que es malo y dependiera de sí mismo para esta determinación. Adán y Eva fueron tentados por el deseo de ser como Dios y de conocer por sí mismos lo que está bien y lo que está mal. Fueron tentados y cayeron en la trampa. Aquí ahora, Jesús también fue tentado a tomar el asunto en sus propias manos y decidir por sí mismo lo que era mejor, pero permaneció dependiente de Dios el Padre.
+### Sin embargo, Jesús no confió en su propio entendimiento. Para mí, esta es una de las áreas que lo contrasta a Él, el Segundo Adán, con el primer Adán. Dios originalmente no tenía la intención de que el hombre supiera lo que es <u>bueno</u> y lo que es malo y dependiera de sí mismo para esta determinación. Adán y Eva fueron tentados por el deseo de ser como Dios y de conocer por sí mismos lo que está bien y lo que está mal. Fueron tentados y cayeron en la trampa. Aquí ahora, Jesús también fue tentado a tomar el asunto en sus propias manos y decidir por sí mismo lo que era mejor, pero permaneció dependiente de Dios el Padre.
 
-### También vea aquí un gran contraste en la visión de la vida de Jesús en comparación con la mayoría de los cristianos. Para muchos, cómo es nuestra existencia en esta tierra es lo más importante para nosotros y dependemos de Dios solo para que Él nos bendiga y haga que nuestras vidas sean como queremos que sean. ¡Dios y su voluntad fueron el enfoque de Jesús! No lo ves aquí tratando de hacer que Dios cambie Sus circunstancias. Creo que ahí es hacia donde estamos creciendo, creciendo en el conocimiento de Dios hasta el punto de que las cosas y circunstancias de la vida ya no son lo que nos controla.
+### También vea aquí un gran contraste en la visión de la vida de Jesús en comparación con la mayoría de los cristianos. Para muchos, cómo es nuestra existencia en esta tierra es lo más importante para nosotros y dependemos de Dios solo para que Él nos <u>bendiga</u> y haga que nuestras vidas sean como queremos que sean. ¡Dios y su voluntad fueron el enfoque de Jesús! No lo ves aquí tratando de hacer que Dios cambie Sus circunstancias. Creo que ahí es hacia donde estamos creciendo, creciendo en el conocimiento de Dios hasta el punto de que las cosas y circunstancias de la vida ya no son lo que nos controla.
 
-### Creo que algunos cristianos tienen miedo de crecer hasta ese punto. Pensamos que de alguna manera, cuanto más nos acerquemos a Dios, menos disfrutaremos de las cosas de esta vida. Estoy totalmente en desacuerdo y diría que creo que lo contrario es cierto. ¡Cuanto más crezco en el conocimiento de Dios, más libre me siento para disfrutar verdaderamente de la creación y de las cosas que disfruto en esta vida como regalos de Sus manos!
+### Creo que algunos cristianos tienen miedo de crecer hasta ese punto. Pensamos que de alguna manera, cuanto más nos acerquemos a Dios, menos disfrutaremos de las cosas de esta vida. Estoy totalmente en desacuerdo y diría que creo que lo <u>contrario</u> es cierto. ¡Cuanto más crezco en el conocimiento de Dios, más libre me siento para disfrutar verdaderamente de la creación y de las cosas que disfruto en esta vida como regalos de Sus manos!
 
-### Ese es el corazón de Dios. ¡Él es el dador de todas las cosas buenas! Nuevamente, regrese a Génesis 1 y recuerde la gran variedad de todas las cosas que Él creó simplemente para el disfrute del hombre.
+### Ese es el corazón de Dios. ¡Él es el dador de todas las cosas buenas! Nuevamente, <u>regrese</u> a Génesis 1 y recuerde la gran variedad de todas las cosas que Él creó simplemente para el disfrute del hombre.
 
-### Mateo 4:5-7. *Entonces el diablo lo llevó a la ciudad santa, y lo puso sobre el pináculo del templo,  y le dijo: Si eres Hijo de Dios, lánzate abajo, pues escrito está: “A SUS ÁNGELES TE ENCOMENDARÁ”, Y: “EN LAS MANOS TE LLEVARÁN, NO SEA QUE TU PIE TROPIECE EN PIEDRA”  Jesús le contestó: También está escrito: “NO TENTARÁS AL SEÑOR TU DIOS”*
+### Mateo 4:5-7. *Entonces el diablo lo llevó a la ciudad santa, y lo puso sobre el <u>pináculo</u> del templo,  y le dijo: Si eres Hijo de Dios, lánzate abajo, pues escrito está: “A SUS ÁNGELES TE ENCOMENDARÁ”, Y: “EN LAS MANOS TE LLEVARÁN, NO SEA QUE TU PIE TROPIECE EN PIEDRA”  Jesús le contestó: También está escrito: “NO TENTARÁS AL SEÑOR TU DIOS”*
 
-### Observe que en la primera tentación, Satanás simplemente le dijo a Jesús que convirtiera las piedras en pan, tentándolo porque tenía hambre. Esta vez, Satanás tuerce las Escrituras y las usa para tentar a Jesús a pecar. Jesús ya confiaba en el amor de Dios Padre por Él, por lo que no se sintió tentado a poner a Dios a prueba. La confianza de Jesús se basaba en la verdad y no en la experiencia.
+### Observe que en la primera tentación, Satanás simplemente le dijo a Jesús que convirtiera las <u>piedras</u> en pan, tentándolo porque tenía hambre. Esta vez, Satanás tuerce las Escrituras y las usa para tentar a Jesús a pecar. Jesús ya confiaba en el amor de Dios Padre por Él, por lo que no se sintió tentado a poner a Dios a prueba. La confianza de Jesús se basaba en la verdad y no en la experiencia.
 
-### Satanás torció la Palabra de Dios cuando también tentó a Eva: ¿Dijo Dios que no podías comer de NINGÚN árbol en el jardín? Estas siguen siendo las principales tácticas de Satanás, mentir y engañar.
+### Satanás torció la Palabra de Dios cuando también tentó a Eva: ¿Dijo Dios que no podías comer de NINGÚN árbol en el jardín? Estas siguen siendo las principales <u>tácticas</u> de Satanás, mentir y engañar.
 
-### Observe que no trató de tentar a Jesús con pecados malvados, sino con lo que sonaba bíblico o razonable. Cuando no conocemos a Dios, somos fácilmente engañados y dudamos de Él y de Su bondad. A menudo tenemos la actitud de que Dios tiene algo que demostrarnos... como si NOSOTROS fuéramos Dios y Él tuviera que respondernos. Pero la verdad es que Dios ya se ha probado a sí mismo. No importa a dónde vayas en este mundo, ¿De qué estamos constantemente rodeados? ¡Su creación! ¡Su obra!
+### Observe que no trató de tentar a Jesús con <u>pecados</u> malvados, sino con lo que sonaba bíblico o razonable. Cuando no conocemos a Dios, somos fácilmente engañados y dudamos de Él y de Su bondad. A menudo tenemos la actitud de que Dios tiene algo que demostrarnos... como si NOSOTROS fuéramos Dios y Él tuviera que respondernos. Pero la verdad es que Dios ya se ha probado a sí mismo. No importa a dónde vayas en este mundo, ¿De qué estamos constantemente rodeados? ¡Su creación! ¡Su obra!
 
-### ¿Qué más nos ha dado? ¡Un testimonio escrito, la Biblia! Si nos negamos a creer en la voz de Dios a través de la creación y Su Palabra escrita, entonces no tenemos derecho a exigir nada más. ¡Él es Dios y nosotros NO!
+### ¿Qué más nos ha dado? ¡Un testimonio escrito, la Biblia! Si nos negamos a <u>creer</u> en la voz de Dios a través de la creación y Su Palabra escrita, entonces no tenemos derecho a exigir nada más. ¡Él es Dios y nosotros NO!
 
-### Dios no es un ser inferior que podemos controlar y manipular para satisfacer nuestras necesidades y hacer lo que queremos. ¡Él nos ha dado Su Palabra, y Él espera que la creamos porque es de ÉL! Independientemente de nuestras circunstancias, ¡Dios espera que creamos en Su Palabra!
+### Dios no es un ser inferior que podemos controlar y manipular para satisfacer nuestras necesidades y hacer lo que queremos. ¡Él nos ha dado Su Palabra, y Él espera que la creamos porque es de ÉL! Independientemente de nuestras circunstancias, ¡Dios espera que <u>creamos</u> en Su Palabra!
 
-### Mateo 4:8-11. *Otra vez el diablo lo llevó a un monte muy alto, y le mostró todos los reinos del mundo y la gloria de ellos, y le dijo: «Todo esto te daré, si te postras y me adoras Entonces Jesús le dijo:¡Vete, Satanás! Porque escrito está: “AL SEÑOR TU DIOS ADORARÁS, Y SOLO A ÉL SERVIRÁS”  El diablo entonces lo dejó y al instante, unos ángeles vinieron y le servían.* 
+### Mateo 4:8-11. *Otra vez el diablo lo llevó a un monte muy alto, y le mostró todos los reinos del mundo y la gloria de ellos, y le dijo: «Todo esto te daré, si te postras y me adoras Entonces Jesús le dijo:¡Vete, <u>Satanás</u>! Porque escrito está: “AL SEÑOR TU DIOS ADORARÁS, Y SOLO A ÉL SERVIRÁS”  El diablo entonces lo dejó y al instante, unos ángeles vinieron y le servían.* 
 
-### Mira Génesis 1:28. Originalmente, Dios les dio a Adán y Eva dominio sobre la tierra; pero cuando Adán se rebeló contra Dios, Satanás intervino inmediatamente para controlar al hombre e influir en la actitud de la humanidad hacia Dios y Su Palabra.
+### Mira Génesis 1:28. Originalmente, Dios les dio a Adán y Eva dominio sobre la tierra; pero cuando Adán se rebeló contra Dios, Satanás intervino inmediatamente para controlar al hombre e influir en la actitud de la humanidad hacia Dios y Su <u>Palabra</u>.
 
 ### Véase Juan 8:44; 2 Corintios 4:4; 1 Juan 5:19.
 
-### Nuestra carne tiene la misma mentalidad que Satanás. Por eso Jesús dijo: Vosotros sois de vuestro padre el diablo. Entonces, cualquiera que no haya creído en Cristo como Salvador, está controlado por su carne al 100%, en ese sentido está bajo el control de Satanás y la mentalidad será exactamente la misma. Véase 1 Juan 3:8. Incluso como creyentes, cuando caminamos en la carne, es cuando es posible que Satanás nos engañe, porque la mentalidad será la misma.
+### Nuestra carne tiene la misma mentalidad que Satanás. Por eso Jesús dijo: Vosotros sois de vuestro padre el diablo. Entonces, cualquiera que no haya creído en Cristo como Salvador, está controlado por su carne al 100%, en ese sentido está bajo el <u>control</u> de Satanás y la mentalidad será exactamente la misma. Véase 1 Juan 3:8. Incluso como creyentes, cuando caminamos en la carne, es cuando es posible que Satanás nos engañe, porque la mentalidad será la misma.
 
-### El intento de Satanás de hacer que Jesús lo adore, lo tomo como lo mismo que cuando era Lucifer y trató de tomar el lugar de Dios. Recuerdo que cuando era un joven creyente pensaba: ¿Por qué Satanás no se da por vencido? Tiene que saber que nunca tendrá una oportunidad. Es tan intrínsecamente malvado que es imposible para él cambiar o hacer algo diferente. Es tan malvado que se ha vuelto un necio, se encuentra enceguecido creyendo que podría vencer a Dios, Su creador. Nuestra carne nos hace exactamente lo mismo. Nos hace pensar que no necesitamos de Dios ni de sus provisiones.
+### El intento de Satanás de hacer que Jesús lo adore, lo tomo como lo mismo que cuando era Lucifer y trató de tomar el lugar de Dios. Recuerdo que cuando era un joven creyente pensaba: ¿Por qué Satanás no se da por vencido? Tiene que saber que nunca tendrá una oportunidad. Es tan intrínsecamente malvado que es imposible para él cambiar o hacer algo diferente. Es tan malvado que se ha vuelto un necio, se encuentra enceguecido creyendo que podría vencer a Dios, Su creador. Nuestra carne nos hace exactamente lo <u>mismo</u>. Nos hace pensar que no necesitamos de Dios ni de sus provisiones.
 
-### Al responder a Satanás, Jesús una vez más depende de Dios al depender de Su Palabra. Aunque Él es Dios, como hombre, Jesús no dependía de Sus respuestas, sino que continuó dependiendo de Dios el Padre y Sus provisiones. Véase 1 Pedro 5:6-10; Efesios 6:16. Esto es exactamente lo que hizo Jesús.
+### Al responder a Satanás, Jesús una vez más depende de Dios al depender de Su Palabra. Aunque Él es Dios, como hombre, Jesús no dependía de Sus respuestas, sino que continuó dependiendo de Dios el Padre y Sus provisiones. Véase 1 Pedro 5:6-10; Efesios 6:16. Esto es exactamente lo que <u>hizo</u> Jesús.
 
-### En pocas palabras, Satanás es un ser creado que también es responsable ante su Creador. No tuvo éxito cuando era Lucifer para tomar el lugar de Dios y todos sus intentos de obstaculizar los planes y propósitos de Dios han sido infructuosos.
+### En pocas palabras, Satanás es un ser <u>creado</u> que también es responsable ante su Creador. No tuvo éxito cuando era Lucifer para tomar el lugar de Dios y todos sus intentos de obstaculizar los planes y propósitos de Dios han sido infructuosos.
 
-### Nuestro mundo está impregnado del concepto de una lucha entre las fuerzas del bien y las fuerzas del mal. A menudo se ve como una batalla horizontal. Pero no es así entre Dios y Satanás. ¡Dios es supremo y es totalmente superior a Satanás en todos los sentidos hasta el infinito!
+### Nuestro mundo está impregnado del concepto de una lucha entre las fuerzas del bien y las fuerzas del mal. A menudo se ve como una batalla horizontal. Pero no es así entre Dios y Satanás. ¡Dios es supremo y es totalmente superior a Satanás en todos los <u>sentidos</u> hasta el infinito!
 
-### Aunque Satanás dejó a Jesús en este momento, uno de los otros relatos del evangelio dice que se fue para un momento más oportuno. Sabemos que regresó una y otra vez, tratando de todas las formas posibles de hacer que Jesús desobedeciera a su Padre. Hebreos dice que tentó a Jesús con todas las tentaciones conocidas por el hombre, pero Jesús nunca pecó. ¡Él es verdaderamente el Capitán de nuestra salvación!
+### Aunque Satanás dejó a Jesús en este momento, uno de los otros <u>relatos</u> del evangelio dice que se fue para un momento más oportuno. Sabemos que regresó una y otra vez, tratando de todas las formas posibles de hacer que Jesús desobedeciera a su Padre. Hebreos dice que tentó a Jesús con todas las tentaciones conocidas por el hombre, pero Jesús nunca pecó. ¡Él es verdaderamente el Capitán de nuestra salvación!
 
 ## Preguntas de revisión
 
@@ -4813,73 +4787,73 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ## El trabajo de Juan termina
 
-### Marcos 1:14-15 *Después que Juan había sido encarcelado, Jesús vino a Galilea predicando el evangelio de Dios. El tiempo se ha cumplido, decía, y el reino de Dios se ha acercado; arrepiéntanse y crean en el evangelio.*
+### Marcos 1:14-15 *Después que Juan había sido encarcelado, Jesús <u>vino</u> a Galilea predicando el evangelio de Dios. El tiempo se ha cumplido, decía, y el reino de Dios se ha acercado; arrepiéntanse y crean en el evangelio.*
 
-### A medida que continúa a través de la Biblia como lo hemos hecho nosotros, y SI mira todo a través de la cuadrícula que 2 Timoteo 1:9; 1 Pedro 1:19-20 provee; es decir, que antes de que hubiera tiempo, Dios predeterminó Su plan de redención que se llevaría a cabo a través de Cristo, cuando miras todo bajo esa luz, entonces desde el principio puedes ver claramente que la Palabra escrita de Dios nos fue dada como un registro progresivo de todo lo que Dios ha hecho para lograr esto. A través del Antiguo Testamento tenemos la preparación para que el plan se cumpla. La creación, la caída, la promesa, la elección de Israel (la línea), mostrándoles una y otra vez su necesidad de un Salvador. Ahora bien, en los evangelios ha venido el Prometido.
+### A medida que continúa a través de la Biblia como lo hemos hecho nosotros, y SI mira todo a través de la cuadrícula que 2 Timoteo 1:9; 1 Pedro 1:19-20 provee; es decir, que antes de que hubiera tiempo, Dios predeterminó Su plan de redención que se llevaría a cabo a través de Cristo, cuando <u>miras</u> todo bajo esa luz, entonces desde el principio puedes ver claramente que la Palabra escrita de Dios nos fue dada como un registro progresivo de todo lo que Dios ha hecho para lograr esto. A través del Antiguo Testamento tenemos la preparación para que el plan se cumpla. La creación, la caída, la promesa, la elección de Israel (la línea), mostrándoles una y otra vez su necesidad de un Salvador. Ahora bien, en los evangelios ha venido el Prometido.
 
-### Hemos visto todo lo que Dios hizo para hacer posible que el mundo lo reconociera. Desde el momento de su nacimiento y hasta que fue a Juan para ser bautizado y llevado a ser tentado por el diablo, todo esto fue para dejar en claro quién era Él, para preparar los corazones para aceptarlo como el Prometido y para prepararlo para ser el Libertador.
+### Hemos visto todo lo que Dios hizo para hacer <u>posible</u> que el mundo lo reconociera. Desde el momento de su nacimiento y hasta que fue a Juan para ser bautizado y llevado a ser tentado por el diablo, todo esto fue para dejar en claro quién era Él, para preparar los corazones para aceptarlo como el Prometido y para prepararlo para ser el Libertador.
 
-### Ahora, a medida que continuamos en esta lección, creo que podemos ver a Dios llevando las cosas un paso más allá mientras continúa tomándose pacientemente el tiempo para demostrarle al mundo quién es realmente Jesús. Ese es el hecho de que, antes de que Jesús realmente hiciera lo que vino a hacer aquí, morir por nuestros pecados, Dios primero hizo que pasara tres años enteros en los que sanó (muy públicamente) a los enfermos, expulsó demonios y cumplió la profecía. Una vez más, creo que Dios estaba dejando muy, muy claro que Jesús era el prometido.
+### Ahora, a medida que continuamos en esta lección, creo que podemos ver a Dios llevando las cosas un paso más allá mientras continúa tomándose pacientemente el <u>tiempo</u> para demostrarle al mundo quién es realmente Jesús. Ese es el hecho de que, antes de que Jesús realmente hiciera lo que vino a hacer aquí, morir por nuestros pecados, Dios primero hizo que pasara tres años enteros en los que sanó (muy públicamente) a los enfermos, expulsó demonios y cumplió la profecía. Una vez más, creo que Dios estaba dejando muy, muy claro que Jesús era el prometido.
 
 ## El trabajo de Juan estaba terminado.
 
-### A medida que continuamos mirando varios aspectos de la vida y el ministerio de Jesús mientras estuvo en esta tierra, creo que es muy importante que tengamos en cuenta lo que dice Hebreos 1:13: ¡que en estos últimos días, Dios ha hablado a través de Su Hijo, Quien es el resplandor de Su gloria y la imagen expresada de Su persona!
+### A medida que continuamos mirando varios <u>aspectos</u> de la vida y el ministerio de Jesús mientras estuvo en esta tierra, creo que es muy importante que tengamos en cuenta lo que dice Hebreos 1:13: ¡que en estos últimos días, Dios ha hablado a través de Su Hijo, Quien es el resplandor de Su gloria y la imagen expresada de Su persona!
 
-### Lo que sea que veamos de la vida de Jesús, ¡así es exactamente Dios! Independientemente de cómo veamos a Jesús interactuando con las personas, sabemos que Dios es inmutable y nos ve con el mismo corazón y compasión hoy.
+### Lo que sea que veamos de la <u>vida</u> de Jesús, ¡así es exactamente Dios! Independientemente de cómo veamos a Jesús interactuando con las personas, sabemos que Dios es inmutable y nos ve con el mismo corazón y compasión hoy.
 
-### Juan fue enviado con el propósito de preparar el camino para el Prometido. Vimos en lecciones pasadas que comunicó fielmente el mensaje que se le dio para proclamar.
+### Juan fue enviado con el propósito de preparar el <u>camino</u> para el Prometido. Vimos en lecciones pasadas que comunicó fielmente el mensaje que se le dio para proclamar.
 
-### Mirando hacia atrás en Marcos 1:4-5, vemos que una gran cantidad de personas creyeron en su mensaje y se bautizaron. Junto con aquellos cuyos corazones estaban preparados y creían, también estaban aquellos que continuaron siendo santurrones, sin ver su propio pecado y la necesidad de un Salvador.
+### Mirando hacia atrás en Marcos 1:4-5, vemos que una gran cantidad de personas creyeron en su mensaje y se bautizaron. Junto con aquellos cuyos corazones estaban preparados y creían, también estaban aquellos que continuaron siendo santurrones, sin ver su propio <u>pecado</u> y la necesidad de un Salvador.
 
-### También vimos cuán enérgico y franco se volvió Juan con tales personas. Una de esas ocasiones fue con el propio rey Herodes. No nos tomaremos el tiempo para leerlo, pero Marcos 6:14-29 nos da el relato de Juan confrontando a Herodes de su pecado y cómo Herodes lo encarceló y luego lo decapitó por ello.
+### También vimos cuán <u>enérgico</u> y franco se volvió Juan con tales personas. Una de esas ocasiones fue con el propio rey Herodes. No nos tomaremos el tiempo para leerlo, pero Marcos 6:14-29 nos da el relato de Juan confrontando a Herodes de su pecado y cómo Herodes lo encarceló y luego lo decapitó por ello.
 
-### Entonces, está muy claro que Juan proclamó fielmente el mensaje de arrepentimiento que Dios lo había llamado a proclamar. Marcos dijo que después de que Juan fue encarcelado, Jesús vino a Galilea y básicamente comenzó su ministerio. Comenzó a enseñar y ministrar públicamente. Marcos nos dice que Jesús tenía dos declaraciones principales. El ¡Ha llegado el momento! El tiempo señalado de preparación y expectativa de Dios, la era del Antiguo Testamento, ahora se había cumplido.
+### Entonces, está muy claro que Juan proclamó fielmente el mensaje de arrepentimiento que Dios lo había llamado a proclamar. Marcos dijo que después de que Juan fue encarcelado, Jesús vino a Galilea y básicamente comenzó su ministerio. Comenzó a <u>enseñar</u> y ministrar públicamente. Marcos nos dice que Jesús tenía dos declaraciones principales. El ¡Ha llegado el momento! El tiempo señalado de preparación y expectativa de Dios, la era del Antiguo Testamento, ahora se había cumplido.
 
-### Lucas 4:16-21. Esto fue en un momento posterior, pero el mismo tipo de mensaje. Es lo que hemos estado diciendo todo el tiempo. El plan de redención de Dios era de antes de tiempo. A través del Antiguo Testamento Él prepara el escenario, y ahora en los evangelios lo está realizando.
+### Lucas 4:16-21. Esto fue en un momento posterior, pero el mismo tipo de <u>mensaje</u>. Es lo que hemos estado diciendo todo el tiempo. El plan de redención de Dios era de antes de tiempo. A través del Antiguo Testamento Él prepara el escenario, y ahora en los evangelios lo está realizando.
 
-### La segunda declaración fue: El reino de Dios está cerca. Un diccionario teológico que consulté dice que reino significa realeza o gobierno real. En el término está involucrada la autoridad soberana de un gobernante, la actividad de gobernar y el ámbito del gobierno, incluidos sus beneficios. Por lo tanto, el reino de Dios es un concepto que se refiere a la actividad soberana de Dios de gobernar sobre Su creación.
+### La segunda declaración fue: *El reino de Dios está cerca*. Un diccionario teológico dice que reino <u>significa</u> realeza o gobierno real. En el término está involucrada la autoridad soberana de un gobernante, la actividad de gobernar y el ámbito del gobierno, incluidos sus beneficios. Por lo tanto, el reino de Dios es un concepto que se refiere a la actividad soberana de Dios de gobernar sobre Su creación.
 
-### Cuando Jesús dijo que el reino de Dios está cerca, significaba que el gobierno de Dios está cerca, que Jesús, el agente del gobierno de Dios, estaba presente entre ellos; Por lo tanto, ¡arrepiéntete de tu pecado y cree en esta buena noticia!
+### Cuando Jesús dijo que el reino de Dios está cerca, significaba que el gobierno de Dios está cerca, que Jesús, el <u>agente</u> del gobierno de Dios, estaba presente entre ellos; Por lo tanto, ¡arrepiéntete de tu pecado y cree en esta buena noticia!
 
-### El hombre ya no tendría que vivir bajo el reinado y la autoridad de Satanás, porque el Rey legítimo había venido. Vencería al pecado y a Satanás y liberaría a los cautivos. Véase Lucas 4:18-19; Juan 12:31; 2 Corintios 4:4; Efesios 2:2.
+### El hombre ya no tendría que vivir bajo el reinado y la autoridad de Satanás, porque el Rey <u>legítimo</u> había venido. Vencería al pecado y a Satanás y liberaría a los cautivos. Véase Lucas 4:18-19; Juan 12:31; 2 Corintios 4:4; Efesios 2:2.
 
-### Jesús les dijo que creyeran. Esto no es diferente de lo que hemos visto a lo largo del Antiguo Testamento. La fe, la creencia en la promesa de Dios del Libertador venidero, es siempre lo que justifica a alguien. Pero ahora el objetivo real de esa fe se está volviendo más claro. Dios había estado mostrando que Jesús es el Libertador, y ahora Jesús también estaba comenzando a declararlo.
+### Jesús les dijo que creyeran. Esto no es diferente de lo que hemos visto a lo largo del Antiguo Testamento. La fe, la creencia en la promesa de Dios del Libertador venidero, es siempre lo que justifica a alguien. Pero ahora el objetivo real de esa fe se está volviendo más claro. Dios había estado mostrando que <u>Jesús</u> es el Libertador, y ahora Jesús también estaba comenzando a declararlo.
 
-### Es interesante notar que ahora que el Libertador había venido, ya no era suficiente creer que vendría. Aquellos que terminaron rechazando a Jesús como el Mesías todavía creían en la promesa de Dios de enviar un Libertador. Simplemente no creían que fuera Jesús. NO creer que Jesús era Él era lo mismo que no creer en absoluto. Hubo una progresión hacia lo que la gente debía creer.
+### Es interesante notar que ahora que el Libertador había venido, ya no era suficiente creer que vendría. Aquellos que terminaron rechazando a Jesús como el Mesías todavía creían en la promesa de Dios de enviar un Libertador. Simplemente no creían que fuera Jesús. NO creer que Jesús era Él era lo mismo que no <u>creer</u> en absoluto. Hubo una progresión hacia lo que la gente debía creer.
 
-### Marcos 1:16-20. *Mientras caminaba junto al mar de Galilea, vio a Simón y a Andrés, hermano de Simón, echando una red en el mar, porque eran pescadores. Y Jesús les dijo: Vengan conmigo, y Yo haré que ustedes sean pescadores de hombres. Dejando al instante las redes, ellos lo siguieron. Yendo un poco más adelante, Jesús vio a Jacobo, el hijo de Zebedeo, y a su hermano Juan, los cuales estaban también en la barca, remendando las redes. Al instante los llamó; y ellos, dejando a su padre Zebedeo en la barca con los jornaleros, se fueron con Jesús.*
+### Marcos 1:16-20. *Mientras caminaba junto al mar de Galilea, vio a Simón y a Andrés, hermano de Simón, echando una red en el mar, porque eran pescadores. Y Jesús les dijo: Vengan conmigo, y Yo haré que ustedes sean pescadores de hombres. Dejando al <u>instante</u> las redes, ellos lo siguieron. Yendo un poco más adelante, Jesús vio a Jacobo, el hijo de Zebedeo, y a su hermano Juan, los cuales estaban también en la barca, remendando las redes. Al instante los llamó; y ellos, dejando a su padre Zebedeo en la barca con los jornaleros, se fueron con Jesús.*
 
-### La pequeña declaración de Jesús aquí, seguidme y os haré pescadores de hombres, podría tomar toda una lección por sí sola. No me tomaré el tiempo para hacer eso, pero quiero darles una pequeña descripción general de lo que estoy hablando. En primer lugar, cuando Jesús hizo ese LLAMADO, la promesa se basó en lo que ÉL haría de ellos y no en lo que eran en sí mismos.
+### La pequeña declaración de Jesús aquí, seguidme y os haré pescadores de hombres, podría tomar toda una lección por sí sola. No me tomaré el tiempo para hacer eso, pero quiero darles una pequeña descripción general de lo que estoy hablando. En primer lugar, cuando Jesús <u>hizo</u> ese LLAMADO, la promesa se basó en lo que ÉL haría de ellos y no en lo que eran en sí mismos.
 
-### (Ejemplo del discipulado de Pedro por parte de Jesús)
+### **(Ejemplo del discipulado de Pedro por parte de Jesús)**
 
-### Marcos 1:21-22. *Mar 1:21  Entraron en Capernaúm; y enseguida, en el día de reposo, Jesús entró en la sinagoga y comenzó a enseñar.  Y se admiraban de Su enseñanza; porque les enseñaba como quien tiene autoridad, y no como los escribas.*
+### Marcos 1:21-22. *Mar 1:21  Entraron en Capernaúm; y enseguida, en el día de reposo, Jesús entró en la sinagoga y comenzó a enseñar.  Y se admiraban de Su enseñanza; porque les enseñaba como quien tiene <u>autoridad</u>, y no como los escribas.*
 
-### Comparar a Jesús con los escribas y fariseos es un ejemplo de cómo se ve la vida cristiana como religión en contraste de una relación. Jesús conocía íntimamente a Dios el Padre y, por lo tanto, habló de la verdad con una autoridad que los escribas y fariseos no tenían, ¡porque no conocían a Dios! ¡Jesús conocía a Dios, conocía sus caminos, conocía su corazón! Los fariseos solo conocían mandamientos y pautas estrictas. Estaban siguiendo una religión, mientras que Jesús estaba viviendo una relación. ¡Nuestras vidas cristianas serán de la misma manera!
+### Comparar a Jesús con los escribas y fariseos es un ejemplo de cómo se ve la vida cristiana como religión en contraste de una relación. Jesús conocía íntimamente a Dios el Padre y, por lo tanto, habló de la verdad con una <u>autoridad</u> que los escribas y fariseos no tenían, ¡porque no conocían a Dios! ¡Jesús conocía a Dios, conocía sus caminos, conocía su corazón! Los fariseos solo conocían mandamientos y pautas estrictas. Estaban siguiendo una religión, mientras que Jesús estaba viviendo una relación. ¡Nuestras vidas cristianas serán de la misma manera!
 
-### Marcos 1:23-28.*En ese momento estaba en la sinagoga de ellos un hombre con un espíritu inmundo, el cual comenzó a gritar: ¿Qué tienes que ver con nosotros, Jesús de Nazaret? ¿Has venido a destruirnos? Yo sé quien Tú eres: el Santo de Dios. Jesús lo reprendió, diciendo: ¡Cállate, y sal de él!. Entonces el espíritu inmundo, causándole convulsiones al hombre, gritó a gran voz y salió de él. Y todos se asombraron de tal manera que discutían entre sí, diciendo:¿Qué es esto? ¡Una enseñanza nueva con autoridad! Él manda aun a los espíritus inmundos y le obedecen». Enseguida Su fama se extendió por todas partes, por toda la región alrededor de Galilea.*
+### Marcos 1:23-28.*En ese momento estaba en la sinagoga de ellos un hombre con un espíritu inmundo, el cual comenzó a gritar: ¿Qué tienes que ver con nosotros, Jesús de Nazaret? ¿Has venido a destruirnos? Yo sé quien Tú eres: el Santo de Dios. Jesús lo reprendió, diciendo: ¡Cállate, y sal de él!. Entonces el espíritu inmundo, causándole convulsiones al hombre, gritó a gran voz y salió de él. Y todos se asombraron de tal manera que <u>discutían</u> entre sí, diciendo:¿Qué es esto? ¡Una enseñanza nueva con autoridad! Él manda aun a los espíritus inmundos y le obedecen». Enseguida Su fama se extendió por todas partes, por toda la región alrededor de Galilea.*
 
-### Muy a menudo hoy en día, el enfoque de este tipo de pasaje generalmente termina estando en los demonios y lo que pueden y no pueden hacer y cómo luchar contra ellos. Lo real que se revela a través de esto es Dios mismo y no los demonios: Jesús es el Libertador, Su Autoridad y poder, Su amor, gracia, compasión y misericordia.
+### Muy a menudo hoy en día, el enfoque de este tipo de pasaje generalmente termina estando en los demonios y lo que pueden y no pueden hacer y cómo luchar contra ellos. Lo real que se revela a través de esto es Dios mismo y no los demonios: Jesús es el Libertador, Su Autoridad y poder, Su amor, gracia, <u>compasión</u> y misericordia.
 
-### Una vez más, Jesús es la imagen expresada de Dios. Los demonios le dijeron a Jesús que los dejara en paz y le preguntaron: *¿Viniste a arruinarnos?* Un comentario dijo que sería exacto que esto fuera una declaración en lugar de una pregunta: *Has venido a arruinarnos.* Los demonios pudieron percibir el significado de la presencia de Jesús y su amenaza a su poder y autoridad.
+### Una vez más, Jesús es la imagen expresada de Dios. Los demonios le dijeron a Jesús que los dejara en paz y le preguntaron: *¿Viniste a arruinarnos?* Un comentario dijo que sería exacto que esto fuera una declaración en lugar de una pregunta: *Has venido a arruinarnos.* Los demonios pudieron <u>percibir</u> el significado de la presencia de Jesús y su amenaza a su poder y autoridad.
 
 ### Entonces Jesús los silenció.
 
-### ¿Recuerdas lo que Jesús dijo en el versículo 15? El reino de Dios está cerca, ¡el gobierno de Dios está aquí! Bueno, aquí mismo, ante sus propios ojos, ¡Jesús lo demuestra al mostrar físicamente Su autoridad sobre el mundo de los espíritus! ¡Jesús no solo silenció a los demonios, sino que también les ordenó que se fueran, dejando absolutamente claro que el gobierno de Dios había venido en la vida de Jesús!
+### ¿Recuerdas lo que Jesús dijo en el versículo 15? El reino de Dios está cerca, ¡el gobierno de Dios está aquí! Bueno, aquí mismo, ante sus propios ojos, ¡Jesús lo demuestra al mostrar físicamente Su autoridad sobre el mundo de los espíritus! ¡Jesús no solo silenció a los demonios, sino que también les ordenó que se <u>fueran</u>, dejando absolutamente claro que el gobierno de Dios había venido en la vida de Jesús!
 
-### Marcos 1:29-39. *Inmediatamente después de haber salido de la sinagoga, fueron a casa de Simón y Andrés, con Jacobo y Juan. La suegra de Simón estaba en cama con fiebre, y enseguida hablaron a Jesús de ella. Él se le acercó, y tomándola de la mano la levantó, y la fiebre la dejó; y ella les servía. A la caída de la tarde, después de la puesta del sol, trajeron a Jesús todos los que estaban enfermos y los endemoniados. Toda la ciudad se había amontonado a la puerta. Y sanó a muchos que estaban enfermos de diversas enfermedades, y expulsó muchos demonios; y no dejaba hablar a los demonios, porque ellos sabían quién era Él. Levantándose muy de mañana, cuando todavía estaba oscuro, Jesús salió y fue a un lugar solitario, y allí oraba. Simón y sus compañeros salieron a buscar a Jesús. Lo encontraron y le dijeron: Todos te buscan. Jesús les respondió: Vamos a otro lugar, a los pueblos vecinos, para que Yo predique también allí, porque para eso he venido. Y fue por toda Galilea, predicando en sus sinagogas y expulsando demonios.*
+### Marcos 1:29-39. *Inmediatamente después de haber salido de la sinagoga, fueron a casa de Simón y Andrés, con Jacobo y Juan. La suegra de Simón estaba en cama con fiebre, y enseguida hablaron a Jesús de ella. Él se le acercó, y tomándola de la mano la levantó, y la fiebre la dejó; y ella les servía. A la caída de la tarde, después de la puesta del sol, trajeron a Jesús todos los que estaban enfermos y los endemoniados. Toda la ciudad se había amontonado a la puerta. Y sanó a muchos que <u>estaban</u> enfermos de diversas enfermedades, y expulsó muchos demonios; y no dejaba hablar a los demonios, porque ellos sabían quién era Él. Levantándose muy de mañana, cuando todavía estaba oscuro, Jesús salió y fue a un lugar solitario, y allí oraba. Simón y sus compañeros salieron a buscar a Jesús. Lo encontraron y le dijeron: Todos te buscan. Jesús les respondió: Vamos a otro lugar, a los pueblos vecinos, para que Yo predique también allí, porque para eso he venido. Y fue por toda Galilea, predicando en sus sinagogas y expulsando demonios.*
 
-### Sabes, las palabras realmente no pueden hacerle justicia a esta imagen de Jesús. En un momento tienes esta clara manifestación de poder y autoridad absolutos sobre las fuerzas del mal y en el momento siguiente esta clara manifestación de máximo amor, compasión y misericordia por toda la humanidad. ¡Observe que dice que Él sanó a TODOS los enfermos y no había condiciones! Una vez más, ¡Él es la imagen expresada de Dios! ¡Así es exactamente como es la Trinidad!
+### Sabes, las palabras realmente no pueden hacerle justicia a esta imagen de Jesús. En un momento tienes esta clara manifestación de poder y <u>autoridad</u> absolutos sobre las fuerzas del mal y en el momento siguiente esta clara manifestación de máximo amor, compasión y misericordia por toda la humanidad. ¡Observe que dice que Él sanó a TODOS los enfermos y no había condiciones! Una vez más, ¡Él es la imagen expresada de Dios! ¡Así es exactamente como es la Trinidad!
 
-### Marcos 1:40-42. *Un leproso vino rogando a Jesús, y arrodillándose, le dijo: Si quieres, puedes limpiarme». Movido a compasión, extendiendo Jesús la mano, lo tocó y le dijo: Quiero; sé limpio.*
+### Marcos 1:40-42. *Un leproso vino rogando a Jesús, y arrodillándose, le dijo: Si <u>quieres</u>, puedes limpiarme». Movido a compasión, extendiendo Jesús la mano, lo tocó y le dijo: Quiero; sé limpio.*
 
-### Es interesante que arriba, las cosas individuales de las que Jesús sanó a las personas no fueron nombradas específicamente ... solo que había sanado a todos los enfermos. Aquí, sin embargo, este relato específico se registra junto con la enfermedad específica de este hombre. En ese entonces, la lepra era como el SIDA y el cáncer de hoy sin cura conocida. La gente tenía un miedo mortal y la vida de los leprosos era muy difícil, ya que debían aislarse del resto de la sociedad. Muchos de ellos tuvieron que vivir en cuevas fuera de las murallas de Jerusalén.
+### Es interesante que arriba, las cosas individuales de las que Jesús <u>sanó</u> a las personas no fueron nombradas específicamente ... solo que había sanado a todos los enfermos. Aquí, sin embargo, este relato específico se registra junto con la enfermedad específica de este hombre. En ese entonces, la lepra era como el SIDA y el cáncer de hoy sin cura conocida. La gente tenía un miedo mortal y la vida de los leprosos era muy difícil, ya que debían aislarse del resto de la sociedad. Muchos de ellos tuvieron que vivir en cuevas fuera de las murallas de Jerusalén.
 
-### ¡Este relato realmente muestra la vasta sabiduría de Dios, ya que Él puede tomar solo una situación como esta y usarla para revelar mucho sobre Sí mismo! Fue otra prueba de quién era Jesús y la verdad de que el gobierno de Dios está realmente aquí. Mostró Su autoridad sobre el mundo de los espíritus, y ahora muestra Su autoridad sobre la enfermedad y la dolencia. Ambas eran autoridades a las que los humanos están sujetos y sobre las que no pueden influir. ¡También estaba mostrando su amor, compasión y cuidado por cada persona!
+### ¡Este relato realmente muestra la vasta sabiduría de Dios, ya que Él puede <u>tomar</u> solo una situación como esta y usarla para revelar mucho sobre Sí mismo! Fue otra prueba de quién era Jesús y la verdad de que el gobierno de Dios está realmente aquí. Mostró Su autoridad sobre el mundo de los espíritus, y ahora muestra Su autoridad sobre la enfermedad y la dolencia. Ambas eran autoridades a las que los humanos están sujetos y sobre las que no pueden influir. ¡También estaba mostrando su amor, compasión y cuidado por cada persona!
 
-### En ese entonces, la gente ni siquiera quería estar cerca de este tipo, pero aquí está Jesús acercándose y tocándolo compasivamente. Creo que Él también estaba dando una imagen física aquí de la verdad espiritual. La lepra para ellos físicamente es como el pecado lo es para nosotros espiritualmente. Nos controla y no hay nada que podamos hacer por nosotros mismos al respecto. Destruye nuestras vidas y nos separa de Dios.
+### En ese entonces, la gente ni siquiera quería estar <u>cerca</u> de este tipo, pero aquí está Jesús acercándose y tocándolo compasivamente. Creo que Él también estaba dando una imagen física aquí de la verdad espiritual. La lepra para ellos físicamente es como el pecado lo es para nosotros espiritualmente. Nos controla y no hay nada que podamos hacer por nosotros mismos al respecto. Destruye nuestras vidas y nos separa de Dios.
 
-### Solo Jesús podría haber sanado a este hombre de su lepra, y solo el Libertador puede salvarnos del castigo de nuestro pecado. Es una clara demostración de que Él ES el Salvador, así como de Quién es Él y cómo es Él como nuestro Salvador.
+### Solo Jesús podría haber sanado a este hombre de su lepra, y solo el Libertador puede salvarnos del castigo de nuestro pecado. Es una clara demostración de que Él ES el Salvador, así como de Quién es Él y cómo es Él como <u>nuestro</u> Salvador.
 
 ## Preguntas de revisión
 
@@ -4895,73 +4869,73 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 # JESÚS ENSEÑÓ LA NECESIDAD DE UN NUEVO NACIMIENTO
 
-### Juan 3:1-3 *Había un hombre de los fariseos, llamado Nicodemo, prominente entre los judíos. Este vino a Jesús de noche y le dijo: Rabí, sabemos que has venido de Dios como maestro, porque nadie puede hacer las señales que Tú haces si Dios no está con él. Jesús le contestó: En verdad te digo que el que no nace de nuevo no puede ver el reino de Dios*
+### Juan 3:1-3 *Había un hombre de los fariseos, llamado Nicodemo, prominente entre los judíos. Este <u>vino</u> a Jesús de noche y le dijo: Rabí, sabemos que has venido de Dios como maestro, porque nadie puede hacer las señales que Tú haces si Dios no está con él. Jesús le contestó: En verdad te digo que el que no nace de nuevo no puede ver el reino de Dios*
 
-### Cuando estábamos revisando el Antiguo Testamento, ¿cuáles fueron los dos puntos principales de contexto que mantuvimos ante nosotros? Primero fue la verdad que vimos en 2 Timoteo 1:9: Que el propósito y la gracia de Dios nos fueron dados por medio de Cristo antes de los tiempos venideros (lo que significa que siempre se ha tratado de Cristo). En segundo lugar, estaba el hecho de la declaración de Dios sobre la humanidad en Génesis 8:21, que todo pensamiento e intención del corazón del hombre es solo malo desde la infancia (por lo tanto, TIENE que ser todo sobre la gracia de Dios y la obra terminada de Cristo).
+### Cuando estábamos revisando el Antiguo Testamento, ¿cuáles fueron los dos <u>puntos</u> principales de contexto que mantuvimos ante nosotros? Primero fue la verdad que vimos en 2 Timoteo 1:9: Que el propósito y la gracia de Dios nos fueron dados por medio de Cristo antes de los tiempos venideros (lo que significa que siempre se ha tratado de Cristo). En segundo lugar, estaba el hecho de la declaración de Dios sobre la humanidad en Génesis 8:21, que todo pensamiento e intención del corazón del hombre es solo malo desde la infancia (por lo tanto, TIENE que ser todo sobre la gracia de Dios y la obra terminada de Cristo).
 
-### Dios estaba trabajando a lo largo del Antiguo Testamento preparando a la humanidad y apuntándola hacia Su plan eterno de redención, mientras continuaba trabajando para desarrollar y cumplir ese plan. Tener en cuenta estas cosas nos ayudará a tener la perspectiva adecuada de lo que Dios estaba haciendo y de lo que esperaba de la humanidad.
+### Dios estaba trabajando a lo largo del Antiguo Testamento preparando a la humanidad y apuntándola hacia Su plan eterno de redención, mientras continuaba <u>trabajando</u> para desarrollar y cumplir ese plan. Tener en cuenta estas cosas nos ayudará a tener la perspectiva adecuada de lo que Dios estaba haciendo y de lo que esperaba de la humanidad.
 
-### Entonces, ahora avanzamos rápidamente a esta lección en la que Jesús, el Libertador e Hijo de Dios tan esperado y prometido, ha venido. No solo es el prometido que había venido a cumplir el plan eterno, sino que, como Dios el Hijo encarnado, era la imagen expresada de Dios mismo. Todo lo que Dios estaba haciendo a través del Antiguo Testamento para revelar su corazón y su plan eterno de redención, Jesús ahora continuaba revelándolo y llevándolo a cabo, aunque con detalles más específicos.
+### Entonces, ahora avanzamos rápidamente a esta lección en la que Jesús, el Libertador e Hijo de Dios tan esperado y prometido, ha venido. No solo es el prometido que había venido a cumplir el <u>plan</u> eterno, sino que, como Dios el Hijo encarnado, era la imagen expresada de Dios mismo. Todo lo que Dios estaba haciendo a través del Antiguo Testamento para revelar su corazón y su plan eterno de redención, Jesús ahora continuaba revelándolo y llevándolo a cabo, aunque con detalles más específicos.
 
-### Juan 3:1-2. Como saben, la Palabra de Dios es la revelación inspirada y completa de Dios que Él escribió y preservó para la iglesia. Por lo tanto, tenemos que creer que cada relato histórico que Él ha incluido en Su palabra fue incluido por una razón y creo que ese es el caso con este relato de la interacción de Jesús con Nicodemo. Estoy seguro de que había muchas otras personas que habían venido a buscar a Jesús y hacerle este tipo de preguntas, pero ¿por qué este relato con Nicodemo fue elegido por Dios?
+### Juan 3:1-2. Como saben, la Palabra de Dios es la revelación inspirada y completa de Dios que Él escribió y preservó para la iglesia. Por lo tanto, tenemos que creer que cada relato histórico que Él ha incluido en Su palabra fue incluido por una <u>razón</u> y creo que ese es el caso con este relato de la interacción de Jesús con Nicodemo. Estoy seguro de que había muchas otras personas que habían venido a buscar a Jesús y hacerle este tipo de preguntas, pero ¿por qué este relato con Nicodemo fue elegido por Dios?
 
-### Nicodemo era un fariseo. Los fariseos eran líderes religiosos de los judíos y pensaban que eran superiores a todas las demás personas. Los fariseos malinterpretaron toda la premisa de que Dios dio la ley. Pensaban que Dios realmente esperaba que la humanidad la guardara y así obtener una posición justa delante de Dios al guardar la ley.
+### Nicodemo era un fariseo. Los fariseos eran líderes religiosos de los judíos y pensaban que eran superiores a todas las demás personas. Los fariseos malinterpretaron toda la premisa de que Dios dio la ley. Pensaban que Dios realmente esperaba que la <u>humanidad</u> la guardara y así obtener una posición justa delante de Dios al guardar la ley.
 
-### Los fariseos se tomaban esto tan en serio que continuaron estableciendo muchas otras leyes y regulaciones que les ayudarían a no quebrantar la ley que Dios había dado en Levítico. Nadie era más serio en sus intentos de guardar la ley que los fariseos y, por lo tanto, se veían a sí mismos como mejores que todos los demás. Si algún ser humano tenía una razón o una capacidad para gloriarse en la observancia de su ley, eran los fariseos.
+### Los fariseos se tomaban esto tan en serio que continuaron estableciendo muchas otras leyes y regulaciones que les ayudarían a no quebrantar la ley que Dios había dado en Levítico. Nadie era más serio en sus intentos de guardar la ley que los fariseos y, por lo tanto, se veían a sí mismos como mejores que todos los demás. Si algún ser humano tenía una razón o una <u>capacidad</u> para gloriarse en la observancia de su ley, eran los fariseos.
 
-### Filipenses 3:4-6. Los fariseos eran santurrones y no se veían a sí mismos como pecadores. Creían en un Libertador venidero, pero era más para liberar a Israel de los romanos y establecer un reino terrenal que para liberarlos de sus pecados. Por lo tanto, cuando Jesús nació en un pesebre, de padres humildes de Nazaret, su padre era carpintero y parecía ser un hijo ilegítimo…. simplemente no había forma de que los fariseos pudieran siquiera comprender que Él podría ser el prometido. A pesar de que Jesús continuó haciendo muchos milagros que revelaron claramente que era el Hijo de Dios, los fariseos siguieron tropezando con esos temas.
+### Filipenses 3:4-6. Los fariseos eran santurrones y no se veían a sí mismos como pecadores. Creían en un Libertador venidero, pero era más para liberar a Israel de los romanos y establecer un <u>reino</u> terrenal que para liberarlos de sus pecados. Por lo tanto, cuando Jesús nació en un pesebre, de padres humildes de Nazaret, su padre era carpintero y parecía ser un hijo ilegítimo…. simplemente no había forma de que los fariseos pudieran siquiera comprender que Él podría ser el prometido. A pesar de que Jesús continuó haciendo muchos milagros que revelaron claramente que era el Hijo de Dios, los fariseos siguieron tropezando con esos temas.
 
-### 1 Corintios 1:23-25. Por lo tanto, los fariseos odiaban a Jesús y trataban de desacreditar sus milagros en lugar de permitirse creer que un individuo tan humilde podría ser el Libertador prometido. Una de las principales formas en que trataron de desacreditarlo fue diciendo que todos sus milagros se estaban haciendo en el poder de Satanás. El hecho de que Nicodemo pareciera percibir que Jesús fue enviado por Dios, porque sus milagros solo podían realizarse a través del poder de Dios.
+### 1 Corintios 1:23-25. Por lo tanto, los fariseos odiaban a Jesús y trataban de desacreditar sus milagros en lugar de permitirse creer que un individuo tan humilde podría ser el Libertador prometido. Una de las principales formas en que <u>trataron</u> de desacreditarlo fue diciendo que todos sus milagros se estaban haciendo en el poder de Satanás. El hecho de que Nicodemo pareciera percibir que Jesús fue enviado por Dios, porque sus milagros solo podían realizarse a través del poder de Dios.
 
-### Primero, es un testimonio del hecho de que los milagros de Jesús fueron una revelación lo suficientemente clara como para que las personas enseñables o aquellos que tenían oídos para oír pudieran reconocerlo por lo que realmente era. En segundo lugar, era una acusación contra la élite religiosa en Israel, porque aquí había un fariseo humilde y enseñable que estaba respondiendo a la convicción del Espíritu Santo en su vida. Por lo tanto, TODOS no tendrían excusa, por así decirlo. El hecho de que Nicodemo también viniera por la noche es una prueba del odio extremo que los fariseos como grupo deben haber tenido hacia Jesús. Nicodemo tenía miedo de que alguien lo viera asociarse con Él.
+### Primero, es un testimonio del hecho de que los milagros de Jesús fueron una revelación lo suficientemente clara como para que las personas enseñables o aquellos que tenían oídos para oír pudieran reconocerlo por lo que realmente era. En segundo lugar, era una <u>acusación</u> contra la élite religiosa en Israel, porque aquí había un fariseo humilde y enseñable que estaba respondiendo a la convicción del Espíritu Santo en su vida. Por lo tanto, TODOS no tendrían excusa, por así decirlo. El hecho de que Nicodemo también viniera por la noche es una prueba del odio extremo que los fariseos como grupo deben haber tenido hacia Jesús. Nicodemo tenía miedo de que alguien lo viera asociarse con Él.
 
-### Juan 3:3. La respuesta de Jesús a Nicodemo sobre la necesidad de nacer de nuevo o nacer de lo alto tiene dos puntos principales que Dios había estado probando una y otra vez a través del Antiguo Testamento. Primero fue con respecto a ser los hijos de Abraham. Los judíos, especialmente los fariseos, estaban muy orgullosos de ser descendientes de Abraham. Pensaban que ser parientes de Abraham los convertía automáticamente en hijos de Dios o miembros de Su familia.
+### Juan 3:3. La respuesta de Jesús a Nicodemo sobre la necesidad de nacer de nuevo o nacer de lo alto tiene dos puntos principales que Dios había estado probando una y otra vez a través del Antiguo Testamento. Primero fue con respecto a ser los hijos de Abraham. Los judíos, especialmente los <u>fariseos</u>, estaban muy orgullosos de ser descendientes de Abraham. Pensaban que ser parientes de Abraham los convertía automáticamente en hijos de Dios o miembros de Su familia.
 
-### Es por eso que despreciaban tanto a los gentiles o a los no judíos. No fueron elegidos por Dios y no se asociarían con ellos. Tener comunión en la casa de un gentil habría significado contaminación para el judío. Entonces, con esta declaración, Jesús estaba dejando en claro que nacer judío no era suficiente.
+### Es por eso que despreciaban tanto a los <u>gentiles</u> o a los no judíos. No fueron elegidos por Dios y no se asociarían con ellos. Tener comunión en la casa de un gentil habría significado contaminación para el judío. Entonces, con esta declaración, Jesús estaba dejando en claro que nacer judío no era suficiente.
 
-### El segundo punto de Jesús tenía que ver con el hecho de que TODOS los seres humanos (tanto judíos como gentiles) nacen con una naturaleza pecaminosa y, por lo tanto, ninguna cantidad de buenas obras u observancia de la ley podría hacer que alguien sea aceptable ante Dios. Esto vuelve al hecho de la caída y de que la humanidad se convierte en pecadora. Cuando Adán y Eva pecaron, pasaron de ser criaturas perfectamente sin pecado y justas a criaturas cuyos todos los pensamientos e intenciones del corazón eran solo malos desde la infancia. Pasaron de ser personas que tenían una relación perfecta con Dios, plenamente aceptadas por Él y objetos de Su bendición, a personas que estaban separadas de Él condicional, espiritual y eternamente y que ahora eran objetos de Su ira. Efesios 2.
+### El segundo punto de Jesús tenía que ver con el hecho de que TODOS los seres humanos (tanto judíos como gentiles) nacen con una naturaleza pecaminosa y, por lo tanto, ninguna cantidad de buenas obras u observancia de la ley podría hacer que alguien sea aceptable ante Dios. Esto vuelve al hecho de la caída y de que la humanidad se convierte en pecadora. Cuando Adán y Eva pecaron, pasaron de ser criaturas perfectamente sin pecado y justas a criaturas cuyos todos los pensamientos e intenciones del corazón eran solo malos desde la <u>infancia</u>. Pasaron de ser personas que tenían una relación perfecta con Dios, plenamente aceptadas por Él y objetos de Su bendición, a personas que estaban separadas de Él condicional, espiritual y eternamente y que ahora eran objetos de Su ira. Efesios 2.
 
-### Por lo tanto, Jesús estaba diciendo que debido a que la humanidad es inherentemente pecadora por naturaleza, la muerte y la recreación son la ÚNICA solución para el viejo hombre.
+### Por lo tanto, Jesús estaba diciendo que debido a que la humanidad es inherentemente pecadora por naturaleza, la muerte y la recreación son la ÚNICA solución para el <u>viejo</u> hombre.
 
-### 2 Corintios 5:17. Como verá, Nicodemo no entendió lo que Jesús quiso decir, pero la verdad es que los cristianos de hoy todavía no lo entienden. Tendemos a pensar que todo lo que necesitábamos era mejorar, un poco de ayuda extra. ¡No entendemos que nuestra única esperanza y única solución era ser RECREADOS!
+### 2 Corintios 5:17. Como verá, Nicodemo no entendió lo que Jesús quiso decir, pero la verdad es que los cristianos de hoy todavía no lo entienden. Tendemos a pensar que todo lo que necesitábamos era mejorar, con un poco de ayuda extra. ¡No entendemos que nuestra <u>única</u> esperanza y única solución era ser RECREADOS!
 
-### Lea Juan 3:4-5. *Nicodemo le dijo: ¿Cómo puede un hombre nacer siendo ya viejo? ¿Acaso puede entrar por segunda vez en el vientre de su madre y nacer?.Jesús respondió: En verdad te digo que el que no nace de agua y del Espíritu no puede entrar en el reino de Dios.*
+### Lea Juan 3:4-5. *Nicodemo le dijo: ¿Cómo puede un hombre nacer siendo ya viejo? ¿Acaso puede entrar por segunda vez en el vientre de su madre y nacer?.Jesús respondió: En verdad te digo que el que no nace de agua y del Espíritu no puede <u>entrar</u> en el reino de Dios.*
 
-### Obviamente, Nicodemo no entendió lo que Jesús quiso decir, ya que pensó que Jesús estaba diciendo que una persona tenía que nacer físicamente de nuevo. Note que Jesús dijo que el hombre debe nacer tanto de agua como de Espíritu. Algunas denominaciones interpretan nacido de agua como bautismo en agua. Esto es absolutamente falso. Ser bautizado en agua NO agrega ni un ápice a nuestra salvación. Se le dio a la iglesia para que la realizara como una exhibición pública de la fe de la gente.
+### Obviamente, Nicodemo no entendió lo que Jesús quiso decir, ya que pensó que Jesús estaba diciendo que una persona tenía que nacer físicamente de nuevo. Note que Jesús dijo que el hombre debe nacer tanto de agua como de Espíritu. Algunas denominaciones interpretan nacido de agua como bautismo en agua. Esto es absolutamente falso. Ser bautizado en agua NO agrega ni un ápice a <u>nuestra</u> salvación. Se le dio a la iglesia para que la realizara como una exhibición pública de la fe de la gente.
 
-### Creo que el agua al que Jesús se refería era la Palabra de Dios, la verdad. Ningún ser humano viene a este mundo sabiendo ya la verdad sobre Dios, sobre Cristo y cómo recibir la vida eterna, sino que naturalmente crecerá creyendo muchas creencias y conceptos erróneos sobre esas cosas.
+### Creo que el agua al que Jesús se refería era la Palabra de Dios, la verdad. Ningún ser humano viene a este mundo sabiendo ya la verdad sobre Dios, sobre Cristo y cómo recibir la vida eterna, sino que naturalmente crecerá <u>creyendo</u> muchas creencias y conceptos erróneos sobre esas cosas.
 
-### Bueno, así como el agua se usa para lavar la suciedad, el Espíritu Santo usa la Palabra escrita de Dios para lavar todos esos malentendidos y creencias erróneas que las personas son llevadas a creer sobre Dios, sobre sí mismas y sobre el pecado. El Espíritu Santo usará la Palabra de Dios en la vida de las personas para cambiar completamente la vida de todos aquellos que escuchan la verdad y la creen.
+### Bueno, así como el agua se usa para lavar la suciedad, el Espíritu Santo usa la Palabra escrita de Dios para lavar todos esos malentendidos y creencias erróneas que las personas son llevadas a creer sobre Dios, sobre sí mismas y sobre el pecado. El Espíritu Santo usará la Palabra de Dios en la vida de las personas para <u>cambiar</u> completamente la vida de todos aquellos que escuchan la verdad y la creen.
 
-### Simplemente tomar la Biblia y leerla no es suficiente. El Espíritu Santo tiene que iluminar nuestras mentes para que podamos entender claramente la verdad. La Palabra de Dios debe entenderse espiritualmente, y esa es una obra que solo el Espíritu Santo puede hacer.
+### Simplemente tomar la Biblia y leerla no es suficiente. El Espíritu Santo tiene que iluminar nuestras mentes para que podamos <u>entender</u> claramente la verdad. La Palabra de Dios debe entenderse espiritualmente, y esa es una obra que solo el Espíritu Santo puede hacer.
 
-### Esto es lo que significa nacer de agua y espíritu: el Espíritu Santo usando la palabra escrita de Dios para convencer a nuestros corazones de la verdad, de modo que, al creerla, nuestro espíritu se vivifica y así nos convertimos en una nueva creación en Cristo.
+### Esto es lo que significa nacer de agua y espíritu: el Espíritu Santo usando la Palabra escrita de Dios para convencer a nuestros corazones de la verdad, de modo que, al creerla, nuestro espíritu se vivifica y así nos convertimos en una nueva creación en Cristo.
 
-### Otra razón principal por la que Jesús hizo este punto con Nicodemo fue por la importancia que les daban a ellos mismos son hijos de Abraham.
+### Otra razón principal por la que Jesús hizo este punto con Nicodemo fue por la importancia que les <u>daban</u> a ellos mismos son hijos de Abraham.
 
-### Juan 3:6-8. *Lo que es nacido de la carne, carne es, y lo que es nacido del Espíritu, espíritu es. No te asombres de que te haya dicho: “Tienen que nacer de nuevo”. El viento sopla por donde quiere, y oyes su sonido, pero no sabes de dónde viene ni adónde va; así es todo aquel que es nacido del Espíritu*
+### Juan 3:6-8. *Lo que es nacido de la carne, carne es, y lo que es nacido del Espíritu, espíritu es. No te asombres de que te haya dicho: “Tienen que nacer de nuevo”. El viento sopla por donde quiere, y oyes su sonido, pero no sabes de dónde viene ni adónde va; así es todo aquel que es <u>nacido</u> del Espíritu*
 
-### Jesús continúa señalando a Nicodemo que nacer descendientes de Abraham no garantizará la entrada al cielo. Él dijo: Lo que es nacido de la carne, carne es. El solo hecho de nacer descendiente de Abraham solo garantiza que eres un ser humano caído como lo fue Abraham. No te convierte en un hijo de Dios. Ser nacido del Espíritu vivificará tu espíritu y, por lo tanto, te dará vida eterna.
+### Jesús continúa señalando a Nicodemo que <u>nacer</u> descendientes de Abraham no garantizará la entrada al cielo. Él dijo: Lo que es nacido de la carne, carne es. El solo hecho de nacer descendiente de Abraham solo garantiza que eres un ser humano caído como lo fue Abraham. No te convierte en un hijo de Dios. Ser nacido del Espíritu vivificará tu espíritu y, por lo tanto, te dará vida eterna.
 
-### Jesús sabía que esto sería un shock para la mayoría de los judíos, especialmente para los fariseos, porque en esencia, les estaba diciendo que nacer judíos/hijos de Abraham no era suficiente. ¡Deben nacer de arriba! En el versículo 8, Jesús continúa diciendo que la obra de nacer de lo alto será la obra del Espíritu Santo. No podrás predecir hacia dónde se está moviendo y trabajando, pero podrás ver los resultados. Esto nuevamente contrasta con sus creencias de que nacer descendientes físicos de Abraham es lo que importa.
+### Jesús sabía que esto sería un shock para la mayoría de los judíos, especialmente para los fariseos, porque en esencia, les estaba diciendo que nacer judíos/hijos de Abraham no era suficiente. ¡Deben nacer de arriba! En el versículo 8, Jesús continúa diciendo que la obra de nacer de lo alto será la obra del Espíritu Santo. No podrás predecir <u>hacia</u> dónde se está moviendo y trabajando, pero podrás ver los resultados. Esto nuevamente contrasta con sus creencias de que nacer descendientes físicos de Abraham es lo que importa.
 
-###  Juan 3:9-15. *Nicodemo le preguntó: ¿Cómo puede ser esto?. Jesús le respondió: Tú eres maestro de Israel, ¿y no entiendes estas cosas? En verdad te digo que hablamos lo que sabemos y damos testimonio de lo que hemos visto, pero ustedes no reciben nuestro testimonio. Si les he hablado de las cosas terrenales, y no creen, ¿cómo creerán si les hablo de las celestiales?Nadie ha subido al cielo, sino Aquel que bajó del cielo, es decir, el Hijo del Hombre que está en el cielo. Y como Moisés levantó la serpiente en el desierto, así es necesario que sea levantado el Hijo del Hombre, para que todo aquel que cree, tenga en Él vida eterna.*
+###  Juan 3:9-15. *Nicodemo le preguntó: ¿Cómo puede ser esto?. Jesús le respondió: Tú eres maestro de Israel, ¿y no entiendes estas cosas? En verdad te digo que hablamos lo que sabemos y <u>damos</u> testimonio de lo que hemos visto, pero ustedes no reciben nuestro testimonio. Si les he hablado de las cosas terrenales, y no creen, ¿cómo creerán si les hablo de las celestiales?Nadie ha subido al cielo, sino Aquel que bajó del cielo, es decir, el Hijo del Hombre que está en el cielo. Y como Moisés levantó la serpiente en el desierto, así es necesario que sea levantado el Hijo del Hombre, para que todo aquel que cree, tenga en Él vida eterna.*
 
-### Mientras pasábamos muchas semanas leyendo el Antiguo Testamento, señalamos muchas imágenes físicas de la verdad espiritual. Aquí, Jesús está haciendo exactamente lo mismo. Cuando Nicodemo todavía no entendía de qué estaba hablando Jesús, Jesús dijo: mira, Tú de todas las personas como maestro de las escrituras en Israel debes ser consciente y entender bien estas muchas imágenes físicas de la verdad espiritual que fueron registradas en el Antiguo Testamento. Él dijo: *Si no puedes entender la esencia de estos ejemplos terrenales/físicos, entonces ¿cómo entenderías si te hablara de las verdades espirituales hacia las que apuntan*?
+### Mientras pasábamos muchas semanas leyendo el Antiguo Testamento, señalamos muchas imágenes físicas de la verdad espiritual. Aquí, Jesús está haciendo exactamente lo mismo. Cuando Nicodemo todavía no entendía de qué estaba hablando Jesús, Jesús dijo: mira, Tú de todas las personas como maestro de las escrituras en Israel <u>debes</u> ser consciente y entender bien estas muchas imágenes físicas de la verdad espiritual que fueron registradas en el Antiguo Testamento. Él dijo: *Si no puedes entender la esencia de estos ejemplos terrenales/físicos, entonces ¿cómo entenderías si te hablara de las verdades espirituales hacia las que apuntan*?
 
-### Luego pasa a dar la serpiente de bronce que esta como un ejemplo de una imagen física bien conocida de la verdad espiritual.
+### Luego pasa a dar la serpiente de bronce que esta como un ejemplo de una imagen física bien <u>conocida</u> de la verdad espiritual.
 
-### Juan 3:16-20. *Porque de tal manera amó Dios al mundo, que dio a Su Hijo unigénito, para que todo aquel que cree en Él, no se pierda, sino que tenga vida eterna. Porque Dios no envió a Su Hijo al mundo para juzgar al mundo, sino para que el mundo sea salvo por Él. El que cree en Él no es condenado; pero el que no cree, ya ha sido condenado, porque no ha creído en el nombre del unigénito Hijo de Dios. Y este es el juicio: que la Luz vino al mundo, y los hombres amaron más las tinieblas que la Luz, pues sus acciones eran malas. Porque todo el que hace lo malo odia la Luz, y no viene a la Luz para que sus acciones no sean expuestas.*
+### Juan 3:16-20. *Porque de tal manera amó Dios al mundo, que dio a Su Hijo unigénito, para que todo aquel que cree en Él, no se pierda, sino que tenga vida eterna. Porque Dios no envió a Su Hijo al mundo para juzgar al mundo, sino para que el mundo sea salvo por Él. El que cree en Él no es condenado; pero el que no cree, ya ha sido condenado, porque no ha creído en el nombre del <u>unigénito</u> Hijo de Dios. Y este es el juicio: que la Luz vino al mundo, y los hombres amaron más las tinieblas que la Luz, pues sus acciones eran malas. Porque todo el que hace lo malo odia la Luz, y no viene a la Luz para que sus acciones no sean expuestas.*
 
-### Una vez más, la perspectiva de los judíos era puramente física y terrenal. Nacieron como descendientes físicos de Abraham. Esto los convirtió en el pueblo escogido de Dios, los destinatarios de las promesas terrenales de Dios de enviar un Libertador y establecer su reino terrenal. En estos versículos, Jesús está señalando a Nicodemo hacia una perspectiva espiritual general.
+### Una vez más, la perspectiva de los judíos era puramente física y terrenal. Nacieron como descendientes físicos de Abraham. Esto los convirtió en el pueblo escogido de Dios, los destinatarios de las promesas terrenales de Dios de <u>enviar</u> un Libertador y establecer su reino terrenal. En estos versículos, Jesús está señalando a Nicodemo hacia una perspectiva espiritual general.
 
-### Dios ama a TODO el mundo y no solo a los judíos. Él envió a Su Hijo, no solo para que Israel pueda tener un reino terrenal, sino para que TODOS los que creen en Él puedan recibir la vida eterna. Dios no envió a Su Hijo solo para liberar a Israel y condenar a todos los demás, sino que envió a Su Hijo para que TODO el mundo pudiera ser salvo.
+### Dios ama a TODO el mundo y no solo a los judíos. Él envió a Su Hijo, no solo para que Israel pueda tener un reino terrenal, sino para que TODOS los que creen en Él puedan recibir la vida eterna. Dios no envió a Su Hijo solo para liberar a Israel y condenar a todos los demás, sino que envió a Su Hijo para que TODO el <u>mundo</u> pudiera ser salvo.
 
-### Porque los que creen en Él serán salvos (ya sean judíos o gentiles) y los que NO creen en Él ya están condenados (incluso si nació hijo de Abraham).
+### Porque los que <u>creen</u> en Él serán salvos (ya sean judíos o gentiles) y los que NO creen en Él ya están condenados (incluso si nació hijo de Abraham).
 
-### Lo que determinará si uno recibe la salvación o la condenación es lo que cada persona cree con respecto a la Luz que ha venido al mundo. Es lo que haces con la VERDAD del evangelio y no lo que es tu etnia.
+### Lo que determinará si uno recibe la salvación o la condenación es lo que cada persona cree con respecto a la Luz que ha <u>venido</u> al mundo. Es lo que haces con la VERDAD del evangelio y no lo que es tu etnia.
 
-### Tenga en cuenta que Nicodemo era un fariseo al igual que todos los demás fariseos que Jesús llama una camada de víboras o tumbas blanqueadas. La diferencia era que Nicodemo estaba respondiendo al testimonio de que el Espíritu Santo se estaba desplegando ante sus ojos a través de la vida de Jesús. Estaba respondiendo a lo que el Espíritu Santo estaba haciendo evidente y a lo que Jesús se tomó el tiempo de explicarle claramente. Nicodemo también era un pecador como el resto de los fariseos, pero la diferencia era que él lo sabía y la respuesta e interacción de Jesús con él era muy diferente a la de los otros fariseos santurrones. 
+### Tenga en cuenta que Nicodemo era un fariseo al igual que todos los demás fariseos que Jesús llama una camada de víboras o tumbas blanqueadas. La diferencia era que Nicodemo estaba respondiendo al testimonio de que el Espíritu Santo se estaba desplegando ante sus ojos a través de la vida de Jesús. Estaba respondiendo a lo que el Espíritu Santo estaba haciendo evidente y a lo que Jesús se tomó el tiempo de explicarle claramente. Nicodemo también era un pecador como el <u>resto</u> de los fariseos, pero la diferencia era que él lo sabía y la respuesta e interacción de Jesús con él era muy diferente a la de los otros fariseos santurrones. 
 
 ## Preguntas de revisión
 
@@ -4979,87 +4953,87 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ## Creación
 
-### Hemos visto a Dios a través de la historia hacer todo lo posible para revelarse a sí mismo. No solo ha revelado claramente sus atributos de omnipotencia, omnisciencia, soberanía, amor, gracia, justicia, santidad, etc., sino que también hemos visto muchas de las características de su corazón, como su deseo de una relación y cómo eso lo lleva a comunicarse. Hemos visto el gran corazón que Él tiene para la humanidad por la forma en que Él es el Iniciador. Hay muchas promesas y recordatorios que apuntan a Cristo, por ejemplo, llamando a la existencia a la Nación de Israel, la línea de Cristo.
+### Hemos visto a Dios a través de la historia hacer todo lo posible para revelarse a sí mismo. No solo ha revelado claramente sus atributos de omnipotencia, omnisciencia, soberanía, amor, gracia, justicia, santidad, etc., sino que también hemos visto muchas de las características de su corazón, como su deseo de una relación y cómo eso lo lleva a comunicarse. Hemos visto el gran corazón que Él tiene para la humanidad por la <u>forma</u> en que Él es el Iniciador. Hay muchas promesas y recordatorios que apuntan a Cristo, por ejemplo, llamando a la existencia a la Nación de Israel, la línea de Cristo.
 
-### Demostró su fidelidad y confiabilidad una y otra vez. A través del Antiguo Testamento, Dios construyó muy fiel y meticulosamente un testimonio en el que demostró a través de las cosas que se pueden ver, que hoy podemos confiar de todo corazón en Sus promesas con respecto a nuestras bendiciones espirituales que no se pueden ver. Una vez que Dios tuvo todas estas cosas en su lugar, llegó el momento de traer al Prometido tan esperado a la escena.
+### Demostró su fidelidad y confiabilidad una y otra vez. A través del Antiguo Testamento, Dios construyó muy fiel y meticulosamente un testimonio en el que demostró a través de las cosas que se pueden ver, que hoy podemos confiar de todo corazón en Sus promesas con respecto a nuestras bendiciones espirituales que no se pueden ver. Una vez que Dios tuvo <u>todas</u> estas cosas en su lugar, llegó el momento de traer al Prometido tan esperado a la escena.
 
-### A lo largo del Antiguo Testamento, vimos a Dios revelarse tan fiel y abundantemente una y otra vez para facilitar que Israel confiara y dependiera de Él.
+### A lo largo del Antiguo Testamento, vimos a Dios revelarse tan <u>fiel</u> y abundantemente una y otra vez para facilitar que Israel confiara y dependiera de Él.
 
-### Entonces, ahora en la vida de Jesús, estamos viendo a Dios hacer todo lo posible para manifestar fiel y abundantemente el hecho de que Jesús de Nazaret es realmente el Prometido. Lo veremos hacerlo con la misma prueba y claridad innegables con las que se reveló a sí mismo a lo largo del Antiguo Testamento.
+### Entonces, ahora en la vida de Jesús, estamos viendo a Dios hacer todo lo posible para manifestar fiel y abundantemente el hecho de que Jesús de Nazaret es realmente el Prometido. Lo veremos hacerlo con la misma prueba y <u>claridad</u> innegables con las que se reveló a sí mismo a lo largo del Antiguo Testamento.
 
 ### Había seis formas principales en que Dios estaba revelando quién era realmente Jesús:
 
-#### A través de Su poder para sanar enfermedades, dolencias y resucitar de entre los muertos
+#### A través de Su poder para <u>sanar</u> enfermedades, dolencias y resucitar de entre los muertos.
 
-#### Por Su autoridad para perdonar pecados
+#### Por Su autoridad para <u>perdonar</u> pecados.
 
-#### Por Su poder y autoridad sobre la creación
+#### Por Su poder y autoridad <u>sobre</u> la creación.
 
-#### Por Su poder y autoridad sobre el mundo de los espíritus
+#### Por Su poder y autoridad <u>sobre</u> el mundo de los espíritus.
 
-#### A través del cumplimiento de la profecía
+#### A través del <u>cumplimiento</u> de la profecía.
 
-#### Por su enseñanza
+#### Por Su <u>enseñanza</u>.
 
-### Durante el lapso de tres años que Jesús estuvo llevando a cabo su ministerio, los evangelios registran que sanó públicamente la enfermedad o dolencia de alguien 18 veces diferentes. Hay cuatro ocasiones específicas en las que Jesús demostró que era Dios al perdonar públicamente el pecado. Cada vez que los fariseos decían algo como: Oye, ¿quién se cree que es? Solo Dios puede perdonar el pecado. ¡Tenían razón! Al menos nueve veces diferentes, reveló que era Dios al revelar su autoridad sobre la naturaleza. Calmó las tormentas, caminó sobre el agua, alimentó a cuatro y cinco mil con el almuerzo de un solo niño, capturas milagrosas de peces, resucitó a los muertos, obtuvo una moneda de un pez y envió demonios a los cerdos.
+### Durante el lapso de tres años que Jesús estuvo llevando a cabo su ministerio, los evangelios registran que sanó públicamente la enfermedad o dolencia de alguien 18 veces diferentes. Hay cuatro ocasiones específicas en las que Jesús demostró que era Dios al perdonar públicamente el pecado. Cada vez que los fariseos decían algo como: Oye, ¿quién se cree que es? Solo Dios puede perdonar el pecado. ¡Tenían razón! Al menos <u>nueve</u> veces diferentes, reveló que era Dios al revelar su autoridad sobre la naturaleza. Calmó las tormentas, caminó sobre el agua, alimentó a cuatro y cinco mil con el almuerzo de un solo niño, capturas milagrosas de peces, resucitó a los muertos, obtuvo una moneda de un pez y envió demonios a los cerdos.
 
-### Al menos seis veces demostró que era Dios al revelar su autoridad sobre el mundo de los espíritus al expulsar demonios. Reveló que era Dios al revelar su autoridad sobre la muerte. No solo resucitó públicamente a tres personas de entre los muertos, sino que cuando entregó Su espíritu en la cruz muchas personas fueron resucitadas de entre los muertos.
+### Al menos seis veces demostró que era Dios al revelar su autoridad sobre el <u>mundo</u> de los espíritus al expulsar demonios. Reveló que era Dios al revelar su autoridad sobre la muerte. No solo resucitó públicamente a tres personas de entre los muertos, sino que cuando entregó Su espíritu en la cruz muchas personas fueron resucitadas de entre los muertos.
 
-### Mateo 27:50-53. En dos ocasiones específicas, Dios el Padre, hablando con una voz audible desde el cielo, lo proclamó como su Hijo amado. Jesús reveló que Él era Dios por Su enseñanza. En numerosas ocasiones la gente se asombró por la autoridad con la que enseñaba. Otra forma en que Dios probó una y otra vez quién era Jesús, fue a través del cumplimiento de todas sus promesas y profecías con respecto a Él. En última instancia, Dios dio TANTAS promesas y profecías para ser cumplidas por el Libertador que solo ÉL podía orquestar el cumplimiento de cada una de ellas a través de un hombre.
+### Mateo 27:50-53. En dos ocasiones específicas, Dios el Padre, hablando con una voz audible desde el cielo, lo proclamó como su Hijo amado. Jesús reveló que Él era Dios por Su enseñanza. En numerosas ocasiones la gente se asombró por la autoridad con la que <u>enseñaba</u>. Otra forma en que Dios probó una y otra vez quién era Jesús, fue a través del cumplimiento de todas sus promesas y profecías con respecto a Él. En última instancia, Dios dio TANTAS promesas y profecías para ser cumplidas por el Libertador que solo ÉL podía orquestar el cumplimiento de cada una de ellas a través de un hombre.
 
-### De hecho, puede ser posible que alguien falsifique una o dos de las profecías mesiánicas, pero sería imposible que en una sola persona cumpla todas estas profecías.
+### De hecho, puede ser posible que alguien falsifique una o dos de las profecías mesiánicas, pero sería imposible que en una sola <u>persona</u> cumpla todas estas profecías.
 
-### John Ankerberg relata la historia real de cómo los gobiernos usan signos de identificación preestablecidos para identificar a los agentes correctos: David Greenglass fue un traidor de la Segunda Guerra Mundial. Dio secretos atómicos a los rusos y luego huyó a México después de la guerra. Sus conspiradores se las arreglaron para ayudarlo planeando una reunión con el secretario del embajador ruso en la Ciudad de México. La identificación adecuada para ambas partes se volvió vital. Greenglass se identificaría con seis signos preestablecidos. Estas instrucciones se habían dado tanto al secretario como a Greenglass para que no hubiera posibilidad de cometer un error. Estaban (1) una vez en la Ciudad de México, Greenglass debía escribir una nota a la secretaria, firmando su nombre como I. JACKSON; (2) después de tres días debía ir a la Plaza de Colón en la Ciudad de México y (3) pararse frente a la estatua de Colón, (4) con el dedo medio colocado en una guía. Además, (5) cuando se le acercó, dijo que era una estatua magnífica y que era de Oklahoma. (6) El secretario debía darle un pasaporte. Estos seis letreros preestablecidos funcionaron. ¿Por qué? Con seis características de identificación, era imposible para el secretario no identificar a Greenglass como el contacto adecuado. (John Ankerberg, John Weldon y Walter Kaiser, El caso de Jesús el Mesías, Melbourne: Serie de estudios de Pacific College, 1994, 17-18.)
+### John Ankerberg relata la historia real de cómo los gobiernos usan signos de identificación preestablecidos para identificar a los agentes correctos: David Greenglass fue un traidor de la Segunda Guerra Mundial. Dio secretos atómicos a los rusos y luego huyó a México <u>después</u> de la guerra. Sus conspiradores se las arreglaron para ayudarlo planeando una reunión con el secretario del embajador ruso en la Ciudad de México. La identificación adecuada para ambas partes se volvió vital. Greenglass se identificaría con seis signos preestablecidos. Estas instrucciones se habían dado tanto al secretario como a Greenglass para que no hubiera posibilidad de cometer un error. Estaban (1) una vez en la Ciudad de México, Greenglass debía escribir una nota a la secretaria, firmando su nombre como I. JACKSON; (2) después de tres días debía ir a la Plaza de Colón en la Ciudad de México y (3) pararse frente a la estatua de Colón, (4) con el dedo medio colocado en una guía. Además, (5) cuando se le acercó, dijo que era una estatua magnífica y que era de Oklahoma. (6) El secretario debía darle un pasaporte. Estos seis letreros preestablecidos funcionaron. ¿Por qué? Con seis características de identificación, era imposible para el secretario no identificar a Greenglass como el contacto adecuado. (John Ankerberg, John Weldon y Walter Kaiser, El caso de Jesús el Mesías, Melbourne: Serie de estudios de Pacific College, 1994, 17-18.)
 
-### ¡Cuán cierto, entonces, debe ser que Jesús de Nazaret es el Mesías si tenía 456 características de identificación con mucha anticipación y que las cumplía todas! De hecho, ¿qué hace la ciencia de la probabilidad con esto? La ciencia de la probabilidad intenta determinar la probabilidad de que ocurra un evento determinado. El valor y la precisión de la ciencia de la probabilidad han sido bien establecidos más allá de toda duda; Por ejemplo, las tarifas de seguro se fijan de acuerdo con probabilidades estadísticas.
+### ¡Cuán cierto, entonces, debe ser que Jesús de Nazaret es el Mesías si tenía 456 características de identificación con mucha anticipación y que las <u>cumplía</u> todas! De hecho, ¿qué hace la ciencia de la probabilidad con esto? La ciencia de la probabilidad intenta determinar la probabilidad de que ocurra un evento determinado. El valor y la precisión de la ciencia de la probabilidad han sido bien establecidos más allá de toda duda; Por ejemplo, las tarifas de seguro se fijan de acuerdo con probabilidades estadísticas.
 
-### El profesor emérito de Ciencias en Westmont College, Peter Stoner, ha calculado la probabilidad de que un hombre cumpla las principales profecías hechas con respecto al Mesías. Las estimaciones fueron elaboradas por doce clases diferentes que representaban a unos 600 estudiantes universitarios. Los estudiantes sopesaron cuidadosamente todos los factores, discutieron cada profecía extensamente y examinaron las diversas circunstancias que podrían indicar que los hombres habían conspirado juntos para cumplir una profecía en particular. Hicieron sus estimaciones lo suficientemente conservadoras como para que finalmente hubiera un acuerdo unánime incluso entre los estudiantes más escépticos. Sin embargo, el profesor Stoner tomó sus estimaciones y las hizo aún más conservadoras. También alentó a otros escépticos o científicos a hacer sus propias estimaciones para ver si sus conclusiones eran más que justas. Finalmente, presentó sus cifras para su revisión a un comité de la American Scientific Affiliation. Tras el examen, verificaron que sus cálculos eran confiables y precisos con respecto al material científico presentado. (Peter Stoner, La ciencia habla, Chicago: Moody Press, 1969, 4.)
+### El profesor emérito de Ciencias en Westmont College, Peter Stoner, ha calculado la probabilidad de que un hombre cumpla las principales profecías hechas con respecto al Mesías. Las estimaciones fueron elaboradas por doce clases diferentes que representaban a unos 600 estudiantes universitarios. Los <u>estudiantes</u> sopesaron cuidadosamente todos los factores, discutieron cada profecía extensamente y examinaron las diversas circunstancias que podrían indicar que los hombres habían conspirado juntos para cumplir una profecía en particular. Hicieron sus estimaciones lo suficientemente conservadoras como para que finalmente hubiera un acuerdo unánime incluso entre los estudiantes más escépticos. Sin embargo, el profesor Stoner tomó sus estimaciones y las hizo aún más conservadoras. También alentó a otros escépticos o científicos a hacer sus propias estimaciones para ver si sus conclusiones eran más que justas. Finalmente, presentó sus cifras para su revisión a un comité de la American Scientific Affiliation. Tras el examen, verificaron que sus cálculos eran confiables y precisos con respecto al material científico presentado. (Peter Stoner, La ciencia habla, Chicago: Moody Press, 1969, 4.)
 
-### Por ejemplo, con respecto a Miqueas 5:2, donde se afirma que el Mesías nacería en Belén Efrata, Stoner y sus estudiantes determinaron la población promedio de Belén desde el tiempo de Miqueas hasta el presente; Luego lo dividieron por la población promedio de la tierra durante el mismo período. Concluyeron que la posibilidad de que un hombre naciera en Belén era 1 en 300,000 (o uno en 2.8 x 10 ^ 5 redondeado).
+### Por ejemplo, con respecto a Miqueas 5:2, donde se afirma que el Mesías nacería en Belén Efrata, Stoner y sus estudiantes determinaron la población promedio de Belén desde el tiempo de Miqueas hasta el presente; Luego lo dividieron por la población <u>promedio</u> de la tierra durante el mismo período. Concluyeron que la posibilidad de que un hombre naciera en Belén era 1 en 300,000 (o uno en 2.8 x 10 ^ 5 redondeado).
 
-### Después de examinar solo ocho profecías diferentes (Idem, 106), estimaron conservadoramente que la probabilidad de que un hombre cumpliera las ocho profecías era de una en 10^17. Para ilustrar cuán grande es el número 10 ^ 17 (una cifra con 17 ceros), Stoner dio esta ilustración: si marcas uno de los diez boletos, y colocas todos los boletos en un sombrero, y los revuelves bien, y luego le pides a un hombre con los ojos vendados que saque uno, su probabilidad de obtener el boleto correcto es de uno en diez. Supongamos que tomamos 10^17 dólares de plata y los ponemos sobre la faz de Texas. Cubrirán todo el estado a dos pies de profundidad. Ahora marque uno de estos dólares de plata y revuelva toda la masa a fondo, por todo el estado. Véndele los ojos a un hombre y dígale que puede viajar tan lejos como desee, pero que debe tomar un dólar de plata y decir que este es el correcto. 
+### Después de examinar solo ocho profecías diferentes (Idem, 106), estimaron conservadoramente que la probabilidad de que un <u>hombre</u> cumpliera las ocho profecías era de una en 10^17. Para ilustrar cuán grande es el número 10 ^ 17 (una cifra con 17 ceros), Stoner dio esta ilustración: si marcas uno de los diez boletos, y colocas todos los boletos en un sombrero, y los revuelves bien, y luego le pides a un hombre con los ojos vendados que saque uno, su probabilidad de obtener el boleto correcto es de uno en diez. Supongamos que tomamos 10^17 dólares de plata y los ponemos sobre la faz de Texas. Cubrirán todo el estado a dos pies de profundidad. Ahora marque uno de estos dólares de plata y revuelva toda la masa a fondo, por todo el estado. Véndele los ojos a un hombre y dígale que puede viajar tan lejos como desee, pero que debe tomar un dólar de plata y decir que este es el correcto. 
 
-### ¿Qué posibilidades tendría de conseguir el correcto? Justo la misma oportunidad que los profetas habrían tenido de escribir estas ocho profecías y hacer que todas se hicieran realidad en cualquier hombre, desde su día hasta el presente, siempre que las escribieran en su propia sabiduría. (Ídem, 106-107.)
+### ¿Qué posibilidades tendría de conseguir el correcto? Justo la misma oportunidad que los <u>profetas</u> habrían tenido de escribir estas ocho profecías y hacer que todas se hicieran realidad en cualquier hombre, desde su día hasta el presente, siempre que las escribieran en su propia sabiduría. (Ídem, 106-107.)
 
-### Pero, por supuesto, hay muchas más de ocho profecías. En otro cálculo, Stoner usó 48 profecías (Idem, 109) (aunque podría haber usado las 456 de Edersheim), y llegó a la estimación extremadamente conservadora de que la probabilidad de que se cumplan 48 profecías en una persona es el increíble número 10 ^ 157. ¿Qué tan grande es el número uno en 10 ^ 157? ¡10 ^ 157 contiene 157 ceros! Stoner da una ilustración de este número usando electrones. Los electrones son objetos muy pequeños. Son más pequeños que los átomos. Se necesitarían 2.5 VECES 10 ^ 15 de ellos, colocados uno al lado del otro, para hacer una pulgada. Incluso si contáramos 250 de estos electrones cada minuto, y contáramos día y noche, todavía tomaría 19 millones de años contar una línea de electrones de una pulgada de largo. (Stoner, op. cit., 109.)
+### Pero, por supuesto, hay muchas más de ocho profecías. En otro cálculo, Stoner usó 48 profecías (Idem, 109) (aunque podría haber usado las 456 de Edersheim), y llegó a la estimación extremadamente conservadora de que la probabilidad de que se cumplan 48 profecías en una <u>persona</u> es el increíble número 10 ^ 157. ¿Qué tan grande es el número uno en 10 ^ 157? ¡10 ^ 157 contiene 157 ceros! Stoner da una ilustración de este número usando electrones. Los electrones son objetos muy pequeños. Son más pequeños que los átomos. Se necesitarían 2.5 VECES 10 ^ 15 de ellos, colocados uno al lado del otro, para hacer una pulgada. Incluso si contáramos 250 de estos electrones cada minuto, y contáramos día y noche, todavía tomaría 19 millones de años contar una línea de electrones de una pulgada de largo. (Stoner, op. cit., 109.)
 
-### Con esta introducción, volvamos a nuestra probabilidad de uno en 10 ^ 157. Supongamos que tomamos este número de electrones, marcamos uno y lo agitamos completamente en toda la masa, luego vendamos los ojos a un hombre y le dejamos tratar de encontrar el correcto. ¿Qué posibilidades tiene de encontrar el correcto? ¿Qué tipo de pila formará este número de electrones? Hacen un volumen inconcebiblemente grande. Este es el resultado de considerar solo 48 profecías. Obviamente, la probabilidad de que 456 profecías se cumplan en un hombre por casualidad es mucho menor. Según Emile Borel, una vez que uno pasa de una oportunidad en 10^50, las probabilidades son tan pequeñas que es imposible pensar que alguna vez ocurrirán. (Ankerberg et. al., op. cit., 21.)
+### Con esta introducción, volvamos a nuestra probabilidad de uno en 10 ^ 157. Supongamos que tomamos este número de electrones, marcamos uno y lo agitamos completamente en toda la masa, luego vendamos los ojos a un hombre y le dejamos tratar de <u>encontrar</u> el correcto. ¿Qué posibilidades tiene de encontrar el correcto? ¿Qué tipo de pila formará este número de electrones? Hacen un volumen inconcebiblemente grande. Este es el resultado de considerar solo 48 profecías. Obviamente, la probabilidad de que 456 profecías se cumplan en un hombre por casualidad es mucho menor. Según Emile Borel, una vez que uno pasa de una oportunidad en 10^50, las probabilidades son tan pequeñas que es imposible pensar que alguna vez ocurrirán. (Ankerberg et. al., op. cit., 21.)
 
-### Como concluye Stoner, *Cualquier hombre que rechace a Cristo como el Hijo de Dios está rechazando un hecho, probado quizás de manera más absoluta que cualquier otro hecho en el mundo* (Stoner, op. cit., 112)*. Dios reivindicó tan completamente a Jesucristo que incluso los matemáticos y estadísticos, que no tenían fe, tuvieron que reconocer que es científicamente imposible negar que Jesús es el Cristo.*
+### Como concluye Stoner, *Cualquier hombre que rechace a Cristo como el Hijo de Dios está rechazando un <u>hecho</u>, probado quizás de manera más absoluta que cualquier otro hecho en el mundo* (Stoner, op. cit., 112)*. Dios reivindicó tan completamente a Jesucristo que incluso los matemáticos y estadísticos, que no tenían fe, tuvieron que reconocer que es científicamente imposible negar que Jesús es el Cristo.*
 
-### Obviamente, no tenemos tiempo para repasar todos estos relatos específicos a través de los cuales Jesús se reveló, pero quería resaltar uno como prueba de que la revelación de Jesús de sí mismo fue verdaderamente clara, obvia y reconocible, a pesar de que hubo quienes lo rechazaron.
+### Obviamente, no tenemos tiempo para repasar todos estos <u>relatos</u> específicos a través de los cuales Jesús se reveló, pero quería resaltar uno como prueba de que la revelación de Jesús de sí mismo fue verdaderamente clara, obvia y reconocible, a pesar de que hubo quienes lo rechazaron.
 
 ## Marcos 2:1-12 Jesús perdonó los pecados del paralítico y lo sanó 
 
-### Este pasaje nos dice que Jesús estaba en una casa en Capernaúm. Dice que estaba enseñando. En realidad, había dos pistas de enseñanza aquí. Primero fue lo que Jesús estaba enseñando didácticamente. Todo lo que se nos dice sobre eso está en el versículo 2: *y les predicó la palabra.* Sin detalles.
+### Este <u>pasaje</u> nos dice que Jesús estaba en una casa en Capernaúm. Dice que estaba enseñando. En realidad, había dos pistas de enseñanza aquí. Primero fue lo que Jesús estaba enseñando didácticamente. Todo lo que se nos dice sobre eso está en el versículo 2: *y les predicó la palabra.* Sin detalles.
 
-### Pero el segundo aspecto de su enseñanza fue en términos de lo que estaba revelando/enseñando sobre sí mismo a través de sus acciones. Jesús está haciendo aquí exactamente lo que Dios estaba haciendo durante todo el Antiguo Testamento: revelar quién es realmente y cómo es realmente a través de su interacción con la humanidad.
+### Pero el segundo aspecto de su enseñanza fue en <u>términos</u> de lo que estaba revelando/enseñando sobre sí mismo a través de sus acciones. Jesús está haciendo aquí exactamente lo que Dios estaba haciendo durante todo el Antiguo Testamento: revelar quién es realmente y cómo es realmente a través de su interacción con la humanidad.
 
-### Con Jesús siendo la imagen expresada de Dios (como se nos dice en Hebreos), podemos verlo manifestando tanto Su santidad, rectitud, justicia y su amor, gracia y misericordia, todo al mismo tiempo, tal como vimos a Dios hacer muchas veces en el Antiguo Testamento.
+### Con Jesús siendo la imagen expresada de Dios (como se nos dice en Hebreos), podemos verlo manifestando tanto Su santidad, rectitud, justicia y su amor, gracia y misericordia, todo al mismo tiempo, tal como vimos a Dios hacer <u>muchas</u> veces en el Antiguo Testamento.
 
-### El versículo 5 dice: *Cuando Jesús vio la FE de ellos*... ¡Dios es siempre ve la fe de las personas! Cuando Israel se acercó en incredulidad a Dios, la respuesta de Dios fue no dejarles entrar a la tierra prometida, debido a que no habían creído en lo que Dios había dicho que haría.
+### El versículo 5 dice: *Cuando Jesús vio la FE de ellos*... ¡Dios es siempre ve la fe de las personas! Cuando Israel se <u>acercó</u> en incredulidad a Dios, la respuesta de Dios fue no dejarles entrar a la tierra prometida, debido a que no habían creído en lo que Dios había dicho que haría.
 
-### ¡El problema más grande era la incredulidad! Dios mismo dice del hombre que todo pensamiento e intención de sus corazones fue solo malo desde la infancia, por lo tanto el problema mas grande es acercarse a Dios en incredulidad.
+### ¡El problema más grande era la incredulidad! Dios mismo dice del hombre que todo pensamiento e intención de sus corazones fue solo <u>malo</u> desde la infancia, por lo tanto el problema mas grande es acercarse a Dios en incredulidad.
 
-### Dios mismo ha creado a todos los seres humanos con la capacidad de ser receptores de la revelación misma de Dios, aprender sobre Él, sobre su poder y grandeza, y creer en la revelación visible de Dios. Sin embargo el rechazar (no creer) la revelación de Dios los hace directamente responsables, debido a que entienden claramente que existe un Dios en la tierra, solo que se niegan rotundamente a creer en como se reveló. (Romanos 1).
+### Dios mismo ha creado a todos los seres humanos con la capacidad de ser receptores de la revelación misma de Dios, aprender sobre Él, sobre su poder y grandeza, y creer en la revelación <u>visible</u> de Dios. Sin embargo el rechazar (no creer) la revelación de Dios los hace directamente responsables, debido a que entienden claramente que existe un Dios en la tierra, solo que se niegan rotundamente a creer en como se reveló. (Romanos 1).
 
-### Estos hombres en Marcos 2, por otro lado, habían visto mucha menos revelación de primera mano de Dios que la que había visto esa generación de Israel, y sin embargo, esta escrito que se acercaron con fe, a Jesús, ellos habían visto y escuchado lo suficiente sobre Jesús como para creer que Él podía sanar a su amigo y lo haría.
+### Estos hombres en Marcos 2, por otro lado, habían visto mucha menos revelación de primera mano de Dios que la que había visto esa generación de Israel, y sin embargo, esta escrito que se acercaron con fe, a Jesús, ellos habían visto y escuchado lo suficiente sobre Jesús como para creer que Él podía sanar a su <u>amigo</u> y lo haría.
 
-### La respuesta de Jesús a tal fe fue de compasión y perdón. Sabemos que fue de compasión, porque Él lo llama hijo. Este era un término de afecto y compasión y debe contrastarse con la forma en que Jesús se dirigió a los fariseos en otras ocasiones (cría de víboras, tumbas blanqueadas). La diferencia era la fe, no la pecaminosidad. Estos hombres eran tan pecadores como los fariseos, pero los fariseos rechazaron la revelación de Jesús de sí mismo y caminaron en incredulidad (a pesar de que parecían muy espirituales por fuera).
+### La respuesta de Jesús a tal fe fue de compasión y perdón. Sabemos que fue de compasión, porque Él lo llama hijo. Este era un <u>término</u> de afecto y compasión y debe contrastarse con la forma en que Jesús se dirigió a los fariseos en otras ocasiones (cría de víboras, tumbas blanqueadas). La diferencia era la fe, no la pecaminosidad. Estos hombres eran tan pecadores como los fariseos, pero los fariseos rechazaron la revelación de Jesús de sí mismo y caminaron en incredulidad (a pesar de que parecían muy espirituales por fuera).
 
-### Otro aspecto de la fe de estos hombres es la acusación que trae sobre todos los que se niegan a creer o que rechazaron a Cristo. Cuando tienes testimonio de un fariseo como Nicodemo reconociendo a Jesús como el Cristo y tienes hombres como estos que lo reconocen y tienes demonios que lo reconocen, es lógico que la revelación de Jesús de sí mismo y la prueba de quién era realmente, fuera clara y deja a todos los que lo rechazaron sin excusa.
+### Otro aspecto de la fe de estos hombres es la acusación que trae sobre todos los que se niegan a creer o que <u>rechazaron</u> a Cristo. Cuando tienes testimonio de un fariseo como Nicodemo reconociendo a Jesús como el Cristo y tienes hombres como estos que lo reconocen y tienes demonios que lo reconocen, es lógico que la revelación de Jesús de sí mismo y la prueba de quién era realmente, fuera clara y deja a todos los que lo rechazaron sin excusa.
 
-### Jesús continúa en el versículo 5 y dice: *Tus pecados te son perdonados.* El pasaje no aclara de qué pecados estaba hablando Jesús. Podría haber sido el pecado lo que lo llevó a su parálisis. Podría haber estado pecando en su actitud hacia Dios debido a su parálisis. Definitivamente sabemos que nació pecador a pesar de todo. 
+### Jesús continúa en el versículo 5 y dice: *Tus pecados te son perdonados.* El pasaje no aclara de qué <u>pecados</u> estaba hablando Jesús. Podría haber sido el pecado lo que lo llevó a su parálisis. Podría haber estado pecando en su actitud hacia Dios debido a su parálisis. Definitivamente sabemos que nació pecador a pesar de todo. 
 
-### El problema principal aquí no es determinar cuál fue el pecado del hombre, sino el hecho de que Jesús pudo perdonarlo. Cuando los fariseos lo acusaron de blasfemar, la respuesta de Jesús a ellos parece tener un sentido de expectativa. La expectativa de que estos fariseos hubieran sabido y creído quién era Él, porque el hecho de que estos hombres habían venido a Jesús con fe, era una prueba más de que su revelación de sí mismo había sido clara y reconocible.
+### El problema principal aquí no es determinar cuál fue el pecado del hombre, sino el hecho de que Jesús pudo perdonarlo. Cuando los fariseos lo acusaron de blasfemar, la respuesta de Jesús a ellos parece tener un <u>sentido</u> de expectativa. La expectativa de que estos fariseos hubieran sabido y creído quién era Él, porque el hecho de que estos hombres habían venido a Jesús con fe, era una prueba más de que su revelación de sí mismo había sido clara y reconocible.
 
-### Jesús dice: *¿Qué es más fácil decir al paralítico: ¿Tus pecados te son perdonados? ¿O levántate, toma tu cama y camina?*
+### Jesús dice: *¿Qué es más fácil decir al paralítico: ¿Tus <u>pecados</u> te son perdonados? ¿O levántate, toma tu cama y camina?*
 
-### ¿Alguna vez has tenido un problema con una computadora o tu automóvil o algo que no tenías idea de cómo arreglar y algún gurú de la informática entra y dice: Oh, sí, aquí está el problema, clic, clic, clic, ¿ahí lo tienes? Y tú dices: Espera un minuto, ¿qué hiciste? Eso es algo así como lo que hizo Jesús. Él está enseñando en la casa, estos hombres bajan al paralítico por el techo, Él ve su fe y dice: Oh, no puedes caminar, está bien, tus pecados son perdonados. Los fariseos dicen, espera un minuto, ¿qué dijiste? ¿quién te crees que eres? Jesús dice, ¿qué? Bueno, siendo que yo soy Dios el Hijo, ninguno de estos es más difícil de hacer que el otro, entonces, ¿cuál era más fácil de decir? Pero, para que sepas que el Hijo del Hombre tiene autoridad en la tierra para perdonar pecados, levántate, toma tu camilla y anda. Es decir, ¡no solo tengo el poder de sanar, sino también la autoridad para perdonar el pecado!
+### ¿Alguna vez has tenido un problema con una computadora o tu automóvil o algo que no tenías idea de cómo arreglar y algún gurú de la informática entra y dice: Oh, sí, aquí está el problema, clic, clic, clic, ¿ahí lo tienes? Y tú dices: Espera un minuto, ¿qué hiciste? Eso es algo así como lo que hizo Jesús. Él está enseñando en la casa, estos hombres bajan al paralítico por el techo, Él ve su fe y dice: Oh, no puedes caminar, está bien, tus <u>pecados</u> son perdonados. Los fariseos dicen, espera un minuto, ¿qué dijiste? ¿quién te crees que eres? Jesús dice, ¿qué? Bueno, siendo que yo soy Dios el Hijo, ninguno de estos es más difícil de hacer que el otro, entonces, ¿cuál era más fácil de decir? Pero, para que sepas que el Hijo del Hombre tiene autoridad en la tierra para perdonar pecados, levántate, toma tu camilla y anda. Es decir, ¡no solo tengo el poder de sanar, sino también la autoridad para perdonar el pecado!
 
-### Fíjate en las respuestas del versículo 12. El hombre fue sanado y se levantó y caminó. La multitud estaba asombrada y glorificaba a Dios. No nos habla de los fariseos, pero sabemos por otros relatos que continuaron rechazando a Jesús como el Cristo independientemente de cómo se les manifestó.
+### Fíjate en las respuestas del versículo 12. El hombre fue sanado y se <u>levantó</u> y caminó. La multitud estaba asombrada y glorificaba a Dios. No nos habla de los fariseos, pero sabemos por otros relatos que continuaron rechazando a Jesús como el Cristo independientemente de cómo se les manifestó.
 
-### El hecho es que la revelación de Jesús de sí mismo fue clara y reconocible, porque hubo muchos que llegaron a creer quién era realmente debido a esa revelación. Esto, a su vez, dejó a los que lo rechazaron sin excusa.
+### El hecho es que la revelación de Jesús de sí mismo fue clara y reconocible, porque hubo muchos que llegaron a creer quién era realmente <u>debido</u> a esa revelación. Esto, a su vez, dejó a los que lo rechazaron sin excusa.
 
 ## Preguntas de revisión
 
