@@ -5049,133 +5049,133 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ## Mateo 4
 
-### Las tres cosas principales que hemos seguido destacando a lo largo de todas estas lecciones para mantener una perspectiva adecuada han sido:
+### Las tres cosas principales que hemos seguido destacando a lo <u>largo</u> de todas estas lecciones para mantener una perspectiva adecuada han sido:
 
-### El hecho de que el plan eterno de redención de Dios se determinó antes de la fundación de la tierra, y ha sido Dios quien ha llevado a cabo y cumplido este plan. Él ha hecho toda la iniciación y la ha llevado a cabo en nombre del hombre.
+### El hecho de que el plan eterno de redención de Dios se determinó <u>antes</u> de la fundación de la tierra, y ha sido Dios quien ha llevado a cabo y cumplido este plan. Él ha hecho toda la iniciación y la ha llevado a cabo en nombre del hombre.
 
-### Cada pensamiento e intención del corazón del hombre es solo malo desde la infancia; por lo tanto, la humanidad es absolutamente incapaz de hacer una cosa por sí misma en términos de restaurar nuestra relación con Dios.
+### Cada pensamiento e intención del corazón del hombre es solo malo desde la infancia; por lo tanto, la humanidad es absolutamente <u>incapaz</u> de hacer una cosa por sí misma en términos de restaurar nuestra relación con Dios.
 
-### Todos los relatos registrados que hemos visto a través de este estudio Dios los ha dado como ejemplos físicos que dan testimonio de la validez de los dos puntos anteriores.
+### Todos los relatos registrados que hemos visto a través de este estudio Dios los ha dado como ejemplos físicos que dan testimonio de la <u>validez</u> de los dos puntos anteriores.
 
-### Estas cosas fueron Su enfoque en el Antiguo Testamento, así como ahora en los Evangelios en la vida de Jesús. Junto con todo lo que Dios estaba haciendo a través de la vida de Jesús para demostrar a las masas que Él realmente es el Hijo de Dios, el Libertador prometido, también estaba la revelación personal y cercana y el discipulado que estaba haciendo en la vida de unos pocos individuos, a saber, Sus discípulos.
+### Estas cosas fueron Su enfoque en el Antiguo Testamento, así como ahora en los Evangelios en la vida de Jesús. Junto con todo lo que Dios estaba haciendo a través de la vida de Jesús para demostrar a las masas que Él realmente es el Hijo de Dios, el Libertador prometido, también estaba la revelación personal y cercana y el discipulado que estaba haciendo en la <u>vida</u> de unos pocos individuos, a saber, Sus discípulos.
 
-### En la lección de hoy, vamos a ver la vida de Pedro y la interacción de Jesús (que es Dios el Hijo) con él. Es muy interesante notar que veremos a Jesús enfatizando en la vida de Pedro exactamente las mismas cosas que vimos a Dios el Padre enfatizando en las vidas de todos con los que lo vimos interactuar a través del Antiguo Testamento. Las cosas que lo vimos enfatizar a través del Antiguo Testamento y a través de la vida de Jesús en los evangelios también son válidas para nosotros hoy como Sus hijos.
+### En la lección de hoy, vamos a ver la vida de Pedro y la interacción de Jesús (que es Dios el Hijo) con él. Es muy interesante notar que veremos a Jesús enfatizando en la vida de Pedro exactamente las mismas <u>cosas</u> que vimos a Dios el Padre enfatizando en las vidas de todos con los que lo vimos interactuar a través del Antiguo Testamento. Las cosas que lo vimos enfatizar a través del Antiguo Testamento y a través de la vida de Jesús en los evangelios también son válidas para nosotros hoy como Sus hijos.
 
-### Antes de seguir la progresión de la interacción de Jesús con Pedro y los otros discípulos, veamos primero algunos versículos que nos dan una pista sobre la comprensión espiritual de Cristo y su obra terminada que Pedro tuvo al final de su vida.
+### Antes de seguir la progresión de la interacción de Jesús con Pedro y los otros discípulos, veamos primero algunos versículos que nos dan una <u>pista</u> sobre la comprensión espiritual de Cristo y su obra terminada que Pedro tuvo al final de su vida.
 
 ### Lea 1 Pedro 1:14-16; 4:1-2; 2 Pedro 1:3-4; 3:18.
 
-### Entonces, ¿cómo llegó Pedro a este punto? ¿cómo se convirtió en un apóstol de la iglesia escribiendo una verdad espiritual tan profunda? ¿cómo pasó de ser alguien cuyos pensamientos e intenciones del corazón eran solo malvados desde la infancia a ser alguien con este tipo de comprensión espiritual profunda? Sigamos la progresión de la interacción de Jesús con él a través de los evangelios.
+### Entonces, ¿cómo llegó Pedro a este punto? ¿cómo se convirtió en un apóstol de la iglesia escribiendo una verdad espiritual tan profunda? ¿cómo pasó de ser <u>alguien</u> cuyos pensamientos e intenciones del corazón eran solo malvados desde la infancia a ser alguien con este tipo de comprensión espiritual profunda? Sigamos la progresión de la interacción de Jesús con él a través de los evangelios.
 
 ### Lea Mateo 4:18-19.
 
-### Esta es la primera interacción registrada que tenemos de Jesús con Pedro y comienza con Jesús llamándolo a seguirlo y afirmando que Él los hará pescadores de hombres. Debido a que conocemos el resto de la historia, sabemos que al llamar a estos hombres a ser Sus discípulos, Dios los estaba eligiendo para participar en la realización de Su plan eterno de redención. Su papel sería convertirse en Apóstoles, los primeros líderes de la iglesia en la tierra, así como ser aquellos a quienes el Espíritu Santo inspiraría para escribir la Sagrada Escritura. Fiel a su forma, Dios una vez más obra de una manera que el mundo no habría trabajado al elegir el tipo de hombres que eligió para este papel. En lugar de elegir a hombres altamente capacitados y educados para que se conviertan en los primeros líderes de la iglesia y escritores de las Escrituras, ¡elige a pescadores sin educación y a un recaudador de impuestos muy despreciado para estos roles!
+### Esta es la primera interacción registrada que tenemos de Jesús con Pedro y comienza con Jesús llamándolo a <u>seguirlo</u> y afirmando que Él los hará pescadores de hombres. Debido a que conocemos el resto de la historia, sabemos que al llamar a estos hombres a ser Sus discípulos, Dios los estaba eligiendo para participar en la realización de Su plan eterno de redención. Su papel sería convertirse en Apóstoles, los primeros líderes de la iglesia en la tierra, así como ser aquellos a quienes el Espíritu Santo inspiraría para escribir la Sagrada Escritura. Fiel a su forma, Dios una vez más obra de una manera que el mundo no habría trabajado al elegir el tipo de hombres que eligió para este papel. En lugar de elegir a hombres altamente capacitados y educados para que se conviertan en los primeros líderes de la iglesia y escritores de las Escrituras, ¡elige a pescadores sin educación y a un recaudador de impuestos muy despreciado para estos roles!
 
-### Esto no es diferente de lo que lo vimos hacer en el Antiguo Testamento con la elección de Abraham y Sara, la nación de Israel, Moisés, etc. Él elige a aquellos que el mundo nunca esperaría para demostrar que es Él quien está llevando a cabo SU plan. Su elección de ellos no se basó en nada en sí mismos, sino en lo que Él iba a hacer que se convirtieran.
+### Esto no es diferente de lo que lo vimos hacer en el Antiguo Testamento con la elección de Abraham y Sara, la <u>nación</u> de Israel, Moisés, etc. Él elige a aquellos que el mundo nunca esperaría para demostrar que es Él quien está llevando a cabo SU plan. Su elección de ellos no se basó en nada en sí mismos, sino en lo que Él iba a hacer que se convirtieran.
 
 ### Lea Mateo 4:23-25.
 
-### Estos versículos nos dan un resumen rápido de cómo Jesús hizo esta obra en sus vidas. Simplemente hizo que lo siguieran, escucharan sus enseñanzas y lo vieran revelarse a sí mismo y quién era a través de las cosas que hizo.
+### Estos versículos nos dan un resumen rápido de cómo Jesús hizo esta <u>obra</u> en sus vidas. Simplemente hizo que lo siguieran, escucharan sus enseñanzas y lo vieran revelarse a sí mismo y quién era a través de las cosas que hizo.
 
-### Verá que el discipulado de Jesús con sus discípulos tenía un enfoque y un énfasis muy diferentes de lo que tendemos a pensar. Nuestro discipulado generalmente está entrenando a las personas para que dejen de hacer ciertas cosas y comiencen a hacer otras cosas. Pero el discipulado de Jesús consistió en la revelación de dos cosas: primero, no puedes confiar en ti mismo para nada. Segundo, Yo soy el Hijo de Dios y tu única esperanza es confiar en Mí.
+### Verá que el discipulado de Jesús con sus discípulos tenía un enfoque y un énfasis muy diferentes de lo que tendemos a <u>pensar</u>. Nuestro discipulado generalmente está entrenando a las personas para que dejen de hacer ciertas cosas y comiencen a hacer otras cosas. Pero el discipulado de Jesús consistió en la revelación de dos cosas: primero, no puedes confiar en ti mismo para nada. Segundo, Yo soy el Hijo de Dios y tu única esperanza es confiar en Mí.
 
 ### Lea Mateo 8:14-16.
 
-### Poco después de comenzar a seguir a Jesús, van a la casa de Pedro y Jesús sana a la suegra de Pedro. Luego, esa noche, muchas personas poseídas por demonios fueron traídas a Él. Él expulsó a los demonios con un simple mandato y sanó a todos los enfermos. Estaba mostrando su compasión, su poder y su autoridad. Esto es lo que soy.
+### Poco después de comenzar a seguir a Jesús, van a la casa de Pedro y Jesús sana a la suegra de Pedro. Luego, esa noche, muchas personas <u>poseídas</u> por demonios fueron traídas a Él. Él expulsó a los demonios con un simple mandato y sanó a todos los enfermos. Estaba mostrando su compasión, su poder y su autoridad. Esto es lo que soy.
 
 ### Lea Mateo 14:13-21.
 
-### Jesús salió de la barca, vio a la multitud, tuvo compasión de ellos y sanó a los enfermos. Nuevamente, revelando Su compasión, poder y autoridad.
+### Jesús salió de la barca, vio a la <u>multitud</u>, tuvo compasión de ellos y sanó a los enfermos. Nuevamente, revelando Su compasión, poder y autoridad.
 
-### Jesús dijo que no era necesario despedir a la multitud, que los discípulos debían alimentarlos. Sabía que no podían alimentarlos, pero todo esto era una trampa para comenzar a prepararlos para ver que no pueden depender de sí mismos; pero debido a quién es Él, PUEDEN depender de Él.
+### Jesús dijo que no era necesario despedir a la multitud, que los discípulos debían alimentarlos. Sabía que no podían alimentarlos, pero todo esto era una trampa para comenzar a prepararlos para ver que no pueden <u>depender</u> de sí mismos; pero debido a quién es Él, PUEDEN depender de Él.
 
-### También es interesante notar que Jesús, quien es la imagen expresada de Dios, también estaba manifestando algunos de los mismos atributos que hemos visto manifestar a Dios en el Antiguo Testamento: Su amor y compasión, Su sabiduría, poder y soberanía.
+### También es interesante notar que Jesús, quien es la imagen expresada de Dios, también estaba manifestando algunos de los mismos atributos que hemos visto manifestar a Dios en el Antiguo Testamento: Su amor y <u>compasión</u>, Su sabiduría, poder y soberanía.
 
 ### Lea Mateo 14:22-31.
 
-### El versículo 22 dice que inmediatamente después de que se recogió el pan, Jesús INSISTIÓ, HIZO u obligó a los discípulos a volver a la barca y cruzar al otro lado. Luego dice que estalló una tormenta cuando habían regresado a la mitad del camino.
+### El versículo 22 dice que inmediatamente después de que se <u>recogió</u> el pan, Jesús INSISTIÓ, HIZO u obligó a los discípulos a volver a la barca y cruzar al otro lado. Luego dice que estalló una tormenta cuando habían regresado a la mitad del camino.
 
-### Estos hombres eran pescadores experimentados. Sabían cuándo se avecinaba una tormenta. Sabían cuándo era bueno salir al agua y cuándo no. Creo que es por eso que dice que Jesús los HIZO volver a la barca. Los estaba poniendo en una situación en la que verían claramente quién es Él, así como quiénes son. Estas son las dos principales verdades fundamentales que deben estar en su lugar para que tengamos la capacidad de confiar en Dios. En primer lugar, hay una confianza absoluta en que Él es Quien se ha revelado a sí mismo, y en segundo lugar, que comprendemos cuán irremediablemente indefensos somos realmente para depender de nosotros mismos para cualquier cosa.
+### Estos hombres eran pescadores experimentados. Sabían cuándo se avecinaba una tormenta. Sabían cuándo era bueno salir al agua y cuándo no. Creo que es por eso que dice que Jesús los HIZO volver a la barca. Los estaba poniendo en una situación en la que verían claramente quién es Él, así como <u>quiénes</u> son. Estas son las dos principales verdades fundamentales que deben estar en su lugar para que tengamos la capacidad de confiar en Dios. En primer lugar, hay una confianza absoluta en que Él es Quien se ha revelado a sí mismo, y en segundo lugar, que comprendemos cuán irremediablemente indefensos somos realmente para depender de nosotros mismos para cualquier cosa.
 
-### 28-31 – Pedro le pide a Jesús que le ordene salir al agua. Pedro ve entonces las olas y el viento y las dudas y los hundimientos. Como verá, Pedro tenía una propensión a ser impetuoso y Jesús la usó para prepararlo nuevamente para ver su necesidad de confiar en Cristo.
+### 28-31 – Pedro le pide a Jesús que le ordene salir al agua. Pedro ve entonces las olas y el viento y las <u>dudas</u> y los hundimientos. Como verá, Pedro tenía una propensión a ser impetuoso y Jesús la usó para prepararlo nuevamente para ver su necesidad de confiar en Cristo.
 
 ### Lea Mateo 16:13-17.
 
-### Jesús les preguntó: ¿Quién decís que soy yo? A Pedro se le reveló quién era realmente Jesús. En su cabeza, entendía y creía que Jesús era verdaderamente el Hijo de Dios, pero en términos de vivirlo, veremos que muchas de sus acciones y las cosas que dijo aún carecían de la capacidad de confiar verdaderamente en Él.
+### Jesús les preguntó: ¿Quién decís que soy yo? A Pedro se le reveló quién era realmente Jesús. En su cabeza, entendía y creía que Jesús era verdaderamente el Hijo de Dios, pero en términos de vivirlo, veremos que muchas de sus acciones y las cosas que dijo aún <u>carecían</u> de la capacidad de confiar verdaderamente en Él.
 
 ### Lea Mateo 16:21-23.
 
-### Justo después de que Jesús elogia a Pedro por dar la respuesta correcta sobre quién es realmente Jesús, una vez más piensa más en sí mismo y en su propio entendimiento al corregir a Jesús con respecto a su comentario sobre ser arrestado y asesinado y termina siendo reprendido por Jesús. Esto demuestra que realmente no se ha hundido en su corazón Quién es realmente Jesús.
+### Justo después de que Jesús elogia a Pedro por dar la respuesta correcta sobre quién es realmente Jesús, una vez más piensa más en sí mismo y en su propio entendimiento al corregir a Jesús con respecto a su comentario sobre ser arrestado y asesinado y termina siendo reprendido por Jesús. Esto demuestra que realmente no se ha <u>hundido</u> en su corazón Quién es realmente Jesús.
 
-### En el versículo 23, Jesús dice: Ustedes están viendo las cosas meramente desde un punto de vista humano. Jesús le estaba mostrando a Pedro que no puede confiar en su propio razonamiento y entendimiento humano. También le estaba mostrando a Pedro que Él mismo es Dios y que la única esperanza de Pedro sería confiar en Él.
+### En el versículo 23, Jesús dice: Ustedes están viendo las cosas meramente desde un punto de <u>vista</u> humano. Jesús le estaba mostrando a Pedro que no puede confiar en su propio razonamiento y entendimiento humano. También le estaba mostrando a Pedro que Él mismo es Dios y que la única esperanza de Pedro sería confiar en Él.
 
 ### Lea Mateo 17:1-6.
 
-### En la transfiguración de Cristo, Pedro una vez más ve las cosas a través de su propio intelecto humano y nuevamente recibe una lección de perspectiva: Este es mi Hijo amado, escúchenlo. En otras palabras, Este es Dios el Hijo; Cállate y escucha. Si necesitas hacer algo, Él te lo dirá. Esto no se trata de ti y de lo que piensas.
+### En la transfiguración de Cristo, Pedro una vez más ve las cosas a través de su propio intelecto humano y nuevamente recibe una lección de perspectiva: Este es mi Hijo amado, escúchenlo. En otras palabras, Este es Dios el Hijo; Cállate y <u>escucha</u>. Si necesitas hacer algo, Él te lo dirá. Esto no se trata de ti y de lo que piensas.
 
 ### Lee Mateo 18:21.
 
-### Pedro le pregunta a Jesús: ¿*Cuántas veces debo perdonar a alguien? ¿Siete veces*? Una vez más, esto muestra que Pedro estaba en cualquier nivel terrenal. Un ser humano que perdona a alguien siete veces por la misma ofensa se consideraría muy amable.
+### Pedro le pregunta a Jesús: ¿*Cuántas veces debo perdonar a alguien? ¿Siete veces*? Una vez más, esto muestra que Pedro estaba en cualquier nivel terrenal. Un ser humano que perdona a alguien siete veces por la misma ofensa se consideraría muy <u>amable</u>.
 
-### La respuesta de Jesús presenta la necesidad de confiar en Él: *No, setenta veces siete.* En otras palabras, tantas veces que serías incapaz de hacerlo por ti mismo.
+### La respuesta de Jesús presenta la necesidad de confiar en Él: *No, setenta veces siete.* En otras palabras, tantas veces que serías <u>incapaz</u> de hacerlo por ti mismo.
 
 ### Lea Juan 13:6-9.
 
-### Jesús va a lavar los pies de Pedro y nuevamente Pedro comienza a escupir de acuerdo con su propio entendimiento. Primero, no va a dejar que Jesús lave nada. Luego quiere que Jesús lo lave TODO. Pedro está hablando y dando soluciones de acuerdo con lo que tiene sentido para él, en lugar de simplemente escuchar y confiar en lo que Jesús le estaba diciendo.
+### Jesús va a lavar los pies de Pedro y nuevamente Pedro comienza a escupir de acuerdo con su propio entendimiento. Primero, no va a dejar que Jesús lave nada. Luego quiere que Jesús lo lave TODO. Pedro está hablando y dando soluciones de acuerdo con lo que tiene <u>sentido</u> para él, en lugar de simplemente escuchar y confiar en lo que Jesús le estaba diciendo.
 
-### Como puede ver, todo este proceso de Jesús enseñando a Pedro a confiar en Él en lugar de en sí mismo por medio del fracaso ha estado progresando y construyendo hacia el clímax del mayor fracaso de Pedro.
+### Como puede ver, todo este proceso de Jesús enseñando a Pedro a confiar en Él en lugar de en sí mismo por medio del <u>fracaso</u> ha estado progresando y construyendo hacia el clímax del mayor fracaso de Pedro.
 
 ### Lea Mateo 26:31-35.
 
-### Pedro aquí realmente proporciona un claro ejemplo de las formas en que pensamos más de nosotros mismos de lo que deberíamos pensar. ¿Recuerdas Génesis 8:21? *Cada pensamiento e intención de nuestros corazones es solo el mal desde la infancia*.
+### Pedro aquí realmente proporciona un claro ejemplo de las formas en que <u>pensamos</u> más de nosotros mismos de lo que deberíamos pensar. ¿Recuerdas Génesis 8:21? *Cada pensamiento e intención de nuestros corazones es solo el mal desde la infancia*.
 
-### Así que aquí está Pedro, un hombre que encaja en la descripción de Génesis 8:21, no solo jurando una mayor devoción y lealtad que TODOS los demás discípulos, sino que también contradice totalmente al Hijo de Dios al hacerlo. ¿Quién es el Sabio aquí de todos modos?
+### Así que aquí está Pedro, un hombre que encaja en la descripción de Génesis 8:21, no solo jurando una mayor devoción y lealtad que TODOS los demás discípulos, sino que también contradice totalmente al Hijo de Dios al <u>hacerlo</u>. ¿Quién es el Sabio aquí de todos modos?
 
-### Jesús responde y dice en el versículo 34: *Bueno, en realidad Pedro, me vas a negar tres veces.* Luego, en el versículo 35, Pedro responde: ¡*NO, aunque tenga que morir, nunca te abandonaré!* Pedro estaba argumentando con vehemencia su propia lealtad y compromiso.
+### Jesús responde y dice en el versículo 34: *Bueno, en realidad Pedro, me vas a negar tres veces.* Luego, en el versículo 35, Pedro responde: ¡*NO, aunque tenga que morir, nunca te abandonaré!* Pedro estaba argumentando con vehemencia su propia <u>lealtad</u> y compromiso.
 
 ### Lea Mateo 26:36-46.
 
-### Observe que, en respuesta a la última respuesta de Pedro, Jesús deja de discutir con él y, en cambio, lo lleva al jardín de Getsemaní y le da a Pedro una visión de primera mano de lo que podrá esperar de sí mismo en términos de su propia devoción a Cristo. Pedro ni siquiera podía permanecer despierto y orar con Jesús durante una hora, y mucho menos estar dispuesto a morir por Él. Luego, en el versículo 40, Jesús dice: *El espíritu está dispuesto, pero la carne es débil.* Es decir, en tu corazón, quieres hacer lo correcto, pero dentro de ti mismo no hay poder para llevar a cabo estas cosas. ¡No puedes confiar en ti mismo!
+### Observe que, en respuesta a la última respuesta de Pedro, Jesús deja de discutir con él y, en cambio, lo lleva al jardín de Getsemaní y le da a Pedro una visión de primera mano de lo que podrá esperar de sí mismo en términos de su propia devoción a Cristo. Pedro ni siquiera podía permanecer <u>despierto</u> y orar con Jesús durante una hora, y mucho menos estar dispuesto a morir por Él. Luego, en el versículo 40, Jesús dice: *El espíritu está dispuesto, pero la carne es débil.* Es decir, en tu corazón, quieres hacer lo correcto, pero dentro de ti mismo no hay poder para llevar a cabo estas cosas. ¡No puedes confiar en ti mismo!
 
 ### Lea Juan 18:10-11.
 
-### Una vez más, Pedro, enfrentado a un problema, inmediatamente recurre a su propia solución y saca su espada para defender a Jesús. Jesús le dice que la guarde y dice: *¿No beberé de esta copa de sufrimiento que Dios me ha dado?* Jesús le había estado enseñando a Pedro que podía confiar en Él, y ahora aquí Jesús modela para Pedro su propia dependencia y confianza en Dios el Padre.
+### Una vez más, Pedro, enfrentado a un problema, inmediatamente recurre a su propia solución y saca su espada para <u>defender</u> a Jesús. Jesús le dice que la guarde y dice: *¿No beberé de esta copa de sufrimiento que Dios me ha dado?* Jesús le había estado enseñando a Pedro que podía confiar en Él, y ahora aquí Jesús modela para Pedro su propia dependencia y confianza en Dios el Padre.
 
 ### Lea Mateo 26:69-75.
 
-### Y así sucede tal como Jesús prometió que sucedería. Pedro niega a Cristo tres veces y luego sale corriendo llorando amargamente por las calles. No más proclamaciones de su propia voluntad y comprensión. Solo quebrantamiento. Esto se estaba construyendo.
+### Y así sucede tal como Jesús prometió que sucedería. Pedro niega a Cristo tres veces y luego sale corriendo <u>llorando</u> amargamente por las calles. No más proclamaciones de su propia voluntad y comprensión. Solo quebrantamiento. Esto se estaba construyendo.
 
-### La tentación hoy es pensar que es necesario evitar fracasos como este, pero en realidad, era necesario que sucediera. El cristianismo es una relación y no una religión, y para que podamos vivirlo como Dios quiere, todos debemos llegar a este punto de reconocer dos cosas. Primero, que realmente somos quienes Dios dice que somos (Génesis 8:21) y que Él realmente es Quien se ha revelado a sí mismo como ser: el Gran Yo Soy. La vida cristiana se trata de conocerlo y estar en comunión con Él. No se trata de estar capacitado para hacer lo correcto.
+### La tentación hoy es pensar que es necesario evitar fracasos como este, pero en realidad, era necesario que sucediera. El cristianismo es una relación y no una religión, y para que podamos vivirlo como Dios quiere, todos debemos llegar a este punto de reconocer dos cosas. Primero, que realmente <u>somos</u> quienes Dios dice que somos (Génesis 8:21) y que Él realmente es Quien se ha revelado a sí mismo como ser: el Gran Yo Soy. La vida cristiana se trata de conocerlo y estar en comunión con Él. No se trata de estar capacitado para hacer lo correcto.
 
 ### Lea Juan 20:3-6.
 
-### Juan en realidad corre más rápido que Pedro hacia la tumba, pero es Pedro quien irrumpe en busca de Su cuerpo. Es interesante notar que estar roto no cambió la composición o la personalidad de Pedro. Todavía era algo impetuoso. Se puede ver que ahora su impetuosidad se manifestaba como un deseo de Cristo en lugar de una dependencia de sí mismo.
+### Juan en realidad corre más rápido que Pedro hacia la tumba, pero es Pedro quien <u>irrumpe</u> en busca de Su cuerpo. Es interesante notar que estar roto no cambió la composición o la personalidad de Pedro. Todavía era algo impetuoso. Se puede ver que ahora su impetuosidad se manifestaba como un deseo de Cristo en lugar de una dependencia de sí mismo.
 
 ### Lea Juan 21:1-8.
 
-### Pedro dice que va a pescar y el resto decide ir con él. Pescan toda la noche y no pescan nada. Jesús aparece en la orilla y les dice que lancen al otro lado de la barca y atrapan una gran carga de peces. Pedro se da cuenta de que es Jesús y se sumerge y nada hasta la orilla. Necesitamos tener en cuenta lo que acaba de suceder en la vida de Pedro unos días antes. Acababa de negar a Cristo y había sido quebrantado y llevado al fin de sí mismo. Ahora, allí está Jesús parado en la orilla. El quebrantamiento de Pedro y el llegar al final de sí mismo aumentaron su dependencia de Cristo y su confianza en Él. Jesús era ahora estaba conociendo de mejor manera al Señor, a Jesucristo.
+### Pedro dice que va a pescar y el resto decide ir con él. Pescan toda la noche y no pescan nada. Jesús aparece en la orilla y les dice que lancen al otro lado de la barca y atrapan una gran carga de peces. Pedro se da cuenta de que es Jesús y se sumerge y nada hasta la orilla. Necesitamos tener en <u>cuenta</u> lo que acaba de suceder en la vida de Pedro unos días antes. Acababa de negar a Cristo y había sido quebrantado y llevado al fin de sí mismo. Ahora, allí está Jesús parado en la orilla. El quebrantamiento de Pedro y el llegar al final de sí mismo aumentaron su dependencia de Cristo y su confianza en Él. Jesús era ahora estaba conociendo de mejor manera al Señor, a Jesucristo.
 
 ### Lea Juan 21:15-17.
 
-### Todos los discípulos habían llegado a tierra con la pesca y ahora estaban todos sentados alrededor del fuego comiendo juntos. Jesús le pregunta a Pedro: *Pedro, ¿me amas más que a estos?*
+### Todos los discípulos habían llegado a tierra con la pesca y ahora estaban todos <u>sentados</u> alrededor del fuego comiendo juntos. Jesús le pregunta a Pedro: *Pedro, ¿me amas más que a estos?*
 
-### El texto no especifica claramente a qué se refiere “estos”. Sin embargo, el contexto inmediato es importante: Pedro había dicho: “Voy a pescar” (Juan 21:3), regresando a su ocupación anterior. Es posible que Jesús estuviera señalando aquello mismo que estaba delante de ellos — las redes, los peces, la barca — y preguntándole si lo amaba más que su antigua vida.
+### El texto no especifica claramente a qué se refiere “estos”. Sin embargo, el contexto inmediato es importante: Pedro había dicho: “Voy a pescar” (Juan 21:3), regresando a su ocupación anterior. Es posible que Jesús estuviera señalando aquello mismo que estaba <u>delante</u> de ellos — las redes, los peces, la barca — y preguntándole si lo amaba más que su antigua vida.
 
-### La pregunta entonces no sería una comparación con los otros discípulos, sino una confrontación más profunda: ¿Me amas más que aquello a lo que naturalmente regresarías? ¿Me amas más que tu seguridad, tu oficio, tu antiguo camino?
+### La pregunta entonces no sería una comparación con los otros discípulos, sino una confrontación más profunda: ¿Me amas más que aquello a lo que naturalmente regresarías? ¿Me amas más que tu seguridad, tu oficio, tu <u>antiguo</u> camino?
 
-### Pedro había vuelto a pescar. Jesús lo vuelve a llamar. No a redes, sino a pastorear. No a peces, sino a personas.
+### Pedro había vuelto a pescar. Jesús lo vuelve a llamar. No a redes, sino a pastorear. No a peces, sino a <u>personas</u>.
 
-### Jesús le preguntó tres veces: ¿Me amas (*ágape*, amas)? Finalmente, por tercera vez, Pedro respondió: *Señor, Tú sabes TODAS las cosas, Tú sabes que te amo* (*phileo* amor)  Sabes que mi amor por Ti es solo humano o fraternal.
+### Jesús le preguntó tres veces: ¿Me amas (*ágape*, amas)? Finalmente, por tercera vez, Pedro respondió: *Señor, Tú sabes TODAS las <u>cosas</u>, Tú sabes que te amo* (*phileo* amor)  Sabes que mi amor por Ti es solo humano o fraternal.
 
-### También es interesante notar que Pedro había negado a Jesús tres veces y ahora Jesús le pregunta tres veces si lo amaba. Había negado a Jesús mientras estaba sentado en un fuego y ahora ha restaurado la comunión mientras está sentado en otro. Aparte del hecho de que Jesús le estaba mostrando a Pedro que no podía confiar en sí mismo, no se enfocó en el hecho de que Pedro lo había negado.
+### También es interesante notar que Pedro había negado a Jesús tres veces y ahora Jesús le pregunta tres veces si lo amaba. Había negado a Jesús mientras estaba sentado en un fuego y ahora ha restaurado la comunión mientras está sentado en otro. Aparte del hecho de que Jesús le estaba mostrando a Pedro que no podía <u>confiar</u> en sí mismo, no se enfocó en el hecho de que Pedro lo había negado.
 
-### El fracaso de Pedro en sí mismo no fue el verdadero problema aquí, pero llegar a creer y comprender quién es Jesús y el hecho de que Pedro no puede confiar en sí mismo sí lo fue. Estas dos cosas estaban en el fundamento de Jesús haciéndolo ser un pescador de hombres.
+### El fracaso de Pedro en sí mismo no fue el verdadero problema aquí, pero llegar a creer y comprender quién es Jesús y el hecho de que Pedro no puede <u>confiar</u> en sí mismo sí lo fue. Estas dos cosas estaban en el fundamento de Jesús haciéndolo ser un pescador de hombres.
 
-### Los siguientes versículos nos dan vislumbres de cómo la vida de Pedro fue verdaderamente transformada: Hechos 3:12; 4:8-13, 19; y 10:25-26. Observe no solo la profunda comprensión de la verdad espiritual que está comunicando en estos pasajes, sino también la gran audacia que el crecer en el conocimiento de Cristo ha producido en su vida.
+### Los siguientes versículos nos dan vislumbres de cómo la vida de Pedro fue verdaderamente transformada: Hechos 3:12; 4:8-13, 19; y 10:25-26. Observe no solo la profunda comprensión de la verdad espiritual que está comunicando en estos pasajes, sino también la gran audacia que el <u>crecer</u> en el conocimiento de Cristo ha producido en su vida.
 
-### Por último, mire las últimas palabras registradas de Pedro a la iglesia en 2 Pedro 3:18. ¡Todo se reduce a simplemente crecer en el conocimiento de Dios, nuestro Salvador Jesucristo y Su gracia!
+### Por último, mire las últimas palabras registradas de Pedro a la iglesia en 2 Pedro 3:18. ¡Todo se <u>reduce</u> a simplemente crecer en el conocimiento de Dios, nuestro Salvador Jesucristo y Su gracia!
 
-### Crecer en el conocimiento de Dios aumentará nuestra capacidad de confiar en Él y caminar en la verdad.
+### Crecer en el conocimiento de Dios aumentará nuestra capacidad de confiar en Él y caminar en la <u>verdad</u>.
 
 ## Preguntas de revisión
 
@@ -5189,69 +5189,69 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ## Marcos 14
 
-### 2 Timoteo 1:9-10 y Génesis 8:21. Estos versículos establecen el contexto para toda la Palabra de Dios. 
+### 2 Timoteo 1:9-10 y Génesis 8:21. Estos <u>versículos</u> establecen el contexto para toda la Palabra de Dios. 
 
-### El Antiguo Testamento es una progresión que conduce al cumplimiento del gran plan de Dios en los evangelios. El resultado de los evangelios (la obra terminada de Cristo) se convierte en la provisión para todo lo que está en el Nuevo Testamento. Tenemos a este Dios Todopoderoso, soberano, supremo, amoroso, bondadoso, justo y misericordioso, porque ES amor, está llevando a cabo con paciencia y delicadeza Su plan para proporcionar la salvación eterna a una raza humana ignorante, ciega, perdida y depravada.
+### El Antiguo Testamento es una progresión que conduce al cumplimiento del gran plan de Dios en los evangelios. El resultado de los evangelios (la obra terminada de Cristo) se convierte en la provisión para todo lo que está en el Nuevo Testamento. Tenemos a este Dios Todopoderoso, soberano, <u>supremo</u>, amoroso, bondadoso, justo y misericordioso, porque ES amor, está llevando a cabo con paciencia y delicadeza Su plan para proporcionar la salvación eterna a una raza humana ignorante, ciega, perdida y depravada.
 
-### Uno de los hechos más asombrosos sobre Dios y cómo está haciendo todo esto es que Él no solo provee para nuestras necesidades espirituales y nos deja. No solo lo lleva a cabo de una manera distante o impersonal. En cambio, Él reconoce cuán ciegos, ignorantes y caídos somos realmente, y se sale MUCHO, MUCHO de Su camino para manifestarse a Sí mismo y a Su plan, para que incluso las personas que son tan ciegas, ignorantes y depravadas como nosotros puedan reconocerlo y responder con amor, aprecio y alabanza. ¡Él ES amor y quiere cercanía e intimidad con nosotros!
+### Uno de los hechos más asombrosos sobre Dios y cómo está haciendo todo esto es que Él no solo provee para nuestras necesidades espirituales y nos deja. No solo lo lleva a cabo de una manera distante o impersonal. En cambio, Él reconoce cuán ciegos, ignorantes y caídos <u>somos</u> realmente, y se sale MUCHO, MUCHO de Su camino para manifestarse a Sí mismo y a Su plan, para que incluso las personas que son tan ciegas, ignorantes y depravadas como nosotros puedan reconocerlo y responder con amor, aprecio y alabanza. ¡Él ES amor y quiere cercanía e intimidad con nosotros!
 
-### Ese es nuestro Dios, y para mí ese es el contexto de todo lo que hemos estado estudiando, y es el contexto de la lección de hoy. Ahora saltaremos en nuestra cronología al Jardín de Getsemaní. Jesús acababa de celebrar la Pascua con sus discípulos. Una vez más, Dios estaba cumpliendo su plan eterno de redención en sus vidas y no tenían ni idea. Estaban celebrando la Pascua con Aquel a quien la ceremonia había estado apuntando desde la noche en que Dios había liberado a Israel de Egipto.
+### Ese es nuestro Dios, y para mí ese es el contexto de todo lo que hemos estado estudiando, y es el contexto de la lección de hoy. Ahora saltaremos en nuestra cronología al Jardín de Getsemaní. Jesús acababa de celebrar la Pascua con sus discípulos. Una vez más, Dios estaba cumpliendo su plan <u>eterno</u> de redención en sus vidas y no tenían ni idea. Estaban celebrando la Pascua con Aquel a quien la ceremonia había estado apuntando desde la noche en que Dios había liberado a Israel de Egipto.
 
 ### Lea Marcos 14:32-36.
 
-### Habla de una clara muestra de la humanidad de Jesús. Mi alma está aplastada por el dolor hasta el punto de la muerte. Jesús no usó sus atributos de ser Dios para liberarse de los sufrimientos que no solo acompañan al ser humano, sino que especialmente al ser el Cordero de Dios que vino a quitar el pecado del mundo. Jesús no solo estaba a punto de ser crucificado, una muerte extremadamente tortuosa, sino que estaba a punto de convertirse en pecado por nosotros.
+### Habla de una clara muestra de la humanidad de Jesús. Mi alma está aplastada por el dolor hasta el punto de la muerte. Jesús no usó sus atributos de ser Dios para liberarse de los sufrimientos que no solo acompañan al ser humano, sino que especialmente al ser el Cordero de Dios que vino a <u>quitar</u> el pecado del mundo. Jesús no solo estaba a punto de ser crucificado, una muerte extremadamente tortuosa, sino que estaba a punto de convertirse en pecado por nosotros.
 
-### Creen que la vida de Jesús proporciona un modelo o ejemplo de cómo Dios quiere que sea la vida cristiana para nosotros. En el contexto de estas circunstancias extremas de sufrimiento, Jesús como hombre, en su alma es aplastado hasta el punto de la muerte. Se acerca a Dios y se dirige a Él como Abba Padre, revelando la intimidad y la cercanía de su relación.
+### Creen que la vida de Jesús proporciona un modelo o ejemplo de cómo Dios quiere que sea la vida cristiana para nosotros. En el <u>contexto</u> de estas circunstancias extremas de sufrimiento, Jesús como hombre, en su alma es aplastado hasta el punto de la muerte. Se acerca a Dios y se dirige a Él como Abba Padre, revelando la intimidad y la cercanía de su relación.
 
-### Basado en el hecho de que Dios es todopoderoso y supremo, Jesús le pide a Dios que lo libere de este tiempo de sufrimiento. Pero debido a que Dios es omnisciente, Jesús, más que querer Su propia voluntad, quiere que se cumpla la voluntad de Dios el Padre. Mira 1 Pedro 2:21-23. Para nosotros, sin conocerlo íntimamente, no tendremos ese tipo de cercanía e intimidad, ni querremos Su voluntad por encima de la nuestra. Dudamos de la bondad de Dios y, por lo tanto, no confiamos en Él.
+### Basado en el hecho de que Dios es todopoderoso y supremo, Jesús le pide a Dios que lo libere de este tiempo de sufrimiento. Pero debido a que Dios es omnisciente, Jesús, más que querer Su propia voluntad, quiere que se cumpla la voluntad de Dios el Padre. Mira 1 Pedro 2:21-23. Para nosotros, sin <u>conocerlo</u> íntimamente, no tendremos ese tipo de cercanía e intimidad, ni querremos Su voluntad por encima de la nuestra. Dudamos de la bondad de Dios y, por lo tanto, no confiamos en Él.
 
 ### Lea Marcos 14:37-42.
 
-### En los versículos 27-31, en el aposento alto, Jesús les dijo que sería derribado y que todos los discípulos lo abandonarían. Pedro dijo: *aunque TODOS te abandonen, yo nunca lo haré.* Jesús dijo: *De hecho, me negarás tres veces. NO, incluso si tengo que morir contigo, nunca te negaré.* Entonces, aquí en el versículo 37, Jesús dice: Pedro, acabas de jurar que estarías dispuesto a morir por mí, pero ahora ni siquiera puedes controlar tu carne lo suficiente como para permanecer despierto por solo una hora. Luego, en el versículo 38, dice: *Estáis a punto de ser tentados, estad atentos y orad, porque en verdad queréis ser fieles a mí, pero la carne es débil* 
+### En los versículos 27-31, en el aposento alto, Jesús les dijo que sería <u>derribado</u> y que todos los discípulos lo abandonarían. Pedro dijo: *aunque TODOS te abandonen, yo nunca lo haré.* Jesús dijo: *De hecho, me negarás tres veces. NO, incluso si tengo que morir contigo, nunca te negaré.* Entonces, aquí en el versículo 37, Jesús dice: Pedro, acabas de jurar que estarías dispuesto a morir por mí, pero ahora ni siquiera puedes controlar tu carne lo suficiente como para permanecer despierto por solo una hora. Luego, en el versículo 38, dice: *Estáis a punto de ser tentados, estad atentos y orad, porque en verdad queréis ser fieles a mí, pero la carne es débil* 
 
 ### Lea Marcos 14:43-47 y Mateo 26:52-56.
 
-### Es importante volver atrás y considerar todo el contexto de la relación de Jesús con estos discípulos. Tenemos que volver al principio donde Él los llama a seguirlo y los hará pescadores de hombres. Todo esto era parte de su discipulado. Estos hombres iban a convertirse en los líderes originales de la iglesia primitiva, los Apóstoles.
+### Es importante volver atrás y considerar todo el contexto de la <u>relación</u> de Jesús con estos discípulos. Tenemos que volver al principio donde Él los llama a seguirlo y los hará pescadores de hombres. Todo esto era parte de su discipulado. Estos hombres iban a convertirse en los líderes originales de la iglesia primitiva, los Apóstoles.
 
-### Vieron la angustia del corazón que Jesús mismo tenía en el jardín y lo escucharon derramar su corazón a Dios y lo vieron confiarse en las manos de Dios. Ahora, Pedro una vez más toma el asunto en sus propias manos, y Jesús nuevamente modela Su dependencia de Dios. Aunque puede ser cierto que Satanás estaba guiando a Judas y a los demás a hacer lo que iban a hacer, el verdadero problema era que Dios los estaba usando a ellos y a sus malas intenciones para llevar a cabo Su voluntad.
+### Vieron la angustia del corazón que Jesús mismo tenía en el jardín y lo escucharon derramar su corazón a Dios y lo vieron confiarse en las manos de Dios. Ahora, Pedro una vez más toma el asunto en sus propias manos, y Jesús nuevamente modela Su dependencia de Dios. Aunque puede ser cierto que Satanás <u>estaba</u> guiando a Judas y a los demás a hacer lo que iban a hacer, el verdadero problema era que Dios los estaba usando a ellos y a sus malas intenciones para llevar a cabo Su voluntad.
 
 ### Lea Marcos 14:48-49.
 
-### Este es otro ejemplo de Dios dejando claro para nosotros, los humanos ciegos, ignorantes y depravados, saber exactamente quién era el Prometido.
+### Este es otro ejemplo de Dios dejando claro para nosotros, los humanos <u>ciegos</u>, ignorantes y depravados, saber exactamente quién era el Prometido.
 
 ### Lea Marcos 14:50-52.
 
-### En el aposento alto, todos habían jurado lealtad hasta la muerte; pero ahora que Aquel que pensaban que había venido a liberarlos de los romanos fue capturado, todos lo abandonaron. ¡Estos son los tipos que se convirtieron en los Apóstoles! No solo su deserción y negación de Cristo nunca más se mencionó, sino que Dios los llamó a ser los apóstoles de la iglesia primitiva y los usó para escribir las verdades profundas de las Epístolas para la iglesia.
+### En el aposento alto, todos habían jurado lealtad hasta la muerte; pero ahora que Aquel que pensaban que había venido a liberarlos de los romanos fue capturado, todos lo abandonaron. ¡Estos son los tipos que se convirtieron en los Apóstoles! No solo su deserción y negación de Cristo nunca más se mencionó, sino que Dios los <u>llamó</u> a ser los apóstoles de la iglesia primitiva y los usó para escribir las verdades profundas de las Epístolas para la iglesia.
 
-### Creen que este fracaso extremo —abandonar a Cristo, negar a Cristo— fue una parte extremadamente importante para llevar a estos hombres a dejar de confiar en sí mismos y prepararlos para descansar únicamente en Cristo y en su obra terminada. Jesús no solo estaba cumpliendo el plan de redención de Dios, sino que todavía estaba discipulando a los discípulos.
+### Creen que este fracaso extremo —abandonar a Cristo, negar a Cristo— fue una parte extremadamente importante para llevar a estos hombres a dejar de confiar en sí mismos y prepararlos para descansar únicamente en Cristo y en su obra terminada. Jesús no solo estaba cumpliendo el plan de redención de Dios, sino que todavía <u>estaba</u> discipulando a los discípulos.
 
 ### Lea Marcos 14:53-65.
 
-### Aquí hay una clara manifestación de la soberanía de Dios. ¡Jesús vino a pagar por el pecado y la maldad de nuestra malvada raza humana caída y Dios usó la pecaminosidad y la maldad de los hombres para llevar a cabo Su plan!
+### Aquí hay una clara manifestación de la soberanía de Dios. ¡Jesús vino a pagar por el pecado y la maldad de <u>nuestra</u> malvada raza humana caída y Dios usó la pecaminosidad y la maldad de los hombres para llevar a cabo Su plan!
 
-### Es interesante notar que cuando los falsos testigos estaban inventando cosas sobre Jesús, Él no dio ninguna respuesta. No había actitud defensiva. Pero cuando se le preguntó: ¿Eres tú el Hijo de Dios? ¡Tenía que responder! ¡Él es la LUZ del mundo, el CAMINO, ¡la VERDAD y la VIDA! ¡No puedes ocultar la luz! ¡No puedes ocultar la vida! ¡Él es tan glorioso y magnífico que tuvo que declarar quién es! ¡El testimonio de quién es Él no puede ser contenido! ¡Tenía que brotar!
+### Es interesante notar que cuando los falsos testigos estaban inventando cosas sobre Jesús, Él no dio ninguna respuesta. No había actitud defensiva. Pero cuando se le preguntó: ¿Eres tú el Hijo de Dios? ¡Tenía que responder! ¡Él es la LUZ del <u>mundo</u>, el CAMINO, ¡la VERDAD y la VIDA! ¡No puedes ocultar la luz! ¡No puedes ocultar la vida! ¡Él es tan glorioso y magnífico que tuvo que declarar quién es! ¡El testimonio de quién es Él no puede ser contenido! ¡Tenía que brotar!
 
-### Cuando Jesús nació como un niño, ¡vino a ser nuestro Salvador! Sin embargo, en el versículo 62, Jesús afirma que la próxima vez que venga, ¡vendrá como Juez! Es por eso que la visión que Juan tuvo de Él en Apocalipsis se veía tan diferente de lo que se ve en los evangelios.
+### Cuando Jesús nació como un niño, ¡vino a ser nuestro Salvador! Sin embargo, en el versículo 62, Jesús afirma que la próxima vez que venga, ¡vendrá como Juez! Es por eso que la visión que Juan tuvo de Él en Apocalipsis se veía tan <u>diferente</u> de lo que se ve en los evangelios.
 
-### Los sumos sacerdotes y fariseos judíos no querían perder su poder, ¡y les costaba creer que Jesús era realmente el Libertador! ¡En sus mentes nació fuera del matrimonio (en pecado) de una pobre familia de carpinteros que vivía en Nazaret!
+### Los sumos sacerdotes y fariseos judíos no querían perder su poder, ¡y les costaba creer que Jesús era realmente el Libertador! ¡En sus <u>mentes</u> nació fuera del matrimonio (en pecado) de una pobre familia de carpinteros que vivía en Nazaret!
 
-### ¿Cómo podría alguien así ser el grande que nos librara de los romanos? Por lo tanto, cuando Jesús volvió a afirmar que era el Hijo de Dios, el sumo sacerdote se enfureció. ¡En sus mentes había cometido blasfemia!
+### ¿Cómo podría alguien así ser el grande que nos librara de los romanos? Por lo tanto, cuando Jesús volvió a afirmar que era el Hijo de Dios, el sumo sacerdote se <u>enfureció</u>. ¡En sus mentes había cometido blasfemia!
 
-### Isaías 50:6 e Isaías 53 eran profecías sobre cómo se trataría al Libertador. Marcos 14:65 cumple esa profecía. ¡Fíjate en el detalle! ¡Incluso hasta cómo sería tratado! Para mí, Dios estaba dejando muy, muy claras dos cosas principales: Primero, Jesús es verdaderamente el Libertador y, segundo, ¡la realidad de la depravación y la maldad del hombre y la necesidad desesperada del hombre de un Libertador!
+### Isaías 50:6 e Isaías 53 eran profecías sobre cómo se trataría al Libertador. Marcos 14:65 cumple esa profecía. ¡Fíjate en el detalle! ¡Incluso hasta cómo sería tratado! Para mí, Dios estaba dejando muy, muy claras dos cosas principales: Primero, Jesús es verdaderamente el Libertador y, segundo, ¡la realidad de la depravación y la <u>maldad</u> del hombre y la necesidad desesperada del hombre de un Libertador!
 
 ### Lea Marcos 15:1-5.
 
-### Los judíos no tenían la autoridad para condenar a muerte a una persona porque Israel estaba bajo el dominio de los romanos. Entonces los líderes judíos llevaron a Jesús ante Pilato, el gobernador provincial. Esperaban que, sobre la base de los falsos cargos que habían preparado, Pilato sentenciaría a muerte a Jesús. Como descendiente directo del rey David y en la línea de sucesión al trono de Israel, Jesús era el legítimo Rey de Israel. Una vez más, Jesús guarda silencio cuando se le acusa falsamente. Isaías 53:7 profetiza acerca de esto.
+### Los judíos no tenían la autoridad para condenar a muerte a una persona porque Israel estaba bajo el dominio de los romanos. Entonces los líderes judíos llevaron a Jesús ante Pilato, el gobernador provincial. Esperaban que, sobre la base de los falsos cargos que habían preparado, Pilato sentenciaría a <u>muerte</u> a Jesús. Como descendiente directo del rey David y en la línea de sucesión al trono de Israel, Jesús era el legítimo Rey de Israel. Una vez más, Jesús guarda silencio cuando se le acusa falsamente. Isaías 53:7 profetiza acerca de esto.
 
 ### Lea Marcos 15:6-20.
 
-### Para mí, toda esta escena y la crucifixión que sigue, personifica tanto la soberanía y supremacía de Dios como la depravación del hombre. Despreciar, rechazar, burlarse y torturar al mismísimo Hijo de Dios, ¡no puedes ser más depravado y malvado que eso! Sin embargo, desde la perspectiva de Dios, este fue Su plan todo el tiempo. Enviar a su Hijo para que se hiciera hombre y muriera por la raza humana. Es debido a esa depravación y maldad vil que requirió un Salvador, ¡y Dios usó esa increíble depravación para ayudar a lograr su pago! ¡Dios es tan asombroso!
+### Para mí, toda esta escena y la crucifixión que sigue, personifica tanto la soberanía y supremacía de Dios como la depravación del hombre. Despreciar, rechazar, burlarse y torturar al mismísimo Hijo de Dios, ¡no puedes ser más depravado y <u>malvado</u> que eso! Sin embargo, desde la perspectiva de Dios, este fue Su plan todo el tiempo. Enviar a su Hijo para que se hiciera hombre y muriera por la raza humana. Es debido a esa depravación y maldad vil que requirió un Salvador, ¡y Dios usó esa increíble depravación para ayudar a lograr su pago! ¡Dios es tan asombroso!
 
-### Dios había dicho a través del profeta Isaías que la mayoría de los judíos despreciarían y rechazarían a Aquel que Él enviaría al mundo. A través del rey David, Dios dijo que Su prometido sería odiado por los judíos, incluso aunque no hubiera una razón legítima para su odio. Véase Isaías 53:3; Salmos 69:4.
+### Dios había dicho a través del profeta Isaías que la mayoría de los <u>judíos</u> despreciarían y rechazarían a Aquel que Él enviaría al mundo. A través del rey David, Dios dijo que Su prometido sería odiado por los judíos, incluso aunque no hubiera una razón legítima para su odio. Véase Isaías 53:3; Salmos 69:4.
 
-### Estoy seguro de que todos han escuchado detalles sobre la flagelación que recibió Jesús. Muchas personas que fueron azotadas así en ese entonces nunca sobrevivieron para ser crucificadas. Después de la flagelación, Jesús fue vestido con una túnica púrpura y una corona de espinas fue golpeada sobre su cabeza. Los soldados hicieron esto para burlarse de Jesús, pero lo usaban para mostrar otra verdad. Cuando Adán y Eva pecaron, Dios maldijo la tierra y comenzaron a crecer espinas y cardos. Las espinas existen hoy debido a la maldición del pecado. Creo que este fue otro símbolo de que, con Su muerte, Él iba a liberar a los que creen en Él de los resultados del pecado.
+### Estoy seguro de que todos han escuchado detalles sobre la flagelación que recibió Jesús. Muchas personas que fueron azotadas así en ese entonces nunca sobrevivieron para ser crucificadas. Después de la flagelación, Jesús fue vestido con una túnica púrpura y una corona de espinas fue golpeada sobre su cabeza. Los soldados hicieron esto para burlarse de Jesús, pero lo usaban para mostrar otra verdad. Cuando Adán y Eva pecaron, Dios <u>maldijo</u> la tierra y comenzaron a crecer espinas y cardos. Las espinas existen hoy debido a la maldición del pecado. Creo que este fue otro símbolo de que, con Su muerte, Él iba a liberar a los que creen en Él de los resultados del pecado.
 
-### ¡Solo hay una explicación de por qué el Santo y Todopoderoso Creador del universo permitiría que el hombre pecador lo sacara y lo crucificara como un criminal común! Eso es JUAN 3:16 – *Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree, no se pierda, sino que tenga vida eterna.*
+### ¡Solo hay una explicación de por qué el Santo y Todopoderoso Creador del universo permitiría que el hombre <u>pecador</u> lo sacara y lo crucificara como un criminal común! Eso es JUAN 3:16 – *Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree, no se pierda, sino que tenga vida eterna.*
 
 ## Preguntas de revisión
 
@@ -5267,113 +5267,113 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ## Marcos 15:20-22
 
-### Introducción: Todo lo que hemos estudiado hasta ahora ha conducido al evento más importante en la historia de la tierra. Veremos cómo culminaron todas las promesas y profecías de Dios con respecto al Libertador venidero. La forma en que las personas responden a este evento determina dónde pasarán la eternidad.
+### Introducción: Todo lo que hemos estudiado hasta ahora ha conducido al evento más importante en la historia de la tierra. Veremos cómo culminaron <u>todas</u> las promesas y profecías de Dios con respecto al Libertador venidero. La forma en que las personas responden a este evento determina dónde pasarán la eternidad.
 
 ### Lea Marcos 15:20-22.
 
-### Sabemos que la crucifixión era una de las principales formas en que los romanos ejecutaban a las personas. La muerte era lenta y, a menudo, pasaban días antes de que la persona expirara. La crucifixión se considera una de las formas más brutales de ejecución.
+### Sabemos que la crucifixión era una de las principales <u>formas</u> en que los romanos ejecutaban a las personas. La muerte era lenta y, a menudo, pasaban días antes de que la persona expirara. La crucifixión se considera una de las formas más brutales de ejecución.
 
 ### Lee Marcos 15:23.
 
-### El Comentario del Conocimiento Bíblico dice: *Según la tradición rabínica, ciertas mujeres de Jerusalén proporcionaron bebidas sedantes a los que estaban a punto de ser crucificados para disminuir su dolor (cf. Prov. 31:6-7). La bebida se preparaba como un acto de misericordia y se mezclaba con mirra, una savia extraída de un pequeño árbol que tenía cualidades sedantes.*
+### El Comentario del Conocimiento Bíblico dice: *Según la tradición rabínica, ciertas mujeres de Jerusalén proporcionaron bebidas sedantes a los que estaban a punto de ser crucificados para disminuir su dolor (cf. Prov. 31:6-7). La bebida se preparaba como un <u>acto</u> de misericordia y se mezclaba con mirra, una savia extraída de un pequeño árbol que tenía cualidades sedantes.*
 
 ### Lee Marcos 15:24.
 
-### Es interesante aquí que Marcos simplemente afirma que lo crucificaron. No da ninguna descripción de cómo fue la crucifixión. Se cree que Marcos escribió esto a los gentiles romanos, ya que hay lugares donde explicó las costumbres judías que habrían sido extrañas para los lectores gentiles (por ejemplo, 7:2-4; 15:42). Tradujo palabras arameas que no habrían sido familiares para los gentiles (3:17; 5:41; 7:11, 34; 15:22). En comparación con Mateo y Lucas, usó muchos latinismos y préstamos latinos, lo que indica influencia romana. Mostró especial interés en la persecución y el martirio que habrían sido de especial interés para los lectores romanos cuando escribió (por ejemplo, 8:34-38; 13:913).
+### Es interesante aquí que Marcos simplemente afirma que lo crucificaron. No da ninguna descripción de cómo fue la crucifixión. Se cree que Marcos escribió esto a los gentiles romanos, ya que hay lugares donde explicó las costumbres judías que <u>habrían</u> sido extrañas para los lectores gentiles (por ejemplo, 7:2-4; 15:42). Tradujo palabras arameas que no habrían sido familiares para los gentiles (3:17; 5:41; 7:11, 34; 15:22). En comparación con Mateo y Lucas, usó muchos latinismos y préstamos latinos, lo que indica influencia romana. Mostró especial interés en la persecución y el martirio que habrían sido de especial interés para los lectores romanos cuando escribió (por ejemplo, 8:34-38; 13:913).
 
-### Muchos años antes, Dios usó al rey David para registrar este detalle sobre lo que le sucedería al Libertador.
+### Muchos años antes, Dios usó al rey David para registrar este detalle <u>sobre</u> lo que le sucedería al Libertador.
 
 ### Lee Salmo 22:16.
 
-### Recuerde cuando Jesús le dijo a Nicodemo que cuando Moisés levantó la serpiente de bronce en un poste en el desierto, Jesús también tuvo que ser levantado. El verdadero problema en esa analogía no es tanto que tanto Jesús como la serpiente de bronce fueron levantados en una asta, sino que, en ambos casos, la liberación se obtuvo por fe. El Antiguo Testamento está lleno de imágenes físicas o presagios de la necesidad de poner nuestra fe en las promesas y provisiones de Dios. Aproximadamente 1,000 años antes, Dios había guiado al rey David para que también escribiera que la ropa del Libertador sería apostada. Véase Salmo 22:18.
+### Recuerde cuando Jesús le dijo a Nicodemo que cuando Moisés levantó la serpiente de bronce en un poste en el desierto, Jesús también tuvo que ser levantado. El verdadero problema en esa analogía no es tanto que tanto Jesús como la serpiente de <u>bronce</u> fueron levantados en una asta, sino que, en ambos casos, la liberación se obtuvo por fe. El Antiguo Testamento está lleno de imágenes físicas o presagios de la necesidad de poner nuestra fe en las promesas y provisiones de Dios. Aproximadamente 1,000 años antes, Dios había guiado al rey David para que también escribiera que la ropa del Libertador sería apostada. Véase Salmo 22:18.
 
 ### Lea Marcos 15:25-26 y Juan 19:19-22.
 
-### Los líderes judíos definitivamente no querían que se colocara este letrero, ya que parece burlarse de ellos como nación o como pueblo, una declaración del tipo tanto para tu Libertador.
+### Los líderes judíos definitivamente no querían que se colocara este letrero, ya que parece burlarse de ellos como <u>nación</u> o como pueblo, una declaración del tipo tanto para tu Libertador.
 
 ### Lea Marcos 15:27-28.
 
-### Los dos ladrones estaban siendo castigados por sus crímenes, pero Jesús no había hecho nada malo. Ser crucificado con estos ladrones fue el cumplimiento de la profecía de Isaías de que el Libertador moriría junto con los criminales. Véase Isaías 53:12.
+### Los dos ladrones estaban siendo castigados por sus crímenes, pero Jesús no había hecho <u>nada</u> malo. Ser crucificado con estos ladrones fue el cumplimiento de la profecía de Isaías de que el Libertador moriría junto con los criminales. Véase Isaías 53:12.
 
-### Creo que no podría haber mayor demostración de cuán vilmente arrogante es la humanidad que tener una raza humana absolutamente pecaminosa y malvada juzgando a nuestro Hijo de Dios absolutamente santo, soberano y supremo como peor que un criminal, ¡para ser peor que el resto de la raza humana! ¡Esta es la naturaleza de TODOS los seres humanos, incluidos nosotros! Cuando lo miras bajo esa luz, te das cuenta aún más de cuánto se trata nuestra redención que Dios nos haga suyos, así como de lo que significó cuando Dios dijo: *Todo pensamiento e intención de nuestros corazones es solo malo desde la infancia.*
+### Creo que no podría haber mayor demostración de cuán vilmente arrogante es la humanidad que tener una raza humana absolutamente pecaminosa y malvada juzgando a nuestro Hijo de Dios absolutamente santo, soberano y supremo como <u>peor</u> que un criminal, ¡para ser peor que el resto de la raza humana! ¡Esta es la naturaleza de TODOS los seres humanos, incluidos nosotros! Cuando lo miras bajo esa luz, te das cuenta aún más de cuánto se trata nuestra redención que Dios nos haga suyos, así como de lo que significó cuando Dios dijo: *Todo pensamiento e intención de nuestros corazones es solo malo desde la infancia.*
 
 ### Lea Marcos 15:29-32.
 
-### Estas personas se referían a lo que Jesús había dicho al principio de su ministerio, después de haber entrado en el templo y expulsado a los que vendían animales para sacrificios.
+### Estas personas se referían a lo que Jesús había dicho al principio de su ministerio, después de <u>haber</u> entrado en el templo y expulsado a los que vendían animales para sacrificios.
 
 ### Lea Juan 2:13-21.
 
-### Cuando Jesús dijo que si destruían el templo, lo reconstruiría en tres días, se refería a su cuerpo, que sabía que resucitaría de entre los muertos en tres días. El rey David también había escrito que los enemigos del Libertador se burlarían de Él y se reirían de Sus sufrimientos. Véase Salmo 22:6-8.
+### Cuando Jesús dijo que si destruían el templo, lo reconstruiría en tres días, se refería a su cuerpo, que sabía que resucitaría de entre los muertos en tres días. El rey David también había escrito que los enemigos del Libertador se burlarían de Él y se <u>reirían</u> de Sus sufrimientos. Véase Salmo 22:6-8.
 
-### La crucifixión de Jesús fue la razón por la que Jesús vino a la tierra. Entendamos lo que Dios hizo para que pudiéramos ser liberados para siempre de Satanás, del pecado y de la muerte. En primer lugar, Dios nunca podría habernos perdonado y aceptado a menos que el castigo por el pecado se pagara por completo. ¿Y cuál es el castigo por el pecado? MUERTE.
+### La crucifixión de Jesús fue la razón por la que Jesús vino a la tierra. Entendamos lo que Dios hizo para que pudiéramos ser liberados para siempre de Satanás, del pecado y de la muerte. En primer lugar, Dios nunca podría habernos perdonado y aceptado a menos que el <u>castigo</u> por el pecado se pagara por completo. ¿Y cuál es el castigo por el pecado? MUERTE.
 
-### ¿Y cuál es el significado de la muerte? Esto es lo que Dios le dijo a Adán que sucedería si comía del árbol del conocimiento del bien y del mal. Si Dios perdonara el pecado que no fue pagado completamente por la muerte, sería injusto. La única forma en que Dios podía permanecer justo y santo Y salvarnos del castigo que merecíamos era dar a Su Hijo Jesús para que se convirtiera en nuestro sustituto y muriera por nuestros pecados. Jesús tuvo que ser separado de Dios y morir en nuestro lugar.
+### ¿Y cuál es el significado de la muerte? Esto es lo que Dios le dijo a Adán que sucedería si comía del árbol del conocimiento del bien y del mal. Si Dios perdonara el pecado que no fue pagado completamente por la muerte, sería injusto. La única forma en que Dios podía permanecer <u>justo</u> y santo Y salvarnos del castigo que merecíamos era dar a Su Hijo Jesús para que se convirtiera en nuestro sustituto y muriera por nuestros pecados. Jesús tuvo que ser separado de Dios y morir en nuestro lugar.
 
-### Aquí es donde aplico Colosenses 1:16-18: *Todas las cosas fueron creadas por Él y para Él,* para que Él venga y revele la gracia del Padre. Él es la imagen expresada de Dios. Cuando realmente te detienes y comprendes la vileza del hombre, ¡la GRACIA se manifiesta mucho más! Debido a que Jesús era perfecto y sin pecado, podía morir en nuestro lugar y ser nuestro sustituto.
+### Aquí es donde aplico Colosenses 1:16-18: *Todas las cosas fueron creadas por Él y para Él,* para que Él venga y revele la gracia del Padre. Él es la imagen expresada de Dios. Cuando realmente te detienes y comprendes la vileza del hombre, ¡la GRACIA se manifiesta mucho más! Debido a que Jesús era perfecto y sin pecado, podía <u>morir</u> en nuestro lugar y ser nuestro sustituto.
 
 ### Lea Marcos 15:33-36.
 
-### Durante tres horas, desde el mediodía hasta las 3 p.m., la luz del sol se apagó y hubo oscuridad sobre la tierra. Esta oscuridad mostró que Dios se había alejado de Su Hijo amado, dejándolo sufrir solo. Desde la eternidad, antes de la creación, y hasta este momento en la cruz, Dios el Hijo y Dios el Padre habían estado en perfecta unidad amorosa. Pero ahora, en el momento de mayor necesidad de Jesús, Dios el Padre se aleja de Él. ¿Por qué? Dios estaba castigando a Jesús por nuestros pecados y por los de todo el mundo. Jesús estaba sufriendo la separación de Dios, el castigo por nuestros pecados.
+### Durante tres horas, desde el mediodía hasta las 3 p.m., la luz del sol se apagó y hubo oscuridad sobre la tierra. Esta oscuridad mostró que Dios se había alejado de Su Hijo amado, dejándolo sufrir solo. Desde la eternidad, antes de la creación, y hasta este momento en la <u>cruz</u>, Dios el Hijo y Dios el Padre habían estado en perfecta unidad amorosa. Pero ahora, en el momento de mayor necesidad de Jesús, Dios el Padre se aleja de Él. ¿Por qué? Dios estaba castigando a Jesús por nuestros pecados y por los de todo el mundo. Jesús estaba sufriendo la separación de Dios, el castigo por nuestros pecados.
 
-### Algunas de las personas alrededor de la cruz pensaron que estaba llamando al profeta Elías para que viniera a rescatarlo. Jesús no estaba llamando a Elías para que lo salvara. Estaba clamando con angustia a Dios que se había alejado de Él mientras asumía toda la responsabilidad de nuestros pecados.
+### Algunas de las personas alrededor de la cruz pensaron que estaba llamando al profeta Elías para que viniera a rescatarlo. Jesús no estaba llamando a Elías para que lo <u>salvara</u>. Estaba clamando con angustia a Dios que se había alejado de Él mientras asumía toda la responsabilidad de nuestros pecados.
 
-### Cuando Jesús fue clavado en la cruz, su sangre fluyó de su cuerpo, así como la sangre de los animales fluyó de sus cuerpos cuando los judíos los ofrecieron a Dios. La sangre de cada animal sacrificado a Dios a lo largo de los años apuntaba hacia este momento en que el Libertador, el Hijo de Dios, daría su vida en la cruz para pagar por los pecados del mundo. Cada sacrificio de animales a lo largo de los años les recordó a los israelitas que la paga del pecado es la muerte.
+### Cuando Jesús fue clavado en la cruz, su sangre fluyó de su cuerpo, así como la sangre de los animales fluyó de sus cuerpos cuando los judíos los ofrecieron a Dios. La sangre de cada animal sacrificado a Dios a lo largo de los años apuntaba hacia este momento en que el Libertador, el Hijo de Dios, daría su vida en la cruz para pagar por los <u>pecados</u> del mundo. Cada sacrificio de animales a lo largo de los años les recordó a los israelitas que la paga del pecado es la muerte.
 
 ### Lee Marcos 15:37.
 
-### Marcos escribió que Jesús clamó a gran voz justo antes de morir, pero Marcos no nos dice lo que dijo. Sin embargo, en Juan 19:30, Juan nos dice que Jesús dijo: *Consumado es.* Sabemos que, con esta declaración, Jesús no quiso decir que había perdido y que sus enemigos habían ganado. En cambio, ¡quiso decir que lo que había venido a hacer al mundo se cumplió por completo! Había venido a liberar a los pecadores, y había logrado su propósito. Había sido separado de Dios y se le había dado su sangre y su vida como pago completo por nuestros pecados. ¡El plan de Dios desde antes de los siglos ahora estaba completo!
+### Marcos escribió que Jesús clamó a gran voz justo antes de morir, pero Marcos no nos dice lo que dijo. Sin embargo, en Juan 19:30, Juan nos dice que Jesús dijo: *Consumado es.* Sabemos que, con esta declaración, Jesús no quiso decir que había perdido y que sus enemigos habían ganado. En cambio, ¡quiso decir que lo que había venido a hacer al mundo se cumplió por completo! Había venido a liberar a los pecadores, y había logrado su propósito. Había sido separado de Dios y se le había dado su <u>sangre</u> y su vida como pago completo por nuestros pecados. ¡El plan de Dios desde antes de los siglos ahora estaba completo!
 
-### Ahora, ya no hay necesidad de que nadie se separe de Dios. Debido a que Jesús pagó todo lo necesario, Dios perdona los pecados de aquellos que están de acuerdo con Él en que son pecadores y creen en Jesús y Su muerte por ellos. A ellos les da el don de la vida eterna. En el Jardín del Edén, Dios había prometido que enviaría un Libertador y cumplió su promesa. Jesús terminó la obra que su Padre le había encomendado que hiciera por nosotros. Él es el único camino de regreso a Dios. Juan 14:6 dice: *Yo soy el camino, la verdad y la vida, nadie viene al Padre sino por mí.*
+### Ahora, ya no hay necesidad de que nadie se separe de Dios. Debido a que Jesús pagó todo lo necesario, Dios perdona los pecados de aquellos que están de acuerdo con Él en que son pecadores y creen en Jesús y Su muerte por ellos. A ellos les da el don de la vida eterna. En el Jardín del Edén, Dios había prometido que <u>enviaría</u> un Libertador y cumplió su promesa. Jesús terminó la obra que su Padre le había encomendado que hiciera por nosotros. Él es el único camino de regreso a Dios. Juan 14:6 dice: *Yo soy el camino, la verdad y la vida, nadie viene al Padre sino por mí.*
 
-### El trato en el que Marcos informó que algunos dijeron que estaba llamando a Elías probablemente fue una forma de burlarse de Jesús. La creencia judía popular en ese momento creía que Elías vino en tiempos de angustia para liberar a los justos que sufrían. Entonces, habrían estado diciendo: Oh, mira, Él piensa que Él es un sufridor justo y eso Elías vendrá a liberarlo.
+### El trato en el que Marcos informó que algunos dijeron que estaba llamando a Elías probablemente fue una <u>forma</u> de burlarse de Jesús. La creencia judía popular en ese momento creía que Elías vino en tiempos de angustia para liberar a los justos que sufrían. Entonces, habrían estado diciendo: Oh, mira, Él piensa que Él es un sufridor justo y eso Elías vendrá a liberarlo.
 
-### Otra nota interesante es la forma en que Jesús clamó y luego exhaló su último aliento y murió, lo que significa que no murió de la manera normal en que murieron las personas crucificadas. Normalmente sufrirían y se asfixiarían durante un largo período de tiempo, entrarían en coma por agotamiento y luego morirían. El hecho de que Jesús estuviera consciente hasta el final mostró que murió voluntaria y repentinamente.
+### Otra nota interesante es la forma en que Jesús clamó y luego exhaló su último aliento y murió, lo que significa que no murió de la manera normal en que murieron las personas crucificadas. Normalmente sufrirían y se asfixiarían durante un largo período de tiempo, entrarían en coma por agotamiento y luego <u>morirían</u>. El hecho de que Jesús estuviera consciente hasta el final mostró que murió voluntaria y repentinamente.
 
 ### Lee Marcos 15:38.
 
-### El verbo rasgar aquí es pasivo y, junto con la dirección en que se rasgó la cortina, muestra que fue hecho por Dios. Este es un punto extremadamente significativo. A lo largo del Antiguo Testamento, probablemente no haya una imagen física que muestre más claramente y recuerde continuamente a las personas que estaban separadas de Dios que esta cortina que las separa de la gloria de Dios.
+### El verbo rasgar aquí es pasivo y, junto con la dirección en que se rasgó la cortina, muestra que fue hecho por Dios. Este es un punto extremadamente significativo. A lo largo del Antiguo Testamento, probablemente no haya una imagen física que muestre más claramente y recuerde continuamente a las personas que estaban separadas de Dios que esta <u>cortina</u> que las separa de la gloria de Dios.
 
-### Como no hay nada que muestre más claramente la separación del hombre de Dios a causa de su pecado, del mismo modo, cuando Jesús murió y Dios rasgó la cortina en dos, este acto afirma de manera muy significativa que el precio ha sido pagado, el hombre ya no tiene que estar separado de Dios. El hombre no solo puede ahora acercarse a Dios, sino que Dios puede salir, por así decirlo; Él es capaz de aceptarnos como Sus hijos amados.
+### Como no hay nada que muestre más claramente la separación del hombre de Dios a causa de su pecado, del mismo modo, cuando Jesús murió y Dios rasgó la cortina en dos, este acto afirma de manera muy significativa que el precio ha sido pagado, el hombre ya no tiene que estar separado de Dios. El hombre no solo puede ahora <u>acercarse</u> a Dios, sino que Dios puede salir, por así decirlo; Él es capaz de aceptarnos como Sus hijos amados.
 
-### Esto mostró que Dios estaba completamente satisfecho con el pago que hizo Jesús. El hombre ya no necesitaría hacer sacrificios de animales porque el Libertador había venido y pagado el pago final.
+### Esto mostró que Dios estaba completamente satisfecho con el <u>pago</u> que hizo Jesús. El hombre ya no necesitaría hacer sacrificios de animales porque el Libertador había venido y pagado el pago final.
 
-### Todos los que están de acuerdo con Dios acerca de su pecaminosidad y confían solo en Jesús y en su pago por su pecado serán plenamente aceptados por Dios. Aquellos que creen nunca tendrán que enfrentar el juicio y el castigo de Dios.
+### Todos los que están de acuerdo con Dios acerca de su pecaminosidad y <u>confían</u> solo en Jesús y en su pago por su pecado serán plenamente aceptados por Dios. Aquellos que creen nunca tendrán que enfrentar el juicio y el castigo de Dios.
 
 ### Lea Juan 3:16-18, 36.
 
 ### Lea Marcos 15:39-41.
 
-### Creo que es realmente interesante que Dios incluya este breve testimonio de este soldado romano gentil. Principalmente, creo que fue una acusación contra los judíos. Se les dieron todas las promesas y profecías que les ayudarían a identificar al Libertador, pero lo rechazaron y este soldado romano gentil lo reconoció como el Hijo de Dios. Esto encaja con el patrón que se ve mucho en los evangelios:
+### Creo que es realmente interesante que Dios incluya este breve testimonio de este soldado romano gentil. Principalmente, creo que fue una acusación contra los <u>judíos</u>. Se les dieron todas las promesas y profecías que les ayudarían a identificar al Libertador, pero lo rechazaron y este soldado romano gentil lo reconoció como el Hijo de Dios. Esto encaja con el patrón que se ve mucho en los evangelios:
 
-#### Mujer samaritana
+#### La <u>mujer</u> samaritana.
 
-#### El soldado romano que dijo que también era un hombre de autoridad... solo da la orden.
+#### El soldado romano que dijo que también era un <u>hombre</u> de autoridad...*solo da la orden*.
 
-#### La mujer que dijo: Sí, pero hasta los perros comen las migajas que caen de la mesa.
+#### La mujer que dijo: Sí, pero hasta los perros <u>comen</u> las migajas que caen de la mesa.
 
-#### El recaudador de impuestos y el fariseo
+#### El recaudador de <u>impuestos</u> y el fariseo
 
-#### La declaración de Jesús: No he visto tanta fe en todo Israel.
+#### La declaración de Jesús: No he visto <u>tanta</u> fe en todo Israel.
 
-### Creo que este centurión romano fue un último testimonio contra Israel y su falta de fe. ¡Se llaman a sí mismos elegidos de Dios, pero rechazaron a Aquel que Dios envió para liberarlos!
+### Creo que este centurión romano fue un último testimonio contra Israel y su falta de fe. ¡Se llaman a sí mismos <u>elegidos</u> de Dios, pero rechazaron a Aquel que Dios envió para liberarlos!
 
 ### Lea Marcos 15:42-47.
 
-### El cuerpo de Jesús fue colocado en la cueva funeraria que pertenecía a un hombre rico influyente, José de Arimatea. Dios había guiado al profeta Isaías para que escribiera que el Libertador sería enterrado en la tumba de un hombre rico. Véase Isaías 53:9.
+### El cuerpo de Jesús fue colocado en la cueva funeraria que pertenecía a un hombre rico influyente, José de Arimatea. Dios había <u>guiado</u> al profeta Isaías para que escribiera que el Libertador sería enterrado en la tumba de un hombre rico. Véase Isaías 53:9.
 
 ### Lea Marcos 16:1.
 
-### Estas eran algunas de las mujeres que habían creído en Jesús y que habían presenciado su muerte. Era costumbre de los judíos poner especias aromáticas sobre los cuerpos de los muertos antes de ser enterrados. José se apresuró a envolver a Jesús con tiras de lino y especias, pero la preparación no se había completado. Entonces, temprano el domingo por la mañana, las mujeres fueron a la tumba para completar el entierro. Fue entonces cuando descubrieron que había resucitado. La orquestación de Dios es evidente. ¡Realmente se puede confiar en él!
+### Estas eran algunas de las mujeres que habían creído en Jesús y que habían presenciado su muerte. Era costumbre de los judíos poner especias aromáticas sobre los cuerpos de los muertos antes de ser enterrados. José se apresuró a envolver a Jesús con tiras de <u>lino</u> y especias, pero la preparación no se había completado. Entonces, temprano el domingo por la mañana, las mujeres fueron a la tumba para completar el entierro. Fue entonces cuando descubrieron que había resucitado. La orquestación de Dios es evidente. ¡Realmente se puede confiar en él!
 
 ### Lea Marcos 16:2-6.
 
-### Otro pequeño detalle menor del que Dios se ocupó: antes de que las mujeres llegaran a la tumba, hubo un gran terremoto y Dios envió a Su Ángel para quitar la piedra. Dios estaba haciendo que la verdad del evangelio fuera muy obvia e innegable. Jesús había dicho que resucitaría, ¡y lo hizo! Jesús les había dicho a todos muchas veces antes de morir que resucitaría al tercer día, pero parece que todos lo habían olvidado o realmente no creían que sucedería. Este fue otro punto que Dios había llevado al rey David a escribir en el Salmo 16:10.
+### Otro pequeño detalle menor del que Dios se ocupó: antes de que las mujeres llegaran a la tumba, hubo un gran terremoto y Dios envió a Su Ángel para quitar la piedra. Dios estaba haciendo que la verdad del evangelio fuera muy obvia e innegable. Jesús había <u>dicho</u> que resucitaría, ¡y lo hizo! Jesús les había dicho a todos muchas veces antes de morir que resucitaría al tercer día, pero parece que todos lo habían olvidado o realmente no creían que sucedería. Este fue otro punto que Dios había llevado al rey David a escribir en el Salmo 16:10.
 
 ### Lea Marcos 16:7-8.
 
-### El ángel les dijo a las mujeres que no tuvieran miedo y que regresaran y contaran a los discípulos lo que había sucedido. ¡Estaban tan conmocionados y asustados que no se lo dijeron a nadie en el camino! El significado de todo esto aún no se había asimilado para ellos. Realmente no fue hasta que vino el Espíritu Santo que iluminó sus mentes y les permitió entender el evangelio. Los líderes judíos no creían quién decía ser Jesús, pero Dios lo resucitó de entre los muertos y demostró que Él realmente ES quien decía ser. Dios resucitó a Jesús de entre los muertos porque estaba satisfecho con su pago por el pecado. Si el pago de Jesús no hubiera pagado por nuestro pecado en su totalidad, entonces todavía estaría muerto. Cristo murió y resucitó para que pudiéramos ser perdonados y recibir la vida eterna.
+### El ángel les dijo a las mujeres que no tuvieran miedo y que regresaran y contaran a los discípulos lo que había sucedido. ¡Estaban tan conmocionados y asustados que no se lo dijeron a nadie en el camino! El significado de todo esto aún no se había asimilado para ellos. Realmente no fue hasta que vino el Espíritu Santo que iluminó sus mentes y les permitió entender el evangelio. Los líderes judíos no creían quién decía ser Jesús, pero Dios lo resucitó de entre los muertos y demostró que Él realmente ES quien decía ser. Dios <u>resucitó</u> a Jesús de entre los muertos porque estaba satisfecho con su pago por el pecado. Si el pago de Jesús no hubiera pagado por nuestro pecado en su totalidad, entonces todavía estaría muerto. Cristo murió y resucitó para que pudiéramos ser perdonados y recibir la vida eterna.
 
-### A medida que estemos de acuerdo con Dios en que somos pecadores indefensos y pongamos nuestra fe en el Hijo de Dios y en el hecho de que Él murió en la cruz para pagar por nuestros pecados, Dios nos perdonará por todos nuestros pecados y nos dará vida eterna. Pero recibir la vida eterna es solo una parte de lo que hemos recibido en la salvación, en Cristo.
+### A medida que estemos de acuerdo con Dios en que somos pecadores indefensos y pongamos nuestra fe en el Hijo de Dios y en el hecho de que Él murió en la cruz para pagar por nuestros pecados, Dios nos perdonará por todos nuestros pecados y nos dará vida eterna. Pero recibir la vida eterna es solo una parte de lo que hemos <u>recibido</u> en la salvación, en Cristo.
 
 ## Preguntas de revisión
 
@@ -5391,99 +5391,99 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ## Salvación en tres partes
 
-### Introducción: Vimos progresivamente desde antes de la fundación de la tierra hasta la creación, a través del Antiguo Testamento, en los evangelios, y acabamos de concluir con la muerte, sepultura y resurrección de Jesús. Esto es a lo que nos referimos como El Evangelio o Salvación. Creemos en el evangelio y recibimos la salvación.
+### Introducción: Vimos progresivamente desde antes de la fundación de la tierra hasta la creación, a través del Antiguo Testamento, en los evangelios, y acabamos de concluir con la muerte, sepultura y resurrección de Jesús. Esto es a lo que nos referimos como El Evangelio o Salvación. Creemos en el evangelio y <u>recibimos</u> la salvación.
 
-### En la mente de la mayoría de las personas, el evangelio es el hecho de que Jesús murió en la cruz y derramó su sangre como pago por nuestro pecado, y la salvación es la vida eterna que recibimos cuando creemos en el evangelio. Aunque esto es cierto, la realidad es que hay más en el evangelio que Jesús muriendo como nuestro sustituto, Y hay más en la salvación que solo el hecho de que hemos recibido un cambio en nuestro destino eterno.
+### En la mente de la mayoría de las personas, el evangelio es el hecho de que Jesús murió en la cruz y derramó su sangre como pago por nuestro pecado, y la salvación es la vida eterna que recibimos cuando creemos en el evangelio. Aunque esto es cierto, la <u>realidad</u> es que hay más en el evangelio que Jesús muriendo como nuestro sustituto, Y hay más en la salvación que solo el hecho de que hemos recibido un cambio en nuestro destino eterno.
 
-### Sí, el evangelio no solo proporciona la salvación de la futura condenación eterna a la que nos dirigíamos, sino que también hay un aspecto de salvación que proporciona para el aquí y ahora mientras todavía vivimos en esta tierra.
+### Sí, el evangelio no solo proporciona la salvación de la futura condenación <u>eterna</u> a la que nos dirigíamos, sino que también hay un aspecto de salvación que proporciona para el aquí y ahora mientras todavía vivimos en esta tierra.
 
-### Otra frase que a menudo escuchamos con respecto a nuestra salvación es que fuimos salvos de nuestro pecado. Bueno, la realidad es que en realidad hay tres aspectos de ser salvos de nuestro pecado. En el momento en que aceptamos a Cristo como nuestro Salvador, recibimos:
+### Otra frase que a menudo escuchamos con respecto a nuestra salvación es que fuimos salvos de nuestro pecado. Bueno, la realidad es que en realidad hay tres aspectos de ser salvos de nuestro pecado. En el momento en que <u>aceptamos</u> a Cristo como nuestro Salvador, recibimos:
 
-#### Salvación de la PENA de nuestro pecado
+#### Salvación de la PENA de nuestro pecado.
 
-#### Salvación del PODER del pecado
+#### Salvación del PODER del pecado.
 
 #### Salvación de la futura PRESENCIA del pecado.
 
 ## Salvados de la pena del pecado (Génesis 2:15-17)
 
-### Destacamos esta interacción entre Dios y Adán porque es LA RAZÓN por la que hay pecado en el mundo, por qué somos pecadores y por qué necesitamos un Salvador.
+### Destacamos esta <u>interacción</u> entre Dios y Adán porque es LA RAZÓN por la que hay pecado en el mundo, por qué somos pecadores y por qué necesitamos un Salvador.
 
-### También pasamos un tiempo destacando lo que Dios quiso decir cuando les dijo que morirían. En última instancia, esa muerte significa separación. Señalamos que el hombre experimentaría tres aspectos de separación de Dios o muerte a Dios:
+### También pasamos un tiempo destacando lo que Dios quiso decir cuando les dijo que morirían. En última instancia, esa muerte significa separación. Señalamos que el hombre experimentaría tres aspectos de separación de Dios o <u>muerte</u> a Dios:
 
-#### Primero sería con respecto a su comunión o cercanía con Dios. Ahora habría una separación en la relación de Adán con Dios.
+#### Primero sería con respecto a su comunión o <u>cercanía</u> con Dios. Ahora habría una separación en la relación de Adán con Dios.
 
-#### El segundo fue con respecto a la espiritualidad de Adán. Experimentó la muerte espiritual. Su espíritu ahora estaba muerto para Dios. Ahora no iba a haber comunión entre su espíritu y Dios. El hombre ahora nació como un pecador con una naturaleza pecaminosa. Esto afecta a todas las áreas de la vida del hombre.
+#### El segundo fue con respecto a la espiritualidad de Adán. Experimentó la muerte espiritual. Su espíritu ahora estaba muerto para Dios. Ahora no iba a haber comunión entre su espíritu y Dios. El hombre ahora nació como un pecador con una <u>naturaleza</u> pecaminosa. Esto afecta a todas las áreas de la vida del hombre.
 
-#### Por último, estaba la separación eterna de la presencia de Dios en el infierno.
+#### Por último, estaba la separación eterna de la <u>presencia</u> de Dios en el infierno.
 
-### Estos son los tres aspectos principales de la pena del pecado. En mi opinión, son los más importantes porque tienen que ver directamente con la posición del hombre y su relación con Dios. Sin embargo, hay otros aspectos de la pena del pecado:
+### Estos son los tres aspectos principales de la pena del pecado. En mi opinión, son los más importantes porque tienen que ver directamente con la <u>posición</u> del hombre y su relación con Dios. Sin embargo, hay otros aspectos de la pena del pecado:
 
-#### Dios originalmente le dio dominio sobre la tierra a la humanidad, pero cuando Adán y Eva pecaron, pasaron ese dominio a Satanás. Ahora, toda la humanidad nace bajo el gobierno y dominio de Satanás.
+#### Dios originalmente le dio dominio sobre la tierra a la humanidad, pero cuando Adán y Eva pecaron, pasaron ese <u>dominio</u> a Satanás. Ahora, toda la humanidad nace bajo el gobierno y dominio de Satanás.
 
-#### Cuando Adán y Eva pecaron, Satanás adquirió una posición que no tenía antes de la caída. Es decir, una posición o autoridad para ejercer el poder. Lucas 4:6
+#### Cuando Adán y Eva pecaron, Satanás adquirió una posición que no tenía antes de la caída. Es decir, una <u>posición</u> o autoridad para ejercer el poder. Lucas 4:6
 
-#### Otra parte del castigo del pecado es la maldición que Dios puso sobre la tierra como parte del castigo del hombre (la segunda ley de la termodinámica: todo tiende al azar y a la decadencia).
+#### Otra parte del castigo del pecado es la maldición que Dios puso sobre la tierra como parte del castigo del <u>hombre</u> (la segunda ley de la termodinámica: todo tiende al azar y a la decadencia).
 
 ## El momento en que creemos en Cristo como Salvador
 
-### Sí, en el momento en que creemos en Cristo como nuestro Salvador, es el momento en que creemos que Su sangre derramada paga por el castigo de nuestro pecado, en ese mismo momento recibimos la salvación del castigo del pecado. Recibimos liberación de todo el castigo y la paga del pecado que se han establecido anteriormente. Recibimos la salvación de la muerte que habíamos recibido.
+### Sí, en el momento en que creemos en Cristo como nuestro Salvador, es el momento en que creemos que Su sangre derramada paga por el castigo de nuestro pecado, en ese mismo momento recibimos la salvación del castigo del pecado. Recibimos liberación de todo el castigo y la paga del pecado que se han establecido anteriormente. Recibimos la salvación de la <u>muerte</u> que habíamos recibido.
 
-### Esa relación que se rompió entre Adán y Dios, y en la que nacimos instantáneamente, se restaura. Romanos 5:10-11; 2 Corintios 5:18; 1 Corintios 1:9; 1 Juan 1:3-4.
+### Esa relación que se <u>rompió</u> entre Adán y Dios, y en la que nacimos instantáneamente, se restaura. Romanos 5:10-11; 2 Corintios 5:18; 1 Corintios 1:9; 1 Juan 1:3-4.
 
-### La muerte espiritual o estar separados de Dios, es la condición en la que nacimos. También recibimos liberación de esa realidad desde el momento en que creemos en Cristo. Romanos 6:11; 1 Corintios 15:22; Efesios 2:4-5; Colosenses 2:13.
+### La muerte espiritual o estar separados de Dios, es la <u>condición</u> en la que nacimos. También recibimos liberación de esa realidad desde el momento en que creemos en Cristo. Romanos 6:11; 1 Corintios 15:22; Efesios 2:4-5; Colosenses 2:13.
 
-### Entonces también recibimos la salvación del tercer aspecto de la muerte, que es la separación eterna de Dios.  Romanos 5:18-21; 6:23; 1 Timoteo 1:16; Tito 1:1-2; Tito 3:4-7; 1 Juan 1; 1-2; 2:24-25; Génesis 5:10-13.
+### Entonces también recibimos la salvación del <u>tercer</u> aspecto de la muerte, que es la separación eterna de Dios.  Romanos 5:18-21; 6:23; 1 Timoteo 1:16; Tito 1:1-2; Tito 3:4-7; 1 Juan 1; 1-2; 2:24-25; Génesis 5:10-13.
 
-### También recibimos salvación o liberación en ese mismo momento del dominio de Satanás. Véase Hechos 26:17-18; Colosenses 2:13-15.
+### También recibimos salvación o liberación en ese <u>mismo</u> momento del dominio de Satanás. Véase Hechos 26:17-18; Colosenses 2:13-15.
 
-### También hemos sido liberados específicamente de su autoridad para ejercer el poder de la muerte. Véase 1 Corintios 15:54-58.
+### También hemos sido liberados específicamente de su autoridad para <u>ejercer</u> el poder de la muerte. Véase 1 Corintios 15:54-58.
 
-### Por último, como otra parte de ser salvos de la pena del pecado, también recibiremos la liberación de la maldición que Dios había puesto sobre la creación como un juicio sobre el pecado del hombre. Véase Romanos 8:18-25; 2 Pedro 3:10-13; Apocalipsis 21:1-5.
+### Por último, como otra parte de ser salvos de la pena del pecado, también recibiremos la liberación de la maldición que Dios había puesto sobre la <u>creación</u> como un juicio sobre el pecado del hombre. Véase Romanos 8:18-25; 2 Pedro 3:10-13; Apocalipsis 21:1-5.
 
 ## Salvación de la culpa de la pena del pecado
 
-### Hay dos aspectos del pecado que debemos entender o tener en cuenta. Primero está el hecho de que es una ofensa contra Dios. Como nuestro Dios Creador supremo y soberano, Él es nuestro dueño y solo Él y solo Él tiene el derecho de determinar qué constituye el pecado y cómo se puede pagar. Con respecto a este aspecto, debe ser perdonado (Levítico 17:11). Dios determinó que el pago sería de sangre.
+### Hay dos aspectos del pecado que debemos entender o tener en cuenta. Primero está el hecho de que es una ofensa contra Dios. Como nuestro Dios Creador supremo y soberano, Él es nuestro dueño y solo Él y solo Él tiene el derecho de determinar qué constituye el pecado y cómo se puede pagar. Con respecto a este <u>aspecto</u>, debe ser perdonado (Levítico 17:11). Dios determinó que el pago sería de sangre.
 
-### El segundo aspecto del pecado es con respecto a su contaminación del pecador, el efecto contaminante que tiene en el alma de cada ser humano. Con respecto a este aspecto, hay una purga del pecado y la culpa que debe tener lugar dentro del alma. Tanto Isaías como David aluden a esto. Isaías 1:18; Salmos 51:7.
+### El segundo aspecto del pecado es con respecto a su contaminación del pecador, el efecto contaminante que tiene en el <u>alma</u> de cada ser humano. Con respecto a este aspecto, hay una purga del pecado y la culpa que debe tener lugar dentro del alma. Tanto Isaías como David aluden a esto. Isaías 1:18; Salmos 51:7.
 
-### En el Antiguo Testamento, Dios nos ha dado dos imágenes físicas o presagios de la provisión para estos dos aspectos del pecado. La primera es la ofrenda por el pecado y la segunda es la ofrenda quemada.
+### En el Antiguo Testamento, Dios nos ha dado dos imágenes físicas o presagios de la provisión para estos dos aspectos del pecado. La primera es la <u>ofrenda</u> por el pecado y la segunda es la ofrenda quemada.
 
-### Ofrenda por el pecado (Levítico 4:27-29) – Hay mucho simbolismo que podríamos señalar con respecto a la ofrenda por el pecado, pero la única cosa principal en la que me gustaría enfocarme es el hecho de que el pecado del oferente fue pagado o cubierto por la transferencia de su pecado al sacrificio.
+### Ofrenda por el pecado (Levítico 4:27-29) – Hay mucho simbolismo que podríamos señalar con respecto a la ofrenda por el pecado, pero la única <u>cosa</u> principal en la que me gustaría enfocarme es el hecho de que el pecado del oferente fue pagado o cubierto por la transferencia de su pecado al sacrificio.
 
-### Holocausto (Levítico 6:8-13) – El enfoque principal aquí está en el hecho de que en esta ofrenda, la aceptación de la ofrenda por parte del Señor (aroma relajante Levítico 1:9) se transfiere al oferente.
+### Holocausto (Levítico 6:8-13) – El enfoque principal aquí está en el hecho de que en esta <u>ofrenda</u>, la aceptación de la ofrenda por parte del Señor (aroma relajante Levítico 1:9) se transfiere al oferente.
 
-### Por lo tanto, la ofrenda por el pecado es un presagio de nuestro pecado como una ofensa que Dios perdona. El holocausto presagia la purga de nuestra alma o conciencia de la contaminación o culpa de nuestro pecado.
+### Por lo tanto, la ofrenda por el pecado es un presagio de nuestro pecado como una <u>ofensa</u> que Dios perdona. El holocausto presagia la purga de nuestra alma o conciencia de la contaminación o culpa de nuestro pecado.
 
-### Espiritualmente hablando, hoy en nuestras vidas como cristianos, ambas necesidades espirituales han sido satisfechas a través de la obra terminada de Cristo en la cruz. Pero creo que es muy seguro decir que el problema para la mayoría de los cristianos fundamentalistas no es el hecho de nuestra limpieza o el hecho de que nuestro pecado sea perdonado por Dios debido a la sangre de Cristo. La mayoría se siente segura de que están limpiados, de que su pecado ha sido realmente pagado. El problema más grande es con respecto a la purga de nuestra conciencia, de la sangre derramada de Cristo que satisface nuestra alma, no tanto con respecto al pecado pasado (aunque eso también puede seguir siendo un problema), sino más con respecto al pecado en el que continuamos luchando. Podemos excusar el pecado que cometimos como incrédulos, ¡¿qué más se puede esperar?! Pero cuando continuamos luchando con el pecado como creyentes, aquí es donde luchamos con la aceptación ante Dios y con sentirnos culpables.
+### Espiritualmente hablando, hoy en nuestras vidas como cristianos, ambas necesidades espirituales han sido satisfechas a través de la obra terminada de Cristo en la cruz. Pero creo que es muy seguro decir que el problema para la mayoría de los cristianos fundamentalistas no es el hecho de <u>nuestra</u> limpieza o el hecho de que nuestro pecado sea perdonado por Dios debido a la sangre de Cristo. La mayoría se siente segura de que están limpiados, de que su pecado ha sido realmente pagado. El problema más grande es con respecto a la purga de nuestra conciencia, de la sangre derramada de Cristo que satisface nuestra alma, no tanto con respecto al pecado pasado (aunque eso también puede seguir siendo un problema), sino más con respecto al pecado en el que continuamos luchando. Podemos excusar el pecado que cometimos como incrédulos, ¡¿qué más se puede esperar?! Pero cuando continuamos luchando con el pecado como creyentes, aquí es donde luchamos con la aceptación ante Dios y con sentirnos culpables.
 
-### Limpieza es un trabajo posicional, por así decirlo. Es una obra que Dios hace por medio de la cual recibimos la calificación y el título para estar en Su presencia, para ser restaurados a la unidad con Él, para ser hechos Sus hijos.
+### Limpieza es un trabajo posicional, por así decirlo. Es una obra que Dios hace por medio de la cual recibimos la calificación y el <u>título</u> para estar en Su presencia, para ser restaurados a la unidad con Él, para ser hechos Sus hijos.
 
-### Purgar la conciencia es el trabajo que se hace dentro de nosotros y afecta nuestra condición diaria. Considera la necesidad de que nuestros pecados desaparezcan por completo de nosotros en nuestra aprehensión, como lo son ante los ojos de Dios.
+### Purgar la conciencia es el trabajo que se hace dentro de nosotros y afecta nuestra condición diaria. Considera la <u>necesidad</u> de que nuestros pecados desaparezcan por completo de nosotros en nuestra aprehensión, como lo son ante los ojos de Dios.
 
-### La limpieza elimina toda nuestra culpa ante Dios; purgar la conciencia elimina el sentimiento de culpa de nuestras propias almas.
+### La limpieza elimina toda nuestra culpa ante Dios; purgar la conciencia elimina el sentimiento de culpa de nuestras <u>propias</u> almas.
 
-### La purificación nos da el título o el derecho de estar ante Dios; la purga nos da la libertad para poder disfrutar de Su presencia.
+### La purificación nos da el título o el derecho de estar ante Dios; la purga nos da la <u>libertad</u> para poder disfrutar de Su presencia.
 
-### La realidad es que algunos de nosotros nos sentimos tan condenados (por nosotros mismos, Satanás u otros) que es imposible para nosotros disfrutar el hecho de que hemos sido hechos hijos de Dios y las riquezas espirituales que son nuestras en Cristo. A menudo no nos sentimos dignos de estar en Su presencia debido a la culpa.
+### La realidad es que algunos de nosotros nos sentimos tan condenados (por nosotros mismos, Satanás u otros) que es imposible para nosotros disfrutar el hecho de que hemos sido hechos hijos de Dios y las riquezas espirituales que son nuestras en Cristo. A menudo no nos sentimos <u>dignos</u> de estar en Su presencia debido a la culpa.
 
 ### Lea Hebreos 9:11-14.
 
-### El escritor luego continúa explicando más en Hebreos 10:1-18. Aquí el escritor está estableciendo los HECHOS. Los HECHOS de lo que Jesús ha hecho y provisto como nuestro sacrificio sustituto y como nuestro Sumo Sacerdote. Entonces, no solo establece los hechos de la obra terminada de Cristo, sino también la visión de Dios de la obra terminada de Cristo, o su aceptación de ella en nuestro beneficio. *No me acordaré más de sus pecados y sus actos inicuos.*
+### El escritor luego continúa explicando más en Hebreos 10:1-18. Aquí el escritor está estableciendo los HECHOS. Los HECHOS de lo que Jesús ha hecho y provisto como nuestro sacrificio sustituto y como nuestro Sumo Sacerdote. Entonces, no solo establece los hechos de la obra terminada de Cristo, sino también la <u>visión</u> de Dios de la obra terminada de Cristo, o su aceptación de ella en nuestro beneficio. *No me acordaré más de sus pecados y sus actos inicuos.*
 
-### En los versículos 19-25, el escritor expone los efectos que los hechos anteriores deberían tener en nuestros corazones.
+### En los versículos 19-25, el escritor expone los efectos que los hechos anteriores deberían tener en <u>nuestros</u> corazones.
 
 ### Lea Hebreos 10:19-25.
 
-### Versículo 22 – *Acerquémonos con corazón sincero en la seguridad que da la fe.* El escritor está diciendo que la sangre derramada de Jesús ha pagado por TODOS nuestros pecados, que Dios el Padre está satisfecho con Su pago por nuestros pecados, y que Él ha prometido que no recordará más nuestro pecado.
+### Versículo 22 – *Acerquémonos con corazón sincero en la seguridad que da la fe.* El escritor está diciendo que la sangre derramada de Jesús ha pagado por TODOS nuestros pecados, que Dios el Padre está satisfecho con Su pago por nuestros pecados, y que Él ha <u>prometido</u> que no recordará más nuestro pecado.
 
-### ¿Qué pecado? ¿Solo el pecado que cometimos antes de la salvación? Cuando Jesús murió en la cruz para pagar por nuestro pecado, ¿cuánto de nuestro pecado era futuro? ¡TODO! ¡Incluso los pecados que cometerás mañana como hijo de Dios! Entonces, cuando Dios dice que no recordará más nuestro pecado, ¡está hablando de TODO!
+### ¿Qué pecado? ¿Solo el pecado que cometimos antes de la salvación? Cuando Jesús murió en la cruz para pagar por nuestro pecado, ¿cuánto de nuestro pecado era futuro? ¡TODO! ¡Incluso los <u>pecados</u> que cometerás mañana como hijo de Dios! Entonces, cuando Dios dice que no recordará más nuestro pecado, ¡está hablando de TODO!
 
-### La sangre de Jesús ha pagado completamente por TODO nuestro pecado, hasta el punto de que Dios ya no recuerda NADA de él. Por lo tanto, el escritor dice que crea en estos hechos, crea que estas cosas son así. Debido a que el corazón de Dios está completamente satisfecho con el pago de Cristo por su pecado, usted también puede estar satisfecho con Su pago por su pecado y permitirse acercarse a Dios con un corazón sincero al ser libre para disfrutar de estar en Su presencia. La forma en que podemos ser libres para disfrutar del hecho de que ESTAMOS en Su presencia, dice el escritor, es por fe: *Acerquémonos con un corazón sincero en la PLENA seguridad que trae la FE.* ¡Fe en que TODO nuestro pecado ha sido limpiado y fe en que el pago SATISFACE PLENAMENTE el corazón de Dios!
+### La sangre de Jesús ha pagado completamente por TODO nuestro pecado, hasta el punto de que Dios ya no recuerda NADA de él. Por lo tanto, el escritor dice que crea en estos hechos, crea que estas cosas son así. Debido a que el <u>corazón</u> de Dios está completamente satisfecho con el pago de Cristo por su pecado, usted también puede estar satisfecho con Su pago por su pecado y permitirse acercarse a Dios con un corazón sincero al ser libre para disfrutar de estar en Su presencia. La forma en que podemos ser libres para disfrutar del hecho de que ESTAMOS en Su presencia, dice el escritor, es por fe: *Acerquémonos con un corazón sincero en la PLENA seguridad que trae la FE.* ¡Fe en que TODO nuestro pecado ha sido limpiado y fe en que el pago SATISFACE PLENAMENTE el corazón de Dios!
 
-### El deseo en el creyente es que pueda caminar conforme a la provisión de Dios para el creyente, conforme a su espíritu, sin embargo en la vida del creyente existe momentos en los que camina según su carne ó vieja naturaleza, resultando en pecados en su vida diaria. Sin embargo en entender que todos sus pecados han sido completamente pagados en la Cruz, nos da completa libertad de alabarlo y acercarnos a Dios confiadamente, sabiendo que ya hubo una propiciación por nuestros pecados. 1 Juan 2:1-2
+### El deseo en el creyente es que pueda caminar conforme a la provisión de Dios para el creyente, conforme a su espíritu, sin embargo en la vida del creyente existe momentos en los que camina según su carne ó vieja naturaleza, resultando en pecados en su vida diaria. Sin embargo en entender que <u>todos</u> sus pecados han sido completamente pagados en la Cruz, nos da completa libertad de alabarlo y acercarnos a Dios confiadamente, sabiendo que ya hubo una propiciación por nuestros pecados. 1 Juan 2:1-2
 
-### Cada creyente en su andar debe mirar constantemente hacia la sangre de Cristo que fue derramada y el pagó el precio del pecado. Ya está pagado en su totalidad. Soy libre de sentirme plenamente aceptado por Dios, porque de hecho lo soy.
+### Cada creyente en su andar debe mirar constantemente hacia la sangre de Cristo que fue derramada y el pagó el <u>precio</u> del pecado. Ya está pagado en su totalidad. Soy libre de sentirme plenamente aceptado por Dios, porque de hecho lo soy.
 
 ### Lea Romanos 8:1-4 y 31-39.
 
@@ -5499,111 +5499,111 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 # EL MISTERIO DE DIOS, ES DECIR, CRISTO
 
-### Introducción: Una de las principales cosas que hemos destacado una y otra vez es el hecho de que es Dios mismo es quien está llevando a cabo su plan eterno de redención. Fue Él quien lo determinó antes de la fundación de la tierra y ha sido Él quien lo ha estado llevando a cabo y cumpliéndolo a través de Cristo en nombre de la humanidad y para Su gloria. Dios solo ha tenido un requisito para nosotros como humanos: la FE. Simplemente creer que lo que dice es verdad. Fe en los hechos de lo que Él ha revelado. En el Antiguo Testamento, era la fe en la promesa del Libertador venidero. A través del Nuevo Testamento y hasta ahora, está en el hecho de que en verdad el Libertador prometido vino y ha terminado la obra y ha cumplido el plan de redención de Dios. Dios no dejó nada para que la humanidad lo descubriera por sí misma. Fue Él quien primero determinó Su plan eterno de redención antes de que existiera la humanidad y desde la creación, Él ha hecho todo lo posible para comunicar fielmente Quién es Él, cómo es, qué está haciendo, Quién es el Liberador y cómo la humanidad puede ser liberada.
+### Introducción: Una de las principales cosas que hemos destacado una y otra vez es el hecho de que es Dios mismo es quien está <u>llevando</u> a cabo su plan eterno de redención. Fue Él quien lo determinó antes de la fundación de la tierra y ha sido Él quien lo ha estado llevando a cabo y cumpliéndolo a través de Cristo en nombre de la humanidad y para Su gloria. Dios solo ha tenido un requisito para nosotros como humanos: la FE. Simplemente creer que lo que dice es verdad. Fe en los hechos de lo que Él ha revelado. En el Antiguo Testamento, era la fe en la promesa del Libertador venidero. A través del Nuevo Testamento y hasta ahora, está en el hecho de que en verdad el Libertador prometido vino y ha terminado la obra y ha cumplido el plan de redención de Dios. Dios no dejó nada para que la humanidad lo descubriera por sí misma. Fue Él quien primero determinó Su plan eterno de redención antes de que existiera la humanidad y desde la creación, Él ha hecho todo lo posible para comunicar fielmente Quién es Él, cómo es, qué está haciendo, Quién es el Liberador y cómo la humanidad puede ser liberada.
 
 ### Lea Efesios 1:11.
 
-### Nombra un caso en el Antiguo Testamento en el que alguien necesitaba ser liberado de algo y Dios dejó que lo descubriera por sí mismo o en el que Él no intervino divinamente para llevar a cabo Su voluntad. ¡No puedes! Y son todos esos relatos de liberaciones físicas que Él logró para varios a través del Antiguo Testamento los que forman un patrón claro y un ejemplo para la liberación que hemos necesitado de nuestra muerte espiritual y todos sus efectos.
+### Nombra un caso en el Antiguo Testamento en el que alguien necesitaba ser liberado de algo y Dios dejó que lo descubriera por sí <u>mismo</u> o en el que Él no intervino divinamente para llevar a cabo Su voluntad. ¡No puedes! Y son todos esos relatos de liberaciones físicas que Él logró para varios a través del Antiguo Testamento los que forman un patrón claro y un ejemplo para la liberación que hemos necesitado de nuestra muerte espiritual y todos sus efectos.
 
-### Vimos el hecho de que ser salvos o liberados del castigo de nuestro pecado es parte de la salvación que hemos recibido a través de la muerte sustitutiva de Cristo. Vamos a ver otra parte de la salvación que hemos recibido, la santificación, salvados del poder del pecado.
+### Vimos el hecho de que ser salvos o liberados del castigo de nuestro pecado es parte de la salvación que hemos recibido a través de la <u>muerte</u> sustitutiva de Cristo. Vamos a ver otra parte de la salvación que hemos recibido, la santificación, salvados del poder del pecado.
 
 ## El misterio
 
-### A lo largo del Antiguo Testamento, todo lo que la gente sabía era que vendría un Libertador. Lo que realmente haría, proveería y cómo afectaría a sus seguidores fue mantenido como un misterio por Dios hasta el momento señalado.
+### A lo largo del Antiguo Testamento, todo lo que la gente sabía era que <u>vendría</u> un Libertador. Lo que realmente haría, proveería y cómo afectaría a sus seguidores fue mantenido como un misterio por Dios hasta el momento señalado.
 
-### Lea Colosenses 2:1-3; 1 Corintios 2:7; Efesios 3:1-7 (judíos y gentiles se vuelven uno en Cristo); Efesios 5:32 (Cristo y la Iglesia); Efesios 6:19.
+### Lea Colosenses 2:1-3; 1 Corintios 2:7; Efesios 3:1-7 (judíos y gentiles se <u>vuelven</u> uno en Cristo); Efesios 5:32 (Cristo y la Iglesia); Efesios 6:19.
 
-### Mire 1 Timoteo 3:16 – En la primera parte del versículo, Pablo dice: Sin duda, grande es el misterio de la piedad y luego continúa declarando lo que Dios ha hecho (de una manera muy condensada) para hacernos piadosos. Esa es la obra terminada de Cristo, eso es lo que Él hizo. Entonces, ¿cómo produce eso piedad?
+### Mire 1 Timoteo 3:16 – En la primera parte del versículo, Pablo dice: Sin duda, grande es el misterio de la piedad y luego continúa declarando lo que Dios ha hecho (de una manera muy condensada) para hacernos piadosos. Esa es la <u>obra</u> terminada de Cristo, eso es lo que Él hizo. Entonces, ¿cómo produce eso piedad?
 
-### Ahora, en Romanos 16:25-26, Pablo declara que esta sabiduría de Dios se había mantenido en secreto desde antes de la fundación de la tierra, pero que ahora ha sido revelada por las escrituras proféticas. Luego, en Colosenses 1:27, dice, este misterio que ha estado oculto desde tiempos pasados, pero que ahora ha sido revelado a los santos.
+### Ahora, en Romanos 16:25-26, Pablo declara que esta sabiduría de Dios se había mantenido en secreto desde antes de la fundación de la tierra, pero que ahora ha sido revelada por las escrituras proféticas. Luego, en Colosenses 1:27, dice, este misterio que ha <u>estado</u> oculto desde tiempos pasados, pero que ahora ha sido revelado a los santos.
 
 ## Santificación – Salvados del poder del pecado
 
-### Entonces, primero veamos algunos de los pasajes de las Escrituras donde Dios ha revelado o desempacado este misterio y lo que implica. Comencemos por establecer primero una definición de lo que es el misterio.
+### Entonces, primero veamos algunos de los pasajes de las Escrituras donde Dios ha revelado o desempacado este <u>misterio</u> y lo que implica. Comencemos por establecer primero una definición de lo que es el misterio.
 
 ### Lea 1 Corintios 2:7; 2 Timoteo 1:9; Efesios 1:9.
 
-### Es bastante claro ver que el misterio, o lo que se ha mantenido como un misterio, han sido los detalles de los planes y propósitos de Dios que se cumplirían a través de Cristo: el plan eterno de redención. Una vez más, no tanto que Él vendría, sino los detalles de lo que realmente lograría. Más específicamente, es el misterio de estar en Él, en Cristo, las verdades de identificación. Véase Colosenses 1:26-27.
+### Es bastante claro ver que el misterio, o lo que se ha mantenido como un misterio, han sido los detalles de los <u>planes</u> y propósitos de Dios que se cumplirían a través de Cristo: el plan eterno de redención. Una vez más, no tanto que Él vendría, sino los detalles de lo que realmente lograría. Más específicamente, es el misterio de estar en Él, en Cristo, las verdades de identificación. Véase Colosenses 1:26-27.
 
-### Hace varias lecciones, al hablar de las profecías de Cristo, hicimos la declaración de que hay una progresión tanto de ampliación como de reducción de las profecías de Cristo. Las profecías se estrecharon en el sentido de que se identificaron cada vez más en quién sería el Libertador. Pero se ensancharon en el sentido de revelar qué era lo que Él haría y lograría. Estos pasajes que desentrañan el misterio de los planes y propósitos de Dios por medio de Cristo son una continuación de la ampliación del alcance de la obra terminada de Cristo. Son una revelación de lo que nos hemos convertido, dónde hemos sido colocados y lo que hemos recibido como resultado de estar EN CRISTO. Ahora, los detalles de la revelación del misterio de estar en Cristo, en 2 Pedro se refieren a todas las cosas pertenecientes a la vida y la piedad.
+### Hace varias lecciones, al hablar de las profecías de Cristo, hicimos la declaración de que hay una progresión tanto de ampliación como de reducción de las profecías de Cristo. Las profecías se estrecharon en el <u>sentido</u> de que se identificaron cada vez más en quién sería el Libertador. Pero se ensancharon en el sentido de revelar qué era lo que Él haría y lograría. Estos pasajes que desentrañan el misterio de los planes y propósitos de Dios por medio de Cristo son una continuación de la ampliación del alcance de la obra terminada de Cristo. Son una revelación de lo que nos hemos convertido, dónde hemos sido colocados y lo que hemos recibido como resultado de estar EN CRISTO. Ahora, los detalles de la revelación del misterio de estar en Cristo, en 2 Pedro se refieren a todas las cosas pertenecientes a la vida y la piedad.
 
 ## Hemos recibido TODAS LAS COSAS.
 
-### Por un lado, las epístolas de Pablo se refieren a los efectos de la obra terminada de Cristo como un misterio, pero la segunda epístola de Pedro afirma que hemos recibido absolutamente todo lo necesario para recibir la vida eterna y una vida piadosa.
+### Por un lado, las epístolas de Pablo se refieren a los <u>efectos</u> de la obra terminada de Cristo como un misterio, pero la segunda epístola de Pedro afirma que hemos recibido absolutamente todo lo necesario para recibir la vida eterna y una vida piadosa.
 
 ### Lea 2 Pedro 1:2-4.
 
-### Es el poder divino de Dios manifestado a través de la obra terminada de Cristo lo que nos ha concedido TODAS LAS COSAS relacionadas con la vida y la piedad. Esto se refiere tanto a nuestra posición como a nuestra condición. Posición en el sentido de que pertenece a la vida, la vida eterna. En el momento en que aceptamos a Cristo como nuestro Salvador, en ese mismo momento fuimos vivificados. Estábamos muertos para Dios, pero ahora estamos vivos para Dios. Es la verdad sobre nuestra posición lo que hace posible nuestra condición. Pedro también se refiere a nuestra condición, entonces, en el sentido en que Pedro dice que pertenece a la piedad, a la vida piadosa o a ser como Dios.
+### Es el poder divino de Dios manifestado a través de la <u>obra</u> terminada de Cristo lo que nos ha concedido TODAS LAS COSAS relacionadas con la vida y la piedad. Esto se refiere tanto a nuestra posición como a nuestra condición. Posición en el sentido de que pertenece a la vida, la vida eterna. En el momento en que aceptamos a Cristo como nuestro Salvador, en ese mismo momento fuimos vivificados. Estábamos muertos para Dios, pero ahora estamos vivos para Dios. Es la verdad sobre nuestra posición lo que hace posible nuestra condición. Pedro también se refiere a nuestra condición, entonces, en el sentido en que Pedro dice que pertenece a la piedad, a la vida piadosa o a ser como Dios.
 
-### Observe que el versículo 3 nos dice cómo recibimos estas cosas: por el conocimiento de Aquel que nos llamó por gloria y virtud. El significado aquí sería más claro si los traductores hubieran usado a en lugar de por. ¡Dios nos ha llamado o movido a la gloria! La obra terminada de Cristo nos movió de ser enemigos separados de Dios cuyos pensamientos e intenciones del corazón fueron solo malos desde la infancia, A ser restaurados al lugar para el que originalmente creó al hombre: perfectos, sin pecado, disfrutando de perfecta comunión con Dios.
+### Observe que el versículo 3 nos dice cómo recibimos estas cosas: Por el conocimiento de Aquel que nos llamó por gloria y virtud. El significado aquí sería más <u>claro</u> si los traductores hubieran usado a en lugar de por. ¡Dios nos ha llamado o movido a la gloria! La obra terminada de Cristo nos movió de ser enemigos separados de Dios cuyos pensamientos e intenciones del corazón fueron solo malos desde la infancia, A ser restaurados al lugar para el que originalmente creó al hombre: perfectos, sin pecado, disfrutando de perfecta comunión con Dios.
 
-### Pedro también afirma que, a través del conocimiento de Dios, hemos sido llamados por o para la virtud. La virtud aquí habla de que somos agradables a Dios a través de la superioridad de Dios como se manifiesta en el evangelio. Una vez más, esto habla de nuestra posición que recibimos a través de la obra terminada de Cristo y está afectando nuestra condición.
+### Pedro también afirma que, a través del conocimiento de Dios, hemos sido <u>llamados</u> por o para la virtud. La virtud aquí habla de que somos agradables a Dios a través de la superioridad de Dios como se manifiesta en el evangelio. Una vez más, esto habla de nuestra posición que recibimos a través de la obra terminada de Cristo y está afectando nuestra condición.
 
-### Ahora, pasemos al versículo 4. Comienza con por qué. Pedro está diciendo que es el hecho de que seamos llamados o restaurados a esa gloria y virtud lo que nos ha llevado a recibir grandes y preciosas promesas (o las grandes y preciosas promesas vienen junto con la posición), lo que a su vez resulta en que nos convirtamos en participantes de la naturaleza divina.
+### Ahora, pasemos al versículo 4. Comienza con por qué. Pedro está diciendo que es el <u>hecho</u> de que seamos llamados o restaurados a esa gloria y virtud lo que nos ha llevado a recibir grandes y preciosas promesas (o las grandes y preciosas promesas vienen junto con la posición), lo que a su vez resulta en que nos convirtamos en participantes de la naturaleza divina.
 
 ### Lee Hebreos 8:6.
 
-### Posicionalmente hablando, ya hemos sido vivificados y hemos sido restaurados a la superioridad y gloria de la unidad con Dios, al estar en Cristo; Pero condicionalmente hablando, es creer que esas promesas extremadamente grandes y preciosas son realmente verdaderas lo que nos permite experimentar o vivir la naturaleza divina que se nos ha dado.
+### Posicionalmente hablando, ya hemos sido vivificados y hemos sido restaurados a la superioridad y <u>gloria</u> de la unidad con Dios, al estar en Cristo; Pero condicionalmente hablando, es creer que esas promesas extremadamente grandes y preciosas son realmente verdaderas lo que nos permite experimentar o vivir la naturaleza divina que se nos ha dado.
 
 ### Lee 1 Corintios 2:12 y Efesios 1:3.
 
-### Esto significa que Él es Aquel que intervino y actuó para que nuestros espíritus pudieran ser conformes a Su Espíritu, que al estar en Cristo o porque estamos en Cristo, Dios ha intervenido divinamente y nos ha dado todas las cosas que pertenecen a Su Espíritu y reino. Él intervino divinamente y nos hizo aptos para la comunión con Él o la unidad con Él en Su reino.
+### Esto significa que Él es Aquel que intervino y actuó para que nuestros <u>espíritus</u> pudieran ser conformes a Su Espíritu, que al estar en Cristo o porque estamos en Cristo, Dios ha intervenido divinamente y nos ha dado todas las cosas que pertenecen a Su Espíritu y reino. Él intervino divinamente y nos hizo aptos para la comunión con Él o la unidad con Él en Su reino.
 
-### Pablo luego continúa diciéndonos cuáles son algunas de esas cosas espirituales que necesitábamos recibir para que eso sucediera. Estas cosas que Pablo enumera como toda bendición espiritual en los lugares celestiales son las mismas grandes y preciosas promesas de las que Pedro estaba hablando en 2 Pedro 1.
+### Pablo luego continúa diciéndonos cuáles son algunas de esas cosas espirituales que necesitábamos <u>recibir</u> para que eso sucediera. Estas cosas que Pablo enumera como toda bendición espiritual en los lugares celestiales son las mismas grandes y preciosas promesas de las que Pedro estaba hablando en 2 Pedro 1.
 
 # Efesios Capítulo 1
 
-### Efesios 1:3-4 – El versículo 4 comienza con según y modifica ser bendecido con toda bendición espiritual. Fuimos bendecidos con toda bendición espiritual DE ACUERDO  con el hecho de que hemos sido elegidos en Él antes de la fundación de la tierra. Significa elegir entre. También incluye la idea de bondad, amor y favor. No implica necesariamente el rechazo de lo que no fue elegido.
+### Efesios 1:3-4 – El versículo 4 comienza con según y modifica ser bendecido con toda bendición espiritual. Fuimos <u>bendecidos</u> con toda bendición espiritual DE ACUERDO  con el hecho de que hemos sido elegidos en Él antes de la fundación de la tierra. Significa elegir entre. También incluye la idea de bondad, amor y favor. No implica necesariamente el rechazo de lo que no fue elegido.
 
-### Cabe aclarar que la elección en este versículo no se está refiriendo a Dios salvando a personas soberanamente, según su preferencia, sino la elección es en ÉL (Cristo), Todos los creyentes se encuentran como escogidos en Cristo, Como una persona es colocada dentro de Cristo es a través de creer en el evangelio de Salvación (Efesios 1:13-14), no es Dios soberanamente escogiendo a unos para salvación y a otros para condena eterna.
+### Cabe aclarar que la elección en este versículo no se está refiriendo a Dios salvando a personas soberanamente, según su preferencia, sino la elección es en ÉL (Cristo), Todos los creyentes se encuentran como escogidos en Cristo, Como una persona es colocada dentro de Cristo es a través de <u>creer</u> en el evangelio de Salvación (Efesios 1:13-14), no es Dios soberanamente escogiendo a unos para salvación y a otros para condena eterna.
 
-### La elección de Dios no se basa en el mérito personal o algo que Dios haya visto en nosotros, sino la elección se basa en el previo conocimiento de Dios de quienes habrían de Creer en el evangelio esos son los escogidos de Dios **en Cristo.**
+### La elección de Dios no se basa en el mérito personal o algo que Dios haya visto en nosotros, sino la <u>elección</u> se basa en el **previo conocimiento** de Dios de quienes habrían de **creer** en el evangelio esos son los escogidos de Dios **en Cristo.**
 
-### Pablo continúa dándonos el propósito de haber sido colocados dentro de Cristo, mostrándonos nuestra nueva naturaleza e identidad nueva delante de Él. El apóstol Pedro tambien lo describió como...
+### Pablo continúa dándonos el propósito de haber sido colocados dentro de Cristo, mostrándonos nuestra nueva naturaleza e identidad nueva <u>delante</u> de Él. El apóstol Pedro tambien lo describió como...
 
 ## Siendo partícipes de la naturaleza divina.
 
-### Efesios 1:5-6 – En el versículo 5, Pablo realmente está haciendo lo mismo que hizo en el versículo 4, pero lo está haciendo más íntimo y personal. Pablo dedicará el resto del capítulo a enumerar muchas cosas que se nos han dado en Cristo, pero primero establece la base para todo, ¡Cual es la que es la voluntad de Dios!
+### Efesios 1:5-6 – En el versículo 5, Pablo realmente está haciendo lo mismo que hizo en el versículo 4, pero lo está haciendo más íntimo y <u>personal</u>. Pablo dedicará el resto del capítulo a enumerar muchas cosas que se nos han dado en Cristo, pero primero establece la base para todo, ¡Cual es la que es la voluntad de Dios!
 
-### En el versículo 4, afirma que hemos sido bendecidos de acuerdo con el previo conocimiento de Dios, de quienes habrían de creer en el evangelio, se encuentran en Cristo, y cada creyente en Cristo ha sido escogido en él antes de la fundación del mundo, entendiendo el previo conocimiento de Dios, lo repito, no es Dios escogiendo soberanamente para salvar a quien quiera y condenar a otros. su juicio esta basado en el evangelio.
+### En el versículo 4, afirma que hemos sido bendecidos de acuerdo con el previo conocimiento de Dios, de quienes habrían de creer en el evangelio, se encuentran en Cristo, y cada <u>creyente</u> en Cristo ha sido escogido en él antes de la fundación del mundo, entendiendo el previo conocimiento de Dios, lo repito, no es Dios escogiendo soberanamente para salvar a quien quiera y condenar a otros. su juicio esta basado en el evangelio.
 
-### Ahora, en los versículos 5-6, continúa diciendo que Dios predestinó a los creyentes para la adopción como hijos. La palabra predestinar significa fijar un destino, y Dios fijó el destino de los que habían de Creer en el evangelio, habrían de estar en Cristo. y basado en el previo conocimiento de Dios esto lo fijó desde antes de la fundación del mundo.¡Y para alabanza de la gloria de la gracia! No porque nos lo ganáramos o lo mereciéramos. ¡No porque estuviera obligado, O INCLUSO PORQUE LO NECESITÁRAMOS! ¡Sino simplemente porque Él nos acepta y bendice únicamente en Cristo a través de su gracia!
+### Ahora, en los versículos 5-6, continúa diciendo que Dios predestinó a los creyentes para la adopción como hijos. La palabra predestinar significa fijar un destino, y Dios fijó el destino de los que habían de <u>creer</u> en el evangelio, habrían de estar en Cristo. y basado en el previo conocimiento de Dios esto lo fijó desde antes de la fundación del mundo.¡Y para alabanza de la gloria de la gracia! No porque nos lo ganáramos o lo mereciéramos. ¡No porque estuviera obligado, O INCLUSO PORQUE LO NECESITÁRAMOS! ¡Sino simplemente porque Él nos acepta y bendice únicamente en Cristo a través de su gracia!
 
-### La relación que Dios nos muestra como escogidos, hijos y herederos, esta basado en la aceptación que Cristo logró a través de la Cruz, y lo que logró para colocarnos dentro de Él.
+### La relación que Dios nos muestra como escogidos, hijos y herederos, esta basado en la aceptación que Cristo <u>logró</u> a través de la Cruz, y lo que logró para colocarnos dentro de Él.
 
-### Él fijó el destino para todos los que habrían de estar en Cristo, el Fijó el destino de ser adoptados hijos suyos por medio de Jesucristo.
+### Él fijó el destino para todos los que habrían de estar en Cristo, el Fijó el destino de ser <u>adoptados</u> hijos suyos por medio de Jesucristo.
 
-### ¡Alabado sea Dios porque fijó maravillosas riquezas para los que se encuentran en Cristo!
+### ¡Alabado sea Dios porque fijó maravillosas <u>riquezas</u> para los que se encuentran en Cristo!
 
-#### Dios creó el mundo, el universo y todo lo que hay en él de acuerdo con el beneplácito de Su voluntad.
+#### Dios creó el mundo, el universo y todo lo que hay en él de <u>acuerdo</u> con el beneplácito de Su voluntad.
 
-#### Él creó todas las cosas de la manera que Él quería que fueran, de acuerdo con el beneplácito de Su voluntad.
+#### Él creó todas las cosas de la <u>manera</u> que Él quería que fueran, de acuerdo con el beneplácito de Su voluntad.
 
-#### Él creó una enorme variedad de plantas, árboles, insectos, peces, pájaros y animales, TODO de acuerdo con el beneplácito de Su voluntad.
+#### Él creó una enorme variedad de plantas, árboles, <u>insectos</u>, peces, pájaros y animales, TODO de acuerdo con el beneplácito de Su voluntad.
 
-#### Él creó el Jardín del Edén y puso al hombre y a la mujer en él según el beneplácito de Su voluntad.
+#### Él creó el Jardín del Edén y puso al hombre y a la mujer en él según el <u>beneplácito</u> de Su voluntad.
 
-#### Él creó al hombre y a la mujer a su imagen de acuerdo con el beneplácito de su voluntad.
+#### Él creó al hombre y a la mujer a su <u>imagen</u> de acuerdo con el beneplácito de su voluntad.
 
-#### Escogió soberanamente a Abraham para que de su simiente salga toda la nación de Israel según el beneplácito de su voluntad.
+#### Escogió soberanamente a Abraham para que de su simiente <u>salga</u> toda la nación de Israel según el beneplácito de su voluntad.
 
-#### Él liberó a la nación de Israel de Egipto y los condujo a la Tierra Prometida, basado en sus promesas a Abraham y de acuerdo a su Pacto.
+#### Él liberó a la nación de Israel de Egipto y los condujo a la Tierra Prometida, <u>basado</u> en sus promesas a Abraham y de acuerdo a su Pacto.
 
-### La soberanía de Dios no consiste en salvar a las personas según la elección de unos para salvación y otros para perdición. La soberanía de Dios consiste en que Dios lo que se propone lo cumple. Dios soberanamente decidió crear todo el universo y lo que en él existe de acuerdo a su voluntad, y soberanamente hizo posible la salvación de todas las personas a través de su hijo Jesucristo. no hay nadie que pueda ir en contra de la soberanía de Dios. no existe ningún humano, o ángel ó demonio, o ser creado en todo el universo que impida que Dios evite hacer su voluntad. y lo que se propuso hacer, lo hizo soberanamente. 
+### La soberanía de Dios no consiste en salvar a las personas según la elección de unos para salvación y otros para perdición. La soberanía de Dios consiste en que Dios lo que se propone lo cumple. Dios soberanamente decidió crear todo el universo y lo que en él <u>existe</u> de acuerdo a Su voluntad, y soberanamente hizo posible la salvación de todas las personas a través de su hijo Jesucristo. No hay nadie que pueda ir en contra de la soberanía de Dios. no existe ningún humano, o ángel ó demonio, o ser creado en todo el universo que impida que Dios evite hacer su voluntad. y lo que se propuso hacer, lo hizo soberanamente. 
 
-### Sin embargo la salvación ó perdición de las personas Dios escogió que sea en base al creer en el evangelio, y de esa manera es que bajo el libre albedrio cada persona elige creer en el evangelio o rechazarlo.
+### Sin embargo la salvación ó perdición de las personas Dios escogió que sea en <u>base</u> al creer en el evangelio, y de esa manera es que bajo el libre albedrio cada persona elige creer en el evangelio o rechazarlo.
 
-### Cada creyente ha sido escogido "en Cristo" antes de la fundación del mundo, basado en el previo conocimiento de Dios de quienes habrían de creer en Cristo, los colocó como escogidos en Él. y predestino, fijó un destino a todos los que habrían de Creer en Cristo, fueran hechos santos y sin mancha delante de él.
+### Cada creyente ha sido escogido "en Cristo" antes de la fundación del mundo, basado en el <u>previo</u> conocimiento de Dios de quienes habrían de creer en Cristo, los colocó como escogidos en Él. y predestino, fijó un destino a todos los que habrían de Creer en Cristo, fueran hechos santos y sin mancha delante de él.
 
-### Este plan eterno de redención que hemos estado señalando y hablando a lo largo de este estudio, que Dios mantuvo como un misterio hasta el momento señalado, es que a través de Cristo, Dios usaría a una raza humana pecadora y separada de Él para pasar de su estado pecaminoso caído a Su gloria y virtud, con el fin de revelar Su bondad y la GLORIA o magnificencia de Su gracia.
+### Este plan eterno de redención que hemos estado señalando y hablando a lo largo de este <u>estudio</u>, que Dios mantuvo como un misterio hasta el momento señalado, es que a través de Cristo, Dios usaría a una raza humana pecadora y separada de Él para pasar de su estado pecaminoso caído a Su gloria y virtud, con el fin de revelar Su bondad y la GLORIA o magnificencia de Su gracia.
 
-### En el versículo 7, Pablo comienza a enumerar más detalles de lo que hemos recibido porque hemos sido hechos Sus hijos. Cuanto más sabemos acerca de lo que Él nos ha dado gratuitamente, más se revela la gloria de Su gracia.
+### En el versículo 7, Pablo comienza a enumerar más detalles de lo que hemos recibido porque hemos sido <u>hechos</u> Sus hijos. Cuanto más sabemos acerca de lo que Él nos ha dado gratuitamente, más se revela la gloria de Su gracia.
 
 ### Lee Efesios 1:7.
 
-### Primero, dice que se nos ha dado la redención y el perdón de los pecados, ¡DE ACUERDO con las RIQUEZAS de Su GRACIA! Si pudieras elegir entre un regalo de acuerdo con mis riquezas o de acuerdo con las riquezas de Bill Gates, ¿cuál elegirías? Esto resalta uno de los mayores problemas en nuestras vidas como cristianos. ¡Cada uno de nosotros cree que hay un límite para la gracia de Dios! Oh, podemos saber en nuestras mentes la respuesta correcta, pero no vivimos, caminamos y nos relacionamos con Dios con esa creencia. 
+### Primero, dice que se nos ha dado la redención y el perdón de los pecados, ¡DE ACUERDO con las RIQUEZAS de Su GRACIA! Si pudieras elegir entre un regalo de acuerdo con mis riquezas o de acuerdo con las riquezas de Bill Gates, ¿cuál elegirías? Esto <u>resalta</u> uno de los mayores problemas en nuestras vidas como cristianos. ¡Cada uno de nosotros cree que hay un límite para la gracia de Dios! Oh, podemos saber en nuestras mentes la respuesta correcta, pero no vivimos, caminamos y nos relacionamos con Dios con esa creencia. 
 
-### Podemos conocer las riquezas de su gracia, en el perdón de pecados. DIOS ES COMPLETAMENTE RICO EN GRACIA, su gracia consiste en darnos algo que no nos merecemos. Dios en su gracia nos dio completamente el perdón de pecados, a través de la sangre de su hijo nuestro salvador.
+### Podemos conocer las riquezas de su gracia, en el perdón de pecados. DIOS ES COMPLETAMENTE RICO EN GRACIA, su gracia consiste en darnos algo que no nos merecemos. Dios en su gracia nos dio completamente el perdón de pecados, a través de la <u>sangre</u> de su hijo nuestro salvador.
 
 ## Preguntas de revisión
 
@@ -5623,77 +5623,77 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 # SALVADOS DEL PODER DEL PECADO - SANTIFICACIÓN
 
-### Introducción:  Efesios 1:7 que dice que hemos recibido la redención y el perdón de los pecados según las riquezas de su gracia. Entonces, si quieres saber qué tan redimido estás o cuánto perdón has recibido, entonces averigua la profundidad de las riquezas de Su gracia. Averigua cuán misericordioso es Dios, cuánta gracia tiene para dar. No hay límite ni final. Así es como ocurre con CADA don espiritual que hemos recibido de Dios en Cristo. TODO está de acuerdo con las riquezas de Su gracia. Recuerda, la gracia es recibir lo que no mereces, y no hemos merecido nada de esto.
+### Introducción:  Efesios 1:7 que dice que hemos recibido la redención y el <u>perdón</u> de los pecados según las riquezas de su gracia. Entonces, si quieres saber qué tan redimido estás o cuánto perdón has recibido, entonces averigua la profundidad de las riquezas de Su gracia. Averigua cuán misericordioso es Dios, cuánta gracia tiene para dar. No hay límite ni final. Así es como ocurre con CADA don espiritual que hemos recibido de Dios en Cristo. TODO está de acuerdo con las riquezas de Su gracia. Recuerda, la gracia es recibir lo que no mereces, y no hemos merecido nada de esto.
 
 ## Posicionalmente y prácticamente.
 
-### Dios en la creación de Adán y Eva, fueron creados rectos, perfectos y sin pecado, sin embargo cuando desobedecieron el mandato de Dios, pecaron y la muerte entró al mundo. Ahora vemos las consecuencias del pecado en el mundo.
+### Dios en la creación de Adán y Eva, fueron creados rectos, perfectos y sin pecado, sin embargo cuando desobedecieron el mandato de Dios, <u>pecaron</u> y la muerte entró al mundo. Ahora vemos las consecuencias del pecado en el mundo.
 
-### Sabemos que en ese momento se convirtieron en pecadores con una naturaleza pecaminosa y fueron expulsados del jardín, separados de la presencia de Dios. También sabemos que sus hijos y TODOS los futuros descendientes han nacido en ese mismo estado y posición. Todos los humanos a partir de ese momento nacieron separados de Dios con una naturaleza pecaminosa. Esta posición en la que todos nacimos afecta en gran medida nuestra condición práctica. Por eso es que la condición posicional y práctica de los incrédulos es totalmente separados de Dios como lo describe en Efesios 2.
+### Sabemos que en ese momento se convirtieron en pecadores con una naturaleza pecaminosa y fueron expulsados del jardín, separados de la presencia de Dios. También sabemos que sus hijos y TODOS los futuros descendientes han <u>nacido</u> en ese mismo estado y posición. Todos los humanos a partir de ese momento nacieron separados de Dios con una naturaleza pecaminosa. Esta posición en la que todos nacimos afecta en gran medida nuestra condición práctica. Por eso es que la condición posicional y práctica de los incrédulos es totalmente separados de Dios como lo describe en Efesios 2.
 
-### Sin embargo ahora los creyentes han sido hechos santos, posicionalmente, cada creyente se encuentra ante Dios totalmente santo, independiente de su andar, debido a que la sangre de Cristo nos limpia de todos los pecados.
+### Sin embargo ahora los creyentes han sido hechos santos, posicionalmente, cada creyente se encuentra ante Dios totalmente santo, independiente de su <u>andar</u>, debido a que la sangre de Cristo nos limpia de todos los pecados.
 
-### No obstante, el creyente es llamado a vivir en una santidad práctica, y esto incluye su diario vivir, es muy importante para el creyente en su santificación el poder vivir de una manera agradable a Dios, ya no como lo hacía antes, en su pasada manera de vivir, sino ahora es llamado a vivir en santidad práctica reflejando la santidad de Dios en su vida diaria.
+### No obstante, el creyente es llamado a vivir en una santidad práctica, y esto incluye su diario vivir, es muy importante para el creyente en su santificación el <u>poder</u> vivir de una manera agradable a Dios, ya no como lo hacía antes, en su pasada manera de vivir, sino ahora es llamado a vivir en santidad práctica reflejando la santidad de Dios en su vida diaria.
 
 ## El panorama general del plan eterno de redención de Dios
 
-### Hemos hablado mucho sobre el hecho de que el plan eterno de redención de Dios comenzó antes de la fundación de la tierra (2 Timoteo 1:9; 1 Pedro 1:19-20), Dios soberanamente llevó a cabo su plan de salvación  a través de Cristo.
+### Hemos hablado mucho sobre el hecho de que el plan eterno de redención de Dios comenzó antes de la fundación de la tierra (2 Timoteo 1:9; 1 Pedro 1:19-20), Dios soberanamente <u>llevó</u> a cabo su plan de salvación a través de Cristo.
 
-### En este plan de salvación, Dios en su precognición (conocimiento anticipado de las cosas), sabía quienes habrían de creer en Cristo y ser incluidos dentro de él.
+### En este plan de salvación, Dios en su precognición (conocimiento anticipado de las cosas), sabía <u>quienes</u> habrían de creer en Cristo y ser incluidos dentro de él.
 
-### En Génesis 1, Dios comenzó el proceso de llevar a cabo ese plan de salvación en Cristo y a lo largo del Antiguo Testamento, Él estaba preparando, facilitando, orquestando el escenario para que su plan se cumpliera. Todas las cosas apuntaban, tipificaban y prefiguraban la venida de Cristo y lo que Él lograría.
+### En Génesis 1, Dios comenzó el proceso de llevar a cabo ese plan de salvación en Cristo y a lo largo del Antiguo Testamento, Él estaba preparando, facilitando, orquestando el escenario para que su plan se cumpliera. Todas las cosas apuntaban, tipificaban y prefiguraban la <u>venida</u> de Cristo y lo que Él lograría.
 
-### Jesús vino entonces y pagó el precio para cumplir el plan eterno de redención de Dios, derramando Su sangre a nuestro favor como nuestro sustituto. El precio que pagó en su sangre satisfizo la justicia de Dios, y aplacó su ira para con el Pecado. es por eso que en su muerte tenemos completa redención y el perdón de los pecados según las riquezas de su gracia. La redención significa un rescate en el cual nos encontrábamos presos del pecado. El precio por nuestro rescate fue la sangre preciosa y sin mancha de su hijo amado.
+### Jesús vino entonces y pagó el precio para cumplir el plan eterno de redención de Dios, derramando Su sangre a nuestro favor como nuestro sustituto. El precio que pagó en su sangre satisfizo la justicia de Dios, y aplacó su ira para con el Pecado. es por eso que en su muerte tenemos completa redención y el perdón de los pecados según las riquezas de su gracia. La redención significa un rescate en el cual nos encontrábamos presos del pecado. El precio por <u>nuestro</u> rescate fue la sangre preciosa y sin mancha de su hijo amado.
 
-### Esta redención y perdón de pecados que hemos recibido, es tan  grande y completa, ha pagado TANTO el precio de nuestra pecaminosidad como tambien la paga total de todos nuestros delitos y pecados, llegando al resultado de Dios haciéndonos sus hijos amados, sin mancha y completamente justos ante sus ojos gracias a la sangre de Cristo.
+### Esta redención y perdón de pecados que hemos recibido, es tan  grande y completa, ha <u>pagado</u> TANTO el precio de nuestra pecaminosidad como también la paga total de todos nuestros delitos y pecados, llegando al resultado de Dios haciéndonos sus hijos amados, sin mancha y completamente justos ante sus ojos gracias a la sangre de Cristo.
 
-#### Efesios 1:6 – Él nos ha hecho aceptados en el amado. Esto significa que hemos sido altamente agraciados/favorecidos/honrados. El único otro lugar donde se usa esta palabra en el Nuevo Testamento es en Lucas 1:28, donde el ángel llama a María altamente favorecida para ser la elegida por Dios para concebir al Hijo de Dios a través del Espíritu Santo. El amado aquí significa ser amado y estimado. Indica una dirección de la voluntad y encontrar la alegría de uno en algo o alguien. ¡Al ser hijos de Dios mismo, Dios nos ha favorecido y nos ha bendecido al convertirnos en el gozo y el deleite de Su corazón!
+#### Efesios 1:6 – Él nos ha hecho aceptados en el amado. Esto significa que hemos sido altamente agraciados/favorecidos/honrados. El único otro lugar donde se usa esta palabra en el Nuevo Testamento es en Lucas 1:28, donde el ángel llama a María altamente <u>favorecida</u> para ser la elegida por Dios para concebir al Hijo de Dios a través del Espíritu Santo. El amado aquí significa ser amado y estimado. Indica una dirección de la voluntad y encontrar la alegría de uno en algo o alguien. ¡Al ser hijos de Dios mismo, Dios nos ha favorecido y nos ha bendecido al convertirnos en el gozo y el deleite de Su corazón!
 
-#### Efesios 1:11 – Como hijos suyos, hemos obtenido una herencia que Él nos predestinó según el buen consejo de su voluntad.(Dios fijó un destino de todos los que habían de Creer en Cristo tendrían una herencia). Los creyentes se han convertido en herederos de Dios debido al hecho de que Dios fijó un destino para cada persona que habría de creer en el evangelio.
+#### Efesios 1:11 – Como hijos suyos, hemos obtenido una herencia que Él nos predestinó según el buen <u>consejo</u> de su voluntad.(Dios fijó un destino de todos los que habían de Creer en Cristo tendrían una herencia). Los creyentes se han convertido en herederos de Dios debido al hecho de que Dios fijó un destino para cada persona que habría de creer en el evangelio.
 
-#### Efesios 1:13-14; 2 Corintios 1:22; 5:5 – Hemos sido sellados con el Espíritu Santo de la promesa. Esto habla de sellar algo, asegurarlo, preservarlo para que se entregue de forma segura. También habla de ser una prueba de autenticidad y autenticidad. Otro papel del Espíritu Santo como nuestro sello que nos asegura y nos marca como genuinos y auténticos es el de ser un depósito o garantía de que realmente recibiremos TODO lo que Dios nos ha prometido.
+#### Efesios 1:13-14; 2 Corintios 1:22; 5:5 – Hemos sido <u>sellados</u> con el Espíritu Santo de la promesa. Esto habla de sellar algo, asegurarlo, preservarlo para que se entregue de forma segura. También habla de ser una prueba de autenticidad y autenticidad. Otro papel del Espíritu Santo como nuestro sello que nos asegura y nos marca como genuinos y auténticos es el de ser un depósito o garantía de que realmente recibiremos TODO lo que Dios nos ha prometido.
 
-### La herencia que tenemos todos los creyentes no es una herencia terrenal ó física, es una herencia que obtendremos cuando estemos allá en el Cielo, y el espíritu santo con el que fuimos sellados es la garantía de que la recibiremos. Es como un niño que nace en una familia real. Toda la herencia le pertenece posicionalmente al nacer, pero puede experimentar en un control total en la edad de adulto.
+### La herencia que tenemos todos los creyentes no es una herencia terrenal ó física, es una herencia que obtendremos cuando estemos allá en el Cielo, y el espíritu santo con el que fuimos sellados es la garantía de que la recibiremos. Es como un niño que nace en una <u>familia</u> real. Toda la herencia le pertenece posicionalmente al nacer, pero puede experimentar en un control total en la edad de adulto.
 
 ### Lea Efesios 1:15-23.
 
-### Después de mostrar a los creyentes de Éfeso (y a nosotros) la nueva posición que Dios nos ha dado, así como  todas las bendiciones y herencia que acompañan a la entrada a esta familia. El apóstol Pablo les indica que se encuentra orando por ellos con el siguiente propósito.
+### Después de mostrar a los creyentes de Éfeso (y a nosotros) la <u>nueva</u> posición que Dios nos ha dado, así como  todas las bendiciones y herencia que acompañan a la entrada a esta familia. El apóstol Pablo les indica que se encuentra orando por ellos con el siguiente propósito.
 
-#### Versículo 17 – Que Dios les diera un espíritu de sabiduría y entendimiento en el conocimiento de Él. Esto es exactamente de lo que hemos estado hablando a lo largo de este estudio y todas estas lecciones: la importancia de conocer a Dios, quién es Él y cómo es realmente. Conocer el corazón de Dios es de vital importancia, debido a que conoceremos cuan misericordioso es Dios realmente, cuanta gracia ha derramado sobre nosotros,  conoceremos realmente quienes dice Dios que somos en Cristo. Y cuales son los beneficios que hemos recibido en Cristo.
+#### Versículo 17 – Que Dios les diera un espíritu de sabiduría y entendimiento en el conocimiento de Él. Esto es exactamente de lo que hemos estado hablando a lo largo de este estudio y todas estas lecciones: la importancia de conocer a Dios, quién es Él y cómo es realmente. Conocer el corazón de Dios es de vital importancia, debido a que conoceremos cuan misericordioso es Dios realmente, cuanta <u>gracia</u> ha derramado sobre nosotros,  conoceremos realmente quienes dice Dios que somos en Cristo. Y cuales son los beneficios que hemos recibido en Cristo.
 
-#### Versículo 18 – Y que Dios abra los ojos de su entendimiento (y el nuestro) para saber cuál es la esperanza de Su llamado y para saber cuáles son las riquezas de la gloria de la herencia que hemos recibido como Sus hijos.  esto significa que en nuestra comprensión sepamos cual es la esperanza de las riquezas de la gloria, y la herencia que tienen los santos, los cuales él ha llamado por medio del evangelio.
+#### Versículo 18 – Y que Dios abra los ojos de su entendimiento (y el nuestro) para saber cuál es la esperanza de Su llamado y para saber cuáles son las riquezas de la gloria de la herencia que hemos recibido como Sus hijos. Esto significa que en <u>nuestra</u> comprensión sepamos cual es la esperanza de las riquezas de la gloria, y la herencia que tienen los santos, los cuales él ha llamado por medio del evangelio.
 
-#### 19-23 – Por último, que nos convenciéramos del abundante poder de Dios hacia nosotros los que creemos, ese mismo poder que resucitó a Cristo de entre los muertos y lo sentó a la diestra de Dios y le dio un nombre nuevo que está por encima de todo nombre en el cielo y en la tierra. Pablo está diciendo: *Oro para que te convenzas de cómo es el corazón de Dios, para que luego puedas convencerte de cuán grande y gloriosa es la posición y la herencia que Él te ha dado al colocarte en Su reino. Y oro para que se convenzan de Su poder y capacidad para realmente lograr todo esto en su vida. Que el mismo poder que resucitó a Cristo de entre los muertos es el mismo poder que ha obrado para que todas estas cosas sean verdaderas de ustedes.*
+#### 19-23 – Por último, que nos convenciéramos del abundante poder de Dios hacia nosotros los que creemos, ese mismo poder que resucitó a Cristo de entre los muertos y lo sentó a la diestra de Dios y le dio un nombre nuevo que está por encima de todo nombre en el cielo y en la tierra. Pablo está diciendo: *Oro para que te convenzas de cómo es el corazón de Dios, para que luego puedas convencerte de cuán grande y gloriosa es la <u>posición</u> y la herencia que Él te ha dado al colocarte en Su reino. Y oro para que se convenzan de Su poder y capacidad para realmente lograr todo esto en su vida. Que el mismo poder que resucitó a Cristo de entre los muertos es el mismo poder que ha obrado para que todas estas cosas sean verdaderas de ustedes.*
 
-### ¿Por qué Pablo quería que los efesios (y nosotros también) supiéramos estas cosas? A lo largo del Antiguo Testamento, hemos visto a varios individuos, así como a Israel como nación, meterse en muchas situaciones de las que necesitaban liberación. Cada vez fue Dios quien proporcionó el plan y la vía de escape. Fue entonces Dios quien hizo todo lo posible para comunicar al hombre cómo obtener esa liberación. La única parte del hombre en todo esto fue creer lo que Dios le dijo. Es lo mismo para nosotros con respecto a esta gran salvación que hemos recibido en Cristo.
+### ¿Por qué Pablo quería que los efesios (y nosotros también) supiéramos estas cosas? A lo largo del Antiguo Testamento, hemos visto a varios individuos, así como a Israel como nación, meterse en muchas situaciones de las que necesitaban liberación. Cada vez fue Dios <u>quien</u> proporcionó el plan y la vía de escape. Fue entonces Dios quien hizo todo lo posible para comunicar al hombre cómo obtener esa liberación. La única parte del hombre en todo esto fue creer lo que Dios le dijo. Es lo mismo para nosotros con respecto a esta gran salvación que hemos recibido en Cristo.
 
-### Justificación – Es un termino legal que consiste en declarar a una persona completamente inocente en cuanto a lo que se le acusa, era completamente imposible que nosotros podríamos declararnos justos ante Dios a través de las buenas obras, solo esto fue hecho por Gracia y fue a través de contar la muerte de Cristo a nuestro favor.
+### Justificación – Es un termino legal que consiste en declarar a una <u>persona</u> completamente inocente en cuanto a lo que se le acusa, era completamente imposible que nosotros podríamos declararnos justos ante Dios a través de las buenas obras, solo esto fue hecho por Gracia y fue a través de contar la muerte de Cristo a nuestro favor.
 
 ### Lea Colosenses 2:6.
 
-### Ahora bien, lo mismo es cierto con respecto a nuestra santificación o el hecho de que nuestra posición se vuelva cada vez más experimentada o se convierta en las características de nuestra condición o vida diaria. Pablo enseño a los colosenses a vivir su santificación de la misma manera en la que fueron salvos, por fe.
+### Ahora bien, lo mismo es cierto con respecto a nuestra santificación o el hecho de que nuestra posición se vuelva cada vez más experimentada o se convierta en las características de nuestra condición o vida diaria. Pablo enseño a los colosenses a vivir su santificación de la misma manera en la que <u>fueron</u> salvos, por fe.
 
-### Es por eso que Pablo oraba para que los ojos de los creyentes se abrieran para entender y comprender a cabalidad la nueva posición,y las promesas que Dios les había dado, para que luego CREYERAN que es así. La provisión que él nos ha dado para vivir nuestra santificación esta basado en la obra terminada de Cristo. 
+### Es por eso que Pablo oraba para que los ojos de los creyentes se <u>abrieran</u> para entender y comprender a cabalidad la nueva posición,y las promesas que Dios les había dado, para que luego CREYERAN que es así. La provisión que él nos ha dado para vivir nuestra santificación esta basado en la obra terminada de Cristo. 
 
-### Pablo también declara estas mismas verdades en otras epístolas. Romanos 6:1-2 – La premisa de Pablo de este capítulo comienza claramente con un enfoque en el andar práctico del creyente. fuimos salvos para seguir pecando?, en ninguna manera, de hecho la posición santa en la que nos encontramos, el deseo es que refleje de manera práctica en el andar del creyente. Véanse también los versículos 2-6.
+### Pablo también declara estas mismas verdades en otras epístolas. Romanos 6:1-2 – La premisa de Pablo de este capítulo comienza claramente con un <u>enfoque</u> en el andar práctico del creyente. fuimos salvos para seguir pecando?, en ninguna manera, de hecho la posición santa en la que nos encontramos, el deseo es que refleje de manera práctica en el andar del creyente. Véanse también los versículos 2-6.
 
-### Pablo dice que nuestro viejo hombre, nuestra vieja humanidad, que éramos en Adán, esa vieja posición de ser un enemigo separado de Dios, ha sido crucificado con Cristo. ¡Se encuentra juntamente con Cristo crucificado!. Esa ya no es nuestra identidad. Él dice que en el momento en que aceptamos a Cristo como nuestro Salvador, fuimos colocados en Él. Y ser colocado en Cristo significa que Él es TANTO nuestro representante, que los efectos completos de todo lo que Él ha hecho y todo lo que Él ha recibido de Dios el Padre como resultado de todo lo que Él ha logrado, TODO se vuelve igualmente nuestro a través de haber sido colocados en Él.
+### Pablo dice que nuestro viejo hombre, nuestra vieja humanidad, que éramos en Adán, esa vieja posición de ser un enemigo separado de Dios, ha sido crucificado con Cristo. ¡Se encuentra juntamente con Cristo crucificado!. Esa ya no es nuestra identidad. Él dice que en el momento en que aceptamos a Cristo como nuestro Salvador, fuimos colocados en Él. Y ser colocado en Cristo significa que Él es TANTO nuestro representante, que los efectos completos de todo lo que Él ha hecho y todo lo que Él ha recibido de Dios el Padre como <u>resultado</u> de todo lo que Él ha logrado, TODO se vuelve igualmente nuestro a través de haber sido colocados en Él.
 
-### ¿Cuál es el estado actual y la posición de la relación de Jesús con el pecado? ¿Está controlado por él? ¿Está Él bajo su autoridad? No, Él está muerto a ella en el sentido de que está libre de ella, de la misma manera nosotros.
+### ¿Cuál es el estado actual y la posición de la relación de Jesús con el pecado? ¿Está controlado por él? ¿Está Él bajo su autoridad? No, Él está muerto a ella en el <u>sentido</u> de que está libre de ella, de la misma manera nosotros.
 
-### El estado y la posición en la que el creyente se encuentra es en Él. Es interesante la identificación con la que fuimos hechos en Cristo. Fuimos identificados con su muerte, su muerte llegó a ser nuestra muerte, su sepultura nuestra sepultura y su resurrección nuestra resurrección y esta resurrección es para novedad de vida del creyente.  
+### El estado y la posición en la que el <u>creyente</u> se encuentra es en Él. Es interesante la identificación con la que fuimos hechos en Cristo. Fuimos identificados con su muerte, su muerte llegó a ser nuestra muerte, su sepultura nuestra sepultura y su resurrección nuestra resurrección y esta resurrección es para novedad de vida del creyente.  
 
-### En el versículo 6, Pablo dice que debemos saber que nuestra antigua posición de ser personas cuyos pensamientos e intenciones del corazón eran solo malos desde la infancia ha sido crucificada, para que el poder del pecado en nuestras vidas pueda ser quebrantado o eliminado, y que por lo tanto ya no viviríamos como esclavos del pecado. Una vez más, la progresión de saber lo que se ha hecho y quiénes somos posicionalmente, el hecho de conocer estas verdades y considerarlas en nuestro diario vivir  afectará de manera significativa.
+### En el versículo 6, Pablo dice que debemos saber que nuestra antigua posición de ser personas cuyos pensamientos e intenciones del corazón eran solo malos desde la infancia ha sido crucificada, para que el poder del pecado en nuestras vidas pueda ser quebrantado o <u>eliminado</u>, y que por lo tanto ya no viviríamos como esclavos del pecado. Una vez más, la progresión de saber lo que se ha hecho y quiénes somos posicionalmente, el hecho de conocer estas verdades y considerarlas en nuestro diario vivir  afectará de manera significativa.
 
-### En los versículos 7-10, Pablo continúa describiendo más acerca de la muerte de Jesús al pecado y, por lo tanto, NUESTRA muerte al pecado también, pero en el versículo 11, dice que debemos contar ó darlo por hecho (es un hecho real) que estamos muertos al pecado y vivos para Dios. Que este es el estado y la posición de Jesús ante Dios, y porque estamos en Él, también es nuestro; por lo tanto, crea que es cierto para cada creyente.
+### En los versículos 7-10, Pablo continúa describiendo más acerca de la muerte de Jesús al pecado y, por lo tanto, NUESTRA muerte al pecado también, pero en el versículo 11, dice que debemos contar ó darlo por hecho (es un hecho real) que estamos <u>muertos</u> al pecado y vivos para Dios. Que este es el estado y la posición de Jesús ante Dios, y porque estamos en Él, también es nuestro; por lo tanto, crea que es cierto para cada creyente.
 
-### En los versículos 12-14, Pablo nos da los resultados de saber y creer que estos aspectos de nuestra nueva posición en Cristo son realmente ciertos para nosotros, es decir, que la fe en estos hechos nos permitirá vivir como aquellos que están vivos y en comunión con Dios en lugar de como aquellos que son esclavos del pecado.
+### En los versículos 12-14, Pablo nos da los resultados de saber y creer que estos aspectos de nuestra nueva <u>posición</u> en Cristo son realmente ciertos para nosotros, es decir, que la fe en estos hechos nos permitirá vivir como aquellos que están vivos y en comunión con Dios en lugar de como aquellos que son esclavos del pecado.
 
-### La fe en estos hechos de nuestra nueva posición en Cristo nos capacitará para presentar nuestros cuerpos como instrumentos de justicia, en lugar de instrumentos de injusticia.
+### La fe en estos hechos de nuestra nueva posición en Cristo nos capacitará para <u>presentar</u> nuestros cuerpos como instrumentos de justicia, en lugar de instrumentos de injusticia.
 
-### Amigos, esta es la segunda parte de nuestra salvación, que es la santificación o salvación del poder del pecado y cómo está destinado a transformar la condición diaria de nuestras vidas. Notará que encaja con el mismo patrón que vimos a lo largo del Antiguo Testamento, así como con respecto a nuestra justificación.
+### Amigos, esta es la segunda parte de nuestra salvación, que es la santificación o salvación del poder del pecado y cómo está destinado a transformar la condición diaria de nuestras vidas. Notará que encaja con el mismo patrón que vimos a lo largo del Antiguo Testamento, así como con respecto a <u>nuestra</u> justificación.
 
-### ¡Simplemente fe en lo que Dios ha provisto para nuestro diario caminar!
+### ¡Simplemente fe en lo que Dios ha provisto para nuestro <u>diario</u> caminar!
 
 ## Preguntas de revisión
 
@@ -5709,173 +5709,173 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 # SALVADOS DE LA FUTURA PRESENCIA DEL PECADO - GLORIFICACIÓN
 
-### Introducción: Hemos visto el plan eterno de redención de Dios había sido predeterminado en Su corazón desde antes de la fundación de la tierra (2 Timoteo 1:9; 1 Pedro 1:19-20). Ha sido ÉL quien lo ha estado llevando a cabo y cumpliendo a través de Cristo desde entonces.
+### Introducción: Hemos visto el plan eterno de redención de Dios había sido predeterminado en Su corazón desde antes de la fundación de la <u>tierra</u> (2 Timoteo 1:9; 1 Pedro 1:19-20). Ha sido ÉL quien lo ha estado llevando a cabo y cumpliendo a través de Cristo desde entonces.
 
-### En el contexto de Dios llevando a cabo y cumpliendo Su plan, ha habido características clave que Dios ha revelado sobre Sí mismo, Su corazón, Su plan y la humanidad. Vimos muchos ejemplos físicos o patrones de estas características a lo largo del Antiguo Testamento que ahora brindan un testimonio que nos ayuda a comprender los puntos clave que ahora caracterizan nuestra salvación espiritual. Estas son algunas de esas características clave:
+### En el contexto de Dios llevando a cabo y cumpliendo Su plan, ha habido características clave que Dios ha revelado sobre Sí mismo, Su corazón, Su plan y la humanidad. Vimos muchos ejemplos físicos o patrones de estas características a lo largo del Antiguo Testamento que ahora brindan un testimonio que nos <u>ayuda</u> a comprender los puntos clave que ahora caracterizan nuestra salvación espiritual. Estas son algunas de esas características clave:
 
-#### Dios es el Señor Dios Todopoderoso, el Soberano Creador, Sustentador y Dueño de TODAS las cosas.
+#### Dios es el Señor Dios Todopoderoso, el Soberano Creador, Sustentador y Dueño de TODAS las <u>cosas</u>.
 
-#### El hombre es un ser finito y creado a la imagen de Dios  con el propósito de tener una relación íntima con Él.
+#### El hombre es un ser finito y creado a la imagen de Dios  con el propósito de tener una relación <u>íntima</u> con Él.
 
-#### A través de su propia elección de pecar, el hombre perdió la posición y condición original en la que Él lo había creado y se convirtió en un enemigo pecaminoso, desesperado, indefenso y separado de Dios.
+#### A través de su propia elección de pecar, el hombre perdió la posición y condición <u>original</u> en la que Él lo había creado y se convirtió en un enemigo pecaminoso, desesperado, indefenso y separado de Dios.
 
-#### Dios sabía que esto sucedería y debido a Su gran amor y misericordia, Él hizo posible la salvación en Cristo, inclusive desde antes de cualquier cosa sea creada.
+#### Dios sabía que esto sucedería y debido a Su gran amor y misericordia, Él hizo posible la salvación en Cristo, inclusive desde <u>antes</u> de cualquier cosa sea creada.
 
-#### Dios ha estado llevando a cabo y cumpliendo este plan de redención para la humanidad a través de Cristo.
+#### Dios ha estado llevando a cabo y cumpliendo este <u>plan</u> de redención para la humanidad a través de Cristo.
 
-### Así como Dios no dejó absolutamente nada para que Israel lo descubriera por sí mismo a través del Antiguo Testamento, tampoco nos dejó nada para hacer o descubrir por nosotros mismos espiritualmente. Él se ha revelado fielmente y se ha comunicado a sí mismo y a su plan con la mayor claridad e intención, hasta el punto de que todo lo que le queda por hacer a la humanidad es simplemente CREER.
+### Así como Dios no dejó absolutamente nada para que Israel lo descubriera por sí mismo a través del Antiguo Testamento, tampoco nos dejó nada para hacer o descubrir por nosotros mismos espiritualmente. Él se ha revelado fielmente y se ha comunicado a sí mismo y a su plan con la mayor claridad e intención, hasta el <u>punto</u> de que todo lo que le queda por hacer a la humanidad es simplemente CREER.
 
 ## Llamados a la gloria y la virtud
 
 ### Lea 2 Pedro 1:1-3.
 
-### A todos los creyentes se nos ha dado todo lo concerniente a la vida y piedad, en la obra de Cristo se encuentra toda la provisión necesaria para vivir la vida cristiana, fuimos llamados por su gloria y excelencia.
+### A todos los creyentes se nos ha dado todo lo concerniente a la vida y piedad, en la obra de Cristo se encuentra toda la provisión necesaria para vivir la <u>vida</u> cristiana, fuimos llamados por su gloria y excelencia.
 
 ## Una salvación tan grande
 
 ### Lea Hebreos 1:1-3.
 
-### Todo el punto del escritor en el capítulo uno es establecer el hecho de la grandeza de Cristo. En el versículo 3, se refiere a Jesús como el resplandor de su gloria. Este es el único lugar en todo el Nuevo Testamento donde se usa esta palabra. ¡Significa que Jesús es el esplendor emitido de la gloria de Dios! El resplandor de, el resplandor. Luego, el escritor continúa afirmando que Jesús es la imagen expresada de Dios.
+### Todo el punto del escritor en el capítulo uno es establecer el hecho de la grandeza de Cristo. En el versículo 3, se refiere a Jesús como el resplandor de su <u>gloria</u>. Este es el único lugar en todo el Nuevo Testamento donde se usa esta palabra. ¡Significa que Jesús es el esplendor emitido de la gloria de Dios! El resplandor de, el resplandor. Luego, el escritor continúa afirmando que Jesús es la imagen expresada de Dios.
 
-### La palabra originalmente denotaba un grabador o herramienta de grabado. Más tarde significaba la impresión en sí, generalmente algo grabado, cortado o estampado: un carácter, una letra, una marca y un signo. Esta impresión con sus características particulares se consideraba como la representación exacta del objeto cuya imagen llevaba. Significa que Jesús es la imagen exacta de la esencia de Dios. ¡Jesús es su expresión perfecta de Dios!
+### La palabra originalmente denotaba un grabador o herramienta de grabado. Más tarde significaba la impresión en sí, generalmente algo grabado, cortado o estampado: un carácter, una letra, una marca y un signo. Esta impresión con sus características particulares se consideraba como la representación exacta del objeto cuya imagen llevaba. Significa que Jesús es la <u>imagen</u> exacta de la esencia de Dios. ¡Jesús es su expresión perfecta de Dios!
 
-### Luego, el escritor pasa el resto del capítulo continuando estableciendo la grandeza de Jesús al revelar su superioridad sobre los ángeles, principalmente comparando la diferencia entre su relación con la Deidad en comparación con la de los ángeles.
+### Luego, el escritor pasa el resto del <u>capítulo</u> continuando estableciendo la grandeza de Jesús al revelar su superioridad sobre los ángeles, principalmente comparando la diferencia entre su relación con la Deidad en comparación con la de los ángeles.
 
-### En el capítulo 2, versículo 1, entonces, comienza con por tanto. Puesto que esto es Quien es Jesús, puesto que así de grande, poderoso y asombroso es Él, debemos prestar mayor atención a todo lo que hemos oído.
+### En el capítulo 2, versículo 1, entonces, comienza con por tanto. Puesto que esto es Quien es Jesús, puesto que así de grande, <u>poderoso</u> y asombroso es Él, debemos prestar mayor atención a todo lo que hemos oído.
 
-### Lo que hemos oído es una referencia al panorama general de la salvación porque continúa diciendo: porque si descuidamos UNA SALVACIÓN TAN GRANDE. Si descuidamos esta obra de gracia que lo abarca TODO por el mismo Hijo de Dios, el mismo Aquel que es la expresión exacta de Dios Todopoderoso mismo, ¿qué quedaría?
+### Lo que hemos oído es una referencia al panorama <u>general</u> de la salvación porque continúa diciendo: Porque si descuidamos UNA SALVACIÓN TAN GRANDE. Si descuidamos esta obra de gracia que lo abarca TODO por el mismo Hijo de Dios, el mismo Aquel que es la expresión exacta de Dios Todopoderoso mismo, ¿qué quedaría?
 
-### Esto es exactamente lo que hemos estado tratando de hacer, dar una idea de cuán grande y abarcadora es la salvación que hemos recibido. Hemos desempacado el panorama general de la salvación y hemos mostrado cómo incluye la salvación de la pena del pecado (justificación), la salvación del poder del pecado (santificación) y ahora la salvación de la presencia del pecado (glorificación). Cada una de estas partes de la salvación es parte de nuestra nueva identidad como creados en Cristo.
+### Esto es exactamente lo que hemos estado tratando de hacer, dar una idea de cuán grande y abarcadora es la salvación que hemos recibido. Hemos desempacado el panorama general de la salvación y hemos mostrado cómo incluye la <u>salvación</u> de la pena del pecado (justificación), la salvación del poder del pecado (santificación) y ahora la salvación de la presencia del pecado (glorificación). Cada una de estas partes de la salvación es parte de nuestra nueva identidad como creados en Cristo.
 
 ### Lea Filipenses 1:6.
 
-### Esa progresión es exactamente de lo que habla este versículo. A medida que continuamos aprendiendo a caminar menos en la carne y más en el Espíritu, más comenzaremos a vivir la vida que él desea que vivamos. Esta progresión continuará teniendo lugar hasta que muramos o Él regrese y nos lleve a estar con Él. En ese momento, la última parte de nuestra salvación, la salvación de la presencia del pecado, mientras todavía vivimos en esta tierra caída y en estos cuerpos terrenales, que todavía tienen una carne que reside en ellos, experimentamos la liberación del poder del pecado en la medida en que caminamos en el Espíritu y no en la carne. No experimentaremos nuestra liberación de la presencia del pecado hasta que estemos con Él en el cielo.
+### Esa progresión es exactamente de lo que habla este versículo. A medida que continuamos aprendiendo a caminar menos en la carne y más en el Espíritu, más comenzaremos a vivir la vida que él desea que vivamos. Esta progresión continuará teniendo lugar hasta que muramos o Él regrese y nos lleve a estar con Él. En ese momento, la última parte de nuestra salvación, la salvación de la presencia del pecado, mientras todavía vivimos en esta tierra <u>caída</u> y en estos cuerpos terrenales, que todavía tienen una carne que reside en ellos, experimentamos la liberación del poder del pecado en la medida en que caminamos en el Espíritu y no en la carne. No experimentaremos nuestra liberación de la presencia del pecado hasta que estemos con Él en el cielo.
 
 ## Salvación de la presencia del pecado
 
-### Sabes, a lo largo del Antiguo Testamento hemos visto algunas imágenes físicas bastante claras y sorprendentes de la verdad espiritual. Hemos hablado de que Dios tiene estos relatos registrados con el propósito de que sea más fácil para nosotros hoy, como Sus hijos, entender y creer lo que Él ha hecho espiritualmente en nuestro beneficio.
+### Sabes, a lo largo del Antiguo Testamento hemos visto algunas imágenes físicas bastante <u>claras</u> y sorprendentes de la verdad espiritual. Hemos hablado de que Dios tiene estos relatos registrados con el propósito de que sea más fácil para nosotros hoy, como Sus hijos, entender y creer lo que Él ha hecho espiritualmente en nuestro beneficio.
 
 ### Algunas de las imágenes de justificación son:
 
-#### Noé y el arca
+#### Noé y el <u>arca</u>
 
-#### Sacrificios de cordero a través del Antiguo Testamento
+#### Sacrificios de <u>cordero</u> a través del Antiguo Testamento
 
-#### Liberar a Israel de la esclavitud en Egipto
+#### Liberar a Israel de la <u>esclavitud</u> en Egipto
 
-#### El cordero de la Pascua
+#### El <u>cordero</u> de la Pascua
 
-#### La imposición de la mano sobre la cabeza del cordero cuando fue sacrificado por el pecado del oferente
+#### La imposición de la mano sobre la <u>cabeza</u> del cordero cuando fue sacrificado por el pecado del oferente
 
 ### Algunas de las imágenes de la santificación son:
 
-#### Guiando a Israel a través del Mar Rojo, a través del desierto y hacia la Tierra Prometida
+#### Guiando a Israel a través del Mar Rojo, a través del <u>desierto</u> y hacia la Tierra Prometida
 
-#### El simbolismo de los tres muebles que se colocaron en el lugar santo dentro del tabernáculo
+#### El simbolismo de los tres muebles que se colocaron en el <u>lugar</u> santo dentro del tabernáculo
 
-### Para que podamos vislumbrar o probar cómo será o cómo se verá nuestra glorificación futura, creo que tenemos que volver atrás y mirar las características de la vida de Adán antes de la caída. Esta fue la única vez en toda la Biblia en que la humanidad existió sin la presencia del pecado.
+### Para que podamos vislumbrar o probar cómo será o cómo se verá nuestra glorificación futura, creo que tenemos que volver atrás y mirar las características de la vida de Adán antes de la caída. Esta fue la única vez en toda la Biblia en que la humanidad <u>existió</u> sin la presencia del pecado.
 
-### Entonces, veamos algunas de las principales características de la vida de Adán en ese momento y comparémoslas con lo que Dios ha dicho que es cierto de nosotros espiritualmente. Dios le había proporcionado a Adán todo lo que necesitaba, tanto física como espiritualmente, para que Dios disfrutara de una relación con él. Cuando Adán fue creado por primera vez, era solo un cuerpo hasta que Dios le dio vida. Al igual que Adán, estábamos espiritualmente muertos e incapaces de estar en comunión con Dios hasta que Él nos dio vida a través de Cristo.
+### Entonces, veamos algunas de las principales características de la vida de Adán en ese momento y comparémoslas con lo que Dios ha dicho que es cierto de nosotros espiritualmente. Dios le había proporcionado a Adán todo lo que necesitaba, tanto física como espiritualmente, para que Dios disfrutara de una <u>relación</u> con él. Cuando Adán fue creado por primera vez, era solo un cuerpo hasta que Dios le dio vida. Al igual que Adán, estábamos espiritualmente muertos e incapaces de estar en comunión con Dios hasta que Él nos dio vida a través de Cristo.
 
 ### Lea 2 Pedro 1:3; 2 Corintios 4:6; Efesios 2:1-6.
 
-### Debido a que Dios había creado a Adán a su imagen con mente, voluntad y emociones, Adán tenía la capacidad de disfrutar de una relación con Dios, aprendiendo sobre el amor de Dios por él y correspondiendo a ese amor. Debido a que ahora hemos sido vivificados espiritualmente en Cristo, nosotros también tenemos la capacidad de conocer el amor de Dios por nosotros y amarlo a Él.
+### Debido a que Dios había creado a Adán a su imagen con mente, voluntad y emociones, Adán tenía la capacidad de disfrutar de una relación con Dios, aprendiendo sobre el amor de Dios por él y correspondiendo a ese amor. Debido a que ahora hemos sido vivificados espiritualmente en Cristo, nosotros también tenemos la capacidad de conocer el <u>amor</u> de Dios por nosotros y amarlo a Él.
 
 ### Lea 1 Juan 4:19.
 
-### Dios creó el mundo y todo lo que hay en el y luego creó un jardín especial, el Jardín del Edén para Adán y Eva. Contenía todo lo que necesitaban para vivir, así como mucho que Dios sabía que disfrutarían.
+### Dios creó el mundo y todo lo que hay en el y luego creó un jardín especial, el Jardín del Edén para Adán y Eva. Contenía todo lo que necesitaban para <u>vivir</u>, así como mucho que Dios sabía que disfrutarían.
 
 ### Lea Juan 14:1-3; 1 Timoteo 6:17.
 
-### Adán y Eva fueron creados sin pecado y perfectos y, por lo tanto, Dios podía disfrutar de estar con ellos y ellos podían estar en Su presencia. Debido a que nuestro pecado ha sido pagado en su totalidad, ya no estamos separados de Dios. Él es libre de salir de detrás del velo y nosotros somos libres de entrar en Su presencia.
+### Adán y Eva fueron creados sin pecado y perfectos y, por lo tanto, Dios podía <u>disfrutar</u> de estar con ellos y ellos podían estar en Su presencia. Debido a que nuestro pecado ha sido pagado en su totalidad, ya no estamos separados de Dios. Él es libre de salir de detrás del velo y nosotros somos libres de entrar en Su presencia.
 
 ### Lea Hebreos 4:16; 1 Corintios 1:9; 1 Juan 1:3.
 
-### En Génesis, leemos que Dios bajaría por la noche, en el fresco del día y caminaría y tendría comunión con Adán. Debido a que hemos sido restaurados a la unidad con Dios, podemos disfrutar de Su comunión aquí y ahora; pero un día realmente disfrutaremos de Su presencia cara a cara en el cielo.
+### En Génesis, leemos que Dios bajaría por la noche, en el fresco del día y caminaría y <u>tendría</u> comunión con Adán. Debido a que hemos sido restaurados a la unidad con Dios, podemos disfrutar de Su comunión aquí y ahora; pero un día realmente disfrutaremos de Su presencia cara a cara en el cielo.
 
 ### Lea 2 Corintios 5:1-7; Apocalipsis 21:1-5.
 
-### Estar en la presencia de Dios, caminar con Dios, tener comunión con Dios personalmente
+### Estar en la presencia de Dios, caminar con Dios, tener <u>comunión</u> con Dios personalmente
 
 ### Lee Génesis 15:1.
 
-### El Nuevo Testamento habla mucho sobre las recompensas que recibiremos los creyentes, pero en ninguna parte nos dice directamente cuáles son esas recompensas. Cuando consideras TODAS las cosas: la grandeza de Dios, Su corazón, Su gracia, la gloria, la maravilla y la belleza de Cristo, el hecho de Su gran amor por la humanidad y su profundo, profundo deseo de relación, ¡no puedo imaginar que haya una recompensa más grande que finalmente estar con Él, en Su presencia, sin carne, por TODA la eternidad! Cristo ha sido el FOCO del corazón de Dios desde antes de la fundación de la tierra, y desde Génesis 1 en adelante, Él ha sido el foco de todas las Escrituras.
+### El Nuevo Testamento habla mucho sobre las recompensas que recibiremos los creyentes, pero en ninguna parte nos dice directamente cuáles son esas recompensas. Cuando consideras TODAS las cosas: la grandeza de Dios, Su corazón, Su gracia, la gloria, la maravilla y la belleza de Cristo, el hecho de Su gran amor por la humanidad y su profundo, profundo deseo de relación, ¡no puedo imaginar que haya una recompensa más grande que finalmente estar con Él, en Su presencia, sin carne, por TODA la eternidad! Cristo ha sido el FOCO del corazón de Dios desde antes de la fundación de la <u>tierra</u>, y desde Génesis 1 en adelante, Él ha sido el foco de todas las Escrituras.
 
-### A través del cumplimiento del plan eterno de redención, Él nos movió de estar muertos en delitos y pecados a la gloria y virtud de ser hechos una nueva creación en Cristo, ¡restaurándonos así a ese estado perfecto y sin pecado de posición y relación con Dios! Hacer que cualquier otra cosa (que no sea Él) sea nuestro enfoque y recompensa, en mi opinión, abarata la gloria de Dios. ¡Hebreos se refiere a nuestra salvación como una salvación tan GRANDE! Gloriarse en cualquier otra cosa que no sea estar con Él lo debilita. Cuando Dios creó a Adán, le dio a Adán una posición de dominio sobre el resto de la creación. Pero, ¿qué era más grande y más importante, la posición de Adán o su relación con Dios? ¿Su dominio sobre la creación o el hecho de que el Dios del universo vendría y caminaría con él y comulgaría con él todos los días? Así, se nos pueden dar varias posiciones y trabajo para hacer en el cielo y en el cielo nuevo y la tierra nueva, pero es Él y estar con Él lo que será nuestra recompensa. ¡Él es nuestra excelsa y gran recompensa!
+### A través del cumplimiento del plan eterno de redención, Él nos movió de estar muertos en delitos y pecados a la gloria y virtud de ser hechos una nueva creación en Cristo, ¡restaurándonos así a ese estado perfecto y sin pecado de posición y <u>relación</u> con Dios! Hacer que cualquier otra cosa (que no sea Él) sea nuestro enfoque y recompensa, en mi opinión, abarata la gloria de Dios. ¡Hebreos se refiere a nuestra salvación como una salvación tan GRANDE! Gloriarse en cualquier otra cosa que no sea estar con Él lo debilita. Cuando Dios creó a Adán, le dio a Adán una posición de dominio sobre el resto de la creación. Pero, ¿qué era más grande y más importante, la posición de Adán o su relación con Dios? ¿Su dominio sobre la creación o el hecho de que el Dios del universo vendría y caminaría con él y comulgaría con él todos los días? Así, se nos pueden dar varias posiciones y trabajo para hacer en el cielo y en el cielo nuevo y la tierra nueva, pero es Él y estar con Él lo que será nuestra recompensa. ¡Él es nuestra excelsa y gran recompensa!
 
 ### Me gustaría concluir con la lectura de dos pasajes.
 
 ### Lea 1 Juan 1-4.
 
-### Juan está diciendo, Aquel que fue planeado desde antes del principio, vino y cumplió el plan eterno de redención que resultó en que recibiéramos la vida eterna, que en última instancia es la comunión eterna con Dios el Padre y Su Hijo Jesucristo. Fuimos testigos oculares del hecho de que Él realmente vino y cumplió este plan. Estuvimos con Él, lo vimos, hablamos con Él y lo tocamos. ¡Nuestro propósito al escribir y exponer todo esto para ti es para que *TU GOZO SEA COMPLETO*! ¡Porque no puede haber mayor bendición y privilegio que recibir la comunión eterna con la Deidad!
+### Juan está diciendo, Aquel que fue planeado desde antes del principio, vino y cumplió el <u>plan</u> eterno de redención que resultó en que recibiéramos la vida eterna, que en última instancia es la comunión eterna con Dios el Padre y Su Hijo Jesucristo. Fuimos testigos oculares del hecho de que Él realmente vino y cumplió este plan. Estuvimos con Él, lo vimos, hablamos con Él y lo tocamos. ¡Nuestro propósito al escribir y exponer todo esto para ti es para que *TU GOZO SEA COMPLETO*! ¡Porque no puede haber mayor bendición y privilegio que recibir la comunión eterna con la Deidad!
 
 ### Lea 1 Tesalonicenses 4:16-18.
 
-### De principio a fin, desde la eternidad pasada antes de la fundación de la tierra hasta la eternidad futura en los nuevos cielos y la nueva tierra, ha sido Dios y seguirá siendo Dios Quien está cumpliendo Sus planes y propósitos eternos de acuerdo con el buenos placeres de Su voluntad.
+### De principio a fin, desde la eternidad pasada antes de la fundación de la tierra hasta la eternidad <u>futura</u> en los nuevos cielos y la nueva tierra, ha sido Dios y seguirá siendo Dios Quien está cumpliendo Sus planes y propósitos eternos de acuerdo con el buenos placeres de Su voluntad.
 
-### Como Moisés les dijo a los israelitas en el Mar Rojo en Génesis 14:13: *No tengan miedo*. Quédate quieto y ve la salvación del Señor que Él logrará para ti hoy. Dios ha hecho exactamente lo mismo por nosotros espiritualmente. Nuestra mayor necesidad no es poder para hacer cosas grandes y maravillosas para Dios, sino simplemente sentarnos a derramar sobre Su Palabra, mirando al Espíritu Santo para que nos revele más y más la gloria y la maravilla de nuestro gran y poderoso Dios y Su gran salvación que Él nos ha otorgado por gracia y a través de Cristo.
+### Como Moisés les dijo a los israelitas en el Mar Rojo en Génesis 14:13: *No tengan miedo*. Quédate quieto y ve la salvación del Señor que Él <u>logrará</u> para ti hoy. Dios ha hecho exactamente lo mismo por nosotros espiritualmente. Nuestra mayor necesidad no es poder para hacer cosas grandes y maravillosas para Dios, sino simplemente sentarnos a derramar sobre Su Palabra, mirando al Espíritu Santo para que nos revele más y más la gloria y la maravilla de nuestro gran y poderoso Dios y Su gran salvación que Él nos ha otorgado por gracia y a través de Cristo.
 
 # APÉNDICE
 
 ## Sobre los Nefilim
 
-### ¿Pero que de los nefilim? Nefilim literalmente significa los caídos. Es interesante notar lo que dice Génesis 6:4...
+### ¿Pero que de los nefilim? Nefilim literalmente significa los <u>caídos</u>. Es interesante notar lo que dice Génesis 6:4...
 
-#### Génesis 6:4 ***En aquellos días, y aún después, los nefileos estaban** en la tierra, cuando los hijos de Ha-Elohim entraban a las hijas de los hombres y les engendraban hijos como ellos mismos. Estos eran los gigantes de antaño, los hombres de renombre.* (BTX4)
+#### Génesis 6:4 ***En aquellos días, y aún después, los nefileos estaban** en la tierra, cuando los hijos de Ha-Elohim entraban a las hijas de los hombres y les engendraban hijos como ellos mismos. Estos eran los gigantes de antaño, los <u>hombres</u> de renombre.* (BTX4)
 
-##### Notamos que los nefilim ya estaban cuando esto sucedió y siguieron habiendo nefilim después del diluvio. Números 13:33
+##### Notamos que los nefilim ya estaban cuando esto sucedió y siguieron habiendo <u>nefilim</u> después del diluvio. Números 13:33
 
-##### Si el diluvio era por causa del pecado entre ángeles caidos y el hombre resultando en los nefilim, ¿fue en vano el diluvio porque siguen habiendo después? 
+##### Si el diluvio era por causa del pecado entre ángeles caidos y el hombre <u>resultando</u> en los nefilim, ¿fue en vano el diluvio porque siguen habiendo después? 
 
-##### Una lectura normal entiende que estos eran personas. Puede ser que se refiere a su estatura y eso parece indicar Números 13:33 pero Génesis 11 hace entender que eran hombres de renombre (literalmente hombres de nombre, infiere hombres de fama) ...
+##### Una lectura normal entiende que estos eran personas. Puede ser que se refiere a su <u>estatura</u> y eso parece indicar Números 13:33 pero Génesis 11 hace entender que eran hombres de renombre (literalmente hombres de nombre, infiere hombres de fama) ...
 
-##### Génesis 10:9 *Él fue un poderoso cazador delante del SEÑOR. Por tanto, se dice: «Como Nimrod, poderoso cazador delante del SEÑOR».*
+##### Génesis 10:9 *Él fue un poderoso cazador delante del SEÑOR. Por tanto, se dice: «Como Nimrod, <u>poderoso</u> cazador delante del SEÑOR».*
 
-##### Génesis 11:4 *Luego dijeron: «Vamos, edifiquémonos una ciudad y una torre cuya cúspide llegue hasta los cielos, y **hagámonos un nombre famoso**, para que no seamos dispersados sobre la superficie de toda la tierra».*
+##### Génesis 11:4 *Luego dijeron: «Vamos, edifiquémonos una ciudad y una torre cuya <u>cúspide</u> llegue hasta los cielos, y **hagámonos un nombre famoso**, para que no seamos dispersados sobre la superficie de toda la tierra».*
 
-### Esta frase hombres de renombre sugiere que se trataba de personajes antiguos muy conocidos, recordados en relatos o tradiciones. 
+### Esta frase hombres de renombre sugiere que se trataba de personajes <u>antiguos</u> muy conocidos, recordados en relatos o tradiciones. 
 
-### Por lo tanto, la frase podría referirse fácilmente a figuras legendarias específicas conocidas por los primeros israelitas: «los héroes de la antigüedad», el tipo de nombres sobre los que se contaban historias mucho antes de que se escribiera el relato del diluvio.
+### Por lo tanto, la frase podría referirse fácilmente a figuras legendarias específicas <u>conocidas</u> por los primeros israelitas: «los héroes de la antigüedad», el tipo de nombres sobre los que se contaban historias mucho antes de que se escribiera el relato del diluvio.
 
-#### Podria estar refiriendose personas legendarias como Adan, Cain o Abel. 
+#### Podria estar refiriendose <u>personas</u> legendarias como Adan, Cain o Abel. 
 
-##### Enoc (Caminó con Dios, y desapareció, porque Dios se lo llevó). Tendría fama en el plano espiritual por su íntima relación con Dios.
+##### Enoc (Caminó con Dios, y desapareció, <u>porque</u> Dios se lo llevó). Tendría fama en el plano espiritual por su íntima relación con Dios.
 
-##### Hombres como Lamec (se jactó de haber matado a un hombre; padre de fundadores de culturas. Conocido por su violencia y orgullo). 
+##### Hombres como Lamec (se jactó de haber <u>matado</u> a un hombre; padre de fundadores de culturas. Conocido por su violencia y orgullo). 
 
-##### Jabal (Padre de los que habitan en tiendas y crían ganado e innovador cultural en la ganadería y la agricultura primitivas).
+##### Jabal (Padre de los que habitan en tiendas y <u>crían</u> ganado e innovador cultural en la ganadería y la agricultura primitivas).
 
-##### Jubal (Padre de todos los que tocan la lira y la flauta. Innovador cultural en la música y las artes)
+##### Jubal (Padre de todos los que tocan la lira y la <u>flauta</u>. Innovador cultural en la música y las artes)
 
-##### Tubal-caín (Forjador de todo instrumento de bronce y hierro. Innovador cultural en la metalurgia)
+##### Tubal-caín (Forjador de todo instrumento de bronce y <u>hierro</u>. Innovador cultural en la metalurgia)
 
-##### Matusalén (estaba vivo a la vez con Adán y todavía estaba vivo para Génesis 6)
+##### Matusalén (estaba <u>vivo</u> a la vez con Adán y todavía estaba vivo para Génesis 6)
 
-#### Aunque las personas previamente mencionadas ya habían fallecido (menos Matusalén), las personas (personas de renombre) al que se refiere estaban presentes cuando sucedió Génesis 6. Es decir, Génesis 6 sucedió en el tiempo que había gigantes, no que los gigantes eran un resultado. 
+#### Aunque las personas previamente <u>mencionadas</u> ya habían fallecido (menos Matusalén), las personas (personas de renombre) al que se refiere estaban presentes cuando sucedió Génesis 6. Es decir, Génesis 6 sucedió en el tiempo que había gigantes, no que los gigantes eran un resultado. 
 
-##### Arqueológicamente, nunca se han encontrado huesos ni esqueletos verificados de gigantes bíblicos. Todos los supuestos descubrimientos han sido:
+##### Arqueológicamente, nunca se han encontrado huesos ni esqueletos <u>verificados</u> de gigantes bíblicos. Todos los supuestos descubrimientos han sido:
 
-###### engaños
+###### Engaños.
 
-###### interpretaciones erróneas
+###### Interpretaciones erróneas.
 
-###### exageraciones
+###### Exageraciones.
 
-###### o huesos de animales grandes sin relación con el texto bíblico.
+###### O huesos de animales grandes sin relación con el texto bíblico.
 
-#### Solo porque no hayan encontrado huesos de gigantes todavía no prueba nada. Esto no significa que Goliat no era gigante. La Biblia dice que era físicamente de gran estatura. 
+#### Solo porque no hayan encontrado <u>huesos</u> de gigantes todavía no prueba nada. Esto no significa que Goliat no era gigante. La Biblia dice que era físicamente de gran estatura. 
 
-#### No explica claramente por qué la descendencia era «nefilim», descritos como poderosos y legendarios.
+#### No explica claramente por qué la descendencia era «nefilim», descritos como <u>poderosos</u> y legendarios.
 
-#### Por tanto, concluimos que el pasaje de Génesis 6 habla exclusivamente del hombre y su decadencia moral. El linaje que llevaba el testimonio de Dios, el linaje de creyentes que serían los que llevaban el nombre de Dios, se entremezclaron entre incrédulos para que ya no haya (aparte de Noé y su familia) un testimonio vívido de Dios. 
+#### Por tanto, concluimos que el pasaje de Génesis 6 habla exclusivamente del hombre y su decadencia <u>moral</u>. El linaje que llevaba el testimonio de Dios, el linaje de creyentes que serían los que llevaban el nombre de Dios, se entremezclaron entre incrédulos para que ya no haya (aparte de Noé y su familia) un testimonio vívido de Dios. 
 
-#### Es por esta razón, que Dios decidió actuar y volver a empezar con Noé. Dios siempre se asegura de que haya un testimonio claro para atraer a las personas a Él. 
+#### Es por esta razón, que Dios decidió actuar y volver a empezar con Noé. Dios siempre se asegura de que haya un <u>testimonio</u> claro para atraer a las personas a Él. 
 
-#### ¿No fue Dios severo con la generación de Noé? En realidad, no fue injusto de ninguna manera. Todos merecemos morir por nuestros pecados. Sin embargo, Dios fue paciente, Noé fue pregonero de justicia. Dios estuvo anunciando, predicando su mensaje fielmente a esa generación. 1 Pedro 3:19-20; 2 Pedro 2:5
+#### ¿No fue Dios severo con la generación de Noé? En realidad, no fue injusto de ninguna manera. Todos merecemos <u>morir</u> por nuestros pecados. Sin embargo, Dios fue paciente, Noé fue pregonero de justicia. Dios estuvo anunciando, predicando su mensaje fielmente a esa generación. 1 Pedro 3:19-20; 2 Pedro 2:5
 
 ## Resumen de los 11 Toledot de Génesis
 
-### Cada sección impulsa la línea de la simiente de Génesis 3:15
+### Cada sección impulsa la línea de la <u>simiente</u> de Génesis 3:15
 
 ### 1. Toledot de los cielos y la tierra (Génesis 2:4)
 
@@ -5883,11 +5883,11 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 #### Patriarca: Adán y Eva.
 
-#### Descendencia**:** Caín, Abel, Seth.
+#### Descendencia**:** Caín, Abel, Set.
 
 #### Elegido: Seth, porque Abel muere y Caín queda descartado.
 
-#### Avance mesíanico: Se establece la línea de la simiente a través de Seth.
+#### Avance mesiánico: Se establece la línea de la simiente a través de Seth.
 
 ### 2. Toledot de Adán (Génesis 5:1)
 
@@ -5895,11 +5895,11 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 #### Patriarca: Adán.
 
-#### Descendencia**:** Línea de Seth hasta Noé.
+#### Descendencia**:** Línea de Set hasta Noé.
 
 #### Elegido: Noé, justo en una generación corrupta.
 
-#### Avance mesíanico: La línea prometida se preserva del juicio venidero.
+#### Avance mesiánico: La línea prometida se preserva del juicio venidero.
 
 ### 3. Toledot de Noé (Génesis 6:9)
 
@@ -5911,7 +5911,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 #### Elegido: Sem (Génesis 9:26).
 
-#### Avance mesíanico: Tras el diluvio, Dios concentra la línea en Sem.
+#### Avance mesiánico: Tras el diluvio, Dios concentra la línea en Sem.
 
 ### 4. Toledot de los hijos de Noé (Génesis 10:1)
 
@@ -5923,7 +5923,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 #### Elegido: La línea semítica, especialmente Arfaxad → Será → Péleg.
 
-#### Avance mesíanico: La simiente se ubica entre los pueblos semitas.
+#### Avance mesiánico: La simiente se ubica entre los pueblos semitas.
 
 ### 5**.** Toledot de Sem (Génesis 11:10)
 
@@ -5935,7 +5935,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 #### Elegido**:** Abram (dentro de la familia de Taré).
 
-#### Avance mesíanico: La simiente se dirige hacia un hombre específico llamado por Dios.
+#### Avance mesiánico: La simiente se dirige hacia un hombre específico llamado por Dios.
 
 ### 6. Toledot de Taré (Génesis 11:27)
 
@@ -5947,7 +5947,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 #### Elegido: Abraham, escogido por gracia (Génesis 12:1–3).
 
-#### Avance mesíanico: Dios formaliza la promesa: en tu simiente serán benditas todas las naciones.
+#### Avance mesiánico: Dios formaliza la promesa: en tu simiente serán benditas todas las naciones.
 
 ### 7. Toledot de Ismael (Génesis 25:12)
 
@@ -5959,7 +5959,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 #### Elegido: Ninguno; Ismael es descartado como portador de la simiente.
 
-#### Avance mesíanico: Confirma que la simiente sigue en Isaac, no en Ismael.
+#### Avance mesiánico: Confirma que la simiente sigue en Isaac, no en Ismael.
 
 ### 8. Toledot de Isaac (Génesis 25:19)
 
@@ -5971,7 +5971,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 #### Elegido**:** Jacob (Génesis 25:23), por elección soberana.
 
-#### Avance mesíanico: La línea de la simiente se separa del linaje de Esaú.
+#### Avance mesiánico: La línea de la simiente se separa del linaje de Esaú.
 
 ### 9**.** Toledot de Edom (Génesis 36:1)
 
@@ -5983,7 +5983,7 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 #### Elegido**:** Ninguno; Esaú queda fuera de la línea del pacto.
 
-#### Avance mesíanico: Aclara que la simiente no viene de Edom.
+#### Avance mesiánico: Aclara que la simiente no viene de Edom.
 
 ### 10. Toledot de Esaú, padre de Edom (Génesis 36:9)
 
