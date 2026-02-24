@@ -191,3 +191,311 @@ En cambio, el que es espiritual juzga todas las cosas; pero él no es juzgado po
 
 Porque ¿quién ha conocido la mente del Señor, para que lo instruya? Pero nosotros tenemos la mente de Cristo.
 
+### 1 Corintios 3:1
+
+Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
+
+### 1 Corintios 3:2
+
+Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden
+
+### 1 Corintios 3:3
+
+porque todavía son carnales. Pues habiendo celos y discusiones entre ustedes, ¿no son carnales y andan como hombres*del mundo?*
+
+### 1 Corintios 3:4
+
+Porque cuando uno dice: «Yo soy de Pablo», y otro: «Yo soy de Apolos», ¿no son *como* hombres *del mundo?*
+
+### 1 Corintios 3:5
+
+¿Qué es, pues, Apolos? ¿Y qué es Pablo? Servidores mediante los cuales ustedes han creído, según el Señor dio *oportunidad* a cada uno.
+
+### 1 Corintios 3:6
+
+Yo planté, Apolos regó, pero Dios ha dado el crecimiento.
+
+### 1 Corintios 3:7
+
+Así que ni el que planta ni el que riega es algo, sino Dios, que da el crecimiento.
+
+### 1 Corintios 3:8
+
+Ahora bien, el que planta y el que riega son una misma cosa, pero cada uno recibirá su propia recompensa conforme a su propio trabajo.
+
+### 1 Corintios 3:9
+
+Porque nosotros somos colaboradores en la labor de Dios, *y* ustedes son el campo de cultivo de Dios, el edificio de Dios.
+
+### 1 Corintios 3:10
+
+Conforme a la gracia de Dios que me fue dada, yo, como sabio arquitecto, puse el fundamento, y otro edifica sobre él. Pero cada uno tenga cuidado cómo edifica encima.
+
+### 1 Corintios 3:11
+
+Pues nadie puede poner otro fundamento que el que ya está puesto, el cual es Jesucristo.
+
+### 1 Corintios 3:12
+
+Ahora bien, si sobre *este* fundamento alguien edifica con oro, plata, piedras preciosas, madera, heno, paja
+
+### 1 Corintios 3:13
+
+la obra de cada uno se hará evidente; porque el día la dará a conocer, pues con fuego *será* revelada. El fuego mismo probará la calidad de la obra de cada uno.
+
+### 1 Corintios 3:14
+
+Si permanece la obra de alguien que ha edificado sobre *el fundamento,* recibirá recompensa.
+
+### 1 Corintios 3:15
+
+Si la obra de alguien es consumida *por el fuego,* sufrirá pérdida; sin embargo, él será salvo, aunque así como a través del fuego.
+
+### 1 Corintios 3:16
+
+¿No saben que ustedes son templo de Dios y que el Espíritu de Dios habita en ustedes?
+
+### 1 Corintios 3:17
+
+Si alguno destruye el templo de Dios, Dios lo destruirá a él, porque el templo de Dios es santo, y eso es lo que ustedes son.
+
+### 1 Corintios 3:18
+
+Nadie se engañe a sí mismo. Si alguien de ustedes se cree sabio según este mundo, hágase necio a fin de llegar a ser sabio.
+
+### 1 Corintios 3:19
+
+Porque la sabiduría de este mundo es necedad ante Dios. Pues escrito está: *«Él es* el que prende a los sabios en su *propia* astucia».
+
+### 1 Corintios 3:20
+
+Y también: «El Señor conoce los razonamientos de los sabios, los cuales son inútiles».
+
+### 1 Corintios 3:21
+
+Así que nadie se jacte en los hombres, porque todo es de ustedes
+
+### 1 Corintios 3:22
+
+ya sea Pablo, o Apolos, o Cefas, o el mundo, o la vida, o la muerte, o lo presente, o lo por venir, todo es suyo
+
+### 1 Corintios 3:23
+
+y ustedes de Cristo, y Cristo de Dios.
+
+### 1 Corintios 4:1
+
+Que *todo* hombre nos considere de esta manera: como servidores de Cristo y administradores de los misterios de Dios.
+
+### 1 Corintios 4:2
+
+Ahora bien, lo que se requiere además de los administradores es que *cada* uno sea hallado fiel.
+
+### 1 Corintios 4:3
+
+En cuanto a mí, es de poca importancia que yo sea juzgado por ustedes o por *cualquier* tribunal humano. De hecho, ni aun yo me juzgo a mí mismo.
+
+### 1 Corintios 4:4
+
+Porque no estoy consciente de nada en contra mía. Pero no por eso estoy sin culpa, pues el que me juzga es el Señor.
+
+### 1 Corintios 4:5
+
+Por tanto, no juzguen antes de tiempo, *sino esperen* hasta que el Señor venga, el cual sacará a la luz las cosas ocultas en las tinieblas y también pondrá de manifiesto los designios de los corazones. Entonces cada uno recibirá de parte de Dios la alabanza que le corresponda.
+
+### 1 Corintios 4:6
+
+Esto, hermanos, lo he aplicado en sentido figurado a mí mismo y a Apolos por amor a ustedes, para que en nosotros aprendan a no sobrepasar lo que está escrito, para que ninguno de ustedes se vuelva arrogante a favor del uno contra el otro.
+
+### 1 Corintios 4:7
+
+Porque ¿quién te distingue? ¿Qué tienes que no recibiste? Y si lo recibiste, ¿por qué te jactas como si no lo hubieras recibido?
+
+### 1 Corintios 4:8
+
+Ya están saciados, ya se han hecho ricos, *ya* han llegado a reinar sin *necesidad de* nosotros. Ojalá hubieran llegado a reinar, para que nosotros reináramos también con ustedes.
+
+### 1 Corintios 4:9
+
+Porque pienso que Dios nos ha exhibido a nosotros los apóstoles en último lugar, como a sentenciados a muerte. Porque hemos llegado a ser un espectáculo para el mundo, tanto para los ángeles como para los hombres.
+
+### 1 Corintios 4:10
+
+Nosotros somos necios por amor de Cristo, pero ustedes, prudentes en Cristo. Nosotros somos débiles, pero ustedes, fuertes. Ustedes son distinguidos, pero nosotros, sin honra.
+
+### 1 Corintios 4:11
+
+Hasta el momento presente pasamos hambre y sed, andamos mal vestidos, somos maltratados y no tenemos dónde vivir.
+
+### 1 Corintios 4:12
+
+Nos agotamos trabajando con nuestras propias manos. Cuando nos ultrajan, bendecimos. Cuando somos perseguidos, lo soportamos.
+
+### 1 Corintios 4:13
+
+Cuando hablan mal de nosotros, tratamos de reconciliar. Hemos llegado a ser, hasta ahora, la basura del mundo, el desecho de todo.
+
+### 1 Corintios 4:14
+
+No les escribo esto para avergonzarlos, sino para amonestarlos como a hijos míos amados.
+
+### 1 Corintios 4:15
+
+Porque aunque ustedes tengan innumerables maestros en Cristo, sin embargo no *tienen* muchos padres; pues en Cristo Jesús yo los engendré por medio del evangelio.
+
+### 1 Corintios 4:16
+
+Por tanto, los exhorto: sean imitadores míos.
+
+### 1 Corintios 4:17
+
+Por esta razón les he enviado a Timoteo, que es mi hijo amado y fiel en el Señor. Él les recordará mis caminos, los *caminos* en Cristo, tal como yo enseño en todas partes, en cada iglesia.
+
+### 1 Corintios 4:18
+
+Algunos de ustedes se han vuelto arrogantes, como si yo no hubiera de ir a verlos.
+
+### 1 Corintios 4:19
+
+Pero iré a verlos pronto, si el Señor quiere, y conoceré, no las palabras de los arrogantes sino el poder que tienen.
+
+### 1 Corintios 4:20
+
+Porque el reino de Dios no *consiste* en palabras, sino en poder.
+
+### 1 Corintios 4:21
+
+¿Qué quieren? ¿Iré a ustedes con vara, o con amor y espíritu de mansedumbre?
+
+### 1 Corintios 5:1
+
+En efecto, se oye que entre ustedes hay inmoralidad, y una inmoralidad tal como no existe ni siquiera entre los gentiles, al extremo de que alguien tiene la mujer de su padre.
+
+### 1 Corintios 5:2
+
+¡Y ustedes se han vuelto arrogantes en lugar de haberse entristecido, para que el que de entre ustedes ha cometido esta acción fuera expulsado de en medio de ustedes!
+
+### 1 Corintios 5:3
+
+Pues yo, por mi parte, aunque ausente en cuerpo pero presente en espíritu, como si estuviera presente, ya he juzgado al que cometió tal *acción.*
+
+### 1 Corintios 5:4
+
+En el nombre de nuestro Señor Jesús, cuando estén reunidos, y yo con ustedes en espíritu, con el poder de nuestro Señor Jesús
+
+### 1 Corintios 5:5
+
+entreguen a ese tal a Satanás para la destrucción de su carne, a fin de que su espíritu sea salvo en el día del Señor Jesús.
+
+### 1 Corintios 5:6
+
+La jactancia de ustedes no es buena. ¿No saben que un poco de levadura fermenta toda *la masa*?
+
+### 1 Corintios 5:7
+
+Limpien la levadura vieja para que sean masa nueva, así como *lo* son *en realidad* sin levadura. Porque aun Cristo, nuestra Pascua, ha sido sacrificado.
+
+### 1 Corintios 5:8
+
+Por tanto, celebremos la fiesta no con la levadura vieja, ni con la levadura de malicia y maldad, sino con panes sin levadura de sinceridad y de verdad.
+
+### 1 Corintios 5:9
+
+En mi carta les escribí que no anduvieran en compañía de personas inmorales.
+
+### 1 Corintios 5:10
+
+No *me refería a* la gente inmoral de este mundo, o a los codiciosos y estafadores, o a los idólatras, porque entonces tendrían ustedes que salirse del mundo.
+
+### 1 Corintios 5:11
+
+Sino que en efecto les escribí que no anduvieran en compañía de ninguno que, llamándose hermano, es una persona inmoral, o avaro, o idólatra, o difamador, o borracho, o estafador. Con esa persona, ni siquiera coman.
+
+### 1 Corintios 5:12
+
+Pues ¿por qué he de juzgar yo a los de afuera? ¿No juzgan ustedes a los que están dentro *de la iglesia*?
+
+### 1 Corintios 5:13
+
+Pero Dios juzga a los que están fuera. Expulsen al malvado de entre ustedes.
+
+### 1 Corintios 6:1
+
+¿Se atreve alguno de ustedes, cuando tiene algo contra su prójimo, a ir a juicio ante los incrédulos y no ante los santos?
+
+### 1 Corintios 6:2
+
+¿O no saben que los santos han de juzgar al mundo? Y si el mundo es juzgado por ustedes, ¿no son competentes para *juzgar* los casos más sencillos?
+
+### 1 Corintios 6:3
+
+¿No saben que hemos de juzgar a los ángeles? ¡Cuánto más asuntos de esta vida!
+
+### 1 Corintios 6:4
+
+Entonces, si tienen tribunales que juzgan los casos de esta vida, ¿*por qué* ponen por jueces a los que nada son en la iglesia?
+
+### 1 Corintios 6:5
+
+Para vergüenza suya *lo* digo. ¿*Acaso* no hay entre ustedes algún hombre sabio que pueda juzgar entre sus hermanos
+
+### 1 Corintios 6:6
+
+sino que hermano contra hermano litiga, y esto ante incrédulos?
+
+### 1 Corintios 6:7
+
+Así que, en efecto, es ya un fallo entre ustedes el hecho de que tengan litigios entre sí. ¿Por qué no sufren mejor la injusticia? ¿Por qué no ser mejor defraudados?
+
+### 1 Corintios 6:8
+
+Por el contrario, ustedes mismos cometen injusticias y defraudan, y esto aun a *sus propios* hermanos.
+
+### 1 Corintios 6:9
+
+¿O no saben que los injustos no heredarán el reino de Dios? No se dejen engañar: ni los inmorales, ni los idólatras, ni los adúlteros, ni los afeminados, ni los homosexuales
+
+### 1 Corintios 6:10
+
+ni los ladrones, ni los avaros, ni los borrachos, ni los difamadores, ni los estafadores heredarán el reino de Dios.
+
+### 1 Corintios 6:11
+
+Y esto eran algunos de ustedes; pero fueron lavados, pero fueron santificados, pero fueron justificados en el nombre del Señor Jesucristo y en el Espíritu de nuestro Dios.
+
+### 1 Corintios 6:12
+
+Todas las cosas me son lícitas, pero no todas son de provecho. Todas las cosas me son lícitas, pero yo no me dejaré dominar por ninguna.
+
+### 1 Corintios 6:13
+
+Los alimentos son para el estómago y el estómago para los alimentos, pero Dios destruirá a los dos. Sin embargo, el cuerpo no es para la fornicación, sino para el Señor, y el Señor es para el cuerpo.
+
+### 1 Corintios 6:14
+
+Y Dios, que resucitó al Señor, también nos resucitará a nosotros mediante Su poder.
+
+### 1 Corintios 6:15
+
+¿No saben que sus cuerpos son miembros de Cristo? ¿Tomaré, acaso, los miembros de Cristo y los haré miembros de una ramera? ¡De ningún modo!
+
+### 1 Corintios 6:16
+
+¿O no saben que el que se une a una ramera es un cuerpo *con ella?* Porque Él dice: «Los dos vendrán a ser una sola carne».
+
+### 1 Corintios 6:17
+
+Pero el que se une al Señor, es un espíritu *con Él*.
+
+### 1 Corintios 6:18
+
+Huyan de la fornicación. Todos *los demás* pecados que un hombre comete están fuera del cuerpo, pero el fornicario peca contra su propio cuerpo.
+
+### 1 Corintios 6:19
+
+¿O no saben que su cuerpo es templo del Espíritu Santo que está en ustedes, el cual tienen de Dios, y que ustedes no se pertenecen a sí mismos?
+
+### 1 Corintios 6:20
+
+Porque han sido comprados por un precio. Por tanto, glorifiquen a Dios en su cuerpo y en su espíritu, los cuales son de Dios.
+
