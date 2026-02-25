@@ -1,4 +1,4 @@
-# Revisión de exámenes - 2026
+# Cronograma de exámenes - 2026
 
 | #    | Materia                    | Responsable |    Estado    | Examen|
 | ---- | -------------------------- | ----------- | ------------ | -------|
