@@ -123,6 +123,8 @@ Estoy convencido precisamente de esto: que el que comenzó en ustedes la buena o
 
 #### Estoy convencido precisamente de esto:
 
+##### En base a estar agradecido con Dios, y de tener en memoria que ellos llegaron a conocer a Dios a través de la predicación del evangelio, Pablo esta totalmente convencido.
+
 #### que el que comenzó en ustedes la buena obra,
 
 #### la perfeccionará
