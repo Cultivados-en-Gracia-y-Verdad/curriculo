@@ -88,29 +88,31 @@ Este cambio indica que la carta pasa de declarar realidades establecidas a apela
 
 Si se consideran en <u>conjunto</u> las estructuras gramaticales que se repiten a lo largo de la carta —las condiciones de primera clase (premisas asumidas como verdaderas), la cadena lógica marcada por conectores como GAR, DE y OUN, los contrastes extensos y el paso del indicativo al imperativo— se observa un tema gramatical a gran escala:
 
+==Probablemente sea bueno agregar un significado aproximado en español entre "()" junto a la palabras GAR, DE, OUN. Puede que aclare un poco mejor a que se refiere con "conectores" al inicio.==
+
 Romanos se presenta como un argumento progresivo, construido sobre premisas asumidas como verdaderas, desarrollado <u>mediante</u> contrastes claros, explicado con lógica conectiva y culminando en una respuesta práctica.
 
 ## Conceptos importantes presentados en Romanos
 
-- La justicia como estatus, no como acto moral
+- La justicia como estatus, no como acto moral.
 
-- La justificación como declaración, no como proceso
+- La justificación como declaración, no como proceso.
 
-- La fe como recepción, no como producción
+- La fe como recepción, no como producción.
 
-- La presencia ante Dios como algo establecido
+- La presencia ante Dios como algo establecido.
 
-- La muerte y la resurrección como algo decisivo
+- La muerte y la resurrección como algo decisivo.
 
-- La unión con Cristo como cambio de identidad
+- La unión con Cristo como cambio de identidad.
 
-- El pecado como poder gobernante, no como meros actos
+- El pecado como poder gobernante, no como meros actos.
 
-- La ley como revelación, no como salvación
+- La ley como revelación, no como salvación.
 
-- La seguridad basada en la acción de Dios
+- La seguridad basada en la acción de Dios.
 
-- Nada queda sin resolver desde el punto de vista de Dios
+- Nada queda sin resolver desde el punto de vista de Dios.
 
 # ROMANOS 1:1–17 – Introducción y tesis del evangelio
 
@@ -154,28 +156,34 @@ Apóstol - APOSTOLO
 : Enviado con autoridad derivada; no mensajero genérico.
 
 #### apartado para el evangelio de Dios
-##### El llamado tiene un propósito definido. Pablo fue <u>apartado</u> con el fin de anunciar, promover y enseñar el evangelio. 2 Timoteo 1:9-11
+##### El llamado tiene un propósito definido. Pablo fue <u>apartado</u> por Dios con el fin de anunciar, promover y enseñar el evangelio. 2 Timoteo 1:9-11
 
-##### El evangelio no <u>procede</u> de Pablo, sino de Dios. El evangelio es de Dios, no de Pablo. 
+##### El evangelio no <u>procede</u> de Pablo, sino de Dios. Las Escrituras muestran que el evangelio es de Dios, no de Pablo, ni de ningún hombre o grupo.
 
 ### Romanos 1:2 
 que Él ya había prometido por medio de Sus profetas en las Sagradas Escrituras.
 
-#### Él ya había prometido
-##### Dios ya lo había prometido el evangelio; no era un mensaje <u>nuevo</u> revelado por Pablo.
+#### que Él ya había prometido
+##### Dios ya había prometido el evangelio; no era un mensaje <u>nuevo</u> revelado por Pablo.
 
 ##### Pablo anticipa una <u>posible</u> objeción: “¿es esto algo nuevo?”. Su respuesta es clara: no.
 
-##### El plan redentor de Dios existía desde <u>antes</u> de la fundación del mundo. 2 Timoteo 1:9
+##### El plan redentor de Dios **existía** desde <u>antes</u> de la fundación del mundo. 2 Timoteo 1:9
 
-###### Dios comenzó a anunciarlo desde el momento en que el ser humano pecó.
+###### Dios comenzó a **anunciarlo** desde el momento en que el ser humano pecó.
 
 ###### Dios mismo declaró en Génesis 3:15: *Pondré enemistad entre tú y la mujer, y entre tu <u>simiente</u> y su simiente; Él te herirá en la cabeza, y tú lo herirás en el talón.*
 
-- Se prometió que <u>sería</u> varón: *Él…*
-- Se prometió que vendría de la simiente de la <u>mujer</u>: *tu simiente…*
-- Se anunció que <u>heriría</u> la cabeza de la serpiente: *te herirá en la cabeza*
-- <u>Dios</u> mismo afirmó que Él lo haría: *Pondré enemistad… Él te herirá…*
+- Se prometió que <u>sería</u> varón: *Él…*.
+
+- Se prometió que vendría de la simiente de la <u>mujer</u>: *tu simiente…*.
+
+- Se anunció que <u>heriría</u> la cabeza de la serpiente: *te herirá en la cabeza*.
+
+- <u>Dios</u> mismo afirmó que Él lo haría: *Pondré enemistad… Él te herirá…*.
+
+  ==Creo que no queda muy claro en las notas, solo en esa partecita, esto: se indica que el evangelio ya había sido prometido desde el AT y que se comenzó a anunciar desde Génesis 3:15. Pero desde "Se prometió que sería varón...." ¿Qué es lo que sería varón? ¿La promesa? ¿El evangelio?. ==
+  ==Podría escribirse: "Se prometio un varon: *Él...*"? o "Se prometio que el Redentor sería varón". Siento como que salta a hablar de algo "evangelio" a una persona entre las notas. O creo que yo soy el que no esta entendiendo ese progreso de explicación. Pero se entiende el punto ;)==
 
 #### …por medio de Sus profetas
 ##### Dios anunció el evangelio por <u>medio</u> de Sus profetas.
@@ -196,13 +204,13 @@ que Él ya había prometido por medio de Sus profetas en las Sagradas Escrituras
 #### en las Sagradas Escrituras…
 ##### Las promesas quedaron registradas por <u>escrito</u>.
 
-##### Esto introduce la <u>autoridad</u> del texto escrito como testigo histórico. 
+##### Esto introduce la <u>autoridad</u> del Texto Escrito como testigo histórico. 
 
-##### El Texto escrito contiene las promesas de Dios y sirve como documento. 
+##### El Texto Escrito contiene las promesas de Dios y sirve como documento. 
 
-##### Las Sagradas Escrituras contienen muchas promesas pero hay una promesa que Dios prometió que resalta Pablo. 
+##### Las Sagradas Escrituras contienen muchas promesas pero hay **una promesa** que Dios prometió que resalta Pablo. 
 
-##### ¿Cuál es esa promesa? ¿De qué trata? 
+##### ¿Cuál es esa promesa? ¿De qué trata?
 
 ### Romanos 1:3
 Es el mensaje acerca de Su Hijo, que nació de la descendencia de David según la carne,
@@ -235,11 +243,11 @@ y que fue declarado Hijo de Dios con un acto de poder, conforme al Espíritu de 
 #### por la resurrección de entre los muertos: Jesucristo nuestro Señor.
 ##### <u>Jesús</u> fue levantado por el Espíritu de santidad.
 
-##### algunos comprenden la victoria de Jesús en que Él se levanto de los muertos. Esta explicación no da claridad sobre su <u>victoria</u>. Cuando dice que Cristo venció la muerte significa que Cristo venció el reinado o dominio de la muerte. 
+##### Algunos comprenden la victoria de Jesús en que Él se levanto de los muertos. Esta explicación no da claridad sobre su <u>victoria</u>. Cuando la Escritura dice que Cristo venció la muerte significa que Cristo venció el reinado o dominio de la muerte. 
 
-##### La Biblia es muy <u>claro</u> cuando aclara que Dios el Espíritu fué el que levanto a Jesús. Hechos 2:24, 3:15, 13:30
-- demuestra legítimidad de la <u>persona</u>
-- demuestra legitimidad de su <u>obra</u>
+##### La Biblia es muy <u>clara</u> cuando dice que Dios el Espíritu fue el que **levanto** a Jesús. Hechos 2:24, 3:15, 13:30
+- Demuestra la legitimidad de la <u>persona</u> de Cristo.
+- Demuestra la legitimidad de Su <u>obra</u>.
 
 ##### El Espíritu es introducido en la <u>carta</u> de una manera que será relevante para el resto de la carta. 
 
@@ -250,20 +258,22 @@ y que fue declarado Hijo de Dios con un acto de poder, conforme al Espíritu de 
 
 ##### Entonces, el mismo Espíritu de <u>santidad</u> que resucitó a Cristo es por el cual ahora podemos tener novedad de vida. Pablo se dedicará a enseñar esto en los capítulos 6 al 8. Romanos 1:4, 6:4, 8:11
 
-##### La resurrección de los <u>muertos</u> funciona como <u>punto</u> de validación. Pablo establece la veracidad inmediata e incuestionable de Jesucristo desde el início de su carta. 
+##### La resurrección de los <u>muertos</u> funciona como <u>punto</u> de validación. Pablo establece la veracidad inmediata e incuestionable de Jesucristo desde el inicio de su carta. 
 
 ### Romanos 1:4
 Es por medio de Él que hemos recibido la gracia y el apostolado para promover la obediencia a la fe entre todos los gentiles, por amor a Su nombre;
 
 #### por medio de Él hemos recibido la gracia y el apostolado…
-##### Pablo recibió la gracia y su rol de apostol por medio de Cristo.
+##### Pablo recibió la gracia y su rol de apóstol por medio de Cristo.
 
 ##### Observamos la <u>cadena</u>: Dios → Cristo → Pablo.
 
 #### para promover la obediencia a la fe entre todos los gentiles,
-##### La gracia y el apostolado <u>tenían</u> un propósito definido.
+##### La gracia y el apostolado <u>tenían</u> un propósito definido, el de Jesucristo.
 
 ##### La obediencia no es el <u>punto</u> de partida, sino el resultado.
+
+==No me queda muy claro "obediencia a la fe" ¿a que refiere con fe en este versículo?==
 
 #### por amor a Su nombre;
 ##### La obediencia que procede de la fe surge del amor a Cristo.
@@ -271,7 +281,7 @@ Es por medio de Él que hemos recibido la gracia y el apostolado para promover l
 ##### El motivo no es miedo ni <u>presión</u> externa. 
 - No hay temor en el amor porque el perfecto amor hecha fuera el temor. 1 Juan 4:18
 - Dios no nos ha dado un espíritu de temor, entonces si somos motivados por el alarmismo, es una motivación extranjera, erronea. 1 Timoteo 1:7
-    - La intimidación no es el medio que promueve obediencia a Dios. 
+    - La intimidación no es el medio que promueve obediencia a Dios, no es algo que Dios haya mostrado en las Escrituras.
 
 ### Romanos 1:6
 entre los cuales están también ustedes, llamados de Jesucristo.
@@ -295,9 +305,12 @@ A todos los amados de Dios que están en Roma, llamados a ser santos: Gracia y p
 - Aunque estén en Roma, aunque Pablo tal vez no los conoce, son amados de Dios. 
 
 #### llamados santos;
-##### En el griego original no cxiste las palabras "a ser". Pablo no <u>dice</u> que son llamados “a ser”, santos sino que ya son llamados santos.
+##### En el griego original no existen las palabras "a ser". Pablo no <u>dice</u> que son llamados “a ser”, santos sino que ya son llamados santos.
 
-##### "Los santos" es el término más utilizado en el nuevo testamento para describir a los creyentes en Jesucristo. Romanos 8:27, 12:13, 15:25-26; 1 Corintios 1:2; Efésios 1:1, 2:19
+==Si se aprueba puede remplazarse el párrafo anterior por este:==
+==En versiones como la RV60 encontramos: *llamados **a ser** de Jesucristo*. Pero en el griego original no existen las palabras "a ser". Por lo que Pablo no esta <u>indicando</u> en este versículo que son llamados “a hacerse” (o buscar ser), sino que ya son llamados santos.==
+
+##### "Los santos" es el término más utilizado en el nuevo testamento para describir a los creyentes en Jesucristo. Romanos 8:27, 12:13, 15:25-26; 1 Corintios 1:2; Efesios 1:1, 2:19
 
 ##### Este detalle prepara el <u>terreno</u> para discusiones posteriores sobre el pecado y la gracia.
 
@@ -309,10 +322,19 @@ A todos los amados de Dios que están en Roma, llamados a ser santos: Gracia y p
 ##### Romanos 1:1-7 está cuidadosamente estructurado. 
 
 ###### Pablo hace <u>cuatro</u> cosas inmediatamente:
-- Establecer autoridad (llamado apóstol)
-- Afianzar el evangelio en las Escrituras anteriores
-- Identificar a Jesús como el cumplimiento
+- Establecer autoridad (llamado apóstol).
+
+  ==Podría ser: Establece autoridad (llamado como apóstol de Cristo con un mensaje de Dios)==
+
+- Afianza el evangelio en las Escrituras anteriores.
+
+- Identifica a Jesús como el cumplimiento.
+
+  ==Podría ser: Identifica a Jesús como el cumplimiento de las promesas de Dios.==
+
 - Defiende la continuidad.
+
+  ==Podría ser: Defiende la continuidad de Dios en el plan de Redención en Su Hijo==
 
 ###### Esto es importante <u>porque</u> Romanos hablará más adelante de:
 - Ley
@@ -320,7 +342,7 @@ A todos los amados de Dios que están en Roma, llamados a ser santos: Gracia y p
 - Abraham
 - Promesa
 
-###### Así que ya en el versículo 2 señala: Este evangelio no rompe sin parte de las Escrituras.
+###### Así que ya en el versículo 2 señala que: Este evangelio no rompe sino que parte de las Escrituras.
 
 >En Síntesis (1:1–7)
 >
