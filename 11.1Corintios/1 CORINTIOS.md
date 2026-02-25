@@ -1133,7 +1133,7 @@ Pero todas estas cosas las hace uno y el mismo Espíritu, distribuyendo individu
 
 ### 1 Corintios 12:12
 
-Porque así como el cuerpo es uno, y tiene muchos miembros, pero, todos los miembros del cuerpo, aunque son muchos, constituyen un solo cuerpo ● , así también es Cristo
+Porque así como el cuerpo es uno, y tiene muchos miembros, pero, todos los miembros del cuerpo, aunque son muchos, constituyen un solo cuerpo, así también es Cristo
 
 ### 1 Corintios 12:13
 
