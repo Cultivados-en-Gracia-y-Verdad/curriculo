@@ -685,11 +685,14 @@ Por lo cual Dios los entregó a la impureza en la lujuria de sus corazones, de m
 
 ##### El texto muestra un orden: primero el rechazo de Dios como Dios, luego el colapso <u>interno</u>, y después la manifestación externa.
 
-> *“entregar”* PARADIDOMI — poner a alguien bajo el control o dominio de algo; ceder a una esfera de influencia. [^18]
+entregar - PARADIDOMI 
+: poner a alguien bajo el control o dominio de algo; ceder a una esfera de influencia. [^18]
 
-> "*Impureza*" AKATHARSIA se refiere a inmoralidad entendida como suciedad o contaminación moral, usada especialmente para pecados de carácter sexual.[^1]
+Impureza - AKATHARSIA 
+: se refiere a inmoralidad entendida como suciedad o contaminación moral, usada especialmente para pecados de carácter sexual.[^1]
 
-> "*Lujuria*" EPITHYMIA describe un deseo intenso. El término no es negativo en sí mismo, pero en el Nuevo Testamento aparece mayormente con una connotación negativa cuando el deseo está desordenado o gobernado por la carne.
+Lujuria - EPITHYMIA 
+: describe un deseo intenso. El término no es negativo en sí mismo, pero en el Nuevo Testamento aparece mayormente con una connotación negativa cuando el deseo está desordenado o gobernado por la carne.
 
 ##### Jesús usó este término para expresar un deseo profundo sin connotación pecaminosa (Lucas 22:15), lo que <u>muestra</u> que el problema no es el deseo en sí, sino su orientación y dominio.
 
@@ -722,7 +725,7 @@ Porque ellos cambiaron la verdad de Dios por la mentira, y adoraron y sirvieron 
 
 ##### El “porque” ancla el <u>juicio</u> en una causa anterior: no es arbitrariedad divina, sino respuesta coherente a un intercambio moral y espiritual.
 
-#### Romanos 1:25b "*y adoraron y sirvieron a la criatura en lugar del Creador*" 
+#### Romanos 1:25b y adoraron y sirvieron a la criatura en lugar del Creador
 ##### La deshonra del <u>cuerpo</u> está directamente relacionada con la idolatría. Al adorar y servir a lo creado en vez del Creador, la conducta humana colapsa.
 
 ##### El orden del argumento es clave: <u>primero</u> se desplaza la adoración, luego se desplaza la ética. La conducta sigue a la adoración.
@@ -740,7 +743,7 @@ Porque ellos cambiaron la verdad de Dios por la mentira, y adoraron y sirvieron 
 
 ##### Esto protege el hilo rector del evangelio: si Dios fuera injusto, el evangelio no podría ser “poder de Dios <u>para</u> salvación”; Pablo deja claro que Dios es justo aun al juzgar.
 
->En Síntesis (1:24–25)**
+>En Síntesis (1:24–25)
 >
 >- Dios entrega al hombre <u>como</u> consecuencia de su rechazo previo.
 >
@@ -3832,7 +3835,7 @@ Pero Dios demuestra su amor para con nosotros, en que siendo aún pecadores, Cri
 
 ##### El verbo implica una acción histórica verificable. El amor de Dios no se define por sentimientos, sino por hechos.
 
-// hechos que siguen hablando, ya que por ese hecho sigue demostrando su amor
+##### Hechos que siguen hablando, ya que por ese hecho sigue demostrando su amor
 
 #### en que siendo aún pecadores, Cristo murió por nosotros.
 ##### Pablo repite y profundiza la condición humana.
@@ -4659,9 +4662,7 @@ bautizo - BAPTIZO
 
 ##### El bautismo en agua es una expresión visible, aquí Pablo habla de una **identificación espiritual realizada por Dios**.
 
-##### La Biblia el concepto de bautizar para hablar de sumergir en agua pero también es usado para expresar como somos sumergido espiritualmente en Cristo. , *bautizar* se refiere a **identificar, unir, colocar dentro de** Cristo. 
-
-//falta algo después de la Biblia
+##### La Biblia usa el concepto de bautizar para hablar de sumergir en agua pero también es usado para expresar como somos sumergido espiritualmente en Cristo. , *bautizar* se refiere a **identificar, unir, colocar dentro de** Cristo. 
 
 ##### Por lo tanto, ser “*bautizados en Cristo Jesús*” significa:
 - haber sido colocados en unión con Su persona, 

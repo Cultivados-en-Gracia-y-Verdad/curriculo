@@ -1,3 +1,14 @@
+---
+title: "El Dios de la Historia"
+subtitle: "Un estudio cronológico de la revelación de Dios en la historia bíblica"
+author: "CGV"
+cover: "images/portada.png"
+version: "0.8"
+date: "2026-02-24"
+---
+
+
+
 # El Dios de la Historia
 
 # SOBRE ESTE ESTUDIO
