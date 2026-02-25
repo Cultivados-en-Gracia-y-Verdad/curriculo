@@ -49,7 +49,60 @@
 
 
 
+# Paragraph Breaks
+
+IF: 
+
+The grammatical type changes
+
+The subject focus changes
+
+The development shifts direction
 
 
 
+Detecting Development direction:
+
+Activity = what the sentence is doing grammatically.
+
+
+
+When you are unsure whether development shifts, ask three dumb questions:
+
+1. Is the grammatical formula repeating?
+2. Did the speaker role change?
+3. Did the sentence activity change (testing, declaring, explaining, commanding, assuring)?
+
+Now here’s the stabilizing sentence you were unable to write earlier:
+
+Divide where the activity of the text changes.
+
+That is your one-line rule.
+
+Not:
+
+Divide where the theme changes.
+
+Not:
+
+Divide where it feels different.
+
+But:
+
+Divide where the grammatical activity shifts.
+
+
+
+
+
+How to start: 
+
+If you train students to circle:
+
+- **if** → conditional activity
+- **but / yet** → contrast activity
+- **for / because** → explanation activity
+- **is / are** → declaration activity
+
+Then before they ever talk about meaning, they will see activity patterns.
 

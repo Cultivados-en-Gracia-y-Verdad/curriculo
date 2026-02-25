@@ -77,7 +77,7 @@ Gracia a ustedes y paz de parte de Dios nuestro Padre y del Señor Jesucristo.
 
 ##### En su saludo Pablo recuerda que la gracia y la paz solamente proviene de Dios nuestro Padre y del Señor Jesucristo.
 
-## Filipenses 1:3-11 Pablo ora para que el amor de los Filipenses abunde más y más
+## Filipenses 1:3-11 Oración a Dios por el amor de los Filipenses.
 
 ##### Siendo Dios el que había iniciado la buena obra en los Filipenses, Pablo hace una oración de agradecimiento por su participación en el evangelio, y confiado de que Dios los ira perfeccionando hasta el día de Jesucristo, su petición es por el amor que ya abundaba en ellos, pueda seguir abundando más y más en un conocimiento verdadero, y con todo discernimiento. 
 
@@ -87,10 +87,46 @@ Doy gracias a mi Dios siempre que me acuerdo de ustedes.
 
 #### Doy gracias a mi Dios
 
-##### Pablo inicia dando gracias a Dios. 
+##### Pablo inicia dando gracias a Dios, esto pone en foco a Dios y la obra que el esta realizando.
 
-##### Es interesante notar que uno de los temas de la carta, es que Pablo les escribe en respuesta del amor que ellos mostraron al enviar una ofrenda por Epafrodito. Filipenses 3:25, 30
+##### Es interesante notar que uno de los temas de la carta, es que Pablo les escribe en respuesta del amor que ellos mostraron al enviar una ofrenda por Epafrodito. Filipenses 2:25, 30
 
-##### Pero Pablo da gracias a Dios, porque Dios es el que ha estado obrando en medio de ellos.
+##### Pero al iniciar su oración dando gracias a Dios, quita el foco de lo que puede llegar a confundirse como un merito de lo filipenses y no de lo que Dios esta obrando en medio de ellos, ya que vino a la mente recuerdos de los hermanos.
 
+#### siempre que me acuerdo de ustedes.
 
+##### Hay mucho por lo cual podría recordarlos; desde el primer momento:
+
+- Lidia y su familia siendo los primeros creyentes. Hechos 16:14-15
+- El motivo por el cual fueron encarcelados y que gozo tenían de estar en cadenas. Hechos 16:17-18, 25
+- La conversión del carcelero de Filipos y de toda su familia. Hechos 16:27-34
+- La predicación del evangelio después de su encarcelamiento. 1 Tesalonicenses 2:2
+
+##### En el transcurso y culminación de su segundo viaje misionero:
+
+- El ruego de los hermanos por participar en el sustento de los siervos de Dios. 2 Corintios 8:1-5
+- El apoyo económico a Pablo después de dejar Macedonia. Filipenses 4:15
+- La ofrenda realizada a Corinto con toda Macedonia. 2 Corintios 8:1, 6
+- La ofrenda realizada para la iglesia en Jerusalén. Romanos 15:25-26
+
+##### hasta el momento en que se escribe esta carta:
+
+- El cuidado que ellos tienen por Pablo al enviar a Epafrodito. Filipenses 2:25, 30
+
+##### Este agradecimiento del abúndate amor, no es atribuida directamente a ellos, sino que al traer a memoria a los hermanos filipenses, Pablo da gracias a Dios.
+
+##### Esto tiene un propósito en toda la carta, Pablo no niega la bondad de los hermanos, pero al dar gracias a Dios inspirado por el Espíritu Santo, quiere enseñarles algo.
+
+### Filipenses 1:4
+
+Estoy convencido precisamente de esto: que el que comenzó en ustedes la buena obra, la perfeccionará hasta el día de Cristo Jesús.
+
+#### Estoy convencido precisamente de esto:
+
+##### En base a estar agradecido con Dios, y de tener en memoria que ellos llegaron a conocer a Dios a través de la predicación del evangelio, Pablo esta totalmente convencido.
+
+#### que el que comenzó en ustedes la buena obra,
+
+#### la perfeccionará
+
+#### hasta el día de Cristo Jesús.

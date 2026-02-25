@@ -4,8 +4,8 @@ set -euo pipefail
 # configure these:
 # ================================
 MANUAL_NAME="Romanos 1-8"
-FILE_LOCATION="../06.Romanos1-8/"
-FILENAME="manual.md"
+FILE_LOCATION="../02.El-Dios-de-la-Historia/"
+FILENAME="El-Dios-de-la-Historia.md"
 # ==================================
 FILE=${FILE_LOCATION}${FILENAME}
 NORMALIZED_FILE="temp/manual_normalized.md"
@@ -29,14 +29,14 @@ AUTHOR=$(pandoc "$FILE" -t json | jq -r '[.meta.author.c[] | if .t == "Str" then
 #echo "TAPA: $COVER"
 
 
-sed -e "s|<<COVER_IMAGE>>|$COVER|" \
+sed -e "s|<<COVER_IMAGE>>|${FILE_LOCATION}${COVER}|" \
     -e "s|<<MANUAL_EDITION>>|Alumno|" \
     "$STUDENT_COVER_TEMPLATE" > temp/cover_student.tex
 
 xelatex -output-directory=temp temp/cover_student.tex
 
 # Build cover for teacher
-sed -e "s|<<COVER_IMAGE>>|$COVER|" \
+sed -e "s|<<COVER_IMAGE>>|${FILE_LOCATION}${COVER}|" \
     -e "s|<<MANUAL_EDITION>>|Maestro|" \
     "$TEACHER_COVER_TEMPLATE" > temp/cover_teacher.tex
 

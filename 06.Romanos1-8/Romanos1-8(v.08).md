@@ -685,11 +685,14 @@ Por lo cual Dios los entregó a la impureza en la lujuria de sus corazones, de m
 
 ##### El texto muestra un orden: primero el rechazo de Dios como Dios, luego el colapso <u>interno</u>, y después la manifestación externa.
 
-> *“entregar”* PARADIDOMI — poner a alguien bajo el control o dominio de algo; ceder a una esfera de influencia. [^18]
+entregar - PARADIDOMI 
+: poner a alguien bajo el control o dominio de algo; ceder a una esfera de influencia. [^18]
 
-> "*Impureza*" AKATHARSIA se refiere a inmoralidad entendida como suciedad o contaminación moral, usada especialmente para pecados de carácter sexual.[^1]
+Impureza - AKATHARSIA 
+: se refiere a inmoralidad entendida como suciedad o contaminación moral, usada especialmente para pecados de carácter sexual.[^1]
 
-> "*Lujuria*" EPITHYMIA describe un deseo intenso. El término no es negativo en sí mismo, pero en el Nuevo Testamento aparece mayormente con una connotación negativa cuando el deseo está desordenado o gobernado por la carne.
+Lujuria - EPITHYMIA 
+: describe un deseo intenso. El término no es negativo en sí mismo, pero en el Nuevo Testamento aparece mayormente con una connotación negativa cuando el deseo está desordenado o gobernado por la carne.
 
 ##### Jesús usó este término para expresar un deseo profundo sin connotación pecaminosa (Lucas 22:15), lo que <u>muestra</u> que el problema no es el deseo en sí, sino su orientación y dominio.
 
@@ -722,7 +725,7 @@ Porque ellos cambiaron la verdad de Dios por la mentira, y adoraron y sirvieron 
 
 ##### El “porque” ancla el <u>juicio</u> en una causa anterior: no es arbitrariedad divina, sino respuesta coherente a un intercambio moral y espiritual.
 
-#### Romanos 1:25b "*y adoraron y sirvieron a la criatura en lugar del Creador*" 
+#### Romanos 1:25b y adoraron y sirvieron a la criatura en lugar del Creador
 ##### La deshonra del <u>cuerpo</u> está directamente relacionada con la idolatría. Al adorar y servir a lo creado en vez del Creador, la conducta humana colapsa.
 
 ##### El orden del argumento es clave: <u>primero</u> se desplaza la adoración, luego se desplaza la ética. La conducta sigue a la adoración.
@@ -740,7 +743,7 @@ Porque ellos cambiaron la verdad de Dios por la mentira, y adoraron y sirvieron 
 
 ##### Esto protege el hilo rector del evangelio: si Dios fuera injusto, el evangelio no podría ser “poder de Dios <u>para</u> salvación”; Pablo deja claro que Dios es justo aun al juzgar.
 
->En Síntesis (1:24–25)**
+>En Síntesis (1:24–25)
 >
 >- Dios entrega al hombre <u>como</u> consecuencia de su rechazo previo.
 >
@@ -3832,7 +3835,7 @@ Pero Dios demuestra su amor para con nosotros, en que siendo aún pecadores, Cri
 
 ##### El verbo implica una acción histórica verificable. El amor de Dios no se define por sentimientos, sino por hechos.
 
-// hechos que siguen hablando, ya que por ese hecho sigue demostrando su amor
+##### Hechos que siguen hablando, ya que por ese hecho sigue demostrando su amor
 
 #### en que siendo aún pecadores, Cristo murió por nosotros.
 ##### Pablo repite y profundiza la condición humana.
@@ -4659,9 +4662,7 @@ bautizo - BAPTIZO
 
 ##### El bautismo en agua es una expresión visible, aquí Pablo habla de una **identificación espiritual realizada por Dios**.
 
-##### La Biblia el concepto de bautizar para hablar de sumergir en agua pero también es usado para expresar como somos sumergido espiritualmente en Cristo. , *bautizar* se refiere a **identificar, unir, colocar dentro de** Cristo. 
-
-//falta algo después de la Biblia
+##### La Biblia usa el concepto de bautizar para hablar de sumergir en agua pero también es usado para expresar como somos sumergido espiritualmente en Cristo. , *bautizar* se refiere a **identificar, unir, colocar dentro de** Cristo. 
 
 ##### Por lo tanto, ser “*bautizados en Cristo Jesús*” significa:
 - haber sido colocados en unión con Su persona, 
@@ -4969,28 +4970,85 @@ Por tanto, no reine el pecado en su cuerpo mortal para que ustedes no obedezcan 
 
 ##### El conflicto ocurre en el **cuerpo mortal**, no en la identidad nueva. El cuerpo sigue siendo el lugar donde el pecado intenta operar, aunque ya no tenga autoridad.
 
+##### El mandato está cimentado en la realidad declarada. 
+
+###### Pablo no dice que quitemos el poder al pecado. 
+
+###### No dice que debemos eradicar deseos. 
+
+###### Tampoco dice que nunca debemos sentir tentación. 
+
+###### Dice que no lo dejemos reinar. Esto es no dejar que funcione como gobernante. Esto se trata de autoridad non existencia. El pecado puede estar presente sin obedecerlo. 
+
+###### Eso asume que algo ya ha cambiado. 
+
+##### El reinado del pecado ejerce autoridad sobre uno cuando sus deseos son obedecidos. 
+
 #### para que ustedes no obedezcan a sus lujurias
 ##### Cuando el pecado es permitido reinar en la práctica, el resultado visible es obedecer deseos que no corresponden a la nueva identidad.
 
 ##### Pablo no dice que estas lujurias definan al creyente. Dice que son el resultado de **vivir incongruentemente con la realidad ya establecida**.
 
+lujurias - EPITHUMIA
+: La palabra en sí no es inherentemente negativa. Simplemente es deseo. Puede referirse a deseo maligno, anhelo intenso, o deseo positivo. Lucas 22:15; Filipenses 1:23
+
+##### En Santiago 1:13-14:
+
+###### Dios es explícitamente excluido como fuente. La tentación ocurre “por su propio deseo”.
+
+###### Santiago no dice:
+- “De la naturaleza pecaminosa”.
+- “De Adán”.
+- “De la corrupción heredada”.
+
+###### Dice:
+- Del propio deseo.
+
+###### Hasta ahí llega la gramática. Ahora bien, inferencia: Si Dios es excluido, y el deseo puede generar pecado, entonces el deseo maligno no se origina en Dios. 
+
+##### EPITHUMIA en sí misma no es inherentemente mala. En Santiago 1, la acción pecaminosa surge del propio deseo. Se excluye explícitamente a Dios como fuente de tentación. En Romanos 6, el pecado reina y produce obediencia a sus deseos. Entonces, por inferencia, presentar los miembros al pecado resulta en obediencia a sus deseos (lujurias) y resulta en acciones pecaminosas. 
+
 ### Romanos 6:13
 ni presenten los miembros de su cuerpo al pecado como instrumentos de iniquidad, sino preséntense ustedes mismos a Dios como vivos de entre los muertos, y sus miembros a Dios como instrumentos de justicia.
 
-#### ni presenten los miembros de su cuerpo al pecado como instrumentos de iniquidad
+#### ni presenten los miembros de su cuerpo al pecado
+
+Presentar - PARISTÁNETE
+: poner a disposición de alguien.
+
 ##### Presentar los miembros es un acto consciente de disponibilidad.
 
 ##### El creyente ahora **sí tiene opción**.
+
 ##### Antes, en Adán, no la tenía.
+
+###### Pablo reduce a dos direcciones:
+- Presentas al pecado
+
+- Presentas a Dios
+
+###### Es importante entender que no hay un espacio neutral. No es posible un lugar de presentarse a Dios y al pecado a la vez o tampoco un momento de no estar presentado a ninguno. 
 
 ##### Presentar los miembros al pecado no ocurre por falta de salvación, sino por falta de contar con su nueva posición.
 
-##### sino preséntense ustedes mismos a Dios
-##### El contraste es intencional:
-- antes → presentados al pecado 
-- ahora → presentados a Dios 
+####  como instrumentos de iniquidad
 
-##### Pablo no comienza con los miembros. Comienza con la persona completa.
+##### El pecado reina cuando uno se presenta a él, el deseo aparece, acepta internamente, el cuerpo físico se mueve en cooperación. 
+
+##### Santiago dice explícitamente que el deseo da a luz al pecado. Romanos dice explícitamente que la obediencia a los deseos del pecado ocurre bajo su reinado.
+
+###### Por lo tanto, las acciones pecaminosas pueden entenderse como obediencia dentro de una estructura de dominio. Esto es una inferencia de la imagen del reinado de Pablo, no una cita directa.
+
+##### Entonces, tus miembros funcionan como herramientas dentro del reinado del pecado.
+
+#### sino preséntense ustedes mismos a Dios
+##### El contraste es intencional:
+- Antes → presentados al pecado 
+- Ahora → presentados a Dios 
+
+##### Pablo no comienza con los miembros. Comienza con la persona completa. Uno implica a nivel indentificación (ustedes mismos) y luego operacionalmente (sus miembros). 
+
+##### Presentarse a Dios no empieza por los miembros porque los miembros siguen a consecuencia de a quien estamos presentados (nosotros mismos). 
 
 #### como vivos de entre los muertos
 ##### Esta frase define **desde qué realidad** nos presentamos a Dios.
@@ -5030,8 +5088,6 @@ Porque el pecado no tendrá dominio sobre ustedes, pues no están bajo la ley si
 
 ##### Por eso el primer imperativo no es “compórtate”. Es: **cuenta con lo que Dios ya hizo**.
 
-// tal vez una explicación en cuanto a los otros imperativos: no reine, preséntense, como consecuencia de alinearse ala realidad
-
 >En Síntesis (6:11–14)
 >
 >- El primer llamado es mental, no conductual.
@@ -5047,15 +5103,15 @@ Porque el pecado no tendrá dominio sobre ustedes, pues no están bajo la ley si
 ## Romanos 6:15–19 ¿Pecaremos porque no estamos bajo la ley?
 (La libertad no elimina el señorío; lo redefine)
 
-Pablo acaba de afirmar algo radical: El creyente no está bajo la ley. El creyente está bajo la gracia. Romanos 6:14 
+##### Pablo acaba de afirmar algo radical: El creyente no está bajo la ley. El creyente está bajo la gracia. Romanos 6:14 
 
-Esta afirmación genera una nueva objeción lógica, distinta de la de Romanos 6:1.
+##### Esta afirmación genera una nueva objeción lógica, distinta de la de Romanos 6:1.
 
-En Romanos 6:1 la pregunta era: “Si la gracia sobreabunda, ¿debemos permanecer en el pecado?”
+##### En Romanos 6:1 la pregunta era: “Si la gracia sobreabunda, ¿debemos permanecer en el pecado?”
 
-En Romanos 6:15 la pregunta es más sutil:“Si ya no estamos bajo la ley, ¿significa eso que el pecado ahora es irrelevante?”
+##### En Romanos 6:15 la pregunta es más sutil:“Si ya no estamos bajo la ley, ¿significa eso que el pecado ahora es irrelevante?”
 
-El tema ya no es el **propósito** de la gracia, sino su **eficacia**.
+##### El tema ya no es el **propósito** de la gracia, sino su **eficacia**.
 
 ### Romanos 6:15 
 ¿Entonces qué? ¿Pecaremos porque no estamos bajo la ley, sino bajo la gracia? ¡De ningún modo!
