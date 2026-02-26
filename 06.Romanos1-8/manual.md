@@ -182,8 +182,8 @@ que Él ya había prometido por medio de Sus profetas en las Sagradas Escrituras
 
 - <u>Dios</u> mismo afirmó que Él lo haría: *Pondré enemistad… Él te herirá…*.
 
-  ==Creo que no queda muy claro en las notas, solo en esa partecita, esto: se indica que el evangelio ya había sido prometido desde el AT y que se comenzó a anunciar desde Génesis 3:15. Pero desde "Se prometió que sería varón...." ¿Qué es lo que sería varón? ¿La promesa? ¿El evangelio?. ==
-  ==Podría escribirse: "Se prometio un varon: *Él...*"? o "Se prometio que el Redentor sería varón". Siento como que salta a hablar de algo "evangelio" a una persona entre las notas. O creo que yo soy el que no esta entendiendo ese progreso de explicación. Pero se entiende el punto ;)==
+  ==Creo que no queda muy claro en las notas, solo en esa partecita, esto: se indica que el evangelio ya había sido prometido desde el AT y que se comenzó a anunciar desde Génesis 3:15. Pero desde "Se prometió que sería varón...." ¿Qué es lo **que sería** varón? ¿La promesa? ¿El evangelio?. ==
+  ==Podría escribirse: "Se prometio un varon: *Él...*"? o "Se prometio que el Redentor sería varón". Siento como que salta a hablar de algo "evangelio" a una persona entre las notas, no hay progreso. O creo que yo soy el que no esta entendiendo ese progreso de explicación. Pero se entiende el punto ;)==
 
 #### …por medio de Sus profetas
 ##### Dios anunció el evangelio por <u>medio</u> de Sus profetas.
@@ -307,7 +307,7 @@ A todos los amados de Dios que están en Roma, llamados a ser santos: Gracia y p
 #### llamados santos;
 ##### En el griego original no existen las palabras "a ser". Pablo no <u>dice</u> que son llamados “a ser”, santos sino que ya son llamados santos.
 
-==Si se aprueba puede remplazarse el párrafo anterior por este:==
+==Puede ser:==
 ==En versiones como la RV60 encontramos: *llamados **a ser** de Jesucristo*. Pero en el griego original no existen las palabras "a ser". Por lo que Pablo no esta <u>indicando</u> en este versículo que son llamados “a hacerse” (o buscar ser), sino que ya son llamados santos.==
 
 ##### "Los santos" es el término más utilizado en el nuevo testamento para describir a los creyentes en Jesucristo. Romanos 8:27, 12:13, 15:25-26; 1 Corintios 1:2; Efesios 1:1, 2:19
