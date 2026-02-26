@@ -365,13 +365,15 @@ En primer lugar, doy gracias a mi Dios por medio de Jesucristo por todos ustedes
 ##### Después de haber hablado de Dios como Padre <u>común</u>, Pablo ahora se expresa de <u>manera</u> personal. Manifiesta gratitud y se refiere a Dios como *mi* Dios.
 
 #### por medio de Jesucristo
-##### Pablo da gracias a Dios por <u>medio</u> de Jesucristo, quien hizo posible esta relación mediante Su obra redentora en la cruz.
+##### Pablo da gracias a Dios por <u>medio</u> de Jesucristo, quien hizo posible esta relación mediante Su obra redentora en la cruz. 1 Timoteo 2:5
 
 #### por todos ustedes,
 ##### La gratitud de Pablo no es general, sino <u>concreta</u>: agradece a Dios específicamente por los creyentes en Roma.
 
 #### porque por todo el mundo se habla de su fe.
 ##### La razón de su gratitud es que la fe de ellos era <u>conocida</u> ampliamente. No se trata de fama personal, sino del testimonio visible de su confianza en Dios.
+
+==OPCIÓN: La razón de su gratitud es que la fe de ellos era <u>conocida</u> ampliamente. La palabra fe en este pasaje se refiere a su fama personal, sino al testimonio visible de su confianza en Dios.==
 
 ##### Más adelante Pablo <u>aclarará</u> que esta fe se expresaba en obediencia. Romanos 16:19; 3 Juan 1:3; Colosenses 1:6, 23
 
@@ -382,16 +384,16 @@ Pues Dios, a quien sirvo en mi espíritu en la predicación del evangelio de Su 
 ##### Pablo describe su servicio a Dios como algo interno y sincero. Su servicio no es meramente externo, sino que brota de lo <u>profundo</u> de su ser. Hechos 18:25; Filipenses 3:3
 
 Sirvo - LATREUO
-: término usado para el servicio sacerdotal de Israel a Yahvé (Éxodo 20:5; Deuteronomio 5:9). Pablo emplea este lenguaje porque considera que el ministerio del evangelio es un servicio sagrado a Dios. También usa este término para describir el servicio de los gentiles a Dios (Romanos 12:1; compárese con 2 Timoteo 1:3).[^2]
+: Término usado para el servicio sacerdotal de Israel a Yahvé (Éxodo 20:5; Deuteronomio 5:9). Pablo emplea este lenguaje porque considera que el ministerio del evangelio es un servicio sagrado a Dios. También usa este término para describir el servicio de los gentiles a Dios (Romanos 12:1; compárese con 2 Timoteo 1:3).[^2]
 
 #### en la predicación del evangelio de Su Hijo,
 ##### El centro del servicio de Pablo era el <u>anuncio</u> del evangelio, cuyo contenido es el Hijo de Dios.
 
 - La proclamación del evangelio de Pablo no era un <u>método</u> para ser salvo.
 
-- La proclamación del evangelio no es una técnica religiosa.  Pablo no predicaba un procedimiento, sino una <u>persona</u>.
+- La proclamación del evangelio no es una técnica religiosa.  Pablo no predicaba un procedimiento, sino una <u>persona</u>, el Hijo de Dios.
 
-##### El mensaje es *de Su Hijo*. El enfoque no está en el mensajero ni en la respuesta del <u>oyente</u>.
+##### El mensaje es *de Su Hijo*. El enfoque no está en el mensajero ni en la respuesta del <u>oyente</u>, sino en el mensaje mismo.
 
 ##### La predicación del evangelio está en la persona del Hijo de Dios. Este es el mismo evangelio para el cual Pablo había sido apartado. Romanos 1:1
 
@@ -480,7 +482,7 @@ Así que, por mi parte, ansioso estoy de anunciar el evangelio también a ustede
 #### también a ustedes que están en Roma.
 ##### Aunque los romanos ya eran creyentes, Pablo desea anunciarles el evangelio.
 
-##### El evangelio no se deja atrás: los creyentes permanecen en él y <u>siguen</u> siendo edificados por su poder. 1 Corintios 15:1–2
+##### El evangelio no se deja atrás: los creyentes permanecen en él y <u>siguen</u> siendo edificados por su poder. 1 Corintios 15:1–2; Colosenses 1:3-6
 
 ## Romanos 1:16–17 Declaración central del evangelio
 
@@ -499,19 +501,19 @@ Avergüenzo - EPAISCHYNOMAI
 
 #### pues es el poder de Dios
 ##### La razón de su confianza es que el evangelio es el <u>poder</u> de Dios, no del hombre.
-- el evangelio contiene poder
-- no es poder que proviene del hombre
-- el evangelio es poder de Dios
+- El evangelio contiene poder
+- No es poder que proviene del hombre
+- El evangelio es ¡poder de Dios!
 
 ##### Todo lo que Pablo explicará a partir de aquí <u>sirve</u> para proteger y aclarar esta verdad central.
 
 #### para salvación
 ##### En Romanos, la salvación está inseparablemente <u>unida</u> al evangelio.
 
-##### La salvación no <u>procede</u> del esfuerzo humano, de la ley ni de la moralidad, sino del poder eficaz del evangelio.
+##### El libro de Romanos dice que la salvación no <u>procede</u> del esfuerzo humano, de la ley, ni de la moralidad, sino del poder eficaz del evangelio.
 
 #### de todo el que cree,
-##### El poder salvador del evangelio se <u>aplica</u> a quienes creen.
+##### El poder salvador del evangelio se <u>aplica</u> a quienes **creen**.
 
 el que cree - TO PISTEUONTI 
 : está en presente, indicando una acción continua: “al que está creyendo”.
@@ -521,11 +523,15 @@ el que cree - TO PISTEUONTI
 #### del judío primeramente y también del griego.
 ##### El <u>alcance</u> del evangelio es universal, respetando el orden histórico de la revelación.
 
+==Dios no a desechado a Israel, el pueblo judío, es más, a ellos les fue dado la Palabra de Dios antes que cualquier otra nación. Romanos 3:1-2==
+
+==Ahora en este pasaje encontramos que el poder provisto por Dios (el Evangelio) para salvación por la fe, también esta disponible para ellos y el resto del mundo por igual.==
+
 ### Romanos 1:17
 Porque en el evangelio la justicia de Dios se revela por fe y para fe, como está escrito: MAS EL JUSTO POR LA FE VIVIRÁ.
 
 #### Porque en el evangelio la justicia de Dios se revela
-##### La justicia de Dios no se <u>produce</u> por el hombre; se revela en el evangelio.
+##### La justicia de Dios no es <u>producida</u> por el hombre; **se revela** en el evangelio.
 
 Justicia - DIKAIOSYNE 
 : estado o condición de estar en conformidad con una norma correcta; rectitud reconocida según un estándar válido; puede referirse a un estatus otorgado o a una condición reconocida públicamente. [^18]
@@ -534,6 +540,13 @@ Revelar - APOKALYPTO
 : hacer visible algo que estaba oculto; quitar un velo para que algo sea perceptible o comprensible. [^18]
 
 #### por fe y para fe
+
+==¿Cómo se revela la justicia de Dios? La justicia de Dios se revela (es otorgada) a cada persona que cree. Romanos 3:22==
+
+==El pasaje es claro la Justicia de Dios es manifestada desde el momento de fe (por la fe), y hacia fe (para fe). La justicia de Dios esta asociada en este pasaje a la fe, de principio a fin.==
+
+==No hay razón para introducir otra cosa, la justicia de Dios no esta relacionada a la justicia que puede lograr el hombre, sino a su fe. La RV09 dice: *Porque en él (el evangelio) la justicia de Dios se descubre de fe en fe*==
+
 ##### La justicia se recibe por fe y <u>conduce</u> a una vida caracterizada por la fe.
 
 fe - PISTIS 
