@@ -54,3 +54,17 @@ That is disciplined navigation.
 
 
 
+
+
+
+
+1. Paste text flat.
+2. Circle/underline finite main verbs.
+3. Identify clause-level force.
+4. Detect repetition of force.
+5. Run removal test to confirm dominance.
+6. Assign paragraph type (one of four).
+7. Only then observe content.
+
+
+

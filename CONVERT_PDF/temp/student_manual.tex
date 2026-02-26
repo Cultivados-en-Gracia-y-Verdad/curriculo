@@ -4,28 +4,23 @@
 \newcommand{\ManualTitle}{Habacuc}
 \newcommand{\ManualVersion}{0.7}
 \newcommand{\ManualSubtitle}{Haré una Obra}
-\newcommand{\ManualCover}{images/portada.png}
 % ============================
 % Load the full manual template
 % ============================
 \input{manual_template.tex}
 
 % ============================
-% TEACHER VERSION SETTINGS
+% STUDENT VERSION SETTINGS
 % ============================
-% Fill-ins remain bold underlined
+% Fill-ins become blank lines
 \renewcommand{\ULthickness}{0.8pt}
+\newlength{\fillinwidth}
 \renewcommand{\fillin}[1]{%
-  \uline{\textbf{#1}}%
+  \settowidth{\fillinwidth}{\textbf{#1}}%
+  \addtolength{\fillinwidth}{2.0em} % extra space for handwriting
+  \uline{\makebox[\fillinwidth][l]{\hspace*{\fillinwidth}}}%
 }
-
-
 \begin{document}
-% Full bleed cover
-\ManualCover 
-
-% Reset margins if needed for content
-\newgeometry{top=2.5cm,bottom=2.5cm,left=2.5cm,right=2.5cm}
 .
 
 \clearpage

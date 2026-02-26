@@ -3,9 +3,9 @@ set -euo pipefail
 # ================================
 # configure these:
 # ================================
-MANUAL_NAME="Romanos 1-8"
-FILE_LOCATION="../02.El-Dios-de-la-Historia/"
-FILENAME="El-Dios-de-la-Historia.md"
+MANUAL_NAME="Habacuc"
+FILE_LOCATION="../03.Habacuc/"
+FILENAME="Habacuc-0.7.md"
 # ==================================
 FILE=${FILE_LOCATION}${FILENAME}
 NORMALIZED_FILE="temp/manual_normalized.md"

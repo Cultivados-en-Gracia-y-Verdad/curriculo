@@ -1,9 +1,10 @@
 ---
-Title: Habacuc
-Subtitle: "Haré una Obra"
-Author: "CGV"
-Version: 0.6
-Date: "2026-02-10"
+title: "Habacuc"
+subtitle: "Haré una Obra"
+author: "CGV"
+cover: "images/portada.png"
+version: "0.7"
+date: "2026-02-26"
 ---
 
 
@@ -248,8 +249,6 @@ Oráculo que tuvo en visión el profeta Habacuc.
 
 #### ¿...Y no escucharás?
 ##### Aquí aparece la primera afirmación <u>fuerte</u> del libro. Habacuc no dice: “parece que no oyes” o “no entiendo si escuchas”. Salmos 22:1-2; Lamentaciones 3:8
-
-##### Dice: *Y no escucharás*.
 
 ###### Desde su perspectiva el clamor <u>incesante</u> no ha producido respuesta de parte del Señor. Dios ha permanecido pasivo. Este es el primer punto donde la percepción de Habacuc lo lleva a una **interpretación**.
 
@@ -729,7 +728,9 @@ Entonces pasará como el viento y seguirá, Y se le tendrá por culpable, Porque
 #### Oh SEÑOR, para juicio lo has puesto
 ##### Aquí Habacuc **acepta parte de la explicación de Dios**. Él <u>reconoce</u> que Babilonia es designada y que la acción tiene un propósito, y finalmente, el juicio está destinado. Jeremías 4:27, 5:18, 25:9-14
 
-##### Esto muestra un crecimiento de la <u>comprensión</u> de Dios.  Habacuc ya no niega la acción divina. Pero la aceptación es **parcial**, no completa.
+##### Habacuc ya no niega la acción divina. **Sin embargo, el conflicto interior no ha desaparecido; la respuesta todavía no se siente como descanso.**
+
+##### Comienza a verse un crecimiento de la <u>comprensión</u> de Dios, pero la aceptación es **parcial**, no completa.
 
 ##### Nótese que este progreso de conocer a Dios por parte de Habacuc vino después de que el Señor habló. Podemos ver los versículos 1:5-11 como <u>simplemente</u> "advertencias" de juicio por parte de Dios, pero realmente era el Señor revelándose a Habacuc en base a la obra que anunció que haría.
 
@@ -954,7 +955,7 @@ Por eso ofrece sacrificio a su red Y quema incienso a su malla, Pues gracias a e
 
 ##### Habacuc 1:17, Habacuc no pide explicación. Pide **límite**. El profeta no dice: “explícame, ¿por qué haces esto?”. Dice, en esencia: "¿Habrá un <u>punto</u> donde esto se detenga?"
 
-##### Esto muestra que el problema no es <u>ignorancia</u>, sino **una justicia comparativa sostenida en el tiempo** por parte de Habacuc. Este versículo cierra la segunda queja. Termina la acusación y deja abierta la puerta para la respuesta de Dios. 
+##### Se nota que el problema no es <u>ignorancia</u>, sino **una justicia comparativa sostenida en el tiempo** por parte de Habacuc. Este versículo cierra la segunda queja. Termina la acusación y deja abierta la puerta para la respuesta de Dios. 
 
 ##### Habacuc ha llevado su lógica **hasta el final**. Ahora no queda más <u>argumento</u> humano, no queda más descripción, solo queda **esperar respuesta**.
 
@@ -994,7 +995,11 @@ Estaré en mi puesto de guardia, Y sobre la fortaleza me pondré; Velaré para v
 #### cuando sea reprendido.
 ##### La RV60 lo traduce de la <u>siguiente</u> manera: *y qué he de responder tocante a **mi queja***
 
-##### Habacuc nombra su discurso anterior con honestidad. No lo llama <u>revelación</u>, oración inspirada o palabra profética.  Lo llama "*mi queja*." Esto muestra su autoconciencia, una humildad inicial y apertura a corrección
+Habacuc nombra su discurso anterior con honestidad. No lo llama <u>revelación</u>, oración inspirada o palabra profética. Lo llama "*mi queja*."
+
+El profeta ya no habla desde confrontación pura; comienza a reconocer su propia posición delante de Dios.
+
+Esto refleja autoconciencia, una humildad inicial y apertura a corrección.
 
 ##### Aun no a cambiado de pensamiento <u>completamente</u> respecto a la manera de pensar que estuvo expresando en los anteriores versículos, pero **su razonamiento de justicia propia esta cambiando**.
 
@@ -1224,7 +1229,7 @@ Además, el vino traiciona al hombre arrogante, De modo que no se queda en casa.
 >
 >- El enfoque se desplaza del resultado al modo de vivir.
 
-# HABACUC 2:6–20 EL COLAPSO DE TODA JUSTICIA HUMANA
+# HABACUC 2:6–20 LOS AYES CONTRA EL ORGULLO QUE SE EXPANDE
 
 ## Habacuc 2:6–8 Primer ay: "El saqueador finalmente saqueado"
 
@@ -1250,7 +1255,8 @@ Además, el vino traiciona al hombre arrogante, De modo que no se queda en casa.
 
 #### ¿hasta cuándo?
 ##### Esta pregunta es clave. Es **la misma pregunta** que Habacuc hizo en 1:2, pero ahora <u>puesta</u> en boca de las naciones.
-##### Esto muestra que: la impaciencia de Habacuc no era única, el clamor <u>humano</u> es compartido, Dios no ignoró esa pregunta. La diferencia es **quién responde y cuándo**.
+
+##### La pregunta deja de ser solo la del <u>profeta</u>; el clamor se amplía y se vuelve humano y compartido. Así se percibe que la impaciencia de Habacuc no era única. Dios no ignoró esa pregunta. La diferencia es **quién responde y cuándo**.
 
 #### ¡...Y se hace rico con préstamos!
 ##### La imagen es económica y moral, implica: opresión <u>estructural</u>, dependencia forzada, enriquecimiento a costa de otros. La violencia ya no es solo militar; es **sistémica**.
@@ -1428,10 +1434,11 @@ Ciertamente la piedra clamará desde el muro, Y la viga le contestará desde el 
 ##### La violencia no es un defecto <u>posterior</u>; está **en el diseño**. El sistema nace torcido.
 
 ###### El versículo usa <u>paralelismo</u> para intensificar:
+
 - Ciudad + <u>Sangre</u>
 - <u>Pueblo</u> + Violencia
 
-##### Esto muestra que la violencia <u>sostiene</u> la estructura, la injusticia define la lógica interna, No hay contradicción entre éxito urbano y corrupción moral; coexisten.
+##### El paralelismo no deja espacio para una lectura aislada; la imagen resultante es la de un sistema que funciona así desde dentro. La violencia <u>sostiene</u> la estructura, la injusticia define la lógica interna. No hay contradicción entre éxito urbano y corrupción moral; coexisten.
 
 ##### Habacuc 2:12 establece este principio: Un orden <u>social</u> puede prosperar visiblemente mientras está moralmente condenado desde su fundamento. El crecimiento externo no es evidencia de aprobación Dios.
 
@@ -1675,7 +1682,7 @@ Pero el SEÑOR está en Su santo templo: Calle delante de Él toda la tierra
 >
 >- El silencio final es una respuesta implícita, Dios y Su palabra permanecerán para siempre.
 
-# HABACUC 3:1-19 MEMORIA Y ALABANZA ANTE LA FIDELIDAD DEL SEÑOR
+# HABACUC 3:1-19 LA ORACIÓN DEL PROFETA DESPUÉS DE ESCUCHAR A DIOS
 
 ## Habacuc 3:1 Introducción a la oración del profeta
 
@@ -2018,7 +2025,7 @@ Tu arco fue desnudado por completo, Las varas de castigo fueron juradas. (Selah)
 Te vieron los montes y temblaron, El diluvio de aguas pasó; Dio el abismo su voz, Levantó en alto sus manos.
 
 #### Te vieron los montes
-##### La creación es presentada como **testigo consciente**. No es <u>lenguaje</u> científico, sino **lenguaje relacional**. Esto muestra la relación estrecha que el Creador tiene con Su creación.
+##### La creación es presentada como **testigo consciente**. No es <u>lenguaje</u> científico, sino **lenguaje relacional**. La escena presenta una creación involucrada, no distante ni neutra. Así se percibe la relación estrecha que el Creador tiene con Su creación.
 
 ##### Los montes: No solo <u>existen</u>, no solo son sacudidos, **reconocen** la presencia de Dios.
 
@@ -2063,7 +2070,7 @@ El sol y la luna se detuvieron en su sitio; A la luz de Tus flechas se fueron, A
 #### en su sitio
 ##### No se <u>describe</u> caos desordenado. El sol y la luna no desaparecen, no colapsan, no se desintegran. **Se detienen en su lugar**.
 
-##### Esto muestra que: Dios no destruye el orden, Dios **lo gobierna en orden**. La <u>creación</u> no entra en confusión; entra en **obediencia momentánea**.
+##### La escena no comunica destrucción, sino pausa bajo autoridad. Dios no destruye el orden; **lo gobierna en orden**. La <u>creación</u> no entra en confusión; entra en **obediencia momentánea**.
 
 #### A la luz de Tus flechas se fueron
 ##### La imagen vuelve al lenguaje militar. Las “flechas”: Implican dirección, precisión, propósito definido. La luz que emiten guía el movimiento.
@@ -2102,7 +2109,7 @@ Con indignación marchaste por la tierra; Con ira pisoteaste las naciones.
 
 ##### La <u>indignación</u> no es negada, ni explicada, ni justificada. Simplemente es **afirmada**.
 
-###### Esto muestra que: La indignación de Dios es parte de Su <u>actuar</u> histórico, no es incompatible con Su santidad, no es contraria a Su propósito redentor. Habacuc ya no discute la indignación; la **reconoce**.
+###### El tono ya no es de discusión, sino de reconocimiento; la resistencia comienza a ceder aunque la tensión permanezca. La indignación de Dios aparece como parte de Su <u>actuar</u> histórico. No es incompatible con Su santidad ni contraria a Su propósito redentor. Habacuc ya no discute la indignación; la **reconoce**.
 
 #### por la tierra
 ##### El objeto es amplio. No se <u>limita</u> a: Una ciudad, una nación, un enemigo específico.

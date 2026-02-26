@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  24 FEB 2026 17:29
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  26 FEB 2026 14:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -565,8 +565,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 
 File: images/cgv-logo.png Graphic file (type bmp)
 <images/cgv-logo.png>
-File: ../02.El-Dios-de-la-Historia/images/portada.png Graphic file (type bmp)
-<../02.El-Dios-de-la-Historia/images/portada.png>
+File: ../03.Habacuc/images/portada.png Graphic file (type bmp)
+<../03.Habacuc/images/portada.png>
 [1
 
 ] (temp/cover_teacher.aux)
@@ -581,7 +581,7 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
  ) 
 Here is how much of TeX's memory you used:
  14577 strings out of 473832
- 343916 string characters out of 5729482
+ 343781 string characters out of 5729482
  740998 words of memory out of 5000000
  37429 multiletter control sequences out of 15000+600000
  558925 words of font info for 47 fonts, out of 8000000 for 9000
