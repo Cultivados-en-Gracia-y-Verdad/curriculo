@@ -581,9 +581,9 @@ Toda la creación —<u>cada</u> molécula— depende completamente de Dios para
 
 Si Dios es verdaderamente <u>bueno</u>, justo y puro, surge una pregunta inevitable: ¿cómo debe responder Dios ante la injusticia del hombre?
 
-Pablo no comienza con el <u>castigo</u>, sino con una pregunta moral implícita. Si Dios es justo, Su respuesta al mal no puede ser indiferente. Esta pregunta prepara el terreno para entender por qué la ira de Dios no contradice el evangelio, sino que hace necesario su poder salvador.
+Pablo no comienza con el <u>castigo</u>, sino con una pregunta moral implícita. Si Dios es justo, Su respuesta al mal no puede ser indiferente. Esta pregunta prepara el terreno para entender por qué la ira de Dios **no contradice** el evangelio, sino que hace necesario su poder salvador.
 
-Pablo comienza presentando la culpabilidad <u>humana</u> de manera general y, de forma progresiva, la hace cada vez más personal. Su objetivo es demostrar que toda la humanidad es culpable delante de Dios y que Dios es imparcialmente justo con todo ser humano.
+Pablo comienza presentando la culpabilidad <u>humana</u> de manera general y, de forma progresiva, la hace cada vez más personal. Su objetivo es **demostrar** que toda la humanidad es culpable delante de Dios y que Dios es imparcialmente justo con todo ser humano.
 
 **Progresión del argumento de culpabilidad en Romanos**
 
@@ -610,14 +610,18 @@ Porque la ira de Dios se revela desde el cielo contra toda impiedad e injusticia
 Ira - ORGE 
 : reacción estable y deliberada frente a lo que viola un orden establecido; no un arrebato emocional, sino una respuesta consistente frente a una transgresión objetiva. [^18]
 
+##### ==La expresión *desde el cielo* hace énfasis en el origen, "de dónde" y "de quién" proviene. Esta ira no viene de ningún hombre ni de la tierra. Esta ira se manifiesta del Dios Justo, que esta en los cielos, sobre todo y todos.==
+
 #### ...contra toda impiedad e injusticia de los hombres
-##### La ira de Dios no se dirige contra la humanidad como creación, sino contra la impiedad y la <u>injusticia</u> humanas. Esto muestra que el problema no es existir como ser humano, sino vivir en oposición a Dios.
+##### La ira de Dios no se dirige contra la humanidad como creación, sino contra la impiedad y la <u>injusticia</u> humana, esto en base al carácter justo de Dios. Esto muestra que el problema no es existir como ser humano, sino vivir en oposición a Dios.
 
 Impiedad - ASEBEIA 
 : conducta caracterizada por falta de reverencia o reconocimiento debido; vivir sin considerar una autoridad superior. [^18]
 
 #### que con injusticia restringen la verdad
 ##### La humanidad no solo ignora la verdad, <u>sino</u> que activamente la suprime. El problema no es falta de información, sino resistencia moral.
+
+==opción: La humanidad no solo ignora la verdad, <u>sino</u> que activamente la suprime. El problema no es falta de conocer la verdad, sino su conducta que va en contra de ella.==
 
 injusticia - ADIKIA 
 : comportamiento que viola lo que es correcto o debido; desviación activa del estándar recto. [^18]
@@ -639,7 +643,9 @@ Evidente - FANEROS
 #### pues Dios se lo hizo evidente
 ##### El conocimiento de Dios no es producto del ingenio humano. Dios <u>mismo</u> tomó la iniciativa de hacerlo evidente. Esto refuerza la responsabilidad humana.
 
-##### El hombre no descubre la verdad sin que es revelada por Dios. 
+==Opción: El conocimiento de Dios no es producto del ingenio humano. Dios <u>mismo</u> tomó la iniciativa de hacerlo evidente. Esto refuerza la responsabilidad humana ya que Dios no oculto la verdad (quién es Él) al hombre, es él quien la ignora.==
+
+##### El hombre no descubre la verdad sino que es revelada por Dios. 
 
 ### Romanos 1:20
 Porque desde la creación del mundo, Sus atributos invisibles, Su eterno poder y divinidad, se han visto con toda claridad, siendo entendidos por medio de lo creado, de manera que ellos no tienen excusa.
@@ -648,19 +654,21 @@ Porque desde la creación del mundo, Sus atributos invisibles, Su eterno poder y
 ##### Desde el inicio mismo de la creación, Dios ha estado revelándose. No se trata de una revelación <u>tardía</u> ni limitada a un grupo especial.
 
 #### Sus atributos invisibles
-##### Aunque Dios es invisible, Él ha hecho perceptibles <u>ciertos</u> atributos por medio de lo creado. Salmo 19:1–6
+##### Aunque Dios es invisible, Él ha hecho perceptibles <u>ciertos</u> atributos por medio de lo que Él mismo creó. Salmo 19:1–6
 
 #### Su eterno poder y divinidad
-##### Pablo especifica <u>cuáles</u> atributos son evidentes: poder eterno y divinidad. La creación testifica que Dios es poderoso y distinto de lo creado. Jeremías 51:15
+##### Pablo especifica <u>cuáles</u> atributos son evidentes: Su poder eterno y Su divinidad. La creación testifica que Dios es **poderoso y distinto** de lo creado. Jeremías 51:15
 
 #### se han visto con toda claridad
-#### La revelación no es ambigua ni <u>confusa</u>. El problema nunca fue falta de claridad.
+##### La revelación de Dios no es ambigua ni <u>confusa</u>. El problema nunca fue falta de claridad, Pablo mostrará enseguida cual era el verdadero problema.
 
 #### siendo entendidos por medio de lo creado
 ##### La creación comunica información real y comprensible acerca de Dios. El ser humano <u>puede</u> entenderla racionalmente.
 
 #### de manera que ellos no tienen excusa
 ##### La conclusión de Pablo es definitiva: no hay <u>defensa</u> válida. La revelación fue suficiente, continua y universal. El problema no es revelacional, sino moral. Romanos 1:18
+
+==opción: La conclusión de Pablo es definitiva: no hay <u>defensa</u> válida del hombre para su impiedad e injusticia delante de Dios. Su manifestación fue suficiente, continua y universal. El problema no es la revelación de Dios, sino la conducta del hombre ante esa revelación. Romanos 1:18==
 
 ### Romanos 1:21
 Pues aunque conocían a Dios, no lo honraron como a Dios ni le dieron gracias, sino que se hicieron vanos en sus razonamientos y su necio corazón fue entenebrecido.
@@ -674,8 +682,10 @@ Conocer - GINOSKO
 #### sino que se hicieron vanos en sus razonamientos
 ##### Al rechazar a Dios, el pensamiento humano <u>pierde</u> propósito y dirección. El problema no es falta de capacidad intelectual, sino una mente desconectada de la verdad.
 
+==Al rechazar la verdad, la revelación de Dios, indica un enfoque a lo que no es verdad, la mentira. En ese caso, cualquiera sea el razonamiento de parte del hombre será en torno a la mentira, será vano.==
+
 #### y su necio corazón fue entenebrecido
-##### El corazón <u>pierde</u> capacidad de discernimiento espiritual. La oscuridad es consecuencia, no causa inicial.
+##### El corazón <u>pierde</u> capacidad de discernimiento espiritual. La oscuridad es consecuencia del rechazo a la verdad, no una condición inicial.
 
 ### Romanos 1:22
 Profesando ser sabios, se volvieron necios,
@@ -695,6 +705,8 @@ y cambiaron la gloria del Dios incorruptible por una imagen en forma de hombre c
 #### y de aves, de cuadrúpedos y de reptiles
 ##### La idolatría se degrada progresivamente, reflejando la <u>confusión</u> moral y espiritual del ser humano.
 
+##### ==El rechazo del hombre a la verdad de Dios, no queda en un resultado neutro, lo lleva a la mentira, a una mente oscurecida. Y esto resultará en cambiar la gloria incorruptible de Dios (la verdad) a honrar una imagen corruptible de la creación bajo maldición (una mentira).==
+
 >En Síntesis (1:18–23)
 >
 >- La ira de Dios se revela porque la <u>verdad</u> ha sido rechazada, no porque haya estado ausente.
@@ -713,10 +725,10 @@ y cambiaron la gloria del Dios incorruptible por una imagen en forma de hombre c
 ### Romanos 1:24
 Por lo cual Dios los entregó a la impureza en la lujuria de sus corazones, de modo que deshonraron entre sí sus propios cuerpos.
 
-#### Romanos 1:24a "*Por lo cual Dios los entregó a la impureza en la lujuria de sus corazones*" 
+#### Por lo cual Dios los entregó a la impureza en la lujuria de sus corazones
 ##### Dios responde a la injusticia del hombre entregándolos, o dejándolos, a la impureza que ya dominaba los <u>deseos</u> de sus corazones. La acción divina no introduce un mal nuevo, sino que retira el freno, permitiendo que los deseos internos se expresen plenamente.
 
-##### Esta “entrega” debe leerse como consecuencia del intercambio previo (Romanos 1:23) y de la supresión de la <u>verdad</u> (Romanos 1:18), no como el inicio del problema.
+##### Esta “entrega” debe leerse como **consecuencia** del intercambio previo (Romanos 1:23) y de la supresión de la <u>verdad</u> (Romanos 1:18), no como el inicio del problema.
 
 ##### El texto muestra un orden: primero el rechazo de Dios como Dios, luego el colapso <u>interno</u>, y después la manifestación externa.
 
@@ -813,6 +825,10 @@ Degradantes - ATIMIA
 
 ##### El punto del texto no es <u>presentar</u> una “nueva libertad”, sino una esclavitud más profunda: pasiones que ahora dictan valor y conducta.
 
+==El hecho de ignorar la verdad de Dios (Su poder y divinidad) los llevo a una mente de vana y ciega. Que los llevo a la adoración de la mentira (idolatría). Pero no se queda ahí, esto los llevo a la deshonra de su cuerpo, a ir en contra de lo que Dios había instituido (el matrimonio).==
+
+==El rechazo del hombre a la revelación de Dios no resulta en pequeñas partes de la vida contra Dios, sino en una vida de completa oposición y rechazo a Él y Su voluntad. La ira de Dios se revela contra ello, Él esta completamente en contra. Es lo que el hombre debe también saber.==
+
 #### porque sus mujeres cambiaron la función natural por la que es contra la naturaleza.
 ##### Pablo aclara que este cambio no es <u>resultado</u> del diseño original ni de un proceso natural de la creación.
 
@@ -845,15 +861,21 @@ De la misma manera también los hombres, abandonando el uso natural de la mujer,
 
 ##### El extravío se evidencia en el colapso de los valores, impulsado por deseos pecaminosos que <u>ahora</u> determinan lo que se considera aceptable.
 
+==Su castigo es experimentar aquella realidad (vida vana y oscura) que resulto de su mismo rechazo a la verdad de Dios. Pero el juicio de Dios no solo se limitará al castigo en su vida terrenal como veremos a continuación.????==
+
 >En Síntesis (1:26–27)**
 >
 >- La segunda entrega <u>afecta</u> el sistema de valores humanos.
 >
 >- Se invierte lo que se considera <u>natural</u> y correcto.
 >
+>  ==Se invierte lo que se es <u>natural</u> y correcto. (lo establecido por Dios)==
+>
 >- El problema ya no es <u>solo</u> la conducta, sino el criterio moral.
 >
 >- El pecado redefine lo que se <u>honra</u> y lo que se rechaza.
+>
+>  ==No entiendo muy bien que eso del pecado redefine...==
 >
 >- El colapso de <u>valores</u> revela una corrupción más profunda.
 
@@ -936,14 +958,14 @@ Ellos, aunque conocen el decreto de Dios que los que practican tales cosas son d
 >- Romanos 1 concluye el diagnóstico del <u>mundo</u> sin ley.
 >
 >- Romanos 1 presenta <u>una</u> progresión clara:
+>  - Rechazo de la <u>verdad</u>
 >
->- rechazo de la <u>verdad</u>
+>  - Colapso de la <u>conducta</u>
 >
->- colapso de la <u>conducta</u>
+>  - Colapso de los <u>valores</u>
 >
->- colapso de los <u>valores</u>
+>  - Colapso de la <u>cosmovisión</u>
 >
->- colapso de la <u>cosmovisión</u>
 
 ## Romanos 2:1–5 – Juicio sobre el que juzga
 (Juzgar a otros no <u>exime</u> al hombre del juicio de Dios)
