@@ -8,11 +8,19 @@
 \usepackage{longtable}
 \usepackage{graphicx}
 
-
+% Images use
+\usepackage{grffile}
+\setkeys{Gin}{keepaspectratio}
 % ============================
 % FONT SETUP
 % ============================
 % === Visual Style Variables ===
+\usepackage{fontspec}
+%\usepackage[Latin,Greek]{ucharclasses}
+\usepackage{ucharclasses}
+\newfontfamily\GreekFont{Gentium Plus}
+\setTransitionsForGreek{\GreekFont}{}
+
 \newcommand{\AnchorColor}{black!70}
 \newcommand{\ScriptureColor}{black!98}
 \newcommand{\CommentColor}{black!70}
@@ -32,6 +40,10 @@
   BoldFont    = IBMPlexSerif-SemiBold.ttf,
   BoldItalicFont = IBMPlexSerif-BoldItalic.ttf
 ]{IBM Plex Serif}
+% greek
+%\newfontfamily\GreekFont{Gentium Plus}
+%\setTransitionsForGreek{\begingroup\GreekFont}{\endgroup}
+
 
 \newfontfamily\BodyFont[
   Path = /Users/johnwry/Library/Fonts/,
@@ -165,7 +177,7 @@
 \newenvironment{paraHone}
   {\begin{adjustwidth}{0pt}{}%
    \color{\BodyColor}%
-   \setstretch{1.25}% ← THIS is the key
+   \setstretch{1.20}% ← THIS is the key
    \setlength{\parskip}{0pt}%
    \setlength{\parindent}{0pt}%
    \vspace{2pt}%
@@ -241,7 +253,10 @@
   }%
   \thispagestyle{empty}\clearpage
 }
-  
+% for table use
+\newcounter{none}
+\usepackage{longtable}
+\usepackage{booktabs} 
 % ============================
 % OUTLINE FORMATTING (Load external)
 % ============================

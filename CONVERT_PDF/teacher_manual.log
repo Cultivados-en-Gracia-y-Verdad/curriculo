@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  26 FEB 2026 14:33
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  6 MAR 2026 15:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -671,6 +671,12 @@ Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
 \c@LT@chunks=\count342
 \LT@p@ftn=\toks42
 )
+(/usr/local/texlive/2025/texmf-dist/tex/latex/grffile/grffile.sty
+Package: grffile 2019/11/11 v2.1 Extended file name support for graphics (legac
+y)
+Package grffile Info: This package is an empty stub for compatibility on input 
+line 40.
+)
 
 Package fontspec Info: 
 (fontspec)             Font family 'IBMPlexSerif(0)' created for font 'IBM
@@ -763,6 +769,28 @@ Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
 \ESO@tempdima=\dimen292
 \ESO@tempdimb=\dimen293
 )
+\c@none=\count348
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen294
+\lightrulewidth=\dimen295
+\cmidrulewidth=\dimen296
+\belowrulesep=\dimen297
+\belowbottomsep=\dimen298
+\aboverulesep=\dimen299
+\abovetopsep=\dimen300
+\cmidrulesep=\dimen301
+\cmidrulekern=\dimen302
+\defaultaddspace=\dimen303
+\@cmidla=\count349
+\@cmidlb=\count350
+\@aboverulesep=\dimen304
+\@belowrulesep=\dimen305
+\@thisruleclass=\count351
+\@lastruleclass=\count352
+\@thisrulewidth=\dimen306
+)
 (./outline.tex
 (/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
@@ -798,15 +826,15 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
  (/usr/local/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count348
+\c@section@level=\count353
 )
 (/usr/local/texlive/2025/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\@linkdim=\dimen294
-\Hy@linkcounter=\count349
-\Hy@pagecounter=\count350
+\@linkdim=\dimen307
+\Hy@linkcounter=\count354
+\Hy@pagecounter=\count355
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
@@ -814,7 +842,7 @@ File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
 (/usr/local/texlive/2025/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count351
+\Hy@SavedSpaceFactor=\count356
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
@@ -826,14 +854,14 @@ Package hyperref Info: Plain pages OFF on input line 4172.
 Package hyperref Info: Backreferencing OFF on input line 4177.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4424.
-\c@Hy@tempcnt=\count352
+\c@Hy@tempcnt=\count357
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4763.
-\XeTeXLinkMargin=\dimen295
+\XeTeXLinkMargin=\dimen308
 
 (/usr/local/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -842,9 +870,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count353
-\Field@Width=\dimen296
-\Fld@charsize=\dimen297
+\Fld@menulength=\count358
+\Field@Width=\dimen309
+\Fld@charsize=\dimen310
 Package hyperref Info: Hyper figures OFF on input line 6042.
 Package hyperref Info: Link nesting OFF on input line 6047.
 Package hyperref Info: Hyper index ON on input line 6050.
@@ -857,19 +885,19 @@ Package hyperref Info: PDF/A mode OFF on input line 6072.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count354
-\c@Item=\count355
-\c@Hfootnote=\count356
+\Hy@abspage=\count359
+\c@Item=\count360
+\c@Hfootnote=\count361
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hxetex.def
 File: hxetex.def 2024-11-05 v7.01l Hyperref driver for XeTeX
 \pdfm@box=\box92
-\c@Hy@AnnotLevel=\count357
-\HyField@AnnotCount=\count358
-\Fld@listcount=\count359
-\c@bookmark@seq@number=\count360
+\c@Hy@AnnotLevel=\count362
+\HyField@AnnotCount=\count363
+\Fld@listcount=\count364
+\c@bookmark@seq@number=\count365
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
@@ -942,8 +970,8 @@ ine 162.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/footmisc/footmisc.sty
 Package: footmisc 2024/12/24 v6.0g a miscellany of footnote facilities
 \FN@temptoken=\toks45
-\footnotemargin=\dimen298
-\@outputbox@depth=\dimen299
+\footnotemargin=\dimen311
+\@outputbox@depth=\dimen312
 Package footmisc Info: Declaring symbol style bringhurst on input line 699.
 Package footmisc Info: Declaring symbol style chicago on input line 707.
 Package footmisc Info: Declaring symbol style wiley on input line 716.
@@ -956,26 +984,26 @@ Package footmisc Info: Declaring symbol style lamport*-robust on input line 768
 (./teacher_manual.aux)
 \openout1 = `teacher_manual.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1018,65 +1046,65 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 23.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 23.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 23.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 23.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 23.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 23.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 23.
-LaTeX Font Info:    Redeclaring math accent \check on input line 23.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 23.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 23.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 23.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 23.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 24.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 24.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 24.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 24.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 24.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 24.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 24.
+LaTeX Font Info:    Redeclaring math accent \check on input line 24.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 24.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 24.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 24.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 24.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 23.
+(Font)              `operators' in the math version `normal' on input line 24.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/IBMPlexSerif(0)/m/n on input line 23
+(Font)                  OT1/cmr/m/n --> TU/IBMPlexSerif(0)/m/n on input line 24
 .
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 23.
+(Font)              `operators' in the math version `bold' on input line 24.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/IBMPlexSerif(0)/m/n on input line 2
-3.
+4.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/IBMPlexSerif(0)/m/n --> TU/IBMPlexSerif(0)/m/n on in
-put line 23.
+put line 24.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/IBMPlexSerif(0)/m/it on input line 
-23.
+24.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/IBMPlexSerif(0)/b/n on input line 2
-3.
+4.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 23.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 24.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 23.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 24.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/IBMPlexSerif(0)/m/n --> TU/IBMPlexSerif(0)/b/n on in
-put line 23.
+put line 24.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/IBMPlexSerif(0)/b/it on input line
- 23.
+ 24.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 23.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 24.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 23.
-\c@lstlisting=\count361
-Package hyperref Info: Link coloring ON on input line 23.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 24.
+\c@lstlisting=\count366
+Package hyperref Info: Link coloring ON on input line 24.
 (./teacher_manual.out) (./teacher_manual.out)
 \@outlinefile=\write5
 \openout5 = `teacher_manual.out'.
@@ -1130,25 +1158,25 @@ File: images/cgv.png Graphic file (type bmp)
 [3
 
 ]
-Overfull \hbox (11.16447pt too wide) in paragraph at lines 66--70
+Overfull \hbox (11.16447pt too wide) in paragraph at lines 67--71
 []\TU/IBMPlexSerif(0)/m/n/10.95 Este manual ha sido desarrollado para enseñar l
 a Escritura de manera textual, progresiva
  []
 
 
-Overfull \hbox (41.9021pt too wide) in paragraph at lines 66--70
+Overfull \hbox (41.9021pt too wide) in paragraph at lines 67--71
 \TU/IBMPlexSerif(0)/m/n/10.95 y consciente del lenguaje. Su propósito principal
  es ayudar al lector a observar cuidadosamente
  []
 
 
-Overfull \hbox (37.95186pt too wide) in paragraph at lines 91--95
+Overfull \hbox (37.95186pt too wide) in paragraph at lines 92--96
 []\TU/IBMPlexSerif(0)/m/n/10.95 El contenido está organizado para seguir el flu
 jo y el desarrollo del Texto bíblico, presentándolo
  []
 
 
-Overfull \hbox (25.2961pt too wide) in paragraph at lines 99--102
+Overfull \hbox (25.2961pt too wide) in paragraph at lines 100--103
 \TU/IBMPlexSerif(0)/m/n/10.95 antes de exhortar conductas. Por ello, este manua
 l enseña primero a observar y comprender
  []
@@ -1158,1929 +1186,1035 @@ l enseña primero a observar y comprender
 [4
 
 ]
+Missing character: There is no ᾿ (U+1FBF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Ε (U+0395) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ν (U+03BD) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ἀ (U+1F00) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ρ (U+03C1) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no χ (U+03C7) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ῇ (U+1FC7) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ἦ (U+1F26) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ν (U+03BD) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ὁ (U+1F41) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Λ (U+039B) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no κ (U+03BA) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no α (U+03B1) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ὶ (U+1F76) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ὁ (U+1F41) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Λ (U+039B) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ἦ (U+1F26) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ν (U+03BD) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ρ (U+03C1) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ὸ (U+1F78) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no τ (U+03C4) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ὸ (U+1F78) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ν (U+03BD) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Θ (U+0398) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ε (U+03B5) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ν (U+03BD) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no κ (U+03BA) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no α (U+03B1) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ὶ (U+1F76) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Θ (U+0398) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ε (U+03B5) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ὸ (U+1F78) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ἦ (U+1F26) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ν (U+03BD) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ὁ (U+1F41) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Λ (U+039B) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (35.7336pt too wide) in paragraph at lines 124--126
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Este manual no |   [] para producir expertos. E
+xiste para producir estudiantes disciplinados.
+ []
+
+
+Overfull \hbox (29.64078pt too wide) in paragraph at lines 161--163
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Cuando abrimos una Biblia en español estamos le
+yendo una traducción |   [], cuidadosamente
+ []
+
+
 
 [5
 
 ]
-Overfull \hbox (16.32437pt too wide) in paragraph at lines 154--156
-\TU/IBMPlexSerif(0)/m/n/10.95 profeta. Tampoco comienza con una explicación div
-ina, sino con una descripción humana
- []
+Missing character: There is no λ (U+03BB) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
-
-Overfull \hbox (1.15253pt too wide) in paragraph at lines 166--167
-[]\TU/IBMPlexSerif(0)/m/n/10.95 El problema no es que Habacuc esté |   [] una c
-risis, sino que \TU/IBMPlexSerif(0)/b/n/10.95 está interpretando
- []
-
-
-Overfull \hbox (6.97673pt too wide) in paragraph at lines 179--181
-|   [] \TU/IBMPlexSerif(2)/m/it/10.95 «qué» \TU/IBMPlexSerif(0)/m/n/10.95 hará.
- Antes de responder a la justicia humana, Dios establece Su soberanía. 
- []
-
-
-Overfull \hbox (17.79073pt too wide) in paragraph at lines 190--192
-\TU/IBMPlexSerif(0)/m/n/10.95 lo tanto, Judá debería ser tratada con mayor indu
-lgencia, Ese razonamiento
+Overfull \hbox (5.32814pt too wide) in paragraph at lines 213--213
+\TU/IBMPlexSerif(0)/m/n/10.95 Cuando una palabra griega aparece en una herramie
+nta, normalmente estás |   [] tres cosas: 
  []
 
 
 
 [6]
-Overfull \hbox (20.22626pt too wide) in paragraph at lines 201--201
-|\TU/IBMPlexSerif(0)/b/n/10.95 Este libro no resuelve la tensión , la sostiene.
- Habacuc no recibe una explicación
+Overfull \hbox (14.07205pt too wide) in paragraph at lines 234--236
+[]\TU/IBMPlexSerif(0)/m/n/10.95 En muchos contextos cristianos se escucha: “En 
+el |   [] original esta palabra significa…”
  []
 
 
-Overfull \hbox (8.86966pt too wide) in paragraph at lines 201--201
-\TU/IBMPlexSerif(0)/b/n/10.95 que |   [] todo. Recibe una redefinición de cómo 
-se vive cuando la justicia
- []
-
-
-Overfull \hbox (1.82788pt too wide) in paragraph at lines 224--227
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc comienza midiendo a Dios según su senti
-do de justicia. Y termina confiándose
- []
-
-
-Overfull \hbox (8.85283pt too wide) in paragraph at lines 224--227
-\TU/IBMPlexSerif(0)/m/n/10.95 a Dios a pesar de una justicia no resuelta. Entre
- esos dos puntos, ocurre la |   [].
+Overfull \hbox (18.5741pt too wide) in paragraph at lines 240--242
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Y como todo |   []: - Las palabras cambian de |
+   []. - El |   [] determina significado.
  []
 
 
 
 [7]
-Overfull \hbox (2.45848pt too wide) in paragraph at lines 301--304
-\TU/IBMPlexSerif(0)/m/n/10.95 corrupción abierta, liderazgo explotador, falsa s
-eguridad religiosa, Habacuc \TU/IBMPlexSerif(0)/b/n/10.95 no exagera
- []
-
-
-Overfull \hbox (3.05783pt too wide) in paragraph at lines 334--337
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Cuando Dios menciona a Babilonia: no la present
-a como justa, no la limpia moralmente,
- []
-
-
-Overfull \hbox (3.86475pt too wide) in paragraph at lines 334--337
-\TU/IBMPlexSerif(0)/m/n/10.95 no la convierte en modelo. La describe tal como e
-s: violenta, |   [], auto-legitimada
- []
-
+Missing character: There is no ἀ (U+1F00) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ά (U+03AC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no η (U+03B7) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no λ (U+03BB) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no έ (U+03AD) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ε (U+03B5) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ι (U+03B9) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ἐ (U+1F10) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no σ (U+03C3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no τ (U+03C4) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ί (U+03AF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ν (U+03BD) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no λ (U+03BB) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [8]
-Overfull \hbox (13.99174pt too wide) in paragraph at lines 354--354
-\TU/IBMPlexSerif(0)/m/n/10.95 primera pregunta real del libro: ¿La realidad de 
-las |   [] pueden llevar una conclusión
- []
-
-
-
+Missing character: There is no λ (U+03BB) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ἀ (U+1F00) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ά (U+03AC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no η (U+03B7) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no θ (U+03B8) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ε (U+03B5) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ἐ (U+1F10) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no σ (U+03C3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no τ (U+03C4) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ί (U+03AF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ν (U+03BD) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no α (U+03B1) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Α (U+0391) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no β (U+03B2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Β (U+0392) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Γ (U+0393) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no δ (U+03B4) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Δ (U+0394) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ε (U+03B5) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Ε (U+0395) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ζ (U+03B6) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Ζ (U+0396) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no η (U+03B7) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Η (U+0397) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 [9]
-Overfull \hbox (29.70428pt too wide) in paragraph at lines 404--404
- []\TU/IBMPlexSerif(0)/m/n/10.95 El libro no intenta: defender a Habacuc, |   [
-] su postura, advertir que está equivocado,
- []
-
-
-Overfull \hbox (26.21922pt too wide) in paragraph at lines 426--426
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc es identificado como profeta antes que 
-como observador. 
- []
-
-
-
+Missing character: There is no θ (U+03B8) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Θ (U+0398) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ι (U+03B9) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Ι (U+0399) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no κ (U+03BA) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Κ (U+039A) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no λ (U+03BB) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Λ (U+039B) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no μ (U+03BC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Μ (U+039C) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ν (U+03BD) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Ν (U+039D) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ξ (U+03BE) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Ξ (U+039E) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Ο (U+039F) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Π (U+03A0) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ρ (U+03C1) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Ρ (U+03A1) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no σ (U+03C3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Σ (U+03A3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no τ (U+03C4) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Τ (U+03A4) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no υ (U+03C5) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Υ (U+03A5) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no φ (U+03C6) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Φ (U+03A6) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no χ (U+03C7) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Χ (U+03A7) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ψ (U+03C8) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Ψ (U+03A8) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ω (U+03C9) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Ω (U+03A9) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ρ (U+03C1) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ν (U+03BD) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no η (U+03B7) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no χ (U+03C7) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 [10]
-Overfull \hbox (10.44058pt too wide) in paragraph at lines 482--482
- []\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc especifica el motivo de su clamor: |  
- []. No habla de: idolatría, apostasía,
- []
-
-
-Overfull \hbox (10.36784pt too wide) in paragraph at lines 482--482
- \TU/IBMPlexSerif(0)/m/n/10.95 pecado ritual. Habla de algo \TU/IBMPlexSerif(0)
-/b/n/10.95 visible, social, tangible\TU/IBMPlexSerif(0)/m/n/10.95 . ¡Violencia!
- Salmos 94:3; Jeremías
- []
-
-
-Overfull \hbox (48.0149pt too wide) in paragraph at lines 484--484
-  []\TU/IBMPlexSerif(0)/m/n/10.95 Esto ancla su queja en la realidad histórica:
- la violencia no es |   [], es experimentada,
- []
-
+Missing character: There is no σ (U+03C3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no λ (U+03BB) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [11]
-Overfull \hbox (2.0869pt too wide) in paragraph at lines 494--494
- []\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc 1:2 tiene una forma muy definida: preg
-unta → |   [], clamor → silencio,
- []
-
-
-Overfull \hbox (19.25385pt too wide) in paragraph at lines 498--498
- []\TU/IBMPlexSerif(0)/m/n/10.95 Tensión introducida por el versículo. Este ver
-sículo establece el problema que gobernará
- []
-
-
-Overfull \hbox (1.37979pt too wide) in paragraph at lines 500--500
-  []\TU/IBMPlexSerif(0)/m/n/10.95 Esa pregunta no será respondida de la |   [] 
-que Habacuc espera. Pero todavía
- []
-
-
-Overfull \hbox (2.87167pt too wide) in paragraph at lines 527--527
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esto implica que Dios no solo permite la situa
-ción, Dios expone activamente al profeta
- []
-
-
-Overfull \hbox (8.13841pt too wide) in paragraph at lines 533--533
- \TU/IBMPlexSerif(0)/b/n/10.95 culpa \TU/IBMPlexSerif(0)/m/n/10.95 y \TU/IBMPle
-xSerif(0)/b/n/10.95 perversión\TU/IBMPlexSerif(0)/m/n/10.95 . Habacuc no ve sim
-ples fallas sociales. Ve algo \TU/IBMPlexSerif(0)/b/n/10.95 fundamentalmente
- []
-
+File: images/alfa.png Graphic file (type bmp)
+<images/alfa.png>
+File: images/beta.png Graphic file (type bmp)
+<images/beta.png>
+File: images/gamma.png Graphic file (type bmp)
+<images/gamma.png>
+File: images/delta.png Graphic file (type bmp)
+<images/delta.png>
+File: images/epsilon.png Graphic file (type bmp)
+<images/epsilon.png>
 
 
 [12]
-Overfull \hbox (10.83116pt too wide) in paragraph at lines 541--541
- []\TU/IBMPlexSerif(0)/m/n/10.95 El paralelismo refuerza la acusación, “\TU/IBM
-PlexSerif(2)/m/it/10.95 «me haces ver»\TU/IBMPlexSerif(0)/m/n/10.95 ”. “\TU/IBM
-PlexSerif(2)/m/it/10.95 «haces que mire»\TU/IBMPlexSerif(0)/m/n/10.95 ” hace en
-tender
- []
-
-
-Overfull \hbox (20.39899pt too wide) in paragraph at lines 559--559
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esto prepara el terreno para 1:4, donde la ley
- y la |   [] serán directamente nombradas. 
- []
-
-
 
 [13]
-Overfull \hbox (7.8476pt too wide) in paragraph at lines 586--586
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esta expresión marca una \TU/IBMPlexSerif(0)/b
-/n/10.95 conclusión lógica\TU/IBMPlexSerif(0)/m/n/10.95 . |   [] no está añadie
-ndo información
- []
-
-
-Overfull \hbox (3.49216pt too wide) in paragraph at lines 602--602
- []\TU/IBMPlexSerif(0)/m/n/10.95 La justicia es presentada como algo que |   []
- manifestarse, debería hacerse visible
- []
-
-
-Overfull \hbox (12.9968pt too wide) in paragraph at lines 632--632
- []\TU/IBMPlexSerif(0)/m/n/10.95 La justicia no solo tarda y no solo se oculta 
-sino cuando |   [], aparece \TU/IBMPlexSerif(0)/b/n/10.95 distorsionada,
- []
-
-
-Overfull \hbox (11.43457pt too wide) in paragraph at lines 634--634
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esto sugiere decisiones injustas, veredictos s
-esgados y un sistema |   [] moralmente
- []
-
-
 
 [14]
-Overfull \hbox (7.22614pt too wide) in paragraph at lines 654--654
-  []\TU/IBMPlexSerif(0)/m/n/10.95 Tal vez el problema no sea que Dios esté |   
-[], sino que Habacuc está confiando
- []
-
-
-Overfull \hbox (6.26279pt too wide) in paragraph at lines 656--656
- []\TU/IBMPlexSerif(0)/m/n/10.95 Este marco será \TU/IBMPlexSerif(0)/b/n/10.95 
-confrontado\TU/IBMPlexSerif(0)/m/n/10.95 , no afirmado, en 1:5. Después de decl
-arar su |   [],
- []
-
-
-Overfull \hbox (4.20541pt too wide) in paragraph at lines 658--658
- []\TU/IBMPlexSerif(0)/m/n/10.95 Ahora es Dios quien responde, no |   [] la lóg
-ica, sino \TU/IBMPlexSerif(0)/b/n/10.95 redefiniendo la realidad\TU/IBMPlexSeri
-f(0)/m/n/10.95 . 
- []
-
-
-Overfull \hbox (15.15758pt too wide) in paragraph at lines 665--665
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc denuncia violencia, injusticia y distor
-sión del derecho. 
- []
-
-
-Overfull \hbox (13.55522pt too wide) in paragraph at lines 667--667
-[]\TU/IBMPlexSerif(0)/m/n/10.95 La queja surge de una percepción prolongada, no
- momentánea. 
- []
-
-
-Overfull \hbox (8.81514pt too wide) in paragraph at lines 695--695
- \TU/IBMPlexSerif(0)/m/n/10.95 no corrige la vista del profeta; \TU/IBMPlexSeri
-f(0)/b/n/10.95 corrige el campo de visión\TU/IBMPlexSerif(0)/m/n/10.95 , la man
-era en la cual Habacuc
- []
-
-
 
 [15]
-Overfull \hbox (36.45045pt too wide) in paragraph at lines 707--707
- |   []\TU/IBMPlexSerif(0)/m/n/10.95 . La justicia de Dios no será tratada \TU/
-IBMPlexSerif(0)/b/n/10.95 localmente primero\TU/IBMPlexSerif(0)/m/n/10.95 , sin
-o \TU/IBMPlexSerif(0)/b/n/10.95 históricamente\TU/IBMPlexSerif(0)/m/n/10.95 .
- []
-
-
-Overfull \hbox (10.1157pt too wide) in paragraph at lines 716--716
- []\TU/IBMPlexSerif(0)/m/n/10.95 La |   [] intensifica el efecto. Dios no dice 
-“comprended”, “razonad” o “entended”. 
- []
-
-
-Overfull \hbox (9.28473pt too wide) in paragraph at lines 747--747
- \TU/IBMPlexSerif(0)/m/n/10.95 Incluso con explicación, la obra seguirá siendo 
-\TU/IBMPlexSerif(0)/b/n/10.95 increíble \TU/IBMPlexSerif(0)/m/n/10.95 para el p
-ensamiento humano. 
- []
-
-
 
 [16]
-Overfull \hbox (6.23116pt too wide) in paragraph at lines 753--753
- []\TU/IBMPlexSerif(0)/m/n/10.95 Este versículo rompe la lógica humana, desplaz
-a el marco de justicia, introduce acción
- []
-
-
-Overfull \hbox (9.88336pt too wide) in paragraph at lines 774--774
-[]\TU/IBMPlexSerif(0)/m/n/10.95 La respuesta no explica el mal, anuncia una acc
-ión inesperada. 
- []
-
-
-Overfull \hbox (2.0153pt too wide) in paragraph at lines 781--781
- \TU/IBMPlexSerif(0)/b/n/12 HABACUC 1:6–11 — DESCRIPCIÓN DEL INSTRUMENTO LEVANT
-ADO POR DIOS| 
- []
-
+File: images/zeta.png Graphic file (type bmp)
+<images/zeta.png>
+File: images/eta.png Graphic file (type bmp)
+<images/eta.png>
+File: images/theta.png Graphic file (type bmp)
+<images/theta.png>
+File: images/iota.png Graphic file (type bmp)
+<images/iota.png>
+File: images/kappa.png Graphic file (type bmp)
+<images/kappa.png>
+File: images/lambda.png Graphic file (type bmp)
+<images/lambda.png>
 
 
 [17]
-Overfull \hbox (9.12508pt too wide) in paragraph at lines 820--820
- []\TU/IBMPlexSerif(0)/m/n/10.95 Dios \TU/IBMPlexSerif(0)/b/n/10.95 no moraliza
- positivamente \TU/IBMPlexSerif(0)/m/n/10.95 su |   [] (los caldeos - babilonio
-s). Lo describe
- []
-
-
-Overfull \hbox (3.32819pt too wide) in paragraph at lines 828--828
-  []\TU/IBMPlexSerif(0)/m/n/10.95 ¿Cómo?, ¿Por qué? Es algo que Habacuc e Israe
-l estará |   [], y veremos
- []
-
-
-Overfull \hbox (13.17174pt too wide) in paragraph at lines 846--846
- []\TU/IBMPlexSerif(0)/m/n/10.95 Dios no lo suaviza. Lo declara abiertamente. E
-sto |   [] cualquier intento de justificar
- []
-
-
 
 [18]
-Overfull \hbox (0.58446pt too wide) in paragraph at lines 850--850
- []\TU/IBMPlexSerif(0)/m/n/10.95 Y aun así Dios dice: “\TU/IBMPlexSerif(2)/m/it
-/10.95 «yo levanto»\TU/IBMPlexSerif(0)/m/n/10.95 .” Este |   [] introduce la pr
-egunta que dominará
- []
-
-
-Overfull \hbox (21.3794pt too wide) in paragraph at lines 850--850
- \TU/IBMPlexSerif(0)/m/n/10.95 el resto del capítulo: \TU/IBMPlexSerif(0)/b/n/1
-0.95 ¿Puede Dios ser justo mientras actúa por medio de un instrumento
- []
-
-
 
 [19]
-Overfull \hbox (4.26231pt too wide) in paragraph at lines 891--891
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esto describe un sistema donde el poder humano
- define lo |   [], la fuerza humana
- []
-
-
-Overfull \hbox (21.7845pt too wide) in paragraph at lines 893--893
-  []\TU/IBMPlexSerif(0)/m/n/10.95 Elimina cualquier posible confusión: \TU/IBMP
-lexSerif(0)/b/n/10.95 Dios no está delegando Su |   [] a Babilonia.
- []
-
-
-LaTeX Font Warning: Font shape `TU/IBMPlexSerif(2)/b/it' undefined
-(Font)              using `TU/IBMPlexSerif(2)/m/n' instead on input line 895.
-
-
-Overfull \hbox (18.4399pt too wide) in paragraph at lines 899--899
- []\TU/IBMPlexSerif(0)/m/n/10.95 Este versículo descarta toda idealización del 
-instrumento (Babilonia). Bloquea cualquier
- []
-
-
-Overfull \hbox (2.80818pt too wide) in paragraph at lines 899--899
- |   [] \TU/IBMPlexSerif(0)/m/n/10.95 de justificar a Babilonia y prepara el te
-rreno para la segunda queja del profeta. 
- []
-
-
-Overfull \hbox (23.25325pt too wide) in paragraph at lines 903--903
-  []\TU/IBMPlexSerif(0)/m/n/10.95 Después de definir el \TU/IBMPlexSerif(0)/b/n
-/10.95 carácter moral \TU/IBMPlexSerif(0)/m/n/10.95 de Babilonia, Dios ahora de
-scribirá su \TU/IBMPlexSerif(0)/b/n/10.95 velocidad
- []
-
-
-Overfull \hbox (20.42183pt too wide) in paragraph at lines 915--915
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Aquí vemos imágenes de velocidad y |   []. Dios
- describe a Babilonia usando \TU/IBMPlexSerif(0)/b/n/10.95 comparaciones
- []
-
-
-Overfull \hbox (17.71281pt too wide) in paragraph at lines 915--915
-\TU/IBMPlexSerif(0)/b/n/10.95 animales\TU/IBMPlexSerif(0)/m/n/10.95 , no morale
-s. Empieza con \TU/IBMPlexSerif(2)/m/it/10.95 «leopardos» \TU/IBMPlexSerif(0)/m
-/n/10.95 (velocidad súbita), \TU/IBMPlexSerif(2)/m/it/10.95 «lobos al anochecer
-» \TU/IBMPlexSerif(0)/m/n/10.95 (ferocidad
- []
-
-
 
 [20]
-Overfull \hbox (20.13496pt too wide) in paragraph at lines 929--929
- []\TU/IBMPlexSerif(0)/m/n/10.95 El texto señala \TU/IBMPlexSerif(0)/b/n/10.95 
-crecimiento\TU/IBMPlexSerif(0)/m/n/10.95 , no estancamiento. Babilonia no es un
-a fuerza |   [].
- []
-
-
-Overfull \hbox (30.65282pt too wide) in paragraph at lines 945--945
- \TU/IBMPlexSerif(0)/m/n/10.95 sin dirección. Es avance \TU/IBMPlexSerif(0)/b/n
-/10.95 con intención de consumir\TU/IBMPlexSerif(0)/m/n/10.95 . Deuteronomio 28
-:49; Lamentaciones
- []
-
-
 
 [21]
-Overfull \hbox (8.64085pt too wide) in paragraph at lines 953--953
-  []\TU/IBMPlexSerif(0)/m/n/10.95 Este versículo elimina toda esperanza de |   
-[] humana para Israel y las demás
- []
-
-
-Overfull \hbox (13.87007pt too wide) in paragraph at lines 953--953
- \TU/IBMPlexSerif(0)/m/n/10.95 naciones. Dios aclara aún más la diferencia de p
-oder Babilónico con las demás naciones
- []
-
-
-Overfull \hbox (21.94875pt too wide) in paragraph at lines 955--955
-  []\TU/IBMPlexSerif(0)/m/n/10.95 También prepara la reacción emocional y |   [
-] de Dios del profeta Habacuc.
- []
-
-
-Overfull \hbox (9.57407pt too wide) in paragraph at lines 974--974
- []\TU/IBMPlexSerif(0)/m/n/10.95 La violencia no es ocasional. El \TU/IBMPlexSe
-rif(0)/b/n/10.95 propósito dominante y único \TU/IBMPlexSerif(0)/m/n/10.95 del 
-avance es la violencia.
- []
-
-
-Overfull \hbox (6.62173pt too wide) in paragraph at lines 980--980
- \TU/IBMPlexSerif(0)/m/n/10.95 clara: no viene a administrar justicia, no viene
- a restaurar orden, viene \TU/IBMPlexSerif(0)/b/n/10.95 para violencia\TU/IBMPl
-exSerif(0)/m/n/10.95 .
- []
-
-
 
 [22]
-Overfull \hbox (15.62573pt too wide) in paragraph at lines 1008--1008
-  []\TU/IBMPlexSerif(0)/m/n/10.95 Este versículo profundiza el escándalo moral.
- Hace insostenible cualquier consuelo
- []
-
-
-Overfull \hbox (4.03699pt too wide) in paragraph at lines 1025--1025
- []\TU/IBMPlexSerif(0)/m/n/10.95 La violencia de Babilonia no se |   [] al pueb
-lo común. Se dirige \TU/IBMPlexSerif(0)/b/n/10.95 directamente contra
- []
-
-
-Overfull \hbox (3.98473pt too wide) in paragraph at lines 1035--1035
- []\TU/IBMPlexSerif(0)/m/n/10.95 La burla intensifica el desprecio. No hay |   
-[] de jerarquía. No hay respeto
- []
-
-
-Overfull \hbox (10.8652pt too wide) in paragraph at lines 1035--1035
- \TU/IBMPlexSerif(0)/m/n/10.95 justicia y proteger al pueblo, son tratadas como
- \TU/IBMPlexSerif(0)/b/n/10.95 irrelevantes\TU/IBMPlexSerif(0)/m/n/10.95 . 2 Re
-yes 25:6-7; 2Crónicas
- []
-
+File: images/mu.png Graphic file (type bmp)
+<images/mu.png>
+File: images/nu.png Graphic file (type bmp)
+<images/nu.png>
+File: images/xi.png Graphic file (type bmp)
+<images/xi.png>
+File: images/omicron.png Graphic file (type bmp)
+<images/omicron.png>
+File: images/pi.png Graphic file (type bmp)
+<images/pi.png>
+File: images/rho.png Graphic file (type bmp)
+<images/rho.png>
 
 
 [23]
-Overfull \hbox (21.14601pt too wide) in paragraph at lines 1041--1041
- []\TU/IBMPlexSerif(0)/m/n/10.95 Las defensas humanas quedan expuestas como |  
- []. Las murallas, los ejércitos,
- []
-
-
-Overfull \hbox (1.70831pt too wide) in paragraph at lines 1047--1047
-  []\TU/IBMPlexSerif(0)/m/n/10.95 Esto traería una mayor |   [] al Israel ya de
-bilitada. Ahora vendría una nación
- []
-
-
-Overfull \hbox (23.00386pt too wide) in paragraph at lines 1055--1055
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esto comunica determinación, método e inevitab
-ilidad. La fortaleza no cae por accidente.
- []
-
-
-Overfull \hbox (16.90225pt too wide) in paragraph at lines 1063--1063
-  []\TU/IBMPlexSerif(0)/m/n/10.95 Esto intensifica la tensión: si la justicia y
-a estaba |   [], ahora está completamente
- []
-
-
-Overfull \hbox (7.29913pt too wide) in paragraph at lines 1065--1065
- []\TU/IBMPlexSerif(0)/m/n/10.95 Este versículo desmonta la confianza en lídere
-s, |   [] el poder político y elimina
- []
-
-
-Overfull \hbox (14.07962pt too wide) in paragraph at lines 1082--1082
- []\TU/IBMPlexSerif(0)/m/n/10.95 La imagen enfatiza \TU/IBMPlexSerif(0)/b/n/10.
-95 velocidad y fugacidad\TU/IBMPlexSerif(0)/m/n/10.95 . Un |   [] se mueve rápi
-damente, devasta,
- []
-
-
-Overfull \hbox (0.45784pt too wide) in paragraph at lines 1082--1082
- \TU/IBMPlexSerif(0)/m/n/10.95 no permanece. Esto introduce un matiz importante
-: el dominio de Babilonia, aunque
- []
-
-
 
 [24]
-Overfull \hbox (2.43616pt too wide) in paragraph at lines 1088--1088
- []\TU/IBMPlexSerif(0)/m/n/10.95 Aquí el texto cruza una línea. El verbo indica
- \TU/IBMPlexSerif(0)/b/n/10.95 culpabilidad\TU/IBMPlexSerif(0)/m/n/10.95 , no s
-implemente violencia.
- []
-
-
-Overfull \hbox (17.77196pt too wide) in paragraph at lines 1088--1088
- \TU/IBMPlexSerif(0)/m/n/10.95 Hasta este punto se describió la crueldad. Se | 
-  [] el terror y se observó la dominación.
- []
-
-
-Overfull \hbox (5.7625pt too wide) in paragraph at lines 1092--1092
- \TU/IBMPlexSerif(2)/m/it/10.95 «describe» \TU/IBMPlexSerif(0)/m/n/10.95 Babilo
-nia honestamente (1:7–10), Dios ahora \TU/IBMPlexSerif(0)/b/n/10.95 nombra la c
-ulpa de Babilonia
- []
-
-
-Overfull \hbox (1.08661pt too wide) in paragraph at lines 1102--1102
-  []\TU/IBMPlexSerif(0)/m/n/10.95 Esto no es ignorancia. Es \TU/IBMPlexSerif(0)
-/b/n/10.95 arrogancia religiosa\TU/IBMPlexSerif(0)/m/n/10.95 . Esta |   [] esta
-blece un límite.
- []
-
-
-Overfull \hbox (0.50284pt too wide) in paragraph at lines 1112--1112
- \TU/IBMPlexSerif(0)/m/n/10.95 su segunda queja será \TU/IBMPlexSerif(0)/b/n/10
-.95 más aguda\TU/IBMPlexSerif(0)/m/n/10.95 , más teológicamente razonada y más 
-perturbadora
- []
-
-
 
 [25]
-Overfull \hbox (2.76436pt too wide) in paragraph at lines 1130--1130
-[]\TU/IBMPlexSerif(0)/m/n/10.95 El poder humano es presentado como transitorio 
-y arrogante. 
- []
-
-
-Overfull \hbox (3.81071pt too wide) in paragraph at lines 1150--1150
- []\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc comienza con un clamor dirigido a Dios
-. Esto ya no es un grito de |   []
- []
-
-
-Overfull \hbox (1.3229pt too wide) in paragraph at lines 1160--1160
- \TU/IBMPlexSerif(0)/m/n/10.95 pacto), \TU/IBMPlexSerif(0)/b/n/10.95 Dios mío \
-TU/IBMPlexSerif(0)/m/n/10.95 (relación personal) y \TU/IBMPlexSerif(0)/b/n/10.9
-5 Santo mío \TU/IBMPlexSerif(0)/m/n/10.95 (pureza moral). Esto no es un halago.
-
- []
-
-
-Overfull \hbox (34.49986pt too wide) in paragraph at lines 1168--1168
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esta breve cláusula es sorprendente. Habacuc |
-   [] una \TU/IBMPlexSerif(0)/b/n/10.95 afirmación de supervivencia\TU/IBMPlexS
-erif(0)/m/n/10.95 . 
- []
-
-
 
 [26]
-Overfull \hbox (39.57121pt too wide) in paragraph at lines 1180--1180
- []\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc ya no niega la acción divina. \TU/IBMP
-lexSerif(0)/b/n/10.95 Sin embargo, el conflicto interior no ha desaparecido;
- []
-
-
-Overfull \hbox (20.72112pt too wide) in paragraph at lines 1184--1184
- \TU/IBMPlexSerif(0)/m/n/10.95 que el Señor habló. Podemos ver los versículos 1
-:5-11 como |   [] ”advertencias”
- []
-
-
-Overfull \hbox (27.93648pt too wide) in paragraph at lines 1190--1190
- \TU/IBMPlexSerif(0)/m/n/10.95 puso esto en marcha. Llamar a Dios ”Roca” enfati
-za: estabilidad, confiabilidad, coherencia
- []
-
-
-Overfull \hbox (10.43181pt too wide) in paragraph at lines 1204--1204
- []\TU/IBMPlexSerif(0)/m/n/10.95 Este verso reabre la |   [] a un nivel superio
-r. Pasa de la injusticia social a la coherencia
- []
-
-
 
 [27]
-Overfull \hbox (1.24742pt too wide) in paragraph at lines 1245--1245
- []\TU/IBMPlexSerif(0)/m/n/10.95 Para poder seguir siendo enseñados, es |   [] 
-estar dispuesto a soltar cualquier
- []
-
-
-Overfull \hbox (23.05717pt too wide) in paragraph at lines 1277--1281
-[]\TU/IBMPlexSerif(0)/m/n/10.95 La pregunta no busca información. Habacuc busca
- |   [] de \TU/IBMPlexSerif(0)/b/n/10.95 su pensamiento
- []
-
-
-Overfull \hbox (4.38258pt too wide) in paragraph at lines 1281--1283
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc no duda de que Dios ve. Duda de \TU/IBM
-PlexSerif(0)/b/n/10.95 cómo puede ver sin |   []\TU/IBMPlexSerif(0)/m/n/10.95 .
- Jeremías
- []
-
-
 
 [28]
-Overfull \hbox (15.63304pt too wide) in paragraph at lines 1297--1297
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esta frase revela el \TU/IBMPlexSerif(0)/b/n/1
-0.95 supuesto central \TU/IBMPlexSerif(0)/m/n/10.95 de Habacuc. Habacuc no habl
-a de |   [] absoluta,
- []
-
-
-Overfull \hbox (10.29431pt too wide) in paragraph at lines 1303--1303
-  []\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc 1:13 expone el conflicto central del 
-libro: La santidad de Dios confrontada
- []
-
-
-Overfull \hbox (19.25017pt too wide) in paragraph at lines 1309--1309
- []\TU/IBMPlexSerif(0)/m/n/10.95 Estas suposiciones de Habacuc \TU/IBMPlexSerif
-(0)/b/n/10.95 no son |   [] por Dios aquí\TU/IBMPlexSerif(0)/m/n/10.95 . Solo q
-uedan expuestas. 
- []
-
+File: images/sigma.png Graphic file (type bmp)
+<images/sigma.png>
+File: images/tau.png Graphic file (type bmp)
+<images/tau.png>
+File: images/upsilon.png Graphic file (type bmp)
+<images/upsilon.png>
+File: images/phi.png Graphic file (type bmp)
+<images/phi.png>
+File: images/chi.png Graphic file (type bmp)
+<images/chi.png>
+File: images/psi.png Graphic file (type bmp)
+<images/psi.png>
 
 
 [29]
-Overfull \hbox (34.3539pt too wide) in paragraph at lines 1398--1398
- []\TU/IBMPlexSerif(0)/m/n/10.95 Este versículo profundiza la acusación contra 
-Dios. Conecta la soberanía con consecuencias
- []
-
-
 
 [30]
-Overfull \hbox (1.20853pt too wide) in paragraph at lines 1412--1412
- \TU/IBMPlexSerif(0)/m/n/10.95 Es \TU/IBMPlexSerif(0)/b/n/10.95 selectiva, inte
-ncional y eficaz\TU/IBMPlexSerif(0)/m/n/10.95 . Los hombres no caen por acciden
-te. Son \TU/IBMPlexSerif(0)/b/n/10.95 pescados\TU/IBMPlexSerif(0)/m/n/10.95 .
- []
-
-
-Overfull \hbox (39.44566pt too wide) in paragraph at lines 1434--1434
- []\TU/IBMPlexSerif(0)/m/n/10.95 Este es uno de los detalles más ofensivos del 
-pasaje. La violencia no produce |   [],
- []
-
-
-Overfull \hbox (2.6286pt too wide) in paragraph at lines 1438--1438
-  []\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc 1:15 presenta a Babilonia como: efica
-z, |   [], y \TU/IBMPlexSerif(0)/b/n/10.95 emocionalmente
- []
-
-
-Overfull \hbox (30.28047pt too wide) in paragraph at lines 1438--1438
- \TU/IBMPlexSerif(0)/b/n/10.95 satisfecha \TU/IBMPlexSerif(0)/m/n/10.95 con su 
-violencia. Esto intensifica el problema moral: no solo destruye...¡\TU/IBMPlexS
-erif(0)/b/n/10.95 disfruta
- []
-
-
-Overfull \hbox (21.19832pt too wide) in paragraph at lines 1440--1440
-  []\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc había llegado a |   [] que Dios ve, D
-ios calla y Dios usa este instrumento.
- []
-
-
 
 [31]
-Overfull \hbox (12.2349pt too wide) in paragraph at lines 1471--1471
- []\TU/IBMPlexSerif(0)/m/n/10.95 El lenguaje es explícitamente \TU/IBMPlexSerif
-(0)/b/n/10.95 expresión religiosa\TU/IBMPlexSerif(0)/m/n/10.95 . El sacrificio 
-y el incienso pertenecen
- []
-
-
-Overfull \hbox (10.95738pt too wide) in paragraph at lines 1471--1471
- \TU/IBMPlexSerif(0)/m/n/10.95 al ámbito del culto. Habacuc utiliza deliberadam
-ente términos religiosos para mostrar:
- []
-
-
 
 [32]
-Overfull \hbox (11.9273pt too wide) in paragraph at lines 1489--1489
-  []\TU/IBMPlexSerif(0)/m/n/10.95 Este verso: completa la acusación moral, mues
-tra a Babilonia como religiosamente
- []
-
-
-Overfull \hbox (3.60632pt too wide) in paragraph at lines 1519--1519
- []\TU/IBMPlexSerif(0)/m/n/10.95 Aquí aparece el criterio ético explícito. El |
-   [] ya no es solo: violencia e idolatría,
- []
-
-
 
 [33]
-Overfull \hbox (23.08173pt too wide) in paragraph at lines 1533--1533
- \TU/IBMPlexSerif(0)/m/n/10.95 vuelve depredación perpetua, la justicia queda s
-in horizonte y la misericordia desaparece
- []
-
-
-Overfull \hbox (13.60393pt too wide) in paragraph at lines 1535--1535
- []\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc 1:17, Habacuc no pide explicación. Pid
-e \TU/IBMPlexSerif(0)/b/n/10.95 límite\TU/IBMPlexSerif(0)/m/n/10.95 . El profet
-a no dice: “explícame,
- []
-
-
-Overfull \hbox (0.54393pt too wide) in paragraph at lines 1539--1539
- []\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc ha llevado su lógica \TU/IBMPlexSerif(
-0)/b/n/10.95 hasta el final\TU/IBMPlexSerif(0)/m/n/10.95 . Ahora no queda más |
-   [] humano,
- []
-
-
-Overfull \hbox (8.45107pt too wide) in paragraph at lines 1548--1549
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc apela al carácter eterno y santo de Dio
-s para defender
- []
-
-
 
 [34]
-Overfull \hbox (1.84995pt too wide) in paragraph at lines 1584--1584
- \TU/IBMPlexSerif(0)/m/n/10.95 comunica: firmeza, disposición, seriedad ante lo
- que viene. La |   [] no es refugio
- []
+File: images/omega.png Graphic file (type bmp)
+<images/omega.png>
 
-
-Overfull \hbox (12.35776pt too wide) in paragraph at lines 1608--1609
-[]\TU/IBMPlexSerif(0)/m/n/10.95 El profeta ya no habla desde confrontación pura
-; comienza a reconocer su propia posición
- []
-
-
-Overfull \hbox (2.4957pt too wide) in paragraph at lines 1614--1614
- \TU/IBMPlexSerif(0)/m/n/10.95 que estuvo expresando en los anteriores versícul
-os, pero \TU/IBMPlexSerif(0)/b/n/10.95 su razonamiento de justicia
- []
-
+Missing character: There is no Κ (U+039A) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no α (U+03B1) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ν (U+03BD) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no τ (U+03C4) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ε (U+03B5) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no μ (U+03BC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no λ (U+03BB) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no α (U+03B1) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Λ (U+039B) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ε (U+03B5) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no τ (U+03C4) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ρ (U+03C1) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no α (U+03B1) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no λ (U+03BB) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ἀ (U+1F00) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ά (U+03AC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no η (U+03B7) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no θ (U+03B8) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ε (U+03B5) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ἁ (U+1F01) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no μ (U+03BC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no α (U+03B1) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ρ (U+03C1) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no τ (U+03C4) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ί (U+03AF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no α (U+03B1) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ἐ (U+1F10) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no σ (U+03C3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no τ (U+03C4) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ί (U+03AF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ν (U+03BD) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [35]
-Overfull \hbox (2.02731pt too wide) in paragraph at lines 1626--1626
- \TU/IBMPlexSerif(0)/m/n/10.95 vida de Habacuc conforme a la verdad de Dios, | 
-  [] a Su justicia. Acompañemos
+Overfull \hbox (6.06787pt too wide) in paragraph at lines 758--758
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Nota Importante: En este curso, el |   [] no se
+rá un obstáculo. Será información estructurada.
  []
 
+Missing character: There is no λ (U+03BB) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
-Overfull \hbox (5.42549pt too wide) in paragraph at lines 1677--1677
- \TU/IBMPlexSerif(0)/m/n/10.95 validez objetiva y pública. La respuesta de Dios
- \TU/IBMPlexSerif(0)/b/n/10.95 debe permanecer\TU/IBMPlexSerif(0)/m/n/10.95 , n
-o solo escucharse. 
+Overfull \hbox (16.35332pt too wide) in paragraph at lines 786--786
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Ese número permite buscar |   [] las veces que
+ esa palabra aparece en el Nuevo Testamento.
  []
 
 
 
 [36]
-Overfull \hbox (2.97511pt too wide) in paragraph at lines 1683--1683
- []\TU/IBMPlexSerif(0)/m/n/10.95 El mandato se refuerza. La visión debe ser vis
-ible, fija y accesible. Las tablas sugieren:
- []
-
-
-Overfull \hbox (80.6775pt too wide) in paragraph at lines 1710--1710
- \TU/IBMPlexSerif(0)/m/n/10.95 No es condicionada por la respuesta humana. La v
-isión \TU/IBMPlexSerif(0)/b/n/10.95 permanece verdadera\TU/IBMPlexSerif(0)/m/n/
-10.95 , independientemente
- []
-
-
-Overfull \hbox (4.58571pt too wide) in paragraph at lines 1718--1718
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esto introduce una diferencia crucial: la just
-icia humana (Habacuc) exige inmediatez;
- []
-
-
 
 [37]
-Overfull \hbox (8.41704pt too wide) in paragraph at lines 1731--1733
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Esto implica vindicación futura y confirmación 
-histórica. La verdad no |   []
- []
-
-
-Overfull \hbox (10.6508pt too wide) in paragraph at lines 1739--1739
- []\TU/IBMPlexSerif(0)/m/n/10.95 Dios anticipa la duda. La tardanza podría inte
-rpretarse como error o fracaso o inclusive
- []
-
-
-Overfull \hbox (3.30093pt too wide) in paragraph at lines 1761--1761
- []\TU/IBMPlexSerif(0)/m/n/10.95 Este versículo responde indirectamente a la | 
-  [] del profeta y luego establece
- []
-
-
-Overfull \hbox (16.8038pt too wide) in paragraph at lines 1771--1774
-[]\TU/IBMPlexSerif(2)/m/it/10.95 «es aún visión para el tiempo señalado»\TU/IBM
-PlexSerif(0)/m/n/10.95 , lo que Dios dijo se |   [] en un momento
- []
-
-
-Overfull \hbox (11.59673pt too wide) in paragraph at lines 1778--1780
-[]\TU/IBMPlexSerif(2)/m/it/10.95 «ciertamente vendrá, no tardará»\TU/IBMPlexSer
-if(0)/m/n/10.95 , lo que Dios dijo no se ve |   [] pero se cumplirá.
- []
-
-
 
 [38]
-Overfull \hbox (43.4906pt too wide) in paragraph at lines 1812--1812
- \TU/IBMPlexSerif(0)/b/n/10.95 postura vital\TU/IBMPlexSerif(0)/m/n/10.95 . Imp
-lica autoafirmación, autosuficiencia, rechazo de dependencia, intolerancia
- []
-
-
-Overfull \hbox (8.5124pt too wide) in paragraph at lines 1828--1828
- []\TU/IBMPlexSerif(0)/m/n/10.95 Así que, gramatical y conceptualmente, el |   
-[] responde primero a esta pregunta,
- []
-
-
 
 [39]
-Overfull \hbox (0.57437pt too wide) in paragraph at lines 1854--1854
- \TU/IBMPlexSerif(0)/b/n/10.95 distinta: \TU/IBMPlexSerif(0)/m/n/10.95 ¿Cómo se
- vive cuando la justicia de Dios no |   [] con la justicia humana? 
+Missing character: There is no λ (U+03BB) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no λ (U+03BB) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no λ (U+03BB) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no υ (U+03C5) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no λ (U+03BB) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ν (U+03BD) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no λ (U+03BB) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ι (U+03B9) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no λ (U+03BB) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no υ (U+03C5) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (1.75801pt too wide) in paragraph at lines 981--981
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pero en el Nuevo Testamento puede aparecer com
+o: λόγος, λόγου, λόγον, λόγοι, λόγους. Todas
  []
 
-
-Overfull \hbox (10.51848pt too wide) in paragraph at lines 1860--1860
-  []\TU/IBMPlexSerif(0)/m/n/10.95 Romanos 1:17 dice, ”\TU/IBMPlexSerif(2)/m/it/
-10.95 «Mas el justo por la fe vivirá»\TU/IBMPlexSerif(0)/m/n/10.95 .” Pablo cit
-a a Habacuc al |   []
- []
-
+Missing character: There is no λ (U+03BB) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [40]
-Overfull \hbox (5.0033pt too wide) in paragraph at lines 1891--1891
- []\TU/IBMPlexSerif(0)/m/n/10.95 El vino aquí no funciona solo como bebida, sin
-o como \TU/IBMPlexSerif(0)/b/n/10.95 imagen de descontrol y engaño\TU/IBMPlexSe
-rif(0)/m/n/10.95 .
- []
+Missing character: There is no λ (U+03BB) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ν (U+03BD) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no λ (U+03BB) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ν (U+03BD) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no λ (U+03BB) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
-
-Overfull \hbox (18.39809pt too wide) in paragraph at lines 1899--1899
-  []\TU/IBMPlexSerif(0)/m/n/10.95 La arrogancia: rechaza dependencia, no acepta
- espera, se auto-justifica, se |   []
- []
-
-
-Overfull \hbox (23.9964pt too wide) in paragraph at lines 1909--1909
-  []\TU/IBMPlexSerif(0)/m/n/10.95 Esto responde |   [] a la pregunta de 1:17: \
-TU/IBMPlexSerif(2)/m/it/10.95 «¿Esto continuará para siempre?»[] 
+Overfull \hbox (6.59567pt too wide) in paragraph at lines 989--989
+\TU/IBMPlexSerif(0)/m/n/10.95 básico se estudia a nivel de lema. Pero la funció
+n en el versículo depende de la forma específica.[] 
  []
 
 
 
 [41]
-Overfull \hbox (14.95927pt too wide) in paragraph at lines 1930--1930
- []\TU/IBMPlexSerif(0)/m/n/10.95 El verbo “reunir” muestra \TU/IBMPlexSerif(0)/
-b/n/10.95 apropiación\TU/IBMPlexSerif(0)/m/n/10.95 . Las |   [] no son: respons
-abilidad, cuidado,
- []
-
-
-Overfull \hbox (18.64114pt too wide) in paragraph at lines 1938--1938
- []\TU/IBMPlexSerif(0)/m/n/10.95 La repetición refuerza la idea: expansión tota
-l, ambición sin |   [], dominio universal
- []
-
-
-Overfull \hbox (10.52573pt too wide) in paragraph at lines 1940--1940
- []\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc 2:5 completa el |   [] iniciado en 2:4
-: el orgulloso → se expande, acumula,
- []
-
-
-Overfull \hbox (2.78775pt too wide) in paragraph at lines 1944--1944
-  []\TU/IBMPlexSerif(0)/m/n/10.95 Este versículo explica por qué el orgulloso |
-   [], justifica los “ayes” que siguen,
- []
-
-
-Overfull \hbox (31.51326pt too wide) in paragraph at lines 1955--1955
-[]\TU/IBMPlexSerif(0)/m/n/10.95 El cumplimiento es seguro, aunque demorado para
- el pensamiento
- []
-
-
-Overfull \hbox (26.5916pt too wide) in paragraph at lines 1957--1958
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Se establece un contraste entre soberbia (incre
-dulidad) y fidelidad
- []
-
+Missing character: There is no λ (U+03BB) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no λ (U+03BB) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no έ (U+03AD) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ε (U+03B5) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ι (U+03B9) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [42]
-Overfull \hbox (11.46257pt too wide) in paragraph at lines 1984--1984
- []\TU/IBMPlexSerif(0)/m/n/10.95 Ahora: \TU/IBMPlexSerif(0)/b/n/10.95 Los puebl
-os \TU/IBMPlexSerif(0)/m/n/10.95 hablan. Los mismos que |   [] reunidos, captur
-ados y dominados
+Overfull \hbox (29.1505pt too wide) in paragraph at lines 1075--1075
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La reacción común es: “Esto es demasiado técni
+co.” Pero en realidad, estás viendo información
  []
 
-
-Overfull \hbox (4.56018pt too wide) in paragraph at lines 1992--1992
- []\TU/IBMPlexSerif(0)/m/n/10.95 El juicio adopta forma de \TU/IBMPlexSerif(0)/
-b/n/10.95 burla pública\TU/IBMPlexSerif(0)/m/n/10.95 . No es solo |   [] formal
-; es: ridiculización,
- []
-
-
-Overfull \hbox (4.1881pt too wide) in paragraph at lines 1994--1994
- \TU/IBMPlexSerif(0)/m/n/10.95 justicia no llega con solemnidad inmediata, sino
- con \TU/IBMPlexSerif(0)/b/n/10.95 desenmascaramiento\TU/IBMPlexSerif(0)/m/n/10
-.95 . Jeremías
- []
-
-
-Overfull \hbox (20.56204pt too wide) in paragraph at lines 2000--2000
- []\TU/IBMPlexSerif(0)/m/n/10.95 Aquí se formula el cargo principal. El |   [] 
-no es crecimiento en sí, sino \TU/IBMPlexSerif(0)/b/n/10.95 apropiación
- []
-
-
-Overfull \hbox (7.22394pt too wide) in paragraph at lines 2016--2016
- []\TU/IBMPlexSerif(0)/m/n/10.95 La imagen es económica y moral, implica: opres
-ión |   [], dependencia forzada,
- []
-
-
-Overfull \hbox (2.57092pt too wide) in paragraph at lines 2020--2020
- []\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc 2:6 marca el inicio de una \TU/IBMPlex
-Serif(0)/b/n/10.95 inversión histórica\TU/IBMPlexSerif(0)/m/n/10.95 : el que | 
-  [] será acusado,
- []
-
+Missing character: There is no λ (U+03BB) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [43]
-Overfull \hbox (11.60495pt too wide) in paragraph at lines 2054--2054
- \TU/IBMPlexSerif(0)/m/n/10.95 creación ni resurrección, sino |   []. Los actor
-es no estaban ausentes ni anulados,
- []
-
-
-Overfull \hbox (20.8769pt too wide) in paragraph at lines 2056--2056
- []\TU/IBMPlexSerif(0)/m/n/10.95 El texto no explica el despertar; simplemente 
-indica que ocurre cuando llega el momento.
- []
-
+Missing character: There is no λ (U+03BB) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ν (U+03BD) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no λ (U+03BB) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no λ (U+03BB) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ν (U+03BD) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no λ (U+03BB) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no έ (U+03AD) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ε (U+03B5) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ι (U+03B9) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [44]
-Overfull \hbox (7.69919pt too wide) in paragraph at lines 2073--2077
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc 2:7 muestra que la |   [] injusta crea 
-las condiciones de su propia
- []
-
-
-Overfull \hbox (25.52869pt too wide) in paragraph at lines 2102--2102
- []\TU/IBMPlexSerif(0)/m/n/10.95 La violencia expansiva produce: resentimiento 
-|   [], memoria colectiva, respuesta
- []
-
-
 
 [45]
-Overfull \hbox (7.87003pt too wide) in paragraph at lines 2132--2132
- []\TU/IBMPlexSerif(0)/m/n/10.95 El juicio no responde solo a orgullo, sino a \
-TU/IBMPlexSerif(0)/b/n/10.95 sangre, |   [] y violencia acumulada\TU/IBMPlexSer
-if(0)/m/n/10.95 .
- []
-
-
-Overfull \hbox (12.37143pt too wide) in paragraph at lines 2134--2134
- \TU/IBMPlexSerif(0)/m/n/10.95 muestra que la espera no cancela la justicia. Di
-os |   [] el tiempo, pero \TU/IBMPlexSerif(0)/b/n/10.95 no suspende
- []
-
-
-Overfull \hbox (15.71481pt too wide) in paragraph at lines 2138--2138
- []\TU/IBMPlexSerif(0)/m/n/10.95 En 2:9, el segundo “ay” comienza. El enfoque c
-ambiará de violencia externa a |   []
- []
-
-
-Overfull \hbox (3.88824pt too wide) in paragraph at lines 2153--2153
- \TU/IBMPlexSerif(0)/m/n/10.95 sino \TU/IBMPlexSerif(0)/b/n/10.95 codicia delib
-erada\TU/IBMPlexSerif(0)/m/n/10.95 . La ganancia es: deseada, |   [], calculada
-. Y es \TU/IBMPlexSerif(0)/b/n/10.95 injusta
- []
-
+Missing character: There is no ἦ (U+1F26) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ν (U+03BD) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no Θ (U+0398) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ε (U+03B5) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ὸ (U+1F78) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [46]
-Overfull \hbox (1.2988pt too wide) in paragraph at lines 2161--2161
- []\TU/IBMPlexSerif(0)/m/n/10.95 La “casa” representa: estabilidad, herencia, c
-ontinuidad. El pecado ahora se muestra
- []
-
-
-Overfull \hbox (17.80045pt too wide) in paragraph at lines 2161--2161
- \TU/IBMPlexSerif(0)/b/n/10.95 estratégico\TU/IBMPlexSerif(0)/m/n/10.95 , no im
-pulsivo. La naturaleza humana, el |   [] del hombre incrédulo
- []
-
-
-Overfull \hbox (12.33977pt too wide) in paragraph at lines 2167--2167
- \TU/IBMPlexSerif(0)/b/n/10.95 protegerse de las consecuencias\TU/IBMPlexSerif(
-0)/m/n/10.95 , confía en la seguridad propia que puede conseguirse,
- []
-
-
 
 [47]
-Overfull \hbox (11.26575pt too wide) in paragraph at lines 2195--2195
- \TU/IBMPlexSerif(0)/m/n/10.95 Fue \TU/IBMPlexSerif(0)/b/n/10.95 deliberado\TU/
-IBMPlexSerif(0)/m/n/10.95 . El poder injusto planificó, calculó, decidió su cam
-ino. Pero el resultado
- []
-
-
-Overfull \hbox (0.77173pt too wide) in paragraph at lines 2196--2196
- []\TU/IBMPlexSerif(0)/m/n/10.95 La casa que debía ser protegida se convierte e
-n fuente de deshonra. En 2:9, el objetivo
- []
-
-
-Overfull \hbox (7.24828pt too wide) in paragraph at lines 2202--2202
- \TU/IBMPlexSerif(0)/m/n/10.95 muchos, se construyó sobre pérdida ajena, acumul
-ó culpa histórica. La casa se levantó
- []
-
-
-Overfull \hbox (13.88223pt too wide) in paragraph at lines 2212--2212
- []\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc 2:10 muestra que La seguridad |   [] s
-obre injusticia produce vergüenza
- []
-
-
-Overfull \hbox (28.38763pt too wide) in paragraph at lines 2212--2212
- \TU/IBMPlexSerif(0)/m/n/10.95 externa y corrupción interna. El pecado promete 
-protección, pero deja \TU/IBMPlexSerif(0)/b/n/10.95 culpa y exposición\TU/IBMPl
-exSerif(0)/m/n/10.95 . 
- []
-
-
-Overfull \hbox (4.15747pt too wide) in paragraph at lines 2214--2214
- \TU/IBMPlexSerif(0)/m/n/10.95 prepara el testimonio silencioso que sigue (2:11
-). La casa injusta no queda en silencio. 
- []
-
-
-Overfull \hbox (5.69409pt too wide) in paragraph at lines 2226--2226
- []\TU/IBMPlexSerif(0)/m/n/10.95 El versículo comienza con \TU/IBMPlexSerif(0)/
-b/n/10.95 conexión causal\TU/IBMPlexSerif(0)/m/n/10.95 . Lo que sigue \TU/IBMPl
-exSerif(0)/b/n/10.95 explica \TU/IBMPlexSerif(0)/m/n/10.95 la |   [] previa:
- []
-
-
 
 [48]
-Overfull \hbox (17.52495pt too wide) in paragraph at lines 2250--2250
-  []\TU/IBMPlexSerif(0)/m/n/10.95 El orgulloso: Construye para asegurarse eleva
- su nido |   [] en estructuras visibles,
+Overfull \hbox (4.16135pt too wide) in paragraph at lines 1431--1431
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Di mejor: “El verbo está en aoristo, lo cual d
+escribe la acción como un todo; ahora debemos
  []
 
 
 
 [49]
-Overfull \hbox (12.85541pt too wide) in paragraph at lines 2300--2300
- \TU/IBMPlexSerif(0)/m/n/10.95 injusticia define la lógica interna. No hay cont
-radicción entre éxito urbano y corrupción
- []
-
-
-Overfull \hbox (4.27913pt too wide) in paragraph at lines 2302--2302
- []\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc 2:12 establece este principio: Un orde
-n |   [] puede prosperar visiblemente
- []
-
-
-Overfull \hbox (0.65346pt too wide) in paragraph at lines 2306--2306
- \TU/IBMPlexSerif(0)/m/n/10.95 prepara la corrección de quién es Dios que segui
-rá a continuación (2:13). La pregunta
- []
-
-
 
 [50]
+Missing character: There is no ὁ (U+1F41) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no λ (U+03BB) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ἦ (U+1F26) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ν (U+03BD) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ρ (U+03C1) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ὸ (U+1F78) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no τ (U+03C4) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ὸ (U+1F78) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ν (U+03BD) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no θ (U+03B8) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ε (U+03B5) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ν (U+03BD) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ὁ (U+1F41) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no λ (U+03BB) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
 
 [51]
-Overfull \hbox (13.68954pt too wide) in paragraph at lines 2364--2364
- []\TU/IBMPlexSerif(0)/m/n/10.95 Dice, ”\TU/IBMPlexSerif(2)/m/it/10.95 «se llen
-ará»\TU/IBMPlexSerif(0)/m/n/10.95 .” Esto comunica certeza absoluta, resultado 
-inevitable, cumplimiento
- []
-
+Missing character: There is no β (U+03B2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no λ (U+03BB) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no έ (U+03AD) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ε (U+03B5) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ι (U+03B9) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no τ (U+03C4) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ὸ (U+1F78) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ν (U+03BD) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ἄ (U+1F04) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ν (U+03BD) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no θ (U+03B8) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ρ (U+03C1) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ω (U+03C9) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ν (U+03BD) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no λ (U+03BB) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no γ (U+03B3) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no θ (U+03B8) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ε (U+03B5) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ο (U+03BF) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ῦ (U+1FE6) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [52]
-Overfull \hbox (19.46555pt too wide) in paragraph at lines 2410--2410
- []\TU/IBMPlexSerif(0)/m/n/10.95 El cuarto “ay” cambia |   [] de enfoque. Aquí 
-no se trata de: expansión territorial,
- []
-
-
-Overfull \hbox (1.83632pt too wide) in paragraph at lines 2416--2416
- \TU/IBMPlexSerif(0)/m/n/10.95 hospitalidad. Es \TU/IBMPlexSerif(0)/b/n/10.95 m
-anipulación\TU/IBMPlexSerif(0)/m/n/10.95 . El acto externo parece ofrecer algo,
- pero el contenido
- []
-
-
-Overfull \hbox (31.88214pt too wide) in paragraph at lines 2428--2428
- []\TU/IBMPlexSerif(0)/m/n/10.95 Este es el objetivo explícito. La |   [] repre
-senta vergüenza, vulnerabilidad, exposición
- []
-
-
-Overfull \hbox (54.73795pt too wide) in paragraph at lines 2430--2430
- []\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc 2:15 revela este principio: El |   [] 
-injusto no solo oprime; \TU/IBMPlexSerif(0)/b/n/10.95 degrada deliberadamente\T
-U/IBMPlexSerif(0)/m/n/10.95 .
+Overfull \hbox (18.4764pt too wide) in paragraph at lines 1608--1608
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Eso es información estructural. No significa a
+utomáticamente “Este es un genitivo subjetivo”
  []
 
 
 
 [53]
-Overfull \hbox (20.21432pt too wide) in paragraph at lines 2445--2445
- \TU/IBMPlexSerif(0)/m/n/10.95 glorioso, Dios revela el balance verdadero: Esto
- no trae gloria, sino \TU/IBMPlexSerif(0)/b/n/10.95 deshonra acumulada\TU/IBMPl
-exSerif(0)/m/n/10.95 .
- []
+Missing character: There is no Θ (U+0398) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ε (U+03B5) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ό (U+03CC) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ς (U+03C2) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
-
-Overfull \hbox (19.84517pt too wide) in paragraph at lines 2445--2445
- \TU/IBMPlexSerif(0)/m/n/10.95 La llenura (deshonra) no es neutral. Aquello con
- lo que uno se llena termina definiéndolo. 
- []
-
-
-Overfull \hbox (14.0575pt too wide) in paragraph at lines 2451--2451
- \TU/IBMPlexSerif(0)/b/n/10.95 él\TU/IBMPlexSerif(0)/m/n/10.95 . No hay excepci
-ón. No hay inmunidad. La justicia divina opera por \TU/IBMPlexSerif(0)/b/n/10.9
-5 correspondencia\TU/IBMPlexSerif(0)/m/n/10.95 ,
- []
-
-
-Overfull \hbox (33.1472pt too wide) in paragraph at lines 2475--2475
- []\TU/IBMPlexSerif(0)/m/n/10.95 La imagen es deliberadamente ofensiva. La “glo
-ria” humana, |   [] sobre humillación
+Overfull \hbox (2.60376pt too wide) in paragraph at lines 1673--1675
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Un léxico no: - Interpreta tu versículo - Decid
+e automáticamente qué significa la palabra
  []
 
 
 
 [54]
-Overfull \hbox (1.34747pt too wide) in paragraph at lines 2497--2497
- \TU/IBMPlexSerif(0)/m/n/10.95 capital de Egipto, y toda la violencia que hicie
-ron se les volverá a ellos, serán cubiertos
- []
-
-
-Overfull \hbox (5.61285pt too wide) in paragraph at lines 2505--2505
- []\TU/IBMPlexSerif(0)/m/n/10.95 La violencia no solo fue con el lugar sino |  
- [] llego hacia los animales, su injusticia
- []
-
-
-Overfull \hbox (5.08505pt too wide) in paragraph at lines 2525--2525
- []\TU/IBMPlexSerif(0)/m/n/10.95 Este versículo: completa el cuarto “ay”, ejecu
-ta la |   [] moral anunciada, prepara
- []
-
-
 
 [55]
-Overfull \hbox (23.11728pt too wide) in paragraph at lines 2560--2560
- \TU/IBMPlexSerif(0)/m/n/10.95 es neutral. No es silencioso. Produce |   [] seg
-uridad, falsa dirección, falsa interpretación
+Overfull \hbox (37.12788pt too wide) in paragraph at lines 1776--1776
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Nunca combines todas las definiciones posibles
+ en un solo versículo. Eso se llama “transferencia
  []
 
 
-Overfull \hbox (22.64224pt too wide) in paragraph at lines 2574--2574
-  []\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc 2:18 establece este principio final: 
-El sistema injusto termina justificándose
+Overfull \hbox (1.26703pt too wide) in paragraph at lines 1778--1778
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Ejemplo incorrecto: “Esta palabra puede signif
+icar A, B y C, entonces aquí significa A+B+C
  []
 
 
 
 [56]
-Overfull \hbox (7.76875pt too wide) in paragraph at lines 2604--2604
- []\TU/IBMPlexSerif(0)/m/n/10.95 Dios introduce la pregunta decisiva. La |   []
- no solo busca ayuda, busca \TU/IBMPlexSerif(0)/b/n/10.95 dirección\TU/IBMPlexS
-erif(0)/m/n/10.95 .
- []
-
-
-Overfull \hbox (12.88756pt too wide) in paragraph at lines 2610--2610
- []\TU/IBMPlexSerif(0)/m/n/10.95 La apariencia intenta compensar la ausencia. E
-l valor es \TU/IBMPlexSerif(0)/b/n/10.95 externo\TU/IBMPlexSerif(0)/m/n/10.95 :
- brillo, costo, atractivo
- []
-
-
-Overfull \hbox (12.05171pt too wide) in paragraph at lines 2618--2618
- []\TU/IBMPlexSerif(0)/m/n/10.95 Sin espíritu: no hay palabra, no hay acción, n
-o hay verdad. Esto |   [] directamente
- []
-
-
-Overfull \hbox (8.39049pt too wide) in paragraph at lines 2622--2622
-  []\TU/IBMPlexSerif(0)/m/n/10.95 Este versículo: completa la acusación contra 
-la idolatría, muestra la irracionalidad
- []
-
-
 
 [57]
-Overfull \hbox (46.44319pt too wide) in paragraph at lines 2637--2637
- \TU/IBMPlexSerif(0)/m/n/10.95 palabras humanas sin vida, confianza en obras pr
-opias, aparece una \TU/IBMPlexSerif(0)/b/n/10.95 realidad completamente
- []
-
-
-Overfull \hbox (39.26462pt too wide) in paragraph at lines 2643--2643
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esta es una afirmación de \TU/IBMPlexSerif(0)/
-b/n/10.95 presencia\TU/IBMPlexSerif(0)/m/n/10.95 , no de acción. Dios \TU/IBMPl
-exSerif(0)/b/n/10.95 no \TU/IBMPlexSerif(0)/m/n/10.95 es |   [] como: defendién
-dose,
- []
-
-
-Overfull \hbox (2.20619pt too wide) in paragraph at lines 2653--2653
- []\TU/IBMPlexSerif(0)/m/n/10.95 El templo aquí no es solo un edificio. Represe
-nta: autoridad soberana, trono |   [],
+Overfull \hbox (14.76318pt too wide) in paragraph at lines 1846--1846
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Este capítulo es intencionalmente directo. El 
+griego no es un juguete. No es una herramienta
  []
 
 
 
 [58]
-Overfull \hbox (22.09041pt too wide) in paragraph at lines 2673--2673
-  []\TU/IBMPlexSerif(0)/m/n/10.95 El justo vive por fe porque Dios reina, Dios 
-está presente, Dios no necesita justificarse.
- []
-
-
-Overfull \hbox (6.09854pt too wide) in paragraph at lines 2678--2678
-  []\TU/IBMPlexSerif(0)/m/n/10.95 Después del silencio, Habacuc hablará otra ve
-z, pero ya no para protestar. Hablará
- []
-
-
-Overfull \hbox (4.97507pt too wide) in paragraph at lines 2678--2678
- \TU/IBMPlexSerif(0)/b/n/10.95 desde reverencia\TU/IBMPlexSerif(0)/m/n/10.95 . 
-Una reverencia que procede de la fe en quien se le estuvo revelando
- []
-
-
-Overfull \hbox (8.55353pt too wide) in paragraph at lines 2678--2678
- \TU/IBMPlexSerif(0)/m/n/10.95 durante los primeros capítulos, el Señor. No en 
-base a justicia humana o |   []
- []
-
-
-Overfull \hbox (8.14136pt too wide) in paragraph at lines 2714--2714
- []\TU/IBMPlexSerif(0)/m/n/10.95 El género cambia explícitamente. Ya no es quej
-a, |   [], visión o ”ay”. Ahora Habacuc
- []
-
-
 
 [59]
-Overfull \hbox (0.71481pt too wide) in paragraph at lines 2728--2728
- []\TU/IBMPlexSerif(0)/m/n/10.95 Este término indica \TU/IBMPlexSerif(0)/b/n/10
-.95 forma\TU/IBMPlexSerif(0)/m/n/10.95 , no contenido. Se asocia con: canto apa
-sionado, expresión
- []
-
-
-Overfull \hbox (45.92982pt too wide) in paragraph at lines 2728--2728
- \TU/IBMPlexSerif(0)/m/n/10.95 poética, ritmo emocional intenso. La |   [] no e
-s fría ni técnica. Es \TU/IBMPlexSerif(0)/b/n/10.95 afectiva\TU/IBMPlexSerif(0)
-/m/n/10.95 , profundamente
- []
-
-
-Overfull \hbox (2.51497pt too wide) in paragraph at lines 2755--2755
- []\TU/IBMPlexSerif(0)/m/n/10.95 El nombre divino abre \TU/IBMPlexSerif(0)/b/n/
-10.95 y divide \TU/IBMPlexSerif(0)/m/n/10.95 el versículo. Habacuc se dirige di
-rectamente al SEÑOR
- []
-
-
-Overfull \hbox (2.64203pt too wide) in paragraph at lines 2755--2755
- \TU/IBMPlexSerif(0)/m/n/10.95 (Jehová): no habla \TU/IBMPlexSerif(2)/m/it/10.9
-5 «sobre» \TU/IBMPlexSerif(0)/m/n/10.95 Dios, no razona \TU/IBMPlexSerif(2)/m/i
-t/10.95 «acerca» \TU/IBMPlexSerif(0)/m/n/10.95 de Dios, habla \TU/IBMPlexSerif(
-0)/b/n/10.95 a \TU/IBMPlexSerif(0)/m/n/10.95 Dios. La repetición
- []
-
-
 
 [60]
-Overfull \hbox (11.74095pt too wide) in paragraph at lines 2779--2779
- []\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc ahora |   [] \TU/IBMPlexSerif(0)/b/n/1
-0.95 el lenguaje de Dios\TU/IBMPlexSerif(0)/m/n/10.95 . Dios dijo: “Yo haré una
- obra” (1:5). Habacuc
- []
-
-
-Overfull \hbox (26.54704pt too wide) in paragraph at lines 2789--2789
- []\TU/IBMPlexSerif(0)/m/n/10.95 “\TU/IBMPlexSerif(2)/m/it/10.95 «En medio»\TU/
-IBMPlexSerif(0)/m/n/10.95 ” expresa espera |   [], tensión histórica, vida sin 
-resolución inmediata.
- []
-
-
-Overfull \hbox (4.3952pt too wide) in paragraph at lines 2805--2805
-  []\TU/IBMPlexSerif(0)/m/n/10.95 No pide cancelación del juicio, |   [] de la 
-justicia, evasión de consecuencias.
- []
-
-
 
 [61]
-Overfull \hbox (11.82901pt too wide) in paragraph at lines 2836--2836
- []\TU/IBMPlexSerif(0)/m/n/10.95 El título es intencional. Habacuc no enfatiza:
- poder militar, fuerza destructiva, dominio
- []
-
-
-Overfull \hbox (3.02278pt too wide) in paragraph at lines 2846--2846
- []\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc conecta a Dios con liberación pasada, 
-manifestación poderosa, intervención
- []
-
-
 
 [62]
-Overfull \hbox (7.5191pt too wide) in paragraph at lines 2866--2866
- []\TU/IBMPlexSerif(0)/m/n/10.95 La tierra \TU/IBMPlexSerif(0)/b/n/10.95 respon
-de \TU/IBMPlexSerif(0)/m/n/10.95 con alabanza. Esto |   [] que: la creación rec
-onoce a su Creador,
- []
-
-
-Overfull \hbox (3.07826pt too wide) in paragraph at lines 2868--2868
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esto anticipa directamente \TU/IBMPlexSerif(0)
-/b/n/10.95 Habacuc 2:14\TU/IBMPlexSerif(0)/m/n/10.95 : la |   [] llena del cono
-cimiento de la gloria
- []
-
-
-Overfull \hbox (16.13213pt too wide) in paragraph at lines 2894--2894
- []\TU/IBMPlexSerif(0)/m/n/10.95 La comparación “como la luz” indica: claridad 
-absoluta, imposibilidad de |   [],
- []
-
-
-Overfull \hbox (13.54938pt too wide) in paragraph at lines 2898--2898
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esto contrasta con: idolatría muda (2:18–19), 
-|   [] que operan en engaño, violencia
- []
-
-
 
 [63]
-Overfull \hbox (15.02861pt too wide) in paragraph at lines 2906--2906
- []\TU/IBMPlexSerif(0)/m/n/10.95 La imagen cambia de pasiva a \TU/IBMPlexSerif(
-0)/b/n/10.95 dinámica\TU/IBMPlexSerif(0)/m/n/10.95 . La mano representa: acción
- directa, |   []
- []
-
-
-Overfull \hbox (0.52985pt too wide) in paragraph at lines 2908--2908
- []\TU/IBMPlexSerif(0)/m/n/10.95 Los rayos: no son decorativos, no son |   [] s
-olamente, expresan \TU/IBMPlexSerif(0)/b/n/10.95 energía activa
- []
-
-
-Overfull \hbox (1.4175pt too wide) in paragraph at lines 2922--2922
-  []\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc 3:4 establece este |   []: Dios se re
-vela con claridad suficiente hacia
- []
-
-
-Overfull \hbox (41.01761pt too wide) in paragraph at lines 2940--2940
- []\TU/IBMPlexSerif(0)/m/n/10.95 La |   [] tiene \TU/IBMPlexSerif(0)/b/n/10.95 
-dirección\TU/IBMPlexSerif(0)/m/n/10.95 . La pestilencia no aparece por azar. No
- surge independientemente.
- []
-
-
-Overfull \hbox (29.84398pt too wide) in paragraph at lines 2950--2950
- []\TU/IBMPlexSerif(0)/m/n/10.95 La pestilencia aquí no es descrita médicamente
-, sino \TU/IBMPlexSerif(0)/b/n/10.95 como revelación de Dios\TU/IBMPlexSerif(0)
-/m/n/10.95 . Representa
- []
-
-
 
 [64]
-Overfull \hbox (18.50198pt too wide) in paragraph at lines 2952--2952
- \TU/IBMPlexSerif(0)/b/n/10.95 gobierno de Dios\TU/IBMPlexSerif(0)/m/n/10.95 . 
-Esto |   [] indirectamente a la crisis inicial: Dios no es espectador
- []
-
-
-Overfull \hbox (12.70604pt too wide) in paragraph at lines 2960--2960
- []\TU/IBMPlexSerif(0)/m/n/10.95 La plaga intensifica la imagen. No solo hay | 
-  [], sino \TU/IBMPlexSerif(0)/b/n/10.95 consumo\TU/IBMPlexSerif(0)/m/n/10.95 .
- Esto comunica:
- []
-
-
-Overfull \hbox (12.40475pt too wide) in paragraph at lines 2976--2976
-  []\TU/IBMPlexSerif(0)/m/n/10.95 En \TU/IBMPlexSerif(0)/b/n/10.95 Habacuc 3:6\
-TU/IBMPlexSerif(0)/m/n/10.95 , el avance divino afectará: tierra, montes, |   [
-] que parecen
+Overfull \hbox (0.68427pt too wide) in paragraph at lines 2197--2197
+[]\TU/IBMPlexSerif(0)/m/n/10.95 No sabes hablar griego. Pero sabes usarlo respo
+nsablemente. Y eso es exactamente el objetivo
  []
 
 
 
 [65]
-Overfull \hbox (7.88803pt too wide) in paragraph at lines 2998--2998
- \TU/IBMPlexSerif(0)/m/n/10.95 afirmar propiedad, ejercer derecho |   []. La ti
-erra no es autónoma. No se gobierna
- []
-
-
-Overfull \hbox (12.89922pt too wide) in paragraph at lines 3000--3000
- []\TU/IBMPlexSerif(0)/m/n/10.95 Es \TU/IBMPlexSerif(0)/b/n/10.95 medida por Di
-os\TU/IBMPlexSerif(0)/m/n/10.95 . Esto responde directamente a la |   [] humana
-: los imperios
- []
-
-
-Overfull \hbox (31.44899pt too wide) in paragraph at lines 3016--3016
- []\TU/IBMPlexSerif(0)/m/n/10.95 “\TU/IBMPlexSerif(2)/m/it/10.95 «Perpetuos»\TU
-/IBMPlexSerif(0)/m/n/10.95 ” refuerza esta idea: larga duración, resistencia hi
-stórica, autoridad simbólica.
- []
-
-
 
 [66]
-Overfull \hbox (40.39296pt too wide) in paragraph at lines 3028--3028
- \TU/IBMPlexSerif(0)/m/n/10.95 tiemblan, montes se deshacen, estructuras antigu
-as caen, \TU/IBMPlexSerif(0)/b/n/10.95 los caminos de Dios permanecen\TU/IBMPle
-xSerif(0)/m/n/10.95 . 
- []
-
-
-Overfull \hbox (13.00992pt too wide) in paragraph at lines 3032--3032
-  []\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc 3:6 establece este principio: Todo lo
- que parece |   [] en la historia
- []
-
-
-Overfull \hbox (5.09189pt too wide) in paragraph at lines 3034--3034
- \TU/IBMPlexSerif(0)/m/n/10.95 el dominio prolongado del mal. Aquí aprende que 
-lo antiguo no es eterno y lo poderoso
- []
-
-
-Overfull \hbox (23.09267pt too wide) in paragraph at lines 3036--3036
-  []\TU/IBMPlexSerif(0)/m/n/10.95 Este versículo: amplía el alcance de Dios |  
- [] a escala global, desmantela
- []
-
-
-Overfull \hbox (3.35275pt too wide) in paragraph at lines 3038--3038
-  []\TU/IBMPlexSerif(0)/m/n/10.95 En \TU/IBMPlexSerif(0)/b/n/10.95 Habacuc 3:7\
-TU/IBMPlexSerif(0)/m/n/10.95 , Habacuc volverá a mirar: pueblos |   [], tiendas
-, naciones
- []
-
-
-Overfull \hbox (6.29633pt too wide) in paragraph at lines 3050--3050
- []\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc vuelve a hablar en \TU/IBMPlexSerif(0)
-/b/n/10.95 primera persona\TU/IBMPlexSerif(0)/m/n/10.95 . No está citando una t
-radición abstracta.
- []
-
-
-Overfull \hbox (1.03552pt too wide) in paragraph at lines 3050--3050
- \TU/IBMPlexSerif(0)/m/n/10.95 (3:2); ahora \TU/IBMPlexSerif(0)/b/n/10.95 ve\TU
-/IBMPlexSerif(0)/m/n/10.95 . La fe no se limita a aceptar palabras; |   [] a \T
-U/IBMPlexSerif(0)/b/n/10.95 interpretar la historia
- []
-
-
-Overfull \hbox (25.67566pt too wide) in paragraph at lines 3056--3056
- []\TU/IBMPlexSerif(0)/m/n/10.95 La referencia a \TU/IBMPlexSerif(2)/m/it/10.95
- «tiendas» \TU/IBMPlexSerif(0)/m/n/10.95 es significativa. No se |   [] palacio
-s, ciudades fortificadas,
- []
-
-
 
 [67]
-Overfull \hbox (7.37946pt too wide) in paragraph at lines 3094--3094
- []\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc está viendo que la historia no es un e
-scenario distante, sino un lugar \TU/IBMPlexSerif(0)/b/n/10.95 habitado
- []
 
-
-Overfull \hbox (11.07565pt too wide) in paragraph at lines 3094--3094
- \TU/IBMPlexSerif(0)/b/n/10.95 por personas reales\TU/IBMPlexSerif(0)/m/n/10.95
- . Habacuc |   [] preocupado por: violencia concreta, injusticia
- []
-
-
-Overfull \hbox (3.78152pt too wide) in paragraph at lines 3107--3107
-[]\TU/IBMPlexSerif(0)/m/n/10.95 El versículo está compuesto por \TU/IBMPlexSeri
-f(0)/b/n/10.95 tres preguntas consecutivas\TU/IBMPlexSerif(0)/m/n/10.95 . No so
-n |   [] informativas.
- []
+Package longtable Warning: Column widths have changed
+(longtable)                in none 7 on input line 2376.
 
 
 
 [68]
-Overfull \hbox (2.66025pt too wide) in paragraph at lines 3127--3127
- []\TU/IBMPlexSerif(0)/m/n/10.95 El mar representa: caos, amenaza, fuerza incon
-trolable para el hombre. En la historia
- []
-
-
-Overfull \hbox (6.5178pt too wide) in paragraph at lines 3135--3135
- []\TU/IBMPlexSerif(0)/m/n/10.95 Aquí la imagen cambia. Dios |   [] como \TU/IB
-MPlexSerif(0)/b/n/10.95 guerrero victorioso\TU/IBMPlexSerif(0)/m/n/10.95 . Los 
-caballos: indican
- []
-
-
-Overfull \hbox (38.81741pt too wide) in paragraph at lines 3135--3135
- \TU/IBMPlexSerif(0)/m/n/10.95 avance, fuerza, velocidad, determinación. Pero n
-o son caballos humanos. Son \TU/IBMPlexSerif(0)/b/n/10.95 instrumentos
- []
-
-
-Overfull \hbox (1.774pt too wide) in paragraph at lines 3145--3145
- \TU/IBMPlexSerif(0)/m/n/10.95 la historia careciera de dirección. Aquí aprende
- que: incluso lo que parece descontrol
+Overfull \hbox (1.48566pt too wide) in paragraph at lines 2438--2439
+[]\TU/IBMPlexSerif(0)/m/n/10.95 El idioma original no complica innecesariamente
+. Aclara cuando se usa correctamente. 
  []
 
 
 
 [69]
-Overfull \hbox (7.55489pt too wide) in paragraph at lines 3161--3161
- \TU/IBMPlexSerif(0)/m/n/10.95 preparación explícita, intención manifiesta, acc
-ión deliberada. No es amenaza velada.
- []
 
+Package longtable Warning: Table widths have changed. Rerun LaTeX.
 
-Overfull \hbox (2.6835pt too wide) in paragraph at lines 3165--3165
-  []\TU/IBMPlexSerif(0)/m/n/10.95 A diferencia de armas de contacto, el arco ac
-túa a distancia. Esto sugiere: control,
- []
 
 
-Overfull \hbox (7.4381pt too wide) in paragraph at lines 3165--3165
- \TU/IBMPlexSerif(0)/m/n/10.95 precisión, alcance soberano. Dios no actúa por r
-eacción |   [], sino por \TU/IBMPlexSerif(0)/b/n/10.95 dirección
- []
-
-
-
-[70]
-Overfull \hbox (11.51732pt too wide) in paragraph at lines 3195--3195
- []\TU/IBMPlexSerif(0)/m/n/10.95 La imagen final vuelve a la creación. “Hendir”
- implica: Ruptura, |   [] decisiva,
- []
-
-
-Overfull \hbox (10.09503pt too wide) in paragraph at lines 3205--3205
-  []\TU/IBMPlexSerif(0)/m/n/10.95 Este versículo: Une poder y promesa, explica 
-por qué la acción de Dios es confiable,
- []
-
-
-Overfull \hbox (6.57741pt too wide) in paragraph at lines 3205--3205
- \TU/IBMPlexSerif(0)/m/n/10.95 prepara la confrontación directa con la |   [] e
-stremecida (3:10). La manifestación
- []
-
-
-Overfull \hbox (12.17435pt too wide) in paragraph at lines 3227--3227
- \TU/IBMPlexSerif(0)/m/n/10.95 El temblor no se refiere a su destrucción, sino 
-a una \TU/IBMPlexSerif(0)/b/n/10.95 respuesta reverente\TU/IBMPlexSerif(0)/m/n/
-10.95 . Esto |   []
- []
-
-
-
-[71]
-Overfull \hbox (8.59512pt too wide) in paragraph at lines 3235--3235
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esto sugiere: Límite impuesto, dirección |   [
-], duración determinada. La fuerza
- []
-
-
-Overfull \hbox (17.07236pt too wide) in paragraph at lines 3251--3251
-  []\TU/IBMPlexSerif(0)/m/n/10.95 La creación responde \TU/IBMPlexSerif(0)/b/n/
-10.95 naturalmente \TU/IBMPlexSerif(0)/m/n/10.95 a lo que el hombre discute en 
-su |   [].[] 
- []
-
-
-Overfull \hbox (13.24863pt too wide) in paragraph at lines 3257--3257
-  []\TU/IBMPlexSerif(0)/m/n/10.95 Este versículo: Intensifica la respuesta cósm
-ica a la manifestación de Dios, muestra
- []
-
-
-
-[72]
-
-[73]
-
-[74]
-Overfull \hbox (8.24231pt too wide) in paragraph at lines 3389--3389
- []\TU/IBMPlexSerif(0)/m/n/10.95 “Salvar” implica: Rescatar, |   [] en peligro,
- intervenir ante la incapacidad humana.
- []
-
-
-Overfull \hbox (16.05402pt too wide) in paragraph at lines 3397--3397
- []\TU/IBMPlexSerif(0)/m/n/10.95 La repetición no es redundante; es \TU/IBMPlex
-Serif(0)/b/n/10.95 especificación\TU/IBMPlexSerif(0)/m/n/10.95 . El “ungido” se
-ñala: Al |   []
- []
-
-
-
-[75]
-Overfull \hbox (0.50864pt too wide) in paragraph at lines 3425--3425
-  []\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc 3:13 establece este principio central
-: El juicio de Dios está |   []
- []
-
-
-
-[76]
-Overfull \hbox (17.0517pt too wide) in paragraph at lines 3473--3473
- []\TU/IBMPlexSerif(0)/m/n/10.95 Aquí Habacuc vuelve a aparecer |   []. No es a
-nálisis distante. Es \TU/IBMPlexSerif(0)/b/n/10.95 experiencia
- []
-
-
-Overfull \hbox (18.14108pt too wide) in paragraph at lines 3483--3483
- []\TU/IBMPlexSerif(0)/m/n/10.95 “En secreto” indica: Hipocresía, |   [] aparen
-te, ausencia de rendición de cuentas.
- []
-
-
-Overfull \hbox (19.45824pt too wide) in paragraph at lines 3485--3485
- \TU/IBMPlexSerif(0)/m/n/10.95 semillas de su propia destrucción cuando Dios in
-terviene. El |   [] no siempre introduce
- []
-
-
-Overfull \hbox (31.39426pt too wide) in paragraph at lines 3487--3487
-  []\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc se quejaba de: Violencia contra el | 
-  [], opresión del pobre, mal celebrándose
- []
-
-
-
-[77]
-Overfull \hbox (3.18951pt too wide) in paragraph at lines 3501--3501
- []\TU/IBMPlexSerif(0)/m/n/10.95 La acción es presentada con \TU/IBMPlexSerif(0
-)/b/n/10.95 calma |   []\TU/IBMPlexSerif(0)/m/n/10.95 . No dice: Luchaste, forz
-aste, irrumpiste.
- []
-
-
-Overfull \hbox (40.73804pt too wide) in paragraph at lines 3523--3523
- []\TU/IBMPlexSerif(0)/m/n/10.95 La frase intensifica el escenario. No son agua
-s |   []. Son \TU/IBMPlexSerif(0)/b/n/10.95 grandes aguas\TU/IBMPlexSerif(0)/m/
-n/10.95 , amontonadas. 
- []
-
-
-
-[78]
-Overfull \hbox (3.60316pt too wide) in paragraph at lines 3551--3551
- []\TU/IBMPlexSerif(0)/m/n/10.95 Este versículo: Concluye la manifestación de D
-ios, sella Su |   [], prepara el cambio
- []
-
-
-Overfull \hbox (8.05103pt too wide) in paragraph at lines 3555--3555
- \TU/IBMPlexSerif(0)/m/n/10.95 cambia donde estaba su fe, esto se verá en la | 
-  [] que se expresará en los siguientes
- []
-
-
-Overfull \hbox (1.92366pt too wide) in paragraph at lines 3570--3570
- []\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc vuelve al punto inicial de su transfor
-mación. Antes dijo: “\TU/IBMPlexSerif(2)/m/it/10.95 «he oído tu palabra,
- []
-
-
-Overfull \hbox (7.12054pt too wide) in paragraph at lines 3570--3570
- \TU/IBMPlexSerif(2)/m/it/10.95 y temí»\TU/IBMPlexSerif(0)/m/n/10.95 ” (3:2). A
-quí, oír ya no produce solo temor |   [], produce \TU/IBMPlexSerif(0)/b/n/10.95
- impacto corporal
- []
-
-
-Overfull \hbox (26.16382pt too wide) in paragraph at lines 3576--3576
- []\TU/IBMPlexSerif(0)/m/n/10.95 Las entrañas representan: centro emocional, | 
-  [] interna, reacción involuntaria.
- []
-
-
-Overfull \hbox (10.9929pt too wide) in paragraph at lines 3582--3582
- []\TU/IBMPlexSerif(0)/m/n/10.95 La voz de Dios provoca pérdida de |   [], inca
-pacidad de responder inmediatamente,
- []
-
-
-
-[79]
-Overfull \hbox (8.45866pt too wide) in paragraph at lines 3606--3606
- []\TU/IBMPlexSerif(0)/m/n/10.95 No porque no haya peligro, sino porque \TU/IBM
-PlexSerif(0)/b/n/10.95 Dios se ha revelado\TU/IBMPlexSerif(0)/m/n/10.95 . La qu
-ietud no es |   []
- []
-
-
-Overfull \hbox (7.35123pt too wide) in paragraph at lines 3620--3620
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esto es crucial: Habacuc acepta que el juicio 
-|   [] \TU/IBMPlexSerif(0)/b/n/10.95 aún vendrá\TU/IBMPlexSerif(0)/m/n/10.95 . 
-La fe no reescribe
- []
-
-
-Overfull \hbox (25.08559pt too wide) in paragraph at lines 3637--3637
- \TU/IBMPlexSerif(0)/m/n/10.95 alegrarse sin circunstancias |   [], muestra que
- la fe madura \TU/IBMPlexSerif(0)/b/n/10.95 coexiste con fragilidad
- []
-
-
-
-[80]
-Overfull \hbox (5.74037pt too wide) in paragraph at lines 3652--3652
- \TU/IBMPlexSerif(0)/b/n/10.95 cadena de concesiones\TU/IBMPlexSerif(0)/m/n/10.
-95 . No es una hipótesis única. Es una \TU/IBMPlexSerif(0)/b/n/10.95 desintegra
-ción progresiva
- []
-
-
-Overfull \hbox (10.45859pt too wide) in paragraph at lines 3684--3684
- []\TU/IBMPlexSerif(0)/m/n/10.95 Aquí se toca el \TU/IBMPlexSerif(0)/b/n/10.95 
-trabajo humano\TU/IBMPlexSerif(0)/m/n/10.95 . No es solo pérdida natural; es | 
-  [] del esfuerzo,
- []
-
-
-Overfull \hbox (30.71901pt too wide) in paragraph at lines 3694--3694
- []\TU/IBMPlexSerif(0)/m/n/10.95 Las ovejas representan: |   [] básica, segurid
-ad familiar, continuidad comunitaria. 
- []
-
-
-
-[81]
-Overfull \hbox (14.63783pt too wide) in paragraph at lines 3706--3706
- []\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc 3:17 establece este principio decisivo
-: La fe bíblica no depende ni de provisión,
- []
-
-
-Overfull \hbox (63.83542pt too wide) in paragraph at lines 3710--3710
- []\TU/IBMPlexSerif(0)/m/n/10.95 Habacuc comenzó pidiendo: Justicia inmediata, 
-|   [] visible, alivio de los acontecimientos. 
- []
-
-
-Overfull \hbox (2.06236pt too wide) in paragraph at lines 3712--3712
- []\TU/IBMPlexSerif(0)/m/n/10.95 Aquí acepta que la fe puede existir \TU/IBMPle
-xSerif(0)/b/n/10.95 sin ninguna señal externa de favor\TU/IBMPlexSerif(0)/m/n/1
-0.95 . Esto responde
- []
-
-
-Overfull \hbox (3.79pt too wide) in paragraph at lines 3712--3712
- \TU/IBMPlexSerif(0)/m/n/10.95 definitivamente a la idea de que la |   [] de Di
-os no se gana por justicia humana. 
- []
-
-
-Overfull \hbox (6.20776pt too wide) in paragraph at lines 3724--3724
- \TU/IBMPlexSerif(0)/m/n/10.95 debería ser inmediatamente aplicada, visiblement
-e efectiva y socialmente |   [];
- []
-
-
-Overfull \hbox (0.51376pt too wide) in paragraph at lines 3732--3732
- |   [] \TU/IBMPlexSerif(0)/m/n/10.95 de incredulidad a fe, sino de confiar en 
-cómo Dios debería actuar a descansar
- []
-
-
-
-[82]
-Overfull \hbox (7.47215pt too wide) in paragraph at lines 3734--3734
- []\TU/IBMPlexSerif(0)/m/n/10.95 Al final, ya no apela a la ley ni mide la just
-icia por resultados visibles, sino que descansa
- []
-
-
-Overfull \hbox (8.16783pt too wide) in paragraph at lines 3736--3736
- \TU/IBMPlexSerif(0)/m/n/10.95 justicia no importe, sino porque esperaba que el
- instrumento equivocado la asegurara. 
- []
-
-
-Overfull \hbox (28.25475pt too wide) in paragraph at lines 3748--3748
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esta expresión conecta directamente con \TU/IB
-MPlexSerif(0)/b/n/10.95 3:17\TU/IBMPlexSerif(0)/m/n/10.95 . No introduce un |  
- [] de circunstancias,
- []
-
-
-Overfull \hbox (5.52588pt too wide) in paragraph at lines 3750--3750
- []\TU/IBMPlexSerif(0)/m/n/10.95 “Con todo” significa: A pesar de todo lo |   [
-], sin condiciones nuevas, sin reversión
- []
-
-
-Overfull \hbox (27.48973pt too wide) in paragraph at lines 3756--3756
- []\TU/IBMPlexSerif(0)/m/n/10.95 El verbo está en un \TU/IBMPlexSerif(0)/b/n/10
-.95 futuro decidido\TU/IBMPlexSerif(0)/m/n/10.95 . No es: |   [] espontáneo, em
-oción automática,
- []
-
-
-Overfull \hbox (1.12581pt too wide) in paragraph at lines 3773--3773
-  []\TU/IBMPlexSerif(0)/m/n/10.95 Es \TU/IBMPlexSerif(0)/b/n/10.95 en Jehová\TU
-/IBMPlexSerif(0)/m/n/10.95 . La fe |   [] no se alegra \TU/IBMPlexSerif(2)/m/it
-/10.95 «por medio» \TU/IBMPlexSerif(0)/m/n/10.95 de Dios, sino \TU/IBMPlexSerif
-(0)/b/n/10.95 en Dios mismo\TU/IBMPlexSerif(0)/m/n/10.95 .
- []
-
-
-Overfull \hbox (22.10597pt too wide) in paragraph at lines 3779--3779
- \TU/IBMPlexSerif(0)/m/n/10.95 intensifican la declaración. Habacuc no afirma u
-na |   [] fría, sino una \TU/IBMPlexSerif(0)/b/n/10.95 afirmación
- []
-
-
-
-[83]
-Overfull \hbox (29.79044pt too wide) in paragraph at lines 3804--3804
-  []\TU/IBMPlexSerif(0)/m/n/10.95 Este versículo: Declara el centro emocional y
- |   [] del final, prepara la afirmación
- []
-
-
-Overfull \hbox (8.75063pt too wide) in paragraph at lines 3806--3806
-  []\TU/IBMPlexSerif(0)/m/n/10.95 La historia puede colapsar, no |   []. Pero D
-ios \TU/IBMPlexSerif(0)/b/n/10.95 permanece como suficiente\TU/IBMPlexSerif(0)/
-m/n/10.95 .[] 
- []
-
-
-
-[84]
-Overfull \hbox (4.66528pt too wide) in paragraph at lines 3826--3826
- []\TU/IBMPlexSerif(0)/m/n/10.95 Después de haber perdido: Estabilidad económic
-a, seguridad |   [], futuro visible.
- []
-
-
-Overfull \hbox (22.39433pt too wide) in paragraph at lines 3834--3834
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esto no describe huida, sino \TU/IBMPlexSerif(
-0)/b/n/10.95 capacidad para moverse con seguridad\TU/IBMPlexSerif(0)/m/n/10.95 
-. La fe no inmoviliza;
- []
-
-
-Overfull \hbox (19.18866pt too wide) in paragraph at lines 3852--3852
- \TU/IBMPlexSerif(0)/m/n/10.95 no es privada, la fe vivida se convierte en |   
-[], la confianza personal se transforma
- []
-
-
-
-[85]
-Overfull \hbox (8.58246pt too wide) in paragraph at lines 3869--3869
- []\TU/IBMPlexSerif(0)/b/n/10.95 Conclusión final del mensaje de Habacuc: El ju
-sto no vive porque entiende la justicia
- []
-
-
-
-[86]
-
-[87]
-
-[88] (./teacher_manual.aux)
+[70] (./teacher_manual.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 
 
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package rerunfilecheck Info: File `teacher_manual.out' has not changed.
-(rerunfilecheck)             Checksum: 847C612872C56958D556E363F9C43E5A;27631.
+
+Package rerunfilecheck Warning: File `teacher_manual.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `teacher_manual.out':
+(rerunfilecheck)             Before: 213740E76E830D46319A7345207CE524;4802
+(rerunfilecheck)             After:  B1649DFF532E9FAD11858DBEB16142F8;11774.
  ) 
 Here is how much of TeX's memory you used:
- 30706 strings out of 473832
- 663573 string characters out of 5729482
- 1171756 words of memory out of 5000000
- 53271 multiletter control sequences out of 15000+600000
- 562940 words of font info for 78 fonts, out of 8000000 for 9000
+ 30991 strings out of 473832
+ 668257 string characters out of 5729482
+ 1145705 words of memory out of 5000000
+ 53548 multiletter control sequences out of 15000+600000
+ 562924 words of font info for 76 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 121i,17n,124p,1110b,733s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 121i,17n,124p,512b,971s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on teacher_manual.pdf (88 pages).
+Output written on teacher_manual.pdf (70 pages).
