@@ -21,18 +21,31 @@ Introducción al Griego para el Estudio Bblico
 
 Este manual no <u>existe</u> para producir expertos. Existe para producir estudiantes disciplinados. En CGV no buscamos impresionar. Buscamos entender el texto.
 
-El griego <u>no</u> es: 
+==Este manual no fue desarrollado con el <u>proposito</u> de producir "intelecuales". Sino para producir estudiantes disciplinados de la Palabra de Dios. El proposito de CGV no esta horientado impresionar, sino a entender el texto.==
+
+El griego <u>no</u> es:
+
+==Aprender griego **no** es para tener:==
+
 - Una herramienta para <u>ganar</u> discusiones.
 - Una forma de <u>sonar</u> profundo.
 - Un atajo para <u>nuevas</u> interpretaciones.
 
+- ==Un atajo para <u>nuevas</u> interpretaciones "ocultas".==
+
 Es información lingüística. Si se usa sin disciplina, <u>genera</u>:
+
+==El griego en el estudio de la Palabra puede llegar a ser una gran herramienta de información lingüística. Pero si se usa sin disciplina, <u>genera</u>:==
+
 - Conclusiones exageradas.
 - Sermones <u>débiles</u>.
 - Argumentos <u>mal</u> construidos.
 - Confusión innecesaria.
 
 Si se <u>usa</u> con disciplina, produce:
+
+==Por otro lado si se <u>usa</u> con disciplina, produce:==
+
 - Claridad.
 - <u>Precisión</u>.
 - Humildad interpretativa.
@@ -40,7 +53,11 @@ Si se <u>usa</u> con disciplina, produce:
 
 Este curso te enseñará a usar herramientas. Pero la herramienta no es el centro. El <u>texto</u> lo es.
 
-El griego no reemplaza la observación. La fortalece <u>cuando</u> se usa correctamente. 
+==Este curso te enseñará a usar herramientas basadas en la gramática del griego. Pero al final las herramientas son solo un apoyo, no son el centro de enfoque. El <u>texto</u> (la Escritura) lo es.==
+
+El griego no reemplaza la observación. La fortalece <u>cuando</u> se usa correctamente.
+
+==El griego no reemplaza la observación del texto. La fortalece <u>cuando</u> se usa **correctamente**.==
 
 Nuestro compromiso es <u>simple</u>:
 - Leer <u>con</u> precisión.
@@ -51,9 +68,16 @@ Nuestro compromiso es <u>simple</u>:
 
 ## 1. ¿Qué estás viendo cuando ves palabras en griego?
 
+==NO ENTIENDO EL TITULO 1.==
+==Podría ser. ¿Porqué  estudiar griego?  o algo así?? ?? ??==
+
 ##### El Nuevo Testamento Fue <u>Escrito</u> en Griego
 
+==<-- Parece un texto repetido==
+
 ##### El <u>Nuevo</u> Testamento fue escrito en griego koiné.
+
+==Es importante saber que todo lo que tenemos del Nuevo Testamento fue escrito en Griego Koine.==
 
 No fue escrito en inglés. No fue <u>escrito</u> en latín. No fue escrito en español.
 
@@ -66,7 +90,10 @@ Cuando abrimos una Biblia en español estamos leyendo una traducción <u>fiel</u
 
 ## 2. El Momento en Que Aparece el Problema
 
-##### Muchos estudiantes hoy usan: Logos, Blue Letter Bible, BibleHub, interlineales, números Strong Y de <u>repente</u> aparece algo como esto:
+##### Muchos estudiantes hoy usan: Logos, Blue Letter Bible, BibleHub, interlineales, números Strong Y de <u>repente</u> aparece algo como esto: 
+
+==Muchos creyentes que desean estudiar las Escrituras de una manera más precisa comprenden que el camino es sumergirce al griego (idioma original). Por tal motivo como autodidactas optan por herramientas como: Logos, Blue Letter Bible, BibleHub, interlineales, números Strong. ==
+==Y de <u>repente</u> aparece algo como esto:==
 
 |λόγος|
 |----|
@@ -80,7 +107,9 @@ Cuando abrimos una Biblia en español estamos leyendo una traducción <u>fiel</u
 - <u>Exagerar</u> significados
 - Confundir términos
 - Usar Strong como si <u>fuera</u> un diccionario final
+- ==Usar Strong como si <u>fuera</u> un diccionario que da el significado final al pasaje==
 - Hacer afirmaciones incorrectas <u>sobre</u> “el original”
+- ==No entiendo a que se refiere con "el original"==
 
 ##### Este <u>curso</u> comienza aquí.
 
@@ -89,8 +118,12 @@ Cuando abrimos una Biblia en español estamos leyendo una traducción <u>fiel</u
 ##### Cuando una palabra griega aparece en una herramienta, normalmente estás <u>viendo</u> tres cosas:
 
 1. La forma griega específica que aparece en el <u>versículo</u>.
+
 2. El <u>lema</u> (la forma base).
+
 3. Información morfológica.
+
+   ==QUIZA SE BUENA COLOCAR EJEMPLOS==
 
 A veces también:
 4. Un <u>número</u> Strong.
@@ -101,23 +134,24 @@ Cada uno cumple una <u>función</u> diferente. Este manual te enseñará a disti
 
 En muchos contextos cristianos se escucha: “En el <u>griego</u> original esta palabra significa…" Y muchas veces la frase termina la discusión. 
 
-Pero el griego no es mágico.
- Es un idioma.
+Pero el griego no es mágico. Es un idioma.
+
+==Pero el griego no es "mágico", tener el significado literal de una sola palabra no define todo el significado de un pasaje. El griego es un idioma.==
 
 Y como todo <u>idioma</u>:
 - Las palabras cambian de <u>forma</u>.
-- El <u>contexto</u> determina significado.
+- El <u>contexto</u> determina el significado.
 - Una palabra <u>puede</u> tener varios usos.
 - La gramática <u>tiene</u> límites.
 
 El problema no es consultar el griego.
- El problema es no <u>saber</u> qué estás consultando.
+El problema es no <u>saber</u> qué estás consultando.
 
 ## 5. ¿Necesitas Hablar Griego Para Usar Herramientas?
 
-##### No es necesario ser griego parlante para estudiar el <u>griego</u>.
+##### No es necesario ser griego parlante para estudiar el <u>griego</u> y usar sus respectivas herramientas.
 
-###### Pero sí necesitas entender:
+###### Pero sí necesitas entender cosas como:
 
 - ¿Qué es un <u>lema</u>?
 - ¿Qué es morfología?
@@ -160,11 +194,11 @@ Busca en una herramienta bíblica (Logos, Blue Letter Bible o BibleHub) el <u>te
 
 ###### Observa la palabra: λόγος.  Responde:
 
-- ¿Aparece un número <u>Strong</u> junto a la palabra?
+- ¿Aparece un número <u>Strong</u> (ej: G3056) junto a la palabra?
 
-- ¿<u>Aparece</u> información morfológica?
+- ¿<u>Aparece</u> información morfológica (ej: N-NSM)?
 
-- ¿Puedes distinguir entre la palabra que aparece en el versículo y el <u>lema</u> base?
+- ¿Puedes distinguir entre la palabra que aparece en el versículo y el <u>lema</u> base (ej: lógos)?
 
 ##### No necesitas entender todo todavía. Solo identifica lo que estás <u>viendo</u>.
 
@@ -280,7 +314,7 @@ Algunas letras parecen españolas, pero no lo <u>son</u>.
 
 ## 5. No Necesitas Pronunciar Perfectamente
 
-###### Para usar herramientas correctamente, no necesitas:
+###### Para usar herramientas de griego, no necesitas:
 
 - Sonar como profesor de <u>griego</u>.
 
@@ -447,7 +481,7 @@ Algunas letras parecen españolas, pero no lo <u>son</u>.
 - <u>Asiento</u>
 - Conjunto de <u>peces</u>
 
-###### El contexto determina el significado. Lo mismo ocurre en griego. Strong no decide el significado. El contexto lo <u>hace</u>.
+###### El contexto determina el significado. Lo mismo ocurre en griego. Strong no decide el significado final de un pasaje. El contexto lo <u>hace</u>.
 
 ##### 4. Strong No Es <u>Igual</u> a Significado
 
@@ -844,7 +878,7 @@ Escribe lo que observas.
 
 ###### Di mejor: “El verbo está en aoristo, lo cual describe la acción como un todo; ahora debemos considerar el contexto.”
 
-###### Eso es uso responsable.
+###### Eso es uso responsable, disciplinado.
 
 ## Práctica Breve
 
@@ -1016,10 +1050,10 @@ Un léxico:
 - Muestra posibles usos
 - A <u>veces</u> ofrece ejemplos
 
-Un léxico no:
-- Interpreta tu versículo
-- Decide automáticamente qué significa la palabra en tu contexto
-- Elimina la necesidad de observar el texto
+Lo que un léxico **no hace**:
+- No interpreta tu versículo
+- No decide automáticamente qué significa la palabra en tu contexto
+- No elimina la necesidad de observar el texto
 
 El léxico informa posibilidades.
 El contexto decide cuál posibilidad <u>aplica</u>.
@@ -1076,7 +1110,7 @@ El contexto decide cuál posibilidad <u>aplica</u>.
 
 ##### 5. Lo Que Un Léxico No Hace
 
-###### Un léxico no: Te dice la intención del autor. 
+###### Un léxico no te dice la intención del autor. 
 
 - Te dice el énfasis retórico.
 - Te dice cómo <u>aplicar</u> el texto.
