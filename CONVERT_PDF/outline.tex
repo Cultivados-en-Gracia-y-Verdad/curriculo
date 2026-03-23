@@ -64,7 +64,7 @@
 
 % Anchorblock environment – handles H4 + H5 together
 \newenvironment{anchorblock}[1]{%
-  \par\vspace{-0.8em}
+  \par\vspace{-0.7em}
 
   % Anchor word
   {\ScriptureFont\itshape\color{\AnchorColor}\normalsize %
@@ -81,7 +81,7 @@
 }{%
   \par
   \endgroup
-  \vspace{0.8em}
+  \vspace{0.7em}
 }
 
 
@@ -193,10 +193,10 @@
 \renewcommand{\footnotesize}{\fontsize{9pt}{11pt}\selectfont\color{black!45}}
 
 %Rule before H1
-\newcommand{\sectionrule}{
-  \vspace{0.2em}
-  \noindent\hspace*{0.15\linewidth}\rule{0.3\linewidth}{0.3pt}
-  \vspace{0.2em}
+\newcommand{\sectionrule}{%
+  \vspace{0.4em}
+  \centerline{\rule{6cm}{0.4pt}}
+  \vspace{0.6em}
 }
 % footer space
 %\usepackage[bottom]{footmisc}
@@ -227,7 +227,7 @@
 
 \newcommand{\sintesisTitle}[1]{%
   {\headingfont\bfseries\itshape\color{black!60}#1\par}%
-  \vspace{0.8em}%
+  \vspace{0.7em}%
 }
 
 \newcommand{\sintesisItem}[1]{%

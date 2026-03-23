@@ -448,7 +448,7 @@ date: "2026-02-24"
 
 ###### Poco después __<u>poseyó</u>__ a la serpiente y fue con la intención de mentir contra Dios y subyugar al hombre.
 
-###### Vemos que Dios no solo castiga al hombre en Génesis 3, sino que también a la serpiente. Si la serpiente, es decir Satanás, ya recibió su condena previa por rebelarse contra Dios, entonces ya su __<u>sentencia</u>__ hubiese sido hecha. Sin embargo, es en Génesis 3 que nos enteramos de que Dios castiga a Satanás para arrastrarse sobre la tierra. Deducimos que, aunque Satanás tuvo la intención en su corazón no llego a efectuar su plan sino en Genesis 2. 
+###### Vemos que Dios no solo castiga al hombre en Génesis 3, sino que también a la serpiente. Si la serpiente, es decir Satanás, ya recibió su condena previa por rebelarse contra Dios, entonces ya su __<u>sentencia</u>__ hubiese sido hecha. Sin embargo, es en Génesis 3 que nos enteramos de que Dios castiga a Satanás para arrastrarse sobre la tierra. Deducimos que, aunque Satanás tuvo la intención en su corazón no llego a efectuar su plan sino en Genesis 3. 
 
 #### Dios creó los ángeles para un propósito especial.
 
