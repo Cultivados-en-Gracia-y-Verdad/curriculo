@@ -19,7 +19,7 @@ Introducción al Griego para el Estudio Bblico
 
 ## DISCIPLINA EN EL USO DEL GRIEGO
 
-Este manual no <u>existe</u> para producir expertos. Existe para producir estudiantes disciplinados. En CGV no buscamos impresionar. Buscamos entender el texto.
+Este manual no <u>existe</u> para producir expertos. Existe para producir estudiantes disciplinados. En CGV no buscamos impresionar. Buscamos entender el texto bíblico.
 
 ==Este manual no fue desarrollado con el <u>proposito</u> de producir "intelecuales". Sino para producir estudiantes disciplinados de la Palabra de Dios. El proposito de CGV no esta horientado impresionar, sino a entender el texto.==
 
