@@ -2147,59 +2147,61 @@ date: 2026-02-29
 
 ### *Pues la ira de Dios vendrá sobre los hijos de desobediencia por causa de estas cosas,*
 
-##### La ira de Dios se refiere al juicio destinado a los incrédulos, por causa de estas cosas, entonces ¿ por que el creyente, nacido de nuevo, estaría practicando estas cosas las cuales ya tienen su juicio destinado para los hijos de desobediencia?
+##### La ira de Dios se refiere al juicio destinado a los incrédulos (Hijos de desobediencia), este no es un juicio al creyente que practica estas cosas, sino está explicando, ¿por que los creyentes estarían practicando estas cosas? sobre las cuales la ira de Dios vendrá (Juicio a los incrédulos)
 
-##### Nos mostrará que nosotros los creyentes un día anduvimos como hijos de desobediencia, sin embargo fue cambiada nuestra realidad a hijos de Dios.
+##### No tiene sentido que el creyente (identificado en el bautismo de Cristo) se encuentre practicando tales cosas de las cuales ya ha sido librado.
 
-#### Pues la ira de Dios
+#### Pues la ira de Dios vendrá sobre los hijos de desobediencia
 
-##### Que es la ira de Dios?, la ira de Dios cuando vendrá?, a quienes vendrá la ira de Dios?, la ira de Dios vendrá sobre los creyentes?, se puede perder la salvación por la práctica de estos pecados?
+##### La palabra ira ORGE expresa una indignación justa contra el pecado, considerando los atributos justos de Dios, la ira de Dios no es la misma que los humanos, la ira de Dios está basada en su santidad y justicia conta el pecado, sin embargo la ira que es producida por los humanos, es provocada por nuestra naturaleza pecaminosa y es intencionada hacia el mal. 
 
-##### Por que la ira de Dios es santa?, y por que su ira viene en Justicia? contra la iniquidad y contra la perversión?
+##### La ira de Dios no va separado de sus demás atributos, como su santidad, justicia, amor y misericordia.
 
-##### Cual es el castigo de la ira de Dios? será que es la muerte? o un castigo eterno?
+##### La ira de Dios en este pasaje hace referencia a un juicio venidero para todos hijos de desobediencia (el mundo incrédulo). Romanos 1:18, 2:5, 3:5-6; Efesios 5:6; Apocalipsis 20:11-15
 
-#### vendrá sobre los hijos de desobediencia
+##### Es importante aclarar que no se encuentra hablando de una ira venidera hacia los creyentes que practican tales cosas, sino a los hijos de desobediencia (no creyentes). Efesios 2:2-3; Romanos 8:1
 
-##### La ira de Dios vendrá sobre los hijos de desobediencia, quienes son?, será que son los creyentes hijos de Dios que son desobedientes a la escritura?, será que son los hijos de Dios que se mantienen en desobediencia sobre el pecado?
+##### Se podría decir: Dios ya juzgó en su ira a los hijos de desobediencia que practican estas cosas, ¿por que los creyentes, hijos de Dios estarían practicando tales cosas?
 
-##### Los hijos de desobediencia son todos los incrédulos, basado en el siguiente versículo nos mostrará que antes andábamos así.
-
-
-
-##### Los hijos de desobediencia son aquellos quienes no creyeron en el evangelio, o aquellos que no obedecieron a la fe, la ira de Dios viene por causa de la impiedad, e injusticia de los hombres,sin embargo vemos estas acciones en un contexto a creyentes. como se explica esto?
-
-##### Podríamos entender que sobre los incrédulos vendrá la ira de Dios y los que practican estas cosas, sin embargo a los creyentes nos muestra, por que estarías practicando estas cosas sabiendo que estas muerto al pecado, y sabiendo que los que practican tales cosas vendrá la ira de Dios sobre ellos?.
+##### El verbo vendrá ERJOMAI se encuentra en tiempo presente medio indicativo, expresando un juicio seguro venidero.
 
 #### por causa de estas cosas,
 
-##### La ira de Dios viene por causa de los pecados mencionados en el versículo 5?, por causa de estas cosas nos muestra este versículo que viene la ira de Dios sobre los incrédulos.
+##### Hace un énfasis en estos tipos de pecados, los cuales el creyente podría estar practicando, que la ira de Dios viene por causa de estas cosas al mundo incrédulo.
 
-##### los hijos de desobediencia son los que éramos en otro tiempo, cuando éramos incrédulos y vivíamos practicando todas estas iniquidades.
+##### De manera similar expresa en la carta a los gálatas hablando a los creyentes, con referencia a los (incrédulos) que practican tales cosas y que no heredarán el reino de Dios. *...que los que practican tales cosas no heredarán el reino de Dios.* Gálatas 5:21
+
+##### Entonces, haciendo la pregunta retórica, ¿por que los creyentes tendrían que estar practicando estas mismas cosas las cuales viene la ira de Dios?
 
 ### Colosenses 3:7 
 
 ### *en las cuales ustedes también anduvieron en otro tiempo cuando vivían en ellas.*
 
-##### 
+##### El apóstol Pablo hace recuerdo a los creyentes que ellos tambien en otro tiempo se encontraban en la misma condición que el mundo incrédulo, sin embargo eso ya no es la realidad actual de los creyentes.
 
 #### en las cuales ustedes también anduvieron en otro tiempo
 
-##### entre esos pecados antes nosotros andábamos, andábamos en fornicación impureza, malos deseos, y éramos hijos de desobediencia, hijos sobre los cuales la ira de Dios vendría, sin embargo eso fue en otro tiempo. en un tiempo cuando estábamos muertos en nuestros delitos y pecados.
+##### Los creyentes, en su pasada manera de vivir, como incrédulos, andaban llenos de fornicación, impureza, malos deseos y avaricia, en el cual se encontraban bajo la ira de Dios.
 
-##### En genial poder entender que eso fue en un tiempo pasado, podríamos mirar atrás y ver de donde nos sacó Dios, y ahora en que posición estamos los creyentes.
+##### Sin embargo hace énfasis en la mención: "En otro tiempo", actualmente los creyentes no deberían encontrarse practicando estas cosas, las cuales lo hacían cuando eran incrédulos y se encontraban bajo la ira de Dios. Efesios 2:2
+
+##### No deberían estar practicando estas cosas, debido a que ahora es otra la realidad del creyente, totalmente contraria a su antigua manera de vivir.
 
 #### cuando vivían en ellas.
 
-##### En ese tiempo solo teníamos una manera de andar, por medio de la carne con sus pasiones y deseos, y el único resultado que producía era muerte.
+##### En un tiempo pasado los creyentes se encontraban viviendo en estas cosas, sin embargo ahora es otra la realidad del creyente, esta mala manera de vivir, finalizó y ya no debería ser  la realidad de cada creyente en su manera de vivir, volviendo a su identificación en el bautismo de Cristo, ya no es la realidad de cada creyente el estar practicando las cosas que antes hacía cuando se encontraba en una condición separada de Dios.
 
-##### En la vida pasada, cuando éramos incrédulos, vivíamos en estas cosas, era nuestra manera de vivir, y no teníamos otra manera con la cual comportarnos, sin embargo ahora es diferente. Podemos comportarnos de una manera que agrade a Dios y tambien alejados de estas acciones que antes practicábamos y nos deleitábamos.
+##### El verbo vivían ZAO significa la manera en la que alguien se conduce en su vida, hace énfasis en que se encontraban practicando estos tipos de pecados en su manera de vivir, no eran actos ocasionales, sino era su forma de vida, se encuentra en modo imperfecto, expresando una acción continua o habitual en el pasado.
+
+##### En la pasada manera de vivir, lo único que podríamos producir era muerte, debido a que no teníamos el espíritu, y solo nos guiábamos bajo nuestra naturaleza de pecado, con sus pasiones y deseos. Romanos 6:21, 7:5
 
 ### Colosenses 3:8 
 
 ### *Pero ahora desechen también todo esto: ira, enojo, malicia, insultos, lenguaje ofensivo de su boca.* 
 
-##### Es interesante que ahora como creyentes podemos desechar tambien todas estas actitudes internas, las cuales parecieran no tan graves como las anteriores, sin embargo ahora nos mostrará que podemos desecharlo.
+##### Considerando el ejemplo que dio, con respecto a los pecados mencionados en los miembros de su cuerpo físico(de manera externa), ahora les mandará a que desechen también estos tipos de acciones que son producidas desde su interior de su cuerpo (de manera interna).
+
+##### Estas acciones internas producidas por el "carácter", "malos hábitos", o "actitud fuerte", pueden ser vistas por los creyentes como pecados no tan graves como los anteriores, sin embargo considerando su nueva identidad en Cristo, Pablo manda a que sean desechados de igual manera.
 
 #### Pero ahora desechen también todo esto:
 
