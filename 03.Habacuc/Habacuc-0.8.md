@@ -3,42 +3,10 @@ title: "Habacuc"
 subtitle: "Haré una Obra"
 author: "CGV"
 cover: "images/portada.png"
-version: "0.7"
+version: "0.8"
 date: "2026-02-26"
 ---
 
-
-**TABLA DE CONTENIDOS**
-
-INTRODUCCIÓN
-
-MARCO HISTÓRICO Y CONTEXTO
-
-HABACUC 1:1 — TÍTULO Y MARCO PROFÉTICO
-
-HABACUC 1:2–4 LA QUEJA DEL PROFETA ANTE LA REALIDAD
-
-HABACUC 1:5 DIOS RESPONDE LEVANTANDO A BABILONIA
-
-HABACUC 1:6–11 DESCRIPCIÓN DEL INSTRUMENTO LEVANTADO POR DIOS
-
-HABACUC 1:12–17 SEGUNDA QUEJA DEL PROFETA
-
-HABACUC 2:1 LA POSTURA DEL PROFETA EN ESPERA
-
-HABACUC 2:2–5 LA VISIÓN ESCRITA Y EL JUSTO QUE VIVE POR FE
-
-HABACUC 2:6–20 LOS AYES CONTRA EL ORGULLO QUE SE EXPANDE
-
-HABACUC 3 LA ORACIÓN DEL PROFETA DESPUÉS DE ESCUCHAR A DIOS
-
-CONCLUSIÓN
-
-APÉNDICE
-
-BIBLIOGRAFÍA
-
------
 :::title
 HABACUC
 :::
@@ -67,19 +35,19 @@ Este libro no fue escrito para negar la realidad de Judá, sino para <u>confront
 
 ## ¿Porqué Dios habla antes de explicar?
 
-Cuando Dios responde, no comienza <u>validando</u> el análisis del profeta. No empieza justificando Su proceder. No entra en diálogo moral. Dios declara: “*Yo haré una obra*.”
+Cuando Dios responde, no comienza <u>validando</u> el análisis del profeta. No empieza justificando Su proceder. No entra en diálogo moral. Dios declara: *Yo haré una obra*.
 
-Esa frase no tranquiliza. Descoloca. Interrumpe. Antes de explicar *¿por qué?*, Dios <u>afirma</u> *qué* hará. Antes de responder a la justicia humana, Dios establece Su soberanía.
+Esa frase no tranquiliza. Descoloca. Interrumpe. Antes de explicar ¿por qué?, Dios <u>afirma</u> qué hará. Antes de responder a la justicia humana, Dios establece Su soberanía.
 
 Este manual se rige por ese orden. El error no está en ver, sino en medir.  Habacuc ve correctamente la violencia en Judá. Pero **mide a Dios** usando esa <u>violencia</u> como punto de referencia.
 
-- Su lógica es comparativa: Judá es injusta, <u>Babilonia</u> es más injusta, Por lo tanto, Judá debería ser tratada con mayor indulgencia, Ese razonamiento no niega el pecado. Lo **gradúa**.
+• Su lógica es comparativa: Judá es injusta, <u>Babilonia</u> es más injusta, Por lo tanto, Judá debería ser tratada con mayor indulgencia, Ese razonamiento no niega el pecado. Lo **gradúa**.
 
-- ### Aquí comienza el <u>conflicto</u> central del libro: no entre justicia e injusticia, sino entre **justicia humana y justicia divina**.
+• Aquí comienza el <u>conflicto</u> central del libro: no entre justicia e injusticia, sino entre **justicia humana y justicia divina**.
 
-- ### Este libro no resuelve la tensión ,  la sostiene. Habacuc no recibe una explicación que <u>armonice</u> todo. Recibe una redefinición de cómo se vive **cuando la justicia no se entiende**.
+• Este libro no resuelve la tensión ,  la sostiene. Habacuc no recibe una explicación que <u>armonice</u> todo. Recibe una redefinición de cómo se vive **cuando la justicia no se entiende**.
 
-- ### Por eso, este estudio: no apresura conclusiones, no suaviza el escándalo del texto, no <u>convierte</u> la fe en comprensión, La fe que emerge en Habacuc no es fe en un sistema explicado, sino **confianza en Dios sin resolución moral completa**.
+• Por eso, este estudio: no apresura conclusiones, no suaviza el escándalo del texto, no <u>convierte</u> la fe en comprensión, La fe que emerge en Habacuc no es fe en un sistema explicado, sino **confianza en Dios sin resolución moral completa**.
 
 ## Cómo leer Habacuc verso por verso
 
@@ -115,11 +83,11 @@ El libro se sitúa **a finales del siglo VII a.C.**, <u>aproximadamente</u> entr
 
 Este es un período de **transición <u>violenta</u>** en el cercano oriente:
 
-- Asiria está <u>colapsando</u>
-- Nínive cae en el año 612 a.C.
-- Babilonia emerge rápidamente como <u>potencia</u> dominante
-- Egipto intenta <u>mantener</u> influencia en Judá
-- Judá se encuentra políticamente vulnerable y <u>espiritualmente</u> deteriorada.
+• Asiria está <u>colapsando</u>  
+• Nínive cae en el año 612 a.C.  
+• Babilonia emerge rápidamente como <u>potencia</u>  dominante  
+• Egipto intenta <u>mantener</u> influencia en Judá  
+• Judá se encuentra políticamente vulnerable y <u>espiritualmente</u> deteriorada.  
 
 ## Judá bajo el rey Joacim
 
@@ -127,11 +95,11 @@ El reinado de **Joacim (609–598 a.C.)** es <u>clave</u> para entender Habacuc.
 
 Características del período:
 
-- Injusticia institucional
-- Opresión económica
-- Violencia interna
-- Desprecio por la ley de Dios
-- Represión de los profetas
+• Injusticia institucional  
+• Opresión económica  
+• Violencia interna  
+• Desprecio por la ley de Dios  
+• Represión de los profetas  
 
 Otros profetas contemporáneos (como Jeremías) <u>describen</u> este tiempo como uno de: corrupción abierta, liderazgo explotador, falsa seguridad religiosa, Habacuc **no exagera** cuando habla de violencia.
 
@@ -145,10 +113,10 @@ La tensión surge cuando Habacuc <u>interpreta</u> esa culpa y **evalúa la resp
 
 Su marco implícito es:
 
-- Dios <u>debería</u> actuar según **comparación moral**
-- Dios debería <u>castigar</u> al más malo primero
-- Dios debería explicar Su <u>justicia</u> antes de ejercerla
-- Ese marco no es <u>pagano</u>. Es **religioso**.
+• Dios <u>debería</u> actuar según **comparación moral**  
+• Dios debería <u>castigar</u> al más malo primero  
+• Dios debería explicar Su <u>justicia</u> antes de ejercerla  
+• Ese marco no es <u>pagano</u>. Es **religioso**.  
 
 ## Babilonia como instrumento histórico
 
@@ -164,9 +132,9 @@ Con este marco: la violencia es real, la crisis es concreta, la confrontación e
 
 **Puente hacia el estudio textual**
 
-###### Con el contexto establecido, el lector ahora está listo para entrar al texto y enfrentar la primera pregunta real del libro: ¿La realidad de las <u>circunstancias</u> pueden llevar una conclusión correcta sobre Dios?
+Con el contexto establecido, el lector ahora está listo para entrar al texto y enfrentar la primera pregunta real del libro: ¿La realidad de las <u>circunstancias</u> pueden llevar una conclusión correcta sobre Dios?
 
-###### Esa pregunta gobierna Habacuc 1:1–4.
+Esa pregunta gobierna Habacuc 1:1–4.
 
 # HABACUC 1:1 — TÍTULO Y MARCO PROFÉTICO
 
@@ -175,8 +143,7 @@ Con este marco: la violencia es real, la crisis es concreta, la confrontación e
 ### Habacuc 1:1 
 Oráculo que tuvo en visión el profeta Habacuc.
 
-#### Oráculo [La carga - RV09]
-
+#### Oráculo [carga - RV09]
 ##### El libro no comienza con una visión de <u>esperanza</u> ni con una promesa. Comienza con una **carga**. Nahúm 1:1; Zacarias 9:1, 12:1; Isaías 17:1; Malaquías 1:1
 
 ###### El término introduce: peso, presión y <u>gravedad</u>,  algo que debe ser llevado, no resuelto de inmediato. 
@@ -186,7 +153,6 @@ Oráculo que tuvo en visión el profeta Habacuc.
 ###### La carga no es <u>definida</u> todavía. Solo se declara su existencia.
 
 #### que tuvo en visión
-
 ##### Habacuc no dice: “lo que sintió”, “lo que pensó”, “lo que <u>imaginó</u>”. Dice: *que tuvo*.
 
 ##### Esto establece algo importante desde el inicio: Habacuc no presenta una reacción emocional aislada, presenta una percepción de la realidad. El conflicto del libro no nace de ignorancia, sino de observación.

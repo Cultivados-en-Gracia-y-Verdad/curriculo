@@ -8,6 +8,7 @@
 \usepackage{longtable}
 \usepackage{graphicx}
 
+\raggedbottom
 % Images use
 \usepackage{grffile}
 \setkeys{Gin}{keepaspectratio}
@@ -21,7 +22,7 @@
 \newfontfamily\GreekFont{Gentium Plus}
 \setTransitionsForGreek{\GreekFont}{}
 
-\newcommand{\AnchorColor}{black!70}
+\newcommand{\AnchorColor}{black!55}
 \newcommand{\ScriptureColor}{black!98}
 \newcommand{\CommentColor}{black!70}
 \newcommand{\ListColor}{black!70}
@@ -30,7 +31,7 @@
 \newcommand{\NestedIndent}{2.5em} 
 
 \setlength{\parindent}{0pt}        % No indentation
-\setlength{\parskip}{3em}       % More space between paragraphs
+\setlength{\parskip}{0pt}      % More space between paragraphs
 %\definecolor{paragraphgray}{gray}{0.25} %You can adjust 0.25 for lighter or darker: 0.25 = fairly light 0.35 = medium-light 0.5 = medium gray
 \setmainfont[
   Path = /Users/johnwry/Library/Fonts/,
@@ -63,13 +64,12 @@
 % ============================
 \newcommand{\headingfont}{\normalfont}
 \newcommand{\fillin}[1]{\uline{\textbf{#1}}}
+%\newcommand{\blank}[1][3cm]{\uline{\hspace{#1}}\kern0pt}
 \newcommand{\scripture}[1]{{\selectfont\ScriptureFont\itshape «#1»}}
 
 % ============================
 % SPACING
 % ============================
-\setlength{\parskip}{1.5em}
-\setlength{\parindent}{0pt}
 
 \usepackage{xcolor} % (if not already loaded)
 
@@ -130,43 +130,65 @@
 % Pandoc compatibility (pandoc >= 3.2.1)
 \providecommand{\pandocbounded}[1]{#1}
 
-% ============================
-% LEVEL 5 HEADING (COMMENTARY)
-% ============================
-%\newcommand{\headingfive}[1]{%
-%  \vspace{0.5em}%
-%  \begin{adjustwidth}{2.8em}{}%
-%  \noindent #1%
-%  \end{adjustwidth}%
-%  \vspace{0.5em}%
-%}
+% ============================================
+% TOC STYLE
+% ============================================
+
+\usepackage{tocloft}
+
+% Remove bold from section entries
+\renewcommand{\cftsecfont}{\normalfont}
+\renewcommand{\cftsecpagefont}{\normalfont}
+
+% Reduce vertical spacing between entries
+\setlength{\cftbeforesecskip}{4pt}
+
+% Adjust dot spacing (optional, cleaner look)
+\renewcommand{\cftsecdotsep}{2}
+
+% Indentation (optional tuning)
+\setlength{\cftsecindent}{0pt}
+\setlength{\cftsecnumwidth}{0pt}
+
+% ============================================
+% TOC TITLE STYLE
+% ============================================
+
+\renewcommand{\contentsname}{\hfill\Large Índice\hfill}
 
 % ============================
 % EN SÍNTESIS STYLE
 % ============================
-\definecolor{sintesisgray}{gray}{0.25}
-\newcommand{\sintesisrule}{
-  \vspace{1.2em}
-  \noindent\rule{0.15\textwidth}{0.2pt}
-  \color{black!20}
-  \vspace{0.2em}
-}
-\makeatletter
-\AddToHook{cmd/subsection/before}{%
-  \edef\temp@title{\@currentlabelname}%
-  \ifdefstring{\temp@title}{En S\'intesis}{%
-    \sintesisrule
-  }{}
-}
-\makeatother
+\usepackage{etoolbox}
 
+\definecolor{sintesisgray}{gray}{0.25}
+
+\newcommand{\sintesisrule}{%
+  \vspace{0.8em}
+  \noindent\rule{0.15\textwidth}{0.3pt}
+  \vspace{0.4em}
+}
+
+\usepackage{tcolorbox}
+\tcbuselibrary{breakable}
+\usepackage{needspace}
+
+\renewenvironment{quote}
+  {%
+    \sintesisrule
+    \list{}{\leftmargin=1.5em \rightmargin=0pt}
+    \item\relax
+    \color{sintesisgray}
+  }
+  {\endlist\vspace{0.5em}}
 
 
 % ============================
 % Pandoc list compatibility
 % ============================
 \providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}%
+  \setlength{\itemsep}{0pt}
+  \setlength{\parskip}{0pt}%
 }
 \usepackage{titlesec}
 \usepackage{xcolor}
@@ -180,40 +202,61 @@
    \setstretch{1.20}% ← THIS is the key
    \setlength{\parskip}{0pt}%
    \setlength{\parindent}{0pt}%
-   \vspace{2pt}%
-   \setlist[itemize]{label={}, left=0pt, itemsep=2pt, topsep=2pt}} % subtle list breathing
-  {\vspace{2pt}\end{adjustwidth}}
+   \vspace{-1.5em}
+   \setlist[itemize]{label={}, leftmargin=2.5pt, labelsep=-0.5em, labelwidth=1em, itemsep=2pt, topsep=2pt}} % subtle list breathing
+  {\vspace{0.2em}\end{adjustwidth}}
 
 
 \newenvironment{paraHtwo}
-  {\begin{adjustwidth}{3em}{}%
-   \color{\BodyColor}%
-   \setlength{\parskip}{0pt}%
-   \setlength{\parindent}{0pt}%
-   \vspace{2pt}}
-  {\vspace{2pt}\end{adjustwidth}}
+{%
+  \vspace{5pt} % 👈 add space ABOVE
+  \begin{adjustwidth}{2em}{0pt}
+  \color{\BodyColor}%
+  \fontsize{11pt}{12pt}\selectfont
+  \setlength{\parskip}{0pt}%
+  \setlength{\parindent}{0pt}%
+}
+{%
+\par\vspace{-6pt} % 🔥 THIS is the key
+\end{adjustwidth}
+}
 
+
+
+
+
+
+% ParaHthree style
 \newenvironment{paraHthree}
-  {\begin{adjustwidth}{3em}{}%
-   \color{\BodyColor}%
-   \setlength{\parskip}{0pt}%
-   \setlength{\parindent}{0pt}%
-   \vspace{2pt}}
-  {\vspace{2pt}\end{adjustwidth}}
+{%
+  \begin{adjustwidth}{3em}{}%
+  \color{\BodyColor}%
+  \fontsize{11pt}{12pt}\selectfont
+  \setlength{\parskip}{0pt}%
+  \setlength{\parindent}{1.5em}%
+  \vspace{1pt}
+}
+{%
+  \vspace{1pt}
+  \end{adjustwidth}
+}
+\newfontfamily\paraHfourfont{TeX Gyre Termes}
 
 \newenvironment{paraHfour}
   {\begin{adjustwidth}{2.5em}{}%
+   \paraHfourfont
    \color{\BodyColor}%
+   \fontsize{10pt}{12pt}\selectfont
    \setlength{\parskip}{0pt}%
    \setlength{\parindent}{0pt}%
-   \vspace{2pt}}
+   \vspace{3pt}}
   {\vspace{2pt}\end{adjustwidth}}
 
 % paraHfive: tightly spaced commentary below anchor
 \newenvironment{paraHfive}
   {\begin{adjustwidth}{2em}{}%
     \color{\BodyColor}%
-   \setlength{\parskip}{0.25em}%
+   \setlength{\parskip}{0pt}%
    \setlength{\parindent}{0pt}%
    \fontsize{12pt}{15pt}\selectfont}
   {\end{adjustwidth}}
@@ -223,12 +266,16 @@
 \AtBeginEnvironment{itemize}{\color{\ListColor}}
 \setlist[itemize,1]{
   leftmargin=\dimexpr\NestedIndent + 4.6em\relax,
-  labelsep=0.6em,
+  labelwidth=0pt,
+  labelsep=0.3em,
+  itemindent=0pt,
+  align=left,
   itemsep=0.2em,
   topsep=0pt,
   parsep=0pt,
   partopsep=0pt,
-  after=\vspace{-0.1em}  % Manually reduce extra space after list
+  before=\vspace{0.1em},   % 👈 THIS is the key
+  after=\vspace{0.1em}
 }
 % footnotes
 
@@ -243,10 +290,26 @@
 }
 \makeatother
 
+% Send H1, H2, H3 and En Síntesis to next page. 
+\usepackage{needspace}
+
+\titleformat{\section}
+  {\Needspace{5\baselineskip}\bfseries\Large}
+  {\thesection}{1em}{}
+
+
+
 %Cover stuff
 \usepackage{graphicx}
 \usepackage{eso-pic} % Needed for full-page background
-\usepackage{geometry}
+\geometry{
+letterpaper,
+top=0.85in,
+bottom=0.85in,
+inner=0.55in,
+outer=1.15in
+}
+
 \newcommand\FullCover[1]{%
   \AddToShipoutPictureBG*{%
     \includegraphics[width=\paperwidth,height=\paperheight]{#1}%

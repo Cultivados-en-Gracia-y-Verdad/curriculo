@@ -10,41 +10,51 @@
 \usepackage[none]{hyphenat}
 % correct from breaking up sections at new page...
 % Always ensure enough space before section and subsection headings
-\pretocmd{\section}{\needspace{6\baselineskip}}{}{}
-\pretocmd{\subsection}{\needspace{5\baselineskip}}{}{}
-\pretocmd{\subsubsection}{\needspace{4\baselineskip}}{}{}
+
+
 % Disable all section numbering
 \setcounter{secnumdepth}{0}
 
 % H1 – SECTION – Uppercase, Bold, 50% black
-\titleformat{\section}[block]
-  {\headingfont\bfseries\color{\AnchorColor}\large}
-  {}{0pt}{
+  %  \sectionrule\\[-0.4em]
+\usepackage{needspace}
+  \titleformat{\section}[block]
+  {\headingfont\bfseries\color{\AnchorColor}\LARGE\centering}
+  {}
+  {0pt}
+  {%
+    \Needspace{6\baselineskip}%
     \MakeUppercase
-    \sectionrule\\[-0.4em]%
-    }
-\titlespacing*{\section}{2em}{4pt plus 2pt minus 1pt}{0pt}
+  }
+\titlespacing*{\section}{8pt}{2pt plus 2pt minus 1pt}{8pt}
 
-% H2 – SUBSECTION – Bold, 50% black (not uppercase)
+\usepackage{needspace}
+
+% H2 – SUBSECTION – Bold, centered, controlled spacing
 \titleformat{\subsection}[block]
-  {\headingfont\bfseries\color{\AnchorColor}\large}
-  {}{0pt}{}
-\titlespacing*{\subsection}{2em}{2pt plus 2pt minus 1pt}{3pt}
+  {\headingfont\bfseries\color{\AnchorColor}\large\filcenter}
+  {}
+  {0pt}
+  {}
 
+\titlespacing*{\subsection}{0pt}{10pt}{8pt}
 
 % H3 – Scripture reference (e.g. Romanos 1:1)
-\titleformat{\subsubsection}
-  {\vspace{-1.3em}\headingfont\bfseries\color{\AnchorColor}\normalsize}
-  {}{0pt}{}
-\titlespacing*{\subsubsection}{0pt}{0pt}{0pt}
+\titleformat{\subsubsection}[block]
+  {\headingfont\normalsize}
+  {}
+  {0pt}
+  {}
+
+\titlespacing*{\subsubsection}{0pt}{10pt}{0pt}
 
 
 % ============================
 % VERSE BLOCK
 % ============================
 \newenvironment{verseblock}
-  {\vspace{-1.0em}\noindent\begin{minipage}{\textwidth}%
-    \color{\AnchorColor}\ScriptureFont\itshape «%
+  {\vspace{0em}\noindent\begin{minipage}{\textwidth}%
+    \color{\ScriptureColor}\ScriptureFont\itshape «%
   }{%
     »\end{minipage}\vspace{0pt}%
   }
@@ -58,16 +68,16 @@
 % H4 – Anchor word styling: paragraph, spaced tight above & below
 \renewcommand{\paragraph}[1]{%
   \par\vspace{-1.0em}%
-  {\ScriptureFont\itshape\normalsize\color{\AnchorColor}\noindent\hspace*{1.5em}«#1»\par}%
+  {\ScriptureFont\itshape\normalsize\color{\ScriptureColor}\noindent\hspace*{1.5em}«#1»\par}%
   \vspace{-0.7em}%
 }
 
 % Anchorblock environment – handles H4 + H5 together
 \newenvironment{anchorblock}[1]{%
-  \par\vspace{-0.7em}
+  \par\vspace{0.8em}
 
   % Anchor word
-  {\ScriptureFont\itshape\color{\AnchorColor}\normalsize %
+  {\ScriptureFont\itshape\color{\ScriptureColor}\normalsize %
    \hspace*{2em}«#1»\par}
 
   \vspace{0.1em}
@@ -118,9 +128,10 @@
 % -----------------------------------------
 
 \newcommand{\headingsix}[1]{%
-  \vspace{0.6em}
+  \vspace{0.4em}
   \noindent
-  \hspace{2.0em}%
+  \hangindent=2.0em
+  \hangafter=0
   {\begingroup
    \setstretch{0.95}%
    \color{black!75}#1%
@@ -193,11 +204,11 @@
 \renewcommand{\footnotesize}{\fontsize{9pt}{11pt}\selectfont\color{black!45}}
 
 %Rule before H1
-\newcommand{\sectionrule}{%
-  \vspace{0.4em}
-  \centerline{\rule{6cm}{0.4pt}}
-  \vspace{0.6em}
-}
+%\newcommand{\sectionrule}{%
+ % \vspace{0.4em}
+ % \centerline{\rule{6cm}{0.4pt}}
+ % \vspace{0.6em}
+%}
 % footer space
 %\usepackage[bottom]{footmisc}
 %\setlength{\skip\footins}{6pt}     % Space above the footnote block (reduce from default 12pt)
@@ -225,18 +236,19 @@
   after skip=1.5em
 }
 
+
 \newcommand{\sintesisTitle}[1]{%
   {\headingfont\bfseries\itshape\color{black!60}#1\par}%
   \vspace{0.7em}%
 }
 
 \newcommand{\sintesisItem}[1]{%
-  \par\noindent
-  \hangindent=1.6em
-  \hangafter=1
-  {\color{\CommentColor}\setstretch{1.25}%
-  \textbullet\hspace{0.6em}#1\par}%
-  \vspace{0.45em}%
+  \noindent
+  \makebox[1.6em][l]{\textbullet}%
+  \parbox[t]{\dimexpr\linewidth-1.6em}{%
+    \setstretch{1.25}%
+    #1
+  }%
+  \par
 }
-
 

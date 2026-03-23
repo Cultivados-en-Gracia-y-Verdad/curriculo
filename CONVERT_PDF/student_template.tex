@@ -12,16 +12,21 @@
 % ============================
 % STUDENT VERSION SETTINGS
 % ============================
-% Fill-ins become blank lines
-\renewcommand{\ULthickness}{0.8pt}
+\usepackage[normalem]{ulem}
+
 \newlength{\fillinwidth}
+
+\renewcommand{\ULthickness}{0.8pt}
+
 \renewcommand{\fillin}[1]{%
   \settowidth{\fillinwidth}{\textbf{#1}}%
-  \addtolength{\fillinwidth}{2.0em} % extra space for handwriting
+  \addtolength{\fillinwidth}{2em}%
   \uline{\makebox[\fillinwidth][l]{\hspace*{\fillinwidth}}}%
-  
 }
 
 \begin{document}
+% Full bleed cover
+% Reset margins if needed for content
+\newgeometry{top=2.5cm,bottom=2.5cm,left=2.5cm,right=2.5cm}
 $body$  % Real content begins here
 \end{document}

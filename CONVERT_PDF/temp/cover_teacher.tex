@@ -23,22 +23,28 @@
 % PAGE 1 — COVER
 % =========================
 \AddToShipoutPictureBG*{%
-  \includegraphics[width=\paperwidth,height=\paperheight]{<<COVER_IMAGE>>}
+  \includegraphics[width=\paperwidth,height=\paperheight,keepaspectratio=false]{/Users/johnwry/Nextcloud/Documents/GitHub/curriculo/06.Romanos1-8/images/portada.png}
 }
 
 \AddToShipoutPictureFG*{%
   \begin{tikzpicture}[remember picture, overlay]
-    % Title text at lower center
+
+    % =========================
+    % EDITION TEXT (dynamic)
+    % =========================
     \node at ([yshift=3cm]current page.south) {%
       {\Huge\color{white}\textbf{Manual del Maestro}}
     };
 
-    % Logo in circle at bottom-right
+    % =========================
+    % LOGO
+    % =========================
     \begin{scope}[shift={(current page.south east)}, xshift=-2.5cm, yshift=2.5cm]
       \filldraw[white, opacity=0.7] (0,0) circle (1.6cm);
       \clip (0,0) circle (1.5cm);
       \node at (0,0) {\includegraphics[width=3cm]{images/cgv-logo.png}};
     \end{scope}
+
   \end{tikzpicture}
 }
 
@@ -46,7 +52,7 @@
 \clearpage
 
 % =========================
-% PAGE 2 — BLANK (for binding)
+% PAGE 2 — BLANK
 % =========================
 \null
 \thispagestyle{empty}
