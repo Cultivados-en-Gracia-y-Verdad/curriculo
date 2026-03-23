@@ -402,9 +402,9 @@ Por eso no se cumple la ley Y nunca prevalece la justicia. Porque el impío ased
 #### Que ustedes no la creerían si alguien se la contara.
 ##### Esta cláusula es crucial. Dios declara de antemano: que la explicación no producirá aceptación.  La información no resolverá el conflicto. El <u>problema</u> no es ignorancia.  Incluso con explicación, la obra seguirá siendo **increíble** para el pensamiento humano.
 
-##### Habacuc 1:5 **no valida** la conclusión de 1:4 ni la refuta explícitamente. La **ignora**. No se trata del pensamiento del "justo" Habacuc o la situación de la injusticia en <u>Israel</u> o la opresión que experimentaba. Se trata de Dios siendo el Señor y obrando.
+##### Habacuc 1:5 **no valida** la conclusión de 1:4 ni la refuta explícitamente. La **ignora**. No se trata del pensamiento "justo" de Habacuc o la situación de la injusticia en <u>Israel</u> o la opresión que experimentaba. Se trata de Dios siendo el Señor y obrando.
 
-##### Dios no entra en el razonamiento del profeta. Establece una nueva <u>realidad</u> desde Su soberanía.
+##### Dios no entra en el razonamiento del profeta. Establece una nueva <u>realidad</u> desde Su soberanía y conforme a su Persona.
 
 ##### Este versículo rompe la lógica humana, desplaza el marco de justicia, introduce acción sin defensa y prepara al lector para el escándalo. A partir de aquí, el libro ya no trata de: ¿por qué Dios no actúa? sino, **¿qué hace Dios cuando actúa de una <u>manera</u> que no aceptamos?**
 
