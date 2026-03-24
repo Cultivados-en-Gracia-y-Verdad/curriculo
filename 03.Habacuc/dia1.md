@@ -1,5 +1,3 @@
-# Quiz día 1
-
 1. ¿En qué tiempo de la historia sucede el libro de Habacuc? 
 A. Durante los 400 años de silencio.
 B. Durante el exílio de Babilonia.
