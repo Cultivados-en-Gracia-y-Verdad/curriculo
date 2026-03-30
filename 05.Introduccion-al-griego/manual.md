@@ -11,73 +11,51 @@ version: "0.5"
 Introducción al Griego para el Estudio Bblico
 :::
 
+![John_1_1_Erasmus_1516](images/John_1_1_Erasmus_1516.jpeg)
 
 
 > ᾿Εν ἀρχῇ ἦν ὁ Λόγος, καὶ ὁ Λόγος ἦν πρὸς τὸν Θεόν, καὶ Θεὸς ἦν ὁ Λόγος. Juan 1:1
 
 # PREFACIO
 
-## DISCIPLINA EN EL USO DEL GRIEGO
+## ACLARANDO DISCIPLINA DEL USO DEL GRIEGO
 
-Este manual no <u>existe</u> para producir expertos. Existe para producir estudiantes disciplinados. En CGV no buscamos impresionar. Buscamos entender el texto bíblico.
+Este manual no fue desarrollado con el <u>proposito</u> de producir "intelecuales". Sino para producir estudiantes disciplinados de la Palabra de Dios. El proposito de CGV no esta horientado a impresionar, sino a entender el Texto bíblico.
 
-==Este manual no fue desarrollado con el <u>proposito</u> de producir "intelecuales". Sino para producir estudiantes disciplinados de la Palabra de Dios. El proposito de CGV no esta horientado impresionar, sino a entender el texto.==
-
-El griego <u>no</u> es:
-
-==Aprender griego **no** es para tener:==
+Aprender griego **no** es para tener:
 
 - Una herramienta para <u>ganar</u> discusiones.
 - Una forma de <u>sonar</u> profundo.
-- Un atajo para <u>nuevas</u> interpretaciones.
+- Un atajo para <u>nuevas</u> interpretaciones "profundas".
 
-- ==Un atajo para <u>nuevas</u> interpretaciones "ocultas".==
-
-Es información lingüística. Si se usa sin disciplina, <u>genera</u>:
-
-==El griego en el estudio de la Palabra puede llegar a ser una gran herramienta de información lingüística. Pero si se usa sin disciplina, <u>genera</u>:==
+El griego en el estudio de la Palabra puede llegar a ser una gran herramienta de información lingüística. Pero si se usa sin disciplina, <u>genera</u>:
 
 - Conclusiones exageradas.
 - Sermones <u>débiles</u>.
 - Argumentos <u>mal</u> construidos.
 - Confusión innecesaria.
 
-Si se <u>usa</u> con disciplina, produce:
-
-==Por otro lado si se <u>usa</u> con disciplina, produce:==
+Por otro lado si se <u>usa</u> con disciplina, produce:
 
 - Claridad.
 - <u>Precisión</u>.
 - Humildad interpretativa.
 - Confianza <u>responsable</u>.
 
-Este curso te enseñará a usar herramientas. Pero la herramienta no es el centro. El <u>texto</u> lo es.
+Este curso te enseñará a usar herramientas basadas en la gramática del griego. Pero al final las herramientas son solo un apoyo, no son el centro de enfoque. El <u>texto</u> (la Escritura) lo es.
 
-==Este curso te enseñará a usar herramientas basadas en la gramática del griego. Pero al final las herramientas son solo un apoyo, no son el centro de enfoque. El <u>texto</u> (la Escritura) lo es.==
-
-El griego no reemplaza la observación. La fortalece <u>cuando</u> se usa correctamente.
-
-==El griego no reemplaza la observación del texto. La fortalece <u>cuando</u> se usa **correctamente**.==
+El griego no reemplaza la observación del texto. La fortalece <u>cuando</u> se usa **correctamente**.
 
 Nuestro compromiso es <u>simple</u>:
 - Leer <u>con</u> precisión.
 - Hablar con <u>cuidado</u>.
 - Concluir <u>con</u> responsabilidad.
 
-# CAPÍTULO 1
+# EL GRIEGO PUEDE SER BENEFICIOSO
 
 ## 1. ¿Qué estás viendo cuando ves palabras en griego?
 
-==NO ENTIENDO EL TITULO 1.==
-==Podría ser. ¿Porqué  estudiar griego?  o algo así?? ?? ??==
-
-##### El Nuevo Testamento Fue <u>Escrito</u> en Griego
-
-==<-- Parece un texto repetido==
-
-##### El <u>Nuevo</u> Testamento fue escrito en griego koiné.
-
-==Es importante saber que todo lo que tenemos del Nuevo Testamento fue escrito en Griego Koine.==
+Es importante saber que todo lo que tenemos del Nuevo Testamento fue escrito en Griego Koine.
 
 No fue escrito en inglés. No fue <u>escrito</u> en latín. No fue escrito en español.
 
@@ -92,8 +70,8 @@ Cuando abrimos una Biblia en español estamos leyendo una traducción <u>fiel</u
 
 ##### Muchos estudiantes hoy usan: Logos, Blue Letter Bible, BibleHub, interlineales, números Strong Y de <u>repente</u> aparece algo como esto: 
 
-==Muchos creyentes que desean estudiar las Escrituras de una manera más precisa comprenden que el camino es sumergirce al griego (idioma original). Por tal motivo como autodidactas optan por herramientas como: Logos, Blue Letter Bible, BibleHub, interlineales, números Strong. ==
-==Y de <u>repente</u> aparece algo como esto:==
+Muchos creyentes desean estudiar las Escrituras de una manera más precisa. Comprenden que el camino es sumergirce al griego. Por tal motivo como autodidactas optan por herramientas como: Logos, Blue Letter Bible, BibleHub, interlineales, números Strong, etc., etc.,
+Y de <u>repente</u> les aparece algo como esto:
 
 |λόγος|
 |----|
@@ -106,10 +84,8 @@ Cuando abrimos una Biblia en español estamos leyendo una traducción <u>fiel</u
 
 - <u>Exagerar</u> significados
 - Confundir términos
-- Usar Strong como si <u>fuera</u> un diccionario final
-- ==Usar Strong como si <u>fuera</u> un diccionario que da el significado final al pasaje==
-- Hacer afirmaciones incorrectas <u>sobre</u> “el original”
-- ==No entiendo a que se refiere con "el original"==
+- Usar Strong como si <u>fuera</u> un diccionario con significado final.
+- Hacer afirmaciones incorrectas <u>sobre</u> el idioma “original”. 
 
 ##### Este <u>curso</u> comienza aquí.
 
@@ -123,20 +99,19 @@ Cuando abrimos una Biblia en español estamos leyendo una traducción <u>fiel</u
 
 3. Información morfológica.
 
-   ==QUIZA SE BUENA COLOCAR EJEMPLOS==
 
 A veces también:
 4. Un <u>número</u> Strong.
 
-Cada uno cumple una <u>función</u> diferente. Este manual te enseñará a distinguirlos.
+Por lo pronto es importante saber que cada uno cumple una <u>función</u> diferente. 
+
+Este manual te enseñará a distinguirlos.
 
 ## 4. El Griego no es Místico
 
 En muchos contextos cristianos se escucha: “En el <u>griego</u> original esta palabra significa…" Y muchas veces la frase termina la discusión. 
 
-Pero el griego no es mágico. Es un idioma.
-
-==Pero el griego no es "mágico", tener el significado literal de una sola palabra no define todo el significado de un pasaje. El griego es un idioma.==
+Pero el griego no es mágico. Es un idioma como cualquier otro. 
 
 Y como todo <u>idioma</u>:
 - Las palabras cambian de <u>forma</u>.
@@ -163,14 +138,6 @@ El problema es no <u>saber</u> qué estás consultando.
 
 ## 6. Nuestro Objetivo
 
-###### Este manual no <u>busca</u> que:
-
-- Conjugues <u>verbos</u> de memoria.
-- Declines sustantivos.
-- Traduzcas capítulos <u>completos</u>.
-
-###### <u>Busca</u> que puedas:
-
 - <u>Leer</u> información gramatical sin intimidación.
 - Evaluar afirmaciones sobre el “original”.
 - <u>Usar</u> herramientas con precisión.
@@ -191,6 +158,8 @@ Y el reconocimiento <u>produce</u> claridad.
 ##### Identificación <u>básica</u>
 
 Busca en una herramienta bíblica (Logos, Blue Letter Bible o BibleHub) el <u>texto</u> de Juan 1:1.
+
+[Pulsa aquí para abrir](https://logosklogos.com/interlinear/NT/Jn/1/1)
 
 ###### Observa la palabra: λόγος.  Responde:
 
@@ -222,9 +191,9 @@ Busca en una herramienta bíblica (Logos, Blue Letter Bible o BibleHub) el <u>te
 
 ##### Escribe en una <u>frase</u>: ¿Qué diferencia hay entre decir  “El griego dice…” y “Según el contexto y la información morfológica…”?
 
-# CAPÍTULO 2
+# EL ALFABETO GRIEGO
 
-## El Alfabeto Griego: Reconocimiento sin Intimidación
+## Reconocimiento sin Intimidación
 
 ##### ¿Por Qué Necesitamos Ver Las <u>Letras</u>?
 
@@ -328,7 +297,7 @@ Algunas letras parecen españolas, pero no lo <u>son</u>.
 
 ###### Eso es suficiente <u>para</u> lo que haremos.
 
-# EL ALFABETO GRIEGO
+## Las Letras
 
 ## Alfa
 <img src="images/alfa.png" alt="Alfa" style="zoom:50%;" />
@@ -402,7 +371,7 @@ Algunas letras parecen españolas, pero no lo <u>son</u>.
 ## Omega
 <img src="images/omega.png" alt="Omega" style="zoom:50%;" />
 
-## ¡¡Καντεμος λας Λετρας!!
+## ¡¡Κανοσκαμος λας Λετρας!!
 
 <img src="images/alfabeto.png" alt="alfabeto" style="zoom:50%;" />
 
@@ -430,11 +399,11 @@ Algunas letras parecen españolas, pero no lo <u>son</u>.
 
 ##### Nota Importante: En este curso, el <u>griego</u> no será un obstáculo. Será información estructurada. Y todo comienza con reconocer lo que estás mirando.
 
-# CAPÍTULO 3
+# DICCIONARIO STRONG
 
-## ¿Qué son los Números Strong - y qué no son? 
+## ¿Qué son (y no son) los Números Strong? 
 
-##### 1. ¿Qué Es <u>Strong</u>?
+##### 1. ¿Qué es <u>Strong</u>?
 
 ###### Los números Strong fueron creados por <u>James</u> Strong en el siglo XIX.
 
@@ -452,15 +421,13 @@ Algunas letras parecen españolas, pero no lo <u>son</u>.
 
 ###### Pero aquí debemos <u>hacer</u> una distinción crucial.
 
-##### 2. Lo Que Strong <u>Es</u>
-
-###### Strong es: 
+##### 2. Lo Que Strong <u>Es</u>: 
 
 - Un <u>sistema</u> de indexación
-- Un número que <u>agrupa</u> ocurrencias bajo un lema
+- Un número que <u>agrupa</u> ocurrencias bajo un **lema**
 - Una <u>puerta</u> de entrada para investigación básica
 
-###### Strong no es:
+###### Strong **<u>no</u>** es:
 
 - Un diccionario completo
 - Una definición <u>final</u>
@@ -477,11 +444,13 @@ Algunas letras parecen españolas, pero no lo <u>son</u>.
 
 ###### Por ejemplo: la palabra “banco” puede significar:
 
-- Institución financiera
-- <u>Asiento</u>
-- Conjunto de <u>peces</u>
+- Asiento 
+- Entidad financiera
+- Lugar para donar sangre
+- Grupo de peces que nadan juntos 
+- Mesa robusta para carpinteros
 
-###### El contexto determina el significado. Lo mismo ocurre en griego. Strong no decide el significado final de un pasaje. El contexto lo <u>hace</u>.
+###### El contexto determina el significado. Lo mismo ocurre en griego. Strong no decide el significado **<u>final</u>** de un pasaje. **El contexto lo hace.**
 
 ##### 4. Strong No Es <u>Igual</u> a Significado
 
@@ -497,7 +466,7 @@ Algunas letras parecen españolas, pero no lo <u>son</u>.
 - <u>No</u> interpreta. 
 - Si olvidas <u>esto</u>, cometerás errores.
 
-##### 5. El Problema De “El Griego Dice…”
+##### 5. El Problema de “el griego dice…”
 
 ###### Cuando alguien <u>afirma</u>: “El griego dice que esta palabra significa…”
 
@@ -518,11 +487,11 @@ Algunas letras parecen españolas, pero no lo <u>son</u>.
 
 ###### Strong es el <u>punto</u> de partida. No el punto final.
 
-## PRÁCTICA BREVE
+## Práctica Breve
 
-##### 1. Observación <u>Real</u>
+##### 1. Observación <u>real</u>
 
-###### Busca en una herramienta bíblica la palabra “vida” en <u>Juan</u> 10:10.
+###### Busca en <u>una</u> herramienta bíblica la palabra “vida” en Juan 10:10.
 
 - ¿Qué número <u>Strong</u> aparece?
 
@@ -536,8 +505,8 @@ Algunas letras parecen españolas, pero no lo <u>son</u>.
 
 ###### Escribe una <u>frase</u> completando esto:
 
-- Strong es <u>útil</u> porque _______.
-- <u>Strong</u> es limitado porque _______.
+- Strong es <u>útil</u> porque \_\_\_\_\_\_\_\_\.
+- <u>Strong</u> es limitado porque \_\_\_\_\_\_\_.
 
 ##### 3. Discernimiento
 
@@ -546,11 +515,11 @@ Algunas letras parecen españolas, pero no lo <u>son</u>.
 - ¿Es esa afirmación <u>segura</u> o peligrosa?
 - Explica por qué en una <u>frase</u>.
 
-# CAPÍTULO 4
+# EL LEMA
 
 ## ¿Qué es un lema - y por qué Strong Apunta a el?
 
-##### 1. Una Confusión <u>Muy</u> Común
+##### 1. Una confusión <u>muy</u> común
 
 ###### Cuando miras una palabra <u>griega</u> en una herramienta bíblica, normalmente ves:
 
@@ -558,7 +527,7 @@ Algunas letras parecen españolas, pero no lo <u>son</u>.
 - Un número <u>Strong</u>
 - Información morfológica
 
-###### Muchos estudiantes piensan que el número Strong corresponde exactamente a la forma que están viendo. <u>Pero</u> no es así. Strong apunta al lema. Y eso es diferente de la forma que aparece en el texto.
+###### Muchos estudiantes piensan que el número Strong corresponde exactamente a la forma que están viendo. <u>Pero</u> no es así. Strong **apunta al lema**. Y eso es diferente de la forma que aparece en el texto.
 
 ##### 2. ¿Qué Es Un <u>Lema</u>?
 
@@ -567,7 +536,7 @@ Algunas letras parecen españolas, pero no lo <u>son</u>.
 ###### Es la forma <u>bajo</u> la cual se organizan las palabras en un diccionario.
 
 - En español: “niño”, “niños”, “niña”, “niñas”...
-- Todas pertenecen al <u>mismo</u> concepto base.
+- Todas pertenecen al <u>mismo</u> concepto base pero no son iguales.
 
 ###### En un diccionario buscarías “niño”. Eso <u>sería</u> el equivalente al lema. En griego ocurre lo mismo.
 
@@ -592,7 +561,7 @@ Algunas letras parecen españolas, pero no lo <u>son</u>.
 ###### Si no distingues entre: lema y forma específica, cometerás un error común: 
 
 - convertir el <u>caso</u> en definición.
-- “Está en acusativo, entonces significa ____.” No. El caso no define la palabra; define su uso en la oración.
+- “Está en acusativo, entonces significa \_\_\_\_.” No. El caso no define la palabra; define su uso en la oración.
 
 ###### El lema no cambia. La función gramatical sí <u>cambia</u>. El significado básico pertenece al lema. La función pertenece a la morfología. Y veremos eso en el próximo capítulo.
 
@@ -609,7 +578,7 @@ Algunas letras parecen españolas, pero no lo <u>son</u>.
 
 ##### 1. Observación Dirigida
 
-###### Busca en una herramienta bíblica la palabra “palabra” en Juan 1:1.
+###### Busca en una herramienta bíblica la palabra *palabra* en Marcos 2:2.
 
 ###### Observa:
 
@@ -620,7 +589,7 @@ Escribe lo que observas.
 
 ##### 2. Comparación
 
-###### Busca otro versículo donde aparezca el mismo número Strong.
+###### Busca Mateo 5:32  donde aparece el mismo número Strong (G3056).
 
 ###### Responde:
 
@@ -632,14 +601,14 @@ Escribe lo que observas.
 
 ###### Completa esta oración:
 
-- Strong apunta al ______.
-- La forma específica muestra la ______ en la oración.
+- Strong apunta al \_\_\_\_\_\_.
+- La forma específica muestra la \_\_\_\_\_\_ en la oración.
 
-# CAPÍTULO 5
+# MORFOLOGÍA
 
 ## ¿Qué es Morfología - y Cómo Leer RMAC sin Pánico?
 
-##### 1. La Palabra Que Asusta
+##### 1. Una Palabra Que Asusta
 
 ###### Cuando un estudiante abre una herramienta bíblica y ve algo como: **λόγος** (N-NSM), **λέγει** (V-PAI-3S). 
 
@@ -648,8 +617,8 @@ Escribe lo que observas.
 ###### RMAC es simplemente un sistema de abreviaturas. Nada más.
 
 - No es un <u>código</u> secreto.
-- No es gramática avanzada.
-- Es información organizada.
+- No es gramática <u>avanzada</u>.
+- Es <u>información</u> organizada.
 
 ##### 2. ¿Qué Es Morfología?
 
@@ -668,16 +637,16 @@ Escribe lo que observas.
 
 ##### 3. Cómo Leer RMAC Para Sustantivos
 
-###### Ejemplo: λόγος — N-NSM
+###### Ejemplo: λόγος — **N**-NSM
 - (N-NSM) se divide así:
-- N = Sustantivo
-- N = Nominativo
-- S = Singular
-- M = Masculino
+- N = Sustantivo - esta primera letra es la más importante. Determina que parte gramatical es. (sustantivo, verbo, adverbio, adjetivo, cunjunción, artículo)
+- N = Nominativo (caso)
+- S = Singular (persona)
+- M = Masculino (género)
 
 ###### Eso es <u>todo</u>. No necesitas declinar. No necesitas memorizar tablas. Solo necesitas <u>saber</u> leer.
 
-###### Otro ejemplo: λόγον — N-ASM
+###### Otro ejemplo: λόγον — (N-ASM)
 
 - (N-ASM) se divide así:
 - N = Sustantivo
@@ -689,15 +658,15 @@ Escribe lo que observas.
 
 ##### 4. Cómo Leer RMAC Para Verbos
 
-###### Ejemplo: λέγει — V-PAI-3S
+###### Ejemplo: λέγει — (**V**-PAI-3S)
 
 ###### (V-PAI-3S) se divide así:
 
-- V = Verbo
-- P = Presente
-- A = Activo
-- I = Indicativo
-- 3S = Tercera persona singular
+- V = Verbo 
+- P = Presente (tiempo)
+- A = Activo (voz)
+- I = Indicativo (modo)
+- 3S = Tercera persona singular (persona)
 
 ###### Eso significa: “Él/ella dice.” Nada más. No es más <u>profundo</u> que eso.
 
@@ -747,7 +716,7 @@ Escribe lo que observas.
 
 ###### Responde:
 
-- ¿Es <u>verbo</u>?
+- ¿En qué voz está?
 - ¿Qué <u>tiempo</u> indica?
 - ¿Qué persona y número <u>indica</u>?
 
@@ -760,13 +729,14 @@ Escribe lo que observas.
 - ¿Qué <u>código</u> RMAC aparece?
 - ¿Está en nominativo o acusativo?
 - ¿Es singular o <u>plural</u>?
+- ¿Que persona?
 
 ##### 3. Reflexión Técnica
 
 ###### Completa:
 
-- La morfología me <u>dice</u> ______.
-  El <u>contexto</u> me dice ______.
+- La morfología me <u>dice</u> \_\_\_\___.
+  El <u>contexto</u> me dice \______\_\_\.
 
 ###### Hasta  aquí hemos establecido:
 
@@ -774,9 +744,9 @@ Escribe lo que observas.
 - Lema = <u>forma</u> base
 - Morfología = función estructural
 
-# CAPÍTULO 6
+# VERBOS
 
-## Verbos: Lo mínimo que Necesitas Entender 
+## Lo mínimo que Necesitas Entender 
 
 ##### 1. ¿Por Qué Los <u>Verbos</u> Son Importantes?
 
@@ -805,7 +775,7 @@ Escribe lo que observas.
 
 ##### 3. Presente (P)
 
-###### Ejemplo: V-PAI-3S
+###### Ejemplo: V-**P**AI-3S
 
 ###### El presente generalmente <u>indica</u>:
 
@@ -906,9 +876,9 @@ Escribe lo que observas.
 - El <u>tiempo</u> verbal me informa sobre ______.
 - Pero no determina automáticamente ______.
 
-# CAPÍTULO 7
+# LOS CASOS GRIEGOS
 
-## LOS CASOS GRIEGOS: INFORMACIÓN, NO ESPECULACIÓN
+## Información, no Especulación
 
 ##### 1. ¿Qué Es Un Caso?
 
@@ -918,11 +888,13 @@ Escribe lo que observas.
 
 ###### Eso es lo que RMAC te muestra cuando ves:
 
-- N-NSM
-- N-ASM
-- N-GSM
+- N-**N**SM
+- N-**A**SM
+- N-**G**SM
 
-###### El segundo código (N, A, G, D, V) indica el caso.
+###### El segundo código (N, A, G, D, V) indica el caso. 
+
+[Mirar Video](https://www.youtube.com/watch?v=24a4v2Qd-cg)
 
 ##### 2. Los Cinco Casos Que Verás
 
@@ -936,19 +908,19 @@ Escribe lo que observas.
 
 ###### No necesitas dominar categorías avanzadas. Solo necesitas reconocer su función básica.
 
-##### 3. Nominativo (N)
+##### 3. **Nominativo** (N)
 
 ###### Generalmente indica el sujeto de la oración.
 
-###### Ejemplo: ὁ λόγος ἦν πρὸς τὸν θεόν
+###### Ejemplo: **ὁ λόγος** ἦν πρὸς τὸν θεόν
 
-###### “ὁ λόγος” está en nominativo.
+###### “ὁ λόγος” es nominativo.
 
 ###### Eso indica que es el sujeto del <u>verbo</u>. Nada más.
 
-##### 4. Acusativo (A)
+##### 4. **Acusativo** (A)
 
-###### Generalmente indica el objeto directo.
+###### Generalmente indica el objeto directo. 
 
 ###### Responde a la pregunta: ¿A quién? ¿Qué cosa?
 
@@ -956,9 +928,9 @@ Escribe lo que observas.
 
 ###### “El hombre” está en acusativo. Es el objeto de la acción.
 
-##### 5. Genitivo (G)
+##### 5. **Genitivo** (G)
 
-###### Generalmente indica relación o pertenencia. Muchas veces se traduce <u>como</u> “de”.
+###### Generalmente indica relación o pertenencia. Muchas veces se traduce <u>como</u> “**de**”.
 
 ###### Ejemplo: λόγος θεοῦ
 
@@ -971,7 +943,7 @@ Escribe lo que observas.
 
 ###### No debemos forzar categorías avanzadas automáticamente.
 
-##### 6. Dativo (D)
+##### 6. **Dativo** (D)
 
 ###### Generalmente indica: Objeto indirecto
 
@@ -983,7 +955,7 @@ Escribe lo que observas.
 - La forma informa función básica.
 - El contexto determina precisión.
 
-##### 7. Vocativo (V)
+##### 7. **Vocativo** (V)
 
 ###### Se usa cuando alguien está <u>siendo</u> llamado o dirigido directamente.
 
@@ -1036,7 +1008,7 @@ Escribe lo que observas.
 - El caso me ayuda a identificar ______.
 - Pero no determina automáticamente ______.
 
-# CAPÍTULO 8
+# LÉXICOS
 
 ## Cómo Leer un Léxico sin Exagerar Definiciones
 
@@ -1161,9 +1133,9 @@ El contexto decide cuál posibilidad <u>aplica</u>.
 - Un léxico me muestra ______.
 - <u>Pero</u> el contexto determina ______.
 
-# CAPÍTULO 9
+# ERRORES COmUNES
 
-##### ERRORES COMUNES EN ESTUDIOS DE PALABRAS (Y POR QUÉ DEBES EVITARLOS)
+## Errores Comunes en Estudios de Palabras (y por qué debes evitarlos)
 
 ###### Este capítulo es intencionalmente directo. El griego no es un juguete. No es una herramienta para impresionar. No es un recurso para ganar discusiones.
 
@@ -1297,9 +1269,9 @@ El contexto decide cuál posibilidad <u>aplica</u>.
 
 - <u>Usaré</u> el griego con ______ y ______.
 
-# CAPÍTULO 10
+# TALLER PrÁctico
 
-## TALLER PRÁCTICO: 1 JUAN 1:5–10
+## Taller Práctico: 1 Juan 1:5–10
 
 ##### 1. Propósito Del Taller
 

@@ -12,23 +12,23 @@ Introducción al Griego para el Estudio Bíblico
 
 ## Introducción
 
-##### El idioma griego proviene de las antiguas civilizaciones griegas. Y es la lengua indoeuropea con la mayor historia documentada, puesto que cuenta con más de 34 siglos de evidencia escrita, entre ellos el Nuevo Testamento de las Sagradas Escrituras.
+El idioma griego proviene de las antiguas civilizaciones griegas. Y es la lengua indoeuropea con la mayor historia documentada, puesto que cuenta con más de 34 siglos de evidencia escrita, entre ellos el Nuevo Testamento de las Sagradas Escrituras.
 
-##### **El griego clásico:** Puntualmente es el griego antiguo, culto, un griego puro, bien hablado y utilizado por los filósofos helenos y el utilizado en obras literarias seculares griegas como las de Homero, Heródoto, Platón, etc.
+**El griego clásico:** Puntualmente es el griego antiguo, culto, un griego puro, bien hablado y utilizado por los filósofos helenos y el utilizado en obras literarias seculares griegas como las de Homero, Heródoto, Platón, etc.
 
-###### Actualmente no se habla, pero es motivo de estudio en muchas universidades seculares para la interpretación de obras literarias de las antiguas culturas (obras como la Ilíada y la Odisea).
+Actualmente no se habla, pero es motivo de estudio en muchas universidades seculares para la interpretación de obras literarias de las antiguas culturas (obras como la Ilíada y la Odisea).
 
-##### **El griego koiné:** Este es un lenguaje que se había extendido desde los años 330 aC por medio de Alejandro Magno y se ha usado hasta el 500 dC en todos los pueblos sometidos por el imperio griego y se sostuvo durante todo el imperio romano como lengua internacional.
+**El griego koiné:** Este es un lenguaje que se había extendido desde los años 330 aC por medio de Alejandro Magno y se ha usado hasta el 500 dC en todos los pueblos sometidos por el imperio griego y se sostuvo durante todo el imperio romano como lengua internacional.
 
-###### El griego koiné es un idioma inteligente que ha sido utilizado como base de expansión para las relaciones internacionales del imperio greco-romano, de allí el derivado "koiné" o "común para todos". Una referencia bíblica de esta afirmación puede verse en Juan 19:19-20 en el título cabecera con el que crucificaron al Señor Jesús que fue escrito en hebreo, en griego koiné y en latín.
+El griego koiné es un idioma inteligente que ha sido utilizado como base de expansión para las relaciones internacionales del imperio greco-romano, de allí el derivado "koiné" o "común para todos". Una referencia bíblica de esta afirmación puede verse en Juan 19:19-20 en el título cabecera con el que crucificaron al Señor Jesús que fue escrito en hebreo, en griego koiné y en latín.
 
-###### El que nos interesa es el griego koiné ático-jónico que fue el idioma con el que los apóstoles judíos, los hermanos de Jesús y Lucas han escrito el Nuevo Testamento. Estos judíos que creyeron en el Señor Jesucristo, siendo semitas, no difundieron su idioma hebreo, ni el arameo, ni el griego clásico, sino el griego koiné.
+El que nos interesa es el griego koiné ático-jónico que fue el idioma con el que los apóstoles judíos, los hermanos de Jesús y Lucas han escrito el Nuevo Testamento. Estos judíos que creyeron en el Señor Jesucristo, siendo semitas, no difundieron su idioma hebreo, ni el arameo, ni el griego clásico, sino el griego koiné.
 
-###### Este lenguaje era el ideal para expresar con precisión la sutil complejidad de la Verdad de la doctrina del Señor Jesucristo. Estos hombres inspirados por el Espíritu Santo, nos han dejado como legado mediante el griego koiné el testimonio de la Verdad.
+Este lenguaje era el ideal para expresar con precisión la sutil complejidad de la Verdad de la doctrina del Señor Jesucristo. Estos hombres inspirados por el Espíritu Santo, nos han dejado como legado mediante el griego koiné el testimonio de la Verdad.
 
-###### Es importante destacar que la antigua escritura en griego koiné era una escritura corrida, sin separación entre vocablos, sin signos de puntuación, sin acentos y sin tildes.
+Es importante destacar que la antigua escritura en griego koiné era una escritura corrida, sin separación entre vocablos, sin signos de puntuación, sin acentos y sin tildes.
 
-##### El griego moderno: Este es el idioma que actualmente hablan los griegos, una lengua rica, bien estructurada y que deriva del desarrollo evolucionado del griego koiné.
+El griego moderno: Este es el idioma que actualmente hablan los griegos, una lengua rica, bien estructurada y que deriva del desarrollo evolucionado del griego koiné.
 
 ## ¿Porque aprender griego koine? 
 - Porque el Nuevo Testamento ha sido escrito en Koine. 
@@ -37,7 +37,7 @@ Introducción al Griego para el Estudio Bíblico
 ##### Sin embargo, a medida que uno va aprendiendo koine, uno comprende que es un idioma como cualquier otro,  lleno de modismos y cosas caracteristicas de una lengua. Es decir, a medida que uno aprende griego, se da cuanta que las palabras no tienen un valor mágico por el hecho que estén en griego.  Toda palabra está en una frase y esa frase en un parrafo. El parrafo se encuentra dentro de un contexto más grande y asi sucesivamente. 
 
 ### ¿Qué propósito tiene este curso? 
-- reconocer el alfabeto, 
+- reconocer las letras griegas, 
 - tener un concepto básico de la morfología griega
 - aplicarlo usando herramientas modernas
 
@@ -127,8 +127,6 @@ Existen dos escuelas de pronunciación de griego.
 
 <img src="images/alfabeto.png" alt="alfabeto" style="zoom:50%;" />
 
-
-
 ### El alfabeto griego contiene 24 letras. 
 
 ### El griego tiene siete vocales: **α, ε, η, ι, ο, υ, ω**. Las vocales **ε**, y **o** son siempre cortas, η y ω son siempre largas y **α, ι, υ** pueden ser cortas o largas.
@@ -146,44 +144,44 @@ Existen dos escuelas de pronunciación de griego.
 ### Diptongos
 ### Un diptongo es dos vocales juntos, generalmente formando un solo sonido. Listaremos los diptongos más comunes y sus pronunciaciones. 
 
-#### 1. αι - aire
-#### 2. αυ - aunque
+### 1. αι - aire
+### 2. αυ - aunque
 
-#### 3. ει - peine
+### 3. ει - peine
 
-#### 4. ευ - euforia
+### 4. ευ - euforia
 
-#### 5. ηυ - nunca
+### 5. ηυ - nunca
 
-#### 6. οι - oir
+### 6. οι - oir
 
-#### 7. ου - uno
+### 7. ου - uno
 
-#### 8. υι - huir
+### 8. υι - huir
 
 ## Práctica
 
 ### Escribe las siguientes frases en español usando letras griegas: 
 
-#### 1. Escribe todo el alfabeto griego (mayúsculas y minúsculas)
+##### 1. Escribe todo el alfabeto griego (mayúsculas y minúsculas)
 
-#### 2. Copia Juan 1:1 exáctamente igual: 
+##### 2. Copia Juan 1:1 exáctamente igual: 
 >>᾿Εν ἀρχῇ ἦν ὁ Λόγος, καὶ ὁ Λόγος ἦν πρὸς τὸν Θεόν, καὶ Θεὸς ἦν ὁ Λόγος. Juan 1:1
 
-#### 3. El aporte mas grande de un filosofo ha sido reconocer que nada sabe. Su razonamiento es vano.
+##### 3. El aporte mas grande de un filosofo ha sido reconocer que nada sabe. Su razonamiento es vano.
 ##### __________________________________
 ##### ___________________________________
 
-#### 2. El mes de abril esta aqui, esperemos que siga con mucho sol.  
+##### 2. El mes de abril esta aqui, esperemos que siga con mucho sol.  
 ##### _________________________________
 ##### ________________________________
 
-#### 3. La ropa esta colgada en la sombra. No creo que se secará hasta la noche. 
+##### 3. La ropa esta colgada en la sombra. No creo que se secará hasta la noche. 
 ##### __________________________________________
 ##### __________________________________________
 
 
-#### 4. ¡Ahora te toca a ti!  ¡Inventa una frase y haz que otra persona en la clase decifre tu frase! 
+##### 4. ¡Ahora te toca a ti!  ¡Inventa una frase y haz que otra persona en la clase decifre tu frase! 
 
 ### Vocabulario
 |Palabra| Traducción sencilla|
@@ -227,7 +225,7 @@ Existen dos escuelas de pronunciación de griego.
 
 ### Los sustantivos expresan personas, lugares, cosas y seres en griego koiné. A través del sustantivo Se identifican sujetos y objetos. 
 
-#### Los sustantivos tienen tres aspectos básicos de la gramática en griego koiné (en orden de codigos RMAC):
+##### Los sustantivos tienen tres aspectos básicos de la gramática en griego koiné (en orden de codigos RMAC):
 ###### 1. **Caso:** Identifica la forma en que se usa el sustantivo. Existen 5 casos en griego: nominativo (N), genitivo (G), dativo (D), acusativo (A) y vocativo (V). 
 
 ###### 2. **Número:** Identifica el número en relación con el sustantivo (Singular/Plural). Los pronombres y adjetivos deben igualar el numero al sustantivo correspondiente. 
@@ -235,22 +233,22 @@ Existen dos escuelas de pronunciación de griego.
 ###### 3. **Género:** Todo sustantivo en griego tiene un género. Pueden ser masculino, femenino o neutrales. Pronombres y adjetivos deben tener el mismo género que el sustantivo correspondiente. 
 
 ### **RMAC**: 
-#### sustantivos siempre son codificados 
-#### con la letra inicial N. 
+##### sustantivos siempre son codificados 
+##### con la letra inicial N. 
 ###### EJ: N-NSM (Nombre - Nominativo, Singular, Masculino). 
 
 ## Gramática - **Adjetivos**
 
 ### La forma en que el griego koiné atribuye características o atributos a los sustantivos es usando un adjetivo para describir el sustantivo. Adjetivos deben igualar el caso, numero y género del sustantivo que modifica. 
 
-#### Los adjetivos tienen los mismos 3 aspectos básicos de gramática que los sustantivos:
+##### Los adjetivos tienen los mismos 3 aspectos básicos de gramática que los sustantivos:
 ###### 1. Caso
 ###### 2. Número
 ###### 3. Género
 
 ### **RMAC:** 
-#### Los adjetivos empiezan con la letra **A**
-#### luego el caso, número y género. 
+##### Los adjetivos empiezan con la letra **A**
+##### luego el caso, número y género. 
 ###### Ej: διδασκαλε G1320 N-VSM αγαθε G18 A-VSM 
 ###### [buen maestro]
 
@@ -264,7 +262,7 @@ Existen dos escuelas de pronunciación de griego.
 >"Yo caminé **hacia** el campo", 
 ### *hacia* es la preposición. 
 
-#### Ejemplos de preposiciones:
+##### Ejemplos de preposiciones:
 ##### 1. en
 ##### 2. después
 ##### 3. con
@@ -274,7 +272,7 @@ Existen dos escuelas de pronunciación de griego.
 
 ### Las conjunciones son palabras que unen diferentes construcciones. Una construcción es una frase, cláusula, declaración, o cualquier palabra que esté unida sintácticamente. 
 
-#### Ejemplos de conjunciones:
+##### Ejemplos de conjunciones:
 ##### 1. y
 ##### 2. pero
 ##### 3. porque
@@ -299,30 +297,30 @@ Existen dos escuelas de pronunciación de griego.
 
 ### Los adverbios ayudan a comprender con mayor claridad la acción o el estado de existencia del verbo.
 
-#### **sujeto** 
+##### **sujeto** 
 ##### Los adverbios tienen varios aspectos de la gramática que se entienden a través de la sintaxis y definiciones de palabras.
 
 ### Hay tres tipos básicos de adverbios:
-#### 1. Adverbios de Tiempo: Describe el tiempo en que se llevó a cabo la acción.
+##### 1. Adverbios de Tiempo: Describe el tiempo en que se llevó a cabo la acción.
 
-#### 2. Adverbios de Lugar: Describe el lugar donde ocurrió la acción.
+##### 2. Adverbios de Lugar: Describe el lugar donde ocurrió la acción.
 
-#### 3. Adverbios de Modo: Describe la manera en que ocurrió la acción.
+##### 3. Adverbios de Modo: Describe la manera en que ocurrió la acción.
 
 ## Gramática - **Participios**
 
 ### El griego koiné usa participios tanto en roles adjetivos como adverbiales como un híbrido entre un sustantivo y un verbo Los participios poseen el caso, el género y el número del sustantivo con el que se relaciona. y la voz y el tiempo del verbo. 
 
 ### Así los participios tienen:
-#### 1. Caso
-#### 2. Género
-#### 3. Número
-#### 4. Tiempo
-#### 5. Voz
+##### 1. Caso
+##### 2. Género
+##### 3. Número
+##### 4. Tiempo
+##### 5. Voz
 
 ### El caso, género y número del participio debe coincidir con el caso, género y número de el sustantivo al que se refiere.
 
-#### Ejemplos de Participios
+##### Ejemplos de Participios
 > 1. El hombre pelea (verbo). El hombre peleador (participio)
 
 > 2. La mujer se vistió (verbo). La mujer vestida (participio)
@@ -331,11 +329,11 @@ Existen dos escuelas de pronunciación de griego.
 ## Estudiaremos Verbos griegos
 
 ### 1. **Persona:** ¿el sujeto soy yo? ¿Tú? ¿Él ella eso? ¿A nosotros? ¿Todos ustedes? ¿A ellos?
-#### a. Primera persona: me involucra (**yo o nosotros**)
+##### a. Primera persona: me involucra (**yo o nosotros**)
 
-#### b. Segunda persona: te involucra a ti (**a ti o a todos**)
+##### b. Segunda persona: te involucra a ti (**a ti o a todos**)
 
-#### C. Tercera persona: involucra a otra persona (**él, ella, eso o ello**)
+##### C. Tercera persona: involucra a otra persona (**él, ella, eso o ello**)
 
 
 |Persona| Pronombre|
@@ -345,9 +343,9 @@ Existen dos escuelas de pronunciación de griego.
 |3ra Persona | el/ella/eso/ello|
 
 ### 2. **Número:** ¿el sujeto es singular o plural?
-#### a. Singular: yo, tú o él/ella/ello
+##### a. Singular: yo, tú o él/ella/ello
 
-#### b. Plural – Nosotros, todos ustedes, ellos
+##### b. Plural – Nosotros, todos ustedes, ellos
 
 |Persona| Número| Pronombre|
 |----|----|----|
@@ -358,7 +356,7 @@ Existen dos escuelas de pronunciación de griego.
 |2da Persona|plural|ustedes|
 |3ra Persona|plural|ellos|
 
-#### Una palabra en el griego hace el trabajo de dos o más en el español.  A continuación veremos un ejemplo usando el verbo oir [ἀκού] (en tiempo presente). 
+##### Una palabra en el griego hace el trabajo de dos o más en el español.  A continuación veremos un ejemplo usando el verbo oir [ἀκού] (en tiempo presente). 
 
 | |Singular | Plural|
 |---|---|---|
@@ -373,25 +371,25 @@ Existen dos escuelas de pronunciación de griego.
 |3| ἀκού**ει** - el/ella/aquel oye | ἀκού**ουσιν** - ellos oyen |
 
 ### 3. **Modo:** ¿Qué tan seguro está el autor de que la acción del verbo sucederá?
-#### a. **Indicativo:** - declaraciones de hecho
+##### a. **Indicativo:** - declaraciones de hecho
 Hace una declaración de hecho. 
 >Jesus **es** el hijo de Dios. 
 
-#### b. **Imperativo:** órden o solicitud.
+##### b. **Imperativo:** órden o solicitud.
 > Amarás al Señor de Dios
 
-#### c. **SUBJUNTIVO:** declaraciones de posibilidad o potencialidad. Solo tiene dos tiempos; presente y aoristo.
+##### c. **SUBJUNTIVO:** declaraciones de posibilidad o potencialidad. Solo tiene dos tiempos; presente y aoristo.
 ###### Habla de una acción que puede o no corresponder a la realidad. 
 >V-PAS = yo podría destruir
 >V-AAS = yo podría destruir
 >V-APS = yo podría ser destruido
 
-#### d. **Optativo:**  declaraciones de deseo
+##### d. **Optativo:**  declaraciones de deseo
 ##### No muy común en el NT. Como una oración o deseo que es obtenible. "Que todos procedamos a la madurez". 
 
-#### e. **Infinitivo:** sustantivo verbal. Tiene características de un sustantivo y también como verbo. No tienen persona ni numero y no tienen relación al tiempo. 
+##### e. **Infinitivo:** sustantivo verbal. Tiene características de un sustantivo y también como verbo. No tienen persona ni numero y no tienen relación al tiempo. 
 
-#### f. **Participio:** adjetivo verbal. 
+##### f. **Participio:** adjetivo verbal. 
 > La mujer **cantante** tiene una linda voz. 
 
 ### 4. **Tiempo** – 
@@ -417,10 +415,10 @@ Hace una declaración de hecho.
 ###### El tiempo menos común del NT. Igual que el tiempo perfecto solo que trae los resultados hasta un punto en el pasado. Es determinado por el contexto. 
 
 ### 5. **Voz:** – ¿Cómo se relaciona el sujeto con el verbo?
-#### a. **Activo:** el sujeto está haciendo o realizando la acción del verbo.
+##### a. **Activo:** el sujeto está haciendo o realizando la acción del verbo.
 >John está lavando su auto 
 
-#### b. **Medio:** el sujeto está involucrado y se beneficia de la acción del verbo. 
+##### b. **Medio:** el sujeto está involucrado y se beneficia de la acción del verbo. 
 
 ##### i. Medio reflexivo o recíproco
 
@@ -428,30 +426,30 @@ Hace una declaración de hecho.
 
 ##### iii. medio permisivo
 
-#### C. **Pasivo:** el sujeto es el destinatario de la acción del verbo.
+##### C. **Pasivo:** el sujeto es el destinatario de la acción del verbo.
 >El auto de John está siendo lavado
 
 
 ### **Condicional "Si"**
-#### El griego koiné, como el Español, hace declaraciones condicionales. Estas declaraciones condicionales comienzan con la palabra “Si”. 
+##### El griego koiné, como el Español, hace declaraciones condicionales. Estas declaraciones condicionales comienzan con la palabra “Si”. 
 
 ### Hay cuatro clases diferentes de declaraciones condicionales:
-#### 1. Primera Clase: Si, y es el caso,
+##### 1. Primera Clase: Si, y es el caso,
 
-#### 2. Segunda Clase: Si, y no es el caso,
+##### 2. Segunda Clase: Si, y no es el caso,
 
-#### 3. Tercera Clase: Si, tal vez sea el caso, tal vez no sea el caso,
+##### 3. Tercera Clase: Si, tal vez sea el caso, tal vez no sea el caso,
 
-#### 4. Cuarta Clase: Si, y deseo que sea el caso pero no lo es.
+##### 4. Cuarta Clase: Si, y deseo que sea el caso pero no lo es.
 
-#### Las declaraciones condicionales "si" crean una declaración que posee una condición (si crees en el Señor Jesucristo, entonces serás salvo.) La condición que debe cumplirse se llama la prótasis. El resultado del cumplimiento de la condición se denomina apódosis.
+##### Las declaraciones condicionales "si" crean una declaración que posee una condición (si crees en el Señor Jesucristo, entonces serás salvo.) La condición que debe cumplirse se llama la prótasis. El resultado del cumplimiento de la condición se denomina apódosis.
 
 ### Aprendamos sobre las partes del cuerpo...
 
 ## El artículo
 
 ### El griego solo tiene el articulo definido pero viene en 24 formas. 
-El artículo debe estar de acuerdo con el sustantivo que modifica en caso, género y número. 
+##### El artículo debe estar de acuerdo con el sustantivo que modifica en caso, género y número. 
 
 | | |M|F|N|
 |---|---|---|---|---|

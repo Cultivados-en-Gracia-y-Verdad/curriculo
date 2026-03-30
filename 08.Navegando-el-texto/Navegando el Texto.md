@@ -6,6 +6,168 @@ Title: Navegando el Texto
 
 ## Introducción
 
+# LA IMPORTANCIA DE OBSERVAR EL TEXTO
+
+## El problema no es la Biblia
+
+La Biblia no es confusa.
+ No es contradictoria.
+ No está escondiendo su mensaje.
+
+El problema es **cómo llegamos a ella**.
+
+Cada lector trae algo consigo.
+ Y eso que trae… muchas veces **distorsiona lo que el texto dice**.
+
+------
+
+## Dos caminos
+
+### Exégesis
+
+Leer **desde el texto**.
+ Dejar que el texto diga lo que dice.
+
+### Eiségesis
+
+Leer **hacia el texto**.
+ Hacer que el texto diga lo que yo ya traigo.
+
+------
+
+## Formas comunes de distorsionar el texto
+
+### Teología primero
+
+El lector ya tiene un sistema.
+ Entonces busca versículos que encajen.
+
+El texto no habla.
+ El sistema habla.
+
+------
+
+### Cultura primero
+
+El lector adapta el texto a su entorno.
+ Lo hace relevante… pero deja de ser fiel.
+
+El significado cambia según la cultura.
+
+------
+
+### Experiencia primero
+
+“El texto debe coincidir con lo que viví.”
+
+Si no coincide, se redefine.
+
+La experiencia se vuelve la autoridad.
+
+------
+
+### Sentimientos primero
+
+“Esto no me suena bien.”
+ “Esto me incomoda.”
+
+Entonces se suaviza el texto.
+ Se ajusta para que no confronte.
+
+------
+
+### Reglas primero
+
+La Biblia se reduce a:
+ **haz esto / no hagas aquello**
+
+Se pierde el mensaje.
+ Se pierde el propósito.
+
+Solo quedan normas.
+
+------
+
+## El resultado
+
+El texto ya no gobierna.
+
+El lector gobierna.
+
+Y cuando eso pasa:
+
+- El significado cambia
+- El mensaje se altera
+- La intención se pierde
+
+Y el lector…
+ **permanece igual**
+
+------
+
+## Por qué el estudiante no cambia
+
+No porque la Biblia no tenga poder.
+
+Sino porque **el mensaje fue reemplazado**.
+
+El texto dijo una cosa…
+ Pero el lector escuchó otra.
+
+------
+
+## Punto clave del curso
+
+Aquí hacemos algo diferente:
+
+No empezamos con interpretación
+ No empezamos con aplicación
+
+Empezamos con una sola cosa:
+
+**OBSERVAR LO QUE EL TEXTO DICE**
+
+------
+
+## Regla fundamental
+
+El texto tiene derecho a hablar antes que tú.
+
+------
+
+## Lo que vamos a aprender
+
+- Ver lo que está ahí (no lo que creemos que está)
+- Seguir el flujo del autor
+- Reconocer estructura y movimiento
+- Dejar que el significado salga del texto
+
+------
+
+## Resultado esperado
+
+Cuando el texto habla claramente:
+
+- El significado no es forzado
+- La interpretación no es inventada
+- La aplicación no es superficial
+
+Y entonces sí…
+
+El lector cambia.
+
+
+
+
+
+
+
+
+
+
+
+-----
+
 #### Este material tiene el propósito de equiparnos de herramientas técnicas con las cuales aprenderemos a navegar a través de la escritura.
 
 #### Antes de comenzar debemos hacernos unas cuantas preguntas:
