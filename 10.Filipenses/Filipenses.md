@@ -425,7 +425,7 @@ Y esto pido en oración: que el amor de ustedes abunde aún más y más en conoc
 
 #### Y esto pido en oración:
 
-##### Esta petición viene después de 5 versículos; era necesario realizar aquel preambulo donde hace declaraciones fundamentales para llevar a un compresión clara de que es Dios obrando a traves del evangelio y su gracia en ellos.
+##### Esta petición viene después de 5 versículos; era necesario realizar aquel preámbulo donde hace declaraciones fundamentales para llevar a un compresión clara de que es Dios obrando a través del evangelio y su gracia en ellos.
 
 ##### Para que su confianza no este puesta en su obrar, sino en que Dios es fiel para completar su obra. 
 
@@ -449,6 +449,8 @@ Y esto pido en oración: que el amor de ustedes abunde aún más y más en conoc
 
 #### en conocimiento verdadero
 
+##### El abundar más y más en el amor no está separado del conocimiento verdadero.
+
 ##### El amor nunca oculta ni tapa la verdad, sino al contrario el amor de los filipenses nació a través de la verdad del evangelio, y no por su propia motivación.
 
 ##### De igual modo el amor no puede seguir creciendo sin el conocimiento de la verdad. Efesios 4:15, 25
@@ -459,13 +461,11 @@ Y esto pido en oración: que el amor de ustedes abunde aún más y más en conoc
 
 - El amor abundante y ver buenos resultados puede engañarlos a poner la confianza en ellos mismos.
 - Vivir bajo tribulación puede llevarlos al engaño de que no están obrando bien.
-- El cambio de circunstancias a tener paz externa puede engañarlos a una quitud de que todo marcha bien y no es necesario seguir manteniéndose firme en el evangelio, porque todos estan de acuerdo.
-- O llegar a tener un estatus los lleve a poner la confianza en la carne.
+- El cambio de circunstancias a tener paz externa puede engañarlos a una quietud de que todo marcha bien y no es necesario seguir manteniéndose firme en el evangelio, porque aparentemente todos están de acuerdo.
+- O llegar a tener un estatus que los lleve a poner la confianza en la carne.
 - O Falsa enseñanza.
 
-##### Apartarse un poco sobre la verdad del evangelio, deja de ser el poder de Dios, y se convierte en esfuerzo humano con resultados de un amor que puede actuar por vanagloria o contienda y no según la verdad.
-
-##### Suceda lo que suceda la oración de Pablo es por discernimiento.
+##### Suceda lo que suceda la oración de Pablo es por discernimiento, es posible conocer la verdad y también tener amor, pero el discernimiento que proviene de la palabra de Dios discierne todas las intenciones del corazón. Probervios 14:12, 16:2; Hebreos 4:12
 
 ### Filipenses 1:10
 
@@ -477,25 +477,23 @@ a fin de que escojan lo mejor, para que sean puros e irreprensibles para el día
 
 ##### primero, para que ellos puedan escoger lo mejor.
 
-#### para que sean puros
+##### Para escoger lo mejor es necesario tener un conocimiento verdadero y discernir sobre todo, ya que ignorando el conocimiento verdadero puede llevar a un error que no permitirá al creyente escoger lo mejor, sino lo peor.
 
-##### segundo, este va en consecuencia del primero, para que ellos sean puros.
+#### para que sean puros e irreprensibles
 
-#### e irreprensibles
+##### segundo, este va en consecuencia del primero, para que ellos sean puros e irreprensibles
 
-##### tercero, este es en consecuencia de los 2 primeros, llegar a ser vistos irreprensibles.
+##### No puedes llegar a ser puro ni irreprensible si no escoges lo mejor
 
 #### para el día de Cristo;
 
-##### ser irreprensibles en el día de Cristo puede llegar a sonar una locura, ya que todos los creyentes vamos a ser limpios de todo pecado y maldad, pero en el día de Cristo, el Señor Jesús en su tribunal, (el tribunal del cordero) se pondrá a prueba toda obra que hayamos hecho en vida desde el momento en que fuimos creyentes.
+##### El verso 6 es una garantía, de que todo creyente será completamente perfecto en el día de Jesucristo.
 
-##### Muchos creyentes serán motivo de gozo por haber llegado a ser irreprensibles en su andar para este día de Cristo.
+##### Pero ser puros e irreprensibles se pondrá a prueba desde el momento en que fuimos creyentes. 2 Corintios 5:10
 
-##### Pero muchos terminaran teniendo vergüenza de acercarse al Señor.
+##### El día de Cristo Jesús se refiere al tribunal del Cordero, es un evento exclusivo para la iglesia, donde todos los creyentes serán juzgados por todas las obras que hicieron estando en el cuerpo. 1 Corintios 3:13-15
 
-##### El día de Cristo Jesús se refiere al tribunal del Cordero, es un evento exclusivo para la iglesia, donde todos los creyentes serán juzgados por todas las obras que hicieron estando en el cuerpo. 
-
-##### Es importante aclarar que este evento no es para pérdida de salvación, ni tampoco para definir quién es realmente salvo.
+##### Es importante aclarar que este evento no es para pérdida de salvación, ni tampoco para definir quién es realmente salvo. 1 Juan 2:28; 1 Corintios 3:15; 
 
 ### Filipenses 1:11
 
@@ -503,11 +501,33 @@ llenos del fruto de justicia que es por medio de Jesucristo, para la gloria y al
 
 #### llenos del fruto de justicia
 
+##### Escoger lo mejor, ser puros e irreprensibles, sobre la base de la verdad y todo discernimiento lleva a un abundar del fruto de la Justicia.
+
+##### La justicia que viene de otra fuente, que no se basa en la verdad, no lleva a un crecimiento de abundante fruto.
+
 #### que es por medio de Jesucristo,
+
+##### El fruto de la justicia solamente es por medio de Jesucristo. Juan 15:5
+
+##### Esto trae paz y descanso porque no no es por medio del esfuerzo humano, ni de la justicia del hombre.
+
+##### El día de Cristo Jesús toda obra que es por medio de Jesucristo será premiada, y no así las obras de la carne por mas que tengan buenas intenciones.
 
 ####  para la gloria y alabanza de Dios.
 
+##### Si la justicia provendría de nuestros propios méritos, o vendría de nuestro propio criterio, la gloria sería para nosotros mismos y no para Dios.
+
+##### Sin embargo la Justicia que es por medio de Jesucristo es únicamente y solamente para la gloria y alabanza del Padre. Juan 15:8
+
 ## Filipenses 1:12-20 Las circunstancias para el progreso del evangelio.
+
+##### Los siguientes versículos no están dando un cambio de tema, Pablo narra que se encuentra en circunstancias no favorables que han llevado a obtener 1 resultado con 2 actitudes que contrastan la una de la otra, pero ambas son motivo de gozo.
+
+##### Esta narrativa lo hace con la intención de abrirnos el entendimiento a lo que ya menciono anteriormente en su oración.
+
+##### Estos contrastes que usará, llevarán a una compresión practica de qué es un actuar de amor con conocimiento verdadero y todo discernimiento, versus un criterio de amor (beneficio propio), basado en la verdad, pero sin discernimiento. 
+
+##### Y finalmente como es la respuesta provista del Fruto de justicia que es por medio de Jesucristo siendo el Espíritu Santo produciendo gozo ante las circunstancias. 
 
 ### Filipenses 1:12
 
@@ -515,9 +535,35 @@ Quiero que sepan, hermanos, que las circunstancias en que me he visto, han redun
 
 #### Quiero que sepan, hermanos,
 
+##### Esto tiene un proposito, ahora pasa a darles una información que no se separa del su oración.
+
+##### La carta a los filipenses tiene un sentido práctico, aunque aquí Pablo pasa a narrar, lo va a hacer para llevarles a poner en práctica su discernimiento, aún no existen imperativos, pero está información no debe ser tomada como si Pablo quisiera sobresalir o que sientan autocompasión por el. 
+
+##### El se acerca de forma cariño a sus hermanos, quienes están completamente informados de las circunstancias por las que esta pasando, pero hay algo que probablemente ellos ignoran, por eso inicia queriendo que sepan lo que esta viviendo. 
+
 #### que las circunstancias en que me he visto,
 
+##### Las circunstancias por las que los Filipenses han visto a Pablo, o por las circunstancias que nosotros vemos a Pablo al leer la biblia, quizás no son las mismas por las que el se ha visto.
+
+##### Y el mismo quiere aclarar como se ha visto.
+
+##### Esto con un sentido de aclararnos la verdad y sea muy útil para nuestro discernimiento.
+
+##### Circunstancias favorables donde podemos celebrarlo con facilidad.
+
+##### O circunstancias con respuestas no favorables en las que celebrarlo no tiene lugar, pero en su gran mayoría las circunstancias fueron difíciles y hasta imposibles, pero no queda ahí.
+
 #### han redundado en un mayor progreso del evangelio
+
+##### Hechos 9:16 (Jesús dijo) *porque Yo le mostraré cuánto debe padecer por Mi nombre.* 
+
+##### Aquellas circunstancias habían redundado con un propósito que no se separa del plan de Dios.
+
+##### Jesús dijo que Él mismo le mostraría a Pablo lo que era sufrir por Cristo, pero no con un enfoque de venganza ni represalia, sino que al mostrarle el Señor mismo le enseñaría como aquellas circunstancias habían redundado para un mayor progreso del evangelio. 
+
+##### Al decirnos Pablo en las circunstancias en las que se ha visto, el mismo podría llegar a sacar una conclusión equivocada, pero el mismo Señor lo llevo a ver.
+
+##### Nosotros podemos ver y sacar una conclusión diferente a la de los Filipenses y de Pablo, pero siendo el Señor mismo que lo llevo a ver aquellas circunstancias, podemos confiar plenamente que nada se ha separado del plan de Dios. 1 Timoteo 2:4
 
 ### Filipenses 1:13
 
@@ -525,11 +571,41 @@ de tal manera que mis prisiones por la causa de Cristo se han hecho notorias en 
 
 #### de tal manera que mis prisiones
 
+##### Es interesante que el progreso del evangelio es a través de puertas cerradas, encerrado en prisión.
+
+##### Y no solo solamente habla de una sola prisión sino que son varias prisiones.
+
 #### por la causa de Cristo
+
+##### Esto es de notar, ya que:
+
+- No esta preso por buscar su propio beneficio. Filipenses 3:8
+- No esta preso por ser un criminal. Hechos 26:29-31
+- No esta preso por ir en contra de la ley. Hechos 24:14
+- No esta preso por ir en contra del pueblo Judío o del gobierno romano. Hechos 25:8
+- No esta preso por imponer la verdad. Hechos 26:6-7
+
+##### Es explicito, esta preso por la causa de Cristo. Hechos 26:15-23
 
 #### se han hecho notorias en toda la guardia pretoriana
 
+##### Y esta causa ha sido notorio a toda la guardia que lo custodiaba.
+
+##### Cuando fue apresado, todos pensaron que era un criminal de los mas terribles criminales que ha existido, con acusaciones bastante fuertes. Hechos 24:1-9
+
+##### Aunque muchos daban falso testimonio con abogados, lideres y autoridades con tanto poder, pues Dios se mantuvo fiel.
+
+##### Y en su fidelidad se hizo notorio que Pablo no era un criminal sino que fue apresado por la causa de Cristo, por la predicación del evangelio. Hechos 23:23-24, 27:42-43
+
 #### y a todos los demás.
+
+##### Las autoridades se daban cuenta que estaba preso por predicar a Cristo. Hechos 25:18-19
+
+##### Gente que no lo conocía que pensaban que era el peor criminal también llegaron a notar que un poder divino estaba acompañándolo, lo cual se hizo notorio que Dios lo estaba acompañando. Hechos 28:3-9
+
+##### Y estando en Roma muchos iban a visitarlo para escuchar la predicación del evangelio. Hechos 28:30-31
+
+##### A ojos de quienes tenían una primera impresión pensaban que realmente era un rebelde, pero Dios hizo notorio que el no era un criminal, sino que en su fidelidad hizo evidente que se encontraba preso por Cristo.
 
 ### Filipenses 1:14
 
@@ -537,23 +613,59 @@ La mayoría de los hermanos, confiando en el Señor por causa de mis prisiones, 
 
 #### La mayoría de los hermanos, confiando en el Señor
 
+##### Al darse cuenta también los hermanos de esta gran obra de Dios, muchos hermanos que quizá estaban desanimados por ser vistos como enemigos o rebeldes, al ver la fidelidad de Dios demostrando que Pablo era inocente, y no un criminal, y que estaba preso por la causa de Cristo, la mayoría de los hermanos agarro confianza en el Señor.
+
+##### Al hacerse notorio el propósito de las circunstancias, la confianza en el Señor creció de la gran mayoría de hermanos.
+
 #### por causa de mis prisiones
 
-#### tienen mucho más valor para hablar la palabra de Dios
+##### Aquellas prisiones por las que Pablo anduvo, la confianza en el Señor crecio.
 
-#### sin temor.
+##### Si bien no sabemos específicamente a que grupo de hermanos hace referencia, podemos usar de ejemplo a los hermanos de la iglesia de Roma, ya que el se encontraba en cadenas en aquella ciudad donde escribió esta carta no dudando que tuvo impacto a los hermanos de la iglesia de Jerusalén donde fue apresado.
+
+##### Este hecho puede llegar a ser familiar para los filipenses ya que ellos fueron testigos de primera mano como las prisiones Pablo le dio a el mismo confianza en predicar el evangelio con denuedo en medio de oposición. 1 Tesalonicenses 2:2
+
+#### tienen mucho más valor para hablar la palabra de Dios sin temor
+
+##### Este valor no viene, por ver a Pablo específicamente.
+
+##### Sin,o por ver la fidelidad de Dios. Hechos 4:17-21
+
+##### Más adelante tendrá más sentido está narrativa, ya que les dirá a ellos que no tengan temor de sus adversarios.
 
 ### Filipenses 1:15
 
 Algunos, a la verdad, predican a Cristo aun por envidia y rivalidad, pero también otros lo hacen de buena voluntad.
 
-#### Algunos, a la verdad, predican a Cristo 
+##### Aquí es donde el amor es puesto a prueba, porque hay dos maneras de responder al ver a Pablo puesto en la defensa del evangelio bajo tribulación.
 
-#### aun por envidia
+##### Dos actitudes contrastantes, lo cual esta narración que Pablo quiere que sepamos, ayuda en discernir en dos aspectos.
 
-#### y rivalidad,
+#### Algunos, a la verdad, predican a Cristo
+
+##### Sobre la base de la verdad se predica a Cristo
+
+##### En su petición de oración se pedía que el amor abunde más y más, con el fin de que sean llenos del fruto de justicia que es por medio de Jesucristo.
+
+##### Pero notaremos que hay 2 actitudes contrarias sobre la base de la verdad.
+
+##### Una primera actitud que no esta en un conocimiento verdadero, que no tiene todo discernimiento lo cual no lleva a elegir lo mejor.
+
+##### Una segunda actitud que acompañada de un conocimiento verdadero, con todo discernimiento que lleva a elegir lo mejor y abunda en fruto de justicia por medio de Jesucristo.
+
+#### aun por envidia y rivalidad,
+
+##### Predicar a Cristo por envidia no es verdadero amor, aquí da una clara distinción para poder discernir, si bien predicar a Cristo es el mensaje de verdad que trae salvación, la envidia es completamente contrario al amor.
+
+##### Algo que puede llegar a suceder al escuchar la predicación del evangelio con claridad, cualquiera podría responder, predicar a Cristo con tal de hacer quedar mal a otro.
+
+##### De igual modo la rivalidad es opuesto al amor, bien puedes predicar el mensaje de la verdad, a Cristo, pero con la intención de buscar discusiones o peleas, en todo caso traer rivalidad.
+
+##### La verdad cuando no es tomada por la fe, puede generar disgusto o rivalidad y aquí Pablo hace notar a un grupo que predica a Cristo con la intención de buscar rivalidades.
 
 #### pero también otros lo hacen de buena voluntad.
+
+##### Y en otro aspecto muy diferenciado se muestra otro grupo que es motivado a seguir creciendo en amor y predicar a Cristo de buena voluntad. 
 
 ### Filipenses 1:16
 
@@ -561,7 +673,13 @@ Estos lo hacen por amor, sabiendo que he sido designado para la defensa del evan
 
 #### Estos lo hacen por amor,
 
+##### Al ser consiente sobre la evidencia de la causa de las prisiones de Pablo, la predicación creció en amor.
+
 #### sabiendo que he sido designado para la defensa del evangelio.
+
+##### Esto es lo mismo que deseaba que notaran los filipenses, por eso inició narrando con el querer de que ellos sepan que todas las circunstancias han redundado para el avance del evangelio.
+
+##### Ignorar este hecho marca una gran diferencia con los que ignoran esta verdad, ya que la mirada se centra en alguien que es criminal y no alguien inocente, ya que el actuar de defender el evangelio no lo hacia por envidia o rivalidad. Gálatas 5:26 Hechos 24:16
 
 ### Filipenses 1:17
 
@@ -569,23 +687,45 @@ Aquellos proclaman a Cristo por ambición personal, no con sinceridad, pensando 
 
 #### Aquellos proclaman a Cristo por ambición personal,
 
+##### Otros con tal de defender su estatus, su posición o sus ministerios, predican a Cristo desde un punto de confianza sobre si mismos para no quedar mal, y ellos tener la razón y ser vistos por los demás.
+
 #### no con sinceridad,
 
+##### Todo esto aunque aparenta tener buenas intenciones con tal de que Pablo sea perjudicado y ellos mostrando una preocupación por los hermanos, no es con sinceridad. Gálatas 4:17
+
 #### pensando causarme angustia en mis prisiones
+
+##### Esto nos lleva a una pregunta ¿porque la ambición personal de otro llegaría a afectar a alguien?.
+
+##### Así es como piensa el mundo, por envidia y rivalidad,  pensando provocar y aumentar aflicción. Hechos 17:5-8, 13
+
+##### Muchos tratando de demostrar culpabilidad ante los mensajeros de Dios, ellos al predicar por contienda están siendo usados por Dios para proclamar a Cristo aunque traten de perjudicar y añadir aflicciones, Cristo esta siendo predicado.
 
 ### Filipenses 1:18
 
 ¿Entonces qué? Que de todas maneras, ya sea fingidamente o en verdad, Cristo es proclamado; y en esto me regocijo, sí, y me regocijaré.
 
-#### ¿Entonces qué? Que de todas maneras, ya sea fingidamente o en verdad,
+#### ¿Entonces qué? Que de todas maneras, ya sea fingidamente o en verdad, Cristo es proclamado;
 
-#### Cristo es proclamado;
+##### Aqui vemo el resultados de sus prisiones, aquellas circunstancias que han redundado para el avance del evangelio.
+
+##### Dando mayor confianza a los hermanos para predicar.
+
+##### Y siendo popularizado por los que se oponen.
 
 #### y en esto me regocijo,
 
+##### Esto trae un regocijo a diferencia de los que actúan por rivalidad y contienda, el fruto de justicia por medio de Jesucristo traer un regocijo, porque es Dios manteniéndose fiel en la expansión de su evangelio.
+
 #### sí,
 
+##### Indudablemente es Dios iniciando la buena obra, y llevándola a cabo teniendo pleno control sobre las circunstancias, usándolo de forma poderosa para darse a conocer.
+
 #### y me regocijaré.
+
+##### Hay que notar que Pablo no esta actuando de la misma manera de los que buscan rivalidad, al contrario, esta feliz, predicando fielmente el evangelio sin rivalidad, sino por amor y no por ambición personal. Efesios 4:29
+
+##### Esto es completamente contrario por los que se oponen, en vez de sentirse afligido o en angustia de estar encerrado y tener el pensamiento de que el evangelio no esta creciendo, la realidad es que trae regocijo, porque mientras Pablo esta encerrado, el evangelio esta creciendo libremente, independiente de que este encerrado o en libertad, es Dios llevando fielmente a cabo la buena obra.
 
 ### Filipenses 1:19
 
@@ -593,9 +733,19 @@ Porque sé que esto resultará en mi liberación mediante las oraciones de usted
 
 #### Porque sé que esto resultará en mi liberación
 
-#### mediante las oraciones de ustedes
+##### El regocijo lo lleva a tener certeza sobre un resultado que será un hecho.
 
-####  y la provisión del Espíritu de Jesucristo,
+##### *Porque sé* OIGA esta en tiempo perfecto, activo, indicativo, que puede traducirse como *He sabido* que será un hecho
+
+##### Y la palabra *resultará* APOBAINO esta en tiempo futuro, voz media, indicativa, lo cual se puede entender como un resultado de parte de 2 acciones involucradas, Dios haciendo participar a la iglesia.
+
+#### mediante las oraciones de ustedes y la provisión del Espíritu de Jesucristo,
+
+##### Para concluir lo que les ha estado narrando desde la perspectiva de la obra de Dios, los hace participar en la confianza de tener el resultado de tener libertad.
+
+##### Este suceso esta basado en la confianza Dios y la participación de la iglesia. Hechos 12:5-12
+
+##### Estas circunstancias son dadas por Dios como oportunidad para que la iglesia pueda participar en oración, acompañando a los creyentes que están pasando tribulación. Filipenses 4:14
 
 ### Filipenses 1:20
 
@@ -603,13 +753,29 @@ conforme a mi anhelo y esperanza de que en nada seré avergonzado, sino que con 
 
 #### conforme a mi anhelo y esperanza de que en nada seré avergonzado,
 
+##### Avergonzado AISJUNOMAI Se encuentra en un tiempo futuro, voz pasiva, modo indicativo, 1era persona singular, lo cual significa que su anhelo y espera descansa sobre la firme confianza de que Dios no permitiría que Pablo sea avergonzado.
+
 #### sino que con toda confianza, aun ahora, como siempre,
 
-#### Cristo será exaltado en mi cuerpo,
+##### Pablo sabia que Dios no le haría quedar mal, confiaba firmemente en eso porque siempre fue así y Dios no cambiaria ahora. 
 
-#### ya sea por vida o por muerte.
+#### Cristo será exaltado en mi cuerpo, ya sea por vida o por muerte.
+
+#####  Y que más bien Dios mostraría públicamente en Pablo la grandeza de Cristo, ya sea que viva o que muera.
+
+##### Es aquí donde termina su narración y su plena confianza de que Dios lo ha llevado a hacer visible la exaltación de Cristo.
+
+##### Muy diferente a una ambición personal, sino que el fruto de justicia abunda para la grandeza de Cristo y gloria de Dios.
 
 ## Filipenses 1:21-26 Una labor fructífera.
+
+##### Sin cambiar de tema pasa a explicar, porque es que tenia esa confianza de no ser avergonzado en nada y que al contrario Cristo seria exaltado en su cuerpo, ya sea que viva o que muera.
+
+##### ¿Como es que a pesar de tanta oposición era que el evangelio se expandía?, las circunstancias por las que se vio Pablo no son las mas favorables a la que estamos acostumbrados cuando tenemos en mente predicar el evangelio.
+
+##### Cuando queremos compartir el evangelio siempre elegimos lugares donde nadie nos rechace, y si alguien rechaza el evangelio, rápidamente discernimos que no debe ser la voluntad de Dios y que es mejor callar, ¿es esa una confianza de que Cristo sea exaltado por vida o por muerte? Hechos 21:10-14
+
+##### La confianza en la cual Pablo hace referencia, no es lo que uno puede llegar a dar, sino lo que resulta, llenos del fruto de justicia por medio de Jesucristo.
 
 ### Filipenses 1:21
 
@@ -617,9 +783,23 @@ Pues para mí, el vivir es Cristo y el morir es ganancia.
 
 #### Pues para mí,
 
+##### Después de mostrar a la mayoría de hermanos que agarraron confianza a predicar el evangelio al ver las circunstancias.
+
+##### Y mostrar a algunos que tienen confianza en la ambición personal.
+
+##### Ahora Pablo dice, *para mi,* con la intención de que sepamos donde esta puesta su confianza ya sea en la vida o en la muerta.
+
 #### el vivir es Cristo
 
+##### Vivir ZAO es un verbo que se encuentra en tiempo presente, voz activa, modo infinitivo, que expresa el proceso de estar vivo, tanto la experiencia como la esencia de vivir, la cual radica en Cristo y nada más.
+
+##### Algo que esta al alcance de todos, no solamente para Pablo.
+
 #### y el morir es ganancia.
+
+##### Morir APOTHNESKO es un verbo que se encuentra en tiempo Aoristo, voz activa, modo infinitivo, que expresa el resultado de haber muerto, como una acción que se completo en algún punto del pasado.
+
+##### Por lo que podría traducirse, *el haber muerto es ganancia.* Gálatas 2:19-20
 
 ### Filipenses 1:22
 
@@ -627,7 +807,15 @@ Pero si el vivir en la carne, esto significa para mí una labor fructífera, ent
 
 #### Pero si el vivir en la carne, esto significa para mí una labor fructífera,
 
+##### Entonces para Pablo vivir a Cristo en esta vida, significaba en una labor fructífera.
+
 #### entonces, no sé cuál escoger.
+
+##### Por lo que le era difícil saber que escoger.
+
+##### En su oración Pablo pedia que los hermanos filipenses sepan que escoger, para que abundaran en frutos de justicia.
+
+##### Aquí Pablo limita las elecciones que llevan a ser puros e irreprensibles.
 
 ### Filipenses 1:23
 
@@ -635,9 +823,15 @@ Porque de ambos lados me siento apremiado, teniendo el deseo de partir y estar c
 
 #### Porque de ambos lados me siento apremiado,
 
-#### teniendo el deseo de partir y estar con Cristo,
+##### Ambas elecciones terminaban siendo apremiantes.
 
-#### pues eso es mucho mejor.
+##### Esto es impactante, muchas veces tenemos el deseo de abandonar de una vez esta vida para ir con el Señor para vivir una vida abundante. Juan 4:14, 7:38
+
+##### Pero vivir a Cristo en esta vida llega ser tan apremiante y abundante que es difícil poder elegir donde estar.
+
+#### teniendo el deseo de partir y estar con Cristo, pues eso es mucho mejor.
+
+##### Es verdad que hay fuerte deseo de partir y estar con Cristo, y eso podría llegar a entenderse por escoger lo mejor.
 
 ### Filipenses 1:24
 
@@ -645,7 +839,19 @@ Sin embargo, continuar en la carne es más necesario por causa de ustedes.
 
 #### Sin embargo, continuar en la carne
 
+##### Pero, Pablo declara escoger continuar viviendo a Cristo en este mundo con un propósito.
+
 #### es más necesario por causa de ustedes.
+
+##### Pablo podía haber elegido morir antes, cuando fue apresado en Jerusalén, pero él mismo eligió no morir apelando a Cesar, aunque todo eso lo llevo a sufrir circunstancias no favorables para su bienestar. Hechos 21:31, 35-36, 
+
+##### Hechos 23:11 *A la noche siguiente el Señor se le apareció a Pablo y le dijo: «Ten ánimo, porque como has testificado fielmente de Mi causa en Jerusalén, así has de testificar también en Roma.* 
+
+##### En aquel preciso momento podia haber elegido quedarse en Jerusalen y ser entregado en manos de los judios, ya que ellos planificaban matarlo. Hechos 23:12-21
+
+##### Pablo elige no morir apelando a Cesar no por quisiera conservar su vida porque tenia miedo de morir Hechos 25:10-11
+
+##### Sino que eligió no morir y pasar por todas esas circunstancias con la confianza que seria de gran beneficio para todos los hermanos. Hechos 20:24
 
 ### Filipenses 1:25
 
@@ -653,7 +859,11 @@ Y convencido de esto, sé que permaneceré y continuaré con todos ustedes para 
 
 #### Y convencido de esto, sé que permaneceré y continuaré con todos ustedes
 
+##### Así que tenia completa seguridad de que aun no habia terminado la carrera que tenia por delante.
+
 #### para su progreso y gozo en la fe,
+
+##### En esta carrera Pablo no corría por delante de los hermanos, como queriendo ganarles en un competencia de quien es el mejor creyente, sino que su carrera era estar para que ellos puedan progresar y mantener el gozo en la fe.
 
 ### Filipenses 1:26
 
@@ -661,11 +871,50 @@ para que su profunda satisfacción por mí abunde en Cristo Jesús a causa de mi
 
 #### para que su profunda satisfacción por mí abunde en Cristo Jesús
 
+##### Como Pablo sabia que por medio de sus oraciones y la suministración del Espíritu de Cristo seria libre, eso sería muy satisfactorio para todos los hermanos.
+
 #### a causa de mi visita otra vez a ustedes.
+
+##### Según la tradición se cree que Pablo pudo salir en libertad y visitar a los hermanos Filipenses, visitando también a las otras iglesias, en un cuarto viaje misionero, donde deja a Timoteo en Éfeso para establecer ancianos.
+
+##### Esto también se puede deducir por las cartas que escribe.
+
+##### Según la tradición se cree que las cartas de Efesios, Filipenses, Colosenses y Tesalonicenses fueron escritas en su primer encarcelamiento.
+
+##### Y que la carta de 2 Timoteo fue escrita en su segundo encarcelamiento después de haber visitado otra vez a los hermanos.
 
 # Filipenses 1:27-2:30 ES DIOS QUIEN OBRA en ustedes
 
+##### Desde esta sección iniciara una serie de imperativos.
+
+##### El libro de Filipenses tiene 22 Imperativos en toda la carta.
+
+- Capitulo 1 tiene un imperativo.
+- Capitulo 2 tiene seis imperativos.
+- Capitulo 3 tiene seis imperativos.
+- Capitulo 4 tiene nueve imperativos.
+
+##### En esta sección, del capitulo 1:27 al capitulo 2:30 abarcaremos siete imperativos.
+
+##### Esto tiene mucho significado al corazón de esta sección, Dios es quien obra en medio de ustedes.
+
+##### Estos imperativos no deben ir independientes del obrar de Dios, y tampoco debe entenderse que estas instrucciones se completan por si solas.
+
+##### Existe una participación activa del creyente en el obrar de Dios.
+
 ## Filipenses 1:27-2:4 Un comportamiento digno del Evangelio de Cristo
+
+##### Después de haber narrado como las circunstancias por las que Pablo esta pasando y los resultados de la predicación del evangelio, pasa a dar el primer imperativo de la carta.
+
+##### Esta sección es bastante práctica, por lo que es difícil poder discernir sobre la base de que es lo que dice, y que significa.
+
+##### Este primer imperativo es fundamental para lo siguiente, ya que sin esta base, todo lo que continua se convertiría en un esfuerzo por querer alcanzarlo. 
+
+##### Por lo general Pablo, en otras cartas explica anticipadamente, antes de dar el primer imperativo, en esta carta, más específicamente en esta sección, dará el imperativo y posteriormente explicará como se ve de manera práctica y sobre que esta fundamentada.
+
+##### El propósito de esta sección no esta separada de su oración. Filipenses 1:9
+
+##### A través de esta carta así como los Filipenses, puedas abundar en amor, en un conocimiento verdadero, seas guiado poder su Espíritu Santo a discernir todo, y sepas ser guiado por el Señor para poder elegir lo mejor, y seas puro e irreprensible en tu andar diario, lleno del fruto de Justicia que es únicamente y solamente por medio de Jesucristo, no para tu propia gloria, sino para la gloria de Dios.
 
 ### Filipenses 1:27
 
@@ -673,11 +922,49 @@ Solamente compórtense de una manera digna del evangelio de Cristo, de modo que 
 
 #### Solamente compórtense de una manera digna del evangelio de Cristo,
 
+##### Solamente, hace referencia a que, únicamente, no dos, no tres, no muchos, sino que hay un solo comportamiento digno del evangelio de Cristo.
+
+##### *compórtense* POLITEUOMAI es una palabra derivada de POLITES, que significa ciudadano o poblador, compuesto por comportamiento, que puede traducirse como: *compórtense o vivan como ciudadanos.*
+
+##### Esta palabra se un verbo en tiempo presente, imperativo, voz media pasiva, 
+
+##### Es de notar que se encuentra en voz media pasiva, que significa una acción que alguien hizo los beneficia a ellos para que puedan llevar a cabo el imperativo en tiempo presente.
+
+##### Por lo que podemos llegar a entender que al momento de haber creído en el evangelio, Dios los hizo ciudadanos dignos del evangelio de Cristo.
+
+##### Entonces esto significa que el imperativo da la instrucción a que ellos vivan según lo que ya son.
+
+##### Esto trae descanso, ya que el pasaje no esta enseñando, que ellos deben alcanzar ser dignos ciudadanos para poder vivir dignamente del evangelio de Cristo.
+
+##### Por eso el énfasis de vivir con aquella sola y única ciudadanía digna que ya tenemos del evangelio de Cristo.
+
 #### de modo que ya sea que vaya a verlos, o que permanezca ausente, pueda oír 
+
+##### Pablo tiene el deseo de poder escuchar el andar de los hermanos, estando con ellos o estando ausente.
+
+##### Esto aclara que la firmeza o la unidad no esta sobre la base de un hermano, este presente o ausente el comportamiento digno del evangelio puede ser oído, no obligado.
 
 #### que ustedes están firmes en un mismo espíritu,
 
+##### La manera en la que se ve el vivir digno del evangelio, es estar todos firmes en un mismo espíritu.
+
+##### Las circunstancias rápidamente podrían dividir el espíritu de la iglesia, pero eso no va acorde a lo que ya somos, eso quitaría la firmeza.
+
+##### Si bien las circunstancias podrían quitar firmeza.
+
+##### Note que Dios nos puso en una ciudadanía digna del evangelio a pesar de las circunstancias eso es algo que nunca va a cambiar. la firmeza proviene de andar en lo digno que ya Dios nos coloco.
+
+##### Ahora conociendo el propósito de las circunstancias pasa a desear que los hermanos filipenses estén firmes en un mismo espíritu, no divididos.
+
 #### luchando unánimes por la fe del evangelio.
+
+##### Esta lucha, no es una lucha por Pablo, no es una lucha por defender una actividad, no es una lucha por un grupo de personas, no es una lucha por la unanimidad.
+
+##### Esta lucha, es una lucha donde todos están unánimes sobre la fe del evangelio.
+
+##### Esto es algo que ellos debían prestar atención, ya que para un andar digno del evangelio de Cristo, esta se fundamentada sobre la fe en el evangelio.
+
+##### Note que es una lucha unánime sobre el único mensaje Dios que es poderoso para salvación al cual se accede únicamente y solamente por la fe.
 
 ### Filipenses 1:28
 
@@ -685,21 +972,67 @@ De ninguna manera estén atemorizados por sus adversarios, lo cual es señal de 
 
 #### De ninguna manera estén atemorizados por sus adversarios,
 
+##### El temor por los adversarios rápidamente podría quitarlos de su firmeza, y al suceder esto, por causa del temor, la fe del evangelio es comprometido a ser cambiado, lo que llegaría a resultar un andar que no es digno de lo que ya somos dignos.
+
+##### Pablo en su narración quería que esto se entienda claramente, que no importaba si vivía o moría
+
+##### Sus adversarios aunque tenían intenciones de añadir aflicciones a sus prisiones.
+
+##### Pablo se regocijaba con el deseo de continuar viviendo para un mayor progreso del evangelio y sea motivo de gozo para todos los hermanos. 
+
+##### La Biblia (RVR60) traduce, *y en nada intimidados por los que se oponen* los que se oponen tiene la habilidad de intimidar, pero tenemos un Dios y mensaje poderoso. Hechos 4:17-21
+
 #### lo cual es señal de perdición para ellos,
+
+##### No tener temor por los adversarios es señal de perdición para ellos, y esto es bueno, ya que por causa de esta señal ellos podrían notar que están perdidos, porque Dios es fiel con su pueblo. Filipenses 1:20
 
 #### pero de salvación para ustedes,
 
+##### Y también sirve de señal de que somos salvos (sustantivo Genitivo), pero no señal para nosotros, sino señal para los adversarios.
+
+##### Esta pasaje no esta enseñando que debes demostrar tu salvación (No es un verbo).
+
+##### Sino que al no estar atemorizado por los adversarios Dios demuestra y hace una clara señal de que ellos serán destruidos y nosotros salvados, es una señal para los adversarios, viendo la revelación general de Dios, ya que Dios siendo fiel hace notorio la causa del evangelio de Cristo. Hechos 4:3-4, 26:26-31
+
 #### y esto, de Dios. 
+
+##### Dios es quien lo usa para sus propósitos, de dar por señal la condición perdida del hombre y el medio por el cual Dios trae salvación.
 
 ### Filipenses 1:29
 
 Porque a ustedes se les ha concedido por amor de Cristo, no solo creer en Él, sino también sufrir por Él,
 
+##### Este pasaje no esta enseñando que Dios concede la gracia de creer en el evangelio.
+
+##### No esta hablando de una gracia soberana que lleva a las personas a creer en Él.
+
+##### Para entender ese pasaje y no alejarnos de su significado debemos volver un poco a los orígenes de la iglesia.
+
+##### Para entender *que a ellos les fue concedido por amor de Cristo el creer en Él,* debemos apoyarnos en la escritura.
+
+##### A inicios del libro de hechos podemos ver que no existía gentiles formando la iglesia. Hechos 2:22, 36, 39
+
+##### Y es en Hechos 12:17-18 donde muestra claramente que Dios a concedido también a los gentiles alcanzar salvación. 
+
+##### Filipos es un iglesia conformada por creyentes gentiles.
+
 #### Porque a ustedes se les ha concedido por amor de Cristo,
+
+##### A través de la fe en el evangelio todo creyente se beneficio de la gracia de Dios. Romanos 3:24
 
 #### no solo creer en Él,
 
+##### Entonces la iglesia de Filipos esta incluido en esta gracia que ha sido dada para todo el mundo.
+
 #### sino también sufrir por Él,
+
+##### Esta gracia no solo se quedo en que ellos sean salvos y termine ahí.
+
+##### Sino que Dios los incluyo en sus planes con un privilegio de sufrir por causa de Cristo. Mateo 5:10-12
+
+##### Este privilegio de creer en Cristo no solo es para judios, 
+
+##### Así también tener el privilegio de sufrir por Cristo no solo es para los judíos.
 
 ### Filipenses 1:30
 
@@ -707,7 +1040,11 @@ teniendo el mismo conflicto que vieron en mí, y que ahora oyen que está en mí
 
 #### teniendo el mismo conflicto que vieron en mí,
 
+##### Es por eso que Pablo siendo judío, les muestra que ellos mismo tienen el mismo conflicto que vieron en él cuando los azotaron por ser judíos. Hechos 16:20
+
 #### y que ahora oyen que está en mí.
+
+##### Al oír ellos porque causa estaba preso, Pablo quiere mostrar que no hay privilegio mayor por ser judío o por ser gentil, sino que a ellos también se les concedió el mismo privilegio de sufrir por amor a Cristo.
 
 ### Filipenses 2:1
 
@@ -715,13 +1052,25 @@ Por tanto, si hay algún estímulo en Cristo, si hay algún consuelo de amor, si
 
 #### Por tanto, 
 
+##### Entonces al comprender que se tiene el mismo privilegio y honor de sufrir por Cristo, Pablo mostrará que sin lugar a dudas para ellos y para todo creyente hay afirmaciones (si, de primera condición).
+
+##### En griego, cuando se utiliza EI *si* con un sustantivo o un adjetivo, se suele asumir que la condición es real o probable, a menos que haya algún indicio en contrario.
+
 #### si hay algún estímulo en Cristo,
+
+##### Esto puede traducirse como: Claro que si hay algún estímulo en Cristo, sin lugar a dudas.
 
 #### si hay algún consuelo de amor,
 
+##### De igual manera: Claro que hay algún consuelo de amor para todo creyente.
+
 #### si hay alguna comunión del Espíritu,
 
+##### De igual manera es de primera condición: Claro que hay alguna comunión del Espíritu, para todo creyente.
+
 #### si algún afecto y compasión,
+
+##### De igual manera es de primera condición: Claro que hay algún afecto y compasión para todo creyente.
 
 ### Filipenses 2:2
 
@@ -729,27 +1078,49 @@ hagan completo mi gozo, siendo del mismo sentir, conservando el mismo amor, unid
 
 #### hagan completo mi gozo,
 
+##### Entonces al mostrarles el privilegio que tienen pasa a dar otro imperativo.
+
+##### *hagan completo* PLEROO, es un verbo en tiempo Aoristo, imperativo, activo, que indica que es una acción que debe realizarse de manera puntual y completa.
+
+##### Por lo que debía completarse la instrucción de llenar a plenitud su gozo, ¿y como llevaría a cabo eso?
+
+##### Este imperativo es explicado en como debía realizarse.
+
 #### siendo del mismo sentir,
+
+##### Primero, siendo del mismo sentir.
 
 #### conservando el mismo amor,
 
+##### Segundo, conservando el mismo amor.
+
+##### Es genial poder recordar como los hermanos filipenses habian estado conservandose en el mismo amor desde el primer día hasta ahora, pero para completar el gozo de Pablo les pide que continuen así, 
+
+##### Para mantenerse en el mismo amor, ellos debían estar luchando unánimes por la fe del evangelio.
+
 #### unidos en espíritu,
 
+##### Tercero, unidos en espíritu.
+
 #### dedicados a un mismo propósito.
+
+##### Cuarto, dedicados a un mismo propósito.
 
 ### Filipenses 2:3
 
 No hagan nada por egoísmo o por vanagloria, sino que con actitud humilde cada uno de ustedes considere al otro como más importante que a sí mismo,
 
-#### No hagan nada
+#### No hagan nada por egoísmo o por vanagloria,
 
-#### por egoísmo
-
-#### o por vanagloria,
+##### Quinto, no haciendo nada por egoísmo o por vanagloria.
 
 #### sino que con actitud humilde
 
+##### sino con actitud humilde
+
 #### cada uno de ustedes considere al otro como más importante que a sí mismo,
+
+##### Sexto, cada uno considerando al otro como más importante a sí mismo,
 
 ### Filipenses 2:4
 
@@ -757,7 +1128,11 @@ no buscando cada uno sus propios intereses, sino más bien los intereses de los 
 
 #### no buscando cada uno sus propios intereses,
 
+##### Séptimo, no buscando sus propios intereses.
+
 #### sino más bien los intereses de los demás.
+
+##### 
 
 ## Filipenses 2:5-11 Tengan la misma manera de pensar que tuvo Cristo Jesús
 
