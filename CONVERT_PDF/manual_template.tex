@@ -7,7 +7,7 @@
 \usepackage{xcolor}
 \usepackage{longtable}
 \usepackage{graphicx}
-
+\usepackage{fontawesome5}
 \raggedbottom
 % Images use
 \usepackage{grffile}
@@ -131,6 +131,13 @@
 \providecommand{\pandocbounded}[1]{#1}
 
 % ============================================
+% BULLETS
+% =============================================
+\usepackage{enumitem}
+\setlist[itemize,1]{label=\raisebox{0.2ex}{\faChevronRight}}
+\setlist[itemize,2]{label=\textendash}
+\setlist[itemize,3]{label=\textbullet}
+% ============================================
 % TOC STYLE
 % ============================================
 
@@ -220,11 +227,30 @@
 \par\vspace{-6pt} % 🔥 THIS is the key
 \end{adjustwidth}
 }
+% ================================
+% IMAGE HANDLING
+% ================================
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{caption}
 
+\setkeys{Gin}{
+  width=0.9\textwidth,
+  height=0.7\textheight,
+  keepaspectratio
+}
 
+\captionsetup{
+  justification=centering,
+  singlelinecheck=false
+}
 
-
-
+\let\oldincludegraphics\includegraphics
+\renewcommand{\includegraphics}[2][]{%
+  \begin{center}
+    \oldincludegraphics[#1]{#2}
+  \end{center}
+}
 
 % ParaHthree style
 \newenvironment{paraHthree}

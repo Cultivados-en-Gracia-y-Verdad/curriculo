@@ -3,15 +3,15 @@ title: "Introducción al Griego para el Estudio Biblico"
 subtitle: "aprendiendo a usar herramientas"
 author: "CGV"
 cover: "images/portada.png"
-date: "2026-03-02"
 version: "0.5"
+date: "2026-03-02"
 ---
 
 :::title
-Introducción al Griego para el Estudio Bblico
+Introducción al Griego para el Estudio Bíblico
 :::
 
-![John_1_1_Erasmus_1516](images/John_1_1_Erasmus_1516.jpeg)
+![NT de Erasmo 1516](images/John_1_1_Erasmus_1516.jpeg)
 
 
 > ᾿Εν ἀρχῇ ἦν ὁ Λόγος, καὶ ὁ Λόγος ἦν πρὸς τὸν Θεόν, καὶ Θεὸς ἦν ὁ Λόγος. Juan 1:1
@@ -51,6 +51,80 @@ Nuestro compromiso es <u>simple</u>:
 - Hablar con <u>cuidado</u>.
 - Concluir <u>con</u> responsabilidad.
 
+# NO ESTÁS APRENDIENDO GRIEGO
+
+## 1. Aclaración clave
+
+###### En este curso:
+
+- no estás aprendiendo a hablar griego
+
+- no estás aprendiendo a escribir griego
+
+------
+
+## 2. Lo que sí estás aprendiendo
+
+###### Estás aprendiendo a:
+
+- leer lo que una herramienta muestra
+
+------
+
+## 3. Qué significa eso
+
+Cuando veas algo como:
+
+- λόγος
+- N-NSM
+- G3056
+
+###### No necesitas saber griego.
+
+###### Necesitas saber:
+
+- qué estás viendo
+
+------
+
+## 4. El objetivo real
+
+###### Queremos que puedas:
+
+- reconocer la palabra
+- identificar su forma
+- entender su función
+
+------
+
+## 5. Lo que NO necesitas
+
+###### No necesitas:
+
+- memorizar tablas
+- aprender declinaciones completas
+- hablar el idioma
+
+------
+
+## 6. Lo que SÍ necesitas
+
+###### Solo esto:
+
+- reconocer patrones
+
+- leer códigos
+
+- observar antes de interpretar
+
+------
+
+## 7. Frase clave
+
+###### No necesitas saber griego
+
+###### necesitas saber leer lo que estás viendo
+
 # EL GRIEGO PUEDE SER BENEFICIOSO
 
 ## 1. ¿Qué estás viendo cuando ves palabras en griego?
@@ -68,14 +142,12 @@ Cuando abrimos una Biblia en español estamos leyendo una traducción <u>fiel</u
 
 ## 2. El Momento en Que Aparece el Problema
 
-##### Muchos estudiantes hoy usan: Logos, Blue Letter Bible, BibleHub, interlineales, números Strong Y de <u>repente</u> aparece algo como esto: 
-
 Muchos creyentes desean estudiar las Escrituras de una manera más precisa. Comprenden que el camino es sumergirce al griego. Por tal motivo como autodidactas optan por herramientas como: Logos, Blue Letter Bible, BibleHub, interlineales, números Strong, etc., etc.,
 Y de <u>repente</u> les aparece algo como esto:
 
-|λόγος|
-|----|
 |G3056|
+|----|
+|λόγος|
 |N-NSM|
 
 ##### Entonces el estudiante piensa: “¿Qué estoy <u>mirando</u> ?”
@@ -300,80 +372,78 @@ Algunas letras parecen españolas, pero no lo <u>son</u>.
 ## Las Letras
 
 ## Alfa
-<img src="images/alfa.png" alt="Alfa" style="zoom:50%;" />
+![](images/alfa.png){ width=1.3cm }
 
 ## Beta
-<img src="images/beta.png" alt="Beta" style="zoom:50%;" />
+![](images/beta.png){ width=1.3cm }
 
 ## Gama
-<img src="images/gamma.png" alt="Gama" style="zoom:50%;" />
+![](images/gamma.png){ width=1.3cm }
 
 ## Delta
-<img src="images/delta.png" alt="Delta" style="zoom:50%;" />
+![](images/delta.png){ width=1.3cm }
 
 ## Epsilon
-<img src="images/epsilon.png" alt="Epsilon" style="zoom:50%;" />
+![](images/epsilon.png){ width=1.3cm }
 
 ## Zeta
-<img src="images/zeta.png" alt="Zeta" style="zoom:50%;" />
+![](images/zeta.png){ width=1.3cm }
 
 ## Eta
-<img src="images/eta.png" alt="Eta" style="zoom:50%;" />
+![](images/eta.png){ width=1.3cm }
 
 ## Theta
-<img src="images/theta.png" alt="Theta" style="zoom:50%;" />
+![](images/theta.png){ width=1.3cm }
 
 ## Iota
-<img src="images/iota.png" alt="Iota" style="zoom:50%;" /> 
+![](images/iota.png){ width=1.3cm }
 
 ## Kapa
-<img src="images/kappa.png" alt="Kapa" style="zoom:50%;" />
+![](images/kappa.png){ width=1.3cm }
 
 ## Lambda
-<img src="images/lambda.png" alt="Lambda" style="zoom:50%;" /> 
+![](images/lambda.png){ width=1.3cm }
 
 ## Mu
-<img src="images/mu.png" alt="Mu" style="zoom:50%;" />
+![](images/mu.png){ width=1.3cm }
 
 ## Nu
-<img src="images/nu.png" alt="Nu" style="zoom:50%;" /> 
+![](images/nu.png){ width=1.3cm }
 
 ## Xsi
-<img src="images/xi.png" alt="Xsi" style="zoom:50%;" />
+![](images/xi.png){ width=1.3cm }
 
 ## Omicron
-<img src="images/omicron.png" alt="Omicron" style="zoom:50%;" />
+![](images/omicron.png){ width=1.3cm }
 
 ## Pi 
-<img src="images/pi.png" alt="Pi" style="zoom:50%;" />
+![](images/pi.png){ width=1.3cm }
 
 ## Ro
-<img src="images/rho.png" alt="Ro" style="zoom:50%;" />
+![](images/rho.png){ width=1.3cm }
 
 ## Sigma
-<img src="images/sigma.png" alt="Sigma" style="zoom:50%;" />
+![](images/sigma.png){ width=1.3cm }
 
 ## Tau
-<img src="images/tau.png" alt="Tau" style="zoom:50%;" />
+![](images/tau.png){ width=1.3cm }
 
 ## Upsilon
-<img src="images/upsilon.png" alt="Upsilon" style="zoom:50%;" />
+![](images/upsilon.png){ width=1.3cm }
 
 ## Fi 
-<img src="images/phi.png" alt="Fi" style="zoom:50%;" /> 
+![](images/phi.png){ width=1.3cm }
 
 ## Qui
-<img src="images/chi.png" alt="Qui" style="zoom:50%;" />
+![](images/chi.png){ width=1.3cm }
 
 ## Psi
-<img src="images/psi.png" alt="Psi" style="zoom:50%;" />
+![](images/psi.png){ width=1.3cm }
 
 ## Omega
-<img src="images/omega.png" alt="Omega" style="zoom:50%;" />
+![](images/omega.png){ width=1.3cm }
 
-## ¡¡Κανοσκαμος λας Λετρας!!
-
-<img src="images/alfabeto.png" alt="alfabeto" style="zoom:50%;" />
+![](images/alfabeto.png)
 
 ## Práctica Breve
 
@@ -602,413 +672,776 @@ Escribe lo que observas.
 ###### Completa esta oración:
 
 - Strong apunta al \_\_\_\_\_\_.
+
 - La forma específica muestra la \_\_\_\_\_\_ en la oración.
 
 # MORFOLOGÍA
 
-## ¿Qué es Morfología - y Cómo Leer RMAC sin Pánico?
+## 1. Qué estás viendo realmente
 
-##### 1. Una Palabra Que Asusta
+  Cuando ves algo como:
 
-###### Cuando un estudiante abre una herramienta bíblica y ve algo como: **λόγος** (N-NSM), **λέγει** (V-PAI-3S). 
+  - λόγος (N-NSM)
+  - λέγει (V-PAI-3S)
 
-###### La reacción común es: “Esto es demasiado técnico.” Pero en realidad, estás viendo información comprimida.
+###### No estás viendo algo complicado.
 
-###### RMAC es simplemente un sistema de abreviaturas. Nada más.
+###### Estás viendo información resumida.
 
-- No es un <u>código</u> secreto.
-- No es gramática <u>avanzada</u>.
-- Es <u>información</u> organizada.
+------
 
-##### 2. ¿Qué Es Morfología?
+## 2. Qué significa “morfología”
 
-###### Morfología significa: La forma que una palabra adopta para cumplir su función en una oración.
+###### Morfología es simplemente:
 
-###### En español también ocurre: niño, niños, niña, niñas. La forma cambia según número y género. En griego ocurre lo mismo, pero de manera más visible.
+  - la forma que tiene una palabra en ese momento
 
-###### La morfología responde a preguntas como:
+------
 
-- ¿Es singular o <u>plural</u>?
-- ¿Es sujeto u objeto?
-- ¿Es <u>verbo</u> o sustantivo?
-- ¿Es presente o <u>pasado</u>?
+## 3. Traducción simple
 
-###### RMAC simplemente codifica esa información.
+###### Morfología responde a:
 
-##### 3. Cómo Leer RMAC Para Sustantivos
+  - ¿qué forma tiene esta palabra aquí?
 
-###### Ejemplo: λόγος — **N**-NSM
-- (N-NSM) se divide así:
-- N = Sustantivo - esta primera letra es la más importante. Determina que parte gramatical es. (sustantivo, verbo, adverbio, adjetivo, cunjunción, artículo)
-- N = Nominativo (caso)
-- S = Singular (persona)
-- M = Masculino (género)
+------
 
-###### Eso es <u>todo</u>. No necesitas declinar. No necesitas memorizar tablas. Solo necesitas <u>saber</u> leer.
+## 4. Qué está haciendo la herramienta
 
-###### Otro ejemplo: λόγον — (N-ASM)
+###### La herramienta te está mostrando:
 
-- (N-ASM) se divide así:
-- N = Sustantivo
-- A = Acusativo
-- S = Singular
-- M = Masculino
+- información sobre la forma de la palabra
 
-###### El lema (λόγος) es el mismo. La <u>función</u> (λόγον) cambió. Eso es morfología.
+------
 
-##### 4. Cómo Leer RMAC Para Verbos
+## 5. Cómo leerlo
 
-###### Ejemplo: λέγει — (**V**-PAI-3S)
+### Ejemplo:
 
-###### (V-PAI-3S) se divide así:
+λόγος → N-NSM
 
-- V = Verbo 
-- P = Presente (tiempo)
-- A = Activo (voz)
-- I = Indicativo (modo)
-- 3S = Tercera persona singular (persona)
+###### Léelo así:
 
-###### Eso significa: “Él/ella dice.” Nada más. No es más <u>profundo</u> que eso.
+- sustantivo
+- nominativo
+- singular
+- masculino
 
-##### 5. Lo Que RMAC **No** Hace: 
+- No memorices
+ - solo reconoce
 
-- Interpreta teológicamente. 
-- Explica intención del autor. 
-- Determina significado final.
+------
 
-###### Solo describe la <u>forma</u>.
+## 6. Otro ejemplo
 
-###### La morfología informa.
+λόγον → N-ASM
 
-###### El contexto interpreta.
+###### Mismo lema
 
-##### 6. Lo Que Sí Necesitas Saber (Y Nada Más)
+###### distinta forma
 
-###### Para CGV estudiantes, necesitas dominar <u>solo</u> esto:
+- eso es todo
 
-###### Para sustantivos:
+------
 
-- Caso
-- Número
-- Género
+## 7. Ejemplo con verbo
 
-###### Para verbos:
+  λέγει → V-PAI-3S
 
-- Tiempo
-- Voz
-- Modo
-- Persona
-- Número
+###### Léelo así:
 
-###### No necesitas memorizar <u>todas</u> las formas. Solo necesitas entender qué está indicando el código.
+  - V → verbo
+  - P → presente
+  - A → activo
+  - I → indicativo
+  - 3S → tercera persona singular
 
-##### 7. Error Común Con Morfología
+  - “él/ella dice”
 
-###### Algunos estudiantes hacen esto: “Es aoristo, entonces significa…” No. El tiempo verbal describe aspecto o tipo de acción. No crea doctrina por sí mismo.
+------
 
-###### La morfología aporta <u>datos</u>. No crea conclusiones aisladas. Si entiendes esto, evitarás muchos abusos.
+## 8. Lo importante
 
-## Práctica Breve
+###### No necesitas memorizar códigos.
 
-##### 1. Decodificación <u>Simple</u>
+###### Solo reconócelos cuando los veas.
 
-###### Busca en Juan 1:1 el verbo ἦν. Observa el <u>código</u> RMAC.
+------
 
-###### Responde:
+## 9. Lo que la morfología NO hace
 
-- ¿En qué voz está?
-- ¿Qué <u>tiempo</u> indica?
-- ¿Qué persona y número <u>indica</u>?
+###### La morfología:
 
-###### No necesitas interpretar <u>todavía</u>. Solo decodifica.
+  - no interpreta
+  - no crea significado
+  - no explica el pasaje
 
-##### 2. Sustantivo
+  - solo describe la forma
 
-###### Encuentra la palabra Θεὸς en <u>Juan</u> 1:1.
+------
 
-- ¿Qué <u>código</u> RMAC aparece?
-- ¿Está en nominativo o acusativo?
-- ¿Es singular o <u>plural</u>?
-- ¿Que persona?
+## 10. Principio clave
 
-##### 3. Reflexión Técnica
+###### La morfología te da información
 
-###### Completa:
+###### El contexto te da significado
 
-- La morfología me <u>dice</u> \_\_\_\___.
-  El <u>contexto</u> me dice \______\_\_\.
+------
 
-###### Hasta  aquí hemos establecido:
+## 11. Error común
 
-- Strong = índice
-- Lema = <u>forma</u> base
-- Morfología = función estructural
+###### “Está en aoristo, entonces significa…”
+
+###### No.
+
+###### El código describe
+
+###### no concluye
+
+------
+
+## 12. Qué debes aprender
+
+###### Solo esto:
+
+  - reconocer letras básicas
+  - identificar el tipo de palabra
+  - ver el caso o tiempo
+
+------
+
+## 13. Frase de claridad
+
+###### La morfología me dice cómo está la palabra
+
+###### no me dice qué significa el pasaje
 
 # VERBOS
 
-## Lo mínimo que Necesitas Entender 
+## 1. Qué estás viendo
 
-##### 1. ¿Por Qué Los <u>Verbos</u> Son Importantes?
+  Cuando ves algo como:
 
-###### En una oración, el <u>verbo</u> es el corazón.
+  - λέγει (V-PAI-3S)
+  - ἦν (V-IAI-3S)
 
-###### Describe: <u>Acción</u>, Estado, Existencia
+###### No estás viendo algo complejo.
 
-###### Cuando una herramienta muestra un verbo con código RMAC, está indicando detalles <u>sobre</u> esa acción.
+###### Estás viendo información sobre una acción.
 
-###### Pero debemos recordar:
+------
 
-- La morfología <u>describe</u>.
-- El <u>contexto</u> interpreta.
+## 2. Qué es un verbo (en este curso)
 
-##### 2. Los Cinco Tiempos Que Verás Con Mayor Frecuencia
+###### Un verbo muestra:
 
-###### En el <u>Nuevo</u> Testamento encontrarás principalmente estos tiempos:
+  - lo que está ocurriendo
 
-- Presente (P)
-- Imperfecto (I)
-- <u>Futuro</u> (F)
-- Aoristo (A)
-- Perfecto (R)
+------
 
-###### No necesitas memorizar conjugaciones. <u>Solo</u> necesitas entender qué indican a nivel <u>básico</u>.
+## 3. Qué está haciendo la herramienta
 
-##### 3. Presente (P)
+###### La herramienta te está diciendo:
 
-###### Ejemplo: V-**P**AI-3S
+  - cómo se presenta la acción
+  - quién la realiza
+  - en qué forma aparece
 
-###### El presente generalmente <u>indica</u>:
+------
 
-- Acción en <u>curso</u>
-- Acción habitual
-- <u>Estado</u> actual
+## 4. Cómo leerlo (sin complicarte)
 
-###### Pero el contexto decide si es continuo o puntual. El código solo indica que es presente. No dice cuánto dura la <u>acción</u>.
+### Ejemplo:
 
-##### 4. Imperfecto (I)
+  λέγει → V-PAI-3S
 
-###### Ejemplo: V-IAI-3S
+###### Léelo así:
 
-###### Indica <u>acción</u> pasada en desarrollo. Describe algo que estaba ocurriendo.
+  - V → verbo
+  - P → presente
+  - A → activo
+  - I → indicativo
+  - 3S → tercera persona singular
 
-###### Pero nuevamente:
+  - “él/ella dice”
 
-- No <u>crea</u> teología.
-- Solo describe <u>forma</u>.
+------
 
-##### 5. Futuro (F)
+## 5. Otro ejemplo
 
-###### Ejemplo: V-FAI-3S
+  ἦν → V-IAI-3S
 
-###### Indica <u>acción</u> que ocurrirá.
+###### Léelo así:
 
-###### Eso es todo. El contexto determina si es promesa, advertencia o simple predicción.
+  - V → verbo
+  - I → imperfecto
+  - A → activo
+  - I → indicativo
+  - 3S → tercera persona singular
 
-##### 6. Aoristo (A)
+  - “era / estaba”
 
-###### Ejemplo: V-AAI-3S
+------
 
-###### Este es el <u>tiempo</u> más malinterpretado. El aoristo generalmente presenta la acción como un todo.
+## 6. Lo importante
 
-- No comenta <u>sobre</u> duración.
-- No necesariamente <u>indica</u> “una vez para siempre.”
-- No implica automáticamente finalización permanente.
+###### No necesitas memorizar conjugaciones.
 
-###### El aoristo describe la acción como completa desde el punto de vista del narrador. Nada más. <u>Evita</u> exageraciones.
+###### Solo necesitas reconocer:
 
-##### 7. Perfecto (R)
+  - qué te está indicando el código
 
-###### Ejemplo: V-RAI-3S
+------
 
-###### Indica una <u>acción</u> completada con resultados que continúan.
+## 7. Qué te está indicando el código
 
-###### Pero nuevamente:
+###### Solo esto:
 
-- El contexto <u>define</u> el alcance de esos resultados.
+- quién hace la acción
+- cómo aparece
 
-- No debemos construir doctrinas <u>basadas</u> solo en el tiempo verbal.
+- no más
 
-##### 8. Recordatorio Fundamental
+------
 
-###### Cuando veas un <u>código</u> como: V-AAI-3S
+## 8. Lo que NO debes hacer
 
-###### Eso significa:
+###### No hagas esto:
 
-- Verbo
-- Aoristo
-- Activo
-- Indicativo
-- Tercera persona singular
+  - “Está en presente, entonces significa…”
+  - “Está en aoristo, entonces implica…”
 
-###### Eso es información estructural. No es una conclusión interpretativa.
+  - Eso es ir más allá de lo que el código dice
 
-##### 9. Un Principio De Seguridad
+------
 
-###### Nunca <u>digas</u>: “Como está en aoristo, entonces significa…”
+## 9. Principio clave
 
-###### Di mejor: “El verbo está en aoristo, lo cual describe la acción como un todo; ahora debemos considerar el contexto.”
+###### El verbo describe la acción
 
-###### Eso es uso responsable, disciplinado.
+###### El código describe la forma
 
-## Práctica Breve
+###### El contexto explica el significado
 
-##### 1. Decodificación Real
+------
 
-###### Busca en Romanos 5:1 el verbo “hemos sido justificados.”
+## 10. Qué necesitas aprender
 
-- ¿Qué tiempo verbal indica el RMAC?
-- ¿Es activo, medio o pasivo?
-- ¿Qué modo <u>indica</u>?
+###### Solo esto:
 
-###### No interpretes todavía. Solo identifica.
+  - identificar que es un verbo
+  - reconocer el código básico
+  - entender quién hace la acción
 
-##### 2. Comparación
+------
 
-###### Busca un verbo en tiempo presente en el mismo capítulo.
+## 11. Error común
 
-- ¿Qué código aparece?
-- ¿Qué diferencia básica hay entre ese código y el anterior?
+###### Usar el tiempo verbal para construir ideas completas
 
-##### 3. Frase de Disciplina
+###### No.
 
-###### Completa:
+###### El tiempo informa
 
-- El <u>tiempo</u> verbal me informa sobre ______.
-- Pero no determina automáticamente ______.
+###### no concluye
+
+------
+
+## 12. Frase de claridad
+
+###### El verbo me muestra la acción
+
+###### el código me muestra cómo aparece
+
+###### el contexto me dice qué significa
+
+# CONDICIONALES (εἰ / ἐάν)
+
+## 1. Qué estás viendo
+
+Cuando ves palabras como:
+
+• εἰ
+ • ἐάν
+
+Estás viendo una condición
+
+------
+
+## 2. Qué es una condición
+
+Una condición presenta esto:
+
+fi si algo ocurre
+ fi entonces algo sucede
+
+Siempre hay dos partes:
+
+• condición
+ • resultado
+
+------
+
+## 3. Cómo se ve en una herramienta
+
+Ejemplo:
+
+ἐὰν λέγωμεν → ψευδόμεθα
+
+Léelo así:
+
+• ἐὰν → si
+ • λέγωμεν → decimos
+ • ψευδόμεθα → mentimos
+
+fi condición → “si decimos”
+ fi resultado → “mentimos”
+
+------
+
+## 4. Lo que debes hacer
+
+Cuando lo veas:
+
+• identifica εἰ o ἐάν
+ • marca dónde termina esa cláusula
+ • busca qué ocurre después
+
+------
+
+## 5. Lo importante
+
+No necesitas clasificar tipos.
+
+Solo necesitas ver:
+
+fi qué depende de qué
+
+------
+
+## 6. Conexión con lo que ya aprendiste
+
+Ya sabes:
+
+• identificar verbos
+ • leer códigos
+ • reconocer palabras
+
+Ahora añade esto:
+
+fi ver relaciones entre acciones
+
+------
+
+## 7. Advertencia
+
+No hagas esto:
+
+• “ἐάν implica…”
+ • “esto es una condición de tipo…”
+
+fi eso es ir más allá del texto
+
+------
+
+## 8. Frase clave
+
+La condición muestra dependencia
+ no interpretación
 
 # LOS CASOS GRIEGOS
 
-## Información, no Especulación
+## 1. Qué es un caso
 
-##### 1. ¿Qué Es Un Caso?
+###### Un caso es:
 
-###### En griego, los sustantivos cambian de forma según su función en la oración. Ese cambio de forma se llama caso.
+  - la forma que indica qué está haciendo un sustantivo en la oración
 
-###### En español usamos principalmente el orden de palabras para indicar función. En griego, la forma <u>misma</u> de la palabra indica su función.
+------
 
-###### Eso es lo que RMAC te muestra cuando ves:
+## 2. El problema (por qué esto existe)
 
-- N-**N**SM
-- N-**A**SM
-- N-**G**SM
+###### En español usamos:
 
-###### El segundo código (N, A, G, D, V) indica el caso. 
+  - el orden
+  - las preposiciones
 
-[Mirar Video](https://www.youtube.com/watch?v=24a4v2Qd-cg)
+  Para saber quién hace qué.
 
-##### 2. Los Cinco Casos Que Verás
+------
 
-###### En el Nuevo Testamento aparecen cinco casos principales:
+## 3. Ejemplo
 
-- Nominativo (N)
-- Genitivo (G)
-- Dativo (D)
-- Acusativo (A)
-- Vocativo (V)
+  “El hijo de la señora lleva las flores a los abuelos”
 
-###### No necesitas dominar categorías avanzadas. Solo necesitas reconocer su función básica.
+  - hijo → hace la acción
+  - flores → recibe la acción
+  - abuelos → reciben indirectamente
+  - señora → relación (“de”)
 
-##### 3. **Nominativo** (N)
+------
 
-###### Generalmente indica el sujeto de la oración.
+## 4. En griego no es así
 
-###### Ejemplo: **ὁ λόγος** ἦν πρὸς τὸν θεόν
+###### En griego:
 
-###### “ὁ λόγος” es nominativo.
+  - la palabra cambia de forma para mostrar su función
 
-###### Eso indica que es el sujeto del <u>verbo</u>. Nada más.
+------
 
-##### 4. **Acusativo** (A)
+## 5. Eso es un caso
 
-###### Generalmente indica el objeto directo. 
+- la forma que muestra el papel de la palabra
 
-###### Responde a la pregunta: ¿A quién? ¿Qué cosa?
+------
 
-###### Ejemplo: βλέπει τὸν ἄνθρωπον
+## 6. Lo único que necesitas
 
-###### “El hombre” está en acusativo. Es el objeto de la acción.
+- nominativo → sujeto
+- acusativo → objeto
+- genitivo → relación
+- dativo → indirecto
 
-##### 5. **Genitivo** (G)
+- suficiente
 
-###### Generalmente indica relación o pertenencia. Muchas veces se traduce <u>como</u> “**de**”.
+------
 
-###### Ejemplo: λόγος θεοῦ
+## 7. Conexión con RMAC
 
-###### “Palabra de Dios.”
+  Cuando ves:
 
-###### Pero aquí debemos tener cuidado:
+  - N-NSM
+  - N-GSM
+  - N-DSM
+  - N-ASM
 
-- El genitivo indica relación.
-- El contexto define el tipo de relación.
+###### La segunda letra es el caso:
 
-###### No debemos forzar categorías avanzadas automáticamente.
+  - N = nominativo
+  - G = genitivo
+  - D = dativo
+  - A = acusativo
 
-##### 6. **Dativo** (D)
+------
 
-###### Generalmente indica: Objeto indirecto
+## 8. Lo que el caso NO hace
 
-- Ubicación
-- Medio
+###### El caso:
 
-###### Pero nuevamente:
+  - no define el significado
+  - no crea interpretación
 
-- La forma informa función básica.
-- El contexto determina precisión.
+  - solo indica función
 
-##### 7. **Vocativo** (V)
+------
 
-###### Se usa cuando alguien está <u>siendo</u> llamado o dirigido directamente.
+## 9. Ejemplo rápido
 
-###### Es el menos frecuente.
+  λόγος → N-NSM → sujeto
 
-##### 8. Principio De Seguridad
+  λόγον → N-ASM → objeto directo
 
-###### Cuando veas un código como: N-GSM
+###### Mismo lema
 
-###### Eso significa:
+###### diferente función
 
-- Sustantivo
-- Genitivo
-- Singular
-- Masculino
+------
 
-###### Eso es información estructural. No significa automáticamente “Este es un genitivo subjetivo” o “Este es un genitivo partitivo”. 
+## 10. Diferencia clave con español
 
-###### Esas categorías requieren análisis contextual. RMAC solo describe la <u>forma</u>.
+###### Español:
 
-##### 9. Error Común
+  “El orden define la función”
 
-###### Algunos estudiantes hacen esto: “Está en genitivo, entonces significa exactamente…” No. El caso limita posibilidades. No define el significado completo.
+###### Griego:
 
-###### Siempre debemos regresar al contexto.
+  - “La forma define la función”
 
-## Práctica Breve
+------
 
-##### 1. Identificación
+## 11. Error común
 
-###### Busca en Juan 1:1 las dos ocurrencias de Θεός.
+###### “Está en genitivo, entonces significa…”
 
-- ¿Están en el mismo <u>caso</u>?
-- ¿El código RMAC es idéntico?
-- ¿Qué indica el caso en cada una?
+###### No.
 
-##### 2. Observación Comparativa
+###### El caso limita opciones
 
-###### Busca un sustantivo en genitivo en Romanos 8.
+###### pero no define todo el significado
 
-- ¿Qué código aparece?
-- ¿Puedes reconocer que es <u>genitivo</u>?
+------
 
-###### Sin interpretar, ¿qué tipo de relación básica podría indicar?
+## 12. Frase de claridad
 
-##### 3. Disciplina Técnica
+###### El caso me dice qué está haciendo la palabra
 
-###### Completa:
+###### El contexto me dice qué significa
 
-- El caso me ayuda a identificar ______.
-- Pero no determina automáticamente ______.
+# MISMA PALABRA — DIFERENTE FUNCIÓN
+
+## 1. Lo que estás viendo
+
+Cuando usas una herramienta bíblica, verás formas como:
+
+- λόγος
+- λόγου
+- λόγον
+- λόγοι
+
+###### A primera vista parecen palabras diferentes.
+
+###### Pero no lo son.
+
+------
+
+## 2. Es la misma palabra
+
+###### Todas vienen del mismo lema:
+
+λόγος
+
+###### El número Strong será el mismo.
+
+###### Lo que cambia es la forma.
+
+------
+
+## 3. Mira esto con atención
+
+- λογ**ος**
+- λογ**ου**
+- λογ**ον**
+
+###### ¿Qué se mantiene? → λογ
+
+###### ¿Qué cambia? → el final
+
+------
+
+## 4. Qué significa ese cambio
+
+###### El significado básico no cambia.
+
+###### Lo que cambia es la función en la oración.
+
+------
+
+## 5. Ejemplo sencillo
+
+“El hijo lleva las flores”
+
+- hijo → hace la acción
+- flores → recibe la acción
+
+###### En español entendemos esto por el orden.
+
+------
+
+## 6. En griego es diferente
+
+###### En griego:
+
+- la palabra misma indica su función
+
+###### No depende principalmente del orden.
+
+------
+
+## 7. Entonces
+
+λόγος
+ λόγον
+
+###### misma palabra
+
+###### diferente función
+
+------
+
+## 8. Ahora conecta esto con RMAC
+
+Cuando ves:
+
+- λόγος → N-NSM
+- λόγον → N-ASM
+
+###### No estás viendo palabras distintas.
+
+###### Estás viendo:
+
+- mismo lema
+- diferente función
+
+------
+
+## 9. Qué necesitas recordar
+
+###### Solo esto:
+
+- La raíz se mantiene
+- El final cambia
+- El final indica función
+
+------
+
+## 10. Nombre técnico (solo para reconocerlo)
+
+###### A este patrón se le llama:
+
+“segunda declinación”
+
+###### Pero no necesitas memorizar el término.
+
+###### Solo necesitas reconocer el patrón.
+
+------
+
+## 11. Error común
+
+###### “λόγον significa otra cosa”
+
+###### No.
+
+###### Es la misma palabra
+
+###### en otra función
+
+------
+
+## 12. Frase de claridad
+
+###### El lema me dice qué palabra es
+
+###### La forma me dice qué está haciendo
+
+# CÓMO LEER LO QUE ESTÁS VIENDO
+
+## 1. Todo se reduce a tres cosas
+
+Cuando ves una palabra en griego, siempre estás viendo:
+
+- el lema
+- la forma
+- la información (RMAC)
+
+------
+
+## 2. Lema
+
+###### El lema responde a:
+
+- ¿qué palabra es?
+
+###### Ejemplo:
+
+λόγος
+
+###### Es la forma base.
+
+###### Es lo que ves en Strong o en el léxico.
+
+------
+
+## 3. Forma
+
+###### La forma responde a:
+
+- ¿cómo está usada aquí?
+
+###### Ejemplo:
+
+- λόγος
+- λόγον
+- λόγου
+
+###### Es la misma palabra
+
+###### pero en funciones diferentes
+
+------
+
+## 4. RMAC
+
+###### RMAC responde a:
+
+- ¿qué me está indicando esa forma?
+
+###### Ejemplo:
+
+λόγον → N-ASM
+
+- N → sustantivo
+- A → acusativo
+- S → singular
+- M → masculino
+
+------
+
+## 5. Ponlo todo junto
+
+Cuando ves:
+
+λόγον (N-ASM)
+
+###### Estás viendo:
+
+- lema → λόγος
+- forma → λόγον
+- función → objeto directo
+
+------
+
+## 6. Traducción mental correcta
+
+❌ “λόγον significa otra cosa”
+
+“λόγον es λόγος funcionando como objeto”
+
+------
+
+## 7. Modelo completo
+
+###### Siempre piensa así:
+
+- lema → identidad
+- forma → cambio visible
+- caso → función
+
+------
+
+## 8. Lo que debes evitar
+
+###### No hagas esto:
+
+- definir por Strong solamente
+- interpretar solo por el caso
+- asumir que cada forma es otra palabra
+
+------
+
+## 9. Principio clave
+
+###### La forma cambia
+
+###### La palabra sigue siendo la misma
+
+------
+
+## 10. Frase final
+
+###### El lema me dice qué palabra es
+
+###### La forma me dice qué está haciendo
+
+###### El contexto me dice qué significa
 
 # LÉXICOS
+
+## IDEA CLAVE
+
+###### El léxico no decide significado
+
+- solo muestra opciones
 
 ## Cómo Leer un Léxico sin Exagerar Definiciones
 
@@ -1043,11 +1476,11 @@ El contexto decide cuál posibilidad <u>aplica</u>.
 
 ###### Una palabra puede tener:
 
-- Sentido literal
+- <u>Sentido</u> literal
 - Sentido figurado
-- Uso técnico
+- Uso <u>técnico</u>
 - Uso común
-- Uso raro
+- Uso <u>raro</u>
 
 ###### El léxico presenta un rango. No una sola definición.
 
@@ -1056,52 +1489,52 @@ El contexto decide cuál posibilidad <u>aplica</u>.
 ###### En español tampoco ocurre así. La palabra “cabeza” puede significar:
 
 - Parte del cuerpo
-- Líder
+- <u>Líder</u>
 - Parte superior
-- Inicio de algo
+- <u>Inicio</u> de algo
 
 ###### El contexto determina el significado. En <u>griego</u> ocurre exactamente lo mismo. 
 
-###### Por eso es peligroso afirmar: “Esta palabra significa exactamente…”
+###### Por eso es peligroso <u>afirmar</u>: “Esta palabra significa exactamente…”
 
 ###### Las palabras tienen un <u>campo</u> semántico. El contexto selecciona el sentido.
 
 ##### 4. Cómo Leer Un Léxico Correctamente
 
-###### Cuando consultes un léxico: Identifica el lema correcto.
+###### Cuando consultes un léxico: Identifica el <u>lema</u> correcto.
 
 ###### Lee <u>todas</u> las opciones de significado.
 
-- Observa ejemplos si los hay.
+- Observa ejemplos si los <u>hay</u>.
 - Regresa al versículo.
-- Pregunta: ¿Cuál encaja naturalmente aquí?
+- Pregunta: ¿Cuál <u>encaja</u> naturalmente aquí?
 
-###### No fuerces una definición.
+###### No <u>fuerces</u> una definición.
 
-###### Deja que el contexto guíe.
+###### <u>Deja</u> que el contexto guíe.
 
-##### 5. Lo Que Un Léxico No Hace
+##### 5. Lo Que Un Léxico No <u>Hace</u>
 
-###### Un léxico no te dice la intención del autor. 
+###### Un léxico no te dice la intención del <u>autor</u>. 
 
-- Te dice el énfasis retórico.
+- Te <u>dice</u> el énfasis retórico.
 - Te dice cómo <u>aplicar</u> el texto.
-- Te autoriza a crear una nueva interpretación.
+- Te autoriza a <u>crear</u> una nueva interpretación.
 
-###### Solo te muestra cómo esa palabra ha sido usada. Eso es todo.
+###### Solo te muestra cómo esa palabra ha sido <u>usada</u>. Eso es todo.
 
 ##### 6. Una Advertencia Importante
 
-###### Nunca combines todas las definiciones posibles en un solo versículo. Eso se llama “transferencia ilegítima de significado total”.
+###### Nunca combines todas las definiciones posibles en un solo versículo. Eso se llama “transferencia ilegítima de significado <u>total</u>”.
 
 ###### Ejemplo incorrecto: “Esta palabra puede significar A, B y C, entonces aquí significa A+B+C al mismo <u>tiempo</u>.” No. El contexto selecciona uno.
 
 ##### 7. Principio Fundamental
 
-- El lema te da identidad.
-- La morfología te da función.
-- El léxico te da posibilidades.
-- El contexto decide significado.
+- El <u>lema</u> te da identidad.
+- La morfología te da <u>función</u>.
+- El léxico te <u>da</u> posibilidades.
+- El contexto <u>decide</u> significado.
 
 ###### Si mantienes este orden, evitarás la mayoría de los errores comunes.
 
@@ -1109,12 +1542,12 @@ El contexto decide cuál posibilidad <u>aplica</u>.
 
 ##### 1. Observación Real
 
-###### Busca la palabra “mundo” en Juan 3:16. 
+###### <u>Busca</u> la palabra “mundo” en Juan 3:16. 
 
 - Identifica el <u>lema</u>.
 - Abre un léxico.
-- ¿Cuántas posibles definiciones aparecen?
-- ¿Todas aplican al versículo?
+- ¿<u>Cuántas</u> posibles definiciones aparecen?
+- ¿Todas <u>aplican</u> al versículo?
 
 ###### No concluyas todavía. Solo observa el <u>rango</u>.
 
@@ -1122,24 +1555,28 @@ El contexto decide cuál posibilidad <u>aplica</u>.
 
 ###### Encuentra una palabra común como “vida” o “amor”.
 
-- ¿Tiene múltiples sentidos en el léxico?
-- ¿Podrías aplicar todas simultáneamente?
-- ¿Qué te impide hacerlo?
+- ¿Tiene múltiples sentidos en el <u>léxico</u>?
+- ¿Podrías <u>aplicar</u> todas simultáneamente?
+- ¿Qué te impide <u>hacerlo</u>?
 
-##### 3. Frase De Disciplina
+##### 3. <u>Frase</u> De Disciplina
 
 ###### Completa:
 
 - Un léxico me muestra ______.
 - <u>Pero</u> el contexto determina ______.
 
-# ERRORES COmUNES
+# ERRORES COMUNES
 
 ## Errores Comunes en Estudios de Palabras (y por qué debes evitarlos)
 
-###### Este capítulo es intencionalmente directo. El griego no es un juguete. No es una herramienta para impresionar. No es un recurso para ganar discusiones.
+No necesitas dominar <u>todo</u> esto ahora.
 
-###### Es información lingüística. Si se usa mal, produce interpretaciones débiles.
+- Solo <u>seguir</u> el proceso.
+
+###### Este capítulo es intencionalmente directo. El <u>griego</u> no es un juguete. No es una herramienta para impresionar. No es un recurso para ganar discusiones.
+
+###### Es información lingüística. Si se usa <u>mal</u>, produce interpretaciones débiles.
 
 ##### Aquí están los errores más <u>comunes</u>.
 
@@ -1147,11 +1584,11 @@ El contexto decide cuál posibilidad <u>aplica</u>.
 
 ###### Error. Ninguna palabra en ningún idioma significa exactamente lo mismo en todos los contextos.
 
-###### Si alguien afirma: “Esta palabra siempre significa…”
+###### Si alguien <u>afirma</u>: “Esta palabra siempre significa…”
 
-###### Desconfía inmediatamente.
+###### <u>Desconfía</u> inmediatamente.
 
-###### Las palabras funcionan dentro de frases. Las frases funcionan dentro de párrafos. Los párrafos funcionan dentro de argumentos.
+###### Las palabras funcionan dentro de frases. Las <u>frases</u> funcionan dentro de párrafos. Los párrafos funcionan <u>dentro</u> de argumentos.
 
 ###### El contexto <u>controla</u> el significado. No el diccionario.
 
@@ -1159,26 +1596,26 @@ El contexto decide cuál posibilidad <u>aplica</u>.
 
 ###### Este error ocurre cuando alguien: 
 
-- Busca una palabra.
-- Encuentra tres o cuatro posibles definiciones.
+- <u>Busca</u> una palabra.
+- Encuentra <u>tres</u> o cuatro posibles definiciones.
 - Las combina todas en un solo <u>versículo</u>.
 
-###### Ejemplo típico: “Esta palabra puede significar A, B y C, entonces aquí significa A+B+C al mismo tiempo.” No. El contexto selecciona una opción. No todas.
+###### Ejemplo típico: “Esta palabra puede significar A, B y C, entonces aquí significa A+B+C al mismo tiempo.” No. El <u>contexto</u> selecciona una opción. No todas.
 
 ###### Si aplicas todas, distorsionas el texto.
 
 ###### 3. **La Falacia de Raíz**
 
-###### Algunos estudiantes creen que pueden descubrir el “verdadero significado” dividiendo una palabra en partes.
+###### Algunos estudiantes creen que pueden descubrir el “verdadero significado” dividiendo una palabra en <u>partes</u>.
 
 ###### Ejemplo: “Esta palabra viene de esta raíz, por lo tanto significa…”
 
-###### Eso no es cómo funcionan los idiomas.
+###### Eso no es <u>cómo</u> funcionan los idiomas.
 
 ###### En español:
 
 - “Compromiso” no significa literalmente “con promesa.”
-- “Entusiasmo” no significa literalmente “tener un dios dentro.”
+- “Entusiasmo” no significa literalmente “ <u>tener</u> un dios dentro.”
 
 ###### La etimología no determina el significado <u>actual</u>. 
 
@@ -1193,12 +1630,12 @@ El contexto decide cuál posibilidad <u>aplica</u>.
 
 ###### No.
 
-###### El tiempo verbal describe forma. No crea teología por sí solo.
+###### El <u>tiempo</u> verbal describe forma. No crea teología por sí solo.
 
 ###### La doctrina se construye desde:
 
 - Argumento completo
-- Contexto amplio
+- Contexto <u>amplio</u>
 - Desarrollo del <u>autor</u>
 
 ###### No desde un solo código RMAC.
@@ -1223,9 +1660,9 @@ El contexto decide cuál posibilidad <u>aplica</u>.
 
 ###### Interpretación:
 
-- Lo que el autor quiso comunicar
-- Cómo funciona en el argumento
-- Cómo se conecta con el contexto
+- Lo que el <u>autor</u> quiso comunicar
+- <u>Cómo</u> funciona en el argumento
+- Cómo se <u>conecta</u> con el contexto
 
 ###### No confundas los dos <u>niveles</u>.
 
@@ -1233,57 +1670,57 @@ El contexto decide cuál posibilidad <u>aplica</u>.
 
 ###### Antes de afirmar algo basado en el griego, pregúntate:
 
-- ¿Estoy usando el lema correctamente?
-- ¿Estoy considerando la forma específica?
-- ¿Estoy leyendo el contexto?
-- ¿Estoy exagerando una posibilidad léxica?
+- ¿Estoy <u>usando</u> el lema correctamente?
+- ¿Estoy considerando la <u>forma</u> específica?
+- ¿Estoy <u>leyendo</u> el contexto?
+- ¿Estoy exagerando una posibilidad <u>léxica</u>?
 - ¿Estoy usando el <u>tiempo</u> verbal como prueba doctrinal aislada?
 
 ###### Si no puedes responder con claridad, <u>detente</u>.
 
 ## Práctica Breve
 
-##### 1. Evaluación Crítica
+##### 1. Evaluación <u>Crítica</u>
 
-###### Busca un sermón o comentario en línea donde alguien diga: “En el griego original…”
+###### Busca un sermón o comentario en <u>línea</u> donde alguien diga: “En el griego original…”
 
 ###### Analiza:
 
-- ¿Está usando Strong solamente?
-- ¿Está considerando el contexto?
+- ¿Está usando <u>Strong</u> solamente?
+- ¿Está considerando el <u>contexto</u>?
 - ¿Está exagerando un <u>tiempo</u> verbal?
-- ¿Está combinando múltiples definiciones?
+- ¿<u>Está</u> combinando múltiples definiciones?
 
-###### Escribe una evaluación breve.
+###### Escribe una evaluación <u>breve</u>.
 
-##### 2. Disciplina Personal
+##### 2. Disciplina <u>Personal</u>
 
 ###### Completa:
 
 - El griego no es un atajo para ______.
-- El <u>griego</u> es una herramienta para ______.
+- El griego es una herramienta para ______.
 
 ##### 3. Compromiso
 
-###### Escribe esta frase y complétala:
+###### Escribe esta <u>frase</u> y complétala:
 
-- <u>Usaré</u> el griego con ______ y ______.
+- Usaré el griego con ______ y ______.
 
 # TALLER PrÁctico
 
 ## Taller Práctico: 1 Juan 1:5–10
 
-##### 1. Propósito Del Taller
+##### 1. Propósito Del <u>Taller</u>
 
-###### Este ejercicio no busca:
+###### <u>Este</u> ejercicio no busca:
 
-- Traducir el texto completo
+- Traducir el <u>texto</u> completo
 
-- Hacer análisis avanzado
+- <u>Hacer</u> análisis avanzado
 
-- Crear nuevas interpretaciones
+- Crear <u>nuevas</u> interpretaciones
 
-###### Busca integrar lo que ya aprendiste: Strong, Lema, Morfología, Verbos, Casos, Léxico, Disciplina. 
+###### Busca integrar lo que ya aprendiste: <u>Strong</u>, Lema, Morfología, Verbos, Casos, Léxico, Disciplina. 
 
 ###### El objetivo es <u>observar</u> con precisión.
 
@@ -1380,23 +1817,175 @@ El contexto decide cuál posibilidad <u>aplica</u>.
 
 # Conclusión Del Manual
 
-##### Si llegaste hasta aquí, ahora sabes:
+## Recapitulemos lo aprendido:
+
+Si llegaste hasta aquí, ahora sabes:
 
 - Qué es Strong
-
 - Qué es un lema
-
 - Cómo <u>leer</u> RMAC
-
 - Qué indican los tiempos verbales
 
 - Qué indican los casos
-
 - Cómo usar un léxico
-
 - Cómo <u>evitar</u> errores comunes
 
 ##### No sabes hablar griego. Pero sabes usarlo responsablemente. Y eso es exactamente el objetivo de este curso.
+
+# CÓMO LEER UN VERSÍCULO EN UNA HERRAMIENTA
+
+## 1. Antes de empezar
+
+###### No estás interpretando.
+
+###### No estás sacando conclusiones.
+
+- Estás observando lo que el texto muestra
+
+------
+
+## 2. Paso 1 — Mira las palabras
+
+###### Observa el versículo:
+
+- identifica palabras repetidas
+- identifica palabras clave
+- nota lo que llama la atención
+
+- Solo mira
+
+------
+
+## 3. Paso 2 — Identifica el lema
+
+###### Para cada palabra:
+
+- ubica el número Strong
+- identifica el lema
+
+- Pregunta:
+
+¿qué palabra es esta?
+
+------
+
+## 4. Paso 3 — Mira la forma
+
+###### Observa cómo aparece la palabra:
+
+- ¿cambió el final?
+- ¿es igual en todas partes?
+
+- Pregunta:
+
+¿está usada igual o diferente?
+
+------
+
+## 5. Paso 4 — Lee el código (RMAC)
+
+###### Observa el código:
+
+- N-NSM
+- N-ASM
+- V-PAI-3S
+
+- Pregunta:
+
+¿qué me está indicando esto?
+
+------
+
+## 6. Paso 5 — Identifica función (sustantivos)
+
+###### Si es sustantivo:
+
+- nominativo → sujeto
+- acusativo → objeto
+- genitivo → relación
+- dativo → indirecto
+
+- Pregunta:
+
+¿qué papel cumple?
+
+------
+
+## 7. Paso 6 — Identifica acción (verbos)
+
+###### Si es verbo:
+
+- ¿quién hace la acción?
+- ¿cómo aparece (presente, pasado, etc.)?
+
+- Pregunta:
+
+¿qué está ocurriendo?
+
+------
+
+## 8. Paso 7 — Conecta todo
+
+###### Ahora junta:
+
+- lema → qué palabra es
+- forma → cómo cambió
+- código → qué indica
+- función → qué hace
+
+- Sin interpretar
+
+------
+
+## 9. Paso 8 — Detente
+
+###### Aquí es donde la mayoría falla.
+
+- No concluyas todavía
+
+- No digas “esto significa…”
+
+------
+
+## 10. Lo que hiciste
+
+###### Solo hiciste esto:
+
+- observaste
+- identificaste
+- reconociste
+
+------
+
+## 11. Por qué esto importa
+
+###### Porque:
+
+- la interpretación correcta depende de ver bien primero
+
+------
+
+## 12. Frase final
+
+###### Primero observa
+
+###### luego entiende
+
+###### luego interpreta
+
+## CIERRE
+
+###### Ahora sabes usar:
+
+- Strong
+- Lemas
+- Morfología
+- RMAC
+- Léxicos
+
+No sabes hablar <u>griego</u>.
+Pero sabes usarlo responsablemente.
+Y eso, para este curso, es suficiente.
 
 # GLOSARIO BÁSICO
 
@@ -1456,6 +2045,7 @@ Es para consultar cuando estés usando herramientas.
 - M = Masculino
 
 ###### Casos:
+
 - N = Nominativo (generalmente sujeto)
 - G = Genitivo (relación)
 - D = Dativo (objeto indirecto / ubicación / medio)
@@ -1493,11 +2083,11 @@ Es para consultar cuando estés usando herramientas.
 
 ###### Persona y Número
 
-|Singular| Plural|
-|---|---|
-|1S = Primera singular|1P = Primera plural |
-|2S = Segunda singular| 2P = Segunda plural|
-|3S = Tercera singular|3P = Tercera plural |
+| Singular              | Plural              |
+| --------------------- | ------------------- |
+| 1S = Primera singular | 1P = Primera plural |
+| 2S = Segunda singular | 2P = Segunda plural |
+| 3S = Tercera singular | 3P = Tercera plural |
 
 ##### Recordatorio Final
 
@@ -1559,17 +2149,3 @@ no más arrogancia.
 ##### 10. El objetivo nunca es impresionar.
 
 El objetivo es comprender el texto con mayor precisión. Nada más. Nada menos.
-
-## CIERRE
-
-###### Ahora sabes usar:
-
-- Strong
-- Lemas
-- Morfología
-- RMAC
-- Léxicos
-
-No sabes hablar <u>griego</u>.
-Pero sabes usarlo responsablemente.
-Y eso, para este curso, es suficiente.
