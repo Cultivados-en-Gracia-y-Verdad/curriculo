@@ -2491,6 +2491,14 @@ El Señor DIOS es mi fortaleza; Él ha hecho mis pies como los de las ciervas, Y
 
 ##### Enseña que la fe **<u>sobrevive</u> cuando la justicia humana colapsa**.
 
+###### Habacuc sabía quién era Dios, pero le costaba creer que lo que veía no coincidía con lo que sabía.
+
+###### Dios no lo explicó todo; le dio el camino para vivir: «El justo vivirá por la fe».
+
+###### Para el capítulo 3, Habacuc ya no cuestiona la obra de Dios.
+
+###### Decide confiar en Dios, aunque nada cambie.
+
 ##### Habacuc aprende que: La aprobación de Dios no se gana, la justicia de Dios no se negocia, y la fe no es un <u>mecanismo</u> para cambiar a Dios, sino una respuesta correcta ante Él. 
 
 ###### La conclusión del libro:
