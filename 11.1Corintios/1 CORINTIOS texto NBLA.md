@@ -2,27 +2,105 @@
 
  
 
-Pablo, llamado *a ser* apóstol de Jesucristo por la voluntad de Dios, y Sóstenes, nuestro hermano, a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cristo Jesús, llamados *a ser* santos, con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo, *Señor* de ellos y nuestro: Gracia y paz a ustedes de parte de Dios nuestro Padre y del Señor Jesucristo.
+#### Pablo, llamado *a ser* apóstol de Jesucristo por la voluntad de Dios, y Sóstenes, nuestro hermano, 
 
-Siempre doy gracias a mi Dios por ustedes, por la gracia de Dios que les fue dada en Cristo Jesús. Porque en todo ustedes fueron enriquecidos en Él, en toda palabra y en todo conocimiento, así como el testimonio acerca de Cristo fue confirmado en ustedes; de manera que nada les falta en ningún don, esperando ansiosamente la revelación de nuestro Señor Jesucristo. Él también los confirmará hasta el fin, *para que sean* irreprensibles en el día de nuestro Señor Jesucristo. Fiel es Dios, por medio de quien fueron llamados a la comunión con Su Hijo Jesucristo, nuestro Señor.
+#### a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cristo Jesús, llamados *a ser* santos, con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo, *Señor* de ellos y nuestro: Gracia y paz a ustedes de parte de Dios nuestro Padre y del Señor Jesucristo.
 
-Les ruego, hermanos, por el nombre de nuestro Señor Jesucristo, que todos se pongan de acuerdo, y que no haya divisiones entre ustedes, sino que estén enteramente unidos en un mismo sentir y en un mismo parecer. Porque he sido informado acerca de ustedes, hermanos míos, por *los* de Cloé, que hay discusiones entre ustedes. Me refiero a que cada uno de ustedes dice: «Yo soy de Pablo», otro: «yo de Apolos», otro: «yo de Cefas», y otro: «yo de Cristo». ¿Está dividido Cristo? ¿Acaso fue Pablo crucificado por ustedes? ¿O fueron bautizados en el nombre de Pablo?
+#### Siempre doy gracias a mi Dios por ustedes, por la gracia de Dios que les fue dada en Cristo Jesús. 
 
-Doy gracias a Dios que no bauticé a ninguno de ustedes, excepto a Crispo y a Gayo, para que nadie diga que fueron bautizados en mi nombre. También bauticé a los de la casa de Estéfanas; por lo demás, no sé si bauticé a algún otro. Pues Cristo no me envió a bautizar, sino a predicar el evangelio, no con palabras elocuentes, para que no se haga vana la cruz de Cristo.
+#### Porque en todo ustedes fueron enriquecidos en Él, en toda palabra y en todo conocimiento, 
 
-Porque la palabra de la cruz es necedad para los que se pierden, pero para nosotros los salvos es poder de Dios. Porque está escrito:
+#### así como el testimonio acerca de Cristo fue confirmado en ustedes; de manera que nada les falta en ningún don, esperando ansiosamente la revelación de nuestro Señor Jesucristo. 
 
-«Destruiré la sabiduría de los sabios,
+#### Él también los confirmará hasta el fin, *para que sean* irreprensibles en el día de nuestro Señor Jesucristo. 
 
-Y el entendimiento de los inteligentes desecharé».
+#### Fiel es Dios, por medio de quien fueron llamados a la comunión con Su Hijo Jesucristo, nuestro Señor.
 
-¿Dónde está el sabio? ¿Dónde está el escriba? ¿Dónde está el que sabe discutir en este siglo? ¿No ha hecho Dios que la sabiduría de este mundo sea necedad? Pues ya que en la sabiduría de Dios, el mundo no conoció a Dios por medio de *su propia* sabiduría, agradó a Dios mediante la necedad de la predicación salvar a los que creen. Porque en verdad los judíos piden señales y los griegos buscan sabiduría; pero nosotros predicamos a Cristo crucificado, piedra de tropiezo para los judíos, y necedad para los gentiles. Sin embargo, para los llamados, tanto judíos como griegos, Cristo *es* poder de Dios y sabiduría de Dios. Porque la necedad de Dios es más sabia que los hombres, y la debilidad de Dios es más fuerte que los hombres.
+#### Les ruego, hermanos, por el nombre de nuestro Señor Jesucristo, que todos se pongan de acuerdo, 
 
-Pues consideren, hermanos, su llamamiento. No hubo muchos sabios conforme a la carne, ni muchos poderosos, ni muchos nobles. Sino que Dios ha escogido lo necio del mundo para avergonzar a los sabios; y Dios ha escogido lo débil del mundo para avergonzar a lo que es fuerte. También Dios ha escogido lo vil y despreciado del mundo: lo que no es, para anular lo que es, para que nadie se jacte delante de Dios.
+#### y que no haya divisiones entre ustedes, 
 
-Pero por obra Suya están ustedes en Cristo Jesús, el cual se hizo para nosotros sabiduría de Dios, y justificación, santificación y redención, para que, tal como está escrito: «El que se gloría, que se gloríe en el Señor».
+#### sino que estén enteramente unidos en un mismo sentir y en un mismo parecer. 
 
-Por eso, cuando fui a ustedes, hermanos, proclamándoles el testimonio de Dios, no fui con superioridad de palabra o de sabiduría. Porque nada me propuse saber entre ustedes excepto a Jesucristo, y Este crucificado. Estuve entre ustedes con debilidad y con temor y mucho temblor, y mi mensaje y mi predicación no fueron con palabras persuasivas de sabiduría, sino con demostración del Espíritu y de poder, para que la fe de ustedes no descanse en la sabiduría de los hombres, sino en el poder de Dios.
+#### Porque he sido informado acerca de ustedes, hermanos míos, por *los* de Cloé, 
+
+#### que hay discusiones entre ustedes. 
+
+#### Me refiero a que cada uno de ustedes dice: 
+
+#### «Yo soy de Pablo», otro: «yo de Apolos», otro: «yo de Cefas», y otro: «yo de Cristo». 
+
+#### ¿Está dividido Cristo? 
+
+#### ¿Acaso fue Pablo crucificado por ustedes? 
+
+#### ¿O fueron bautizados en el nombre de Pablo?
+
+#### Doy gracias a Dios 
+
+#### que no bauticé a ninguno de ustedes, excepto a Crispo y a Gayo, 
+
+#### para que nadie diga que fueron bautizados en mi nombre. 
+
+#### También bauticé a los de la casa de Estéfanas; por lo demás, no sé si bauticé a algún otro. 
+
+#### Pues Cristo no me envió a bautizar, sino a predicar el evangelio, 
+
+#### no con palabras elocuentes, para que no se haga vana la cruz de Cristo.
+
+#### Porque la palabra de la cruz es necedad para los que se pierden, 
+
+#### pero para nosotros los salvos es poder de Dios. 
+
+#### Porque está escrito:
+
+#### «Destruiré la sabiduría de los sabios,
+
+#### Y el entendimiento de los inteligentes desecharé».
+
+#### ¿Dónde está el sabio? ¿Dónde está el escriba? ¿Dónde está el que sabe discutir en este siglo? 
+
+#### ¿No ha hecho Dios que la sabiduría de este mundo sea necedad? 
+
+#### Pues ya que en la sabiduría de Dios, el mundo no conoció a Dios por medio de *su propia* sabiduría, 
+
+#### agradó a Dios mediante la necedad de la predicación salvar a los que creen. 
+
+#### Porque en verdad los judíos piden señales 
+
+#### y los griegos buscan sabiduría; 
+
+#### pero nosotros predicamos a Cristo crucificado, piedra de tropiezo para los judíos, y necedad para los gentiles. Sin embargo, para los llamados, tanto judíos como griegos, Cristo *es* poder de Dios y sabiduría de Dios. 
+
+#### Porque la necedad de Dios es más sabia que los hombres, y la debilidad de Dios es más fuerte que los hombres.
+
+#### Pues consideren, hermanos, su llamamiento. No hubo muchos sabios conforme a la carne, ni muchos poderosos, ni muchos nobles.
+
+#### Sino que Dios ha escogido lo necio del mundo para avergonzar a los sabios; 
+
+#### y Dios ha escogido lo débil del mundo para avergonzar a lo que es fuerte. 
+
+#### También Dios ha escogido lo vil y despreciado del mundo: lo que no es, para anular lo que es, 
+
+#### para que nadie se jacte delante de Dios.
+
+#### Pero por obra Suya están ustedes en Cristo Jesús, 
+
+#### el cual se hizo para nosotros sabiduría de Dios, y justificación, santificación y redención, 
+
+#### para que, tal como está escrito: 
+
+#### «El que se gloría, que se gloríe en el Señor».
+
+#### Por eso, cuando fui a ustedes, hermanos, proclamándoles el testimonio de Dios, 
+
+#### no fui con superioridad de palabra o de sabiduría. 
+
+#### Porque nada me propuse saber entre ustedes excepto a Jesucristo, y Este crucificado. 
+
+#### Estuve entre ustedes con debilidad y con temor y mucho temblor, y mi mensaje y mi predicación no fueron con palabras persuasivas de sabiduría, sino con demostración del Espíritu y de poder, 
+
+#### para que la fe de ustedes no descanse en la sabiduría de los hombres, sino en el poder de Dios.
 
 Sin embargo, hablamos sabiduría entre los que han alcanzado madurez; pero una sabiduría no de este siglo, ni de los gobernantes de este siglo, que van desapareciendo, sino que hablamos sabiduría de Dios en misterio, la *sabiduría* oculta que, desde antes de los siglos, Dios predestinó para nuestra gloria. *Esta sabiduría* que ninguno de los gobernantes de este siglo ha entendido, porque si la hubieran entendido no habrían crucificado al Señor de gloria; sino como está escrito:
 
