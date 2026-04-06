@@ -32,7 +32,7 @@ Que el amor de ustedes abunde más y más
 - ahora que ya se que soy salvo, 
 - que la salvación no se pierde, 
 - que se que el pecado ha sido crucificado, 
-- que el pecado ya no puede ejercer poder en mi 
+- que el pecado ya no puede ejercer poder en mi. 
 - que no tengo que yo dar una lucha contra el pecado, 
 - que no es por la ley, porque muestra condenación
 - que ya soy justificado por Dios
@@ -44,7 +44,7 @@ Que el amor de ustedes abunde más y más
 
 ##### Al ir aprendiendo de la gracia de Dios, es muy fácil poder caer en el engaño de un desvió de vivir una vida esclavizante pensando que ahora la vida como creyente ya no tiene nada mas que yo deba hacer, total ya esta completa mi salvación.
 
-##### Es verdad que la salvación de todo creyente esta completa, pero Pablo introduce algo que desafía el entendimiento de los creyentes, Filipenses 2:2 dice *"...ocúpense en su salvación con temor y temblor."*
+##### Es verdad que la salvación de todo creyente esta completa, pero Pablo introduce algo que desafía el entendimiento de los creyentes, Filipenses 2:12 dice *"...ocúpense en su salvación con temor y temblor."*
 
 ##### Esto, no esta yendo en contra de ninguna verdad que ya es cierta en todo creyente.
 
@@ -186,7 +186,7 @@ Que el amor de ustedes abunde más y más
 
 ##### La mención de Pablo de los obispos y diáconos nos da un dato curioso, inspirado por el Espíritu Santo reconoce la existencia de ancianos y diáconos, lo que según 1 Timoteo y Tito es que hay evidencia de un andar piadoso (Cristo manifestado exteriormente en un creyente).
 
-##### Probablemente el saludo de incluirles a ellos, es llevarlos al entendimiento de que esta carta no solo es para la grey del Señor, sino que tanto los ancianos y diáconos también puede seguir creciendo juntamente con la iglesia de Filipos, en amor con todo conocimiento verdadero y en todo discernimiento Filipenses 1:10-11
+##### Probablemente el saludo de incluirles a ellos, es llevarlos al entendimiento de que esta carta no solo es para la grey del Señor, sino que tanto los ancianos y diáconos también puede seguir creciendo unánimes en la fe del evangelio, y de un solo espíritu con toda la iglesia de Filipos, en amor con todo conocimiento verdadero y en todo discernimiento Filipenses 1:10-11
 
 ##### Más adelante Pablo mismo aclarará que el mismo sigue creciendo en el conocimiento del Señor Jesucristo. Filipenses 3:10 
 
@@ -211,7 +211,7 @@ Doy gracias a mi Dios siempre que me acuerdo de ustedes.
 
 #### Doy gracias a mi Dios
 
-##### Pablo inicia dando gracias a Dios, esto pone en foco a Dios y la obra que el esta realizando.
+##### Pablo inicia dando gracias a Dios, esto pone en foco a Dios y la obra que Él esta realizando.
 
 ##### Es interesante notar que uno de los temas de la carta, es que Pablo les escribe en respuesta del amor que ellos mostraron al enviar una ofrenda por Epafrodito. Filipenses 2:25, 30
 
@@ -319,7 +319,7 @@ Estoy convencido precisamente de esto: que el que comenzó en ustedes la buena o
 
 ##### Pablo tuvo la visión en Troas Hechos 16:8-9
 
-##### Por lo que fue Dios el que comenzó la buena obra.
+##### Por lo que fue Dios el que comenzó la buena obra. Juan 6:44
 
 - Lidia fue alguien que respondió a la revelación general de Dios, Dios mismo ya la había atraído a si mismo, y fue Dios que a través de su Espíritu Santo que guio a Pablo anunciar el evangelio en aquel lugar donde Lidia y su familia creyeron en el evangelio.
 
@@ -419,7 +419,7 @@ Y esto pido en oración: que el amor de ustedes abunde aún más y más en conoc
 
 ##### Existe una filosofía en el mundo, que dice: mientras más pasa el tiempo, más se va apagando el amor, y esto es una realidad del mundo separado de Dios.
 
-##### Pero Dios es amor, y Dios sobreabunda en amor, y su amor es inagotable, mientras más ha pasado el tiempo, el amor de Dios ha sido manifestado con mayor abundancia hasta dar lo único que tenia, a su hijo Jesucristo.
+##### Pero Dios es amor, y Dios sobreabunda en amor, y su amor es inagotable, mientras más ha pasado el tiempo, el amor de Dios ha sido manifestado con mayor abundancia hasta dar a su único hijo Jesucristo.
 
 ##### Por tal motivo ahora Pablo después de haber hecho énfasis en la participación del evangelio, de que Dios inicio la buena obra, de que Dios nos perfeccionará, de que el abundante amor de los Filipenses hacia los santos proviene de la gracia de Dios, su petición de oración es dada a conocer en este pasaje.
 
@@ -509,7 +509,7 @@ llenos del fruto de justicia que es por medio de Jesucristo, para la gloria y al
 
 ##### El fruto de la justicia solamente es por medio de Jesucristo. Juan 15:5
 
-##### Esto trae paz y descanso porque no no es por medio del esfuerzo humano, ni de la justicia del hombre.
+##### Esto trae paz y descanso porque no es por medio del esfuerzo humano, ni de la justicia del hombre.
 
 ##### El día de Cristo Jesús toda obra que es por medio de Jesucristo será premiada, y no así las obras de la carne por mas que tengan buenas intenciones.
 
@@ -629,7 +629,7 @@ La mayoría de los hermanos, confiando en el Señor por causa de mis prisiones, 
 
 ##### Este valor no viene, por ver a Pablo específicamente.
 
-##### Sin,o por ver la fidelidad de Dios. Hechos 4:17-21
+##### Sino, por ver la fidelidad de Dios. Hechos 4:17-21
 
 ##### Más adelante tendrá más sentido está narrativa, ya que les dirá a ellos que no tengan temor de sus adversarios.
 
@@ -707,7 +707,7 @@ Aquellos proclaman a Cristo por ambición personal, no con sinceridad, pensando 
 
 #### ¿Entonces qué? Que de todas maneras, ya sea fingidamente o en verdad, Cristo es proclamado;
 
-##### Aqui vemo el resultados de sus prisiones, aquellas circunstancias que han redundado para el avance del evangelio.
+##### Aquí vemos el resultados de sus prisiones, aquellas circunstancias que han redundado para el avance del evangelio.
 
 ##### Dando mayor confianza a los hermanos para predicar.
 
@@ -715,7 +715,7 @@ Aquellos proclaman a Cristo por ambición personal, no con sinceridad, pensando 
 
 #### y en esto me regocijo,
 
-##### Esto trae un regocijo a diferencia de los que actúan por rivalidad y contienda, el fruto de justicia por medio de Jesucristo traer un regocijo, porque es Dios manteniéndose fiel en la expansión de su evangelio.
+##### Esto trae un regocijo; a diferencia de los que actúan por rivalidad y contienda, el fruto de justicia por medio de Jesucristo traer un regocijo, porque es Dios manteniéndose fiel en la expansión de su evangelio.
 
 #### sí,
 
@@ -723,7 +723,7 @@ Aquellos proclaman a Cristo por ambición personal, no con sinceridad, pensando 
 
 #### y me regocijaré.
 
-##### Hay que notar que Pablo no esta actuando de la misma manera de los que buscan rivalidad, al contrario, esta feliz, predicando fielmente el evangelio sin rivalidad, sino por amor y no por ambición personal. Efesios 4:29
+##### Hay que notar que Pablo no esta actuando de la misma manera de los que buscan rivalidad, al contrario, esta feliz, predicando fielmente el evangelio sin rivalidad, por amor y no por ambición personal. Efesios 4:29
 
 ##### Esto es completamente contrario por los que se oponen, en vez de sentirse afligido o en angustia de estar encerrado y tener el pensamiento de que el evangelio no esta creciendo, la realidad es que trae regocijo, porque mientras Pablo esta encerrado, el evangelio esta creciendo libremente, independiente de que este encerrado o en libertad, es Dios llevando fielmente a cabo la buena obra.
 
@@ -771,9 +771,7 @@ conforme a mi anhelo y esperanza de que en nada seré avergonzado, sino que con 
 
 ##### Sin cambiar de tema pasa a explicar, porque es que tenia esa confianza de no ser avergonzado en nada y que al contrario Cristo seria exaltado en su cuerpo, ya sea que viva o que muera.
 
-##### ¿Como es que a pesar de tanta oposición era que el evangelio se expandía?, las circunstancias por las que se vio Pablo no son las mas favorables a la que estamos acostumbrados cuando tenemos en mente predicar el evangelio.
-
-##### Cuando queremos compartir el evangelio siempre elegimos lugares donde nadie nos rechace, y si alguien rechaza el evangelio, rápidamente discernimos que no debe ser la voluntad de Dios y que es mejor callar, ¿es esa una confianza de que Cristo sea exaltado por vida o por muerte? Hechos 21:10-14
+##### ¿Como es que a pesar de tanta oposición era que el evangelio se expandía?, las circunstancias por las que se vio Pablo no son las mas favorables a la que estamos acostumbrados cuando tenemos en mente predicar el evangelio. Hechos 21:10-14
 
 ##### La confianza en la cual Pablo hace referencia, no es lo que uno puede llegar a dar, sino lo que resulta, llenos del fruto de justicia por medio de Jesucristo.
 
@@ -790,6 +788,8 @@ Pues para mí, el vivir es Cristo y el morir es ganancia.
 ##### Ahora Pablo dice, *para mi,* con la intención de que sepamos donde esta puesta su confianza ya sea en la vida o en la muerta.
 
 #### el vivir es Cristo
+
+##### Pablo sabia que Cristo seria exaltando en su cuerpo ya sea por vida o por muerte, porque el vivir radicaba en Cristo.
 
 ##### Vivir ZAO es un verbo que se encuentra en tiempo presente, voz activa, modo infinitivo, que expresa el proceso de estar vivo, tanto la experiencia como la esencia de vivir, la cual radica en Cristo y nada más.
 
@@ -839,7 +839,7 @@ Sin embargo, continuar en la carne es más necesario por causa de ustedes.
 
 #### Sin embargo, continuar en la carne
 
-##### Pero, Pablo declara escoger continuar viviendo a Cristo en este mundo con un propósito.
+##### Pero, Pablo decide escoger continuar viviendo a Cristo en este mundo con un propósito.
 
 #### es más necesario por causa de ustedes.
 
@@ -847,9 +847,9 @@ Sin embargo, continuar en la carne es más necesario por causa de ustedes.
 
 ##### Hechos 23:11 *A la noche siguiente el Señor se le apareció a Pablo y le dijo: «Ten ánimo, porque como has testificado fielmente de Mi causa en Jerusalén, así has de testificar también en Roma.* 
 
-##### En aquel preciso momento podia haber elegido quedarse en Jerusalen y ser entregado en manos de los judios, ya que ellos planificaban matarlo. Hechos 23:12-21
+##### En aquel preciso momento podía haber elegido quedarse en Jerusalén y ser entregado en manos de los judíos, ya que ellos planificaban matarlo. Hechos 23:12-21
 
-##### Pablo elige no morir apelando a Cesar no por quisiera conservar su vida porque tenia miedo de morir Hechos 25:10-11
+##### Pablo elige no morir apelando a Cesar no por quisiera conservar su vida, o porque tenia miedo de morir Hechos 25:10-11
 
 ##### Sino que eligió no morir y pasar por todas esas circunstancias con la confianza que seria de gran beneficio para todos los hermanos. Hechos 20:24
 
@@ -875,13 +875,15 @@ para que su profunda satisfacción por mí abunde en Cristo Jesús a causa de mi
 
 #### a causa de mi visita otra vez a ustedes.
 
-##### Según la tradición se cree que Pablo pudo salir en libertad y visitar a los hermanos Filipenses, visitando también a las otras iglesias, en un cuarto viaje misionero, donde deja a Timoteo en Éfeso para establecer ancianos.
+##### Según la tradición se cree que Pablo pudo salir en libertad y visitar a los hermanos Filipenses, visitando también a las otras iglesias, en un cuarto viaje misionero.
 
 ##### Esto también se puede deducir por las cartas que escribe.
 
 ##### Según la tradición se cree que las cartas de Efesios, Filipenses, Colosenses y Tesalonicenses fueron escritas en su primer encarcelamiento.
 
-##### Y que la carta de 2 Timoteo fue escrita en su segundo encarcelamiento después de haber visitado otra vez a los hermanos.
+##### 2 Timoteo fue escrita en su segundo encarcelamiento después de haber visitado otra vez a los hermanos.
+
+##### Eso debió haberles causado profunda satisfacción.
 
 # Filipenses 1:27-2:30 ES DIOS QUIEN OBRA en ustedes
 
@@ -900,7 +902,7 @@ para que su profunda satisfacción por mí abunde en Cristo Jesús a causa de mi
 
 ##### Estos imperativos no deben ir independientes del obrar de Dios, y tampoco debe entenderse que estas instrucciones se completan por si solas.
 
-##### Existe una participación activa del creyente en el obrar de Dios.
+##### Existe una participación activa de los creyentes en el obrar de Dios.
 
 ## Filipenses 1:27-2:4 Un comportamiento digno del Evangelio de Cristo
 
@@ -908,13 +910,13 @@ para que su profunda satisfacción por mí abunde en Cristo Jesús a causa de mi
 
 ##### Esta sección es bastante práctica, por lo que es difícil poder discernir sobre la base de que es lo que dice, y que significa.
 
-##### Este primer imperativo es fundamental para lo siguiente, ya que sin esta base, todo lo que continua se convertiría en un esfuerzo por querer alcanzarlo. 
+##### Este primer imperativo tiene como base la narración que Pablo dio que no esta independiente de su pedido de oración, por lo que este imperativo es fundamental para los siguientes, ya que sin esta base, todo lo que continua se convertiría en un esfuerzo por querer alcanzarlo. Filipenses 2:12
 
-##### Por lo general Pablo, en otras cartas explica anticipadamente, antes de dar el primer imperativo, en esta carta, más específicamente en esta sección, dará el imperativo y posteriormente explicará como se ve de manera práctica y sobre que esta fundamentada.
+##### Cada imperativo tiene sentido practico, si bien podría aplicarse de manera individual, pero esta dirigida en sentido práctico colectivo. Filipenses 1:1
 
-##### El propósito de esta sección no esta separada de su oración. Filipenses 1:9
+##### Que no esta separada de su oración. Filipenses 1:9
 
-##### A través de esta carta así como los Filipenses, puedas abundar en amor, en un conocimiento verdadero, seas guiado poder su Espíritu Santo a discernir todo, y sepas ser guiado por el Señor para poder elegir lo mejor, y seas puro e irreprensible en tu andar diario, lleno del fruto de Justicia que es únicamente y solamente por medio de Jesucristo, no para tu propia gloria, sino para la gloria de Dios.
+##### Y que es unánime en todos. 
 
 ### Filipenses 1:27
 
@@ -928,7 +930,7 @@ Solamente compórtense de una manera digna del evangelio de Cristo, de modo que 
 
 ##### Esta palabra se un verbo en tiempo presente, imperativo, voz media pasiva, 
 
-##### Es de notar que se encuentra en voz media pasiva, que significa una acción que alguien hizo los beneficia a ellos para que puedan llevar a cabo el imperativo en tiempo presente.
+##### Es de notar que se encuentra en voz media pasiva, que significa, una acción que alguien hizo, los beneficia a ellos para que puedan llevar a cabo el imperativo en tiempo presente.
 
 ##### Por lo que podemos llegar a entender que al momento de haber creído en el evangelio, Dios los hizo ciudadanos dignos del evangelio de Cristo.
 
@@ -942,7 +944,9 @@ Solamente compórtense de una manera digna del evangelio de Cristo, de modo que 
 
 ##### Pablo tiene el deseo de poder escuchar el andar de los hermanos, estando con ellos o estando ausente.
 
-##### Esto aclara que la firmeza o la unidad no esta sobre la base de un hermano, este presente o ausente el comportamiento digno del evangelio puede ser oído, no obligado.
+##### Esto aclara que la firmeza o la unidad no esta sobre la base de un hermano. 
+
+##### Este presente o ausente el comportamiento digno del evangelio puede ser oído, no obligado.
 
 #### que ustedes están firmes en un mismo espíritu,
 
@@ -952,7 +956,7 @@ Solamente compórtense de una manera digna del evangelio de Cristo, de modo que 
 
 ##### Si bien las circunstancias podrían quitar firmeza.
 
-##### Note que Dios nos puso en una ciudadanía digna del evangelio a pesar de las circunstancias eso es algo que nunca va a cambiar. la firmeza proviene de andar en lo digno que ya Dios nos coloco.
+##### Note que Dios nos puso en una ciudadanía digna del evangelio a pesar de las circunstancias eso es algo que nunca va a cambiar. la firmeza proviene de andar en lo digno del evangelio que ya Dios nos coloco.
 
 ##### Ahora conociendo el propósito de las circunstancias pasa a desear que los hermanos filipenses estén firmes en un mismo espíritu, no divididos.
 
@@ -1052,17 +1056,29 @@ Por tanto, si hay algún estímulo en Cristo, si hay algún consuelo de amor, si
 
 #### Por tanto, 
 
-##### Entonces al comprender que se tiene el mismo privilegio y honor de sufrir por Cristo, Pablo mostrará que sin lugar a dudas para ellos y para todo creyente hay afirmaciones (si, de primera condición).
+##### Ahora que saben lo que Pablo quería que sepan.
+
+##### Y que ahora no ignoran porque causa se encuentra en cadenas.
+
+##### Entonces al comprender que se tiene el mismo privilegio y honor de sufrir por Cristo.
+
+##### Pablo mostrará lo que tienen ellos para dar (si, de primera condición).
 
 ##### En griego, cuando se utiliza EI *si* con un sustantivo o un adjetivo, se suele asumir que la condición es real o probable, a menos que haya algún indicio en contrario.
 
 #### si hay algún estímulo en Cristo,
 
-##### Esto puede traducirse como: Claro que si hay algún estímulo en Cristo, sin lugar a dudas.
+##### Esto puede traducirse como: Claro que tienen algún estímulo en Cristo, sin lugar a dudas.
+
+##### Estimulo, consolación o animar, es lo que les ha sido dado, para compartirlo.
+
+##### *Cristo les ha dado el poder de animar,* biblia Dios habla hoy (DHH-D).
 
 #### si hay algún consuelo de amor,
 
-##### De igual manera: Claro que hay algún consuelo de amor para todo creyente.
+##### Consuelo, Descanso y alivio de la pena, molestia o fatiga que aflige y oprime el ánimo. [^7]
+
+##### De igual manera podría traducirse: Claro que hay algún consuelo de amor para todo creyente y pueden ofrecerlo.
 
 #### si hay alguna comunión del Espíritu,
 
@@ -1072,31 +1088,44 @@ Por tanto, si hay algún estímulo en Cristo, si hay algún consuelo de amor, si
 
 ##### De igual manera es de primera condición: Claro que hay algún afecto y compasión para todo creyente.
 
+##### Afecto y Compasión, en el sentido de actuar, en el beneficio de otro.
+
+##### *si tienen un corazón compasivo* biblia Dios habla hoy (DHH-D).
+
 ### Filipenses 2:2
 
 hagan completo mi gozo, siendo del mismo sentir, conservando el mismo amor, unidos en espíritu, dedicados a un mismo propósito.
 
 #### hagan completo mi gozo,
 
-##### Entonces al mostrarles el privilegio que tienen pasa a dar otro imperativo.
+##### Entonces como tienen todo aquello, y habiéndoles pedido que tengan un comportamiento digno del evangelio, 
+
+##### Ahora pasa a pedirles que puedan participar en sus sufrimientos completando su gozo.
 
 ##### *hagan completo* PLEROO, es un verbo en tiempo Aoristo, imperativo, activo, que indica que es una acción que debe realizarse de manera puntual y completa.
 
-##### Por lo que debía completarse la instrucción de llenar a plenitud su gozo, ¿y como llevaría a cabo eso?
+##### En Filipenses 1:18 Pablo realiza un declaración doble, donde dice; 
 
-##### Este imperativo es explicado en como debía realizarse.
+- *me regocijo* habíamos visto que se regocijaba por el avance del evangelio siendo preso por Cristo. 
+- y en se segunda declaración dice; *me regocijaré* por que tenia certeza que continuaría creciendo aún mas.
+
+##### Ahora pide que completen su gozo, cobrando ánimo y confianza para hablar la palabra de Dios sin temor, sabiendo ahora por que causa esta preso.
 
 #### siendo del mismo sentir,
 
 ##### Primero, siendo del mismo sentir.
 
+##### Pablo se gozaba de que el evangelio fuera predicado mientras se encontraba en cadenas, 
+
+##### Aquí pide que sean del grupo que mantiene el mismo amor. Filipenses 1:16
+
 #### conservando el mismo amor,
 
 ##### Segundo, conservando el mismo amor.
 
-##### Es genial poder recordar como los hermanos filipenses habian estado conservandose en el mismo amor desde el primer día hasta ahora, pero para completar el gozo de Pablo les pide que continuen así, 
+##### Los hermanos filipenses habían estado conservándose en el mismo amor desde el primer día hasta ahora.
 
-##### Para mantenerse en el mismo amor, ellos debían estar luchando unánimes por la fe del evangelio.
+##### Para mantenerse en el mismo amor, ellos debían estar luchando unánimes por la fe del evangelio. Filipenses 1:5
 
 #### unidos en espíritu,
 
@@ -1106,6 +1135,8 @@ hagan completo mi gozo, siendo del mismo sentir, conservando el mismo amor, unid
 
 ##### Cuarto, dedicados a un mismo propósito.
 
+##### Abundar en frutos de justicia para la gloria de Dios.
+
 ### Filipenses 2:3
 
 No hagan nada por egoísmo o por vanagloria, sino que con actitud humilde cada uno de ustedes considere al otro como más importante que a sí mismo,
@@ -1114,13 +1145,40 @@ No hagan nada por egoísmo o por vanagloria, sino que con actitud humilde cada u
 
 ##### Quinto, no haciendo nada por egoísmo o por vanagloria.
 
+##### No debían actuar en ningún momento, bajo ningún circunstancias por egoísmo o por vanagloria, 
+
+##### Había narrado que por causa de sus prisiones, había un grupo que predicaban a Cristo por rivalidad queriendo añadir aflicción a las cadenas de Pablo, incluso lo hacían por beneficio propio.
+
+##### Ellos no debían actuar de esa manera, baja ninguna circunstancia.
+
+- Por más que ellos tengan la razón.
+- Por más de que se encuentren bajo tribulación.
+- Por más que quieran añadirles aflicción.
+- Aun incluso si tienen intenciones de llevarlos a la muerte.
+- Aunque rechazaran el mensaje del evangelio.
+- Esto incluye el hecho de predicar a Cristo por rivalidad o contienda.
+
+##### Ya que eso no es un comportamiento digno del evangelio.
+
 #### sino que con actitud humilde
 
-##### sino con actitud humilde
+##### sino con actitud humilde.
+
+##### Una actitud humilde no es una lucha de quien sabe más o quien esta en los correcto, eso seria vanagloria.
+
+##### Una actitud humilde no esta separada de la verdad, es aqui donde el discernimiento por el cual Pablo oraba, para que sean guiados.
+
+##### Ya que humildad tampoco es negar la verdad.
+
+##### La humildad se basa en la confianza del creyente hacia lo que Dios dijo y lo que el esta llevando acabo. Filipenses 2:13
+
+##### La humildad esta acompañada de la actitud en este pasaje.
 
 #### cada uno de ustedes considere al otro como más importante que a sí mismo,
 
-##### Sexto, cada uno considerando al otro como más importante a sí mismo,
+##### Sexto, cada uno considerando al otro como más importante a sí mismo.
+
+##### La humildad que actúa considerando al otro como más importante que uno mismo.
 
 ### Filipenses 2:4
 
@@ -1130,11 +1188,32 @@ no buscando cada uno sus propios intereses, sino más bien los intereses de los 
 
 ##### Séptimo, no buscando sus propios intereses.
 
+##### La humildad no busca el beneficio propio, 
+
+##### Esto contrasta con el grupo que anunciaba a Cristo por ambición personal. Filipenses 1:17
+
 #### sino más bien los intereses de los demás.
 
-##### 
+##### Una actitud humilde que considera al otro como más importe que uno mismo busca los intereses del otro.
+
+##### Los intereses de los demás se basa en el propósito de la fe en el evangelio.
+
+##### Sea creyente o incredulo, deben ser considerados como más importantes que uno mismo, buscando sus intereses.
+
+- En el caso de un incredulo su salvación.
+- En el caso de un creyente, que pueda abundar con frutos de justicia por medio de Jesucristo. Filipenses 1:24-25
 
 ## Filipenses 2:5-11 Tengan la misma manera de pensar que tuvo Cristo Jesús
+
+##### El propósito de estos pasajes es ilustrar los anteriores versículos enseñados, con un ejemplo real y que es perfecto.
+
+##### Filipenses 2:6-11 Es una poesía que puede ser cantada o recitada; probablemente Pablo y Silas cantaban este himno (una posibilidad que la biblia no enseña) cuando estaban en la cárcel de Filipos. Hechos 16:25
+
+##### Es importante notar que al estudiar estos pasajes se concluye rápidamente con el imperativo, tengan humildad porque Cristo fue humilde.
+
+##### Es verdad que en los siguientes pasajes vemos la humildad de Cristo, como un ejemplo ilustrativo para cada creyente, y es lo que Pablo esperaba oír de los creyentes, pero no debemos confundir el imperativo.
+
+##### Por lo que en estos pasajes existe un imperativo que tiene el objetivo de llegar mas lejos de una humildad exterior; sino mas bien la actitud interna, dependencia del Padre con la misma mente de Cristo. 1 Corintios 2:16
 
 ### Filipenses 2:5
 
@@ -1142,73 +1221,212 @@ Haya, pues, en ustedes esta actitud que hubo también en Cristo Jesús,
 
 #### Haya, pues, en ustedes esta actitud
 
+##### Esta actitud FRONEO *pensar* es un verbo presente, imperativo, voz activa; que significa tener una manera de pensar. Romanos 8:5
+
+##### Este imperativo esta dirigido a una forma de pensar que resulta en una actitud.
+
+##### No en el sentido contrario, actuar y luego pensar.
+
+##### Todo creyente puede tener la misma manera de pensar que tuvo Cristo, por eso el imperativo esta dirigido como algo que si es posible, y no como algo que el creyente tiene que alcanzar.
+
 #### que hubo también en Cristo Jesús,
+
+##### El Señor Jesucristo tenia una actitud basado en su modo de pensar.
+
+##### Hebreos 12:2b *...quien por el gozo puesto delante de Él soportó la cruz, despreciando la vergüenza, y se ha sentado a la diestra del trono de Dios.*
+
+- Quien no obro en ningún caso por egoísmo o por vanagloria.
+- Considero a los demás como más importantes que el.
+- No busco sus propios beneficios, sino el de los demás.
+- Y todo lo hizo en humildad. 
+
+##### Alguno dirá:
+
+- Para nosotros es imposible, es verdad, pero Dios lo hizo posible en cada creyente. Lucas 18:27; Filipenses 1:21; Gálatas 2:20
+- Pero Él es Dios, nosotros no, y es verdad. Pero...
 
 ### Filipenses 2:6
 
 el cual, aunque existía en forma de Dios, no consideró el ser igual a Dios como algo a qué aferrarse,
 
-#### el cual, aunque existía en forma de Dios, 
+#### el cual, aunque existía en forma de Dios,
 
-#### no consideró el ser igual a Dios 
+##### ¿Quien era Dios para los Filipenses?
 
-#### como algo a qué aferrarse,
+- Reconocían que existía un Dios al cual adoraban, por ser día de reposo podemos concluir que conocían al Dios todo poderoso de la Creación Hechos 16:13-14
+- Conocían que existía el Dios altísimo que esta sobre todos los dioses. Hechos 16:17; Salmos 97:9
+- También conocieron el poder de Dios de sacudir los mismo cimientos de la prisión de alta seguridad de los romanos y abrir las cadenas y las puertas de la cárcel. Hechos 16:25-26
+- Y también conocieron, su misericordia, gracia y amor. Hechos 16:34
+
+##### Pablo introduce una gran verdad, Jesucristo es Dios. 
+
+##### Cuando dice en forma de Dios MORFE THEOS, esta hablando sobre el rasgo distintivo especial o característico de Cristo, que no se separa de Él mismo; para que deje de ser real, Cristo tendría que dejar de existir. [^morfe (μορφή, G3444), Se usa con un significado particular en el NT, solo de Cristo, en Fil_2:6-7, en las frases «siendo en forma de Dios» y «tomando forma de siervo». Una excelente definición de esta palabra es la dada por Gifford: «morfe es así propiamente la naturaleza o esencia, no en abstracto, sino tal como subsiste realmente en el individuo, y retenida en tanto que el individuo mismo existe … »Así, en el pasaje ante nosotros morfe Theou es la naturaleza divina real e inseparablemente subsistente en la persona de Cristo. Para la interpretación de «la forma de Dios» es suficiente decir que: (1) incluye toda la naturaleza y esencia de la Deidad, y que es inseparable de ella, ya que no podrían tener existencia real sin ella; y (2) que no incluye en sí misma nada «accidental» o separable, tal como modos particulares de manifestación, ni condiciones de gloria o majestad, que pueden en un momento estar junto con la «forma», y en otro momento separados de ella.]
+
+##### Es por eso que Pablo utiliza la palabra existía KJUPARKJO en tiempo presente *existiendo* dando a entender que su naturaleza divina en igualdad de Dios es real hoy, pero no quiere decir que antes no era real, ya que siempre ha coexistido con el Padre. Juan1:1; 
+
+##### Y continuara siendo Dios por toda la eternidad. Romanos 9:5
+
+##### Por lo que su modo de pensar resulta en una afirmación que parece ir en contra de la lógica o la razón, en relación a su poder y posición real.
+
+#### no consideró el ser igual a Dios como algo a qué aferrarse,
+
+##### Algunos piensas que este pasaje no esta enseñando sobre la deidad de Jesucristo, y que en específico esta frase debería ser traducida como *ni se le pasó por la mente tratar de ser igual a Dios.*, pero esto es errado.
+
+##### No considero, es traducida también como *no estimo* (RVR60), lo que da a entender que tuvo en preferencia una elección a pesar de su condición divina.
+
+##### Su elección fue, no aferrarse, o *no aprovecharse* (BTX4) de su condición divina. 
 
 ### Filipenses 2:7
 
 sino que se despojó a Sí mismo tomando forma de siervo, haciéndose semejante a los hombres.
 
-#### sino que se despojó a Sí mismo 
+#### sino que se despojó a Sí mismo
 
-#### tomando forma de siervo, 
+##### Su preferencia fue, despojarse a si mismo, y tomar forma de siervo. 
 
-#### haciéndose semejante a los hombres.
+##### La frase se despojó a Si mismo, no debe ser entendida como:
+
+- Dejo su divinidad para que sea posible ser hombre.
+- Dejo de ser Dios.
+- Se quito su divinidad.
+
+##### kenoo (κενόω, G2758), vaciar. Se traduce «despojó». Las cláusulas que siguen al verbo dan la exégesis de su significado, especialmente las frases «forma de siervo», y «semejante a los hombres». Cristo no se vació a sí mismo de su deidad. No dejó de ser lo que era esencial y eternamente. La Versión Autorizada Inglesa, aunque no da una traducción exacta (traduce «se hizo carente de gloria»), expresa muy bien lo que hizo el Señor [^8]
+
+##### Es difícil llegar a una traducción precisa ya que *carente de gloria* tampoco es lo que sucedió. Juan 1:14
+
+##### Pero Filipenses 2:4 puede darnos mayor claridad, sabiendo que no se aprovecho de su condición de Dios *se despojo*  de buscar su propio beneficio.
+
+#### tomando forma de siervo, haciéndose semejante a los hombres.
+
+##### Ahora Pablo introduce otra gran verdad, Jesucristo es humano.
+
+##### En Filipenses 2:6 vimos la palabra MORFE THEOS, donde muestra la naturaleza divina de Cristo en toda su esencia sin ninguna tendencia a separase. 
+
+##### Por lo que MORFE DOULOS en referencia a la semejanza de hombre, genera contrariedad entre ambas naturalezas, pero no debemos olvidar que MORFE THEOS solo podría dejar de ser real si Cristo no existiera, de la misma manera, habiendo tomado forma de siervo, haciéndose semejante a los hombres se hizo con naturaleza humana en toda su esencia sin ninguna tendencia a separarse. [^El verdadero significado de morfe en la expresión «forma de Dios» queda confirmada por su repetición en la frase correspondiente, «forma de siervo». Se admite universalmente que las dos frases son directamente antitéticas, y que por ello «forma» tiene que tener el mismo sentido en ambas»]
+
+##### Por lo que Cristo siempre existirá siendo 100% Dios y 100% humano, por toda la eternidad. Juan 1:14; 1 Juan 5:20
+
+##### Y al tomar forma de siervo, semejante a los hombres vino con un propósito. Mateo 20:28
 
 ### Filipenses 2:8
 
 Y hallándose en forma de hombre, se humilló Él mismo, haciéndose obediente hasta la muerte, y muerte de cruz.
 
-#### Y hallándose en forma de hombre, 
+#### Y hallándose en forma de hombre, se humilló Él mismo,
 
-#### se humilló Él mismo, 
+##### Observe que la palabra se humilló no esta haciendo referencia a que es humillante ser un humano.
 
-#### haciéndose obediente hasta la muerte, 
+##### Sino que estando ya en la condición de hombre, se humillo Él mismo.
 
-#### y muerte de cruz.
+##### No solo no se aferro a su condición divina, sino que fue un paso más allá, en la condición de hombre, no busco su propia gloria ni su propia voluntad. Juan 5:19, 30, 12:49
+
+#### haciéndose obediente hasta la muerte, y muerte de cruz.
+
+##### No vino por rivalidad o por envidia.
+
+##### Vino en humildad, en dependencia del Padre, haciendo evidente su amor hasta el punto de llegar a morir. Mateo 26:38; Marcos 14:36; Lucas 23:46 
+
+##### No solo se hizo semejante a los hombres.
+
+##### No solo prefirió no depender de su divinidad, 
+
+##### No solo se humillo, sino que murió como el peor de los criminales. Mateo 27:38-39
+
+##### Llevando una muerte de un espectáculo público y humillante. Lucas 15:19-20
+
+##### En una cruz murió. Juan 19:30; Lucas 23:46-48
+
+##### ¿Entonces la mente de Cristo fue morir por un idea?
+
+##### No, la mente de Cristo fue depender en todo momento de la obra de Dios, planeada desde antes de la fundación del mundo. 1 Pedro 1:19-20
+
+##### Con actitud humilde, se hizo obediente buscando el beneficio de los demás. Juan 12:50
+
+##### Su muerte era el plan predeterminado de Dios y el Señor Jesucristo lo llevo a cabo como un siervo semejante a los hombres.
+
+##### Para llevar a cabo este plan, si bien nunca dejo de ser Dios, su muerte no fue depender de su naturaleza divina para soportar el dolor o sufrimiento y humillación por el cual paso.
+
+##### Si bien el podía incluso defenderse con su autoridad, no quito su confianza en el plan de Dios que ya estaba predeterminado Mateo26:53-54
 
 ### Filipenses 2:9 
 
 Por lo cual Dios también lo exaltó hasta lo sumo, y le confirió el nombre que es sobre todo nombre,
 
-#### Por lo cual Dios 
+#### Por lo cual Dios
 
-#### también lo exaltó hasta lo sumo, 
+##### Esto no termino ahí. Dios continuo obrando. 
 
-#### y le confirió el nombre 
+##### Isaías 53:11 *Debido a la angustia de Su alma, Él lo verá y quedará satisfecho. Por Su conocimiento, el Justo, Mi Siervo, justificará a muchos, Y cargará las iniquidades de ellos.*
 
-#### que es sobre todo nombre,
+##### Isaías 53:12 *Por tanto, Yo le daré parte con los grandes Y con los fuertes repartirá despojos, Porque derramó Su alma hasta la muerte Y con los transgresores fue contado; Llevó el pecado de muchos, E intercedió por los transgresores.* 
+
+#### también lo exaltó hasta lo sumo,
+
+##### Esto muestra una confianza en que Dios no estaba ajeno ni ausente a las circunstancias por las que Cristo paso.
+
+##### Isaías 52:12 *...Porque delante de ustedes irá el SEÑOR, Y su retaguardia será el Dios de Israel.*
+
+#### y le confirió el nombre que es sobre todo nombre,
+
+##### Cuando la antigua ciudad de Krenedis fue conquistada por el Rey Filipo, por ambición personal, la ciudad fue cambiada a Filipos en el honor que el mismo rey se confirió a si mismo por la fuerza.
+
+##### El gobierno Romano se auto proclamó por encima de la ciudad de Filipos, por la fuerza y la intimidad de su ejército.
+
+##### Ambos gobiernos pretendían ser gobiernos que dominaban todo el mundo, pero su dominio fue pasajero llegando a ser una ciudad en ruinas y toda gloria olvidada.     
+
+##### Satanás ofreció al Señor, estar sobre todo reino. 
+
+##### Pero el Señor eligió depender del plan de Dios, buscando el beneficio de los demás, no se vanaglorio para aceptar el honor engañoso y destructor que Satanás le ofreció. confío plenamente en el Padre. Mateo 4:8:11
+
+##### El obrar de Dios de conferir un nombre que es sobre todo nombre, no fue logrado por la fuerza, o por la propia autoproclamación de gloria. 
+
+##### Cristo ha sido puesto sobre nombre por Dios mismo. (la máxima autoridad que existe en toda la creación) sobre toda autoridad, sobre todo dominio y sobre toda potestad. Mateo 28:18
 
 ### Filipenses 2:10
 
 para que al nombre de Jesús SE DOBLE TODA RODILLA de los que están en el cielo, y en la tierra, y debajo de la tierra,
 
-#### para que al nombre de Jesús 
+#### para que al nombre de Jesús SE DOBLE TODA RODILLA 
 
-#### SE DOBLE TODA RODILLA 
+##### En aquella época doblar rodillas era impuesto por la fuerza.
 
-#### de los que están en el cielo, 
+##### Pero el siervo que se hizo semejante a los hombres en debilidad y dependencia del Padre, Dios le otorgo que en su nombre un día toda rodilla doblará, por la obra que hizo. Romanos 14:9
 
-#### y en la tierra, 
+##### Jesús IESUS es una transliteración del nombre hebreo. «Josué», significando «Jehová es salvación» Efesios 3:20-21
+
+#### de los que están en el cielo,
+
+##### Colosenses 2:15 *Y habiendo despojado a los poderes y autoridades, hizo de ellos un espectáculo público, triunfando sobre ellos por medio de Él.* 
+
+##### 1Pedro 3:22 *quien está a la diestra de Dios, habiendo subido al cielo después de que le habían sido sometidos ángeles, autoridades y potestades.*
+
+##### Apocalipsis 7:11-12 *Todos los ángeles estaban de pie alrededor del trono y alrededor de los ancianos y de los cuatro seres vivientes. Estos cayeron sobre sus rostros delante del trono y adoraron a Dios, diciendo: «¡Amén! La bendición, la gloria, la sabiduría, la acción de gracias, el honor, el poder y la fortaleza, sean a nuestro Dios por los siglos de los siglos. Amén».*
+
+#### y en la tierra,
+
+Romanos 14:11 *Porque está escrito: «VIVO YO, DICE EL SEÑOR, QUE ANTE MÍ SE DOBLARÁ TODA RODILLA, Y TODA LENGUA ALABARÁ A DIOS».*
+
+Apocalipsis 7:9 *Después de esto miré, y vi una gran multitud, que nadie podía contar, de todas las naciones, tribus, pueblos, y lenguas, de pie delante del trono y delante del Cordero, vestidos con vestiduras blancas y con palmas en las manos. Clamaban a gran voz: «La salvación pertenece a nuestro Dios que está sentado en el trono, y al Cordero».*
 
 #### y debajo de la tierra,
+
+##### Debajo de la tierra puede referirse a quienes actualmente se encuentran enterrados, o muertos. Apocalipsis 20:12-14
 
 ### Filipenses 2:11
 
 y toda lengua confiese que Jesucristo es Señor, para gloria de Dios Padre.
 
-#### y toda lengua confiese que Jesucristo es Señor, 
+#### y toda lengua confiese que Jesucristo es Señor,
+
+##### En la época del Señor Jesucristo, confesar que Él es Señor era prohibido y muchos eran expulsados y por temor callaban. Juan 9:22, 14:42
+
+##### Al tiempo en que Pablo escribió esta carta, de la misma manera confesar que Cristo es Señor era motivo de ser rechazado o perseguido. 
+
+##### En un futuro todos unánimes confesarán que Jesucristo es Señor.
 
 #### para gloria de Dios Padre.
+
+##### La mente de Cristo de depender de la sabiduría de Dios Padre,  tuvo un propósito final, la gloria de Dios Padre.
 
 ## Filipenses 2:12-18 Ocúpense en su salvación, como siempre han obedecido.
 
@@ -1218,9 +1436,11 @@ Probablemente esto suene completamente descabellado, y pareciera contrario a la 
 
 Así que, amados míos, tal como siempre han obedecido, no solo en mi presencia, sino ahora mucho más en mi ausencia, ocúpense en su salvación con temor y temblor.
 
-#### Así que, 
+#### Así que, amados míos,
 
-#### amados míos, 
+##### Después de mostrar cual fue la actitud que tuvo El Señor Jesucristo.
+
+##### Por esta causa
 
 #### tal como siempre han obedecido, 
 
@@ -2019,4 +2239,10 @@ La gracia del Señor Jesucristo sea con el espíritu de ustedes.
 [^5] https://www.greeknewsagenda.gr/philippi/#:~:text=Filipos:%20una%20%22peque%C3%B1a%20Roma%22,Macedonia%20%2D%20Agenda%20de%20noticias%20griegas
 
 [^6] Conciencia saludable
+
+[^7] Diccionario Enciclopédico Ibalpe A-L
+
+[^8] Diccionario Expositivo de Palabras del N.T. - W.E. Vine
+
+
 
