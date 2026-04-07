@@ -1438,85 +1438,212 @@ Así que, amados míos, tal como siempre han obedecido, no solo en mi presencia,
 
 #### Así que, amados míos,
 
-##### Después de mostrar cual fue la actitud que tuvo El Señor Jesucristo.
+##### El ejemplo de Jesús, fue que su obediencia estuvo basado en una dependencia constante del Padre, una dependencia en la que prefirió despojarse de todo en lo que podría confiar para poder llevar a cabo el plan de Dios, eligió depender en completa debilidad sabiendo y confiando que Dios llevaría a cabo el cumplimiento de su plan.
 
-##### Por esta causa
+##### Así que, es una conjunción que expresa un resultado o conclusión, en referencia a la obediencia de Cristo que esta basada en su actitud, su modo de pensar, en dependencia de Dios y no de sus atributos.
 
-#### tal como siempre han obedecido, 
+##### La forma en la que se acerca a ellos no es autoritativo, sino con amor.
 
-#### no solo en mi presencia, 
+##### Esto es bueno saber, ya que lo siguiente que les dirá no será por imposición autoritativa
 
-#### sino ahora mucho más en mi ausencia, 
+#### tal como siempre han obedecido,
 
-#### ocúpense en su salvación 
+##### Aquí hay una premisa para toda la sección hasta el verso 18, *tal como siempre obedecieron.* dirigido específicamente a los filipenses,
+
+##### Los filipenses siempre habían obedecido de la misma manera desde el principio y aun ahora se mantenían en un mismo evangelio, así debían mantenerse siempre. Filipenses 1:5
+
+##### También esta premisa podría ser aplicado para todo creyente que anda siempre de la misma manera que llego a ser obediente al Señor. Juan 3:36
+
+#### no solo en mi presencia, sino ahora mucho más en mi ausencia,
+
+##### Pero ahora que Pablo se encontraba ausente ellos debían prestar mayor atención, estando firmes y unánimes en la fe del evangelio. Filipenses 1:27
+
+#### ocúpense en su salvación
+
+##### Dice ocúpense "en" (que pertenece) su salvación, no dice ocúpense "de" (obtener) su salvación.
+
+##### Es importante hacer esa diferencia. porque el verbo esta en tiempo, presente imperativo voz media pasiva deponente,
+
+##### Este imperativo en voz media pasiva, significa que haz sido beneficiado con la salvación, pero el deponente tiene un sentido activo. lo que llegaría a significar es que, ejerzas aquello por lo que haz sido beneficiado, que vivas de lo que te ha sido dado.
+
+##### Lo que quiere decir es: 
+
+- ya haz sido declarado justo, vive como justo.   
+- ya haz sido santificado, vive siendo santificado.      
+- ya haz sido liberado del pecado, vive siendo libre. 
+- ya tienes todas las bendiciones espirituales, vive disfrutando las bendiciones espirituales.
+
+##### Muy diferente a decir, vivan para intentar alcanzarlo, para que tengan algo que los defina ante los demás, demostrando que son salvos. lo cual estaría errado.
+
+##### Ocúpense en su salvación no significa luchen contra el pecado, en esta carta el pecado esta ausente.
+
+##### Aunque habla de confianza en la carne: contiendas, rivalidades, murmuraciones y discusiones, malos obreros, vanaglorias lo hace en referencia a que el amor no se ve de esa manera.
+
+##### Es notorio en contrastes bien definidos, un actuar en conocimiento verdadero y un actuar en beneficio propio.
 
 #### con temor y temblor.
+
+##### Ocúpense en su salvación solo es posible, así como siempre han obedecido, de esa manera pueden ocuparse de su salvación.
+
+##### Con temor y temblor a Dios y no atemorizados de los que se oponen. Hechos 4:19
 
 ### Filipenses 2:13
 
 Porque Dios es quien obra en ustedes tanto el querer como el hacer, para Su buena intención.
 
-#### Porque Dios es quien obra en ustedes 
+#### Porque Dios es quien obra en ustedes
 
-#### tanto el querer 
+##### Aquí hay una segunda premisa que no esta separada de la primera.
 
-#### como el hacer, 
+##### Dios obra de manera activa 
+
+##### La Palabra *es* EIMI, es un verbo presente activo indicativo, se significa, que sin ninguna duda Dios *esta*. 
+
+##### Obra ENERGEO *operando* presente activo participio, que significa que Dios se caracteriza por estar obrando.
+
+##### Dios esta de manera activa obrando en los creyentes de Filipenses *Ustedes*
+
+##### Esto se debe aclarar, en el sentido de que como siempre se han mantenido en un solo evangelio, Dios esta obrando en ellos en su andar.
+
+##### Esto es algo que esta alcanza de todo creyente que se ocupa en su salvación, viviendo en su realidad.
+
+#### tanto el querer como el hacer,
+
+##### El querer y el hacer es la provisión de Dios para el creyente que esta caminando por la fe.
+
+##### La provisión de Dios, no solo se queda producir un querer (promesa), sino que su provisión va más allá, produce  hacer, (ejecutarlo o realizarlo).
+
+##### Por ejemplo:
+
+- Dios prometió a Adán un salvador, lo llevo acabo haciéndose semejante a los hombre y el salvador murió en una cruz quien resucito al tercer día.
+- Pablo tenia el *querer* de estar con los filipenses, y estaba seguro que Dios proveería el *hacer* Filipenses 2:24
+- Así como la salvación obtenida no queda en títulos (justo, santo, bendito...), sino su obrar está en la provisión de que puedas vivirlo.
 
 #### para Su buena intención.
+
+##### Dios obra el querer y el hacer en el creyente de la manera que a el le agrada, para sus planes y propósitos que son perfectos. Salmo 18:30
+
+##### La biblia (PDT) traduce *Él despierta en ustedes el deseo de hacer lo que a él le agrada y les da el poder para hacerlo.* 
+
+##### Dios esta obrando para su buena intención, no esta obrando con malas intenciones. 
 
 ### Filipenses 2:14
 
 Hagan todas las cosas sin murmuraciones ni discusiones,
 
-#### Hagan todas las cosas 
+#### Hagan todas las cosas
 
-#### sin murmuraciones 
+##### Como Dios esta obrando poderosamente en ellos, pasa a darles otro imperativo.
 
-#### ni discusiones,
+##### Anteriormente les dijo que no hagan nada. absolutamente nada por contienda ni por vanagloria. Filipenses 2:3
+
+##### Ahora les dice que todas la cosas que hagan, completamente todo, sin excepciones.
+
+##### Esto puede ser:
+
+- Predicar el evangelio
+- Actuar por amor
+- Ayudar a los demás
+- y completamente todo, absolutamente todo ya sea cotidiano o especial, su actitud debía ser en todo tiempo.
+
+#### sin murmuraciones ni discusiones,
+
+La forma en la que a Dios le agrada, el querer y hacer, es que se hagan todas las cosas sin murmuraciones ni discusiones.
+
+Murmuraciones significa, hablar de desagrado o quejas de otro, más bien en privado que en público
+
+Discusiones significa, Contender y alegar razones contra el parecer de otro. 
 
 ### Filipenses 2:15
 
 para que sean irreprensibles y sencillos, hijos de Dios sin tacha en medio de una generación torcida y perversa, en medio de la cual ustedes resplandecen como luminares en el mundo,
 
-#### para que sean irreprensibles y sencillos, 
+#### para que sean irreprensibles y sencillos, hijos de Dios sin tacha 
 
-#### hijos de Dios sin tacha 
+##### Haciendo todas las cosas sin murmuraciones ni discusiones, este es el resultado de ambas premisas.
 
-#### en medio de una generación torcida y perversa, 
+- Así como siempre han obedecido, ocúpense de su salvación.
+- Dios es el que obra en ustedes.
 
-#### en medio de la cual ustedes resplandecen 
+##### Irreprensibles, significa que no hay nada que criticar o reprochar, es perfecto en su comportamiento o acciones.
 
-#### como luminares en el mundo,
+##### Sencillo, es alguien humilde, sin pretensiones, que no busca llamar la atención ni presumir de nada. Es alguien auténtico y natural.
+
+##### Sin tacha, Es una expresión que se utiliza para describir a alguien que es impecable en su comportamiento o acciones.
+
+##### Y al ser identificados por todas estas cualidades, se pueda evidenciar hacia los demás como hijos de Dios.
+
+#### en medio de una generación torcida y perversa,
+
+##### En este pasaje hay un claro contraste.
+
+##### Colosenses 1:21-23 *Y aunque ustedes antes estaban alejados y eran de ánimo hostil, ocupados en malas obras,  sin embargo, ahora Dios los ha reconciliado en Cristo en Su cuerpo de carne, mediante Su muerte, a fin de presentarlos santos, sin mancha e irreprensibles delante de Él. Esto Él hará si en verdad permanecen en la fe bien cimentados y constantes, sin moverse de la esperanza del evangelio que han oído, que fue proclamado a toda la creación debajo del cielo, y del cual yo, Pablo, fui hecho ministro.*
+
+##### Aquella generación torcida y perversa es aquella que anda en independencia de Dios.
+
+##### El obrar de Dios en cada creyente no es con el fin de ser contencioso a esta generación.
+
+##### Tiene el propósito de que ellos puedan evidenciar una clara diferencia de andar independiente de Dios a caminar dependiendo en todo de Dios.
+
+#### en medio de la cual ustedes resplandecen como luminares en el mundo,
+
+##### Nuevamente este pasaje dirigido a los filipenses, en su andar ellos resplandecen como luminares en el mundo.
+
+##### Todo creyente tiene la posición de ser luz del mundo. Mateo 5:14
+
+##### Pero el andar de cada creyente varia según su confianza y dependencia. Mateo 5:15-16
 
 ### Filipenses 2:16
 
 sosteniendo firmemente la palabra de vida, a fin de que yo tenga motivo para gloriarme en el día de Cristo, ya que no habré corrido en vano ni habré trabajado en vano.
 
-#### sosteniendo firmemente la palabra de vida, 
+#### sosteniendo firmemente la palabra de vida,
 
-#### a fin de que yo tenga motivo para gloriarme en el día de Cristo, 
+##### La manera en la que son luminares en el mundo, es sosteniendo firmemente la palabra de vida.
 
-#### ya que no habré corrido en vano 
+##### Contrario a sostener firmemente murmuraciones, o discusiones, o sostener una vanagloria, lo que hace que brillen es la unanimidad en la fe del evangelio, que es la palabra de vida. 
 
-#### ni habré trabajado en vano.
+#### a fin de que yo tenga motivo para gloriarme en el día de Cristo,
+
+##### Que ellos sostengan firme el evangelio, sería el motivo por el cual Pablo se gloriaría
+
+##### Y no al contrario, *fueron mis palabras, yo dije todas esas cosas excelentes, por eso me doy gloria* eso sería una vanagloria.
+
+#### ya que no habré corrido en vano ni habré trabajado en vano.
+
+##### Cuando Pablo vea a los filipenses llenos del fruto de Justicia en el día de Cristo, se sentirá muy orgullo y feliz, porque su trabajo no fue en vano. 2Corintios 6:4-6
+
+##### En aquel día vera creyentes siendo coronados y premiados por su andar por fe que es para gloria de Dios.  Hebreos 10:32-34 
 
 ### Filipenses 2:17
 
 Pero aunque yo sea derramado como libación sobre el sacrificio y servicio de su fe, me regocijo y comparto mi gozo con todos ustedes.
 
-#### Pero aunque yo sea derramado como libación 
+#### Pero aunque yo sea derramado como libación
 
-#### sobre el sacrificio y servicio de su fe, 
+##### Derramado como libación significa de manera grafica que aunque su vida termine derramando sangre.
+
+#### sobre el sacrificio y servicio de su fe,
+
+##### Pablo había presentado su mismo cuerpo como sacrificio a Dios, para el servicio del todo lo que conlleva el mensaje de la fe. Romanos 12:1 
 
 #### me regocijo y comparto mi gozo con todos ustedes.
+
+##### Estaba feliz de que sea que viva o que muera Cristo seria glorificado en su cuerpo. Filipenses 1:20
 
 ### Filipenses 2:18
 
 Y también ustedes, les ruego, regocíjense de la misma manera, y compartan su gozo conmigo.
 
-#### Y también ustedes, les ruego, regocíjense de la misma manera, 
+##### Esta sección termina con 2 imperativos
+
+#### Y también ustedes, les ruego, regocíjense de la misma manera,
+
+##### Primer imperativo, Regocíjense de la misma manera, sabiendo que ellos también podían gozarse de ver a otros hermanos confiando en el Señor.
 
 #### y compartan su gozo conmigo.
+
+Segundo imperativo, compartan su gozo, Pablo quería escuchar que estaban gozosos porque Dios estaba obrando en ellos. Filipenses 2:2
 
 # Filipenses 2:19-30 Sincero interés por el bienestar de ustedes
 
