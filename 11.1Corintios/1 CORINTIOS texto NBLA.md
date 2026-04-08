@@ -102,57 +102,353 @@
 
 #### para que la fe de ustedes no descanse en la sabiduría de los hombres, sino en el poder de Dios.
 
-Sin embargo, hablamos sabiduría entre los que han alcanzado madurez; pero una sabiduría no de este siglo, ni de los gobernantes de este siglo, que van desapareciendo, sino que hablamos sabiduría de Dios en misterio, la *sabiduría* oculta que, desde antes de los siglos, Dios predestinó para nuestra gloria. *Esta sabiduría* que ninguno de los gobernantes de este siglo ha entendido, porque si la hubieran entendido no habrían crucificado al Señor de gloria; sino como está escrito:
+#### Sin embargo, hablamos sabiduría entre los que han alcanzado madurez; pero una sabiduría no de este siglo, ni de los gobernantes de este siglo, que van desapareciendo, 
 
-«Cosas que ojo no vio, ni oído oyó,
+#### sino que hablamos sabiduría de Dios en misterio, 
 
-Ni han entrado al corazón del hombre,
+#### la *sabiduría* oculta que, desde antes de los siglos, Dios predestinó para nuestra gloria. 
 
-*Son* las cosas que Dios ha preparado para los que lo aman».
+#### *Esta sabiduría* que ninguno de los gobernantes de este siglo ha entendido, 
 
-Pero Dios nos *las* reveló por medio del Espíritu, porque el Espíritu todo lo escudriña, aun las profundidades de Dios. Porque entre los hombres, ¿quién conoce los *pensamientos* de un hombre, sino el espíritu del hombre que está en él? Asimismo, nadie conoce los *pensamientos* de Dios, sino el Espíritu de Dios. Y nosotros hemos recibido, no el espíritu del mundo, sino el Espíritu que viene de Dios, para que conozcamos lo que Dios nos ha dado gratuitamente, de lo cual también hablamos, no con palabras enseñadas por sabiduría humana, sino con las enseñadas por el Espíritu, combinando *pensamientos* espirituales con *palabras* espirituales.
+#### porque si la hubieran entendido 
 
-Pero el hombre natural no acepta las cosas del Espíritu de Dios, porque para él son necedad; y no las puede entender, porque *son cosas que* se disciernen espiritualmente. En cambio, el que es espiritual juzga todas las cosas; pero él no es juzgado por nadie. Porque ¿quién ha conocido la mente del Señor, para que lo instruya? Pero nosotros tenemos la mente de Cristo.
+#### no habrían crucificado al Señor de gloria; 
 
-Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo. Les di a beber leche, no alimento sólido, porque todavía no podían *recibirlo*. En verdad, ni aun ahora pueden, porque todavía son carnales. Pues habiendo celos y discusiones entre ustedes, ¿no son carnales y andan como hombres *del mundo?* Porque cuando uno dice: «Yo soy de Pablo», y otro: «Yo soy de Apolos», ¿no son *como* hombres *del mundo?* ¿Qué es, pues, Apolos? ¿Y qué es Pablo? Servidores mediante los cuales ustedes han creído, según el Señor dio *oportunidad* a cada uno. Yo planté, Apolos regó, pero Dios ha dado el crecimiento. Así que ni el que planta ni el que riega es algo, sino Dios, que da el crecimiento. Ahora bien, el que planta y el que riega son una misma cosa, pero cada uno recibirá su propia recompensa conforme a su propio trabajo. Porque nosotros somos colaboradores en la labor de Dios, *y* ustedes son el campo de cultivo de Dios, el edificio de Dios.
+#### sino como está escrito:
 
-Conforme a la gracia de Dios que me fue dada, yo, como sabio arquitecto, puse el fundamento, y otro edifica sobre él. Pero cada uno tenga cuidado cómo edifica encima. Pues nadie puede poner otro fundamento que el que ya está puesto, el cual es Jesucristo. Ahora bien, si sobre *este* fundamento alguien edifica con oro, plata, piedras preciosas, madera, heno, paja, la obra de cada uno se hará evidente; porque el día la dará a conocer, pues con fuego *será* revelada. El fuego mismo probará la calidad de la obra de cada uno. Si permanece la obra de alguien que ha edificado sobre *el fundamento,* recibirá recompensa. Si la obra de alguien es consumida *por el fuego,* sufrirá pérdida; sin embargo, él será salvo, aunque así como a través del fuego.
+#### «Cosas que ojo no vio, ni oído oyó, Ni han entrado al corazón del hombre,
 
-¿No saben que ustedes son templo de Dios y que el Espíritu de Dios habita en ustedes? Si alguno destruye el templo de Dios, Dios lo destruirá a él, porque el templo de Dios es santo, y eso es lo que ustedes son.
+#### *Son* las cosas que Dios ha preparado para los que lo aman».
 
-Nadie se engañe a sí mismo. Si alguien de ustedes se cree sabio según este mundo, hágase necio a fin de llegar a ser sabio. Porque la sabiduría de este mundo es necedad ante Dios. Pues escrito está: *«Él es* el que prende a los sabios en su *propia* astucia». Y también: «El Señor conoce los razonamientos de los sabios, los cuales son inútiles». Así que nadie se jacte en los hombres, porque todo es de ustedes: ya sea Pablo, o Apolos, o Cefas, o el mundo, o la vida, o la muerte, o lo presente, o lo por venir, todo es suyo, y ustedes de Cristo, y Cristo de Dios.
+#### Pero Dios nos *las* reveló por medio del Espíritu, 
 
-Que *todo* hombre nos considere de esta manera: como servidores de Cristo y administradores de los misterios de Dios. Ahora bien, lo que se requiere además de los administradores es que *cada* uno sea hallado fiel. En cuanto a mí, es de poca importancia que yo sea juzgado por ustedes o por *cualquier* tribunal humano. De hecho, ni aun yo me juzgo a mí mismo. Porque no estoy consciente de nada en contra mía. Pero no por eso estoy sin culpa, pues el que me juzga es el Señor. Por tanto, no juzguen antes de tiempo, *sino esperen* hasta que el Señor venga, el cual sacará a la luz las cosas ocultas en las tinieblas y también pondrá de manifiesto los designios de los corazones. Entonces cada uno recibirá de parte de Dios la alabanza que le corresponda.
+#### porque el Espíritu todo lo escudriña, aun las profundidades de Dios. 
 
-Esto, hermanos, lo he aplicado en sentido figurado a mí mismo y a Apolos por amor a ustedes, para que en nosotros aprendan a no sobrepasar lo que está escrito, para que ninguno de ustedes se vuelva arrogante a favor del uno contra el otro. Porque ¿quién te distingue? ¿Qué tienes que no recibiste? Y si lo recibiste, ¿por qué te jactas como si no lo hubieras recibido? Ya están saciados, ya se han hecho ricos, *ya* han llegado a reinar sin *necesidad de* nosotros. Ojalá hubieran llegado a reinar, para que nosotros reináramos también con ustedes. Porque pienso que Dios nos ha exhibido a nosotros los apóstoles en último lugar, como a sentenciados a muerte. Porque hemos llegado a ser un espectáculo para el mundo, tanto para los ángeles como para los hombres.
+#### Porque entre los hombres, ¿quién conoce los *pensamientos* de un hombre, sino el espíritu del hombre que está en él? 
 
-Nosotros somos necios por amor de Cristo, pero ustedes, prudentes en Cristo. Nosotros somos débiles, pero ustedes, fuertes. Ustedes son distinguidos, pero nosotros, sin honra. Hasta el momento presente pasamos hambre y sed, andamos mal vestidos, somos maltratados y no tenemos dónde vivir. Nos agotamos trabajando con nuestras propias manos. Cuando nos ultrajan, bendecimos. Cuando somos perseguidos, lo soportamos. Cuando hablan mal de nosotros, tratamos de reconciliar. Hemos llegado a ser, hasta ahora, la basura del mundo, el desecho de todo.
+#### Asimismo, nadie conoce los *pensamientos* de Dios, sino el Espíritu de Dios. 
 
-No les escribo esto para avergonzarlos, sino para amonestarlos como a hijos míos amados. Porque aunque ustedes tengan innumerables maestros en Cristo, sin embargo no *tienen* muchos padres; pues en Cristo Jesús yo los engendré por medio del evangelio. Por tanto, los exhorto: sean imitadores míos.
+#### Y nosotros hemos recibido, no el espíritu del mundo, sino el Espíritu que viene de Dios, 
 
-Por esta razón les he enviado a Timoteo, que es mi hijo amado y fiel en el Señor. Él les recordará mis caminos, los *caminos* en Cristo, tal como yo enseño en todas partes, en cada iglesia. Algunos de ustedes se han vuelto arrogantes, como si yo no hubiera de ir a verlos. Pero iré a verlos pronto, si el Señor quiere, y conoceré, no las palabras de los arrogantes sino el poder que tienen. Porque el reino de Dios no *consiste* en palabras, sino en poder. ¿Qué quieren? ¿Iré a ustedes con vara, o con amor y espíritu de mansedumbre?
+#### para que conozcamos lo que Dios nos ha dado gratuitamente, 
 
-En efecto, se oye que entre ustedes hay inmoralidad, y una inmoralidad tal como no existe ni siquiera entre los gentiles, al extremo de que alguien tiene la mujer de su padre. ¡Y ustedes se han vuelto arrogantes en lugar de haberse entristecido, para que el que de entre ustedes ha cometido esta acción fuera expulsado de en medio de ustedes!
+#### de lo cual también hablamos, no con palabras enseñadas por sabiduría humana, sino con las enseñadas por el Espíritu, combinando *pensamientos* espirituales con *palabras* espirituales.
 
-Pues yo, por mi parte, aunque ausente en cuerpo pero presente en espíritu, como si estuviera presente, ya he juzgado al que cometió tal *acción.* En el nombre de nuestro Señor Jesús, cuando estén reunidos, y yo con ustedes en espíritu, con el poder de nuestro Señor Jesús, entreguen a ese tal a Satanás para la destrucción de su carne, a fin de que su espíritu sea salvo en el día del Señor Jesús.
+#### Pero el hombre natural no acepta las cosas del Espíritu de Dios, 
 
-La jactancia de ustedes no es buena. ¿No saben que un poco de levadura fermenta toda *la masa*? Limpien la levadura vieja para que sean masa nueva, así como *lo* son *en realidad* sin levadura. Porque aun Cristo, nuestra Pascua, ha sido sacrificado. Por tanto, celebremos la fiesta no con la levadura vieja, ni con la levadura de malicia y maldad, sino con panes sin levadura de sinceridad y de verdad.
+#### porque para él son necedad; 
 
-En mi carta les escribí que no anduvieran en compañía de personas inmorales. No *me refería a* la gente inmoral de este mundo, o a los codiciosos y estafadores, o a los idólatras, porque entonces tendrían ustedes que salirse del mundo. Sino que en efecto les escribí que no anduvieran en compañía de ninguno que, llamándose hermano, es una persona inmoral, o avaro, o idólatra, o difamador, o borracho, o estafador. Con esa persona, ni siquiera coman.
+#### y no las puede entender, 
 
-Pues ¿por qué he de juzgar yo a los de afuera? ¿No juzgan ustedes a los que están dentro *de la iglesia*? Pero Dios juzga a los que están fuera. Expulsen al malvado de entre ustedes.
+#### porque *son cosas que* se disciernen espiritualmente. 
 
-¿Se atreve alguno de ustedes, cuando tiene algo contra su prójimo, a ir a juicio ante los incrédulos y no ante los santos? ¿O no saben que los santos han de juzgar al mundo? Y si el mundo es juzgado por ustedes, ¿no son competentes para *juzgar* los casos más sencillos? ¿No saben que hemos de juzgar a los ángeles? ¡Cuánto más asuntos de esta vida! Entonces, si tienen tribunales que juzgan los casos de esta vida, ¿*por qué* ponen por jueces a los que nada son en la iglesia? Para vergüenza suya *lo* digo. ¿*Acaso* no hay entre ustedes algún hombre sabio que pueda juzgar entre sus hermanos, sino que hermano contra hermano litiga, y esto ante incrédulos?
+#### En cambio, el que es espiritual juzga todas las cosas; 
 
-Así que, en efecto, es ya un fallo entre ustedes el hecho de que tengan litigios entre sí. ¿Por qué no sufren mejor la injusticia? ¿Por qué no ser mejor defraudados? Por el contrario, ustedes mismos cometen injusticias y defraudan, y esto aun a *sus propios* hermanos.
+#### pero él no es juzgado por nadie. 
 
-¿O no saben que los injustos no heredarán el reino de Dios? No se dejen engañar: ni los inmorales, ni los idólatras, ni los adúlteros, ni los afeminados, ni los homosexuales, ni los ladrones, ni los avaros, ni los borrachos, ni los difamadores, ni los estafadores heredarán el reino de Dios. Y esto eran algunos de ustedes; pero fueron lavados, pero fueron santificados, pero fueron justificados en el nombre del Señor Jesucristo y en el Espíritu de nuestro Dios.
+#### Porque ¿quién ha conocido la mente del Señor, 
 
-Todas las cosas me son lícitas, pero no todas son de provecho. Todas las cosas me son lícitas, pero yo no me dejaré dominar por ninguna. Los alimentos son para el estómago y el estómago para los alimentos, pero Dios destruirá a los dos. Sin embargo, el cuerpo no es para la fornicación, sino para el Señor, y el Señor es para el cuerpo. Y Dios, que resucitó al Señor, también nos resucitará a nosotros mediante Su poder.
+#### para que lo instruya? 
 
-¿No saben que sus cuerpos son miembros de Cristo? ¿Tomaré, acaso, los miembros de Cristo y los haré miembros de una ramera? ¡De ningún modo! ¿O no saben que el que se une a una ramera es un cuerpo *con ella?* Porque Él dice: «Los dos vendrán a ser una sola carne». Pero el que se une al Señor, es un espíritu *con Él*.
+#### Pero nosotros tenemos la mente de Cristo.
 
-Huyan de la fornicación. Todos *los demás* pecados que un hombre comete están fuera del cuerpo, pero el fornicario peca contra su propio cuerpo. ¿O no saben que su cuerpo es templo del Espíritu Santo que está en ustedes, el cual tienen de Dios, y que ustedes no se pertenecen a sí mismos? Porque han sido comprados por un precio. Por tanto, glorifiquen a Dios en su cuerpo y en su espíritu, los cuales son de Dios.
+#### Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo. 
+
+#### Les di a beber leche, no alimento sólido, 
+
+#### porque todavía no podían *recibirlo*. 
+
+#### En verdad, ni aun ahora pueden, 
+
+#### porque todavía son carnales. 
+
+#### Pues habiendo celos y discusiones entre ustedes, 
+
+#### ¿no son carnales y andan como hombres *del mundo?* 
+
+#### Porque cuando uno dice: «Yo soy de Pablo», y otro: «Yo soy de Apolos», 
+
+#### ¿no son *como* hombres *del mundo?* 
+
+#### ¿Qué es, pues, Apolos? ¿Y qué es Pablo? 
+
+#### Servidores mediante los cuales ustedes han creído, 
+
+#### según el Señor dio *oportunidad* a cada uno. 
+
+#### Yo planté, 
+
+#### Apolos regó, 
+
+#### pero Dios ha dado el crecimiento. 
+
+#### Así que ni el que planta ni el que riega es algo, sino Dios, que da el crecimiento. 
+
+#### Ahora bien, el que planta y el que riega son una misma cosa, 
+
+#### pero cada uno recibirá su propia recompensa conforme a su propio trabajo. 
+
+#### Porque nosotros somos colaboradores en la labor de Dios, *y* ustedes son el campo de cultivo de Dios, el edificio de Dios.
+
+#### Conforme a la gracia de Dios que me fue dada, yo, como sabio arquitecto, puse el fundamento, 
+
+#### y otro edifica sobre él. 
+
+#### Pero cada uno tenga cuidado cómo edifica encima. 
+
+#### Pues nadie puede poner otro fundamento que el que ya está puesto, 
+
+#### el cual es Jesucristo. 
+
+#### Ahora bien, si sobre *este* fundamento alguien edifica con oro, plata, piedras preciosas, madera, heno, paja, 
+
+#### la obra de cada uno se hará evidente; 
+
+#### porque el día la dará a conocer, pues con fuego *será* revelada. 
+
+#### El fuego mismo probará la calidad de la obra de cada uno. 
+
+#### Si permanece la obra 
+
+#### de alguien que ha edificado sobre *el fundamento,* 
+
+#### recibirá recompensa. 
+
+#### Si la obra de alguien es consumida *por el fuego,* 
+
+#### sufrirá pérdida; 
+
+#### sin embargo, él será salvo, aunque así como a través del fuego.
+
+#### ¿No saben que ustedes son templo de Dios 
+
+#### y que el Espíritu de Dios habita en ustedes? 
+
+#### Si alguno destruye el templo de Dios, 
+
+#### Dios lo destruirá a él, 
+
+#### porque el templo de Dios es santo, 
+
+#### y eso es lo que ustedes son.
+
+#### Nadie se engañe a sí mismo. 
+
+#### Si alguien de ustedes se cree sabio según este mundo, 
+
+#### hágase necio a fin de llegar a ser sabio. 
+
+#### Porque la sabiduría de este mundo es necedad ante Dios. 
+
+#### Pues escrito está: *«Él es* el que prende a los sabios en su *propia* astucia». 
+
+#### Y también: «El Señor conoce los razonamientos de los sabios, los cuales son inútiles». 
+
+#### Así que nadie se jacte en los hombres, 
+
+#### porque todo es de ustedes: 
+
+#### ya sea Pablo, o Apolos, o Cefas, o el mundo, o la vida, o la muerte, o lo presente, o lo por venir, todo es suyo, y ustedes de Cristo, y Cristo de Dios.
+
+#### Que *todo* hombre nos considere de esta manera: como servidores de Cristo y administradores de los misterios de Dios. 
+
+#### Ahora bien, lo que se requiere además de los administradores
+
+#### es que *cada* uno sea hallado fiel. 
+
+#### En cuanto a mí, es de poca importancia que yo sea juzgado por ustedes o por *cualquier* tribunal humano. 
+
+#### De hecho, ni aun yo me juzgo a mí mismo. 
+
+#### Porque no estoy consciente de nada en contra mía. 
+
+#### Pero no por eso estoy sin culpa, 
+
+#### pues el que me juzga es el Señor. 
+
+#### Por tanto, no juzguen antes de tiempo, 
+
+#### *sino esperen* hasta que el Señor venga, 
+
+#### el cual sacará a la luz las cosas ocultas en las tinieblas 
+
+#### y también pondrá de manifiesto los designios de los corazones. 
+
+#### Entonces cada uno recibirá de parte de Dios la alabanza que le corresponda.
+
+#### Esto, hermanos, lo he aplicado en sentido figurado a mí mismo y a Apolos por amor a ustedes, 
+
+#### para que en nosotros aprendan a no sobrepasar lo que está escrito, 
+
+#### para que ninguno de ustedes se vuelva arrogante a favor del uno contra el otro. 
+
+#### Porque ¿quién te distingue? 
+
+#### ¿Qué tienes que no recibiste? 
+
+#### Y si lo recibiste, ¿por qué te jactas como si no lo hubieras recibido? 
+
+#### Ya están saciados, ya se han hecho ricos, *ya* han llegado a reinar sin *necesidad de* nosotros. 
+
+#### Ojalá hubieran llegado a reinar, 
+
+#### para que nosotros reináramos también con ustedes. 
+
+#### Porque pienso que Dios nos ha exhibido a nosotros los apóstoles en último lugar, como a sentenciados a muerte. 
+
+#### Porque hemos llegado a ser un espectáculo para el mundo, tanto para los ángeles como para los hombres.
+
+#### Nosotros somos necios por amor de Cristo, pero ustedes, prudentes en Cristo. Nosotros somos débiles, pero ustedes, fuertes. Ustedes son distinguidos, pero nosotros, sin honra. 
+
+#### Hasta el momento presente pasamos hambre y sed, andamos mal vestidos, somos maltratados y no tenemos dónde vivir. 
+
+#### Nos agotamos trabajando con nuestras propias manos. 
+
+#### Cuando nos ultrajan, bendecimos. Cuando somos perseguidos, lo soportamos. Cuando hablan mal de nosotros, tratamos de reconciliar. 
+
+#### Hemos llegado a ser, hasta ahora, la basura del mundo, el desecho de todo.
+
+#### No les escribo esto para avergonzarlos, sino para amonestarlos como a hijos míos amados. 
+
+#### Porque aunque ustedes tengan innumerables maestros en Cristo, sin embargo no *tienen* muchos padres; 
+
+#### pues en Cristo Jesús yo los engendré por medio del evangelio. 
+
+#### Por tanto, los exhorto: sean imitadores míos.
+
+#### Por esta razón les he enviado a Timoteo, que es mi hijo amado y fiel en el Señor. 
+
+#### Él les recordará mis caminos, los *caminos* en Cristo, 
+
+#### tal como yo enseño en todas partes, en cada iglesia. 
+
+#### Algunos de ustedes se han vuelto arrogantes, como si yo no hubiera de ir a verlos. 
+
+#### Pero iré a verlos pronto, si el Señor quiere, 
+
+#### y conoceré, no las palabras de los arrogantes sino el poder que tienen. 
+
+#### Porque el reino de Dios no *consiste* en palabras, sino en poder. 
+
+#### ¿Qué quieren? ¿Iré a ustedes con vara, o con amor y espíritu de mansedumbre?
+
+#### En efecto, se oye que entre ustedes hay inmoralidad, y una inmoralidad tal como no existe ni siquiera entre los gentiles, al extremo de que alguien tiene la mujer de su padre. 
+
+#### ¡Y ustedes se han vuelto arrogantes 
+
+#### en lugar de haberse entristecido, 
+
+#### para que el que de entre ustedes ha cometido esta acción 
+
+#### fuera expulsado de en medio de ustedes!
+
+#### Pues yo, por mi parte, aunque ausente en cuerpo pero presente en espíritu, como si estuviera presente, ya he juzgado al que cometió tal *acción.* 
+
+#### En el nombre de nuestro Señor Jesús, cuando estén reunidos, y yo con ustedes en espíritu, con el poder de nuestro Señor Jesús, entreguen a ese tal a Satanás para la destrucción de su carne, a fin de que su espíritu sea salvo en el día del Señor Jesús.
+
+#### La jactancia de ustedes no es buena. 
+
+#### ¿No saben que un poco de levadura fermenta toda *la masa*? 
+
+#### Limpien la levadura vieja para que sean masa nueva, 
+
+#### así como *lo* son *en realidad* sin levadura. 
+
+#### Porque aun Cristo, nuestra Pascua, ha sido sacrificado. 
+
+#### Por tanto, celebremos la fiesta no con la levadura vieja, ni con la levadura de malicia y maldad, sino con panes sin levadura de sinceridad y de verdad.
+
+#### En mi carta les escribí que no anduvieran en compañía de personas inmorales. 
+
+#### No *me refería a* la gente inmoral de este mundo, o a los codiciosos y estafadores, o a los idólatras, porque entonces tendrían ustedes que salirse del mundo. 
+
+#### Sino que en efecto les escribí que no anduvieran en compañía de ninguno que, llamándose hermano, es una persona inmoral, o avaro, o idólatra, o difamador, o borracho, o estafador. Con esa persona, ni siquiera coman.
+
+#### Pues ¿por qué he de juzgar yo a los de afuera? ¿No juzgan ustedes a los que están dentro *de la iglesia*? 
+
+#### Pero Dios juzga a los que están fuera. 
+
+#### Expulsen al malvado de entre ustedes.
+
+#### ¿Se atreve alguno de ustedes, cuando tiene algo contra su prójimo, a ir a juicio ante los incrédulos y no ante los santos? 
+
+#### ¿O no saben que los santos han de juzgar al mundo? 
+
+#### Y si el mundo es juzgado por ustedes, ¿no son competentes para *juzgar* los casos más sencillos? 
+
+#### ¿No saben que hemos de juzgar a los ángeles? ¡Cuánto más asuntos de esta vida! 
+
+#### Entonces, si tienen tribunales que juzgan los casos de esta vida, 
+
+#### ¿*por qué* ponen por jueces a los que nada son en la iglesia? 
+
+#### Para vergüenza suya *lo* digo. 
+
+#### ¿*Acaso* no hay entre ustedes algún hombre sabio que pueda juzgar entre sus hermanos, 
+
+#### sino que hermano contra hermano litiga, y esto ante incrédulos?
+
+#### Así que, en efecto, es ya un fallo entre ustedes el hecho de que tengan litigios entre sí. 
+
+#### ¿Por qué no sufren mejor la injusticia? 
+
+#### ¿Por qué no ser mejor defraudados? 
+
+#### Por el contrario, ustedes mismos cometen injusticias y defraudan, y esto aun a *sus propios* hermanos.
+
+#### ¿O no saben que los injustos no heredarán el reino de Dios? 
+
+#### No se dejen engañar: 
+
+#### ni los inmorales, ni los idólatras, ni los adúlteros, ni los afeminados, ni los homosexuales, ni los ladrones, ni los avaros, ni los borrachos, ni los difamadores, ni los estafadores heredarán el reino de Dios. 
+
+#### Y esto eran algunos de ustedes; 
+
+#### pero fueron lavados, 
+
+#### pero fueron santificados, 
+
+#### pero fueron justificados 
+
+#### en el nombre del Señor Jesucristo y en el Espíritu de nuestro Dios.
+
+#### Todas las cosas me son lícitas, pero no todas son de provecho. 
+
+#### Todas las cosas me son lícitas, pero yo no me dejaré dominar por ninguna. 
+
+#### Los alimentos son para el estómago y el estómago para los alimentos, pero Dios destruirá a los dos. 
+
+#### Sin embargo, el cuerpo no es para la fornicación, sino para el Señor, y el Señor es para el cuerpo. 
+
+#### Y Dios, que resucitó al Señor, también nos resucitará a nosotros mediante Su poder.
+
+#### ¿No saben que sus cuerpos son miembros de Cristo? 
+
+#### ¿Tomaré, acaso, los miembros de Cristo y los haré miembros de una ramera? 
+
+#### ¡De ningún modo! 
+
+#### ¿O no saben que el que se une a una ramera es un cuerpo *con ella?* 
+
+#### Porque Él dice: «Los dos vendrán a ser una sola carne». 
+
+#### Pero el que se une al Señor, es un espíritu *con Él*.
+
+#### Huyan de la fornicación. 
+
+#### Todos *los demás* pecados que un hombre comete están fuera del cuerpo, 
+
+#### pero el fornicario peca contra su propio cuerpo. 
+
+#### ¿O no saben que su cuerpo es templo del Espíritu Santo que está en ustedes, 
+
+#### el cual tienen de Dios, 
+
+#### y que ustedes no se pertenecen a sí mismos? 
+
+#### Porque han sido comprados por un precio. 
+
+#### Por tanto, glorifiquen a Dios en su cuerpo y en su espíritu, los cuales son de Dios.
 
 En cuanto a las cosas de que me escribieron, bueno es para el hombre no tocar mujer. No obstante, por razón de las inmoralidades, que cada uno tenga su propia mujer, y cada una tenga su propio marido. Que el marido cumpla su deber para con su mujer, e igualmente la mujer *lo cumpla* con el marido. La mujer no tiene autoridad sobre su propio cuerpo, sino el marido. Y asimismo el marido no tiene autoridad sobre su propio cuerpo, sino la mujer.
 
