@@ -3,10 +3,6 @@
 
 Pablo, llamado a ser apóstol de Jesucristo, por la voluntad de Dios, y Sóstenes, nuestro hermano
 
-#### Pablo
-
-##### Pablo
-
 ### 1 Corintios 1:2
 
 a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cristo Jesús, llamados *a ser* santos, con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo, *Señor* de ellos y nuestro
@@ -43,17 +39,37 @@ Fiel es Dios , por medio de quien fueron llamados a la comunión con Su Hijo Jes
 
 Les ruego, hermanos, por el nombre de nuestro Señor Jesucristo, que todos se pongan de acuerdo, y que no haya divisiones entre ustedes, sino que estén enteramente unidos en un mismo sentir y en un mismo parecer.
 
+#### Les ruego, hermanos, por el nombre de nuestro Señor Jesucristo, que todos se pongan de acuerdo, 
+
+#### y que no haya divisiones entre ustedes, 
+
+#### sino que estén enteramente unidos en un mismo sentir y en un mismo parecer. 
+
 ### 1 Corintios 1:11
 
 Porque he sido informado acerca de ustedes, hermanos míos, por *los* de Cloé, que hay discusiones entre ustedes.
+
+#### Porque he sido informado acerca de ustedes, hermanos míos, por *los* de Cloé, 
+
+#### que hay discusiones entre ustedes. 
 
 ### 1 Corintios 1:12
 
 Me refiero a que cada uno de ustedes dice: «Yo soy de Pablo», otro: «yo de Apolos», otro: «yo de Cefas», y otro: «yo de Cristo».
 
+#### Me refiero a que cada uno de ustedes dice: 
+
+#### «Yo soy de Pablo», otro: «yo de Apolos», otro: «yo de Cefas», y otro: «yo de Cristo». 
+
 ### 1 Corintios 1:13
 
 ¿Está dividido Cristo? ¿Acaso fue Pablo crucificado por ustedes? ¿O fueron bautizados en el nombre de Pablo?
+
+#### ¿Está dividido Cristo? 
+
+#### ¿Acaso fue Pablo crucificado por ustedes? 
+
+#### ¿O fueron bautizados en el nombre de Pablo?
 
 ### 1 Corintios 1:14
 
@@ -71,25 +87,51 @@ También bauticé a los de la casa de Estéfanas; por lo demás, no sé si bauti
 
 Pues Cristo no me envió a bautizar, sino a predicar el evangelio, no con palabras elocuentes, para que no se haga vana la cruz de Cristo.
 
+#### Pues Cristo no me envió a bautizar, sino a predicar el evangelio
+
+#### no con palabras elocuentes, para que no se haga vana la cruz de Cristo.
+
 ### 1 Corintios 1:18
 
 Porque la palabra de la cruz es necedad para los que se pierden, pero para nosotros los salvos es poder de Dios
+
+#### Porque la palabra de la cruz es necedad para los que se pierden
+
+#### pero para nosotros los salvos es poder de Dios. 
 
 ### 1 Corintios 1:19
 
 Porque está escrito: «Destruiré la sabiduría de los sabios, Y el entendimiento de los inteligentes desecharé».
 
+#### Porque está escrito:
+
+#### «Destruiré la sabiduría de los sabios,
+
+#### Y el entendimiento de los inteligentes desecharé».
+
 ### 1 Corintios 1:20
 
 ¿Dónde está el sabio? ¿Dónde está el escriba? ¿Dónde está el que sabe discutir en este siglo? ¿No ha hecho Dios que la sabiduría de este mundo sea necedad?
+
+#### ¿Dónde está el sabio? ¿Dónde está el escriba? ¿Dónde está el que sabe discutir en este siglo? 
+
+#### ¿No ha hecho Dios que la sabiduría de este mundo sea necedad? 
 
 ### 1 Corintios 1:21
 
 Pues ya que en la sabiduría de Dios, el mundo no conoció a Dios por medio de *su propia* sabiduría, agradó a Dios mediante la necedad de la predicación salvar a los que creen.
 
+#### Pues ya que en la sabiduría de Dios, el mundo no conoció a Dios por medio de *su propia* sabiduría, 
+
+#### agradó a Dios mediante la necedad de la predicación salvar a los que creen. 
+
 ### 1 Corintios 1:22
 
 Porque en verdad los judíos piden señales y los griegos buscan sabiduría
+
+#### Porque en verdad los judíos piden señales 
+
+#### y los griegos buscan sabiduría
 
 ### 1 Corintios 1:23
 
@@ -111,6 +153,10 @@ Pues consideren, hermanos, su llamamiento. No hubo muchos sabios conforme a la c
 
 Sino que Dios ha escogido lo necio del mundo para avergonzar a los sabios; y Dios ha escogido lo débil del mundo para avergonzar a lo que es fuerte.
 
+#### Sino que Dios ha escogido lo necio del mundo para avergonzar a los sabios; 
+
+#### y Dios ha escogido lo débil del mundo para avergonzar a lo que es fuerte. 
+
 ### 1 Corintios 1:28
 
 También Dios ha escogido lo vil y despreciado del mundo: lo que no es, para anular lo que es
@@ -123,13 +169,25 @@ para que nadie se jacte delante de Dios.
 
 Pero por obra Suya están ustedes en Cristo Jesús, el cual se hizo para nosotros sabiduría de Dios, y justificación, santificación y redención
 
+#### Pero por obra Suya están ustedes en Cristo Jesús, 
+
+#### el cual se hizo para nosotros sabiduría de Dios, y justificación, santificación y redención, 
+
 ### 1 Corintios 1:31
 
 para que, tal como está escrito: «El que se gloría, que se gloríe en el Señor».
 
+#### para que, tal como está escrito: 
+
+#### «El que se gloría, que se gloríe en el Señor»
+
 ### 1 Corintios 2:1
 
 Por eso, cuando fui a ustedes, hermanos, proclamándoles el testimonio de Dios, no fui con superioridad de palabra o de sabiduría.
+
+#### Por eso, cuando fui a ustedes, hermanos, proclamándoles el testimonio de Dios, 
+
+#### no fui con superioridad de palabra o de sabiduría
 
 ### 1 Corintios 2:2
 
@@ -155,25 +213,53 @@ Sin embargo, hablamos sabiduría entre los que han alcanzado madurez; pero una s
 
 sino que hablamos sabiduría de Dios en misterio, la *sabiduría* oculta que, desde antes de los siglos, Dios predestinó para nuestra gloria.
 
+#### sino que hablamos sabiduría de Dios en misterio, 
+
+#### la *sabiduría* oculta que, desde antes de los siglos, Dios predestinó para nuestra gloria
+
 ### 1 Corintios 2:8
 
 *Esta sabiduría* que ninguno de los gobernantes de este siglo ha entendido, porque si la hubieran entendido no habrían crucificado al Señor de gloria
+
+#### *Esta sabiduría* que ninguno de los gobernantes de este siglo ha entendido
+
+#### porque si la hubieran entendido
+
+#### no habrían crucificado al Señor de gloria
 
 ### 1 Corintios 2:9
 
 sino como está escrito: «Cosas que ojo no vio, ni oído oyó, Ni han entrado al corazón del hombre, Son las cosas que Dios ha preparado para los que lo aman».
 
+#### sino como está escrito:
+
+#### «Cosas que ojo no vio, ni oído oyó, Ni han entrado al corazón del hombre,
+
+#### *Son* las cosas que Dios ha preparado para los que lo aman».
+
 ### 1 Corintios 2:10
 
 Pero Dios nos *las* reveló por medio del Espíritu, porque el Espíritu todo lo escudriña, aun las profundidades de Dios.
+
+#### Pero Dios nos *las* reveló por medio del Espíritu, 
+
+#### porque el Espíritu todo lo escudriña, aun las profundidades de Dios. 
 
 ### 1 Corintios 2:11
 
 Porque entre los hombres, ¿quién conoce los *pensamientos* de un hombre, sino el espíritu del hombre que está en él? Asimismo, nadie conoce los *pensamientos* de Dios, sino el Espíritu de Dios.
 
+#### Porque entre los hombres, ¿quién conoce los *pensamientos* de un hombre, sino el espíritu del hombre que está en él? 
+
+#### Asimismo, nadie conoce los *pensamientos* de Dios, sino el Espíritu de Dios
+
 ### 1 Corintios 2:12
 
 Y nosotros hemos recibido, no el espíritu del mundo, sino el Espíritu que viene de Dios , para que conozcamos lo que Dios nos ha dado gratuitamente
+
+#### Y nosotros hemos recibido, no el espíritu del mundo, sino el Espíritu que viene de Dios, 
+
+#### para que conozcamos lo que Dios nos ha dado gratuitamente
 
 ### 1 Corintios 2:13
 
@@ -183,13 +269,31 @@ de lo cual también hablamos, no con palabras enseñadas por sabiduría humana, 
 
 Pero el hombre natural no acepta las cosas del Espíritu de Dios, porque para él son necedad; y no las puede entender, porque *son cosas que* se disciernen espiritualmente
 
+#### Pero el hombre natural no acepta las cosas del Espíritu de Dios
+
+#### porque para él son necedad
+
+#### y no las puede entender
+
+#### porque *son cosas que* se disciernen espiritualmente
+
 ### 1 Corintios 2:15
 
 En cambio, el que es espiritual juzga todas las cosas; pero él no es juzgado por nadie.
 
+#### En cambio, el que es espiritual juzga todas las cosas
+
+#### pero él no es juzgado por nadie
+
 ### 1 Corintios 2:16
 
 Porque ¿quién ha conocido la mente del Señor, para que lo instruya? Pero nosotros tenemos la mente de Cristo.
+
+#### Porque ¿quién ha conocido la mente del Señor
+
+#### para que lo instruya?
+
+#### Pero nosotros tenemos la mente de Cristo
 
 ### 1 Corintios 3:1
 
@@ -199,21 +303,49 @@ Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnal
 
 Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden
 
+#### Les di a beber leche, no alimento sólido
+
+#### porque todavía no podían *recibirlo*
+
+#### En verdad, ni aun ahora pueden
+
 ### 1 Corintios 3:3
 
 porque todavía son carnales. Pues habiendo celos y discusiones entre ustedes, ¿no son carnales y andan como hombres*del mundo?*
+
+#### porque todavía son carnales
+
+#### Pues habiendo celos y discusiones entre ustedes
+
+#### ¿no son carnales y andan como hombres *del mundo?*
 
 ### 1 Corintios 3:4
 
 Porque cuando uno dice: «Yo soy de Pablo», y otro: «Yo soy de Apolos», ¿no son *como* hombres *del mundo?*
 
+#### Porque cuando uno dice: «Yo soy de Pablo», y otro: «Yo soy de Apolos»
+
+#### ¿no son *como* hombres *del mundo?*
+
 ### 1 Corintios 3:5
 
 ¿Qué es, pues, Apolos? ¿Y qué es Pablo? Servidores mediante los cuales ustedes han creído, según el Señor dio *oportunidad* a cada uno.
 
+#### ¿Qué es, pues, Apolos? ¿Y qué es Pablo?
+
+#### Servidores mediante los cuales ustedes han creído
+
+#### según el Señor dio *oportunidad* a cada uno.
+
 ### 1 Corintios 3:6
 
 Yo planté, Apolos regó, pero Dios ha dado el crecimiento.
+
+#### Yo planté
+
+#### Apolos regó
+
+#### pero Dios ha dado el crecimiento.
 
 ### 1 Corintios 3:7
 
@@ -223,6 +355,10 @@ Así que ni el que planta ni el que riega es algo, sino Dios, que da el crecimie
 
 Ahora bien, el que planta y el que riega son una misma cosa, pero cada uno recibirá su propia recompensa conforme a su propio trabajo.
 
+#### Ahora bien, el que planta y el que riega son una misma cosa
+
+#### pero cada uno recibirá su propia recompensa conforme a su propio trabajo.
+
 ### 1 Corintios 3:9
 
 Porque nosotros somos colaboradores en la labor de Dios, *y* ustedes son el campo de cultivo de Dios, el edificio de Dios.
@@ -231,9 +367,19 @@ Porque nosotros somos colaboradores en la labor de Dios, *y* ustedes son el camp
 
 Conforme a la gracia de Dios que me fue dada, yo, como sabio arquitecto, puse el fundamento, y otro edifica sobre él. Pero cada uno tenga cuidado cómo edifica encima.
 
+#### Conforme a la gracia de Dios que me fue dada, yo, como sabio arquitecto, puse el fundamento
+
+#### y otro edifica sobre él.
+
+#### Pero cada uno tenga cuidado cómo edifica encima.
+
 ### 1 Corintios 3:11
 
 Pues nadie puede poner otro fundamento que el que ya está puesto, el cual es Jesucristo.
+
+#### Pues nadie puede poner otro fundamento que el que ya está puesto
+
+#### el cual es Jesucristo.
 
 ### 1 Corintios 3:12
 
@@ -243,29 +389,69 @@ Ahora bien, si sobre *este* fundamento alguien edifica con oro, plata, piedras p
 
 la obra de cada uno se hará evidente; porque el día la dará a conocer, pues con fuego *será* revelada. El fuego mismo probará la calidad de la obra de cada uno.
 
+#### la obra de cada uno se hará evidente
+
+#### porque el día la dará a conocer, pues con fuego *será* revelada.
+
+#### El fuego mismo probará la calidad de la obra de cada uno.
+
 ### 1 Corintios 3:14
 
 Si permanece la obra de alguien que ha edificado sobre *el fundamento,* recibirá recompensa.
+
+#### Si permanece la obra
+
+#### de alguien que ha edificado sobre *el fundamento*
+
+#### recibirá recompensa.
 
 ### 1 Corintios 3:15
 
 Si la obra de alguien es consumida *por el fuego,* sufrirá pérdida; sin embargo, él será salvo, aunque así como a través del fuego.
 
+#### Si la obra de alguien es consumida *por el fuego* 
+
+#### sufrirá pérdida
+
+#### sin embargo, él será salvo, aunque así como a través del fuego.
+
 ### 1 Corintios 3:16
 
 ¿No saben que ustedes son templo de Dios y que el Espíritu de Dios habita en ustedes?
+
+#### ¿No saben que ustedes son templo de Dios
+
+#### y que el Espíritu de Dios habita en ustedes?
 
 ### 1 Corintios 3:17
 
 Si alguno destruye el templo de Dios, Dios lo destruirá a él, porque el templo de Dios es santo, y eso es lo que ustedes son.
 
+#### Si alguno destruye el templo de Dios
+
+#### Dios lo destruirá a él
+
+#### porque el templo de Dios es santo
+
+#### y eso es lo que ustedes son
+
 ### 1 Corintios 3:18
 
 Nadie se engañe a sí mismo. Si alguien de ustedes se cree sabio según este mundo, hágase necio a fin de llegar a ser sabio.
 
+#### Nadie se engañe a sí mismo.
+
+#### Si alguien de ustedes se cree sabio según este mundo
+
+#### hágase necio a fin de llegar a ser sabio.
+
 ### 1 Corintios 3:19
 
 Porque la sabiduría de este mundo es necedad ante Dios. Pues escrito está: *«Él es* el que prende a los sabios en su *propia* astucia».
+
+#### Porque la sabiduría de este mundo es necedad ante Dios.
+
+#### Pues escrito está: *«Él es* el que prende a los sabios en su *propia* astucia».
 
 ### 1 Corintios 3:20
 
@@ -274,6 +460,10 @@ Y también: «El Señor conoce los razonamientos de los sabios, los cuales son i
 ### 1 Corintios 3:21
 
 Así que nadie se jacte en los hombres, porque todo es de ustedes
+
+#### Así que nadie se jacte en los hombres
+
+#### porque todo es de ustedes:
 
 ### 1 Corintios 3:22
 
@@ -291,13 +481,27 @@ Que *todo* hombre nos considere de esta manera: como servidores de Cristo y admi
 
 Ahora bien, lo que se requiere además de los administradores es que *cada* uno sea hallado fiel.
 
+#### Ahora bien, lo que se requiere además de los administradores
+
+#### es que *cada* uno sea hallado fiel.
+
 ### 1 Corintios 4:3
 
 En cuanto a mí, es de poca importancia que yo sea juzgado por ustedes o por *cualquier* tribunal humano. De hecho, ni aun yo me juzgo a mí mismo.
 
+#### En cuanto a mí, es de poca importancia que yo sea juzgado por ustedes o por *cualquier* tribunal humano.
+
+#### De hecho, ni aun yo me juzgo a mí mismo.
+
 ### 1 Corintios 4:4
 
 Porque no estoy consciente de nada en contra mía. Pero no por eso estoy sin culpa, pues el que me juzga es el Señor.
+
+#### Porque no estoy consciente de nada en contra mía.
+
+#### Pero no por eso estoy sin culpa
+
+#### pues el que me juzga es el Señor.
 
 ### 1 Corintios 4:5
 
