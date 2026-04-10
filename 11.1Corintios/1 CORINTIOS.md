@@ -1,11 +1,28 @@
 # 1 CORINTIOS 
+
+## Saludo 1 Corintios 1:1-9
+
 ### 1 Corintios 1:1 
 
 Pablo, llamado a ser apóstol de Jesucristo, por la voluntad de Dios, y Sóstenes, nuestro hermano
 
+#### Pablo
+
+#### llamado *a ser* apóstol de Jesucristo por la voluntad de Dios
+
+#### y Sóstenes, nuestro hermano
+
 ### 1 Corintios 1:2
 
 a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cristo Jesús, llamados *a ser* santos, con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo, *Señor* de ellos y nuestro
+
+#### a la iglesia de Dios que está en Corinto
+
+#### a los que han sido santificados en Cristo Jesús
+
+#### llamados *a ser* santos
+
+#### con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo, *Señor* de ellos y nuestro:
 
 ### 1 Corintios 1:3
 
@@ -507,21 +524,53 @@ Porque no estoy consciente de nada en contra mía. Pero no por eso estoy sin cul
 
 Por tanto, no juzguen antes de tiempo, *sino esperen* hasta que el Señor venga, el cual sacará a la luz las cosas ocultas en las tinieblas y también pondrá de manifiesto los designios de los corazones. Entonces cada uno recibirá de parte de Dios la alabanza que le corresponda.
 
+#### Por tanto, no juzguen antes de tiempo
+
+#### *sino esperen* hasta que el Señor venga
+
+#### el cual sacará a la luz las cosas ocultas en las tinieblas
+
+#### y también pondrá de manifiesto los designios de los corazones.
+
+#### Entonces cada uno recibirá de parte de Dios la alabanza que le corresponda.
+
 ### 1 Corintios 4:6
 
 Esto, hermanos, lo he aplicado en sentido figurado a mí mismo y a Apolos por amor a ustedes, para que en nosotros aprendan a no sobrepasar lo que está escrito, para que ninguno de ustedes se vuelva arrogante a favor del uno contra el otro.
+
+#### Esto, hermanos, lo he aplicado en sentido figurado a mí mismo y a Apolos por amor a ustedes
+
+#### para que en nosotros aprendan a no sobrepasar lo que está escrito
+
+#### para que ninguno de ustedes se vuelva arrogante a favor del uno contra el otro.
 
 ### 1 Corintios 4:7
 
 Porque ¿quién te distingue? ¿Qué tienes que no recibiste? Y si lo recibiste, ¿por qué te jactas como si no lo hubieras recibido?
 
+#### Porque ¿quién te distingue?
+
+#### ¿Qué tienes que no recibiste?
+
+#### Y si lo recibiste, ¿por qué te jactas como si no lo hubieras recibido?
+
 ### 1 Corintios 4:8
 
 Ya están saciados, ya se han hecho ricos, *ya* han llegado a reinar sin *necesidad de* nosotros. Ojalá hubieran llegado a reinar, para que nosotros reináramos también con ustedes.
 
+#### Ya están saciados, ya se han hecho ricos, *ya* han llegado a reinar sin *necesidad de* nosotros.
+
+#### Ojalá hubieran llegado a reinar
+
+#### para que nosotros reináramos también con ustedes.
+
 ### 1 Corintios 4:9
 
 Porque pienso que Dios nos ha exhibido a nosotros los apóstoles en último lugar, como a sentenciados a muerte. Porque hemos llegado a ser un espectáculo para el mundo, tanto para los ángeles como para los hombres.
+
+#### Porque pienso que Dios nos ha exhibido a nosotros los apóstoles en último lugar, como a sentenciados a muerte.
+
+#### Porque hemos llegado a ser un espectáculo para el mundo, tanto para los ángeles como para los hombres.
 
 ### 1 Corintios 4:10
 
@@ -547,6 +596,10 @@ No les escribo esto para avergonzarlos, sino para amonestarlos como a hijos mío
 
 Porque aunque ustedes tengan innumerables maestros en Cristo, sin embargo no *tienen* muchos padres; pues en Cristo Jesús yo los engendré por medio del evangelio.
 
+#### Porque aunque ustedes tengan innumerables maestros en Cristo, sin embargo no *tienen* muchos padres
+
+#### pues en Cristo Jesús yo los engendré por medio del evangelio.
+
 ### 1 Corintios 4:16
 
 Por tanto, los exhorto: sean imitadores míos.
@@ -555,6 +608,12 @@ Por tanto, los exhorto: sean imitadores míos.
 
 Por esta razón les he enviado a Timoteo, que es mi hijo amado y fiel en el Señor. Él les recordará mis caminos, los *caminos* en Cristo, tal como yo enseño en todas partes, en cada iglesia.
 
+#### Por esta razón les he enviado a Timoteo, que es mi hijo amado y fiel en el Señor.
+
+#### Él les recordará mis caminos, los *caminos* en Cristo
+
+#### tal como yo enseño en todas partes, en cada iglesia.
+
 ### 1 Corintios 4:18
 
 Algunos de ustedes se han vuelto arrogantes, como si yo no hubiera de ir a verlos.
@@ -562,6 +621,10 @@ Algunos de ustedes se han vuelto arrogantes, como si yo no hubiera de ir a verlo
 ### 1 Corintios 4:19
 
 Pero iré a verlos pronto, si el Señor quiere, y conoceré, no las palabras de los arrogantes sino el poder que tienen.
+
+#### Pero iré a verlos pronto, si el Señor quiere
+
+#### y conoceré, no las palabras de los arrogantes sino el poder que tienen.
 
 ### 1 Corintios 4:20
 
@@ -579,6 +642,14 @@ En efecto, se oye que entre ustedes hay inmoralidad, y una inmoralidad tal como 
 
 ¡Y ustedes se han vuelto arrogantes en lugar de haberse entristecido, para que el que de entre ustedes ha cometido esta acción fuera expulsado de en medio de ustedes!
 
+#### ¡Y ustedes se han vuelto arrogantes
+
+#### en lugar de haberse entristecido
+
+#### para que el que de entre ustedes ha cometido esta acción
+
+#### fuera expulsado de en medio de ustedes!
+
 ### 1 Corintios 5:3
 
 Pues yo, por mi parte, aunque ausente en cuerpo pero presente en espíritu, como si estuviera presente, ya he juzgado al que cometió tal *acción.*
@@ -595,9 +666,19 @@ entreguen a ese tal a Satanás para la destrucción de su carne, a fin de que su
 
 La jactancia de ustedes no es buena. ¿No saben que un poco de levadura fermenta toda *la masa*?
 
+#### La jactancia de ustedes no es buena.
+
+#### ¿No saben que un poco de levadura fermenta toda *la masa*?
+
 ### 1 Corintios 5:7
 
 Limpien la levadura vieja para que sean masa nueva, así como *lo* son *en realidad* sin levadura. Porque aun Cristo, nuestra Pascua, ha sido sacrificado.
+
+#### Limpien la levadura vieja para que sean masa nueva
+
+#### así como *lo* son *en realidad* sin levadura.
+
+#### Porque aun Cristo, nuestra Pascua, ha sido sacrificado.
 
 ### 1 Corintios 5:8
 
@@ -623,6 +704,10 @@ Pues ¿por qué he de juzgar yo a los de afuera? ¿No juzgan ustedes a los que e
 
 Pero Dios juzga a los que están fuera. Expulsen al malvado de entre ustedes.
 
+#### Pero Dios juzga a los que están fuera.
+
+#### Expulsen al malvado de entre ustedes.
+
 ### 1 Corintios 6:1
 
 ¿Se atreve alguno de ustedes, cuando tiene algo contra su prójimo, a ir a juicio ante los incrédulos y no ante los santos?
@@ -630,6 +715,10 @@ Pero Dios juzga a los que están fuera. Expulsen al malvado de entre ustedes.
 ### 1 Corintios 6:2
 
 ¿O no saben que los santos han de juzgar al mundo? Y si el mundo es juzgado por ustedes, ¿no son competentes para *juzgar* los casos más sencillos?
+
+#### ¿O no saben que los santos han de juzgar al mundo?
+
+#### Y si el mundo es juzgado por ustedes, ¿no son competentes para *juzgar* los casos más sencillos?
 
 ### 1 Corintios 6:3
 
@@ -639,9 +728,17 @@ Pero Dios juzga a los que están fuera. Expulsen al malvado de entre ustedes.
 
 Entonces, si tienen tribunales que juzgan los casos de esta vida, ¿*por qué* ponen por jueces a los que nada son en la iglesia?
 
+#### Entonces, si tienen tribunales que juzgan los casos de esta vida
+
+#### ¿*por qué* ponen por jueces a los que nada son en la iglesia?
+
 ### 1 Corintios 6:5
 
 Para vergüenza suya *lo* digo. ¿*Acaso* no hay entre ustedes algún hombre sabio que pueda juzgar entre sus hermanos
+
+#### Para vergüenza suya *lo* digo.
+
+#### ¿*Acaso* no hay entre ustedes algún hombre sabio que pueda juzgar entre sus hermanos
 
 ### 1 Corintios 6:6
 
@@ -651,6 +748,12 @@ sino que hermano contra hermano litiga, y esto ante incrédulos?
 
 Así que, en efecto, es ya un fallo entre ustedes el hecho de que tengan litigios entre sí. ¿Por qué no sufren mejor la injusticia? ¿Por qué no ser mejor defraudados?
 
+#### Así que, en efecto, es ya un fallo entre ustedes el hecho de que tengan litigios entre sí.
+
+#### ¿Por qué no sufren mejor la injusticia?
+
+#### ¿Por qué no ser mejor defraudados?
+
 ### 1 Corintios 6:8
 
 Por el contrario, ustedes mismos cometen injusticias y defraudan, y esto aun a *sus propios* hermanos.
@@ -658,6 +761,12 @@ Por el contrario, ustedes mismos cometen injusticias y defraudan, y esto aun a *
 ### 1 Corintios 6:9
 
 ¿O no saben que los injustos no heredarán el reino de Dios? No se dejen engañar: ni los inmorales, ni los idólatras, ni los adúlteros, ni los afeminados, ni los homosexuales
+
+#### ¿O no saben que los injustos no heredarán el reino de Dios?
+
+#### No se dejen engañar:
+
+#### ni los inmorales, ni los idólatras, ni los adúlteros, ni los afeminados
 
 ### 1 Corintios 6:10
 
@@ -667,13 +776,31 @@ ni los ladrones, ni los avaros, ni los borrachos, ni los difamadores, ni los est
 
 Y esto eran algunos de ustedes; pero fueron lavados, pero fueron santificados, pero fueron justificados en el nombre del Señor Jesucristo y en el Espíritu de nuestro Dios.
 
+#### Y esto eran algunos de ustedes; 
+
+#### pero fueron lavados, 
+
+#### pero fueron santificados, 
+
+#### pero fueron justificados 
+
+#### en el nombre del Señor Jesucristo y en el Espíritu de nuestro Dios.
+
 ### 1 Corintios 6:12
 
 Todas las cosas me son lícitas, pero no todas son de provecho. Todas las cosas me son lícitas, pero yo no me dejaré dominar por ninguna.
 
+#### Todas las cosas me son lícitas, pero no todas son de provecho.
+
+#### Todas las cosas me son lícitas, pero yo no me dejaré dominar por ninguna.
+
 ### 1 Corintios 6:13
 
 Los alimentos son para el estómago y el estómago para los alimentos, pero Dios destruirá a los dos. Sin embargo, el cuerpo no es para la fornicación, sino para el Señor, y el Señor es para el cuerpo.
+
+#### Los alimentos son para el estómago y el estómago para los alimentos, pero Dios destruirá a los dos.
+
+#### Sin embargo, el cuerpo no es para la fornicación, sino para el Señor, y el Señor es para el cuerpo.
 
 ### 1 Corintios 6:14
 
@@ -683,9 +810,19 @@ Y Dios, que resucitó al Señor, también nos resucitará a nosotros mediante Su
 
 ¿No saben que sus cuerpos son miembros de Cristo? ¿Tomaré, acaso, los miembros de Cristo y los haré miembros de una ramera? ¡De ningún modo!
 
+#### ¿No saben que sus cuerpos son miembros de Cristo?
+
+#### ¿Tomaré, acaso, los miembros de Cristo y los haré miembros de una ramera?
+
+#### ¡De ningún modo!
+
 ### 1 Corintios 6:16
 
 ¿O no saben que el que se une a una ramera es un cuerpo *con ella?* Porque Él dice: «Los dos vendrán a ser una sola carne».
+
+#### ¿O no saben que el que se une a una ramera es un cuerpo *con ella?*
+
+#### Porque Él dice: «Los dos vendrán a ser una sola carne».
 
 ### 1 Corintios 6:17
 
@@ -695,13 +832,33 @@ Pero el que se une al Señor, es un espíritu *con Él*.
 
 Huyan de la fornicación. Todos *los demás* pecados que un hombre comete están fuera del cuerpo, pero el fornicario peca contra su propio cuerpo.
 
+#### Huyan de la fornicación. 
+
+#### Todos *los demás* pecados que un hombre comete están fuera del cuerpo, 
+
+#### pero el fornicario peca contra su propio cuerpo. 
+
 ### 1 Corintios 6:19
 
 ¿O no saben que su cuerpo es templo del Espíritu Santo que está en ustedes, el cual tienen de Dios, y que ustedes no se pertenecen a sí mismos?
 
+#### O no saben que su cuerpo es templo del Espíritu Santo que está en ustedes
+
+#### el cual tienen de Dios
+
+#### y que ustedes no se pertenecen a sí mismos?
+
 ### 1 Corintios 6:20
 
 Porque han sido comprados por un precio. Por tanto, glorifiquen a Dios en su cuerpo y en su espíritu, los cuales son de Dios.
+
+#### Porque han sido comprados por un precio.
+
+#### Por tanto, glorifiquen a Dios en su cuerpo y en su espíritu, los cuales son de Dios.
+
+
+
+## Respuestas a preguntas
 
 ### 1 Corintios 7:1
 
