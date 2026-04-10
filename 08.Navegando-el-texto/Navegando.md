@@ -845,8 +845,6 @@ Ahora tienes:
 
 Expresas el tronco (Paso 8) como líneas de acción completas.
 
-
-
 ## Regla
 
 👉 Expresas lo que ocurre  

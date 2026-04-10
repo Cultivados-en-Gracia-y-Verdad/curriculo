@@ -3,7 +3,7 @@ title: "Navegando el Texto"
 ---
 
 
-# Navegando el Texto
+# INTRODUCCIÓN
 
 Cuando un barco zarpa, no lo hace a la deriva. Sale con dirección, equipado con el conocimiento y las herramientas necesarias para navegar con seguridad. Sin esa preparación, las mismas aguas que prometen descubrimiento pueden llevar rápidamente a la confusión, la desorientación o incluso al naufragio.
 
@@ -28,10 +28,10 @@ Cada letra apunta a una disposición que queremos cultivar al leer:
 **R – Revelación**
  Partimos de la base de que estamos frente a algo que ha sido dado, no producido por nosotros. El texto no nace de nuestra interpretación; nosotros nos acercamos a lo que ya está ahí.
 
-**O – Observar la estructura**
+**O<sub>1</sub> – Observar la estructura**
  Antes de pensar en significados, prestamos atención a cómo está organizado el texto: sus conexiones, repeticiones, contrastes y flujo.
 
-**O – Observar lo que el texto dice en contexto**
+**O<sub>2</sub> – Observar lo que el texto dice en contexto**
  Nos detenemos en las palabras mismas. ¿Qué está realmente escrito? ¿Qué afirma? ¿Qué no afirma?
 
 **T – Trazar (seguir) el desarrollo**
@@ -244,7 +244,7 @@ Comenzamos con:
 
 Porque si Dios comunicó por medio de lenguaje, entonces el significado está en **cómo lo dijo**.
 
-# Introducción
+# O<sub>1</sub> - OBSERVACIÓN
 
 Antes de entender el significado, debemos ver **cómo el autor organizó lo que dijo**.
 
@@ -260,8 +260,8 @@ Pero no pueden explicar:
 - qué partes la explican
 - cómo se conectan
 
-El problema no es falta de interés.
-Es falta de **observación estructural**.
+##### El problema no es falta de interés.
+###### Es falta de **observación estructural**.
 
 ## Principio fundamental
 
@@ -294,7 +294,7 @@ Dentro de un párrafo hay:
 - unidades de pensamiento (cláusulas)
 - detalles que amplían (extensiones)
 
-Todo esto forma una estructura.
+Todo esto forma una estructura. 
 
 ## Lo que aprenderás
 
@@ -304,31 +304,9 @@ Vas a aprender a ver:
 - cuáles son principales
 - cuáles dependen de otras
 
-## El proceso completo
+## El proceso de observación estructural
 
-Este es el proceso que usaremos **en todo el curso**:
-
-```
-Paso 1 — Copiar texto  
-Paso 2 — Verbos  
-Paso 3 — Cláusulas  
-Paso 4 — Conectores  
-Paso 5 — Estructura  
-```
-
-```
-Paso 6 — Relaciones  
-Paso 7 — Frases  
-Paso 8 — Estructura troncal  
-Paso 9 — Marcar el comportamiento (ETIQUETA)  
-Paso 10 — Identificar patrones  
-```
-
-```
-Paso 11 — Seguir o detenerse  
-Paso 12 — Rellenar  
-Paso 13 — Propósito    
-```
+![13-pasos](images/13-pasos.png)
 
 Este proceso es fijo.
 No cambia.
@@ -363,107 +341,86 @@ preparar correctamente el texto.
 
 Sin este paso, todo lo demás falla.
 
-# PASO 1: COPIAR EL TEXTO
+# PASO 1 — COPIAR EL TEXTO
+## 🟦 EJECUTA
+1. ¿Qué haces?
 
-Antes de analizar cualquier pasaje, debemos preparar el texto correctamente.
-Este paso parece simple.
+Copias el texto en un solo párrafo y creas una copia de trabajo.
 
-Pero si se hace mal:
-todo el análisis se distorsiona.
-
-## Por qué comenzamos aquí
-
-No estamos estudiando versículos aislados.
- Estamos observando un **párrafo completo**.
-
-Porque el autor desarrolla una idea dentro de una unidad.
-
-Si dividimos demasiado pronto:
-- rompemos la conexión
-- perdemos el flujo
-- distorsionamos el argumento
-
-## Principio clave
-
-El significado se desarrolla en unidades completas, no en fragmentos.
-
-## Qué es un párrafo
-
-Un párrafo es una unidad donde el autor:
-- introduce una idea
-- la desarrolla
-- la explica o la contrasta
-
- Es la unidad básica de pensamiento.
-
-## Preparación del texto
-
-Sigue estos pasos exactamente:
-1. Copia el texto en un editor
-2. Elimina títulos y encabezados
-3. Une los versículos en un solo párrafo
-4. Mantén el texto intacto (no modifiques palabras)
-
-## Ejemplo
-
-Texto original:
-> «Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
-> Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden.»
-> 1 Corintios 3:1–2
-
-## Texto preparado
-
-```
+2. Regla
+No modificas el texto
+No separas en versículos
+Siempre trabajas sobre una copia
+3. Cómo hacerlo
+Copia el texto en un editor
+Elimina títulos y encabezados
+Une los versículos en un solo párrafo
+Mantén el texto intacto (sin cambiar palabras)
+Crea dos versiones:
+texto original
+texto de trabajo
+4. Resultado esperado
 Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo. 
 Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden.
-```
+## 🟨 ENTIENDE
+##### Qué estás haciendo realmente
 
-## Crear copia de trabajo
+Estás preparando el texto para poder observarlo sin distorsión.
 
-Ahora crea dos versiones:
-1. Texto original (intacto)
-2. Texto de trabajo (para marcar)
+##### Principio clave
 
- Siempre trabajarás sobre la copia.
+El análisis solo es confiable si el texto se mantiene intacto.
 
-## Por qué esto es crítico
+##### Idea clave
 
-Esto permite:
-- volver atrás si hay errores
-- comparar etapas
-- mantener el texto limpio
+No trabajas con versículos aislados.
+Trabajas con una unidad completa de pensamiento.
 
-## Error común
+##### Pregunta guía
+👉 ¿Estoy viendo el texto como una unidad o como fragmentos?
 
-Muchos estudiantes:
-- trabajan sobre el texto original
-- hacen cambios sin darse cuenta
-- pierden el control del análisis
+##### Definición
+Párrafo = unidad donde el autor desarrolla una idea completa.
 
- Esto genera confusión inmediata.
+##### Ejemplo guiado
 
-## Regla absoluta
+Texto original:
 
-```
-Nunca modifiques el texto original.
-Siempre trabaja sobre una copia.
-```
+«Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
+Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden.»
 
-## Observación clave
+Resultado:
 
-En este paso:
- NO analizamos
- NO interpretamos
- NO marcamos nada
+Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo. 
+Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden.
+##### Regla importante
 
-Solo preparamos el texto.
+Nunca trabajas directamente sobre el texto original.
 
-## Transición
+##### Error común
+Modificar palabras sin darse cuenta
+Trabajar sobre versículos separados
+No crear copia de trabajo
+##### Regla de control
 
-En la siguiente lección comenzamos el análisis real:
- identificar los verbos finitos.
+Si cambiaste el texto original, perdiste el control del análisis.
 
-Los verbos revelan dónde están las afirmaciones del texto.
+##### Frase clave
+“No modifico el texto — lo preparo para observarlo.”
+
+##### Qué debes notar
+Cuando el texto está bien preparado:
+
+puedes ver el flujo completo
+no rompes conexiones
+el análisis posterior se vuelve confiable
+##### Transición
+
+En el siguiente paso:
+
+👉 identificarás los verbos finitos
+
+👉 verás dónde están las afirmaciones del texto
 
 # PASO 2: IDENTIFICAR LOS VERBOS FINITOS
 
@@ -708,7 +665,8 @@ Pones cada cláusula en una nueva línea.
 ## Regla base
 
 Cada verbo finito = una nueva línea
-Cómo hacerlo
+
+##### Cómo hacerlo
 1. Encuentra un verbo finito  
 2. Escribe esa parte en una nueva línea  
 3. Repite con cada verbo  
@@ -761,263 +719,125 @@ No movemos palabras
 No reorganizamos el texto  
 Solo separamos por verbos
 
-# PASO 4 — IDENTIFICAR CONECTORES QUE UNEN VERBOS FINITOS
+# PASO 4 — IDENTIFICAR CONECTORES QUE UNEN CLÁUSULAS
 
-(Marca solo el conector que une dos cláusulas con verbo finito)
+## EJECUTA
 
-## 1. RECORDATORIO
+##### ¿Qué haces?
+Identificas y marcas los conectores que unen cláusulas con verbo finito.
 
-Ya hemos identificado los verbos finitos.
+##### Regla
+Solo se marcan los conectores que unen dos cláusulas con verbo finito.
 
-Cada verbo finito forma una cláusula.
+##### Cómo hacerlo
 
-Ahora trabajamos con la relación entre esas cláusulas
+1. Parte del texto con verbos finitos y cláusulas ya identificadas
 
-## 2. DEFINICIÓN
+2. Lee entre las cláusulas
 
- Buscamos conectores que unen cláusulas
+3. Haz esta pregunta:
+- 👉 ¿Este conector une dos verbos finitos?
 
-Es decir:
- conectores que unen verbos finitos
+4. Decide:
+- Sí → se marca
+- No → se ignora
 
-
-## 3. REGLA PRINCIPAL
-
-Solo usamos conectores que unen verbos finitos
-Si no conecta dos verbos, no se usa
-
-## 4. ACLARACIÓN
-
-Algunos conectores aparecerán en el texto,
-pero no todos conectan cláusulas.
-
-Esos no se usan en este paso
-
-## 5. PRINCIPIO CLAVE
-
-No todos los conectores en español conectan cláusulas
-
-## 6. PROCEDIMIENTO
-
-Paso 1 - Pegar el texto
-Paso 2 - Ubicar los verbos finitos
-Paso 3 - Leer el texto entre esos verbos (clausulas)
-Paso 4 - Buscar conectores
-
-Hacer una sola pregunta:
-¿Este conector une dos verbos finitos?
-Sí → se marca
-No → se ignora
-
-## 7. EJEMPLO
-
+5. Marca así:
 ```
-Así que yo, hermanos, no pude hablarles como a espirituales, 
-sino como a carnales, como a niños en Cristo.  
-Les di a beber leche, no alimento sólido,  
-porque todavía no podían recibirlo.  
-En verdad, ni aun ahora pueden,
-1 Corintios 3:1–2 (NBLA)
+(porque)
 ```
 
-## 8. VERBOS FINITOS
-
+###### Resultado esperado
 ```
-==pude==  
-==di==  
-==podían==  
-==pueden== 
+les ==di== a beber leche  
+    (porque) todavía no ==podían== recibirlo
 ```
 
-Un conector al inicio del texto no se marca automáticamente.
-Solo se marca si en ese texto de trabajo está uniendo dos cláusulas con verbo finito.
+## ENTIENDE
 
-## 9. IDENTIFICAR CONECTORES
+##### Qué estás haciendo realmente
+###### Estás identificando la **relación real entre cláusulas**.
 
-```
-(Así que) yo, hermanos, no ==pude== hablarles como a espirituales,  
-(sino) como a carnales, como a niños en Cristo.  
-Les ==di== a beber leche, no alimento sólido,  
-(porque) todavía no ==podían== recibirlo.  
-(En verdad), ni aun ahora ==pueden==,
-```
+##### Principio clave
+###### Solo los conectores que unen cláusulas afectan la estructura.
 
-Así que
-sino
-porque
-En verdad
+##### Idea clave
+No todo conector en el texto conecta cláusulas.
 
-## 10. APLICAR LA REGLA
+##### Pregunta guía
+###### 👉 ¿Este conector une dos verbos finitos?
 
-porque
-conecta ==di== con ==podían==
-(porque → razón)
+##### Definición
+###### Un conector es una palabra que establece una relación entre dos cláusulas.
 
-## 11. APLICAR LA REGLA
+##### Ejemplo guiado
 
-sino
-no conecta dos verbos
-Así que / En verdad
-no conectan dos verbos
-
-## 12. RESULTADO
-
-Solo un conector se usa:
-(porque → razón)
-
-Solo los conectores que unen verbos finitos afectan la estructura
-
-## Ejemplo
-
+###### Texto:
 ```
 no ==pude== hablarles  
-
 les ==di== a beber leche  
-    (porque → razón) todavía no ==podían== recibirlo  
-
-ni aun ahora ==pueden==
+porque todavía no ==podían== recibirlo
 ```
 
-## CASO ESPECIAL: “QUE”
+###### Evaluación:
+- (porque) conecta ==di== con ==podían== → ✔ válido
 
-Qué hace “que”
-que → introduce una cláusula que depende de otra
 
-## Ejemplo
-
+###### Resultado:
 ```
-(Y) ==es== como la muerte  
-    (que) nunca ==se sacia==
+les ==di== a beber leche  
+    (porque) todavía no ==podían== recibirlo
 ```
 
-## Regla práctica
+##### Regla importante
+###### Si un conector no une dos verbos finitos, se ignora.
 
-Si “que” introduce un verbo → se marca
-Qué debes notar
+##### Error común
+- Marcar todos los conectores
+- Ignorar los verbos
+- Confiar en intuición
+- Forzar relaciones
 
-“que” no explica (como “porque”)
-solo conecta una cláusula dependiente
+##### Regla de control
+###### Si no puedes señalar los dos verbos que conecta, no se marca.
 
-## FUNCIONES BÁSICAS
+##### Frase clave
+> “No todo conector conecta cláusulas.”
 
-Qué es una función
-Es la relación que un conector crea entre dos cláusulas
+##### Qué debes notar
+###### Cuando los conectores están bien marcados:
+- la estructura comienza a aparecer
+- las relaciones se vuelven visibles
 
-## Regla clave
-
-El conector determina la función
-No la inventas
-No la decides
-Solo la reconoces
-
-## Funciones principales (solo las necesarias)
-
-### RAZÓN
-Explica por qué ocurre algo
-
-porque → razón
-
-Pregunta:
-¿por qué?
-
-### PROPÓSITO
-Explica para qué se hace algo
-
-para que → propósito
-
-Pregunta:
-¿para qué?
-
-### CONTRASTE
-Muestra oposición o diferencia
-
-pero / mas → contraste
-
-Pregunta:
-¿qué se contrasta?
-
-### CONDICIÓN
-Establece una condición
-
-si → condición
-
-Pregunta:
-¿bajo qué condición?
-
-### TIEMPO
-Indica momento
-
-cuando → tiempo
-
-Pregunta:
-¿cuándo?
-
-### DEPENDENCIA
-Introduce una cláusula que depende de otra
-que → dependencia
-
-## Regla crítica
-No creas nuevas funciones  
-Solo usa estas
-
-## PRINCIPIO FINAL
-No interpretamos  
-Solo observamos conexiones visibles
-
-## TRANSICIÓN
-
-En el siguiente paso:
-organizaremos estas relaciones en estructura
+##### Transición
+###### En el siguiente paso usarás estos conectores para organizar la estructura.
 
 # PASO 5 — IDENTIFICAR LA ESTRUCTURA
 
-## 1. RECORDATORIO
+## EJECUTA
 
-Ya tienes:
-verbos identificados
-una línea por verbo
-conectores marcados
+##### ¿Qué haces?
+Organizas las cláusulas para mostrar **qué depende de qué**.
 
-Ahora usas eso para organizar el texto
+##### Regla
+- Cláusula **sin conector** → se queda a la izquierda
+- Cláusula **con conector** → va debajo de la que depende
 
-## 2. DEFINICIÓN
+##### Cómo hacerlo
 
-La estructura muestra qué cláusulas dependen de otras
+1. Parte del texto con:
+- cláusulas separadas (Paso 3)
+- conectores marcados (Paso 4)
 
-## 3. REGLA PRINCIPAL
-Una cláusula con conector depende de otra
+2. Identifica una cláusula sin conector → base
 
-## 4. REGLA CLAVE
-Cláusula sin conector → se queda a la izquierda  
-Cláusula con conector → va debajo
+3. Busca una cláusula con conector
 
-## 5. PRINCIPIO FUNDAMENTAL
-No decides la estructura  
-La estructura ya está en los conectores
+4. Colócala debajo de la cláusula que conecta
 
-## 6. CÓMO HACERLO
+5. Repite hasta organizar todo el texto
 
-### Paso 1 - Toma tu lista de líneas (Paso 3)
-### Paso 2 - Busca una línea sin conector
-Esa es base (principal)
-### Paso 3 - Busca una línea con conector
-Esa depende de otra
-### Paso 4 - Colócala debajo de la cláusula a la que se conecta
-
-## 7. REGLA VISUAL
-Izquierda = base  
-Debajo = dependencia
-
-## 8. EJEMPLO
-
-Entrada (Paso 4):
-```
-les ==di== a beber leche  
-(porque) todavía no ==podían== recibirlo  
-ni aun ahora ==pueden==
-```
-
-Resultado:
+##### Resultado esperado
 ```
 les ==di== a beber leche  
     (porque) todavía no ==podían== recibirlo  
@@ -1025,622 +845,490 @@ les ==di== a beber leche
 ni aun ahora ==pueden==
 ```
 
-## 9. EJEMPLO CON MÚLTIPLES NIVELES
+## ENTIENDE
 
+##### Qué estás haciendo realmente
+###### Estás revelando la **estructura interna del pensamiento del autor**.
+
+##### Principio clave
+###### La estructura no se decide.
+- 👉 La estructura ya está indicada por los conectores.
+
+##### Idea clave
+###### La posición visual muestra dependencia:
+- izquierda → base
+- debajo → dependencia
+
+##### Pregunta guía
+###### 👉 ¿Esta cláusula tiene conector?
+- Sí → depende → va debajo
+- No → base → se queda a la izquierda
+
+##### Definición
+Estructura = la relación visible de dependencia entre cláusulas.
+
+##### Ejemplo guiado
+
+###### Entrada:
 ```
-(Y) ==es== como la muerte  
-(que) nunca ==se sacia==
+les ==di== a beber leche  
+(porque) todavía no ==podían== recibirlo  
+ni aun ahora ==pueden==
 ```
 
-Resultado:
+###### Aplicación:
 ```
-(Y) ==es== como la muerte  
-    (que) nunca ==se sacia==
-```
+les ==di== a beber leche  
+    (porque) todavía no ==podían== recibirlo  
 
-## 10. CASO IMPORTANTE
-
-Cuando hay más de un nivel:
-```
-(Para que) ==confíe==  
-(Cuando) ==hace==
+ni aun ahora ==pueden==
 ```
 
-Resultado:
+##### Regla importante
+###### Nunca muevas una cláusula si no hay un conector que lo justifique.
+
+##### Error común
+- Ordenar por “sentido”
+- Mover líneas porque “suena mejor”
+- Ignorar conectores
+- Reorganizar el texto
+
+##### Regla de control
+###### Si cambias la posición sin un conector, está mal.
+
+##### Frase clave
+> “No organizo el texto — revelo su estructura.”
+
+##### Qué debes notar
+
+###### Cuando la estructura está bien:
+- puedes ver qué depende de qué
+- el flujo del pensamiento aparece
+- el texto deja de ser plano
+
+##### Transición
+
+###### En el siguiente paso:
+- 👉 usarás los conectores para **leer la relación entre cláusulas**
+- 👉 no solo verás la estructura — la entenderás
+
+# PASO 6 — USAR EL CONECTOR
+
+## EJECUTA
+
+##### ¿Qué haces?
+
+Usas el conector para **leer la relación entre dos cláusulas**.
+
+##### Regla
+
+El conector ya define la relación.
+ 👉 Solo tienes que leerla.
+
+##### Cómo hacerlo
+1. Toma una cláusula que tenga conector
+2. Identifica la cláusula base
+3. Usa la pregunta correspondiente al conector
+4. Lee ambas cláusulas juntas
+
+##### Resultado esperado
 ```
-(Para que) ==confíe==  
-    (Cuando) ==hace==
-```
-
-## 11. PRUEBA
-
-¿Tiene conector?
-SI → va debajo  
-NO → se queda a la izquierda  
-
-## 12. ERROR COMÚN
-
-Mover cláusulas por “sentido”
-Incorrecto
-
-## 13. REGLA DE CONTROL
-Si cambias la estructura sin conector, está mal
-
-## 14. QUÉ DEBES NOTAR
-
-La estructura aparece sola
-No la construyes
-La revelas
-
-## 15. RESULTADO
-
-Ahora puedes ver:
-qué depende de qué
-cómo se desarrolla la idea
-niveles de dependencia
-
-## 16. PRINCIPIO CLAVE
-La estructura no se interpreta  
-Se observa
-
-# PASO 6: USAR EL CONECTOR
-## Qué haces
-Usas el conector para leer la relación.
-
-## Regla
-El conector ya define la relación  
-Solo tienes que leerlo
-
-## Cómo hacerlo
-Toma una cláusula  
-Mira el conector que la relaciona  
-Usa la pregunta fija  
-Lee la relación
-
-cada conector tiene su pregunta. 
-
-|Tabla mental simple|
-|---|
-|porque → ¿por qué?|
-|para que → ¿para qué? |
-|pero / sino → ¿qué contrasta? |
-|si → ¿bajo qué condición?  |
-|cuando → ¿cuándo?|
-
-## Ejemplo
-
-```
-les ==di== a beber leche
+les ==di== a beber leche  
     (porque) todavía no ==podían== recibirlo
 ```
 
-## Leerlo correctamente
- ¿por qué les dio leche?
-→ porque no podían recibirlo
+Lectura:
+👉 ¿por qué les dio leche?
+ → porque no podían recibirlo
 
+## ENTIENDE
+
+##### Qué estás haciendo realmente
+
+Estás haciendo visible la **relación lógica ya presente en el texto**.
+
+##### Principio clave
+###### La relación entre cláusulas no se interpreta.
+- 👉 Se lee directamente del conector.
+
+##### Idea clave
+###### El conector contiene la relación.
+- 👉 Tú no la creas — solo la haces evidente.
+
+##### Pregunta guía
+- 👉 ¿Qué pregunta activa este conector?
+
+##### Definición
+###### Usar el conector = leer la relación entre dos cláusulas mediante la pregunta que el conector establece.
+
+##### Ejemplo guiado
+
+###### Texto:
 ```
+les ==di== a beber leche  
+    (porque) todavía no ==podían== recibirlo
+```
+
+###### Aplicación:
+- 👉 ¿por qué les dio leche?
+- → porque no podían recibirlo
+
+##### Regla importante
+###### Cada conector tiene una pregunta fija que revela la relación.
+
+##### Error común
+- Explicar en lugar de leer
+- Agregar ideas al texto
+- Cambiar la función del conector
+- Ignorar la pregunta del conector
+
+##### Regla de control
+###### Si no puedes formular la pregunta correcta, el conector no está bien identificado.
+
+##### Frase clave
+> “No explico — leo la relación.”
+
+##### Qué debes notar
+###### Cuando usas bien el conector:
+- la relación se vuelve obvia
+- no necesitas interpretar
+- el texto se explica a sí mismo
+
+##### Transición
+###### En el siguiente paso:
+- 👉 añadirás las frases que completan cada cláusula
+
+- 👉 el texto empezará a tomar forma completa
+
+# PASO 7 — AÑADIR FRASES
+
+## EJECUTA
+
+##### ¿Qué haces?
+###### Añades al texto las **frases que no tienen verbo finito**.
+
+##### Regla
+###### Toda parte del texto **sin verbo finito** pertenece a una cláusula y debe añadirse.
+
+##### Cómo hacerlo
+1. Vuelve al texto original
+2. Toma una cláusula (Paso 5)
+3. Busca las partes que no tienen verbo finito
+4. Añádelas debajo de la cláusula correspondiente
+
+##### Resultado esperado
+```
+les ==di== a beber leche  
+    no alimento sólido  
+    (porque) todavía no ==podían== recibirlo
+```
+
+## ENTIENDE
+
+##### Qué estás haciendo realmente
+###### Estás completando cada cláusula con **todo lo que le pertenece**.
+
+##### Principio clave
+###### No todo el texto está en los verbos.
+- 👉 Las frases completan el significado de cada cláusula.
+
+##### Idea clave
+###### Una frase no tiene verbo finito,
+- pero **sí aporta contenido al pensamiento**.
+
+##### Pregunta guía
+###### 👉 ¿Esta parte tiene verbo finito?
+- Sí → ya es cláusula
+- No → es frase → se añade
+
+##### Definición
+###### Frase = parte del texto sin verbo finito que depende de una cláusula.
+
+##### Ejemplo guiado
+
+###### Texto base:
+```
+les ==di== a beber leche  
+    (porque) todavía no ==podían== recibirlo
+```
+
+###### Texto completo:
+```
+les ==di== a beber leche  
+    no alimento sólido  
+    (porque) todavía no ==podían== recibirlo
+```
+
+##### Regla importante
+###### Las frases nunca crean nuevas cláusulas.
+- 👉 Siempre dependen de una ya existente.
+
+##### Error común
+- Separar frases como si fueran cláusulas
+- Ignorar partes del texto
+- Mover frases fuera de su cláusula
+- Tratar frases como ideas independientes
+
+##### Regla de control
+###### Si no tiene verbo finito, no puede estar sola.
+
+##### Frase clave
+> “Si no tiene verbo, depende de una cláusula.”
+
+##### Qué debes notar
+
+###### Ahora el texto:
+- está completo
+- mantiene la estructura
+- muestra tanto base como detalles
+
+###### 👉 Ya no es solo esqueleto — tiene contenido
+
+##### Transición
+###### En el siguiente paso:
+- 👉 reducirás el texto a su **estructura troncal**
+- 👉 verás qué sostiene realmente el pensamiento
+
+# PASO 8 — IDENTIFICAR LA ESTRUCTURA TRONCAL
+
+## EJECUTA
+
+##### ¿Qué haces?
+###### Identificas y dejas solo las **cláusulas principales** del texto.
+
+##### Regla
+- Cláusula **sin conector** → se queda
+- Cláusula **con conector** → se elimina
+
+##### Cómo hacerlo
+
+1. Parte del texto estructurado (Paso 5–7)
+
+2. Observa cada cláusula
+
+3. Pregunta:
+- 👉 ¿Tiene conector?
+
+4. Decide:
+- No → se queda
+- Sí → se elimina
+
+5. Ignora todo lo que depende de otra cláusula
+
+##### Resultado esperado
+```
+yo no ==pude== hablarles  
 les ==di== a beber leche
-       `¿por qué?`(porque) todavía no ==podían== recibirlo
 ```
 
-## Qué debes notar
+## ENTIENDE
 
- No estás interpretando
- Solo estás leyendo la conexión
+##### Qué estás haciendo realmente
+###### Estás aislando el **núcleo que sostiene todo el texto**.
 
-## Regla crítica
-Si el conector está bien identificado  
-La relación es obvia
-Ignora las líneas que no tienen verbo finito  
-Solo trabaja con cláusulas
+##### Principio clave
+###### La estructura troncal está formada por lo que **no depende de otra cláusula**.
 
-## Error común
+##### Idea clave
 
-Intentar:
-explicar demasiado
-agregar ideas
-cambiar la función
+###### Todo lo demás en el texto:
+- explica
+- amplía
+- apoya
 
-## Regla de control
+###### 👉 pero no sostiene el pensamiento principal
 
-Si no puedes hacer la pregunta, el problema está en el conector
- Resultado
+##### Pregunta guía
+###### 👉 ¿Esta cláusula depende de otra?
+- Sí → se elimina
+- No → se queda
 
-Ahora:
- la relación es clara
- no hay interpretación
- todo sigue siendo mecánico
+##### Definición
+###### Estructura troncal = conjunto de cláusulas principales que sostienen el texto.
 
-# PASO 7: AÑADIR FRASES
+##### Ejemplo guiado
 
-## Qué haces
+###### Texto completo:
+```
+yo no ==pude== hablarles  
+    como a espirituales  
+    sino como a carnales  
 
-Añades las partes del texto que no tienen verbo.
+les ==di== a beber leche  
+    no alimento sólido  
+    (porque) todavía no ==podían== recibirlo  
+        ni aun ahora ==pueden==
+```
 
-## Regla
-Frase = no tiene verbo finito
-Qué es una frase
+###### Aplicación:
+```
+yo no ==pude== hablarles  
+les ==di== a beber leche
+```
 
- Es una parte del texto que:
-no tiene verbo finito
-acompaña a una cláusula
-no puede estar sola
+##### Regla importante
+###### La importancia de una cláusula no decide si se queda.
+- 👉 El conector decide.
 
-## Ejemplos
+###### NOTA: Importancia NO decide el tronco
+
+##### Error común
+- Mantener cláusulas porque “explican mucho”
+- Eliminar por intuición
+- Ignorar conectores
+- Mezclar estructura con significado
+
+##### Regla de control
+###### Si tiene conector, no puede estar en el tronco.
+
+##### Frase clave
+> “El conector decide qué queda.”
+
+##### Qué debes notar
+
+###### Ahora puedes ver:
+- qué sostiene el texto
+- qué depende de qué
+- cómo se construye el pensamiento
+
+######  👉 El texto queda reducido a su base real
+
+##### Transición
+###### En el siguiente paso:
+- 👉 observarás qué hace cada línea
+
+- 👉 pasarás de estructura a movimiento
+
+##### Hasta aquí has organizado el texto. Ahora comenzarás a observar cómo se mueve.
+
+# PASO 9 — MARCAR EL COMPORTAMIENTO
+
+## EJECUTA
+
+##### ¿Qué haces?
+###### Asignas una etiqueta de comportamiento a cada línea del texto.
+
+##### Regla
+###### Cada línea se etiqueta según lo que hace dentro del desarrollo del pensamiento.
+
+##### Cómo hacerlo
+###### Cada línea corresponde a una cláusula (o parte de ella) en el formato visual.
+
+1. Toma el texto ya estructurado (Paso 8)
+2. Lee una línea
+3. Haz esta pregunta:
+- 👉 ¿Qué está haciendo esta línea?
+4. Asigna una etiqueta clara
+
+##### Resultado esperado
+###### Cada línea del texto tiene una etiqueta visible:
 
 ```
+::EXPONE::
+no pude hablarles
+
+::EXPONE::
+como a espirituales
+
+::CONTRASTE::
+sino como a carnales
+```
+
+## ENTIENDE
+##### Qué estás haciendo realmente
+###### Hasta el Paso 8 trabajaste estructura.
+###### Aquí es donde el texto comienza a entenderse sin interpretación.
+
+###### Ahora trabajas movimiento.
+- 👉 Ya sabes cómo está armado el texto
+- 👉 Ahora observas cómo avanza
+
+##### Principio clave
+###### El texto no solo está organizado.
+- 👉 El texto se mueve.
+
+###### Cada línea cumple una función dentro de ese movimiento.
+
+##### Idea clave
+###### Estructura → cómo está construido
+###### Movimiento → qué está haciendo
+
+- 👉 Paso 8 organiza
+- 👉 Paso 9 revela acción
+
+##### Pregunta guía
+###### 👉 ¿Qué está haciendo esta línea aquí?
+
+###### NO preguntes:
+- ¿qué tipo de línea es?
+
+###### SÍ pregunta:
+- ¿qué función cumple?
+
+##### Definición
+###### Comportamiento = la función que una cláusula cumple dentro del desarrollo del pensamiento.
+
+###### Ejemplos:
+• expone • contrasta • da razón • muestra resultado • amplía • aclara
+
+##### Ejemplo guiado
+
+###### Texto:
+```
+no pude hablarles  
 como a espirituales  
-como a carnales  
-en Cristo  
-no alimento sólido  
-```
-
- Todas estas son frases
-
-## Cómo hacerlo
-
-1. Vuelve al texto original  
-2. Toma una cláusula  
-3. Busca lo que la acompaña sin verbo  
-4. Añádelo debajo  
-
-## Ejemplo
-
-Antes:
-```
-les di a beber leche
-    (porque → razón) todavía no podían recibirlo
-```
-
-Después:
-```
-les di a beber leche
-    no alimento sólido
-    (porque → razón) todavía no podían recibirlo
-```
-
-## Prueba
-¿tiene verbo finito?
-
-SI → no es frase  
-NO → es frase  
-
-## Regla crítica
-Las frases nunca crean nuevas cláusulas
-
-## Error común
-Separar frases como si fueran cláusulas
-
-## Regla de control
-Si no tiene verbo, no puede ir sola
-(Las líneas no son finales) 
-(Las frases completan cada cláusula)
-
-##  Resultado
-
-Ahora el texto es:
-```
-yo no pude hablarles
-    como a espirituales
-    sino como a carnales
-    como a niños en Cristo
-
-les di a beber leche
-    no alimento sólido
-    (porque → razón) todavía no podían recibirlo
-        ni aun ahora pueden
-```
-
-# PASO 8: IDENTIFICAR LA ESTRUCTURA TRONCAL
-
-## Qué haces
-Dejas solo las cláusulas principales.
-
-
-## Regla base
-Principal = no tiene conector  
-Dependiente = tiene conector  
-
-## Regla clave
-Solo te quedas con las cláusulas sin conector
-
-## Cómo hacerlo
-1. Mira tu estructura  
-2. Busca las cláusulas que están a la izquierda  
-3. Ignora todo lo que está debajo  
-
-##  Regla crítica
-No decides nada  
-Solo sigues los conectores
-La estructura troncal se identifica desde la estructura ya organizada
-
-## Ejemplo
-
-```
-yo no pude hablarles
-    como a espirituales
-    sino como a carnales
-    como a niños en Cristo
-
-les di a beber leche
-    no alimento sólido
-    (porque → razón) todavía no podían recibirlo
-        ni aun ahora pueden
-```
-
-## Aplicación
-
- ¿Qué cláusulas no tienen conector?
-yo no pude hablarles  
-les di a beber leche  
-
-## Resultado 
-yo no pude hablarles  
-les di a beber leche  
-
-##  Prueba simple
-
-¿tiene conector?
-SI → elimínala  
-NO → déjala  
-
-##  Error común
-
-Pensar:
-“esta también es importante”
-“esto explica mucho”
-  No importa
-
-## Regla de control
-Importancia ≠ Estructura troncal  
-Conector = decide
-Qué debes notar
-
-Todo lo demás:
-explica
-apoya
-desarrolla
-
-Pero no sostiene el texto
-
-##  Principio clave
-La estructura troncal no se interpreta  
-Se revela por los conectores
-Hasta ahora has separado el texto  
-Ahora comenzarás a ver cómo fluye
-
-# PASO 9: MARCAR EL COMPORTAMIENTO
-
-## Qué cambió aquí
-
-Hasta aquí veníamos trabajando la **estructura**.
-
-En los pasos anteriores:
-- marcamos los verbos
-- identificamos cláusulas
-- distinguimos cláusulas independientes y dependientes
-
-- acomodamos el texto según su estructura troncal
-- observamos cómo una línea depende de otra
-
-**Eso terminó en el Paso 8.**
-
-En otras palabras: **ya armamos el esqueleto del texto.**
-
-Ahora empieza una pregunta nueva:
-**Ya sé cómo está construido el texto.
-Ahora quiero ver qué está haciendo.**
-
-Ese es el propósito del Paso 9.
-
-## Lo que hacíamos antes
-
-Antes preguntábamos cosas como:
-- ¿Dónde está el verbo?
-- ¿Esto es cláusula o frase?
-- ¿Esto depende de otra línea?
-
-- ¿Cuál es la estructura troncal?
-- ¿Qué línea cuelga de cuál?
-
-Eso es observación estructural.
-
-Ahí el enfoque era:
-**¿Cómo está armado el texto?**
-
-## Lo que hacemos ahora
-
-Ahora la pregunta cambia.
-
-Ya no preguntamos primero:
-**¿Qué es esta línea gramaticalmente?**
-
-Ahora preguntamos:
-**¿Qué está haciendo esta línea dentro del desarrollo del pensamiento?**
-
-Eso es movimiento.
-
-## Idea clave
-
-La estructura y el movimiento no son lo mismo.
-
-### Estructura
-
-La estructura nos muestra **cómo está construido** el texto.
-
-### Movimiento
-
-El movimiento nos muestra **cómo avanza** el pensamiento del texto.
-
-## Una comparación simple
-
-### Estructura
-
-Es como ver los huesos del cuerpo.
-
-### Movimiento
-
-Es como ver qué está haciendo el cuerpo:
-- caminar
-- detenerse
-- señalar
-- contrastar
-
-- explicar
-- concluir
-
-Los huesos no se mueven solos.
-Pero sin huesos, no entiendes bien el movimiento.
-
-Por eso **Paso 9 viene después del Paso 8**.
-
-Primero estructura.
-Luego movimiento.
-
-## Regla principal del Paso 9
-
-En este paso, **cada línea se etiqueta según su comportamiento**.
-
-No importa si la línea es:
-- una cláusula independiente
-- una cláusula dependiente
-- una frase
-
-Si esa línea aporta algo al desarrollo del pensamiento, **se etiqueta**.
-
-## Por qué ahora sí etiquetamos frases
-
-En los pasos estructurales, una frase no tenía el mismo peso que una cláusula, porque la estructura troncal se construía alrededor de verbos finitos.
-
-Pero ahora estamos observando **movimiento**, no solamente gramática.
-
-Y una frase puede hacer muchísimo dentro del texto.
-
-Por ejemplo, una frase puede:
-- contrastar
-- especificar
-- aclarar
-
-- intensificar
-- completar
-- resumir
-
-Entonces, aunque una frase no tenga verbo, **sí puede tener comportamiento**.
-
-Y si tiene comportamiento, se etiqueta.
-
-## Qué significa “comportamiento”
-
-“Comportamiento” significa:
-**la función que cumple esa línea dentro del avance del pensamiento.**
-
-No preguntamos simplemente qué dice.
-
-Preguntamos:
-- ¿expone algo?
-- ¿contrasta?
-- ¿da razón?
-- ¿muestra resultado?
-
-- ¿aclara?
-- ¿amplía?
-- ¿define?
-- ¿concluye?
-
-## Pregunta guía del Paso 9
-
-Cada vez que miras una línea, preguntas:
-
-**¿Qué está haciendo esta línea aquí?**
-
-No:
-**¿Qué tipo de línea es?**
-
-Sino:
-**¿Qué papel cumple en el movimiento del texto?**
-
-## Qué NO estamos haciendo
-
-No estamos volviendo a hacer estructura.
-
-No estamos:
-- buscando otra vez los verbos
-- rearmando cláusulas
-- decidiendo otra vez qué depende de qué
-
-- corrigiendo la estructura troncal
-
-Eso ya se hizo.
-
-Paso 9 no reemplaza Paso 8.
-
-Paso 9 **se apoya en Paso 8**.
-
-## Cómo funciona en la práctica
-
-Una vez que el texto ya está acomodado estructuralmente, miras línea por línea y le asignas una etiqueta de comportamiento.
-
-Por ejemplo:
-### Línea 1
-
-no pude hablaros
-
-Pregunta:
-**¿Qué está haciendo esta línea?**
-
-Respuesta:
-Está presentando una situación.
-Está poniendo algo sobre la mesa.
-
-Etiquetamos de esta manera:
-```
- ::EXPONE::
-no pude hablaros
-```
-
-### Línea 2
-
-como a espirituales
-
-Pregunta:
-**¿Qué está haciendo esta línea?**
-
-Respuesta:
-Completa la idea anterior mostrando el punto de comparación esperado.
-
-También sigue exponiendo la idea.
-
-Etiqueta:
-```
- ::EXPONE::
-como a espirituales
-```
-
-### Línea 3
-
-sino como a carnales
-
-Pregunta:
-**¿Qué está haciendo esta línea?**
-
-Respuesta:
-Está oponiendo una realidad a la expectativa anterior.
-
-Etiqueta:
-```
- ::CONTRASTE::
 sino como a carnales
 ```
 
-## Lo importante
+###### Aplicación:
 
-La etiqueta no sale simplemente de si hay verbo o no.
+```
+::EXPONE::
+no pude hablarles
 
-Sale de la pregunta:
+::EXPONE::
+como a espirituales
 
-**¿Qué hace esta línea en el discurso?**
+::CONTRASTE::
+sino como a carnales
+```
 
-Por eso una frase puede recibir etiqueta igual que una cláusula.
+##### Regla importante
+El comportamiento no depende de tener verbo.
 
-## Diferencia entre conector y comportamiento
+👉 Una frase también puede tener comportamiento
 
-Esto también hay que aclararlo muy bien.
+##### Error común
+❌ Volver a pensar en estructura
+❌ Ignorar frases por no tener verbo
+❌ Etiquetar por intuición sin preguntarse “qué hace”
 
-### El conector
+##### Regla de control
 
-El conector ayuda a ver la relación estructural.
+###### Si no puedes responder:
+- 👉 “¿Qué hace esta línea?”
 
-Por ejemplo:
-- porque
-- pero
-- sino
-- para que
+###### Entonces no puedes etiquetar correctamente.
 
-- cuando
+##### Frase clave
+###### “No preguntes qué es — pregunta qué hace.”
 
-### El comportamiento
+##### Qué debes notar
 
-El comportamiento describe lo que esa línea está haciendo en el desarrollo del pensamiento.
+###### Ahora comienzas a ver:
+- dónde el texto expone
+- dónde responde
+- dónde cambia
+- dónde concluye
 
-A veces el conector ayuda mucho a identificarlo.
-Pero la etiqueta del Paso 9 no es simplemente repetir el conector.
+👉 Estás viendo el movimiento real del texto
 
-Porque ahora estamos mirando la línea completa como unidad de movimiento.
+##### Transición
 
-## En una sola frase
-
-**Paso 8 ordena el texto.
-Paso 9 observa cómo avanza.**
-
-## Fórmula sencilla para enseñar al estudiante
-
-Puedes enseñarlo así:
-### Hasta el Paso 8:
-
-**Ya organicé el texto.**
-
-### En el Paso 9:
-**Ahora observo el comportamiento de cada línea.**
-
-## Otra fórmula todavía más simple
-
-### Estructura pregunta:
-**¿Cómo está armado?**
-
-### Movimiento pregunta:
-**¿Qué está haciendo?**
-
-## Advertencia importante
-
-Si el estudiante entra al Paso 9 pensando todavía solo en estructura, se va a trabar.
-
-Porque va a decir:
-- “esta línea no tiene verbo”
-- “esto no es cláusula”
-- “esto no parece suficiente”
-
-Y sí: estructuralmente eso sería una limitación.
-
-Pero en este paso ya no estamos preguntando solo por estructura.
-
-Ahora estamos mirando **unidades de sentido en movimiento**.
-
-## Definición corta de “línea”
-
-En Paso 9, una línea es:
-**una unidad de sentido visible dentro del desarrollo del texto.**
-
-Puede ser:
-- cláusula
-- cláusula dependiente
-- frase
-
-Si mueve el pensamiento, se etiqueta.
-
-## Objetivo del Paso 9
-
-El objetivo no es solo llenar el texto de etiquetas.
-
-El objetivo es que el estudiante empiece a ver cosas como estas:
-- dónde el autor expone
-- dónde contrasta
-- dónde da razón
-- dónde muestra resultado
-
-- dónde amplía una idea
-- dónde cambia de dirección
-- dónde remata
-
-En otras palabras:
-**que el estudiante empiece a ver el movimiento real del texto.**
-
-## Transición breve para poner al inicio de la lección
-
-Hasta aquí terminamos el trabajo de estructura.
-Ya vimos cómo está construido el texto.
-Ahora pasamos a una nueva observación: el movimiento.
-
-En este paso no preguntamos solo cómo está armada cada línea, sino qué está haciendo cada línea dentro del desarrollo del pensamiento.
+###### En el siguiente paso:
+- 👉 dejarás de mirar el contenido
+- 👉 y observarás solo las etiquetas
+- para detectar patrones
 
 # PASO 10: IDENTIFICAR PATRONES
 

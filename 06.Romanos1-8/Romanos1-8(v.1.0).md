@@ -2405,9 +2405,7 @@ Todos son justificados gratuitamente por Su gracia por medio de la redención qu
 
 ##### Los mismos que <u>pecaron</u> son los mismos que ahora son justificados.
 
-![](images/justificacion.png)
-
-   https://cdn.pixabay.com/photo/2017/01/13/01/22/rocket-1976107_1280.png     
+![La Justficación](images/justificacion.png)
 
 #### por Su gracia,
 
@@ -4490,7 +4488,7 @@ La ley se introdujo para que abundara la transgresión, pero donde el pecado abu
 
 ##### El pecado ya existía, pero La Ley lo define, lo nombra y lo multiplica como transgresión. Donde no hay ley, hay pecado;  pero <u>donde</u> hay ley, el pecado queda plenamente expuesto como rebelión.
 
-![pecador-](images/pecador-.png)
+![Pecador](images/pecador-.png)
 
 ##### La ley no crea el pecado,  <u>pero</u> lo convierte en transgresión consciente y responsable. Así, la ley cumple su función:
 ##### Hacer visible la magnitud <u>real</u> del problema humano.
@@ -5961,7 +5959,7 @@ Porque sabemos que la ley es espiritual, pero yo soy carnal, vendido a la esclav
 
 ##### La carnalidad se manifiesta en el <u>conflicto</u> interno que sigue.
 
-![measure-up](images/measure-up.png)
+![Intento de aprobación mediante el esfuerzo](images/measure-up.png)
 
 ### Romanos 7:15 
 Porque lo que hago, no lo entiendo. Porque no practico lo que quiero hacer, sino que lo que aborrezco, eso hago.
@@ -6285,7 +6283,7 @@ para que el requisito de la ley se cumpliera en nosotros, que no andamos conform
 
 ##### Sabemos que esto es posible solo <u>gracias</u> a la provisión de Dios en Cristo (*Dios lo hizo*).
 
-![regla-y-plataforma](images/regla-y-plataforma.png)
+![Regla y Plataforma](images/regla-y-plataforma.png)
 
 #### que no andamos conforme a la carne, sino conforme al Espíritu. 
 ##### El estado del creyente <u>ahora</u> es de libertad respecto a la carne y de vida en el Espíritu, y por eso anda conforme al Espíritu. 
@@ -6433,7 +6431,7 @@ Y si Cristo está en ustedes, aunque el cuerpo esté muerto a causa del pecado, 
 
 ##### No hay imperativos ni exhortaciones; se describe un estado, no una instrucción.
 
-![settled](images/settled.png)
+![Resuelto](images/settled.png)
 
 ### Romanos 8:11
 Pero si el Espíritu de Aquel que resucitó a Jesús de entre los muertos habita en ustedes, el mismo que resucitó a Cristo Jesús de entre los muertos, también dará vida a sus cuerpos mortales por medio de Su Espíritu que habita en ustedes.
@@ -6601,7 +6599,7 @@ Y si somos hijos, somos también herederos; herederos de Dios y coherederos con 
 >
 >- No es recompensa: es la trayectoria propia de la vida en Cristo.
 
-![glorificacion](images/glorificacion.png)
+![Glorificacion](images/glorificacion.png)
 
 ## Romanos 8:18-27: La esperanza en medio del sufrimiento y la debilidad 
 (el sufrimiento no contradice la esperanza, la confirma)
