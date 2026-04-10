@@ -4,298 +4,202 @@
 \contentsline {subsection}{Metodología de estudio}{2}{subsection*.4}%
 \contentsline {subsection}{Alcance y uso del manual}{2}{subsection*.5}%
 \contentsline {subsection}{Resultado esperado}{2}{subsection*.6}%
-\contentsline {section}{INTRODUCCIÓN}{5}{section*.7}%
-\contentsline {subsection}{Preámbulo}{5}{subsection*.8}%
-\contentsline {subsection}{Sobre el autor}{5}{subsection*.9}%
-\contentsline {subsection}{ROMA}{5}{subsection*.10}%
-\contentsline {subsection}{Gramática de la carta}{6}{subsection*.11}%
-\contentsline {subsection}{Conceptos importantes presentados en Romanos}{7}{subsection*.12}%
-\contentsline {section}{ROMANOS 1:1--17 -- Introducción y tesis del evangelio}{7}{section*.13}%
-\contentsline {subsection}{Romanos 1:1--7 -- Identidad apostólica y descripción del evangelio}{7}{subsection*.14}%
-\contentsline {subsubsection}{Romanos 1:1}{7}{subsubsection*.15}%
-\contentsline {subsubsection}{Romanos 1:2}{8}{subsubsection*.16}%
-\contentsline {subsubsection}{Romanos 1:3}{9}{subsubsection*.17}%
-\contentsline {subsubsection}{Romanos 1:4}{10}{subsubsection*.18}%
-\contentsline {subsubsection}{Romanos 1:5}{11}{subsubsection*.19}%
-\contentsline {subsubsection}{Romanos 1:6}{12}{subsubsection*.20}%
-\contentsline {subsubsection}{Romanos 1:7}{13}{subsubsection*.21}%
-\contentsline {subsection}{Romanos 1:8--15 -- Relación con los creyentes en Roma}{14}{subsection*.22}%
-\contentsline {subsubsection}{Romanos 1:8}{14}{subsubsection*.23}%
-\contentsline {subsubsection}{Romanos 1:9}{14}{subsubsection*.24}%
-\contentsline {subsubsection}{Romanos 1:10}{15}{subsubsection*.25}%
-\contentsline {subsubsection}{Romanos 1:11}{15}{subsubsection*.26}%
-\contentsline {subsubsection}{Romanos 1:12}{16}{subsubsection*.27}%
-\contentsline {subsubsection}{Romanos 1:13}{16}{subsubsection*.28}%
-\contentsline {subsubsection}{Romanos 1:14}{17}{subsubsection*.29}%
-\contentsline {subsubsection}{Romanos 1:15}{17}{subsubsection*.30}%
-\contentsline {subsection}{Romanos 1:16--17 Declaración central del evangelio}{17}{subsection*.31}%
-\contentsline {subsubsection}{Romanos 1:16}{17}{subsubsection*.32}%
-\contentsline {subsubsection}{Romanos 1:17}{18}{subsubsection*.33}%
-\contentsline {subsubsection}{El evangelio no comienza con el hombre, sino con Dios y Su propósito.}{19}{subsubsection*.34}%
-\contentsline {section}{ROMANOS 1:18--3:20 -- La revelación de la ira y la responsabilidad universal}{20}{section*.35}%
-\contentsline {subsection}{Romanos 1:18--23 -- La revelación de Dios y supresión de la verdad}{20}{subsection*.36}%
-\contentsline {subsubsection}{Romanos 1:18}{20}{subsubsection*.37}%
-\contentsline {subsubsection}{Romanos 1:19}{22}{subsubsection*.38}%
-\contentsline {subsubsection}{Romanos 1:20}{22}{subsubsection*.39}%
-\contentsline {subsubsection}{Romanos 1:21}{23}{subsubsection*.40}%
-\contentsline {subsubsection}{Romanos 1:22}{23}{subsubsection*.41}%
-\contentsline {subsubsection}{Romanos 1:23}{24}{subsubsection*.42}%
-\contentsline {subsection}{Romanos 1:24--25 -- Entregados a los deseos del corazón}{24}{subsection*.43}%
-\contentsline {subsubsection}{Romanos 1:24}{24}{subsubsection*.44}%
-\contentsline {subsubsection}{Romanos 1:25}{26}{subsubsection*.45}%
-\contentsline {subsection}{Romanos 1:26--27 -- Entregados a pasiones degradantes}{27}{subsection*.46}%
-\contentsline {subsubsection}{La consecuencia es una inversión de valores}{27}{subsubsection*.47}%
-\contentsline {subsubsection}{Romanos 1:26}{27}{subsubsection*.48}%
-\contentsline {subsubsection}{Romanos 1:27}{29}{subsubsection*.49}%
-\contentsline {subsection}{Romanos 1:28--32 -- Entregados a una mente reprobada}{30}{subsection*.50}%
-\contentsline {subsubsection}{Romanos 1:28}{30}{subsubsection*.51}%
-\contentsline {subsubsection}{Romanos 1:29}{30}{subsubsection*.52}%
-\contentsline {subsubsection}{Romanos 1:30}{31}{subsubsection*.53}%
-\contentsline {subsubsection}{Romanos 1:31}{31}{subsubsection*.54}%
-\contentsline {subsubsection}{Romanos 1:32}{31}{subsubsection*.55}%
-\contentsline {subsection}{Romanos 2:1--5 -- Juicio sobre el que juzga}{32}{subsection*.56}%
-\contentsline {subsubsection}{Romanos 2:1}{32}{subsubsection*.57}%
-\contentsline {subsubsection}{Romanos 2:2}{33}{subsubsection*.58}%
-\contentsline {subsubsection}{Romanos 2:3}{33}{subsubsection*.59}%
-\contentsline {subsubsection}{Romanos 2:4}{33}{subsubsection*.60}%
-\contentsline {subsubsection}{Romanos 2:5}{34}{subsubsection*.61}%
-\contentsline {subsection}{Romanos 2:6--11 -- Principio del juicio imparcial de Dios}{35}{subsection*.62}%
-\contentsline {subsubsection}{Romanos 2:6}{35}{subsubsection*.63}%
-\contentsline {subsubsection}{Romanos 2:7}{35}{subsubsection*.64}%
-\contentsline {subsubsection}{Romanos 2:8}{35}{subsubsection*.65}%
-\contentsline {subsubsection}{Romanos 2:9}{36}{subsubsection*.66}%
-\contentsline {subsubsection}{Romanos 2:10}{36}{subsubsection*.67}%
-\contentsline {subsubsection}{Romanos 2:11}{37}{subsubsection*.68}%
-\contentsline {subsection}{Romanos 2:12--16 -- Juicio según la ley y la conciencia}{37}{subsection*.69}%
-\contentsline {subsubsection}{Romanos 2:12}{37}{subsubsection*.70}%
-\contentsline {subsubsection}{Romanos 2:13}{38}{subsubsection*.71}%
-\contentsline {subsubsection}{Romanos 2:14}{38}{subsubsection*.72}%
-\contentsline {subsubsection}{Romanos 2:15}{39}{subsubsection*.73}%
-\contentsline {subsubsection}{Romanos 2:16}{39}{subsubsection*.74}%
-\contentsline {subsection}{Romanos 2:17--24 -- Juicio sobre el que se gloría en Dios y no cumple la ley}{39}{subsection*.75}%
-\contentsline {subsubsection}{Romanos 2:17}{39}{subsubsection*.76}%
-\contentsline {subsubsection}{Romanos 2:18}{40}{subsubsection*.77}%
-\contentsline {subsubsection}{Romanos 2:19}{41}{subsubsection*.78}%
-\contentsline {subsubsection}{Romanos 2:20}{41}{subsubsection*.79}%
-\contentsline {subsubsection}{Romanos 2:21}{42}{subsubsection*.80}%
-\contentsline {subsubsection}{Romanos 2:22}{42}{subsubsection*.81}%
-\contentsline {subsubsection}{Romanos 2:23}{42}{subsubsection*.82}%
-\contentsline {subsubsection}{Romanos 2:24}{42}{subsubsection*.83}%
-\contentsline {subsection}{Romanos 2:25--29: Juicio sobre la circuncisión externa}{43}{subsection*.84}%
-\contentsline {subsubsection}{Romanos 2:25}{43}{subsubsection*.85}%
-\contentsline {subsubsection}{Romanos 2:26}{44}{subsubsection*.86}%
-\contentsline {subsubsection}{Romanos 2:27}{44}{subsubsection*.87}%
-\contentsline {subsubsection}{Romanos 2:28}{44}{subsubsection*.88}%
-\contentsline {subsubsection}{Romanos 2:29}{44}{subsubsection*.89}%
-\contentsline {subsection}{Romanos 3:1--4 Privilegio revelado y fidelidad divina}{45}{subsection*.90}%
-\contentsline {subsubsection}{Romanos 3:1}{46}{subsubsection*.91}%
-\contentsline {subsubsection}{Romanos 3:2}{47}{subsubsection*.92}%
-\contentsline {subsubsection}{Romanos 3:3}{47}{subsubsection*.93}%
-\contentsline {subsubsection}{Romanos 3:4}{48}{subsubsection*.94}%
-\contentsline {subsection}{Romanos 3:5-8 La justicia de Dios ante la acusación humana}{50}{subsection*.95}%
-\contentsline {subsubsection}{Romanos 3:5}{50}{subsubsection*.96}%
-\contentsline {subsubsection}{Romanos 3:6}{50}{subsubsection*.97}%
-\contentsline {subsubsection}{Romanos 3:7}{51}{subsubsection*.98}%
-\contentsline {subsubsection}{Romanos 3:8}{51}{subsubsection*.99}%
-\contentsline {subsection}{Romanos 3:9--18 La condición universal bajo pecado}{52}{subsection*.100}%
-\contentsline {subsubsection}{Romanos 3:9}{52}{subsubsection*.101}%
-\contentsline {subsubsection}{Romanos 3:10}{54}{subsubsection*.102}%
-\contentsline {subsection}{Romanos 3:11--18 La condición moral del hombre}{54}{subsection*.103}%
-\contentsline {subsubsection}{Romanos 3:11}{54}{subsubsection*.104}%
-\contentsline {subsubsection}{Romanos 3:12}{55}{subsubsection*.105}%
-\contentsline {subsubsection}{Romanos 3:13}{57}{subsubsection*.106}%
-\contentsline {subsubsection}{Romanos 3:14}{57}{subsubsection*.107}%
-\contentsline {subsubsection}{Romanos 3:15}{58}{subsubsection*.108}%
-\contentsline {subsubsection}{Romanos 3:16}{58}{subsubsection*.109}%
-\contentsline {subsubsection}{Romanos 3:17}{59}{subsubsection*.110}%
-\contentsline {subsubsection}{Romanos 3:18}{59}{subsubsection*.111}%
-\contentsline {subsection}{Romanos 3:19--20 La ley cierra toda boca}{60}{subsection*.112}%
-\contentsline {subsubsection}{Romanos 3:19}{60}{subsubsection*.113}%
-\contentsline {subsubsection}{Romanos 3:20}{61}{subsubsection*.114}%
-\contentsline {section}{ROMANOS 3:21--4:25 -- La justicia revelada y confirmada}{63}{section*.115}%
-\contentsline {subsection}{Romanos 3:21--26 La justicia revelada por medio de la fe}{63}{subsection*.116}%
-\contentsline {subsubsection}{Romanos 3:21}{64}{subsubsection*.117}%
-\contentsline {subsubsection}{Romanos 3:22}{65}{subsubsection*.118}%
-\contentsline {subsubsection}{Romanos 3:23}{66}{subsubsection*.119}%
-\contentsline {subsubsection}{Romanos 3:24}{66}{subsubsection*.120}%
-\contentsline {subsubsection}{Romanos 3:25}{68}{subsubsection*.121}%
-\contentsline {subsubsection}{Romanos 3:26}{69}{subsubsection*.122}%
-\contentsline {subsection}{Romanos 3:27--31 La jactancia excluida y la ley confirmada}{69}{subsection*.123}%
-\contentsline {subsubsection}{Romanos 3:27}{70}{subsubsection*.124}%
-\contentsline {subsubsection}{Romanos 3:28}{71}{subsubsection*.125}%
-\contentsline {subsubsection}{Romanos 3:29}{72}{subsubsection*.126}%
-\contentsline {subsubsection}{Romanos 3:30}{73}{subsubsection*.127}%
-\contentsline {subsubsection}{Romanos 3:31}{73}{subsubsection*.128}%
-\contentsline {subsection}{Romanos 4:1--8 Abraham y David: justificación sin obras}{74}{subsection*.129}%
-\contentsline {subsubsection}{Romanos 4:1}{75}{subsubsection*.130}%
-\contentsline {subsubsection}{Romanos 4:2}{77}{subsubsection*.131}%
-\contentsline {subsubsection}{Romanos 4:3}{77}{subsubsection*.132}%
-\contentsline {subsection}{Romanos 4:4--5 Dos principios opuestos: salario o gracia}{78}{subsection*.133}%
-\contentsline {subsubsection}{Romanos 4:4}{78}{subsubsection*.134}%
-\contentsline {subsubsection}{Romanos 4:5}{79}{subsubsection*.135}%
-\contentsline {subsubsection}{Romanos 4:6}{83}{subsubsection*.136}%
-\contentsline {subsubsection}{Romanos 4:7}{84}{subsubsection*.137}%
-\contentsline {subsubsection}{Romanos 4:8}{85}{subsubsection*.138}%
-\contentsline {subsection}{Romanos 4:9--12 Justificación antes de la circuncisión}{86}{subsection*.139}%
-\contentsline {subsubsection}{Romanos 4:9}{86}{subsubsection*.140}%
-\contentsline {subsubsection}{Romanos 4:10}{87}{subsubsection*.141}%
-\contentsline {subsubsection}{Romanos 4:11}{87}{subsubsection*.142}%
-\contentsline {subsubsection}{Romanos 4:12}{88}{subsubsection*.143}%
-\contentsline {subsection}{Romanos 4:13--17 La promesa no viene por la ley}{88}{subsection*.144}%
-\contentsline {subsubsection}{Romanos 4:13}{88}{subsubsection*.145}%
-\contentsline {subsubsection}{Romanos 4:14}{89}{subsubsection*.146}%
-\contentsline {subsubsection}{Romanos 4:15}{89}{subsubsection*.147}%
-\contentsline {subsubsection}{Romanos 4:16}{89}{subsubsection*.148}%
-\contentsline {subsubsection}{Romanos 4:17}{90}{subsubsection*.149}%
-\contentsline {subsection}{Romanos 4:18--22 La fe contada por justicia}{91}{subsection*.150}%
-\contentsline {subsubsection}{Romanos 4:18}{91}{subsubsection*.151}%
-\contentsline {subsubsection}{Romanos 4:19}{91}{subsubsection*.152}%
-\contentsline {subsubsection}{Romanos 4:20}{92}{subsubsection*.153}%
-\contentsline {subsubsection}{Romanos 4:21}{92}{subsubsection*.154}%
-\contentsline {subsubsection}{Romanos 4:22}{93}{subsubsection*.155}%
-\contentsline {subsubsection}{Romanos 4:23}{94}{subsubsection*.156}%
-\contentsline {subsubsection}{Romanos 4:24}{94}{subsubsection*.157}%
-\contentsline {subsubsection}{Romanos 4:25}{95}{subsubsection*.158}%
-\contentsline {section}{Romanos 5:1-8:39 - La nueva realidad y sus implicaciones}{97}{section*.159}%
-\contentsline {subsection}{Romanos 5:1--5 Los resultados inmediatos de la justificación}{97}{subsection*.160}%
-\contentsline {subsubsection}{Romanos 5:1}{97}{subsubsection*.161}%
-\contentsline {subsubsection}{Romanos 5:2}{98}{subsubsection*.162}%
-\contentsline {subsubsection}{Romanos 5:3}{99}{subsubsection*.163}%
-\contentsline {subsubsection}{Romanos 5:4}{99}{subsubsection*.164}%
-\contentsline {subsubsection}{Romanos 5:5}{100}{subsubsection*.165}%
-\contentsline {subsection}{Romanos 5:6--11 Reconciliados por la muerte del Hijo}{101}{subsection*.166}%
-\contentsline {subsubsection}{Romanos 5:6}{101}{subsubsection*.167}%
-\contentsline {subsubsection}{Romanos 5:7}{102}{subsubsection*.168}%
-\contentsline {subsubsection}{Romanos 5:8}{102}{subsubsection*.169}%
-\contentsline {subsubsection}{Romanos 5:9}{102}{subsubsection*.170}%
-\contentsline {subsubsection}{Romanos 5:10}{103}{subsubsection*.171}%
-\contentsline {subsubsection}{Romanos 5:11}{105}{subsubsection*.172}%
-\contentsline {subsection}{Romanos 5:12--14 El pecado y la muerte entraron por un hombre}{106}{subsection*.173}%
-\contentsline {subsubsection}{Romanos 5:12}{106}{subsubsection*.174}%
-\contentsline {subsubsection}{Romanos 5:13}{108}{subsubsection*.175}%
-\contentsline {subsubsection}{Romanos 5:14}{108}{subsubsection*.176}%
-\contentsline {subsection}{Romanos 5:15--17 El don supera la transgresión}{109}{subsection*.177}%
-\contentsline {subsubsection}{Romanos 5:15}{109}{subsubsection*.178}%
-\contentsline {subsubsection}{Romanos 5:16}{113}{subsubsection*.181}%
-\contentsline {subsubsection}{Romanos 5:17}{113}{subsubsection*.182}%
-\contentsline {subsection}{Romanos 5:18--21 La gracia reina por medio de la justicia}{114}{subsection*.183}%
-\contentsline {subsubsection}{Romanos 5:18}{114}{subsubsection*.184}%
-\contentsline {subsubsection}{Romanos 5:19}{115}{subsubsection*.185}%
-\contentsline {subsubsection}{Romanos 5:20}{118}{subsubsection*.188}%
-\contentsline {subsubsection}{Romanos 5:21}{120}{subsubsection*.190}%
-\contentsline {subsection}{Romanos 6:1--2 ¿Perseveraremos en el pecado?}{122}{subsection*.192}%
-\contentsline {subsubsection}{Romanos 6:1}{123}{subsubsection*.193}%
-\contentsline {subsubsection}{Romanos 6:2}{124}{subsubsection*.194}%
-\contentsline {subsection}{Romanos 6:3--7 muertos al pecado, unidos a Cristo}{126}{subsection*.195}%
-\contentsline {subsubsection}{Romanos 6:3}{126}{subsubsection*.196}%
-\contentsline {subsubsection}{Romanos 6:4}{128}{subsubsection*.197}%
-\contentsline {subsubsection}{Romanos 6:5}{129}{subsubsection*.198}%
-\contentsline {subsubsection}{Romanos 6:6}{129}{subsubsection*.199}%
-\contentsline {subsubsection}{Romanos 6:7}{131}{subsubsection*.200}%
-\contentsline {subsection}{Romanos 6:8-10 Vivos para Dios, ya no bajo el dominio del pecado}{132}{subsection*.201}%
-\contentsline {subsubsection}{Romanos 6:8}{132}{subsubsection*.202}%
-\contentsline {subsubsection}{Romanos 6:9}{132}{subsubsection*.203}%
-\contentsline {subsubsection}{Romanos 6:10}{133}{subsubsection*.204}%
-\contentsline {subsection}{Romanos 6:11--14 Considerarse muertos al pecado y vivos para Dios}{133}{subsection*.205}%
-\contentsline {subsubsection}{Romanos 6:11}{134}{subsubsection*.206}%
-\contentsline {subsubsection}{Romanos 6:12}{134}{subsubsection*.207}%
-\contentsline {subsubsection}{Romanos 6:13}{138}{subsubsection*.208}%
-\contentsline {subsubsection}{Romanos 6:14}{140}{subsubsection*.209}%
-\contentsline {subsection}{Romanos 6:15--19 ¿Pecaremos porque no estamos bajo la ley?}{140}{subsection*.210}%
-\contentsline {subsubsection}{Romanos 6:15}{141}{subsubsection*.211}%
-\contentsline {subsubsection}{Romanos 6:16}{141}{subsubsection*.212}%
-\contentsline {subsubsection}{Romanos 6:17}{142}{subsubsection*.213}%
-\contentsline {subsubsection}{Romanos 6:18}{143}{subsubsection*.214}%
-\contentsline {subsubsection}{Romanos 6:19}{144}{subsubsection*.215}%
-\contentsline {subsection}{Romanos 6:20--23 La paga del pecado y el don de Dios}{144}{subsection*.216}%
-\contentsline {subsubsection}{Romanos 6:20}{144}{subsubsection*.217}%
-\contentsline {subsubsection}{Romanos 6:21}{145}{subsubsection*.218}%
-\contentsline {subsubsection}{Romanos 6:22}{145}{subsubsection*.219}%
-\contentsline {subsubsection}{Romanos 6:23}{146}{subsubsection*.220}%
-\contentsline {subsection}{Romanos 7:1--3 Un ejemplo: el matrimonio y la muerte}{147}{subsection*.221}%
-\contentsline {subsubsection}{Romanos 7:1}{147}{subsubsection*.222}%
-\contentsline {subsubsection}{Romanos 7:2}{147}{subsubsection*.223}%
-\contentsline {subsubsection}{Romanos 7:3}{148}{subsubsection*.224}%
-\contentsline {subsection}{Romanos 7:4-7 - Muertos a la ley para pertenecer a Cristo}{149}{subsection*.225}%
-\contentsline {subsubsection}{Romanos 7:4}{149}{subsubsection*.226}%
-\contentsline {subsubsection}{Romanos 7:5}{150}{subsubsection*.227}%
-\contentsline {subsubsection}{Romanos 7:6}{150}{subsubsection*.228}%
-\contentsline {subsection}{Romanos 7:7-12 La Ley no es pecado, lo revela}{151}{subsection*.229}%
-\contentsline {subsubsection}{Romanos 7:7}{151}{subsubsection*.230}%
-\contentsline {subsubsection}{Romanos 7:8}{151}{subsubsection*.231}%
-\contentsline {subsubsection}{Romanos 7:9}{152}{subsubsection*.232}%
-\contentsline {subsubsection}{Romanos 7:10}{152}{subsubsection*.233}%
-\contentsline {subsubsection}{Romanos 7:11}{153}{subsubsection*.234}%
-\contentsline {subsubsection}{Romanos 7:12}{154}{subsubsection*.235}%
-\contentsline {subsection}{Romanos 7:13-20 El pecado que habita en mi}{154}{subsection*.236}%
-\contentsline {subsubsection}{Romanos 7:13}{154}{subsubsection*.237}%
-\contentsline {subsubsection}{Romanos 7:14}{155}{subsubsection*.238}%
-\contentsline {subsubsection}{Romanos 7:15}{156}{subsubsection*.240}%
-\contentsline {subsubsection}{Romanos 7:16}{156}{subsubsection*.241}%
-\contentsline {subsubsection}{Romanos 7:17}{156}{subsubsection*.242}%
-\contentsline {subsubsection}{Romanos 7:18}{158}{subsubsection*.243}%
-\contentsline {subsubsection}{Romanos 7:19}{158}{subsubsection*.244}%
-\contentsline {subsubsection}{Romanos 7:20}{159}{subsubsection*.245}%
-\contentsline {subsection}{Romanos 7:21-23 La ley del pecado que me lleva cautivo}{160}{subsection*.246}%
-\contentsline {subsubsection}{Romanos 7:21}{160}{subsubsection*.247}%
-\contentsline {subsubsection}{Romanos 7:22}{160}{subsubsection*.248}%
-\contentsline {subsubsection}{Romanos 7:23}{160}{subsubsection*.249}%
-\contentsline {subsection}{Romanos 7:24-25 ¿Quién me librará?}{161}{subsection*.250}%
-\contentsline {subsubsection}{Romanos 7:24}{161}{subsubsection*.251}%
-\contentsline {subsubsection}{Romanos 7:25}{161}{subsubsection*.252}%
-\contentsline {subsection}{Romanos 8:1-4: Ninguna condenación en Cristo Jesús}{162}{subsection*.253}%
-\contentsline {subsubsection}{Romanos 8:1}{162}{subsubsection*.254}%
-\contentsline {subsubsection}{Romanos 8:2}{163}{subsubsection*.255}%
-\contentsline {subsubsection}{Romanos 8:3}{163}{subsubsection*.256}%
-\contentsline {subsubsection}{Romanos 8:4}{164}{subsubsection*.257}%
-\contentsline {subsection}{Romanos 8:5-11 Vivir según la carne o según el Espíritu}{165}{subsection*.259}%
-\contentsline {subsubsection}{Romanos 8:5}{165}{subsubsection*.260}%
-\contentsline {subsubsection}{Romanos 8:6}{167}{subsubsection*.261}%
-\contentsline {subsubsection}{Romanos 8:7}{167}{subsubsection*.263}%
-\contentsline {subsubsection}{Romanos 8:8}{169}{subsubsection*.264}%
-\contentsline {subsubsection}{Romanos 8:9}{169}{subsubsection*.265}%
-\contentsline {subsubsection}{Romanos 8:10}{170}{subsubsection*.266}%
-\contentsline {subsubsection}{Romanos 8:11}{170}{subsubsection*.268}%
-\contentsline {subsection}{Romanos 8:12-17 Hijos de Dios y herederos con Cristo}{172}{subsection*.269}%
-\contentsline {subsubsection}{Romanos 8:12}{172}{subsubsection*.270}%
-\contentsline {subsubsection}{Romanos 8:13}{173}{subsubsection*.271}%
-\contentsline {subsubsection}{Romanos 8:14}{173}{subsubsection*.272}%
-\contentsline {subsubsection}{Romanos 8:15}{174}{subsubsection*.273}%
-\contentsline {subsubsection}{Romanos 8:16}{174}{subsubsection*.274}%
-\contentsline {subsubsection}{Romanos 8:17}{174}{subsubsection*.276}%
-\contentsline {subsection}{Romanos 8:18-27: La esperanza en medio del sufrimiento y la debilidad}{176}{subsection*.278}%
-\contentsline {subsubsection}{Romanos 8:18}{176}{subsubsection*.279}%
-\contentsline {subsubsection}{Romanos 8:19}{180}{subsubsection*.282}%
-\contentsline {subsubsection}{Romanos 8:20}{180}{subsubsection*.283}%
-\contentsline {subsubsection}{Romanos 8:21}{180}{subsubsection*.284}%
-\contentsline {subsubsection}{Romanos 8:22}{180}{subsubsection*.285}%
-\contentsline {subsubsection}{Romanos 8:23}{181}{subsubsection*.286}%
-\contentsline {subsubsection}{Romanos 8:24}{182}{subsubsection*.287}%
-\contentsline {subsubsection}{Romanos 8:25}{182}{subsubsection*.288}%
-\contentsline {subsubsection}{Romanos 8:26}{183}{subsubsection*.289}%
-\contentsline {subsubsection}{Romanos 8:27}{184}{subsubsection*.290}%
-\contentsline {subsection}{Romanos 8:28-30 Llamados conforme a su propósito}{185}{subsection*.291}%
-\contentsline {subsubsection}{Romanos 8:28}{185}{subsubsection*.292}%
-\contentsline {subsubsection}{Romanos 8:29}{187}{subsubsection*.293}%
-\contentsline {subsubsection}{Romanos 8:30}{188}{subsubsection*.294}%
-\contentsline {subsection}{Romanos 8:31-34 ¿Quién acusará o condenará?}{188}{subsection*.295}%
-\contentsline {subsubsection}{Romanos 8:31}{189}{subsubsection*.296}%
-\contentsline {subsubsection}{Romanos 8:32}{189}{subsubsection*.297}%
-\contentsline {subsubsection}{Romanos 8:33}{189}{subsubsection*.298}%
-\contentsline {subsubsection}{Romanos 8:34}{190}{subsubsection*.299}%
-\contentsline {subsection}{Romanos 8:35-39 Nada nos separará del amor de Dios}{190}{subsection*.300}%
-\contentsline {subsubsection}{Romanos 8:35}{190}{subsubsection*.301}%
-\contentsline {subsubsection}{Romanos 8:36}{191}{subsubsection*.302}%
-\contentsline {subsubsection}{Romanos 8:37}{191}{subsubsection*.303}%
-\contentsline {subsubsection}{Romanos 8:38}{192}{subsubsection*.304}%
-\contentsline {subsubsection}{Romanos 8:39}{192}{subsubsection*.305}%
-\contentsline {section}{EPÍLOGO VISUAL}{194}{section*.307}%
-\contentsline {subsection}{Romanos 8 confirmado históricamente en Romanos 9--11}{194}{subsection*.308}%
-\contentsline {subsection}{La pregunta inevitable que nace de Romanos 8}{194}{subsection*.309}%
-\contentsline {subsection}{Romanos 9--11 no cambia el tema: lo verifica}{194}{subsection*.310}%
-\contentsline {subsection}{Correspondencias directas entre Romanos 8 y 9--11}{194}{subsection*.311}%
-\contentsline {subsubsection}{Romanos 8:31}{195}{subsubsection*.312}%
-\contentsline {subsection}{Israel como prueba, no como excepción}{196}{subsection*.313}%
-\contentsline {subsection}{El argumento completo de Romanos 1--11}{196}{subsection*.314}%
-\contentsline {section}{APÉNDICE}{197}{section*.315}%
-\contentsline {section}{BIBLIOGRAFÍA}{197}{section*.316}%
+\contentsline {section}{Introducción al libro de Gálatas}{4}{section*.7}%
+\contentsline {subsection}{Autor}{4}{subsection*.8}%
+\contentsline {subsection}{Destinatarios}{4}{subsection*.9}%
+\contentsline {subsection}{Relación entre Pablo y los Gálatas}{4}{subsection*.10}%
+\contentsline {subsection}{Fundación y crecimiento de las iglesias}{5}{subsection*.11}%
+\contentsline {subsection}{Fecha probable de escritura}{5}{subsection*.12}%
+\contentsline {subsection}{Contexto histórico general}{5}{subsection*.13}%
+\contentsline {subsection}{Contexto cultural de los gálatas}{5}{subsection*.14}%
+\contentsline {subsection}{Situación que motiva la carta}{6}{subsection*.15}%
+\contentsline {subsection}{Tema de la carta}{6}{subsection*.16}%
+\contentsline {section}{Gálatas 1:1-10 - Pablo confronta la distorsión del evangelio}{6}{section*.17}%
+\contentsline {subsection}{Gálatas 1:1-5 - El fundamento apostólico y el mensaje que proviene de Dios}{6}{subsection*.18}%
+\contentsline {subsubsection}{Gálatas 1:1}{6}{subsubsection*.19}%
+\contentsline {subsubsection}{Gálatas 1:2}{8}{subsubsection*.20}%
+\contentsline {subsubsection}{Gálatas 1:3}{8}{subsubsection*.21}%
+\contentsline {subsubsection}{Gálatas 1:4}{9}{subsubsection*.22}%
+\contentsline {subsubsection}{Gálatas 1:5}{10}{subsubsection*.23}%
+\contentsline {subsection}{Gálatas 1:6-7 - La desviación del evangelio en las iglesias}{10}{subsection*.24}%
+\contentsline {subsubsection}{Gálatas 1:6}{10}{subsubsection*.25}%
+\contentsline {subsubsection}{Gálatas 1:7}{11}{subsubsection*.26}%
+\contentsline {subsection}{Gálatas 1:8-10 - La advertencia contra alterar el mensaje anunciado}{12}{subsection*.27}%
+\contentsline {subsubsection}{Gálatas 1:8}{12}{subsubsection*.28}%
+\contentsline {subsubsection}{Gálatas 1:9}{13}{subsubsection*.29}%
+\contentsline {subsubsection}{Gálatas 1:10}{15}{subsubsection*.30}%
+\contentsline {section}{Gálatas 1:11-2:21 - Pablo defiende la verdad que anunció}{20}{section*.31}%
+\contentsline {subsection}{Gálatas 1:11--12 --- Origen divino}{20}{subsection*.32}%
+\contentsline {subsubsection}{Gálatas 1:11}{20}{subsubsection*.33}%
+\contentsline {subsubsection}{Gálatas 1:12}{21}{subsubsection*.34}%
+\contentsline {subsection}{Gálatas 1:13-17 - Llamado y revelación}{24}{subsection*.35}%
+\contentsline {subsubsection}{Gálatas 1:13}{24}{subsubsection*.36}%
+\contentsline {subsubsection}{Gálatas 1:14}{25}{subsubsection*.37}%
+\contentsline {subsubsection}{Gálatas 1:15}{27}{subsubsection*.38}%
+\contentsline {subsubsection}{Gálatas 1:16}{29}{subsubsection*.39}%
+\contentsline {subsubsection}{Gálatas 1:17}{32}{subsubsection*.40}%
+\contentsline {subsection}{Gálatas 1:18-24 - Independencia inicial}{33}{subsection*.41}%
+\contentsline {subsubsection}{Gálatas 1:18}{33}{subsubsection*.42}%
+\contentsline {subsubsection}{Gálatas 1:19}{35}{subsubsection*.43}%
+\contentsline {subsubsection}{Gálatas 1:20}{36}{subsubsection*.44}%
+\contentsline {subsubsection}{Gálatas 1:21}{38}{subsubsection*.45}%
+\contentsline {subsubsection}{Gálatas 1:22}{38}{subsubsection*.46}%
+\contentsline {subsubsection}{Gálatas 1:23}{40}{subsubsection*.47}%
+\contentsline {subsubsection}{Gálatas 1:24}{42}{subsubsection*.48}%
+\contentsline {subsection}{Gálatas 2:1-10 - Reconocimiento en Jerusalén}{42}{subsection*.49}%
+\contentsline {subsubsection}{Gálatas 2:1}{42}{subsubsection*.50}%
+\contentsline {subsubsection}{Gálatas 2:2}{44}{subsubsection*.51}%
+\contentsline {subsubsection}{Gálatas 2:3}{45}{subsubsection*.52}%
+\contentsline {subsubsection}{Gálatas 2:4}{46}{subsubsection*.53}%
+\contentsline {subsubsection}{Gálatas 2:5}{47}{subsubsection*.54}%
+\contentsline {subsubsection}{Gálatas 2:6}{48}{subsubsection*.55}%
+\contentsline {subsubsection}{Gálatas 2:7}{48}{subsubsection*.56}%
+\contentsline {subsubsection}{Gálatas 2:8}{49}{subsubsection*.57}%
+\contentsline {subsubsection}{Gálatas 2:9}{49}{subsubsection*.58}%
+\contentsline {subsubsection}{Gálatas 2:10}{50}{subsubsection*.59}%
+\contentsline {subsection}{Gálatas 2:11-14 - Confrontación pública}{51}{subsection*.60}%
+\contentsline {subsubsection}{Gálatas 2:11}{51}{subsubsection*.61}%
+\contentsline {subsubsection}{Gálatas 2:12}{52}{subsubsection*.62}%
+\contentsline {subsubsection}{Gálatas 2:13}{53}{subsubsection*.63}%
+\contentsline {subsubsection}{Gálatas 2:14}{53}{subsubsection*.64}%
+\contentsline {subsection}{Gálatas 2:15-21 - Declaración sobre la justicia de Dios}{54}{subsection*.65}%
+\contentsline {subsubsection}{Gálatas 2:15}{54}{subsubsection*.66}%
+\contentsline {subsubsection}{Gálatas 2:16}{55}{subsubsection*.67}%
+\contentsline {subsubsection}{Gálatas 2:17}{56}{subsubsection*.68}%
+\contentsline {subsubsection}{Gálatas 2:18}{57}{subsubsection*.69}%
+\contentsline {subsubsection}{Gálatas 2:19}{57}{subsubsection*.70}%
+\contentsline {subsubsection}{Gálatas 2:20}{58}{subsubsection*.71}%
+\contentsline {subsubsection}{Gálatas 2:21}{60}{subsubsection*.72}%
+\contentsline {section}{Gálatas 3:1- 4:7 - Pablo argumenta para mostrar que la promesa precede y supera a la ley}{62}{section*.73}%
+\contentsline {subsection}{Gálatas 3:1-5 - Empezaron por el Espíritu, no por la ley}{62}{subsection*.74}%
+\contentsline {subsubsection}{Gálatas 3:1}{62}{subsubsection*.75}%
+\contentsline {subsubsection}{Gálatas 3:2}{62}{subsubsection*.76}%
+\contentsline {subsubsection}{Gálatas 3:3}{63}{subsubsection*.77}%
+\contentsline {subsubsection}{Gálatas 3:4}{63}{subsubsection*.78}%
+\contentsline {subsubsection}{Gálatas 3:5}{64}{subsubsection*.79}%
+\contentsline {subsection}{Gálatas 3:6-14 - El ejemplo de Abraham}{65}{subsection*.80}%
+\contentsline {subsubsection}{Gálatas 3:6}{65}{subsubsection*.81}%
+\contentsline {subsubsection}{Gálatas 3:7}{66}{subsubsection*.82}%
+\contentsline {subsubsection}{Gálatas 3:8}{67}{subsubsection*.83}%
+\contentsline {subsubsection}{Gálatas 3:9}{67}{subsubsection*.84}%
+\contentsline {subsubsection}{Gálatas 3:10}{67}{subsubsection*.85}%
+\contentsline {subsubsection}{Gálatas 3:11}{68}{subsubsection*.86}%
+\contentsline {subsubsection}{Gálatas 3:12}{68}{subsubsection*.87}%
+\contentsline {subsubsection}{Gálatas 3:13}{69}{subsubsection*.88}%
+\contentsline {subsubsection}{Gálatas 3:14}{70}{subsubsection*.89}%
+\contentsline {subsection}{Gálatas 3:15-18 - La promesa vino antes que la ley}{71}{subsection*.90}%
+\contentsline {subsubsection}{Gálatas 3:15}{71}{subsubsection*.91}%
+\contentsline {subsubsection}{Gálatas 3:16}{71}{subsubsection*.92}%
+\contentsline {subsubsection}{Gálatas 3:17}{72}{subsubsection*.93}%
+\contentsline {subsubsection}{Gálatas 3:18}{73}{subsubsection*.94}%
+\contentsline {subsection}{Gálatas 3:19-25 - ¿Para qué fue dada la ley?}{74}{subsection*.95}%
+\contentsline {subsubsection}{Gálatas 3:19}{74}{subsubsection*.96}%
+\contentsline {subsubsection}{Gálatas 3:20}{75}{subsubsection*.97}%
+\contentsline {subsubsection}{Gálatas 3:21}{76}{subsubsection*.98}%
+\contentsline {subsubsection}{Gálatas 3:22}{76}{subsubsection*.99}%
+\contentsline {subsubsection}{Gálatas 3:23}{77}{subsubsection*.100}%
+\contentsline {subsubsection}{Gálatas 3:24}{78}{subsubsection*.101}%
+\contentsline {subsubsection}{Gálatas 3:25}{78}{subsubsection*.102}%
+\contentsline {subsection}{Gálatas 3:26-4:7 - Ahora somos hijos y herederos}{79}{subsection*.103}%
+\contentsline {subsubsection}{Gálatas 3:26}{79}{subsubsection*.104}%
+\contentsline {subsubsection}{Gálatas 3:27}{81}{subsubsection*.105}%
+\contentsline {subsubsection}{Gálatas 3:28}{81}{subsubsection*.106}%
+\contentsline {subsubsection}{Gálatas 3:29}{83}{subsubsection*.107}%
+\contentsline {subsubsection}{Gálatas 4:1}{84}{subsubsection*.108}%
+\contentsline {subsubsection}{Gálatas 4:2}{84}{subsubsection*.109}%
+\contentsline {subsubsection}{Gálatas 4:3}{85}{subsubsection*.110}%
+\contentsline {subsubsection}{Gálatas 4:4}{86}{subsubsection*.111}%
+\contentsline {subsubsection}{Gálatas 4:5}{86}{subsubsection*.112}%
+\contentsline {subsubsection}{Gálatas 4:6}{87}{subsubsection*.113}%
+\contentsline {subsubsection}{Gálatas 4:7}{88}{subsubsection*.114}%
+\contentsline {section}{Gálatas 4:8-31 - Pablo advierte de Volver a la esclavitud}{90}{section*.115}%
+\contentsline {subsection}{Gálatas 4:8-11 - ¿Por qué volver a ser esclavos?}{90}{subsection*.116}%
+\contentsline {subsubsection}{Gálatas 4:8}{90}{subsubsection*.117}%
+\contentsline {subsubsection}{Gálatas 4:9}{90}{subsubsection*.118}%
+\contentsline {subsubsection}{Gálatas 4:10}{91}{subsubsection*.119}%
+\contentsline {subsubsection}{Gálatas 4:11}{92}{subsubsection*.120}%
+\contentsline {subsection}{Gálatas 4:12-20 - Recuerden cómo me recibieron}{93}{subsection*.121}%
+\contentsline {subsubsection}{Gálatas 4:12}{93}{subsubsection*.122}%
+\contentsline {subsubsection}{Gálatas 4:13}{94}{subsubsection*.123}%
+\contentsline {subsubsection}{Gálatas 4:14}{94}{subsubsection*.124}%
+\contentsline {subsubsection}{Gálatas 4:15}{96}{subsubsection*.125}%
+\contentsline {subsubsection}{Gálatas 4:16}{96}{subsubsection*.126}%
+\contentsline {subsubsection}{Gálatas 4:17}{96}{subsubsection*.127}%
+\contentsline {subsubsection}{Gálatas 4:18}{97}{subsubsection*.128}%
+\contentsline {subsubsection}{Gálatas 4:19}{97}{subsubsection*.129}%
+\contentsline {subsubsection}{Gálatas 4:20}{98}{subsubsection*.130}%
+\contentsline {subsection}{Gálatas 4:21-27 - La historia de las dos mujeres}{99}{subsection*.131}%
+\contentsline {subsubsection}{Gálatas 4:21}{99}{subsubsection*.132}%
+\contentsline {subsubsection}{Gálatas 4:22}{99}{subsubsection*.133}%
+\contentsline {subsubsection}{Gálatas 4:23}{99}{subsubsection*.134}%
+\contentsline {subsubsection}{Gálatas 4:24}{101}{subsubsection*.135}%
+\contentsline {subsubsection}{Gálatas 4:25}{102}{subsubsection*.136}%
+\contentsline {subsubsection}{Gálatas 4:26}{102}{subsubsection*.137}%
+\contentsline {subsubsection}{Gálatas 4:27}{104}{subsubsection*.138}%
+\contentsline {subsection}{Gálatas 4:28-31 - Somos hijos de la libre}{105}{subsection*.139}%
+\contentsline {subsubsection}{Gálatas 4:28}{105}{subsubsection*.140}%
+\contentsline {subsubsection}{Gálatas 4:29}{106}{subsubsection*.141}%
+\contentsline {subsubsection}{Gálatas 4:30}{108}{subsubsection*.142}%
+\contentsline {subsubsection}{Gálatas 4:31}{109}{subsubsection*.143}%
+\contentsline {section}{Gálatas 5:1-12 - Pablo declara con urgencia las consecuencias de someterse a la ley}{111}{section*.144}%
+\contentsline {subsection}{Gálatas 5:1 - Permanezcan firmes en la libertad}{111}{subsection*.145}%
+\contentsline {subsubsection}{Gálatas 5:1}{111}{subsubsection*.146}%
+\contentsline {subsection}{Gálatas 5:2-4 - Lo que pasa si aceptan la circuncisión}{112}{subsection*.147}%
+\contentsline {subsubsection}{Gálatas 5:2}{112}{subsubsection*.148}%
+\contentsline {subsubsection}{Gálatas 5:3}{114}{subsubsection*.149}%
+\contentsline {subsubsection}{Gálatas 5:4}{115}{subsubsection*.150}%
+\contentsline {subsection}{Gálatas 5:5-6 - Lo que realmente cuenta}{115}{subsection*.151}%
+\contentsline {subsubsection}{Gálatas 5:5}{115}{subsubsection*.152}%
+\contentsline {subsubsection}{Gálatas 5:6}{116}{subsubsection*.153}%
+\contentsline {subsection}{Gálatas 5:7-12 - ¿Quién los estorbo?}{117}{subsection*.154}%
+\contentsline {subsubsection}{Gálatas 5:7}{117}{subsubsection*.155}%
+\contentsline {subsubsection}{Gálatas 5:8}{117}{subsubsection*.156}%
+\contentsline {subsubsection}{Gálatas 5:9}{118}{subsubsection*.157}%
+\contentsline {subsubsection}{Gálatas 5:10}{118}{subsubsection*.158}%
+\contentsline {subsubsection}{Gálatas 5:11}{118}{subsubsection*.159}%
+\contentsline {subsubsection}{Gálatas 5:12}{120}{subsubsection*.160}%
+\contentsline {section}{Gálatas 5:13--26 - Pablo contrasta la carne y el espiritu como principio de vida}{121}{section*.161}%
+\contentsline {subsection}{Gálatas 5:13-15 - Libertad para servir}{121}{subsection*.162}%
+\contentsline {subsubsection}{Gálatas 5:13}{121}{subsubsection*.163}%
+\contentsline {subsubsection}{Gálatas 5:14}{122}{subsubsection*.164}%
+\contentsline {subsubsection}{Gálatas 5:15}{123}{subsubsection*.165}%
+\contentsline {subsection}{Gálatas 5:16-18 - Un andar de libertad es por el Espíritu}{124}{subsection*.166}%
+\contentsline {subsubsection}{Gálatas 5:16}{124}{subsubsection*.167}%
+\contentsline {subsubsection}{Gálatas 5:17}{126}{subsubsection*.168}%
+\contentsline {subsubsection}{Gálatas 5:18}{127}{subsubsection*.169}%
+\contentsline {subsection}{Gálatas 5:19-21 - Las obras de la carne}{129}{subsection*.170}%
+\contentsline {subsubsection}{Gálatas 5:19}{129}{subsubsection*.171}%
+\contentsline {subsubsection}{Gálatas 5:20}{129}{subsubsection*.172}%
+\contentsline {subsubsection}{Gálatas 5:21}{130}{subsubsection*.173}%
+\contentsline {subsection}{Gálatas 5:22-23 El fruto del Espíritu}{132}{subsection*.174}%
+\contentsline {subsubsection}{Gálatas 5:22}{132}{subsubsection*.175}%
+\contentsline {subsubsection}{Gálatas 5:23}{134}{subsubsection*.176}%
+\contentsline {subsection}{Gálatas 5:24-26 - Eres libre, entonces anda como libre}{134}{subsection*.177}%
+\contentsline {subsubsection}{Gálatas 5:24}{134}{subsubsection*.178}%
+\contentsline {subsubsection}{Gálatas 5:25}{136}{subsubsection*.179}%
+\contentsline {subsubsection}{Gálatas 5:26}{137}{subsubsection*.180}%
+\contentsline {section}{Gálatas 6:1-18 libertad Comunitaria centrada en la cruz}{138}{section*.181}%
+\contentsline {subsection}{Gálatas 6:1-5 - Viéndonos a la luz de la libertad unos a otros}{139}{subsection*.182}%
+\contentsline {subsubsection}{Gálatas 6:1}{139}{subsubsection*.183}%
+\contentsline {subsubsection}{Gálatas 6:2}{140}{subsubsection*.184}%
+\contentsline {subsubsection}{Gálatas 6:3}{141}{subsubsection*.185}%
+\contentsline {subsubsection}{Gálatas 6:4}{142}{subsubsection*.186}%
+\contentsline {subsubsection}{Gálatas 6:5}{142}{subsubsection*.187}%
+\contentsline {subsection}{Gálatas 6:6-10 Lo que uno siembra, eso cosecha}{143}{subsection*.188}%
+\contentsline {subsubsection}{Gálatas 6:6}{143}{subsubsection*.189}%
+\contentsline {subsubsection}{Gálatas 6:7}{144}{subsubsection*.190}%
+\contentsline {subsubsection}{Gálatas 6:8}{144}{subsubsection*.191}%
+\contentsline {subsubsection}{Gálatas 6:9}{146}{subsubsection*.192}%
+\contentsline {subsubsection}{Gálatas 6:10}{147}{subsubsection*.193}%
+\contentsline {subsection}{Gálatas 6:11-13 - Lo que buscan los que presionan}{147}{subsection*.194}%
+\contentsline {subsubsection}{Gálatas 6:11}{147}{subsubsection*.195}%
+\contentsline {subsubsection}{Gálatas 6:12}{148}{subsubsection*.196}%
+\contentsline {subsubsection}{Gálatas 6:13}{149}{subsubsection*.197}%
+\contentsline {subsection}{Gálatas 6:14-15 Solo me glorío en la cruz}{149}{subsection*.198}%
+\contentsline {subsubsection}{Gálatas 6:14}{149}{subsubsection*.199}%
+\contentsline {subsubsection}{Gálatas 6:15}{150}{subsubsection*.200}%
+\contentsline {subsection}{Gálatas 6:16-18 - Palabras finales y bendición}{151}{subsection*.201}%
+\contentsline {subsubsection}{Gálatas 6:16}{151}{subsubsection*.202}%
+\contentsline {subsubsection}{Gálatas 6:17}{152}{subsubsection*.203}%
+\contentsline {subsubsection}{Gálatas 6:18}{153}{subsubsection*.204}%
+\contentsline {section}{Bibliografía}{155}{section*.205}%

@@ -4,28 +4,8 @@ subtitle: "El Evangelio de Poder"
 author: "CGV"
 cover: "images/portada.png"
 version: "1.0"
-date: "2026-03-03"
+date: "2026-04-09"
 ---
-
-**TABLA DE CONTENIDOS**
-
-INTRODUCCIÓN
-
-ROMANOS 1:1–17 – Introducción y tesis del evangelio
-
-Romanos 1:18–3:20 – La revelación de la ira y la responsabilidad universal
-
-ROMANOS 3:21–4:25 – La justicia revelada y confirmada
-
-ROMANOS 5:1-8:39 La nueva realidad y sus implicaciones
-
-EPÍLOGO VISUAL
-
-ROMANOS 9:1-11:36 - Israel y la Fidelidad de Dios
-ROMANOS 12:1-15:13 - Exhortaciones que surgen del evangelio
-ROMANOS 15:14-16:27 - Conclusion y Saludos
-
-APÉNDICE
 
 :::title
 ROMANOS
@@ -66,7 +46,7 @@ En la carta a los Romanos, Pablo <u>presenta</u> el evangelio y el problema univ
 
 Aunque existen algunas excepciones, en Romanos capítulos 1–11 Pablo utiliza mayormente verbos en modo <u>indicativo</u>, es decir, declara lo que es, más que indicar lo que debe hacerse. Esto describe una tendencia dominante en la carta, no una ausencia total de imperativos.
 
-**Indicativos (Romanos 1–11) → Imperativos (Romanos 12–15)**
+**Indicativos (Romanos 1–11) -> Imperativos (Romanos 12–15)**
 
 Capítulos 1–11: predominan los indicativos, las estructuras condicionales, los contrastes razonados y los <u>marcadores</u> explicativos.
 
@@ -263,14 +243,14 @@ Es por medio de Él que hemos recibido la gracia y el apostolado para promover l
 #### por medio de Él hemos recibido la gracia y el apostolado…
 ##### Pablo recibió la gracia y su rol de apostol por medio de Cristo.
 
-##### Observamos la <u>cadena</u>: Dios → Cristo → Pablo.
+##### Observamos la <u>cadena</u>: Dios -> Cristo -> Pablo.
 
 #### para promover la obediencia a la fe entre todos los gentiles,
 ##### Literalmente: “<u>para</u> obediencia de fe”.
 
 ##### El <u>punto</u> clave está en **πίστεως** (*de fe*), que está en **genitivo**.
 
-##### Gramaticalmente, no es una construcción con preposición equivalente a “a la fe”. El <u>texto</u> original no dice “obediencia a la fe”, sino “obediencia de fe”. Es una relación de genitivo, no una <u>relación</u> preposicional.
+##### Gramaticalmente, no es una construcción con preposición equivalente a “a la fe”. El <u>texto</u> original no dice “obediencia a la fe”, sino “obediencia de fe”. Es una relación de genitivo, no una relación preposicional.
 
 ##### La <u>pregunta</u> entonces no es si es “de” o “a” (eso ya lo determina la forma gramatical), sino **qué tipo de genitivo es**.
 
@@ -614,7 +594,7 @@ Pablo comienza presentando la culpabilidad <u>humana</u> de manera general y, de
 
 - Romanos 3:9–20 – Culpabilidad universal: “nosotros”, “todos” <u>bajo</u> pecado.
 
-Pablo <u>pasa</u> deliberadamente de “ellos” → “tú” → “él/ellos” → “tú” → “nosotros/todos” para demostrar que **no hay justo, ni siquiera uno**. Romanos 3:10
+Pablo <u>pasa</u> deliberadamente de “ellos” -> “tú” -> “él/ellos” -> “tú” -> “nosotros/todos” para demostrar que **no hay justo, ni siquiera uno**. Romanos 3:10
 
 ### Romanos 1:18
 Porque la ira de Dios se revela desde el cielo contra toda impiedad e injusticia de los hombres, que con injusticia restringen la verdad.
@@ -1953,10 +1933,10 @@ TODOS SE HAN DESVIADO, A UNA SE HICIERON INÚTILES; NO HAY QUIEN HAGA LO BUENO, 
 
 ##### <u>Estas</u> imágenes muestran que el problema no es solo “hacer”, sino también “hablar”.
 
-###### La progresión anatómica [^23] <u>muestra</u> que todo el aparato del habla está comprometido:
-- garganta → sepulcro <u>abierto</u>
-- lengua → <u>instrumento</u> de engaño
-- labios → portadores de <u>veneno</u> mortal
+###### La progresión anatómica <u>muestra</u> que todo el aparato del habla está comprometido:
+- garganta -> sepulcro <u>abierto</u>
+- lengua -> <u>instrumento</u> de engaño
+- labios -> portadores de <u>veneno</u> mortal
 
 ##### La <u>secuencia</u> no es un adorno literario; es un retrato del hablar humano como algo profundamente dañado.
 
@@ -2083,7 +2063,7 @@ NO HAY TEMOR DE DIOS DELANTE DE SUS OJOS».
 ##### Esto explica por qué el hombre no <u>entiende</u>, no busca, se desvía, habla con corrupción y camina en destrucción.
 
 ###### En Romanos 3:13–18 Pablo <u>recorre</u> una progresión completa: 
-- garganta → lengua → <u>labios</u> → pies → caminos → ojos
+- garganta -> lengua -> <u>labios</u> -> pies -> caminos -> ojos
 
 ##### La progresión muestra que el problema abarca todo el ser humano.
 
@@ -3056,8 +3036,8 @@ se le cuenta - LOGIZETAI
 ##### La fe es el <u>medio</u> por el cual se recibe lo que Dios otorga.
 
 ###### Romanos 4:5 establece así dos principios opuestos:
-- <u>trabajar</u> → salario → "deuda"
-- <u>creer</u> → justicia acreditada → "gracia"
+- <u>trabajar</u> -> salario -> "deuda"
+- <u>creer</u> -> justicia acreditada -> "gracia"
 
 ##### No son <u>grados</u>.
 ##### No son <u>fases</u>.
@@ -4754,9 +4734,9 @@ El tema no es comportamiento aislado, sino **estado, dominio y pertenencia**. Pa
 ##### Pablo incluye a todos los creyentes <u>sin</u> excepción: “todos los que”.
 
 ###### El verbo *hemos sido bautizados* está en **aoristo, pasivo, indicativo**:
-- aoristo → <u>acción</u> completa, no repetida ni progresiva 
-- pasivo → Dios es el agente; no es <u>algo</u> que el creyente hace.
-- indicativo → declaración de <u>hecho</u>, no exhortación
+- aoristo -> <u>acción</u> completa, no repetida ni progresiva 
+- pasivo -> Dios es el agente; no es <u>algo</u> que el creyente hace.
+- indicativo -> declaración de <u>hecho</u>, no exhortación
 
 ##### Pablo no está describiendo <u>una</u> experiencia opcional ni posterior, sino una realidad que ya ocurrió.
 
@@ -4775,9 +4755,9 @@ bautizo - BAPTIZO
 ##### Simplemente significa <u>inmersión</u> en un elemento dominante.
 
 ###### Ejemplos cotidianos del uso griego:
-- Un barco se <u>bautiza</u> cuando se hunde → inundado por el mar
-- Una tela es bautizada cuando se <u>tiñe</u> → impregnada de tinte
-- Una persona es bautizada en <u>duelo</u> → inundada por la tristeza
+- Un barco se <u>bautiza</u> cuando se hunde -> inundado por el mar
+- Una tela es bautizada cuando se <u>tiñe</u> -> impregnada de tinte
+- Una persona es bautizada en <u>duelo</u> -> inundada por la tristeza
 
 ##### La idea <u>común</u> no es la sustancia, sino la experiencia de ser sumergido.
 
@@ -4897,9 +4877,9 @@ Sabemos esto, que nuestro viejo hombre fue crucificado con Cristo, para que nues
 ##### Se refiere a **la persona que éramos en Adán**, nuestra identidad bajo ese primer representante. Esa persona no fue corregida, mejorada ni <u>educada</u>. Fue **crucificada**. 
 
 ###### El verbo está en aoristo, <u>pasivo</u>, indicativo:
-- aoristo → acción completa 
-- pasivo → Dios es el agente 
-- indicativo → hecho <u>declarado</u>, no experiencia subjetiva 
+- aoristo -> acción completa 
+- pasivo -> Dios es el agente 
+- indicativo -> hecho <u>declarado</u>, no experiencia subjetiva 
 
 ##### Esto significa que el <u>viejo</u> hombre **no está en proceso de morir**...murió.
 
@@ -4933,7 +4913,7 @@ muerte - THANATOS
 
 Fuera destruido - KATARGEO 
 : (aoristo, pasivo, subjuntivo):  estar o volverse inactivo, inoperante o sin poder efectivo.[^1]
-KATA → hacia abajo, contra, de forma decisiva ARGOS → ocioso, inactivo, sin trabajo
+KATA -> hacia abajo, contra, de forma decisiva ARGOS -> ocioso, inactivo, sin trabajo
 
 ##### Miremos el significado <u>básico</u> en el griego común:  Inutilizar algo quitándole su poder operativo. La idea es pérdida de función, no destrucción.
 
@@ -5230,7 +5210,7 @@ lujurias - EPITHUMIA
 
 - Romanos 6 explica el <u>marco</u> de dominio: no permitir reinado, no presentarse, presentarse a Dios.
 
-- <u>Santiago</u> 1 explica el mecanismo de la tentación: deseo → pecado → muerte.
+- <u>Santiago</u> 1 explica el mecanismo de la tentación: deseo -> pecado -> muerte.
 
 ###### En <u>otras</u> palabras:
 
@@ -5299,8 +5279,8 @@ Presentar - PARISTÁNETE
 
 #### sino preséntense ustedes mismos a Dios
 ##### El contraste es intencional:
-- Antes → presentados al <u>pecado</u> 
-- Ahora → presentados a Dios 
+- Antes -> presentados al <u>pecado</u> 
+- Ahora -> presentados a Dios 
 
 ##### Pablo no <u>comienza</u> con los miembros. Comienza con la persona completa. Uno implica a nivel indentificación (ustedes mismos) y luego operacionalmente (sus miembros). 
 
@@ -5403,7 +5383,7 @@ Porque el pecado no tendrá dominio sobre ustedes, pues no están bajo la ley si
 ##### El principio es sencillo y universal: A quien te presentas, a ese sirves. El énfasis no está primero en la obediencia, <u>sino</u> en la **presentación**.
 
 ###### La secuencia es clara: 
-- presentarse → obedecer su deseos → servir como esclavo → producir un resultado (<u>muerte</u> o vida)
+- presentarse -> obedecer su deseos -> servir como esclavo -> producir un resultado (<u>muerte</u> o vida)
 
 ##### La obediencia no aparece como un mandato aquí. Aparece como <u>una</u> consecuencia inevitable de la presentación.
 
@@ -5411,8 +5391,8 @@ Porque el pecado no tendrá dominio sobre ustedes, pues no están bajo la ley si
 ##### Pablo reduce la realidad a <u>dos</u> opciones excluyentes.
 
 ###### No existe un estado neutral sin señorío. Los dos amos no se definen aquí por nombres personales, <u>sino</u> por resultados funcionales:
-- El pecado → produce <u>muerte</u>.
-- La obediencia → <u>conduce</u> a justicia.
+- El pecado -> produce <u>muerte</u>.
+- La obediencia -> <u>conduce</u> a justicia.
 
 ##### Esto no redefine a Dios como “obediencia”. Pablo describe **cómo se manifiesta el señorío**.
 
@@ -5508,7 +5488,7 @@ carne - SARX
 ##### La comparación no pretende <u>igualar</u> moralmente ambos amos.
 
 ###### Pretende mostrar que el mecanismo práctico es el mismo: 
-- presentarse → <u>servir</u> → producir fruto → avanzar hacia un fin.
+- presentarse -> <u>servir</u> -> producir fruto -> avanzar hacia un fin.
 
 ##### En el <u>pasado</u>: Se presentaron “a la impureza y a la iniquidad”. 
 ##### El resultado fue “para iniquidad” (una dirección progresiva: más iniquidad).
@@ -5525,7 +5505,7 @@ carne - SARX
 Porque cuando ustedes eran esclavos del pecado, eran libres en cuanto a la justicia.
 
 #### Porque cuando ustedes eran esclavos del pecado, eran libres en cuanto a la justicia.
-##### Pablo define la condición pasada con una frase que suena paradójica: esclavos del pecado → libres respecto a la <u>justicia</u>.
+##### Pablo define la condición pasada con una frase que suena paradójica: esclavos del pecado -> libres respecto a la <u>justicia</u>.
 
 ##### *Libres* aquí no significa liberados. Significa desligados: la justicia no era su esfera ni su amo. La justicia no tenía reclamo sobre ellos, porque <u>otro</u> dominio los poseía.
 
@@ -5575,13 +5555,13 @@ Pero ahora, habiendo sido libertados del pecado y hechos siervos de Dios, tienen
 
 #### y como resultado la vida eterna
 ##### Pablo completa la cadena: 
-###### posesión presente (“tienen”) → <u>fruto</u> (“santificación”) → fin (“vida eterna”). 
+###### posesión presente (“tienen”) -> <u>fruto</u> (“santificación”) -> fin (“vida eterna”). 
 
 ##### La vida eterna aparece <u>como</u> el desenlace del dominio de Dios, no como un salario.
 
 ###### El contraste con 6:21 es <u>directo</u>:
-- <u>fin</u> del pecado → muerte
-- fin del servicio a Dios → vida <u>eterna</u>
+- <u>fin</u> del pecado -> muerte
+- fin del servicio a Dios -> vida <u>eterna</u>
 
 ### Romanos 6:23
 Porque la paga del pecado es muerte, pero la dádiva de Dios es vida eterna en Cristo Jesús Señor nuestro.
@@ -5650,7 +5630,7 @@ Pues la mujer casada está ligada por la ley a su marido mientras él vive; pero
 ##### Al <u>casarse</u>, dos personas entran en un estado jurídico nuevo, con derechos, deberes y responsabilidades reconocidas por la ley.
 
 ###### Marco legal del matrimonio: 
-- El matrimonio crea un <u>nuevo</u> estatus legal: “soltero/a” → “casado/a”.
+- El matrimonio crea un <u>nuevo</u> estatus legal: “soltero/a” -> “casado/a”.
 
 ###### Este estatus:
 - otorga derechos (herencia, protección legal, decisiones médicas),
@@ -7335,8 +7315,6 @@ los tres tiempos de la salvación
 | estatus es asegurado               | madurez es descrito                                |
 | declarado                          | experimentado                                      |
 | enfatiza pertenencia               | describe crecimiento, aprendizaje y transformación |
-
-___-___
 
 # BIBLIOGRAFÍA
 

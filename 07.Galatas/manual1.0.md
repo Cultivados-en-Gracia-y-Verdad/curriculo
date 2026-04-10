@@ -1934,28 +1934,32 @@ Con Cristo he sido crucificado, y ya no soy yo el que vive, sino que Cristo vive
 ### Gálatas 2:21
 No hago nula la gracia de Dios, porque si la justicia viene por medio de la ley, entonces Cristo murió en vano.
 
-#### No hago nula la gracia de Dios, porque si la justicia viene por medio de la ley, entonces Cristo murió en vano
+#### No hago nula la gracia de Dios
 ##### De esta manera, Pablo viviendo por la fe en el Hijo de Dios, no estaría despreciando la gracia de Dios provista en la persona y <u>obra</u> de Cristo por nosotros (1 Corintios 15:3-4; Gálatas 2:16, 20)
 
 ##### Fue por medio de la gracia de Dios en Cristo que fuimos justificados. Por medio de la Gracia de Dios en Cristo es que <u>ahora</u> podemos disfrutar de una nueva vida, como justos.
 
+#### porque si la justicia viene por medio de la ley
 ##### Si nosotros continuásemos buscando justicia por las obras de la ley ya habiendo sido justificados por Cristo. Si nosotros no viviríamos <u>solo</u> por la fe en Cristo en esta nueva vida que Él nos proveyó. ¿Qué sucedería?
 
-##### Estaríamos despreciando, haciendo inútil la gracia de Dios para nosotros. Si la justicia viene por medio de la ley y no por medio de Cristo, entonces Cristo murió inútilmente, este es el mensaje que da cualquier creyente que no vive confiando en lo que <u>Cristo</u> ya le proveyó (Su Justicia) por medio de Su muerte en la cruz.
+###### Estaríamos despreciando, haciendo inútil la gracia de Dios para nosotros.
+
+- Estaban dando a entender que los creyentes gentiles y judíos eran diferentes, y que debían buscar vivir por las <u>obras</u> de la ley para ser justos.
+
+- Esto era una ataque contra la verdad del Evangelio, contra Cristo y Su obra, ya que la verdad es que todos son provistos de la <u>Justicia</u> de Dios solo por medio de la fe en Cristo Jesús.
+
+#### entonces Cristo murió en vano
+##### Si la justicia viene por medio de la ley y no por medio de Cristo, entonces Cristo murió inútilmente, este es el mensaje que da cualquier creyente que no vive confiando en lo que <u>Cristo</u> ya le proveyó (Su Justicia) por medio de Su muerte en la cruz.
 
 ##### Este era el problema cuando Pedro actuó hipócritamente en Antioquía, volviendo a las tradiciones y leyes judías apartándose de los hermanos gentiles, y provocando que los demás hermanos judíos cayeran en la <u>misma</u> situación.
 
-##### Estaban dando a entender que los creyentes gentiles y judíos eran diferentes, y que debían buscar vivir por las <u>obras</u> de la ley para ser justos. 
-
-##### Esto era una ataque contra la verdad del Evangelio, contra Cristo y Su obra, ya que la verdad es que todos son provistos de la <u>Justicia</u> de Dios solo por medio de la fe en Cristo Jesús.
-
 ##### Y cuando ellos, ya siendo justificados de Dios, querían volver a la ley, estaban reconstruyendo algo que ya había sido destruido, estaban despreciando la Gracia de <u>Dios</u> y dando a entender que Cristo murió en vano. Pero Ellos habían muerto a la ley y ahora tenían una nueva vida por la Justica de Dios en Cristo.
 
-##### El creyente solo puede experimentar de verdadera justicia cuando esta es provista por medio de la persona de Cristo. Cualquier cosa que nos aparte de la verdad del Evangelio, lleva a despreciar a Cristo y la Gracia de Dios, nos quita la libertad que tenemos en Cristo. Gálatas 2:4
+##### El creyente solo puede experimentar de verdadera justicia cuando esta es provista por medio de la persona de Cristo. Cualquier cosa que nos <u>aparte</u> de la verdad del Evangelio, lleva a despreciar a Cristo y la Gracia de Dios, nos quita la libertad que tenemos en Cristo. Gálatas 2:4
 
 ##### Ahora puedes vivir para Dios (Gálatas 2:19), pero no es por medio de vivir bajo la ley. <u>Vivir</u> para Dios es Cristo viviendo en ti, viviendo por la fe en Cristo, así vivirás cada momento de tu vida por medio de la gracia y justicia de Dios provista solo por medio de le persona de Cristo.
 
-##### Los pasajes de Gálatas 2:16 al 21 podrían ser el mensaje general de la carta, ya que ahora Pablo pasará a explicar a detalle lo que acaba de mencionar, la justicia de Dios, la ley, la libertad en Cristo y la nueva vida del creyente en Cristo. Aclarará ¿Cómo es posible y de que trata?
+##### Los pasajes de Gálatas 2:16 al 21 podrían ser el mensaje general de la carta, ya que ahora Pablo pasará a explicar a detalle lo que <u>acaba</u> de mencionar, la justicia de Dios, la ley, la libertad en Cristo y la nueva vida del creyente en Cristo. Aclarará ¿Cómo es posible y de que trata?
 
 > En Síntesis
 >
@@ -2040,23 +2044,25 @@ Esto es lo único que quiero averiguar de ustedes ¿Recibieron el Espíritu por 
 ¿Han padecido tantas cosas en vano? ¡Si es que en realidad fue en vano!
 
 #### ¿Han padecido tantas cosas en vano? ¡Si es que en realidad fue en vano!
-##### Pablo recuerda a los hermanos gálatas los <u>sufrimientos</u> que experimentaron.
+##### Pablo recuerda a los hermanos gálatas las <u>experiencias</u> que vivieron.
 
-##### Probablemente se refiera a los sufrimientos ocurridos por la persecución de parte de los <u>judíos</u> incrédulos, estos son mencionados en el primer viaje misionero de Pablo, como ser:
+##### Estas pueden incluir sufrimientos, pero también todo lo que vivieron al recibir el evangelio y al experimentar la obra de Dios en ellos.
 
-##### En Antioquía de Pisidia, probablemente los gentiles <u>creyentes</u> hayan estado en medio de toda esa hostilidad. Hechos 13:45, 50
+###### Probablemente se refiera a los sufrimientos ocurridos por la persecución de parte de los <u>judíos</u> incrédulos, estos son mencionados en el primer viaje misionero de Pablo, como ser:
 
-##### En Iconio, un ataque <u>contra</u> los hermanos. Hechos 14:2, 4-5
+- En Antioquía de Pisidia, probablemente los gentiles <u>creyentes</u> hayan estado en medio de toda esa hostilidad. Hechos 13:45, 50
 
-##### En <u>Listra</u> y Derbe, presenciaron persecución de los hermanos. Hechos 14:19-20
+- En Iconio, un ataque <u>contra</u> los hermanos. Hechos 14:2, 4-5
 
-##### En la vuelta del primer viaje de <u>Pablo</u> en la región de Galacia del Sur, él menciona las tribulaciones que estaban pasando. Hechos 14:21-22
+- En <u>Listra</u> y Derbe, presenciaron persecución de los hermanos. Hechos 14:19-20
+
+- En la vuelta del primer viaje de <u>Pablo</u> en la región de Galacia del Sur, él menciona las tribulaciones que estaban pasando. Hechos 14:21-22
 
 ##### La razón de los ataques a los creyentes en la región de <u>Galacia</u>, siempre fue por causa del rechazo al mensaje del evangelio, generalmente iniciados por los judíos o seguidores judíos incrédulos.
 
-##### Ahora que ellos estaban siendo engañados podría parecerles que todos los sufrimientos anteriores fueron <u>inútiles</u> (en vano) ya que fue por un mensaje erroneo. ¿Era esto así?
+##### Ahora que ellos estaban siendo engañados podría parecerles que todas esas experiencias anteriores fueron <u>inútiles</u> (en vano), como si todo lo que vivieron hubiera perdido su valor. ¿Era esto así?
 
-##### No, esos sufrimientos fueron por permanecer confiando en el evangelio de Jesucristo, fueron de provecho ya que fue por <u>causa</u> de la verdad, y Dios, el Espíritu Santo fue el que estuvo obrando en ellos a través de la verdad del evangelio. En realidad los sufrimientos no fueron en vano.
+##### No, esas experiencias no fueron en vano. Fueron el resultado de haber recibido y permanecido en el evangelio de Jesucristo. Fueron de provecho ya que estuvieron ligadas a la verdad, y Dios, el Espíritu Santo fue el que estuvo obrando en ellos a través de la verdad del evangelio. En realidad, no fueron en vano.
 
 ### Gálatas 3:5  
 Aquel, pues, que les suministra el Espíritu y hace milagros entre ustedes, ¿lo hace por las obras de la ley o por el oír con fe?
@@ -2112,12 +2118,34 @@ Así Abraham CREYÓ A DIOS Y LE FUE CONTADO COMO JUSTICIA.
 ### Gálatas 3:7  
 Por tanto, sepan que los que son de fe, estos son hijos de Abraham.
 
-#### Por tanto, sepan que los que son de fe, estos son hijos de Abraham.
-##### Ya que Abraham fue <u>justificado</u> por Dios solo por medio de la fe y sin ningún tipo de obra, los hermanos gálatas deberían en entender que:
+#### Por tanto, sepan que
+##### Pablo está sacando una <u>conclusión</u> de lo que acaba de decir acerca de Abraham en el versículo anterior.
+
+##### Ya que Abraham fue <u>justificado</u> por Dios solo por medio de la fe y sin ningún tipo de obra, los hermanos gálatas deberían entender esta conclusión.
+
+##### Pablo no está introduciendo una idea <u>nueva</u> y separada, sino diciendo: si Abraham fue justificado por fe, entonces deben reconocer quiénes son verdaderamente sus hijos.
+
+#### los que son de fe
+##### Esta frase señala a las personas cuyo carácter o posición está definido por la <u>fe</u>.
+
+##### No se refiere simplemente a quienes dicen tener fe, sino a quienes dependen de la fe de la <u>misma</u> manera que Abraham dependió de Dios.
 
 ##### Los verdaderos hijos de Abraham eran simplemente todos los que tuvieron fe al igual que Abraham, esto incluía tanto a los <u>judíos</u> de nacimiento como a los gálatas gentiles. Romanos 4:11-12
 
+##### Pablo está identificando a un grupo por su relación con la fe, no por su <u>origen</u> étnico, sus obras, ni por su relación con la ley.
+
+#### estos son hijos de Abraham
+##### Aquí Pablo identifica como <u>hijos</u> de Abraham a los que son de fe.
+
+##### Es decir, Abraham no es presentado aquí solamente como antepasado físico, sino como el modelo de aquel que <u>creyó</u> a Dios.
+
 ##### Nadie es hijo de Abraham por lo que es, o por <u>seguir</u> la ley y la circuncisión. Mateo 3:9; Romanos 2:28
+
+##### Por eso, los que comparten la <u>misma</u> fe de Abraham son los que corresponden a la categoría de hijos de Abraham.
+
+##### Pablo quiere que los hermanos gálatas reconozcan que la relación con Abraham no se define por la carne, ni por la ley, ni por la circuncisión, sino por la <u>fe</u>.
+
+##### Si Abraham fue justificado por fe, entonces sus verdaderos hijos son aquellos que también están sobre esa misma <u>base</u>.
 
 ### Gálatas 3:8  
 La Escritura, previendo que Dios justificaría a los gentiles por la fe, anunció de antemano las buenas nuevas a Abraham, diciendo: «EN TI SERÁN BENDITAS TODAS LAS NACIONES».
@@ -2151,7 +2179,7 @@ Porque todos los que son de las obras de la ley están bajo maldición, pues esc
 ##### De la misma manera, **todos** los que dependen de las obras de la ley, los que quieren llegar a ser justificados por <u>medio</u> de su propia obra o esfuerzo, solo hay un resultado para ellos, están bajo maldición. ¿Porqué?
 
 #### ...pues escrito está: MALDITO TODO EL QUE NO PERMANECE EN TODAS LAS COSAS ESCRITAS EN EL LIBRO DE LA LEY, PARA HACERLAS. 
-#### Pablo cita Deuteronomio 27:26 para mostrar que toda persona que no cumpla con todo lo que esta escrito en la ley entonces es maldito delante de Dios y merece la muerte.
+##### Pablo cita Deuteronomio 27:26 para mostrar que toda persona que no cumpla con todo lo que esta escrito en la ley entonces es maldito delante de Dios y merece la muerte.
 
 ##### Al igual que la bendición de Dios ya estaba revelada desde el Antiguo Testamento, Pablo no estaba <u>mostrando</u> algo nuevo aquí, la maldición para todo aquel que dependía de la ley ya había sido revelado por el Señor. 
 
@@ -2160,30 +2188,52 @@ Porque todos los que son de las obras de la ley están bajo maldición, pues esc
 ### Gálatas 3:11  
 Y que nadie es justificado ante Dios por la ley es evidente, porque «EL JUSTO VIVIRÁ POR LA FE».
 
-#### Y que nadie es justificado ante Dios por la ley es evidente, porque EL JUSTO VIVIRÁ POR LA FE.
-##### Ninguna persona (judía o gentil) jamás podrá ser justificada (bendecida) delante de Dios por medio de las obras de la ley, es mas, esto solo <u>traería</u> maldición para las persona. Gálatas 2:16
+#### Y que nadie es justificado ante Dios por la ley es evidente
+##### Pablo afirma como algo <u>claro</u> que nadie es justificado delante de Dios por medio de la ley.
 
-##### Esto es algo que el Señor dejo claro, nunca lo oculto, y Pablo cita un pasaje de la palabra de Dios <u>mostrando</u> esta realidad en Habacuc 2:4b, otro pasaje del Antiguo Testamento.
+##### Ninguna persona (judía o gentil) es justificada delante de Dios por medio de la ley.
 
-##### El justo delante de Dios no vivirá por las obras de la ley que hizo o hará, el justo solo vivirá por la fe, esto no solo habla de la <u>posición</u> justa por medio de Dios en un momento en el pasado, sino una relación restaurada en la Justicia de Dios, para siempre. Dios siempre dejo en claro que las personas pueden ser provistas de Su justicia solo por medio de la fe.
+##### Pablo no introduce aquí una idea nueva, sino que está afirmando algo que puede ser demostrado a partir de la Escritura.
+
+#### porque «EL JUSTO VIVIRÁ POR LA FE»
+##### Pablo da la razón de su afirmación citando un pasaje de la Escritura, específicamente Habacuc 2:4.
+
+##### Este pasaje muestra que la vida del justo está relacionada con la <u>fe</u>, no con la ley.
+
+##### El justo delante de Dios vivirá por la fe, no por las obras de la ley.
 
 ### Gálatas 3:12  
 Sin embargo, la ley no se basa en la fe. Al contrario, «EL QUE LAS HACE, VIVIRÁ POR ELLAS».
 
-#### Sin embargo, la ley no se basa en la fe. Al contrario, EL QUE LAS HACE, VIVIRÁ POR ELLAS.
-##### Pablo dice que la ley no tiene <u>ninguna</u> relación con la fe. El hecho de ir por medio de las obras de la ley para llegar a se justificado, no tiene ninguna relación con simplemente creer.¿Porqué?
+#### Sin embargo
+##### Pablo introduce un <u>contraste</u> con lo que acaba de afirmar en el versículo anterior.
 
-##### Porque la ley se trata de que la <u>persona</u> haga la ley, la cumpla, solo vivirá por lo que hace, no por la fe.
+##### Si el justo vive por la fe (Gálatas 3:11), ahora Pablo muestra que la ley funciona de una manera diferente.
 
-##### El hecho de que una persona diga que tiene fe, pero su confianza depende de cumplir las obras de la ley, delante de Dios en <u>realidad</u> esta yendo por obras y no por la fe. Romanos 4:4-5
+#### la ley no se basa en la fe
+##### Pablo afirma que la ley no tiene como base la <u>fe</u>.
 
-##### Desde Gálatas 3:6-12 Pablo estuvo <u>mostrando</u> la bendición de Dios para todo aquel que cree y la maldición de Dios para todo aquel que depende de las obras de la ley.
+##### El hecho de ir por medio de las obras de la ley para llegar a ser justificado no corresponde al mismo principio que creer.
 
-##### Cada persona desde Adán, Abraham, Pablo, los hermanos gálatas, incluso nosotros y también las personas que <u>existirán</u>, todos nacemos separados de Dios, somos hijos de ira, estamos muertos en nuestros pecados delante de Él. Efesios 2:1-2
+##### No está diciendo que la fe no exista en relación a la ley, sino que la ley no opera sobre el principio de la fe.
 
-##### Y en Gálatas 3:10-12 nos muestra que también <u>estamos</u> malditos delante de Dios, que somos injustos sin ninguna esperanza de salvarnos, de vernos justos delante suyo. Romanos 3:19-20
+#### Al contrario
+##### Pablo introduce una afirmación que explica cómo funciona la ley.
 
-##### Pablo quería que los gálatas comprendieran esto, ahora volverá a dirigirse a ellos nuevamente para <u>mostrarles</u> la verdadera solución a este problema.
+##### No solo dice lo que la ley no es, sino que ahora muestra el principio sobre el cual opera.
+
+#### «EL QUE LAS HACE, VIVIRÁ POR ELLAS»
+##### Pablo cita la Escritura (Levítico 18:5) para mostrar el principio de la ley.
+
+##### La ley se trata de que la <u>persona</u> haga la ley, la cumpla.
+
+##### La vida, en este caso, está ligada a lo que la persona hace, no a la fe.
+
+##### El hecho de que una persona diga que tiene fe, pero su confianza depende de cumplir las obras de la ley, delante de Dios en <u>realidad</u> está yendo por obras y no por la fe. Romanos 4:4-5
+
+##### Desde Gálatas 3:6-12 Pablo ha estado <u>mostrando</u> dos principios distintos: la fe y la ley.
+
+##### Ha mostrado la bendición relacionada con la fe y la situación de aquellos que dependen de las obras de la ley.
 
 ### Gálatas 3:13  
 Cristo nos redimió de la maldición de la ley, habiéndose hecho maldición por nosotros, porque escrito está: «MALDITO TODO EL QUE CUELGA DE UN MADERO»,
@@ -2390,54 +2440,36 @@ Ahora bien, un mediador no representa a uno solo, pero Dios es uno solo.
 ¿Es entonces la ley contraria a las promesas de Dios? ¡De ningún modo! Porque si se hubiera dado una ley capaz de impartir vida, entonces la justicia ciertamente hubiera dependido de la ley.
 
 #### ¿Es entonces la ley contraria a las promesas de Dios?
+##### Pablo formula una pregunta en <u>base</u> a lo que viene diciendo sobre la ley y la promesa.
 
-##### Pablo formula una pregunta en base a lo que viene diciendo sobre la ley y la promesa.
-
-##### La pregunta plantea si existe oposición entre ambas.
-
-------
+##### La pregunta <u>plantea</u> si existe oposición entre ambas.
 
 #### ¡De ningún modo!...
+##### Pablo responde de manera <u>enfática</u>: no hay contradicción.
 
-##### Pablo responde de manera enfática: no hay contradicción.
-
-##### La ley y la promesa son distintas, pero no están en conflicto.
-
-------
+##### La ley y la promesa son distintas, pero no <u>están</u> en conflicto.
 
 #### Porque si se hubiera dado una ley capaz de impartir vida,
-
 ##### Pablo introduce una condición: una ley capaz de <u>impartir</u> vida.
 
-##### La frase plantea una posibilidad que no se afirma como realidad, sino como base para explicar lo siguiente.
-
-------
+##### La frase <u>plantea</u> una posibilidad que no se afirma como realidad, sino como base para explicar lo siguiente.
 
 #### entonces la justicia ciertamente hubiera dependido de la ley.
+##### Si esa ley existiera, la <u>justicia</u> dependería de la ley.
 
-##### Si esa ley existiera, la justicia dependería de la ley.
+##### La relación sería directa: vida → justicia por <u>medio</u> de la ley.
 
-##### La relación sería directa: vida → justicia por medio de la ley.
+##### La ley no es contraria a las promesas de <u>Dios</u>.
 
-------
+##### Se plantea una condición: <u>una</u> ley capaz de dar vida.
 
-#### (Desarrollo del flujo del argumento)
+##### Si tal ley <u>existiera</u>, la justicia dependería de ella.
 
-##### La ley no es contraria a las promesas de Dios.
+##### La conclusión está <u>ligada</u> a esa condición planteada.
 
-##### Se plantea una condición: una ley capaz de dar vida.
+##### El <u>texto</u> conecta “vida” con “justicia”.
 
-##### Si tal ley existiera, la justicia dependería de ella.
-
-##### La conclusión está ligada a esa condición planteada.
-
-------
-
-#### (Aclaración dentro del mismo contexto)
-
-##### El texto conecta “vida” con “justicia”.
-
-##### La dependencia de la justicia queda condicionada a la capacidad de la ley de impartir vida.
+##### La dependencia de la justicia <u>queda</u> condicionada a la capacidad de la ley de impartir vida.
 
 ### Gálatas 3:22  
 Pero la Escritura lo encerró todo bajo pecado, para que la promesa que es por la fe en Jesucristo fuera dada a todos los que creen.
@@ -2521,67 +2553,67 @@ Pero ahora que ha venido la fe, ya no estamos bajo el guía.
 Pues todos ustedes son hijos de Dios mediante la fe en Cristo Jesús.
 
 #### Pues…
-##### Pablo introduce una explicación o fundamento.
+##### Pablo introduce una <u>explicación</u> o fundamento.
 
-##### Conecta con lo que viene diciendo sobre la ley y la fe.
+##### Conecta con lo que <u>viene</u> diciendo sobre la ley y la fe.
 
 #### todos ustedes…
-##### Pablo incluye a todos los creyentes. No hace distinción. No es para un grupo específico.
+##### Pablo incluye a todos los creyentes. No hace distinción. No es para un <u>grupo</u> específico.
 
 #### son…
-##### Aquí se establece una realidad presente. No es algo futuro. No es algo que se debe alcanzar.
+##### Aquí se establece una realidad presente. No es algo <u>futuro</u>. No es algo que se debe alcanzar.
 
 #### hijos de Dios…
 ##### Aquí aparece la identidad. Pablo y los gálatas ya no estaban <u>vigilados</u> ni confinados por la ley.
 
 ##### Tampoco eran vistos como injustos delante de Dios.
 
-##### Y esto era porque ahora ellos eran hijos de Dios.
+##### Y esto era porque ahora ellos eran <u>hijos</u> de Dios.
 
 ##### A los <u>ojos</u> de Dios el creyente en Cristo ahora es justo.
 
 ##### Es Su hijo.
 
 #### mediante…
-##### Se introduce el medio.
+##### Se introduce el <u>medio</u>.
 
-##### No es por obras.
+##### No es por <u>obras</u>.
 
-##### No es por la ley.
+##### No es <u>por</u> la ley.
 
 #### la fe…
-##### Aquí se especifica el medio.
+##### Aquí se especifica el <u>medio</u>.
 
-##### Es por creer.
+##### Es por <u>creer</u>.
 
-##### No por hacer.
+##### No por <u>hacer</u>.
 
 #### en Cristo Jesús.
-##### Se define el objeto de la fe.
+##### Se define el <u>objeto</u> de la fe.
 
-##### No es fe en general.
+##### No es fe en <u>general</u>.
 
-##### Es fe en Cristo.
+##### Es fe en <u>Cristo</u>.
 
-##### Y fue solo por medio de la fe en Cristo Jesús. Juan 1:12-13; 1 Juan 3:1
+##### Y fue solo por medio de la fe en Cristo <u>Jesús</u>. Juan 1:12-13; 1 Juan 3:1
 
 ##### Es importante notar, que Pablo nunca <u>ataco</u> a la ley o la desmerito.
 
 ##### Él estuvo mostrando el propósito de la ley.
 
-##### Y cómo Dios la utiliza para el mundo perdido.
+##### Y cómo Dios la utiliza <u>para</u> el mundo perdido.
 
-##### Con el propósito de llevarlos a la fe en Su Hijo Jesucristo.
+##### Con el propósito de llevarlos a la fe en Su <u>Hijo</u> Jesucristo.
 
-##### Ahora el creyente en Jesucristo ya no está bajo la ley.
+##### <u>Ahora</u> el creyente en Jesucristo ya no está bajo la ley.
 
-##### En una vida llena de acusaciones, condenación y maldición.
+##### En una vida <u>llena</u> de acusaciones, condenación y maldición.
 
-##### ¿Porqué ahora el creyente es hijo de Dios?
+##### ¿Porqué <u>ahora</u> el creyente es hijo de Dios?
 
-##### Porque cree en Cristo Jesús.
+##### Porque <u>cree</u> en Cristo Jesús.
 
-##### Porque la fe en Cristo es el medio por el cual Dios lo declara hijo.
+##### Porque la fe en Cristo es el medio por el <u>cual</u> Dios lo declara hijo.
 
 ### Gálatas 3:27  
 Porque todos los que fueron bautizados en Cristo, de Cristo se han revestido.
@@ -2604,14 +2636,14 @@ Porque todos los que fueron bautizados en Cristo, de Cristo se han revestido.
 No hay judío ni griego; no hay esclavo ni libre; no hay hombre ni mujer, porque todos son uno en Cristo Jesús.
 
 #### No hay…
-##### Pablo introduce una negación. No está describiendo ausencia de personas.
+##### Pablo introduce una negación. No está describiendo ausencia de <u>personas</u>.
 
-##### Está negando distinción en este contexto.
+##### Está negando distinción en <u>este</u> contexto.
 
 #### judío ni griego…
 ##### Primera categoría.
 
-###### Judíos y no judíos.
+###### <u>Judíos</u> y no judíos.
 - No hay diferencia <u>entre</u> la nacionalidad.
 
 #### no hay…
@@ -2622,66 +2654,66 @@ No hay judío ni griego; no hay esclavo ni libre; no hay hombre ni mujer, porque
 
 ###### Esclavos o <u>libres</u>.
 
-- No hay diferencia entre estatus social.
+- No hay diferencia entre estatus <u>social</u>.
 
 #### no hay…
-##### Tercera repetición.
+##### <u>Tercera</u> repetición.
 
-##### Pablo continúa con el mismo patrón.
+##### Pablo continúa con el <u>mismo</u> patrón.
 
 #### hombre ni mujer…
 ##### Tercera categoría.
 
 ##### Hombre o <u>mujer</u>.
 
-##### No hay diferencia entre los géneros.
+##### No hay diferencia entre los <u>géneros</u>.
 
 ##### Al ser revestidos de Cristo, identificados en Él, no hay <u>distinción</u> entre ningún tipo de persona.
 
 #### porque…
-##### Pablo introduce la razón.
+##### Pablo introduce la <u>razón</u>.
 
-##### No es solo una declaración.
+##### No es <u>solo</u> una declaración.
 
-##### Tiene fundamento.
+##### <u>Tiene</u> fundamento.
 
 #### todos son uno…
-##### Aquí aparece la base de la igualdad.
+##### Aquí aparece la <u>base</u> de la igualdad.
 
-##### No es uniformidad externa.
+##### No es uniformidad <u>externa</u>.
 
-##### Es unidad.
+##### Es <u>unidad</u>.
 
 #### en Cristo Jesús.
-##### Se define la esfera.
+##### Se define la <u>esfera</u>.
 
-##### No es una unidad humana.
+##### No es una <u>unidad</u> humana.
 
-##### Es en Cristo.
+##### Es en <u>Cristo</u>.
 
 ##### La igualdad no viene por <u>medio</u> de obra humana o deseo humano.
 
-##### Todos fuimos pecadores.
+##### Todos <u>fuimos</u> pecadores.
 
-##### Los cuales merecíamos la muerte eterna.
+##### Los cuales merecíamos la muerte <u>eterna</u>.
 
 ##### Todos pecadores acusados por la ley.
 
-##### Que al creer en Jesucristo, fuimos identificados con Él.
+##### Que al <u>creer</u> en Jesucristo, fuimos identificados con Él.
 
-##### Y en Él no hay distinción.
+##### Y en Él no <u>hay</u> distinción.
 
-##### Somos uno en Él.
+##### <u>Somos</u> uno en Él.
 
 ##### Pablo no está diciendo que las diferencias dejan de existir en lo práctico.
 
-##### Está diciendo que no definen la posición en Cristo.
+##### Está diciendo que no definen la <u>posición</u> en Cristo.
 
 ###### La identidad del creyente no está determinada por:
 - Nacionalidad.
-- Estatus.
+- <u>Estatus</u>.
 - Género. 
-- Sino por su unión con Cristo.
+- Sino por su <u>unión</u> con Cristo.
 
 ### Gálatas 3:29  
 Y si ustedes son de Cristo, entonces son descendencia de Abraham, herederos según la promesa.
@@ -2738,47 +2770,32 @@ sino que está bajo guardianes y tutores hasta la edad señalada por el padre.
 Así también nosotros, mientras éramos niños, estábamos sujetos a servidumbre bajo las cosas elementales del mundo.
 
 #### Así también…
-##### Pablo establece una comparación. Conecta con la ilustración anterior.
-
-##### Aplica esa realidad a “nosotros”.
+##### Pablo establece una comparación. <u>Conecta</u> con la ilustración anterior. Aplica esa realidad a “nosotros”.
 
 #### nosotros…
-##### Pablo se incluye. No habla solo de otros. Incluye a los creyentes, tanto él como los gálatas.
+##### Pablo se incluye. No <u>habla</u> solo de otros. Incluye a los creyentes, tanto él como los gálatas.
 
 #### mientras éramos niños [NÉPIOS]…
-##### Se describe una condición pasada.
-
-##### Pablo y los hermanos gálatas también en un tiempo pasado fueron como menores de edad (inmaduros).
-
-##### No es una referencia a edad literal. Es una condición de incapacidad.
+##### Se describe una condición pasada. Pablo y los hermanos gálatas también en un tiempo pasado fueron como menores de edad (inmaduros). No es una referencia a <u>edad</u> literal. Es una condición de incapacidad.
 
 #### estábamos sujetos…
-##### Se describe su estado en ese tiempo. No era libertad. Era una condición de sujeción.
+##### Se describe su <u>estado</u> en ese tiempo. No era libertad. Era una condición de sujeción.
 
 #### a servidumbre…
-##### Se especifica la naturaleza de esa sujeción. Era esclavitud. No una relación de hijo.
-
-##### En esa condición también <u>estarían</u> sujetos a obediencia.
+##### Se especifica la naturaleza de esa sujeción. Era esclavitud. No una relación de hijo. En esa condición también <u>estarían</u> sujetos a obediencia.
 
 #### bajo…
-##### Introduce aquello que gobernaba esa condición. Indica dependencia.
+##### Introduce aquello que gobernaba esa condición. <u>Indica</u> dependencia.
 
 #### las cosas elementales del mundo.
-##### Aquí se identifica el sistema.
+##### Aquí se identifica el <u>sistema</u>.
 
 Elementales (STOIJEÍON)
-: significa principio básico, o algo elemental. En este <u>contexto</u> enfatiza algo rudimentario, algo que es incompleto.
+: significa principio básico, o algo elemental. En este contexto enfatiza algo rudimentario, algo que es incompleto.
 
-##### Pablo recuerda a los creyentes que eran incapaces de cualquier cosa delante de Dios.
+##### Pablo recuerda a los creyentes que eran incapaces de cualquier cosa delante de Dios. Ellos solo <u>estuvieron</u> sirviendo. Estaban bajo obediencia a las cosas incompletas. Cosas sin propósito que pertenecían al mundo. No a Dios.
 
-##### Ellos solo <u>estuvieron</u> sirviendo. Estaban bajo obediencia a las cosas incompletas.
-
-##### Cosas sin propósito que pertenecían al mundo. No a Dios.
-
-##### Pablo no describe esta etapa como neutral. La describe como esclavitud.
-
-##### Este versículo prepara el contraste con lo que vendrá.
-##### De esclavos…A hijos.
+##### Pablo no describe esta <u>etapa</u> como neutral. La describe como esclavitud. Este versículo prepara el contraste con lo que vendrá. De esclavos…A hijos.
 
 ### Gálatas 4:4  
 Pero cuando vino la plenitud del tiempo, Dios envió a Su Hijo, nacido de mujer, nacido bajo la ley,
@@ -2814,165 +2831,81 @@ a fin de que redimiera a los que estaban bajo la ley, para que recibiéramos la 
 Y porque ustedes son hijos, Dios ha enviado el Espíritu de Su Hijo a nuestros corazones, clamando: «¡Abba! ¡Padre!».
 
 #### Y…
-##### Pablo continúa su argumento. No introduce una idea aislada. Está desarrollando lo que ya ha afirmado sobre la adopción.
+##### Pablo continúa su argumento. No introduce una <u>idea</u> aislada. Está desarrollando lo que ya ha afirmado sobre la adopción.
 
 #### porque…
-##### Introduce la causa. No es el resultado lo que define la filiación. Es la filiación lo que explica lo que sigue.
+##### Introduce la causa. No es el resultado lo que define la filiación. Es la filiación lo que <u>explica</u> lo que sigue.
 
 #### ustedes son hijos…
-##### Aquí se establece la realidad. No es algo futuro.
-##### Es una condición presente.
-
+##### Aquí se establece la realidad. No es algo <u>futuro</u>. Es una condición presente.
 ##### ¿Cómo sabemos que ahora somos hijos de Dios? <u>Porque</u> hemos recibido el Espíritu del Hijo de Dios.
 
-##### Por medio de Cristo, fuimos liberados de la obediencia obligatoria de la ley.
-
-##### Y por ser liberados ahora fuimos <u>adoptados</u> como hijos de Dios.
+##### Por medio de Cristo, fuimos liberados de la obediencia obligatoria de la ley. Y por ser liberados ahora fuimos <u>adoptados</u> como hijos de Dios.
 
 #### Dios ha enviado…
-##### Aquí aparece la acción divina.
-
-##### No es algo que el creyente produce.
-
-##### Es algo que Dios hace.
-
-##### Dios es el origen de esta realidad.
+##### Aquí aparece la acción divina. No es algo que el creyente produce. Es algo que Dios hace. Dios es el <u>origen</u> de esta realidad.
 
 #### el Espíritu de Su Hijo…
 
-##### Se identifica lo que fue enviado.
-
-##### No es cualquier espíritu.
-
-##### Es el Espíritu del Hijo.
-
-##### Esto conecta directamente la relación del creyente con la del Hijo.
+##### Se identifica lo que fue enviado. No es cualquier espíritu. Es el Espíritu del Hijo. Esto conecta directamente la relación del <u>creyente</u> con la del Hijo.
 
 #### a nuestros corazones…
-##### Se especifica el lugar.
-
-##### No es externo.
-
-##### Es una realidad interna.
-
-##### Dios envió el Espíritu de Cristo a nuestros corazones.
+##### Se especifica el lugar. No es externo. Es una realidad interna. Dios <u>envió</u> el Espíritu de Cristo a nuestros corazones.
 
 #### clamando…
-##### Aquí aparece la acción del Espíritu.
-
-##### No es silenciosa.
-
-##### Es una expresión activa.
+##### Aquí aparece la acción del Espíritu. No es silenciosa. Es una expresión <u>activa</u>.
 
 #### ¡Abba! ¡Padre!
-##### Se expresa el contenido del clamor.
+##### Se expresa el contenido del clamor. Es una expresión de relación. Esa de cercana es la relación que ahora goza <u>cada</u> creyente para con Dios.
 
-##### Es una expresión de relación.
+##### Ahora todo creyente tiene una relación de Padre a hijo con Dios. Desde Gálatas 1:1-4 que Pablo no se <u>dirigía</u> a Dios como Padre.
 
-##### Esa de cercana es la relación que ahora goza cada creyente para con Dios.
+##### Ahora esta relación es explícita. Ya no es una relación de condenación.
 
-##### Ahora todo creyente tiene una relación de Padre a hijo con Dios.
-
-##### Desde Gálatas 1:1-4 que Pablo no se dirigía a Dios como Padre.
-
-##### Ahora esta relación es explícita.
-
-##### Ya no es una relación de condenación.
-
-##### Ya que ha sido liberado de la ley que lo <u>condenaba</u> al transgredirla.
-
-##### El Espíritu no produce la adopción.
-
-##### La confirma.
-
-##### Porque ustedes son hijos.
-
-##### Por eso Dios envió el Espíritu.
+##### Ya que ha sido liberado de la ley que lo <u>condenaba</u> al transgredirla. El Espíritu no produce la adopción. La confirma. Porque ustedes son hijos. Por eso Dios envió el Espíritu.
 
 ### Gálatas 4:7
 Por tanto, ya no eres siervo, sino hijo; y si hijo, también heredero por medio de Dios.
 
 #### Por tanto…
-##### Pablo introduce una conclusión.
+##### Pablo introduce una conclusión. Está cerrando lo que <u>viene</u> explicando desde los versículos anteriores.
 
-##### Está cerrando lo que viene explicando desde los versículos anteriores.
-
-##### Dios envió a Su Hijo para redimir a los que estaban bajo la ley y para que recibieran la adopción de hijos.
-
-##### Dios también envió el Espíritu de Su Hijo a los corazones de los creyentes.
-
-##### Por eso ahora Pablo puede decir lo que sigue.
+##### Dios envió a Su Hijo para <u>redimir</u> a los que estaban bajo la ley y para que recibieran la adopción de hijos. Dios también envió el Espíritu de Su Hijo a los corazones de los creyentes. Por eso ahora Pablo puede decir lo que sigue.
 
 #### ya no eres siervo…
-##### En conclusión ya no eres esclavo.
+##### En conclusión ya no eres esclavo. Eso eras cuando estabas bajo la ley, bajo los rudimentos de este mundo. Pablo no esta <u>diciendo</u> que la ley no tiene ningún propósito (Gálatas 3:23-24).
 
-##### Eso eras cuando estabas bajo la ley, bajo los rudimentos de este mundo.
+##### Pero Dios no dio la ley para hacerte adoptado ni heredero. Dios no la dio con ese propósito. Sino que a la vista de Dios estabas como <u>esclavo</u> bajo ella.
 
-##### Pablo no esta <u>diciendo</u> que la ley no tiene ningún propósito (Gálatas 3:23-24).
-
-##### Pero Dios no dio la ley para hacerte adoptado ni heredero. Dios no la dio con ese propósito.
-
-##### Sino que a la vista de Dios estabas como esclavo bajo ella.
-
-##### Aquí Pablo no está hablando de una mejora parcial. Está hablando de un cambio real de condición.
+##### Aquí Pablo no está hablando de una mejora parcial. Está hablando de un <u>cambio</u> real de condición.
 
 #### sino hijo…
-##### Aquí aparece el contraste principal. Ya no se trata de esclavitud. Ahora se trata de filiación.
+##### Aquí aparece el contraste principal. Ya no se trata de esclavitud. Ahora se <u>trata</u> de filiación.
 
-##### Todo creyente ya fue hecho hijo de Dios. Y por eso recibió el Espíritu Santo.
+##### Todo creyente ya fue <u>hecho</u> hijo de Dios. Y por eso recibió el Espíritu Santo.
 
-##### Ahora es adoptado como hijo.
-
-##### Esto no depende de lo que el creyente haga. Depende de lo que Dios hizo por medio de Cristo.
+##### Ahora es adoptado como hijo. Esto no depende de lo que el creyente haga. Depende de lo que Dios hizo por <u>medio</u> de Cristo.
 
 #### y si hijo…
-##### Pablo continúa la misma línea de pensamiento.
-
-##### No introduce una idea aislada.
-
-##### Muestra lo que necesariamente sigue de ser hijo.
-
-##### Si esta realidad ya es verdadera, entonces otra realidad también lo será.
+##### Pablo continúa la misma línea de pensamiento. No introduce una idea aislada. Muestra lo que necesariamente <u>sigue</u> de ser hijo. Si esta realidad ya es verdadera, entonces otra realidad también lo será.
 
 #### también heredero…
 ##### En el primer siglo una <u>persona</u> podía ser heredero pero no podía disfrutar de esa herencia a menos que deje de ser declarado como menor de edad.
 
-##### Pero ese no es el caso de los creyentes.
+##### Pero ese no es el caso de los creyentes. Todo creyente ya fue hecho hijo de Dios y por eso recibió el Espíritu Santo, ahora es adoptado como hijo y también heredero y puede <u>disfrutar</u> de aquella herencia también.
 
-##### Todo creyente ya fue hecho hijo de Dios y por eso recibió el Espíritu Santo, ahora es adoptado como hijo y también heredero y puede <u>disfrutar</u> de aquella herencia también.
+##### Esta herencia dada de Dios no es como la de los romanos. Esta no esta en incertidumbre. Sino es garantizada para cada creyente. Porque cada creyente ya ha sido <u>hecho</u> hijo.
 
-##### Esta herencia dada de Dios no es como la de los romanos.
-
-##### Esta no esta en incertidumbre.
-
-##### Sino es garantizada para cada creyente.
-
-##### Porque cada creyente ya ha sido hecho hijo.
-
-##### Pablo muestra que la herencia no es una posibilidad lejana.
-
-##### Está conectada directamente con la adopción ya recibida.
+##### Pablo muestra que la herencia no es una posibilidad <u>lejana</u>. Está conectada directamente con la adopción ya recibida.
 
 #### por medio de Dios.
-##### Dios es el autor de esta gran redención.
+##### Dios es el autor de esta gran redención. Él envió a Su Hijo en el momento oportuno. Él envió el Espíritu de Su Hijo <u>cuando</u> fuimos hechos Sus hijos.
 
-##### Él envió a Su Hijo en el momento oportuno.
+##### Y también fuimos hechos herederos por medio de Él. La herencia no puede ser posible y no tendría sentido si no es por medio de Cristo.
 
-##### Él envió el Espíritu de Su Hijo <u>cuando</u> fuimos hechos Sus hijos.
+##### Ya que gracias a Él fuimos <u>redimidos</u> y adoptados como hijos. Es lo que ahora somos: hijos y nunca más esclavos.
 
-##### Y también fuimos hechos herederos por medio de Él.
-
-##### La herencia no puede ser posible y no tendría sentido si no es por medio de Cristo.
-
-##### Ya que gracias a Él fuimos <u>redimidos</u> y adoptados como hijos.
-
-##### Es lo que ahora somos: hijos y nunca más esclavos.
-
-##### Pablo no está animando aquí a que el creyente llegue a ser hijo.
-
-##### Está afirmando que ya no es siervo.
-
-##### Y que ahora sí es hijo.
+##### Pablo no está animando aquí a que el creyente llegue a ser hijo. Está afirmando que ya no es siervo. Y que ahora sí es hijo.
 
 ###### La base de esta afirmación está en toda la obra que Dios ya realizó.
 
@@ -2982,24 +2915,17 @@ Por tanto, ya no eres siervo, sino hijo; y si hijo, también heredero por medio 
 
 - Don del Espíritu.
 
-##### Por eso este versículo no es una meta.
-##### Es una conclusión.
-
+##### Por eso este versículo no es una meta. Es una conclusión.
 ##### El creyente no pasa parte del tiempo como esclavo y parte del tiempo como hijo.
 
-##### Pablo habla de una nueva condición real.
+##### Pablo habla de una nueva condición real. La esclavitud quedó atrás como estado anterior. La filiación y la herencia describen la realidad actual del creyente. 
 
-##### La esclavitud quedó atrás como estado anterior.
+###### Pablo lleva a los gálatas a ver que volver a la ley no tendría sentido.
 
-##### La filiación y la herencia describen la realidad actual del creyente.
+- Si ya no son esclavos, no deben pensar como esclavos.
 
-##### Pablo lleva a los gálatas a ver que volver a la ley no tendría sentido.
-
-##### Si ya no son esclavos, no deben pensar como esclavos.
-
-##### Si ya son hijos, no deben buscar por obras lo que Dios ya les dio por gracia.
-
-##### Si ya son herederos, no deben vivir como si todavía estuvieran fuera de la casa.
+- Si ya son hijos, no deben buscar por obras lo que Dios ya les dio por gracia.
+- Si ya son herederos, no deben vivir como si todavía estuvieran fuera de la casa.
 
 # Gálatas 4:8-31 - Pablo advierte de Volver a la esclavitud
 
@@ -3051,35 +2977,21 @@ Pero ahora que conocen a Dios, o más bien, que son conocidos por Dios, ¿cómo 
 Ustedes observan los días, los meses, las estaciones y los años.
 
 #### Ustedes observan…
-##### Pablo describe una acción presente.
+##### Pablo describe una acción presente. No es algo ocasional. Es una práctica continua. Ellos estaban siendo engañados por medio de practicantes <u>judíos</u>.
 
-##### No es algo ocasional.
-
-##### Es una práctica continua.
-
-##### Ellos estaban siendo engañados por medio de practicantes judíos.
-
-##### Por lo que ellos estarían siendo arrastrados hacia guardar (observar) ciertos eventos que eran parte de la religión judía.
+##### Por lo que ellos estarían siendo arrastrados <u>hacia</u> guardar (observar) ciertos eventos que eran parte de la religión judía.
 
 #### los días…
-##### Pablo introduce la primera categoría.
-
-##### Días, puede que haga referencia a los días de <u>reposo</u>.
+##### Pablo introduce la primera categoría. Días, puede que haga referencia a los días de <u>reposo</u>.
 
 #### los meses…
-##### Segunda categoría.
-
-##### Meses, puede que haga referencia a los <u>eventos</u> de luna nueva.
+##### Segunda categoría. Meses, puede que haga referencia a los <u>eventos</u> de luna nueva.
 
 #### las estaciones…
-##### Tercera categoría.
-
-##### Estaciones, puede que haga referencia a eventos anuales como la <u>pascua</u>, tabernáculos.
+##### Tercera categoría. Estaciones, puede que haga referencia a eventos anuales como la <u>pascua</u>, tabernáculos.
 
 #### y los años.
-##### Cuarta categoría.
-
-##### Años, puede que se refiera a años sabáticos o de <u>reposo</u>.
+##### Cuarta categoría. Años, puede que se refiera a años sabáticos o de <u>reposo</u>.
 
 ##### En Gálatas 4:8 ellos estaban esclavizados a su práctica de adoración a dioses falsos.
 
@@ -3097,17 +3009,13 @@ Ustedes observan los días, los meses, las estaciones y los años.
 
 ##### Esto y cualquier tipo de engaño que nos desvía de ver la realidad que ahora poseemos por medio de Dios.
 
-##### Solo lleva a no experimentar lo provisto por Dios en Cristo.
-
-##### De la verdadera libertad y conocimiento de Él.
+##### Solo lleva a no experimentar lo provisto por Dios en Cristo. De la verdadera libertad y conocimiento de Él.
 
 ### Gálatas 4:11
 Temo que quizá he trabajado en vano por ustedes.
 
 #### Temo…
-##### Pablo expresa una preocupación real. No es una observación fría. Es una reacción personal ante lo que está viendo.
-
-##### Pablo estaba muy preocupado por los gálatas.
+##### Pablo expresa una preocupación real. No es una observación fría. Es una reacción personal ante lo que está viendo. Pablo estaba muy preocupado por los gálatas.
 
 #### que quizá…
 ##### Introduce una posibilidad. No afirma algo como definitivo. Pero sí muestra una inquietud seria.
@@ -3116,20 +3024,12 @@ Temo que quizá he trabajado en vano por ustedes.
 ##### Pablo se refiere a su labor entre ellos. Incluye su enseñanza del evangelio. Pablo les había enseñado la verdad. El evangelio de Cristo como veremos más adelante (Gálatas 4:13).
 
 #### en vano…
-##### Aquí aparece el resultado que Pablo teme.
-###### Sin propósito.
-###### Inútil.
-
+##### Aquí aparece el resultado que Pablo teme. Sin propósito. <u>Inútil</u>.
 ##### La manera en la cual ellos habían sido <u>llevados</u> hacia cosas sin propósito, inútiles por medio del engaño.
 
 #### por ustedes.
-##### Pablo identifica a quién se refiere.
-###### No es algo general.
-###### Es específico hacia los gálatas.
-
-##### Pablo había invertido tiempo y esfuerzo en ellos. Pero ahora parece que todo eso fue en vano. ¿Por qué?
-##### Por su desvío de la verdad.
-
+##### Pablo identifica a quién se refiere. No es algo general. Es específico <u>hacia</u> los gálatas.
+##### Pablo había invertido tiempo y esfuerzo en ellos. Pero ahora parece que todo eso fue en vano. ¿Por qué? Por su desvío de la verdad.
 ##### Pablo no está diciendo que el evangelio perdió su valor. Está expresando su preocupación por la respuesta de ellos.
 
 ##### Este versículo cierra la advertencia de los versículos anteriores. Muestra el impacto real de volver a la esclavitud.
@@ -3160,36 +3060,20 @@ Les ruego, hermanos, háganse como yo, pues yo también me he hecho como ustedes
 Pero saben que fue por causa de una enfermedad física que les prediqué el evangelio la primera vez.
 
 #### Pero…
-##### Pablo introduce un contraste. Cambia de advertencia a recuerdo.
-
-##### Ahora Pablo comenzará a recordarles eventos pasados.
+##### Pablo introduce un <u>contraste</u>. Cambia de advertencia a recuerdo. Ahora Pablo comenzará a recordarles eventos pasados.
 
 #### saben que…
-##### Pablo apela al conocimiento de los gálatas.
-
-##### No está introduciendo algo nuevo.
-
-##### Es algo que ellos ya conocían.
+##### Pablo apela al conocimiento de los gálatas. No está introduciendo algo <u>nuevo</u>. Es algo que ellos ya conocían.
 
 ##### Pablo comenzará a recordarles eventos pasados que <u>compartió</u> con los hermanos gálatas y que ellos conocían.
 
 #### fue por causa de una enfermedad física…
-##### Pablo explica la circunstancia.
+##### Pablo explica la circunstancia. No fue un <u>plan</u> estratégico inicial. Fue una situación inesperada.
 
-##### No fue un plan estratégico inicial.
-
-##### Fue una situación inesperada.
-
-##### Cuando los gálatas y Pablo se conocieron por primera vez, fue por causa de una enfermedad de Pablo.
+##### Cuando los gálatas y Pablo se conocieron por primera vez, fue por <u>causa</u> de una enfermedad de Pablo.
 
 #### que les prediqué el evangelio…
-##### Aquí aparece la acción principal.
-
-##### Pablo proclamó el evangelio.
-
-##### Aprovechó esa circunstancia para anunciar la verdad.
-
-##### Tuvo la oportunidad de compartirles la verdad del evangelio de Cristo.
+##### Aquí aparece la <u>acción</u> principal. Pablo proclamó el evangelio. Aprovechó esa circunstancia para anunciar la verdad. Tuvo la oportunidad de compartirles la verdad del evangelio de Cristo.
 
 #### la primera vez.
 ##### Se especifica el momento. Marca el inicio de su relación con ellos. No fue un evento repetido, sino el comienzo.
@@ -3204,10 +3088,10 @@ Pero saben que fue por causa de una enfermedad física que les prediqué el evan
 Y lo que para ustedes fue una prueba en mi condición física, que no despreciaron ni rechazaron, sino que me recibieron como un ángel de Dios, como a Cristo Jesús mismo.
 
 #### Y…
-##### Pablo continúa su argumento. No introduce una idea nueva aislada. Está recordando algo de su relación con ellos.
+##### Pablo continúa su argumento. No introduce una idea <u>nueva</u> aislada. Está recordando algo de su relación con ellos.
 
 #### lo que para ustedes fue una prueba…
-##### Pablo describe cómo ellos experimentaron su situación. Fue una prueba para ellos. Algo que podía haber producido rechazo.
+##### Pablo describe cómo ellos experimentaron su situación. Fue una <u>prueba</u> para ellos. Algo que podía haber producido rechazo.
 
 #### en mi condición física…
 ##### Se especifica la causa de esa prueba. Pablo se refiere a su estado corporal.
@@ -3215,13 +3099,15 @@ Y lo que para ustedes fue una prueba en mi condición física, que no despreciar
 ##### El resultado de ellos haber recibido la verdad del Evangelio fue que ellos no despreciaron a Pablo por su condición de <u>enfermedad</u>.
 
 #### que no despreciaron…
-##### Primera reacción negativa que no ocurrió.  
+##### Primera reacción negativa que no <u>ocurrió</u>.  
+
 ###### No lo menospreciaron. 
+
 ###### Ni rechazaron…
 
 ##### Segunda reacción negativa que tampoco ocurrió.
 ###### No lo apartaron.
-##### sino que me recibieron…
+###### sino que me recibieron…
 
 ##### Aquí aparece el contraste. 
 
@@ -3229,34 +3115,30 @@ Y lo que para ustedes fue una prueba en mi condición física, que no despreciar
 - lo recibieron.
 - como un ángel de Dios…
 
-##### Se describe cómo lo recibieron.
-
-##### Lo trataron como un mensajero de Dios.
+##### Se describe cómo lo recibieron. Lo trataron como un mensajero de Dios.
 
 #### como a Cristo Jesús mismo.
 ##### Se intensifica aún más la comparación.
 
-##### No solo como mensajero.
+###### No solo como mensajero.
 
-##### Sino como a Cristo mismo.
+###### Sino como a Cristo mismo.
 
 ##### El resultado de ellos haber recibido la verdad del Evangelio fue este trato hacia Pablo.
 
-##### No despreciaron ni rechazaron.
+###### No despreciaron ni rechazaron.
 
-##### Sino que lo trataron como un mensajero de Dios.
+###### Sino que lo trataron como un mensajero de Dios.
 
-##### Hasta como a Cristo mismo.
+###### Hasta como a Cristo mismo.
 
 ##### Es importante notar que <u>este</u> trato de los gálatas hacia Pablo fue un resultado de lo que ellos habían recibido.
 
-##### Era el mensaje de Cristo.
-
-##### La verdad.
+##### Era el mensaje de Cristo. La verdad.
 
 ###### Pablo está recordando esto para contrastarlo con su situación actual.
-- Antes lo recibían.
-- Ahora están siendo desviados.
+- <u>Antes</u> lo recibían.
+- Ahora están <u>siendo</u> desviados.
 
 ### Gálatas 4:15  
 ¿Dónde está, pues, aquel sentido de bendición que tuvieron? Pues testigo soy en favor de ustedes de que de ser posible, se hubieran sacado los ojos y me los hubieran dado.
@@ -3315,7 +3197,35 @@ Hijos míos, por quienes de nuevo sufro dolores de parto hasta que Cristo sea fo
 quisiera estar presente con ustedes ahora y cambiar mi tono, pues estoy perplejo en cuanto a ustedes.
 
 #### quisiera estar presente con ustedes ahora y cambiar mi tono, pues estoy perplejo en cuanto a ustedes.
-##### Pablo deseaba estar con ellos para poder <u>expresarse</u> de distinta manera para con ellos porque estaba completamente perplejo ante tal situación de los hermanos gálatas. Ellos habían cambiado el mensaje de libertad en Cristo, a un engaño esclavizante.
+##### quisiera estar presente con ustedes ahora
+
+##### Pablo expresa un deseo directo: él quiere <u>estar presente</u> con ellos en ese momento, no a distancia.
+
+##### No está hablando de una posibilidad futura lejana, sino de un deseo inmediato: <u>ahora</u>.
+
+##### y cambiar mi tono
+
+##### Pablo añade otro deseo junto al anterior: no solo estar presente, sino también <u>cambiar</u> la manera en que les habla.
+
+##### El enfoque está en su <u>tono</u>, es decir, la forma en que se está expresando hacia ellos.
+
+##### Esto implica que su tono actual no es el que quisiera usar si estuviera con ellos.
+
+##### pues estoy perplejo en cuanto a ustedes
+
+##### Pablo da la razón de lo anterior: está <u>perplejo</u> respecto a ellos.
+
+##### Su estado es de confusión o incertidumbre frente a su situación.
+
+##### Esta condición es lo que motiva tanto su deseo de estar presente como su deseo de cambiar su tono.
+
+##### Pablo deseaba estar con ellos para poder <u>expresarse</u> de distinta manera para con ellos porque estaba completamente perplejo ante tal situación de los hermanos gálatas.
+
+##### El texto conecta directamente su deseo (estar presente y cambiar el tono) con su estado: <u>perplejo</u> en cuanto a ellos.
+
+##### Ellos habían cambiado el mensaje de libertad en Cristo, a un engaño esclavizante.
+
+##### Esta idea no está explícita en esta <u>frase</u>, pero describe la situación a la que Pablo está reaccionando en el contexto de la carta.
 
 ## Gálatas 4:21-27 - La historia de las dos mujeres
 

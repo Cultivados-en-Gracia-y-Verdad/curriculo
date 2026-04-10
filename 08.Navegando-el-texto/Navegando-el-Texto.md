@@ -5,111 +5,246 @@ title: "Navegando el Texto"
 
 # Navegando el Texto
 
-# En Principio: Revelación
+Cuando un barco zarpa, no lo hace a la deriva. Sale con dirección, equipado con el conocimiento y las herramientas necesarias para navegar con seguridad. Sin esa preparación, las mismas aguas que prometen descubrimiento pueden llevar rápidamente a la confusión, la desorientación o incluso al naufragio.
 
-##### Revelación de Dios
+De la misma manera, acercarse al texto bíblico sin una guía clara puede llevar a interpretaciones incorrectas o conclusiones que el texto mismo no afirma. Este curso está diseñado para equiparte con las herramientas esenciales para navegar las Escrituras con cuidado y precisión. Antes de “zarpar” hacia un estudio más profundo, aprenderemos a observar, trazar y seguir el texto tal como está escrito, de modo que nuestra comprensión esté anclada en lo que realmente dice, y no en suposiciones o ideas externas.
 
-###### Dios ha comunicado. No dejó ideas sueltas. No dejó mensajes ocultos. No habló en fragmentos aislados
+Antes de avanzar, es importante aclarar la manera en que nos acercaremos al texto. No se trata de aprender un método nuevo ni de memorizar una serie de pasos mecánicos, sino de adoptar una forma de pensar. A esto lo llamaremos ROOTS.
+
+ROOTS no es un sistema que se impone al texto, sino una actitud que se somete a él. Es una manera de frenar, observar con cuidado, y permitir que el texto hable por sí mismo antes de que nosotros saquemos conclusiones. En lugar de correr hacia interpretaciones rápidas, ROOTS nos entrena a permanecer en lo que está escrito, siguiendo el flujo, las conexiones y las palabras tal como aparecen.
+
+En este curso, ROOTS servirá como un marco sencillo para recordarnos que nuestro papel no es forzar el texto a decir algo, sino aprender a leerlo con respeto, atención y precisión. No es una técnica que dominar, sino una disposición que cultivar.
+
+Es importante también aclarar de dónde proviene esta forma de acercarse al texto. ROOTS no es algo nuevo, ni es un descubrimiento reciente. No estamos introduciendo un sistema innovador ni una metodología exclusiva. En realidad, lo que estamos haciendo es ponerle un nombre sencillo a una manera de leer que ha sido utilizada por décadas en el estudio serio del lenguaje.
+
+Los principios detrás de ROOTS reflejan prácticas básicas que se emplean en áreas como la lingüística, el análisis del discurso y el estudio cuidadoso de textos: observar lo que está escrito, seguir la estructura, respetar el flujo del pensamiento y evitar imponer ideas externas al contenido. Institutos, traductores y estudiosos del lenguaje han trabajado de esta manera durante mucho tiempo.
+
+ROOTS simplemente toma esos principios y los presenta de forma accesible, con un lenguaje claro, para que cualquier persona pueda acercarse al texto bíblico con el mismo cuidado y respeto. No estamos inventando una nueva forma de leer, sino recuperando una manera sólida y probada de hacerlo.
+
+Para ayudarnos a mantener esta manera de pensar presente, utilizaremos un recordatorio sencillo: ROOTS. No es una fórmula rígida, sino una guía que nos ayuda a no desviarnos del texto.
+
+Cada letra apunta a una disposición que queremos cultivar al leer:
+
+**R – Revelación**
+ Partimos de la base de que estamos frente a algo que ha sido dado, no producido por nosotros. El texto no nace de nuestra interpretación; nosotros nos acercamos a lo que ya está ahí.
+
+**O – Observar la estructura**
+ Antes de pensar en significados, prestamos atención a cómo está organizado el texto: sus conexiones, repeticiones, contrastes y flujo.
+
+**O – Observar lo que el texto dice en contexto**
+ Nos detenemos en las palabras mismas. ¿Qué está realmente escrito? ¿Qué afirma? ¿Qué no afirma?
+
+**T – Trazar (seguir) el desarrollo**
+ Seguimos el hilo del pensamiento paso a paso, sin adelantarnos ni saltar a conclusiones apresuradas.
+
+**S – Someterse al resultado**
+ Finalmente, nos alineamos con lo que el texto muestra, aunque no sea lo que esperábamos encontrar.
+
+ROOTS no añade nada al texto. Más bien, nos ayuda a quitarnos del camino para poder verlo con claridad.
+
+# R – Revelación
+
+Antes de aprender a observar o seguir el texto, necesitamos establecer algo fundamental: **¿qué es lo que tenemos delante?**
+
+No estamos frente a un texto cualquiera.
+
+Dios ha comunicado.
+
+No dejó ideas sueltas.
+ No dejó mensajes ocultos.
+ No habló en fragmentos aislados.
 
 Dios **reveló**.
 
-Y lo hizo por medio de **lenguaje escrito**.
+## ¿Qué significa revelación?
 
-## PROPÓSITO
+Revelación significa que el contenido **no se originó en el hombre**, sino que fue dado.
 
-La revelación tiene propósito.
- No es información al azar
- No es acumulación de frases
- Es comunicación intencional
+Esto cambia completamente nuestra postura.
 
-Cada texto:
+No nos acercamos al texto para producir significado, sino para **reconocer lo que ya ha sido comunicado**.
+
+Hay una diferencia clara:
+
+- En el descubrimiento, el hombre busca y llega a conclusiones
+- En la revelación, la verdad es dada al hombre
+- No estamos tratando de “llegar” a la verdad del texto. 
+- Estamos siendo confrontados con algo que ya ha sido dicho.
+
+## Dios comunicó por medio de lenguaje
+
+Dios no solo reveló.
+
+Lo hizo por medio de **lenguaje**.
+
+Esto significa que lo que tenemos delante no es una colección de pensamientos dispersos, sino **comunicación intencional**.
+
+Y toda comunicación tiene propósito.
+
+## Propósito de la revelación
+
+La revelación no es información al azar.
+ No es acumulación de frases.
+
+Es comunicación con dirección.
+
+Cada porción del texto:
+
 - dice algo
 - lo desarrolla
-- lo dirige hacia un resultado
+- lo conduce hacia un resultado
 
-## NO SON VERSÍCULOS AISLADOS
+Nada está colocado sin propósito.
+
+## No son versículos aislados
 
 La Biblia no fue escrita en versículos.
 
- Los versículos fueron añadidos después
+Los versículos fueron añadidos después para ayudarnos a ubicar el contenido, pero **no forman parte de la comunicación original**.
 
 El autor no pensó en:
+
 - versículo 1
 - versículo 2
 - versículo 3
 
- Pensó en **una unidad completa de pensamiento**
+Pensó en **una unidad completa de pensamiento**.
 
-## EL TEXTO CONSTRUYE
+Cuando leemos por versículos aislados, rompemos lo que fue dado como una sola comunicación.
+
+## El texto construye
 
 El autor no solo dice cosas.
 
- **construye**
+**Construye**.
 
 El texto:
+
 - afirma
 - explica
+- conecta
 - contrasta
 - desarrolla
 
- Forma un argumento
+Forma un movimiento de pensamiento.
 
-Si lees versículos aislados:
- pierdes la construcción
- pierdes el desarrollo
- pierdes el punto
+Si leemos frases sueltas:
 
-## REGLAS DE COMUNICACIÓN ESCRITA
+- perdemos la construcción
+- perdemos el desarrollo
+- perdemos el punto
 
-La Escritura sigue reglas normales de comunicación.
+## Comunicación real, no código
 
- No es un código secreto
- No es un rompecabezas místico
+La Escritura no es un código secreto.
+ No es un rompecabezas místico.
 
-Funciona como cualquier texto:
+Dios comunicó usando lenguaje real, y el lenguaje funciona de manera normal:
+
 - palabras en contexto
 - ideas conectadas
 - desarrollo progresivo
 
- El significado está en la estructura
+El significado no está escondido detrás del texto.
+ Está en **cómo el texto está construido**.
 
-## DIOS BUSCA COMUNICAR
+## Dios busca ser entendido
 
 Dios no habló para ocultar.
+ Habló para comunicar.
 
- Habló para que se entienda
+No necesitamos:
 
-No necesitas:
 - claves ocultas
 - conocimiento secreto
-- interpretación especial
+- interpretaciones especiales
 
- Necesitas observar correctamente
+Necesitamos **observar correctamente** lo que está escrito.
 
-## PRINCIPIO CLAVE
+## Fundamento de la revelación
 
-```
+La misma Escritura afirma su origen:
+
+«Toda Escritura es inspirada por Dios…» — 2 Timoteo 3:16
+ «…hombres movidos por el Espíritu Santo hablaron de parte de Dios» — 2 Pedro 1:21
+ «Dios… nos ha hablado por Su Hijo» — Hebreos 1:1–2
+
+No estamos leyendo ideas humanas aisladas, sino **lo que Dios ha dado a conocer**.
+
+## El peso de la revelación
+
+Si Dios ha hablado, entonces esto no es opcional.
+
+No estamos tratando con un texto más.
+ No estamos evaluando ideas.
+
+Estamos frente a algo que **nos precede, nos define y nos confronta**.
+
+Esto cambia completamente cómo leemos:
+
+- no decidimos lo que el texto dice
+- no negociamos su contenido
+- no lo ajustamos a nuestras ideas
+
+Nos detenemos.
+ Observamos.
+ Seguimos.
+
+Porque lo que está delante **no se originó en nosotros**.
+
+## El poder de la revelación
+
+La revelación no solo informa.
+
+**actúa**
+
+Nos expone.
+ Nos corrige.
+ Nos establece.
+
+No leemos para dominar el texto.
+ Leemos para ser **afectados por él**.
+
+## Implicaciones
+
+Si la Escritura es revelación, entonces:
+
+- su contenido no depende de nuestra opinión
+- su mensaje no cambia según el lector
+- su autoridad no es negociable
+- Esto nos da una base firme.
+- No estamos construyendo sobre interpretaciones cambiantes, sino sobre algo que ha sido establecido fuera de nosotros.
+
+## Nuestra postura frente al texto
+
+Si Dios ha hablado, entonces:
+
+- no leemos para especular, sino para **oír**
+- no construimos significado, lo **recibimos**
+- no estamos sobre el texto, estamos **bajo él**
+- No corregimos el texto. Dejamos que el texto nos corrija a nosotros.
+
+## Principio clave
+
 Dios comunicó → el texto está construido → la estructura revela el propósito
-```
 
-## TRANSICIÓN
+## Punto de partida
 
 Por eso, no comenzamos preguntando:
- “¿Qué significa?”
 
-Tampoco comenzaremos preguntando:
- “¿Qué dice el texto?”
+“¿Qué significa?”
 
-Comenzamos preguntando:
- **¿Cómo está construido?**
+Ni siquiera comenzamos con:
 
-## FRASE CLAVE DEL MÉTODO
+“¿Qué dice?”
 
- **“Si veo cómo está construido, veré lo que dice.”**
+Comenzamos con:
 
-# NAVEGANDO EL TEXTO: ESTRUCTURA
+**¿Cómo está construido?**
 
-## Introducción
+Porque si Dios comunicó por medio de lenguaje, entonces el significado está en **cómo lo dijo**.
+
+# Introducción
 
 Antes de entender el significado, debemos ver **cómo el autor organizó lo que dijo**.
 
@@ -148,8 +283,8 @@ El autor:
 - contrasta
 - desarrolla
 
-Si no vemos esa construcción:
- perdemos el punto del autor.
+##### Si no vemos esa construcción:
+###### perdemos el punto del autor.
 
 ## La realidad del texto
 
@@ -180,6 +315,7 @@ Paso 3 — Cláusulas
 Paso 4 — Conectores  
 Paso 5 — Estructura  
 ```
+
 ```
 Paso 6 — Relaciones  
 Paso 7 — Frases  
