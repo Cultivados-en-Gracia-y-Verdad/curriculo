@@ -4,9 +4,9 @@ set -euo pipefail
 # ================================
 # configure these:
 # ================================
-MANUAL_NAME="Introducción al Griego"
-FILE_LOCATION="../05.Introduccion-al-griego"
-FILENAME="/manual.md"
+MANUAL_NAME="Gálatas"
+FILE_LOCATION="../07.Galatas"
+FILENAME="/manual1.0.md"
 # ==================================
 
 FILE="${FILE_LOCATION}${FILENAME}"

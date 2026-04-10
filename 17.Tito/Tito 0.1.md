@@ -10,7 +10,7 @@ date: "2026-02-20"
 
 INTRODUCCIÓN
 
-ROMANOS 1:1–17 – Introducción y tesis del evangelio
+Tito 1:1–17 – Introducción y tesis del evangelio
 
 Romanos 1:18–3:20 – La revelación de la ira y la responsabilidad universal
 
@@ -972,7 +972,7 @@ Impiedad - ASEBEIA
 : Quiere decir literalmente "falta de reverencia" pero tambien se puede traducir como toda malicia o perversidad en pensamiento y accion contra Dios.
 
 - Nos enseña que repudiando los deseos mundanos. Los desos mundanos son literalmnete lo que dice los deseos que existen en el mundo, la tentacion del mundo con lo que puede ofrecer.
- 
+
 #### vivamos en este mundo sobria, justa y piadosamente
 
 ##### "para que...vivamos en este mundo" Pueden observar que la gracia de Dios nos enseña7intruye con el proposito de vivir en este mundo ¿Podemos pensar que vivir en el mundo es terrible para un creyente?. Pues no negamos esa realidad, el mundo estara siempre presente alrededor de nosotro con lo que puede ofrecer, sin embargo Dios ha provisto de un maestro de una guia que nos enseña a vivir en este mundo, nos enseña lo que es viva y a vivirla en deleite segun la verdad.
