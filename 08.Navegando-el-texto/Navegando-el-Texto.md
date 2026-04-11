@@ -342,382 +342,285 @@ preparar correctamente el texto.
 Sin este paso, todo lo demás falla.
 
 # PASO 1 — COPIAR EL TEXTO
-## 🟦 EJECUTA
-1. ¿Qué haces?
+## EJECUTA
 
-Copias el texto en un solo párrafo y creas una copia de trabajo.
+##### ¿Qué haces?
+###### Copias el texto en un solo párrafo y creas una copia de trabajo.
 
-2. Regla
-No modificas el texto
-No separas en versículos
-Siempre trabajas sobre una copia
-3. Cómo hacerlo
-Copia el texto en un editor
-Elimina títulos y encabezados
-Une los versículos en un solo párrafo
-Mantén el texto intacto (sin cambiar palabras)
-Crea dos versiones:
-texto original
-texto de trabajo
-4. Resultado esperado
+##### Regla
+###### No modificas el texto
+###### No separas en versículos
+###### Siempre trabajas sobre una copia
+
+##### Cómo hacerlo
+
+1. Copia el texto en un editor
+
+2. Elimina títulos y encabezados
+
+3. Une los versículos en un solo párrafo
+
+4. Mantén el texto intacto (sin cambiar palabras)
+
+5. Crea una copia de trabajo del texto bíblico:
+- texto original
+- texto de trabajo
+
+##### Resultado esperado
+```
 Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo. 
 Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden.
-## 🟨 ENTIENDE
-##### Qué estás haciendo realmente
+```
 
-Estás preparando el texto para poder observarlo sin distorsión.
+## ENTIENDE
+
+##### Qué estás haciendo realmente
+###### Estás preparando el texto para poder observarlo sin distorsión.
 
 ##### Principio clave
-
-El análisis solo es confiable si el texto se mantiene intacto.
+###### El análisis solo es confiable si el texto se mantiene intacto.
 
 ##### Idea clave
-
-No trabajas con versículos aislados.
-Trabajas con una unidad completa de pensamiento.
+###### No trabajas con versículos aislados.
+###### Trabajas con una unidad completa de pensamiento.
 
 ##### Pregunta guía
-👉 ¿Estoy viendo el texto como una unidad o como fragmentos?
+###### 👉 ¿Estoy viendo el texto como una unidad o como fragmentos?
 
 ##### Definición
-Párrafo = unidad donde el autor desarrolla una idea completa.
+###### Párrafo = unidad donde el autor desarrolla una idea completa.
 
 ##### Ejemplo guiado
 
-Texto original:
-
-«Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
+###### Texto original:
+>«Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
 Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden.»
 
-Resultado:
-
+###### Resultado:
+```
 Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo. 
 Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden.
-##### Regla importante
+```
 
-Nunca trabajas directamente sobre el texto original.
+##### Regla importante
+###### Nunca trabajas directamente sobre el texto original.
 
 ##### Error común
-Modificar palabras sin darse cuenta
-Trabajar sobre versículos separados
-No crear copia de trabajo
-##### Regla de control
+###### Modificar palabras sin darse cuenta 
+###### Trabajar sobre versículos separados
+###### No crear copia de trabajo
 
-Si cambiaste el texto original, perdiste el control del análisis.
+##### Regla de control
+###### Si cambiaste el texto original, perdiste el control del análisis.
 
 ##### Frase clave
-“No modifico el texto — lo preparo para observarlo.”
+###### “No modifico el texto — lo preparo para observarlo.”
 
 ##### Qué debes notar
-Cuando el texto está bien preparado:
+###### Cuando el texto está bien preparado:
+- puedes ver el flujo completo
+- no rompes conexiones
+- el análisis posterior se vuelve confiable
 
-puedes ver el flujo completo
-no rompes conexiones
-el análisis posterior se vuelve confiable
 ##### Transición
 
-En el siguiente paso:
+###### En el siguiente paso:
+- 👉 identificarás los verbos finitos
 
-👉 identificarás los verbos finitos
+- 👉 verás dónde están las afirmaciones del texto
 
-👉 verás dónde están las afirmaciones del texto
+# PASO 2 — IDENTIFICAR LOS VERBOS FINITOS
 
-# PASO 2: IDENTIFICAR LOS VERBOS FINITOS
+## EJECUTA
 
-Después de preparar el texto, comenzamos el análisis.
+##### ¿Qué haces?
+###### Identificas y marcas los **verbos finitos** del texto.
 
-El primer paso es:
- identificar los **verbos finitos**
+##### Regla
+###### Solo se marcan los verbos que crean una nueva cláusula.
 
-## Por qué comenzamos con los verbos
+##### Cómo hacerlo
 
-Los verbos son el centro de cada afirmación.
- Donde hay un verbo finito, hay una idea.
+1. Lee el texto preparado (Paso 1)
 
-Sin verbos:
-- no hay afirmaciones
-- no hay cláusulas
-- no hay estructura
+2. Localiza posibles verbos  
 
-## Principio clave
+3. Pregunta: ¿Este verbo crea una nueva cláusula?
 
-Cada verbo finito introduce una unidad de pensamiento.
+4. Decide:
+   - Sí → márcalo
+   - No → déjalo sin marcar
 
-## Qué es un verbo finito
-
-Un verbo finito es un verbo que está limitado por:
-- persona
-- número
-- tiempo
-
- Funciona como el núcleo de una afirmación.
-
-## Ejemplos de verbos finitos
-
-```
-pude / di / podían / pueden / es / son / fue
-```
-
-Estos verbos expresan:
-- acción
-- estado
-- condición
-
-## Qué NO es un verbo finito
-
-Estas formas NO cuentan como verbo principal:
-```
-hablar
-recibir
-andar
-habiendo
-```
-
- Son formas dependientes (infinitivos o participios).
- No crean una nueva cláusula.
-
-## Regla absoluta
-
-Solo se marcan los verbos finitos.
-
-## Cómo marcar los verbos
-
-Usamos este formato:
+5. Marca así:
 ```
 ==verbo==
 ```
 
-Esto permite verlos inmediatamente en el texto.
-
-## Ejemplo (NBLA)
-
-Texto:
-> «Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo. Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden.»
-> 1 Corintios 3:1–2
-
-## Aclaración importante
-
-A veces el verbo finito aparece acompañado por otras formas verbales o partículas que no crean una nueva cláusula.
-
-En esos casos, **no se cuentan como otro verbo finito**.
-Se mantienen unidas al mismo núcleo verbal para no romper la cláusula artificialmente.
-
-### **Ejemplo** (efesios 2:8-9)
-
-```
-no ==pude== hablarles
-no ==podían== recibirlo
-==han sido salvados==
-==se gloríe==
-“Qué hacer cuando el verbo finito aparece acompañado”
-```
-
-### ️ EJEMPLOS CORRECTOS (bien marcados)
-
-Cada uno respeta:
-- 1 verbo finito = 1 cláusula
-- no separa partes que no crean nueva cláusula
-
-##### 1 - No ==pude== hablar con ellos
-️ correcto
-- “hablar” NO crea nueva cláusula
-
-##### 2 - Ellos ==podían== entender el mensaje
-️ correcto
-- “entender” depende de “podían”
-
-##### 3 - Ustedes ==han sido salvados== por gracia
-️ correcto
-- no se rompe la expresión
-- no se crean 2 o 3 “verbos” falsos
-
-##### 4 - Nadie ==se gloríe== delante de Dios
-️ correcto
-- “se” no se separa
-
-##### 5 - El mensaje ==fue anunciado== por los apóstoles
-️ correcto
-- una sola acción
-- no se separa “fue” y “anunciado”
-
-###  EJEMPLOS INCORRECTOS (rompen el método)
-
-Aquí está EXACTAMENTE lo que debes evitar
-
-##### 1 - No pude ==hablar== con ellos
-incorrecto
-- creaste un “verbo” que no inicia cláusula
-
-##### 2 - Ellos podían ==entender== el mensaje
-incorrecto
-- mismo error
-- “entender” no es cláusula
-
-##### 3 - Ustedes han ==sido== salvados
-incorrecto
-- partiste una sola acción
-- destruye Paso 3
-
-##### 4 - Nadie se ==gloríe==
-incorrecto
-- dejaste “se” suelto
-- rompe la unidad verbal
-
-##### 5 - El mensaje fue ==anunciado== por los apóstoles
-incorrecto
-- separa lo que funciona como una sola acción
-
-### 🔑 FRASE DE CONTROL (esto es lo que salva todo)
-
-Antes de marcar, el estudiante debe preguntar:
-**¿Esto crea una nueva cláusula?**
-- Sí → nuevo verbo
-- No → no lo marques separado
-
-### 🎯 RESUMEN ULTRA CLARO
-
-##### Marca:
-️ lo que inicia una cláusula
-
-##### No marques separado:
-lo que depende del mismo verbo
-
-### 💥 FRASE FINAL PARA EL CURSO
-
-Puedes poner esto tal cual:
-> No todo lo que parece verbo crea una cláusula.
-> Solo el verbo finito lo hace.
->
-> Si lo separas mal, rompes la estructura.
-
-## Texto con verbos marcados
-
+##### Resultado esperado
 ```
 Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo. 
 Les ==di== a beber leche, no alimento sólido, porque todavía no ==podían== recibirlo. En verdad, ni aun ahora ==pueden==.
 ```
 
-## Observación guiada
+## ENTIENDE
 
-Detente y responde:
-- ¿Cuántos verbos hay?
-- ¿Dónde están ubicados?
-- ¿Qué partes del texto giran alrededor de ellos?
+##### Qué estás haciendo realmente
+###### Estás identificando **dónde el texto hace afirmaciones**.
 
-## Lo que debes notar
+##### Principio clave
+###### Cada verbo finito introduce una nueva línea de análisis.
 
-En este texto hay **cuatro verbos**:
+##### Idea clave
+###### No todo lo que parece verbo crea una cláusula.
+- 👉 Solo el verbo finito lo hace.
 
+##### Pregunta guía
+###### 👉 ¿Este verbo crea una nueva cláusula?
+
+##### Definición
+###### Verbo finito = verbo que funciona como núcleo de una cláusula.
+###### La morfología griega confirma — **no decide**.
+
+##### Ejemplo guiado
+
+###### Texto:
 ```
-pude
-di
-podían
-pueden
-```
-
-Esto indica múltiples afirmaciones.
-
-El texto no es una sola idea.
-
-## Intuición clave
-
-Al marcar los verbos:
-- el texto deja de ser un bloque
-- comienzan a aparecer las unidades
-
-Este paso revela la base de la estructura.
-
-## Error común
-
-Muchos estudiantes:
-- incluyen infinitivos como verbos
-- ignoran verbos pequeños (como “es”)
-- marcan de forma inconsistente
-
-## Regla de control
-
-```
-Si no está conjugado, no es verbo finito.
+no ==pude== hablarles  
+les ==di== a beber leche  
+porque no ==podían== recibirlo  
+ni aun ahora ==pueden==
 ```
 
-## Observación clave
+###### Observación:
+- “hablar” → ❌ no crea cláusula
+- “recibir” → ❌ no crea cláusula
+- ==pude==, ==di==, ==podían==, ==pueden== → ✔ crean cláusulas
 
-En este punto:
-NO separamos el texto
-NO indentamos
-NO interpretamos
+##### Regla importante
+###### Las formas verbales que dependen de otro verbo no crean nuevas cláusulas.
 
-Solo identificamos **dónde están las afirmaciones**.
+##### Error común
 
-## Transición
+- Marcar infinitivos como verbos principales
+- Separar partes de un mismo verbo
+- Ignorar verbos pequeños (como “es”)
+- Marcar por apariencia en lugar de función
 
-En la siguiente lección veremos:
-cómo estas afirmaciones se conectan.
+##### Regla de control
+###### Si no introduce una nueva cláusula, no es verbo finito.
 
-Identificaremos los **conectores** y su función.
+##### Frase clave
+> “No todo lo que parece verbo crea una cláusula.”
 
-# PASO 3: IDENTIFICAR CLÁUSULAS
+##### Qué debes notar
+###### Cuando marcas correctamente:
+- aparecen las afirmaciones del texto
+- puedes ver cuántas ideas hay
+- el texto deja de ser difuso
 
-## Qué haces
+##### Transición
+###### En el siguiente paso:
+- 👉 separarás cada verbo en su propia línea
 
-Pones cada cláusula en una nueva línea.
+- 👉 verás claramente las unidades del texto
 
-## Regla base
+# PASO 3 — IDENTIFICAR CLÁUSULAS
 
-Cada verbo finito = una nueva línea
+## EJECUTA
+
+##### ¿Qué haces?
+###### Colocas cada cláusula en una nueva línea.
+
+##### Regla
+###### Cada verbo finito introduce una nueva línea.
 
 ##### Cómo hacerlo
-1. Encuentra un verbo finito  
-2. Escribe esa parte en una nueva línea  
-3. Repite con cada verbo  
 
-##  Regla crítica
+1. Parte del texto con los verbos finitos ya marcados (Paso 2)
+2. Localiza un verbo finito
+3. Coloca la cláusula que contiene ese verbo en una nueva línea.
+4. Repite con cada verbo finito
+5. No muevas palabras ni reorganices el texto
 
-No elimines los verbos que has identificado
-No uses corchetes  
-No marques límites exactos  
-Solo separa por líneas  
+##### Resultado esperado
 
-## Ejemplo
-
-Texto:
 ```
-Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo. 
-Les ==di== a beber leche, no alimento sólido, porque todavía no ==podían== recibirlo. En verdad, ni aun ahora ==pueden==.
-```
+Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
 
-## Resultado
-```
-Así que yo, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
-
-les ==di== a beber leche, no alimento sólido,  
+Les ==di== a beber leche, no alimento sólido,  
 
 porque todavía no ==podían== recibirlo.  
 
-En verdad, ni aun ahora ==pueden==. 
+En verdad, ni aun ahora ==pueden==.
 ```
 
-##  Prueba
+## ENTIENDE
 
-¿hay verbo finito?
-SI → nueva línea  
-NO → no se separa  
+##### Qué estás haciendo realmente
+###### Estás separando el texto en **unidades de pensamiento**.
+- Aquí comienzas a ver dónde el texto afirma cosas.
 
-##  Error común
+##### Principio clave
+###### Cada verbo finito introduce una afirmación.
 
-Intentar:
-incluir todo perfectamente
-decidir límites exactos
+##### Idea clave
+###### El texto no es un bloque. Está compuesto por múltiples afirmaciones conectadas.
 
-No es necesario
+##### Pregunta guía
+###### 👉 ¿Hay un verbo finito aquí?
+- Sí → nueva línea
+- No → se queda donde está
 
-## Regla de control
+##### Definición
+###### Cláusula = unidad de texto que contiene un verbo finito y expresa una afirmación.
 
-Solo necesitas aislar el verbo  
-Lo demás se corrige después  
-No movemos palabras  
-No reorganizamos el texto  
-Solo separamos por verbos
+##### Ejemplo guiado
+
+###### Texto:
+```
+Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo. 
+Les ==di== a beber leche, no alimento sólido, porque todavía no ==podían== recibirlo. En verdad, ni aun ahora ==pueden==.
+```
+
+###### Aplicación:
+```
+Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
+
+Les ==di== a beber leche, no alimento sólido,  
+
+porque todavía no ==podían== recibirlo.  
+
+En verdad, ni aun ahora ==pueden==.
+```
+
+##### Regla importante
+###### No delimites perfectamente — separa por verbo finito.
+
+##### Error común
+- Intentar definir límites exactos
+- Reorganizar el texto
+- Mover palabras
+- Separar partes sin verbo
+
+##### Regla de control
+###### Si no hay verbo finito, no puede iniciar una nueva línea.
+
+##### Frase clave
+> Cada verbo finito crea una nueva línea.
+
+##### Qué debes notar
+
+###### Cuando separas correctamente:
+- el texto deja de ser un bloque
+- aparecen las afirmaciones
+- la estructura comienza a hacerse visible
+
+##### Transición
+
+###### En el siguiente paso:
+- 👉 identificarás los conectores entre estas cláusulas
+
+- 👉 comenzarás a ver cómo se relacionan
 
 # PASO 4 — IDENTIFICAR CONECTORES QUE UNEN CLÁUSULAS
 
@@ -782,11 +685,10 @@ porque todavía no ==podían== recibirlo
 ###### Evaluación:
 - (porque) conecta ==di== con ==podían== → ✔ válido
 
-
 ###### Resultado:
 ```
 les ==di== a beber leche  
-    (porque) todavía no ==podían== recibirlo
+(porque) todavía no ==podían== recibirlo
 ```
 
 ##### Regla importante
@@ -840,7 +742,7 @@ Organizas las cláusulas para mostrar **qué depende de qué**.
 ##### Resultado esperado
 ```
 les ==di== a beber leche  
-    (porque) todavía no ==podían== recibirlo  
+(porque) todavía no ==podían== recibirlo  
 
 ni aun ahora ==pueden==
 ```
@@ -1330,423 +1232,481 @@ El comportamiento no depende de tener verbo.
 - 👉 y observarás solo las etiquetas
 - para detectar patrones
 
-# PASO 10: IDENTIFICAR PATRONES
+# PASO 10 — IDENTIFICAR PATRONES
 
-## Qué haces
+## EJECUTA
 
-Lees únicamente las ETIQUETAS y detectas repetición.
+##### ¿Qué haces?
+###### Lees únicamente las **etiquetas** y detectas lo que se repite.
 
-Ignoras el contenido por un momento
-Solo observas la secuencia de comportamiento
+##### Regla
+###### Ignoras el contenido.
+- 👉 Solo observas la **secuencia de comportamiento**.
 
-## EJEMPLO — 1 Corintios 3:1–2 (desde Paso 9)
-EXPONE
-CONTRASTE
-EXPONE
-CONTRASTE
-EXPONE
-RESULTADO
+##### Cómo hacerlo
 
-### 1. Observación directa (sin pensar)
+1. Toma las etiquetas del Paso 9
 
-Solo miras la secuencia:
+2. Léelas en orden
 
- EXPONE
- CONTRASTE
+3. Haz esta pregunta:
 
- EXPONE
- CONTRASTE
+   👉 ¿Qué se repite?
 
- EXPONE
- RESULTADO
+4. Identifica la secuencia que aparece varias veces
 
-### 2. Detectar repetición
+5. Exprésala como un patrón
 
-Ahora haces una sola pregunta:
-¿Qué se repite?
+##### Resultado esperado
 
-Lo que se ve
-EXPONE aparece repetidamente
-siempre seguido por otra acción
-
-patrón visible:
-EXPONE → (respuesta)
-
-### 3. Afinar el patrón (sin forzar)
-
-Más específico:
-EXPONE → CONTRASTE
-EXPONE → CONTRASTE
-
-eso se repite claramente
-
-Luego:
+```
+EXPONE → CONTRASTE  
+EXPONE → CONTRASTE  
 EXPONE → RESULTADO
+```
 
-variación, pero mismo tipo de movimiento
-
-### 4. Conclusión de Paso 10
-
-El patrón es:
+###### Patrón:
+```
 EXPONE → RESPUESTA
-
-(donde la respuesta puede ser CONTRASTE o RESULTADO)
-
-### 5. Importante (muy importante)
-
-No dices:
-“Pablo está enseñando…”
-“Esto trata de…”
-
-Solo dices:
- “Este comportamiento se repite”
-
-### 6. Qué NO haces
-
-No divides el texto
-No nombras secciones
-No interpretas
-
-### 7. Resultado de Paso 10
-
-Obtienes:
-un patrón observable
-Nada más.
-
-### 8. Por qué esto es clave
-
-Ahora, cuando avances al texto siguiente (3:3–9):
-ya sabes qué buscar
-
-No ideas —
-comportamiento repetido
-
-### 9. Preparación para Paso 11
-
-Ahora sí puedes preguntar:
-“¿Este patrón continúa o se rompe?”
-
-### 10. Frase clave para el estudiante
-
-“No busques ideas — busca repetición”
-
-# PASO 11: SEGUIR O DETENERSE
-
-## Qué haces
-
-Determinas si debes **seguir leyendo** o **detenerte**.
-
-No divides por intuición
-No divides por tema
-
-Solo decides según el **patrón**
-
-## Punto de partida
-
-Ya tienes:
-- Tronco (Paso 8)
-- ETIQUETAS (Paso 9)
-- PATRÓN visible (Paso 10)
-
-Ahora tomas ese patrón y avanzas
-
-## Pregunta única
-
-**¿Este patrón sigue o se rompe?**
-
-## Regla principal
-
-Mientras el patrón continúe → sigues
-Cuando el patrón se rompe → te detienes
-
-## Qué significa “seguir”
-
-Sigues cuando:
-- las mismas ETIQUETAS siguen apareciendo
-- en la misma forma de relación
-- sin ser reemplazadas
-
-Puede haber variación
-Pero el comportamiento base sigue igual
-
-## Qué significa “detenerse”
-
-Te detienes cuando:
-### 1. El patrón desaparece
-
-Ya no vuelve a aparecer
-
-### 2. Otro patrón toma su lugar
-
-Ahora domina un comportamiento distinto
-
-### 3. El texto cambia su forma de hablar
-
-Ya no hace lo mismo que antes
-
-## Regla crítica
-
-No te detienes porque:
-- cambian las palabras
-- cambia el ejemplo
-- aparece un imperativo
-- el tema parece distinto
-
-Solo te detienes cuando:
-**el comportamiento cambia**
-
-## Prueba simple
-
-Haz esta prueba siempre:
-¿Sigo viendo el mismo patrón?
-
-Sí → continúa
-No → detente
-
-## Ejemplo (1 Corintios 3:1–9)
-
-Patrón:
-EXPONE → (respuesta)
-
-
-Al avanzar:
-- EXPONE sigue apareciendo
-- sigue generando respuesta
-
-Resultado:
-sigues
-no te detienes
-
-## Error común
-
-“Aquí parece una nueva idea → me detengo”
-
-Correcto:
-“¿El patrón cambió o no?”
-
-## Regla de control
-
-Si puedes seguir marcando el mismo patrón:
-No puedes detenerte
-
-## Resultado
-
-Evitas dividir demasiado pronto
-Sigues el flujo real del texto
-Dejas que el texto determine los límites
-
-## Frase clave
-
-“No me detengo hasta que el patrón desaparece”
-
-## Principio final
-
-No divides el texto
-El texto te obliga a detenerte
-
-# PASO 12: DELIMITAR LA UNIDAD
-
-## Qué haces
-
-Defines la **unidad completa de pensamiento**.
-
-No interpretas
-No nombras temas
-No explicas
-
-Solo marcas **hasta dónde llegó el patrón**
-
-## Punto de partida
-
-Ya hiciste:
-- Paso 9 → ETIQUETAS
-- Paso 10 → PATRÓN
-- Paso 11 → decidiste detenerte
-
-Ahora tomas ese resultado
-
-## Qué es una unidad
-
-Una unidad es:
-**todo el tramo donde el mismo patrón se mantuvo**
-
-## Regla principal
-
-La unidad comienza:
-donde inicia el patrón
-
-La unidad termina:
-donde el patrón se rompe
-
-## Qué haces exactamente
-
-1. Identificas dónde empezó el patrón
-2. Identificas dónde se rompió
-3. Marcas ese bloque completo
-
- Eso es la unidad
-
-## Formato
-
-Puedes marcarlo así:
-
-```
-[Inicio] → [Fin]
 ```
 
-o
+## ENTIENDE
+
+##### Qué estás haciendo realmente
+###### Estás detectando la **repetición del comportamiento del texto**.
+
+##### Principio clave
+###### El patrón no se interpreta.
+- 👉 Se observa por repetición.
+
+##### Idea clave
+###### El contenido cambia. El comportamiento se repite.
+
+##### Pregunta guía
+###### 👉 ¿Qué comportamiento aparece varias veces?
+
+##### Definición
+###### Patrón = secuencia de comportamiento que se repite dentro del texto.
+
+##### Ejemplo guiado
+
+###### Etiquetas:
+```
+EXPONE  
+CONTRASTE  
+
+EXPONE  
+CONTRASTE  
+
+EXPONE  
+RESULTADO
+```
+
+###### Observación:
+- EXPONE se repite
+- siempre seguido por otra acción
+
+###### Resultado:
+```
+EXPONE → RESPUESTA
+```
+
+##### Regla importante
+###### El patrón se basa en repetición real, no en impresión.
+
+##### Error común
+
+- Leer el contenido
+- Inventar patrones
+- Forzar coincidencias
+- Nombrar ideas en lugar de comportamiento
+
+##### Regla de control
+###### Si no puedes mostrar la repetición, no hay patrón.
+
+##### Frase clave
+> “No busques ideas — busca repetición.”
+
+
+##### Qué debes notar
+###### Cuando identificas correctamente:
+
+- el texto revela su forma de avanzar
+- puedes anticipar lo que sigue
+- el flujo se vuelve visible
+
+##### Transición
+###### En el siguiente paso:
+- 👉 usarás ese patrón para decidir si debes seguir o detenerte
+
+- 👉 el texto comenzará a definir sus propios límites
+
+# PASO 11 — SEGUIR O DETENERSE
+
+## EJECUTA
+
+##### ¿Qué haces?
+###### Determinas si debes **seguir leyendo** o **detenerte**.
+
+##### Regla
+###### Mientras el patrón continúe → sigues 
+###### Cuando el patrón se rompe → te detienes
+
+##### Cómo hacerlo
+
+1. Toma el patrón identificado (Paso 10)
+
+2. Avanza al siguiente segmento del texto
+
+3. Observa las etiquetas
+
+4. Haz esta pregunta:
+
+   👉 ¿El patrón sigue o se rompe?
+
+5. Decide:
+
+   - Sigue → continúas
+   - Se rompe → te detienes
+
+##### Resultado esperado
+
+
+##### Patrón: 
+```
+EXPONE → RESPUESTA  
+
+Evaluación:
+EXPONE → RESPUESTA  
+EXPONE → RESPUESTA  
+EXPONE → RESPUESTA  
+```
+
+##### Resultado:
+###### El patrón continúa → seguir
+
+## ENTIENDE
+
+##### Qué estás haciendo realmente
+###### Estás dejando que el **patrón determine el límite del texto**.
+
+##### Principio clave
+###### No decides dónde detenerte.
+- 👉 El patrón lo decide.
+
+##### Idea clave
+###### El texto continúa mientras hace lo mismo.
+###### Se detiene cuando deja de hacerlo.
+
+##### Pregunta guía
+###### 👉 ¿El patrón sigue o se rompe?
+
+##### Definición
+###### Romper el patrón = cuando la secuencia de comportamiento deja de repetirse o es reemplazada por otra.
+
+##### Ejemplo guiado
+
+###### Patrón:
+```
+EXPONE → RESPUESTA
+```
+
+###### Evaluación:
+```
+EXPONE → RESPUESTA  
+EXPONE → RESPUESTA  
+EXPONE → RESPUESTA  
+```
+
+##### Resultado:
+###### 👉 El patrón continúa → no puedes detenerte
+
+##### Regla importante
+###### Cambios de palabras o tema **no rompen el patrón**.
+###### Solo el cambio de comportamiento lo hace.
+
+##### Error común
+
+- Detenerse porque “parece otra idea”
+- Detenerse por cambio de ejemplo
+- Detenerse por intuición
+- Ignorar el patrón
+
+##### Regla de control
+###### Si puedes seguir marcando el mismo patrón, no puedes detenerte.
+
+##### Frase clave
+> “No me detengo hasta que el patrón desaparece.”
+
+##### Qué debes notar
+###### Cuando aplicas correctamente:
+
+- evitas dividir el texto prematuramente
+- sigues el flujo real del pensamiento
+- los límites se vuelven objetivos
+
+##### Transición
+###### En el siguiente paso:
+
+- 👉 marcarás exactamente dónde comienza y termina la unidad
+
+- 👉 definirás los límites completos del texto
+
+# PASO 12 — DELIMITAR LA UNIDAD
+
+## EJECUTA
+
+##### ¿Qué haces?
+###### Defines los **límites completos** de la unidad de pensamiento.
+
+##### Regla
+###### La unidad comienza donde inicia el patrón y termina donde el patrón se rompe
+
+##### Cómo hacerlo
+
+1. Toma el punto donde comenzó el patrón (Paso 10)
+2. Toma el punto donde se rompió (Paso 11)
+3. Marca ese tramo completo
+4. No cortes antes ni extiendas después
+
+##### Resultado esperado
 
 ```
 Unidad:
-desde ______
+desde ______  
 hasta ______
 ```
 
-## Ejemplo (1 Corintios 3)
-
-Después de Paso 11:
-El patrón continúa desde 3:1 hasta 3:17
-
-## Resultado
-
+###### Ejemplo:
 ```
 Unidad:
 1 Corintios 3:1–17
 ```
 
-## Qué debes notar
+## ENTIENDE
 
-No decidiste esto
-El patrón lo determinó
+##### Qué estás haciendo realmente
+###### Estás identificando la **unidad completa del desarrollo del pensamiento**.
 
-## Qué NO haces
+##### Principio clave
+###### La unidad no se decide.
+###### 👉 El patrón la determina.
 
-No dices:
-- “esto trata de…”
-- “esta sección enseña…”
+##### Idea clave
+###### Mientras el patrón continúa → misma unidad
+###### Cuando el patrón se rompe → nueva unidad
 
-No divides en subtemas
+##### Pregunta guía
 
-## Regla crítica
+👉 ¿Dónde comenzó el patrón?
+ 👉 ¿Dónde se rompió?
 
-No defines la unidad por contenido
-La defines por continuidad del comportamiento
+##### Definición
+Unidad = tramo completo donde el mismo patrón se mantiene.
 
-## Error común
+##### Ejemplo guiado
 
-“Aquí cambia el tema → nueva unidad”
+###### Observación previa:
+```
+Patrón: EXPONE → RESPUESTA  
+El patrón continúa en todo el texto  
+```
 
-Correcto:
-“Aquí se rompió el patrón → nueva unidad”
+###### Resultado:
+```
+Unidad:
+1 Corintios 3:1–23
+```
 
-## Prueba de control
+##### Regla importante
+###### No defines la unidad por contenido.
+ 👉 La defines por comportamiento.
 
-Haz esta pregunta:
-¿El patrón continuaba?
+##### Error común
 
-Sí → no podías cortar antes
-No → no puedes extender más
+- Cortar por cambio de tema
+- Cortar por intuición
+- Extender más allá del patrón
+- Reducir antes de tiempo
 
-## Resultado
+##### Regla de control
+###### Si el patrón continuaba, no podías cortar antes.
+###### Si el patrón se rompió, no puedes extender más.
 
-Ahora tienes:
-límites objetivos del texto
+##### Frase clave
+> “La unidad termina donde el patrón se rompe.”
 
-## Frase clave
+##### Qué debes notar
 
-“La unidad termina donde el patrón se rompe”
+###### Ahora tienes:
+- límites objetivos
+- una unidad completa
+- base firme para expresar el texto
 
-## Principio final
+##### Transición
+###### En el siguiente paso:
 
-No decides dónde cortar
-El patrón lo determina
+- 👉 expresarás la acción del tronco
 
-# PASO 13: EXPRESAR LA ACCIÓN DEL TRONCO
+- 👉 verás qué ocurre en la unidad sin interpretarlo
 
-## Qué haces
+# PASO 13 — EXPRESAR LA ACCIÓN DEL TRONCO
 
-Expresas el tronco (Paso 8) como líneas de acción completas.
+## EJECUTA
 
-## Regla principal
+##### ¿Qué haces?
 
-Expresas lo que ocurre — no lo explicas
+###### Escribes una sola oración que expresa la acción del texto usando el tronco.
 
-## Reglas específicas
-Una línea por acción
-Usas palabras del texto
-Añades solo lo necesario (sujeto implícito si hace falta)
-No resumes
-No interpretas
-No agregas ideas
-Regla de control (CLAVE)
+##### Regla
 
- Cada línea debe responder:
+###### Solo puedes usar:
+- el **autor**
+- un **verbo permitido**
+- el **contenido del tronco**
 
-¿Quién — qué hace — qué ocurre?
+###### ❌ No agregas ideas
+###### ❌ No explicas
+###### ❌ No interpretas
 
-## Formato
-acción  
-acción  
-acción → resultado
+##### Cómo hacerlo
 
-## Cómo hacerlo
-Vuelve al tronco (Paso 8)
-Lee cada línea
-Completa la acción (si falta sujeto)
-Mantén el lenguaje del texto
+###### Trabajas únicamente con el tronco (Paso 8).
 
-## Reduce todo lo innecesario
-Ejemplo — 1 Corintios 3:1–2
-Tronco:
+1. Toma el tronco completo
+2. Léelo de principio a fin
+3. Haz esta pregunta:
+- 👉 ¿Qué está haciendo el autor con este contenido?
+
+4. Escribe una sola oración con este formato:
+- 👉 **[Autor] + [verbo permitido] + [contenido del tronco]**
+
+##### Resultado esperado
+
+###### Una sola oración clara que exprese la acción del texto:
+
+```
+Pablo contrasta la incapacidad de los hermanos con el alimento espiritual que les dio
+```
+
+------
+
+## ENTIENDE
+
+##### Qué estás haciendo realmente
+
+###### Hasta el Paso 12 delimitaste la unidad.
+
+###### Aquí defines qué hace esa unidad completa.
+
+###### Ya no miras líneas individuales.
+
+- 👉 Ahora miras el movimiento total
+
+##### Principio clave
+
+###### El tronco contiene la acción principal del texto.
+
+- 👉 Todo lo demás lo apoya
+- 👉 Aquí lo expresas directamente
+
+##### Idea clave
+
+###### Estructura → cómo está construido
+
+###### Movimiento → cómo avanza
+
+###### Acción del tronco → qué hace el texto completo
+
+- 👉 Paso 8 te dio el tronco
+- 👉 Paso 9 te mostró comportamiento
+- 👉 Paso 13 expresa la acción final
+
+##### Pregunta guía
+
+###### 👉 ¿Qué está haciendo el autor con todo esto?
+
+###### NO preguntes:
+
+- ¿qué significa?
+
+###### SÍ pregunta:
+
+- ¿qué hace?
+
+##### Definición
+
+###### Acción del tronco = la acción principal que el autor realiza con el contenido estructural del texto.
+
+###### Verbos permitidos:
+
+• explica • muestra • afirma • contrasta • corrige
+
+##### Ejemplo guiado
+
+###### Tronco:
+
+```
 no pude hablarles  
-les di a beber leche  
+les di leche  
+no alimento sólido
+```
 
-no podían recibirlo  
-ni aun ahora pueden
+###### Aplicación:
 
-##### Paso 13:
-No pude hablarles  
-Les di leche  
+```
+Pablo contrasta la incapacidad de los hermanos con el alimento que les dio
+```
 
-No podían recibir  
-Ni aun ahora pueden
-Ejemplo — Matthew 7:2
-Tronco:
-juzguen  
-midan
-##### Paso 13:
-Ustedes juzgan → serán juzgados  
-Ustedes miden → se les medirá
-Qué debes notar
+##### Regla importante
 
-No estás explicando
-No estás resumiendo
+###### La oración debe salir del tronco, no de ideas externas.
 
-Solo estás diciendo qué ocurre
+👉 Si no está en el tronco, no entra en la oración
 
-## Error común
+##### Error común
 
- “Jesús enseña que…”
- “Esto significa que…”
+❌ Explicar el texto
+ ❌ Agregar interpretación
+ ❌ Usar palabras que no vienen del tronco
+ ❌ Hacer más de una oración
 
- Eso NO pertenece a este paso
+##### Regla de control
 
-## Resultado
+###### Si la oración incluye algo que no está en el tronco:
 
-Ahora tienes:
+- 👉 Está incorrecta
 
- acciones claras
- flujo visible
- texto sin interpretación
+###### Si explica en lugar de declarar acción:
 
-## Frase clave
+- 👉 Está incorrecta
 
- “No explico — expreso lo que ocurre.”
+##### Frase clave
 
-## Principio final
+###### “No expliques — declara lo que el texto hace.”
 
-El tronco ya contiene la acción.
- Tú solo la haces visible.
+##### Qué debes notar
+
+###### Ahora puedes ver:
+
+- la acción principal del autor
+- el propósito del desarrollo
+- la dirección del texto completo
+
+👉 Estás viendo el texto como una unidad completa en acción
+
+##### Transición
+
+###### Aquí termina la fase estructural.
+
+- 👉 Ya tienes:
+  - estructura
+  - movimiento
+  - patrones
+  - unidad
+  - acción
+
+👉 Ahora estás listo para observar lo que el texto dice (Fase 2)
 
 # UN EJEMPLO DE SEGUIR VS DETENERSE
 
