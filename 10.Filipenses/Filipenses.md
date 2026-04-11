@@ -1649,7 +1649,11 @@ Segundo imperativo, compartan su gozo, Pablo quería escuchar que estaban gozoso
 
 ## Filipenses 2:19-24 Timoteo
 
-##### Este punto quiera dar una clara diferencia de un interés genuino del bienestar de ellos, que son los intereses de Cristo Jesús Filipenses 2:21, y no un interés fingido de propio beneficio, que solo busca lo terrenal. Filipenses 3:19
+##### Estos pasajes dan una continuidad a Filipenses 1:25-26 donde hace conocer sus deseos de poder estar juntamente con los hermanos de Filipos.
+
+##### Pero lo que viene a continuación no se separa de lo mencionado anteriormente Filipenses 1:27-2:18
+
+##### Este punto quiera dar una clara diferencia de un interés genuino del bienestar de ellos, que son los intereses de Cristo Jesús Filipenses 2:21, y no un interés fingido de propio beneficio, que solo busca lo terrenal. Filipenses. 1:17
 
 ##### La mención de Timoteo es con el propósito de que ellos puedan llegar a distinguir un servicio fiel y probado, y no un servicio por envidia ni contienda. Filipenses1:15
 
@@ -1659,35 +1663,92 @@ Pero espero en el Señor Jesús enviarles pronto a Timoteo, a fin de que yo tamb
 
 #### Pero espero en el Señor Jesús enviarles pronto a Timoteo,
 
-#### a fin de que yo también sea alentado
+##### Pero espero, ELPIZO es un verbo en tiempo presente, indicativo, activo, lo que significa una actitud y confianza de que va a suceder.
 
-#### al saber de la condición de ustedes.
+##### No es una esperanza incierta, Subjuntivo, (me gustaría que pase, ojala que suceda).
+
+##### Lo más pronto que el Señor Jesús le haga saber como van las cosas, Pablo enviaría a Timoteo rápidamente.
+
+#### a fin de que yo también sea alentado al saber de la condición de ustedes.
+
+##### Pablo tenia una seguridad de que los Filipenses escucharían atentamente las instrucciones de esta carta, y que andarían ocupados en su salvación.
+
+##### En filipenses 2:2-4 les pedía que completen su gozo, y con la seguridad de que sí lo harían, Pablo estaría escuchando por Timoteo que se encuentran siendo del mismo sentir:
+
+- conservando el mismo amor
+- Unidos en espíritu
+- Dedicados a un mismo propósito.
+- No haciendo nada por Egoismo ni Vanagloria
+- Considerando a los demas como más importantes
+- No buscando sus propios intereses sino de los demás.
+
+##### Esto sería de gran ánimo para Pablo y haría completo su gozo.
+
+##### Es con ese propósito de enviar lo más pronto a Timoteo.
 
 ### Filipenses 2:20
 
 Pues a nadie más tengo del mismo sentir y que esté sinceramente interesado en el bienestar de ustedes.
 
-#### Pues a nadie más tengo del mismo sentir 
+#### Pues a nadie más tengo del mismo sentir
+
+##### En filipenses 1:7 Pablo tenia un sentir justo, que los llevaba en su corazón, y que estaban presente en sus prisiones.
+
+##### Aunque había varios hermanos acompañando a Pablo en su prisión, Timoteo compartía el mismo sentimiento de estar con ellos y que deseaba continuar para su progreso y gozo en la fe.
+
+##### Y también los añoraba con el más tierno amor que provenía de Cristo. Filipenses 1:8
 
 #### y que esté sinceramente interesado en el bienestar de ustedes.
+
+##### Este bienestar no se basa en las circunstancias. Filipenses 1:29
+
+##### El sentir de Pablo era permanecer para el servicio de su fe, esto es lo que traería bien estar a ellos. Filipenses 2:14-17
+
+##### Con la predicación del evangelio ellos podrían estar firmes, luchando unánimes en un solo sentir, no atemorizados, siendo esto de salvación para ellos. Filipenses 1:27-29
 
 ### Filipenses 2:21
 
 Porque todos buscan sus propios intereses, no los de Cristo Jesús.
 
-#### Porque todos buscan sus propios intereses, 
+#### Porque todos buscan sus propios intereses,
+
+##### Los filipenses se encontraban en tribulación al igual que Pablo, y aunque servía para el avance del evangelio, muchos obreros habían salido predicando a Cristo por ambición propia con las intenciones de causar mas sufrimiento en sus prisiones. Filipenses 1:17
+
+##### Y para las circunstancias por las cuales están pasando podrían salir obreros que no busquen su bienestar, sino que fingidamente quieran causar angustia a sus sufrimientos, buscando su propio beneficio.
 
 #### no los de Cristo Jesús.
+
+##### A diferencias de los obreros que predican a cristo por envidia y contienda, Timoteo de buena voluntad tiene un sincero interés y amor por el bienestar de ellos.
+
+##### Los intereses de Cristo Jesús, es el progreso del evangelio. Filipenses 1:13-14
+
+##### Y el interés unánime de Pablo con Timoteo era que ellos puedan abundar más y más en amor a través del conocimiento verdadero del evangelio de Cristo Jesús.
 
 ### Filipenses 2:22
 
 Pero ustedes conocen los probados méritos de Timoteo, que sirvió conmigo en la propagación del evangelio como un hijo sirve a su padre.
 
-#### Pero ustedes conocen los probados méritos de Timoteo, 
+#### Pero ustedes conocen los probados méritos de Timoteo,
 
-#### que sirvió conmigo en la propagación del evangelio 
+##### Al hablar de los méritos de Timoteo, no lo hace con la intención de darle gloria, sino que quiere hacer visible a un siervo que camina en el poder del evangelio y no en su propia gloria.
 
-#### como un hijo sirve a su padre. 
+##### Timoteo era hijo de un Padre griego y madre Judía. Hechos 16:1
+
+##### 2Timoteo 1:5  *Porque tengo presente la fe sincera que hay en ti, la cual habitó primero en tu abuela Loida y en tu madre Eunice, y estoy seguro que en ti también.*
+
+##### Antes de conocer a Pablo, Timoteo ya era un discípulo de Jesucristo y los hermanos de Listra daban buen testimonio de él, y Pablo le llevo en su viaje. Hechos 16:2-3
+
+#### que sirvió conmigo en la propagación del evangelio como un hijo sirve a su padre.
+
+##### Y después de salir de Listra, Timoteo acompaño a Pablo en todos sus viajes con un solo propósito, predicar el evangelio a todas las naciones.
+
+##### En su primera experiencia de viajar llevando el evangelio, Timoteo llego junto con Pablo a Filipos, y a pesar de las circunstancias nunca se separo aun hasta llegar a la prisión de Roma.
+
+##### Estuvo sirviendo como un hijo que confía en su padre aprendiendo a depender de Dios. 2 Timoteo 1:13
+
+##### 2Timoteo 3:10  *Pero tú has seguido mi enseñanza, mi conducta, propósito, fe, paciencia, amor, perseverancia, mis persecuciones, sufrimientos,...*
+
+##### Todo ese caminar por fe, será premiado en el día de Cristo como méritos de justicia que es por medio de Jesucristo para la gloria de Dios.
 
 ### Filipenses 2:23
 
@@ -1695,65 +1756,127 @@ Por tanto, a este espero enviárselo inmediatamente tan pronto vea cómo van las
 
 #### Por tanto, a este espero enviárselo inmediatamente
 
+##### Por todo lo mencionado anteriormente, Pablo enviaría a Timoteo lo más antes posible, porque quería alentar y ser alentado por los hermanos de Filipos.
+
 #### tan pronto vea cómo van las cosas conmigo;
+
+##### Después de ser encarcelado en Jerusalén y ser acusado por los judíos. Hechos 24:5-6
+
+##### Pablo había apelado a Cesar, con la esperanza de ser liberado.
+
+##### Y con la seguridad de que Dios mismo había hecho evidente que estaba preso por la causa de Cristo, tenia confianza en que sería puesto en libertad. Filipenses 1:19
+
+##### Esperaba tener noticias de su veredicto para poder enviar a Timoteo.
 
 ### Filipenses 2:24 
 
 y confío en el Señor que también yo mismo iré pronto.
 
-#### y confío en el Señor 
+#### y confío en el Señor
 
-#### que también yo mismo iré pronto. 
+##### La espera era en la confianza del Señor que los resultados de su veredicto seria quedar en libertad para poder continuar para el avance de la fe de los hermanos.
+
+#### que también yo mismo iré pronto.
+
+##### Tenia seguridad de que enviaría a Timoteo, y confiaba que el mismo iría a verlos pronto, y ser de consuelo y aliento.
+
+##### Por 1Timoteo 1:3 podemos ver que Timoteo pudo llegar y después de 2 años de estar en prisión, Pablo fue a macedonia para encontrarse con Timoteo y también a visitar a los hermanos Filipenses llevándoles gran consuelo y gozo.
 
 ## Filipenses 2:25-30 Epafrodito.
 
-Nuevamente el foco no esta en Epafrodito, sino en la confianza que el tiene para arriesgar su vida por la obra de Cristo. 
+##### Los ejemplos que ha estado usando en este capítulo tienen la intención de ser visibles y con personas que son muy cercanos a los filipenses.
 
-Esto no quiere decir, que el esta dando su vida por Cristo, sino que aquí podemos entender de manera practica, el vivir es Cristo, y aquella confianza que morir es ganancia.
+##### Jesús, alguien que no lo vieron pero que conocen muy bien.
 
-Tener en alta estima a los que viven a Cristo es una buena practica de los hermanos de recibirlos en el amor del Señor.
+##### Timoteo alguien con quien aprendieron del evangelio, quien era muy cercano a Pablo.
+
+##### Y con la intención de que el andar de una manera digna del evangelio pueda ser entendida, ahora Epafrodito entra en la narración de Pablo.
+
+##### Alguien muy cercano y conocido por ellos, esto con la intención de que puedan llegar a comprender aquella actitud por la cual Pablo les decía que tuvieran.
+
+##### Nuevamente el foco no esta en Epafrodito, sino en la confianza que el tiene para arriesgar su vida por la obra de Cristo. 
+
+##### Esto no quiere decir, que el esta dando su vida por Cristo, sino que aquí podemos entender de manera practica, el vivir es Cristo, y aquella confianza que morir es ganancia.
+
+##### Tener en alta estima a los que viven a Cristo es una buena practica de los hermanos de recibirlos en el amor del Señor.
 
 ### Filipenses 2:25
 
 Pero creí necesario enviarles a Epafrodito, mi hermano, colaborador y compañero de lucha, quien también es su mensajero y servidor para mis necesidades. 
 
-#### Pero creí necesario enviarles a Epafrodito, 
+#### Pero creí necesario enviarles a Epafrodito,
+
+##### En el deseo de que los hermanos de Filipos puedan ser animados y seguir creciendo en abundante amor.
+
+##### Pablo vio que era necesario enviarles a Epafrodito.
 
 #### mi hermano,
 
+##### Sin la intención de diferenciar niveles Pablo se expresa de Epafrodito como un hermano, como alguien de su misma condición.
+
 #### colaborador
+
+##### Quien ha estado ayudando en la laborar de Pablo de anunciar el evangelio.
+
+##### Colaborando también al llevar y transportar la carta a la iglesia de los filipenses.
 
 #### y compañero de lucha,
 
-#### quien también es su mensajero
+##### También traducido como *compañero de milicia* (RVR60), Está imagen describe a alguien que se ha mantenido colaborando firmemente con Pablo.
 
-#### y servidor para mis necesidades.
+##### La milicia también nos da una imagen de un compañero de guerra, el cual no abandona en la lucha, aun si resulta ser herido o que su vida corra riesgo. 
+
+#### quien también es su mensajero y servidor para mis necesidades.
+
+##### Epafrodito había sido enviado por los Filipenses a Pablo.
+
+##### la ciudad de Filipos se encontraba en una ruta de 2 tramos principales (vía Egnatis y la vía Appia) por el mar adriático que dirigen a la ciudad Roma. 
+
+##### Un viaje entre 40 a 50 días de 1,228 kilómetros entre Filipos y Roma [^9] [^10]
+
+##### En este viaje, Epafrodito llevo un mensaje, oraciones y sustento para las necesidades de Pablo.
 
 ### Filipenses 2:26
 
 Porque él los extrañaba a todos, y estaba angustiado porque ustedes habían oído que se había enfermado.
 
+##### Pablo envió nuevamente a Epafrodito a Filipos, con 3 propósitos
+
 #### Porque él los extrañaba a todos,
+
+##### Primero, porque Epafrodito extrañaba estar con la iglesia de Filipos.
 
 #### y estaba angustiado
 
+##### no sólo los extrañaba, sino que estaba angustiado.
+
 #### porque ustedes habían oído que se había enfermado.
+
+##### la angustia que sentía era porque ellos había escuchado que se había enfermado y no encontraba los medios por los cuales decirles que se encontraba bien.
 
 ### Filipenses 2:27
 
 Pues en verdad estuvo enfermo, a punto de morir. Pero Dios tuvo misericordia de él, y no solo de él, sino también de mí, para que yo no tuviera tristeza sobre tristeza.
 
-#### Pues en verdad estuvo enfermo,
+#### Pues en verdad estuvo enfermo, a punto de morir.
 
-#### a punto de morir.
+##### Quiza por viajeros de la misma llevaron el mensaje de que habia enfermado.
 
-#### Pero Dios tuvo misericordia de él,
+##### Y lo que habían escuchado no era broma, fue tan extremo su situación que casi muere.
 
-#### y no solo de él,
+#### Pero Dios tuvo misericordia de él, y no solo de él, sino también de mí,
 
-#### sino también de mí,
+##### En este pasaje podemos notar que Dios no está ausente en el andar de los creyentes, sino que Dios tuvo misericordia de él y también de Pablo
 
 #### para que yo no tuviera tristeza sobre tristeza.
+
+##### Esto podría llegar a ser contradictorio con todo lo que dijo anteriormente. me regocijo, me regocijare y aún me regocijare. 
+
+##### Pero no tiene ninguna contradicción ya que en verdad se encontraba triste por todo lo que ha está viviendo, más que todo como es que había obreros que se animaban a negar a Jesucristo, esto era una gran tristeza, que causaba lagrimas. Filipenses 3:18
+
+##### Y la muerte de Epafrodito le habría causado mayor tristeza, ya que un servidor fiel, firme compañero de milicia estaba apunto de morir. 
+
+##### Está tristeza fue consolada por la misericordia de Dios, llegando a causar regocijo, porque Dios no está ausente en ninguna circunstancia por las que un creyente está pasando.
 
 ### Filipenses 2:28 
 
@@ -1761,31 +1884,59 @@ Así que lo he enviado con mayor solicitud, para que al verlo de nuevo, se regoc
 
 #### Así que lo he enviado con mayor solicitud,
 
+##### Segundo propósito, como esta noticia era bastante dolorosa para Pablo, para los hermanos filipenses habría llegado a ser bastante dolorosa.
+
 #### para que al verlo de nuevo, se regocijen
 
+Y para consuelo Pablo les cuenta cómo Dios tuvo misericordia.
+
+Y al ver a Epafrodito que estaba apunto de morir se Regocijen en como fue Dios que lo mantuvo con vida.
+
 #### y yo esté más tranquilo en cuanto a ustedes.
+
+##### Cuando este nuevamente con ellos, Pablo estaría más tranquilo porque también le angustiaba que los filipenses puedan pasar por tristezas que son difíciles de explicar.
+
+##### En vez de tener un desánimo ellos puedan ser alentados y eso le causaría tranquilidad.
+
+##### Estos pasajes resaltan que Pablo esta escribiendo de emociones y sentimientos que como seres humanos continuamos viviendo, y como es que éstas pueden llegar a influir a los demás hermanos.
+
+##### Es algo que no deja como algo ajeno. sino que hay una participación y preocupación para el consuelo de los hermanos. este era el tercer propósito, que Pablo pueda estar más tranquilo.
 
 ### Filipenses 2:29
 
 Recíbanlo, pues, en el Señor con todo gozo, y tengan en alta estima a los que son como él.
 
-#### Recíbanlo, pues, en el Señor
+#### Recíbanlo, pues, en el Señor con todo gozo,
 
-#### con todo gozo,
+##### Este es el último imperativo del capitulo 2.
+
+##### Está dirigida al recibimiento de los hermanos que están en batalla, que sirven en las necesidades de los demás y que están luchando unánimes por la fe del evangelio.
+
+##### Y este recibiendo debe hacerse con gozo, no con contienda.
 
 #### y tengan en alta estima a los que son como él.
+
+##### Epafrodito al ser compañero de milicia de Pablo pudo ver y experimentar como los que se oponen a la verdad del evangelio los reciben con hostilidad, como a criminales, pero una iglesia que está firmemente arraigada del evangelio es completamente contra corriente.
+
+##### Pablo está dando una instrucción que va acorde y en armonía del evangelio, recibirlo no como criminal, sino en alta estima.
+
+##### Tener en alta estima tampoco es colocar a alguien como a un ídolo, tener en alta estima a los hermanos. no es darles darles rangos de superioridad. gálatas 4:13-14
 
 ### Filipenses 2:30
 
 Porque estuvo al borde de la muerte por la obra de Cristo, arriesgando su vida para completar lo que faltaba en el servicio de ustedes hacia mí.
 
-#### Porque estuvo al borde de la muerte por la obra de Cristo,
+#### Porque estuvo al borde de la muerte por la obra de Cristo, arriesgando su vida
 
-#### arriesgando su vida
+##### Viviendo a Cristo estuvo al borde de la muerte para el avance del evangelio.
 
-#### para completar lo que faltaba
+##### Para completar la misión que se le había encomendado a Epafrodito, tuvo que arriesgar su vida, no buscando su propio beneficio, no buscando su propia gloria.
 
-#### en el servicio de ustedes hacia mí.
+##### Con su mente puesta en la obra de Cristo.
+
+#### para completar lo que faltaba en el servicio de ustedes hacia mí.
+
+##### Epafrodito no fue luchando en busca de sus propios Beneficios, sino fue enviado por toda la iglesia, buscando el bienestar de Pablo y servirle en sus necesidades.
 
 # Filipenses 3:1-21 GANAR A Cristo Jesús Y SER HALLADO EN ÉL
 
@@ -1819,7 +1970,7 @@ Porque nosotros somos la verdadera circuncisión, que adoramos en el Espíritu d
 
 ##### Al decir nosotros, esta haciendo una clara distinción entre los falsos obreros y la falsa circuición
 
-##### nosotros se refiera a Pablo, Timoteo, los hermanos Filipenses y todos los creyentes, sin distinción.
+##### nosotros se refiera a Pablo, Timoteo, Epafrodito los hermanos Filipenses y todos los creyentes, sin distinción.
 
 #### somos la verdadera circuncisión,
 
@@ -2370,6 +2521,10 @@ La gracia del Señor Jesucristo sea con el espíritu de ustedes.
 [^7] Diccionario Enciclopédico Ibalpe A-L
 
 [^8] Diccionario Expositivo de Palabras del N.T. - W.E. Vine
+
+[^9] El blog de The Master´s Seminary
+
+[^10] Texto de Louis Werner
 
 
 
