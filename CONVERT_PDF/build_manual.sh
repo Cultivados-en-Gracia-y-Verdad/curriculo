@@ -4,9 +4,9 @@ set -euo pipefail
 # ================================
 # configure these:
 # ================================
-MANUAL_NAME="Gálatas"
-FILE_LOCATION="../07.Galatas"
-FILENAME="/manual1.0.md"
+MANUAL_NAME="Navegando el Texto"
+FILE_LOCATION="../08.Navegando-el-texto"
+FILENAME="/Navegando-el-Texto.md"
 # ==================================
 
 FILE="${FILE_LOCATION}${FILENAME}"

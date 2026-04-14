@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  10 APR 2026 08:17
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  14 APR 2026 04:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1464,26 +1464,26 @@ Package footmisc Info: Declaring symbol style lamport*-robust on input line 768
 (temp/student_manual.aux)
 \openout1 = `student_manual.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1526,68 +1526,68 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 27.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 27.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 27.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 27.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 27.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 27.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 27.
-LaTeX Font Info:    Redeclaring math accent \check on input line 27.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 27.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 27.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 27.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 27.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 28.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 28.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 28.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 28.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 28.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 28.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 28.
+LaTeX Font Info:    Redeclaring math accent \check on input line 28.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 28.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 28.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 27.
+(Font)              `operators' in the math version `normal' on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/IBMPlexSerif(0)/m/n on input line 27
+(Font)                  OT1/cmr/m/n --> TU/IBMPlexSerif(0)/m/n on input line 28
 .
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 27.
+(Font)              `operators' in the math version `bold' on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/IBMPlexSerif(0)/m/n on input line 2
-7.
+8.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/IBMPlexSerif(0)/m/n --> TU/IBMPlexSerif(0)/m/n on in
-put line 27.
+put line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/IBMPlexSerif(0)/m/it on input line 
-27.
+28.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/IBMPlexSerif(0)/b/n on input line 2
-7.
+8.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 27.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 27.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/IBMPlexSerif(0)/m/n --> TU/IBMPlexSerif(0)/b/n on in
-put line 27.
+put line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/IBMPlexSerif(0)/b/it on input line
- 27.
+ 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 27.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 27.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 28.
 \c@lstlisting=\count371
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 27.
+Package hyperref Info: Link coloring ON on input line 28.
 (temp/student_manual.out) (temp/student_manual.out)
 \@outlinefile=\write5
 \openout5 = `student_manual.out'.
@@ -1633,7 +1633,7 @@ File: images/cgv.png Graphic file (type bmp)
 
 
 ]
-Overfull \hbox (1.60722pt too wide) in paragraph at lines 66--67
+Overfull \hbox (1.60722pt too wide) in paragraph at lines 67--68
 []\TU/TeXGyreTermes(0)/m/n/10 Este manual ha sido desarrollado para enseñar la 
 Escritura de manera textual, progresiva y consciente del lenguaje.
  []
@@ -1651,9 +1651,39 @@ Escritura de manera textual, progresiva y consciente del lenguaje.
 [3
 
 ]
-Overfull \hbox (20.51488pt too wide) in paragraph at lines 143--146
-[]\TU/IBMPlexSerif(0)/m/n/11 Los destinatarios corresponden a las iglesias fund
-adas por Pablo durante su primer |   []
+Overfull \hbox (31.04997pt too wide) in paragraph at lines 108--112
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Cuando un barco zarpa, no lo hace a la deriva. 
+|   [] con dirección, equipado con el conocimiento
+ []
+
+
+Overfull \hbox (19.36966pt too wide) in paragraph at lines 108--112
+\TU/IBMPlexSerif(0)/m/n/10.95 aguas que prometen descubrimiento pueden llevar r
+ápidamente a la confusión, la desorientación
+ []
+
+
+Overfull \hbox (33.9843pt too wide) in paragraph at lines 114--121
+[]\TU/IBMPlexSerif(0)/m/n/10.95 De la misma manera, acercarse al |   [] bíblico
+ sin una guía clara puede llevar a interpretaciones
+ []
+
+
+Overfull \hbox (5.84863pt too wide) in paragraph at lines 114--121
+\TU/IBMPlexSerif(0)/m/n/10.95 equiparte con las herramientas esenciales para na
+vegar las Escrituras con cuidado y precisión.
+ []
+
+
+Overfull \hbox (5.07628pt too wide) in paragraph at lines 114--121
+\TU/IBMPlexSerif(0)/m/n/10.95 texto tal como está escrito, de modo que nuestra 
+comprensión esté anclada en lo que realmente
+ []
+
+
+Overfull \hbox (3.94939pt too wide) in paragraph at lines 140--145
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Es importante también aclarar de dónde proviene
+ esta |   [] de acercarse al texto. ROOTS
  []
 
 
@@ -1661,2702 +1691,779 @@ adas por Pablo durante su primer |   []
 [4
 
 ]
-Overfull \hbox (14.74721pt too wide) in paragraph at lines 176--179
-\TU/IBMPlexSerif(0)/m/n/11 Las iglesias ya |   [] organizadas con ancianos ante
-s del regreso de Pablo a Antioquía
- []
-
-
-Overfull \hbox (18.36032pt too wide) in paragraph at lines 230--233
-[]\TU/IBMPlexSerif(0)/m/n/11 Las iglesias estaban compuestas mayormente por |  
- [], muchos de ellos ex-paganos. 
- []
-
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [5]
-Overfull \hbox (12.19301pt too wide) in paragraph at lines 255--257
-[]\TU/IBMPlexSerif(0)/m/n/11 Esto ocurre en una |   [] temprana del cristianism
-o, cuando aún se estaban definiendo
- []
-
-
-Overfull \hbox (20.9116pt too wide) in paragraph at lines 261--265
-\TU/IBMPlexSerif(0)/m/n/11 Pablo los guiara nuevamente, a la verdad, a Cristo c
-rucificado, mostrándoles que la verdadera
- []
-
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [6]
+Overfull \hbox (37.98433pt too wide) in paragraph at lines 373--374
+[]\TU/IBMPlexSerif(0)/m/n/11 Cuando leemos por versículos aislados, rompemos lo
+ que fue dado como una sola comunicación. 
+ []
+
+
 
 [7]
-Overfull \hbox (0.4006pt too wide) in paragraph at lines 348--348
- \TU/IBMPlexSerif(0)/m/n/10.95 estaba de acuerdo con el contenido de esta carta
-, la cual veremos en todo este estudio. 
- []
-
-
-Overfull \hbox (2.41641pt too wide) in paragraph at lines 354--354
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esta epístola no esta dirigida a una sola pers
-ona o a una sola iglesia local. Esta epístola
- []
-
-
 
 [8]
-Overfull \hbox (33.97552pt too wide) in paragraph at lines 418--418
- \TU/IBMPlexSerif(0)/m/n/10.95 personas incrédulas) y su corriente de |   [] a 
-la cual las personas están esclavizadas.
+Overfull \hbox (2.1563pt too wide) in paragraph at lines 522--524
+[]\TU/IBMPlexSerif(0)/m/n/10.95 No estamos construyendo sobre interpretaciones 
+cambiantes, sino sobre algo
  []
 
 
 
 [9]
-Overfull \hbox (16.72719pt too wide) in paragraph at lines 448--448
- \TU/IBMPlexSerif(0)/m/n/10.95 evangelio (1 Corintios 15:3-4). Y toda persona p
-ecadora que llega a escuchar el evangelio
- []
-
-
-Overfull \hbox (15.27899pt too wide) in paragraph at lines 467--467
- []\TU/IBMPlexSerif(0)/m/n/10.95 La palabra maravillar refleja asombro o admira
-ción. El apóstol Pablo estaba asombrado,
- []
-
-
-Overfull \hbox (2.27162pt too wide) in paragraph at lines 475--475
- []\TU/IBMPlexSerif(0)/m/n/10.95 La palabra abandonado es un verbo que se encue
-ntra en voz media y tiempo presente,
- []
-
-
 
 [10]
-Overfull \hbox (6.19536pt too wide) in paragraph at lines 507--507
- []\TU/IBMPlexSerif(0)/m/n/10.95 Lo que vemos hasta el momento es que una igles
-ia la cual va por un evangelio contrario
- []
-
-
-Overfull \hbox (14.3743pt too wide) in paragraph at lines 521--521
- \TU/IBMPlexSerif(0)/m/n/10.95 pecados, ser sepultado y |   [] al tercer día, t
-odo esto conforme a la Escrituras.
- []
-
+File: images/13-pasos.png Graphic file (type bmp)
+<images/13-pasos.png>
 
 
 [11]
-Overfull \hbox (19.16891pt too wide) in paragraph at lines 523--523
- []\TU/IBMPlexSerif(0)/m/n/10.95 Cualquier mensaje que |   [] o aumente al Evan
-gelio único, entonces es un evangelio
- []
-
-
-Overfull \hbox (4.10754pt too wide) in paragraph at lines 560--560
- []\TU/IBMPlexSerif(0)/m/n/10.95 En respuesta a los que deseaban |   [] el evan
-gelio entre los hermanos gálatas,
- []
-
-
 
 [12]
-Overfull \hbox (16.54677pt too wide) in paragraph at lines 582--582
- []\TU/IBMPlexSerif(0)/m/n/10.95 En el Nuevo Testamento esta palabra |   [] es 
-usada en un sentido negativo
+Overfull \hbox (137.33614pt too wide) in paragraph at lines 707--707
+[]\TU/lmtt/m/n/10.95 Así que yo, hermanos, no pude hablarles como a espirituale
+s, sino como a carnales, como a niños en Cristo.[] 
  []
 
 
-Overfull \hbox (8.17728pt too wide) in paragraph at lines 596--596
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo vuelve a enfatizar las consecuencias de 
-alguien que llega a anunciar un evangelio
+Overfull \hbox (154.58238pt too wide) in paragraph at lines 708--708
+[]\TU/lmtt/m/n/10.95 Les di a beber leche, no alimento sólido, porque todavía n
+o podían recibirlo. En verdad, ni aun ahora pueden.[] 
+ []
+
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (4.46956pt too wide) in paragraph at lines 734--737
+\TU/IBMPlexSerif(0)/m/n/11 Les di a beber leche, no alimento sólido, porque tod
+avía no podían recibirlo. En verdad,
  []
 
 
-Overfull \hbox (11.51123pt too wide) in paragraph at lines 596--596
- \TU/IBMPlexSerif(0)/m/n/10.95 extraño, |   [] que hacían los que les perturbab
-an y trataban de cambiar el evangelio
+Overfull \hbox (137.33614pt too wide) in paragraph at lines 743--743
+[]\TU/lmtt/m/n/10.95 Así que yo, hermanos, no pude hablarles como a espirituale
+s, sino como a carnales, como a niños en Cristo.[] 
  []
 
 
-Overfull \hbox (9.3869pt too wide) in paragraph at lines 614--614
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esta repetición funciona como una confirmación
- |   [], como si estuviera sellando
- []
-
-
-Overfull \hbox (15.38168pt too wide) in paragraph at lines 620--620
- \TU/IBMPlexSerif(0)/m/n/10.95 evangelio diferente al que los gálatas ya habían
- recibido, entonces otra vez, sea anatema. 
+Overfull \hbox (154.58238pt too wide) in paragraph at lines 744--744
+[]\TU/lmtt/m/n/10.95 Les di a beber leche, no alimento sólido, porque todavía n
+o podían recibirlo. En verdad, ni aun ahora pueden.[] 
  []
 
 
 
 [13]
-Overfull \hbox (14.27063pt too wide) in paragraph at lines 636--636
- []\TU/IBMPlexSerif(0)/m/n/10.95 Este contraste puede manifestarse como adición
-, modificación o distorsión del mensaje
- []
-
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [14]
-Overfull \hbox (1.12698pt too wide) in paragraph at lines 670--670
- []\TU/IBMPlexSerif(0)/m/n/10.95 Por eso, |   [] el evangelio no es simplemente
- alterar una enseñanza humana,
+Overfull \hbox (171.82863pt too wide) in paragraph at lines 836--836
+[]  \TU/lmtt/m/n/10.95 Así que yo, hermanos, no ==pude== hablarles como a espir
+ituales, sino como a carnales, como a niños en Cristo.[] 
  []
 
 
-Overfull \hbox (2.27524pt too wide) in paragraph at lines 672--672
- []\TU/IBMPlexSerif(0)/m/n/10.95 La fuerza del “anatema” está conectada con ese
- |   []: lo que Dios ha establecido
+Overfull \hbox (235.06487pt too wide) in paragraph at lines 837--837
+[]  \TU/lmtt/m/n/10.95 Les ==di== a beber leche, no alimento sólido, porque tod
+avía no ==podían== recibirlo. En verdad, ni aun ahora ==pueden==.[] 
  []
 
-
-Overfull \hbox (35.48076pt too wide) in paragraph at lines 690--690
- []\TU/IBMPlexSerif(0)/m/n/10.95 Lo que sigue viene en forma de preguntas, pero
- estas preguntas no |   [] información.
- []
-
-
-Overfull \hbox (4.4178pt too wide) in paragraph at lines 692--692
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo presenta dos opciones completamente opue
-stas: buscar el favor de los hombres
- []
-
-
-Overfull \hbox (16.71124pt too wide) in paragraph at lines 694--694
- \TU/IBMPlexSerif(0)/m/n/10.95 que pueden convivir cuando el evangelio está en 
-juego. Al contrario, Pablo las |   []
- []
-
-
-Overfull \hbox (16.41171pt too wide) in paragraph at lines 696--696
- []\TU/IBMPlexSerif(0)/m/n/10.95 Buscar el favor de los hombres significaría aj
-ustar el mensaje para que resulte aceptable,
- []
-
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ✔ (U+2714) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [15]
-Overfull \hbox (7.7128pt too wide) in paragraph at lines 704--704
- \TU/IBMPlexSerif(0)/m/n/10.95 énfasis. Nunca es simplemente una presentación a
-lternativa. |   [] Pablo, detrás
- []
-
-
-Overfull \hbox (8.45473pt too wide) in paragraph at lines 704--704
- \TU/IBMPlexSerif(0)/m/n/10.95 de esa alteración hay una dirección clara: el de
-seo de que el mensaje sea más aceptable
- []
-
-
-Overfull \hbox (1.95407pt too wide) in paragraph at lines 718--718
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo entendía que la fidelidad al evangelio n
-o depende de la reacción de la audiencia.
- []
-
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [16]
-Overfull \hbox (5.63567pt too wide) in paragraph at lines 752--752
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esto muestra que para Pablo |   [] dos orienta
-ciones son incompatibles. Procurar
+Overfull \hbox (160.33113pt too wide) in paragraph at lines 971--971
+[]\TU/lmtt/m/n/10.95 Así que yo, hermanos, no ==pude== hablarles como a espirit
+uales, sino como a carnales, como a niños en Cristo.[] 
+ []
+
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (160.33113pt too wide) in paragraph at lines 1016--1016
+[]\TU/lmtt/m/n/10.95 Así que yo, hermanos, no ==pude== hablarles como a espirit
+uales, sino como a carnales, como a niños en Cristo.[] 
+ []
+
+
+Overfull \hbox (223.56737pt too wide) in paragraph at lines 1017--1017
+[]\TU/lmtt/m/n/10.95 Les ==di== a beber leche, no alimento sólido, porque todav
+ía no ==podían== recibirlo. En verdad, ni aun ahora ==pueden==.[] 
+ []
+
+
+Overfull \hbox (160.33113pt too wide) in paragraph at lines 1023--1023
+[]\TU/lmtt/m/n/10.95 Así que yo, hermanos, no ==pude== hablarles como a espirit
+uales, sino como a carnales, como a niños en Cristo.[] 
  []
 
 
 
 [17]
-Overfull \hbox (2.7887pt too wide) in paragraph at lines 754--754
- \TU/IBMPlexSerif(0)/m/n/10.95 puede servir un poco a Cristo y un poco al favor
- humano. No dice que puede conservar
- []
-
-
-Overfull \hbox (24.69502pt too wide) in paragraph at lines 760--760
- []\TU/IBMPlexSerif(0)/m/n/10.95 Ser siervo de Cristo significa estar bajo Su a
-utoridad, no |   [] la aprobación cambiante
- []
-
-
-Overfull \hbox (2.64027pt too wide) in paragraph at lines 762--762
- \TU/IBMPlexSerif(0)/m/n/10.95 cambia el mensaje para agradar al hombre demuest
-ra con ello quién está gobernando
- []
-
-
-Overfull \hbox (1.44087pt too wide) in paragraph at lines 764--764
- []\TU/IBMPlexSerif(0)/m/n/10.95 Llegar a cambiar el evangelio de |   [], es al
-go que es completamente reprobable
- []
-
-
-Overfull \hbox (4.5711pt too wide) in paragraph at lines 766--766
- []\TU/IBMPlexSerif(0)/m/n/10.95 La gravedad del asunto está directamente relac
-ionada con el |   [] del evangelio.
- []
-
-
-Overfull \hbox (23.4847pt too wide) in paragraph at lines 766--766
- \TU/IBMPlexSerif(0)/m/n/10.95 No se trata de una tradición humana, una escuela
- de pensamiento, una opinión apostólica
- []
-
-
-Overfull \hbox (24.51132pt too wide) in paragraph at lines 768--768
- []\TU/IBMPlexSerif(0)/m/n/10.95 Por eso, modificarlo es reprobable |   [] de D
-ios. No porque Pablo esté defendiendo
- []
-
-
-Overfull \hbox (12.81429pt too wide) in paragraph at lines 772--772
- []\TU/IBMPlexSerif(0)/m/n/10.95 Si el evangelio pertenece a Cristo, entonces e
-l mensajero no tiene derecho a rediseñarlo.
- []
-
-
-Overfull \hbox (6.72247pt too wide) in paragraph at lines 790--792
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Porque en vez de afirmar a los |   [] en la ver
-dad, los mueve a confusión,
- []
-
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [18]
-Overfull \hbox (15.99347pt too wide) in paragraph at lines 817--820
-\TU/IBMPlexSerif(0)/m/n/10.95 hacerlo aceptable para la |   [], para la religió
-n humana o para la aprobación
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (160.33113pt too wide) in paragraph at lines 1146--1146
+[]\TU/lmtt/m/n/10.95 Así que yo, hermanos, no ==pude== hablarles como a espirit
+uales, sino como a carnales, como a niños en Cristo.[] 
  []
 
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
-Overfull \hbox (14.68884pt too wide) in paragraph at lines 846--848
-\TU/IBMPlexSerif(0)/m/n/11 define desde el inicio la autoridad y el origen del 
-evangelio que anunció. 
+Overfull \hbox (160.33113pt too wide) in paragraph at lines 1178--1178
+[]\TU/lmtt/m/n/10.95 Así que yo, hermanos, no ==pude== hablarles como a espirit
+uales, sino como a carnales, como a niños en Cristo.[] 
  []
 
 
 
 [19]
-Overfull \hbox (3.73213pt too wide) in paragraph at lines 865--868
-\TU/IBMPlexSerif(0)/m/n/11 persona, sin importar quién sea, que anuncie un evan
-gelio contrario,
- []
+Missing character: There is no ✔ (U+2714) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
-
-Overfull \hbox (29.18831pt too wide) in paragraph at lines 865--868
-\TU/IBMPlexSerif(0)/m/n/11 queda bajo anatema, mostrando que el evangelio no pu
-ede ser modificado
- []
-
-
-Overfull \hbox (8.60733pt too wide) in paragraph at lines 870--872
-\TU/IBMPlexSerif(0)/m/n/11 con intención, reforzando que el estándar es fijo: e
-l evangelio recibido
- []
-
-
-Overfull \hbox (18.04167pt too wide) in paragraph at lines 878--881
-\TU/IBMPlexSerif(0)/m/n/11 de Cristo no pueden coexistir cuando el evangelio es
-tá en juego, dejando
- []
-
-
-Overfull \hbox (24.57552pt too wide) in paragraph at lines 901--901
- []\TU/IBMPlexSerif(0)/m/n/10.95 La expresión “quiero que |   []” muestra inten
-ción directa. Pablo no está sugiriendo,
- []
-
-
-Overfull \hbox (14.88747pt too wide) in paragraph at lines 903--903
- []\TU/IBMPlexSerif(0)/m/n/10.95 No se trata de una información secundaria, sin
-o de algo fundamental |   [] entender
- []
-
-
-Overfull \hbox (35.03667pt too wide) in paragraph at lines 905--905
- \TU/IBMPlexSerif(0)/m/n/10.95 suaviza el contenido; al contrario, refuerza la 
-necesidad de que comprendan correctamente. 
+Overfull \hbox (160.33113pt too wide) in paragraph at lines 1198--1198
+[]\TU/lmtt/m/n/10.95 Así que yo, hermanos, no ==pude== hablarles como a espirit
+uales, sino como a carnales, como a niños en Cristo.[] 
  []
 
 
 
 [20]
-Overfull \hbox (0.4101pt too wide) in paragraph at lines 913--913
- []\TU/IBMPlexSerif(0)/m/n/10.95 En Gálatas 1:8-9 Pablo daba |   [] hacia los q
-ue anunciaban un evangelio
+Overfull \hbox (160.33113pt too wide) in paragraph at lines 1299--1299
+[]\TU/lmtt/m/n/10.95 Así que yo, hermanos, no ==pude== hablarles como a espirit
+uales, sino como a carnales, como a niños en Cristo.[] 
  []
 
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [21]
-Overfull \hbox (5.5121pt too wide) in paragraph at lines 981--981
- []\TU/IBMPlexSerif(0)/m/n/10.95 La palabra “revelación” indica que algo fue mo
-strado, |   [] a conocer, descubierto
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (160.33113pt too wide) in paragraph at lines 1353--1353
+[]\TU/lmtt/m/n/10.95 Así que yo, hermanos, no ==pude== hablarles como a espirit
+uales, sino como a carnales, como a niños en Cristo.[] 
  []
 
 
-LaTeX Font Warning: Font shape `TU/IBMPlexSerif(2)/b/it' undefined
-(Font)              using `TU/IBMPlexSerif(2)/m/n' instead on input line 993.
+Overfull \hbox (160.33113pt too wide) in paragraph at lines 1365--1365
+[]\TU/lmtt/m/n/10.95 Así que yo, hermanos, no ==pude== hablarles como a espirit
+uales, sino como a carnales, como a niños en Cristo.[] 
+ []
 
 
 
 [22]
-Overfull \hbox (3.17046pt too wide) in paragraph at lines 1005--1005
- []\TU/IBMPlexSerif(0)/m/n/10.95 Si el origen es divino, la autoridad es divina
-. Y si la autoridad es |   [], el mensaje
- []
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
-
-Overfull \hbox (14.77286pt too wide) in paragraph at lines 1007--1007
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esto conecta directamente con Gálatas 1:8-10: 
-cambiar el evangelio no es solo desviarse
- []
-
-
-Overfull \hbox (14.69037pt too wide) in paragraph at lines 1011--1011
- \TU/IBMPlexSerif(0)/m/n/10.95 si alguien anuncia un evangelio diferente al que
- los gálatas recibieron, sea anatema.
- []
-
-
-Overfull \hbox (18.5886pt too wide) in paragraph at lines 1011--1011
- \TU/IBMPlexSerif(0)/m/n/10.95 No presenta el problema como una diferencia de o
-pinión, ni |   [] una variación
- []
-
-
-Overfull \hbox (11.28224pt too wide) in paragraph at lines 1017--1017
- \TU/IBMPlexSerif(0)/m/n/10.95 no sería siervo en absoluto. Así deja completame
-nte separadas las dos direcciones:
- []
-
-
-Overfull \hbox (14.20004pt too wide) in paragraph at lines 1019--1019
- []\TU/IBMPlexSerif(0)/m/n/10.95 Habiendo establecido esto, Pablo da el fundame
-nto en los versículos 11–12. Explica
+Overfull \hbox (160.33113pt too wide) in paragraph at lines 1463--1463
+[]\TU/lmtt/m/n/10.95 Así que yo, hermanos, no ==pude== hablarles como a espirit
+uales, sino como a carnales, como a niños en Cristo.[] 
  []
 
 
 
 [23]
-Overfull \hbox (14.65392pt too wide) in paragraph at lines 1025--1025
- []\TU/IBMPlexSerif(0)/m/n/10.95 Así, el flujo del pasaje es claro: primero est
-ablece la gravedad del cambio (anatema),
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (4.60033pt too wide) in paragraph at lines 1514--1514
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Usar el conector = leer la relación entre dos c
+láusulas mediante la pregunta que el conector
  []
 
 
-Overfull \hbox (2.70744pt too wide) in paragraph at lines 1025--1025
- \TU/IBMPlexSerif(0)/m/n/10.95 luego revela lo que hay detrás de ese cambio (do
-s lealtades), y finalmente muestra
+Overfull \hbox (160.33113pt too wide) in paragraph at lines 1521--1521
+[]\TU/lmtt/m/n/10.95 Así que yo, hermanos, no ==pude== hablarles como a espirit
+uales, sino como a carnales, como a niños en Cristo.[] 
  []
 
 
-Underfull \hbox (badness 2126) in paragraph at lines 1034--1036
-[]\TU/IBMPlexSerif(2)/m/it/10.95 « Porque ustedes han oído acerca de mi antigua
- manera de vivir en el judaísmo, de cuán
+Overfull \hbox (160.33113pt too wide) in paragraph at lines 1532--1532
+[]\TU/lmtt/m/n/10.95 Así que yo, hermanos, no ==pude== hablarles como a espirit
+uales, sino como a carnales, como a niños en Cristo.[] 
  []
 
 
 
 [24]
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
 
 [25]
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
-[26]
-Overfull \hbox (17.34973pt too wide) in paragraph at lines 1205--1205
- []\TU/IBMPlexSerif(0)/m/n/10.95 su energía |   [] enfocada en conservar y defe
-nder lo recibido de generaciones
+Overfull \hbox (160.33113pt too wide) in paragraph at lines 1655--1655
+[]\TU/lmtt/m/n/10.95 Así que yo, hermanos, no ==pude== hablarles como a espirit
+uales, sino como a carnales, como a niños en Cristo.[] 
  []
 
+
+
+[26]
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [27]
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
 
 [28]
-Overfull \hbox (6.86942pt too wide) in paragraph at lines 1398--1398
- \TU/IBMPlexSerif(0)/m/n/10.95 Hijo de Dios. Por eso el cambio en Pablo no pued
-e explicarse por crecimiento personal,
- []
-
-
-Overfull \hbox (3.7304pt too wide) in paragraph at lines 1398--1398
- \TU/IBMPlexSerif(0)/m/n/10.95 capacidad religiosa o tradición heredada. Fue Di
-os |   [] intervino para revelarle
- []
-
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [29]
-Overfull \hbox (23.2922pt too wide) in paragraph at lines 1400--1400
- \TU/IBMPlexSerif(0)/m/n/10.95 algo por sí mismo, sino en que Dios |   []. La i
-niciativa siguió siendo completamente
- []
-
-
-Overfull \hbox (13.38pt too wide) in paragraph at lines 1428--1428
- []\TU/IBMPlexSerif(0)/m/n/10.95 Fue Dios quien escogió a Pablo como |   [], co
-n el propósito de llevar Su evangelio
- []
-
-
-Overfull \hbox (5.71353pt too wide) in paragraph at lines 1432--1432
- []\TU/IBMPlexSerif(0)/m/n/10.95 Aquí vemos nuevamente que su apostolado y su m
-ensaje tienen origen en Dios mismo.
- []
-
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [30]
-Overfull \hbox (25.0834pt too wide) in paragraph at lines 1470--1470
- []\TU/IBMPlexSerif(0)/m/n/10.95 El punto es claro: Pablo no fue a |   [] valid
-ación, permiso, orientación o aprobación
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (23.64235pt too wide) in paragraph at lines 2006--2006
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Comportamiento = la función que una cláusula cu
+mple dentro del desarrollo del pensamiento.[] 
  []
 
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [31]
-Overfull \hbox (2.44678pt too wide) in paragraph at lines 1518--1518
- []\TU/IBMPlexSerif(0)/m/n/10.95 Los versículos anteriores donde hablan de Pabl
-o |   [] designado por Dios como
- []
-
-
-Overfull \hbox (13.10263pt too wide) in paragraph at lines 1528--1528
- []\TU/IBMPlexSerif(0)/m/n/10.95 Ahora vemos que tampoco fue a Jerusalén, porqu
-e en ningún momento busco consultar
- []
-
-
-Overfull \hbox (22.9598pt too wide) in paragraph at lines 1536--1536
- []\TU/IBMPlexSerif(0)/m/n/10.95 Hechos 9:19-22 Pablo estuvo predicando y |   [
-] con hermanos en Damasco
- []
-
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [32]
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
 
 [33]
-Overfull \hbox (8.73726pt too wide) in paragraph at lines 1622--1622
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pero el texto |   [] claramente la intención: 
-no fue dependencia, fue contacto.[] 
- []
-
-
-Overfull \hbox (39.16212pt too wide) in paragraph at lines 1648--1648
- []\TU/IBMPlexSerif(0)/m/n/10.95 Por |   [] de los Apóstoles 9:26-30 sabemos qu
-e en la visita de Pablo los |   []
- []
-
-
-Overfull \hbox (12.95517pt too wide) in paragraph at lines 1678--1678
- []\TU/IBMPlexSerif(0)/m/n/10.95 Vemos que el apostolado y mensaje de Pablo no 
-comenzó ni era por medio del influyente
- []
-
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [34]
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
 
 [35]
-Overfull \hbox (5.89604pt too wide) in paragraph at lines 1795--1795
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo llama la atención a lo que está poniendo
- por escrito en ese |   [] momento. 
- []
+Missing character: There is no ✔ (U+2714) in font [lmmono10-regular]:!
+Missing character: There is no ✔ (U+2714) in font [lmmono10-regular]:!
+Missing character: There is no ✔ (U+2714) in font [lmmono10-regular]:!
+Missing character: There is no ✔ (U+2714) in font [lmmono10-regular]:!
+Missing character: There is no ✖ (U+2716) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
-
-Overfull \hbox (11.93098pt too wide) in paragraph at lines 1809--1809
- []\TU/IBMPlexSerif(0)/m/n/10.95 No simplemente |   [] los hechos, sino que aho
-ra los confirma de manera directa. 
+Overfull \hbox (29.2962pt too wide) in paragraph at lines 2353--2353
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Romper el patrón = cuando la secuencia de compo
+rtamiento deja de repetirse o es reemplazada
  []
 
 
 
 [36]
-Overfull \hbox (15.7029pt too wide) in paragraph at lines 1841--1841
- []\TU/IBMPlexSerif(0)/m/n/10.95 No está exagerando, ni alterando los hechos, n
-i acomodando la historia para defenderse. 
- []
-
-
-Overfull \hbox (2.92375pt too wide) in paragraph at lines 1864--1864
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esto ya |   [] sido mostrado en Gálatas 1:18. 
-No fue inmediatamente a Jerusalén,
- []
-
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [37]
-Overfull \hbox (1.50143pt too wide) in paragraph at lines 1916--1916
- []\TU/IBMPlexSerif(0)/m/n/10.95 Los viajes de Pablo como apóstol continuaron f
-uera de |   [] por las regiones
- []
-
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [38]
-Overfull \hbox (24.69868pt too wide) in paragraph at lines 1986--1986
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esto amplía el alcance: no solo era desconocid
-o para |   [], sino para comunidades
- []
-
-
-Overfull \hbox (15.71603pt too wide) in paragraph at lines 1994--1994
- []\TU/IBMPlexSerif(0)/m/n/10.95 No son simplemente comunidades religiosas, |  
- [] iglesias definidas por su relación
- []
-
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ✔ (U+2714) in font [lmmono10-regular]:!
+Missing character: There is no ✔ (U+2714) in font [lmmono10-regular]:!
+Missing character: There is no ✔ (U+2714) in font [lmmono10-regular]:!
+Missing character: There is no ✔ (U+2714) in font [lmmono10-regular]:!
+Missing character: There is no ✖ (U+2716) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [39]
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
 
 [40]
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (6.7867pt too wide) in paragraph at lines 2727--2729
+[]\TU/IBMPlexSerif(0)/m/n/10.95 La acción del tronco |   [] ser coherente con e
+l comportamiento observado
+ []
+
+
 
 [41]
-Overfull \hbox (15.22328pt too wide) in paragraph at lines 2214--2214
- \TU/IBMPlexSerif(0)/m/n/10.95 ayuda de hombres, el mensaje que Pablo les anunc
-io tampoco |   [] por los apóstoles
- []
-
-
-Overfull \hbox (39.91283pt too wide) in paragraph at lines 2218--2218
- []\TU/IBMPlexSerif(0)/m/n/10.95 pablo menciona el evangelio que predicaba entr
-e los gentiles. como dos obro poderosamente
- []
-
-
-Overfull \hbox (7.42688pt too wide) in paragraph at lines 2218--2218
- \TU/IBMPlexSerif(0)/m/n/10.95 tambien entre los gentiles, como pedro se |   []
- al hacer judaizar a los gentiles,
- []
-
-
-Overfull \hbox (10.65714pt too wide) in paragraph at lines 2235--2235
- []\TU/IBMPlexSerif(0)/m/n/10.95 No está comenzando un tema nuevo, |   [] avanz
-ando en la narración de los eventos
- []
-
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [42]
-Overfull \hbox (11.5499pt too wide) in paragraph at lines 2256--2256
- []\TU/IBMPlexSerif(0)/m/n/10.95 Solo catorce años después de que Pablo estuvo 
-en Jerusalén la |   [] vez (Gálatas
- []
-
+Missing character: There is no ✔ (U+2714) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ✔ (U+2714) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ✔ (U+2714) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [43]
-Overfull \hbox (23.75185pt too wide) in paragraph at lines 2305--2305
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esto amplía el cuadro: Pablo se |   [] acompañ
-ado de colaboradores en el evangelio. 
- []
-
-
-Overfull \hbox (6.58617pt too wide) in paragraph at lines 2362--2362
- []\TU/IBMPlexSerif(0)/m/n/10.95 Este evento probablemente se refiera a lo most
-rado en Hechos 11:27-30, 12:25. Donde
- []
-
-
-Overfull \hbox (2.86285pt too wide) in paragraph at lines 2366--2366
- []\TU/IBMPlexSerif(0)/m/n/10.95 Ahora Pablo quería que los hermanos de gran | 
-  [] en Jerusalén conocieran
- []
-
-
-Overfull \hbox (0.8021pt too wide) in paragraph at lines 2372--2372
- []\TU/IBMPlexSerif(0)/m/n/10.95 Por esta traducción, probablemente podemos lle
-gar a |   [] que Pablo dudaba
- []
-
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [44]
-Overfull \hbox (33.34915pt too wide) in paragraph at lines 2374--2374
- \TU/IBMPlexSerif(0)/m/n/10.95 necesitaba de aprobación humana de |   [] tipo, 
-ya que había sido dada directamente
- []
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
-
-Overfull \hbox (6.40486pt too wide) in paragraph at lines 2405--2405
- []\TU/IBMPlexSerif(0)/m/n/10.95 Después de haber explicado la presión que |   
-[] —incitar a circuncidarse, espiar
- []
-
-
-Overfull \hbox (13.17926pt too wide) in paragraph at lines 2409--2409
- []\TU/IBMPlexSerif(0)/m/n/10.95 Tito no es presentado como una excepción aisla
-da, sino como una prueba |   []
- []
-
-
-Overfull \hbox (2.31909pt too wide) in paragraph at lines 2413--2413
- []\TU/IBMPlexSerif(0)/m/n/10.95 La frase “pero ni aun Tito” |   [] un contrast
-e directo con la presión mencionada
+Overfull \hbox (10.65572pt too wide) in paragraph at lines 2991--2991
+[]\TU/IBMPlexSerif(0)/m/n/10.95 La Biblia no es confusa. No es contradictoria. 
+No está escondiendo su mensaje. El problema
  []
 
 
 
 [45]
-Overfull \hbox (14.21803pt too wide) in paragraph at lines 2419--2419
- []\TU/IBMPlexSerif(0)/m/n/10.95 El hecho de que no fue obligado muestra que lo
-s que |   [] reputación en Jerusalén
- []
-
-
-Overfull \hbox (1.85187pt too wide) in paragraph at lines 2423--2423
- []\TU/IBMPlexSerif(0)/m/n/10.95 La circuncisión no tenía ninguna relación con 
-el evangelio que él había predicado
- []
-
-
-Overfull \hbox (0.8761pt too wide) in paragraph at lines 2423--2423
- \TU/IBMPlexSerif(0)/m/n/10.95 a los gálatas (gentiles). Una falsa enseñanza re
-lacionada al evangelio era el hecho
- []
-
-
-Overfull \hbox (19.45581pt too wide) in paragraph at lines 2429--2429
- []\TU/IBMPlexSerif(0)/m/n/10.95 Introducir la circuncisión |   [] algo necesar
-io implicaba añadir algo al mensaje
- []
-
-
-Overfull \hbox (0.75253pt too wide) in paragraph at lines 2443--2443
- \TU/IBMPlexSerif(0)/m/n/10.95 demuestra que no fue corregido, ni ajustado, ni 
-ampliado por los líderes en Jerusalén. 
- []
-
-
-Overfull \hbox (3.02777pt too wide) in paragraph at lines 2447--2447
- []\TU/IBMPlexSerif(0)/m/n/10.95 Y por lo tanto, cualquier |   [] posterior de 
-imponerla no proviene del evangelio
- []
-
-
-Overfull \hbox (11.38643pt too wide) in paragraph at lines 2457--2457
-[]| \TU/IBMPlexSerif(2)/m/it/10.95 «Y esto fue por causa de los falsos hermanos
- introducidos secretamente, que se habían infiltrado…» 
- []
-
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [46]
-Overfull \hbox (3.01619pt too wide) in paragraph at lines 2473--2473
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo muestra a los gálatas que una falsa ense
-ñanza como la de obligar la circuncisión
- []
-
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [47]
-Overfull \hbox (13.93483pt too wide) in paragraph at lines 2507--2507
- []\TU/IBMPlexSerif(0)/m/n/10.95 El propósito era que lo real respecto al evang
-elio no sea cambiado, sino que se mantenga
- []
-
-
-Overfull \hbox (16.84386pt too wide) in paragraph at lines 2513--2513
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esto fue de beneficio para los hermanos gentil
-es de Galacia, ya que ellos |   []
- []
-
-
-Overfull \hbox (16.81102pt too wide) in paragraph at lines 2527--2527
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo sabía que delante de Dios no hay diferen
-cias entre |   [], no le importaban
- []
-
-
-Overfull \hbox (1.90804pt too wide) in paragraph at lines 2527--2527
- \TU/IBMPlexSerif(0)/m/n/10.95 los de reputación, en ningún momento dudo de su 
-apostolado o evangelio que predico
- []
-
-
-Overfull \hbox (2.50665pt too wide) in paragraph at lines 2535--2535
- \TU/IBMPlexSerif(0)/m/n/10.95 evangelio que Pablo anunciaba, el mismo evangeli
-o que los gálatas habían escuchado. 
- []
-
-
-Overfull \hbox (28.15529pt too wide) in paragraph at lines 2545--2545
-[]| \TU/IBMPlexSerif(2)/m/it/10.95 «Antes por el contrario, como vieron que me 
-había sido encomendado el evangelio de la incircuncisión,
- []
-
-
-Overfull \hbox (3.67563pt too wide) in paragraph at lines 2551--2551
- \TU/IBMPlexSerif(0)/m/n/10.95 distintos |   []. En Hechos 13:46-48 vemos que P
-ablo proclamaba el mismo
- []
-
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [48]
-Overfull \hbox (11.1535pt too wide) in paragraph at lines 2589--2589
- []\TU/IBMPlexSerif(0)/m/n/10.95 Eran hermanos vistos como columnas, con |   []
- responsabilidades e influencia
- []
-
-
-Overfull \hbox (10.54399pt too wide) in paragraph at lines 2595--2595
- []\TU/IBMPlexSerif(0)/m/n/10.95 Jacobo, Pedro y Juan no agregaron nada al evan
-gelio que Pablo anunciaba a los gentiles,
- []
-
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [49]
-Overfull \hbox (21.4767pt too wide) in paragraph at lines 2627--2627
- \TU/IBMPlexSerif(0)/m/n/10.95 compartían. Más adelante veremos que la |   [] e
-ntre los creyentes esta relacionado
- []
-
-
-Overfull \hbox (0.15932pt too wide) in paragraph at lines 2642--2645
-\TU/IBMPlexSerif(0)/m/n/11 no tiene origen humano, sino que fue recibido por re
-velación directa
- []
-
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [50]
-Overfull \hbox (20.26732pt too wide) in paragraph at lines 2672--2674
-\TU/IBMPlexSerif(0)/m/n/11 caso de Tito demuestra que el evangelio no fue modif
-icado, confirmando
- []
-
-
-Overfull \hbox (11.95766pt too wide) in paragraph at lines 2680--2681
-[]\TU/IBMPlexSerif(0)/m/n/11 Frente a esto, Pablo y los demás no ceden en absol
-uto, con el propósito
- []
-
-
-Overfull \hbox (6.03918pt too wide) in paragraph at lines 2680--2681
-\TU/IBMPlexSerif(0)/m/n/11 de que la verdad del evangelio permanezca intacta pa
-ra los creyentes. 
- []
-
-
-Overfull \hbox (0.44505pt too wide) in paragraph at lines 2683--2685
-[]\TU/IBMPlexSerif(0)/m/n/11 Los líderes reconocidos en Jerusalén no añadieron 
-nada al mensaje
- []
-
-
-Overfull \hbox (13.88853pt too wide) in paragraph at lines 2687--2689
-[]\TU/IBMPlexSerif(0)/m/n/11 Así, se reconoce un mismo evangelio con distintos 
-campos de alcance:
- []
-
-
-Overfull \hbox (9.08519pt too wide) in paragraph at lines 2691--2693
-[]\TU/IBMPlexSerif(0)/m/n/11 Finalmente, la comunión entre ellos confirma unida
-d en el evangelio,
- []
-
-
-Overfull \hbox (10.21036pt too wide) in paragraph at lines 2712--2712
- []\TU/IBMPlexSerif(0)/m/n/10.95 No se encuentra una cita especifica donde se n
-arré lo que Pablo contará a continuación,
- []
-
-
-Overfull \hbox (4.5784pt too wide) in paragraph at lines 2712--2712
- \TU/IBMPlexSerif(0)/m/n/10.95 probablemente este evento |   [] ocurrido despué
-s de la vuelta de Pablo y Bernabé
- []
-
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [51]
-Overfull \hbox (9.24312pt too wide) in paragraph at lines 2714--2714
- \TU/IBMPlexSerif(0)/m/n/10.95 apóstol a los de la incircuncisión (gentiles) y 
-Pedro como apóstol a los de la circuncisión
- []
-
-
-Overfull \hbox (7.85243pt too wide) in paragraph at lines 2722--2722
- []\TU/IBMPlexSerif(0)/m/n/10.95 La expresión que Pablo utiliza cuando Pedro vi
-no a Antioquía enfatiza una |   []
- []
-
-
-Overfull \hbox (34.04263pt too wide) in paragraph at lines 2744--2744
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pedro en Antioquía comía juntamente con los he
-rmanos gentiles, tenía una |   []
- []
-
-
-Overfull \hbox (4.86552pt too wide) in paragraph at lines 2744--2744
- \TU/IBMPlexSerif(0)/m/n/10.95 cercana con ellos. Esto era antes de que algunos
- hermanos de parte de Jacobo (Gálatas
- []
-
-
-Overfull \hbox (0.78268pt too wide) in paragraph at lines 2766--2766
- \TU/IBMPlexSerif(0)/m/n/10.95 eran de la circuncisión, eran judíos. El pensami
-ento general |   [] era de rechazo
- []
-
-
-Overfull \hbox (2.59576pt too wide) in paragraph at lines 2766--2766
- \TU/IBMPlexSerif(0)/m/n/10.95 y desprecio hacia las demás naciones, los gentil
-es, este estuvo incluso entre creyentes
- []
-
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [52]
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
 
 [53]
-Overfull \hbox (3.709pt too wide) in paragraph at lines 2826--2826
- \TU/IBMPlexSerif(0)/m/n/10.95 hermanos judíos y ellos estaban |   [] a judaiza
-r, es decir, a vivir como judíos.
- []
-
-
-Overfull \hbox (5.22447pt too wide) in paragraph at lines 2828--2828
- \TU/IBMPlexSerif(0)/m/n/10.95 de la verdad del Evangelio de Cristo y esto caus
-aba una confusión a hacia los hermanos
- []
-
-
-Overfull \hbox (16.68326pt too wide) in paragraph at lines 2853--2853
- \TU/IBMPlexSerif(0)/m/n/10.95 escribió esta carta, ellos habían cambiado el ev
-angelio y por eso |   [] abandonado
- []
-
-
-Overfull \hbox (7.94978pt too wide) in paragraph at lines 2855--2855
- \TU/IBMPlexSerif(0)/m/n/10.95 diferente a los creyentes judíos? ¿Debían vivir 
-como judíos |   [] no ser pecadores? 
- []
-
-
-Overfull \hbox (7.77727pt too wide) in paragraph at lines 2857--2857
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo llamo a esto un ataque directo a la verd
-ad, al evangelio de Cristo y una hipocresía,
- []
-
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [54]
-Overfull \hbox (21.4706pt too wide) in paragraph at lines 2859--2859
- \TU/IBMPlexSerif(0)/m/n/10.95 2:15 aparentemente muestran que los creyentes ju
-díos de |   [] y practicantes
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (21.9pt too wide) in paragraph at lines 3676--3679
+$[]$
  []
 
 
-Overfull \hbox (23.41483pt too wide) in paragraph at lines 2883--2883
- \TU/IBMPlexSerif(0)/m/n/10.95 como judíos de nacimiento desde Gálatas 2:15. La
- |   [] también podría traducirse
+Overfull \hbox (21.9pt too wide) in paragraph at lines 3693--3696
+$[]$
  []
 
 
-Overfull \hbox (22.06432pt too wide) in paragraph at lines 2903--2903
- []\TU/IBMPlexSerif(0)/m/n/10.95 ¿Que es ser justificado? En palabras sencillas
- en estos pasajes significa ser |   []
+Overfull \hbox (21.9pt too wide) in paragraph at lines 3710--3713
+$[]$
  []
 
 
 
 [55]
-Overfull \hbox (16.89716pt too wide) in paragraph at lines 2913--2913
- []\TU/IBMPlexSerif(0)/m/n/10.95 Judíos y no |   [] solo pueden ser declarados 
-justos por medio de la fe en Jesucristo. 
+Overfull \hbox (21.9pt too wide) in paragraph at lines 3733--3736
+$[]$
  []
 
 
-Overfull \hbox (1.65988pt too wide) in paragraph at lines 2925--2925
- \TU/IBMPlexSerif(0)/m/n/10.95 ellos también tuvieron que creer en Cristo para 
-ser justificados, no fueron justificados
+Overfull \hbox (21.9pt too wide) in paragraph at lines 3752--3755
+$[]$
  []
 
 
-Overfull \hbox (1.49344pt too wide) in paragraph at lines 2933--2933
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo repite que |   [], ninguna persona, podr
-á ser declarada como justa delante
+Overfull \hbox (21.9pt too wide) in paragraph at lines 3769--3772
+$[]$
  []
 
 
 
 [56]
-Overfull \hbox (1.52359pt too wide) in paragraph at lines 2947--2947
- \TU/IBMPlexSerif(0)/m/n/10.95 pero también resultaban hallados como pecadores,
- como injustos. ¿Eso era correcto? 
+Overfull \hbox (21.9pt too wide) in paragraph at lines 3792--3795
+$[]$
  []
 
 
-Overfull \hbox (9.6039pt too wide) in paragraph at lines 2949--2949
- \TU/IBMPlexSerif(2)/m/it/10.95 entonces, ministro de pecado?»\TU/IBMPlexSerif(
-0)/m/n/10.95 . La palabra ministro en griego es DIÁKONOS que también
+Overfull \hbox (21.9pt too wide) in paragraph at lines 3809--3812
+$[]$
  []
 
 
-Overfull \hbox (11.43918pt too wide) in paragraph at lines 2949--2949
- \TU/IBMPlexSerif(0)/m/n/10.95 puede significar |   [] o ayudante. ¿Ellos estab
-an siendo vistos como pecadores
+Overfull \hbox (21.9pt too wide) in paragraph at lines 3826--3829
+$[]$
  []
 
 
-Overfull \hbox (14.79475pt too wide) in paragraph at lines 2951--2951
- \TU/IBMPlexSerif(0)/m/n/10.95 por lo que el apóstol |   [] explicando el verda
-dero problema en los siguientes
- []
-
-
-Overfull \hbox (2.8476pt too wide) in paragraph at lines 2965--2965
- []\TU/IBMPlexSerif(0)/m/n/10.95 Si Pablo esta edificando, es decir, habilitand
-o nuevamente algo que él mismo destruyó
- []
-
-
-Overfull \hbox (13.39098pt too wide) in paragraph at lines 2977--2977
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo aclara esto mencionando la ley, |   [] q
-ue él estaría edificando nuevamente
- []
-
-
-Overfull \hbox (1.94456pt too wide) in paragraph at lines 2983--2983
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esto era lo que los creyentes judíos estaban h
-aciendo en Antioquía, estaban volviendo
- []
-
-
-Overfull \hbox (6.72826pt too wide) in paragraph at lines 2985--2985
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pero el problema es que solo los llevaría a se
-r hallados como pecadores y transgresores
- []
-
-
-Overfull \hbox (14.21686pt too wide) in paragraph at lines 2985--2985
- \TU/IBMPlexSerif(0)/m/n/10.95 de la ley. Ellos como creyentes estarían buscand
-o algo que ya les había sido |   []
+Overfull \hbox (21.9pt too wide) in paragraph at lines 3849--3852
+$[]$
  []
 
 
 
 [57]
-Overfull \hbox (7.18451pt too wide) in paragraph at lines 2993--2993
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo y los demás hermanos no tendrían que res
-ultar como pecadores y transgresores.
+Overfull \hbox (21.9pt too wide) in paragraph at lines 3866--3869
+$[]$
  []
 
 
-Overfull \hbox (11.47691pt too wide) in paragraph at lines 2993--2993
- \TU/IBMPlexSerif(0)/m/n/10.95 Pablo |   [] la nueva realidad que él y cualquie
-r creyente tiene como justificado
+Overfull \hbox (21.9pt too wide) in paragraph at lines 3889--3892
+$[]$
+ []
+
+
+Overfull \hbox (21.9pt too wide) in paragraph at lines 3904--3907
+$[]$
+ []
+
+
+Overfull \hbox (21.9pt too wide) in paragraph at lines 3921--3924
+$[]$
+ []
+
+
+Overfull \hbox (21.9pt too wide) in paragraph at lines 3938--3941
+$[]$
  []
 
 
 
 [58]
-Overfull \hbox (3.5552pt too wide) in paragraph at lines 3035--3035
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esta es ahora ahora nuestra realidad desde el 
-momento que creímos en Cristo. Hemos
- []
 
-
-Overfull \hbox (0.4167pt too wide) in paragraph at lines 3045--3045
- []\TU/IBMPlexSerif(0)/m/n/10.95 Éramos injustos, pecadores delante de Dios, me
-recedores de Su |   [] y no pudimos
- []
-
-
-
-[59]
-Overfull \hbox (31.58774pt too wide) in paragraph at lines 3085--3087
-[]\TU/IBMPlexSerif(0)/m/n/11 Estaban dando a entender que los creyentes gentile
-s y judíos eran diferentes,
- []
-
-
-Overfull \hbox (38.23499pt too wide) in paragraph at lines 3102--3102
- []\TU/IBMPlexSerif(0)/m/n/10.95 Y cuando ellos, ya siendo justificados de Dios
-, querían volver a la ley, estaban reconstruyendo
- []
-
-
-
-[60]
-Overfull \hbox (38.41339pt too wide) in paragraph at lines 3115--3117
-[]\TU/IBMPlexSerif(0)/m/n/11 Pablo presenta un evento donde la verdad del evang
-elio fue comprometida,
- []
-
-
-Overfull \hbox (40.53517pt too wide) in paragraph at lines 3115--3117
-\TU/IBMPlexSerif(0)/m/n/11 mostrando que incluso un apóstol como Pedro pudo act
-uar en contradicción
- []
-
-
-Overfull \hbox (9.9163pt too wide) in paragraph at lines 3119--3121
-\TU/IBMPlexSerif(0)/m/n/11 a los de la circuncisión, comunicando con su conduct
-a una separación
- []
-
-
-Overfull \hbox (30.97298pt too wide) in paragraph at lines 3123--3125
-[]\TU/IBMPlexSerif(0)/m/n/11 Esta acción no fue aislada, sino que arrastró a ot
-ros creyentes, incluyendo
- []
-
-
-Overfull \hbox (0.61766pt too wide) in paragraph at lines 3127--3129
-\TU/IBMPlexSerif(0)/m/n/11 conforme a la verdad del evangelio, ya que implicaba
- que los gentiles
- []
-
-
-Overfull \hbox (23.64775pt too wide) in paragraph at lines 3135--3137
-[]\TU/IBMPlexSerif(0)/m/n/11 Pablo aclara que tanto judíos como gentiles están 
-en la misma condición
- []
-
-
-Overfull \hbox (27.3914pt too wide) in paragraph at lines 3150--3152
-[]\TU/IBMPlexSerif(0)/m/n/11 Esta nueva realidad se define claramente: el creye
-nte ha sido crucificado
- []
-
-
-Overfull \hbox (6.34839pt too wide) in paragraph at lines 3157--3159
-[]\TU/IBMPlexSerif(0)/m/n/11 El problema en Antioquía no era solo una conducta 
-social incorrecta,
- []
-
-
-
-[61]
-Overfull \hbox (31.55554pt too wide) in paragraph at lines 3191--3191
- []\TU/IBMPlexSerif(0)/m/n/10.95 Insensato también podría traducirse como no | 
-  [] o carente de entendimiento.
- []
-
-
-Overfull \hbox (2.01491pt too wide) in paragraph at lines 3193--3193
- \TU/IBMPlexSerif(0)/m/n/10.95 de las obras de la ley. Pablo les |   [] una ser
-ie de preguntes para que comprendan
- []
-
-
-Overfull \hbox (14.24358pt too wide) in paragraph at lines 3219--3219
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo empezará a mostrarles por medio de pregu
-ntas lo necio que había sido abandonar
- []
-
-
-
-[62]
-Overfull \hbox (0.89584pt too wide) in paragraph at lines 3229--3229
- \TU/IBMPlexSerif(0)/b/n/10.95 oído y creído \TU/IBMPlexSerif(0)/m/n/10.95 el E
-vangelio de Cristo, no por intentar cumplir la ley. Romanos 10:16-17 
- []
-
-
-Overfull \hbox (4.60393pt too wide) in paragraph at lines 3271--3271
- []\TU/IBMPlexSerif(0)/m/n/10.95 Probablemente se refiera a los sufrimientos oc
-urridos por la persecución de parte
- []
-
-
-Overfull \hbox (2.46288pt too wide) in paragraph at lines 3271--3271
- \TU/IBMPlexSerif(0)/m/n/10.95 de los |   [] incrédulos, estos son mencionados 
-en el primer viaje misionero
- []
-
-
-
-[63]
-Overfull \hbox (13.44286pt too wide) in paragraph at lines 3275--3276
-[]\TU/IBMPlexSerif(0)/m/n/11 En Antioquía de Pisidia, probablemente los gentile
-s |   [] hayan
- []
-
-
-Overfull \hbox (12.17175pt too wide) in paragraph at lines 3283--3285
-\TU/IBMPlexSerif(0)/m/n/11 Sur, él menciona las tribulaciones que estaban pasan
-do. Hechos 14:21-22 
- []
-
-
-Overfull \hbox (20.07628pt too wide) in paragraph at lines 3290--3290
- []\TU/IBMPlexSerif(0)/m/n/10.95 Ahora que ellos estaban siendo engañados podrí
-a parecerles que todas esas experiencias
- []
-
-
-Overfull \hbox (2.26213pt too wide) in paragraph at lines 3290--3290
- \TU/IBMPlexSerif(0)/m/n/10.95 anteriores fueron |   [] (en vano), como si todo
- lo que vivieron hubiera perdido
- []
-
-
-Overfull \hbox (15.03564pt too wide) in paragraph at lines 3320--3320
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esta provisión de Dios de Su Espíritu y los | 
-  [] que Él hacía entre los hermanos,
- []
-
-
-
-[64]
-Overfull \hbox (30.73795pt too wide) in paragraph at lines 3330--3330
- \TU/IBMPlexSerif(0)/m/n/10.95 nos vienen a la mente |   [] como curación de en
-fermedades o señales sobrenaturales.
- []
-
-
-Overfull \hbox (5.67487pt too wide) in paragraph at lines 3347--3347
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo ahora mostrará un ejemplo a los hermanos
- gálatas, un ejemplo de Dios haciendo
- []
-
-
-Overfull \hbox (29.22102pt too wide) in paragraph at lines 3359--3359
- []\TU/IBMPlexSerif(0)/m/n/10.95 Recordando el problema que surgía en los herma
-nos gálatas, ellos habían sido persuadidos
- []
-
-
-
-[65]
-Overfull \hbox (2.3716pt too wide) in paragraph at lines 3363--3363
- []\TU/IBMPlexSerif(0)/m/n/10.95 Ahora Pablo continuará mostrando que Dios siem
-pre estuvo justificando, proveyendo
- []
-
-
-Overfull \hbox (9.07303pt too wide) in paragraph at lines 3382--3382
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo no está introduciendo una idea |   [] y 
-separada, sino diciendo: si Abraham
- []
-
-
-
-[66]
-Overfull \hbox (5.65446pt too wide) in paragraph at lines 3422--3422
- \TU/IBMPlexSerif(0)/m/n/10.95 dentro de los planes de Dios, nunca fue diferent
-e, y Dios lo |   [] estado revelando. 
- []
-
-
-Overfull \hbox (2.15996pt too wide) in paragraph at lines 3444--3444
- []\TU/IBMPlexSerif(0)/m/n/10.95 Entonces, solo la persona que cree es bendecid
-a (justificada) al igual que el bendecido
- []
-
-
-
-[67]
-Overfull \hbox (2.24211pt too wide) in paragraph at lines 3466--3466
-[]| \TU/IBMPlexSerif(2)/m/it/10.95 «…pues escrito está: MALDITO TODO EL QUE NO 
-PERMANECE EN TODAS LAS COSAS ESCRITAS
- []
-
-
-Overfull \hbox (20.50847pt too wide) in paragraph at lines 3472--3472
- []\TU/IBMPlexSerif(0)/m/n/10.95 El que depende de la ley para obtener justicia
-, esta obligado a cumplir cada mandamiento
- []
-
-
-
-[68]
-Overfull \hbox (0.41374pt too wide) in paragraph at lines 3510--3510
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo introduce un |   [] con lo que acaba de 
-afirmar en el versículo anterior. 
- []
-
-
-Overfull \hbox (15.28752pt too wide) in paragraph at lines 3520--3520
- []\TU/IBMPlexSerif(0)/m/n/10.95 El hecho de ir por medio de las obras de la le
-y para llegar a ser justificado no corresponde
- []
-
-
-Overfull \hbox (8.56787pt too wide) in paragraph at lines 3546--3546
- []\TU/IBMPlexSerif(0)/m/n/10.95 Ha mostrado la bendición relacionada con la fe
- y la situación de aquellos que dependen
- []
-
-
-
-[69]
-Overfull \hbox (15.78967pt too wide) in paragraph at lines 3564--3564
-[]| \TU/IBMPlexSerif(2)/m/it/10.95 «…habiéndose hecho maldición por nosotros, p
-orque escrito está: MALDITO TODO EL QUE CUELGA
- []
-
-
-
-[70]
-
-[71]
-Underfull \hbox (badness 1127) in paragraph at lines 3686--3688
-[]\TU/IBMPlexSerif(2)/m/it/10.95 « Lo que digo es esto: la ley, que vino 430 añ
-os más tarde, no invalida un pacto ratificado
- []
-
-
-Overfull \hbox (4.32956pt too wide) in paragraph at lines 3696--3696
-[]| \TU/IBMPlexSerif(2)/m/it/10.95 «…la ley, que vino 430 años más tarde, no in
-valida un pacto ratificado anteriormente por Dios,…» 
- []
-
-
-
-[72]
-Overfull \hbox (13.54431pt too wide) in paragraph at lines 3722--3722
- []\TU/IBMPlexSerif(0)/m/n/10.95 La herencia es el resultado de lo prometido en
- el pacto hacia Abraham, pero suponiendo
- []
-
-
-Overfull \hbox (12.10474pt too wide) in paragraph at lines 3730--3730
- []\TU/IBMPlexSerif(0)/m/n/10.95 El punto de Pablo no es enseñar cada |   [] de
-l pacto Abrahámico sino el principio
- []
-
-
-Overfull \hbox (1.65623pt too wide) in paragraph at lines 3734--3734
- \TU/IBMPlexSerif(0)/m/n/10.95 cuatro siglos después, su herencia no tiene ning
-una relación con lo que hizo Abraham
- []
-
-
-
-[73]
-Overfull \hbox (10.85239pt too wide) in paragraph at lines 3761--3761
- []\TU/IBMPlexSerif(0)/m/n/10.95 Si, la ley no tiene ningún efecto ante la prom
-esa, no la invalida, ni añade nada. Tampoco
- []
-
-
-Overfull \hbox (7.34755pt too wide) in paragraph at lines 3761--3761
- \TU/IBMPlexSerif(0)/m/n/10.95 es por medio de la ley que se |   [] la herencia
-. Entonces ¿Cual sería el propósito
- []
-
-
-Overfull \hbox (0.76294pt too wide) in paragraph at lines 3767--3767
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo menciona que la ley fue añadida con un p
-ropósito. En la Escritura encontramos
- []
-
-
-Overfull \hbox (1.73143pt too wide) in paragraph at lines 3775--3775
- []\TU/IBMPlexSerif(0)/m/n/10.95 Dios no dio la ley con el propósito de que |  
- [] viva bajo la ley permanentemente,
- []
-
-
-
-[74]
-
-[75]
-
-[76]
-Overfull \hbox (9.46602pt too wide) in paragraph at lines 3955--3955
- \TU/IBMPlexSerif(0)/m/n/10.95 la vez, en esta condición es incapaz de realizar
- o conseguir algo. Así es como estábamos
- []
-
-
-
-[77]
-Overfull \hbox (0.58833pt too wide) in paragraph at lines 4006--4009
-\TU/IBMPlexSerif(0)/m/n/11 comenzaron por el Espíritu al creer en Cristo crucif
-icado, pero ahora
- []
-
-
-Overfull \hbox (3.55136pt too wide) in paragraph at lines 4011--4013
-[]\TU/IBMPlexSerif(0)/m/n/11 A través de preguntas, Pablo los lleva a reconocer
- que tanto el recibir
- []
-
-
-Overfull \hbox (20.16731pt too wide) in paragraph at lines 4015--4017
-[]\TU/IBMPlexSerif(0)/m/n/11 Para afirmar esto, Pablo presenta a Abraham como e
-jemplo, mostrando
- []
-
-
-Overfull \hbox (40.64667pt too wide) in paragraph at lines 4015--4017
-\TU/IBMPlexSerif(0)/m/n/11 que la justificación siempre ha sido por la fe y no 
-por las obras, estableciendo
- []
-
-
-
-[78]
-Overfull \hbox (10.34937pt too wide) in paragraph at lines 4027--4029
-[]\TU/IBMPlexSerif(0)/m/n/11 A partir de esto, Pablo aclara que la promesa dada
- a Abraham precede
- []
-
-
-Overfull \hbox (22.93666pt too wide) in paragraph at lines 4035--4037
-\TU/IBMPlexSerif(0)/m/n/11 justificarse, pero esa condición tenía el propósito 
-de llevar a la revelación
- []
-
-
-
-[79]
-Overfull \hbox (9.96097pt too wide) in paragraph at lines 4086--4086
- []\TU/IBMPlexSerif(0)/m/n/10.95 Aquí aparece la identidad. Pablo y los gálatas
- ya no estaban |   [] ni confinados
- []
-
-
-
-[80]
-
-[81]
-
-[82]
-Overfull \hbox (13.94675pt too wide) in paragraph at lines 4318--4318
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esta declaración es solo para los que son de |
-   [] (creyentes). Pablo esta indicando
- []
-
-
-Overfull \hbox (10.45782pt too wide) in paragraph at lines 4322--4322
- []\TU/IBMPlexSerif(0)/m/n/10.95 Herederos, ellos también eran herederos, compa
-rtían |   [] una herencia provista
- []
-
-
-Overfull \hbox (4.35724pt too wide) in paragraph at lines 4324--4324
- []\TU/IBMPlexSerif(0)/m/n/10.95 Todo esto era |   [] la promesa, Pablo había m
-encionó anteriormente la promesa
- []
-
-
-Overfull \hbox (17.09573pt too wide) in paragraph at lines 4332--4332
- \TU/IBMPlexSerif(0)/m/n/10.95 desde el momento que creyó en el mensaje de Cris
-to crucificado, fue hecho descendiente
- []
-
-
-Overfull \hbox (10.18192pt too wide) in paragraph at lines 4332--4332
- \TU/IBMPlexSerif(0)/m/n/10.95 de Abraham, declarado justo, redimido de la mald
-ición de la ley, receptor de la promesa
- []
-
-
-
-[83]
-Overfull \hbox (34.85513pt too wide) in paragraph at lines 4348--4348
- \TU/IBMPlexSerif(0)/m/n/10.95 hijos utilizando como ejemplo una realidad le###
- Gálatas y social del mundo grecorromano
- []
-
-
-Overfull \hbox (25.58049pt too wide) in paragraph at lines 4354--4354
- []\TU/IBMPlexSerif(0)/m/n/10.95 Uno podía ser declarado como heredero pero aún
- ser |   [] como un inmaduro
- []
-
-
-Overfull \hbox (3.64911pt too wide) in paragraph at lines 4370--4370
- []\TU/IBMPlexSerif(0)/m/n/10.95 Guardianes EPÍTROPOS, eran los |   [] de guiar
- en la conducta, educación
- []
-
-
-Overfull \hbox (17.97452pt too wide) in paragraph at lines 4372--4372
- []\TU/IBMPlexSerif(0)/m/n/10.95 Tutores OIKONÓMOS eran los responsables de |  
- [] los bienes, propiedades,
- []
-
-
-
-[84]
-Underfull \hbox (badness 2005) in paragraph at lines 4430--4431
-[]\TU/IBMPlexSerif(0)/m/n/10 significa principio básico, o algo elemental. En e
-ste contexto enfatiza algo
- []
-
-
-Overfull \hbox (2.6792pt too wide) in paragraph at lines 4434--4434
- \TU/IBMPlexSerif(0)/m/n/10.95 Ellos solo |   [] sirviendo. Estaban bajo obedie
-ncia a las cosas incompletas.
- []
-
-
-
-[85]
-Overfull \hbox (32.18848pt too wide) in paragraph at lines 4476--4476
- []\TU/IBMPlexSerif(0)/m/n/10.95 En Gálatas 3:23 vimos que |   [] encerrados ba
-jo la ley, incapaces de justificarnos
- []
-
-
-
-[86]
-Overfull \hbox (0.68506pt too wide) in paragraph at lines 4496--4496
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa su argumento. No introduce una 
-|   [] aislada. Está desarrollando
- []
-
-
-Overfull \hbox (10.36974pt too wide) in paragraph at lines 4509--4509
- []\TU/IBMPlexSerif(0)/m/n/10.95 ¿Cómo sabemos que ahora somos hijos de Dios? |
-   [] hemos recibido el Espíritu
- []
-
-
-
-[87]
-Overfull \hbox (7.97658pt too wide) in paragraph at lines 4561--4561
- []\TU/IBMPlexSerif(0)/m/n/10.95 Dios envió a Su Hijo para |   [] a los que est
-aban bajo la ley y para que recibieran
- []
-
-
-Overfull \hbox (20.26273pt too wide) in paragraph at lines 4567--4567
- []\TU/IBMPlexSerif(0)/m/n/10.95 En conclusión ya no eres esclavo. Eso eras cua
-ndo estabas bajo la ley, bajo los rudimentos
- []
-
-
-Overfull \hbox (11.29927pt too wide) in paragraph at lines 4587--4587
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa la misma línea de pensamiento. 
-No introduce una idea aislada. Muestra
- []
-
-
-Overfull \hbox (6.88911pt too wide) in paragraph at lines 4587--4587
- \TU/IBMPlexSerif(0)/m/n/10.95 lo que necesariamente |   [] de ser hijo. Si est
-a realidad ya es verdadera, entonces
- []
-
-
-
-[88]
-Overfull \hbox (13.51971pt too wide) in paragraph at lines 4597--4597
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esta herencia dada de Dios no es como la de lo
-s romanos. Esta no esta en incertidumbre.
- []
-
-
-
-[89]
-Overfull \hbox (16.88988pt too wide) in paragraph at lines 4686--4686
- []\TU/IBMPlexSerif(0)/m/n/10.95 La palabra aquí para conocen o conocidos es GI
-NOSKO, el cual apunta a un conocimiento
- []
-
-
-
-[90]
-Overfull \hbox (31.18204pt too wide) in paragraph at lines 4696--4696
- []\TU/IBMPlexSerif(0)/m/n/10.95 Ellos gozaban de algo tan completo como conoce
-r y ser conocidos por Dios. Increíblemente,
- []
-
-
-Overfull \hbox (16.87889pt too wide) in paragraph at lines 4722--4722
- []\TU/IBMPlexSerif(0)/m/n/10.95 Por lo que ellos estarían siendo arrastrados |
-   [] guardar (observar) ciertos eventos
- []
-
-
-
-[91]
-Overfull \hbox (1.30801pt too wide) in paragraph at lines 4758--4758
- []\TU/IBMPlexSerif(0)/m/n/10.95 Respecto a su vida como gentiles paganos y aho
-ra el |   [] de guardar las normas
- []
-
-
-Overfull \hbox (0.44081pt too wide) in paragraph at lines 4795--4795
- []\TU/IBMPlexSerif(0)/m/n/10.95 La manera en la cual ellos habían sido |   [] 
-hacia cosas sin propósito, inútiles
- []
-
-
-
-[92]
-Overfull \hbox (20.12253pt too wide) in paragraph at lines 4803--4803
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo no está diciendo que el evangelio perdió
- su valor. Está expresando su preocupación
- []
-
-
-Overfull \hbox (20.89671pt too wide) in paragraph at lines 4828--4828
- []\TU/IBMPlexSerif(0)/m/n/10.95 La palabra hacerse GÍNOMAI en este |   [] enfa
-tiza adoptar una misma condición
- []
-
-
-Overfull \hbox (12.79456pt too wide) in paragraph at lines 4834--4834
- \TU/IBMPlexSerif(0)/m/n/10.95 tenían ninguna relación con una vida religiosa j
-udía y Pablo se hizo como ellos (gentiles)
- []
-
-
-Overfull \hbox (20.9085pt too wide) in paragraph at lines 4840--4840
- []\TU/IBMPlexSerif(0)/m/n/10.95 (Presente) En Gálatas 4:10 vemos que los herma
-nos |   [] se hicieron practicantes
- []
-
-
-
-[93]
-Overfull \hbox (4.22432pt too wide) in paragraph at lines 4866--4866
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo comenzará a recordarles eventos pasados 
-que |   [] con los hermanos
- []
-
-
-Overfull \hbox (12.05486pt too wide) in paragraph at lines 4872--4872
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo explica la circunstancia. No fue un |   
-[] estratégico inicial. Fue una situación
- []
-
-
-Overfull \hbox (4.25235pt too wide) in paragraph at lines 4880--4880
- \TU/IBMPlexSerif(0)/m/n/10.95 circunstancia para anunciar la verdad. Tuvo la o
-portunidad de compartirles la verdad
- []
-
-
-
-[94]
-Overfull \hbox (21.55211pt too wide) in paragraph at lines 4904--4904
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa su argumento. No introduce una 
-idea |   [] aislada. Está recordando
- []
-
-
-Overfull \hbox (16.0686pt too wide) in paragraph at lines 4918--4918
- []\TU/IBMPlexSerif(0)/m/n/10.95 El resultado de ellos haber recibido la verdad
- del Evangelio fue que ellos no despreciaron
- []
-
-
-
-[95]
-Overfull \hbox (34.67993pt too wide) in paragraph at lines 4996--4996
- \TU/IBMPlexSerif(0)/m/n/10.95 hasta estaban dispuestos a sacar sus propios ojo
-s y dárselos (probablemente su enfermedad
- []
-
-
-
-[96]
-Overfull \hbox (5.57121pt too wide) in paragraph at lines 5024--5024
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo ahora comienza a mostrar por |   [] de q
-uienes vino el mensaje de mentira
- []
-
-
-Overfull \hbox (7.03049pt too wide) in paragraph at lines 5026--5026
- []\TU/IBMPlexSerif(0)/m/n/10.95 Habían algunos que tenían celo por los gálatas
-, es |   [], mostraban mucho interés
- []
-
-
-Overfull \hbox (26.3397pt too wide) in paragraph at lines 5034--5034
- []\TU/IBMPlexSerif(0)/m/n/10.95 El interés de estos engañadores no era ni siqu
-iera del mensaje de mentira que compartían,
- []
-
-
-Overfull \hbox (6.30275pt too wide) in paragraph at lines 5058--5058
-[]| \TU/IBMPlexSerif(2)/m/it/10.95 «Hijos míos, por quienes de nuevo sufro dolo
-res de parto hasta que Cristo sea formado en ustedes,» 
- []
-
-
-
-[97]
-Overfull \hbox (11.99155pt too wide) in paragraph at lines 5084--5084
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo expresa un deseo directo: él quiere |   
-[] con ellos en ese momento,
- []
-
-
-Overfull \hbox (25.53818pt too wide) in paragraph at lines 5086--5086
- []\TU/IBMPlexSerif(0)/m/n/10.95 No está hablando de una posibilidad futura lej
-ana, sino de un deseo inmediato: |   []. 
- []
-
-
-Overfull \hbox (27.08212pt too wide) in paragraph at lines 5090--5090
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo añade otro deseo junto al anterior: no s
-olo estar presente, sino también |   []
- []
-
-
-
-[98]
-Overfull \hbox (10.25926pt too wide) in paragraph at lines 5125--5125
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continuará dirigiéndose a los hermanos g
-álatas, |   [] de una manera general
- []
-
-
-Overfull \hbox (21.5756pt too wide) in paragraph at lines 5127--5127
- []\TU/IBMPlexSerif(0)/m/n/10.95 El verbo oír AKOÚO no solo enfatiza a escuchar
- algo sino también llegar a |   [].
- []
-
-
-Overfull \hbox (10.14464pt too wide) in paragraph at lines 5129--5129
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo quiere enfatizar que si ellos entendiera
-n lo que significa estar bajo la ley entonces
- []
-
-
-Overfull \hbox (10.60089pt too wide) in paragraph at lines 5131--5131
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo comenzará hablarles sobre un evento de l
-a Escritura para ejemplificar la realidad
- []
-
-
-Overfull \hbox (22.15099pt too wide) in paragraph at lines 5143--5143
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo presenta un evento que se |   [] en las 
-Escrituras, y es sobre el nacimiento
- []
-
-
-Overfull \hbox (19.5865pt too wide) in paragraph at lines 5159--5159
- \TU/IBMPlexSerif(0)/m/n/10.95 estos dos hijos, no solo nacieron de madres dife
-rentes, sino que también sus nacimientos
- []
-
-
-
-[99]
-Overfull \hbox (5.32596pt too wide) in paragraph at lines 5175--5175
- \TU/IBMPlexSerif(0)/m/n/10.95 debía confiar en la |   [], Dios aún no le había
- dicho, cómo o cuándo sucedería,
- []
-
-
-Overfull \hbox (2.80328pt too wide) in paragraph at lines 5183--5183
- \TU/IBMPlexSerif(0)/m/n/10.95 concibió de Abraham. Este acto por |   [] de Abr
-aham y Sara trajo consecuencias
- []
-
-
-Overfull \hbox (13.51141pt too wide) in paragraph at lines 5191--5191
- []\TU/IBMPlexSerif(0)/m/n/10.95 Génesis 17:17-21, muestra cómo Abraham se enco
-ntraba dudoso respecto a la promesa
- []
-
-
-
-[100]
-Overfull \hbox (0.30939pt too wide) in paragraph at lines 5211--5211
- |   [] \TU/IBMPlexSerif(0)/m/n/10.95 de Pablo, no es por iniciativa propia sin
-o por inspiración del Espíritu Santo,
- []
-
-
-Overfull \hbox (26.13531pt too wide) in paragraph at lines 5231--5231
- \TU/IBMPlexSerif(0)/m/n/10.95 llega al monte Sinaí y Dios comienza a |   [] un
- pacto condicionado al cumplimiento
- []
-
-
-
-[101]
-Overfull \hbox (8.61826pt too wide) in paragraph at lines 5243--5243
- \TU/IBMPlexSerif(0)/m/n/10.95 personas esclavas, gente |   [] a ser vistas com
-o transgresoras de la ley, buscando
- []
-
-
-Overfull \hbox (4.89888pt too wide) in paragraph at lines 5245--5245
- \TU/IBMPlexSerif(0)/m/n/10.95 condición es esclavitud, por lo que su andar est
-ará ligado a aquello, vivir como esclavo. 
- []
-
-
-Overfull \hbox (14.64293pt too wide) in paragraph at lines 5265--5265
- \TU/IBMPlexSerif(0)/m/n/10.95 Jerusalén) se encontraban con un corazón |   [] 
-hacia Dios, habiendo ignorado
- []
-
-
-
-[102]
-Overfull \hbox (14.08669pt too wide) in paragraph at lines 5333--5333
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esto es una realidad para cualquier persona qu
-e a creído en la |   [] del Evangelio. 
- []
-
-
-
-[103]
-
-[104]
-Overfull \hbox (19.23976pt too wide) in paragraph at lines 5455--5455
- []\TU/IBMPlexSerif(0)/m/n/10.95 La madre de los |   [], la Jerusalén libre y c
-elestial debe regocijarse, prorrumpir
- []
-
-
-
-[105]
-
-[106]
-
-[107]
-
-[108]
-Overfull \hbox (15.45105pt too wide) in paragraph at lines 5723--5723
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo aclara que ellos y él, no eran hijos de 
-la esclava sino de la libre, ellos no pertenecían
- []
-
-
-Overfull \hbox (7.18527pt too wide) in paragraph at lines 5725--5725
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esto es lo que eres creyente, libre, porque er
-es hijo de la libre, perteneces a la Jerusalén
- []
-
-
-
-[109]
-Overfull \hbox (26.33716pt too wide) in paragraph at lines 5736--5738
-\TU/IBMPlexSerif(0)/m/n/11 ley, sino que ahora es hijo de Dios por medio de la 
-fe en Cristo, identificado
- []
-
-
-Overfull \hbox (0.85452pt too wide) in paragraph at lines 5740--5742
-\TU/IBMPlexSerif(0)/m/n/11 creyentes son uno en Cristo y participan de la misma
- promesa hecha
- []
-
-
-Overfull \hbox (3.55002pt too wide) in paragraph at lines 5762--5764
-[]\TU/IBMPlexSerif(0)/m/n/11 Este retroceso no es solo doctrinal, sino relacion
-al, ya que el rechazo
- []
-
-
-Overfull \hbox (16.50165pt too wide) in paragraph at lines 5762--5764
-\TU/IBMPlexSerif(0)/m/n/11 del evangelio produce distanciamiento, incluso hacia
- quien les anunció
- []
-
-
-Overfull \hbox (3.80763pt too wide) in paragraph at lines 5778--5780
-\TU/IBMPlexSerif(0)/m/n/11 que los creyentes pertenecen a la libertad, siendo h
-ijos de la promesa
- []
-
-
-Overfull \hbox (24.63773pt too wide) in paragraph at lines 5786--5788
-[]\TU/IBMPlexSerif(0)/m/n/11 La conclusión es clara: no hay mezcla posible entr
-e estas dos realidades,
- []
-
-
-Overfull \hbox (12.73375pt too wide) in paragraph at lines 5790--5792
-\TU/IBMPlexSerif(0)/m/n/11 esclavitud, sino de libertad, una realidad que provi
-ene completamente
- []
-
-
-
-[110]
-Overfull \hbox (12.19005pt too wide) in paragraph at lines 5805--5809
-\TU/IBMPlexSerif(0)/m/n/11 Ser declarados justos, recibir el Espíritu Santo, se
-r benditos, ser hijos de Dios, ser herederos
- []
-
-
-Overfull \hbox (29.40498pt too wide) in paragraph at lines 5829--5829
- []\TU/IBMPlexSerif(0)/m/n/10.95 Ellos fueron hechos libres por medio de Cristo
-, con un propósito, para vivir en |   [],
- []
-
-
-
-[111]
-Overfull \hbox (7.19325pt too wide) in paragraph at lines 5851--5851
- []\TU/IBMPlexSerif(0)/m/n/10.95 Este verbo esta en presente-activo-imperativo,
- por lo que \TU/IBMPlexSerif(0)/b/n/10.95 ellos \TU/IBMPlexSerif(0)/m/n/10.95 m
-ismos (activo) \TU/IBMPlexSerif(0)/b/n/10.95 debían
- []
-
-
-Overfull \hbox (5.91429pt too wide) in paragraph at lines 5859--5859
- []\TU/IBMPlexSerif(0)/m/n/10.95 Los |   [] gálatas estuvieron bajo esclavitud 
-cuando eran incrédulos (Gálatas
- []
-
-
-Overfull \hbox (31.36572pt too wide) in paragraph at lines 5871--5871
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo |   [] mostrando de manera más clara com
-o alguien no estaría experimentando
- []
-
-
-
-[112]
-Overfull \hbox (21.66551pt too wide) in paragraph at lines 5932--5932
- []\TU/IBMPlexSerif(0)/m/n/10.95 En el contexto, |   [] confiar en la circuncis
-ión como requisito para la justificación. 
- []
-
-
-
-[113]
-Overfull \hbox (16.09198pt too wide) in paragraph at lines 5966--5966
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pero si un creyente (alguien ya justificado) s
-e circuncidaba para ser justificado, entonces
- []
-
-
-Overfull \hbox (27.77048pt too wide) in paragraph at lines 5972--5972
- []\TU/IBMPlexSerif(0)/m/n/10.95 Está mostrando que introducir la circuncisión 
-como requisito |   [] completamente
- []
-
-
-Overfull \hbox (6.62021pt too wide) in paragraph at lines 5990--5990
- |   [] \TU/IBMPlexSerif(0)/m/n/10.95 que se circuncida, que busca la justifica
-ción por medio de la circuncisión. 
- []
-
-
-
-[114]
-Overfull \hbox (20.86472pt too wide) in paragraph at lines 6012--6012
- []\TU/IBMPlexSerif(0)/m/n/10.95 Es importante entender que Pablo no esta ponie
-ndo en duda la salvación de los hermanos
- []
-
-
-Overfull \hbox (28.69423pt too wide) in paragraph at lines 6016--6016
- []\TU/IBMPlexSerif(2)/m/it/10.95 «De Cristo se han separado...» \TU/IBMPlexSer
-if(0)/m/n/10.95 Eso era lo que ellos experimentaban, algo que no |   []
- []
-
-
-Overfull \hbox (4.36696pt too wide) in paragraph at lines 6016--6016
- \TU/IBMPlexSerif(0)/m/n/10.95 de Cristo, no estaban aprovechando de Cristo. El
-los no estaban permaneciendo firmes
- []
-
-
-Overfull \hbox (5.14928pt too wide) in paragraph at lines 6022--6022
- []\TU/IBMPlexSerif(0)/m/n/10.95 No |   [] se habían separado de Cristo, sino q
-ue eso también significaba que habían
- []
-
-
-Overfull \hbox (12.87636pt too wide) in paragraph at lines 6024--6024
- []\TU/IBMPlexSerif(0)/m/n/10.95 Gálatas 2:16 muestra que la justificación dela
-nte de Dios el Padre, solo es por |   []
- []
-
-
-Overfull \hbox (19.9077pt too wide) in paragraph at lines 6028--6028
- \TU/IBMPlexSerif(0)/m/n/10.95 ningún tipo de |   [], ahora no la estaban exper
-imentando, ya que estaban buscando
- []
-
-
-Overfull \hbox (33.07422pt too wide) in paragraph at lines 6028--6028
- \TU/IBMPlexSerif(0)/m/n/10.95 justicia fuera de la gracia de Dios, fuera de la
- persona de Cristo. No estaban experimentando
- []
-
-
-
-[115]
-
-[116]
-Overfull \hbox (7.20888pt too wide) in paragraph at lines 6096--6096
- \TU/IBMPlexSerif(0)/m/n/10.95 habían escuchado y creído el evangelio cuando Pa
-blo les |   []. Gálatas 4:13-14 
- []
-
-
-
-[117]
-Overfull \hbox (17.78923pt too wide) in paragraph at lines 6140--6140
- []\TU/IBMPlexSerif(0)/m/n/10.95 Cambiar solo un poco del mensaje de Cristo, pu
-ede llevar al creyente a no estar confiando
- []
-
-
-Overfull \hbox (21.31146pt too wide) in paragraph at lines 6162--6162
- \TU/IBMPlexSerif(0)/m/n/10.95 indistintamente de aquello, transmitir un mensaj
-e pervertido del evangelio de |   []
- []
-
-
-Overfull \hbox (11.82512pt too wide) in paragraph at lines 6176--6176
- []\TU/IBMPlexSerif(0)/m/n/10.95 Se dirige directamente a los creyentes, mostra
-ndo que lo que va a |   [] es relevante
- []
-
-
-
-[118]
-Overfull \hbox (13.78888pt too wide) in paragraph at lines 6238--6238
- []\TU/IBMPlexSerif(0)/m/n/10.95 El escándalo de la cruz sigue presente, lo que
- indica que el mensaje no ha sido suavizado
- []
-
-
-
-[119]
-Overfull \hbox (5.972pt too wide) in paragraph at lines 6268--6268
- \TU/IBMPlexSerif(0)/m/n/10.95 engaño, cambiando la |   [] de Cristo, no deberí
-an quedarse con la circuncisión,
- []
-
-
-Overfull \hbox (25.18982pt too wide) in paragraph at lines 6287--6289
-[]\TU/IBMPlexSerif(0)/m/n/11 A partir de esta realidad, Pablo exhorta a permane
-cer firmes, mostrando
- []
-
-
-Overfull \hbox (30.27707pt too wide) in paragraph at lines 6291--6293
-[]\TU/IBMPlexSerif(0)/m/n/11 Luego presenta el caso concreto que enfrentaban: a
-ceptar la circuncisión
- []
-
-
-Overfull \hbox (9.0693pt too wide) in paragraph at lines 6291--6293
-\TU/IBMPlexSerif(0)/m/n/11 como requisito para la justificación, lo cual no aña
-de beneficio alguno,
- []
-
-
-
-[120]
-Overfull \hbox (8.2587pt too wide) in paragraph at lines 6311--6313
-[]\TU/IBMPlexSerif(0)/m/n/11 Pablo entonces identifica el problema: los gálatas
- habían comenzado
- []
-
-
-Overfull \hbox (4.39838pt too wide) in paragraph at lines 6319--6321
-[]\TU/IBMPlexSerif(0)/m/n/11 A pesar de esto, Pablo expresa confianza en que vo
-lverán a la verdad,
- []
-
-
-Overfull \hbox (24.78683pt too wide) in paragraph at lines 6319--6321
-\TU/IBMPlexSerif(0)/m/n/11 mientras que los que los perturban enfrentarán el ju
-icio correspondiente
- []
-
-
-Overfull \hbox (14.57784pt too wide) in paragraph at lines 6323--6325
-[]\TU/IBMPlexSerif(0)/m/n/11 Finalmente, Pablo defiende su mensaje mostrando qu
-e la persecución
- []
-
-
-Overfull \hbox (17.48036pt too wide) in paragraph at lines 6327--6330
-[]\TU/IBMPlexSerif(0)/m/n/11 La sección culmina con una declaración fuerte cont
-ra los que engañan,
- []
-
-
-Overfull \hbox (33.08855pt too wide) in paragraph at lines 6351--6351
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo estaba siendo muy duro contra el mensaje
- mentiroso (Gálatas 4:30) y los engañadores
- []
-
-
-Overfull \hbox (27.34709pt too wide) in paragraph at lines 6351--6351
- \TU/IBMPlexSerif(0)/m/n/10.95 mismos (Gálatas 5:12) |   [] estaban llevando a 
-los hermanos hacia un pensamiento
- []
-
-
-
-[121]
-Overfull \hbox (2.30742pt too wide) in paragraph at lines 6375--6375
- []\TU/IBMPlexSerif(0)/m/n/10.95 Como ya mostro en Gálatas 5:6a, lo externo rea
-lmente no significaban nada, no tenían
- []
-
-
-Overfull \hbox (1.39954pt too wide) in paragraph at lines 6375--6375
- \TU/IBMPlexSerif(0)/m/n/10.95 ningún poder. Pero Gálatas 5:6b, *la fe que obra
- por amor un creyente que permanece
- []
-
-
-Overfull \hbox (15.64886pt too wide) in paragraph at lines 6377--6377
- []\TU/IBMPlexSerif(0)/m/n/10.95 La libertad de Cristo en los creyentes se ve e
-xperimentada en el servicio de los creyentes,
- []
-
-
-
-[122]
-Overfull \hbox (0.41374pt too wide) in paragraph at lines 6455--6455
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo introduce un |   [] con lo que acaba de 
-afirmar en el versículo anterior. 
- []
-
-
-
-[123]
-Overfull \hbox (3.05147pt too wide) in paragraph at lines 6520--6520
- \TU/IBMPlexSerif(0)/m/n/10.95 o pasear. Muchas veces es utilizado figurativame
-nte para |   [] la conducta
- []
-
-
-
-[124]
-Overfull \hbox (23.82265pt too wide) in paragraph at lines 6526--6526
- []\TU/IBMPlexSerif(0)/m/n/10.95 Nótese, que Pablo no esta diciendo anden hacie
-ndo buenas obras y/o anden buscando
- []
-
-
-Overfull \hbox (10.56105pt too wide) in paragraph at lines 6526--6526
- \TU/IBMPlexSerif(0)/m/n/10.95 no pecar, él no esta diciendo exactamente eso. E
-s importante hacer esta diferencia,
- []
-
-
-Overfull \hbox (6.98732pt too wide) in paragraph at lines 6530--6532
-[]\TU/IBMPlexSerif(0)/m/n/11 En Gálatas 3:2, 14, vimos que Pablo recordó a los 
-creyentes cómo habían
- []
-
-
-Overfull \hbox (27.17819pt too wide) in paragraph at lines 6538--6540
-[]\TU/IBMPlexSerif(0)/m/n/11 En Gálatas 3:5, vemos que Dios había milagros entr
-e ellos y les suministraba
- []
-
-
-Overfull \hbox (24.12563pt too wide) in paragraph at lines 6547--6552
-\TU/IBMPlexSerif(0)/m/n/11 habían nacido de la libre, por medio de la promesa, 
-es decir, sin intervención
- []
-
-
-Overfull \hbox (3.16867pt too wide) in paragraph at lines 6547--6552
-\TU/IBMPlexSerif(0)/m/n/11 o fuerza humana sino por medio del poder de |   []. 
-En otra palabras
- []
-
-
-Overfull \hbox (17.39331pt too wide) in paragraph at lines 6560--6563
-[]\TU/IBMPlexSerif(0)/m/n/11 Pero en Gálatas 5:5-6, vemos una realidad totalmen
-te diferente, creyentes
- []
-
-
-Overfull \hbox (5.96545pt too wide) in paragraph at lines 6560--6563
-\TU/IBMPlexSerif(0)/m/n/11 viviendo en la |   [] de Cristo. Y se refería a crey
-entes disfrutando
- []
-
-
-Overfull \hbox (24.45145pt too wide) in paragraph at lines 6566--6566
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo aclara que esa realidad estaba siendo \T
-U/IBMPlexSerif(0)/b/n/10.95 por medio del Espíritu\TU/IBMPlexSerif(0)/m/n/10.95
- . Una |   []
- []
-
-
-Overfull \hbox (8.77739pt too wide) in paragraph at lines 6568--6568
- []\TU/IBMPlexSerif(0)/m/n/10.95 Repasando estos versículos nos ayudarán a ente
-nder, que un andar por el |   [],
- []
-
-
-Overfull \hbox (15.05173pt too wide) in paragraph at lines 6576--6576
- []\TU/IBMPlexSerif(0)/m/n/10.95 Si los creyentes andaban por el Espíritu, en e
-sos |   [] no estarían cumpliendo
- []
-
-
-
-[125]
-Overfull \hbox (15.89487pt too wide) in paragraph at lines 6580--6580
- []\TU/IBMPlexSerif(0)/m/n/10.95 Aun que algunas traducciones lo |   [] como: *
-Digo, pues: Andad en el Espíritu,
- []
-
-
-Overfull \hbox (33.60468pt too wide) in paragraph at lines 6584--6584
- []\TU/IBMPlexSerif(0)/m/n/10.95 Si los creyentes gálatas |   [] por el Espírit
-u, entonces no estarían satisfaciendo
- []
-
-
-
-[126]
-Overfull \hbox (8.81755pt too wide) in paragraph at lines 6676--6676
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esta contrariedad entre el deseo de la carne y
- del Espíritu es tan radical, que el creyente
- []
-
-
-
-[127]
-Overfull \hbox (5.66614pt too wide) in paragraph at lines 6698--6698
- []\TU/IBMPlexSerif(0)/m/n/10.95 Viene de la realidad del versículo 17 (oposici
-ón entre carne y Espíritu) y ahora muestra
- []
-
-
-Overfull \hbox (9.17157pt too wide) in paragraph at lines 6736--6736
- []\TU/IBMPlexSerif(0)/m/n/10.95 Bautizados en Cristo, ahora |   [] sido provis
-to de una nueva realidad de libertad. 
- []
-
-
-
-[128]
-Underfull \hbox (badness 2035) in paragraph at lines 6765--6767
-[]\TU/IBMPlexSerif(2)/m/it/10.95 « Ahora bien, las obras de la carne son eviden
-tes, las cuales son: inmoralidad, impureza,
- []
-
-
-
-[129]
-Overfull \hbox (5.96906pt too wide) in paragraph at lines 6829--6829
- []\TU/IBMPlexSerif(0)/m/n/10.95 Indica un sentimiento intenso de |   [] o rese
-ntimiento ante lo que otro posee. 
- []
-
-
-Overfull \hbox (52.4423pt too wide) in paragraph at lines 6835--6835
- []\TU/IBMPlexSerif(0)/m/n/10.95 Hace referencia a explosiones emocionales de |
-   [], reacciones impulsivas y descontroladas. 
- []
-
-
-Overfull \hbox (2.24388pt too wide) in paragraph at lines 6841--6841
- []\TU/IBMPlexSerif(0)/m/n/10.95 Se refiere a una búsqueda interesada del benef
-icio |   [], aun causando división
- []
-
-
-Overfull \hbox (14.28984pt too wide) in paragraph at lines 6847--6847
- []\TU/IBMPlexSerif(0)/m/n/10.95 Indica |   [] internas. Rupturas causadas por 
-desacuerdos o bandos opuestos,
- []
-
-
-
-[130]
-
-[131]
-Overfull \hbox (0.67801pt too wide) in paragraph at lines 6961--6961
- []\TU/IBMPlexSerif(0)/m/n/10.95 Sino que siempre es confirmado por las Escritu
-ras, ya que es por |   [] de Cristo. 
- []
-
-
-Overfull \hbox (5.75517pt too wide) in paragraph at lines 6965--6965
- []\TU/IBMPlexSerif(0)/m/n/10.95 Cuando un creyente no este andando por el Espí
-ritu, |   [] satisfará los deseos
- []
-
-
-Overfull \hbox (13.4479pt too wide) in paragraph at lines 6971--6971
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo describe |   [] no herederos del Reino a
- aquellos cuya vida está caracterizada
- []
-
-
-
-[132]
-Overfull \hbox (10.16293pt too wide) in paragraph at lines 6990--6990
- []\TU/IBMPlexSerif(0)/m/n/10.95 Una realidad distinta de cuando un creyente an
-da por el Espíritu es el fruto del Espíritu.
- []
-
-
-Overfull \hbox (3.85353pt too wide) in paragraph at lines 7000--7000
- []\TU/IBMPlexSerif(0)/m/n/10.95 No se refiere a una atracción emocional, amor 
-condicionado o sentimiento romántico.
- []
-
-
-Overfull \hbox (5.92671pt too wide) in paragraph at lines 7006--7006
- \TU/IBMPlexSerif(0)/m/n/10.95 refiere un gozo independiente de circunstancias,
- que |   [] en las dificultades.
- []
-
-
-Overfull \hbox (8.72992pt too wide) in paragraph at lines 7012--7012
- []\TU/IBMPlexSerif(0)/m/n/10.95 No se refiere a una paz que viene de circunsta
-ncias controladas, ausencia de conflictos,
- []
-
-
-Overfull \hbox (31.84636pt too wide) in paragraph at lines 7012--7012
- \TU/IBMPlexSerif(0)/m/n/10.95 comodidad |   [] o sensación de seguridad humana
-. Se refiere a una tranquilidad
- []
-
-
-Overfull \hbox (1.0966pt too wide) in paragraph at lines 7018--7018
- []\TU/IBMPlexSerif(0)/m/n/10.95 No se refiere a pasividad, resignación o debil
-idad. Se refiere a soportar sin reaccionar
- []
-
-
-Overfull \hbox (11.04062pt too wide) in paragraph at lines 7018--7018
- \TU/IBMPlexSerif(0)/m/n/10.95 impulsivamente, lento para airarse, |   [] estab
-le. Colosenses 1:11;1 Timoteo
- []
-
-
-Overfull \hbox (9.61107pt too wide) in paragraph at lines 7030--7030
- \TU/IBMPlexSerif(0)/m/n/10.95 refiere a una actitud constante hacia lo |   [],
- generosa, sin buscar nada a cambio.
- []
-
-
-
-[133]
-Overfull \hbox (6.11317pt too wide) in paragraph at lines 7048--7048
- []\TU/IBMPlexSerif(0)/m/n/10.95 No se refiere a debilidad, timidez, falta de c
-arácter o pasividad. Se refiere una fortaleza
- []
-
-
-Overfull \hbox (15.90584pt too wide) in paragraph at lines 7054--7054
- []\TU/IBMPlexSerif(0)/m/n/10.95 No se refiere a una autodisciplina humana, |  
- [] evitar cualquier tipo de emoción,
- []
-
-
-Overfull \hbox (28.20268pt too wide) in paragraph at lines 7056--7056
- []\TU/IBMPlexSerif(0)/m/n/10.95 Todo esto es el fruto del Espíritu Santo, un c
-reyente que anda por el Espíritu experimentará
- []
-
-
-
-[134]
-Overfull \hbox (0.76927pt too wide) in paragraph at lines 7097--7097
- []\TU/IBMPlexSerif(0)/m/n/10.95 Por Gálatas 3:26-27, 29 podemos ver que Pablo 
-se esta refiriendo a |   [] creyente. 
- []
-
-
-Overfull \hbox (43.01288pt too wide) in paragraph at lines 7113--7113
- []\TU/IBMPlexSerif(0)/m/n/10.95 Este |   [] crucificar (figurativamente podría
- indicar condena o separación permanente)
- []
-
-
-
-[135]
-Overfull \hbox (11.96016pt too wide) in paragraph at lines 7141--7141
- []|   [] \TU/IBMPlexSerif(0)/m/n/10.95 esta acción ya es un hecho y es para to
-dos los que son de Cristo, considerando
- []
-
-
-Overfull \hbox (12.95444pt too wide) in paragraph at lines 7177--7177
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo se incluye en esta declaración, ya que e
-ra por el Espíritu que ellos vivían, entonces
- []
-
-
-Overfull \hbox (31.3818pt too wide) in paragraph at lines 7183--7183
- []\TU/IBMPlexSerif(0)/m/n/10.95 Por medio de lo que el Padre proveyó a sus hij
-os en Cristo, es que ellos pueden experimentar
- []
-
-
-
-[136]
-Overfull \hbox (0.88458pt too wide) in paragraph at lines 7185--7185
- \TU/IBMPlexSerif(0)/m/n/10.95 anteriormente por Pablo |   [] ser considerado t
-ambién en estos últimos pasajes. 
- []
-
-
-Overfull \hbox (3.4593pt too wide) in paragraph at lines 7191--7191
- []\TU/IBMPlexSerif(0)/m/n/10.95 Entonces esto resultará en lo que dirá a conti
-nuación, las |   [] declaraciones
- []
-
-
-Overfull \hbox (0.12094pt too wide) in paragraph at lines 7205--7205
- []\TU/IBMPlexSerif(0)/m/n/10.95 La palabra vanagloriosos en |   [] es KENÓDOXO
-S que se refiere a una jactancia
- []
-
-
-Overfull \hbox (13.00992pt too wide) in paragraph at lines 7207--7207
- []\TU/IBMPlexSerif(0)/m/n/10.95 Si ellos no andaban por el Espíritu entonces s
-u manera de pensar sería de una confianza
- []
-
-
-
-[137]
-Overfull \hbox (13.58337pt too wide) in paragraph at lines 7239--7241
-[]\TU/IBMPlexSerif(0)/m/n/11 A partir de esto, Pablo presenta la clave práctica
-: andar por el Espíritu,
- []
-
-
-Overfull \hbox (2.57687pt too wide) in paragraph at lines 7255--7257
-[]\TU/IBMPlexSerif(0)/m/n/11 En contraste, el Espíritu produce un solo fruto qu
-e refleja el carácter
- []
-
-
-Overfull \hbox (10.40303pt too wide) in paragraph at lines 7267--7269
-[]\TU/IBMPlexSerif(0)/m/n/11 Por lo tanto, si el creyente vive por el Espíritu,
- lo lógico es que también
- []
-
-
-Overfull \hbox (21.90263pt too wide) in paragraph at lines 7267--7269
-\TU/IBMPlexSerif(0)/m/n/11 ande por el Espíritu, mostrando coherencia entre su 
-origen y su práctica. 
- []
-
-
-Overfull \hbox (7.82753pt too wide) in paragraph at lines 7271--7274
-[]\TU/IBMPlexSerif(0)/m/n/11 Finalmente, Pablo concluye mostrando cómo se ve es
-to en la práctica
- []
-
-
-
-[138]
-Overfull \hbox (23.71323pt too wide) in paragraph at lines 7303--7303
- \TU/IBMPlexSerif(0)/m/n/10.95 RVA1989: \TU/IBMPlexSerif(2)/m/it/10.95 «Hermano
-s, en caso de que alguien se encuentre enredado en alguna transgresión,...» 
- []
-
-
-Overfull \hbox (3.80095pt too wide) in paragraph at lines 7307--7307
- []\TU/IBMPlexSerif(0)/m/n/10.95 Vemos necesario aclarar que el |   [] no es un
- grupo de creyentes descubriendo
- []
-
-
-Overfull \hbox (18.01334pt too wide) in paragraph at lines 7315--7315
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo da por hecho el estado presente de los h
-ermanos, |   [] espirituales, creyentes
- []
-
-
-Overfull \hbox (9.26285pt too wide) in paragraph at lines 7323--7323
- []\TU/IBMPlexSerif(0)/m/n/10.95 El enfoque de la restauración esta en el creye
-nte no en la transgresión, prestar atención
- []
-
-
-Overfull \hbox (3.1172pt too wide) in paragraph at lines 7325--7325
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esto continua con el panorama de trato unos a 
-|   []. ¿Cómo debería ser realizado
- []
-
-
-
-[139]
-Overfull \hbox (2.1234pt too wide) in paragraph at lines 7341--7341
- []\TU/IBMPlexSerif(0)/m/n/10.95 Cualquier creyente puede estar enredado en tra
-nsgresión, por lo que estar consientes
- []
-
-
-Overfull \hbox (8.72112pt too wide) in paragraph at lines 7353--7353
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo introduce una exhortación en tiempo pres
-ente que describe una acción continua
- []
-
-
-Overfull \hbox (33.99985pt too wide) in paragraph at lines 7353--7353
- \TU/IBMPlexSerif(0)/m/n/10.95 grupal. La palabra carga |   [] un peso que resu
-lta difícil de llevar individualmente.. 
- []
-
-
-Overfull \hbox (8.14445pt too wide) in paragraph at lines 7355--7355
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo manda que los hermanos lleven las cargas
- que están oprimiendo a los hermanos,
- []
-
-
-Overfull \hbox (0.91527pt too wide) in paragraph at lines 7359--7359
- \TU/IBMPlexSerif(0)/m/n/10.95 ayuda de |   [], no es algo que vino individualm
-ente del creyente que estaba
- []
-
-
-Overfull \hbox (0.6211pt too wide) in paragraph at lines 7367--7367
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esas acciones expresadas entre hermanos, unos 
-por otros, va de acuerdo a la realidad
- []
-
-
-
-[140]
-Overfull \hbox (7.029pt too wide) in paragraph at lines 7383--7383
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esta realidad también podemos verla en estos p
-asajes de Gálatas, creyentes amándose
- []
-
-
-Overfull \hbox (36.76291pt too wide) in paragraph at lines 7383--7383
- \TU/IBMPlexSerif(0)/m/n/10.95 unos a otros con el |   [] de Dios. En términos 
-de Gálatas son creyentes experimentando
- []
-
-
-
-[141]
-Overfull \hbox (10.14832pt too wide) in paragraph at lines 7461--7461
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pero por medio del Espíritu el |   [] puede ex
-aminar solo lo que debe examinar,
- []
-
-
-Overfull \hbox (7.08012pt too wide) in paragraph at lines 7473--7473
- []\TU/IBMPlexSerif(0)/m/n/10.95 ¿Porqué por el Espíritu, examinarían su |   []
- obra y podrían gozarse en aquello? 
- []
-
-
-
-[142]
-Overfull \hbox (6.32455pt too wide) in paragraph at lines 7533--7533
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo muestra algo muy interesante, los |   []
- también pueden experimentar
- []
-
-
-
-[143]
-Overfull \hbox (6.62267pt too wide) in paragraph at lines 7573--7573
- []\TU/IBMPlexSerif(0)/m/n/10.95 Dios no puede ser engañado, nada |   [] desape
-rcibido ante su presencia. Puede
- []
-
-
-Overfull \hbox (6.83414pt too wide) in paragraph at lines 7573--7573
- \TU/IBMPlexSerif(0)/m/n/10.95 que haya existido el pensamiento de que no impor
-ta la vida del creyente en el presente,
- []
-
-
-
-[144]
-
-[145]
-Overfull \hbox (3.99222pt too wide) in paragraph at lines 7721--7721
- \TU/IBMPlexSerif(0)/m/n/10.95 saber que todo lo bueno que haga por medio del |
-   [], a su tiempo será tomado
- []
-
-
-
-[146]
-Overfull \hbox (4.94853pt too wide) in paragraph at lines 7733--7733
- []\TU/IBMPlexSerif(0)/m/n/10.95 Como conclusión a todo lo que Pablo estuvo men
-cionando, |   [] tiene sentido
- []
-
-
-Overfull \hbox (1.79642pt too wide) in paragraph at lines 7741--7741
- \TU/IBMPlexSerif(0)/m/n/10.95 atención, hacer el bien cada que tengamos oportu
-nidad a la familia de la fe, a nuestros
- []
-
-
-
-[147]
-Overfull \hbox (18.34767pt too wide) in paragraph at lines 7798--7798
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo no solo está cerrando la |   [], está ma
-rcando este momento como importante. 
- []
-
-
-Overfull \hbox (11.94409pt too wide) in paragraph at lines 7812--7812
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo vuelve a dirigirse a un |   [] de person
-as que los hermanos gálatas conocían: 
- []
-
-
-Overfull \hbox (6.48651pt too wide) in paragraph at lines 7814--7814
- []\TU/IBMPlexSerif(0)/m/n/10.95 A los que estaban perturbándoles y |   [] el e
-vangelio que habían recibido.
- []
-
-
-Overfull \hbox (8.0666pt too wide) in paragraph at lines 7824--7824
- \TU/IBMPlexSerif(0)/m/n/10.95 visible y superficial). Estos no estaban sugirie
-ndo a los hermanos a que se circunciden,
- []
-
-
-
-[148]
-Overfull \hbox (16.67235pt too wide) in paragraph at lines 7826--7826
- []\TU/IBMPlexSerif(0)/m/n/10.95 Este pensamiento suyo era por causa del mensaj
-e que confiaban, un mensaje mentiroso,
- []
-
-
-Overfull \hbox (3.06296pt too wide) in paragraph at lines 7836--7836
- \TU/IBMPlexSerif(0)/m/n/10.95 propio, eso no proviene de la libertad de Cristo
- (mensaje de la cruz), eso es el resultado
- []
-
-
-
-[149]
-Overfull \hbox (4.95584pt too wide) in paragraph at lines 7887--7887
- \TU/IBMPlexSerif(0)/m/n/10.95 vive por medio del mundo, ahora vive por |   [] 
-de la realidad que Dios le proveyó
- []
-
-
-Overfull \hbox (19.8807pt too wide) in paragraph at lines 7899--7899
- []\TU/IBMPlexSerif(0)/m/n/10.95 Lo que a Pablo le fue provisto por medio de la
- Cruz, no tiene nada que ver con circuncisión
- []
-
-
-Overfull \hbox (3.5396pt too wide) in paragraph at lines 7899--7899
- \TU/IBMPlexSerif(0)/m/n/10.95 o incircunsición, ya que ambas no son nada (no |
-   [] valor alguno para producir
- []
-
-
-Overfull \hbox (14.91547pt too wide) in paragraph at lines 7907--7907
- \TU/IBMPlexSerif(0)/m/n/10.95 algo realizado por el poder de Dios. Pablo |   [
-] una nueva criatura, con propósitos
- []
-
-
-Overfull \hbox (3.51189pt too wide) in paragraph at lines 7913--7913
- \TU/IBMPlexSerif(0)/m/n/10.95 humano, sino una vida que proviene de lo eterno,
- por |   [] de Cristo crucificado. 
- []
-
-
-
-[150]
-Overfull \hbox (8.27002pt too wide) in paragraph at lines 7958--7958
- []\TU/IBMPlexSerif(0)/m/n/10.95 Probablemente podría mal entenderse que los ju
-díos de |   [], los israelitas,
- []
-
-
-
-[151]
-
-[152]
-
-[153]
-Overfull \hbox (3.48837pt too wide) in paragraph at lines 8099--8102
-[]\TU/IBMPlexSerif(0)/m/n/11 Pablo presenta la vida en la libertad como una rea
-lidad comunitaria,
- []
-
-
-Overfull \hbox (3.68053pt too wide) in paragraph at lines 8104--8106
-[]\TU/IBMPlexSerif(0)/m/n/11 Cuando un creyente cae en transgresión, la respues
-ta no es condena
- []
-
-
-Overfull \hbox (3.81644pt too wide) in paragraph at lines 8104--8106
-\TU/IBMPlexSerif(0)/m/n/11 ni superioridad, sino restauración en mansedumbre, m
-ostrando que
- []
-
-
-Overfull \hbox (6.85832pt too wide) in paragraph at lines 8108--8110
-\TU/IBMPlexSerif(0)/m/n/11 lo cual cumple la ley de Cristo, evidenciando que el
- amor no es teórico,
- []
-
-
-Overfull \hbox (17.44153pt too wide) in paragraph at lines 8116--8117
-[]\TU/IBMPlexSerif(0)/m/n/11 En contraste, el creyente debe examinar su propia 
-vida sin compararse
- []
-
-
-Overfull \hbox (5.86462pt too wide) in paragraph at lines 8116--8117
-\TU/IBMPlexSerif(0)/m/n/11 con otros, reconociendo su responsabilidad personal 
-delante de Dios. 
- []
-
-
-Overfull \hbox (19.62906pt too wide) in paragraph at lines 8127--8129
-[]\TU/IBMPlexSerif(0)/m/n/11 Hay dos direcciones claras: sembrar para la carne 
-produce corrupción,
- []
-
-
-Overfull \hbox (4.39551pt too wide) in paragraph at lines 8134--8136
-[]\TU/IBMPlexSerif(0)/m/n/11 Como conclusión práctica, los creyentes deben hace
-r el bien a todos,
- []
-
-
-Overfull \hbox (32.43553pt too wide) in paragraph at lines 8143--8144
-\TU/IBMPlexSerif(0)/m/n/11 por la cual su relación con el mundo ha sido complet
-amente transformada. 
- []
-
-
-Overfull \hbox (14.04718pt too wide) in paragraph at lines 8153--8156
-\TU/IBMPlexSerif(0)/m/n/11 sufrimientos por Cristo y deseando que la gracia del
- Señor permanezca
- []
-
-
-
-[154]
-
-[155] (temp/student_manual.aux)
+[59] (temp/student_manual.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
 Package rerunfilecheck Info: File `student_manual.out' has not changed.
-(rerunfilecheck)             Checksum: 9786EDAC0B272630EB852FDD8677CC69;4224.
+(rerunfilecheck)             Checksum: 428C0E1B4FE1CAA16B691C32B8865AF3;6529.
  ) 
 Here is how much of TeX's memory you used:
- 35481 strings out of 473832
- 747144 string characters out of 5729482
- 1286296 words of memory out of 5000000
- 57949 multiletter control sequences out of 15000+600000
- 563212 words of font info for 112 fonts, out of 8000000 for 9000
+ 35286 strings out of 473832
+ 741811 string characters out of 5729482
+ 1281651 words of memory out of 5000000
+ 57757 multiletter control sequences out of 15000+600000
+ 563172 words of font info for 107 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 121i,17n,124p,582b,1421s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 121i,17n,124p,512b,587s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on temp/student_manual.pdf (155 pages).
+Output written on temp/student_manual.pdf (59 pages).

@@ -4,202 +4,109 @@
 \contentsline {subsection}{Metodología de estudio}{2}{subsection*.4}%
 \contentsline {subsection}{Alcance y uso del manual}{2}{subsection*.5}%
 \contentsline {subsection}{Resultado esperado}{2}{subsection*.6}%
-\contentsline {section}{Introducción al libro de Gálatas}{4}{section*.7}%
-\contentsline {subsection}{Autor}{4}{subsection*.8}%
-\contentsline {subsection}{Destinatarios}{4}{subsection*.9}%
-\contentsline {subsection}{Relación entre Pablo y los Gálatas}{4}{subsection*.10}%
-\contentsline {subsection}{Fundación y crecimiento de las iglesias}{5}{subsection*.11}%
-\contentsline {subsection}{Fecha probable de escritura}{5}{subsection*.12}%
-\contentsline {subsection}{Contexto histórico general}{5}{subsection*.13}%
-\contentsline {subsection}{Contexto cultural de los gálatas}{5}{subsection*.14}%
-\contentsline {subsection}{Situación que motiva la carta}{6}{subsection*.15}%
-\contentsline {subsection}{Tema de la carta}{6}{subsection*.16}%
-\contentsline {section}{Gálatas 1:1-10 - Pablo confronta la distorsión del evangelio}{6}{section*.17}%
-\contentsline {subsection}{Gálatas 1:1-5 - El fundamento apostólico y el mensaje que proviene de Dios}{6}{subsection*.18}%
-\contentsline {subsubsection}{Gálatas 1:1}{6}{subsubsection*.19}%
-\contentsline {subsubsection}{Gálatas 1:2}{8}{subsubsection*.20}%
-\contentsline {subsubsection}{Gálatas 1:3}{8}{subsubsection*.21}%
-\contentsline {subsubsection}{Gálatas 1:4}{9}{subsubsection*.22}%
-\contentsline {subsubsection}{Gálatas 1:5}{10}{subsubsection*.23}%
-\contentsline {subsection}{Gálatas 1:6-7 - La desviación del evangelio en las iglesias}{10}{subsection*.24}%
-\contentsline {subsubsection}{Gálatas 1:6}{10}{subsubsection*.25}%
-\contentsline {subsubsection}{Gálatas 1:7}{11}{subsubsection*.26}%
-\contentsline {subsection}{Gálatas 1:8-10 - La advertencia contra alterar el mensaje anunciado}{12}{subsection*.27}%
-\contentsline {subsubsection}{Gálatas 1:8}{12}{subsubsection*.28}%
-\contentsline {subsubsection}{Gálatas 1:9}{13}{subsubsection*.29}%
-\contentsline {subsubsection}{Gálatas 1:10}{15}{subsubsection*.30}%
-\contentsline {section}{Gálatas 1:11-2:21 - Pablo defiende la verdad que anunció}{20}{section*.31}%
-\contentsline {subsection}{Gálatas 1:11--12 --- Origen divino}{20}{subsection*.32}%
-\contentsline {subsubsection}{Gálatas 1:11}{20}{subsubsection*.33}%
-\contentsline {subsubsection}{Gálatas 1:12}{21}{subsubsection*.34}%
-\contentsline {subsection}{Gálatas 1:13-17 - Llamado y revelación}{24}{subsection*.35}%
-\contentsline {subsubsection}{Gálatas 1:13}{24}{subsubsection*.36}%
-\contentsline {subsubsection}{Gálatas 1:14}{25}{subsubsection*.37}%
-\contentsline {subsubsection}{Gálatas 1:15}{27}{subsubsection*.38}%
-\contentsline {subsubsection}{Gálatas 1:16}{29}{subsubsection*.39}%
-\contentsline {subsubsection}{Gálatas 1:17}{31}{subsubsection*.40}%
-\contentsline {subsection}{Gálatas 1:18-24 - Independencia inicial}{32}{subsection*.41}%
-\contentsline {subsubsection}{Gálatas 1:18}{32}{subsubsection*.42}%
-\contentsline {subsubsection}{Gálatas 1:19}{34}{subsubsection*.43}%
-\contentsline {subsubsection}{Gálatas 1:20}{36}{subsubsection*.44}%
-\contentsline {subsubsection}{Gálatas 1:21}{38}{subsubsection*.45}%
-\contentsline {subsubsection}{Gálatas 1:22}{38}{subsubsection*.46}%
-\contentsline {subsubsection}{Gálatas 1:23}{40}{subsubsection*.47}%
-\contentsline {subsubsection}{Gálatas 1:24}{41}{subsubsection*.48}%
-\contentsline {subsection}{Gálatas 2:1-10 - Reconocimiento en Jerusalén}{42}{subsection*.49}%
-\contentsline {subsubsection}{Gálatas 2:1}{42}{subsubsection*.50}%
-\contentsline {subsubsection}{Gálatas 2:2}{44}{subsubsection*.51}%
-\contentsline {subsubsection}{Gálatas 2:3}{44}{subsubsection*.52}%
-\contentsline {subsubsection}{Gálatas 2:4}{46}{subsubsection*.53}%
-\contentsline {subsubsection}{Gálatas 2:5}{47}{subsubsection*.54}%
-\contentsline {subsubsection}{Gálatas 2:6}{47}{subsubsection*.55}%
-\contentsline {subsubsection}{Gálatas 2:7}{48}{subsubsection*.56}%
-\contentsline {subsubsection}{Gálatas 2:8}{48}{subsubsection*.57}%
-\contentsline {subsubsection}{Gálatas 2:9}{49}{subsubsection*.58}%
-\contentsline {subsubsection}{Gálatas 2:10}{49}{subsubsection*.59}%
-\contentsline {subsection}{Gálatas 2:11-14 - Confrontación pública}{51}{subsection*.60}%
-\contentsline {subsubsection}{Gálatas 2:11}{51}{subsubsection*.61}%
-\contentsline {subsubsection}{Gálatas 2:12}{51}{subsubsection*.62}%
-\contentsline {subsubsection}{Gálatas 2:13}{52}{subsubsection*.63}%
-\contentsline {subsubsection}{Gálatas 2:14}{52}{subsubsection*.64}%
-\contentsline {subsection}{Gálatas 2:15-21 - Declaración sobre la justicia de Dios}{53}{subsection*.65}%
-\contentsline {subsubsection}{Gálatas 2:15}{53}{subsubsection*.66}%
-\contentsline {subsubsection}{Gálatas 2:16}{54}{subsubsection*.67}%
-\contentsline {subsubsection}{Gálatas 2:17}{56}{subsubsection*.68}%
-\contentsline {subsubsection}{Gálatas 2:18}{56}{subsubsection*.69}%
-\contentsline {subsubsection}{Gálatas 2:19}{57}{subsubsection*.70}%
-\contentsline {subsubsection}{Gálatas 2:20}{58}{subsubsection*.71}%
-\contentsline {subsubsection}{Gálatas 2:21}{59}{subsubsection*.72}%
-\contentsline {section}{Gálatas 3:1- 4:7 - Pablo argumenta para mostrar que la promesa precede y supera a la ley}{61}{section*.73}%
-\contentsline {subsection}{Gálatas 3:1-5 - Empezaron por el Espíritu, no por la ley}{61}{subsection*.74}%
-\contentsline {subsubsection}{Gálatas 3:1}{61}{subsubsection*.75}%
-\contentsline {subsubsection}{Gálatas 3:2}{62}{subsubsection*.76}%
-\contentsline {subsubsection}{Gálatas 3:3}{62}{subsubsection*.77}%
-\contentsline {subsubsection}{Gálatas 3:4}{63}{subsubsection*.78}%
-\contentsline {subsubsection}{Gálatas 3:5}{63}{subsubsection*.79}%
-\contentsline {subsection}{Gálatas 3:6-14 - El ejemplo de Abraham}{64}{subsection*.80}%
-\contentsline {subsubsection}{Gálatas 3:6}{64}{subsubsection*.81}%
-\contentsline {subsubsection}{Gálatas 3:7}{65}{subsubsection*.82}%
-\contentsline {subsubsection}{Gálatas 3:8}{66}{subsubsection*.83}%
-\contentsline {subsubsection}{Gálatas 3:9}{66}{subsubsection*.84}%
-\contentsline {subsubsection}{Gálatas 3:10}{67}{subsubsection*.85}%
-\contentsline {subsubsection}{Gálatas 3:11}{67}{subsubsection*.86}%
-\contentsline {subsubsection}{Gálatas 3:12}{68}{subsubsection*.87}%
-\contentsline {subsubsection}{Gálatas 3:13}{69}{subsubsection*.88}%
-\contentsline {subsubsection}{Gálatas 3:14}{69}{subsubsection*.89}%
-\contentsline {subsection}{Gálatas 3:15-18 - La promesa vino antes que la ley}{70}{subsection*.90}%
-\contentsline {subsubsection}{Gálatas 3:15}{70}{subsubsection*.91}%
-\contentsline {subsubsection}{Gálatas 3:16}{71}{subsubsection*.92}%
-\contentsline {subsubsection}{Gálatas 3:17}{71}{subsubsection*.93}%
-\contentsline {subsubsection}{Gálatas 3:18}{72}{subsubsection*.94}%
-\contentsline {subsection}{Gálatas 3:19-25 - ¿Para qué fue dada la ley?}{73}{subsection*.95}%
-\contentsline {subsubsection}{Gálatas 3:19}{73}{subsubsection*.96}%
-\contentsline {subsubsection}{Gálatas 3:20}{74}{subsubsection*.97}%
-\contentsline {subsubsection}{Gálatas 3:21}{75}{subsubsection*.98}%
-\contentsline {subsubsection}{Gálatas 3:22}{76}{subsubsection*.99}%
-\contentsline {subsubsection}{Gálatas 3:23}{76}{subsubsection*.100}%
-\contentsline {subsubsection}{Gálatas 3:24}{77}{subsubsection*.101}%
-\contentsline {subsubsection}{Gálatas 3:25}{77}{subsubsection*.102}%
-\contentsline {subsection}{Gálatas 3:26-4:7 - Ahora somos hijos y herederos}{78}{subsection*.103}%
-\contentsline {subsubsection}{Gálatas 3:26}{78}{subsubsection*.104}%
-\contentsline {subsubsection}{Gálatas 3:27}{80}{subsubsection*.105}%
-\contentsline {subsubsection}{Gálatas 3:28}{80}{subsubsection*.106}%
-\contentsline {subsubsection}{Gálatas 3:29}{82}{subsubsection*.107}%
-\contentsline {subsubsection}{Gálatas 4:1}{83}{subsubsection*.108}%
-\contentsline {subsubsection}{Gálatas 4:2}{83}{subsubsection*.109}%
-\contentsline {subsubsection}{Gálatas 4:3}{84}{subsubsection*.110}%
-\contentsline {subsubsection}{Gálatas 4:4}{85}{subsubsection*.111}%
-\contentsline {subsubsection}{Gálatas 4:5}{85}{subsubsection*.112}%
-\contentsline {subsubsection}{Gálatas 4:6}{86}{subsubsection*.113}%
-\contentsline {subsubsection}{Gálatas 4:7}{87}{subsubsection*.114}%
-\contentsline {section}{Gálatas 4:8-31 - Pablo advierte de Volver a la esclavitud}{89}{section*.115}%
-\contentsline {subsection}{Gálatas 4:8-11 - ¿Por qué volver a ser esclavos?}{89}{subsection*.116}%
-\contentsline {subsubsection}{Gálatas 4:8}{89}{subsubsection*.117}%
-\contentsline {subsubsection}{Gálatas 4:9}{89}{subsubsection*.118}%
-\contentsline {subsubsection}{Gálatas 4:10}{90}{subsubsection*.119}%
-\contentsline {subsubsection}{Gálatas 4:11}{91}{subsubsection*.120}%
-\contentsline {subsection}{Gálatas 4:12-20 - Recuerden cómo me recibieron}{92}{subsection*.121}%
-\contentsline {subsubsection}{Gálatas 4:12}{92}{subsubsection*.122}%
-\contentsline {subsubsection}{Gálatas 4:13}{93}{subsubsection*.123}%
-\contentsline {subsubsection}{Gálatas 4:14}{94}{subsubsection*.124}%
-\contentsline {subsubsection}{Gálatas 4:15}{95}{subsubsection*.125}%
-\contentsline {subsubsection}{Gálatas 4:16}{95}{subsubsection*.126}%
-\contentsline {subsubsection}{Gálatas 4:17}{96}{subsubsection*.127}%
-\contentsline {subsubsection}{Gálatas 4:18}{96}{subsubsection*.128}%
-\contentsline {subsubsection}{Gálatas 4:19}{96}{subsubsection*.129}%
-\contentsline {subsubsection}{Gálatas 4:20}{97}{subsubsection*.130}%
-\contentsline {subsection}{Gálatas 4:21-27 - La historia de las dos mujeres}{98}{subsection*.131}%
-\contentsline {subsubsection}{Gálatas 4:21}{98}{subsubsection*.132}%
-\contentsline {subsubsection}{Gálatas 4:22}{98}{subsubsection*.133}%
-\contentsline {subsubsection}{Gálatas 4:23}{98}{subsubsection*.134}%
-\contentsline {subsubsection}{Gálatas 4:24}{100}{subsubsection*.135}%
-\contentsline {subsubsection}{Gálatas 4:25}{101}{subsubsection*.136}%
-\contentsline {subsubsection}{Gálatas 4:26}{101}{subsubsection*.137}%
-\contentsline {subsubsection}{Gálatas 4:27}{102}{subsubsection*.138}%
-\contentsline {subsection}{Gálatas 4:28-31 - Somos hijos de la libre}{104}{subsection*.139}%
-\contentsline {subsubsection}{Gálatas 4:28}{104}{subsubsection*.140}%
-\contentsline {subsubsection}{Gálatas 4:29}{105}{subsubsection*.141}%
-\contentsline {subsubsection}{Gálatas 4:30}{106}{subsubsection*.142}%
-\contentsline {subsubsection}{Gálatas 4:31}{108}{subsubsection*.143}%
-\contentsline {section}{Gálatas 5:1-12 - Pablo declara con urgencia las consecuencias de someterse a la ley}{110}{section*.144}%
-\contentsline {subsection}{Gálatas 5:1 - Permanezcan firmes en la libertad}{110}{subsection*.145}%
-\contentsline {subsubsection}{Gálatas 5:1}{110}{subsubsection*.146}%
-\contentsline {subsection}{Gálatas 5:2-4 - Lo que pasa si aceptan la circuncisión}{111}{subsection*.147}%
-\contentsline {subsubsection}{Gálatas 5:2}{111}{subsubsection*.148}%
-\contentsline {subsubsection}{Gálatas 5:3}{113}{subsubsection*.149}%
-\contentsline {subsubsection}{Gálatas 5:4}{114}{subsubsection*.150}%
-\contentsline {subsection}{Gálatas 5:5-6 - Lo que realmente cuenta}{114}{subsection*.151}%
-\contentsline {subsubsection}{Gálatas 5:5}{114}{subsubsection*.152}%
-\contentsline {subsubsection}{Gálatas 5:6}{115}{subsubsection*.153}%
-\contentsline {subsection}{Gálatas 5:7-12 - ¿Quién los estorbo?}{116}{subsection*.154}%
-\contentsline {subsubsection}{Gálatas 5:7}{116}{subsubsection*.155}%
-\contentsline {subsubsection}{Gálatas 5:8}{116}{subsubsection*.156}%
-\contentsline {subsubsection}{Gálatas 5:9}{117}{subsubsection*.157}%
-\contentsline {subsubsection}{Gálatas 5:10}{117}{subsubsection*.158}%
-\contentsline {subsubsection}{Gálatas 5:11}{117}{subsubsection*.159}%
-\contentsline {subsubsection}{Gálatas 5:12}{118}{subsubsection*.160}%
-\contentsline {section}{Gálatas 5:13--26 - Pablo contrasta la carne y el espiritu como principio de vida}{120}{section*.161}%
-\contentsline {subsection}{Gálatas 5:13-15 - Libertad para servir}{120}{subsection*.162}%
-\contentsline {subsubsection}{Gálatas 5:13}{120}{subsubsection*.163}%
-\contentsline {subsubsection}{Gálatas 5:14}{121}{subsubsection*.164}%
-\contentsline {subsubsection}{Gálatas 5:15}{122}{subsubsection*.165}%
-\contentsline {subsection}{Gálatas 5:16-18 - Un andar de libertad es por el Espíritu}{123}{subsection*.166}%
-\contentsline {subsubsection}{Gálatas 5:16}{123}{subsubsection*.167}%
-\contentsline {subsubsection}{Gálatas 5:17}{125}{subsubsection*.168}%
-\contentsline {subsubsection}{Gálatas 5:18}{126}{subsubsection*.169}%
-\contentsline {subsection}{Gálatas 5:19-21 - Las obras de la carne}{128}{subsection*.170}%
-\contentsline {subsubsection}{Gálatas 5:19}{128}{subsubsection*.171}%
-\contentsline {subsubsection}{Gálatas 5:20}{128}{subsubsection*.172}%
-\contentsline {subsubsection}{Gálatas 5:21}{129}{subsubsection*.173}%
-\contentsline {subsection}{Gálatas 5:22-23 El fruto del Espíritu}{131}{subsection*.174}%
-\contentsline {subsubsection}{Gálatas 5:22}{131}{subsubsection*.175}%
-\contentsline {subsubsection}{Gálatas 5:23}{133}{subsubsection*.176}%
-\contentsline {subsection}{Gálatas 5:24-26 - Eres libre, entonces anda como libre}{133}{subsection*.177}%
-\contentsline {subsubsection}{Gálatas 5:24}{133}{subsubsection*.178}%
-\contentsline {subsubsection}{Gálatas 5:25}{135}{subsubsection*.179}%
-\contentsline {subsubsection}{Gálatas 5:26}{136}{subsubsection*.180}%
-\contentsline {section}{Gálatas 6:1-18 libertad Comunitaria centrada en la cruz}{137}{section*.181}%
-\contentsline {subsection}{Gálatas 6:1-5 - Viéndonos a la luz de la libertad unos a otros}{137}{subsection*.182}%
-\contentsline {subsubsection}{Gálatas 6:1}{137}{subsubsection*.183}%
-\contentsline {subsubsection}{Gálatas 6:2}{139}{subsubsection*.184}%
-\contentsline {subsubsection}{Gálatas 6:3}{139}{subsubsection*.185}%
-\contentsline {subsubsection}{Gálatas 6:4}{140}{subsubsection*.186}%
-\contentsline {subsubsection}{Gálatas 6:5}{141}{subsubsection*.187}%
-\contentsline {subsection}{Gálatas 6:6-10 Lo que uno siembra, eso cosecha}{141}{subsection*.188}%
-\contentsline {subsubsection}{Gálatas 6:6}{141}{subsubsection*.189}%
-\contentsline {subsubsection}{Gálatas 6:7}{142}{subsubsection*.190}%
-\contentsline {subsubsection}{Gálatas 6:8}{143}{subsubsection*.191}%
-\contentsline {subsubsection}{Gálatas 6:9}{145}{subsubsection*.192}%
-\contentsline {subsubsection}{Gálatas 6:10}{145}{subsubsection*.193}%
-\contentsline {subsection}{Gálatas 6:11-13 - Lo que buscan los que presionan}{146}{subsection*.194}%
-\contentsline {subsubsection}{Gálatas 6:11}{146}{subsubsection*.195}%
-\contentsline {subsubsection}{Gálatas 6:12}{147}{subsubsection*.196}%
-\contentsline {subsubsection}{Gálatas 6:13}{147}{subsubsection*.197}%
-\contentsline {subsection}{Gálatas 6:14-15 Solo me glorío en la cruz}{148}{subsection*.198}%
-\contentsline {subsubsection}{Gálatas 6:14}{148}{subsubsection*.199}%
-\contentsline {subsubsection}{Gálatas 6:15}{148}{subsubsection*.200}%
-\contentsline {subsection}{Gálatas 6:16-18 - Palabras finales y bendición}{149}{subsection*.201}%
-\contentsline {subsubsection}{Gálatas 6:16}{149}{subsubsection*.202}%
-\contentsline {subsubsection}{Gálatas 6:17}{150}{subsubsection*.203}%
-\contentsline {subsubsection}{Gálatas 6:18}{151}{subsubsection*.204}%
-\contentsline {section}{Bibliografía}{153}{section*.205}%
+\contentsline {section}{INTRODUCCIÓN}{4}{section*.7}%
+\contentsline {section}{¿QUÉ ES ROOTS?}{5}{section*.8}%
+\contentsline {subsection}{INTRODUCCIÓN}{5}{subsection*.9}%
+\contentsline {section}{R -- Revelación}{6}{section*.10}%
+\contentsline {subsection}{¿Qué significa revelación?}{6}{subsection*.11}%
+\contentsline {subsection}{Dios comunicó por medio de lenguaje}{7}{subsection*.12}%
+\contentsline {subsection}{Propósito de la revelación}{7}{subsection*.13}%
+\contentsline {subsection}{No son versículos aislados}{7}{subsection*.14}%
+\contentsline {subsection}{El texto construye}{7}{subsection*.15}%
+\contentsline {subsection}{Comunicación real, no código}{8}{subsection*.16}%
+\contentsline {subsection}{Dios busca ser entendido}{8}{subsection*.17}%
+\contentsline {subsection}{Fundamento de la revelación}{8}{subsection*.18}%
+\contentsline {subsection}{El peso de la revelación}{8}{subsection*.19}%
+\contentsline {subsection}{El poder de la revelación}{9}{subsection*.20}%
+\contentsline {subsection}{Implicaciones}{9}{subsection*.21}%
+\contentsline {subsection}{Nuestra postura frente al texto}{9}{subsection*.22}%
+\contentsline {subsection}{Principio clave}{9}{subsection*.23}%
+\contentsline {subsection}{Punto de partida}{9}{subsection*.24}%
+\contentsline {section}{O1 - OBSERVAR LA ESTRUCTURA}{10}{section*.25}%
+\contentsline {subsection}{El problema común}{10}{subsection*.26}%
+\contentsline {subsection}{Principio fundamental}{10}{subsection*.27}%
+\contentsline {subsection}{Por qué esto importa}{10}{subsection*.28}%
+\contentsline {subsection}{La realidad del texto}{10}{subsection*.29}%
+\contentsline {subsection}{Lo que aprenderás}{11}{subsection*.30}%
+\contentsline {subsection}{El proceso de observación estructural}{11}{subsection*.31}%
+\contentsline {subsection}{Qué NO haremos}{11}{subsection*.33}%
+\contentsline {subsection}{Qué SÍ haremos}{12}{subsection*.34}%
+\contentsline {subsection}{Observación clave}{12}{subsection*.35}%
+\contentsline {subsection}{Transición}{12}{subsection*.36}%
+\contentsline {section}{PASO 1 --- COPIAR EL TEXTO}{12}{section*.37}%
+\contentsline {subsection}{EJECUTA}{12}{subsection*.38}%
+\contentsline {subsection}{ENTIENDE}{13}{subsection*.39}%
+\contentsline {section}{PASO 2 --- IDENTIFICAR LOS VERBOS FINITOS}{14}{section*.40}%
+\contentsline {subsection}{EJECUTA}{14}{subsection*.41}%
+\contentsline {subsection}{ENTIENDE}{15}{subsection*.42}%
+\contentsline {section}{PASO 3 --- IDENTIFICAR CLÁUSULAS}{16}{section*.43}%
+\contentsline {subsection}{EJECUTA}{16}{subsection*.44}%
+\contentsline {subsection}{ENTIENDE}{17}{subsection*.45}%
+\contentsline {section}{PASO 4 --- IDENTIFICAR CONECTORES QUE UNEN CLÁUSULAS}{18}{section*.46}%
+\contentsline {subsection}{EJECUTA}{18}{subsection*.47}%
+\contentsline {subsection}{ENTIENDE}{19}{subsection*.48}%
+\contentsline {section}{PASO 5 --- IDENTIFICAR LA ESTRUCTURA}{21}{section*.49}%
+\contentsline {subsection}{EJECUTA}{21}{subsection*.50}%
+\contentsline {subsection}{ENTIENDE}{21}{subsection*.51}%
+\contentsline {section}{PASO 6 --- USAR EL CONECTOR}{23}{section*.52}%
+\contentsline {subsection}{EJECUTA}{23}{subsection*.53}%
+\contentsline {subsection}{ENTIENDE}{24}{subsection*.54}%
+\contentsline {section}{PASO 7 --- REDUCIR A LA CLÁUSULA BASE}{25}{section*.55}%
+\contentsline {subsection}{EJECUTA}{25}{subsection*.56}%
+\contentsline {subsection}{ENTIENDE}{26}{subsection*.57}%
+\contentsline {section}{PASO 8 --- IDENTIFICAR LA ESTRUCTURA TRONCAL}{28}{section*.58}%
+\contentsline {subsection}{EJECUTA}{28}{subsection*.59}%
+\contentsline {subsection}{ENTIENDE}{29}{subsection*.60}%
+\contentsline {section}{PASO 9 --- MARCAR EL COMPORTAMIENTO}{30}{section*.61}%
+\contentsline {subsection}{EJECUTA}{30}{subsection*.62}%
+\contentsline {subsection}{ENTIENDE}{31}{subsection*.63}%
+\contentsline {section}{PASO 10 --- IDENTIFICAR PATRONES}{33}{section*.64}%
+\contentsline {subsection}{EJECUTA}{33}{subsection*.65}%
+\contentsline {subsection}{ENTIENDE}{33}{subsection*.66}%
+\contentsline {section}{PASO 11 --- SEGUIR O DETENERSE}{35}{section*.67}%
+\contentsline {subsection}{EJECUTA}{35}{subsection*.68}%
+\contentsline {subsection}{ENTIENDE}{36}{subsection*.69}%
+\contentsline {section}{PASO 12 --- DELIMITAR LA UNIDAD}{38}{section*.70}%
+\contentsline {subsection}{EJECUTA}{38}{subsection*.71}%
+\contentsline {subsection}{ENTIENDE}{38}{subsection*.72}%
+\contentsline {section}{PASO 13 --- EXPRESAR LA ACCIÓN DEL TRONCO}{40}{section*.73}%
+\contentsline {subsection}{EJECUTA}{40}{subsection*.74}%
+\contentsline {subsection}{ENTIENDE}{41}{subsection*.75}%
+\contentsline {section}{FORMULAR TÍTULOS A PARTIR DEL ANÁLISIS}{43}{section*.76}%
+\contentsline {subsection}{EJECUTA}{43}{subsection*.77}%
+\contentsline {subsection}{ENTIENDE}{44}{subsection*.78}%
+\contentsline {section}{O2 OBSERVAR EL TEXTO}{45}{section*.79}%
+\contentsline {subsection}{INTRODUCCIÓN}{45}{subsection*.80}%
+\contentsline {subsection}{TRABAJAR CADA FRASE}{48}{subsection*.81}%
+\contentsline {section}{T --- SEGUIR EL TEXTO}{49}{section*.82}%
+\contentsline {subsection}{INTRODUCCIÓN}{49}{subsection*.83}%
+\contentsline {subsection}{EJECUTA}{50}{subsection*.84}%
+\contentsline {subsection}{ENTIENDE}{50}{subsection*.85}%
+\contentsline {section}{S --- SOMETERSE AL TEXTO}{51}{section*.86}%
+\contentsline {subsection}{INTRODUCCIÓN}{51}{subsection*.87}%
+\contentsline {subsection}{EJECUTA}{52}{subsection*.88}%
+\contentsline {subsection}{ENTIENDE}{52}{subsection*.89}%
+\contentsline {section}{CIERRE}{53}{section*.90}%
+\contentsline {section}{EJERCICIOS DE OBSERVACIÓN}{54}{section*.91}%
+\contentsline {subsection}{INTRODUCCIÓN}{54}{subsection*.92}%
+\contentsline {section}{NIVEL 1 --- VER LO BÁSICO}{55}{section*.93}%
+\contentsline {subsubsection}{Ejercicio 1}{55}{subsubsection*.94}%
+\contentsline {subsubsection}{Ejercicio 2}{55}{subsubsection*.95}%
+\contentsline {subsubsection}{Ejercicio 3}{55}{subsubsection*.96}%
+\contentsline {section}{NIVEL 2 --- VER RELACIONES}{56}{section*.97}%
+\contentsline {subsubsection}{Ejercicio 4}{56}{subsubsection*.98}%
+\contentsline {subsubsection}{Ejercicio 5}{56}{subsubsection*.99}%
+\contentsline {subsubsection}{Ejercicio 6}{56}{subsubsection*.100}%
+\contentsline {section}{NIVEL 3 --- REDUCIR SIN DISTORSIONAR}{56}{section*.101}%
+\contentsline {subsubsection}{Ejercicio 7}{56}{subsubsection*.102}%
+\contentsline {subsubsection}{Ejercicio 8}{57}{subsubsection*.103}%
+\contentsline {subsubsection}{Ejercicio 9}{57}{subsubsection*.104}%
+\contentsline {section}{NIVEL 4 --- VER MOVIMIENTO}{57}{section*.105}%
+\contentsline {subsubsection}{Ejercicio 10}{57}{subsubsection*.106}%
+\contentsline {subsubsection}{Ejercicio 11}{57}{subsubsection*.107}%
+\contentsline {section}{NIVEL 5 --- VER EL TEXTO COMPLETO}{58}{section*.108}%
+\contentsline {subsubsection}{Ejercicio 12}{58}{subsubsection*.109}%
+\contentsline {subsubsection}{Ejercicio 13}{58}{subsubsection*.110}%
+\contentsline {subsubsection}{Ejercicio 14}{58}{subsubsection*.111}%
+\contentsline {subsubsection}{Ejercicio 15}{58}{subsubsection*.112}%
+\contentsline {subsection}{CIERRE DE LOS EJERCICIOS}{58}{subsection*.113}%
