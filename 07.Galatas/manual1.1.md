@@ -248,8 +248,12 @@ Me maravillo de que tan pronto ustedes hayan abandonado a Aquel que los llamó p
 
 ##### La palabra abandonado es un verbo que se encuentra en voz media y tiempo presente, también <u>puede</u> ser traducido como desviarse, apartarse. Esto significa que ellos mismos estaban apartándose del Padre.
 
+==No fue Dios quien los abandonó. Fueron ellos que habían abandonado a Él.==
+
 #### ...Aquel que los llamó por la gracia de Cristo...
-##### Por las escrituras encontramos que toda persona que cree en el evangelio llega a ser un llamado de Dios, alguien que <u>responde</u> al llamado del evangelio. 1 Corintios 1:24; 2 Tesalonicenses 2:14; 2 Timoteo 1:9
+##### ==Ellos habían sido llamados por Dios por <u>medio</u> de la gracia de Cristo.== 
+
+~~==##### Por las escrituras encontramos que toda persona que cree en el evangelio llega a ser un llamado de Dios, alguien que <u>responde</u> al llamado del evangelio. 1 Corintios 1:24; 2 Tesalonicenses 2:14; 2 Timoteo 1:9==~~
 
 ##### La salvación que Dios provee para cada persona en este mundo es por medio de Su Gracia, es de <u>manera</u> inmerecida. Cristo murió por todos los pecados, satisfizo la ira de Dios y toda persona puede llegar a ser salva (llamada) únicamente por medio de la gracia encontrada en Cristo. Hechos 15:11; Romanos 5:2
 

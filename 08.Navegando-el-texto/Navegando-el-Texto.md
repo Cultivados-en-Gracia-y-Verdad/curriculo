@@ -23,22 +23,73 @@ ROOTS simplemente toma esos principios y los presenta de forma accesible, con un
 
 Para ayudarnos a mantener esta manera de pensar presente, utilizaremos un recordatorio sencillo: ROOTS. No es una fórmula rígida, sino una guía que nos ayuda a no desviarnos del texto.
 
-Cada letra apunta a una disposición que queremos cultivar al leer:
+# ¿QUÉ ES ROOTS?
 
-**R – Revelación**
- Partimos de la base de que estamos frente a algo que ha sido dado, no producido por nosotros. El texto no nace de nuestra interpretación; nosotros nos acercamos a lo que ya está ahí.
+## INTRODUCCIÓN
 
-**O<sub>1</sub> – Observar la estructura**
- Antes de pensar en significados, prestamos atención a cómo está organizado el texto: sus conexiones, repeticiones, contrastes y flujo.
+##### Qué es ROOTS
 
-**O<sub>2</sub> – Observar lo que el texto dice en contexto**
- Nos detenemos en las palabras mismas. ¿Qué está realmente escrito? ¿Qué afirma? ¿Qué no afirma?
+###### ROOTS es el proceso completo para trabajar un texto.
 
-**T – Trazar (seguir) el desarrollo**
- Seguimos el hilo del pensamiento paso a paso, sin adelantarnos ni saltar a conclusiones apresuradas.
+###### No es solo análisis.
 
-**S – Someterse al resultado**
- Finalmente, nos alineamos con lo que el texto muestra, aunque no sea lo que esperábamos encontrar.
+###### No es solo estructura.
+
+###### 👉 Es ver, seguir y someterse al texto.
+
+---
+
+##### Cómo funciona
+
+###### ROOTS se desarrolla en cinco partes:
+
+###### R — Revelación
+* 👉 Dios habló
+* 👉 Usó lenguaje
+* 👉 El texto comunica
+
+###### O — Observar la estructura
+* 👉 Cómo está construido el texto
+* 👉 Cómo se conecta
+* 👉 Cómo se desarrolla
+
+###### O — Observar lo que el texto dice
+* 👉 Qué afirma
+* 👉 Qué repite
+* 👉 Qué contrasta
+
+###### T — Seguir el texto
+* 👉 Cómo avanza de principio a fin
+* 👉 Cómo se conectan sus partes
+* 👉 Cómo fluye el desarrollo
+
+###### S — Someterse al texto
+* 👉 No ajusto el texto a mí
+* 👉 Me coloco bajo lo que afirma
+* 👉 Dejo que el texto tenga la última palabra
+
+##### Principio clave
+
+###### ROOTS no termina en el análisis.
+
+###### ❗ ROOTS incluye:
+* observar
+* seguir
+* someterse
+
+##### Regla central
+###### ❗ Si no completas todo el proceso,
+
+###### no has terminado ROOTS
+
+##### Frase clave
+> “No interpreto el texto.
+> Lo observo, lo sigo y me someto a él.”
+
+##### Qué debes notar
+###### ROOTS no es un método para explicar el texto.
+
+###### 👉 Es un proceso para dejar que el texto hable.
 
 ROOTS no añade nada al texto. Más bien, nos ayuda a quitarnos del camino para poder verlo con claridad.
 
@@ -953,328 +1004,311 @@ En verdad, ni aun ahora ==pueden==.
 - 👉 reducirás cada cláusula a su forma base  
 - 👉 verás la estructura con claridad total  
 
-# PASO 7 — AÑADIR FRASES
+# PASO 7 — REDUCIR A LA CLÁUSULA BASE
 
 ## EJECUTA
 
 ##### ¿Qué haces?
-###### Añades al texto las **frases que no tienen verbo finito** y completas la **pregunta del conector** con la parte del texto que corresponde.
+###### Reduces cada cláusula a su forma mínima,
+###### conservando la acción completa del verbo.
+-❗ No dividas acciones que funcionan como una sola unidad.
 
 ##### Regla
-###### Toda parte del texto que **no tiene verbo finito** debe añadirse debajo de la cláusula a la que pertenece.
-###### Y toda pregunta de conector debe **responderse con las palabras del texto**.
+###### Solo puedes dejar:
+- sujeto  
+- verbo  
+- objeto (si lo hay)
+
+###### Elimina lo que no es necesario,
+###### pero conserva el contenido esencial de la acción.
+
+###### ❗ No eliminas cláusulas  
+###### ❗ Mantienes los conectores  
+###### ❗ Mantienes la estructura del Paso 6  
 
 ##### Cómo hacerlo
 
-1. Vuelve al texto original
+1. Toma el texto trabajado en el Paso 6  
 
-2. Toma una cláusula ya trabajada
+2. Lee una cláusula  
 
-3. Añade las partes que no tienen verbo finito
+3. Identifica el verbo  
 
-4. Si hay conector con pregunta, responde la pregunta con la línea correspondiente del texto
+4. Pregunta:
+   - 👉 ¿Quién hace la acción? → sujeto  
+   - 👉 ¿Qué hace? → verbo  
+   - 👉 ¿A quién / qué? → objeto (si existe)  
 
-5. Mantén cada frase debajo de la cláusula a la que pertenece
+5. Elimina todo lo demás dentro de la cláusula  
+
+6. Repite con cada cláusula  
 
 ##### Resultado esperado
 
-```
-Así que yo, hermanos, no ==pude== hablarles
-    como a espirituales
-    sino como a carnales
-    como a niños en Cristo.
-
-Les ==di== a beber leche
-    no alimento sólido,
-    (porque) todavía no ==podían== recibirlo.
-    `¿por qué? → porque no podían recibirlo`
-
-En verdad, ni aun ahora ==pueden==.
-```
-
-## ENTIENDE
-
-##### Qué estás haciendo realmente
-###### Estás completando cada cláusula con **todo lo que le pertenece**.
-
-###### También estás haciendo visible la **relación** de las cláusulas conectadas.
-
-##### Principio clave
-###### No basta con ver el conector.
-- 👉 Hay que mostrar **qué dice** la cláusula conectada
-- 👉 Y hay que añadir también las frases que dependen de cada cláusula
-
-##### Idea clave
-###### Una frase no tiene verbo finito,
-- pero **sí completa** una cláusula
-
-###### Una cláusula conectada sí tiene verbo finito,
-- y **responde la pregunta** del conector
-  
-##### Pregunta guía
-###### 👉 ¿Esta parte tiene verbo finito?
-- Sí → es cláusula → puede responder la pregunta del conector
-- No → es frase → se añade debajo de la cláusula correspondiente
-
-##### Definición
-###### Frase = parte del texto sin verbo finito que depende de una cláusula.
-
-##### Ejemplo guiado
-
-###### Texto base:
+###### Antes (Paso 6):
 
 ```
 Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
 
 Les ==di== a beber leche, no alimento sólido,
-    (porque) todavía no ==podían== recibirlo.
-    `¿por qué? → porque no podían recibirlo`
+     (porque) todavía no ==podían== recibirlo.
+     `¿por qué? → porque no podían recibirlo`
 
 En verdad, ni aun ahora ==pueden==.
 ```
 
-###### Al volver al texto original, añades lo que faltaba:
+###### Después (Paso 7):
 
 ```
-Así que yo, hermanos, no ==pude== hablarles
-    como a espirituales
-    sino como a carnales
-    como a niños en Cristo.
+no ==pude== hablarles
 
-Les ==di== a beber leche
-    no alimento sólido,
-    (porque) todavía no ==podían== recibirlo.
-    `¿por qué? → porque no podían recibirlo`
+yo ==di==
+    (porque) no ==podían==
 
-En verdad, ni aun ahora ==pueden==.
+ni aun ahora ==pueden==
 ```
 
-##### Regla importante
-###### Las frases no crean nuevas cláusulas.
-- 👉 Solo completan una cláusula ya existente
-  
-###### La pregunta del conector no se deja sola. 
-- 👉 Siempre debe completarse con el texto correspondiente
-  
-##### Error común
-- Añadir frases pero no responder la pregunta
-- Dejar el conector colgando
-- Separar frases como si fueran cláusulas
-- Mover frases fuera de su cláusula
+## ENTIENDE
 
-##### Regla de control
-###### Si la pregunta del conector quedó sin respuesta, el paso está incompleto.
+##### Qué estás haciendo realmente
+
+###### Estás dejando visible la estructura mínima de cada cláusula.
+
+##### Principio clave
+###### Cada cláusula tiene un núcleo.
+
+##### Idea clave
+###### Todo lo que no es núcleo puede quitarse sin perder la acción.
 
 ##### Frase clave
-> “La frase se añade, y la pregunta se responde con el texto.”
+> “Reduzco cada cláusula sin eliminar la estructura.”
 
 ##### Qué debes notar
 
-###### Ahora el texto:
-- está más completo
-- muestra mejor la relación entre líneas
-- deja visible tanto la cláusula como lo que le pertenece
-  
-###### 👉 Ya no solo ves partes del texto — ves cómo se conectan
+###### Cuando reduces bien:
+- cada línea queda clara  
+- desaparecen las palabras innecesarias  
+- la relación entre cláusulas sigue visible  
+
+##### Regla importante
+###### Todas las cláusulas permanecen, incluso las dependientes.
+
+##### Error común
+
+- Eliminar cláusulas completas  
+- Quitar el verbo  
+- Eliminar el conector  
+- Cambiar la estructura del Paso 6  
+
+##### Regla de control
+###### Si desaparece una cláusula o su conector, redujiste mal.
 
 ##### Transición
 
 ###### En el siguiente paso:
-- 👉 reducirás el texto a la **estructura troncal**
-- 👉 y distinguirás lo principal de lo añadido
+- 👉 identificarás cuáles cláusulas sostienen el desarrollo  
+- 👉 eliminarás las que dependen de otras  
 
 # PASO 8 — IDENTIFICAR LA ESTRUCTURA TRONCAL
 
 ## EJECUTA
 
 ##### ¿Qué haces?
-###### Identificas las **cláusulas que sostienen el desarrollo principal del texto**.
+###### Eliminas las cláusulas que dependen estructuralmente,
+###### pero conservas los elementos necesarios para que la acción tenga sentido.
+-❗ No elimines información que complete el verbo principal.
 
 ##### Regla
-###### Solo las líneas que contienen **verbo finito** pueden formar parte de la estructura troncal.
-###### Toda parte sin verbo finito se elimina de la troncal.
+###### No todas las cláusulas son principales.
+- 👉 Algunas dependen de otras  
+- 👉 Solo las cláusulas principales forman el tronco  
+
+###### ❗ Eliminas cláusulas completas  
+###### ❗ Mantienes el contenido esencial del texto  
+###### ❗ Mantienes la estructura restante  
+
+##### Regla de decisión
+
+###### Si una cláusula está introducida por un conector que une verbos finitos,
+###### depende de otra y se elimina.
 
 ##### Cómo hacerlo
 
-1. Toma el texto trabajado (Paso 7)
-2. Revisa cada línea
-3. Haz esta pregunta:
-   - 👉 ¿Esta línea tiene verbo finito?
-4. Si la respuesta es:
-   - Sí → se mantiene en la troncal
-   - No → se elimina de la troncal
-5. Conserva únicamente las líneas con verbo finito
+1. Toma el texto reducido (Paso 7)
+
+2. Identifica las cláusulas que conservan conector (Paso 4)
+
+3. Elimina esas cláusulas completas
+
+4. Mantén las cláusulas que no dependen de otra
 
 ##### Resultado esperado
 
+###### Antes (Paso 7):
+
 ```
-no pude ==hablarles==
-les ==di==
-no ==podían==
+no ==pude== hablarles
+
+yo ==di==
+(porque) no ==podían==
+
+ni aun ahora ==pueden==
+```
+
+###### Después (Paso 8):
+
+```
+no ==pude== hablarles
+
+yo ==di==
+
+ni aun ahora ==pueden==
 ```
 
 ## ENTIENDE
 
 ##### Qué estás haciendo realmente
-###### Estás reduciendo el texto a su **estructura mínima irreducible**.
 
-###### Estás viendo **solo lo que avanza el pensamiento**.
+###### Estás dejando visible el desarrollo principal del texto.
 
 ##### Principio clave
-###### El desarrollo del texto ocurre en las **cláusulas con verbo finito**.
-- 👉 Las frases completan
-- 👉 Pero no avanzan el pensamiento por sí mismas
+###### La dependencia determina qué se elimina.
 
 ##### Idea clave
-###### Una cláusula con verbo finito puede sostener una línea de pensamiento.
-###### Una frase no puede.
-
-##### Pregunta guía
-###### 👉 ¿Aquí ocurre una acción o estado expresado por un verbo finito?
-- Sí → es parte del tronco
-- No → es añadido
-
-##### Definición
-###### Estructura troncal = conjunto de cláusulas con verbo finito que sostienen el desarrollo del texto.
-
-##### Ejemplo guiado
-###### Texto completo (Paso 7):
-
-```
-Así que yo, hermanos, no ==pude== hablarles
-    como a espirituales
-    sino como a carnales
-    como a niños en Cristo.
-
-Les ==di== a beber leche
-    no alimento sólido,
-    (porque) todavía no ==podían== recibirlo.
-    `¿por qué? → porque no podían recibirlo`
-
-En verdad, ni aun ahora ==pueden==.
-```
-
-###### Estructura troncal:
-
-```text
-no pude ==hablarles==
-les ==di==
-no ==podían==
-```
-
-##### Regla importante
-###### La estructura troncal no incluye frases.
-- 👉 Solo incluye cláusulas con verbo finito
-
-##### Error común
-- Dejar frases dentro de la troncal
-- Quitar cláusulas porque parecen “menos importantes”
-- Pensar que todo debe quedarse
-- Confundir contenido con estructura
-
-##### Regla de control
-###### Si una línea no tiene verbo finito, no puede estar en la troncal.
+###### Las cláusulas dependientes acompañan  
+###### Las cláusulas principales sostienen el desarrollo  
 
 ##### Frase clave
-> “Solo lo que tiene verbo finito sostiene el tronco.”
+> “Elimino lo que depende; conservo lo que sostiene.”
+
+##### Pregunta guía
+- 👉 ¿Esta cláusula está unida por un conector?
+
+##### Definición
+###### Tronco = conjunto de cláusulas que no dependen de otra.
+
+##### Regla importante
+###### Solo eliminas lo que ya fue identificado como dependiente.
+
+##### Error común
+
+- Eliminar cláusulas principales  
+- Dejar cláusulas dependientes  
+- Decidir por “sentido” en lugar de estructura  
+- Eliminar contenido esencial  
+
+##### Regla de control
+
+###### Si la cláusula tenía conector en Paso 4 → debe eliminarse  
+###### Si no tenía conector → debe permanecer  
 
 ##### Qué debes notar
 
 ###### Ahora el texto:
-- está reducido a lo esencial
-- muestra el avance real del pensamiento
-- elimina todo lo que solo añade detalle
-
-###### 👉 Ves el esqueleto real del argumento
+- queda simplificado  
+- mantiene su contenido esencial  
+- muestra el desarrollo sin interrupciones  
 
 ##### Transición
 
 ###### En el siguiente paso:
-- 👉 marcarás el **comportamiento de cada línea**
-- 👉 verás cómo se relacionan entre sí
-- 👉 identificarás el movimiento del texto
+- 👉 observarás qué hace cada cláusula  
+- 👉 verás cómo se mueve el texto  
 
 # PASO 9 — MARCAR EL COMPORTAMIENTO
 
 ## EJECUTA
 
 ##### ¿Qué haces?
-###### Asignas una etiqueta de comportamiento a cada línea del texto.
+###### Asignas una etiqueta de comportamiento a cada cláusula del tronco.
 
 ##### Regla
-###### Cada línea se etiqueta según lo que hace dentro del desarrollo del pensamiento.
+###### Solo trabajas con las cláusulas del Paso 8.
+- 👉 No agregas frases
+- 👉 No recuperas información eliminada
+- 👉 No vuelves a la estructura anterior
+
+###### La etiqueta debe describir una función observable.
+
+###### No debe introducir ideas nuevas.
 
 ##### Cómo hacerlo
-###### Cada línea corresponde a una cláusula (o parte de ella) en el formato visual.
 
-1. Toma el texto ya estructurado (Paso 8)
+1. Toma el texto del Paso 8 (tronco)
 
-2. Lee una línea
+2. Lee una cláusula
 
 3. Haz esta pregunta:
-- 👉 ¿Qué está haciendo esta línea?
+- 👉 ¿Qué está haciendo esta cláusula aquí?
 
-4. Asigna una etiqueta clara
+4. Asigna una etiqueta clara y verificable
 
 ##### Resultado esperado
-###### Cada línea del texto tiene una etiqueta visible:
 
 ```
 ::EXPONE::
 no pude hablarles
 
 ::EXPONE::
-les di
+yo di
 
 ::RAZÓN::
-no podían
+ni aun ahora pueden
 ```
 
 ## ENTIENDE
-##### Qué estás haciendo realmente
-###### Hasta el Paso 8 trabajaste estructura.
-###### Aquí es donde el texto comienza a entenderse sin interpretación.
 
-###### Ahora trabajas movimiento.
-- 👉 Ya sabes cómo está armado el texto
-- 👉 Ahora observas cómo avanza
+##### Qué estás haciendo realmente
+###### Hasta el Paso 8 dejaste solo el desarrollo principal.
+
+###### Aquí observas cómo ese desarrollo avanza.
 
 ##### Principio clave
-###### El texto no solo está organizado.
+###### El texto no solo tiene estructura.
 - 👉 El texto se mueve.
 
-###### Cada línea cumple una función dentro de ese movimiento.
-
 ##### Idea clave
-###### Estructura → cómo está construido
-###### Movimiento → qué está haciendo
+###### Cada cláusula del tronco cumple una función.
+- 👉 Paso 8 mostró las líneas principales
+- 👉 Paso 9 muestra qué hace cada una
 
-- 👉 Paso 8 organiza
-- 👉 Paso 9 revela acción
+##### Frase clave
+> “Marco lo que hace cada cláusula del tronco.”
 
 ##### Pregunta guía
-###### 👉 ¿Qué está haciendo esta línea aquí?
+###### 👉 ¿Qué está haciendo esta cláusula aquí?
 
 ###### NO preguntes:
-- ¿qué tipo de línea es?
+- ¿qué significa?
+- ¿qué idea me parece que comunica?
+- ¿qué tipo de cláusula es?
 
 ###### SÍ pregunta:
-- ¿qué función cumple?
+- ¿qué función cumple dentro del desarrollo?
 
 ##### Definición
 ###### Comportamiento = la función que una cláusula cumple dentro del desarrollo del pensamiento.
 
-###### Ejemplos:
-• expone • contrasta • da razón • muestra resultado • amplía • aclara
+###### Usa etiquetas que puedan justificarse por la relación visible del texto.
+
+###### Etiquetas base:
+• EXPONE • CONTRASTA • RAZÓN
+
+###### Etiquetas adicionales (solo si son claramente observables):
+• RESULTADO • CONDICIÓN • PROPÓSITO
+
+###### Etiquetas restringidas:
+• AMPLÍA • ACLARA
+
+###### ❗ Estas últimas solo se usan si puedes mostrarlo sin introducir ideas nuevas.
 
 ##### Ejemplo guiado
-
-###### Texto (de paso 8):
+###### Texto (Paso 8):
 
 ```
 no pude ==hablarles==
-les ==di==
-no ==podían==
+yo ==di==
+ni aun ahora ==pueden==
 ```
 
 ###### Aplicación:
@@ -1284,48 +1318,49 @@ no ==podían==
 no pude hablarles
 
 ::EXPONE::
-les di
+yo di
 
 ::RAZÓN::
-no podían
+ni aun ahora pueden
 ```
 
 ##### Regla importante
-El comportamiento no depende de tener verbo.
+###### Solo etiquetas cláusulas del tronco.
 
-👉 Una frase también puede tener comportamiento
+###### La etiqueta debe poder defenderse desde el texto,
+
+###### no desde impresión personal.
 
 ##### Error común
-❌ Volver a pensar en estructura
-❌ Ignorar frases por no tener verbo
-❌ Etiquetar por intuición sin preguntarse “qué hace”
+
+- Volver a incluir cláusulas eliminadas
+- Etiquetar frases que no están en el tronco
+- Usar etiquetas demasiado libres
+- Etiquetar por intuición sin responder la pregunta
 
 ##### Regla de control
+###### Si la línea no está en el Paso 8, no se etiqueta.
 
-###### Si no puedes responder:
-- 👉 “¿Qué hace esta línea?”
+###### Si la etiqueta no puede justificarse de forma observable,
 
-###### Entonces no puedes etiquetar correctamente.
-
-##### Frase clave
-###### “No preguntes qué es — pregunta qué hace.”
+###### no debe usarse.
 
 ##### Qué debes notar
 
 ###### Ahora comienzas a ver:
-- dónde el texto expone
-- dónde responde
-- dónde cambia
-- dónde concluye
+- cómo inicia el texto
+- cómo contrasta
+- cómo da razón
+- cómo avanza el desarrollo
 
-👉 Estás viendo el movimiento real del texto
+- 👉 Estás viendo el movimiento real del texto
 
 ##### Transición
 
 ###### En el siguiente paso:
-- 👉 dejarás de mirar el contenido
-- 👉 y observarás solo las etiquetas
-- para detectar patrones
+- 👉 ignorarás el contenido
+- 👉 leerás solo las etiquetas
+- 👉 detectarás patrones
 
 # PASO 10 — IDENTIFICAR PATRONES
 
@@ -1335,8 +1370,10 @@ El comportamiento no depende de tener verbo.
 ###### Lees únicamente las **etiquetas** y detectas lo que se repite.
 
 ##### Regla
-###### Ignoras el contenido.
+###### Ignoras el contenido del texto y trabajas únicamente con las etiquetas del Paso 9
 - 👉 Solo observas la **secuencia de comportamiento**.
+- Solo usas las etiquetas generadas en el Paso 9
+- El patrón solo puede formarse con etiquetas del Paso 9
 
 ##### Cómo hacerlo
 
@@ -1345,10 +1382,9 @@ El comportamiento no depende de tener verbo.
 2. Léelas en orden
 
 3. Haz esta pregunta:
+-👉 ¿Qué se repite?
 
-   👉 ¿Qué se repite?
-
-4. Identifica la secuencia que aparece varias veces
+4. El patrón debe ser una secuencia completa que se repite.
 
 5. Exprésala como un patrón
 
@@ -1363,7 +1399,7 @@ RAZÓN
 ###### Patrón:
 
 ```
-EXPONE → RESPUESTA
+EXPONE → RAZÓN
 ```
 
 ## ENTIENDE
@@ -1385,7 +1421,6 @@ EXPONE → RESPUESTA
 ###### Patrón = secuencia de comportamiento que se repite dentro del texto.
 
 ##### Ejemplo guiado
-
 ###### Etiquetas:
 
 ```
@@ -1398,16 +1433,16 @@ EXPONE → RESPUESTA
 
 ###### Observación:
 - EXPONE se repite
-- siempre seguido por otra acción
 
 ###### Resultado:
-
 ```
-EXPONE → RESPUESTA
+EXPONE → RAZÓN
 ```
 
 ##### Regla importante
 ###### El patrón se basa en repetición real, no en impresión.
+###### El patrón solo puede formarse con etiquetas del Paso 9  
+###### El patrón debe ser una secuencia completa que se repite
 
 ##### Error común
 
@@ -1422,10 +1457,8 @@ EXPONE → RESPUESTA
 ##### Frase clave
 > “No busques ideas — busca repetición.”
 
-
 ##### Qué debes notar
 ###### Cuando identificas correctamente:
-
 - el texto revela su forma de avanzar
 - puedes anticipar lo que sigue
 - el flujo se vuelve visible
@@ -1433,7 +1466,6 @@ EXPONE → RESPUESTA
 ##### Transición
 ###### En el siguiente paso:
 - 👉 usarás ese patrón para decidir si debes seguir o detenerte
-
 - 👉 el texto comenzará a definir sus propios límites
 
 # PASO 11 — SEGUIR O DETENERSE
@@ -1446,38 +1478,40 @@ EXPONE → RESPUESTA
 ##### Regla
 ###### Mientras el patrón continúe → sigues 
 ###### Cuando el patrón se rompe → te detienes
+###### Solo puedes avanzar si tienes un patrón claro del Paso 10
 
 ##### Cómo hacerlo
 
 1. Toma el patrón identificado (Paso 10)
 
-2. Avanza en el texto aplicando nuevamente los Pasos 1–10 a las siguientes líneas.
+2. Avanza en el texto
 
-3. Observa las etiquetas
+3. Marca el comportamiento de las nuevas cláusulas (Paso 9)
 
-4. Haz esta pregunta:
+4. Compara esas etiquetas con el patrón identificado (Paso 10)
+
+5. Haz esta pregunta:
 - 👉 ¿El patrón sigue o se rompe?
 
-5. Decide:
+6. Decide:
 - Sigue → continúas
 - Se rompe → te detienes
 
 ##### Resultado esperado
-
 ##### Patrón: 
 
 ```
 1 Corintios 3:1–23
-EXPONE → RESPUESTA ✔
+EXPONE → RAZÓN ✔
 
 1 Corintios 4:1–5
-EXPONE → RESPUESTA ✔
+EXPONE → RAZÓN ✔
 
 1 Corintios 4:6–13
-EXPONE → RESPUESTA ✔
+EXPONE → RAZÓN ✔
 
 1 Corintios 4:14–21
-EXPONE → RESPUESTA ✔
+EXPONE → RAZÓN ✔
 
 1 Corintios 5:1–13
 EXPONE → MANDATO → JUICIO ✖ 
@@ -1510,15 +1544,15 @@ EXPONE → MANDATO → JUICIO ✖
 ###### Patrón:
 
 ```
-EXPONE → RESPUESTA
+EXPONE → RAZÓN
 ```
 
 ###### Evaluación:
 
 ```
-EXPONE → RESPUESTA  
-EXPONE → RESPUESTA  
-EXPONE → RESPUESTA  
+EXPONE → RAZÓN  
+EXPONE → RAZÓN  
+EXPONE → RAZÓN  
 ```
 
 ##### Resultado:
@@ -1542,8 +1576,8 @@ EXPONE → RESPUESTA
 > “No me detengo hasta que el patrón desaparece.”
 
 ##### Qué debes notar
-###### Cuando aplicas correctamente:
 
+###### Cuando aplicas correctamente:
 - evitas dividir el texto prematuramente
 - sigues el flujo real del pensamiento
 - los límites se vuelven objetivos
@@ -1558,23 +1592,30 @@ EXPONE → RESPUESTA
 ## EJECUTA
 
 ##### ¿Qué haces?
-###### Defines los **límites completos** de la unidad de pensamiento.
+###### Defines los límites completos de la unidad de pensamiento.
 
 ##### Regla
-###### La unidad comienza donde inicia el patrón y termina donde el patrón se rompe
+###### La unidad comienza donde inicia el patrón  
+###### y termina donde el patrón se rompe
+
+###### ❗ No decides los límites  
+###### ❗ Usas exactamente el punto donde te detuviste en el Paso 11  
 
 ##### Cómo hacerlo
 
 1. Toma el punto donde comenzó el patrón (Paso 10)
-2. Toma el punto donde se rompió (Paso 11)
-3. Marca ese tramo completo
+
+2. Toma el punto donde el patrón se rompió (Paso 11)
+
+3. Escribe claramente el inicio y el final de la unidad
+
 4. No cortes antes ni extiendas después
 
 ##### Resultado esperado
 
 ```
 Unidad:
-desde ______  
+desde ______
 hasta ______
 ```
 
@@ -1582,73 +1623,71 @@ hasta ______
 
 ```
 Unidad:
-1 Corintios 3:1–17
+desde 1 Corintios 3:1
+hasta 1 Corintios 4:21
 ```
 
 ## ENTIENDE
 
 ##### Qué estás haciendo realmente
-###### Estás identificando la **unidad completa del desarrollo del pensamiento**.
+###### Estás identificando la unidad completa del desarrollo del pensamiento.
 
 ##### Principio clave
 ###### La unidad no se decide.
-###### 👉 El patrón la determina.
+- 👉 El patrón la determina
 
 ##### Idea clave
-###### Mientras el patrón continúa → misma unidad
-###### Cuando el patrón se rompe → nueva unidad
+###### Mientras el patrón continúa → misma unidad  
+###### Cuando el patrón se rompe → nueva unidad  
 
 ##### Pregunta guía
-
-👉 ¿Dónde comenzó el patrón?
- 👉 ¿Dónde se rompió?
+- 👉 ¿Dónde comenzó el patrón?  
+- 👉 ¿Dónde se rompió?
 
 ##### Definición
-Unidad = tramo completo donde el mismo patrón se mantiene.
+###### Unidad = tramo completo donde el mismo patrón se mantiene.
 
 ##### Ejemplo guiado
 
-###### Observación previa (paso 11):
+###### Observación previa (Paso 11):
 
 ```
 1 Corintios 3:1–23
-EXPONE → RESPUESTA ✔
+EXPONE → RAZÓN ✔
 
 1 Corintios 4:1–5
-EXPONE → RESPUESTA ✔
+EXPONE → RAZÓN ✔
 
 1 Corintios 4:6–13
-EXPONE → RESPUESTA ✔
+EXPONE → RAZÓN ✔
 
 1 Corintios 4:14–21
-EXPONE → RESPUESTA ✔
+EXPONE → RAZÓN ✔
 
 1 Corintios 5:1–13
-EXPONE → MANDATO → JUICIO ✖ 
+EXPONE → MANDATO → JUICIO ✖
 ```
 
 ###### Resultado:
-
 ```
 Unidad:
-desde 1 Corintios 3:1  
+desde 1 Corintios 3:1
 hasta 1 Corintios 4:21
 ```
 
 ##### Regla importante
 ###### No defines la unidad por contenido.
- 👉 La defines por comportamiento.
+- 👉 La defines por comportamiento
 
 ##### Error común
-
-- Cortar por cambio de tema
-- Cortar por intuición
-- Extender más allá del patrón
-- Reducir antes de tiempo
+- Cortar por cambio de tema  
+- Cortar por intuición  
+- Extender más allá del patrón  
+- Reducir antes de tiempo  
 
 ##### Regla de control
-###### Si el patrón continuaba, no podías cortar antes.
-###### Si el patrón se rompió, no puedes extender más.
+###### Si el patrón continuaba, no podías cortar antes  
+###### Si el patrón se rompió, no puedes extender más  
 
 ##### Frase clave
 > “La unidad termina donde el patrón se rompe.”
@@ -1656,23 +1695,21 @@ hasta 1 Corintios 4:21
 ##### Qué debes notar
 
 ###### Ahora tienes:
-- límites objetivos
-- una unidad completa
-- base firme para expresar el texto
+- límites objetivos  
+- una unidad completa  
+- base firme para trabajar el texto  
 
 ##### Transición
+
 ###### En el siguiente paso:
-
-- 👉 expresarás la acción del tronco
-
-- 👉 verás qué ocurre en la unidad sin interpretarlo
+- 👉 expresarás la acción del tronco  
+- 👉 verás qué hace el texto completo sin interpretarlo  
 
 # PASO 13 — EXPRESAR LA ACCIÓN DEL TRONCO
 
 ## EJECUTA
 
 ##### ¿Qué haces?
-
 ###### Escribes una sola oración que expresa la acción del texto usando el tronco.
 
 ##### Regla
@@ -1681,32 +1718,29 @@ hasta 1 Corintios 4:21
 - el **autor**
 - un **verbo permitido**
 - el **contenido del tronco**
+- debe ser coherente con el comportamiento observado
 
 ###### ❌ No agregas ideas
 ###### ❌ No explicas
 ###### ❌ No interpretas
 
 ##### Cómo hacerlo
-
 ###### Trabajas únicamente con el tronco (Paso 8).
 
 1. Toma el tronco completo
 2. Léelo de principio a fin
 3. Haz esta pregunta:
-- 👉 ¿Qué está haciendo el autor con este contenido?
+- 👉  ¿Qué hace el autor según el tronco?
 
 4. Escribe una sola oración con este formato:
 - 👉 **[Autor] + [verbo permitido] + [contenido del tronco]**
 
 ##### Resultado esperado
-
 ###### Una sola oración clara que exprese la acción del texto:
 
 ```
-Pablo expone la incapacidad de los hermanos y responde mostrando la acción de Dios, la condición de ellos, y las consecuencias dentro de la unidad.
+Pablo expone que no pudo hablarles, que les dio, y que no podían.
 ```
-
-------
 
 ## ENTIENDE
 
@@ -1724,7 +1758,6 @@ Pablo expone la incapacidad de los hermanos y responde mostrando la acción de D
 - 👉 Aquí lo expresas directamente
 
 ##### Idea clave
-
 ###### Estructura → cómo está construido
 
 ###### Movimiento → cómo avanza
@@ -1735,7 +1768,7 @@ Pablo expone la incapacidad de los hermanos y responde mostrando la acción de D
 - 👉 Paso 13 expresa la acción final
 
 ##### Pregunta guía
-###### 👉 ¿Qué está haciendo el autor con todo esto?
+###### 👉 ¿Qué hace el autor según el tronco?
 
 ###### NO preguntes:
 - ¿qué significa?
@@ -1744,11 +1777,11 @@ Pablo expone la incapacidad de los hermanos y responde mostrando la acción de D
 - ¿qué hace?
 
 ##### Definición
-
-###### Acción del tronco = la acción principal que el autor realiza con el contenido estructural del texto.
+###### Acción del tronco = lo que el autor hace con el contenido del tronco.
+- La acción del tronco debe ser coherente con el comportamiento observado (Paso 9)
 
 ###### Verbos permitidos:
-• explica • muestra • afirma • contrasta • corrige
+• expone • afirma • contrasta
 
 ##### Ejemplo guiado
 
@@ -1767,22 +1800,17 @@ Pablo expone que no pudo hablarles, que les dio, y que no podían.
 ```
 
 ##### Regla importante
-
 ###### La oración debe salir del tronco, no de ideas externas.
-
-👉 Si no está en el tronco, no entra en la oración
+- 👉 Si no está en el tronco, no entra en la oración
 
 ##### Error común
-
 - Explicar el texto
 - Agregar interpretación
 - Usar palabras que no vienen del tronco
 - Hacer más de una oración
 
 ##### Regla de control
-
-###### Si la oración incluye algo que no está en el tronco:
-- 👉 Está incorrecta
+###### Cada elemento de la oración debe poder señalarse en el tronco
 
 ###### Si explica en lugar de declarar acción:
 - 👉 Está incorrecta
@@ -1792,12 +1820,34 @@ Pablo expone que no pudo hablarles, que les dio, y que no podían.
 
 ##### Qué debes notar
 ###### Ahora puedes ver:
-
 - la acción principal del autor
 - el propósito del desarrollo
 - la dirección del texto completo
 
 - 👉 Estás viendo el texto como una unidad completa en acción
+
+##### Qué debes entender
+
+###### Paso 13 no es una explicación del texto.
+###### Es una reformulación controlada del tronco.
+
+##### Paso 13 ES:
+
+✔ Una reformulación controlada  
+✔ Una compresión trazable  
+✔ Un paso de verificación  
+
+##### Paso 13 NO ES:
+
+- ❌ Un resumen  
+- ❌ Una interpretación  
+- ❌ Una conclusión  
+- ❌ Un punto de enseñanza  
+
+##### Regla de control
+
+###### Si agregas algo que no puedes señalar en el tronco,
+###### ya saliste del paso.
 
 ##### Transición
 ###### Aquí termina la fase estructural.
@@ -1809,940 +1859,783 @@ Pablo expone que no pudo hablarles, que les dio, y que no podían.
   - unidad
   - acción
 
-  👉 Ahora estás listo para observar lo que el texto dice (Fase 2)
+#  FORMULAR TÍTULOS A PARTIR DEL ANÁLISIS
 
-# O<sub>2</sub> - OBSERVAR EL TEXTO
+## EJECUTA
 
-## El problema no es la Biblia
+##### ¿Qué haces?
+###### Formulas títulos a partir del análisis ya realizado.
 
-La Biblia no es confusa. No es contradictoria. No está escondiendo su mensaje.
+##### Propósito
+###### Convertir el resultado de los Pasos 1–13 en títulos claros y comunicables,
 
-El problema es **cómo llegamos a ella**.
+###### sin agregar ideas nuevas.
 
-Cada lector trae algo consigo. Y eso que trae… muchas veces **distorsiona lo que el texto dice**.
+##### Regla
+###### Los títulos se derivan del análisis, no se inventan.
 
-## Dos caminos
+##### Cómo hacerlo
+###### H1 — Acción del texto
 
-### Exégesis
+1. Toma la oración del Paso 13
+2. Reduce la repetición
+3. Mantén el contenido esencial
+4. Conserva el verbo principal
 
-Leer **desde el texto**.
- Dejar que el texto diga lo que dice.
+###### H2 — Desarrollo del texto
 
-### Eiségesis
+1. Toma el patrón identificado (Paso 10)
+2. Identifica la secuencia dominante
+3. Exprésala en una frase breve usando las etiquetas
 
-Leer **hacia el texto**.
- Hacer que el texto diga lo que yo ya traigo.
+##### Resultado esperado
 
-------
+```
+H1:
+Pablo expone su oposición a Pedro y la no justificación por la ley
 
-## Formas comunes de distorsionar el texto
+H2:
+Desarrollo: expone, contrasta y da razón
+```
 
-### Teología primero
+## ENTIENDE
 
-El lector ya tiene un sistema.
- Entonces busca versículos que encajen.
+##### Qué estás haciendo realmente
+###### Estás pasando del análisis a la comunicación,
 
-El texto no habla.
- El sistema habla.
+###### sin salirte del texto.
 
-------
+##### Principio clave
+###### El título no crea el significado.
+- 👉 El título refleja lo que el texto ya muestra
 
-### Cultura primero
+##### Idea clave
+###### Los títulos no se inventan.
+- 👉 Se derivan directamente del análisis
 
-El lector adapta el texto a su entorno.
- Lo hace relevante… pero deja de ser fiel.
+##### Definición
+###### H1 = acción del texto (Paso 13)
 
-El significado cambia según la cultura.
+###### H2 = desarrollo del texto (Paso 10)
 
-------
+##### Regla de control
+###### ❗ El H1 debe poder trazarse al Paso 13
 
-### Experiencia primero
+###### ❗ El H2 debe poder trazarse al Paso 10
 
-“El texto debe coincidir con lo que viví.”
+###### Si no puedes hacerlo,
 
-Si no coincide, se redefine.
+###### los títulos no son válidos.
 
-La experiencia se vuelve la autoridad.
+##### Error común
 
-------
+- Inventar títulos desde ideas generales
+- Resumir el texto en lugar de derivarlo
+- Usar lenguaje no presente en el análisis
 
-### Sentimientos primero
+##### Qué debes notar
+###### Cuando los títulos son correctos:
 
-“Esto no me suena bien.”
- “Esto me incomoda.”
+- reflejan el texto
+- no introducen ideas nuevas
+- preparan la observación sin influir en ella
 
-Entonces se suaviza el texto.
- Se ajusta para que no confronte.
+##### Transición
 
-------
+###### En la siguiente fase:
+- 👉 observarás lo que el texto dice
+- 👉 trabajarás cada parte sin interpretar
 
-### Reglas primero
+- 👉 Ahora estás listo para observar lo que el texto dice (Fase 2)
 
-La Biblia se reduce a:
- **haz esto / no hagas aquello**
+# O<sub>2</sub> OBSERVAR EL TEXTO
 
-Se pierde el mensaje.
- Se pierde el propósito.
+## INTRODUCCIÓN
 
-Solo quedan normas.
+##### El problema no es la Biblia
+###### La Biblia no es confusa. No es contradictoria. No está escondiendo su mensaje. El problema es **cómo llegamos a ella**. Cada lector trae algo consigo. Y eso que trae… muchas veces **distorsiona lo que el texto dice**.
 
-------
+#### Formas comunes de distorsionar el texto
 
-## El resultado
+##### **Teología primero**.  
+###### El lector ya tiene un sistema. Entonces busca versículos que encajen.
 
-El texto ya no gobierna.
+###### El texto no habla libremente sino confinado al sistema.
 
-El lector gobierna.
+##### Cultura primero. 
+###### El lector adapta el texto a su entorno.  Lo hace relevante… pero deja de ser fiel.
 
-Y cuando eso pasa:
+###### El significado cambia según la cultura.
 
-- El significado cambia
+##### Experiencia primero
+###### “El texto debe coincidir con lo que viví.” Si no coincide, se redefine.
+###### La experiencia se vuelve la autoridad.
 
-- El mensaje se altera
+##### Sentimientos primero
+###### “Esto no me suena bien.” “Esto me incomoda.” Entonces se suaviza el texto. Se ajusta para que no confronte.
 
-- La intención se pierde
+##### Reglas primero
+###### La Biblia se reduce a: haz esto / no hagas aquello
 
-  Y el lector…
-   **permanece igual**
+##### Se pierde el mensaje. Se pierde el propósito. Solo queda algo sistematizado.
 
-------
+##### Qué haces ahora
+###### Observas con precisión lo que el texto dice,
 
-## Por qué el estudiante no cambia
+###### basándote en la estructura ya definida.
 
-No porque la Biblia no tenga poder.
+##### Propósito
+###### Ver el contenido del texto sin agregar significado.
 
-Sino porque **el mensaje fue reemplazado**.
+##### Principio clave
 
-El texto dijo una cosa…
- Pero el lector escuchó otra.
+###### El texto ya comunica.
+- 👉 No necesita que lo completes
+- 👉 No necesita que lo expliques
 
-------
+##### Contexto
+###### El texto no se entiende por frases aisladas.
+- 👉 Se entiende dentro de su desarrollo
 
-## Punto clave del curso
+###### Por eso trabajaste primero la estructura.
 
-Aquí hacemos algo diferente:
+###### ❗ El contexto no es algo que agregas después
 
-No empezamos con interpretación
- No empezamos con aplicación
+###### ❗ Es algo que ya está definido por el texto
 
-Empezamos con una sola cosa:
+###### Ahora observas cada parte:
+- dentro del tronco
+- dentro del movimiento
+- dentro de la unidad
 
-**OBSERVAR LO QUE EL TEXTO DICE**
+##### Advertencia
+###### Traes contigo:
+- tu experiencia
+- lo que has escuchado
+- lo que piensas que significa
 
-------
+###### ❗ Todo eso puede interferir con lo que el texto dice.
 
-## Regla fundamental
+##### Exégesis vs Eiségesis
+###### Exégesis:
+- 👉 sacar del texto lo que está ahí
 
-El texto tiene derecho a hablar antes que tú.
+###### Eiségesis:
+- 👉 meter en el texto lo que tú traes
 
-------
+###### ❗ En esta fase:
+- no agregas
+- no completas
+- no interpretas
 
-## Lo que vamos a aprender
+##### Regla central
+###### Esta es la observación más cercana a la interpretación,
 
-- Ver lo que está ahí (no lo que creemos que está)
-- Seguir el flujo del autor
-- Reconocer estructura y movimiento
-- Dejar que el significado salga del texto
+###### pero sin llegar a interpretar.
 
-------
+###### ❗ Te mantienes en lo que el texto dice,
 
-## Resultado esperado
+###### no en lo que piensas que significa.
 
-Cuando el texto habla claramente:
+##### Herramienta clave
+###### Repetición
+- 👉 Palabras que se repiten
+- 👉 Ideas que vuelven
+- 👉 Estructuras que aparecen otra vez
 
-- El significado no es forzado
+###### ❗ La repetición muestra énfasis
 
-- La interpretación no es inventada
+###### ❗ El texto señala lo importante
 
-- La aplicación no es superficial
+##### Frase clave
+> “Observo lo que el texto dice, no lo que yo pienso.”
 
-  Y entonces sí…
+##### Qué debes notar
+###### En esta fase:
+- no explicas
+- no resumes
+- no enseñas
 
-  El lector cambia.
+###### 👉 Solo observas con precisión
 
+##### Transición
 
+###### Ahora trabajarás frase por frase:
+- 👉 observando lo que el texto afirma
+- 👉 notando cómo lo dice
+- 👉 sin añadir significado
 
+## TRABAJAR CADA FRASE
 
+##### Qué haces
+###### Tomas una frase (H4)
 
+###### y observas exactamente lo que el texto dice.
 
+##### Regla
+###### No agregas significado
 
+###### No explicas
+###### No interpretas
+###### 👉 Solo observas lo que está presente en el texto
 
+##### Cómo hacerlo
+###### Para cada frase, observa con cuidado:
 
+###### Afirmación
+- 👉 ¿Qué está afirmando el texto?
+- 👉 ¿Qué dice explícitamente?
 
+###### Sujeto
+- 👉 ¿Quién realiza la acción?
+- 👉 ¿Está claro o implícito?
+
+###### Verbo
+- 👉 ¿Qué acción ocurre?
+- 👉 ¿Cómo se presenta?
+
+###### Relación
+- 👉 ¿Por qué está esta frase aquí?
+- 👉 ¿Cómo se conecta con la anterior?
+
+###### Repetición
+- 👉 ¿Qué palabras o ideas vuelven a aparecer?
+
+###### Contraste
+- 👉 ¿Qué se opone a qué?
+
+###### Énfasis
+- 👉 ¿Qué parece resaltado o importante?
+
+##### Importante
+###### No todas las observaciones aplican siempre.
+
+###### 👉 Observas solo lo que el texto permite ver
+
+##### Resultado esperado
+###### Observaciones claras, breves y trazables al texto
+
+##### Frase clave
+> “Veo lo que el texto dice, no lo que yo agrego.”
+
+##### Qué debes notar
+###### Ahora el texto comienza a aclararse:
+
+- ves lo que afirma
+- ves cómo lo dice
+- ves qué repite
+- ves qué contrasta
+
+###### 👉 Estás viendo el contenido real del texto
+
+##### Transición
+
+###### Después de observar cada frase:
+- 👉 podrás ver el contenido completo con claridad
+- 👉 sin haber interpretado el texto
+
+# T — SEGUIR EL TEXTO
+
+## INTRODUCCIÓN
+
+##### El problema de quedarse en partes
+###### Hasta ahora has trabajado el texto por frases.
+
+###### Has observado con precisión,
+
+###### pero de forma fragmentada.
+
+###### ❗ El texto no fue dado en partes.
+
+###### Fue dado como un desarrollo continuo.
+
+##### Qué haces ahora
+###### Ahora unes lo que observaste.
+- 👉 Sigues el texto de principio a fin
+- 👉 Sin romper su flujo
+- 👉 Sin cambiar su orden
+
+##### Propósito
+###### Ver el desarrollo completo del texto,
+
+###### tal como fue comunicado.
+
+## EJECUTA
+
+##### ¿Qué haces?
+###### Expresas el contenido del texto de forma continua,
+
+###### siguiendo su desarrollo.
+
+##### Regla
+###### No explicas
+
+###### No interpretas
+
+###### No agregas
+
+###### 👉 Solo dices lo que el texto dice
+
+##### Cómo hacerlo
+
+1. Toma tus observaciones (Fase 2)
+
+2. Ordénalas según el texto
+
+3. Exprésalas de forma continua
+
+4. Mantén:
+- afirmaciones
+- contrastes
+- razones
+
+##### Resultado esperado
+###### Una expresión clara, continua y trazable al texto
+
+## ENTIENDE
+
+##### Qué estás haciendo realmente
+###### Estás uniendo las partes del texto en un solo flujo.
+
+##### Principio clave
+###### El texto no está fragmentado.
+
+- 👉 Tiene un desarrollo continuo
+
+##### Idea clave
+###### No reorganizas el texto.
+
+- 👉 Lo sigues tal como está
+
+##### Frase clave
+> “Sigo el texto tal como está escrito.”
+
+##### Regla de control
+###### Todo lo que dices debe poder señalarse en el texto
+
+##### Error común
+- Explicar en lugar de seguir
+- Cambiar el orden del texto
+- Agregar ideas externas
+- Resumir en lugar de expresar
+
+##### Qué debes notar
+
+###### Ahora ves:
+
+- cómo inicia el texto
+- cómo avanza
+- cómo se conecta
+- cómo llega a su punto
+
+##### Transición
+###### Ya no solo ves el texto.
+- 👉 Ahora estás listo para responder a él.
+
+# S — SOMETERSE AL TEXTO
+
+## INTRODUCCIÓN
+
+##### El problema final
+###### Es posible observar bien el texto,
+
+###### seguir su desarrollo,
+
+###### y aun así no responder correctamente.
+
+###### ❗ El mayor error no es no entender el texto.
+- 👉 Es no someterse a lo que dice.
+
+##### Qué haces ahora
+
+###### Ahora te colocas bajo el texto.
+- 👉 No lo ajustas
+- 👉 No lo suavizas
+- 👉 No lo modificas
+
+##### Propósito
+###### Reconocer la autoridad del texto
+
+###### sobre el lector.
+
+## EJECUTA
+
+##### ¿Qué haces?
+###### Te alineas con lo que el texto afirma.
+
+##### Regla
+###### No cambias el texto
+
+###### No seleccionas partes
+
+###### No lo adaptas a tu experiencia
+
+##### Cómo hacerlo
+
+1. Identifica lo que el texto afirma claramente
+
+2. Exprésalo sin modificarlo
+
+3. Reconócelo como autoridad
+
+##### Resultado esperado
+###### Una respuesta alineada con el texto,
+
+###### no con el lector
+
+## ENTIENDE
+
+##### Qué estás haciendo realmente
+###### Estás reconociendo que el texto tiene autoridad.
+
+##### Principio clave
+###### El texto tiene la última palabra.
+
+##### Idea clave
+###### No estás sobre el texto.
+- 👉 Estás bajo él
+
+##### Frase clave
+> “No cambio el texto. Me someto a él.”
+
+##### Regla de control
+
+###### Si el texto se ajusta a ti → fallaste
+
+###### Si tú te ajustas al texto → lograste el propósito
+
+##### Error común
+- Aceptar solo lo que es cómodo
+- Ajustar el texto a ideas previas
+- Ignorar lo que confronta
+- Convertir el texto en opinión
+
+##### Qué debes notar
+
+###### Aquí se completa el proceso:
+- viste la estructura
+- observaste el contenido
+- seguiste el desarrollo
+
+###### 👉 Ahora respondes correctamente al texto
+
+##### CIERRE
+
+###### ROOTS no termina en el análisis.
+
+###### Termina cuando:
+- observas
+- sigues
+- y te sometes
+
+###### 👉 al texto tal como está escrito.
+
+# CIERRE
+
+##### Has llegado al final del proceso
+###### No comenzaste con ideas.
+
+###### No comenzaste con interpretación.
+
+###### Comenzaste con el texto.
+
+##### Lo que hiciste
+###### Observaste cómo está construido
+
+###### Observaste lo que dice
+
+###### Seguiste su desarrollo
+
+##### Y ahora
+###### No estás sobre el texto.
+- 👉 Estás bajo él
+
+##### Principio final
+###### El texto no necesita ser completado
+
+###### El texto no necesita ser ajustado
+- 👉 El texto ya comunica
+
+##### Lo que queda
+###### No es explicar el texto
+
+###### No es defenderlo
+###### No es adaptarlo
+- 👉 Es dejar que el texto tenga la última palabra
+
+##### Frase final
+
+> “Dios habló.
+> Yo observo.
+> Sigo el desarrollo del texto.
+> Me someto al texto.”
+
+##### Última línea
+###### ROOTS no es un método para enseñar el texto.
+###### 👉 Es un proceso para dejar que el texto hable.
 
 -----
 
-#### Este material tiene el propósito de equiparnos de herramientas técnicas con las cuales aprenderemos a navegar a través de la escritura.
+# EJERCICIOS DE OBSERVACIÓN
 
-#### Antes de comenzar debemos hacernos unas cuantas preguntas:
+## INTRODUCCIÓN
 
-##### ¿Cual es la importancia de estudiar la escritura?
+##### Qué son estos ejercicios
 
-##### ¿Por que debemos estudiar la escritura?
+###### Estos ejercicios no son para enseñar contenido.
 
-##### ¿Como estudiar la escritura?
+###### 👉 Son para entrenar tu observación.
 
-#### En un tiempo en que la opinión y subjetividad predominan sobre el texto bíblico, en donde la verdad del texto a sido sepultada entre la mentira y el engaño, necesitamos redescubrir el arte del estudio del texto bíblico.
+---
 
-#### Esto no es algo loco o de otro mundo, la escritura tiene un mensaje contundente y único, es necesario para todo creyente aprender a navegar a través de la escritura.
+##### Propósito
 
-#### A través de este estudio y la practica del mismo podremos ir desarrollando un foco mas claro acerca de lo que dice la escritura. En la escrituras tenemos un ejemplo poderoso. <<*Juan 5:39 Ustedes examinan las Escrituras porque piensan tener en ellas la vida eterna. ¡Y son ellas las que dan testimonio de Mí!*>>.
+###### Aprender a ver el texto con precisión.
 
-#### Los fariseos eran estudiosos de las escrituras, a pesar de eso se estaban perdiendo de lo que en realidad la escritura estaba diciendo. Una pregunta, ¿ Y si lo que creo o se de la escritura no es lo que realmente dice?.
+---
 
-#### Este estudio no tiene como fin desarrollar eruditos biblicos, teologos irrefutables, desarrollar nuevas doctrinas, no se busca imponer una verdad, contraria y simplemente que seamos buenos observadores del texto. Una pregunta ¿Que dice realmente la escritura?.
+##### Regla
 
-#### *Hechos 17:11 Estos eran más nobles que los de Tesalónica, pues recibieron la palabra con toda solicitud, escudriñando diariamente las Escrituras, para ver si estas cosas eran así. *
+###### No interpretes
 
-##### Los animamos a como buenos bereanos a escudriñar la escritura para ver si las cosas son así.
+###### No expliques
 
-#### *2 Timoteo 2:15 Procura con diligencia presentarte a Dios aprobado, como obrero que no tiene de qué avergonzarse, que maneja con precisión la palabra de verdad*
+###### No completes
 
-##### Y para aprender a manejar con precisión la palabra de verdad.
+###### 👉 Solo haz lo que cada ejercicio pide
 
-## ¿Que es exegesis y eiségesis?
+---
 
-#### Entender exegesis y eiségesis nos ayudara a comprender la pregunta del millón ¿Por que nos hemos desviado de lo que en realidad dice la escritura?
+# NIVEL 1 — VER LO BÁSICO
 
-#### Estos dos conceptos son utilizados como procedimientos de análisis del texto, así mismos indican la dirección del análisis y su relación con el texto.
+##### Enfoque
 
-### Exegesis
+###### Identificar verbos finitos y cláusulas
 
-#### La exegesis es un procedimiento analítico que extrae información del texto, está parte de los datos del texto para formular  ideas o conclusiones. La exegesis se centra exclusivamente en el texto como fuente de extracción para formar una conclusión.
+---
 
-#### Para la exegesis el texto es indispensable y suficiente. Es importante aclarar que en la exegesis no nos acercamos al texto con una idea o una teología ya formada, la exegesis no es para apoyar ideas preconcebidas.
+### Ejercicio 1
 
-#### Cuando hacemos exegesis hay limitaciones claras, no es posible decir algo mas a lo que el texto dice, esto es muy certero para evitar tropiezos en manipular la escritura o acomodarla a nuestra teología.
+###### Texto:
 
-#### La exegesis esta acomodada para respetar la gramática y la estructura del lenguaje en el  texto, en otras palabras se debe respetar la estructura del texto, el contexto y la gramática del mismo.
+```
+No pude hablarles como a espirituales.
+```
 
-### Eiségesis
+###### Tarea:
 
-#### La eiségesis es un procedimiento analítico que introduce información al texto, esta parte de una idea conjeturada externa al texto y las proyecta sobre el texto. La eiségesis utiliza el texto como soporte de la idea externa.
+* Marca el verbo finito
+* Escribe la cláusula
 
-#### Es importante tener estos conceptos claros, contrario a la exegesis la eiségesis parte desde una una idea ya formulada y utiliza el texto como herramienta para complementar la idea o sustentarla.
+### Ejercicio 2
 
-#### La eiségesis no marca un limite con el texto este procedimiento utiliza el texto como una herramienta mas, con ella se puede exagerar o sacar de contexto el contenido del texto.
+###### Texto:
 
-## Métodos de estudio
+```
+Les di a beber leche, no alimento sólido.
+```
 
-#### Hablando en cuanto como estudiar el texto hay varios métodos empleables en esta ocasión veremos dos métodos principales y sus principios analíticos.
+###### Tarea:
+* Marca el verbo finito
+* Indica si hay más de una cláusula
 
-### Estudio Inductivo
+### Ejercicio 3
 
-#### Este se caracteriza de la construcción de conclusiones a partir de los datos observables del texto, este método parte de la observaciones especificas del texto con lo cual formula las ideas generales.
+###### Texto:
 
-#### EL estudio inductivo tiene un flujo ascendente dentro de la linea coherente de estudio  parte de los datos observables del texto y construye bloque a bloque una vista general del tema.
+```
+Porque todavía no podían recibirlo.
+```
 
-##### Requiere consistencia interna entre observaciones.
+###### Tarea:
+* Marca el verbo finito
+* Identifica el conector
 
-##### Las conclusiones pueden modificarse si los datos cambian.
+# NIVEL 2 — VER RELACIONES
 
-##### El proceso es abierto al ajuste.
+##### Enfoque
 
-### Etapas del estudio inductivo
+###### Identificar conectores y estructura
 
-### Observación ¿QUE DICE EL TEXTO?
+### Ejercicio 4
 
-#### Es el registo sistematico de datos explisitos del texto, ¿Cual es el objetivo de la observación?. La observacion es lo que nos ayudara a determinar que habla el texto.
+###### Texto:
 
-#### En ningún debemos omitir o menospreciar la observación del texto bíblico, ya que se convertirá en la bases de todo lo que queramos desarrollar, aunque nos parezca tedioso una buena observación del texto simplificará el trabajo posterior.
+```
+Les di a beber leche, porque no podían recibirlo.
+```
 
-#### La observación consta de una regla fundamental "la lectura" a medida que se lee repetidamente el texto iremos teniendo aun mas afinidad para observar el texto bíblico.
+###### Tarea:
+* Marca el verbo finito
+* Marca el conector
+* Escribe la pregunta del conector
 
-#### Algunas pautas o herramientas para la observación es la lectura del texto bíblico en distintas versiones (RVR09, RVR60, RVR20, NBLA, BTX4, NET, JSE, DHHD).
+### Ejercicio 5
 
-#### De igual manera es de ayuda realizar la lectura del texto en limpio (sin la numeración de versículos, sin la numeración de capítulos, sin títulos)
+###### Texto:
 
-#### También debemos observar los manuscritos originales del texto bíblico, estos podrán traer claridad en cuanto el significado de las palabras y por que fueron traducidas de la manera en que las encontramos.
+```
+No como a espirituales, sino como a carnales.
+```
 
-#### Durante la fase de observación también podremos determinar el genero literario del texto. Exciten 5 géneros literarios conocidos:
+###### Tarea:
 
-##### Narrativo. 
+* Identifica el conector
+* Escribe qué contrasta
 
-###### El genero narrativo contiene los hechos históricos y una continuidad histórica.
+### Ejercicio 6
 
-##### Poético.
+###### Texto:
 
-###### El genero poético contiene no necesariamente tiene una continuidad, es utilizado para expresar ideas, sentimiento, sabiduría, comúnmente utiliza figuras o simbología para expresarse.
+```
+Si alguien está en Cristo, es una nueva criatura.
+```
 
-##### Didáctico. 
+###### Tarea:
+* Marca los verbos
+* Identifica la condición
 
-###### Este genero se caracteriza por contener instrucciones, mandamientos, suele ser mas directo y claro con la audiencia para enfatizar lo dicho.
+# NIVEL 3 — REDUCIR SIN DISTORSIONAR
 
-##### Profético.
+##### Enfoque
 
-###### Se enfoca en en un emisor anunciando eventos aun futuros al momento del anuncio de la profecía, en este mismo hecho mucha parte de la escritura tiene profecía, mucha de ella ya cumplida y otra parte aun por cumplirse.
+###### Aplicar Paso 7 y Paso 8 correctamente
 
-#### La observación del texto compone un 85 por ciento de todo el trabajo. Durante este proceso de observación es muy bueno hacernos preguntas que nos ayudarán durante este estudio.
+### Ejercicio 7
 
-#### Preguntas.
+###### Texto:
 
-##### ¿Quien escribe?
+```
+Trataba de destruir la iglesia de Dios.
+```
 
-##### ¿Quien o quienes son los receptores?
+###### Tarea:
 
-##### ¿En lugar se desarrolla el texto?
+* Reduce la cláusula (Paso 7)
+* No rompas la acción
 
-##### ¿En que circunstancias se escribe?
+### Ejercicio 8
 
-##### ¿Cual es el mensaje global alrededor del texto?
+###### Texto:
 
-##### ¿Como se divide el texto?
+```
+Dios tuvo a bien revelar a Su Hijo en mí.
+```
 
-##### ¿De que genero(s) literario(s) consta el texto?
+###### Tarea:
 
-##### ¿De que habla el texto en secciones especificas?
+* Reduce la cláusula
+* Conserva la acción completa
 
-##### ¿ Quién habla y a quién?
+---
 
-##### ¿Qué sucede?
+### Ejercicio 9
 
-##### ¿Cuándo y dónde?
+###### Texto:
 
-##### ¿Qué palabras se repiten?
+```
+No consulté con carne y sangre.
+```
 
-##### ¿Qué conectores aparecen? (pero, porque, para que, si…)
+###### Tarea:
+* Reduce la cláusula
+* Identifica qué no puedes eliminar
 
-##### ¿Qué mandatos hay?
+# NIVEL 4 — VER MOVIMIENTO
 
-##### ¿Qué acciones y resultados se ven?
+##### Enfoque
 
-##### Subrayar repeticiones
+###### Identificar comportamiento y patrón
 
-##### Marcar sujeto / verbo / complemento
+### Ejercicio 10
 
-##### Identificar estructura (condición → resultado)
+###### Texto:
 
-#### Mediante la observación deberemos ser capaces de identificar el panorama general que trata toda la carta o libro.
+```
+No pude hablarles  
+Les di a beber leche  
+Porque no podían recibirlo
+```
 
-##### Las divisiones naturales del texto en donde el escritor inicia y termina una porción adjunta en el texto.
+###### Tarea:
 
-##### El sujeto emisor y el sujeto receptor
+* Etiqueta cada línea
+* Identifica el patrón
 
-#### La observación es la base de una correcta interpretacion, entre mas tiempo pasemos en la lectura del texto la observacion sera mas especifica y por ende la interpreetacion no presentara ninguna dificultal.
+### Ejercicio 11
 
-#### Al saber, ¿Que dice el texto? sera mas sencillo determinar ¿Que significa el texto?
+###### Texto:
 
-### Interpretación. ¿Que significa el texto?
+```
+El hombre no es justificado  
+Sino por la fe  
+Porque nadie será justificado
+```
 
-#### En la interpretación respondemos la pregunta ¿Que significa el texto? esta etapa es muy importante ya que representa la conclusión de nuestra observación y solo constituye un 10 por ciento del trabajo.
+###### Tarea:
 
-#### Algunos consejos.
+* Marca comportamiento
+* Identifica contraste y razón
 
-##### Si tu observacion es floja facilmente te equivocaras en la interpretacion.
+# NIVEL 5 — VER EL TEXTO COMPLETO
 
-##### Si aun tienes vacios en tu observacion es preferible volver a iniciar, no olvidemos que la intepracion son conclusiones logicas evidentes por texto
+##### Enfoque
 
-##### Evita que ideas relacionadas al texto interfieran en la interpretación
+###### Aplicar ROOTS completo
 
-#### La interpretación es una parte muy delicada en un estudio del texto bíblico, en esta etapa estamos presentando el significado del texto, no estamos intentando descubrir cosas ocultas del texto.
+### Ejercicio 12
 
-#### La interpretación tiene un limite marcado no podemos hacerle decir mas de lo que la observación a delimitado, además es importante tener en cuenta que nuestra interpretación no puede contradecir las verdades escritas del texto bíblico.
+###### Texto:
 
-#### ¿Que significa lo anterior? Pues la escritura interpreta la escritura, si nuestra interpretación esta contradiciendo explicítame una verdad escrita o descartando una, tal vez deberíamos volver a revisarlo.
+Gálatas 1:13–14
 
-#### Un peligro eminente en la interpretación es distorsionar el texto bíblico para que encaje con nuestras ideas del texto o rebuscar significados mas allá de lo que el texto permite.
+###### Tarea:
+* Haz Pasos 1–8
 
-### Métodos de interpretación.
+### Ejercicio 13
 
-#### Interpretación literal.
+###### Texto:
 
-##### La interpretación literal se basa en un enfoque literal del texto, ¿Que quiere decir esto? pues que el texto es lo que dice ser.
+Gálatas 1:15–17
 
-##### Suena confuso pero simplemente no podemos sacar al texto de su contexto, no podemos imaginas mas allá de lo que dice ser. Este enfoque acepta las expresiones naturales del texto como ser que el autos este hablando de hechos históricos narrativos, no podemos decir que son simbolismos a menos que explícitamente el texto lo diga.
+###### Tarea:
 
-##### Así también cuanto el texto se expresa abiertamente en simbolismos o figuras, las tomamos como son, figuras o símbolos. Este es un enfoque literal, nos apegamos explícitamente a la contrucion del texto en cuanto a gramatica y contexto.
+* Haz Pasos 7–10
+* Identifica el patrón
 
-#### Interpretación alegórica.
+---
+### Ejercicio 14
 
-##### La interpretación alegórica proviene de un enfoque alegórico, ¿Que significa? pues que el texto puede ser mucho mas de lo que dice ser.
+###### Texto:
 
-##### Este enfoque busca y rebusca un significa mas allá de lo que el texto dice, este enfoque tiene la libertar de distorsionar el texto en bases a la idea formulada.
+Gálatas 2:16
 
-##### Evidentemente este enfoque sobrepasa la permisión del texto agregando figuras o símbolos en todo el texto esto es muy peligro especialmente en profecía ya que nunca nada es algo y puede ser todo. La alegoría jamás llega a la verdad mas bien divaga en posibilidades.
+###### Tarea:
+* Haz ROOTS completo
+* Añade Tracking
 
-### Preguntas de ayuda
+### Ejercicio 15
 
-#### ¿Cuál es la idea principal?
+###### Texto:
 
-#### ¿Qué significa esta palabra aquí?
+Efesios 2:1–5
 
-#### ¿Qué relación hay entre las frases?
+###### Tarea:
 
-#### ¿Cuál es el argumento del autor?
+* Haz ROOTS completo
+* Expresa el flujo del texto
 
-#### ¿Qué problema responde el pasaje?
+## CIERRE DE LOS EJERCICIOS
 
-#### Regla: La interpretación correcta depende de una observación correcta.
+##### Qué debes notar
 
-### Conclusión o Aplicación. ¿Como aplico el texto ?
+###### Si haces bien estos ejercicios:
 
-#### La aplicacion del texto es de significado para nosotros a nivel personal y colectivo al hacer una correcta observacion ¿Que dice? y una correcta interpretacion ¿Que significa? por ende se obtendra una correcta aplicacion del texto.
+* verás más rápido
+* reducirás sin distorsionar
+* reconocerás patrones
+* seguirás el texto con claridad
 
-#### ADVERTENCIA: No intente sacar una aplicacion de cada parrafo, verso o  palabra del texto, esto debido a que no todos lo versosn tienen una aplicacion, la aplicacion no debe forzarse, ella surge naturalmente del texto y se vuelve clara despues de la observacion e interpretacion.
-
-#### Qué NO es aplicación.
-
-##### ❌ No es “lo que yo siento”
-
-##### ❌ No es inventar un mensaje nuevo
-
-##### ❌ No es usar el versículo como frase motivacional fuera de contexto
-
-##### ❌ No es escoger solo lo que me gusta
-
-##### ❌ No es generalidades sin acción (“debo ser mejor”)
-
-### Estudio Deductivo
-
-#### Este se caracteriza por la aplicación de una idea general a casos particulares del texto, este  método requiere ya tener una idea generada con la cual evalúa los datos del texto.
-
-#### El estudio deductivo tiene un flujo descendente dentro de la linea coherente de estudio parte de una idea general descendiendo al texto y analiza los datos a la luz de la idea inicial.
-
-##### Requiere consistencia lógica con el principio inicial.
-
-##### Las conclusiones se revisan si el principio cambia.
-
-##### El proceso es cerrado por el marco inicial.
-
-### Etapas del estudio deductivo.
-
-#### Formulación del principio general.
-
-#### Selección del texto.
-
-#### Observación dirigida.
-
-#### Aplicación del principio al texto.
-
-#### Conclusión deductiva
-
-
-### Resultado producido 
-
-| Aspecto           | Inductivo            | Deductivo             |
-| ----------------- | -------------------- | --------------------- |
-| Tipo de resultado | Generalización       | Aplicación            |
-| Dependencia       | Datos                | Principio             |
-| Alcance           | Limitado al material | Definido por el marco |
-
-## Hermenéutica
-
-### La hermeneutica es una disciplina que estudia como interpretar corrrctamnete un texto. La hermeneutica se basa en un conjunto de principios, criterios y reglas para el estudio del texto biblico
-
-### ¿Para qué sirve la hermenéutica?
-
-#### Evitar interpretaciones arbitrarias (“yo creo que significa…”)
-
-#### Interpretar según el texto y su contexto
-
-#### Distinguir entre lo que el texto dice y lo que alguien supone
-
-#### Mantener coherencia en el análisis
-
-### Errores comunes (anti-hermenéutica)
-
-#### Sacar un versículo de contexto
-
-#### Ignorar conectores (“pero”, “porque”, “si”)
-
-#### Convertir poesía en literalismo rígido
-
-#### Hacer que el texto diga algo que no afirma
-
-#### Usar palabras modernas con sentidos antiguos sin justificarlo
-
-### Principios, Criterios y Reglas
-
-#### En el contenido de este texto hemos observado los diferentes métodos de estudio, criterios de interpretación, enfoques al texto y análisis del mismo, a continuación enlistaremos los criterios a usar en el estudio del texto con la base de ser fieles al texto sin alterarlo:
-
-#### Exegesis,
-
-#### Método Inductivo.
-
-##### Observación
-
-##### Interpretación 
-
-##### Aplicación
-
-#### Enfoque Literal
-
-#### Sin mas que abarcar les deseamos bien durante su estudio del texto, orando y pidiendo al Padre que puedan tener una mente abierta a lo que dice el texto y cerrarse a su propio entendimiento del texto.
-
-## Ejercicios de observación.
-
-### Juan 3: 16-18 *Porque de tal manera amó Dios al mundo , que dio a Su Hijo unigénito , para que todo aquel que cree en Él, no se pierda, sino que tenga vida eterna .  Porque Dios no envióa Su Hijo al mundo para juzgar al mundo, sino para que el mundo sea salvo por Él. El que cree en Él no es condenado; pero el que no cree, ya ha sido condenado, porque no ha creído en el nombre del unigénito Hijo de Dios.* NBLA
-
-### Ayuda en la observacion.
-
-#### Lea con detenimiento el texto, una, dos , tres, etc, veces.
-
-#### Lea el texto en otras versiones .
-
-#### Debemos recordar que no queremos introducir al texto sino extraer de el , Ahora comienza el verdadero trabajo, deberá observar el texto con detenimiento y hacer preguntas.
-
-##### ¿Quien escribe?
-
-##### ¿Quien esta hablando?
-
-##### ¿A quien se dirige?
-
-##### ¿En que lugar ocurre?
-
-
-
-
-### Apocalipsis 3: 14-20 *Escribe al ángel de la iglesia en La odicea :“El Amén , el Testigo fiel y verdadero , el Principio de la creación de Dios , dice esto: Yo conozco tus obras, que ni eres frío ni caliente. ¡Ojalá fueras frío o caliente!. Así, puesto que eres tibio, y no frío ni caliente, te vomitaré de Mi boca. Porque dices: “Soy rico, me he enriquecido y de nada tengo necesidad”. No sabes que eres un miserable y digno de lástima, y pobre, ciego y desnudo. Te aconsejo que de Mí compren tesoro refinado por fuego para que te hagas rico, y vestiduras blancas para que te vistas y no se manifieste la vergüenza de tu desnudez, y colirio para ungir tus ojos y que puedas ver.’Yo reprendo y disciplino a todos los que amo . Sé, pues, celoso y arrepiéntete . Yo estoy a la puerta y llamo; si alguien oye Mi voz y abre la puerta, entraré a él, y cenaré con él y él conmigo. NBLA
-
-### Ayuda en la observacion.
-
-#### Lea con detenimiento el texto, una, dos , tres, etc, veces.
-
-#### Lea el texto en otras versiones .
-
-#### Debemos recordar que no queremos introducir al texto sino extraer de el , Ahora comienza el verdadero trabajo, deberá observar el texto con detenimiento y hacer preguntas.
-
-##### ¿Quien escribe?
-
-##### ¿Quien esta hablando?
-
-##### ¿A quien se dirige?
-
-##### ¿En que lugar ocurre?
-
-##### ¿Que genero literario es?
-
-##### ¿En que tiempo esta ubicado?
-
-##### Observación 1
-
-##### Observación 2
-
-##### Observación 3
-
-##### Observación 4
-
-##### Observación 5
-
-##### Observación 6
-
-##### Observación 7
-
-##### Observación 8
-
-##### Observación 9
-
-##### Observación 10
-
-### Jeremías 29:10-14 *Pues así dice el Señor: “Cuando se le hayan cumplido a Babilonia setenta años, Yo los visitaré y cumpliré Mi buena palabra de hacerlos volver a este lugar. Porque Yo sé los planes que tengo[d] para ustedes”, declara el Señor, “planes de bienestar y no de calamidad, para darles un futuro y una esperanza. Ustedes me invocarán y vendrán a rogarme, y Yo los escucharé. Me buscarán y me encontrarán, cuando me busquen de todo corazón. Me dejaré hallar de ustedes”, declara el Señor, “y restauraré su bienestar[e] y los reuniré de todas las naciones y de todos los lugares adonde los expulsé”, declara el Señor, “y los traeré de nuevo al lugar desde donde los envié al destierro”.* NBLA
-
-### Ayuda en la observacion.
-
-#### Lea con detenimiento el texto, una, dos , tres, etc, veces.
-
-#### Lea el texto en otras versiones .
-
-#### Debemos recordar que no queremos introducir al texto sino extraer de el , Ahora comienza el verdadero trabajo, deberá observar el texto con detenimiento y hacer preguntas.
-
-##### ¿Quien escribe?
-
-##### ¿Quien esta hablando?
-
-##### ¿A quien se dirige?
-
-##### ¿En que lugar ocurre?
-
-##### ¿Que genero literario es?
-
-##### ¿En que tiempo esta ubicado?
-
-##### Observación 1
-
-##### Observación 2
-
-##### Observación 3
-
-##### Observación 4
-
-##### Observación 5
-
-##### Observación 6
-
-##### Observación 7
-
-##### Observación 8
-
-##### Observación 9
-
-##### Observación 10
-
-### Josué 1: 5-9 * Nadie te podrá hacer frente en todos los días de tu vida. Así como estuve con Moisés, estaré contigo. No te dejaré ni te abandonaré. »Sé fuerte y valiente, porque tú darás a este pueblo posesión de la tierra que juré a sus padres que les daría.  Solamente sé fuerte y muy valiente. Cuídate[d] de cumplir toda la ley que Moisés Mi siervo te mandó. No te desvíes de ella ni a la derecha ni a la izquierda, para que tengas éxito[e] dondequiera que vayas. »Este libro de la ley no se apartará de tu boca, sino que meditarás en él día y noche, para que cuides[f] de hacer todo lo que en él está escrito. Porque entonces harás prosperar tu camino y tendrás éxito. ¿No te lo he ordenado Yo? ¡Sé fuerte y valiente! No temas ni te acobardes, porque el Señor tu Dios estará contigo dondequiera que vayas». NBLA
-
-### Ayuda en la observacion.
-
-#### Lea con detenimiento el texto, una, dos , tres, etc, veces.
-
-#### Lea el texto en otras versiones .
-
-#### Debemos recordar que no queremos introducir al texto sino extraer de el , Ahora comienza el verdadero trabajo, deberá observar el texto con detenimiento y hacer preguntas.
-
-##### ¿Quien escribe?
-
-##### ¿Quien esta hablando?
-
-##### ¿A quien se dirige?
-
-##### ¿En que lugar ocurre?
-
-##### ¿Que genero literario es?
-
-##### ¿En que tiempo esta ubicado?
-
-##### Observación 1
-
-##### Observación 2
-
-##### Observación 3
-
-##### Observación 4
-
-##### Observación 5
-
-##### Observación 6
-
-##### Observación 7
-
-##### Observación 8
-
-##### Observación 9
-
-##### Observación 10
-
-### Salmos 1:1-6 *¡Cuán bienaventurado es el hombre que no anda en el consejo de los impíos,Ni se detiene en el camino de los pecadores, Ni se sienta en la silla de los escarnecedores, Sino que en la ley del Señor está su deleite, Y en Su ley medita de día y de noche! Será como árbol plantado junto a corrientes de agua, Que da su fruto a su tiempo Y su hoja no se marchita; En todo lo que hace, prospera. No así los impíos, Que son como paja que se lleva el viento. Por tanto, no se sostendrán los impíos en el juicio, Ni los pecadores en la congregación de los justos. Porque el Señor conoce el camino de los justos, Pero el camino de los impíos perecerá.* NBLA
-
-### Ayuda en la observacion.
-
-#### Lea con detenimiento el texto, una, dos, tres, etc, veces.
-
-#### Lea el texto en otras versiones .
-
-#### Debemos recordar que no queremos introducir al texto sino extraer de el , Ahora comienza el verdadero trabajo, deberá observar el texto con detenimiento y hacer preguntas.
-
-##### ¿Quien escribe?
-
-##### ¿Quien esta hablando?
-
-##### ¿A quien se dirige?
-
-##### ¿En que lugar ocurre?
-
-##### ¿Que genero literario es?
-
-##### ¿En que tiempo esta ubicado?
-
-##### Observación 1
-
-##### Observación 2
-
-##### Observación 3
-
-##### Observación 4
-
-##### Observación 5
-
-##### Observación 6
-
-##### Observación 7
-
-##### Observación 8
-
-##### Observación 9
-
-##### Observación 10
-
-### Salmos 23: 1-6 *El Señor es mi pastor, Nada me faltará. En lugares de verdes pastos me hace descansar; Junto a aguas de reposo me conduce. Él restaura[a] mi alma; Me guía por senderos de justicia Por amor de Su nombre. Aunque pase por el valle de sombra de muerte, No temeré mal alguno, porque Tú estás conmigo; Tu vara y Tu cayado me infunden aliento. Tú preparas mesa delante de mí en presencia de mis enemigos; Has ungido mi cabeza con aceite; Mi copa está rebosando. Ciertamente el bien y la misericordia me seguirán todos los días de mi vida, Y en la casa del Señor moraré por largos días.* NBLA
-
-### Ayuda en la observacion.
-
-#### Lea con detenimiento el texto, una, dos , tres, etc, veces.
-
-#### Lea el texto en otras versiones .
-
-#### Debemos recordar que no queremos introducir al texto sino extraer de el , Ahora comienza el verdadero trabajo, deberá observar el texto con detenimiento y hacer preguntas.
-
-##### ¿Quien escribe?
-
-##### ¿Quien esta hablando?
-
-##### ¿A quien se dirige?
-
-##### ¿En que lugar ocurre?
-
-##### ¿Que genero literario es?
-
-##### ¿En que tiempo esta ubicado?
-
-##### Observación 1
-
-##### Observación 2
-
-##### Observación 3
-
-##### Observación 4
-
-##### Observación 5
-
-##### Observación 6
-
-##### Observación 7
-
-##### Observación 8
-
-##### Observación 9
-
-##### Observación 10
-
-### Juan 10:1-10 *En verdad les digo, que el que no entra por la puerta en el redil de las ovejas, sino que sube por otra parte, ese es ladrón y salteador . Pero el que entra por la puerta, es el pastorde las ovejas. A este le abre el portero, y las ovejas oyen su voz; llama a sus ovejas por nombre y las conduce afuera. Cuando saca todas las suyas, va delante de ellas, y las ovejas lo siguen porque conocen su voz. Pero a un desconocido no seguirán, sino que huirán de él, porque no conocen la vozde los extraños».  Jesús les habló por medio de esta comparación, pero ellos no entendieron qué era lo que les decía. Entonces Jesús les dijo de nuevo: «En verdad les digo: Yo soy la puerta de las ovejas. Todos los que vinieron antes de Mí son ladrones y salteadores, pero las ovejas no les hicieron caso. Yo soy la puerta; si alguno entra por Mí, será salvo; y entrará y saldrá y hallará pasto. El ladrón solo viene para robar, matar y destruir. Yo he venido para que tengan vida, y para que la tengan en abundancia. NBLA
-
-### Ayuda en la observación.
-
-#### Lea con detenimiento el texto, una, dos , tres, etc, veces.
-
-#### Lea el texto en otras versiones .
-
-#### Debemos recordar que no queremos introducir al texto sino extraer de el , Ahora comienza el verdadero trabajo, deberá observar el texto con detenimiento y hacer preguntas.
-
-##### ¿Quien escribe?
-
-##### ¿Quien esta hablando?
-
-##### ¿A quien se dirige?
-
-##### ¿En que lugar ocurre?
-
-##### ¿Que genero literario es?
-
-##### ¿En que tiempo esta ubicado?
-
-##### Observación 1
-
-##### Observación 2
-
-##### Observación 3
-
-##### Observación 4
-
-##### Observación 5
-
-##### Observación 6
-
-##### Observación 7
-
-##### Observación 8
-
-##### Observación 9
-
-##### Observación 10
-
-## Ejercicios de Interpretación
-
-### Jeremías 17:5 *Así dice el Señor:«Maldito el hombre que en el hombre confía, Y hace de la carne su fortaleza, Y del Señor se aparta su corazón.*
-
-### Ayuda en la interpretación.
-
-#### Primero, realizar la observación correspondiente del pasaje.
-
-#### Segundo, observar el contexto del pasaje, ¿que sucede antes?, ¿que sucede despues?
-
-##### Observación 1
-
-##### Observación 2
-
-##### Observación 3
-
-##### Observación 4
-
-##### Observación 5
-
-##### Observación 6
-
-##### Observación 7
-
-##### Observación 8
-
-##### Observación 9
-
-##### Observación 10
-
-
-### Jeremías 17:9 *»Más engañoso que todo es el corazón, Y sin remedio; ¿Quién lo comprenderá?*
-
-### Ayuda en la interpretación.
-
-#### Primero, realizar la observación correspondiente del pasaje.
-
-#### Segundo, observar el contexto del pasaje, ¿que sucede antes?, ¿que sucede despues?
-
-##### Observación 1
-
-##### Observación 2
-
-##### Observación 3
-
-##### Observación 4
-
-##### Observación 5
-
-##### Observación 6
-
-##### Observación 7
-
-##### Observación 8
-
-##### Observación 9
-
-##### Observación 10
-
-##### ¿Que significa el texto?
-
-### Ezequiel 18:20 *El alma que peque, esa morirá. El hijo no cargará con la iniquidad del padre, ni el padre cargará con la iniquidad del hijo. La justicia del justo será sobre él y la maldad del impío será sobre él.*
-
-### Ayuda en la interpretación.
-
-#### Primero, realizar la observación correspondiente del pasaje.
-
-#### Segundo, observar el contexto del pasaje, ¿que sucede antes?, ¿que sucede despues?
-
-##### Observación 1
-
-##### Observación 2
-
-##### Observación 3
-
-##### Observación 4
-
-##### Observación 5
-
-##### Observación 6
-
-##### Observación 7
-
-##### Observación 8
-
-##### Observación 9
-
-##### Observación 10
-
-##### ¿Que significa el texto?
-
-### Isaias 1:18 *»Vengan ahora, y razonemos», Dice el Señor, «Aunque sus pecados sean como la grana, Como la nieve serán emblanquecidos. Aunque sean rojos como el carmesí, Como blanca lana quedarán.*
-
-### Ayuda en la interpretación.
-
-#### Primero, realizar la observación correspondiente del pasaje.
-
-#### Segundo, observar el contexto del pasaje, ¿que sucede antes?, ¿que sucede despues?
-
-##### Observación 1
-
-##### Observación 2
-
-##### Observación 3
-
-##### Observación 4
-
-##### Observación 5
-
-##### Observación 6
-
-##### Observación 7
-
-##### Observación 8
-
-##### Observación 9
-
-##### Observación 10
-
-##### ¿Que significa el texto?
-
-### 1 Samuel 15:22 *Y Samuel dijo: «¿Se complace el Señor tanto En holocaustos y sacrificios Como en la obediencia a la voz del Señor? Entiende, el obedecer es mejor que un sacrificio, Y el prestar atención, que la grasa de los carneros.*
-
-### Ayuda en la interpretación.
-
-#### Primero, realizar la observación correspondiente del pasaje.
-
-#### Segundo, observar el contexto del pasaje, ¿que sucede antes?, ¿que sucede despues?
-
-##### Observación 1
-
-##### Observación 2
-
-##### Observación 3
-
-##### Observación 4
-
-##### Observación 5
-
-##### Observación 6
-
-##### Observación 7
-
-##### Observación 8
-
-##### Observación 9
-
-##### Observación 10
-
-##### ¿Que significa el texto?
-
-### Galatas 4:30 *Pero, ¿qué dice la Escritura? «Echa fuera a la sierva y a su hijo, Pues el hijo de la sierva no será heredero con el hijo de la libre».*
-
-### Ayuda en la interpretación.
-
-#### Primero, realizar la observación correspondiente del pasaje.
-
-#### Segundo, observar el contexto del pasaje, ¿que sucede antes?, ¿que sucede despues?
-
-##### Observación 1
-
-##### Observación 2
-
-##### Observación 3
-
-##### Observación 4
-
-##### Observación 5
-
-##### Observación 6
-
-##### Observación 7
-
-##### Observación 8
-
-##### Observación 9
-
-##### Observación 10
-
-##### ¿Que significa el texto?
-
-### Ahora ustedes deberan desarrollar un manual de estudio propio utilizando todo lo aprendido, el texto base sera 2 Juan. 
-
-#### Pedir el formato al los profesores.
-
-### 2 Juan - NBLA
-
-#### El anciano a la señora escogida y a sus hijos, a quienes amo en verdad, y no solo yo, sino también todos los que conocen la verdad, 2 a causa de la verdad que permanece en nosotros y que estará con nosotros para siempre: 3 La gracia, la misericordia, y la paz estarán con nosotros, de Dios el Padre y de Jesucristo, Hijo del Padre, en verdad y amor. 4 Mucho me alegré al encontrar algunos de tus hijos andando en la verdad, tal como hemos recibido mandamiento del Padre. 5 Ahora te ruego, señora, no como escribiéndote un nuevo mandamiento, sino el que hemos tenido desde el principio, que nos amemos unos a otros. 6 Y este es el amor: que andemos conforme a Sus mandamientos. Este es el mandamiento tal como lo han oído desde el principio, para que ustedes anden en él. 7 Pues muchos engañadores han salido al mundo que no confiesan que Jesucristo ha venido en carne. Ese es el engañador y el anticristo. 8 Tengan ustedes cuidado para que no pierdan lo que hemos logrado, sino que reciban abundante recompensa. 9 Todo el que se desvía y no permanece en la enseñanza de Cristo, no tiene a Dios. El que permanece en la enseñanza tiene tanto al Padre como al Hijo. 10 Si alguien viene a ustedes y no trae esta enseñanza, no lo reciban en casa, ni lo saluden, 11 pues el que lo saluda participa en sus malas obras. 12 Aunque tengo muchas cosas que escribirles, no quiero hacerlo con papel y tinta, sino que espero ir a verlos y hablar con ustedes cara a cara, para que su gozo sea completo. 13 Te saludan los hijos de tu hermana escogida.
-
-### 2 Juan - RVR 1960
-
-####  El anciano a la señora escogida y a sus hijos, a quienes amo en verdad, y no solo yo, sino también todos los que conocen la verdad, 2 a causa de la verdad que permanece en nosotros y que estará con nosotros para siempre: 3 La gracia, la misericordia, y la paz estarán con nosotros, de Dios el Padre y de Jesucristo, Hijo del Padre, en verdad y amor. 4 Mucho me alegré al encontrar algunos de tus hijos andando en la verdad, tal como hemos recibido mandamiento del Padre. 5 Ahora te ruego, señora, no como escribiéndote un nuevo mandamiento, sino el que hemos tenido desde el principio, que nos amemos unos a otros. 6 Y este es el amor: que andemos conforme a Sus mandamientos. Este es el mandamiento tal como lo han oído desde el principio, para que ustedes anden en él. 7 Pues muchos engañadores han salido al mundo que no confiesan que Jesucristo ha venido en carne. Ese es el engañador y el anticristo. 8 Tengan ustedes cuidado para que no pierdan lo que hemos logrado, sino que reciban abundante recompensa. 9 Todo el que se desvía y no permanece en la enseñanza de Cristo, no tiene a Dios. El que permanece en la enseñanza tiene tanto al Padre como al Hijo. 10 Si alguien viene a ustedes y no trae esta enseñanza, no lo reciban en casa, ni lo saluden, 11 pues el que lo saluda participa en sus malas obras. 12 Aunque tengo muchas cosas que escribirles, no quiero hacerlo con papel y tinta, sino que espero ir a verlos y hablar con ustedes cara a cara, para que su gozo sea completo. Te saludan los hijos de tu hermana escogida.
-
-### 2 Juan - BTX4
-
-#### "El anciano a la señora electa y a sus hijos, a quienes yo amo en verdad, y no solo yo, sino también todos los que han conocido la Verdad, a causa de la Verdad que permanece en nosotros, y con nosotros estará para siempre: Gracia, misericordia, y paz, estarán con nosotros, de DIOS Padre y de JESUCRISTO, el Hijo del Padre, en verdad y amor. En gran manera me regocijé porque he hallado de entre tus hijos a algunos que caminan en la Verdad, según el mandamiento que recibimos del Padre. Y ahora te ruego, oh señora, no como escribiéndote un mandamiento nuevo, sino el que teníamos desde un principio: que nos amemos unos a otros. Y este es el amor: que sigamos caminando según sus mandamientos; y este es el mandamiento: que caminéis en él, como oísteis desde un principio. Porque muchos engañadores han salido por el mundo, que no confiesan a JESUCRISTO como venido en carne. ¡Este es el engañador y el anticristo! Mirad por vosotros mismos, para que no echéis a perder las cosas que hemos forjado; sino que recibáis el galardón completo. Todo el que se propasa, y no permanece en la doctrina de CRISTO, no tiene a DIOS. El que permanece en la doctrina, este tiene al Padre y al Hijo. Si alguno llega y no lleva esta doctrina, no lo recibáis en casa ni le digáis: Bienvenido; porque el que le dice: Bienvenido, participa en sus malas obras. Aunque tengo muchas cosas que escribiros, no quise hacerlo por medio de papel y tinta, sino que espero ir a vosotros y hablar cara a cara, para que nuestro gozo sea completo. Los hijos de tu hermana, la electa, te saludan."
-
-### 2 Juan - RVR 1909
-
-#### "EL anciano á la señora elegida y á sus hijos, a los cuales yo amo en verdad y no yo solo, sino también todos los que han conocido la verdad, Por la verdad que está en nosotros, y será perpetuamente con nosotros: Sea con vosotros gracia, misericordia, y paz de Dios Padre, y del Señor Jesucristo, Hijo del Padre, en verdad y en amor. Mucho me he gozado, porque he hallado de tus hijos, que andan en verdad, como nosotros hemos recibido el mandamiento del Padre. Y ahora te ruego, señora, no como escribiéndote un nuevo mandamiento, sino aquel que nosotros hemos tenido desde el principio, que nos amemos unos á otros. Y este es amor, que andemos según sus mandamientos. Este es el mandamiento: Que andéis en él, como vosotros habéis oído desde el principio. Porque muchos engañadores son entrados en el mundo, los cuales no confiesan que Jesucristo ha venido en carne. Este tal el engañador es, y el anticristo. Mirad por vosotros mismos, porque no perdamos las cosas que hemos obrado, sino que recibamos galardón cumplido. Cualquiera que se rebela, y no persevera en la doctrina de Cristo, no tiene á Dios: el que persevera en la doctrina de Cristo, el tal tiene al Padre y al Hijo. Si alguno viene á vosotros, y no trae esta doctrina, no lo recibáis en casa, ni le digáis: ¡bienvenido! Porque el que le dice bienvenido, comunica con sus malas obras. Aunque tengo muchas cosas que escribiros, no he querido comunicarlas por medio de papel y tinta; mas espero ir á vosotros, y hablar boca á boca, para que nuestro gozo sea cumplido. Los hijos de tu hermana elegida te saludan. Amén."
+##### Frase final
+> “No practico para saber más.
+> Practico para ver mejor.”
