@@ -72,6 +72,7 @@ pandoc \
   --lua-filter=filters/definitionbox.lua \
   --lua-filter=filters/header_paragraph_env.lua \
   --lua-filter=filters/toc.lua \
+  --lua-filter=filters/codeblock.lua \
   --number-sections=false \
   -M title="$TITLE" \
   -M version="$VERSION" \
@@ -104,6 +105,7 @@ pandoc \
   --lua-filter=filters/definitionbox.lua \
   --lua-filter=filters/header_paragraph_env.lua \
   --lua-filter=filters/toc.lua \
+  --lua-filter=filters/codeblock.lua \
   --number-sections=false \
   -M title="$TITLE" \
   -M version="$VERSION" \

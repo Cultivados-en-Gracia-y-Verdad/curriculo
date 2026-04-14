@@ -13,27 +13,27 @@ Cuando un barco zarpa, no lo hace a la deriva. \fillin{Sale} con dirección, equ
 
 De la misma manera, acercarse al \fillin{texto} bíblico sin una guía clara puede llevar a interpretaciones incorrectas o conclusiones que el texto mismo no afirma. Este curso está diseñado para equiparte con las herramientas esenciales para navegar las Escrituras con cuidado y precisión. Antes de “zarpar” hacia un estudio más profundo, aprenderemos a observar, trazar y seguir el texto tal como está escrito, de modo que nuestra comprensión esté anclada en lo que realmente dice, y no en suposiciones o ideas externas.
 
-Antes de avanzar, es importante \fillin{aclarar} la manera en que nos acercaremos al texto. No se trata de aprender un método nuevo ni de memorizar una serie de pasos mecánicos, sino de adoptar una forma de pensar. A esto lo llamaremos ROOTS.
+Antes de avanzar, es importante \fillin{aclarar} la manera en que nos acercaremos al texto. No se trata de aprender un método nuevo ni de memorizar una serie de pasos mecánicos, sino de adoptar una forma de pensar. A esto lo llamaremos RO₁O₂TS.
 
-ROOTS no es un sistema que se impone al texto, sino una actitud que se somete a él. Es una manera de frenar, observar con cuidado, y permitir que el texto hable por sí mismo antes de que nosotros saquemos conclusiones. En \fillin{lugar} de correr hacia interpretaciones rápidas, ROOTS nos entrena a permanecer en lo que está escrito, siguiendo el flujo, las conexiones y las palabras tal como aparecen.
+RO₁O₂TS no es un sistema que se impone al texto, sino una actitud que se somete a él. Es una manera de frenar, observar con cuidado, y permitir que el texto hable por sí mismo antes de que nosotros saquemos conclusiones. En \fillin{lugar} de correr hacia interpretaciones rápidas, RO₁O₂TS nos entrena a permanecer en lo que está escrito, siguiendo el flujo, las conexiones y las palabras tal como aparecen.
 
-En este curso, ROOTS servirá como un marco sencillo para recordarnos que nuestro papel no es forzar el texto a \fillin{decir} algo, sino aprender a leerlo con respeto, atención y precisión. No es una técnica que dominar, sino una disposición que cultivar.
+En este curso, RO₁O₂TS servirá como un marco sencillo para recordarnos que nuestro papel no es forzar el texto a \fillin{decir} algo, sino aprender a leerlo con respeto, atención y precisión. No es una técnica que dominar, sino una disposición que cultivar.
 
-Es importante también aclarar de dónde proviene esta \fillin{forma} de acercarse al texto. ROOTS no es algo nuevo, ni es un descubrimiento reciente. No estamos introduciendo un sistema innovador ni una metodología exclusiva. En realidad, lo que estamos haciendo es ponerle un nombre sencillo a una manera de leer que ha sido utilizada por décadas en el estudio serio del lenguaje.
+Es importante también aclarar de dónde proviene esta \fillin{forma} de acercarse al texto. RO₁O₂TS no es algo nuevo, ni es un descubrimiento reciente. No estamos introduciendo un sistema innovador ni una metodología exclusiva. En realidad, lo que estamos haciendo es ponerle un nombre sencillo a una manera de leer que ha sido utilizada por décadas en el estudio serio del lenguaje.
 
-Los principios detrás de ROOTS reflejan prácticas básicas que se emplean en áreas como la lingüística, el análisis del discurso y el estudio cuidadoso de \fillin{textos}: observar lo que está escrito, seguir la estructura, respetar el flujo del pensamiento y evitar imponer ideas externas al contenido. Institutos, traductores y estudiosos del lenguaje han trabajado de esta manera durante mucho tiempo.
+Los principios detrás de RO₁O₂TS reflejan prácticas básicas que se emplean en áreas como la lingüística, el análisis del discurso y el estudio cuidadoso de \fillin{textos}: observar lo que está escrito, seguir la estructura, respetar el flujo del pensamiento y evitar imponer ideas externas al contenido. Institutos, traductores y estudiosos del lenguaje han trabajado de esta manera durante mucho tiempo.
 
-ROOTS simplemente toma esos principios y los presenta de forma accesible, con un lenguaje claro, para que cualquier persona pueda acercarse al texto bíblico con el mismo cuidado y respeto. No estamos inventando una nueva \fillin{forma} de leer, sino recuperando una manera sólida y probada de hacerlo.
+RO₁O₂TS simplemente toma esos principios y los presenta de forma accesible, con un lenguaje claro, para que cualquier persona pueda acercarse al texto bíblico con el mismo cuidado y respeto. No estamos inventando una nueva \fillin{forma} de leer, sino recuperando una manera sólida y probada de hacerlo.
 
-Para ayudarnos a mantener esta manera de pensar presente, utilizaremos un recordatorio sencillo: ROOTS. No es una fórmula rígida, sino una \fillin{guía} que nos ayuda a no desviarnos del texto.
+Para ayudarnos a mantener esta manera de pensar presente, utilizaremos un recordatorio sencillo: RO₁O₂TS. No es una fórmula rígida, sino una \fillin{guía} que nos ayuda a no desviarnos del texto.
 
-# ¿QUÉ ES ROOTS?
+# ¿QUÉ ES RO₁O₂TS?
 
 ## INTRODUCCIÓN
 
-\headingfive{Qué es ROOTS}
+\headingfive{Qué es RO₁O₂TS}
 
-\headingsix{ROOTS es el proceso completo para trabajar un \fillin{texto}.}
+\headingsix{RO₁O₂TS es el proceso completo para trabajar un \fillin{texto}.}
 
 \headingsix{No es \fillin{solo} análisis.}
 
@@ -43,19 +43,19 @@ Para ayudarnos a mantener esta manera de pensar presente, utilizaremos un record
 
 \headingfive{Cómo funciona}
 
-\headingsix{ROOTS se desarrolla en \fillin{cinco} partes:}
+\headingsix{RO₁O₂TS se desarrolla en \fillin{cinco} partes:}
 
 \headingsix{R — Revelación}
 * 👉 Dios \fillin{habló}
 * 👉 Usó lenguaje
 * 👉 El texto comunica
 
-\headingsix{O — \fillin{Observar} la estructura}
+\headingsix{O₁ — \fillin{Observar} la estructura}
 * 👉 Cómo está construido el texto
 * 👉 Cómo se \fillin{conecta}
 * 👉 Cómo se desarrolla
 
-\headingsix{O — Observar lo que el \fillin{texto} dice}
+\headingsix{O₂ — Observar lo que el \fillin{texto} dice}
 * 👉 Qué afirma
 * 👉 Qué \fillin{repite}
 * 👉 Qué contrasta
@@ -72,9 +72,9 @@ Para ayudarnos a mantener esta manera de pensar presente, utilizaremos un record
 
 \headingfive{Principio clave}
 
-\headingsix{ROOTS no termina en el análisis.}
+\headingsix{RO₁O₂TS no termina en el análisis.}
 
-\headingsix{❗ ROOTS incluye:}
+\headingsix{❗ RO₁O₂TS incluye:}
 * observar
 * \fillin{seguir}
 * someterse
@@ -82,18 +82,18 @@ Para ayudarnos a mantener esta manera de pensar presente, utilizaremos un record
 \headingfive{Regla central}
 \headingsix{❗ Si no completas todo el proceso,}
 
-\headingsix{no has terminado ROOTS}
+\headingsix{no has terminado RO₁O₂TS}
 
 \headingfive{Frase \fillin{clave}}
 > “No interpreto el texto.
 > Lo observo, lo sigo y me someto a él.”
 
 \headingfive{Qué debes notar}
-\headingsix{ROOTS no es un método para explicar el \fillin{texto}.}
+\headingsix{RO₁O₂TS no es un método para explicar el \fillin{texto}.}
 
 \headingsix{👉 Es un proceso para dejar que el texto hable.}
 
-ROOTS no añade \fillin{nada} al texto. Más bien, nos ayuda a quitarnos del camino para poder verlo con claridad.
+RO₁O₂TS no añade \fillin{nada} al texto. Más bien, nos ayuda a quitarnos del camino para poder verlo con claridad.
 
 # R – Revelación
 
@@ -297,7 +297,7 @@ Comenzamos con:
 
 Porque si Dios comunicó por \fillin{medio} de lenguaje, entonces el significado está en \textbf{cómo lo dijo}.
 
-# O<sub>1</sub> - OBSERVAR LA ESTRUCTURA
+# O₁ - OBSERVAR LA ESTRUCTURA
 
 \fillin{Antes} de entender el significado, debemos ver \textbf{cómo el autor organizó lo que dijo}.
 
@@ -682,6 +682,8 @@ En verdad, ni aun ahora ==pueden==.
 
 # PASO 4 — IDENTIFICAR CONECTORES QUE UNEN CLÁUSULAS
 
+![tabla-conectores](images/tabla-conectores.png)
+
 ## EJECUTA
 
 \headingfive{¿Qué haces?}
@@ -914,11 +916,13 @@ En verdad, ni aun ahora ==pueden==.
 1. Toma una cláusula que tenga conector
 2. Identifica el conector
 3. Haz la pregunta correspondiente
-4. Responde usando las palabras del \fillin{texto}
+4. Responde usando las palabras del \fillin{texto}, conectando ambas cláusulas
 
-5. Escríbelo debajo de la cláusula así:
-(cláusula con conector)
-`pregunta → observación`
+5. Incluye los verbos finitos de ambas cláusulas
+
+6. Escríbelo debajo de la cláusula así:
+  (cláusula con conector)
+    `pregunta → observación`
 
 \headingfive{Resultado esperado}
 
@@ -927,7 +931,7 @@ Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a ca
 
 Les ==di== a beber leche, no alimento sólido,
      (porque) todavía no ==podían== recibirlo.
-     `¿por qué? → porque no podían recibirlo`
+     `¿por qué? → les ==dio== porque no ==podían== recibirlo`
 
 En verdad, ni aun ahora ==pueden==.
 ```
@@ -975,7 +979,7 @@ Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a ca
 
 Les ==di== a beber leche, no alimento sólido,
      (porque) todavía no ==podían== recibirlo.
-     `¿por qué? → porque no podían recibirlo`
+     `¿por qué? → les ==dio== porque no ==podían== recibirlo`
 
 En verdad, ni aun ahora ==pueden==.
 ```
@@ -990,10 +994,10 @@ En verdad, ni aun ahora ==pueden==.
 - Ignorar la pregunta del conector
 
 \headingfive{Regla de control}
-\headingsix{Si la respuesta no sale del \fillin{texto}, no es observación.}
-
-\headingfive{Frase clave}
-> “El conector pregunta. Yo respondo con el texto.”
+\headingfive{La respuesta debe incluir:}
+- ambas cláusulas
+- sus verbos finitos
+- el conector
 
 \headingfive{Qué debes notar}
 \headingsix{Cuando usas bien el conector:}
@@ -1950,7 +1954,7 @@ Desarrollo: expone, contrasta y da razón
 
 - 👉 Ahora estás listo para observar lo que el texto dice (Fase 2)
 
-# O<sub>2</sub> OBSERVAR EL TEXTO
+# O₂ OBSERVAR EL TEXTO
 
 ## INTRODUCCIÓN
 
@@ -2323,7 +2327,7 @@ Desarrollo: expone, contrasta y da razón
 
 \headingfive{CIERRE}
 
-\headingsix{ROOTS no termina en el análisis.}
+\headingsix{RO₁O₂TS no termina en el análisis.}
 
 \headingsix{Termina cuando:}
 - observas
@@ -2373,7 +2377,7 @@ Desarrollo: expone, contrasta y da razón
 > Me someto al texto.”
 
 \headingfive{Última línea}
-\headingsix{ROOTS no es un método para enseñar el texto.}
+\headingsix{RO₁O₂TS no es un método para enseñar el texto.}
 \headingsix{👉 Es un proceso para dejar que el texto hable.}
 
 # EJERCICIOS DE OBSERVACIÓN
@@ -2544,7 +2548,7 @@ Desarrollo: expone, contrasta y da razón
 
 \headingfive{Enfoque}
 
-\headingsix{Aplicar ROOTS completo}
+\headingsix{Aplicar RO₁O₂TS completo}
 
 ### Ejercicio 12
 
@@ -2574,7 +2578,7 @@ Gálatas 1:15–17
 Gálatas 2:16
 \end{verseblock}
 \headingsix{Tarea:}
-- Haz ROOTS completo
+- Haz RO₁O₂TS completo
 - Trazar
 
 ### Ejercicio 15
@@ -2585,7 +2589,7 @@ Gálatas 2:16
 Efesios 2:1–5
 \end{verseblock}
 \headingsix{Tarea:}
-- Haz ROOTS completo
+- Haz RO₁O₂TS completo
 - Expresa el \fillin{flujo} del texto
 
 ## CIERRE DE LOS EJERCICIOS

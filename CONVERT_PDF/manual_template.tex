@@ -45,7 +45,6 @@
 %\newfontfamily\GreekFont{Gentium Plus}
 %\setTransitionsForGreek{\begingroup\GreekFont}{\endgroup}
 
-
 \newfontfamily\BodyFont[
   Path = /Users/johnwry/Library/Fonts/,
   UprightFont = *-Light.ttf,
@@ -156,7 +155,31 @@
 % Indentation (optional tuning)
 \setlength{\cftsecindent}{0pt}
 \setlength{\cftsecnumwidth}{0pt}
+% =========================
+% ROOTS TEXT BLOCK (FINAL)
+% =========================
 
+\usepackage{tcolorbox}
+\tcbuselibrary{breakable}
+\usepackage{fvextra}
+
+% Define ROOTS block using Verbatim (NOT listings)
+\newenvironment{rootsblock}
+  {\VerbatimEnvironment
+   \begin{tcolorbox}[
+     breakable,
+     colback=gray!5,
+     colframe=gray!50,
+     boxrule=0.8pt,
+     arc=4pt,
+     left=10pt,
+     right=10pt,
+     top=8pt,
+     bottom=8pt
+   ]
+   \begin{Verbatim}[breaklines=true,fontsize=\normalsize]}
+  {\end{Verbatim}
+   \end{tcolorbox}}
 % ============================================
 % TOC TITLE STYLE
 % ============================================
@@ -209,7 +232,7 @@
    \setstretch{1.20}% ← THIS is the key
    \setlength{\parskip}{0pt}%
    \setlength{\parindent}{0pt}%
-   \vspace{-1.5em}
+   \vspace{-0.5em}
    \setlist[itemize]{label={}, leftmargin=2.5pt, labelsep=-0.5em, labelwidth=1em, itemsep=2pt, topsep=2pt}} % subtle list breathing
   {\vspace{5pt}\end{adjustwidth}}
 
