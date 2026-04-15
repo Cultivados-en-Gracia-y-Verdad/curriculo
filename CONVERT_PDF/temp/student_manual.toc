@@ -7,106 +7,221 @@
 \contentsline {section}{INTRODUCCIÓN}{4}{section*.7}%
 \contentsline {section}{¿QUÉ ES RO₁O₂TS?}{5}{section*.8}%
 \contentsline {subsection}{INTRODUCCIÓN}{5}{subsection*.9}%
-\contentsline {section}{R -- Revelación}{6}{section*.10}%
-\contentsline {subsection}{¿Qué significa revelación?}{6}{subsection*.11}%
-\contentsline {subsection}{Dios comunicó por medio de lenguaje}{7}{subsection*.12}%
-\contentsline {subsection}{Propósito de la revelación}{7}{subsection*.13}%
-\contentsline {subsection}{No son versículos aislados}{7}{subsection*.14}%
-\contentsline {subsection}{El texto construye}{7}{subsection*.15}%
-\contentsline {subsection}{Comunicación real, no código}{8}{subsection*.16}%
-\contentsline {subsection}{Dios busca ser entendido}{8}{subsection*.17}%
-\contentsline {subsection}{Fundamento de la revelación}{8}{subsection*.18}%
-\contentsline {subsection}{El peso de la revelación}{9}{subsection*.19}%
-\contentsline {subsection}{El poder de la revelación}{9}{subsection*.20}%
-\contentsline {subsection}{Implicaciones}{9}{subsection*.21}%
-\contentsline {subsection}{Nuestra postura frente al texto}{9}{subsection*.22}%
-\contentsline {subsection}{Principio clave}{10}{subsection*.23}%
-\contentsline {subsection}{Punto de partida}{10}{subsection*.24}%
-\contentsline {section}{O₁ - OBSERVAR LA ESTRUCTURA}{10}{section*.25}%
-\contentsline {subsection}{El problema común}{10}{subsection*.26}%
-\contentsline {subsection}{Principio fundamental}{10}{subsection*.27}%
-\contentsline {subsection}{Por qué esto importa}{10}{subsection*.28}%
-\contentsline {subsection}{La realidad del texto}{11}{subsection*.29}%
-\contentsline {subsection}{Lo que aprenderás}{11}{subsection*.30}%
-\contentsline {subsection}{El proceso de observación estructural}{11}{subsection*.31}%
-\contentsline {subsection}{Qué NO haremos}{11}{subsection*.33}%
-\contentsline {subsection}{Qué SÍ haremos}{11}{subsection*.34}%
-\contentsline {subsection}{Observación clave}{12}{subsection*.35}%
-\contentsline {subsection}{Transición}{12}{subsection*.36}%
-\contentsline {section}{PASO 1 --- COPIAR EL TEXTO}{13}{section*.37}%
-\contentsline {subsection}{EJECUTA}{13}{subsection*.38}%
-\contentsline {subsection}{ENTIENDE}{13}{subsection*.39}%
-\contentsline {section}{PASO 2 --- IDENTIFICAR LOS VERBOS FINITOS}{15}{section*.40}%
-\contentsline {subsection}{EJECUTA}{15}{subsection*.41}%
-\contentsline {subsection}{ENTIENDE}{15}{subsection*.42}%
-\contentsline {section}{PASO 3 --- IDENTIFICAR CLÁUSULAS}{17}{section*.43}%
-\contentsline {subsection}{EJECUTA}{17}{subsection*.44}%
-\contentsline {subsection}{ENTIENDE}{18}{subsection*.45}%
-\contentsline {section}{PASO 4 --- IDENTIFICAR CONECTORES QUE UNEN CLÁUSULAS}{19}{section*.46}%
-\contentsline {subsection}{EJECUTA}{19}{subsection*.48}%
-\contentsline {subsection}{ENTIENDE}{21}{subsection*.49}%
-\contentsline {section}{PASO 5 --- IDENTIFICAR LA ESTRUCTURA}{23}{section*.50}%
-\contentsline {subsection}{EJECUTA}{23}{subsection*.51}%
-\contentsline {subsection}{ENTIENDE}{23}{subsection*.52}%
-\contentsline {section}{PASO 6 --- USAR EL CONECTOR}{25}{section*.53}%
-\contentsline {subsection}{EJECUTA}{25}{subsection*.54}%
-\contentsline {subsection}{ENTIENDE}{26}{subsection*.55}%
-\contentsline {section}{PASO 7 --- REDUCIR A LA CLÁUSULA BASE}{28}{section*.56}%
-\contentsline {subsection}{EJECUTA}{28}{subsection*.57}%
-\contentsline {subsection}{ENTIENDE}{29}{subsection*.58}%
-\contentsline {section}{PASO 8 --- IDENTIFICAR LA ESTRUCTURA TRONCAL}{30}{section*.59}%
-\contentsline {subsection}{EJECUTA}{30}{subsection*.60}%
-\contentsline {subsection}{ENTIENDE}{31}{subsection*.61}%
-\contentsline {section}{PASO 9 --- MARCAR EL COMPORTAMIENTO}{32}{section*.62}%
-\contentsline {subsection}{EJECUTA}{32}{subsection*.63}%
-\contentsline {subsection}{ENTIENDE}{33}{subsection*.64}%
-\contentsline {section}{PASO 10 --- IDENTIFICAR PATRONES}{35}{section*.65}%
-\contentsline {subsection}{EJECUTA}{35}{subsection*.66}%
-\contentsline {subsection}{ENTIENDE}{36}{subsection*.67}%
-\contentsline {section}{PASO 11 --- SEGUIR O DETENERSE}{38}{section*.68}%
-\contentsline {subsection}{EJECUTA}{38}{subsection*.69}%
-\contentsline {subsection}{ENTIENDE}{39}{subsection*.70}%
-\contentsline {section}{PASO 12 --- DELIMITAR LA UNIDAD}{40}{section*.71}%
-\contentsline {subsection}{EJECUTA}{40}{subsection*.72}%
-\contentsline {subsection}{ENTIENDE}{41}{subsection*.73}%
-\contentsline {section}{PASO 13 --- EXPRESAR LA ACCIÓN DEL TRONCO}{43}{section*.74}%
-\contentsline {subsection}{EJECUTA}{43}{subsection*.75}%
-\contentsline {subsection}{ENTIENDE}{44}{subsection*.76}%
-\contentsline {section}{FORMULAR TÍTULOS A PARTIR DEL ANÁLISIS}{46}{section*.77}%
-\contentsline {subsection}{EJECUTA}{46}{subsection*.78}%
-\contentsline {subsection}{ENTIENDE}{47}{subsection*.79}%
-\contentsline {section}{O₂ OBSERVAR EL TEXTO}{48}{section*.80}%
-\contentsline {subsection}{INTRODUCCIÓN}{48}{subsection*.81}%
-\contentsline {subsection}{TRABAJAR CADA FRASE}{51}{subsection*.82}%
-\contentsline {section}{T --- SEGUIR EL TEXTO}{52}{section*.83}%
-\contentsline {subsection}{INTRODUCCIÓN}{52}{subsection*.84}%
-\contentsline {subsection}{EJECUTA}{53}{subsection*.85}%
-\contentsline {subsection}{ENTIENDE}{53}{subsection*.86}%
-\contentsline {section}{S --- SOMETERSE AL TEXTO}{54}{section*.87}%
-\contentsline {subsection}{INTRODUCCIÓN}{54}{subsection*.88}%
-\contentsline {subsection}{EJECUTA}{55}{subsection*.89}%
-\contentsline {subsection}{ENTIENDE}{55}{subsection*.90}%
-\contentsline {section}{CIERRE}{56}{section*.91}%
-\contentsline {section}{EJERCICIOS DE OBSERVACIÓN}{57}{section*.92}%
-\contentsline {subsection}{INTRODUCCIÓN}{57}{subsection*.93}%
-\contentsline {section}{NIVEL 1 --- VER LO BÁSICO}{58}{section*.94}%
-\contentsline {subsubsection}{Ejercicio 1}{58}{subsubsection*.95}%
-\contentsline {subsubsection}{Ejercicio 2}{58}{subsubsection*.96}%
-\contentsline {subsubsection}{Ejercicio 3}{58}{subsubsection*.97}%
-\contentsline {section}{NIVEL 2 --- VER RELACIONES}{59}{section*.98}%
-\contentsline {subsubsection}{Ejercicio 4}{59}{subsubsection*.99}%
-\contentsline {subsubsection}{Ejercicio 5}{59}{subsubsection*.100}%
-\contentsline {subsubsection}{Ejercicio 6}{59}{subsubsection*.101}%
-\contentsline {section}{NIVEL 3 --- REDUCIR SIN DISTORSIONAR}{59}{section*.102}%
-\contentsline {subsubsection}{Ejercicio 7}{59}{subsubsection*.103}%
-\contentsline {subsubsection}{Ejercicio 8}{60}{subsubsection*.104}%
-\contentsline {subsubsection}{Ejercicio 9}{60}{subsubsection*.105}%
-\contentsline {section}{NIVEL 4 --- VER MOVIMIENTO}{60}{section*.106}%
-\contentsline {subsubsection}{Ejercicio 10}{60}{subsubsection*.107}%
-\contentsline {subsubsection}{Ejercicio 11}{60}{subsubsection*.108}%
-\contentsline {section}{NIVEL 5 --- VER EL TEXTO COMPLETO}{61}{section*.109}%
-\contentsline {subsubsection}{Ejercicio 12}{61}{subsubsection*.110}%
-\contentsline {subsubsection}{Ejercicio 13}{61}{subsubsection*.111}%
-\contentsline {subsubsection}{Ejercicio 14}{61}{subsubsection*.112}%
-\contentsline {subsubsection}{Ejercicio 15}{61}{subsubsection*.113}%
-\contentsline {subsection}{CIERRE DE LOS EJERCICIOS}{61}{subsection*.114}%
+\contentsline {subsubsection}{Qué es RO₁O₂TS}{5}{subsubsection*.10}%
+\contentsline {section}{R -- Revelación}{6}{section*.11}%
+\contentsline {subsection}{¿Qué significa revelación?}{6}{subsection*.12}%
+\contentsline {subsection}{Dios comunicó por medio de lenguaje}{7}{subsection*.13}%
+\contentsline {subsection}{Propósito de la revelación}{7}{subsection*.14}%
+\contentsline {subsection}{No son versículos aislados}{7}{subsection*.15}%
+\contentsline {subsection}{El texto construye}{7}{subsection*.16}%
+\contentsline {subsection}{Comunicación real, no código}{8}{subsection*.17}%
+\contentsline {subsection}{Dios busca ser entendido}{8}{subsection*.18}%
+\contentsline {subsection}{Fundamento de la revelación}{8}{subsection*.19}%
+\contentsline {subsection}{El peso de la revelación}{8}{subsection*.20}%
+\contentsline {subsection}{El poder de la revelación}{9}{subsection*.21}%
+\contentsline {subsection}{Implicaciones}{9}{subsection*.22}%
+\contentsline {subsection}{Nuestra postura frente al texto}{9}{subsection*.23}%
+\contentsline {subsection}{Principio clave}{9}{subsection*.24}%
+\contentsline {subsection}{Punto de partida}{9}{subsection*.25}%
+\contentsline {section}{O₁ - OBSERVAR LA ESTRUCTURA}{10}{section*.26}%
+\contentsline {subsection}{El problema común}{10}{subsection*.27}%
+\contentsline {subsection}{Principio fundamental}{10}{subsection*.28}%
+\contentsline {subsection}{Por qué esto importa}{10}{subsection*.29}%
+\contentsline {subsection}{La realidad del texto}{11}{subsection*.30}%
+\contentsline {subsection}{Lo que aprenderás}{11}{subsection*.31}%
+\contentsline {subsection}{El proceso de observación estructural}{11}{subsection*.32}%
+\contentsline {subsection}{Qué NO haremos}{12}{subsection*.34}%
+\contentsline {subsection}{Qué SÍ haremos}{12}{subsection*.35}%
+\contentsline {subsection}{Observación clave}{12}{subsection*.36}%
+\contentsline {subsection}{Transición}{12}{subsection*.37}%
+\contentsline {subsection}{PASO 1 --- COPIAR EL TEXTO}{12}{subsection*.38}%
+\contentsline {subsection}{EJECUTA}{12}{subsection*.39}%
+\contentsline {subsubsection}{¿Qué haces?}{12}{subsubsection*.40}%
+\contentsline {subsubsection}{Regla}{12}{subsubsection*.41}%
+\contentsline {subsubsection}{Cómo hacerlo}{12}{subsubsection*.42}%
+\contentsline {subsubsection}{Resultado esperado}{13}{subsubsection*.43}%
+\contentsline {subsection}{ENTIENDE}{13}{subsection*.44}%
+\contentsline {subsubsection}{Qué estás haciendo realmente}{13}{subsubsection*.45}%
+\contentsline {subsubsection}{Principio clave}{13}{subsubsection*.46}%
+\contentsline {subsubsection}{Idea clave}{13}{subsubsection*.47}%
+\contentsline {subsubsection}{Pregunta guía}{13}{subsubsection*.48}%
+\contentsline {subsubsection}{Definición}{13}{subsubsection*.49}%
+\contentsline {subsubsection}{Resultado:}{13}{subsubsection*.50}%
+\contentsline {subsubsection}{Regla importante}{13}{subsubsection*.51}%
+\contentsline {subsubsection}{Errores Comúnes}{14}{subsubsection*.52}%
+\contentsline {subsubsection}{Regla de control}{14}{subsubsection*.53}%
+\contentsline {subsubsection}{Frase clave}{14}{subsubsection*.54}%
+\contentsline {subsubsection}{Qué debes notar}{14}{subsubsection*.55}%
+\contentsline {subsubsection}{Transición}{14}{subsubsection*.56}%
+\contentsline {subsection}{PASO 2 --- IDENTIFICAR LOS VERBOS FINITOS}{14}{subsection*.57}%
+\contentsline {subsection}{EJECUTA}{14}{subsection*.58}%
+\contentsline {subsubsection}{¿Qué haces?}{14}{subsubsection*.59}%
+\contentsline {subsubsection}{REGLA}{14}{subsubsection*.60}%
+\contentsline {subsubsection}{CÓMO HACERLO}{14}{subsubsection*.61}%
+\contentsline {subsubsection}{REGLA DE EJECUCIÓN (CRÍTICA)}{15}{subsubsection*.62}%
+\contentsline {subsubsection}{RESULTADO ESPERADO}{15}{subsubsection*.63}%
+\contentsline {subsection}{ENTIENDE}{15}{subsection*.64}%
+\contentsline {subsubsection}{Qué estás haciendo realmente}{15}{subsubsection*.65}%
+\contentsline {subsubsection}{PRINCIPIO CLAVE}{16}{subsubsection*.66}%
+\contentsline {subsubsection}{IDEA CLAVE}{16}{subsubsection*.67}%
+\contentsline {subsubsection}{PREGUNTA GUÍA}{16}{subsubsection*.68}%
+\contentsline {subsubsection}{DEFINICIÓN}{16}{subsubsection*.69}%
+\contentsline {subsubsection}{ACLARACIÓN IMPORTANTE}{16}{subsubsection*.70}%
+\contentsline {subsubsection}{EJEMPLO GUIADO}{16}{subsubsection*.71}%
+\contentsline {subsubsection}{Observación:}{16}{subsubsection*.72}%
+\contentsline {subsubsection}{REGLA IMPORTANTE}{16}{subsubsection*.73}%
+\contentsline {subsubsection}{Errores Comúnes}{16}{subsubsection*.74}%
+\contentsline {subsubsection}{REGLA DE CONTROL}{16}{subsubsection*.75}%
+\contentsline {subsubsection}{FRASE CLAVE}{16}{subsubsection*.76}%
+\contentsline {subsubsection}{QUÉ DEBES NOTAR}{17}{subsubsection*.77}%
+\contentsline {subsubsection}{TRANSICIÓN}{17}{subsubsection*.78}%
+\contentsline {subsection}{PASO 3 --- IDENTIFICAR CLÁUSULAS}{17}{subsection*.79}%
+\contentsline {subsection}{EJECUTA}{17}{subsection*.80}%
+\contentsline {subsubsection}{¿Qué haces?}{17}{subsubsection*.81}%
+\contentsline {subsubsection}{Regla}{17}{subsubsection*.82}%
+\contentsline {subsubsection}{Cómo hacerlo}{17}{subsubsection*.83}%
+\contentsline {subsubsection}{Resultado esperado}{17}{subsubsection*.84}%
+\contentsline {subsubsection}{Regla importante}{18}{subsubsection*.85}%
+\contentsline {subsubsection}{Errores Comúnes}{18}{subsubsection*.86}%
+\contentsline {subsubsection}{Regla de control}{18}{subsubsection*.87}%
+\contentsline {subsubsection}{Frase clave}{19}{subsubsection*.88}%
+\contentsline {subsubsection}{Qué debes notar}{19}{subsubsection*.89}%
+\contentsline {subsubsection}{Transición}{19}{subsubsection*.90}%
+\contentsline {subsection}{PASO 4 --- IDENTIFICAR CONECTORES QUE UNEN CLÁUSULAS}{19}{subsection*.91}%
+\contentsline {subsection}{EJECUTA}{19}{subsection*.93}%
+\contentsline {subsubsection}{¿Qué haces?}{19}{subsubsection*.94}%
+\contentsline {subsubsection}{Regla}{19}{subsubsection*.95}%
+\contentsline {subsubsection}{Resultado esperado}{19}{subsubsection*.96}%
+\contentsline {subsubsection}{Regla importante}{22}{subsubsection*.97}%
+\contentsline {subsubsection}{Errores Comúnes}{22}{subsubsection*.98}%
+\contentsline {subsubsection}{Regla de control}{22}{subsubsection*.99}%
+\contentsline {subsubsection}{Frase clave}{22}{subsubsection*.100}%
+\contentsline {subsection}{PASO 5 - IDENTIFICAR LA ESTRUCTURA}{22}{subsection*.101}%
+\contentsline {subsection}{EJECUTA}{22}{subsection*.102}%
+\contentsline {subsubsection}{¿Qué haces?}{22}{subsubsection*.103}%
+\contentsline {subsubsection}{Regla}{22}{subsubsection*.104}%
+\contentsline {subsubsection}{Cómo hacerlo}{22}{subsubsection*.105}%
+\contentsline {subsubsection}{Resultado esperado}{22}{subsubsection*.106}%
+\contentsline {subsubsection}{Aplicación:}{23}{subsubsection*.107}%
+\contentsline {subsection}{ENTIENDE}{25}{subsection*.108}%
+\contentsline {subsubsection}{Qué estás haciendo realmente}{25}{subsubsection*.109}%
+\contentsline {subsubsection}{Principio clave}{25}{subsubsection*.110}%
+\contentsline {subsubsection}{Idea clave}{25}{subsubsection*.111}%
+\contentsline {subsubsection}{Pregunta guía}{25}{subsubsection*.112}%
+\contentsline {subsubsection}{Definición}{26}{subsubsection*.113}%
+\contentsline {subsubsection}{Ejemplo guiado}{26}{subsubsection*.114}%
+\contentsline {subsubsection}{Regla importante}{26}{subsubsection*.115}%
+\contentsline {subsubsection}{Errores Comúnes}{26}{subsubsection*.116}%
+\contentsline {subsubsection}{Regla de control}{26}{subsubsection*.117}%
+\contentsline {subsubsection}{Qué debes notar}{26}{subsubsection*.118}%
+\contentsline {subsubsection}{Transición}{26}{subsubsection*.119}%
+\contentsline {subsection}{PASO 7 - REDUCIR A LA CLÁUSULA BASE}{27}{subsection*.120}%
+\contentsline {subsection}{EJECUTA}{27}{subsection*.121}%
+\contentsline {subsubsection}{¿Qué haces?}{27}{subsubsection*.122}%
+\contentsline {subsubsection}{Regla}{27}{subsubsection*.123}%
+\contentsline {subsubsection}{Cómo hacerlo}{27}{subsubsection*.124}%
+\contentsline {subsubsection}{Resultado esperado}{27}{subsubsection*.125}%
+\contentsline {subsection}{ENTIENDE}{34}{subsection*.126}%
+\contentsline {subsubsection}{Qué estás haciendo realmente}{34}{subsubsection*.127}%
+\contentsline {subsubsection}{Principio clave}{34}{subsubsection*.128}%
+\contentsline {subsubsection}{Idea clave}{34}{subsubsection*.129}%
+\contentsline {subsubsection}{Frase clave}{34}{subsubsection*.130}%
+\contentsline {subsubsection}{Pregunta guía}{34}{subsubsection*.131}%
+\contentsline {subsubsection}{Distinción importante}{34}{subsubsection*.132}%
+\contentsline {subsubsection}{Definición}{35}{subsubsection*.133}%
+\contentsline {subsubsection}{Etiquetas base:}{35}{subsubsection*.134}%
+\contentsline {subsubsection}{Etiquetas adicionales (solo si son claramente observables):}{35}{subsubsection*.135}%
+\contentsline {subsubsection}{Etiquetas restringidas:}{35}{subsubsection*.136}%
+\contentsline {subsubsection}{Ejemplo guiado}{35}{subsubsection*.137}%
+\contentsline {subsubsection}{Aplicación:}{35}{subsubsection*.138}%
+\contentsline {subsubsection}{Regla importante}{38}{subsubsection*.139}%
+\contentsline {subsubsection}{Errores Comúnes}{38}{subsubsection*.140}%
+\contentsline {subsubsection}{Regla de control}{38}{subsubsection*.141}%
+\contentsline {subsubsection}{Frase clave}{38}{subsubsection*.142}%
+\contentsline {subsubsection}{Qué debes notar}{39}{subsubsection*.143}%
+\contentsline {subsubsection}{Transición}{39}{subsubsection*.144}%
+\contentsline {subsection}{PASO 11 --- SEGUIR O DETENERSE}{39}{subsection*.145}%
+\contentsline {subsection}{EJECUTA}{39}{subsection*.146}%
+\contentsline {subsubsection}{¿Qué haces?}{39}{subsubsection*.147}%
+\contentsline {subsubsection}{Regla}{39}{subsubsection*.148}%
+\contentsline {subsubsection}{Caso sin patrón}{39}{subsubsection*.149}%
+\contentsline {subsubsection}{Cómo hacerlo}{39}{subsubsection*.150}%
+\contentsline {subsubsection}{Resultado esperado}{40}{subsubsection*.151}%
+\contentsline {subsubsection}{REGLA DE CONTROL}{54}{subsubsection*.152}%
+\contentsline {subsubsection}{ERRORES COMUNES}{54}{subsubsection*.153}%
+\contentsline {subsubsection}{QUÉ DEBES NOTAR}{54}{subsubsection*.154}%
+\contentsline {subsubsection}{TRANSICIÓN}{54}{subsubsection*.155}%
+\contentsline {section}{EJEMPLO COMPLETO --- 1 CORINTIOS 3:1}{55}{section*.156}%
+\contentsline {subsection}{PUNTO DE PARTIDA DEL EJEMPLO}{55}{subsection*.157}%
+\contentsline {subsubsection}{Este ejemplo asume que ya se han completado:}{55}{subsubsection*.158}%
+\contentsline {section}{CONCLUSIONES DE LOS PASOS 1--13}{55}{section*.159}%
+\contentsline {subsection}{H1 --- UNIDAD}{55}{subsection*.160}%
+\contentsline {subsection}{H2 --- MOVIMIENTOS INTERNOS}{55}{subsection*.161}%
+\contentsline {subsection}{CONTEXTO}{55}{subsection*.162}%
+\contentsline {section}{O₂ --- OBSERVAR EL TEXTO}{56}{section*.163}%
+\contentsline {subsubsection}{TEXTO --- 1 CORINTIOS 3:1}{56}{subsubsection*.164}%
+\contentsline {subsubsection}{OBSERVACIÓN FRASE POR FRASE (H4)}{56}{subsubsection*.165}%
+\contentsline {subsubsection}{RESULTADO CONSOLIDADO}{57}{subsubsection*.166}%
+\contentsline {subsubsection}{LO QUE ESTE EJEMPLO DEMUESTRA}{57}{subsubsection*.167}%
+\contentsline {subsubsection}{FRASE CLAVE FINAL}{58}{subsubsection*.168}%
+\contentsline {section}{T --- TRAZAR EL TEXTO}{58}{section*.169}%
+\contentsline {subsection}{INTRODUCCIÓN}{58}{subsection*.170}%
+\contentsline {subsection}{EJECUTA}{59}{subsection*.171}%
+\contentsline {subsection}{EJEMPLO}{60}{subsection*.172}%
+\contentsline {subsection}{COMPARACIÓN}{60}{subsection*.173}%
+\contentsline {subsection}{ENTIENDE}{61}{subsection*.174}%
+\contentsline {section}{S --- SOMETERSE AL TEXTO}{62}{section*.175}%
+\contentsline {subsection}{INTRODUCCIÓN}{62}{subsection*.176}%
+\contentsline {subsection}{EJECUTA}{63}{subsection*.177}%
+\contentsline {subsection}{EJEMPLO}{63}{subsection*.178}%
+\contentsline {subsection}{ENTIENDE}{64}{subsection*.179}%
+\contentsline {section}{CIERRE}{65}{section*.180}%
+\contentsline {subsubsection}{Has llegado al final del proceso}{65}{subsubsection*.181}%
+\contentsline {subsubsection}{Lo que hiciste}{65}{subsubsection*.182}%
+\contentsline {subsubsection}{Y ahora}{65}{subsubsection*.183}%
+\contentsline {subsubsection}{Principio final}{65}{subsubsection*.184}%
+\contentsline {subsubsection}{Lo que queda}{65}{subsubsection*.185}%
+\contentsline {subsubsection}{Frase final}{66}{subsubsection*.186}%
+\contentsline {section}{EJERCICIOS --- PRÁCTICA PROGRESIVA DE RO₁O₂TS}{66}{section*.187}%
+\contentsline {subsection}{INTRODUCCIÓN}{66}{subsection*.188}%
+\contentsline {section}{NIVEL 1 --- MICRO RO₁O₂TS (FUNDAMENTO)}{66}{section*.189}%
+\contentsline {section}{NIVEL 2 --- RO₁O₂TS PARCIAL (CONTROL)}{67}{section*.190}%
+\contentsline {section}{NIVEL 3 --- RO₁O₂TS CON RELACIÓN}{68}{section*.191}%
+\contentsline {section}{NIVEL 4 --- RO₁O₂TS COMPLETO (GUIADO)}{69}{section*.192}%
+\contentsline {section}{NIVEL 5 --- RO₁O₂TS COMPLETO (INDEPENDIENTE)}{70}{section*.193}%
+\contentsline {section}{NIVEL 6 --- CONTROL DE FIDELIDAD (S)}{70}{section*.194}%
+\contentsline {section}{NIVEL 7 --- PRODUCCIÓN COMPLETA}{71}{section*.195}%
+\contentsline {section}{CIERRE DE LOS EJERCICIOS}{72}{section*.196}%
+\contentsline {section}{EJEMPLOS COMPLETADOS}{72}{section*.197}%
+\contentsline {subsection}{1 CORINTIOS 3:6}{72}{subsection*.198}%
+\contentsline {subsubsection}{CONCLUSIONES}{74}{subsubsection*.199}%
+\contentsline {subsection}{EJEMPLO 2 --- GÁLATAS 2:16 (PARTE SIMPLE)}{75}{subsection*.200}%
+\contentsline {subsubsection}{CONCLUSIONES}{77}{subsubsection*.201}%
+\contentsline {section}{GLOSARIO BÁSICO}{78}{section*.202}%
+\contentsline {subsubsection}{VERBO}{78}{subsubsection*.203}%
+\contentsline {subsubsection}{SUJETO}{78}{subsubsection*.204}%
+\contentsline {subsubsection}{COMPLEMENTO}{78}{subsubsection*.205}%
+\contentsline {subsubsection}{CLÁUSULA}{78}{subsubsection*.206}%
+\contentsline {subsubsection}{CONECTOR}{78}{subsubsection*.207}%
+\contentsline {subsubsection}{TRONCO}{78}{subsubsection*.208}%
+\contentsline {subsubsection}{COMPORTAMIENTO}{78}{subsubsection*.209}%
+\contentsline {subsubsection}{PATRÓN}{78}{subsubsection*.210}%
+\contentsline {subsubsection}{UNIDAD}{78}{subsubsection*.211}%
+\contentsline {subsubsection}{MORFOLOGÍA}{78}{subsubsection*.212}%
+\contentsline {subsubsection}{VERBO FINITO}{78}{subsubsection*.213}%
+\contentsline {subsubsection}{TIEMPO (VERBO)}{78}{subsubsection*.214}%
+\contentsline {subsubsection}{MODO (VERBO)}{78}{subsubsection*.215}%
+\contentsline {subsubsection}{VOZ}{79}{subsubsection*.216}%
+\contentsline {subsubsection}{PERSONA}{79}{subsubsection*.217}%
+\contentsline {subsubsection}{NÚMERO}{79}{subsubsection*.218}%
+\contentsline {subsubsection}{NOMINATIVO}{79}{subsubsection*.219}%
+\contentsline {subsubsection}{ACUSATIVO}{79}{subsubsection*.220}%
+\contentsline {subsubsection}{GENITIVO}{79}{subsubsection*.221}%
+\contentsline {subsubsection}{DATIVO}{79}{subsubsection*.222}%
+\contentsline {subsubsection}{VOCATIVO}{79}{subsubsection*.223}%
+\contentsline {subsubsection}{INDICATIVO}{79}{subsubsection*.224}%
+\contentsline {subsubsection}{SUBJUNTIVO}{79}{subsubsection*.225}%
+\contentsline {subsubsection}{IMPERATIVO}{79}{subsubsection*.226}%
+\contentsline {subsubsection}{CONTRASTE}{79}{subsubsection*.227}%
+\contentsline {subsubsection}{REPETICIÓN}{79}{subsubsection*.228}%
+\contentsline {subsubsection}{ÉNFASIS}{80}{subsubsection*.229}%

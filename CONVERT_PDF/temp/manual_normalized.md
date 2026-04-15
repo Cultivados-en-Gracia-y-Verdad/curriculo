@@ -31,7 +31,7 @@ Para ayudarnos a mantener esta manera de pensar presente, utilizaremos un record
 
 ## INTRODUCCIÓN
 
-\headingfive{Qué es RO₁O₂TS}
+### Qué es RO₁O₂TS
 
 \headingsix{RO₁O₂TS es el proceso completo para trabajar un \fillin{texto}.}
 
@@ -46,10 +46,9 @@ Para ayudarnos a mantener esta manera de pensar presente, utilizaremos un record
 \headingsix{RO₁O₂TS se desarrolla en \fillin{cinco} partes:}
 
 \headingsix{R — Revelación}
-* 👉 Dios \fillin{habló}
-* 👉 Usó lenguaje
-* 👉 El texto comunica
-
+\begin{verseblock}
+\textit{ 👉 Dios \fillin{habló} } 👉 Usó lenguaje * 👉 El texto comunica
+\end{verseblock}
 \headingsix{O₁ — \fillin{Observar} la estructura}
 * 👉 Cómo está construido el texto
 * 👉 Cómo se \fillin{conecta}
@@ -111,14 +110,13 @@ Dios \textbf{reveló}.
 
 ## ¿Qué significa revelación?
 
-Revelación significa que el contenido \textbf{no se originó en el hombre}, \fillin{sino} que fue dado.
+\headingfive{Revelación significa que el contenido \textbf{no se originó en el hombre}, \fillin{sino} que fue dado.}
 
-Esto cambia completamente nuestra postura.
+\headingfive{Esto cambia completamente nuestra postura.}
 
-No nos acercamos al \fillin{texto} para producir significado, sino para \textbf{reconocer lo que ya ha sido comunicado}.
+\headingsix{No nos acercamos al \fillin{texto} para producir significado, sino para \textbf{reconocer lo que ya ha sido comunicado}.}
 
-Hay una diferencia clara:
-
+\headingsix{Hay una diferencia clara:}
 - En el descubrimiento, el hombre busca y llega a conclusiones
 - En la revelación, la verdad es \fillin{dada} al hombre
 - No estamos tratando de “llegar” a la verdad del texto.
@@ -156,7 +154,6 @@ La Biblia no fue escrita en versículos.
 Los versículos fueron añadidos después para ayudarnos a \fillin{ubicar} el contenido, pero \textbf{no forman parte de la comunicación original}.
 
 El autor no pensó en:
-
 - versículo 1
 - versículo 2
 - versículo 3
@@ -279,7 +276,7 @@ Si Dios ha hablado, entonces:
 
 ## Principio clave
 
-Dios comunicó → el \fillin{texto} está construido → la estructura revela el propósito
+Dios habló → el \fillin{texto} está construido → la estructura revela el propósito
 
 ## Punto de partida
 
@@ -394,21 +391,22 @@ preparar correctamente el texto.
 
 Sin este \fillin{paso}, todo lo demás falla.
 
-# PASO 1 — COPIAR EL TEXTO
+## PASO 1 — COPIAR EL TEXTO
 ## EJECUTA
 
-\headingfive{¿Qué haces?}
+### ¿Qué haces?
 \headingsix{\fillin{Copias} el texto en un solo párrafo y creas una copia de trabajo.}
 
-\headingfive{Regla}
+### Regla
 \headingsix{No modificas el \fillin{texto}}
 \headingsix{No separas en versículos}
 \headingsix{Siempre trabajas sobre una copia}
 
-\headingfive{Cómo hacerlo}
+### Cómo hacerlo
 
+\begin{verseblock}
 1. Copia el texto en un editor
-
+\end{verseblock}
 2. Elimina \fillin{títulos} y encabezados
 
 3. Une los versículos en un solo párrafo
@@ -419,192 +417,233 @@ Sin este \fillin{paso}, todo lo demás falla.
 - texto original
 - \fillin{texto} de trabajo
 
-\headingfive{Resultado esperado}
-```
-Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
-Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden.
-```
+### Resultado esperado
 
+\begin{verseblock}
+``` Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo.  Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden. ```
+\end{verseblock}
 ## ENTIENDE
 
-\headingfive{Qué estás haciendo realmente}
+### Qué estás haciendo realmente
 \headingsix{Estás preparando el texto para \fillin{poder} observarlo sin distorsión.}
 
-\headingfive{Principio clave}
+### Principio clave
 \headingsix{El análisis solo es confiable si el \fillin{texto} se mantiene intacto.}
 
-\headingfive{Idea clave}
+### Idea clave
 \headingsix{No trabajas con versículos aislados.}
 \headingsix{Trabajas con una unidad completa de pensamiento.}
 
-\headingfive{Pregunta guía}
+### Pregunta guía
 \headingsix{👉 ¿Estoy \fillin{viendo} el texto como una unidad o como fragmentos?}
 
-\headingfive{Definición}
+### Definición
 \headingsix{Párrafo = unidad donde el autor desarrolla una idea completa.}
 
 \headingfive{Ejemplo \fillin{guiado}}
 
 \headingsix{Texto original:}
->«Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
-Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden.»
-
-\headingsix{Resultado:}
-```
-Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
-Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden.
-```
-
-\headingfive{Regla importante}
+\begin{verseblock}
+>«Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo. Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden.»
+\end{verseblock}
+### Resultado:
+\begin{verseblock}
+``` Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo.  Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden. ```
+\end{verseblock}
+### Regla importante
 \headingsix{Nunca trabajas directamente \fillin{sobre} el texto original.}
 
-\headingfive{Error común}
+### Errores Comúnes
 \headingsix{Modificar palabras sin \fillin{darse} cuenta }
 \headingsix{Trabajar sobre versículos separados}
 \headingsix{No crear copia de trabajo}
 
-\headingfive{Regla de control}
+### Regla de control
 \headingsix{Si cambiaste el \fillin{texto} original, perdiste el control del análisis.}
 
-\headingfive{Frase clave}
+### Frase clave
 \headingsix{“No modifico el texto — lo preparo para observarlo.”}
 
-\headingfive{Qué debes notar}
+### Qué debes notar
 \headingsix{Cuando el texto está bien preparado:}
-- \fillin{puedes} ver el flujo completo
-- no rompes conexiones
-- el análisis posterior se vuelve confiable
-
-\headingfive{Transición}
+\begin{verseblock}
+- \fillin{puedes} ver el flujo completo - no rompes conexiones - el análisis posterior se vuelve confiable
+\end{verseblock}
+### Transición
 
 \headingsix{En el siguiente paso:}
+\begin{verseblock}
 - 👉 identificarás los \fillin{verbos} finitos
-
+\end{verseblock}
 - 👉 verás \fillin{dónde} están las afirmaciones del texto
 
-# PASO 2 — IDENTIFICAR LOS VERBOS FINITOS
+## PASO 2 — IDENTIFICAR LOS VERBOS FINITOS
 
 ## EJECUTA
 
-\headingfive{¿Qué haces?}
+### ¿Qué haces?
+\headingsix{Identificas y \fillin{marcas} los \textbf{verbos finitos del texto}, confirmados por la morfología griega.}
 
-\headingsix{Identificas y \fillin{marcas} los \textbf{verbos finitos} del texto.}
+### REGLA
+\headingsix{Solo se marcan los \textbf{verbos conjugados en el texto griego}.}
 
-\headingfive{Regla}
+### CÓMO HACERLO
 
-\headingsix{Solo se marcan los \textbf{verbos conjugados}.}
-
-\headingfive{Cómo hacerlo}
-
+\begin{verseblock}
 1. Lee el texto preparado (Paso 1)
-2. Localiza posibles \fillin{verbos}
-3. Pregunta:
+\end{verseblock}
+2. Consulta el texto griego (o interlineal)
 
-- 👉 ¿Este verbo tiene persona (según la morfología griega)?
+3. Localiza los \fillin{verbos} en el griego
+
+4. Pregunta:
+- 👉 ¿Este verbo en griego tiene persona y número?
 
 \headingsix{Decide:}
-- Sí → márcalo
+
+- Sí → márcalo en el texto en español
 - No → déjalo sin marcar
 
 \headingsix{Marca así:}
+
 ```
 ==verbo==
 ```
 
-\headingfive{Resultado esperado}
-```
-  Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
-  Les ==di== a beber leche, no alimento sólido, porque todavía no ==podían== recibirlo. En verdad, ni aun ahora ==pueden==.
-```
+### REGLA DE EJECUCIÓN (CRÍTICA)
+\headingsix{El griego determina:}
+
+\begin{verseblock}
+- qué cuenta como verbo - cuántos verbos hay
+\end{verseblock}
+\headingsix{El español solo muestra:}
+- la forma legible del verbo
 
 
+\headingfive{CÓMO ALINEAR}
+\headingsix{No buscas palabra por palabra.}
+
+\headingsix{Buscas la \fillin{expresión equivalente} en español.}
+
+\headingsix{Ejemplo:}
+
+####### Griego:
+```
+ἀντέστην
+```
+
+\headingsix{Español:}
+```
+me ==opuse==
+```
+
+\headingsix{Griego:}
+```
+συνεσταύρωμαι
+```
+
+\headingsix{Español:}
+```
+he sido ==crucificado==
+```
+
+### RESULTADO ESPERADO
+
+\begin{verseblock}
+```   Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.     Les ==di== a beber leche, no alimento sólido, porque todavía no ==podían== recibirlo.     En verdad, ni aun ahora ==pueden==. ```
+\end{verseblock}
 ## ENTIENDE
+### Qué estás haciendo realmente
+\headingsix{Estás identificando \textbf{los puntos de acción reales del texto original}.}
 
-\headingfive{Qué estás haciendo realmente}
-\headingsix{Estás identificando \textbf{las acciones del texto}.}
+### PRINCIPIO CLAVE
+\headingsix{Cada verbo finito griego introduce una \fillin{unidad de acción explícita}.}
 
-\headingfive{Principio clave}
-\headingsix{Cada verbo finito introduce una \fillin{nueva} línea de análisis.}
+### IDEA CLAVE
+\headingsix{No todo lo que parece verbo en español corresponde a un verbo finito en griego.}
 
-\headingfive{Idea clave}
-\headingsix{No todo lo que \fillin{parece} verbo es un verbo finito.}
-- 👉 Solo el verbo conjugado lo es.
+### PREGUNTA GUÍA
+\headingsix{👉 ¿Este verbo es finito en el texto griego?}
 
-\headingfive{Pregunta guía}
-\headingsix{👉 ¿Este verbo tiene persona?}
+### DEFINICIÓN
+\headingsix{Verbo finito = verbo que tiene:}
+\begin{verseblock}
+- persona - número - tiempo/modo
+\end{verseblock}
+\headingsix{y funciona como núcleo de una cláusula en el griego.}
 
-\headingfive{Definición}
-\headingsix{Verbo finito = verbo conjugado que tiene persona y número, y funciona como núcleo de una cláusula.}
+### ACLARACIÓN IMPORTANTE
+\headingsix{En español puede haber:}
+\begin{verseblock}
+- más verbos que en el griego - menos verbos que en el griego - estructuras diferentes
+\end{verseblock}
+\headingfive{👉 Por eso:}
+\headingsix{El griego es la referencia final.}
 
-\headingsix{La morfología \fillin{griega} confirma la decisión.}
-
-\headingfive{Ejemplo guiado}
-
+### EJEMPLO GUIADO
 \headingsix{Texto:}
 
-```
-no ==pude== hablarles
-les ==di== a beber leche
-porque no ==podían== recibirlo
-ni aun ahora ==pueden==
-```
+\begin{verseblock}
+``` Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.   Les ==di== a beber leche, no alimento sólido, porque todavía no ==podían== recibirlo.   En verdad, ni aun ahora ==pueden==. ```
+\end{verseblock}
+### Observación:
+\begin{verseblock}
+- “hablar” → ❌ no es finito en griego - “recibir” → ❌ no es finito en griego - ==pude==, ==di==, ==podían==, ==pueden== → ✔ corresponden a verbos finitos griegos
+\end{verseblock}
+### REGLA IMPORTANTE
+\headingsix{Las formas que no tienen persona en el griego:}
+\begin{verseblock}
+👉 no crean nuevas cláusulas
+\end{verseblock}
+### Errores Comúnes
+\begin{verseblock}
+- Marcar verbos basados solo en el español - Seguir el interlineal sin verificar morfología - Contar participios como verbos principales - Separar un solo verbo griego en múltiples acciones
+\end{verseblock}
+### REGLA DE CONTROL
+\headingsix{Si no es finito en griego, no se marca.}
 
-\headingsix{Observación:}
-- “hablar” → ❌ no tiene persona
-- “recibir” → ❌ no tiene persona
-- \==pude\==,\==di\==, \==podían\==, \==pueden\== → ✔ tienen persona
-
-\headingfive{Regla importante}
-\headingsix{Las formas verbales que no \fillin{tienen} persona no crean nuevas cláusulas.}
-
-\headingfive{Error común}
-- Marcar infinitivos como verbos principales
-- Separar partes de un \fillin{mismo} verbo
-- Ignorar verbos pequeños (como “es”)
-- Marcar por apariencia en \fillin{lugar} de morfología
-
-\headingfive{Regla de control}
-\headingsix{Si no tiene persona, no es verbo \fillin{finito}.}
-
-\headingfive{Frase clave}
-> “Si tiene persona, se \fillin{marca}.”
-
-\headingfive{Qué debes notar}
-
+### FRASE CLAVE
+\begin{verseblock}
+> “El griego decide; el español muestra.”
+\end{verseblock}
+### QUÉ DEBES NOTAR
 \headingsix{Cuando marcas correctamente:}
-- aparecen las acciones del texto
-- puedes ver cuántas \fillin{ideas} hay
-- el texto deja de ser difuso
-
-\headingfive{Transición}
-
+\begin{verseblock}
+- aparecen las acciones reales del texto - el número de unidades se vuelve objetivo - evitas distorsión por traducción
+\end{verseblock}
+### TRANSICIÓN
 \headingsix{En el siguiente paso:}
-- 👉 separarás cada verbo en su propia línea
-- 👉 verás claramente las unidades del texto
-
-# PASO 3 — IDENTIFICAR CLÁUSULAS
+\begin{verseblock}
+- 👉 separarás cada verbo en su propia línea - 👉 verás claramente las unidades de acción del texto
+\end{verseblock}
+## PASO 3 — IDENTIFICAR CLÁUSULAS
 
 ## EJECUTA
 
-\headingfive{¿Qué haces?}
+### ¿Qué haces?
 \headingsix{Colocas \fillin{cada} cláusula en una nueva línea.}
 
-\headingfive{Regla}
+### Regla
 \headingsix{Cada verbo finito introduce una nueva línea.}
 
-\headingfive{Cómo hacerlo}
+### Cómo hacerlo
 
+\begin{verseblock}
 1. Parte del texto con los verbos finitos ya marcados (Paso 2)
+\end{verseblock}
 2. Localiza un verbo finito
+
 3. Coloca la cláusula que contiene ese \fillin{verbo} en una nueva línea.
+
 4. Repite con cada verbo finito
+
 5. No muevas palabras ni reorganices el texto
 
-\headingfive{Resultado esperado}
+### Resultado esperado
 
-```
-Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
-
+\begin{verseblock}
+``` Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
+\end{verseblock}
 Les ==di== a beber leche, no alimento sólido,
 
 porque todavía no ==podían== recibirlo.
@@ -614,36 +653,37 @@ En verdad, ni aun ahora ==pueden==.
 
 ## ENTIENDE
 
-\headingfive{Qué estás haciendo realmente}
+### Qué estás haciendo realmente
 \headingsix{Estás separando el texto en \textbf{unidades de pensamiento}.}
+\begin{verseblock}
 - Aquí comienzas a ver dónde el \fillin{texto} afirma cosas.
-
-\headingfive{Principio clave}
+\end{verseblock}
+### Principio clave
 \headingsix{Cada verbo finito introduce una afirmación.}
 
-\headingfive{Idea clave}
+### Idea clave
 \headingsix{El texto no es un \fillin{bloque}. Está compuesto por múltiples afirmaciones conectadas.}
 
-\headingfive{Pregunta guía}
+### Pregunta guía
 \headingsix{👉 ¿Hay un verbo finito aquí?}
-- Sí → nueva \fillin{línea}
-- No → se queda donde está
-
-\headingfive{Definición}
+\begin{verseblock}
+- Sí → nueva \fillin{línea} - No → se queda donde está
+\end{verseblock}
+### Definición
 \headingsix{Cláusula = unidad de texto que contiene un \fillin{verbo} finito y expresa una afirmación.}
 
-\headingfive{Ejemplo guiado}
+### Ejemplo guiado
 
 \headingsix{Texto (de paso 2):}
-```
-Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
-Les ==di== a beber leche, no alimento sólido, porque todavía no ==podían== recibirlo. En verdad, ni aun ahora ==pueden==.
-```
 
-\headingsix{Aplicación:}
-```
-Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
+\begin{verseblock}
+``` Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.  Les ==di== a beber leche, no alimento sólido, porque todavía no ==podían== recibirlo. En verdad, ni aun ahora ==pueden==. ```
+\end{verseblock}
+### Aplicación:
 
+\begin{verseblock}
+``` Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
+\end{verseblock}
 Les ==di== a beber leche, no alimento sólido,
 
 porque todavía no ==podían== recibirlo.
@@ -651,51 +691,54 @@ porque todavía no ==podían== recibirlo.
 En verdad, ni aun ahora ==pueden==.
 ```
 
-\headingfive{Regla importante}
+### Regla importante
 \headingsix{No delimites perfectamente — separa por verbo finito.}
-
-\headingfive{Error común}
-- Intentar definir límites exactos
-- Reorganizar el \fillin{texto}
-- Mover palabras
-- Separar \fillin{partes} sin verbo
-
-\headingfive{Regla de control}
+\headingsix{Paso 3 no busca perfección gramatical.}
+\begin{verseblock}
+- 👉 Busca una segmentación inicial y controlada del texto.
+\end{verseblock}
+### Errores Comúnes
+\begin{verseblock}
+- Intentar definir límites exactos - Reorganizar el \fillin{texto} - Mover palabras - Separar \fillin{partes} sin verbo
+\end{verseblock}
+### Regla de control
 \headingsix{Si no hay verbo finito, no puede iniciar una nueva línea.}
 
-\headingfive{Frase clave}
+### Frase clave
+\begin{verseblock}
 > Cada verbo finito crea una nueva línea.
-
-\headingfive{Qué debes notar}
+\end{verseblock}
+### Qué debes notar
 
 \headingsix{Cuando separas correctamente:}
-- el texto \fillin{deja} de ser un bloque
-- aparecen las afirmaciones
-- la estructura comienza a hacerse \fillin{visible}
-
-\headingfive{Transición}
+\begin{verseblock}
+- el texto \fillin{deja} de ser un bloque - aparecen las afirmaciones - la estructura comienza a hacerse \fillin{visible}
+\end{verseblock}
+### Transición
 
 \headingsix{En el siguiente paso:}
+\begin{verseblock}
 - 👉 identificarás los conectores entre estas cláusulas
-
+\end{verseblock}
 - 👉 comenzarás a ver cómo se relacionan
 
-# PASO 4 — IDENTIFICAR CONECTORES QUE UNEN CLÁUSULAS
+## PASO 4 — IDENTIFICAR CONECTORES QUE UNEN CLÁUSULAS
 
 ![tabla-conectores](images/tabla-conectores.png)
 
 ## EJECUTA
 
-\headingfive{¿Qué haces?}
-Identificas y marcas los conectores que \fillin{unen} cláusulas con verbo finito.
+### ¿Qué haces?
+\headingfive{Identificas y marcas los conectores que \fillin{unen} cláusulas con verbo finito.}
 
-\headingfive{Regla}
-Solo se marcan los conectores que unen dos cláusulas con verbo finito.
+### Regla
+\headingfive{Solo se marcan los conectores que unen dos cláusulas con verbo finito.}
 
 \headingfive{Cómo hacerlo}
 
+\begin{verseblock}
 1. Parte del texto con \fillin{verbos} finitos y cláusulas ya identificadas
-
+\end{verseblock}
 2. Lee entre las cláusulas
 
 3. Haz esta pregunta:
@@ -710,10 +753,11 @@ Solo se marcan los conectores que unen dos cláusulas con verbo finito.
 (porque)
 ```
 
-\headingsix{Resultado esperado}
-```
-Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
+### Resultado esperado
 
+\begin{verseblock}
+``` Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
+\end{verseblock}
 Les ==di== a beber leche, no alimento sólido,
 
 (porque) todavía no ==podían== recibirlo.
@@ -723,28 +767,28 @@ En verdad, ni aun ahora ==pueden==.
 
 ## ENTIENDE
 
-\headingfive{Qué estás haciendo realmente}
+### Qué estás haciendo realmente
 \headingsix{Estás identificando la \textbf{relación real entre cláusulas}.}
 
-\headingfive{Principio clave}
+### Principio clave
 \headingsix{Solo los conectores que \fillin{unen} cláusulas afectan la estructura.}
 
 \headingfive{Idea clave}
-No todo conector en el texto conecta cláusulas.
+\headingfive{No todo conector en el texto conecta cláusulas.}
 
-\headingfive{Pregunta guía}
+### Pregunta guía
 \headingsix{👉 ¿Este conector une dos \fillin{verbos} finitos?}
 
-\headingfive{Definición}
+### Definición
 \headingsix{Un conector es una palabra que establece una relación entre dos cláusulas.}
 
-\headingfive{Ejemplo guiado}
+### Ejemplo guiado
 
 \headingsix{Texto (de paso 3):}
 
-```
-Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
-
+\begin{verseblock}
+``` Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
+\end{verseblock}
 Les ==di== a beber leche, no alimento sólido,
 
 porque todavía no ==podían== recibirlo.
@@ -767,21 +811,20 @@ Les ==di== a beber leche, no alimento sólido,
 En verdad, ni aun ahora ==pueden==.
 ```
 
-\headingfive{Regla importante}
+### Regla importante
 \headingsix{Si un conector no une dos verbos finitos, se \fillin{ignora}.}
 
-\headingfive{Error común}
-- Marcar todos los conectores
-- Ignorar los verbos
-- Confiar en intuición
-- Forzar relaciones
-
-\headingfive{Regla de control}
+### Errores Comúnes
+\begin{verseblock}
+- Marcar todos los conectores - Ignorar los verbos - Confiar en intuición - Forzar relaciones
+\end{verseblock}
+### Regla de control
 \headingsix{Si no puedes señalar los dos verbos que conecta, no se marca.}
 
-\headingfive{Frase clave}
+### Frase clave
+\begin{verseblock}
 > “No todo conector conecta cláusulas.”
-
+\end{verseblock}
 \headingfive{Qué debes notar}
 \headingsix{Cuando los conectores \fillin{están} bien marcados:}
 - la estructura comienza a aparecer
@@ -790,23 +833,22 @@ En verdad, ni aun ahora ==pueden==.
 \headingfive{Transición}
 \headingsix{En el siguiente paso \fillin{usarás} estos conectores para organizar la estructura.}
 
-# PASO 5 — IDENTIFICAR LA ESTRUCTURA
+## PASO 5 - IDENTIFICAR LA ESTRUCTURA
 
 ## EJECUTA
 
-\headingfive{¿Qué haces?}
-Organizas las cláusulas para mostrar \textbf{qué depende de qué}.
+### ¿Qué haces?
+\headingsix{Organizas las cláusulas para mostrar \textbf{qué depende de qué}.}
 
-\headingfive{Regla}
-- Cláusula \textbf{sin conector} → se \fillin{queda} a la izquierda
-- Cláusula \textbf{con conector} → va debajo de la que depende
+### Regla
+\begin{verseblock}
+- Cláusula \textbf{sin conector} → se \fillin{queda} a la izquierda - Cláusula \textbf{con conector} → va debajo de la que depende
+\end{verseblock}
+### Cómo hacerlo
 
-\headingfive{Cómo hacerlo}
-
-1. Parte del \fillin{texto} con:
-- cláusulas separadas (Paso 3)
-- conectores marcados (Paso 4)
-
+\begin{verseblock}
+1. Parte del \fillin{texto} con: - cláusulas separadas (Paso 3) - conectores marcados (Paso 4)
+\end{verseblock}
 2. Identifica una cláusula sin conector → base
 
 3. Busca una cláusula con conector
@@ -815,11 +857,11 @@ Organizas las cláusulas para mostrar \textbf{qué depende de qué}.
 
 5. Repite hasta organizar todo el texto
 
-\headingfive{Resultado esperado}
+### Resultado esperado
 
-```
-Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
-
+\begin{verseblock}
+``` Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
+\end{verseblock}
 Les ==di== a beber leche, no alimento sólido,
     (porque) todavía no ==podían== recibirlo.
 
@@ -828,33 +870,34 @@ En verdad, ni aun ahora ==pueden==.
 
 ## ENTIENDE
 
-\headingfive{Qué estás haciendo realmente}
+### Qué estás haciendo realmente
 \headingsix{Estás revelando la \textbf{estructura interna del pensamiento del autor}.}
 
-\headingfive{Principio clave}
+### Principio clave
 \headingsix{La estructura no se \fillin{decide}.}
+\begin{verseblock}
 - 👉 La estructura ya está indicada por los conectores.
-
-\headingfive{Idea clave}
+\end{verseblock}
+### Idea clave
 \headingsix{La posición \fillin{visual} muestra dependencia:}
-- izquierda → base
-- debajo → dependencia
-
-\headingfive{Pregunta guía}
+\begin{verseblock}
+- izquierda → base - debajo → dependencia
+\end{verseblock}
+### Pregunta guía
 \headingsix{👉 ¿Esta cláusula \fillin{tiene} conector?}
-- Sí → depende → va debajo
-- No → base → se queda a la izquierda
+\begin{verseblock}
+- Sí → depende → va debajo - No → base → se queda a la izquierda
+\end{verseblock}
+### Definición
+\headingsix{Estructura = la relación visible de dependencia \fillin{entre} cláusulas.}
 
-\headingfive{Definición}
-Estructura = la relación visible de dependencia \fillin{entre} cláusulas.
-
-\headingfive{Ejemplo guiado}
+### Ejemplo guiado
 
 \headingsix{Texto (de paso 4):}
 
-```
-Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
-
+\begin{verseblock}
+``` Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
+\end{verseblock}
 Les ==di== a beber leche, no alimento sólido,
 
 (porque) todavía no ==podían== recibirlo.
@@ -862,76 +905,72 @@ Les ==di== a beber leche, no alimento sólido,
 En verdad, ni aun ahora ==pueden==.
 ```
 
-\headingsix{Aplicación:}
+### Aplicación:
 
-```
-Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
-
+\begin{verseblock}
+``` Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
+\end{verseblock}
 Les ==di== a beber leche, no alimento sólido,
     (porque) todavía no ==podían== recibirlo.
 
 En verdad, ni aun ahora ==pueden==.
 ```
 
-\headingfive{Regla importante}
+### Regla importante
 \headingsix{Nunca \fillin{muevas} una cláusula si no hay un conector que lo justifique.}
 
-\headingfive{Error común}
-- Ordenar por “sentido”
-- Mover líneas porque “suena mejor”
-- Ignorar conectores
-- Reorganizar el texto
-
-\headingfive{Regla de control}
+### Errores Comúnes
+\begin{verseblock}
+- Ordenar por “sentido” - Mover líneas porque “suena mejor” - Ignorar conectores - Reorganizar el texto
+\end{verseblock}
+### Regla de control
 \headingsix{Si cambias la posición sin un conector, está mal.}
 
-\headingfive{Frase clave}
+### Frase clave
+\begin{verseblock}
 > “No organizo el texto — revelo su estructura.”
-
-\headingfive{Qué debes notar}
+\end{verseblock}
+### Qué debes notar
 
 \headingsix{Cuando la estructura está \fillin{bien}:}
-- puedes ver qué depende de qué
-- el \fillin{flujo} del pensamiento aparece
-- el texto deja de ser plano
-
-\headingfive{Transición}
-
+\begin{verseblock}
+- puedes ver qué depende de qué - el \fillin{flujo} del pensamiento aparece - el texto deja de ser plano
+\end{verseblock}
+### Transición
 \headingsix{En el siguiente paso:}
-- 👉 usarás los conectores para \textbf{leer la relación entre cláusulas}
-- 👉 no solo \fillin{verás} la estructura — la entenderás
-
-# PASO 6 — USAR EL CONECTOR
+\begin{verseblock}
+- 👉 usarás los conectores para \textbf{leer la relación entre cláusulas} - 👉 no solo \fillin{verás} la estructura — la entenderás
+\end{verseblock}
+## PASO 6 - USAR EL CONECTOR
 
 ## EJECUTA
 
-\headingfive{¿Qué haces?}
+### ¿Qué haces?
 \headingsix{Usas el conector para \textbf{leer la relación entre dos cláusulas}.}
 
-\headingfive{Regla}
+### Regla
 \headingsix{El conector \fillin{hace} una pregunta fija.}
+\begin{verseblock}
 - 👉 Tú respondes con lo que el \fillin{texto} muestra.
-
-\headingfive{Cómo hacerlo}
-1. Toma una cláusula que tenga conector
-2. Identifica el conector
-3. Haz la pregunta correspondiente
-4. Responde usando las palabras del \fillin{texto}, conectando ambas cláusulas
-
+\end{verseblock}
+### Cómo hacerlo
+\begin{verseblock}
+1. Toma una cláusula que tenga conector   2. Identifica el conector   3. Haz la pregunta correspondiente   4. Responde usando las palabras del \fillin{texto}, conectando ambas cláusulas
+\end{verseblock}
 5. Incluye los verbos finitos de ambas cláusulas
 
 6. Escríbelo debajo de la cláusula así:
   (cláusula con conector)
-    `pregunta → observación`
+    `pregunta → conexión`
 
-\headingfive{Resultado esperado}
+### Resultado esperado
 
-```
-Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
-
+\begin{verseblock}
+``` Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
+\end{verseblock}
 Les ==di== a beber leche, no alimento sólido,
      (porque) todavía no ==podían== recibirlo.
-     `¿por qué? → les ==dio== porque no ==podían== recibirlo`
+     `¿por qué? → les ==di== porque no ==podían== recibirlo`
 
 En verdad, ni aun ahora ==pueden==.
 ```
@@ -942,89 +981,88 @@ En verdad, ni aun ahora ==pueden==.
 
 ## ENTIENDE
 
-\headingfive{Qué estás haciendo realmente}
+### Qué estás haciendo realmente
 \headingsix{Estás haciendo visible la \textbf{relación ya presente en el texto}.}
 
-\headingfive{Principio clave}
+### Principio clave
 \headingsix{La relación \fillin{entre} cláusulas no se interpreta.}
+\begin{verseblock}
 - 👉 Se lee directamente del conector.
-
-\headingfive{Idea clave}
+\end{verseblock}
+### Idea clave
 \headingsix{El conector contiene la relación.}
+\begin{verseblock}
 - 👉 Tú no la creas — solo la haces evidente.
-
-\headingfive{Pregunta guía}
+\end{verseblock}
+### Pregunta guía
+\begin{verseblock}
 - 👉 ¿Qué pregunta activa este conector?
-
-\headingfive{Definición}
+\end{verseblock}
+### Definición
 \headingsix{Usar el conector = leer la relación entre dos cláusulas mediante la pregunta que el conector establece.}
 
-\headingfive{Ejemplo guiado}
+### Ejemplo guiado
 
 \headingsix{Texto (de paso 5):}
 
-```
-Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
-
+\begin{verseblock}
+``` Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
+\end{verseblock}
 Les ==di== a beber leche, no alimento sólido,
 (porque) todavía no ==podían== recibirlo.
 
 En verdad, ni aun ahora ==pueden==.
 ```
 
-\headingsix{Aplicación:}
+### Aplicación:
 
-```
-Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
-
+\begin{verseblock}
+``` Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
+\end{verseblock}
 Les ==di== a beber leche, no alimento sólido,
      (porque) todavía no ==podían== recibirlo.
-     `¿por qué? → les ==dio== porque no ==podían== recibirlo`
+     `¿por qué? → les ==di== porque no ==podían== recibirlo`
 
 En verdad, ni aun ahora ==pueden==.
 ```
 
-\headingfive{Regla importante}
+### Regla importante
 \headingsix{Cada conector tiene una pregunta fija que revela la relación.}
 
-\headingfive{Error común}
-- Explicar en lugar de leer
-- Agregar \fillin{ideas} al texto
-- No usar las palabras del texto en la respuesta
-- Ignorar la pregunta del conector
-
-\headingfive{Regla de control}
+### Errores Comúnes
+\begin{verseblock}
+- Explicar en lugar de leer   - Agregar \fillin{ideas} al texto   - No usar las palabras del texto en la respuesta   - Ignorar la pregunta del conector  
+\end{verseblock}
+### Regla de control
 \headingfive{La respuesta debe incluir:}
-- ambas cláusulas
-- sus verbos finitos
-- el conector
-
-\headingfive{Qué debes notar}
+\begin{verseblock}
+- ambas cláusulas - sus verbos finitos - el conector
+\end{verseblock}
+### Qué debes notar
 \headingsix{Cuando usas bien el conector:}
-- la relación se vuelve obvia
-- no necesitas interpretar
-- el texto se explica a sí mismo
-
-\headingfive{Transición}
+\begin{verseblock}
+- la relación se vuelve obvia   - no necesitas interpretar   - el texto se explica a sí mismo  
+\end{verseblock}
+### Transición
 \headingsix{En el siguiente paso:}
-- 👉 reducirás \fillin{cada} cláusula a su forma base
-- 👉 verás la estructura con claridad total
-
-# PASO 7 — REDUCIR A LA CLÁUSULA BASE
+\begin{verseblock}
+- 👉 reducirás \fillin{cada} cláusula a su forma base   - 👉 verás la estructura con claridad total  
+\end{verseblock}
+## PASO 7 - REDUCIR A LA CLÁUSULA BASE
 
 ## EJECUTA
 
-\headingfive{¿Qué haces?}
+### ¿Qué haces?
 \headingsix{Reduces cada cláusula a su forma mínima,}
 \headingsix{conservando la \fillin{acción} completa del verbo.}
+\begin{verseblock}
 -❗ No dividas acciones que funcionan como una sola unidad.
-
-\headingfive{Regla}
+\end{verseblock}
+### Regla
 \headingsix{Solo puedes dejar:}
-- sujeto
-- verbo
-- objeto (si lo hay)
-
+\begin{verseblock}
+- sujeto   - verbo   - objeto (si lo hay)
+\end{verseblock}
 \headingsix{Elimina lo que no es necesario,}
 \headingsix{pero \fillin{conserva} el contenido esencial de la acción.}
 
@@ -1032,10 +1070,11 @@ En verdad, ni aun ahora ==pueden==.
 \headingsix{❗ Mantienes los conectores  }
 \headingsix{❗ Mantienes la estructura del Paso 6  }
 
-\headingfive{Cómo hacerlo}
+### Cómo hacerlo
 
-1. Toma el texto trabajado en el Paso 6
-
+\begin{verseblock}
+1. Toma el texto trabajado en el Paso 6  
+\end{verseblock}
 2. Lee una cláusula
 
 3. Identifica el \fillin{verbo}
@@ -1049,13 +1088,13 @@ En verdad, ni aun ahora ==pueden==.
 
 6. Repite con cada cláusula
 
-\headingfive{Resultado esperado}
+### Resultado esperado
 
 \headingsix{Antes (Paso 6):}
 
-```
-Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
-
+\begin{verseblock}
+``` Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
+\end{verseblock}
 Les ==di== a beber leche, no alimento sólido,
      (porque) todavía no ==podían== recibirlo.
      `¿por qué? → porque no podían recibirlo`
@@ -1076,7 +1115,7 @@ ni aun ahora ==pueden==
 
 ## ENTIENDE
 
-\headingfive{Qué estás haciendo realmente}
+### Qué estás haciendo realmente
 
 \headingsix{Estás dejando visible la estructura \fillin{mínima} de cada cláusula.}
 
@@ -1086,69 +1125,92 @@ ni aun ahora ==pueden==
 \headingfive{Idea clave}
 \headingsix{Todo lo que no es núcleo puede quitarse sin perder la acción.}
 
-\headingfive{Frase clave}
+### Frase clave
+\begin{verseblock}
 > “Reduzco cada cláusula sin eliminar la estructura.”
-
-\headingfive{Qué debes notar}
+\end{verseblock}
+### Qué debes notar
 
 \headingsix{Cuando reduces bien:}
-- cada línea \fillin{queda} clara
-- desaparecen las palabras innecesarias
-- la relación entre cláusulas sigue visible
-
-\headingfive{Regla importante}
+\begin{verseblock}
+- cada línea \fillin{queda} clara   - desaparecen las palabras innecesarias   - la relación entre cláusulas sigue visible  
+\end{verseblock}
+### Regla importante
 \headingsix{Todas las cláusulas permanecen, incluso las dependientes.}
 
-\headingfive{Error común}
+### Errores Comúnes
 
-- Eliminar cláusulas completas
-- Quitar el verbo
-- Eliminar el conector
-- Cambiar la estructura del Paso 6
-
-\headingfive{Regla de control}
+\begin{verseblock}
+- Eliminar cláusulas completas   - Quitar el verbo   - Eliminar el conector   - Cambiar la estructura del Paso 6  
+\end{verseblock}
+### Regla de control
 \headingsix{Si desaparece una cláusula o su conector, redujiste mal.}
 
-\headingfive{Transición}
+### Transición
 
 \headingsix{En el siguiente paso:}
-- 👉 identificarás cuáles cláusulas \fillin{sostienen} el desarrollo
-- 👉 eliminarás las que dependen de otras
-
-# PASO 8 — IDENTIFICAR LA ESTRUCTURA TRONCAL
+\begin{verseblock}
+- 👉 identificarás cuáles cláusulas \fillin{sostienen} el desarrollo   - 👉 eliminarás las que dependen de otras  
+\end{verseblock}
+## PASO 8 - IDENTIFICAR LA ESTRUCTURA TRONCAL
 
 ## EJECUTA
 
-\headingfive{¿Qué haces?}
-\headingsix{Eliminas las \fillin{cláusulas} que dependen estructuralmente,}
-\headingsix{pero conservas los elementos necesarios para que la acción tenga sentido.}
--❗ No elimines información que complete el verbo principal.
+### ¿Qué haces?
+\headingsix{Eliminas las \fillin{cláusulas} que dependen estructuralmente, pero conservas los elementos necesarios para que la acción tenga sentido.}
 
-\headingfive{Regla}
+\headingsix{Mientras lo haces, observas quién actúa y cómo cambia el tipo de acción.}
+\begin{verseblock}
+- ❗ No elimines información que complete el verbo principal.
+\end{verseblock}
+### Regla
 \headingsix{No todas las cláusulas son principales.}
-- 👉 Algunas dependen de otras
-- 👉 Solo las cláusulas principales \fillin{forman} el tronco
+\begin{verseblock}
+- 👉 Algunas dependen de otras - 👉 Solo las cláusulas principales \fillin{forman} el tronco
+\end{verseblock}
+\headingsix{❗ Eliminas cláusulas completas}
+\headingsix{❗ Mantienes el contenido esencial del texto}
+\headingsix{❗ Mantienes la estructura restante}
 
-\headingsix{❗ Eliminas cláusulas completas  }
-\headingsix{❗ Mantienes el contenido esencial del texto  }
-\headingsix{❗ Mantienes la estructura restante  }
+### Regla de decisión
+\headingsix{Si una cláusula depende de otra cláusula, se elimina.}
 
-\headingfive{Regla de decisión}
+\headingsix{Esto ocurre normalmente cuando:}
+\begin{verseblock}
+- responde a otra cláusula (por qué, para qué, qué describe, etc.) - está introducida por un conector subordinante
+\end{verseblock}
+### Observación integrada
+\headingsix{Mientras trabajas el tronco, marcas:}
 
-\headingsix{Si una cláusula está introducida por un conector que une verbos finitos,}
-\headingsix{depende de otra y se elimina.}
+\headingsix{O1 — SUJETO}
+\begin{verseblock}
+- 👉 Marca solo cuando el sujeto cambia - 👉 No explicas - 👉 No interpretas
+\end{verseblock}
+\headingsix{O2 — TIPO DE CLÁUSULA}
+- 👉 Marca solo cuando hay un cambio claro en el tipo de acción
 
-\headingfive{Cómo hacerlo}
+### Tipos permitidos:
+\begin{verseblock}
+- acción - habla - afirmación
+\end{verseblock}
+\headingsix{❗ Solo marcas cambios evidentes (ej: acción → habla)}
 
+### Cómo hacerlo
+
+\begin{verseblock}
 1. Toma el texto reducido (Paso 7)
+\end{verseblock}
+2. Identifica las cláusulas que:
+- dependen de otra
+- no pueden sostenerse por sí mismas
 
-2. Identifica las cláusulas que conservan conector (Paso 4)
+3. Elimina esas cláusulas completas
 
-3. \fillin{Elimina} esas cláusulas completas
+4. Mantén las cláusulas que sostienen el desarrollo
 
-4. Mantén las cláusulas que no dependen de otra
-
-\headingfive{Resultado esperado}
+5. Marca:
+- 👉 cambios de sujeto (O1)
+- 👉 cambios de tipo (O2, solo si son claros)
 
 \headingsix{Antes (Paso 7):}
 
@@ -1156,7 +1218,7 @@ ni aun ahora ==pueden==
 no ==pude== hablarles
 
 yo ==di==
-(porque) no ==podían==
+  (porque) no ==podían==
 
 ni aun ahora ==pueden==
 ```
@@ -1164,84 +1226,135 @@ ni aun ahora ==pueden==
 \headingsix{Después (Paso 8):}
 
 ```
+[S→] yo
 no ==pude== hablarles
 
 yo ==di==
 
+[S→] ustedes
 ni aun ahora ==pueden==
 ```
 
 ## ENTIENDE
 
-\headingfive{Qué estás haciendo realmente}
+### Qué estás haciendo realmente
+\headingsix{Estás dejando \fillin{visible} el desarrollo principal del texto}
 
-\headingsix{Estás dejando \fillin{visible} el desarrollo principal del texto.}
+\headingsix{mientras observas cómo se mueve.}
 
-\headingfive{Principio clave}
-\headingsix{La dependencia determina qué se elimina.}
+### Principio clave
+\headingsix{La dependencia determina qué se elimina}
 
-\headingfive{Idea clave}
-\headingsix{Las cláusulas dependientes acompañan  }
-\headingsix{Las cláusulas principales sostienen el desarrollo  }
+\headingsix{El sujeto muestra quién actúa}
 
-\headingfive{Frase clave}
-> “Elimino lo que depende; \fillin{conservo} lo que sostiene.”
+\headingsix{El tipo muestra cómo cambia la acción}
 
-\headingfive{Pregunta guía}
-- 👉 ¿Esta cláusula está unida por un conector?
+### Idea clave
+\headingsix{Las cláusulas dependientes acompañan}
 
-\headingfive{Definición}
+\headingsix{Las cláusulas principales sostienen el desarrollo}
+
+### Frase clave
+\begin{verseblock}
+> “Elimino lo que depende; observo quién actúa y cómo cambia la acción.”
+\end{verseblock}
+### Pregunta guía
+\begin{verseblock}
+- 👉 ¿Esta cláusula depende de otra?
+\end{verseblock}
+### Definición
 \headingsix{Tronco = conjunto de cláusulas que no dependen de otra.}
 
-\headingfive{Regla importante}
-\headingsix{Solo eliminas lo que ya fue identificado como dependiente.}
+### Cómo identificar el sujeto (O1)
+\headingsix{El sujeto es quien realiza la acción del verbo.}
 
-\headingfive{Error común}
+\headingsix{No lo identificas por intuición.}
 
-- Eliminar cláusulas principales
-- Dejar cláusulas dependientes
-- Decidir por “sentido” en \fillin{lugar} de estructura
-- Eliminar contenido esencial
+\headingsix{Lo identificas por concordancia.}
 
-\headingfive{Regla de control}
+\headingsix{Cómo confirmarlo:}
+\begin{verseblock}
+- mira primero el verbo - observa su persona y número - busca si hay sustantivo o pronombre explícito - si no aparece, mantén el sujeto anterior hasta que cambie claramente
+\end{verseblock}
+\headingsix{En griego, el sujeto puede confirmarse por:}
+- la forma del verbo
+- un sustantivo o pronombre en nominativo
 
-\headingsix{Si la cláusula tenía conector en Paso 4 → debe eliminarse  }
-\headingsix{Si no tenía conector → debe permanecer  }
+\headingsix{❗ No basta con buscar un nominativo aislado.}
 
-\headingfive{Qué debes notar}
+\headingsix{El verbo sigue siendo la base principal.}
+
+\headingsix{O1 no marca el sujeto en cada línea. Solo marca cuando el sujeto cambia. }
+
+\headingsix{El sujeto puede cambiar aunque no esté escrito, si la forma del verbo lo exige.}
+
+### Cómo reconocer el tipo de cláusula (O2)
+\headingsix{O2 no pregunta qué significa la cláusula.}
+
+\headingsix{O2 pregunta qué \textbf{tipo de acción visible} está ocurriendo.}
+
+### Tipos permitidos:
+\begin{verseblock}
+- acción = algo ocurre - habla = alguien dice, responde, pregunta, expone - afirmación = se declara algo
+\end{verseblock}
+\headingsix{O2 solo se marca cuando hay un cambio claro de un tipo a otro.}
+
+\headingfive{Ejemplo:}
+- ==pude== → acción
+- ==di== → acción
+- ==pueden== → afirmación
+
+\headingfive{Entonces:}
+- 👉 acción → habla
+
+\headingsix{O2 no se usa en cada línea. Solo se marca cuando el cambio es evidente y útil para ver el movimiento del texto. Si no es claro, no se marca.}
+
+### Regla importante
+\headingsix{O1 y O2 no modifican el texto}
+\headingsix{Solo marcan lo que ya está presente}
+
+### Errores comúnes
+
+\begin{verseblock}
+- Eliminar cláusulas principales - Dejar cláusulas dependientes - Decidir por “sentido” en lugar de estructura - Marcar sujeto en cada línea - Forzar cambios de tipo
+\end{verseblock}
+### Regla de control
+\headingsix{Si la cláusula depende → se elimina}
+\headingsix{Si la cláusula sostiene → permanece}
+\headingsix{Si marcas demasiado → estás interpretando}
+
+### Qué debes notar
 
 \headingsix{Ahora el texto:}
-- queda simplificado
-- mantiene su contenido esencial
-- muestra el desarrollo sin interrupciones
-
-\headingfive{Transición}
-
+\begin{verseblock}
+- queda simplificado - mantiene su contenido esencial - muestra el desarrollo sin interrupciones - deja ver quién actúa y cómo cambia la acción
+\end{verseblock}
+### Transición
 \headingsix{En el siguiente paso:}
-- 👉 observarás qué hace cada cláusula
-- 👉 \fillin{verás} cómo se mueve el texto
-
-# PASO 9 — MARCAR EL COMPORTAMIENTO
+\begin{verseblock}
+- 👉 observarás qué hace cada cláusula - 👉 sin perder la estructura observada
+\end{verseblock}
+## PASO 9 - MARCAR EL COMPORTAMIENTO
 
 ## EJECUTA
 
-\headingfive{¿Qué haces?}
+### ¿Qué haces?
 \headingsix{Asignas una etiqueta de comportamiento a cada cláusula del tronco.}
 
-\headingfive{Regla}
+### Regla
 \headingsix{Solo trabajas con las cláusulas del Paso 8.}
-- 👉 No agregas \fillin{frases}
-- 👉 No recuperas información eliminada
-- 👉 No vuelves a la estructura anterior
-
+\begin{verseblock}
+- 👉 No agregas \fillin{frases} - 👉 No recuperas información eliminada - 👉 No vuelves a la estructura anterior
+\end{verseblock}
 \headingsix{La etiqueta debe describir una función observable.}
 
 \headingsix{No debe introducir \fillin{ideas} nuevas.}
 
-\headingfive{Cómo hacerlo}
+### Cómo hacerlo
 
+\begin{verseblock}
 1. Toma el texto del Paso 8 (tronco)
-
+\end{verseblock}
 2. Lee una cláusula
 
 3. Haz esta pregunta:
@@ -1249,12 +1362,11 @@ ni aun ahora ==pueden==
 
 4. \fillin{Asigna} una etiqueta clara y verificable
 
-\headingfive{Resultado esperado}
+### Resultado esperado
 
-```
-::EXPONE::
-no pude hablarles
-
+\begin{verseblock}
+``` ::EXPONE:: no pude hablarles
+\end{verseblock}
 ::EXPONE::
 yo di
 
@@ -1264,65 +1376,87 @@ ni aun ahora pueden
 
 ## ENTIENDE
 
-\headingfive{Qué estás haciendo realmente}
+### Qué estás haciendo realmente
 \headingsix{Hasta el Paso 8 dejaste solo el desarrollo principal.}
 
 \headingsix{Aquí observas cómo ese desarrollo avanza.}
 
-\headingfive{Principio clave}
+### Principio clave
 \headingsix{El texto no solo tiene estructura.}
+\begin{verseblock}
 - 👉 El texto se mueve.
-
-\headingfive{Idea clave}
+\end{verseblock}
+### Idea clave
 \headingsix{Cada cláusula del tronco \fillin{cumple} una función.}
-- 👉 Paso 8 mostró las líneas principales
-- 👉 Paso 9 muestra qué hace cada una
-
-\headingfive{Frase clave}
+\begin{verseblock}
+- 👉 Paso 8 mostró las líneas principales - 👉 Paso 9 muestra qué hace cada una
+\end{verseblock}
+### Frase clave
+\begin{verseblock}
 > “Marco lo que hace cada cláusula del tronco.”
-
-\headingfive{Pregunta guía}
+\end{verseblock}
+### Pregunta guía
 \headingsix{👉 ¿Qué está \fillin{haciendo} esta cláusula aquí?}
 
 \headingsix{NO preguntes:}
-- ¿qué significa?
-- ¿qué idea me parece que comunica?
-- ¿qué tipo de cláusula es?
-
+\begin{verseblock}
+- ¿qué significa? - ¿qué idea me parece que comunica? - ¿qué tipo de cláusula es?
+\end{verseblock}
 \headingsix{SÍ pregunta:}
 - ¿qué función cumple dentro del desarrollo?
 
-\headingfive{Definición}
+### Distinción importante
+\headingsix{O2 y Paso 9 no son lo mismo.}
+
+\headingsix{O2 observa el tipo de acción:}
+\begin{verseblock}
+- acción - habla - afirmación
+\end{verseblock}
+\headingsix{Paso 9 observa la función de la cláusula:}
+- expone
+- contrasta
+- da razón
+- muestra resultado
+
+\headingsix{Una misma cláusula tiene ambos:}
+
+```
+==dije==
+O2 → habla
+Paso 9 → EXPONE
+```
+
+\headingsix{❗ No confundas tipo con función.}
+- O2 → qué tipo de acción ocurre
+- Paso 9 → qué función cumple en el desarrollo
+
+### Definición
 \headingsix{Comportamiento = la función que una cláusula cumple dentro del desarrollo del pensamiento.}
 
 \headingsix{Usa etiquetas que puedan justificarse por la relación \fillin{visible} del texto.}
 
-\headingsix{Etiquetas base:}
-• EXPONE • CONTRASTA • RAZÓN
+### Etiquetas base:
+\headingfive{• EXPONE • CONTRASTA • RAZÓN}
 
-\headingsix{Etiquetas adicionales (solo si son claramente observables):}
-• RESULTADO • CONDICIÓN • PROPÓSITO
+### Etiquetas adicionales (solo si son claramente observables):
+\headingfive{• RESULTADO • CONDICIÓN • PROPÓSITO}
 
-\headingsix{Etiquetas restringidas:}
-• AMPLÍA • ACLARA
+### Etiquetas restringidas:
+\headingfive{• AMPLÍA • ACLARA}
 
 \headingsix{❗ Estas últimas solo se usan si puedes mostrarlo sin introducir ideas nuevas.}
 
-\headingfive{Ejemplo guiado}
+### Ejemplo guiado
 \headingsix{Texto (Paso 8):}
 
-```
-no pude ==hablarles==
-yo ==di==
-ni aun ahora ==pueden==
-```
+\begin{verseblock}
+``` no pude ==hablarles== yo ==di== ni aun ahora ==pueden== ```
+\end{verseblock}
+### Aplicación:
 
-\headingsix{Aplicación:}
-
-```
-::EXPONE::
-no pude hablarles
-
+\begin{verseblock}
+``` ::EXPONE:: no pude hablarles
+\end{verseblock}
 ::EXPONE::
 yo di
 
@@ -1330,108 +1464,105 @@ yo di
 ni aun ahora pueden
 ```
 
-\headingfive{Regla importante}
+### Regla importante
 \headingsix{Solo etiquetas cláusulas del tronco.}
 
 \headingsix{La etiqueta debe poder defenderse desde el texto,}
 
 \headingsix{no desde impresión personal.}
 
-\headingfive{Error común}
-
-- Volver a incluir cláusulas eliminadas
-- Etiquetar frases que no están en el tronco
-- Usar etiquetas demasiado libres
-- Etiquetar por intuición sin responder la pregunta
-
-\headingfive{Regla de control}
+### Errores Comúnes
+\begin{verseblock}
+- Volver a incluir cláusulas eliminadas - Etiquetar frases que no están en el tronco - Usar etiquetas demasiado libres - Etiquetar por intuición sin responder la pregunta
+\end{verseblock}
+### Regla de control
 \headingsix{Si la línea no está en el Paso 8, no se etiqueta.}
 
 \headingsix{Si la etiqueta no \fillin{puede} justificarse de forma observable,}
 
 \headingsix{no debe usarse.}
 
-\headingfive{Qué debes notar}
+### Qué debes notar
 
 \headingsix{Ahora comienzas a ver:}
-- cómo inicia el texto
-- cómo contrasta
-- cómo da razón
-- cómo avanza el desarrollo
 
-- 👉 Estás viendo el movimiento real del texto
-
-\headingfive{Transición}
-
+\begin{verseblock}
+- cómo inicia el texto - cómo contrasta - cómo da razón - cómo avanza el desarrollo - 👉 Estás viendo el movimiento real del texto
+\end{verseblock}
+### Transición
 \headingsix{En el siguiente paso:}
-- 👉 ignorarás el contenido
-- 👉 leerás solo las etiquetas
-- 👉 detectarás \fillin{patrones}
-
-# PASO 10 — IDENTIFICAR PATRONES
+\begin{verseblock}
+- 👉 ignorarás el contenido - 👉 leerás solo las etiquetas - 👉 detectarás \fillin{patrones}
+\end{verseblock}
+## PASO 10 — IDENTIFICAR PATRONES
 
 ## EJECUTA
 
-\headingfive{¿Qué haces?}
+### ¿Qué haces?
 \headingsix{Lees únicamente las \textbf{etiquetas} y detectas lo que se repite.}
 
-\headingfive{Regla}
+### Regla
 \headingsix{Ignoras el contenido del texto y trabajas únicamente con las etiquetas del Paso 9}
-- 👉 Solo observas la \textbf{secuencia de comportamiento}.
-- Solo usas las \fillin{etiquetas} generadas en el Paso 9
-- El patrón solo puede formarse con etiquetas del Paso 9
+\begin{verseblock}
+- 👉 Solo observas la \textbf{secuencia de comportamiento} - Solo usas las \fillin{etiquetas} generadas en el Paso 9 - El patrón solo puede formarse con etiquetas del Paso 9
+\end{verseblock}
+### Cómo hacerlo
 
-\headingfive{Cómo hacerlo}
-
+\begin{verseblock}
 1. Toma las etiquetas del Paso 9
-
+\end{verseblock}
 2. Léelas en orden
 
 3. Haz esta pregunta:
--👉 ¿Qué se repite?
+- 👉 ¿Qué se repite?
 
-4. El patrón debe ser una secuencia completa que se \fillin{repite}.
+4. El patrón debe ser una secuencia completa que se \fillin{repite}
 
 5. Exprésala como un patrón
 
-\headingfive{Resultado esperado}
+### Resultado esperado
 
-```
-EXPONE
-EXPONE
-RAZÓN
-```
-
-\headingsix{Patrón:}
-
-```
-EXPONE → RAZÓN
-```
-
+\begin{verseblock}
+``` EXPONE EXPONE RAZÓN ```
+\end{verseblock}
+### Patrón:
+\begin{verseblock}
+``` EXPONE → RAZÓN ```
+\end{verseblock}
+### Si no hay repetición clara:
+\begin{verseblock}
+``` No se observa un patrón repetido claro ```
+\end{verseblock}
 ## ENTIENDE
 
-\headingfive{Qué estás haciendo realmente}
+### Qué estás haciendo realmente
 \headingsix{Estás detectando la \textbf{repetición del comportamiento del texto}.}
 
-\headingfive{Principio clave}
+### Principio clave
 \headingsix{El patrón no se interpreta.}
+\begin{verseblock}
 - 👉 Se observa por repetición.
-
-\headingfive{Idea clave}
+\end{verseblock}
+### Idea clave
 \headingsix{El contenido \fillin{cambia}. El comportamiento se repite.}
 
-\headingfive{Pregunta guía}
+### Pregunta guía
 \headingsix{👉 ¿Qué comportamiento aparece varias veces?}
 
-\headingfive{Definición}
+### Definición
 \headingsix{Patrón = secuencia de comportamiento que se repite dentro del texto.}
 
-\headingfive{Ejemplo guiado}
+\headingsix{❗ Debe haber repetición real.}
+
+\headingsix{Si no hay repetición, no hay patrón.}
+
+### Ejemplo guiado
+
 \headingsix{Etiquetas:}
 
-```
-::EXPONE::
-
+\begin{verseblock}
+``` ::EXPONE::
+\end{verseblock}
 ::EXPONE::
 
 ::RAZÓN::
@@ -1441,55 +1572,75 @@ EXPONE → RAZÓN
 - EXPONE se repite
 
 \headingsix{Resultado:}
+
 ```
 EXPONE → RAZÓN
 ```
 
-\headingfive{Regla importante}
-\headingsix{El patrón se basa en repetición real, no en impresión.}
-\headingsix{El patrón solo puede formarse con etiquetas del Paso 9  }
+### Regla importante
+\headingsix{El patrón se basa en repetición real, no en impresión. El patrón solo puede formarse con etiquetas del Paso 9}
+
 \headingsix{El patrón debe ser una secuencia completa que se \fillin{repite}}
 
-\headingfive{Error común}
+\headingsix{❗ Si no puedes mostrar la repetición, no hay patrón}
 
-- Leer el contenido
-- Inventar patrones
-- Forzar coincidencias
-- Nombrar ideas en lugar de comportamiento
+### Errores Comúnes
 
-\headingfive{Regla de control}
-\headingsix{Si no puedes mostrar la repetición, no hay patrón.}
+\begin{verseblock}
+- Leer el contenido - Inventar patrones - Forzar coincidencias - Nombrar ideas en lugar de comportamiento - Asumir que todo texto tiene patrón
+\end{verseblock}
+### Regla de control
+\headingsix{Si no puedes señalar dónde se repite la secuencia,}
 
-\headingfive{Frase clave}
+\headingsix{no debes declarar un patrón.}
+
+### Frase clave
+\begin{verseblock}
 > “No busques ideas — busca repetición.”
-
-\headingfive{Qué debes notar}
+\end{verseblock}
+### Qué debes notar
 \headingsix{Cuando identificas correctamente:}
-- el texto revela su forma de avanzar
-- puedes anticipar lo que \fillin{sigue}
-- el flujo se vuelve visible
+\begin{verseblock}
+- el texto revela su forma de avanzar - puedes anticipar lo que \fillin{sigue} - el flujo se vuelve visible
+\end{verseblock}
+\headingsix{Cuando no hay patrón:}
+- el texto sigue siendo válido
+- el desarrollo se observará por continuidad, no por repetición
 
-\headingfive{Transición}
+### Transición
 \headingsix{En el siguiente paso:}
-- 👉 usarás ese patrón para decidir si debes seguir o detenerte
-- 👉 el texto comenzará a definir sus propios límites
-
-# PASO 11 — SEGUIR O DETENERSE
+\begin{verseblock}
+- 👉 si hay patrón, lo extenderás - 👉 si no hay patrón, observarás dónde el desarrollo se mantiene o se reinicia
+\end{verseblock}
+## PASO 11 — SEGUIR O DETENERSE
 
 ## EJECUTA
 
-\headingfive{¿Qué haces?}
+### ¿Qué haces?
 \headingsix{Determinas si debes \textbf{seguir leyendo} o \textbf{detenerte}.}
 
-\headingfive{Regla}
-\headingsix{Mientras el patrón continúe → sigues }
+### Regla
+\headingsix{Mientras el patrón continúe → sigues}
 \headingsix{Cuando el patrón se rompe → te detienes}
+
 \headingsix{Solo puedes avanzar si \fillin{tienes} un patrón claro del Paso 10}
 
-\headingfive{Cómo hacerlo}
+### Caso sin patrón
+\headingsix{Si en el Paso 10 determinaste que:}
 
+\begin{verseblock}
+``` No se observa un patrón repetido claro ```
+\end{verseblock}
+\headingsix{Entonces:}
+- 👉 Este paso no se aplica
+- 👉 No extiendes nada
+- 👉 Pasas directamente al Paso 12
+
+### Cómo hacerlo
+
+\begin{verseblock}
 1. Toma el patrón identificado (Paso 10)
-
+\end{verseblock}
 2. Avanza en el texto
 
 3. Marca el comportamiento de las nuevas cláusulas (Paso 9)
@@ -1503,13 +1654,13 @@ EXPONE → RAZÓN
 - Sigue → continúas
 - Se rompe → te detienes
 
-\headingfive{Resultado esperado}
-\headingfive{Patrón: }
+### Resultado esperado
 
-```
-1 Corintios 3:1–23
-EXPONE → RAZÓN ✔
+\headingfive{Patrón:}
 
+\begin{verseblock}
+``` 1 Corintios 3:1–23 EXPONE → RAZÓN ✔
+\end{verseblock}
 1 Corintios 4:1–5
 EXPONE → RAZÓN ✔
 
@@ -1523,36 +1674,42 @@ EXPONE → RAZÓN ✔
 EXPONE → MANDATO → JUICIO ✖
 ```
 
-\headingfive{Resultado:}
+### Resultado:
 \headingsix{El patrón continúa → sigue hasta 4:21}
 
+\begin{verseblock}
 ## ENTIENDE
-
-\headingfive{Qué estás haciendo realmente}
+\end{verseblock}
+### Qué estás haciendo realmente
 \headingsix{Estás dejando que el \textbf{patrón determine el límite del texto}.}
 
-\headingfive{Principio clave}
+### Principio clave
 \headingsix{No decides dónde detenerte.}
-- 👉 El patrón lo \fillin{decide}.
+\begin{verseblock}
+- 👉 El patrón lo \fillin{decide}
+\end{verseblock}
+### Idea clave
+\headingsix{El texto continúa mientras hace lo mismo}
 
-\headingfive{Idea clave}
-\headingsix{El texto continúa mientras hace lo mismo.}
-\headingsix{Se detiene cuando deja de hacerlo.}
+\headingsix{Se detiene cuando deja de hacerlo}
 
-\headingfive{Pregunta guía}
+\headingsix{Si no hay patrón:}
+
+\headingsix{El límite se determinará por el desarrollo en el Paso 12}
+
+### Pregunta guía
 \headingsix{👉 ¿El patrón sigue o se rompe?}
 
-\headingfive{Definición}
-\headingsix{Romper el patrón = cuando la secuencia de comportamiento deja de repetirse o es reemplazada por otra.}
+### Definición
+\headingsix{Romper el patrón = cuando la secuencia de comportamiento deja de repetirse o es reemplazada por otra}
 
-\headingfive{Ejemplo guiado}
+### Ejemplo guiado
 
 \headingsix{Patrón:}
 
-```
-EXPONE → RAZÓN
-```
-
+\begin{verseblock}
+``` EXPONE → RAZÓN ```
+\end{verseblock}
 \headingsix{Evaluación:}
 
 ```
@@ -1561,288 +1718,284 @@ EXPONE → RAZÓN
 EXPONE → RAZÓN
 ```
 
-\headingfive{Resultado:}
+### Resultado:
 \headingsix{👉 El patrón continúa → no puedes detenerte}
 
-\headingfive{Regla importante}
-\headingsix{Cambios de palabras o tema \textbf{no rompen el patrón}.}
-\headingsix{Solo el \fillin{cambio} de comportamiento lo hace.}
+### Regla importante
+\headingsix{Cambios de palabras o tema \textbf{no rompen el patrón}}
 
-\headingfive{Error común}
+\headingsix{Solo el \fillin{cambio} de comportamiento lo hace}
 
-- Detenerse porque “parece otra idea”
-- Detenerse por cambio de ejemplo
-- Detenerse por intuición
-- Ignorar el patrón
+### Errores Comúnes
 
-\headingfive{Regla de control}
-\headingsix{Si puedes seguir marcando el mismo patrón, no puedes detenerte.}
+\begin{verseblock}
+- Detenerse porque “parece otra idea” - Detenerse por cambio de ejemplo - Detenerse por intuición - Ignorar el patrón - Intentar aplicar este paso sin tener un patrón
+\end{verseblock}
+### Regla de control
+\headingsix{Si puedes seguir marcando el mismo patrón, no puedes detenerte}
 
-\headingfive{Frase clave}
+\headingsix{Si no hay patrón, no puedes extender}
+
+### Frase clave
+\begin{verseblock}
 > “No me detengo hasta que el patrón desaparece.”
-
-\headingfive{Qué debes notar}
-
+\end{verseblock}
+### Qué debes notar
 \headingsix{Cuando \fillin{aplicas} correctamente:}
-- evitas dividir el texto prematuramente
-- sigues el flujo real del pensamiento
-- los límites se vuelven objetivos
-
-\headingfive{Transición}
+\begin{verseblock}
+- evitas dividir el texto prematuramente - sigues el flujo real del pensamiento - los límites se vuelven objetivos
+\end{verseblock}
+### Transición
 \headingsix{En el siguiente paso:}
-- 👉 marcarás exactamente dónde comienza y termina la unidad
-- 👉 definirás los límites completos del texto
-
-# PASO 12 — DELIMITAR LA UNIDAD
+\begin{verseblock}
+- 👉 marcarás exactamente dónde comienza y termina la unidad - 👉 definirás los límites completos del texto
+\end{verseblock}
+## PASO 12 — DELIMITAR LA UNIDAD
 
 ## EJECUTA
+### ¿Qué haces?
+\headingfive{Defines los límites completos de la unidad de pensamiento.}
 
-\headingfive{¿Qué haces?}
-\headingsix{Defines los límites completos de la \fillin{unidad} de pensamiento.}
+### REGLA
+\headingfive{La unidad se delimita de dos maneras:}
 
-\headingfive{Regla}
-\headingsix{La unidad comienza donde inicia el patrón  }
-\headingsix{y termina donde el patrón se rompe}
+\headingfive{CASO A — CON PATRÓN}
+\begin{verseblock}
+La unidad comienza donde inicia el patrón La unidad termina donde el patrón se rompe
+\end{verseblock}
+\headingfive{CASO B — SIN PATRÓN}
 
-\headingsix{❗ No decides los límites  }
-\headingsix{❗ Usas exactamente el punto donde te detuviste en el Paso 11  }
+\headingsix{La unidad comienza donde inicia el desarrollo}
+\headingsix{La unidad termina donde el desarrollo se reinicia completamente}
+\headingsix{No decides los límites}
+\headingsix{Usas exactamente el punto donde el patrón se rompe o donde el desarrollo se reinicia}
 
-\headingfive{Cómo hacerlo}
+### CÓMO HACERLO
 
-1. Toma el punto donde comenzó el patrón (Paso 10)
+\headingfive{SI HAY PATRÓN (Paso 10–11)}
+\headingsix{Toma el punto donde comenzó el patrón (Paso 10)}
+\headingsix{Toma el punto donde el patrón se rompió (Paso 11)}
+\headingsix{Escribe claramente el inicio y el final de la unidad}
 
-2. Toma el punto donde el patrón se rompió (Paso 11)
+\headingfive{SI NO HAY PATRÓN}
 
-3. Escribe claramente el inicio y el final de la unidad
+\headingfive{Toma el texto trabajado (Paso 8 + O1–O2)}
 
-4. No cortes antes ni extiendas después
+\headingfive{Observa:}
+\headingsix{cambios de sujeto (O1)}
+\headingsix{cambios de tipo (O2)}
+\headingsix{continuidad del desarrollo}
 
-\headingfive{Resultado esperado}
+\headingfive{El reinicio debe ser observable en múltiples elementos a la vez: - }
+\begin{verseblock}
+- cambio de sujeto principal  - cambio de tipo de cláusula  - cambio en la secuencia de comportamiento
+\end{verseblock}
+\headingfive{Avanza hasta que ocurra un reinicio completo:}
+\headingsix{cambio de sujeto principal}
+\headingsix{cambio de tipo de cláusula}
+\headingsix{nueva cadena de acciones}
+\headingsix{Marca ese punto como inicio de una nueva unidad}
 
-```
-Unidad:
-desde ______
-hasta ______
-```
+### RESULTADO ESPERADO
+\headingsix{Unidad:}
+\headingsix{desde \_\_\_\_\_\_}
+\headingsix{hasta \_\_\_\_\_\_}
 
-\headingsix{Ejemplo:}
+\headingfive{Ejemplo (con patrón):}
 
-```
-Unidad:
-desde 1 Corintios 3:1
-hasta 1 Corintios 4:21
-```
+\headingfive{Unidad:}
+\headingsix{desde 1 Corintios 3:1}
+\headingsix{hasta 1 Corintios 4:21}
 
+\headingfive{Ejemplo (sin patrón):}
+
+\headingfive{Unidad:}
+\headingsix{desde Gálatas 2:1}
+\headingsix{hasta Gálatas 2:21}
+
+\begin{verseblock}
 ## ENTIENDE
+\end{verseblock}
+### Qué estás haciendo realmente
+\headingfive{Estás identificando la unidad completa del desarrollo del pensamiento.}
 
-\headingfive{Qué estás haciendo realmente}
-\headingsix{Estás identificando la \fillin{unidad} completa del desarrollo del pensamiento.}
+### Principio clave
+\headingfive{La unidad no se decide. El patrón la determina o el reinicio del desarrollo la determina}
 
-\headingfive{Principio clave}
-\headingsix{La unidad no se decide.}
-- 👉 El patrón la determina
+### Idea clave
 
-\headingfive{Idea clave}
-\headingsix{Mientras el patrón continúa → misma unidad  }
-\headingsix{Cuando el patrón se rompe → \fillin{nueva} unidad  }
+\headingfive{Mientras el patrón continúa → misma unidad}
 
-\headingfive{Pregunta guía}
-- 👉 ¿Dónde comenzó el patrón?
-- 👉 ¿Dónde se rompió?
+\headingfive{Cuando el patrón se rompe → nueva unidad}
 
-\headingfive{Definición}
-\headingsix{Unidad = \fillin{tramo} completo donde el mismo patrón se mantiene.}
+\headingsix{Si no hay patrón:}
+\begin{verseblock}
+- Mientras el desarrollo continúa → misma unidad - Cuando el desarrollo se reinicia → nueva unidad ### Pregunta guía ##### ¿Dónde comenzó el patrón? ##### ¿Dónde se rompió?
+\end{verseblock}
+\headingsix{o}
 
-\headingfive{Ejemplo guiado}
+\headingfive{¿Dónde inicia el desarrollo?}
+\headingfive{¿Dónde se reinicia completamente?}
 
-\headingsix{Observación previa (Paso 11):}
+### Definición
+\headingfive{Unidad = tramo completo donde el mismo desarrollo se mantiene.}
 
-```
-1 Corintios 3:1–23
-EXPONE → RAZÓN ✔
+### Regla importante
+\headingfive{No defines la unidad por contenido.}
+\headingfive{La defines por comportamiento o por desarrollo}
 
-1 Corintios 4:1–5
-EXPONE → RAZÓN ✔
+### Errores Comúnes
 
-1 Corintios 4:6–13
-EXPONE → RAZÓN ✔
+\headingfive{Cortar por cambio de tema}
+\headingfive{Cortar por intuición}
+\headingfive{Extender más allá del patrón}
+\headingfive{No detectar el reinicio del desarrollo}
 
-1 Corintios 4:14–21
-EXPONE → RAZÓN ✔
+### Regla de control
+\headingfive{Si el patrón continuaba, no podías cortar antes}
+\headingfive{Si el patrón se rompió, no puedes extender más}
+\headingfive{Si el desarrollo continúa, no puedes cortar}
+\headingfive{Si el desarrollo se reinicia, no puedes extender}
 
-1 Corintios 5:1–13
-EXPONE → MANDATO → JUICIO ✖
-```
+### Frase clave
+\headingfive{“La unidad termina donde el patrón se rompe o donde el desarrollo se reinicia.”}
 
-\headingsix{Resultado:}
-```
-Unidad:
-desde 1 Corintios 3:1
-hasta 1 Corintios 4:21
-```
+### Qué debes notar
+\headingfive{Ahora tienes:}
+\headingsix{límites objetivos}
+\headingsix{una unidad completa}
+\headingsix{base firme para trabajar el texto}
 
-\headingfive{Regla importante}
-\headingsix{No defines la unidad por contenido.}
-- 👉 La \fillin{defines} por comportamiento
+### TRANSICIÓN
 
-\headingfive{Error común}
-- Cortar por cambio de tema
-- Cortar por intuición
-- Extender más allá del patrón
-- Reducir antes de tiempo
+\headingfive{En el siguiente paso:}
+\headingsix{expresarás la acción del tronco}
+\headingsix{verás qué hace el texto completo sin interpretarlo}
 
-\headingfive{Regla de control}
-\headingsix{Si el patrón continuaba, no podías cortar antes  }
-\headingsix{Si el patrón se rompió, no puedes extender más  }
-
-\headingfive{Frase clave}
-> “La unidad termina \fillin{donde} el patrón se rompe.”
-
-\headingfive{Qué debes notar}
-
-\headingsix{Ahora tienes:}
-- límites objetivos
-- una unidad completa
-- base firme para trabajar el texto
-
-\headingfive{Transición}
-
-\headingsix{En el siguiente paso:}
-- 👉 expresarás la acción del tronco
-- 👉 verás qué hace el texto completo sin interpretarlo
-
-# PASO 13 — EXPRESAR LA ACCIÓN DEL TRONCO
-
+\begin{verseblock}
+## PASO 13 — EXPRESAR LA ACCIÓN DEL TRONCO
+\end{verseblock}
 ## EJECUTA
 
-\headingfive{¿Qué haces?}
+### ¿Qué haces?
 \headingsix{Escribes una \fillin{sola} oración que expresa la acción del texto usando el tronco.}
 
-\headingfive{Regla}
+### Regla
 
 \headingsix{Solo puedes usar:}
-- el \textbf{autor}
-- un \textbf{verbo permitido}
-- el \textbf{contenido del tronco}
-- debe ser coherente con el comportamiento observado
-
+\begin{verseblock}
+- el \textbf{autor} - un \textbf{verbo permitido} - el \textbf{contenido del tronco} - debe ser coherente con el comportamiento observado
+\end{verseblock}
 \headingsix{❌ No agregas \fillin{ideas}}
 \headingsix{❌ No explicas}
 \headingsix{❌ No interpretas}
 
-\headingfive{Cómo hacerlo}
+### Cómo hacerlo
 \headingsix{Trabajas únicamente con el tronco (Paso 8).}
 
-1. Toma el tronco completo
-2. Léelo de principio a fin
-3. Haz esta pregunta:
-- 👉  ¿Qué hace el \fillin{autor} según el tronco?
-
+\begin{verseblock}
+1. Toma el tronco completo 2. Léelo de principio a fin 3. Haz esta pregunta: - 👉  ¿Qué hace el \fillin{autor} según el tronco?
+\end{verseblock}
 4. Escribe una sola oración con este formato:
 - 👉 \textbf{[Autor] + [verbo permitido] + [contenido del tronco]}
 
-\headingfive{Resultado esperado}
+### Resultado esperado
 \headingsix{Una sola oración clara que exprese la \fillin{acción} del texto:}
 
-```
-Pablo expone que no pudo hablarles, que les dio, y que no podían.
-```
-
+\begin{verseblock}
+``` Pablo expone que no pudo hablarles, que les dio, y que no podían. ```
+\end{verseblock}
 ## ENTIENDE
 
-\headingfive{Qué estás haciendo realmente}
+### Qué estás haciendo realmente
 \headingsix{Hasta el Paso 12 delimitaste la unidad.}
 
 \headingsix{Aquí defines qué hace esa unidad completa.}
 
 \headingsix{Ya no miras líneas individuales.}
+\begin{verseblock}
 - 👉 Ahora miras el movimiento total
-
-\headingfive{Principio clave}
+\end{verseblock}
+### Principio clave
 \headingsix{El tronco contiene la acción principal del texto.}
-- 👉 Todo lo demás lo \fillin{apoya}
-- 👉 Aquí lo expresas directamente
-
-\headingfive{Idea clave}
+\begin{verseblock}
+- 👉 Todo lo demás lo \fillin{apoya} - 👉 Aquí lo expresas directamente
+\end{verseblock}
+### Idea clave
 \headingsix{Estructura → cómo está construido}
 
 \headingsix{Movimiento → cómo avanza}
 
 \headingsix{Acción del tronco → qué hace el texto completo}
-- 👉 Paso 8 te dio el tronco
-- 👉 Paso 9 te mostró comportamiento
-- 👉 Paso 13 expresa la acción final
-
-\headingfive{Pregunta guía}
+\begin{verseblock}
+- 👉 Paso 8 te dio el tronco - 👉 Paso 9 te mostró comportamiento - 👉 Paso 13 expresa la acción final
+\end{verseblock}
+### Pregunta guía
 \headingsix{👉 ¿Qué hace el autor según el tronco?}
 
 \headingsix{NO preguntes:}
+\begin{verseblock}
 - ¿qué significa?
-
+\end{verseblock}
 \headingsix{SÍ pregunta:}
 - ¿qué hace?
 
-\headingfive{Definición}
+### Definición
 \headingsix{Acción del tronco = lo que el autor hace con el contenido del tronco.}
+\begin{verseblock}
 - La acción del tronco \fillin{debe} ser coherente con el comportamiento observado (Paso 9)
-
+\end{verseblock}
 \headingsix{Verbos permitidos:}
-• expone • afirma • contrasta
+• expone • afirma • contrasta • declara • muestra
 
-\headingfive{Ejemplo guiado}
+### Ejemplo guiado
 
 \headingsix{Tronco:}
 
-```
-no pude ==hablarles==
-les ==di==
-no ==podían==
-```
+\begin{verseblock}
+``` no pude ==hablarles==   les ==di==   no ==podían== ```
+\end{verseblock}
+### Aplicación:
 
-\headingsix{Aplicación:}
-
-```
-Pablo expone que no pudo hablarles, que les dio, y que no podían.
-```
-
-\headingfive{Regla importante}
+\begin{verseblock}
+``` Pablo expone que no pudo hablarles, que les dio, y que no podían. ```
+\end{verseblock}
+### Regla importante
 \headingsix{La oración debe salir del tronco, no de ideas externas.}
+\begin{verseblock}
 - 👉 Si no está en el tronco, no \fillin{entra} en la oración
-
-\headingfive{Error común}
-- Explicar el texto
-- Agregar interpretación
-- Usar palabras que no vienen del tronco
-- Hacer más de una oración
-
-\headingfive{Regla de control}
+\end{verseblock}
+### Errores Comúnes
+\begin{verseblock}
+- Explicar el texto - Agregar interpretación - Usar palabras que no vienen del tronco - Hacer más de una oración
+\end{verseblock}
+### Regla de control
 \headingsix{Cada elemento de la oración debe poder señalarse en el tronco}
 
 \headingsix{Si explica en lugar de declarar acción:}
+\begin{verseblock}
 - 👉 Está incorrecta
-
-\headingfive{Frase clave}
+\end{verseblock}
+### Frase clave
 \headingsix{“No expliques — declara lo que el texto hace.”}
 
-\headingfive{Qué debes notar}
+### Qué debes notar
 \headingsix{Ahora puedes ver:}
-- la acción principal del autor
-- el propósito del desarrollo
-- la dirección del \fillin{texto} completo
-
+\begin{verseblock}
+- la acción principal del autor - el propósito del desarrollo - la dirección del \fillin{texto} completo
+\end{verseblock}
 - 👉 Estás viendo el texto como una unidad completa en acción
 
-\headingfive{Qué debes entender}
+### Qué debes entender
 
 \headingsix{Paso 13 no es una explicación del texto.}
 \headingsix{Es una reformulación controlada del tronco.}
 
 \headingfive{Paso 13 ES:}
 
-✔ Una reformulación controlada
-✔ Una compresión trazable
-✔ Un paso de verificación
-
+\begin{verseblock}
+✔ Una reformulación controlada   ✔ Una compresión trazable   ✔ Un paso de verificación  
+\end{verseblock}
 \headingfive{Paso 13 NO ES:}
 
 - ❌ Un resumen
@@ -1850,393 +2003,666 @@ Pablo expone que no pudo hablarles, que les dio, y que no podían.
 - ❌ Una conclusión
 - ❌ Un punto de enseñanza
 
-\headingfive{Regla de control}
+### Regla de control
 
 \headingsix{Si agregas algo que no puedes señalar en el tronco,}
 \headingsix{ya saliste del paso.}
 
-\headingfive{Transición}
+### Transición
 \headingsix{Aquí termina la fase estructural.}
 
 \headingsix{👉 Ya tienes:}
-  - estructura
-  - movimiento
-  - \fillin{patrones}
-  - unidad
-  - acción
-
-#  FORMULAR TÍTULOS A PARTIR DEL ANÁLISIS
-
-## EJECUTA
+\begin{verseblock}
+  - estructura   - movimiento   - \fillin{patrones}   - unidad   - acción
+\end{verseblock}
+### CONTROL FINAL
 
 \headingfive{¿Qué haces?}
-\headingsix{Formulas títulos a partir del análisis ya realizado.}
+\headingsix{Verificas que la estructura identificada (H1 y H2) sea correcta.}
+### Regla
 
-\headingfive{Propósito}
-\headingsix{Convertir el resultado de los Pasos 1–13 en \fillin{títulos} claros y comunicables,}
+\headingsix{La oración del Paso 13 debe:}
+\begin{verseblock}
+- incluir todo el desarrollo - no requerir añadir ideas externas - reflejar los movimientos observados
+\end{verseblock}
+### Resultado
+\headingfive{Si fluye naturalmente → estructura correcta}
+\headingfive{Si no fluye → revisa H2 o límites de unidad}
 
-\headingsix{sin agregar ideas nuevas.}
+\begin{verseblock}
+# CONCLUSIONES DE LOS PASOS 1–13
+\end{verseblock}
+## CONTEXTO DEL TEXTO
 
-\headingfive{Regla}
-\headingsix{Los títulos se derivan del análisis, no se inventan.}
+### ¿Qué haces?
+\headingsix{Estableces el marco completo del texto que vas a observar.}
 
-\headingfive{Cómo hacerlo}
-\headingsix{H1 — Acción del texto}
+### Definición
+\headingsix{Contexto = la unidad + su desarrollo + su acción.}
 
-1. Toma la oración del Paso 13
-2. Reduce la repetición
-3. Mantén el contenido esencial
-4. Conserva el verbo principal
+### Cómo hacerlo
 
-\headingsix{H2 — Desarrollo del texto}
+\begin{verseblock}
+1. Toma la unidad delimitada (Paso 12)
+\end{verseblock}
+2. Toma la acción del texto (Paso 13)
 
-1. Toma el patrón identificado (Paso 10)
-2. Identifica la secuencia dominante
-3. Exprésala en una \fillin{frase} breve usando las etiquetas
+3. Toma los movimientos internos del texto
 
-\headingfive{Resultado esperado}
+### Resultado
+\headingsix{Sabes:}
+\begin{verseblock}
+- qué texto estás observando - cómo se desarrolla - qué está haciendo
+\end{verseblock}
+### Principio clave
+\headingsix{El contexto no se añade.}
+
+\headingsix{El contexto se establece a partir del texto mismo.}
+
+### Frase clave
+\begin{verseblock}
+> “Observo cada parte dentro de la unidad que el texto define.”
+\end{verseblock}
+## H1 — UNIDAD PRINCIPAL
+
+### ¿Qué haces?
+\headingsix{Nombras la unidad completa del texto.}
+
+### Cómo hacerlo
+
+\begin{verseblock}
+1. Toma la referencia (Paso 12)
+\end{verseblock}
+2. Toma la oración del Paso 13
+
+3. Reduce la oración sin añadir ideas
+
+### Resultado esperado
+
+\begin{verseblock}
+``` Referencia Título ```
+\end{verseblock}
+### Ejemplo
+
+\begin{verseblock}
+``` Gálatas 2:1–21   Pablo expone su interacción con otros y declara la justificación por la fe y su condición en Cristo. ```
+\end{verseblock}
+### Regla
+\headingsix{El título debe salir del texto.}
+
+\headingsix{No añade ideas.}
+
+\headingsix{No interpreta.}
+
+### Regla de reducción
+\headingfive{El título (H1) es una versión reducida del Paso 13.}
+\headingfive{Conserva la acción principal}
+\headingfive{Elimina los desarrollos internos}
+
+### Principio clave
+\headingsix{El título resume la acción del texto.}
+
+### Errores comúnes
+\begin{verseblock}
+- añadir explicación - introducir teología - usar lenguaje no presente
+\end{verseblock}
+### Frase clave
+\begin{verseblock}
+> “Nombró la unidad según lo que el texto hace.”
+\end{verseblock}
+## H2 — MOVIMIENTOS INTERNOS
+
+### ¿Qué haces?
+\headingsix{Identificas y nombras los grupos dentro de la unidad.}
+
+### Cómo hacerlo
+
+\begin{verseblock}
+1. Toma el tronco (Paso 8)
+\end{verseblock}
+2. Observa los cortes naturales:
+- cambios de sujeto (O1)
+- cambios de desarrollo
+
+3. Agrupa las cláusulas que se mantienen juntas
+
+4. Asigna referencia a cada grupo
+
+5. Nombra cada grupo desde el texto
+
+### Resultado esperado
+
+\begin{verseblock}
+``` Referencia   Título ```
+\end{verseblock}
+\headingfive{Ejemplo}
 
 ```
-H1:
-Pablo expone su oposición a Pedro y la no justificación por la ley
-
-H2:
-Desarrollo: expone, contrasta y da razón
+2:1–2   Subida y exposición
+2:3–10  Interacción
+2:11–13 Confrontación
+2:14    Declaración
+2:15–16 Justificación
+2:17–21 Condición en Cristo
 ```
 
-## ENTIENDE
+### Regla
+\headingsix{Los grupos no se inventan.}
 
-\headingfive{Qué estás haciendo realmente}
-\headingsix{Estás pasando del análisis a la comunicación,}
+\headingsix{Se observan en el desarrollo.}
 
-\headingsix{sin salirte del texto.}
+### Principio clave
+\headingsix{H2 muestra cómo se mueve el texto dentro de la unidad.}
 
-\headingfive{Principio clave}
-\headingsix{El título no crea el significado.}
-- 👉 El título refleja lo que el texto ya muestra
+### Errores comúnes
+\begin{verseblock}
+- agrupar por tema - dividir demasiado - usar títulos interpretativos
+\end{verseblock}
+### Frase clave
+\begin{verseblock}
+> “Agrupo lo que el texto mantiene unido.”
+\end{verseblock}
+## RESULTADO FINAL
 
-\headingfive{Idea clave}
-\headingsix{Los títulos no se inventan.}
-- 👉 Se derivan directamente del análisis
-
-\headingfive{Definición}
-\headingsix{H1 = acción del \fillin{texto} (Paso 13)}
-
-\headingsix{H2 = desarrollo del texto (Paso 10)}
-
-\headingfive{Regla de control}
-\headingsix{❗ El H1 debe poder trazarse al Paso 13}
-
-\headingsix{❗ El H2 debe poder trazarse al Paso 10}
-
-\headingsix{Si no puedes hacerlo,}
-
-\headingsix{los títulos no son válidos.}
-
-\headingfive{Error común}
-
-- Inventar títulos desde ideas generales
-- Resumir el texto en lugar de derivarlo
-- Usar lenguaje no presente en el análisis
-
-\headingfive{Qué debes notar}
-\headingsix{Cuando los títulos son correctos:}
-
-- reflejan el texto
-- no introducen ideas nuevas
-- preparan la observación sin influir en ella
-
-\headingfive{Transición}
-
-\headingsix{En la siguiente fase:}
-- 👉 observarás lo que el \fillin{texto} dice
-- 👉 trabajarás cada parte sin interpretar
-
-- 👉 Ahora estás listo para observar lo que el texto dice (Fase 2)
-
-# O₂ OBSERVAR EL TEXTO
+### Ahora tienes:
+\begin{verseblock}
+- la unidad completa del texto - su desarrollo interno - su acción - su contexto establecido
+\end{verseblock}
+### Estás listo para:
+\begin{verseblock}
+- observar frase por frase - sin perder el desarrollo - sin interpretar
+\end{verseblock}
+# O₂ — OBSERVAR EL TEXTO
 
 ## INTRODUCCIÓN
 
-\headingfive{El problema no es la Biblia}
-\headingsix{La Biblia no es confusa. No es contradictoria. No está escondiendo su mensaje. El problema es \textbf{cómo llegamos a ella}. Cada lector trae algo \fillin{consigo}. Y eso que trae… muchas veces \textbf{distorsiona lo que el texto dice}.}
+### Qué haces ahora
+\headingsix{Observas el texto con precisión, trabajando frase por frase dentro de la estructura ya definida.}
 
-#### Formas comunes de distorsionar el texto
+### Nivel de trabajo
+\headingsix{O₂ trabaja en el nivel de la \textbf{frase ancla (H4)}.}
 
-\headingfive{\textbf{Teología primero}.  }
-\headingsix{El lector ya tiene un sistema. Entonces busca versículos que encajen.}
+\headingsix{No observas ideas generales.}
 
-\headingsix{El texto no habla libremente sino confinado al sistema.}
+\headingsix{No observas secciones completas.}
 
-\headingfive{Cultura primero. }
-\headingsix{El lector adapta el texto a su \fillin{entorno}.  Lo hace relevante… pero deja de ser fiel.}
+\headingsix{Observas una frase a la vez.}
 
-\headingsix{El significado cambia según la cultura.}
+### Contexto
+\headingsix{Cada frase se observa dentro de:}
+\begin{verseblock}
+- la unidad (H1) - su movimiento (H2) - la acción del texto (Paso 13)
+\end{verseblock}
+\headingsix{❗ Nunca observas una frase aislada.}
 
-\headingfive{Experiencia primero}
-\headingsix{“El texto debe coincidir con lo que viví.” Si no coincide, se redefine.}
-\headingsix{La experiencia se vuelve la autoridad.}
+### Propósito
+\headingsix{Ver exactamente lo que el texto dice, sin añadir significado.}
 
-\headingfive{Sentimientos primero}
-\headingsix{“Esto no me suena bien.” “Esto me incomoda.” Entonces se suaviza el texto. Se ajusta para que no confronte.}
+### Regla central
+\headingsix{No interpretas.}
+\headingsix{No explicas.}
+\headingsix{No completas.}
 
-\headingfive{Reglas primero}
-\headingsix{La Biblia se reduce a: haz esto / no hagas aquello}
+\headingsix{👉 Solo observas lo que está presente.}
 
-\headingfive{Se pierde el mensaje. Se pierde el propósito. Solo \fillin{queda} algo sistematizado.}
+\begin{verseblock}
+## Naturaleza de esta fase
+\end{verseblock}
+### Esta fase es diferente a los pasos anteriores.
+\headingsix{En los Pasos 1–13:}
+\begin{verseblock}
+- 👉 debías completar cada paso correctamente - 👉 no avanzabas sin haber terminado el anterior
+\end{verseblock}
+\headingsix{En O₂:}
+- 👉 no necesitas observar todo perfectamente
+- 👉 puedes avanzar mientras aprendes
 
-\headingfive{Qué haces ahora}
-\headingsix{Observas con precisión lo que el texto dice,}
+### Principio clave
+\headingsix{La observación se desarrolla con la práctica.}
 
-\headingsix{basándote en la estructura ya definida.}
+\headingsix{No se exige perfección desde el inicio.}
 
-\headingfive{Propósito}
-\headingsix{Ver el contenido del texto sin agregar significado.}
+### Cómo trabajar
+\headingsix{Estas categorías no son una lista obligatoria.}
 
-\headingfive{Principio clave}
+\headingsix{Son herramientas para ayudarte a ver mejor el texto.}
+\begin{verseblock}
+- 👉 algunas serán claras de inmediato - 👉 otras se desarrollarán con el tiempo
+\end{verseblock}
+### Regla
+\headingsix{No te detienes por no ver todo.}
 
-\headingsix{El texto ya comunica.}
-- 👉 No necesita que lo completes
-- 👉 No necesita que lo expliques
+\headingsix{Avanzas observando lo que puedes ver con claridad.}
 
-\headingfive{Contexto}
-\headingsix{El texto no se entiende por \fillin{frases} aisladas.}
-- 👉 Se entiende dentro de su desarrollo
+### Frase clave
+\begin{verseblock}
+>“Observo con precisión lo que puedo ver, y mejoro con la práctica.”
+\end{verseblock}
+## TRABAJAR CADA FRASE (H4)
 
-\headingsix{Por eso trabajaste primero la estructura.}
+### Qué haces
+\headingsix{Tomas una frase ancla (H4) y observas únicamente lo que está en el texto.}
 
-\headingsix{❗ El contexto no es algo que agregas después}
-
-\headingsix{❗ Es algo que ya está definido por el texto}
-
-\headingsix{Ahora observas cada parte:}
-- dentro del tronco
-- dentro del movimiento
-- dentro de la unidad
-
-\headingfive{Advertencia}
-\headingsix{Traes contigo:}
-- tu experiencia
-- lo que has escuchado
-- lo que piensas que significa
-
-\headingsix{❗ Todo eso puede interferir con lo que el \fillin{texto} dice.}
-
-\headingfive{Exégesis vs Eiségesis}
-\headingsix{Exégesis:}
-- 👉 sacar del texto lo que está ahí
-
-\headingsix{Eiségesis:}
-- 👉 meter en el texto lo que tú traes
-
-\headingsix{❗ En esta fase:}
-- no agregas
-- no completas
-- no interpretas
-
-\headingfive{Regla central}
-\headingsix{Esta es la observación más \fillin{cercana} a la interpretación,}
-
-\headingsix{pero sin llegar a interpretar.}
-
-\headingsix{❗ Te mantienes en lo que el texto dice,}
-
-\headingsix{no en lo que piensas que significa.}
-
-\headingfive{Herramienta clave}
-\headingsix{Repetición}
-- 👉 Palabras que se repiten
-- 👉 Ideas que vuelven
-- 👉 Estructuras que aparecen otra vez
-
-\headingsix{❗ La repetición muestra énfasis}
-
-\headingsix{❗ El texto \fillin{señala} lo importante}
-
-\headingfive{Frase clave}
-> “Observo lo que el texto dice, no lo que yo pienso.”
-
-\headingfive{Qué debes notar}
-\headingsix{En esta fase:}
-- no explicas
-- no resumes
-- no enseñas
-
-\headingsix{👉 Solo observas con precisión}
-
-\headingfive{Transición}
-
-\headingsix{Ahora trabajarás frase por frase:}
-- 👉 observando lo que el texto afirma
-- 👉 notando cómo lo dice
-- 👉 sin añadir significado
-
-## TRABAJAR CADA FRASE
-
-\headingfive{Qué haces}
-\headingsix{Tomas una frase (H4)}
-
-\headingsix{y observas exactamente lo que el texto dice.}
-
-\headingfive{Regla}
+### Regla
 \headingsix{No agregas significado}
-
-\headingsix{No \fillin{explicas}}
+\headingsix{No explicas}
 \headingsix{No interpretas}
-\headingsix{👉 Solo observas lo que está presente en el texto}
 
-\headingfive{Cómo hacerlo}
-\headingsix{Para cada frase, observa con cuidado:}
+\headingsix{👉 Solo afirmas lo que el texto muestra}
 
-\headingsix{Afirmación}
-- 👉 ¿Qué está afirmando el texto?
-- 👉 ¿Qué dice explícitamente?
+### PROCESO FIJO
+\headingsix{Para cada frase, puedes observar lo siguiente:}
 
-\headingsix{Sujeto}
+\headingfive{1. AFIRMACIÓN}
+\begin{verseblock}
+- 👉 ¿Qué afirma el texto? - 👉 Escríbelo sin cambiar palabras
+\end{verseblock}
+\headingfive{2. SUJETO}
 - 👉 ¿Quién realiza la acción?
-- 👉 ¿Está claro o implícito?
+- 👉 ¿Está explícito o implícito?
 
-\headingsix{Verbo}
-- 👉 ¿Qué acción \fillin{ocurre}?
-- 👉 ¿Cómo se presenta?
+\headingfive{3. VERBO}
+- 👉 ¿Qué acción ocurre?
+- 👉 ¿Cómo está expresada?
 
-\headingsix{Relación}
-- 👉 ¿Por qué está esta frase aquí?
-- 👉 ¿Cómo se conecta con la anterior?
+\headingfive{4. COMPLEMENTO}
+- 👉 ¿Sobre qué recae la acción?
+- 👉 ¿Qué se menciona directamente?
 
-\headingsix{Repetición}
-- 👉 ¿Qué palabras o ideas vuelven a aparecer?
+\headingfive{5. RELACIÓN}
+- 👉 ¿Cómo se conecta con la frase anterior?
+- 👉 Usa solo lo ya observado (Paso 8–9)
 
-\headingsix{Contraste}
-- 👉 ¿Qué se opone a qué?
+\headingfive{6. REPETICIÓN}
+- 👉 ¿Qué palabras o ideas aparecen otra vez?
 
-\headingsix{Énfasis}
-- 👉 ¿Qué parece resaltado o importante?
+\headingfive{7. CONTRASTE}
+- 👉 ¿Hay oposición directa con otra frase?
 
-\headingfive{Importante}
-\headingsix{No todas las observaciones \fillin{aplican} siempre.}
+\headingfive{8. ÉNFASIS}
+- 👉 ¿Qué está resaltado por:
+  - repetición
+  - contraste
+  - posición
+  - formulación?
 
-\headingsix{👉 Observas solo lo que el texto permite ver}
+### IMPORTANTE
+\headingsix{No todas las categorías aplican siempre.}
+\headingsix{👉 Solo observas lo que el texto permite ver.}
 
-\headingfive{Resultado esperado}
-\headingsix{Observaciones claras, breves y trazables al texto}
+### RESULTADO
+\headingsix{Produces observaciones:}
+\begin{verseblock}
+- claras - breves - verificables en el texto
+\end{verseblock}
+### EJEMPLO (FORMATO)
 
-\headingfive{Frase clave}
-> “Veo lo que el texto dice, no lo que yo agrego.”
+\begin{verseblock}
+``` Frase: yo ==di== leche
+\end{verseblock}
+Observación:
+- sujeto: yo
+- verbo: di
+- complemento: leche
+- relación: continúa la acción anterior
+```
 
-\headingfive{Qué debes notar}
-\headingsix{Ahora el texto comienza a aclararse:}
+### REGLA DE CONTROL
+\headingsix{Si explicas → te saliste}
+\headingsix{Si agregas → te saliste}
+\headingsix{Si interpretas → te saliste}
 
-- ves lo que afirma
-- ves cómo lo dice
-- ves qué \fillin{repite}
-- ves qué contrasta
+### ERRORES COMUNES
+\begin{verseblock}
+- explicar el texto - resumir - añadir ideas - usar lenguaje no presente - observar fuera del contexto
+\end{verseblock}
+### QUÉ DEBES NOTAR
 
+\headingsix{Ahora:}
+\begin{verseblock}
+- ves lo que el texto afirma - ves quién actúa - ves cómo avanza - ves qué repite - ves qué contrasta
+\end{verseblock}
 \headingsix{👉 Estás viendo el contenido real del texto}
 
-\headingfive{Transición}
+### TRANSICIÓN
+\headingsix{Después de observar todas las frases:}
+\begin{verseblock}
+- 👉 tendrás el contenido completo - 👉 sin haber interpretado - 👉 listo para la siguiente fase
+\end{verseblock}
+# EJEMPLO COMPLETO — 1 CORINTIOS 3:1
 
-\headingsix{Después de observar cada frase:}
-- 👉 podrás ver el contenido completo con claridad
-- 👉 sin haber interpretado el texto
+## PUNTO DE PARTIDA DEL EJEMPLO
 
-# T — SEGUIR EL TEXTO
+### Este ejemplo asume que ya se han completado:
+\begin{verseblock}
+- Pasos 1–13 - Conclusiones (Contexto, H1, H2)
+\end{verseblock}
+\headingsix{❗ La observación de lo que dice el texto no comienza desde cero.}
+\headingsix{❗ Comienza desde una estructura ya definido.}
+
+# CONCLUSIONES DE LOS PASOS 1–13
+
+## H1 — UNIDAD
+
+```
+1 Corintios 3:1–4:21 Pablo expone la condición de los creyentes y su desarrollo.
+```
+
+## H2 — MOVIMIENTOS INTERNOS
+
+```
+3:1–4   Condición de los creyentes
+3:5–9   Explicación del origen
+3:10–15 Evaluación de la obra
+3:16–23 Identidad del creyente
+4:1–5   Responsabilidad
+4:6–13  Contraste
+4:14–21 Exhortación
+```
+
+## CONTEXTO
+
+\headingsix{La frase se observa dentro de:}
+
+- la unidad completa (3:1–4:21)
+- el movimiento inicial (3:1–4)
+- la acción del texto (Pablo expone la condición)
+
+# O₂ — OBSERVAR EL TEXTO
+
+### TEXTO — 1 CORINTIOS 3:1
+\begin{verseblock}
+Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
+\end{verseblock}
+### OBSERVACIÓN FRASE POR FRASE (H4)
+
+\headingfive{FRASE 1}
+
+\begin{verseblock}
+``` Así que ``` - afirma: introduce consecuencia - relación: conecta con lo anterior - énfasis: inicio del desarrollo
+\end{verseblock}
+\headingfive{FRASE 2}
+
+```
+yo
+```
+- afirma: sujeto explícito
+- sujeto: yo
+- relación: agente de la acción
+
+\headingfive{FRASE 3}
+
+```
+hermanos
+```
+- afirma: destinatarios
+- relación: dirigido a ellos
+- tipo: vocativo
+
+\headingfive{FRASE 4}
+
+```
+no pude hablarles
+```
+- afirma: yo no pude hablarles
+- sujeto: yo
+- verbo: pude
+
+- complemento: hablarles
+- relación: acción principal
+
+- morfología (apoyo):
+  - tiempo: pasado
+  - modo: indicativo
+  - voz: activa
+  - negación: no
+- énfasis: negación
+
+\headingfive{FRASE 5}
+
+```
+como a espirituales
+```
+- afirma: hablar como a espirituales
+- relación: depende de “hablarles”
+- contraste: prepara oposición
+
+- repetición:
+  - “como a …”
+
+\headingfive{FRASE 6}
+
+```
+sino como a carnales
+```
+- afirma: hablar como a carnales
+- relación: contrasta con “espirituales”
+- contraste:
+  - espirituales ↔ carnales
+
+- repetición:
+  - “como a …”
+
+\headingfive{FRASE 7}
+
+```
+como a niños en Cristo
+```
+- afirma: hablar como a niños en Cristo
+- relación: añade a “carnales”
+- repetición:
+  - “como a …”
+
+### RESULTADO CONSOLIDADO
+
+\begin{verseblock}
+- \scripture{Así que} → consecuencia - \scripture{yo} → sujeto - \scripture{hermanos} → destinatarios - \scripture{no pude hablarles} → acción principal (negada) - \scripture{como a espirituales} → forma - \scripture{sino como a carnales} → contraste - \scripture{como a niños en Cristo} → continuación
+\end{verseblock}
+
+### LO QUE ESTE EJEMPLO DEMUESTRA
+
+\headingsix{La observación:}
+
+\begin{verseblock}
+- depende de la unidad (H1) - depende del movimiento (H2) - no ignora ninguna frase - no interpreta el texto
+\end{verseblock}
+\headingfive{Principio clave}
+\headingsix{La precisión no viene de explicar más.}
+
+\headingsix{👉 Viene de observar mejor.}
+
+### FRASE CLAVE FINAL
+\begin{verseblock}
+> “Observo cada frase dentro del texto ya definido.”
+\end{verseblock}
+# T — TRAZAR EL TEXTO
 
 ## INTRODUCCIÓN
 
-\headingfive{El problema de quedarse en partes}
-\headingsix{Hasta ahora has trabajado el texto por \fillin{frases}.}
+\headingfive{El problema de ver sin poder decir}
+\headingsix{Has observado el texto con precisión.}
 
-\headingsix{Has observado con precisión,}
+\headingsix{Has identificado lo que cada frase dice.}
 
-\headingsix{pero de forma fragmentada.}
+\headingsix{Pero eso no garantiza que puedas \textbf{expresarlo correctamente}.}
 
-\headingsix{❗ El texto no fue dado en partes.}
+\headingsix{❗ Muchos ven el texto,}
 
-\headingsix{Fue dado como un desarrollo continuo.}
+\headingsix{pero no pueden decirlo sin cambiarlo.}
+
+\headingfive{El error de buscar lo oculto}
+\headingsix{Muchos estudiantes de la Biblia buscan:}
+- ideas nuevas
+- puntos profundos
+- cosas que nadie ha visto
+
+\headingsix{❗ Pero el texto no está escondiendo su mensaje.}
+
+\headingfive{Qué hace un buen estudiante}
+\headingsix{Un buen estudiante no busca lo que no está.}
+
+\headingsix{👉 Observa lo que ya está en el texto.}
+\headingsix{👉 Y puede expresarlo con claridad y fidelidad.}
+
+\headingfive{Principio clave}
+\headingsix{La precisión no está en descubrir algo nuevo.}
+
+\headingsix{👉 Está en decir correctamente lo que ya está.}
 
 \headingfive{Qué haces ahora}
-\headingsix{Ahora unes lo que observaste.}
-- 👉 Sigues el texto de principio a fin
-- 👉 Sin romper su flujo
-- 👉 Sin cambiar su \fillin{orden}
+\headingsix{Tomas cada frase (H4) y la expresas de forma clara y fiel.}
+
+\headingfive{Nivel de trabajo}
+\headingsix{T trabaja en el nivel de la \textbf{frase (H4)}.}
+
+\headingsix{No trabajas secciones completas.}
+
+\headingsix{No resumes el texto.}
+
+\headingsix{👉 Trabajas una frase a la vez.}
 
 \headingfive{Propósito}
-\headingsix{Ver el desarrollo completo del texto,}
+\headingsix{Entrenar tu capacidad de expresar el texto sin añadir, sin omitir y sin cambiar.}
 
-\headingsix{tal como fue comunicado.}
+\headingfive{Naturaleza de esta fase}
+\headingsix{Este paso no añade contenido nuevo.}
+
+\headingsix{Este paso toma lo observado (O₂)}
+
+\headingsix{y lo convierte en expresión clara.}
+
+\headingsix{👉 Es una prueba de fidelidad y claridad.}
+
+\headingfive{Frase clave}
+>“Digo la frase tal como el texto la presenta.”
 
 ## EJECUTA
 
 \headingfive{¿Qué haces?}
-\headingsix{Expresas el contenido del texto de forma continua,}
+\headingsix{Expresas cada frase del texto de forma clara,}
 
-\headingsix{siguiendo su desarrollo.}
+\headingsix{manteniendo exactamente lo que dice.}
 
 \headingfive{Regla}
 \headingsix{No explicas}
-
 \headingsix{No interpretas}
-
 \headingsix{No agregas}
+\headingsix{No reduces}
 
-\headingsix{👉 Solo dices lo que el texto dice}
+\headingsix{👉 Solo expresas lo que el texto dice}
 
 \headingfive{Cómo hacerlo}
 
-1. Toma tus observaciones (Fase 2)
+1. Toma una frase (H4)
 
-2. Ordénalas según el \fillin{texto}
+2. Usa lo observado en O₂
 
-3. Exprésalas de forma continua
+3. Exprésala en una oración clara
 
 4. Mantén:
-- afirmaciones
-- contrastes
-- razones
+- el sujeto
+- la acción (si la hay)
+- el contenido
+
+\headingfive{Nota importante}
+\headingsix{Algunas frases no son completas por sí solas.}
+
+\headingsix{En esos casos:}
+- 👉 usas el contexto inmediato
+- 👉 completas la expresión sin añadir ideas
+
+\headingsix{❗ No explicas}
+\headingsix{❗ No cambias palabras}
 
 \headingfive{Resultado esperado}
-\headingsix{Una expresión clara, continua y trazable al texto}
+
+\headingsix{Una expresión clara de la frase,}
+
+\headingsix{completamente trazable al texto.}
+
+## EJEMPLO
+
+\headingfive{Frase:}
+```
+sino como a carnales
+```
+
+\headingfive{Observación (O₂):}
+- afirma: forma de hablar como a carnales
+- relación: contrasta con “espirituales”
+
+\headingfive{Trazado:}
+```
+Pablo les habló como a carnales.
+```
+
+## COMPARACIÓN
+
+\headingfive{Incorrecto (explicación):}
+```
+Pablo dice que ellos eran carnales.
+```
+
+\headingfive{Incorrecto (incompleto):}
+```
+como a carnales
+```
+
+\headingfive{Correcto:}
+```
+Pablo les habló como a carnales.
+```
 
 ## ENTIENDE
 
 \headingfive{Qué estás haciendo realmente}
-\headingsix{Estás uniendo las partes del texto en un solo flujo.}
+\headingsix{Estás convirtiendo observación en expresión fiel.}
 
 \headingfive{Principio clave}
-\headingsix{El texto no está fragmentado.}
+\headingsix{Ver el texto no es suficiente.}
 
-- 👉 Tiene un desarrollo continuo
+\headingsix{👉 Debes poder decirlo correctamente.}
 
 \headingfive{Idea clave}
-\headingsix{No reorganizas el texto.}
+\headingsix{No mejoras el texto.}
+\headingsix{No lo explicas.}
 
-- 👉 Lo sigues tal \fillin{como} está
-
-\headingfive{Frase clave}
-> “Sigo el texto tal como está escrito.”
+\headingsix{👉 Lo expresas tal como está.}
 
 \headingfive{Regla de control}
-\headingsix{Todo lo que dices debe poder señalarse en el texto}
+\headingsix{Si cambias el contenido → fallaste}
+\headingsix{Si agregas ideas → fallaste}
+\headingsix{Si omites partes → fallaste}
 
-\headingfive{Error común}
-- Explicar en lugar de seguir
-- Cambiar el orden del texto
-- Agregar ideas externas
-- Resumir en lugar de expresar
+\headingfive{Errores comunes}
+- explicar en lugar de decir
+- añadir palabras no presentes
+- omitir elementos
+- cambiar el sentido
 
 \headingfive{Qué debes notar}
 
-\headingsix{Ahora ves:}
+\headingsix{Cuando lo haces correctamente:}
+- la frase se mantiene fiel
+- el contenido es claro
+- puedes expresarla sin distorsión
 
-- cómo inicia el \fillin{texto}
-- cómo avanza
-- cómo se conecta
-- cómo llega a su punto
+\headingfive{Formación}
+
+\headingsix{Este paso te entrena a:}
+- hablar el texto con precisión
+- mantener su contenido
+- comunicar sin distorsionar
+
+\headingsix{👉 Te prepara para enseñar fielmente}
+
+\headingfive{Frase clave final}
+> “No busco lo oculto; expreso lo evidente.”
 
 \headingfive{Transición}
-\headingsix{Ya no solo ves el texto.}
-- 👉 Ahora estás listo para responder a él.
+\headingsix{Ahora no solo ves el texto, puedes expresarlo correctamente.}
+
+\headingsix{👉 Estás listo para someterte a lo que el texto dice.}
 
 # S — SOMETERSE AL TEXTO
 
@@ -2247,361 +2673,798 @@ Desarrollo: expone, contrasta y da razón
 
 \headingsix{seguir su desarrollo,}
 
+\headingsix{y expresarlo correctamente,}
+
 \headingsix{y aun así no responder correctamente.}
 
-\headingsix{❗ El mayor \fillin{error} no es no entender el texto.}
-- 👉 Es no someterse a lo que dice.
+\headingsix{❗ El mayor error no es no entender el texto.}
+- 👉 Es no aceptar lo que el texto afirma.
+
+\headingfive{El punto decisivo}
+\headingsix{Hasta ahora:}
+- viste el texto (O₂)
+- lo expresaste correctamente (T)
+
+\headingsix{👉 Ahora decides si lo vas a cambiar o no.}
 
 \headingfive{Qué haces ahora}
-
-\headingsix{Ahora te colocas bajo el texto.}
+\headingsix{Te colocas bajo lo que el texto afirma.}
 - 👉 No lo ajustas
 - 👉 No lo suavizas
 - 👉 No lo modificas
 
 \headingfive{Propósito}
-\headingsix{Reconocer la autoridad del texto}
+\headingsix{Aceptar lo que el texto dice,}
 
-\headingsix{sobre el lector.}
+\headingsix{tal como está escrito.}
+
+\headingfive{Principio clave}
+\headingsix{El texto no se negocia.}
+
+\headingsix{👉 Se acepta o se rechaza.}
+
+\headingfive{Frase clave}
+> “No cambio lo que el texto afirma.”
 
 ## EJECUTA
 
 \headingfive{¿Qué haces?}
-\headingsix{Te alineas con lo que el texto afirma.}
+\headingsix{Tomas lo que el texto afirma claramente}
+
+\headingsix{y lo mantienes sin alterarlo.}
 
 \headingfive{Regla}
 \headingsix{No cambias el texto}
 
-\headingsix{No seleccionas \fillin{partes}}
+\headingsix{No seleccionas partes}
 
 \headingsix{No lo adaptas a tu experiencia}
+
+\headingsix{No reduces su alcance}
+
+\headingsix{👉 Mantienes lo que afirma}
 
 \headingfive{Cómo hacerlo}
 
 1. Identifica lo que el texto afirma claramente
 
-2. Exprésalo sin modificarlo
+2. Exprésalo (como en T)
 
-3. Reconócelo como autoridad
+3. Mantén esa afirmación sin modificarla
 
 \headingfive{Resultado esperado}
-\headingsix{Una respuesta alineada con el texto,}
+\headingsix{Una afirmación mantenida tal como el texto la presenta,}
 
-\headingsix{no con el lector}
+\headingsix{sin alteración.}
+
+## EJEMPLO
+
+\headingfive{Texto afirma:}
+
+```
+Pablo no pudo hablarles como a espirituales, sino como a carnales.
+```
+
+\headingfive{Incorrecto:}
+
+```
+A veces los creyentes no son espirituales.
+```
+- ❌ reduce
+- ❌ generaliza
+- ❌ modifica
+
+\headingfive{Incorrecto:}
+
+```
+Esto aplica solo a los corintios.
+```
+- ❌ limita
+- ❌ evita
+
+\headingfive{Correcto:}
+
+```
+Pablo no pudo hablarles como a espirituales, sino como a carnales.
+```
+
+- ✔ mantiene
+- ✔ no cambia
+- ✔ no reduce
 
 ## ENTIENDE
 
 \headingfive{Qué estás haciendo realmente}
-\headingsix{Estás reconociendo que el texto tiene autoridad.}
+\headingsix{Estás dejando que el texto permanezca tal como está.}
 
 \headingfive{Principio clave}
-\headingsix{El texto tiene la \fillin{última} palabra.}
+\headingsix{El texto tiene la última palabra.}
 
 \headingfive{Idea clave}
 \headingsix{No estás sobre el texto.}
 - 👉 Estás bajo él
 
-\headingfive{Frase clave}
-> “No cambio el texto. Me someto a él.”
-
 \headingfive{Regla de control}
+\headingsix{Si ajustas el texto → fallaste}
 
-\headingsix{Si el texto se ajusta a ti → fallaste}
+\headingsix{Si lo reduces → fallaste}
 
-\headingsix{Si tú te ajustas al texto → lograste el propósito}
+\headingsix{Si lo mantienes → lograste el propósito}
 
-\headingfive{Error común}
-- Aceptar solo lo que es cómodo
-- Ajustar el texto a ideas previas
-- Ignorar lo que \fillin{confronta}
-- Convertir el texto en opinión
+\headingfive{Errores comunes}
+- suavizar lo que confronta
+- limitar lo que afirma
+- adaptar a experiencia personal
+- convertirlo en opinión
 
 \headingfive{Qué debes notar}
-
 \headingsix{Aquí se completa el proceso:}
-- viste la estructura
-- observaste el contenido
-- seguiste el desarrollo
+- viste el texto
+- lo expresaste correctamente
+- lo mantuviste sin alterarlo
 
-\headingsix{👉 Ahora respondes correctamente al texto}
-
-\headingfive{CIERRE}
+\headingsix{👉 Ahora el texto permanece intacto}
 
 \headingsix{RO₁O₂TS no termina en el análisis.}
 
 \headingsix{Termina cuando:}
 - observas
-- sigues
-- y te sometes
+- expresas
+- y mantienes lo que el texto afirma
 
-\headingsix{👉 al texto tal como está \fillin{escrito}.}
+\headingsix{👉 tal como está escrito}
 
 # CIERRE
 
-\headingfive{Has llegado al final del proceso}
+### Has llegado al final del proceso
 \headingsix{No comenzaste con ideas.}
 
 \headingsix{No comenzaste con interpretación.}
 
 \headingsix{Comenzaste con el texto.}
 
-\headingfive{Lo que hiciste}
+### Lo que hiciste
 \headingsix{Observaste cómo está construido}
 
 \headingsix{Observaste lo que dice}
 
 \headingsix{Seguiste su desarrollo}
 
-\headingfive{Y ahora}
+### Y ahora
 \headingsix{No estás sobre el \fillin{texto}.}
+\begin{verseblock}
 - 👉 Estás bajo él
-
-\headingfive{Principio final}
+\end{verseblock}
+### Principio final
 \headingsix{El texto no necesita ser completado}
 
 \headingsix{El texto no necesita ser ajustado}
+\begin{verseblock}
 - 👉 El texto ya comunica
-
-\headingfive{Lo que queda}
+\end{verseblock}
+### Lo que queda
 \headingsix{No es explicar el texto}
 
 \headingsix{No es defenderlo}
 \headingsix{No es adaptarlo}
+\begin{verseblock}
 - 👉 Es dejar que el texto tenga la \fillin{última} palabra
-
-\headingfive{Frase final}
-
-> “Dios habló.
-> Yo observo.
-> Sigo el desarrollo del texto.
-> Me someto al texto.”
-
+\end{verseblock}
+### Frase final
+\begin{verseblock}
+``` “Dios habló. Yo observo. Sigo el desarrollo del texto. Me someto al texto.” ```
+\end{verseblock}
 \headingfive{Última línea}
 \headingsix{RO₁O₂TS no es un método para enseñar el texto.}
 \headingsix{👉 Es un proceso para dejar que el texto hable.}
 
-# EJERCICIOS DE OBSERVACIÓN
+# EJERCICIOS — PRÁCTICA PROGRESIVA DE RO₁O₂TS
 
 ## INTRODUCCIÓN
 
-\headingfive{Qué son estos ejercicios}
-\headingsix{Estos ejercicios no son para \fillin{enseñar} contenido.}
+\headingfive{Naturaleza de los ejercicios}
+\headingsix{Estos ejercicios no presentan métodos diferentes.}
 
-\headingsix{👉 Son para entrenar tu observación.}
+\headingsix{👉 Son el mismo proceso (RO₁O₂TS), aplicado en distintos niveles de práctica.}
 
-\headingfive{Propósito}
-\headingsix{Aprender a ver el texto con precisión.}
+\headingfive{Principio clave}
+\headingsix{No aprendes partes del método.}
+\headingsix{👉 Aprendes a ejecutarlo progresivamente.}
 
-\headingfive{Regla}
-\headingsix{No interpretes}
+\headingfive{Cómo avanzar}
+\headingsix{Comienzas con textos simples, y avanzas hacia mayor independencia.}
+\headingsix{❗ No necesitas perfección para avanzar.}
+\headingsix{👉 Necesitas claridad y fidelidad al texto.}
 
-\headingsix{No expliques}
+# NIVEL 1 — MICRO RO₁O₂TS (FUNDAMENTO)
 
-\headingsix{No completes}
+\headingfive{Objetivo}
+\headingsix{Familiarizarte con el proceso en textos muy breves.}
 
-\headingsix{👉 Solo haz lo que cada ejercicio pide}
+\headingfive{Texto}
+```
+yo planté, Apolos regó
+```
 
-# NIVEL 1 — VER LO BÁSICO
+\headingfive{Ejercicio}
 
-\headingfive{Enfoque}
-\headingsix{Identificar \fillin{verbos} finitos y cláusulas}
+1. Identifica los verbos
 
-### Ejercicio 1
+2. Divide en cláusulas
 
-\headingsix{Texto:}
-\begin{verseblock}
-``` No pude hablarles como a espirituales. ```
-\end{verseblock}
-\headingsix{Tarea:}
-- Marca el verbo finito
-- Escribe la cláusula
+3. Observa cada frase (O₂)
 
-### Ejercicio 2
+4. Traza cada frase (T)
 
-\headingsix{Texto:}
+\headingfive{Formato}
 
-\begin{verseblock}
-``` Les di a beber leche, no alimento sólido. ```
-\end{verseblock}
-\headingsix{Tarea:}
-- Marca el verbo \fillin{finito}
-- Indica si hay más de una cláusula
+```
+Frase:
+__________
 
-### Ejercicio 3
+Observación:
+- sujeto:
+- verbo:
 
-\headingsix{Texto:}
-
-\begin{verseblock}
-``` Porque todavía no podían recibirlo. ```
-\end{verseblock}
-\headingsix{Tarea:}
-- Marca el verbo finito
-- Identifica el conector
-
-# NIVEL 2 — VER RELACIONES
+Trazado:
+__________
+```
 
 \headingfive{Enfoque}
+- reconocer acciones
+- identificar sujetos
+- expresar con claridad
 
-\headingsix{Identificar conectores y estructura}
+# NIVEL 2 — RO₁O₂TS PARCIAL (CONTROL)
 
-### Ejercicio 4
+\headingfive{Objetivo}
+\headingsix{Seguir el proceso con textos breves.}
 
-\headingsix{Texto:}
+\headingfive{Texto}
+```
+yo planté, Apolos regó, pero Dios daba el crecimiento.
+```
 
-\begin{verseblock}
-``` Les di a beber leche, porque no podían recibirlo. ```
-\end{verseblock}
-\headingsix{Tarea:}
-- Marca el verbo finito
-- Marca el \fillin{conector}
-- Escribe la pregunta del conector
+\headingfive{Ejercicio}
 
-### Ejercicio 5
+1. Pasos 1–5 (estructura básica)
 
-\headingsix{Texto:}
+2. Identifica el tronco (Paso 8)
 
-\begin{verseblock}
-``` No como a espirituales, sino como a carnales. ```
-\end{verseblock}
-\headingsix{Tarea:}
-- Identifica el conector
-- Escribe qué contrasta
+3. Observa cada frase (O₂)
 
-### Ejercicio 6
+4. Traza cada frase (T)
 
-\headingsix{Texto:}
+\headingfive{Formato}
 
-\begin{verseblock}
-``` Si alguien está en Cristo, es una nueva criatura. ```
-\end{verseblock}
-\headingsix{Tarea:}
-- Marca los \fillin{verbos}
-- Identifica la condición
+```
+Frase:
+__________
 
-# NIVEL 3 — REDUCIR SIN DISTORSIONAR
+Observación:
+__________
+
+Trazado:
+__________
+```
 
 \headingfive{Enfoque}
-\headingsix{Aplicar Paso 7 y Paso 8 correctamente}
+- contraste (“pero”)
+- continuidad
+- orden del texto
 
-### Ejercicio 7
+# NIVEL 3 — RO₁O₂TS CON RELACIÓN
 
-\headingsix{Texto:}
+\headingfive{Objetivo}
+\headingsix{Reconocer relaciones dentro del texto.}
 
-\begin{verseblock}
-``` Trataba de destruir la iglesia de Dios. ```
-\end{verseblock}
-\headingsix{Tarea:}
-- Reduce la cláusula (Paso 7)
-- No rompas la \fillin{acción}
+\headingfive{Texto}
+```
+ni el que planta es algo, ni el que riega, sino Dios que da el crecimiento.
+```
 
-### Ejercicio 8
+\headingfive{Ejercicio}
 
-\headingsix{Texto:}
+1. Pasos 1–8
 
-\begin{verseblock}
-``` Dios tuvo a bien revelar a Su Hijo en mí. ```
-\end{verseblock}
-\headingsix{Tarea:}
-- Reduce la cláusula
-- Conserva la acción completa
+2. Identifica relaciones (contraste, repetición)
 
-### Ejercicio 9
+3. Observa (O₂)
 
-\headingsix{Texto:}
-
-\begin{verseblock}
-``` No consulté con carne y sangre. ```
-\end{verseblock}
-\headingsix{Tarea:}
-- Reduce la cláusula
-- Identifica qué no \fillin{puedes} eliminar
-
-# NIVEL 4 — VER MOVIMIENTO
+4. Traza (T)
 
 \headingfive{Enfoque}
+- contraste
+- repetición
+- dependencia
 
-\headingsix{Identificar comportamiento y patrón}
+# NIVEL 4 — RO₁O₂TS COMPLETO (GUIADO)
 
-### Ejercicio 10
+\headingfive{Objetivo}
+\headingsix{Ejecutar el proceso completo con apoyo.}
 
-\headingsix{Texto:}
+\headingfive{Texto}
+```
+Así que ni el que planta ni el que riega son algo, sino Dios que da el crecimiento.
+```
 
-\begin{verseblock}
-``` No pude hablarles   Les di a beber leche   Porque no podían recibirlo ```
-\end{verseblock}
-\headingsix{Tarea:}
-- Etiqueta cada línea
-- Identifica el \fillin{patrón}
+\headingfive{Ejercicio}
 
-### Ejercicio 11
+1. Pasos 1–13
 
-\headingsix{Texto:}
+2. Se te proporciona:
 
-\begin{verseblock}
-``` El hombre no es justificado   Sino por la fe   Porque nadie será justificado ```
-\end{verseblock}
-\headingsix{Tarea:}
-- Marca comportamiento
-- Identifica contraste y razón
+```
+H1: ________
+H2: ________
+```
 
-# NIVEL 5 — VER EL TEXTO COMPLETO
+3. Observa cada frase (O₂)
+
+4. Traza cada frase (T)
+
+5. Sométete al texto (S)
+
+\headingfive{Formato}
+
+```
+Frase:
+__________
+
+Observación:
+__________
+
+Trazado:
+__________
+
+Afirmación mantenida:
+__________
+```
 
 \headingfive{Enfoque}
+- flujo completo
+- fidelidad
+- control del proceso
 
-\headingsix{Aplicar RO₁O₂TS completo}
+# NIVEL 5 — RO₁O₂TS COMPLETO (INDEPENDIENTE)
 
-### Ejercicio 12
+\headingfive{Objetivo}
+\headingsix{Ejecutar todo el proceso sin ayuda.}
 
-\headingsix{Texto:}
+\headingfive{Texto}
+```
+Porque somos colaboradores de Dios, y ustedes son labranza de Dios, edificio de Dios.
+```
+
+\headingfive{Ejercicio}
+
+1. Ejecuta Pasos 1–13
+
+2. Establece:
+- H1
+- H2
+- contexto
+
+3. Observa cada frase (O₂)
+
+4. Traza cada frase (T)
+
+5. Sométete al texto (S)
+
+\headingfive{Resultado esperado}
+
+\headingsix{Un trabajo completo:}
+- estructurado
+- observado
+- expresado
+- mantenido
+
+# NIVEL 6 — CONTROL DE FIDELIDAD (S)
+
+\headingfive{Objetivo}
+\headingsix{Detectar alteraciones del texto.}
+
+\headingfive{Texto}
+```
+ni el que planta es algo, ni el que riega, sino Dios que da el crecimiento.
+```
+
+\headingfive{Ejercicio}
+\headingsix{Indica cuál es fiel al texto:}
+
+\headingfive{Opción A}
+```
+Los que trabajan no son importantes, solo Dios.
+```
+
+\headingfive{Opción B}
+```
+Ni el que planta es algo, ni el que riega, sino Dios que da el crecimiento.
+```
+
+\headingfive{Opción C}
+```
+Dios es más importante que los que trabajan.
+```
+
+\headingfive{Enfoque}
+- detectar reducción
+- detectar interpretación
+- mantener afirmación
+
+# NIVEL 7 — PRODUCCIÓN COMPLETA
+
+\headingfive{Objetivo}
+\headingsix{Ejecutar el proceso completo con claridad y precisión.}
+
+\headingfive{Texto}
+```
+Porque nadie puede poner otro fundamento que el que está puesto, el cual es Jesucristo.
+```
+
+\headingfive{Ejercicio}
+
+1. Ejecuta RO₁O₂TS completo
+
+2. Presenta:
+- estructura
+- observación
+- trazado
+- sometimiento
+
+\headingfive{Resultado esperado}
+\headingsix{Un trabajo listo para ser enseñado.}
+
+# CIERRE DE LOS EJERCICIOS
+
+\headingfive{Qué estás desarrollando}
+\headingsix{A través de estos ejercicios estás formando la capacidad de:}
+
+- ver el texto con precisión
+- seguir su desarrollo
+- expresarlo correctamente
+- mantenerlo sin alterarlo
+
+\headingfive{Principio final}
+\headingsix{La meta no es completar ejercicios.}
+
+\headingsix{👉 Es poder trabajar cualquier texto correctamente.}
+
+\headingfive{Frase clave final}
+> “Veo el texto, lo digo correctamente y no lo cambio.”
+
+# EJEMPLOS COMPLETADOS
+## 1 CORINTIOS 3:6
+
+\headingfive{TEXTO}
+```
+Yo planté, Apolos regó, pero Dios daba el crecimiento.
+```
+
+\headingfive{PASO 1 — TEXTO}
+```
+Yo planté, Apolos regó, pero Dios daba el crecimiento.
+```
+
+\headingfive{PASO 2 — VERBOS FINITOS}
+```
+Yo ==planté==, Apolos ==regó==, pero Dios ==daba== el crecimiento.
+```
+
+\headingfive{PASO 3 — CLÁUSULAS}
+```
+Yo ==planté==
+
+Apolos ==regó==
+
+pero Dios ==daba== el crecimiento
+```
+
+\headingfive{PASO 4 — CONECTORES}
+```
+Yo ==planté==
+
+Apolos ==regó==
+
+(pero) Dios ==daba== el crecimiento
+```
+
+\headingfive{PASO 5 — ESTRUCTURA}
+```
+Yo ==planté==
+
+Apolos ==regó==
+
+(pero) Dios ==daba== el crecimiento
+```
+
+\headingfive{PASO 6 — USAR EL CONECTOR}
+```
+(pero) Dios ==daba== el crecimiento
+`¿qué contrasta? → planté/regó pero Dios daba`
+```
+
+\headingfive{PASO 7 — REDUCCIÓN}
+```
+yo ==planté==
+
+Apolos ==regó==
+
+(pero) Dios ==daba==
+```
+
+\headingfive{PASO 8 — TRONCO + O1}
+```
+[S→] yo
+yo ==planté==
+
+[S→] Apolos
+Apolos ==regó==
+
+[S→] Dios
+Dios ==daba==
+```
+
+\headingsix{PASO 9 — COMPORTAMIENTO}
+```
+::EXPONE::
+yo planté
+
+::EXPONE::
+Apolos regó
+
+::CONTRASTE::
+Dios daba
+```
+
+\headingfive{PASO 10 — PATRÓN}
+```
+EXPONE
+EXPONE
+CONTRASTE
+```
+No hay patrón repetido claro.
+
+\headingfive{PASO 11 — SEGUIR O DETENERSE}
+No aplica (no hay patrón).
+
+\headingfive{PASO 12 — UNIDAD}
+Unidad:
+```
+1 Corintios 3:6
+```
+
+\headingfive{PASO 13 — ACCIÓN DEL TRONCO}
+```
+Pablo contrasta que él plantó, Apolos regó, y Dios daba.
+```
+
+### CONCLUSIONES
+
+\headingfive{H1}
 \begin{verseblock}
-Gálatas 1:13–14
+``` 1 Corintios 3:6   Pablo contrasta las acciones humanas con la acción de Dios. ```
 \end{verseblock}
-\headingsix{Tarea:}
-- Haz Pasos 1–8
+\headingfive{H2}
+```
+3:6a   Acción de Pablo
+3:6b   Acción de Apolos
+3:6c   Acción de Dios
+```
 
-### Ejercicio 13
+\headingfive{O₂ — OBSERVACIÓN}
 
-\headingsix{Texto:}
+\headingfive{FRASE}
+```
+pero Dios daba el crecimiento
+```
 
+- afirma: Dios daba el crecimiento
+- sujeto: Dios
+- verbo: daba
+- contraste: pero
+- relación: oposición con acciones anteriores
+
+\headingfive{T — TRAZAR}
+```
+Dios daba el crecimiento en contraste con las acciones anteriores.
+```
+
+\headingfive{S — SOMETERSE}
+```
+Dios daba el crecimiento.
+```
+
+## EJEMPLO 2 — GÁLATAS 2:16 (PARTE SIMPLE)
+
+\headingfive{TEXTO}
+```
+sabiendo que el hombre no es justificado por las obras de la ley, sino por la fe en Cristo Jesús
+```
+
+\headingsix{PASO 1 — TEXTO}
+```
+sabiendo que el hombre no es justificado por las obras de la ley, sino por la fe en Cristo Jesús
+```
+
+\headingfive{PASO 2 — VERBOS FINITOS}
+```
+el hombre no ==es justificado== por las obras de la ley, sino por la fe en Cristo Jesús
+```
+
+\headingfive{PASO 3 — CLÁUSULAS}
+```
+el hombre no ==es justificado== por las obras de la ley, sino por la fe en Cristo Jesús
+```
+
+\headingfive{PASO 4 — CONECTORES}
+(no hay conector entre cláusulas con verbo finito)
+
+\headingfive{PASO 5 — ESTRUCTURA}
+```
+el hombre no ==es justificado== por las obras de la ley, sino por la fe en Cristo Jesús
+```
+
+\headingfive{PASO 6 — USAR EL CONECTOR}
+(no aplica)
+
+\headingfive{PASO 7 — REDUCCIÓN}
+```
+el hombre no ==es justificado==
+```
+
+\headingfive{PASO 8 — TRONCO + O1}
+```
+[S→] el hombre
+el hombre no ==es justificado==
+```
+
+\headingfive{PASO 9 — COMPORTAMIENTO}
+```
+::EXPONE::
+el hombre no es justificado
+```
+
+\headingfive{PASO 10 — PATRÓN}
+No hay patrón.
+
+\headingfive{PASO 11 — SEGUIR O DETENERSE}
+No aplica.
+
+\headingfive{PASO 12 — UNIDAD}
+
+Unidad:
+```
+Gálatas 2:16 (segmento)
+```
+
+\headingfive{PASO 13 — ACCIÓN DEL TRONCO}
+```
+Pablo afirma que el hombre no es justificado.
+```
+
+### CONCLUSIONES
+
+\headingfive{H1}
 \begin{verseblock}
-Gálatas 1:15–17
+``` Gálatas 2:16   Pablo afirma la no justificación del hombre por obras. ```
 \end{verseblock}
-\headingsix{Tarea:}
-- Haz Pasos 7–10
-- Identifica el patrón
+\headingfive{H2}
+```
+2:16a   Negación
+2:16b   Contraste (implícito en “sino”)
+```
 
-### Ejercicio 14
+\headingfive{O₂ — OBSERVACIÓN}
 
-\headingsix{Texto:}
+\headingfive{FRASE}
+```
+no es justificado
+```
 
+- afirma: no es justificado
+- sujeto: el hombre
+- verbo: es justificado
+- negación: no
+- énfasis: negación directa
+
+\headingfive{T — TRAZAR}
+```
+El hombre no es justificado.
+```
+
+\headingfive{S — SOMETERSE}
+```
+El hombre no es justificado.
+```
+
+# GLOSARIO BÁSICO
+
+### VERBO
+\headingfive{Palabra que expresa una acción o estado.}
+
+### SUJETO
+\headingfive{Quien realiza la acción del verbo.}
+
+### COMPLEMENTO
+\headingsix{Lo que recibe o completa la acción del verbo.}
+
+### CLÁUSULA
+\headingsix{Unidad con verbo que expresa una idea.}
+
+### CONECTOR
+\headingsix{Palabra que une cláusulas y muestra su relación.}
+
+### TRONCO
+\headingsix{Conjunto de cláusulas principales que sostienen el desarrollo del texto.}
+
+### COMPORTAMIENTO
+\headingsix{Función que una cláusula cumple dentro del desarrollo del texto.}
+
+### PATRÓN
+\headingsix{Secuencia de comportamiento que se repite.}
+
+### UNIDAD
+\headingsix{Tramo completo donde el mismo desarrollo se mantiene.}
+
+### MORFOLOGÍA
+\headingsix{Forma de una palabra y lo que esa forma indica.}
+
+### VERBO FINITO
+\headingsix{Verbo que está conjugado y expresa persona y número.}
+
+### TIEMPO (VERBO)
+\headingsix{Indica cuándo ocurre la acción (pasado, presente, futuro).}
+
+### MODO (VERBO)
+\headingsix{Indica cómo se presenta la acción.}
 \begin{verseblock}
-Gálatas 2:16
+- indicativo → como real - subjuntivo → como posibilidad o condición - imperativo → como mandato
 \end{verseblock}
-\headingsix{Tarea:}
-- Haz RO₁O₂TS completo
-- Trazar
-
-### Ejercicio 15
-
-\headingsix{Texto:}
-
+### VOZ
+\headingsix{Relación entre el sujeto y la acción.}
 \begin{verseblock}
-Efesios 2:1–5
+- activa → el sujeto hace la acción - pasiva → el sujeto recibe la acción
 \end{verseblock}
-\headingsix{Tarea:}
-- Haz RO₁O₂TS completo
-- Expresa el \fillin{flujo} del texto
+### PERSONA
+\headingsix{Quién realiza la acción.}
+\begin{verseblock}
+- primera → yo / nosotros - segunda → tú / ustedes - tercera → él / ellos
+\end{verseblock}
+### NÚMERO
+\headingsix{Cantidad del sujeto.}
+\begin{verseblock}
+- singular → uno - plural → más de uno
+\end{verseblock}
+### NOMINATIVO
+\headingsix{Caso que normalmente indica el sujeto.}
 
-## CIERRE DE LOS EJERCICIOS
+### ACUSATIVO
+\headingsix{Caso que normalmente indica el objeto directo.}
 
-\headingfive{Qué debes notar}
+### GENITIVO
+\headingsix{Caso que indica relación o posesión.}
 
-\headingsix{Si haces bien estos ejercicios:}
-- verás más rápido
-- reducirás sin distorsionar
-- reconocerás patrones
-- seguirás el \fillin{texto} con claridad
+### DATIVO
+\headingsix{Caso que indica destinatario o beneficio.}
 
-\headingfive{Frase final}
-> “No practico para saber más.
-> Practico para ver mejor.”
+### VOCATIVO
+\headingsix{Caso que indica llamado directo.}
+
+### INDICATIVO
+\headingsix{Modo verbal que presenta la acción como real.}
+
+### SUBJUNTIVO
+\headingsix{Modo verbal que presenta la acción como posible o condicionada.}
+
+### IMPERATIVO
+\headingsix{Modo verbal que expresa mandato.}
+
+### CONTRASTE
+\headingsix{Relación donde una idea se opone a otra.}
+
+### REPETICIÓN
+\headingsix{Elemento que aparece más de una vez en el texto.}
+
+### ÉNFASIS
+\headingsix{Elemento que el texto resalta por repetición, posición o contraste.}
