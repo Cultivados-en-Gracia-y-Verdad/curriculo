@@ -294,7 +294,7 @@ Comenzamos con:
 
 Porque si Dios comunicó por \fillin{medio} de lenguaje, entonces el significado está en \textbf{cómo lo dijo}.
 
-# O₁ - OBSERVAR LA ESTRUCTURA
+# O₁ - OBSERVAR LA ESTRUCTURA (PASOS 1-13)
 
 \fillin{Antes} de entender el significado, debemos ver \textbf{cómo el autor organizó lo que dijo}.
 
@@ -505,7 +505,6 @@ Sin este \fillin{paso}, todo lo demás falla.
 - No → déjalo sin marcar
 
 \headingsix{Marca así:}
-
 ```
 ==verbo==
 ```

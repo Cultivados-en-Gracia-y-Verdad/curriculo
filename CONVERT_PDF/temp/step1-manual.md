@@ -295,7 +295,7 @@ Comenzamos con:
 
 Porque si Dios comunicó por <u>medio</u> de lenguaje, entonces el significado está en \textbf{cómo lo dijo}.
 
-# O₁ - OBSERVAR LA ESTRUCTURA
+# O₁ - OBSERVAR LA ESTRUCTURA (PASOS 1-13)
 
 <u>Antes</u> de entender el significado, debemos ver \textbf{cómo el autor organizó lo que dijo}.
 
@@ -508,7 +508,6 @@ Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo.
 - No → déjalo sin marcar
 
 ###### Marca así:
-
 ```
 ==verbo==
 ```

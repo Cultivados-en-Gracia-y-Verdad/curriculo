@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  15 APR 2026 17:23
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  15 APR 2026 17:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2442,12 +2442,12 @@ L3 programming layer <2025-01-18>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `teacher_manual.out' has not changed.
-(rerunfilecheck)             Checksum: 04DCA0D25B5E9FED2FB9146326AAAD6B;4995.
+(rerunfilecheck)             Checksum: 2597CD38874D4DBE7865271614CDCF6A;5072.
  ) 
 Here is how much of TeX's memory you used:
  36652 strings out of 473832
- 770146 string characters out of 5729482
- 1362074 words of memory out of 5000000
+ 770157 string characters out of 5729482
+ 1362164 words of memory out of 5000000
  59102 multiletter control sequences out of 15000+600000
  563431 words of font info for 112 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191

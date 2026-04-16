@@ -23,7 +23,7 @@
 \contentsline {subsection}{Nuestra postura frente al texto}{9}{subsection*.23}%
 \contentsline {subsection}{Principio clave}{9}{subsection*.24}%
 \contentsline {subsection}{Punto de partida}{9}{subsection*.25}%
-\contentsline {section}{O₁ - OBSERVAR LA ESTRUCTURA}{10}{section*.26}%
+\contentsline {section}{O₁ - OBSERVAR LA ESTRUCTURA (PASOS 1-13)}{10}{section*.26}%
 \contentsline {subsection}{El problema común}{10}{subsection*.27}%
 \contentsline {subsection}{Principio fundamental}{10}{subsection*.28}%
 \contentsline {subsection}{Por qué esto importa}{10}{subsection*.29}%
