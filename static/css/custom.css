@@ -57,3 +57,16 @@ ul#breadcrumbs li a:hover {
   color: #01447e;
   text-decoration: underline;
 }
+mark {
+  background-color: #ffd166;
+  color: #000;
+  padding: 0 3px;
+  border-radius: 2px;
+}
+
+mark:first-of-type {
+  background-color: #ffb703;
+}
+:target {
+  scroll-margin-top: 130px;
+}

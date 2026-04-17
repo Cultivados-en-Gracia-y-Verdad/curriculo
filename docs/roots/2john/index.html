@@ -36,7 +36,7 @@
 
 
 
-<link href="/css/custom.css?1776417161" rel="stylesheet">
+<link href="/css/custom.css?1776429781" rel="stylesheet">
 
 
 
@@ -75,6 +75,7 @@
 
 
     
+ <script src="/js/highlight.js"></script> 
   </head>
 
   <body>
@@ -441,9 +442,12 @@
     </div>
 
     <div class="panel-body">
-  <input id="refInput" class="form-control" placeholder="tito 1:4">
-  <br>
-  <button onclick="goToRef()" class="btn btn-template-main">Ir</button>
+<form onsubmit="goToRef(); return false;">
+ <input id="verseInput" placeholder="tito 1:4" autofocus autocomplete="off">
+  <button type="submit">Ir</button>
+</form>
+
+<div id="results"></div>
 </div>
 </div>
 

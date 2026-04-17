@@ -7,8 +7,12 @@
     </div>
 
     <div class="panel-body">
-  <input id="verseInput" placeholder="tito 1:4">
-<button onclick="goToRef()">Ir</button>
+<form onsubmit="goToRef(); return false;">
+ <input id="verseInput" placeholder="tito 1:4" autofocus autocomplete="off">
+  <button type="submit">Ir</button>
+</form>
+
+<div id="results"></div>
 </div>
 </div>
 {{ end }}

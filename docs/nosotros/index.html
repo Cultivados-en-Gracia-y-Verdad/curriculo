@@ -36,7 +36,7 @@
 
 
 
-<link href="/css/custom.css?1776417449" rel="stylesheet">
+<link href="/css/custom.css?1776428865" rel="stylesheet">
 
 
 
@@ -552,8 +552,12 @@ Señalar y evitar falsos maestros quienes buscarán infiltrarse o influenciar nu
     </div>
 
     <div class="panel-body">
-  <input id="verseInput" placeholder="tito 1:4">
-<button onclick="goToRef()">Ir</button>
+<form onsubmit="goToRef(); return false;">
+ <input id="verseInput" placeholder="tito 1:4" autofocus autocomplete="off">
+  <button type="submit">Ir</button>
+</form>
+
+<div id="results"></div>
 </div>
 </div>
 

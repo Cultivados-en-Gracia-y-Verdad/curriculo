@@ -27,6 +27,9 @@ pluralizelisttitles = false
 
  enableInlineShortcodes = true
 
+[outputs]
+  home = ["HTML", "JSON"]
+  
 [menu]
 
 
