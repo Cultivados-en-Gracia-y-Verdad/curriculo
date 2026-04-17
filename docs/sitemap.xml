@@ -2,40 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.discipuladocgv.org/plan-de-estudios/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/contacto/</loc>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fotos/</loc>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/horario/</loc>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/roots/</loc>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/plan-de-estudios/</loc>
     <lastmod>2025-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.discipuladocgv.org/contacto/</loc>
-    <lastmod>2023-09-01T21:15:44-04:00</lastmod>
-  </url><url>
-    <loc>http://www.discipuladocgv.org/horario/</loc>
-    <lastmod>2023-08-31T22:43:55-04:00</lastmod>
-  </url><url>
-    <loc>http://www.discipuladocgv.org/calendar/</loc>
+    <loc>http://localhost:1313/calendar/</loc>
     <lastmod>2023-08-31T15:11:42-04:00</lastmod>
   </url><url>
-    <loc>http://www.discipuladocgv.org/fotos/</loc>
-    <lastmod>2023-08-31T15:11:42-04:00</lastmod>
-  </url><url>
-    <loc>http://www.discipuladocgv.org/</loc>
+    <loc>http://localhost:1313/posts/costos/</loc>
     <lastmod>2023-08-27T21:53:01-04:00</lastmod>
   </url><url>
-    <loc>http://www.discipuladocgv.org/posts/costos/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2023-08-27T21:53:01-04:00</lastmod>
   </url><url>
-    <loc>http://www.discipuladocgv.org/posts/</loc>
-    <lastmod>2023-08-27T21:53:01-04:00</lastmod>
+    <loc>http://localhost:1313/admisiones/</loc>
   </url><url>
-    <loc>http://www.discipuladocgv.org/admisiones/</loc>
+    <loc>http://localhost:1313/authors/</loc>
   </url><url>
-    <loc>http://www.discipuladocgv.org/authors/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://www.discipuladocgv.org/categories/</loc>
+    <loc>http://localhost:1313/nosotros/</loc>
   </url><url>
-    <loc>http://www.discipuladocgv.org/nosotros/</loc>
+    <loc>http://localhost:1313/radio/</loc>
   </url><url>
-    <loc>http://www.discipuladocgv.org/radio/</loc>
-  </url><url>
-    <loc>http://www.discipuladocgv.org/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

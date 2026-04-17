@@ -1,6 +1,5 @@
 ---
 Title: "10 Métodos de Estudio Bíblico"
-Date: 13/10/2022
 header: CC3D - Del Edén al Calvario
 footer: Derechos reservados @DM2 2021 - CC3D es un ministerio de DM2
 ---

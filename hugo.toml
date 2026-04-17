@@ -8,7 +8,8 @@ PublishDir = "docs"
 defaultContentLanguage = "es"
 ShowBreadCrumbs = "true"
 # Enable comments by entering your Disqus shortname
-#disqusShortname = "cgv"
+disqusShortname = "cgv"
+#disqusShortname = "x"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
@@ -16,7 +17,7 @@ googleAnalytics = ""
 summaryLength = 70
 
 # Define the number of pots per page
-paginate = 10
+#paginate = 10
 
 [markup.goldmark.renderer]
  unsafe = true
@@ -63,6 +64,12 @@ pluralizelisttitles = false
     name       = "Horario"
     url        = "/horario"
     weight     = 1
+    parent     = "section.headervariations"
+
+[[menu.main]]
+    name       = "ROOTS"
+    url        = "/ROOTS/"
+    weight     = 2
     parent     = "section.headervariations"
 
 [[menu.main]]

@@ -1,8 +1,8 @@
 ---
 Title: "03 Haciendo Hacedores de Discipulos"
-Date: 13/10/2022
-header: CC3D - Haciendo Hacedores de Discípulos
-footer: Derechos reservados @DM2 2021 - CC3D es un ministerio de DM2
+Date: 2022-10-13
+header: CGV - Haciendo Hacedores de Discípulos
+footer: Derechos reservados @CGV 2026
 ---
 
 <a href="https://cloud.cc3d.org/index.php/apps/cms_pico/pico/cc3d-2022/plan"><img src="https://cloud.cc3d.org/index.php/apps/cms_pico/pico/cc3d-2022/assets/images/cc3d-logo-white.webp" class="logoTop"></img></a>
@@ -20,7 +20,7 @@ padding:6.0pt 6.0pt 6.0pt 6.0pt;
 background:#CCCCCC;
 border-radius: 6px;">
 <p>Supervisor: John Wry</p>
-<p>Correo electrónico: <a href="maito:john@cc3d.org">john@cc3d.org</a></p>
+<p>Correo electrónico: <a href="maito:john@discipuladocgv.org">john@discipuladocgv.org</a></p>
 <p>Teléfono: (+591) 64908144</p>
 </div>
 Fecha de início: 28/02/2022

@@ -1,9 +1,7 @@
 ---
-type: "admisiones"
-Title: "Admision"
-draft: false
-banner: "/img/banners/banner-6.jpg"
+Title:  "Admision"
 ---
+
 ![](/img/concentration.jpeg)
 # Gracias por tu interés de estudiar en el CC3D
 Empieza el proceso completando los siguientes pasos.

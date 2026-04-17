@@ -1,6 +1,6 @@
 ---
 Title: "00 Orientación"
-Date: 13/10/2022
+Date: 2022-10-13
 draft: false
 ---
 

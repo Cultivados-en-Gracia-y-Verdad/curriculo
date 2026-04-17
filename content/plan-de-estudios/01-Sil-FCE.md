@@ -1,6 +1,6 @@
 ---
 title: "01 El Forastero en Camino a Emaús"
-date: 2023-08-27T22:35:15-04:00
+date: 2023-08-27
 draft: false
 ---
 
@@ -55,7 +55,7 @@ Al finalizar este curso, un estudiante activo habrá alcanzado los siguientes ob
 
 * Santa Biblia Versión Reina-Valera Revisión de 1960, Sociedades Bíblicas en América Latina
 
-Textos recomendados para estudio adicional:
+  Textos recomendados para estudio adicional:
 
   * Bramsen, P.D., _R
   * McIlwain, Trevor, _Fundamentos Firmes—Desde la crea

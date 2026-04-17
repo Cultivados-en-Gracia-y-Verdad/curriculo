@@ -1,8 +1,8 @@
 ---
- Title: "18 Tito"
-Date: 13/10/2022
-header: CC3D - Del Edén al Calvario
-footer: Derechos reservados @DM2 2021 - CC3D es un ministerio de DM2
+title: "18 Tito"
+date: 2022-10-13
+header: CGV - Tito
+footer: Derechos reservados @CGV 2026
 ---
 
 <img src="https://cloud.cc3d.org/index.php/apps/cms_pico/pico/cc3d-2022/assets/images/cc3d-logo-white.webp" class="logoTop" style="zoom:50%;" ></img>
@@ -19,8 +19,6 @@ border-radius: 6px;">
 <p>Correo electrónico: <a href="maito:john@cc3d.org">john@cc3d.org</a></p>
 <p>Teléfono: (+591) 69508130</p>
 </div>
-
-
 
 Fecha de inicio: 04/07/2022
 

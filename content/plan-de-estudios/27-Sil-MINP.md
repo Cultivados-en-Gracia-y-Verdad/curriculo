@@ -1,6 +1,5 @@
 ---
 Title: "27 Práctica Ministerial"
-Date: 13/10/2022
 header: CC3D - Práctica Ministerial
 footer: Derechos reservados @DM2 2021 - CC3D es un ministerio de DM2
 ---

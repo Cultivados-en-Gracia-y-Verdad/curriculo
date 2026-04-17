@@ -1,8 +1,6 @@
 ---
 Title: "Horario"
-date: 2023-08-31T22:43:55-04:00
-draft: false
-image: "img/group4.jpeg"
+date: 2026-04-16
 ---
 
 #### Inicio de clases: 2 de marzo

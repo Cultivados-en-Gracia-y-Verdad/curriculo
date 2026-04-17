@@ -1,8 +1,8 @@
 ---
 Title: "04 Romanos 1-8"
-Date: 13/10/2022
-header: CC3D - Del Edén al Calvario
-footer: Derechos reservados @DM2 2021 - CC3D es un ministerio de DM2
+Date: 2022-10-13
+header: CGV - Romanos 1-8
+footer: Derechos reservados @CGV 2026
 ---
 <a href="https://cloud.cc3d.org/index.php/apps/cms_pico/pico/cc3d-2022/plan"><img src="https://cloud.cc3d.org/index.php/apps/cms_pico/pico/cc3d-2022/assets/images/cc3d-logo-white.webp" class="logoTop"></img></a>
 
