@@ -1,321 +1,389 @@
----
-title: "Tito - ROOTS"
-Date: 2026-04-16
-Template: outline
-Author: "John Wry"
-titleIcon: "far fa-file-alt"
----
-# TITO
+### Tito 1:1 {#tito-1-1}
 
-### Tito 1:1 {#tit-1-1}
+Παῦλος δοῦλος θεοῦ, ἀπόστολος δὲ Ἰησοῦ Χριστοῦ κατὰ πίστιν ἐκλεκτῶν θεοῦ καὶ ἐπίγνωσιν ἀληθείας τῆς κατʼ εὐσέβειαν
 
-Pablo, siervo de Dios y apóstol de Jesucristo, para la fe de los escogidos de Dios y el conocimiento de la verdad que es según la piedad,
+------
 
-### Tito 1:2 {#tit-1-2}
+### Tito 1:2 {#tito-1-2}
 
-con la esperanza de la vida eterna, la cual Dios, que no miente, prometió desde los tiempos eternos,
+ἐπʼ ἐλπίδι ζωῆς αἰωνίου, ἣν ἐπηγγείλατο ὁ ἀψευδὴς θεὸς πρὸ χρόνων αἰωνίων
 
 - ἐπηγγείλατο (V-AMI-3S) ==prometió== [F]
 
-### Tito 1:3 {#tit-1-3}
+------
 
-y a su debido tiempo manifestó su palabra por la predicación que me fue confiada conforme al mandamiento de Dios nuestro Salvador,
+### Tito 1:3 {#tito-1-3}
+
+ἐφανέρωσεν δὲ καιροῖς ἰδίοις, τὸν λόγον αὐτοῦ ἐν κηρύγματι ὃ ἐπιστεύθην ἐγὼ κατʼ ἐπιταγὴν τοῦ σωτῆρος ἡμῶν θεοῦ,
 
 - ἐφανέρωσεν (V-AAI-3S) ==manifestó== [F]
-- ἐπιστεύθην (V-API-1S) ==me fue confiada== [F]
+- ἐπιστεύθην (V-API-1S) ==fui confiado== [F]
 
-### Tito 1:4 {#tit-1-4}
+------
 
-a Tito, verdadero hijo en la fe común: Gracia y paz de Dios Padre y de Cristo Jesús nuestro Salvador.
+### Tito 1:4 {#tito-1-4}
 
-### Tito 1:5 {#tit-1-5}
+Τίτῳ γνησίῳ τέκνῳ κατὰ κοινὴν πίστιν· χάρις ⸀καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς καὶ ⸂Χριστοῦ Ἰησοῦ⸃ τοῦ σωτῆρος ἡμῶν.
 
-Por esta causa te dejé en Creta, para que pusieras en orden lo que quedaba, y designaras ancianos en cada ciudad como te mandé,
+------
 
-- ἀπέλιπόν (V-AAI-1S) ==te dejé== [F]
-- ἐπιδιορθώσῃ (V-AMS-2S) ==pusieras en orden== [F]
+### Tito 1:5 {#tito-1-5}
+
+Τούτου χάριν ⸀ἀπέλιπόν σε ἐν Κρήτῃ ἵνα τὰ λείποντα ἐπιδιορθώσῃ, καὶ καταστήσῃς κατὰ πόλιν πρεσβυτέρους, ὡς ἐγώ σοι διεταξάμην,
+
+- ἀπέλιπόν (V-AAI-1S) ==dejé== [F]
+- ἐπιδιορθώσῃ (V-AAS-2S) ==pusieras en orden== [F]
 - καταστήσῃς (V-AAS-2S) ==designaras== [F]
-- διεταξάμην (V-AMI-1S) ==te mandé== [F]
+- διεταξάμην (V-AMI-1S) ==mandé== [F]
 
-### Tito 1:6 {#tit-1-6}
+------
 
-esto es, el que sea irreprensible, marido de una sola mujer, que tenga hijos creyentes, no acusados de disolución ni rebeldía.
+### Tito 1:6 {#tito-1-6}
 
-- εἶναι (V-PAN) ser [NF]
+εἴ τίς ἐστιν ἀνέγκλητος, μιᾶς γυναικὸς ἀνήρ, τέκνα ἔχων πιστά, μὴ ἐν κατηγορίᾳ ἀσωτίας ἢ ἀνυπότακτα.
+
+- ἐστιν (V-PAI-3S) ==es== [F]
 - ἔχων (V-PAP-NSM) teniendo [NF]
 
-### Tito 1:7 {#tit-1-7}
+------
 
-Porque el obispo debe ser irreprensible como administrador de Dios; no obstinado, no iracundo, no dado a la bebida, no pendenciero, no amante de ganancias deshonestas,
+### Tito 1:7 {#tito-1-7}
 
+δεῖ γὰρ τὸν ἐπίσκοπον ἀνέγκλητον εἶναι ὡς θεοῦ οἰκονόμον, μὴ αὐθάδη, μὴ ὀργίλον, μὴ πάροινον, μὴ πλήκτην, μὴ αἰσχροκερδῆ,
+
+- δεῖ (V-PAI-3S) ==es necesario== [F]
 - εἶναι (V-PAN) ser [NF]
 
-### Tito 1:8 {#tit-1-8}
+------
 
-sino hospitalario, amante de lo bueno, prudente, justo, santo, dueño de sí mismo,
+### Tito 1:8 {#tito-1-8}
 
-### Tito 1:9 {#tit-1-9}
+ἀλλὰ φιλόξενον, φιλάγαθον, σώφρονα, δίκαιον, ὅσιον, ἐγκρατῆ,
 
-reteniendo la palabra fiel que es conforme a la enseñanza, para que sea capaz también de exhortar con sana doctrina y refutar a los que contradicen.
+------
 
-- ἀντεχόμενον (V-PMP-ASM) reteniendo [NF]
-- εἶναι (V-PAN) ser [NF]
+### Tito 1:9 {#tito-1-9}
+
+ἀντεχόμενον τοῦ κατὰ τὴν διδαχὴν πιστοῦ λόγου, ἵνα δυνατὸς ᾖ καὶ παρακαλεῖν ἐν τῇ διδασκαλίᾳ τῇ ὑγιαινούσῃ καὶ τοὺς ἀντιλέγοντας ἐλέγχειν.
+
+- ἀντεχόμενον (V-PMP-NSN) reteniendo [NF]
+- ᾖ (V-PAS-3S) ==sea== [F]
 - παρακαλεῖν (V-PAN) exhortar [NF]
 - ἐλέγχειν (V-PAN) refutar [NF]
 
-### Tito 1:10 {#tit-1-10}
+------
 
-Porque hay muchos rebeldes, habladores vanos y engañadores, especialmente los de la circuncisión,
+### Tito 1:10 {#tito-1-10}
 
-- εἰσίν (V-PAI-3P) ==son== [F]
+Εἰσὶν γὰρ πολλοὶ ⸀καὶ ἀνυπότακτοι, ματαιολόγοι καὶ φρεναπάται, μάλιστα οἱ ἐκ ⸀τῆς περιτομῆς,
 
-### Tito 1:11 {#tit-1-11}
+- Εἰσὶν (V-PAI-3P) ==son== [F]
 
-a quienes es preciso tapar la boca, pues están trastornando familias enteras, enseñando por ganancias deshonestas cosas que no deben.
+------
 
-- ἐπιστομίζειν (V-PAN) tapar [NF]
+### Tito 1:11 {#tito-1-11}
+
+οὓς δεῖ ἐπιστομίζειν, οἵτινες ὅλους οἴκους ἀνατρέπουσιν διδάσκοντες ἃ μὴ δεῖ αἰσχροῦ κέρδους χάριν.
+
+- δεῖ (V-PAI-3S) ==es necesario== [F]
+- ἐπιστομίζειν (V-PAN) cerrar la boca [NF]
 - ἀνατρέπουσιν (V-PAI-3P) ==trastornan== [F]
 - διδάσκοντες (V-PAP-NPM) enseñando [NF]
 - δεῖ (V-PAI-3S) ==es necesario== [F]
 
-### Tito 1:12 {#tit-1-12}
+------
 
-Uno de ellos, su propio profeta, dijo: “Los cretenses siempre son mentirosos, malas bestias, glotones ociosos”.
+### Tito 1:12 {#tito-1-12}
 
-- εἶπεν (V-AAI-3S) ==dijo== [F]
-- εἰσίν (V-PAI-3P) ==son== [F]
+εἶπέν τις ἐξ αὐτῶν, ἴδιος αὐτῶν προφήτης, Κρῆτες ἀεὶ ψεῦσται, κακὰ θηρία, γαστέρες ἀργαί·
 
-### Tito 1:13 {#tit-1-13}
+- εἶπέν (V-AAI-3S) ==dijo== [F]
 
-Este testimonio es verdadero. Por esta causa repréndelos severamente para que sean sanos en la fe,
+------
 
-- ἐστίν (V-PAI-3S) ==es== [F]
+### Tito 1:13 {#tito-1-13}
+
+ἡ μαρτυρία αὕτη ἐστὶν ἀληθής. διʼ ἣν αἰτίαν ἔλεγχε αὐτοὺς ἀποτόμως, ἵνα ὑγιαίνωσιν ἐν τῇ πίστει,
+
+- ἐστὶν (V-PAI-3S) ==es== [F]
 - ἔλεγχε (V-PAM-2S) ==reprende== [F]
 - ὑγιαίνωσιν (V-PAS-3P) ==sean sanos== [F]
 
-### Tito 1:14 {#tit-1-14}
+------
 
-no prestando atención a mitos judaicos y a mandamientos de hombres que se apartan de la verdad.
+### Tito 1:14 {#tito-1-14}
+
+μὴ προσέχοντες Ἰουδαϊκοῖς μύθοις καὶ ἐντολαῖς ἀνθρώπων ἀποστρεφομένων τὴν ἀλήθειαν.
 
 - προσέχοντες (V-PAP-NPM) prestando atención [NF]
 - ἀποστρεφομένων (V-PMP-GPM) apartándose [NF]
 
-### Tito 1:15 {#tit-1-15}
+------
 
-Todas las cosas son puras para los puros, pero para los corrompidos e incrédulos nada es puro, sino que tanto su mente como su conciencia están corrompidas.
+### Tito 1:15 {#tito-1-15}
 
-- ἐστιν (V-PAI-3S) ==son== [F]
-- ἐστιν (V-PAI-3S) ==es== [F]
-- μεμίανται (V-RPI-3P) ==están corrompidas== [F]
+⸀πάντα καθαρὰ τοῖς καθαροῖς· τοῖς δὲ μεμιαμμένοις καὶ ἀπίστοις οὐδὲν καθαρόν, ἀλλὰ μεμίανται αὐτῶν καὶ ὁ νοῦς καὶ ἡ συνείδησις.
 
-### Tito 1:16 {#tit-1-16}
+- μεμίανται (V-RPI-3P) ==están contaminados== [F]
 
-Profesan conocer a Dios, pero con sus hechos lo niegan, siendo abominables y desobedientes e inútiles para cualquier obra buena.
+------
 
-- ὁμολογοῦσιν (V-PAI-3P) ==profesan== [F]
+### Tito 1:16 {#tito-1-16}
+
+θεὸν ὁμολογοῦσιν εἰδέναι, τοῖς δὲ ἔργοις ἀρνοῦνται, βδελυκτοὶ ὄντες καὶ ἀπειθεῖς καὶ πρὸς πᾶν ἔργον ἀγαθὸν ἀδόκιμοι.
+
+- ὁμολογοῦσιν (V-PAI-3P) ==confiesan== [F]
 - εἰδέναι (V-RAN) conocer [NF]
 - ἀρνοῦνται (V-PMI-3P) ==niegan== [F]
 - ὄντες (V-PAP-NPM) siendo [NF]
 
-### Tito 2:1 {#tit-2-1}
+### Tito 2:1 {#tito-2-1}
 
-Pero en cuanto a ti, enseña lo que está de acuerdo con la sana doctrina.
+Σὺ δὲ λάλει ἃ πρέπει τῇ ὑγιαινούσῃ διδασκαλίᾳ.
 
 - λάλει (V-PAM-2S) ==habla== [F]
-- πρέπει (V-PAI-3S) ==está== [F]
+- πρέπει (V-PAI-3S) ==es apropiado== [F]
 
-### Tito 2:2 {#tit-2-2}
+------
 
-que los ancianos sean sobrios, dignos, prudentes, sanos en la fe, en el amor, en la perseverancia.
+### Tito 2:2 {#tito-2-2}
 
-- εἶναι (V-PAN) ser [NF]
-
-### Tito 2:3 {#tit-2-3}
-
-Asimismo, las ancianas deben ser reverentes en su conducta, no calumniadoras ni esclavas de mucho vino, que enseñen lo bueno,
+πρεσβύτας νηφαλίους εἶναι, σεμνούς, σώφρονας, ὑγιαίνοντας τῇ πίστει, τῇ ἀγάπῃ, τῇ ὑπομονῇ.
 
 - εἶναι (V-PAN) ser [NF]
-- δεδουλωμένας (V-RPP-APF) esclavizadas [NF]
+- ὑγιαίνοντας (V-PAP-APM) estando sanos [NF]
+
+------
+
+### Tito 2:3 {#tito-2-3}
+
+Πρεσβύτιδας ὡσαύτως ἐν καταστήματι ἱεροπρεπεῖς, μὴ διαβόλους ⸀μηδὲ οἴνῳ πολλῷ δεδουλωμένας, καλοδιδασκάλους,
+
+- δεδουλωμένας (V-RPP-APF) habiendo sido esclavizadas [NF]
+
+------
+
+### Tito 2:4 {#tito-2-4}
+
+ἵνα ⸀σωφρονίζωσι τὰς νέας φιλάνδρους εἶναι, φιλοτέκνους,
+
+- σωφρονίζωσι (V-PAS-3P) ==instruyan a ser prudentes== [F]
 - εἶναι (V-PAN) ser [NF]
 
-### Tito 2:4 {#tit-2-4}
+------
 
-para que enseñen a las jóvenes a que amen a sus maridos, a que amen a sus hijos,
+### Tito 2:5 {#tito-2-5}
 
-- σωφρονίζωσιν (V-PAS-3P) ==enseñen== [F]
+σώφρονας, ἁγνάς, ⸀οἰκουργούς, ἀγαθάς, ὑποτασσομένας τοῖς ἰδίοις ἀνδράσιν, ἵνα μὴ ὁ λόγος τοῦ θεοῦ βλασφημῆται.
 
-### Tito 2:5 {#tit-2-5}
+- ὑποτασσομένας (V-PMP-APF) sujetándose [NF]
+- βλασφημῆται (V-PPS-3S) ==sea blasfemado== [F]
 
-a ser prudentes, puras, hacendosas en el hogar, amables, sujetas a sus maridos, para que la palabra de Dios no sea blasfemada.
+------
 
-- εἶναι (V-PAN) ser [NF]
-- ὑποτασσομένας (V-PPP-APF) sujetas [NF]
-- βλασφημῆται (V-PPS-3S) ==sea blasfemada== [F]
+### Tito 2:6 {#tito-2-6}
 
-### Tito 2:6 {#tit-2-6}
-
-Asimismo, exhorta a los jóvenes a que sean prudentes;
+Τοὺς νεωτέρους ὡσαύτως παρακάλει σωφρονεῖν·
 
 - παρακάλει (V-PAM-2S) ==exhorta== [F]
 - σωφρονεῖν (V-PAN) ser prudentes [NF]
 
-### Tito 2:7 {#tit-2-7}
+------
 
-muéstrate en todo como ejemplo de buenas obras, con pureza de doctrina, con dignidad,
+### Tito 2:7 {#tito-2-7}
+
+περὶ πάντα σεαυτὸν παρεχόμενος τύπον καλῶν ἔργων, ἐν τῇ διδασκαλίᾳ ⸀ἀφθορίαν, ⸀σεμνότητα,
 
 - παρεχόμενος (V-PMP-NSM) mostrándote [NF]
 
-### Tito 2:8 {#tit-2-8}
+------
 
-palabra sana e irreprochable, a fin de que el adversario se avergüence al no tener nada malo que decir de nosotros.
+### Tito 2:8 {#tito-2-8}
 
-- ἔχῃ (V-PAS-3S) ==tenga== [F]
+λόγον ὑγιῆ ἀκατάγνωστον, ἵνα ὁ ἐξ ἐναντίας ἐντραπῇ μηδὲν ἔχων ⸂λέγειν περὶ ἡμῶν⸃ φαῦλον.
+
 - ἐντραπῇ (V-APS-3S) ==se avergüence== [F]
-- λέγειν (V-PAN) decir [NF]
 - ἔχων (V-PAP-NSM) teniendo [NF]
+- λέγειν (V-PAN) decir [NF]
 
-### Tito 2:9 {#tit-2-9}
+------
 
-Exhorta a los siervos a que se sujeten a sus amos en todo, que sean complacientes, no contradiciendo,
+### Tito 2:9 {#tito-2-9}
 
-- ὑποτάσσεσθαι (V-PPN) sujetarse [NF]
+Δούλους ἰδίοις δεσπόταις ὑποτάσσεσθαι ἐν πᾶσιν, εὐαρέστους εἶναι, μὴ ἀντιλέγοντας,
+
+- ὑποτάσσεσθαι (V-PMN) sujetarse [NF]
 - εἶναι (V-PAN) ser [NF]
-- ἀντιλέγειν (V-PAN) contradiciendo [NF]
+- ἀντιλέγοντας (V-PAP-APM) contradiciendo [NF]
 
-### Tito 2:10 {#tit-2-10}
+------
 
-no defraudando, sino mostrando toda buena fe, para que adornen la doctrina de Dios nuestro Salvador en todo respeto.
+### Tito 2:10 {#tito-2-10}
+
+μὴ νοσφιζομένους, ἀλλὰ ⸂πᾶσαν πίστιν⸃ ἐνδεικνυμένους ἀγαθήν, ἵνα τὴν διδασκαλίαν ⸀τὴν τοῦ σωτῆρος ἡμῶν θεοῦ κοσμῶσιν ἐν πᾶσιν.
 
 - νοσφιζομένους (V-PMP-APM) defraudando [NF]
 - ἐνδεικνυμένους (V-PMP-APM) mostrando [NF]
 - κοσμῶσιν (V-PAS-3P) ==adornen== [F]
 
-### Tito 2:11 {#tit-2-11}
+------
 
-Porque la gracia de Dios se ha manifestado, trayendo salvación a todos los hombres,
+### Tito 2:11 {#tito-2-11}
 
-- ἐπεφάνη (V-API-3S) ==se ha manifestado== [F]
+Ἐπεφάνη γὰρ ἡ χάρις τοῦ ⸀θεοῦ σωτήριος πᾶσιν ἀνθρώποις
 
-### Tito 2:12 {#tit-2-12}
+- Ἐπεφάνη (V-API-3S) ==se manifestó== [F]
 
-enseñándonos, que negando la impiedad y los deseos mundanos, vivamos en este siglo sobria, justa y piadosamente,
+------
 
-- παιδεύουσα (V-PAP-NSF) enseñando [NF]
-- ἀρνησάμενοι (V-AMP-NPM) negando [NF]
+### Tito 2:12 {#tito-2-12}
+
+παιδεύουσα ἡμᾶς, ἵνα ἀρνησάμενοι τὴν ἀσέβειαν καὶ τὰς κοσμικὰς ἐπιθυμίας σωφρόνως καὶ δικαίως καὶ εὐσεβῶς ζήσωμεν ἐν τῷ νῦν αἰῶνι,
+
+- παιδεύουσα (V-PAP-NSF) instruyendo [NF]
+- ἀρνησάμενοι (V-AMP-NPM) habiendo negado [NF]
 - ζήσωμεν (V-AAS-1P) ==vivamos== [F]
 
-### Tito 2:13 {#tit-2-13}
+------
 
-aguardando la esperanza bienaventurada y la manifestación de la gloria de nuestro gran Dios y Salvador Cristo Jesús,
+### Tito 2:13 {#tito-2-13}
 
-- προσδεχόμενοι (V-PMP-NPM) aguardando [NF]
+προσδεχόμενοι τὴν μακαρίαν ἐλπίδα καὶ ἐπιφάνειαν τῆς δόξης τοῦ μεγάλου θεοῦ καὶ σωτῆρος ἡμῶν ⸂Ἰησοῦ Χριστοῦ⸃,
 
-### Tito 2:14 {#tit-2-14}
+- προσδεχόμενοι (V-PMP-NPM) esperando [NF]
 
-quien se dio a sí mismo por nosotros, para redimirnos de toda iniquidad y purificar para sí un pueblo para posesión suya, celoso de buenas obras.
+------
 
-- ἔδωκεν (V-AAI-3S) ==se dio== [F]
+### Tito 2:14 {#tito-2-14}
+
+ὃς ἔδωκεν ἑαυτὸν ὑπὲρ ἡμῶν ἵνα λυτρώσηται ἡμᾶς ἀπὸ πάσης ἀνομίας καὶ καθαρίσῃ ἑαυτῷ λαὸν περιούσιον, ζηλωτὴν καλῶν ἔργων.
+
+- ἔδωκεν (V-AAI-3S) ==dio== [F]
 - λυτρώσηται (V-AMS-3S) ==redima== [F]
 - καθαρίσῃ (V-AAS-3S) ==purifique== [F]
 
-### Tito 2:15 {#tit-2-15}
+------
 
-Esto habla, exhorta y reprende con toda autoridad. Que nadie te menosprecie.
+### Tito 2:15 {#tito-2-15}
+
+Ταῦτα λάλει καὶ παρακάλει καὶ ἔλεγχε μετὰ πάσης ἐπιταγῆς· μηδείς σου περιφρονείτω.
 
 - λάλει (V-PAM-2S) ==habla== [F]
 - παρακάλει (V-PAM-2S) ==exhorta== [F]
 - ἔλεγχε (V-PAM-2S) ==reprende== [F]
 - περιφρονείτω (V-PAM-3S) ==menosprecie== [F]
 
-### Tito 3:1 {#tit-3-1}
+### Tito 3:1 {#tito-3-1}
 
-Recuérdales que se sujeten a los gobernantes y autoridades, que sean obedientes, que estén preparados para toda buena obra,
+Ὑπομίμνῃσκε αὐτοὺς ⸀ἀρχαῖς ἐξουσίαις ὑποτάσσεσθαι πειθαρχεῖν, πρὸς πᾶν ἔργον ἀγαθὸν ἑτοίμους εἶναι,
 
-- ὑποτάσσεσθαι (V-PPN) sujetarse [NF]
+- Ὑπομίμνῃσκε (V-PAM-2S) ==recuerda== [F]
+- ὑποτάσσεσθαι (V-PMN) sujetarse [NF]
 - πειθαρχεῖν (V-PAN) obedecer [NF]
-- εἶναι (V-PAN) estar [NF]
+- εἶναι (V-PAN) ser [NF]
 
-### Tito 3:2 {#tit-3-2}
+------
 
-que no injurien a nadie, que no sean contenciosos, sino amables, mostrando toda consideración para con todos los hombres.
+### Tito 3:2 {#tito-3-2}
 
-- βλασφημεῖν (V-PAN) injuriar [NF]
+μηδένα βλασφημεῖν, ἀμάχους εἶναι, ἐπιεικεῖς, πᾶσαν ἐνδεικνυμένους πραΰτητα πρὸς πάντας ἀνθρώπους.
+
+- βλασφημεῖν (V-PAN) hablar mal [NF]
 - εἶναι (V-PAN) ser [NF]
 - ἐνδεικνυμένους (V-PMP-APM) mostrando [NF]
 
-### Tito 3:3 {#tit-3-3}
+------
 
-Porque nosotros también éramos en otro tiempo insensatos, desobedientes, extraviados, esclavos de deleites y placeres diversos, viviendo en malicia y envidia, aborrecibles y odiándonos unos a otros.
+### Tito 3:3 {#tito-3-3}
+
+ἦμεν γάρ ποτε καὶ ἡμεῖς ἀνόητοι, ἀπειθεῖς, πλανώμενοι, δουλεύοντες ἐπιθυμίαις καὶ ἡδοναῖς ποικίλαις, ἐν κακίᾳ καὶ φθόνῳ διάγοντες, στυγητοί, μισοῦντες ἀλλήλους.
 
 - ἦμεν (V-IAI-1P) ==éramos== [F]
-- πλανώμενοι (V-PPP-NPM) extraviados [NF]
+- πλανώμενοι (V-PMP-NPM) extraviados [NF]
 - δουλεύοντες (V-PAP-NPM) sirviendo [NF]
 - διάγοντες (V-PAP-NPM) viviendo [NF]
 - μισοῦντες (V-PAP-NPM) odiando [NF]
 
-### Tito 3:4 {#tit-3-4}
+------
 
-Pero cuando se manifestó la bondad de Dios nuestro Salvador, y su amor hacia la humanidad,
+### Tito 3:4 {#tito-3-4}
+
+ὅτε δὲ ἡ χρηστότης καὶ ἡ φιλανθρωπία ἐπεφάνη τοῦ σωτῆρος ἡμῶν θεοῦ,
 
 - ἐπεφάνη (V-API-3S) ==se manifestó== [F]
 
-### Tito 3:5 {#tit-3-5}
+------
 
-Él nos salvó, no por obras de justicia que nosotros hubiéramos hecho, sino conforme a su misericordia, por medio del lavamiento de la regeneración y la renovación por el Espíritu Santo,
+### Tito 3:5 {#tito-3-5}
 
-- ἔσωσεν (V-AAI-3S) ==nos salvó== [F]
-- ποιήσαμεν (V-AAI-1P) ==hicimos== [F]
+οὐκ ἐξ ἔργων τῶν ἐν δικαιοσύνῃ ⸀ἃ ἐποιήσαμεν ἡμεῖς ἀλλὰ κατὰ ⸂τὸ αὐτοῦ ἔλεος⸃ ἔσωσεν ἡμᾶς διὰ λουτροῦ παλιγγενεσίας καὶ ἀνακαινώσεως πνεύματος ἁγίου,
 
-### Tito 3:6 {#tit-3-6}
+- ἐποιήσαμεν (V-AAI-1P) ==hicimos== [F]
+- ἔσωσεν (V-AAI-3S) ==salvó== [F]
 
-el cual derramó sobre nosotros abundantemente por medio de Jesucristo nuestro Salvador,
+------
+
+### Tito 3:6 {#tito-3-6}
+
+οὗ ἐξέχεεν ἐφʼ ἡμᾶς πλουσίως διὰ Ἰησοῦ Χριστοῦ τοῦ σωτῆρος ἡμῶν,
 
 - ἐξέχεεν (V-AAI-3S) ==derramó== [F]
 
-### Tito 3:7 {#tit-3-7}
+------
 
-para que justificados por su gracia fuéramos hechos herederos según la esperanza de la vida eterna.
+### Tito 3:7 {#tito-3-7}
 
-- δικαιωθέντες (V-APP-NPM) justificados [NF]
-- γενηθῶμεν (V-APS-1P) ==fuéramos hechos== [F]
+ἵνα δικαιωθέντες τῇ ἐκείνου χάριτι κληρονόμοι ⸀γενηθῶμεν κατʼ ἐλπίδα ζωῆς αἰωνίου.
 
-### Tito 3:8 {#tit-3-8}
+- δικαιωθέντες (V-APP-NPM) habiendo sido justificados [NF]
+- γενηθῶμεν (V-AAS-1P) ==seamos hechos== [F]
 
-Palabra fiel es esta; y en cuanto a estas cosas quiero que hables con firmeza, para que los que han creído en Dios procuren ocuparse en buenas obras. Estas cosas son buenas y útiles para los hombres.
+------
 
-- ἐστιν (V-PAI-3S) ==es== [F]
-- βούλομαι (V-PMI-1S) ==quiero== [F]
-- διαβεβαιοῦσθαι (V-PMN) afirmar [NF]
-- πεπιστευκότες (V-RAP-NPM) han creído [NF]
+### Tito 3:8 {#tito-3-8}
+
+Πιστὸς ὁ λόγος, καὶ περὶ τούτων βούλομαί σε διαβεβαιοῦσθαι, ἵνα φροντίζωσιν καλῶν ἔργων προΐστασθαι οἱ πεπιστευκότες θεῷ. ταῦτά ⸀ἐστιν καλὰ καὶ ὠφέλιμα τοῖς ἀνθρώποις·
+
+- βούλομαί (V-PMI-1S) ==quiero== [F]
+- διαβεβαιοῦσθαι (V-PMN) afirmar con firmeza [NF]
 - φροντίζωσιν (V-PAS-3P) ==procuren== [F]
 - προΐστασθαι (V-PMN) ocuparse [NF]
-- ἐστιν (V-PAI-3S) ==son== [F]
+- πεπιστευκότες (V-RAP-NPM) habiendo creído [NF]
+- ἐστιν (V-PAI-3S) ==es== [F]
 
-### Tito 3:9 {#tit-3-9}
+------
 
-Pero evita controversias necias, genealogías, contiendas y discusiones acerca de la ley, porque son inútiles y vanas.
+### Tito 3:9 {#tito-3-9}
+
+μωρὰς δὲ ζητήσεις καὶ γενεαλογίας καὶ ⸀ἔρεις καὶ μάχας νομικὰς περιΐστασο, εἰσὶν γὰρ ἀνωφελεῖς καὶ μάταιοι.
 
 - περιΐστασο (V-PMM-2S) ==evita== [F]
-- εἰσίν (V-PAI-3P) ==son== [F]
+- εἰσὶν (V-PAI-3P) ==son== [F]
 
-### Tito 3:10 {#tit-3-10}
+------
 
-Al hombre que cause divisiones, después de la primera y segunda amonestación, recházalo,
+### Tito 3:10 {#tito-3-10}
+
+αἱρετικὸν ἄνθρωπον μετὰ μίαν καὶ δευτέραν νουθεσίαν παραιτοῦ,
 
 - παραιτοῦ (V-PMM-2S) ==rechaza== [F]
 
-### Tito 3:11 {#tit-3-11}
+------
 
-sabiendo que el tal es perverso y peca, habiéndose condenado a sí mismo.
+### Tito 3:11 {#tito-3-11}
+
+εἰδὼς ὅτι ἐξέστραπται ὁ τοιοῦτος καὶ ἁμαρτάνει, ὢν αὐτοκατάκριτος.
 
 - εἰδὼς (V-RAP-NSM) sabiendo [NF]
-- ἐξέστραπται (V-RPI-3S) ==es perverso== [F]
+- ἐξέστραπται (V-RPI-3S) ==se ha pervertido== [F]
 - ἁμαρτάνει (V-PAI-3S) ==peca== [F]
 - ὢν (V-PAP-NSM) siendo [NF]
 
-### Tito 3:12 {#tit-3-12}
+------
 
-Cuando te envíe a Artemas o a Tíquico, apresúrate a venir a mí a Nicópolis, porque allí he decidido pasar el invierno.
+### Tito 3:12 {#tito-3-12}
+
+Ὅταν πέμψω Ἀρτεμᾶν πρὸς σὲ ἢ Τυχικόν, σπούδασον ἐλθεῖν πρός με εἰς Νικόπολιν, ἐκεῖ γὰρ κέκρικα παραχειμάσαι.
 
 - πέμψω (V-AAS-1S) ==envíe== [F]
 - σπούδασον (V-AAM-2S) ==apresúrate== [F]
@@ -323,26 +391,31 @@ Cuando te envíe a Artemas o a Tíquico, apresúrate a venir a mí a Nicópolis,
 - κέκρικα (V-RAI-1S) ==he decidido== [F]
 - παραχειμάσαι (V-AAN) pasar el invierno [NF]
 
-### Tito 3:13 {#tit-3-13}
+------
 
-Encamina con diligencia a Zenas, intérprete de la ley, y a Apolos, para que nada les falte.
+### Tito 3:13 {#tito-3-13}
+
+Ζηνᾶν τὸν νομικὸν καὶ ⸀Ἀπολλῶν σπουδαίως πρόπεμψον, ἵνα μηδὲν αὐτοῖς λείπῃ.
 
 - πρόπεμψον (V-AAM-2S) ==encamina== [F]
 - λείπῃ (V-PAS-3S) ==falte== [F]
 
-### Tito 3:14 {#tit-3-14}
+------
 
-Y que los nuestros aprendan también a ocuparse en buenas obras, atendiendo a las necesidades apremiantes, para que no sean sin fruto.
+### Tito 3:14 {#tito-3-14}
+
+μανθανέτωσαν δὲ καὶ οἱ ἡμέτεροι καλῶν ἔργων προΐστασθαι εἰς τὰς ἀναγκαίας χρείας, ἵνα μὴ ὦσιν ἄκαρποι.
 
 - μανθανέτωσαν (V-PAM-3P) ==aprendan== [F]
 - προΐστασθαι (V-PMN) ocuparse [NF]
-- εἶναι (V-PAN) ser [NF]
+- ὦσιν (V-PAS-3P) ==sean== [F]
 
-### Tito 3:15 {#tit-3-15}
+------
 
-Todos los que están conmigo te saludan. Saluda a los que nos aman en la fe. La gracia sea con todos ustedes.
+### Tito 3:15 {#tito-3-15}
 
-- ἀσπάζονται (V-PMI-3P) ==saludan== [F]
-- ἀσπάζου (V-PMM-2S) ==saluda== [F]
+Ἀσπάζονταί σε οἱ μετʼ ἐμοῦ πάντες. ἄσπασαι τοὺς φιλοῦντας ἡμᾶς ἐν πίστει. ἡ χάρις μετὰ πάντων ⸀ὑμῶν.
+
+- Ἀσπάζονταί (V-PMI-3P) ==saludan== [F]
+- ἄσπασαι (V-PMM-2S) ==saluda== [F]
 - φιλοῦντας (V-PAP-APM) amando [NF]
-- εἴη (V-POS-3S) ==sea== [F]

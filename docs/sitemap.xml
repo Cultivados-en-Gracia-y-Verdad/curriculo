@@ -20,13 +20,7 @@
     <loc>http://localhost:1313/horario/</loc>
     <lastmod>2026-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/roots/index-old/</loc>
-    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/roots/romanos-verbos/</loc>
-    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/roots/tito-verbos/</loc>
     <lastmod>2026-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/plan-de-estudios/</loc>
@@ -41,55 +35,19 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2023-08-27T21:53:01-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/roots/2cor/</loc>
+    <loc>http://localhost:1313/roots/file-creation-process/</loc>
   </url><url>
-    <loc>http://localhost:1313/roots/2john/</loc>
+    <loc>http://localhost:1313/roots/readme/</loc>
   </url><url>
-    <loc>http://localhost:1313/roots/2pet/</loc>
+    <loc>http://localhost:1313/roots/sblgnt/2tesalonicenses/</loc>
   </url><url>
-    <loc>http://localhost:1313/roots/2thess/</loc>
+    <loc>http://localhost:1313/roots/sblgnt/galatas/</loc>
   </url><url>
-    <loc>http://localhost:1313/roots/2tim/</loc>
+    <loc>http://localhost:1313/roots/sblgnt/juan/</loc>
   </url><url>
-    <loc>http://localhost:1313/roots/3john/</loc>
+    <loc>http://localhost:1313/roots/tito-verbos/</loc>
   </url><url>
-    <loc>http://localhost:1313/roots/acts/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/col/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/eph/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/gal/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/heb/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/jas/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/john/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/jude/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/luke/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/mark/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/matt/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/phil/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/phlm/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/rev/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/1cor/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/1john/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/1pet/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/1thess/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/1tim/</loc>
+    <loc>http://localhost:1313/roots/sblgnt/1corintios/</loc>
   </url><url>
     <loc>http://localhost:1313/admisiones/</loc>
   </url><url>
@@ -101,10 +59,10 @@
   </url><url>
     <loc>http://localhost:1313/radio/</loc>
   </url><url>
-    <loc>http://localhost:1313/roots/rom/</loc>
+    <loc>http://localhost:1313/roots/sblgnt/romanos/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/roots/titus/</loc>
+    <loc>http://localhost:1313/roots/sblgnt/tito/</loc>
   </url>
 </urlset>

@@ -21,6 +21,7 @@ titleIcon: "far fa-file-alt"
 - ἐξεπτύσατε (V-AAI-2P) → ==rechazaron==
 - ἐδέξασθε (V-AMI-2P) → ==recibieron==
 # Gálatas 4:15
+
 - ἦν (V-IAI-3S) → ==estaba==
 - μαρτυρῶ (V-PAI-1S) → ==doy testimonio==
 - ἐξορύξαντες (V-AAP-NPM) → ❌
