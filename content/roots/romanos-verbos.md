@@ -1,1552 +1,1719 @@
----
-title: "Romanos - verbos finitos"
-Date: 2026-04-16
-Template: outline
-Author: "John Wry"
-titleIcon: "far fa-file-alt"
----
+### Rom 1:1 {#rom-1-1}
+Παῦλος δοῦλος ⸂Χριστοῦ Ἰησοῦ⸃, κλητὸς ἀπόστολος, ἀφωρισμένος εἰς εὐαγγέλιον θεοῦ 
 
-# Romanos 1:1
-- ἀφωρισμένος (V-RPP-NSM) → ❌
-# Romanos 1:2
-- προεπηγγείλατο (V-AMI-3S) → ==prometió==
-# Romanos 1:3
-- γενομένου (V-2AMP-GSM) → ❌
-# Romanos 1:4
-- ὁρισθέντος (V-APP-GSM) → ❌
-# Romanos 1:5
-- ἐλάβομεν (V-AAI-1P) → ==recibimos==
-- ὑπακοὴν (N-ASF) → ❌
-# Romanos 1:6
-- ἐστε (V-PAI-2P) → ==son==
-# Romanos 1:7
-- ἐστε (V-PAI-2P) → ==son==
-- εἴη (V-PAO-3S) → ==sea==
-# Romanos 1:8
-- εὐχαριστῶ (V-PAI-1S) → ==doy gracias==
-- καταγγέλλεται (V-PPI-3S) → ==es proclamada==
-# Romanos 1:9
-- λατρεύω (V-PAI-1S) → ==sirvo==
-- μνείαν (N-ASF) → ❌
-- ποιοῦμαι (V-PMI-1S) → ==hago==
-# Romanos 1:10
-- δεόμενος (V-PMP-NSM) → ❌
-- εὐοδωθήσομαι (V-FPI-1S) → ==sea prosperado==
-# Romanos 1:11
-- ἐπιποθῶ (V-PAI-1S) → ==deseo==
-- ἰδεῖν (V-AAN) → ❌
-- μεταδῶ (V-AAS-1S) → ==imparta==
-# Romanos 1:12
-- ἐστιν (V-PAI-3S) → ==es==
-# Romanos 1:13
-- θέλω (V-PAI-1S) → ==quiero==
-- ἀγνοεῖν (V-PAN) → ❌
-- προεθέμην (V-AMI-1S) → ==me propuse==
-- ἐκωλύθην (V-API-1S) → ==he sido impedido==
-# Romanos 1:14
-- εἰμι (V-PAI-1S) → ==soy==
-# Romanos 1:15
-- εἰμι (V-PAI-1S) → ==estoy==
-- εὐαγγελίσασθαι (V-AMN) → ❌
-# Romanos 1:16
-- ἐπαισχύνομαι (V-PMI-1S) → ==me avergüenzo==
-- ἐστίν (V-PAI-3S) → ==es==
-# Romanos 1:17
-- ἀποκαλύπτεται (V-PPI-3S) → ==se revela==
-- γέγραπται (V-RPI-3S) → ==está escrito==
-- ζήσεται (V-FMI-3S) → ==vivirá==
-# Romanos 1:18
-- ἀποκαλύπτεται (V-PPI-3S) → ==se revela==
-- κατεχόντων (V-PAP-GPM) → ❌
-# Romanos 1:19
-- ἐστιν (V-PAI-3S) → ==es==
-- ἐφανέρωσεν (V-AAI-3S) → ==manifestó==
-# Romanos 1:20
-- καθορᾶται (V-PPI-3S) → ==se perciben claramente==
-- νοούμενα (V-PPP-NPN) → ❌
-- εἰσιν (V-PAI-3P) → ==son==
-# Romanos 1:21
-- ἐγνώσαντες (V-AAP-NPM) → ❌
-- ἐδόξασαν (V-AAI-3P) → ==glorificaron==
-- ηὐχαρίστησαν (V-AAI-3P) → ==dieron gracias==
-- ἐματαιώθησαν (V-API-3P) → ==se envanecieron==
-- ἐσκοτίσθη (V-API-3S) → ==se entenebreció==
-# Romanos 1:22
-- φάσκοντες (V-PAP-NPM) → ❌
-- εἶναι (V-PAN) → ❌
-- ἐμωράνθησαν (V-API-3P) → ==se hicieron necios==
-# Romanos 1:23
-- ἤλλαξαν (V-AAI-3P) → ==cambiaron==
-# Romanos 1:24
-- παρέδωκεν (V-AAI-3S) → ==entregó==
-- ἀτιμάζεσθαι (V-PPN) → ❌
-# Romanos 1:25
-- μετήλλαξαν (V-AAI-3P) → ==cambiaron==
-- ἐσεβάσθησαν (V-API-3P) → ==adoraron==
-- ἐλάτρευσαν (V-AAI-3P) → ==sirvieron==
-- ἐστιν (V-PAI-3S) → ==es==
-# Romanos 1:26
-- παρέδωκεν (V-AAI-3S) → ==entregó==
-- μετήλλαξαν (V-AAI-3P) → ==cambiaron==
-# Romanos 1:27
-- ἀφέντες (V-AAP-NPM) → ❌
-- ἐξεκαύθησαν (V-API-3P) → ==se encendieron==
-- κατεργαζόμενοι (V-PMP-NPM) → ❌
-- ἀπολαμβάνοντες (V-PAP-NPM) → ❌
-# Romanos 1:28
-- ἐδοκίμασαν (V-AAI-3P) → ==no aprobaron==
-- ἔχειν (V-PAN) → ❌
-- παρέδωκεν (V-AAI-3S) → ==entregó==
-- ποιεῖν (V-PAN) → ❌
-# Romanos 1:29
-- πεπληρωμένους (V-RPP-APM) → ❌
-# Romanos 1:30
-- εἰσιν (V-PAI-3P) → ==son==
-# Romanos 1:31
-- εἰσιν (V-PAI-3P) → ==son==
-# Romanos 1:32
-- ἐπιγνόντες (V-AAP-NPM) → ❌
 
-- εἰσιν (V-PAI-3P) → ==son==
+### Rom 1:2 {#rom-1-2}
+ὃ προεπηγγείλατο διὰ τῶν προφητῶν αὐτοῦ ἐν γραφαῖς ἁγίαις 
 
-- πράσσοντες (V-PAP-NPM) → ❌
 
-- συνευδοκοῦσιν (V-PAI-3P) → ==aprueban==
+### Rom 1:3 {#rom-1-3}
+περὶ τοῦ υἱοῦ αὐτοῦ, τοῦ γενομένου ἐκ σπέρματος Δαυὶδ κατὰ σάρκα, 
 
-# Romanos 2:1
-- εἶ (V-PAI-2S) → ==eres==
-- κρίνων (V-PAP-NSM) → ❌
-- κατακρίνεις (V-PAI-2S) → ==condenas==
-- πράσσων (V-PAP-NSM) → ❌
-# Romanos 2:2
-- οἴδαμεν (V-RAI-1P) → ==sabemos==
-- ἐστιν (V-PAI-3S) → ==es==
-# Romanos 2:3
-- λογίζῃ (V-PMI-2S) → ==piensas==
-- ἐκφεύξῃ (V-FMI-2S) → ==escaparás==
-# Romanos 2:4
-- καταφρονεῖς (V-PAI-2S) → ==desprecias==
-- ἄγει (V-PAI-3S) → ==guía==
-# Romanos 2:5
-- θησαυρίζεις (V-PAI-2S) → ==acumulas==
-- ἀποκαλύψεως (N-GSF) → ❌
-# Romanos 2:6
-- ἀποδώσει (V-FAI-3S) → ==pagará==
-# Romanos 2:7
-- ζητοῦσιν (V-PAI-3P) → ==buscan==
-# Romanos 2:8
-- ἀπειθοῦσιν (V-PAP-DPM) → ❌
-- πειθομένοις (V-PMP-DPM) → ❌
-# Romanos 2:9
-- κατεργαζομένου (V-PMP-GSM) → ❌
-# Romanos 2:10
-- κατεργαζομένῳ (V-PMP-DSM) → ❌
-# Romanos 2:11
-- ἐστιν (V-PAI-3S) → ==es==
-# Romanos 2:12
-- ἥμαρτον (V-AAI-3P) → ==pecaron==
-- ἀπολοῦνται (V-FMI-3P) → ==perecerán==
-- ἁμαρτήσαντες (V-AAP-NPM) → ❌
-- κριθήσονται (V-FPI-3P) → ==serán juzgados==
-# Romanos 2:13
-- εἰσιν (V-PAI-3P) → ==son==
-- δικαιωθήσονται (V-FPI-3P) → ==serán justificados==
-# Romanos 2:14
-- ἔχοντα (V-PAP-APN) → ❌
-- ποιῶσιν (V-PAS-3P) → ==hacen==
-- εἰσιν (V-PAI-3P) → ==son==
-# Romanos 2:15
-- ἐνδείκνυνται (V-PMI-3P) → ==muestran==
-- συμμαρτυρούσης (V-PAP-GSF) → ❌
-- κατηγορούντων (V-PAP-GPM) → ❌
-- ἀπολογουμένων (V-PMP-GPM) → ❌
-# Romanos 2:16
-- κρίνει (V-PAI-3S) → ==juzgará==
-# Romanos 2:17
-- ἐπονομάζῃ (V-PPI-2S) → ==te llamas==
-- ἐπαναπαύῃ (V-PMI-2S) → ==confías==
-- καυχᾶσαι (V-PMI-2S) → ==te glorías==
-# Romanos 2:18
-- γινώσκεις (V-PAI-2S) → ==conoces==
-- δοκιμάζεις (V-PAI-2S) → ==apruebas==
-# Romanos 2:19
-- πέποιθας (V-RAI-2S) → ==estás convencido==
-- εἶναι (V-PAN) → ❌
-# Romanos 2:20
-- ἔχοντα (V-PAP-ASM) → ❌
-# Romanos 2:21
-- διδάσκων (V-PAP-NSM) → ❌
-- διδάσκεις (V-PAI-2S) → ==enseñas==
-- κηρύσσων (V-PAP-NSM) → ❌
-- κλέπτεις (V-PAI-2S) → ==robas==
-# Romanos 2:22
-- λέγων (V-PAP-NSM) → ❌
-- μοιχεύεις (V-PAI-2S) → ==cometes adulterio==
-- βδελυσσόμενος (V-PMP-NSM) → ❌
-- ἱεροσυλεῖς (V-PAI-2S) → ==sacrilegio cometes==
-# Romanos 2:23
-- καυχώμενος (V-PMP-NSM) → ❌
-- παραβαίνεις (V-PAI-2S) → ==transgredes==
-# Romanos 2:24
-- βλασφημεῖται (V-PPI-3S) → ==es blasfemado==
-# Romanos 2:25
-- ὠφελεῖ (V-PAI-3S) → ==aprovecha==
-- πράσσῃς (V-PAS-2S) → ==practicas==
-- γέγονας (V-RAI-2S) → ==has venido a ser==
-# Romanos 2:26
-- φυλάσσῃ (V-PAS-3S) → ==guarda==
-- λογισθήσεται (V-FPI-3S) → ==será considerada==
-# Romanos 2:27
-- τελοῦσα (V-PAP-NSF) → ❌
-- κρινεῖ (V-FAI-3S) → ==juzgará==
-# Romanos 2:28
-- ἐστιν (V-PAI-3S) → ==es==
-- ἐστιν (V-PAI-3S) → ==es==
-# Romanos 2:29
-- ἐστιν (V-PAI-3S) → ==es==
-- ἐστίν (V-PAI-3S) → ==es==
-- ἐπαινεῖται (V-PPI-3S) → ==es alabado==
-# Romanos 3:1
-- περισσὸν (ADJ) → ❌
-- ἐστιν (V-PAI-3S) → ==es==
-- ὠφέλεια (N-NSF) → ❌
-# Romanos 3:2
-- ἐστιν (V-PAI-3S) → ==es==
-- ἐπιστεύθησαν (V-API-3P) → ==fueron confiados==
-# Romanos 3:3
-- ἠπίστησαν (V-AAI-3P) → ==fueron incrédulos==
-- καταργήσει (V-FAI-3S) → ==anulará==
-# Romanos 3:4
-- γένοιτο (V-AOM-3S) → ==sea==
-- γινέσθω (V-PMM-3S) → ==sea==
-- γέγραπται (V-RPI-3S) → ==está escrito==
-- δικαιωθῇς (V-APS-2S) → ==seas justificado==
-- νικήσεις (V-FAI-2S) → ==venzas==
-# Romanos 3:5
-- λέγομεν (V-PAI-1P) → ==decimos==
-- ἐστιν (V-PAI-3S) → ==es==
-- ἐπιφέρων (V-PAP-NSM) → ❌
-# Romanos 3:6
-- γένοιτο (V-AOM-3S) → ==sea==
-- κρινεῖ (V-FAI-3S) → ==juzgará==
-# Romanos 3:7
-- ἐπλεόνασεν (V-AAI-3S) → ==abundó==
-- κρίνωμαι (V-PPS-1S) → ==soy juzgado==
-# Romanos 3:8
-- λέγομεν (V-PAI-1P) → ==decimos==
-- ἐστιν (V-PAI-3S) → ==es==
-# Romanos 3:9
-- προεχόμεθα (V-PMI-1P) → ==somos mejores==
-- προῃτιασάμεθα (V-AMI-1P) → ==hemos acusado==
-- εἶναι (V-PAN) → ❌
-- εἰσιν (V-PAI-3P) → ==están==
-# Romanos 3:10
-- γέγραπται (V-RPI-3S) → ==está escrito==
-- ἐστιν (V-PAI-3S) → ==es==
-# Romanos 3:11
-- ἐστιν (V-PAI-3S) → ==hay==
-- ἐκζητῶν (V-PAP-NSM) → ❌
-# Romanos 3:12
-- ἐξέκλιναν (V-AAI-3P) → ==se desviaron==
-- ἠχρεώθησαν (V-API-3P) → ==se hicieron inútiles==
-- ἐστιν (V-PAI-3S) → ==hay==
-- ποιῶν (V-PAP-NSM) → ❌
-# Romanos 3:13
-- ἔστιν (V-PAI-3S) → ==es==
-- ἐδολιοῦσαν (V-IAI-3P) → ==engañaban==
-- ὑπὸ (PREP) → ❌
-# Romanos 3:14
-- γέμει (V-PAI-3S) → ==está llena==
-# Romanos 3:15
-- ὀξεῖς (ADJ) → ❌
-# Romanos 3:16
-- σύντριμμα (N-NSN) → ❌
-# Romanos 3:17
-- ἔγνωσαν (V-AAI-3P) → ==conocieron==
-# Romanos 3:18
-- ἔστιν (V-PAI-3S) → ==hay==
-# Romanos 3:19
-- λέγει (V-PAI-3S) → ==dice==
-- λέγει (V-PAI-3S) → ==habla==
-- φραγῇ (V-APS-3S) → ==sea cerrada==
-- γένηται (V-AMS-3S) → ==sea hecho==
-# Romanos 3:20
-- δικαιωθήσεται (V-FPI-3S) → ==será justificado==
-- ἐστιν (V-PAI-3S) → ==es==
-# Romanos 3:21
-- πεφανέρωται (V-RPI-3S) → ==ha sido manifestada==
-- μαρτυρουμένη (V-PPP-NSF) → ❌
-# Romanos 3:22
-- ἐστιν (V-PAI-3S) → ==es==
-- πιστεύοντας (V-PAP-APM) → ❌
-- ἐστιν (V-PAI-3S) → ==hay==
-# Romanos 3:23
-- ἥμαρτον (V-AAI-3P) → ==pecaron==
-- ὑστεροῦνται (V-PPI-3P) → ==están destituidos==
-# Romanos 3:24
-- δικαιούμενοι (V-PPP-NPM) → ❌
-# Romanos 3:25
-- προέθετο (V-AMI-3S) → ==presentó==
-- εἶναι (V-PAN) → ❌
-- ἔνδειξιν (N-ASF) → ❌
-- πάρεσιν (N-ASF) → ❌
-# Romanos 3:26
-- εἶναι (V-PAN) → ❌
-- δικαιοῦντα (V-PAP-ASM) → ❌
-# Romanos 3:27
-- ἐξεκλείσθη (V-API-3S) → ==quedó excluida==
-- ἐστιν (V-PAI-3S) → ==es==
-- ἐξεκλείσθη (V-API-3S) → ==quedó excluida==
-# Romanos 3:28
-- λογιζόμεθα (V-PMI-1P) → ==concluimos==
-- δικαιοῦσθαι (V-PPN) → ❌
-# Romanos 3:29
-- ἐστιν (V-PAI-3S) → ==es==
-- ἐστιν (V-PAI-3S) → ==es==
-# Romanos 3:30
-- εἶς (NUM) → ❌
-- δικαιώσει (V-FAI-3S) → ==justificará==
-# Romanos 3:31
-- καταργοῦμεν (V-PAI-1P) → ==anulamos==
-- γένοιτο (V-AOM-3S) → ==sea==
-- ἱστάνομεν (V-PAI-1P) → ==confirmamos==
 
-# Romanos 4:1
-- ἐροῦμεν (V-FAI-1P) → ==diremos==
-- εὑρηκέναι (V-RAN) → ❌
-# Romanos 4:2
-- ἐδικαιώθη (V-API-3S) → ==fue justificado==
-- ἔχει (V-PAI-3S) → ==tiene==
-# Romanos 4:3
-- λέγει (V-PAI-3S) → ==dice==
-- ἐπίστευσεν (V-AAI-3S) → ==creyó==
-- ἐλογίσθη (V-API-3S) → ==le fue contado==
-# Romanos 4:4
-- ἐργαζομένῳ (V-PMP-DSM) → ❌
-- λογίζεται (V-PPI-3S) → ==se cuenta==
-# Romanos 4:5
-- ἐργαζομένῳ (V-PMP-DSM) → ❌
-- πιστεύοντι (V-PAP-DSM) → ❌
-- δικαιοῦντα (V-PAP-ASM) → ❌
-- λογίζεται (V-PPI-3S) → ==se cuenta==
-# Romanos 4:6
-- λέγει (V-PAI-3S) → ==dice==
-- λογίζεται (V-PPI-3S) → ==se cuenta==
-# Romanos 4:7
-- ἀφέθησαν (V-API-3P) → ==fueron perdonadas==
-- ἐπεκαλύφθησαν (V-API-3P) → ==fueron cubiertos==
-# Romanos 4:8
-- λογίσηται (V-AMS-3S) → ==tome en cuenta==
-# Romanos 4:9
-- λέγομεν (V-PAI-1P) → ==decimos==
-- ἐλογίσθη (V-API-3S) → ==fue contada==
-# Romanos 4:10
-- ἐλογίσθη (V-API-3S) → ==fue contada==
-- ἦν (V-IAI-3S) → ==estaba==
-# Romanos 4:11
-- ἔλαβεν (V-AAI-3S) → ==recibió==
-- ἔχειν (V-PAN) → ❌
-- λογισθῆναι (V-APN) → ❌
-# Romanos 4:12
-- ἐστιν (V-PAI-3S) → ==es==
-- στοιχοῦσιν (V-PAI-3P) → ==siguen==
-# Romanos 4:13
-- ἐδόθη (V-API-3S) → ==fue dada==
-- εἶναι (V-PAN) → ❌
-# Romanos 4:14
-- εἰσιν (V-PAI-3P) → ==son==
-- κεκένωται (V-RPI-3S) → ==queda anulada==
-- κατήργηται (V-RPI-3S) → ==ha sido invalidada==
-# Romanos 4:15
-- κατεργάζεται (V-PMI-3S) → ==produce==
-- οὐκ ἔστιν (V-PAI-3S) → ==no hay==
-# Romanos 4:16
-- ἐστιν (V-PAI-3S) → ==es==
-- εἶναι (V-PAN) → ❌
-- βεβαίαν (ADJ) → ❌
-# Romanos 4:17
-- γέγραπται (V-RPI-3S) → ==está escrito==
-- τέθεικα (V-RAI-1S) → ==he puesto==
-- ζῳοποιοῦντος (V-PAP-GSM) → ❌
-- καλοῦντος (V-PAP-GSM) → ❌
-# Romanos 4:18
-- ἐπίστευσεν (V-AAI-3S) → ==creyó==
-- γενέσθαι (V-2AMN) → ❌
-# Romanos 4:19
-- ἀσθενήσας (V-AAP-NSM) → ❌
-- κατενόησεν (V-AAI-3S) → ==consideró==
-- νενεκρωμένον (V-RPP-ASM) → ❌
-# Romanos 4:20
-- διεκρίθη (V-API-3S) → ==vaciló==
-- ἐνεδυναμώθη (V-API-3S) → ==se fortaleció==
-# Romanos 4:21
-- πληροφορηθεὶς (V-APP-NSM) → ❌
-- ἐστιν (V-PAI-3S) → ==es==
-- ποιῆσαι (V-AAN) → ❌
-# Romanos 4:22
-- ἐλογίσθη (V-API-3S) → ==le fue contado==
-# Romanos 4:23
-- ἐγράφη (V-API-3S) → ==fue escrito==
-# Romanos 4:24
-- μέλλει (V-PAI-3S) → ==ha de ser==
-- λογίζεσθαι (V-PNN) → ❌
-- πιστεύουσιν (V-PAP-DPM) → ❌
-- ἐγείραντα (V-AAP-ASM) → ❌
-# Romanos 4:25
-- παρεδόθη (V-API-3S) → ==fue entregado==
-- ἠγέρθη (V-API-3S) → ==fue resucitado==
-# Romanos 5:1
-- δικαιωθέντες (V-APP-NPM) → ❌
-- ἔχομεν (V-PAI-1P) → ==tenemos==
-# Romanos 5:2
-- ἐσχήκαμεν (V-RAI-1P) → ==hemos obtenido==
-- ἑστήκαμεν (V-RAI-1P) → ==estamos firmes==
-- καυχώμεθα (V-PMS-1P) → ==nos gloriamos==
-# Romanos 5:3
-- καυχώμεθα (V-PMS-1P) → ==nos gloriamos==
-- εἰδότες (V-RAP-NPM) → ❌
-- κατεργάζεται (V-PMI-3S) → ==produce==
-# Romanos 5:4
-- κατεργάζεται (V-PMI-3S) → ==produce==
-# Romanos 5:5
-- καταισχύνει (V-PAI-3S) → ==avergüenza==
-- ἐκκέχυται (V-RPI-3S) → ==ha sido derramado==
-# Romanos 5:6
-- ὄντων (V-PAP-GPM) → ❌
-- ἀπέθανεν (V-AAI-3S) → ==murió==
-# Romanos 5:7
-- ἀποθανεῖται (V-FMI-3S) → ==morirá==
-- τολμᾷ (V-PAI-3S) → ==se atreve==
-# Romanos 5:8
-- συνίστησιν (V-PAI-3S) → ==demuestra==
-- ἀπέθανεν (V-AAI-3S) → ==murió==
-# Romanos 5:9
-- δικαιωθέντες (V-APP-NPM) → ❌
-- σωθησόμεθα (V-FPI-1P) → ==seremos salvos==
-# Romanos 5:10
-- ὄντες (V-PAP-NPM) → ❌
-- κατηλλάγημεν (V-API-1P) → ==fuimos reconciliados==
-- σωθησόμεθα (V-FPI-1P) → ==seremos salvos==
-# Romanos 5:11
-- καυχώμενοι (V-PMP-NPM) → ❌
-- ἐλάβομεν (V-AAI-1P) → ==hemos recibido==
-# Romanos 5:12
-- εἰσῆλθεν (V-AAI-3S) → ==entró==
-- διῆλθεν (V-AAI-3S) → ==pasó==
-- ἥμαρτον (V-AAI-3P) → ==pecaron==
-# Romanos 5:13
-- ἦν (V-IAI-3S) → ==había==
-- ἐλλογεῖται (V-PPI-3S) → ==se toma en cuenta==
-# Romanos 5:14
-- ἐβασίλευσεν (V-AAI-3S) → ==reinó==
-- ἁμαρτήσαντας (V-AAP-APM) → ❌
-# Romanos 5:15
-- ἀπέθανον (V-AAI-3P) → ==murieron==
-- ἐπερίσσευσεν (V-AAI-3S) → ==abundó==
-# Romanos 5:16
-- ἐστίν (V-PAI-3S) → ==es==
-- ἐξ ἑνὸς (PREP) → ❌
-- κατέκριμα (N-NSN) → ❌
-# Romanos 5:17
-- ἐβασίλευσεν (V-AAI-3S) → ==reinó==
-- λαμβάνοντες (V-PAP-NPM) → ❌
-- βασιλεύσουσιν (V-FAI-3P) → ==reinarán==
-# Romanos 5:18
-- ἐγένετο (V-2AMI-3S) → ==resultó==
-# Romanos 5:19
-- κατεστάθησαν (V-API-3P) → ==fueron constituidos==
-- κατασταθήσονται (V-FPI-3P) → ==serán constituidos==
-# Romanos 5:20
-- παρεισῆλθεν (V-AAI-3S) → ==se introdujo==
-- ἐπλεόνασεν (V-AAI-3S) → ==abundó==
-- ὑπερεπερίσσευσεν (V-AAI-3S) → ==sobreabundó==
-# Romanos 5:21
-- ἐβασίλευσεν (V-AAI-3S) → ==reinó==
-- βασιλεύσῃ (V-AAS-3S) → ==reine==
-- ἀγάγῃ (V-AAS-3S) → ==lleve==
-# Romanos 6:1
-- ἐροῦμεν (V-FAI-1P) → ==diremos==
-- ἐπιμένωμεν (V-PAS-1P) → ==perseveremos==
-- πλεονάσῃ (V-AAS-3S) → ==aumente==
-# Romanos 6:2
-- γένοιτο (V-AOM-3S) → ==sea==
-- ἀπεθάνομεν (V-AAI-1P) → ==morimos==
-- ζήσομεν (V-FAI-1P) → ==viviremos==
-# Romanos 6:3
-- ἀγνοεῖτε (V-PAI-2P) → ==ignoran==
-- ἐβαπτίσθημεν (V-API-1P) → ==fuimos bautizados==
-- ἐβαπτίσθημεν (V-API-1P) → ==fuimos bautizados==
-# Romanos 6:4
-- συνετάφημεν (V-API-1P) → ==fuimos sepultados==
-- ἠγέρθη (V-API-3S) → ==fue resucitado==
-- περιπατήσωμεν (V-AAS-1P) → ==andemos==
-# Romanos 6:5
-- γεγόναμεν (V-RAI-1P) → ==hemos sido==
-- ἐσόμεθα (V-FMI-1P) → ==seremos==
-# Romanos 6:6
-- γινώσκοντες (V-PAP-NPM) → ❌
-- συνεσταυρώθη (V-API-3S) → ==fue crucificado==
-- καταργηθῇ (V-APS-3S) → ==sea destruido==
-- δουλεύειν (V-PAN) → ❌
-# Romanos 6:7
-- ἀποθανὼν (V-AAP-NSM) → ❌
-- δεδικαίωται (V-RPI-3S) → ==ha sido liberado==
-# Romanos 6:8
-- ἀπεθάνομεν (V-AAI-1P) → ==morimos==
-- πιστεύομεν (V-PAI-1P) → ==creemos==
-- συζήσομεν (V-FAI-1P) → ==viviremos==
-# Romanos 6:9
-- εἰδότες (V-RAP-NPM) → ❌
-- ἐγερθεὶς (V-APP-NSM) → ❌
-- ἀποθνῄσκει (V-PAI-3S) → ==muere==
-- κυριεύει (V-PAI-3S) → ==se enseñorea==
-# Romanos 6:10
-- ἀπέθανεν (V-AAI-3S) → ==murió==
-- ζῇ (V-PAI-3S) → ==vive==
-# Romanos 6:11
-- λογίζεσθε (V-PMM-2P) → ==considérense==
-- ζῶντας (V-PAP-APM) → ❌
-# Romanos 6:12
-- βασιλευέτω (V-PAM-3S) → ==reine==
-- ὑπακούειν (V-PAN) → ❌
-# Romanos 6:13
-- παριστάνετε (V-PAM-2P) → ==presenten==
-- παραστήσατε (V-AAM-2P) → ==presenten==
-- ζῶντας (V-PAP-APM) → ❌
-# Romanos 6:14
-- κυριεύσει (V-FAI-3S) → ==se enseñoreará==
-- ἐστε (V-PAI-2P) → ==están==
-# Romanos 6:15
-- ἁμαρτήσωμεν (V-AAS-1P) → ==pecaremos==
-- ἐσμεν (V-PAI-1P) → ==estamos==
-- γένοιτο (V-AOM-3S) → ==sea==
-# Romanos 6:16
-- οἴδατε (V-RAI-2P) → ==saben==
-- παριστάνετε (V-PAI-2P) → ==se presentan==
-- ἐστε (V-PAI-2P) → ==son==
-# Romanos 6:17
-- ἦτε (V-IAI-2P) → ==eran==
-- ὑπηκούσατε (V-AAI-2P) → ==obedecieron==
-- παρεδόθητε (V-API-2P) → ==fueron entregados==
-# Romanos 6:18
-- ἐλευθερωθέντες (V-APP-NPM) → ❌
-- ἐδουλώθητε (V-API-2P) → ==fueron hechos siervos==
-# Romanos 6:19
-- λέγω (V-PAI-1S) → ==hablo==
-- παρεστήσατε (V-AAI-2P) → ==presentaron==
-- παραστήσατε (V-AAM-2P) → ==presenten==
-# Romanos 6:20
-- ἦτε (V-IAI-2P) → ==eran==
-- ἦτε (V-IAI-2P) → ==eran==
-# Romanos 6:21
-- εἴχετε (V-IAI-2P) → ==tenían==
-- ἐπαισχύνεσθε (V-PMI-2P) → ==se avergüenzan==
-- ἐστιν (V-PAI-3S) → ==es==
-# Romanos 6:22
-- ἐλευθερωθέντες (V-APP-NPM) → ❌
-- ἔχετε (V-PAI-2P) → ==tienen==
-- ἔχοντες (V-PAP-NPM) → ❌
-# Romanos 6:23
-- ἐστίν (V-PAI-3S) → ==es==
-- ἐστίν (V-PAI-3S) → ==es==
-# Romanos 7:1
-- ἀγνοεῖτε (V-PAI-2P) → ==ignoran==
-- λαλῶ (V-PAI-1S) → ==hablo==
-- κυριεύει (V-PAI-3S) → ==se enseñorea==
-# Romanos 7:2
-- δέδεται (V-RPI-3S) → ==está ligada==
-- ζῶντι (V-PAP-DSM) → ❌
-- ἀποθάνῃ (V-AAS-3S) → ==muere==
-- κατήργηται (V-RPI-3S) → ==queda libre==
-# Romanos 7:3
-- χρηματίσει (V-FAI-3S) → ==será llamada==
-- γένηται (V-AMS-3S) → ==llega a ser==
-- ἀποθάνῃ (V-AAS-3S) → ==muere==
-- ἐστίν (V-PAI-3S) → ==es==
-# Romanos 7:4
-- ἐθανατώθητε (V-API-2P) → ==han muerto==
-- γενέσθαι (V-2AMN) → ❌
-- καρποφορήσωμεν (V-AAS-1P) → ==llevemos fruto==
-# Romanos 7:5
-- ἦμεν (V-IAI-1P) → ==estábamos==
-- ἐνηργεῖτο (V-IPI-3S) → ==obraba==
-- καρποφορήσαι (V-AAN) → ❌
-# Romanos 7:6
-- κατηργήθημεν (V-API-1P) → ==hemos sido liberados==
-- ἀποθανόντες (V-AAP-NPM) → ❌
-- κατειχόμεθα (V-IPI-1P) → ==estábamos sujetos==
-- δουλεύειν (V-PAN) → ❌
-# Romanos 7:7
-- ἐροῦμεν (V-FAI-1P) → ==diremos==
-- ἐστίν (V-PAI-3S) → ==es==
-- γένοιτο (V-AOM-3S) → ==sea==
-- ἔγνων (V-AAI-1S) → ==conocí==
-- εἰ μὴ (COND) → ❌
-- ἔλεγεν (V-IAI-3S) → ==decía==
-- ἐπιθυμήσεις (V-FAI-2S) → ==codiciarás==
-# Romanos 7:8
-- λαβοῦσα (V-AAP-NSF) → ❌
-- κατειργάσατο (V-AMI-3S) → ==produjo==
-- ἐπιθυμίαν (N-ASF) → ❌
-- ἦν (V-IAI-3S) → ==estaba==
-# Romanos 7:9
-- ἔζων (V-IAI-1S) → ==vivía==
-- ἐλθούσης (V-AAP-GSF) → ❌
-- ἀνέζησεν (V-AAI-3S) → ==revivió==
-- ἀπέθανον (V-AAI-1S) → ==morí==
-# Romanos 7:10
-- εὑρέθη (V-API-3S) → ==resultó==
-- εἶναι (V-PAN) → ❌
-# Romanos 7:11
-- λαβοῦσα (V-AAP-NSF) → ❌
-- ἐξηπάτησέν (V-AAI-3S) → ==engañó==
-- ἀπέκτεινεν (V-AAI-3S) → ==mató==
-# Romanos 7:12
-- ἐστίν (V-PAI-3S) → ==es==
-# Romanos 7:13
-- ἐγένετο (V-2AMI-3S) → ==resultó==
-- γένοιτο (V-AOM-3S) → ==sea==
-- κατεργαζομένη (V-PMP-NSF) → ❌
-- φανῇ (V-AAS-3S) → ==sea manifestado==
-# Romanos 7:14
-- οἴδαμεν (V-RAI-1P) → ==sabemos==
-- ἐστίν (V-PAI-3S) → ==es==
-- εἰμι (V-PAI-1S) → ==soy==
-- πεπραμένος (V-RPP-NSM) → ❌
-# Romanos 7:15
-- κατεργάζομαι (V-PMI-1S) → ==hago==
-- γινώσκω (V-PAI-1S) → ==entiendo==
-- πράσσω (V-PAI-1S) → ==practico==
-- ποιῶ (V-PAI-1S) → ==hago==
-# Romanos 7:16
-- ποιῶ (V-PAI-1S) → ==hago==
-- συμφημι (V-PAI-1S) → ==estoy de acuerdo==
-# Romanos 7:17
-- κατεργάζομαι (V-PMI-1S) → ==hago==
-- οἰκοῦσα (V-PAP-NSF) → ❌
-# Romanos 7:18
-- οἶδα (V-RAI-1S) → ==sé==
-- οἰκεῖ (V-PAI-3S) → ==habita==
-- θέλειν (V-PAN) → ❌
-- πάρεστίν (V-PAI-3S) → ==está==
-- κατεργάζεσθαι (V-PNN) → ❌
-# Romanos 7:19
-- ποιῶ (V-PAI-1S) → ==hago==
-- πράσσω (V-PAI-1S) → ==practico==
-# Romanos 7:20
-- ποιῶ (V-PAI-1S) → ==hago==
-- κατεργάζομαι (V-PMI-1S) → ==hago==
-- οἰκοῦσα (V-PAP-NSF) → ❌
-# Romanos 7:21
-- εὑρίσκω (V-PAI-1S) → ==encuentro==
-- θέλοντι (V-PAP-DSM) → ❌
-- ποιεῖν (V-PAN) → ❌
-# Romanos 7:22
-- συνήδομαι (V-PMI-1S) → ==me deleito==
-# Romanos 7:23
-- βλέπω (V-PAI-1S) → ==veo==
-- ἀντιστρατευόμενον (V-PMP-ASM) → ❌
-- αἰχμαλωτίζοντα (V-PAP-ASM) → ❌
-# Romanos 7:24
-- ῥύσεται (V-FMI-3S) → ==librará==
-# Romanos 7:25
-- εὐχαριστῶ (V-PAI-1S) → ==doy gracias==
-- δουλεύω (V-PAI-1S) → ==sirvo==
-# Romanos 8:1
-- ἐστιν (V-PAI-3S) → ==hay==
-- περιπατοῦσιν (V-PAP-DPM) → ❌
-# Romanos 8:2
-- ἠλευθέρωσεν (V-AAI-3S) → ==ha libertado==
-# Romanos 8:3
-- ἠδύνατο (V-IPI-3S) → ==no podía==
-- πέμψας (V-AAP-NSM) → ❌
-- κατέκρινε (V-AAI-3S) → ==condenó==
-# Romanos 8:4
-- πληρωθῇ (V-APS-3S) → ==se cumpliera==
-- περιπατοῦσιν (V-PAP-DPM) → ❌
-# Romanos 8:5
-- ὄντες (V-PAP-NPM) → ❌
-- φρονοῦσιν (V-PAI-3P) → ==piensan==
-# Romanos 8:6
-- ἐστίν (V-PAI-3S) → ==es==
-- ἐστίν (V-PAI-3S) → ==es==
-# Romanos 8:7
-- ἔστιν (V-PAI-3S) → ==es==
-- ὑποτάσσεται (V-PPI-3S) → ==se sujeta==
-- δύναται (V-PMI-3S) → ==puede==
-# Romanos 8:8
-- ὄντες (V-PAP-NPM) → ❌
-- δύνανται (V-PMI-3P) → ==pueden==
-# Romanos 8:9
-- ἐστε (V-PAI-2P) → ==están==
-- οἰκεῖ (V-PAI-3S) → ==habita==
-- ἔχει (V-PAI-3S) → ==tiene==
-- ἐστιν (V-PAI-3S) → ==es==
-# Romanos 8:10
-- ἐστιν (V-PAI-3S) → ==está==
-- ζῇ (V-PAI-3S) → ==vive==
-# Romanos 8:11
-- οἰκεῖ (V-PAI-3S) → ==habita==
-- ἐγείρας (V-AAP-NSM) → ❌
-- ζῳοποιήσει (V-FAI-3S) → ==dará vida==
-- ἐνοικοῦντος (V-PAP-GSM) → ❌
-# Romanos 8:12
-- ἐσμεν (V-PAI-1P) → ==somos==
-# Romanos 8:13
-- ζῆτε (V-PAI-2P) → ==viven==
-- μέλλετε (V-PAI-2P) → ==van a==
-- ἀποθνῄσκειν (V-PAN) → ❌
-- θανατοῦτε (V-PAI-2P) → ==hacen morir==
-- ζήσεσθε (V-FMI-2P) → ==vivirán==
-# Romanos 8:14
-- ἄγονται (V-PPI-3P) → ==son guiados==
-- εἰσιν (V-PAI-3P) → ==son==
-# Romanos 8:15
-- ἐλάβετε (V-AAI-2P) → ==han recibido==
-- κράζομεν (V-PAI-1P) → ==clamamos==
-# Romanos 8:16
-- συμμαρτυρεῖ (V-PAI-3S) → ==da testimonio==
-- ἐσμεν (V-PAI-1P) → ==somos==
-# Romanos 8:17
-- ἐσμεν (V-PAI-1P) → ==somos==
-- συμπάσχομεν (V-PAI-1P) → ==padecemos==
-- συνδοξασθῶμεν (V-APS-1P) → ==seamos glorificados==
-# Romanos 8:18
-- λογίζομαι (V-PMI-1S) → ==considero==
-- μέλλει (V-PAI-3S) → ==han de==
-- ἀποκαλυφθῆναι (V-APN) → ❌
-# Romanos 8:19
-- ἀπεκδέχεται (V-PMI-3S) → ==aguarda==
-# Romanos 8:20
-- ὑπετάγη (V-API-3S) → ==fue sujetada==
-# Romanos 8:21
-- ἐλευθερωθήσεται (V-FPI-3S) → ==será libertada==
-# Romanos 8:22
-- οἴδαμεν (V-RAI-1P) → ==sabemos==
-- συστενάζει (V-PAI-3S) → ==gime==
-- συνωδίνει (V-PAI-3S) → ==sufre dolores==
-# Romanos 8:23
-- ἔχοντες (V-PAP-NPM) → ❌
-- στενάζομεν (V-PAI-1P) → ==gemimos==
-- ἀπεκδεχόμενοι (V-PMP-NPM) → ❌
-# Romanos 8:24
-- ἐσώθημεν (V-API-1P) → ==fuimos salvos==
-- βλέπει (V-PAI-3S) → ==ve==
-- ἐλπίζει (V-PAI-3S) → ==espera==
-# Romanos 8:25
-- ἐλπίζομεν (V-PAI-1P) → ==esperamos==
-- ἀπεκδεχόμεθα (V-PMI-1P) → ==aguardamos==
-# Romanos 8:26
-- συναντιλαμβάνεται (V-PMI-3S) → ==ayuda==
-- οἴδαμεν (V-RAI-1P) → ==sabemos==
-- προσευξώμεθα (V-AAS-1P) → ==oremos==
-- δεῖ (V-PAI-3S) → ==conviene==
-- ὑπερεντυγχάνει (V-PAI-3S) → ==intercede==
-# Romanos 8:27
-- ἐραυνῶν (V-PAP-NSM) → ❌
-- οἶδεν (V-RAI-3S) → ==sabe==
-- ἐντυγχάνει (V-PAI-3S) → ==intercede==
-# Romanos 8:28
-- οἴδαμεν (V-RAI-1P) → ==sabemos==
-- συνεργεῖ (V-PAI-3S) → ==coopera==
-- ἀγαπῶσιν (V-PAP-DPM) → ❌
-- κλητοῖς (ADJ) → ❌
-# Romanos 8:29
-- προέγνω (V-AAI-3S) → ==conoció==
-- προώρισεν (V-AAI-3S) → ==predestinó==
-- εἶναι (V-PAN) → ❌
-# Romanos 8:30
-- προώρισεν (V-AAI-3S) → ==predestinó==
-- ἐκάλεσεν (V-AAI-3S) → ==llamó==
-- ἐδικαίωσεν (V-AAI-3S) → ==justificó==
-- ἐδόξασεν (V-AAI-3S) → ==glorificó==
-# Romanos 8:31
-- ἐροῦμεν (V-FAI-1P) → ==diremos==
-- ἐστίν (V-PAI-3S) → ==es==
-# Romanos 8:32
-- ἐφείσατο (V-AMI-3S) → ==escatimó==
-- παρέδωκεν (V-AAI-3S) → ==entregó==
-- χαρίσεται (V-FMI-3S) → ==dará==
-# Romanos 8:33
-- ἐγκαλέσει (V-FAI-3S) → ==acusará==
-- ἐστιν (V-PAI-3S) → ==es==
-# Romanos 8:34
-- κατακρινῶν (V-PAP-NSM) → ❌
-- ἀποθανών (V-AAP-NSM) → ❌
-- ἐγερθείς (V-APP-NSM) → ❌
-- ἐστιν (V-PAI-3S) → ==está==
-- ἐντυγχάνει (V-PAI-3S) → ==intercede==
-# Romanos 8:35
-- χωρίσει (V-FAI-3S) → ==separará==
-# Romanos 8:36
-- γέγραπται (V-RPI-3S) → ==está escrito==
-# Romanos 8:37
-- ὑπερνικῶμεν (V-PAI-1P) → ==somos más que vencedores==
-- ἀγαπήσαντος (V-AAP-GSM) → ❌
-# Romanos 8:38
-- πέπεισμαι (V-RPI-1S) → ==estoy convencido==
-# Romanos 8:39
-- δυνήσεται (V-FMI-3S) → ==podrá==
-- χωρίσαι (V-AAN) → ❌
-# Romanos 9:1
-- λέγω (V-PAI-1S) → ==digo==
-- ψεύδομαι (V-PMI-1S) → ==miento==
-- συμμαρτυρούσης (V-PAP-GSF) → ❌
-# Romanos 9:2
-- ἐστίν (V-PAI-3S) → ==tengo==
-- ἔστιν (V-PAI-3S) → ==hay==
-# Romanos 9:3
-- ηὐχόμην (V-IMI-1S) → ==desearía==
-- εἶναι (V-PAN) → ❌
-# Romanos 9:4
-- εἰσιν (V-PAI-3P) → ==son==
-- ἐστιν (V-PAI-3S) → ==es==
-# Romanos 9:5
-- εἰσιν (V-PAI-3P) → ==son==
-- ὢν (V-PAP-NSM) → ❌
-- ἐστίν (V-PAI-3S) → ==es==
-# Romanos 9:6
-- ἐκπέπτωκεν (V-RAI-3S) → ==ha fallado==
-- εἰσιν (V-PAI-3P) → ==son==
-# Romanos 9:7
-- εἰσιν (V-PAI-3P) → ==son==
-- κληθήσεται (V-FPI-3S) → ==será llamada==
-# Romanos 9:8
-- εἰσιν (V-PAI-3P) → ==son==
-- λογίζεται (V-PPI-3S) → ==se considera==
-# Romanos 9:9
-- ἐστίν (V-PAI-3S) → ==es==
-- ἐλεύσομαι (V-FMI-1S) → ==vendré==
-- ἔσται (V-FMI-3S) → ==tendrá==
-# Romanos 9:10
-- ἔχουσα (V-PAP-NSF) → ❌
-# Romanos 9:11
-- γεννηθέντων (V-APP-GPM) → ❌
-- πραξάντων (V-AAP-GPM) → ❌
-- μένῃ (V-PAS-3S) → ==permanezca==
-- ἐστιν (V-PAI-3S) → ==es==
-# Romanos 9:12
-- ἐρρέθη (V-API-3S) → ==se le dijo==
-- δουλεύσει (V-FAI-3S) → ==servirá==
-# Romanos 9:13
-- γέγραπται (V-RPI-3S) → ==está escrito==
-- ἠγάπησα (V-AAI-1S) → ==amé==
-- ἐμίσησα (V-AAI-1S) → ==aborrecí==
-# Romanos 9:14
-- ἐροῦμεν (V-FAI-1P) → ==diremos==
-- ἐστίν (V-PAI-3S) → ==hay==
-- γένοιτο (V-AOM-3S) → ==sea==
-# Romanos 9:15
-- λέγει (V-PAI-3S) → ==dice==
-- ἐλεήσω (V-FAI-1S) → ==tendré misericordia==
-- οἰκτιρήσω (V-FAI-1S) → ==tendré compasión==
-# Romanos 9:16
-- ἐστίν (V-PAI-3S) → ==depende==
-- θέλοντος (V-PAP-GSM) → ❌
-- τρέχοντος (V-PAP-GSM) → ❌
-- ἐλεοῦντος (V-PAP-GSM) → ❌
-# Romanos 9:17
-- λέγει (V-PAI-3S) → ==dice==
-- ἐξήγειρά (V-AAI-1S) → ==he levantado==
-- ἐνδείξωμαι (V-AMS-1S) → ==mostrar==
-- διαγγελῇ (V-APS-3S) → ==sea proclamado==
-# Romanos 9:18
-- ἐλεεῖ (V-PAI-3S) → ==tiene misericordia==
-- θέλει (V-PAI-3S) → ==quiere==
-- σκληρύνει (V-PAI-3S) → ==endurece==
-# Romanos 9:19
-- ἐρεῖς (V-FAI-2S) → ==dirás==
-- μέμφεται (V-PMI-3S) → ==reprocha==
-- ἀνθέστηκεν (V-RAI-3S) → ==ha resistido==
-# Romanos 9:20
-- εἶ (V-PAI-2S) → ==eres==
-- ἀνταποκρινόμενος (V-PMP-NSM) → ❌
-- ἐρεῖ (V-FAI-3S) → ==dirá==
-- ἐποίησας (V-AAI-2S) → ==hiciste==
-# Romanos 9:21
-- ἔχει (V-PAI-3S) → ==tiene==
-- ποιῆσαι (V-AAN) → ❌
-# Romanos 9:22
-- θέλων (V-PAP-NSM) → ❌
-- ἐνδείξασθαι (V-AMN) → ❌
-- γνωρίσαι (V-AAN) → ❌
-- κατηρτισμένα (V-RPP-APN) → ❌
-# Romanos 9:23
-- γνωρίσῃ (V-AAS-3S) → ==dar a conocer==
-- προητοίμασεν (V-AAI-3S) → ==preparó==
-# Romanos 9:24
-- ἐκάλεσεν (V-AAI-3S) → ==llamó==
-# Romanos 9:25
-- λέγει (V-PAI-3S) → ==dice==
-- καλέσω (V-FAI-1S) → ==llamaré==
-- καλέσω (V-FAI-1S) → ==llamaré==
-# Romanos 9:26
-- ἔσται (V-FMI-3S) → ==será==
-- κληθήσονται (V-FPI-3P) → ==serán llamados==
-# Romanos 9:27
-- κράζει (V-PAI-3S) → ==clama==
-- ᾖ (V-PAS-3S) → ==sea==
-- σωθήσεται (V-FPI-3S) → ==será salvo==
-# Romanos 9:28
-- ποιήσει (V-FAI-3S) → ==ejecutará==
-# Romanos 9:29
-- προείρηκεν (V-RAI-3S) → ==ha dicho==
-- ἐγκατέλιπεν (V-AAI-3S) → ==dejado==
-- ἐγενήθημεν (V-API-1P) → ==hubiéramos llegado a ser==
-- ὡμοιώθημεν (V-API-1P) → ==hubiéramos sido semejantes==
-# Romanos 9:30
-- ἐροῦμεν (V-FAI-1P) → ==diremos==
-- διώκοντα (V-PAP-ASM) → ❌
-- κατέλαβεν (V-AAI-3S) → ==alcanzó==
-# Romanos 9:31
-- διώκων (V-PAP-NSM) → ❌
-- ἔφθασεν (V-AAI-3S) → ==alcanzó==
-# Romanos 9:32
-- ἐστίν (V-PAI-3S) → ==es==
-- διώκοντες (V-PAP-NPM) → ❌
-- προσέκοψαν (V-AAI-3P) → ==tropezaron==
-# Romanos 9:33
-- γέγραπται (V-RPI-3S) → ==está escrito==
-- τίθημι (V-PAI-1S) → ==pongo==
-- πιστεύων (V-PAP-NSM) → ❌
-- καταισχυνθήσεται (V-FPI-3S) → ==será avergonzado==
-# Romanos 10:1
-- ἐστίν (V-PAI-3S) → ==es==
-- γίγνεται (V-PMI-3S) → ==se hace==
-# Romanos 10:2
-- μαρτυρῶ (V-PAI-1S) → ==doy testimonio==
-- ἔχουσιν (V-PAI-3P) → ==tienen==
-# Romanos 10:3
-- ἀγνοοῦντες (V-PAP-NPM) → ❌
-- ζητοῦντες (V-PAP-NPM) → ❌
-- ὑπετάγησαν (V-API-3P) → ==se sujetaron==
-# Romanos 10:4
-- ἐστίν (V-PAI-3S) → ==es==
-# Romanos 10:5
-- γράφει (V-PAI-3S) → ==escribe==
-- ποιήσας (V-AAP-NSM) → ❌
-- ζήσεται (V-FMI-3S) → ==vivirá==
-# Romanos 10:6
-- λέγει (V-PAI-3S) → ==dice==
-- ἀναβήσεται (V-FMI-3S) → ==subirá==
-# Romanos 10:7
-- καταβήσεται (V-FMI-3S) → ==descenderá==
-# Romanos 10:8
-- λέγει (V-PAI-3S) → ==dice==
-- ἐστίν (V-PAI-3S) → ==es==
-- κηρύσσομεν (V-PAI-1P) → ==predicamos==
-# Romanos 10:9
-- ὁμολογήσῃς (V-AAS-2S) → ==confiesas==
-- πιστεύσῃς (V-AAS-2S) → ==crees==
-- ἤγειρεν (V-AAI-3S) → ==levantó==
-- σωθήσῃ (V-FPI-2S) → ==serás salvo==
-# Romanos 10:10
-- πιστεύεται (V-PPI-3S) → ==se cree==
-- ὁμολογεῖται (V-PPI-3S) → ==se confiesa==
-# Romanos 10:11
-- λέγει (V-PAI-3S) → ==dice==
-- πιστεύων (V-PAP-NSM) → ❌
-- καταισχυνθήσεται (V-FPI-3S) → ==será avergonzado==
-# Romanos 10:12
-- ἐστιν (V-PAI-3S) → ==hay==
-- ἐστιν (V-PAI-3S) → ==es==
-- πλουτῶν (V-PAP-NSM) → ❌
-- ἐπικαλουμένους (V-PMP-APM) → ❌
-# Romanos 10:13
-- ἐπικαλέσηται (V-AMS-3S) → ==invoque==
-- σωθήσεται (V-FPI-3S) → ==será salvo==
-# Romanos 10:14
-- ἐπικαλέσωνται (V-AMS-3P) → ==invocarán==
-- πιστεύσωσιν (V-AAS-3P) → ==creerán==
-- ἤκουσαν (V-AAI-3P) → ==han oído==
-- ἀκούσωσιν (V-AAS-3P) → ==oirán==
-- κηρύσσοντος (V-PAP-GSM) → ❌
-# Romanos 10:15
-- κηρύξωσιν (V-AAS-3P) → ==predicarán==
-- ἀποσταλῶσιν (V-APS-3P) → ==sean enviados==
-- γέγραπται (V-RPI-3S) → ==está escrito==
-# Romanos 10:16
-- ὑπήκουσαν (V-AAI-3P) → ==obedecieron==
-- λέγει (V-PAI-3S) → ==dice==
-- ἐπίστευσεν (V-AAI-3S) → ==ha creído==
-# Romanos 10:17
-- ἐστίν (V-PAI-3S) → ==es==
-# Romanos 10:18
-- λέγω (V-PAI-1S) → ==digo==
-- ἤκουσαν (V-AAI-3P) → ==han oído==
-- ἐξῆλθεν (V-AAI-3S) → ==salió==
-# Romanos 10:19
-- λέγω (V-PAI-1S) → ==digo==
-- ἔγνω (V-AAI-3S) → ==conoció==
-- παραζηλώσω (V-FAI-1S) → ==provocaré a celos==
-- παροργιῶ (V-FAI-1S) → ==provocaré a ira==
-# Romanos 10:20
-- ἀποτολμᾷ (V-PAI-3S) → ==se atreve==
-- λέγει (V-PAI-3S) → ==dice==
-- εὑρέθην (V-API-1S) → ==fui hallado==
-- ἐγενόμην (V-2AMI-1S) → ==me manifesté==
-# Romanos 10:21
-- λέγει (V-PAI-3S) → ==dice==
-- ἐξεπέτασα (V-AAI-1S) → ==extendí==
-# Romanos 11:1
-- λέγω (V-PAI-1S) → ==digo==
-- ἀπώσατο (V-AMI-3S) → ==ha desechado==
-- γένοιτο (V-AOM-3S) → ==sea==
-- εἰμι (V-PAI-1S) → ==soy==
-# Romanos 11:2
-- ἀπώσατο (V-AMI-3S) → ==ha desechado==
-- προέγνω (V-AAI-3S) → ==conoció==
-- λέγει (V-PAI-3S) → ==dice==
-- ἐντυγχάνει (V-PAI-3S) → ==intercede==
-# Romanos 11:3
-- ἀπέκτειναν (V-AAI-3P) → ==han matado==
-- κατέσκαψαν (V-AAI-3P) → ==han derribado==
-- ὑπελείφθην (V-API-1S) → ==he quedado==
-- ζητοῦσιν (V-PAI-3P) → ==buscan==
-# Romanos 11:4
-- λέγει (V-PAI-3S) → ==dice==
-- κατέλιπον (V-AAI-1S) → ==he reservado==
-- ἔκαμψαν (V-AAI-3P) → ==doblaron==
-# Romanos 11:5
-- γέγονεν (V-RAI-3S) → ==ha quedado==
-# Romanos 11:6
-- ἐστίν (V-PAI-3S) → ==es==
-- γίνεται (V-PMI-3S) → ==llega a ser==
-- ἐστίν (V-PAI-3S) → ==es==
-# Romanos 11:7
-- ἐπέτυχεν (V-AAI-3S) → ==alcanzó==
-- ἐπωρώθησαν (V-API-3P) → ==fueron endurecidos==
-# Romanos 11:8
-- γέγραπται (V-RPI-3S) → ==está escrito==
-- ἔδωκεν (V-AAI-3S) → ==dio==
-# Romanos 11:9
-- λέγει (V-PAI-3S) → ==dice==
-- γενηθήτω (V-APM-3S) → ==sea hecho==
-- γένηται (V-AMS-3S) → ==sea==
-# Romanos 11:10
-- σκοτισθήτωσαν (V-APM-3P) → ==sean oscurecidos==
-- βλέπειν (V-PAN) → ❌
-- κάμψον (V-AAM-2S) → ==dobla==
-# Romanos 11:11
-- λέγω (V-PAI-1S) → ==digo==
-- ἔπταισαν (V-AAI-3P) → ==tropezaron==
-- πέσωσιν (V-AAS-3P) → ==cayeran==
-- γένοιτο (V-AOM-3S) → ==sea==
-- ἐγένετο (V-2AMI-3S) → ==vino==
-- παραζηλῶσαι (V-AAN) → ❌
-# Romanos 11:12
-- ἐστίν (V-PAI-3S) → ==es==
-# Romanos 11:13
-- λέγω (V-PAI-1S) → ==hablo==
-- εἰμι (V-PAI-1S) → ==soy==
-- δοξάζω (V-PAI-1S) → ==honro==
-# Romanos 11:14
-- παραζηλώσω (V-FAI-1S) → ==provoque a celos==
-- σώσω (V-FAI-1S) → ==salve==
-# Romanos 11:15
-- ἐστίν (V-PAI-3S) → ==es==
-- ἀποβολὴ (N-NSF) → ❌
-- ἐστίν (V-PAI-3S) → ==será==
-# Romanos 11:16
-- ἐστίν (V-PAI-3S) → ==es==
-- ἐστίν (V-PAI-3S) → ==es==
-# Romanos 11:17
-- ἐξεκλάσθησαν (V-API-3P) → ==fueron desgajadas==
-- ἐνεκεντρίσθης (V-API-2S) → ==fuiste injertado==
-- συγκοινωνὸς (N-NSM) → ❌
-- ἐγένου (V-2AMI-2S) → ==has llegado a ser==
-# Romanos 11:18
-- κατακαυχῶ (V-PMM-2S) → ==te jactes==
-- βαστάζεις (V-PAI-2S) → ==sustentas==
-- βαστάζει (V-PAI-3S) → ==sustenta==
-# Romanos 11:19
-- ἐξεκλάσθησαν (V-API-3P) → ==fueron desgajadas==
-- ἐγκεντρισθῶ (V-APS-1S) → ==sea injertado==
-# Romanos 11:20
-- ἐξεκλάσθησαν (V-API-3P) → ==fueron desgajadas==
-- ἕστηκας (V-RAI-2S) → ==estás==
-- φρόνει (V-PAM-2S) → ==ten==
-# Romanos 11:21
-- ἐφείσατο (V-AMI-3S) → ==perdonó==
-- φείσεται (V-FMI-3S) → ==perdonará==
-# Romanos 11:22
-- ἐπιμένῃς (V-PAS-2S) → ==permaneces==
-- ἐκκοπήσῃ (V-FPI-2S) → ==serás cortado==
-# Romanos 11:23
-- ἐπιμένωσιν (V-PAS-3P) → ==permanecen==
-- ἐγκεντρισθήσονται (V-FPI-3P) → ==serán injertados==
-- δύνατός (ADJ) → ❌
-- ἐστιν (V-PAI-3S) → ==es==
-# Romanos 11:24
-- ἐξεκόπης (V-API-2S) → ==fuiste cortado==
-- ἐνεκεντρίσθης (V-API-2S) → ==fuiste injertado==
-- ἐγκεντρισθήσονται (V-FPI-3P) → ==serán injertados==
-# Romanos 11:25
-- θέλω (V-PAI-1S) → ==quiero==
-- ἀγνοεῖν (V-PAN) → ❌
-- γέγονεν (V-RAI-3S) → ==ha acontecido==
-- εἰσέλθῃ (V-AAS-3S) → ==haya entrado==
-# Romanos 11:26
-- σωθήσεται (V-FPI-3S) → ==será salvo==
-- γέγραπται (V-RPI-3S) → ==está escrito==
-- ἥξει (V-FAI-3S) → ==vendrá==
-- ἀποστρέψει (V-FAI-3S) → ==apartará==
-# Romanos 11:27
-- ἐστίν (V-PAI-3S) → ==es==
-- ἀφέλωμαι (V-AMS-1S) → ==quite==
-# Romanos 11:28
-- εἰσιν (V-PAI-3P) → ==son==
-- εἰσιν (V-PAI-3P) → ==son==
-# Romanos 11:29
-- εἰσιν (V-PAI-3P) → ==son==
-# Romanos 11:30
-- ἠπειθήσατε (V-AAI-2P) → ==desobedecieron==
-- ἠλεήθητε (V-API-2P) → ==han recibido misericordia==
-# Romanos 11:31
-- ἠπείθησαν (V-AAI-3P) → ==han desobedecido==
-- ἐλεηθῶσιν (V-APS-3P) → ==reciban misericordia==
-# Romanos 11:32
-- συνέκλεισεν (V-AAI-3S) → ==encerró==
-- ἐλεήσῃ (V-AAS-3S) → ==tenga misericordia==
-# Romanos 11:33
-- ἐστιν (V-PAI-3S) → ==son==
-- ἐξιχνιάστοι (ADJ) → ❌
-- ἀνεξιχνίαστοι (ADJ) → ❌
-# Romanos 11:34
-- ἔγνω (V-AAI-3S) → ==conoció==
-- ἐγένετο (V-2AMI-3S) → ==llegó a ser==
-# Romanos 11:35
-- προέδωκεν (V-AAI-3S) → ==dio==
-- ἀνταποδοθήσεται (V-FPI-3S) → ==será recompensado==
-# Romanos 11:36
-- ἐστίν (V-PAI-3S) → ==son==
-# Romanos 12:1
-- παρακαλῶ (V-PAI-1S) → ==exhorto==
-- παραστῆσαι (V-AAN) → ❌
-- εἶναι (V-PAN) → ❌
-# Romanos 12:2
-- συσχηματίζεσθε (V-PMM-2P) → ==se conformen==
-- μεταμορφοῦσθε (V-PPM-2P) → ==sean transformados==
-- δοκιμάζειν (V-PAN) → ❌
-- ἐστιν (V-PAI-3S) → ==es==
-# Romanos 12:3
-- λέγω (V-PAI-1S) → ==digo==
-- ὑπερφρονεῖν (V-PAN) → ❌
-- φρονεῖν (V-PAN) → ❌
-- φρονεῖν (V-PAN) → ❌
-- ἐμέρισεν (V-AAI-3S) → ==repartió==
-# Romanos 12:4
-- ἔχομεν (V-PAI-1P) → ==tenemos==
-- ἔχει (V-PAI-3S) → ==tiene==
-# Romanos 12:5
-- ἐσμεν (V-PAI-1P) → ==somos==
-- ἐσμεν (V-PAI-1P) → ==somos==
-# Romanos 12:6
-- ἔχοντες (V-PAP-NPM) → ❌
-- διαφέρομεν (V-PAI-1P) → ==tenemos==
-# Romanos 12:7
-- ὁ διακονῶν (V-PAP-NSM) → ❌
-- ὁ διδάσκων (V-PAP-NSM) → ❌
-# Romanos 12:8
-- ὁ παρακαλῶν (V-PAP-NSM) → ❌
-- μεταδιδούς (V-PAP-NSM) → ❌
-- προϊστάμενος (V-PMP-NSM) → ❌
-- ἐλεῶν (V-PAP-NSM) → ❌
-# Romanos 12:9
-- ἀποστυγοῦντες (V-PAP-NPM) → ❌
-- κολλώμενοι (V-PMP-NPM) → ❌
-# Romanos 12:10
-- φιλαδελφίᾳ (N-DSF) → ❌
-- τιμῇ (N-DSF) → ❌
-# Romanos 12:11
-- ὀκνηροί (ADJ) → ❌
-- ζέοντες (V-PAP-NPM) → ❌
-- δουλεύοντες (V-PAP-NPM) → ❌
-# Romanos 12:12
-- χαίροντες (V-PAP-NPM) → ❌
-- ὑπομένοντες (V-PAP-NPM) → ❌
-- προσκαρτεροῦντες (V-PAP-NPM) → ❌
-# Romanos 12:13
-- κοινωνοῦντες (V-PAP-NPM) → ❌
-- διώκοντες (V-PAP-NPM) → ❌
-# Romanos 12:14
-- εὐλογεῖτε (V-PAM-2P) → ==bendigan==
-- καταρώμενοι (V-PMP-NPM) → ❌
-# Romanos 12:15
-- χαίρειν (V-PAN) → ❌
-- κλαίειν (V-PAN) → ❌
-# Romanos 12:16
-- φρονοῦντες (V-PAP-NPM) → ❌
-- φρονοῦντες (V-PAP-NPM) → ❌
-- συναπαγόμενοι (V-PMP-NPM) → ❌
-- γίνεσθε (V-PMM-2P) → ==sean==
-# Romanos 12:17
-- ἀποδιδόντες (V-PAP-NPM) → ❌
-- προνοούμενοι (V-PMP-NPM) → ❌
-# Romanos 12:18
-- ἐξαρτώμενον (V-PMP-NSN) → ❌
-- ζῶντες (V-PAP-NPM) → ❌
-# Romanos 12:19
-- ἐκδικοῦντες (V-PAP-NPM) → ❌
-- δότε (V-AAM-2P) → ==den==
-- γέγραπται (V-RPI-3S) → ==está escrito==
-- ἀνταποδώσω (V-FAI-1S) → ==yo pagaré==
-# Romanos 12:20
-- πεινᾷ (V-PAI-3S) → ==tiene hambre==
-- ψώμιζε (V-PAM-2S) → ==dale de comer==
-- διψᾷ (V-PAI-3S) → ==tiene sed==
-- πότιζε (V-PAM-2S) → ==dale de beber==
-- ποιῶν (V-PAP-NSM) → ❌
-- σωρεύσεις (V-FAI-2S) → ==amontonarás==
-# Romanos 12:21
-- νικῶ (V-PMM-2S) → ==seas vencido==
-- νίκα (V-PAM-2S) → ==vence==
-# Romanos 13:1
-- ὑποτασσέσθω (V-PPM-3S) → ==sométase==
-- ἐστιν (V-PAI-3S) → ==hay==
-- εἰσίν (V-PAI-3P) → ==son==
-- τεταγμέναι (V-RPP-NPF) → ❌
-# Romanos 13:2
-- ἀντιτασσόμενος (V-PMP-NSM) → ❌
-- ἀνθέστηκεν (V-RAI-3S) → ==ha resistido==
-- λήμψονται (V-FMI-3P) → ==recibirán==
-# Romanos 13:3
-- εἰσίν (V-PAI-3P) → ==son==
-- φοβεῖσθαι (V-PNN) → ❌
-- ποιεῖ (V-PAI-3S) → ==hace==
-- ἔχεις (V-PAI-2S) → ==tienes==
-# Romanos 13:4
-- ἐστιν (V-PAI-3S) → ==es==
-- ποιῇς (V-PAS-2S) → ==haces==
-- φοβοῦ (V-PMM-2S) → ==teme==
-- φορεῖ (V-PAI-3S) → ==lleva==
-- ἐστιν (V-PAI-3S) → ==es==
-- ἐκδικος (ADJ) → ❌
-# Romanos 13:5
-- ἀνάγκη (N-NSF) → ❌
-- ὑποτάσσεσθαι (V-PPN) → ❌
-# Romanos 13:6
-- τελεῖτε (V-PAI-2P) → ==pagan==
-- εἰσίν (V-PAI-3P) → ==son==
-- προσκαρτεροῦντες (V-PAP-NPM) → ❌
-# Romanos 13:7
-- ἀπόδοτε (V-AAM-2P) → ==paguen==
-- ὀφειλάς (N-APF) → ❌
-# Romanos 13:8
-- ὀφείλετε (V-PAM-2P) → ==deban==
-- ἀγαπᾷ (V-PAI-3S) → ==ama==
-- πεπλήρωκεν (V-RAI-3S) → ==ha cumplido==
-# Romanos 13:9
-- ἐπιθυμήσεις (V-FAI-2S) → ==codiciarás==
-- ἀνακεφαλαιοῦται (V-PPI-3S) → ==se resume==
-- ἀγαπήσεις (V-FAI-2S) → ==amarás==
-# Romanos 13:10
-- ἐργάζεται (V-PMI-3S) → ==hace==
-- ἐστίν (V-PAI-3S) → ==es==
-# Romanos 13:11
-- εἰδότες (V-RAP-NPM) → ❌
-- ἐστιν (V-PAI-3S) → ==es==
-- ἐγερθῆναι (V-APN) → ❌
-- ἐγγύτερον (ADV) → ❌
-- ἐστιν (V-PAI-3S) → ==está==
-# Romanos 13:12
-- προέκοψεν (V-AAI-3S) → ==avanzó==
-- ἤγγικεν (V-RAI-3S) → ==se ha acercado==
-- ἀποθώμεθα (V-AMS-1P) → ==dejemos==
-- ἐνδυσώμεθα (V-AMS-1P) → ==vistámonos==
-# Romanos 13:13
-- περιπατήσωμεν (V-AAS-1P) → ==andemos==
-- κώμοις (N-DPM) → ❌
-# Romanos 13:14
-- ἐνδύσασθε (V-AMM-2P) → ==revístanse==
-- ποιεῖσθε (V-PMM-2P) → ==hagan==
-# Romanos 14:1
-- προσλαμβάνεσθε (V-PMM-2P) → ==reciban==
-- διακρίσεις (N-APF) → ❌
-# Romanos 14:2
-- πιστεύει (V-PAI-3S) → ==cree==
-- ἐσθίει (V-PAI-3S) → ==come==
-# Romanos 14:3
-- ἐσθίων (V-PAP-NSM) → ❌
-- ἐξουθενείτω (V-PAM-3S) → ==menosprecie==
-- ἐσθίων (V-PAP-NSM) → ❌
-- κρινέτω (V-PAM-3S) → ==juzgue==
-- προσελάβετο (V-AMI-3S) → ==ha recibido==
-# Romanos 14:4
-- εἶ (V-PAI-2S) → ==eres==
-- κρίνων (V-PAP-NSM) → ❌
-- στήκει (V-PAI-3S) → ==permanece==
-- πίπτει (V-PAI-3S) → ==cae==
-- σταθήσεται (V-FPI-3S) → ==será sostenido==
-- δυνατεῖ (V-PAI-3S) → ==puede==
-# Romanos 14:5
-- κρίνει (V-PAI-3S) → ==estima==
-- κρίνει (V-PAI-3S) → ==estima==
-- πληροφορείσθω (V-PPM-3S) → ==esté convencido==
-# Romanos 14:6
-- φρονῶν (V-PAP-NSM) → ❌
-- φρονεῖ (V-PAI-3S) → ==tiene en cuenta==
-- ἐσθίων (V-PAP-NSM) → ❌
-- ἐσθίει (V-PAI-3S) → ==come==
-- εὐχαριστεῖ (V-PAI-3S) → ==da gracias==
-- ἐσθίων (V-PAP-NSM) → ❌
-- οὐκ ἐσθίει (V-PAI-3S) → ==no come==
-- εὐχαριστεῖ (V-PAI-3S) → ==da gracias==
-# Romanos 14:7
-- ζῇ (V-PAI-3S) → ==vive==
-- ἀποθνῄσκει (V-PAI-3S) → ==muere==
-# Romanos 14:8
-- ζῶμεν (V-PAS-1P) → ==vivimos==
-- ζῶμεν (V-PAS-1P) → ==vivimos==
-- ἀποθνῄσκομεν (V-PAI-1P) → ==morimos==
-- ἀποθνῄσκομεν (V-PAI-1P) → ==morimos==
-- ἐσμεν (V-PAI-1P) → ==somos==
-# Romanos 14:9
-- ἀπέθανεν (V-AAI-3S) → ==murió==
-- ἔζησεν (V-AAI-3S) → ==vivió==
-- κυριεύσῃ (V-AAS-3S) → ==sea Señor==
-# Romanos 14:10
-- κρίνεις (V-PAI-2S) → ==juzgas==
-- ἐξουθενεῖς (V-PAI-2S) → ==menosprecias==
-- παραστησόμεθα (V-FMI-1P) → ==compareceremos==
-# Romanos 14:11
-- γέγραπται (V-RPI-3S) → ==está escrito==
-- λέγει (V-PAI-3S) → ==dice==
-- κάμψει (V-FAI-3S) → ==se doblará==
-- ἐξομολογήσεται (V-FMI-3S) → ==confesará==
-# Romanos 14:12
-- δώσει (V-FAI-3S) → ==dará==
-# Romanos 14:13
-- κρίνωμεν (V-PAS-1P) → ==juzguemos==
-- κρίνατε (V-AAM-2P) → ==decidan==
-- τιθέναι (V-PAN) → ❌
-# Romanos 14:14
-- οἶδα (V-RAI-1S) → ==sé==
-- πέπεισμαι (V-RPI-1S) → ==estoy convencido==
-- ἐστιν (V-PAI-3S) → ==es==
-- λογιζομένῳ (V-PMP-DSM) → ❌
-- εἶναι (V-PAN) → ❌
-- ἐστιν (V-PAI-3S) → ==es==
-# Romanos 14:15
-- λυπεῖται (V-PPI-3S) → ==se entristece==
-- περιπατεῖς (V-PAI-2S) → ==andas==
-- ἀπόλλυε (V-PAM-2S) → ==destruyas==
-- ἀπέθανεν (V-AAI-3S) → ==murió==
-# Romanos 14:16
-- βλασφημείσθω (V-PPM-3S) → ==sea vituperado==
-# Romanos 14:17
-- ἐστιν (V-PAI-3S) → ==es==
-# Romanos 14:18
-- δουλεύων (V-PAP-NSM) → ❌
-- εὐάρεστος (ADJ) → ❌
-- δόκιμος (ADJ) → ❌
-# Romanos 14:19
-- διώκωμεν (V-PAS-1P) → ==sigamos==
-# Romanos 14:20
-- κατάλυε (V-PAM-2S) → ==destruyas==
-- ἐστιν (V-PAI-3S) → ==son==
-- ἐσθίοντι (V-PAP-DSM) → ❌
-# Romanos 14:21
-- καλὸν (ADJ) → ❌
-# Romanos 14:22
-- ἔχεις (V-PAI-2S) → ==tienes==
-- ἔχε (V-PAM-2S) → ==ten==
-- κρίνων (V-PAP-NSM) → ❌
-# Romanos 14:23
-- διακρινόμενος (V-PMP-NSM) → ❌
-- κατακέκριται (V-RPI-3S) → ==ha sido condenado==
-- ἐστίν (V-PAI-3S) → ==es==
-# Romanos 15:1
-- ὀφείλομεν (V-PAI-1P) → ==debemos==
-- βαστάζειν (V-PAN) → ❌
-- ἀρέσκειν (V-PAN) → ❌
-# Romanos 15:2
-- ἀρεσκέτω (V-PAM-3S) → ==agrade==
-# Romanos 15:3
-- ἤρεσεν (V-AAI-3S) → ==agradó==
-- γέγραπται (V-RPI-3S) → ==está escrito==
-- ἐπέπεσαν (V-AAI-3P) → ==cayeron==
-# Romanos 15:4
-- προεγράφη (V-API-3S) → ==fue escrito==
-- ἔχωμεν (V-PAS-1P) → ==tengamos==
-# Romanos 15:5
-- δῴη (V-AAS-3S) → ==conceda==
-- φρονεῖν (V-PAN) → ❌
-# Romanos 15:6
-- δοξάζητε (V-PAS-2P) → ==glorifiquen==
-# Romanos 15:7
-- προσλαμβάνεσθε (V-PMM-2P) → ==acéptense==
-- προσελάβετο (V-AMI-3S) → ==aceptó==
-# Romanos 15:8
-- λέγω (V-PAI-1S) → ==digo==
-- γεγενῆσθαι (V-RNN) → ❌
-- βεβαιῶσαι (V-AAN) → ❌
-# Romanos 15:9
-- δοξάσαι (V-AAN) → ❌
-- γέγραπται (V-RPI-3S) → ==está escrito==
-- ἐξομολογήσομαι (V-FMI-1S) → ==confesaré==
-- ψαλῶ (V-FAI-1S) → ==cantaré==
-# Romanos 15:10
-- λέγει (V-PAI-3S) → ==dice==
-# Romanos 15:11
-- αἰνεῖτε (V-PAM-2P) → ==alaben==
-- ἐπαινέσατε (V-AAM-2P) → ==alaben==
-# Romanos 15:12
-- λέγει (V-PAI-3S) → ==dice==
-- ἔσται (V-FMI-3S) → ==habrá==
-- ἀνιστάμενος (V-PMP-NSM) → ❌
-- ἐλπιοῦσιν (V-FAI-3P) → ==esperarán==
-# Romanos 15:13
-- πληρώσαι (V-AAN) → ❌
-- περισσεύητε (V-PAS-2P) → ==abunden==
-# Romanos 15:14
-- πέπεισμαι (V-RPI-1S) → ==estoy convencido==
-- ἐστε (V-PAI-2P) → ==están==
-- δυνάμενοι (V-PMP-NPM) → ❌
-- νουθετεῖν (V-PAN) → ❌
-# Romanos 15:15
-- ἔγραψα (V-AAI-1S) → ==he escrito==
-- ἐπιμιμνῄσκων (V-PAP-NSM) → ❌
-- δοθείσης (V-APP-GSF) → ❌
-# Romanos 15:16
-- εἶναι (V-PAN) → ❌
-- λειτουργοῦντα (V-PAP-ASM) → ❌
-- ἡγιασμένη (V-RPP-NSF) → ❌
-# Romanos 15:17
-- ἔχω (V-PAI-1S) → ==tengo==
-# Romanos 15:18
-- τολμήσω (V-FAI-1S) → ==me atreveré==
-- κατειργάσατο (V-AMI-3S) → ==ha hecho==
-# Romanos 15:19
-- πεπληρωκέναι (V-RAN) → ❌
-# Romanos 15:20
-- φιλοτιμούμενον (V-PMP-ASM) → ❌
-- εὐαγγελίζεσθαι (V-PNN) → ❌
-- ὠνομάσθη (V-API-3S) → ==fue nombrado==
-- οἰκοδομῶ (V-PAI-1S) → ==edifique==
-# Romanos 15:21
-- γέγραπται (V-RPI-3S) → ==está escrito==
-- ὄψονται (V-FMI-3P) → ==verán==
-- συνήσουσιν (V-FMI-3P) → ==entenderán==
-# Romanos 15:22
-- ἐνεκοπτόμην (V-IPI-1S) → ==fui impedido==
-# Romanos 15:23
-- ἔχων (V-PAP-NSM) → ❌
-- ἔχων (V-PAP-NSM) → ❌
-- ἐπιποθίαν (N-ASF) → ❌
-# Romanos 15:24
-- ἐλπίζω (V-PAI-1S) → ==espero==
-- διαπορευόμενος (V-PMP-NSM) → ❌
-- θεάσασθαι (V-AMN) → ❌
-- προπεμφθῆναι (V-APN) → ❌
-# Romanos 15:25
-- πορεύομαι (V-PMI-1S) → ==voy==
-# Romanos 15:26
-- εὐδόκησαν (V-AAI-3P) → ==tuvieron a bien==
-- ποιήσασθαι (V-AMN) → ❌
-# Romanos 15:27
-- εὐδόκησαν (V-AAI-3P) → ==tuvieron a bien==
-- ὀφειλέται (N-NPM) → ❌
-- εἰσίν (V-PAI-3P) → ==son==
-- ἐκοινώνησαν (V-AAI-3P) → ==participaron==
-- λειτουργῆσαι (V-AAN) → ❌
-# Romanos 15:28
-- ἐπιτελέσας (V-AAP-NSM) → ❌
-- σφραγισάμενος (V-AMP-NSM) → ❌
-- ἀπελεύσομαι (V-FMI-1S) → ==iré==
-# Romanos 15:29
-- οἶδα (V-RAI-1S) → ==sé==
-- ἐρχόμενος (V-PMP-NSM) → ❌
-- ἐλεύσομαι (V-FMI-1S) → ==iré==
-# Romanos 15:30
-- παρακαλῶ (V-PAI-1S) → ==exhorto==
-- συναγωνίσασθαι (V-AMN) → ❌
-# Romanos 15:31
-- ῥυσθῶ (V-APS-1S) → ==sea librado==
-- διακονία (N-NSF) → ❌
-- γένηται (V-AMS-3S) → ==sea==
-# Romanos 15:32
-- ἔλθω (V-AAS-1S) → ==llegue==
-- συναναπαύσωμαι (V-AMS-1S) → ==sea confortado==
-# Romanos 15:33
-- εἴη (V-PAO-3S) → ==sea==
-# Romanos 16:1
-- συνίστημι (V-PAI-1S) → ==recomiendo==
-- οὖσαν (V-PAP-ASF) → ❌
-# Romanos 16:2
-- προσδέξησθε (V-AMS-2P) → ==reciban==
-- ἀξίως (ADV) → ❌
-- παραστῇ (V-AAS-3S) → ==necesite==
-- ἐγένετο (V-2AMI-3S) → ==ha sido==
-# Romanos 16:3
-- ἀσπάσασθε (V-AMM-2P) → ==saluden==
-# Romanos 16:4
-- ὑπέθηκαν (V-AAI-3P) → ==expusieron==
-- εὐχαριστῶ (V-PAI-1S) → ==doy gracias==
-# Romanos 16:5
-- ἀσπάσασθε (V-AMM-2P) → ==saluden==
-- ἐστίν (V-PAI-3S) → ==es==
-# Romanos 16:6
-- ἀσπάσασθε (V-AMM-2P) → ==saluden==
-- κοπιάσασαν (V-AAP-ASF) → ❌
-# Romanos 16:7
-- ἀσπάσασθε (V-AMM-2P) → ==saluden==
-- εἰσιν (V-PAI-3P) → ==son==
-- ἐγένοντο (V-2AMI-3P) → ==fueron==
-# Romanos 16:8
-- ἀσπάσασθε (V-AMM-2P) → ==saluden==
-# Romanos 16:9
-- ἀσπάσασθε (V-AMM-2P) → ==saluden==
-# Romanos 16:10
-- ἀσπάσασθε (V-AMM-2P) → ==saluden==
-- ἐστίν (V-PAI-3S) → ==es==
-# Romanos 16:11
-- ἀσπάσασθε (V-AMM-2P) → ==saluden==
-- ἀσπάσασθε (V-AMM-2P) → ==saluden==
-# Romanos 16:12
-- ἀσπάσασθε (V-AMM-2P) → ==saluden==
-- κοπιώσας (V-AAP-NSM) → ❌
-# Romanos 16:13
-- ἀσπάσασθε (V-AMM-2P) → ==saluden==
-# Romanos 16:14
-- ἀσπάσασθε (V-AMM-2P) → ==saluden==
-# Romanos 16:15
-- ἀσπάσασθε (V-AMM-2P) → ==saluden==
-# Romanos 16:16
-- ἀσπάσασθε (V-AMM-2P) → ==salúdense==
-- ἀσπάζονται (V-PMI-3P) → ==saludan==
-# Romanos 16:17
-- παρακαλῶ (V-PAI-1S) → ==exhorto==
-- σκοπεῖν (V-PAN) → ❌
-- ποιούντας (V-PAP-APM) → ❌
-- ἐκκλίνετε (V-PAM-2P) → ==apártense==
-# Romanos 16:18
-- δουλεύουσιν (V-PAI-3P) → ==sirven==
-- ἐξαπατῶσιν (V-PAI-3P) → ==engañan==
-# Romanos 16:19
-- ἀφίκετο (V-2AMI-3S) → ==ha llegado==
-- χαίρω (V-PAI-1S) → ==me gozo==
-- θέλω (V-PAI-1S) → ==quiero==
-- εἶναι (V-PAN) → ❌
-# Romanos 16:20
-- συντρίψει (V-FAI-3S) → ==aplastará==
-- εἴη (V-PAO-3S) → ==sea==
-# Romanos 16:21
-- ἀσπάζεται (V-PMI-3S) → ==saluda==
-# Romanos 16:22
-- ἀσπάζομαι (V-PMI-1S) → ==saludo==
-# Romanos 16:23
-- ἀσπάζεται (V-PMI-3S) → ==saluda==
-- ἀσπάζεται (V-PMI-3S) → ==saluda==
-# Romanos 16:24
-- εἴη (V-PAO-3S) → ==sea==
-# Romanos 16:25
-- στηρίξαι (V-AAN) → ❌
-- κηρύγματός (N-GSN) → ❌
-- ἀποκαλυφθέντος (V-APP-GSN) → ❌
-# Romanos 16:26
-- φανερωθέντος (V-APP-GSN) → ❌
-- γνωρισθέντος (V-APP-GSN) → ❌
-- ἐπιταγὴν (N-ASF) → ❌
-# Romanos 16:27
-- εἴη (V-PAO-3S) → ==sea==
+### Rom 1:4 {#rom-1-4}
+τοῦ ὁρισθέντος υἱοῦ θεοῦ ἐν δυνάμει κατὰ πνεῦμα ἁγιωσύνης ἐξ ἀναστάσεως νεκρῶν, Ἰησοῦ Χριστοῦ τοῦ κυρίου ἡμῶν, 
+
+
+### Rom 1:5 {#rom-1-5}
+διʼ οὗ ἐλάβομεν χάριν καὶ ἀποστολὴν εἰς ὑπακοὴν πίστεως ἐν πᾶσιν τοῖς ἔθνεσιν ὑπὲρ τοῦ ὀνόματος αὐτοῦ, 
+
+
+### Rom 1:6 {#rom-1-6}
+ἐν οἷς ἐστε καὶ ὑμεῖς κλητοὶ Ἰησοῦ Χριστοῦ, 
+
+
+### Rom 1:7 {#rom-1-7}
+πᾶσιν τοῖς οὖσιν ἐν Ῥώμῃ ἀγαπητοῖς θεοῦ, κλητοῖς ἁγίοις· χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ. 
+
+
+### Rom 1:8 {#rom-1-8}
+Πρῶτον μὲν εὐχαριστῶ τῷ θεῷ μου διὰ Ἰησοῦ Χριστοῦ ⸀περὶ πάντων ὑμῶν, ὅτι ἡ πίστις ὑμῶν καταγγέλλεται ἐν ὅλῳ τῷ κόσμῳ. 
+
+
+### Rom 1:9 {#rom-1-9}
+μάρτυς γάρ μού ἐστιν ὁ θεός, ᾧ λατρεύω ἐν τῷ πνεύματί μου ἐν τῷ εὐαγγελίῳ τοῦ υἱοῦ αὐτοῦ, ὡς ἀδιαλείπτως μνείαν ὑμῶν ποιοῦμαι 
+
+
+### Rom 1:10 {#rom-1-10}
+πάντοτε ἐπὶ τῶν προσευχῶν μου, δεόμενος εἴ πως ἤδη ποτὲ εὐοδωθήσομαι ἐν τῷ θελήματι τοῦ θεοῦ ἐλθεῖν πρὸς ὑμᾶς. 
+
+
+### Rom 1:11 {#rom-1-11}
+ἐπιποθῶ γὰρ ἰδεῖν ὑμᾶς, ἵνα τι μεταδῶ χάρισμα ὑμῖν πνευματικὸν εἰς τὸ στηριχθῆναι ὑμᾶς, 
+
+
+### Rom 1:12 {#rom-1-12}
+τοῦτο δέ ἐστιν συμπαρακληθῆναι ἐν ὑμῖν διὰ τῆς ἐν ἀλλήλοις πίστεως ὑμῶν τε καὶ ἐμοῦ. 
+
+
+### Rom 1:13 {#rom-1-13}
+οὐ θέλω δὲ ὑμᾶς ἀγνοεῖν, ἀδελφοί, ὅτι πολλάκις προεθέμην ἐλθεῖν πρὸς ὑμᾶς, καὶ ἐκωλύθην ἄχρι τοῦ δεῦρο, ἵνα τινὰ καρπὸν σχῶ καὶ ἐν ὑμῖν καθὼς καὶ ἐν τοῖς λοιποῖς ἔθνεσιν. 
+
+
+### Rom 1:14 {#rom-1-14}
+Ἕλλησίν τε καὶ βαρβάροις, σοφοῖς τε καὶ ἀνοήτοις ὀφειλέτης εἰμί· 
+
+
+### Rom 1:15 {#rom-1-15}
+οὕτως τὸ κατʼ ἐμὲ πρόθυμον καὶ ὑμῖν τοῖς ἐν Ῥώμῃ εὐαγγελίσασθαι. 
+
+
+### Rom 1:16 {#rom-1-16}
+Οὐ γὰρ ἐπαισχύνομαι τὸ ⸀εὐαγγέλιον, δύναμις γὰρ θεοῦ ἐστιν εἰς σωτηρίαν παντὶ τῷ πιστεύοντι, Ἰουδαίῳ τε πρῶτον καὶ Ἕλληνι· 
+
+
+### Rom 1:17 {#rom-1-17}
+δικαιοσύνη γὰρ θεοῦ ἐν αὐτῷ ἀποκαλύπτεται ἐκ πίστεως εἰς πίστιν, καθὼς γέγραπται· Ὁ δὲ δίκαιος ἐκ πίστεως ζήσεται. 
+
+
+### Rom 1:18 {#rom-1-18}
+Ἀποκαλύπτεται γὰρ ὀργὴ θεοῦ ἀπʼ οὐρανοῦ ἐπὶ πᾶσαν ἀσέβειαν καὶ ἀδικίαν ἀνθρώπων τῶν τὴν ἀλήθειαν ἐν ἀδικίᾳ κατεχόντων, 
+
+
+### Rom 1:19 {#rom-1-19}
+διότι τὸ γνωστὸν τοῦ θεοῦ φανερόν ἐστιν ἐν αὐτοῖς, ὁ ⸂θεὸς γὰρ⸃ αὐτοῖς ἐφανέρωσεν. 
+
+
+### Rom 1:20 {#rom-1-20}
+τὰ γὰρ ἀόρατα αὐτοῦ ἀπὸ κτίσεως κόσμου τοῖς ποιήμασιν νοούμενα καθορᾶται, ἥ τε ἀΐδιος αὐτοῦ δύναμις καὶ θειότης, εἰς τὸ εἶναι αὐτοὺς ἀναπολογήτους, 
+
+
+### Rom 1:21 {#rom-1-21}
+διότι γνόντες τὸν θεὸν οὐχ ὡς θεὸν ἐδόξασαν ἢ ηὐχαρίστησαν, ἀλλὰ ἐματαιώθησαν ἐν τοῖς διαλογισμοῖς αὐτῶν καὶ ἐσκοτίσθη ἡ ἀσύνετος αὐτῶν καρδία· 
+
+
+### Rom 1:22 {#rom-1-22}
+φάσκοντες εἶναι σοφοὶ ἐμωράνθησαν, 
+
+
+### Rom 1:23 {#rom-1-23}
+καὶ ἤλλαξαν τὴν δόξαν τοῦ ἀφθάρτου θεοῦ ἐν ὁμοιώματι εἰκόνος φθαρτοῦ ἀνθρώπου καὶ πετεινῶν καὶ τετραπόδων καὶ ἑρπετῶν. 
+
+
+### Rom 1:24 {#rom-1-24}
+⸀Διὸ παρέδωκεν αὐτοὺς ὁ θεὸς ἐν ταῖς ἐπιθυμίαις τῶν καρδιῶν αὐτῶν εἰς ἀκαθαρσίαν τοῦ ἀτιμάζεσθαι τὰ σώματα αὐτῶν ἐν ⸀αὐτοῖς, 
+
+
+### Rom 1:25 {#rom-1-25}
+οἵτινες μετήλλαξαν τὴν ἀλήθειαν τοῦ θεοῦ ἐν τῷ ψεύδει, καὶ ἐσεβάσθησαν καὶ ἐλάτρευσαν τῇ κτίσει παρὰ τὸν κτίσαντα, ὅς ἐστιν εὐλογητὸς εἰς τοὺς αἰῶνας· ἀμήν. 
+
+
+### Rom 1:26 {#rom-1-26}
+Διὰ τοῦτο παρέδωκεν αὐτοὺς ὁ θεὸς εἰς πάθη ἀτιμίας· αἵ τε γὰρ θήλειαι αὐτῶν μετήλλαξαν τὴν φυσικὴν χρῆσιν εἰς τὴν παρὰ φύσιν, 
+
+
+### Rom 1:27 {#rom-1-27}
+ὁμοίως τε καὶ οἱ ἄρσενες ἀφέντες τὴν φυσικὴν χρῆσιν τῆς θηλείας ἐξεκαύθησαν ἐν τῇ ὀρέξει αὐτῶν εἰς ἀλλήλους, ἄρσενες ἐν ἄρσεσιν τὴν ἀσχημοσύνην κατεργαζόμενοι καὶ τὴν ἀντιμισθίαν ἣν ἔδει τῆς πλάνης αὐτῶν ἐν ⸀ἑαυτοῖς ἀπολαμβάνοντες. 
+
+
+### Rom 1:28 {#rom-1-28}
+Καὶ καθὼς οὐκ ἐδοκίμασαν τὸν θεὸν ἔχειν ἐν ἐπιγνώσει, παρέδωκεν αὐτοὺς ὁ θεὸς εἰς ἀδόκιμον νοῦν, ποιεῖν τὰ μὴ καθήκοντα, 
+
+
+### Rom 1:29 {#rom-1-29}
+πεπληρωμένους πάσῃ ⸀ἀδικίᾳ πονηρίᾳ πλεονεξίᾳ κακίᾳ, μεστοὺς φθόνου φόνου ἔριδος δόλου κακοηθείας, ψιθυριστάς, 
+
+
+### Rom 1:30 {#rom-1-30}
+καταλάλους, θεοστυγεῖς, ὑβριστάς, ὑπερηφάνους, ἀλαζόνας, ἐφευρετὰς κακῶν, γονεῦσιν ἀπειθεῖς, 
+
+
+### Rom 1:31 {#rom-1-31}
+ἀσυνέτους, ἀσυνθέτους, ⸀ἀστόργους, ἀνελεήμονας· 
+
+
+### Rom 1:32 {#rom-1-32}
+οἵτινες τὸ δικαίωμα τοῦ θεοῦ ἐπιγνόντες, ὅτι οἱ τὰ τοιαῦτα πράσσοντες ἄξιοι θανάτου εἰσίν, οὐ μόνον αὐτὰ ποιοῦσιν ἀλλὰ καὶ συνευδοκοῦσιν τοῖς πράσσουσιν. 
+
+
+### Rom 2:1 {#rom-2-1}
+Διὸ ἀναπολόγητος εἶ, ὦ ἄνθρωπε πᾶς ὁ κρίνων· ἐν ᾧ γὰρ κρίνεις τὸν ἕτερον, σεαυτὸν κατακρίνεις, τὰ γὰρ αὐτὰ πράσσεις ὁ κρίνων· 
+
+
+### Rom 2:2 {#rom-2-2}
+οἴδαμεν δὲ ὅτι τὸ κρίμα τοῦ θεοῦ ἐστιν κατὰ ἀλήθειαν ἐπὶ τοὺς τὰ τοιαῦτα πράσσοντας. 
+
+
+### Rom 2:3 {#rom-2-3}
+λογίζῃ δὲ τοῦτο, ὦ ἄνθρωπε ὁ κρίνων τοὺς τὰ τοιαῦτα πράσσοντας καὶ ποιῶν αὐτά, ὅτι σὺ ἐκφεύξῃ τὸ κρίμα τοῦ θεοῦ; 
+
+
+### Rom 2:4 {#rom-2-4}
+ἢ τοῦ πλούτου τῆς χρηστότητος αὐτοῦ καὶ τῆς ἀνοχῆς καὶ τῆς μακροθυμίας καταφρονεῖς, ἀγνοῶν ὅτι τὸ χρηστὸν τοῦ θεοῦ εἰς μετάνοιάν σε ἄγει; 
+
+
+### Rom 2:5 {#rom-2-5}
+κατὰ δὲ τὴν σκληρότητά σου καὶ ἀμετανόητον καρδίαν θησαυρίζεις σεαυτῷ ὀργὴν ἐν ἡμέρᾳ ὀργῆς καὶ ⸀ἀποκαλύψεως δικαιοκρισίας τοῦ θεοῦ, 
+
+
+### Rom 2:6 {#rom-2-6}
+ὃς ἀποδώσει ἑκάστῳ κατὰ τὰ ἔργα αὐτοῦ· 
+
+
+### Rom 2:7 {#rom-2-7}
+τοῖς μὲν καθʼ ὑπομονὴν ἔργου ἀγαθοῦ δόξαν καὶ τιμὴν καὶ ἀφθαρσίαν ζητοῦσιν ζωὴν αἰώνιον· 
+
+
+### Rom 2:8 {#rom-2-8}
+τοῖς δὲ ἐξ ἐριθείας καὶ ⸀ἀπειθοῦσι τῇ ἀληθείᾳ πειθομένοις δὲ τῇ ἀδικίᾳ ⸂ὀργὴ καὶ θυμός⸃, 
+
+
+### Rom 2:9 {#rom-2-9}
+θλῖψις καὶ στενοχωρία, ἐπὶ πᾶσαν ψυχὴν ἀνθρώπου τοῦ κατεργαζομένου τὸ κακόν, Ἰουδαίου τε πρῶτον καὶ Ἕλληνος· 
+
+
+### Rom 2:10 {#rom-2-10}
+δόξα δὲ καὶ τιμὴ καὶ εἰρήνη παντὶ τῷ ἐργαζομένῳ τὸ ἀγαθόν, Ἰουδαίῳ τε πρῶτον καὶ Ἕλληνι· 
+
+
+### Rom 2:11 {#rom-2-11}
+οὐ γάρ ἐστιν προσωπολημψία παρὰ τῷ θεῷ. 
+
+
+### Rom 2:12 {#rom-2-12}
+Ὅσοι γὰρ ἀνόμως ἥμαρτον, ἀνόμως καὶ ἀπολοῦνται· καὶ ὅσοι ἐν νόμῳ ἥμαρτον, διὰ νόμου κριθήσονται· 
+
+
+### Rom 2:13 {#rom-2-13}
+οὐ γὰρ οἱ ἀκροαταὶ ⸀νόμου δίκαιοι παρὰ ⸀τῷ θεῷ, ἀλλʼ οἱ ποιηταὶ ⸁νόμου δικαιωθήσονται. 
+
+
+### Rom 2:14 {#rom-2-14}
+ὅταν γὰρ ἔθνη τὰ μὴ νόμον ἔχοντα φύσει τὰ τοῦ νόμου ⸀ποιῶσιν, οὗτοι νόμον μὴ ἔχοντες ἑαυτοῖς εἰσιν νόμος· 
+
+
+### Rom 2:15 {#rom-2-15}
+οἵτινες ἐνδείκνυνται τὸ ἔργον τοῦ νόμου γραπτὸν ἐν ταῖς καρδίαις αὐτῶν, συμμαρτυρούσης αὐτῶν τῆς συνειδήσεως καὶ μεταξὺ ἀλλήλων τῶν λογισμῶν κατηγορούντων ἢ καὶ ἀπολογουμένων, 
+
+
+### Rom 2:16 {#rom-2-16}
+ἐν ⸂ἡμέρᾳ ὅτε⸃ ⸀κρίνει ὁ θεὸς τὰ κρυπτὰ τῶν ἀνθρώπων κατὰ τὸ εὐαγγέλιόν μου διὰ ⸂Χριστοῦ Ἰησοῦ⸃. 
+
+
+### Rom 2:17 {#rom-2-17}
+⸂Εἰ δὲ⸃ σὺ Ἰουδαῖος ἐπονομάζῃ καὶ ἐπαναπαύῃ ⸀νόμῳ καὶ καυχᾶσαι ἐν θεῷ 
+
+
+### Rom 2:18 {#rom-2-18}
+καὶ γινώσκεις τὸ θέλημα καὶ δοκιμάζεις τὰ διαφέροντα κατηχούμενος ἐκ τοῦ νόμου, 
+
+
+### Rom 2:19 {#rom-2-19}
+πέποιθάς τε σεαυτὸν ὁδηγὸν εἶναι τυφλῶν, φῶς τῶν ἐν σκότει, 
+
+
+### Rom 2:20 {#rom-2-20}
+παιδευτὴν ἀφρόνων, διδάσκαλον νηπίων, ἔχοντα τὴν μόρφωσιν τῆς γνώσεως καὶ τῆς ἀληθείας ἐν τῷ νόμῳ— 
+
+
+### Rom 2:21 {#rom-2-21}
+ὁ οὖν διδάσκων ἕτερον σεαυτὸν οὐ διδάσκεις; ὁ κηρύσσων μὴ κλέπτειν κλέπτεις; 
+
+
+### Rom 2:22 {#rom-2-22}
+ὁ λέγων μὴ μοιχεύειν μοιχεύεις; ὁ βδελυσσόμενος τὰ εἴδωλα ἱεροσυλεῖς; 
+
+
+### Rom 2:23 {#rom-2-23}
+ὃς ἐν νόμῳ καυχᾶσαι, διὰ τῆς παραβάσεως τοῦ νόμου τὸν θεὸν ἀτιμάζεις; 
+
+
+### Rom 2:24 {#rom-2-24}
+τὸ γὰρ ὄνομα τοῦ θεοῦ διʼ ὑμᾶς βλασφημεῖται ἐν τοῖς ἔθνεσιν, καθὼς γέγραπται. 
+
+
+### Rom 2:25 {#rom-2-25}
+Περιτομὴ μὲν γὰρ ὠφελεῖ ἐὰν νόμον πράσσῃς· ἐὰν δὲ παραβάτης νόμου ᾖς, ἡ περιτομή σου ἀκροβυστία γέγονεν. 
+
+
+### Rom 2:26 {#rom-2-26}
+ἐὰν οὖν ἡ ἀκροβυστία τὰ δικαιώματα τοῦ νόμου φυλάσσῃ, ⸀οὐχ ἡ ἀκροβυστία αὐτοῦ εἰς περιτομὴν λογισθήσεται; 
+
+
+### Rom 2:27 {#rom-2-27}
+καὶ κρινεῖ ἡ ἐκ φύσεως ἀκροβυστία τὸν νόμον τελοῦσα σὲ τὸν διὰ γράμματος καὶ περιτομῆς παραβάτην νόμου. 
+
+
+### Rom 2:28 {#rom-2-28}
+οὐ γὰρ ὁ ἐν τῷ φανερῷ Ἰουδαῖός ἐστιν, οὐδὲ ἡ ἐν τῷ φανερῷ ἐν σαρκὶ περιτομή· 
+
+
+### Rom 2:29 {#rom-2-29}
+ἀλλʼ ὁ ἐν τῷ κρυπτῷ Ἰουδαῖος, καὶ περιτομὴ καρδίας ἐν πνεύματι οὐ γράμματι, οὗ ὁ ἔπαινος οὐκ ἐξ ἀνθρώπων ἀλλʼ ἐκ τοῦ θεοῦ. 
+
+
+### Rom 3:1 {#rom-3-1}
+Τί οὖν τὸ περισσὸν τοῦ Ἰουδαίου, ἢ τίς ἡ ὠφέλεια τῆς περιτομῆς; 
+
+
+### Rom 3:2 {#rom-3-2}
+πολὺ κατὰ πάντα τρόπον. πρῶτον μὲν ⸀γὰρ ὅτι ἐπιστεύθησαν τὰ λόγια τοῦ θεοῦ. 
+
+
+### Rom 3:3 {#rom-3-3}
+τί γάρ; εἰ ἠπίστησάν τινες, μὴ ἡ ἀπιστία αὐτῶν τὴν πίστιν τοῦ θεοῦ καταργήσει; 
+
+
+### Rom 3:4 {#rom-3-4}
+μὴ γένοιτο· γινέσθω δὲ ὁ θεὸς ἀληθής, πᾶς δὲ ἄνθρωπος ψεύστης, ⸀καθὼς γέγραπται· Ὅπως ἂν δικαιωθῇς ἐν τοῖς λόγοις σου καὶ ⸀νικήσεις ἐν τῷ κρίνεσθαί σε. 
+
+
+### Rom 3:5 {#rom-3-5}
+εἰ δὲ ἡ ἀδικία ἡμῶν θεοῦ δικαιοσύνην συνίστησιν, τί ἐροῦμεν; μὴ ἄδικος ὁ θεὸς ὁ ἐπιφέρων τὴν ὀργήν; κατὰ ἄνθρωπον λέγω. 
+
+
+### Rom 3:6 {#rom-3-6}
+μὴ γένοιτο· ἐπεὶ πῶς κρινεῖ ὁ θεὸς τὸν κόσμον; 
+
+
+### Rom 3:7 {#rom-3-7}
+εἰ ⸀δὲ ἡ ἀλήθεια τοῦ θεοῦ ἐν τῷ ἐμῷ ψεύσματι ἐπερίσσευσεν εἰς τὴν δόξαν αὐτοῦ, τί ἔτι κἀγὼ ὡς ἁμαρτωλὸς κρίνομαι, 
+
+
+### Rom 3:8 {#rom-3-8}
+καὶ μὴ καθὼς βλασφημούμεθα καὶ καθώς φασίν τινες ἡμᾶς λέγειν ὅτι Ποιήσωμεν τὰ κακὰ ἵνα ἔλθῃ τὰ ἀγαθά; ὧν τὸ κρίμα ἔνδικόν ἐστιν. 
+
+
+### Rom 3:9 {#rom-3-9}
+Τί οὖν; προεχόμεθα; οὐ πάντως, προῃτιασάμεθα γὰρ Ἰουδαίους τε καὶ Ἕλληνας πάντας ὑφʼ ἁμαρτίαν εἶναι, 
+
+
+### Rom 3:10 {#rom-3-10}
+καθὼς γέγραπται ὅτι Οὐκ ἔστιν δίκαιος οὐδὲ εἷς, 
+
+
+### Rom 3:11 {#rom-3-11}
+οὐκ ἔστιν ⸀ὁ συνίων, οὐκ ἔστιν ⸁ὁ ἐκζητῶν τὸν θεόν· 
+
+
+### Rom 3:12 {#rom-3-12}
+πάντες ἐξέκλιναν, ἅμα ἠχρεώθησαν· οὐκ ⸀ἔστιν ποιῶν χρηστότητα, οὐκ ἔστιν ἕως ἑνός. 
+
+
+### Rom 3:13 {#rom-3-13}
+τάφος ἀνεῳγμένος ὁ λάρυγξ αὐτῶν, ταῖς γλώσσαις αὐτῶν ἐδολιοῦσαν, ἰὸς ἀσπίδων ὑπὸ τὰ χείλη αὐτῶν, 
+
+
+### Rom 3:14 {#rom-3-14}
+ὧν τὸ στόμα ἀρᾶς καὶ πικρίας γέμει· 
+
+
+### Rom 3:15 {#rom-3-15}
+ὀξεῖς οἱ πόδες αὐτῶν ἐκχέαι αἷμα, 
+
+
+### Rom 3:16 {#rom-3-16}
+σύντριμμα καὶ ταλαιπωρία ἐν ταῖς ὁδοῖς αὐτῶν, 
+
+
+### Rom 3:17 {#rom-3-17}
+καὶ ὁδὸν εἰρήνης οὐκ ἔγνωσαν. 
+
+
+### Rom 3:18 {#rom-3-18}
+οὐκ ἔστιν φόβος θεοῦ ἀπέναντι τῶν ὀφθαλμῶν αὐτῶν. 
+
+
+### Rom 3:19 {#rom-3-19}
+Οἴδαμεν δὲ ὅτι ὅσα ὁ νόμος λέγει τοῖς ἐν τῷ νόμῳ λαλεῖ, ἵνα πᾶν στόμα φραγῇ καὶ ὑπόδικος γένηται πᾶς ὁ κόσμος τῷ θεῷ· 
+
+
+### Rom 3:20 {#rom-3-20}
+διότι ἐξ ἔργων νόμου οὐ δικαιωθήσεται πᾶσα σὰρξ ἐνώπιον αὐτοῦ, διὰ γὰρ νόμου ἐπίγνωσις ἁμαρτίας. 
+
+
+### Rom 3:21 {#rom-3-21}
+Νυνὶ δὲ χωρὶς νόμου δικαιοσύνη θεοῦ πεφανέρωται, μαρτυρουμένη ὑπὸ τοῦ νόμου καὶ τῶν προφητῶν, 
+
+
+### Rom 3:22 {#rom-3-22}
+δικαιοσύνη δὲ θεοῦ διὰ πίστεως Ἰησοῦ Χριστοῦ, εἰς ⸀πάντας τοὺς πιστεύοντας, οὐ γάρ ἐστιν διαστολή. 
+
+
+### Rom 3:23 {#rom-3-23}
+πάντες γὰρ ἥμαρτον καὶ ὑστεροῦνται τῆς δόξης τοῦ θεοῦ, 
+
+
+### Rom 3:24 {#rom-3-24}
+δικαιούμενοι δωρεὰν τῇ αὐτοῦ χάριτι διὰ τῆς ἀπολυτρώσεως τῆς ἐν Χριστῷ Ἰησοῦ· 
+
+
+### Rom 3:25 {#rom-3-25}
+ὃν προέθετο ὁ θεὸς ἱλαστήριον ⸀διὰ πίστεως ἐν τῷ αὐτοῦ αἵματι εἰς ἔνδειξιν τῆς δικαιοσύνης αὐτοῦ διὰ τὴν πάρεσιν τῶν προγεγονότων ἁμαρτημάτων 
+
+
+### Rom 3:26 {#rom-3-26}
+ἐν τῇ ἀνοχῇ τοῦ θεοῦ, πρὸς ⸀τὴν ἔνδειξιν τῆς δικαιοσύνης αὐτοῦ ἐν τῷ νῦν καιρῷ, εἰς τὸ εἶναι αὐτὸν δίκαιον καὶ δικαιοῦντα τὸν ἐκ πίστεως Ἰησοῦ. 
+
+
+### Rom 3:27 {#rom-3-27}
+Ποῦ οὖν ἡ καύχησις; ἐξεκλείσθη. διὰ ποίου νόμου; τῶν ἔργων; οὐχί, ἀλλὰ διὰ νόμου πίστεως. 
+
+
+### Rom 3:28 {#rom-3-28}
+λογιζόμεθα ⸀γὰρ ⸂δικαιοῦσθαι πίστει⸃ ἄνθρωπον χωρὶς ἔργων νόμου. 
+
+
+### Rom 3:29 {#rom-3-29}
+ἢ Ἰουδαίων ὁ θεὸς μόνον; ⸀οὐχὶ καὶ ἐθνῶν; ναὶ καὶ ἐθνῶν, 
+
+
+### Rom 3:30 {#rom-3-30}
+⸀εἴπερ εἷς ὁ θεός, ὃς δικαιώσει περιτομὴν ἐκ πίστεως καὶ ἀκροβυστίαν διὰ τῆς πίστεως. 
+
+
+### Rom 3:31 {#rom-3-31}
+νόμον οὖν καταργοῦμεν διὰ τῆς πίστεως; μὴ γένοιτο, ἀλλὰ νόμον ⸀ἱστάνομεν. 
+
+
+### Rom 4:1 {#rom-4-1}
+Τί οὖν ἐροῦμεν ⸀εὑρηκέναι Ἀβραὰμ τὸν ⸀προπάτορα ⸀ἡμῶν κατὰ σάρκα; 
+
+
+### Rom 4:2 {#rom-4-2}
+εἰ γὰρ Ἀβραὰμ ἐξ ἔργων ἐδικαιώθη, ἔχει καύχημα· ἀλλʼ οὐ ⸀πρὸς θεόν, 
+
+
+### Rom 4:3 {#rom-4-3}
+τί γὰρ ἡ γραφὴ λέγει; Ἐπίστευσεν δὲ Ἀβραὰμ τῷ θεῷ καὶ ἐλογίσθη αὐτῷ εἰς δικαιοσύνην. 
+
+
+### Rom 4:4 {#rom-4-4}
+τῷ δὲ ἐργαζομένῳ ὁ μισθὸς οὐ λογίζεται κατὰ χάριν ἀλλὰ κατὰ ὀφείλημα· 
+
+
+### Rom 4:5 {#rom-4-5}
+τῷ δὲ μὴ ἐργαζομένῳ, πιστεύοντι δὲ ἐπὶ τὸν δικαιοῦντα τὸν ἀσεβῆ, λογίζεται ἡ πίστις αὐτοῦ εἰς δικαιοσύνην, 
+
+
+### Rom 4:6 {#rom-4-6}
+καθάπερ καὶ Δαυὶδ λέγει τὸν μακαρισμὸν τοῦ ἀνθρώπου ᾧ ὁ θεὸς λογίζεται δικαιοσύνην χωρὶς ἔργων· 
+
+
+### Rom 4:7 {#rom-4-7}
+Μακάριοι ὧν ἀφέθησαν αἱ ἀνομίαι καὶ ὧν ἐπεκαλύφθησαν αἱ ἁμαρτίαι, 
+
+
+### Rom 4:8 {#rom-4-8}
+μακάριος ἀνὴρ ⸀οὗ οὐ μὴ λογίσηται κύριος ἁμαρτίαν. 
+
+
+### Rom 4:9 {#rom-4-9}
+Ὁ μακαρισμὸς οὖν οὗτος ἐπὶ τὴν περιτομὴν ἢ καὶ ἐπὶ τὴν ἀκροβυστίαν; λέγομεν ⸀γάρ· Ἐλογίσθη τῷ Ἀβραὰμ ἡ πίστις εἰς δικαιοσύνην. 
+
+
+### Rom 4:10 {#rom-4-10}
+πῶς οὖν ἐλογίσθη; ἐν περιτομῇ ὄντι ἢ ἐν ἀκροβυστίᾳ; οὐκ ἐν περιτομῇ ἀλλʼ ἐν ἀκροβυστίᾳ· 
+
+
+### Rom 4:11 {#rom-4-11}
+καὶ σημεῖον ἔλαβεν περιτομῆς, σφραγῖδα τῆς δικαιοσύνης τῆς πίστεως τῆς ἐν τῇ ἀκροβυστίᾳ, εἰς τὸ εἶναι αὐτὸν πατέρα πάντων τῶν πιστευόντων διʼ ἀκροβυστίας, εἰς τὸ ⸀λογισθῆναι αὐτοῖς τὴν δικαιοσύνην, 
+
+
+### Rom 4:12 {#rom-4-12}
+καὶ πατέρα περιτομῆς τοῖς οὐκ ἐκ περιτομῆς μόνον ἀλλὰ καὶ τοῖς στοιχοῦσιν τοῖς ἴχνεσιν τῆς ⸂ἐν ἀκροβυστίᾳ πίστεως⸃ τοῦ πατρὸς ἡμῶν Ἀβραάμ. 
+
+
+### Rom 4:13 {#rom-4-13}
+Οὐ γὰρ διὰ νόμου ἡ ἐπαγγελία τῷ Ἀβραὰμ ἢ τῷ σπέρματι αὐτοῦ, τὸ κληρονόμον αὐτὸν ⸀εἶναι κόσμου, ἀλλὰ διὰ δικαιοσύνης πίστεως· 
+
+
+### Rom 4:14 {#rom-4-14}
+εἰ γὰρ οἱ ἐκ νόμου κληρονόμοι, κεκένωται ἡ πίστις καὶ κατήργηται ἡ ἐπαγγελία· 
+
+
+### Rom 4:15 {#rom-4-15}
+ὁ γὰρ νόμος ὀργὴν κατεργάζεται, οὗ ⸀δὲ οὐκ ἔστιν νόμος, οὐδὲ παράβασις. 
+
+
+### Rom 4:16 {#rom-4-16}
+Διὰ τοῦτο ἐκ πίστεως, ἵνα κατὰ χάριν, εἰς τὸ εἶναι βεβαίαν τὴν ἐπαγγελίαν παντὶ τῷ σπέρματι, οὐ τῷ ἐκ τοῦ νόμου μόνον ἀλλὰ καὶ τῷ ἐκ πίστεως Ἀβραάμ (ὅς ἐστιν πατὴρ πάντων ἡμῶν, 
+
+
+### Rom 4:17 {#rom-4-17}
+καθὼς γέγραπται ὅτι Πατέρα πολλῶν ἐθνῶν τέθεικά σε), κατέναντι οὗ ἐπίστευσεν θεοῦ τοῦ ζῳοποιοῦντος τοὺς νεκροὺς καὶ καλοῦντος τὰ μὴ ὄντα ὡς ὄντα· 
+
+
+### Rom 4:18 {#rom-4-18}
+ὃς παρʼ ἐλπίδα ἐπʼ ἐλπίδι ἐπίστευσεν εἰς τὸ γενέσθαι αὐτὸν πατέρα πολλῶν ἐθνῶν κατὰ τὸ εἰρημένον· Οὕτως ἔσται τὸ σπέρμα σου· 
+
+
+### Rom 4:19 {#rom-4-19}
+καὶ μὴ ἀσθενήσας τῇ ⸀πίστει κατενόησεν τὸ ἑαυτοῦ ⸀σῶμα νενεκρωμένον, ἑκατονταετής που ὑπάρχων, καὶ τὴν νέκρωσιν τῆς μήτρας Σάρρας, 
+
+
+### Rom 4:20 {#rom-4-20}
+εἰς δὲ τὴν ἐπαγγελίαν τοῦ θεοῦ οὐ διεκρίθη τῇ ἀπιστίᾳ ἀλλὰ ἐνεδυναμώθη τῇ πίστει, δοὺς δόξαν τῷ θεῷ 
+
+
+### Rom 4:21 {#rom-4-21}
+καὶ πληροφορηθεὶς ὅτι ὃ ἐπήγγελται δυνατός ἐστιν καὶ ποιῆσαι. 
+
+
+### Rom 4:22 {#rom-4-22}
+⸀διὸ ἐλογίσθη αὐτῷ εἰς δικαιοσύνην. 
+
+
+### Rom 4:23 {#rom-4-23}
+Οὐκ ἐγράφη δὲ διʼ αὐτὸν μόνον ὅτι ἐλογίσθη αὐτῷ, 
+
+
+### Rom 4:24 {#rom-4-24}
+ἀλλὰ καὶ διʼ ἡμᾶς οἷς μέλλει λογίζεσθαι, τοῖς πιστεύουσιν ἐπὶ τὸν ἐγείραντα Ἰησοῦν τὸν κύριον ἡμῶν ἐκ νεκρῶν, 
+
+
+### Rom 4:25 {#rom-4-25}
+ὃς παρεδόθη διὰ τὰ παραπτώματα ἡμῶν καὶ ἠγέρθη διὰ τὴν δικαίωσιν ἡμῶν. 
+
+
+### Rom 5:1 {#rom-5-1}
+Δικαιωθέντες οὖν ἐκ πίστεως εἰρήνην ⸀ἔχομεν πρὸς τὸν θεὸν διὰ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, 
+
+
+### Rom 5:2 {#rom-5-2}
+διʼ οὗ καὶ τὴν προσαγωγὴν ἐσχήκαμεν τῇ πίστει εἰς τὴν χάριν ταύτην ἐν ᾗ ἑστήκαμεν, καὶ καυχώμεθα ἐπʼ ἐλπίδι τῆς δόξης τοῦ θεοῦ· 
+
+
+### Rom 5:3 {#rom-5-3}
+οὐ μόνον δέ, ἀλλὰ καὶ ⸀καυχώμεθα ἐν ταῖς θλίψεσιν, εἰδότες ὅτι ἡ θλῖψις ὑπομονὴν κατεργάζεται, 
+
+
+### Rom 5:4 {#rom-5-4}
+ἡ δὲ ὑπομονὴ δοκιμήν, ἡ δὲ δοκιμὴ ἐλπίδα. 
+
+
+### Rom 5:5 {#rom-5-5}
+ἡ δὲ ἐλπὶς οὐ καταισχύνει· ὅτι ἡ ἀγάπη τοῦ θεοῦ ἐκκέχυται ἐν ταῖς καρδίαις ἡμῶν διὰ πνεύματος ἁγίου τοῦ δοθέντος ἡμῖν. 
+
+
+### Rom 5:6 {#rom-5-6}
+⸂Ἔτι γὰρ⸃ Χριστὸς ὄντων ἡμῶν ἀσθενῶν ⸀ἔτι κατὰ καιρὸν ὑπὲρ ἀσεβῶν ἀπέθανεν. 
+
+
+### Rom 5:7 {#rom-5-7}
+μόλις γὰρ ὑπὲρ δικαίου τις ἀποθανεῖται· ὑπὲρ γὰρ τοῦ ἀγαθοῦ τάχα τις καὶ τολμᾷ ἀποθανεῖν· 
+
+
+### Rom 5:8 {#rom-5-8}
+συνίστησιν δὲ τὴν ἑαυτοῦ ἀγάπην εἰς ἡμᾶς ὁ θεὸς ὅτι ἔτι ἁμαρτωλῶν ὄντων ἡμῶν Χριστὸς ὑπὲρ ἡμῶν ἀπέθανεν. 
+
+
+### Rom 5:9 {#rom-5-9}
+πολλῷ οὖν μᾶλλον δικαιωθέντες νῦν ἐν τῷ αἵματι αὐτοῦ σωθησόμεθα διʼ αὐτοῦ ἀπὸ τῆς ὀργῆς. 
+
+
+### Rom 5:10 {#rom-5-10}
+εἰ γὰρ ἐχθροὶ ὄντες κατηλλάγημεν τῷ θεῷ διὰ τοῦ θανάτου τοῦ υἱοῦ αὐτοῦ, πολλῷ μᾶλλον καταλλαγέντες σωθησόμεθα ἐν τῇ ζωῇ αὐτοῦ· 
+
+
+### Rom 5:11 {#rom-5-11}
+οὐ μόνον δέ, ἀλλὰ καὶ καυχώμενοι ἐν τῷ θεῷ διὰ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, διʼ οὗ νῦν τὴν καταλλαγὴν ἐλάβομεν. 
+
+
+### Rom 5:12 {#rom-5-12}
+Διὰ τοῦτο ὥσπερ διʼ ἑνὸς ἀνθρώπου ἡ ἁμαρτία εἰς τὸν κόσμον εἰσῆλθεν καὶ διὰ τῆς ἁμαρτίας ὁ θάνατος, καὶ οὕτως εἰς πάντας ἀνθρώπους ὁ θάνατος διῆλθεν ἐφʼ ᾧ πάντες ἥμαρτον— 
+
+
+### Rom 5:13 {#rom-5-13}
+ἄχρι γὰρ νόμου ἁμαρτία ἦν ἐν κόσμῳ, ἁμαρτία δὲ οὐκ ἐλλογεῖται μὴ ὄντος νόμου, 
+
+
+### Rom 5:14 {#rom-5-14}
+ἀλλὰ ἐβασίλευσεν ὁ θάνατος ἀπὸ Ἀδὰμ μέχρι Μωϋσέως καὶ ἐπὶ τοὺς μὴ ἁμαρτήσαντας ἐπὶ τῷ ὁμοιώματι τῆς παραβάσεως Ἀδάμ, ὅς ἐστιν τύπος τοῦ μέλλοντος. 
+
+
+### Rom 5:15 {#rom-5-15}
+Ἀλλʼ οὐχ ὡς τὸ παράπτωμα, οὕτως καὶ τὸ χάρισμα· εἰ γὰρ τῷ τοῦ ἑνὸς παραπτώματι οἱ πολλοὶ ἀπέθανον, πολλῷ μᾶλλον ἡ χάρις τοῦ θεοῦ καὶ ἡ δωρεὰ ἐν χάριτι τῇ τοῦ ἑνὸς ἀνθρώπου Ἰησοῦ Χριστοῦ εἰς τοὺς πολλοὺς ἐπερίσσευσεν. 
+
+
+### Rom 5:16 {#rom-5-16}
+καὶ οὐχ ὡς διʼ ἑνὸς ἁμαρτήσαντος τὸ δώρημα· τὸ μὲν γὰρ κρίμα ἐξ ἑνὸς εἰς κατάκριμα, τὸ δὲ χάρισμα ἐκ πολλῶν παραπτωμάτων εἰς δικαίωμα. 
+
+
+### Rom 5:17 {#rom-5-17}
+εἰ γὰρ τῷ τοῦ ἑνὸς παραπτώματι ὁ θάνατος ἐβασίλευσεν διὰ τοῦ ἑνός, πολλῷ μᾶλλον οἱ τὴν περισσείαν τῆς χάριτος καὶ τῆς δωρεᾶς τῆς δικαιοσύνης λαμβάνοντες ἐν ζωῇ βασιλεύσουσιν διὰ τοῦ ἑνὸς Ἰησοῦ Χριστοῦ. 
+
+
+### Rom 5:18 {#rom-5-18}
+Ἄρα οὖν ὡς διʼ ἑνὸς παραπτώματος εἰς πάντας ἀνθρώπους εἰς κατάκριμα, οὕτως καὶ διʼ ἑνὸς δικαιώματος εἰς πάντας ἀνθρώπους εἰς δικαίωσιν ζωῆς· 
+
+
+### Rom 5:19 {#rom-5-19}
+ὥσπερ γὰρ διὰ τῆς παρακοῆς τοῦ ἑνὸς ἀνθρώπου ἁμαρτωλοὶ κατεστάθησαν οἱ πολλοί, οὕτως καὶ διὰ τῆς ὑπακοῆς τοῦ ἑνὸς δίκαιοι κατασταθήσονται οἱ πολλοί. 
+
+
+### Rom 5:20 {#rom-5-20}
+νόμος δὲ παρεισῆλθεν ἵνα πλεονάσῃ τὸ παράπτωμα· οὗ δὲ ἐπλεόνασεν ἡ ἁμαρτία, ὑπερεπερίσσευσεν ἡ χάρις, 
+
+
+### Rom 5:21 {#rom-5-21}
+ἵνα ὥσπερ ἐβασίλευσεν ἡ ἁμαρτία ἐν τῷ θανάτῳ, οὕτως καὶ ἡ χάρις βασιλεύσῃ διὰ δικαιοσύνης εἰς ζωὴν αἰώνιον διὰ Ἰησοῦ Χριστοῦ τοῦ κυρίου ἡμῶν. 
+
+
+### Rom 6:1 {#rom-6-1}
+Τί οὖν ἐροῦμεν; ⸀ἐπιμένωμεν τῇ ἁμαρτίᾳ, ἵνα ἡ χάρις πλεονάσῃ; 
+
+
+### Rom 6:2 {#rom-6-2}
+μὴ γένοιτο· οἵτινες ἀπεθάνομεν τῇ ἁμαρτίᾳ, πῶς ἔτι ζήσομεν ἐν αὐτῇ; 
+
+
+### Rom 6:3 {#rom-6-3}
+ἢ ἀγνοεῖτε ὅτι ὅσοι ἐβαπτίσθημεν εἰς Χριστὸν Ἰησοῦν εἰς τὸν θάνατον αὐτοῦ ἐβαπτίσθημεν; 
+
+
+### Rom 6:4 {#rom-6-4}
+συνετάφημεν οὖν αὐτῷ διὰ τοῦ βαπτίσματος εἰς τὸν θάνατον, ἵνα ὥσπερ ἠγέρθη Χριστὸς ἐκ νεκρῶν διὰ τῆς δόξης τοῦ πατρός, οὕτως καὶ ἡμεῖς ἐν καινότητι ζωῆς περιπατήσωμεν. 
+
+
+### Rom 6:5 {#rom-6-5}
+Εἰ γὰρ σύμφυτοι γεγόναμεν τῷ ὁμοιώματι τοῦ θανάτου αὐτοῦ, ἀλλὰ καὶ τῆς ἀναστάσεως ἐσόμεθα· 
+
+
+### Rom 6:6 {#rom-6-6}
+τοῦτο γινώσκοντες ὅτι ὁ παλαιὸς ἡμῶν ἄνθρωπος συνεσταυρώθη, ἵνα καταργηθῇ τὸ σῶμα τῆς ἁμαρτίας, τοῦ μηκέτι δουλεύειν ἡμᾶς τῇ ἁμαρτίᾳ, 
+
+
+### Rom 6:7 {#rom-6-7}
+ὁ γὰρ ἀποθανὼν δεδικαίωται ἀπὸ τῆς ἁμαρτίας. 
+
+
+### Rom 6:8 {#rom-6-8}
+εἰ δὲ ἀπεθάνομεν σὺν Χριστῷ, πιστεύομεν ὅτι καὶ συζήσομεν αὐτῷ· 
+
+
+### Rom 6:9 {#rom-6-9}
+εἰδότες ὅτι Χριστὸς ἐγερθεὶς ἐκ νεκρῶν οὐκέτι ἀποθνῄσκει, θάνατος αὐτοῦ οὐκέτι κυριεύει· 
+
+
+### Rom 6:10 {#rom-6-10}
+ὃ γὰρ ἀπέθανεν, τῇ ἁμαρτίᾳ ἀπέθανεν ἐφάπαξ· ὃ δὲ ζῇ, ζῇ τῷ θεῷ. 
+
+
+### Rom 6:11 {#rom-6-11}
+οὕτως καὶ ὑμεῖς λογίζεσθε ἑαυτοὺς ⸂εἶναι νεκροὺς μὲν⸃ τῇ ἁμαρτίᾳ ζῶντας δὲ τῷ θεῷ ἐν Χριστῷ ⸀Ἰησοῦ. 
+
+
+### Rom 6:12 {#rom-6-12}
+Μὴ οὖν βασιλευέτω ἡ ἁμαρτία ἐν τῷ θνητῷ ὑμῶν σώματι εἰς τὸ ⸀ὑπακούειν ταῖς ἐπιθυμίαις αὐτοῦ, 
+
+
+### Rom 6:13 {#rom-6-13}
+μηδὲ παριστάνετε τὰ μέλη ὑμῶν ὅπλα ἀδικίας τῇ ἁμαρτίᾳ, ἀλλὰ παραστήσατε ἑαυτοὺς τῷ θεῷ ⸀ὡσεὶ ἐκ νεκρῶν ζῶντας καὶ τὰ μέλη ὑμῶν ὅπλα δικαιοσύνης τῷ θεῷ. 
+
+
+### Rom 6:14 {#rom-6-14}
+ἁμαρτία γὰρ ὑμῶν οὐ κυριεύσει, οὐ γάρ ἐστε ὑπὸ νόμον ἀλλὰ ὑπὸ χάριν. 
+
+
+### Rom 6:15 {#rom-6-15}
+Τί οὖν; ⸀ἁμαρτήσωμεν ὅτι οὐκ ἐσμὲν ὑπὸ νόμον ἀλλὰ ὑπὸ χάριν; μὴ γένοιτο· 
+
+
+### Rom 6:16 {#rom-6-16}
+οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον ἢ ὑπακοῆς εἰς δικαιοσύνην; 
+
+
+### Rom 6:17 {#rom-6-17}
+χάρις δὲ τῷ θεῷ ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς, 
+
+
+### Rom 6:18 {#rom-6-18}
+ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας ἐδουλώθητε τῇ δικαιοσύνῃ· 
+
+
+### Rom 6:19 {#rom-6-19}
+ἀνθρώπινον λέγω διὰ τὴν ἀσθένειαν τῆς σαρκὸς ὑμῶν· ὥσπερ γὰρ παρεστήσατε τὰ μέλη ὑμῶν δοῦλα τῇ ἀκαθαρσίᾳ καὶ τῇ ἀνομίᾳ εἰς τὴν ἀνομίαν, οὕτως νῦν παραστήσατε τὰ μέλη ὑμῶν δοῦλα τῇ δικαιοσύνῃ εἰς ἁγιασμόν. 
+
+
+### Rom 6:20 {#rom-6-20}
+Ὅτε γὰρ δοῦλοι ἦτε τῆς ἁμαρτίας, ἐλεύθεροι ἦτε τῇ δικαιοσύνῃ. 
+
+
+### Rom 6:21 {#rom-6-21}
+τίνα οὖν καρπὸν εἴχετε τότε ἐφʼ οἷς νῦν ἐπαισχύνεσθε; τὸ γὰρ τέλος ἐκείνων θάνατος· 
+
+
+### Rom 6:22 {#rom-6-22}
+νυνὶ δέ, ἐλευθερωθέντες ἀπὸ τῆς ἁμαρτίας δουλωθέντες δὲ τῷ θεῷ, ἔχετε τὸν καρπὸν ὑμῶν εἰς ἁγιασμόν, τὸ δὲ τέλος ζωὴν αἰώνιον. 
+
+
+### Rom 6:23 {#rom-6-23}
+τὰ γὰρ ὀψώνια τῆς ἁμαρτίας θάνατος, τὸ δὲ χάρισμα τοῦ θεοῦ ζωὴ αἰώνιος ἐν Χριστῷ Ἰησοῦ τῷ κυρίῳ ἡμῶν. 
+
+
+### Rom 7:1 {#rom-7-1}
+Ἢ ἀγνοεῖτε, ἀδελφοί, γινώσκουσιν γὰρ νόμον λαλῶ, ὅτι ὁ νόμος κυριεύει τοῦ ἀνθρώπου ἐφʼ ὅσον χρόνον ζῇ; 
+
+
+### Rom 7:2 {#rom-7-2}
+ἡ γὰρ ὕπανδρος γυνὴ τῷ ζῶντι ἀνδρὶ δέδεται νόμῳ· ἐὰν δὲ ἀποθάνῃ ὁ ἀνήρ, κατήργηται ἀπὸ τοῦ νόμου τοῦ ἀνδρός. 
+
+
+### Rom 7:3 {#rom-7-3}
+ἄρα οὖν ζῶντος τοῦ ἀνδρὸς μοιχαλὶς χρηματίσει ἐὰν γένηται ἀνδρὶ ἑτέρῳ· ἐὰν δὲ ἀποθάνῃ ὁ ἀνήρ, ἐλευθέρα ἐστὶν ἀπὸ τοῦ νόμου, τοῦ μὴ εἶναι αὐτὴν μοιχαλίδα γενομένην ἀνδρὶ ἑτέρῳ. 
+
+
+### Rom 7:4 {#rom-7-4}
+Ὥστε, ἀδελφοί μου, καὶ ὑμεῖς ἐθανατώθητε τῷ νόμῳ διὰ τοῦ σώματος τοῦ Χριστοῦ, εἰς τὸ γενέσθαι ὑμᾶς ἑτέρῳ, τῷ ἐκ νεκρῶν ἐγερθέντι ἵνα καρποφορήσωμεν τῷ θεῷ. 
+
+
+### Rom 7:5 {#rom-7-5}
+ὅτε γὰρ ἦμεν ἐν τῇ σαρκί, τὰ παθήματα τῶν ἁμαρτιῶν τὰ διὰ τοῦ νόμου ἐνηργεῖτο ἐν τοῖς μέλεσιν ἡμῶν εἰς τὸ καρποφορῆσαι τῷ θανάτῳ· 
+
+
+### Rom 7:6 {#rom-7-6}
+νυνὶ δὲ κατηργήθημεν ἀπὸ τοῦ νόμου, ἀποθανόντες ἐν ᾧ κατειχόμεθα, ὥστε δουλεύειν ἡμᾶς ἐν καινότητι πνεύματος καὶ οὐ παλαιότητι γράμματος. 
+
+
+### Rom 7:7 {#rom-7-7}
+Τί οὖν ἐροῦμεν; ὁ νόμος ἁμαρτία; μὴ γένοιτο· ἀλλὰ τὴν ἁμαρτίαν οὐκ ἔγνων εἰ μὴ διὰ νόμου, τήν τε γὰρ ἐπιθυμίαν οὐκ ᾔδειν εἰ μὴ ὁ νόμος ἔλεγεν· Οὐκ ἐπιθυμήσεις· 
+
+
+### Rom 7:8 {#rom-7-8}
+ἀφορμὴν δὲ λαβοῦσα ἡ ἁμαρτία διὰ τῆς ἐντολῆς κατειργάσατο ἐν ἐμοὶ πᾶσαν ἐπιθυμίαν, χωρὶς γὰρ νόμου ἁμαρτία νεκρά. 
+
+
+### Rom 7:9 {#rom-7-9}
+ἐγὼ δὲ ἔζων χωρὶς νόμου ποτέ· ἐλθούσης δὲ τῆς ἐντολῆς ἡ ἁμαρτία ἀνέζησεν, 
+
+
+### Rom 7:10 {#rom-7-10}
+ἐγὼ δὲ ἀπέθανον, καὶ εὑρέθη μοι ἡ ἐντολὴ ἡ εἰς ζωὴν αὕτη εἰς θάνατον· 
+
+
+### Rom 7:11 {#rom-7-11}
+ἡ γὰρ ἁμαρτία ἀφορμὴν λαβοῦσα διὰ τῆς ἐντολῆς ἐξηπάτησέν με καὶ διʼ αὐτῆς ἀπέκτεινεν. 
+
+
+### Rom 7:12 {#rom-7-12}
+ὥστε ὁ μὲν νόμος ἅγιος, καὶ ἡ ἐντολὴ ἁγία καὶ δικαία καὶ ἀγαθή. 
+
+
+### Rom 7:13 {#rom-7-13}
+Τὸ οὖν ἀγαθὸν ἐμοὶ ⸀ἐγένετο θάνατος; μὴ γένοιτο· ἀλλὰ ἡ ἁμαρτία, ἵνα φανῇ ἁμαρτία διὰ τοῦ ἀγαθοῦ μοι κατεργαζομένη θάνατον· ἵνα γένηται καθʼ ὑπερβολὴν ἁμαρτωλὸς ἡ ἁμαρτία διὰ τῆς ἐντολῆς. 
+
+
+### Rom 7:14 {#rom-7-14}
+Οἴδαμεν γὰρ ὅτι ὁ νόμος πνευματικός ἐστιν· ἐγὼ δὲ ⸀σάρκινός εἰμι, πεπραμένος ὑπὸ τὴν ἁμαρτίαν. 
+
+
+### Rom 7:15 {#rom-7-15}
+ὃ γὰρ κατεργάζομαι οὐ γινώσκω· οὐ γὰρ ὃ θέλω τοῦτο πράσσω, ἀλλʼ ὃ μισῶ τοῦτο ποιῶ. 
+
+
+### Rom 7:16 {#rom-7-16}
+εἰ δὲ ὃ οὐ θέλω τοῦτο ποιῶ, σύμφημι τῷ νόμῳ ὅτι καλός. 
+
+
+### Rom 7:17 {#rom-7-17}
+νυνὶ δὲ οὐκέτι ἐγὼ κατεργάζομαι αὐτὸ ἀλλὰ ἡ ⸀οἰκοῦσα ἐν ἐμοὶ ἁμαρτία. 
+
+
+### Rom 7:18 {#rom-7-18}
+οἶδα γὰρ ὅτι οὐκ οἰκεῖ ἐν ἐμοί, τοῦτʼ ἔστιν ἐν τῇ σαρκί μου, ἀγαθόν· τὸ γὰρ θέλειν παράκειταί μοι, τὸ δὲ κατεργάζεσθαι τὸ καλὸν ⸀οὔ· 
+
+
+### Rom 7:19 {#rom-7-19}
+οὐ γὰρ ὃ θέλω ποιῶ ἀγαθόν, ἀλλὰ ὃ οὐ θέλω κακὸν τοῦτο πράσσω. 
+
+
+### Rom 7:20 {#rom-7-20}
+εἰ δὲ ὃ οὐ ⸀θέλω τοῦτο ποιῶ, οὐκέτι ἐγὼ κατεργάζομαι αὐτὸ ἀλλὰ ἡ οἰκοῦσα ἐν ἐμοὶ ἁμαρτία. 
+
+
+### Rom 7:21 {#rom-7-21}
+Εὑρίσκω ἄρα τὸν νόμον τῷ θέλοντι ἐμοὶ ποιεῖν τὸ καλὸν ὅτι ἐμοὶ τὸ κακὸν παράκειται· 
+
+
+### Rom 7:22 {#rom-7-22}
+συνήδομαι γὰρ τῷ νόμῳ τοῦ θεοῦ κατὰ τὸν ἔσω ἄνθρωπον, 
+
+
+### Rom 7:23 {#rom-7-23}
+βλέπω δὲ ἕτερον νόμον ἐν τοῖς μέλεσίν μου ἀντιστρατευόμενον τῷ νόμῳ τοῦ νοός μου καὶ αἰχμαλωτίζοντά με ⸀ἐν τῷ νόμῳ τῆς ἁμαρτίας τῷ ὄντι ἐν τοῖς μέλεσίν μου. 
+
+
+### Rom 7:24 {#rom-7-24}
+ταλαίπωρος ἐγὼ ἄνθρωπος· τίς με ῥύσεται ἐκ τοῦ σώματος τοῦ θανάτου τούτου; 
+
+
+### Rom 7:25 {#rom-7-25}
+⸀χάρις τῷ θεῷ διὰ Ἰησοῦ Χριστοῦ τοῦ κυρίου ἡμῶν. Ἄρα οὖν αὐτὸς ἐγὼ τῷ μὲν νοῒ δουλεύω νόμῳ θεοῦ, τῇ δὲ σαρκὶ νόμῳ ἁμαρτίας. 
+
+
+### Rom 8:1 {#rom-8-1}
+Οὐδὲν ἄρα νῦν κατάκριμα τοῖς ἐν Χριστῷ ⸀Ἰησοῦ· 
+
+
+### Rom 8:2 {#rom-8-2}
+ὁ γὰρ νόμος τοῦ πνεύματος τῆς ζωῆς ἐν Χριστῷ Ἰησοῦ ἠλευθέρωσέν ⸀σε ἀπὸ τοῦ νόμου τῆς ἁμαρτίας καὶ τοῦ θανάτου. 
+
+
+### Rom 8:3 {#rom-8-3}
+τὸ γὰρ ἀδύνατον τοῦ νόμου, ἐν ᾧ ἠσθένει διὰ τῆς σαρκός, ὁ θεὸς τὸν ἑαυτοῦ υἱὸν πέμψας ἐν ὁμοιώματι σαρκὸς ἁμαρτίας καὶ περὶ ἁμαρτίας κατέκρινε τὴν ἁμαρτίαν ἐν τῇ σαρκί, 
+
+
+### Rom 8:4 {#rom-8-4}
+ἵνα τὸ δικαίωμα τοῦ νόμου πληρωθῇ ἐν ἡμῖν τοῖς μὴ κατὰ σάρκα περιπατοῦσιν ἀλλὰ κατὰ πνεῦμα· 
+
+
+### Rom 8:5 {#rom-8-5}
+οἱ γὰρ κατὰ σάρκα ὄντες τὰ τῆς σαρκὸς φρονοῦσιν, οἱ δὲ κατὰ πνεῦμα τὰ τοῦ πνεύματος. 
+
+
+### Rom 8:6 {#rom-8-6}
+τὸ γὰρ φρόνημα τῆς σαρκὸς θάνατος, τὸ δὲ φρόνημα τοῦ πνεύματος ζωὴ καὶ εἰρήνη· 
+
+
+### Rom 8:7 {#rom-8-7}
+διότι τὸ φρόνημα τῆς σαρκὸς ἔχθρα εἰς θεόν, τῷ γὰρ νόμῳ τοῦ θεοῦ οὐχ ὑποτάσσεται, οὐδὲ γὰρ δύναται· 
+
+
+### Rom 8:8 {#rom-8-8}
+οἱ δὲ ἐν σαρκὶ ὄντες θεῷ ἀρέσαι οὐ δύνανται. 
+
+
+### Rom 8:9 {#rom-8-9}
+Ὑμεῖς δὲ οὐκ ἐστὲ ἐν σαρκὶ ἀλλὰ ἐν πνεύματι, εἴπερ πνεῦμα θεοῦ οἰκεῖ ἐν ὑμῖν. εἰ δέ τις πνεῦμα Χριστοῦ οὐκ ἔχει, οὗτος οὐκ ἔστιν αὐτοῦ. 
+
+
+### Rom 8:10 {#rom-8-10}
+εἰ δὲ Χριστὸς ἐν ὑμῖν, τὸ μὲν σῶμα νεκρὸν διὰ ἁμαρτίαν, τὸ δὲ πνεῦμα ζωὴ διὰ δικαιοσύνην. 
+
+
+### Rom 8:11 {#rom-8-11}
+εἰ δὲ τὸ πνεῦμα τοῦ ἐγείραντος ⸀τὸν Ἰησοῦν ἐκ νεκρῶν οἰκεῖ ἐν ὑμῖν, ὁ ἐγείρας ⸂ἐκ νεκρῶν Χριστὸν Ἰησοῦν⸃ ζῳοποιήσει καὶ τὰ θνητὰ σώματα ὑμῶν διὰ ⸂τὸ ἐνοικοῦν αὐτοῦ πνεῦμα⸃ ἐν ὑμῖν. 
+
+
+### Rom 8:12 {#rom-8-12}
+Ἄρα οὖν, ἀδελφοί, ὀφειλέται ἐσμέν, οὐ τῇ σαρκὶ τοῦ κατὰ σάρκα ζῆν, 
+
+
+### Rom 8:13 {#rom-8-13}
+εἰ γὰρ κατὰ σάρκα ζῆτε μέλλετε ἀποθνῄσκειν, εἰ δὲ πνεύματι τὰς πράξεις τοῦ σώματος θανατοῦτε, ζήσεσθε. 
+
+
+### Rom 8:14 {#rom-8-14}
+ὅσοι γὰρ πνεύματι θεοῦ ἄγονται, οὗτοι ⸂υἱοί εἰσιν θεοῦ⸃. 
+
+
+### Rom 8:15 {#rom-8-15}
+οὐ γὰρ ἐλάβετε πνεῦμα δουλείας πάλιν εἰς φόβον, ἀλλὰ ἐλάβετε πνεῦμα υἱοθεσίας ἐν ᾧ κράζομεν· Αββα ὁ πατήρ· 
+
+
+### Rom 8:16 {#rom-8-16}
+αὐτὸ τὸ πνεῦμα συμμαρτυρεῖ τῷ πνεύματι ἡμῶν ὅτι ἐσμὲν τέκνα θεοῦ. 
+
+
+### Rom 8:17 {#rom-8-17}
+εἰ δὲ τέκνα, καὶ κληρονόμοι· κληρονόμοι μὲν θεοῦ, συγκληρονόμοι δὲ Χριστοῦ, εἴπερ συμπάσχομεν ἵνα καὶ συνδοξασθῶμεν. 
+
+
+### Rom 8:18 {#rom-8-18}
+Λογίζομαι γὰρ ὅτι οὐκ ἄξια τὰ παθήματα τοῦ νῦν καιροῦ πρὸς τὴν μέλλουσαν δόξαν ἀποκαλυφθῆναι εἰς ἡμᾶς. 
+
+
+### Rom 8:19 {#rom-8-19}
+ἡ γὰρ ἀποκαραδοκία τῆς κτίσεως τὴν ἀποκάλυψιν τῶν υἱῶν τοῦ θεοῦ ἀπεκδέχεται· 
+
+
+### Rom 8:20 {#rom-8-20}
+τῇ γὰρ ματαιότητι ἡ κτίσις ὑπετάγη, οὐχ ἑκοῦσα ἀλλὰ διὰ τὸν ὑποτάξαντα, ⸀ἐφʼ ἑλπίδι 
+
+
+### Rom 8:21 {#rom-8-21}
+ὅτι καὶ αὐτὴ ἡ κτίσις ἐλευθερωθήσεται ἀπὸ τῆς δουλείας τῆς φθορᾶς εἰς τὴν ἐλευθερίαν τῆς δόξης τῶν τέκνων τοῦ θεοῦ. 
+
+
+### Rom 8:22 {#rom-8-22}
+οἴδαμεν γὰρ ὅτι πᾶσα ἡ κτίσις συστενάζει καὶ συνωδίνει ἄχρι τοῦ νῦν· 
+
+
+### Rom 8:23 {#rom-8-23}
+οὐ μόνον δέ, ἀλλὰ ⸂καὶ αὐτοὶ⸃ τὴν ἀπαρχὴν τοῦ πνεύματος ἔχοντες ⸂ἡμεῖς καὶ⸃ αὐτοὶ ἐν ἑαυτοῖς στενάζομεν, υἱοθεσίαν ἀπεκδεχόμενοι τὴν ἀπολύτρωσιν τοῦ σώματος ἡμῶν. 
+
+
+### Rom 8:24 {#rom-8-24}
+τῇ γὰρ ἐλπίδι ἐσώθημεν· ἐλπὶς δὲ βλεπομένη οὐκ ἔστιν ἐλπίς, ὃ γὰρ βλέπει ⸀τίς ἐλπίζει; 
+
+
+### Rom 8:25 {#rom-8-25}
+εἰ δὲ ὃ οὐ βλέπομεν ἐλπίζομεν, διʼ ὑπομονῆς ἀπεκδεχόμεθα. 
+
+
+### Rom 8:26 {#rom-8-26}
+Ὡσαύτως δὲ καὶ τὸ πνεῦμα συναντιλαμβάνεται ⸂τῇ ἀσθενείᾳ⸃ ἡμῶν· τὸ γὰρ τί ⸀προσευξώμεθα καθὸ δεῖ οὐκ οἴδαμεν, ἀλλὰ αὐτὸ τὸ πνεῦμα ⸀ὑπερεντυγχάνει στεναγμοῖς ἀλαλήτοις, 
+
+
+### Rom 8:27 {#rom-8-27}
+ὁ δὲ ἐραυνῶν τὰς καρδίας οἶδεν τί τὸ φρόνημα τοῦ πνεύματος, ὅτι κατὰ θεὸν ἐντυγχάνει ὑπὲρ ἁγίων. 
+
+
+### Rom 8:28 {#rom-8-28}
+Οἴδαμεν δὲ ὅτι τοῖς ἀγαπῶσι τὸν θεὸν πάντα ⸀συνεργεῖ εἰς ἀγαθόν, τοῖς κατὰ πρόθεσιν κλητοῖς οὖσιν. 
+
+
+### Rom 8:29 {#rom-8-29}
+ὅτι οὓς προέγνω, καὶ προώρισεν συμμόρφους τῆς εἰκόνος τοῦ υἱοῦ αὐτοῦ, εἰς τὸ εἶναι αὐτὸν πρωτότοκον ἐν πολλοῖς ἀδελφοῖς· 
+
+
+### Rom 8:30 {#rom-8-30}
+οὓς δὲ προώρισεν, τούτους καὶ ἐκάλεσεν· καὶ οὓς ἐκάλεσεν, τούτους καὶ ἐδικαίωσεν· οὓς δὲ ἐδικαίωσεν, τούτους καὶ ἐδόξασεν. 
+
+
+### Rom 8:31 {#rom-8-31}
+Τί οὖν ἐροῦμεν πρὸς ταῦτα; εἰ ὁ θεὸς ὑπὲρ ἡμῶν, τίς καθʼ ἡμῶν; 
+
+
+### Rom 8:32 {#rom-8-32}
+ὅς γε τοῦ ἰδίου υἱοῦ οὐκ ἐφείσατο, ἀλλὰ ὑπὲρ ἡμῶν πάντων παρέδωκεν αὐτόν, πῶς οὐχὶ καὶ σὺν αὐτῷ τὰ πάντα ἡμῖν χαρίσεται; 
+
+
+### Rom 8:33 {#rom-8-33}
+τίς ἐγκαλέσει κατὰ ἐκλεκτῶν θεοῦ; θεὸς ὁ δικαιῶν· 
+
+
+### Rom 8:34 {#rom-8-34}
+τίς ὁ ⸀κατακρινῶν; ⸀Χριστὸς ὁ ἀποθανών, μᾶλλον ⸀δὲ ⸀ἐγερθείς, ὅς ⸀καί ἐστιν ἐν δεξιᾷ τοῦ θεοῦ, ὃς καὶ ἐντυγχάνει ὑπὲρ ἡμῶν· 
+
+
+### Rom 8:35 {#rom-8-35}
+τίς ἡμᾶς χωρίσει ἀπὸ τῆς ἀγάπης τοῦ Χριστοῦ; θλῖψις ἢ στενοχωρία ἢ διωγμὸς ἢ λιμὸς ἢ γυμνότης ἢ κίνδυνος ἢ μάχαιρα; 
+
+
+### Rom 8:36 {#rom-8-36}
+καθὼς γέγραπται ὅτι Ἕνεκεν σοῦ θανατούμεθα ὅλην τὴν ἡμέραν, ἐλογίσθημεν ὡς πρόβατα σφαγῆς. 
+
+
+### Rom 8:37 {#rom-8-37}
+ἀλλʼ ἐν τούτοις πᾶσιν ὑπερνικῶμεν διὰ τοῦ ἀγαπήσαντος ἡμᾶς. 
+
+
+### Rom 8:38 {#rom-8-38}
+πέπεισμαι γὰρ ὅτι οὔτε θάνατος οὔτε ζωὴ οὔτε ἄγγελοι οὔτε ἀρχαὶ οὔτε ⸂ἐνεστῶτα οὔτε μέλλοντα οὔτε δυνάμεις⸃ 
+
+
+### Rom 8:39 {#rom-8-39}
+οὔτε ὕψωμα οὔτε βάθος οὔτε τις κτίσις ἑτέρα δυνήσεται ἡμᾶς χωρίσαι ἀπὸ τῆς ἀγάπης τοῦ θεοῦ τῆς ἐν Χριστῷ Ἰησοῦ τῷ κυρίῳ ἡμῶν. 
+
+
+### Rom 9:1 {#rom-9-1}
+Ἀλήθειαν λέγω ἐν Χριστῷ, οὐ ψεύδομαι, συμμαρτυρούσης μοι τῆς συνειδήσεώς μου ἐν πνεύματι ἁγίῳ, 
+
+
+### Rom 9:2 {#rom-9-2}
+ὅτι λύπη μοί ἐστιν μεγάλη καὶ ἀδιάλειπτος ὀδύνη τῇ καρδίᾳ μου· 
+
+
+### Rom 9:3 {#rom-9-3}
+ηὐχόμην γὰρ ⸂ἀνάθεμα εἶναι αὐτὸς ἐγὼ⸃ ἀπὸ τοῦ Χριστοῦ ὑπὲρ τῶν ἀδελφῶν μου τῶν συγγενῶν μου κατὰ σάρκα, 
+
+
+### Rom 9:4 {#rom-9-4}
+οἵτινές εἰσιν Ἰσραηλῖται, ὧν ἡ υἱοθεσία καὶ ἡ δόξα καὶ αἱ διαθῆκαι καὶ ἡ νομοθεσία καὶ ἡ λατρεία καὶ αἱ ἐπαγγελίαι, 
+
+
+### Rom 9:5 {#rom-9-5}
+ὧν οἱ πατέρες, καὶ ἐξ ὧν ὁ χριστὸς τὸ κατὰ σάρκα, ὁ ὢν ἐπὶ πάντων, θεὸς εὐλογητὸς εἰς τοὺς αἰῶνας· ἀμήν. 
+
+
+### Rom 9:6 {#rom-9-6}
+Οὐχ οἷον δὲ ὅτι ἐκπέπτωκεν ὁ λόγος τοῦ θεοῦ. οὐ γὰρ πάντες οἱ ἐξ Ἰσραήλ, οὗτοι Ἰσραήλ· 
+
+
+### Rom 9:7 {#rom-9-7}
+οὐδʼ ὅτι εἰσὶν σπέρμα Ἀβραάμ, πάντες τέκνα, ἀλλʼ· Ἐν Ἰσαὰκ κληθήσεταί σοι σπέρμα. 
+
+
+### Rom 9:8 {#rom-9-8}
+τοῦτʼ ἔστιν, οὐ τὰ τέκνα τῆς σαρκὸς ταῦτα τέκνα τοῦ θεοῦ, ἀλλὰ τὰ τέκνα τῆς ἐπαγγελίας λογίζεται εἰς σπέρμα· 
+
+
+### Rom 9:9 {#rom-9-9}
+ἐπαγγελίας γὰρ ὁ λόγος οὗτος· Κατὰ τὸν καιρὸν τοῦτον ἐλεύσομαι καὶ ἔσται τῇ Σάρρᾳ υἱός. 
+
+
+### Rom 9:10 {#rom-9-10}
+οὐ μόνον δέ, ἀλλὰ καὶ Ῥεβέκκα ἐξ ἑνὸς κοίτην ἔχουσα, Ἰσαὰκ τοῦ πατρὸς ἡμῶν· 
+
+
+### Rom 9:11 {#rom-9-11}
+μήπω γὰρ γεννηθέντων μηδὲ πραξάντων τι ἀγαθὸν ἢ ⸀φαῦλον, ἵνα ἡ κατʼ ἐκλογὴν πρόθεσις τοῦ θεοῦ μένῃ, 
+
+
+### Rom 9:12 {#rom-9-12}
+οὐκ ἐξ ἔργων ἀλλʼ ἐκ τοῦ καλοῦντος, ἐρρέθη αὐτῇ ὅτι Ὁ μείζων δουλεύσει τῷ ἐλάσσονι· 
+
+
+### Rom 9:13 {#rom-9-13}
+⸀καθὼς γέγραπται· Τὸν Ἰακὼβ ἠγάπησα, τὸν δὲ Ἠσαῦ ἐμίσησα. 
+
+
+### Rom 9:14 {#rom-9-14}
+Τί οὖν ἐροῦμεν; μὴ ἀδικία παρὰ τῷ θεῷ; μὴ γένοιτο· 
+
+
+### Rom 9:15 {#rom-9-15}
+τῷ ⸂Μωϋσεῖ γὰρ⸃ λέγει· Ἐλεήσω ὃν ἂν ἐλεῶ, καὶ οἰκτιρήσω ὃν ἂν οἰκτίρω. 
+
+
+### Rom 9:16 {#rom-9-16}
+ἄρα οὖν οὐ τοῦ θέλοντος οὐδὲ τοῦ τρέχοντος ἀλλὰ τοῦ ἐλεῶντος θεοῦ. 
+
+
+### Rom 9:17 {#rom-9-17}
+λέγει γὰρ ἡ γραφὴ τῷ Φαραὼ ὅτι Εἰς αὐτὸ τοῦτο ἐξήγειρά σε ὅπως ἐνδείξωμαι ἐν σοὶ τὴν δύναμίν μου, καὶ ὅπως διαγγελῇ τὸ ὄνομά μου ἐν πάσῃ τῇ γῇ. 
+
+
+### Rom 9:18 {#rom-9-18}
+ἄρα οὖν ὃν θέλει ἐλεεῖ, ὃν δὲ θέλει σκληρύνει. 
+
+
+### Rom 9:19 {#rom-9-19}
+Ἐρεῖς ⸂μοι οὖν⸃· Τί ⸀οὖν ἔτι μέμφεται; τῷ γὰρ βουλήματι αὐτοῦ τίς ἀνθέστηκεν; 
+
+
+### Rom 9:20 {#rom-9-20}
+⸂ὦ ἄνθρωπε, μενοῦνγε⸃ σὺ τίς εἶ ὁ ἀνταποκρινόμενος τῷ θεῷ; μὴ ἐρεῖ τὸ πλάσμα τῷ πλάσαντι Τί με ἐποίησας οὕτως; 
+
+
+### Rom 9:21 {#rom-9-21}
+ἢ οὐκ ἔχει ἐξουσίαν ὁ κεραμεὺς τοῦ πηλοῦ ἐκ τοῦ αὐτοῦ φυράματος ποιῆσαι ὃ μὲν εἰς τιμὴν σκεῦος ὃ δὲ εἰς ἀτιμίαν; 
+
+
+### Rom 9:22 {#rom-9-22}
+εἰ δὲ θέλων ὁ θεὸς ἐνδείξασθαι τὴν ὀργὴν καὶ γνωρίσαι τὸ δυνατὸν αὐτοῦ ἤνεγκεν ἐν πολλῇ μακροθυμίᾳ σκεύη ὀργῆς κατηρτισμένα εἰς ἀπώλειαν, 
+
+
+### Rom 9:23 {#rom-9-23}
+⸀καὶ ἵνα γνωρίσῃ τὸν πλοῦτον τῆς δόξης αὐτοῦ ἐπὶ σκεύη ἐλέους, ἃ προητοίμασεν εἰς δόξαν, 
+
+
+### Rom 9:24 {#rom-9-24}
+οὓς καὶ ἐκάλεσεν ἡμᾶς οὐ μόνον ἐξ Ἰουδαίων ἀλλὰ καὶ ἐξ ἐθνῶν;— 
+
+
+### Rom 9:25 {#rom-9-25}
+ὡς καὶ ἐν τῷ Ὡσηὲ λέγει· Καλέσω τὸν οὐ λαόν μου λαόν μου καὶ τὴν οὐκ ἠγαπημένην ἠγαπημένην· 
+
+
+### Rom 9:26 {#rom-9-26}
+καὶ ἔσται ἐν τῷ τόπῳ οὗ ἐρρέθη ⸀αὐτοῖς· Οὐ λαός μου ὑμεῖς, ἐκεῖ κληθήσονται υἱοὶ θεοῦ ζῶντος. 
+
+
+### Rom 9:27 {#rom-9-27}
+Ἠσαΐας δὲ κράζει ὑπὲρ τοῦ Ἰσραήλ· Ἐὰν ᾖ ὁ ἀριθμὸς τῶν υἱῶν Ἰσραὴλ ὡς ἡ ἄμμος τῆς θαλάσσης, τὸ ⸀ὑπόλειμμα σωθήσεται· 
+
+
+### Rom 9:28 {#rom-9-28}
+λόγον γὰρ συντελῶν καὶ ⸀συντέμνων ποιήσει κύριος ἐπὶ τῆς γῆς. 
+
+
+### Rom 9:29 {#rom-9-29}
+καὶ καθὼς προείρηκεν Ἠσαΐας· Εἰ μὴ κύριος Σαβαὼθ ἐγκατέλιπεν ἡμῖν σπέρμα, ὡς Σόδομα ἂν ἐγενήθημεν καὶ ὡς Γόμορρα ἂν ὡμοιώθημεν. 
+
+
+### Rom 9:30 {#rom-9-30}
+Τί οὖν ἐροῦμεν; ὅτι ἔθνη τὰ μὴ διώκοντα δικαιοσύνην κατέλαβεν δικαιοσύνην, δικαιοσύνην δὲ τὴν ἐκ πίστεως· 
+
+
+### Rom 9:31 {#rom-9-31}
+Ἰσραὴλ δὲ διώκων νόμον δικαιοσύνης εἰς ⸀νόμον οὐκ ἔφθασεν. 
+
+
+### Rom 9:32 {#rom-9-32}
+διὰ τί; ὅτι οὐκ ἐκ πίστεως ἀλλʼ ὡς ἐξ ⸀ἔργων· ⸀προσέκοψαν τῷ λίθῳ τοῦ προσκόμματος, 
+
+
+### Rom 9:33 {#rom-9-33}
+καθὼς γέγραπται· Ἰδοὺ τίθημι ἐν Σιὼν λίθον προσκόμματος καὶ πέτραν σκανδάλου, ⸀καὶ ὁ πιστεύων ἐπʼ αὐτῷ οὐ καταισχυνθήσεται. 
+
+
+### Rom 10:1 {#rom-10-1}
+Ἀδελφοί, ἡ μὲν εὐδοκία τῆς ἐμῆς καρδίας καὶ ἡ ⸀δέησις πρὸς τὸν θεὸν ὑπὲρ ⸀αὐτῶν εἰς σωτηρίαν. 
+
+
+### Rom 10:2 {#rom-10-2}
+μαρτυρῶ γὰρ αὐτοῖς ὅτι ζῆλον θεοῦ ἔχουσιν· ἀλλʼ οὐ κατʼ ἐπίγνωσιν, 
+
+
+### Rom 10:3 {#rom-10-3}
+ἀγνοοῦντες γὰρ τὴν τοῦ θεοῦ δικαιοσύνην, καὶ τὴν ⸀ἰδίαν ζητοῦντες στῆσαι, τῇ δικαιοσύνῃ τοῦ θεοῦ οὐχ ὑπετάγησαν· 
+
+
+### Rom 10:4 {#rom-10-4}
+τέλος γὰρ νόμου Χριστὸς εἰς δικαιοσύνην παντὶ τῷ πιστεύοντι. 
+
+
+### Rom 10:5 {#rom-10-5}
+Μωϋσῆς γὰρ γράφει ⸂ὅτι τὴν δικαιοσύνην τὴν ἐκ ⸀τοῦ νόμου⸃ ὁ ⸀ποιήσας ἄνθρωπος ζήσεται ἐν ⸀αὐτῇ. 
+
+
+### Rom 10:6 {#rom-10-6}
+ἡ δὲ ἐκ πίστεως δικαιοσύνη οὕτως λέγει· Μὴ εἴπῃς ἐν τῇ καρδίᾳ σου· Τίς ἀναβήσεται εἰς τὸν οὐρανόν; τοῦτʼ ἔστιν Χριστὸν καταγαγεῖν· 
+
+
+### Rom 10:7 {#rom-10-7}
+ἤ· Τίς καταβήσεται εἰς τὴν ἄβυσσον; τοῦτʼ ἔστιν Χριστὸν ἐκ νεκρῶν ἀναγαγεῖν. 
+
+
+### Rom 10:8 {#rom-10-8}
+ἀλλὰ τί λέγει; Ἐγγύς σου τὸ ῥῆμά ἐστιν, ἐν τῷ στόματί σου καὶ ἐν τῇ καρδίᾳ σου, τοῦτʼ ἔστιν τὸ ῥῆμα τῆς πίστεως ὃ κηρύσσομεν. 
+
+
+### Rom 10:9 {#rom-10-9}
+ὅτι ἐὰν ⸀ὁμολογήσῃς ἐν τῷ στόματί ⸀σου κύριον Ἰησοῦν, καὶ πιστεύσῃς ἐν τῇ καρδίᾳ σου ὅτι ὁ θεὸς αὐτὸν ἤγειρεν ἐκ νεκρῶν, σωθήσῃ· 
+
+
+### Rom 10:10 {#rom-10-10}
+καρδίᾳ γὰρ πιστεύεται εἰς δικαιοσύνην, στόματι δὲ ὁμολογεῖται εἰς σωτηρίαν· 
+
+
+### Rom 10:11 {#rom-10-11}
+λέγει γὰρ ἡ γραφή· Πᾶς ὁ πιστεύων ἐπʼ αὐτῷ οὐ καταισχυνθήσεται. 
+
+
+### Rom 10:12 {#rom-10-12}
+οὐ γάρ ἐστιν διαστολὴ Ἰουδαίου τε καὶ Ἕλληνος, ὁ γὰρ αὐτὸς κύριος πάντων, πλουτῶν εἰς πάντας τοὺς ἐπικαλουμένους αὐτόν· 
+
+
+### Rom 10:13 {#rom-10-13}
+Πᾶς γὰρ ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου σωθήσεται. 
+
+
+### Rom 10:14 {#rom-10-14}
+Πῶς οὖν ⸀ἐπικαλέσωνται εἰς ὃν οὐκ ἐπίστευσαν; πῶς δὲ ⸀πιστεύσωσιν οὗ οὐκ ἤκουσαν; πῶς δὲ ⸀ἀκούσωσιν χωρὶς κηρύσσοντος; 
+
+
+### Rom 10:15 {#rom-10-15}
+πῶς δὲ ⸀κηρύξωσιν ἐὰν μὴ ἀποσταλῶσιν; ⸀καθὼς γέγραπται· Ὡς ὡραῖοι οἱ πόδες τῶν ⸀εὐαγγελιζομένων ⸀τὰ ἀγαθά. 
+
+
+### Rom 10:16 {#rom-10-16}
+ἀλλʼ οὐ πάντες ὑπήκουσαν τῷ εὐαγγελίῳ· Ἠσαΐας γὰρ λέγει· Κύριε, τίς ἐπίστευσεν τῇ ἀκοῇ ἡμῶν; 
+
+
+### Rom 10:17 {#rom-10-17}
+ἄρα ἡ πίστις ἐξ ἀκοῆς, ἡ δὲ ἀκοὴ διὰ ῥήματος ⸀Χριστοῦ. 
+
+
+### Rom 10:18 {#rom-10-18}
+Ἀλλὰ λέγω, μὴ οὐκ ἤκουσαν; μενοῦνγε· Εἰς πᾶσαν τὴν γῆν ἐξῆλθεν ὁ φθόγγος αὐτῶν, καὶ εἰς τὰ πέρατα τῆς οἰκουμένης τὰ ῥήματα αὐτῶν. 
+
+
+### Rom 10:19 {#rom-10-19}
+ἀλλὰ λέγω, μὴ ⸂Ἰσραὴλ οὐκ ἔγνω⸃; πρῶτος Μωϋσῆς λέγει· Ἐγὼ παραζηλώσω ὑμᾶς ἐπʼ οὐκ ἔθνει, ἐπʼ ἔθνει ἀσυνέτῳ παροργιῶ ὑμᾶς. 
+
+
+### Rom 10:20 {#rom-10-20}
+Ἠσαΐας δὲ ἀποτολμᾷ καὶ λέγει· Εὑρέθην ⸀ἐν τοῖς ἐμὲ μὴ ζητοῦσιν, ἐμφανὴς ⸀ἐγενόμην τοῖς ἐμὲ μὴ ἐπερωτῶσιν. 
+
+
+### Rom 10:21 {#rom-10-21}
+πρὸς δὲ τὸν Ἰσραὴλ λέγει· Ὅλην τὴν ἡμέραν ἐξεπέτασα τὰς χεῖράς μου πρὸς λαὸν ἀπειθοῦντα καὶ ἀντιλέγοντα. 
+
+
+### Rom 11:1 {#rom-11-1}
+Λέγω οὖν, μὴ ἀπώσατο ὁ θεὸς τὸν λαὸν αὐτοῦ; μὴ γένοιτο· καὶ γὰρ ἐγὼ Ἰσραηλίτης εἰμί, ἐκ σπέρματος Ἀβραάμ, φυλῆς Βενιαμίν. 
+
+
+### Rom 11:2 {#rom-11-2}
+οὐκ ἀπώσατο ὁ θεὸς τὸν λαὸν αὐτοῦ ὃν προέγνω. ἢ οὐκ οἴδατε ἐν Ἠλίᾳ τί λέγει ἡ γραφή, ὡς ἐντυγχάνει τῷ θεῷ κατὰ τοῦ ⸀Ἰσραήλ; 
+
+
+### Rom 11:3 {#rom-11-3}
+Κύριε, τοὺς προφήτας σου ἀπέκτειναν, ⸀τὰ θυσιαστήριά σου κατέσκαψαν, κἀγὼ ὑπελείφθην μόνος, καὶ ζητοῦσιν τὴν ψυχήν μου. 
+
+
+### Rom 11:4 {#rom-11-4}
+ἀλλὰ τί λέγει αὐτῷ ὁ χρηματισμός; Κατέλιπον ἐμαυτῷ ἑπτακισχιλίους ἄνδρας, οἵτινες οὐκ ἔκαμψαν γόνυ τῇ Βάαλ. 
+
+
+### Rom 11:5 {#rom-11-5}
+οὕτως οὖν καὶ ἐν τῷ νῦν καιρῷ λεῖμμα κατʼ ἐκλογὴν χάριτος γέγονεν· 
+
+
+### Rom 11:6 {#rom-11-6}
+εἰ δὲ χάριτι, οὐκέτι ἐξ ἔργων, ἐπεὶ ἡ χάρις οὐκέτι γίνεται ⸀χάρις. 
+
+
+### Rom 11:7 {#rom-11-7}
+τί οὖν; ὃ ἐπιζητεῖ Ἰσραήλ, τοῦτο οὐκ ἐπέτυχεν, ἡ δὲ ἐκλογὴ ἐπέτυχεν· οἱ δὲ λοιποὶ ἐπωρώθησαν, 
+
+
+### Rom 11:8 {#rom-11-8}
+⸀καθὼς γέγραπται· Ἔδωκεν αὐτοῖς ὁ θεὸς πνεῦμα κατανύξεως, ὀφθαλμοὺς τοῦ μὴ βλέπειν καὶ ὦτα τοῦ μὴ ἀκούειν, ἕως τῆς σήμερον ἡμέρας. 
+
+
+### Rom 11:9 {#rom-11-9}
+καὶ Δαυὶδ λέγει· Γενηθήτω ἡ τράπεζα αὐτῶν εἰς παγίδα καὶ εἰς θήραν καὶ εἰς σκάνδαλον καὶ εἰς ἀνταπόδομα αὐτοῖς, 
+
+
+### Rom 11:10 {#rom-11-10}
+σκοτισθήτωσαν οἱ ὀφθαλμοὶ αὐτῶν τοῦ μὴ βλέπειν, καὶ τὸν νῶτον αὐτῶν διὰ παντὸς σύγκαμψον. 
+
+
+### Rom 11:11 {#rom-11-11}
+Λέγω οὖν, μὴ ἔπταισαν ἵνα πέσωσιν; μὴ γένοιτο· ἀλλὰ τῷ αὐτῶν παραπτώματι ἡ σωτηρία τοῖς ἔθνεσιν, εἰς τὸ παραζηλῶσαι αὐτούς. 
+
+
+### Rom 11:12 {#rom-11-12}
+εἰ δὲ τὸ παράπτωμα αὐτῶν πλοῦτος κόσμου καὶ τὸ ἥττημα αὐτῶν πλοῦτος ἐθνῶν, πόσῳ μᾶλλον τὸ πλήρωμα αὐτῶν. 
+
+
+### Rom 11:13 {#rom-11-13}
+Ὑμῖν ⸀δὲ λέγω τοῖς ἔθνεσιν. ἐφʼ ὅσον μὲν ⸀οὖν εἰμι ἐγὼ ἐθνῶν ἀπόστολος, τὴν διακονίαν μου δοξάζω, 
+
+
+### Rom 11:14 {#rom-11-14}
+εἴ πως παραζηλώσω μου τὴν σάρκα καὶ σώσω τινὰς ἐξ αὐτῶν. 
+
+
+### Rom 11:15 {#rom-11-15}
+εἰ γὰρ ἡ ἀποβολὴ αὐτῶν καταλλαγὴ κόσμου, τίς ἡ πρόσλημψις εἰ μὴ ζωὴ ἐκ νεκρῶν; 
+
+
+### Rom 11:16 {#rom-11-16}
+εἰ δὲ ἡ ἀπαρχὴ ἁγία, καὶ τὸ φύραμα· καὶ εἰ ἡ ῥίζα ἁγία, καὶ οἱ κλάδοι. 
+
+
+### Rom 11:17 {#rom-11-17}
+Εἰ δέ τινες τῶν κλάδων ἐξεκλάσθησαν, σὺ δὲ ἀγριέλαιος ὢν ἐνεκεντρίσθης ἐν αὐτοῖς καὶ συγκοινωνὸς τῆς ⸀ῥίζης τῆς πιότητος τῆς ἐλαίας ἐγένου, 
+
+
+### Rom 11:18 {#rom-11-18}
+μὴ κατακαυχῶ τῶν κλάδων· εἰ δὲ κατακαυχᾶσαι, οὐ σὺ τὴν ῥίζαν βαστάζεις ἀλλὰ ἡ ῥίζα σέ. 
+
+
+### Rom 11:19 {#rom-11-19}
+ἐρεῖς οὖν· Ἐξεκλάσθησαν κλάδοι ἵνα ἐγὼ ἐγκεντρισθῶ. 
+
+
+### Rom 11:20 {#rom-11-20}
+καλῶς· τῇ ἀπιστίᾳ ἐξεκλάσθησαν, σὺ δὲ τῇ πίστει ἕστηκας. μὴ ⸂ὑψηλὰ φρόνει⸃, ἀλλὰ φοβοῦ· 
+
+
+### Rom 11:21 {#rom-11-21}
+εἰ γὰρ ὁ θεὸς τῶν κατὰ φύσιν κλάδων οὐκ ἐφείσατο, ⸀οὐδὲ σοῦ φείσεται. 
+
+
+### Rom 11:22 {#rom-11-22}
+ἴδε οὖν χρηστότητα καὶ ἀποτομίαν θεοῦ· ἐπὶ μὲν τοὺς πεσόντας ⸀ἀποτομία, ἐπὶ δὲ σὲ ⸂χρηστότης θεοῦ⸃, ἐὰν ⸀ἐπιμένῃς τῇ χρηστότητι, ἐπεὶ καὶ σὺ ἐκκοπήσῃ. 
+
+
+### Rom 11:23 {#rom-11-23}
+κἀκεῖνοι δέ, ἐὰν μὴ ⸀ἐπιμένωσι τῇ ἀπιστίᾳ, ἐγκεντρισθήσονται· δυνατὸς γάρ ⸂ἐστιν ὁ θεὸς⸃ πάλιν ἐγκεντρίσαι αὐτούς. 
+
+
+### Rom 11:24 {#rom-11-24}
+εἰ γὰρ σὺ ἐκ τῆς κατὰ φύσιν ἐξεκόπης ἀγριελαίου καὶ παρὰ φύσιν ἐνεκεντρίσθης εἰς καλλιέλαιον, πόσῳ μᾶλλον οὗτοι οἱ κατὰ φύσιν ἐγκεντρισθήσονται τῇ ἰδίᾳ ἐλαίᾳ. 
+
+
+### Rom 11:25 {#rom-11-25}
+Οὐ γὰρ θέλω ὑμᾶς ἀγνοεῖν, ἀδελφοί, τὸ μυστήριον τοῦτο, ἵνα μὴ ⸀ἦτε ἑαυτοῖς φρόνιμοι, ὅτι πώρωσις ἀπὸ μέρους τῷ Ἰσραὴλ γέγονεν ἄχρι οὗ τὸ πλήρωμα τῶν ἐθνῶν εἰσέλθῃ, 
+
+
+### Rom 11:26 {#rom-11-26}
+καὶ οὕτως πᾶς Ἰσραὴλ σωθήσεται· καθὼς γέγραπται· Ἥξει ἐκ Σιὼν ὁ ⸀ῥυόμενος, ἀποστρέψει ἀσεβείας ἀπὸ Ἰακώβ. 
+
+
+### Rom 11:27 {#rom-11-27}
+καὶ αὕτη αὐτοῖς ἡ παρʼ ἐμοῦ διαθήκη, ὅταν ἀφέλωμαι τὰς ἁμαρτίας αὐτῶν. 
+
+
+### Rom 11:28 {#rom-11-28}
+κατὰ μὲν τὸ εὐαγγέλιον ἐχθροὶ διʼ ὑμᾶς, κατὰ δὲ τὴν ἐκλογὴν ἀγαπητοὶ διὰ τοὺς πατέρας· 
+
+
+### Rom 11:29 {#rom-11-29}
+ἀμεταμέλητα γὰρ τὰ χαρίσματα καὶ ἡ κλῆσις τοῦ θεοῦ. 
+
+
+### Rom 11:30 {#rom-11-30}
+ὥσπερ ⸀γὰρ ὑμεῖς ποτε ἠπειθήσατε τῷ θεῷ, νῦν δὲ ἠλεήθητε τῇ τούτων ἀπειθείᾳ, 
+
+
+### Rom 11:31 {#rom-11-31}
+οὕτως καὶ οὗτοι νῦν ἠπείθησαν τῷ ὑμετέρῳ ἐλέει ἵνα καὶ αὐτοὶ ⸀νῦν ἐλεηθῶσιν· 
+
+
+### Rom 11:32 {#rom-11-32}
+συνέκλεισεν γὰρ ὁ θεὸς τοὺς πάντας εἰς ἀπείθειαν ἵνα τοὺς πάντας ἐλεήσῃ. 
+
+
+### Rom 11:33 {#rom-11-33}
+Ὦ βάθος πλούτου καὶ σοφίας καὶ γνώσεως θεοῦ· ὡς ἀνεξεραύνητα τὰ κρίματα αὐτοῦ καὶ ἀνεξιχνίαστοι αἱ ὁδοὶ αὐτοῦ. 
+
+
+### Rom 11:34 {#rom-11-34}
+Τίς γὰρ ἔγνω νοῦν κυρίου; ἢ τίς σύμβουλος αὐτοῦ ἐγένετο; 
+
+
+### Rom 11:35 {#rom-11-35}
+ἢ τίς προέδωκεν αὐτῷ, καὶ ἀνταποδοθήσεται αὐτῷ; 
+
+
+### Rom 11:36 {#rom-11-36}
+ὅτι ἐξ αὐτοῦ καὶ διʼ αὐτοῦ καὶ εἰς αὐτὸν τὰ πάντα· αὐτῷ ἡ δόξα εἰς τοὺς αἰῶνας, ἀμήν. 
+
+
+### Rom 12:1 {#rom-12-1}
+Παρακαλῶ οὖν ὑμᾶς, ἀδελφοί, διὰ τῶν οἰκτιρμῶν τοῦ θεοῦ παραστῆσαι τὰ σώματα ὑμῶν θυσίαν ζῶσαν ἁγίαν ⸂εὐάρεστον τῷ θεῷ⸃, τὴν λογικὴν λατρείαν ὑμῶν· 
+
+
+### Rom 12:2 {#rom-12-2}
+καὶ μὴ ⸀συσχηματίζεσθε τῷ αἰῶνι τούτῳ, ἀλλὰ ⸀μεταμορφοῦσθε τῇ ἀνακαινώσει τοῦ ⸀νοός, εἰς τὸ δοκιμάζειν ὑμᾶς τί τὸ θέλημα τοῦ θεοῦ, τὸ ἀγαθὸν καὶ εὐάρεστον καὶ τέλειον. 
+
+
+### Rom 12:3 {#rom-12-3}
+Λέγω γὰρ διὰ τῆς χάριτος τῆς δοθείσης μοι παντὶ τῷ ὄντι ἐν ὑμῖν μὴ ὑπερφρονεῖν παρʼ ὃ δεῖ φρονεῖν, ἀλλὰ φρονεῖν εἰς τὸ σωφρονεῖν, ἑκάστῳ ὡς ὁ θεὸς ἐμέρισεν μέτρον πίστεως. 
+
+
+### Rom 12:4 {#rom-12-4}
+καθάπερ γὰρ ἐν ἑνὶ σώματι ⸂πολλὰ μέλη⸃ ἔχομεν, τὰ δὲ μέλη πάντα οὐ τὴν αὐτὴν ἔχει πρᾶξιν, 
+
+
+### Rom 12:5 {#rom-12-5}
+οὕτως οἱ πολλοὶ ἓν σῶμά ἐσμεν ἐν Χριστῷ, ⸀τὸ δὲ καθʼ εἷς ἀλλήλων μέλη. 
+
+
+### Rom 12:6 {#rom-12-6}
+ἔχοντες δὲ χαρίσματα κατὰ τὴν χάριν τὴν δοθεῖσαν ἡμῖν διάφορα, εἴτε προφητείαν κατὰ τὴν ἀναλογίαν τῆς πίστεως, 
+
+
+### Rom 12:7 {#rom-12-7}
+εἴτε διακονίαν ἐν τῇ διακονίᾳ, εἴτε ὁ διδάσκων ἐν τῇ διδασκαλίᾳ, 
+
+
+### Rom 12:8 {#rom-12-8}
+εἴτε ὁ παρακαλῶν ἐν τῇ παρακλήσει, ὁ μεταδιδοὺς ἐν ἁπλότητι, ὁ προϊστάμενος ἐν σπουδῇ, ὁ ἐλεῶν ἐν ἱλαρότητι. 
+
+
+### Rom 12:9 {#rom-12-9}
+Ἡ ἀγάπη ἀνυπόκριτος. ἀποστυγοῦντες τὸ πονηρόν, κολλώμενοι τῷ ἀγαθῷ· 
+
+
+### Rom 12:10 {#rom-12-10}
+τῇ φιλαδελφίᾳ εἰς ἀλλήλους φιλόστοργοι, τῇ τιμῇ ἀλλήλους προηγούμενοι, 
+
+
+### Rom 12:11 {#rom-12-11}
+τῇ σπουδῇ μὴ ὀκνηροί, τῷ πνεύματι ζέοντες, τῷ κυρίῳ δουλεύοντες, 
+
+
+### Rom 12:12 {#rom-12-12}
+τῇ ἐλπίδι χαίροντες, τῇ θλίψει ὑπομένοντες, τῇ προσευχῇ προσκαρτεροῦντες, 
+
+
+### Rom 12:13 {#rom-12-13}
+ταῖς χρείαις τῶν ἁγίων κοινωνοῦντες, τὴν φιλοξενίαν διώκοντες. 
+
+
+### Rom 12:14 {#rom-12-14}
+εὐλογεῖτε τοὺς ⸀διώκοντας, εὐλογεῖτε καὶ μὴ καταρᾶσθε. 
+
+
+### Rom 12:15 {#rom-12-15}
+χαίρειν μετὰ ⸀χαιρόντων, κλαίειν μετὰ κλαιόντων. 
+
+
+### Rom 12:16 {#rom-12-16}
+τὸ αὐτὸ εἰς ἀλλήλους φρονοῦντες, μὴ τὰ ὑψηλὰ φρονοῦντες ἀλλὰ τοῖς ταπεινοῖς συναπαγόμενοι. μὴ γίνεσθε φρόνιμοι παρʼ ἑαυτοῖς. 
+
+
+### Rom 12:17 {#rom-12-17}
+μηδενὶ κακὸν ἀντὶ κακοῦ ἀποδιδόντες· προνοούμενοι καλὰ ἐνώπιον πάντων ἀνθρώπων· 
+
+
+### Rom 12:18 {#rom-12-18}
+εἰ δυνατόν, τὸ ἐξ ὑμῶν μετὰ πάντων ἀνθρώπων εἰρηνεύοντες· 
+
+
+### Rom 12:19 {#rom-12-19}
+μὴ ἑαυτοὺς ἐκδικοῦντες, ἀγαπητοί, ἀλλὰ δότε τόπον τῇ ὀργῇ, γέγραπται γάρ· Ἐμοὶ ἐκδίκησις, ἐγὼ ἀνταποδώσω, λέγει κύριος. 
+
+
+### Rom 12:20 {#rom-12-20}
+⸂ἀλλὰ ἐὰν⸃ πεινᾷ ὁ ἐχθρός σου, ψώμιζε αὐτόν· ἐὰν διψᾷ, πότιζε αὐτόν· τοῦτο γὰρ ποιῶν ἄνθρακας πυρὸς σωρεύσεις ἐπὶ τὴν κεφαλὴν αὐτοῦ. 
+
+
+### Rom 12:21 {#rom-12-21}
+μὴ νικῶ ὑπὸ τοῦ κακοῦ, ἀλλὰ νίκα ἐν τῷ ἀγαθῷ τὸ κακόν. 
+
+
+### Rom 13:1 {#rom-13-1}
+Πᾶσα ψυχὴ ἐξουσίαις ὑπερεχούσαις ὑποτασσέσθω, οὐ γὰρ ἔστιν ἐξουσία εἰ μὴ ὑπὸ θεοῦ, αἱ δὲ ⸀οὖσαι ⸀ὑπὸ θεοῦ τεταγμέναι εἰσίν. 
+
+
+### Rom 13:2 {#rom-13-2}
+ὥστε ὁ ἀντιτασσόμενος τῇ ἐξουσίᾳ τῇ τοῦ θεοῦ διαταγῇ ἀνθέστηκεν, οἱ δὲ ἀνθεστηκότες ἑαυτοῖς κρίμα λήμψονται. 
+
+
+### Rom 13:3 {#rom-13-3}
+οἱ γὰρ ἄρχοντες οὐκ εἰσὶν φόβος ⸂τῷ ἀγαθῷ ἔργῳ⸃ ἀλλὰ ⸂τῷ κακῷ⸃. θέλεις δὲ μὴ φοβεῖσθαι τὴν ἐξουσίαν; τὸ ἀγαθὸν ποίει, καὶ ἕξεις ἔπαινον ἐξ αὐτῆς· 
+
+
+### Rom 13:4 {#rom-13-4}
+θεοῦ γὰρ διάκονός ἐστιν σοὶ εἰς τὸ ἀγαθόν. ἐὰν δὲ τὸ κακὸν ποιῇς, φοβοῦ· οὐ γὰρ εἰκῇ τὴν μάχαιραν φορεῖ· θεοῦ γὰρ διάκονός ἐστιν, ἔκδικος εἰς ὀργὴν τῷ τὸ κακὸν πράσσοντι. 
+
+
+### Rom 13:5 {#rom-13-5}
+διὸ ἀνάγκη ὑποτάσσεσθαι, οὐ μόνον διὰ τὴν ὀργὴν ἀλλὰ καὶ διὰ τὴν συνείδησιν, 
+
+
+### Rom 13:6 {#rom-13-6}
+διὰ τοῦτο γὰρ καὶ φόρους τελεῖτε, λειτουργοὶ γὰρ θεοῦ εἰσιν εἰς αὐτὸ τοῦτο προσκαρτεροῦντες. 
+
+
+### Rom 13:7 {#rom-13-7}
+⸀ἀπόδοτε πᾶσι τὰς ὀφειλάς, τῷ τὸν φόρον τὸν φόρον, τῷ τὸ τέλος τὸ τέλος, τῷ τὸν φόβον τὸν φόβον, τῷ τὴν τιμὴν τὴν τιμήν. 
+
+
+### Rom 13:8 {#rom-13-8}
+Μηδενὶ μηδὲν ὀφείλετε, εἰ μὴ τὸ ⸂ἀλλήλους ἀγαπᾶν⸃· ὁ γὰρ ἀγαπῶν τὸν ἕτερον νόμον πεπλήρωκεν. 
+
+
+### Rom 13:9 {#rom-13-9}
+τὸ γάρ· Οὐ μοιχεύσεις, Οὐ φονεύσεις, Οὐ κλέψεις, Οὐκ ἐπιθυμήσεις, καὶ εἴ τις ἑτέρα ἐντολή, ἐν ⸂τῷ λόγῳ τούτῳ⸃ ἀνακεφαλαιοῦται, ⸂ἐν τῷ⸃· Ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν. 
+
+
+### Rom 13:10 {#rom-13-10}
+ἡ ἀγάπη τῷ πλησίον κακὸν οὐκ ἐργάζεται· πλήρωμα οὖν νόμου ἡ ἀγάπη. 
+
+
+### Rom 13:11 {#rom-13-11}
+Καὶ τοῦτο εἰδότες τὸν καιρόν, ὅτι ὥρα ⸂ἤδη ὑμᾶς⸃ ἐξ ὕπνου ἐγερθῆναι, νῦν γὰρ ἐγγύτερον ἡμῶν ἡ σωτηρία ἢ ὅτε ἐπιστεύσαμεν. 
+
+
+### Rom 13:12 {#rom-13-12}
+ἡ νὺξ προέκοψεν, ἡ δὲ ἡμέρα ἤγγικεν. ⸀ἀποβαλώμεθα οὖν τὰ ἔργα τοῦ σκότους, ⸂ἐνδυσώμεθα δὲ⸃ τὰ ὅπλα τοῦ φωτός. 
+
+
+### Rom 13:13 {#rom-13-13}
+ὡς ἐν ἡμέρᾳ εὐσχημόνως περιπατήσωμεν, μὴ κώμοις καὶ μέθαις, μὴ κοίταις καὶ ἀσελγείαις, μὴ ἔριδι καὶ ζήλῳ, 
+
+
+### Rom 13:14 {#rom-13-14}
+ἀλλὰ ἐνδύσασθε τὸν κύριον Ἰησοῦν Χριστόν, καὶ τῆς σαρκὸς πρόνοιαν μὴ ποιεῖσθε εἰς ἐπιθυμίας. 
+
+
+### Rom 14:1 {#rom-14-1}
+Τὸν δὲ ἀσθενοῦντα τῇ πίστει προσλαμβάνεσθε, μὴ εἰς διακρίσεις διαλογισμῶν. 
+
+
+### Rom 14:2 {#rom-14-2}
+ὃς μὲν πιστεύει φαγεῖν πάντα, ὁ δὲ ἀσθενῶν λάχανα ἐσθίει. 
+
+
+### Rom 14:3 {#rom-14-3}
+ὁ ἐσθίων τὸν μὴ ἐσθίοντα μὴ ἐξουθενείτω, ⸂ὁ δὲ⸃ μὴ ἐσθίων τὸν ἐσθίοντα μὴ κρινέτω, ὁ θεὸς γὰρ αὐτὸν προσελάβετο. 
+
+
+### Rom 14:4 {#rom-14-4}
+σὺ τίς εἶ ὁ κρίνων ἀλλότριον οἰκέτην; τῷ ἰδίῳ κυρίῳ στήκει ἢ πίπτει· σταθήσεται δέ, ⸂δυνατεῖ γὰρ⸃ ὁ ⸀κύριος στῆσαι αὐτόν. 
+
+
+### Rom 14:5 {#rom-14-5}
+Ὃς ⸀μὲν κρίνει ἡμέραν παρʼ ἡμέραν, ὃς δὲ κρίνει πᾶσαν ἡμέραν· ἕκαστος ἐν τῷ ἰδίῳ νοῒ πληροφορείσθω· 
+
+
+### Rom 14:6 {#rom-14-6}
+ὁ φρονῶν τὴν ἡμέραν κυρίῳ ⸀φρονεῖ. καὶ ὁ ἐσθίων κυρίῳ ἐσθίει, εὐχαριστεῖ γὰρ τῷ θεῷ· καὶ ὁ μὴ ἐσθίων κυρίῳ οὐκ ἐσθίει, καὶ εὐχαριστεῖ τῷ θεῷ. 
+
+
+### Rom 14:7 {#rom-14-7}
+Οὐδεὶς γὰρ ἡμῶν ἑαυτῷ ζῇ, καὶ οὐδεὶς ἑαυτῷ ἀποθνῄσκει· 
+
+
+### Rom 14:8 {#rom-14-8}
+ἐάν τε γὰρ ζῶμεν, τῷ κυρίῳ ζῶμεν, ἐάν τε ἀποθνῄσκωμεν, τῷ κυρίῳ ἀποθνῄσκομεν. ἐάν τε οὖν ζῶμεν ἐάν τε ἀποθνῄσκωμεν, τοῦ κυρίου ἐσμέν. 
+
+
+### Rom 14:9 {#rom-14-9}
+εἰς τοῦτο γὰρ ⸀Χριστὸς ⸀ἀπέθανεν καὶ ἔζησεν ἵνα καὶ νεκρῶν καὶ ζώντων κυριεύσῃ. 
+
+
+### Rom 14:10 {#rom-14-10}
+Σὺ δὲ τί κρίνεις τὸν ἀδελφόν σου; ἢ καὶ σὺ τί ἐξουθενεῖς τὸν ἀδελφόν σου; πάντες γὰρ παραστησόμεθα τῷ βήματι τοῦ ⸀θεοῦ, 
+
+
+### Rom 14:11 {#rom-14-11}
+γέγραπται γάρ· Ζῶ ἐγώ, λέγει κύριος, ὅτι ἐμοὶ κάμψει πᾶν γόνυ, καὶ ⸂πᾶσα γλῶσσα ἐξομολογήσεται⸃ τῷ θεῷ. 
+
+
+### Rom 14:12 {#rom-14-12}
+⸀ἄρα ἕκαστος ἡμῶν περὶ ἑαυτοῦ λόγον ⸀δώσει. 
+
+
+### Rom 14:13 {#rom-14-13}
+Μηκέτι οὖν ἀλλήλους κρίνωμεν· ἀλλὰ τοῦτο κρίνατε μᾶλλον, τὸ μὴ τιθέναι πρόσκομμα τῷ ἀδελφῷ ἢ σκάνδαλον. 
+
+
+### Rom 14:14 {#rom-14-14}
+οἶδα καὶ πέπεισμαι ἐν κυρίῳ Ἰησοῦ ὅτι οὐδὲν κοινὸν διʼ ⸀ἑαυτοῦ· εἰ μὴ τῷ λογιζομένῳ τι κοινὸν εἶναι, ἐκείνῳ κοινόν. 
+
+
+### Rom 14:15 {#rom-14-15}
+εἰ ⸀γὰρ διὰ βρῶμα ὁ ἀδελφός σου λυπεῖται, οὐκέτι κατὰ ἀγάπην περιπατεῖς. μὴ τῷ βρώματί σου ἐκεῖνον ἀπόλλυε ὑπὲρ οὗ Χριστὸς ἀπέθανεν. 
+
+
+### Rom 14:16 {#rom-14-16}
+μὴ βλασφημείσθω οὖν ὑμῶν τὸ ἀγαθόν. 
+
+
+### Rom 14:17 {#rom-14-17}
+οὐ γάρ ἐστιν ἡ βασιλεία τοῦ θεοῦ βρῶσις καὶ πόσις, ἀλλὰ δικαιοσύνη καὶ εἰρήνη καὶ χαρὰ ἐν πνεύματι ἁγίῳ· 
+
+
+### Rom 14:18 {#rom-14-18}
+ὁ γὰρ ἐν ⸀τούτῳ δουλεύων τῷ Χριστῷ εὐάρεστος τῷ θεῷ καὶ δόκιμος τοῖς ἀνθρώποις. 
+
+
+### Rom 14:19 {#rom-14-19}
+ἄρα οὖν τὰ τῆς εἰρήνης διώκωμεν καὶ τὰ τῆς οἰκοδομῆς τῆς εἰς ἀλλήλους. 
+
+
+### Rom 14:20 {#rom-14-20}
+μὴ ἕνεκεν βρώματος κατάλυε τὸ ἔργον τοῦ θεοῦ. πάντα μὲν καθαρά, ἀλλὰ κακὸν τῷ ἀνθρώπῳ τῷ διὰ προσκόμματος ἐσθίοντι. 
+
+
+### Rom 14:21 {#rom-14-21}
+καλὸν τὸ μὴ φαγεῖν κρέα μηδὲ πιεῖν οἶνον μηδὲ ἐν ᾧ ὁ ἀδελφός σου προσκόπτει ⸂ἢ σκανδαλίζεται ἢ ἀσθενεῖ⸃· 
+
+
+### Rom 14:22 {#rom-14-22}
+σὺ πίστιν ⸀ἣν ἔχεις κατὰ σεαυτὸν ἔχε ἐνώπιον τοῦ θεοῦ. μακάριος ὁ μὴ κρίνων ἑαυτὸν ἐν ᾧ δοκιμάζει· 
+
+
+### Rom 14:23 {#rom-14-23}
+ὁ δὲ διακρινόμενος ἐὰν φάγῃ κατακέκριται, ὅτι οὐκ ἐκ πίστεως· πᾶν δὲ ὃ οὐκ ἐκ πίστεως ἁμαρτία ⸀ἐστίν. 
+
+
+### Rom 15:1 {#rom-15-1}
+Ὀφείλομεν δὲ ἡμεῖς οἱ δυνατοὶ τὰ ἀσθενήματα τῶν ἀδυνάτων βαστάζειν, καὶ μὴ ἑαυτοῖς ἀρέσκειν. 
+
+
+### Rom 15:2 {#rom-15-2}
+ἕκαστος ἡμῶν τῷ πλησίον ἀρεσκέτω εἰς τὸ ἀγαθὸν πρὸς οἰκοδομήν· 
+
+
+### Rom 15:3 {#rom-15-3}
+καὶ γὰρ ὁ Χριστὸς οὐχ ἑαυτῷ ἤρεσεν· ἀλλὰ καθὼς γέγραπται· Οἱ ὀνειδισμοὶ τῶν ὀνειδιζόντων σε ἐπέπεσαν ἐπʼ ἐμέ. 
+
+
+### Rom 15:4 {#rom-15-4}
+ὅσα γὰρ προεγράφη, ⸀εἰς τὴν ἡμετέραν διδασκαλίαν ⸀ἐγράφη, ἵνα διὰ τῆς ὑπομονῆς καὶ διὰ τῆς παρακλήσεως τῶν γραφῶν τὴν ἐλπίδα ἔχωμεν. 
+
+
+### Rom 15:5 {#rom-15-5}
+ὁ δὲ θεὸς τῆς ὑπομονῆς καὶ τῆς παρακλήσεως δῴη ὑμῖν τὸ αὐτὸ φρονεῖν ἐν ἀλλήλοις κατὰ ⸂Χριστὸν Ἰησοῦν⸃, 
+
+
+### Rom 15:6 {#rom-15-6}
+ἵνα ὁμοθυμαδὸν ἐν ἑνὶ στόματι δοξάζητε τὸν θεὸν καὶ πατέρα τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ. 
+
+
+### Rom 15:7 {#rom-15-7}
+Διὸ προσλαμβάνεσθε ἀλλήλους, καθὼς καὶ ὁ Χριστὸς προσελάβετο ⸀ὑμᾶς, εἰς δόξαν ⸀τοῦ θεοῦ. 
+
+
+### Rom 15:8 {#rom-15-8}
+λέγω ⸀γὰρ ⸀Χριστὸν διάκονον ⸀γεγενῆσθαι περιτομῆς ὑπὲρ ἀληθείας θεοῦ, εἰς τὸ βεβαιῶσαι τὰς ἐπαγγελίας τῶν πατέρων, 
+
+
+### Rom 15:9 {#rom-15-9}
+τὰ δὲ ἔθνη ὑπὲρ ἐλέους δοξάσαι τὸν θεόν· καθὼς γέγραπται· Διὰ τοῦτο ἐξομολογήσομαί σοι ἐν ἔθνεσι, καὶ τῷ ὀνόματί σου ψαλῶ. 
+
+
+### Rom 15:10 {#rom-15-10}
+καὶ πάλιν λέγει· Εὐφράνθητε, ἔθνη, μετὰ τοῦ λαοῦ αὐτοῦ. 
+
+
+### Rom 15:11 {#rom-15-11}
+καὶ πάλιν· Αἰνεῖτε, ⸂πάντα τὰ ἔθνη, τὸν κύριον⸃, καὶ ⸀ἐπαινεσάτωσαν αὐτὸν πάντες οἱ λαοί. 
+
+
+### Rom 15:12 {#rom-15-12}
+καὶ πάλιν Ἠσαΐας λέγει· Ἔσται ἡ ῥίζα τοῦ Ἰεσσαί, καὶ ὁ ἀνιστάμενος ἄρχειν ἐθνῶν· ἐπʼ αὐτῷ ἔθνη ἐλπιοῦσιν. 
+
+
+### Rom 15:13 {#rom-15-13}
+ὁ δὲ θεὸς τῆς ἐλπίδος πληρώσαι ὑμᾶς πάσης χαρᾶς καὶ εἰρήνης ἐν τῷ πιστεύειν, εἰς τὸ περισσεύειν ὑμᾶς ἐν τῇ ἐλπίδι ἐν δυνάμει πνεύματος ἁγίου. 
+
+
+### Rom 15:14 {#rom-15-14}
+Πέπεισμαι δέ, ἀδελφοί μου, καὶ αὐτὸς ἐγὼ περὶ ὑμῶν, ὅτι καὶ αὐτοὶ μεστοί ἐστε ἀγαθωσύνης, πεπληρωμένοι ⸀πάσης γνώσεως, δυνάμενοι καὶ ⸀ἀλλήλους νουθετεῖν. 
+
+
+### Rom 15:15 {#rom-15-15}
+⸀τολμηρότερον δὲ ἔγραψα ⸀ὑμῖν ἀπὸ μέρους, ὡς ἐπαναμιμνῄσκων ὑμᾶς, διὰ τὴν χάριν τὴν δοθεῖσάν μοι ⸀ὑπὸ τοῦ θεοῦ 
+
+
+### Rom 15:16 {#rom-15-16}
+εἰς τὸ εἶναί με λειτουργὸν ⸂Χριστοῦ Ἰησοῦ⸃ εἰς τὰ ἔθνη, ἱερουργοῦντα τὸ εὐαγγέλιον τοῦ θεοῦ, ἵνα γένηται ἡ προσφορὰ τῶν ἐθνῶν εὐπρόσδεκτος, ἡγιασμένη ἐν πνεύματι ἁγίῳ. 
+
+
+### Rom 15:17 {#rom-15-17}
+ἔχω οὖν ⸀τὴν καύχησιν ἐν Χριστῷ Ἰησοῦ τὰ πρὸς τὸν θεόν· 
+
+
+### Rom 15:18 {#rom-15-18}
+οὐ γὰρ τολμήσω ⸂τι λαλεῖν⸃ ὧν οὐ κατειργάσατο Χριστὸς διʼ ἐμοῦ εἰς ὑπακοὴν ἐθνῶν, λόγῳ καὶ ἔργῳ, 
+
+
+### Rom 15:19 {#rom-15-19}
+ἐν δυνάμει σημείων καὶ τεράτων, ἐν δυνάμει ⸀πνεύματος· ὥστε με ἀπὸ Ἰερουσαλὴμ καὶ κύκλῳ μέχρι τοῦ Ἰλλυρικοῦ πεπληρωκέναι τὸ εὐαγγέλιον τοῦ Χριστοῦ, 
+
+
+### Rom 15:20 {#rom-15-20}
+οὕτως δὲ ⸀φιλοτιμούμενον εὐαγγελίζεσθαι οὐχ ὅπου ὠνομάσθη Χριστός, ἵνα μὴ ἐπʼ ἀλλότριον θεμέλιον οἰκοδομῶ, 
+
+
+### Rom 15:21 {#rom-15-21}
+ἀλλὰ καθὼς γέγραπται· ⸂Οἷς οὐκ ἀνηγγέλη περὶ αὐτοῦ ὄψονται⸃, καὶ οἳ οὐκ ἀκηκόασιν συνήσουσιν. 
+
+
+### Rom 15:22 {#rom-15-22}
+Διὸ καὶ ἐνεκοπτόμην τὰ πολλὰ τοῦ ἐλθεῖν πρὸς ὑμᾶς· 
+
+
+### Rom 15:23 {#rom-15-23}
+νυνὶ δὲ μηκέτι τόπον ἔχων ἐν τοῖς κλίμασι τούτοις, ἐπιποθίαν δὲ ἔχων τοῦ ἐλθεῖν πρὸς ὑμᾶς ἀπὸ ⸀ἱκανῶν ἐτῶν, 
+
+
+### Rom 15:24 {#rom-15-24}
+ὡς ⸀ἂν πορεύωμαι εἰς τὴν ⸀Σπανίαν, ἐλπίζω γὰρ διαπορευόμενος θεάσασθαι ὑμᾶς καὶ ὑφʼ ὑμῶν προπεμφθῆναι ἐκεῖ ἐὰν ὑμῶν πρῶτον ἀπὸ μέρους ἐμπλησθῶ— 
+
+
+### Rom 15:25 {#rom-15-25}
+νυνὶ δὲ πορεύομαι εἰς Ἰερουσαλὴμ διακονῶν τοῖς ἁγίοις. 
+
+
+### Rom 15:26 {#rom-15-26}
+εὐδόκησαν γὰρ Μακεδονία καὶ Ἀχαΐα κοινωνίαν τινὰ ποιήσασθαι εἰς τοὺς πτωχοὺς τῶν ἁγίων τῶν ἐν Ἰερουσαλήμ. 
+
+
+### Rom 15:27 {#rom-15-27}
+εὐδόκησαν γάρ, καὶ ὀφειλέται ⸂εἰσὶν αὐτῶν⸃· εἰ γὰρ τοῖς πνευματικοῖς αὐτῶν ἐκοινώνησαν τὰ ἔθνη, ὀφείλουσιν καὶ ἐν τοῖς σαρκικοῖς λειτουργῆσαι αὐτοῖς. 
+
+
+### Rom 15:28 {#rom-15-28}
+τοῦτο οὖν ἐπιτελέσας, καὶ σφραγισάμενος αὐτοῖς τὸν καρπὸν τοῦτον, ἀπελεύσομαι διʼ ὑμῶν ⸀εἰς Σπανίαν· 
+
+
+### Rom 15:29 {#rom-15-29}
+οἶδα δὲ ὅτι ἐρχόμενος πρὸς ὑμᾶς ἐν πληρώματι ⸀εὐλογίας Χριστοῦ ἐλεύσομαι. 
+
+
+### Rom 15:30 {#rom-15-30}
+Παρακαλῶ δὲ ὑμᾶς, ἀδελφοί, διὰ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ καὶ διὰ τῆς ἀγάπης τοῦ πνεύματος συναγωνίσασθαί μοι ἐν ταῖς προσευχαῖς ὑπὲρ ἐμοῦ πρὸς τὸν θεόν, 
+
+
+### Rom 15:31 {#rom-15-31}
+ἵνα ῥυσθῶ ἀπὸ τῶν ἀπειθούντων ἐν τῇ Ἰουδαίᾳ ⸀καὶ ἡ διακονία μου ἡ εἰς Ἰερουσαλὴμ εὐπρόσδεκτος ⸂τοῖς ἁγίοις γένηται⸃, 
+
+
+### Rom 15:32 {#rom-15-32}
+ἵνα ἐν χαρᾷ ⸀ἐλθὼν πρὸς ὑμᾶς διὰ θελήματος ⸀θεοῦ συναναπαύσωμαι ὑμῖν. 
+
+
+### Rom 15:33 {#rom-15-33}
+ὁ δὲ θεὸς τῆς εἰρήνης μετὰ πάντων ὑμῶν· ἀμήν. 
+
+
+### Rom 16:1 {#rom-16-1}
+Συνίστημι δὲ ὑμῖν Φοίβην τὴν ἀδελφὴν ἡμῶν, οὖσαν ⸀καὶ διάκονον τῆς ἐκκλησίας τῆς ἐν Κεγχρεαῖς, 
+
+
+### Rom 16:2 {#rom-16-2}
+ἵνα ⸂αὐτὴν προσδέξησθε⸃ ἐν κυρίῳ ἀξίως τῶν ἁγίων, καὶ παραστῆτε αὐτῇ ἐν ᾧ ἂν ὑμῶν χρῄζῃ πράγματι, καὶ γὰρ αὐτὴ προστάτις πολλῶν ἐγενήθη καὶ ⸂ἐμοῦ αὐτοῦ⸃. 
+
+
+### Rom 16:3 {#rom-16-3}
+Ἀσπάσασθε Πρίσκαν καὶ Ἀκύλαν τοὺς συνεργούς μου ἐν Χριστῷ Ἰησοῦ, 
+
+
+### Rom 16:4 {#rom-16-4}
+οἵτινες ὑπὲρ τῆς ψυχῆς μου τὸν ἑαυτῶν τράχηλον ὑπέθηκαν, οἷς οὐκ ἐγὼ μόνος εὐχαριστῶ ἀλλὰ καὶ πᾶσαι αἱ ἐκκλησίαι τῶν ἐθνῶν, 
+
+
+### Rom 16:5 {#rom-16-5}
+καὶ τὴν κατʼ οἶκον αὐτῶν ἐκκλησίαν. ἀσπάσασθε Ἐπαίνετον τὸν ἀγαπητόν μου, ὅς ἐστιν ἀπαρχὴ τῆς ⸀Ἀσίας εἰς Χριστόν. 
+
+
+### Rom 16:6 {#rom-16-6}
+ἀσπάσασθε ⸀Μαριάμ, ἥτις πολλὰ ἐκοπίασεν εἰς ⸀ὑμᾶς. 
+
+
+### Rom 16:7 {#rom-16-7}
+ἀσπάσασθε Ἀνδρόνικον καὶ ⸀Ἰουνίαν τοὺς συγγενεῖς μου καὶ συναιχμαλώτους μου, οἵτινές εἰσιν ἐπίσημοι ἐν τοῖς ἀποστόλοις, οἳ καὶ πρὸ ἐμοῦ ⸀γέγοναν ἐν Χριστῷ. 
+
+
+### Rom 16:8 {#rom-16-8}
+ἀσπάσασθε ⸀Ἀμπλιᾶτον τὸν ἀγαπητόν μου ἐν κυρίῳ. 
+
+
+### Rom 16:9 {#rom-16-9}
+ἀσπάσασθε Οὐρβανὸν τὸν συνεργὸν ἡμῶν ἐν Χριστῷ καὶ Στάχυν τὸν ἀγαπητόν μου. 
+
+
+### Rom 16:10 {#rom-16-10}
+ἀσπάσασθε Ἀπελλῆν τὸν δόκιμον ἐν Χριστῷ. ἀσπάσασθε τοὺς ἐκ τῶν Ἀριστοβούλου. 
+
+
+### Rom 16:11 {#rom-16-11}
+ἀσπάσασθε Ἡρῳδίωνα τὸν ⸀συγγενῆ μου. ἀσπάσασθε τοὺς ἐκ τῶν Ναρκίσσου τοὺς ὄντας ἐν κυρίῳ. 
+
+
+### Rom 16:12 {#rom-16-12}
+ἀσπάσασθε Τρύφαιναν καὶ Τρυφῶσαν τὰς κοπιώσας ἐν κυρίῳ. ἀσπάσασθε Περσίδα τὴν ἀγαπητήν, ἥτις πολλὰ ἐκοπίασεν ἐν κυρίῳ. 
+
+
+### Rom 16:13 {#rom-16-13}
+ἀσπάσασθε Ῥοῦφον τὸν ἐκλεκτὸν ἐν κυρίῳ καὶ τὴν μητέρα αὐτοῦ καὶ ἐμοῦ. 
+
+
+### Rom 16:14 {#rom-16-14}
+ἀσπάσασθε Ἀσύγκριτον, Φλέγοντα, ⸂Ἑρμῆν, Πατροβᾶν, Ἑρμᾶν⸃ καὶ τοὺς σὺν αὐτοῖς ἀδελφούς. 
+
+
+### Rom 16:15 {#rom-16-15}
+ἀσπάσασθε Φιλόλογον καὶ Ἰουλίαν, Νηρέα καὶ τὴν ἀδελφὴν αὐτοῦ, καὶ Ὀλυμπᾶν καὶ τοὺς σὺν αὐτοῖς πάντας ἁγίους. 
+
+
+### Rom 16:16 {#rom-16-16}
+Ἀσπάσασθε ἀλλήλους ἐν φιλήματι ἁγίῳ. Ἀσπάζονται ὑμᾶς αἱ ἐκκλησίαι ⸀πᾶσαι τοῦ Χριστοῦ. 
+
+
+### Rom 16:17 {#rom-16-17}
+Παρακαλῶ δὲ ὑμᾶς, ἀδελφοί, σκοπεῖν τοὺς τὰς διχοστασίας καὶ τὰ σκάνδαλα παρὰ τὴν διδαχὴν ἣν ὑμεῖς ἐμάθετε ποιοῦντας, καὶ ⸀ἐκκλίνετε ἀπʼ αὐτῶν· 
+
+
+### Rom 16:18 {#rom-16-18}
+οἱ γὰρ τοιοῦτοι τῷ κυρίῳ ⸀ἡμῶν Χριστῷ οὐ δουλεύουσιν ἀλλὰ τῇ ἑαυτῶν κοιλίᾳ, καὶ διὰ τῆς χρηστολογίας καὶ εὐλογίας ἐξαπατῶσι τὰς καρδίας τῶν ἀκάκων. 
+
+
+### Rom 16:19 {#rom-16-19}
+ἡ γὰρ ὑμῶν ὑπακοὴ εἰς πάντας ἀφίκετο· ⸂ἐφʼ ὑμῖν οὖν χαίρω⸃, θέλω δὲ ὑμᾶς ⸀σοφοὺς εἶναι εἰς τὸ ἀγαθόν, ἀκεραίους δὲ εἰς τὸ κακόν. 
+
+
+### Rom 16:20 {#rom-16-20}
+ὁ δὲ θεὸς τῆς εἰρήνης συντρίψει τὸν Σατανᾶν ὑπὸ τοὺς πόδας ὑμῶν ἐν τάχει. ἡ χάρις τοῦ κυρίου ἡμῶν Ἰησοῦ ⸀Χριστοῦ μεθʼ ὑμῶν. 
+
+
+### Rom 16:21 {#rom-16-21}
+⸀Ἀσπάζεται ὑμᾶς Τιμόθεος ὁ συνεργός μου, καὶ Λούκιος καὶ Ἰάσων καὶ Σωσίπατρος οἱ συγγενεῖς μου. 
+
+
+### Rom 16:22 {#rom-16-22}
+ἀσπάζομαι ὑμᾶς ἐγὼ Τέρτιος ὁ γράψας τὴν ἐπιστολὴν ἐν κυρίῳ. 
+
+
+### Rom 16:23 {#rom-16-23}
+ἀσπάζεται ὑμᾶς Γάϊος ὁ ξένος μου καὶ ⸂ὅλης τῆς ἐκκλησίας⸃. ἀσπάζεται ὑμᾶς Ἔραστος ὁ οἰκονόμος τῆς πόλεως καὶ Κούαρτος ὁ ἀδελφός. 
+
+
+### Rom 16:24 {#rom-16-24}
+⸂Ἡ χάρις τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ μετὰ πάντων ὑμῶν.⸃ ⸀Ἀμήν. 
+
