@@ -392,7 +392,7 @@ preparar correctamente el texto.
 
 Sin este <u>paso</u>, todo lo demás falla.
 
-## PASO 1 — COPIAR EL TEXTO
+# PASO 1 — COPIAR EL TEXTO
 ## EJECUTA
 
 ### ¿Qué haces?
@@ -481,7 +481,7 @@ Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo.
 
 - 👉 verás <u>dónde</u> están las afirmaciones del texto
 
-## PASO 2 — IDENTIFICAR LOS VERBOS FINITOS
+# PASO 2 — IDENTIFICAR LOS VERBOS FINITOS
 
 ## EJECUTA
 
@@ -628,7 +628,7 @@ En verdad, ni aun ahora ==pueden==.
 - 👉 separarás cada verbo en su propia línea
 - 👉 verás claramente las unidades de acción del texto
 
-## PASO 3 — IDENTIFICAR CLÁUSULAS
+# PASO 3 — IDENTIFICAR CLÁUSULAS
 
 ## EJECUTA
 
@@ -734,7 +734,7 @@ En verdad, ni aun ahora ==pueden==.
 
 - 👉 comenzarás a ver cómo se relacionan
 
-## PASO 4 — IDENTIFICAR CONECTORES QUE UNEN CLÁUSULAS
+# PASO 4 — IDENTIFICAR CONECTORES QUE UNEN CLÁUSULAS
 
 ![tabla-conectores](images/tabla-conectores.png)
 
@@ -845,7 +845,7 @@ En verdad, ni aun ahora ==pueden==.
 ##### Transición
 ###### En el siguiente paso <u>usarás</u> estos conectores para organizar la estructura.
 
-## PASO 5 - IDENTIFICAR LA ESTRUCTURA
+# PASO 5 - IDENTIFICAR LA ESTRUCTURA
 
 ## EJECUTA
 
@@ -955,7 +955,7 @@ En verdad, ni aun ahora ==pueden==.
 - 👉 usarás los conectores para **leer la relación entre cláusulas**
 - 👉 no solo <u>verás</u> la estructura — la entenderás
 
-## PASO 6 - USAR EL CONECTOR
+# PASO 6 - USAR EL CONECTOR
 
 ## EJECUTA
 
@@ -1064,7 +1064,7 @@ En verdad, ni aun ahora ==pueden==.
 - 👉 reducirás <u>cada</u> cláusula a su forma base  
 - 👉 verás la estructura con claridad total  
 
-## PASO 7 - REDUCIR A LA CLÁUSULA BASE
+# PASO 7 - REDUCIR A LA CLÁUSULA BASE
 
 ## EJECUTA
 
@@ -1169,7 +1169,7 @@ ni aun ahora ==pueden==
 - 👉 identificarás cuáles cláusulas <u>sostienen</u> el desarrollo  
 - 👉 eliminarás las que dependen de otras  
 
-## PASO 8 - IDENTIFICAR LA ESTRUCTURA TRONCAL
+# PASO 8 - IDENTIFICAR LA ESTRUCTURA TRONCAL
 
 ## EJECUTA
 
@@ -1357,7 +1357,7 @@ ni aun ahora ==pueden==
 - 👉 observarás qué hace cada cláusula
 - 👉 sin perder la estructura observada
 
-## PASO 9 - MARCAR EL COMPORTAMIENTO
+# PASO 9 - MARCAR EL COMPORTAMIENTO
 
 ## EJECUTA
 
@@ -1528,398 +1528,457 @@ ni aun ahora pueden
 - 👉 leerás solo las etiquetas
 - 👉 detectarás <u>patrones</u>
 
-## PASO 10 — IDENTIFICAR PATRONES
+# ANTES DE CONTINUAR — LEER EL COMPORTAMIENTO DEL TEXTO
+
+## LO QUE YA TIENES
+
+Hasta aquí no has interpretado.
+
+Has trabajado el texto mecánicamente:
+
+- identificaste verbos
+- separaste cláusulas
+- organizaste estructura
+- redujiste al tronco (Paso 8)
+- marcaste el comportamiento de cada línea (Paso 9)
+
+Ahora tienes algo muy específico:
+
+👉 un conjunto de líneas claras
+ 👉 cada línea con una acción definida
+
+Esto es **datos procesados**.
+
+## LO QUE CAMBIA AHORA
+
+Hasta este punto preguntabas:
+
+👉 ¿qué hay en el texto?
+
+Ahora la pregunta cambia:
+
+👉 ¿cómo se comporta lo que hay?
+
+## DISTINCIÓN CLAVE
+
+MOVIMIENTO (Paso 9)
+ → qué hace una línea
+
+PATRÓN (Paso 10–11)
+ → qué hacen varias líneas juntas
+
+## NO INTERPRETAS SIGNIFICADO
+
+No estás explicando el texto.
+ No estás enseñando doctrina.
+ No estás aplicando.
+
+👉 Estás observando comportamiento.
+
+👉 Estás leyendo cómo el texto avanza.
+
+## SEÑALES QUE DEBES DETECTAR
+
+Antes de buscar patrones, debes aprender a ver señales.
+
+Estas señales ya están en el texto.
+ No las inventas.
+
+### REPETICIÓN
+
+Misma acción, misma estructura o misma idea.
+
+- mismo verbo
+- mismo sujeto
+- misma forma
+
+👉 indica unidad
+
+### PROGRESIÓN
+
+La idea avanza.
+
+- desarrollo
+- aumento
+- cambio de nivel
+
+👉 indica movimiento
+
+### CONTRASTE
+
+Oposición directa.
+
+- sino
+- pero
+- no / sí
+
+👉 divide bloques
+
+### CAMBIO DE SUJETO
+
+El actor cambia.
+
+- yo → ellos → Dios
+
+👉 posible cambio de sección
+
+### CAMBIO DE ACCIÓN
+
+La acción cambia.
+
+- hablar → dar → crecer
+
+👉 posible transición o desarrollo
+
+### CONECTORES
+
+Confirman relaciones.
+
+- porque → razón
+- para que → propósito
+- pero → contraste
+
+👉 no crean el patrón
+ 👉 lo hacen visible
+
+## CÓMO LEER EL TEXTO AHORA
+
+No agregas nada nuevo.
+
+Solo haces preguntas sobre lo que ya tienes:
+
+Para cada línea:
+
+- ¿repite algo anterior?
+- ¿contrasta algo?
+- ¿avanza la idea?
+- ¿cambia el sujeto?
+- ¿cambia la acción?
+
+Esto es lo que te permite ver patrones.
+
+## LECTURA GUIADA
+
+Texto (tronco + comportamiento):
+
+yo no pude hablar → EXPONE
+ yo di leche → EXPONE
+ no podían → RAZÓN
+
+Ahora observa:
+
+- “yo” se repite → repetición de sujeto
+- acción del autor se mantiene → repetición
+- aparece una razón → soporte
+
+Agrupación visible:
+
+[yo no pude hablar
+ yo di leche] → unidad
+
+[no podían] → razón que sostiene
+
+No interpretaste.
+ No explicaste.
+
+👉 solo viste cómo se relacionan las líneas
+
+## RESULTADO DE ESTA SECCIÓN
+
+Ahora puedes:
+
+- detectar repetición
+- ver progresión
+- identificar contrastes
+- notar cambios de sujeto
+- seguir cambios de acción
+
+👉 ya no estás viendo líneas aisladas
+ 👉 estás viendo comportamiento conjunto
+
+## LO QUE VIENE
+
+Ahora sí estás listo para continuar.
+
+En el siguiente paso:
+
+👉 no vas a buscar datos nuevos
+ 👉 vas a confirmar patrones
+
+# PASO 10 — IDENTIFICAR PATRONES
 
 ## EJECUTA
 
-### ¿Qué haces?
-###### Lees únicamente las **etiquetas** y detectas lo que se repite.
+##### ¿Qué haces?
+###### Identificas patrones en el tronco agrupando líneas que se comportan juntas.
 
-### Regla
-###### Ignoras el contenido del texto y trabajas únicamente con las etiquetas del Paso 9
-- 👉 Solo observas la **secuencia de comportamiento**
-- Solo usas las <u>etiquetas</u> generadas en el Paso 9
-- El patrón solo puede formarse con etiquetas del Paso 9
+##### Regla
+###### Solo trabajas con:
+- el texto del Paso 8 (tronco)
+- las etiquetas del Paso 9 (comportamiento)
 
-### Cómo hacerlo
+###### ❌ No agregas contenido
+###### ❌ No explicas el significado
+###### ❌ No interpretas
 
-1. Toma las etiquetas del Paso 9
+###### Solo marcas lo que se repite o se desarrolla.
 
-2. Léelas en orden
+##### Cómo hacerlo
+1. Toma el texto del Paso 8 con las etiquetas del Paso 9
+2. Lee línea por línea
+3. Haz estas preguntas:
 
-3. Haz esta pregunta:
-- 👉 ¿Qué se repite?
+- 👉 ¿Qué líneas repiten algo?
+- 👉 ¿Qué líneas avanzan la idea?
+- 👉 ¿Qué líneas contrastan?
+- 👉 ¿Dónde cambia el sujeto?
+- 👉 ¿Dónde cambia la acción?
 
-4. El patrón debe ser una secuencia completa que se <u>repite</u>
+1. Agrupa las líneas que se comportan juntas
+2. Asigna una etiqueta de patrón al grupo
 
-5. Exprésala como un patrón
+##### Patrones permitidos
 
-### Resultado esperado
+Puedes usar únicamente estos:
 
-```
-EXPONE
-EXPONE
-RAZÓN
-```
+REPETICIÓN • PROGRESIÓN • CONTRASTE • CAUSA–RESULTADO • PARALELISMO• CAMBIO DE SUJETO
 
-### Patrón:
-```
-EXPONE → RAZÓN
-```
 
-### Si no hay repetición clara:
-```
-No se observa un patrón repetido claro
-```
-
-## ENTIENDE
-
-### Qué estás haciendo realmente
-###### Estás detectando la **repetición del comportamiento del texto**.
-
-### Principio clave
-###### El patrón no se interpreta.
-- 👉 Se observa por repetición.
-
-### Idea clave
-###### El contenido <u>cambia</u>. El comportamiento se repite.
-
-### Pregunta guía
-###### 👉 ¿Qué comportamiento aparece varias veces?
-
-### Definición
-###### Patrón = secuencia de comportamiento que se repite dentro del texto.
-
-###### ❗ Debe haber repetición real.
-
-###### Si no hay repetición, no hay patrón.
-
-### Ejemplo guiado
-
-###### Etiquetas:
+##### Resultado esperado
 
 ```
-::EXPONE::
-
-::EXPONE::
+::REPETICIÓN::
+yo no pude hablar
+yo di leche
 
 ::RAZÓN::
+no podían
 ```
-
-###### Observación:
-- EXPONE se repite
-
-###### Resultado:
-
-```
-EXPONE → RAZÓN
-```
-
-### Regla importante
-###### El patrón se basa en repetición real, no en impresión. El patrón solo puede formarse con etiquetas del Paso 9
-
-###### El patrón debe ser una secuencia completa que se <u>repite</u>
-
-###### ❗ Si no puedes mostrar la repetición, no hay patrón
-
-### Errores Comúnes
-
-- Leer el contenido
-- Inventar patrones
-- Forzar coincidencias
-- Nombrar ideas en lugar de comportamiento
-- Asumir que todo texto tiene patrón
-
-### Regla de control
-###### Si no puedes señalar dónde se repite la secuencia,
-
-###### no debes declarar un patrón.
-
-### Frase clave
-> “No busques ideas — busca repetición.”
-
-### Qué debes notar
-###### Cuando identificas correctamente:
-- el texto revela su forma de avanzar
-- puedes anticipar lo que <u>sigue</u>
-- el flujo se vuelve visible
-
-###### Cuando no hay patrón:
-- el texto sigue siendo válido
-- el desarrollo se observará por continuidad, no por repetición
-
-### Transición
-###### En el siguiente paso:
-- 👉 si hay patrón, lo extenderás
-- 👉 si no hay patrón, observarás dónde el desarrollo se mantiene o se reinicia
-
-## PASO 11 — SEGUIR O DETENERSE
-
-## EJECUTA
-
-### ¿Qué haces?
-###### Determinas si debes **seguir leyendo** o **detenerte**.
-
-### Regla
-###### Mientras el patrón continúe → sigues
-###### Cuando el patrón se rompe → te detienes
-
-###### Solo puedes avanzar si <u>tienes</u> un patrón claro del Paso 10
-
-### Caso sin patrón
-###### Si en el Paso 10 determinaste que:
-
-```
-No se observa un patrón repetido claro
-```
-
-###### Entonces:
-- 👉 Este paso no se aplica
-- 👉 No extiendes nada
-- 👉 Pasas directamente al Paso 12
-
-### Cómo hacerlo
-
-1. Toma el patrón identificado (Paso 10)
-
-2. Avanza en el texto
-
-3. Marca el comportamiento de las nuevas cláusulas (Paso 9)
-
-4. Compara esas etiquetas con el patrón identificado (Paso 10)
-
-5. Haz esta pregunta:
-- 👉 ¿El patrón sigue o se rompe?
-
-6. Decide:
-- Sigue → continúas
-- Se rompe → te detienes
-
-### Resultado esperado
-
-##### Patrón:
-
-```
-1 Corintios 3:1–23
-EXPONE → RAZÓN ✔
-
-1 Corintios 4:1–5
-EXPONE → RAZÓN ✔
-
-1 Corintios 4:6–13
-EXPONE → RAZÓN ✔
-
-1 Corintios 4:14–21
-EXPONE → RAZÓN ✔
-
-1 Corintios 5:1–13
-EXPONE → MANDATO → JUICIO ✖
-```
-
-### Resultado:
-###### El patrón continúa → sigue hasta 4:21
 
 ## ENTIENDE
 
-### Qué estás haciendo realmente
-###### Estás dejando que el **patrón determine el límite del texto**.
+##### Qué estás haciendo realmente
+###### Estás dejando de ver líneas individuales.
+###### Ahora ves bloques.
 
-### Principio clave
-###### No decides dónde detenerte.
-- 👉 El patrón lo <u>decide</u>
+##### Principio clave
+###### Un patrón no está en una línea.
+###### Está en la relación entre líneas.
 
-### Idea clave
-###### El texto continúa mientras hace lo mismo
+##### Idea clave
+###### El patrón no se inventa.
 
-###### Se detiene cuando deja de hacerlo
+###### Se reconoce porque:
+- algo se repite
+- algo avanza
+- algo cambia
 
-###### Si no hay patrón:
+##### Advertencia
+###### Si necesitas explicar el texto, te saliste del paso.
+###### Si agregas ideas, te saliste del paso.
 
-###### El límite se determinará por el desarrollo en el Paso 12
+###### Si dudas entre dos opciones:
+👉 elige la que sea visible en el texto
 
-### Pregunta guía
-###### 👉 ¿El patrón sigue o se rompe?
+##### Resultado mental esperado
+###### Ahora puedes ver:
+- qué líneas pertenecen juntas
+- qué líneas sostienen otras
+- dónde empieza a formarse una unidad
 
-### Definición
-###### Romper el patrón = cuando la secuencia de comportamiento deja de repetirse o es reemplazada por otra
+###### 👉 Esto prepara directamente el siguiente paso:
+- no solo ver el patrón…
+- 👉 sino seguirlo hasta que termine.
 
-### Ejemplo guiado
-
-###### Patrón:
-
-```
-EXPONE → RAZÓN
-```
-
-###### Evaluación:
-
-```
-EXPONE → RAZÓN  
-EXPONE → RAZÓN  
-EXPONE → RAZÓN  
-```
-
-### Resultado:
-###### 👉 El patrón continúa → no puedes detenerte
-
-### Regla importante
-###### Cambios de palabras o tema **no rompen el patrón**
-
-###### Solo el <u>cambio</u> de comportamiento lo hace
-
-### Errores Comúnes
-
-- Detenerse porque “parece otra idea”
-- Detenerse por cambio de ejemplo
-- Detenerse por intuición
-- Ignorar el patrón
-- Intentar aplicar este paso sin tener un patrón
-
-### Regla de control
-###### Si puedes seguir marcando el mismo patrón, no puedes detenerte
-
-###### Si no hay patrón, no puedes extender
-
-### Frase clave
-> “No me detengo hasta que el patrón desaparece.”
-
-### Qué debes notar
-###### Cuando <u>aplicas</u> correctamente:
-- evitas dividir el texto prematuramente
-- sigues el flujo real del pensamiento
-- los límites se vuelven objetivos
-
-### Transición
-###### En el siguiente paso:
-- 👉 marcarás exactamente dónde comienza y termina la unidad
-- 👉 definirás los límites completos del texto
-
-## PASO 12 — DELIMITAR LA UNIDAD
+# PASO 11 — EXTENDER EL PATRÓN
 
 ## EJECUTA
-### ¿Qué haces?
-##### Defines los límites completos de la unidad de pensamiento.
 
-### REGLA
-##### La unidad se delimita de dos maneras:
+##### ¿Qué haces?
+###### Extiendes el patrón identificado siguiendo las líneas que mantienen el mismo comportamiento.
 
-##### CASO A — CON PATRÓN
-La unidad comienza donde inicia el patrón
-La unidad termina donde el patrón se rompe
+##### Regla
+###### Solo trabajas con:
+- los patrones marcados en Paso 10
+- el texto del tronco (Paso 8)
+- las etiquetas del Paso 9
 
-##### CASO B — SIN PATRÓN
+###### ❌ No creas patrones nuevos
+###### ❌ No cambias etiquetas
+###### ❌ No reorganizas el texto
 
-###### La unidad comienza donde inicia el desarrollo
-###### La unidad termina donde el desarrollo se reinicia completamente
-###### No decides los límites
-###### Usas exactamente el punto donde el patrón se rompe o donde el desarrollo se reinicia
+- 👉 Solo sigues el patrón existente
 
-### CÓMO HACERLO
+##### Cómo hacerlo
 
-##### SI HAY PATRÓN (Paso 10–11)
-###### Toma el punto donde comenzó el patrón (Paso 10)
-###### Toma el punto donde el patrón se rompió (Paso 11)
-###### Escribe claramente el inicio y el final de la unidad
+1. Toma un patrón identificado en Paso 10
 
-##### SI NO HAY PATRÓN
+2. Comienza desde su primera línea
 
-##### Toma el texto trabajado (Paso 8 + O1–O2)
+3. Avanza línea por línea
 
-##### Observa:
-###### cambios de sujeto (O1)
-###### cambios de tipo (O2)
-###### continuidad del desarrollo
+4. En cada línea pregunta:
+- 👉 ¿mantiene el mismo comportamiento?
+- 👉 ¿sigue el mismo tipo de relación?
 
-##### El reinicio debe ser observable en múltiples elementos a la vez: - 
-- cambio de sujeto principal 
-- cambio de tipo de cláusula 
-- cambio en la secuencia de comportamiento
+5. Mientras la respuesta sea “sí”:
+- 👉 la línea pertenece al patrón
 
-##### Avanza hasta que ocurra un reinicio completo:
-###### cambio de sujeto principal
-###### cambio de tipo de cláusula
-###### nueva cadena de acciones
-###### Marca ese punto como inicio de una nueva unidad
+6. Cuando la respuesta sea “no”:
+- 👉 el patrón se detiene
 
-### RESULTADO ESPERADO
-###### Unidad:
-###### desde ______
-###### hasta ______
+##### Qué detiene un patrón
 
-##### Ejemplo (con patrón):
+###### El patrón termina cuando aparece:
+- cambio de comportamiento (EXPONE → RAZÓN, etc.)
+- cambio de relación (repetición → contraste, etc.)
+- cambio claro de dirección
+- cambio significativo de sujeto (cuando rompe la continuidad)
 
-##### Unidad:
-###### desde 1 Corintios 3:1
-###### hasta 1 Corintios 4:21
+##### Resultado esperado
 
-##### Ejemplo (sin patrón):
+```
+::REPETICIÓN::
+yo no pude hablar
+yo di leche
 
-##### Unidad:
-###### desde Gálatas 2:1
-###### hasta Gálatas 2:21
+::RAZÓN::
+no podían
+```
+
+- 👉 El patrón no se extendió a “no podían” porque cambia la función
 
 ## ENTIENDE
 
-### Qué estás haciendo realmente
-##### Estás identificando la unidad completa del desarrollo del pensamiento.
+##### Qué estás haciendo realmente
+###### Estás delimitando hasta dónde llega un comportamiento consistente.
 
-### Principio clave
-##### La unidad no se decide. El patrón la determina o el reinicio del desarrollo la determina
+##### Principio clave
+###### Un patrón no termina porque tú decides.
 
-### Idea clave
+###### Termina cuando deja de sostenerse.
 
-##### Mientras el patrón continúa → misma unidad
+##### Idea clave
+###### El límite del patrón es observable.
 
-##### Cuando el patrón se rompe → nueva unidad
+###### Se detecta cuando:
+- algo deja de repetirse
+- algo cambia de función
+- algo rompe el flujo
 
-###### Si no hay patrón:
-- Mientras el desarrollo continúa → misma unidad
-- Cuando el desarrollo se reinicia → nueva unidad
-### Pregunta guía
-##### ¿Dónde comenzó el patrón?
-##### ¿Dónde se rompió?
+##### Advertencia
+###### Si dudas, sigue avanzando.
 
-###### o
+###### El patrón no se corta temprano.
 
-##### ¿Dónde inicia el desarrollo?
-##### ¿Dónde se reinicia completamente?
+###### Se corta cuando se rompe claramente.
 
-### Definición
-##### Unidad = tramo completo donde el mismo desarrollo se mantiene.
+##### Resultado mental esperado
 
-### Regla importante
-##### No defines la unidad por contenido.
-##### La defines por comportamiento o por desarrollo
+###### Ahora puedes ver:
+- hasta dónde llega cada patrón
+- dónde empieza a cambiar el texto
+- dónde se preparan los límites de la unidad
 
-### Errores Comúnes
+##### 👉 Esto prepara directamente el siguiente paso:
+- no solo seguir el patrón…
+- 👉 sino usar su ruptura para delimitar la unidad.
 
-##### Cortar por cambio de tema
-##### Cortar por intuición
-##### Extender más allá del patrón
-##### No detectar el reinicio del desarrollo
+# PASO 12 — DELIMITAR LA UNIDAD
 
-### Regla de control
-##### Si el patrón continuaba, no podías cortar antes
-##### Si el patrón se rompió, no puedes extender más
-##### Si el desarrollo continúa, no puedes cortar
-##### Si el desarrollo se reinicia, no puedes extender
+## EJECUTA
 
-### Frase clave
-##### “La unidad termina donde el patrón se rompe o donde el desarrollo se reinicia.”
+##### ¿Qué haces?
+###### Delimitar la unidad identificando dónde el patrón comienza y dónde se rompe.
 
-### Qué debes notar
-##### Ahora tienes:
-###### límites objetivos
-###### una unidad completa
-###### base firme para trabajar el texto
+##### Regla
+###### Trabajas únicamente con:
+- los patrones extendidos (Paso 11)
+- el texto del tronco (Paso 8)
+- las etiquetas de comportamiento (Paso 9)
 
-### TRANSICIÓN
+###### ❌ No decides el límite
+###### ❌ No cortas por preferencia
+###### ❌ No usas capítulos o versículos
 
-##### En el siguiente paso:
-###### expresarás la acción del tronco
-###### verás qué hace el texto completo sin interpretarlo
+- 👉 El límite lo marca el texto
 
-## PASO 13 — EXPRESAR LA ACCIÓN DEL TRONCO
+##### Cómo hacerlo
+
+1. Toma un patrón extendido (Paso 11)
+
+2. Identifica su primera línea
+- 👉 ahí comienza la unidad
+
+3. Sigue el patrón hasta donde se sostiene
+
+4. Observa dónde se rompe:
+- 👉 cambio de patrón
+- 👉 cambio claro de comportamiento
+- 👉 cambio de dirección
+- 👉 cambio significativo de sujeto
+
+5. Marca ese punto
+- 👉 ahí termina la unidad
+
+##### Cómo confirmar el límite
+
+###### Lee la unidad completa:
+- 👉 ¿todas las líneas pertenecen al mismo desarrollo?
+- 👉 ¿el patrón se mantiene hasta el final?
+
+###### Si sí:
+- 👉 el límite es correcto
+
+###### Si no:
+- 👉 vuelve a Paso 11
+
+##### Resultado esperado
+
+```
+[INICIO]
+yo no pude hablar
+yo di leche
+no podían
+[FIN]
+```
+
+- 👉 La unidad comienza donde inicia el patrón
+- 👉 Termina donde el patrón se rompe
+
+## ENTIENDE
+
+##### Qué estás haciendo realmente
+###### Estás reconociendo los límites naturales del texto.
+
+##### Principio clave
+###### La unidad no se crea.
+
+###### 👉 Se descubre cuando el patrón se detiene.
+
+##### Idea clave
+###### El inicio está donde comienza el comportamiento consistente.
+
+###### El final está donde deja de sostenerse.
+
+##### Advertencia
+###### No cortes antes de tiempo.
+
+###### No extiendas más allá del patrón.
+
+###### 👉 El límite no es progresivo, es observable.
+
+##### Resultado mental esperado
+###### Ahora puedes ver:
+- dónde inicia una unidad real
+- dónde termina sin forzarla
+- cómo el texto se organiza naturalmente
+
+###### 👉 Esto prepara el paso final:
+- no decidir la unidad…
+- 👉 sino verificarla y expresarla correctamente.
+
+# PASO 13 — EXPRESAR LA ACCIÓN DEL TRONCO
 
 ## EJECUTA
 
@@ -2400,7 +2459,7 @@ Observación:
 - 👉 sin haber interpretado
 - 👉 listo para la siguiente fase
 
-# EJEMPLO COMPLETO — 1 CORINTIOS 3:1
+# EJEMPLO COMPLxETO — 1 CORINTIOS 3:1
 
 ## PUNTO DE PARTIDA DEL EJEMPLO
 
@@ -2411,7 +2470,7 @@ Observación:
 ###### ❗ La observación de lo que dice el texto no comienza desde cero.
 ###### ❗ Comienza desde una estructura ya definido.
 
-# CONCLUSIONES DE LOS PASOS 1–13
+## CONCLUSIONES DE LOS PASOS 1–13
 
 ## H1 — UNIDAD
 
@@ -2439,7 +2498,7 @@ Observación:
 - el movimiento inicial (3:1–4)
 - la acción del texto (Pablo expone la condición)
 
-# O₂ — OBSERVAR EL TEXTO
+## O₂ — OBSERVAR EL TEXTO
 
 ### TEXTO — 1 CORINTIOS 3:1
 Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
@@ -2744,155 +2803,84 @@ Pablo les habló como a carnales.
 
 ###### 👉 Estás listo para someterte a lo que el texto dice.
 
-# S — SOMETERSE AL TEXTO
-
-## INTRODUCCIÓN
-
-##### El problema final
-###### Es posible observar bien el texto,
-
-###### seguir su desarrollo,
-
-###### y expresarlo correctamente,
-
-###### y aun así no responder correctamente.
-
-###### ❗ El mayor error no es no entender el texto.
-- 👉 Es no aceptar lo que el texto afirma.
-
-##### El punto decisivo
-###### Hasta ahora:
-- viste el texto (O₂)
-- lo expresaste correctamente (T)
-
-###### 👉 Ahora decides si lo vas a cambiar o no.
-
-##### Qué haces ahora
-###### Te colocas bajo lo que el texto afirma.
-- 👉 No lo ajustas
-- 👉 No lo suavizas
-- 👉 No lo modificas
-
-##### Propósito
-###### Aceptar lo que el texto dice,
-
-###### tal como está escrito.
-
-##### Principio clave
-###### El texto no se negocia.
-
-###### 👉 Se acepta o se rechaza.
-
-##### Frase clave
-> “No cambio lo que el texto afirma.”
+# S — SINTETIZAR
 
 ## EJECUTA
 
 ##### ¿Qué haces?
-###### Tomas lo que el texto afirma claramente
-
-###### y lo mantienes sin alterarlo.
+###### Verificas que la unidad se sostiene completamente y expresas su acción en una sola oración clara.
 
 ##### Regla
-###### No cambias el texto
 
-###### No seleccionas partes
+###### Trabajas únicamente con:
+- la unidad delimitada (Paso 12)
+- los patrones extendidos (Paso 11)
+- el tronco (Paso 8)
 
-###### No lo adaptas a tu experiencia
+###### ❌ No agregas ideas
+###### ❌ No explicas
+###### ❌ No corriges el texto
 
-###### No reduces su alcance
-
-###### 👉 Mantienes lo que afirma
+- 👉 Solo verificas y expresas
 
 ##### Cómo hacerlo
 
-1. Identifica lo que el texto afirma claramente
+1. Recorre toda la unidad desde el inicio hasta el final
 
-2. Exprésalo (como en T)
+2. Confirma en cada línea:
+- 👉 pertenece a un patrón identificado
+- 👉 mantiene el comportamiento esperado
+- 👉 encaja en el flujo general
 
-3. Mantén esa afirmación sin modificarla
+3. Haz esta pregunta clave:
+- 👉 ¿se sostiene toda la unidad sin romperse?
+
+##### Regla de control
+###### Si algo no encaja:
+- 👉 no sintetizas
+- 👉 vuelves a Paso 10–11
+
+1. Si todo se sostiene:
+- 👉 escribe una sola oración usando este formato:
+
+- **[Autor] + [verbo permitido] + [contenido del tronco]**
 
 ##### Resultado esperado
-###### Una afirmación mantenida tal como el texto la presenta,
+- 👉 Una sola oración que:
 
-###### sin alteración.
-
-## EJEMPLO
-
-##### Texto afirma:
-
-```
-Pablo no pudo hablarles como a espirituales, sino como a carnales.
-```
-
-##### Incorrecto:
-
-```
-A veces los creyentes no son espirituales.
-```
-- ❌ reduce
-- ❌ generaliza
-- ❌ modifica
-
-##### Incorrecto:
-
-```
-Esto aplica solo a los corintios.
-```
-- ❌ limita
-- ❌ evita
-
-##### Correcto:
-
-```
-Pablo no pudo hablarles como a espirituales, sino como a carnales.
-```
-
-- ✔ mantiene
-- ✔ no cambia
-- ✔ no reduce
+- representa toda la unidad
+- refleja el flujo completo
+- no añade ni omite contenido
 
 ## ENTIENDE
 
 ##### Qué estás haciendo realmente
-###### Estás dejando que el texto permanezca tal como está.
+###### Estás cerrando el proceso completo del análisis.
 
 ##### Principio clave
-###### El texto tiene la última palabra.
+###### No puedes sintetizar lo que no se sostiene.
 
 ##### Idea clave
-###### No estás sobre el texto.
-- 👉 Estás bajo él
+###### La síntesis no descubre.
 
-##### Regla de control
-###### Si ajustas el texto → fallaste
+###### 👉 Confirma y expresa lo que ya es claro.
 
-###### Si lo reduces → fallaste
+##### Advertencia
+###### Si necesitas explicar, te saliste del paso.
 
-###### Si lo mantienes → lograste el propósito
+###### Si agregas ideas, te saliste del paso.
 
-##### Errores comunes
-- suavizar lo que confronta
-- limitar lo que afirma
-- adaptar a experiencia personal
-- convertirlo en opinión
+###### Si dudas, el flujo no está claro.
 
-##### Qué debes notar
-###### Aquí se completa el proceso:
-- viste el texto
-- lo expresaste correctamente
-- lo mantuviste sin alterarlo
+##### Resultado mental esperado
 
-###### 👉 Ahora el texto permanece intacto
+###### Ahora tienes:
+- una unidad verificada
+- un flujo coherente
+- una expresión fiel del texto
 
-###### RO₁O₂TS no termina en el análisis.
-
-###### Termina cuando:
-- observas
-- expresas
-- y mantienes lo que el texto afirma
-
-###### 👉 tal como está escrito
+##### Frase clave final
+> “Solo expreso lo que el texto ya sostiene.”
 
 # CIERRE
 
