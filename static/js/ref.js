@@ -1,23 +1,54 @@
 function goToRef() {
-  let input = document.getElementById("refInput").value.toLowerCase().trim();
+  var input = document.getElementById("verseInput").value
+    .toLowerCase()
+    .trim();
 
-  // simple book detection
-  if (input.startsWith("tito")) {
-    const match = input.match(/(\d+):(\d+)/);
+  var book = null;
+  var path = null;
 
-    if (!match) {
-      alert("Usa formato: Tito 1:4");
-      return;
-    }
-
-    const chapter = match[1];
-    const verse = match[2];
-
-    const id = `tit-${chapter}-${verse}`;
-
-    // go directly to page + verse
-    window.location.href = `/tito-verbos/#${id}`;
-  } else {
-    alert("Solo Tito por ahora");
+  if (input.includes("tito")) {
+    book = "tit";
+    path = "tito-verbos";
   }
+
+  else if (input.includes("romanos") || input.includes("rom")) {
+    book = "rom";
+    path = "romanos-verbos";
+  }
+
+  else if (input.includes("galatas") || input.includes("gal")) {
+    book = "gal";
+    path = "galatas-verbos";
+  }
+
+  // ❗ If no book detected → do nothing (no popup)
+  if (!book) {
+    return;
+  }
+
+  // Try to find chapter:verse
+  var match = input.match(/(\d+):(\d+)/);
+
+  if (match) {
+    var chapter = match[1];
+    var verse = match[2];
+    var id = book + "-" + chapter + "-" + verse;
+
+    window.location.href = "/roots/" + path + "/#" + id;
+    return;
+  }
+
+  // Try to find chapter only
+  var chapterOnly = input.match(/(\d+)/);
+
+  if (chapterOnly) {
+    var chapter = chapterOnly[1];
+    var id = book + "-" + chapter + "-1";
+
+    window.location.href = "/roots/" + path + "/#" + id;
+    return;
+  }
+
+  // Just the book → go to page
+  window.location.href = "/roots/" + path + "/";
 }

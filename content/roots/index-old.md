@@ -1,11 +1,11 @@
 ---
-type: "plan-de-estudios"
+type: "roots"
 Title: "Plan de Estudios"
 date: 2026-04-16
 draft: false
 ---
 
-# Plan de Estudios CGV 2026
+# ROOTS
 
 ## 1. En Camino a Emaús
 
