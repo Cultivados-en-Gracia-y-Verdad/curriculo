@@ -1,12 +1,17 @@
-# ROOTS Verb Alignment Specification (SBLGNT + RMAC + NBLA)
+# ROOTS VERB + CONNECTOR ALIGNMENT SPECIFICATION
 
-## PURPOSE
+(SBLGNT + RMAC + NBLA)
 
-This document defines the rules for creating a **fully consistent, auditable mapping** between:
+------
+
+# PURPOSE
+
+This document defines the rules for creating a **fully consistent, auditable dataset** that maps:
 
 - Greek text (**SBLGNT**)
 - Morphology (**RMAC**)
-- Spanish translation (**NBLA**)
+- Spanish text (**NBLA**)
+- Clause-level connectors (**ROOTS**)
 
 The dataset must be:
 
@@ -18,85 +23,129 @@ The dataset must be:
 
 # CORE PRINCIPLE
 
-👉 **The dataset is not created — it is extracted.**
+👉 **The dataset is not created — it is extracted**
 
 👉 **If it is not in the Greek, it does not exist**
 
+------
+
+# ABSOLUTE PROHIBITIONS
+
 - ❌ No implied verbs
 - ❌ No supplied copulas (e.g., ἐστίν)
-- ❌ No backfilling from Spanish
-- ❌ No inferred or reconstructed forms
+- ❌ No reconstruction
+- ❌ No normalization before entry
+- ❌ No inference from Spanish
+- ❌ No use of lexicons/interlinears as sources
 
 ------
 
-# SBLGNT SOURCE REQUIREMENT
+# SOURCE REQUIREMENT
 
-## Rule
-
-All Greek verb data must be derived exclusively from:
+## Greek Source (MANDATORY)
 
 ```
 SBLGNT/text/{book}.txt
 ```
 
-This is the **single authoritative source**.
+This is the **only authoritative Greek source**
 
 ------
 
 ## Source Priority
 
-1. **SBLGNT Greek text** → absolute authority
-2. **RMAC morphology** → classification only
-3. **NBLA Spanish** → mapping only (never drives decisions)
+1. Greek (SBLGNT) → absolute authority
+2. RMAC → classification only
+3. NBLA → alignment only (never drives decisions)
 
 ------
 
-# EXTRACTION REQUIREMENT (NON-NEGOTIABLE)
-
-## Definition
-
-A verb is valid only if:
-
-- It is **visibly present** in the SBLGNT verse
-- It is **copied exactly** from the source text
-- It matches the exact Unicode surface form as it appears in the SBLGNT file (no normalization, no alteration)
-
-------
-
-## Forbidden Process
-
-- ❌ Reconstructing Greek from memory
-- ❌ Using “expected” or standard forms
-- ❌ Normalizing before entry
-- ❌ Inferring from Spanish
-- ❌ Completing the sentence artificially
-- ❌ Using tools (lexicons/interlinears) as a source
-
-------
-
-## Required Workflow
+# EXTRACTION WORKFLOW
 
 ```
-SBLGNT text → extract verb → assign RMAC → map to NBLA
+SBLGNT → extract → assign RMAC → align to NBLA → validate
 ```
 
 NOT:
 
 ```
-NBLA / reasoning → generate Greek → format output
+Spanish → reasoning → generate Greek
 ```
 
 ------
 
-## Zero-Tolerance Rule
+# OUTPUT FORMAT (LOCKED)
 
-If any verb:
+Each verse must follow this structure:
 
-- is not present in SBLGNT
-- is altered
-- is inferred
+```text
+### Book Chapter:Verse {#id}
+[Greek verse exactly from SBLGNT]
+[NBLA verse in brackets]
 
-👉 The verse is invalid and must be corrected.
+- Greek (RMAC) ==Spanish== [F]
+- Greek (RMAC) Spanish [NF]
++ Greek (Spanish)
+
+```
+
+------
+
+## BULLET SYSTEM (MANDATORY)
+
+Two distinct line types must be used:
+
+### Verb Lines
+
+```
+- Greek (RMAC) ==Spanish== [F]
+- Greek (RMAC) Spanish [NF]
+```
+
+### Connector Lines
+
+```
++ Greek (Spanish)
+```
+
+------
+
+### RULES
+
+- `-` is reserved **only for verbs**
+- `+` is reserved **only for connectors**
+- No mixing allowed
+- No alternative symbols allowed
+- Connectors must NEVER include RMAC
+- Connectors must NEVER include [F] or [NF]
+
+-----
+
+# ORDER (MANDATORY)
+
+Each verse block must appear in this exact order:
+
+1. Header
+2. Greek verse line
+3. NBLA verse line (in brackets)
+4. Extracted lines
+
+------
+
+# GREEK VERSE LINE
+
+- Must be copied exactly from SBLGNT
+- No normalization
+- No edits
+- No reconstruction
+
+------
+
+# NBLA VERSE LINE
+
+- Must reflect NBLA wording
+- Must appear inside `[ ]`
+- Serves as alignment reference
 
 ------
 
@@ -104,7 +153,7 @@ If any verb:
 
 ## Finite Verbs `[F]`
 
-A verb is finite if it has:
+A verb is finite if it contains:
 
 - person
 - number
@@ -133,147 +182,246 @@ Example:
 
 ------
 
-# FORMATTING RULES
+# VERB LINE FORMAT
 
-## Verb Line Format
-
-```
-Greek (RMAC) ==Spanish== [F]
-Greek (RMAC) Spanish [NF]
-```
-
-------
-
-## Rules
-
-- Greek form first (exact SBLGNT form)
-- RMAC code required
-- Spanish:
-  - ✔ inside `== ==` ONLY for finite verbs
-  - ❌ never for non-finite verbs
-- Tag required:
-  - `[F]` or `[NF]`
-
-------
-
-# VERSE STRUCTURE
-
-## Format
+## Finite
 
 ```
-### Book Chapter:Verse {#id}
+- Greek (RMAC) ==Spanish== [F]
+```
 
-[NBLA verse text]
+## Non-Finite
 
-- verb lines
+```
+- Greek (RMAC) Spanish [NF]
 ```
 
 ------
 
-## Example
+# VERB RULES
+
+- Greek must match SBLGNT exactly
+- RMAC is required
+- `[F]` or `[NF]` is required
+- Only finite verbs use `== ==`
+- Non-finite verbs NEVER use `== ==`
+
+------
+
+# RULE (STRICT — ROOTS)
+
+Connectors must be included ONLY when they operate at the **clause level**.
+
+------
+
+## INCLUDE ONLY:
+
+A connector is included if it:
+
+1. **Introduces a clause**
+   - subordinating conjunctions (e.g., ἵνα, εἴ, ὅτι)
+   - relative markers when they introduce a clause (ὃς, ὃ, οἵτινες)
+
+   OR
+
+1. **Connects two clauses**
+   - coordinating conjunctions ONLY when they join two clauses
+   - must be verifiable by the presence of:
+     - two finite verbs
+       OR
+     - two clause structures
+
+------
+
+## DO NOT INCLUDE:
+
+A connector must be EXCLUDED if it:
+
+- operates only inside a phrase
+- connects words, not clauses
+- connects items in a list
+- modifies tone but not structure
+- appears without linking two clause-level units
+
+------
+
+## CRITICAL TEST
+
+Before including a connector, ask:
+
+> Does this connector link or introduce something that contains a finite verb?
+
+- ✔ YES → include
+- ❌ NO → exclude
+
+------
+
+## EXAMPLES
+
+### INCLUDE
+
+```text
+ἵνα δυνατὸς ᾖ
+→ introduces clause → include
+ἐφανέρωσεν δὲ ... ἐπιστεύθην
+→ connects two clauses → include
+```
+
+------
+
+### EXCLUDE
+
+```text
+καὶ φιλάγαθον, σώφρονα, δίκαιον
+→ list only → EXCLUDE
+καὶ νοῦς καὶ συνείδησις
+→ noun coordination → EXCLUDE
+```
+
+------
+
+## FORMAT
+
+Connectors must be formatted as:
+
+```text
++ GreekConnector (SpanishConnector)
+```
+
+---
+
+## RULES
+
+* The Greek connector must match the SBLGNT exactly
+* The Spanish connector must reflect the NBLA wording of the verse
+* No paraphrasing
+* No synonyms
+* No interpretation
+
+---
+
+## VALIDATION TEST
+
+> Does the Spanish connector appear in the NBLA verse line?
+
+* ✔ YES → valid
+* ❌ NO → reject
+
+---
+
+## FINAL PRINCIPLE
+
+👉 A connector is included ONLY if it affects **clause structure**
+
+If it does not affect clause structure:
+
+→ it does not belong in the dataset
+
+------
+
+# ALIGNMENT RULE (NBLA)
+
+- Spanish must reflect NBLA wording
+- No paraphrasing
+- No synonyms
+- No interpretation
+
+👉 This is **alignment**, not translation
+
+------
+
+# VERSE RULES
+
+## Separation
+
+- ✔ exactly ONE blank line between verses
+- ❌ no extra lines
+- ❌ no missing separation
+- exactly ONE blank line IS allowed WITHIN a verse block
+- There must be NO separator lines (-----)
+
+------
+
+## Empty Extraction
+
+If no verbs or connectors qualify:
 
 ```
-### Tito 1:10 {#tit-1-10}
-
-Porque hay muchos rebeldes, habladores vanos y engañadores, especialmente los de la circuncisión,
-
-- εἰσίν (V-PAI-3P) ==son== [F]
+### Verse
+Greek
+[NBLA]
 ```
 
-------
-
-# STRUCTURE RULES
-
-## Verse Separation
-
-- ✔ Exactly **one blank line between verses**
-- ❌ No missing separation
-- ❌ No multiple blank lines
+(no lines below)
 
 ------
 
-## Verses With No Verbs
+# OUTPUT INTEGRITY
 
-- ✔ Always print the verse
-- ✔ Do not add any lines under it
+Allowed lines:
 
-Example:
+- ✔ verb lines (starting with -)
+- ✔ connector lines (starting with +)
 
-```
-### Tito 1:1 {#tit-1-1}
-[text]
+Forbidden:
 
-### Tito 1:2 {#tit-1-2}
-[text]
-- verb
-```
-
-------
-
-## No Artificial Content
-
-- ❌ No non-verbs
-- ❌ No comments
-- ❌ No explanations
-- ❌ No placeholders
-- ❌ No “filtered out” or “omitted” lines (only include actual verb entries)
+- ❌ comments
+- ❌ explanations
+- ❌ placeholders
+- ❌ omitted markers
+- ❌ non-verbs
 
 ------
 
-# ALIGNMENT RULES
+# VERIFICATION PROCEDURE
 
-- Spanish must reflect **NBLA wording**
-- Mapping must correspond to the Greek verb
-- Do not force 1:1 mapping
-- Do not invent translations
-
-------
-
-# VERIFICATION PROCEDURE (MANDATORY)
-
-Every verse must pass all steps.
+Every verse must pass all steps:
 
 ------
 
 ## Step 1 — Greek Presence
 
-- Extract only verbs present in SBLGNT
-- Every verb must be directly visible
+- Every verb must appear in SBLGNT
+- Must match exact surface form
 
 ------
 
-## Step 2 — RMAC Classification
+## Step 2 — RMAC
 
-- Verify morphology
-- Assign `[F]` or `[NF]` correctly
+- Must be present
+- Must be valid
+- Must correctly classify `[F]/[NF]`
 
 ------
 
 ## Step 3 — NBLA Alignment
 
-- Map verb to Spanish
-- Do not introduce new verbs
+- Must reflect NBLA wording
+- Must not introduce new verbs
 
 ------
 
-## Step 4 — Output Integrity
+## Step 4 — Connector Validation
 
-Verify:
-
-- ✔ Correct format
-- ✔ RMAC present
-- ✔ Correct `[F]/[NF]`
-- ✔ Exactly one blank line between verses
-- ✔ No extra content
-- ✔ Only Greek verbal forms
+- Must connect or introduce clauses
+- Must not be phrase-level
+- Connectors must follow '+' format
+- Must NOT be validated as verbs
 
 ------
 
-## Step 5 — Final Validation
+## Step 5 — Format Integrity
 
-Ask:
+- ✔ correct structure
+- ✔ correct ordering
+- ✔ no extra content
+- ✔ one blank line between verses
 
-> “Can every verb be directly pointed to in the SBLGNT text?”
+------
+
+## Step 6 — Final Question
+
+> Can every verb be pointed to directly in the Greek line?
 
 - If NO → reject
 - If YES → accept
@@ -284,37 +432,12 @@ Ask:
 
 Reject immediately if:
 
-- Verb not in SBLGNT
-- Supplied verb inserted
-- Misclassified verb
-- Spanish drives structure
-- Formatting is incorrect
-- Non-verbs appear
-
-------
-
-# ERROR EXAMPLE
-
-## Incorrect
-
-```
-### Tito 1:1
-[text]
-- ἐστίν (V-PAI-3S) ==es== [F]
-```
-
-❌ Not in Greek
-
-------
-
-## Correct
-
-```
-### Tito 1:1
-[text]
-```
-
-✔ No verbs listed
+- verb not in SBLGNT
+- verb altered
+- verb inferred
+- Spanish drives extraction
+- connector misidentified
+- formatting incorrect
 
 ------
 
@@ -324,12 +447,15 @@ This dataset feeds:
 
 - Paso 2 — Verbos finitos
 - Paso 3 — Cláusulas
-- Paso 4+ — Estructura
+- Paso 4 — Conectores
+- Paso 5+ — Estructura
 
-Therefore:
+------
 
-- Finite verbs define structure
-- Non-finite verbs remain for audit
+## KEY STRUCTURAL PRINCIPLE
+
+👉 Finite verbs define clause structure
+👉 Connectors define clause relationships
 
 ------
 
@@ -340,12 +466,11 @@ Before accepting:
 - ✔ Greek matches SBLGNT
 - ✔ RMAC correct
 - ✔ F/NF correct
-- ✔ No implied verbs
-- ✔ NBLA mapping correct
-- ✔ Exactly one blank line between verses
-- ✔ No comments or placeholders
-- ✔ Only verbs included
-- ✔ Every verb traceable
+- ✔ connectors valid
+- ✔ NBLA aligned
+- ✔ format exact
+- ✔ no extra content
+- ✔ fully traceable
 
 ------
 
@@ -359,20 +484,12 @@ Before accepting:
 - verifiable
 - text-bound
 
-Any deviation breaks:
-
-- ROOTS structure
-- data integrity
-- downstream use
-
 ------
 
-This version removes:
-
-- contradictions
-- scattered authority
-- loopholes that allowed generation
-
-And it enforces one thing clearly:
+# FINAL PRINCIPLE
 
 👉 **Extraction over everything**
+
+If you cannot point to it in the Greek text:
+
+→ it does not belong in the dataset

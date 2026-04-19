@@ -36,7 +36,7 @@
 
 
 
-<link href="/css/custom.css?1776459898" rel="stylesheet">
+<link href="/css/custom.css?1776502884" rel="stylesheet">
 
 
 
@@ -404,13 +404,16 @@
                         
 
                         <div id="post-content">
-                          <h1 id="roots-verb-alignment-specification-sblgnt--rmac--nbla">ROOTS Verb Alignment Specification (SBLGNT + RMAC + NBLA)</h1>
-<h2 id="purpose">PURPOSE</h2>
-<p>This document defines the rules for creating a <strong>fully consistent, auditable mapping</strong> between:</p>
+                          <h1 id="roots-verb--connector-alignment-specification">ROOTS VERB + CONNECTOR ALIGNMENT SPECIFICATION</h1>
+<p>(SBLGNT + RMAC + NBLA)</p>
+<hr>
+<h1 id="purpose">PURPOSE</h1>
+<p>This document defines the rules for creating a <strong>fully consistent, auditable dataset</strong> that maps:</p>
 <ul>
 <li>Greek text (<strong>SBLGNT</strong>)</li>
 <li>Morphology (<strong>RMAC</strong>)</li>
-<li>Spanish translation (<strong>NBLA</strong>)</li>
+<li>Spanish text (<strong>NBLA</strong>)</li>
+<li>Clause-level connectors (<strong>ROOTS</strong>)</li>
 </ul>
 <p>The dataset must be:</p>
 <ul>
@@ -420,64 +423,91 @@
 </ul>
 <hr>
 <h1 id="core-principle">CORE PRINCIPLE</h1>
-<p>👉 <strong>The dataset is not created — it is extracted.</strong></p>
+<p>👉 <strong>The dataset is not created — it is extracted</strong></p>
 <p>👉 <strong>If it is not in the Greek, it does not exist</strong></p>
+<hr>
+<h1 id="absolute-prohibitions">ABSOLUTE PROHIBITIONS</h1>
 <ul>
 <li>❌ No implied verbs</li>
 <li>❌ No supplied copulas (e.g., ἐστίν)</li>
-<li>❌ No backfilling from Spanish</li>
-<li>❌ No inferred or reconstructed forms</li>
+<li>❌ No reconstruction</li>
+<li>❌ No normalization before entry</li>
+<li>❌ No inference from Spanish</li>
+<li>❌ No use of lexicons/interlinears as sources</li>
 </ul>
 <hr>
-<h1 id="sblgnt-source-requirement">SBLGNT SOURCE REQUIREMENT</h1>
-<h2 id="rule">Rule</h2>
-<p>All Greek verb data must be derived exclusively from:</p>
+<h1 id="source-requirement">SOURCE REQUIREMENT</h1>
+<h2 id="greek-source-mandatory">Greek Source (MANDATORY)</h2>
 <pre tabindex="0"><code>SBLGNT/text/{book}.txt
-</code></pre><p>This is the <strong>single authoritative source</strong>.</p>
+</code></pre><p>This is the <strong>only authoritative Greek source</strong></p>
 <hr>
 <h2 id="source-priority">Source Priority</h2>
 <ol>
-<li><strong>SBLGNT Greek text</strong> → absolute authority</li>
-<li><strong>RMAC morphology</strong> → classification only</li>
-<li><strong>NBLA Spanish</strong> → mapping only (never drives decisions)</li>
+<li>Greek (SBLGNT) → absolute authority</li>
+<li>RMAC → classification only</li>
+<li>NBLA → alignment only (never drives decisions)</li>
 </ol>
 <hr>
-<h1 id="extraction-requirement-non-negotiable">EXTRACTION REQUIREMENT (NON-NEGOTIABLE)</h1>
-<h2 id="definition">Definition</h2>
-<p>A verb is valid only if:</p>
-<ul>
-<li>It is <strong>visibly present</strong> in the SBLGNT verse</li>
-<li>It is <strong>copied exactly</strong> from the source text</li>
-<li>It matches the exact Unicode surface form as it appears in the SBLGNT file (no normalization, no alteration)</li>
-</ul>
-<hr>
-<h2 id="forbidden-process">Forbidden Process</h2>
-<ul>
-<li>❌ Reconstructing Greek from memory</li>
-<li>❌ Using “expected” or standard forms</li>
-<li>❌ Normalizing before entry</li>
-<li>❌ Inferring from Spanish</li>
-<li>❌ Completing the sentence artificially</li>
-<li>❌ Using tools (lexicons/interlinears) as a source</li>
-</ul>
-<hr>
-<h2 id="required-workflow">Required Workflow</h2>
-<pre tabindex="0"><code>SBLGNT text → extract verb → assign RMAC → map to NBLA
+<h1 id="extraction-workflow">EXTRACTION WORKFLOW</h1>
+<pre tabindex="0"><code>SBLGNT → extract → assign RMAC → align to NBLA → validate
 </code></pre><p>NOT:</p>
-<pre tabindex="0"><code>NBLA / reasoning → generate Greek → format output
+<pre tabindex="0"><code>Spanish → reasoning → generate Greek
 </code></pre><hr>
-<h2 id="zero-tolerance-rule">Zero-Tolerance Rule</h2>
-<p>If any verb:</p>
+<h1 id="output-format-locked">OUTPUT FORMAT (LOCKED)</h1>
+<p>Each verse must follow this structure:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>### Book Chapter:Verse {#id}
+</span></span><span style="display:flex;"><span>[Greek verse exactly from SBLGNT]
+</span></span><span style="display:flex;"><span>[NBLA verse in brackets]
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>- Greek (RMAC) ==Spanish== [F]
+</span></span><span style="display:flex;"><span>- Greek (RMAC) Spanish [NF]
+</span></span><span style="display:flex;"><span>+ Greek (Spanish)
+</span></span></code></pre></div><hr>
+<h2 id="bullet-system-mandatory">BULLET SYSTEM (MANDATORY)</h2>
+<p>Two distinct line types must be used:</p>
+<h3 id="verb-lines">Verb Lines</h3>
+<pre tabindex="0"><code>- Greek (RMAC) ==Spanish== [F]
+- Greek (RMAC) Spanish [NF]
+</code></pre><h3 id="connector-lines">Connector Lines</h3>
+<pre tabindex="0"><code>+ Greek (Spanish)
+</code></pre><hr>
+<h3 id="rules">RULES</h3>
 <ul>
-<li>is not present in SBLGNT</li>
-<li>is altered</li>
-<li>is inferred</li>
+<li><code>-</code> is reserved <strong>only for verbs</strong></li>
+<li><code>+</code> is reserved <strong>only for connectors</strong></li>
+<li>No mixing allowed</li>
+<li>No alternative symbols allowed</li>
+<li>Connectors must NEVER include RMAC</li>
+<li>Connectors must NEVER include [F] or [NF]</li>
 </ul>
-<p>👉 The verse is invalid and must be corrected.</p>
+<hr>
+<h1 id="order-mandatory">ORDER (MANDATORY)</h1>
+<p>Each verse block must appear in this exact order:</p>
+<ol>
+<li>Header</li>
+<li>Greek verse line</li>
+<li>NBLA verse line (in brackets)</li>
+<li>Extracted lines</li>
+</ol>
+<hr>
+<h1 id="greek-verse-line">GREEK VERSE LINE</h1>
+<ul>
+<li>Must be copied exactly from SBLGNT</li>
+<li>No normalization</li>
+<li>No edits</li>
+<li>No reconstruction</li>
+</ul>
+<hr>
+<h1 id="nbla-verse-line">NBLA VERSE LINE</h1>
+<ul>
+<li>Must reflect NBLA wording</li>
+<li>Must appear inside <code>[ ]</code></li>
+<li>Serves as alignment reference</li>
+</ul>
 <hr>
 <h1 id="verb-identification">VERB IDENTIFICATION</h1>
 <h2 id="finite-verbs-f">Finite Verbs <code>[F]</code></h2>
-<p>A verb is finite if it has:</p>
+<p>A verb is finite if it contains:</p>
 <ul>
 <li>person</li>
 <li>number</li>
@@ -495,117 +525,192 @@
 <p>Example:</p>
 <pre tabindex="0"><code>ὄντες (V-PAP-NPM) siendo [NF]
 </code></pre><hr>
-<h1 id="formatting-rules">FORMATTING RULES</h1>
-<h2 id="verb-line-format">Verb Line Format</h2>
-<pre tabindex="0"><code>Greek (RMAC) ==Spanish== [F]
-Greek (RMAC) Spanish [NF]
+<h1 id="verb-line-format">VERB LINE FORMAT</h1>
+<h2 id="finite">Finite</h2>
+<pre tabindex="0"><code>- Greek (RMAC) ==Spanish== [F]
+</code></pre><h2 id="non-finite">Non-Finite</h2>
+<pre tabindex="0"><code>- Greek (RMAC) Spanish [NF]
 </code></pre><hr>
-<h2 id="rules">Rules</h2>
+<h1 id="verb-rules">VERB RULES</h1>
 <ul>
-<li>Greek form first (exact SBLGNT form)</li>
-<li>RMAC code required</li>
-<li>Spanish:
+<li>Greek must match SBLGNT exactly</li>
+<li>RMAC is required</li>
+<li><code>[F]</code> or <code>[NF]</code> is required</li>
+<li>Only finite verbs use <code>== ==</code></li>
+<li>Non-finite verbs NEVER use <code>== ==</code></li>
+</ul>
+<hr>
+<h1 id="rule-strict--roots">RULE (STRICT — ROOTS)</h1>
+<p>Connectors must be included ONLY when they operate at the <strong>clause level</strong>.</p>
+<hr>
+<h2 id="include-only">INCLUDE ONLY:</h2>
+<p>A connector is included if it:</p>
+<ol>
+<li>
+<p><strong>Introduces a clause</strong></p>
 <ul>
-<li>✔ inside <code>== ==</code> ONLY for finite verbs</li>
-<li>❌ never for non-finite verbs</li>
+<li>subordinating conjunctions (e.g., ἵνα, εἴ, ὅτι)</li>
+<li>relative markers when they introduce a clause (ὃς, ὃ, οἵτινες)</li>
+</ul>
+<p>OR</p>
+</li>
+<li>
+<p><strong>Connects two clauses</strong></p>
+<ul>
+<li>coordinating conjunctions ONLY when they join two clauses</li>
+<li>must be verifiable by the presence of:
+<ul>
+<li>two finite verbs
+OR</li>
+<li>two clause structures</li>
 </ul>
 </li>
-<li>Tag required:
-<ul>
-<li><code>[F]</code> or <code>[NF]</code></li>
 </ul>
 </li>
+</ol>
+<hr>
+<h2 id="do-not-include">DO NOT INCLUDE:</h2>
+<p>A connector must be EXCLUDED if it:</p>
+<ul>
+<li>operates only inside a phrase</li>
+<li>connects words, not clauses</li>
+<li>connects items in a list</li>
+<li>modifies tone but not structure</li>
+<li>appears without linking two clause-level units</li>
 </ul>
 <hr>
-<h1 id="verse-structure">VERSE STRUCTURE</h1>
-<h2 id="format">Format</h2>
-<pre tabindex="0"><code>### Book Chapter:Verse {#id}
-
-[NBLA verse text]
-
-- verb lines
-</code></pre><hr>
-<h2 id="example">Example</h2>
-<pre tabindex="0"><code>### Tito 1:10 {#tit-1-10}
-
-Porque hay muchos rebeldes, habladores vanos y engañadores, especialmente los de la circuncisión,
-
-- εἰσίν (V-PAI-3P) ==son== [F]
-</code></pre><hr>
-<h1 id="structure-rules">STRUCTURE RULES</h1>
-<h2 id="verse-separation">Verse Separation</h2>
+<h2 id="critical-test">CRITICAL TEST</h2>
+<p>Before including a connector, ask:</p>
+<blockquote>
+<p>Does this connector link or introduce something that contains a finite verb?</p>
+</blockquote>
 <ul>
-<li>✔ Exactly <strong>one blank line between verses</strong></li>
-<li>❌ No missing separation</li>
-<li>❌ No multiple blank lines</li>
+<li>✔ YES → include</li>
+<li>❌ NO → exclude</li>
 </ul>
 <hr>
-<h2 id="verses-with-no-verbs">Verses With No Verbs</h2>
+<h2 id="examples">EXAMPLES</h2>
+<h3 id="include">INCLUDE</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>ἵνα δυνατὸς ᾖ
+</span></span><span style="display:flex;"><span>→ introduces clause → include
+</span></span><span style="display:flex;"><span>ἐφανέρωσεν δὲ ... ἐπιστεύθην
+</span></span><span style="display:flex;"><span>→ connects two clauses → include
+</span></span></code></pre></div><hr>
+<h3 id="exclude">EXCLUDE</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>καὶ φιλάγαθον, σώφρονα, δίκαιον
+</span></span><span style="display:flex;"><span>→ list only → EXCLUDE
+</span></span><span style="display:flex;"><span>καὶ νοῦς καὶ συνείδησις
+</span></span><span style="display:flex;"><span>→ noun coordination → EXCLUDE
+</span></span></code></pre></div><hr>
+<h2 id="format">FORMAT</h2>
+<p>Connectors must be formatted as:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>+ GreekConnector (SpanishConnector)
+</span></span></code></pre></div><hr>
+<h2 id="rules-1">RULES</h2>
 <ul>
-<li>✔ Always print the verse</li>
-<li>✔ Do not add any lines under it</li>
-</ul>
-<p>Example:</p>
-<pre tabindex="0"><code>### Tito 1:1 {#tit-1-1}
-[text]
-
-### Tito 1:2 {#tit-1-2}
-[text]
-- verb
-</code></pre><hr>
-<h2 id="no-artificial-content">No Artificial Content</h2>
-<ul>
-<li>❌ No non-verbs</li>
-<li>❌ No comments</li>
-<li>❌ No explanations</li>
-<li>❌ No placeholders</li>
-<li>❌ No “filtered out” or “omitted” lines (only include actual verb entries)</li>
-</ul>
-<hr>
-<h1 id="alignment-rules">ALIGNMENT RULES</h1>
-<ul>
-<li>Spanish must reflect <strong>NBLA wording</strong></li>
-<li>Mapping must correspond to the Greek verb</li>
-<li>Do not force 1:1 mapping</li>
-<li>Do not invent translations</li>
+<li>The Greek connector must match the SBLGNT exactly</li>
+<li>The Spanish connector must reflect the NBLA wording of the verse</li>
+<li>No paraphrasing</li>
+<li>No synonyms</li>
+<li>No interpretation</li>
 </ul>
 <hr>
-<h1 id="verification-procedure-mandatory">VERIFICATION PROCEDURE (MANDATORY)</h1>
-<p>Every verse must pass all steps.</p>
+<h2 id="validation-test">VALIDATION TEST</h2>
+<blockquote>
+<p>Does the Spanish connector appear in the NBLA verse line?</p>
+</blockquote>
+<ul>
+<li>✔ YES → valid</li>
+<li>❌ NO → reject</li>
+</ul>
+<hr>
+<h2 id="final-principle">FINAL PRINCIPLE</h2>
+<p>👉 A connector is included ONLY if it affects <strong>clause structure</strong></p>
+<p>If it does not affect clause structure:</p>
+<p>→ it does not belong in the dataset</p>
+<hr>
+<h1 id="alignment-rule-nbla">ALIGNMENT RULE (NBLA)</h1>
+<ul>
+<li>Spanish must reflect NBLA wording</li>
+<li>No paraphrasing</li>
+<li>No synonyms</li>
+<li>No interpretation</li>
+</ul>
+<p>👉 This is <strong>alignment</strong>, not translation</p>
+<hr>
+<h1 id="verse-rules">VERSE RULES</h1>
+<h2 id="separation">Separation</h2>
+<ul>
+<li>✔ exactly ONE blank line between verses</li>
+<li>❌ no extra lines</li>
+<li>❌ no missing separation</li>
+<li>exactly ONE blank line IS allowed WITHIN a verse block</li>
+<li>There must be NO separator lines (&mdash;&ndash;)</li>
+</ul>
+<hr>
+<h2 id="empty-extraction">Empty Extraction</h2>
+<p>If no verbs or connectors qualify:</p>
+<pre tabindex="0"><code>### Verse
+Greek
+[NBLA]
+</code></pre><p>(no lines below)</p>
+<hr>
+<h1 id="output-integrity">OUTPUT INTEGRITY</h1>
+<p>Allowed lines:</p>
+<ul>
+<li>✔ verb lines (starting with -)</li>
+<li>✔ connector lines (starting with +)</li>
+</ul>
+<p>Forbidden:</p>
+<ul>
+<li>❌ comments</li>
+<li>❌ explanations</li>
+<li>❌ placeholders</li>
+<li>❌ omitted markers</li>
+<li>❌ non-verbs</li>
+</ul>
+<hr>
+<h1 id="verification-procedure">VERIFICATION PROCEDURE</h1>
+<p>Every verse must pass all steps:</p>
 <hr>
 <h2 id="step-1--greek-presence">Step 1 — Greek Presence</h2>
 <ul>
-<li>Extract only verbs present in SBLGNT</li>
-<li>Every verb must be directly visible</li>
+<li>Every verb must appear in SBLGNT</li>
+<li>Must match exact surface form</li>
 </ul>
 <hr>
-<h2 id="step-2--rmac-classification">Step 2 — RMAC Classification</h2>
+<h2 id="step-2--rmac">Step 2 — RMAC</h2>
 <ul>
-<li>Verify morphology</li>
-<li>Assign <code>[F]</code> or <code>[NF]</code> correctly</li>
+<li>Must be present</li>
+<li>Must be valid</li>
+<li>Must correctly classify <code>[F]/[NF]</code></li>
 </ul>
 <hr>
 <h2 id="step-3--nbla-alignment">Step 3 — NBLA Alignment</h2>
 <ul>
-<li>Map verb to Spanish</li>
-<li>Do not introduce new verbs</li>
+<li>Must reflect NBLA wording</li>
+<li>Must not introduce new verbs</li>
 </ul>
 <hr>
-<h2 id="step-4--output-integrity">Step 4 — Output Integrity</h2>
-<p>Verify:</p>
+<h2 id="step-4--connector-validation">Step 4 — Connector Validation</h2>
 <ul>
-<li>✔ Correct format</li>
-<li>✔ RMAC present</li>
-<li>✔ Correct <code>[F]/[NF]</code></li>
-<li>✔ Exactly one blank line between verses</li>
-<li>✔ No extra content</li>
-<li>✔ Only Greek verbal forms</li>
+<li>Must connect or introduce clauses</li>
+<li>Must not be phrase-level</li>
+<li>Connectors must follow &lsquo;+&rsquo; format</li>
+<li>Must NOT be validated as verbs</li>
 </ul>
 <hr>
-<h2 id="step-5--final-validation">Step 5 — Final Validation</h2>
-<p>Ask:</p>
+<h2 id="step-5--format-integrity">Step 5 — Format Integrity</h2>
+<ul>
+<li>✔ correct structure</li>
+<li>✔ correct ordering</li>
+<li>✔ no extra content</li>
+<li>✔ one blank line between verses</li>
+</ul>
+<hr>
+<h2 id="step-6--final-question">Step 6 — Final Question</h2>
 <blockquote>
-<p>“Can every verb be directly pointed to in the SBLGNT text?”</p>
+<p>Can every verb be pointed to directly in the Greek line?</p>
 </blockquote>
 <ul>
 <li>If NO → reject</li>
@@ -615,38 +720,26 @@ Porque hay muchos rebeldes, habladores vanos y engañadores, especialmente los d
 <h1 id="hard-rejection-rules">HARD REJECTION RULES</h1>
 <p>Reject immediately if:</p>
 <ul>
-<li>Verb not in SBLGNT</li>
-<li>Supplied verb inserted</li>
-<li>Misclassified verb</li>
-<li>Spanish drives structure</li>
-<li>Formatting is incorrect</li>
-<li>Non-verbs appear</li>
+<li>verb not in SBLGNT</li>
+<li>verb altered</li>
+<li>verb inferred</li>
+<li>Spanish drives extraction</li>
+<li>connector misidentified</li>
+<li>formatting incorrect</li>
 </ul>
-<hr>
-<h1 id="error-example">ERROR EXAMPLE</h1>
-<h2 id="incorrect">Incorrect</h2>
-<pre tabindex="0"><code>### Tito 1:1
-[text]
-- ἐστίν (V-PAI-3S) ==es== [F]
-</code></pre><p>❌ Not in Greek</p>
-<hr>
-<h2 id="correct">Correct</h2>
-<pre tabindex="0"><code>### Tito 1:1
-[text]
-</code></pre><p>✔ No verbs listed</p>
 <hr>
 <h1 id="functional-purpose-roots">FUNCTIONAL PURPOSE (ROOTS)</h1>
 <p>This dataset feeds:</p>
 <ul>
 <li>Paso 2 — Verbos finitos</li>
 <li>Paso 3 — Cláusulas</li>
-<li>Paso 4+ — Estructura</li>
+<li>Paso 4 — Conectores</li>
+<li>Paso 5+ — Estructura</li>
 </ul>
-<p>Therefore:</p>
-<ul>
-<li>Finite verbs define structure</li>
-<li>Non-finite verbs remain for audit</li>
-</ul>
+<hr>
+<h2 id="key-structural-principle">KEY STRUCTURAL PRINCIPLE</h2>
+<p>👉 Finite verbs define clause structure
+👉 Connectors define clause relationships</p>
 <hr>
 <h1 id="final-checklist">FINAL CHECKLIST</h1>
 <p>Before accepting:</p>
@@ -654,12 +747,11 @@ Porque hay muchos rebeldes, habladores vanos y engañadores, especialmente los d
 <li>✔ Greek matches SBLGNT</li>
 <li>✔ RMAC correct</li>
 <li>✔ F/NF correct</li>
-<li>✔ No implied verbs</li>
-<li>✔ NBLA mapping correct</li>
-<li>✔ Exactly one blank line between verses</li>
-<li>✔ No comments or placeholders</li>
-<li>✔ Only verbs included</li>
-<li>✔ Every verb traceable</li>
+<li>✔ connectors valid</li>
+<li>✔ NBLA aligned</li>
+<li>✔ format exact</li>
+<li>✔ no extra content</li>
+<li>✔ fully traceable</li>
 </ul>
 <hr>
 <h1 id="status">STATUS</h1>
@@ -670,21 +762,11 @@ Porque hay muchos rebeldes, habladores vanos y engañadores, especialmente los d
 <li>verifiable</li>
 <li>text-bound</li>
 </ul>
-<p>Any deviation breaks:</p>
-<ul>
-<li>ROOTS structure</li>
-<li>data integrity</li>
-<li>downstream use</li>
-</ul>
 <hr>
-<p>This version removes:</p>
-<ul>
-<li>contradictions</li>
-<li>scattered authority</li>
-<li>loopholes that allowed generation</li>
-</ul>
-<p>And it enforces one thing clearly:</p>
+<h1 id="final-principle-1">FINAL PRINCIPLE</h1>
 <p>👉 <strong>Extraction over everything</strong></p>
+<p>If you cannot point to it in the Greek text:</p>
+<p>→ it does not belong in the dataset</p>
 
                         </div>
                         

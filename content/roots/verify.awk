@@ -1,4 +1,4 @@
-#!/usr/bin/awk -f
+#!/usr/bin/env gawk -f
 
 BEGIN {
     FS=" "
@@ -6,33 +6,24 @@ BEGIN {
     verse_count = 0
 }
 
-/^###/ {
-    current_ref = $3
-    gsub(/[{}#]/, "", current_ref)
-    verse_count++
-    next
-}
-
-# --- NORMALIZATION FUNCTION ---
+# -----------------------------
+# NORMALIZATION FUNCTION
+# -----------------------------
 function normalize(s) {
 
-    # remove editorial symbols
     gsub(/[⸀⸂⸃⸄⸅⸆⸇⸈⸉]/, "", s)
-
-    # remove punctuation
     gsub(/[.,;·:!?]/, "", s)
-
-    # remove extra spaces
     gsub(/^ +| +$/, "", s)
 
     return s
 }
 
-# --- BUILD GREEK WORD SET FROM SBLGNT ---
+# -----------------------------
+# BUILD GREEK WORD SET (SBLGNT)
+# -----------------------------
 FNR==NR {
 
     line = normalize($0)
-
     n = split(line, words, " ")
 
     for (i = 1; i <= n; i++) {
@@ -44,13 +35,34 @@ FNR==NR {
     next
 }
 
-# --- PROCESS VERB FILE ---
+# -----------------------------
+# VERSE HEADER
+# -----------------------------
+/^###/ {
+    current_ref = $3
+    gsub(/[{}#]/, "", current_ref)
+    verse_count++
+    next
+}
+
+# -----------------------------
+# FORBIDDEN SEPARATOR LINES
+# -----------------------------
+/^-{2,}$/ {
+    print "ERROR: Separator line detected (" current_ref ")"
+    errors++
+    next
+}
+
+# -----------------------------
+# VERB LINES (-)
+# -----------------------------
 /^- / {
 
-    # extract Greek word (first token after "- ")
-    match($0, /^- ([^ ]+)/)
-    word = substr($0, RSTART + 2, RLENGTH - 2)
+    line = $0
 
+    match(line, /^- ([^ ]+)/)
+    word = substr(line, RSTART + 2, RLENGTH - 2)
     word_norm = normalize(word)
 
     if (!(word_norm in sbl_words)) {
@@ -58,19 +70,61 @@ FNR==NR {
         errors++
     }
 
-    # check RMAC exists
-if ($0 !~ /\(V-[A-Z]+(-[A-Z0-9]+)?\)/) {
-    print "ERROR: Missing or invalid RMAC → " $0
-    errors++
-}
-
-    # check [F] or [NF]
-    if ($0 !~ /\[(F|NF)\]/) {
-        print "ERROR: Missing F/NF → " $0
+    # RMAC required
+    if (line !~ /\(V-[A-Z]+(-[A-Z0-9]+)?\)/) {
+        print "ERROR: Missing or invalid RMAC → " line
         errors++
     }
+
+    # F/NF required
+    if (line !~ /\[(F|NF)\]/) {
+        print "ERROR: Missing F/NF → " line
+        errors++
+    }
+
+    next
 }
 
+# -----------------------------
+# CONNECTOR LINES (+)
+# -----------------------------
+/^\+ / {
+
+    line = $0
+
+    match(line, /^\+ ([^ ]+)/)
+    word = substr(line, RSTART + 2, RLENGTH - 2)
+    word_norm = normalize(word)
+
+    if (!(word_norm in sbl_words)) {
+        print "ERROR: Greek not found → " word " (" current_ref ")"
+        errors++
+    }
+
+    # must have Spanish gloss
+    if (line !~ /\(.+\)/) {
+        print "ERROR: Missing Spanish gloss → " line
+        errors++
+    }
+
+    # MUST NOT have RMAC
+    if (line ~ /\(V-/) {
+        print "ERROR: Connector has RMAC → " line
+        errors++
+    }
+
+    # MUST NOT have F/NF
+    if (line ~ /\[(F|NF)\]/) {
+        print "ERROR: Connector has F/NF → " line
+        errors++
+    }
+
+    next
+}
+
+# -----------------------------
+# SUMMARY
+# -----------------------------
 END {
     print "-----------------------------"
     print "Verses checked:", verse_count
