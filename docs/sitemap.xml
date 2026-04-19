@@ -28,57 +28,23 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2023-08-27T21:53:01-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/roots/1corintios-verbos/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/1juan-verbos/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/1pedro-verbos/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/1tesalonicenses-verbos/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/1timoteo-verbos/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/2corintios-verbos/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/2juan-verbos/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/2pedro-verbos/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/2tesalonicenses-verbos/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/2timoteo-verbos/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/3juan-verbos/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/apocalipsis-verbos/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/colosenses-verbos/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/efesios-verbos/</loc>
-  </url><url>
     <loc>http://localhost:1313/roots/file-creation-process/</loc>
   </url><url>
-    <loc>http://localhost:1313/roots/filipenses-verbos/</loc>
+    <loc>http://localhost:1313/roots/oshb/morphhb/</loc>
   </url><url>
-    <loc>http://localhost:1313/roots/galatas-verbos/</loc>
+    <loc>http://localhost:1313/roots/oshb/morphhb/read/</loc>
   </url><url>
-    <loc>http://localhost:1313/roots/hebreos-verbos/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/hechos-verbos/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/juan-verbos/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/judas-verbos/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/lucas-verbos/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/marcos-verbos/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/mateo-verbos/</loc>
+    <loc>http://localhost:1313/roots/oshb/morphhb/structure/oshbverse/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/readme/</loc>
   </url><url>
-    <loc>http://localhost:1313/roots/romanos-verbos/</loc>
+    <loc>http://localhost:1313/roots/roots-output/1corintios-verbos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/roots/roots-output/filipenses-verbos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/roots/roots-output/romanos-verbos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/roots/roots-output/tito-verbos/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/sblgnt/2corintios/</loc>
   </url><url>
@@ -119,8 +85,6 @@
     <loc>http://localhost:1313/roots/sblgnt/mateo/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/sblgnt/santiago/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/tito-verbos/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/sblgnt/1corintios/</loc>
   </url><url>
