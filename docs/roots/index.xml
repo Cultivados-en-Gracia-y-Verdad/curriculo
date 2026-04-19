@@ -9,171 +9,10 @@
     <atom:link href="http://localhost:1313/roots/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/roots/1corintios-verbos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/roots/1corintios-verbos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/roots/1juan-verbos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/roots/1juan-verbos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/roots/1pedro-verbos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/roots/1pedro-verbos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/roots/1tesalonicenses-verbos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/roots/1tesalonicenses-verbos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/roots/1timoteo-verbos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/roots/1timoteo-verbos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/roots/2corintios-verbos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/roots/2corintios-verbos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/roots/2juan-verbos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/roots/2juan-verbos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/roots/2pedro-verbos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/roots/2pedro-verbos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/roots/2tesalonicenses-verbos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/roots/2tesalonicenses-verbos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/roots/2timoteo-verbos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/roots/2timoteo-verbos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/roots/3juan-verbos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/roots/3juan-verbos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/roots/apocalipsis-verbos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/roots/apocalipsis-verbos/</guid>
-      <description>&lt;h3 id=&#34;rev-1-1&#34;&gt;Rev 1:1&lt;/h3&gt;&#xA;&lt;p&gt;Ἀποκάλυψις Ἰησοῦ Χριστοῦ, ἣν ἔδωκεν αὐτῷ ὁ θεὸς δεῖξαι τοῖς δούλοις αὐτοῦ, ἃ δεῖ γενέσθαι ἐν τάχει, καὶ ἐσήμανεν ἀποστείλας διὰ τοῦ ἀγγέλου αὐτοῦ τῷ δούλῳ αὐτοῦ Ἰωάννῃ,&lt;/p&gt;&#xA;&lt;h3 id=&#34;rev-1-2&#34;&gt;Rev 1:2&lt;/h3&gt;&#xA;&lt;p&gt;ὃς ἐμαρτύρησεν τὸν λόγον τοῦ θεοῦ καὶ τὴν μαρτυρίαν Ἰησοῦ Χριστοῦ, ὅσα εἶδεν.&lt;/p&gt;&#xA;&lt;h3 id=&#34;rev-1-3&#34;&gt;Rev 1:3&lt;/h3&gt;&#xA;&lt;p&gt;μακάριος ὁ ἀναγινώσκων καὶ οἱ ἀκούοντες τοὺς λόγους τῆς προφητείας καὶ τηροῦντες τὰ ἐν αὐτῇ γεγραμμένα, ὁ γὰρ καιρὸς ἐγγύς.&lt;/p&gt;&#xA;&lt;h3 id=&#34;rev-1-4&#34;&gt;Rev 1:4&lt;/h3&gt;&#xA;&lt;p&gt;Ἰωάννης ταῖς ἑπτὰ ἐκκλησίαις ταῖς ἐν τῇ Ἀσίᾳ· χάρις ὑμῖν καὶ εἰρήνη ⸀ἀπὸ ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος, καὶ ἀπὸ τῶν ἑπτὰ πνευμάτων ἃ ἐνώπιον τοῦ θρόνου αὐτοῦ,&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/roots/colosenses-verbos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/roots/colosenses-verbos/</guid>
-      <description>&lt;h1 id=&#34;colosenses&#34;&gt;Colosenses&lt;/h1&gt;&#xA;&lt;h3 id=&#34;col-1-1&#34;&gt;Colosenses 1:1&lt;/h3&gt;&#xA;&lt;p&gt;Παῦλος ἀπόστολος ⸂Χριστοῦ Ἰησοῦ⸃ διὰ θελήματος θεοῦ καὶ Τιμόθεος ὁ ἀδελφὸς&lt;/p&gt;&#xA;&lt;h3 id=&#34;col-1-2&#34;&gt;Colosenses 1:2&lt;/h3&gt;&#xA;&lt;p&gt;τοῖς ἐν ⸀Κολοσσαῖς ἁγίοις καὶ πιστοῖς ἀδελφοῖς ἐν Χριστῷ· χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ⸀ἡμῶν.&lt;/p&gt;&#xA;&lt;h3 id=&#34;col-1-3&#34;&gt;Colosenses 1:3&lt;/h3&gt;&#xA;&lt;p&gt;Εὐχαριστοῦμεν τῷ ⸀θεῷ πατρὶ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ πάντοτε ⸀περὶ ὑμῶν προσευχόμενοι,&lt;/p&gt;&#xA;&lt;h3 id=&#34;col-1-4&#34;&gt;Colosenses 1:4&lt;/h3&gt;&#xA;&lt;p&gt;ἀκούσαντες τὴν πίστιν ὑμῶν ἐν Χριστῷ Ἰησοῦ καὶ τὴν ἀγάπην ⸂ἣν ἔχετε⸃ εἰς πάντας τοὺς ἁγίους&lt;/p&gt;&#xA;&lt;h3 id=&#34;col-1-5&#34;&gt;Colosenses 1:5&lt;/h3&gt;&#xA;&lt;p&gt;διὰ τὴν ἐλπίδα τὴν ἀποκειμένην ὑμῖν ἐν τοῖς οὐρανοῖς, ἣν προηκούσατε ἐν τῷ λόγῳ τῆς ἀληθείας τοῦ εὐαγγελίου&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/roots/efesios-verbos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/roots/efesios-verbos/</guid>
-      <description>&lt;h3 id=&#34;eph-1-1&#34;&gt;Eph 1:1&lt;/h3&gt;&#xA;&lt;p&gt;Παῦλος ἀπόστολος ⸂Χριστοῦ Ἰησοῦ⸃ διὰ θελήματος θεοῦ τοῖς ἁγίοις τοῖς οὖσιν ⸂[ἐν Ἐφέσῳ]⸃ καὶ πιστοῖς ἐν Χριστῷ Ἰησοῦ·&lt;/p&gt;&#xA;&lt;h3 id=&#34;eph-1-2&#34;&gt;Eph 1:2&lt;/h3&gt;&#xA;&lt;p&gt;χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ.&lt;/p&gt;&#xA;&lt;h3 id=&#34;eph-1-3&#34;&gt;Eph 1:3&lt;/h3&gt;&#xA;&lt;p&gt;Εὐλογητὸς ὁ θεὸς καὶ πατὴρ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, ὁ εὐλογήσας ἡμᾶς ἐν πάσῃ εὐλογίᾳ πνευματικῇ ἐν τοῖς ἐπουρανίοις ἐν Χριστῷ,&lt;/p&gt;&#xA;&lt;h3 id=&#34;eph-1-4&#34;&gt;Eph 1:4&lt;/h3&gt;&#xA;&lt;p&gt;καθὼς ἐξελέξατο ἡμᾶς ἐν αὐτῷ πρὸ καταβολῆς κόσμου, εἶναι ἡμᾶς ἁγίους καὶ ἀμώμους κατενώπιον αὐτοῦ ἐν ἀγάπῃ,&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
       <link>http://localhost:1313/roots/file-creation-process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/roots/file-creation-process/</guid>
       <description>&lt;p&gt;file creation process:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;./generate.awk -v book=tito &amp;gt; tito.md&lt;/li&gt;&#xA;&lt;li&gt;# edit (add verbs)&lt;/li&gt;&#xA;&lt;li&gt;gawk -f verify.awk SBLGNT/text/tito.txt tito-verbos.md&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/roots/filipenses-verbos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/roots/filipenses-verbos/</guid>
-      <description>&lt;h3 id=&#34;filipenses-1-1&#34;&gt;Filipenses 1:1&lt;/h3&gt;&#xA;&lt;p&gt;Παῦλος καὶ Τιμόθεος δοῦλοι ⸂Χριστοῦ Ἰησοῦ⸃ πᾶσιν τοῖς ἁγίοις ἐν Χριστῷ Ἰησοῦ τοῖς οὖσιν ἐν Φιλίπποις σὺν ἐπισκόποις καὶ διακόνοις·&lt;/p&gt;&#xA;&lt;h3 id=&#34;filipenses-1-2&#34;&gt;Filipenses 1:2&lt;/h3&gt;&#xA;&lt;p&gt;χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ.&lt;/p&gt;&#xA;&lt;h3 id=&#34;filipenses-1-3&#34;&gt;Filipenses 1:3&lt;/h3&gt;&#xA;&lt;p&gt;Εὐχαριστῶ τῷ θεῷ μου ἐπὶ πάσῃ τῇ μνείᾳ ὑμῶν&lt;/p&gt;&#xA;&lt;h3 id=&#34;filipenses-1-4&#34;&gt;Filipenses 1:4&lt;/h3&gt;&#xA;&lt;p&gt;πάντοτε ἐν πάσῃ δεήσει μου ὑπὲρ πάντων ὑμῶν, μετὰ χαρᾶς τὴν δέησιν ποιούμενος,&lt;/p&gt;&#xA;&lt;h3 id=&#34;filipenses-1-5&#34;&gt;Filipenses 1:5&lt;/h3&gt;&#xA;&lt;p&gt;ἐπὶ τῇ κοινωνίᾳ ὑμῶν εἰς τὸ εὐαγγέλιον ἀπὸ ⸀τῆς πρώτης ἡμέρας ἄχρι τοῦ νῦν,&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/roots/galatas-verbos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/roots/galatas-verbos/</guid>
-      <description>&lt;h3 id=&#34;galatas-1-1&#34;&gt;Gálatas 1:1&lt;/h3&gt;&#xA;&lt;p&gt;Παῦλος ἀπόστολος, οὐκ ἀπʼ ἀνθρώπων οὐδὲ διʼ ἀνθρώπου ἀλλὰ διὰ Ἰησοῦ Χριστοῦ καὶ θεοῦ πατρὸς τοῦ ἐγείραντος αὐτὸν ἐκ νεκρῶν,&lt;/p&gt;&#xA;&lt;h3 id=&#34;galatas-1-2&#34;&gt;Gálatas 1:2&lt;/h3&gt;&#xA;&lt;p&gt;καὶ οἱ σὺν ἐμοὶ πάντες ἀδελφοί, ταῖς ἐκκλησίαις τῆς Γαλατίας·&lt;/p&gt;&#xA;&lt;h3 id=&#34;galatas-1-3&#34;&gt;Gálatas 1:3&lt;/h3&gt;&#xA;&lt;p&gt;χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ⸂καὶ κυρίου ἡμῶν⸃ Ἰησοῦ Χριστοῦ,&lt;/p&gt;&#xA;&lt;h3 id=&#34;galatas-1-4&#34;&gt;Gálatas 1:4&lt;/h3&gt;&#xA;&lt;p&gt;τοῦ δόντος ἑαυτὸν ⸀ὑπὲρ τῶν ἁμαρτιῶν ἡμῶν ὅπως ἐξέληται ἡμᾶς ἐκ τοῦ ⸂αἰῶνος τοῦ ἐνεστῶτος⸃ πονηροῦ κατὰ τὸ θέλημα τοῦ θεοῦ καὶ πατρὸς ἡμῶν,&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/roots/hebreos-verbos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/roots/hebreos-verbos/</guid>
-      <description>&lt;h3 id=&#34;hebreos-1-1&#34;&gt;Hebreos 1:1&lt;/h3&gt;&#xA;&lt;p&gt;Πολυμερῶς καὶ πολυτρόπως πάλαι ὁ θεὸς λαλήσας τοῖς πατράσιν ἐν τοῖς προφήταις&lt;/p&gt;&#xA;&lt;h3 id=&#34;hebreos-1-2&#34;&gt;Hebreos 1:2&lt;/h3&gt;&#xA;&lt;p&gt;ἐπʼ ἐσχάτου τῶν ἡμερῶν τούτων ἐλάλησεν ἡμῖν ἐν υἱῷ, ὃν ἔθηκεν κληρονόμον πάντων, διʼ οὗ καὶ ⸂ἐποίησεν τοὺς αἰῶνας⸃·&lt;/p&gt;&#xA;&lt;h3 id=&#34;hebreos-1-3&#34;&gt;Hebreos 1:3&lt;/h3&gt;&#xA;&lt;p&gt;ὃς ὢν ἀπαύγασμα τῆς δόξης καὶ χαρακτὴρ τῆς ὑποστάσεως αὐτοῦ, φέρων τε τὰ πάντα τῷ ῥήματι τῆς δυνάμεως, ⸂διʼ αὑτοῦ⸃ καθαρισμὸν ⸂τῶν ἁμαρτιῶν ποιησάμενος⸃ ἐκάθισεν ἐν δεξιᾷ τῆς μεγαλωσύνης ἐν ὑψηλοῖς,&lt;/p&gt;&#xA;&lt;h3 id=&#34;hebreos-1-4&#34;&gt;Hebreos 1:4&lt;/h3&gt;&#xA;&lt;p&gt;τοσούτῳ κρείττων γενόμενος τῶν ἀγγέλων ὅσῳ διαφορώτερον παρʼ αὐτοὺς κεκληρονόμηκεν ὄνομα.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/roots/hechos-verbos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/roots/hechos-verbos/</guid>
-      <description>&lt;h3 id=&#34;hechos-1-1&#34;&gt;Hechos 1:1&lt;/h3&gt;&#xA;&lt;p&gt;Τὸν μὲν πρῶτον λόγον ἐποιησάμην περὶ πάντων, ὦ Θεόφιλε, ὧν ἤρξατο ⸀ὁ Ἰησοῦς ποιεῖν τε καὶ διδάσκειν&lt;/p&gt;&#xA;&lt;h3 id=&#34;hechos-1-2&#34;&gt;Hechos 1:2&lt;/h3&gt;&#xA;&lt;p&gt;ἄχρι ἧς ἡμέρας ἐντειλάμενος τοῖς ἀποστόλοις διὰ πνεύματος ἁγίου οὓς ἐξελέξατο ἀνελήμφθη·&lt;/p&gt;&#xA;&lt;h3 id=&#34;hechos-1-3&#34;&gt;Hechos 1:3&lt;/h3&gt;&#xA;&lt;p&gt;οἷς καὶ παρέστησεν ἑαυτὸν ζῶντα μετὰ τὸ παθεῖν αὐτὸν ἐν πολλοῖς τεκμηρίοις, διʼ ἡμερῶν τεσσεράκοντα ὀπτανόμενος αὐτοῖς καὶ λέγων τὰ περὶ τῆς βασιλείας τοῦ θεοῦ·&lt;/p&gt;&#xA;&lt;h3 id=&#34;hechos-1-4&#34;&gt;Hechos 1:4&lt;/h3&gt;&#xA;&lt;p&gt;καὶ συναλιζόμενος παρήγγειλεν αὐτοῖς ἀπὸ Ἱεροσολύμων μὴ χωρίζεσθαι, ἀλλὰ περιμένειν τὴν ἐπαγγελίαν τοῦ πατρὸς ἣν ἠκούσατέ μου·&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/roots/juan-verbos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/roots/juan-verbos/</guid>
-      <description>&lt;h3 id=&#34;juan-1-1&#34;&gt;Juan 1:1&lt;/h3&gt;&#xA;&lt;p&gt;Ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος.&lt;/p&gt;&#xA;&lt;h3 id=&#34;juan-1-2&#34;&gt;Juan 1:2&lt;/h3&gt;&#xA;&lt;p&gt;οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.&lt;/p&gt;&#xA;&lt;h3 id=&#34;juan-1-3&#34;&gt;Juan 1:3&lt;/h3&gt;&#xA;&lt;p&gt;πάντα διʼ αὐτοῦ ἐγένετο, καὶ χωρὶς αὐτοῦ ἐγένετο οὐδὲ ἕν. ὃ γέγονεν&lt;/p&gt;&#xA;&lt;h3 id=&#34;juan-1-4&#34;&gt;Juan 1:4&lt;/h3&gt;&#xA;&lt;p&gt;ἐν αὐτῷ ζωὴ ἦν, καὶ ἡ ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων·&lt;/p&gt;&#xA;&lt;h3 id=&#34;juan-1-5&#34;&gt;Juan 1:5&lt;/h3&gt;&#xA;&lt;p&gt;καὶ τὸ φῶς ἐν τῇ σκοτίᾳ φαίνει, καὶ ἡ σκοτία αὐτὸ οὐ κατέλαβεν.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/roots/judas-verbos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/roots/judas-verbos/</guid>
-      <description>&lt;h3 id=&#34;judas-1-1&#34;&gt;Judas 1:1&lt;/h3&gt;&#xA;&lt;p&gt;Ἰούδας Ἰησοῦ Χριστοῦ δοῦλος, ἀδελφὸς δὲ Ἰακώβου, τοῖς ἐν θεῷ πατρὶ ⸀ἠγαπημένοις καὶ Ἰησοῦ Χριστῷ τετηρημένοις κλητοῖς·&lt;/p&gt;&#xA;&lt;h3 id=&#34;judas-1-2&#34;&gt;Judas 1:2&lt;/h3&gt;&#xA;&lt;p&gt;ἔλεος ὑμῖν καὶ εἰρήνη καὶ ἀγάπη πληθυνθείη.&lt;/p&gt;&#xA;&lt;h3 id=&#34;judas-1-3&#34;&gt;Judas 1:3&lt;/h3&gt;&#xA;&lt;p&gt;Ἀγαπητοί, πᾶσαν σπουδὴν ποιούμενος γράφειν ὑμῖν περὶ τῆς κοινῆς ⸀ἡμῶν σωτηρίας ἀνάγκην ἔσχον γράψαι ὑμῖν παρακαλῶν ἐπαγωνίζεσθαι τῇ ἅπαξ παραδοθείσῃ τοῖς ἁγίοις πίστει.&lt;/p&gt;&#xA;&lt;h3 id=&#34;judas-1-4&#34;&gt;Judas 1:4&lt;/h3&gt;&#xA;&lt;p&gt;παρεισέδυσαν γάρ τινες ἄνθρωποι, οἱ πάλαι προγεγραμμένοι εἰς τοῦτο τὸ κρίμα, ἀσεβεῖς, τὴν τοῦ θεοῦ ἡμῶν χάριτα μετατιθέντες εἰς ἀσέλγειαν καὶ τὸν μόνον ⸀δεσπότην καὶ κύριον ἡμῶν Ἰησοῦν Χριστὸν ἀρνούμενοι.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/roots/lucas-verbos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/roots/lucas-verbos/</guid>
-      <description>&lt;h3 id=&#34;lucas-1-1&#34;&gt;Lucas 1:1&lt;/h3&gt;&#xA;&lt;p&gt;Ἐπειδήπερ πολλοὶ ἐπεχείρησαν ἀνατάξασθαι διήγησιν περὶ τῶν πεπληροφορημένων ἐν ἡμῖν πραγμάτων,&lt;/p&gt;&#xA;&lt;h3 id=&#34;lucas-1-2&#34;&gt;Lucas 1:2&lt;/h3&gt;&#xA;&lt;p&gt;καθὼς παρέδοσαν ἡμῖν οἱ ἀπʼ ἀρχῆς αὐτόπται καὶ ὑπηρέται γενόμενοι τοῦ λόγου,&lt;/p&gt;&#xA;&lt;h3 id=&#34;lucas-1-3&#34;&gt;Lucas 1:3&lt;/h3&gt;&#xA;&lt;p&gt;ἔδοξε κἀμοὶ παρηκολουθηκότι ἄνωθεν πᾶσιν ἀκριβῶς καθεξῆς σοι γράψαι, κράτιστε Θεόφιλε,&lt;/p&gt;&#xA;&lt;h3 id=&#34;lucas-1-4&#34;&gt;Lucas 1:4&lt;/h3&gt;&#xA;&lt;p&gt;ἵνα ἐπιγνῷς περὶ ὧν κατηχήθης λόγων τὴν ἀσφάλειαν.&lt;/p&gt;&#xA;&lt;h3 id=&#34;lucas-1-5&#34;&gt;Lucas 1:5&lt;/h3&gt;&#xA;&lt;p&gt;Ἐγένετο ἐν ταῖς ἡμέραις ⸀Ἡρῴδου βασιλέως τῆς Ἰουδαίας ἱερεύς τις ὀνόματι Ζαχαρίας ἐξ ἐφημερίας Ἀβιά, ⸀καὶ γυνὴ ⸀αὐτῷ ἐκ τῶν θυγατέρων Ἀαρών, καὶ τὸ ὄνομα αὐτῆς Ἐλισάβετ.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/roots/marcos-verbos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/roots/marcos-verbos/</guid>
-      <description>&lt;h3 id=&#34;marcos-1-1&#34;&gt;Marcos 1:1&lt;/h3&gt;&#xA;&lt;p&gt;Ἀρχὴ τοῦ εὐαγγελίου Ἰησοῦ ⸀χριστοῦ.&lt;/p&gt;&#xA;&lt;h3 id=&#34;marcos-1-2&#34;&gt;Marcos 1:2&lt;/h3&gt;&#xA;&lt;p&gt;⸀Καθὼς γέγραπται ἐν ⸂τῷ Ἠσαΐᾳ τῷ προφήτῃ⸃· ⸀Ἰδοὺ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου, ὃς κατασκευάσει τὴν ὁδόν ⸀σου·&lt;/p&gt;&#xA;&lt;h3 id=&#34;marcos-1-3&#34;&gt;Marcos 1:3&lt;/h3&gt;&#xA;&lt;p&gt;φωνὴ βοῶντος ἐν τῇ ἐρήμῳ· Ἑτοιμάσατε τὴν ὁδὸν κυρίου, εὐθείας ποιεῖτε τὰς τρίβους αὐτοῦ,&lt;/p&gt;&#xA;&lt;h3 id=&#34;marcos-1-4&#34;&gt;Marcos 1:4&lt;/h3&gt;&#xA;&lt;p&gt;ἐγένετο Ἰωάννης ⸀ὁ βαπτίζων ἐν τῇ ⸀ἐρήμῳ κηρύσσων βάπτισμα μετανοίας εἰς ἄφεσιν ἁμαρτιῶν.&lt;/p&gt;&#xA;&lt;h3 id=&#34;marcos-1-5&#34;&gt;Marcos 1:5&lt;/h3&gt;&#xA;&lt;p&gt;καὶ ἐξεπορεύετο πρὸς αὐτὸν πᾶσα ἡ Ἰουδαία χώρα καὶ οἱ Ἱεροσολυμῖται ⸂πάντες, καὶ ἐβαπτίζοντο⸃ ⸂ὑπʼ αὐτοῦ ἐν τῷ Ἰορδάνῃ ποταμῷ⸃ ἐξομολογούμενοι τὰς ἁμαρτίας αὐτῶν.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/roots/mateo-verbos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/roots/mateo-verbos/</guid>
-      <description>&lt;h3 id=&#34;mateo-1-1&#34;&gt;Mateo 1:1&lt;/h3&gt;&#xA;&lt;p&gt;Βίβλος γενέσεως Ἰησοῦ χριστοῦ υἱοῦ Δαυὶδ υἱοῦ Ἀβραάμ.&lt;/p&gt;&#xA;&lt;h3 id=&#34;mateo-1-2&#34;&gt;Mateo 1:2&lt;/h3&gt;&#xA;&lt;p&gt;Ἀβραὰμ ἐγέννησεν τὸν Ἰσαάκ, Ἰσαὰκ δὲ ἐγέννησεν τὸν Ἰακώβ, Ἰακὼβ δὲ ἐγέννησεν τὸν Ἰούδαν καὶ τοὺς ἀδελφοὺς αὐτοῦ,&lt;/p&gt;&#xA;&lt;h3 id=&#34;mateo-1-3&#34;&gt;Mateo 1:3&lt;/h3&gt;&#xA;&lt;p&gt;Ἰούδας δὲ ἐγέννησεν τὸν Φαρὲς καὶ τὸν Ζάρα ἐκ τῆς Θαμάρ, Φαρὲς δὲ ἐγέννησεν τὸν Ἑσρώμ, Ἑσρὼμ δὲ ἐγέννησεν τὸν Ἀράμ,&lt;/p&gt;&#xA;&lt;h3 id=&#34;mateo-1-4&#34;&gt;Mateo 1:4&lt;/h3&gt;&#xA;&lt;p&gt;Ἀρὰμ δὲ ἐγέννησεν τὸν Ἀμιναδάβ, Ἀμιναδὰβ δὲ ἐγέννησεν τὸν Ναασσών, Ναασσὼν δὲ ἐγέννησεν τὸν Σαλμών,&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
@@ -202,6 +41,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/roots/readme/</guid>
       <description>&lt;h1 id=&#34;roots-verb--connector-alignment-specification&#34;&gt;ROOTS VERB + CONNECTOR ALIGNMENT SPECIFICATION&lt;/h1&gt;&#xA;&lt;p&gt;(SBLGNT + RMAC + NBLA)&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;purpose&#34;&gt;PURPOSE&lt;/h1&gt;&#xA;&lt;p&gt;This document defines the rules for creating a &lt;strong&gt;fully consistent, auditable dataset&lt;/strong&gt; that maps:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Greek text (&lt;strong&gt;SBLGNT&lt;/strong&gt;)&lt;/li&gt;&#xA;&lt;li&gt;Morphology (&lt;strong&gt;RMAC&lt;/strong&gt;)&lt;/li&gt;&#xA;&lt;li&gt;Spanish text (&lt;strong&gt;NBLA&lt;/strong&gt;)&lt;/li&gt;&#xA;&lt;li&gt;Clause-level connectors (&lt;strong&gt;ROOTS&lt;/strong&gt;)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The dataset must be:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;✔ mechanically reproducible&lt;/li&gt;&#xA;&lt;li&gt;✔ text-bound (Greek-driven)&lt;/li&gt;&#xA;&lt;li&gt;✔ structurally reliable for ROOTS&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;core-principle&#34;&gt;CORE PRINCIPLE&lt;/h1&gt;&#xA;&lt;p&gt;👉 &lt;strong&gt;The dataset is not created — it is extracted&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;👉 &lt;strong&gt;If it is not in the Greek, it does not exist&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roots/roots-output/1corintios-verbos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roots/roots-output/1corintios-verbos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/roots/roots-output/filipenses-verbos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/roots/roots-output/filipenses-verbos/</guid>
+      <description>&lt;h3 id=&#34;filipenses-1-1&#34;&gt;Filipenses 1:1&lt;/h3&gt;&#xA;&lt;p&gt;Παῦλος καὶ Τιμόθεος δοῦλοι ⸂Χριστοῦ Ἰησοῦ⸃ πᾶσιν τοῖς ἁγίοις ἐν Χριστῷ Ἰησοῦ τοῖς οὖσιν ἐν Φιλίπποις σὺν ἐπισκόποις καὶ διακόνοις·&lt;/p&gt;&#xA;&lt;h3 id=&#34;filipenses-1-2&#34;&gt;Filipenses 1:2&lt;/h3&gt;&#xA;&lt;p&gt;χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ.&lt;/p&gt;&#xA;&lt;h3 id=&#34;filipenses-1-3&#34;&gt;Filipenses 1:3&lt;/h3&gt;&#xA;&lt;p&gt;Εὐχαριστῶ τῷ θεῷ μου ἐπὶ πάσῃ τῇ μνείᾳ ὑμῶν&lt;/p&gt;&#xA;&lt;h3 id=&#34;filipenses-1-4&#34;&gt;Filipenses 1:4&lt;/h3&gt;&#xA;&lt;p&gt;πάντοτε ἐν πάσῃ δεήσει μου ὑπὲρ πάντων ὑμῶν, μετὰ χαρᾶς τὴν δέησιν ποιούμενος,&lt;/p&gt;&#xA;&lt;h3 id=&#34;filipenses-1-5&#34;&gt;Filipenses 1:5&lt;/h3&gt;&#xA;&lt;p&gt;ἐπὶ τῇ κοινωνίᾳ ὑμῶν εἰς τὸ εὐαγγέλιον ἀπὸ ⸀τῆς πρώτης ἡμέρας ἄχρι τοῦ νῦν,&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
