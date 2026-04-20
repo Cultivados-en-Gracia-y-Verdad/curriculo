@@ -208,285 +208,193 @@ Example:
 
 ------
 
-# RULE (STRICT — ROOTS)
+## EXTRACTION RULE
 
-Connectors must be included ONLY when they operate at the **clause level**.
+A connector must be extracted if it appears in the Greek text.
 
-------
+- Do not filter during extraction
+- Do not evaluate function during extraction
+- Do not exclude based on structure at this stage
 
-## INCLUDE ONLY:
-
-A connector is included if it:
-
-1. **Introduces a clause**
-   - subordinating conjunctions (e.g., ἵνα, εἴ, ὅτι)
-   - relative markers when they introduce a clause (ὃς, ὃ, οἵτινες)
-
-   OR
-
-1. **Connects two clauses**
-   - coordinating conjunctions ONLY when they join two clauses
-   - must be verifiable by the presence of:
-     - two finite verbs
-       OR
-     - two clause structures
+👉 If it is in the Greek → it must be listed
 
 ------
 
-## DO NOT INCLUDE:
+# CONNECTOR EXTRACTION AND CLASSIFICATION (LOCKED)
 
-A connector must be EXCLUDED if it:
+## CORE PRINCIPLE
 
-- operates only inside a phrase
-- connects words, not clauses
-- connects items in a list
-- modifies tone but not structure
-- appears without linking two clause-level units
+👉 Connectors are extracted **only from the Greek text (SBLGNT)**
 
-------
+👉 Connectors are **not inferred, supplied, or promoted from Spanish**
 
-## CRITICAL TEST
+---
 
-Before including a connector, ask:
+## EXTRACTION RULE (MANDATORY)
 
-> Does this connector link or introduce something that contains a finite verb?
+A connector must be extracted if:
 
-- ✔ YES → include
-- ❌ NO → exclude
+- it appears explicitly in the Greek text
 
-------
+Do NOT:
+
+- filter during extraction
+- evaluate meaning
+- infer missing connectors
+- add connectors from NBLA
+
+👉 If it is in the Greek → it must be listed
+
+---
+
+## CONNECTOR LINE FORMAT (LOCKED)
+
+
+→ GreekConnector = SpanishConnector [Tag]
+
+
+---
+
+## SYMBOL RULES (MANDATORY)
+
+- `→` is used for **all connector lines**
+- `-` remains reserved **only for verbs**
+- No mixing allowed
+- No alternative symbols allowed
+
+---
+
+## LANGUAGE HIERARCHY (CRITICAL)
+
+
+Greek → determines existence
+Spanish → reflects alignment only
+
+
+- Greek controls identification
+- Spanish NEVER creates or replaces a connector
+
+---
+
+## CLASSIFICATION BASIS (STRUCTURE ONLY)
+
+Connectors are classified using **structure only**, NOT meaning
+
+---
+
+## CLASSIFICATION TAGS
+
+### `[I]` — Introduces a Clause
+
+Use `[I]` if:
+
+- the connector precedes a clause
+- the clause contains a **finite verb**
+
+---
+
+### `[c]` — Connects Clauses
+
+Use `[c]` if:
+
+- the connector links two clause-level units
+- each unit contains (or implies) a finite verb
+
+---
+
+### (no tag) — Non-Structural
+
+Leave untagged if:
+
+- it connects words or phrases only
+- it does not operate at clause level
+- it does not introduce a clause with a finite verb
+
+---
+
+## STRUCTURAL TEST (MANDATORY)
+
+Before assigning `[I]` or `[c]`, ask:
+
+
+Does this connector introduce or connect a unit that contains a finite verb?
+
+
+- ✔ YES → assign `[I]` or `[c]`
+- ❌ NO → leave untagged
+
+---
+
+## POSITIONAL RULE (IMPORTANT)
+
+Classification is based ONLY on:
+
+- position in the Greek sentence
+- presence of finite verbs
+
+Do NOT use:
+
+- meaning (reason, contrast, result, etc.)
+- translation nuance
+- theological interpretation
+
+---
+
+## NBLA ALIGNMENT RULE
+
+The Spanish connector must:
+
+- reflect NBLA wording exactly
+- appear in the NBLA verse line
+- not be paraphrased
+- not be replaced
+
+Format:
+
+
+→ γάρ = porque
+
+
+---
 
 ## EXAMPLES
 
-### INCLUDE
+### Structural
 
-```text
-ἵνα δυνατὸς ᾖ
-→ introduces clause → include
-ἐφανέρωσεν δὲ ... ἐπιστεύθην
-→ connects two clauses → include
-```
 
-------
+→ γάρ = porque [I]
+→ δέ = pero [c]
 
-### EXCLUDE
-
-```text
-καὶ φιλάγαθον, σώφρονα, δίκαιον
-→ list only → EXCLUDE
-καὶ νοῦς καὶ συνείδησις
-→ noun coordination → EXCLUDE
-```
-
-------
-
-## FORMAT
-
-Connectors must be formatted as:
-
-```text
-+ GreekConnector (SpanishConnector)
-```
 
 ---
 
-## RULES
+### Non-Structural
 
-* The Greek connector must match the SBLGNT exactly
-* The Spanish connector must reflect the NBLA wording of the verse
-* No paraphrasing
-* No synonyms
-* No interpretation
+
+→ καί = y
+
 
 ---
 
-## VALIDATION TEST
+## CRITICAL RESTRICTIONS
 
-> Does the Spanish connector appear in the NBLA verse line?
+Do NOT:
 
-* ✔ YES → valid
-* ❌ NO → reject
+- assign semantic labels (reason, contrast, etc.)
+- infer clause relationships beyond structure
+- override Greek with Spanish
+- skip a Greek connector because it feels “weak”
 
 ---
 
 ## FINAL PRINCIPLE
 
-👉 A connector is included ONLY if it affects **clause structure**
+👉 Connectors are **structural markers**, not meaning carriers
 
-If it does not affect clause structure:
+👉 Extraction is complete  
+👉 Classification is minimal and mechanical
 
-→ it does not belong in the dataset
-
-------
-
-# ALIGNMENT RULE (NBLA)
-
-- Spanish must reflect NBLA wording
-- No paraphrasing
-- No synonyms
-- No interpretation
-
-👉 This is **alignment**, not translation
-
-------
-
-# VERSE RULES
-
-## Separation
-
-- ✔ exactly ONE blank line between verses
-- ❌ no extra lines
-- ❌ no missing separation
-- exactly ONE blank line IS allowed WITHIN a verse block
-- There must be NO separator lines (-----)
-
-------
-
-## Empty Extraction
-
-If no verbs or connectors qualify:
-
-```
-### Verse
-Greek
-[NBLA]
-```
-
-(no lines below)
-
-------
-
-# OUTPUT INTEGRITY
-
-Allowed lines:
-
-- ✔ verb lines (starting with -)
-- ✔ connector lines (starting with +)
-
-Forbidden:
-
-- ❌ comments
-- ❌ explanations
-- ❌ placeholders
-- ❌ omitted markers
-- ❌ non-verbs
-
-------
-
-# VERIFICATION PROCEDURE
-
-Every verse must pass all steps:
-
-------
-
-## Step 1 — Greek Presence
-
-- Every verb must appear in SBLGNT
-- Must match exact surface form
-
-------
-
-## Step 2 — RMAC
-
-- Must be present
-- Must be valid
-- Must correctly classify `[F]/[NF]`
-
-------
-
-## Step 3 — NBLA Alignment
-
-- Must reflect NBLA wording
-- Must not introduce new verbs
-
-------
-
-## Step 4 — Connector Validation
-
-- Must connect or introduce clauses
-- Must not be phrase-level
-- Connectors must follow '+' format
-- Must NOT be validated as verbs
-
-------
-
-## Step 5 — Format Integrity
-
-- ✔ correct structure
-- ✔ correct ordering
-- ✔ no extra content
-- ✔ one blank line between verses
-
-------
-
-## Step 6 — Final Question
-
-> Can every verb be pointed to directly in the Greek line?
-
-- If NO → reject
-- If YES → accept
-
-------
-
-# HARD REJECTION RULES
-
-Reject immediately if:
-
-- verb not in SBLGNT
-- verb altered
-- verb inferred
-- Spanish drives extraction
-- connector misidentified
-- formatting incorrect
-
-------
-
-# FUNCTIONAL PURPOSE (ROOTS)
-
-This dataset feeds:
-
-- Paso 2 — Verbos finitos
-- Paso 3 — Cláusulas
-- Paso 4 — Conectores
-- Paso 5+ — Estructura
-
-------
-
-## KEY STRUCTURAL PRINCIPLE
-
-👉 Finite verbs define clause structure
-👉 Connectors define clause relationships
-
-------
-
-# FINAL CHECKLIST
-
-Before accepting:
-
-- ✔ Greek matches SBLGNT
-- ✔ RMAC correct
-- ✔ F/NF correct
-- ✔ connectors valid
-- ✔ NBLA aligned
-- ✔ format exact
-- ✔ no extra content
-- ✔ fully traceable
-
-------
-
-# STATUS
-
-👉 This specification is **LOCKED**
-
-👉 The dataset must be:
-
-- reproducible
-- verifiable
-- text-bound
-
-------
-
-# FINAL PRINCIPLE
+# CONNECTOR PRINCIPLE
 
 👉 **Extraction over everything**
 

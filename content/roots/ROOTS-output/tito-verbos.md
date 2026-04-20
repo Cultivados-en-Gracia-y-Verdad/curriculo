@@ -37,6 +37,7 @@
 + καὶ (y)
 + ὡς (como)
 
+-----
 
 ### Tito 1:6 {#tito-1-6}
 
@@ -297,7 +298,7 @@
 
 - βούλομαί (V-PMI-1S) ==quiero== [F]
 - φροντίζωσιν (V-PAS-3P) ==procuren== [F]
-- ἐστιν (V-PAI-3S) ==son== [F]
++ ἐστιν (V-PAI-3S) ==son== [F]
 + ἵνα (para que)
 
 ### Tito 3:9 {#tito-3-9}
