@@ -1,437 +1,437 @@
-1 Corinthians 1:1 Pablo, llamado a ser apóstol de Jesucristo por la voluntad de Dios, y Sóstenes, nuestro hermano,
-1 Corinthians 1:2 a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cristo Jesús, llamados a ser santos, con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo, Señor de ellos y nuestro:
-1 Corinthians 1:3 Gracia y paz a ustedes de parte de Dios nuestro Padre y del Señor Jesucristo.
-1 Corinthians 1:4 Siempre doy gracias a mi Dios por ustedes, por la gracia de Dios que les fue dada en Cristo Jesús.
-1 Corinthians 1:5 Porque en todo ustedes fueron enriquecidos en Él, en toda palabra y en todo conocimiento,
-1 Corinthians 1:6 así como el testimonio acerca de Cristo fue confirmado en ustedes;
-1 Corinthians 1:7 de manera que nada les falta en ningún don, esperando ansiosamente la revelación de nuestro Señor Jesucristo.
-1 Corinthians 1:8 Él también los confirmará hasta el fin, para que sean irreprensibles en el día de nuestro Señor Jesucristo.
-1 Corinthians 1:9 Fiel es Dios, por medio de quien fueron llamados a la comunión con Su Hijo Jesucristo, nuestro Señor.
-1 Corinthians 1:10 Les ruego, hermanos, por el nombre de nuestro Señor Jesucristo, que todos se pongan de acuerdo, y que no haya divisiones entre ustedes, sino que estén enteramente unidos en un mismo sentir y en un mismo parecer.
-1 Corinthians 1:11 Porque he sido informado acerca de ustedes, hermanos míos, por los de Cloé, que hay discusiones entre ustedes.
-1 Corinthians 1:12 Me refiero a que cada uno de ustedes dice: «Yo soy de Pablo», otro: «yo de Apolos», otro: «yo de Cefas», y otro: «yo de Cristo».
-1 Corinthians 1:13 ¿Está dividido Cristo? ¿Acaso fue Pablo crucificado por ustedes? ¿O fueron bautizados en el nombre de Pablo?
-1 Corinthians 1:14 Doy gracias a Dios que no bauticé a ninguno de ustedes, excepto a Crispo y a Gayo,
-1 Corinthians 1:15 para que nadie diga que fueron bautizados en mi nombre.
-1 Corinthians 1:16 También bauticé a los de la casa de Estéfanas; por lo demás, no sé si bauticé a algún otro.
-1 Corinthians 1:17 Pues Cristo no me envió a bautizar, sino a predicar el evangelio, no con palabras elocuentes, para que no se haga vana la cruz de Cristo.
-1 Corinthians 1:18 Porque la palabra de la cruz es necedad para los que se pierden, pero para nosotros los salvos es poder de Dios.
-1 Corinthians 1:19 Porque está escrito: «DESTRUIRÉ LA SABIDURÍA DE LOS SABIOS, Y EL ENTENDIMIENTO DE LOS INTELIGENTES DESECHARÉ».
-1 Corinthians 1:20 ¿Dónde está el sabio? ¿Dónde está el escriba? ¿Dónde está el que sabe discutir en este siglo? ¿No ha hecho Dios que la sabiduría de este mundo sea necedad?
-1 Corinthians 1:21 Pues ya que en la sabiduría de Dios, el mundo no conoció a Dios por medio de su propia sabiduría, agradó a Dios mediante la necedad de la predicación salvar a los que creen.
-1 Corinthians 1:22 Porque en verdad los judíos piden señales y los griegos buscan sabiduría;
-1 Corinthians 1:23 pero nosotros predicamos a Cristo crucificado, piedra de tropiezo para los judíos, y necedad para los gentiles.
-1 Corinthians 1:24 Sin embargo, para los llamados, tanto judíos como griegos, Cristo es poder de Dios y sabiduría de Dios.
-1 Corinthians 1:25 Porque la necedad de Dios es más sabia que los hombres, y la debilidad de Dios es más fuerte que los hombres.
-1 Corinthians 1:26 Pues consideren, hermanos, su llamamiento. No hubo muchos sabios conforme a la carne, ni muchos poderosos, ni muchos nobles.
-1 Corinthians 1:27 Sino que Dios ha escogido lo necio del mundo para avergonzar a los sabios; y Dios ha escogido lo débil del mundo para avergonzar a lo que es fuerte.
-1 Corinthians 1:28 También Dios ha escogido lo vil y despreciado del mundo: lo que no es, para anular lo que es,
-1 Corinthians 1:29 para que nadie se jacte delante de Dios.
-1 Corinthians 1:30 Pero por obra Suya están ustedes en Cristo Jesús, el cual se hizo para nosotros sabiduría de Dios, y justificación, santificación y redención,
-1 Corinthians 1:31 para que, tal como está escrito: «EL QUE SE GLORÍA, QUE SE GLORÍE EN EL SEÑOR».
-1 Corinthians 2:1 Por eso, cuando fui a ustedes, hermanos, proclamándoles el testimonio de Dios, no fui con superioridad de palabra o de sabiduría.
-1 Corinthians 2:2 Porque nada me propuse saber entre ustedes excepto a Jesucristo, y Este crucificado.
-1 Corinthians 2:3 Estuve entre ustedes con debilidad y con temor y mucho temblor,
-1 Corinthians 2:4 y mi mensaje y mi predicación no fueron con palabras persuasivas de sabiduría, sino con demostración del Espíritu y de poder,
-1 Corinthians 2:5 para que la fe de ustedes no descanse en la sabiduría de los hombres, sino en el poder de Dios.
-1 Corinthians 2:6 Sin embargo, hablamos sabiduría entre los que han alcanzado madurez; pero una sabiduría no de este siglo, ni de los gobernantes de este siglo, que van desapareciendo,
-1 Corinthians 2:7 sino que hablamos sabiduría de Dios en misterio, la sabiduría oculta que, desde antes de los siglos, Dios predestinó para nuestra gloria.
-1 Corinthians 2:8 Esta sabiduría que ninguno de los gobernantes de este siglo ha entendido, porque si la hubieran entendido no habrían crucificado al Señor de gloria;
-1 Corinthians 2:9 sino como está escrito: «COSAS QUE OJO NO VIO, NI OÍDO OYÓ, NI HAN ENTRADO AL CORAZÓN DEL HOMBRE, Son LAS COSAS QUE DIOS HA PREPARADO PARA LOS QUE LO AMAN».
-1 Corinthians 2:10 Pero Dios nos las reveló por medio del Espíritu, porque el Espíritu todo lo escudriña, aun las profundidades de Dios.
-1 Corinthians 2:11 Porque entre los hombres, ¿quién conoce los pensamientos de un hombre, sino el espíritu del hombre que está en él? Asimismo, nadie conoce los pensamientos de Dios, sino el Espíritu de Dios.
-1 Corinthians 2:12 Y nosotros hemos recibido, no el espíritu del mundo, sino el Espíritu que viene de Dios, para que conozcamos lo que Dios nos ha dado gratuitamente,
-1 Corinthians 2:13 de lo cual también hablamos, no con palabras enseñadas por sabiduría humana, sino con las enseñadas por el Espíritu, combinando pensamientos espirituales con palabras espirituales.
-1 Corinthians 2:14 Pero el hombre natural no acepta las cosas del Espíritu de Dios, porque para él son necedad; y no las puede entender, porque son cosas que se disciernen espiritualmente.
-1 Corinthians 2:15 En cambio, el que es espiritual juzga todas las cosas; pero él no es juzgado por nadie.
-1 Corinthians 2:16 Porque ¿QUIÉN HA CONOCIDO LA MENTE DEL SEÑOR, PARA QUE LO INSTRUYA? Pero nosotros tenemos la mente de Cristo.
-1 Corinthians 3:1 Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
-1 Corinthians 3:2 Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden,
-1 Corinthians 3:3 porque todavía son carnales. Pues habiendo celos y discusiones entre ustedes, ¿no son carnales y andan como hombres del mundo?
-1 Corinthians 3:4 Porque cuando uno dice: «Yo soy de Pablo», y otro: «Yo soy de Apolos», ¿no son como hombres del mundo?
-1 Corinthians 3:5 ¿Qué es, pues, Apolos? ¿Y qué es Pablo? Servidores mediante los cuales ustedes han creído, según el Señor dio oportunidad a cada uno.
-1 Corinthians 3:6 Yo planté, Apolos regó, pero Dios ha dado el crecimiento.
-1 Corinthians 3:7 Así que ni el que planta ni el que riega es algo, sino Dios, que da el crecimiento.
-1 Corinthians 3:8 Ahora bien, el que planta y el que riega son una misma cosa, pero cada uno recibirá su propia recompensa conforme a su propio trabajo.
-1 Corinthians 3:9 Porque nosotros somos colaboradores en la labor de Dios, y ustedes son el campo de cultivo de Dios, el edificio de Dios.
-1 Corinthians 3:10 Conforme a la gracia de Dios que me fue dada, yo, como sabio arquitecto, puse el fundamento, y otro edifica sobre él. Pero cada uno tenga cuidado cómo edifica encima.
-1 Corinthians 3:11 Pues nadie puede poner otro fundamento que el que ya está puesto, el cual es Jesucristo.
-1 Corinthians 3:12 Ahora bien, si sobre este fundamento alguien edifica con oro, plata, piedras preciosas, madera, heno, paja,
-1 Corinthians 3:13 la obra de cada uno se hará evidente; porque el día la dará a conocer, pues con fuego será revelada. El fuego mismo probará la calidad de la obra de cada uno.
-1 Corinthians 3:14 Si permanece la obra de alguien que ha edificado sobre el fundamento, recibirá recompensa.
-1 Corinthians 3:15 Si la obra de alguien es consumida por el fuego, sufrirá pérdida; sin embargo, él será salvo, aunque así como a través del fuego.
-1 Corinthians 3:16 ¿No saben que ustedes son templo de Dios y que el Espíritu de Dios habita en ustedes?
-1 Corinthians 3:17 Si alguno destruye el templo de Dios, Dios lo destruirá a él, porque el templo de Dios es santo, y eso es lo que ustedes son.
-1 Corinthians 3:18 Nadie se engañe a sí mismo. Si alguien de ustedes se cree sabio según este mundo, hágase necio a fin de llegar a ser sabio.
-1 Corinthians 3:19 Porque la sabiduría de este mundo es necedad ante Dios. Pues escrito está: «Él es EL QUE PRENDE A LOS SABIOS EN SU propia ASTUCIA».
-1 Corinthians 3:20 Y también: «EL SEÑOR CONOCE LOS RAZONAMIENTOS de los sabios, LOS CUALES SON INÚTILES».
-1 Corinthians 3:21 Así que nadie se jacte en los hombres, porque todo es de ustedes:
-1 Corinthians 3:22 ya sea Pablo, o Apolos, o Cefas, o el mundo, o la vida, o la muerte, o lo presente, o lo por venir, todo es suyo,
-1 Corinthians 3:23 y ustedes de Cristo, y Cristo de Dios.
-1 Corinthians 4:1 Que todo hombre nos considere de esta manera: como servidores de Cristo y administradores de los misterios de Dios.
-1 Corinthians 4:2 Ahora bien, lo que se requiere además de los administradores es que cada uno sea hallado fiel.
-1 Corinthians 4:3 En cuanto a mí, es de poca importancia que yo sea juzgado por ustedes o por cualquier tribunal humano. De hecho, ni aun yo me juzgo a mí mismo.
-1 Corinthians 4:4 Porque no estoy consciente de nada en contra mía. Pero no por eso estoy sin culpa, pues el que me juzga es el Señor.
-1 Corinthians 4:5 Por tanto, no juzguen antes de tiempo, sino esperen hasta que el Señor venga, el cual sacará a la luz las cosas ocultas en las tinieblas y también pondrá de manifiesto los designios de los corazones. Entonces cada uno recibirá de parte de Dios la alabanza que le corresponda.
-1 Corinthians 4:6 Esto, hermanos, lo he aplicado en sentido figurado a mí mismo y a Apolos por amor a ustedes, para que en nosotros aprendan a no sobrepasar lo que está escrito, para que ninguno de ustedes se vuelva arrogante a favor del uno contra el otro.
-1 Corinthians 4:7 Porque ¿quién te distingue? ¿Qué tienes que no recibiste? Y si lo recibiste, ¿por qué te jactas como si no lo hubieras recibido?
-1 Corinthians 4:8 Ya están saciados, ya se han hecho ricos, ya han llegado a reinar sin necesidad de nosotros. Ojalá hubieran llegado a reinar, para que nosotros reináramos también con ustedes.
-1 Corinthians 4:9 Porque pienso que Dios nos ha exhibido a nosotros los apóstoles en último lugar, como a sentenciados a muerte. Porque hemos llegado a ser un espectáculo para el mundo, tanto para los ángeles como para los hombres.
-1 Corinthians 4:10 Nosotros somos necios por amor de Cristo, pero ustedes, prudentes en Cristo. Nosotros somos débiles, pero ustedes, fuertes. Ustedes son distinguidos, pero nosotros, sin honra.
-1 Corinthians 4:11 Hasta el momento presente pasamos hambre y sed, andamos mal vestidos, somos maltratados y no tenemos dónde vivir.
-1 Corinthians 4:12 Nos agotamos trabajando con nuestras propias manos. Cuando nos ultrajan, bendecimos. Cuando somos perseguidos, lo soportamos.
-1 Corinthians 4:13 Cuando hablan mal de nosotros, tratamos de reconciliar. Hemos llegado a ser, hasta ahora, la basura del mundo, el desecho de todo.
-1 Corinthians 4:14 No les escribo esto para avergonzarlos, sino para amonestarlos como a hijos míos amados.
-1 Corinthians 4:15 Porque aunque ustedes tengan innumerables maestros en Cristo, sin embargo no tienen muchos padres; pues en Cristo Jesús yo los engendré por medio del evangelio.
-1 Corinthians 4:16 Por tanto, los exhorto: sean imitadores míos.
-1 Corinthians 4:17 Por esta razón les he enviado a Timoteo, que es mi hijo amado y fiel en el Señor. Él les recordará mis caminos, los caminos en Cristo, tal como yo enseño en todas partes, en cada iglesia.
-1 Corinthians 4:18 Algunos de ustedes se han vuelto arrogantes, como si yo no hubiera de ir a verlos.
-1 Corinthians 4:19 Pero iré a verlos pronto, si el Señor quiere, y conoceré, no las palabras de los arrogantes sino el poder que tienen.
-1 Corinthians 4:20 Porque el reino de Dios no consiste en palabras, sino en poder.
-1 Corinthians 4:21 ¿Qué quieren? ¿Iré a ustedes con vara, o con amor y espíritu de mansedumbre?
-1 Corinthians 5:1 En efecto, se oye que entre ustedes hay inmoralidad, y una inmoralidad tal como no existe ni siquiera entre los gentiles, al extremo de que alguien tiene la mujer de su padre.
-1 Corinthians 5:2 ¡Y ustedes se han vuelto arrogantes en lugar de haberse entristecido, para que el que de entre ustedes ha cometido esta acción fuera expulsado de en medio de ustedes!
-1 Corinthians 5:3 Pues yo, por mi parte, aunque ausente en cuerpo pero presente en espíritu, como si estuviera presente, ya he juzgado al que cometió tal acción.
-1 Corinthians 5:4 En el nombre de nuestro Señor Jesús, cuando estén reunidos, y yo con ustedes en espíritu, con el poder de nuestro Señor Jesús,
-1 Corinthians 5:5 entreguen a ese tal a Satanás para la destrucción de su carne, a fin de que su espíritu sea salvo en el día del Señor Jesús.
-1 Corinthians 5:6 La jactancia de ustedes no es buena. ¿No saben que un poco de levadura fermenta toda la masa?
-1 Corinthians 5:7 Limpien la levadura vieja para que sean masa nueva, así como lo son en realidad sin levadura. Porque aun Cristo, nuestra Pascua, ha sido sacrificado.
-1 Corinthians 5:8 Por tanto, celebremos la fiesta no con la levadura vieja, ni con la levadura de malicia y maldad, sino con panes sin levadura de sinceridad y de verdad.
-1 Corinthians 5:9 En mi carta les escribí que no anduvieran en compañía de personas inmorales.
-1 Corinthians 5:10 No me refería a la gente inmoral de este mundo, o a los codiciosos y estafadores, o a los idólatras, porque entonces tendrían ustedes que salirse del mundo.
-1 Corinthians 5:11 Sino que en efecto les escribí que no anduvieran en compañía de ninguno que, llamándose hermano, es una persona inmoral, o avaro, o idólatra, o difamador, o borracho, o estafador. Con esa persona, ni siquiera coman.
-1 Corinthians 5:12 Pues ¿por qué he de juzgar yo a los de afuera? ¿No juzgan ustedes a los que están dentro de la iglesia?
-1 Corinthians 5:13 Pero Dios juzga a los que están fuera. EXPULSEN AL MALVADO DE ENTRE USTEDES.
-1 Corinthians 6:1 ¿Se atreve alguno de ustedes, cuando tiene algo contra su prójimo, a ir a juicio ante los incrédulos y no ante los santos?
-1 Corinthians 6:2 ¿O no saben que los santos han de juzgar al mundo? Y si el mundo es juzgado por ustedes, ¿no son competentes para juzgar los casos más sencillos?
-1 Corinthians 6:3 ¿No saben que hemos de juzgar a los ángeles? ¡Cuánto más asuntos de esta vida!
-1 Corinthians 6:4 Entonces, si tienen tribunales que juzgan los casos de esta vida, ¿por qué ponen por jueces a los que nada son en la iglesia?
-1 Corinthians 6:5 Para vergüenza suya lo digo. ¿Acaso no hay entre ustedes algún hombre sabio que pueda juzgar entre sus hermanos,
-1 Corinthians 6:6 sino que hermano contra hermano litiga, y esto ante incrédulos?
-1 Corinthians 6:7 Así que, en efecto, es ya un fallo entre ustedes el hecho de que tengan litigios entre sí. ¿Por qué no sufren mejor la injusticia? ¿Por qué no ser mejor defraudados?
-1 Corinthians 6:8 Por el contrario, ustedes mismos cometen injusticias y defraudan, y esto aun a sus propios hermanos.
-1 Corinthians 6:9 ¿O no saben que los injustos no heredarán el reino de Dios? No se dejen engañar: ni los inmorales, ni los idólatras, ni los adúlteros, ni los afeminados, ni los homosexuales,
-1 Corinthians 6:10 ni los ladrones, ni los avaros, ni los borrachos, ni los difamadores, ni los estafadores heredarán el reino de Dios.
-1 Corinthians 6:11 Y esto eran algunos de ustedes; pero fueron lavados, pero fueron santificados, pero fueron justificados en el nombre del Señor Jesucristo y en el Espíritu de nuestro Dios.
-1 Corinthians 6:12 Todas las cosas me son lícitas, pero no todas son de provecho. Todas las cosas me son lícitas, pero yo no me dejaré dominar por ninguna.
-1 Corinthians 6:13 Los alimentos son para el estómago y el estómago para los alimentos, pero Dios destruirá a los dos. Sin embargo, el cuerpo no es para la fornicación, sino para el Señor, y el Señor es para el cuerpo.
-1 Corinthians 6:14 Y Dios, que resucitó al Señor, también nos resucitará a nosotros mediante Su poder.
-1 Corinthians 6:15 ¿No saben que sus cuerpos son miembros de Cristo? ¿Tomaré, acaso, los miembros de Cristo y los haré miembros de una ramera? ¡De ningún modo!
-1 Corinthians 6:16 ¿O no saben que el que se une a una ramera es un cuerpo con ella? Porque Él dice: «LOS DOS VENDRÁN A SER UNA SOLA CARNE».
-1 Corinthians 6:17 Pero el que se une al Señor, es un espíritu con Él.
-1 Corinthians 6:18 Huyan de la fornicación. Todos los demás pecados que un hombre comete están fuera del cuerpo, pero el fornicario peca contra su propio cuerpo.
-1 Corinthians 6:19 ¿O no saben que su cuerpo es templo del Espíritu Santo que está en ustedes, el cual tienen de Dios, y que ustedes no se pertenecen a sí mismos?
-1 Corinthians 6:20 Porque han sido comprados por un precio. Por tanto, glorifiquen a Dios en su cuerpo y en su espíritu, los cuales son de Dios.
-1 Corinthians 7:1 En cuanto a las cosas de que me escribieron, bueno es para el hombre no tocar mujer.
-1 Corinthians 7:2 No obstante, por razón de las inmoralidades, que cada uno tenga su propia mujer, y cada una tenga su propio marido.
-1 Corinthians 7:3 Que el marido cumpla su deber para con su mujer, e igualmente la mujer lo cumpla con el marido.
-1 Corinthians 7:4 La mujer no tiene autoridad sobre su propio cuerpo, sino el marido. Y asimismo el marido no tiene autoridad sobre su propio cuerpo, sino la mujer.
-1 Corinthians 7:5 No se priven el uno del otro, excepto de común acuerdo y por cierto tiempo, para dedicarse a la oración. Vuelvan después a juntarse, a fin de que Satanás no los tiente por causa de falta de dominio propio.
-1 Corinthians 7:6 Pero esto lo digo por vía de concesión, no como una orden.
-1 Corinthians 7:7 Sin embargo, yo desearía que todos los hombres fueran como yo. No obstante, cada cual ha recibido de Dios su propio don, unos de una manera y otros de otra.
-1 Corinthians 7:8 A los solteros y a las viudas digo que es bueno para ellos si se quedan como yo.
-1 Corinthians 7:9 Pero si carecen de dominio propio, cásense. Que mejor es casarse que quemarse.
-1 Corinthians 7:10 A los casados instruyo, no yo, sino el Señor: que la mujer no debe dejar al marido.
-1 Corinthians 7:11 Pero si lo deja, quédese sin casar, o de lo contrario que se reconcilie con su marido, y que el marido no abandone a su mujer.
-1 Corinthians 7:12 Pero a los demás digo yo, no el Señor, que si un hermano tiene una mujer que no es creyente, y ella consiente en vivir con él, no la abandone.
-1 Corinthians 7:13 Y la mujer cuyo marido no es creyente, y él consiente en vivir con ella, no abandone a su marido.
-1 Corinthians 7:14 Porque el marido que no es creyente es santificado por medio de su mujer; y la mujer que no es creyente es santificada por medio de su marido creyente. De otra manera sus hijos serían inmundos, pero ahora son santos.
-1 Corinthians 7:15 Sin embargo, si el que no es creyente se separa, que se separe. En tales casos el hermano o la hermana no están obligados, sino que Dios nos ha llamado para vivir en paz.
-1 Corinthians 7:16 Pues ¿cómo sabes tú, mujer, si salvarás a tu marido? ¿O cómo sabes tú, marido, si salvarás a tu mujer?
-1 Corinthians 7:17 Fuera de esto, según el Señor ha asignado a cada uno, según Dios llamó a cada cual, así ande. Esto ordeno en todas las iglesias.
-1 Corinthians 7:18 ¿Fue llamado alguno ya circuncidado? Quédese circuncidado. ¿Fue llamado alguien estando incircuncidado? No se circuncide.
-1 Corinthians 7:19 La circuncisión nada es, y nada es la incircuncisión, sino el guardar los mandamientos de Dios.
-1 Corinthians 7:20 Cada uno permanezca en la condición en que fue llamado.
-1 Corinthians 7:21 ¿Fuiste llamado siendo esclavo? No te preocupes. Aunque si puedes obtener tu libertad, prefiérelo.
-1 Corinthians 7:22 Porque el que fue llamado por el Señor siendo esclavo, hombre libre es del Señor. De la misma manera, el que fue llamado siendo libre, esclavo es de Cristo.
-1 Corinthians 7:23 Ustedes fueron comprados por precio. No se hagan esclavos de los hombres.
-1 Corinthians 7:24 Hermanos, cada uno permanezca con Dios en la condición en que fue llamado.
-1 Corinthians 7:25 En cuanto a las vírgenes no tengo mandamiento del Señor, pero doy mi opinión como el que habiendo recibido la misericordia del Señor es digno de confianza.
-1 Corinthians 7:26 Creo, pues, que esto es bueno en vista de la presente aflicción; es decir, que es bueno que el hombre se quede como está.
-1 Corinthians 7:27 ¿Estás unido a mujer? No procures separarte. ¿Estás libre de mujer? No busques mujer.
-1 Corinthians 7:28 Y si te casas, no has pecado; y si una virgen se casa, no ha pecado. Sin embargo, ellos tendrán problemas en esta vida, y yo quiero evitárselos.
-1 Corinthians 7:29 Pero esto digo, hermanos: el tiempo ha sido acortado; de modo que de ahora en adelante los que tienen mujer sean como si no la tuvieran;
-1 Corinthians 7:30 los que lloran, como si no lloraran; los que se regocijan, como si no se regocijaran; los que compran, como si no tuvieran nada;
-1 Corinthians 7:31 los que aprovechan el mundo, como si no lo aprovecharan plenamente; porque la apariencia de este mundo es pasajera.
-1 Corinthians 7:32 Sin embargo, quiero que estén libres de preocupación. El soltero se preocupa por las cosas del Señor, cómo puede agradar al Señor.
-1 Corinthians 7:33 Pero el casado se preocupa por las cosas del mundo, de cómo agradar a su mujer,
-1 Corinthians 7:34 y sus intereses están divididos. La mujer que no está casada y la virgen se preocupan por las cosas del Señor, para ser santas tanto en cuerpo como en espíritu; pero la casada se preocupa por las cosas del mundo, de cómo agradar a su marido.
-1 Corinthians 7:35 Esto digo para su propio beneficio; no para ponerles restricción, sino para promover lo que es honesto y para asegurar su constante devoción al Señor.
-1 Corinthians 7:36 Y si alguien cree que no está obrando correctamente con respecto a su hija virgen, si ella es de edad madura, y si es necesario que así se haga, que haga lo que quiera, no peca; que se case.
-1 Corinthians 7:37 Pero el que está firme en su corazón, y sin presión alguna, y tiene control sobre su propia voluntad, y ha decidido en su corazón conservar virgen a su hija, bien hará.
-1 Corinthians 7:38 Así los dos, el que da en matrimonio a su hija virgen, hace bien; y el que no la da en matrimonio, hace mejor.
-1 Corinthians 7:39 La mujer está ligada mientras el marido vive; pero si el marido muere, está en libertad de casarse con quien desee, solo que sea en el Señor.
-1 Corinthians 7:40 Pero en mi opinión, será más feliz si se queda como está. Y creo que yo también tengo el Espíritu de Dios.
-1 Corinthians 8:1 En cuanto a lo sacrificado a los ídolos, sabemos que todos tenemos conocimiento. El conocimiento envanece, pero el amor edifica.
-1 Corinthians 8:2 Si alguien cree que sabe algo, no ha aprendido todavía como debe saber;
-1 Corinthians 8:3 pero si alguien ama a Dios, ese es conocido por Él.
-1 Corinthians 8:4 Por tanto, en cuanto a comer de lo sacrificado a los ídolos, sabemos que un ídolo no es nada en el mundo, y que no hay sino un solo Dios.
-1 Corinthians 8:5 Porque aunque haya algunos llamados dioses, ya sea en el cielo o en la tierra, como por cierto hay muchos dioses y muchos señores,
-1 Corinthians 8:6 pero para nosotros hay un solo Dios, el Padre, de quien proceden todas las cosas y nosotros somos para Él; y un solo Señor, Jesucristo, por quien son todas las cosas y por medio de Él existimos nosotros.
-1 Corinthians 8:7 Sin embargo, no todos tienen este conocimiento. Porque algunos, estando acostumbrados al ídolo hasta ahora, comen alimento como si este fuera sacrificado a un ídolo, y su conciencia, siendo débil, se mancha.
-1 Corinthians 8:8 Pero la comida no nos recomendará a Dios, pues ni somos menos si no comemos, ni somos más si comemos.
-1 Corinthians 8:9 Pero tengan cuidado, no sea que esta libertad de ustedes de alguna manera se convierta en piedra de tropiezo para el débil.
-1 Corinthians 8:10 Porque si alguien te ve a ti, que tienes conocimiento, sentado a la mesa en un templo de ídolos, ¿no será estimulada su conciencia, si él es débil, a comer lo sacrificado a los ídolos?
-1 Corinthians 8:11 Por tu conocimiento se perderá el que es débil, el hermano por quien Cristo murió.
-1 Corinthians 8:12 Y así, al pecar contra los hermanos y herir su conciencia cuando esta es débil, pecan contra Cristo.
-1 Corinthians 8:13 Por tanto, si la comida hace que mi hermano caiga en pecado, no comeré carne jamás, para no hacer pecar a mi hermano.
-1 Corinthians 9:1 ¿No soy libre? ¿No soy apóstol? ¿No he visto a Jesús nuestro Señor? ¿No son ustedes mi obra en el Señor?
-1 Corinthians 9:2 Si para otros no soy apóstol, por lo menos para ustedes sí lo soy; pues ustedes son el sello de mi apostolado en el Señor.
-1 Corinthians 9:3 Mi defensa contra los que me examinan es esta:
-1 Corinthians 9:4 ¿Acaso no tenemos derecho a comer y beber?
-1 Corinthians 9:5 ¿No tenemos derecho a llevar con nosotros una esposa creyente, así como los demás apóstoles y los hermanos del Señor y Cefas?
-1 Corinthians 9:6 ¿O acaso solo Bernabé y yo no tenemos el derecho a no trabajar?
-1 Corinthians 9:7 ¿Quién ha servido alguna vez como soldado a sus propias expensas? ¿Quién planta una viña y no come de su fruto? ¿O quién cuida un rebaño y no bebe de la leche del rebaño?
-1 Corinthians 9:8 ¿Acaso digo esto según el juicio humano? ¿No dice también la ley esto mismo?
-1 Corinthians 9:9 Pues en la ley de Moisés está escrito: «NO PONDRÁS BOZAL AL BUEY CUANDO TRILLA». ¿Acaso le preocupan a Dios los bueyes?
-1 Corinthians 9:10 ¿O lo dice especialmente por nosotros? Sí, se escribió por nosotros, porque el que ara debe arar con esperanza, y el que trilla debe trillar con la esperanza de recibir de la cosecha.
-1 Corinthians 9:11 Si en ustedes sembramos lo espiritual, ¿será demasiado que de ustedes cosechemos lo material?
-1 Corinthians 9:12 Si otros tienen este derecho sobre ustedes, ¿no lo tenemos aún más nosotros? Sin embargo, no hemos usado este derecho, sino que sufrimos todo para no causar estorbo al evangelio de Cristo.
-1 Corinthians 9:13 ¿No saben que los que desempeñan los servicios sagrados comen la comida del templo, y los que regularmente sirven al altar, del altar reciben su parte?
-1 Corinthians 9:14 Así también ordenó el Señor que los que proclaman el evangelio, vivan del evangelio.
-1 Corinthians 9:15 Pero yo de nada de esto me he aprovechado. Y no escribo esto para que así se haga conmigo. Porque mejor me fuera morir, que permitir que alguien me prive de esta gloria.
-1 Corinthians 9:16 Porque si predico el evangelio, no tengo nada de qué gloriarme, pues estoy bajo el deber de hacerlo. Pues ¡ay de mí si no predico el evangelio!
-1 Corinthians 9:17 Porque si hago esto voluntariamente, tengo recompensa; pero si lo hago en contra de mi voluntad, un encargo se me ha confiado.
-1 Corinthians 9:18 ¿Cuál es, entonces, mi recompensa? Que al predicar el evangelio, pueda ofrecerlo gratuitamente sin hacer pleno uso de mi derecho como predicador del evangelio.
-1 Corinthians 9:19 Porque aunque soy libre de todos, de todos me he hecho esclavo para ganar al mayor número posible.
-1 Corinthians 9:20 A los judíos me hice como judío, para poder ganar a los judíos. A los que están bajo la ley, como bajo la ley, aunque yo no estoy bajo la ley, para poder ganar a los que están bajo la ley.
-1 Corinthians 9:21 A los que están sin ley, como sin ley, aunque no estoy sin la ley de Dios, sino bajo la ley de Cristo, para poder ganar a los que están sin ley.
-1 Corinthians 9:22 A los débiles me hice débil, para ganar a los débiles. A todos me he hecho todo, para que por todos los medios salve a algunos.
-1 Corinthians 9:23 Y todo lo hago por amor del evangelio, para ser partícipe de él.
-1 Corinthians 9:24 ¿No saben que los que corren en el estadio, todos en verdad corren, pero solo uno obtiene el premio? Corran de tal modo que ganen.
-1 Corinthians 9:25 Y todo el que compite en los juegos se abstiene de todo. Ellos lo hacen para recibir una corona corruptible, pero nosotros, una incorruptible.
-1 Corinthians 9:26 Por tanto, yo de esta manera corro, no como sin tener meta; de esta manera peleo, no como dando golpes al aire,
-1 Corinthians 9:27 sino que golpeo mi cuerpo y lo hago mi esclavo, no sea que habiendo predicado a otros, yo mismo sea descalificado.
-1 Corinthians 10:1 Porque no quiero que ignoren, hermanos, que todos nuestros padres estuvieron bajo la nube y todos pasaron por el mar.
-1 Corinthians 10:2 En Moisés todos fueron bautizados en la nube y en el mar.
-1 Corinthians 10:3 Todos comieron el mismo alimento espiritual,
-1 Corinthians 10:4 y todos bebieron la misma bebida espiritual, porque bebían de una roca espiritual que los seguía. La roca era Cristo.
-1 Corinthians 10:5 Sin embargo, Dios no se agradó de la mayor parte de ellos, y por eso quedaron tendidos en el desierto.
-1 Corinthians 10:6 Estas cosas sucedieron como ejemplo para nosotros, a fin de que no codiciemos lo malo, como ellos lo codiciaron.
-1 Corinthians 10:7 No sean, pues, idólatras, como fueron algunos de ellos, según está escrito: «EL PUEBLO SE SENTÓ A COMER Y A BEBER, Y SE LEVANTÓ A JUGAR».
-1 Corinthians 10:8 Ni forniquemos, como algunos de ellos fornicaron, y en un día cayeron veintitrés mil.
-1 Corinthians 10:9 Ni provoquemos al Señor, como algunos de ellos lo provocaron, y fueron destruidos por las serpientes.
-1 Corinthians 10:10 Ni murmuren, como algunos de ellos murmuraron, y fueron destruidos por el destructor.
-1 Corinthians 10:11 Estas cosas les sucedieron como ejemplo, y fueron escritas como enseñanza para nosotros, para quienes ha llegado el fin de los siglos.
-1 Corinthians 10:12 Por tanto, el que cree que está firme, tenga cuidado, no sea que caiga.
-1 Corinthians 10:13 No les ha sobrevenido ninguna tentación que no sea común a los hombres. Fiel es Dios, que no permitirá que ustedes sean tentados más allá de lo que pueden soportar, sino que con la tentación proveerá también la vía de escape, a fin de que puedan resistirla.
-1 Corinthians 10:14 Por tanto, amados míos, huyan de la idolatría.
-1 Corinthians 10:15 Les hablo como a sabios; juzguen ustedes lo que digo.
-1 Corinthians 10:16 La copa de bendición que bendecimos, ¿no es la participación en la sangre de Cristo? El pan que partimos, ¿no es la participación en el cuerpo de Cristo?
-1 Corinthians 10:17 Puesto que el pan es uno, nosotros, que somos muchos, somos un cuerpo; porque todos participamos de aquel mismo pan.
-1 Corinthians 10:18 Consideren al pueblo de Israel: los que comen los sacrificios, ¿no participan del altar?
-1 Corinthians 10:19 ¿Qué quiero decir, entonces? ¿Que lo sacrificado a los ídolos es algo, o que un ídolo es algo?
-1 Corinthians 10:20 No, sino que digo que lo que los gentiles sacrifican, lo sacrifican a los demonios y no a Dios; no quiero que ustedes sean partícipes con los demonios.
-1 Corinthians 10:21 Ustedes no pueden beber la copa del Señor y la copa de los demonios; no pueden participar de la mesa del Señor y de la mesa de los demonios.
-1 Corinthians 10:22 ¿O provocaremos a celos al Señor? ¿Somos, acaso, más fuertes que Él?
-1 Corinthians 10:23 Todo es lícito, pero no todo es de provecho. Todo es lícito, pero no todo edifica.
-1 Corinthians 10:24 Nadie busque su propio bien, sino el de su prójimo.
-1 Corinthians 10:25 Coman de todo lo que se vende en la carnicería sin preguntar nada por motivos de conciencia,
-1 Corinthians 10:26 PORQUE DEL SEÑOR ES LA TIERRA Y TODO LO QUE EN ELLA HAY.
-1 Corinthians 10:27 Si algún incrédulo los invita y quieren ir, coman de todo lo que se les ponga delante sin preguntar nada por motivos de conciencia.
-1 Corinthians 10:28 Pero si alguien les dice: «Esto ha sido sacrificado a los ídolos», no lo coman, por causa del que se lo dijo, y por motivos de conciencia, PORQUE DEL SEÑOR ES LA TIERRA Y TODO LO QUE EN ELLA HAY.
-1 Corinthians 10:29 Quiero decir, no la conciencia de ustedes, sino la del otro. Pues ¿por qué ha de ser juzgada mi libertad por la conciencia ajena?
-1 Corinthians 10:30 Si participo con agradecimiento, ¿por qué he de ser censurado a causa de aquello por lo cual doy gracias?
-1 Corinthians 10:31 Entonces, ya sea que coman, que beban, o que hagan cualquier otra cosa, háganlo todo para la gloria de Dios.
-1 Corinthians 10:32 No sean motivo de tropiezo ni a judíos, ni a griegos, ni a la iglesia de Dios;
-1 Corinthians 10:33 así como también yo procuro agradar a todos en todo, no buscando mi propio beneficio, sino el de muchos, para que sean salvos.
-1 Corinthians 11:1 Sean imitadores de mí, como también yo lo soy de Cristo.
-1 Corinthians 11:2 Los alabo porque en todo se acuerdan de mí y guardan las tradiciones con firmeza, tal como yo se las entregué.
-1 Corinthians 11:3 Pero quiero que sepan que la cabeza de todo hombre es Cristo, y la cabeza de la mujer es el hombre, y la cabeza de Cristo es Dios.
-1 Corinthians 11:4 Todo hombre que cubre su cabeza mientras ora o profetiza, deshonra su cabeza.
-1 Corinthians 11:5 Pero toda mujer que tiene la cabeza descubierta mientras ora o profetiza, deshonra su cabeza, porque se hace una con la que está rapada.
-1 Corinthians 11:6 Porque si la mujer no se cubre la cabeza, que también se corte el cabello; pero si es deshonroso para la mujer cortarse el cabello, o raparse, que se cubra.
-1 Corinthians 11:7 Pues el hombre no debe cubrirse la cabeza, ya que él es la imagen y gloria de Dios, pero la mujer es la gloria del hombre.
-1 Corinthians 11:8 Porque el hombre no procede de la mujer, sino la mujer del hombre.
-1 Corinthians 11:9 En verdad el hombre no fue creado a causa de la mujer, sino la mujer a causa del hombre.
-1 Corinthians 11:10 Por tanto, la mujer debe tener un símbolo de autoridad sobre la cabeza, por causa de los ángeles.
-1 Corinthians 11:11 Sin embargo, en el Señor, ni la mujer es independiente del hombre, ni el hombre independiente de la mujer.
-1 Corinthians 11:12 Porque así como la mujer procede del hombre, también el hombre nace de la mujer; y todas las cosas proceden de Dios.
-1 Corinthians 11:13 Juzguen ustedes mismos: ¿es propio que la mujer ore a Dios con la cabeza descubierta?
-1 Corinthians 11:14 ¿No les enseña la misma naturaleza que si el hombre tiene el cabello largo le es deshonra,
-1 Corinthians 11:15 pero que si la mujer tiene el cabello largo le es una gloria? Pues a ella el cabello le es dado por velo.
-1 Corinthians 11:16 Pero si alguien parece ser contencioso, nosotros no tenemos tal costumbre, ni la tienen las iglesias de Dios.
-1 Corinthians 11:17 Pero al darles estas instrucciones, no los alabo, porque no se congregan para lo bueno, sino para lo malo.
-1 Corinthians 11:18 Pues, en primer lugar, oigo que cuando se reúnen como iglesia hay divisiones entre ustedes, y en parte lo creo.
-1 Corinthians 11:19 Porque es necesario que entre ustedes haya bandos, a fin de que se manifiesten entre ustedes los que son aprobados.
-1 Corinthians 11:20 Por tanto, cuando se reúnen, esto ya no es comer la Cena del Señor.
-1 Corinthians 11:21 Porque al comer, cada uno toma primero su propia cena, y uno pasa hambre y otro se embriaga.
-1 Corinthians 11:22 ¿Qué? ¿No tienen casas para comer y beber? ¿O desprecian la iglesia de Dios y avergüenzan a los que nada tienen? ¿Qué les diré? ¿Los alabaré? En esto no los alabaré.
-1 Corinthians 11:23 Porque yo recibí del Señor lo mismo que les he enseñado: que el Señor Jesús, la noche en que fue entregado, tomó pan,
-1 Corinthians 11:24 y después de dar gracias, lo partió y dijo: «Esto es Mi cuerpo que es para ustedes; hagan esto en memoria de Mí».
-1 Corinthians 11:25 De la misma manera tomó también la copa después de haber cenado, diciendo: «Esta copa es el nuevo pacto en Mi sangre; hagan esto cuantas veces la beban en memoria de Mí».
-1 Corinthians 11:26 Porque todas las veces que coman este pan y beban esta copa, proclaman la muerte del Señor hasta que Él venga.
-1 Corinthians 11:27 De manera que el que coma el pan o beba la copa del Señor indignamente, será culpable del cuerpo y de la sangre del Señor.
-1 Corinthians 11:28 Por tanto, examínese cada uno a sí mismo, y entonces coma del pan y beba de la copa.
-1 Corinthians 11:29 Porque el que come y bebe sin discernir correctamente el cuerpo del Señor, come y bebe juicio para sí.
-1 Corinthians 11:30 Por esta razón hay muchos débiles y enfermos entre ustedes, y muchos duermen.
-1 Corinthians 11:31 Pero si nos juzgáramos a nosotros mismos, no seríamos juzgados.
-1 Corinthians 11:32 Pero cuando somos juzgados, el Señor nos disciplina para que no seamos condenados con el mundo.
-1 Corinthians 11:33 Así que, hermanos míos, cuando se reúnan para comer, espérense unos a otros.
-1 Corinthians 11:34 Si alguien tiene hambre, coma en su casa, para que no se reúnan para juicio. Los demás asuntos los arreglaré cuando vaya.
-1 Corinthians 12:1 En cuanto a los dones espirituales, no quiero, hermanos, que sean ignorantes.
-1 Corinthians 12:2 Ustedes saben que cuando eran paganos, de una manera u otra eran arrastrados hacia los ídolos mudos.
-1 Corinthians 12:3 Por tanto, les hago saber que nadie hablando por el Espíritu de Dios, dice: «Jesús es anatema»; y nadie puede decir: «Jesús es el Señor», excepto por el Espíritu Santo.
-1 Corinthians 12:4 Ahora bien, hay diversidad de dones, pero el Espíritu es el mismo.
-1 Corinthians 12:5 Hay diversidad de ministerios, pero el Señor es el mismo.
-1 Corinthians 12:6 Y hay diversidad de operaciones, pero es el mismo Dios el que hace todas las cosas en todos.
-1 Corinthians 12:7 Pero a cada uno se le da la manifestación del Espíritu para el bien común.
-1 Corinthians 12:8 Pues a uno le es dada palabra de sabiduría por el Espíritu; a otro, palabra de conocimiento según el mismo Espíritu;
-1 Corinthians 12:9 a otro, fe por el mismo Espíritu; a otro, dones de sanidad por el único Espíritu;
-1 Corinthians 12:10 a otro, poder de milagros; a otro, profecía; a otro, discernimiento de espíritus; a otro, diversas clases de lenguas, y a otro, interpretación de lenguas.
-1 Corinthians 12:11 Pero todas estas cosas las hace uno y el mismo Espíritu, distribuyendo individualmente a cada uno según Su voluntad.
-1 Corinthians 12:12 Porque así como el cuerpo es uno, y tiene muchos miembros, pero, todos los miembros del cuerpo, aunque son muchos, constituyen un solo cuerpo, así también es Cristo.
-1 Corinthians 12:13 Pues por un mismo Espíritu todos fuimos bautizados en un solo cuerpo, ya judíos o griegos, ya esclavos o libres. A todos se nos dio a beber del mismo Espíritu.
-1 Corinthians 12:14 Porque el cuerpo no es un solo miembro, sino muchos.
-1 Corinthians 12:15 Si el pie dijera: «Porque no soy mano, no soy parte del cuerpo», no por eso deja de ser parte del cuerpo.
-1 Corinthians 12:16 Y si el oído dijera: «Porque no soy ojo, no soy parte del cuerpo», no por eso deja de ser parte del cuerpo.
-1 Corinthians 12:17 Si todo el cuerpo fuera ojo, ¿qué sería del oído? Si todo fuera oído, ¿qué sería del olfato?
-1 Corinthians 12:18 Ahora bien, Dios ha colocado a cada uno de los miembros en el cuerpo según le agradó.
-1 Corinthians 12:19 Y si todos fueran un solo miembro, ¿qué sería del cuerpo?
-1 Corinthians 12:20 Sin embargo, hay muchos miembros, pero un solo cuerpo.
-1 Corinthians 12:21 Y el ojo no puede decirle a la mano: «No te necesito»; ni tampoco la cabeza a los pies: «No los necesito».
-1 Corinthians 12:22 Por el contrario, la verdad es que los miembros del cuerpo que parecen ser los más débiles, son los más necesarios;
-1 Corinthians 12:23 y las partes del cuerpo que estimamos menos honrosas, a estas las vestimos con más honra. Así que las partes que consideramos más íntimas, reciben un trato más honroso,
-1 Corinthians 12:24 ya que nuestras partes presentables no lo necesitan. Pero así formó Dios el cuerpo, dando mayor honra a la parte que carecía de ella,
-1 Corinthians 12:25 a fin de que en el cuerpo no haya división, sino que los miembros tengan el mismo cuidado unos por otros.
-1 Corinthians 12:26 Si un miembro sufre, todos los miembros sufren con él; y si un miembro es honrado, todos los miembros se regocijan con él.
-1 Corinthians 12:27 Ahora bien, ustedes son el cuerpo de Cristo, y cada uno individualmente un miembro de él.
-1 Corinthians 12:28 Y en la iglesia, Dios ha designado primeramente, apóstoles; en segundo lugar, profetas; en tercer lugar, maestros; luego, milagros; después, dones de sanidad, ayudas, administraciones, diversas clases de lenguas.
-1 Corinthians 12:29 ¿Acaso son todos apóstoles? ¿Acaso son todos profetas? ¿Acaso son todos maestros? ¿Acaso son todos obradores de milagros?
-1 Corinthians 12:30 ¿Acaso tienen todos dones de sanidad? ¿Acaso hablan todos en lenguas? ¿Acaso interpretan todos?
-1 Corinthians 12:31 Pero deseen ardientemente los mejores dones. Y aun yo les muestro un camino más excelente.
-1 Corinthians 13:1 Si yo hablara lenguas humanas y angélicas, pero no tengo amor, he llegado a ser como metal que resuena o címbalo que retiñe.
-1 Corinthians 13:2 Y si tuviera el don de profecía, y entendiera todos los misterios y todo conocimiento, y si tuviera toda la fe como para trasladar montañas, pero no tengo amor, nada soy.
-1 Corinthians 13:3 Y si diera todos mis bienes para dar de comer a los pobres, y si entregara mi cuerpo para ser quemado, pero no tengo amor, de nada me aprovecha.
-1 Corinthians 13:4 El amor es paciente, es bondadoso. El amor no tiene envidia; el amor no es jactancioso, no es arrogante.
-1 Corinthians 13:5 No se porta indecorosamente; no busca lo suyo, no se irrita, no toma en cuenta el mal recibido.
-1 Corinthians 13:6 El amor no se regocija de la injusticia, sino que se alegra con la verdad.
-1 Corinthians 13:7 Todo lo sufre, todo lo cree, todo lo espera, todo lo soporta.
-1 Corinthians 13:8 El amor nunca deja de ser. Pero si hay dones de profecía, se acabarán; si hay lenguas, cesarán; si hay conocimiento, se acabará.
-1 Corinthians 13:9 Porque en parte conocemos, y en parte profetizamos;
-1 Corinthians 13:10 pero cuando venga lo perfecto, lo incompleto se acabará.
-1 Corinthians 13:11 Cuando yo era niño, hablaba como niño, pensaba como niño, razonaba como niño; pero cuando llegué a ser hombre, dejé las cosas de niño.
-1 Corinthians 13:12 Porque ahora vemos por un espejo, veladamente, pero entonces veremos cara a cara. Ahora conozco en parte, pero entonces conoceré plenamente, como he sido conocido.
-1 Corinthians 13:13 Y ahora permanecen la fe, la esperanza, el amor: estos tres; pero el mayor de ellos es el amor.
-1 Corinthians 14:1 Procuren alcanzar el amor; pero también deseen ardientemente los dones espirituales, sobre todo que profeticen.
-1 Corinthians 14:2 Porque el que habla en lenguas no habla a los hombres, sino a Dios, pues nadie lo entiende, sino que en su espíritu habla misterios.
-1 Corinthians 14:3 Pero el que profetiza habla a los hombres para edificación, exhortación y consolación.
-1 Corinthians 14:4 El que habla en lenguas, a sí mismo se edifica, pero el que profetiza edifica a la iglesia.
-1 Corinthians 14:5 Yo quisiera que todos hablaran en lenguas, pero aún más, que profetizaran. Porque el que profetiza es superior al que habla en lenguas, a menos de que las interprete para que la iglesia reciba edificación.
-1 Corinthians 14:6 Ahora bien, hermanos, si yo voy a ustedes hablando en lenguas, ¿de qué provecho les seré a menos de que les hable por medio de revelación, o de conocimiento, o de profecía, o de enseñanza?
-1 Corinthians 14:7 Aun las cosas inanimadas, como la flauta o el arpa, al producir un sonido, si no dan con distinción los sonidos, ¿cómo se sabrá lo que se toca en la flauta o en el arpa?
-1 Corinthians 14:8 Porque si la trompeta da un sonido incierto, ¿quién se preparará para la batalla?
-1 Corinthians 14:9 Así también ustedes, a menos de que con la boca pronuncien palabras inteligibles, ¿cómo se sabrá lo que dicen? Pues hablarán al aire.
-1 Corinthians 14:10 Hay, quizás, muchas variedades de idiomas en el mundo, y ninguno carece de significado.
-1 Corinthians 14:11 Pues si yo no sé el significado de las palabras, seré para el que habla un extranjero, y el que habla será un extranjero para mí.
-1 Corinthians 14:12 Así también ustedes, puesto que anhelan dones espirituales, procuren abundar en ellos para la edificación de la iglesia.
-1 Corinthians 14:13 Por tanto, el que habla en lenguas, pida en oración para que pueda interpretar.
-1 Corinthians 14:14 Porque si yo oro en lenguas, mi espíritu ora, pero mi entendimiento queda sin fruto.
-1 Corinthians 14:15 Entonces ¿qué? Oraré con el espíritu, pero también oraré con el entendimiento. Cantaré con el espíritu, pero también cantaré con el entendimiento.
-1 Corinthians 14:16 De otra manera, si bendices solo en el espíritu, ¿cómo dirá el «Amén» a tu acción de gracias el que ocupa el lugar del que no tiene ese don, puesto que no sabe lo que dices?
-1 Corinthians 14:17 Porque tú, bien das gracias, pero el otro no es edificado.
-1 Corinthians 14:18 Doy gracias a Dios porque hablo en lenguas más que todos ustedes.
-1 Corinthians 14:19 Sin embargo, en la iglesia prefiero hablar cinco palabras con mi entendimiento, para instruir también a otros, antes que diez mil palabras en lenguas.
-1 Corinthians 14:20 Hermanos, no sean niños en la manera de pensar. Más bien, sean niños en la malicia, pero en la manera de pensar sean maduros.
-1 Corinthians 14:21 En la ley está escrito: «POR HOMBRES DE LENGUAS EXTRAÑAS Y POR BOCA DE EXTRAÑOS HABLARÉ A ESTE PUEBLO, Y NI AUN ASÍ ME ESCUCHARÁN», dice el Señor.
-1 Corinthians 14:22 Así que las lenguas son una señal, no para los que creen, sino para los incrédulos; pero la profecía es una señal, no para los incrédulos, sino para los creyentes.
-1 Corinthians 14:23 Por tanto, si toda la iglesia se reúne y todos hablan en lenguas, y entran algunos sin ese don o que son incrédulos, ¿no dirán que ustedes están locos?
-1 Corinthians 14:24 Pero si todos profetizan, y entra un incrédulo, o uno sin ese don, por todos será convencido, por todos será juzgado.
-1 Corinthians 14:25 Los secretos de su corazón quedarán al descubierto, y él se postrará y adorará a Dios, declarando que en verdad Dios está entre ustedes.
-1 Corinthians 14:26 ¿Qué hay que hacer, pues, hermanos? Cuando se reúnan, cada cual aporte salmo, enseñanza, revelación, lenguas o interpretación. Que todo se haga para edificación.
-1 Corinthians 14:27 Si alguien habla en lenguas, que hablen dos, o a lo más tres, y por turno, y que uno interprete.
-1 Corinthians 14:28 Pero si no hay intérprete, que guarde silencio en la iglesia y que hable para sí y para Dios.
-1 Corinthians 14:29 Y que dos o tres profetas hablen, y los demás juzguen.
-1 Corinthians 14:30 Pero si a otro que está sentado le es revelado algo, que calle el primero.
-1 Corinthians 14:31 Porque todos pueden profetizar uno por uno, para que todos aprendan y todos sean exhortados.
-1 Corinthians 14:32 Los espíritus de los profetas están sujetos a los profetas.
-1 Corinthians 14:33 Porque Dios no es Dios de confusión, sino de paz, como en todas las iglesias de los santos.
-1 Corinthians 14:34 Las mujeres guarden silencio en las iglesias, porque no les es permitido hablar, antes bien, que se sujeten como dice también la ley.
-1 Corinthians 14:35 Y si quieren aprender algo, que pregunten a sus propios maridos en casa, porque no es correcto que la mujer hable en la iglesia.
-1 Corinthians 14:36 ¿Acaso la palabra de Dios salió de ustedes, o solo a ustedes ha llegado?
-1 Corinthians 14:37 Si alguien piensa que es profeta o espiritual, reconozca que lo que les escribo es mandamiento del Señor.
-1 Corinthians 14:38 Pero si alguien no reconoce esto, él no es reconocido.
-1 Corinthians 14:39 Por tanto, hermanos míos, anhelen el profetizar, y no prohíban hablar en lenguas.
-1 Corinthians 14:40 Pero que todo se haga decentemente y con orden.
-1 Corinthians 15:1 Ahora les hago saber, hermanos, el evangelio que les prediqué, el cual también ustedes recibieron, en el cual también están firmes,
-1 Corinthians 15:2 por el cual también son salvos, si retienen la palabra que les prediqué, a no ser que hayan creído en vano.
-1 Corinthians 15:3 Porque yo les entregué en primer lugar lo mismo que recibí: que Cristo murió por nuestros pecados, conforme a las Escrituras;
-1 Corinthians 15:4 que fue sepultado y que resucitó al tercer día, conforme a las Escrituras;
-1 Corinthians 15:5 que se apareció a Cefas y después a los doce.
-1 Corinthians 15:6 Luego se apareció a más de 500 hermanos a la vez, la mayoría de los cuales viven aún, pero algunos ya duermen.
-1 Corinthians 15:7 Después se apareció a Jacobo, luego a todos los apóstoles.
-1 Corinthians 15:8 Y al último de todos, como a uno nacido fuera de tiempo, se me apareció también a mí.
-1 Corinthians 15:9 Porque yo soy el más insignificante de los apóstoles, que no soy digno de ser llamado apóstol, pues perseguí a la iglesia de Dios.
-1 Corinthians 15:10 Pero por la gracia de Dios soy lo que soy, y Su gracia para conmigo no resultó vana. Antes bien he trabajado mucho más que todos ellos, aunque no yo, sino la gracia de Dios en mí.
-1 Corinthians 15:11 Sin embargo, haya sido yo o ellos, así predicamos y así creyeron ustedes.
-1 Corinthians 15:12 Ahora bien, si se predica que Cristo ha resucitado de entre los muertos, ¿cómo dicen algunos entre ustedes que no hay resurrección de muertos?
-1 Corinthians 15:13 Y si no hay resurrección de muertos, entonces ni siquiera Cristo ha resucitado;
-1 Corinthians 15:14 y si Cristo no ha resucitado, vana es entonces nuestra predicación, y vana también la fe de ustedes.
-1 Corinthians 15:15 Aún más, somos hallados testigos falsos de Dios, porque hemos testificado contra Dios que Él resucitó a Cristo, a quien no resucitó, si en verdad los muertos no resucitan.
-1 Corinthians 15:16 Porque si los muertos no resucitan, entonces ni siquiera Cristo ha resucitado;
-1 Corinthians 15:17 y si Cristo no ha resucitado, la fe de ustedes es falsa; todavía están en sus pecados.
-1 Corinthians 15:18 Entonces también los que han dormido en Cristo están perdidos.
-1 Corinthians 15:19 Si hemos esperado en Cristo para esta vida solamente, somos, de todos los hombres, los más dignos de lástima.
-1 Corinthians 15:20 Pero ahora Cristo ha resucitado de entre los muertos, primicias de los que durmieron.
-1 Corinthians 15:21 Porque ya que la muerte entró por un hombre, también por un hombre vino la resurrección de los muertos.
-1 Corinthians 15:22 Porque así como en Adán todos mueren, también en Cristo todos serán vivificados.
-1 Corinthians 15:23 Pero cada uno en su debido orden: Cristo, las primicias; luego los que son de Cristo en Su venida.
-1 Corinthians 15:24 Entonces vendrá el fin, cuando Él entregue el reino al Dios y Padre, después que haya terminado con todo dominio y toda autoridad y poder.
-1 Corinthians 15:25 Pues Cristo debe reinar hasta que haya puesto a todos Sus enemigos debajo de Sus pies.
-1 Corinthians 15:26 Y el último enemigo que será eliminado es la muerte.
-1 Corinthians 15:27 Porque DIOS HA PUESTO TODO EN SUJECIÓN BAJO SUS PIES. Pero cuando dice que todas las cosas están sujetas a Él, es evidente que se exceptúa a Aquel que ha sometido a Él todas las cosas.
-1 Corinthians 15:28 Y cuando todo haya sido sometido a Él, entonces también el Hijo mismo se sujetará a Aquel que sujetó a Él todas las cosas, para que Dios sea todo en todos.
-1 Corinthians 15:29 De no ser así, ¿qué harán los que se bautizan por los muertos? Si de ninguna manera los muertos resucitan, ¿por qué, entonces, se bautizan por ellos?
-1 Corinthians 15:30 Y también, ¿por qué estamos en peligro a toda hora?
-1 Corinthians 15:31 Les aseguro, hermanos, por la satisfacción que siento por ustedes en Cristo Jesús nuestro Señor, que cada día estoy en peligro de muerte.
-1 Corinthians 15:32 Si por motivos humanos luché contra fieras en Éfeso, ¿de qué me aprovecha? Si los muertos no resucitan, COMAMOS Y BEBAMOS, QUE MAÑANA MORIREMOS.
-1 Corinthians 15:33 No se dejen engañar: «Las malas compañías corrompen las buenas costumbres».
-1 Corinthians 15:34 Sean sobrios, como conviene, y dejen de pecar; porque algunos no tienen conocimiento de Dios. Para vergüenza de ustedes lo digo.
-1 Corinthians 15:35 Pero alguien dirá: «¿Cómo resucitan los muertos? ¿Y con qué clase de cuerpo vienen?».
-1 Corinthians 15:36 ¡Necio! Lo que tú siembras no llega a tener vida si antes no muere.
-1 Corinthians 15:37 Y lo que siembras, no siembras el cuerpo que nacerá, sino el grano desnudo, quizás de trigo o de alguna otra especie.
-1 Corinthians 15:38 Pero Dios le da un cuerpo como Él quiso, y a cada semilla su propio cuerpo.
-1 Corinthians 15:39 No toda carne es la misma carne, sino que una es la de los hombres, otra la de las bestias, otra la de las aves y otra la de los peces.
-1 Corinthians 15:40 Hay, asimismo, cuerpos celestiales y cuerpos terrestres, pero la gloria del celestial es una, y la del terrestre es otra.
-1 Corinthians 15:41 Hay una gloria del sol, y otra gloria de la luna, y otra gloria de las estrellas; pues una estrella es distinta de otra estrella en gloria.
-1 Corinthians 15:42 Así es también la resurrección de los muertos. Se siembra un cuerpo corruptible, se resucita un cuerpo incorruptible;
-1 Corinthians 15:43 se siembra en deshonra, se resucita en gloria; se siembra en debilidad, se resucita en poder;
-1 Corinthians 15:44 se siembra un cuerpo natural, se resucita un cuerpo espiritual. Si hay un cuerpo natural, hay también un cuerpo espiritual.
-1 Corinthians 15:45 Así también está escrito: «El primer HOMBRE, Adán, FUE HECHO ALMA VIVIENTE». El último Adán, espíritu que da vida.
-1 Corinthians 15:46 Sin embargo, el espiritual no es primero, sino el natural; luego el espiritual.
-1 Corinthians 15:47 El primer hombre es de la tierra, terrenal; el segundo hombre es del cielo.
-1 Corinthians 15:48 Como es el terrenal, así son también los que son terrenales; y como es el celestial, así son también los que son celestiales.
-1 Corinthians 15:49 Y tal como hemos traído la imagen del terrenal, traeremos también la imagen del celestial.
-1 Corinthians 15:50 Esto digo, hermanos: que la carne y la sangre no pueden heredar el reino de Dios; ni lo que se corrompe hereda lo incorruptible.
-1 Corinthians 15:51 Así que les digo un misterio: no todos dormiremos, pero todos seremos transformados
-1 Corinthians 15:52 en un momento, en un abrir y cerrar de ojos, a la trompeta final. Pues la trompeta sonará y los muertos resucitarán incorruptibles, y nosotros seremos transformados.
-1 Corinthians 15:53 Porque es necesario que esto corruptible se vista de incorrupción, y esto mortal se vista de inmortalidad.
-1 Corinthians 15:54 Pero cuando esto corruptible se haya vestido de incorrupción, y esto mortal se haya vestido de inmortalidad, entonces se cumplirá la palabra que está escrita: «DEVORADA HA SIDO LA MUERTE en victoria.
-1 Corinthians 15:55 ¿DÓNDE ESTÁ, OH MUERTE, TU VICTORIA? ¿DÓNDE, OH SEPULCRO, TU AGUIJÓN?».
-1 Corinthians 15:56 El aguijón de la muerte es el pecado, y el poder del pecado es la ley;
-1 Corinthians 15:57 pero a Dios gracias, que nos da la victoria por medio de nuestro Señor Jesucristo.
-1 Corinthians 15:58 Por tanto, mis amados hermanos, estén firmes, constantes, abundando siempre en la obra del Señor, sabiendo que su trabajo en el Señor no es en vano.
-1 Corinthians 16:1 Ahora bien, en cuanto a la ofrenda para los santos, hagan ustedes también como instruí a las iglesias de Galacia.
-1 Corinthians 16:2 Que el primer día de la semana, cada uno de ustedes aparte y guarde según haya prosperado, para que cuando yo vaya no se recojan entonces ofrendas.
-1 Corinthians 16:3 Cuando yo llegue, enviaré con cartas a quienes ustedes hayan designado, para que lleven su contribución a Jerusalén.
-1 Corinthians 16:4 Y si es conveniente que yo también vaya, ellos irán conmigo.
-1 Corinthians 16:5 Iré a ustedes cuando haya pasado por Macedonia, pues voy a pasar por Macedonia.
-1 Corinthians 16:6 Y tal vez me quede con ustedes, o aun pase allí el invierno, para que me encaminen adonde haya de ir.
-1 Corinthians 16:7 Pues no deseo verlos ahora solo de paso, porque espero permanecer con ustedes por algún tiempo, si el Señor me lo permite.
-1 Corinthians 16:8 Pero me quedaré en Éfeso hasta Pentecostés,
-1 Corinthians 16:9 porque se me ha abierto una puerta grande para el servicio eficaz, aunque también hay muchos adversarios.
-1 Corinthians 16:10 Si llega Timoteo, vean que esté entre ustedes sin temor, pues él hace la obra del Señor lo mismo que yo.
-1 Corinthians 16:11 Por tanto, nadie lo menosprecie. Más bien, envíenlo en paz para que venga a mí, porque lo espero con los hermanos.
-1 Corinthians 16:12 En cuanto a nuestro hermano Apolos, mucho lo animé a que fuera a ustedes con los hermanos, pero de ninguna manera tuvo ahora el deseo de ir. Sin embargo, irá cuando tenga oportunidad.
-1 Corinthians 16:13 Estén alerta, permanezcan firmes en la fe, pórtense varonilmente, sean fuertes.
-1 Corinthians 16:14 Todas sus cosas sean hechas con amor.
-1 Corinthians 16:15 Los exhorto, hermanos (ya conocen a los de la casa de Estéfanas, que fueron los primeros convertidos de Acaya, y que se han dedicado al servicio de los santos),
-1 Corinthians 16:16 que también ustedes estén en sujeción a los que son como ellos, y a todo el que ayuda y trabaja en la obra.
-1 Corinthians 16:17 Y me regocijo por la venida de Estéfanas, de Fortunato y de Acaico, pues ellos han suplido lo que faltaba de parte de ustedes.
-1 Corinthians 16:18 Porque ellos han recreado mi espíritu y el de ustedes. Por tanto, reconozcan a tales personas.
-1 Corinthians 16:19 Las iglesias de Asia los saludan. Aquila y Priscila, con la iglesia que está en su casa, los saludan muy afectuosamente en el Señor.
-1 Corinthians 16:20 Todos los hermanos los saludan. Salúdense los unos a los otros con un beso santo.
-1 Corinthians 16:21 Este saludo es de mi puño y letra. Pablo.
-1 Corinthians 16:22 Si alguien no ama al Señor, que sea anatema. ¡Maranata!
-1 Corinthians 16:23 La gracia del Señor Jesús sea con ustedes.
-1 Corinthians 16:24 Mi amor sea con todos ustedes en Cristo Jesús. Amén.
+1Corintios 1:1 Pablo, llamado a ser apóstol de Jesucristo por la voluntad de Dios, y Sóstenes, nuestro hermano,
+1Corintios 1:2 a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cristo Jesús, llamados a ser santos, con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo, Señor de ellos y nuestro:
+1Corintios 1:3 Gracia y paz a ustedes de parte de Dios nuestro Padre y del Señor Jesucristo.
+1Corintios 1:4 Siempre doy gracias a mi Dios por ustedes, por la gracia de Dios que les fue dada en Cristo Jesús.
+1Corintios 1:5 Porque en todo ustedes fueron enriquecidos en Él, en toda palabra y en todo conocimiento,
+1Corintios 1:6 así como el testimonio acerca de Cristo fue confirmado en ustedes;
+1Corintios 1:7 de manera que nada les falta en ningún don, esperando ansiosamente la revelación de nuestro Señor Jesucristo.
+1Corintios 1:8 Él también los confirmará hasta el fin, para que sean irreprensibles en el día de nuestro Señor Jesucristo.
+1Corintios 1:9 Fiel es Dios, por medio de quien fueron llamados a la comunión con Su Hijo Jesucristo, nuestro Señor.
+1Corintios 1:10 Les ruego, hermanos, por el nombre de nuestro Señor Jesucristo, que todos se pongan de acuerdo, y que no haya divisiones entre ustedes, sino que estén enteramente unidos en un mismo sentir y en un mismo parecer.
+1Corintios 1:11 Porque he sido informado acerca de ustedes, hermanos míos, por los de Cloé, que hay discusiones entre ustedes.
+1Corintios 1:12 Me refiero a que cada uno de ustedes dice: «Yo soy de Pablo», otro: «yo de Apolos», otro: «yo de Cefas», y otro: «yo de Cristo».
+1Corintios 1:13 ¿Está dividido Cristo? ¿Acaso fue Pablo crucificado por ustedes? ¿O fueron bautizados en el nombre de Pablo?
+1Corintios 1:14 Doy gracias a Dios que no bauticé a ninguno de ustedes, excepto a Crispo y a Gayo,
+1Corintios 1:15 para que nadie diga que fueron bautizados en mi nombre.
+1Corintios 1:16 También bauticé a los de la casa de Estéfanas; por lo demás, no sé si bauticé a algún otro.
+1Corintios 1:17 Pues Cristo no me envió a bautizar, sino a predicar el evangelio, no con palabras elocuentes, para que no se haga vana la cruz de Cristo.
+1Corintios 1:18 Porque la palabra de la cruz es necedad para los que se pierden, pero para nosotros los salvos es poder de Dios.
+1Corintios 1:19 Porque está escrito: «DESTRUIRÉ LA SABIDURÍA DE LOS SABIOS, Y EL ENTENDIMIENTO DE LOS INTELIGENTES DESECHARÉ».
+1Corintios 1:20 ¿Dónde está el sabio? ¿Dónde está el escriba? ¿Dónde está el que sabe discutir en este siglo? ¿No ha hecho Dios que la sabiduría de este mundo sea necedad?
+1Corintios 1:21 Pues ya que en la sabiduría de Dios, el mundo no conoció a Dios por medio de su propia sabiduría, agradó a Dios mediante la necedad de la predicación salvar a los que creen.
+1Corintios 1:22 Porque en verdad los judíos piden señales y los griegos buscan sabiduría;
+1Corintios 1:23 pero nosotros predicamos a Cristo crucificado, piedra de tropiezo para los judíos, y necedad para los gentiles.
+1Corintios 1:24 Sin embargo, para los llamados, tanto judíos como griegos, Cristo es poder de Dios y sabiduría de Dios.
+1Corintios 1:25 Porque la necedad de Dios es más sabia que los hombres, y la debilidad de Dios es más fuerte que los hombres.
+1Corintios 1:26 Pues consideren, hermanos, su llamamiento. No hubo muchos sabios conforme a la carne, ni muchos poderosos, ni muchos nobles.
+1Corintios 1:27 Sino que Dios ha escogido lo necio del mundo para avergonzar a los sabios; y Dios ha escogido lo débil del mundo para avergonzar a lo que es fuerte.
+1Corintios 1:28 También Dios ha escogido lo vil y despreciado del mundo: lo que no es, para anular lo que es,
+1Corintios 1:29 para que nadie se jacte delante de Dios.
+1Corintios 1:30 Pero por obra Suya están ustedes en Cristo Jesús, el cual se hizo para nosotros sabiduría de Dios, y justificación, santificación y redención,
+1Corintios 1:31 para que, tal como está escrito: «EL QUE SE GLORÍA, QUE SE GLORÍE EN EL SEÑOR».
+1Corintios 2:1 Por eso, cuando fui a ustedes, hermanos, proclamándoles el testimonio de Dios, no fui con superioridad de palabra o de sabiduría.
+1Corintios 2:2 Porque nada me propuse saber entre ustedes excepto a Jesucristo, y Este crucificado.
+1Corintios 2:3 Estuve entre ustedes con debilidad y con temor y mucho temblor,
+1Corintios 2:4 y mi mensaje y mi predicación no fueron con palabras persuasivas de sabiduría, sino con demostración del Espíritu y de poder,
+1Corintios 2:5 para que la fe de ustedes no descanse en la sabiduría de los hombres, sino en el poder de Dios.
+1Corintios 2:6 Sin embargo, hablamos sabiduría entre los que han alcanzado madurez; pero una sabiduría no de este siglo, ni de los gobernantes de este siglo, que van desapareciendo,
+1Corintios 2:7 sino que hablamos sabiduría de Dios en misterio, la sabiduría oculta que, desde antes de los siglos, Dios predestinó para nuestra gloria.
+1Corintios 2:8 Esta sabiduría que ninguno de los gobernantes de este siglo ha entendido, porque si la hubieran entendido no habrían crucificado al Señor de gloria;
+1Corintios 2:9 sino como está escrito: «COSAS QUE OJO NO VIO, NI OÍDO OYÓ, NI HAN ENTRADO AL CORAZÓN DEL HOMBRE, Son LAS COSAS QUE DIOS HA PREPARADO PARA LOS QUE LO AMAN».
+1Corintios 2:10 Pero Dios nos las reveló por medio del Espíritu, porque el Espíritu todo lo escudriña, aun las profundidades de Dios.
+1Corintios 2:11 Porque entre los hombres, ¿quién conoce los pensamientos de un hombre, sino el espíritu del hombre que está en él? Asimismo, nadie conoce los pensamientos de Dios, sino el Espíritu de Dios.
+1Corintios 2:12 Y nosotros hemos recibido, no el espíritu del mundo, sino el Espíritu que viene de Dios, para que conozcamos lo que Dios nos ha dado gratuitamente,
+1Corintios 2:13 de lo cual también hablamos, no con palabras enseñadas por sabiduría humana, sino con las enseñadas por el Espíritu, combinando pensamientos espirituales con palabras espirituales.
+1Corintios 2:14 Pero el hombre natural no acepta las cosas del Espíritu de Dios, porque para él son necedad; y no las puede entender, porque son cosas que se disciernen espiritualmente.
+1Corintios 2:15 En cambio, el que es espiritual juzga todas las cosas; pero él no es juzgado por nadie.
+1Corintios 2:16 Porque ¿QUIÉN HA CONOCIDO LA MENTE DEL SEÑOR, PARA QUE LO INSTRUYA? Pero nosotros tenemos la mente de Cristo.
+1Corintios 3:1 Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
+1Corintios 3:2 Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden,
+1Corintios 3:3 porque todavía son carnales. Pues habiendo celos y discusiones entre ustedes, ¿no son carnales y andan como hombres del mundo?
+1Corintios 3:4 Porque cuando uno dice: «Yo soy de Pablo», y otro: «Yo soy de Apolos», ¿no son como hombres del mundo?
+1Corintios 3:5 ¿Qué es, pues, Apolos? ¿Y qué es Pablo? Servidores mediante los cuales ustedes han creído, según el Señor dio oportunidad a cada uno.
+1Corintios 3:6 Yo planté, Apolos regó, pero Dios ha dado el crecimiento.
+1Corintios 3:7 Así que ni el que planta ni el que riega es algo, sino Dios, que da el crecimiento.
+1Corintios 3:8 Ahora bien, el que planta y el que riega son una misma cosa, pero cada uno recibirá su propia recompensa conforme a su propio trabajo.
+1Corintios 3:9 Porque nosotros somos colaboradores en la labor de Dios, y ustedes son el campo de cultivo de Dios, el edificio de Dios.
+1Corintios 3:10 Conforme a la gracia de Dios que me fue dada, yo, como sabio arquitecto, puse el fundamento, y otro edifica sobre él. Pero cada uno tenga cuidado cómo edifica encima.
+1Corintios 3:11 Pues nadie puede poner otro fundamento que el que ya está puesto, el cual es Jesucristo.
+1Corintios 3:12 Ahora bien, si sobre este fundamento alguien edifica con oro, plata, piedras preciosas, madera, heno, paja,
+1Corintios 3:13 la obra de cada uno se hará evidente; porque el día la dará a conocer, pues con fuego será revelada. El fuego mismo probará la calidad de la obra de cada uno.
+1Corintios 3:14 Si permanece la obra de alguien que ha edificado sobre el fundamento, recibirá recompensa.
+1Corintios 3:15 Si la obra de alguien es consumida por el fuego, sufrirá pérdida; sin embargo, él será salvo, aunque así como a través del fuego.
+1Corintios 3:16 ¿No saben que ustedes son templo de Dios y que el Espíritu de Dios habita en ustedes?
+1Corintios 3:17 Si alguno destruye el templo de Dios, Dios lo destruirá a él, porque el templo de Dios es santo, y eso es lo que ustedes son.
+1Corintios 3:18 Nadie se engañe a sí mismo. Si alguien de ustedes se cree sabio según este mundo, hágase necio a fin de llegar a ser sabio.
+1Corintios 3:19 Porque la sabiduría de este mundo es necedad ante Dios. Pues escrito está: «Él es EL QUE PRENDE A LOS SABIOS EN SU propia ASTUCIA».
+1Corintios 3:20 Y también: «EL SEÑOR CONOCE LOS RAZONAMIENTOS de los sabios, LOS CUALES SON INÚTILES».
+1Corintios 3:21 Así que nadie se jacte en los hombres, porque todo es de ustedes:
+1Corintios 3:22 ya sea Pablo, o Apolos, o Cefas, o el mundo, o la vida, o la muerte, o lo presente, o lo por venir, todo es suyo,
+1Corintios 3:23 y ustedes de Cristo, y Cristo de Dios.
+1Corintios 4:1 Que todo hombre nos considere de esta manera: como servidores de Cristo y administradores de los misterios de Dios.
+1Corintios 4:2 Ahora bien, lo que se requiere además de los administradores es que cada uno sea hallado fiel.
+1Corintios 4:3 En cuanto a mí, es de poca importancia que yo sea juzgado por ustedes o por cualquier tribunal humano. De hecho, ni aun yo me juzgo a mí mismo.
+1Corintios 4:4 Porque no estoy consciente de nada en contra mía. Pero no por eso estoy sin culpa, pues el que me juzga es el Señor.
+1Corintios 4:5 Por tanto, no juzguen antes de tiempo, sino esperen hasta que el Señor venga, el cual sacará a la luz las cosas ocultas en las tinieblas y también pondrá de manifiesto los designios de los corazones. Entonces cada uno recibirá de parte de Dios la alabanza que le corresponda.
+1Corintios 4:6 Esto, hermanos, lo he aplicado en sentido figurado a mí mismo y a Apolos por amor a ustedes, para que en nosotros aprendan a no sobrepasar lo que está escrito, para que ninguno de ustedes se vuelva arrogante a favor del uno contra el otro.
+1Corintios 4:7 Porque ¿quién te distingue? ¿Qué tienes que no recibiste? Y si lo recibiste, ¿por qué te jactas como si no lo hubieras recibido?
+1Corintios 4:8 Ya están saciados, ya se han hecho ricos, ya han llegado a reinar sin necesidad de nosotros. Ojalá hubieran llegado a reinar, para que nosotros reináramos también con ustedes.
+1Corintios 4:9 Porque pienso que Dios nos ha exhibido a nosotros los apóstoles en último lugar, como a sentenciados a muerte. Porque hemos llegado a ser un espectáculo para el mundo, tanto para los ángeles como para los hombres.
+1Corintios 4:10 Nosotros somos necios por amor de Cristo, pero ustedes, prudentes en Cristo. Nosotros somos débiles, pero ustedes, fuertes. Ustedes son distinguidos, pero nosotros, sin honra.
+1Corintios 4:11 Hasta el momento presente pasamos hambre y sed, andamos mal vestidos, somos maltratados y no tenemos dónde vivir.
+1Corintios 4:12 Nos agotamos trabajando con nuestras propias manos. Cuando nos ultrajan, bendecimos. Cuando somos perseguidos, lo soportamos.
+1Corintios 4:13 Cuando hablan mal de nosotros, tratamos de reconciliar. Hemos llegado a ser, hasta ahora, la basura del mundo, el desecho de todo.
+1Corintios 4:14 No les escribo esto para avergonzarlos, sino para amonestarlos como a hijos míos amados.
+1Corintios 4:15 Porque aunque ustedes tengan innumerables maestros en Cristo, sin embargo no tienen muchos padres; pues en Cristo Jesús yo los engendré por medio del evangelio.
+1Corintios 4:16 Por tanto, los exhorto: sean imitadores míos.
+1Corintios 4:17 Por esta razón les he enviado a Timoteo, que es mi hijo amado y fiel en el Señor. Él les recordará mis caminos, los caminos en Cristo, tal como yo enseño en todas partes, en cada iglesia.
+1Corintios 4:18 Algunos de ustedes se han vuelto arrogantes, como si yo no hubiera de ir a verlos.
+1Corintios 4:19 Pero iré a verlos pronto, si el Señor quiere, y conoceré, no las palabras de los arrogantes sino el poder que tienen.
+1Corintios 4:20 Porque el reino de Dios no consiste en palabras, sino en poder.
+1Corintios 4:21 ¿Qué quieren? ¿Iré a ustedes con vara, o con amor y espíritu de mansedumbre?
+1Corintios 5:1 En efecto, se oye que entre ustedes hay inmoralidad, y una inmoralidad tal como no existe ni siquiera entre los gentiles, al extremo de que alguien tiene la mujer de su padre.
+1Corintios 5:2 ¡Y ustedes se han vuelto arrogantes en lugar de haberse entristecido, para que el que de entre ustedes ha cometido esta acción fuera expulsado de en medio de ustedes!
+1Corintios 5:3 Pues yo, por mi parte, aunque ausente en cuerpo pero presente en espíritu, como si estuviera presente, ya he juzgado al que cometió tal acción.
+1Corintios 5:4 En el nombre de nuestro Señor Jesús, cuando estén reunidos, y yo con ustedes en espíritu, con el poder de nuestro Señor Jesús,
+1Corintios 5:5 entreguen a ese tal a Satanás para la destrucción de su carne, a fin de que su espíritu sea salvo en el día del Señor Jesús.
+1Corintios 5:6 La jactancia de ustedes no es buena. ¿No saben que un poco de levadura fermenta toda la masa?
+1Corintios 5:7 Limpien la levadura vieja para que sean masa nueva, así como lo son en realidad sin levadura. Porque aun Cristo, nuestra Pascua, ha sido sacrificado.
+1Corintios 5:8 Por tanto, celebremos la fiesta no con la levadura vieja, ni con la levadura de malicia y maldad, sino con panes sin levadura de sinceridad y de verdad.
+1Corintios 5:9 En mi carta les escribí que no anduvieran en compañía de personas inmorales.
+1Corintios 5:10 No me refería a la gente inmoral de este mundo, o a los codiciosos y estafadores, o a los idólatras, porque entonces tendrían ustedes que salirse del mundo.
+1Corintios 5:11 Sino que en efecto les escribí que no anduvieran en compañía de ninguno que, llamándose hermano, es una persona inmoral, o avaro, o idólatra, o difamador, o borracho, o estafador. Con esa persona, ni siquiera coman.
+1Corintios 5:12 Pues ¿por qué he de juzgar yo a los de afuera? ¿No juzgan ustedes a los que están dentro de la iglesia?
+1Corintios 5:13 Pero Dios juzga a los que están fuera. EXPULSEN AL MALVADO DE ENTRE USTEDES.
+1Corintios 6:1 ¿Se atreve alguno de ustedes, cuando tiene algo contra su prójimo, a ir a juicio ante los incrédulos y no ante los santos?
+1Corintios 6:2 ¿O no saben que los santos han de juzgar al mundo? Y si el mundo es juzgado por ustedes, ¿no son competentes para juzgar los casos más sencillos?
+1Corintios 6:3 ¿No saben que hemos de juzgar a los ángeles? ¡Cuánto más asuntos de esta vida!
+1Corintios 6:4 Entonces, si tienen tribunales que juzgan los casos de esta vida, ¿por qué ponen por jueces a los que nada son en la iglesia?
+1Corintios 6:5 Para vergüenza suya lo digo. ¿Acaso no hay entre ustedes algún hombre sabio que pueda juzgar entre sus hermanos,
+1Corintios 6:6 sino que hermano contra hermano litiga, y esto ante incrédulos?
+1Corintios 6:7 Así que, en efecto, es ya un fallo entre ustedes el hecho de que tengan litigios entre sí. ¿Por qué no sufren mejor la injusticia? ¿Por qué no ser mejor defraudados?
+1Corintios 6:8 Por el contrario, ustedes mismos cometen injusticias y defraudan, y esto aun a sus propios hermanos.
+1Corintios 6:9 ¿O no saben que los injustos no heredarán el reino de Dios? No se dejen engañar: ni los inmorales, ni los idólatras, ni los adúlteros, ni los afeminados, ni los homosexuales,
+1Corintios 6:10 ni los ladrones, ni los avaros, ni los borrachos, ni los difamadores, ni los estafadores heredarán el reino de Dios.
+1Corintios 6:11 Y esto eran algunos de ustedes; pero fueron lavados, pero fueron santificados, pero fueron justificados en el nombre del Señor Jesucristo y en el Espíritu de nuestro Dios.
+1Corintios 6:12 Todas las cosas me son lícitas, pero no todas son de provecho. Todas las cosas me son lícitas, pero yo no me dejaré dominar por ninguna.
+1Corintios 6:13 Los alimentos son para el estómago y el estómago para los alimentos, pero Dios destruirá a los dos. Sin embargo, el cuerpo no es para la fornicación, sino para el Señor, y el Señor es para el cuerpo.
+1Corintios 6:14 Y Dios, que resucitó al Señor, también nos resucitará a nosotros mediante Su poder.
+1Corintios 6:15 ¿No saben que sus cuerpos son miembros de Cristo? ¿Tomaré, acaso, los miembros de Cristo y los haré miembros de una ramera? ¡De ningún modo!
+1Corintios 6:16 ¿O no saben que el que se une a una ramera es un cuerpo con ella? Porque Él dice: «LOS DOS VENDRÁN A SER UNA SOLA CARNE».
+1Corintios 6:17 Pero el que se une al Señor, es un espíritu con Él.
+1Corintios 6:18 Huyan de la fornicación. Todos los demás pecados que un hombre comete están fuera del cuerpo, pero el fornicario peca contra su propio cuerpo.
+1Corintios 6:19 ¿O no saben que su cuerpo es templo del Espíritu Santo que está en ustedes, el cual tienen de Dios, y que ustedes no se pertenecen a sí mismos?
+1Corintios 6:20 Porque han sido comprados por un precio. Por tanto, glorifiquen a Dios en su cuerpo y en su espíritu, los cuales son de Dios.
+1Corintios 7:1 En cuanto a las cosas de que me escribieron, bueno es para el hombre no tocar mujer.
+1Corintios 7:2 No obstante, por razón de las inmoralidades, que cada uno tenga su propia mujer, y cada una tenga su propio marido.
+1Corintios 7:3 Que el marido cumpla su deber para con su mujer, e igualmente la mujer lo cumpla con el marido.
+1Corintios 7:4 La mujer no tiene autoridad sobre su propio cuerpo, sino el marido. Y asimismo el marido no tiene autoridad sobre su propio cuerpo, sino la mujer.
+1Corintios 7:5 No se priven el uno del otro, excepto de común acuerdo y por cierto tiempo, para dedicarse a la oración. Vuelvan después a juntarse, a fin de que Satanás no los tiente por causa de falta de dominio propio.
+1Corintios 7:6 Pero esto lo digo por vía de concesión, no como una orden.
+1Corintios 7:7 Sin embargo, yo desearía que todos los hombres fueran como yo. No obstante, cada cual ha recibido de Dios su propio don, unos de una manera y otros de otra.
+1Corintios 7:8 A los solteros y a las viudas digo que es bueno para ellos si se quedan como yo.
+1Corintios 7:9 Pero si carecen de dominio propio, cásense. Que mejor es casarse que quemarse.
+1Corintios 7:10 A los casados instruyo, no yo, sino el Señor: que la mujer no debe dejar al marido.
+1Corintios 7:11 Pero si lo deja, quédese sin casar, o de lo contrario que se reconcilie con su marido, y que el marido no abandone a su mujer.
+1Corintios 7:12 Pero a los demás digo yo, no el Señor, que si un hermano tiene una mujer que no es creyente, y ella consiente en vivir con él, no la abandone.
+1Corintios 7:13 Y la mujer cuyo marido no es creyente, y él consiente en vivir con ella, no abandone a su marido.
+1Corintios 7:14 Porque el marido que no es creyente es santificado por medio de su mujer; y la mujer que no es creyente es santificada por medio de su marido creyente. De otra manera sus hijos serían inmundos, pero ahora son santos.
+1Corintios 7:15 Sin embargo, si el que no es creyente se separa, que se separe. En tales casos el hermano o la hermana no están obligados, sino que Dios nos ha llamado para vivir en paz.
+1Corintios 7:16 Pues ¿cómo sabes tú, mujer, si salvarás a tu marido? ¿O cómo sabes tú, marido, si salvarás a tu mujer?
+1Corintios 7:17 Fuera de esto, según el Señor ha asignado a cada uno, según Dios llamó a cada cual, así ande. Esto ordeno en todas las iglesias.
+1Corintios 7:18 ¿Fue llamado alguno ya circuncidado? Quédese circuncidado. ¿Fue llamado alguien estando incircuncidado? No se circuncide.
+1Corintios 7:19 La circuncisión nada es, y nada es la incircuncisión, sino el guardar los mandamientos de Dios.
+1Corintios 7:20 Cada uno permanezca en la condición en que fue llamado.
+1Corintios 7:21 ¿Fuiste llamado siendo esclavo? No te preocupes. Aunque si puedes obtener tu libertad, prefiérelo.
+1Corintios 7:22 Porque el que fue llamado por el Señor siendo esclavo, hombre libre es del Señor. De la misma manera, el que fue llamado siendo libre, esclavo es de Cristo.
+1Corintios 7:23 Ustedes fueron comprados por precio. No se hagan esclavos de los hombres.
+1Corintios 7:24 Hermanos, cada uno permanezca con Dios en la condición en que fue llamado.
+1Corintios 7:25 En cuanto a las vírgenes no tengo mandamiento del Señor, pero doy mi opinión como el que habiendo recibido la misericordia del Señor es digno de confianza.
+1Corintios 7:26 Creo, pues, que esto es bueno en vista de la presente aflicción; es decir, que es bueno que el hombre se quede como está.
+1Corintios 7:27 ¿Estás unido a mujer? No procures separarte. ¿Estás libre de mujer? No busques mujer.
+1Corintios 7:28 Y si te casas, no has pecado; y si una virgen se casa, no ha pecado. Sin embargo, ellos tendrán problemas en esta vida, y yo quiero evitárselos.
+1Corintios 7:29 Pero esto digo, hermanos: el tiempo ha sido acortado; de modo que de ahora en adelante los que tienen mujer sean como si no la tuvieran;
+1Corintios 7:30 los que lloran, como si no lloraran; los que se regocijan, como si no se regocijaran; los que compran, como si no tuvieran nada;
+1Corintios 7:31 los que aprovechan el mundo, como si no lo aprovecharan plenamente; porque la apariencia de este mundo es pasajera.
+1Corintios 7:32 Sin embargo, quiero que estén libres de preocupación. El soltero se preocupa por las cosas del Señor, cómo puede agradar al Señor.
+1Corintios 7:33 Pero el casado se preocupa por las cosas del mundo, de cómo agradar a su mujer,
+1Corintios 7:34 y sus intereses están divididos. La mujer que no está casada y la virgen se preocupan por las cosas del Señor, para ser santas tanto en cuerpo como en espíritu; pero la casada se preocupa por las cosas del mundo, de cómo agradar a su marido.
+1Corintios 7:35 Esto digo para su propio beneficio; no para ponerles restricción, sino para promover lo que es honesto y para asegurar su constante devoción al Señor.
+1Corintios 7:36 Y si alguien cree que no está obrando correctamente con respecto a su hija virgen, si ella es de edad madura, y si es necesario que así se haga, que haga lo que quiera, no peca; que se case.
+1Corintios 7:37 Pero el que está firme en su corazón, y sin presión alguna, y tiene control sobre su propia voluntad, y ha decidido en su corazón conservar virgen a su hija, bien hará.
+1Corintios 7:38 Así los dos, el que da en matrimonio a su hija virgen, hace bien; y el que no la da en matrimonio, hace mejor.
+1Corintios 7:39 La mujer está ligada mientras el marido vive; pero si el marido muere, está en libertad de casarse con quien desee, solo que sea en el Señor.
+1Corintios 7:40 Pero en mi opinión, será más feliz si se queda como está. Y creo que yo también tengo el Espíritu de Dios.
+1Corintios 8:1 En cuanto a lo sacrificado a los ídolos, sabemos que todos tenemos conocimiento. El conocimiento envanece, pero el amor edifica.
+1Corintios 8:2 Si alguien cree que sabe algo, no ha aprendido todavía como debe saber;
+1Corintios 8:3 pero si alguien ama a Dios, ese es conocido por Él.
+1Corintios 8:4 Por tanto, en cuanto a comer de lo sacrificado a los ídolos, sabemos que un ídolo no es nada en el mundo, y que no hay sino un solo Dios.
+1Corintios 8:5 Porque aunque haya algunos llamados dioses, ya sea en el cielo o en la tierra, como por cierto hay muchos dioses y muchos señores,
+1Corintios 8:6 pero para nosotros hay un solo Dios, el Padre, de quien proceden todas las cosas y nosotros somos para Él; y un solo Señor, Jesucristo, por quien son todas las cosas y por medio de Él existimos nosotros.
+1Corintios 8:7 Sin embargo, no todos tienen este conocimiento. Porque algunos, estando acostumbrados al ídolo hasta ahora, comen alimento como si este fuera sacrificado a un ídolo, y su conciencia, siendo débil, se mancha.
+1Corintios 8:8 Pero la comida no nos recomendará a Dios, pues ni somos menos si no comemos, ni somos más si comemos.
+1Corintios 8:9 Pero tengan cuidado, no sea que esta libertad de ustedes de alguna manera se convierta en piedra de tropiezo para el débil.
+1Corintios 8:10 Porque si alguien te ve a ti, que tienes conocimiento, sentado a la mesa en un templo de ídolos, ¿no será estimulada su conciencia, si él es débil, a comer lo sacrificado a los ídolos?
+1Corintios 8:11 Por tu conocimiento se perderá el que es débil, el hermano por quien Cristo murió.
+1Corintios 8:12 Y así, al pecar contra los hermanos y herir su conciencia cuando esta es débil, pecan contra Cristo.
+1Corintios 8:13 Por tanto, si la comida hace que mi hermano caiga en pecado, no comeré carne jamás, para no hacer pecar a mi hermano.
+1Corintios 9:1 ¿No soy libre? ¿No soy apóstol? ¿No he visto a Jesús nuestro Señor? ¿No son ustedes mi obra en el Señor?
+1Corintios 9:2 Si para otros no soy apóstol, por lo menos para ustedes sí lo soy; pues ustedes son el sello de mi apostolado en el Señor.
+1Corintios 9:3 Mi defensa contra los que me examinan es esta:
+1Corintios 9:4 ¿Acaso no tenemos derecho a comer y beber?
+1Corintios 9:5 ¿No tenemos derecho a llevar con nosotros una esposa creyente, así como los demás apóstoles y los hermanos del Señor y Cefas?
+1Corintios 9:6 ¿O acaso solo Bernabé y yo no tenemos el derecho a no trabajar?
+1Corintios 9:7 ¿Quién ha servido alguna vez como soldado a sus propias expensas? ¿Quién planta una viña y no come de su fruto? ¿O quién cuida un rebaño y no bebe de la leche del rebaño?
+1Corintios 9:8 ¿Acaso digo esto según el juicio humano? ¿No dice también la ley esto mismo?
+1Corintios 9:9 Pues en la ley de Moisés está escrito: «NO PONDRÁS BOZAL AL BUEY CUANDO TRILLA». ¿Acaso le preocupan a Dios los bueyes?
+1Corintios 9:10 ¿O lo dice especialmente por nosotros? Sí, se escribió por nosotros, porque el que ara debe arar con esperanza, y el que trilla debe trillar con la esperanza de recibir de la cosecha.
+1Corintios 9:11 Si en ustedes sembramos lo espiritual, ¿será demasiado que de ustedes cosechemos lo material?
+1Corintios 9:12 Si otros tienen este derecho sobre ustedes, ¿no lo tenemos aún más nosotros? Sin embargo, no hemos usado este derecho, sino que sufrimos todo para no causar estorbo al evangelio de Cristo.
+1Corintios 9:13 ¿No saben que los que desempeñan los servicios sagrados comen la comida del templo, y los que regularmente sirven al altar, del altar reciben su parte?
+1Corintios 9:14 Así también ordenó el Señor que los que proclaman el evangelio, vivan del evangelio.
+1Corintios 9:15 Pero yo de nada de esto me he aprovechado. Y no escribo esto para que así se haga conmigo. Porque mejor me fuera morir, que permitir que alguien me prive de esta gloria.
+1Corintios 9:16 Porque si predico el evangelio, no tengo nada de qué gloriarme, pues estoy bajo el deber de hacerlo. Pues ¡ay de mí si no predico el evangelio!
+1Corintios 9:17 Porque si hago esto voluntariamente, tengo recompensa; pero si lo hago en contra de mi voluntad, un encargo se me ha confiado.
+1Corintios 9:18 ¿Cuál es, entonces, mi recompensa? Que al predicar el evangelio, pueda ofrecerlo gratuitamente sin hacer pleno uso de mi derecho como predicador del evangelio.
+1Corintios 9:19 Porque aunque soy libre de todos, de todos me he hecho esclavo para ganar al mayor número posible.
+1Corintios 9:20 A los judíos me hice como judío, para poder ganar a los judíos. A los que están bajo la ley, como bajo la ley, aunque yo no estoy bajo la ley, para poder ganar a los que están bajo la ley.
+1Corintios 9:21 A los que están sin ley, como sin ley, aunque no estoy sin la ley de Dios, sino bajo la ley de Cristo, para poder ganar a los que están sin ley.
+1Corintios 9:22 A los débiles me hice débil, para ganar a los débiles. A todos me he hecho todo, para que por todos los medios salve a algunos.
+1Corintios 9:23 Y todo lo hago por amor del evangelio, para ser partícipe de él.
+1Corintios 9:24 ¿No saben que los que corren en el estadio, todos en verdad corren, pero solo uno obtiene el premio? Corran de tal modo que ganen.
+1Corintios 9:25 Y todo el que compite en los juegos se abstiene de todo. Ellos lo hacen para recibir una corona corruptible, pero nosotros, una incorruptible.
+1Corintios 9:26 Por tanto, yo de esta manera corro, no como sin tener meta; de esta manera peleo, no como dando golpes al aire,
+1Corintios 9:27 sino que golpeo mi cuerpo y lo hago mi esclavo, no sea que habiendo predicado a otros, yo mismo sea descalificado.
+1Corintios 10:1 Porque no quiero que ignoren, hermanos, que todos nuestros padres estuvieron bajo la nube y todos pasaron por el mar.
+1Corintios 10:2 En Moisés todos fueron bautizados en la nube y en el mar.
+1Corintios 10:3 Todos comieron el mismo alimento espiritual,
+1Corintios 10:4 y todos bebieron la misma bebida espiritual, porque bebían de una roca espiritual que los seguía. La roca era Cristo.
+1Corintios 10:5 Sin embargo, Dios no se agradó de la mayor parte de ellos, y por eso quedaron tendidos en el desierto.
+1Corintios 10:6 Estas cosas sucedieron como ejemplo para nosotros, a fin de que no codiciemos lo malo, como ellos lo codiciaron.
+1Corintios 10:7 No sean, pues, idólatras, como fueron algunos de ellos, según está escrito: «EL PUEBLO SE SENTÓ A COMER Y A BEBER, Y SE LEVANTÓ A JUGAR».
+1Corintios 10:8 Ni forniquemos, como algunos de ellos fornicaron, y en un día cayeron veintitrés mil.
+1Corintios 10:9 Ni provoquemos al Señor, como algunos de ellos lo provocaron, y fueron destruidos por las serpientes.
+1Corintios 10:10 Ni murmuren, como algunos de ellos murmuraron, y fueron destruidos por el destructor.
+1Corintios 10:11 Estas cosas les sucedieron como ejemplo, y fueron escritas como enseñanza para nosotros, para quienes ha llegado el fin de los siglos.
+1Corintios 10:12 Por tanto, el que cree que está firme, tenga cuidado, no sea que caiga.
+1Corintios 10:13 No les ha sobrevenido ninguna tentación que no sea común a los hombres. Fiel es Dios, que no permitirá que ustedes sean tentados más allá de lo que pueden soportar, sino que con la tentación proveerá también la vía de escape, a fin de que puedan resistirla.
+1Corintios 10:14 Por tanto, amados míos, huyan de la idolatría.
+1Corintios 10:15 Les hablo como a sabios; juzguen ustedes lo que digo.
+1Corintios 10:16 La copa de bendición que bendecimos, ¿no es la participación en la sangre de Cristo? El pan que partimos, ¿no es la participación en el cuerpo de Cristo?
+1Corintios 10:17 Puesto que el pan es uno, nosotros, que somos muchos, somos un cuerpo; porque todos participamos de aquel mismo pan.
+1Corintios 10:18 Consideren al pueblo de Israel: los que comen los sacrificios, ¿no participan del altar?
+1Corintios 10:19 ¿Qué quiero decir, entonces? ¿Que lo sacrificado a los ídolos es algo, o que un ídolo es algo?
+1Corintios 10:20 No, sino que digo que lo que los gentiles sacrifican, lo sacrifican a los demonios y no a Dios; no quiero que ustedes sean partícipes con los demonios.
+1Corintios 10:21 Ustedes no pueden beber la copa del Señor y la copa de los demonios; no pueden participar de la mesa del Señor y de la mesa de los demonios.
+1Corintios 10:22 ¿O provocaremos a celos al Señor? ¿Somos, acaso, más fuertes que Él?
+1Corintios 10:23 Todo es lícito, pero no todo es de provecho. Todo es lícito, pero no todo edifica.
+1Corintios 10:24 Nadie busque su propio bien, sino el de su prójimo.
+1Corintios 10:25 Coman de todo lo que se vende en la carnicería sin preguntar nada por motivos de conciencia,
+1Corintios 10:26 PORQUE DEL SEÑOR ES LA TIERRA Y TODO LO QUE EN ELLA HAY.
+1Corintios 10:27 Si algún incrédulo los invita y quieren ir, coman de todo lo que se les ponga delante sin preguntar nada por motivos de conciencia.
+1Corintios 10:28 Pero si alguien les dice: «Esto ha sido sacrificado a los ídolos», no lo coman, por causa del que se lo dijo, y por motivos de conciencia, PORQUE DEL SEÑOR ES LA TIERRA Y TODO LO QUE EN ELLA HAY.
+1Corintios 10:29 Quiero decir, no la conciencia de ustedes, sino la del otro. Pues ¿por qué ha de ser juzgada mi libertad por la conciencia ajena?
+1Corintios 10:30 Si participo con agradecimiento, ¿por qué he de ser censurado a causa de aquello por lo cual doy gracias?
+1Corintios 10:31 Entonces, ya sea que coman, que beban, o que hagan cualquier otra cosa, háganlo todo para la gloria de Dios.
+1Corintios 10:32 No sean motivo de tropiezo ni a judíos, ni a griegos, ni a la iglesia de Dios;
+1Corintios 10:33 así como también yo procuro agradar a todos en todo, no buscando mi propio beneficio, sino el de muchos, para que sean salvos.
+1Corintios 11:1 Sean imitadores de mí, como también yo lo soy de Cristo.
+1Corintios 11:2 Los alabo porque en todo se acuerdan de mí y guardan las tradiciones con firmeza, tal como yo se las entregué.
+1Corintios 11:3 Pero quiero que sepan que la cabeza de todo hombre es Cristo, y la cabeza de la mujer es el hombre, y la cabeza de Cristo es Dios.
+1Corintios 11:4 Todo hombre que cubre su cabeza mientras ora o profetiza, deshonra su cabeza.
+1Corintios 11:5 Pero toda mujer que tiene la cabeza descubierta mientras ora o profetiza, deshonra su cabeza, porque se hace una con la que está rapada.
+1Corintios 11:6 Porque si la mujer no se cubre la cabeza, que también se corte el cabello; pero si es deshonroso para la mujer cortarse el cabello, o raparse, que se cubra.
+1Corintios 11:7 Pues el hombre no debe cubrirse la cabeza, ya que él es la imagen y gloria de Dios, pero la mujer es la gloria del hombre.
+1Corintios 11:8 Porque el hombre no procede de la mujer, sino la mujer del hombre.
+1Corintios 11:9 En verdad el hombre no fue creado a causa de la mujer, sino la mujer a causa del hombre.
+1Corintios 11:10 Por tanto, la mujer debe tener un símbolo de autoridad sobre la cabeza, por causa de los ángeles.
+1Corintios 11:11 Sin embargo, en el Señor, ni la mujer es independiente del hombre, ni el hombre independiente de la mujer.
+1Corintios 11:12 Porque así como la mujer procede del hombre, también el hombre nace de la mujer; y todas las cosas proceden de Dios.
+1Corintios 11:13 Juzguen ustedes mismos: ¿es propio que la mujer ore a Dios con la cabeza descubierta?
+1Corintios 11:14 ¿No les enseña la misma naturaleza que si el hombre tiene el cabello largo le es deshonra,
+1Corintios 11:15 pero que si la mujer tiene el cabello largo le es una gloria? Pues a ella el cabello le es dado por velo.
+1Corintios 11:16 Pero si alguien parece ser contencioso, nosotros no tenemos tal costumbre, ni la tienen las iglesias de Dios.
+1Corintios 11:17 Pero al darles estas instrucciones, no los alabo, porque no se congregan para lo bueno, sino para lo malo.
+1Corintios 11:18 Pues, en primer lugar, oigo que cuando se reúnen como iglesia hay divisiones entre ustedes, y en parte lo creo.
+1Corintios 11:19 Porque es necesario que entre ustedes haya bandos, a fin de que se manifiesten entre ustedes los que son aprobados.
+1Corintios 11:20 Por tanto, cuando se reúnen, esto ya no es comer la Cena del Señor.
+1Corintios 11:21 Porque al comer, cada uno toma primero su propia cena, y uno pasa hambre y otro se embriaga.
+1Corintios 11:22 ¿Qué? ¿No tienen casas para comer y beber? ¿O desprecian la iglesia de Dios y avergüenzan a los que nada tienen? ¿Qué les diré? ¿Los alabaré? En esto no los alabaré.
+1Corintios 11:23 Porque yo recibí del Señor lo mismo que les he enseñado: que el Señor Jesús, la noche en que fue entregado, tomó pan,
+1Corintios 11:24 y después de dar gracias, lo partió y dijo: «Esto es Mi cuerpo que es para ustedes; hagan esto en memoria de Mí».
+1Corintios 11:25 De la misma manera tomó también la copa después de haber cenado, diciendo: «Esta copa es el nuevo pacto en Mi sangre; hagan esto cuantas veces la beban en memoria de Mí».
+1Corintios 11:26 Porque todas las veces que coman este pan y beban esta copa, proclaman la muerte del Señor hasta que Él venga.
+1Corintios 11:27 De manera que el que coma el pan o beba la copa del Señor indignamente, será culpable del cuerpo y de la sangre del Señor.
+1Corintios 11:28 Por tanto, examínese cada uno a sí mismo, y entonces coma del pan y beba de la copa.
+1Corintios 11:29 Porque el que come y bebe sin discernir correctamente el cuerpo del Señor, come y bebe juicio para sí.
+1Corintios 11:30 Por esta razón hay muchos débiles y enfermos entre ustedes, y muchos duermen.
+1Corintios 11:31 Pero si nos juzgáramos a nosotros mismos, no seríamos juzgados.
+1Corintios 11:32 Pero cuando somos juzgados, el Señor nos disciplina para que no seamos condenados con el mundo.
+1Corintios 11:33 Así que, hermanos míos, cuando se reúnan para comer, espérense unos a otros.
+1Corintios 11:34 Si alguien tiene hambre, coma en su casa, para que no se reúnan para juicio. Los demás asuntos los arreglaré cuando vaya.
+1Corintios 12:1 En cuanto a los dones espirituales, no quiero, hermanos, que sean ignorantes.
+1Corintios 12:2 Ustedes saben que cuando eran paganos, de una manera u otra eran arrastrados hacia los ídolos mudos.
+1Corintios 12:3 Por tanto, les hago saber que nadie hablando por el Espíritu de Dios, dice: «Jesús es anatema»; y nadie puede decir: «Jesús es el Señor», excepto por el Espíritu Santo.
+1Corintios 12:4 Ahora bien, hay diversidad de dones, pero el Espíritu es el mismo.
+1Corintios 12:5 Hay diversidad de ministerios, pero el Señor es el mismo.
+1Corintios 12:6 Y hay diversidad de operaciones, pero es el mismo Dios el que hace todas las cosas en todos.
+1Corintios 12:7 Pero a cada uno se le da la manifestación del Espíritu para el bien común.
+1Corintios 12:8 Pues a uno le es dada palabra de sabiduría por el Espíritu; a otro, palabra de conocimiento según el mismo Espíritu;
+1Corintios 12:9 a otro, fe por el mismo Espíritu; a otro, dones de sanidad por el único Espíritu;
+1Corintios 12:10 a otro, poder de milagros; a otro, profecía; a otro, discernimiento de espíritus; a otro, diversas clases de lenguas, y a otro, interpretación de lenguas.
+1Corintios 12:11 Pero todas estas cosas las hace uno y el mismo Espíritu, distribuyendo individualmente a cada uno según Su voluntad.
+1Corintios 12:12 Porque así como el cuerpo es uno, y tiene muchos miembros, pero, todos los miembros del cuerpo, aunque son muchos, constituyen un solo cuerpo, así también es Cristo.
+1Corintios 12:13 Pues por un mismo Espíritu todos fuimos bautizados en un solo cuerpo, ya judíos o griegos, ya esclavos o libres. A todos se nos dio a beber del mismo Espíritu.
+1Corintios 12:14 Porque el cuerpo no es un solo miembro, sino muchos.
+1Corintios 12:15 Si el pie dijera: «Porque no soy mano, no soy parte del cuerpo», no por eso deja de ser parte del cuerpo.
+1Corintios 12:16 Y si el oído dijera: «Porque no soy ojo, no soy parte del cuerpo», no por eso deja de ser parte del cuerpo.
+1Corintios 12:17 Si todo el cuerpo fuera ojo, ¿qué sería del oído? Si todo fuera oído, ¿qué sería del olfato?
+1Corintios 12:18 Ahora bien, Dios ha colocado a cada uno de los miembros en el cuerpo según le agradó.
+1Corintios 12:19 Y si todos fueran un solo miembro, ¿qué sería del cuerpo?
+1Corintios 12:20 Sin embargo, hay muchos miembros, pero un solo cuerpo.
+1Corintios 12:21 Y el ojo no puede decirle a la mano: «No te necesito»; ni tampoco la cabeza a los pies: «No los necesito».
+1Corintios 12:22 Por el contrario, la verdad es que los miembros del cuerpo que parecen ser los más débiles, son los más necesarios;
+1Corintios 12:23 y las partes del cuerpo que estimamos menos honrosas, a estas las vestimos con más honra. Así que las partes que consideramos más íntimas, reciben un trato más honroso,
+1Corintios 12:24 ya que nuestras partes presentables no lo necesitan. Pero así formó Dios el cuerpo, dando mayor honra a la parte que carecía de ella,
+1Corintios 12:25 a fin de que en el cuerpo no haya división, sino que los miembros tengan el mismo cuidado unos por otros.
+1Corintios 12:26 Si un miembro sufre, todos los miembros sufren con él; y si un miembro es honrado, todos los miembros se regocijan con él.
+1Corintios 12:27 Ahora bien, ustedes son el cuerpo de Cristo, y cada uno individualmente un miembro de él.
+1Corintios 12:28 Y en la iglesia, Dios ha designado primeramente, apóstoles; en segundo lugar, profetas; en tercer lugar, maestros; luego, milagros; después, dones de sanidad, ayudas, administraciones, diversas clases de lenguas.
+1Corintios 12:29 ¿Acaso son todos apóstoles? ¿Acaso son todos profetas? ¿Acaso son todos maestros? ¿Acaso son todos obradores de milagros?
+1Corintios 12:30 ¿Acaso tienen todos dones de sanidad? ¿Acaso hablan todos en lenguas? ¿Acaso interpretan todos?
+1Corintios 12:31 Pero deseen ardientemente los mejores dones. Y aun yo les muestro un camino más excelente.
+1Corintios 13:1 Si yo hablara lenguas humanas y angélicas, pero no tengo amor, he llegado a ser como metal que resuena o címbalo que retiñe.
+1Corintios 13:2 Y si tuviera el don de profecía, y entendiera todos los misterios y todo conocimiento, y si tuviera toda la fe como para trasladar montañas, pero no tengo amor, nada soy.
+1Corintios 13:3 Y si diera todos mis bienes para dar de comer a los pobres, y si entregara mi cuerpo para ser quemado, pero no tengo amor, de nada me aprovecha.
+1Corintios 13:4 El amor es paciente, es bondadoso. El amor no tiene envidia; el amor no es jactancioso, no es arrogante.
+1Corintios 13:5 No se porta indecorosamente; no busca lo suyo, no se irrita, no toma en cuenta el mal recibido.
+1Corintios 13:6 El amor no se regocija de la injusticia, sino que se alegra con la verdad.
+1Corintios 13:7 Todo lo sufre, todo lo cree, todo lo espera, todo lo soporta.
+1Corintios 13:8 El amor nunca deja de ser. Pero si hay dones de profecía, se acabarán; si hay lenguas, cesarán; si hay conocimiento, se acabará.
+1Corintios 13:9 Porque en parte conocemos, y en parte profetizamos;
+1Corintios 13:10 pero cuando venga lo perfecto, lo incompleto se acabará.
+1Corintios 13:11 Cuando yo era niño, hablaba como niño, pensaba como niño, razonaba como niño; pero cuando llegué a ser hombre, dejé las cosas de niño.
+1Corintios 13:12 Porque ahora vemos por un espejo, veladamente, pero entonces veremos cara a cara. Ahora conozco en parte, pero entonces conoceré plenamente, como he sido conocido.
+1Corintios 13:13 Y ahora permanecen la fe, la esperanza, el amor: estos tres; pero el mayor de ellos es el amor.
+1Corintios 14:1 Procuren alcanzar el amor; pero también deseen ardientemente los dones espirituales, sobre todo que profeticen.
+1Corintios 14:2 Porque el que habla en lenguas no habla a los hombres, sino a Dios, pues nadie lo entiende, sino que en su espíritu habla misterios.
+1Corintios 14:3 Pero el que profetiza habla a los hombres para edificación, exhortación y consolación.
+1Corintios 14:4 El que habla en lenguas, a sí mismo se edifica, pero el que profetiza edifica a la iglesia.
+1Corintios 14:5 Yo quisiera que todos hablaran en lenguas, pero aún más, que profetizaran. Porque el que profetiza es superior al que habla en lenguas, a menos de que las interprete para que la iglesia reciba edificación.
+1Corintios 14:6 Ahora bien, hermanos, si yo voy a ustedes hablando en lenguas, ¿de qué provecho les seré a menos de que les hable por medio de revelación, o de conocimiento, o de profecía, o de enseñanza?
+1Corintios 14:7 Aun las cosas inanimadas, como la flauta o el arpa, al producir un sonido, si no dan con distinción los sonidos, ¿cómo se sabrá lo que se toca en la flauta o en el arpa?
+1Corintios 14:8 Porque si la trompeta da un sonido incierto, ¿quién se preparará para la batalla?
+1Corintios 14:9 Así también ustedes, a menos de que con la boca pronuncien palabras inteligibles, ¿cómo se sabrá lo que dicen? Pues hablarán al aire.
+1Corintios 14:10 Hay, quizás, muchas variedades de idiomas en el mundo, y ninguno carece de significado.
+1Corintios 14:11 Pues si yo no sé el significado de las palabras, seré para el que habla un extranjero, y el que habla será un extranjero para mí.
+1Corintios 14:12 Así también ustedes, puesto que anhelan dones espirituales, procuren abundar en ellos para la edificación de la iglesia.
+1Corintios 14:13 Por tanto, el que habla en lenguas, pida en oración para que pueda interpretar.
+1Corintios 14:14 Porque si yo oro en lenguas, mi espíritu ora, pero mi entendimiento queda sin fruto.
+1Corintios 14:15 Entonces ¿qué? Oraré con el espíritu, pero también oraré con el entendimiento. Cantaré con el espíritu, pero también cantaré con el entendimiento.
+1Corintios 14:16 De otra manera, si bendices solo en el espíritu, ¿cómo dirá el «Amén» a tu acción de gracias el que ocupa el lugar del que no tiene ese don, puesto que no sabe lo que dices?
+1Corintios 14:17 Porque tú, bien das gracias, pero el otro no es edificado.
+1Corintios 14:18 Doy gracias a Dios porque hablo en lenguas más que todos ustedes.
+1Corintios 14:19 Sin embargo, en la iglesia prefiero hablar cinco palabras con mi entendimiento, para instruir también a otros, antes que diez mil palabras en lenguas.
+1Corintios 14:20 Hermanos, no sean niños en la manera de pensar. Más bien, sean niños en la malicia, pero en la manera de pensar sean maduros.
+1Corintios 14:21 En la ley está escrito: «POR HOMBRES DE LENGUAS EXTRAÑAS Y POR BOCA DE EXTRAÑOS HABLARÉ A ESTE PUEBLO, Y NI AUN ASÍ ME ESCUCHARÁN», dice el Señor.
+1Corintios 14:22 Así que las lenguas son una señal, no para los que creen, sino para los incrédulos; pero la profecía es una señal, no para los incrédulos, sino para los creyentes.
+1Corintios 14:23 Por tanto, si toda la iglesia se reúne y todos hablan en lenguas, y entran algunos sin ese don o que son incrédulos, ¿no dirán que ustedes están locos?
+1Corintios 14:24 Pero si todos profetizan, y entra un incrédulo, o uno sin ese don, por todos será convencido, por todos será juzgado.
+1Corintios 14:25 Los secretos de su corazón quedarán al descubierto, y él se postrará y adorará a Dios, declarando que en verdad Dios está entre ustedes.
+1Corintios 14:26 ¿Qué hay que hacer, pues, hermanos? Cuando se reúnan, cada cual aporte salmo, enseñanza, revelación, lenguas o interpretación. Que todo se haga para edificación.
+1Corintios 14:27 Si alguien habla en lenguas, que hablen dos, o a lo más tres, y por turno, y que uno interprete.
+1Corintios 14:28 Pero si no hay intérprete, que guarde silencio en la iglesia y que hable para sí y para Dios.
+1Corintios 14:29 Y que dos o tres profetas hablen, y los demás juzguen.
+1Corintios 14:30 Pero si a otro que está sentado le es revelado algo, que calle el primero.
+1Corintios 14:31 Porque todos pueden profetizar uno por uno, para que todos aprendan y todos sean exhortados.
+1Corintios 14:32 Los espíritus de los profetas están sujetos a los profetas.
+1Corintios 14:33 Porque Dios no es Dios de confusión, sino de paz, como en todas las iglesias de los santos.
+1Corintios 14:34 Las mujeres guarden silencio en las iglesias, porque no les es permitido hablar, antes bien, que se sujeten como dice también la ley.
+1Corintios 14:35 Y si quieren aprender algo, que pregunten a sus propios maridos en casa, porque no es correcto que la mujer hable en la iglesia.
+1Corintios 14:36 ¿Acaso la palabra de Dios salió de ustedes, o solo a ustedes ha llegado?
+1Corintios 14:37 Si alguien piensa que es profeta o espiritual, reconozca que lo que les escribo es mandamiento del Señor.
+1Corintios 14:38 Pero si alguien no reconoce esto, él no es reconocido.
+1Corintios 14:39 Por tanto, hermanos míos, anhelen el profetizar, y no prohíban hablar en lenguas.
+1Corintios 14:40 Pero que todo se haga decentemente y con orden.
+1Corintios 15:1 Ahora les hago saber, hermanos, el evangelio que les prediqué, el cual también ustedes recibieron, en el cual también están firmes,
+1Corintios 15:2 por el cual también son salvos, si retienen la palabra que les prediqué, a no ser que hayan creído en vano.
+1Corintios 15:3 Porque yo les entregué en primer lugar lo mismo que recibí: que Cristo murió por nuestros pecados, conforme a las Escrituras;
+1Corintios 15:4 que fue sepultado y que resucitó al tercer día, conforme a las Escrituras;
+1Corintios 15:5 que se apareció a Cefas y después a los doce.
+1Corintios 15:6 Luego se apareció a más de 500 hermanos a la vez, la mayoría de los cuales viven aún, pero algunos ya duermen.
+1Corintios 15:7 Después se apareció a Jacobo, luego a todos los apóstoles.
+1Corintios 15:8 Y al último de todos, como a uno nacido fuera de tiempo, se me apareció también a mí.
+1Corintios 15:9 Porque yo soy el más insignificante de los apóstoles, que no soy digno de ser llamado apóstol, pues perseguí a la iglesia de Dios.
+1Corintios 15:10 Pero por la gracia de Dios soy lo que soy, y Su gracia para conmigo no resultó vana. Antes bien he trabajado mucho más que todos ellos, aunque no yo, sino la gracia de Dios en mí.
+1Corintios 15:11 Sin embargo, haya sido yo o ellos, así predicamos y así creyeron ustedes.
+1Corintios 15:12 Ahora bien, si se predica que Cristo ha resucitado de entre los muertos, ¿cómo dicen algunos entre ustedes que no hay resurrección de muertos?
+1Corintios 15:13 Y si no hay resurrección de muertos, entonces ni siquiera Cristo ha resucitado;
+1Corintios 15:14 y si Cristo no ha resucitado, vana es entonces nuestra predicación, y vana también la fe de ustedes.
+1Corintios 15:15 Aún más, somos hallados testigos falsos de Dios, porque hemos testificado contra Dios que Él resucitó a Cristo, a quien no resucitó, si en verdad los muertos no resucitan.
+1Corintios 15:16 Porque si los muertos no resucitan, entonces ni siquiera Cristo ha resucitado;
+1Corintios 15:17 y si Cristo no ha resucitado, la fe de ustedes es falsa; todavía están en sus pecados.
+1Corintios 15:18 Entonces también los que han dormido en Cristo están perdidos.
+1Corintios 15:19 Si hemos esperado en Cristo para esta vida solamente, somos, de todos los hombres, los más dignos de lástima.
+1Corintios 15:20 Pero ahora Cristo ha resucitado de entre los muertos, primicias de los que durmieron.
+1Corintios 15:21 Porque ya que la muerte entró por un hombre, también por un hombre vino la resurrección de los muertos.
+1Corintios 15:22 Porque así como en Adán todos mueren, también en Cristo todos serán vivificados.
+1Corintios 15:23 Pero cada uno en su debido orden: Cristo, las primicias; luego los que son de Cristo en Su venida.
+1Corintios 15:24 Entonces vendrá el fin, cuando Él entregue el reino al Dios y Padre, después que haya terminado con todo dominio y toda autoridad y poder.
+1Corintios 15:25 Pues Cristo debe reinar hasta que haya puesto a todos Sus enemigos debajo de Sus pies.
+1Corintios 15:26 Y el último enemigo que será eliminado es la muerte.
+1Corintios 15:27 Porque DIOS HA PUESTO TODO EN SUJECIÓN BAJO SUS PIES. Pero cuando dice que todas las cosas están sujetas a Él, es evidente que se exceptúa a Aquel que ha sometido a Él todas las cosas.
+1Corintios 15:28 Y cuando todo haya sido sometido a Él, entonces también el Hijo mismo se sujetará a Aquel que sujetó a Él todas las cosas, para que Dios sea todo en todos.
+1Corintios 15:29 De no ser así, ¿qué harán los que se bautizan por los muertos? Si de ninguna manera los muertos resucitan, ¿por qué, entonces, se bautizan por ellos?
+1Corintios 15:30 Y también, ¿por qué estamos en peligro a toda hora?
+1Corintios 15:31 Les aseguro, hermanos, por la satisfacción que siento por ustedes en Cristo Jesús nuestro Señor, que cada día estoy en peligro de muerte.
+1Corintios 15:32 Si por motivos humanos luché contra fieras en Éfeso, ¿de qué me aprovecha? Si los muertos no resucitan, COMAMOS Y BEBAMOS, QUE MAÑANA MORIREMOS.
+1Corintios 15:33 No se dejen engañar: «Las malas compañías corrompen las buenas costumbres».
+1Corintios 15:34 Sean sobrios, como conviene, y dejen de pecar; porque algunos no tienen conocimiento de Dios. Para vergüenza de ustedes lo digo.
+1Corintios 15:35 Pero alguien dirá: «¿Cómo resucitan los muertos? ¿Y con qué clase de cuerpo vienen?».
+1Corintios 15:36 ¡Necio! Lo que tú siembras no llega a tener vida si antes no muere.
+1Corintios 15:37 Y lo que siembras, no siembras el cuerpo que nacerá, sino el grano desnudo, quizás de trigo o de alguna otra especie.
+1Corintios 15:38 Pero Dios le da un cuerpo como Él quiso, y a cada semilla su propio cuerpo.
+1Corintios 15:39 No toda carne es la misma carne, sino que una es la de los hombres, otra la de las bestias, otra la de las aves y otra la de los peces.
+1Corintios 15:40 Hay, asimismo, cuerpos celestiales y cuerpos terrestres, pero la gloria del celestial es una, y la del terrestre es otra.
+1Corintios 15:41 Hay una gloria del sol, y otra gloria de la luna, y otra gloria de las estrellas; pues una estrella es distinta de otra estrella en gloria.
+1Corintios 15:42 Así es también la resurrección de los muertos. Se siembra un cuerpo corruptible, se resucita un cuerpo incorruptible;
+1Corintios 15:43 se siembra en deshonra, se resucita en gloria; se siembra en debilidad, se resucita en poder;
+1Corintios 15:44 se siembra un cuerpo natural, se resucita un cuerpo espiritual. Si hay un cuerpo natural, hay también un cuerpo espiritual.
+1Corintios 15:45 Así también está escrito: «El primer HOMBRE, Adán, FUE HECHO ALMA VIVIENTE». El último Adán, espíritu que da vida.
+1Corintios 15:46 Sin embargo, el espiritual no es primero, sino el natural; luego el espiritual.
+1Corintios 15:47 El primer hombre es de la tierra, terrenal; el segundo hombre es del cielo.
+1Corintios 15:48 Como es el terrenal, así son también los que son terrenales; y como es el celestial, así son también los que son celestiales.
+1Corintios 15:49 Y tal como hemos traído la imagen del terrenal, traeremos también la imagen del celestial.
+1Corintios 15:50 Esto digo, hermanos: que la carne y la sangre no pueden heredar el reino de Dios; ni lo que se corrompe hereda lo incorruptible.
+1Corintios 15:51 Así que les digo un misterio: no todos dormiremos, pero todos seremos transformados
+1Corintios 15:52 en un momento, en un abrir y cerrar de ojos, a la trompeta final. Pues la trompeta sonará y los muertos resucitarán incorruptibles, y nosotros seremos transformados.
+1Corintios 15:53 Porque es necesario que esto corruptible se vista de incorrupción, y esto mortal se vista de inmortalidad.
+1Corintios 15:54 Pero cuando esto corruptible se haya vestido de incorrupción, y esto mortal se haya vestido de inmortalidad, entonces se cumplirá la palabra que está escrita: «DEVORADA HA SIDO LA MUERTE en victoria.
+1Corintios 15:55 ¿DÓNDE ESTÁ, OH MUERTE, TU VICTORIA? ¿DÓNDE, OH SEPULCRO, TU AGUIJÓN?».
+1Corintios 15:56 El aguijón de la muerte es el pecado, y el poder del pecado es la ley;
+1Corintios 15:57 pero a Dios gracias, que nos da la victoria por medio de nuestro Señor Jesucristo.
+1Corintios 15:58 Por tanto, mis amados hermanos, estén firmes, constantes, abundando siempre en la obra del Señor, sabiendo que su trabajo en el Señor no es en vano.
+1Corintios 16:1 Ahora bien, en cuanto a la ofrenda para los santos, hagan ustedes también como instruí a las iglesias de Galacia.
+1Corintios 16:2 Que el primer día de la semana, cada uno de ustedes aparte y guarde según haya prosperado, para que cuando yo vaya no se recojan entonces ofrendas.
+1Corintios 16:3 Cuando yo llegue, enviaré con cartas a quienes ustedes hayan designado, para que lleven su contribución a Jerusalén.
+1Corintios 16:4 Y si es conveniente que yo también vaya, ellos irán conmigo.
+1Corintios 16:5 Iré a ustedes cuando haya pasado por Macedonia, pues voy a pasar por Macedonia.
+1Corintios 16:6 Y tal vez me quede con ustedes, o aun pase allí el invierno, para que me encaminen adonde haya de ir.
+1Corintios 16:7 Pues no deseo verlos ahora solo de paso, porque espero permanecer con ustedes por algún tiempo, si el Señor me lo permite.
+1Corintios 16:8 Pero me quedaré en Éfeso hasta Pentecostés,
+1Corintios 16:9 porque se me ha abierto una puerta grande para el servicio eficaz, aunque también hay muchos adversarios.
+1Corintios 16:10 Si llega Timoteo, vean que esté entre ustedes sin temor, pues él hace la obra del Señor lo mismo que yo.
+1Corintios 16:11 Por tanto, nadie lo menosprecie. Más bien, envíenlo en paz para que venga a mí, porque lo espero con los hermanos.
+1Corintios 16:12 En cuanto a nuestro hermano Apolos, mucho lo animé a que fuera a ustedes con los hermanos, pero de ninguna manera tuvo ahora el deseo de ir. Sin embargo, irá cuando tenga oportunidad.
+1Corintios 16:13 Estén alerta, permanezcan firmes en la fe, pórtense varonilmente, sean fuertes.
+1Corintios 16:14 Todas sus cosas sean hechas con amor.
+1Corintios 16:15 Los exhorto, hermanos (ya conocen a los de la casa de Estéfanas, que fueron los primeros convertidos de Acaya, y que se han dedicado al servicio de los santos),
+1Corintios 16:16 que también ustedes estén en sujeción a los que son como ellos, y a todo el que ayuda y trabaja en la obra.
+1Corintios 16:17 Y me regocijo por la venida de Estéfanas, de Fortunato y de Acaico, pues ellos han suplido lo que faltaba de parte de ustedes.
+1Corintios 16:18 Porque ellos han recreado mi espíritu y el de ustedes. Por tanto, reconozcan a tales personas.
+1Corintios 16:19 Las iglesias de Asia los saludan. Aquila y Priscila, con la iglesia que está en su casa, los saludan muy afectuosamente en el Señor.
+1Corintios 16:20 Todos los hermanos los saludan. Salúdense los unos a los otros con un beso santo.
+1Corintios 16:21 Este saludo es de mi puño y letra. Pablo.
+1Corintios 16:22 Si alguien no ama al Señor, que sea anatema. ¡Maranata!
+1Corintios 16:23 La gracia del Señor Jesús sea con ustedes.
+1Corintios 16:24 Mi amor sea con todos ustedes en Cristo Jesús. Amén.

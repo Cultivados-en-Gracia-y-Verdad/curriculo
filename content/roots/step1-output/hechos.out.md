@@ -1,0 +1,4008 @@
+### Hechos 1:1 {#hech-1-1}
+Τὸν μὲν πρῶτον λόγον ἐποιησάμην περὶ πάντων, ὦ Θεόφιλε, ὧν ἤρξατο ⸀ὁ Ἰησοῦς ποιεῖν τε καὶ διδάσκειν 
+[En el primer relato, estimado Teófilo, escribí acerca de todo lo que Jesús comenzó a hacer y a enseñar,]
+
+### Hechos 1:2 {#hech-1-2}
+ἄχρι ἧς ἡμέρας ἐντειλάμενος τοῖς ἀποστόλοις διὰ πνεύματος ἁγίου οὓς ἐξελέξατο ἀνελήμφθη· 
+[hasta el día en que fue recibido arriba en el cielo, después de que por el Espíritu Santo Él había dado instrucciones a los apóstoles que había escogido.]
+
+### Hechos 1:3 {#hech-1-3}
+οἷς καὶ παρέστησεν ἑαυτὸν ζῶντα μετὰ τὸ παθεῖν αὐτὸν ἐν πολλοῖς τεκμηρίοις, διʼ ἡμερῶν τεσσεράκοντα ὀπτανόμενος αὐτοῖς καὶ λέγων τὰ περὶ τῆς βασιλείας τοῦ θεοῦ· 
+[A estos también, después de Su padecimiento, se presentó vivo con muchas pruebas convincentes, apareciéndoseles durante cuarenta días y hablándoles de lo relacionado con el reino de Dios.]
+
+### Hechos 1:4 {#hech-1-4}
+καὶ συναλιζόμενος παρήγγειλεν αὐτοῖς ἀπὸ Ἱεροσολύμων μὴ χωρίζεσθαι, ἀλλὰ περιμένειν τὴν ἐπαγγελίαν τοῦ πατρὸς ἣν ἠκούσατέ μου· 
+[Y reuniéndolos, les mandó que no salieran de Jerusalén, sino que esperaran la promesa del Padre: «La cual», les dijo, «oyeron de Mí;]
+
+### Hechos 1:5 {#hech-1-5}
+ὅτι Ἰωάννης μὲν ἐβάπτισεν ὕδατι, ὑμεῖς δὲ ⸂ἐν πνεύματι βαπτισθήσεσθε⸃ ἁγίῳ οὐ μετὰ πολλὰς ταύτας ἡμέρας. 
+[porque Juan bautizó con agua, pero ustedes serán bautizados con el Espíritu Santo dentro de pocos días».]
+
+### Hechos 1:6 {#hech-1-6}
+Οἱ μὲν οὖν συνελθόντες ⸀ἠρώτων αὐτὸν λέγοντες· Κύριε, εἰ ἐν τῷ χρόνῳ τούτῳ ἀποκαθιστάνεις τὴν βασιλείαν τῷ Ἰσραήλ; 
+[Entonces los que estaban reunidos, le preguntaban: «Señor, ¿restaurarás en este tiempo el reino a Israel?».]
+
+### Hechos 1:7 {#hech-1-7}
+εἶπεν ⸀δὲ πρὸς αὐτούς· Οὐχ ὑμῶν ἐστιν γνῶναι χρόνους ἢ καιροὺς οὓς ὁ πατὴρ ἔθετο ἐν τῇ ἰδίᾳ ἐξουσίᾳ, 
+[Jesús les contestó: «No les corresponde a ustedes saber los tiempos ni las épocas que el Padre ha fijado con Su propia autoridad;]
+
+### Hechos 1:8 {#hech-1-8}
+ἀλλὰ λήμψεσθε δύναμιν ἐπελθόντος τοῦ ἁγίου πνεύματος ἐφʼ ὑμᾶς, καὶ ἔσεσθέ ⸀μου μάρτυρες ἔν τε Ἰερουσαλὴμ καὶ ἐν πάσῃ τῇ Ἰουδαίᾳ καὶ Σαμαρείᾳ καὶ ἕως ἐσχάτου τῆς γῆς. 
+[pero recibirán poder cuando el Espíritu Santo venga sobre ustedes; y serán Mis testigos en Jerusalén, en toda Judea y Samaria, y hasta los confines de la tierra».]
+
+### Hechos 1:9 {#hech-1-9}
+καὶ ταῦτα εἰπὼν βλεπόντων αὐτῶν ἐπήρθη καὶ νεφέλη ὑπέλαβεν αὐτὸν ἀπὸ τῶν ὀφθαλμῶν αὐτῶν. 
+[Después de haber dicho estas cosas, fue elevado mientras ellos miraban, y una nube lo recibió y lo ocultó de sus ojos.]
+
+### Hechos 1:10 {#hech-1-10}
+καὶ ὡς ἀτενίζοντες ἦσαν εἰς τὸν οὐρανὸν πορευομένου αὐτοῦ, καὶ ἰδοὺ ἄνδρες δύο παρειστήκεισαν αὐτοῖς ἐν ⸂ἐσθήσεσι λευκαῖς⸃, 
+[Mientras Jesús ascendía, estando ellos mirando fijamente al cielo, se les presentaron dos hombres en vestiduras blancas,]
+
+### Hechos 1:11 {#hech-1-11}
+οἳ καὶ εἶπαν· Ἄνδρες Γαλιλαῖοι, τί ἑστήκατε ⸀βλέποντες εἰς τὸν οὐρανόν; οὗτος ὁ Ἰησοῦς ὁ ἀναλημφθεὶς ἀφʼ ὑμῶν εἰς τὸν οὐρανὸν οὕτως ἐλεύσεται ὃν τρόπον ἐθεάσασθε αὐτὸν πορευόμενον εἰς τὸν οὐρανόν. 
+[que les dijeron: «Varones galileos, ¿por qué están mirando al cielo? Este mismo Jesús, que ha sido tomado de ustedes al cielo, vendrá de la misma manera, tal como lo han visto ir al cielo».]
+
+### Hechos 1:12 {#hech-1-12}
+Τότε ὑπέστρεψαν εἰς Ἰερουσαλὴμ ἀπὸ ὄρους τοῦ καλουμένου Ἐλαιῶνος, ὅ ἐστιν ἐγγὺς Ἰερουσαλὴμ σαββάτου ἔχον ὁδόν. 
+[Entonces los discípulos regresaron a Jerusalén desde el monte llamado de los Olivos, que está cerca de Jerusalén, camino de un día de reposo (1.2 kilómetros).]
+
+### Hechos 1:13 {#hech-1-13}
+καὶ ὅτε εἰσῆλθον, ⸂εἰς τὸ ὑπερῷον ἀνέβησαν⸃ οὗ ἦσαν καταμένοντες, ὅ τε Πέτρος καὶ ⸂Ἰωάννης καὶ Ἰάκωβος⸃ καὶ Ἀνδρέας, Φίλιππος καὶ Θωμᾶς, Βαρθολομαῖος καὶ Μαθθαῖος, Ἰάκωβος Ἁλφαίου καὶ Σίμων ὁ ζηλωτὴς καὶ Ἰούδας Ἰακώβου. 
+[Cuando hubieron entrado en la ciudad, subieron al aposento alto donde estaban hospedados, Pedro, Juan, Jacobo y Andrés, Felipe y Tomás, Bartolomé y Mateo, Jacobo hijo de Alfeo, Simón el Zelote y Judas, hijo de Jacobo.]
+
+### Hechos 1:14 {#hech-1-14}
+οὗτοι πάντες ἦσαν προσκαρτεροῦντες ὁμοθυμαδὸν τῇ ⸀προσευχῇ σὺν γυναιξὶν καὶ ⸀Μαριὰμ τῇ μητρὶ τοῦ Ἰησοῦ καὶ ⸀σὺν τοῖς ἀδελφοῖς αὐτοῦ. 
+[Todos estos estaban unánimes, entregados de continuo a la oración junto con las mujeres, y con María la madre de Jesús, y con Sus hermanos.]
+
+### Hechos 1:15 {#hech-1-15}
+Καὶ ἐν ταῖς ἡμέραις ταύταις ἀναστὰς Πέτρος ἐν μέσῳ τῶν ⸀ἀδελφῶν εἶπεν (ἦν τε ὄχλος ὀνομάτων ἐπὶ τὸ αὐτὸ ⸀ὡς ἑκατὸν εἴκοσι)· 
+[Por este tiempo, un grupo como de ciento veinte personas estaba reunido allí, y Pedro se puso de pie en medio de los hermanos, y dijo:]
+
+### Hechos 1:16 {#hech-1-16}
+Ἄνδρες ἀδελφοί, ἔδει πληρωθῆναι τὴν ⸀γραφὴν ἣν προεῖπε τὸ πνεῦμα τὸ ἅγιον διὰ στόματος Δαυὶδ περὶ Ἰούδα τοῦ γενομένου ὁδηγοῦ τοῖς συλλαβοῦσιν ⸀Ἰησοῦν, 
+[«Hermanos, tenía que cumplirse la Escritura en que por boca de David el Espíritu Santo predijo acerca de Judas, el que se hizo guía de los que prendieron a Jesús.]
+
+### Hechos 1:17 {#hech-1-17}
+ὅτι κατηριθμημένος ἦν ⸀ἐν ἡμῖν καὶ ἔλαχεν τὸν κλῆρον τῆς διακονίας ταύτης.— 
+[»Porque Judas era contado entre nosotros y recibió parte en este ministerio».]
+
+### Hechos 1:18 {#hech-1-18}
+Οὗτος μὲν οὖν ἐκτήσατο χωρίον ἐκ μισθοῦ τῆς ἀδικίας, καὶ πρηνὴς γενόμενος ἐλάκησεν μέσος, καὶ ἐξεχύθη πάντα τὰ σπλάγχνα αὐτοῦ. 
+[Este, pues, con el precio de su terrible infamia adquirió un terreno, y cayendo de cabeza se reventó por el medio, y todas sus entrañas se derramaron.]
+
+### Hechos 1:19 {#hech-1-19}
+καὶ γνωστὸν ἐγένετο πᾶσι τοῖς κατοικοῦσιν Ἰερουσαλήμ, ὥστε κληθῆναι τὸ χωρίον ἐκεῖνο τῇ ⸀ἰδίᾳ διαλέκτῳ αὐτῶν Ἁκελδαμάχ, τοῦτʼ ἔστιν Χωρίον Αἵματος.— 
+[Esto llegó al conocimiento de todos los que habitaban en Jerusalén, de manera que aquel terreno se llamó en su propia lengua Acéldama, es decir, campo de sangre.]
+
+### Hechos 1:20 {#hech-1-20}
+γέγραπται γὰρ ἐν βίβλῳ ψαλμῶν· Γενηθήτω ἡ ἔπαυλις αὐτοῦ ἔρημος καὶ μὴ ἔστω ὁ κατοικῶν ἐν αὐτῇ, καί· Τὴν ἐπισκοπὴν αὐτοῦ ⸀λαβέτω ἕτερος. 
+[«Pues en el libro de los Salmos está escrito: “QUE SEA HECHA DESIERTA SU MORADA, Y NO HAYA QUIEN HABITE EN ELLA”; Y: “QUE OTRO TOME SU CARGO”.]
+
+### Hechos 1:21 {#hech-1-21}
+δεῖ οὖν τῶν συνελθόντων ἡμῖν ἀνδρῶν ἐν παντὶ χρόνῳ ⸀ᾧ εἰσῆλθεν καὶ ἐξῆλθεν ἐφʼ ἡμᾶς ὁ κύριος Ἰησοῦς, 
+[Por tanto, es necesario que de los hombres que nos han acompañado todo el tiempo que el Señor Jesús vivió entre nosotros,]
+
+### Hechos 1:22 {#hech-1-22}
+ἀρξάμενος ἀπὸ τοῦ βαπτίσματος Ἰωάννου ἕως τῆς ἡμέρας ἧς ἀνελήμφθη ἀφʼ ἡμῶν, μάρτυρα τῆς ἀναστάσεως αὐτοῦ ⸂σὺν ἡμῖν γενέσθαι⸃ ἕνα τούτων. 
+[comenzando desde el bautismo de Juan, hasta el día en que de entre nosotros Jesús fue recibido arriba al cielo, uno sea constituido testigo con nosotros de Su resurrección».]
+
+### Hechos 1:23 {#hech-1-23}
+καὶ ἔστησαν δύο, Ἰωσὴφ τὸν καλούμενον Βαρσαββᾶν, ὃς ἐπεκλήθη Ἰοῦστος, καὶ Μαθθίαν. 
+[Presentaron a dos: a José, llamado Barsabás, al que también llamaban Justo, y a Matías.]
+
+### Hechos 1:24 {#hech-1-24}
+καὶ προσευξάμενοι εἶπαν Σὺ κύριε καρδιογνῶστα πάντων, ἀνάδειξον ὃν ἐξελέξω, ἐκ τούτων τῶν δύο ἕνα, 
+[Después de orar, dijeron: «Tú, Señor, que conoces el corazón de todos, muéstranos a cuál de estos dos has escogido]
+
+### Hechos 1:25 {#hech-1-25}
+λαβεῖν τὸν ⸀τόπον τῆς διακονίας ταύτης καὶ ἀποστολῆς, ⸀ἀφʼ ἧς παρέβη Ἰούδας πορευθῆναι εἰς τὸν τόπον τὸν ἴδιον. 
+[para ocupar este ministerio y apostolado, del cual Judas se desvió para irse al lugar que le correspondía».]
+
+### Hechos 1:26 {#hech-1-26}
+καὶ ἔδωκαν κλήρους ⸀αὐτοῖς, καὶ ἔπεσεν ὁ κλῆρος ἐπὶ Μαθθίαν, καὶ συγκατεψηφίσθη μετὰ τῶν ἕνδεκα ἀποστόλων. 
+[Echaron suertes y la suerte cayó sobre Matías, y fue contado con los once apóstoles.]
+
+### Hechos 2:1 {#hech-2-1}
+Καὶ ἐν τῷ συμπληροῦσθαι τὴν ἡμέραν τῆς πεντηκοστῆς ἦσαν ⸂πάντες ὁμοῦ⸃ ἐπὶ τὸ αὐτό, 
+[Cuando llegó el día de Pentecostés, estaban todos juntos en un mismo lugar,]
+
+### Hechos 2:2 {#hech-2-2}
+καὶ ἐγένετο ἄφνω ἐκ τοῦ οὐρανοῦ ἦχος ὥσπερ φερομένης πνοῆς βιαίας καὶ ἐπλήρωσεν ὅλον τὸν οἶκον οὗ ἦσαν καθήμενοι, 
+[y de repente vino del cielo un ruido como el de una ráfaga de viento impetuoso que llenó toda la casa donde estaban sentados.]
+
+### Hechos 2:3 {#hech-2-3}
+καὶ ὤφθησαν αὐτοῖς διαμεριζόμεναι γλῶσσαι ὡσεὶ πυρός, ⸂καὶ ἐκάθισεν⸃ ἐφʼ ἕνα ἕκαστον αὐτῶν, 
+[Se les aparecieron lenguas como de fuego que, repartiéndose, se posaron sobre cada uno de ellos.]
+
+### Hechos 2:4 {#hech-2-4}
+καὶ ἐπλήσθησαν ⸀πάντες πνεύματος ἁγίου, καὶ ἤρξαντο λαλεῖν ἑτέραις γλώσσαις καθὼς τὸ πνεῦμα ἐδίδου ⸂ἀποφθέγγεσθαι αὐτοῖς⸃. 
+[Todos fueron llenos del Espíritu Santo y comenzaron a hablar en otras lenguas, según el Espíritu les daba habilidad para expresarse.]
+
+### Hechos 2:5 {#hech-2-5}
+Ἦσαν δὲ ⸀ἐν Ἰερουσαλὴμ κατοικοῦντες Ἰουδαῖοι, ἄνδρες εὐλαβεῖς ἀπὸ παντὸς ἔθνους τῶν ὑπὸ τὸν οὐρανόν· 
+[Había judíos que moraban en Jerusalén, hombres piadosos, procedentes de todas las naciones bajo el cielo.]
+
+### Hechos 2:6 {#hech-2-6}
+γενομένης δὲ τῆς φωνῆς ταύτης συνῆλθε τὸ πλῆθος καὶ συνεχύθη, ὅτι ⸀ἤκουον εἷς ἕκαστος τῇ ἰδίᾳ διαλέκτῳ λαλούντων αὐτῶν· 
+[Al ocurrir este estruendo, la multitud se juntó; y estaban desconcertados porque cada uno los oía hablar en su propia lengua.]
+
+### Hechos 2:7 {#hech-2-7}
+ἐξίσταντο ⸀δὲ καὶ ἐθαύμαζον ⸀λέγοντες· ⸀Οὐχ ἰδοὺ ⸀πάντες οὗτοί εἰσιν οἱ λαλοῦντες Γαλιλαῖοι; 
+[Estaban asombrados y se maravillaban, diciendo: «Miren, ¿no son galileos todos estos que están hablando?]
+
+### Hechos 2:8 {#hech-2-8}
+καὶ πῶς ἡμεῖς ἀκούομεν ἕκαστος τῇ ἰδίᾳ διαλέκτῳ ἡμῶν ἐν ᾗ ἐγεννήθημεν; 
+[¿Cómo es que cada uno de nosotros los oímos hablar en nuestra lengua en la que hemos nacido?]
+
+### Hechos 2:9 {#hech-2-9}
+Πάρθοι καὶ Μῆδοι καὶ Ἐλαμῖται, καὶ οἱ κατοικοῦντες τὴν Μεσοποταμίαν, Ἰουδαίαν τε καὶ Καππαδοκίαν, Πόντον καὶ τὴν Ἀσίαν, 
+[Partos, medos y elamitas, habitantes de Mesopotamia, Judea y Capadocia, del Ponto y de Asia,]
+
+### Hechos 2:10 {#hech-2-10}
+Φρυγίαν τε καὶ Παμφυλίαν, Αἴγυπτον καὶ τὰ μέρη τῆς Λιβύης τῆς κατὰ Κυρήνην, καὶ οἱ ἐπιδημοῦντες Ῥωμαῖοι, 
+[de Frigia y de Panfilia, de Egipto y de las regiones de Libia alrededor de Cirene, viajeros de Roma, tanto judíos como prosélitos,]
+
+### Hechos 2:11 {#hech-2-11}
+Ἰουδαῖοί τε καὶ προσήλυτοι, Κρῆτες καὶ Ἄραβες, ἀκούομεν λαλούντων αὐτῶν ταῖς ἡμετέραις γλώσσαις τὰ μεγαλεῖα τοῦ θεοῦ. 
+[cretenses y árabes, los oímos hablar en nuestros propios idiomas de las maravillas de Dios».]
+
+### Hechos 2:12 {#hech-2-12}
+ἐξίσταντο δὲ πάντες καὶ ⸀διηπόρουν, ἄλλος πρὸς ἄλλον λέγοντες· Τί ⸀θέλει τοῦτο εἶναι; 
+[Todos estaban asombrados y perplejos, diciéndose unos a otros: «¿Qué quiere decir esto?».]
+
+### Hechos 2:13 {#hech-2-13}
+ἕτεροι δὲ ⸀διαχλευάζοντες ἔλεγον ὅτι Γλεύκους μεμεστωμένοι εἰσίν. 
+[Pero otros se burlaban y decían: «Están borrachos».]
+
+### Hechos 2:14 {#hech-2-14}
+Σταθεὶς δὲ ⸀ὁ Πέτρος σὺν τοῖς ἕνδεκα ἐπῆρεν τὴν φωνὴν αὐτοῦ καὶ ἀπεφθέγξατο αὐτοῖς· Ἄνδρες Ἰουδαῖοι καὶ οἱ κατοικοῦντες Ἰερουσαλὴμ ⸀πάντες, τοῦτο ὑμῖν γνωστὸν ἔστω καὶ ἐνωτίσασθε τὰ ῥήματά μου. 
+[Entonces Pedro, poniéndose en pie con los once apóstoles, alzó la voz y les declaró: «Hombres de Judea y todos los que viven en Jerusalén, sea esto de su conocimiento y presten atención a mis palabras.]
+
+### Hechos 2:15 {#hech-2-15}
+οὐ γὰρ ὡς ὑμεῖς ὑπολαμβάνετε οὗτοι μεθύουσιν, ἔστιν γὰρ ὥρα τρίτη τῆς ἡμέρας, 
+[Porque estos no están borrachos como ustedes suponen, pues apenas es la hora tercera;]
+
+### Hechos 2:16 {#hech-2-16}
+ἀλλὰ τοῦτό ἐστιν τὸ εἰρημένον διὰ τοῦ προφήτου Ἰωήλ· 
+[sino que esto es lo que fue dicho por medio del profeta Joel:]
+
+### Hechos 2:17 {#hech-2-17}
+Καὶ ἔσται ἐν ταῖς ἐσχάταις ἡμέραις, λέγει ὁ θεός, ἐκχεῶ ἀπὸ τοῦ πνεύματός μου ἐπὶ πᾶσαν σάρκα, καὶ προφητεύσουσιν οἱ υἱοὶ ὑμῶν καὶ αἱ θυγατέρες ὑμῶν, καὶ οἱ νεανίσκοι ὑμῶν ὁράσεις ὄψονται, καὶ οἱ πρεσβύτεροι ὑμῶν ⸀ἐνυπνίοις ἐνυπνιασθήσονται· 
+[“Y SUCEDERÁ EN LOS ÚLTIMOS DÍAS”, dice Dios, “QUE DERRAMARÉ DE MI ESPÍRITU SOBRE TODA CARNE; Y SUS HIJOS Y SUS HIJAS PROFETIZARÁN, SUS JÓVENES VERÁN VISIONES, Y SUS ANCIANOS SOÑARÁN SUEÑOS;]
+
+### Hechos 2:18 {#hech-2-18}
+καί γε ἐπὶ τοὺς δούλους μου καὶ ἐπὶ τὰς δούλας μου ἐν ταῖς ἡμέραις ἐκείναις ἐκχεῶ ἀπὸ τοῦ πνεύματός μου, καὶ προφητεύσουσιν. 
+[Y AUN SOBRE MIS SIERVOS Y SOBRE MIS SIERVAS DERRAMARÉ DE MI ESPÍRITU EN ESOS DÍAS, Y profetizarán.]
+
+### Hechos 2:19 {#hech-2-19}
+καὶ δώσω τέρατα ἐν τῷ οὐρανῷ ἄνω καὶ σημεῖα ἐπὶ τῆς γῆς κάτω, αἷμα καὶ πῦρ καὶ ἀτμίδα καπνοῦ· 
+[Y MOSTRARÉ PRODIGIOS ARRIBA EN EL CIELO Y SEÑALES ABAJO EN LA TIERRA: SANGRE, FUEGO Y COLUMNA DE HUMO.]
+
+### Hechos 2:20 {#hech-2-20}
+ὁ ἥλιος μεταστραφήσεται εἰς σκότος καὶ ἡ σελήνη εἰς αἷμα πρὶν ⸀ἢ ⸀ἐλθεῖν ἡμέραν κυρίου τὴν μεγάλην καὶ ἐπιφανῆ. 
+[EL SOL SE CONVERTIRÁ EN TINIEBLAS Y LA LUNA EN SANGRE, ANTES QUE VENGA EL DÍA GRANDE Y GLORIOSO DEL SEÑOR.]
+
+### Hechos 2:21 {#hech-2-21}
+καὶ ἔσται πᾶς ὃς ⸀ἐὰν ἐπικαλέσηται τὸ ὄνομα κυρίου σωθήσεται. 
+[Y SUCEDERÁ QUE TODO AQUEL QUE INVOQUE EL NOMBRE DEL SEÑOR SERÁ SALVO”.]
+
+### Hechos 2:22 {#hech-2-22}
+Ἄνδρες Ἰσραηλῖται, ἀκούσατε τοὺς λόγους τούτους. Ἰησοῦν τὸν Ναζωραῖον, ἄνδρα ⸂ἀποδεδειγμένον ἀπὸ τοῦ θεοῦ⸃ εἰς ὑμᾶς δυνάμεσι καὶ τέρασι καὶ σημείοις οἷς ἐποίησεν διʼ αὐτοῦ ὁ θεὸς ἐν μέσῳ ὑμῶν, ⸀καθὼς αὐτοὶ οἴδατε, 
+[»Hombres de Israel, escuchen estas palabras: Jesús el Nazareno, varón confirmado por Dios entre ustedes con milagros, prodigios y señales que Dios hizo en medio de ustedes a través de Él, tal como ustedes mismos saben.]
+
+### Hechos 2:23 {#hech-2-23}
+τοῦτον τῇ ὡρισμένῃ βουλῇ καὶ προγνώσει τοῦ θεοῦ ⸀ἔκδοτον διὰ ⸀χειρὸς ἀνόμων προσπήξαντες ἀνείλατε, 
+[Este fue entregado por el plan predeterminado y el previo conocimiento de Dios, y ustedes lo clavaron en una cruz por manos de impíos y lo mataron.]
+
+### Hechos 2:24 {#hech-2-24}
+ὃν ὁ θεὸς ἀνέστησεν λύσας τὰς ὠδῖνας τοῦ θανάτου, καθότι οὐκ ἦν δυνατὸν κρατεῖσθαι αὐτὸν ὑπʼ αὐτοῦ· 
+[Pero Dios lo resucitó, poniendo fin a la agonía de la muerte, puesto que no era posible que Él quedara bajo el dominio de ella.]
+
+### Hechos 2:25 {#hech-2-25}
+Δαυὶδ γὰρ λέγει εἰς αὐτόν· Προορώμην τὸν κύριον ἐνώπιόν μου διὰ παντός, ὅτι ἐκ δεξιῶν μού ἐστιν ἵνα μὴ σαλευθῶ. 
+[Porque David dice de Él: “VEÍA SIEMPRE AL SEÑOR EN MI PRESENCIA; PUES ESTÁ A MI DIESTRA PARA QUE YO NO SEA SACUDIDO.]
+
+### Hechos 2:26 {#hech-2-26}
+διὰ τοῦτο ηὐφράνθη ⸂ἡ καρδία μου⸃ καὶ ἠγαλλιάσατο ἡ γλῶσσά μου, ἔτι δὲ καὶ ἡ σάρξ μου κατασκηνώσει ἐπʼ ἐλπίδι· 
+[POR LO CUAL MI CORAZÓN SE ALEGRÓ Y MI LENGUA SE REGOCIJÓ; Y AUN HASTA MI CARNE DESCANSARÁ EN ESPERANZA;]
+
+### Hechos 2:27 {#hech-2-27}
+ὅτι οὐκ ἐγκαταλείψεις τὴν ψυχήν μου εἰς ⸀ᾅδην, οὐδὲ δώσεις τὸν ὅσιόν σου ἰδεῖν διαφθοράν. 
+[PUES TÚ NO ABANDONARÁS MI ALMA EN EL HADES, NI PERMITIRÁS QUE TU SANTO VEA CORRUPCIÓN.]
+
+### Hechos 2:28 {#hech-2-28}
+ἐγνώρισάς μοι ὁδοὺς ζωῆς, πληρώσεις με εὐφροσύνης μετὰ τοῦ προσώπου σου. 
+[ME HAS HECHO CONOCER LOS CAMINOS DE LA VIDA; ME LLENARÁS DE GOZO CON TU PRESENCIA”.]
+
+### Hechos 2:29 {#hech-2-29}
+Ἄνδρες ἀδελφοί, ἐξὸν εἰπεῖν μετὰ παρρησίας πρὸς ὑμᾶς περὶ τοῦ πατριάρχου Δαυίδ, ὅτι καὶ ἐτελεύτησεν καὶ ἐτάφη, καὶ τὸ μνῆμα αὐτοῦ ἔστιν ἐν ἡμῖν ἄχρι τῆς ἡμέρας ταύτης· 
+[»Hermanos, del patriarca David les puedo decir con franqueza que murió y fue sepultado, y su sepulcro está entre nosotros hasta el día de hoy.]
+
+### Hechos 2:30 {#hech-2-30}
+προφήτης οὖν ὑπάρχων, καὶ εἰδὼς ὅτι ὅρκῳ ὤμοσεν αὐτῷ ὁ θεὸς ἐκ καρποῦ τῆς ὀσφύος ⸀αὐτοῦ καθίσαι ἐπὶ ⸂τὸν θρόνον⸃ αὐτοῦ, 
+[Pero siendo profeta, y sabiendo que DIOS LE HABÍA JURADO SENTAR a uno DE SUS DESCENDIENTES EN SU TRONO,]
+
+### Hechos 2:31 {#hech-2-31}
+προϊδὼν ἐλάλησεν περὶ τῆς ἀναστάσεως τοῦ χριστοῦ ὅτι ⸂οὔτε ἐγκατελείφθη⸃ εἰς ⸀ᾅδην ⸀οὔτε ἡ σὰρξ αὐτοῦ εἶδεν διαφθοράν. 
+[miró hacia el futuro y habló de la resurrección de Cristo, que NI FUE ABANDONADO EN EL HADES, NI Su carne SUFRIÓ CORRUPCIÓN.]
+
+### Hechos 2:32 {#hech-2-32}
+τοῦτον τὸν Ἰησοῦν ἀνέστησεν ὁ θεός, οὗ πάντες ἡμεῖς ἐσμεν μάρτυρες. 
+[»A este Jesús resucitó Dios, de lo cual todos nosotros somos testigos.]
+
+### Hechos 2:33 {#hech-2-33}
+τῇ δεξιᾷ οὖν τοῦ θεοῦ ὑψωθεὶς τήν τε ἐπαγγελίαν τοῦ ⸂πνεύματος τοῦ ἁγίου⸃ λαβὼν παρὰ τοῦ πατρὸς ἐξέχεεν τοῦτο ⸀ὃ ⸀ὑμεῖς βλέπετε καὶ ἀκούετε. 
+[Así que, exaltado a la diestra de Dios, y habiendo recibido del Padre la promesa del Espíritu Santo, ha derramado esto que ustedes ven y oyen.]
+
+### Hechos 2:34 {#hech-2-34}
+οὐ γὰρ Δαυὶδ ἀνέβη εἰς τοὺς οὐρανούς, λέγει δὲ αὐτός· Εἶπεν ⸀ὁ κύριος τῷ κυρίῳ μου· Κάθου ἐκ δεξιῶν μου, 
+[Porque David no ascendió a los cielos, pero él mismo dice: “DIJO EL SEÑOR A MI SEÑOR: ‘SIÉNTATE A MI DIESTRA,]
+
+### Hechos 2:35 {#hech-2-35}
+ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποπόδιον τῶν ποδῶν σου. 
+[HASTA QUE PONGA A TUS ENEMIGOS POR ESTRADO DE TUS PIES’”.]
+
+### Hechos 2:36 {#hech-2-36}
+ἀσφαλῶς οὖν γινωσκέτω πᾶς οἶκος Ἰσραὴλ ὅτι καὶ κύριον ⸂αὐτὸν καὶ χριστὸν⸃ ⸂ἐποίησεν ὁ θεός⸃, τοῦτον τὸν Ἰησοῦν ὃν ὑμεῖς ἐσταυρώσατε. 
+[Sepa, pues, con certeza toda la casa de Israel, que a este Jesús a quien ustedes crucificaron, Dios lo ha hecho Señor y Cristo».]
+
+### Hechos 2:37 {#hech-2-37}
+Ἀκούσαντες δὲ κατενύγησαν ⸂τὴν καρδίαν⸃, εἶπόν τε πρὸς τὸν Πέτρον καὶ τοὺς λοιποὺς ἀποστόλους· Τί ⸀ποιήσωμεν, ἄνδρες ἀδελφοί; 
+[Al oír esto, conmovidos profundamente, dijeron a Pedro y a los demás apóstoles: «Hermanos, ¿qué haremos?».]
+
+### Hechos 2:38 {#hech-2-38}
+Πέτρος δὲ ⸂πρὸς αὐτούς· Μετανοήσατε⸃, καὶ βαπτισθήτω ἕκαστος ὑμῶν ⸀ἐπὶ τῷ ὀνόματι Ἰησοῦ Χριστοῦ εἰς ἄφεσιν ⸀τῶν ἁμαρτιῶν ⸀ὑμῶν, καὶ λήμψεσθε τὴν δωρεὰν τοῦ ἁγίου πνεύματος· 
+[Entonces Pedro les dijo: «Arrepiéntanse y sean bautizados cada uno de ustedes en el nombre de Jesucristo para perdón de sus pecados, y recibirán el don del Espíritu Santo.]
+
+### Hechos 2:39 {#hech-2-39}
+ὑμῖν γάρ ἐστιν ἡ ἐπαγγελία καὶ τοῖς τέκνοις ὑμῶν καὶ πᾶσι τοῖς εἰς μακρὰν ὅσους ἂν προσκαλέσηται κύριος ὁ θεὸς ἡμῶν. 
+[Porque la promesa es para ustedes y para sus hijos y para todos los que están lejos, para tantos como el Señor nuestro Dios llame».]
+
+### Hechos 2:40 {#hech-2-40}
+ἑτέροις τε λόγοις πλείοσιν διεμαρτύρατο, καὶ παρεκάλει ⸀αὐτοὺς λέγων· Σώθητε ἀπὸ τῆς γενεᾶς τῆς σκολιᾶς ταύτης. 
+[Y Pedro, con muchas otras palabras testificaba solemnemente y les exhortaba diciendo: «Sean salvos de esta perversa generación».]
+
+### Hechos 2:41 {#hech-2-41}
+οἱ μὲν ⸀οὖν ἀποδεξάμενοι τὸν λόγον αὐτοῦ ἐβαπτίσθησαν, καὶ προσετέθησαν ⸀ἐν τῇ ἡμέρᾳ ἐκείνῃ ψυχαὶ ὡσεὶ τρισχίλιαι. 
+[Entonces los que habían recibido su palabra fueron bautizados; y se añadieron aquel día como 3,000 almas.]
+
+### Hechos 2:42 {#hech-2-42}
+ἦσαν δὲ προσκαρτεροῦντες τῇ διδαχῇ τῶν ἀποστόλων καὶ τῇ ⸀κοινωνίᾳ, τῇ κλάσει τοῦ ἄρτου καὶ ταῖς προσευχαῖς. 
+[Y se dedicaban continuamente a las enseñanzas de los apóstoles, a la comunión, al partimiento del pan y a la oración.]
+
+### Hechos 2:43 {#hech-2-43}
+⸀Ἐγίνετο δὲ πάσῃ ψυχῇ φόβος, πολλά ⸀τε τέρατα καὶ σημεῖα διὰ τῶν ἀποστόλων ἐγίνετο. 
+[Sobrevino temor a toda persona; y muchos prodigios y señales se hacían por los apóstoles.]
+
+### Hechos 2:44 {#hech-2-44}
+πάντες δὲ οἱ ⸀πιστεύοντες ⸂ἦσαν ἐπὶ τὸ αὐτὸ καὶ⸃ εἶχον ἅπαντα κοινά, 
+[Todos los que habían creído estaban juntos y tenían todas las cosas en común;]
+
+### Hechos 2:45 {#hech-2-45}
+καὶ τὰ κτήματα καὶ τὰς ὑπάρξεις ἐπίπρασκον καὶ διεμέριζον αὐτὰ πᾶσιν καθότι ἄν τις χρείαν εἶχεν· 
+[vendían todas sus propiedades y sus bienes y los compartían con todos, según la necesidad de cada uno.]
+
+### Hechos 2:46 {#hech-2-46}
+καθʼ ἡμέραν τε προσκαρτεροῦντες ὁμοθυμαδὸν ἐν τῷ ἱερῷ, κλῶντές τε κατʼ οἶκον ἄρτον, μετελάμβανον τροφῆς ἐν ἀγαλλιάσει καὶ ἀφελότητι καρδίας, 
+[Día tras día continuaban unánimes en el templo y partiendo el pan en los hogares, comían juntos con alegría y sencillez de corazón,]
+
+### Hechos 2:47 {#hech-2-47}
+αἰνοῦντες τὸν θεὸν καὶ ἔχοντες χάριν πρὸς ὅλον τὸν λαόν. ὁ δὲ κύριος προσετίθει τοὺς σῳζομένους καθʼ ἡμέραν ⸂ἐπὶ τὸ αὐτό⸃. 
+[alabando a Dios y hallando favor con todo el pueblo. Y el Señor añadía cada día al número de ellos los que iban siendo salvos.]
+
+### Hechos 3:1 {#hech-3-1}
+⸂Πέτρος δὲ⸃ καὶ Ἰωάννης ἀνέβαινον εἰς τὸ ἱερὸν ἐπὶ τὴν ὥραν τῆς προσευχῆς τὴν ἐνάτην, 
+[Cierto día Pedro y Juan subían al templo a la hora novena, la hora de la oración.]
+
+### Hechos 3:2 {#hech-3-2}
+καί τις ἀνὴρ χωλὸς ἐκ κοιλίας μητρὸς αὐτοῦ ὑπάρχων ἐβαστάζετο, ὃν ἐτίθουν καθʼ ἡμέραν πρὸς τὴν θύραν τοῦ ἱεροῦ τὴν λεγομένην Ὡραίαν τοῦ αἰτεῖν ἐλεημοσύνην παρὰ τῶν εἰσπορευομένων εἰς τὸ ἱερόν, 
+[Y había un hombre, cojo desde su nacimiento, al que llevaban y ponían diariamente a la puerta del templo llamada la Hermosa, para que pidiera limosna a los que entraban al templo.]
+
+### Hechos 3:3 {#hech-3-3}
+ὃς ἰδὼν Πέτρον καὶ Ἰωάννην μέλλοντας εἰσιέναι εἰς τὸ ἱερὸν ἠρώτα ἐλεημοσύνην ⸀λαβεῖν. 
+[Este, viendo a Pedro y a Juan que iban a entrar al templo, les pedía limosna.]
+
+### Hechos 3:4 {#hech-3-4}
+ἀτενίσας δὲ Πέτρος εἰς αὐτὸν σὺν τῷ Ἰωάννῃ εἶπεν· Βλέψον εἰς ἡμᾶς. 
+[Entonces Pedro, junto con Juan, fijando su vista en él, le dijo: «¡Míranos!».]
+
+### Hechos 3:5 {#hech-3-5}
+ὁ δὲ ἐπεῖχεν αὐτοῖς προσδοκῶν τι παρʼ αὐτῶν λαβεῖν. 
+[Él los miró atentamente, esperando recibir algo de ellos.]
+
+### Hechos 3:6 {#hech-3-6}
+εἶπεν δὲ Πέτρος· Ἀργύριον καὶ χρυσίον οὐχ ὑπάρχει μοι, ὃ δὲ ἔχω τοῦτό σοι δίδωμι· ἐν τῷ ὀνόματι Ἰησοῦ Χριστοῦ τοῦ Ναζωραίου ⸀περιπάτει. 
+[Pero Pedro le dijo: «No tengo plata ni oro, pero lo que tengo te doy: en el nombre de Jesucristo el Nazareno, ¡anda!».]
+
+### Hechos 3:7 {#hech-3-7}
+καὶ πιάσας αὐτὸν τῆς δεξιᾶς χειρὸς ἤγειρεν ⸀αὐτόν· παραχρῆμα δὲ ἐστερεώθησαν ⸂αἱ βάσεις αὐτοῦ⸃ καὶ τὰ ⸀σφυδρά, 
+[Y tomándolo de la mano derecha, lo levantó; al instante sus pies y tobillos cobraron fuerza,]
+
+### Hechos 3:8 {#hech-3-8}
+καὶ ἐξαλλόμενος ἔστη καὶ περιεπάτει, καὶ εἰσῆλθεν σὺν αὐτοῖς εἰς τὸ ἱερὸν περιπατῶν καὶ ἁλλόμενος καὶ αἰνῶν τὸν θεόν. 
+[y de un salto se puso en pie y andaba. Entró al templo con ellos caminando, saltando y alabando a Dios.]
+
+### Hechos 3:9 {#hech-3-9}
+καὶ εἶδεν ⸂πᾶς ὁ λαὸς αὐτὸν⸃ περιπατοῦντα καὶ αἰνοῦντα τὸν θεόν, 
+[Todo el pueblo lo vio andar y alabar a Dios,]
+
+### Hechos 3:10 {#hech-3-10}
+ἐπεγίνωσκον ⸀δὲ αὐτὸν ὅτι ⸀οὗτος ἦν ὁ πρὸς τὴν ἐλεημοσύνην καθήμενος ἐπὶ τῇ Ὡραίᾳ Πύλῃ τοῦ ἱεροῦ, καὶ ἐπλήσθησαν θάμβους καὶ ἐκστάσεως ἐπὶ τῷ συμβεβηκότι αὐτῷ. 
+[y reconocieron que era el mismo que se sentaba a la puerta del templo, la Hermosa, a pedir limosna, y se llenaron de asombro y admiración por lo que le había sucedido.]
+
+### Hechos 3:11 {#hech-3-11}
+Κρατοῦντος δὲ ⸀αὐτοῦ τὸν Πέτρον καὶ ⸀τὸν Ἰωάννην συνέδραμεν ⸂πᾶς ὁ λαὸς πρὸς αὐτοὺς⸃ ἐπὶ τῇ στοᾷ τῇ καλουμένῃ Σολομῶντος ἔκθαμβοι. 
+[Estando el que era cojo aferrado a Pedro y a Juan, todo el pueblo, lleno de asombro, corrió al pórtico llamado de Salomón, donde ellos estaban.]
+
+### Hechos 3:12 {#hech-3-12}
+ἰδὼν δὲ ⸀ὁ Πέτρος ἀπεκρίνατο πρὸς τὸν λαόν· Ἄνδρες Ἰσραηλῖται, τί θαυμάζετε ἐπὶ τούτῳ, ἢ ἡμῖν τί ἀτενίζετε ὡς ἰδίᾳ δυνάμει ἢ εὐσεβείᾳ πεποιηκόσιν τοῦ περιπατεῖν αὐτόν; 
+[Al ver esto, Pedro dijo al pueblo: «Hombres de Israel, ¿por qué se maravillan de esto, o por qué nos miran así, como si por nuestro propio poder o piedad le hubiéramos hecho andar?]
+
+### Hechos 3:13 {#hech-3-13}
+ὁ θεὸς Ἀβραὰμ καὶ ⸂Ἰσαὰκ καὶ⸃ Ἰακώβ, ὁ θεὸς τῶν πατέρων ἡμῶν, ἐδόξασεν τὸν παῖδα αὐτοῦ Ἰησοῦν, ὃν ὑμεῖς ⸀μὲν παρεδώκατε καὶ ⸀ἠρνήσασθε κατὰ πρόσωπον Πιλάτου, κρίναντος ἐκείνου ἀπολύειν· 
+[El Dios de Abraham, de Isaac y de Jacob, el Dios de nuestros padres, ha glorificado a Su Siervo Jesús, al que ustedes entregaron y repudiaron en presencia de Pilato, cuando este había resuelto poner a Jesús en libertad.]
+
+### Hechos 3:14 {#hech-3-14}
+ὑμεῖς δὲ τὸν ἅγιον καὶ δίκαιον ἠρνήσασθε καὶ ᾐτήσασθε ἄνδρα φονέα χαρισθῆναι ὑμῖν, 
+[Pero ustedes repudiaron al Santo y Justo, y pidieron que se les concediera un asesino,]
+
+### Hechos 3:15 {#hech-3-15}
+τὸν δὲ ἀρχηγὸν τῆς ζωῆς ἀπεκτείνατε, ὃν ὁ θεὸς ἤγειρεν ἐκ νεκρῶν, οὗ ἡμεῖς μάρτυρές ἐσμεν. 
+[y dieron muerte al Autor de la vida, al que Dios resucitó de entre los muertos, de lo cual nosotros somos testigos.]
+
+### Hechos 3:16 {#hech-3-16}
+καὶ ⸀ἐπὶ τῇ πίστει τοῦ ὀνόματος αὐτοῦ τοῦτον ὃν θεωρεῖτε καὶ οἴδατε ἐστερέωσεν τὸ ὄνομα αὐτοῦ, καὶ ἡ πίστις ἡ διʼ αὐτοῦ ἔδωκεν αὐτῷ τὴν ὁλοκληρίαν ταύτην ἀπέναντι πάντων ὑμῶν. 
+[»Por la fe en Su nombre, es el nombre de Jesús lo que ha fortalecido a este hombre a quien ven y conocen. La fe que viene por medio de Jesús, le ha dado a este esta perfecta sanidad en presencia de todos ustedes.]
+
+### Hechos 3:17 {#hech-3-17}
+Καὶ νῦν, ἀδελφοί, οἶδα ὅτι κατὰ ἄγνοιαν ἐπράξατε, ὥσπερ καὶ οἱ ἄρχοντες ὑμῶν· 
+[Y ahora, hermanos, yo sé que obraron por ignorancia, lo mismo que sus gobernantes.]
+
+### Hechos 3:18 {#hech-3-18}
+ὁ δὲ θεὸς ἃ προκατήγγειλεν διὰ στόματος πάντων τῶν ⸀προφητῶν παθεῖν τὸν χριστὸν ⸀αὐτοῦ ἐπλήρωσεν οὕτως. 
+[Pero Dios ha cumplido así lo que anunció de antemano por boca de todos los profetas: que Su Cristo debía padecer.]
+
+### Hechos 3:19 {#hech-3-19}
+μετανοήσατε οὖν καὶ ἐπιστρέψατε ⸀πρὸς τὸ ἐξαλειφθῆναι ὑμῶν τὰς ἁμαρτίας, 
+[»Por tanto, arrepiéntanse y conviértanse, para que sus pecados sean borrados, a fin de que tiempos de alivio vengan de la presencia del Señor,]
+
+### Hechos 3:20 {#hech-3-20}
+ὅπως ἂν ἔλθωσιν καιροὶ ἀναψύξεως ἀπὸ προσώπου τοῦ κυρίου καὶ ἀποστείλῃ τὸν προκεχειρισμένον ὑμῖν χριστὸν Ἰησοῦν, 
+[y Él envíe a Jesús, el Cristo designado de antemano para ustedes.]
+
+### Hechos 3:21 {#hech-3-21}
+ὃν δεῖ οὐρανὸν μὲν δέξασθαι ἄχρι χρόνων ἀποκαταστάσεως πάντων ὧν ἐλάλησεν ὁ θεὸς διὰ ⸀στόματος τῶν ἁγίων ⸂ἀπʼ αἰῶνος αὐτοῦ προφητῶν⸃. 
+[A Él el cielo debe recibir hasta el día de la restauración de todas las cosas, acerca de lo cual Dios habló por boca de Sus santos profetas desde tiempos antiguos.]
+
+### Hechos 3:22 {#hech-3-22}
+Μωϋσῆς ⸀μὲν εἶπεν ὅτι Προφήτην ὑμῖν ἀναστήσει κύριος ὁ ⸀θεὸς ἐκ τῶν ἀδελφῶν ὑμῶν ὡς ἐμέ· αὐτοῦ ἀκούσεσθε κατὰ πάντα ὅσα ἂν λαλήσῃ πρὸς ὑμᾶς. 
+[Moisés dijo: “EL SEÑOR DIOS LES LEVANTARÁ A USTEDES UN PROFETA COMO YO DE ENTRE SUS HERMANOS; A ÉL PRESTARÁN ATENCIÓN en todo cuanto les diga.]
+
+### Hechos 3:23 {#hech-3-23}
+ἔσται δὲ πᾶσα ψυχὴ ἥτις ⸀ἂν μὴ ἀκούσῃ τοῦ προφήτου ἐκείνου ἐξολεθρευθήσεται ἐκ τοῦ λαοῦ. 
+[Y sucederá que todo el que no preste atención a aquel profeta, será totalmente destruido de entre el pueblo”.]
+
+### Hechos 3:24 {#hech-3-24}
+καὶ πάντες δὲ οἱ προφῆται ἀπὸ Σαμουὴλ καὶ τῶν καθεξῆς ὅσοι ἐλάλησαν καὶ κατήγγειλαν τὰς ἡμέρας ταύτας. 
+[Asimismo todos los profetas que han hablado desde Samuel y sus sucesores en adelante, también anunciaron estos días.]
+
+### Hechos 3:25 {#hech-3-25}
+ὑμεῖς ἐστε ⸀οἱ υἱοὶ τῶν προφητῶν καὶ τῆς διαθήκης ἧς ⸂διέθετο ὁ θεὸς⸃ πρὸς τοὺς πατέρας ⸀ὑμῶν, λέγων πρὸς Ἀβραάμ· Καὶ ἐν τῷ σπέρματί σου ⸀ἐνευλογηθήσονται πᾶσαι αἱ πατριαὶ τῆς γῆς. 
+[»Ustedes son los hijos de los profetas y del pacto que Dios hizo con sus padres, al decir a Abraham: “Y EN TU SIMIENTE SERÁN BENDITAS TODAS LAS FAMILIAS DE LA TIERRA”.]
+
+### Hechos 3:26 {#hech-3-26}
+ὑμῖν πρῶτον ⸂ἀναστήσας ὁ θεὸς⸃ τὸν παῖδα ⸀αὐτοῦ ἀπέστειλεν αὐτὸν εὐλογοῦντα ὑμᾶς ἐν τῷ ἀποστρέφειν ἕκαστον ἀπὸ τῶν πονηριῶν ὑμῶν. 
+[Para ustedes en primer lugar, Dios, habiendo resucitado a Su Siervo, lo ha enviado para que los bendiga, a fin de apartar a cada uno de ustedes de sus iniquidades».]
+
+### Hechos 4:1 {#hech-4-1}
+Λαλούντων δὲ αὐτῶν πρὸς τὸν λαὸν ἐπέστησαν αὐτοῖς οἱ ⸀ἱερεῖς καὶ ὁ στρατηγὸς τοῦ ἱεροῦ καὶ οἱ Σαδδουκαῖοι, 
+[Mientras Pedro y Juan hablaban al pueblo, se les echaron encima los sacerdotes, el capitán de la guardia del templo, y los saduceos,]
+
+### Hechos 4:2 {#hech-4-2}
+διαπονούμενοι διὰ τὸ διδάσκειν αὐτοὺς τὸν λαὸν καὶ καταγγέλλειν ἐν τῷ Ἰησοῦ τὴν ἀνάστασιν ⸂τὴν ἐκ⸃ νεκρῶν, 
+[indignados porque enseñaban al pueblo, y anunciaban en Jesús la resurrección de entre los muertos.]
+
+### Hechos 4:3 {#hech-4-3}
+καὶ ἐπέβαλον αὐτοῖς τὰς χεῖρας καὶ ἔθεντο εἰς τήρησιν εἰς τὴν αὔριον, ἦν γὰρ ἑσπέρα ἤδη. 
+[Les echaron mano, y los pusieron en la cárcel hasta el día siguiente, pues ya era tarde.]
+
+### Hechos 4:4 {#hech-4-4}
+πολλοὶ δὲ τῶν ἀκουσάντων τὸν λόγον ἐπίστευσαν, καὶ ἐγενήθη ⸀ὁ ἀριθμὸς τῶν ἀνδρῶν ⸀ὡς χιλιάδες πέντε. 
+[Pero muchos de los que habían oído el mensaje creyeron, llegando el número de los hombres como a 5,000.]
+
+### Hechos 4:5 {#hech-4-5}
+Ἐγένετο δὲ ἐπὶ τὴν αὔριον συναχθῆναι αὐτῶν τοὺς ἄρχοντας καὶ ⸀τοὺς πρεσβυτέρους καὶ ⸁τοὺς γραμματεῖς ⸀ἐν Ἰερουσαλήμ 
+[Sucedió que al día siguiente se reunieron en Jerusalén sus gobernantes, ancianos y escribas.]
+
+### Hechos 4:6 {#hech-4-6}
+(καὶ ⸂Ἅννας ὁ ἀρχιερεὺς καὶ Καϊάφας καὶ Ἰωάννης καὶ Ἀλέξανδρος⸃ καὶ ὅσοι ἦσαν ἐκ γένους ἀρχιερατικοῦ), 
+[Estaban allí el sumo sacerdote Anás, Caifás, Juan y Alejandro, y todos los que eran del linaje de los sumos sacerdotes.]
+
+### Hechos 4:7 {#hech-4-7}
+καὶ στήσαντες αὐτοὺς ἐν ⸀τῷ μέσῳ ἐπυνθάνοντο· Ἐν ποίᾳ δυνάμει ἢ ἐν ποίῳ ὀνόματι ἐποιήσατε τοῦτο ὑμεῖς; 
+[Poniendo a Pedro y a Juan en medio de ellos, les interrogaban: «¿Con qué poder, o en qué nombre, han hecho esto?».]
+
+### Hechos 4:8 {#hech-4-8}
+τότε Πέτρος πλησθεὶς πνεύματος ἁγίου εἶπεν πρὸς αὐτούς· Ἄρχοντες τοῦ λαοῦ καὶ ⸀πρεσβύτεροι, 
+[Entonces Pedro, lleno del Espíritu Santo, les dijo: «Gobernantes y ancianos del pueblo,]
+
+### Hechos 4:9 {#hech-4-9}
+εἰ ἡμεῖς σήμερον ἀνακρινόμεθα ἐπὶ εὐεργεσίᾳ ἀνθρώπου ἀσθενοῦς, ἐν τίνι οὗτος σέσωσται, 
+[si se nos está interrogando hoy por causa del beneficio hecho a un hombre enfermo, de qué manera este ha sido sanado,]
+
+### Hechos 4:10 {#hech-4-10}
+γνωστὸν ἔστω πᾶσιν ὑμῖν καὶ παντὶ τῷ λαῷ Ἰσραὴλ ὅτι ἐν τῷ ὀνόματι Ἰησοῦ Χριστοῦ τοῦ Ναζωραίου, ὃν ὑμεῖς ἐσταυρώσατε, ὃν ὁ θεὸς ἤγειρεν ἐκ νεκρῶν, ἐν τούτῳ οὗτος παρέστηκεν ἐνώπιον ὑμῶν ὑγιής. 
+[sepan todos ustedes, y todo el pueblo de Israel, que en el nombre de Jesucristo el Nazareno, a quien ustedes crucificaron y a quien Dios resucitó de entre los muertos, por Él, este hombre se halla aquí sano delante de ustedes.]
+
+### Hechos 4:11 {#hech-4-11}
+οὗτός ἐστιν ὁ λίθος ὁ ἐξουθενηθεὶς ὑφʼ ὑμῶν τῶν ⸀οἰκοδόμων, ὁ γενόμενος εἰς κεφαλὴν γωνίας. 
+[»Este Jesús es la PIEDRA DESECHADA por ustedes LOS CONSTRUCTORES, pero QUE HA VENIDO A SER LA PIEDRA ANGULAR.]
+
+### Hechos 4:12 {#hech-4-12}
+καὶ οὐκ ἔστιν ἐν ἄλλῳ οὐδενὶ ἡ σωτηρία, ⸀οὐδὲ γὰρ ὄνομά ἐστιν ἕτερον ⸂ὑπὸ τὸν οὐρανὸν⸃ τὸ δεδομένον ἐν ἀνθρώποις ἐν ᾧ δεῖ σωθῆναι ἡμᾶς. 
+[En ningún otro hay salvación, porque no hay otro nombre bajo el cielo dado a los hombres, en el cual podamos ser salvos».]
+
+### Hechos 4:13 {#hech-4-13}
+Θεωροῦντες δὲ τὴν τοῦ Πέτρου παρρησίαν καὶ Ἰωάννου καὶ καταλαβόμενοι ὅτι ἄνθρωποι ἀγράμματοί εἰσιν καὶ ἰδιῶται, ἐθαύμαζον, ἐπεγίνωσκόν τε αὐτοὺς ὅτι σὺν τῷ Ἰησοῦ ἦσαν, 
+[Al ver la confianza de Pedro y de Juan, y dándose cuenta de que eran hombres sin letras y sin preparación, se maravillaban, y reconocían que ellos habían estado con Jesús.]
+
+### Hechos 4:14 {#hech-4-14}
+τόν ⸀τε ἄνθρωπον βλέποντες σὺν αὐτοῖς ἑστῶτα τὸν τεθεραπευμένον οὐδὲν εἶχον ἀντειπεῖν. 
+[Y viendo de pie junto a ellos al hombre que había sido sanado, no tenían nada que decir en contra.]
+
+### Hechos 4:15 {#hech-4-15}
+κελεύσαντες δὲ αὐτοὺς ἔξω τοῦ συνεδρίου ἀπελθεῖν συνέβαλλον πρὸς ἀλλήλους 
+[Pero después de ordenarles que salieran fuera del Concilio, deliberaban entre sí:]
+
+### Hechos 4:16 {#hech-4-16}
+λέγοντες· Τί ⸀ποιήσωμεν τοῖς ἀνθρώποις τούτοις; ὅτι μὲν γὰρ γνωστὸν σημεῖον γέγονεν διʼ αὐτῶν πᾶσιν τοῖς κατοικοῦσιν Ἰερουσαλὴμ φανερόν, καὶ οὐ δυνάμεθα ⸀ἀρνεῖσθαι· 
+[«¿Qué haremos con estos hombres?», decían. «Porque el hecho de que un milagro notable ha sido realizado por medio de ellos es evidente a todos los que viven en Jerusalén, y no podemos negarlo.]
+
+### Hechos 4:17 {#hech-4-17}
+ἀλλʼ ἵνα μὴ ἐπὶ πλεῖον διανεμηθῇ εἰς τὸν λαόν, ⸀ἀπειλησώμεθα αὐτοῖς μηκέτι λαλεῖν ἐπὶ τῷ ὀνόματι τούτῳ μηδενὶ ἀνθρώπων. 
+[Pero a fin de que no se divulgue más entre el pueblo, vamos a amenazarlos para que no hablen más a ningún hombre en este nombre».]
+
+### Hechos 4:18 {#hech-4-18}
+καὶ καλέσαντες αὐτοὺς παρήγγειλαν ⸀τὸ καθόλου μὴ φθέγγεσθαι μηδὲ διδάσκειν ἐπὶ τῷ ὀνόματι τοῦ Ἰησοῦ. 
+[Cuando los llamaron, les ordenaron no hablar ni enseñar en el nombre de Jesús.]
+
+### Hechos 4:19 {#hech-4-19}
+ὁ δὲ Πέτρος καὶ Ἰωάννης ἀποκριθέντες ⸂εἶπον πρὸς αὐτούς⸃· Εἰ δίκαιόν ἐστιν ἐνώπιον τοῦ θεοῦ ὑμῶν ἀκούειν μᾶλλον ἢ τοῦ θεοῦ, κρίνατε, 
+[Pero Pedro y Juan, les contestaron: «Ustedes mismos juzguen si es justo delante de Dios obedecer a ustedes en vez de obedecer a Dios.]
+
+### Hechos 4:20 {#hech-4-20}
+οὐ δυνάμεθα γὰρ ἡμεῖς ἃ εἴδαμεν καὶ ἠκούσαμεν μὴ λαλεῖν. 
+[Porque nosotros no podemos dejar de decir lo que hemos visto y oído».]
+
+### Hechos 4:21 {#hech-4-21}
+οἱ δὲ προσαπειλησάμενοι ἀπέλυσαν αὐτούς, μηδὲν εὑρίσκοντες τὸ πῶς ⸀κολάσωνται αὐτούς, διὰ τὸν λαόν, ὅτι πάντες ἐδόξαζον τὸν θεὸν ἐπὶ τῷ γεγονότι· 
+[Y después de amenazarlos otra vez, los dejaron ir, no hallando la manera de castigarlos por causa del pueblo, porque todos glorificaban a Dios por lo que había acontecido;]
+
+### Hechos 4:22 {#hech-4-22}
+ἐτῶν γὰρ ἦν πλειόνων τεσσεράκοντα ὁ ἄνθρωπος ἐφʼ ὃν ⸀γεγόνει τὸ σημεῖον τοῦτο τῆς ἰάσεως. 
+[porque el hombre en quien se había realizado este milagro de sanidad tenía más de cuarenta años.]
+
+### Hechos 4:23 {#hech-4-23}
+Ἀπολυθέντες δὲ ἦλθον πρὸς τοὺς ἰδίους καὶ ἀπήγγειλαν ὅσα πρὸς αὐτοὺς οἱ ἀρχιερεῖς καὶ οἱ πρεσβύτεροι εἶπαν. 
+[Cuando quedaron en libertad, fueron a los suyos y les contaron todo lo que los principales sacerdotes y los ancianos les habían dicho.]
+
+### Hechos 4:24 {#hech-4-24}
+οἱ δὲ ἀκούσαντες ὁμοθυμαδὸν ἦραν φωνὴν πρὸς τὸν θεὸν καὶ εἶπαν· Δέσποτα, ⸀σὺ ὁ ποιήσας τὸν οὐρανὸν καὶ τὴν γῆν καὶ τὴν θάλασσαν καὶ πάντα τὰ ἐν αὐτοῖς, 
+[Al oír ellos esto, unánimes alzaron la voz a Dios y dijeron: «Oh, Señor, Tú eres el que HICISTE EL CIELO Y LA TIERRA, EL MAR Y TODO LO QUE EN ELLOS HAY,]
+
+### Hechos 4:25 {#hech-4-25}
+ὁ ⸂τοῦ πατρὸς ἡμῶν⸃ διὰ ⸂πνεύματος ἁγίου⸃ στόματος Δαυὶδ παιδός σου εἰπών· Ἱνατί ἐφρύαξαν ἔθνη καὶ λαοὶ ἐμελέτησαν κενά; 
+[el que por el Espíritu Santo, por boca de nuestro padre David, Tu siervo, dijiste: “¿POR QUE SE ENFURECIERON LOS GENTILES, Y LOS PUEBLOS TRAMARON COSAS VANAS?]
+
+### Hechos 4:26 {#hech-4-26}
+παρέστησαν οἱ βασιλεῖς τῆς γῆς καὶ οἱ ἄρχοντες συνήχθησαν ἐπὶ τὸ αὐτὸ κατὰ τοῦ κυρίου καὶ κατὰ τοῦ χριστοῦ αὐτοῦ. 
+[SE PRESENTARON LOS REYES DE LA TIERRA, Y LOS GOBERNANTES SE JUNTARON A UNA CONTRA EL SEÑOR Y CONTRA SU CRISTO”.]
+
+### Hechos 4:27 {#hech-4-27}
+συνήχθησαν γὰρ ἐπʼ ἀληθείας ⸂ἐν τῇ πόλει ταύτῃ⸃ ἐπὶ τὸν ἅγιον παῖδά σου Ἰησοῦν, ὃν ἔχρισας, Ἡρῴδης τε καὶ Πόντιος Πιλᾶτος σὺν ἔθνεσιν καὶ λαοῖς Ἰσραήλ, 
+[»Porque en verdad, en esta ciudad se unieron tanto Herodes como Poncio Pilato, junto con los gentiles y los pueblos de Israel, contra Tu santo Siervo Jesús, a quien Tú ungiste,]
+
+### Hechos 4:28 {#hech-4-28}
+ποιῆσαι ὅσα ἡ χείρ σου καὶ ἡ ⸀βουλὴ προώρισεν γενέσθαι. 
+[para hacer cuanto Tu mano y Tu propósito habían predestinado que sucediera.]
+
+### Hechos 4:29 {#hech-4-29}
+καὶ τὰ νῦν, κύριε, ἔπιδε ἐπὶ τὰς ἀπειλὰς αὐτῶν καὶ δὸς τοῖς δούλοις σου μετὰ παρρησίας πάσης λαλεῖν τὸν λόγον σου, 
+[Ahora, Señor, considera sus amenazas, y permite que Tus siervos hablen Tu palabra con toda confianza,]
+
+### Hechos 4:30 {#hech-4-30}
+ἐν τῷ τὴν χεῖρά ⸀σου ἐκτείνειν σε εἰς ἴασιν καὶ σημεῖα καὶ τέρατα γίνεσθαι διὰ τοῦ ὀνόματος τοῦ ἁγίου παιδός σου Ἰησοῦ. 
+[mientras extiendes Tu mano para que se hagan curaciones, señales y prodigios mediante el nombre de Tu santo Siervo Jesús».]
+
+### Hechos 4:31 {#hech-4-31}
+καὶ δεηθέντων αὐτῶν ἐσαλεύθη ὁ τόπος ἐν ᾧ ἦσαν συνηγμένοι, καὶ ἐπλήσθησαν ἅπαντες ⸂τοῦ ἁγίου πνεύματος⸃, καὶ ἐλάλουν τὸν λόγον τοῦ θεοῦ μετὰ παρρησίας. 
+[Después que oraron, el lugar donde estaban reunidos tembló, y todos fueron llenos del Espíritu Santo y hablaban la palabra de Dios con valor.]
+
+### Hechos 4:32 {#hech-4-32}
+Τοῦ δὲ πλήθους τῶν πιστευσάντων ἦν ⸀καρδία καὶ ⸀ψυχὴ μία, καὶ οὐδὲ εἷς τι τῶν ὑπαρχόντων ⸀αὐτῷ ἔλεγεν ἴδιον εἶναι, ἀλλʼ ἦν αὐτοῖς ⸀πάντα κοινά. 
+[La congregación de los que creyeron era de un corazón y un alma. Ninguno decía ser suyo lo que poseía, sino que todas las cosas eran de propiedad común.]
+
+### Hechos 4:33 {#hech-4-33}
+καὶ ⸂δυνάμει μεγάλῃ⸃ ἀπεδίδουν τὸ μαρτύριον οἱ ἀπόστολοι ⸂τῆς ἀναστάσεως τοῦ κυρίου Ἰησοῦ⸃, χάρις τε μεγάλη ἦν ἐπὶ πάντας αὐτούς. 
+[Con gran poder los apóstoles daban testimonio de la resurrección del Señor Jesús, y había abundante gracia sobre todos ellos.]
+
+### Hechos 4:34 {#hech-4-34}
+οὐδὲ γὰρ ἐνδεής τις ⸀ἦν ἐν αὐτοῖς· ὅσοι γὰρ κτήτορες χωρίων ἢ οἰκιῶν ὑπῆρχον, πωλοῦντες ἔφερον τὰς τιμὰς τῶν πιπρασκομένων 
+[No había, pues, ningún necesitado entre ellos, porque todos los que poseían tierras o casas las vendían, traían el precio de lo vendido,]
+
+### Hechos 4:35 {#hech-4-35}
+καὶ ἐτίθουν παρὰ τοὺς πόδας τῶν ἀποστόλων· διεδίδετο δὲ ἑκάστῳ καθότι ἄν τις χρείαν εἶχεν. 
+[y lo depositaban a los pies de los apóstoles, y se distribuía a cada uno según su necesidad.]
+
+### Hechos 4:36 {#hech-4-36}
+⸀Ἰωσὴφ δὲ ὁ ἐπικληθεὶς Βαρναβᾶς ἀπὸ τῶν ἀποστόλων, ὅ ἐστιν μεθερμηνευόμενον υἱὸς παρακλήσεως, Λευίτης, Κύπριος τῷ γένει, 
+[Y José, un levita natural de Chipre, a quien también los apóstoles llamaban Bernabé, que traducido significa Hijo de Consolación,]
+
+### Hechos 4:37 {#hech-4-37}
+ὑπάρχοντος αὐτῷ ἀγροῦ πωλήσας ἤνεγκεν τὸ χρῆμα καὶ ἔθηκεν ⸀παρὰ τοὺς πόδας τῶν ἀποστόλων. 
+[poseía un campo y lo vendió, trajo el dinero y lo depositó a los pies de los apóstoles.]
+
+### Hechos 5:1 {#hech-5-1}
+Ἀνὴρ δέ τις Ἁνανίας ὀνόματι σὺν Σαπφίρῃ τῇ γυναικὶ αὐτοῦ ἐπώλησεν κτῆμα 
+[Pero cierto hombre llamado Ananías, con Safira su mujer, vendió una propiedad,]
+
+### Hechos 5:2 {#hech-5-2}
+καὶ ἐνοσφίσατο ἀπὸ τῆς τιμῆς, συνειδυίης καὶ τῆς ⸀γυναικός, καὶ ἐνέγκας μέρος τι παρὰ τοὺς πόδας τῶν ἀποστόλων ἔθηκεν. 
+[y se quedó con parte del precio, sabiéndolo también su mujer; y trayendo la otra parte, la puso a los pies de los apóstoles.]
+
+### Hechos 5:3 {#hech-5-3}
+εἶπεν δὲ ⸀ὁ Πέτρος· Ἁνανία, διὰ τί ἐπλήρωσεν ὁ Σατανᾶς τὴν καρδίαν σου, ψεύσασθαί σε τὸ πνεῦμα τὸ ἅγιον καὶ ⸀νοσφίσασθαι ἀπὸ τῆς τιμῆς τοῦ χωρίου; 
+[Pero Pedro dijo: «Ananías, ¿por qué ha llenado Satanás tu corazón para mentir al Espíritu Santo, y quedarte con parte del precio del terreno?]
+
+### Hechos 5:4 {#hech-5-4}
+οὐχὶ μένον σοὶ ἔμενεν καὶ πραθὲν ἐν τῇ σῇ ἐξουσίᾳ ὑπῆρχεν; τί ὅτι ἔθου ἐν τῇ καρδίᾳ σου τὸ πρᾶγμα τοῦτο; οὐκ ἐψεύσω ἀνθρώποις ἀλλὰ τῷ θεῷ. 
+[Mientras estaba sin venderse, ¿no te pertenecía? Y después de vendida, ¿no estaba bajo tu poder? ¿Por qué concebiste este asunto en tu corazón? No has mentido a los hombres sino a Dios».]
+
+### Hechos 5:5 {#hech-5-5}
+ἀκούων δὲ ὁ Ἁνανίας τοὺς λόγους τούτους πεσὼν ἐξέψυξεν· καὶ ἐγένετο φόβος μέγας ἐπὶ πάντας τοὺς ⸀ἀκούοντας. 
+[Al oír Ananías estas palabras, cayó y expiró; y vino un gran temor sobre todos los que lo supieron.]
+
+### Hechos 5:6 {#hech-5-6}
+ἀναστάντες δὲ οἱ νεώτεροι συνέστειλαν αὐτὸν καὶ ἐξενέγκαντες ἔθαψαν. 
+[Entonces los jóvenes se levantaron y lo cubrieron, y sacándolo, le dieron sepultura.]
+
+### Hechos 5:7 {#hech-5-7}
+Ἐγένετο δὲ ὡς ὡρῶν τριῶν διάστημα καὶ ἡ γυνὴ αὐτοῦ μὴ εἰδυῖα τὸ γεγονὸς εἰσῆλθεν. 
+[Como tres horas después entró su mujer, no sabiendo lo que había sucedido.]
+
+### Hechos 5:8 {#hech-5-8}
+ἀπεκρίθη δὲ ⸂πρὸς αὐτὴν⸃ ⸀Πέτρος· Εἰπέ μοι, εἰ τοσούτου τὸ χωρίον ἀπέδοσθε; ἡ δὲ εἶπεν· Ναί, τοσούτου. 
+[Y Pedro le preguntó: «Dime, ¿vendieron el terreno en tal precio?». «Sí, ese fue el precio», dijo ella.]
+
+### Hechos 5:9 {#hech-5-9}
+ὁ δὲ ⸀Πέτρος πρὸς αὐτήν· Τί ὅτι συνεφωνήθη ὑμῖν πειράσαι τὸ πνεῦμα κυρίου; ἰδοὺ οἱ πόδες τῶν θαψάντων τὸν ἄνδρα σου ἐπὶ τῇ θύρᾳ καὶ ἐξοίσουσίν σε. 
+[Entonces Pedro le dijo: «¿Por qué se pusieron de acuerdo para poner a prueba al Espíritu del Señor? Mira, los pies de los hombres que sepultaron a tu marido están a la puerta, y te sacarán también a ti».]
+
+### Hechos 5:10 {#hech-5-10}
+ἔπεσεν δὲ παραχρῆμα ⸀πρὸς τοὺς πόδας αὐτοῦ καὶ ἐξέψυξεν· εἰσελθόντες δὲ οἱ νεανίσκοι εὗρον αὐτὴν νεκράν, καὶ ἐξενέγκαντες ἔθαψαν πρὸς τὸν ἄνδρα αὐτῆς. 
+[Al instante ella cayó a los pies de él, y expiró. Al entrar los jóvenes, la hallaron muerta; entonces la sacaron y le dieron sepultura junto a su marido.]
+
+### Hechos 5:11 {#hech-5-11}
+καὶ ἐγένετο φόβος μέγας ἐφʼ ὅλην τὴν ἐκκλησίαν καὶ ἐπὶ πάντας τοὺς ἀκούοντας ταῦτα. 
+[Y vino un gran temor sobre toda la iglesia y sobre todos los que supieron estas cosas.]
+
+### Hechos 5:12 {#hech-5-12}
+Διὰ δὲ τῶν χειρῶν τῶν ἀποστόλων ἐγίνετο σημεῖα καὶ τέρατα ⸂πολλὰ ἐν τῷ λαῷ⸃· καὶ ἦσαν ὁμοθυμαδὸν ⸀ἅπαντες ἐν τῇ Στοᾷ Σολομῶντος· 
+[Por mano de los apóstoles se realizaban muchas señales y prodigios entre el pueblo; y acostumbraban a estar todos de común acuerdo en el pórtico de Salomón.]
+
+### Hechos 5:13 {#hech-5-13}
+τῶν δὲ λοιπῶν οὐδεὶς ἐτόλμα κολλᾶσθαι αὐτοῖς, ἀλλʼ ἐμεγάλυνεν αὐτοὺς ὁ λαός, 
+[Pero ninguno de los demás se atrevía a juntarse con ellos; sin embargo, el pueblo los tenía en gran estima.]
+
+### Hechos 5:14 {#hech-5-14}
+μᾶλλον δὲ προσετίθεντο πιστεύοντες τῷ κυρίῳ πλήθη ἀνδρῶν τε καὶ γυναικῶν· 
+[Y más y más creyentes en el Señor, multitud de hombres y de mujeres, se añadían constantemente al número de ellos,]
+
+### Hechos 5:15 {#hech-5-15}
+ὥστε ⸂καὶ εἰς⸃ τὰς πλατείας ἐκφέρειν τοὺς ἀσθενεῖς καὶ τιθέναι ἐπὶ ⸀κλιναρίων καὶ κραβάττων, ἵνα ἐρχομένου Πέτρου κἂν ἡ σκιὰ ⸀ἐπισκιάσῃ τινὶ αὐτῶν. 
+[a tal punto que aun sacaban a los enfermos a las calles y los tendían en lechos y camillas, para que al pasar Pedro, siquiera su sombra cayera sobre alguno de ellos.]
+
+### Hechos 5:16 {#hech-5-16}
+συνήρχετο δὲ καὶ τὸ πλῆθος τῶν πέριξ ⸀πόλεων Ἰερουσαλήμ, φέροντες ἀσθενεῖς καὶ ὀχλουμένους ὑπὸ πνευμάτων ἀκαθάρτων, οἵτινες ἐθεραπεύοντο ἅπαντες. 
+[También la gente de las ciudades en los alrededores de Jerusalén acudía trayendo enfermos y atormentados por espíritus inmundos, y todos eran sanados.]
+
+### Hechos 5:17 {#hech-5-17}
+Ἀναστὰς δὲ ὁ ἀρχιερεὺς καὶ πάντες οἱ σὺν αὐτῷ, ἡ οὖσα αἵρεσις τῶν Σαδδουκαίων, ἐπλήσθησαν ζήλου 
+[Pero levantándose el sumo sacerdote, y todos los que estaban con él, (es decir, la secta de los saduceos), se llenaron de celo.]
+
+### Hechos 5:18 {#hech-5-18}
+καὶ ἐπέβαλον τὰς ⸀χεῖρας ἐπὶ τοὺς ἀποστόλους καὶ ἔθεντο αὐτοὺς ἐν τηρήσει δημοσίᾳ. 
+[Entonces echaron mano a los apóstoles y los pusieron en una cárcel pública.]
+
+### Hechos 5:19 {#hech-5-19}
+ἄγγελος δὲ κυρίου ⸀διὰ νυκτὸς ⸀ἤνοιξε τὰς θύρας τῆς φυλακῆς ἐξαγαγών τε αὐτοὺς εἶπεν· 
+[Pero durante la noche, un ángel del Señor, abrió las puertas de la cárcel y sacándolos, les dijo:]
+
+### Hechos 5:20 {#hech-5-20}
+Πορεύεσθε καὶ σταθέντες λαλεῖτε ἐν τῷ ἱερῷ τῷ λαῷ πάντα τὰ ῥήματα τῆς ζωῆς ταύτης. 
+[«Vayan, preséntense en el templo, y hablen al pueblo todo el mensaje de esta Vida».]
+
+### Hechos 5:21 {#hech-5-21}
+ἀκούσαντες δὲ εἰσῆλθον ὑπὸ τὸν ὄρθρον εἰς τὸ ἱερὸν καὶ ἐδίδασκον. Παραγενόμενος δὲ ὁ ἀρχιερεὺς καὶ οἱ σὺν αὐτῷ συνεκάλεσαν τὸ συνέδριον καὶ πᾶσαν τὴν γερουσίαν τῶν υἱῶν Ἰσραήλ, καὶ ἀπέστειλαν εἰς τὸ δεσμωτήριον ἀχθῆναι αὐτούς. 
+[Habiendo oído esto, al amanecer entraron en el templo y enseñaban. Cuando llegaron el sumo sacerdote y los que estaban con él, convocaron al Concilio, es decir, a todo el Senado de los israelitas. Y mandaron traer de la cárcel a los apóstoles.]
+
+### Hechos 5:22 {#hech-5-22}
+οἱ δὲ ⸂παραγενόμενοι ὑπηρέται⸃ οὐχ εὗρον αὐτοὺς ἐν τῇ φυλακῇ, ἀναστρέψαντες δὲ ἀπήγγειλαν 
+[Pero los guardias que fueron no los encontraron en la cárcel; volvieron, pues, y les informaron:]
+
+### Hechos 5:23 {#hech-5-23}
+λέγοντες ὅτι ⸀Τὸ δεσμωτήριον εὕρομεν κεκλεισμένον ἐν πάσῃ ἀσφαλείᾳ καὶ τοὺς φύλακας ἑστῶτας ⸀ἐπὶ τῶν θυρῶν, ἀνοίξαντες δὲ ἔσω οὐδένα εὕρομεν. 
+[«Encontramos la cárcel cerrada con toda seguridad y los guardias de pie a las puertas; pero cuando abrimos, a nadie hallamos dentro».]
+
+### Hechos 5:24 {#hech-5-24}
+ὡς δὲ ἤκουσαν τοὺς λόγους τούτους ὅ ⸀τε στρατηγὸς τοῦ ἱεροῦ καὶ οἱ ἀρχιερεῖς, διηπόρουν περὶ αὐτῶν τί ἂν γένοιτο τοῦτο. 
+[Cuando oyeron estas palabras el capitán de la guardia del templo y los principales sacerdotes, se quedaron muy perplejos a causa de ellas, pensando en qué terminaría aquello.]
+
+### Hechos 5:25 {#hech-5-25}
+παραγενόμενος δέ τις ἀπήγγειλεν αὐτοῖς ὅτι Ἰδοὺ οἱ ἄνδρες οὓς ἔθεσθε ἐν τῇ φυλακῇ εἰσὶν ἐν τῷ ἱερῷ ἑστῶτες καὶ διδάσκοντες τὸν λαόν. 
+[Pero alguien se presentó y les informó: «Miren, los hombres que pusieron en la cárcel están en el templo enseñando al pueblo».]
+
+### Hechos 5:26 {#hech-5-26}
+τότε ἀπελθὼν ὁ στρατηγὸς σὺν τοῖς ὑπηρέταις ⸀ἤγαγεν αὐτούς, οὐ μετὰ βίας, ἐφοβοῦντο γὰρ τὸν λαόν, ⸀μὴ λιθασθῶσιν. 
+[Entonces el capitán fue con los guardias y los trajo sin violencia porque temían al pueblo, no fuera que los apedrearan.]
+
+### Hechos 5:27 {#hech-5-27}
+Ἀγαγόντες δὲ αὐτοὺς ἔστησαν ἐν τῷ συνεδρίῳ. καὶ ἐπηρώτησεν αὐτοὺς ὁ ἀρχιερεὺς 
+[Cuando los trajeron, los pusieron ante el Concilio, y el sumo sacerdote los interrogó:]
+
+### Hechos 5:28 {#hech-5-28}
+⸀λέγων· Παραγγελίᾳ παρηγγείλαμεν ὑμῖν μὴ διδάσκειν ἐπὶ τῷ ὀνόματι τούτῳ, καὶ ἰδοὺ πεπληρώκατε τὴν Ἰερουσαλὴμ τῆς διδαχῆς ὑμῶν, καὶ βούλεσθε ἐπαγαγεῖν ἐφʼ ἡμᾶς τὸ αἷμα τοῦ ἀνθρώπου τούτου. 
+[«Les dimos órdenes estrictas de no continuar enseñando en este Nombre, y han llenado a Jerusalén con sus enseñanzas, y quieren traer sobre nosotros la sangre de este Hombre».]
+
+### Hechos 5:29 {#hech-5-29}
+ἀποκριθεὶς δὲ Πέτρος καὶ οἱ ἀπόστολοι εἶπαν· Πειθαρχεῖν δεῖ θεῷ μᾶλλον ἢ ἀνθρώποις. 
+[Pero Pedro y los apóstoles respondieron: «Debemos obedecer a Dios en vez de obedecer a los hombres.]
+
+### Hechos 5:30 {#hech-5-30}
+ὁ θεὸς τῶν πατέρων ἡμῶν ἤγειρεν Ἰησοῦν, ὃν ὑμεῖς διεχειρίσασθε κρεμάσαντες ἐπὶ ξύλου· 
+[El Dios de nuestros padres resucitó a Jesús, a quien ustedes mataron y colgaron en una cruz.]
+
+### Hechos 5:31 {#hech-5-31}
+τοῦτον ὁ θεὸς ἀρχηγὸν καὶ σωτῆρα ὕψωσεν τῇ δεξιᾷ αὐτοῦ, ⸀τοῦ δοῦναι μετάνοιαν τῷ Ἰσραὴλ καὶ ἄφεσιν ἁμαρτιῶν· 
+[A Él Dios lo exaltó a Su diestra como Príncipe y Salvador, para dar arrepentimiento a Israel, y perdón de pecados.]
+
+### Hechos 5:32 {#hech-5-32}
+καὶ ἡμεῖς ⸀ἐσμεν μάρτυρες τῶν ῥημάτων τούτων, καὶ τὸ ⸀πνεῦμα τὸ ἅγιον ὃ ἔδωκεν ὁ θεὸς τοῖς πειθαρχοῦσιν αὐτῷ. 
+[Y nosotros somos testigos de estas cosas; y también el Espíritu Santo, el cual Dios ha dado a los que le obedecen».]
+
+### Hechos 5:33 {#hech-5-33}
+Οἱ δὲ ⸀ἀκούσαντες διεπρίοντο καὶ ἐβούλοντο ἀνελεῖν αὐτούς. 
+[Cuando ellos oyeron esto, se sintieron profundamente ofendidos y querían matarlos.]
+
+### Hechos 5:34 {#hech-5-34}
+ἀναστὰς δέ τις ἐν τῷ συνεδρίῳ Φαρισαῖος ὀνόματι Γαμαλιήλ, νομοδιδάσκαλος τίμιος παντὶ τῷ λαῷ, ἐκέλευσεν ἔξω ⸀βραχὺ τοὺς ⸀ἀνθρώπους ποιῆσαι, 
+[Pero cierto fariseo llamado Gamaliel, maestro de la ley, respetado por todo el pueblo, se levantó en el Concilio y ordenó que sacaran fuera a los apóstoles por un momento.]
+
+### Hechos 5:35 {#hech-5-35}
+εἶπέν τε πρὸς αὐτούς· Ἄνδρες Ἰσραηλῖται, προσέχετε ἑαυτοῖς ἐπὶ τοῖς ἀνθρώποις τούτοις τί μέλλετε πράσσειν. 
+[Entonces les dijo: «Hombres de Israel, tengan cuidado de lo que van a hacer con estos hombres.]
+
+### Hechos 5:36 {#hech-5-36}
+πρὸ γὰρ τούτων τῶν ἡμερῶν ἀνέστη Θευδᾶς, λέγων εἶναί τινα ἑαυτόν, ᾧ ⸀προσεκλίθη ⸂ἀνδρῶν ἀριθμὸς ὡς⸃ τετρακοσίων· ὃς ἀνῃρέθη, καὶ πάντες ὅσοι ἐπείθοντο αὐτῷ διελύθησαν καὶ ἐγένοντο εἰς οὐδέν. 
+[Porque hace algún tiempo Teudas se levantó pretendiendo ser alguien; y un grupo como de 400 hombres se unió a él. Y fue muerto, y todos los que lo seguían fueron dispersos y reducidos a nada.]
+
+### Hechos 5:37 {#hech-5-37}
+μετὰ τοῦτον ἀνέστη Ἰούδας ὁ Γαλιλαῖος ἐν ταῖς ἡμέραις τῆς ἀπογραφῆς καὶ ἀπέστησε ⸀λαὸν ὀπίσω αὐτοῦ· κἀκεῖνος ἀπώλετο καὶ πάντες ὅσοι ἐπείθοντο αὐτῷ διεσκορπίσθησαν. 
+[Después de él, se levantó Judas de Galilea en los días del censo, y llevó mucha gente tras sí; él también pereció, y todos los que lo seguían se dispersaron.]
+
+### Hechos 5:38 {#hech-5-38}
+καὶ τὰ νῦν λέγω ὑμῖν, ἀπόστητε ἀπὸ τῶν ἀνθρώπων τούτων καὶ ⸀ἄφετε αὐτούς· (ὅτι ἐὰν ᾖ ἐξ ἀνθρώπων ἡ βουλὴ ⸀αὕτη ἢ τὸ ἔργον τοῦτο, καταλυθήσεται, 
+[»Por tanto, en este caso les digo que no tengan nada que ver con estos hombres y déjenlos en paz, porque si este plan o acción es de los hombres, perecerá;]
+
+### Hechos 5:39 {#hech-5-39}
+εἰ δὲ ἐκ θεοῦ ἐστιν, οὐ ⸀δυνήσεσθε καταλῦσαι ⸀αὐτούς·) μήποτε καὶ θεομάχοι εὑρεθῆτε. ἐπείσθησαν δὲ αὐτῷ, 
+[pero si es de Dios, no podrán destruirlos; no sea que se hallen luchando contra Dios».]
+
+### Hechos 5:40 {#hech-5-40}
+καὶ προσκαλεσάμενοι τοὺς ἀποστόλους δείραντες παρήγγειλαν μὴ λαλεῖν ἐπὶ τῷ ὀνόματι τοῦ Ἰησοῦ καὶ ⸀ἀπέλυσαν. 
+[Ellos aceptaron su consejo, y después de llamar a los apóstoles, los azotaron y les ordenaron que no hablaran más en el nombre de Jesús y los soltaron.]
+
+### Hechos 5:41 {#hech-5-41}
+οἱ μὲν οὖν ἐπορεύοντο χαίροντες ἀπὸ προσώπου τοῦ συνεδρίου ὅτι ⸂κατηξιώθησαν ὑπὲρ τοῦ ὀνόματος⸃ ἀτιμασθῆναι· 
+[Los apóstoles, pues, salieron de la presencia del Concilio, regocijándose de que hubieran sido considerados dignos de sufrir afrenta por Su Nombre.]
+
+### Hechos 5:42 {#hech-5-42}
+πᾶσάν τε ἡμέραν ἐν τῷ ἱερῷ καὶ κατʼ οἶκον οὐκ ἐπαύοντο διδάσκοντες καὶ εὐαγγελιζόμενοι ⸂τὸν χριστὸν Ἰησοῦν⸃. 
+[Y todos los días, en el templo y de casa en casa, no cesaban de enseñar y proclamar el evangelio de Jesús como el Cristo.]
+
+### Hechos 6:1 {#hech-6-1}
+Ἐν δὲ ταῖς ἡμέραις ταύταις πληθυνόντων τῶν μαθητῶν ἐγένετο γογγυσμὸς τῶν Ἑλληνιστῶν πρὸς τοὺς Ἑβραίους ὅτι παρεθεωροῦντο ἐν τῇ διακονίᾳ τῇ καθημερινῇ αἱ χῆραι αὐτῶν. 
+[Por aquellos días, al multiplicarse el número de los discípulos, surgió una queja de parte de los judíos helenistas en contra de los judíos nativos, porque sus viudas eran desatendidas en la distribución diaria de los alimentos.]
+
+### Hechos 6:2 {#hech-6-2}
+προσκαλεσάμενοι δὲ οἱ δώδεκα τὸ πλῆθος τῶν μαθητῶν εἶπαν· Οὐκ ἀρεστόν ἐστιν ἡμᾶς καταλείψαντας τὸν λόγον τοῦ θεοῦ διακονεῖν τραπέζαις· 
+[Entonces los doce convocaron a la congregación de los discípulos, y dijeron: «No es conveniente que nosotros descuidemos la palabra de Dios para servir mesas.]
+
+### Hechos 6:3 {#hech-6-3}
+ἐπισκέψασθε ⸀δέ, ἀδελφοί, ἄνδρας ἐξ ὑμῶν μαρτυρουμένους ἑπτὰ πλήρεις ⸀πνεύματος καὶ σοφίας, οὓς ⸀καταστήσομεν ἐπὶ τῆς χρείας ταύτης· 
+[Por tanto, hermanos, escojan de entre ustedes siete hombres de buena reputación, llenos del Espíritu Santo y de sabiduría, a quienes podamos encargar esta tarea.]
+
+### Hechos 6:4 {#hech-6-4}
+ἡμεῖς δὲ τῇ προσευχῇ καὶ τῇ διακονίᾳ τοῦ λόγου προσκαρτερήσομεν. 
+[Y nosotros nos entregaremos a la oración y al ministerio de la palabra».]
+
+### Hechos 6:5 {#hech-6-5}
+καὶ ἤρεσεν ὁ λόγος ἐνώπιον παντὸς τοῦ πλήθους, καὶ ἐξελέξαντο Στέφανον, ἄνδρα ⸀πλήρης πίστεως καὶ πνεύματος ἁγίου, καὶ Φίλιππον καὶ Πρόχορον καὶ Νικάνορα καὶ Τίμωνα καὶ Παρμενᾶν καὶ Νικόλαον προσήλυτον Ἀντιοχέα, 
+[Lo propuesto tuvo la aprobación de toda la congregación, y escogieron a Esteban, un hombre lleno de fe y del Espíritu Santo, y a Felipe, a Prócoro, a Nicanor, a Timón, a Parmenas y a Nicolás, un prosélito de Antioquía.]
+
+### Hechos 6:6 {#hech-6-6}
+οὓς ἔστησαν ἐνώπιον τῶν ἀποστόλων, καὶ προσευξάμενοι ἐπέθηκαν αὐτοῖς τὰς χεῖρας. 
+[A estos los presentaron ante los apóstoles, y después de orar, pusieron sus manos sobre ellos.]
+
+### Hechos 6:7 {#hech-6-7}
+Καὶ ὁ λόγος τοῦ θεοῦ ηὔξανεν, καὶ ἐπληθύνετο ὁ ἀριθμὸς τῶν μαθητῶν ἐν Ἰερουσαλὴμ σφόδρα, πολύς τε ὄχλος τῶν ἱερέων ὑπήκουον τῇ πίστει. 
+[Y la palabra de Dios crecía, y el número de los discípulos se multiplicaba en gran manera en Jerusalén, y muchos de los sacerdotes obedecían a la fe.]
+
+### Hechos 6:8 {#hech-6-8}
+Στέφανος δὲ πλήρης ⸀χάριτος καὶ δυνάμεως ἐποίει τέρατα καὶ σημεῖα μεγάλα ἐν τῷ λαῷ. 
+[Esteban, lleno de gracia y de poder, hacía grandes prodigios y señales entre el pueblo.]
+
+### Hechos 6:9 {#hech-6-9}
+ἀνέστησαν δέ τινες τῶν ἐκ τῆς συναγωγῆς τῆς λεγομένης Λιβερτίνων καὶ Κυρηναίων καὶ Ἀλεξανδρέων καὶ τῶν ἀπὸ Κιλικίας καὶ Ἀσίας συζητοῦντες τῷ Στεφάνῳ, 
+[Pero algunos de la sinagoga llamada de los Libertos, incluyendo tanto cireneos como alejandrinos, y algunos de Cilicia y de Asia, se levantaron y discutían con Esteban.]
+
+### Hechos 6:10 {#hech-6-10}
+καὶ οὐκ ἴσχυον ἀντιστῆναι τῇ σοφίᾳ καὶ τῷ πνεύματι ᾧ ἐλάλει. 
+[Pero no podían resistir a la sabiduría y al Espíritu con que hablaba.]
+
+### Hechos 6:11 {#hech-6-11}
+τότε ὑπέβαλον ἄνδρας λέγοντας ὅτι Ἀκηκόαμεν αὐτοῦ λαλοῦντος ῥήματα βλάσφημα εἰς Μωϋσῆν καὶ τὸν θεόν· 
+[Entonces, en secreto persuadieron a algunos hombres para que dijeran: «Le hemos oído hablar palabras blasfemas contra Moisés y contra Dios».]
+
+### Hechos 6:12 {#hech-6-12}
+συνεκίνησάν τε τὸν λαὸν καὶ τοὺς πρεσβυτέρους καὶ τοὺς γραμματεῖς, καὶ ἐπιστάντες συνήρπασαν αὐτὸν καὶ ἤγαγον εἰς τὸ συνέδριον, 
+[Y alborotaron al pueblo, a los ancianos y a los escribas, y cayendo sobre él, lo arrestaron y lo trajeron al Concilio.]
+
+### Hechos 6:13 {#hech-6-13}
+ἔστησάν τε μάρτυρας ψευδεῖς λέγοντας· Ὁ ἄνθρωπος οὗτος οὐ παύεται ⸂λαλῶν ῥήματα⸃ κατὰ τοῦ τόπου τοῦ ⸀ἁγίου καὶ τοῦ νόμου, 
+[Presentaron testigos falsos que dijeron: «Este hombre continuamente habla en contra de este lugar santo y de la ley;]
+
+### Hechos 6:14 {#hech-6-14}
+ἀκηκόαμεν γὰρ αὐτοῦ λέγοντος ὅτι Ἰησοῦς ὁ Ναζωραῖος οὗτος καταλύσει τὸν τόπον τοῦτον καὶ ἀλλάξει τὰ ἔθη ἃ παρέδωκεν ἡμῖν Μωϋσῆς. 
+[porque le hemos oído decir que este Nazareno, Jesús, destruirá este lugar, y cambiará las tradiciones que Moisés nos dejó».]
+
+### Hechos 6:15 {#hech-6-15}
+καὶ ἀτενίσαντες εἰς αὐτὸν ⸀πάντες οἱ καθεζόμενοι ἐν τῷ συνεδρίῳ εἶδον τὸ πρόσωπον αὐτοῦ ὡσεὶ πρόσωπον ἀγγέλου. 
+[Y al fijar la mirada en él, todos los que estaban sentados en el Concilio vieron su rostro como el rostro de un ángel.]
+
+### Hechos 7:1 {#hech-7-1}
+Εἶπεν δὲ ὁ ἀρχιερεύς· ⸀Εἰ ταῦτα οὕτως ἔχει; 
+[El sumo sacerdote dijo: «¿Es esto así?».]
+
+### Hechos 7:2 {#hech-7-2}
+ὁ δὲ ἔφη· Ἄνδρες ἀδελφοὶ καὶ πατέρες, ἀκούσατε· Ὁ θεὸς τῆς δόξης ὤφθη τῷ πατρὶ ἡμῶν Ἀβραὰμ ὄντι ἐν τῇ Μεσοποταμίᾳ πρὶν ἢ κατοικῆσαι αὐτὸν ἐν Χαρράν, 
+[Esteban respondió: «Escúchenme, hermanos y padres. El Dios de gloria apareció a nuestro padre Abraham cuando estaba en Mesopotamia, antes que habitara en Harán,]
+
+### Hechos 7:3 {#hech-7-3}
+καὶ εἶπεν πρὸς αὐτόν· Ἔξελθε ἐκ τῆς γῆς σου καὶ ⸀ἐκ τῆς συγγενείας σου, καὶ δεῦρο εἰς ⸀τὴν γῆν ἣν ἄν σοι δείξω. 
+[y le dijo: “SAL DE TU TIERRA Y DE TU FAMILIA, Y VE A LA TIERRA QUE YO TE MOSTRARÉ”.]
+
+### Hechos 7:4 {#hech-7-4}
+τότε ἐξελθὼν ἐκ γῆς Χαλδαίων κατῴκησεν ἐν Χαρράν. κἀκεῖθεν μετὰ τὸ ἀποθανεῖν τὸν πατέρα αὐτοῦ μετῴκισεν αὐτὸν εἰς τὴν γῆν ταύτην εἰς ἣν ὑμεῖς νῦν κατοικεῖτε, 
+[»Entonces Abraham salió de la tierra de los caldeos y se estableció en Harán. Y de allí, después de la muerte de su padre, Dios lo trasladó a esta tierra en la cual ahora ustedes habitan.]
+
+### Hechos 7:5 {#hech-7-5}
+καὶ οὐκ ἔδωκεν αὐτῷ κληρονομίαν ἐν αὐτῇ οὐδὲ βῆμα ποδός, καὶ ἐπηγγείλατο δοῦναι αὐτῷ εἰς κατάσχεσιν αὐτὴν καὶ τῷ σπέρματι αὐτοῦ μετʼ αὐτόν, οὐκ ὄντος αὐτῷ τέκνου. 
+[No le dio en ella heredad, ni siquiera la medida de la planta del pie, y sin embargo, aunque no tenía hijo, prometió que SE LA DARÍA EN POSESIÓN A ÉL Y A SU DESCENDENCIA DESPUÉS DE ÉL.]
+
+### Hechos 7:6 {#hech-7-6}
+ἐλάλησεν ⸀δὲ οὕτως ὁ θεὸς ὅτι ἔσται τὸ σπέρμα αὐτοῦ πάροικον ἐν γῇ ἀλλοτρίᾳ, καὶ δουλώσουσιν αὐτὸ καὶ κακώσουσιν ἔτη τετρακόσια· 
+[Y Dios dijo así: “Que SUS DESCENDIENTES SERÍAN EXTRANJEROS EN UNA TIERRA EXTRAÑA, Y QUE SERÍAN ESCLAVIZADOS Y MALTRATADOS POR 400 AÑOS.]
+
+### Hechos 7:7 {#hech-7-7}
+καὶ τὸ ἔθνος ᾧ ⸀ἐὰν ⸀δουλεύσουσιν κρινῶ ἐγώ, ⸂ὁ θεὸς εἶπεν⸃, καὶ μετὰ ταῦτα ἐξελεύσονται καὶ λατρεύσουσίν μοι ἐν τῷ τόπῳ τούτῳ. 
+[PERO YO MISMO JUZGARÉ A CUALQUIER NACIÓN DE LA CUAL SEAN ESCLAVOS”, dijo Dios, “Y DESPUÉS DE ESO SALDRÁN Y ME SERVIRÁN EN ESTE LUGAR”.]
+
+### Hechos 7:8 {#hech-7-8}
+καὶ ἔδωκεν αὐτῷ διαθήκην περιτομῆς· καὶ οὕτως ἐγέννησεν τὸν Ἰσαὰκ καὶ περιέτεμεν αὐτὸν τῇ ἡμέρᾳ τῇ ὀγδόῃ, ⸀καὶ Ἰσαὰκ τὸν Ἰακώβ, ⸁καὶ Ἰακὼβ τοὺς δώδεκα πατριάρχας. 
+[Dios le dio el pacto de la circuncisión; y así Abraham vino a ser el padre de Isaac, y lo circuncidó al octavo día; e Isaac vino a ser el padre de Jacob, y Jacob de los doce patriarcas.]
+
+### Hechos 7:9 {#hech-7-9}
+Καὶ οἱ πατριάρχαι ζηλώσαντες τὸν Ἰωσὴφ ἀπέδοντο εἰς Αἴγυπτον· καὶ ἦν ὁ θεὸς μετʼ αὐτοῦ, 
+[»Los patriarcas tuvieron envidia de José y lo vendieron para Egipto. Pero Dios estaba con él,]
+
+### Hechos 7:10 {#hech-7-10}
+καὶ ἐξείλατο αὐτὸν ἐκ πασῶν τῶν θλίψεων αὐτοῦ, καὶ ἔδωκεν αὐτῷ χάριν καὶ σοφίαν ἐναντίον Φαραὼ βασιλέως Αἰγύπτου, καὶ κατέστησεν αὐτὸν ἡγούμενον ἐπʼ Αἴγυπτον ⸀καὶ ὅλον τὸν οἶκον αὐτοῦ. 
+[y lo rescató de todas sus aflicciones. Le dio gracia y sabiduría delante de Faraón, rey de Egipto, y este lo puso por gobernador sobre Egipto y sobre toda su casa.]
+
+### Hechos 7:11 {#hech-7-11}
+ἦλθεν δὲ λιμὸς ἐφʼ ὅλην τὴν ⸀Αἴγυπτον καὶ Χανάαν καὶ θλῖψις μεγάλη, καὶ οὐχ ηὕρισκον χορτάσματα οἱ πατέρες ἡμῶν· 
+[»Entonces vino hambre sobre todo Egipto y Canaán, y con ella gran aflicción, y nuestros padres no hallaban alimentos.]
+
+### Hechos 7:12 {#hech-7-12}
+ἀκούσας δὲ Ἰακὼβ ὄντα ⸂σιτία εἰς Αἴγυπτον⸃ ἐξαπέστειλεν τοὺς πατέρας ἡμῶν πρῶτον· 
+[Pero cuando Jacob supo que había grano en Egipto, envió a nuestros padres allá la primera vez.]
+
+### Hechos 7:13 {#hech-7-13}
+καὶ ἐν τῷ δευτέρῳ ⸀ἀνεγνωρίσθη Ἰωσὴφ τοῖς ἀδελφοῖς αὐτοῦ, καὶ φανερὸν ἐγένετο τῷ Φαραὼ τὸ ⸀γένος Ἰωσήφ. 
+[En la segunda visita, José se dio a conocer a sus hermanos, y conoció Faraón la familia de José.]
+
+### Hechos 7:14 {#hech-7-14}
+ἀποστείλας δὲ Ἰωσὴφ μετεκαλέσατο ⸂Ἰακὼβ τὸν πατέρα αὐτοῦ⸃ καὶ πᾶσαν τὴν συγγένειαν ἐν ψυχαῖς ἑβδομήκοντα πέντε, 
+[José, enviando mensaje, mandó llamar a Jacob su padre y a toda su familia, en total setenta y cinco personas.]
+
+### Hechos 7:15 {#hech-7-15}
+⸂καὶ κατέβη⸃ Ἰακὼβ εἰς Αἴγυπτον. καὶ ἐτελεύτησεν αὐτὸς καὶ οἱ πατέρες ἡμῶν, 
+[»Y Jacob descendió a Egipto, y allí murió él y también nuestros padres.]
+
+### Hechos 7:16 {#hech-7-16}
+καὶ μετετέθησαν εἰς Συχὲμ καὶ ἐτέθησαν ἐν τῷ μνήματι ⸀ᾧ ὠνήσατο Ἀβραὰμ τιμῆς ἀργυρίου παρὰ τῶν υἱῶν Ἑμμὼρ ⸀ἐν Συχέμ. 
+[De allí fueron trasladados a Siquem, y puestos en el sepulcro que por una suma de dinero había comprado Abraham a los hijos de Hamor en Siquem.]
+
+### Hechos 7:17 {#hech-7-17}
+Καθὼς δὲ ἤγγιζεν ὁ χρόνος τῆς ἐπαγγελίας ἧς ⸀ὡμολόγησεν ὁ θεὸς τῷ Ἀβραάμ, ηὔξησεν ὁ λαὸς καὶ ἐπληθύνθη ἐν Αἰγύπτῳ, 
+[»Pero a medida que se acercaba el tiempo de la promesa que Dios había confirmado a Abraham, el pueblo crecía y se multiplicaba en Egipto,]
+
+### Hechos 7:18 {#hech-7-18}
+ἄχρι οὗ ἀνέστη βασιλεὺς ἕτερος ⸂ἐπʼ Αἴγυπτον⸃, ὃς οὐκ ᾔδει τὸν Ἰωσήφ. 
+[hasta que SURGIÓ OTRO REY EN EGIPTO QUE NO SABÍA NADA DE JOSÉ.]
+
+### Hechos 7:19 {#hech-7-19}
+οὗτος κατασοφισάμενος τὸ γένος ἡμῶν ἐκάκωσεν τοὺς ⸀πατέρας τοῦ ποιεῖν ⸂τὰ βρέφη ἔκθετα⸃ αὐτῶν εἰς τὸ μὴ ζῳογονεῖσθαι. 
+[Este rey, obrando con astucia contra nuestro pueblo, maltrató a nuestros padres, a fin de que expusieran a la muerte a sus niños para que no vivieran.]
+
+### Hechos 7:20 {#hech-7-20}
+ἐν ᾧ καιρῷ ἐγεννήθη Μωϋσῆς, καὶ ἦν ἀστεῖος τῷ θεῷ· ὃς ἀνετράφη μῆνας τρεῖς ἐν τῷ οἴκῳ τοῦ πατρός· 
+[»Fue por ese tiempo que Moisés nació. Era hermoso a la vista de Dios, y fue criado por tres meses en la casa de su padre.]
+
+### Hechos 7:21 {#hech-7-21}
+⸂ἐκτεθέντος δὲ αὐτοῦ ἀνείλατο αὐτὸν⸃ ἡ θυγάτηρ Φαραὼ καὶ ἀνεθρέψατο αὐτὸν ἑαυτῇ εἰς υἱόν. 
+[Después de ser abandonado para morir, la hija de Faraón se lo llevó y lo crió como su propio hijo.]
+
+### Hechos 7:22 {#hech-7-22}
+καὶ ἐπαιδεύθη ⸀Μωϋσῆς πάσῃ σοφίᾳ Αἰγυπτίων, ἦν δὲ δυνατὸς ἐν λόγοις καὶ ἔργοις ⸀αὐτοῦ. 
+[Moisés fue instruido en toda la sabiduría de los egipcios, y era un hombre poderoso en palabras y en hechos.]
+
+### Hechos 7:23 {#hech-7-23}
+Ὡς δὲ ἐπληροῦτο αὐτῷ τεσσερακονταετὴς χρόνος, ἀνέβη ἐπὶ τὴν καρδίαν αὐτοῦ ἐπισκέψασθαι τοὺς ἀδελφοὺς αὐτοῦ τοὺς υἱοὺς Ἰσραήλ. 
+[»Pero cuando iba a cumplir la edad de cuarenta años, sintió en su corazón el deseo de visitar a sus hermanos, los israelitas.]
+
+### Hechos 7:24 {#hech-7-24}
+καὶ ἰδών τινα ἀδικούμενον ἠμύνατο καὶ ἐποίησεν ἐκδίκησιν τῷ καταπονουμένῳ πατάξας τὸν Αἰγύπτιον. 
+[Al ver que uno de ellos era tratado injustamente, lo defendió y vengó al oprimido, matando al egipcio.]
+
+### Hechos 7:25 {#hech-7-25}
+ἐνόμιζεν δὲ συνιέναι τοὺς ⸀ἀδελφοὺς ὅτι ὁ θεὸς διὰ χειρὸς αὐτοῦ δίδωσιν ⸂σωτηρίαν αὐτοῖς⸃, οἱ δὲ οὐ συνῆκαν. 
+[Pensaba que sus hermanos entendían que Dios les estaba dando libertad por medio de él, pero ellos no entendieron.]
+
+### Hechos 7:26 {#hech-7-26}
+τῇ τε ἐπιούσῃ ἡμέρᾳ ὤφθη αὐτοῖς μαχομένοις καὶ ⸀συνήλλασσεν αὐτοὺς εἰς εἰρήνην εἰπών· Ἄνδρες, ἀδελφοί ⸀ἐστε· ἱνατί ἀδικεῖτε ἀλλήλους; 
+[»Al día siguiente se les presentó, cuando dos de ellos reñían, y trató de poner paz entre ellos, diciendo: “Varones, ustedes son hermanos, ¿por qué se hieren el uno al otro?”.]
+
+### Hechos 7:27 {#hech-7-27}
+ὁ δὲ ἀδικῶν τὸν πλησίον ἀπώσατο αὐτὸν εἰπών· Τίς σε κατέστησεν ἄρχοντα καὶ δικαστὴν ἐφʼ ⸀ἡμῶν; 
+[Pero el que estaba hiriendo a su prójimo lo empujó, diciendo: “¿QUIÉN TE HA PUESTO POR GOBERNANTE Y JUEZ SOBRE NOSOTROS?]
+
+### Hechos 7:28 {#hech-7-28}
+μὴ ἀνελεῖν με σὺ θέλεις ὃν τρόπον ἀνεῖλες ⸀ἐχθὲς τὸν Αἰγύπτιον; 
+[¿ACASO QUIERES MATARME COMO MATASTE AYER AL EGIPCIO?”.]
+
+### Hechos 7:29 {#hech-7-29}
+ἔφυγεν δὲ Μωϋσῆς ἐν τῷ λόγῳ τούτῳ, καὶ ἐγένετο πάροικος ἐν γῇ Μαδιάμ, οὗ ἐγέννησεν υἱοὺς δύο. 
+[Al oír estas palabras, MOISÉS HUYÓ Y SE CONVIRTIÓ EN EXTRANJERO EN LA TIERRA DE MADIÁN, donde fue padre de dos hijos.]
+
+### Hechos 7:30 {#hech-7-30}
+Καὶ πληρωθέντων ἐτῶν τεσσεράκοντα ὤφθη αὐτῷ ἐν τῇ ἐρήμῳ τοῦ ὄρους Σινᾶ ⸀ἄγγελος ἐν φλογὶ πυρὸς βάτου· 
+[»Pasados cuarenta años, SE LE APARECIÓ UN ÁNGEL EN EL DESIERTO DEL MONTE Sinaí, EN LA LLAMA DE UNA ZARZA QUE ARDÍA.]
+
+### Hechos 7:31 {#hech-7-31}
+ὁ δὲ Μωϋσῆς ἰδὼν ⸀ἐθαύμασεν τὸ ὅραμα. προσερχομένου δὲ αὐτοῦ κατανοῆσαι ἐγένετο φωνὴ ⸀κυρίου· 
+[Al ver esto, Moisés se maravillaba de la visión, y al acercarse para ver mejor, vino a él la voz del Señor:]
+
+### Hechos 7:32 {#hech-7-32}
+Ἐγὼ ὁ θεὸς τῶν πατέρων σου, ὁ θεὸς Ἀβραὰμ ⸀καὶ Ἰσαὰκ ⸁καὶ Ἰακώβ. ἔντρομος δὲ γενόμενος Μωϋσῆς οὐκ ἐτόλμα κατανοῆσαι. 
+[“YO SOY EL DIOS DE TUS PADRES, EL DIOS DE ABRAHAM, DE ISAAC, Y DE JACOB”. Moisés temblando, no se atrevía a mirar.]
+
+### Hechos 7:33 {#hech-7-33}
+εἶπεν δὲ αὐτῷ ὁ κύριος· Λῦσον τὸ ὑπόδημα τῶν ποδῶν σου, ὁ γὰρ τόπος ⸀ἐφʼ ᾧ ἕστηκας γῆ ἁγία ἐστίν. 
+[»PERO EL SEÑOR LE DIJO: “QUÍTATE LAS SANDALIAS DE LOS PIES, PORQUE EL LUGAR DONDE ESTÁS ES TIERRA SANTA.]
+
+### Hechos 7:34 {#hech-7-34}
+ἰδὼν εἶδον τὴν κάκωσιν τοῦ λαοῦ μου τοῦ ἐν Αἰγύπτῳ, καὶ τοῦ στεναγμοῦ ⸀αὐτοῦ ἤκουσα, καὶ κατέβην ἐξελέσθαι αὐτούς· καὶ νῦν δεῦρο ⸀ἀποστείλω σε εἰς Αἴγυπτον. 
+[CIERTAMENTE HE VISTO LA OPRESIÓN DE MI PUEBLO EN EGIPTO Y HE OÍDO SUS GEMIDOS, Y HE DESCENDIDO PARA LIBRARLOS; VEN AHORA Y TE ENVIARÉ A EGIPTO”.]
+
+### Hechos 7:35 {#hech-7-35}
+Τοῦτον τὸν Μωϋσῆν, ὃν ἠρνήσαντο εἰπόντες· Τίς σε κατέστησεν ἄρχοντα καὶ δικαστήν, τοῦτον ὁ θεὸς ⸀καὶ ἄρχοντα καὶ λυτρωτὴν ⸂ἀπέσταλκεν σὺν⸃ χειρὶ ἀγγέλου τοῦ ὀφθέντος αὐτῷ ἐν τῇ βάτῳ. 
+[Este Moisés, a quien ellos rechazaron, diciendo: “¿QUIÉN TE HA PUESTO POR GOBERNANTE Y JUEZ?” es el mismo que Dios envió para ser gobernante y libertador con la ayuda del ángel que se le apareció en la zarza.]
+
+### Hechos 7:36 {#hech-7-36}
+οὗτος ἐξήγαγεν αὐτοὺς ποιήσας τέρατα καὶ σημεῖα ἐν ⸀γῇ Αἰγύπτῳ καὶ ἐν Ἐρυθρᾷ Θαλάσσῃ καὶ ἐν τῇ ἐρήμῳ ἔτη τεσσεράκοντα. 
+[Este hombre los sacó, haciendo prodigios y señales en la tierra de Egipto, en el Mar Rojo y en el desierto por cuarenta años.]
+
+### Hechos 7:37 {#hech-7-37}
+οὗτός ἐστιν ὁ Μωϋσῆς ὁ ⸀εἴπας τοῖς υἱοῖς Ἰσραήλ· Προφήτην ὑμῖν ἀναστήσει ⸂ὁ θεὸς⸃ ἐκ τῶν ἀδελφῶν ὑμῶν ὡς ἐμέ. 
+[»Este es el mismo Moisés que dijo a los israelitas: “DIOS LES LEVANTARÁ UN PROFETA COMO YO DE ENTRE SUS HERMANOS”.]
+
+### Hechos 7:38 {#hech-7-38}
+οὗτός ἐστιν ὁ γενόμενος ἐν τῇ ἐκκλησίᾳ ἐν τῇ ἐρήμῳ μετὰ τοῦ ἀγγέλου τοῦ λαλοῦντος αὐτῷ ἐν τῷ ὄρει Σινᾶ καὶ τῶν πατέρων ἡμῶν, ὃς ἐδέξατο ⸀λόγια ζῶντα δοῦναι ⸀ἡμῖν, 
+[Este es el que estaba en la congregación en el desierto junto con el ángel que le hablaba en el monte Sinaí, y con nuestros padres, y el que recibió palabras de vida para transmitirlas a ustedes,]
+
+### Hechos 7:39 {#hech-7-39}
+ᾧ οὐκ ἠθέλησαν ὑπήκοοι γενέσθαι οἱ πατέρες ἡμῶν, ἀλλὰ ἀπώσαντο καὶ ἐστράφησαν ⸂ἐν ταῖς καρδίαις⸃ αὐτῶν εἰς Αἴγυπτον, 
+[al cual nuestros padres no quisieron obedecer, sino que lo repudiaron, y en sus corazones desearon regresar a Egipto,]
+
+### Hechos 7:40 {#hech-7-40}
+εἰπόντες τῷ Ἀαρών· Ποίησον ἡμῖν θεοὺς οἳ προπορεύσονται ἡμῶν· ὁ γὰρ Μωϋσῆς οὗτος, ὃς ἐξήγαγεν ἡμᾶς ἐκ γῆς Αἰγύπτου, οὐκ οἴδαμεν τί ⸀ἐγένετο αὐτῷ. 
+[DICIENDO A AARÓN: “HAZNOS DIOSES QUE VAYAN DELANTE DE NOSOTROS, PORQUE A ESTE MOISÉS QUE NOS SACO DE LA TIERRA DE EGIPTO, NO SABEMOS LO QUE LE HAYA PASADO”.]
+
+### Hechos 7:41 {#hech-7-41}
+καὶ ἐμοσχοποίησαν ἐν ταῖς ἡμέραις ἐκείναις καὶ ἀνήγαγον θυσίαν τῷ εἰδώλῳ, καὶ εὐφραίνοντο ἐν τοῖς ἔργοις τῶν χειρῶν αὐτῶν. 
+[»En aquellos días hicieron un becerro y ofrecieron sacrificio al ídolo, y se regocijaban en las obras de sus manos.]
+
+### Hechos 7:42 {#hech-7-42}
+ἔστρεψεν δὲ ὁ θεὸς καὶ παρέδωκεν αὐτοὺς λατρεύειν τῇ στρατιᾷ τοῦ οὐρανοῦ, καθὼς γέγραπται ἐν βίβλῳ τῶν προφητῶν· Μὴ σφάγια καὶ θυσίας προσηνέγκατέ μοι ἔτη τεσσεράκοντα ἐν τῇ ἐρήμῳ, οἶκος Ἰσραήλ; 
+[Pero Dios se apartó de ellos y los entregó para que sirvieran al ejército del cielo, como está escrito en el libro de los profetas: “¿ACASO FUE A MÍ A QUIEN OFRECIERON VICTIMAS Y SACRIFICIOS EN EL DESIERTO POR CUARENTA AÑOS, CASA DE ISRAEL?]
+
+### Hechos 7:43 {#hech-7-43}
+καὶ ἀνελάβετε τὴν σκηνὴν τοῦ Μολὸχ καὶ τὸ ἄστρον τοῦ ⸀θεοῦ ⸀Ῥαιφάν, τοὺς τύπους οὓς ἐποιήσατε προσκυνεῖν αὐτοῖς. καὶ μετοικιῶ ὑμᾶς ἐπέκεινα Βαβυλῶνος. 
+[TAMBIÉN LLEVARON EL TABERNÁCULO DE MOLOC, Y LA ESTRELLA DEL DIOS RENFAN, LAS IMÁGENES QUE HICIERON PARA ADORARLAS. YO TAMBIÉN LOS DEPORTARÉ MÁS ALLÁ DE BABILONIA”.]
+
+### Hechos 7:44 {#hech-7-44}
+Ἡ σκηνὴ τοῦ μαρτυρίου ἦν τοῖς πατράσιν ἡμῶν ἐν τῇ ἐρήμῳ, καθὼς διετάξατο ὁ λαλῶν τῷ Μωϋσῇ ποιῆσαι αὐτὴν κατὰ τὸν τύπον ὃν ἑωράκει, 
+[»Nuestros padres tuvieron el tabernáculo del testimonio en el desierto, tal como le había ordenado que lo hiciera el que habló a Moisés, conforme al modelo que había visto.]
+
+### Hechos 7:45 {#hech-7-45}
+ἣν καὶ εἰσήγαγον διαδεξάμενοι οἱ πατέρες ἡμῶν μετὰ Ἰησοῦ ἐν τῇ κατασχέσει τῶν ἐθνῶν ὧν ἐξῶσεν ὁ θεὸς ἀπὸ προσώπου τῶν πατέρων ἡμῶν ἕως τῶν ἡμερῶν Δαυίδ· 
+[A su vez, habiéndolo recibido, nuestros padres lo introdujeron con Josué al tomar posesión de las naciones que Dios arrojó de delante de nuestros padres, hasta los días de David.]
+
+### Hechos 7:46 {#hech-7-46}
+ὃς εὗρεν χάριν ἐνώπιον τοῦ θεοῦ καὶ ᾐτήσατο εὑρεῖν σκήνωμα τῷ ⸀θεῷ Ἰακώβ. 
+[Y David halló gracia delante de Dios, y pidió el favor de hallar una morada para el Dios de Jacob.]
+
+### Hechos 7:47 {#hech-7-47}
+Σολομῶν δὲ οἰκοδόμησεν αὐτῷ οἶκον. 
+[Pero fue Salomón quien le edificó una casa.]
+
+### Hechos 7:48 {#hech-7-48}
+ἀλλʼ οὐχ ὁ ὕψιστος ἐν ⸀χειροποιήτοις κατοικεῖ· καθὼς ὁ προφήτης λέγει· 
+[»Sin embargo, el Altísimo no habita en casas hechas por manos de hombres; como dice el profeta:]
+
+### Hechos 7:49 {#hech-7-49}
+Ὁ οὐρανός μοι θρόνος, ⸂ἡ δὲ⸃ γῆ ὑποπόδιον τῶν ποδῶν μου· ποῖον οἶκον οἰκοδομήσετέ μοι, λέγει κύριος, ἢ τίς τόπος τῆς καταπαύσεώς μου; 
+[“EL CIELO ES MI TRONO, Y LA TIERRA EL ESTRADO DE MIS PIES; ¿QUÉ CASA ME EDIFICARÁN?”, dice el Señor, “¿O CUÁL ES EL LUGAR DE MI REPOSO?]
+
+### Hechos 7:50 {#hech-7-50}
+οὐχὶ ἡ χείρ μου ἐποίησεν ταῦτα πάντα; 
+[¿NO FUE MI MANO LA QUE HIZO TODAS ESTAS COSAS?”.]
+
+### Hechos 7:51 {#hech-7-51}
+Σκληροτράχηλοι καὶ ἀπερίτμητοι ⸀καρδίαις καὶ τοῖς ὠσίν, ὑμεῖς ἀεὶ τῷ πνεύματι τῷ ἁγίῳ ἀντιπίπτετε, ὡς οἱ πατέρες ὑμῶν καὶ ὑμεῖς. 
+[»Ustedes, que son tercos e incircuncisos de corazón y de oídos, resisten siempre al Espíritu Santo; como hicieron sus padres, así hacen también ustedes.]
+
+### Hechos 7:52 {#hech-7-52}
+τίνα τῶν προφητῶν οὐκ ἐδίωξαν οἱ πατέρες ὑμῶν; καὶ ἀπέκτειναν τοὺς προκαταγγείλαντας περὶ τῆς ἐλεύσεως τοῦ δικαίου οὗ νῦν ὑμεῖς προδόται καὶ φονεῖς ⸀ἐγένεσθε, 
+[¿A cuál de los profetas no persiguieron sus padres? Ellos mataron a los que antes habían anunciado la venida del Justo, del cual ahora ustedes se hicieron traidores y asesinos;]
+
+### Hechos 7:53 {#hech-7-53}
+οἵτινες ἐλάβετε τὸν νόμον εἰς διαταγὰς ἀγγέλων, καὶ οὐκ ἐφυλάξατε. 
+[ustedes que recibieron la ley por disposición de ángeles y sin embargo no la guardaron».]
+
+### Hechos 7:54 {#hech-7-54}
+Ἀκούοντες δὲ ταῦτα διεπρίοντο ταῖς καρδίαις αὐτῶν καὶ ἔβρυχον τοὺς ὀδόντας ἐπʼ αὐτόν. 
+[Al oír esto, se sintieron profundamente ofendidos, y crujían los dientes contra él.]
+
+### Hechos 7:55 {#hech-7-55}
+ὑπάρχων δὲ πλήρης πνεύματος ἁγίου ἀτενίσας εἰς τὸν οὐρανὸν εἶδεν δόξαν θεοῦ καὶ Ἰησοῦν ἑστῶτα ἐκ δεξιῶν τοῦ θεοῦ, 
+[Pero Esteban, lleno del Espíritu Santo, fijos los ojos en el cielo, vio la gloria de Dios y a Jesús de pie a la diestra de Dios;]
+
+### Hechos 7:56 {#hech-7-56}
+καὶ εἶπεν· Ἰδοὺ θεωρῶ τοὺς οὐρανοὺς ⸀διηνοιγμένους καὶ τὸν υἱὸν τοῦ ἀνθρώπου ἐκ δεξιῶν ἑστῶτα τοῦ θεοῦ. 
+[y dijo: «Veo los cielos abiertos, y al Hijo del Hombre de pie a la diestra de Dios».]
+
+### Hechos 7:57 {#hech-7-57}
+κράξαντες δὲ φωνῇ μεγάλῃ συνέσχον τὰ ὦτα αὐτῶν, καὶ ὥρμησαν ὁμοθυμαδὸν ἐπʼ αὐτόν, 
+[Entonces ellos gritaron a gran voz, y tapándose los oídos se lanzaron a una contra él.]
+
+### Hechos 7:58 {#hech-7-58}
+καὶ ἐκβαλόντες ἔξω τῆς πόλεως ἐλιθοβόλουν. καὶ οἱ μάρτυρες ἀπέθεντο τὰ ἱμάτια ⸀αὐτῶν παρὰ τοὺς πόδας νεανίου καλουμένου Σαύλου. 
+[Echándolo fuera de la ciudad, comenzaron a apedrearlo; y los testigos pusieron sus mantos a los pies de un joven llamado Saulo.]
+
+### Hechos 7:59 {#hech-7-59}
+καὶ ἐλιθοβόλουν τὸν Στέφανον ἐπικαλούμενον καὶ λέγοντα· Κύριε Ἰησοῦ, δέξαι τὸ πνεῦμά μου· 
+[Y mientras lo apedreaban, Esteban invocaba al Señor y decía: «Señor Jesús, recibe mi espíritu».]
+
+### Hechos 7:60 {#hech-7-60}
+θεὶς δὲ τὰ γόνατα ἔκραξεν φωνῇ μεγάλῃ· Κύριε, μὴ στήσῃς αὐτοῖς ⸂ταύτην τὴν ἁμαρτίαν⸃· καὶ τοῦτο εἰπὼν ἐκοιμήθη. 
+[Cayendo de rodillas, clamó en alta voz: «Señor, no les tomes en cuenta este pecado». Habiendo dicho esto, durmió.]
+
+### Hechos 8:1 {#hech-8-1}
+Σαῦλος δὲ ἦν συνευδοκῶν τῇ ἀναιρέσει αὐτοῦ. Ἐγένετο δὲ ἐν ἐκείνῃ τῇ ἡμέρᾳ διωγμὸς μέγας ἐπὶ τὴν ἐκκλησίαν τὴν ἐν Ἱεροσολύμοις· πάντες δὲ διεσπάρησαν κατὰ τὰς χώρας τῆς Ἰουδαίας καὶ Σαμαρείας πλὴν τῶν ἀποστόλων. 
+[Y Saulo estaba de completo acuerdo con ellos en su muerte. En aquel día se desató una gran persecución en contra de la iglesia en Jerusalén, y todos fueron esparcidos por las regiones de Judea y Samaria, excepto los apóstoles.]
+
+### Hechos 8:2 {#hech-8-2}
+συνεκόμισαν δὲ τὸν Στέφανον ἄνδρες εὐλαβεῖς καὶ ⸀ἐποίησαν κοπετὸν μέγαν ἐπʼ αὐτῷ. 
+[Algunos hombres piadosos sepultaron a Esteban y lloraron a gran voz por él.]
+
+### Hechos 8:3 {#hech-8-3}
+Σαῦλος δὲ ἐλυμαίνετο τὴν ἐκκλησίαν κατὰ τοὺς οἴκους εἰσπορευόμενος, σύρων τε ἄνδρας καὶ γυναῖκας παρεδίδου εἰς φυλακήν. 
+[Pero Saulo hacía estragos en la iglesia entrando de casa en casa, y arrastrando a hombres y mujeres, los echaba en la cárcel.]
+
+### Hechos 8:4 {#hech-8-4}
+Οἱ μὲν οὖν διασπαρέντες διῆλθον εὐαγγελιζόμενοι τὸν λόγον. 
+[Así que los que habían sido esparcidos iban predicando la palabra.]
+
+### Hechos 8:5 {#hech-8-5}
+Φίλιππος δὲ κατελθὼν εἰς ⸀τὴν πόλιν τῆς Σαμαρείας ἐκήρυσσεν αὐτοῖς τὸν χριστόν. 
+[Felipe, descendiendo a la ciudad de Samaria, les predicaba a Cristo.]
+
+### Hechos 8:6 {#hech-8-6}
+προσεῖχον ⸀δὲ οἱ ὄχλοι τοῖς λεγομένοις ὑπὸ τοῦ Φιλίππου ὁμοθυμαδὸν ἐν τῷ ἀκούειν αὐτοὺς καὶ βλέπειν τὰ σημεῖα ἃ ἐποίει· 
+[Y las multitudes unánimes prestaban atención a lo que Felipe decía, al oír y ver las señales que hacía.]
+
+### Hechos 8:7 {#hech-8-7}
+⸀πολλοὶ γὰρ τῶν ἐχόντων πνεύματα ἀκάθαρτα βοῶντα φωνῇ μεγάλῃ ⸀ἐξήρχοντο, πολλοὶ δὲ παραλελυμένοι καὶ χωλοὶ ἐθεραπεύθησαν· 
+[Porque de muchos que tenían espíritus inmundos, estos salían de ellos gritando a gran voz; y muchos que habían sido paralíticos y cojos eran sanados.]
+
+### Hechos 8:8 {#hech-8-8}
+⸂ἐγένετο δὲ⸃ ⸂πολλὴ χαρὰ⸃ ἐν τῇ πόλει ἐκείνῃ. 
+[Y había gran regocijo en aquella ciudad.]
+
+### Hechos 8:9 {#hech-8-9}
+Ἀνὴρ δέ τις ὀνόματι Σίμων προϋπῆρχεν ἐν τῇ πόλει μαγεύων καὶ ⸀ἐξιστάνων τὸ ἔθνος τῆς Σαμαρείας, λέγων εἶναί τινα ἑαυτὸν μέγαν, 
+[Hacía tiempo que cierto hombre llamado Simón, estaba ejerciendo la magia en la ciudad y asombrando a la gente de Samaria, pretendiendo ser un gran personaje;]
+
+### Hechos 8:10 {#hech-8-10}
+ᾧ προσεῖχον ⸀πάντες ἀπὸ μικροῦ ἕως μεγάλου λέγοντες· Οὗτός ἐστιν ἡ Δύναμις τοῦ θεοῦ ἡ ⸀καλουμένη Μεγάλη. 
+[y todos, desde el menor hasta el mayor, le prestaban atención, y decían: «Este es el que se llama el Gran Poder de Dios».]
+
+### Hechos 8:11 {#hech-8-11}
+προσεῖχον δὲ αὐτῷ διὰ τὸ ἱκανῷ χρόνῳ ταῖς μαγείαις ἐξεστακέναι αὐτούς. 
+[Le prestaban atención porque por mucho tiempo los había asombrado con sus artes mágicas.]
+
+### Hechos 8:12 {#hech-8-12}
+ὅτε δὲ ἐπίστευσαν τῷ Φιλίππῳ εὐαγγελιζομένῳ ⸀περὶ τῆς βασιλείας τοῦ θεοῦ καὶ τοῦ ὀνόματος Ἰησοῦ Χριστοῦ, ἐβαπτίζοντο ἄνδρες τε καὶ γυναῖκες. 
+[Pero cuando creyeron a Felipe, que anunciaba las buenas nuevas del reino de Dios y el nombre de Cristo Jesús, se bautizaban, tanto hombres como mujeres.]
+
+### Hechos 8:13 {#hech-8-13}
+ὁ δὲ Σίμων καὶ αὐτὸς ἐπίστευσεν, καὶ βαπτισθεὶς ἦν προσκαρτερῶν τῷ Φιλίππῳ, θεωρῶν τε ⸂σημεῖα καὶ δυνάμεις μεγάλας γινομένας⸃ ἐξίστατο. 
+[Y aun Simón mismo creyó; y después de bautizarse, continuó con Felipe, y estaba atónito al ver las señales y los grandes milagros que se hacían.]
+
+### Hechos 8:14 {#hech-8-14}
+Ἀκούσαντες δὲ οἱ ἐν Ἱεροσολύμοις ἀπόστολοι ὅτι δέδεκται ἡ Σαμάρεια τὸν λόγον τοῦ θεοῦ, ἀπέστειλαν πρὸς ⸀αὐτοὺς Πέτρον καὶ Ἰωάννην, 
+[Cuando los apóstoles que estaban en Jerusalén oyeron que Samaria había recibido la palabra de Dios, les enviaron a Pedro y a Juan,]
+
+### Hechos 8:15 {#hech-8-15}
+οἵτινες καταβάντες προσηύξαντο περὶ αὐτῶν ὅπως λάβωσιν πνεῦμα ἅγιον· 
+[quienes descendieron y oraron por ellos para que recibieran el Espíritu Santo.]
+
+### Hechos 8:16 {#hech-8-16}
+⸀οὐδέπω γὰρ ἦν ἐπʼ οὐδενὶ αὐτῶν ἐπιπεπτωκός, μόνον δὲ βεβαπτισμένοι ὑπῆρχον εἰς τὸ ὄνομα τοῦ ⸀κυρίου Ἰησοῦ. 
+[Porque todavía no había descendido el Espíritu Santo sobre ninguno de ellos; solo habían sido bautizados en el nombre del Señor Jesús.]
+
+### Hechos 8:17 {#hech-8-17}
+τότε ⸀ἐπετίθεσαν τὰς χεῖρας ἐπʼ αὐτούς, καὶ ἐλάμβανον πνεῦμα ἅγιον. 
+[Entonces Pedro y Juan les imponían las manos, y recibían el Espíritu Santo.]
+
+### Hechos 8:18 {#hech-8-18}
+⸀ἰδὼν δὲ ὁ Σίμων ὅτι διὰ τῆς ἐπιθέσεως τῶν χειρῶν τῶν ἀποστόλων δίδοται τὸ ⸀πνεῦμα προσήνεγκεν αὐτοῖς χρήματα 
+[Cuando Simón vio que el Espíritu se daba por la imposición de las manos de los apóstoles, les ofreció dinero,]
+
+### Hechos 8:19 {#hech-8-19}
+λέγων· Δότε κἀμοὶ τὴν ἐξουσίαν ταύτην ἵνα ᾧ ἐὰν ἐπιθῶ τὰς χεῖρας λαμβάνῃ πνεῦμα ἅγιον. 
+[y les dijo: «Denme también a mí esta autoridad, de manera que todo aquel sobre quien ponga mis manos reciba el Espíritu Santo».]
+
+### Hechos 8:20 {#hech-8-20}
+Πέτρος δὲ εἶπεν πρὸς αὐτόν· Τὸ ἀργύριόν σου σὺν σοὶ εἴη εἰς ἀπώλειαν ὅτι τὴν δωρεὰν τοῦ θεοῦ ἐνόμισας διὰ χρημάτων κτᾶσθαι. 
+[Entonces Pedro le contestó: «Que tu plata perezca contigo, porque pensaste que podías obtener el don de Dios con dinero.]
+
+### Hechos 8:21 {#hech-8-21}
+οὐκ ἔστιν σοι μερὶς οὐδὲ κλῆρος ἐν τῷ λόγῳ τούτῳ, ἡ γὰρ καρδία σου οὐκ ἔστιν εὐθεῖα ⸀ἔναντι τοῦ θεοῦ. 
+[No tienes parte ni suerte en este asunto, porque tu corazón no es recto delante de Dios.]
+
+### Hechos 8:22 {#hech-8-22}
+μετανόησον οὖν ἀπὸ τῆς κακίας σου ταύτης, καὶ δεήθητι τοῦ ⸀κυρίου εἰ ἄρα ἀφεθήσεταί σοι ἡ ἐπίνοια τῆς καρδίας σου· 
+[Por tanto, arrepiéntete de esta tu maldad, y ruega al Señor que si es posible se te perdone el intento de tu corazón.]
+
+### Hechos 8:23 {#hech-8-23}
+εἰς γὰρ χολὴν πικρίας καὶ σύνδεσμον ἀδικίας ὁρῶ σε ὄντα. 
+[Porque veo que estás en hiel de amargura y en cadena de iniquidad».]
+
+### Hechos 8:24 {#hech-8-24}
+ἀποκριθεὶς δὲ ὁ Σίμων εἶπεν· Δεήθητε ὑμεῖς ὑπὲρ ἐμοῦ πρὸς τὸν κύριον ὅπως μηδὲν ἐπέλθῃ ἐπʼ ἐμὲ ὧν εἰρήκατε. 
+[Pero Simón respondió: «Rueguen ustedes al Señor por mí, para que no me sobrevenga nada de lo que han dicho».]
+
+### Hechos 8:25 {#hech-8-25}
+Οἱ μὲν οὖν διαμαρτυράμενοι καὶ λαλήσαντες τὸν λόγον τοῦ κυρίου ⸀ὑπέστρεφον εἰς ⸀Ἱεροσόλυμα, πολλάς τε κώμας τῶν Σαμαριτῶν ⸀εὐηγγελίζοντο. 
+[Y ellos, después de haber testificado solemnemente y hablado la palabra del Señor, iniciaron el regreso a Jerusalén anunciando el evangelio en muchas aldeas de los samaritanos.]
+
+### Hechos 8:26 {#hech-8-26}
+Ἄγγελος δὲ κυρίου ἐλάλησεν πρὸς Φίλιππον λέγων· Ἀνάστηθι καὶ πορεύου κατὰ μεσημβρίαν ἐπὶ τὴν ὁδὸν τὴν καταβαίνουσαν ἀπὸ Ἰερουσαλὴμ εἰς Γάζαν· αὕτη ἐστὶν ἔρημος. 
+[Un ángel del Señor le dijo a Felipe: «Levántate y ve hacia el sur, al camino que desciende de Jerusalén a Gaza». Este es un camino desierto.]
+
+### Hechos 8:27 {#hech-8-27}
+καὶ ἀναστὰς ἐπορεύθη, καὶ ἰδοὺ ἀνὴρ Αἰθίοψ εὐνοῦχος δυνάστης ⸀Κανδάκης βασιλίσσης Αἰθιόπων, ὃς ἦν ἐπὶ πάσης τῆς γάζης αὐτῆς, ὃς ἐληλύθει προσκυνήσων εἰς Ἰερουσαλήμ, 
+[Él se levantó y fue. Y había un eunuco etíope, alto oficial de Candace, reina de los etíopes, el cual estaba encargado de todos sus tesoros, que había venido a Jerusalén para adorar.]
+
+### Hechos 8:28 {#hech-8-28}
+ἦν ⸀τε ὑποστρέφων καὶ καθήμενος ἐπὶ τοῦ ἅρματος αὐτοῦ καὶ ἀνεγίνωσκεν τὸν προφήτην Ἠσαΐαν. 
+[Regresaba a su país sentado en su carruaje, y leía al profeta Isaías.]
+
+### Hechos 8:29 {#hech-8-29}
+εἶπεν δὲ τὸ πνεῦμα τῷ Φιλίππῳ· Πρόσελθε καὶ κολλήθητι τῷ ἅρματι τούτῳ. 
+[Y el Espíritu dijo a Felipe: «Ve y júntate a ese carruaje».]
+
+### Hechos 8:30 {#hech-8-30}
+προσδραμὼν δὲ ὁ Φίλιππος ἤκουσεν αὐτοῦ ἀναγινώσκοντος ⸂Ἠσαΐαν τὸν προφήτην⸃ καὶ εἶπεν· Ἆρά γε γινώσκεις ἃ ἀναγινώσκεις; 
+[Cuando Felipe se acercó corriendo, le oyó leer al profeta Isaías, y le preguntó: «¿Entiende usted lo que lee?».]
+
+### Hechos 8:31 {#hech-8-31}
+ὁ δὲ εἶπεν· Πῶς γὰρ ἂν δυναίμην ἐὰν μή τις ⸀ὁδηγήσει με; παρεκάλεσέν τε τὸν Φίλιππον ἀναβάντα καθίσαι σὺν αὐτῷ. 
+[El eunuco le respondió: «¿Cómo podré, a menos que alguien me guíe?». E invitó a Felipe a que subiera y se sentara con él.]
+
+### Hechos 8:32 {#hech-8-32}
+ἡ δὲ περιοχὴ τῆς γραφῆς ἣν ἀνεγίνωσκεν ἦν αὕτη· Ὡς πρόβατον ἐπὶ σφαγὴν ἤχθη, καὶ ὡς ἀμνὸς ἐναντίον τοῦ ⸀κείραντος αὐτὸν ἄφωνος, οὕτως οὐκ ἀνοίγει τὸ στόμα αὐτοῦ. 
+[El pasaje de la Escritura que estaba leyendo era este: «COMO OVEJA FUE LLEVADO AL MATADERO; Y COMO CORDERO, MUDO DELANTE DEL QUE LO TRASQUILA, NO ABRE ÉL SU BOCA.]
+
+### Hechos 8:33 {#hech-8-33}
+ἐν τῇ ⸀ταπεινώσει ἡ κρίσις αὐτοῦ ἤρθη· ⸀τὴν γενεὰν αὐτοῦ τίς διηγήσεται; ὅτι αἴρεται ἀπὸ τῆς γῆς ἡ ζωὴ αὐτοῦ. 
+[EN SU HUMILLACIÓN NO SE LE HIZO JUSTICIA; ¿QUIÉN CONTARÁ SU GENERACIÓN? PORQUE SU VIDA ES QUITADA DE LA TIERRA».]
+
+### Hechos 8:34 {#hech-8-34}
+ἀποκριθεὶς δὲ ὁ εὐνοῦχος τῷ Φιλίππῳ εἶπεν· Δέομαί σου, περὶ τίνος ὁ προφήτης λέγει ⸀τοῦτο; περὶ ἑαυτοῦ ἢ περὶ ἑτέρου τινός; 
+[El eunuco le dijo a Felipe: «Le ruego que me diga, ¿de quién dice esto el profeta? ¿De sí mismo, o de algún otro?».]
+
+### Hechos 8:35 {#hech-8-35}
+ἀνοίξας δὲ ὁ Φίλιππος τὸ στόμα αὐτοῦ καὶ ἀρξάμενος ἀπὸ τῆς γραφῆς ταύτης εὐηγγελίσατο αὐτῷ τὸν Ἰησοῦν. 
+[Entonces Felipe, comenzando con este pasaje de la Escritura, le anunció el evangelio de Jesús.]
+
+### Hechos 8:36 {#hech-8-36}
+ὡς δὲ ἐπορεύοντο κατὰ τὴν ὁδόν, ἦλθον ἐπί τι ὕδωρ, καί φησιν ὁ εὐνοῦχος· Ἰδοὺ ὕδωρ, τί κωλύει με ⸀βαπτισθῆναι; 
+[Yendo por el camino, llegaron a un lugar donde había agua; y el eunuco dijo*: «Ahí hay agua. ¿Qué impide que yo sea bautizado?».]
+
+### Hechos 8:38 {#hech-8-38}
+καὶ ἐκέλευσεν στῆναι τὸ ἅρμα, καὶ κατέβησαν ἀμφότεροι εἰς τὸ ὕδωρ ὅ τε Φίλιππος καὶ ὁ εὐνοῦχος, καὶ ἐβάπτισεν αὐτόν. 
+[Y mandó parar el carruaje; ambos descendieron al agua, y Felipe lo bautizó.]
+
+### Hechos 8:39 {#hech-8-39}
+ὅτε δὲ ἀνέβησαν ἐκ τοῦ ὕδατος, πνεῦμα κυρίου ἥρπασεν τὸν Φίλιππον, καὶ οὐκ εἶδεν αὐτὸν οὐκέτι ὁ εὐνοῦχος, ἐπορεύετο γὰρ τὴν ὁδὸν αὐτοῦ χαίρων. 
+[Al salir ellos del agua, el Espíritu del Señor arrebató a Felipe; y no lo vio más el eunuco, que continuó su camino gozoso.]
+
+### Hechos 8:40 {#hech-8-40}
+Φίλιππος δὲ εὑρέθη εἰς Ἄζωτον, καὶ διερχόμενος εὐηγγελίζετο τὰς πόλεις πάσας ἕως τοῦ ἐλθεῖν αὐτὸν εἰς Καισάρειαν. 
+[Pero Felipe se encontró en Azoto, y por donde pasaba, anunciaba el evangelio en todas las ciudades, hasta que llegó a Cesarea.]
+
+### Hechos 9:1 {#hech-9-1}
+Ὁ δὲ Σαῦλος ἔτι ἐμπνέων ἀπειλῆς καὶ φόνου εἰς τοὺς μαθητὰς τοῦ κυρίου, προσελθὼν τῷ ἀρχιερεῖ 
+[Saulo , respirando todavía amenazas y muerte contra los discípulos del Señor, fue al sumo sacerdote,]
+
+### Hechos 9:2 {#hech-9-2}
+ᾐτήσατο παρʼ αὐτοῦ ἐπιστολὰς εἰς Δαμασκὸν πρὸς τὰς συναγωγάς, ὅπως ἐάν τινας εὕρῃ τῆς ὁδοῦ ὄντας, ἄνδρας τε καὶ γυναῖκας, δεδεμένους ἀγάγῃ εἰς Ἰερουσαλήμ. 
+[y le pidió cartas para las sinagogas de Damasco, para que si encontraba algunos que pertenecieran al Camino, tanto hombres como mujeres, los pudiera llevar atados a Jerusalén.]
+
+### Hechos 9:3 {#hech-9-3}
+ἐν δὲ τῷ πορεύεσθαι ἐγένετο αὐτὸν ἐγγίζειν τῇ Δαμασκῷ, ⸂ἐξαίφνης τε αὐτὸν περιήστραψεν⸃ φῶς ⸀ἐκ τοῦ οὐρανοῦ, 
+[Y mientras viajaba, al acercarse a Damasco, de repente resplandeció a su alrededor una luz del cielo.]
+
+### Hechos 9:4 {#hech-9-4}
+καὶ πεσὼν ἐπὶ τὴν γῆν ἤκουσεν φωνὴν λέγουσαν αὐτῷ Σαοὺλ Σαούλ, τί με διώκεις; 
+[Al caer a tierra, oyó una voz que le decía: «Saulo, Saulo, ¿por qué me persigues?».]
+
+### Hechos 9:5 {#hech-9-5}
+εἶπεν δέ· Τίς εἶ, κύριε; ὁ ⸀δέ· Ἐγώ εἰμι Ἰησοῦς ὃν σὺ διώκεις· 
+[«¿Quién eres, Señor?», preguntó Saulo. El Señor respondió: «Yo soy Jesús a quien tú persigues;]
+
+### Hechos 9:6 {#hech-9-6}
+ἀλλὰ ἀνάστηθι καὶ εἴσελθε εἰς τὴν πόλιν, καὶ λαληθήσεταί σοι ⸂ὅ τί⸃ σε δεῖ ποιεῖν. 
+[levántate, entra en la ciudad, y se te dirá lo que debes hacer».]
+
+### Hechos 9:7 {#hech-9-7}
+οἱ δὲ ἄνδρες οἱ συνοδεύοντες αὐτῷ εἱστήκεισαν ἐνεοί, ἀκούοντες μὲν τῆς φωνῆς μηδένα δὲ θεωροῦντες. 
+[Los hombres que iban con él se detuvieron atónitos, oyendo la voz, pero sin ver a nadie.]
+
+### Hechos 9:8 {#hech-9-8}
+ἠγέρθη δὲ ⸀Σαῦλος ἀπὸ τῆς γῆς, ἀνεῳγμένων ⸀δὲ τῶν ὀφθαλμῶν αὐτοῦ ⸀οὐδὲν ἔβλεπεν· χειραγωγοῦντες δὲ αὐτὸν εἰσήγαγον εἰς Δαμασκόν. 
+[Saulo se levantó del suelo, y aunque sus ojos estaban abiertos, no veía nada; y llevándolo por la mano, lo trajeron a Damasco.]
+
+### Hechos 9:9 {#hech-9-9}
+καὶ ἦν ἡμέρας τρεῖς μὴ βλέπων, καὶ οὐκ ἔφαγεν οὐδὲ ἔπιεν. 
+[Estuvo tres días sin ver, y no comió ni bebió.]
+
+### Hechos 9:10 {#hech-9-10}
+Ἦν δέ τις μαθητὴς ἐν Δαμασκῷ ὀνόματι Ἁνανίας, καὶ εἶπεν πρὸς αὐτὸν ⸂ἐν ὁράματι ὁ κύριος⸃· Ἁνανία. ὁ δὲ εἶπεν· Ἰδοὺ ἐγώ, κύριε. 
+[Había en Damasco cierto discípulo llamado Ananías; y el Señor le dijo en una visión: «Ananías». «Aquí estoy, Señor», contestó él.]
+
+### Hechos 9:11 {#hech-9-11}
+ὁ δὲ κύριος πρὸς αὐτόν· ⸀Ἀναστὰς πορεύθητι ἐπὶ τὴν ῥύμην τὴν καλουμένην Εὐθεῖαν καὶ ζήτησον ἐν οἰκίᾳ Ἰούδα Σαῦλον ὀνόματι Ταρσέα, ἰδοὺ γὰρ προσεύχεται, 
+[El Señor le dijo: «Levántate y ve a la calle que se llama Derecha, y pregunta en la casa de Judas por un hombre de Tarso llamado Saulo, porque él está orando,]
+
+### Hechos 9:12 {#hech-9-12}
+καὶ εἶδεν ⸂ἄνδρα ἐν ὁράματι Ἁνανίαν ὀνόματι⸃ εἰσελθόντα καὶ ἐπιθέντα αὐτῷ ⸀χεῖρας ὅπως ἀναβλέψῃ. 
+[y ha visto en una visión a un hombre llamado Ananías, que entra y pone las manos sobre él para que recobre la vista».]
+
+### Hechos 9:13 {#hech-9-13}
+ἀπεκρίθη δὲ Ἁνανίας· Κύριε, ⸀ἤκουσα ἀπὸ πολλῶν περὶ τοῦ ἀνδρὸς τούτου, ὅσα κακὰ ⸂τοῖς ἁγίοις σου ἐποίησεν⸃ ἐν Ἰερουσαλήμ· 
+[Pero Ananías respondió: «Señor, he oído de muchos acerca de este hombre, cuánto mal ha hecho a Tus santos en Jerusalén,]
+
+### Hechos 9:14 {#hech-9-14}
+καὶ ὧδε ἔχει ἐξουσίαν παρὰ τῶν ἀρχιερέων δῆσαι πάντας τοὺς ἐπικαλουμένους τὸ ὄνομά σου. 
+[y aquí tiene autoridad de los principales sacerdotes para prender a todos los que invocan Tu nombre».]
+
+### Hechos 9:15 {#hech-9-15}
+εἶπεν δὲ πρὸς αὐτὸν ὁ κύριος· Πορεύου, ὅτι σκεῦος ἐκλογῆς ⸂ἐστίν μοι⸃ οὗτος τοῦ βαστάσαι τὸ ὄνομά μου ἐνώπιον ⸀ἐθνῶν ⸀τε καὶ βασιλέων υἱῶν τε Ἰσραήλ, 
+[Pero el Señor le dijo: «Ve, porque él es Mi instrumento escogido, para llevar Mi nombre en presencia de los gentiles, de los reyes y de los israelitas;]
+
+### Hechos 9:16 {#hech-9-16}
+ἐγὼ γὰρ ὑποδείξω αὐτῷ ὅσα δεῖ αὐτὸν ὑπὲρ τοῦ ὀνόματός μου παθεῖν. 
+[porque Yo le mostraré cuánto debe padecer por Mi nombre».]
+
+### Hechos 9:17 {#hech-9-17}
+ἀπῆλθεν δὲ Ἁνανίας καὶ εἰσῆλθεν εἰς τὴν οἰκίαν, καὶ ἐπιθεὶς ἐπʼ αὐτὸν τὰς χεῖρας εἶπεν· Σαοὺλ ἀδελφέ, ὁ κύριος ἀπέσταλκέν με, ⸀Ἰησοῦς ὁ ὀφθείς σοι ἐν τῇ ὁδῷ ᾗ ἤρχου, ὅπως ἀναβλέψῃς καὶ πλησθῇς πνεύματος ἁγίου. 
+[Ananías fue y entró en la casa, y después de poner las manos sobre él, dijo: «Hermano Saulo, el Señor Jesús, que se te apareció en el camino por donde venías, me ha enviado para que recobres la vista y seas lleno del Espíritu Santo».]
+
+### Hechos 9:18 {#hech-9-18}
+καὶ εὐθέως ἀπέπεσαν ⸂αὐτοῦ ἀπὸ τῶν ὀφθαλμῶν⸃ ⸀ὡς λεπίδες, ἀνέβλεψέν τε καὶ ἀναστὰς ἐβαπτίσθη, 
+[Al instante cayeron de sus ojos como unas escamas, y recobró la vista; y se levantó y fue bautizado.]
+
+### Hechos 9:19 {#hech-9-19}
+καὶ λαβὼν τροφὴν ⸀ἐνίσχυσεν. Ἐγένετο ⸀δὲ μετὰ τῶν ἐν Δαμασκῷ μαθητῶν ἡμέρας τινὰς, 
+[Tomó alimentos y cobró fuerzas. Y por varios días estuvo con los discípulos que estaban en Damasco.]
+
+### Hechos 9:20 {#hech-9-20}
+καὶ εὐθέως ἐν ταῖς συναγωγαῖς ἐκήρυσσεν τὸν ⸀Ἰησοῦν ὅτι οὗτός ἐστιν ὁ υἱὸς τοῦ θεοῦ. 
+[Enseguida se puso a predicar de Jesús en las sinagogas, diciendo: «Él es el Hijo de Dios».]
+
+### Hechos 9:21 {#hech-9-21}
+ἐξίσταντο δὲ πάντες οἱ ἀκούοντες καὶ ἔλεγον· Οὐχ οὗτός ἐστιν ὁ πορθήσας ⸀ἐν Ἰερουσαλὴμ τοὺς ἐπικαλουμένους τὸ ὄνομα τοῦτο, καὶ ὧδε εἰς τοῦτο ἐληλύθει ἵνα δεδεμένους αὐτοὺς ἀγάγῃ ἐπὶ τοὺς ἀρχιερεῖς; 
+[Y todos los que lo escuchaban estaban asombrados y decían: «¿No es este el que en Jerusalén destruía a los que invocaban este nombre, y el que había venido aquí con este propósito: para llevarlos atados ante los principales sacerdotes?».]
+
+### Hechos 9:22 {#hech-9-22}
+Σαῦλος δὲ μᾶλλον ἐνεδυναμοῦτο καὶ ⸀συνέχυννεν ⸀τοὺς Ἰουδαίους τοὺς κατοικοῦντας ἐν Δαμασκῷ, συμβιβάζων ὅτι οὗτός ἐστιν ὁ χριστός. 
+[Pero Saulo seguía fortaleciéndose y confundiendo a los judíos que habitaban en Damasco, demostrando que este Jesús es el Cristo.]
+
+### Hechos 9:23 {#hech-9-23}
+Ὡς δὲ ἐπληροῦντο ἡμέραι ἱκαναί, συνεβουλεύσαντο οἱ Ἰουδαῖοι ἀνελεῖν αὐτόν· 
+[Después de muchos días, los judíos tramaron deshacerse de él,]
+
+### Hechos 9:24 {#hech-9-24}
+ἐγνώσθη δὲ τῷ Σαύλῳ ἡ ἐπιβουλὴ αὐτῶν. ⸂παρετηροῦντο δὲ καὶ⸃ τὰς πύλας ἡμέρας τε καὶ νυκτὸς ὅπως αὐτὸν ἀνέλωσιν· 
+[pero su plan llegó al conocimiento de Saulo. Y aun vigilaban las puertas día y noche con el intento de matarlo;]
+
+### Hechos 9:25 {#hech-9-25}
+λαβόντες δὲ ⸂οἱ μαθηταὶ αὐτοῦ⸃ νυκτὸς ⸂διὰ τοῦ τείχους καθῆκαν αὐτὸν⸃ χαλάσαντες ἐν σπυρίδι. 
+[pero sus discípulos lo tomaron de noche y lo sacaron por una abertura en la muralla, bajándolo en una canasta.]
+
+### Hechos 9:26 {#hech-9-26}
+Παραγενόμενος δὲ ⸀εἰς Ἰερουσαλὴμ ⸀ἐπείραζεν κολλᾶσθαι τοῖς μαθηταῖς· καὶ πάντες ἐφοβοῦντο αὐτόν, μὴ πιστεύοντες ὅτι ἐστὶν μαθητής. 
+[Cuando Saulo llegó a Jerusalén, trataba de juntarse con los discípulos; pero todos le temían, no creyendo que era discípulo.]
+
+### Hechos 9:27 {#hech-9-27}
+Βαρναβᾶς δὲ ἐπιλαβόμενος αὐτὸν ἤγαγεν πρὸς τοὺς ἀποστόλους, καὶ διηγήσατο αὐτοῖς πῶς ἐν τῇ ὁδῷ εἶδεν τὸν κύριον καὶ ὅτι ἐλάλησεν αὐτῷ καὶ πῶς ἐν Δαμασκῷ ἐπαρρησιάσατο ἐν τῷ ὀνόματι ⸀τοῦ Ἰησοῦ. 
+[Pero Bernabé lo tomó y lo presentó a los apóstoles, y les contó cómo Saulo había visto al Señor en el camino, y que Él le había hablado, y cómo en Damasco había hablado con valor en el nombre de Jesús.]
+
+### Hechos 9:28 {#hech-9-28}
+καὶ ἦν μετʼ αὐτῶν εἰσπορευόμενος ⸂καὶ ἐκπορευόμενος⸃ εἰς ⸀Ἰερουσαλήμ, παρρησιαζόμενος ἐν τῷ ὀνόματι τοῦ ⸀κυρίου, 
+[Y estaba con ellos moviéndose libremente en Jerusalén, hablando con valor en el nombre del Señor.]
+
+### Hechos 9:29 {#hech-9-29}
+ἐλάλει τε καὶ συνεζήτει πρὸς τοὺς Ἑλληνιστάς· οἱ δὲ ἐπεχείρουν ⸂ἀνελεῖν αὐτόν⸃. 
+[También hablaba y discutía con los judíos helenistas; pero estos intentaban matarlo.]
+
+### Hechos 9:30 {#hech-9-30}
+ἐπιγνόντες δὲ οἱ ἀδελφοὶ κατήγαγον αὐτὸν εἰς Καισάρειαν καὶ ἐξαπέστειλαν αὐτὸν εἰς Ταρσόν. 
+[Pero cuando los hermanos lo supieron, lo llevaron a Cesarea, y de allí lo enviaron a Tarso.]
+
+### Hechos 9:31 {#hech-9-31}
+⸂Ἡ μὲν οὖν ἐκκλησία καθʼ ὅλης τῆς Ἰουδαίας καὶ Γαλιλαίας καὶ Σαμαρείας εἶχεν εἰρήνην οἰκοδομουμένη, καὶ πορευομένη τῷ φόβῳ τοῦ κυρίου καὶ τῇ παρακλήσει τοῦ ἁγίου πνεύματος ἐπληθύνετο⸃. 
+[Entretanto la iglesia gozaba de paz por toda Judea, Galilea y Samaria, y era edificada; y andando en el temor del Señor y en la fortaleza del Espíritu Santo, seguía creciendo.]
+
+### Hechos 9:32 {#hech-9-32}
+Ἐγένετο δὲ Πέτρον διερχόμενον διὰ πάντων κατελθεῖν καὶ πρὸς τοὺς ἁγίους τοὺς κατοικοῦντας Λύδδα. 
+[Mientras Pedro viajaba por todas aquellas regiones, vino también a los santos que vivían en Lida.]
+
+### Hechos 9:33 {#hech-9-33}
+εὗρεν δὲ ἐκεῖ ἄνθρωπόν τινα ⸂ὀνόματι Αἰνέαν⸃ ἐξ ἐτῶν ὀκτὼ κατακείμενον ἐπὶ ⸀κραβάττου, ὃς ἦν παραλελυμένος. 
+[Allí encontró a un hombre llamado Eneas, que había estado postrado en cama por ocho años, porque estaba paralítico.]
+
+### Hechos 9:34 {#hech-9-34}
+καὶ εἶπεν αὐτῷ ὁ Πέτρος· Αἰνέα, ἰᾶταί σε Ἰησοῦς ⸀Χριστός· ἀνάστηθι καὶ στρῶσον σεαυτῷ· καὶ εὐθέως ἀνέστη. 
+[Y Pedro le dijo: «Eneas, Jesucristo te sana; levántate y haz tu cama». Y al instante se levantó.]
+
+### Hechos 9:35 {#hech-9-35}
+καὶ εἶδαν αὐτὸν πάντες οἱ κατοικοῦντες Λύδδα καὶ τὸν ⸀Σαρῶνα, οἵτινες ἐπέστρεψαν ἐπὶ τὸν κύριον. 
+[Todos los que vivían en Lida y en Sarón lo vieron, y se convirtieron al Señor.]
+
+### Hechos 9:36 {#hech-9-36}
+Ἐν Ἰόππῃ δέ τις ἦν μαθήτρια ὀνόματι Ταβιθά, ἣ διερμηνευομένη λέγεται Δορκάς· αὕτη ἦν πλήρης ⸂ἔργων ἀγαθῶν⸃ καὶ ἐλεημοσυνῶν ὧν ἐποίει. 
+[Había entonces en Jope una discípula llamada Tabita, que traducido al griego es Dorcas; esta mujer era rica en obras buenas y de caridad que hacía continuamente.]
+
+### Hechos 9:37 {#hech-9-37}
+ἐγένετο δὲ ἐν ταῖς ἡμέραις ἐκείναις ἀσθενήσασαν αὐτὴν ἀποθανεῖν· λούσαντες δὲ ⸂ἔθηκαν αὐτὴν⸃ ἐν ὑπερῴῳ. 
+[Y sucedió que en aquellos días se enfermó y murió; y lavado su cuerpo, lo pusieron en un aposento alto.]
+
+### Hechos 9:38 {#hech-9-38}
+ἐγγὺς δὲ οὔσης Λύδδας τῇ Ἰόππῃ οἱ μαθηταὶ ἀκούσαντες ὅτι Πέτρος ἐστὶν ἐν αὐτῇ ἀπέστειλαν ⸂δύο ἄνδρας⸃ πρὸς αὐτὸν παρακαλοῦντες· Μὴ ⸀ὀκνήσῃς διελθεῖν ἕως ⸀ἡμῶν· 
+[Como Lida estaba cerca de Jope, los discípulos, al oír que Pedro estaba allí, le enviaron dos hombres, rogándole: «No tarde usted en venir a nosotros».]
+
+### Hechos 9:39 {#hech-9-39}
+ἀναστὰς δὲ Πέτρος συνῆλθεν αὐτοῖς· ὃν παραγενόμενον ἀνήγαγον εἰς τὸ ὑπερῷον, καὶ παρέστησαν αὐτῷ πᾶσαι αἱ χῆραι κλαίουσαι καὶ ἐπιδεικνύμεναι χιτῶνας καὶ ἱμάτια ὅσα ἐποίει μετʼ αὐτῶν οὖσα ἡ Δορκάς. 
+[Entonces Pedro se levantó y fue con ellos. Cuando llegó lo llevaron al aposento alto, y todas las viudas lo rodearon llorando, mostrando todas las túnicas y ropas que Dorcas solía hacer cuando estaba con ellas.]
+
+### Hechos 9:40 {#hech-9-40}
+ἐκβαλὼν δὲ ἔξω πάντας ὁ Πέτρος ⸀καὶ θεὶς τὰ γόνατα προσηύξατο, καὶ ἐπιστρέψας πρὸς τὸ σῶμα εἶπεν· Ταβιθά, ἀνάστηθι. ἡ δὲ ἤνοιξεν τοὺς ὀφθαλμοὺς αὐτῆς, καὶ ἰδοῦσα τὸν Πέτρον ἀνεκάθισεν. 
+[Pero Pedro, haciendo salir a todos, se arrodilló y oró, y volviéndose al cadáver, dijo: «Tabita, levántate». Ella abrió los ojos, y al ver a Pedro, se incorporó.]
+
+### Hechos 9:41 {#hech-9-41}
+δοὺς δὲ αὐτῇ χεῖρα ἀνέστησεν αὐτήν, φωνήσας δὲ τοὺς ἁγίους καὶ τὰς χήρας παρέστησεν αὐτὴν ζῶσαν. 
+[Él le dio la mano y la levantó; y llamando a los santos y a las viudas, la presentó viva.]
+
+### Hechos 9:42 {#hech-9-42}
+γνωστὸν δὲ ἐγένετο καθʼ ὅλης ⸀τῆς Ἰόππης, καὶ ⸂ἐπίστευσαν πολλοὶ⸃ ἐπὶ τὸν κύριον. 
+[Esto se supo en todo Jope, y muchos creyeron en el Señor.]
+
+### Hechos 9:43 {#hech-9-43}
+ἐγένετο ⸀δὲ ἡμέρας ἱκανὰς ⸀μεῖναι ἐν Ἰόππῃ παρά τινι Σίμωνι βυρσεῖ. 
+[Pedro se quedó en Jope muchos días con un tal Simón, que era curtidor.]
+
+### Hechos 10:1 {#hech-10-1}
+Ἀνὴρ δέ ⸀τις ἐν Καισαρείᾳ ὀνόματι Κορνήλιος, ἑκατοντάρχης ἐκ σπείρης τῆς καλουμένης Ἰταλικῆς, 
+[Había en Cesarea un hombre llamado Cornelio, centurión de la cohorte llamada la Italiana,]
+
+### Hechos 10:2 {#hech-10-2}
+εὐσεβὴς καὶ φοβούμενος τὸν θεὸν σὺν παντὶ τῷ οἴκῳ αὐτοῦ, ⸀ποιῶν ἐλεημοσύνας πολλὰς τῷ λαῷ καὶ δεόμενος τοῦ θεοῦ διὰ παντός, 
+[piadoso y temeroso de Dios con toda su casa, que daba muchas limosnas al pueblo judío y oraba a Dios continuamente.]
+
+### Hechos 10:3 {#hech-10-3}
+εἶδεν ἐν ὁράματι φανερῶς ὡσεὶ ⸀περὶ ὥραν ἐνάτην τῆς ἡμέρας ἄγγελον τοῦ θεοῦ εἰσελθόντα πρὸς αὐτὸν καὶ εἰπόντα αὐτῷ· Κορνήλιε. 
+[Como a la hora novena, vio claramente en una visión a un ángel de Dios que entraba a donde él estaba y le decía: «Cornelio».]
+
+### Hechos 10:4 {#hech-10-4}
+ὁ δὲ ἀτενίσας αὐτῷ καὶ ἔμφοβος γενόμενος εἶπεν· Τί ἐστιν, κύριε; εἶπεν δὲ αὐτῷ· Αἱ προσευχαί σου καὶ αἱ ἐλεημοσύναι σου ἀνέβησαν εἰς μνημόσυνον ⸀ἔμπροσθεν τοῦ θεοῦ· 
+[Mirándolo fijamente y atemorizado, Cornelio dijo: «¿Qué quieres, Señor?». Y el ángel le dijo: «Tus oraciones y limosnas han ascendido como memorial delante de Dios.]
+
+### Hechos 10:5 {#hech-10-5}
+καὶ νῦν πέμψον ⸂ἄνδρας εἰς Ἰόππην⸃ καὶ μετάπεμψαι Σίμωνά ⸂τινα ὃς ἐπικαλεῖται Πέτρος⸃· 
+[Envía ahora algunos hombres a Jope, y manda traer a un hombre llamado Simón, que también se llama Pedro.]
+
+### Hechos 10:6 {#hech-10-6}
+οὗτος ξενίζεται παρά τινι Σίμωνι βυρσεῖ, ᾧ ἐστιν οἰκία παρὰ θάλασσαν. 
+[Este se hospeda con un curtidor llamado Simón, cuya casa está junto al mar».]
+
+### Hechos 10:7 {#hech-10-7}
+ὡς δὲ ἀπῆλθεν ὁ ἄγγελος ὁ λαλῶν ⸀αὐτῷ, φωνήσας δύο τῶν ⸀οἰκετῶν καὶ στρατιώτην εὐσεβῆ τῶν προσκαρτερούντων αὐτῷ 
+[Después que se había ido el ángel que le hablaba, Cornelio llamó a dos de los criados y a un soldado piadoso de los que constantemente le servían.]
+
+### Hechos 10:8 {#hech-10-8}
+καὶ ἐξηγησάμενος ⸂ἅπαντα αὐτοῖς⸃ ἀπέστειλεν αὐτοὺς εἰς τὴν Ἰόππην. 
+[Después de explicarles todo, los envió a Jope.]
+
+### Hechos 10:9 {#hech-10-9}
+Τῇ δὲ ἐπαύριον ὁδοιπορούντων ἐκείνων καὶ τῇ πόλει ἐγγιζόντων ἀνέβη Πέτρος ἐπὶ τὸ δῶμα προσεύξασθαι περὶ ὥραν ἕκτην. 
+[Al día siguiente, mientras ellos iban por el camino y se acercaban a la ciudad, Pedro subió a la azotea a orar como al mediodía.]
+
+### Hechos 10:10 {#hech-10-10}
+ἐγένετο δὲ πρόσπεινος καὶ ἤθελεν γεύσασθαι· παρασκευαζόντων δὲ ⸀αὐτῶν ⸀ἐγένετο ἐπʼ αὐτὸν ἔκστασις, 
+[Tuvo hambre y deseaba comer; pero mientras le preparaban algo de comer, le sobrevino un éxtasis.]
+
+### Hechos 10:11 {#hech-10-11}
+καὶ θεωρεῖ τὸν οὐρανὸν ἀνεῳγμένον καὶ ⸀καταβαῖνον σκεῦός τι ὡς ὀθόνην μεγάλην τέσσαρσιν ⸀ἀρχαῖς καθιέμενον ἐπὶ τῆς γῆς, 
+[Vio* el cielo abierto y un objeto semejante a un gran lienzo que descendía, bajado a la tierra por las cuatro puntas.]
+
+### Hechos 10:12 {#hech-10-12}
+ἐν ᾧ ὑπῆρχεν πάντα τὰ τετράποδα ⸂καὶ ἑρπετὰ τῆς γῆς καὶ⸃ πετεινὰ τοῦ οὐρανοῦ. 
+[Había en él toda clase de cuadrúpedos y reptiles de la tierra, y aves del cielo.]
+
+### Hechos 10:13 {#hech-10-13}
+καὶ ἐγένετο φωνὴ πρὸς αὐτόν· Ἀναστάς, Πέτρε, θῦσον καὶ φάγε. 
+[Y oyó una voz: «Levántate, Pedro, mata y come».]
+
+### Hechos 10:14 {#hech-10-14}
+ὁ δὲ Πέτρος εἶπεν· Μηδαμῶς, κύριε, ὅτι οὐδέποτε ἔφαγον πᾶν κοινὸν ⸀καὶ ἀκάθαρτον. 
+[Pero Pedro dijo: «De ninguna manera, Señor, porque yo jamás he comido nada impuro o inmundo».]
+
+### Hechos 10:15 {#hech-10-15}
+καὶ φωνὴ πάλιν ἐκ δευτέρου πρὸς αὐτόν· Ἃ ὁ θεὸς ἐκαθάρισεν σὺ μὴ κοίνου. 
+[De nuevo, por segunda vez, llegó a él una voz: «Lo que Dios ha limpiado, no lo llames tú impuro».]
+
+### Hechos 10:16 {#hech-10-16}
+τοῦτο δὲ ἐγένετο ἐπὶ τρίς, καὶ ⸀εὐθὺς ἀνελήμφθη τὸ σκεῦος εἰς τὸν οὐρανόν. 
+[Esto sucedió tres veces, e inmediatamente el lienzo fue recogido al cielo.]
+
+### Hechos 10:17 {#hech-10-17}
+Ὡς δὲ ἐν ἑαυτῷ διηπόρει ὁ Πέτρος τί ἂν εἴη τὸ ὅραμα ὃ εἶδεν, ⸀ἰδοὺ οἱ ἄνδρες οἱ ἀπεσταλμένοι ⸀ὑπὸ τοῦ Κορνηλίου διερωτήσαντες τὴν οἰκίαν ⸀τοῦ Σίμωνος ἐπέστησαν ἐπὶ τὸν πυλῶνα, 
+[Mientras Pedro estaba perplejo pensando en lo que significaría la visión que había visto, en ese momento los hombres que habían sido enviados por Cornelio, después de haber preguntado por la casa de Simón, se aparecieron a la puerta.]
+
+### Hechos 10:18 {#hech-10-18}
+καὶ φωνήσαντες ⸀ἐπυνθάνοντο εἰ Σίμων ὁ ἐπικαλούμενος Πέτρος ἐνθάδε ξενίζεται. 
+[Y llamando, preguntaron si allí se hospedaba Simón, el que también se llamaba Pedro.]
+
+### Hechos 10:19 {#hech-10-19}
+τοῦ δὲ Πέτρου διενθυμουμένου περὶ τοῦ ὁράματος εἶπεν ⸂αὐτῷ τὸ πνεῦμα⸃· Ἰδοὺ ⸀ἄνδρες ⸀ζητοῦντές σε· 
+[Mientras Pedro meditaba sobre la visión, el Espíritu le dijo: «Mira, tres hombres te buscan.]
+
+### Hechos 10:20 {#hech-10-20}
+ἀλλὰ ἀναστὰς κατάβηθι καὶ πορεύου σὺν αὐτοῖς μηδὲν διακρινόμενος, ⸀ὅτι ἐγὼ ἀπέσταλκα αὐτούς. 
+[Levántate, pues, desciende y no dudes en acompañarlos, porque Yo los he enviado».]
+
+### Hechos 10:21 {#hech-10-21}
+καταβὰς δὲ Πέτρος πρὸς τοὺς ἄνδρας εἶπεν· Ἰδοὺ ἐγώ εἰμι ὃν ζητεῖτε· τίς ἡ αἰτία διʼ ἣν πάρεστε; 
+[Pedro descendió a donde estaban los hombres, y les dijo: «Yo soy el que buscan; ¿cuál es la causa por la que han venido?».]
+
+### Hechos 10:22 {#hech-10-22}
+οἱ δὲ εἶπαν· Κορνήλιος ἑκατοντάρχης, ἀνὴρ δίκαιος καὶ φοβούμενος τὸν θεὸν μαρτυρούμενός τε ὑπὸ ὅλου τοῦ ἔθνους τῶν Ἰουδαίων, ἐχρηματίσθη ὑπὸ ἀγγέλου ἁγίου μεταπέμψασθαί σε εἰς τὸν οἶκον αὐτοῦ καὶ ἀκοῦσαι ῥήματα παρὰ σοῦ. 
+[Y ellos dijeron: «A Cornelio el centurión, un hombre justo y temeroso de Dios, y que es muy estimado por toda la nación de los judíos, le fue ordenado por un santo ángel que hiciera venir a usted a su casa para oír sus palabras».]
+
+### Hechos 10:23 {#hech-10-23}
+εἰσκαλεσάμενος οὖν αὐτοὺς ἐξένισεν. Τῇ δὲ ἐπαύριον ⸀ἀναστὰς ἐξῆλθεν σὺν αὐτοῖς, καί τινες τῶν ἀδελφῶν τῶν ἀπὸ Ἰόππης συνῆλθον αὐτῷ. 
+[Entonces Pedro los invitó a entrar y los hospedó. Al día siguiente se levantó y fue con ellos, y algunos de los hermanos de Jope lo acompañaron.]
+
+### Hechos 10:24 {#hech-10-24}
+⸂τῇ δὲ⸃ ἐπαύριον ⸀εἰσῆλθεν εἰς τὴν Καισάρειαν. ὁ δὲ Κορνήλιος ἦν προσδοκῶν αὐτοὺς συγκαλεσάμενος τοὺς συγγενεῖς αὐτοῦ καὶ τοὺς ἀναγκαίους φίλους. 
+[Al otro día entró en Cesarea. Cornelio los estaba esperando y había reunido a sus parientes y amigos íntimos.]
+
+### Hechos 10:25 {#hech-10-25}
+ὡς δὲ ἐγένετο τοῦ εἰσελθεῖν τὸν Πέτρον, συναντήσας αὐτῷ ὁ Κορνήλιος πεσὼν ἐπὶ τοὺς πόδας προσεκύνησεν. 
+[Cuando Pedro iba a entrar, Cornelio salió a recibirlo, y postrándose a sus pies, lo adoró.]
+
+### Hechos 10:26 {#hech-10-26}
+ὁ δὲ Πέτρος ⸂ἤγειρεν αὐτὸν⸃ λέγων· Ἀνάστηθι· καὶ ἐγὼ αὐτὸς ἄνθρωπός εἰμι. 
+[Pero Pedro lo levantó, diciendo: «Ponte de pie; yo también soy hombre».]
+
+### Hechos 10:27 {#hech-10-27}
+καὶ συνομιλῶν αὐτῷ εἰσῆλθεν, καὶ εὑρίσκει συνεληλυθότας πολλούς, 
+[Conversando con él, entró y halló* mucha gente reunida.]
+
+### Hechos 10:28 {#hech-10-28}
+ἔφη τε πρὸς αὐτούς· Ὑμεῖς ἐπίστασθε ὡς ἀθέμιτόν ἐστιν ἀνδρὶ Ἰουδαίῳ κολλᾶσθαι ἢ προσέρχεσθαι ἀλλοφύλῳ· κἀμοὶ ὁ θεὸς ἔδειξεν μηδένα κοινὸν ἢ ἀκάθαρτον λέγειν ἄνθρωπον· 
+[Entonces Pedro les dijo: «Ustedes saben que no es lícito para un judío asociarse con un extranjero o visitarlo, pero Dios me ha mostrado que a ningún hombre debo llamar impuro o inmundo.]
+
+### Hechos 10:29 {#hech-10-29}
+διὸ καὶ ἀναντιρρήτως ἦλθον μεταπεμφθείς. πυνθάνομαι οὖν τίνι λόγῳ μετεπέμψασθέ με. 
+[Por eso, cuando mandaron a buscarme, vine sin poner ninguna objeción. Pregunto, pues, ¿por qué causa me han llamado?».]
+
+### Hechos 10:30 {#hech-10-30}
+Καὶ ὁ Κορνήλιος ἔφη· Ἀπὸ τετάρτης ἡμέρας μέχρι ταύτης τῆς ὥρας ⸀ἤμην τὴν ⸀ἐνάτην προσευχόμενος ἐν τῷ οἴκῳ μου, καὶ ἰδοὺ ἀνὴρ ἔστη ἐνώπιόν μου ἐν ἐσθῆτι λαμπρᾷ 
+[Y Cornelio respondió: «Hace cuatro días, a esta misma hora, estaba yo orando en mi casa a la hora novena; y un hombre con vestiduras resplandecientes, se puso delante de mí,]
+
+### Hechos 10:31 {#hech-10-31}
+καὶ φησί· Κορνήλιε, εἰσηκούσθη σου ἡ προσευχὴ καὶ αἱ ἐλεημοσύναι σου ἐμνήσθησαν ἐνώπιον τοῦ θεοῦ. 
+[y dijo*: “Cornelio, tu oración ha sido oída, y tus obras de caridad han sido recordadas delante de Dios.]
+
+### Hechos 10:32 {#hech-10-32}
+πέμψον οὖν εἰς Ἰόππην καὶ μετακάλεσαι Σίμωνα ὃς ἐπικαλεῖται Πέτρος· οὗτος ξενίζεται ἐν οἰκίᾳ Σίμωνος βυρσέως παρὰ ⸀θάλασσαν. 
+[Envía unos hombres a Jope, y haz llamar a Simón, que también se llama Pedro; él está hospedado en casa de Simón el curtidor, junto al mar”.]
+
+### Hechos 10:33 {#hech-10-33}
+ἐξαυτῆς οὖν ἔπεμψα πρὸς σέ, σύ τε καλῶς ἐποίησας παραγενόμενος. νῦν οὖν πάντες ἡμεῖς ἐνώπιον τοῦ θεοῦ πάρεσμεν ἀκοῦσαι πάντα τὰ προστεταγμένα σοι ὑπὸ τοῦ ⸀κυρίου. 
+[Por tanto, al instante envié a buscarte, y has hecho bien en venir. Ahora, pues, todos nosotros estamos aquí presentes delante de Dios, para oír todo lo que el Señor te ha mandado».]
+
+### Hechos 10:34 {#hech-10-34}
+Ἀνοίξας δὲ Πέτρος τὸ στόμα εἶπεν· Ἐπʼ ἀληθείας καταλαμβάνομαι ὅτι οὐκ ἔστιν προσωπολήμπτης ὁ θεός, 
+[Entonces Pedro tomó la palabra, y dijo: «Ciertamente ahora entiendo que Dios no hace acepción de personas,]
+
+### Hechos 10:35 {#hech-10-35}
+ἀλλʼ ἐν παντὶ ἔθνει ὁ φοβούμενος αὐτὸν καὶ ἐργαζόμενος δικαιοσύνην δεκτὸς αὐτῷ ἐστιν. 
+[sino que en toda nación el que le teme y hace lo justo, le es acepto.]
+
+### Hechos 10:36 {#hech-10-36}
+τὸν λόγον ⸀ὃν ἀπέστειλεν τοῖς υἱοῖς Ἰσραὴλ εὐαγγελιζόμενος εἰρήνην διὰ Ἰησοῦ Χριστοῦ· οὗτός ἐστιν πάντων κύριος. 
+[El mensaje que Él envió al pueblo de Israel, predicando de paz por medio de Jesucristo, que Él es Señor de todos.]
+
+### Hechos 10:37 {#hech-10-37}
+ὑμεῖς οἴδατε τὸ γενόμενον ῥῆμα καθʼ ὅλης τῆς Ἰουδαίας, ⸀ἀρξάμενος ἀπὸ τῆς Γαλιλαίας μετὰ τὸ βάπτισμα ὃ ἐκήρυξεν Ἰωάννης, 
+[»Ustedes saben lo que ocurrió en toda Judea, comenzando desde Galilea, después del bautismo que Juan predicó,]
+
+### Hechos 10:38 {#hech-10-38}
+Ἰησοῦν τὸν ἀπὸ Ναζαρέθ, ὡς ἔχρισεν αὐτὸν ὁ θεὸς πνεύματι ἁγίῳ καὶ δυνάμει, ὃς διῆλθεν εὐεργετῶν καὶ ἰώμενος πάντας τοὺς καταδυναστευομένους ὑπὸ τοῦ διαβόλου, ὅτι ὁ θεὸς ἦν μετʼ αὐτοῦ· 
+[cómo Dios ungió a Jesús de Nazaret con el Espíritu Santo y con poder, el cual anduvo haciendo bien y sanando a todos los oprimidos por el diablo; porque Dios estaba con Él.]
+
+### Hechos 10:39 {#hech-10-39}
+καὶ ⸀ἡμεῖς μάρτυρες πάντων ὧν ἐποίησεν ἔν τε τῇ χώρᾳ τῶν Ἰουδαίων ⸀καὶ Ἰερουσαλήμ· ὃν καὶ ἀνεῖλαν κρεμάσαντες ἐπὶ ξύλου. 
+[»Nosotros somos testigos de todas las cosas que hizo en la tierra de los judíos y en Jerusalén. Y también le dieron muerte, colgándolo en una cruz.]
+
+### Hechos 10:40 {#hech-10-40}
+τοῦτον ὁ θεὸς ἤγειρεν ⸀τῇ τρίτῃ ἡμέρᾳ καὶ ἔδωκεν αὐτὸν ἐμφανῆ γενέσθαι, 
+[Pero Dios lo resucitó al tercer día e hizo que se manifestara,]
+
+### Hechos 10:41 {#hech-10-41}
+οὐ παντὶ τῷ λαῷ ἀλλὰ μάρτυσι τοῖς προκεχειροτονημένοις ὑπὸ τοῦ θεοῦ, ἡμῖν, οἵτινες συνεφάγομεν καὶ συνεπίομεν αὐτῷ μετὰ τὸ ἀναστῆναι αὐτὸν ἐκ νεκρῶν· 
+[no a todo el pueblo, sino a los testigos que fueron escogidos de antemano por Dios, es decir, a nosotros que comimos y bebimos con Él después que resucitó de los muertos.]
+
+### Hechos 10:42 {#hech-10-42}
+καὶ παρήγγειλεν ἡμῖν κηρύξαι τῷ λαῷ καὶ διαμαρτύρασθαι ὅτι ⸀οὗτός ἐστιν ὁ ὡρισμένος ὑπὸ τοῦ θεοῦ κριτὴς ζώντων καὶ νεκρῶν. 
+[»Y nos mandó predicar al pueblo, y testificar con toda solemnidad que este Jesús es el que Dios ha designado como Juez de los vivos y de los muertos.]
+
+### Hechos 10:43 {#hech-10-43}
+τούτῳ πάντες οἱ προφῆται μαρτυροῦσιν, ἄφεσιν ἁμαρτιῶν λαβεῖν διὰ τοῦ ὀνόματος αὐτοῦ πάντα τὸν πιστεύοντα εἰς αὐτόν. 
+[De Él dan testimonio todos los profetas, de que por Su nombre, todo el que cree en Él recibe el perdón de los pecados».]
+
+### Hechos 10:44 {#hech-10-44}
+Ἔτι λαλοῦντος τοῦ Πέτρου τὰ ῥήματα ταῦτα ἐπέπεσε τὸ πνεῦμα τὸ ἅγιον ἐπὶ πάντας τοὺς ἀκούοντας τὸν λόγον. 
+[Mientras Pedro aún hablaba estas palabras, el Espíritu Santo cayó sobre todos los que escuchaban el mensaje.]
+
+### Hechos 10:45 {#hech-10-45}
+καὶ ἐξέστησαν οἱ ἐκ περιτομῆς πιστοὶ ⸀ὅσοι συνῆλθαν τῷ Πέτρῳ, ὅτι καὶ ἐπὶ τὰ ἔθνη ἡ δωρεὰ τοῦ ⸂ἁγίου πνεύματος⸃ ἐκκέχυται· 
+[Todos los creyentes que eran de la circuncisión, que habían venido con Pedro, se quedaron asombrados, porque el don del Espíritu Santo había sido derramado también sobre los gentiles,]
+
+### Hechos 10:46 {#hech-10-46}
+ἤκουον γὰρ αὐτῶν λαλούντων γλώσσαις καὶ μεγαλυνόντων τὸν θεόν. τότε ⸀ἀπεκρίθη Πέτρος· 
+[pues los oían hablar en lenguas y exaltar a Dios. Entonces Pedro dijo:]
+
+### Hechos 10:47 {#hech-10-47}
+Μήτι τὸ ὕδωρ ⸂δύναται κωλῦσαί⸃ τις τοῦ μὴ βαπτισθῆναι τούτους οἵτινες τὸ πνεῦμα τὸ ἅγιον ἔλαβον ⸀ὡς καὶ ἡμεῖς; 
+[«¿Puede acaso alguien negar el agua para que sean bautizados estos que han recibido el Espíritu Santo lo mismo que nosotros?».]
+
+### Hechos 10:48 {#hech-10-48}
+προσέταξεν ⸀δὲ αὐτοὺς ⸂ἐν τῷ ὀνόματι Ἰησοῦ Χριστοῦ βαπτισθῆναι⸃. τότε ἠρώτησαν αὐτὸν ἐπιμεῖναι ἡμέρας τινάς. 
+[Y mandó que fueran bautizados en el nombre de Jesucristo. Entonces le pidieron que se quedara con ellos unos días.]
+
+### Hechos 11:1 {#hech-11-1}
+Ἤκουσαν δὲ οἱ ἀπόστολοι καὶ οἱ ἀδελφοὶ οἱ ὄντες κατὰ τὴν Ἰουδαίαν ὅτι καὶ τὰ ἔθνη ἐδέξαντο τὸν λόγον τοῦ θεοῦ. 
+[Los apóstoles y los hermanos que estaban por toda Judea oyeron que también los gentiles habían recibido la palabra de Dios.]
+
+### Hechos 11:2 {#hech-11-2}
+⸂ὅτε δὲ⸃ ἀνέβη Πέτρος εἰς ⸀Ἰερουσαλήμ, διεκρίνοντο πρὸς αὐτὸν οἱ ἐκ περιτομῆς 
+[Cuando Pedro subió a Jerusalén, los que eran de la circuncisión le reprocharon:]
+
+### Hechos 11:3 {#hech-11-3}
+λέγοντες ὅτι ⸂Εἰσῆλθες πρὸς ἄνδρας ἀκροβυστίαν ἔχοντας καὶ συνέφαγες⸃ αὐτοῖς. 
+[«Tú entraste en casa de incircuncisos y comiste con ellos».]
+
+### Hechos 11:4 {#hech-11-4}
+ἀρξάμενος ⸀δὲ Πέτρος ἐξετίθετο αὐτοῖς καθεξῆς λέγων· 
+[Entonces Pedro comenzó a explicarles en orden lo sucedido:]
+
+### Hechos 11:5 {#hech-11-5}
+Ἐγὼ ἤμην ἐν πόλει Ἰόππῃ προσευχόμενος καὶ εἶδον ἐν ἐκστάσει ὅραμα, καταβαῖνον σκεῦός τι ὡς ὀθόνην μεγάλην τέσσαρσιν ἀρχαῖς καθιεμένην ἐκ τοῦ οὐρανοῦ, καὶ ἦλθεν ἄχρι ἐμοῦ· 
+[«Estaba yo en la ciudad de Jope orando, y vi en éxtasis una visión: un objeto semejante a un gran lienzo que descendía, bajado del cielo por las cuatro puntas, y vino hasta mí.]
+
+### Hechos 11:6 {#hech-11-6}
+εἰς ἣν ἀτενίσας κατενόουν καὶ εἶδον τὰ τετράποδα τῆς γῆς καὶ τὰ θηρία καὶ τὰ ἑρπετὰ καὶ τὰ πετεινὰ τοῦ οὐρανοῦ· 
+[Cuando fijé mis ojos en él y lo observaba, vi cuadrúpedos terrestres, fieras, reptiles y aves del cielo.]
+
+### Hechos 11:7 {#hech-11-7}
+ἤκουσα δὲ ⸀καὶ φωνῆς λεγούσης μοι· Ἀναστάς, Πέτρε, θῦσον καὶ φάγε. 
+[También oí una voz que me decía: “Levántate Pedro, mata y come”.]
+
+### Hechos 11:8 {#hech-11-8}
+εἶπον δέ· Μηδαμῶς, κύριε, ⸀ὅτι κοινὸν ἢ ἀκάθαρτον οὐδέποτε εἰσῆλθεν εἰς τὸ στόμα μου. 
+[Pero yo dije: “De ninguna manera, Señor, porque nada impuro o inmundo ha entrado jamás en mi boca”.]
+
+### Hechos 11:9 {#hech-11-9}
+ἀπεκρίθη δὲ ⸂φωνὴ ἐκ δευτέρου⸃ ἐκ τοῦ οὐρανοῦ· Ἃ ὁ θεὸς ἐκαθάρισεν σὺ μὴ κοίνου. 
+[Pero una voz del cielo respondió por segunda vez: “Lo que Dios ha limpiado, no lo llames tú impuro”.]
+
+### Hechos 11:10 {#hech-11-10}
+τοῦτο δὲ ἐγένετο ἐπὶ τρίς, καὶ ⸂ἀνεσπάσθη πάλιν⸃ ἅπαντα εἰς τὸν οὐρανόν. 
+[Esto sucedió tres veces, y todo volvió a ser llevado arriba al cielo.]
+
+### Hechos 11:11 {#hech-11-11}
+καὶ ἰδοὺ ἐξαυτῆς τρεῖς ἄνδρες ἐπέστησαν ἐπὶ τὴν οἰκίαν ἐν ᾗ ⸀ἦμεν, ἀπεσταλμένοι ἀπὸ Καισαρείας πρός με. 
+[»En aquel momento se aparecieron tres hombres delante de la casa donde estábamos, los cuales habían sido enviados a mí desde Cesarea.]
+
+### Hechos 11:12 {#hech-11-12}
+εἶπεν δὲ ⸂τὸ πνεῦμά μοι⸃ συνελθεῖν αὐτοῖς μηδὲν ⸀διακρίναντα. ἦλθον δὲ σὺν ἐμοὶ καὶ οἱ ἓξ ἀδελφοὶ οὗτοι, καὶ εἰσήλθομεν εἰς τὸν οἶκον τοῦ ἀνδρός. 
+[Y el Espíritu Santo me dijo que fuera con ellos sin dudar. Estos seis hermanos fueron también conmigo y entramos en la casa de aquel hombre.]
+
+### Hechos 11:13 {#hech-11-13}
+ἀπήγγειλεν ⸀δὲ ἡμῖν πῶς εἶδεν τὸν ἄγγελον ἐν τῷ οἴκῳ αὐτοῦ σταθέντα καὶ ⸀εἰπόντα· Ἀπόστειλον εἰς ⸀Ἰόππην καὶ μετάπεμψαι Σίμωνα τὸν ἐπικαλούμενον Πέτρον, 
+[Y él nos contó cómo había visto al ángel de pie en su casa, el cual le dijo: “Envía unos hombres a Jope y haz traer a Simón, que también se llama Pedro,]
+
+### Hechos 11:14 {#hech-11-14}
+ὃς λαλήσει ῥήματα πρὸς σὲ ἐν οἷς σωθήσῃ σὺ καὶ πᾶς ὁ οἶκός σου. 
+[quien te dirá palabras por las cuales serás salvo, tú y toda tu casa”.]
+
+### Hechos 11:15 {#hech-11-15}
+ἐν δὲ τῷ ἄρξασθαί με λαλεῖν ἐπέπεσεν τὸ πνεῦμα τὸ ἅγιον ἐπʼ αὐτοὺς ὥσπερ καὶ ἐφʼ ἡμᾶς ἐν ἀρχῇ. 
+[»Cuando comencé a hablar, el Espíritu Santo descendió sobre ellos, tal como lo hizo sobre nosotros al principio.]
+
+### Hechos 11:16 {#hech-11-16}
+ἐμνήσθην δὲ τοῦ ῥήματος ⸀τοῦ κυρίου ὡς ἔλεγεν· Ἰωάννης μὲν ἐβάπτισεν ὕδατι, ὑμεῖς δὲ βαπτισθήσεσθε ἐν πνεύματι ἁγίῳ. 
+[Entonces me acordé de las palabras del Señor, cuando dijo: “Juan bautizó con agua, pero ustedes serán bautizados con el Espíritu Santo”.]
+
+### Hechos 11:17 {#hech-11-17}
+εἰ οὖν τὴν ἴσην δωρεὰν ἔδωκεν αὐτοῖς ὁ θεὸς ὡς καὶ ἡμῖν πιστεύσασιν ἐπὶ τὸν κύριον Ἰησοῦν Χριστόν, ⸀ἐγὼ τίς ἤμην δυνατὸς κωλῦσαι τὸν θεόν; 
+[Por tanto, si Dios les dio a ellos el mismo don que también nos dio a nosotros después de creer en el Señor Jesucristo, ¿quién era yo para poder impedírselo a Dios?».]
+
+### Hechos 11:18 {#hech-11-18}
+ἀκούσαντες δὲ ταῦτα ἡσύχασαν καὶ ⸀ἐδόξασαν τὸν θεὸν λέγοντες· ⸀Ἄρα καὶ τοῖς ἔθνεσιν ὁ θεὸς τὴν μετάνοιαν ⸂εἰς ζωὴν ἔδωκεν⸃. 
+[Al oír esto se calmaron, y glorificaron a Dios, diciendo: «Así que también a los gentiles ha concedido Dios el arrepentimiento que conduce a la vida».]
+
+### Hechos 11:19 {#hech-11-19}
+Οἱ μὲν οὖν διασπαρέντες ἀπὸ τῆς θλίψεως τῆς γενομένης ἐπὶ Στεφάνῳ διῆλθον ἕως Φοινίκης καὶ Κύπρου καὶ Ἀντιοχείας μηδενὶ λαλοῦντες τὸν λόγον εἰ μὴ μόνον Ἰουδαίοις. 
+[Ahora bien, los que habían sido esparcidos a causa de la persecución que sobrevino después de la muerte de Esteban, llegaron hasta Fenicia, Chipre y Antioquía, no hablando la palabra a nadie, sino solo a los judíos.]
+
+### Hechos 11:20 {#hech-11-20}
+ἦσαν δέ τινες ἐξ αὐτῶν ἄνδρες Κύπριοι καὶ Κυρηναῖοι, οἵτινες ⸀ἐλθόντες εἰς Ἀντιόχειαν ἐλάλουν ⸀καὶ πρὸς τοὺς ⸀Ἑλληνιστάς, εὐαγγελιζόμενοι τὸν κύριον Ἰησοῦν. 
+[Pero había algunos de ellos, hombres de Chipre y de Cirene, los cuales al llegar a Antioquía, hablaban también a los griegos, predicando el evangelio del Señor Jesús.]
+
+### Hechos 11:21 {#hech-11-21}
+καὶ ἦν χεὶρ κυρίου μετʼ αὐτῶν, πολύς τε ἀριθμὸς ⸀ὁ πιστεύσας ἐπέστρεψεν ἐπὶ τὸν κύριον. 
+[La mano del Señor estaba con ellos, y gran número que creyó se convirtió al Señor.]
+
+### Hechos 11:22 {#hech-11-22}
+ἠκούσθη δὲ ὁ λόγος εἰς τὰ ὦτα τῆς ἐκκλησίας τῆς ⸀οὔσης ἐν ⸀Ἰερουσαλὴμ περὶ αὐτῶν, καὶ ἐξαπέστειλαν ⸀Βαρναβᾶν ἕως Ἀντιοχείας· 
+[La noticia de esto llegó a oídos de la iglesia de Jerusalén y enviaron a Bernabé a Antioquía,]
+
+### Hechos 11:23 {#hech-11-23}
+ὃς παραγενόμενος καὶ ἰδὼν τὴν χάριν ⸀τὴν τοῦ θεοῦ, ἐχάρη καὶ παρεκάλει πάντας τῇ προθέσει τῆς καρδίας ⸀προσμένειν τῷ κυρίῳ, 
+[el cual, cuando vino y vio la gracia de Dios, se regocijó y animaba a todos para que con corazón firme permanecieran fieles al Señor;]
+
+### Hechos 11:24 {#hech-11-24}
+ὅτι ἦν ἀνὴρ ἀγαθὸς καὶ πλήρης πνεύματος ἁγίου καὶ πίστεως. καὶ προσετέθη ὄχλος ἱκανὸς τῷ κυρίῳ. 
+[porque era un hombre bueno, y lleno del Espíritu Santo y de fe. Y una gran multitud fue agregada al Señor.]
+
+### Hechos 11:25 {#hech-11-25}
+ἐξῆλθεν δὲ εἰς ⸀Ταρσὸν ἀναζητῆσαι Σαῦλον, 
+[Bernabé salió rumbo a Tarso para buscar a Saulo;]
+
+### Hechos 11:26 {#hech-11-26}
+καὶ εὑρὼν ⸀ἤγαγεν εἰς Ἀντιόχειαν. ἐγένετο δὲ ⸂αὐτοῖς καὶ⸃ ἐνιαυτὸν ὅλον συναχθῆναι ⸀ἐν τῇ ἐκκλησίᾳ καὶ διδάξαι ὄχλον ἱκανόν, χρηματίσαι τε ⸀πρώτως ἐν Ἀντιοχείᾳ τοὺς μαθητὰς Χριστιανούς. 
+[y cuando lo encontró, lo trajo a Antioquía. Y se reunieron con la iglesia por todo un año, y enseñaban a las multitudes; y a los discípulos se les llamó cristianos por primera vez en Antioquía.]
+
+### Hechos 11:27 {#hech-11-27}
+Ἐν ταύταις δὲ ταῖς ἡμέραις κατῆλθον ἀπὸ Ἱεροσολύμων προφῆται εἰς Ἀντιόχειαν· 
+[Por aquellos días unos profetas descendieron de Jerusalén a Antioquía.]
+
+### Hechos 11:28 {#hech-11-28}
+ἀναστὰς δὲ εἷς ἐξ αὐτῶν ὀνόματι Ἅγαβος ἐσήμανεν διὰ τοῦ πνεύματος λιμὸν ⸀μεγάλην μέλλειν ἔσεσθαι ἐφʼ ὅλην τὴν οἰκουμένην· ⸀ἥτις ἐγένετο ἐπὶ ⸀Κλαυδίου. 
+[Y levantándose uno de ellos, llamado Agabo, daba a entender por el Espíritu Santo, que ciertamente habría una gran hambre en toda la tierra. Y esto ocurrió durante el reinado del emperador Claudio.]
+
+### Hechos 11:29 {#hech-11-29}
+τῶν δὲ μαθητῶν καθὼς εὐπορεῖτό τις ὥρισαν ἕκαστος αὐτῶν εἰς διακονίαν πέμψαι τοῖς κατοικοῦσιν ἐν τῇ Ἰουδαίᾳ ἀδελφοῖς· 
+[Los discípulos, conforme a lo que cada uno tenía, determinaron enviar una ayuda a los hermanos que habitaban en Judea.]
+
+### Hechos 11:30 {#hech-11-30}
+ὃ καὶ ἐποίησαν ἀποστείλαντες πρὸς τοὺς πρεσβυτέρους διὰ χειρὸς Βαρναβᾶ καὶ Σαύλου. 
+[Y así lo hicieron, mandándola a los ancianos por mano de Bernabé y de Saulo.]
+
+### Hechos 12:1 {#hech-12-1}
+Κατʼ ἐκεῖνον δὲ τὸν καιρὸν ἐπέβαλεν Ἡρῴδης ὁ βασιλεὺς τὰς χεῖρας κακῶσαί τινας τῶν ἀπὸ τῆς ἐκκλησίας. 
+[Por aquel tiempo el rey Herodes echó mano a algunos que pertenecían a la iglesia para maltratarlos.]
+
+### Hechos 12:2 {#hech-12-2}
+ἀνεῖλεν δὲ Ἰάκωβον τὸν ἀδελφὸν Ἰωάννου μαχαίρῃ. 
+[Hizo matar a espada a Jacobo, el hermano de Juan.]
+
+### Hechos 12:3 {#hech-12-3}
+⸂ἰδὼν δὲ⸃ ὅτι ἀρεστόν ἐστιν τοῖς Ἰουδαίοις προσέθετο συλλαβεῖν καὶ Πέτρον (ἦσαν ⸀δὲ ἡμέραι τῶν ἀζύμων), 
+[Y viendo que esto agradaba a los judíos, hizo arrestar también a Pedro. Esto sucedió durante los días de los Panes sin Levadura.]
+
+### Hechos 12:4 {#hech-12-4}
+ὃν καὶ πιάσας ἔθετο εἰς φυλακήν, παραδοὺς τέσσαρσιν τετραδίοις στρατιωτῶν φυλάσσειν αὐτόν, βουλόμενος μετὰ τὸ πάσχα ἀναγαγεῖν αὐτὸν τῷ λαῷ. 
+[Habiéndolo arrestado, lo puso en la cárcel, entregándolo a cuatro grupos de soldados para que lo custodiaran, con la intención de llevarlo ante el pueblo después de la Pascua.]
+
+### Hechos 12:5 {#hech-12-5}
+ὁ μὲν οὖν Πέτρος ἐτηρεῖτο ἐν τῇ φυλακῇ· προσευχὴ δὲ ἦν ⸀ἐκτενῶς γινομένη ὑπὸ τῆς ἐκκλησίας πρὸς τὸν θεὸν ⸀περὶ αὐτοῦ. 
+[Así pues, Pedro era custodiado en la cárcel, pero la iglesia hacía oración ferviente a Dios por él.]
+
+### Hechos 12:6 {#hech-12-6}
+Ὅτε δὲ ἤμελλεν ⸂προαγαγεῖν αὐτὸν⸃ ὁ Ἡρῴδης, τῇ νυκτὶ ἐκείνῃ ἦν ὁ Πέτρος κοιμώμενος μεταξὺ δύο στρατιωτῶν δεδεμένος ἁλύσεσιν δυσίν, φύλακές τε πρὸ τῆς θύρας ἐτήρουν τὴν φυλακήν. 
+[Esa misma noche, cuando Herodes estaba a punto de venir a buscarlo, Pedro estaba durmiendo entre dos soldados, sujeto con dos cadenas; y unos guardias delante de la puerta custodiaban la cárcel.]
+
+### Hechos 12:7 {#hech-12-7}
+καὶ ἰδοὺ ἄγγελος κυρίου ἐπέστη, καὶ φῶς ἔλαμψεν ἐν τῷ οἰκήματι· πατάξας δὲ τὴν πλευρὰν τοῦ Πέτρου ἤγειρεν αὐτὸν λέγων· Ἀνάστα ἐν τάχει· καὶ ἐξέπεσαν αὐτοῦ αἱ ἁλύσεις ἐκ τῶν χειρῶν. 
+[De repente se le apareció un ángel del Señor, y una luz brilló en la celda; y el ángel tocó a Pedro en el costado, y lo despertó diciéndole: «Levántate pronto». Y las cadenas se cayeron de las manos de Pedro.]
+
+### Hechos 12:8 {#hech-12-8}
+εἶπεν ⸀δὲ ὁ ἄγγελος πρὸς αὐτόν· ⸀Ζῶσαι καὶ ὑπόδησαι τὰ σανδάλιά σου· ἐποίησεν δὲ οὕτως. καὶ λέγει αὐτῷ· Περιβαλοῦ τὸ ἱμάτιόν σου καὶ ἀκολούθει μοι. 
+[«Vístete y ponte las sandalias», le dijo* el ángel. Así lo hizo, y el ángel añadió: «Envuélvete en tu manto y sígueme».]
+
+### Hechos 12:9 {#hech-12-9}
+καὶ ἐξελθὼν ⸀ἠκολούθει, καὶ οὐκ ᾔδει ὅτι ἀληθές ἐστιν τὸ γινόμενον διὰ τοῦ ἀγγέλου, ἐδόκει δὲ ὅραμα βλέπειν. 
+[Y saliendo, Pedro lo seguía, y no sabía que lo que hacía el ángel era de verdad, sino que creía ver una visión.]
+
+### Hechos 12:10 {#hech-12-10}
+διελθόντες δὲ πρώτην φυλακὴν καὶ δευτέραν ἦλθαν ἐπὶ τὴν πύλην τὴν σιδηρᾶν τὴν φέρουσαν εἰς τὴν πόλιν, ἥτις αὐτομάτη ἠνοίγη αὐτοῖς, καὶ ἐξελθόντες προῆλθον ῥύμην μίαν, καὶ εὐθέως ἀπέστη ὁ ἄγγελος ἀπʼ αὐτοῦ. 
+[Cuando habían pasado la primera y la segunda guardia, llegaron a la puerta de hierro que conduce a la ciudad, la cual se les abrió por sí misma. Entonces salieron y siguieron por una calle, y de repente el ángel se apartó de él.]
+
+### Hechos 12:11 {#hech-12-11}
+καὶ ὁ Πέτρος ⸂ἐν ἑαυτῷ γενόμενος⸃ εἶπεν· Νῦν οἶδα ἀληθῶς ὅτι ἐξαπέστειλεν ⸀ὁ κύριος τὸν ἄγγελον αὐτοῦ καὶ ἐξείλατό με ἐκ χειρὸς Ἡρῴδου καὶ πάσης τῆς προσδοκίας τοῦ λαοῦ τῶν Ἰουδαίων. 
+[Cuando Pedro volvió en sí, dijo: «Ahora sé en verdad que el Señor ha enviado a Su ángel, y me ha rescatado de la mano de Herodes y de todo lo que esperaba el pueblo de los judíos».]
+
+### Hechos 12:12 {#hech-12-12}
+Συνιδών τε ἦλθεν ἐπὶ τὴν οἰκίαν ⸀τῆς Μαρίας τῆς μητρὸς Ἰωάννου τοῦ ἐπικαλουμένου Μάρκου, οὗ ἦσαν ἱκανοὶ συνηθροισμένοι καὶ προσευχόμενοι. 
+[Al darse cuenta de esto, fue a la casa de María, la madre de Juan, llamado también Marcos, donde muchos estaban reunidos y oraban.]
+
+### Hechos 12:13 {#hech-12-13}
+κρούσαντος δὲ ⸀αὐτοῦ τὴν θύραν τοῦ πυλῶνος προσῆλθε παιδίσκη ὑπακοῦσαι ὀνόματι Ῥόδη, 
+[Cuando llamó a la puerta de la entrada, una sirvienta llamada Rode salió a ver quién era.]
+
+### Hechos 12:14 {#hech-12-14}
+καὶ ἐπιγνοῦσα τὴν φωνὴν τοῦ Πέτρου ἀπὸ τῆς χαρᾶς οὐκ ἤνοιξεν τὸν πυλῶνα, εἰσδραμοῦσα δὲ ἀπήγγειλεν ἑστάναι τὸν Πέτρον πρὸ τοῦ πυλῶνος. 
+[Al reconocer la voz de Pedro, de alegría no abrió la puerta, sino que corrió adentro y anunció que Pedro estaba a la puerta.]
+
+### Hechos 12:15 {#hech-12-15}
+οἱ δὲ πρὸς αὐτὴν εἶπαν· Μαίνῃ. ἡ δὲ διϊσχυρίζετο οὕτως ἔχειν. οἱ δὲ ἔλεγον· Ὁ ἄγγελός ⸂ἐστιν αὐτοῦ⸃. 
+[«¡Estás loca!», le dijeron ellos. Pero ella insistía en que así era. Y ellos decían: «Es su ángel».]
+
+### Hechos 12:16 {#hech-12-16}
+ὁ δὲ Πέτρος ἐπέμενεν κρούων· ἀνοίξαντες δὲ εἶδαν αὐτὸν καὶ ἐξέστησαν. 
+[Pero Pedro continuaba llamando; y cuando ellos abrieron, lo vieron y se asombraron.]
+
+### Hechos 12:17 {#hech-12-17}
+κατασείσας δὲ αὐτοῖς τῇ χειρὶ σιγᾶν διηγήσατο αὐτοῖς πῶς ὁ κύριος αὐτὸν ἐξήγαγεν ἐκ τῆς φυλακῆς, εἶπέν ⸀τε· Ἀπαγγείλατε Ἰακώβῳ καὶ τοῖς ἀδελφοῖς ταῦτα. καὶ ἐξελθὼν ἐπορεύθη εἰς ἕτερον τόπον. 
+[Y haciéndoles señal con la mano para que guardaran silencio, les contó cómo el Señor lo había sacado de la cárcel. Y les dijo: «Informen de estas cosas a Jacobo y a los hermanos». Entonces salió, y se fue a otro lugar.]
+
+### Hechos 12:18 {#hech-12-18}
+Γενομένης δὲ ἡμέρας ἦν τάραχος οὐκ ὀλίγος ἐν τοῖς στρατιώταις, τί ἄρα ὁ Πέτρος ἐγένετο. 
+[Cuando se hizo de día, hubo un alboroto no pequeño entre los soldados sobre qué habría sido de Pedro.]
+
+### Hechos 12:19 {#hech-12-19}
+Ἡρῴδης δὲ ἐπιζητήσας αὐτὸν καὶ μὴ εὑρὼν ἀνακρίνας τοὺς φύλακας ἐκέλευσεν ἀπαχθῆναι, καὶ κατελθὼν ἀπὸ τῆς Ἰουδαίας ⸀εἰς Καισάρειαν διέτριβεν. 
+[Herodes, después de buscarlo y no encontrarlo, interrogó a los guardias y ordenó que los llevaran para matarlos. Después de esto Herodes descendió de Judea a Cesarea, y se quedó allí por un tiempo.]
+
+### Hechos 12:20 {#hech-12-20}
+Ἦν ⸀δὲ θυμομαχῶν Τυρίοις καὶ Σιδωνίοις· ὁμοθυμαδὸν δὲ παρῆσαν πρὸς αὐτόν, καὶ πείσαντες Βλάστον τὸν ἐπὶ τοῦ κοιτῶνος τοῦ βασιλέως ᾐτοῦντο εἰρήνην διὰ τὸ τρέφεσθαι αὐτῶν τὴν χώραν ἀπὸ τῆς βασιλικῆς. 
+[Herodes estaba muy enojado con los de Tiro y de Sidón. Pero ellos, de común acuerdo se presentaron ante él, y habiéndose ganado a Blasto, camarero del rey, pedían paz, pues su región era abastecida por el territorio del rey.]
+
+### Hechos 12:21 {#hech-12-21}
+τακτῇ δὲ ἡμέρᾳ ὁ Ἡρῴδης ἐνδυσάμενος ἐσθῆτα βασιλικὴν ⸀καὶ καθίσας ἐπὶ τοῦ βήματος ἐδημηγόρει πρὸς αὐτούς· 
+[El día señalado, Herodes, vestido con ropa real, se sentó en la tribuna y comenzó a hablarles.]
+
+### Hechos 12:22 {#hech-12-22}
+ὁ δὲ δῆμος ἐπεφώνει· ⸂Θεοῦ φωνὴ⸃ καὶ οὐκ ἀνθρώπου. 
+[Y la gente gritaba: «¡Voz de un dios y no de un hombre es esta!».]
+
+### Hechos 12:23 {#hech-12-23}
+παραχρῆμα δὲ ἐπάταξεν αὐτὸν ἄγγελος κυρίου ἀνθʼ ὧν οὐκ ἔδωκεν ⸀τὴν δόξαν τῷ θεῷ, καὶ γενόμενος σκωληκόβρωτος ἐξέψυξεν. 
+[Al instante un ángel del Señor lo hirió, por no haber dado la gloria a Dios; y Herodes murió comido de gusanos.]
+
+### Hechos 12:24 {#hech-12-24}
+Ὁ δὲ λόγος τοῦ ⸀θεοῦ ηὔξανεν καὶ ἐπληθύνετο. 
+[Pero la palabra del Señor crecía y se multiplicaba.]
+
+### Hechos 12:25 {#hech-12-25}
+Βαρναβᾶς δὲ καὶ Σαῦλος ὑπέστρεψαν, ⸀εἰς Ἰερουσαλὴμ πληρώσαντες τὴν διακονίαν, ⸀συμπαραλαβόντες Ἰωάννην τὸν ἐπικληθέντα Μᾶρκον. 
+[Bernabé y Saulo regresaron de Jerusalén después de haber cumplido su misión, llevando consigo a Juan, llamado también Marcos.]
+
+### Hechos 13:1 {#hech-13-1}
+Ἦσαν ⸀δὲ ἐν Ἀντιοχείᾳ κατὰ τὴν οὖσαν ἐκκλησίαν προφῆται καὶ διδάσκαλοι ὅ τε Βαρναβᾶς καὶ Συμεὼν ὁ καλούμενος Νίγερ, καὶ Λούκιος ὁ Κυρηναῖος, Μαναήν τε Ἡρῴδου τοῦ τετραάρχου σύντροφος καὶ Σαῦλος. 
+[En la iglesia que estaba en Antioquía había profetas y maestros: Bernabé, Simón llamado Niger, Lucio de Cirene, Manaén, que se había criado con Herodes el tetrarca, y Saulo.]
+
+### Hechos 13:2 {#hech-13-2}
+λειτουργούντων δὲ αὐτῶν τῷ κυρίῳ καὶ νηστευόντων εἶπεν τὸ πνεῦμα τὸ ἅγιον· Ἀφορίσατε δή μοι τὸν Βαρναβᾶν ⸀καὶ Σαῦλον εἰς τὸ ἔργον ὃ προσκέκλημαι αὐτούς. 
+[Mientras ministraban al Señor y ayunaban, el Espíritu Santo dijo: «Aparten a Bernabé y a Saulo para la obra a la que los he llamado».]
+
+### Hechos 13:3 {#hech-13-3}
+τότε νηστεύσαντες καὶ προσευξάμενοι καὶ ἐπιθέντες τὰς χεῖρας αὐτοῖς ἀπέλυσαν. 
+[Entonces, después de ayunar, orar y haber impuesto las manos sobre ellos, los enviaron.]
+
+### Hechos 13:4 {#hech-13-4}
+⸀Αὐτοὶ μὲν οὖν ἐκπεμφθέντες ὑπὸ τοῦ ⸂ἁγίου πνεύματος⸃ κατῆλθον ⸀εἰς Σελεύκειαν, ἐκεῖθέν ⸀τε ἀπέπλευσαν ⸁εἰς Κύπρον, 
+[Ellos, pues, enviados por el Espíritu Santo, descendieron a Seleucia y de allí se embarcaron para Chipre.]
+
+### Hechos 13:5 {#hech-13-5}
+καὶ γενόμενοι ἐν Σαλαμῖνι κατήγγελλον τὸν λόγον τοῦ θεοῦ ἐν ταῖς συναγωγαῖς τῶν Ἰουδαίων· εἶχον δὲ καὶ Ἰωάννην ὑπηρέτην. 
+[Al llegar a Salamina, proclamaban la palabra de Dios en las sinagogas de los judíos; y tenían también a Juan de ayudante.]
+
+### Hechos 13:6 {#hech-13-6}
+διελθόντες δὲ ⸀ὅλην τὴν νῆσον ἄχρι Πάφου εὗρον ⸀ἄνδρα τινὰ μάγον ψευδοπροφήτην Ἰουδαῖον ᾧ ὄνομα ⸀Βαριησοῦ, 
+[Después de haber recorrido toda la isla hasta Pafos, encontraron a cierto mago, un falso profeta judío llamado Barjesús,]
+
+### Hechos 13:7 {#hech-13-7}
+ὃς ἦν σὺν τῷ ἀνθυπάτῳ Σεργίῳ Παύλῳ, ἀνδρὶ συνετῷ. οὗτος προσκαλεσάμενος Βαρναβᾶν καὶ Σαῦλον ἐπεζήτησεν ἀκοῦσαι τὸν λόγον τοῦ θεοῦ· 
+[que estaba con el procónsul Sergio Paulo, hombre inteligente. Este hizo venir a Bernabé y a Saulo, y deseaba oír la palabra de Dios.]
+
+### Hechos 13:8 {#hech-13-8}
+ἀνθίστατο δὲ αὐτοῖς Ἐλύμας ὁ μάγος, οὕτως γὰρ μεθερμηνεύεται τὸ ὄνομα αὐτοῦ, ζητῶν διαστρέψαι τὸν ἀνθύπατον ἀπὸ τῆς πίστεως. 
+[Pero Elimas, el mago, pues así se traduce su nombre, se les oponía, tratando de desviar de la fe al procónsul.]
+
+### Hechos 13:9 {#hech-13-9}
+Σαῦλος δέ, ὁ καὶ Παῦλος, πλησθεὶς πνεύματος ⸀ἁγίου ἀτενίσας εἰς αὐτὸν 
+[Entonces Saulo, llamado también Pablo, lleno del Espíritu Santo, fijando la mirada en él, dijo:]
+
+### Hechos 13:10 {#hech-13-10}
+εἶπεν· Ὦ πλήρης παντὸς δόλου καὶ πάσης ῥᾳδιουργίας, υἱὲ διαβόλου, ἐχθρὲ πάσης δικαιοσύνης, οὐ παύσῃ διαστρέφων τὰς ⸀ὁδοὺς κυρίου τὰς εὐθείας; 
+[«Tú, hijo del diablo, que estás lleno de todo engaño y fraude, enemigo de toda justicia, ¿no cesarás de torcer los caminos rectos del Señor?]
+
+### Hechos 13:11 {#hech-13-11}
+καὶ νῦν ἰδοὺ χεὶρ κυρίου ἐπὶ σέ, καὶ ἔσῃ τυφλὸς μὴ βλέπων τὸν ἥλιον ἄχρι καιροῦ. παραχρῆμα ⸀δὲ ⸀ἔπεσεν ἐπʼ αὐτὸν ἀχλὺς καὶ σκότος, καὶ περιάγων ἐζήτει χειραγωγούς. 
+[Ahora, la mano del Señor está sobre ti; te quedarás ciego y no verás el sol por algún tiempo». Al instante niebla y oscuridad cayeron sobre él, e iba buscando quien lo guiara de la mano.]
+
+### Hechos 13:12 {#hech-13-12}
+τότε ἰδὼν ὁ ἀνθύπατος τὸ γεγονὸς ἐπίστευσεν ἐκπλησσόμενος ἐπὶ τῇ διδαχῇ τοῦ κυρίου. 
+[Entonces el procónsul, cuando vio lo que había sucedido, creyó, maravillado de la doctrina del Señor.]
+
+### Hechos 13:13 {#hech-13-13}
+Ἀναχθέντες δὲ ἀπὸ τῆς Πάφου οἱ ⸀περὶ Παῦλον ἦλθον εἰς Πέργην τῆς Παμφυλίας· Ἰωάννης δὲ ἀποχωρήσας ἀπʼ αὐτῶν ὑπέστρεψεν εἰς Ἱεροσόλυμα. 
+[Pablo y sus compañeros navegaron desde Pafos y llegaron a Perge de Panfilia; pero Juan se apartó de ellos y regresó a Jerusalén;]
+
+### Hechos 13:14 {#hech-13-14}
+αὐτοὶ δὲ διελθόντες ἀπὸ τῆς Πέργης παρεγένοντο εἰς Ἀντιόχειαν ⸂τὴν Πισιδίαν⸃, καὶ ⸀εἰσελθόντες εἰς τὴν συναγωγὴν τῇ ἡμέρᾳ τῶν σαββάτων ἐκάθισαν. 
+[ellos, saliendo de Perge, llegaron a Antioquía de Pisidia; y en el día de reposo entraron a la sinagoga y se sentaron.]
+
+### Hechos 13:15 {#hech-13-15}
+μετὰ δὲ τὴν ἀνάγνωσιν τοῦ νόμου καὶ τῶν προφητῶν ἀπέστειλαν οἱ ἀρχισυνάγωγοι πρὸς αὐτοὺς λέγοντες· Ἄνδρες ἀδελφοί, εἴ ⸀τίς ἐστιν ⸂ἐν ὑμῖν λόγος⸃ παρακλήσεως πρὸς τὸν λαόν, λέγετε. 
+[Después de la lectura de la ley y los profetas, los oficiales de la sinagoga les mandaron a decir: «Hermanos, si tienen alguna palabra de exhortación para el pueblo, hablen».]
+
+### Hechos 13:16 {#hech-13-16}
+ἀναστὰς δὲ Παῦλος καὶ κατασείσας τῇ χειρὶ εἶπεν· Ἄνδρες Ἰσραηλῖται καὶ οἱ φοβούμενοι τὸν θεόν, ἀκούσατε. 
+[Pablo se levantó, y haciendo señal con la mano, dijo: «Hombres de Israel, y los que temen a Dios, escuchen:]
+
+### Hechos 13:17 {#hech-13-17}
+ὁ θεὸς τοῦ λαοῦ τούτου ⸀Ἰσραὴλ ἐξελέξατο τοὺς πατέρας ἡμῶν, καὶ τὸν λαὸν ὕψωσεν ἐν τῇ παροικίᾳ ἐν γῇ ⸀Αἰγύπτου, καὶ μετὰ βραχίονος ὑψηλοῦ ἐξήγαγεν αὐτοὺς ἐξ αὐτῆς, 
+[El Dios de este pueblo de Israel, escogió a nuestros padres y engrandeció al pueblo durante su estancia en la tierra de Egipto, y con brazo fuerte los sacó de ella.]
+
+### Hechos 13:18 {#hech-13-18}
+καί, ὡς τεσσερακονταετῆ χρόνον ἐτροποφόρησεν αὐτοὺς ἐν τῇ ἐρήμῳ, 
+[Por un período como de cuarenta años los soportó en el desierto.]
+
+### Hechos 13:19 {#hech-13-19}
+⸀καὶ καθελὼν ἔθνη ἑπτὰ ἐν γῇ Χανάαν ⸀κατεκληρονόμησεν τὴν γῆν αὐτῶν 
+[Después de destruir siete naciones en la tierra de Canaán, repartió sus tierras en herencia; todo esto duró como 450 años.]
+
+### Hechos 13:20 {#hech-13-20}
+⸂ὡς ἔτεσι τετρακοσίοις καὶ πεντήκοντα. καὶ μετὰ ταῦτα⸃ ἔδωκεν κριτὰς ἕως Σαμουὴλ ⸀τοῦ προφήτου. 
+[Después de esto, Dios les dio jueces hasta el profeta Samuel.]
+
+### Hechos 13:21 {#hech-13-21}
+κἀκεῖθεν ᾐτήσαντο βασιλέα, καὶ ἔδωκεν αὐτοῖς ὁ θεὸς τὸν Σαοὺλ υἱὸν Κίς, ἄνδρα ἐκ φυλῆς Βενιαμίν, ἔτη τεσσεράκοντα· 
+[Entonces ellos pidieron un rey, y Dios les dio a Saúl, hijo de Cis, varón de la tribu de Benjamín, durante cuarenta años.]
+
+### Hechos 13:22 {#hech-13-22}
+καὶ μεταστήσας αὐτὸν ἤγειρεν ⸂τὸν Δαυὶδ αὐτοῖς⸃ εἰς βασιλέα, ᾧ καὶ εἶπεν μαρτυρήσας· Εὗρον Δαυὶδ τὸν τοῦ Ἰεσσαί, ἄνδρα κατὰ τὴν καρδίαν μου, ὃς ποιήσει πάντα τὰ θελήματά μου. 
+[»Cuando lo quitó, les levantó por rey a David, del cual Dios también testificó y dijo: “HE HALLADO A DAVID, hijo de Isaí, UN HOMBRE CONFORME A MI CORAZÓN, que hará toda Mi voluntad”.]
+
+### Hechos 13:23 {#hech-13-23}
+τούτου ὁ θεὸς ἀπὸ τοῦ σπέρματος κατʼ ἐπαγγελίαν ἤγαγεν τῷ Ἰσραὴλ ⸂σωτῆρα Ἰησοῦν⸃, 
+[De la descendencia de este, conforme a la promesa, Dios ha dado a Israel un Salvador, Jesús,]
+
+### Hechos 13:24 {#hech-13-24}
+προκηρύξαντος Ἰωάννου πρὸ προσώπου τῆς εἰσόδου αὐτοῦ βάπτισμα μετανοίας ⸂παντὶ τῷ λαῷ⸃ Ἰσραήλ. 
+[después de que Juan predicó, antes de Su venida, un bautismo de arrepentimiento a todo el pueblo de Israel.]
+
+### Hechos 13:25 {#hech-13-25}
+ὡς δὲ ἐπλήρου ⸀Ἰωάννης τὸν δρόμον, ἔλεγεν· ⸂Τί ἐμὲ⸃ ὑπονοεῖτε εἶναι; οὐκ εἰμὶ ἐγώ· ἀλλʼ ἰδοὺ ἔρχεται μετʼ ἐμὲ οὗ οὐκ εἰμὶ ἄξιος τὸ ὑπόδημα τῶν ποδῶν λῦσαι. 
+[Cuando Juan estaba a punto de terminar su carrera, decía: “¿Quién piensan ustedes que soy yo? Yo no soy el Cristo; pero miren, viene tras mí uno de quien yo no soy digno de desatar las sandalias de sus pies”.]
+
+### Hechos 13:26 {#hech-13-26}
+Ἄνδρες ἀδελφοί, υἱοὶ γένους Ἀβραὰμ καὶ οἱ ἐν ὑμῖν φοβούμενοι τὸν θεόν, ⸀ἡμῖν ὁ λόγος τῆς σωτηρίας ταύτης ⸀ἐξαπεστάλη. 
+[»Hermanos, hijos del linaje de Abraham, y los que entre ustedes temen a Dios, a nosotros nos es enviada la palabra de esta salvación.]
+
+### Hechos 13:27 {#hech-13-27}
+οἱ γὰρ κατοικοῦντες ἐν Ἰερουσαλὴμ καὶ οἱ ἄρχοντες αὐτῶν τοῦτον ἀγνοήσαντες καὶ τὰς φωνὰς τῶν προφητῶν τὰς κατὰ πᾶν σάββατον ἀναγινωσκομένας κρίναντες ἐπλήρωσαν, 
+[Pues los que habitan en Jerusalén y sus gobernantes, sin reconocer a Jesús ni las palabras de los profetas que se leen todos los días de reposo, cumplieron estas escrituras, cuando lo condenaron.]
+
+### Hechos 13:28 {#hech-13-28}
+καὶ μηδεμίαν αἰτίαν θανάτου εὑρόντες ᾐτήσαντο Πιλᾶτον ἀναιρεθῆναι αὐτόν· 
+[»Aunque no hallaron causa para dar muerte a Jesús, pidieron a Pilato que lo mandara a matar.]
+
+### Hechos 13:29 {#hech-13-29}
+ὡς δὲ ἐτέλεσαν πάντα τὰ περὶ αὐτοῦ γεγραμμένα, καθελόντες ἀπὸ τοῦ ξύλου ἔθηκαν εἰς μνημεῖον. 
+[Cuando habían cumplido todo lo que estaba escrito acerca de Él, lo bajaron de la cruz y lo pusieron en un sepulcro.]
+
+### Hechos 13:30 {#hech-13-30}
+ὁ δὲ θεὸς ἤγειρεν αὐτὸν ἐκ νεκρῶν· 
+[Pero Dios lo levantó de entre los muertos;]
+
+### Hechos 13:31 {#hech-13-31}
+ὃς ὤφθη ἐπὶ ἡμέρας πλείους τοῖς συναναβᾶσιν αὐτῷ ἀπὸ τῆς Γαλιλαίας εἰς Ἰερουσαλήμ, οἵτινες ⸀νῦν εἰσὶ μάρτυρες αὐτοῦ πρὸς τὸν λαόν. 
+[y por muchos días se apareció a los que habían subido con Él de Galilea a Jerusalén, los cuales ahora son Sus testigos ante el pueblo.]
+
+### Hechos 13:32 {#hech-13-32}
+καὶ ἡμεῖς ὑμᾶς εὐαγγελιζόμεθα τὴν πρὸς τοὺς πατέρας ἐπαγγελίαν γενομένην 
+[»Nosotros les anunciamos las buenas nuevas de que la promesa hecha a los padres,]
+
+### Hechos 13:33 {#hech-13-33}
+ὅτι ταύτην ὁ θεὸς ἐκπεπλήρωκεν τοῖς τέκνοις ⸀ἡμῶν ἀναστήσας Ἰησοῦν, ὡς καὶ ἐν τῷ ⸂ψαλμῷ γέγραπται τῷ δευτέρῳ⸃· Υἱός μου εἶ σύ, ἐγὼ σήμερον γεγέννηκά σε. 
+[Dios la ha cumplido a nuestros hijos al resucitar a Jesús, como también está escrito en el Salmo segundo: “HIJO MÍO ERES TÚ; YO TE HE ENGENDRADO HOY”.]
+
+### Hechos 13:34 {#hech-13-34}
+ὅτι δὲ ἀνέστησεν αὐτὸν ἐκ νεκρῶν μηκέτι μέλλοντα ὑποστρέφειν εἰς διαφθοράν, οὕτως εἴρηκεν ὅτι Δώσω ὑμῖν τὰ ὅσια Δαυὶδ τὰ πιστά. 
+[»Y en cuanto a que lo resucitó de entre los muertos para nunca más volver a corrupción, Dios ha hablado de esta manera: “LES DARÉ LAS misericordias SANTAS y FIELES prometidas A DAVID”.]
+
+### Hechos 13:35 {#hech-13-35}
+⸀διότι καὶ ἐν ἑτέρῳ λέγει· Οὐ δώσεις τὸν ὅσιόν σου ἰδεῖν διαφθοράν· 
+[Por tanto dice también en otro salmo: “NO PERMITIRÁS QUE TU SANTO VEA CORRUPCIÓN”.]
+
+### Hechos 13:36 {#hech-13-36}
+Δαυὶδ μὲν γὰρ ἰδίᾳ γενεᾷ ὑπηρετήσας τῇ τοῦ θεοῦ βουλῇ ἐκοιμήθη καὶ προσετέθη πρὸς τοὺς πατέρας αὐτοῦ καὶ εἶδεν διαφθοράν, 
+[»Porque David, después de haber servido el propósito de Dios en su propia generación, durmió, y fue sepultado con sus padres, y vio corrupción.]
+
+### Hechos 13:37 {#hech-13-37}
+ὃν δὲ ὁ θεὸς ἤγειρεν οὐκ εἶδεν διαφθοράν. 
+[Pero Aquel a quien Dios resucitó no vio corrupción.]
+
+### Hechos 13:38 {#hech-13-38}
+γνωστὸν οὖν ἔστω ὑμῖν, ἄνδρες ἀδελφοί, ὅτι διὰ τούτου ὑμῖν ἄφεσις ἁμαρτιῶν καταγγέλλεται, καὶ ἀπὸ πάντων ὧν οὐκ ἠδυνήθητε ⸀ἐν νόμῳ Μωϋσέως δικαιωθῆναι 
+[»Por tanto, hermanos, sepan que por medio de Él les es anunciado el perdón de los pecados;]
+
+### Hechos 13:39 {#hech-13-39}
+ἐν τούτῳ πᾶς ὁ πιστεύων δικαιοῦται. 
+[y que de todas las cosas de que no pudieron ser justificados por la ley de Moisés, por medio de Él, todo aquel que cree es justificado.]
+
+### Hechos 13:40 {#hech-13-40}
+βλέπετε οὖν μὴ ⸀ἐπέλθῃ τὸ εἰρημένον ἐν τοῖς προφήταις· 
+[Tengan, pues, cuidado de que no venga sobre ustedes aquello de que se habla en los profetas:]
+
+### Hechos 13:41 {#hech-13-41}
+Ἴδετε, οἱ καταφρονηταί, καὶ θαυμάσατε καὶ ἀφανίσθητε, ὅτι ἔργον ⸂ἐργάζομαι ἐγὼ⸃ ἐν ταῖς ἡμέραις ὑμῶν, ⸀ἔργον ὃ οὐ μὴ πιστεύσητε ἐάν τις ἐκδιηγῆται ὑμῖν. 
+[“MIREN, BURLADORES, MARAVÍLLENSE Y PEREZCAN; PORQUE YO HAGO UNA OBRA EN SUS DÍAS, UNA OBRA QUE USTEDES NUNCA CREERÍAN AUNQUE ALGUIEN SE LA DESCRIBIERA”».]
+
+### Hechos 13:42 {#hech-13-42}
+Ἐξιόντων δὲ ⸀αὐτῶν ⸀παρεκάλουν εἰς τὸ μεταξὺ σάββατον λαληθῆναι αὐτοῖς τὰ ῥήματα ⸀ταῦτα. 
+[Al salir Pablo y Bernabé, la gente les rogaba que el siguiente día de reposo les hablaran de estas cosas.]
+
+### Hechos 13:43 {#hech-13-43}
+λυθείσης δὲ τῆς συναγωγῆς ἠκολούθησαν πολλοὶ τῶν Ἰουδαίων καὶ τῶν σεβομένων προσηλύτων τῷ Παύλῳ καὶ τῷ Βαρναβᾷ, οἵτινες προσλαλοῦντες ⸀αὐτοῖς ἔπειθον αὐτοὺς ⸀προσμένειν τῇ χάριτι τοῦ θεοῦ. 
+[Terminada la reunión de la sinagoga, muchos de los judíos y de los prosélitos temerosos de Dios siguieron a Pablo y a Bernabé, quienes, hablándoles, les instaban a perseverar en la gracia de Dios.]
+
+### Hechos 13:44 {#hech-13-44}
+Τῷ ⸀δὲ ἐρχομένῳ σαββάτῳ σχεδὸν πᾶσα ἡ πόλις συνήχθη ἀκοῦσαι τὸν λόγον τοῦ ⸀κυρίου. 
+[El siguiente día de reposo casi toda la ciudad se reunió para oír la palabra del Señor.]
+
+### Hechos 13:45 {#hech-13-45}
+ἰδόντες δὲ οἱ Ἰουδαῖοι τοὺς ὄχλους ἐπλήσθησαν ζήλου καὶ ἀντέλεγον τοῖς ⸀ὑπὸ Παύλου ⸀λαλουμένοις ⸀βλασφημοῦντες. 
+[Pero cuando los judíos vieron la muchedumbre, se llenaron de celo, y blasfemando, contradecían lo que Pablo decía.]
+
+### Hechos 13:46 {#hech-13-46}
+παρρησιασάμενοί ⸀τε ὁ Παῦλος καὶ ὁ Βαρναβᾶς εἶπαν· Ὑμῖν ἦν ἀναγκαῖον πρῶτον λαληθῆναι τὸν λόγον τοῦ θεοῦ· ⸀ἐπειδὴ ἀπωθεῖσθε αὐτὸν καὶ οὐκ ἀξίους κρίνετε ἑαυτοὺς τῆς αἰωνίου ζωῆς, ἰδοὺ στρεφόμεθα εἰς τὰ ἔθνη· 
+[Entonces Pablo y Bernabé hablaron con valor y dijeron: «Era necesario que la palabra de Dios les fuera predicada primeramente a ustedes; pero ya que la rechazan y no se juzgan dignos de la vida eterna, así que ahora nos volvemos a los gentiles.]
+
+### Hechos 13:47 {#hech-13-47}
+οὕτως γὰρ ἐντέταλται ἡμῖν ὁ κύριος· Τέθεικά σε εἰς φῶς ἐθνῶν τοῦ εἶναί σε εἰς σωτηρίαν ἕως ἐσχάτου τῆς γῆς. 
+[Porque así nos lo ha mandado el Señor: “TE HE PUESTO COMO LUZ PARA LOS GENTILES, A FIN DE QUE LLEVES LA SALVACIÓN HASTA LOS CONFINES DE LA TIERRA”».]
+
+### Hechos 13:48 {#hech-13-48}
+ἀκούοντα δὲ τὰ ἔθνη ⸀ἔχαιρον καὶ ἐδόξαζον τὸν λόγον τοῦ ⸀κυρίου, καὶ ἐπίστευσαν ὅσοι ἦσαν τεταγμένοι εἰς ζωὴν αἰώνιον· 
+[Oyendo esto los gentiles, se regocijaban y glorificaban la palabra del Señor; y creyeron cuantos estaban ordenados a vida eterna.]
+
+### Hechos 13:49 {#hech-13-49}
+διεφέρετο δὲ ὁ λόγος τοῦ κυρίου διʼ ὅλης τῆς χώρας. 
+[Y la palabra del Señor se difundía por toda la región.]
+
+### Hechos 13:50 {#hech-13-50}
+οἱ δὲ Ἰουδαῖοι παρώτρυναν τὰς σεβομένας ⸀γυναῖκας τὰς εὐσχήμονας καὶ τοὺς πρώτους τῆς πόλεως καὶ ἐπήγειραν διωγμὸν ἐπὶ τὸν Παῦλον ⸀καὶ Βαρναβᾶν, καὶ ἐξέβαλον αὐτοὺς ἀπὸ τῶν ὁρίων αὐτῶν. 
+[Pero los judíos instigaron a las mujeres piadosas y distinguidas, y a los hombres más prominentes de la ciudad, y provocaron una persecución contra Pablo y Bernabé, y los expulsaron de su región.]
+
+### Hechos 13:51 {#hech-13-51}
+οἱ δὲ ἐκτιναξάμενοι τὸν κονιορτὸν τῶν ⸀ποδῶν ἐπʼ αὐτοὺς ἦλθον εἰς Ἰκόνιον, 
+[Entonces estos sacudieron el polvo de sus pies contra ellos y se fueron a Iconio.]
+
+### Hechos 13:52 {#hech-13-52}
+οἵ ⸀τε μαθηταὶ ἐπληροῦντο χαρᾶς καὶ πνεύματος ἁγίου. 
+[Y los discípulos estaban continuamente llenos de gozo y del Espíritu Santo.]
+
+### Hechos 14:1 {#hech-14-1}
+Ἐγένετο δὲ ἐν Ἰκονίῳ κατὰ τὸ αὐτὸ εἰσελθεῖν αὐτοὺς εἰς τὴν συναγωγὴν τῶν Ἰουδαίων καὶ λαλῆσαι οὕτως ὥστε πιστεῦσαι Ἰουδαίων τε καὶ Ἑλλήνων πολὺ πλῆθος. 
+[Cuando Pablo y Bernabé entraron juntos en la sinagoga de los judíos en Iconio, hablaron de tal manera que creyó una gran multitud, tanto de judíos como de griegos.]
+
+### Hechos 14:2 {#hech-14-2}
+οἱ δὲ ⸀ἀπειθήσαντες Ἰουδαῖοι ἐπήγειραν καὶ ἐκάκωσαν τὰς ψυχὰς τῶν ἐθνῶν κατὰ τῶν ἀδελφῶν. 
+[Pero los judíos que no creyeron, excitaron y llenaron de odio los ánimos de los gentiles contra los hermanos.]
+
+### Hechos 14:3 {#hech-14-3}
+ἱκανὸν μὲν οὖν χρόνον διέτριψαν παρρησιαζόμενοι ἐπὶ τῷ κυρίῳ τῷ μαρτυροῦντι ⸀τῷ λόγῳ τῆς χάριτος αὐτοῦ, διδόντι σημεῖα καὶ τέρατα γίνεσθαι διὰ τῶν χειρῶν αὐτῶν. 
+[Con todo, se detuvieron allí mucho tiempo hablando valientemente, confiados en el Señor que confirmaba la palabra de Su gracia, concediendo que se hicieran señales y prodigios por medio de sus manos.]
+
+### Hechos 14:4 {#hech-14-4}
+ἐσχίσθη δὲ τὸ πλῆθος τῆς πόλεως, καὶ οἱ μὲν ἦσαν σὺν τοῖς Ἰουδαίοις οἱ δὲ σὺν τοῖς ἀποστόλοις. 
+[Pero la gente de la ciudad estaba dividida, y unos estaban con los judíos y otros con los apóstoles.]
+
+### Hechos 14:5 {#hech-14-5}
+ὡς δὲ ἐγένετο ὁρμὴ τῶν ἐθνῶν τε καὶ Ἰουδαίων σὺν τοῖς ἄρχουσιν αὐτῶν ὑβρίσαι καὶ λιθοβολῆσαι αὐτούς, 
+[Cuando los gentiles y los judíos, con sus gobernantes, prepararon un atentado para maltratarlos y apedrearlos,]
+
+### Hechos 14:6 {#hech-14-6}
+συνιδόντες κατέφυγον εἰς τὰς πόλεις τῆς Λυκαονίας Λύστραν καὶ Δέρβην καὶ τὴν περίχωρον, 
+[los apóstoles se dieron cuenta de ello y huyeron a las ciudades de Licaonia, Listra, Derbe, y sus alrededores;]
+
+### Hechos 14:7 {#hech-14-7}
+κἀκεῖ ⸂εὐαγγελιζόμενοι ἦσαν⸃. 
+[y allí continuaron anunciando el evangelio.]
+
+### Hechos 14:8 {#hech-14-8}
+Καί τις ἀνὴρ ⸂ἀδύνατος ἐν Λύστροις⸃ τοῖς ποσὶν ἐκάθητο, χωλὸς ἐκ κοιλίας μητρὸς ⸀αὐτοῦ, ὃς οὐδέποτε ⸀περιεπάτησεν. 
+[Y había en Listra un hombre que estaba sentado, imposibilitado de los pies, cojo desde el seno de su madre y que nunca había andado.]
+
+### Hechos 14:9 {#hech-14-9}
+οὗτος ⸀ἤκουσεν τοῦ Παύλου λαλοῦντος· ὃς ἀτενίσας αὐτῷ καὶ ἰδὼν ὅτι ⸂ἔχει πίστιν⸃ τοῦ σωθῆναι 
+[Este escuchaba hablar a Pablo, el cual, fijando la mirada en él, y viendo que tenía fe para ser sanado,]
+
+### Hechos 14:10 {#hech-14-10}
+εἶπεν ⸀μεγάλῃ φωνῇ· Ἀνάστηθι ἐπὶ τοὺς πόδας σου ⸀ὀρθός· καὶ ⸀ἥλατο καὶ περιεπάτει. 
+[dijo con voz fuerte: «Levántate derecho sobre tus pies». Y él dio un salto y comenzó a andar.]
+
+### Hechos 14:11 {#hech-14-11}
+οἵ ⸀τε ὄχλοι ἰδόντες ὃ ⸀ἐποίησεν Παῦλος ἐπῆραν τὴν φωνὴν αὐτῶν Λυκαονιστὶ λέγοντες· Οἱ θεοὶ ὁμοιωθέντες ἀνθρώποις κατέβησαν πρὸς ἡμᾶς 
+[Cuando la multitud vio lo que Pablo había hecho, alzaron la voz, diciendo en el idioma de Licaonia: «Los dioses se han hecho semejantes a hombres y han descendido a nosotros».]
+
+### Hechos 14:12 {#hech-14-12}
+ἐκάλουν τε ⸀τὸν Βαρναβᾶν Δία, τὸν δὲ Παῦλον Ἑρμῆν, ἐπειδὴ αὐτὸς ἦν ὁ ἡγούμενος τοῦ λόγου. 
+[Y llamaban a Bernabé, Júpiter, y a Pablo, Mercurio, porque este era el que dirigía la palabra.]
+
+### Hechos 14:13 {#hech-14-13}
+ὅ ⸀τε ἱερεὺς τοῦ Διὸς τοῦ ὄντος πρὸ τῆς ⸀πόλεως ταύρους καὶ στέμματα ἐπὶ τοὺς πυλῶνας ἐνέγκας σὺν τοῖς ὄχλοις ἤθελεν θύειν. 
+[El sacerdote de Júpiter, cuyo templo estaba en las afueras de la ciudad, trajo toros y guirnaldas a las puertas, y quería ofrecer sacrificios junto con la multitud.]
+
+### Hechos 14:14 {#hech-14-14}
+ἀκούσαντες δὲ οἱ ἀπόστολοι Βαρναβᾶς καὶ Παῦλος, διαρρήξαντες τὰ ἱμάτια ⸀αὐτῶν ⸀ἐξεπήδησαν εἰς τὸν ὄχλον κράζοντες 
+[Pero cuando lo oyeron los apóstoles Bernabé y Pablo, rasgaron sus ropas y se lanzaron en medio de la multitud, gritando:]
+
+### Hechos 14:15 {#hech-14-15}
+καὶ λέγοντες· Ἄνδρες, τί ταῦτα ποιεῖτε; καὶ ἡμεῖς ὁμοιοπαθεῖς ἐσμεν ὑμῖν ἄνθρωποι, εὐαγγελιζόμενοι ὑμᾶς ἀπὸ τούτων τῶν ματαίων ἐπιστρέφειν ἐπὶ ⸀θεὸν ζῶντα ὃς ἐποίησεν τὸν οὐρανὸν καὶ τὴν γῆν καὶ τὴν θάλασσαν καὶ πάντα τὰ ἐν αὐτοῖς· 
+[«Señores, ¿por qué hacen estas cosas? Nosotros también somos hombres de igual naturaleza que ustedes, y les anunciamos el evangelio para que se vuelvan de estas cosas vanas a un Dios vivo, QUE HIZO EL CIELO, LA TIERRA, EL MAR, Y TODO LO QUE HAY EN ELLOS.]
+
+### Hechos 14:16 {#hech-14-16}
+ὃς ἐν ταῖς παρῳχημέναις γενεαῖς εἴασεν πάντα τὰ ἔθνη πορεύεσθαι ταῖς ὁδοῖς αὐτῶν· 
+[En las generaciones pasadas Él permitió que todas las naciones siguieran sus propios caminos;]
+
+### Hechos 14:17 {#hech-14-17}
+⸀καίτοι οὐκ ἀμάρτυρον ⸀αὑτὸν ἀφῆκεν ⸀ἀγαθουργῶν, οὐρανόθεν ὑμῖν ὑετοὺς διδοὺς καὶ καιροὺς καρποφόρους, ἐμπιπλῶν τροφῆς καὶ εὐφροσύνης τὰς καρδίας ⸀ὑμῶν. 
+[y sin embargo, no dejó de dar testimonio de Él mismo, haciendo bien y dándoles lluvias del cielo y estaciones fructíferas, llenando sus corazones de sustento y de alegría».]
+
+### Hechos 14:18 {#hech-14-18}
+καὶ ταῦτα λέγοντες μόλις κατέπαυσαν τοὺς ὄχλους τοῦ μὴ θύειν αὐτοῖς. 
+[Aun diciendo estas palabras, apenas pudieron impedir que las multitudes les ofrecieran sacrificio.]
+
+### Hechos 14:19 {#hech-14-19}
+Ἐπῆλθαν δὲ ἀπὸ Ἀντιοχείας καὶ Ἰκονίου Ἰουδαῖοι, καὶ πείσαντες τοὺς ὄχλους καὶ λιθάσαντες τὸν Παῦλον ἔσυρον ἔξω τῆς πόλεως, ⸀νομίζοντες αὐτὸν τεθνηκέναι. 
+[Pero vinieron algunos judíos de Antioquía y de Iconio, y habiendo persuadido a la multitud, apedrearon a Pablo y lo arrastraron fuera de la ciudad, pensando que estaba muerto.]
+
+### Hechos 14:20 {#hech-14-20}
+κυκλωσάντων δὲ ⸂τῶν μαθητῶν αὐτὸν⸃ ἀναστὰς εἰσῆλθεν εἰς τὴν πόλιν. καὶ τῇ ἐπαύριον ἐξῆλθεν σὺν τῷ Βαρναβᾷ εἰς Δέρβην. 
+[Pero mientras los discípulos lo rodeaban, él se levantó y entró en la ciudad. Al día siguiente Pablo partió con Bernabé a Derbe.]
+
+### Hechos 14:21 {#hech-14-21}
+Εὐαγγελισάμενοί τε τὴν πόλιν ἐκείνην καὶ μαθητεύσαντες ἱκανοὺς ὑπέστρεψαν εἰς τὴν Λύστραν καὶ ⸀εἰς Ἰκόνιον καὶ ⸁εἰς Ἀντιόχειαν, 
+[Después de anunciar el evangelio a aquella ciudad y de hacer muchos discípulos, volvieron a Listra, a Iconio y a Antioquía,]
+
+### Hechos 14:22 {#hech-14-22}
+ἐπιστηρίζοντες τὰς ψυχὰς τῶν μαθητῶν, παρακαλοῦντες ἐμμένειν τῇ πίστει καὶ ὅτι διὰ πολλῶν θλίψεων δεῖ ἡμᾶς εἰσελθεῖν εἰς τὴν βασιλείαν τοῦ θεοῦ. 
+[fortaleciendo los ánimos de los discípulos, exhortándolos a que perseveraran en la fe, y diciendo: «Es necesario que a través de muchas tribulaciones entremos en el reino de Dios».]
+
+### Hechos 14:23 {#hech-14-23}
+χειροτονήσαντες δὲ αὐτοῖς ⸂κατʼ ἐκκλησίαν πρεσβυτέρους⸃ προσευξάμενοι μετὰ νηστειῶν παρέθεντο αὐτοὺς τῷ κυρίῳ εἰς ὃν πεπιστεύκεισαν. 
+[Después que les designaron ancianos en cada iglesia, habiendo orado con ayunos, los encomendaron al Señor en quien habían creído.]
+
+### Hechos 14:24 {#hech-14-24}
+καὶ διελθόντες τὴν Πισιδίαν ἦλθον εἰς ⸀τὴν Παμφυλίαν, 
+[Pasaron por Pisidia y llegaron a Panfilia.]
+
+### Hechos 14:25 {#hech-14-25}
+καὶ λαλήσαντες ἐν Πέργῃ τὸν λόγον κατέβησαν εἰς Ἀττάλειαν, 
+[Después de predicar la palabra en Perge, descendieron a Atalia;]
+
+### Hechos 14:26 {#hech-14-26}
+κἀκεῖθεν ἀπέπλευσαν εἰς Ἀντιόχειαν, ὅθεν ἦσαν παραδεδομένοι τῇ χάριτι τοῦ θεοῦ εἰς τὸ ἔργον ὃ ἐπλήρωσαν. 
+[y de allí se embarcaron para Antioquía, donde habían sido encomendados a la gracia de Dios para la obra que habían cumplido.]
+
+### Hechos 14:27 {#hech-14-27}
+παραγενόμενοι δὲ καὶ συναγαγόντες τὴν ἐκκλησίαν ⸀ἀνήγγελλον ὅσα ἐποίησεν ὁ θεὸς μετʼ αὐτῶν καὶ ὅτι ἤνοιξεν τοῖς ἔθνεσιν θύραν πίστεως. 
+[Cuando llegaron y reunieron a la iglesia, informaron de todas las cosas que Dios había hecho con ellos, y cómo había abierto a los gentiles la puerta de la fe.]
+
+### Hechos 14:28 {#hech-14-28}
+διέτριβον ⸀δὲ χρόνον οὐκ ὀλίγον σὺν τοῖς μαθηταῖς. 
+[Y se quedaron mucho tiempo con los discípulos.]
+
+### Hechos 15:1 {#hech-15-1}
+Καί τινες κατελθόντες ἀπὸ τῆς Ἰουδαίας ἐδίδασκον τοὺς ἀδελφοὺς ὅτι Ἐὰν μὴ ⸀περιτμηθῆτε τῷ ἔθει ⸀τῷ Μωϋσέως, οὐ δύνασθε σωθῆναι. 
+[Algunos que llegaron de Judea enseñaban a los hermanos: «Si no se circuncidan conforme al rito de Moisés, no pueden ser salvos».]
+
+### Hechos 15:2 {#hech-15-2}
+γενομένης ⸀δὲ στάσεως καὶ ζητήσεως οὐκ ὀλίγης τῷ Παύλῳ καὶ τῷ Βαρναβᾷ πρὸς αὐτοὺς ἔταξαν ἀναβαίνειν Παῦλον καὶ Βαρναβᾶν καί τινας ἄλλους ἐξ αὐτῶν πρὸς τοὺς ἀποστόλους καὶ πρεσβυτέρους εἰς Ἰερουσαλὴμ περὶ τοῦ ζητήματος τούτου. 
+[Como Pablo y Bernabé tuvieran gran disensión y debate con ellos, los hermanos determinaron que Pablo y Bernabé, y algunos otros de ellos subieran a Jerusalén a los apóstoles y a los ancianos para tratar esta cuestión.]
+
+### Hechos 15:3 {#hech-15-3}
+οἱ μὲν οὖν προπεμφθέντες ὑπὸ τῆς ἐκκλησίας διήρχοντο τήν ⸀τε Φοινίκην καὶ Σαμάρειαν ἐκδιηγούμενοι τὴν ἐπιστροφὴν τῶν ἐθνῶν, καὶ ἐποίουν χαρὰν μεγάλην πᾶσι τοῖς ἀδελφοῖς. 
+[Así que, siendo enviados por la iglesia, pasaron por Fenicia y Samaria, relatando detalladamente la conversión de los gentiles, y causaban gran gozo a todos los hermanos.]
+
+### Hechos 15:4 {#hech-15-4}
+παραγενόμενοι δὲ εἰς ⸀Ἱεροσόλυμα ⸀παρεδέχθησαν ⸀ἀπὸ τῆς ἐκκλησίας καὶ τῶν ἀποστόλων καὶ τῶν πρεσβυτέρων, ἀνήγγειλάν τε ὅσα ὁ θεὸς ἐποίησεν μετʼ αὐτῶν. 
+[Cuando llegaron a Jerusalén, fueron recibidos por la iglesia, los apóstoles y los ancianos, e informaron de todo lo que Dios había hecho con ellos.]
+
+### Hechos 15:5 {#hech-15-5}
+ἐξανέστησαν δέ τινες τῶν ἀπὸ τῆς αἱρέσεως τῶν Φαρισαίων πεπιστευκότες, λέγοντες ὅτι δεῖ περιτέμνειν αὐτοὺς παραγγέλλειν τε τηρεῖν τὸν νόμον Μωϋσέως. 
+[Pero algunos de la secta de los fariseos que habían creído se levantaron diciendo: «Es necesario circuncidarlos y mandarles que guarden la ley de Moisés».]
+
+### Hechos 15:6 {#hech-15-6}
+Συνήχθησάν ⸀τε οἱ ἀπόστολοι καὶ οἱ πρεσβύτεροι ἰδεῖν περὶ τοῦ λόγου τούτου. 
+[Entonces los apóstoles y los ancianos se reunieron para considerar este asunto.]
+
+### Hechos 15:7 {#hech-15-7}
+πολλῆς δὲ ⸀ζητήσεως γενομένης ἀναστὰς Πέτρος εἶπεν πρὸς αὐτούς· Ἄνδρες ἀδελφοί, ὑμεῖς ἐπίστασθε ὅτι ἀφʼ ἡμερῶν ἀρχαίων ⸂ἐν ὑμῖν ἐξελέξατο ὁ θεὸς⸃ διὰ τοῦ στόματός μου ἀκοῦσαι τὰ ἔθνη τὸν λόγον τοῦ εὐαγγελίου καὶ πιστεῦσαι, 
+[Después de mucho debate, Pedro se levantó y les dijo: «Hermanos, ustedes saben que en los primeros días Dios escogió de entre ustedes que por mi boca los gentiles oyeran la palabra del evangelio y creyeran.]
+
+### Hechos 15:8 {#hech-15-8}
+καὶ ὁ καρδιογνώστης θεὸς ἐμαρτύρησεν αὐτοῖς ⸀δοὺς τὸ πνεῦμα τὸ ἅγιον καθὼς καὶ ἡμῖν, 
+[Dios, que conoce el corazón, les dio testimonio dándoles el Espíritu Santo, al igual que a nosotros;]
+
+### Hechos 15:9 {#hech-15-9}
+καὶ ⸀οὐθὲν διέκρινεν μεταξὺ ἡμῶν τε καὶ αὐτῶν, τῇ πίστει καθαρίσας τὰς καρδίας αὐτῶν. 
+[y ninguna distinción hizo entre nosotros y ellos, purificando por la fe sus corazones.]
+
+### Hechos 15:10 {#hech-15-10}
+νῦν οὖν τί πειράζετε τὸν θεόν, ἐπιθεῖναι ζυγὸν ἐπὶ τὸν τράχηλον τῶν μαθητῶν ὃν οὔτε οἱ πατέρες ἡμῶν οὔτε ἡμεῖς ἰσχύσαμεν βαστάσαι; 
+[»Ahora pues, ¿por qué tientan a Dios poniendo sobre el cuello de los discípulos un yugo que ni nuestros padres ni nosotros hemos podido llevar?]
+
+### Hechos 15:11 {#hech-15-11}
+ἀλλὰ διὰ τῆς χάριτος τοῦ κυρίου Ἰησοῦ πιστεύομεν σωθῆναι καθʼ ὃν τρόπον κἀκεῖνοι. 
+[Creemos más bien que somos salvos por la gracia del Señor Jesús, de la misma manera que ellos también lo son».]
+
+### Hechos 15:12 {#hech-15-12}
+Ἐσίγησεν δὲ πᾶν τὸ πλῆθος, καὶ ἤκουον Βαρναβᾶ καὶ Παύλου ἐξηγουμένων ὅσα ἐποίησεν ὁ θεὸς σημεῖα καὶ τέρατα ἐν τοῖς ἔθνεσιν διʼ αὐτῶν. 
+[Toda la multitud hizo silencio, y escuchaban a Bernabé y a Pablo, que relataban las señales y prodigios que Dios había hecho entre los gentiles por medio de ellos.]
+
+### Hechos 15:13 {#hech-15-13}
+μετὰ δὲ τὸ σιγῆσαι αὐτοὺς ἀπεκρίθη Ἰάκωβος λέγων· Ἄνδρες ἀδελφοί, ἀκούσατέ μου. 
+[Cuando terminaron de hablar, Jacobo tomó la palabra y dijo: «Escúchenme, hermanos.]
+
+### Hechos 15:14 {#hech-15-14}
+Συμεὼν ἐξηγήσατο καθὼς πρῶτον ὁ θεὸς ἐπεσκέψατο λαβεῖν ἐξ ἐθνῶν ⸀λαὸν τῷ ὀνόματι αὐτοῦ. 
+[Simón ha relatado cómo Dios al principio tuvo a bien tomar de entre los gentiles un pueblo para Su nombre.]
+
+### Hechos 15:15 {#hech-15-15}
+καὶ τούτῳ συμφωνοῦσιν οἱ λόγοι τῶν προφητῶν, καθὼς γέγραπται· 
+[Y con esto concuerdan las palabras de los profetas, tal como está escrito:]
+
+### Hechos 15:16 {#hech-15-16}
+Μετὰ ταῦτα ἀναστρέψω καὶ ἀνοικοδομήσω τὴν σκηνὴν Δαυὶδ τὴν πεπτωκυῖαν καὶ τὰ ⸀κατεσκαμμένα αὐτῆς ἀνοικοδομήσω καὶ ἀνορθώσω αὐτήν, 
+[“DESPUÉS DE ESTO VOLVERÉ, Y REEDIFICARÉ EL TABERNÁCULO DE DAVID QUE HA CAÍDO. Y REEDIFICARÉ SUS RUINAS, Y LO LEVANTARÉ DE NUEVO,]
+
+### Hechos 15:17 {#hech-15-17}
+ὅπως ἂν ἐκζητήσωσιν οἱ κατάλοιποι τῶν ἀνθρώπων τὸν κύριον, καὶ πάντα τὰ ἔθνη ἐφʼ οὓς ἐπικέκληται τὸ ὄνομά μου ἐπʼ αὐτούς, λέγει ⸀κύριος ποιῶν ⸀ταῦτα 
+[PARA QUE EL RESTO DE LOS HOMBRES BUSQUE AL SEÑOR, Y TODOS LOS GENTILES QUE SON LLAMADOS POR MI NOMBRE”,]
+
+### Hechos 15:18 {#hech-15-18}
+γνωστὰ ἀπʼ ⸀αἰῶνος. 
+[DICE EL SEÑOR, QUE HACE SABER TODO ESTO DESDE TIEMPOS ANTIGUOS.]
+
+### Hechos 15:19 {#hech-15-19}
+διὸ ἐγὼ κρίνω μὴ παρενοχλεῖν τοῖς ἀπὸ τῶν ἐθνῶν ἐπιστρέφουσιν ἐπὶ τὸν θεόν, 
+[»Por tanto, yo opino que no debemos molestar a los que de entre los gentiles se convierten a Dios,]
+
+### Hechos 15:20 {#hech-15-20}
+ἀλλὰ ἐπιστεῖλαι αὐτοῖς τοῦ ⸀ἀπέχεσθαι τῶν ἀλισγημάτων τῶν εἰδώλων καὶ τῆς πορνείας καὶ ⸀τοῦ πνικτοῦ καὶ τοῦ αἵματος· 
+[sino que les escribamos que se abstengan de cosas contaminadas por los ídolos, de fornicación, de lo estrangulado y de sangre.]
+
+### Hechos 15:21 {#hech-15-21}
+Μωϋσῆς γὰρ ἐκ γενεῶν ἀρχαίων κατὰ πόλιν τοὺς κηρύσσοντας αὐτὸν ἔχει ἐν ταῖς συναγωγαῖς κατὰ πᾶν σάββατον ἀναγινωσκόμενος. 
+[Porque Moisés desde generaciones antiguas tiene en cada ciudad quienes lo prediquen, pues todos los días de reposo es leído en las sinagogas».]
+
+### Hechos 15:22 {#hech-15-22}
+Τότε ἔδοξε τοῖς ἀποστόλοις καὶ τοῖς πρεσβυτέροις σὺν ὅλῃ τῇ ἐκκλησίᾳ ἐκλεξαμένους ἄνδρας ἐξ αὐτῶν πέμψαι εἰς Ἀντιόχειαν σὺν ⸀τῷ Παύλῳ καὶ Βαρναβᾷ, Ἰούδαν τὸν ⸀καλούμενον Βαρσαββᾶν καὶ Σιλᾶν, ἄνδρας ἡγουμένους ἐν τοῖς ἀδελφοῖς, 
+[Entonces pareció bien a los apóstoles y a los ancianos, con toda la iglesia, escoger de entre ellos algunos hombres para enviarlos a Antioquía con Pablo y Bernabé: a Judas, llamado Barsabás, y a Silas, hombres prominentes entre los hermanos,]
+
+### Hechos 15:23 {#hech-15-23}
+γράψαντες διὰ χειρὸς ⸀αὐτῶν· Οἱ ἀπόστολοι καὶ οἱ ⸀πρεσβύτεροι ἀδελφοὶ τοῖς κατὰ τὴν Ἀντιόχειαν καὶ Συρίαν καὶ Κιλικίαν ἀδελφοῖς τοῖς ἐξ ἐθνῶν χαίρειν. 
+[y enviaron esta carta con ellos: «Los apóstoles, y los hermanos que son ancianos, a los hermanos en Antioquía, Siria y Cilicia que son de los gentiles, saludos.]
+
+### Hechos 15:24 {#hech-15-24}
+ἐπειδὴ ἠκούσαμεν ὅτι τινὲς ἐξ ἡμῶν ⸀ἐξελθόντες ἐτάραξαν ὑμᾶς λόγοις ἀνασκευάζοντες τὰς ψυχὰς ⸀ὑμῶν οἷς οὐ διεστειλάμεθα, 
+[Puesto que hemos oído que algunos de entre nosotros, a quienes no autorizamos, los han inquietado con sus palabras, perturbando sus almas,]
+
+### Hechos 15:25 {#hech-15-25}
+ἔδοξεν ἡμῖν γενομένοις ὁμοθυμαδὸν ⸀ἐκλεξαμένοις ἄνδρας πέμψαι πρὸς ὑμᾶς σὺν τοῖς ἀγαπητοῖς ἡμῶν Βαρναβᾷ καὶ Παύλῳ, 
+[nos pareció bien, habiendo llegado a un común acuerdo, escoger algunos hombres para enviarlos a ustedes con nuestros amados Bernabé y Pablo.]
+
+### Hechos 15:26 {#hech-15-26}
+ἀνθρώποις παραδεδωκόσι τὰς ψυχὰς αὐτῶν ὑπὲρ τοῦ ὀνόματος τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ. 
+[Estos hombres han arriesgado su vida por el nombre de nuestro Señor Jesucristo.]
+
+### Hechos 15:27 {#hech-15-27}
+ἀπεστάλκαμεν οὖν Ἰούδαν καὶ Σιλᾶν, καὶ αὐτοὺς διὰ λόγου ἀπαγγέλλοντας τὰ αὐτά. 
+[Por tanto, hemos enviado a Judas y a Silas, quienes también les informarán las mismas cosas verbalmente.]
+
+### Hechos 15:28 {#hech-15-28}
+ἔδοξεν γὰρ τῷ ⸂πνεύματι τῷ ἁγίῳ⸃ καὶ ἡμῖν μηδὲν πλέον ἐπιτίθεσθαι ὑμῖν βάρος πλὴν ⸂τούτων τῶν ἐπάναγκες⸃, 
+[Porque pareció bien al Espíritu Santo y a nosotros no imponerles mayor carga que estas cosas esenciales:]
+
+### Hechos 15:29 {#hech-15-29}
+ἀπέχεσθαι εἰδωλοθύτων καὶ αἵματος καὶ ⸀πνικτῶν καὶ πορνείας· ἐξ ὧν διατηροῦντες ἑαυτοὺς εὖ πράξετε. ἔρρωσθε. 
+[que se abstengan de lo que ha sido sacrificado a los ídolos, de sangre, de la carne de animales que han sido estrangulados y de fornicación. Si se guardan de tales cosas, harán bien. Pásenla bien».]
+
+### Hechos 15:30 {#hech-15-30}
+Οἱ μὲν οὖν ἀπολυθέντες ⸀κατῆλθον εἰς Ἀντιόχειαν, καὶ συναγαγόντες τὸ πλῆθος ἐπέδωκαν τὴν ἐπιστολήν· 
+[Así que ellos, después de ser despedidos, descendieron a Antioquía; y reuniendo a la congregación, entregaron la carta.]
+
+### Hechos 15:31 {#hech-15-31}
+ἀναγνόντες δὲ ἐχάρησαν ἐπὶ τῇ παρακλήσει. 
+[Cuando los hermanos la leyeron, se regocijaron por el consuelo que les impartía.]
+
+### Hechos 15:32 {#hech-15-32}
+Ἰούδας τε καὶ Σιλᾶς, καὶ αὐτοὶ προφῆται ὄντες, διὰ λόγου πολλοῦ παρεκάλεσαν τοὺς ἀδελφοὺς καὶ ἐπεστήριξαν· 
+[Siendo Judas y Silas también profetas, exhortaron y confortaron a los hermanos con un largo mensaje.]
+
+### Hechos 15:33 {#hech-15-33}
+ποιήσαντες δὲ χρόνον ἀπελύθησαν μετʼ εἰρήνης ἀπὸ τῶν ἀδελφῶν πρὸς τοὺς ⸂ἀποστείλαντας αὐτούς⸃. 
+[Después de pasar allí algún tiempo, fueron despedidos en paz por los hermanos para volver a aquellos que los habían enviado.]
+
+### Hechos 15:35 {#hech-15-35}
+Παῦλος δὲ καὶ Βαρναβᾶς διέτριβον ἐν Ἀντιοχείᾳ διδάσκοντες καὶ εὐαγγελιζόμενοι μετὰ καὶ ἑτέρων πολλῶν τὸν λόγον τοῦ κυρίου. 
+[También Pablo y Bernabé se quedaron en Antioquía, enseñando y proclamando con muchos otros, las buenas nuevas de la palabra del Señor.]
+
+### Hechos 15:36 {#hech-15-36}
+Μετὰ δέ τινας ἡμέρας εἶπεν ⸂πρὸς Βαρναβᾶν Παῦλος⸃· Ἐπιστρέψαντες δὴ ἐπισκεψώμεθα τοὺς ⸀ἀδελφοὺς κατὰ ⸂πόλιν πᾶσαν⸃ ἐν αἷς κατηγγείλαμεν τὸν λόγον τοῦ κυρίου, πῶς ἔχουσιν. 
+[Después de algunos días Pablo dijo a Bernabé: «Volvamos y visitemos a los hermanos en todas las ciudades donde hemos proclamado la palabra del Señor, para ver cómo están».]
+
+### Hechos 15:37 {#hech-15-37}
+Βαρναβᾶς δὲ ⸀ἐβούλετο συμπαραλαβεῖν ⸀καὶ τὸν Ἰωάννην τὸν καλούμενον Μᾶρκον· 
+[Bernabé quería llevar también con ellos a Juan, llamado Marcos,]
+
+### Hechos 15:38 {#hech-15-38}
+Παῦλος δὲ ἠξίου, τὸν ἀποστάντα ἀπʼ αὐτῶν ἀπὸ Παμφυλίας καὶ μὴ συνελθόντα αὐτοῖς εἰς τὸ ἔργον, μὴ ⸀συμπαραλαμβάνειν τοῦτον. 
+[pero Pablo consideraba que no debían llevar consigo a quien los había desertado en Panfilia y no los había acompañado en la obra.]
+
+### Hechos 15:39 {#hech-15-39}
+ἐγένετο ⸀δὲ παροξυσμὸς ὥστε ἀποχωρισθῆναι αὐτοὺς ἀπʼ ἀλλήλων, τόν τε Βαρναβᾶν παραλαβόντα τὸν Μᾶρκον ἐκπλεῦσαι εἰς Κύπρον, 
+[Se produjo un desacuerdo tan grande que se separaron el uno del otro. Bernabé tomó consigo a Marcos y se embarcó rumbo a Chipre,]
+
+### Hechos 15:40 {#hech-15-40}
+Παῦλος δὲ ἐπιλεξάμενος Σιλᾶν ἐξῆλθεν παραδοθεὶς τῇ χάριτι τοῦ ⸀κυρίου ὑπὸ τῶν ἀδελφῶν, 
+[pero Pablo escogió a Silas y partió, siendo encomendado por los hermanos a la gracia del Señor.]
+
+### Hechos 15:41 {#hech-15-41}
+διήρχετο δὲ τὴν Συρίαν καὶ ⸀τὴν Κιλικίαν ἐπιστηρίζων τὰς ἐκκλησίας. 
+[Y viajaba por Siria y Cilicia confirmando a las iglesias.]
+
+### Hechos 16:1 {#hech-16-1}
+Κατήντησεν δὲ ⸀καὶ εἰς Δέρβην καὶ ⸀εἰς Λύστραν. καὶ ἰδοὺ μαθητής τις ἦν ἐκεῖ ὀνόματι Τιμόθεος, υἱὸς ⸀γυναικὸς Ἰουδαίας πιστῆς, πατρὸς δὲ Ἕλληνος, 
+[Pablo llegó también a Derbe y a Listra. Y estaba allí cierto discípulo llamado Timoteo, hijo de una mujer judía creyente, pero de padre griego,]
+
+### Hechos 16:2 {#hech-16-2}
+ὃς ἐμαρτυρεῖτο ὑπὸ τῶν ἐν Λύστροις καὶ Ἰκονίῳ ἀδελφῶν· 
+[del cual hablaban elogiosamente los hermanos que estaban en Listra y en Iconio.]
+
+### Hechos 16:3 {#hech-16-3}
+τοῦτον ἠθέλησεν ὁ Παῦλος σὺν αὐτῷ ἐξελθεῖν, καὶ λαβὼν περιέτεμεν αὐτὸν διὰ τοὺς Ἰουδαίους τοὺς ὄντας ἐν τοῖς τόποις ἐκείνοις, ᾔδεισαν γὰρ ἅπαντες ⸂ὅτι Ἕλλην ὁ πατὴρ αὐτοῦ⸃ ὑπῆρχεν. 
+[Pablo quiso que este fuera con él, y lo tomó y lo circuncidó por causa de los judíos que había en aquellas regiones, porque todos sabían que su padre era griego.]
+
+### Hechos 16:4 {#hech-16-4}
+ὡς δὲ διεπορεύοντο τὰς πόλεις, ⸀παρεδίδοσαν αὐτοῖς φυλάσσειν τὰ δόγματα τὰ κεκριμένα ὑπὸ τῶν ἀποστόλων ⸀καὶ πρεσβυτέρων τῶν ἐν ⸀Ἱεροσολύμοις. 
+[Según pasaban por las ciudades, entregaban los acuerdos tomados por los apóstoles y los ancianos que estaban en Jerusalén, para que los observaran.]
+
+### Hechos 16:5 {#hech-16-5}
+αἱ μὲν οὖν ἐκκλησίαι ἐστερεοῦντο τῇ πίστει καὶ ἐπερίσσευον τῷ ἀριθμῷ καθʼ ἡμέραν. 
+[Así que las iglesias eran confirmadas en la fe, y diariamente crecían en número.]
+
+### Hechos 16:6 {#hech-16-6}
+⸀Διῆλθον δὲ τὴν Φρυγίαν ⸀καὶ Γαλατικὴν χώραν, κωλυθέντες ὑπὸ τοῦ ἁγίου πνεύματος λαλῆσαι τὸν λόγον ἐν τῇ Ἀσίᾳ, 
+[Pasaron por la región de Frigia y Galacia, habiendo sido impedidos por el Espíritu Santo de hablar la palabra en Asia.]
+
+### Hechos 16:7 {#hech-16-7}
+ἐλθόντες ⸀δὲ κατὰ τὴν Μυσίαν ἐπείραζον ⸀εἰς τὴν Βιθυνίαν ⸀πορευθῆναι καὶ οὐκ εἴασεν αὐτοὺς τὸ πνεῦμα ⸀Ἰησοῦ· 
+[Cuando llegaron a Misia, intentaron ir a Bitinia, pero el Espíritu de Jesús no se lo permitió.]
+
+### Hechos 16:8 {#hech-16-8}
+παρελθόντες δὲ τὴν Μυσίαν κατέβησαν εἰς Τρῳάδα. 
+[Entonces pasando por Misia, descendieron a Troas.]
+
+### Hechos 16:9 {#hech-16-9}
+καὶ ὅραμα ⸀διὰ νυκτὸς ⸂τῷ Παύλῳ ὤφθη⸃, ἀνὴρ ⸂Μακεδών τις ἦν⸃ ἑστὼς ⸀καὶ παρακαλῶν αὐτὸν καὶ λέγων· Διαβὰς εἰς Μακεδονίαν βοήθησον ἡμῖν. 
+[Por la noche se le mostró a Pablo una visión: un hombre de Macedonia estaba de pie, suplicándole: «Pasa a Macedonia y ayúdanos».]
+
+### Hechos 16:10 {#hech-16-10}
+ὡς δὲ τὸ ὅραμα εἶδεν, εὐθέως ἐζητήσαμεν ἐξελθεῖν ⸀εἰς Μακεδονίαν, συμβιβάζοντες ὅτι προσκέκληται ἡμᾶς ὁ ⸀θεὸς εὐαγγελίσασθαι αὐτούς. 
+[Cuando tuvo la visión, enseguida procuramos ir a Macedonia, persuadidos de que Dios nos había llamado para anunciarles el evangelio.]
+
+### Hechos 16:11 {#hech-16-11}
+Ἀναχθέντες ⸀οὖν ⸀ἀπὸ Τρῳάδος εὐθυδρομήσαμεν εἰς Σαμοθρᾴκην, τῇ ⸀δὲ ἐπιούσῃ εἰς ⸂Νέαν Πόλιν⸃, 
+[Así que, saliendo de Troas, navegamos con rumbo directo a Samotracia, y al día siguiente a Neápolis.]
+
+### Hechos 16:12 {#hech-16-12}
+⸀κἀκεῖθεν εἰς Φιλίππους, ἥτις ἐστὶν ⸂πρώτη τῆς μερίδος⸃ Μακεδονίας πόλις, κολωνία. ἦμεν δὲ ἐν ⸀ταύτῃ τῇ πόλει διατρίβοντες ἡμέρας τινάς. 
+[De allí fuimos a Filipos, que es una ciudad principal de la provincia de Macedonia, una colonia romana; en esta ciudad nos quedamos por varios días.]
+
+### Hechos 16:13 {#hech-16-13}
+τῇ τε ἡμέρᾳ τῶν σαββάτων ἐξήλθομεν ἔξω τῆς ⸀πύλης παρὰ ποταμὸν οὗ ⸂ἐνομίζομεν προσευχὴν⸃ εἶναι, καὶ καθίσαντες ἐλαλοῦμεν ταῖς συνελθούσαις γυναιξίν. 
+[El día de reposo salimos fuera de la puerta, a la orilla de un río, donde pensábamos que habría un lugar de oración. Nos sentamos y comenzamos a hablar a las mujeres que se habían reunido.]
+
+### Hechos 16:14 {#hech-16-14}
+καί τις γυνὴ ὀνόματι Λυδία, πορφυρόπωλις πόλεως Θυατείρων σεβομένη τὸν θεόν, ἤκουεν, ἧς ὁ κύριος διήνοιξεν τὴν καρδίαν προσέχειν τοῖς λαλουμένοις ὑπὸ ⸀τοῦ Παύλου. 
+[Y estaba escuchando cierta mujer llamada Lidia, de la ciudad de Tiatira, vendedora de telas de púrpura, que adoraba a Dios; y el Señor abrió su corazón para que recibiera lo que Pablo decía.]
+
+### Hechos 16:15 {#hech-16-15}
+ὡς δὲ ἐβαπτίσθη καὶ ὁ οἶκος αὐτῆς, παρεκάλεσεν λέγουσα· Εἰ κεκρίκατέ με πιστὴν τῷ κυρίῳ εἶναι, εἰσελθόντες εἰς τὸν οἶκόν μου ⸀μένετε· καὶ παρεβιάσατο ἡμᾶς. 
+[Cuando ella y su familia se bautizaron, nos rogó: «Si juzgan que soy fiel al Señor, vengan a mi casa y quédense en ella». Y nos persuadió a ir.]
+
+### Hechos 16:16 {#hech-16-16}
+Ἐγένετο δὲ πορευομένων ἡμῶν εἰς ⸀τὴν προσευχὴν παιδίσκην τινὰ ἔχουσαν πνεῦμα ⸀πύθωνα ⸀ὑπαντῆσαι ἡμῖν, ἥτις ἐργασίαν πολλὴν παρεῖχεν τοῖς κυρίοις αὐτῆς μαντευομένη· 
+[Mientras íbamos al lugar de oración, nos salió al encuentro una muchacha esclava que tenía espíritu de adivinación, la cual daba grandes ganancias a sus amos, adivinando.]
+
+### Hechos 16:17 {#hech-16-17}
+αὕτη ⸀κατακολουθοῦσα τῷ Παύλῳ καὶ ἡμῖν ἔκραζεν λέγουσα· Οὗτοι οἱ ἄνθρωποι δοῦλοι τοῦ θεοῦ τοῦ ὑψίστου εἰσίν, οἵτινες καταγγέλλουσιν ⸀ὑμῖν ὁδὸν σωτηρίας. 
+[Esta, siguiendo a Pablo y a nosotros, gritaba: «Estos hombres son siervos del Dios Altísimo, quienes les proclaman el camino de salvación».]
+
+### Hechos 16:18 {#hech-16-18}
+τοῦτο δὲ ἐποίει ἐπὶ πολλὰς ἡμέρας. διαπονηθεὶς ⸀δὲ Παῦλος καὶ ἐπιστρέψας τῷ πνεύματι εἶπεν· Παραγγέλλω σοι ⸀ἐν ὀνόματι Ἰησοῦ Χριστοῦ ἐξελθεῖν ἀπʼ αὐτῆς· καὶ ἐξῆλθεν αὐτῇ τῇ ὥρᾳ. 
+[Esto lo hacía por muchos días; pero desagradando esto a Pablo, se volvió y dijo al espíritu: «¡Te ordeno, en el nombre de Jesucristo, que salgas de ella!». Y el espíritu salió en aquel mismo momento.]
+
+### Hechos 16:19 {#hech-16-19}
+Ἰδόντες δὲ οἱ κύριοι αὐτῆς ὅτι ἐξῆλθεν ἡ ἐλπὶς τῆς ἐργασίας αὐτῶν ἐπιλαβόμενοι τὸν Παῦλον καὶ τὸν Σιλᾶν εἵλκυσαν εἰς τὴν ἀγορὰν ἐπὶ τοὺς ἄρχοντας, 
+[Pero cuando sus amos vieron que se les había ido la esperanza de ganancia para ellos, prendieron a Pablo y a Silas, y los arrastraron hasta la plaza, ante las autoridades.]
+
+### Hechos 16:20 {#hech-16-20}
+καὶ προσαγαγόντες αὐτοὺς τοῖς στρατηγοῖς εἶπαν· Οὗτοι οἱ ἄνθρωποι ἐκταράσσουσιν ἡμῶν τὴν πόλιν Ἰουδαῖοι ὑπάρχοντες, 
+[Después de haberlos presentado a los magistrados superiores, dijeron: «Estos hombres, siendo judíos, alborotan nuestra ciudad,]
+
+### Hechos 16:21 {#hech-16-21}
+καὶ καταγγέλλουσιν ἔθη ἃ οὐκ ἔξεστιν ἡμῖν παραδέχεσθαι οὐδὲ ποιεῖν Ῥωμαίοις οὖσιν. 
+[y proclaman costumbres que no nos es lícito aceptar ni observar, puesto que somos romanos».]
+
+### Hechos 16:22 {#hech-16-22}
+καὶ συνεπέστη ὁ ὄχλος κατʼ αὐτῶν, καὶ οἱ στρατηγοὶ περιρήξαντες αὐτῶν τὰ ἱμάτια ἐκέλευον ῥαβδίζειν, 
+[La multitud se levantó a una contra ellos, y los magistrados superiores, rasgándoles sus ropas, ordenaron que los azotaran con varas.]
+
+### Hechos 16:23 {#hech-16-23}
+πολλάς ⸀τε ἐπιθέντες αὐτοῖς πληγὰς ἔβαλον εἰς φυλακήν, παραγγείλαντες τῷ δεσμοφύλακι ἀσφαλῶς τηρεῖν αὐτούς· 
+[Después de darles muchos azotes, los echaron en la cárcel, ordenando al carcelero que los guardara con seguridad;]
+
+### Hechos 16:24 {#hech-16-24}
+ὃς παραγγελίαν τοιαύτην ⸀λαβὼν ἔβαλεν αὐτοὺς εἰς τὴν ἐσωτέραν φυλακὴν καὶ τοὺς πόδας ⸂ἠσφαλίσατο αὐτῶν⸃ εἰς τὸ ξύλον. 
+[el cual, habiendo recibido esa orden, los echó en el calabozo interior y les aseguró los pies en el cepo.]
+
+### Hechos 16:25 {#hech-16-25}
+Κατὰ δὲ τὸ μεσονύκτιον Παῦλος καὶ Σιλᾶς προσευχόμενοι ὕμνουν τὸν θεόν, ἐπηκροῶντο δὲ αὐτῶν οἱ δέσμιοι· 
+[Como a medianoche, Pablo y Silas oraban y cantaban himnos a Dios, y los presos los escuchaban.]
+
+### Hechos 16:26 {#hech-16-26}
+ἄφνω δὲ σεισμὸς ἐγένετο μέγας ὥστε σαλευθῆναι τὰ θεμέλια τοῦ δεσμωτηρίου, ἠνεῴχθησαν ⸀δὲ παραχρῆμα αἱ θύραι πᾶσαι, καὶ πάντων τὰ δεσμὰ ἀνέθη. 
+[De repente se produjo un gran terremoto, de tal manera que los cimientos de la cárcel fueron sacudidos. Al instante se abrieron todas las puertas y las cadenas de todos se soltaron.]
+
+### Hechos 16:27 {#hech-16-27}
+ἔξυπνος δὲ γενόμενος ὁ δεσμοφύλαξ καὶ ἰδὼν ἀνεῳγμένας τὰς θύρας τῆς φυλακῆς σπασάμενος ⸀τὴν μάχαιραν ἤμελλεν ἑαυτὸν ἀναιρεῖν, νομίζων ἐκπεφευγέναι τοὺς δεσμίους. 
+[Al despertar el carcelero y ver abiertas todas las puertas de la cárcel, sacó su espada y se iba a matar, creyendo que los prisioneros se habían escapado.]
+
+### Hechos 16:28 {#hech-16-28}
+ἐφώνησεν δὲ ⸂φωνῇ μεγάλῃ ὁ Παῦλος⸃ λέγων· Μηδὲν πράξῃς σεαυτῷ κακόν, ἅπαντες γάρ ἐσμεν ἐνθάδε. 
+[Pero Pablo clamó a gran voz, diciendo: «No te hagas ningún mal, pues todos estamos aquí».]
+
+### Hechos 16:29 {#hech-16-29}
+αἰτήσας δὲ φῶτα εἰσεπήδησεν καὶ ἔντρομος γενόμενος προσέπεσεν τῷ Παύλῳ καὶ ⸀τῷ Σιλᾷ, 
+[Entonces él pidió luz y se precipitó adentro, y temblando, se postró ante Pablo y Silas,]
+
+### Hechos 16:30 {#hech-16-30}
+καὶ προαγαγὼν αὐτοὺς ἔξω ἔφη· Κύριοι, τί με δεῖ ποιεῖν ἵνα σωθῶ; 
+[y después de sacarlos, dijo: «Señores, ¿qué debo hacer para ser salvo?».]
+
+### Hechos 16:31 {#hech-16-31}
+οἱ δὲ εἶπαν· Πίστευσον ἐπὶ τὸν κύριον ⸀Ἰησοῦν, καὶ σωθήσῃ σὺ καὶ ὁ οἶκός σου. 
+[Ellos respondieron: «Cree en el Señor Jesús, y serás salvo, tú y toda tu casa».]
+
+### Hechos 16:32 {#hech-16-32}
+καὶ ἐλάλησαν αὐτῷ τὸν λόγον τοῦ ⸀κυρίου ⸀σὺν πᾶσι τοῖς ἐν τῇ οἰκίᾳ αὐτοῦ. 
+[Y le hablaron la palabra del Señor a él y a todos los que estaban en su casa.]
+
+### Hechos 16:33 {#hech-16-33}
+καὶ παραλαβὼν αὐτοὺς ἐν ἐκείνῃ τῇ ὥρᾳ τῆς νυκτὸς ἔλουσεν ἀπὸ τῶν πληγῶν, καὶ ἐβαπτίσθη αὐτὸς καὶ οἱ αὐτοῦ ⸀πάντες παραχρῆμα, 
+[El carcelero los tomó en aquella misma hora de la noche y les lavó las heridas, y enseguida fue bautizado con todos los suyos.]
+
+### Hechos 16:34 {#hech-16-34}
+ἀναγαγών τε αὐτοὺς εἰς τὸν ⸀οἶκον παρέθηκεν τράπεζαν καὶ ⸀ἠγαλλιάσατο πανοικεὶ πεπιστευκὼς τῷ θεῷ. 
+[Llevándolos a su hogar, les dio de comer, y se regocijó grandemente por haber creído en Dios con todos los suyos.]
+
+### Hechos 16:35 {#hech-16-35}
+Ἡμέρας δὲ γενομένης ἀπέστειλαν οἱ στρατηγοὶ τοὺς ῥαβδούχους λέγοντες· Ἀπόλυσον τοὺς ἀνθρώπους ἐκείνους. 
+[Cuando se hizo de día, los magistrados superiores enviaron a sus oficiales, diciendo: «Suelta a esos hombres».]
+
+### Hechos 16:36 {#hech-16-36}
+ἀπήγγειλεν δὲ ὁ δεσμοφύλαξ τοὺς λόγους ⸀τούτους πρὸς τὸν Παῦλον, ὅτι Ἀπέσταλκαν οἱ στρατηγοὶ ἵνα ἀπολυθῆτε· νῦν οὖν ἐξελθόντες πορεύεσθε ἐν εἰρήνῃ. 
+[El carcelero comunicó a Pablo estas palabras, diciendo: «Los magistrados superiores han dado orden de que les suelte. Así que, salgan ahora y vayan en paz».]
+
+### Hechos 16:37 {#hech-16-37}
+ὁ δὲ Παῦλος ἔφη πρὸς αὐτούς· Δείραντες ἡμᾶς δημοσίᾳ ἀκατακρίτους, ἀνθρώπους Ῥωμαίους ὑπάρχοντας, ἔβαλαν εἰς φυλακήν· καὶ νῦν λάθρᾳ ἡμᾶς ἐκβάλλουσιν; οὐ γάρ, ἀλλὰ ἐλθόντες αὐτοὶ ⸀ἡμᾶς ἐξαγαγέτωσαν. 
+[Pero Pablo les dijo: «Aunque somos ciudadanos romanos, nos han azotado públicamente sin hacernos juicio y nos han echado a la cárcel; ¿y ahora nos sueltan en secreto? ¡De ninguna manera! Que ellos mismos vengan a sacarnos».]
+
+### Hechos 16:38 {#hech-16-38}
+⸀ἀπήγγειλαν δὲ τοῖς στρατηγοῖς οἱ ῥαβδοῦχοι τὰ ῥήματα ταῦτα· ⸂ἐφοβήθησαν δὲ⸃ ἀκούσαντες ὅτι Ῥωμαῖοί εἰσιν, 
+[Los oficiales informaron esto a los magistrados superiores, y al saber que eran ciudadanos romanos, tuvieron temor.]
+
+### Hechos 16:39 {#hech-16-39}
+καὶ ἐλθόντες παρεκάλεσαν αὐτούς, καὶ ἐξαγαγόντες ἠρώτων ⸂ἀπελθεῖν ἀπὸ⸃ τῆς πόλεως. 
+[Entonces vinieron y les suplicaron, y después de sacarlos, les rogaban que salieran de la ciudad.]
+
+### Hechos 16:40 {#hech-16-40}
+ἐξελθόντες δὲ ⸀ἀπὸ τῆς φυλακῆς εἰσῆλθον πρὸς τὴν Λυδίαν, καὶ ἰδόντες ⸂παρεκάλεσαν τοὺς ἀδελφοὺς⸃ καὶ ἐξῆλθαν. 
+[Cuando salieron de la cárcel, fueron a casa de Lidia, y al ver a los hermanos, los consolaron y se fueron.]
+
+### Hechos 17:1 {#hech-17-1}
+Διοδεύσαντες δὲ τὴν Ἀμφίπολιν καὶ ⸀τὴν Ἀπολλωνίαν ἦλθον εἰς Θεσσαλονίκην, ὅπου ⸀ἦν συναγωγὴ τῶν Ἰουδαίων. 
+[Después de pasar por Anfípolis y Apolonia, Pablo y Silas llegaron a Tesalónica, donde había una sinagoga de los judíos.]
+
+### Hechos 17:2 {#hech-17-2}
+κατὰ δὲ τὸ εἰωθὸς τῷ Παύλῳ εἰσῆλθεν πρὸς αὐτοὺς καὶ ἐπὶ σάββατα τρία διελέξατο αὐτοῖς ἀπὸ τῶν γραφῶν, 
+[Y Pablo, entró según su costumbre, y por tres días de reposo discutió con ellos basándose en las Escrituras,]
+
+### Hechos 17:3 {#hech-17-3}
+διανοίγων καὶ παρατιθέμενος ὅτι τὸν χριστὸν ἔδει παθεῖν καὶ ἀναστῆναι ἐκ νεκρῶν, καὶ ὅτι οὗτός ἐστιν ⸂ὁ χριστός, ὁ⸃ Ἰησοῦς ὃν ἐγὼ καταγγέλλω ὑμῖν. 
+[explicando y presentando evidencia de que era necesario que el Cristo padeciera y resucitara de entre los muertos, y diciendo: «Este Jesús, a quien yo les anuncio, es el Cristo».]
+
+### Hechos 17:4 {#hech-17-4}
+καί τινες ἐξ αὐτῶν ἐπείσθησαν καὶ προσεκληρώθησαν τῷ Παύλῳ καὶ τῷ Σιλᾷ, τῶν τε σεβομένων Ἑλλήνων ⸂πλῆθος πολὺ⸃ γυναικῶν τε τῶν πρώτων οὐκ ὀλίγαι. 
+[Algunos de ellos creyeron, y se unieron a Pablo y a Silas, junto con una gran multitud de griegos temerosos de Dios y muchas de las mujeres principales.]
+
+### Hechos 17:5 {#hech-17-5}
+⸂ζηλώσαντες δὲ οἱ Ἰουδαῖοι καὶ προσλαβόμενοι⸃ τῶν ἀγοραίων ⸂ἄνδρας τινὰς⸃ πονηροὺς καὶ ὀχλοποιήσαντες ἐθορύβουν τὴν πόλιν, ⸂καὶ ἐπιστάντες⸃ τῇ οἰκίᾳ Ἰάσονος ἐζήτουν αὐτοὺς ⸀προαγαγεῖν εἰς τὸν δῆμον· 
+[Pero los judíos, llenos de envidia, llevaron algunos hombres malvados de la plaza pública, organizaron una turba y alborotaron la ciudad. Asaltando la casa de Jasón, procuraban sacarlos al pueblo.]
+
+### Hechos 17:6 {#hech-17-6}
+μὴ εὑρόντες δὲ αὐτοὺς ⸀ἔσυρον Ἰάσονα καί τινας ἀδελφοὺς ἐπὶ τοὺς πολιτάρχας, βοῶντες ὅτι Οἱ τὴν οἰκουμένην ἀναστατώσαντες οὗτοι καὶ ἐνθάδε πάρεισιν, 
+[Al no encontrarlos, arrastraron a Jasón y a algunos de los hermanos ante las autoridades de la ciudad, gritando: «Esos que han trastornado al mundo han venido acá también;]
+
+### Hechos 17:7 {#hech-17-7}
+οὓς ὑποδέδεκται Ἰάσων· καὶ οὗτοι πάντες ἀπέναντι τῶν δογμάτων Καίσαρος πράσσουσι, βασιλέα ⸂ἕτερον λέγοντες⸃ εἶναι Ἰησοῦν. 
+[y Jasón los ha recibido. Todos ellos actúan contra los decretos de César, diciendo que hay otro rey, Jesús».]
+
+### Hechos 17:8 {#hech-17-8}
+ἐτάραξαν δὲ τὸν ὄχλον καὶ τοὺς πολιτάρχας ἀκούοντας ταῦτα, 
+[Y alborotaron a la multitud y a las autoridades de la ciudad que oían esto.]
+
+### Hechos 17:9 {#hech-17-9}
+καὶ λαβόντες τὸ ἱκανὸν παρὰ τοῦ Ἰάσονος καὶ τῶν λοιπῶν ἀπέλυσαν αὐτούς. 
+[Pero después de recibir una fianza de Jasón y de los otros, los soltaron.]
+
+### Hechos 17:10 {#hech-17-10}
+Οἱ δὲ ἀδελφοὶ εὐθέως ⸀διὰ νυκτὸς ἐξέπεμψαν τόν τε Παῦλον καὶ τὸν Σιλᾶν εἰς Βέροιαν, οἵτινες παραγενόμενοι εἰς τὴν συναγωγὴν ⸂τῶν Ἰουδαίων ἀπῄεσαν⸃· 
+[Enseguida los hermanos enviaron de noche a Pablo y a Silas a Berea, los cuales, al llegar, fueron a la sinagoga de los judíos.]
+
+### Hechos 17:11 {#hech-17-11}
+οὗτοι δὲ ἦσαν εὐγενέστεροι τῶν ἐν Θεσσαλονίκῃ, οἵτινες ἐδέξαντο τὸν λόγον μετὰ πάσης προθυμίας, ⸀τὸ καθʼ ἡμέραν ἀνακρίνοντες τὰς γραφὰς εἰ ἔχοι ταῦτα οὕτως. 
+[Estos eran más nobles que los de Tesalónica, pues recibieron la palabra con toda solicitud, escudriñando diariamente las Escrituras, para ver si estas cosas eran así.]
+
+### Hechos 17:12 {#hech-17-12}
+πολλοὶ μὲν οὖν ἐξ αὐτῶν ἐπίστευσαν, καὶ τῶν Ἑλληνίδων γυναικῶν τῶν εὐσχημόνων καὶ ἀνδρῶν οὐκ ὀλίγοι. 
+[Por eso muchos de ellos creyeron, así como también un buen número de griegos, hombres y mujeres de distinción.]
+
+### Hechos 17:13 {#hech-17-13}
+ὡς δὲ ἔγνωσαν οἱ ἀπὸ τῆς Θεσσαλονίκης Ἰουδαῖοι ὅτι καὶ ἐν τῇ Βεροίᾳ κατηγγέλη ὑπὸ τοῦ Παύλου ὁ λόγος τοῦ θεοῦ, ἦλθον κἀκεῖ σαλεύοντες ⸂καὶ ταράσσοντες⸃ τοὺς ὄχλους. 
+[Pero cuando los judíos de Tesalónica supieron que la palabra de Dios había sido proclamada por Pablo también en Berea, fueron también allá para agitar y alborotar a las multitudes.]
+
+### Hechos 17:14 {#hech-17-14}
+εὐθέως δὲ τότε τὸν Παῦλον ἐξαπέστειλαν οἱ ἀδελφοὶ πορεύεσθαι ⸀ἕως ἐπὶ τὴν θάλασσαν· ⸂ὑπέμεινάν τε⸃ ὅ τε Σιλᾶς καὶ ὁ Τιμόθεος ἐκεῖ. 
+[Entonces los hermanos inmediatamente enviaron a Pablo para que fuera hasta el mar; pero Silas y Timoteo se quedaron allí.]
+
+### Hechos 17:15 {#hech-17-15}
+οἱ δὲ ⸀καθιστάνοντες τὸν Παῦλον ⸀ἤγαγον ἕως Ἀθηνῶν, καὶ λαβόντες ἐντολὴν πρὸς τὸν Σιλᾶν καὶ ⸀τὸν Τιμόθεον ἵνα ὡς τάχιστα ἔλθωσιν πρὸς αὐτὸν ἐξῄεσαν. 
+[Los que conducían a Pablo lo llevaron hasta Atenas; y después de recibir órdenes de que Silas y Timoteo se unieran a él lo más pronto posible, se fueron.]
+
+### Hechos 17:16 {#hech-17-16}
+Ἐν δὲ ταῖς Ἀθήναις ἐκδεχομένου αὐτοὺς τοῦ Παύλου, παρωξύνετο τὸ πνεῦμα αὐτοῦ ἐν αὐτῷ ⸀θεωροῦντος κατείδωλον οὖσαν τὴν πόλιν. 
+[Mientras Pablo los esperaba en Atenas, su espíritu se enardecía dentro de él al contemplar la ciudad llena de ídolos.]
+
+### Hechos 17:17 {#hech-17-17}
+διελέγετο μὲν οὖν ἐν τῇ συναγωγῇ τοῖς Ἰουδαίοις καὶ τοῖς σεβομένοις καὶ ἐν τῇ ἀγορᾷ κατὰ πᾶσαν ἡμέραν πρὸς τοὺς παρατυγχάνοντας. 
+[Así que discutía en la sinagoga con los judíos y con los gentiles temerosos de Dios, y diariamente en la plaza con los que estuvieran presentes.]
+
+### Hechos 17:18 {#hech-17-18}
+τινὲς δὲ καὶ τῶν Ἐπικουρείων ⸀καὶ Στοϊκῶν φιλοσόφων συνέβαλλον αὐτῷ, καί τινες ἔλεγον· Τί ἂν θέλοι ὁ σπερμολόγος οὗτος λέγειν; οἱ δέ· Ξένων δαιμονίων δοκεῖ καταγγελεὺς εἶναι· ὅτι τὸν Ἰησοῦν καὶ τὴν ἀνάστασιν εὐηγγελίζετο. 
+[También discutían con él algunos de los filósofos epicúreos y estoicos. Y algunos decían: «¿Qué quiere decir este palabrero?». «Parece ser un predicador de divinidades extrañas», decían otros; porque les predicaba a Jesús y la resurrección.]
+
+### Hechos 17:19 {#hech-17-19}
+ἐπιλαβόμενοί ⸀τε αὐτοῦ ἐπὶ τὸν Ἄρειον Πάγον ἤγαγον, λέγοντες· Δυνάμεθα γνῶναι τίς ἡ καινὴ αὕτη ἡ ὑπὸ σοῦ λαλουμένη διδαχή; 
+[Entonces tomaron a Pablo y lo llevaron al Areópago, diciendo: «¿Podemos saber qué es esta nueva enseñanza que usted proclama?]
+
+### Hechos 17:20 {#hech-17-20}
+ξενίζοντα γάρ τινα εἰσφέρεις εἰς τὰς ἀκοὰς ἡμῶν· βουλόμεθα οὖν γνῶναι ⸂τίνα θέλει⸃ ταῦτα εἶναι. 
+[Porque le oímos decir cosas extrañas; por tanto, queremos saber qué significan».]
+
+### Hechos 17:21 {#hech-17-21}
+Ἀθηναῖοι δὲ πάντες καὶ οἱ ἐπιδημοῦντες ξένοι εἰς οὐδὲν ἕτερον ηὐκαίρουν ἢ λέγειν τι ⸀ἢ ἀκούειν ⸀τι καινότερον. 
+[Pues todos los atenienses y los extranjeros de visita allí, no pasaban el tiempo en otra cosa sino en decir o en oír algo nuevo.]
+
+### Hechos 17:22 {#hech-17-22}
+Σταθεὶς ⸀δὲ Παῦλος ἐν μέσῳ τοῦ Ἀρείου Πάγου ἔφη· Ἄνδρες Ἀθηναῖοι, κατὰ πάντα ὡς δεισιδαιμονεστέρους ὑμᾶς θεωρῶ· 
+[Entonces Pablo poniéndose en pie en medio del Areópago, dijo: «Varones atenienses, percibo que ustedes son muy religiosos en todo sentido.]
+
+### Hechos 17:23 {#hech-17-23}
+διερχόμενος γὰρ καὶ ἀναθεωρῶν τὰ σεβάσματα ὑμῶν εὗρον καὶ βωμὸν ἐν ᾧ ἐπεγέγραπτο· Ἀγνώστῳ θεῷ. ⸀ὃ οὖν ἀγνοοῦντες εὐσεβεῖτε, ⸀τοῦτο ἐγὼ καταγγέλλω ὑμῖν. 
+[Porque mientras pasaba y observaba los objetos de su adoración, hallé también un altar con esta inscripción: “AL DIOS DESCONOCIDO”. Pues lo que ustedes adoran sin conocer, eso les anuncio yo.]
+
+### Hechos 17:24 {#hech-17-24}
+ὁ θεὸς ὁ ποιήσας τὸν κόσμον καὶ πάντα τὰ ἐν αὐτῷ, οὗτος οὐρανοῦ καὶ γῆς ⸂ὑπάρχων κύριος⸃ οὐκ ἐν χειροποιήτοις ναοῖς κατοικεῖ 
+[»El Dios que hizo el mundo y todo lo que en él hay, puesto que es Señor del cielo y de la tierra, no mora en templos hechos por manos de hombres,]
+
+### Hechos 17:25 {#hech-17-25}
+οὐδὲ ὑπὸ χειρῶν ⸀ἀνθρωπίνων θεραπεύεται προσδεόμενός τινος, αὐτὸς διδοὺς πᾶσι ζωὴν καὶ πνοὴν ⸂καὶ τὰ⸃ πάντα· 
+[ni es servido por manos humanas, como si necesitara de algo, puesto que Él da a todos vida y aliento y todas las cosas.]
+
+### Hechos 17:26 {#hech-17-26}
+ἐποίησέν τε ἐξ ⸀ἑνὸς πᾶν ἔθνος ἀνθρώπων κατοικεῖν ἐπὶ ⸂παντὸς προσώπου⸃ τῆς γῆς, ὁρίσας προστεταγμένους καιροὺς καὶ τὰς ὁροθεσίας τῆς κατοικίας αὐτῶν, 
+[»De uno solo, Dios hizo todas las naciones del mundo para que habitaran sobre toda la superficie de la tierra, habiendo determinado sus tiempos y las fronteras de los lugares donde viven,]
+
+### Hechos 17:27 {#hech-17-27}
+ζητεῖν τὸν ⸀θεὸν εἰ ἄρα γε ψηλαφήσειαν αὐτὸν καὶ εὕροιεν, καί γε οὐ μακρὰν ἀπὸ ἑνὸς ἑκάστου ἡμῶν ὑπάρχοντα. 
+[para que buscaran a Dios, y de alguna manera, palpando, lo hallen, aunque Él no está lejos de ninguno de nosotros.]
+
+### Hechos 17:28 {#hech-17-28}
+ἐν αὐτῷ γὰρ ζῶμεν καὶ κινούμεθα καὶ ἐσμέν, ὡς καί τινες τῶν καθʼ ὑμᾶς ποιητῶν εἰρήκασιν· Τοῦ γὰρ καὶ γένος ἐσμέν. 
+[Porque en Él vivimos, nos movemos y existimos, así como algunos de los poetas de ustedes han dicho: “Porque también nosotros somos linaje Suyo”.]
+
+### Hechos 17:29 {#hech-17-29}
+γένος οὖν ὑπάρχοντες τοῦ θεοῦ οὐκ ὀφείλομεν νομίζειν χρυσῷ ἢ ἀργύρῳ ἢ λίθῳ, χαράγματι τέχνης καὶ ἐνθυμήσεως ἀνθρώπου, τὸ θεῖον εἶναι ὅμοιον. 
+[»Siendo, pues, linaje de Dios, no debemos pensar que la Naturaleza Divina sea semejante a oro, plata o piedra, esculpidos por el arte y el pensamiento humano.]
+
+### Hechos 17:30 {#hech-17-30}
+τοὺς μὲν οὖν χρόνους τῆς ἀγνοίας ὑπεριδὼν ὁ θεὸς τὰ νῦν ⸀παραγγέλλει τοῖς ἀνθρώποις ⸀πάντας πανταχοῦ μετανοεῖν, 
+[Por tanto, habiendo pasado por alto los tiempos de ignorancia, Dios declara ahora a todos los hombres, en todas partes, que se arrepientan.]
+
+### Hechos 17:31 {#hech-17-31}
+⸀καθότι ἔστησεν ἡμέραν ἐν ᾗ μέλλει κρίνειν τὴν οἰκουμένην ἐν δικαιοσύνῃ ἐν ἀνδρὶ ᾧ ὥρισεν, πίστιν παρασχὼν πᾶσιν ἀναστήσας αὐτὸν ἐκ νεκρῶν. 
+[Porque Él ha establecido un día en el cual juzgará al mundo en justicia, por medio de un Hombre a quien Él ha designado, habiendo presentado pruebas a todos los hombres cuando lo resucitó de entre los muertos».]
+
+### Hechos 17:32 {#hech-17-32}
+Ἀκούσαντες δὲ ἀνάστασιν νεκρῶν οἱ μὲν ἐχλεύαζον οἱ δὲ εἶπαν Ἀκουσόμεθά σου ⸂περὶ τούτου καὶ πάλιν⸃. 
+[Cuando oyeron de la resurrección de los muertos, algunos se burlaban, pero otros dijeron: «Le escucharemos otra vez acerca de esto».]
+
+### Hechos 17:33 {#hech-17-33}
+⸀οὕτως ὁ Παῦλος ἐξῆλθεν ἐκ μέσου αὐτῶν· 
+[Entonces Pablo salió de entre ellos.]
+
+### Hechos 17:34 {#hech-17-34}
+τινὲς δὲ ἄνδρες κολληθέντες αὐτῷ ἐπίστευσαν, ἐν οἷς καὶ Διονύσιος ὁ Ἀρεοπαγίτης καὶ γυνὴ ὀνόματι Δάμαρις καὶ ἕτεροι σὺν αὐτοῖς. 
+[Pero algunos se unieron a él y creyeron, entre los cuales estaban Dionisio el areopagita, una mujer llamada Dámaris y otros con ellos.]
+
+### Hechos 18:1 {#hech-18-1}
+⸀Μετὰ ταῦτα ⸀χωρισθεὶς ἐκ τῶν Ἀθηνῶν ἦλθεν εἰς Κόρινθον. 
+[Después de esto Pablo salió de Atenas y fue a Corinto.]
+
+### Hechos 18:2 {#hech-18-2}
+καὶ εὑρών τινα Ἰουδαῖον ὀνόματι Ἀκύλαν, Ποντικὸν τῷ γένει, προσφάτως ἐληλυθότα ἀπὸ τῆς Ἰταλίας καὶ Πρίσκιλλαν γυναῖκα αὐτοῦ διὰ τὸ ⸀διατεταχέναι Κλαύδιον χωρίζεσθαι πάντας τοὺς Ἰουδαίους ⸀ἀπὸ τῆς Ῥώμης, προσῆλθεν αὐτοῖς, 
+[Allí se encontró con un judío que se llamaba Aquila, natural del Ponto, quien acababa de llegar de Italia con Priscila su mujer, pues el emperador Claudio había ordenado a todos los judíos que salieran de Roma. Pablo fue a verlos,]
+
+### Hechos 18:3 {#hech-18-3}
+καὶ διὰ τὸ ὁμότεχνον εἶναι ἔμενεν παρʼ αὐτοῖς καὶ ⸀ἠργάζετο, ἦσαν γὰρ σκηνοποιοὶ ⸂τῇ τέχνῃ⸃. 
+[y como él era del mismo oficio, se quedó con ellos y trabajaban juntos, pues el oficio de ellos era hacer tiendas de campaña.]
+
+### Hechos 18:4 {#hech-18-4}
+διελέγετο δὲ ἐν τῇ συναγωγῇ κατὰ πᾶν σάββατον, ἔπειθέν τε Ἰουδαίους καὶ Ἕλληνας. 
+[Y discutía en la sinagoga todos los días de reposo, tratando de persuadir a judíos y a griegos.]
+
+### Hechos 18:5 {#hech-18-5}
+Ὡς δὲ κατῆλθον ἀπὸ τῆς Μακεδονίας ὅ τε Σιλᾶς καὶ ὁ Τιμόθεος, συνείχετο τῷ ⸀λόγῳ ὁ Παῦλος, διαμαρτυρόμενος τοῖς Ἰουδαίοις ⸀εἶναι τὸν χριστὸν Ἰησοῦν. 
+[Cuando Silas y Timoteo llegaron de Macedonia, Pablo comenzó a dedicarse por completo a la predicación de la palabra, testificando solemnemente a los judíos que Jesús era el Cristo.]
+
+### Hechos 18:6 {#hech-18-6}
+ἀντιτασσομένων δὲ αὐτῶν καὶ βλασφημούντων ἐκτιναξάμενος τὰ ἱμάτια εἶπεν πρὸς αὐτούς· Τὸ αἷμα ὑμῶν ἐπὶ τὴν κεφαλὴν ὑμῶν· καθαρὸς ἐγώ· ἀπὸ τοῦ νῦν εἰς τὰ ἔθνη πορεύσομαι. 
+[Pero cuando los judíos se le opusieron y blasfemaron, él sacudió sus ropas y les dijo: «Su sangre sea sobre sus cabezas; yo soy limpio; desde ahora me iré a los gentiles».]
+
+### Hechos 18:7 {#hech-18-7}
+καὶ μεταβὰς ἐκεῖθεν ⸀εἰσῆλθεν εἰς οἰκίαν τινὸς ὀνόματι ⸀Τιτίου Ἰούστου σεβομένου τὸν θεόν, οὗ ἡ οἰκία ἦν συνομοροῦσα τῇ συναγωγῇ. 
+[Partiendo de allí, se fue a la casa de un hombre llamado Ticio Justo, que adoraba a Dios, cuya casa estaba junto a la sinagoga.]
+
+### Hechos 18:8 {#hech-18-8}
+Κρίσπος δὲ ὁ ἀρχισυνάγωγος ἐπίστευσεν τῷ κυρίῳ σὺν ὅλῳ τῷ οἴκῳ αὐτοῦ, καὶ πολλοὶ τῶν Κορινθίων ἀκούοντες ἐπίστευον καὶ ἐβαπτίζοντο. 
+[Crispo, el oficial de la sinagoga, creyó en el Señor con toda su casa. También muchos de los corintios, al oír, creían y eran bautizados.]
+
+### Hechos 18:9 {#hech-18-9}
+εἶπεν δὲ ὁ κύριος ⸂ἐν νυκτὶ διʼ ὁράματος⸃ τῷ Παύλῳ· Μὴ φοβοῦ, ἀλλὰ λάλει καὶ μὴ σιωπήσῃς, 
+[Por medio de una visión durante la noche, el Señor dijo a Pablo: «No temas, sigue hablando y no calles;]
+
+### Hechos 18:10 {#hech-18-10}
+διότι ἐγώ εἰμι μετὰ σοῦ καὶ οὐδεὶς ἐπιθήσεταί σοι τοῦ κακῶσαί σε, διότι λαός ἐστί μοι πολὺς ἐν τῇ πόλει ταύτῃ. 
+[porque Yo estoy contigo, y nadie te atacará para hacerte daño, porque Yo tengo mucha gente en esta ciudad».]
+
+### Hechos 18:11 {#hech-18-11}
+ἐκάθισεν ⸀δὲ ἐνιαυτὸν καὶ μῆνας ἓξ διδάσκων ἐν αὐτοῖς τὸν λόγον τοῦ θεοῦ. 
+[Entonces Pablo se quedó allí un año y seis meses, enseñando la palabra de Dios entre ellos.]
+
+### Hechos 18:12 {#hech-18-12}
+Γαλλίωνος δὲ ⸂ἀνθυπάτου ὄντος⸃ τῆς Ἀχαΐας κατεπέστησαν ⸂ὁμοθυμαδὸν οἱ Ἰουδαῖοι⸃ τῷ Παύλῳ καὶ ἤγαγον αὐτὸν ἐπὶ τὸ βῆμα, 
+[Pero siendo Galión procónsul de Acaya, los judíos se levantaron a una contra Pablo y lo trajeron ante el tribunal.]
+
+### Hechos 18:13 {#hech-18-13}
+λέγοντες ὅτι Παρὰ τὸν νόμον ⸂ἀναπείθει οὗτος⸃ τοὺς ἀνθρώπους σέβεσθαι τὸν θεόν. 
+[«Este persuade a los hombres a que adoren a Dios en forma contraria a la ley», dijeron ellos.]
+
+### Hechos 18:14 {#hech-18-14}
+μέλλοντος δὲ τοῦ Παύλου ἀνοίγειν τὸ στόμα εἶπεν ὁ Γαλλίων πρὸς τοὺς Ἰουδαίους· Εἰ ⸀μὲν ἦν ἀδίκημά τι ἢ ῥᾳδιούργημα πονηρόν, ὦ Ἰουδαῖοι, κατὰ λόγον ἂν ἀνεσχόμην ὑμῶν· 
+[Cuando Pablo iba a hablar, Galión dijo a los judíos: «Si fuera cuestión de una injusticia o de un crimen depravado, oh judíos, yo les toleraría, como sería razonable.]
+
+### Hechos 18:15 {#hech-18-15}
+εἰ δὲ ⸀ζητήματά ἐστιν περὶ λόγου καὶ ὀνομάτων καὶ νόμου τοῦ καθʼ ὑμᾶς, ὄψεσθε αὐτοί· ⸀κριτὴς ἐγὼ τούτων οὐ βούλομαι εἶναι. 
+[Pero si son cuestiones de palabras y nombres, y de su propia ley, allá ustedes; yo no estoy dispuesto a ser juez de estas cosas».]
+
+### Hechos 18:16 {#hech-18-16}
+καὶ ἀπήλασεν αὐτοὺς ἀπὸ τοῦ βήματος. 
+[Y los echó del tribunal.]
+
+### Hechos 18:17 {#hech-18-17}
+ἐπιλαβόμενοι δὲ ⸀πάντες Σωσθένην τὸν ἀρχισυνάγωγον ἔτυπτον ἔμπροσθεν τοῦ βήματος· καὶ οὐδὲν τούτων τῷ Γαλλίωνι ⸀ἔμελεν. 
+[Entonces todos ellos agarraron a Sóstenes, el oficial de la sinagoga, y lo golpeaban frente al tribunal, pero Galión no hacía caso de nada de esto.]
+
+### Hechos 18:18 {#hech-18-18}
+Ὁ δὲ Παῦλος ἔτι προσμείνας ἡμέρας ἱκανὰς τοῖς ἀδελφοῖς ἀποταξάμενος ἐξέπλει εἰς τὴν Συρίαν, καὶ σὺν αὐτῷ Πρίσκιλλα καὶ Ἀκύλας, κειράμενος ⸂ἐν Κεγχρεαῖς τὴν κεφαλήν⸃, εἶχεν γὰρ εὐχήν. 
+[Pablo, después de quedarse muchos días más, se despidió de los hermanos y se embarcó hacia Siria, y con él iban Priscila y Aquila. Y en Cencrea se hizo cortar el cabello, porque tenía hecho un voto.]
+
+### Hechos 18:19 {#hech-18-19}
+⸀κατήντησαν δὲ εἰς Ἔφεσον, κἀκείνους κατέλιπεν αὐτοῦ, αὐτὸς δὲ εἰσελθὼν εἰς τὴν συναγωγὴν ⸀διελέξατο τοῖς Ἰουδαίοις. 
+[Llegaron a Éfeso y dejó allí a Priscila y Aquila. Y entrando Pablo a la sinagoga, discutía con los judíos.]
+
+### Hechos 18:20 {#hech-18-20}
+ἐρωτώντων δὲ αὐτῶν ἐπὶ πλείονα χρόνον ⸀μεῖναι οὐκ ἐπένευσεν, 
+[Cuando le rogaron que se quedara más tiempo, no consintió,]
+
+### Hechos 18:21 {#hech-18-21}
+⸂ἀλλὰ ἀποταξάμενος καὶ⸃ ⸀εἰπών· ⸀Πάλιν ἀνακάμψω πρὸς ὑμᾶς τοῦ θεοῦ θέλοντος ἀνήχθη ἀπὸ τῆς Ἐφέσου, 
+[sino que se despidió de ellos, diciendo: «Volveré a ustedes otra vez, si Dios quiere». Y embarcándose, se fue de Éfeso.]
+
+### Hechos 18:22 {#hech-18-22}
+καὶ κατελθὼν εἰς Καισάρειαν, ἀναβὰς καὶ ἀσπασάμενος τὴν ἐκκλησίαν, κατέβη εἰς Ἀντιόχειαν, 
+[Al llegar a Cesarea, subió a Jerusalén para saludar a la iglesia, y luego descendió a Antioquía.]
+
+### Hechos 18:23 {#hech-18-23}
+καὶ ποιήσας χρόνον τινὰ ἐξῆλθεν, διερχόμενος καθεξῆς τὴν Γαλατικὴν χώραν καὶ Φρυγίαν, ⸀στηρίζων πάντας τοὺς μαθητάς. 
+[Después de pasar allí algún tiempo, Pablo fue recorriendo por orden la región de Galacia y de Frigia, fortaleciendo a todos los discípulos.]
+
+### Hechos 18:24 {#hech-18-24}
+Ἰουδαῖος δέ τις Ἀπολλῶς ὀνόματι, Ἀλεξανδρεὺς τῷ γένει, ἀνὴρ λόγιος, κατήντησεν εἰς Ἔφεσον, δυνατὸς ὢν ἐν ταῖς γραφαῖς. 
+[Llegó entonces a Éfeso un judío que se llamaba Apolos, natural de Alejandría, hombre elocuente, y que era poderoso en las Escrituras.]
+
+### Hechos 18:25 {#hech-18-25}
+οὗτος ἦν κατηχημένος τὴν ὁδὸν τοῦ κυρίου, καὶ ζέων τῷ πνεύματι ἐλάλει καὶ ἐδίδασκεν ἀκριβῶς τὰ περὶ τοῦ ⸀Ἰησοῦ, ἐπιστάμενος μόνον τὸ βάπτισμα Ἰωάννου. 
+[Este había sido instruido en el camino del Señor, y siendo ferviente de espíritu, hablaba y enseñaba con exactitud las cosas referentes a Jesús, aunque solo conocía el bautismo de Juan.]
+
+### Hechos 18:26 {#hech-18-26}
+οὗτός τε ἤρξατο παρρησιάζεσθαι ἐν τῇ συναγωγῇ· ἀκούσαντες δὲ αὐτοῦ ⸂Πρίσκιλλα καὶ Ἀκύλας⸃ προσελάβοντο αὐτὸν καὶ ἀκριβέστερον αὐτῷ ἐξέθεντο τὴν ⸂ὁδὸν τοῦ θεοῦ⸃. 
+[Y comenzó a hablar abiertamente en la sinagoga. Pero cuando Priscila y Aquila lo oyeron, lo llevaron aparte y le explicaron con mayor exactitud el camino de Dios.]
+
+### Hechos 18:27 {#hech-18-27}
+βουλομένου δὲ αὐτοῦ διελθεῖν εἰς τὴν Ἀχαΐαν προτρεψάμενοι οἱ ἀδελφοὶ ἔγραψαν τοῖς μαθηταῖς ἀποδέξασθαι αὐτόν· ὃς παραγενόμενος συνεβάλετο πολὺ τοῖς πεπιστευκόσιν διὰ τῆς χάριτος· 
+[Cuando Apolos quiso pasar a Acaya, los hermanos lo animaron, y escribieron a los discípulos que lo recibieran. Cuando llegó, ayudó mucho a los que por la gracia habían creído,]
+
+### Hechos 18:28 {#hech-18-28}
+εὐτόνως γὰρ τοῖς Ἰουδαίοις διακατηλέγχετο δημοσίᾳ ἐπιδεικνὺς διὰ τῶν γραφῶν εἶναι τὸν χριστὸν Ἰησοῦν. 
+[porque refutaba vigorosamente en público a los judíos, demostrando por las Escrituras que Jesús era el Cristo.]
+
+### Hechos 19:1 {#hech-19-1}
+Ἐγένετο δὲ ἐν τῷ τὸν Ἀπολλῶ εἶναι ἐν Κορίνθῳ Παῦλον διελθόντα τὰ ἀνωτερικὰ μέρη ⸀ἐλθεῖν εἰς Ἔφεσον καὶ ⸀εὑρεῖν τινας μαθητάς, 
+[Mientras Apolos estaba en Corinto, Pablo, después de haber recorrido las regiones superiores, llegó a Éfeso y encontró a algunos discípulos,]
+
+### Hechos 19:2 {#hech-19-2}
+εἶπέν ⸀τε πρὸς αὐτούς· Εἰ πνεῦμα ἅγιον ἐλάβετε πιστεύσαντες; οἱ ⸀δὲ πρὸς αὐτόν· Ἀλλʼ οὐδʼ εἰ πνεῦμα ἅγιον ἔστιν ἠκούσαμεν. 
+[y les preguntó: «¿Recibieron el Espíritu Santo cuando creyeron?». Ellos le respondieron: «No, ni siquiera hemos oído si hay un Espíritu Santo».]
+
+### Hechos 19:3 {#hech-19-3}
+εἶπέν ⸀τε· Εἰς τί οὖν ἐβαπτίσθητε; οἱ δὲ εἶπαν· Εἰς τὸ Ἰωάννου βάπτισμα. 
+[Entonces Pablo les preguntó: «¿En qué bautismo, pues, fueron bautizados?». «En el bautismo de Juan», contestaron ellos.]
+
+### Hechos 19:4 {#hech-19-4}
+εἶπεν δὲ Παῦλος· ⸀Ἰωάννης ἐβάπτισεν βάπτισμα μετανοίας, τῷ λαῷ λέγων εἰς τὸν ἐρχόμενον μετʼ αὐτὸν ἵνα πιστεύσωσιν, τοῦτʼ ἔστιν εἰς ⸀τὸν Ἰησοῦν. 
+[Y Pablo les dijo: «Juan bautizó con el bautismo de arrepentimiento, diciendo al pueblo que creyeran en Aquel que vendría después de él, es decir, en Jesús».]
+
+### Hechos 19:5 {#hech-19-5}
+ἀκούσαντες δὲ ἐβαπτίσθησαν εἰς τὸ ὄνομα τοῦ κυρίου Ἰησοῦ· 
+[Al oír esto, fueron bautizados en el nombre del Señor Jesús.]
+
+### Hechos 19:6 {#hech-19-6}
+καὶ ἐπιθέντος αὐτοῖς τοῦ ⸀Παύλου χεῖρας ἦλθε τὸ πνεῦμα τὸ ἅγιον ἐπʼ αὐτούς, ἐλάλουν τε γλώσσαις καὶ ἐπροφήτευον. 
+[Cuando Pablo les impuso las manos, vino sobre ellos el Espíritu Santo, y hablaban en lenguas y profetizaban.]
+
+### Hechos 19:7 {#hech-19-7}
+ἦσαν δὲ οἱ πάντες ἄνδρες ὡσεὶ ⸀δώδεκα. 
+[Eran en total unos doce hombres.]
+
+### Hechos 19:8 {#hech-19-8}
+Εἰσελθὼν δὲ εἰς τὴν συναγωγὴν ἐπαρρησιάζετο ἐπὶ μῆνας τρεῖς διαλεγόμενος καὶ ⸀πείθων περὶ τῆς βασιλείας τοῦ θεοῦ. 
+[Pablo entró en la sinagoga, y por tres meses continuó hablando abiertamente, discutiendo y persuadiéndoles acerca del reino de Dios.]
+
+### Hechos 19:9 {#hech-19-9}
+ὡς δέ τινες ἐσκληρύνοντο καὶ ἠπείθουν κακολογοῦντες τὴν ὁδὸν ἐνώπιον τοῦ πλήθους, ἀποστὰς ἀπʼ αὐτῶν ἀφώρισεν τοὺς μαθητάς, καθʼ ἡμέραν διαλεγόμενος ἐν τῇ σχολῇ ⸀Τυράννου. 
+[Pero cuando algunos se endurecieron y se volvieron desobedientes, hablando mal del Camino ante la multitud, Pablo se apartó de ellos llevándose a los discípulos, y discutía diariamente en la escuela de Tirano.]
+
+### Hechos 19:10 {#hech-19-10}
+τοῦτο δὲ ἐγένετο ἐπὶ ἔτη δύο, ὥστε πάντας τοὺς κατοικοῦντας τὴν Ἀσίαν ἀκοῦσαι τὸν λόγον τοῦ ⸀κυρίου, Ἰουδαίους τε καὶ Ἕλληνας. 
+[Esto continuó por dos años, de manera que todos los que vivían en Asia oyeron la palabra del Señor, tanto judíos como griegos.]
+
+### Hechos 19:11 {#hech-19-11}
+Δυνάμεις τε οὐ τὰς τυχούσας ⸂ὁ θεὸς ἐποίει⸃ διὰ τῶν χειρῶν Παύλου, 
+[Dios hacía milagros extraordinarios por mano de Pablo,]
+
+### Hechos 19:12 {#hech-19-12}
+ὥστε καὶ ἐπὶ τοὺς ἀσθενοῦντας ⸀ἀποφέρεσθαι ἀπὸ τοῦ χρωτὸς αὐτοῦ σουδάρια ἢ σιμικίνθια καὶ ἀπαλλάσσεσθαι ἀπʼ αὐτῶν τὰς νόσους, τά τε πνεύματα τὰ πονηρὰ ⸀ἐκπορεύεσθαι. 
+[de tal manera que incluso llevaban pañuelos o delantales de su cuerpo a los enfermos, y las enfermedades los dejaban y los malos espíritus se iban de ellos.]
+
+### Hechos 19:13 {#hech-19-13}
+ἐπεχείρησαν δέ τινες ⸀καὶ τῶν περιερχομένων Ἰουδαίων ἐξορκιστῶν ὀνομάζειν ἐπὶ τοὺς ἔχοντας τὰ πνεύματα τὰ πονηρὰ τὸ ὄνομα τοῦ κυρίου Ἰησοῦ λέγοντες· ⸀Ὁρκίζω ὑμᾶς τὸν Ἰησοῦν ⸀ὃν Παῦλος κηρύσσει. 
+[Pero también algunos de los judíos, exorcistas ambulantes, trataron de invocar el nombre del Señor Jesús sobre los que tenían espíritus malos, diciendo: «Les ordeno que salgan, en el Nombre de Jesús a quien Pablo predica».]
+
+### Hechos 19:14 {#hech-19-14}
+ἦσαν δέ ⸀τινος Σκευᾶ Ἰουδαίου ἀρχιερέως ἑπτὰ ⸀υἱοὶ τοῦτο ποιοῦντες. 
+[Siete hijos de un tal Esceva, uno de los principales sacerdotes judíos, eran los que hacían esto.]
+
+### Hechos 19:15 {#hech-19-15}
+ἀποκριθὲν δὲ τὸ πνεῦμα τὸ πονηρὸν εἶπεν ⸀αὐτοῖς· ⸀Τὸν Ἰησοῦν γινώσκω καὶ τὸν Παῦλον ἐπίσταμαι, ὑμεῖς δὲ τίνες ἐστέ; 
+[Pero el espíritu malo les respondió: «A Jesús conozco, y sé quién es Pablo, pero ustedes, ¿quiénes son?».]
+
+### Hechos 19:16 {#hech-19-16}
+καὶ ⸀ἐφαλόμενος ⸂ὁ ἄνθρωπος ἐπʼ αὐτοὺς⸃ ἐν ᾧ ἦν τὸ πνεῦμα τὸ πονηρὸν ⸂κατακυριεύσας ἀμφοτέρων⸃ ἴσχυσεν κατʼ αὐτῶν, ὥστε γυμνοὺς καὶ τετραυματισμένους ἐκφυγεῖν ἐκ τοῦ οἴκου ἐκείνου. 
+[Y el hombre en quien estaba el espíritu malo se lanzó sobre ellos, y los dominó y pudo más que ellos, de manera que huyeron de aquella casa desnudos y heridos.]
+
+### Hechos 19:17 {#hech-19-17}
+τοῦτο δὲ ἐγένετο γνωστὸν πᾶσιν Ἰουδαίοις τε καὶ Ἕλλησιν τοῖς κατοικοῦσιν τὴν Ἔφεσον, καὶ ⸀ἐπέπεσεν φόβος ἐπὶ πάντας αὐτούς, καὶ ἐμεγαλύνετο τὸ ὄνομα τοῦ κυρίου Ἰησοῦ. 
+[Supieron esto todos los habitantes de Éfeso, tanto judíos como griegos. El temor se apoderó de todos ellos, y el nombre del Señor Jesús era exaltado.]
+
+### Hechos 19:18 {#hech-19-18}
+πολλοί τε τῶν πεπιστευκότων ἤρχοντο ἐξομολογούμενοι καὶ ἀναγγέλλοντες τὰς πράξεις αὐτῶν. 
+[También muchos de los que habían creído continuaban viniendo, confesando y declarando las cosas que practicaban.]
+
+### Hechos 19:19 {#hech-19-19}
+ἱκανοὶ δὲ τῶν τὰ περίεργα πραξάντων συνενέγκαντες τὰς βίβλους κατέκαιον ἐνώπιον πάντων· καὶ συνεψήφισαν τὰς τιμὰς αὐτῶν καὶ εὗρον ἀργυρίου μυριάδας πέντε. 
+[Muchos de los que practicaban la magia, juntando sus libros, los quemaban a la vista de todos. Calcularon su precio y hallaron que llegaba a 50,000 monedas de plata (180 kilogramos).]
+
+### Hechos 19:20 {#hech-19-20}
+οὕτως κατὰ κράτος ⸂τοῦ κυρίου ὁ λόγος⸃ ηὔξανεν καὶ ἴσχυεν. 
+[Así crecía poderosamente y prevalecía la palabra del Señor.]
+
+### Hechos 19:21 {#hech-19-21}
+Ὡς δὲ ἐπληρώθη ταῦτα, ἔθετο ὁ Παῦλος ἐν τῷ πνεύματι διελθὼν τὴν Μακεδονίαν καὶ Ἀχαΐαν πορεύεσθαι εἰς ⸀Ἱεροσόλυμα, εἰπὼν ὅτι Μετὰ τὸ γενέσθαι με ἐκεῖ δεῖ με καὶ Ῥώμην ἰδεῖν. 
+[Pasadas estas cosas, Pablo decidió en el espíritu ir a Jerusalén después de recorrer Macedonia y Acaya, diciendo: «Después que haya estado allí, debo visitar también Roma».]
+
+### Hechos 19:22 {#hech-19-22}
+ἀποστείλας δὲ εἰς τὴν Μακεδονίαν δύο τῶν διακονούντων αὐτῷ, Τιμόθεον καὶ Ἔραστον, αὐτὸς ἐπέσχεν χρόνον εἰς τὴν Ἀσίαν. 
+[Y habiendo enviado a Macedonia a dos de sus ayudantes, Timoteo y Erasto, él se quedó en Asia por algún tiempo.]
+
+### Hechos 19:23 {#hech-19-23}
+Ἐγένετο δὲ κατὰ τὸν καιρὸν ἐκεῖνον τάραχος οὐκ ὀλίγος περὶ τῆς ὁδοῦ. 
+[Por aquel tiempo se produjo un alboroto no pequeño por motivo del Camino.]
+
+### Hechos 19:24 {#hech-19-24}
+Δημήτριος γάρ τις ὀνόματι, ἀργυροκόπος, ποιῶν ναοὺς ἀργυροῦς Ἀρτέμιδος παρείχετο τοῖς τεχνίταις ⸂οὐκ ὀλίγην ἐργασίαν⸃, 
+[Porque cierto platero que se llamaba Demetrio, que labraba templecillos de plata de Diana y producía no pocas ganancias a los artífices,]
+
+### Hechos 19:25 {#hech-19-25}
+οὓς συναθροίσας καὶ τοὺς περὶ τὰ τοιαῦτα ἐργάτας εἶπεν· Ἄνδρες, ἐπίστασθε ὅτι ἐκ ταύτης τῆς ἐργασίας ἡ εὐπορία ⸀ἡμῖν ἐστιν, 
+[reunió a estos junto con los obreros de oficios semejantes, y dijo: «Compañeros, ustedes saben que nuestra prosperidad depende de este comercio.]
+
+### Hechos 19:26 {#hech-19-26}
+καὶ θεωρεῖτε καὶ ἀκούετε ὅτι οὐ μόνον Ἐφέσου ἀλλὰ σχεδὸν πάσης τῆς Ἀσίας ὁ Παῦλος οὗτος πείσας μετέστησεν ἱκανὸν ὄχλον, λέγων ὅτι οὐκ εἰσὶν θεοὶ οἱ διὰ χειρῶν γινόμενοι. 
+[Pueden ver y oír que no solo en Éfeso, sino en casi toda Asia, este Pablo ha persuadido a una gran cantidad de gente, y la ha apartado, diciendo que los dioses hechos con las manos no son dioses verdaderos.]
+
+### Hechos 19:27 {#hech-19-27}
+οὐ μόνον δὲ τοῦτο κινδυνεύει ἡμῖν τὸ μέρος εἰς ἀπελεγμὸν ἐλθεῖν, ἀλλὰ καὶ τὸ τῆς μεγάλης θεᾶς ⸂Ἀρτέμιδος ἱερὸν⸃ εἰς οὐθὲν λογισθῆναι, μέλλειν ⸀τε καὶ καθαιρεῖσθαι ⸂τῆς μεγαλειότητος⸃ αὐτῆς, ἣν ὅλη ἡ Ἀσία καὶ ἡ οἰκουμένη σέβεται. 
+[Y no solo corremos el peligro de que nuestro oficio caiga en descrédito, sino también de que el templo de la gran diosa Diana se considere sin valor, y que ella, a quien adora toda Asia y el mundo entero, sea despojada de su grandeza».]
+
+### Hechos 19:28 {#hech-19-28}
+Ἀκούσαντες δὲ καὶ γενόμενοι πλήρεις θυμοῦ ἔκραζον λέγοντες· Μεγάλη ἡ Ἄρτεμις Ἐφεσίων. 
+[Cuando oyeron esto, se llenaron de ira, y comenzaron a gritar: «¡Grande es Diana de los efesios!».]
+
+### Hechos 19:29 {#hech-19-29}
+καὶ ἐπλήσθη ἡ ⸀πόλις τῆς συγχύσεως, ὥρμησάν τε ὁμοθυμαδὸν εἰς τὸ θέατρον συναρπάσαντες Γάϊον καὶ Ἀρίσταρχον Μακεδόνας, συνεκδήμους Παύλου. 
+[La ciudad se llenó de confusión y a una se precipitaron en el teatro, arrastrando consigo a Gayo y a Aristarco, los compañeros de viaje de Pablo, que eran de Macedonia.]
+
+### Hechos 19:30 {#hech-19-30}
+⸂Παύλου δὲ⸃ βουλομένου εἰσελθεῖν εἰς τὸν δῆμον οὐκ εἴων αὐτὸν οἱ μαθηταί· 
+[Cuando Pablo quiso ir a la multitud, los discípulos no se lo permitieron.]
+
+### Hechos 19:31 {#hech-19-31}
+τινὲς δὲ καὶ τῶν Ἀσιαρχῶν, ὄντες αὐτῷ φίλοι, πέμψαντες πρὸς αὐτὸν παρεκάλουν μὴ δοῦναι ἑαυτὸν εἰς τὸ θέατρον. 
+[También algunas de las autoridades de la provincia de Asia, que eran amigos de Pablo, le enviaron mensaje y repetidamente le rogaron que no se aventurara a presentarse en el teatro.]
+
+### Hechos 19:32 {#hech-19-32}
+ἄλλοι μὲν οὖν ἄλλο τι ἔκραζον, ἦν γὰρ ἡ ἐκκλησία συγκεχυμένη, καὶ οἱ πλείους οὐκ ᾔδεισαν τίνος ἕνεκα συνεληλύθεισαν. 
+[Así que unos gritaban una cosa y otros otra, porque había confusión en la asamblea, y la mayoría no sabía por qué razón se habían reunido.]
+
+### Hechos 19:33 {#hech-19-33}
+ἐκ δὲ τοῦ ὄχλου ⸀συνεβίβασαν Ἀλέξανδρον προβαλόντων αὐτὸν τῶν Ἰουδαίων, ὁ δὲ Ἀλέξανδρος κατασείσας τὴν χεῖρα ἤθελεν ἀπολογεῖσθαι τῷ δήμῳ. 
+[Algunos de la multitud pensaron que se trataba de Alejandro, puesto que los judíos lo habían empujado hacia adelante. Entonces Alejandro, haciendo señal de silencio con la mano, quería hacer su defensa ante la asamblea.]
+
+### Hechos 19:34 {#hech-19-34}
+ἐπιγνόντες δὲ ὅτι Ἰουδαῖός ἐστιν φωνὴ ἐγένετο μία ἐκ πάντων ⸀ὡς ἐπὶ ὥρας δύο κραζόντων· Μεγάλη ἡ Ἄρτεμις Ἐφεσίων. 
+[Pero cuando se dieron cuenta de que era judío, un clamor se levantó de todos ellos, gritando como por dos horas: «¡Grande es Diana de los efesios!».]
+
+### Hechos 19:35 {#hech-19-35}
+καταστείλας δὲ ⸂ὁ γραμματεὺς τὸν ὄχλον⸃ φησίν· Ἄνδρες Ἐφέσιοι, τίς γάρ ἐστιν ⸀ἀνθρώπων ὃς οὐ γινώσκει τὴν Ἐφεσίων πόλιν νεωκόρον οὖσαν τῆς ⸀μεγάλης Ἀρτέμιδος καὶ τοῦ διοπετοῦς; 
+[Entonces el secretario, después de calmar a la multitud, dijo*: «Ciudadanos de Éfeso, ¿hay acaso algún hombre que no sepa que la ciudad de los efesios es guardiana del templo de la gran Diana y de la imagen que descendió del cielo?]
+
+### Hechos 19:36 {#hech-19-36}
+ἀναντιρρήτων οὖν ὄντων τούτων δέον ἐστὶν ὑμᾶς κατεσταλμένους ὑπάρχειν καὶ μηδὲν προπετὲς πράσσειν. 
+[Puesto que estos hechos son innegables, deben guardar calma y no hacer nada precipitadamente.]
+
+### Hechos 19:37 {#hech-19-37}
+ἠγάγετε γὰρ τοὺς ἄνδρας τούτους οὔτε ἱεροσύλους οὔτε βλασφημοῦντας τὴν θεὸν ⸀ἡμῶν. 
+[Porque han traído a estos hombres que ni roban templos, ni blasfeman a nuestra diosa.]
+
+### Hechos 19:38 {#hech-19-38}
+εἰ μὲν οὖν Δημήτριος καὶ οἱ σὺν αὐτῷ τεχνῖται ἔχουσιν πρός τινα λόγον, ἀγοραῖοι ἄγονται καὶ ἀνθύπατοί εἰσιν, ἐγκαλείτωσαν ἀλλήλοις. 
+[»Así pues, si Demetrio y los artífices que están con él tienen queja contra alguien, los tribunales están abiertos y los procónsules dispuestos; presenten sus acusaciones unos contra otros.]
+
+### Hechos 19:39 {#hech-19-39}
+εἰ δέ τι ⸀περαιτέρω ἐπιζητεῖτε, ἐν τῇ ἐννόμῳ ἐκκλησίᾳ ἐπιλυθήσεται. 
+[Pero si demandan algo más que esto, se decidirá en asamblea legítima.]
+
+### Hechos 19:40 {#hech-19-40}
+καὶ γὰρ κινδυνεύομεν ἐγκαλεῖσθαι στάσεως περὶ τῆς σήμερον μηδενὸς αἰτίου ὑπάρχοντος περὶ οὗ οὐ δυνησόμεθα ⸀ἀποδοῦναι λόγον ⸀περὶ τῆς συστροφῆς ταύτης. καὶ ταῦτα εἰπὼν ἀπέλυσεν τὴν ἐκκλησίαν. 
+[Porque ciertamente corremos peligro de ser acusados de crear problemas en relación con lo acontecido hoy, ya que no existe causa justificada para esto, y por ello no podremos explicar este alboroto».]
+
+### Hechos 20:1 {#hech-20-1}
+Μετὰ δὲ τὸ παύσασθαι τὸν θόρυβον ⸀μεταπεμψάμενος ὁ Παῦλος τοὺς μαθητὰς καὶ ⸀παρακαλέσας, ἀσπασάμενος ἐξῆλθεν ⸀πορεύεσθαι ⸀εἰς Μακεδονίαν. 
+[Después que cesó el alboroto, Pablo mandó llamar a los discípulos, y habiéndolos exhortado, despidiéndose, partió para ir a Macedonia.]
+
+### Hechos 20:2 {#hech-20-2}
+διελθὼν δὲ τὰ μέρη ἐκεῖνα καὶ παρακαλέσας αὐτοὺς λόγῳ πολλῷ ἦλθεν εἰς τὴν Ἑλλάδα 
+[Y después de recorrer aquellas regiones y de haberlos exhortado mucho, llegó a Grecia.]
+
+### Hechos 20:3 {#hech-20-3}
+ποιήσας τε μῆνας τρεῖς· γενομένης ⸂ἐπιβουλῆς αὐτῷ⸃ ὑπὸ τῶν Ἰουδαίων μέλλοντι ἀνάγεσθαι εἰς τὴν Συρίαν ἐγένετο ⸀γνώμης τοῦ ὑποστρέφειν διὰ Μακεδονίας. 
+[Pasó allí tres meses, y habiéndose tramado un plan en su contra de parte de los judíos cuando estaba por embarcarse para Siria, tomó la decisión de regresar por Macedonia.]
+
+### Hechos 20:4 {#hech-20-4}
+συνείπετο δὲ ⸀αὐτῷ Σώπατρος ⸀Πύρρου Βεροιαῖος, Θεσσαλονικέων δὲ Ἀρίσταρχος καὶ Σεκοῦνδος, καὶ Γάϊος Δερβαῖος καὶ Τιμόθεος, Ἀσιανοὶ δὲ Τυχικὸς καὶ Τρόφιμος· 
+[Lo acompañaban Sópater de Berea, hijo de Pirro; Aristarco y Segundo de los tesalonicenses; Gayo de Derbe, y Timoteo; Tíquico y Trófimo de Asia.]
+
+### Hechos 20:5 {#hech-20-5}
+οὗτοι ⸀δὲ ⸀προσελθόντες ἔμενον ἡμᾶς ἐν Τρῳάδι· 
+[Pero estos se habían adelantado y nos esperaban en Troas.]
+
+### Hechos 20:6 {#hech-20-6}
+ἡμεῖς δὲ ἐξεπλεύσαμεν μετὰ τὰς ἡμέρας τῶν ἀζύμων ἀπὸ Φιλίππων, καὶ ἤλθομεν πρὸς αὐτοὺς εἰς τὴν Τρῳάδα ἄχρι ἡμερῶν πέντε, ⸀οὗ διετρίψαμεν ἡμέρας ἑπτά. 
+[Nos embarcamos en Filipos después de los días de la Fiesta de los Panes sin Levadura, y en cinco días llegamos adonde ellos estaban en Troas; y allí nos quedamos siete días.]
+
+### Hechos 20:7 {#hech-20-7}
+Ἐν δὲ τῇ μιᾷ τῶν σαββάτων συνηγμένων ⸀ἡμῶν κλάσαι ἄρτον ὁ Παῦλος διελέγετο αὐτοῖς, μέλλων ἐξιέναι τῇ ἐπαύριον, παρέτεινέν τε τὸν λόγον μέχρι μεσονυκτίου. 
+[El primer día de la semana, cuando estábamos reunidos para partir el pan, Pablo les hablaba, pensando salir al día siguiente, y prolongó su discurso hasta la medianoche.]
+
+### Hechos 20:8 {#hech-20-8}
+ἦσαν δὲ λαμπάδες ἱκαναὶ ἐν τῷ ὑπερῴῳ οὗ ἦμεν συνηγμένοι· 
+[Había muchas lámparas en el aposento alto donde estábamos reunidos.]
+
+### Hechos 20:9 {#hech-20-9}
+⸀καθεζόμενος δέ τις νεανίας ὀνόματι Εὔτυχος ἐπὶ τῆς θυρίδος, καταφερόμενος ὕπνῳ βαθεῖ διαλεγομένου τοῦ Παύλου ἐπὶ πλεῖον, κατενεχθεὶς ἀπὸ τοῦ ὕπνου ἔπεσεν ἀπὸ τοῦ τριστέγου κάτω καὶ ἤρθη νεκρός. 
+[Y estaba sentado en la ventana un joven llamado Eutico. Como Pablo continuaba hablando, Eutico fue cayendo en un profundo sueño hasta que, vencido por el sueño, se cayó desde el tercer piso y lo levantaron muerto.]
+
+### Hechos 20:10 {#hech-20-10}
+καταβὰς δὲ ὁ Παῦλος ἐπέπεσεν αὐτῷ καὶ συμπεριλαβὼν εἶπεν· Μὴ θορυβεῖσθε, ἡ γὰρ ψυχὴ αὐτοῦ ἐν αὐτῷ ἐστιν. 
+[Pero Pablo bajó y se tendió sobre él, y después de abrazarlo, dijo: «No se alarmen, porque está vivo».]
+
+### Hechos 20:11 {#hech-20-11}
+ἀναβὰς δὲ καὶ κλάσας ⸀τὸν ἄρτον καὶ γευσάμενος ἐφʼ ἱκανόν τε ὁμιλήσας ἄχρι αὐγῆς, οὕτως ἐξῆλθεν. 
+[Volviendo arriba, después de partir el pan y de comer, conversó largamente con ellos hasta el amanecer, y entonces se marchó.]
+
+### Hechos 20:12 {#hech-20-12}
+ἤγαγον δὲ τὸν παῖδα ζῶντα, καὶ παρεκλήθησαν οὐ μετρίως. 
+[Al muchacho se lo llevaron vivo, y quedaron grandemente consolados.]
+
+### Hechos 20:13 {#hech-20-13}
+Ἡμεῖς δὲ ⸀προελθόντες ⸀ἐπὶ τὸ πλοῖον ἀνήχθημεν ἐπὶ τὴν Ἆσσον, ἐκεῖθεν μέλλοντες ἀναλαμβάνειν τὸν Παῦλον, οὕτως γὰρ ⸂διατεταγμένος ἦν⸃ μέλλων αὐτὸς πεζεύειν. 
+[Entonces nosotros, adelantándonos a tomar la nave, salimos para Asón, con el propósito de recoger allí a Pablo, pues así lo había decidido, deseando él ir por tierra hasta Asón.]
+
+### Hechos 20:14 {#hech-20-14}
+ὡς δὲ ⸀συνέβαλλεν ἡμῖν εἰς τὴν Ἆσσον, ἀναλαβόντες αὐτὸν ἤλθομεν εἰς Μιτυλήνην, 
+[Cuando nos encontró en Asón, lo recibimos a bordo y nos dirigimos a Mitilene.]
+
+### Hechos 20:15 {#hech-20-15}
+κἀκεῖθεν ἀποπλεύσαντες τῇ ἐπιούσῃ κατηντήσαμεν ⸀ἄντικρυς Χίου, τῇ δὲ ἑτέρᾳ παρεβάλομεν εἰς ⸀Σάμον, τῇ ⸀δὲ ἐχομένῃ ἤλθομεν εἰς Μίλητον· 
+[Saliendo de allí, al día siguiente llegamos frente a Quío; y al otro día atracamos en Samos. Habiendo hecho escala en Trogilio, al día siguiente llegamos a Mileto.]
+
+### Hechos 20:16 {#hech-20-16}
+⸀κεκρίκει γὰρ ὁ Παῦλος παραπλεῦσαι τὴν Ἔφεσον, ὅπως μὴ γένηται αὐτῷ χρονοτριβῆσαι ἐν τῇ Ἀσίᾳ, ἔσπευδεν γὰρ εἰ δυνατὸν ⸀εἴη αὐτῷ τὴν ἡμέραν τῆς πεντηκοστῆς γενέσθαι εἰς Ἱεροσόλυμα. 
+[Porque Pablo había decidido dejar a un lado a Éfeso para no detenerse en Asia, pues se apresuraba para estar, en Jerusalén el día de Pentecostés si le era posible.]
+
+### Hechos 20:17 {#hech-20-17}
+Ἀπὸ δὲ τῆς Μιλήτου πέμψας εἰς Ἔφεσον μετεκαλέσατο τοὺς πρεσβυτέρους τῆς ἐκκλησίας. 
+[Desde Mileto mandó mensaje a Éfeso y llamó a los ancianos de la iglesia.]
+
+### Hechos 20:18 {#hech-20-18}
+ὡς δὲ παρεγένοντο πρὸς αὐτὸν εἶπεν αὐτοῖς· Ὑμεῖς ἐπίστασθε ἀπὸ πρώτης ἡμέρας ἀφʼ ἧς ἐπέβην εἰς τὴν Ἀσίαν πῶς μεθʼ ὑμῶν τὸν πάντα χρόνον ἐγενόμην, 
+[Cuando vinieron a él, les dijo: «Ustedes bien saben cómo he sido con ustedes todo el tiempo, desde el primer día que estuve en Asia.]
+
+### Hechos 20:19 {#hech-20-19}
+δουλεύων τῷ κυρίῳ μετὰ πάσης ταπεινοφροσύνης ⸀καὶ δακρύων καὶ πειρασμῶν τῶν συμβάντων μοι ἐν ταῖς ἐπιβουλαῖς τῶν Ἰουδαίων· 
+[He servido al Señor con toda humildad, con lágrimas y con pruebas que vinieron sobre mí por causa de las intrigas de los judíos.]
+
+### Hechos 20:20 {#hech-20-20}
+ὡς οὐδὲν ὑπεστειλάμην τῶν συμφερόντων τοῦ μὴ ἀναγγεῖλαι ὑμῖν καὶ διδάξαι ὑμᾶς δημοσίᾳ καὶ κατʼ οἴκους, 
+[+»Bien saben cómo no rehuí declararles a ustedes nada que fuera útil, y de enseñarles públicamente y de casa en casa,]
+
+### Hechos 20:21 {#hech-20-21}
+διαμαρτυρόμενος Ἰουδαίοις τε καὶ Ἕλλησιν τὴν ⸀εἰς θεὸν μετάνοιαν καὶ ⸀πίστιν εἰς τὸν κύριον ἡμῶν ⸀Ἰησοῦν. 
+[testificando solemnemente, tanto a judíos como a griegos, del arrepentimiento para con Dios y de la fe en nuestro Señor Jesucristo.]
+
+### Hechos 20:22 {#hech-20-22}
+καὶ νῦν ἰδοὺ ⸂δεδεμένος ἐγὼ⸃ τῷ πνεύματι πορεύομαι εἰς Ἰερουσαλήμ, τὰ ἐν αὐτῇ συναντήσοντά ⸀μοι μὴ εἰδώς, 
+[»Ahora yo, atado en espíritu, voy a Jerusalén sin saber lo que allá me sucederá,]
+
+### Hechos 20:23 {#hech-20-23}
+πλὴν ὅτι τὸ πνεῦμα τὸ ἅγιον κατὰ πόλιν διαμαρτύρεταί ⸀μοι λέγον ὅτι δεσμὰ ⸂καὶ θλίψεις με⸃ μένουσιν· 
+[salvo que el Espíritu Santo solemnemente me da testimonio en cada ciudad, diciendo que me esperan cadenas y aflicciones.]
+
+### Hechos 20:24 {#hech-20-24}
+ἀλλʼ οὐδενὸς ⸀λόγου ⸀ποιοῦμαι τὴν ⸀ψυχὴν τιμίαν ἐμαυτῷ ὡς ⸀τελειῶσαι τὸν δρόμον ⸀μου καὶ τὴν διακονίαν ἣν ἔλαβον παρὰ τοῦ κυρίου Ἰησοῦ, διαμαρτύρασθαι τὸ εὐαγγέλιον τῆς χάριτος τοῦ θεοῦ. 
+[Pero en ninguna manera estimo mi vida como valiosa para mí mismo, a fin de poder terminar mi carrera y el ministerio que recibí del Señor Jesús, para dar testimonio solemnemente del evangelio de la gracia de Dios.]
+
+### Hechos 20:25 {#hech-20-25}
+Καὶ νῦν ἰδοὺ ἐγὼ οἶδα ὅτι οὐκέτι ὄψεσθε τὸ πρόσωπόν μου ὑμεῖς πάντες ἐν οἷς διῆλθον κηρύσσων τὴν ⸀βασιλείαν. 
+[»Y ahora, yo sé que ninguno de ustedes, entre quienes anduve predicando el reino, volverá a ver mi rostro.]
+
+### Hechos 20:26 {#hech-20-26}
+⸀διότι μαρτύρομαι ὑμῖν ἐν τῇ σήμερον ἡμέρᾳ ὅτι καθαρός ⸀εἰμι ἀπὸ τοῦ αἵματος πάντων, 
+[Por tanto, les doy testimonio en este día de que soy inocente de la sangre de todos,]
+
+### Hechos 20:27 {#hech-20-27}
+οὐ γὰρ ὑπεστειλάμην τοῦ μὴ ἀναγγεῖλαι ⸂πᾶσαν τὴν βουλὴν τοῦ θεοῦ ὑμῖν⸃. 
+[pues no rehuí declararles todo el propósito de Dios.]
+
+### Hechos 20:28 {#hech-20-28}
+⸀προσέχετε ἑαυτοῖς καὶ παντὶ τῷ ποιμνίῳ, ἐν ᾧ ὑμᾶς τὸ πνεῦμα τὸ ἅγιον ἔθετο ἐπισκόπους, ποιμαίνειν τὴν ἐκκλησίαν τοῦ ⸀θεοῦ, ἣν περιεποιήσατο διὰ τοῦ ⸂αἵματος τοῦ ἰδίου⸃. 
+[»Tengan cuidado de sí mismos y de toda la congregación, en medio de la cual el Espíritu Santo les ha hecho obispos para pastorear la iglesia de Dios, la cual Él compró con Su propia sangre.]
+
+### Hechos 20:29 {#hech-20-29}
+ἐγὼ ⸀οἶδα ὅτι εἰσελεύσονται μετὰ τὴν ἄφιξίν μου λύκοι βαρεῖς εἰς ὑμᾶς μὴ φειδόμενοι τοῦ ποιμνίου, 
+[Sé que después de mi partida, vendrán lobos feroces entre ustedes que no perdonarán el rebaño.]
+
+### Hechos 20:30 {#hech-20-30}
+καὶ ἐξ ὑμῶν αὐτῶν ἀναστήσονται ἄνδρες λαλοῦντες διεστραμμένα τοῦ ἀποσπᾶν τοὺς μαθητὰς ὀπίσω ⸀ἑαυτῶν· 
+[También de entre ustedes mismos se levantarán algunos hablando cosas perversas para arrastrar a los discípulos tras ellos.]
+
+### Hechos 20:31 {#hech-20-31}
+διὸ γρηγορεῖτε, μνημονεύοντες ὅτι τριετίαν νύκτα καὶ ἡμέραν οὐκ ἐπαυσάμην μετὰ δακρύων νουθετῶν ἕνα ἕκαστον. 
+[Por tanto, estén alerta, recordando que por tres años, de noche y de día, no cesé de amonestar a cada uno con lágrimas.]
+
+### Hechos 20:32 {#hech-20-32}
+καὶ τὰ νῦν παρατίθεμαι ⸀ὑμᾶς τῷ ⸀θεῷ καὶ τῷ λόγῳ τῆς χάριτος αὐτοῦ, τῷ δυναμένῳ ⸀οἰκοδομῆσαι καὶ δοῦναι ⸀τὴν κληρονομίαν ἐν τοῖς ἡγιασμένοις πᾶσιν. 
+[»Ahora los encomiendo a Dios y a la palabra de Su gracia, que es poderosa para edificarlos y darles la herencia entre todos los santificados.]
+
+### Hechos 20:33 {#hech-20-33}
+ἀργυρίου ἢ χρυσίου ἢ ἱματισμοῦ οὐδενὸς ἐπεθύμησα· 
+[Ni la plata, ni el oro, ni la ropa de nadie he codiciado.]
+
+### Hechos 20:34 {#hech-20-34}
+αὐτοὶ γινώσκετε ὅτι ταῖς χρείαις μου καὶ τοῖς οὖσι μετʼ ἐμοῦ ὑπηρέτησαν αἱ χεῖρες αὗται. 
+[Ustedes saben que estas manos me sirvieron para mis propias necesidades y las de los que estaban conmigo.]
+
+### Hechos 20:35 {#hech-20-35}
+πάντα ὑπέδειξα ὑμῖν ὅτι οὕτως κοπιῶντας δεῖ ἀντιλαμβάνεσθαι τῶν ἀσθενούντων, μνημονεύειν τε τῶν λόγων τοῦ κυρίου Ἰησοῦ ὅτι αὐτὸς εἶπεν Μακάριόν ἐστιν μᾶλλον διδόναι ἢ λαμβάνειν. 
+[En todo les mostré que así, trabajando, deben ayudar a los débiles, y recordar las palabras del Señor Jesús, que dijo: “Más bienaventurado es dar que recibir”».]
+
+### Hechos 20:36 {#hech-20-36}
+Καὶ ταῦτα εἰπὼν θεὶς τὰ γόνατα αὐτοῦ σὺν πᾶσιν αὐτοῖς προσηύξατο. 
+[Cuando Pablo terminó de hablar, se arrodilló y oró con todos ellos.]
+
+### Hechos 20:37 {#hech-20-37}
+ἱκανὸς δὲ ⸂κλαυθμὸς ἐγένετο⸃ πάντων, καὶ ἐπιπεσόντες ἐπὶ τὸν τράχηλον τοῦ Παύλου κατεφίλουν αὐτόν, 
+[Comenzaron todos a llorar desconsoladamente, y abrazando a Pablo, lo besaban.]
+
+### Hechos 20:38 {#hech-20-38}
+ὀδυνώμενοι μάλιστα ἐπὶ τῷ λόγῳ ᾧ εἰρήκει ὅτι οὐκέτι μέλλουσιν τὸ πρόσωπον αὐτοῦ θεωρεῖν. προέπεμπον δὲ αὐτὸν εἰς τὸ πλοῖον. 
+[Estaban afligidos especialmente por la palabra que había dicho de que ya no volverían a ver su rostro. Y lo acompañaron hasta el barco.]
+
+### Hechos 21:1 {#hech-21-1}
+Ὡς δὲ ἐγένετο ἀναχθῆναι ἡμᾶς ἀποσπασθέντας ἀπʼ αὐτῶν, εὐθυδρομήσαντες ἤλθομεν εἰς τὴν ⸀Κῶ, τῇ δὲ ἑξῆς εἰς τὴν Ῥόδον, κἀκεῖθεν εἰς Πάταρα· 
+[Después de separarnos de ellos, salimos y navegamos con rumbo directo a Cos, al día siguiente a Rodas, y de allí a Pátara.]
+
+### Hechos 21:2 {#hech-21-2}
+καὶ εὑρόντες πλοῖον διαπερῶν εἰς Φοινίκην ἐπιβάντες ἀνήχθημεν. 
+[Al encontrar un barco que iba para Fenicia, subimos a bordo y nos hicimos a la vela.]
+
+### Hechos 21:3 {#hech-21-3}
+⸀ἀναφάναντες δὲ τὴν Κύπρον καὶ καταλιπόντες αὐτὴν εὐώνυμον ἐπλέομεν εἰς Συρίαν, καὶ ⸀κατήλθομεν εἰς Τύρον, ἐκεῖσε γὰρ ⸂τὸ πλοῖον ἦν⸃ ἀποφορτιζόμενον τὸν γόμον. 
+[Cuando vimos la isla de Chipre, dejándola a la izquierda, navegamos hacia Siria, y desembarcamos en Tiro porque la nave debía dejar allí su cargamento.]
+
+### Hechos 21:4 {#hech-21-4}
+⸂ἀνευρόντες δὲ τοὺς⸃ μαθητὰς ἐπεμείναμεν αὐτοῦ ἡμέρας ἑπτά, οἵτινες τῷ Παύλῳ ἔλεγον διὰ τοῦ πνεύματος μὴ ⸀ἐπιβαίνειν εἰς ⸀Ἱεροσόλυμα. 
+[Después de hallar a los discípulos, nos quedamos allí siete días, y ellos le decían a Pablo, por el Espíritu, que no fuera a Jerusalén.]
+
+### Hechos 21:5 {#hech-21-5}
+ὅτε δὲ ἐγένετο ⸂ἐξαρτίσαι ἡμᾶς⸃ τὰς ἡμέρας, ἐξελθόντες ἐπορευόμεθα προπεμπόντων ἡμᾶς πάντων σὺν γυναιξὶ καὶ τέκνοις ἕως ἔξω τῆς πόλεως, καὶ θέντες τὰ γόνατα ἐπὶ τὸν αἰγιαλὸν ⸀προσευξάμενοι 
+[Pasados aquellos días partimos y emprendimos nuestro viaje mientras que todos ellos, con sus mujeres e hijos, nos acompañaron hasta las afueras de la ciudad. Después de arrodillarnos y orar en la playa, nos despedimos unos de otros.]
+
+### Hechos 21:6 {#hech-21-6}
+⸂ἀπησπασάμεθα ἀλλήλους, καὶ⸃ ⸀ἐνέβημεν εἰς τὸ πλοῖον, ἐκεῖνοι δὲ ὑπέστρεψαν εἰς τὰ ἴδια. 
+[Entonces subimos al barco y ellos regresaron a sus hogares.]
+
+### Hechos 21:7 {#hech-21-7}
+Ἡμεῖς δὲ τὸν πλοῦν διανύσαντες ἀπὸ Τύρου κατηντήσαμεν εἰς Πτολεμαΐδα, καὶ ἀσπασάμενοι τοὺς ἀδελφοὺς ἐμείναμεν ἡμέραν μίαν παρʼ αὐτοῖς. 
+[Terminado el viaje desde Tiro, llegamos a Tolemaida, y después de saludar a los hermanos, nos quedamos con ellos un día.]
+
+### Hechos 21:8 {#hech-21-8}
+τῇ δὲ ἐπαύριον ἐξελθόντες ⸀ἤλθομεν εἰς Καισάρειαν, καὶ εἰσελθόντες εἰς τὸν οἶκον Φιλίππου τοῦ εὐαγγελιστοῦ ὄντος ἐκ τῶν ἑπτὰ ἐμείναμεν παρʼ αὐτῷ. 
+[Al día siguiente partimos y llegamos a Cesarea, y entrando en la casa de Felipe, el evangelista, que era uno de los siete, nos quedamos con él.]
+
+### Hechos 21:9 {#hech-21-9}
+τούτῳ δὲ ἦσαν θυγατέρες ⸂τέσσαρες παρθένοι⸃ προφητεύουσαι. 
+[Este tenía cuatro hijas vírgenes que profetizaban.]
+
+### Hechos 21:10 {#hech-21-10}
+ἐπιμενόντων ⸀δὲ ἡμέρας πλείους κατῆλθέν τις ἀπὸ τῆς Ἰουδαίας προφήτης ὀνόματι Ἅγαβος, 
+[Y deteniéndonos allí varios días, descendió de Judea cierto profeta llamado Agabo,]
+
+### Hechos 21:11 {#hech-21-11}
+καὶ ἐλθὼν πρὸς ἡμᾶς καὶ ἄρας τὴν ζώνην τοῦ Παύλου δήσας ⸀ἑαυτοῦ τοὺς πόδας καὶ τὰς χεῖρας εἶπεν· Τάδε λέγει τὸ πνεῦμα τὸ ἅγιον Τὸν ἄνδρα οὗ ἐστιν ἡ ζώνη αὕτη, οὕτως δήσουσιν ἐν Ἰερουσαλὴμ οἱ Ἰουδαῖοι καὶ παραδώσουσιν εἰς χεῖρας ἐθνῶν. 
+[quien vino a vernos, y tomando el cinto de Pablo, se ató las manos y los pies, y dijo: «Así dice el Espíritu Santo: “Así atarán los judíos en Jerusalén al dueño de este cinto, y lo entregarán en manos de los gentiles”».]
+
+### Hechos 21:12 {#hech-21-12}
+ὡς δὲ ἠκούσαμεν ταῦτα, παρεκαλοῦμεν ἡμεῖς τε καὶ οἱ ἐντόπιοι τοῦ μὴ ἀναβαίνειν αὐτὸν εἰς Ἰερουσαλήμ. 
+[Al escuchar esto, tanto nosotros como los que vivían allí le rogábamos que no subiera a Jerusalén.]
+
+### Hechos 21:13 {#hech-21-13}
+⸂τότε ἀπεκρίθη⸃ ὁ Παῦλος· Τί ποιεῖτε κλαίοντες καὶ συνθρύπτοντές μου τὴν καρδίαν; ἐγὼ γὰρ οὐ μόνον δεθῆναι ἀλλὰ καὶ ἀποθανεῖν εἰς Ἰερουσαλὴμ ἑτοίμως ἔχω ὑπὲρ τοῦ ὀνόματος τοῦ κυρίου Ἰησοῦ. 
+[Entonces Pablo respondió: «¿Qué hacen, llorando y quebrantándome el corazón? Porque listo estoy no solo a ser atado, sino también a morir en Jerusalén por el nombre del Señor Jesús».]
+
+### Hechos 21:14 {#hech-21-14}
+μὴ πειθομένου δὲ αὐτοῦ ἡσυχάσαμεν εἰπόντες· ⸂Τοῦ κυρίου τὸ θέλημα⸃ ⸀γινέσθω. 
+[Como no se dejaba persuadir, dejamos de insistir, diciéndonos: «Que se haga la voluntad del Señor».]
+
+### Hechos 21:15 {#hech-21-15}
+Μετὰ δὲ τὰς ἡμέρας ταύτας ἐπισκευασάμενοι ἀνεβαίνομεν εἰς ⸀Ἱεροσόλυμα· 
+[Después de estos días nos preparamos y comenzamos a subir hacia Jerusalén.]
+
+### Hechos 21:16 {#hech-21-16}
+συνῆλθον δὲ καὶ τῶν μαθητῶν ἀπὸ Καισαρείας σὺν ἡμῖν, ἄγοντες παρʼ ᾧ ξενισθῶμεν Μνάσωνί τινι Κυπρίῳ, ἀρχαίῳ μαθητῇ. 
+[Nos acompañaron también algunos de los discípulos de Cesarea, quienes nos condujeron a Mnasón, de Chipre, un antiguo discípulo con quien deberíamos hospedarnos.]
+
+### Hechos 21:17 {#hech-21-17}
+Γενομένων δὲ ἡμῶν εἰς Ἱεροσόλυμα ἀσμένως ⸀ἀπεδέξαντο ἡμᾶς οἱ ἀδελφοί. 
+[Cuando llegamos a Jerusalén, los hermanos nos recibieron con regocijo.]
+
+### Hechos 21:18 {#hech-21-18}
+τῇ δὲ ἐπιούσῃ εἰσῄει ὁ Παῦλος σὺν ἡμῖν πρὸς Ἰάκωβον, πάντες τε παρεγένοντο οἱ πρεσβύτεροι. 
+[Al día siguiente Pablo fue con nosotros a ver a Jacobo, y todos los ancianos estaban presentes.]
+
+### Hechos 21:19 {#hech-21-19}
+καὶ ἀσπασάμενος αὐτοὺς ἐξηγεῖτο καθʼ ἓν ἕκαστον ὧν ἐποίησεν ὁ θεὸς ἐν τοῖς ἔθνεσιν διὰ τῆς διακονίας αὐτοῦ. 
+[Después de saludarlos, comenzó a referirles una por una las cosas que Dios había hecho entre los gentiles mediante su ministerio.]
+
+### Hechos 21:20 {#hech-21-20}
+οἱ δὲ ἀκούσαντες ἐδόξαζον τὸν ⸀θεόν, ⸂εἶπόν τε⸃ αὐτῷ· Θεωρεῖς, ἀδελφέ, πόσαι μυριάδες εἰσὶν ⸂ἐν τοῖς Ἰουδαίοις⸃ τῶν πεπιστευκότων, καὶ πάντες ζηλωταὶ τοῦ νόμου ὑπάρχουσιν· 
+[Ellos, cuando lo oyeron, glorificaban a Dios y le dijeron: «Hermano, ya ves cuántos miles hay entre los judíos que han creído, y todos son celosos de la ley.]
+
+### Hechos 21:21 {#hech-21-21}
+κατηχήθησαν δὲ περὶ σοῦ ὅτι ἀποστασίαν διδάσκεις ἀπὸ Μωϋσέως τοὺς κατὰ τὰ ἔθνη πάντας Ἰουδαίους, λέγων μὴ περιτέμνειν αὐτοὺς τὰ τέκνα μηδὲ τοῖς ἔθεσιν περιπατεῖν. 
+[Se les ha contado acerca de ti, que enseñas a todos los judíos entre los gentiles que se aparten de Moisés, diciéndoles que no circunciden a sus hijos ni observen las tradiciones.]
+
+### Hechos 21:22 {#hech-21-22}
+τί οὖν ἐστιν; πάντως ⸀ἀκούσονται ὅτι ἐλήλυθας. 
+[Entonces, ¿qué es lo que se debe hacer? Porque sin duda la multitud se reunirá pues oirán que has venido.]
+
+### Hechos 21:23 {#hech-21-23}
+τοῦτο οὖν ποίησον ὅ σοι λέγομεν· εἰσὶν ἡμῖν ἄνδρες τέσσαρες εὐχὴν ἔχοντες ⸀ἀφʼ ἑαυτῶν. 
+[»Por tanto, haz esto que te decimos. Tenemos cuatro hombres que han hecho un voto;]
+
+### Hechos 21:24 {#hech-21-24}
+τούτους παραλαβὼν ἁγνίσθητι σὺν αὐτοῖς καὶ δαπάνησον ἐπʼ αὐτοῖς ἵνα ⸀ξυρήσονται τὴν κεφαλήν, καὶ ⸀γνώσονται πάντες ὅτι ὧν κατήχηνται περὶ σοῦ οὐδέν ἐστιν, ἀλλὰ στοιχεῖς καὶ αὐτὸς ⸂φυλάσσων τὸν νόμον⸃. 
+[tómalos y purifícate junto con ellos, y paga sus gastos para que se rasuren la cabeza. Así todos sabrán que no hay nada cierto en lo que se les ha dicho acerca de ti, sino que tú también vives ordenadamente, guardando la ley.]
+
+### Hechos 21:25 {#hech-21-25}
+περὶ δὲ τῶν πεπιστευκότων ἐθνῶν ἡμεῖς ⸀ἀπεστείλαμεν ⸀κρίναντες φυλάσσεσθαι αὐτοὺς τό τε εἰδωλόθυτον ⸀καὶ αἷμα καὶ πνικτὸν καὶ πορνείαν. 
+[Pero en cuanto a los gentiles que han creído, nosotros les hemos escrito, habiendo decidido que deben abstenerse de todo lo que ha sido sacrificado a los ídolos, de sangre y de comer carne de animales estrangulados y de fornicación».]
+
+### Hechos 21:26 {#hech-21-26}
+τότε ὁ Παῦλος παραλαβὼν τοὺς ἄνδρας τῇ ἐχομένῃ ἡμέρᾳ σὺν αὐτοῖς ἁγνισθεὶς εἰσῄει εἰς τὸ ἱερόν, διαγγέλλων τὴν ἐκπλήρωσιν τῶν ἡμερῶν τοῦ ἁγνισμοῦ ἕως οὗ προσηνέχθη ὑπὲρ ἑνὸς ἑκάστου αὐτῶν ἡ προσφορά. 
+[Entonces Pablo tomó consigo a los hombres, y al día siguiente, purificándose junto con ellos, fue al templo, notificando de la terminación de los días de purificación, hasta que el sacrificio se ofreciera por cada uno de ellos.]
+
+### Hechos 21:27 {#hech-21-27}
+Ὡς δὲ ἔμελλον αἱ ἑπτὰ ἡμέραι συντελεῖσθαι, οἱ ἀπὸ τῆς Ἀσίας Ἰουδαῖοι θεασάμενοι αὐτὸν ἐν τῷ ἱερῷ συνέχεον πάντα τὸν ὄχλον καὶ ἐπέβαλον ⸂ἐπʼ αὐτὸν τὰς χεῖρας⸃, 
+[Cuando estaban para cumplirse los siete días, los judíos de Asia, al verlo en el templo alborotaron a todo el pueblo y le echaron mano,]
+
+### Hechos 21:28 {#hech-21-28}
+κράζοντες· Ἄνδρες Ἰσραηλῖται, βοηθεῖτε· οὗτός ἐστιν ὁ ἄνθρωπος ὁ κατὰ τοῦ λαοῦ καὶ τοῦ νόμου καὶ τοῦ τόπου τούτου πάντας ⸀πανταχῇ διδάσκων, ἔτι τε καὶ Ἕλληνας εἰσήγαγεν εἰς τὸ ἱερὸν καὶ κεκοίνωκεν τὸν ἅγιον τόπον τοῦτον. 
+[gritando: «¡Hombres de Israel, ayúdennos! Este es el hombre que enseña a todos, por todas partes, contra nuestro pueblo, la ley y este lugar. Además, incluso ha traído griegos al templo, y ha profanado este lugar santo».]
+
+### Hechos 21:29 {#hech-21-29}
+ἦσαν γὰρ ⸀προεωρακότες Τρόφιμον τὸν Ἐφέσιον ἐν τῇ πόλει σὺν αὐτῷ, ὃν ἐνόμιζον ὅτι εἰς τὸ ἱερὸν εἰσήγαγεν ὁ Παῦλος. 
+[Pues anteriormente habían visto a Trófimo el Efesio con él en la ciudad, y pensaban que Pablo lo había traído al templo.]
+
+### Hechos 21:30 {#hech-21-30}
+ἐκινήθη τε ἡ πόλις ὅλη καὶ ἐγένετο συνδρομὴ τοῦ λαοῦ, καὶ ἐπιλαβόμενοι τοῦ Παύλου εἷλκον αὐτὸν ἔξω τοῦ ἱεροῦ, καὶ εὐθέως ἐκλείσθησαν αἱ θύραι. 
+[Se alborotó toda la ciudad, y llegó el pueblo corriendo de todas partes. Apoderándose de Pablo lo arrastraron fuera del templo, y al instante cerraron las puertas.]
+
+### Hechos 21:31 {#hech-21-31}
+ζητούντων ⸀τε αὐτὸν ἀποκτεῖναι ἀνέβη φάσις τῷ χιλιάρχῳ τῆς σπείρης ὅτι ὅλη ⸀συγχύννεται Ἰερουσαλήμ, 
+[Mientras procuraban matarlo, llegó aviso al comandante de la compañía romana que toda Jerusalén estaba en confusión.]
+
+### Hechos 21:32 {#hech-21-32}
+ὃς ἐξαυτῆς παραλαβὼν στρατιώτας καὶ ἑκατοντάρχας κατέδραμεν ἐπʼ αὐτούς, οἱ δὲ ἰδόντες τὸν χιλίαρχον καὶ τοὺς στρατιώτας ἐπαύσαντο τύπτοντες τὸν Παῦλον. 
+[Inmediatamente tomó consigo algunos soldados y centuriones, y corrió hacia ellos; cuando el pueblo vio al comandante y a los soldados, dejaron de golpear a Pablo.]
+
+### Hechos 21:33 {#hech-21-33}
+⸂τότε ἐγγίσας⸃ ὁ χιλίαρχος ἐπελάβετο αὐτοῦ καὶ ἐκέλευσε δεθῆναι ἁλύσεσι δυσί, καὶ ἐπυνθάνετο ⸀τίς εἴη καὶ τί ἐστιν πεποιηκώς. 
+[Entonces el comandante llegó y lo arrestó, y ordenó que lo ataran con dos cadenas, y preguntaba quién era y qué había hecho.]
+
+### Hechos 21:34 {#hech-21-34}
+ἄλλοι δὲ ἄλλο τι ⸀ἐπεφώνουν ἐν τῷ ὄχλῳ· μὴ ⸂δυναμένου δὲ αὐτοῦ⸃ γνῶναι τὸ ἀσφαλὲς διὰ τὸν θόρυβον ἐκέλευσεν ἄγεσθαι αὐτὸν εἰς τὴν παρεμβολήν. 
+[Pero entre la muchedumbre unos gritaban una cosa y otros otra, y como él no pudo averiguar con certeza los hechos, debido al tumulto, ordenó que llevaran a Pablo al cuartel.]
+
+### Hechos 21:35 {#hech-21-35}
+ὅτε δὲ ἐγένετο ἐπὶ τοὺς ἀναβαθμούς, συνέβη βαστάζεσθαι αὐτὸν ὑπὸ τῶν στρατιωτῶν διὰ τὴν βίαν τοῦ ὄχλου, 
+[Cuando Pablo llegó a las gradas, los soldados tuvieron que cargarlo por causa de la violencia de la turba;]
+
+### Hechos 21:36 {#hech-21-36}
+ἠκολούθει γὰρ τὸ πλῆθος τοῦ λαοῦ ⸀κράζοντες· Αἶρε αὐτόν. 
+[porque la multitud del pueblo lo seguía, gritando: «¡Muera!».]
+
+### Hechos 21:37 {#hech-21-37}
+Μέλλων τε εἰσάγεσθαι εἰς τὴν παρεμβολὴν ὁ Παῦλος λέγει τῷ χιλιάρχῳ· Εἰ ἔξεστίν μοι εἰπεῖν ⸀τι πρὸς σέ; ὁ δὲ ἔφη· Ἑλληνιστὶ γινώσκεις; 
+[Cuando estaban para meterlo en el cuartel, Pablo dijo al comandante: «¿Puedo decirte algo?». Y él dijo*: «¿Sabes griego?]
+
+### Hechos 21:38 {#hech-21-38}
+οὐκ ἄρα σὺ εἶ ὁ Αἰγύπτιος ὁ πρὸ τούτων τῶν ἡμερῶν ἀναστατώσας καὶ ἐξαγαγὼν εἰς τὴν ἔρημον τοὺς τετρακισχιλίους ἄνδρας τῶν σικαρίων; 
+[¿Entonces tú no eres el egipcio que hace tiempo levantó una revuelta y sacó los 4,000 hombres de los asesinos al desierto?».]
+
+### Hechos 21:39 {#hech-21-39}
+εἶπεν δὲ ὁ Παῦλος· Ἐγὼ ἄνθρωπος μέν εἰμι Ἰουδαῖος, Ταρσεὺς τῆς Κιλικίας, οὐκ ἀσήμου πόλεως πολίτης· δέομαι δέ σου, ἐπίτρεψόν μοι λαλῆσαι πρὸς τὸν λαόν. 
+[Pablo respondió: «Yo soy judío de Tarso de Cilicia, ciudadano de una ciudad no sin importancia. Te suplico que me permitas hablar al pueblo».]
+
+### Hechos 21:40 {#hech-21-40}
+ἐπιτρέψαντος δὲ αὐτοῦ ὁ Παῦλος ἑστὼς ἐπὶ τῶν ἀναβαθμῶν κατέσεισε τῇ χειρὶ τῷ λαῷ, πολλῆς δὲ σιγῆς γενομένης ⸀προσεφώνησεν τῇ Ἑβραΐδι διαλέκτῳ λέγων 
+[Cuando el comandante le concedió el permiso, Pablo, de pie sobre las gradas, hizo señal al pueblo con su mano, y cuando hubo gran silencio, les habló en el idioma hebreo:]
+
+### Hechos 22:1 {#hech-22-1}
+Ἄνδρες ἀδελφοὶ καὶ πατέρες, ἀκούσατέ μου τῆς πρὸς ὑμᾶς νυνὶ ἀπολογίας. 
+[«Hermanos y padres, escuchen mi defensa que ahora presento ante ustedes», decía Pablo.]
+
+### Hechos 22:2 {#hech-22-2}
+Ἀκούσαντες δὲ ὅτι τῇ Ἑβραΐδι διαλέκτῳ προσεφώνει αὐτοῖς μᾶλλον παρέσχον ἡσυχίαν. καὶ φησίν· 
+[Cuando oyeron que se dirigía a ellos en el idioma hebreo, observaron aún más silencio. El continuó*:]
+
+### Hechos 22:3 {#hech-22-3}
+⸀Ἐγώ εἰμι ἀνὴρ Ἰουδαῖος, γεγεννημένος ἐν Ταρσῷ τῆς Κιλικίας, ἀνατεθραμμένος δὲ ἐν τῇ πόλει ταύτῃ παρὰ τοὺς πόδας Γαμαλιήλ, πεπαιδευμένος κατὰ ἀκρίβειαν τοῦ πατρῴου νόμου, ζηλωτὴς ὑπάρχων τοῦ θεοῦ καθὼς πάντες ὑμεῖς ἐστε σήμερον, 
+[«Yo soy judío, nacido en Tarso de Cilicia, pero criado en esta ciudad, educado bajo Gamaliel en estricta conformidad a la ley de nuestros padres, siendo tan celoso de Dios como todos ustedes lo son hoy.]
+
+### Hechos 22:4 {#hech-22-4}
+ὃς ταύτην τὴν ὁδὸν ἐδίωξα ἄχρι θανάτου, δεσμεύων καὶ παραδιδοὺς εἰς φυλακὰς ἄνδρας τε καὶ γυναῖκας, 
+[Perseguí este Camino hasta la muerte, encadenando y echando en cárceles tanto a hombres como a mujeres,]
+
+### Hechos 22:5 {#hech-22-5}
+ὡς καὶ ὁ ἀρχιερεὺς μαρτυρεῖ μοι καὶ πᾶν τὸ πρεσβυτέριον· παρʼ ὧν καὶ ἐπιστολὰς δεξάμενος πρὸς τοὺς ἀδελφοὺς εἰς Δαμασκὸν ἐπορευόμην ἄξων καὶ τοὺς ἐκεῖσε ὄντας δεδεμένους εἰς Ἰερουσαλὴμ ἵνα τιμωρηθῶσιν. 
+[de lo cual pueden testificar el sumo sacerdote y todo el Concilio de los ancianos. De ellos recibí cartas para los hermanos, y me puse en marcha para Damasco con el fin de traer presos a Jerusalén también a los que estaban allá, para que fueran castigados.]
+
+### Hechos 22:6 {#hech-22-6}
+Ἐγένετο δέ μοι πορευομένῳ καὶ ἐγγίζοντι τῇ Δαμασκῷ περὶ μεσημβρίαν ἐξαίφνης ἐκ τοῦ οὐρανοῦ περιαστράψαι φῶς ἱκανὸν περὶ ἐμέ, 
+[»Y aconteció que cuando iba de camino, estando ya cerca de Damasco, como al mediodía, de repente una luz muy brillante fulguró desde el cielo a mi alrededor.]
+
+### Hechos 22:7 {#hech-22-7}
+ἔπεσά τε εἰς τὸ ἔδαφος καὶ ἤκουσα φωνῆς λεγούσης μοι· Σαοὺλ Σαούλ, τί με διώκεις; 
+[Caí al suelo y oí una voz que me decía: “Saulo, Saulo, ¿por qué me persigues?”.]
+
+### Hechos 22:8 {#hech-22-8}
+ἐγὼ δὲ ἀπεκρίθην· Τίς εἶ, κύριε; εἶπέν τε πρὸς ⸀ἐμέ· Ἐγώ εἰμι Ἰησοῦς ὁ Ναζωραῖος ὃν σὺ διώκεις. 
+[Y respondí: “¿Quién eres, Señor?”. Y Él me dijo: “Yo soy Jesús el Nazareno, a quien tú persigues”.]
+
+### Hechos 22:9 {#hech-22-9}
+οἱ δὲ σὺν ἐμοὶ ὄντες τὸ μὲν φῶς ⸀ἐθεάσαντο τὴν δὲ φωνὴν οὐκ ἤκουσαν τοῦ λαλοῦντός μοι. 
+[»Los que estaban conmigo vieron la luz, ciertamente, pero no comprendieron la voz de Aquel que me hablaba.]
+
+### Hechos 22:10 {#hech-22-10}
+εἶπον δέ· Τί ποιήσω, κύριε; ὁ δὲ κύριος εἶπεν πρός με· Ἀναστὰς πορεύου εἰς Δαμασκόν, κἀκεῖ σοι λαληθήσεται περὶ πάντων ὧν τέτακταί σοι ποιῆσαι. 
+[Y yo dije: “¿Qué debo hacer, Señor?”. Y el Señor me dijo: “Levántate y entra a Damasco; y allí se te dirá todo lo que se ha ordenado que hagas”.]
+
+### Hechos 22:11 {#hech-22-11}
+ὡς δὲ οὐκ ἐνέβλεπον ἀπὸ τῆς δόξης τοῦ φωτὸς ἐκείνου, χειραγωγούμενος ὑπὸ τῶν συνόντων μοι ἦλθον εἰς Δαμασκόν. 
+[»Pero como yo no veía por causa del resplandor de aquella luz, los que estaban conmigo me llevaron de la mano y entré a Damasco.]
+
+### Hechos 22:12 {#hech-22-12}
+Ἁνανίας δέ τις ἀνὴρ ⸀εὐλαβὴς κατὰ τὸν νόμον μαρτυρούμενος ὑπὸ πάντων τῶν κατοικούντων Ἰουδαίων, 
+[Y uno llamado Ananías, hombre piadoso según las normas de la ley, y de quien daban buen testimonio todos los judíos que vivían allí,]
+
+### Hechos 22:13 {#hech-22-13}
+ἐλθὼν πρὸς ⸀ἐμὲ καὶ ἐπιστὰς εἶπέν μοι· Σαοὺλ ἀδελφέ, ἀνάβλεψον· κἀγὼ αὐτῇ τῇ ὥρᾳ ἀνέβλεψα εἰς αὐτόν. 
+[vino a mí, y poniéndose a mi lado, me dijo: “Hermano Saulo, recibe la vista”. En ese mismo instante alcé los ojos y lo miré.]
+
+### Hechos 22:14 {#hech-22-14}
+ὁ δὲ εἶπεν· Ὁ θεὸς τῶν πατέρων ἡμῶν προεχειρίσατό σε γνῶναι τὸ θέλημα αὐτοῦ καὶ ἰδεῖν τὸν δίκαιον καὶ ἀκοῦσαι φωνὴν ἐκ τοῦ στόματος αὐτοῦ, 
+[»Y él dijo: “El Dios de nuestros padres te ha designado para que conozcas Su voluntad, y para que veas al Justo y oigas palabra de Su boca.]
+
+### Hechos 22:15 {#hech-22-15}
+ὅτι ἔσῃ μάρτυς αὐτῷ πρὸς πάντας ἀνθρώπους ὧν ἑώρακας καὶ ἤκουσας. 
+[Porque tú serás testigo Suyo a todos los hombres de lo que has visto y oído.]
+
+### Hechos 22:16 {#hech-22-16}
+καὶ νῦν τί μέλλεις; ἀναστὰς βάπτισαι καὶ ἀπόλουσαι τὰς ἁμαρτίας σου ἐπικαλεσάμενος τὸ ὄνομα ⸀αὐτοῦ. 
+[Y ahora, ¿por qué te detienes? Levántate y bautízate, y lava tus pecados invocando Su nombre”.]
+
+### Hechos 22:17 {#hech-22-17}
+Ἐγένετο δέ μοι ὑποστρέψαντι εἰς Ἰερουσαλὴμ καὶ προσευχομένου μου ἐν τῷ ἱερῷ γενέσθαι με ἐν ἐκστάσει 
+[»Cuando regresé a Jerusalén y me hallaba orando en el templo, caí en un éxtasis,]
+
+### Hechos 22:18 {#hech-22-18}
+καὶ ἰδεῖν αὐτὸν λέγοντά μοι· Σπεῦσον καὶ ἔξελθε ἐν τάχει ἐξ Ἰερουσαλήμ, διότι οὐ παραδέξονταί ⸀σου μαρτυρίαν περὶ ἐμοῦ. 
+[y vi al Señor que me decía: “Apresúrate y sal pronto de Jerusalén porque no aceptarán tu testimonio acerca de Mí”.]
+
+### Hechos 22:19 {#hech-22-19}
+κἀγὼ εἶπον· Κύριε, αὐτοὶ ἐπίστανται ὅτι ἐγὼ ἤμην φυλακίζων καὶ δέρων κατὰ τὰς συναγωγὰς τοὺς πιστεύοντας ἐπὶ σέ· 
+[»Entonces yo dije: “Señor, ellos saben bien que en las sinagogas, una tras otra, yo encarcelaba y azotaba a los que creían en Ti.]
+
+### Hechos 22:20 {#hech-22-20}
+καὶ ὅτε ⸀ἐξεχύννετο τὸ αἷμα Στεφάνου τοῦ μάρτυρός σου, καὶ αὐτὸς ἤμην ἐφεστὼς καὶ συνευδοκῶν ⸀καὶ φυλάσσων τὰ ἱμάτια τῶν ἀναιρούντων αὐτόν. 
+[Cuando se derramaba la sangre de Tu testigo Esteban, allí estaba también yo dando mi aprobación, y cuidando los mantos de los que lo estaban matando”.]
+
+### Hechos 22:21 {#hech-22-21}
+καὶ εἶπεν πρός με· Πορεύου, ὅτι ἐγὼ εἰς ἔθνη μακρὰν ἐξαποστελῶ σε. 
+[Pero Él me dijo: “Ve, porque te voy a enviar lejos, a los gentiles”».]
+
+### Hechos 22:22 {#hech-22-22}
+Ἤκουον δὲ αὐτοῦ ἄχρι τούτου τοῦ λόγου καὶ ἐπῆραν τὴν φωνὴν αὐτῶν λέγοντες· Αἶρε ἀπὸ τῆς γῆς τὸν τοιοῦτον, οὐ γὰρ καθῆκεν αὐτὸν ζῆν. 
+[La multitud lo oyó hasta que dijo esto, entonces alzaron sus voces y dijeron: «¡Quita de la tierra a ese hombre! No se le debe permitir que viva».]
+
+### Hechos 22:23 {#hech-22-23}
+⸀κραυγαζόντων ⸀τε αὐτῶν καὶ ῥιπτούντων τὰ ἱμάτια καὶ κονιορτὸν βαλλόντων εἰς τὸν ἀέρα, 
+[Como ellos vociferaban, y arrojaban sus mantos, y echaban polvo al aire,]
+
+### Hechos 22:24 {#hech-22-24}
+ἐκέλευσεν ⸂ὁ χιλίαρχος εἰσάγεσθαι αὐτὸν⸃ εἰς τὴν παρεμβολήν, ⸀εἴπας μάστιξιν ἀνετάζεσθαι αὐτὸν ἵνα ἐπιγνῷ διʼ ἣν αἰτίαν οὕτως ἐπεφώνουν αὐτῷ. 
+[el comandante ordenó que llevaran a Pablo al cuartel, diciendo que debía ser sometido a azotes para saber la razón por qué la gente gritaban contra él de aquella manera.]
+
+### Hechos 22:25 {#hech-22-25}
+ὡς δὲ ⸀προέτειναν αὐτὸν τοῖς ἱμᾶσιν εἶπεν πρὸς τὸν ἑστῶτα ἑκατόνταρχον ὁ Παῦλος· Εἰ ἄνθρωπον Ῥωμαῖον καὶ ἀκατάκριτον ἔξεστιν ὑμῖν μαστίζειν; 
+[Cuando lo estiraron con correas, Pablo dijo al centurión que estaba allí: «¿Les es lícito azotar a un ciudadano romano sin haberle hecho juicio?».]
+
+### Hechos 22:26 {#hech-22-26}
+ἀκούσας δὲ ὁ ἑκατοντάρχης προσελθὼν ⸂τῷ χιλιάρχῳ ἀπήγγειλεν⸃ λέγων· ⸀Τί μέλλεις ποιεῖν; ὁ γὰρ ἄνθρωπος οὗτος Ῥωμαῖός ἐστιν. 
+[Al oír esto el centurión, fue al comandante y le avisó: «¿Qué vas a hacer? Porque este hombre es ciudadano romano».]
+
+### Hechos 22:27 {#hech-22-27}
+προσελθὼν δὲ ὁ χιλίαρχος εἶπεν αὐτῷ· Λέγε μοι, ⸀σὺ Ῥωμαῖος εἶ; ὁ δὲ ἔφη· Ναί. 
+[Vino el comandante a Pablo y le dijo: «Dime, ¿eres ciudadano romano?». «Sí», contestó él.]
+
+### Hechos 22:28 {#hech-22-28}
+ἀπεκρίθη ⸀δὲ ὁ χιλίαρχος· Ἐγὼ πολλοῦ κεφαλαίου τὴν πολιτείαν ταύτην ἐκτησάμην. ὁ δὲ Παῦλος ἔφη· Ἐγὼ δὲ καὶ γεγέννημαι. 
+[Y el comandante respondió: «Yo adquirí esta ciudadanía por una gran cantidad de dinero». «Pero yo soy ciudadano romano de nacimiento», le dijo Pablo.]
+
+### Hechos 22:29 {#hech-22-29}
+εὐθέως οὖν ἀπέστησαν ἀπʼ αὐτοῦ οἱ μέλλοντες αὐτὸν ἀνετάζειν· καὶ ὁ χιλίαρχος δὲ ἐφοβήθη ἐπιγνοὺς ὅτι Ῥωμαῖός ἐστιν καὶ ὅτι ⸂αὐτὸν ἦν⸃ δεδεκώς. 
+[Entonces los que iban a someterlo a azotes, al instante lo soltaron. También el comandante tuvo temor cuando supo que Pablo era ciudadano romano, y porque lo había atado con cadenas.]
+
+### Hechos 22:30 {#hech-22-30}
+Τῇ δὲ ἐπαύριον βουλόμενος γνῶναι τὸ ἀσφαλὲς τὸ τί κατηγορεῖται ⸀ὑπὸ τῶν Ἰουδαίων ἔλυσεν ⸀αὐτόν, καὶ ἐκέλευσεν ⸀συνελθεῖν τοὺς ἀρχιερεῖς καὶ ⸀πᾶν τὸ ⸀συνέδριον, καὶ καταγαγὼν τὸν Παῦλον ἔστησεν εἰς αὐτούς. 
+[Al día siguiente, queriendo el comandante saber con certeza la causa por la cual los judíos lo acusaban a Pablo, lo soltó, y ordenó a los principales sacerdotes y a todo el Concilio que se reunieran. Después llevó a Pablo y lo puso ante ellos.]
+
+### Hechos 23:1 {#hech-23-1}
+ἀτενίσας δὲ ⸂ὁ Παῦλος τῷ συνεδρίῳ⸃ εἶπεν· Ἄνδρες ἀδελφοί, ἐγὼ πάσῃ συνειδήσει ἀγαθῇ πεπολίτευμαι τῷ θεῷ ἄχρι ταύτης τῆς ἡμέρας. 
+[Entonces Pablo, mirando fijamente al Concilio, dijo: «Hermanos, hasta este día yo he vivido delante de Dios con una conciencia perfectamente limpia».]
+
+### Hechos 23:2 {#hech-23-2}
+ὁ δὲ ἀρχιερεὺς Ἁνανίας ἐπέταξεν τοῖς παρεστῶσιν αὐτῷ τύπτειν αὐτοῦ τὸ στόμα. 
+[Y el sumo sacerdote Ananías ordenó a los que estaban junto a él, que lo golpearan en la boca.]
+
+### Hechos 23:3 {#hech-23-3}
+τότε ὁ Παῦλος πρὸς αὐτὸν εἶπεν· Τύπτειν σε μέλλει ὁ θεός, τοῖχε κεκονιαμένε· καὶ σὺ κάθῃ κρίνων με κατὰ τὸν νόμον, καὶ παρανομῶν κελεύεις με τύπτεσθαι; 
+[Entonces Pablo le dijo: «¡Dios lo golpeará a usted, pared blanqueada! ¿Se sienta usted para juzgarme conforme a la ley, y viola la ley ordenando que me golpeen?».]
+
+### Hechos 23:4 {#hech-23-4}
+οἱ δὲ παρεστῶτες εἶπαν· Τὸν ἀρχιερέα τοῦ θεοῦ λοιδορεῖς; 
+[Los que estaban allí observando, dijeron: «¿Al sumo sacerdote de Dios injurias?».]
+
+### Hechos 23:5 {#hech-23-5}
+ἔφη τε ὁ Παῦλος· Οὐκ ᾔδειν, ἀδελφοί, ὅτι ἐστὶν ἀρχιερεύς· γέγραπται γὰρ ⸀ὅτι Ἄρχοντα τοῦ λαοῦ σου οὐκ ἐρεῖς κακῶς. 
+[Y Pablo dijo: «No sabía, hermanos, que él era el sumo sacerdote; porque escrito está: “NO HABLARÁS MAL DE UNA DE LAS AUTORIDADES DE TU PUEBLO”».]
+
+### Hechos 23:6 {#hech-23-6}
+Γνοὺς δὲ ὁ Παῦλος ὅτι τὸ ἓν μέρος ἐστὶν Σαδδουκαίων τὸ δὲ ἕτερον Φαρισαίων ⸀ἔκραζεν ἐν τῷ συνεδρίῳ· Ἄνδρες ἀδελφοί, ἐγὼ Φαρισαῖός εἰμι, υἱὸς ⸀Φαρισαίων· περὶ ἐλπίδος καὶ ἀναστάσεως νεκρῶν ⸀ἐγὼ κρίνομαι. 
+[Entonces Pablo, dándose cuenta de que una parte eran saduceos y otra fariseos, alzó la voz en el Concilio: «Hermanos, yo soy fariseo, hijo de fariseos. Se me juzga a causa de la esperanza de la resurrección de los muertos».]
+
+### Hechos 23:7 {#hech-23-7}
+τοῦτο δὲ αὐτοῦ ⸀λαλοῦντος ἐγένετο στάσις τῶν Φαρισαίων ⸂καὶ Σαδδουκαίων⸃, καὶ ἐσχίσθη τὸ πλῆθος. 
+[Cuando dijo esto, se produjo un altercado entre los fariseos y los saduceos, y la asamblea se dividió.]
+
+### Hechos 23:8 {#hech-23-8}
+Σαδδουκαῖοι ⸀μὲν γὰρ λέγουσιν μὴ εἶναι ἀνάστασιν ⸀μήτε ἄγγελον μήτε πνεῦμα, Φαρισαῖοι δὲ ὁμολογοῦσιν τὰ ἀμφότερα. 
+[Porque los saduceos dicen que no hay resurrección, ni ángel, ni espíritu, pero los fariseos creen todo esto.]
+
+### Hechos 23:9 {#hech-23-9}
+ἐγένετο δὲ κραυγὴ μεγάλη, καὶ ἀναστάντες ⸂τινὲς τῶν γραμματέων⸃ τοῦ μέρους τῶν Φαρισαίων διεμάχοντο λέγοντες· Οὐδὲν κακὸν εὑρίσκομεν ἐν τῷ ἀνθρώπῳ τούτῳ· εἰ δὲ πνεῦμα ἐλάλησεν αὐτῷ ἢ ⸀ἄγγελος— 
+[Se produjo entonces un gran alboroto. Y levantándose algunos de los escribas del grupo de los fariseos, discutían enérgicamente, diciendo: «No encontramos nada malo en este hombre; pero ¿y si un espíritu o un ángel le ha hablado?».]
+
+### Hechos 23:10 {#hech-23-10}
+πολλῆς δὲ ⸀γινομένης στάσεως ⸀φοβηθεὶς ὁ χιλίαρχος μὴ διασπασθῇ ὁ Παῦλος ὑπʼ αὐτῶν ἐκέλευσεν τὸ στράτευμα ⸀καταβὰν ἁρπάσαι αὐτὸν ἐκ μέσου αὐτῶν, ἄγειν ⸀τε εἰς τὴν παρεμβολήν. 
+[Al surgir un gran altercado, el comandante tuvo temor de que Pablo fuera despedazado por ellos, y ordenó que las tropas descendieran, lo sacaran de entre ellos a la fuerza y lo llevaran al cuartel.]
+
+### Hechos 23:11 {#hech-23-11}
+Τῇ δὲ ἐπιούσῃ νυκτὶ ἐπιστὰς αὐτῷ ὁ κύριος εἶπεν· ⸀Θάρσει, ὡς γὰρ διεμαρτύρω τὰ περὶ ἐμοῦ εἰς Ἰερουσαλὴμ οὕτω σε δεῖ καὶ εἰς Ῥώμην μαρτυρῆσαι. 
+[A la noche siguiente el Señor se le apareció a Pablo y le dijo: «Ten ánimo, porque como has testificado fielmente de Mi causa en Jerusalén, así has de testificar también en Roma».]
+
+### Hechos 23:12 {#hech-23-12}
+Γενομένης δὲ ἡμέρας ποιήσαντες ⸂συστροφὴν οἱ Ἰουδαῖοι⸃ ἀνεθεμάτισαν ἑαυτοὺς λέγοντες μήτε φαγεῖν μήτε πιεῖν ἕως οὗ ἀποκτείνωσιν τὸν Παῦλον. 
+[Cuando se hizo de día, los judíos tramaron una conspiración y se comprometieron bajo juramento, diciendo que no comerían ni beberían hasta que hubieran matado a Pablo.]
+
+### Hechos 23:13 {#hech-23-13}
+ἦσαν δὲ πλείους τεσσεράκοντα οἱ ταύτην τὴν συνωμοσίαν ⸀ποιησάμενοι· 
+[Los que tramaron este plan eran más de cuarenta hombres,]
+
+### Hechos 23:14 {#hech-23-14}
+οἵτινες προσελθόντες τοῖς ἀρχιερεῦσιν καὶ τοῖς πρεσβυτέροις εἶπαν· Ἀναθέματι ἀνεθεματίσαμεν ἑαυτοὺς μηδενὸς γεύσασθαι ἕως οὗ ἀποκτείνωμεν τὸν Παῦλον. 
+[los cuales fueron a los principales sacerdotes y a los ancianos y dijeron: «Nos hemos comprometido bajo solemne juramento a no probar nada hasta que hayamos matado a Pablo.]
+
+### Hechos 23:15 {#hech-23-15}
+νῦν οὖν ὑμεῖς ἐμφανίσατε τῷ χιλιάρχῳ σὺν τῷ συνεδρίῳ ⸀ὅπως ⸂καταγάγῃ αὐτὸν εἰς⸃ ὑμᾶς ὡς μέλλοντας διαγινώσκειν ἀκριβέστερον τὰ περὶ αὐτοῦ· ἡμεῖς δὲ πρὸ τοῦ ἐγγίσαι αὐτὸν ἕτοιμοί ἐσμεν τοῦ ἀνελεῖν αὐτόν. 
+[Ahora pues, ustedes y el Concilio, avisen al comandante para que lo haga comparecer ante ustedes, como si quisieran hacer una investigación más minuciosa para resolver su caso. Nosotros por nuestra parte estamos listos para matarlo antes de que llegue».]
+
+### Hechos 23:16 {#hech-23-16}
+Ἀκούσας δὲ ὁ υἱὸς τῆς ἀδελφῆς Παύλου ⸂τὴν ἐνέδραν⸃ παραγενόμενος καὶ εἰσελθὼν εἰς τὴν παρεμβολὴν ἀπήγγειλεν τῷ Παύλῳ. 
+[Pero el hijo de la hermana de Pablo se enteró de la emboscada, y fue y entró al cuartel y dio aviso a Pablo.]
+
+### Hechos 23:17 {#hech-23-17}
+προσκαλεσάμενος δὲ ὁ Παῦλος ἕνα τῶν ἑκατονταρχῶν ἔφη· Τὸν νεανίαν τοῦτον ⸀ἄπαγε πρὸς τὸν χιλίαρχον, ἔχει γὰρ ⸂ἀπαγγεῖλαί τι⸃ αὐτῷ. 
+[Pablo, llamando a uno de los centuriones, dijo: «Lleva a este joven al comandante, porque tiene algo que informarle».]
+
+### Hechos 23:18 {#hech-23-18}
+ὁ μὲν οὖν παραλαβὼν αὐτὸν ἤγαγεν πρὸς τὸν χιλίαρχον καὶ φησίν· Ὁ δέσμιος Παῦλος προσκαλεσάμενός με ἠρώτησεν τοῦτον τὸν ⸀νεανίαν ἀγαγεῖν πρὸς σέ, ἔχοντά τι λαλῆσαί σοι. 
+[Él entonces, tomándolo consigo, lo condujo al comandante, y le dijo*: «Pablo, el preso, me llamó y me pidió que te trajera a este joven, pues tiene algo que decirte».]
+
+### Hechos 23:19 {#hech-23-19}
+ἐπιλαβόμενος δὲ τῆς χειρὸς αὐτοῦ ὁ χιλίαρχος καὶ ἀναχωρήσας κατʼ ἰδίαν ἐπυνθάνετο· Τί ἐστιν ὃ ἔχεις ἀπαγγεῖλαί μοι; 
+[El comandante, tomándolo de la mano, y llevándolo aparte, le preguntó: «¿Qué es lo que tienes que informarme?».]
+
+### Hechos 23:20 {#hech-23-20}
+εἶπεν δὲ ὅτι Οἱ Ἰουδαῖοι συνέθεντο τοῦ ἐρωτῆσαί σε ὅπως αὔριον ⸂τὸν Παῦλον καταγάγῃς εἰς τὸ συνέδριον⸃ ὡς ⸀μέλλον τι ἀκριβέστερον πυνθάνεσθαι περὶ αὐτοῦ· 
+[Y el joven respondió: «Los judíos se han puesto de acuerdo en pedirle que mañana lleve a Pablo al Concilio con el pretexto de hacer una indagación más a fondo sobre él.]
+
+### Hechos 23:21 {#hech-23-21}
+σὺ οὖν μὴ πεισθῇς αὐτοῖς, ἐνεδρεύουσιν γὰρ αὐτὸν ἐξ αὐτῶν ἄνδρες πλείους τεσσεράκοντα, οἵτινες ἀνεθεμάτισαν ἑαυτοὺς μήτε φαγεῖν μήτε πιεῖν ἕως οὗ ἀνέλωσιν αὐτόν, καὶ νῦν ⸂εἰσιν ἕτοιμοι⸃ προσδεχόμενοι τὴν ἀπὸ σοῦ ἐπαγγελίαν. 
+[Pero no les preste atención, porque más de cuarenta hombres de ellos, que se han comprometido bajo juramento a no comer ni beber hasta que lo hayan matado, esperan emboscados. Ellos ya están listos esperando promesa de parte suya».]
+
+### Hechos 23:22 {#hech-23-22}
+ὁ μὲν οὖν χιλίαρχος ἀπέλυσε τὸν ⸀νεανίσκον παραγγείλας μηδενὶ ἐκλαλῆσαι ὅτι ταῦτα ἐνεφάνισας πρὸς ⸀ἐμέ. 
+[Entonces el comandante dejó ir al joven, encomendándole: «No digas a nadie que me has informado de estas cosas».]
+
+### Hechos 23:23 {#hech-23-23}
+Καὶ προσκαλεσάμενός ⸂τινας δύο⸃ τῶν ἑκατονταρχῶν εἶπεν· Ἑτοιμάσατε στρατιώτας διακοσίους ὅπως πορευθῶσιν ἕως Καισαρείας, καὶ ἱππεῖς ἑβδομήκοντα καὶ δεξιολάβους διακοσίους, ἀπὸ τρίτης ὥρας τῆς νυκτός, 
+[Y llamando a dos de los centuriones, dijo: «Preparen 200 soldados para las nueve de la noche, con setenta jinetes y 200 lanceros, para que vayan a Cesarea».]
+
+### Hechos 23:24 {#hech-23-24}
+κτήνη τε παραστῆσαι ἵνα ἐπιβιβάσαντες τὸν Παῦλον διασώσωσι πρὸς Φήλικα τὸν ἡγεμόνα, 
+[Debían preparar también cabalgaduras para Pablo y llevarlo a salvo al gobernador Félix.]
+
+### Hechos 23:25 {#hech-23-25}
+γράψας ἐπιστολὴν ⸀ἔχουσαν τὸν τύπον τοῦτον· 
+[También el comandante escribió una carta en estos términos:]
+
+### Hechos 23:26 {#hech-23-26}
+Κλαύδιος Λυσίας τῷ κρατίστῳ ἡγεμόνι Φήλικι χαίρειν. 
+[«Claudio Lisias, al excelentísimo gobernador Félix: Salud.]
+
+### Hechos 23:27 {#hech-23-27}
+τὸν ἄνδρα τοῦτον συλλημφθέντα ὑπὸ τῶν Ἰουδαίων καὶ μέλλοντα ἀναιρεῖσθαι ὑπʼ αὐτῶν ἐπιστὰς σὺν τῷ στρατεύματι ⸀ἐξειλάμην, μαθὼν ὅτι Ῥωμαῖός ἐστιν, 
+[Cuando este hombre fue arrestado por los judíos, y estaba a punto de ser muerto por ellos, al saber que era romano, fui con las tropas y lo rescaté.]
+
+### Hechos 23:28 {#hech-23-28}
+βουλόμενός ⸀τε ⸀ἐπιγνῶναι τὴν αἰτίαν διʼ ἣν ἐνεκάλουν αὐτῷ, ⸀κατήγαγον εἰς τὸ συνέδριον αὐτῶν. 
+[Queriendo cerciorarme de la causa por la cual lo acusaban, lo llevé a su Concilio]
+
+### Hechos 23:29 {#hech-23-29}
+ὃν εὗρον ἐγκαλούμενον περὶ ζητημάτων τοῦ νόμου αὐτῶν, μηδὲν ⸀δὲ ἄξιον θανάτου ἢ δεσμῶν ⸂ἔχοντα ἔγκλημα⸃. 
+[y hallé que lo acusaban sobre cuestiones de su ley, pero no de ningún cargo que mereciera muerte o prisión.]
+
+### Hechos 23:30 {#hech-23-30}
+μηνυθείσης δέ μοι ἐπιβουλῆς εἰς τὸν ⸀ἄνδρα ἔσεσθαι ⸀ἐξαυτῆς ἔπεμψα πρὸς σέ, παραγγείλας καὶ τοῖς κατηγόροις ⸀λέγειν πρὸς αὐτὸν ἐπὶ ⸀σοῦ. 
+[Cuando se me informó de que había un plan en contra del hombre, se lo envié enseguida, instruyendo también a sus acusadores que presenten los cargos contra él delante de usted».]
+
+### Hechos 23:31 {#hech-23-31}
+Οἱ μὲν οὖν στρατιῶται κατὰ τὸ διατεταγμένον αὐτοῖς ἀναλαβόντες τὸν Παῦλον ἤγαγον ⸀διὰ νυκτὸς εἰς τὴν Ἀντιπατρίδα· 
+[Así que los soldados, de acuerdo con las órdenes que tenían, tomaron a Pablo y lo llevaron de noche a Antípatris.]
+
+### Hechos 23:32 {#hech-23-32}
+τῇ δὲ ἐπαύριον ἐάσαντες τοὺς ἱππεῖς ⸀ἀπέρχεσθαι σὺν αὐτῷ ὑπέστρεψαν εἰς τὴν παρεμβολήν· 
+[Al día siguiente regresaron al cuartel dejando que los de a caballo siguieran con él,]
+
+### Hechos 23:33 {#hech-23-33}
+οἵτινες εἰσελθόντες εἰς τὴν Καισάρειαν καὶ ἀναδόντες τὴν ἐπιστολὴν τῷ ἡγεμόνι παρέστησαν καὶ τὸν Παῦλον αὐτῷ. 
+[los cuales, después de llegar a Cesarea y de entregar la carta al gobernador, le presentaron también a Pablo.]
+
+### Hechos 23:34 {#hech-23-34}
+ἀναγνοὺς ⸀δὲ καὶ ἐπερωτήσας ἐκ ποίας ⸀ἐπαρχείας ἐστὶν καὶ πυθόμενος ὅτι ἀπὸ Κιλικίας, 
+[Cuando el gobernador leyó la carta, preguntó de qué provincia era Pablo. Y al enterarse de que era de Cilicia,]
+
+### Hechos 23:35 {#hech-23-35}
+Διακούσομαί σου, ἔφη, ὅταν καὶ οἱ κατήγοροί σου παραγένωνται· ⸀κελεύσας ἐν τῷ πραιτωρίῳ ⸀τοῦ Ἡρῴδου φυλάσσεσθαι ⸀αὐτόν. 
+[dijo: «Te oiré cuando estén presentes también tus acusadores». Y mandó que lo guardaran en el Pretorio de Herodes.]
+
+### Hechos 24:1 {#hech-24-1}
+Μετὰ δὲ πέντε ἡμέρας κατέβη ὁ ἀρχιερεὺς Ἁνανίας μετὰ ⸂πρεσβυτέρων τινῶν⸃ καὶ ῥήτορος Τερτύλλου τινός, οἵτινες ἐνεφάνισαν τῷ ἡγεμόνι κατὰ τοῦ Παύλου. 
+[Cinco días más tarde el sumo sacerdote Ananías descendió a Cesarea con algunos ancianos y con un abogado llamado Tértulo; y presentaron al gobernador sus cargos contra Pablo.]
+
+### Hechos 24:2 {#hech-24-2}
+κληθέντος δὲ αὐτοῦ ἤρξατο κατηγορεῖν ὁ Τέρτυλλος λέγων· Πολλῆς εἰρήνης τυγχάνοντες διὰ σοῦ καὶ ⸀διορθωμάτων γινομένων τῷ ἔθνει τούτῳ διὰ τῆς σῆς προνοίας 
+[Después que llamaron a Pablo, Tértulo comenzó a acusarlo, diciendo al gobernador: «Ya que por usted hemos obtenido mucha paz, y que por providencia suya se están llevando a cabo reformas en favor de esta nación,]
+
+### Hechos 24:3 {#hech-24-3}
+πάντῃ τε καὶ πανταχοῦ ἀποδεχόμεθα, κράτιστε Φῆλιξ, μετὰ πάσης εὐχαριστίας. 
+[nosotros, por todos los medios y en todas partes, reconocemos esto con profunda gratitud, oh excelentísimo Félix.]
+
+### Hechos 24:4 {#hech-24-4}
+ἵνα δὲ μὴ ἐπὶ πλεῖόν σε ἐγκόπτω, παρακαλῶ ἀκοῦσαί σε ἡμῶν συντόμως τῇ σῇ ἐπιεικείᾳ. 
+[»Pero para no molestarle más, le suplico que, con su habitual bondad, nos conceda una breve audiencia.]
+
+### Hechos 24:5 {#hech-24-5}
+εὑρόντες γὰρ τὸν ἄνδρα τοῦτον λοιμὸν καὶ κινοῦντα ⸀στάσεις πᾶσι τοῖς Ἰουδαίοις τοῖς κατὰ τὴν οἰκουμένην πρωτοστάτην τε τῆς τῶν Ναζωραίων αἱρέσεως, 
+[Pues hemos descubierto que este hombre es verdaderamente una plaga, y que provoca disensiones entre todos los judíos por el mundo entero, y es líder de la secta de los nazarenos.]
+
+### Hechos 24:6 {#hech-24-6}
+ὃς καὶ τὸ ἱερὸν ἐπείρασεν βεβηλῶσαι, ὃν καὶ ⸀ἐκρατήσαμεν, 
+[Hasta trató de profanar el templo. Entonces lo arrestamos y quisimos juzgarlo conforme a nuestra ley.]
+
+### Hechos 24:8 {#hech-24-8}
+παρʼ οὗ δυνήσῃ αὐτὸς ἀνακρίνας περὶ πάντων τούτων ἐπιγνῶναι ὧν ἡμεῖς κατηγοροῦμεν αὐτοῦ. 
+[mandando a sus acusadores que vinieran a usted. Si usted mismo lo interroga sobre todo lo que he dicho, podrá confirmar las cosas de que lo acusamos».]
+
+### Hechos 24:9 {#hech-24-9}
+συνεπέθεντο δὲ καὶ οἱ Ἰουδαῖοι φάσκοντες ταῦτα οὕτως ἔχειν. 
+[Los judíos se unieron también a la acusación, asegurando que, efectivamente, así era todo.]
+
+### Hechos 24:10 {#hech-24-10}
+Ἀπεκρίθη ⸀τε ὁ Παῦλος νεύσαντος αὐτῷ τοῦ ἡγεμόνος λέγειν· Ἐκ πολλῶν ἐτῶν ὄντα σε κριτὴν τῷ ἔθνει τούτῳ ἐπιστάμενος ⸀εὐθύμως τὰ περὶ ἐμαυτοῦ ἀπολογοῦμαι, 
+[Después que el gobernador le hizo una señal para que hablara, Pablo respondió: «Sabiendo que por muchos años usted ha sido juez de esta nación, con gusto presento mi defensa,]
+
+### Hechos 24:11 {#hech-24-11}
+δυναμένου σου ⸀ἐπιγνῶναι, ὅτι οὐ πλείους εἰσίν μοι ἡμέραι ⸀δώδεκα ἀφʼ ἧς ἀνέβην προσκυνήσων ⸀εἰς Ἰερουσαλήμ, 
+[puesto que usted puede comprobar el hecho de que no hace más de doce días que subí a Jerusalén a adorar.]
+
+### Hechos 24:12 {#hech-24-12}
+καὶ οὔτε ἐν τῷ ἱερῷ εὗρόν με πρός τινα διαλεγόμενον ἢ ⸀ἐπίστασιν ποιοῦντα ὄχλου οὔτε ἐν ταῖς συναγωγαῖς οὔτε κατὰ τὴν πόλιν, 
+[Y ni en el templo, ni en las sinagogas, ni en la ciudad misma me encontraron discutiendo con nadie o provocando un tumulto.]
+
+### Hechos 24:13 {#hech-24-13}
+⸀οὐδὲ ⸀παραστῆσαι δύνανταί ⸀σοι περὶ ὧν ⸀νυνὶ κατηγοροῦσίν μου. 
+[Ni tampoco pueden probar de lo que ahora me acusan.]
+
+### Hechos 24:14 {#hech-24-14}
+ὁμολογῶ δὲ τοῦτό σοι ὅτι κατὰ τὴν ὁδὸν ἣν λέγουσιν αἵρεσιν οὕτως λατρεύω τῷ πατρῴῳ θεῷ, πιστεύων πᾶσι τοῖς κατὰ τὸν νόμον καὶ ⸂τοῖς ἐν⸃ τοῖς προφήταις γεγραμμένοις, 
+[»Pero esto admito ante usted, que según el Camino que ellos llaman secta, yo sirvo al Dios de nuestros padres, creyendo todo lo que es conforme a la ley y lo que está escrito en los profetas;]
+
+### Hechos 24:15 {#hech-24-15}
+ἐλπίδα ἔχων εἰς τὸν θεόν, ἣν καὶ αὐτοὶ οὗτοι προσδέχονται, ἀνάστασιν μέλλειν ⸀ἔσεσθαι δικαίων τε καὶ ἀδίκων· 
+[teniendo la misma esperanza en Dios que estos también abrigan, de que ciertamente habrá una resurrección tanto de los justos como de los impíos.]
+
+### Hechos 24:16 {#hech-24-16}
+ἐν τούτῳ ⸀καὶ αὐτὸς ἀσκῶ ἀπρόσκοπον συνείδησιν ⸀ἔχειν πρὸς τὸν θεὸν καὶ τοὺς ἀνθρώπους διὰ παντός. 
+[Por esto, yo también me esfuerzo por conservar siempre una conciencia irreprensible delante de Dios y delante de los hombres.]
+
+### Hechos 24:17 {#hech-24-17}
+διʼ ἐτῶν δὲ πλειόνων ⸂ἐλεημοσύνας ποιήσων εἰς τὸ ἔθνος μου παρεγενόμην⸃ καὶ προσφοράς, 
+[»Después de varios años, he venido para traer limosnas a mi nación y a presentar ofrendas.]
+
+### Hechos 24:18 {#hech-24-18}
+ἐν ⸀αἷς εὗρόν με ἡγνισμένον ἐν τῷ ἱερῷ, οὐ μετὰ ὄχλου οὐδὲ μετὰ θορύβου, 
+[En esto estaba cuando me encontraron en el templo, después de haberme purificado, no con multitud ni con alboroto. Pero estaban allí ciertos judíos de Asia,]
+
+### Hechos 24:19 {#hech-24-19}
+τινὲς δὲ ἀπὸ τῆς Ἀσίας Ἰουδαῖοι, οὓς ⸀ἔδει ἐπὶ σοῦ παρεῖναι καὶ κατηγορεῖν εἴ τι ἔχοιεν πρὸς ⸀ἐμέ, 
+[y que deberían haberse presentado aquí ante usted y acusarme si tuvieran algo contra mí.]
+
+### Hechos 24:20 {#hech-24-20}
+ἢ αὐτοὶ οὗτοι εἰπάτωσαν τί ⸀εὗρον ἀδίκημα στάντος μου ἐπὶ τοῦ συνεδρίου 
+[»O si no, que estos mismos digan qué delito encontraron cuando comparecí ante el Concilio,]
+
+### Hechos 24:21 {#hech-24-21}
+ἢ περὶ μιᾶς ταύτης φωνῆς ἧς ἐκέκραξα ⸂ἐν αὐτοῖς ἑστὼς⸃ ὅτι Περὶ ἀναστάσεως νεκρῶν ἐγὼ κρίνομαι σήμερον ⸀ἐφʼ ὑμῶν. 
+[a no ser por esta sola declaración que hice en voz alta mientras estaba entre ellos: “Por la resurrección de los muertos soy juzgado hoy ante ustedes”».]
+
+### Hechos 24:22 {#hech-24-22}
+⸂Ἀνεβάλετο δὲ αὐτοὺς ὁ Φῆλιξ⸃, ἀκριβέστερον εἰδὼς τὰ περὶ τῆς ὁδοῦ, ⸀εἴπας· Ὅταν Λυσίας ὁ χιλίαρχος καταβῇ διαγνώσομαι τὰ καθʼ ὑμᾶς· 
+[Entonces Félix, que conocía con bastante exactitud acerca del Camino, dejó el fallo para después, diciendo: «Cuando venga el comandante Lisias decidiré el caso de ustedes».]
+
+### Hechos 24:23 {#hech-24-23}
+⸀διαταξάμενος τῷ ἑκατοντάρχῃ τηρεῖσθαι ⸀αὐτὸν ἔχειν τε ἄνεσιν καὶ μηδένα κωλύειν τῶν ἰδίων αὐτοῦ ⸀ὑπηρετεῖν αὐτῷ. 
+[Y dio órdenes al centurión de que tuviera a Pablo bajo custodia, pero con alguna medida de libertad, y que no impidiera a ninguno de sus amigos que lo sirvieran.]
+
+### Hechos 24:24 {#hech-24-24}
+Μετὰ δὲ ἡμέρας τινὰς παραγενόμενος ὁ Φῆλιξ σὺν Δρουσίλλῃ τῇ ⸀ἰδίᾳ γυναικὶ οὔσῃ Ἰουδαίᾳ μετεπέμψατο τὸν Παῦλον καὶ ἤκουσεν αὐτοῦ περὶ τῆς εἰς Χριστὸν ⸀Ἰησοῦν πίστεως. 
+[Pero pocos días más tarde, llegó Félix con Drusila su mujer, que era judía, y mandó traer a Pablo y lo oyó hablar acerca de la fe en Cristo Jesús.]
+
+### Hechos 24:25 {#hech-24-25}
+διαλεγομένου δὲ αὐτοῦ περὶ δικαιοσύνης καὶ ἐγκρατείας καὶ τοῦ κρίματος τοῦ ⸀μέλλοντος ἔμφοβος γενόμενος ὁ Φῆλιξ ἀπεκρίθη· Τὸ νῦν ἔχον πορεύου, καιρὸν δὲ μεταλαβὼν μετακαλέσομαί σε· 
+[Al disertar Pablo sobre la justicia, el dominio propio y el juicio venidero, Félix, atemorizado dijo: «Vete por ahora, pero cuando tenga tiempo te mandaré llamar».]
+
+### Hechos 24:26 {#hech-24-26}
+ἅμα καὶ ἐλπίζων ὅτι χρήματα δοθήσεται αὐτῷ ὑπὸ τοῦ ⸀Παύλου· διὸ καὶ πυκνότερον αὐτὸν μεταπεμπόμενος ὡμίλει αὐτῷ. 
+[Al mismo tiempo, tenía esperanza de que Pablo le diera dinero. Por eso acostumbraba llamarlo con frecuencia y conversar con él.]
+
+### Hechos 24:27 {#hech-24-27}
+Διετίας δὲ πληρωθείσης ἔλαβεν διάδοχον ὁ Φῆλιξ Πόρκιον Φῆστον· θέλων τε ⸀χάριτα καταθέσθαι τοῖς Ἰουδαίοις ὁ Φῆλιξ κατέλιπε τὸν Παῦλον δεδεμένον. 
+[Pero transcurridos dos años, Porcio Festo llegó como sucesor de Félix, y deseando hacer un favor a los judíos, Félix dejó preso a Pablo.]
+
+### Hechos 25:1 {#hech-25-1}
+Φῆστος οὖν ἐπιβὰς τῇ ἐπαρχείᾳ μετὰ τρεῖς ἡμέρας ἀνέβη εἰς Ἱεροσόλυμα ἀπὸ Καισαρείας, 
+[Festo, entonces, tres días después de haber llegado a la provincia, subió a Jerusalén desde Cesarea.]
+
+### Hechos 25:2 {#hech-25-2}
+ἐνεφάνισάν ⸀τε αὐτῷ ⸂οἱ ἀρχιερεῖς⸃ καὶ οἱ πρῶτοι τῶν Ἰουδαίων κατὰ τοῦ Παύλου, καὶ παρεκάλουν αὐτὸν 
+[Y los principales sacerdotes y los judíos más influyentes le presentaron acusaciones contra Pablo, e insistían con Festo,]
+
+### Hechos 25:3 {#hech-25-3}
+αἰτούμενοι χάριν κατʼ αὐτοῦ ὅπως μεταπέμψηται αὐτὸν εἰς Ἰερουσαλήμ, ἐνέδραν ποιοῦντες ἀνελεῖν αὐτὸν κατὰ τὴν ὁδόν. 
+[pidiéndole, el favor de que hiciera traer a Pablo a Jerusalén, preparando ellos, al mismo tiempo, una emboscada para matarlo en el camino.]
+
+### Hechos 25:4 {#hech-25-4}
+ὁ μὲν οὖν Φῆστος ἀπεκρίθη τηρεῖσθαι τὸν Παῦλον ⸂εἰς Καισάρειαν⸃, ἑαυτὸν δὲ μέλλειν ἐν τάχει ἐκπορεύεσθαι· 
+[Pero Festo respondió que Pablo estaba bajo custodia en Cesarea, y que en breve él mismo saldría para allá.]
+
+### Hechos 25:5 {#hech-25-5}
+Οἱ οὖν ⸂ἐν ὑμῖν, φησίν, δυνατοὶ⸃ συγκαταβάντες εἴ τί ἐστιν ἐν τῷ ἀνδρὶ ⸀ἄτοπον κατηγορείτωσαν αὐτοῦ. 
+[Por tanto dijo*: «Que los más influyentes de ustedes vayan allá conmigo, y si hay algo malo en el hombre, que lo acusen».]
+
+### Hechos 25:6 {#hech-25-6}
+Διατρίψας δὲ ἐν αὐτοῖς ἡμέρας ⸂οὐ πλείους ὀκτὼ⸃ ἢ δέκα, καταβὰς εἰς Καισάρειαν, τῇ ἐπαύριον καθίσας ἐπὶ τοῦ βήματος ἐκέλευσεν τὸν Παῦλον ἀχθῆναι. 
+[Después de haberse quedado no más de ocho o diez días entre ellos, descendió a Cesarea, y al día siguiente se sentó en el tribunal y ordenó que trajeran a Pablo.]
+
+### Hechos 25:7 {#hech-25-7}
+παραγενομένου δὲ αὐτοῦ περιέστησαν ⸀αὐτὸν οἱ ἀπὸ Ἱεροσολύμων καταβεβηκότες Ἰουδαῖοι, πολλὰ καὶ βαρέα αἰτιώματα ⸀καταφέροντες ἃ οὐκ ἴσχυον ἀποδεῖξαι, 
+[Cuando este llegó, lo rodearon los judíos que habían descendido de Jerusalén, presentando contra él muchas y graves acusaciones que no podían probar,]
+
+### Hechos 25:8 {#hech-25-8}
+⸂τοῦ Παύλου ἀπολογουμένου⸃ ὅτι Οὔτε εἰς τὸν νόμον τῶν Ἰουδαίων οὔτε εἰς τὸ ἱερὸν οὔτε εἰς Καίσαρά τι ἥμαρτον. 
+[mientras Pablo decía en defensa propia: «No he cometido ningún delito, ni contra la ley de los judíos, ni contra el templo, ni contra César».]
+
+### Hechos 25:9 {#hech-25-9}
+ὁ Φῆστος δὲ ⸂θέλων τοῖς Ἰουδαίοις⸃ χάριν καταθέσθαι ἀποκριθεὶς τῷ Παύλῳ εἶπεν· Θέλεις εἰς Ἱεροσόλυμα ἀναβὰς ἐκεῖ περὶ τούτων ⸀κριθῆναι ἐπʼ ἐμοῦ; 
+[Pero Festo, queriendo hacer un favor a los judíos, respondió a Pablo, y dijo: «¿Estás dispuesto a subir a Jerusalén y a ser juzgado delante de mí por estas acusaciones?».]
+
+### Hechos 25:10 {#hech-25-10}
+εἶπεν δὲ ὁ Παῦλος· ⸂Ἐπὶ τοῦ βήματος Καίσαρος ἑστώς⸃ εἰμι, οὗ με δεῖ κρίνεσθαι. Ἰουδαίους οὐδὲν ⸀ἠδίκησα, ὡς καὶ σὺ κάλλιον ἐπιγινώσκεις. 
+[Entonces Pablo respondió: «Ante el tribunal de César estoy, que es donde debo ser juzgado. Ningún agravio he hecho a los judíos, como también usted muy bien sabe.]
+
+### Hechos 25:11 {#hech-25-11}
+εἰ μὲν ⸀οὖν ἀδικῶ καὶ ἄξιον θανάτου πέπραχά τι, οὐ παραιτοῦμαι τὸ ἀποθανεῖν· εἰ δὲ οὐδέν ἐστιν ὧν οὗτοι κατηγοροῦσίν μου, οὐδείς με δύναται αὐτοῖς χαρίσασθαι· Καίσαρα ἐπικαλοῦμαι. 
+[Si soy, pues, un malhechor y he hecho algo digno de muerte, no rehúso morir. Pero si ninguna de esas cosas de que estos me acusan es verdad, nadie puede entregarme a ellos. Apelo a César».]
+
+### Hechos 25:12 {#hech-25-12}
+τότε ὁ Φῆστος συλλαλήσας μετὰ τοῦ συμβουλίου ἀπεκρίθη· Καίσαρα ἐπικέκλησαι, ἐπὶ Καίσαρα πορεύσῃ. 
+[Entonces Festo, habiendo deliberado con el consejo, respondió: «A César has apelado, a César irás».]
+
+### Hechos 25:13 {#hech-25-13}
+Ἡμερῶν δὲ διαγενομένων τινῶν Ἀγρίππας ὁ βασιλεὺς καὶ Βερνίκη κατήντησαν εἰς Καισάρειαν ἀσπασάμενοι τὸν Φῆστον. 
+[Pasados varios días, el rey Herodes Agripa II y Berenice llegaron a Cesarea y fueron a saludar a Festo.]
+
+### Hechos 25:14 {#hech-25-14}
+ὡς δὲ πλείους ἡμέρας ⸀διέτριβον ἐκεῖ, ὁ Φῆστος τῷ βασιλεῖ ἀνέθετο τὰ κατὰ τὸν Παῦλον λέγων· Ἀνήρ τίς ἐστιν καταλελειμμένος ὑπὸ Φήλικος δέσμιος, 
+[Como estuvieron allí muchos días, Festo presentó el caso de Pablo ante el rey, diciendo: «Hay un hombre que Félix dejó preso,]
+
+### Hechos 25:15 {#hech-25-15}
+περὶ οὗ γενομένου μου εἰς Ἱεροσόλυμα ἐνεφάνισαν οἱ ἀρχιερεῖς καὶ οἱ πρεσβύτεροι τῶν Ἰουδαίων, αἰτούμενοι κατʼ αὐτοῦ ⸀καταδίκην· 
+[acerca del cual, estando yo en Jerusalén, los principales sacerdotes y los ancianos de los judíos presentaron acusaciones contra él, pidiendo sentencia condenatoria contra él.]
+
+### Hechos 25:16 {#hech-25-16}
+πρὸς οὓς ἀπεκρίθην ὅτι οὐκ ἔστιν ἔθος Ῥωμαίοις χαρίζεσθαί τινα ⸀ἄνθρωπον πρὶν ἢ ὁ κατηγορούμενος κατὰ πρόσωπον ἔχοι τοὺς κατηγόρους τόπον τε ἀπολογίας λάβοι περὶ τοῦ ἐγκλήματος. 
+[Yo les respondí que no es costumbre de los romanos entregar a un hombre sin que antes el acusado confronte a sus acusadores, y tenga la oportunidad de defenderse de los cargos.]
+
+### Hechos 25:17 {#hech-25-17}
+συνελθόντων ⸀οὖν ἐνθάδε ἀναβολὴν μηδεμίαν ποιησάμενος τῇ ἑξῆς καθίσας ἐπὶ τοῦ βήματος ἐκέλευσα ἀχθῆναι τὸν ἄνδρα· 
+[»Así que cuando se reunieron aquí, sin ninguna demora, al día siguiente me senté en el tribunal y ordené traer al hombre.]
+
+### Hechos 25:18 {#hech-25-18}
+περὶ οὗ σταθέντες οἱ κατήγοροι οὐδεμίαν αἰτίαν ⸀ἔφερον ὧν ⸂ἐγὼ ὑπενόουν⸃ ⸀πονηρῶν, 
+[Levantándose los acusadores, presentaban acusaciones contra él, pero no de la clase de crímenes que yo suponía,]
+
+### Hechos 25:19 {#hech-25-19}
+ζητήματα δέ τινα περὶ τῆς ἰδίας δεισιδαιμονίας εἶχον πρὸς αὐτὸν καὶ περί τινος Ἰησοῦ τεθνηκότος, ὃν ἔφασκεν ὁ Παῦλος ζῆν. 
+[sino que simplemente tenían contra él ciertas cuestiones sobre su propia religión, y sobre cierto Jesús, ya muerto, de quien Pablo afirmaba que estaba vivo.]
+
+### Hechos 25:20 {#hech-25-20}
+ἀπορούμενος δὲ ἐγὼ τὴν περὶ ⸀τούτων ζήτησιν ἔλεγον εἰ βούλοιτο πορεύεσθαι εἰς ⸀Ἱεροσόλυμα κἀκεῖ κρίνεσθαι περὶ τούτων. 
+[»Pero estando yo perplejo cómo investigar estas cuestiones, le pregunté si estaba dispuesto a ir a Jerusalén y ser juzgado de estas cosas allá.]
+
+### Hechos 25:21 {#hech-25-21}
+τοῦ δὲ Παύλου ἐπικαλεσαμένου τηρηθῆναι αὐτὸν εἰς τὴν τοῦ Σεβαστοῦ διάγνωσιν, ἐκέλευσα τηρεῖσθαι αὐτὸν ἕως οὗ ⸀ἀναπέμψω αὐτὸν πρὸς Καίσαρα. 
+[Pero como Pablo apeló que se le tuviera bajo custodia para que el emperador Nerón diera el fallo, ordené que continuara bajo custodia hasta que yo lo enviara a César».]
+
+### Hechos 25:22 {#hech-25-22}
+Ἀγρίππας δὲ πρὸς τὸν ⸀Φῆστον· Ἐβουλόμην καὶ αὐτὸς τοῦ ἀνθρώπου ἀκοῦσαι. ⸀Αὔριον, φησίν, ἀκούσῃ αὐτοῦ. 
+[Entonces Agripa II dijo a Festo: «A mí también me gustaría oír al hombre». «Mañana lo oirás», dijo* Festo.]
+
+### Hechos 25:23 {#hech-25-23}
+Τῇ οὖν ἐπαύριον ἐλθόντος τοῦ Ἀγρίππα καὶ τῆς Βερνίκης μετὰ πολλῆς φαντασίας καὶ εἰσελθόντων εἰς τὸ ἀκροατήριον σύν ⸀τε χιλιάρχοις καὶ ἀνδράσιν τοῖς κατʼ ⸀ἐξοχὴν τῆς πόλεως καὶ κελεύσαντος τοῦ Φήστου ἤχθη ὁ Παῦλος. 
+[Así que al día siguiente, cuando Agripa II y Berenice entraron al auditorio en medio de gran pompa, acompañados por los comandantes y los hombres importantes de la ciudad, por orden de Festo, fue traído Pablo.]
+
+### Hechos 25:24 {#hech-25-24}
+καί φησιν ὁ Φῆστος· Ἀγρίππα βασιλεῦ καὶ πάντες οἱ συμπαρόντες ἡμῖν ἄνδρες, θεωρεῖτε τοῦτον περὶ οὗ ⸀ἅπαν τὸ πλῆθος τῶν Ἰουδαίων ⸀ἐνέτυχόν μοι ἔν τε Ἱεροσολύμοις καὶ ἐνθάδε, ⸀βοῶντες μὴ δεῖν ⸂αὐτὸν ζῆν⸃ μηκέτι. 
+[Y Festo dijo*: «Rey Agripa y todos los demás aquí presentes con nosotros; este es el hombre acerca del cual los judíos, tanto en Jerusalén como aquí, me hicieron una petición declarando a gritos que no debe vivir más.]
+
+### Hechos 25:25 {#hech-25-25}
+ἐγὼ δὲ ⸀κατελαβόμην μηδὲν ἄξιον ⸂αὐτὸν θανάτου⸃ πεπραχέναι, ⸀αὐτοῦ δὲ τούτου ἐπικαλεσαμένου τὸν Σεβαστὸν ἔκρινα ⸀πέμπειν. 
+[»Pero a mí me parece que no ha hecho nada digno de muerte, pero como él mismo apeló al emperador, he decidido enviarlo a Roma.]
+
+### Hechos 25:26 {#hech-25-26}
+περὶ οὗ ἀσφαλές τι γράψαι τῷ κυρίῳ οὐκ ἔχω· διὸ προήγαγον αὐτὸν ἐφʼ ὑμῶν καὶ μάλιστα ἐπὶ σοῦ, βασιλεῦ Ἀγρίππα, ὅπως τῆς ἀνακρίσεως γενομένης σχῶ τί ⸀γράψω· 
+[Sin embargo, no tengo nada definido sobre él para escribirle a mi señor. Por eso lo he traído ante ustedes, y especialmente ante ti, rey Agripa, para que después de que se le interrogue, yo tenga algo que escribir.]
+
+### Hechos 25:27 {#hech-25-27}
+ἄλογον γάρ μοι δοκεῖ πέμποντα δέσμιον μὴ καὶ τὰς κατʼ αὐτοῦ αἰτίας σημᾶναι. 
+[Porque me parece absurdo, al enviar un preso, no informar también de los cargos en su contra».]
+
+### Hechos 26:1 {#hech-26-1}
+Ἀγρίππας δὲ πρὸς τὸν Παῦλον ἔφη· Ἐπιτρέπεταί σοι ⸀ὑπὲρ σεαυτοῦ λέγειν. τότε ὁ Παῦλος ⸂ἐκτείνας τὴν χεῖρα ἀπελογεῖτο⸃· 
+[Agripa II dijo a Pablo: «Se te permite hablar en tu favor». Entonces Pablo, extendiendo la mano, comenzó su defensa:]
+
+### Hechos 26:2 {#hech-26-2}
+Περὶ πάντων ὧν ἐγκαλοῦμαι ὑπὸ Ἰουδαίων, βασιλεῦ Ἀγρίππα, ἥγημαι ἐμαυτὸν μακάριον ἐπὶ σοῦ μέλλων ⸂σήμερον ἀπολογεῖσθαι⸃, 
+[«Con respecto a todo aquello de que los judíos me acusan, me considero afortunado, oh rey Agripa, de poder presentar hoy mi defensa delante de usted,]
+
+### Hechos 26:3 {#hech-26-3}
+μάλιστα γνώστην ὄντα σε πάντων τῶν κατὰ Ἰουδαίους ⸀ἐθῶν τε καὶ ζητημάτων· διὸ ⸀δέομαι μακροθύμως ἀκοῦσαί μου. 
+[sobre todo, porque es experto en todas las costumbres y controversias entre los judíos. Por lo cual le ruego que me escuche con paciencia.]
+
+### Hechos 26:4 {#hech-26-4}
+Τὴν μὲν οὖν βίωσίν μου ⸀τὴν ἐκ νεότητος τὴν ἀπʼ ἀρχῆς γενομένην ἐν τῷ ἔθνει μου ἔν ⸀τε Ἱεροσολύμοις ἴσασι ⸀πάντες Ἰουδαῖοι, 
+[»Pues bien, todos los judíos conocen mi vida desde mi juventud, que desde el principio transcurrió entre los de mi pueblo y en Jerusalén;]
+
+### Hechos 26:5 {#hech-26-5}
+προγινώσκοντές με ἄνωθεν, ἐὰν θέλωσι μαρτυρεῖν, ὅτι κατὰ τὴν ἀκριβεστάτην αἵρεσιν τῆς ἡμετέρας θρησκείας ἔζησα Φαρισαῖος. 
+[puesto que ellos han sabido de mí desde hace mucho tiempo, si están dispuestos a testificar, que viví como fariseo, de acuerdo con la secta más estricta de nuestra religión.]
+
+### Hechos 26:6 {#hech-26-6}
+καὶ νῦν ἐπʼ ἐλπίδι τῆς ⸀εἰς τοὺς πατέρας ⸀ἡμῶν ἐπαγγελίας γενομένης ὑπὸ τοῦ θεοῦ ἕστηκα κρινόμενος, 
+[»Y ahora soy sometido a juicio por la esperanza de la promesa hecha por Dios a nuestros padres:]
+
+### Hechos 26:7 {#hech-26-7}
+εἰς ἣν τὸ δωδεκάφυλον ἡμῶν ἐν ἐκτενείᾳ νύκτα καὶ ἡμέραν λατρεῦον ἐλπίζει καταντῆσαι· περὶ ἧς ἐλπίδος ἐγκαλοῦμαι ⸂ὑπὸ Ἰουδαίων, βασιλεῦ⸃· 
+[que nuestras doce tribus esperan alcanzar al servir fielmente a Dios noche y día. Y por esta esperanza, oh rey, soy acusado por los judíos.]
+
+### Hechos 26:8 {#hech-26-8}
+τί ἄπιστον κρίνεται παρʼ ὑμῖν εἰ ὁ θεὸς νεκροὺς ἐγείρει; 
+[¿Por qué se considera increíble entre ustedes que Dios resucite a los muertos?]
+
+### Hechos 26:9 {#hech-26-9}
+Ἐγὼ μὲν οὖν ἔδοξα ἐμαυτῷ πρὸς τὸ ὄνομα Ἰησοῦ τοῦ Ναζωραίου δεῖν πολλὰ ἐναντία πρᾶξαι· 
+[»Yo ciertamente había creído que debía hacer muchos males en contra del nombre de Jesús de Nazaret.]
+
+### Hechos 26:10 {#hech-26-10}
+ὃ καὶ ἐποίησα ἐν Ἱεροσολύμοις, καὶ πολλούς ⸀τε τῶν ἁγίων ἐγὼ ⸀ἐν φυλακαῖς κατέκλεισα τὴν παρὰ τῶν ἀρχιερέων ἐξουσίαν λαβών, ἀναιρουμένων τε αὐτῶν κατήνεγκα ψῆφον, 
+[Esto es precisamente lo que hice en Jerusalén. No solo encerré en cárceles a muchos de los santos con la autoridad recibida de los principales sacerdotes, sino que también, cuando eran condenados a muerte, yo añadía mi voto.]
+
+### Hechos 26:11 {#hech-26-11}
+καὶ κατὰ πάσας τὰς συναγωγὰς πολλάκις τιμωρῶν αὐτοὺς ἠνάγκαζον βλασφημεῖν, περισσῶς τε ἐμμαινόμενος αὐτοῖς ἐδίωκον ἕως καὶ εἰς τὰς ἔξω πόλεις. 
+[Castigándolos con frecuencia en todas las sinagogas, procuraba obligarlos a blasfemar, y enfurecido contra ellos, seguía persiguiéndolos aun hasta en las ciudades extranjeras.]
+
+### Hechos 26:12 {#hech-26-12}
+Ἐν ⸀οἷς πορευόμενος εἰς τὴν Δαμασκὸν μετʼ ἐξουσίας καὶ ἐπιτροπῆς ⸀τῆς τῶν ἀρχιερέων 
+[»Ocupado en esto, cuando iba para Damasco con autoridad y comisión de los principales sacerdotes,]
+
+### Hechos 26:13 {#hech-26-13}
+ἡμέρας μέσης κατὰ τὴν ὁδὸν εἶδον, βασιλεῦ, οὐρανόθεν ὑπὲρ τὴν λαμπρότητα τοῦ ἡλίου περιλάμψαν με φῶς καὶ τοὺς σὺν ἐμοὶ πορευομένους· 
+[al mediodía, oh rey, yendo de camino, vi una luz procedente del cielo más brillante que el sol, que resplandecía alrededor mío y de los que viajaban conmigo.]
+
+### Hechos 26:14 {#hech-26-14}
+πάντων ⸀τε καταπεσόντων ἡμῶν εἰς τὴν γῆν ἤκουσα φωνὴν ⸀λέγουσαν πρός ⸀με τῇ Ἑβραΐδι διαλέκτῳ· Σαοὺλ Σαούλ, τί με διώκεις; σκληρόν σοι πρὸς κέντρα λακτίζειν. 
+[Después de que todos caímos al suelo, oí una voz que me decía en el idioma hebreo: “Saulo, Saulo, ¿por qué me persigues? Dura cosa te es dar coces contra el aguijón”.]
+
+### Hechos 26:15 {#hech-26-15}
+ἐγὼ δὲ εἶπα· Τίς εἶ, κύριε; ὁ δὲ ⸀κύριος εἶπεν· Ἐγώ εἰμι Ἰησοῦς ὃν σὺ διώκεις· 
+[»Yo entonces dije: “¿Quién eres, Señor?”. Y el Señor dijo: “Yo soy Jesús a quien tú persigues.]
+
+### Hechos 26:16 {#hech-26-16}
+ἀλλὰ ἀνάστηθι καὶ στῆθι ἐπὶ τοὺς πόδας σου· εἰς τοῦτο γὰρ ὤφθην σοι, προχειρίσασθαί σε ὑπηρέτην καὶ μάρτυρα ὧν τε εἶδές ⸀με ὧν τε ὀφθήσομαί σοι, 
+[Pero levántate y ponte en pie; porque te he aparecido con el fin de designarte como ministro y testigo, no solo de las cosas que has visto, sino también de aquellas en que me apareceré a ti.]
+
+### Hechos 26:17 {#hech-26-17}
+ἐξαιρούμενός σε ἐκ τοῦ λαοῦ καὶ ⸀ἐκ τῶν ἐθνῶν, εἰς οὓς ἐγὼ ⸂ἀποστέλλω σε⸃ 
+[Te rescataré del pueblo judío y de los gentiles, a los cuales Yo te envío,]
+
+### Hechos 26:18 {#hech-26-18}
+ἀνοῖξαι ὀφθαλμοὺς αὐτῶν, τοῦ ⸀ἐπιστρέψαι ἀπὸ σκότους εἰς φῶς καὶ τῆς ἐξουσίας τοῦ Σατανᾶ ἐπὶ τὸν θεόν, τοῦ λαβεῖν αὐτοὺς ἄφεσιν ἁμαρτιῶν καὶ κλῆρον ἐν τοῖς ἡγιασμένοις πίστει τῇ εἰς ἐμέ. 
+[para que les abras sus ojos a fin de que se conviertan de las tinieblas a la luz, y del dominio de Satanás a Dios, para que reciban, por la fe en Mí, el perdón de pecados y herencia entre los que han sido santificados”.]
+
+### Hechos 26:19 {#hech-26-19}
+Ὅθεν, βασιλεῦ Ἀγρίππα, οὐκ ἐγενόμην ἀπειθὴς τῇ οὐρανίῳ ὀπτασίᾳ, 
+[»Por tanto, oh rey Agripa, no fui desobediente a la visión celestial,]
+
+### Hechos 26:20 {#hech-26-20}
+ἀλλὰ τοῖς ἐν Δαμασκῷ πρῶτόν ⸀τε καὶ Ἱεροσολύμοις, ⸀πᾶσάν τε τὴν χώραν τῆς Ἰουδαίας, καὶ τοῖς ἔθνεσιν ⸀ἀπήγγελλον μετανοεῖν καὶ ἐπιστρέφειν ἐπὶ τὸν θεόν, ἄξια τῆς μετανοίας ἔργα πράσσοντας. 
+[sino que anunciaba, primeramente a los que estaban en Damasco y también en Jerusalén, y después por toda la región de Judea, y aun a los gentiles, que debían arrepentirse y volverse a Dios, haciendo obras dignas de arrepentimiento.]
+
+### Hechos 26:21 {#hech-26-21}
+ἕνεκα τούτων ⸂με Ἰουδαῖοι⸃ ⸀συλλαβόμενοι ἐν τῷ ἱερῷ ἐπειρῶντο διαχειρίσασθαι. 
+[»Por esta causa, algunos judíos me prendieron en el templo y trataron de matarme.]
+
+### Hechos 26:22 {#hech-26-22}
+ἐπικουρίας οὖν τυχὼν τῆς ⸀ἀπὸ τοῦ θεοῦ ἄχρι τῆς ἡμέρας ταύτης ἕστηκα μαρτυρόμενος μικρῷ τε καὶ μεγάλῳ, οὐδὲν ἐκτὸς λέγων ὧν τε οἱ προφῆται ἐλάλησαν μελλόντων γίνεσθαι καὶ Μωϋσῆς, 
+[Así que habiendo recibido ayuda de Dios, continúo hasta este día testificando tanto a pequeños como a grandes, no declarando más que lo que los profetas y Moisés dijeron que sucedería:]
+
+### Hechos 26:23 {#hech-26-23}
+εἰ παθητὸς ὁ χριστός, εἰ πρῶτος ἐξ ἀναστάσεως νεκρῶν φῶς μέλλει καταγγέλλειν τῷ ⸀τε λαῷ καὶ τοῖς ἔθνεσιν. 
+[que el Cristo había de padecer, y que por motivo de Su resurrección de entre los muertos, Él debía ser el primero en proclamar luz tanto al pueblo judío como a los gentiles».]
+
+### Hechos 26:24 {#hech-26-24}
+Ταῦτα δὲ αὐτοῦ ἀπολογουμένου ὁ Φῆστος μεγάλῃ τῇ φωνῇ ⸀φησιν· Μαίνῃ, Παῦλε· τὰ πολλά σε γράμματα εἰς μανίαν περιτρέπει. 
+[Mientras Pablo decía esto en su defensa, Festo dijo* a gran voz: «¡Pablo, estás loco! ¡Tu mucho saber te está haciendo perder la cabeza!».]
+
+### Hechos 26:25 {#hech-26-25}
+ὁ δὲ ⸀Παῦλος· Οὐ μαίνομαι, φησίν, κράτιστε Φῆστε, ἀλλὰ ἀληθείας καὶ σωφροσύνης ῥήματα ἀποφθέγγομαι. 
+[Pero Pablo le respondió*: «No estoy loco, excelentísimo Festo, sino que hablo palabras de verdad y de cordura.]
+
+### Hechos 26:26 {#hech-26-26}
+ἐπίσταται γὰρ περὶ τούτων ὁ βασιλεύς, πρὸς ὃν ⸀καὶ παρρησιαζόμενος λαλῶ· λανθάνειν γὰρ ⸀αὐτὸν τούτων οὐ πείθομαι ⸀οὐθέν, οὐ γάρ ⸀ἐστιν ἐν γωνίᾳ πεπραγμένον τοῦτο. 
+[Porque el rey entiende estas cosas, y también le hablo con confianza, porque estoy persuadido de que él no ignora nada de esto; pues esto no se ha hecho en secreto.]
+
+### Hechos 26:27 {#hech-26-27}
+πιστεύεις, βασιλεῦ Ἀγρίππα, τοῖς προφήταις; οἶδα ὅτι πιστεύεις. 
+[Rey Agripa, ¿cree usted en los profetas? Yo sé que cree».]
+
+### Hechos 26:28 {#hech-26-28}
+ὁ δὲ Ἀγρίππας πρὸς τὸν ⸀Παῦλον· Ἐν ὀλίγῳ με πείθεις Χριστιανὸν ⸀ποιῆσαι. 
+[Entonces Agripa II le dijo a Pablo: «En poco tiempo me persuadirás a que me haga cristiano».]
+
+### Hechos 26:29 {#hech-26-29}
+ὁ δὲ ⸀Παῦλος· Εὐξαίμην ἂν τῷ θεῷ καὶ ἐν ὀλίγῳ καὶ ἐν ⸀μεγάλῳ οὐ μόνον σὲ ἀλλὰ καὶ πάντας τοὺς ἀκούοντάς μου σήμερον γενέσθαι τοιούτους ὁποῖος καὶ ἐγώ εἰμι παρεκτὸς τῶν δεσμῶν τούτων. 
+[Y Pablo contestó: «Quisiera Dios que, ya fuera en poco tiempo o en mucho, no solo usted, sino también todos los que hoy me oyen, llegaran a ser tal como yo soy, a excepción de estas cadenas».]
+
+### Hechos 26:30 {#hech-26-30}
+⸀Ἀνέστη ⸀τε ὁ βασιλεὺς καὶ ὁ ἡγεμὼν ἥ τε Βερνίκη καὶ οἱ συγκαθήμενοι αὐτοῖς, 
+[El rey, el gobernador, Berenice y los que estaban sentados con ellos se levantaron,]
+
+### Hechos 26:31 {#hech-26-31}
+καὶ ἀναχωρήσαντες ἐλάλουν πρὸς ἀλλήλους λέγοντες ὅτι Οὐδὲν θανάτου ⸂ἢ δεσμῶν ἄξιον⸃ ⸀τι πράσσει ὁ ἄνθρωπος οὗτος. 
+[y mientras se retiraban, hablaban entre sí, diciendo: «Este hombre no ha hecho* nada que merezca muerte o prisión».]
+
+### Hechos 26:32 {#hech-26-32}
+Ἀγρίππας δὲ τῷ Φήστῳ ἔφη· Ἀπολελύσθαι ἐδύνατο ὁ ἄνθρωπος οὗτος εἰ μὴ ἐπεκέκλητο Καίσαρα. 
+[Agripa II le dijo a Festo: «Este hombre podría haber sido puesto en libertad, si no hubiera apelado a César».]
+
+### Hechos 27:1 {#hech-27-1}
+Ὡς δὲ ἐκρίθη τοῦ ἀποπλεῖν ἡμᾶς εἰς τὴν Ἰταλίαν, παρεδίδουν τόν τε Παῦλον καί τινας ἑτέρους δεσμώτας ἑκατοντάρχῃ ὀνόματι Ἰουλίῳ σπείρης Σεβαστῆς. 
+[Cuando se decidió que deberíamos embarcarnos para Italia, fueron entregados Pablo y algunos otros presos a un centurión de la compañía Augusta, llamado Julio.]
+
+### Hechos 27:2 {#hech-27-2}
+ἐπιβάντες δὲ πλοίῳ Ἀδραμυττηνῷ ⸀μέλλοντι πλεῖν ⸀εἰς τοὺς κατὰ τὴν Ἀσίαν τόπους ἀνήχθημεν ὄντος σὺν ἡμῖν Ἀριστάρχου Μακεδόνος Θεσσαλονικέως· 
+[Embarcándonos en una nave Adramitena que estaba para salir hacia las regiones de la costa de Asia, nos hicimos a la mar acompañados por Aristarco, un macedonio de Tesalónica.]
+
+### Hechos 27:3 {#hech-27-3}
+τῇ τε ἑτέρᾳ κατήχθημεν εἰς Σιδῶνα, φιλανθρώπως τε ὁ Ἰούλιος τῷ Παύλῳ χρησάμενος ἐπέτρεψεν πρὸς τοὺς φίλους ⸀πορευθέντι ἐπιμελείας τυχεῖν. 
+[Al día siguiente llegamos a Sidón. Julio trató con benevolencia a Pablo, permitiéndole ir a sus amigos y ser atendido por ellos.]
+
+### Hechos 27:4 {#hech-27-4}
+κἀκεῖθεν ἀναχθέντες ὑπεπλεύσαμεν τὴν Κύπρον διὰ τὸ τοὺς ἀνέμους εἶναι ἐναντίους, 
+[De allí partimos y navegamos al amparo de la isla de Chipre, porque los vientos eran contrarios.]
+
+### Hechos 27:5 {#hech-27-5}
+τό τε πέλαγος τὸ κατὰ τὴν Κιλικίαν καὶ Παμφυλίαν διαπλεύσαντες κατήλθομεν εἰς Μύρα τῆς Λυκίας. 
+[Después de navegar atravesando el mar frente a las costas de Cilicia y de Panfilia, llegamos a Mira de Licia.]
+
+### Hechos 27:6 {#hech-27-6}
+κἀκεῖ εὑρὼν ὁ ⸀ἑκατοντάρχης πλοῖον Ἀλεξανδρῖνον πλέον εἰς τὴν Ἰταλίαν ἐνεβίβασεν ἡμᾶς εἰς αὐτό. 
+[Allí el centurión halló una nave alejandrina que iba para Italia, y nos embarcó en ella.]
+
+### Hechos 27:7 {#hech-27-7}
+ἐν ἱκαναῖς δὲ ἡμέραις βραδυπλοοῦντες καὶ μόλις γενόμενοι κατὰ τὴν Κνίδον, μὴ προσεῶντος ἡμᾶς τοῦ ἀνέμου, ὑπεπλεύσαμεν τὴν Κρήτην κατὰ Σαλμώνην, 
+[Después de navegar lentamente por muchos días, y de llegar con dificultad frente a Gnido, pues el viento no nos permitió avanzar más, navegamos al amparo de la isla de Creta, frente a Salmón.]
+
+### Hechos 27:8 {#hech-27-8}
+μόλις τε παραλεγόμενοι αὐτὴν ἤλθομεν εἰς τόπον τινὰ καλούμενον Καλοὺς Λιμένας ᾧ ἐγγὺς ⸂ἦν πόλις⸃ ⸀Λασαία. 
+[Costeándola con dificultad, llegamos a un lugar llamado Buenos Puertos, cerca del cual estaba la ciudad de Lasea.]
+
+### Hechos 27:9 {#hech-27-9}
+Ἱκανοῦ δὲ χρόνου διαγενομένου καὶ ὄντος ἤδη ἐπισφαλοῦς τοῦ πλοὸς διὰ τὸ καὶ τὴν νηστείαν ἤδη παρεληλυθέναι, παρῄνει ὁ Παῦλος 
+[Cuando ya había pasado mucho tiempo y la navegación se había vuelto peligrosa, pues hasta el Ayuno había pasado ya, Pablo los amonestaba,]
+
+### Hechos 27:10 {#hech-27-10}
+λέγων αὐτοῖς· Ἄνδρες, θεωρῶ ὅτι μετὰ ὕβρεως καὶ πολλῆς ζημίας οὐ μόνον τοῦ φορτίου καὶ τοῦ πλοίου ἀλλὰ καὶ τῶν ψυχῶν ἡμῶν μέλλειν ἔσεσθαι τὸν πλοῦν. 
+[diciéndoles: «Amigos, veo que de seguro este viaje va a ser con perjuicio y graves pérdidas, no solo del cargamento y de la nave, sino también de nuestras vidas».]
+
+### Hechos 27:11 {#hech-27-11}
+ὁ δὲ ἑκατοντάρχης τῷ κυβερνήτῃ καὶ τῷ ναυκλήρῳ ⸂μᾶλλον ἐπείθετο⸃ ἢ τοῖς ⸀ὑπὸ Παύλου λεγομένοις. 
+[Pero el centurión se persuadió más por lo que fue dicho por el piloto y el capitán del barco, que por lo que Pablo decía.]
+
+### Hechos 27:12 {#hech-27-12}
+ἀνευθέτου δὲ τοῦ λιμένος ὑπάρχοντος πρὸς παραχειμασίαν οἱ πλείονες ἔθεντο βουλὴν ἀναχθῆναι ⸀ἐκεῖθεν, εἴ πως δύναιντο καταντήσαντες εἰς Φοίνικα παραχειμάσαι, λιμένα τῆς Κρήτης βλέποντα κατὰ λίβα καὶ κατὰ χῶρον. 
+[Como el puerto no era adecuado para invernar, la mayoría tomó la decisión de hacerse a la mar desde allí, para ver si les era posible arribar a Fenice, un puerto de Creta que mira hacia el nordeste y el sudeste, y pasar el invierno allí.]
+
+### Hechos 27:13 {#hech-27-13}
+Ὑποπνεύσαντος δὲ νότου δόξαντες τῆς προθέσεως κεκρατηκέναι ἄραντες ἆσσον παρελέγοντο τὴν Κρήτην. 
+[Cuando comenzó a soplar un moderado viento del sur, creyendo que habían logrado su propósito, levaron anclas y navegaban costeando a Creta.]
+
+### Hechos 27:14 {#hech-27-14}
+μετʼ οὐ πολὺ δὲ ἔβαλεν κατʼ αὐτῆς ἄνεμος τυφωνικὸς ὁ καλούμενος ⸀Εὐρακύλων· 
+[Pero no mucho después, desde tierra comenzó a soplar un viento huracanado que se llama Euroclidón,]
+
+### Hechos 27:15 {#hech-27-15}
+συναρπασθέντος δὲ τοῦ πλοίου καὶ μὴ δυναμένου ἀντοφθαλμεῖν τῷ ἀνέμῳ ἐπιδόντες ἐφερόμεθα. 
+[y siendo azotada la nave, y no pudiendo hacer frente al viento nos abandonamos a él y nos dejamos llevar a la deriva.]
+
+### Hechos 27:16 {#hech-27-16}
+νησίον δέ τι ὑποδραμόντες καλούμενον ⸀Καῦδα ⸂ἰσχύσαμεν μόλις⸃ περικρατεῖς γενέσθαι τῆς σκάφης, 
+[Navegando al amparo de una pequeña isla llamada Clauda, con mucha dificultad pudimos sujetar el bote salvavidas.]
+
+### Hechos 27:17 {#hech-27-17}
+ἣν ἄραντες βοηθείαις ἐχρῶντο ὑποζωννύντες τὸ πλοῖον· φοβούμενοί τε μὴ εἰς τὴν Σύρτιν ἐκπέσωσιν, χαλάσαντες τὸ σκεῦος, οὕτως ἐφέροντο. 
+[Después que lo alzaron, usaron amarras para sujetar la nave. Temiendo encallar en los bancos de Sirte, echaron el ancla flotante y se abandonaron a la deriva.]
+
+### Hechos 27:18 {#hech-27-18}
+σφοδρῶς δὲ χειμαζομένων ἡμῶν τῇ ἑξῆς ἐκβολὴν ἐποιοῦντο, 
+[Al día siguiente, mientras éramos sacudidos furiosamente por la tormenta, comenzaron a arrojar la carga.]
+
+### Hechos 27:19 {#hech-27-19}
+καὶ τῇ τρίτῃ αὐτόχειρες τὴν σκευὴν τοῦ πλοίου ⸀ἔρριψαν. 
+[Al tercer día, con sus propias manos arrojaron al mar los aparejos de la nave.]
+
+### Hechos 27:20 {#hech-27-20}
+μήτε δὲ ἡλίου μήτε ἄστρων ἐπιφαινόντων ἐπὶ πλείονας ἡμέρας, χειμῶνός τε οὐκ ὀλίγου ἐπικειμένου, λοιπὸν περιῃρεῖτο ⸂ἐλπὶς πᾶσα⸃ τοῦ σῴζεσθαι ἡμᾶς. 
+[Como ni el sol ni las estrellas aparecieron por muchos días, y una tempestad no pequeña se abatía sobre nosotros, desde entonces fuimos abandonando toda esperanza de salvarnos.]
+
+### Hechos 27:21 {#hech-27-21}
+Πολλῆς ⸀τε ἀσιτίας ὑπαρχούσης τότε σταθεὶς ὁ Παῦλος ἐν μέσῳ αὐτῶν εἶπεν· Ἔδει μέν, ὦ ἄνδρες, πειθαρχήσαντάς μοι μὴ ἀνάγεσθαι ἀπὸ τῆς Κρήτης κερδῆσαί τε τὴν ὕβριν ταύτην καὶ τὴν ζημίαν. 
+[Cuando habían pasado muchos días sin comer, Pablo se puso en pie en medio de ellos y dijo: «Amigos, debían haberme hecho caso y no haber salido de Creta, evitando así este perjuicio y pérdida.]
+
+### Hechos 27:22 {#hech-27-22}
+καὶ τὰ νῦν παραινῶ ὑμᾶς εὐθυμεῖν, ἀποβολὴ γὰρ ψυχῆς οὐδεμία ἔσται ἐξ ὑμῶν πλὴν τοῦ πλοίου· 
+[Pero ahora los exhorto a tener buen ánimo, porque no habrá pérdida de vida entre ustedes, sino solo del barco.]
+
+### Hechos 27:23 {#hech-27-23}
+παρέστη γάρ μοι ταύτῃ τῇ ⸀νυκτὶ τοῦ θεοῦ, οὗ ⸀εἰμι, ᾧ καὶ λατρεύω, ⸀ἄγγελος 
+[»Porque esta noche estuvo en mi presencia un ángel del Dios de quien soy y a quien sirvo,]
+
+### Hechos 27:24 {#hech-27-24}
+λέγων· Μὴ φοβοῦ, Παῦλε· Καίσαρί σε δεῖ παραστῆναι, καὶ ἰδοὺ κεχάρισταί σοι ὁ θεὸς πάντας τοὺς πλέοντας μετὰ σοῦ. 
+[diciendo: “No temas, Pablo; has de comparecer ante César; pero ahora, Dios te ha concedido todos los que navegan contigo”.]
+
+### Hechos 27:25 {#hech-27-25}
+διὸ εὐθυμεῖτε, ἄνδρες· πιστεύω γὰρ τῷ θεῷ ὅτι οὕτως ἔσται καθʼ ὃν τρόπον λελάληταί μοι. 
+[Por tanto, tengan buen ánimo amigos, porque yo confío en Dios, que acontecerá exactamente como se me dijo.]
+
+### Hechos 27:26 {#hech-27-26}
+εἰς νῆσον δέ τινα δεῖ ἡμᾶς ἐκπεσεῖν. 
+[Pero tenemos que encallar en alguna isla».]
+
+### Hechos 27:27 {#hech-27-27}
+Ὡς δὲ τεσσαρεσκαιδεκάτη νὺξ ἐγένετο διαφερομένων ἡμῶν ἐν τῷ Ἀδρίᾳ, κατὰ μέσον τῆς νυκτὸς ὑπενόουν οἱ ναῦται προσάγειν τινὰ αὐτοῖς χώραν. 
+[Llegada la decimocuarta noche, mientras éramos llevados a la deriva en el Mar Adriático, a eso de la medianoche los marineros presentían que se estaban acercando a tierra.]
+
+### Hechos 27:28 {#hech-27-28}
+καὶ βολίσαντες εὗρον ὀργυιὰς εἴκοσι, βραχὺ δὲ διαστήσαντες καὶ πάλιν βολίσαντες εὗρον ὀργυιὰς δεκαπέντε· 
+[Echaron la sonda y hallaron que había 20 brazas (36 metros) de profundidad. Pasando un poco más adelante volvieron a echar la sonda y hallaron 15 brazas (27 metros).]
+
+### Hechos 27:29 {#hech-27-29}
+φοβούμενοί τε ⸂μή που κατὰ⸃ τραχεῖς τόπους ἐκπέσωμεν ἐκ πρύμνης ῥίψαντες ἀγκύρας τέσσαρας ηὔχοντο ἡμέραν γενέσθαι. 
+[Temiendo que en algún lugar fuéramos a dar contra los escollos, echaron cuatro anclas por la popa y ansiaban que amaneciera.]
+
+### Hechos 27:30 {#hech-27-30}
+τῶν δὲ ναυτῶν ζητούντων φυγεῖν ἐκ τοῦ πλοίου καὶ χαλασάντων τὴν σκάφην εἰς τὴν θάλασσαν προφάσει ὡς ἐκ πρῴρης ⸂ἀγκύρας μελλόντων⸃ ἐκτείνειν, 
+[Como los marineros trataban de escapar de la nave y habían bajado el bote salvavidas al mar, bajo pretexto de que se proponían echar las anclas desde la proa,]
+
+### Hechos 27:31 {#hech-27-31}
+εἶπεν ὁ Παῦλος τῷ ἑκατοντάρχῃ καὶ τοῖς στρατιώταις· Ἐὰν μὴ οὗτοι μείνωσιν ἐν τῷ πλοίῳ, ὑμεῖς σωθῆναι οὐ δύνασθε. 
+[Pablo dijo al centurión y a los soldados: «Si estos no permanecen en la nave, ustedes no podrán salvarse».]
+
+### Hechos 27:32 {#hech-27-32}
+τότε ⸂ἀπέκοψαν οἱ στρατιῶται⸃ τὰ σχοινία τῆς σκάφης καὶ εἴασαν αὐτὴν ἐκπεσεῖν. 
+[Entonces los soldados cortaron las amarras del bote y dejaron que se perdiera.]
+
+### Hechos 27:33 {#hech-27-33}
+Ἄχρι δὲ οὗ ⸂ἡμέρα ἤμελλεν⸃ γίνεσθαι παρεκάλει ὁ Παῦλος ἅπαντας μεταλαβεῖν τροφῆς λέγων· Τεσσαρεσκαιδεκάτην σήμερον ἡμέραν προσδοκῶντες ἄσιτοι διατελεῖτε, μηθὲν προσλαβόμενοι· 
+[Cuando estaba a punto de amanecer, Pablo exhortaba a todos a que tomaran alimento, diciendo: «Hace ya catorce días que, velando continuamente, están en ayunas, sin tomar ningún alimento.]
+
+### Hechos 27:34 {#hech-27-34}
+διὸ παρακαλῶ ὑμᾶς ⸀μεταλαβεῖν τροφῆς, τοῦτο γὰρ πρὸς τῆς ὑμετέρας σωτηρίας ὑπάρχει· οὐδενὸς γὰρ ὑμῶν θρὶξ ⸀ἀπὸ τῆς κεφαλῆς ⸀ἀπολεῖται. 
+[Por eso les aconsejo que tomen alimento, porque esto es necesario para sobrevivir. Porque ni un solo cabello de la cabeza de ninguno de ustedes perecerá».]
+
+### Hechos 27:35 {#hech-27-35}
+⸀εἴπας δὲ ταῦτα καὶ λαβὼν ἄρτον εὐχαρίστησεν τῷ θεῷ ἐνώπιον πάντων καὶ κλάσας ἤρξατο ἐσθίειν. 
+[Habiendo dicho esto, Pablo tomó pan y dio gracias a Dios en presencia de todos; y partiéndolo, comenzó a comer.]
+
+### Hechos 27:36 {#hech-27-36}
+εὔθυμοι δὲ γενόμενοι πάντες καὶ αὐτοὶ προσελάβοντο τροφῆς. 
+[Entonces todos, teniendo ya buen ánimo, tomaron también alimento.]
+
+### Hechos 27:37 {#hech-27-37}
+ἤμεθα δὲ ⸂αἱ πᾶσαι ψυχαὶ ἐν τῷ πλοίῳ⸃ ⸀διακόσιαι ἑβδομήκοντα ἕξ. 
+[En total éramos en la nave 276 personas.]
+
+### Hechos 27:38 {#hech-27-38}
+κορεσθέντες ⸀δὲ τροφῆς ἐκούφιζον τὸ πλοῖον ἐκβαλλόμενοι τὸν σῖτον εἰς τὴν θάλασσαν. 
+[Una vez saciados, aligeraron la nave arrojando el trigo al mar.]
+
+### Hechos 27:39 {#hech-27-39}
+Ὅτε δὲ ἡμέρα ἐγένετο, τὴν γῆν οὐκ ἐπεγίνωσκον, κόλπον δέ τινα κατενόουν ἔχοντα αἰγιαλὸν εἰς ὃν ⸀ἐβουλεύοντο εἰ ⸀δύναιντο ⸀ἐξῶσαι τὸ πλοῖον. 
+[Cuando se hizo de día, no reconocían la tierra, pero podían distinguir una bahía que tenía playa, y decidieron lanzar la nave hacia ella, si les era posible.]
+
+### Hechos 27:40 {#hech-27-40}
+καὶ τὰς ἀγκύρας περιελόντες εἴων εἰς τὴν θάλασσαν, ἅμα ἀνέντες τὰς ζευκτηρίας τῶν πηδαλίων, καὶ ἐπάραντες τὸν ἀρτέμωνα τῇ πνεούσῃ κατεῖχον εἰς τὸν αἰγιαλόν. 
+[Cortando las anclas, las dejaron en el mar, aflojando al mismo tiempo las amarras de los timones. Izando la vela de proa al viento, se dirigieron hacia la playa.]
+
+### Hechos 27:41 {#hech-27-41}
+περιπεσόντες δὲ εἰς τόπον διθάλασσον ⸀ἐπέκειλαν τὴν ναῦν, καὶ ἡ μὲν πρῷρα ἐρείσασα ἔμεινεν ἀσάλευτος, ἡ δὲ πρύμνα ἐλύετο ὑπὸ τῆς ⸀βίας. 
+[Pero chocando contra un escollo donde se encuentran dos corrientes, encallaron la nave; la proa se clavó y quedó inmóvil, pero la popa se rompía por la fuerza de las olas.]
+
+### Hechos 27:42 {#hech-27-42}
+τῶν δὲ στρατιωτῶν βουλὴ ἐγένετο ἵνα τοὺς δεσμώτας ἀποκτείνωσιν, μή τις ἐκκολυμβήσας διαφύγῃ· 
+[El plan de los soldados era matar a los presos, para que ninguno de ellos escapara a nado.]
+
+### Hechos 27:43 {#hech-27-43}
+ὁ δὲ ⸀ἑκατοντάρχης βουλόμενος διασῶσαι τὸν Παῦλον ἐκώλυσεν αὐτοὺς τοῦ βουλήματος, ἐκέλευσέν τε τοὺς δυναμένους κολυμβᾶν ἀπορίψαντας πρώτους ἐπὶ τὴν γῆν ἐξιέναι, 
+[Pero el centurión, queriendo salvar a Pablo, impidió su propósito, y ordenó que los que pudieran nadar se arrojaran primero por la borda y llegaran a tierra,]
+
+### Hechos 27:44 {#hech-27-44}
+καὶ τοὺς λοιποὺς οὓς μὲν ἐπὶ σανίσιν οὓς δὲ ἐπί τινων τῶν ἀπὸ τοῦ πλοίου· καὶ οὕτως ἐγένετο πάντας διασωθῆναι ἐπὶ τὴν γῆν. 
+[y que los demás siguieran, algunos en tablones, y otros en diferentes objetos de la nave. Y así sucedió que todos llegaron salvos a tierra.]
+
+### Hechos 28:1 {#hech-28-1}
+Καὶ διασωθέντες τότε ⸀ἐπέγνωμεν ὅτι ⸀Μελίτη ἡ νῆσος καλεῖται. 
+[Una vez que ellos estaban a salvo, nos enteramos de que la isla se llamaba Malta.]
+
+### Hechos 28:2 {#hech-28-2}
+οἵ ⸀τε βάρβαροι παρεῖχον οὐ τὴν τυχοῦσαν φιλανθρωπίαν ἡμῖν, ⸀ἅψαντες γὰρ πυρὰν προσελάβοντο πάντας ἡμᾶς διὰ τὸν ὑετὸν τὸν ἐφεστῶτα καὶ διὰ τὸ ψῦχος. 
+[Los habitantes de la isla nos mostraron toda clase de atenciones, porque a causa de la lluvia que caía y del frío, encendieron una hoguera y nos acogieron a todos.]
+
+### Hechos 28:3 {#hech-28-3}
+συστρέψαντος δὲ τοῦ Παύλου φρυγάνων ⸀τι πλῆθος καὶ ἐπιθέντος ἐπὶ τὴν πυράν, ἔχιδνα ⸀ἀπὸ τῆς θέρμης ⸀ἐξελθοῦσα καθῆψε τῆς χειρὸς αὐτοῦ. 
+[Pero cuando Pablo recogió una brazada de leña y la echó al fuego, una víbora salió huyendo del calor y se le prendió en la mano.]
+
+### Hechos 28:4 {#hech-28-4}
+ὡς δὲ εἶδον οἱ βάρβαροι κρεμάμενον τὸ θηρίον ἐκ τῆς χειρὸς αὐτοῦ, ⸂πρὸς ἀλλήλους ἔλεγον⸃· Πάντως φονεύς ἐστιν ὁ ἄνθρωπος οὗτος ὃν διασωθέντα ἐκ τῆς θαλάσσης ἡ δίκη ζῆν οὐκ εἴασεν. 
+[Cuando los habitantes, vieron el animal colgando de su mano, decían entre sí: «Sin duda que este hombre es un asesino, pues aunque fue salvado del mar, la diosa Justicia no le ha concedido vivir».]
+
+### Hechos 28:5 {#hech-28-5}
+ὁ μὲν οὖν ἀποτινάξας τὸ θηρίον εἰς τὸ πῦρ ἔπαθεν οὐδὲν κακόν· 
+[Pablo, sin embargo, sacudiendo la mano, arrojó el animal al fuego y no sufrió ningún daño.]
+
+### Hechos 28:6 {#hech-28-6}
+οἱ δὲ προσεδόκων αὐτὸν μέλλειν πίμπρασθαι ἢ καταπίπτειν ἄφνω νεκρόν. ἐπὶ πολὺ δὲ αὐτῶν προσδοκώντων καὶ θεωρούντων μηδὲν ἄτοπον εἰς αὐτὸν γινόμενον, ⸀μεταβαλόμενοι ἔλεγον ⸂αὐτὸν εἶναι θεόν⸃. 
+[Ellos esperaban que comenzara a hincharse, o que súbitamente cayera muerto. Pero después de esperar por largo rato, y de no observar nada anormal en él, cambiaron de parecer y decían que Pablo era un dios.]
+
+### Hechos 28:7 {#hech-28-7}
+Ἐν δὲ τοῖς περὶ τὸν τόπον ἐκεῖνον ὑπῆρχεν χωρία τῷ πρώτῳ τῆς νήσου ὀνόματι Ποπλίῳ, ὃς ἀναδεξάμενος ἡμᾶς ⸂τρεῖς ἡμέρας⸃ φιλοφρόνως ἐξένισεν. 
+[Cerca de allí había unas tierras que pertenecían al hombre principal de la isla, que se llamaba Publio, el cual nos recibió y nos hospedó con toda amabilidad por tres días.]
+
+### Hechos 28:8 {#hech-28-8}
+ἐγένετο δὲ τὸν πατέρα τοῦ Ποπλίου πυρετοῖς καὶ ⸀δυσεντερίῳ συνεχόμενον κατακεῖσθαι, πρὸς ὃν ὁ Παῦλος εἰσελθὼν καὶ προσευξάμενος ἐπιθεὶς τὰς χεῖρας αὐτῷ ἰάσατο αὐτόν. 
+[Como el padre de Publio estaba en cama, enfermo con fiebre y disentería, Pablo entró a verlo, y después de orar puso las manos sobre él, y lo sanó.]
+
+### Hechos 28:9 {#hech-28-9}
+τούτου ⸀δὲ γενομένου καὶ οἱ λοιποὶ οἱ ⸂ἐν τῇ νήσῳ ἔχοντες ἀσθενείας⸃ προσήρχοντο καὶ ἐθεραπεύοντο, 
+[Cuando esto sucedió, los demás habitantes de la isla que tenían enfermedades venían a él y eran curados.]
+
+### Hechos 28:10 {#hech-28-10}
+οἳ καὶ πολλαῖς τιμαῖς ἐτίμησαν ἡμᾶς καὶ ἀναγομένοις ἐπέθεντο τὰ πρὸς ⸂τὰς χρείας⸃. 
+[También nos honraron con muchas demostraciones de respeto, y cuando estábamos para salir, nos suplieron con todo lo necesario.]
+
+### Hechos 28:11 {#hech-28-11}
+Μετὰ δὲ τρεῖς μῆνας ⸀ἀνήχθημεν ἐν πλοίῳ παρακεχειμακότι ἐν τῇ νήσῳ Ἀλεξανδρίνῳ, παρασήμῳ Διοσκούροις. 
+[Después de tres meses, nos hicimos a la vela en una nave alejandrina que había invernado en la isla, y que tenía por insignia a los Hermanos Gemelos.]
+
+### Hechos 28:12 {#hech-28-12}
+καὶ καταχθέντες εἰς Συρακούσας ἐπεμείναμεν ἡμέρας τρεῖς, 
+[Al llegar a Siracusa, nos quedamos allí por tres días.]
+
+### Hechos 28:13 {#hech-28-13}
+ὅθεν ⸀περιελόντες κατηντήσαμεν εἰς Ῥήγιον. καὶ μετὰ μίαν ἡμέραν ἐπιγενομένου νότου δευτεραῖοι ἤλθομεν εἰς Ποτιόλους, 
+[Saliendo de allí, seguimos la costa hasta llegar a Regio. Al día siguiente se levantó un viento del sur y en dos días llegamos a Puteoli.]
+
+### Hechos 28:14 {#hech-28-14}
+οὗ εὑρόντες ἀδελφοὺς παρεκλήθημεν ⸀παρʼ αὐτοῖς ἐπιμεῖναι ἡμέρας ἑπτά· καὶ οὕτως εἰς τὴν Ῥώμην ἤλθαμεν. 
+[Allí encontramos algunos hermanos, que nos invitaron a permanecer con ellos por siete días. Y así llegamos a Roma.]
+
+### Hechos 28:15 {#hech-28-15}
+κἀκεῖθεν οἱ ἀδελφοὶ ἀκούσαντες τὰ περὶ ἡμῶν ⸀ἦλθαν εἰς ἀπάντησιν ἡμῖν ἄχρι Ἀππίου Φόρου καὶ Τριῶν Ταβερνῶν, οὓς ἰδὼν ὁ Παῦλος εὐχαριστήσας τῷ θεῷ ἔλαβε θάρσος. 
+[Al tener noticia de nuestra llegada, los hermanos vinieron desde allá a recibirnos hasta el Foro de Apio y Las Tres Tabernas; y cuando Pablo los vio, dio gracias a Dios y cobró ánimo.]
+
+### Hechos 28:16 {#hech-28-16}
+Ὅτε δὲ ⸀εἰσήλθομεν εἰς Ῥώμην, ⸂ἐπετράπη τῷ Παύλῳ⸃ μένειν καθʼ ἑαυτὸν σὺν τῷ φυλάσσοντι αὐτὸν στρατιώτῃ. 
+[Cuando entramos en Roma, el centurión entregó los presos al prefecto militar, pero a Pablo se le permitió vivir aparte, con el soldado que lo custodiaba.]
+
+### Hechos 28:17 {#hech-28-17}
+Ἐγένετο δὲ μετὰ ἡμέρας τρεῖς συγκαλέσασθαι ⸀αὐτὸν τοὺς ὄντας τῶν Ἰουδαίων πρώτους· συνελθόντων δὲ αὐτῶν ἔλεγεν πρὸς αὐτούς· ⸂Ἐγώ, ἄνδρες ἀδελφοί⸃, οὐδὲν ἐναντίον ποιήσας τῷ λαῷ ἢ τοῖς ἔθεσι τοῖς πατρῴοις δέσμιος ἐξ Ἱεροσολύμων παρεδόθην εἰς τὰς χεῖρας τῶν Ῥωμαίων, 
+[Tres días después Pablo convocó a los principales de los judíos, y cuando se reunieron, les dijo: «Hermanos, sin haber hecho yo nada contra nuestro pueblo ni contra las tradiciones de nuestros padres, desde Jerusalén fui entregado preso en manos de los romanos,]
+
+### Hechos 28:18 {#hech-28-18}
+οἵτινες ἀνακρίναντές με ἐβούλοντο ἀπολῦσαι διὰ τὸ μηδεμίαν αἰτίαν θανάτου ὑπάρχειν ἐν ἐμοί· 
+[los cuales, cuando me interrogaron, quisieron ponerme en libertad, pues no encontraron causa para condenarme a muerte.]
+
+### Hechos 28:19 {#hech-28-19}
+ἀντιλεγόντων δὲ τῶν Ἰουδαίων ἠναγκάσθην ἐπικαλέσασθαι Καίσαρα, οὐχ ὡς τοῦ ἔθνους μου ἔχων τι ⸀κατηγορεῖν. 
+[»Pero cuando los judíos se opusieron, me vi obligado a apelar a César, pero no porque tuviera acusación alguna contra mi pueblo.]
+
+### Hechos 28:20 {#hech-28-20}
+διὰ ταύτην οὖν τὴν αἰτίαν παρεκάλεσα ὑμᾶς ἰδεῖν καὶ προσλαλῆσαι, ἕνεκεν γὰρ τῆς ἐλπίδος τοῦ Ἰσραὴλ τὴν ἅλυσιν ταύτην περίκειμαι. 
+[Por tanto, por esta razón he pedido verlos y hablar con ustedes, porque por causa de la esperanza de Israel llevo esta cadena».]
+
+### Hechos 28:21 {#hech-28-21}
+οἱ δὲ πρὸς αὐτὸν εἶπαν· Ἡμεῖς οὔτε γράμματα περὶ σοῦ ἐδεξάμεθα ἀπὸ τῆς Ἰουδαίας, οὔτε παραγενόμενός τις τῶν ἀδελφῶν ἀπήγγειλεν ἢ ἐλάλησέν τι περὶ σοῦ πονηρόν. 
+[Y ellos le dijeron: «Nosotros no hemos recibido cartas de Judea sobre ti, ni ha venido aquí ninguno de los hermanos que haya informado o hablado algo malo acerca de ti.]
+
+### Hechos 28:22 {#hech-28-22}
+ἀξιοῦμεν δὲ παρὰ σοῦ ἀκοῦσαι ἃ φρονεῖς, περὶ μὲν γὰρ τῆς αἱρέσεως ταύτης γνωστὸν ⸂ἡμῖν ἐστιν⸃ ὅτι πανταχοῦ ἀντιλέγεται. 
+[Pero deseamos oír por ti mismo lo que enseñas, porque lo que sabemos de esta secta es que en todas partes se habla contra ella».]
+
+### Hechos 28:23 {#hech-28-23}
+Ταξάμενοι δὲ αὐτῷ ἡμέραν ⸀ἧκον πρὸς αὐτὸν εἰς τὴν ξενίαν πλείονες, οἷς ἐξετίθετο διαμαρτυρόμενος τὴν βασιλείαν τοῦ θεοῦ πείθων τε ⸀αὐτοὺς περὶ τοῦ Ἰησοῦ ἀπό τε τοῦ νόμου Μωϋσέως καὶ τῶν προφητῶν ἀπὸ πρωῒ ἕως ἑσπέρας. 
+[Y habiéndole fijado un día, vinieron en gran número adonde él se alojaba. Desde la mañana hasta la tarde les explicaba testificando fielmente sobre el reino de Dios, procurando persuadirlos acerca de Jesús, tanto por la ley de Moisés como por los profetas.]
+
+### Hechos 28:24 {#hech-28-24}
+καὶ οἱ μὲν ἐπείθοντο τοῖς λεγομένοις οἱ δὲ ἠπίστουν, 
+[Algunos eran persuadidos con lo que se decía, pero otros no creían.]
+
+### Hechos 28:25 {#hech-28-25}
+ἀσύμφωνοι δὲ ὄντες πρὸς ἀλλήλους ἀπελύοντο, εἰπόντος τοῦ Παύλου ῥῆμα ἓν ὅτι Καλῶς τὸ πνεῦμα τὸ ἅγιον ἐλάλησεν διὰ Ἠσαΐου τοῦ προφήτου πρὸς τοὺς πατέρας ⸀ὑμῶν 
+[Al no estar de acuerdo entre sí, comenzaron a marcharse después de que Pablo dijo una última palabra: «Bien habló el Espíritu Santo a sus padres por medio de Isaías el profeta,]
+
+### Hechos 28:26 {#hech-28-26}
+⸀λέγων· Πορεύθητι πρὸς τὸν λαὸν τοῦτον καὶ εἰπόν· Ἀκοῇ ἀκούσετε καὶ οὐ μὴ συνῆτε, καὶ βλέποντες βλέψετε καὶ οὐ μὴ ἴδητε· 
+[diciendo: “VE A ESTE PUEBLO Y DI: ‘AL OÍR OIRÁN, Y NO ENTENDERÁN; Y VIENDO VERÁN, Y NO PERCIBIRÁN;]
+
+### Hechos 28:27 {#hech-28-27}
+ἐπαχύνθη γὰρ ἡ καρδία τοῦ λαοῦ τούτου, καὶ τοῖς ὠσὶν βαρέως ἤκουσαν, καὶ τοὺς ὀφθαλμοὺς αὐτῶν ἐκάμμυσαν· μήποτε ἴδωσιν τοῖς ὀφθαλμοῖς καὶ τοῖς ὠσὶν ἀκούσωσιν καὶ τῇ καρδίᾳ συνῶσιν καὶ ἐπιστρέψωσιν, καὶ ἰάσομαι αὐτούς. 
+[PORQUE EL CORAZÓN DE ESTE PUEBLO SE HA VUELTO INSENSIBLE, Y CON DIFICULTAD OYEN CON SUS OÍDOS; Y SUS OJOS HAN CERRADO; DE OTRO MODO VERÍAN CON LOS OJOS, Y OIRÍAN CON LOS OÍDOS, Y ENTENDERÍAN CON EL CORAZÓN, Y SE CONVERTIRÍAN, Y YO LOS SANARÍA’”.]
+
+### Hechos 28:28 {#hech-28-28}
+γνωστὸν οὖν ⸂ἔστω ὑμῖν⸃ ὅτι τοῖς ἔθνεσιν ἀπεστάλη ⸀τοῦτο τὸ σωτήριον τοῦ θεοῦ· αὐτοὶ καὶ ⸀ἀκούσονται. 
+[»Sepan, por tanto, que esta salvación de Dios ha sido enviada a los gentiles. Ellos sí oirán».]
+
+### Hechos 28:30 {#hech-28-30}
+⸀Ἐνέμεινεν ⸀δὲ διετίαν ὅλην ἐν ἰδίῳ μισθώματι, καὶ ἀπεδέχετο πάντας τοὺς εἰσπορευομένους πρὸς αὐτόν, 
+[Pablo se quedó por dos años enteros en la habitación que alquilaba, y recibía a todos los que iban a verlo,]
+
+### Hechos 28:31 {#hech-28-31}
+κηρύσσων τὴν βασιλείαν τοῦ θεοῦ καὶ διδάσκων τὰ περὶ τοῦ κυρίου Ἰησοῦ Χριστοῦ μετὰ πάσης παρρησίας ἀκωλύτως. 
+[predicando el reino de Dios y enseñando todo lo concerniente al Señor Jesucristo con toda libertad, sin estorbo.]
+

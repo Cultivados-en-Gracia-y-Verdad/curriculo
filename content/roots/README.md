@@ -280,9 +280,9 @@ Connectors are classified using **structure only**, NOT meaning
 
 ## CLASSIFICATION TAGS
 
-### `[I]` — Introduces a Clause
+### `[i]` — Introduces a Clause
 
-Use `[I]` if:
+Use `[i]` if:
 
 - the connector precedes a clause
 - the clause contains a **finite verb**

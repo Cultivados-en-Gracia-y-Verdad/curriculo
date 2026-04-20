@@ -1,0 +1,3512 @@
+### Juan 1:1 {#juan-1-1}
+Ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος. 
+[En el principio ya existía el Verbo, y el Verbo estaba con Dios, y el Verbo era Dios.]
+
+### Juan 1:2 {#juan-1-2}
+οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν. 
+[Él estaba en el principio con Dios.]
+
+### Juan 1:3 {#juan-1-3}
+πάντα διʼ αὐτοῦ ἐγένετο, καὶ χωρὶς αὐτοῦ ἐγένετο οὐδὲ ἕν. ὃ γέγονεν 
+[Todas las cosas fueron hechas por medio de Él, y sin Él nada de lo que ha sido hecho, fue hecho.]
+
+### Juan 1:4 {#juan-1-4}
+ἐν αὐτῷ ζωὴ ἦν, καὶ ἡ ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων· 
+[En Él estaba la vida, y la vida era la Luz de los hombres.]
+
+### Juan 1:5 {#juan-1-5}
+καὶ τὸ φῶς ἐν τῇ σκοτίᾳ φαίνει, καὶ ἡ σκοτία αὐτὸ οὐ κατέλαβεν. 
+[La Luz brilla en las tinieblas, y las tinieblas no la comprendieron.]
+
+### Juan 1:6 {#juan-1-6}
+Ἐγένετο ἄνθρωπος ἀπεσταλμένος παρὰ θεοῦ, ὄνομα αὐτῷ Ἰωάννης· 
+[Vino al mundo un hombre enviado por Dios, cuyo nombre era Juan.]
+
+### Juan 1:7 {#juan-1-7}
+οὗτος ἦλθεν εἰς μαρτυρίαν, ἵνα μαρτυρήσῃ περὶ τοῦ φωτός, ἵνα πάντες πιστεύσωσιν διʼ αὐτοῦ. 
+[Este vino como testigo para testificar de la Luz, a fin de que todos creyeran por medio de él.]
+
+### Juan 1:8 {#juan-1-8}
+οὐκ ἦν ἐκεῖνος τὸ φῶς, ἀλλʼ ἵνα μαρτυρήσῃ περὶ τοῦ φωτός. 
+[No era él la Luz, sino que vino para dar testimonio de la Luz.]
+
+### Juan 1:9 {#juan-1-9}
+ἦν τὸ φῶς τὸ ἀληθινὸν ὃ φωτίζει πάντα ἄνθρωπον ἐρχόμενον εἰς τὸν κόσμον. 
+[Existía la Luz verdadera que, al venir al mundo, alumbra a todo hombre.]
+
+### Juan 1:10 {#juan-1-10}
+Ἐν τῷ κόσμῳ ἦν, καὶ ὁ κόσμος διʼ αὐτοῦ ἐγένετο, καὶ ὁ κόσμος αὐτὸν οὐκ ἔγνω. 
+[Él estaba en el mundo, y el mundo fue hecho por medio de Él, y el mundo no lo conoció.]
+
+### Juan 1:11 {#juan-1-11}
+εἰς τὰ ἴδια ἦλθεν, καὶ οἱ ἴδιοι αὐτὸν οὐ παρέλαβον. 
+[A lo Suyo vino, y los Suyos no lo recibieron.]
+
+### Juan 1:12 {#juan-1-12}
+ὅσοι δὲ ἔλαβον αὐτόν, ἔδωκεν αὐτοῖς ἐξουσίαν τέκνα θεοῦ γενέσθαι, τοῖς πιστεύουσιν εἰς τὸ ὄνομα αὐτοῦ, 
+[Pero a todos los que lo recibieron, les dio el derecho de llegar a ser hijos de Dios, es decir, a los que creen en Su nombre,]
+
+### Juan 1:13 {#juan-1-13}
+οἳ οὐκ ἐξ αἱμάτων οὐδὲ ἐκ θελήματος σαρκὸς οὐδὲ ἐκ θελήματος ἀνδρὸς ἀλλʼ ἐκ θεοῦ ἐγεννήθησαν. 
+[que no nacieron de sangre, ni de la voluntad de la carne, ni de la voluntad del hombre, sino de Dios.]
+
+### Juan 1:14 {#juan-1-14}
+Καὶ ὁ λόγος σὰρξ ἐγένετο καὶ ἐσκήνωσεν ἐν ἡμῖν, καὶ ἐθεασάμεθα τὴν δόξαν αὐτοῦ, δόξαν ὡς μονογενοῦς παρὰ πατρός, πλήρης χάριτος καὶ ἀληθείας· 
+[El Verbo se hizo carne, y habitó entre nosotros, y vimos Su gloria, gloria como del unigénito del Padre, lleno de gracia y de verdad.]
+
+### Juan 1:15 {#juan-1-15}
+(Ἰωάννης μαρτυρεῖ περὶ αὐτοῦ καὶ κέκραγεν λέγων· Οὗτος ἦν ⸂ὃν εἶπον⸃· Ὁ ὀπίσω μου ἐρχόμενος ἔμπροσθέν μου γέγονεν, ὅτι πρῶτός μου ἦν·) 
+[Juan dio* testimonio de Él y clamó: «Este era del que yo decía: “El que viene después de mí, es antes de mí, porque era primero que yo”».]
+
+### Juan 1:16 {#juan-1-16}
+⸀ὅτι ἐκ τοῦ πληρώματος αὐτοῦ ἡμεῖς πάντες ἐλάβομεν, καὶ χάριν ἀντὶ χάριτος· 
+[Pues de Su plenitud todos hemos recibido, y gracia sobre gracia.]
+
+### Juan 1:17 {#juan-1-17}
+ὅτι ὁ νόμος διὰ Μωϋσέως ἐδόθη, ἡ χάρις καὶ ἡ ἀλήθεια διὰ Ἰησοῦ Χριστοῦ ἐγένετο. 
+[Porque la ley fue dada por medio de Moisés; la gracia y la verdad fueron hechas realidad por medio de Jesucristo.]
+
+### Juan 1:18 {#juan-1-18}
+θεὸν οὐδεὶς ἑώρακεν πώποτε· ⸂μονογενὴς θεὸς⸃ ὁ ὢν εἰς τὸν κόλπον τοῦ πατρὸς ἐκεῖνος ἐξηγήσατο. 
+[Nadie ha visto jamás a Dios; el unigénito Dios, que está en el seno del Padre, Él lo ha dado a conocer.]
+
+### Juan 1:19 {#juan-1-19}
+Καὶ αὕτη ἐστὶν ἡ μαρτυρία τοῦ Ἰωάννου ὅτε ⸀ἀπέστειλαν οἱ Ἰουδαῖοι ἐξ Ἱεροσολύμων ἱερεῖς καὶ Λευίτας ἵνα ἐρωτήσωσιν αὐτόν· Σὺ τίς εἶ; 
+[Este es el testimonio de Juan, cuando los judíos enviaron sacerdotes y levitas de Jerusalén a preguntarle: «¿Quién eres tú?».]
+
+### Juan 1:20 {#juan-1-20}
+καὶ ὡμολόγησεν καὶ οὐκ ἠρνήσατο, καὶ ὡμολόγησεν ὅτι ⸂Ἐγὼ οὐκ εἰμὶ⸃ ὁ χριστός. 
+[Y él confesó y no negó, pero confesó: «Yo no soy el Cristo».]
+
+### Juan 1:21 {#juan-1-21}
+καὶ ἠρώτησαν αὐτόν· Τί οὖν; ⸂σὺ Ἠλίας εἶ⸃; καὶ λέγει· Οὐκ εἰμί. Ὁ προφήτης εἶ σύ; καὶ ἀπεκρίθη· Οὔ. 
+[«¿Entonces, qué?», le preguntaron, «¿Eres Elías?». Y él dijo*: «No lo soy». «¿Eres el Profeta?». «No», respondió Juan.]
+
+### Juan 1:22 {#juan-1-22}
+εἶπαν οὖν αὐτῷ· Τίς εἶ; ἵνα ἀπόκρισιν δῶμεν τοῖς πέμψασιν ἡμᾶς· τί λέγεις περὶ σεαυτοῦ; 
+[Entonces le preguntaron: «¿Quién eres? Ya que tenemos que dar respuesta a los que nos enviaron. ¿Qué dices de ti mismo?».]
+
+### Juan 1:23 {#juan-1-23}
+ἔφη· Ἐγὼ φωνὴ βοῶντος ἐν τῇ ἐρήμῳ· Εὐθύνατε τὴν ὁδὸν κυρίου, καθὼς εἶπεν Ἠσαΐας ὁ προφήτης. 
+[Juan les respondió: «Yo soy LA VOZ DEL QUE CLAMA EN EL DESIERTO: “ENDERECEN EL CAMINO DEL SEÑOR”, como dijo el profeta Isaías».]
+
+### Juan 1:24 {#juan-1-24}
+⸀Καὶ ἀπεσταλμένοι ἦσαν ἐκ τῶν Φαρισαίων. 
+[Los que habían sido enviados eran de los fariseos,]
+
+### Juan 1:25 {#juan-1-25}
+καὶ ἠρώτησαν αὐτὸν καὶ εἶπαν αὐτῷ· Τί οὖν βαπτίζεις εἰ σὺ οὐκ εἶ ὁ χριστὸς ⸂οὐδὲ Ἠλίας οὐδὲ⸃ ὁ προφήτης; 
+[y le preguntaron: «Entonces, ¿por qué bautizas, si tú no eres el Cristo, ni Elías, ni el Profeta?».]
+
+### Juan 1:26 {#juan-1-26}
+ἀπεκρίθη αὐτοῖς ὁ Ἰωάννης λέγων· Ἐγὼ βαπτίζω ἐν ὕδατι· ⸀μέσος ὑμῶν ⸀ἕστηκεν ὃν ὑμεῖς οὐκ οἴδατε, 
+[Juan les respondió: «Yo bautizo en agua, pero entre ustedes está Uno a quien ustedes no conocen.]
+
+### Juan 1:27 {#juan-1-27}
+⸀ὁ ὀπίσω μου ⸀ἐρχόμενος, οὗ ⸂οὐκ εἰμὶ⸃ ἄξιος ἵνα λύσω αὐτοῦ τὸν ἱμάντα τοῦ ὑποδήματος. 
+[Él es el que viene después de mí, a quien yo no soy digno de desatar la correa de la sandalia».]
+
+### Juan 1:28 {#juan-1-28}
+ταῦτα ἐν Βηθανίᾳ ἐγένετο πέραν τοῦ Ἰορδάνου, ὅπου ἦν ⸀ὁ Ἰωάννης βαπτίζων. 
+[Estas cosas sucedieron en Betania, al otro lado del Jordán, donde Juan estaba bautizando.]
+
+### Juan 1:29 {#juan-1-29}
+Τῇ ἐπαύριον βλέπει τὸν Ἰησοῦν ἐρχόμενον πρὸς αὐτόν, καὶ λέγει· Ἴδε ὁ ἀμνὸς τοῦ θεοῦ ὁ αἴρων τὴν ἁμαρτίαν τοῦ κόσμου. 
+[Al día siguiente Juan vio* a Jesús que venía hacia él, y dijo*: «Ahí está el Cordero de Dios que quita el pecado del mundo.]
+
+### Juan 1:30 {#juan-1-30}
+οὗτός ἐστιν ⸀ὑπὲρ οὗ ἐγὼ εἶπον· Ὀπίσω μου ἔρχεται ἀνὴρ ὃς ἔμπροσθέν μου γέγονεν, ὅτι πρῶτός μου ἦν· 
+[Este es Aquel de quien yo dije: “Después de mí viene un Hombre que es antes de mí porque era primero que yo”.]
+
+### Juan 1:31 {#juan-1-31}
+κἀγὼ οὐκ ᾔδειν αὐτόν, ἀλλʼ ἵνα φανερωθῇ τῷ Ἰσραὴλ διὰ τοῦτο ἦλθον ἐγὼ ⸀ἐν ὕδατι βαπτίζων. 
+[Yo no lo conocía, pero para que Él fuera manifestado a Israel, por esto yo vine bautizando en agua».]
+
+### Juan 1:32 {#juan-1-32}
+καὶ ἐμαρτύρησεν Ἰωάννης λέγων ὅτι Τεθέαμαι τὸ πνεῦμα καταβαῖνον ⸀ὡς περιστερὰν ἐξ οὐρανοῦ, καὶ ἔμεινεν ἐπʼ αὐτόν· 
+[Juan también dio testimonio, diciendo: «He visto al Espíritu que descendía del cielo como paloma, y se posó sobre Él.]
+
+### Juan 1:33 {#juan-1-33}
+κἀγὼ οὐκ ᾔδειν αὐτόν, ἀλλʼ ὁ πέμψας με βαπτίζειν ἐν ὕδατι ἐκεῖνός μοι εἶπεν· Ἐφʼ ὃν ἂν ἴδῃς τὸ πνεῦμα καταβαῖνον καὶ μένον ἐπʼ αὐτόν, οὗτός ἐστιν ὁ βαπτίζων ἐν πνεύματι ἁγίῳ· 
+[Yo no lo conocía, pero el que me envió a bautizar en agua me dijo: “Aquel sobre quien veas al Espíritu descender y posarse sobre Él, Este es el que bautiza en el Espíritu Santo”.]
+
+### Juan 1:34 {#juan-1-34}
+κἀγὼ ἑώρακα, καὶ μεμαρτύρηκα ὅτι οὗτός ἐστιν ὁ ⸀ἐκλεκτὸς τοῦ θεοῦ. 
+[Y yo lo he visto y he dado testimonio de que Este es el Hijo de Dios».]
+
+### Juan 1:35 {#juan-1-35}
+Τῇ ἐπαύριον πάλιν εἱστήκει ⸀ὁ Ἰωάννης καὶ ἐκ τῶν μαθητῶν αὐτοῦ δύο, 
+[Al día siguiente Juan estaba otra vez allí con dos de sus discípulos,]
+
+### Juan 1:36 {#juan-1-36}
+καὶ ἐμβλέψας τῷ Ἰησοῦ περιπατοῦντι λέγει· Ἴδε ὁ ἀμνὸς τοῦ θεοῦ. 
+[y vio a Jesús que pasaba, y dijo*: «Ahí está el Cordero de Dios».]
+
+### Juan 1:37 {#juan-1-37}
+καὶ ἤκουσαν ⸂οἱ δύο μαθηταὶ αὐτοῦ⸃ λαλοῦντος καὶ ἠκολούθησαν τῷ Ἰησοῦ. 
+[Y los dos discípulos le oyeron hablar, y siguieron a Jesús.]
+
+### Juan 1:38 {#juan-1-38}
+στραφεὶς δὲ ὁ Ἰησοῦς καὶ θεασάμενος αὐτοὺς ἀκολουθοῦντας λέγει αὐτοῖς· Τί ζητεῖτε; οἱ δὲ εἶπαν αὐτῷ· Ῥαββί (ὃ λέγεται ⸀μεθερμηνευόμενον Διδάσκαλε), ποῦ μένεις; 
+[Jesús se volvió, y viendo que lo seguían, les dijo*: «¿Qué buscan?». Y ellos le dijeron: «Rabí (que traducido quiere decir Maestro), ¿dónde te hospedas?».]
+
+### Juan 1:39 {#juan-1-39}
+λέγει αὐτοῖς· Ἔρχεσθε καὶ ⸂ὄψεσθε. ἦλθαν οὖν⸃ καὶ εἶδαν ποῦ μένει, καὶ παρʼ αὐτῷ ἔμειναν τὴν ἡμέραν ἐκείνην· ὥρα ἦν ὡς δεκάτη. 
+[«Vengan y verán», les dijo* Jesús. Entonces fueron y vieron dónde se hospedaba; y se quedaron con Él aquel día, porque eran como las cuatro de la tarde.]
+
+### Juan 1:40 {#juan-1-40}
+ἦν Ἀνδρέας ὁ ἀδελφὸς Σίμωνος Πέτρου εἷς ἐκ τῶν δύο τῶν ἀκουσάντων παρὰ Ἰωάννου καὶ ἀκολουθησάντων αὐτῷ· 
+[Uno de los dos que oyeron a Juan y siguieron a Jesús, era Andrés, hermano de Simón Pedro.]
+
+### Juan 1:41 {#juan-1-41}
+εὑρίσκει οὗτος ⸀πρῶτον τὸν ἀδελφὸν τὸν ἴδιον Σίμωνα καὶ λέγει αὐτῷ· Εὑρήκαμεν τὸν Μεσσίαν (ὅ ἐστιν μεθερμηνευόμενον χριστός). 
+[Él encontró* primero a su hermano Simón, y le dijo*: «Hemos hallado al Mesías» (que traducido quiere decir, Cristo).]
+
+### Juan 1:42 {#juan-1-42}
+⸀ἤγαγεν αὐτὸν πρὸς τὸν Ἰησοῦν. ἐμβλέψας αὐτῷ ὁ Ἰησοῦς εἶπεν· Σὺ εἶ Σίμων ὁ υἱὸς ⸀Ἰωάννου, σὺ κληθήσῃ Κηφᾶς (ὃ ἑρμηνεύεται Πέτρος). 
+[Entonces lo trajo a Jesús. Jesús mirándolo, dijo: «Tú eres Simón, hijo de Juan; tú serás llamado Cefas», que quiere decir Pedro.]
+
+### Juan 1:43 {#juan-1-43}
+Τῇ ἐπαύριον ἠθέλησεν ἐξελθεῖν εἰς τὴν Γαλιλαίαν. καὶ εὑρίσκει Φίλιππον καὶ λέγει αὐτῷ ὁ Ἰησοῦς· Ἀκολούθει μοι. 
+[Al día siguiente Jesús se propuso salir para Galilea, y encontró* a Felipe, y le dijo*: «Sígueme».]
+
+### Juan 1:44 {#juan-1-44}
+ἦν δὲ ὁ Φίλιππος ἀπὸ Βηθσαϊδά, ἐκ τῆς πόλεως Ἀνδρέου καὶ Πέτρου. 
+[Felipe era de Betsaida, de la ciudad de Andrés y de Pedro.]
+
+### Juan 1:45 {#juan-1-45}
+εὑρίσκει Φίλιππος τὸν Ναθαναὴλ καὶ λέγει αὐτῷ· Ὃν ἔγραψεν Μωϋσῆς ἐν τῷ νόμῳ καὶ οἱ προφῆται εὑρήκαμεν, ⸀Ἰησοῦν υἱὸν τοῦ Ἰωσὴφ τὸν ἀπὸ Ναζαρέτ. 
+[Felipe encontró* a Natanael y le dijo*: «Hemos hallado a Aquel de quien escribió Moisés en la ley, y también los profetas, a Jesús de Nazaret, el hijo de José».]
+
+### Juan 1:46 {#juan-1-46}
+καὶ εἶπεν αὐτῷ Ναθαναήλ· Ἐκ Ναζαρὲτ δύναταί τι ἀγαθὸν εἶναι; λέγει αὐτῷ ⸀ὁ Φίλιππος· Ἔρχου καὶ ἴδε. 
+[Y Natanael le dijo: «¿Puede algo bueno salir de Nazaret?». «Ven, y ve», le dijo* Felipe.]
+
+### Juan 1:47 {#juan-1-47}
+εἶδεν ⸀ὁ Ἰησοῦς τὸν Ναθαναὴλ ἐρχόμενον πρὸς αὐτὸν καὶ λέγει περὶ αὐτοῦ· Ἴδε ἀληθῶς Ἰσραηλίτης ἐν ᾧ δόλος οὐκ ἔστιν. 
+[Jesús vio venir a Natanael y dijo* de él: «Ahí tienen a un verdadero israelita en quien no hay engaño».]
+
+### Juan 1:48 {#juan-1-48}
+λέγει αὐτῷ Ναθαναήλ· Πόθεν με γινώσκεις; ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτῷ· Πρὸ τοῦ σε Φίλιππον φωνῆσαι ὄντα ὑπὸ τὴν συκῆν εἶδόν σε. 
+[Natanael le preguntó*: «¿Cómo es que me conoces?». Jesús le respondió: «Antes de que Felipe te llamara, cuando estabas debajo de la higuera, te vi».]
+
+### Juan 1:49 {#juan-1-49}
+ἀπεκρίθη ⸂αὐτῷ Ναθαναήλ⸃· Ῥαββί, σὺ εἶ ὁ υἱὸς τοῦ θεοῦ, σὺ ⸂βασιλεὺς εἶ⸃ τοῦ Ἰσραήλ. 
+[«Rabí, Tú eres el Hijo de Dios, Tú eres el Rey de Israel», respondió Natanael.]
+
+### Juan 1:50 {#juan-1-50}
+ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτῷ· Ὅτι εἶπόν σοι ⸀ὅτι εἶδόν σε ὑποκάτω τῆς συκῆς πιστεύεις; μείζω τούτων ⸀ὄψῃ. 
+[Jesús le contestó: «¿Porque te dije que te vi debajo de la higuera, crees? Cosas mayores que estas verás».]
+
+### Juan 1:51 {#juan-1-51}
+καὶ λέγει αὐτῷ· Ἀμὴν ἀμὴν λέγω ⸀ὑμῖν, ὄψεσθε τὸν οὐρανὸν ἀνεῳγότα καὶ τοὺς ἀγγέλους τοῦ θεοῦ ἀναβαίνοντας καὶ καταβαίνοντας ἐπὶ τὸν υἱὸν τοῦ ἀνθρώπου. 
+[También le dijo*: «En verdad les digo que verán el cielo abierto y a los ángeles de Dios subiendo y bajando sobre el Hijo del Hombre».]
+
+### Juan 2:1 {#juan-2-1}
+Καὶ τῇ ⸂ἡμέρᾳ τῇ τρίτῃ⸃ γάμος ἐγένετο ἐν Κανὰ τῆς Γαλιλαίας, καὶ ἦν ἡ μήτηρ τοῦ Ἰησοῦ ἐκεῖ· 
+[Al tercer día se celebró una boda en Caná de Galilea, y estaba allí la madre de Jesús;]
+
+### Juan 2:2 {#juan-2-2}
+ἐκλήθη δὲ καὶ ὁ Ἰησοῦς καὶ οἱ μαθηταὶ αὐτοῦ εἰς τὸν γάμον. 
+[y también Jesús fue invitado a la boda, con Sus discípulos.]
+
+### Juan 2:3 {#juan-2-3}
+καὶ ὑστερήσαντος οἴνου λέγει ἡ μήτηρ τοῦ Ἰησοῦ πρὸς αὐτόν· Οἶνον οὐκ ἔχουσιν. 
+[Cuando se acabó el vino, la madre de Jesús le dijo*: «No tienen vino».]
+
+### Juan 2:4 {#juan-2-4}
+⸀καὶ λέγει αὐτῇ ὁ Ἰησοῦς· Τί ἐμοὶ καὶ σοί, γύναι; οὔπω ἥκει ἡ ὥρα μου. 
+[Y Jesús le dijo*: «Mujer, ¿qué nos interesa esto a ti y a Mí? Todavía no ha llegado Mi hora».]
+
+### Juan 2:5 {#juan-2-5}
+λέγει ἡ μήτηρ αὐτοῦ τοῖς διακόνοις· ⸂Ὅ τι⸃ ἂν λέγῃ ὑμῖν ποιήσατε. 
+[Su madre dijo* a los que servían: «Hagan todo lo que Él les diga».]
+
+### Juan 2:6 {#juan-2-6}
+ἦσαν δὲ ἐκεῖ ⸂λίθιναι ὑδρίαι⸃ ἓξ ⸂κατὰ τὸν καθαρισμὸν τῶν Ἰουδαίων κείμεναι⸃, χωροῦσαι ἀνὰ μετρητὰς δύο ἢ τρεῖς. 
+[Y había allí seis tinajas de piedra, puestas para ser usadas en el rito de la purificación de los judíos; en cada una cabían dos o tres cántaros.]
+
+### Juan 2:7 {#juan-2-7}
+λέγει αὐτοῖς ὁ Ἰησοῦς· Γεμίσατε τὰς ὑδρίας ὕδατος· καὶ ἐγέμισαν αὐτὰς ἕως ἄνω. 
+[Jesús les dijo*: «Llenen de agua las tinajas». Y las llenaron hasta el borde.]
+
+### Juan 2:8 {#juan-2-8}
+καὶ λέγει αὐτοῖς· Ἀντλήσατε νῦν καὶ φέρετε τῷ ἀρχιτρικλίνῳ· ⸂οἱ δὲ⸃ ἤνεγκαν. 
+[Entonces les dijo*: «Saquen ahora un poco y llévenlo al mayordomo». Y se lo llevaron.]
+
+### Juan 2:9 {#juan-2-9}
+ὡς δὲ ἐγεύσατο ὁ ἀρχιτρίκλινος τὸ ὕδωρ οἶνον γεγενημένον, καὶ οὐκ ᾔδει πόθεν ἐστίν, οἱ δὲ διάκονοι ᾔδεισαν οἱ ἠντληκότες τὸ ὕδωρ, φωνεῖ τὸν νυμφίον ὁ ἀρχιτρίκλινος 
+[El mayordomo probó el agua convertida en vino, sin saber de dónde era, pero los que servían, que habían sacado el agua, lo sabían. Entonces el mayordomo llamó* al novio,]
+
+### Juan 2:10 {#juan-2-10}
+καὶ λέγει αὐτῷ· Πᾶς ἄνθρωπος πρῶτον τὸν καλὸν οἶνον τίθησιν, καὶ ὅταν ⸀μεθυσθῶσιν τὸν ἐλάσσω· σὺ τετήρηκας τὸν καλὸν οἶνον ἕως ἄρτι. 
+[y le dijo*: «Todo hombre sirve primero el vino bueno, y cuando ya han tomado bastante, entonces el inferior; pero tú has guardado hasta ahora el vino bueno».]
+
+### Juan 2:11 {#juan-2-11}
+ταύτην ⸀ἐποίησεν ἀρχὴν τῶν σημείων ὁ Ἰησοῦς ἐν Κανὰ τῆς Γαλιλαίας καὶ ἐφανέρωσεν τὴν δόξαν αὐτοῦ, καὶ ἐπίστευσαν εἰς αὐτὸν οἱ μαθηταὶ αὐτοῦ. 
+[Este principio de Sus señales hizo Jesús en Caná de Galilea, y manifestó Su gloria, y Sus discípulos creyeron en Él.]
+
+### Juan 2:12 {#juan-2-12}
+Μετὰ τοῦτο κατέβη εἰς Καφαρναοὺμ αὐτὸς καὶ ἡ μήτηρ αὐτοῦ καὶ οἱ ⸀ἀδελφοὶ καὶ οἱ μαθηταὶ αὐτοῦ, καὶ ἐκεῖ ἔμειναν οὐ πολλὰς ἡμέρας. 
+[Después de esto Jesús bajó a Capernaúm con Su madre, Sus hermanos y Sus discípulos; pero no se quedaron allí muchos días.]
+
+### Juan 2:13 {#juan-2-13}
+Καὶ ἐγγὺς ἦν τὸ πάσχα τῶν Ἰουδαίων, καὶ ἀνέβη εἰς Ἱεροσόλυμα ὁ Ἰησοῦς. 
+[La Pascua de los judíos estaba cerca, y Jesús subió a Jerusalén.]
+
+### Juan 2:14 {#juan-2-14}
+καὶ εὗρεν ἐν τῷ ἱερῷ τοὺς πωλοῦντας βόας καὶ πρόβατα καὶ περιστερὰς καὶ τοὺς κερματιστὰς καθημένους, 
+[En el templo encontró a los que vendían bueyes, ovejas y palomas, y a los que cambiaban dinero allí sentados.]
+
+### Juan 2:15 {#juan-2-15}
+καὶ ποιήσας φραγέλλιον ἐκ σχοινίων πάντας ἐξέβαλεν ἐκ τοῦ ἱεροῦ τά τε πρόβατα καὶ τοὺς βόας, καὶ τῶν κολλυβιστῶν ἐξέχεεν ⸂τὰ κέρματα⸃ καὶ τὰς τραπέζας ⸀ἀνέστρεψεν, 
+[Y haciendo un látigo de cuerdas, echó a todos fuera del templo, con las ovejas y los bueyes; desparramó las monedas de los que cambiaban el dinero y volcó las mesas.]
+
+### Juan 2:16 {#juan-2-16}
+καὶ τοῖς τὰς περιστερὰς πωλοῦσιν εἶπεν· Ἄρατε ταῦτα ἐντεῦθεν, μὴ ποιεῖτε τὸν οἶκον τοῦ πατρός μου οἶκον ἐμπορίου. 
+[A los que vendían palomas les dijo: «Quiten esto de aquí; no hagan de la casa de Mi Padre una casa de comercio».]
+
+### Juan 2:17 {#juan-2-17}
+⸀ἐμνήσθησαν οἱ μαθηταὶ αὐτοῦ ὅτι γεγραμμένον ἐστίν· Ὁ ζῆλος τοῦ οἴκου σου καταφάγεταί με. 
+[Sus discípulos se acordaron de que estaba escrito: «EL CELO POR TU CASA ME CONSUMIRÁ».]
+
+### Juan 2:18 {#juan-2-18}
+ἀπεκρίθησαν οὖν οἱ Ἰουδαῖοι καὶ εἶπαν αὐτῷ· Τί σημεῖον δεικνύεις ἡμῖν, ὅτι ταῦτα ποιεῖς; 
+[Entonces los judíos le dijeron: «Ya que haces estas cosas, ¿qué señal nos muestras?».]
+
+### Juan 2:19 {#juan-2-19}
+ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτοῖς· Λύσατε τὸν ναὸν τοῦτον καὶ ἐν τρισὶν ἡμέραις ἐγερῶ αὐτόν. 
+[Jesús les respondió: «Destruyan este templo, y en tres días lo levantaré».]
+
+### Juan 2:20 {#juan-2-20}
+εἶπαν οὖν οἱ Ἰουδαῖοι· Τεσσεράκοντα καὶ ἓξ ἔτεσιν οἰκοδομήθη ὁ ναὸς οὗτος, καὶ σὺ ἐν τρισὶν ἡμέραις ἐγερεῖς αὐτόν; 
+[Entonces los judíos dijeron: «En cuarenta y seis años fue edificado este templo, ¿y Tú lo levantarás en tres días?».]
+
+### Juan 2:21 {#juan-2-21}
+ἐκεῖνος δὲ ἔλεγεν περὶ τοῦ ναοῦ τοῦ σώματος αὐτοῦ. 
+[Pero Él hablaba del templo de Su cuerpo.]
+
+### Juan 2:22 {#juan-2-22}
+ὅτε οὖν ἠγέρθη ἐκ νεκρῶν, ἐμνήσθησαν οἱ μαθηταὶ αὐτοῦ ὅτι τοῦτο ἔλεγεν, καὶ ἐπίστευσαν τῇ γραφῇ καὶ τῷ λόγῳ ⸀ὃν εἶπεν ὁ Ἰησοῦς. 
+[Por eso, cuando resucitó de los muertos, Sus discípulos se acordaron de que había dicho esto; y creyeron en la Escritura y en la palabra que Jesús había hablado.]
+
+### Juan 2:23 {#juan-2-23}
+Ὡς δὲ ἦν ἐν τοῖς Ἱεροσολύμοις ἐν τῷ πάσχα ἐν τῇ ἑορτῇ, πολλοὶ ἐπίστευσαν εἰς τὸ ὄνομα αὐτοῦ, θεωροῦντες αὐτοῦ τὰ σημεῖα ἃ ἐποίει· 
+[Cuando Jesús estaba en Jerusalén durante la fiesta de la Pascua, muchos creyeron en Su nombre al ver las señales que hacía.]
+
+### Juan 2:24 {#juan-2-24}
+αὐτὸς ⸀δὲ Ἰησοῦς οὐκ ἐπίστευεν ⸀αὑτὸν αὐτοῖς διὰ τὸ αὐτὸν γινώσκειν πάντας 
+[Pero Jesús, en cambio, no se confiaba en ellos, porque los conocía a todos,]
+
+### Juan 2:25 {#juan-2-25}
+καὶ ὅτι οὐ χρείαν εἶχεν ἵνα τις μαρτυρήσῃ περὶ τοῦ ἀνθρώπου, αὐτὸς γὰρ ἐγίνωσκεν τί ἦν ἐν τῷ ἀνθρώπῳ. 
+[y no tenía necesidad de que nadie le diera testimonio del hombre, porque Él conocía lo que había en el interior del hombre.]
+
+### Juan 3:1 {#juan-3-1}
+Ἦν δὲ ἄνθρωπος ἐκ τῶν Φαρισαίων, Νικόδημος ὄνομα αὐτῷ, ἄρχων τῶν Ἰουδαίων· 
+[Había un hombre de los fariseos, llamado Nicodemo, prominente entre los judíos.]
+
+### Juan 3:2 {#juan-3-2}
+οὗτος ἦλθεν πρὸς αὐτὸν νυκτὸς καὶ εἶπεν αὐτῷ· Ῥαββί, οἴδαμεν ὅτι ἀπὸ θεοῦ ἐλήλυθας διδάσκαλος· οὐδεὶς γὰρ ⸂δύναται ταῦτα τὰ σημεῖα⸃ ποιεῖν ἃ σὺ ποιεῖς, ἐὰν μὴ ᾖ ὁ θεὸς μετʼ αὐτοῦ. 
+[Este vino a Jesús de noche y le dijo: «Rabí, sabemos que has venido de Dios como maestro, porque nadie puede hacer las señales que Tú haces si Dios no está con él».]
+
+### Juan 3:3 {#juan-3-3}
+⸀ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτῷ· Ἀμὴν ἀμὴν λέγω σοι, ἐὰν μή τις γεννηθῇ ἄνωθεν, οὐ δύναται ἰδεῖν τὴν βασιλείαν τοῦ θεοῦ. 
+[Jesús le contestó: «En verdad te digo que el que no nace de nuevo no puede ver el reino de Dios».]
+
+### Juan 3:4 {#juan-3-4}
+λέγει πρὸς αὐτὸν ⸀ὁ Νικόδημος· Πῶς δύναται ἄνθρωπος γεννηθῆναι γέρων ὤν; μὴ δύναται εἰς τὴν κοιλίαν τῆς μητρὸς αὐτοῦ δεύτερον εἰσελθεῖν καὶ γεννηθῆναι; 
+[Nicodemo le dijo*: «¿Cómo puede un hombre nacer siendo ya viejo? ¿Acaso puede entrar por segunda vez en el vientre de su madre y nacer?».]
+
+### Juan 3:5 {#juan-3-5}
+⸀ἀπεκρίθη Ἰησοῦς· Ἀμὴν ἀμὴν λέγω σοι, ἐὰν μή τις γεννηθῇ ἐξ ὕδατος καὶ πνεύματος, οὐ δύναται εἰσελθεῖν εἰς τὴν βασιλείαν τοῦ θεοῦ. 
+[Jesús respondió: «En verdad te digo que el que no nace de agua y del Espíritu no puede entrar en el reino de Dios.]
+
+### Juan 3:6 {#juan-3-6}
+τὸ γεγεννημένον ἐκ τῆς σαρκὸς σάρξ ἐστιν, καὶ τὸ γεγεννημένον ἐκ τοῦ πνεύματος πνεῦμά ἐστιν. 
+[Lo que es nacido de la carne, carne es, y lo que es nacido del Espíritu, espíritu es.]
+
+### Juan 3:7 {#juan-3-7}
+μὴ θαυμάσῃς ὅτι εἶπόν σοι Δεῖ ὑμᾶς γεννηθῆναι ἄνωθεν. 
+[No te asombres de que te haya dicho: “Tienen que nacer de nuevo”.]
+
+### Juan 3:8 {#juan-3-8}
+τὸ πνεῦμα ὅπου θέλει πνεῖ, καὶ τὴν φωνὴν αὐτοῦ ἀκούεις, ἀλλʼ οὐκ οἶδας πόθεν ἔρχεται καὶ ποῦ ὑπάγει· οὕτως ἐστὶν πᾶς ὁ γεγεννημένος ἐκ τοῦ πνεύματος. 
+[El viento sopla por donde quiere, y oyes su sonido, pero no sabes de dónde viene ni adónde va; así es todo aquel que es nacido del Espíritu».]
+
+### Juan 3:9 {#juan-3-9}
+ἀπεκρίθη Νικόδημος καὶ εἶπεν αὐτῷ· Πῶς δύναται ταῦτα γενέσθαι; 
+[Nicodemo le preguntó: «¿Cómo puede ser esto?».]
+
+### Juan 3:10 {#juan-3-10}
+ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτῷ· Σὺ εἶ ὁ διδάσκαλος τοῦ Ἰσραὴλ καὶ ταῦτα οὐ γινώσκεις; 
+[Jesús le respondió: «Tú eres maestro de Israel, ¿y no entiendes estas cosas?]
+
+### Juan 3:11 {#juan-3-11}
+ἀμὴν ἀμὴν λέγω σοι ὅτι ὃ οἴδαμεν λαλοῦμεν καὶ ὃ ἑωράκαμεν μαρτυροῦμεν, καὶ τὴν μαρτυρίαν ἡμῶν οὐ λαμβάνετε. 
+[En verdad te digo que hablamos lo que sabemos y damos testimonio de lo que hemos visto, pero ustedes no reciben nuestro testimonio.]
+
+### Juan 3:12 {#juan-3-12}
+εἰ τὰ ἐπίγεια εἶπον ὑμῖν καὶ οὐ πιστεύετε, πῶς ἐὰν εἴπω ὑμῖν τὰ ἐπουράνια πιστεύσετε; 
+[Si les he hablado de las cosas terrenales, y no creen, ¿cómo creerán si les hablo de las celestiales?]
+
+### Juan 3:13 {#juan-3-13}
+καὶ οὐδεὶς ἀναβέβηκεν εἰς τὸν οὐρανὸν εἰ μὴ ὁ ἐκ τοῦ οὐρανοῦ καταβάς, ὁ υἱὸς τοῦ ⸀ἀνθρώπου. 
+[Nadie ha subido al cielo, sino Aquel que bajó del cielo, es decir, el Hijo del Hombre que está en el cielo.]
+
+### Juan 3:14 {#juan-3-14}
+καὶ καθὼς Μωϋσῆς ὕψωσεν τὸν ὄφιν ἐν τῇ ἐρήμῳ, οὕτως ὑψωθῆναι δεῖ τὸν υἱὸν τοῦ ἀνθρώπου, 
+[Y como Moisés levantó la serpiente en el desierto, así es necesario que sea levantado el Hijo del Hombre,]
+
+### Juan 3:15 {#juan-3-15}
+ἵνα πᾶς ὁ πιστεύων ⸂ἐν αὐτῷ⸃ ἔχῃ ζωὴν αἰώνιον. 
+[para que todo aquel que cree, tenga en Él vida eterna.]
+
+### Juan 3:16 {#juan-3-16}
+Οὕτως γὰρ ἠγάπησεν ὁ θεὸς τὸν κόσμον ὥστε τὸν ⸀υἱὸν τὸν μονογενῆ ἔδωκεν, ἵνα πᾶς ὁ πιστεύων εἰς αὐτὸν μὴ ἀπόληται ἀλλὰ ἔχῃ ζωὴν αἰώνιον. 
+[Porque de tal manera amó Dios al mundo, que dio a Su Hijo unigénito, para que todo aquel que cree en Él, no se pierda, sino que tenga vida eterna.]
+
+### Juan 3:17 {#juan-3-17}
+οὐ γὰρ ἀπέστειλεν ὁ θεὸς τὸν ⸀υἱὸν εἰς τὸν κόσμον ἵνα κρίνῃ τὸν κόσμον, ἀλλʼ ἵνα σωθῇ ὁ κόσμος διʼ αὐτοῦ. 
+[Porque Dios no envió a Su Hijo al mundo para juzgar al mundo, sino para que el mundo sea salvo por Él.]
+
+### Juan 3:18 {#juan-3-18}
+ὁ πιστεύων εἰς αὐτὸν οὐ κρίνεται· ὁ ⸀δὲ μὴ πιστεύων ἤδη κέκριται, ὅτι μὴ πεπίστευκεν εἰς τὸ ὄνομα τοῦ μονογενοῦς υἱοῦ τοῦ θεοῦ. 
+[El que cree en Él no es condenado; pero el que no cree, ya ha sido condenado, porque no ha creído en el nombre del unigénito Hijo de Dios.]
+
+### Juan 3:19 {#juan-3-19}
+αὕτη δέ ἐστιν ἡ κρίσις ὅτι τὸ φῶς ἐλήλυθεν εἰς τὸν κόσμον καὶ ἠγάπησαν οἱ ἄνθρωποι μᾶλλον τὸ σκότος ἢ τὸ φῶς, ἦν γὰρ ⸂αὐτῶν πονηρὰ⸃ τὰ ἔργα. 
+[Y este es el juicio: que la Luz vino al mundo, y los hombres amaron más las tinieblas que la Luz, pues sus acciones eran malas.]
+
+### Juan 3:20 {#juan-3-20}
+πᾶς γὰρ ὁ φαῦλα πράσσων μισεῖ τὸ φῶς καὶ οὐκ ἔρχεται πρὸς τὸ φῶς, ἵνα μὴ ἐλεγχθῇ τὰ ἔργα αὐτοῦ· 
+[Porque todo el que hace lo malo odia la Luz, y no viene a la Luz para que sus acciones no sean expuestas.]
+
+### Juan 3:21 {#juan-3-21}
+ὁ δὲ ποιῶν τὴν ἀλήθειαν ἔρχεται πρὸς τὸ φῶς, ἵνα φανερωθῇ αὐτοῦ τὰ ἔργα ὅτι ἐν θεῷ ἐστιν εἰργασμένα. 
+[Pero el que practica la verdad viene a la Luz, para que sus acciones sean manifestadas que han sido hechas en Dios».]
+
+### Juan 3:22 {#juan-3-22}
+Μετὰ ταῦτα ἦλθεν ὁ Ἰησοῦς καὶ οἱ μαθηταὶ αὐτοῦ εἰς τὴν Ἰουδαίαν γῆν, καὶ ἐκεῖ διέτριβεν μετʼ αὐτῶν καὶ ἐβάπτιζεν. 
+[Después de esto Jesús vino con Sus discípulos a la tierra de Judea, y estaba allí con ellos, y bautizaba.]
+
+### Juan 3:23 {#juan-3-23}
+ἦν δὲ καὶ ⸀ὁ Ἰωάννης βαπτίζων ἐν Αἰνὼν ἐγγὺς τοῦ Σαλείμ, ὅτι ὕδατα πολλὰ ἦν ἐκεῖ, καὶ παρεγίνοντο καὶ ἐβαπτίζοντο· 
+[Juan también bautizaba en Enón, cerca de Salim, porque allí había mucha agua; y muchos venían y eran bautizados.]
+
+### Juan 3:24 {#juan-3-24}
+οὔπω γὰρ ἦν βεβλημένος εἰς τὴν φυλακὴν ⸀ὁ Ἰωάννης. 
+[Porque Juan todavía no había sido puesto en la cárcel.]
+
+### Juan 3:25 {#juan-3-25}
+Ἐγένετο οὖν ζήτησις ἐκ τῶν μαθητῶν Ἰωάννου μετὰ Ἰουδαίου περὶ καθαρισμοῦ. 
+[Surgió entonces una discusión entre los discípulos de Juan y un judío acerca de la purificación.]
+
+### Juan 3:26 {#juan-3-26}
+καὶ ἦλθον πρὸς τὸν Ἰωάννην καὶ εἶπαν αὐτῷ· Ῥαββί, ὃς ἦν μετὰ σοῦ πέραν τοῦ Ἰορδάνου, ᾧ σὺ μεμαρτύρηκας, ἴδε οὗτος βαπτίζει καὶ πάντες ἔρχονται πρὸς αὐτόν. 
+[Vinieron a Juan y le dijeron: «Rabí, mira, Aquel que estaba contigo al otro lado del Jordán, de quien diste testimonio, está bautizando y todos van a Él».]
+
+### Juan 3:27 {#juan-3-27}
+ἀπεκρίθη Ἰωάννης καὶ εἶπεν· Οὐ δύναται ἄνθρωπος λαμβάνειν ⸂οὐδὲ ἓν⸃ ἐὰν μὴ ᾖ δεδομένον αὐτῷ ἐκ τοῦ οὐρανοῦ. 
+[Juan les respondió: «Ningún hombre puede recibir nada si no le es dado del cielo.]
+
+### Juan 3:28 {#juan-3-28}
+αὐτοὶ ὑμεῖς ⸀μοι μαρτυρεῖτε ὅτι ⸀εἶπον· Οὐκ εἰμὶ ἐγὼ ὁ χριστός, ἀλλʼ ὅτι Ἀπεσταλμένος εἰμὶ ἔμπροσθεν ἐκείνου. 
+[Ustedes mismos me son testigos de que dije: “Yo no soy el Cristo, sino que he sido enviado delante de Él”.]
+
+### Juan 3:29 {#juan-3-29}
+ὁ ἔχων τὴν νύμφην νυμφίος ἐστίν· ὁ δὲ φίλος τοῦ νυμφίου ὁ ἑστηκὼς καὶ ἀκούων αὐτοῦ, χαρᾷ χαίρει διὰ τὴν φωνὴν τοῦ νυμφίου. αὕτη οὖν ἡ χαρὰ ἡ ἐμὴ πεπλήρωται. 
+[El que tiene la novia es el novio, pero el amigo del novio, que está allí y le oye, se alegra en gran manera con la voz del novio. Y por eso, este gozo mío se ha completado.]
+
+### Juan 3:30 {#juan-3-30}
+ἐκεῖνον δεῖ αὐξάνειν, ἐμὲ δὲ ἐλαττοῦσθαι. 
+[Es necesario que Él crezca, y que yo disminuya.]
+
+### Juan 3:31 {#juan-3-31}
+Ὁ ἄνωθεν ἐρχόμενος ἐπάνω πάντων ἐστίν. ὁ ὢν ἐκ τῆς γῆς ἐκ τῆς γῆς ἐστιν καὶ ἐκ τῆς γῆς λαλεῖ· ὁ ἐκ τοῦ οὐρανοῦ ἐρχόμενος ἐπάνω πάντων ἐστίν· 
+[»El que procede de arriba está por encima de todos; el que es de la tierra, procede de la tierra y de la tierra habla. El que procede del cielo está sobre todos.]
+
+### Juan 3:32 {#juan-3-32}
+⸀ὃ ἑώρακεν καὶ ἤκουσεν τοῦτο μαρτυρεῖ, καὶ τὴν μαρτυρίαν αὐτοῦ οὐδεὶς λαμβάνει. 
+[Lo que Él ha visto y oído, de eso da testimonio; y nadie recibe Su testimonio.]
+
+### Juan 3:33 {#juan-3-33}
+ὁ λαβὼν αὐτοῦ τὴν μαρτυρίαν ἐσφράγισεν ὅτι ὁ θεὸς ἀληθής ἐστιν. 
+[El que ha recibido Su testimonio ha certificado esto: que Dios es veraz.]
+
+### Juan 3:34 {#juan-3-34}
+ὃν γὰρ ἀπέστειλεν ὁ θεὸς τὰ ῥήματα τοῦ θεοῦ λαλεῖ, οὐ γὰρ ἐκ μέτρου ⸀δίδωσιν τὸ πνεῦμα. 
+[Porque Aquel a quien Dios ha enviado habla las palabras de Dios, pues Él da el Espíritu sin medida.]
+
+### Juan 3:35 {#juan-3-35}
+ὁ πατὴρ ἀγαπᾷ τὸν υἱόν, καὶ πάντα δέδωκεν ἐν τῇ χειρὶ αὐτοῦ. 
+[»El Padre ama al Hijo y ha entregado todas las cosas en Su mano.]
+
+### Juan 3:36 {#juan-3-36}
+ὁ πιστεύων εἰς τὸν υἱὸν ἔχει ζωὴν αἰώνιον· ὁ δὲ ἀπειθῶν τῷ υἱῷ οὐκ ὄψεται ζωήν, ἀλλʼ ἡ ὀργὴ τοῦ θεοῦ μένει ἐπʼ αὐτόν. 
+[El que cree en el Hijo tiene vida eterna; pero el que no obedece al Hijo no verá la vida, sino que la ira de Dios permanece sobre él».]
+
+### Juan 4:1 {#juan-4-1}
+Ὡς οὖν ἔγνω ὁ ⸀Ἰησοῦς ὅτι ἤκουσαν οἱ Φαρισαῖοι ὅτι Ἰησοῦς πλείονας μαθητὰς ποιεῖ καὶ βαπτίζει ἢ Ἰωάννης— 
+[Por tanto, cuando el Señor supo que los fariseos habían oído que Él hacía y bautizaba más discípulos que Juan]
+
+### Juan 4:2 {#juan-4-2}
+καίτοιγε Ἰησοῦς αὐτὸς οὐκ ἐβάπτιζεν ἀλλʼ οἱ μαθηταὶ αὐτοῦ— 
+[(aunque Jesús mismo no bautizaba, sino Sus discípulos),]
+
+### Juan 4:3 {#juan-4-3}
+ἀφῆκεν τὴν Ἰουδαίαν καὶ ἀπῆλθεν ⸀πάλιν εἰς τὴν Γαλιλαίαν. 
+[salió de Judea y se fue otra vez para Galilea.]
+
+### Juan 4:4 {#juan-4-4}
+ἔδει δὲ αὐτὸν διέρχεσθαι διὰ τῆς Σαμαρείας. 
+[Y Él tenía que pasar por Samaria.]
+
+### Juan 4:5 {#juan-4-5}
+ἔρχεται οὖν εἰς πόλιν τῆς Σαμαρείας λεγομένην Συχὰρ πλησίον τοῦ χωρίου ὃ ἔδωκεν Ἰακὼβ ⸀τῷ Ἰωσὴφ τῷ υἱῷ αὐτοῦ· 
+[Llegó*, pues, a una ciudad de Samaria llamada Sicar, cerca de la parcela de tierra que Jacob dio a su hijo José;]
+
+### Juan 4:6 {#juan-4-6}
+ἦν δὲ ἐκεῖ πηγὴ τοῦ Ἰακώβ. ὁ οὖν Ἰησοῦς κεκοπιακὼς ἐκ τῆς ὁδοιπορίας ἐκαθέζετο οὕτως ἐπὶ τῇ πηγῇ· ὥρα ἦν ⸀ὡς ἕκτη. 
+[y allí estaba el pozo de Jacob. Entonces Jesús, cansado del camino, se sentó junto al pozo. Era cerca del mediodía.]
+
+### Juan 4:7 {#juan-4-7}
+Ἔρχεται γυνὴ ἐκ τῆς Σαμαρείας ἀντλῆσαι ὕδωρ. λέγει αὐτῇ ὁ Ἰησοῦς· Δός μοι πεῖν· 
+[Una mujer de Samaria vino* a sacar agua, y Jesús le dijo*: «Dame de beber».]
+
+### Juan 4:8 {#juan-4-8}
+οἱ γὰρ μαθηταὶ αὐτοῦ ἀπεληλύθεισαν εἰς τὴν πόλιν, ἵνα τροφὰς ἀγοράσωσιν. 
+[Pues Sus discípulos habían ido a la ciudad a comprar alimentos.]
+
+### Juan 4:9 {#juan-4-9}
+λέγει οὖν αὐτῷ ἡ γυνὴ ἡ Σαμαρῖτις· Πῶς σὺ Ἰουδαῖος ὢν παρʼ ἐμοῦ πεῖν αἰτεῖς ⸂γυναικὸς Σαμαρίτιδος οὔσης⸃; οὐ γὰρ συγχρῶνται Ἰουδαῖοι Σαμαρίταις. 
+[Entonces la mujer samaritana le dijo*: «¿Cómo es que Tú, siendo judío, me pides de beber a mí, que soy samaritana?». (Porque los judíos no tienen tratos con los samaritanos).]
+
+### Juan 4:10 {#juan-4-10}
+ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτῇ· Εἰ ᾔδεις τὴν δωρεὰν τοῦ θεοῦ καὶ τίς ἐστιν ὁ λέγων σοι· Δός μοι πεῖν, σὺ ἂν ᾔτησας αὐτὸν καὶ ἔδωκεν ἄν σοι ὕδωρ ζῶν. 
+[Jesús le respondió: «Si tú conocieras el don de Dios, y quién es el que te dice: “Dame de beber”, tú le habrías pedido a Él, y Él te hubiera dado agua viva».]
+
+### Juan 4:11 {#juan-4-11}
+λέγει αὐτῷ ⸂ἡ γυνή⸃· Κύριε, οὔτε ἄντλημα ἔχεις καὶ τὸ φρέαρ ἐστὶν βαθύ· πόθεν οὖν ἔχεις τὸ ὕδωρ τὸ ζῶν; 
+[Ella le dijo*: «Señor, no tienes con qué sacarla, y el pozo es hondo; ¿de dónde, pues, tienes esa agua viva?]
+
+### Juan 4:12 {#juan-4-12}
+μὴ σὺ μείζων εἶ τοῦ πατρὸς ἡμῶν Ἰακώβ, ὃς ἔδωκεν ἡμῖν τὸ φρέαρ καὶ αὐτὸς ἐξ αὐτοῦ ἔπιεν καὶ οἱ υἱοὶ αὐτοῦ καὶ τὰ θρέμματα αὐτοῦ; 
+[¿Acaso eres Tú mayor que nuestro padre Jacob, que nos dio el pozo del cual bebió él mismo, y sus hijos, y sus ganados?».]
+
+### Juan 4:13 {#juan-4-13}
+ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτῇ· Πᾶς ὁ πίνων ἐκ τοῦ ὕδατος τούτου διψήσει πάλιν· 
+[Jesús le respondió: «Todo el que beba de esta agua volverá a tener sed,]
+
+### Juan 4:14 {#juan-4-14}
+ὃς δʼ ἂν πίῃ ἐκ τοῦ ὕδατος οὗ ἐγὼ δώσω αὐτῷ, οὐ μὴ ⸀διψήσει εἰς τὸν αἰῶνα, ἀλλὰ τὸ ὕδωρ ὃ δώσω αὐτῷ γενήσεται ἐν αὐτῷ πηγὴ ὕδατος ἁλλομένου εἰς ζωὴν αἰώνιον. 
+[pero el que beba del agua que Yo le daré, no tendrá sed jamás, sino que el agua que Yo le daré se convertirá en él en una fuente de agua que brota para vida eterna».]
+
+### Juan 4:15 {#juan-4-15}
+λέγει πρὸς αὐτὸν ἡ γυνή· Κύριε, δός μοι τοῦτο τὸ ὕδωρ, ἵνα μὴ διψῶ μηδὲ ⸀διέρχωμαι ἐνθάδε ἀντλεῖν. 
+[«Señor», le dijo* la mujer, «dame esa agua, para que no tenga sed ni venga hasta aquí a sacarla».]
+
+### Juan 4:16 {#juan-4-16}
+Λέγει ⸀αὐτῇ· Ὕπαγε φώνησον ⸂τὸν ἄνδρα σου⸃ καὶ ἐλθὲ ἐνθάδε. 
+[Jesús le dijo*: «Ve, llama a tu marido y ven acá».]
+
+### Juan 4:17 {#juan-4-17}
+ἀπεκρίθη ἡ γυνὴ καὶ εἶπεν ⸀αὐτῷ· Οὐκ ἔχω ἄνδρα. λέγει αὐτῇ ὁ Ἰησοῦς· Καλῶς εἶπας ὅτι Ἄνδρα οὐκ ἔχω· 
+[«No tengo marido», respondió la mujer. Jesús le dijo*: «Bien has dicho: “No tengo marido”,]
+
+### Juan 4:18 {#juan-4-18}
+πέντε γὰρ ἄνδρας ἔσχες, καὶ νῦν ὃν ἔχεις οὐκ ἔστιν σου ἀνήρ· τοῦτο ἀληθὲς εἴρηκας. 
+[porque cinco maridos has tenido, y el que ahora tienes no es tu marido; en eso has dicho la verdad».]
+
+### Juan 4:19 {#juan-4-19}
+λέγει αὐτῷ ἡ γυνή· Κύριε, θεωρῶ ὅτι προφήτης εἶ σύ. 
+[La mujer le dijo*: «Señor, me parece que Tú eres profeta.]
+
+### Juan 4:20 {#juan-4-20}
+οἱ πατέρες ἡμῶν ἐν τῷ ὄρει τούτῳ προσεκύνησαν· καὶ ὑμεῖς λέγετε ὅτι ἐν Ἱεροσολύμοις ἐστὶν ὁ τόπος ὅπου ⸂προσκυνεῖν δεῖ⸃. 
+[Nuestros padres adoraron en este monte, y ustedes dicen que en Jerusalén está el lugar donde se debe adorar».]
+
+### Juan 4:21 {#juan-4-21}
+λέγει αὐτῇ ὁ Ἰησοῦς· ⸂Πίστευέ μοι, γύναι⸃, ὅτι ἔρχεται ὥρα ὅτε οὔτε ἐν τῷ ὄρει τούτῳ οὔτε ἐν Ἱεροσολύμοις προσκυνήσετε τῷ πατρί. 
+[Jesús le dijo*: «Mujer, cree lo que te digo: la hora viene cuando ni en este monte ni en Jerusalén adorarán ustedes al Padre.]
+
+### Juan 4:22 {#juan-4-22}
+ὑμεῖς προσκυνεῖτε ὃ οὐκ οἴδατε, ἡμεῖς προσκυνοῦμεν ὃ οἴδαμεν, ὅτι ἡ σωτηρία ἐκ τῶν Ἰουδαίων ἐστίν· 
+[Ustedes adoran lo que no conocen; nosotros adoramos lo que conocemos, porque la salvación viene de los judíos.]
+
+### Juan 4:23 {#juan-4-23}
+ἀλλὰ ἔρχεται ὥρα καὶ νῦν ἐστιν, ὅτε οἱ ἀληθινοὶ προσκυνηταὶ προσκυνήσουσιν τῷ πατρὶ ἐν πνεύματι καὶ ἀληθείᾳ, καὶ γὰρ ὁ πατὴρ τοιούτους ζητεῖ τοὺς προσκυνοῦντας αὐτόν· 
+[Pero la hora viene, y ahora es, cuando los verdaderos adoradores adorarán al Padre en espíritu y en verdad; porque ciertamente a los tales el Padre busca que lo adoren.]
+
+### Juan 4:24 {#juan-4-24}
+πνεῦμα ὁ θεός, καὶ τοὺς προσκυνοῦντας αὐτὸν ἐν πνεύματι καὶ ἀληθείᾳ δεῖ προσκυνεῖν. 
+[Dios es espíritu, y los que lo adoran deben adorar en espíritu y en verdad».]
+
+### Juan 4:25 {#juan-4-25}
+λέγει αὐτῷ ἡ γυνή· Οἶδα ὅτι Μεσσίας ἔρχεται, ὁ λεγόμενος χριστός· ὅταν ἔλθῃ ἐκεῖνος, ἀναγγελεῖ ἡμῖν ⸀ἅπαντα. 
+[La mujer le dijo*: «Sé que el Mesías viene (el que es llamado Cristo); cuando Él venga nos declarará todo».]
+
+### Juan 4:26 {#juan-4-26}
+λέγει αὐτῇ ὁ Ἰησοῦς· Ἐγώ εἰμι, ὁ λαλῶν σοι. 
+[Jesús le dijo*: «Yo soy, el que habla contigo».]
+
+### Juan 4:27 {#juan-4-27}
+Καὶ ἐπὶ τούτῳ ἦλθαν οἱ μαθηταὶ αὐτοῦ, καὶ ⸀ἐθαύμαζον ὅτι μετὰ γυναικὸς ἐλάλει· οὐδεὶς μέντοι εἶπεν· Τί ζητεῖς; ἢ τί λαλεῖς μετʼ αὐτῆς; 
+[En esto llegaron Sus discípulos y se admiraron de que hablara con una mujer, pero ninguno le preguntó: «¿Qué tratas de averiguar?» o: «¿Por qué hablas con ella?».]
+
+### Juan 4:28 {#juan-4-28}
+ἀφῆκεν οὖν τὴν ὑδρίαν αὐτῆς ἡ γυνὴ καὶ ἀπῆλθεν εἰς τὴν πόλιν καὶ λέγει τοῖς ἀνθρώποις· 
+[Entonces la mujer dejó su cántaro, fue a la ciudad y dijo* a los hombres:]
+
+### Juan 4:29 {#juan-4-29}
+Δεῦτε ἴδετε ἄνθρωπον ὃς εἶπέ μοι πάντα ⸀ὅσα ἐποίησα· μήτι οὗτός ἐστιν ὁ χριστός; 
+[«Vengan, vean a un hombre que me ha dicho todo lo que yo he hecho. ¿No será este el Cristo?».]
+
+### Juan 4:30 {#juan-4-30}
+ἐξῆλθον ἐκ τῆς πόλεως καὶ ἤρχοντο πρὸς αὐτόν. 
+[Y salieron de la ciudad y fueron adonde Él estaba.]
+
+### Juan 4:31 {#juan-4-31}
+⸀Ἐν τῷ μεταξὺ ἠρώτων αὐτὸν οἱ μαθηταὶ λέγοντες· Ῥαββί, φάγε. 
+[Mientras tanto, los discípulos le rogaban: «Rabí, come».]
+
+### Juan 4:32 {#juan-4-32}
+ὁ δὲ εἶπεν αὐτοῖς· Ἐγὼ βρῶσιν ἔχω φαγεῖν ἣν ὑμεῖς οὐκ οἴδατε. 
+[Pero Él les dijo: «Yo tengo para comer una comida que ustedes no saben».]
+
+### Juan 4:33 {#juan-4-33}
+ἔλεγον οὖν οἱ μαθηταὶ πρὸς ἀλλήλους· Μή τις ἤνεγκεν αὐτῷ φαγεῖν; 
+[Entonces los discípulos se decían entre sí: «¿Le habrá traído alguien de comer?».]
+
+### Juan 4:34 {#juan-4-34}
+λέγει αὐτοῖς ὁ Ἰησοῦς· Ἐμὸν βρῶμά ἐστιν ἵνα ⸀ποιήσω τὸ θέλημα τοῦ πέμψαντός με καὶ τελειώσω αὐτοῦ τὸ ἔργον. 
+[Jesús les dijo*: «Mi comida es hacer la voluntad del que me envió y llevar a cabo Su obra.]
+
+### Juan 4:35 {#juan-4-35}
+οὐχ ὑμεῖς λέγετε ὅτι Ἔτι τετράμηνός ἐστιν καὶ ὁ θερισμὸς ἔρχεται; ἰδοὺ λέγω ὑμῖν, ἐπάρατε τοὺς ὀφθαλμοὺς ὑμῶν καὶ θεάσασθε τὰς χώρας ὅτι λευκαί εἰσιν πρὸς θερισμόν· ἤδη 
+[¿No dicen ustedes: “Todavía faltan cuatro meses, y después viene la siega”? Pero Yo les digo: alcen sus ojos y vean los campos que ya están blancos para la siega.]
+
+### Juan 4:36 {#juan-4-36}
+⸀ὁ θερίζων μισθὸν λαμβάνει καὶ συνάγει καρπὸν εἰς ζωὴν αἰώνιον, ⸀ἵνα ὁ σπείρων ὁμοῦ χαίρῃ καὶ ὁ θερίζων. 
+[Ya el segador recibe salario y recoge fruto para vida eterna, para que el que siembra se regocije junto con el que siega.]
+
+### Juan 4:37 {#juan-4-37}
+ἐν γὰρ τούτῳ ὁ λόγος ⸀ἐστὶν ἀληθινὸς ὅτι Ἄλλος ἐστὶν ὁ σπείρων καὶ ἄλλος ὁ θερίζων· 
+[Porque en este caso el dicho es verdadero: “Uno es el que siembra y otro el que siega”.]
+
+### Juan 4:38 {#juan-4-38}
+ἐγὼ ἀπέστειλα ὑμᾶς θερίζειν ὃ οὐχ ὑμεῖς κεκοπιάκατε· ἄλλοι κεκοπιάκασιν, καὶ ὑμεῖς εἰς τὸν κόπον αὐτῶν εἰσεληλύθατε. 
+[Yo los envié a ustedes a segar lo que no han trabajado; otros han trabajado y ustedes han entrado en su labor».]
+
+### Juan 4:39 {#juan-4-39}
+Ἐκ δὲ τῆς πόλεως ἐκείνης πολλοὶ ἐπίστευσαν εἰς αὐτὸν τῶν Σαμαριτῶν διὰ τὸν λόγον τῆς γυναικὸς μαρτυρούσης ὅτι Εἶπέν μοι πάντα ⸀ἃ ἐποίησα. 
+[Y de aquella ciudad, muchos de los samaritanos creyeron en Él por la palabra de la mujer que daba testimonio, diciendo: «Él me dijo todo lo que yo he hecho».]
+
+### Juan 4:40 {#juan-4-40}
+ὡς οὖν ἦλθον πρὸς αὐτὸν οἱ Σαμαρῖται, ἠρώτων αὐτὸν μεῖναι παρʼ αὐτοῖς· καὶ ἔμεινεν ἐκεῖ δύο ἡμέρας. 
+[De modo que cuando los samaritanos vinieron, rogaban a Jesús que se quedara con ellos; y Él se quedó allí dos días.]
+
+### Juan 4:41 {#juan-4-41}
+καὶ πολλῷ πλείους ἐπίστευσαν διὰ τὸν λόγον αὐτοῦ, 
+[Muchos más creyeron por Su palabra,]
+
+### Juan 4:42 {#juan-4-42}
+τῇ τε γυναικὶ ἔλεγον ὅτι Οὐκέτι διὰ τὴν σὴν λαλιὰν πιστεύομεν· αὐτοὶ γὰρ ἀκηκόαμεν, καὶ οἴδαμεν ὅτι οὗτός ἐστιν ἀληθῶς ὁ σωτὴρ τοῦ ⸀κόσμου. 
+[y decían a la mujer: «Ya no creemos por lo que tú has dicho, porque nosotros mismos le hemos oído, y sabemos que Este es en verdad el Salvador del mundo».]
+
+### Juan 4:43 {#juan-4-43}
+Μετὰ δὲ τὰς δύο ἡμέρας ἐξῆλθεν ⸀ἐκεῖθεν εἰς τὴν Γαλιλαίαν· 
+[Después de los dos días, Jesús salió de allí para Galilea.]
+
+### Juan 4:44 {#juan-4-44}
+αὐτὸς ⸀γὰρ Ἰησοῦς ἐμαρτύρησεν ὅτι προφήτης ἐν τῇ ἰδίᾳ πατρίδι τιμὴν οὐκ ἔχει. 
+[Porque Jesús mismo dio testimonio de que a un profeta no se le honra en su propia tierra.]
+
+### Juan 4:45 {#juan-4-45}
+ὅτε οὖν ἦλθεν εἰς τὴν Γαλιλαίαν, ἐδέξαντο αὐτὸν οἱ Γαλιλαῖοι, πάντα ἑωρακότες ⸀ὅσα ἐποίησεν ἐν Ἱεροσολύμοις ἐν τῇ ἑορτῇ, καὶ αὐτοὶ γὰρ ἦλθον εἰς τὴν ἑορτήν. 
+[Así que cuando llegó a Galilea, los galileos lo recibieron, pues habían visto todo lo que Él hizo en Jerusalén durante la fiesta; porque ellos también habían ido a la fiesta.]
+
+### Juan 4:46 {#juan-4-46}
+Ἦλθεν οὖν ⸀πάλιν εἰς τὴν Κανὰ τῆς Γαλιλαίας, ὅπου ἐποίησεν τὸ ὕδωρ οἶνον. καὶ ἦν τις βασιλικὸς οὗ ὁ υἱὸς ἠσθένει ἐν Καφαρναούμ. 
+[Entonces vino otra vez Jesús a Caná de Galilea, donde había convertido el agua en vino. Y había allí cierto oficial del rey cuyo hijo estaba enfermo en Capernaúm.]
+
+### Juan 4:47 {#juan-4-47}
+οὗτος ἀκούσας ὅτι Ἰησοῦς ἥκει ἐκ τῆς Ἰουδαίας εἰς τὴν Γαλιλαίαν ἀπῆλθεν πρὸς αὐτὸν καὶ ⸀ἠρώτα ἵνα καταβῇ καὶ ἰάσηται αὐτοῦ τὸν υἱόν, ἤμελλεν γὰρ ἀποθνῄσκειν. 
+[Cuando él oyó que Jesús había venido de Judea a Galilea, fue a Su encuentro y le suplicaba que bajara y sanara a su hijo, porque estaba al borde de la muerte.]
+
+### Juan 4:48 {#juan-4-48}
+εἶπεν οὖν ὁ Ἰησοῦς πρὸς αὐτόν· Ἐὰν μὴ σημεῖα καὶ τέρατα ἴδητε, οὐ μὴ πιστεύσητε. 
+[Jesús entonces le dijo: «Si ustedes no ven señales y prodigios, no creerán».]
+
+### Juan 4:49 {#juan-4-49}
+λέγει πρὸς αὐτὸν ὁ βασιλικός· Κύριε, κατάβηθι πρὶν ἀποθανεῖν τὸ παιδίον μου. 
+[El oficial del rey le dijo*: «Señor, baja antes de que mi hijo muera».]
+
+### Juan 4:50 {#juan-4-50}
+λέγει αὐτῷ ὁ Ἰησοῦς· Πορεύου· ὁ υἱός σου ζῇ. ⸀ἐπίστευσεν ὁ ἄνθρωπος τῷ λόγῳ ⸀ὃν εἶπεν αὐτῷ ὁ Ἰησοῦς καὶ ἐπορεύετο. 
+[«Puedes irte, tu hijo vive», le dijo* Jesús. Y el hombre creyó la palabra que Jesús le dijo, y se fue.]
+
+### Juan 4:51 {#juan-4-51}
+ἤδη δὲ αὐτοῦ καταβαίνοντος οἱ δοῦλοι αὐτοῦ ⸀ὑπήντησαν ⸀αὐτῷ λέγοντες ὅτι ὁ παῖς ⸀αὐτοῦ ζῇ. 
+[Y mientras bajaba a su casa, sus siervos le salieron al encuentro y le dijeron que su hijo vivía.]
+
+### Juan 4:52 {#juan-4-52}
+ἐπύθετο οὖν ⸂τὴν ὥραν παρʼ αὐτῶν⸃ ἐν ᾗ κομψότερον ἔσχεν· ⸂εἶπαν οὖν⸃ αὐτῷ ὅτι ⸀Ἐχθὲς ὥραν ἑβδόμην ἀφῆκεν αὐτὸν ὁ πυρετός. 
+[Entonces les preguntó a qué hora había empezado a mejorar. Y le respondieron: «Ayer a la una de la tarde se le quitó la fiebre».]
+
+### Juan 4:53 {#juan-4-53}
+ἔγνω οὖν ὁ πατὴρ ⸀ὅτι ἐκείνῃ τῇ ὥρᾳ ἐν ᾗ εἶπεν αὐτῷ ὁ ⸀Ἰησοῦς· Ὁ υἱός σου ζῇ, καὶ ἐπίστευσεν αὐτὸς καὶ ἡ οἰκία αὐτοῦ ὅλη. 
+[El padre entonces se dio cuenta que fue a la hora en que Jesús le dijo: «Tu hijo vive». Y creyó él con toda su casa.]
+
+### Juan 4:54 {#juan-4-54}
+τοῦτο ⸀δὲ πάλιν δεύτερον σημεῖον ἐποίησεν ὁ Ἰησοῦς ἐλθὼν ἐκ τῆς Ἰουδαίας εἰς τὴν Γαλιλαίαν. 
+[Esta fue la segunda señal que Jesús hizo cuando fue de Judea a Galilea.]
+
+### Juan 5:1 {#juan-5-1}
+Μετὰ ταῦτα ⸀ἦν ἑορτὴ τῶν Ἰουδαίων, καὶ ⸀ἀνέβη Ἰησοῦς εἰς Ἱεροσόλυμα. 
+[Después de esto, se celebraba una fiesta de los judíos, y Jesús subió a Jerusalén.]
+
+### Juan 5:2 {#juan-5-2}
+ἔστιν δὲ ἐν τοῖς Ἱεροσολύμοις ἐπὶ τῇ προβατικῇ κολυμβήθρα ἡ ἐπιλεγομένη Ἑβραϊστὶ ⸀Βηθεσδά, πέντε στοὰς ἔχουσα· 
+[Hay en Jerusalén, junto a la puerta de las Ovejas, un estanque que en hebreo se llama Betesda que tiene cinco pórticos.]
+
+### Juan 5:3 {#juan-5-3}
+ἐν ταύταις κατέκειτο ⸀πλῆθος τῶν ἀσθενούντων, τυφλῶν, χωλῶν, ⸀ξηρῶν. 
+[En estos estaba en el suelo una multitud de enfermos, ciegos, cojos y paralíticos que esperaban el movimiento del agua;]
+
+### Juan 5:5 {#juan-5-5}
+ἦν δέ τις ἄνθρωπος ἐκεῖ ⸀τριάκοντα ὀκτὼ ἔτη ἔχων ἐν τῇ ἀσθενείᾳ ⸀αὐτοῦ· 
+[Estaba allí un hombre que hacía treinta y ocho años que estaba enfermo.]
+
+### Juan 5:6 {#juan-5-6}
+τοῦτον ἰδὼν ὁ Ἰησοῦς κατακείμενον, καὶ γνοὺς ὅτι πολὺν ἤδη χρόνον ἔχει, λέγει αὐτῷ· Θέλεις ὑγιὴς γενέσθαι; 
+[Cuando Jesús lo vio acostado allí y supo que ya llevaba mucho tiempo en aquella condición, le dijo*: «¿Quieres ser sano?».]
+
+### Juan 5:7 {#juan-5-7}
+ἀπεκρίθη αὐτῷ ὁ ἀσθενῶν· Κύριε, ἄνθρωπον οὐκ ἔχω ἵνα ὅταν ταραχθῇ τὸ ὕδωρ βάλῃ με εἰς τὴν κολυμβήθραν· ἐν ᾧ δὲ ἔρχομαι ἐγὼ ἄλλος πρὸ ἐμοῦ καταβαίνει. 
+[El enfermo le respondió: «Señor, no tengo a nadie que me meta en el estanque cuando el agua es agitada; y mientras yo llego, otro baja antes que yo».]
+
+### Juan 5:8 {#juan-5-8}
+λέγει αὐτῷ ὁ Ἰησοῦς· ⸀Ἔγειρε ἆρον τὸν κράβαττόν σου καὶ περιπάτει. 
+[Jesús le dijo*: «Levántate, toma tu camilla y anda».]
+
+### Juan 5:9 {#juan-5-9}
+καὶ εὐθέως ἐγένετο ὑγιὴς ὁ ἄνθρωπος καὶ ἦρε τὸν κράβαττον αὐτοῦ καὶ περιεπάτει. Ἦν δὲ σάββατον ἐν ἐκείνῃ τῇ ἡμέρᾳ. 
+[Al instante el hombre quedó sano, y tomó su camilla y comenzó a andar. Pero aquel día era día de reposo.]
+
+### Juan 5:10 {#juan-5-10}
+ἔλεγον οὖν οἱ Ἰουδαῖοι τῷ τεθεραπευμένῳ· Σάββατόν ἐστιν, ⸀καὶ οὐκ ἔξεστίν σοι ἆραι τὸν ⸀κράβαττον. 
+[Por eso los judíos decían al que había sido sanado: «Es día de reposo, y no te es permitido cargar tu camilla».]
+
+### Juan 5:11 {#juan-5-11}
+⸂ὃς δὲ⸃ ἀπεκρίθη αὐτοῖς· Ὁ ποιήσας με ὑγιῆ ἐκεῖνός μοι εἶπεν Ἆρον τὸν κράβαττόν σου καὶ περιπάτει. 
+[Pero él les respondió: «El mismo que me sanó, me dijo: “Toma tu camilla y anda”».]
+
+### Juan 5:12 {#juan-5-12}
+ἠρώτησαν ⸀οὖν αὐτόν· Τίς ἐστιν ὁ ἄνθρωπος ὁ εἰπών σοι· ⸀Ἆρον καὶ περιπάτει; 
+[Le preguntaron: «¿Quién es el hombre que te dijo: “Toma tu camilla y anda”?».]
+
+### Juan 5:13 {#juan-5-13}
+ὁ δὲ ἰαθεὶς οὐκ ᾔδει τίς ἐστιν, ὁ γὰρ Ἰησοῦς ἐξένευσεν ὄχλου ὄντος ἐν τῷ τόπῳ. 
+[Pero el que había sido sanado no sabía quién era, porque Jesús, sin que se dieran cuenta, se había apartado de la multitud que estaba en aquel lugar.]
+
+### Juan 5:14 {#juan-5-14}
+μετὰ ταῦτα εὑρίσκει αὐτὸν ὁ Ἰησοῦς ἐν τῷ ἱερῷ καὶ εἶπεν αὐτῷ· Ἴδε ὑγιὴς γέγονας· μηκέτι ἁμάρτανε, ἵνα μὴ χεῖρόν ⸂σοί τι⸃ γένηται. 
+[Después de esto Jesús lo halló* en el templo y le dijo: «Mira, has sido sanado; no peques más, para que no te suceda algo peor».]
+
+### Juan 5:15 {#juan-5-15}
+ἀπῆλθεν ὁ ἄνθρωπος καὶ ⸀ἀνήγγειλεν τοῖς Ἰουδαίοις ὅτι Ἰησοῦς ἐστιν ὁ ποιήσας αὐτὸν ὑγιῆ. 
+[El hombre se fue, y dijo a los judíos que Jesús era el que lo había sanado.]
+
+### Juan 5:16 {#juan-5-16}
+καὶ διὰ τοῦτο ἐδίωκον ⸂οἱ Ἰουδαῖοι τὸν Ἰησοῦν⸃ ὅτι ταῦτα ἐποίει ἐν σαββάτῳ. 
+[A causa de esto los judíos perseguían a Jesús, porque hacía estas cosas en el día de reposo.]
+
+### Juan 5:17 {#juan-5-17}
+ὁ ⸀δὲ ἀπεκρίνατο αὐτοῖς· Ὁ πατήρ μου ἕως ἄρτι ἐργάζεται κἀγὼ ἐργάζομαι. 
+[Pero Jesús les respondió: «Hasta ahora Mi Padre trabaja, y Yo también trabajo».]
+
+### Juan 5:18 {#juan-5-18}
+διὰ τοῦτο οὖν μᾶλλον ἐζήτουν αὐτὸν οἱ Ἰουδαῖοι ἀποκτεῖναι ὅτι οὐ μόνον ἔλυε τὸ σάββατον, ἀλλὰ καὶ πατέρα ἴδιον ἔλεγε τὸν θεόν, ἴσον ἑαυτὸν ποιῶν τῷ θεῷ. 
+[Entonces, por esta causa, los judíos aún más procuraban matar a Jesús, porque no solo violaba el día de reposo, sino que también llamaba a Dios Su propio Padre, haciéndose igual a Dios.]
+
+### Juan 5:19 {#juan-5-19}
+Ἀπεκρίνατο οὖν ὁ Ἰησοῦς καὶ ⸀ἔλεγεν αὐτοῖς· Ἀμὴν ἀμὴν λέγω ὑμῖν, οὐ δύναται ὁ υἱὸς ποιεῖν ἀφʼ ἑαυτοῦ οὐδὲν ⸀ἐὰν μή τι βλέπῃ τὸν πατέρα ποιοῦντα· ἃ γὰρ ἂν ἐκεῖνος ποιῇ, ταῦτα καὶ ὁ υἱὸς ὁμοίως ποιεῖ. 
+[Por eso Jesús les decía: «En verdad les digo que el Hijo no puede hacer nada por su cuenta, sino lo que ve hacer al Padre; porque todo lo que hace el Padre, eso también hace el Hijo de igual manera.]
+
+### Juan 5:20 {#juan-5-20}
+ὁ γὰρ πατὴρ φιλεῖ τὸν υἱὸν καὶ πάντα δείκνυσιν αὐτῷ ἃ αὐτὸς ποιεῖ, καὶ μείζονα τούτων δείξει αὐτῷ ἔργα, ἵνα ὑμεῖς θαυμάζητε. 
+[Pues el Padre ama al Hijo, y le muestra todo lo que Él mismo hace; y obras mayores que estas le mostrará, para que ustedes se queden asombrados.]
+
+### Juan 5:21 {#juan-5-21}
+ὥσπερ γὰρ ὁ πατὴρ ἐγείρει τοὺς νεκροὺς καὶ ζῳοποιεῖ, οὕτως καὶ ὁ υἱὸς οὓς θέλει ζῳοποιεῖ. 
+[Porque así como el Padre levanta a los muertos y les da vida, asimismo el Hijo también da vida a los que Él quiere.]
+
+### Juan 5:22 {#juan-5-22}
+οὐδὲ γὰρ ὁ πατὴρ κρίνει οὐδένα, ἀλλὰ τὴν κρίσιν πᾶσαν δέδωκεν τῷ υἱῷ, 
+[Porque ni aun el Padre juzga a nadie, sino que todo juicio se lo ha confiado al Hijo,]
+
+### Juan 5:23 {#juan-5-23}
+ἵνα πάντες τιμῶσι τὸν υἱὸν καθὼς τιμῶσι τὸν πατέρα. ὁ μὴ τιμῶν τὸν υἱὸν οὐ τιμᾷ τὸν πατέρα τὸν πέμψαντα αὐτόν. 
+[para que todos honren al Hijo así como honran al Padre. El que no honra al Hijo, no honra al Padre que lo envió.]
+
+### Juan 5:24 {#juan-5-24}
+Ἀμὴν ἀμὴν λέγω ὑμῖν ὅτι ὁ τὸν λόγον μου ἀκούων καὶ πιστεύων τῷ πέμψαντί με ἔχει ζωὴν αἰώνιον, καὶ εἰς κρίσιν οὐκ ἔρχεται ἀλλὰ μεταβέβηκεν ἐκ τοῦ θανάτου εἰς τὴν ζωήν. 
+[En verdad les digo: el que oye Mi palabra y cree al que me envió, tiene vida eterna y no viene a condenación, sino que ha pasado de muerte a vida.]
+
+### Juan 5:25 {#juan-5-25}
+Ἀμὴν ἀμὴν λέγω ὑμῖν ὅτι ἔρχεται ὥρα καὶ νῦν ἐστιν ὅτε οἱ νεκροὶ ⸀ἀκούσουσιν τῆς φωνῆς τοῦ υἱοῦ τοῦ θεοῦ καὶ οἱ ἀκούσαντες ⸀ζήσουσιν. 
+[En verdad les digo que viene la hora, y ahora es, cuando los muertos oirán la voz del Hijo de Dios, y los que oigan vivirán.]
+
+### Juan 5:26 {#juan-5-26}
+ὥσπερ γὰρ ὁ πατὴρ ἔχει ζωὴν ἐν ἑαυτῷ, οὕτως ⸂καὶ τῷ υἱῷ ἔδωκεν⸃ ζωὴν ἔχειν ἐν ἑαυτῷ· 
+[Porque como el Padre tiene vida en Él mismo, así también le dio al Hijo el tener vida en Él mismo;]
+
+### Juan 5:27 {#juan-5-27}
+καὶ ἐξουσίαν ἔδωκεν ⸀αὐτῷ κρίσιν ποιεῖν, ὅτι υἱὸς ἀνθρώπου ἐστίν. 
+[y le dio autoridad para ejecutar juicio, porque Él es el Hijo del Hombre.]
+
+### Juan 5:28 {#juan-5-28}
+μὴ θαυμάζετε τοῦτο, ὅτι ἔρχεται ὥρα ἐν ᾗ πάντες οἱ ἐν τοῖς μνημείοις ⸀ἀκούσουσιν τῆς φωνῆς αὐτοῦ 
+[No se queden asombrados de esto, porque viene la hora en que todos los que están en los sepulcros oirán Su voz,]
+
+### Juan 5:29 {#juan-5-29}
+καὶ ἐκπορεύσονται οἱ τὰ ἀγαθὰ ποιήσαντες εἰς ἀνάστασιν ζωῆς, οἱ ⸀δὲ τὰ φαῦλα πράξαντες εἰς ἀνάστασιν κρίσεως. 
+[y saldrán: los que hicieron lo bueno, a resurrección de vida, y los que practicaron lo malo, a resurrección de juicio.]
+
+### Juan 5:30 {#juan-5-30}
+Οὐ δύναμαι ἐγὼ ποιεῖν ἀπʼ ἐμαυτοῦ οὐδέν· καθὼς ἀκούω κρίνω, καὶ ἡ κρίσις ἡ ἐμὴ δικαία ἐστίν, ὅτι οὐ ζητῶ τὸ θέλημα τὸ ἐμὸν ἀλλὰ τὸ θέλημα τοῦ πέμψαντός ⸀με. 
+[Yo no puedo hacer nada por iniciativa Mía; como oigo, juzgo, y Mi juicio es justo porque no busco Mi voluntad, sino la voluntad del que me envió.]
+
+### Juan 5:31 {#juan-5-31}
+Ἐὰν ἐγὼ μαρτυρῶ περὶ ἐμαυτοῦ, ἡ μαρτυρία μου οὐκ ἔστιν ἀληθής· 
+[Si Yo solo doy testimonio de Mí mismo, Mi testimonio no es verdadero.]
+
+### Juan 5:32 {#juan-5-32}
+ἄλλος ἐστὶν ὁ μαρτυρῶν περὶ ἐμοῦ, καὶ οἶδα ὅτι ἀληθής ἐστιν ἡ μαρτυρία ἣν μαρτυρεῖ περὶ ἐμοῦ. 
+[Otro es el que da testimonio de Mí, y Yo sé que el testimonio que da de Mí es verdadero.]
+
+### Juan 5:33 {#juan-5-33}
+ὑμεῖς ἀπεστάλκατε πρὸς Ἰωάννην, καὶ μεμαρτύρηκε τῇ ἀληθείᾳ· 
+[Ustedes han enviado a preguntar a Juan, y él ha dado testimonio de la verdad.]
+
+### Juan 5:34 {#juan-5-34}
+ἐγὼ δὲ οὐ παρὰ ἀνθρώπου τὴν μαρτυρίαν λαμβάνω, ἀλλὰ ταῦτα λέγω ἵνα ὑμεῖς σωθῆτε. 
+[Pero el testimonio que Yo recibo no es de hombre; pero digo esto para que ustedes sean salvos.]
+
+### Juan 5:35 {#juan-5-35}
+ἐκεῖνος ἦν ὁ λύχνος ὁ καιόμενος καὶ φαίνων, ὑμεῖς δὲ ἠθελήσατε ἀγαλλιαθῆναι πρὸς ὥραν ἐν τῷ φωτὶ αὐτοῦ· 
+[Él era la lámpara que ardía y alumbraba, y ustedes estaban dispuestos a regocijarse por un tiempo en su luz.]
+
+### Juan 5:36 {#juan-5-36}
+ἐγὼ δὲ ἔχω τὴν μαρτυρίαν ⸀μείζω τοῦ Ἰωάννου, τὰ γὰρ ἔργα ἃ ⸀δέδωκέν μοι ὁ πατὴρ ἵνα τελειώσω αὐτά, αὐτὰ τὰ ἔργα ⸀ἃ ποιῶ, μαρτυρεῖ περὶ ἐμοῦ ὅτι ὁ πατήρ με ἀπέσταλκεν, 
+[Pero el testimonio que Yo tengo es mayor que el de Juan; porque las obras que el Padre me ha dado para llevar a cabo, las mismas obras que Yo hago, dan testimonio de Mí, de que el Padre me ha enviado.]
+
+### Juan 5:37 {#juan-5-37}
+καὶ ὁ πέμψας με πατὴρ ⸀ἐκεῖνος μεμαρτύρηκεν περὶ ἐμοῦ. οὔτε φωνὴν αὐτοῦ ⸂πώποτε ἀκηκόατε⸃ οὔτε εἶδος αὐτοῦ ἑωράκατε, 
+[El Padre que me envió, Él ha dado testimonio de Mí. Pero ustedes no han oído jamás Su voz ni han visto Su apariencia.]
+
+### Juan 5:38 {#juan-5-38}
+καὶ τὸν λόγον αὐτοῦ οὐκ ἔχετε ⸂ἐν ὑμῖν μένοντα⸃, ὅτι ὃν ἀπέστειλεν ἐκεῖνος τούτῳ ὑμεῖς οὐ πιστεύετε. 
+[Y Su palabra no la tienen morando en ustedes, porque no creen en Aquel que Él envió.]
+
+### Juan 5:39 {#juan-5-39}
+Ἐραυνᾶτε τὰς γραφάς, ὅτι ὑμεῖς δοκεῖτε ἐν αὐταῖς ζωὴν αἰώνιον ἔχειν· καὶ ἐκεῖναί εἰσιν αἱ μαρτυροῦσαι περὶ ἐμοῦ· 
+[Ustedes examinan las Escrituras porque piensan tener en ellas la vida eterna. ¡Y son ellas las que dan testimonio de Mí!]
+
+### Juan 5:40 {#juan-5-40}
+καὶ οὐ θέλετε ἐλθεῖν πρός με ἵνα ζωὴν ἔχητε. 
+[Pero ustedes no quieren venir a Mí para que tengan esa vida.]
+
+### Juan 5:41 {#juan-5-41}
+δόξαν παρὰ ἀνθρώπων οὐ λαμβάνω, 
+[Yo no recibo gloria de los hombres;]
+
+### Juan 5:42 {#juan-5-42}
+ἀλλὰ ἔγνωκα ὑμᾶς ὅτι τὴν ἀγάπην τοῦ θεοῦ οὐκ ἔχετε ἐν ἑαυτοῖς. 
+[pero a ustedes ya los conozco, que no tienen el amor de Dios.]
+
+### Juan 5:43 {#juan-5-43}
+ἐγὼ ἐλήλυθα ἐν τῷ ὀνόματι τοῦ πατρός μου καὶ οὐ λαμβάνετέ με· ἐὰν ἄλλος ἔλθῃ ἐν τῷ ὀνόματι τῷ ἰδίῳ, ἐκεῖνον λήμψεσθε. 
+[Yo he venido en nombre de Mi Padre y ustedes no me reciben; si otro viene en su propio nombre, a ese recibirán.]
+
+### Juan 5:44 {#juan-5-44}
+πῶς δύνασθε ὑμεῖς πιστεῦσαι, δόξαν παρʼ ἀλλήλων λαμβάνοντες, καὶ τὴν δόξαν τὴν παρὰ τοῦ μόνου θεοῦ οὐ ζητεῖτε; 
+[¿Cómo pueden creer, cuando reciben gloria los unos de los otros, y no buscan la gloria que viene del Dios único?]
+
+### Juan 5:45 {#juan-5-45}
+μὴ δοκεῖτε ὅτι ἐγὼ κατηγορήσω ὑμῶν πρὸς τὸν πατέρα· ἔστιν ὁ κατηγορῶν ὑμῶν Μωϋσῆς, εἰς ὃν ὑμεῖς ἠλπίκατε. 
+[No piensen que Yo los acusaré delante del Padre; el que los acusa es Moisés, en quien ustedes han puesto su esperanza.]
+
+### Juan 5:46 {#juan-5-46}
+εἰ γὰρ ἐπιστεύετε Μωϋσεῖ, ἐπιστεύετε ἂν ἐμοί, περὶ γὰρ ἐμοῦ ἐκεῖνος ἔγραψεν. 
+[Porque si creyeran a Moisés, me creerían a Mí, porque de Mí escribió él.]
+
+### Juan 5:47 {#juan-5-47}
+εἰ δὲ τοῖς ἐκείνου γράμμασιν οὐ πιστεύετε, πῶς τοῖς ἐμοῖς ῥήμασιν πιστεύσετε; 
+[Pero si no creen sus escritos, ¿cómo creerán Mis palabras?».]
+
+### Juan 6:1 {#juan-6-1}
+Μετὰ ταῦτα ἀπῆλθεν ὁ Ἰησοῦς πέραν τῆς θαλάσσης τῆς Γαλιλαίας τῆς Τιβεριάδος. 
+[Después de esto, Jesús se fue al otro lado del mar de Galilea, el de Tiberias.]
+
+### Juan 6:2 {#juan-6-2}
+⸂ἠκολούθει δὲ⸃ αὐτῷ ὄχλος πολύς, ὅτι ⸀ἐθεώρουν τὰ σημεῖα ἃ ἐποίει ἐπὶ τῶν ἀσθενούντων. 
+[Y una gran multitud lo seguía, pues veían las señales que realizaba en los enfermos.]
+
+### Juan 6:3 {#juan-6-3}
+ἀνῆλθεν δὲ εἰς τὸ ⸀ὄρος Ἰησοῦς, καὶ ἐκεῖ ἐκάθητο μετὰ τῶν μαθητῶν αὐτοῦ. 
+[Entonces Jesús subió al monte y se sentó allí con Sus discípulos.]
+
+### Juan 6:4 {#juan-6-4}
+ἦν δὲ ἐγγὺς τὸ πάσχα, ἡ ἑορτὴ τῶν Ἰουδαίων. 
+[Estaba cerca la Pascua, la fiesta de los judíos.]
+
+### Juan 6:5 {#juan-6-5}
+ἐπάρας οὖν ⸂τοὺς ὀφθαλμοὺς ὁ Ἰησοῦς⸃ καὶ θεασάμενος ὅτι πολὺς ὄχλος ἔρχεται πρὸς αὐτὸν λέγει ⸀πρὸς Φίλιππον· Πόθεν ⸀ἀγοράσωμεν ἄρτους ἵνα φάγωσιν οὗτοι; 
+[Cuando Jesús alzó los ojos y vio que una gran multitud venía hacia Él, dijo* a Felipe: «¿Dónde compraremos pan para que coman estos?».]
+
+### Juan 6:6 {#juan-6-6}
+τοῦτο δὲ ἔλεγεν πειράζων αὐτόν, αὐτὸς γὰρ ᾔδει τί ἔμελλεν ποιεῖν. 
+[Pero decía esto para probarlo, porque Él sabía lo que iba a hacer.]
+
+### Juan 6:7 {#juan-6-7}
+ἀπεκρίθη ⸀αὐτῷ Φίλιππος· Διακοσίων δηναρίων ἄρτοι οὐκ ἀρκοῦσιν αὐτοῖς ἵνα ⸀ἕκαστος βραχύ ⸀τι λάβῃ. 
+[Felipe le respondió: «Doscientos denarios de pan no les bastarán para que cada uno reciba un pedazo».]
+
+### Juan 6:8 {#juan-6-8}
+λέγει αὐτῷ εἷς ἐκ τῶν μαθητῶν αὐτοῦ, Ἀνδρέας ὁ ἀδελφὸς Σίμωνος Πέτρου· 
+[Uno de Sus discípulos, Andrés, hermano de Simón Pedro, dijo* a Jesús:]
+
+### Juan 6:9 {#juan-6-9}
+Ἔστιν ⸀παιδάριον ὧδε ⸀ὃς ἔχει πέντε ἄρτους κριθίνους καὶ δύο ὀψάρια· ἀλλὰ ταῦτα τί ἐστιν εἰς τοσούτους; 
+[«Aquí hay un muchacho que tiene cinco panes de cebada y dos pescados; pero ¿qué es esto para tantos?».]
+
+### Juan 6:10 {#juan-6-10}
+⸀εἶπεν ὁ Ἰησοῦς· Ποιήσατε τοὺς ἀνθρώπους ἀναπεσεῖν. ἦν δὲ χόρτος πολὺς ἐν τῷ τόπῳ. ἀνέπεσαν οὖν οἱ ἄνδρες τὸν ἀριθμὸν ⸀ὡς πεντακισχίλιοι. 
+[«Hagan que la gente se siente», dijo Jesús. Y había mucha hierba en aquel lugar; así que se sentaron. El número de los hombres era de unos cinco mil.]
+
+### Juan 6:11 {#juan-6-11}
+ἔλαβεν ⸀οὖν τοὺς ἄρτους ὁ Ἰησοῦς καὶ εὐχαριστήσας ⸀διέδωκεν τοῖς ἀνακειμένοις, ὁμοίως καὶ ἐκ τῶν ὀψαρίων ὅσον ἤθελον. 
+[Entonces Jesús tomó los panes, y habiendo dado gracias, los repartió a los que estaban sentados; y lo mismo hizo con los pescados, dándoles todo lo que querían.]
+
+### Juan 6:12 {#juan-6-12}
+ὡς δὲ ἐνεπλήσθησαν λέγει τοῖς μαθηταῖς αὐτοῦ· Συναγάγετε τὰ περισσεύσαντα κλάσματα, ἵνα μή τι ἀπόληται. 
+[Cuando se saciaron, dijo* a Sus discípulos: «Recojan los pedazos que sobran, para que no se pierda nada».]
+
+### Juan 6:13 {#juan-6-13}
+συνήγαγον οὖν, καὶ ἐγέμισαν δώδεκα κοφίνους κλασμάτων ἐκ τῶν πέντε ἄρτων τῶν κριθίνων ἃ ⸀ἐπερίσσευσαν τοῖς βεβρωκόσιν. 
+[Ellos los recogieron, y llenaron doce cestas con los pedazos de los cinco panes de cebada que sobraron a los que habían comido.]
+
+### Juan 6:14 {#juan-6-14}
+οἱ οὖν ἄνθρωποι ἰδόντες ⸂ὃ ἐποίησεν σημεῖον⸃ ⸀ἔλεγον ὅτι Οὗτός ἐστιν ἀληθῶς ὁ προφήτης ὁ ἐρχόμενος εἰς τὸν κόσμον. 
+[La gente, entonces, al ver la señal que Jesús había hecho, decían: «Verdaderamente Este es el Profeta que había de venir al mundo».]
+
+### Juan 6:15 {#juan-6-15}
+Ἰησοῦς οὖν γνοὺς ὅτι μέλλουσιν ἔρχεσθαι καὶ ἁρπάζειν αὐτὸν ἵνα ⸀ποιήσωσιν βασιλέα ἀνεχώρησεν ⸀πάλιν εἰς τὸ ὄρος αὐτὸς μόνος. 
+[Por lo que Jesús, dándose cuenta de que iban a venir y por la fuerza hacerle rey, se retiró Él solo otra vez al monte.]
+
+### Juan 6:16 {#juan-6-16}
+Ὡς δὲ ὀψία ἐγένετο κατέβησαν οἱ μαθηταὶ αὐτοῦ ἐπὶ τὴν θάλασσαν, 
+[Al atardecer Sus discípulos bajaron hasta el mar,]
+
+### Juan 6:17 {#juan-6-17}
+καὶ ἐμβάντες ⸀εἰς πλοῖον ἤρχοντο πέραν τῆς θαλάσσης εἰς Καφαρναούμ. καὶ σκοτία ἤδη ἐγεγόνει καὶ ⸀οὔπω ἐληλύθει πρὸς αὐτοὺς ὁ Ἰησοῦς, 
+[y subiendo en una barca, se dirigieron al otro lado del mar, hacia Capernaúm. Ya había oscurecido, y Jesús todavía no había venido adonde ellos estaban;]
+
+### Juan 6:18 {#juan-6-18}
+ἥ τε θάλασσα ἀνέμου μεγάλου πνέοντος ⸀διεγείρετο. 
+[y el mar estaba agitado porque soplaba un fuerte viento.]
+
+### Juan 6:19 {#juan-6-19}
+ἐληλακότες οὖν ὡς σταδίους εἴκοσι πέντε ἢ τριάκοντα θεωροῦσιν τὸν Ἰησοῦν περιπατοῦντα ἐπὶ τῆς θαλάσσης καὶ ἐγγὺς τοῦ πλοίου γινόμενον, καὶ ἐφοβήθησαν. 
+[Cuando habían remado unos 25 o 30 estadios (cuatro o cinco kilómetros), vieron* a Jesús caminando sobre el mar y que se acercaba a la barca, y se asustaron.]
+
+### Juan 6:20 {#juan-6-20}
+ὁ δὲ λέγει αὐτοῖς· Ἐγώ εἰμι, μὴ φοβεῖσθε. 
+[Pero Él les dijo*: «Soy Yo; no teman».]
+
+### Juan 6:21 {#juan-6-21}
+ἤθελον οὖν λαβεῖν αὐτὸν εἰς τὸ πλοῖον, καὶ εὐθέως ⸂ἐγένετο τὸ πλοῖον⸃ ἐπὶ τῆς γῆς εἰς ἣν ὑπῆγον. 
+[Entonces ellos querían recibir a Jesús en la barca, pero la barca llegó enseguida a la tierra adonde iban.]
+
+### Juan 6:22 {#juan-6-22}
+Τῇ ἐπαύριον ὁ ὄχλος ὁ ἑστηκὼς πέραν τῆς θαλάσσης ⸀εἶδον ὅτι πλοιάριον ἄλλο οὐκ ἦν ἐκεῖ εἰ μὴ ⸀ἕν, καὶ ὅτι οὐ συνεισῆλθεν τοῖς μαθηταῖς αὐτοῦ ὁ Ἰησοῦς εἰς τὸ ⸀πλοῖον ἀλλὰ μόνοι οἱ μαθηταὶ αὐτοῦ ἀπῆλθον· 
+[Al día siguiente, la multitud que había quedado al otro lado del mar se dio cuenta de que allí no había más que una barca, y que Jesús no había entrado en ella con Sus discípulos, sino que Sus discípulos se habían ido solos.]
+
+### Juan 6:23 {#juan-6-23}
+⸀ἀλλὰ ἦλθεν ⸀πλοιάρια ἐκ Τιβεριάδος ἐγγὺς τοῦ τόπου ὅπου ἔφαγον τὸν ἄρτον εὐχαριστήσαντος τοῦ κυρίου. 
+[Vinieron otras barcas de Tiberias cerca del lugar donde habían comido el pan después de que el Señor había dado gracias.]
+
+### Juan 6:24 {#juan-6-24}
+ὅτε οὖν εἶδεν ὁ ὄχλος ὅτι Ἰησοῦς οὐκ ἔστιν ἐκεῖ οὐδὲ οἱ μαθηταὶ αὐτοῦ, ἐνέβησαν αὐτοὶ εἰς τὰ ⸀πλοιάρια καὶ ἦλθον εἰς Καφαρναοὺμ ζητοῦντες τὸν Ἰησοῦν. 
+[Por tanto, cuando la gente vio que Jesús no estaba allí, ni tampoco Sus discípulos, subieron a las barcas y se fueron a Capernaúm buscando a Jesús.]
+
+### Juan 6:25 {#juan-6-25}
+Καὶ εὑρόντες αὐτὸν πέραν τῆς θαλάσσης εἶπον αὐτῷ· Ῥαββί, πότε ὧδε γέγονας; 
+[Cuando lo hallaron al otro lado del mar, le dijeron: «Rabí, ¿cuándo llegaste acá?».]
+
+### Juan 6:26 {#juan-6-26}
+ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς καὶ εἶπεν· Ἀμὴν ἀμὴν λέγω ὑμῖν, ζητεῖτέ με οὐχ ὅτι εἴδετε σημεῖα ἀλλʼ ὅτι ἐφάγετε ἐκ τῶν ἄρτων καὶ ἐχορτάσθητε· 
+[Jesús les respondió: «En verdad les digo, que me buscan, no porque hayan visto señales, sino porque han comido de los panes y se han saciado.]
+
+### Juan 6:27 {#juan-6-27}
+ἐργάζεσθε μὴ τὴν βρῶσιν τὴν ἀπολλυμένην ἀλλὰ τὴν βρῶσιν τὴν μένουσαν εἰς ζωὴν αἰώνιον, ἣν ὁ υἱὸς τοῦ ἀνθρώπου ὑμῖν δώσει, τοῦτον γὰρ ὁ πατὴρ ἐσφράγισεν ὁ θεός. 
+[Trabajen, no por el alimento que perece, sino por el alimento que permanece para vida eterna, el cual el Hijo del Hombre les dará, porque a Él es a quien el Padre, Dios, ha marcado con Su sello».]
+
+### Juan 6:28 {#juan-6-28}
+εἶπον οὖν πρὸς αὐτόν· Τί ποιῶμεν ἵνα ἐργαζώμεθα τὰ ἔργα τοῦ θεοῦ; 
+[Entonces le preguntaron: «¿Qué debemos hacer para poner en práctica las obras de Dios?».]
+
+### Juan 6:29 {#juan-6-29}
+ἀπεκρίθη ⸀ὁ Ἰησοῦς καὶ εἶπεν αὐτοῖς· Τοῦτό ἐστιν τὸ ἔργον τοῦ θεοῦ ἵνα ⸀πιστεύητε εἰς ὃν ἀπέστειλεν ἐκεῖνος. 
+[Jesús les respondió: «Esta es la obra de Dios: que crean en el que Él ha enviado».]
+
+### Juan 6:30 {#juan-6-30}
+εἶπον οὖν αὐτῷ· Τί οὖν ποιεῖς σὺ σημεῖον, ἵνα ἴδωμεν καὶ πιστεύσωμέν σοι; τί ἐργάζῃ; 
+[Le dijeron entonces: «¿Qué, pues, haces Tú como señal para que veamos y te creamos? ¿Qué obra haces?]
+
+### Juan 6:31 {#juan-6-31}
+οἱ πατέρες ἡμῶν τὸ μάννα ἔφαγον ἐν τῇ ἐρήμῳ, καθώς ἐστιν γεγραμμένον· Ἄρτον ἐκ τοῦ οὐρανοῦ ἔδωκεν αὐτοῖς φαγεῖν. 
+[Nuestros padres comieron el maná en el desierto, como está escrito: “LES DIO A COMER PAN DEL CIELO”».]
+
+### Juan 6:32 {#juan-6-32}
+εἶπεν οὖν αὐτοῖς ὁ Ἰησοῦς· Ἀμὴν ἀμὴν λέγω ὑμῖν, οὐ Μωϋσῆς ⸀δέδωκεν ὑμῖν τὸν ἄρτον ἐκ τοῦ οὐρανοῦ, ἀλλʼ ὁ πατήρ μου δίδωσιν ὑμῖν τὸν ἄρτον ἐκ τοῦ οὐρανοῦ τὸν ἀληθινόν· 
+[Entonces Jesús les dijo: «En verdad les digo, que no es Moisés el que les ha dado el pan del cielo, sino que es Mi Padre el que les da el verdadero pan del cielo.]
+
+### Juan 6:33 {#juan-6-33}
+ὁ γὰρ ἄρτος τοῦ θεοῦ ἐστιν ὁ καταβαίνων ἐκ τοῦ οὐρανοῦ καὶ ζωὴν διδοὺς τῷ κόσμῳ. 
+[Porque el pan de Dios es el que baja del cielo, y da vida al mundo».]
+
+### Juan 6:34 {#juan-6-34}
+εἶπον οὖν πρὸς αὐτόν· Κύριε, πάντοτε δὸς ἡμῖν τὸν ἄρτον τοῦτον. 
+[«Señor, danos siempre este pan», le dijeron.]
+
+### Juan 6:35 {#juan-6-35}
+⸀Εἶπεν αὐτοῖς ὁ Ἰησοῦς· Ἐγώ εἰμι ὁ ἄρτος τῆς ζωῆς· ὁ ἐρχόμενος πρὸς ἐμὲ οὐ μὴ πεινάσῃ, καὶ ὁ πιστεύων εἰς ⸀ἐμὲ οὐ μὴ ⸀διψήσει πώποτε. 
+[Jesús les dijo: «Yo soy el pan de la vida; el que viene a Mí no tendrá hambre, y el que cree en Mí nunca tendrá sed.]
+
+### Juan 6:36 {#juan-6-36}
+ἀλλʼ εἶπον ὑμῖν ὅτι καὶ ἑωράκατέ με καὶ οὐ πιστεύετε. 
+[Pero ya les dije que aunque me han visto, no creen.]
+
+### Juan 6:37 {#juan-6-37}
+πᾶν ὃ δίδωσίν μοι ὁ πατὴρ πρὸς ἐμὲ ἥξει, καὶ τὸν ἐρχόμενον πρός ⸀με οὐ μὴ ἐκβάλω ἔξω, 
+[Todo lo que el Padre me da, vendrá a Mí; y al que viene a Mí, de ningún modo lo echaré fuera.]
+
+### Juan 6:38 {#juan-6-38}
+ὅτι καταβέβηκα ⸀ἀπὸ τοῦ οὐρανοῦ οὐχ ἵνα ποιῶ τὸ θέλημα τὸ ἐμὸν ἀλλὰ τὸ θέλημα τοῦ πέμψαντός με· 
+[Porque he descendido del cielo, no para hacer Mi voluntad, sino la voluntad del que me envió.]
+
+### Juan 6:39 {#juan-6-39}
+τοῦτο δέ ἐστιν τὸ θέλημα τοῦ πέμψαντός ⸀με ἵνα πᾶν ὃ δέδωκέν μοι μὴ ἀπολέσω ἐξ αὐτοῦ ἀλλὰ ἀναστήσω ⸀αὐτὸ τῇ ἐσχάτῃ ἡμέρᾳ. 
+[Y esta es la voluntad del que me envió: que de todo lo que Él me ha dado Yo no pierda nada, sino que lo resucite en el día final.]
+
+### Juan 6:40 {#juan-6-40}
+τοῦτο ⸀γάρ ἐστιν τὸ θέλημα τοῦ ⸂πατρός μου⸃ ἵνα πᾶς ὁ θεωρῶν τὸν υἱὸν καὶ πιστεύων εἰς αὐτὸν ἔχῃ ζωὴν αἰώνιον, καὶ ἀναστήσω αὐτὸν ⸀ἐγὼ τῇ ἐσχάτῃ ἡμέρᾳ. 
+[Porque esta es la voluntad de Mi Padre: que todo aquel que ve al Hijo y cree en Él, tenga vida eterna, y Yo mismo lo resucitaré en el día final».]
+
+### Juan 6:41 {#juan-6-41}
+Ἐγόγγυζον οὖν οἱ Ἰουδαῖοι περὶ αὐτοῦ ὅτι εἶπεν· Ἐγώ εἰμι ὁ ἄρτος ὁ καταβὰς ἐκ τοῦ οὐρανοῦ, 
+[Por eso los judíos murmuraban de Él, porque había dicho: «Yo soy el pan que descendió del cielo».]
+
+### Juan 6:42 {#juan-6-42}
+καὶ ἔλεγον· ⸀Οὐχ οὗτός ἐστιν Ἰησοῦς ὁ υἱὸς Ἰωσήφ, οὗ ἡμεῖς οἴδαμεν τὸν πατέρα καὶ τὴν μητέρα; πῶς ⸀νῦν ⸀λέγει ὅτι Ἐκ τοῦ οὐρανοῦ καταβέβηκα; 
+[Y decían: «¿No es este Jesús, el hijo de José, cuyo padre y madre nosotros conocemos? ¿Cómo es que ahora dice: “Yo he descendido del cielo”?».]
+
+### Juan 6:43 {#juan-6-43}
+⸀ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτοῖς· Μὴ γογγύζετε μετʼ ἀλλήλων. 
+[Jesús les dijo: «No murmuren entre sí.]
+
+### Juan 6:44 {#juan-6-44}
+οὐδεὶς δύναται ἐλθεῖν πρός ⸀με ἐὰν μὴ ὁ πατὴρ ὁ πέμψας με ἑλκύσῃ αὐτόν, κἀγὼ ἀναστήσω αὐτὸν ἐν τῇ ἐσχάτῃ ἡμέρᾳ. 
+[Nadie puede venir a Mí si no lo trae el Padre que me envió, y Yo lo resucitaré en el día final.]
+
+### Juan 6:45 {#juan-6-45}
+ἔστιν γεγραμμένον ἐν τοῖς προφήταις· Καὶ ἔσονται πάντες διδακτοὶ θεοῦ· ⸀πᾶς ὁ ⸀ἀκούσας παρὰ τοῦ πατρὸς καὶ μαθὼν ἔρχεται πρὸς ⸀ἐμέ. 
+[Escrito está en los profetas: “Y TODOS SERÁN ENSEÑADOS POR DIOS”. Todo el que ha oído y aprendido del Padre, viene a Mí.]
+
+### Juan 6:46 {#juan-6-46}
+οὐχ ὅτι τὸν πατέρα ⸂ἑώρακέν τις⸃ εἰ μὴ ὁ ὢν παρὰ τοῦ θεοῦ, οὗτος ἑώρακεν τὸν πατέρα. 
+[No es que alguien haya visto al Padre; sino Aquel que viene de Dios, Él ha visto al Padre.]
+
+### Juan 6:47 {#juan-6-47}
+ἀμὴν ἀμὴν λέγω ὑμῖν, ὁ ⸀πιστεύων ἔχει ζωὴν αἰώνιον. 
+[En verdad les digo: el que cree, tiene vida eterna.]
+
+### Juan 6:48 {#juan-6-48}
+ἐγώ εἰμι ὁ ἄρτος τῆς ζωῆς· 
+[Yo soy el pan de la vida.]
+
+### Juan 6:49 {#juan-6-49}
+οἱ πατέρες ὑμῶν ἔφαγον ⸂ἐν τῇ ἐρήμῳ τὸ μάννα⸃ καὶ ἀπέθανον· 
+[Los padres de ustedes comieron el maná en el desierto, y murieron.]
+
+### Juan 6:50 {#juan-6-50}
+οὗτός ἐστιν ὁ ἄρτος ὁ ἐκ τοῦ οὐρανοῦ καταβαίνων ἵνα τις ἐξ αὐτοῦ φάγῃ καὶ μὴ ἀποθάνῃ· 
+[Este es el pan que desciende del cielo, para que el que coma de él, no muera.]
+
+### Juan 6:51 {#juan-6-51}
+ἐγώ εἰμι ὁ ἄρτος ὁ ζῶν ὁ ἐκ τοῦ οὐρανοῦ καταβάς· ἐάν τις φάγῃ ἐκ τούτου τοῦ ἄρτου ⸀ζήσει εἰς τὸν αἰῶνα, καὶ ὁ ἄρτος δὲ ὃν ἐγὼ δώσω ἡ σάρξ μού ⸀ἐστιν ὑπὲρ τῆς τοῦ κόσμου ζωῆς. 
+[Yo soy el pan vivo que descendió del cielo; si alguien come de este pan, vivirá para siempre; y el pan que Yo también daré por la vida del mundo es Mi carne».]
+
+### Juan 6:52 {#juan-6-52}
+Ἐμάχοντο οὖν πρὸς ἀλλήλους οἱ Ἰουδαῖοι λέγοντες· Πῶς δύναται οὗτος ἡμῖν δοῦναι τὴν σάρκα ⸀αὐτοῦ φαγεῖν; 
+[Los judíos, por tanto, discutían entre sí, diciendo: «¿Cómo puede Este darnos a comer Su carne?».]
+
+### Juan 6:53 {#juan-6-53}
+εἶπεν οὖν αὐτοῖς ὁ Ἰησοῦς· Ἀμὴν ἀμὴν λέγω ὑμῖν, ἐὰν μὴ φάγητε τὴν σάρκα τοῦ υἱοῦ τοῦ ἀνθρώπου καὶ πίητε αὐτοῦ τὸ αἷμα, οὐκ ἔχετε ζωὴν ἐν ἑαυτοῖς. 
+[Entonces Jesús les dijo: «En verdad les digo, que si no comen la carne del Hijo del Hombre y beben Su sangre, no tienen vida en ustedes.]
+
+### Juan 6:54 {#juan-6-54}
+ὁ τρώγων μου τὴν σάρκα καὶ πίνων μου τὸ αἷμα ἔχει ζωὴν αἰώνιον, κἀγὼ ἀναστήσω αὐτὸν τῇ ἐσχάτῃ ἡμέρᾳ. 
+[El que come Mi carne y bebe Mi sangre, tiene vida eterna, y Yo lo resucitaré en el día final.]
+
+### Juan 6:55 {#juan-6-55}
+ἡ γὰρ σάρξ μου ⸀ἀληθής ἐστι βρῶσις, καὶ τὸ αἷμά μου ⸁ἀληθής ἐστι πόσις. 
+[Porque Mi carne es verdadera comida, y Mi sangre es verdadera bebida.]
+
+### Juan 6:56 {#juan-6-56}
+ὁ τρώγων μου τὴν σάρκα καὶ πίνων μου τὸ αἷμα ἐν ἐμοὶ μένει κἀγὼ ἐν αὐτῷ. 
+[El que come Mi carne y bebe Mi sangre, permanece en Mí y Yo en él.]
+
+### Juan 6:57 {#juan-6-57}
+καθὼς ἀπέστειλέν με ὁ ζῶν πατὴρ κἀγὼ ζῶ διὰ τὸν πατέρα, καὶ ὁ τρώγων με κἀκεῖνος ⸀ζήσει διʼ ἐμέ. 
+[Como el Padre que vive me envió, y Yo vivo por el Padre, asimismo el que me come, él también vivirá por Mí.]
+
+### Juan 6:58 {#juan-6-58}
+οὗτός ἐστιν ὁ ἄρτος ὁ ⸀ἐξ οὐρανοῦ καταβάς, οὐ καθὼς ἔφαγον οἱ ⸀πατέρες καὶ ἀπέθανον· ὁ τρώγων τοῦτον τὸν ἄρτον ⸀ζήσει εἰς τὸν αἰῶνα. 
+[Este es el pan que descendió del cielo; no como el que los padres de ustedes comieron, y murieron; el que come este pan vivirá para siempre».]
+
+### Juan 6:59 {#juan-6-59}
+ταῦτα εἶπεν ἐν συναγωγῇ διδάσκων ἐν Καφαρναούμ. 
+[Esto dijo Jesús en la sinagoga, cuando enseñaba en Capernaúm.]
+
+### Juan 6:60 {#juan-6-60}
+Πολλοὶ οὖν ἀκούσαντες ἐκ τῶν μαθητῶν αὐτοῦ εἶπαν· Σκληρός ἐστιν ⸂ὁ λόγος οὗτος⸃· τίς δύναται αὐτοῦ ἀκούειν; 
+[Por eso muchos de Sus discípulos, cuando oyeron esto, dijeron: «Dura es esta declaración; ¿quién puede escucharla?».]
+
+### Juan 6:61 {#juan-6-61}
+εἰδὼς δὲ ὁ Ἰησοῦς ἐν ἑαυτῷ ὅτι γογγύζουσιν περὶ τούτου οἱ μαθηταὶ αὐτοῦ εἶπεν αὐτοῖς· Τοῦτο ὑμᾶς σκανδαλίζει; 
+[Pero Jesús, consciente de que Sus discípulos murmuraban por esto, les dijo: «¿Esto los escandaliza?]
+
+### Juan 6:62 {#juan-6-62}
+ἐὰν οὖν θεωρῆτε τὸν υἱὸν τοῦ ἀνθρώπου ἀναβαίνοντα ὅπου ἦν τὸ πρότερον; 
+[¿Pues qué si vieran al Hijo del Hombre ascender adonde estaba antes?]
+
+### Juan 6:63 {#juan-6-63}
+τὸ πνεῦμά ἐστιν τὸ ζῳοποιοῦν, ἡ σὰρξ οὐκ ὠφελεῖ οὐδέν· τὰ ῥήματα ἃ ἐγὼ ⸀λελάληκα ὑμῖν πνεῦμά ἐστιν καὶ ζωή ἐστιν. 
+[El Espíritu es el que da vida; la carne para nada aprovecha; las palabras que Yo les he hablado son espíritu y son vida.]
+
+### Juan 6:64 {#juan-6-64}
+ἀλλὰ εἰσὶν ἐξ ὑμῶν τινες οἳ οὐ πιστεύουσιν. ᾔδει γὰρ ἐξ ἀρχῆς ὁ Ἰησοῦς τίνες εἰσὶν οἱ μὴ πιστεύοντες καὶ τίς ἐστιν ὁ παραδώσων αὐτόν. 
+[Pero hay algunos de ustedes que no creen». Porque Jesús sabía desde el principio quiénes eran los que no creían, y quién era el que lo iba a traicionar.]
+
+### Juan 6:65 {#juan-6-65}
+καὶ ἔλεγεν· Διὰ τοῦτο εἴρηκα ὑμῖν ὅτι οὐδεὶς δύναται ἐλθεῖν πρός με ἐὰν μὴ ᾖ δεδομένον αὐτῷ ἐκ τοῦ ⸀πατρός. 
+[También decía: «Por eso les he dicho que nadie puede venir a Mí si no se lo ha concedido el Padre».]
+
+### Juan 6:66 {#juan-6-66}
+Ἐκ τούτου πολλοὶ ⸀ἐκ ⸂τῶν μαθητῶν αὐτοῦ ἀπῆλθον⸃ εἰς τὰ ὀπίσω καὶ οὐκέτι μετʼ αὐτοῦ περιεπάτουν. 
+[Como resultado de esto muchos de Sus discípulos se apartaron y ya no andaban con Él.]
+
+### Juan 6:67 {#juan-6-67}
+εἶπεν οὖν ὁ Ἰησοῦς τοῖς δώδεκα· Μὴ καὶ ὑμεῖς θέλετε ὑπάγειν; 
+[Entonces Jesús dijo a los doce discípulos: «¿Acaso también ustedes quieren irse?».]
+
+### Juan 6:68 {#juan-6-68}
+⸀ἀπεκρίθη αὐτῷ Σίμων Πέτρος· Κύριε, πρὸς τίνα ἀπελευσόμεθα; ῥήματα ζωῆς αἰωνίου ἔχεις, 
+[Simón Pedro le respondió: «Señor, ¿a quién iremos? Tú tienes palabras de vida eterna.]
+
+### Juan 6:69 {#juan-6-69}
+καὶ ἡμεῖς πεπιστεύκαμεν καὶ ἐγνώκαμεν ὅτι σὺ εἶ ὁ ⸀ἅγιος τοῦ ⸀θεοῦ. 
+[Y nosotros hemos creído y sabemos que Tú eres el Santo de Dios».]
+
+### Juan 6:70 {#juan-6-70}
+ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς· Οὐκ ἐγὼ ὑμᾶς τοὺς δώδεκα ἐξελεξάμην; καὶ ἐξ ὑμῶν εἷς διάβολός ἐστιν. 
+[Jesús les respondió: «¿No los escogí Yo a ustedes, los doce, y sin embargo uno de ustedes es un diablo?».]
+
+### Juan 6:71 {#juan-6-71}
+ἔλεγεν δὲ τὸν Ἰούδαν Σίμωνος ⸀Ἰσκαριώτου· οὗτος γὰρ ἔμελλεν ⸂παραδιδόναι αὐτόν⸃, ⸀εἷς ἐκ τῶν δώδεκα. 
+[Él se refería a Judas, hijo de Simón Iscariote, porque este, uno de los doce, lo iba a entregar.]
+
+### Juan 7:1 {#juan-7-1}
+Καὶ ⸂μετὰ ταῦτα περιεπάτει ὁ Ἰησοῦς⸃ ἐν τῇ Γαλιλαίᾳ, οὐ γὰρ ἤθελεν ἐν τῇ Ἰουδαίᾳ περιπατεῖν, ὅτι ἐζήτουν αὐτὸν οἱ Ἰουδαῖοι ἀποκτεῖναι. 
+[Después de esto, Jesús andaba por Galilea, pues no deseaba andar por Judea porque los judíos lo querían matar.]
+
+### Juan 7:2 {#juan-7-2}
+ἦν δὲ ἐγγὺς ἡ ἑορτὴ τῶν Ἰουδαίων ἡ σκηνοπηγία. 
+[La fiesta de los judíos, la de los Tabernáculos, estaba cerca.]
+
+### Juan 7:3 {#juan-7-3}
+εἶπον οὖν πρὸς αὐτὸν οἱ ἀδελφοὶ αὐτοῦ· Μετάβηθι ἐντεῦθεν καὶ ὕπαγε εἰς τὴν Ἰουδαίαν, ἵνα καὶ οἱ μαθηταί σου ⸀θεωρήσουσιν ⸂σοῦ τὰ ἔργα⸃ ἃ ποιεῖς· 
+[Por eso los hermanos de Jesús le dijeron: «Sal de aquí, y vete a Judea para que también Tus discípulos vean las obras que Tú haces.]
+
+### Juan 7:4 {#juan-7-4}
+οὐδεὶς γάρ ⸂τι ἐν κρυπτῷ⸃ ποιεῖ καὶ ζητεῖ αὐτὸς ἐν παρρησίᾳ εἶναι· εἰ ταῦτα ποιεῖς, φανέρωσον σεαυτὸν τῷ κόσμῳ. 
+[Porque nadie hace nada en secreto cuando procura ser conocido en público. Si haces estas cosas, muéstrate al mundo».]
+
+### Juan 7:5 {#juan-7-5}
+οὐδὲ γὰρ οἱ ἀδελφοὶ αὐτοῦ ἐπίστευον εἰς αὐτόν. 
+[Porque ni aun Sus hermanos creían en Él.]
+
+### Juan 7:6 {#juan-7-6}
+λέγει οὖν αὐτοῖς ὁ Ἰησοῦς· Ὁ καιρὸς ὁ ἐμὸς οὔπω πάρεστιν, ὁ δὲ καιρὸς ὁ ὑμέτερος πάντοτέ ἐστιν ἕτοιμος. 
+[Entonces Jesús les dijo*: «Mi tiempo aún no ha llegado, pero el tiempo de ustedes es siempre oportuno.]
+
+### Juan 7:7 {#juan-7-7}
+οὐ δύναται ὁ κόσμος μισεῖν ὑμᾶς, ἐμὲ δὲ μισεῖ, ὅτι ἐγὼ μαρτυρῶ περὶ αὐτοῦ ὅτι τὰ ἔργα αὐτοῦ πονηρά ἐστιν. 
+[El mundo no puede odiarlos a ustedes, pero me odia a Mí, porque Yo doy testimonio de él, que sus acciones son malas.]
+
+### Juan 7:8 {#juan-7-8}
+ὑμεῖς ἀνάβητε εἰς τὴν ⸀ἑορτήν· ἐγὼ ⸀οὐκ ἀναβαίνω εἰς τὴν ἑορτὴν ταύτην, ὅτι ὁ ⸂ἐμὸς καιρὸς⸃ οὔπω πεπλήρωται. 
+[Suban ustedes a la fiesta; Yo no subo a esta fiesta porque Mi tiempo aún no se ha cumplido».]
+
+### Juan 7:9 {#juan-7-9}
+ταῦτα ⸀δὲ εἰπὼν ⸀αὐτὸς ἔμεινεν ἐν τῇ Γαλιλαίᾳ. 
+[Y habiéndoles dicho esto, se quedó en Galilea.]
+
+### Juan 7:10 {#juan-7-10}
+Ὡς δὲ ἀνέβησαν οἱ ἀδελφοὶ αὐτοῦ ⸂εἰς τὴν ἑορτήν, τότε καὶ αὐτὸς ἀνέβη⸃, οὐ φανερῶς ἀλλὰ ὡς ἐν κρυπτῷ. 
+[Pero cuando Sus hermanos subieron a la fiesta, entonces Jesús también subió; no abiertamente, sino en secreto.]
+
+### Juan 7:11 {#juan-7-11}
+οἱ οὖν Ἰουδαῖοι ἐζήτουν αὐτὸν ἐν τῇ ἑορτῇ καὶ ἔλεγον· Ποῦ ἐστιν ἐκεῖνος; 
+[Por eso los judíos lo buscaban en la fiesta y decían: «¿Dónde está Ese?».]
+
+### Juan 7:12 {#juan-7-12}
+καὶ γογγυσμὸς ⸂περὶ αὐτοῦ ἦν πολὺς⸃ ἐν τοῖς ὄχλοις· οἱ μὲν ἔλεγον ὅτι Ἀγαθός ἐστιν, ἄλλοι ⸀δὲ ἔλεγον· Οὔ, ἀλλὰ πλανᾷ τὸν ὄχλον. 
+[Y había mucha murmuración entre la gente acerca de Él. Unos decían: «Él es bueno». Otros decían: «No, al contrario, extravía a la gente».]
+
+### Juan 7:13 {#juan-7-13}
+οὐδεὶς μέντοι παρρησίᾳ ἐλάλει περὶ αὐτοῦ διὰ τὸν φόβον τῶν Ἰουδαίων. 
+[Sin embargo, nadie hablaba abiertamente de Él por miedo a los judíos.]
+
+### Juan 7:14 {#juan-7-14}
+Ἤδη δὲ τῆς ἑορτῆς μεσούσης ⸀ἀνέβη Ἰησοῦς εἰς τὸ ἱερὸν καὶ ἐδίδασκεν. 
+[A la mitad de la fiesta, Jesús subió al templo y se puso a enseñar.]
+
+### Juan 7:15 {#juan-7-15}
+⸂ἐθαύμαζον οὖν⸃ οἱ Ἰουδαῖοι λέγοντες· Πῶς οὗτος γράμματα οἶδεν μὴ μεμαθηκώς; 
+[Entonces los judíos se maravillaban, diciendo: «¿Cómo puede Este saber de letras sin haber estudiado?».]
+
+### Juan 7:16 {#juan-7-16}
+ἀπεκρίθη οὖν αὐτοῖς ⸀ὁ Ἰησοῦς καὶ εἶπεν· Ἡ ἐμὴ διδαχὴ οὐκ ἔστιν ἐμὴ ἀλλὰ τοῦ πέμψαντός με· 
+[Jesús entonces les respondió: «Mi enseñanza no es Mía, sino del que me envió.]
+
+### Juan 7:17 {#juan-7-17}
+ἐάν τις θέλῃ τὸ θέλημα αὐτοῦ ποιεῖν, γνώσεται περὶ τῆς διδαχῆς πότερον ἐκ τοῦ θεοῦ ἐστιν ἢ ἐγὼ ἀπʼ ἐμαυτοῦ λαλῶ. 
+[Si alguno está dispuesto a hacer la voluntad de Dios, sabrá si Mi enseñanza es de Dios o si hablo de Mí mismo.]
+
+### Juan 7:18 {#juan-7-18}
+ὁ ἀφʼ ἑαυτοῦ λαλῶν τὴν δόξαν τὴν ἰδίαν ζητεῖ· ὁ δὲ ζητῶν τὴν δόξαν τοῦ πέμψαντος αὐτὸν οὗτος ἀληθής ἐστιν καὶ ἀδικία ἐν αὐτῷ οὐκ ἔστιν. 
+[El que habla de sí mismo busca su propia gloria; pero Aquel que busca la gloria del que lo envió, Él es verdadero y no hay injusticia en Él.]
+
+### Juan 7:19 {#juan-7-19}
+Οὐ Μωϋσῆς ⸀δέδωκεν ὑμῖν τὸν νόμον; καὶ οὐδεὶς ἐξ ὑμῶν ποιεῖ τὸν νόμον. τί με ζητεῖτε ἀποκτεῖναι; 
+[¿No les dio Moisés la ley, y sin embargo ninguno de ustedes la cumple? ¿Por qué me quieren matar?».]
+
+### Juan 7:20 {#juan-7-20}
+ἀπεκρίθη ὁ ⸀ὄχλος· Δαιμόνιον ἔχεις· τίς σε ζητεῖ ἀποκτεῖναι; 
+[La multitud contestó: «¡Tienes un demonio! ¿Quién te quiere matar?».]
+
+### Juan 7:21 {#juan-7-21}
+ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτοῖς· Ἓν ἔργον ἐποίησα καὶ πάντες θαυμάζετε. 
+[Jesús les respondió: «Una sola obra hice y todos se admiran.]
+
+### Juan 7:22 {#juan-7-22}
+διὰ τοῦτο Μωϋσῆς δέδωκεν ὑμῖν τὴν περιτομήν— οὐχ ὅτι ἐκ τοῦ Μωϋσέως ἐστὶν ἀλλʼ ἐκ τῶν πατέρων— καὶ ἐν σαββάτῳ περιτέμνετε ἄνθρωπον. 
+[Por eso Moisés les ha dado la circuncisión (no porque sea de Moisés, sino de los padres), y en el día de reposo ustedes circuncidan al hombre.]
+
+### Juan 7:23 {#juan-7-23}
+εἰ περιτομὴν ⸀λαμβάνει ἄνθρωπος ἐν σαββάτῳ ἵνα μὴ λυθῇ ὁ νόμος Μωϋσέως, ἐμοὶ χολᾶτε ὅτι ὅλον ἄνθρωπον ὑγιῆ ἐποίησα ἐν σαββάτῳ; 
+[Y si para no violar la ley de Moisés un hombre recibe la circuncisión aún en el día de reposo, ¿por qué están enojados conmigo porque sané por completo a un hombre en el día de reposo?]
+
+### Juan 7:24 {#juan-7-24}
+μὴ κρίνετε κατʼ ὄψιν, ἀλλὰ τὴν δικαίαν κρίσιν ⸀κρίνετε. 
+[No juzguen por la apariencia, sino juzguen con juicio justo».]
+
+### Juan 7:25 {#juan-7-25}
+Ἔλεγον οὖν τινες ἐκ τῶν Ἱεροσολυμιτῶν· Οὐχ οὗτός ἐστιν ὃν ζητοῦσιν ἀποκτεῖναι; 
+[Entonces algunos de Jerusalén decían: «¿No es Este al que procuran matar?]
+
+### Juan 7:26 {#juan-7-26}
+καὶ ἴδε παρρησίᾳ λαλεῖ καὶ οὐδὲν αὐτῷ λέγουσιν· μήποτε ἀληθῶς ἔγνωσαν οἱ ἄρχοντες ὅτι οὗτός ⸀ἐστιν ὁ χριστός; 
+[Y vean, habla en público y no le dicen nada. ¿No será que en verdad los gobernantes reconocen que Este es el Cristo?]
+
+### Juan 7:27 {#juan-7-27}
+ἀλλὰ τοῦτον οἴδαμεν πόθεν ἐστίν· ὁ δὲ χριστὸς ὅταν ἔρχηται οὐδεὶς γινώσκει πόθεν ἐστίν. 
+[Sin embargo, nosotros sabemos de dónde es Este; pero cuando venga el Cristo, nadie sabrá de dónde es».]
+
+### Juan 7:28 {#juan-7-28}
+ἔκραξεν οὖν ἐν τῷ ἱερῷ διδάσκων ὁ Ἰησοῦς καὶ λέγων· Κἀμὲ οἴδατε καὶ οἴδατε πόθεν εἰμί· καὶ ἀπʼ ἐμαυτοῦ οὐκ ἐλήλυθα, ἀλλʼ ἔστιν ἀληθινὸς ὁ πέμψας με, ὃν ὑμεῖς οὐκ οἴδατε· 
+[Jesús entonces, mientras enseñaba en el templo, exclamó en alta voz: «Ustedes me conocen y saben de dónde soy. Yo no he venido por decisión propia, pero Aquel que me envió es verdadero, a quien ustedes no conocen.]
+
+### Juan 7:29 {#juan-7-29}
+ἐγὼ οἶδα αὐτόν, ὅτι παρʼ αὐτοῦ εἰμι κἀκεῖνός με ἀπέστειλεν. 
+[Yo lo conozco, porque procedo de Él, y Él me envió».]
+
+### Juan 7:30 {#juan-7-30}
+ἐζήτουν οὖν αὐτὸν πιάσαι, καὶ οὐδεὶς ἐπέβαλεν ἐπʼ αὐτὸν τὴν χεῖρα, ὅτι οὔπω ἐληλύθει ἡ ὥρα αὐτοῦ. 
+[Procuraban, pues, prender a Jesús; pero nadie le echó mano porque todavía no había llegado Su hora.]
+
+### Juan 7:31 {#juan-7-31}
+⸂ἐκ τοῦ ὄχλου δὲ πολλοὶ⸃ ἐπίστευσαν εἰς αὐτόν, καὶ ⸀ἔλεγον· Ὁ χριστὸς ὅταν ἔλθῃ ⸀μὴ πλείονα ⸀σημεῖα ποιήσει ὧν οὗτος ἐποίησεν; 
+[Pero muchos de la multitud creyeron en Él, y decían: «Cuando el Cristo venga, ¿acaso hará más señales que las que Este ha hecho?».]
+
+### Juan 7:32 {#juan-7-32}
+Ἤκουσαν οἱ Φαρισαῖοι τοῦ ὄχλου γογγύζοντος περὶ αὐτοῦ ταῦτα, καὶ ἀπέστειλαν ⸂οἱ ἀρχιερεῖς καὶ οἱ Φαρισαῖοι ὑπηρέτας⸃ ἵνα πιάσωσιν αὐτόν. 
+[Los fariseos oyeron a la multitud murmurando estas cosas acerca de Él. Entonces los principales sacerdotes y los fariseos enviaron guardias para que lo prendieran.]
+
+### Juan 7:33 {#juan-7-33}
+εἶπεν οὖν ὁ Ἰησοῦς· Ἔτι ⸂χρόνον μικρὸν⸃ μεθʼ ὑμῶν εἰμι καὶ ὑπάγω πρὸς τὸν πέμψαντά με. 
+[Pero Jesús dijo: «Por un poco más de tiempo estoy con ustedes; después voy a Aquel que me envió.]
+
+### Juan 7:34 {#juan-7-34}
+ζητήσετέ με καὶ οὐχ ⸀εὑρήσετε, καὶ ὅπου εἰμὶ ἐγὼ ὑμεῖς οὐ δύνασθε ἐλθεῖν. 
+[Me buscarán y no me hallarán; y donde Yo esté, ustedes no pueden ir».]
+
+### Juan 7:35 {#juan-7-35}
+εἶπον οὖν οἱ Ἰουδαῖοι πρὸς ἑαυτούς· Ποῦ οὗτος μέλλει πορεύεσθαι ὅτι ἡμεῖς οὐχ εὑρήσομεν αὐτόν; μὴ εἰς τὴν διασπορὰν τῶν Ἑλλήνων μέλλει πορεύεσθαι καὶ διδάσκειν τοὺς Ἕλληνας; 
+[Decían entonces los judíos entre sí: «¿Adónde piensa irse Este que no lo podamos encontrar? ¿Será acaso que quiere irse a la dispersión entre los griegos y enseñar a los griegos?]
+
+### Juan 7:36 {#juan-7-36}
+τίς ἐστιν ⸂ὁ λόγος οὗτος⸃ ὃν εἶπε· Ζητήσετέ με καὶ οὐχ ⸀εὑρήσετε, καὶ ὅπου εἰμὶ ἐγὼ ὑμεῖς οὐ δύνασθε ἐλθεῖν; 
+[¿Qué quiere decir esto que ha dicho: “Me buscarán y no me hallarán; y donde Yo esté, ustedes no podrán ir”?».]
+
+### Juan 7:37 {#juan-7-37}
+Ἐν δὲ τῇ ἐσχάτῃ ἡμέρᾳ τῇ μεγάλῃ τῆς ἑορτῆς εἱστήκει ὁ Ἰησοῦς, καὶ ἔκραξεν λέγων· Ἐάν τις διψᾷ ἐρχέσθω πρός με καὶ πινέτω. 
+[En el último día, el gran día de la fiesta, Jesús puesto en pie, exclamó en alta voz: «Si alguien tiene sed, que venga a Mí y beba.]
+
+### Juan 7:38 {#juan-7-38}
+ὁ πιστεύων εἰς ἐμέ, καθὼς εἶπεν ἡ γραφή, ποταμοὶ ἐκ τῆς κοιλίας αὐτοῦ ῥεύσουσιν ὕδατος ζῶντος. 
+[El que cree en Mí, como ha dicho la Escritura: “De lo más profundo de su ser brotarán ríos de agua viva”».]
+
+### Juan 7:39 {#juan-7-39}
+τοῦτο δὲ εἶπεν περὶ τοῦ πνεύματος ⸀οὗ ἔμελλον λαμβάνειν οἱ ⸀πιστεύσαντες εἰς αὐτόν· οὔπω γὰρ ἦν ⸀πνεῦμα, ὅτι Ἰησοῦς ⸀οὐδέπω ἐδοξάσθη. 
+[Pero Él decía esto del Espíritu, que los que habían creído en Él habían de recibir; porque el Espíritu no había sido dado todavía, pues Jesús aún no había sido glorificado.]
+
+### Juan 7:40 {#juan-7-40}
+⸂Ἐκ τοῦ ὄχλου οὖν⸃ ἀκούσαντες ⸂τῶν λόγων τούτων⸃ ⸀ἔλεγον· Οὗτός ἐστιν ἀληθῶς ὁ προφήτης· 
+[Entonces algunos de la multitud, cuando oyeron estas palabras, decían: «Verdaderamente Este es el Profeta».]
+
+### Juan 7:41 {#juan-7-41}
+ἄλλοι ἔλεγον· Οὗτός ἐστιν ὁ χριστός· ⸂οἱ δὲ⸃ ἔλεγον· Μὴ γὰρ ἐκ τῆς Γαλιλαίας ὁ χριστὸς ἔρχεται; 
+[Otros decían: «Este es el Cristo». Pero otros decían: «¿Acaso el Cristo ha de venir de Galilea?]
+
+### Juan 7:42 {#juan-7-42}
+⸀οὐχ ἡ γραφὴ εἶπεν ὅτι ἐκ τοῦ σπέρματος Δαυίδ, καὶ ἀπὸ Βηθλέεμ τῆς κώμης ὅπου ἦν Δαυίδ, ⸂ἔρχεται ὁ χριστός⸃; 
+[¿No ha dicho la Escritura que el Cristo viene de la descendencia de David, y de Belén, la aldea de donde era David?».]
+
+### Juan 7:43 {#juan-7-43}
+σχίσμα οὖν ⸂ἐγένετο ἐν τῷ ὄχλῳ⸃ διʼ αὐτόν. 
+[Así que surgió una división entre la multitud por causa de Él.]
+
+### Juan 7:44 {#juan-7-44}
+τινὲς δὲ ἤθελον ἐξ αὐτῶν πιάσαι αὐτόν, ἀλλʼ οὐδεὶς ⸀ἐπέβαλεν ἐπʼ αὐτὸν τὰς χεῖρας. 
+[Y algunos de ellos querían prender a Jesús, pero nadie le echó mano.]
+
+### Juan 7:45 {#juan-7-45}
+Ἦλθον οὖν οἱ ὑπηρέται πρὸς τοὺς ἀρχιερεῖς καὶ Φαρισαίους, καὶ εἶπον αὐτοῖς ἐκεῖνοι· Διὰ τί οὐκ ἠγάγετε αὐτόν; 
+[Entonces los guardias vinieron a los principales sacerdotes y fariseos, y estos les dijeron: «¿Por qué no lo trajeron?».]
+
+### Juan 7:46 {#juan-7-46}
+ἀπεκρίθησαν οἱ ὑπηρέται· Οὐδέποτε ⸂ἐλάλησεν οὕτως⸃ ⸀ἄνθρωπος. 
+[Los guardias respondieron: «¡Jamás hombre alguno ha hablado como este hombre habla!».]
+
+### Juan 7:47 {#juan-7-47}
+ἀπεκρίθησαν οὖν αὐτοῖς οἱ Φαρισαῖοι· Μὴ καὶ ὑμεῖς πεπλάνησθε; 
+[Entonces los fariseos les contestaron: «¿Es que también ustedes se han dejado engañar?]
+
+### Juan 7:48 {#juan-7-48}
+μή τις ἐκ τῶν ἀρχόντων ἐπίστευσεν εἰς αὐτὸν ἢ ἐκ τῶν Φαρισαίων; 
+[¿Acaso ha creído en Él alguien de los gobernantes o de los fariseos?]
+
+### Juan 7:49 {#juan-7-49}
+ἀλλὰ ὁ ὄχλος οὗτος ὁ μὴ γινώσκων τὸν νόμον ⸀ἐπάρατοί εἰσιν. 
+[Pero esta multitud que no conoce de la ley, maldita es».]
+
+### Juan 7:50 {#juan-7-50}
+λέγει Νικόδημος πρὸς αὐτούς, ὁ ⸀ἐλθὼν πρὸς αὐτὸν ⸀πρότερον, εἷς ὢν ἐξ αὐτῶν· 
+[Nicodemo, el que había venido a Jesús antes, y que era uno de ellos, les dijo*:]
+
+### Juan 7:51 {#juan-7-51}
+Μὴ ὁ νόμος ἡμῶν κρίνει τὸν ἄνθρωπον ἐὰν μὴ ἀκούσῃ ⸂πρῶτον παρʼ αὐτοῦ⸃ καὶ γνῷ τί ποιεῖ; 
+[«¿Acaso juzga nuestra ley a un hombre a menos que le oiga primero y sepa lo que hace?».]
+
+### Juan 7:52 {#juan-7-52}
+ἀπεκρίθησαν καὶ εἶπαν αὐτῷ· Μὴ καὶ σὺ ἐκ τῆς Γαλιλαίας εἶ; ἐραύνησον καὶ ἴδε ὅτι ⸂ἐκ τῆς Γαλιλαίας προφήτης⸃ οὐκ ⸀ἐγείρεται. 
+[Ellos le respondieron: «¿Es que tú también eres de Galilea? Investiga, y verás que ningún profeta sale de Galilea».]
+
+### Juan 7:53 {#juan-7-53}
+⟦καὶ ἐπορεύθη ἕκαστος εἰς τὸν οἶκον αὐτοῦ· 
+[Y cada uno se fue a su casa.]
+
+### Juan 8:1 {#juan-8-1}
+Ἰησοῦς δὲ ἐπορεύθη εἰς τὸ ὄρος τῶν Ἐλαιῶν. 
+[Pero Jesús se fue al monte de los Olivos.]
+
+### Juan 8:2 {#juan-8-2}
+Ὄρθρου δὲ πάλιν παρεγένετο εἰς τὸ ἱερόν, καὶ πᾶς ὁ λαὸς ἤρχετο· καὶ καθίσας ἐδίδασκεν αὐτούς. 
+[Al amanecer, vino otra vez al templo, y todo el pueblo venía a Él; y sentándose, les enseñaba.]
+
+### Juan 8:3 {#juan-8-3}
+ἄγουσιν δὲ οἱ γραμματεῖς καὶ οἱ Φαρισαῖοι πρὸς αὐτὸν γυναῖκα ἐν μοιχείᾳ καταλήφθεισαν· καὶ στήσαντες αὐτὴν ἐν μέσῳ, 
+[Los escribas y los fariseos trajeron* a una mujer sorprendida en adulterio, y poniéndola en medio,]
+
+### Juan 8:4 {#juan-8-4}
+λέγουσιν αὐτῷ, πειράζοντες· Διδάσκαλε, αὕτη ἡ γυνὴ κατελήφθη ἐπʼ αὐτοφόρῳ μοιχευομένη. 
+[dijeron* a Jesús: «Maestro, esta mujer ha sido sorprendida en el acto mismo del adulterio.]
+
+### Juan 8:5 {#juan-8-5}
+ἐν δὲ τῷ νόμῳ Μωσῆς ἡμῖν ἐνετείλατο τὰς τοιαύτας λιθοβολεῖσθαι· σὺ οὖν τί λέγεις; 
+[Y en la ley, Moisés nos ordenó apedrear a esta clase de mujeres. ¿Tú, pues, qué dices?».]
+
+### Juan 8:6 {#juan-8-6}
+τοῦτο δὲ ἔλεγον πειράζοντες αὐτόν, ἵνα ἔχωσιν κατηγορεῖν αὐτοῦ. ὁ δὲ Ἰησοῦς κάτω κύψας, τῷ δακτύλῳ ἔγραφεν εἰς τὴν γῆν, μὴ προσποιούμενος. 
+[Decían esto, poniendo a prueba a Jesús, para tener de qué acusarlo. Pero Jesús se inclinó y con el dedo escribía en la tierra.]
+
+### Juan 8:7 {#juan-8-7}
+ὡς δὲ ἐπέμενον ἐρωτῶντες αὐτόν, ἀνακύψας εἶπεν πρὸς αὐτούς· Ὁ ἀναμάρτητος ὑμῶν, πρῶτον ἐπʼ αὐτὴν τὸν λίθον βαλέτω. 
+[Pero como insistían en preguntar, Jesús se enderezó y les dijo: «El que de ustedes esté sin pecado, sea el primero en tirarle una piedra».]
+
+### Juan 8:8 {#juan-8-8}
+καὶ πάλιν κάτω κύψας ἔγραφεν εἰς τὴν γῆν. 
+[E inclinándose de nuevo, escribía en la tierra.]
+
+### Juan 8:9 {#juan-8-9}
+οἱ δέ, ἀκούσαντες, καὶ ὑπὸ τῆς συνειδήσεως ἐλεγχόμενοι, ἐξήρχοντο εἷς καθʼ εἷς, ἀρξάμενοι ἀπὸ τῶν πρεσβυτέρων· καὶ κατελείφθη μόνος ὁ Ἰησοῦς, καὶ ἡ γυνὴ ἐν μέσῳ οὖσα. 
+[Al oír ellos esto, se fueron retirando uno a uno comenzando por los de mayor edad, y dejaron solo a Jesús y a la mujer que estaba en medio.]
+
+### Juan 8:10 {#juan-8-10}
+ἀνακύψας δὲ ὁ Ἰησοῦς, καὶ μηδένα θεασάμενος πλὴν τὴς γυναικός, εἶπεν αὐτῇ· Ποῦ εἰσιν ἐκεῖνοι οἱ κατήγοροί σου; Οὐδείς σε κατέκρινεν; 
+[Enderezándose Jesús, le dijo: «Mujer, ¿dónde están ellos? ¿Ninguno te ha condenado?».]
+
+### Juan 8:11 {#juan-8-11}
+ἡ δὲ εἶπεν· Οὐδείς, κύριε. εἶπεν δὲ ὁ Ἰησοῦς· Οὐδὲ ἐγώ σε κρίνω· πορεύου καὶ μηκέτι ἁμάρτανε.⟧ 
+[«Ninguno, Señor», respondió ella. Entonces Jesús le dijo: «Yo tampoco te condeno. Vete; y desde ahora no peques más».]
+
+### Juan 8:12 {#juan-8-12}
+Πάλιν οὖν αὐτοῖς ⸂ἐλάλησεν ὁ Ἰησοῦς⸃ λέγων· Ἐγώ εἰμι τὸ φῶς τοῦ κόσμου· ὁ ἀκολουθῶν ⸀ἐμοὶ οὐ μὴ περιπατήσῃ ἐν τῇ σκοτίᾳ, ἀλλʼ ἕξει τὸ φῶς τῆς ζωῆς. 
+[Jesús les habló otra vez, diciendo: «Yo soy la Luz del mundo; el que me sigue no andará en tinieblas, sino que tendrá la Luz de la vida».]
+
+### Juan 8:13 {#juan-8-13}
+εἶπον οὖν αὐτῷ οἱ Φαρισαῖοι· Σὺ περὶ σεαυτοῦ μαρτυρεῖς· ἡ μαρτυρία σου οὐκ ἔστιν ἀληθής. 
+[Entonces los fariseos le dijeron: «Tú das testimonio de Ti mismo; Tu testimonio no es verdadero».]
+
+### Juan 8:14 {#juan-8-14}
+ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτοῖς· Κἂν ἐγὼ μαρτυρῶ περὶ ἐμαυτοῦ, ἀληθής ἐστιν ἡ μαρτυρία μου, ὅτι οἶδα πόθεν ἦλθον καὶ ποῦ ὑπάγω· ὑμεῖς δὲ οὐκ οἴδατε πόθεν ἔρχομαι ⸀ἢ ποῦ ὑπάγω. 
+[Jesús les respondió: «Aunque Yo doy testimonio de Mí mismo, Mi testimonio es verdadero, porque Yo sé de dónde he venido y adónde voy; pero ustedes no saben de dónde vengo ni adónde voy.]
+
+### Juan 8:15 {#juan-8-15}
+ὑμεῖς κατὰ τὴν σάρκα κρίνετε, ἐγὼ οὐ κρίνω οὐδένα. 
+[Ustedes juzgan según la carne; Yo no juzgo a nadie.]
+
+### Juan 8:16 {#juan-8-16}
+καὶ ἐὰν κρίνω δὲ ἐγώ, ἡ κρίσις ἡ ἐμὴ ⸀ἀληθινή ἐστιν, ὅτι μόνος οὐκ εἰμί, ἀλλʼ ἐγὼ καὶ ὁ πέμψας με πατήρ. 
+[Pero si Yo juzgo, Mi juicio es verdadero; porque no soy Yo solo, sino Yo y el Padre que me envió.]
+
+### Juan 8:17 {#juan-8-17}
+καὶ ἐν τῷ νόμῳ δὲ τῷ ὑμετέρῳ γέγραπται ὅτι δύο ἀνθρώπων ἡ μαρτυρία ἀληθής ἐστιν. 
+[Aun en la ley de ustedes está escrito que el testimonio de dos hombres es verdadero.]
+
+### Juan 8:18 {#juan-8-18}
+ἐγώ εἰμι ὁ μαρτυρῶν περὶ ἐμαυτοῦ καὶ μαρτυρεῖ περὶ ἐμοῦ ὁ πέμψας με πατήρ. 
+[Yo soy el que doy testimonio de Mí mismo, y el Padre que me envió da testimonio de Mí».]
+
+### Juan 8:19 {#juan-8-19}
+ἔλεγον οὖν αὐτῷ· Ποῦ ἐστιν ὁ πατήρ σου; ἀπεκρίθη Ἰησοῦς· Οὔτε ἐμὲ οἴδατε οὔτε τὸν πατέρα μου· εἰ ἐμὲ ᾔδειτε, καὶ τὸν πατέρα μου ⸂ἂν ᾔδειτε⸃. 
+[Entonces le decían: «¿Dónde está Tu Padre?». «Ustedes no me conocen a Mí ni a Mi Padre», les respondió Jesús. «Si me conocieran, conocerían también a Mi Padre».]
+
+### Juan 8:20 {#juan-8-20}
+ταῦτα τὰ ῥήματα ⸀ἐλάλησεν ἐν τῷ γαζοφυλακίῳ διδάσκων ἐν τῷ ἱερῷ· καὶ οὐδεὶς ἐπίασεν αὐτόν, ὅτι οὔπω ἐληλύθει ἡ ὥρα αὐτοῦ. 
+[Estas palabras las pronunció en el lugar del tesoro, cuando enseñaba en el templo; y nadie lo prendió, porque todavía no había llegado Su hora.]
+
+### Juan 8:21 {#juan-8-21}
+Εἶπεν οὖν πάλιν ⸀αὐτοῖς· Ἐγὼ ὑπάγω καὶ ζητήσετέ με, καὶ ἐν τῇ ἁμαρτίᾳ ὑμῶν ἀποθανεῖσθε· ὅπου ἐγὼ ὑπάγω ὑμεῖς οὐ δύνασθε ἐλθεῖν. 
+[Entonces Jesús les dijo de nuevo: «Yo me voy, y me buscarán, y ustedes morirán en su pecado; adonde Yo voy, ustedes no pueden ir».]
+
+### Juan 8:22 {#juan-8-22}
+ἔλεγον οὖν οἱ Ἰουδαῖοι· Μήτι ἀποκτενεῖ ἑαυτὸν ὅτι λέγει· Ὅπου ἐγὼ ὑπάγω ὑμεῖς οὐ δύνασθε ἐλθεῖν; 
+[Por eso los judíos decían: «¿Acaso se va a suicidar, puesto que dice: “Adonde Yo voy, ustedes no pueden ir”?».]
+
+### Juan 8:23 {#juan-8-23}
+καὶ ⸀ἔλεγεν αὐτοῖς· Ὑμεῖς ἐκ τῶν κάτω ἐστέ, ἐγὼ ἐκ τῶν ἄνω εἰμί· ὑμεῖς ἐκ ⸂τούτου τοῦ κόσμου⸃ ἐστέ, ἐγὼ οὐκ εἰμὶ ἐκ τοῦ κόσμου τούτου. 
+[Y Jesús les decía: «Ustedes son de abajo, Yo soy de arriba; ustedes son de este mundo, Yo no soy de este mundo.]
+
+### Juan 8:24 {#juan-8-24}
+εἶπον οὖν ὑμῖν ὅτι ἀποθανεῖσθε ἐν ταῖς ἁμαρτίαις ὑμῶν· ἐὰν γὰρ μὴ πιστεύσητε ὅτι ἐγώ εἰμι, ἀποθανεῖσθε ἐν ταῖς ἁμαρτίαις ὑμῶν. 
+[Por eso les dije que morirán en sus pecados; porque si no creen que Yo soy, morirán en sus pecados».]
+
+### Juan 8:25 {#juan-8-25}
+ἔλεγον οὖν αὐτῷ· Σὺ τίς εἶ; ⸀εἶπεν αὐτοῖς ὁ Ἰησοῦς· Τὴν ἀρχὴν ⸂ὅ τι⸃ καὶ λαλῶ ὑμῖν; 
+[«¿Tú quién eres?», le preguntaron. Jesús les contestó: «¿Qué les he estado diciendo desde el principio?]
+
+### Juan 8:26 {#juan-8-26}
+πολλὰ ἔχω περὶ ὑμῶν λαλεῖν καὶ κρίνειν· ἀλλʼ ὁ πέμψας με ἀληθής ἐστιν, κἀγὼ ἃ ἤκουσα παρʼ αὐτοῦ ταῦτα ⸀λαλῶ εἰς τὸν κόσμον. 
+[Tengo mucho que decir y juzgar de ustedes, pero Aquel que me envió es veraz; y Yo, las cosas que oí de Él, estas digo al mundo».]
+
+### Juan 8:27 {#juan-8-27}
+οὐκ ἔγνωσαν ὅτι τὸν πατέρα αὐτοῖς ἔλεγεν. 
+[Ellos no comprendieron que les hablaba del Padre.]
+
+### Juan 8:28 {#juan-8-28}
+εἶπεν ⸀οὖν ὁ Ἰησοῦς· Ὅταν ὑψώσητε τὸν υἱὸν τοῦ ἀνθρώπου, τότε γνώσεσθε ὅτι ἐγώ εἰμι, καὶ ἀπʼ ἐμαυτοῦ ποιῶ οὐδέν, ἀλλὰ καθὼς ἐδίδαξέν με ὁ ⸀πατὴρ ταῦτα λαλῶ. 
+[Por eso Jesús les dijo: «Cuando ustedes levanten al Hijo del Hombre, entonces sabrán que Yo soy y que no hago nada por Mi cuenta, sino que hablo estas cosas como el Padre me enseñó.]
+
+### Juan 8:29 {#juan-8-29}
+καὶ ὁ πέμψας με μετʼ ἐμοῦ ἐστιν· οὐκ ἀφῆκέν με ⸀μόνον, ὅτι ἐγὼ τὰ ἀρεστὰ αὐτῷ ποιῶ πάντοτε. 
+[Y Aquel que me envió está conmigo; no me ha dejado solo, porque Yo siempre hago lo que le agrada».]
+
+### Juan 8:30 {#juan-8-30}
+ταῦτα αὐτοῦ λαλοῦντος πολλοὶ ἐπίστευσαν εἰς αὐτόν. 
+[Al hablar estas cosas, muchos creyeron en Él.]
+
+### Juan 8:31 {#juan-8-31}
+Ἔλεγεν οὖν ὁ Ἰησοῦς πρὸς τοὺς πεπιστευκότας αὐτῷ Ἰουδαίους· Ἐὰν ὑμεῖς μείνητε ἐν τῷ λόγῳ τῷ ἐμῷ, ἀληθῶς μαθηταί μού ἐστε, 
+[Entonces Jesús decía a los judíos que habían creído en Él: «Si ustedes permanecen en Mi palabra, verdaderamente son Mis discípulos;]
+
+### Juan 8:32 {#juan-8-32}
+καὶ γνώσεσθε τὴν ἀλήθειαν, καὶ ἡ ἀλήθεια ἐλευθερώσει ὑμᾶς. 
+[y conocerán la verdad, y la verdad los hará libres».]
+
+### Juan 8:33 {#juan-8-33}
+ἀπεκρίθησαν ⸂πρὸς αὐτόν⸃· Σπέρμα Ἀβραάμ ἐσμεν καὶ οὐδενὶ δεδουλεύκαμεν πώποτε· πῶς σὺ λέγεις ὅτι Ἐλεύθεροι γενήσεσθε; 
+[Ellos le contestaron: «Somos descendientes de Abraham y nunca hemos sido esclavos de nadie. ¿Cómo dices Tú: “Serán libres”?».]
+
+### Juan 8:34 {#juan-8-34}
+Ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς· Ἀμὴν ἀμὴν λέγω ὑμῖν ὅτι πᾶς ὁ ποιῶν τὴν ἁμαρτίαν δοῦλός ἐστιν τῆς ἁμαρτίας· 
+[Jesús les respondió: «En verdad les digo que todo el que comete pecado es esclavo del pecado;]
+
+### Juan 8:35 {#juan-8-35}
+ὁ δὲ δοῦλος οὐ μένει ἐν τῇ οἰκίᾳ εἰς τὸν αἰῶνα· ⸀ὁ υἱὸς μένει εἰς τὸν αἰῶνα. 
+[y el esclavo no queda en la casa para siempre; el hijo sí permanece para siempre.]
+
+### Juan 8:36 {#juan-8-36}
+ἐὰν οὖν ὁ υἱὸς ὑμᾶς ἐλευθερώσῃ, ὄντως ἐλεύθεροι ἔσεσθε. 
+[Así que, si el Hijo los hace libres, ustedes serán realmente libres.]
+
+### Juan 8:37 {#juan-8-37}
+οἶδα ὅτι σπέρμα Ἀβραάμ ἐστε· ἀλλὰ ζητεῖτέ με ἀποκτεῖναι, ὅτι ὁ λόγος ὁ ἐμὸς οὐ χωρεῖ ἐν ὑμῖν. 
+[Sé que ustedes son descendientes de Abraham; y sin embargo, me quieren matar porque Mi palabra no tiene aceptación en ustedes.]
+
+### Juan 8:38 {#juan-8-38}
+⸂ἃ ἐγὼ⸃ ἑώρακα παρὰ τῷ ⸀πατρὶ λαλῶ· καὶ ὑμεῖς οὖν ⸂ἃ ἠκούσατε⸃ παρὰ ⸂τοῦ πατρὸς⸃ ποιεῖτε. 
+[Yo hablo lo que he visto con Mi Padre; ustedes, entonces, hacen también lo que oyeron de su padre».]
+
+### Juan 8:39 {#juan-8-39}
+Ἀπεκρίθησαν καὶ εἶπαν αὐτῷ· Ὁ πατὴρ ἡμῶν Ἀβραάμ ἐστιν. λέγει αὐτοῖς ὁ Ἰησοῦς· Εἰ τέκνα τοῦ Ἀβραάμ ⸀ἐστε, τὰ ἔργα τοῦ Ἀβραὰμ ⸀ἐποιεῖτε· 
+[Ellos le contestaron: «Abraham es nuestro padre». Jesús les dijo*: «Si son hijos de Abraham, hagan las obras de Abraham.]
+
+### Juan 8:40 {#juan-8-40}
+νῦν δὲ ζητεῖτέ με ἀποκτεῖναι, ἄνθρωπον ὃς τὴν ἀλήθειαν ὑμῖν λελάληκα ἣν ἤκουσα παρὰ τοῦ θεοῦ· τοῦτο Ἀβραὰμ οὐκ ἐποίησεν. 
+[Pero ahora me quieren matar, a Mí que les he dicho la verdad que oí de Dios. Esto no lo hizo Abraham.]
+
+### Juan 8:41 {#juan-8-41}
+ὑμεῖς ποιεῖτε τὰ ἔργα τοῦ πατρὸς ὑμῶν. ⸀εἶπαν αὐτῷ· Ἡμεῖς ἐκ πορνείας ⸂οὐ γεγεννήμεθα⸃· ἕνα πατέρα ἔχομεν τὸν θεόν. 
+[Ustedes hacen las obras de su padre». Ellos le dijeron: «Nosotros no nacimos de fornicación; tenemos un Padre, es decir, Dios».]
+
+### Juan 8:42 {#juan-8-42}
+⸀εἶπεν αὐτοῖς ὁ Ἰησοῦς· Εἰ ὁ θεὸς πατὴρ ὑμῶν ἦν ἠγαπᾶτε ἂν ἐμέ, ἐγὼ γὰρ ἐκ τοῦ θεοῦ ἐξῆλθον καὶ ἥκω· οὐδὲ γὰρ ἀπʼ ἐμαυτοῦ ἐλήλυθα, ἀλλʼ ἐκεῖνός με ἀπέστειλεν. 
+[Jesús les dijo: «Si Dios fuera su Padre, me amarían, porque Yo salí de Dios y vine de Él, pues no he venido por Mi propia iniciativa, sino que Él me envió.]
+
+### Juan 8:43 {#juan-8-43}
+διὰ τί τὴν λαλιὰν τὴν ἐμὴν οὐ γινώσκετε; ὅτι οὐ δύνασθε ἀκούειν τὸν λόγον τὸν ἐμόν. 
+[¿Por qué no entienden lo que digo? Porque no pueden oír Mi palabra.]
+
+### Juan 8:44 {#juan-8-44}
+ὑμεῖς ἐκ τοῦ πατρὸς τοῦ διαβόλου ἐστὲ καὶ τὰς ἐπιθυμίας τοῦ πατρὸς ὑμῶν θέλετε ποιεῖν. ἐκεῖνος ἀνθρωποκτόνος ἦν ἀπʼ ἀρχῆς, καὶ ἐν τῇ ἀληθείᾳ ⸂οὐκ ἔστηκεν⸃, ὅτι οὐκ ἔστιν ἀλήθεια ἐν αὐτῷ. ὅταν λαλῇ τὸ ψεῦδος, ἐκ τῶν ἰδίων λαλεῖ, ὅτι ψεύστης ἐστὶν καὶ ὁ πατὴρ αὐτοῦ. 
+[Ustedes son de su padre el diablo y quieren hacer los deseos de su padre. Él fue un asesino desde el principio, y no se ha mantenido en la verdad porque no hay verdad en él. Cuando habla mentira, habla de su propia naturaleza, porque es mentiroso y el padre de la mentira.]
+
+### Juan 8:45 {#juan-8-45}
+ἐγὼ δὲ ὅτι τὴν ἀλήθειαν λέγω, οὐ πιστεύετέ μοι. 
+[Pero porque Yo digo la verdad, no me creen.]
+
+### Juan 8:46 {#juan-8-46}
+τίς ἐξ ὑμῶν ἐλέγχει με περὶ ἁμαρτίας; ⸀εἰ ἀλήθειαν λέγω, διὰ τί ὑμεῖς οὐ πιστεύετέ μοι; 
+[¿Quién de ustedes me prueba que tengo pecado? Y si digo verdad, ¿por qué ustedes no me creen?]
+
+### Juan 8:47 {#juan-8-47}
+ὁ ὢν ἐκ τοῦ θεοῦ τὰ ῥήματα τοῦ θεοῦ ἀκούει· διὰ τοῦτο ὑμεῖς οὐκ ἀκούετε ὅτι ἐκ τοῦ θεοῦ οὐκ ἐστέ. 
+[El que es de Dios escucha las palabras de Dios; por eso ustedes no escuchan, porque no son de Dios».]
+
+### Juan 8:48 {#juan-8-48}
+⸀Ἀπεκρίθησαν οἱ Ἰουδαῖοι καὶ εἶπαν αὐτῷ· Οὐ καλῶς λέγομεν ἡμεῖς ὅτι Σαμαρίτης εἶ σὺ καὶ δαιμόνιον ἔχεις; 
+[Los judíos le contestaron: «¿No decimos con razón que Tú eres samaritano y que tienes un demonio?».]
+
+### Juan 8:49 {#juan-8-49}
+ἀπεκρίθη Ἰησοῦς· Ἐγὼ δαιμόνιον οὐκ ἔχω, ἀλλὰ τιμῶ τὸν πατέρα μου, καὶ ὑμεῖς ἀτιμάζετέ με. 
+[Jesús respondió: «Yo no tengo ningún demonio, sino que honro a Mi Padre, y ustedes me deshonran a Mí.]
+
+### Juan 8:50 {#juan-8-50}
+ἐγὼ δὲ οὐ ζητῶ τὴν δόξαν μου· ἔστιν ὁ ζητῶν καὶ κρίνων. 
+[Pero Yo no busco Mi gloria; hay Uno que la busca, y juzga.]
+
+### Juan 8:51 {#juan-8-51}
+ἀμὴν ἀμὴν λέγω ὑμῖν, ἐάν τις τὸν ⸂ἐμὸν λόγον⸃ τηρήσῃ, θάνατον οὐ μὴ θεωρήσῃ εἰς τὸν αἰῶνα. 
+[En verdad les digo que si alguien guarda Mi palabra, no verá jamás la muerte».]
+
+### Juan 8:52 {#juan-8-52}
+⸀εἶπον αὐτῷ οἱ Ἰουδαῖοι· Νῦν ἐγνώκαμεν ὅτι δαιμόνιον ἔχεις. Ἀβραὰμ ἀπέθανεν καὶ οἱ προφῆται, καὶ σὺ λέγεις· Ἐάν τις τὸν λόγον μου τηρήσῃ, οὐ μὴ γεύσηται θανάτου εἰς τὸν αἰῶνα· 
+[Los judíos le dijeron: «Ahora sí sabemos que tienes un demonio. Abraham murió, y también los profetas, y Tú dices: “Si alguien guarda Mi palabra no probará jamás la muerte”.]
+
+### Juan 8:53 {#juan-8-53}
+μὴ σὺ μείζων εἶ τοῦ πατρὸς ἡμῶν Ἀβραάμ, ὅστις ἀπέθανεν; καὶ οἱ προφῆται ἀπέθανον· τίνα ⸀σεαυτὸν ποιεῖς; 
+[¿Eres Tú acaso mayor que nuestro padre Abraham que murió? Los profetas también murieron; ¿quién crees que eres?».]
+
+### Juan 8:54 {#juan-8-54}
+ἀπεκρίθη Ἰησοῦς· Ἐὰν ἐγὼ ⸀δοξάσω ἐμαυτόν, ἡ δόξα μου οὐδέν ἐστιν· ἔστιν ὁ πατήρ μου ὁ δοξάζων με, ὃν ὑμεῖς λέγετε ὅτι θεὸς ⸀ἡμῶν ἐστιν, 
+[Jesús respondió: «Si Yo mismo me glorifico, Mi gloria no es nada; es Mi Padre el que me glorifica, de quien ustedes dicen: “Él es nuestro Dios”.]
+
+### Juan 8:55 {#juan-8-55}
+καὶ οὐκ ἐγνώκατε αὐτόν, ἐγὼ δὲ οἶδα αὐτόν· κἂν εἴπω ὅτι οὐκ οἶδα αὐτόν, ἔσομαι ὅμοιος ⸀ὑμῖν ψεύστης· ἀλλὰ οἶδα αὐτὸν καὶ τὸν λόγον αὐτοῦ τηρῶ. 
+[Ustedes no lo han conocido, pero Yo lo conozco; y si digo que no lo conozco seré un mentiroso como ustedes; pero sí lo conozco y guardo Su palabra.]
+
+### Juan 8:56 {#juan-8-56}
+Ἀβραὰμ ὁ πατὴρ ὑμῶν ἠγαλλιάσατο ἵνα ἴδῃ τὴν ἡμέραν τὴν ἐμήν, καὶ εἶδεν καὶ ἐχάρη. 
+[Abraham, el padre de ustedes, se regocijó esperando ver Mi día; y lo vio y se alegró».]
+
+### Juan 8:57 {#juan-8-57}
+εἶπον οὖν οἱ Ἰουδαῖοι πρὸς αὐτόν· Πεντήκοντα ἔτη οὔπω ἔχεις καὶ Ἀβραὰμ ἑώρακας; 
+[Por esto los judíos le dijeron: «Aún no tienes cincuenta años, ¿y has visto a Abraham?».]
+
+### Juan 8:58 {#juan-8-58}
+εἶπεν ⸀αὐτοῖς Ἰησοῦς· Ἀμὴν ἀμὴν λέγω ὑμῖν, πρὶν Ἀβραὰμ γενέσθαι ἐγὼ εἰμί. 
+[Jesús les dijo: «En verdad les digo, que antes que Abraham naciera, Yo soy».]
+
+### Juan 8:59 {#juan-8-59}
+ἦραν οὖν λίθους ἵνα βάλωσιν ἐπʼ αὐτόν· Ἰησοῦς δὲ ἐκρύβη καὶ ἐξῆλθεν ἐκ τοῦ ⸀ἱεροῦ. 
+[Entonces tomaron piedras para tirárselas, pero Jesús se ocultó y salió del templo.]
+
+### Juan 9:1 {#juan-9-1}
+Καὶ παράγων εἶδεν ἄνθρωπον τυφλὸν ἐκ γενετῆς. 
+[Al pasar Jesús, vio a un hombre ciego de nacimiento.]
+
+### Juan 9:2 {#juan-9-2}
+καὶ ἠρώτησαν αὐτὸν οἱ μαθηταὶ αὐτοῦ λέγοντες· Ῥαββί, τίς ἥμαρτεν, οὗτος ἢ οἱ γονεῖς αὐτοῦ, ἵνα τυφλὸς γεννηθῇ; 
+[Y Sus discípulos le preguntaron: «Rabí, ¿quién pecó, este o sus padres, para que naciera ciego?».]
+
+### Juan 9:3 {#juan-9-3}
+ἀπεκρίθη Ἰησοῦς· Οὔτε οὗτος ἥμαρτεν οὔτε οἱ γονεῖς αὐτοῦ, ἀλλʼ ἵνα φανερωθῇ τὰ ἔργα τοῦ θεοῦ ἐν αὐτῷ. 
+[Jesús respondió: «Ni este pecó, ni sus padres; sino que está ciego para que las obras de Dios se manifiesten en él.]
+
+### Juan 9:4 {#juan-9-4}
+⸀ἡμᾶς δεῖ ἐργάζεσθαι τὰ ἔργα τοῦ πέμψαντός με ἕως ἡμέρα ἐστίν· ἔρχεται νὺξ ὅτε οὐδεὶς δύναται ἐργάζεσθαι. 
+[Nosotros debemos hacer las obras del que me envió mientras es de día; la noche viene cuando nadie puede trabajar.]
+
+### Juan 9:5 {#juan-9-5}
+ὅταν ἐν τῷ κόσμῳ ὦ, φῶς εἰμι τοῦ κόσμου. 
+[Mientras estoy en el mundo, Yo soy la Luz del mundo».]
+
+### Juan 9:6 {#juan-9-6}
+ταῦτα εἰπὼν ἔπτυσεν χαμαὶ καὶ ἐποίησεν πηλὸν ἐκ τοῦ πτύσματος, καὶ ⸀ἐπέχρισεν ⸀αὐτοῦ τὸν πηλὸν ἐπὶ τοὺς ⸀ὀφθαλμούς, 
+[Habiendo dicho esto, escupió en tierra, e hizo barro con la saliva y le untó el barro en los ojos al ciego,]
+
+### Juan 9:7 {#juan-9-7}
+καὶ εἶπεν αὐτῷ· Ὕπαγε νίψαι εἰς τὴν κολυμβήθραν τοῦ Σιλωάμ (ὃ ἑρμηνεύεται Ἀπεσταλμένος). ἀπῆλθεν οὖν καὶ ἐνίψατο, καὶ ἦλθεν βλέπων. 
+[y le dijo: «Ve y lávate en el estanque de Siloé» (que quiere decir Enviado). El ciego fue, pues, y se lavó y regresó viendo.]
+
+### Juan 9:8 {#juan-9-8}
+οἱ οὖν γείτονες καὶ οἱ θεωροῦντες αὐτὸν τὸ πρότερον ὅτι ⸀προσαίτης ἦν ἔλεγον· Οὐχ οὗτός ἐστιν ὁ καθήμενος καὶ προσαιτῶν; 
+[Entonces los vecinos y los que antes lo habían visto que era mendigo, decían: «¿No es este el que se sentaba y mendigaba?».]
+
+### Juan 9:9 {#juan-9-9}
+ἄλλοι ἔλεγον ὅτι Οὗτός ἐστιν· ἄλλοι ⸂ἔλεγον· Οὐχί, ἀλλὰ⸃ ὅμοιος αὐτῷ ἐστιν. ἐκεῖνος ἔλεγεν ὅτι Ἐγώ εἰμι. 
+[«Él es», decían unos. «No, pero se parece a él», decían otros. Él decía: «Yo soy».]
+
+### Juan 9:10 {#juan-9-10}
+ἔλεγον οὖν αὐτῷ· ⸀Πῶς ἠνεῴχθησάν σου οἱ ὀφθαλμοί; 
+[Entonces le decían: «¿Cómo te fueron abiertos los ojos?».]
+
+### Juan 9:11 {#juan-9-11}
+ἀπεκρίθη ⸀ἐκεῖνος· ⸂Ὁ ἄνθρωπος ὁ⸃ λεγόμενος Ἰησοῦς πηλὸν ἐποίησεν καὶ ἐπέχρισέν μου τοὺς ὀφθαλμοὺς καὶ εἶπέν μοι ⸀ὅτι Ὕπαγε εἰς ⸀τὸν Σιλωὰμ καὶ νίψαι· ἀπελθὼν ⸀οὖν καὶ νιψάμενος ἀνέβλεψα. 
+[Él respondió: «El hombre que se llama Jesús hizo barro, lo untó sobre mis ojos y me dijo: “Ve al estanque de Siloé y lávate”. Así que fui, me lavé y recibí la vista».]
+
+### Juan 9:12 {#juan-9-12}
+⸂καὶ εἶπαν⸃ αὐτῷ· Ποῦ ἐστιν ἐκεῖνος; λέγει· Οὐκ οἶδα. 
+[«¿Dónde está Él?», le preguntaron. Y él les dijo*: «No lo sé».]
+
+### Juan 9:13 {#juan-9-13}
+Ἄγουσιν αὐτὸν πρὸς τοὺς Φαρισαίους τόν ποτε τυφλόν. 
+[Llevaron* ante los fariseos al que antes había sido ciego.]
+
+### Juan 9:14 {#juan-9-14}
+ἦν δὲ σάββατον ⸂ἐν ᾗ ἡμέρᾳ⸃ τὸν πηλὸν ἐποίησεν ὁ Ἰησοῦς καὶ ἀνέῳξεν αὐτοῦ τοὺς ὀφθαλμούς. 
+[Y era día de reposo el día en que Jesús hizo el barro y le abrió los ojos.]
+
+### Juan 9:15 {#juan-9-15}
+πάλιν οὖν ἠρώτων αὐτὸν καὶ οἱ Φαρισαῖοι πῶς ἀνέβλεψεν. ὁ δὲ εἶπεν αὐτοῖς· Πηλὸν ἐπέθηκέν μου ἐπὶ τοὺς ὀφθαλμούς, καὶ ἐνιψάμην, καὶ βλέπω. 
+[Por eso los fariseos volvieron también a preguntarle cómo había recibido la vista. Y él les dijo: «Me puso barro sobre los ojos, y me lavé y veo».]
+
+### Juan 9:16 {#juan-9-16}
+ἔλεγον οὖν ἐκ τῶν Φαρισαίων τινές· ⸂Οὐκ ἔστιν οὗτος παρὰ θεοῦ ὁ ἄνθρωπος⸃, ὅτι τὸ σάββατον οὐ τηρεῖ. ⸀ἄλλοι ἔλεγον· Πῶς δύναται ἄνθρωπος ἁμαρτωλὸς τοιαῦτα σημεῖα ποιεῖν; καὶ σχίσμα ἦν ἐν αὐτοῖς. 
+[Por eso algunos de los fariseos decían: «Este hombre no viene de Dios, porque no guarda el día de reposo». Pero otros decían: «¿Cómo puede un hombre pecador hacer tales señales?». Y había división entre ellos.]
+
+### Juan 9:17 {#juan-9-17}
+λέγουσιν ⸀οὖν τῷ τυφλῷ πάλιν· ⸂Τί σὺ⸃ λέγεις περὶ αὐτοῦ, ὅτι ἠνέῳξέν σου τοὺς ὀφθαλμούς; ὁ δὲ εἶπεν ὅτι Προφήτης ἐστίν. 
+[Entonces preguntaron* otra vez al ciego: «¿Qué dices tú de Él, ya que te abrió los ojos?». «Es un profeta», les respondió.]
+
+### Juan 9:18 {#juan-9-18}
+Οὐκ ἐπίστευσαν οὖν οἱ Ἰουδαῖοι περὶ αὐτοῦ ὅτι ⸂ἦν τυφλὸς⸃ καὶ ἀνέβλεψεν, ἕως ὅτου ἐφώνησαν τοὺς γονεῖς αὐτοῦ ⸂τοῦ ἀναβλέψαντος⸃ 
+[Pero los judíos no le creyeron que había sido ciego, y que había recibido la vista, hasta que llamaron a los padres del que había recibido la vista,]
+
+### Juan 9:19 {#juan-9-19}
+καὶ ἠρώτησαν αὐτοὺς λέγοντες· Οὗτός ἐστιν ὁ υἱὸς ὑμῶν, ὃν ὑμεῖς λέγετε ὅτι τυφλὸς ἐγεννήθη; πῶς οὖν ⸂βλέπει ἄρτι⸃; 
+[y les preguntaron: «¿Es este su hijo, el que ustedes dicen que nació ciego? ¿Cómo es que ahora ve?».]
+
+### Juan 9:20 {#juan-9-20}
+ἀπεκρίθησαν ⸀οὖν οἱ γονεῖς αὐτοῦ καὶ εἶπαν· Οἴδαμεν ὅτι οὗτός ἐστιν ὁ υἱὸς ἡμῶν καὶ ὅτι τυφλὸς ἐγεννήθη· 
+[Entonces sus padres les contestaron: «Sabemos que este es nuestro hijo, y que nació ciego;]
+
+### Juan 9:21 {#juan-9-21}
+πῶς δὲ νῦν βλέπει οὐκ οἴδαμεν, ἢ τίς ἤνοιξεν αὐτοῦ τοὺς ὀφθαλμοὺς ἡμεῖς οὐκ οἴδαμεν· ⸂αὐτὸν ἐρωτήσατε, ἡλικίαν ἔχει⸃, αὐτὸς περὶ ἑαυτοῦ λαλήσει. 
+[pero cómo es que ahora ve, no lo sabemos; o quién le abrió los ojos, nosotros no lo sabemos. Pregúntenle a él; ya es mayor de edad, él hablará por sí mismo».]
+
+### Juan 9:22 {#juan-9-22}
+ταῦτα εἶπαν οἱ γονεῖς αὐτοῦ ὅτι ἐφοβοῦντο τοὺς Ἰουδαίους, ἤδη γὰρ συνετέθειντο οἱ Ἰουδαῖοι ἵνα ἐάν τις αὐτὸν ὁμολογήσῃ χριστόν, ἀποσυνάγωγος γένηται. 
+[Sus padres dijeron esto porque tenían miedo a los judíos; porque los judíos ya se habían puesto de acuerdo en que si alguien confesaba que Jesús era el Cristo, fuera expulsado de la sinagoga.]
+
+### Juan 9:23 {#juan-9-23}
+διὰ τοῦτο οἱ γονεῖς αὐτοῦ εἶπαν ὅτι Ἡλικίαν ἔχει, αὐτὸν ⸀ἐπερωτήσατε. 
+[Por eso sus padres dijeron: «Ya es mayor de edad; pregúntenle a él».]
+
+### Juan 9:24 {#juan-9-24}
+Ἐφώνησαν οὖν ⸂τὸν ἄνθρωπον ἐκ δευτέρου⸃ ὃς ἦν τυφλὸς καὶ εἶπαν αὐτῷ· Δὸς δόξαν τῷ θεῷ· ἡμεῖς οἴδαμεν ὅτι ⸂οὗτος ὁ ἄνθρωπος⸃ ἁμαρτωλός ἐστιν. 
+[Por segunda vez los judíos llamaron al hombre que había sido ciego y le dijeron: «Da gloria a Dios; nosotros sabemos que este hombre es un pecador».]
+
+### Juan 9:25 {#juan-9-25}
+ἀπεκρίθη οὖν ⸀ἐκεῖνος· Εἰ ἁμαρτωλός ἐστιν οὐκ οἶδα· ἓν οἶδα ὅτι τυφλὸς ὢν ἄρτι βλέπω. 
+[Entonces él les contestó: «Si es pecador, no lo sé; una cosa sé: que yo era ciego y ahora veo».]
+
+### Juan 9:26 {#juan-9-26}
+εἶπον ⸂οὖν αὐτῷ⸃· Τί ἐποίησέν σοι; πῶς ἤνοιξέν σου τοὺς ὀφθαλμούς; 
+[Ellos volvieron a preguntarle: «¿Qué te hizo? ¿Cómo te abrió los ojos?».]
+
+### Juan 9:27 {#juan-9-27}
+ἀπεκρίθη αὐτοῖς· Εἶπον ὑμῖν ἤδη καὶ οὐκ ἠκούσατε· τί πάλιν θέλετε ἀκούειν; μὴ καὶ ὑμεῖς θέλετε αὐτοῦ μαθηταὶ γενέσθαι; 
+[Él les contestó: «Ya les dije y no escucharon; ¿por qué quieren oírlo otra vez? ¿Es que también ustedes quieren hacerse discípulos suyos?».]
+
+### Juan 9:28 {#juan-9-28}
+⸀ἐλοιδόρησαν αὐτὸν καὶ εἶπον· Σὺ ⸂μαθητὴς εἶ⸃ ἐκείνου, ἡμεῖς δὲ τοῦ Μωϋσέως ἐσμὲν μαθηταί· 
+[Entonces lo insultaron, y le dijeron: «Tú eres discípulo de ese hombre; pero nosotros somos discípulos de Moisés.]
+
+### Juan 9:29 {#juan-9-29}
+ἡμεῖς οἴδαμεν ὅτι Μωϋσεῖ λελάληκεν ὁ θεός, τοῦτον δὲ οὐκ οἴδαμεν πόθεν ἐστίν. 
+[Nosotros sabemos que Dios habló a Moisés, pero en cuanto a Este, no sabemos de dónde es».]
+
+### Juan 9:30 {#juan-9-30}
+ἀπεκρίθη ὁ ἄνθρωπος καὶ εἶπεν αὐτοῖς· Ἐν ⸂τούτῳ γὰρ τὸ⸃ θαυμαστόν ἐστιν ὅτι ὑμεῖς οὐκ οἴδατε πόθεν ἐστίν, καὶ ἤνοιξέν μου τοὺς ὀφθαλμούς. 
+[El hombre les respondió: «Pues en esto hay algo asombroso, que ustedes no sepan de dónde es, y sin embargo, a mí me abrió los ojos.]
+
+### Juan 9:31 {#juan-9-31}
+⸀οἴδαμεν ὅτι ⸂ἁμαρτωλῶν ὁ θεὸς⸃ οὐκ ἀκούει, ἀλλʼ ἐάν τις θεοσεβὴς ᾖ καὶ τὸ θέλημα αὐτοῦ ποιῇ τούτου ἀκούει. 
+[Sabemos que Dios no oye a los pecadores; pero si alguien teme a Dios y hace Su voluntad, a este oye.]
+
+### Juan 9:32 {#juan-9-32}
+ἐκ τοῦ αἰῶνος οὐκ ἠκούσθη ὅτι ἠνέῳξέν τις ὀφθαλμοὺς τυφλοῦ γεγεννημένου· 
+[Desde el principio jamás se ha oído decir que alguien abriera los ojos a un ciego de nacimiento.]
+
+### Juan 9:33 {#juan-9-33}
+εἰ μὴ ἦν οὗτος παρὰ θεοῦ, οὐκ ἠδύνατο ποιεῖν οὐδέν. 
+[Si Este no viniera de Dios, no podría hacer nada».]
+
+### Juan 9:34 {#juan-9-34}
+ἀπεκρίθησαν καὶ εἶπαν αὐτῷ· Ἐν ἁμαρτίαις σὺ ἐγεννήθης ὅλος, καὶ σὺ διδάσκεις ἡμᾶς; καὶ ἐξέβαλον αὐτὸν ἔξω. 
+[Ellos le respondieron: «Tú naciste enteramente en pecados, ¿y tú nos enseñas a nosotros?». Y lo echaron fuera.]
+
+### Juan 9:35 {#juan-9-35}
+⸀Ἤκουσεν Ἰησοῦς ὅτι ἐξέβαλον αὐτὸν ἔξω, καὶ εὑρὼν αὐτὸν ⸀εἶπεν· Σὺ πιστεύεις εἰς τὸν υἱὸν τοῦ ⸀ἀνθρώπου; 
+[Jesús oyó decir que lo habían echado fuera, y cuando lo encontró, le dijo: «¿Crees tú en el Hijo del Hombre?».]
+
+### Juan 9:36 {#juan-9-36}
+ἀπεκρίθη ἐκεῖνος καὶ εἶπεν· Καὶ τίς ἐστιν, κύριε, ἵνα πιστεύσω εἰς αὐτόν; 
+[Él le respondió: «¿Y quién es, Señor, para que yo crea en Él?».]
+
+### Juan 9:37 {#juan-9-37}
+⸀εἶπεν αὐτῷ ὁ Ἰησοῦς· Καὶ ἑώρακας αὐτὸν καὶ ὁ λαλῶν μετὰ σοῦ ἐκεῖνός ἐστιν. 
+[Jesús le dijo: «Pues tú lo has visto, y el que está hablando contigo, Ese es».]
+
+### Juan 9:38 {#juan-9-38}
+ὁ δὲ ἔφη· Πιστεύω, κύριε· καὶ προσεκύνησεν αὐτῷ. 
+[Él entonces dijo: «Creo, Señor». Y lo adoró.]
+
+### Juan 9:39 {#juan-9-39}
+καὶ εἶπεν ὁ Ἰησοῦς· Εἰς κρίμα ἐγὼ εἰς τὸν κόσμον τοῦτον ἦλθον, ἵνα οἱ μὴ βλέποντες βλέπωσιν καὶ οἱ βλέποντες τυφλοὶ γένωνται. 
+[Y Jesús dijo: «Yo vine a este mundo para juicio; para que los que no ven, vean, y para que los que ven se vuelvan ciegos».]
+
+### Juan 9:40 {#juan-9-40}
+⸀ἤκουσαν ἐκ τῶν Φαρισαίων ταῦτα οἱ ⸂μετʼ αὐτοῦ ὄντες⸃, καὶ εἶπον αὐτῷ· Μὴ καὶ ἡμεῖς τυφλοί ἐσμεν; 
+[Algunos de los fariseos que estaban con Él oyeron esto y le dijeron: «¿Acaso nosotros también somos ciegos?».]
+
+### Juan 9:41 {#juan-9-41}
+εἶπεν αὐτοῖς ὁ Ἰησοῦς· Εἰ τυφλοὶ ἦτε, οὐκ ἂν εἴχετε ἁμαρτίαν· νῦν δὲ λέγετε ὅτι Βλέπομεν· ⸀ἡ ἁμαρτία ὑμῶν μένει. 
+[Jesús les dijo: «Si ustedes fueran ciegos, no tendrían pecado; pero ahora, porque dicen: “Vemos”, su pecado permanece.]
+
+### Juan 10:1 {#juan-10-1}
+Ἀμὴν ἀμὴν λέγω ὑμῖν, ὁ μὴ εἰσερχόμενος διὰ τῆς θύρας εἰς τὴν αὐλὴν τῶν προβάτων ἀλλὰ ἀναβαίνων ἀλλαχόθεν ἐκεῖνος κλέπτης ἐστὶν καὶ λῃστής· 
+[En verdad les digo, que el que no entra por la puerta en el redil de las ovejas, sino que sube por otra parte, ese es ladrón y salteador.]
+
+### Juan 10:2 {#juan-10-2}
+ὁ δὲ εἰσερχόμενος διὰ τῆς θύρας ποιμήν ἐστιν τῶν προβάτων. 
+[Pero el que entra por la puerta, es el pastor de las ovejas.]
+
+### Juan 10:3 {#juan-10-3}
+τούτῳ ὁ θυρωρὸς ἀνοίγει, καὶ τὰ πρόβατα τῆς φωνῆς αὐτοῦ ἀκούει καὶ τὰ ἴδια πρόβατα ⸀φωνεῖ κατʼ ὄνομα καὶ ἐξάγει αὐτά. 
+[A este le abre el portero, y las ovejas oyen su voz; llama a sus ovejas por nombre y las conduce afuera.]
+
+### Juan 10:4 {#juan-10-4}
+⸀ὅταν τὰ ἴδια ⸀πάντα ἐκβάλῃ, ἔμπροσθεν αὐτῶν πορεύεται, καὶ τὰ πρόβατα αὐτῷ ἀκολουθεῖ, ὅτι οἴδασιν τὴν φωνὴν αὐτοῦ· 
+[Cuando saca todas las suyas, va delante de ellas, y las ovejas lo siguen porque conocen su voz.]
+
+### Juan 10:5 {#juan-10-5}
+ἀλλοτρίῳ δὲ οὐ μὴ ⸀ἀκολουθήσουσιν ἀλλὰ φεύξονται ἀπʼ αὐτοῦ, ὅτι οὐκ οἴδασι τῶν ἀλλοτρίων τὴν φωνήν. 
+[Pero a un desconocido no seguirán, sino que huirán de él, porque no conocen la voz de los extraños».]
+
+### Juan 10:6 {#juan-10-6}
+ταύτην τὴν παροιμίαν εἶπεν αὐτοῖς ὁ Ἰησοῦς· ἐκεῖνοι δὲ οὐκ ἔγνωσαν τίνα ⸀ἦν ἃ ἐλάλει αὐτοῖς. 
+[Jesús les habló por medio de esta comparación, pero ellos no entendieron qué era lo que les decía.]
+
+### Juan 10:7 {#juan-10-7}
+Εἶπεν οὖν πάλιν ⸀αὐτοῖς ὁ Ἰησοῦς· Ἀμὴν ἀμὴν λέγω ὑμῖν ⸀ὅτι ἐγώ εἰμι ἡ θύρα τῶν προβάτων. 
+[Entonces Jesús les dijo de nuevo: «En verdad les digo: Yo soy la puerta de las ovejas.]
+
+### Juan 10:8 {#juan-10-8}
+πάντες ὅσοι ἦλθον ⸂πρὸ ἐμοῦ⸃ κλέπται εἰσὶν καὶ λῃσταί· ἀλλʼ οὐκ ἤκουσαν αὐτῶν τὰ πρόβατα. 
+[Todos los que vinieron antes de Mí son ladrones y salteadores, pero las ovejas no les hicieron caso.]
+
+### Juan 10:9 {#juan-10-9}
+ἐγώ εἰμι ἡ θύρα· διʼ ἐμοῦ ἐάν τις εἰσέλθῃ σωθήσεται καὶ εἰσελεύσεται καὶ ἐξελεύσεται καὶ νομὴν εὑρήσει. 
+[Yo soy la puerta; si alguno entra por Mí, será salvo; y entrará y saldrá y hallará pasto.]
+
+### Juan 10:10 {#juan-10-10}
+ὁ κλέπτης οὐκ ἔρχεται εἰ μὴ ἵνα κλέψῃ καὶ θύσῃ καὶ ἀπολέσῃ· ἐγὼ ἦλθον ἵνα ζωὴν ἔχωσιν καὶ περισσὸν ἔχωσιν. 
+[El ladrón solo viene para robar, matar y destruir. Yo he venido para que tengan vida, y para que la tengan en abundancia.]
+
+### Juan 10:11 {#juan-10-11}
+Ἐγώ εἰμι ὁ ποιμὴν ὁ καλός· ὁ ποιμὴν ὁ καλὸς τὴν ψυχὴν αὐτοῦ τίθησιν ὑπὲρ τῶν προβάτων· 
+[Yo soy el buen pastor; el buen pastor da Su vida por las ovejas.]
+
+### Juan 10:12 {#juan-10-12}
+ὁ ⸀μισθωτὸς καὶ οὐκ ὢν ποιμήν, οὗ οὐκ ⸀ἔστιν τὰ πρόβατα ἴδια, θεωρεῖ τὸν λύκον ἐρχόμενον καὶ ἀφίησιν τὰ πρόβατα καὶ φεύγει— καὶ ὁ λύκος ἁρπάζει αὐτὰ καὶ ⸀σκορπίζει— 
+[Pero el que es un asalariado y no un pastor, que no es el dueño de las ovejas, ve venir al lobo, abandona las ovejas y huye, entonces el lobo las arrebata y las dispersa.]
+
+### Juan 10:13 {#juan-10-13}
+⸀ὅτι μισθωτός ἐστιν καὶ οὐ μέλει αὐτῷ περὶ τῶν προβάτων. 
+[El asalariado huye porque solo trabaja por el pago y no le importan las ovejas.]
+
+### Juan 10:14 {#juan-10-14}
+ἐγώ εἰμι ὁ ποιμὴν ὁ καλός, καὶ γινώσκω τὰ ἐμὰ καὶ ⸂γινώσκουσί με τὰ ἐμά⸃, 
+[Yo soy el buen pastor, y conozco Mis ovejas y ellas me conocen,]
+
+### Juan 10:15 {#juan-10-15}
+καθὼς γινώσκει με ὁ πατὴρ κἀγὼ γινώσκω τὸν πατέρα, καὶ τὴν ψυχήν μου τίθημι ὑπὲρ τῶν προβάτων. 
+[al igual que el Padre me conoce y Yo conozco al Padre, y doy Mi vida por las ovejas.]
+
+### Juan 10:16 {#juan-10-16}
+καὶ ἄλλα πρόβατα ἔχω ἃ οὐκ ἔστιν ἐκ τῆς αὐλῆς ταύτης· κἀκεῖνα ⸂δεῖ με⸃ ἀγαγεῖν, καὶ τῆς φωνῆς μου ἀκούσουσιν, καὶ ⸀γενήσονται μία ποίμνη, εἷς ποιμήν. 
+[Tengo otras ovejas que no son de este redil; a esas también Yo debo traerlas, y oirán Mi voz, y serán un rebaño con un solo pastor.]
+
+### Juan 10:17 {#juan-10-17}
+διὰ τοῦτό ⸂με ὁ πατὴρ⸃ ἀγαπᾷ ὅτι ἐγὼ τίθημι τὴν ψυχήν μου, ἵνα πάλιν λάβω αὐτήν. 
+[Por eso el Padre me ama, porque Yo doy Mi vida para tomarla de nuevo.]
+
+### Juan 10:18 {#juan-10-18}
+οὐδεὶς ⸀αἴρει αὐτὴν ἀπʼ ἐμοῦ, ἀλλʼ ἐγὼ τίθημι αὐτὴν ἀπʼ ἐμαυτοῦ. ἐξουσίαν ἔχω θεῖναι αὐτήν, καὶ ἐξουσίαν ἔχω πάλιν λαβεῖν αὐτήν· ταύτην τὴν ἐντολὴν ἔλαβον παρὰ τοῦ πατρός μου. 
+[Nadie me la quita, sino que Yo la doy de Mi propia voluntad. Tengo autoridad para darla, y tengo autoridad para tomarla de nuevo. Este mandamiento recibí de Mi Padre».]
+
+### Juan 10:19 {#juan-10-19}
+⸀Σχίσμα πάλιν ἐγένετο ἐν τοῖς Ἰουδαίοις διὰ τοὺς λόγους τούτους. 
+[Volvió a surgir una división entre los judíos por estas palabras.]
+
+### Juan 10:20 {#juan-10-20}
+ἔλεγον δὲ πολλοὶ ἐξ αὐτῶν· Δαιμόνιον ἔχει καὶ μαίνεται· τί αὐτοῦ ἀκούετε; 
+[Y muchos de ellos decían: «Tiene un demonio y está loco. ¿Por qué le hacen caso?».]
+
+### Juan 10:21 {#juan-10-21}
+⸀ἄλλοι ἔλεγον· Ταῦτα τὰ ῥήματα οὐκ ἔστιν δαιμονιζομένου· μὴ δαιμόνιον δύναται τυφλῶν ὀφθαλμοὺς ⸀ἀνοῖξαι; 
+[Otros decían: «Estas no son palabras de un endemoniado. ¿Puede acaso un demonio abrir los ojos de los ciegos?».]
+
+### Juan 10:22 {#juan-10-22}
+Ἐγένετο ⸀τότε τὰ ἐγκαίνια ἐν ⸀τοῖς Ἱεροσολύμοις· ⸀χειμὼν ἦν, 
+[En esos días se celebraba en Jerusalén la fiesta de la Dedicación.]
+
+### Juan 10:23 {#juan-10-23}
+καὶ περιεπάτει ὁ Ἰησοῦς ἐν τῷ ἱερῷ ἐν τῇ στοᾷ ⸀τοῦ Σολομῶνος. 
+[Era invierno, y Jesús andaba por el templo, en el pórtico de Salomón.]
+
+### Juan 10:24 {#juan-10-24}
+ἐκύκλωσαν οὖν αὐτὸν οἱ Ἰουδαῖοι καὶ ἔλεγον αὐτῷ· Ἕως πότε τὴν ψυχὴν ἡμῶν αἴρεις; εἰ σὺ εἶ ὁ χριστός, εἰπὲ ἡμῖν παρρησίᾳ. 
+[Entonces los judíos lo rodearon, y le decían: «¿Hasta cuándo nos vas a tener en suspenso? Si Tú eres el Cristo, dínoslo claramente».]
+
+### Juan 10:25 {#juan-10-25}
+ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς· Εἶπον ὑμῖν καὶ οὐ πιστεύετε· τὰ ἔργα ἃ ἐγὼ ποιῶ ἐν τῷ ὀνόματι τοῦ πατρός μου ταῦτα μαρτυρεῖ περὶ ἐμοῦ· 
+[Jesús les respondió: «Se lo he dicho a ustedes y no creen; las obras que Yo hago en el nombre de Mi Padre, estas dan testimonio de Mí.]
+
+### Juan 10:26 {#juan-10-26}
+ἀλλὰ ὑμεῖς οὐ πιστεύετε, ⸂ὅτι οὐκ⸃ ἐστὲ ἐκ τῶν προβάτων τῶν ⸀ἐμῶν. 
+[Pero ustedes no creen porque no son de Mis ovejas.]
+
+### Juan 10:27 {#juan-10-27}
+τὰ πρόβατα τὰ ἐμὰ τῆς φωνῆς μου ⸀ἀκούουσιν, κἀγὼ γινώσκω αὐτά, καὶ ἀκολουθοῦσίν μοι, 
+[Mis ovejas oyen Mi voz; Yo las conozco y me siguen.]
+
+### Juan 10:28 {#juan-10-28}
+κἀγὼ ⸂δίδωμι αὐτοῖς ζωὴν αἰώνιον⸃, καὶ οὐ μὴ ἀπόλωνται εἰς τὸν αἰῶνα, καὶ οὐχ ἁρπάσει τις αὐτὰ ἐκ τῆς χειρός μου. 
+[Yo les doy vida eterna y jamás perecerán, y nadie las arrebatará de Mi mano.]
+
+### Juan 10:29 {#juan-10-29}
+ὁ πατήρ μου ⸀ὃ δέδωκέν ⸀μοι ⸂πάντων μεῖζων⸃ ἐστίν, καὶ οὐδεὶς δύναται ἁρπάζειν ἐκ τῆς χειρὸς τοῦ ⸀πατρός. 
+[Mi Padre que me las dio es mayor que todos, y nadie las puede arrebatar de la mano del Padre.]
+
+### Juan 10:30 {#juan-10-30}
+ἐγὼ καὶ ὁ πατὴρ ἕν ἐσμεν. 
+[Yo y el Padre somos uno».]
+
+### Juan 10:31 {#juan-10-31}
+Ἐβάστασαν ⸀οὖν πάλιν λίθους οἱ Ἰουδαῖοι ἵνα λιθάσωσιν αὐτόν. 
+[Los judíos volvieron a tomar piedras para tirárselas.]
+
+### Juan 10:32 {#juan-10-32}
+ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς· Πολλὰ ⸂ἔργα καλὰ ἔδειξα ὑμῖν⸃ ἐκ τοῦ ⸀πατρός· διὰ ποῖον αὐτῶν ἔργον ⸂ἐμὲ λιθάζετε⸃; 
+[Entonces Jesús les dijo: «Les he mostrado muchas obras buenas que son del Padre. ¿Por cuál de ellas me apedrean?».]
+
+### Juan 10:33 {#juan-10-33}
+ἀπεκρίθησαν αὐτῷ οἱ ⸀Ἰουδαῖοι· Περὶ καλοῦ ἔργου οὐ λιθάζομέν σε ἀλλὰ περὶ βλασφημίας, καὶ ὅτι σὺ ἄνθρωπος ὢν ποιεῖς σεαυτὸν θεόν. 
+[Los judíos le contestaron: «No te apedreamos por ninguna obra buena, sino por blasfemia; y porque Tú, siendo hombre, te haces Dios».]
+
+### Juan 10:34 {#juan-10-34}
+ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς· Οὐκ ἔστιν γεγραμμένον ἐν τῷ νόμῳ ὑμῶν ⸀ὅτι Ἐγὼ εἶπα· Θεοί ἐστε; 
+[Jesús les respondió: «¿No está escrito en su ley: “YO DIJE: SON DIOSES”?]
+
+### Juan 10:35 {#juan-10-35}
+εἰ ἐκείνους εἶπεν θεοὺς πρὸς οὓς ὁ λόγος τοῦ θεοῦ ἐγένετο, καὶ οὐ δύναται λυθῆναι ἡ γραφή, 
+[Si a aquellos, a quienes vino la palabra de Dios, los llamó dioses, (y la Escritura no se puede violar),]
+
+### Juan 10:36 {#juan-10-36}
+ὃν ὁ πατὴρ ἡγίασεν καὶ ἀπέστειλεν εἰς τὸν κόσμον ὑμεῖς λέγετε ὅτι Βλασφημεῖς, ὅτι εἶπον· Υἱὸς τοῦ θεοῦ εἰμι; 
+[¿a quién el Padre santificó y envió al mundo, ustedes dicen: “Blasfemas”, porque dije: “Yo soy el Hijo de Dios”?]
+
+### Juan 10:37 {#juan-10-37}
+εἰ οὐ ποιῶ τὰ ἔργα τοῦ πατρός μου, μὴ πιστεύετέ μοι· 
+[Si no hago las obras de Mi Padre, no me crean;]
+
+### Juan 10:38 {#juan-10-38}
+εἰ δὲ ποιῶ, κἂν ἐμοὶ μὴ πιστεύητε τοῖς ἔργοις ⸀πιστεύετε, ἵνα γνῶτε καὶ ⸀γινώσκητε ὅτι ἐν ἐμοὶ ὁ πατὴρ κἀγὼ ἐν ⸂τῷ πατρί⸃. 
+[pero si las hago, aunque a Mí no me crean, crean a las obras; para que sepan y entiendan que el Padre está en Mí y Yo en el Padre».]
+
+### Juan 10:39 {#juan-10-39}
+ἐζήτουν οὖν ⸂πάλιν αὐτὸν⸃ πιάσαι· καὶ ἐξῆλθεν ἐκ τῆς χειρὸς αὐτῶν. 
+[Por eso procuraban otra vez prender a Jesús, pero Él se les escapó de entre las manos.]
+
+### Juan 10:40 {#juan-10-40}
+Καὶ ἀπῆλθεν πάλιν πέραν τοῦ Ἰορδάνου εἰς τὸν τόπον ὅπου ἦν Ἰωάννης τὸ πρῶτον βαπτίζων, καὶ ἔμεινεν ἐκεῖ. 
+[Se fue de nuevo al otro lado del Jordán, al lugar donde primero había estado bautizando Juan, y se quedó allí.]
+
+### Juan 10:41 {#juan-10-41}
+καὶ πολλοὶ ἦλθον πρὸς αὐτὸν καὶ ἔλεγον ὅτι Ἰωάννης μὲν σημεῖον ἐποίησεν οὐδέν, πάντα δὲ ὅσα εἶπεν Ἰωάννης περὶ τούτου ἀληθῆ ἦν. 
+[Muchos vinieron a Él y decían: «Aunque Juan no hizo ninguna señal, sin embargo, todo lo que Juan dijo de Este era verdad».]
+
+### Juan 10:42 {#juan-10-42}
+καὶ ⸂πολλοὶ ἐπίστευσαν εἰς αὐτὸν ἐκεῖ⸃. 
+[Y muchos creyeron allí en Jesús.]
+
+### Juan 11:1 {#juan-11-1}
+Ἦν δέ τις ἀσθενῶν, Λάζαρος ἀπὸ Βηθανίας ἐκ τῆς κώμης Μαρίας καὶ Μάρθας τῆς ἀδελφῆς αὐτῆς. 
+[Estaba enfermo cierto hombre llamado Lázaro, de Betania, la aldea de María y de su hermana Marta.]
+
+### Juan 11:2 {#juan-11-2}
+ἦν δὲ ⸀Μαριὰμ ἡ ἀλείψασα τὸν κύριον μύρῳ καὶ ἐκμάξασα τοὺς πόδας αὐτοῦ ταῖς θριξὶν αὐτῆς, ἧς ὁ ἀδελφὸς Λάζαρος ἠσθένει. 
+[María, cuyo hermano Lázaro estaba enfermo, fue la que ungió al Señor con perfume y le secó los pies con sus cabellos.]
+
+### Juan 11:3 {#juan-11-3}
+ἀπέστειλαν οὖν αἱ ἀδελφαὶ πρὸς αὐτὸν λέγουσαι· Κύριε, ἴδε ὃν φιλεῖς ἀσθενεῖ. 
+[Las hermanas entonces mandaron a decir a Jesús: «Señor, el que Tú amas está enfermo».]
+
+### Juan 11:4 {#juan-11-4}
+ἀκούσας δὲ ὁ Ἰησοῦς εἶπεν· Αὕτη ἡ ἀσθένεια οὐκ ἔστιν πρὸς θάνατον ἀλλʼ ὑπὲρ τῆς δόξης τοῦ θεοῦ ἵνα δοξασθῇ ὁ υἱὸς τοῦ θεοῦ διʼ αὐτῆς. 
+[Cuando Jesús lo oyó, dijo: «Esta enfermedad no es para muerte, sino para la gloria de Dios, para que el Hijo de Dios sea glorificado por medio de ella».]
+
+### Juan 11:5 {#juan-11-5}
+ἠγάπα δὲ ὁ Ἰησοῦς τὴν Μάρθαν καὶ τὴν ἀδελφὴν αὐτῆς καὶ τὸν Λάζαρον. 
+[Y Jesús amaba a Marta, a su hermana y a Lázaro.]
+
+### Juan 11:6 {#juan-11-6}
+ὡς οὖν ἤκουσεν ὅτι ἀσθενεῖ, τότε μὲν ἔμεινεν ἐν ᾧ ἦν τόπῳ δύο ἡμέρας· 
+[Cuando oyó, pues, que Lázaro estaba enfermo, entonces se quedó dos días más en el lugar donde estaba.]
+
+### Juan 11:7 {#juan-11-7}
+ἔπειτα μετὰ τοῦτο λέγει τοῖς μαθηταῖς· Ἄγωμεν εἰς τὴν Ἰουδαίαν πάλιν. 
+[Luego, después de esto, dijo* a Sus discípulos: «Vamos de nuevo a Judea».]
+
+### Juan 11:8 {#juan-11-8}
+λέγουσιν αὐτῷ οἱ μαθηταί· Ῥαββί, νῦν ἐζήτουν σε λιθάσαι οἱ Ἰουδαῖοι, καὶ πάλιν ὑπάγεις ἐκεῖ; 
+[Los discípulos le dijeron*: «Rabí, hace poco que los judíos te querían apedrear, ¿y vas allá otra vez?».]
+
+### Juan 11:9 {#juan-11-9}
+ἀπεκρίθη Ἰησοῦς· Οὐχὶ δώδεκα ⸂ὧραί εἰσιν⸃ τῆς ἡμέρας; ἐάν τις περιπατῇ ἐν τῇ ἡμέρᾳ, οὐ προσκόπτει, ὅτι τὸ φῶς τοῦ κόσμου τούτου βλέπει· 
+[Jesús respondió: «¿No hay doce horas en el día? Si alguien anda de día no tropieza, porque ve la luz de este mundo.]
+
+### Juan 11:10 {#juan-11-10}
+ἐὰν δέ τις περιπατῇ ἐν τῇ νυκτί, προσκόπτει, ὅτι τὸ φῶς οὐκ ἔστιν ἐν αὐτῷ. 
+[Pero si alguien anda de noche, tropieza, porque la luz no está en él».]
+
+### Juan 11:11 {#juan-11-11}
+ταῦτα εἶπεν, καὶ μετὰ τοῦτο λέγει αὐτοῖς· Λάζαρος ὁ φίλος ἡμῶν κεκοίμηται, ἀλλὰ πορεύομαι ἵνα ἐξυπνίσω αὐτόν. 
+[Dijo esto, y después añadió: «Nuestro amigo Lázaro se ha dormido; pero voy a despertarlo».]
+
+### Juan 11:12 {#juan-11-12}
+εἶπαν οὖν οἱ μαθηταὶ ⸀αὐτῷ· Κύριε, εἰ κεκοίμηται σωθήσεται. 
+[Los discípulos entonces le dijeron: «Señor, si se ha dormido, se recuperará».]
+
+### Juan 11:13 {#juan-11-13}
+εἰρήκει δὲ ὁ Ἰησοῦς περὶ τοῦ θανάτου αὐτοῦ. ἐκεῖνοι δὲ ἔδοξαν ὅτι περὶ τῆς κοιμήσεως τοῦ ὕπνου λέγει. 
+[Jesús había hablado de la muerte de Lázaro, pero ellos creyeron que hablaba literalmente del sueño.]
+
+### Juan 11:14 {#juan-11-14}
+τότε οὖν εἶπεν αὐτοῖς ὁ Ἰησοῦς παρρησίᾳ· Λάζαρος ἀπέθανεν, 
+[Entonces Jesús, por eso, les dijo claramente: «Lázaro ha muerto;]
+
+### Juan 11:15 {#juan-11-15}
+καὶ χαίρω διʼ ὑμᾶς, ἵνα πιστεύσητε, ὅτι οὐκ ἤμην ἐκεῖ· ἀλλὰ ἄγωμεν πρὸς αὐτόν. 
+[y por causa de ustedes me alegro de no haber estado allí, para que crean; pero vamos a donde está él».]
+
+### Juan 11:16 {#juan-11-16}
+εἶπεν οὖν Θωμᾶς ὁ λεγόμενος Δίδυμος τοῖς συμμαθηταῖς· Ἄγωμεν καὶ ἡμεῖς ἵνα ἀποθάνωμεν μετʼ αὐτοῦ. 
+[Tomás, llamado el Dídimo, dijo entonces a sus condiscípulos: «Vamos nosotros también para morir con Él».]
+
+### Juan 11:17 {#juan-11-17}
+Ἐλθὼν οὖν ὁ Ἰησοῦς εὗρεν αὐτὸν τέσσαρας ⸂ἤδη ἡμέρας⸃ ἔχοντα ἐν τῷ μνημείῳ. 
+[Llegó, pues, Jesús y halló que ya hacía cuatro días que Lázaro estaba en el sepulcro.]
+
+### Juan 11:18 {#juan-11-18}
+ἦν δὲ ⸀ἡ Βηθανία ἐγγὺς τῶν Ἱεροσολύμων ὡς ἀπὸ σταδίων δεκαπέντε. 
+[Betania estaba cerca de Jerusalén, como a tres kilómetros;]
+
+### Juan 11:19 {#juan-11-19}
+⸂πολλοὶ δὲ⸃ ἐκ τῶν Ἰουδαίων ἐληλύθεισαν πρὸς ⸀τὴν Μάρθαν καὶ ⸀Μαριὰμ ἵνα παραμυθήσωνται αὐτὰς περὶ τοῦ ⸀ἀδελφοῦ. 
+[y muchos de los judíos habían venido a la casa de Marta y María, para consolarlas por la muerte de su hermano.]
+
+### Juan 11:20 {#juan-11-20}
+ἡ οὖν Μάρθα ὡς ἤκουσεν ὅτι Ἰησοῦς ἔρχεται ὑπήντησεν αὐτῷ· ⸀Μαρία δὲ ἐν τῷ οἴκῳ ἐκαθέζετο. 
+[Entonces Marta, cuando oyó que Jesús venía, lo fue a recibir, pero María se quedó sentada en casa.]
+
+### Juan 11:21 {#juan-11-21}
+εἶπεν οὖν ⸀ἡ Μάρθα πρὸς ⸀τὸν Ἰησοῦν· Κύριε, εἰ ἦς ὧδε ⸂οὐκ ἂν ἀπέθανεν ὁ ἀδελφός μου⸃· 
+[Y Marta dijo a Jesús: «Señor, si hubieras estado aquí, mi hermano no habría muerto.]
+
+### Juan 11:22 {#juan-11-22}
+⸀καὶ νῦν οἶδα ὅτι ὅσα ἂν αἰτήσῃ τὸν θεὸν δώσει σοι ὁ θεός. 
+[Aun ahora, yo sé que todo lo que pidas a Dios, Dios te lo concederá».]
+
+### Juan 11:23 {#juan-11-23}
+λέγει αὐτῇ ὁ Ἰησοῦς· Ἀναστήσεται ὁ ἀδελφός σου. 
+[«Tu hermano resucitará», le dijo* Jesús.]
+
+### Juan 11:24 {#juan-11-24}
+λέγει αὐτῷ ⸀ἡ Μάρθα· Οἶδα ὅτι ἀναστήσεται ἐν τῇ ἀναστάσει ἐν τῇ ἐσχάτῃ ἡμέρᾳ. 
+[Marta le contestó*: «Yo sé que resucitará en la resurrección, en el día final».]
+
+### Juan 11:25 {#juan-11-25}
+εἶπεν αὐτῇ ὁ Ἰησοῦς· Ἐγώ εἰμι ἡ ἀνάστασις καὶ ἡ ζωή· ὁ πιστεύων εἰς ἐμὲ κἂν ἀποθάνῃ ζήσεται, 
+[Jesús le contestó: «Yo soy la resurrección y la vida; el que cree en Mí, aunque muera, vivirá,]
+
+### Juan 11:26 {#juan-11-26}
+καὶ πᾶς ὁ ζῶν καὶ πιστεύων εἰς ἐμὲ οὐ μὴ ἀποθάνῃ εἰς τὸν αἰῶνα· πιστεύεις τοῦτο; 
+[y todo el que vive y cree en Mí, no morirá jamás. ¿Crees esto?».]
+
+### Juan 11:27 {#juan-11-27}
+λέγει αὐτῷ· Ναί, κύριε· ἐγὼ πεπίστευκα ὅτι σὺ εἶ ὁ χριστὸς ὁ υἱὸς τοῦ θεοῦ ὁ εἰς τὸν κόσμον ἐρχόμενος. 
+[Ella le dijo*: «Sí, Señor; yo he creído que Tú eres el Cristo, el Hijo de Dios, o sea, el que viene al mundo».]
+
+### Juan 11:28 {#juan-11-28}
+Καὶ ⸀τοῦτο εἰποῦσα ἀπῆλθεν καὶ ἐφώνησεν ⸀Μαριὰμ τὴν ἀδελφὴν αὐτῆς λάθρᾳ εἰποῦσα· Ὁ διδάσκαλος πάρεστιν καὶ φωνεῖ σε. 
+[Habiendo dicho esto, Marta se fue y llamó a su hermana María, diciéndole en secreto: «El Maestro está aquí, y te llama».]
+
+### Juan 11:29 {#juan-11-29}
+ἐκείνη ⸀δὲ ὡς ἤκουσεν ⸀ἠγέρθη ταχὺ καὶ ⸀ἤρχετο πρὸς αὐτόν· 
+[Tan pronto como ella lo oyó, se levantó* rápidamente y fue hacia Él.]
+
+### Juan 11:30 {#juan-11-30}
+οὔπω δὲ ἐληλύθει ὁ Ἰησοῦς εἰς τὴν κώμην, ἀλλʼ ἦν ⸀ἔτι ἐν τῷ τόπῳ ὅπου ὑπήντησεν αὐτῷ ἡ Μάρθα. 
+[Porque Jesús aún no había entrado en la aldea, sino que todavía estaba en el lugar donde Marta lo había encontrado.]
+
+### Juan 11:31 {#juan-11-31}
+οἱ οὖν Ἰουδαῖοι οἱ ὄντες μετʼ αὐτῆς ἐν τῇ οἰκίᾳ καὶ παραμυθούμενοι αὐτήν, ἰδόντες τὴν ⸀Μαριὰμ ὅτι ταχέως ἀνέστη καὶ ἐξῆλθεν, ἠκολούθησαν αὐτῇ ⸀δόξαντες ὅτι ὑπάγει εἰς τὸ μνημεῖον ἵνα κλαύσῃ ἐκεῖ. 
+[Entonces los judíos que estaban con ella en la casa consolándola, cuando vieron que María se levantó de prisa y salió, la siguieron, suponiendo que iba al sepulcro a llorar allí.]
+
+### Juan 11:32 {#juan-11-32}
+ἡ οὖν ⸀Μαριὰμ ὡς ἦλθεν ὅπου ⸀ἦν Ἰησοῦς ἰδοῦσα αὐτὸν ἔπεσεν αὐτοῦ ⸀πρὸς τοὺς πόδας, λέγουσα αὐτῷ· Κύριε, εἰ ἦς ὧδε οὐκ ἄν ⸂μου ἀπέθανεν⸃ ὁ ἀδελφός. 
+[Al llegar María adonde estaba Jesús, cuando lo vio, se arrojó a Sus pies, diciendo: «Señor, si hubieras estado aquí, mi hermano no habría muerto».]
+
+### Juan 11:33 {#juan-11-33}
+Ἰησοῦς οὖν ὡς εἶδεν αὐτὴν κλαίουσαν καὶ τοὺς συνελθόντας αὐτῇ Ἰουδαίους κλαίοντας ἐνεβριμήσατο τῷ πνεύματι καὶ ἐτάραξεν ἑαυτόν, 
+[Y cuando Jesús la vio llorando, y a los judíos que vinieron con ella llorando también, se conmovió profundamente en el espíritu, y se entristeció.]
+
+### Juan 11:34 {#juan-11-34}
+καὶ εἶπεν· Ποῦ τεθείκατε αὐτόν; λέγουσιν αὐτῷ· Κύριε, ἔρχου καὶ ἴδε. 
+[«¿Dónde lo pusieron?», preguntó Jesús. «Señor, ven y ve», le dijeron*.]
+
+### Juan 11:35 {#juan-11-35}
+ἐδάκρυσεν ὁ Ἰησοῦς. 
+[Jesús lloró.]
+
+### Juan 11:36 {#juan-11-36}
+ἔλεγον οὖν οἱ Ἰουδαῖοι· Ἴδε πῶς ἐφίλει αὐτόν. 
+[Por eso los judíos decían: «Miren, cómo lo amaba».]
+
+### Juan 11:37 {#juan-11-37}
+τινὲς δὲ ἐξ αὐτῶν εἶπαν· Οὐκ ἐδύνατο οὗτος ὁ ἀνοίξας τοὺς ὀφθαλμοὺς τοῦ τυφλοῦ ποιῆσαι ἵνα καὶ οὗτος μὴ ἀποθάνῃ; 
+[Pero algunos de ellos dijeron: «¿No podía Este, que abrió los ojos del ciego, haber evitado también que Lázaro muriera?».]
+
+### Juan 11:38 {#juan-11-38}
+Ἰησοῦς οὖν πάλιν ἐμβριμώμενος ἐν ἑαυτῷ ἔρχεται εἰς τὸ μνημεῖον· ἦν δὲ σπήλαιον, καὶ λίθος ἐπέκειτο ἐπʼ αὐτῷ. 
+[Entonces Jesús, de nuevo profundamente conmovido, fue* al sepulcro. Era una cueva, y tenía una piedra puesta sobre ella.]
+
+### Juan 11:39 {#juan-11-39}
+λέγει ὁ Ἰησοῦς· Ἄρατε τὸν λίθον. λέγει αὐτῷ ἡ ἀδελφὴ τοῦ ⸀τετελευτηκότος Μάρθα· Κύριε, ἤδη ὄζει, τεταρταῖος γάρ ἐστιν. 
+[«Quiten la piedra», dijo* Jesús. Marta, hermana del que había muerto, le dijo*: «Señor, ya huele mal, porque hace cuatro días que murió».]
+
+### Juan 11:40 {#juan-11-40}
+λέγει αὐτῇ ὁ Ἰησοῦς· Οὐκ εἶπόν σοι ὅτι ἐὰν πιστεύσῃς ⸀ὄψῃ τὴν δόξαν τοῦ θεοῦ; 
+[Jesús le dijo*: «¿No te dije que si crees, verás la gloria de Dios?».]
+
+### Juan 11:41 {#juan-11-41}
+ἦραν οὖν τὸν ⸀λίθον. ὁ δὲ Ἰησοῦς ἦρεν τοὺς ὀφθαλμοὺς ἄνω καὶ εἶπεν· Πάτερ, εὐχαριστῶ σοι ὅτι ἤκουσάς μου, 
+[Entonces quitaron la piedra. Jesús alzó los ojos, y dijo: «Padre, te doy gracias porque me has oído.]
+
+### Juan 11:42 {#juan-11-42}
+ἐγὼ δὲ ᾔδειν ὅτι πάντοτέ μου ἀκούεις· ἀλλὰ διὰ τὸν ὄχλον τὸν περιεστῶτα εἶπον, ἵνα πιστεύσωσιν ὅτι σύ με ἀπέστειλας. 
+[Yo sabía que siempre me oyes; pero lo dije por causa de la multitud que me rodea, para que crean que Tú me has enviado».]
+
+### Juan 11:43 {#juan-11-43}
+καὶ ταῦτα εἰπὼν φωνῇ μεγάλῃ ἐκραύγασεν· Λάζαρε, δεῦρο ἔξω. 
+[Habiendo dicho esto, gritó con fuerte voz: «¡Lázaro, sal fuera!».]
+
+### Juan 11:44 {#juan-11-44}
+⸀ἐξῆλθεν ὁ τεθνηκὼς δεδεμένος τοὺς πόδας καὶ τὰς χεῖρας κειρίαις, καὶ ἡ ὄψις αὐτοῦ σουδαρίῳ περιεδέδετο. λέγει ⸂αὐτοῖς ὁ Ἰησοῦς⸃· Λύσατε αὐτὸν καὶ ἄφετε ⸀αὐτὸν ὑπάγειν. 
+[Y el que había muerto salió, los pies y las manos atados con vendas, y el rostro envuelto en un sudario. Jesús les dijo*: «Desátenlo, y déjenlo ir».]
+
+### Juan 11:45 {#juan-11-45}
+Πολλοὶ οὖν ἐκ τῶν Ἰουδαίων, οἱ ἐλθόντες πρὸς τὴν ⸀Μαριὰμ καὶ θεασάμενοι ⸀ἃ ⸀ἐποίησεν, ἐπίστευσαν εἰς αὐτόν· 
+[Por esto muchos de los judíos que habían venido a ver a María, y vieron lo que Jesús había hecho, creyeron en Él.]
+
+### Juan 11:46 {#juan-11-46}
+τινὲς δὲ ἐξ αὐτῶν ἀπῆλθον πρὸς τοὺς Φαρισαίους καὶ εἶπαν αὐτοῖς ἃ ⸀ἐποίησεν Ἰησοῦς. 
+[Pero algunos de ellos fueron a los fariseos y les contaron lo que Jesús había hecho.]
+
+### Juan 11:47 {#juan-11-47}
+συνήγαγον οὖν οἱ ἀρχιερεῖς καὶ οἱ Φαρισαῖοι συνέδριον, καὶ ἔλεγον· Τί ποιοῦμεν ὅτι οὗτος ὁ ἄνθρωπος πολλὰ ⸂ποιεῖ σημεῖα⸃; 
+[Entonces los principales sacerdotes y los fariseos convocaron un concilio, y decían: «¿Qué hacemos? Porque este hombre hace muchas señales.]
+
+### Juan 11:48 {#juan-11-48}
+ἐὰν ἀφῶμεν αὐτὸν οὕτως, πάντες πιστεύσουσιν εἰς αὐτόν, καὶ ἐλεύσονται οἱ Ῥωμαῖοι καὶ ἀροῦσιν ἡμῶν καὶ τὸν τόπον καὶ τὸ ἔθνος. 
+[Si lo dejamos seguir así, todos van a creer en Él, y los romanos vendrán y nos quitarán nuestro lugar y nuestra nación».]
+
+### Juan 11:49 {#juan-11-49}
+εἷς δέ τις ἐξ αὐτῶν Καϊάφας, ἀρχιερεὺς ὢν τοῦ ἐνιαυτοῦ ἐκείνου, εἶπεν αὐτοῖς· Ὑμεῖς οὐκ οἴδατε οὐδέν, 
+[Pero uno de ellos, Caifás, que era sumo sacerdote ese año, les dijo: «Ustedes no saben nada,]
+
+### Juan 11:50 {#juan-11-50}
+οὐδὲ ⸀λογίζεσθε ὅτι συμφέρει ⸀ὑμῖν ἵνα εἷς ἄνθρωπος ἀποθάνῃ ὑπὲρ τοῦ λαοῦ καὶ μὴ ὅλον τὸ ἔθνος ἀπόληται. 
+[ni tienen en cuenta que les es más conveniente que un hombre muera por el pueblo, y no que toda la nación perezca».]
+
+### Juan 11:51 {#juan-11-51}
+τοῦτο δὲ ἀφʼ ἑαυτοῦ οὐκ εἶπεν, ἀλλὰ ἀρχιερεὺς ὢν τοῦ ἐνιαυτοῦ ἐκείνου ἐπροφήτευσεν ὅτι ἔμελλεν Ἰησοῦς ἀποθνῄσκειν ὑπὲρ τοῦ ἔθνους, 
+[Ahora bien, no dijo esto de su propia iniciativa, sino que siendo el sumo sacerdote ese año, profetizó que Jesús iba a morir por la nación;]
+
+### Juan 11:52 {#juan-11-52}
+καὶ οὐχ ὑπὲρ τοῦ ἔθνους μόνον, ἀλλʼ ἵνα καὶ τὰ τέκνα τοῦ θεοῦ τὰ διεσκορπισμένα συναγάγῃ εἰς ἕν. 
+[y no solo por la nación, sino también para reunir en uno a los hijos de Dios que están esparcidos.]
+
+### Juan 11:53 {#juan-11-53}
+ἀπʼ ἐκείνης οὖν τῆς ἡμέρας ⸀ἐβουλεύσαντο ἵνα ἀποκτείνωσιν αὐτόν. 
+[Así que, desde ese día planearon entre sí matar a Jesús.]
+
+### Juan 11:54 {#juan-11-54}
+⸂Ὁ οὖν Ἰησοῦς⸃ οὐκέτι παρρησίᾳ περιεπάτει ἐν τοῖς Ἰουδαίοις, ἀλλὰ ἀπῆλθεν ἐκεῖθεν εἰς τὴν χώραν ἐγγὺς τῆς ἐρήμου, εἰς Ἐφραὶμ λεγομένην πόλιν, κἀκεῖ ⸀ἔμεινεν μετὰ τῶν ⸀μαθητῶν. 
+[Por eso Jesús ya no andaba públicamente entre los judíos, sino que se fue de allí a la región cerca del desierto, a una ciudad llamada Efraín; y se quedó allí con los discípulos.]
+
+### Juan 11:55 {#juan-11-55}
+Ἦν δὲ ἐγγὺς τὸ πάσχα τῶν Ἰουδαίων, καὶ ἀνέβησαν πολλοὶ εἰς Ἱεροσόλυμα ἐκ τῆς χώρας πρὸ τοῦ πάσχα ἵνα ἁγνίσωσιν ἑαυτούς. 
+[Estaba cerca la Pascua de los judíos, y muchos de la región subieron a Jerusalén antes de la Pascua para purificarse.]
+
+### Juan 11:56 {#juan-11-56}
+ἐζήτουν οὖν τὸν Ἰησοῦν καὶ ἔλεγον μετʼ ἀλλήλων ἐν τῷ ἱερῷ ἑστηκότες· Τί δοκεῖ ὑμῖν; ὅτι οὐ μὴ ἔλθῃ εἰς τὴν ἑορτήν; 
+[Entonces buscaban a Jesús, y estando ellos en el templo, se decían unos a otros: «¿Qué les parece? ¿Que vendrá a la fiesta o no?».]
+
+### Juan 11:57 {#juan-11-57}
+δεδώκεισαν ⸀δὲ οἱ ἀρχιερεῖς καὶ οἱ Φαρισαῖοι ⸀ἐντολὰς ἵνα ἐάν τις γνῷ ποῦ ἐστιν μηνύσῃ, ὅπως πιάσωσιν αὐτόν. 
+[Y los principales sacerdotes y los fariseos habían dado órdenes de que si alguien sabía dónde estaba Jesús, diera aviso para que lo prendieran.]
+
+### Juan 12:1 {#juan-12-1}
+Ὁ οὖν Ἰησοῦς πρὸ ἓξ ἡμερῶν τοῦ πάσχα ἦλθεν εἰς Βηθανίαν, ὅπου ἦν ⸀Λάζαρος, ὃν ἤγειρεν ἐκ νεκρῶν ⸀Ἰησοῦς. 
+[Entonces Jesús, seis días antes de la Pascua, vino a Betania donde estaba Lázaro, al que Jesús había resucitado de entre los muertos.]
+
+### Juan 12:2 {#juan-12-2}
+ἐποίησαν οὖν αὐτῷ δεῖπνον ἐκεῖ, καὶ ἡ Μάρθα διηκόνει, ὁ δὲ Λάζαρος εἷς ἦν ⸀ἐκ τῶν ἀνακειμένων σὺν αὐτῷ· 
+[Y le hicieron una cena allí, y Marta servía; pero Lázaro era uno de los que estaban a la mesa con Él.]
+
+### Juan 12:3 {#juan-12-3}
+ἡ οὖν ⸀Μαριὰμ λαβοῦσα λίτραν μύρου νάρδου πιστικῆς πολυτίμου ἤλειψεν τοὺς πόδας τοῦ Ἰησοῦ καὶ ἐξέμαξεν ταῖς θριξὶν αὐτῆς τοὺς πόδας αὐτοῦ· ἡ δὲ οἰκία ἐπληρώθη ἐκ τῆς ὀσμῆς τοῦ μύρου. 
+[Entonces María, tomando unos 300 gramos de perfume de nardo puro que costaba mucho, ungió los pies de Jesús, y se los secó con los cabellos, y la casa se llenó con la fragancia del perfume.]
+
+### Juan 12:4 {#juan-12-4}
+λέγει ⸀δὲ ⸂Ἰούδας ὁ Ἰσκαριώτης εἷς τῶν μαθητῶν αὐτοῦ⸃, ὁ μέλλων αὐτὸν παραδιδόναι· 
+[Y Judas Iscariote, uno de Sus discípulos, el que lo iba a entregar, dijo*:]
+
+### Juan 12:5 {#juan-12-5}
+Διὰ τί τοῦτο τὸ μύρον οὐκ ἐπράθη τριακοσίων δηναρίων καὶ ἐδόθη πτωχοῖς; 
+[«¿Por qué no se vendió este perfume por 300 denarios y se dio a los pobres?».]
+
+### Juan 12:6 {#juan-12-6}
+εἶπεν δὲ τοῦτο οὐχ ὅτι περὶ τῶν πτωχῶν ἔμελεν αὐτῷ, ἀλλʼ ὅτι κλέπτης ἦν καὶ τὸ γλωσσόκομον ⸀ἔχων τὰ βαλλόμενα ἐβάσταζεν. 
+[Pero dijo esto, no porque se preocupara por los pobres, sino porque era un ladrón, y como tenía la bolsa del dinero, sustraía de lo que se echaba en ella.]
+
+### Juan 12:7 {#juan-12-7}
+εἶπεν οὖν ὁ Ἰησοῦς· Ἄφες αὐτήν, ⸀ἵνα εἰς τὴν ἡμέραν τοῦ ἐνταφιασμοῦ μου ⸀τηρήσῃ αὐτό· 
+[Entonces Jesús dijo: «Déjala, para que lo guarde para el día de Mi sepultura.]
+
+### Juan 12:8 {#juan-12-8}
+τοὺς πτωχοὺς γὰρ πάντοτε ἔχετε μεθʼ ἑαυτῶν, ἐμὲ δὲ οὐ πάντοτε ἔχετε. 
+[Porque a los pobres siempre los tendrán con ustedes; pero a Mí no siempre me tendrán».]
+
+### Juan 12:9 {#juan-12-9}
+Ἔγνω ⸀οὖν ὄχλος πολὺς ἐκ τῶν Ἰουδαίων ὅτι ἐκεῖ ἐστιν, καὶ ἦλθον οὐ διὰ τὸν Ἰησοῦν μόνον, ἀλλʼ ἵνα καὶ τὸν Λάζαρον ἴδωσιν ὃν ἤγειρεν ἐκ νεκρῶν. 
+[Entonces la gran multitud de judíos se enteró de que Jesús estaba allí; y vinieron no solo por causa de Jesús, sino también por ver a Lázaro, a quien había resucitado de entre los muertos.]
+
+### Juan 12:10 {#juan-12-10}
+ἐβουλεύσαντο δὲ οἱ ἀρχιερεῖς ἵνα καὶ τὸν Λάζαρον ἀποκτείνωσιν, 
+[Pero los principales sacerdotes resolvieron matar también a Lázaro;]
+
+### Juan 12:11 {#juan-12-11}
+ὅτι πολλοὶ διʼ αὐτὸν ὑπῆγον τῶν Ἰουδαίων καὶ ἐπίστευον εἰς τὸν Ἰησοῦν. 
+[porque por causa de él muchos de los judíos se apartaban y creían en Jesús.]
+
+### Juan 12:12 {#juan-12-12}
+Τῇ ἐπαύριον ⸀ὁ ὄχλος πολὺς ὁ ἐλθὼν εἰς τὴν ἑορτήν, ἀκούσαντες ὅτι ἔρχεται ⸁ὁ Ἰησοῦς εἰς Ἱεροσόλυμα, 
+[Al día siguiente, cuando la gran multitud que había venido a la fiesta, oyó que Jesús venía a Jerusalén,]
+
+### Juan 12:13 {#juan-12-13}
+ἔλαβον τὰ βαΐα τῶν φοινίκων καὶ ἐξῆλθον εἰς ὑπάντησιν αὐτῷ, καὶ ⸀ἐκραύγαζον· Ὡσαννά, εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι κυρίου, ⸂καὶ ὁ⸃ βασιλεὺς τοῦ Ἰσραήλ. 
+[tomaron hojas de las palmas y salieron a recibir a Jesús, y gritaban: «¡Hosanna! BENDITO EL QUE VIENE EN EL NOMBRE DEL SEÑOR, el Rey de Israel».]
+
+### Juan 12:14 {#juan-12-14}
+εὑρὼν δὲ ὁ Ἰησοῦς ὀνάριον ἐκάθισεν ἐπʼ αὐτό, καθώς ἐστιν γεγραμμένον· 
+[Jesús, hallando un asnillo, se montó en él; como está escrito:]
+
+### Juan 12:15 {#juan-12-15}
+Μὴ φοβοῦ, θυγάτηρ Σιών· ἰδοὺ ὁ βασιλεύς σου ἔρχεται, καθήμενος ἐπὶ πῶλον ὄνου. 
+[«NO TEMAS, MIRA, SIÓN; HE AQUÍ, TU REY VIENE, MONTADO EN UN POLLINO DE ASNA».]
+
+### Juan 12:16 {#juan-12-16}
+⸀ταῦτα οὐκ ἔγνωσαν ⸂αὐτοῦ οἱ μαθηταὶ⸃ τὸ πρῶτον, ἀλλʼ ὅτε ἐδοξάσθη Ἰησοῦς τότε ἐμνήσθησαν ὅτι ταῦτα ἦν ἐπʼ αὐτῷ γεγραμμένα καὶ ταῦτα ἐποίησαν αὐτῷ. 
+[Sus discípulos no entendieron esto al principio, pero después, cuando Jesús fue glorificado, entonces se acordaron de que esto se había escrito de Él, y de que le habían hecho estas cosas.]
+
+### Juan 12:17 {#juan-12-17}
+ἐμαρτύρει οὖν ὁ ὄχλος ὁ ὢν μετʼ αὐτοῦ ὅτε τὸν Λάζαρον ἐφώνησεν ἐκ τοῦ μνημείου καὶ ἤγειρεν αὐτὸν ἐκ νεκρῶν. 
+[Y así, la multitud que estaba con Jesús cuando llamó a Lázaro del sepulcro y lo resucitó de entre los muertos, daba testimonio de Él.]
+
+### Juan 12:18 {#juan-12-18}
+διὰ τοῦτο ⸀καὶ ὑπήντησεν αὐτῷ ὁ ὄχλος ὅτι ⸀ἤκουσαν τοῦτο αὐτὸν πεποιηκέναι τὸ σημεῖον. 
+[Por eso la multitud fue también a recibir a Jesús, porque habían oído que Él había hecho esta señal.]
+
+### Juan 12:19 {#juan-12-19}
+οἱ οὖν Φαρισαῖοι εἶπαν πρὸς ἑαυτούς· Θεωρεῖτε ὅτι οὐκ ὠφελεῖτε οὐδέν· ἴδε ὁ ⸀κόσμος ὀπίσω αὐτοῦ ἀπῆλθεν. 
+[Entonces los fariseos se decían unos a otros: «¿Ven que ustedes no consiguen nada? Miren, todo el mundo se ha ido tras Él».]
+
+### Juan 12:20 {#juan-12-20}
+Ἦσαν δὲ ⸂Ἕλληνές τινες⸃ ἐκ τῶν ἀναβαινόντων ἵνα προσκυνήσωσιν ἐν τῇ ἑορτῇ· 
+[Había unos griegos entre los que subían a adorar en la fiesta;]
+
+### Juan 12:21 {#juan-12-21}
+οὗτοι οὖν προσῆλθον Φιλίππῳ τῷ ἀπὸ Βηθσαϊδὰ τῆς Γαλιλαίας, καὶ ἠρώτων αὐτὸν λέγοντες· Κύριε, θέλομεν τὸν Ἰησοῦν ἰδεῖν. 
+[estos fueron a Felipe, que era de Betsaida de Galilea, y le rogaban: «Señor, queremos ver a Jesús».]
+
+### Juan 12:22 {#juan-12-22}
+ἔρχεται ⸀ὁ Φίλιππος καὶ λέγει τῷ Ἀνδρέᾳ· ⸀ἔρχεται Ἀνδρέας καὶ Φίλιππος ⸀καὶ λέγουσιν τῷ Ἰησοῦ. 
+[Felipe fue* y se lo dijo* a Andrés; Andrés y Felipe fueron* y se lo dijeron* a Jesús.]
+
+### Juan 12:23 {#juan-12-23}
+ὁ δὲ Ἰησοῦς ⸀ἀποκρίνεται αὐτοῖς λέγων· Ἐλήλυθεν ἡ ὥρα ἵνα δοξασθῇ ὁ υἱὸς τοῦ ἀνθρώπου. 
+[Jesús les respondió*: «Ha llegado la hora para que el Hijo del Hombre sea glorificado.]
+
+### Juan 12:24 {#juan-12-24}
+ἀμὴν ἀμὴν λέγω ὑμῖν, ἐὰν μὴ ὁ κόκκος τοῦ σίτου πεσὼν εἰς τὴν γῆν ἀποθάνῃ, αὐτὸς μόνος μένει· ἐὰν δὲ ἀποθάνῃ, πολὺν καρπὸν φέρει. 
+[En verdad les digo que si el grano de trigo no cae en tierra y muere, se queda solo; pero si muere, produce mucho fruto.]
+
+### Juan 12:25 {#juan-12-25}
+ὁ φιλῶν τὴν ψυχὴν αὐτοῦ ⸀ἀπολλύει αὐτήν, καὶ ὁ μισῶν τὴν ψυχὴν αὐτοῦ ἐν τῷ κόσμῳ τούτῳ εἰς ζωὴν αἰώνιον φυλάξει αὐτήν. 
+[El que ama su vida la pierde; y el que aborrece su vida en este mundo, la conservará para vida eterna.]
+
+### Juan 12:26 {#juan-12-26}
+ἐὰν ἐμοί ⸂τις διακονῇ⸃ ἐμοὶ ἀκολουθείτω, καὶ ὅπου εἰμὶ ἐγὼ ἐκεῖ καὶ ὁ διάκονος ὁ ἐμὸς ἔσται· ⸀ἐάν τις ἐμοὶ διακονῇ τιμήσει αὐτὸν ὁ πατήρ. 
+[Si alguien me sirve, que me siga; y donde Yo estoy, allí también estará Mi servidor; si alguien me sirve, el Padre lo honrará.]
+
+### Juan 12:27 {#juan-12-27}
+Νῦν ἡ ψυχή μου τετάρακται, καὶ τί εἴπω; πάτερ, σῶσόν με ἐκ τῆς ὥρας ταύτης. ἀλλὰ διὰ τοῦτο ἦλθον εἰς τὴν ὥραν ταύτην. 
+[Ahora Mi alma se ha angustiado; y ¿qué diré: “Padre, sálvame de esta hora”? Pero para esto he llegado a esta hora.]
+
+### Juan 12:28 {#juan-12-28}
+πάτερ, δόξασόν σου τὸ ὄνομα. ἦλθεν οὖν φωνὴ ἐκ τοῦ οὐρανοῦ· Καὶ ἐδόξασα καὶ πάλιν δοξάσω. 
+[Padre, glorifica Tu nombre». Entonces vino una voz del cielo: «Y lo he glorificado, y de nuevo lo glorificaré».]
+
+### Juan 12:29 {#juan-12-29}
+ὁ οὖν ὄχλος ὁ ἑστὼς καὶ ἀκούσας ἔλεγεν βροντὴν γεγονέναι· ἄλλοι ἔλεγον· Ἄγγελος αὐτῷ λελάληκεν. 
+[Por eso la multitud que estaba allí y oyó la voz, decía que había sido un trueno; otros decían: «Un ángel le ha hablado».]
+
+### Juan 12:30 {#juan-12-30}
+ἀπεκρίθη ⸂Ἰησοῦς καὶ εἶπεν⸃· Οὐ διʼ ἐμὲ ⸂ἡ φωνὴ αὕτη⸃ γέγονεν ἀλλὰ διʼ ὑμᾶς. 
+[Jesús les dijo: «Esta voz no ha venido por causa Mía, sino por causa de ustedes.]
+
+### Juan 12:31 {#juan-12-31}
+νῦν κρίσις ἐστὶν τοῦ κόσμου τούτου, νῦν ὁ ἄρχων τοῦ κόσμου τούτου ἐκβληθήσεται ἔξω· 
+[Ya está aquí el juicio de este mundo; ahora el príncipe de este mundo será echado fuera.]
+
+### Juan 12:32 {#juan-12-32}
+κἀγὼ ⸀ἐὰν ὑψωθῶ ἐκ τῆς γῆς, πάντας ἑλκύσω πρὸς ἐμαυτόν. 
+[Pero Yo, si soy levantado de la tierra, atraeré a todos a Mí mismo».]
+
+### Juan 12:33 {#juan-12-33}
+τοῦτο δὲ ἔλεγεν σημαίνων ποίῳ θανάτῳ ἤμελλεν ἀποθνῄσκειν. 
+[Pero Él decía esto para indicar la clase de muerte que iba a morir.]
+
+### Juan 12:34 {#juan-12-34}
+ἀπεκρίθη ⸀οὖν αὐτῷ ὁ ὄχλος· Ἡμεῖς ἠκούσαμεν ἐκ τοῦ νόμου ὅτι ὁ χριστὸς μένει εἰς τὸν αἰῶνα, καὶ πῶς ⸂λέγεις σὺ⸃ ⸀ὅτι δεῖ ὑψωθῆναι τὸν υἱὸν τοῦ ἀνθρώπου; τίς ἐστιν οὗτος ὁ υἱὸς τοῦ ἀνθρώπου; 
+[Entonces la multitud le respondió: «Hemos oído en la ley que el Cristo permanecerá para siempre; ¿y cómo dices Tú: “El Hijo del Hombre tiene que ser levantado”? ¿Quién es este Hijo del Hombre?».]
+
+### Juan 12:35 {#juan-12-35}
+εἶπεν οὖν αὐτοῖς ὁ Ἰησοῦς· Ἔτι μικρὸν χρόνον τὸ φῶς ⸂ἐν ὑμῖν⸃ ἐστιν. περιπατεῖτε ⸀ὡς τὸ φῶς ἔχετε, ἵνα μὴ σκοτία ὑμᾶς καταλάβῃ, καὶ ὁ περιπατῶν ἐν τῇ σκοτίᾳ οὐκ οἶδεν ποῦ ὑπάγει. 
+[Jesús entonces les dijo: «Todavía, por un poco de tiempo, la Luz estará entre ustedes. Caminen mientras tengan la Luz, para que no los sorprendan las tinieblas; el que anda en la oscuridad no sabe adónde va.]
+
+### Juan 12:36 {#juan-12-36}
+⸀ὡς τὸ φῶς ἔχετε, πιστεύετε εἰς τὸ φῶς, ἵνα υἱοὶ φωτὸς γένησθε. Ταῦτα ⸀ἐλάλησεν Ἰησοῦς, καὶ ἀπελθὼν ἐκρύβη ἀπʼ αὐτῶν. 
+[Mientras tienen la Luz, crean en la Luz, para que sean hijos de la Luz». Estas cosas habló Jesús, y se fue y se ocultó de ellos.]
+
+### Juan 12:37 {#juan-12-37}
+τοσαῦτα δὲ αὐτοῦ σημεῖα πεποιηκότος ἔμπροσθεν αὐτῶν οὐκ ἐπίστευον εἰς αὐτόν, 
+[Pero aunque había hecho tantas señales delante de ellos, no creían en Él,]
+
+### Juan 12:38 {#juan-12-38}
+ἵνα ὁ λόγος Ἠσαΐου τοῦ προφήτου πληρωθῇ ὃν εἶπεν· Κύριε, τίς ἐπίστευσεν τῇ ἀκοῇ ἡμῶν; καὶ ὁ βραχίων κυρίου τίνι ἀπεκαλύφθη; 
+[para que se cumpliera la palabra del profeta Isaías, que dijo: «SEÑOR, ¿QUIÉN HA CREÍDO A NUESTRO ANUNCIO? ¿Y A QUIÉN SE HA REVELADO EL BRAZO DEL SEÑOR?».]
+
+### Juan 12:39 {#juan-12-39}
+διὰ τοῦτο οὐκ ἠδύναντο πιστεύειν ὅτι πάλιν εἶπεν Ἠσαΐας· 
+[Por eso no podían creer, porque Isaías dijo también:]
+
+### Juan 12:40 {#juan-12-40}
+Τετύφλωκεν αὐτῶν τοὺς ὀφθαλμοὺς καὶ ⸀ἐπώρωσεν αὐτῶν τὴν καρδίαν, ἵνα μὴ ἴδωσιν τοῖς ὀφθαλμοῖς καὶ νοήσωσιν τῇ καρδίᾳ καὶ ⸀στραφῶσιν, καὶ ⸀ἰάσομαι αὐτούς. 
+[«ÉL HA CEGADO SUS OJOS Y ENDURECIDO SU CORAZÓN, PARA QUE NO VEAN CON LOS OJOS Y ENTIENDAN CON EL CORAZÓN, Y SE CONVIERTAN Y YO LOS SANE».]
+
+### Juan 12:41 {#juan-12-41}
+ταῦτα εἶπεν Ἠσαΐας ⸀ὅτι εἶδεν τὴν δόξαν αὐτοῦ, καὶ ἐλάλησεν περὶ αὐτοῦ. 
+[Esto dijo Isaías porque vio Su gloria, y habló de Él.]
+
+### Juan 12:42 {#juan-12-42}
+ὅμως μέντοι καὶ ἐκ τῶν ἀρχόντων πολλοὶ ἐπίστευσαν εἰς αὐτόν, ἀλλὰ διὰ τοὺς Φαρισαίους οὐχ ὡμολόγουν ἵνα μὴ ἀποσυνάγωγοι γένωνται, 
+[Sin embargo, muchos, aun de los gobernantes, creyeron en Él, pero por causa de los fariseos no lo confesaban, para no ser expulsados de la sinagoga.]
+
+### Juan 12:43 {#juan-12-43}
+ἠγάπησαν γὰρ τὴν δόξαν τῶν ἀνθρώπων μᾶλλον ἤπερ τὴν δόξαν τοῦ θεοῦ. 
+[Porque amaban más el reconocimiento de los hombres que el reconocimiento de Dios.]
+
+### Juan 12:44 {#juan-12-44}
+Ἰησοῦς δὲ ἔκραξεν καὶ εἶπεν· Ὁ πιστεύων εἰς ἐμὲ οὐ πιστεύει εἰς ἐμὲ ἀλλὰ εἰς τὸν πέμψαντά με, 
+[Entonces Jesús exclamó: «El que cree en Mí, no cree en Mí, sino en Aquel que me ha enviado.]
+
+### Juan 12:45 {#juan-12-45}
+καὶ ὁ θεωρῶν ἐμὲ θεωρεῖ τὸν πέμψαντά με. 
+[Y el que me ve, ve a Aquel que me ha enviado.]
+
+### Juan 12:46 {#juan-12-46}
+ἐγὼ φῶς εἰς τὸν κόσμον ἐλήλυθα, ἵνα πᾶς ὁ πιστεύων εἰς ἐμὲ ἐν τῇ σκοτίᾳ μὴ μείνῃ. 
+[Yo, la Luz, he venido al mundo, para que todo el que cree en Mí no permanezca en tinieblas.]
+
+### Juan 12:47 {#juan-12-47}
+καὶ ἐάν τίς μου ἀκούσῃ τῶν ῥημάτων καὶ μὴ ⸀φυλάξῃ, ἐγὼ οὐ κρίνω αὐτόν, οὐ γὰρ ἦλθον ἵνα κρίνω τὸν κόσμον ἀλλʼ ἵνα σώσω τὸν κόσμον. 
+[Si alguno oye Mis palabras y no las guarda, Yo no lo juzgo; porque no vine a juzgar al mundo, sino a salvar al mundo.]
+
+### Juan 12:48 {#juan-12-48}
+ὁ ἀθετῶν ἐμὲ καὶ μὴ λαμβάνων τὰ ῥήματά μου ἔχει τὸν κρίνοντα αὐτόν· ὁ λόγος ὃν ἐλάλησα ἐκεῖνος κρινεῖ αὐτὸν ἐν τῇ ἐσχάτῃ ἡμέρᾳ· 
+[El que me rechaza y no recibe Mis palabras, tiene quien lo juzgue; la palabra que he hablado, esa lo juzgará en el día final.]
+
+### Juan 12:49 {#juan-12-49}
+ὅτι ἐγὼ ἐξ ἐμαυτοῦ οὐκ ἐλάλησα, ἀλλʼ ὁ πέμψας με πατὴρ αὐτός μοι ἐντολὴν ⸀δέδωκεν τί εἴπω καὶ τί λαλήσω. 
+[Porque Yo no he hablado por Mi propia cuenta, sino que el Padre mismo que me ha enviado me ha dado mandamiento sobre lo que he de decir y lo que he de hablar.]
+
+### Juan 12:50 {#juan-12-50}
+καὶ οἶδα ὅτι ἡ ἐντολὴ αὐτοῦ ζωὴ αἰώνιός ἐστιν. ἃ οὖν ⸂ἐγὼ λαλῶ⸃, καθὼς εἴρηκέν μοι ὁ πατήρ, οὕτως λαλῶ. 
+[Y sé que Su mandamiento es vida eterna; por eso lo que Yo hablo, lo hablo tal como el Padre me lo ha dicho».]
+
+### Juan 13:1 {#juan-13-1}
+Πρὸ δὲ τῆς ἑορτῆς τοῦ πάσχα εἰδὼς ὁ Ἰησοῦς ὅτι ⸀ἦλθεν αὐτοῦ ἡ ὥρα ἵνα μεταβῇ ἐκ τοῦ κόσμου τούτου πρὸς τὸν πατέρα ἀγαπήσας τοὺς ἰδίους τοὺς ἐν τῷ κόσμῳ εἰς τέλος ἠγάπησεν αὐτούς. 
+[Antes de la fiesta de la Pascua, sabiendo Jesús que Su hora había llegado para pasar de este mundo al Padre, habiendo amado a los Suyos que estaban en el mundo, los amó hasta el fin.]
+
+### Juan 13:2 {#juan-13-2}
+καὶ δείπνου ⸀γινομένου, τοῦ διαβόλου ἤδη βεβληκότος εἰς τὴν καρδίαν ⸂ἵνα παραδοῖ αὐτὸν Ἰούδας Σίμωνος ⸀Ἰσκαριώτου⸃, 
+[Y durante la cena, como ya el diablo había puesto en el corazón de Judas Iscariote, hijo de Simón, el que lo entregara,]
+
+### Juan 13:3 {#juan-13-3}
+⸀εἰδὼς ὅτι πάντα ⸀ἔδωκεν αὐτῷ ὁ πατὴρ εἰς τὰς χεῖρας, καὶ ὅτι ἀπὸ θεοῦ ἐξῆλθεν καὶ πρὸς τὸν θεὸν ὑπάγει, 
+[Jesús, sabiendo que el Padre había puesto todas las cosas en Sus manos, y que de Dios había salido y a Dios volvía,]
+
+### Juan 13:4 {#juan-13-4}
+ἐγείρεται ἐκ τοῦ δείπνου καὶ τίθησιν τὰ ἱμάτια καὶ λαβὼν λέντιον διέζωσεν ἑαυτόν· 
+[se levantó* de la cena y se quitó* el manto, y tomando una toalla, se la ciñó.]
+
+### Juan 13:5 {#juan-13-5}
+εἶτα βάλλει ὕδωρ εἰς τὸν νιπτῆρα, καὶ ἤρξατο νίπτειν τοὺς πόδας τῶν μαθητῶν καὶ ἐκμάσσειν τῷ λεντίῳ ᾧ ἦν διεζωσμένος. 
+[Luego echó* agua en una vasija, y comenzó a lavar los pies de los discípulos y a secárselos con la toalla que tenía ceñida.]
+
+### Juan 13:6 {#juan-13-6}
+ἔρχεται οὖν πρὸς Σίμωνα Πέτρον. ⸀λέγει ⸀αὐτῷ· Κύριε, σύ μου νίπτεις τοὺς πόδας; 
+[Cuando llegó* a Simón Pedro, este le dijo*: «Señor, ¿Tú me vas a lavar a mí los pies?».]
+
+### Juan 13:7 {#juan-13-7}
+ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτῷ· Ὃ ἐγὼ ποιῶ σὺ οὐκ οἶδας ἄρτι, γνώσῃ δὲ μετὰ ταῦτα. 
+[Jesús le respondió: «Ahora tú no comprendes lo que Yo hago, pero lo entenderás después».]
+
+### Juan 13:8 {#juan-13-8}
+λέγει αὐτῷ Πέτρος· Οὐ μὴ νίψῃς ⸂μου τοὺς πόδας⸃ εἰς τὸν αἰῶνα. ἀπεκρίθη ⸂Ἰησοῦς αὐτῷ⸃· Ἐὰν μὴ νίψω σε, οὐκ ἔχεις μέρος μετʼ ἐμοῦ. 
+[«¡Jamás me lavarás los pies!», le dijo* Pedro. «Si no te lavo, no tienes parte conmigo», le respondió Jesús.]
+
+### Juan 13:9 {#juan-13-9}
+λέγει αὐτῷ Σίμων Πέτρος· Κύριε, μὴ τοὺς πόδας μου μόνον ἀλλὰ καὶ τὰς χεῖρας καὶ τὴν κεφαλήν. 
+[Simón Pedro le dijo*: «Señor, entonces no solo los pies, sino también las manos y la cabeza».]
+
+### Juan 13:10 {#juan-13-10}
+λέγει αὐτῷ ⸀ὁ Ἰησοῦς· Ὁ λελουμένος ⸂οὐκ ἔχει χρείαν⸃ ⸂εἰ μὴ⸃ τοὺς πόδας νίψασθαι, ἀλλʼ ἔστιν καθαρὸς ὅλος· καὶ ὑμεῖς καθαροί ἐστε, ἀλλʼ οὐχὶ πάντες. 
+[Jesús le dijo*: «El que se ha bañado no necesita lavarse, excepto los pies, pues está todo limpio; y ustedes están limpios, pero no todos».]
+
+### Juan 13:11 {#juan-13-11}
+ᾔδει γὰρ τὸν παραδιδόντα αὐτόν· διὰ τοῦτο εἶπεν ⸀ὅτι Οὐχὶ πάντες καθαροί ἐστε. 
+[Porque sabía quién lo iba a entregar; por eso dijo: «No todos están limpios».]
+
+### Juan 13:12 {#juan-13-12}
+Ὅτε οὖν ἔνιψεν τοὺς πόδας αὐτῶν ⸀καὶ ἔλαβεν τὰ ἱμάτια αὐτοῦ ⸂καὶ ἀνέπεσεν⸃, πάλιν εἶπεν αὐτοῖς· Γινώσκετε τί πεποίηκα ὑμῖν; 
+[Entonces, cuando acabó de lavarles los pies, tomó Su manto, y sentándose a la mesa otra vez, les dijo: «¿Saben lo que les he hecho?]
+
+### Juan 13:13 {#juan-13-13}
+ὑμεῖς φωνεῖτέ με Ὁ διδάσκαλος καὶ Ὁ κύριος, καὶ καλῶς λέγετε, εἰμὶ γάρ. 
+[Ustedes me llaman Maestro y Señor; y tienen razón, porque lo soy.]
+
+### Juan 13:14 {#juan-13-14}
+εἰ οὖν ἐγὼ ἔνιψα ὑμῶν τοὺς πόδας ὁ κύριος καὶ ὁ διδάσκαλος, καὶ ὑμεῖς ὀφείλετε ἀλλήλων νίπτειν τοὺς πόδας· 
+[Pues si Yo, el Señor y el Maestro, les lavé los pies, ustedes también deben lavarse los pies unos a otros.]
+
+### Juan 13:15 {#juan-13-15}
+ὑπόδειγμα γὰρ ἔδωκα ὑμῖν ἵνα καθὼς ἐγὼ ἐποίησα ὑμῖν καὶ ὑμεῖς ποιῆτε. 
+[Porque les he dado ejemplo, para que como Yo les he hecho, también ustedes lo hagan.]
+
+### Juan 13:16 {#juan-13-16}
+ἀμὴν ἀμὴν λέγω ὑμῖν, οὐκ ἔστιν δοῦλος μείζων τοῦ κυρίου αὐτοῦ οὐδὲ ἀπόστολος μείζων τοῦ πέμψαντος αὐτόν. 
+[En verdad les digo, que un siervo no es mayor que su señor, ni un enviado es mayor que el que lo envió.]
+
+### Juan 13:17 {#juan-13-17}
+εἰ ταῦτα οἴδατε, μακάριοί ἐστε ἐὰν ποιῆτε αὐτά. 
+[Si saben esto, serán felices si lo practican.]
+
+### Juan 13:18 {#juan-13-18}
+οὐ περὶ πάντων ὑμῶν λέγω· ἐγὼ οἶδα ⸀τίνας ἐξελεξάμην· ἀλλʼ ἵνα ἡ γραφὴ πληρωθῇ· Ὁ τρώγων ⸀μου τὸν ἄρτον ἐπῆρεν ἐπʼ ἐμὲ τὴν πτέρναν αὐτοῦ. 
+[No hablo de todos ustedes. Yo conozco a los que he escogido; pero es para que se cumpla la Escritura: “EL QUE COME MI PAN HA LEVANTADO CONTRA MÍ SU TALÓN”.]
+
+### Juan 13:19 {#juan-13-19}
+ἀπʼ ἄρτι λέγω ὑμῖν πρὸ τοῦ γενέσθαι, ἵνα ⸂πιστεύσητε ὅταν γένηται⸃ ὅτι ἐγώ εἰμι. 
+[Se lo digo desde ahora, antes de que pase, para que cuando suceda, crean que Yo soy.]
+
+### Juan 13:20 {#juan-13-20}
+ἀμὴν ἀμὴν λέγω ὑμῖν, ὁ λαμβάνων ⸀ἄν τινα πέμψω ἐμὲ λαμβάνει, ὁ δὲ ἐμὲ λαμβάνων λαμβάνει τὸν πέμψαντά με. 
+[En verdad les digo, que el que recibe al que Yo envíe, me recibe a Mí; y el que me recibe a Mí, recibe a Aquel que me envió».]
+
+### Juan 13:21 {#juan-13-21}
+Ταῦτα εἰπὼν ⸀ὁ Ἰησοῦς ἐταράχθη τῷ πνεύματι καὶ ἐμαρτύρησεν καὶ εἶπεν· Ἀμὴν ἀμὴν λέγω ὑμῖν ὅτι εἷς ἐξ ὑμῶν παραδώσει με. 
+[Habiendo dicho Jesús esto, se angustió en espíritu, y testificó y dijo: «En verdad les digo que uno de ustedes me entregará».]
+
+### Juan 13:22 {#juan-13-22}
+⸀ἔβλεπον εἰς ἀλλήλους οἱ μαθηταὶ ἀπορούμενοι περὶ τίνος λέγει. 
+[Los discípulos se miraban unos a otros, y estaban perplejos sin saber de quién hablaba.]
+
+### Juan 13:23 {#juan-13-23}
+⸀ἦν ἀνακείμενος εἷς ⸀ἐκ τῶν μαθητῶν αὐτοῦ ἐν τῷ κόλπῳ τοῦ Ἰησοῦ, ὃν ἠγάπα ὁ Ἰησοῦς· 
+[Uno de Sus discípulos, el que Jesús amaba, estaba a la mesa reclinado en el pecho de Jesús.]
+
+### Juan 13:24 {#juan-13-24}
+νεύει οὖν τούτῳ Σίμων Πέτρος ⸂πυθέσθαι τίς ἂν εἴη⸃ περὶ οὗ λέγει. 
+[Por eso Simón Pedro le hizo* señas, y le dijo*: «Dinos de quién habla».]
+
+### Juan 13:25 {#juan-13-25}
+⸀ἀναπεσὼν ἐκεῖνος οὕτως ἐπὶ τὸ στῆθος τοῦ Ἰησοῦ λέγει αὐτῷ· Κύριε, τίς ἐστιν; 
+[Entonces él, recostándose de nuevo sobre el pecho de Jesús, le dijo*: «Señor, ¿quién es?».]
+
+### Juan 13:26 {#juan-13-26}
+⸀ἀποκρίνεται ὁ Ἰησοῦς· Ἐκεῖνός ἐστιν ᾧ ἐγὼ ⸀βάψω τὸ ψωμίον ⸂καὶ δώσω αὐτῷ⸃· ⸂βάψας οὖν⸃ τὸ ⸀ψωμίον δίδωσιν Ἰούδᾳ Σίμωνος ⸀Ἰσκαριώτου. 
+[Entonces Jesús respondió*: «Es aquel a quien Yo le dé el pedazo de pan que voy a mojar». Y después de mojar el pedazo de pan, lo tomó* y se lo dio* a Judas, hijo de Simón Iscariote.]
+
+### Juan 13:27 {#juan-13-27}
+καὶ μετὰ τὸ ψωμίον τότε εἰσῆλθεν εἰς ἐκεῖνον ὁ Σατανᾶς. λέγει οὖν αὐτῷ ⸀ὁ Ἰησοῦς· Ὃ ποιεῖς ποίησον τάχιον. 
+[Y después de comer el pan, Satanás entró en él. Entonces Jesús le dijo*: «Lo que vas a hacer, hazlo pronto».]
+
+### Juan 13:28 {#juan-13-28}
+τοῦτο δὲ οὐδεὶς ἔγνω τῶν ἀνακειμένων πρὸς τί εἶπεν αὐτῷ· 
+[Pero ninguno de los que estaban sentados a la mesa entendió por qué le dijo esto.]
+
+### Juan 13:29 {#juan-13-29}
+τινὲς γὰρ ἐδόκουν, ἐπεὶ τὸ γλωσσόκομον ⸀εἶχεν Ἰούδας, ὅτι λέγει αὐτῷ ⸀ὁ Ἰησοῦς· Ἀγόρασον ὧν χρείαν ἔχομεν εἰς τὴν ἑορτήν, ἢ τοῖς πτωχοῖς ἵνα τι δῷ. 
+[Porque algunos pensaban que como Judas tenía la bolsa del dinero, Jesús le decía: «Compra lo que necesitamos para la fiesta», o que diera algo a los pobres.]
+
+### Juan 13:30 {#juan-13-30}
+λαβὼν οὖν τὸ ψωμίον ἐκεῖνος ⸂ἐξῆλθεν εὐθύς⸃. ἦν δὲ νύξ. 
+[Y Judas, después de recibir el bocado, salió inmediatamente; y ya era de noche.]
+
+### Juan 13:31 {#juan-13-31}
+Ὅτε ⸀οὖν ἐξῆλθεν ⸀λέγει Ἰησοῦς· Νῦν ἐδοξάσθη ὁ υἱὸς τοῦ ἀνθρώπου, καὶ ὁ θεὸς ἐδοξάσθη ἐν αὐτῷ· 
+[Entonces, cuando salió, Jesús dijo*: «Ahora es glorificado el Hijo del Hombre, y Dios es glorificado en Él.]
+
+### Juan 13:32 {#juan-13-32}
+⸂εἰ ὁ θεὸς ἐδοξάσθη ἐν αὐτῷ,⸃ καὶ ὁ θεὸς δοξάσει αὐτὸν ἐν ⸀αὑτῷ, καὶ εὐθὺς δοξάσει αὐτόν. 
+[Si Dios es glorificado en Él, Dios también lo glorificará en Él mismo, y lo glorificará enseguida.]
+
+### Juan 13:33 {#juan-13-33}
+τεκνία, ἔτι μικρὸν μεθʼ ὑμῶν εἰμι· ζητήσετέ με, καὶ καθὼς εἶπον τοῖς Ἰουδαίοις ὅτι Ὅπου ⸂ἐγὼ ὑπάγω⸃ ὑμεῖς οὐ δύνασθε ἐλθεῖν, καὶ ὑμῖν λέγω ἄρτι. 
+[Hijitos, estaré con ustedes un poco más de tiempo. Me buscarán, y como dije a los judíos, ahora también les digo a ustedes: “adonde Yo voy, ustedes no pueden ir”.]
+
+### Juan 13:34 {#juan-13-34}
+ἐντολὴν καινὴν δίδωμι ὑμῖν ἵνα ἀγαπᾶτε ἀλλήλους, καθὼς ἠγάπησα ὑμᾶς ἵνα καὶ ὑμεῖς ἀγαπᾶτε ἀλλήλους. 
+[Un mandamiento nuevo les doy: “que se amen los unos a los otros”; que como Yo los he amado, así también se amen los unos a los otros.]
+
+### Juan 13:35 {#juan-13-35}
+ἐν τούτῳ γνώσονται πάντες ὅτι ἐμοὶ μαθηταί ἐστε, ἐὰν ἀγάπην ἔχητε ἐν ἀλλήλοις. 
+[En esto conocerán todos que son Mis discípulos, si se tienen amor los unos a los otros».]
+
+### Juan 13:36 {#juan-13-36}
+Λέγει αὐτῷ Σίμων Πέτρος· Κύριε, ποῦ ὑπάγεις; ⸀ἀπεκρίθη Ἰησοῦς· Ὅπου ὑπάγω οὐ δύνασαί μοι νῦν ἀκολουθῆσαι, ⸂ἀκολουθήσεις δὲ ὕστερον⸃. 
+[«Señor, ¿adónde vas?», le preguntó* Simón Pedro. Jesús respondió: «Adonde Yo voy, tú no me puedes seguir ahora, pero me seguirás después».]
+
+### Juan 13:37 {#juan-13-37}
+λέγει αὐτῷ ⸀ὁ Πέτρος· Κύριε, διὰ τί οὐ δύναμαί σοι ⸀ἀκολουθῆσαι ἄρτι; τὴν ψυχήν μου ὑπὲρ σοῦ θήσω. 
+[Pedro le dijo*: «Señor, ¿por qué no te puedo seguir ahora mismo? ¡Yo daré mi vida por Ti!».]
+
+### Juan 13:38 {#juan-13-38}
+⸀ἀποκρίνεται Ἰησοῦς· Τὴν ψυχήν σου ὑπὲρ ἐμοῦ θήσεις; ἀμὴν ἀμὴν λέγω σοι, οὐ μὴ ἀλέκτωρ φωνήσῃ ἕως οὗ ⸀ἀρνήσῃ με τρίς. 
+[Jesús le respondió*: «¿Tu vida darás por Mí? En verdad te digo, que no cantará el gallo sin que antes me hayas negado tres veces.]
+
+### Juan 14:1 {#juan-14-1}
+Μὴ ταρασσέσθω ὑμῶν ἡ καρδία· πιστεύετε εἰς τὸν θεόν, καὶ εἰς ἐμὲ πιστεύετε. 
+[No se turbe su corazón; crean en Dios, crean también en Mí.]
+
+### Juan 14:2 {#juan-14-2}
+ἐν τῇ οἰκίᾳ τοῦ πατρός μου μοναὶ πολλαί εἰσιν· εἰ δὲ μή, εἶπον ἂν ὑμῖν ⸀ὅτι πορεύομαι ἑτοιμάσαι τόπον ὑμῖν· 
+[En la casa de Mi Padre hay muchas moradas; si no fuera así, se lo hubiera dicho; porque voy a preparar un lugar para ustedes.]
+
+### Juan 14:3 {#juan-14-3}
+καὶ ἐὰν πορευθῶ ⸀καὶ ἑτοιμάσω ⸂τόπον ὑμῖν⸃, πάλιν ἔρχομαι καὶ παραλήμψομαι ὑμᾶς πρὸς ἐμαυτόν, ἵνα ὅπου εἰμὶ ἐγὼ καὶ ὑμεῖς ἦτε. 
+[Y si me voy y les preparo un lugar, vendré otra vez y los tomaré adonde Yo voy; para que donde Yo esté, allí estén ustedes también.]
+
+### Juan 14:4 {#juan-14-4}
+καὶ ὅπου ἐγὼ ὑπάγω οἴδατε ⸂τὴν ὁδόν⸃. 
+[Y conocen el camino adonde voy».]
+
+### Juan 14:5 {#juan-14-5}
+λέγει αὐτῷ Θωμᾶς· Κύριε, οὐκ οἴδαμεν ποῦ ὑπάγεις· ⸀πῶς ⸂δυνάμεθα τὴν ὁδὸν εἰδέναι⸃; 
+[«Señor, si no sabemos adónde vas, ¿cómo vamos a conocer el camino?», le dijo* Tomás.]
+
+### Juan 14:6 {#juan-14-6}
+λέγει αὐτῷ ⸀ὁ Ἰησοῦς· Ἐγώ εἰμι ἡ ὁδὸς καὶ ἡ ἀλήθεια καὶ ἡ ζωή· οὐδεὶς ἔρχεται πρὸς τὸν πατέρα εἰ μὴ διʼ ἐμοῦ. 
+[Jesús le dijo*: «Yo soy el camino, la verdad y la vida; nadie viene al Padre sino por Mí.]
+
+### Juan 14:7 {#juan-14-7}
+εἰ ⸀ἐγνώκειτέ με, καὶ τὸν πατέρα μου ⸂ἂν ᾔδειτε⸃· ⸀ἀπʼ ἄρτι γινώσκετε αὐτὸν καὶ ἑωράκατε ⸀αὐτόν. 
+[Si ustedes me hubieran conocido, también hubieran conocido a Mi Padre; desde ahora lo conocen y lo han visto».]
+
+### Juan 14:8 {#juan-14-8}
+Λέγει αὐτῷ Φίλιππος· Κύριε, δεῖξον ἡμῖν τὸν πατέρα, καὶ ἀρκεῖ ἡμῖν. 
+[«Señor, muéstranos al Padre y nos basta», le dijo* Felipe.]
+
+### Juan 14:9 {#juan-14-9}
+λέγει αὐτῷ ὁ Ἰησοῦς· ⸂Τοσούτῳ χρόνῳ⸃ μεθʼ ὑμῶν εἰμι καὶ οὐκ ἔγνωκάς με, Φίλιππε; ὁ ἑωρακὼς ἐμὲ ἑώρακεν τὸν πατέρα· ⸀πῶς σὺ λέγεις· Δεῖξον ἡμῖν τὸν πατέρα; 
+[Jesús le dijo*: «¿Tanto tiempo he estado con ustedes, y todavía no me conoces, Felipe? El que me ha visto a Mí, ha visto al Padre. ¿Cómo dices tú: “Muéstranos al Padre”?]
+
+### Juan 14:10 {#juan-14-10}
+οὐ πιστεύεις ὅτι ἐγὼ ἐν τῷ πατρὶ καὶ ὁ πατὴρ ἐν ἐμοί ἐστιν; τὰ ῥήματα ἃ ἐγὼ ⸀λέγω ὑμῖν ἀπʼ ἐμαυτοῦ οὐ λαλῶ, ὁ δὲ ⸀πατὴρ ἐν ἐμοὶ ⸀μένων ποιεῖ τὰ ἔργα ⸀αὐτοῦ. 
+[¿No crees que Yo estoy en el Padre y el Padre en Mí? Las palabras que Yo les digo, no las hablo por Mi propia cuenta, sino que el Padre que mora en Mí es el que hace las obras.]
+
+### Juan 14:11 {#juan-14-11}
+πιστεύετέ μοι ὅτι ἐγὼ ἐν τῷ πατρὶ καὶ ὁ πατὴρ ἐν ἐμοί· εἰ δὲ μή, διὰ τὰ ἔργα αὐτὰ ⸀πιστεύετε. 
+[Créanme que Yo estoy en el Padre y el Padre en Mí; y si no, crean por las obras mismas.]
+
+### Juan 14:12 {#juan-14-12}
+ἀμὴν ἀμὴν λέγω ὑμῖν, ὁ πιστεύων εἰς ἐμὲ τὰ ἔργα ἃ ἐγὼ ποιῶ κἀκεῖνος ποιήσει, καὶ μείζονα τούτων ποιήσει, ὅτι ἐγὼ πρὸς τὸν ⸀πατέρα πορεύομαι· 
+[En verdad les digo: el que cree en Mí, las obras que Yo hago, él las hará también; y aun mayores que estas hará, porque Yo voy al Padre.]
+
+### Juan 14:13 {#juan-14-13}
+καὶ ὅ τι ἂν αἰτήσητε ἐν τῷ ὀνόματί μου τοῦτο ποιήσω, ἵνα δοξασθῇ ὁ πατὴρ ἐν τῷ υἱῷ· 
+[Y todo lo que pidan en Mi nombre, lo haré, para que el Padre sea glorificado en el Hijo.]
+
+### Juan 14:14 {#juan-14-14}
+ἐάν τι αἰτήσητέ ⸀με ἐν τῷ ὀνόματί μου ⸀ἐγὼ ποιήσω. 
+[Si me piden algo en Mi nombre, Yo lo haré.]
+
+### Juan 14:15 {#juan-14-15}
+Ἐὰν ἀγαπᾶτέ με, τὰς ἐντολὰς τὰς ἐμὰς ⸀τηρήσετε· 
+[Si ustedes me aman, guardarán Mis mandamientos.]
+
+### Juan 14:16 {#juan-14-16}
+κἀγὼ ἐρωτήσω τὸν πατέρα καὶ ἄλλον παράκλητον δώσει ὑμῖν ἵνα ⸀ᾖ μεθʼ ὑμῶν εἰς τὸν ⸀αἰῶνα, 
+[Entonces Yo rogaré al Padre, y Él les dará otro Consolador para que esté con ustedes para siempre;]
+
+### Juan 14:17 {#juan-14-17}
+τὸ πνεῦμα τῆς ἀληθείας, ὃ ὁ κόσμος οὐ δύναται λαβεῖν, ὅτι οὐ θεωρεῖ αὐτὸ οὐδὲ ⸀γινώσκει· ⸀ὑμεῖς γινώσκετε αὐτό, ὅτι παρʼ ὑμῖν μένει καὶ ἐν ὑμῖν ⸀ἔσται. 
+[es decir, el Espíritu de verdad, a quien el mundo no puede recibir, porque ni lo ve ni lo conoce, pero ustedes sí lo conocen porque mora con ustedes y estará en ustedes.]
+
+### Juan 14:18 {#juan-14-18}
+Οὐκ ἀφήσω ὑμᾶς ὀρφανούς, ἔρχομαι πρὸς ὑμᾶς. 
+[No los dejaré huérfanos; vendré a ustedes.]
+
+### Juan 14:19 {#juan-14-19}
+ἔτι μικρὸν καὶ ὁ κόσμος με οὐκέτι θεωρεῖ, ὑμεῖς δὲ θεωρεῖτέ με, ὅτι ἐγὼ ζῶ καὶ ὑμεῖς ⸀ζήσετε. 
+[Un poco más de tiempo y el mundo no me verá más, pero ustedes me verán; porque Yo vivo, ustedes también vivirán.]
+
+### Juan 14:20 {#juan-14-20}
+ἐν ἐκείνῃ τῇ ἡμέρᾳ ⸂γνώσεσθε ὑμεῖς⸃ ὅτι ἐγὼ ἐν τῷ πατρί μου καὶ ὑμεῖς ἐν ἐμοὶ κἀγὼ ἐν ὑμῖν. 
+[En ese día conocerán que Yo estoy en Mi Padre, y ustedes en Mí y Yo en ustedes.]
+
+### Juan 14:21 {#juan-14-21}
+ὁ ἔχων τὰς ἐντολάς μου καὶ τηρῶν αὐτὰς ἐκεῖνός ἐστιν ὁ ἀγαπῶν με· ὁ δὲ ἀγαπῶν με ἀγαπηθήσεται ὑπὸ τοῦ πατρός μου, κἀγὼ ἀγαπήσω αὐτὸν καὶ ἐμφανίσω αὐτῷ ἐμαυτόν. 
+[El que tiene Mis mandamientos y los guarda, ese es el que me ama; y el que me ama será amado por Mi Padre; y Yo lo amaré y me manifestaré a él».]
+
+### Juan 14:22 {#juan-14-22}
+λέγει αὐτῷ Ἰούδας, οὐχ ὁ Ἰσκαριώτης· Κύριε, ⸀τί γέγονεν ὅτι ἡμῖν μέλλεις ἐμφανίζειν σεαυτὸν καὶ οὐχὶ τῷ κόσμῳ; 
+[Judas (no el Iscariote) le dijo*: «Señor, ¿y qué ha pasado que te vas a manifestar a nosotros y no al mundo?».]
+
+### Juan 14:23 {#juan-14-23}
+ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτῷ· Ἐάν τις ἀγαπᾷ με τὸν λόγον μου τηρήσει, καὶ ὁ πατήρ μου ἀγαπήσει αὐτόν, καὶ πρὸς αὐτὸν ἐλευσόμεθα καὶ μονὴν παρʼ αὐτῷ ⸀ποιησόμεθα. 
+[Jesús le respondió: «Si alguien me ama, guardará Mi palabra; y Mi Padre lo amará, y vendremos a él, y haremos con él morada.]
+
+### Juan 14:24 {#juan-14-24}
+ὁ μὴ ἀγαπῶν με τοὺς λόγους μου οὐ τηρεῖ· καὶ ὁ λόγος ὃν ἀκούετε οὐκ ἔστιν ἐμὸς ἀλλὰ τοῦ πέμψαντός με πατρός. 
+[El que no me ama, no guarda Mis palabras; y la palabra que ustedes oyen no es Mía, sino del Padre que me envió.]
+
+### Juan 14:25 {#juan-14-25}
+Ταῦτα λελάληκα ὑμῖν παρʼ ὑμῖν μένων· 
+[Estas cosas les he dicho estando con ustedes.]
+
+### Juan 14:26 {#juan-14-26}
+ὁ δὲ παράκλητος, τὸ πνεῦμα τὸ ἅγιον ὃ πέμψει ὁ πατὴρ ἐν τῷ ὀνόματί μου, ἐκεῖνος ὑμᾶς διδάξει πάντα καὶ ὑπομνήσει ὑμᾶς πάντα ἃ εἶπον ⸀ὑμῖν. 
+[Pero el Consolador, el Espíritu Santo, a quien el Padre enviará en Mi nombre, Él les enseñará todas las cosas, y les recordará todo lo que les he dicho.]
+
+### Juan 14:27 {#juan-14-27}
+εἰρήνην ἀφίημι ὑμῖν, εἰρήνην τὴν ἐμὴν δίδωμι ὑμῖν· οὐ καθὼς ὁ κόσμος δίδωσιν ἐγὼ δίδωμι ὑμῖν. μὴ ταρασσέσθω ὑμῶν ἡ καρδία μηδὲ δειλιάτω. 
+[La paz les dejo, Mi paz les doy; no se la doy a ustedes como el mundo la da. No se turbe su corazón ni tenga miedo.]
+
+### Juan 14:28 {#juan-14-28}
+ἠκούσατε ὅτι ἐγὼ εἶπον ὑμῖν· Ὑπάγω καὶ ἔρχομαι πρὸς ὑμᾶς. εἰ ἠγαπᾶτέ με ἐχάρητε ἄν, ⸀ὅτι πορεύομαι πρὸς τὸν πατέρα, ὅτι ὁ ⸀πατὴρ μείζων μού ἐστιν. 
+[Oyeron que les dije: “Me voy, y vendré a ustedes”. Si me amaran, se regocijarían, porque voy al Padre, ya que el Padre es mayor que Yo.]
+
+### Juan 14:29 {#juan-14-29}
+καὶ νῦν εἴρηκα ὑμῖν πρὶν γενέσθαι, ἵνα ὅταν γένηται πιστεύσητε. 
+[Y se lo he dicho ahora, antes que suceda, para que cuando suceda, crean.]
+
+### Juan 14:30 {#juan-14-30}
+οὐκέτι πολλὰ λαλήσω μεθʼ ὑμῶν, ἔρχεται γὰρ ὁ τοῦ κόσμου ἄρχων· καὶ ἐν ἐμοὶ οὐκ ἔχει οὐδέν, 
+[No hablaré mucho más con ustedes, porque viene el príncipe de este mundo, y él no tiene nada en Mí;]
+
+### Juan 14:31 {#juan-14-31}
+ἀλλʼ ἵνα γνῷ ὁ κόσμος ὅτι ἀγαπῶ τὸν πατέρα, καὶ καθὼς ⸀ἐνετείλατο μοι ὁ πατὴρ οὕτως ποιῶ. Ἐγείρεσθε, ἄγωμεν ἐντεῦθεν. 
+[pero para que el mundo sepa que Yo amo al Padre, y como el Padre me mandó, así hago. Levántense, vámonos de aquí.]
+
+### Juan 15:1 {#juan-15-1}
+Ἐγώ εἰμι ἡ ἄμπελος ἡ ἀληθινή, καὶ ὁ πατήρ μου ὁ γεωργός ἐστιν· 
+[Yo soy la vid verdadera, y Mi Padre es el viñador.]
+
+### Juan 15:2 {#juan-15-2}
+πᾶν κλῆμα ἐν ἐμοὶ μὴ φέρον καρπὸν αἴρει αὐτό, καὶ πᾶν τὸ καρπὸν φέρον καθαίρει αὐτὸ ἵνα ⸂καρπὸν πλείονα⸃ φέρῃ. 
+[Todo sarmiento que en Mí no da fruto, lo quita; y todo el que da fruto, lo poda para que dé más fruto.]
+
+### Juan 15:3 {#juan-15-3}
+ἤδη ὑμεῖς καθαροί ἐστε διὰ τὸν λόγον ὃν λελάληκα ὑμῖν· 
+[Ustedes ya están limpios por la palabra que les he hablado.]
+
+### Juan 15:4 {#juan-15-4}
+μείνατε ἐν ἐμοί, κἀγὼ ἐν ὑμῖν. καθὼς τὸ κλῆμα οὐ δύναται καρπὸν φέρειν ἀφʼ ἑαυτοῦ ἐὰν μὴ ⸀μένῃ ἐν τῇ ἀμπέλῳ, οὕτως οὐδὲ ὑμεῖς ἐὰν μὴ ἐν ἐμοὶ ⸀μένητε. 
+[Permanezcan en Mí, y Yo en ustedes. Como el sarmiento no puede dar fruto por sí mismo si no permanece en la vid, así tampoco ustedes si no permanecen en Mí.]
+
+### Juan 15:5 {#juan-15-5}
+ἐγώ εἰμι ἡ ἄμπελος, ὑμεῖς τὰ κλήματα. ὁ μένων ἐν ἐμοὶ κἀγὼ ἐν αὐτῷ οὗτος φέρει καρπὸν πολύν, ὅτι χωρὶς ἐμοῦ οὐ δύνασθε ποιεῖν οὐδέν. 
+[Yo soy la vid, ustedes los sarmientos; el que permanece en Mí y Yo en él, ese da mucho fruto, porque separados de Mí nada pueden hacer.]
+
+### Juan 15:6 {#juan-15-6}
+ἐὰν μή τις ⸀μένῃ ἐν ἐμοί, ἐβλήθη ἔξω ὡς τὸ κλῆμα καὶ ἐξηράνθη, καὶ συνάγουσιν αὐτὰ καὶ εἰς τὸ πῦρ βάλλουσιν καὶ καίεται. 
+[Si alguien no permanece en Mí, es echado fuera como un sarmiento y se seca; y los recogen, los echan al fuego y se queman.]
+
+### Juan 15:7 {#juan-15-7}
+ἐὰν μείνητε ἐν ἐμοὶ καὶ τὰ ῥήματά μου ἐν ὑμῖν μείνῃ, ὃ ἐὰν θέλητε ⸀αἰτήσασθε καὶ γενήσεται ὑμῖν· 
+[Si permanecen en Mí, y Mis palabras permanecen en ustedes, pidan lo que quieran y les será hecho.]
+
+### Juan 15:8 {#juan-15-8}
+ἐν τούτῳ ἐδοξάσθη ὁ πατήρ μου ἵνα καρπὸν πολὺν φέρητε καὶ ⸀γένησθε ἐμοὶ μαθηταί. 
+[En esto es glorificado Mi Padre, en que den mucho fruto, y así prueben que son Mis discípulos.]
+
+### Juan 15:9 {#juan-15-9}
+καθὼς ἠγάπησέν με ὁ πατήρ, κἀγὼ ⸂ὑμᾶς ἠγάπησα⸃, μείνατε ἐν τῇ ἀγάπῃ τῇ ἐμῇ. 
+[Como el Padre me ha amado, así también Yo los he amado; permanezcan en Mi amor.]
+
+### Juan 15:10 {#juan-15-10}
+ἐὰν τὰς ἐντολάς μου τηρήσητε, μενεῖτε ἐν τῇ ἀγάπῃ μου, καθὼς ἐγὼ ⸂τὰς ἐντολὰς τοῦ πατρός μου⸃ τετήρηκα καὶ μένω αὐτοῦ ἐν τῇ ἀγάπῃ. 
+[Si guardan Mis mandamientos, permanecerán en Mi amor, así como Yo he guardado los mandamientos de Mi Padre y permanezco en Su amor.]
+
+### Juan 15:11 {#juan-15-11}
+ταῦτα λελάληκα ὑμῖν ἵνα ἡ χαρὰ ἡ ἐμὴ ἐν ὑμῖν ⸀ᾖ καὶ ἡ χαρὰ ὑμῶν πληρωθῇ. 
+[Estas cosas les he hablado, para que Mi gozo esté en ustedes, y su gozo sea perfecto.]
+
+### Juan 15:12 {#juan-15-12}
+Αὕτη ἐστὶν ἡ ἐντολὴ ἡ ἐμὴ ἵνα ἀγαπᾶτε ἀλλήλους καθὼς ἠγάπησα ὑμᾶς· 
+[Este es Mi mandamiento: que se amen los unos a los otros, así como Yo los he amado.]
+
+### Juan 15:13 {#juan-15-13}
+μείζονα ταύτης ἀγάπην οὐδεὶς ἔχει, ἵνα τις τὴν ψυχὴν αὐτοῦ θῇ ὑπὲρ τῶν φίλων αὐτοῦ. 
+[Nadie tiene un amor mayor que este: que uno dé su vida por sus amigos.]
+
+### Juan 15:14 {#juan-15-14}
+ὑμεῖς φίλοι μού ἐστε ἐὰν ποιῆτε ⸀ἃ ἐγὼ ἐντέλλομαι ὑμῖν. 
+[Ustedes son Mis amigos si hacen lo que Yo les mando.]
+
+### Juan 15:15 {#juan-15-15}
+οὐκέτι ⸂λέγω ὑμᾶς⸃ δούλους, ὅτι ὁ δοῦλος οὐκ οἶδεν τί ποιεῖ αὐτοῦ ὁ κύριος· ὑμᾶς δὲ εἴρηκα φίλους, ὅτι πάντα ἃ ἤκουσα παρὰ τοῦ πατρός μου ἐγνώρισα ὑμῖν. 
+[Ya no los llamo siervos, porque el siervo no sabe lo que hace su señor; pero los he llamado amigos, porque les he dado a conocer todo lo que he oído de Mi Padre.]
+
+### Juan 15:16 {#juan-15-16}
+οὐχ ὑμεῖς με ἐξελέξασθε, ἀλλʼ ἐγὼ ἐξελεξάμην ὑμᾶς, καὶ ἔθηκα ὑμᾶς ἵνα ὑμεῖς ὑπάγητε καὶ καρπὸν φέρητε καὶ ὁ καρπὸς ὑμῶν μένῃ, ἵνα ὅ τι ἂν αἰτήσητε τὸν πατέρα ἐν τῷ ὀνόματί μου δῷ ὑμῖν. 
+[Ustedes no me escogieron a Mí, sino que Yo los escogí a ustedes, y los designé para que vayan y den fruto, y que su fruto permanezca; para que todo lo que pidan al Padre en Mi nombre se lo conceda.]
+
+### Juan 15:17 {#juan-15-17}
+ταῦτα ἐντέλλομαι ὑμῖν ἵνα ἀγαπᾶτε ἀλλήλους. 
+[Esto les mando: que se amen los unos a los otros.]
+
+### Juan 15:18 {#juan-15-18}
+Εἰ ὁ κόσμος ὑμᾶς μισεῖ, γινώσκετε ὅτι ἐμὲ πρῶτον ⸀ὑμῶν μεμίσηκεν. 
+[Si el mundo los odia, sepan que me ha odiado a Mí antes que a ustedes.]
+
+### Juan 15:19 {#juan-15-19}
+εἰ ἐκ τοῦ κόσμου ἦτε, ὁ κόσμος ἂν τὸ ἴδιον ἐφίλει· ὅτι δὲ ἐκ τοῦ κόσμου οὐκ ἐστέ, ἀλλʼ ἐγὼ ἐξελεξάμην ὑμᾶς ἐκ τοῦ κόσμου, διὰ τοῦτο μισεῖ ὑμᾶς ὁ κόσμος. 
+[Si ustedes fueran del mundo, el mundo amaría lo suyo; pero como no son del mundo, sino que Yo los escogí de entre el mundo, por eso el mundo los odia.]
+
+### Juan 15:20 {#juan-15-20}
+μνημονεύετε τοῦ λόγου οὗ ἐγὼ εἶπον ὑμῖν· Οὐκ ἔστιν δοῦλος μείζων τοῦ κυρίου αὐτοῦ· εἰ ἐμὲ ἐδίωξαν, καὶ ὑμᾶς διώξουσιν· εἰ τὸν λόγον μου ἐτήρησαν, καὶ τὸν ὑμέτερον τηρήσουσιν. 
+[Acuérdense de la palabra que Yo les dije: “Un siervo no es mayor que su señor”. Si me persiguieron a Mí, también los perseguirán a ustedes; si guardaron Mi palabra, también guardarán la de ustedes.]
+
+### Juan 15:21 {#juan-15-21}
+ἀλλὰ ταῦτα πάντα ποιήσουσιν ⸂εἰς ὑμᾶς⸃ διὰ τὸ ὄνομά μου, ὅτι οὐκ οἴδασιν τὸν πέμψαντά με. 
+[Pero todo eso les harán por causa de Mi nombre, porque no conocen a Aquel que me envió.]
+
+### Juan 15:22 {#juan-15-22}
+εἰ μὴ ἦλθον καὶ ἐλάλησα αὐτοῖς, ἁμαρτίαν οὐκ ⸀εἴχοσαν· νῦν δὲ πρόφασιν οὐκ ἔχουσιν περὶ τῆς ἁμαρτίας αὐτῶν. 
+[Si Yo no hubiera venido y no les hubiera hablado, no tendrían pecado, pero ahora no tienen excusa por su pecado.]
+
+### Juan 15:23 {#juan-15-23}
+ὁ ἐμὲ μισῶν καὶ τὸν πατέρα μου μισεῖ. 
+[El que me odia a Mí, odia también a Mi Padre.]
+
+### Juan 15:24 {#juan-15-24}
+εἰ τὰ ἔργα μὴ ἐποίησα ἐν αὐτοῖς ἃ οὐδεὶς ἄλλος ⸀ἐποίησεν, ἁμαρτίαν οὐκ ⸀εἴχοσαν· νῦν δὲ καὶ ἑωράκασιν καὶ μεμισήκασιν καὶ ἐμὲ καὶ τὸν πατέρα μου. 
+[Si Yo no hubiera hecho entre ellos las obras que ningún otro ha hecho, no tendrían pecado; pero ahora las han visto, y me han odiado a Mí y también a Mi Padre.]
+
+### Juan 15:25 {#juan-15-25}
+ἀλλʼ ἵνα πληρωθῇ ὁ λόγος ὁ ⸂ἐν τῷ νόμῳ αὐτῶν γεγραμμένος⸃ ὅτι Ἐμίσησάν με δωρεάν. 
+[Pero ellos han hecho esto para que se cumpla la palabra que está escrita en su ley: “ME ODIARON SIN CAUSA”.]
+
+### Juan 15:26 {#juan-15-26}
+⸀Ὅταν ἔλθῃ ὁ παράκλητος ὃν ἐγὼ πέμψω ὑμῖν παρὰ τοῦ πατρός, τὸ πνεῦμα τῆς ἀληθείας ὃ παρὰ τοῦ πατρὸς ἐκπορεύεται, ἐκεῖνος μαρτυρήσει περὶ ἐμοῦ· 
+[Cuando venga el Consolador, a quien yo enviaré del Padre, es decir, el Espíritu de verdad que procede del Padre, Él dará testimonio de Mí,]
+
+### Juan 15:27 {#juan-15-27}
+καὶ ὑμεῖς δὲ μαρτυρεῖτε, ὅτι ἀπʼ ἀρχῆς μετʼ ἐμοῦ ἐστε. 
+[y ustedes también darán testimonio, porque han estado junto a Mí desde el principio.]
+
+### Juan 16:1 {#juan-16-1}
+Ταῦτα λελάληκα ὑμῖν ἵνα μὴ σκανδαλισθῆτε. 
+[Estas cosas les he dicho para que no tengan tropiezo.]
+
+### Juan 16:2 {#juan-16-2}
+ἀποσυναγώγους ποιήσουσιν ὑμᾶς· ἀλλʼ ἔρχεται ὥρα ἵνα πᾶς ὁ ἀποκτείνας ὑμᾶς δόξῃ λατρείαν προσφέρειν τῷ θεῷ. 
+[Los expulsarán de las sinagogas; pero viene la hora cuando cualquiera que los mate pensará que así rinde un servicio a Dios.]
+
+### Juan 16:3 {#juan-16-3}
+καὶ ταῦτα ποιήσουσιν ὅτι οὐκ ἔγνωσαν τὸν πατέρα οὐδὲ ἐμέ. 
+[Y harán estas cosas porque no han conocido ni al Padre ni a Mí.]
+
+### Juan 16:4 {#juan-16-4}
+ἀλλὰ ταῦτα λελάληκα ὑμῖν ἵνα ὅταν ἔλθῃ ἡ ὥρα ⸀αὐτῶν μνημονεύητε ⸁αὐτῶν ὅτι ἐγὼ εἶπον ὑμῖν. Ταῦτα δὲ ὑμῖν ἐξ ἀρχῆς οὐκ εἶπον, ὅτι μεθʼ ὑμῶν ἤμην. 
+[Pero les he dicho estas cosas para que cuando llegue la hora, se acuerden de que ya les había hablado de ellas. Y no les dije estas cosas al principio, porque Yo estaba con ustedes.]
+
+### Juan 16:5 {#juan-16-5}
+νῦν δὲ ὑπάγω πρὸς τὸν πέμψαντά με καὶ οὐδεὶς ἐξ ὑμῶν ἐρωτᾷ με· Ποῦ ὑπάγεις; 
+[Pero ahora voy al que me envió, y ninguno de ustedes me pregunta: “¿Adónde vas?”.]
+
+### Juan 16:6 {#juan-16-6}
+ἀλλʼ ὅτι ταῦτα λελάληκα ὑμῖν ἡ λύπη πεπλήρωκεν ὑμῶν τὴν καρδίαν. 
+[Pero porque les he dicho estas cosas, la tristeza ha llenado su corazón.]
+
+### Juan 16:7 {#juan-16-7}
+ἀλλʼ ἐγὼ τὴν ἀλήθειαν λέγω ὑμῖν, συμφέρει ὑμῖν ἵνα ἐγὼ ἀπέλθω. ἐὰν ⸀γὰρ μὴ ἀπέλθω, ὁ παράκλητος ⸂οὐ μὴ ἔλθῃ⸃ πρὸς ὑμᾶς· ἐὰν δὲ πορευθῶ, πέμψω αὐτὸν πρὸς ὑμᾶς. 
+[Pero Yo les digo la verdad: les conviene que Yo me vaya; porque si no me voy, el Consolador no vendrá a ustedes; pero si me voy, se lo enviaré.]
+
+### Juan 16:8 {#juan-16-8}
+καὶ ἐλθὼν ἐκεῖνος ἐλέγξει τὸν κόσμον περὶ ἁμαρτίας καὶ περὶ δικαιοσύνης καὶ περὶ κρίσεως· 
+[Y cuando Él venga, convencerá al mundo de pecado, de justicia y de juicio;]
+
+### Juan 16:9 {#juan-16-9}
+περὶ ἁμαρτίας μέν, ὅτι οὐ πιστεύουσιν εἰς ἐμέ· 
+[de pecado, porque no creen en Mí;]
+
+### Juan 16:10 {#juan-16-10}
+περὶ δικαιοσύνης δέ, ὅτι πρὸς τὸν ⸀πατέρα ὑπάγω καὶ οὐκέτι θεωρεῖτέ με· 
+[de justicia, porque Yo voy al Padre y ustedes no me verán más;]
+
+### Juan 16:11 {#juan-16-11}
+περὶ δὲ κρίσεως, ὅτι ὁ ἄρχων τοῦ κόσμου τούτου κέκριται. 
+[y de juicio, porque el príncipe de este mundo ha sido juzgado.]
+
+### Juan 16:12 {#juan-16-12}
+Ἔτι πολλὰ ἔχω ⸂ὑμῖν λέγειν⸃, ἀλλʼ οὐ δύνασθε βαστάζειν ἄρτι· 
+[Aún tengo muchas cosas que decirles, pero ahora no las pueden soportar.]
+
+### Juan 16:13 {#juan-16-13}
+ὅταν δὲ ἔλθῃ ἐκεῖνος, τὸ πνεῦμα τῆς ἀληθείας, ὁδηγήσει ὑμᾶς ⸂ἐν τῇ ἀληθείᾳ πάσῃ⸃, οὐ γὰρ λαλήσει ἀφʼ ἑαυτοῦ, ἀλλʼ ὅσα ⸀ἀκούσει λαλήσει, καὶ τὰ ἐρχόμενα ἀναγγελεῖ ὑμῖν. 
+[Pero cuando Él, el Espíritu de verdad venga, los guiará a toda la verdad, porque no hablará por Su propia cuenta, sino que hablará todo lo que oiga, y les hará saber lo que habrá de venir.]
+
+### Juan 16:14 {#juan-16-14}
+ἐκεῖνος ἐμὲ δοξάσει, ὅτι ἐκ τοῦ ἐμοῦ λήμψεται καὶ ἀναγγελεῖ ὑμῖν. 
+[Él me glorificará, porque tomará de lo Mío y se lo hará saber a ustedes.]
+
+### Juan 16:15 {#juan-16-15}
+πάντα ὅσα ἔχει ὁ πατὴρ ἐμά ἐστιν· διὰ τοῦτο εἶπον ὅτι ἐκ τοῦ ἐμοῦ λαμβάνει καὶ ἀναγγελεῖ ὑμῖν. 
+[Todo lo que tiene el Padre es Mío; por eso dije que Él toma de lo Mío y se lo hará saber a ustedes.]
+
+### Juan 16:16 {#juan-16-16}
+Μικρὸν καὶ ⸀οὐκέτι θεωρεῖτέ με, καὶ πάλιν μικρὸν καὶ ὄψεσθέ ⸀με. 
+[Un poco más, y ya no me verán; y de nuevo un poco, y me verán».]
+
+### Juan 16:17 {#juan-16-17}
+εἶπαν οὖν ἐκ τῶν μαθητῶν αὐτοῦ πρὸς ἀλλήλους· Τί ἐστιν τοῦτο ὃ λέγει ἡμῖν· Μικρὸν καὶ οὐ θεωρεῖτέ με, καὶ πάλιν μικρὸν καὶ ὄψεσθέ με; καί· ⸀Ὅτι ὑπάγω πρὸς τὸν πατέρα; 
+[Entonces algunos de Sus discípulos se decían unos a otros: «¿Qué es esto que nos dice: “Un poco más, y no me verán, y de nuevo un poco, y me verán” y “Porque Yo voy al Padre”?».]
+
+### Juan 16:18 {#juan-16-18}
+ἔλεγον οὖν· ⸂Τί ἐστιν τοῦτο⸃ ὃ ⸀λέγει μικρόν; οὐκ οἴδαμεν τί λαλεῖ. 
+[Por eso decían: «¿Qué es esto que dice: “Un poco”? No sabemos de qué habla».]
+
+### Juan 16:19 {#juan-16-19}
+⸀ἔγνω Ἰησοῦς ὅτι ἤθελον αὐτὸν ἐρωτᾶν, καὶ εἶπεν αὐτοῖς· Περὶ τούτου ζητεῖτε μετʼ ἀλλήλων ὅτι εἶπον· Μικρὸν καὶ οὐ θεωρεῖτέ με, καὶ πάλιν μικρὸν καὶ ὄψεσθέ με; 
+[Jesús sabía que querían preguntarle, y les dijo: «¿Están discutiendo entre ustedes sobre esto, porque dije: “Un poco más, y no me verán, y de nuevo un poco, y me verán”?]
+
+### Juan 16:20 {#juan-16-20}
+ἀμὴν ἀμὴν λέγω ὑμῖν ὅτι κλαύσετε καὶ θρηνήσετε ὑμεῖς, ὁ δὲ κόσμος χαρήσεται· ⸀ὑμεῖς λυπηθήσεσθε, ἀλλʼ ἡ λύπη ὑμῶν εἰς χαρὰν γενήσεται. 
+[En verdad les digo, que llorarán y se lamentarán, pero el mundo se alegrará; ustedes estarán tristes, pero su tristeza se convertirá en alegría.]
+
+### Juan 16:21 {#juan-16-21}
+ἡ γυνὴ ὅταν τίκτῃ λύπην ἔχει, ὅτι ἦλθεν ἡ ὥρα αὐτῆς· ὅταν δὲ γεννήσῃ τὸ παιδίον, οὐκέτι μνημονεύει τῆς θλίψεως διὰ τὴν χαρὰν ὅτι ἐγεννήθη ἄνθρωπος εἰς τὸν κόσμον. 
+[Cuando la mujer está para dar a luz, tiene aflicción, porque ha llegado su hora; pero cuando da a luz al niño, ya no se acuerda de la angustia, por la alegría de que un niño haya nacido en el mundo.]
+
+### Juan 16:22 {#juan-16-22}
+καὶ ὑμεῖς οὖν ⸂νῦν μὲν λύπην⸃ ἔχετε· πάλιν δὲ ὄψομαι ὑμᾶς, καὶ χαρήσεται ὑμῶν ἡ καρδία, καὶ τὴν χαρὰν ὑμῶν οὐδεὶς ⸀αἴρει ἀφʼ ὑμῶν. 
+[Por tanto, ahora ustedes tienen también aflicción; pero Yo los veré otra vez, y su corazón se alegrará, y nadie les quitará su gozo.]
+
+### Juan 16:23 {#juan-16-23}
+καὶ ἐν ἐκείνῃ τῇ ἡμέρᾳ ἐμὲ οὐκ ἐρωτήσετε οὐδέν· ἀμὴν ἀμὴν λέγω ὑμῖν, ⸂ἄν τι⸃ αἰτήσητε τὸν πατέρα ⸂δώσει ὑμῖν ἐν τῷ ὀνόματί μου⸃. 
+[En aquel día no me preguntarán nada. En verdad les digo, que si piden algo al Padre en Mi nombre, Él se lo dará.]
+
+### Juan 16:24 {#juan-16-24}
+ἕως ἄρτι οὐκ ᾐτήσατε οὐδὲν ἐν τῷ ὀνόματί μου· αἰτεῖτε καὶ λήμψεσθε, ἵνα ἡ χαρὰ ὑμῶν ᾖ πεπληρωμένη. 
+[Hasta ahora nada han pedido en Mi nombre; pidan y recibirán, para que su gozo sea completo.]
+
+### Juan 16:25 {#juan-16-25}
+Ταῦτα ἐν παροιμίαις λελάληκα ὑμῖν· ⸀ἔρχεται ὥρα ὅτε οὐκέτι ἐν παροιμίαις λαλήσω ὑμῖν ἀλλὰ παρρησίᾳ περὶ τοῦ πατρὸς ⸀ἀπαγγελῶ ὑμῖν. 
+[Estas cosas les he hablado en lenguaje figurado; viene el tiempo cuando no les hablaré más en lenguaje figurado, sino que les hablaré del Padre claramente.]
+
+### Juan 16:26 {#juan-16-26}
+ἐν ἐκείνῃ τῇ ἡμέρᾳ ἐν τῷ ὀνόματί μου αἰτήσεσθε, καὶ οὐ λέγω ὑμῖν ὅτι ἐγὼ ἐρωτήσω τὸν πατέρα περὶ ὑμῶν· 
+[En ese día pedirán en Mi nombre, y no les digo que Yo rogaré al Padre por ustedes,]
+
+### Juan 16:27 {#juan-16-27}
+αὐτὸς γὰρ ὁ πατὴρ φιλεῖ ὑμᾶς, ὅτι ὑμεῖς ἐμὲ πεφιλήκατε καὶ πεπιστεύκατε ὅτι ἐγὼ παρὰ τοῦ ⸀θεοῦ ἐξῆλθον. 
+[pues el Padre mismo los ama, porque ustedes me han amado y han creído que Yo salí del Padre.]
+
+### Juan 16:28 {#juan-16-28}
+ἐξῆλθον ⸀ἐκ τοῦ πατρὸς καὶ ἐλήλυθα εἰς τὸν κόσμον· πάλιν ἀφίημι τὸν κόσμον καὶ πορεύομαι πρὸς τὸν πατέρα. 
+[Salí del Padre y he venido al mundo; de nuevo, dejo el mundo y voy al Padre».]
+
+### Juan 16:29 {#juan-16-29}
+⸀Λέγουσιν οἱ μαθηταὶ αὐτοῦ· Ἴδε νῦν ⸀ἐν παρρησίᾳ λαλεῖς, καὶ παροιμίαν οὐδεμίαν λέγεις. 
+[Sus discípulos le dijeron*: «Ahora hablas claramente y no usas lenguaje figurado.]
+
+### Juan 16:30 {#juan-16-30}
+νῦν οἴδαμεν ὅτι οἶδας πάντα καὶ οὐ χρείαν ἔχεις ἵνα τίς σε ἐρωτᾷ· ἐν τούτῳ πιστεύομεν ὅτι ἀπὸ θεοῦ ἐξῆλθες. 
+[Ahora entendemos que Tú sabes todas las cosas, y no necesitas que nadie te pregunte; por esto creemos que Tú viniste de Dios».]
+
+### Juan 16:31 {#juan-16-31}
+ἀπεκρίθη ⸀αὐτοῖς Ἰησοῦς· Ἄρτι πιστεύετε; 
+[Jesús les respondió: «¿Ahora creen?]
+
+### Juan 16:32 {#juan-16-32}
+ἰδοὺ ἔρχεται ὥρα ⸀καὶ ἐλήλυθεν ἵνα σκορπισθῆτε ἕκαστος εἰς τὰ ἴδια κἀμὲ μόνον ἀφῆτε· καὶ οὐκ εἰμὶ μόνος, ὅτι ὁ πατὴρ μετʼ ἐμοῦ ἐστιν. 
+[Miren, la hora viene, y ya ha llegado, en que serán esparcidos, cada uno por su lado, y me dejarán solo; y sin embargo no estoy solo, porque el Padre está conmigo.]
+
+### Juan 16:33 {#juan-16-33}
+ταῦτα λελάληκα ὑμῖν ἵνα ἐν ἐμοὶ εἰρήνην ἔχητε· ἐν τῷ κόσμῳ θλῖψιν ἔχετε, ἀλλὰ θαρσεῖτε, ἐγὼ νενίκηκα τὸν κόσμον. 
+[Estas cosas les he hablado para que en Mí tengan paz. En el mundo tienen tribulación; pero confíen, Yo he vencido al mundo».]
+
+### Juan 17:1 {#juan-17-1}
+Ταῦτα ⸀ἐλάλησεν Ἰησοῦς, καὶ ⸂ἐπάρας τοὺς ὀφθαλμοὺς αὐτοῦ εἰς τὸν οὐρανὸν εἶπεν⸃· Πάτερ, ἐλήλυθεν ἡ ὥρα· δόξασόν σου τὸν υἱόν, ⸀ἵνα ὁ ⸀υἱὸς δοξάσῃ σέ, 
+[Estas cosas habló Jesús, y alzando los ojos al cielo, dijo: «Padre, la hora ha llegado; glorifica a Tu Hijo, para que el Hijo te glorifique a Ti,]
+
+### Juan 17:2 {#juan-17-2}
+καθὼς ἔδωκας αὐτῷ ἐξουσίαν πάσης σαρκός, ἵνα πᾶν ὃ δέδωκας αὐτῷ ⸀δώσῃ αὐτοῖς ζωὴν αἰώνιον. 
+[por cuanto le diste autoridad sobre todo ser humano, para que Él dé vida eterna a todos los que le has dado.]
+
+### Juan 17:3 {#juan-17-3}
+αὕτη δέ ἐστιν ἡ αἰώνιος ζωὴ ἵνα γινώσκωσι σὲ τὸν μόνον ἀληθινὸν θεὸν καὶ ὃν ἀπέστειλας Ἰησοῦν Χριστόν. 
+[Y esta es la vida eterna: que te conozcan a Ti, el único Dios verdadero, y a Jesucristo, a quien has enviado.]
+
+### Juan 17:4 {#juan-17-4}
+ἐγώ σε ἐδόξασα ἐπὶ τῆς γῆς, τὸ ἔργον ⸀τελειώσας ὃ δέδωκάς μοι ἵνα ποιήσω· 
+[Yo te glorifiqué en la tierra, habiendo terminado la obra que me diste que hiciera.]
+
+### Juan 17:5 {#juan-17-5}
+καὶ νῦν δόξασόν με σύ, πάτερ, παρὰ σεαυτῷ τῇ δόξῃ ᾗ εἶχον πρὸ τοῦ τὸν κόσμον εἶναι παρὰ σοί. 
+[Y ahora, glorifícame Tú, Padre, junto a Ti, con la gloria que tenía contigo antes que el mundo existiera.]
+
+### Juan 17:6 {#juan-17-6}
+Ἐφανέρωσά σου τὸ ὄνομα τοῖς ἀνθρώποις οὓς ⸀ἔδωκάς μοι ἐκ τοῦ κόσμου. σοὶ ἦσαν κἀμοὶ αὐτοὺς ⸁ἔδωκας, καὶ τὸν λόγον σου τετήρηκαν. 
+[He manifestado Tu nombre a los hombres que del mundo me diste; eran Tuyos y me los diste, y han guardado Tu palabra.]
+
+### Juan 17:7 {#juan-17-7}
+νῦν ἔγνωκαν ὅτι πάντα ὅσα ⸀δέδωκάς μοι παρὰ σοῦ ⸀εἰσιν· 
+[Ahora han conocido que todo lo que me has dado viene de Ti;]
+
+### Juan 17:8 {#juan-17-8}
+ὅτι τὰ ῥήματα ἃ ⸀ἔδωκάς μοι δέδωκα αὐτοῖς, καὶ αὐτοὶ ἔλαβον καὶ ἔγνωσαν ἀληθῶς ὅτι παρὰ σοῦ ἐξῆλθον, καὶ ἐπίστευσαν ὅτι σύ με ἀπέστειλας. 
+[porque Yo les he dado las palabras que me diste; y las recibieron, y entendieron que en verdad salí de Ti, y creyeron que Tú me enviaste.]
+
+### Juan 17:9 {#juan-17-9}
+ἐγὼ περὶ αὐτῶν ἐρωτῶ· οὐ περὶ τοῦ κόσμου ἐρωτῶ ἀλλὰ περὶ ὧν δέδωκάς μοι, ὅτι σοί εἰσιν, 
+[Yo ruego por ellos; no ruego por el mundo, sino por los que me has dado; porque son Tuyos;]
+
+### Juan 17:10 {#juan-17-10}
+καὶ τὰ ἐμὰ πάντα σά ἐστιν καὶ τὰ σὰ ἐμά, καὶ δεδόξασμαι ἐν αὐτοῖς. 
+[y todo lo Mío es Tuyo, y lo Tuyo, Mío; y he sido glorificado en ellos.]
+
+### Juan 17:11 {#juan-17-11}
+καὶ οὐκέτι εἰμὶ ἐν τῷ κόσμῳ, καὶ ⸀αὐτοὶ ἐν τῷ κόσμῳ εἰσίν, κἀγὼ πρὸς σὲ ἔρχομαι. πάτερ ἅγιε, τήρησον αὐτοὺς ἐν τῷ ὀνόματί σου ᾧ δέδωκάς μοι, ἵνα ὦσιν ἓν ⸀καθὼς ἡμεῖς. 
+[Ya no estoy en el mundo, pero ellos sí están en el mundo, y Yo voy a Ti. Padre santo, guárdalos en Tu nombre, el nombre que me has dado, para que sean uno, así como Nosotros somos uno.]
+
+### Juan 17:12 {#juan-17-12}
+ὅτε ἤμην μετʼ ⸀αὐτῶν ἐγὼ ἐτήρουν αὐτοὺς ἐν τῷ ὀνόματί σου ⸀ᾧ δέδωκάς μοι, ⸀καὶ ἐφύλαξα, καὶ οὐδεὶς ἐξ αὐτῶν ἀπώλετο εἰ μὴ ὁ υἱὸς τῆς ἀπωλείας, ἵνα ἡ γραφὴ πληρωθῇ. 
+[Cuando Yo estaba con ellos, los guardaba en Tu nombre, el nombre que me diste; y los guardé y ninguno se perdió, excepto el hijo de perdición, para que la Escritura se cumpliera.]
+
+### Juan 17:13 {#juan-17-13}
+νῦν δὲ πρὸς σὲ ἔρχομαι, καὶ ταῦτα λαλῶ ἐν τῷ κόσμῳ ἵνα ἔχωσιν τὴν χαρὰν τὴν ἐμὴν πεπληρωμένην ἐν ⸀ἑαυτοῖς. 
+[Pero ahora voy a Ti; y hablo esto en el mundo para que tengan Mi gozo completo en sí mismos.]
+
+### Juan 17:14 {#juan-17-14}
+ἐγὼ δέδωκα αὐτοῖς τὸν λόγον σου, καὶ ὁ κόσμος ἐμίσησεν αὐτούς, ὅτι οὐκ εἰσὶν ἐκ τοῦ κόσμου καθὼς ἐγὼ οὐκ εἰμὶ ἐκ τοῦ κόσμου. 
+[Yo les he dado Tu palabra y el mundo los ha odiado, porque no son del mundo, como tampoco Yo soy del mundo.]
+
+### Juan 17:15 {#juan-17-15}
+οὐκ ἐρωτῶ ἵνα ἄρῃς αὐτοὺς ἐκ τοῦ κόσμου ἀλλʼ ἵνα τηρήσῃς αὐτοὺς ἐκ τοῦ πονηροῦ. 
+[No te ruego que los saques del mundo, sino que los guardes del maligno.]
+
+### Juan 17:16 {#juan-17-16}
+ἐκ τοῦ κόσμου οὐκ εἰσὶν καθὼς ἐγὼ ⸂οὐκ εἰμὶ ἐκ τοῦ κόσμου⸃. 
+[Ellos no son del mundo, como tampoco Yo soy del mundo.]
+
+### Juan 17:17 {#juan-17-17}
+ἁγίασον αὐτοὺς ἐν τῇ ⸀ἀληθείᾳ· ὁ λόγος ὁ σὸς ἀλήθειά ἐστιν. 
+[Santifícalos en la verdad; Tu palabra es verdad.]
+
+### Juan 17:18 {#juan-17-18}
+καθὼς ἐμὲ ἀπέστειλας εἰς τὸν κόσμον, κἀγὼ ἀπέστειλα αὐτοὺς εἰς τὸν κόσμον· 
+[Como Tú me enviaste al mundo, Yo también los he enviado al mundo.]
+
+### Juan 17:19 {#juan-17-19}
+καὶ ὑπὲρ αὐτῶν ἐγὼ ἁγιάζω ἐμαυτόν, ἵνα ⸂ὦσιν καὶ αὐτοὶ⸃ ἡγιασμένοι ἐν ἀληθείᾳ. 
+[Y por ellos Yo me santifico, para que ellos también sean santificados en la verdad.]
+
+### Juan 17:20 {#juan-17-20}
+Οὐ περὶ τούτων δὲ ἐρωτῶ μόνον, ἀλλὰ καὶ περὶ τῶν πιστευόντων διὰ τοῦ λόγου αὐτῶν εἰς ἐμέ, 
+[Pero no ruego solo por estos, sino también por los que han de creer en Mí por la palabra de ellos,]
+
+### Juan 17:21 {#juan-17-21}
+ἵνα πάντες ἓν ὦσιν, καθὼς σύ, ⸀πάτερ, ἐν ἐμοὶ κἀγὼ ἐν σοί, ἵνα καὶ αὐτοὶ ἐν ⸀ἡμῖν ὦσιν, ἵνα ὁ κόσμος ⸀πιστεύῃ ὅτι σύ με ἀπέστειλας. 
+[para que todos sean uno. Como Tú, oh Padre, estás en Mí y Yo en Ti, que también ellos estén en Nosotros, para que el mundo crea que Tú me enviaste.]
+
+### Juan 17:22 {#juan-17-22}
+κἀγὼ τὴν δόξαν ἣν δέδωκάς μοι δέδωκα αὐτοῖς, ἵνα ὦσιν ἓν καθὼς ἡμεῖς ⸀ἕν, 
+[La gloria que me diste les he dado, para que sean uno, así como Nosotros somos uno:]
+
+### Juan 17:23 {#juan-17-23}
+ἐγὼ ἐν αὐτοῖς καὶ σὺ ἐν ἐμοί, ἵνα ὦσιν τετελειωμένοι εἰς ἕν, ⸀ἵνα γινώσκῃ ὁ κόσμος ὅτι σύ με ἀπέστειλας καὶ ἠγάπησας αὐτοὺς καθὼς ἐμὲ ἠγάπησας. 
+[Yo en ellos, y Tú en Mí, para que sean perfeccionados en unidad, para que el mundo sepa que Tú me enviaste, y que los amaste tal como me has amado a Mí.]
+
+### Juan 17:24 {#juan-17-24}
+⸀πάτερ, ⸀ὃ δέδωκάς μοι, θέλω ἵνα ὅπου εἰμὶ ἐγὼ κἀκεῖνοι ὦσιν μετʼ ἐμοῦ, ἵνα θεωρῶσιν τὴν δόξαν τὴν ἐμὴν ἣν ⸀δέδωκάς μοι, ὅτι ἠγάπησάς με πρὸ καταβολῆς κόσμου. 
+[Padre, quiero que los que me has dado, estén también conmigo donde Yo estoy, para que vean Mi gloria, la gloria que me has dado; porque me has amado desde antes de la fundación del mundo.]
+
+### Juan 17:25 {#juan-17-25}
+⸀Πάτερ δίκαιε, καὶ ὁ κόσμος σε οὐκ ἔγνω, ἐγὼ δέ σε ἔγνων, καὶ οὗτοι ἔγνωσαν ὅτι σύ με ἀπέστειλας, 
+[Oh Padre justo, aunque el mundo no te ha conocido, Yo te he conocido, y estos han conocido que Tú me enviaste.]
+
+### Juan 17:26 {#juan-17-26}
+καὶ ἐγνώρισα αὐτοῖς τὸ ὄνομά σου καὶ γνωρίσω, ἵνα ἡ ἀγάπη ἣν ἠγάπησάς με ἐν αὐτοῖς ᾖ κἀγὼ ἐν αὐτοῖς. 
+[Yo les he dado a conocer Tu nombre, y lo daré a conocer, para que el amor con que me amaste esté en ellos y Yo en ellos».]
+
+### Juan 18:1 {#juan-18-1}
+Ταῦτα ⸀εἰπὼν Ἰησοῦς ἐξῆλθεν σὺν τοῖς μαθηταῖς αὐτοῦ πέραν τοῦ χειμάρρου ⸀τοῦ Κεδρὼν ὅπου ἦν κῆπος, εἰς ὃν εἰσῆλθεν αὐτὸς καὶ οἱ μαθηταὶ αὐτοῦ. 
+[Después de decir esto, Jesús salió con Sus discípulos al otro lado del torrente Cedrón, donde había un huerto en el cual entró Él con Sus discípulos.]
+
+### Juan 18:2 {#juan-18-2}
+ᾔδει δὲ καὶ Ἰούδας ὁ παραδιδοὺς αὐτὸν τὸν τόπον, ὅτι πολλάκις ⸀συνήχθη Ἰησοῦς ἐκεῖ μετὰ τῶν μαθητῶν αὐτοῦ. 
+[También Judas, el que lo iba a entregar, conocía el lugar porque Jesús se había reunido allí muchas veces con Sus discípulos.]
+
+### Juan 18:3 {#juan-18-3}
+ὁ οὖν Ἰούδας λαβὼν τὴν σπεῖραν καὶ ἐκ τῶν ἀρχιερέων καὶ ⸂ἐκ τῶν⸃ Φαρισαίων ὑπηρέτας ἔρχεται ἐκεῖ μετὰ φανῶν καὶ λαμπάδων καὶ ὅπλων. 
+[Entonces Judas, tomando la tropa romana, y a varios guardias de los principales sacerdotes y de los fariseos, fue* allá con linternas, antorchas y armas.]
+
+### Juan 18:4 {#juan-18-4}
+Ἰησοῦς ⸀οὖν εἰδὼς πάντα τὰ ἐρχόμενα ἐπʼ αὐτὸν ⸂ἐξῆλθεν, καὶ λέγει⸃ αὐτοῖς· Τίνα ζητεῖτε; 
+[Jesús, sabiendo todo lo que le iba a sobrevenir, salió y les dijo*: «¿A quién buscan?».]
+
+### Juan 18:5 {#juan-18-5}
+ἀπεκρίθησαν αὐτῷ· Ἰησοῦν τὸν Ναζωραῖον. λέγει ⸀αὐτοῖς· Ἐγώ εἰμι. εἱστήκει δὲ καὶ Ἰούδας ὁ παραδιδοὺς αὐτὸν μετʼ αὐτῶν. 
+[«A Jesús el Nazareno», le respondieron. Él les dijo*: «Yo soy». Y Judas, el que lo entregaba, estaba con ellos.]
+
+### Juan 18:6 {#juan-18-6}
+ὡς οὖν εἶπεν ⸀αὐτοῖς· Ἐγώ εἰμι, ἀπῆλθον εἰς τὰ ὀπίσω καὶ ἔπεσαν χαμαί. 
+[Y cuando Él les dijo: «Yo soy», retrocedieron y cayeron a tierra.]
+
+### Juan 18:7 {#juan-18-7}
+πάλιν οὖν ⸂ἐπηρώτησεν αὐτούς⸃· Τίνα ζητεῖτε; οἱ δὲ εἶπαν· Ἰησοῦν τὸν Ναζωραῖον. 
+[Jesús entonces volvió a preguntarles: «¿A quién buscan?». «A Jesús el Nazareno», dijeron.]
+
+### Juan 18:8 {#juan-18-8}
+ἀπεκρίθη Ἰησοῦς· Εἶπον ὑμῖν ὅτι ἐγώ εἰμι· εἰ οὖν ἐμὲ ζητεῖτε, ἄφετε τούτους ὑπάγειν· 
+[Respondió Jesús: «Les he dicho que Yo soy; por tanto, si me buscan a Mí, dejen ir a estos».]
+
+### Juan 18:9 {#juan-18-9}
+ἵνα πληρωθῇ ὁ λόγος ὃν εἶπεν ὅτι Οὓς δέδωκάς μοι οὐκ ἀπώλεσα ἐξ αὐτῶν οὐδένα. 
+[Así se cumplía la palabra que había dicho: «De los que me diste, no perdí ninguno».]
+
+### Juan 18:10 {#juan-18-10}
+Σίμων οὖν Πέτρος ἔχων μάχαιραν εἵλκυσεν αὐτὴν καὶ ἔπαισεν τὸν τοῦ ἀρχιερέως δοῦλον καὶ ἀπέκοψεν αὐτοῦ τὸ ⸀ὠτάριον τὸ δεξιόν. ἦν δὲ ὄνομα τῷ δούλῳ Μάλχος. 
+[Entonces Simón Pedro, que tenía una espada, la sacó e hirió al siervo del sumo sacerdote, y le cortó la oreja derecha. El siervo se llamaba Malco.]
+
+### Juan 18:11 {#juan-18-11}
+εἶπεν οὖν ὁ Ἰησοῦς τῷ Πέτρῳ· Βάλε τὴν ⸀μάχαιραν εἰς τὴν θήκην· τὸ ποτήριον ὃ δέδωκέν μοι ὁ πατὴρ οὐ μὴ πίω αὐτό; 
+[Jesús le dijo a Pedro: «Mete la espada en la vaina. La copa que el Padre me ha dado, ¿acaso no he de beberla?».]
+
+### Juan 18:12 {#juan-18-12}
+Ἡ οὖν σπεῖρα καὶ ὁ χιλίαρχος καὶ οἱ ὑπηρέται τῶν Ἰουδαίων συνέλαβον τὸν Ἰησοῦν καὶ ἔδησαν αὐτὸν 
+[Entonces la tropa romana, el comandante y los guardias de los judíos prendieron a Jesús, lo ataron,]
+
+### Juan 18:13 {#juan-18-13}
+καὶ ⸀ἤγαγον πρὸς Ἅνναν πρῶτον· ἦν γὰρ πενθερὸς τοῦ Καϊάφα, ὃς ἦν ἀρχιερεὺς τοῦ ἐνιαυτοῦ ἐκείνου· 
+[y lo llevaron primero ante Anás, porque era suegro de Caifás, que era sumo sacerdote ese año.]
+
+### Juan 18:14 {#juan-18-14}
+ἦν δὲ Καϊάφας ὁ συμβουλεύσας τοῖς Ἰουδαίοις ὅτι συμφέρει ἕνα ἄνθρωπον ⸀ἀποθανεῖν ὑπὲρ τοῦ λαοῦ. 
+[Caifás era el que había aconsejado a los judíos que convenía que un hombre muriera por el pueblo.]
+
+### Juan 18:15 {#juan-18-15}
+Ἠκολούθει δὲ τῷ Ἰησοῦ Σίμων Πέτρος ⸀καὶ ἄλλος μαθητής. ὁ δὲ μαθητὴς ἐκεῖνος ἦν γνωστὸς τῷ ἀρχιερεῖ καὶ συνεισῆλθεν τῷ Ἰησοῦ εἰς τὴν αὐλὴν τοῦ ἀρχιερέως, 
+[Simón Pedro seguía a Jesús, y también otro discípulo. Este discípulo era conocido del sumo sacerdote, y entró con Jesús al patio del sumo sacerdote,]
+
+### Juan 18:16 {#juan-18-16}
+ὁ δὲ Πέτρος εἱστήκει πρὸς τῇ θύρᾳ ἔξω. ἐξῆλθεν οὖν ὁ μαθητὴς ὁ ἄλλος ⸀ὁ γνωστὸς ⸂τοῦ ἀρχιερέως⸃ καὶ εἶπεν τῇ θυρωρῷ καὶ εἰσήγαγεν τὸν Πέτρον. 
+[pero Pedro estaba afuera, a la puerta. Así que el otro discípulo, que era conocido del sumo sacerdote, salió y habló a la portera, e hizo entrar a Pedro.]
+
+### Juan 18:17 {#juan-18-17}
+λέγει οὖν ⸂τῷ Πέτρῳ ἡ παιδίσκη ἡ θυρωρός⸃· Μὴ καὶ σὺ ἐκ τῶν μαθητῶν εἶ τοῦ ἀνθρώπου τούτου; λέγει ἐκεῖνος· Οὐκ εἰμί. 
+[Entonces la criada que cuidaba la puerta dijo* a Pedro: «¿No eres tú también uno de los discípulos de este hombre?». «No lo soy», dijo* él.]
+
+### Juan 18:18 {#juan-18-18}
+εἱστήκεισαν δὲ οἱ δοῦλοι καὶ οἱ ὑπηρέται ἀνθρακιὰν πεποιηκότες, ὅτι ψῦχος ἦν, καὶ ἐθερμαίνοντο· ἦν δὲ ⸂καὶ ὁ Πέτρος μετʼ αὐτῶν⸃ ἑστὼς καὶ θερμαινόμενος. 
+[Los siervos y los guardias estaban de pie calentándose junto a unas brasas que habían encendido porque hacía frío. Pedro también estaba con ellos de pie, calentándose.]
+
+### Juan 18:19 {#juan-18-19}
+Ὁ οὖν ἀρχιερεὺς ἠρώτησεν τὸν Ἰησοῦν περὶ τῶν μαθητῶν αὐτοῦ καὶ περὶ τῆς διδαχῆς αὐτοῦ. 
+[Entonces el sumo sacerdote interrogó a Jesús acerca de Sus discípulos y de Sus enseñanzas.]
+
+### Juan 18:20 {#juan-18-20}
+ἀπεκρίθη ⸀αὐτῷ Ἰησοῦς· Ἐγὼ παρρησίᾳ ⸀λελάληκα τῷ κόσμῳ· ἐγὼ πάντοτε ἐδίδαξα ἐν συναγωγῇ καὶ ἐν τῷ ἱερῷ, ὅπου ⸀πάντες οἱ Ἰουδαῖοι συνέρχονται, καὶ ἐν κρυπτῷ ἐλάλησα οὐδέν· 
+[Jesús le respondió: «Yo he hablado al mundo públicamente; siempre enseñé en la sinagoga y en el templo, donde se reúnen todos los judíos, y nada he hablado en secreto.]
+
+### Juan 18:21 {#juan-18-21}
+τί με ⸂ἐρωτᾷς; ἐρώτησον⸃ τοὺς ἀκηκοότας τί ἐλάλησα αὐτοῖς· ἴδε οὗτοι οἴδασιν ἃ εἶπον ἐγώ. 
+[¿Por qué me preguntas a Mí? Pregúntales a los que han oído lo que hablé; estos saben lo que he dicho».]
+
+### Juan 18:22 {#juan-18-22}
+ταῦτα δὲ αὐτοῦ εἰπόντος εἷς ⸂παρεστηκὼς τῶν ὑπηρετῶν⸃ ἔδωκεν ῥάπισμα τῷ Ἰησοῦ εἰπών· Οὕτως ἀποκρίνῃ τῷ ἀρχιερεῖ; 
+[Cuando dijo esto, uno de los guardias que estaba cerca, dio una bofetada a Jesús, diciendo: «¿Así respondes al sumo sacerdote?».]
+
+### Juan 18:23 {#juan-18-23}
+ἀπεκρίθη ⸀αὐτῷ Ἰησοῦς· Εἰ κακῶς ἐλάλησα, μαρτύρησον περὶ τοῦ κακοῦ· εἰ δὲ καλῶς, τί με δέρεις; 
+[Jesús le respondió: «Si he hablado mal, da testimonio de lo que he hablado mal; pero si hablé bien, ¿por qué me pegas?».]
+
+### Juan 18:24 {#juan-18-24}
+ἀπέστειλεν ⸀οὖν αὐτὸν ὁ Ἅννας δεδεμένον πρὸς Καϊάφαν τὸν ἀρχιερέα. 
+[Anás entonces lo envió atado a Caifás, el sumo sacerdote.]
+
+### Juan 18:25 {#juan-18-25}
+Ἦν δὲ Σίμων Πέτρος ἑστὼς καὶ θερμαινόμενος. εἶπον οὖν αὐτῷ· Μὴ καὶ σὺ ἐκ τῶν μαθητῶν αὐτοῦ εἶ; ⸀ἠρνήσατο ἐκεῖνος καὶ εἶπεν· Οὐκ εἰμί. 
+[Simón Pedro estaba de pie, calentándose, y le preguntaron: «¿No eres tú también uno de Sus discípulos?». «No lo soy», dijo Pedro, negándolo.]
+
+### Juan 18:26 {#juan-18-26}
+λέγει εἷς ἐκ τῶν δούλων τοῦ ἀρχιερέως, συγγενὴς ὢν οὗ ἀπέκοψεν Πέτρος τὸ ὠτίον· Οὐκ ἐγώ σε εἶδον ἐν τῷ κήπῳ μετʼ αὐτοῦ; 
+[Uno de los siervos del sumo sacerdote, que era pariente de aquel a quien Pedro le había cortado la oreja, dijo*: «¿No te vi yo en el huerto con Él?».]
+
+### Juan 18:27 {#juan-18-27}
+πάλιν οὖν ⸀ἠρνήσατο Πέτρος· καὶ εὐθέως ἀλέκτωρ ἐφώνησεν. 
+[Y Pedro lo negó otra vez, y al instante cantó un gallo.]
+
+### Juan 18:28 {#juan-18-28}
+Ἄγουσιν οὖν τὸν Ἰησοῦν ἀπὸ τοῦ Καϊάφα εἰς τὸ πραιτώριον· ἦν δὲ πρωΐ· καὶ αὐτοὶ οὐκ εἰσῆλθον εἰς τὸ πραιτώριον, ἵνα μὴ μιανθῶσιν ⸀ἀλλὰ φάγωσιν τὸ πάσχα. 
+[Entonces llevaron* a Jesús de casa de Caifás al Pretorio; era muy de mañana; y ellos no entraron al Pretorio para no contaminarse y poder comer la Pascua.]
+
+### Juan 18:29 {#juan-18-29}
+ἐξῆλθεν οὖν ὁ Πιλᾶτος ⸀ἔξω πρὸς αὐτοὺς καὶ ⸀φησίν· Τίνα κατηγορίαν φέρετε ⸀κατὰ τοῦ ἀνθρώπου τούτου; 
+[Pilato, pues, salió afuera hacia ellos y dijo*: «¿Qué acusación traen contra este hombre?».]
+
+### Juan 18:30 {#juan-18-30}
+ἀπεκρίθησαν καὶ εἶπαν αὐτῷ· Εἰ μὴ ἦν οὗτος ⸂κακὸν ποιῶν⸃, οὐκ ἄν σοι παρεδώκαμεν αὐτόν. 
+[Ellos respondieron: «Si este hombre no fuera malhechor, no se lo hubiéramos entregado».]
+
+### Juan 18:31 {#juan-18-31}
+εἶπεν οὖν αὐτοῖς ⸀ὁ Πιλᾶτος· Λάβετε αὐτὸν ὑμεῖς, καὶ κατὰ τὸν νόμον ὑμῶν κρίνατε αὐτόν. ⸀εἶπον αὐτῷ οἱ Ἰουδαῖοι· Ἡμῖν οὐκ ἔξεστιν ἀποκτεῖναι οὐδένα· 
+[Entonces Pilato les dijo: «Se lo pueden llevar y juzgar conforme a su ley». «A nosotros no nos es permitido dar muerte a nadie», le dijeron los judíos.]
+
+### Juan 18:32 {#juan-18-32}
+ἵνα ὁ λόγος τοῦ Ἰησοῦ πληρωθῇ ὃν εἶπεν σημαίνων ποίῳ θανάτῳ ἤμελλεν ἀποθνῄσκειν. 
+[Esto sucedió para que se cumpliera la palabra que Jesús había hablado, dando a entender de qué clase de muerte iba a morir.]
+
+### Juan 18:33 {#juan-18-33}
+Εἰσῆλθεν οὖν ⸂πάλιν εἰς τὸ πραιτώριον⸃ ὁ Πιλᾶτος καὶ ἐφώνησεν τὸν Ἰησοῦν καὶ εἶπεν αὐτῷ· Σὺ εἶ ὁ βασιλεὺς τῶν Ἰουδαίων; 
+[Pilato volvió a entrar al Pretorio, y llamó a Jesús y le preguntó: «¿Eres Tú el Rey de los judíos?».]
+
+### Juan 18:34 {#juan-18-34}
+⸀ἀπεκρίθη Ἰησοῦς· ⸂Ἀπὸ σεαυτοῦ⸃ σὺ τοῦτο λέγεις ἢ ἄλλοι ⸂εἶπόν σοι⸃ περὶ ἐμοῦ; 
+[Jesús respondió: «¿Esto lo dices por tu cuenta, o porque otros te lo han dicho de Mí?».]
+
+### Juan 18:35 {#juan-18-35}
+ἀπεκρίθη ὁ Πιλᾶτος· Μήτι ἐγὼ Ἰουδαῖός εἰμι; τὸ ἔθνος τὸ σὸν καὶ οἱ ἀρχιερεῖς παρέδωκάν σε ἐμοί· τί ἐποίησας; 
+[Pilato contestó: «¿Acaso soy yo judío? Tu nación y los principales sacerdotes te entregaron a mí. ¿Qué has hecho?».]
+
+### Juan 18:36 {#juan-18-36}
+ἀπεκρίθη Ἰησοῦς· Ἡ βασιλεία ἡ ἐμὴ οὐκ ἔστιν ἐκ τοῦ κόσμου τούτου· εἰ ἐκ τοῦ κόσμου τούτου ἦν ἡ βασιλεία ἡ ἐμή, οἱ ὑπηρέται ⸂οἱ ἐμοὶ ἠγωνίζοντο ἄν⸃, ἵνα μὴ παραδοθῶ τοῖς Ἰουδαίοις· νῦν δὲ ἡ βασιλεία ἡ ἐμὴ οὐκ ἔστιν ἐντεῦθεν. 
+[Jesús le respondió: «Mi reino no es de este mundo. Si Mi reino fuera de este mundo, entonces Mis servidores pelearían para que Yo no fuera entregado a los judíos. Pero ahora Mi reino no es de aquí».]
+
+### Juan 18:37 {#juan-18-37}
+εἶπεν οὖν αὐτῷ ὁ Πιλᾶτος· Οὐκοῦν βασιλεὺς εἶ σύ; ἀπεκρίθη ⸀ὁ Ἰησοῦς· Σὺ λέγεις ὅτι βασιλεύς ⸀εἰμι. ἐγὼ εἰς τοῦτο γεγέννημαι καὶ εἰς τοῦτο ἐλήλυθα εἰς τὸν κόσμον ἵνα μαρτυρήσω τῇ ἀληθείᾳ· πᾶς ὁ ὢν ἐκ τῆς ἀληθείας ἀκούει μου τῆς φωνῆς. 
+[«¿Así que Tú eres rey?», le dijo Pilato. «Tú dices que soy rey», respondió Jesús. «Para esto Yo he nacido y para esto he venido al mundo, para dar testimonio de la verdad. Todo el que es de la verdad escucha Mi voz».]
+
+### Juan 18:38 {#juan-18-38}
+λέγει αὐτῷ ὁ Πιλᾶτος· Τί ἐστιν ἀλήθεια; Καὶ τοῦτο εἰπὼν πάλιν ἐξῆλθεν πρὸς τοὺς Ἰουδαίους, καὶ λέγει αὐτοῖς· Ἐγὼ οὐδεμίαν ⸂εὑρίσκω ἐν αὐτῷ αἰτίαν⸃· 
+[Pilato le preguntó*: «¿Qué es la verdad?». Y habiendo dicho esto, salió otra vez adonde estaban los judíos y les dijo*: «Yo no encuentro ningún delito en Él.]
+
+### Juan 18:39 {#juan-18-39}
+ἔστιν δὲ συνήθεια ὑμῖν ἵνα ἕνα ⸂ἀπολύσω ὑμῖν⸃ ἐν τῷ πάσχα· βούλεσθε οὖν ⸄ἀπολύσω ὑμῖν⸅ τὸν βασιλέα τῶν Ἰουδαίων; 
+[Pero es costumbre entre ustedes que les suelte a alguien durante la fiesta de la Pascua. ¿Quieren, pues, que les suelte al Rey de los judíos?».]
+
+### Juan 18:40 {#juan-18-40}
+ἐκραύγασαν οὖν ⸀πάλιν λέγοντες· Μὴ τοῦτον ἀλλὰ τὸν Βαραββᾶν. ἦν δὲ ὁ Βαραββᾶς λῃστής. 
+[Entonces volvieron a gritar, diciendo: «No a Este, sino a Barrabás». Y Barrabás era un ladrón.]
+
+### Juan 19:1 {#juan-19-1}
+Τότε οὖν ἔλαβεν ὁ Πιλᾶτος τὸν Ἰησοῦν καὶ ἐμαστίγωσεν. 
+[Entonces, Pilato tomó a Jesús y lo azotó.]
+
+### Juan 19:2 {#juan-19-2}
+καὶ οἱ στρατιῶται πλέξαντες στέφανον ἐξ ἀκανθῶν ἐπέθηκαν αὐτοῦ τῇ κεφαλῇ, καὶ ἱμάτιον πορφυροῦν περιέβαλον αὐτόν, 
+[Y los soldados tejieron una corona de espinas, la pusieron sobre Su cabeza y lo vistieron con un manto de púrpura;]
+
+### Juan 19:3 {#juan-19-3}
+καὶ ⸂ἤρχοντο πρὸς αὐτὸν καὶ⸃ ἔλεγον· Χαῖρε, ὁ βασιλεὺς τῶν Ἰουδαίων· καὶ ἐδίδοσαν αὐτῷ ῥαπίσματα. 
+[y acercándose a Jesús, le decían: «¡Salve, Rey de los judíos!». Y le daban bofetadas.]
+
+### Juan 19:4 {#juan-19-4}
+⸂καὶ ἐξῆλθεν⸃ πάλιν ἔξω ὁ Πιλᾶτος καὶ λέγει αὐτοῖς· Ἴδε ἄγω ὑμῖν αὐτὸν ἔξω, ἵνα γνῶτε ὅτι ⸂οὐδεμίαν αἰτίαν εὑρίσκω ἐν αὐτῷ⸃. 
+[Pilato salió otra vez, y les dijo*: «Miren, lo traigo fuera, para que sepan que no encuentro ningún delito en Él».]
+
+### Juan 19:5 {#juan-19-5}
+ἐξῆλθεν οὖν ὁ Ἰησοῦς ἔξω, φορῶν τὸν ἀκάνθινον στέφανον καὶ τὸ πορφυροῦν ἱμάτιον. καὶ λέγει αὐτοῖς· ⸀Ἰδοὺ ὁ ἄνθρωπος. 
+[Y cuando Jesús salió fuera, llevaba la corona de espinas y el manto de púrpura. Y Pilato les dijo*: «¡Aquí está el Hombre!».]
+
+### Juan 19:6 {#juan-19-6}
+ὅτε οὖν εἶδον αὐτὸν οἱ ἀρχιερεῖς καὶ οἱ ὑπηρέται ἐκραύγασαν λέγοντες· Σταύρωσον ⸀σταύρωσον. λέγει αὐτοῖς ὁ Πιλᾶτος· Λάβετε αὐτὸν ὑμεῖς καὶ σταυρώσατε, ἐγὼ γὰρ οὐχ εὑρίσκω ἐν αὐτῷ αἰτίαν. 
+[Cuando lo vieron los principales sacerdotes y los guardias, gritaron: «¡Crucifícalo! ¡Crucifícalo!». Pilato les dijo*: «Ustedes, pues, lo toman y lo crucifican, porque yo no encuentro ningún delito en Él».]
+
+### Juan 19:7 {#juan-19-7}
+ἀπεκρίθησαν αὐτῷ οἱ Ἰουδαῖοι· Ἡμεῖς νόμον ἔχομεν, καὶ κατὰ τὸν ⸀νόμον ὀφείλει ἀποθανεῖν, ὅτι ⸂υἱὸν θεοῦ ἑαυτὸν⸃ ἐποίησεν. 
+[Los judíos le respondieron: «Nosotros tenemos una ley, y según esa ley Él debe morir, porque pretendió ser el Hijo de Dios».]
+
+### Juan 19:8 {#juan-19-8}
+Ὅτε οὖν ἤκουσεν ὁ Πιλᾶτος τοῦτον τὸν λόγον, μᾶλλον ἐφοβήθη, 
+[Entonces Pilato, cuando oyó estas palabras, se atemorizó aún más.]
+
+### Juan 19:9 {#juan-19-9}
+καὶ εἰσῆλθεν εἰς τὸ πραιτώριον πάλιν καὶ λέγει τῷ Ἰησοῦ· Πόθεν εἶ σύ; ὁ δὲ Ἰησοῦς ἀπόκρισιν οὐκ ἔδωκεν αὐτῷ. 
+[Entró de nuevo al Pretorio y dijo* a Jesús: «¿De dónde eres Tú?». Pero Jesús no le dio respuesta.]
+
+### Juan 19:10 {#juan-19-10}
+λέγει οὖν αὐτῷ ὁ Πιλᾶτος· Ἐμοὶ οὐ λαλεῖς; οὐκ οἶδας ὅτι ἐξουσίαν ἔχω ⸂ἀπολῦσαί σε καὶ ἐξουσίαν ἔχω σταυρῶσαί⸃ σε; 
+[Pilato entonces le dijo*: «¿A mí no me hablas? ¿No sabes que tengo autoridad para soltarte, y que tengo autoridad para crucificarte?».]
+
+### Juan 19:11 {#juan-19-11}
+ἀπεκρίθη ⸀αὐτῷ Ἰησοῦς· Οὐκ εἶχες ἐξουσίαν ⸂κατʼ ἐμοῦ οὐδεμίαν⸃ εἰ μὴ ἦν ⸂δεδομένον σοι⸃ ἄνωθεν· διὰ τοῦτο ὁ ⸀παραδούς μέ σοι μείζονα ἁμαρτίαν ἔχει. 
+[Jesús respondió: «Ninguna autoridad tendrías sobre Mí si no se te hubiera dado de arriba; por eso el que me entregó a ti tiene mayor pecado».]
+
+### Juan 19:12 {#juan-19-12}
+ἐκ τούτου ⸂ὁ Πιλᾶτος ἐζήτει⸃ ἀπολῦσαι αὐτόν· οἱ δὲ Ἰουδαῖοι ⸀ἐκραύγασαν λέγοντες· Ἐὰν τοῦτον ἀπολύσῃς, οὐκ εἶ φίλος τοῦ Καίσαρος· πᾶς ὁ βασιλέα ἑαυτὸν ποιῶν ἀντιλέγει τῷ Καίσαρι. 
+[Como resultado de esto, Pilato procuraba soltar a Jesús, pero los judíos gritaron: «Si suelta a Este, usted no es amigo de César; todo el que se hace rey se opone a César».]
+
+### Juan 19:13 {#juan-19-13}
+Ὁ οὖν Πιλᾶτος ἀκούσας ⸂τῶν λόγων τούτων⸃ ἤγαγεν ἔξω τὸν Ἰησοῦν, καὶ ἐκάθισεν ⸀ἐπὶ βήματος εἰς τόπον λεγόμενον Λιθόστρωτον, Ἑβραϊστὶ δὲ Γαββαθα. 
+[Entonces Pilato, cuando oyó estas palabras, sacó fuera a Jesús y se sentó en el tribunal, en un lugar llamado el Empedrado, y en hebreo Gabata.]
+
+### Juan 19:14 {#juan-19-14}
+ἦν δὲ παρασκευὴ τοῦ πάσχα, ὥρα ⸂ἦν ὡς⸃ ἕκτη. καὶ λέγει τοῖς Ἰουδαίοις· Ἴδε ὁ βασιλεὺς ὑμῶν. 
+[Y era el día de la preparación para la Pascua; eran como las seis de la mañana. Y Pilato dijo* a los judíos: «Aquí está su Rey».]
+
+### Juan 19:15 {#juan-19-15}
+⸂ἐκραύγασαν οὖν ἐκεῖνοι⸃· Ἆρον ἆρον, σταύρωσον αὐτόν. λέγει αὐτοῖς ὁ Πιλᾶτος· Τὸν βασιλέα ὑμῶν σταυρώσω; ἀπεκρίθησαν οἱ ἀρχιερεῖς· Οὐκ ἔχομεν βασιλέα εἰ μὴ Καίσαρα. 
+[«¡Fuera! ¡Fuera! ¡Crucifícalo!», gritaron ellos. «¿He de crucificar a su Rey?», les dijo* Pilato. Los principales sacerdotes respondieron: «No tenemos más rey que César».]
+
+### Juan 19:16 {#juan-19-16}
+τότε οὖν παρέδωκεν αὐτὸν αὐτοῖς ἵνα σταυρωθῇ. Παρέλαβον ⸀οὖν τὸν ⸀Ἰησοῦν· 
+[Así que entonces Pilato lo entregó a ellos para que fuera crucificado.]
+
+### Juan 19:17 {#juan-19-17}
+καὶ βαστάζων ⸂αὑτῷ τὸν σταυρὸν⸃ ἐξῆλθεν εἰς ⸀τὸν λεγόμενον Κρανίου Τόπον, ⸀ὃ λέγεται Ἑβραϊστὶ Γολγοθα, 
+[Tomaron, pues, a Jesús, y Él salió cargando Su cruz al sitio llamado el Lugar de la Calavera, que en hebreo se dice Gólgota,]
+
+### Juan 19:18 {#juan-19-18}
+ὅπου αὐτὸν ἐσταύρωσαν, καὶ μετʼ αὐτοῦ ἄλλους δύο ἐντεῦθεν καὶ ἐντεῦθεν, μέσον δὲ τὸν Ἰησοῦν. 
+[donde lo crucificaron, y con Él a otros dos, uno a cada lado y Jesús en medio.]
+
+### Juan 19:19 {#juan-19-19}
+ἔγραψεν δὲ καὶ τίτλον ὁ Πιλᾶτος καὶ ἔθηκεν ἐπὶ τοῦ σταυροῦ· ἦν δὲ γεγραμμένον· Ἰησοῦς ὁ Ναζωραῖος ὁ βασιλεὺς τῶν Ἰουδαίων. 
+[Pilato también escribió un letrero y lo puso sobre la cruz. Y estaba escrito: «JESÚS EL NAZARENO, EL REY DE LOS JUDÍOS».]
+
+### Juan 19:20 {#juan-19-20}
+τοῦτον οὖν τὸν τίτλον πολλοὶ ἀνέγνωσαν τῶν Ἰουδαίων, ὅτι ἐγγὺς ἦν ὁ τόπος τῆς πόλεως ὅπου ἐσταυρώθη ὁ Ἰησοῦς· καὶ ἦν γεγραμμένον Ἑβραϊστί, ⸂Ῥωμαϊστί, Ἑλληνιστί⸃. 
+[Entonces muchos judíos leyeron esta inscripción, porque el lugar donde Jesús fue crucificado quedaba cerca de la ciudad; y estaba escrita en hebreo, en latín y en griego.]
+
+### Juan 19:21 {#juan-19-21}
+ἔλεγον οὖν τῷ Πιλάτῳ οἱ ἀρχιερεῖς τῶν Ἰουδαίων· Μὴ γράφε· Ὁ βασιλεὺς τῶν Ἰουδαίων, ἀλλʼ ὅτι ἐκεῖνος εἶπεν Βασιλεὺς ⸂τῶν Ἰουδαίων εἰμί⸃. 
+[Por eso los principales sacerdotes de los judíos decían a Pilato: «No escribas, “el Rey de los judíos”; sino que Él dijo: “Yo soy Rey de los judíos”».]
+
+### Juan 19:22 {#juan-19-22}
+ἀπεκρίθη ὁ Πιλᾶτος· Ὃ γέγραφα γέγραφα. 
+[Pilato respondió: «Lo que he escrito, he escrito».]
+
+### Juan 19:23 {#juan-19-23}
+οἱ οὖν στρατιῶται ὅτε ἐσταύρωσαν τὸν Ἰησοῦν ἔλαβον τὰ ἱμάτια αὐτοῦ καὶ ἐποίησαν τέσσαρα μέρη, ἑκάστῳ στρατιώτῃ μέρος, καὶ τὸν χιτῶνα. ἦν δὲ ὁ χιτὼν ἄραφος, ἐκ τῶν ἄνωθεν ὑφαντὸς διʼ ὅλου· 
+[Entonces los soldados, cuando crucificaron a Jesús, tomaron Sus vestidos e hicieron cuatro partes, una parte para cada soldado. Y tomaron también la túnica; y la túnica era sin costura, tejida en una sola pieza.]
+
+### Juan 19:24 {#juan-19-24}
+εἶπαν οὖν πρὸς ἀλλήλους· Μὴ σχίσωμεν αὐτόν, ἀλλὰ λάχωμεν περὶ αὐτοῦ τίνος ἔσται· ἵνα ἡ γραφὴ πληρωθῇ ⸂ἡ λέγουσα⸃· Διεμερίσαντο τὰ ἱμάτιά μου ἑαυτοῖς καὶ ἐπὶ τὸν ἱματισμόν μου ἔβαλον κλῆρον. Οἱ μὲν οὖν στρατιῶται ταῦτα ἐποίησαν. 
+[Por tanto, se dijeron unos a otros: «No la rompamos; sino echemos suertes sobre ella, para ver de quién será»; para que se cumpliera la Escritura: «REPARTIERON ENTRE SÍ MIS VESTIDOS, Y SOBRE MI ROPA ECHARON SUERTES».]
+
+### Juan 19:25 {#juan-19-25}
+Εἱστήκεισαν δὲ παρὰ τῷ σταυρῷ τοῦ Ἰησοῦ ἡ μήτηρ αὐτοῦ καὶ ἡ ἀδελφὴ τῆς μητρὸς αὐτοῦ, Μαρία ἡ τοῦ Κλωπᾶ καὶ Μαρία ἡ Μαγδαληνή. 
+[Por eso los soldados hicieron esto. Y junto a la cruz de Jesús estaban Su madre, y la hermana de Su madre, María, la mujer de Cleofas, y María Magdalena.]
+
+### Juan 19:26 {#juan-19-26}
+Ἰησοῦς οὖν ἰδὼν τὴν μητέρα καὶ τὸν μαθητὴν παρεστῶτα ὃν ἠγάπα λέγει τῇ ⸀μητρί· Γύναι, ⸀ἴδε ὁ υἱός σου· 
+[Y cuando Jesús vio a Su madre, y al discípulo a quien Él amaba que estaba allí cerca, dijo* a Su madre: «¡Mujer, ahí está tu hijo!».]
+
+### Juan 19:27 {#juan-19-27}
+εἶτα λέγει τῷ μαθητῇ· ⸀Ἴδε ἡ μήτηρ σου. καὶ ἀπʼ ἐκείνης τῆς ὥρας ἔλαβεν ὁ μαθητὴς αὐτὴν εἰς τὰ ἴδια. 
+[Después dijo* al discípulo: «¡Ahí está tu madre!». Y desde aquella hora el discípulo la recibió en su propia casa.]
+
+### Juan 19:28 {#juan-19-28}
+Μετὰ τοῦτο ⸀εἰδὼς ὁ Ἰησοῦς ὅτι ⸂ἤδη πάντα⸃ τετέλεσται ἵνα τελειωθῇ ἡ γραφὴ λέγει· Διψῶ. 
+[Después de esto, sabiendo Jesús que todo ya se había consumado, para que se cumpliera la Escritura, dijo*: «Tengo sed».]
+
+### Juan 19:29 {#juan-19-29}
+⸀σκεῦος ἔκειτο ὄξους μεστόν· ⸂σπόγγον οὖν μεστὸν τοῦ⸃ ὄξους ⸀ὑσσώπῳ περιθέντες προσήνεγκαν αὐτοῦ τῷ στόματι. 
+[Había allí una vasija llena de vinagre. Colocaron, pues, una esponja empapada del vinagre en una rama de hisopo, y se la acercaron a la boca.]
+
+### Juan 19:30 {#juan-19-30}
+ὅτε οὖν ἔλαβεν τὸ ὄξος ὁ Ἰησοῦς εἶπεν· Τετέλεσται, καὶ κλίνας τὴν κεφαλὴν παρέδωκεν τὸ πνεῦμα. 
+[Entonces Jesús, cuando hubo tomado el vinagre, dijo: «¡Consumado es!». E inclinando la cabeza, entregó el espíritu.]
+
+### Juan 19:31 {#juan-19-31}
+Οἱ οὖν Ἰουδαῖοι, ⸂ἐπεὶ παρασκευὴ ἦν, ἵνα μὴ μείνῃ ἐπὶ τοῦ σταυροῦ τὰ σώματα ἐν τῷ σαββάτῳ⸃, ἦν γὰρ μεγάλη ἡ ἡμέρα ἐκείνου τοῦ σαββάτου, ἠρώτησαν τὸν Πιλᾶτον ἵνα κατεαγῶσιν αὐτῶν τὰ σκέλη καὶ ἀρθῶσιν. 
+[Los judíos entonces, como era el día de preparación para la Pascua, a fin de que los cuerpos no se quedaran en la cruz el día de reposo, porque ese día de reposo era muy solemne, pidieron a Pilato que les quebraran las piernas y se los llevaran.]
+
+### Juan 19:32 {#juan-19-32}
+ἦλθον οὖν οἱ στρατιῶται, καὶ τοῦ μὲν πρώτου κατέαξαν τὰ σκέλη καὶ τοῦ ἄλλου τοῦ συσταυρωθέντος αὐτῷ· 
+[Fueron, pues, los soldados y quebraron las piernas del primero, y también las del otro que había sido crucificado con Jesús.]
+
+### Juan 19:33 {#juan-19-33}
+ἐπὶ δὲ τὸν Ἰησοῦν ἐλθόντες, ὡς εἶδον ⸂ἤδη αὐτὸν⸃ τεθνηκότα, οὐ κατέαξαν αὐτοῦ τὰ σκέλη, 
+[Cuando llegaron a Jesús, como vieron que ya estaba muerto, no le quebraron las piernas;]
+
+### Juan 19:34 {#juan-19-34}
+ἀλλʼ εἷς τῶν στρατιωτῶν λόγχῃ αὐτοῦ τὴν πλευρὰν ἔνυξεν, καὶ ⸂ἐξῆλθεν εὐθὺς⸃ αἷμα καὶ ὕδωρ. 
+[pero uno de los soldados le traspasó el costado con una lanza, y al momento salió sangre y agua.]
+
+### Juan 19:35 {#juan-19-35}
+καὶ ὁ ἑωρακὼς μεμαρτύρηκεν, καὶ ἀληθινὴ ⸂αὐτοῦ ἐστιν⸃ ἡ μαρτυρία, καὶ ἐκεῖνος οἶδεν ὅτι ἀληθῆ λέγει, ἵνα ⸀καὶ ὑμεῖς ⸀πιστεύητε. 
+[Y el que lo ha visto ha dado testimonio, y su testimonio es verdadero; y él sabe que dice la verdad, para que ustedes también crean.]
+
+### Juan 19:36 {#juan-19-36}
+ἐγένετο γὰρ ταῦτα ἵνα ἡ γραφὴ πληρωθῇ· Ὀστοῦν οὐ συντριβήσεται ⸀αὐτοῦ. 
+[Porque esto sucedió para que se cumpliera la Escritura: «NO SERÁ QUEBRADO HUESO SUYO».]
+
+### Juan 19:37 {#juan-19-37}
+καὶ πάλιν ἑτέρα γραφὴ λέγει· Ὄψονται εἰς ὃν ἐξεκέντησαν. 
+[Y también otra Escritura dice: «MIRARÁN A AQUEL QUE TRASPASARON».]
+
+### Juan 19:38 {#juan-19-38}
+Μετὰ ⸀δὲ ταῦτα ἠρώτησεν τὸν Πιλᾶτον Ἰωσὴφ ⸀ἀπὸ Ἁριμαθαίας, ὢν μαθητὴς τοῦ Ἰησοῦ κεκρυμμένος δὲ διὰ τὸν φόβον τῶν Ἰουδαίων, ἵνα ἄρῃ τὸ σῶμα τοῦ Ἰησοῦ· καὶ ἐπέτρεψεν ὁ Πιλᾶτος. ἦλθεν οὖν καὶ ἦρεν τὸ σῶμα ⸀αὐτοῦ. 
+[Después de estas cosas, José de Arimatea, que era discípulo de Jesús, aunque en secreto por miedo a los judíos, pidió permiso a Pilato para llevarse el cuerpo de Jesús. Y Pilato concedió el permiso. Entonces José vino, y se llevó el cuerpo de Jesús.]
+
+### Juan 19:39 {#juan-19-39}
+ἦλθεν δὲ καὶ Νικόδημος, ὁ ἐλθὼν πρὸς ⸀αὐτὸν νυκτὸς τὸ πρῶτον, φέρων ⸀μίγμα σμύρνης καὶ ἀλόης ὡς λίτρας ἑκατόν. 
+[Y Nicodemo, el que antes había venido a Jesús de noche, vino también, trayendo una mezcla de mirra y áloe como de treinta y tres kilos.]
+
+### Juan 19:40 {#juan-19-40}
+ἔλαβον οὖν τὸ σῶμα τοῦ Ἰησοῦ καὶ ἔδησαν ⸀αὐτὸ ὀθονίοις μετὰ τῶν ἀρωμάτων, καθὼς ἔθος ἐστὶν τοῖς Ἰουδαίοις ἐνταφιάζειν. 
+[Entonces tomaron el cuerpo de Jesús, y lo envolvieron en telas de lino con las especias aromáticas, como es costumbre sepultar entre los judíos.]
+
+### Juan 19:41 {#juan-19-41}
+ἦν δὲ ἐν τῷ τόπῳ ὅπου ἐσταυρώθη κῆπος, καὶ ἐν τῷ κήπῳ μνημεῖον καινόν, ἐν ᾧ οὐδέπω οὐδεὶς ⸂ἦν τεθειμένος⸃· 
+[En el lugar donde fue crucificado había un huerto, y en el huerto un sepulcro nuevo, en el cual todavía no habían sepultado a nadie.]
+
+### Juan 19:42 {#juan-19-42}
+ἐκεῖ οὖν διὰ τὴν παρασκευὴν τῶν Ἰουδαίων, ὅτι ἐγγὺς ἦν τὸ μνημεῖον, ἔθηκαν τὸν Ἰησοῦν. 
+[Por tanto, por causa del día de la preparación de los judíos, como el sepulcro estaba cerca, pusieron allí a Jesús.]
+
+### Juan 20:1 {#juan-20-1}
+Τῇ δὲ μιᾷ τῶν σαββάτων Μαρία ἡ Μαγδαληνὴ ἔρχεται πρωῒ σκοτίας ἔτι οὔσης εἰς τὸ μνημεῖον, καὶ βλέπει τὸν λίθον ἠρμένον ἐκ τοῦ μνημείου. 
+[El primer día de la semana María Magdalena fue* temprano al sepulcro, cuando todavía estaba* oscuro, y vio* que la piedra ya había sido quitada del sepulcro.]
+
+### Juan 20:2 {#juan-20-2}
+τρέχει οὖν καὶ ἔρχεται πρὸς Σίμωνα Πέτρον καὶ πρὸς τὸν ἄλλον μαθητὴν ὃν ἐφίλει ὁ Ἰησοῦς, καὶ λέγει αὐτοῖς· Ἦραν τὸν κύριον ἐκ τοῦ μνημείου, καὶ οὐκ οἴδαμεν ποῦ ἔθηκαν αὐτόν. 
+[Entonces corrió* y fue* adonde estaban Simón Pedro y el otro discípulo a quien Jesús amaba, y les dijo*: «Se han llevado al Señor del sepulcro, y no sabemos dónde lo han puesto».]
+
+### Juan 20:3 {#juan-20-3}
+ἐξῆλθεν οὖν ὁ Πέτρος καὶ ὁ ἄλλος μαθητής, καὶ ἤρχοντο εἰς τὸ μνημεῖον. 
+[Salieron, pues, Pedro y el otro discípulo, y fueron hacia el sepulcro.]
+
+### Juan 20:4 {#juan-20-4}
+ἔτρεχον δὲ οἱ δύο ὁμοῦ· καὶ ὁ ἄλλος μαθητὴς προέδραμεν τάχιον τοῦ Πέτρου καὶ ἦλθεν πρῶτος εἰς τὸ μνημεῖον, 
+[Los dos corrían juntos, pero el otro discípulo corrió más aprisa que Pedro, y llegó primero al sepulcro;]
+
+### Juan 20:5 {#juan-20-5}
+καὶ παρακύψας βλέπει κείμενα τὰ ὀθόνια, οὐ μέντοι εἰσῆλθεν. 
+[e inclinándose para mirar adentro, vio* las envolturas de lino puestas allí, pero no entró.]
+
+### Juan 20:6 {#juan-20-6}
+ἔρχεται οὖν ⸀καὶ Σίμων Πέτρος ἀκολουθῶν αὐτῷ, καὶ εἰσῆλθεν εἰς τὸ μνημεῖον· καὶ θεωρεῖ τὰ ὀθόνια κείμενα, 
+[Entonces llegó* también Simón Pedro tras él, entró al sepulcro, y vio* las envolturas de lino puestas allí,]
+
+### Juan 20:7 {#juan-20-7}
+καὶ τὸ σουδάριον, ὃ ἦν ἐπὶ τῆς κεφαλῆς αὐτοῦ, οὐ μετὰ τῶν ὀθονίων κείμενον ἀλλὰ χωρὶς ἐντετυλιγμένον εἰς ἕνα τόπον· 
+[y el sudario que había estado sobre la cabeza de Jesús, no puesto con las envolturas de lino, sino enrollado en un lugar aparte.]
+
+### Juan 20:8 {#juan-20-8}
+τότε οὖν εἰσῆλθεν καὶ ὁ ἄλλος μαθητὴς ὁ ἐλθὼν πρῶτος εἰς τὸ μνημεῖον, καὶ εἶδεν καὶ ἐπίστευσεν· 
+[También entró el otro discípulo, el que había llegado primero al sepulcro, y vio y creyó.]
+
+### Juan 20:9 {#juan-20-9}
+οὐδέπω γὰρ ᾔδεισαν τὴν γραφὴν ὅτι δεῖ αὐτὸν ἐκ νεκρῶν ἀναστῆναι. 
+[Porque todavía no habían entendido la Escritura de que Jesús debía resucitar de entre los muertos.]
+
+### Juan 20:10 {#juan-20-10}
+ἀπῆλθον οὖν πάλιν πρὸς ⸀αὑτοὺς οἱ μαθηταί. 
+[Los discípulos entonces se fueron de nuevo a sus casas.]
+
+### Juan 20:11 {#juan-20-11}
+Μαρία δὲ εἱστήκει πρὸς ⸂τῷ μνημείῳ ἔξω κλαίουσα⸃. ὡς οὖν ἔκλαιεν παρέκυψεν εἰς τὸ μνημεῖον, 
+[Pero María estaba fuera, llorando junto al sepulcro; y mientras lloraba, se inclinó y miró dentro del sepulcro;]
+
+### Juan 20:12 {#juan-20-12}
+καὶ θεωρεῖ δύο ἀγγέλους ἐν λευκοῖς καθεζομένους, ἕνα πρὸς τῇ κεφαλῇ καὶ ἕνα πρὸς τοῖς ποσίν, ὅπου ἔκειτο τὸ σῶμα τοῦ Ἰησοῦ. 
+[y vio* dos ángeles vestidos de blanco, sentados donde había estado el cuerpo de Jesús, uno a la cabecera y otro a los pies.]
+
+### Juan 20:13 {#juan-20-13}
+καὶ λέγουσιν αὐτῇ ἐκεῖνοι· Γύναι, τί κλαίεις; λέγει αὐτοῖς ὅτι Ἦραν τὸν κύριόν μου, καὶ οὐκ οἶδα ποῦ ἔθηκαν αὐτόν. 
+[«Mujer, ¿por qué lloras?», le preguntaron*. «Porque se han llevado a mi Señor, y no sé dónde lo han puesto», les contestó* ella.]
+
+### Juan 20:14 {#juan-20-14}
+⸀ταῦτα εἰποῦσα ἐστράφη εἰς τὰ ὀπίσω, καὶ θεωρεῖ τὸν Ἰησοῦν ἑστῶτα, καὶ οὐκ ᾔδει ὅτι Ἰησοῦς ἐστιν. 
+[Al decir esto, se volvió y vio* a Jesús que estaba allí, pero no sabía que era Jesús.]
+
+### Juan 20:15 {#juan-20-15}
+λέγει ⸀αὐτῇ Ἰησοῦς· Γύναι, τί κλαίεις; τίνα ζητεῖς; ἐκείνη δοκοῦσα ὅτι ὁ κηπουρός ἐστιν λέγει αὐτῷ· Κύριε, εἰ σὺ ἐβάστασας αὐτόν, εἰπέ μοι ποῦ ἔθηκας αὐτόν, κἀγὼ αὐτὸν ἀρῶ. 
+[«Mujer, ¿por qué lloras?», le dijo* Jesús. «¿A quién buscas?». Ella, pensando que era el que cuidaba el huerto, le dijo*: «Señor, si usted lo ha llevado, dígame dónde lo ha puesto, y yo me lo llevaré».]
+
+### Juan 20:16 {#juan-20-16}
+λέγει ⸀αὐτῇ Ἰησοῦς· ⸀Μαριάμ. στραφεῖσα ἐκείνη λέγει αὐτῷ ⸀Ἑβραϊστί· Ραββουνι (ὃ λέγεται Διδάσκαλε). 
+[«¡María!», le dijo* Jesús. Ella, volviéndose, le dijo* en hebreo: «¡Raboní!» (que quiere decir Maestro).]
+
+### Juan 20:17 {#juan-20-17}
+λέγει ⸀αὐτῇ Ἰησοῦς· Μή μου ἅπτου, οὔπω γὰρ ἀναβέβηκα πρὸς τὸν ⸀πατέρα· πορεύου δὲ πρὸς τοὺς ἀδελφούς μου καὶ εἰπὲ αὐτοῖς· Ἀναβαίνω πρὸς τὸν πατέρα μου καὶ πατέρα ὑμῶν καὶ θεόν μου καὶ θεὸν ὑμῶν. 
+[Jesús le dijo*: «Suéltame porque todavía no he subido al Padre; pero ve a Mis hermanos, y diles: “Subo a Mi Padre y Padre de ustedes, a Mi Dios y Dios de ustedes”».]
+
+### Juan 20:18 {#juan-20-18}
+ἔρχεται ⸀Μαριὰμ ἡ Μαγδαληνὴ ⸀ἀγγέλλουσα τοῖς μαθηταῖς ὅτι ⸀Ἑώρακα τὸν κύριον καὶ ταῦτα εἶπεν αὐτῇ. 
+[María Magdalena fue* y anunció a los discípulos: «¡He visto al Señor!», y que Él le había dicho estas cosas.]
+
+### Juan 20:19 {#juan-20-19}
+Οὔσης οὖν ὀψίας τῇ ἡμέρᾳ ἐκείνῃ τῇ ⸀μιᾷ σαββάτων, καὶ τῶν θυρῶν κεκλεισμένων ὅπου ἦσαν οἱ ⸀μαθηταὶ διὰ τὸν φόβον τῶν Ἰουδαίων, ἦλθεν ὁ Ἰησοῦς καὶ ἔστη εἰς τὸ μέσον, καὶ λέγει αὐτοῖς· Εἰρήνη ὑμῖν. 
+[Al atardecer de aquel día, el primero de la semana, y estando cerradas las puertas del lugar donde los discípulos se encontraban por miedo a los judíos, Jesús vino y se puso en medio de ellos, y les dijo*: «Paz a ustedes».]
+
+### Juan 20:20 {#juan-20-20}
+καὶ τοῦτο εἰπὼν ⸀ἔδειξεν τὰς χεῖρας καὶ τὴν πλευρὰν ⸀αὐτοῖς. ἐχάρησαν οὖν οἱ μαθηταὶ ἰδόντες τὸν κύριον. 
+[Y diciendo esto, les mostró las manos y el costado. Entonces los discípulos se regocijaron al ver al Señor.]
+
+### Juan 20:21 {#juan-20-21}
+εἶπεν οὖν αὐτοῖς ⸂ὁ Ἰησοῦς⸃ πάλιν· Εἰρήνη ὑμῖν· καθὼς ἀπέσταλκέν με ὁ πατήρ, κἀγὼ πέμπω ὑμᾶς. 
+[Jesús les dijo otra vez: «Paz a ustedes; como el Padre me ha enviado, así también Yo los envío».]
+
+### Juan 20:22 {#juan-20-22}
+καὶ τοῦτο εἰπὼν ἐνεφύσησεν καὶ λέγει αὐτοῖς· Λάβετε πνεῦμα ἅγιον· 
+[Después de decir esto, sopló sobre ellos y les dijo*: «Reciban el Espíritu Santo.]
+
+### Juan 20:23 {#juan-20-23}
+ἄν τινων ἀφῆτε τὰς ἁμαρτίας ⸀ἀφέωνται αὐτοῖς· ἄν τινων κρατῆτε κεκράτηνται. 
+[A quienes perdonen los pecados, estos les son perdonados; a quienes retengan los pecados, estos les son retenidos».]
+
+### Juan 20:24 {#juan-20-24}
+Θωμᾶς δὲ εἷς ἐκ τῶν δώδεκα, ὁ λεγόμενος Δίδυμος, οὐκ ἦν μετʼ αὐτῶν ὅτε ⸀ἦλθεν Ἰησοῦς. 
+[Tomás, uno de los doce, llamado el Dídimo, no estaba con ellos cuando Jesús vino.]
+
+### Juan 20:25 {#juan-20-25}
+ἔλεγον οὖν αὐτῷ οἱ ἄλλοι μαθηταί· Ἑωράκαμεν τὸν κύριον. ὁ δὲ εἶπεν αὐτοῖς· Ἐὰν μὴ ἴδω ἐν ταῖς χερσὶν αὐτοῦ τὸν τύπον τῶν ἥλων καὶ βάλω τὸν δάκτυλόν μου εἰς τὸν τύπον τῶν ἥλων καὶ βάλω ⸂μου τὴν χεῖρα⸃ εἰς τὴν πλευρὰν αὐτοῦ, οὐ μὴ πιστεύσω. 
+[Entonces los otros discípulos le decían: «¡Hemos visto al Señor!». Pero él les dijo: «Si no veo en Sus manos la señal de los clavos, y meto el dedo en el lugar de los clavos, y pongo la mano en Su costado, no creeré».]
+
+### Juan 20:26 {#juan-20-26}
+Καὶ μεθʼ ἡμέρας ὀκτὼ πάλιν ἦσαν ἔσω οἱ μαθηταὶ αὐτοῦ καὶ Θωμᾶς μετʼ αὐτῶν. ἔρχεται ὁ Ἰησοῦς τῶν θυρῶν κεκλεισμένων, καὶ ἔστη εἰς τὸ μέσον καὶ εἶπεν· Εἰρήνη ὑμῖν. 
+[Ocho días después, Sus discípulos estaban otra vez dentro, y Tomás con ellos. Estando las puertas cerradas, Jesús vino* y se puso en medio de ellos, y dijo: «Paz a ustedes».]
+
+### Juan 20:27 {#juan-20-27}
+εἶτα λέγει τῷ Θωμᾷ· Φέρε τὸν δάκτυλόν σου ὧδε καὶ ἴδε τὰς χεῖράς μου, καὶ φέρε τὴν χεῖρά σου καὶ βάλε εἰς τὴν πλευράν μου, καὶ μὴ γίνου ἄπιστος ἀλλὰ πιστός. 
+[Luego dijo* a Tomás: «Acerca aquí tu dedo, y mira Mis manos; extiende aquí tu mano y métela en Mi costado; y no seas incrédulo, sino creyente».]
+
+### Juan 20:28 {#juan-20-28}
+⸀ἀπεκρίθη Θωμᾶς καὶ εἶπεν αὐτῷ· Ὁ κύριός μου καὶ ὁ θεός μου. 
+[«¡Señor mío y Dios mío!», le dijo Tomás.]
+
+### Juan 20:29 {#juan-20-29}
+λέγει αὐτῷ ὁ Ἰησοῦς· Ὅτι ἑώρακάς με πεπίστευκας; μακάριοι οἱ μὴ ἰδόντες καὶ πιστεύσαντες. 
+[Jesús le dijo*: «¿Porque me has visto has creído? Dichosos los que no vieron, y sin embargo creyeron».]
+
+### Juan 20:30 {#juan-20-30}
+Πολλὰ μὲν οὖν καὶ ἄλλα σημεῖα ἐποίησεν ὁ Ἰησοῦς ἐνώπιον τῶν ⸀μαθητῶν, ἃ οὐκ ἔστιν γεγραμμένα ἐν τῷ βιβλίῳ τούτῳ· 
+[Y muchas otras señales hizo también Jesús en presencia de Sus discípulos, que no están escritas en este libro;]
+
+### Juan 20:31 {#juan-20-31}
+ταῦτα δὲ γέγραπται ἵνα ⸀πιστεύητε ὅτι Ἰησοῦς ἐστιν ὁ χριστὸς ὁ υἱὸς τοῦ θεοῦ, καὶ ἵνα πιστεύοντες ζωὴν ἔχητε ἐν τῷ ὀνόματι αὐτοῦ. 
+[pero estas se han escrito para que ustedes crean que Jesús es el Cristo, el Hijo de Dios; y para que al creer, tengan vida en Su nombre.]
+
+### Juan 21:1 {#juan-21-1}
+Μετὰ ταῦτα ἐφανέρωσεν ἑαυτὸν πάλιν ⸀ὁ Ἰησοῦς τοῖς μαθηταῖς ἐπὶ τῆς θαλάσσης τῆς Τιβεριάδος· ἐφανέρωσεν δὲ οὕτως. 
+[Después de esto, Jesús se manifestó otra vez a los discípulos junto al mar de Tiberias, y se manifestó de esta manera:]
+
+### Juan 21:2 {#juan-21-2}
+ἦσαν ὁμοῦ Σίμων Πέτρος καὶ Θωμᾶς ὁ λεγόμενος Δίδυμος καὶ Ναθαναὴλ ὁ ἀπὸ Κανὰ τῆς Γαλιλαίας καὶ οἱ τοῦ Ζεβεδαίου καὶ ἄλλοι ἐκ τῶν μαθητῶν αὐτοῦ δύο. 
+[Estaban juntos Simón Pedro, Tomás llamado el Dídimo, Natanael de Caná de Galilea, los hijos de Zebedeo y otros dos de Sus discípulos.]
+
+### Juan 21:3 {#juan-21-3}
+λέγει αὐτοῖς Σίμων Πέτρος· Ὑπάγω ἁλιεύειν· λέγουσιν αὐτῷ· Ἐρχόμεθα καὶ ἡμεῖς σὺν σοί. ἐξῆλθον καὶ ἐνέβησαν εἰς τὸ ⸀πλοῖον, καὶ ἐν ἐκείνῃ τῇ νυκτὶ ἐπίασαν οὐδέν. 
+[«Me voy a pescar», les dijo* Simón Pedro. «Nosotros también vamos contigo», le dijeron* ellos. Fueron y entraron en la barca, y aquella noche no pescaron nada.]
+
+### Juan 21:4 {#juan-21-4}
+Πρωΐας δὲ ἤδη ⸀γενομένης ⸀ἔστη Ἰησοῦς εἰς τὸν αἰγιαλόν· οὐ μέντοι ᾔδεισαν οἱ μαθηταὶ ὅτι Ἰησοῦς ἐστιν. 
+[Cuando ya amanecía, Jesús estaba en la playa; pero los discípulos no sabían que era Jesús.]
+
+### Juan 21:5 {#juan-21-5}
+λέγει οὖν αὐτοῖς ⸀ὁ Ἰησοῦς· Παιδία, μή τι προσφάγιον ἔχετε; ἀπεκρίθησαν αὐτῷ· Οὔ. 
+[Jesús les dijo*: «Hijos, ¿acaso tienen algún pescado?». «No», respondieron ellos.]
+
+### Juan 21:6 {#juan-21-6}
+ὁ δὲ εἶπεν αὐτοῖς· Βάλετε εἰς τὰ δεξιὰ μέρη τοῦ πλοίου τὸ δίκτυον, καὶ εὑρήσετε. ἔβαλον οὖν, καὶ οὐκέτι αὐτὸ ἑλκύσαι ⸀ἴσχυον ἀπὸ τοῦ πλήθους τῶν ἰχθύων. 
+[Y Él les dijo: «Echen la red al lado derecho de la barca y hallarán pesca». Entonces la echaron, y no podían sacarla por la gran cantidad de peces.]
+
+### Juan 21:7 {#juan-21-7}
+λέγει οὖν ὁ μαθητὴς ἐκεῖνος ὃν ἠγάπα ὁ Ἰησοῦς τῷ Πέτρῳ· Ὁ κύριός ἐστιν. Σίμων οὖν Πέτρος, ἀκούσας ὅτι ὁ κύριός ἐστιν, τὸν ἐπενδύτην διεζώσατο, ἦν γὰρ γυμνός, καὶ ἔβαλεν ἑαυτὸν εἰς τὴν θάλασσαν· 
+[Entonces aquel discípulo a quien Jesús amaba, dijo* a Pedro: «¡Es el Señor!». Oyendo Simón Pedro que era el Señor, se puso la ropa, porque se la había quitado para poder trabajar, y se echó al mar.]
+
+### Juan 21:8 {#juan-21-8}
+οἱ δὲ ἄλλοι μαθηταὶ τῷ πλοιαρίῳ ἦλθον, οὐ γὰρ ἦσαν μακρὰν ἀπὸ τῆς γῆς ἀλλὰ ὡς ἀπὸ πηχῶν διακοσίων, σύροντες τὸ δίκτυον τῶν ἰχθύων. 
+[Pero los otros discípulos vinieron en la barca, porque no estaban lejos de tierra, sino a unos 100 metros, arrastrando la red llena de peces.]
+
+### Juan 21:9 {#juan-21-9}
+Ὡς οὖν ἀπέβησαν εἰς τὴν γῆν βλέπουσιν ἀνθρακιὰν κειμένην καὶ ὀψάριον ἐπικείμενον καὶ ἄρτον. 
+[Cuando bajaron a tierra, vieron* brasas ya puestas y un pescado colocado sobre ellas, y pan.]
+
+### Juan 21:10 {#juan-21-10}
+λέγει αὐτοῖς ὁ Ἰησοῦς· Ἐνέγκατε ἀπὸ τῶν ὀψαρίων ὧν ἐπιάσατε νῦν. 
+[Jesús les dijo*: «Traigan algunos de los peces que acaban de sacar».]
+
+### Juan 21:11 {#juan-21-11}
+ἀνέβη ⸀οὖν Σίμων Πέτρος καὶ εἵλκυσεν τὸ δίκτυον ⸂εἰς τὴν γῆν⸃ μεστὸν ἰχθύων μεγάλων ἑκατὸν πεντήκοντα τριῶν· καὶ τοσούτων ὄντων οὐκ ἐσχίσθη τὸ δίκτυον. 
+[Simón Pedro subió a la barca, y sacó la red a tierra, llena de peces grandes, 153 en total; y aunque había tantos, la red no se rompió.]
+
+### Juan 21:12 {#juan-21-12}
+λέγει αὐτοῖς ὁ Ἰησοῦς· Δεῦτε ἀριστήσατε. οὐδεὶς ⸀δὲ ἐτόλμα τῶν μαθητῶν ἐξετάσαι αὐτόν· Σὺ τίς εἶ; εἰδότες ὅτι ὁ κύριός ἐστιν. 
+[Jesús les dijo*: «Vengan y desayunen». Ninguno de los discípulos se atrevió a preguntarle: «¿Quién eres Tú?», sabiendo que era el Señor.]
+
+### Juan 21:13 {#juan-21-13}
+⸀ἔρχεται ⸀ὁ Ἰησοῦς καὶ λαμβάνει τὸν ἄρτον καὶ δίδωσιν αὐτοῖς, καὶ τὸ ὀψάριον ὁμοίως. 
+[Jesús vino*, tomó* el pan y se lo dio*; y lo mismo hizo con el pescado.]
+
+### Juan 21:14 {#juan-21-14}
+τοῦτο ἤδη τρίτον ἐφανερώθη ⸀ὁ Ἰησοῦς τοῖς ⸀μαθηταῖς ἐγερθεὶς ἐκ νεκρῶν. 
+[Esta fue la tercera vez que Jesús se manifestó a los discípulos, después de haber resucitado de entre los muertos.]
+
+### Juan 21:15 {#juan-21-15}
+Ὅτε οὖν ἠρίστησαν λέγει τῷ Σίμωνι Πέτρῳ ὁ Ἰησοῦς· Σίμων ⸀Ἰωάννου, ἀγαπᾷς με πλέον τούτων; λέγει αὐτῷ· Ναί, κύριε, σὺ οἶδας ὅτι φιλῶ σε. λέγει αὐτῷ· Βόσκε τὰ ἀρνία μου. 
+[Cuando acabaron de desayunar, Jesús dijo* a Simón Pedro: «Simón, hijo de Juan, ¿me amas más que estos?». «Sí, Señor, Tú sabes que te quiero», le contestó* Pedro. Jesús le dijo*: «Apacienta Mis corderos».]
+
+### Juan 21:16 {#juan-21-16}
+λέγει αὐτῷ πάλιν δεύτερον· Σίμων ⸀Ἰωάννου, ἀγαπᾷς με; λέγει αὐτῷ· Ναί, κύριε, σὺ οἶδας ὅτι φιλῶ σε. λέγει αὐτῷ· Ποίμαινε τὰ πρόβατά μου. 
+[Volvió a decirle por segunda vez: «Simón, hijo de Juan, ¿me amas?». «Sí, Señor, Tú sabes que te quiero», le contestó* Pedro. Jesús le dijo*: «Pastorea Mis ovejas».]
+
+### Juan 21:17 {#juan-21-17}
+λέγει αὐτῷ τὸ τρίτον· Σίμων ⸀Ἰωάννου, φιλεῖς με; ἐλυπήθη ὁ Πέτρος ὅτι εἶπεν αὐτῷ τὸ τρίτον· Φιλεῖς με; καὶ ⸀εἶπεν αὐτῷ· Κύριε, ⸂πάντα σὺ⸃ οἶδας, σὺ γινώσκεις ὅτι φιλῶ σε. λέγει αὐτῷ ⸀ὁ Ἰησοῦς· Βόσκε τὰ ⸀πρόβατά μου. 
+[Jesús le dijo por tercera vez: «Simón, hijo de Juan, ¿me quieres?». Pedro se entristeció porque la tercera vez le dijo: «¿Me quieres?». Y le respondió: «Señor, Tú lo sabes todo; Tú sabes que te quiero». «Apacienta Mis ovejas», le dijo* Jesús.]
+
+### Juan 21:18 {#juan-21-18}
+ἀμὴν ἀμὴν λέγω σοι, ὅτε ἦς νεώτερος, ἐζώννυες σεαυτὸν καὶ περιεπάτεις ὅπου ἤθελες· ὅταν δὲ γηράσῃς, ἐκτενεῖς τὰς χεῖράς σου, καὶ ἄλλος ⸂σε ζώσει⸃ καὶ οἴσει ὅπου οὐ θέλεις. 
+[«En verdad te digo, que cuando eras más joven te vestías y andabas por donde querías; pero cuando seas viejo extenderás las manos y otro te vestirá, y te llevará adonde no quieras».]
+
+### Juan 21:19 {#juan-21-19}
+τοῦτο δὲ εἶπεν σημαίνων ποίῳ θανάτῳ δοξάσει τὸν θεόν. καὶ τοῦτο εἰπὼν λέγει αὐτῷ· Ἀκολούθει μοι. 
+[Esto dijo, dando a entender la clase de muerte con que Pedro glorificaría a Dios. Y habiendo dicho esto, le dijo*: «Sígueme».]
+
+### Juan 21:20 {#juan-21-20}
+⸀Ἐπιστραφεὶς ὁ Πέτρος βλέπει τὸν μαθητὴν ὃν ἠγάπα ὁ Ἰησοῦς ἀκολουθοῦντα, ὃς καὶ ἀνέπεσεν ἐν τῷ δείπνῳ ἐπὶ τὸ στῆθος αὐτοῦ καὶ εἶπεν· Κύριε, τίς ἐστιν ὁ παραδιδούς σε; 
+[Pedro, volviéndose, vio* que les seguía el discípulo a quien Jesús amaba, el que en la cena se había recostado sobre el pecho de Jesús y le había preguntado: «Señor, ¿quién es el que te va a entregar?».]
+
+### Juan 21:21 {#juan-21-21}
+τοῦτον ⸀οὖν ἰδὼν ὁ Πέτρος λέγει τῷ Ἰησοῦ· Κύριε, οὗτος δὲ τί; 
+[Entonces Pedro, al verlo, dijo* a Jesús: «Señor, ¿y este, qué?».]
+
+### Juan 21:22 {#juan-21-22}
+λέγει αὐτῷ ὁ Ἰησοῦς· Ἐὰν αὐτὸν θέλω μένειν ἕως ἔρχομαι, τί πρὸς σέ; σύ ⸂μοι ἀκολούθει⸃. 
+[Jesús le dijo*: «Si Yo quiero que él se quede hasta que Yo venga, ¿a ti, qué? Tú, sígueme».]
+
+### Juan 21:23 {#juan-21-23}
+ἐξῆλθεν οὖν ⸂οὗτος ὁ λόγος⸃ εἰς τοὺς ἀδελφοὺς ὅτι ὁ μαθητὴς ἐκεῖνος οὐκ ἀποθνῄσκει. ⸂οὐκ εἶπεν δὲ⸃ αὐτῷ ὁ Ἰησοῦς ὅτι οὐκ ἀποθνῄσκει ἀλλʼ· Ἐὰν αὐτὸν θέλω μένειν ἕως ἔρχομαι, τί πρὸς σέ; 
+[Por eso el dicho se propagó entre los hermanos que aquel discípulo no moriría. Pero Jesús no le dijo que no moriría, sino: «Si Yo quiero que se quede hasta que Yo venga, ¿a ti, qué?».]
+
+### Juan 21:24 {#juan-21-24}
+Οὗτός ἐστιν ὁ μαθητὴς ὁ μαρτυρῶν περὶ τούτων καὶ ⸀ὁ γράψας ταῦτα, καὶ οἴδαμεν ὅτι ἀληθὴς ⸂αὐτοῦ ἡ μαρτυρία ἐστίν⸃. 
+[Este es el discípulo que da testimonio de estas cosas y el que escribió esto, y sabemos que su testimonio es verdadero.]
+
+### Juan 21:25 {#juan-21-25}
+ἔστιν δὲ καὶ ἄλλα πολλὰ ⸀ἃ ἐποίησεν ὁ Ἰησοῦς, ἅτινα ἐὰν γράφηται καθʼ ἕν, οὐδʼ αὐτὸν οἶμαι τὸν κόσμον ⸀χωρήσειν τὰ γραφόμενα ⸀βιβλία. 
+[Y hay también muchas otras cosas que Jesús hizo, que si se escribieran* en detalle, pienso que ni aun el mundo mismo podría* contener los libros que se escribirían*.]
+

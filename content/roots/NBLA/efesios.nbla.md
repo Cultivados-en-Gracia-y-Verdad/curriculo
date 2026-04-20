@@ -1,0 +1,155 @@
+Efesios 1:1 Pablo, apóstol de Cristo Jesús por la voluntad de Dios: A los santos que están en Éfeso y que son fieles en Cristo Jesús:
+Efesios 1:2 Gracia y paz a ustedes de parte de Dios nuestro Padre y del Señor Jesucristo.
+Efesios 1:3 Bendito sea el Dios y Padre de nuestro Señor Jesucristo, que nos ha bendecido con toda bendición espiritual en los lugares celestiales en Cristo.
+Efesios 1:4 Porque Dios nos escogió en Cristo antes de la fundación del mundo, para que fuéramos santos y sin mancha delante de Él. En amor
+Efesios 1:5 nos predestinó para adopción como hijos para sí mediante Jesucristo, conforme a la buena intención de Su voluntad,
+Efesios 1:6 para alabanza de la gloria de Su gracia que gratuitamente ha impartido sobre nosotros en el Amado.
+Efesios 1:7 En Él tenemos redención mediante Su sangre, el perdón de nuestros pecados según las riquezas de Su gracia
+Efesios 1:8 que ha hecho abundar para con nosotros. En toda sabiduría y discernimiento
+Efesios 1:9 nos dio a conocer el misterio de Su voluntad, según la buena intención que se propuso en Cristo,
+Efesios 1:10 con miras a una buena administración en el cumplimiento de los tiempos, es decir, de reunir todas las cosas en Cristo, tanto las que están en los cielos, como las que están en la tierra.
+Efesios 1:11 También en Él hemos obtenido herencia, habiendo sido predestinados según el propósito de Aquel que obra todas las cosas conforme al consejo de Su voluntad,
+Efesios 1:12 a fin de que nosotros, que fuimos los primeros en esperar en Cristo, seamos para alabanza de Su gloria.
+Efesios 1:13 En Él también ustedes, después de escuchar el mensaje de la verdad, el evangelio de su salvación, y habiendo creído, fueron sellados en Él con el Espíritu Santo de la promesa,
+Efesios 1:14 que nos es dado como garantía de nuestra herencia, con miras a la redención de la posesión adquirida de Dios, para alabanza de Su gloria.
+Efesios 1:15 Por esta razón también yo, habiendo oído de la fe en el Señor Jesús que hay entre ustedes, y de su amor por todos los santos,
+Efesios 1:16 no ceso de dar gracias por ustedes, mencionándolos en mis oraciones,
+Efesios 1:17 pido que el Dios de nuestro Señor Jesucristo, el Padre de gloria, les dé espíritu de sabiduría y de revelación en un mejor conocimiento de Él.
+Efesios 1:18 Mi oración es que los ojos de su corazón les sean iluminados, para que sepan cuál es la esperanza de Su llamamiento, cuáles son las riquezas de la gloria de Su herencia en los santos,
+Efesios 1:19 y cuál es la extraordinaria grandeza de Su poder para con nosotros los que creemos, conforme a la eficacia de la fuerza de Su poder.
+Efesios 1:20 Ese poder obró en Cristo cuando lo resucitó de entre los muertos y lo sentó a Su diestra en los lugares celestiales,
+Efesios 1:21 muy por encima de todo principado, autoridad, poder, dominio y de todo nombre que se nombra, no solo en este siglo sino también en el venidero.
+Efesios 1:22 Y todo lo sometió bajo Sus pies, y a Él lo dio por cabeza sobre todas las cosas a la iglesia,
+Efesios 1:23 la cual es Su cuerpo, la plenitud de Aquel que lo llena todo en todo.
+Efesios 2:1 Y Él les dio vida a ustedes, que estaban muertos en sus delitos y pecados,
+Efesios 2:2 en los cuales anduvieron en otro tiempo según la corriente de este mundo, conforme al príncipe de la potestad del aire, el espíritu que ahora opera en los hijos de desobediencia.
+Efesios 2:3 Entre ellos también todos nosotros en otro tiempo vivíamos en las pasiones de nuestra carne, satisfaciendo los deseos de la carne y de la mente, y éramos por naturaleza hijos de ira, lo mismo que los demás.
+Efesios 2:4 Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó,
+Efesios 2:5 aun cuando estábamos muertos en nuestros delitos, nos dio vida juntamente con Cristo (por gracia ustedes han sido salvados),
+Efesios 2:6 y con Él nos resucitó y con Él nos sentó en los lugares celestiales en Cristo Jesús,
+Efesios 2:7 a fin de poder mostrar en los siglos venideros las sobreabundantes riquezas de Su gracia por Su bondad para con nosotros en Cristo Jesús.
+Efesios 2:8 Porque por gracia ustedes han sido salvados por medio de la fe, y esto no procede de ustedes, sino que es don de Dios;
+Efesios 2:9 no por obras, para que nadie se gloríe.
+Efesios 2:10 Porque somos hechura Suya, creados en Cristo Jesús para hacer buenas obras, las cuales Dios preparó de antemano para que anduviéramos en ellas.
+Efesios 2:11 Por tanto, recuerden que en otro tiempo, ustedes los gentiles en la carne, que son llamados «Incircuncisión» por la tal llamada «Circuncisión», hecha en la carne por manos humanas,
+Efesios 2:12 recuerden que en ese tiempo ustedes estaban separados de Cristo, excluidos de la ciudadanía de Israel, extraños a los pactos de la promesa, sin tener esperanza y sin Dios en el mundo.
+Efesios 2:13 Pero ahora en Cristo Jesús, ustedes, que en otro tiempo estaban lejos, han sido acercados por la sangre de Cristo.
+Efesios 2:14 Porque Él mismo es nuestra paz, y de ambos pueblos hizo uno, derribando la pared intermedia de separación,
+Efesios 2:15 poniendo fin a la enemistad en Su carne, la ley de los mandamientos expresados en ordenanzas, para crear en Él mismo de los dos un nuevo hombre, estableciendo así la paz,
+Efesios 2:16 y para reconciliar con Dios a los dos en un cuerpo por medio de la cruz, habiendo dado muerte en ella a la enemistad.
+Efesios 2:17 Y VINO Y ANUNCIÓ PAZ A USTEDES QUE ESTABAN LEJOS, Y PAZ A LOS QUE ESTABAN CERCA.
+Efesios 2:18 Porque por medio de Cristo los unos y los otros tenemos nuestra entrada al Padre en un mismo Espíritu.
+Efesios 2:19 Así pues, ustedes ya no son extraños ni extranjeros, sino que son conciudadanos de los santos y son de la familia de Dios.
+Efesios 2:20 Están edificados sobre el fundamento de los apóstoles y profetas, siendo Cristo Jesús mismo la piedra angular,
+Efesios 2:21 en quien todo el edificio, bien ajustado, va creciendo para ser un templo santo en el Señor.
+Efesios 2:22 En Cristo también ustedes son juntamente edificados para morada de Dios en el Espíritu.
+Efesios 3:1 Por esta causa yo, Pablo, prisionero de Cristo Jesús por amor de ustedes los gentiles
+Efesios 3:2 si en verdad han oído de la dispensación de la gracia de Dios que me fue dada para ustedes;
+Efesios 3:3 que por revelación me fue dado a conocer el misterio, tal como antes les escribí brevemente.
+Efesios 3:4 En vista de lo cual, leyendo, podrán entender mi comprensión del misterio de Cristo,
+Efesios 3:5 que en otras generaciones no se dio a conocer a los hijos de los hombres, como ahora ha sido revelado a Sus santos apóstoles y profetas por el Espíritu;
+Efesios 3:6 a saber, que los gentiles son coherederos y miembros del mismo cuerpo, participando igualmente de la promesa en Cristo Jesús mediante el evangelio.
+Efesios 3:7 Es de este evangelio que fui hecho ministro, conforme al don de la gracia de Dios que se me ha concedido según la eficacia de Su poder.
+Efesios 3:8 A mí, que soy menos que el más pequeño de todos los santos, se me concedió esta gracia: anunciar a los gentiles las inescrutables riquezas de Cristo,
+Efesios 3:9 y sacar a la luz cuál es la dispensación del misterio que por los siglos ha estado oculto en Dios, creador de todas las cosas.
+Efesios 3:10 De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por medio de la iglesia a los principados y potestades en los lugares celestiales,
+Efesios 3:11 conforme al propósito eterno que llevó a cabo en Cristo Jesús nuestro Señor,
+Efesios 3:12 en quien tenemos libertad y acceso a Dios con confianza por medio de la fe en Él.
+Efesios 3:13 Ruego, por tanto, que no desmayen a causa de mis tribulaciones por ustedes, porque son su gloria.
+Efesios 3:14 Por esta causa, pues, doblo mis rodillas ante el Padre de nuestro Señor Jesucristo,
+Efesios 3:15 de quien recibe nombre toda familia en el cielo y en la tierra.
+Efesios 3:16 Le ruego que Él les conceda a ustedes, conforme a las riquezas de Su gloria, el ser fortalecidos con poder por Su Espíritu en el hombre interior;
+Efesios 3:17 de manera que Cristo habite por la fe en sus corazones. También ruego que arraigados y cimentados en amor,
+Efesios 3:18 ustedes sean capaces de comprender con todos los santos cuál es la anchura, la longitud, la altura y la profundidad,
+Efesios 3:19 y de conocer el amor de Cristo que sobrepasa el conocimiento, para que sean llenos hasta la medida de toda la plenitud de Dios.
+Efesios 3:20 Y a Aquel que es poderoso para hacer todo mucho más abundantemente de lo que pedimos o entendemos, según el poder que obra en nosotros,
+Efesios 3:21 a Él sea la gloria en la iglesia y en Cristo Jesús por todas las generaciones, por los siglos de los siglos. Amén.
+Efesios 4:1 Yo, pues, prisionero del Señor, les ruego que ustedes vivan de una manera digna de la vocación con que han sido llamados.
+Efesios 4:2 Que vivan con toda humildad y mansedumbre, con paciencia, soportándose unos a otros en amor,
+Efesios 4:3 esforzándose por preservar la unidad del Espíritu en el vínculo de la paz.
+Efesios 4:4 Hay un solo cuerpo y un solo Espíritu, así como también ustedes fueron llamados en una misma esperanza de su vocación;
+Efesios 4:5 un solo Señor, una sola fe, un solo bautismo,
+Efesios 4:6 un solo Dios y Padre de todos, que está sobre todos, por todos y en todos.
+Efesios 4:7 Pero a cada uno de nosotros se nos ha concedido la gracia conforme a la medida del don de Cristo.
+Efesios 4:8 Por tanto, dice: «CUANDO ASCENDIÓ A LO ALTO, LLEVÓ CAUTIVO UN GRAN NÚMERO DE CAUTIVOS, Y DIO DONES A LOS HOMBRES».
+Efesios 4:9 Esta expresión: «Ascendió», ¿qué significa, sino que Él también había descendido a las profundidades de la tierra?
+Efesios 4:10 El que descendió es también el mismo que ascendió mucho más arriba de todos los cielos, para poder llenarlo todo.
+Efesios 4:11 Y Él dio a algunos el ser apóstoles, a otros profetas, a otros evangelistas, a otros pastores y maestros,
+Efesios 4:12 a fin de capacitar a los santos para la obra del ministerio, para la edificación del cuerpo de Cristo;
+Efesios 4:13 hasta que todos lleguemos a la unidad de la fe y del pleno conocimiento del Hijo de Dios, a la condición de un hombre maduro, a la medida de la estatura de la plenitud de Cristo.
+Efesios 4:14 Entonces ya no seremos niños, sacudidos por las olas y llevados de aquí para allá por todo viento de doctrina, por la astucia de los hombres, por las artimañas engañosas del error.
+Efesios 4:15 Más bien, al hablar la verdad en amor, creceremos en todos los aspectos en Aquel que es la cabeza, es decir, Cristo,
+Efesios 4:16 de quien todo el cuerpo, estando bien ajustado y unido por la cohesión que las coyunturas proveen, conforme al funcionamiento adecuado de cada miembro, produce el crecimiento del cuerpo para su propia edificación en amor.
+Efesios 4:17 Esto digo, pues, y afirmo juntamente con el Señor: que ustedes ya no anden así como andan también los gentiles, en la vanidad de su mente.
+Efesios 4:18 Ellos tienen entenebrecido su entendimiento, están excluidos de la vida de Dios por causa de la ignorancia que hay en ellos, por la dureza de su corazón.
+Efesios 4:19 Habiendo llegado a ser insensibles, se entregaron a la sensualidad para cometer con avidez toda clase de impurezas.
+Efesios 4:20 Pero ustedes no han aprendido a Cristo de esta manera.
+Efesios 4:21 Si en verdad lo oyeron y han sido enseñados en Él, conforme a la verdad que hay en Jesús,
+Efesios 4:22 que en cuanto a la anterior manera de vivir, ustedes se despojen del viejo hombre, que se corrompe según los deseos engañosos,
+Efesios 4:23 y que sean renovados en el espíritu de su mente,
+Efesios 4:24 y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado en la justicia y santidad de la verdad.
+Efesios 4:25 Por tanto, dejando a un lado la falsedad, HABLEN VERDAD CADA CUAL CON SU PRÓJIMO, porque somos miembros los unos de los otros.
+Efesios 4:26 ENÓJENSE, PERO NO PEQUEN; no se ponga el sol sobre su enojo,
+Efesios 4:27 ni den oportunidad al diablo.
+Efesios 4:28 El que roba, no robe más, sino más bien que trabaje, haciendo con sus manos lo que es bueno, a fin de que tenga qué compartir con el que tiene necesidad.
+Efesios 4:29 No salga de la boca de ustedes ninguna palabra mala, sino solo la que sea buena para edificación, según la necesidad del momento, para que imparta gracia a los que escuchan.
+Efesios 4:30 Y no entristezcan al Espíritu Santo de Dios, por el cual fueron sellados para el día de la redención.
+Efesios 4:31 Sea quitada de ustedes toda amargura, enojo, ira, gritos, insultos, así como toda malicia.
+Efesios 4:32 Sean más bien amables unos con otros, misericordiosos, perdonándose unos a otros, así como también Dios los perdonó en Cristo.
+Efesios 5:1 Sean, pues, imitadores de Dios como hijos amados;
+Efesios 5:2 y anden en amor, así como también Cristo les amó y se dio a sí mismo por nosotros, ofrenda y sacrificio a Dios, como fragante aroma.
+Efesios 5:3 Pero que la inmoralidad, y toda impureza o avaricia, ni siquiera se mencionen entre ustedes, como corresponde a los santos.
+Efesios 5:4 Tampoco haya obscenidades, ni necedades, ni groserías, que no son apropiadas, sino más bien acciones de gracias.
+Efesios 5:5 Porque con certeza ustedes saben esto: que ningún inmoral, impuro o avaro, que es idólatra, tiene herencia en el reino de Cristo y de Dios.
+Efesios 5:6 Que nadie los engañe con palabras vanas, pues por causa de estas cosas la ira de Dios viene sobre los hijos de desobediencia.
+Efesios 5:7 Por tanto, no sean partícipes con ellos;
+Efesios 5:8 porque antes ustedes eran tinieblas, pero ahora son luz en el Señor; anden como hijos de luz.
+Efesios 5:9 Porque el fruto de la luz consiste en toda bondad, justicia y verdad.
+Efesios 5:10 Examinen qué es lo que agrada al Señor,
+Efesios 5:11 y no participen en las obras estériles de las tinieblas, sino más bien, desenmascárenlas.
+Efesios 5:12 Porque es vergonzoso aun hablar de las cosas que ellos hacen en secreto.
+Efesios 5:13 Pero todas las cosas se hacen visibles cuando son expuestas por la luz, pues todo lo que se hace visible es luz.
+Efesios 5:14 Por esta razón dice: «Despierta, tú que duermes, Y levántate de entre los muertos, Y te alumbrará Cristo».
+Efesios 5:15 Por tanto, tengan cuidado cómo andan; no como insensatos sino como sabios,
+Efesios 5:16 aprovechando bien el tiempo, porque los días son malos.
+Efesios 5:17 Así pues, no sean necios, sino entiendan cuál es la voluntad del Señor.
+Efesios 5:18 Y no se embriaguen con vino, en lo cual hay disolución, sino sean llenos del Espíritu.
+Efesios 5:19 Hablen entre ustedes con salmos, himnos y cantos espirituales, cantando y alabando con su corazón al Señor.
+Efesios 5:20 Den siempre gracias por todo, en el nombre de nuestro Señor Jesucristo, a Dios, el Padre.
+Efesios 5:21 Sométanse unos a otros en el temor de Cristo.
+Efesios 5:22 Las mujeres estén sometidas a sus propios maridos como al Señor.
+Efesios 5:23 Porque el marido es cabeza de la mujer, así como Cristo es cabeza de la iglesia, siendo El mismo el Salvador del cuerpo.
+Efesios 5:24 Pero así como la iglesia está sujeta a Cristo, también las mujeres deben estarlo a sus maridos en todo.
+Efesios 5:25 Maridos, amen a sus mujeres, así como Cristo amó a la iglesia y se dio Él mismo por ella,
+Efesios 5:26 para santificarla, habiéndola purificado por el lavamiento del agua con la palabra,
+Efesios 5:27 a fin de presentársela a sí mismo, una iglesia en toda su gloria, sin que tenga mancha ni arruga ni cosa semejante, sino que fuera santa e inmaculada.
+Efesios 5:28 Así deben también los maridos amar a sus mujeres, como a sus propios cuerpos. El que ama a su mujer, a sí mismo se ama.
+Efesios 5:29 Porque nadie aborreció jamás su propio cuerpo, sino que lo sustenta y lo cuida, así como también Cristo a la iglesia;
+Efesios 5:30 porque somos miembros de Su cuerpo.
+Efesios 5:31 POR ESTO EL HOMBRE DEJARÁ A SU PADRE Y A SU MADRE, Y SE UNIRÁ A SU MUJER, Y LOS DOS SERÁN UNA SOLA CARNE.
+Efesios 5:32 Grande es este misterio, pero hablo con referencia a Cristo y a la iglesia.
+Efesios 5:33 En todo caso, cada uno de ustedes ame también a su mujer como a sí mismo, y que la mujer respete a su marido.
+Efesios 6:1 Hijos, obedezcan a sus padres en el Señor, porque esto es justo.
+Efesios 6:2 HONRA A TU PADRE Y A tu MADRE (que es el primer mandamiento con promesa),
+Efesios 6:3 PARA QUE TE VAYA BIEN, Y PARA QUE TENGAS LARGA VIDA SOBRE LA TIERRA.
+Efesios 6:4 Y ustedes, padres, no provoquen a ira a sus hijos, sino críenlos en la disciplina e instrucción del Señor.
+Efesios 6:5 Siervos, obedezcan a sus amos en la tierra, con temor y temblor, con la sinceridad de su corazón, como a Cristo;
+Efesios 6:6 no para ser vistos, como los que quieren agradar a los hombres, sino como siervos de Cristo, haciendo de corazón la voluntad de Dios.
+Efesios 6:7 Sirvan de buena voluntad, como al Señor y no a los hombres,
+Efesios 6:8 sabiendo que cualquier cosa buena que cada uno haga, esto recibirá del Señor, sea siervo o sea libre.
+Efesios 6:9 Y ustedes, amos, hagan lo mismo con sus siervos, y dejen las amenazas, sabiendo que el Señor de ellos y de ustedes está en los cielos, y que para Él no hay acepción de personas.
+Efesios 6:10 Por lo demás, fortalézcanse en el Señor y en el poder de su fuerza.
+Efesios 6:11 Revístanse con toda la armadura de Dios para que puedan estar firmes contra las insidias del diablo.
+Efesios 6:12 Porque nuestra lucha no es contra sangre y carne, sino contra principados, contra potestades, contra los poderes de este mundo de tinieblas, contra las fuerzas espirituales de maldad en las regiones celestes.
+Efesios 6:13 Por tanto, tomen toda la armadura de Dios, para que puedan resistir en el día malo, y habiéndolo hecho todo, estar firmes.
+Efesios 6:14 Estén, pues, firmes, CEÑIDA SU CINTURA CON LA VERDAD, REVESTIDOS CON LA CORAZA DE LA JUSTICIA,
+Efesios 6:15 y calzados LOS PIES CON LA PREPARACIÓN PARA ANUNCIAR EL EVANGELIO DE LA PAZ.
+Efesios 6:16 Sobre todo, tomen el escudo de la fe con el que podrán apagar todos los dardos encendidos del maligno.
+Efesios 6:17 Tomen también el CASCO DE LA SALVACIÓN, y la espada del Espíritu que es la palabra de Dios.
+Efesios 6:18 Con toda oración y súplica oren en todo tiempo en el Espíritu, y así, velen con toda perseverancia y súplica por todos los santos.
+Efesios 6:19 Oren también por mí, para que me sea dada palabra al abrir mi boca, a fin de dar a conocer sin temor el misterio del evangelio,
+Efesios 6:20 por el cual soy embajador en cadenas; que al proclamarlo hable sin temor, como debo hablar.
+Efesios 6:21 Pero a fin de que también ustedes sepan mi situación y lo que hago, todo se lo hará saber Tíquico, amado hermano y fiel ministro en el Señor,
+Efesios 6:22 a quien he enviado a ustedes precisamente para esto, para que sepan de nosotros y para que consuele sus corazones.
+Efesios 6:23 Paz sea a los hermanos, y amor con fe, de parte de Dios el Padre y del Señor Jesucristo.
+Efesios 6:24 La gracia sea con todos los que aman a nuestro Señor Jesucristo con amor incorruptible.

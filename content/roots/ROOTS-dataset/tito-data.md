@@ -1,0 +1,133 @@
+---
+title: Tito dataset
+---
+
+
+
+### Tito 1:1 {#tito-1-1}
+
+Παῦλος δοῦλος θεοῦ, ἀπόστολος δὲ Ἰησοῦ Χριστοῦ κατὰ πίστιν ἐκλεκτῶν θεοῦ καὶ ἐπίγνωσιν ἀληθείας τῆς κατʼ εὐσέβειαν
+[Pablo, siervo de Dios y apóstol de Jesucristo, conforme a la fe de los escogidos de Dios y al pleno conocimiento de la verdad que es según la piedad,]
+
+→ δὲ = pero
+→ καὶ = y
+
+### Tito 1:2 {#tito-1-2}
+ἐπʼ ἐλπίδι ζωῆς αἰωνίου, ἣν ἐπηγγείλατο ὁ ἀψευδὴς θεὸς πρὸ χρόνων αἰωνίων
+[con la esperanza de vida eterna, la cual Dios, que no miente, prometió desde los tiempos eternos,]
+
+- ἐπηγγείλατο (V-AMI-3S) ==prometió== [F]
+### Tito 1:3 {#tito-1-3}
+ἐφανέρωσεν δὲ καιροῖς ἰδίοις, τὸν λόγον αὐτοῦ ἐν κηρύγματι ὃ ἐπιστεύθην ἐγὼ κατʼ ἐπιταγὴν τοῦ σωτῆρος ἡμῶν θεοῦ,
+[y a su debido tiempo, manifestó Su palabra por la predicación que me fue confiada, conforme al mandamiento de Dios nuestro Salvador,]
+
+- ἐφανέρωσεν (V-AAI-3S) ==manifestó== [F]
+- ἐπιστεύθην (V-API-1S) ==fue confiada== [F]
+→ δὲ = y [c]
+### Tito 1:4 {#tito-1-4}
+Τίτῳ γνησίῳ τέκνῳ κατὰ κοινὴν πίστιν· χάρις ⸀καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς καὶ ⸂Χριστοῦ Ἰησοῦ⸃ τοῦ σωτῆρος ἡμῶν.
+[a Tito, verdadero hijo en la común fe: Gracia y paz de parte de Dios el Padre y de Cristo Jesús nuestro Salvador.]
+
+→ καὶ = y
+→ καὶ = y
+
+### Tito 1:5 {#tito-1-5}
+Τούτου χάριν ⸀ἀπέλιπόν σε ἐν Κρήτῃ ἵνα τὰ λείποντα ἐπιδιορθώσῃ, καὶ καταστήσῃς κατὰ πόλιν πρεσβυτέρους, ὡς ἐγώ σοι διεταξάμην,
+[Por esta causa te dejé en Creta, para que pusieras en orden lo que queda, y designaras ancianos en cada ciudad como te mandé.]
+
+- ἀπέλιπόν (V-AAI-1S) ==dejé== [F]
+- ἐπιδιορθώσῃ (V-AAS-2S) ==pusieras en orden== [F]
+- καταστήσῃς (V-AAS-2S) ==designaras== [F]
+- διεταξάμην (V-AMI-1S) ==mandé== [F]
+→ ἵνα = para que [i]
+→ καὶ = y [c]
+→ ὡς = como
+### Tito 1:6 {#tito-1-6}
+εἴ τίς ἐστιν ἀνέγκλητος, μιᾶς γυναικὸς ἀνήρ, τέκνα ἔχων πιστά, μὴ ἐν κατηγορίᾳ ἀσωτίας ἢ ἀνυπότακτα.
+[Lo designarás, si el anciano es irreprensible, marido de una sola mujer, que tenga hijos creyentes, no acusados de disolución ni de rebeldía.]
+
+- ἐστιν (V-PAI-3S) ==es== [F]
+- ἔχων (V-PAP-NSM) teniendo [NF]
+→ εἴ = si [i]
+→ ἢ = o
+### Tito 1:7 {#tito-1-7}
+δεῖ γὰρ τὸν ἐπίσκοπον ἀνέγκλητον εἶναι ὡς θεοῦ οἰκονόμον, μὴ αὐθάδη, μὴ ὀργίλον, μὴ πάροινον, μὴ πλήκτην, μὴ αἰσχροκερδῆ,
+[Porque el obispo debe ser irreprensible como administrador de Dios, no obstinado, no iracundo, no dado a la bebida, no pendenciero, no amante de ganancias deshonestas.]
+
+- δεῖ (V-PAI-3S) ==debe== [F]
+- εἶναι (V-PAN) ser [NF]
+→ γὰρ = porque [i]
+### Tito 1:8 {#tito-1-8}
+ἀλλὰ φιλόξενον, φιλάγαθον, σώφρονα, δίκαιον, ὅσιον, ἐγκρατῆ,
+[Antes bien, debe ser hospitalario, amante de lo bueno, prudente, justo, santo, dueño de sí mismo.]
+
+→ ἀλλὰ = antes bien
+### Tito 1:9 {#tito-1-9}
+ἀντεχόμενον τοῦ κατὰ τὴν διδαχὴν πιστοῦ λόγου, ἵνα δυνατὸς ᾖ καὶ παρακαλεῖν ἐν τῇ διδασκαλίᾳ τῇ ὑγιαινούσῃ καὶ τοὺς ἀντιλέγοντας ἐλέγχειν.
+[Debe retener la palabra fiel que es conforme a la enseñanza, para que sea capaz también de exhortar con sana doctrina y refutar a los que contradicen.]
+
+- ἀντεχόμενον (V-PMP-ASM) reteniendo [NF]
+- ᾖ (V-PAS-3S) ==sea== [F]
+- παρακαλεῖν (V-PAN) exhortar [NF]
+- ἐλέγχειν (V-PAN) refutar [NF]
+→ ἵνα = para que [i]
+→ καὶ = y
+→ καὶ = y
+### Tito 1:10 {#tito-1-10}
+Εἰσὶν γὰρ πολλοὶ ⸀καὶ ἀνυπότακτοι, ματαιολόγοι καὶ φρεναπάται, μάλιστα οἱ ἐκ ⸀τῆς περιτομῆς,
+[Porque hay muchos rebeldes, habladores vanos y engañadores, especialmente los de la circuncisión,]
+
+- Εἰσὶν (V-PAI-3P) ==hay== [F]
+→ γὰρ = porque [i]
+→ καὶ = y
+→ καὶ = y
+### Tito 1:11 {#tito-1-11}
+οὓς δεῖ ἐπιστομίζειν, οἵτινες ὅλους οἴκους ἀνατρέπουσιν διδάσκοντες ἃ μὴ δεῖ αἰσχροῦ κέρδους χάριν.
+[a quienes es preciso tapar la boca, porque están trastornando familias enteras, enseñando por ganancias deshonestas, cosas que no deben.]
+
+- δεῖ (V-PAI-3S) ==es preciso== [F]
+- ἐπιστομίζειν (V-PAN) tapar [NF]
+- ἀνατρέπουσιν (V-PAI-3P) ==trastornan== [F]
+- διδάσκοντες (V-PAP-NPM) enseñando [NF]
+→ οἵτινες = quienes [i]
+### Tito 1:12 {#tito-1-12}
+εἶπέν τις ἐξ αὐτῶν, ἴδιος αὐτῶν προφήτης, Κρῆτες ἀεὶ ψεῦσται, κακὰ θηρία, γαστέρες ἀργαί·
+[Uno de ellos, su propio profeta, dijo: «Los cretenses son siempre mentirosos, malas bestias, glotones ociosos».]
+
+- εἶπέν (V-AAI-3S) ==dijo== [F]
+### Tito 1:13 {#tito-1-13}
+ἡ μαρτυρία αὕτη ἐστὶν ἀληθής. διʼ ἣν αἰτίαν ἔλεγχε αὐτοὺς ἀποτόμως, ἵνα ὑγιαίνωσιν ἐν τῇ πίστει,
+[Este testimonio es verdadero. Por eso, repréndelos severamente para que sean sanos en la fe,]
+
+- ἐστὶν (V-PAI-3S) ==es== [F]
+- ἔλεγχε (V-PAM-2S) ==reprende== [F]
+- ὑγιαίνωσιν (V-PAS-3P) ==sean sanos== [F]
+→ ἵνα = para que [i]
+### Tito 1:14 {#tito-1-14}
+μὴ προσέχοντες Ἰουδαϊκοῖς μύθοις καὶ ἐντολαῖς ἀνθρώπων ἀποστρεφομένων τὴν ἀλήθειαν.
+[y no presten atención a mitos judaicos y a mandamientos de hombres que se apartan de la verdad.]
+
+- προσέχοντες (V-PAP-NPM) prestando atención [NF]
+- ἀποστρεφομένων (V-PMP-GPM) apartándose [NF]
+→ καὶ = y
+### Tito 1:15 {#tito-1-15}
+⸀πάντα καθαρὰ τοῖς καθαροῖς· τοῖς δὲ μεμιαμμένοις καὶ ἀπίστοις οὐδὲν καθαρόν, ἀλλὰ μεμίανται αὐτῶν καὶ ὁ νοῦς καὶ ἡ συνείδησις.
+[Todas las cosas son puras para los puros, pero para los corrompidos e incrédulos nada es puro, sino que tanto su mente como su conciencia están corrompidas.]
+
+- μεμίανται (V-RPI-3P) ==están corrompidas== [F]
+→ δὲ = pero [c]
+→ καὶ = y
+→ ἀλλὰ = sino [c]
+→ καὶ = y
+→ καὶ = y
+### Tito 1:16 {#tito-1-16}
+θεὸν ὁμολογοῦσιν εἰδέναι, τοῖς δὲ ἔργοις ἀρνοῦνται, βδελυκτοὶ ὄντες καὶ ἀπειθεῖς καὶ πρὸς πᾶν ἔργον ἀγαθὸν ἀδόκιμοι.
+[Profesan conocer a Dios, pero con sus hechos lo niegan, siendo abominables y desobedientes e inútiles para cualquier obra buena.]
+
+- ὁμολογοῦσιν (V-PAI-3P) ==profesan== [F]
+- εἰδέναι (V-PAN) conocer [NF]
+- ἀρνοῦνται (V-PMI-3P) ==niegan== [F]
+- ὄντες (V-PAP-NPM) siendo [NF]
+→ δὲ = pero [c]
+→ καὶ = y
+→ καὶ = y
