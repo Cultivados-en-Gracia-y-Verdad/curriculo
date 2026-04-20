@@ -36,7 +36,7 @@
 
 
 
-<link href="/css/custom.css?1776652583" rel="stylesheet">
+<link href="/css/custom.css?1776696856" rel="stylesheet">
 
 
 
@@ -404,9 +404,16 @@
                         
 
                         <div id="post-content">
-                          <p>file creation process:</p>
+                          <h1 id="file-creation-process">file creation process:</h1>
 <ol>
-<li>./generate.awk -v book=tito &gt; tito.md</li>
+<li>Create file from SBLGNT text:</li>
+</ol>
+<pre tabindex="0"><code> ./generate.awk -v book=tito &gt; tito.md
+</code></pre><ol start="2">
+<li>Create a new file from the newly created file in step 1 and add in NBLA Spanish text:</li>
+</ol>
+<pre tabindex="0"><code>awk -f scripts/add_nbla.awk NBLA/tito.nbla.md SBLGNT/tito.md &gt; roots-output/tito.out.md
+</code></pre><ol start="3">
 <li># edit (add verbs)</li>
 <li>gawk -f verify.awk SBLGNT/text/tito.txt tito-verbos.md</li>
 <li></li>

@@ -36,7 +36,7 @@
 
 
 
-<link href="/css/custom.css?1776652583" rel="stylesheet">
+<link href="/css/custom.css?1776696856" rel="stylesheet">
 
 
 
@@ -461,7 +461,7 @@
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>- Greek (RMAC) ==Spanish== [F]
 </span></span><span style="display:flex;"><span>- Greek (RMAC) Spanish [NF]
-</span></span><span style="display:flex;"><span>+ Greek (Spanish)
+</span></span><span style="display:flex;"><span>→ Greek = Spanish [Tag]
 </span></span></code></pre></div><hr>
 <h2 id="bullet-system-mandatory">BULLET SYSTEM (MANDATORY)</h2>
 <p>Two distinct line types must be used:</p>
@@ -540,230 +540,133 @@
 <li>Non-finite verbs NEVER use <code>== ==</code></li>
 </ul>
 <hr>
-<h1 id="rule-strict--roots">RULE (STRICT — ROOTS)</h1>
-<p>Connectors must be included ONLY when they operate at the <strong>clause level</strong>.</p>
+<h2 id="extraction-rule">EXTRACTION RULE</h2>
+<p>A connector must be extracted if it appears in the Greek text.</p>
+<ul>
+<li>Do not filter during extraction</li>
+<li>Do not evaluate function during extraction</li>
+<li>Do not exclude based on structure at this stage</li>
+</ul>
+<p>👉 If it is in the Greek → it must be listed</p>
 <hr>
-<h2 id="include-only">INCLUDE ONLY:</h2>
-<p>A connector is included if it:</p>
-<ol>
-<li>
-<p><strong>Introduces a clause</strong></p>
-<ul>
-<li>subordinating conjunctions (e.g., ἵνα, εἴ, ὅτι)</li>
-<li>relative markers when they introduce a clause (ὃς, ὃ, οἵτινες)</li>
-</ul>
-<p>OR</p>
-</li>
-<li>
-<p><strong>Connects two clauses</strong></p>
-<ul>
-<li>coordinating conjunctions ONLY when they join two clauses</li>
-<li>must be verifiable by the presence of:
-<ul>
-<li>two finite verbs
-OR</li>
-<li>two clause structures</li>
-</ul>
-</li>
-</ul>
-</li>
-</ol>
+<h1 id="connector-extraction-and-classification-locked">CONNECTOR EXTRACTION AND CLASSIFICATION (LOCKED)</h1>
+<h2 id="core-principle-1">CORE PRINCIPLE</h2>
+<p>👉 Connectors are extracted <strong>only from the Greek text (SBLGNT)</strong></p>
+<p>👉 Connectors are <strong>not inferred, supplied, or promoted from Spanish</strong></p>
 <hr>
-<h2 id="do-not-include">DO NOT INCLUDE:</h2>
-<p>A connector must be EXCLUDED if it:</p>
+<h2 id="extraction-rule-mandatory">EXTRACTION RULE (MANDATORY)</h2>
+<p>A connector must be extracted if:</p>
 <ul>
-<li>operates only inside a phrase</li>
-<li>connects words, not clauses</li>
-<li>connects items in a list</li>
-<li>modifies tone but not structure</li>
-<li>appears without linking two clause-level units</li>
+<li>it appears explicitly in the Greek text</li>
+</ul>
+<p>Do NOT:</p>
+<ul>
+<li>filter during extraction</li>
+<li>evaluate meaning</li>
+<li>infer missing connectors</li>
+<li>add connectors from NBLA</li>
+</ul>
+<p>👉 If it is in the Greek → it must be listed</p>
+<hr>
+<h2 id="connector-line-format-locked">CONNECTOR LINE FORMAT (LOCKED)</h2>
+<p>→ GreekConnector = SpanishConnector [Tag]</p>
+<hr>
+<h2 id="symbol-rules-mandatory">SYMBOL RULES (MANDATORY)</h2>
+<ul>
+<li><code>→</code> is used for <strong>all connector lines</strong></li>
+<li><code>-</code> remains reserved <strong>only for verbs</strong></li>
+<li>No mixing allowed</li>
+<li>No alternative symbols allowed</li>
 </ul>
 <hr>
-<h2 id="critical-test">CRITICAL TEST</h2>
-<p>Before including a connector, ask:</p>
-<blockquote>
-<p>Does this connector link or introduce something that contains a finite verb?</p>
-</blockquote>
+<h2 id="language-hierarchy-critical">LANGUAGE HIERARCHY (CRITICAL)</h2>
+<p>Greek → determines existence
+Spanish → reflects alignment only</p>
 <ul>
-<li>✔ YES → include</li>
-<li>❌ NO → exclude</li>
+<li>Greek controls identification</li>
+<li>Spanish NEVER creates or replaces a connector</li>
 </ul>
+<hr>
+<h2 id="classification-basis-structure-only">CLASSIFICATION BASIS (STRUCTURE ONLY)</h2>
+<p>Connectors are classified using <strong>structure only</strong>, NOT meaning</p>
+<hr>
+<h2 id="classification-tags">CLASSIFICATION TAGS</h2>
+<h3 id="i--introduces-a-clause"><code>[I]</code> — Introduces a Clause</h3>
+<p>Use <code>[I]</code> if:</p>
+<ul>
+<li>the connector precedes a clause</li>
+<li>the clause contains a <strong>finite verb</strong></li>
+</ul>
+<hr>
+<h3 id="c--connects-clauses"><code>[c]</code> — Connects Clauses</h3>
+<p>Use <code>[c]</code> if:</p>
+<ul>
+<li>the connector links two clause-level units</li>
+<li>each unit contains (or implies) a finite verb</li>
+</ul>
+<hr>
+<h3 id="no-tag--non-structural">(no tag) — Non-Structural</h3>
+<p>Leave untagged if:</p>
+<ul>
+<li>it connects words or phrases only</li>
+<li>it does not operate at clause level</li>
+<li>it does not introduce a clause with a finite verb</li>
+</ul>
+<hr>
+<h2 id="structural-test-mandatory">STRUCTURAL TEST (MANDATORY)</h2>
+<p>Before assigning <code>[I]</code> or <code>[c]</code>, ask:</p>
+<p>Does this connector introduce or connect a unit that contains a finite verb?</p>
+<ul>
+<li>✔ YES → assign <code>[I]</code> or <code>[c]</code></li>
+<li>❌ NO → leave untagged</li>
+</ul>
+<hr>
+<h2 id="positional-rule-important">POSITIONAL RULE (IMPORTANT)</h2>
+<p>Classification is based ONLY on:</p>
+<ul>
+<li>position in the Greek sentence</li>
+<li>presence of finite verbs</li>
+</ul>
+<p>Do NOT use:</p>
+<ul>
+<li>meaning (reason, contrast, result, etc.)</li>
+<li>translation nuance</li>
+<li>theological interpretation</li>
+</ul>
+<hr>
+<h2 id="nbla-alignment-rule">NBLA ALIGNMENT RULE</h2>
+<p>The Spanish connector must:</p>
+<ul>
+<li>reflect NBLA wording exactly</li>
+<li>appear in the NBLA verse line</li>
+<li>not be paraphrased</li>
+<li>not be replaced</li>
+</ul>
+<p>Format:</p>
+<p>→ γάρ = porque</p>
 <hr>
 <h2 id="examples">EXAMPLES</h2>
-<h3 id="include">INCLUDE</h3>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>ἵνα δυνατὸς ᾖ
-</span></span><span style="display:flex;"><span>→ introduces clause → include
-</span></span><span style="display:flex;"><span>ἐφανέρωσεν δὲ ... ἐπιστεύθην
-</span></span><span style="display:flex;"><span>→ connects two clauses → include
-</span></span></code></pre></div><hr>
-<h3 id="exclude">EXCLUDE</h3>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>καὶ φιλάγαθον, σώφρονα, δίκαιον
-</span></span><span style="display:flex;"><span>→ list only → EXCLUDE
-</span></span><span style="display:flex;"><span>καὶ νοῦς καὶ συνείδησις
-</span></span><span style="display:flex;"><span>→ noun coordination → EXCLUDE
-</span></span></code></pre></div><hr>
-<h2 id="format">FORMAT</h2>
-<p>Connectors must be formatted as:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>+ GreekConnector (SpanishConnector)
-</span></span></code></pre></div><hr>
-<h2 id="rules-1">RULES</h2>
-<ul>
-<li>The Greek connector must match the SBLGNT exactly</li>
-<li>The Spanish connector must reflect the NBLA wording of the verse</li>
-<li>No paraphrasing</li>
-<li>No synonyms</li>
-<li>No interpretation</li>
-</ul>
+<h3 id="structural">Structural</h3>
+<p>→ γάρ = porque [I]
+→ δέ = pero [c]</p>
 <hr>
-<h2 id="validation-test">VALIDATION TEST</h2>
-<blockquote>
-<p>Does the Spanish connector appear in the NBLA verse line?</p>
-</blockquote>
+<h3 id="non-structural">Non-Structural</h3>
+<p>→ καί = y</p>
+<hr>
+<h2 id="critical-restrictions">CRITICAL RESTRICTIONS</h2>
+<p>Do NOT:</p>
 <ul>
-<li>✔ YES → valid</li>
-<li>❌ NO → reject</li>
+<li>assign semantic labels (reason, contrast, etc.)</li>
+<li>infer clause relationships beyond structure</li>
+<li>override Greek with Spanish</li>
+<li>skip a Greek connector because it feels “weak”</li>
 </ul>
 <hr>
 <h2 id="final-principle">FINAL PRINCIPLE</h2>
-<p>👉 A connector is included ONLY if it affects <strong>clause structure</strong></p>
-<p>If it does not affect clause structure:</p>
-<p>→ it does not belong in the dataset</p>
-<hr>
-<h1 id="alignment-rule-nbla">ALIGNMENT RULE (NBLA)</h1>
-<ul>
-<li>Spanish must reflect NBLA wording</li>
-<li>No paraphrasing</li>
-<li>No synonyms</li>
-<li>No interpretation</li>
-</ul>
-<p>👉 This is <strong>alignment</strong>, not translation</p>
-<hr>
-<h1 id="verse-rules">VERSE RULES</h1>
-<h2 id="separation">Separation</h2>
-<ul>
-<li>✔ exactly ONE blank line between verses</li>
-<li>❌ no extra lines</li>
-<li>❌ no missing separation</li>
-<li>exactly ONE blank line IS allowed WITHIN a verse block</li>
-<li>There must be NO separator lines (&mdash;&ndash;)</li>
-</ul>
-<hr>
-<h2 id="empty-extraction">Empty Extraction</h2>
-<p>If no verbs or connectors qualify:</p>
-<pre tabindex="0"><code>### Verse
-Greek
-[NBLA]
-</code></pre><p>(no lines below)</p>
-<hr>
-<h1 id="output-integrity">OUTPUT INTEGRITY</h1>
-<p>Allowed lines:</p>
-<ul>
-<li>✔ verb lines (starting with -)</li>
-<li>✔ connector lines (starting with +)</li>
-</ul>
-<p>Forbidden:</p>
-<ul>
-<li>❌ comments</li>
-<li>❌ explanations</li>
-<li>❌ placeholders</li>
-<li>❌ omitted markers</li>
-<li>❌ non-verbs</li>
-</ul>
-<hr>
-<h1 id="verification-procedure">VERIFICATION PROCEDURE</h1>
-<p>Every verse must pass all steps:</p>
-<hr>
-<h2 id="step-1--greek-presence">Step 1 — Greek Presence</h2>
-<ul>
-<li>Every verb must appear in SBLGNT</li>
-<li>Must match exact surface form</li>
-</ul>
-<hr>
-<h2 id="step-2--rmac">Step 2 — RMAC</h2>
-<ul>
-<li>Must be present</li>
-<li>Must be valid</li>
-<li>Must correctly classify <code>[F]/[NF]</code></li>
-</ul>
-<hr>
-<h2 id="step-3--nbla-alignment">Step 3 — NBLA Alignment</h2>
-<ul>
-<li>Must reflect NBLA wording</li>
-<li>Must not introduce new verbs</li>
-</ul>
-<hr>
-<h2 id="step-4--connector-validation">Step 4 — Connector Validation</h2>
-<ul>
-<li>Must connect or introduce clauses</li>
-<li>Must not be phrase-level</li>
-<li>Connectors must follow &lsquo;+&rsquo; format</li>
-<li>Must NOT be validated as verbs</li>
-</ul>
-<hr>
-<h2 id="step-5--format-integrity">Step 5 — Format Integrity</h2>
-<ul>
-<li>✔ correct structure</li>
-<li>✔ correct ordering</li>
-<li>✔ no extra content</li>
-<li>✔ one blank line between verses</li>
-</ul>
-<hr>
-<h2 id="step-6--final-question">Step 6 — Final Question</h2>
-<blockquote>
-<p>Can every verb be pointed to directly in the Greek line?</p>
-</blockquote>
-<ul>
-<li>If NO → reject</li>
-<li>If YES → accept</li>
-</ul>
-<hr>
-<h1 id="hard-rejection-rules">HARD REJECTION RULES</h1>
-<p>Reject immediately if:</p>
-<ul>
-<li>verb not in SBLGNT</li>
-<li>verb altered</li>
-<li>verb inferred</li>
-<li>Spanish drives extraction</li>
-<li>connector misidentified</li>
-<li>formatting incorrect</li>
-</ul>
-<hr>
-<h1 id="functional-purpose-roots">FUNCTIONAL PURPOSE (ROOTS)</h1>
-<p>This dataset feeds:</p>
-<ul>
-<li>Paso 2 — Verbos finitos</li>
-<li>Paso 3 — Cláusulas</li>
-<li>Paso 4 — Conectores</li>
-<li>Paso 5+ — Estructura</li>
-</ul>
-<hr>
-<h2 id="key-structural-principle">KEY STRUCTURAL PRINCIPLE</h2>
-<p>👉 Finite verbs define clause structure
-👉 Connectors define clause relationships</p>
-<hr>
-<h1 id="final-checklist">FINAL CHECKLIST</h1>
-<p>Before accepting:</p>
-<ul>
-<li>✔ Greek matches SBLGNT</li>
-<li>✔ RMAC correct</li>
-<li>✔ F/NF correct</li>
-<li>✔ connectors valid</li>
-<li>✔ NBLA aligned</li>
-<li>✔ format exact</li>
-<li>✔ no extra content</li>
-<li>✔ fully traceable</li>
-</ul>
-<hr>
-<h1 id="status">STATUS</h1>
-<p>👉 This specification is <strong>LOCKED</strong></p>
-<p>👉 The dataset must be:</p>
-<ul>
-<li>reproducible</li>
-<li>verifiable</li>
-<li>text-bound</li>
-</ul>
-<hr>
-<h1 id="final-principle-1">FINAL PRINCIPLE</h1>
+<p>👉 Connectors are <strong>structural markers</strong>, not meaning carriers</p>
+<p>👉 Extraction is complete<br>
+👉 Classification is minimal and mechanical</p>
+<h1 id="connector-principle">CONNECTOR PRINCIPLE</h1>
 <p>👉 <strong>Extraction over everything</strong></p>
 <p>If you cannot point to it in the Greek text:</p>
 <p>→ it does not belong in the dataset</p>

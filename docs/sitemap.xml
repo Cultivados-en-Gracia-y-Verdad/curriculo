@@ -32,6 +32,10 @@
   </url><url>
     <loc>http://localhost:1313/roots/nbla/1corintios.nbla/</loc>
   </url><url>
+    <loc>http://localhost:1313/roots/nbla/colosenses.nbla/</loc>
+  </url><url>
+    <loc>http://localhost:1313/roots/nbla/romanos.nbla/</loc>
+  </url><url>
     <loc>http://localhost:1313/roots/nbla/tito.nbla/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/oshb/morphhb/</loc>
@@ -64,6 +68,8 @@
   </url><url>
     <loc>http://localhost:1313/roots/roots-output/colosenses-verbos/</loc>
   </url><url>
+    <loc>http://localhost:1313/roots/roots-output/colosenses.out/</loc>
+  </url><url>
     <loc>http://localhost:1313/roots/roots-output/efesios-verbos/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/roots-output/filipenses-verbos/</loc>
@@ -87,6 +93,8 @@
     <loc>http://localhost:1313/roots/roots-output/romanos-verbos/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/roots-output/tito-verbos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/roots/roots-output/tito.conectores/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/sblgnt/2corintios/</loc>
   </url><url>
@@ -151,6 +159,8 @@
     <loc>http://localhost:1313/roots/sblgnt/romanos/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/roots/roots-output/tito.out/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/sblgnt/tito/</loc>
   </url>

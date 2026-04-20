@@ -85,7 +85,7 @@ Each verse must follow this structure:
 
 - Greek (RMAC) ==Spanish== [F]
 - Greek (RMAC) Spanish [NF]
-+ Greek (Spanish)
+→ Greek = Spanish [Tag]
 
 ```
 
@@ -249,9 +249,7 @@ Do NOT:
 
 ## CONNECTOR LINE FORMAT (LOCKED)
 
-
 → GreekConnector = SpanishConnector [Tag]
-
 
 ---
 
@@ -266,10 +264,8 @@ Do NOT:
 
 ## LANGUAGE HIERARCHY (CRITICAL)
 
-
 Greek → determines existence
 Spanish → reflects alignment only
-
 
 - Greek controls identification
 - Spanish NEVER creates or replaces a connector
