@@ -9,5 +9,11 @@
 gawk -f scripts/add_nbla.awk NBLA/tito.nbla.md SBLGNT/tito.md > roots-output/tito.out.md
 ```
 3.  \# edit (add verbs)
-3. gawk -f verify.awk SBLGNT/text/tito.txt tito-verbos.md
-4. 
+4. gawk -f verify.awk SBLGNT/text/tito.txt tito-verbos.md
+5. update the index.json: Run this within curriculo to rebuild the index:
+
+````
+node build-index.js
+```
+
+   

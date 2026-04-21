@@ -1,82 +1,1377 @@
 [
   {
+    "title": "1Corintios 1:1",
+    "content": "Παῦλος κλητὸς ἀπόστολος ⸂Χριστοῦ Ἰησοῦ⸃ διὰ θελήματος θεοῦ καὶ Σωσθένης ὁ ἀδελφὸς  [Pablo, llamado a ser apóstol de Jesucristo por la voluntad de Dios, y Sóstenes, nuestro hermano,]  → καὶ = y  ------  #",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-1"
+  },
+  {
+    "title": "1Corintios 1:2",
+    "content": "τῇ ἐκκλησίᾳ τοῦ θεοῦ, ⸂ἡγιασμένοις ἐν Χριστῷ Ἰησοῦ, τῇ οὔσῃ ἐν Κορίνθῳ,⸃ κλητοῖς ἁγίοις, σὺν πᾶσιν τοῖς ἐπικαλουμένοις τὸ ὄνομα τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ ἐν παντὶ τόπῳ ⸀αὐτῶν καὶ ἡμῶν·  [a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cristo Jesús, llamados a ser santos, con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo, Señor de ellos y nuestro:]  - ἡγιασμένοις (V-RPP-DPM) santificados [NF] - οὔσῃ (V-PAP-DSF) siendo [NF] - ἐπικαλουμένοις (V-PMP-DPM) invocando [NF]  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-2"
+  },
+  {
+    "title": "1Corintios 1:3",
+    "content": "χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ.  [Gracia y paz a ustedes de parte de Dios nuestro Padre y del Señor Jesucristo.]  → καὶ = y  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-3"
+  },
+  {
+    "title": "1Corintios 1:4",
+    "content": "Εὐχαριστῶ τῷ θεῷ ⸀μου πάντοτε περὶ ὑμῶν ἐπὶ τῇ χάριτι τοῦ θεοῦ τῇ δοθείσῃ ὑμῖν ἐν Χριστῷ Ἰησοῦ,  [Siempre doy gracias a mi Dios por ustedes, por la gracia de Dios que les fue dada en Cristo Jesús.]  - Εὐχαριστῶ (V-PAI-1S) ==doy gracias== [F] - δοθείσῃ (V-APP-DSF) dada [NF]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-4"
+  },
+  {
+    "title": "1Corintios 1:5",
+    "content": "ὅτι ἐν παντὶ ἐπλουτίσθητε ἐν αὐτῷ, ἐν παντὶ λόγῳ καὶ πάσῃ γνώσει,  [Porque en todo ustedes fueron enriquecidos en Él, en toda palabra y en todo conocimiento,]  - ἐπλουτίσθητε (V-API-2P) ==fueron enriquecidos== [F]  → ὅτι = Porque [i]  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-5"
+  },
+  {
+    "title": "1Corintios 1:6",
+    "content": "καθὼς τὸ μαρτύριον τοῦ Χριστοῦ ἐβεβαιώθη ἐν ὑμῖν,  [así como el testimonio acerca de Cristo fue confirmado en ustedes;]  - ἐβεβαιώθη (V-API-3S) ==fue confirmado== [F]  → καθὼς = así como [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-6"
+  },
+  {
+    "title": "1Corintios 1:7",
+    "content": "ὥστε ὑμᾶς μὴ ὑστερεῖσθαι ἐν μηδενὶ χαρίσματι, ἀπεκδεχομένους τὴν ἀποκάλυψιν τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ·  [de manera que nada les falta en ningún don, esperando ansiosamente la revelación de nuestro Señor Jesucristo.]  - ὑστερεῖσθαι (V-PMN) faltar [NF] - ἀπεκδεχομένους (V-PMP-APM) esperando [NF]  → ὥστε = de manera que  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-7"
+  },
+  {
+    "title": "1Corintios 1:8",
+    "content": "ὃς καὶ βεβαιώσει ὑμᾶς ἕως τέλους ἀνεγκλήτους ἐν τῇ ἡμέρᾳ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ.  [Él también los confirmará hasta el fin, para que sean irreprensibles en el día de nuestro Señor Jesucristo.]  - βεβαιώσει (V-FAI-3S) ==confirmará== [F]  → καὶ = también  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-8"
+  },
+  {
+    "title": "1Corintios 1:9",
+    "content": "πιστὸς ὁ θεὸς διʼ οὗ ἐκλήθητε εἰς κοινωνίαν τοῦ υἱοῦ αὐτοῦ Ἰησοῦ Χριστοῦ τοῦ κυρίου ἡμῶν.  [Fiel es Dios, por medio de quien fueron llamados a la comunión con Su Hijo Jesucristo, nuestro Señor.]  - ἐκλήθητε (V-API-2P) ==fueron llamados== [F]  → διʼ = por medio de  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-9"
+  },
+  {
+    "title": "1Corintios 1:10",
+    "content": "Παρακαλῶ δὲ ὑμᾶς...  [Les ruego, hermanos...]  - Παρακαλῶ (V-PAI-1S) ==ruego== [F] - λέγητε (V-PAS-2P) ==digan== [F] - ᾖ (V-PAS-3S) ==haya== [F] - ἦτε (V-PAS-2P) ==estén== [F]  → δὲ = pero [c]  → ἵνα = que [i]  → καὶ = y [c]  → δὲ = sino [c]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-10"
+  },
+  {
+    "title": "1Corintios 1:11",
+    "content": "- ἐδηλώθη (V-API-3S) ==he sido informado== [F] - εἰσιν (V-PAI-3P) ==hay== [F]  → γάρ = porque [i]  → ὅτι = que [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-11"
+  },
+  {
+    "title": "1Corintios 1:12",
+    "content": "- λέγω (V-PAI-1S) ==digo== [F] - λέγει (V-PAI-3S) ==dice== [F] - εἰμι (V-PAI-1S) ==soy== [F]  → δὲ = pero [c]  → ὅτι = que [i]  → μέν = —  → δὲ = y [c]  → δὲ = y [c]  → δὲ = y [c]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-12"
+  },
+  {
+    "title": "1Corintios 1:13",
+    "content": "- μεμέρισται (V-RPI-3S) ==está dividido== [F] - ἐσταυρώθη (V-API-3S) ==fue crucificado== [F] - ἐβαπτίσθητε (V-API-2P) ==fueron bautizados== [F]  → μὴ = acaso  → ἢ = o",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-13"
+  },
+  {
+    "title": "1Corintios 1:14",
+    "content": "⸀εὐχαριστῶ ὅτι οὐδένα ὑμῶν ἐβάπτισα εἰ μὴ Κρίσπον καὶ Γάϊον,  [Doy gracias a Dios que no bauticé a ninguno de ustedes, excepto a Crispo y a Gayo,]  - εὐχαριστῶ (V-PAI-1S) ==doy gracias== [F] - ἐβάπτισα (V-AAI-1S) ==bauticé== [F]  → ὅτι = que [i]  → εἰ = si [i]  → μὴ = no  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-14"
+  },
+  {
+    "title": "1Corintios 1:15",
+    "content": "ἵνα μή τις εἴπῃ ὅτι εἰς τὸ ἐμὸν ὄνομα ⸀ἐβαπτίσθητε·  [para que nadie diga que fueron bautizados en mi nombre.]  - εἴπῃ (V-AAS-3S) ==diga== [F] - ἐβαπτίσθητε (V-API-2P) ==fueron bautizados== [F]  → ἵνα = para que [i]  → μή = no  → ὅτι = que [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-15"
+  },
+  {
+    "title": "1Corintios 1:16",
+    "content": "ἐβάπτισα δὲ καὶ τὸν Στεφανᾶ οἶκον· λοιπὸν οὐκ οἶδα εἴ τινα ἄλλον ἐβάπτισα.  [También bauticé a los de la casa de Estéfanas; por lo demás, no sé si bauticé a algún otro.]  - ἐβάπτισα (V-AAI-1S) ==bauticé== [F] - οἶδα (V-RAI-1S) ==sé== [F] - ἐβάπτισα (V-AAI-1S) ==bauticé== [F]  → δὲ = y [c]  → καὶ = también  → οὐκ = no  → εἴ = si [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-16"
+  },
+  {
+    "title": "1Corintios 1:17",
+    "content": "οὐ γὰρ ἀπέστειλέν με Χριστὸς βαπτίζειν ἀλλὰ εὐαγγελίζεσθαι, οὐκ ἐν σοφίᾳ λόγου, ἵνα μὴ κενωθῇ ὁ σταυρὸς τοῦ Χριστοῦ.  [Pues Cristo no me envió a bautizar, sino a predicar el evangelio, no con palabras elocuentes, para que no se haga vana la cruz de Cristo.]  - ἀπέστειλέν (V-AAI-3S) ==envió== [F] - βαπτίζειν (V-PAN) bautizar [NF] - εὐαγγελίζεσθαι (V-PMN) predicar [NF] - κενωθῇ (V-APS-3S) ==se haga vana== [F]  → οὐ = no  → γὰρ = pues [i]  → ἀλλὰ = sino [c]  → οὐκ = no  → ἵνα = para que [i]  → μὴ = no  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-17"
+  },
+  {
+    "title": "1Corintios 1:18",
+    "content": "Ὁ λόγος γὰρ ὁ τοῦ σταυροῦ τοῖς μὲν ἀπολλυμένοις μωρία ἐστίν, τοῖς δὲ σῳζομένοις ἡμῖν δύναμις θεοῦ ἐστιν.  [Porque la palabra de la cruz es necedad para los que se pierden, pero para nosotros los salvos es poder de Dios.]  - ἀπολλυμένοις (V-PMP-DPM) perdiéndose [NF] - ἐστίν (V-PAI-3S) ==es== [F] - σῳζομένοις (V-PPP-DPM) siendo salvados [NF] - ἐστιν (V-PAI-3S) ==es== [F]  → γὰρ = porque [i]  → μὲν = —  → δὲ = pero [c]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-18"
+  },
+  {
+    "title": "1Corintios 1:19",
+    "content": "γέγραπται γάρ· Ἀπολῶ τὴν σοφίαν τῶν σοφῶν, καὶ τὴν σύνεσιν τῶν συνετῶν ἀθετήσω.  [Porque está escrito: «DESTRUIRÉ LA SABIDURÍA DE LOS SABIOS, Y EL ENTENDIMIENTO DE LOS INTELIGENTES DESECHARÉ».]  - γέγραπται (V-RPI-3S) ==está escrito== [F] - ἀπολῶ (V-FAI-1S) ==destruiré== [F] - ἀθετήσω (V-FAI-1S) ==desecharé== [F]  → γάρ = porque [i]  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-19"
+  },
+  {
+    "title": "1Corintios 1:20",
+    "content": "ποῦ σοφός; ποῦ γραμματεύς; ποῦ συζητητὴς τοῦ αἰῶνος τούτου; οὐχὶ ἐμώρανεν ὁ θεὸς τὴν σοφίαν τοῦ ⸀κόσμου;  [¿Dónde está el sabio? ¿Dónde está el escriba? ¿Dónde está el que sabe discutir en este siglo? ¿No ha hecho Dios que la sabiduría de este mundo sea necedad?]  - ἐμώρανεν (V-AAI-3S) ==ha hecho necedad== [F]  → οὐχὶ = no  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-20"
+  },
+  {
+    "title": "1Corintios 1:21",
+    "content": "ἐπειδὴ γὰρ ἐν τῇ σοφίᾳ τοῦ θεοῦ οὐκ ἔγνω ὁ κόσμος διὰ τῆς σοφίας τὸν θεόν, εὐδόκησεν ὁ θεὸς διὰ τῆς μωρίας τοῦ κηρύγματος σῶσαι τοὺς πιστεύοντας.  [Pues ya que en la sabiduría de Dios, el mundo no conoció a Dios por medio de su propia sabiduría, agradó a Dios mediante la necedad de la predicación salvar a los que creen.]  - ἔγνω (V-AAI-3S) ==conoció== [F] - εὐδόκησεν (V-AAI-3S) ==agradó== [F] - σῶσαι (V-AAN) salvar [NF] - πιστεύοντας (V-PAP-APM) creyendo [NF]  → ἐπειδὴ = ya que [i]  → γὰρ = pues [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-21"
+  },
+  {
+    "title": "1Corintios 1:22",
+    "content": "ἐπειδὴ καὶ Ἰουδαῖοι ⸀σημεῖα αἰτοῦσιν καὶ Ἕλληνες σοφίαν ζητοῦσιν·  [Porque en verdad los judíos piden señales y los griegos buscan sabiduría;]  - αἰτοῦσιν (V-PAI-3P) ==piden== [F] - ζητοῦσιν (V-PAI-3P) ==buscan== [F]  → ἐπειδὴ = porque [i]  → καὶ = y  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-22"
+  },
+  {
+    "title": "1Corintios 1:23",
+    "content": "ἡμεῖς δὲ κηρύσσομεν Χριστὸν ἐσταυρωμένον, Ἰουδαίοις μὲν σκάνδαλον ⸀ἔθνεσιν δὲ μωρίαν,  [pero nosotros predicamos a Cristo crucificado, piedra de tropiezo para los judíos, y necedad para los gentiles.]  - κηρύσσομεν (V-PAI-1P) ==predicamos== [F] - ἐσταυρωμένον (V-RPP-ASM) crucificado [NF]  → δὲ = pero [c]  → μὲν = —  → δὲ = y [c]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-23"
+  },
+  {
+    "title": "1Corintios 1:24",
+    "content": "αὐτοῖς δὲ τοῖς κλητοῖς, Ἰουδαίοις τε καὶ Ἕλλησιν, Χριστὸν θεοῦ δύναμιν καὶ θεοῦ σοφίαν.  [Sin embargo, para los llamados, tanto judíos como griegos, Cristo es poder de Dios y sabiduría de Dios.]  → δὲ = pero [c]  → τε = y  → καὶ = y  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-24"
+  },
+  {
+    "title": "1Corintios 1:25",
+    "content": "ὅτι τὸ μωρὸν τοῦ θεοῦ σοφώτερον τῶν ἀνθρώπων ἐστίν, καὶ τὸ ἀσθενὲς τοῦ θεοῦ ἰσχυρότερον τῶν ⸀ἀνθρώπων.  [Porque la necedad de Dios es más sabia que los hombres, y la debilidad de Dios es más fuerte que los hombres.]  - ἐστίν (V-PAI-3S) ==es== [F]  → ὅτι = porque [i]  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-25"
+  },
+  {
+    "title": "1Corintios 1:26",
+    "content": "Βλέπετε γὰρ τὴν κλῆσιν ὑμῶν, ἀδελφοί, ὅτι οὐ πολλοὶ σοφοὶ κατὰ σάρκα, οὐ πολλοὶ δυνατοί, οὐ πολλοὶ εὐγενεῖς·  [Pues consideren, hermanos, su llamamiento...]  - Βλέπετε (V-PAM-2P) ==consideren== [F]  → γὰρ = pues [i]  → ὅτι = que [i]  → οὐ = no  → οὐ = no  → οὐ = no  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-26"
+  },
+  {
+    "title": "1Corintios 1:27",
+    "content": "- ἐξελέξατο (V-AMI-3S) ==escogió== [F] - καταισχύνῃ (V-AAS-3S) ==avergüence== [F] - ἐξελέξατο (V-AMI-3S) ==escogió== [F] - καταισχύνῃ (V-AAS-3S) ==avergüence== [F]  → ἀλλὰ = sino [c]  → ἵνα = para que [i]  → καὶ = y [c]  → ἵνα = para que [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-27"
+  },
+  {
+    "title": "1Corintios 1:28",
+    "content": "- ἐξελέξατο (V-AMI-3S) ==escogió== [F] - καταργήσῃ (V-AAS-3S) ==anule== [F]  → καὶ = y  → καὶ = y  → ἵνα = para que [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-28"
+  },
+  {
+    "title": "1Corintios 1:29",
+    "content": "- καυχήσηται (V-AMS-3S) ==se jacte== [F]  → ὅπως = para que [i]  → μὴ = no  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-29"
+  },
+  {
+    "title": "1Corintios 1:30",
+    "content": "- ἐστε (V-PAI-2P) ==están== [F] - ἐγενήθη (V-ADI-3S) ==se hizo== [F]  → δὲ = pero [c]  → τε = y  → καὶ = y  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-30"
+  },
+  {
+    "title": "1Corintios 1:31",
+    "content": "- γέγραπται (V-RPI-3S) ==está escrito== [F] - καυχάσθω (V-PMM-3S) ==gloríese== [F] - καυχώμενος (V-PMP-NSM) gloriándose [NF]  → ἵνα = para que [i]  → καθὼς = tal como [i]",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-1-31"
+  },
+  {
+    "title": "1Corintios 2:1",
+    "content": "Κἀγὼ ἐλθὼν πρὸς ὑμᾶς, ἀδελφοί, ἦλθον οὐ καθʼ ὑπεροχὴν λόγου ἢ σοφίας καταγγέλλων ὑμῖν τὸ ⸀μαρτύριον τοῦ θεοῦ.  [Por eso, cuando fui a ustedes, hermanos, proclamándoles el testimonio de Dios, no fui con superioridad de palabra o de sabiduría.]  - ἐλθὼν (V-AAP-NSM) habiendo ido [NF] - ἦλθον (V-AAI-1S) ==fui== [F] - καταγγέλλων (V-PAP-NSM) proclamando [NF]  → καὶ = y  → οὐ = no  → ἢ = o  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-2-1"
+  },
+  {
+    "title": "1Corintios 2:2",
+    "content": "οὐ γὰρ ἔκρινά ⸂τι εἰδέναι⸃ ἐν ὑμῖν εἰ μὴ Ἰησοῦν Χριστὸν καὶ τοῦτον ἐσταυρωμένον·  [Porque nada me propuse saber entre ustedes excepto a Jesucristo, y Este crucificado.]  - ἔκρινά (V-AAI-1S) ==me propuse== [F] - εἰδέναι (V-RAN) saber [NF] - ἐσταυρωμένον (V-RPP-ASM) crucificado [NF]  → οὐ = no  → γὰρ = porque [i]  → εἰ = si [i]  → μὴ = no  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-2-2"
+  },
+  {
+    "title": "1Corintios 2:3",
+    "content": "κἀγὼ ἐν ἀσθενείᾳ καὶ ἐν φόβῳ καὶ ἐν τρόμῳ πολλῷ ἐγενόμην πρὸς ὑμᾶς,  [Estuve entre ustedes con debilidad y con temor y mucho temblor,]  - ἐγενόμην (V-ADI-1S) ==estuve== [F]  → καὶ = y  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-2-3"
+  },
+  {
+    "title": "1Corintios 2:4",
+    "content": "καὶ ὁ λόγος μου καὶ τὸ κήρυγμά μου οὐκ ἐν ⸂πειθοῖ σοφίας⸃ ἀλλʼ ἐν ἀποδείξει πνεύματος καὶ δυνάμεως,  [y mi mensaje y mi predicación no fueron con palabras persuasivas de sabiduría, sino con demostración del Espíritu y de poder,]  → καὶ = y  → καὶ = y  → οὐκ = no  → ἀλλʼ = sino [c]  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-2-4"
+  },
+  {
+    "title": "1Corintios 2:5",
+    "content": "ἵνα ἡ πίστις ὑμῶν μὴ ᾖ ἐν σοφίᾳ ἀνθρώπων ἀλλʼ ἐν δυνάμει θεοῦ.  [para que la fe de ustedes no descanse en la sabiduría de los hombres, sino en el poder de Dios.]  - ᾖ (V-PAS-3S) ==sea== [F]  → ἵνα = para que [i]  → μὴ = no  → ἀλλʼ = sino [c]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-2-5"
+  },
+  {
+    "title": "1Corintios 2:6",
+    "content": "Σοφίαν δὲ λαλοῦμεν ἐν τοῖς τελείοις, σοφίαν δὲ οὐ τοῦ αἰῶνος τούτου οὐδὲ τῶν ἀρχόντων τοῦ αἰῶνος τούτου τῶν καταργουμένων·  [Sin embargo, hablamos sabiduría entre los que han alcanzado madurez...]  - λαλοῦμεν (V-PAI-1P) ==hablamos== [F] - καταργουμένων (V-PPP-GPM) siendo anulados [NF]  → δὲ = pero [c]  → δὲ = pero [c]  → οὐ = no  → οὐδὲ = ni  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-2-6"
+  },
+  {
+    "title": "1Corintios 2:7",
+    "content": "ἀλλὰ λαλοῦμεν ⸂θεοῦ σοφίαν⸃ ἐν μυστηρίῳ, τὴν ἀποκεκρυμμένην, ἣν προώρισεν ὁ θεὸς πρὸ τῶν αἰώνων εἰς δόξαν ἡμῶν·  [sino que hablamos sabiduría de Dios en misterio...]  - λαλοῦμεν (V-PAI-1P) ==hablamos== [F] - ἀποκεκρυμμένην (V-RPP-ASF) oculta [NF] - προώρισεν (V-AAI-3S) ==predestinó== [F]  → ἀλλὰ = sino [c]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-2-7"
+  },
+  {
+    "title": "1Corintios 2:8",
+    "content": "ἣν οὐδεὶς τῶν ἀρχόντων τοῦ αἰῶνος τούτου ἔγνωκεν, εἰ γὰρ ἔγνωσαν, οὐκ ἂν τὸν κύριον τῆς δόξης ἐσταύρωσαν·  [Esta sabiduría que ninguno...]  - ἔγνωκεν (V-RAI-3S) ==ha entendido== [F] - ἔγνωσαν (V-AAI-3P) ==entendieron== [F] - ἐσταύρωσαν (V-AAI-3P) ==crucificaron== [F]  → εἰ = si [i]  → γὰρ = porque [i]  → οὐκ = no  → ἂν = —  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-2-8"
+  },
+  {
+    "title": "1Corintios 2:9",
+    "content": "- γέγραπται (V-RPI-3S) ==está escrito== [F] - εἶδεν (V-AAI-3S) ==vio== [F] - ἤκουσεν (V-AAI-3S) ==oyó== [F] - ἀνέβη (V-AAI-3S) ==entró== [F] - ἡτοίμασεν (V-AAI-3S) ==ha preparado== [F] - ἀγαπῶσιν (V-PAP-DPM) amando [NF]  → ἀλλὰ = sino [c]  → καθὼς = como [i]  → καὶ = y  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-2-9"
+  },
+  {
+    "title": "1Corintios 2:10",
+    "content": "- ἀπεκάλυψεν (V-AAI-3S) ==reveló== [F] - ἐραυνᾷ (V-PAI-3S) ==escudriña== [F]  → γὰρ = porque [i]  → γὰρ = porque [i]  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-2-10"
+  },
+  {
+    "title": "1Corintios 2:11",
+    "content": "- οἶδεν (V-RAI-3S) ==conoce== [F] - ἔγνωκεν (V-RAI-3S) ==conoce== [F]  → γὰρ = porque [i]  → εἰ = si [i]  → μὴ = no  → οὕτως = así  → καὶ = también  → εἰ = si [i]  → μὴ = no  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-2-11"
+  },
+  {
+    "title": "1Corintios 2:12",
+    "content": "- ἐλάβομεν (V-AAI-1P) ==hemos recibido== [F] - εἰδῶμεν (V-RAS-1P) ==conozcamos== [F] - χαρισθέντα (V-APP-APN) dado [NF]  → δὲ = pero [c]  → οὐ = no  → ἀλλὰ = sino [c]  → ἵνα = para que [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-2-12"
+  },
+  {
+    "title": "1Corintios 2:13",
+    "content": "- λαλοῦμεν (V-PAI-1P) ==hablamos== [F] - συγκρίνοντες (V-PAP-NPM) combinando [NF]  → καὶ = también  → οὐκ = no  → ἀλλʼ = sino [c]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-2-13"
+  },
+  {
+    "title": "1Corintios 2:14",
+    "content": "- δέχεται (V-PMI-3S) ==acepta== [F] - ἐστίν (V-PAI-3S) ==es== [F] - δύναται (V-PNI-3S) ==puede== [F] - γνῶναι (V-AAN) conocer [NF] - ἀνακρίνεται (V-PPI-3S) ==se discierne== [F]  → δὲ = pero [c]  → οὐ = no  → γὰρ = porque [i]  → καὶ = y  → οὐ = no  → ὅτι = porque [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-2-14"
+  },
+  {
+    "title": "1Corintios 2:15",
+    "content": "- ἀνακρίνει (V-PAI-3S) ==juzga== [F] - ἀνακρίνεται (V-PPI-3S) ==es juzgado== [F]  → δὲ = pero [c]  → δὲ = pero [c]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-2-15"
+  },
+  {
+    "title": "1Corintios 2:16",
+    "content": "- ἔγνω (V-AAI-3S) ==ha conocido== [F] - συμβιβάσει (V-FAI-3S) ==instruirá== [F] - ἔχομεν (V-PAI-1P) ==tenemos== [F]  → γὰρ = porque [i]  → ὃς = quien [i]  → δὲ = pero [c]",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-2-16"
+  },
+  {
+    "title": "1Corintios 3:1",
+    "content": "Κἀγώ, ἀδελφοί, οὐκ ἠδυνήθην ⸂λαλῆσαι ὑμῖν⸃ ὡς πνευματικοῖς ἀλλʼ ὡς ⸀σαρκίνοις, ὡς νηπίοις ἐν Χριστῷ.  [Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo.]  - ἠδυνήθην (V-ADI-1S) ==pude== [F] - λαλῆσαι (V-AAN) hablar [NF]  → οὐκ = no  → ἀλλʼ = sino [c]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-3-1"
+  },
+  {
+    "title": "1Corintios 3:2",
+    "content": "γάλα ὑμᾶς ἐπότισα, ⸀οὐ βρῶμα, οὔπω γὰρ ἐδύνασθε. ἀλλʼ ⸀οὐδὲ ἔτι νῦν δύνασθε,  [Les di a beber leche...]  - ἐπότισα (V-AAI-1S) ==di a beber== [F] - ἐδύνασθε (V-INI-2P) ==podían== [F] - δύνασθε (V-PNI-2P) ==pueden== [F]  → οὐ = no  → οὔπω = todavía no  → γὰρ = porque [i]  → ἀλλʼ = sino [c]  → οὐδὲ = ni  → ἔτι = aún  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-3-2"
+  },
+  {
+    "title": "1Corintios 3:3",
+    "content": "ἔτι γὰρ σαρκικοί ἐστε. ὅπου γὰρ ἐν ὑμῖν ζῆλος καὶ ⸀ἔρις, οὐχὶ σαρκικοί ἐστε καὶ κατὰ ἄνθρωπον περιπατεῖτε;  [porque todavía son carnales...]  - ἐστε (V-PAI-2P) ==son== [F] - ἐστε (V-PAI-2P) ==son== [F] - περιπατεῖτε (V-PAI-2P) ==andan== [F]  → ἔτι = todavía  → γὰρ = porque [i]  → ὅπου = donde [i]  → γὰρ = porque [i]  → καὶ = y  → οὐχὶ = no  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-3-3"
+  },
+  {
+    "title": "1Corintios 3:4",
+    "content": "ὅταν γὰρ λέγῃ τις· Ἐγὼ μέν εἰμι Παύλου, ἕτερος δέ· Ἐγὼ Ἀπολλῶ, ⸂οὐκ ἄνθρωποί⸃ ἐστε;  [Porque cuando uno dice...]  - λέγῃ (V-PAS-3S) ==dice== [F] - εἰμι (V-PAI-1S) ==soy== [F] - ἐστε (V-PAI-2P) ==son== [F]  → ὅταν = cuando [i]  → γὰρ = porque [i]  → μέν = —  → δέ = y [c]  → οὐκ = no  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-3-4"
+  },
+  {
+    "title": "1Corintios 3:5",
+    "content": "⸀Τί οὖν ἐστιν ⸂Ἀπολλῶς; τί δέ ἐστιν Παῦλος⸃; ⸀διάκονοι διʼ ὧν ἐπιστεύσατε, καὶ ἑκάστῳ ὡς ὁ κύριος ἔδωκεν.  [¿Qué es, pues, Apolos?...]  - ἐστιν (V-PAI-3S) ==es== [F] - ἐστιν (V-PAI-3S) ==es== [F] - ἐπιστεύσατε (V-AAI-2P) ==creyeron== [F] - ἔδωκεν (V-AAI-3S) ==dio== [F]  → οὖν = pues [c]  → δέ = y [c]  → διʼ = por medio de  → καὶ = y  → ὡς = como [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-3-5"
+  },
+  {
+    "title": "1Corintios 3:6",
+    "content": "ἐγὼ ἐφύτευσα, Ἀπολλῶς ἐπότισεν, ἀλλὰ ὁ θεὸς ηὔξανεν·  [Yo planté...]  - ἐφύτευσα (V-AAI-1S) ==planté== [F] - ἐπότισεν (V-AAI-3S) ==regó== [F] - ηὔξανεν (V-IAI-3S) ==daba crecimiento== [F]  → ἀλλὰ = pero [c]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-3-6"
+  },
+  {
+    "title": "1Corintios 3:7",
+    "content": "ὥστε οὔτε ὁ φυτεύων ἐστίν τι οὔτε ὁ ποτίζων, ἀλλʼ ὁ αὐξάνων θεός.  [Así que...]  - ἐστίν (V-PAI-3S) ==es== [F] - φυτεύων (V-PAP-NSM) plantando [NF] - ποτίζων (V-PAP-NSM) regando [NF] - αὐξάνων (V-PAP-NSM) dando crecimiento [NF]  → ὥστε = así que [i]  → οὔτε = ni  → οὔτε = ni  → ἀλλʼ = sino [c]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-3-7"
+  },
+  {
+    "title": "1Corintios 3:8",
+    "content": "- εἰσιν (V-PAI-3P) ==son== [F] - λήμψεται (V-FMI-3S) ==recibirá== [F] - φυτεύων (V-PAP-NSM) plantando [NF] - ποτίζων (V-PAP-NSM) regando [NF]  → δὲ = pero [c]  → καὶ = y  → δὲ = pero [c]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-3-8"
+  },
+  {
+    "title": "1Corintios 3:9",
+    "content": "- ἐσμεν (V-PAI-1P) ==somos== [F] - ἐστε (V-PAI-2P) ==son== [F]  → γάρ = porque [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-3-9"
+  },
+  {
+    "title": "1Corintios 3:10",
+    "content": "- δοθεῖσάν (V-APP-ASF) dada [NF] - ἔθηκα (V-AAI-1S) ==puse== [F] - ἐποικοδομεῖ (V-PAI-3S) ==edifica== [F] - βλεπέτω (V-PAM-3S) ==tenga cuidado== [F] - ἐποικοδομεῖ (V-PAI-3S) ==edifica== [F]  → ὡς = como [i]  → δὲ = pero [c]  → δὲ = pero [c]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-3-10"
+  },
+  {
+    "title": "1Corintios 3:11",
+    "content": "- δύναται (V-PNI-3S) ==puede== [F] - θεῖναι (V-AAN) poner [NF] - κείμενον (V-PMP-ASM) puesto [NF] - ἐστιν (V-PAI-3S) ==es== [F]  → γὰρ = porque [i]  → ὅς = el cual [i]",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-3-11"
+  },
+  {
+    "title": "1Corintios 3:12",
+    "content": "εἰ δέ τις ἐποικοδομεῖ ἐπὶ τὸν ⸀θεμέλιον ⸂χρυσόν, ἄργυρον⸃, λίθους τιμίους, ξύλα, χόρτον, καλάμην,  [Ahora bien, si sobre este fundamento alguien edifica...]  - ἐποικοδομεῖ (V-PAI-3S) ==edifica== [F]  → εἰ = si [i]  → δέ = pero [c]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-3-12"
+  },
+  {
+    "title": "1Corintios 3:13",
+    "content": "ἑκάστου τὸ ἔργον φανερὸν γενήσεται, ἡ γὰρ ἡμέρα δηλώσει· ὅτι ἐν πυρὶ ἀποκαλύπτεται, καὶ ἑκάστου τὸ ἔργον ὁποῖόν ἐστιν τὸ πῦρ ⸀αὐτὸ δοκιμάσει.  [la obra de cada uno se hará evidente...]  - γενήσεται (V-FMI-3S) ==se hará== [F] - δηλώσει (V-FAI-3S) ==dará a conocer== [F] - ἀποκαλύπτεται (V-PPI-3S) ==es revelada== [F] - ἐστιν (V-PAI-3S) ==es== [F] - δοκιμάσει (V-FAI-3S) ==probará== [F]  → γὰρ = porque [i]  → ὅτι = que [i]  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-3-13"
+  },
+  {
+    "title": "1Corintios 3:14",
+    "content": "εἴ τινος τὸ ἔργον μενεῖ ὃ ἐποικοδόμησεν, μισθὸν λήμψεται·  [Si permanece la obra...]  - μενεῖ (V-FAI-3S) ==permanece== [F] - ἐποικοδόμησεν (V-AAI-3S) ==edificó== [F] - λήμψεται (V-FMI-3S) ==recibirá== [F]  → εἴ = si [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-3-14"
+  },
+  {
+    "title": "1Corintios 3:15",
+    "content": "εἴ τινος τὸ ἔργον κατακαήσεται, ζημιωθήσεται, αὐτὸς δὲ σωθήσεται, οὕτως δὲ ὡς διὰ πυρός.  [Si la obra de alguien es consumida...]  - κατακαήσεται (V-FPI-3S) ==será consumida== [F] - ζημιωθήσεται (V-FPI-3S) ==sufrirá pérdida== [F] - σωθήσεται (V-FPI-3S) ==será salvo== [F]  → εἴ = si [i]  → δὲ = pero [c]  → δὲ = pero [c]  → ὡς = como [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-3-15"
+  },
+  {
+    "title": "1Corintios 3:16",
+    "content": "Οὐκ οἴδατε ὅτι ναὸς θεοῦ ἐστε καὶ τὸ πνεῦμα τοῦ θεοῦ ⸂οἰκεῖ ἐν ὑμῖν⸃;  [¿No saben que ustedes son templo...]  - οἴδατε (V-RAI-2P) ==saben== [F] - ἐστε (V-PAI-2P) ==son== [F] - οἰκεῖ (V-PAI-3S) ==habita== [F]  → οὐκ = no  → ὅτι = que [i]  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-3-16"
+  },
+  {
+    "title": "1Corintios 3:17",
+    "content": "εἴ τις τὸν ναὸν τοῦ θεοῦ φθείρει, φθερεῖ τοῦτον ὁ θεός· ὁ γὰρ ναὸς τοῦ θεοῦ ἅγιός ἐστιν, οἵτινές ἐστε ὑμεῖς.  [Si alguno destruye...]  - φθείρει (V-PAI-3S) ==destruye== [F] - φθερεῖ (V-FAI-3S) ==destruirá== [F] - ἐστιν (V-PAI-3S) ==es== [F] - ἐστε (V-PAI-2P) ==son== [F]  → εἴ = si [i]  → γὰρ = porque [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-3-17"
+  },
+  {
+    "title": "1Corintios 3:18",
+    "content": "Μηδεὶς ἑαυτὸν ἐξαπατάτω· εἴ τις δοκεῖ σοφὸς εἶναι ἐν ὑμῖν ἐν τῷ αἰῶνι τούτῳ, μωρὸς γενέσθω, ἵνα γένηται σοφός,  [Nadie se engañe...]  - ἐξαπατάτω (V-PAM-3S) ==se engañe== [F] - δοκεῖ (V-PAI-3S) ==se cree== [F] - εἶναι (V-PAN) ser [NF] - γενέσθω (V-ADM-3S) ==hágase== [F] - γένηται (V-ADS-3S) ==llegue a ser== [F]  → εἴ = si [i]  → ἵνα = para que [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-3-18"
+  },
+  {
+    "title": "1Corintios 3:19",
+    "content": "ἡ γὰρ σοφία τοῦ κόσμου τούτου μωρία παρὰ τῷ θεῷ ἐστιν· γέγραπται γάρ· Ὁ δρασσόμενος τοὺς σοφοὺς ἐν τῇ πανουργίᾳ αὐτῶν·  [Porque la sabiduría...]  - ἐστιν (V-PAI-3S) ==es== [F] - γέγραπται (V-RPI-3S) ==está escrito== [F] - δρασσόμενος (V-PMP-NSM) prendiendo [NF]  → γὰρ = porque [i]  → γὰρ = porque [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-3-19"
+  },
+  {
+    "title": "1Corintios 3:20",
+    "content": "καὶ πάλιν· Κύριος γινώσκει τοὺς διαλογισμοὺς τῶν σοφῶν ὅτι εἰσὶν μάταιοι.  [Y también...]  - γινώσκει (V-PAI-3S) ==conoce== [F] - εἰσὶν (V-PAI-3P) ==son== [F]  → καὶ = y  → ὅτι = que [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-3-20"
+  },
+  {
+    "title": "1Corintios 3:21",
+    "content": "ὥστε μηδεὶς καυχάσθω ἐν ἀνθρώποις· πάντα γὰρ ὑμῶν ἐστιν,  [Así que nadie se jacte...]  - καυχάσθω (V-PMM-3S) ==se jacte== [F] - ἐστιν (V-PAI-3S) ==es== [F]  → ὥστε = así que [i]  → γὰρ = porque [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-3-21"
+  },
+  {
+    "title": "1Corintios 3:22",
+    "content": "εἴτε Παῦλος εἴτε Ἀπολλῶς εἴτε Κηφᾶς εἴτε κόσμος εἴτε ζωὴ εἴτε θάνατος εἴτε ἐνεστῶτα εἴτε μέλλοντα, πάντα ⸀ὑμῶν,  [ya sea Pablo...]  - ἐνεστῶτα (V-PAP-APN) presentes [NF] - μέλλοντα (V-PAP-APN) futuros [NF]  → εἴτε = ya sea  → εἴτε = ya sea  → εἴτε = ya sea  → εἴτε = ya sea  → εἴτε = ya sea  → εἴτε = ya sea  → εἴτε = ya sea  → εἴτε = ya sea  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-3-22"
+  },
+  {
+    "title": "1Corintios 3:23",
+    "content": "ὑμεῖς δὲ Χριστοῦ, Χριστὸς δὲ θεοῦ.  [y ustedes de Cristo...]  → δὲ = pero [c]  → δὲ = pero [c]",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-3-23"
+  },
+  {
+    "title": "1Corintios 4:1",
+    "content": "Οὕτως ἡμᾶς λογιζέσθω ἄνθρωπος ὡς ὑπηρέτας Χριστοῦ καὶ οἰκονόμους μυστηρίων θεοῦ.  [Que todo hombre nos considere de esta manera: como servidores de Cristo y administradores de los misterios de Dios.]  - λογιζέσθω (V-PMM-3S) ==considere== [F]  → Οὕτως = así  → ὡς = como [i]  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-4-1"
+  },
+  {
+    "title": "1Corintios 4:2",
+    "content": "⸀ὧδε λοιπὸν ζητεῖται ἐν τοῖς οἰκονόμοις ἵνα πιστός τις εὑρεθῇ.  [Ahora bien, lo que se requiere además de los administradores es que cada uno sea hallado fiel.]  - ζητεῖται (V-PPI-3S) ==se requiere== [F] - εὑρεθῇ (V-APS-3S) ==sea hallado== [F]  → ὧδε = aquí  → λοιπὸν = además  → ἵνα = para que [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-4-2"
+  },
+  {
+    "title": "1Corintios 4:3",
+    "content": "ἐμοὶ δὲ εἰς ἐλάχιστόν ἐστιν, ἵνα ὑφʼ ὑμῶν ἀνακριθῶ ἢ ὑπὸ ἀνθρωπίνης ἡμέρας· ἀλλʼ οὐδὲ ἐμαυτὸν ἀνακρίνω·  [En cuanto a mí...]  - ἐστιν (V-PAI-3S) ==es== [F] - ἀνακριθῶ (V-APS-1S) ==sea juzgado== [F] - ἀνακρίνω (V-PAI-1S) ==juzgo== [F]  → δὲ = pero [c]  → ἵνα = para que [i]  → ἢ = o  → ἀλλʼ = sino [c]  → οὐδὲ = ni  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-4-3"
+  },
+  {
+    "title": "1Corintios 4:4",
+    "content": "οὐδὲν γὰρ ἐμαυτῷ σύνοιδα, ἀλλʼ οὐκ ἐν τούτῳ δεδικαίωμαι, ὁ δὲ ἀνακρίνων με κύριός ἐστιν.  [Porque no estoy consciente...]  - σύνοιδα (V-RAI-1S) ==estoy consciente== [F] - δεδικαίωμαι (V-RPI-1S) ==he sido justificado== [F] - ἀνακρίνων (V-PAP-NSM) juzgando [NF] - ἐστιν (V-PAI-3S) ==es== [F]  → γὰρ = porque [i]  → ἀλλʼ = sino [c]  → οὐκ = no  → δὲ = pero [c]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-4-4"
+  },
+  {
+    "title": "1Corintios 4:5",
+    "content": "ὥστε μὴ πρὸ καιροῦ τι κρίνετε, ἕως ἂν ἔλθῃ ὁ κύριος, ὃς καὶ φωτίσει τὰ κρυπτὰ τοῦ σκότους καὶ φανερώσει τὰς βουλὰς τῶν καρδιῶν, καὶ τότε ὁ ἔπαινος γενήσεται ἑκάστῳ ἀπὸ τοῦ θεοῦ.  [Por tanto, no juzguen...]  - κρίνετε (V-PAM-2P) ==juzguen== [F] - ἔλθῃ (V-AAS-3S) ==venga== [F] - φωτίσει (V-FAI-3S) ==sacará a la luz== [F] - φανερώσει (V-FAI-3S) ==manifestará== [F] - γενήσεται (V-FMI-3S) ==será== [F]  → ὥστε = por tanto [i]  → μὴ = no  → ἕως = hasta [i]  → ἂν = —  → ὃς = el cual [i]  → καὶ = y  → καὶ = y  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-4-5"
+  },
+  {
+    "title": "1Corintios 4:6",
+    "content": "Ταῦτα δέ, ἀδελφοί, μετεσχημάτισα εἰς ἐμαυτὸν καὶ ⸀Ἀπολλῶν διʼ ὑμᾶς, ἵνα ἐν ἡμῖν μάθητε τό· Μὴ ὑπὲρ ⸀ἃ ⸀γέγραπται, ἵνα μὴ εἷς ὑπὲρ τοῦ ἑνὸς φυσιοῦσθε κατὰ τοῦ ἑτέρου.  [Esto, hermanos...]  - μετεσχημάτισα (V-AAI-1S) ==apliqué== [F] - μάθητε (V-AAS-2P) ==aprendan== [F] - γέγραπται (V-RPI-3S) ==está escrito== [F] - φυσιοῦσθε (V-PPS-2P) ==se envanezcan== [F]  → δέ = pero [c]  → καὶ = y  → διʼ = por medio de  → ἵνα = para que [i]  → μὴ = no  → ἵνα = para que [i]  → μὴ = no  → κατὰ = contra  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-4-6"
+  },
+  {
+    "title": "1Corintios 4:7",
+    "content": "τίς γάρ σε διακρίνει; τί δὲ ἔχεις ὃ οὐκ ἔλαβες; εἰ δὲ καὶ ἔλαβες, τί καυχᾶσαι ὡς μὴ λαβών;  [Porque ¿quién te distingue?...]  - διακρίνει (V-PAI-3S) ==distingue== [F] - ἔχεις (V-PAI-2S) ==tienes== [F] - ἔλαβες (V-AAI-2S) ==recibiste== [F] - ἔλαβες (V-AAI-2S) ==recibiste== [F] - καυχᾶσαι (V-PMI-2S) ==te jactas== [F] - λαβών (V-AAP-NSM) habiendo recibido [NF]  → γάρ = porque [i]  → δὲ = pero [c]  → ὃ = lo que [i]  → οὐκ = no  → εἰ = si [i]  → δὲ = pero [c]  → καὶ = también  → ὡς = como [i]  → μὴ = no  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-4-7"
+  },
+  {
+    "title": "1Corintios 4:8",
+    "content": "Ἤδη κεκορεσμένοι ἐστέ, ἤδη ἐπλουτήσατε, χωρὶς ἡμῶν ἐβασιλεύσατε· καὶ ὄφελόν γε ἐβασιλεύσατε, ἵνα καὶ ἡμεῖς ὑμῖν συμβασιλεύσωμεν.  [Ya están saciados...]  - κεκορεσμένοι (V-RPP-NPM) saciados [NF] - ἐστέ (V-PAI-2P) ==están== [F] - ἐπλουτήσατε (V-AAI-2P) ==se hicieron ricos== [F] - ἐβασιλεύσατε (V-AAI-2P) ==reinaron== [F] - ἐβασιλεύσατε (V-AAI-2P) ==reinaron== [F] - συμβασιλεύσωμεν (V-AAS-1P) ==reinemos== [F]  → ἤδη = ya  → ἤδη = ya  → καὶ = y  → γε = ciertamente  → ἵνα = para que [i]  → καὶ = también  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-4-8"
+  },
+  {
+    "title": "1Corintios 4:9",
+    "content": "δοκῶ ⸀γάρ, ὁ θεὸς ἡμᾶς τοὺς ἀποστόλους ἐσχάτους ἀπέδειξεν ὡς ἐπιθανατίους, ὅτι θέατρον ἐγενήθημεν τῷ κόσμῳ καὶ ἀγγέλοις καὶ ἀνθρώποις.  [Porque pienso...]  - δοκῶ (V-PAI-1S) ==pienso== [F] - ἀπέδειξεν (V-AAI-3S) ==ha exhibido== [F] - ἐγενήθημεν (V-ADI-1P) ==llegamos a ser== [F]  → γάρ = porque [i]  → ὡς = como [i]  → ὅτι = que [i]  → καὶ = y  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-4-9"
+  },
+  {
+    "title": "1Corintios 4:10",
+    "content": "ἡμεῖς μωροὶ διὰ Χριστόν, ὑμεῖς δὲ φρόνιμοι ἐν Χριστῷ· ἡμεῖς ἀσθενεῖς, ὑμεῖς δὲ ἰσχυροί· ὑμεῖς ἔνδοξοι, ἡμεῖς δὲ ἄτιμοι.  [Nosotros somos necios...]  → δὲ = pero [c]  → δὲ = pero [c]  → δὲ = pero [c]",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-4-10"
+  },
+  {
+    "title": "1Corintios 4:11",
+    "content": "ἄχρι τῆς ἄρτι ὥρας καὶ πεινῶμεν καὶ διψῶμεν καὶ γυμνιτεύομεν καὶ κολαφιζόμεθα καὶ ἀστατοῦμεν  [Hasta el momento presente...]  - πεινῶμεν (V-PAI-1P) ==tenemos hambre== [F] - διψῶμεν (V-PAI-1P) ==tenemos sed== [F] - γυμνιτεύομεν (V-PAI-1P) ==andamos desnudos== [F] - κολαφιζόμεθα (V-PPI-1P) ==somos maltratados== [F] - ἀστατοῦμεν (V-PAI-1P) ==andamos sin hogar== [F]  → καὶ = y  → καὶ = y  → καὶ = y  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-4-11"
+  },
+  {
+    "title": "1Corintios 4:12",
+    "content": "καὶ κοπιῶμεν ἐργαζόμενοι ταῖς ἰδίαις χερσίν· λοιδορούμενοι εὐλογοῦμεν, διωκόμενοι ἀνεχόμεθα,  [Nos agotamos trabajando...]  - κοπιῶμεν (V-PAI-1P) ==trabajamos arduamente== [F] - ἐργαζόμενοι (V-PMP-NPM) trabajando [NF] - λοιδορούμενοι (V-PPP-NPM) siendo injuriados [NF] - εὐλογοῦμεν (V-PAI-1P) ==bendecimos== [F] - διωκόμενοι (V-PPP-NPM) siendo perseguidos [NF] - ἀνεχόμεθα (V-PMI-1P) ==soportamos== [F]  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-4-12"
+  },
+  {
+    "title": "1Corintios 4:13",
+    "content": "⸀δυσφημούμενοι παρακαλοῦμεν· ὡς περικαθάρματα τοῦ κόσμου ἐγενήθημεν, πάντων περίψημα ἕως ἄρτι.  [Cuando hablan mal de nosotros...]  - δυσφημούμενοι (V-PPP-NPM) siendo difamados [NF] - παρακαλοῦμεν (V-PAI-1P) ==rogamos== [F] - ἐγενήθημεν (V-ADI-1P) ==llegamos a ser== [F]  → ὡς = como [i]  → ἕως = hasta [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-4-13"
+  },
+  {
+    "title": "1Corintios 4:14",
+    "content": "Οὐκ ἐντρέπων ὑμᾶς γράφω ταῦτα, ἀλλʼ ὡς τέκνα μου ἀγαπητὰ ⸀νουθετῶν·  [No les escribo esto...]  - ἐντρέπων (V-PAP-NSM) avergonzando [NF] - γράφω (V-PAI-1S) ==escribo== [F] - νουθετῶν (V-PAP-NSM) amonestando [NF]  → Οὐκ = no  → ἀλλʼ = sino [c]  → ὡς = como [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-4-14"
+  },
+  {
+    "title": "1Corintios 4:15",
+    "content": "ἐὰν γὰρ μυρίους παιδαγωγοὺς ἔχητε ἐν Χριστῷ, ἀλλʼ οὐ πολλοὺς πατέρας, ἐν γὰρ Χριστῷ Ἰησοῦ διὰ τοῦ εὐαγγελίου ἐγὼ ὑμᾶς ἐγέννησα.  [Porque aunque tengan...]  - ἔχητε (V-PAS-2P) ==tengan== [F] - ἐγέννησα (V-AAI-1S) ==engendré== [F]  → ἐὰν = si [i]  → γὰρ = porque [i]  → ἀλλʼ = sino [c]  → οὐ = no  → γὰρ = porque [i]  → διὰ = por medio de  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-4-15"
+  },
+  {
+    "title": "1Corintios 4:16",
+    "content": "παρακαλῶ οὖν ὑμᾶς, μιμηταί μου γίνεσθε.  [Por tanto, los exhorto...]  - παρακαλῶ (V-PAI-1S) ==exhorto== [F] - γίνεσθε (V-PMM-2P) ==sean== [F]  → οὖν = por tanto [c]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-4-16"
+  },
+  {
+    "title": "1Corintios 4:17",
+    "content": "διὰ τοῦτο ἔπεμψα ὑμῖν Τιμόθεον, ὅς ἐστίν ⸂μου τέκνον⸃ ἀγαπητὸν καὶ πιστὸν ἐν κυρίῳ, ὃς ὑμᾶς ἀναμνήσει τὰς ὁδούς μου τὰς ἐν Χριστῷ ⸀Ἰησοῦ, καθὼς πανταχοῦ ἐν πάσῃ ἐκκλησίᾳ διδάσκω.  [Por esta razón...]  - ἔπεμψα (V-AAI-1S) ==envié== [F] - ἐστίν (V-PAI-3S) ==es== [F] - ἀναμνήσει (V-FAI-3S) ==recordará== [F] - διδάσκω (V-PAI-1S) ==enseño== [F]  → διὰ τοῦτο = por esto [c]  → ὅς = el cual [i]  → καὶ = y  → ὃς = el cual [i]  → καθὼς = como [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-4-17"
+  },
+  {
+    "title": "1Corintios 4:18",
+    "content": "ὡς μὴ ἐρχομένου δέ μου πρὸς ὑμᾶς ἐφυσιώθησάν τινες·  [Algunos se han vuelto arrogantes...]  - ἐρχομένου (V-PMP-GSM) viniendo [NF] - ἐφυσιώθησάν (V-API-3P) ==se envanecieron== [F]  → ὡς = como [i]  → μὴ = no  → δέ = pero [c]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-4-18"
+  },
+  {
+    "title": "1Corintios 4:19",
+    "content": "ἐλεύσομαι δὲ ταχέως πρὸς ὑμᾶς, ἐὰν ὁ κύριος θελήσῃ, καὶ γνώσομαι οὐ τὸν λόγον τῶν πεφυσιωμένων ἀλλὰ τὴν δύναμιν,  [Pero iré pronto...]  - ἐλεύσομαι (V-FMI-1S) ==iré== [F] - θελήσῃ (V-AAS-3S) ==quiera== [F] - γνώσομαι (V-FMI-1S) ==conoceré== [F] - πεφυσιωμένων (V-RPP-GPM) envanecidos [NF]  → δὲ = pero [c]  → ἐὰν = si [i]  → καὶ = y  → οὐ = no  → ἀλλὰ = sino [c]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-4-19"
+  },
+  {
+    "title": "1Corintios 4:20",
+    "content": "οὐ γὰρ ἐν λόγῳ ἡ βασιλεία τοῦ θεοῦ ἀλλʼ ἐν δυνάμει.  [Porque el reino de Dios...]  → οὐ = no  → γὰρ = porque [i]  → ἀλλʼ = sino [c]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-4-20"
+  },
+  {
+    "title": "1Corintios 4:21",
+    "content": "τί θέλετε; ἐν ῥάβδῳ ἔλθω πρὸς ὑμᾶς, ἢ ἐν ἀγάπῃ πνεύματί τε πραΰτητος;  [¿Qué quieren?...]  - θέλετε (V-PAI-2P) ==quieren== [F] - ἔλθω (V-AAS-1S) ==vaya== [F]  → ἢ = o  → τε = y",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-4-21"
+  },
+  {
+    "title": "1Corintios 5:1",
+    "content": "Ὅλως ἀκούεται ἐν ὑμῖν πορνεία, καὶ τοιαύτη πορνεία ἥτις οὐδὲ ἐν τοῖς ⸀ἔθνεσιν, ὥστε γυναῖκά τινα τοῦ πατρὸς ἔχειν.  [En efecto, se oye que entre ustedes hay inmoralidad, y una inmoralidad tal como no existe ni siquiera entre los gentiles, al extremo de que alguien tiene la mujer de su padre.]  - ἀκούεται (V-PPI-3S) ==se oye== [F] - ἔχειν (V-PAN) tener [NF]  → καὶ = y  → ἥτις = la cual [i]  → οὐδὲ = ni  → ὥστε = de modo que [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-5-1"
+  },
+  {
+    "title": "1Corintios 5:2",
+    "content": "καὶ ὑμεῖς πεφυσιωμένοι ἐστέ, καὶ οὐχὶ μᾶλλον ἐπενθήσατε, ἵνα ⸀ἀρθῇ ἐκ μέσου ὑμῶν ὁ τὸ ἔργον τοῦτο ⸀ποιήσας;  [¡Y ustedes se han vuelto arrogantes en lugar de haberse entristecido, para que el que de entre ustedes ha cometido esta acción fuera expulsado de en medio de ustedes!]  - πεφυσιωμένοι (V-RPP-NPM) envanecidos [NF] - ἐστέ (V-PAI-2P) ==están== [F] - ἐπενθήσατε (V-AAI-2P) ==se entristecieron== [F] - ἀρθῇ (V-APS-3S) ==sea quitado== [F] - ποιήσας (V-AAP-NSM) habiendo hecho [NF]  → καὶ = y  → καὶ = y  → οὐχὶ = no  → μᾶλλον = más bien  → ἵνα = para que [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-5-2"
+  },
+  {
+    "title": "1Corintios 5:3",
+    "content": "Ἐγὼ μὲν γάρ, ⸀ἀπὼν τῷ σώματι παρὼν δὲ τῷ πνεύματι, ἤδη κέκρικα ὡς παρὼν τὸν οὕτως τοῦτο κατεργασάμενον  [Pues yo, por mi parte, aunque ausente en cuerpo pero presente en espíritu, como si estuviera presente, ya he juzgado al que cometió tal acción.]  - ἀπὼν (V-PAP-NSM) estando ausente [NF] - παρὼν (V-PAP-NSM) estando presente [NF] - κέκρικα (V-RAI-1S) ==he juzgado== [F] - κατεργασάμενον (V-AMP-ASM) habiendo cometido [NF]  → μὲν = —  → γάρ = porque [i]  → δὲ = pero [c]  → ὡς = como [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-5-3"
+  },
+  {
+    "title": "1Corintios 5:4",
+    "content": "ἐν τῷ ὀνόματι τοῦ κυρίου ἡμῶν ⸀Ἰησοῦ, συναχθέντων ὑμῶν καὶ τοῦ ἐμοῦ πνεύματος σὺν τῇ δυνάμει τοῦ κυρίου ἡμῶν ⸁Ἰησοῦ,  [En el nombre de nuestro Señor Jesús, cuando estén reunidos, y yo con ustedes en espíritu, con el poder de nuestro Señor Jesús,]  - συναχθέντων (V-APP-GPM) habiendo sido reunidos [NF]  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-5-4"
+  },
+  {
+    "title": "1Corintios 5:5",
+    "content": "παραδοῦναι τὸν τοιοῦτον τῷ Σατανᾷ εἰς ὄλεθρον τῆς σαρκός, ἵνα τὸ πνεῦμα σωθῇ ἐν τῇ ἡμέρᾳ τοῦ ⸀κυρίου.  [entreguen a ese tal a Satanás para la destrucción de su carne, a fin de que su espíritu sea salvo en el día del Señor Jesús.]  - παραδοῦναι (V-AAN) entregar [NF] - σωθῇ (V-APS-3S) ==sea salvo== [F]  → εἰς = para  → ἵνα = para que [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-5-5"
+  },
+  {
+    "title": "1Corintios 5:6",
+    "content": "Οὐ καλὸν τὸ καύχημα ὑμῶν. οὐκ οἴδατε ὅτι μικρὰ ζύμη ὅλον τὸ φύραμα ζυμοῖ;  [La jactancia de ustedes no es buena. ¿No saben que un poco de levadura fermenta toda la masa?]  - οἴδατε (V-RAI-2P) ==saben== [F] - ζυμοῖ (V-PAI-3S) ==fermenta== [F]  → οὐ = no  → οὐκ = no  → ὅτι = que [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-5-6"
+  },
+  {
+    "title": "1Corintios 5:7",
+    "content": "ἐκκαθάρατε τὴν παλαιὰν ζύμην, ἵνα ἦτε νέον φύραμα, καθώς ἐστε ἄζυμοι. καὶ γὰρ τὸ πάσχα ⸀ἡμῶν ἐτύθη Χριστός·  [Limpien la levadura vieja...]  - ἐκκαθάρατε (V-AAM-2P) ==limpien== [F] - ἦτε (V-PAS-2P) ==sean== [F] - ἐστε (V-PAI-2P) ==son== [F] - ἐτύθη (V-API-3S) ==fue sacrificado== [F]  → ἵνα = para que [i]  → καθώς = así como [i]  → καὶ = y  → γὰρ = porque [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-5-7"
+  },
+  {
+    "title": "1Corintios 5:8",
+    "content": "ὥστε ἑορτάζωμεν, μὴ ἐν ζύμῃ παλαιᾷ μηδὲ ἐν ζύμῃ κακίας καὶ πονηρίας, ἀλλʼ ἐν ἀζύμοις εἰλικρινείας καὶ ἀληθείας.  [Por tanto, celebremos la fiesta...]  - ἑορτάζωμεν (V-PAS-1P) ==celebremos== [F]  → ὥστε = por tanto [i]  → μὴ = no  → μηδὲ = ni  → καὶ = y  → ἀλλʼ = sino [c]  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-5-8"
+  },
+  {
+    "title": "1Corintios 5:9",
+    "content": "Ἔγραψα ὑμῖν ἐν τῇ ἐπιστολῇ μὴ συναναμίγνυσθαι πόρνοις,  [En mi carta les escribí...]  - ἔγραψα (V-AAI-1S) ==escribí== [F] - συναναμίγνυσθαι (V-PMN) juntarse [NF]  → μὴ = no  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-5-9"
+  },
+  {
+    "title": "1Corintios 5:10",
+    "content": "⸀οὐ πάντως τοῖς πόρνοις τοῦ κόσμου τούτου ἢ τοῖς πλεονέκταις ⸀καὶ ἅρπαξιν ἢ εἰδωλολάτραις, ἐπεὶ ⸀ὠφείλετε ἄρα ἐκ τοῦ κόσμου ἐξελθεῖν.  [No me refería a la gente inmoral de este mundo...]  - ὠφείλετε (V-IAI-2P) ==tenían que== [F] - ἐξελθεῖν (V-AAN) salir [NF]  → οὐ = no  → ἢ = o  → καὶ = y  → ἢ = o  → ἐπεὶ = puesto que [i]  → ἄρα = entonces  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-5-10"
+  },
+  {
+    "title": "1Corintios 5:11",
+    "content": "νῦν δὲ ἔγραψα ὑμῖν μὴ συναναμίγνυσθαι ἐάν τις ἀδελφὸς ὀνομαζόμενος ᾖ πόρνος ἢ πλεονέκτης ἢ εἰδωλολάτρης ἢ λοίδορος ἢ μέθυσος ἢ ἅρπαξ, τῷ τοιούτῳ μηδὲ συνεσθίειν.  [Sino que en efecto les escribí...]  - ἔγραψα (V-AAI-1S) ==escribí== [F] - συναναμίγνυσθαι (V-PMN) juntarse [NF] - ὀνομαζόμενος (V-PPP-NSM) siendo llamado [NF] - ᾖ (V-PAS-3S) ==sea== [F] - συνεσθίειν (V-PAN) comer con [NF]  → νῦν = ahora  → δὲ = pero [c]  → μὴ = no  → ἐάν = si [i]  → ἢ = o  → ἢ = o  → ἢ = o  → ἢ = o  → ἢ = o  → μηδὲ = ni  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-5-11"
+  },
+  {
+    "title": "1Corintios 5:12",
+    "content": "τί γάρ ⸀μοι τοὺς ἔξω κρίνειν; οὐχὶ τοὺς ἔσω ὑμεῖς κρίνετε,  [¿por qué he de juzgar yo...]  - κρίνειν (V-PAN) juzgar [NF] - κρίνετε (V-PAI-2P) ==juzgan== [F]  → γάρ = porque [i]  → οὐχὶ = no  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-5-12"
+  },
+  {
+    "title": "1Corintios 5:13",
+    "content": "τοὺς δὲ ἔξω ὁ θεὸς ⸀κρίνει; ⸀ἐξάρατε τὸν πονηρὸν ἐξ ὑμῶν αὐτῶν.  [Pero Dios juzga...]  - κρίνει (V-PAI-3S) ==juzga== [F] - ἐξάρατε (V-AAM-2P) ==expulsen== [F]  → δὲ = pero [c]",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-5-13"
+  },
+  {
+    "title": "1Corintios 6:1",
+    "content": "Τολμᾷ τις ὑμῶν πρᾶγμα ἔχων πρὸς τὸν ἕτερον κρίνεσθαι ἐπὶ τῶν ἀδίκων, καὶ οὐχὶ ἐπὶ τῶν ἁγίων;  [¿Se atreve alguno de ustedes...]  - Τολμᾷ (V-PAI-3S) ==se atreve== [F] - ἔχων (V-PAP-NSM) teniendo [NF] - κρίνεσθαι (V-PMN) ser juzgado [NF]  → καὶ = y  → οὐχὶ = no  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-6-1"
+  },
+  {
+    "title": "1Corintios 6:2",
+    "content": "⸀ἢ οὐκ οἴδατε ὅτι οἱ ἅγιοι τὸν κόσμον κρινοῦσιν; καὶ εἰ ἐν ὑμῖν κρίνεται ὁ κόσμος, ἀνάξιοί ἐστε κριτηρίων ἐλαχίστων;  [¿O no saben que los santos...]  - οἴδατε (V-RAI-2P) ==saben== [F] - κρινοῦσιν (V-FAI-3P) ==juzgarán== [F] - κρίνεται (V-PPI-3S) ==es juzgado== [F] - ἐστε (V-PAI-2P) ==son== [F]  → ἢ = o  → οὐκ = no  → ὅτι = que [i]  → καὶ = y  → εἰ = si [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-6-2"
+  },
+  {
+    "title": "1Corintios 6:3",
+    "content": "οὐκ οἴδατε ὅτι ἀγγέλους κρινοῦμεν, μήτιγε βιωτικά;  [¿No saben que hemos de juzgar a los ángeles?...]  - οἴδατε (V-RAI-2P) ==saben== [F] - κρινοῦμεν (V-FAI-1P) ==juzgaremos== [F]  → οὐκ = no  → ὅτι = que [i]  → μήτιγε = cuánto más  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-6-3"
+  },
+  {
+    "title": "1Corintios 6:4",
+    "content": "βιωτικὰ μὲν οὖν κριτήρια ἐὰν ἔχητε, τοὺς ἐξουθενημένους ἐν τῇ ἐκκλησίᾳ, τούτους καθίζετε;  [Entonces, si tienen tribunales...]  - ἔχητε (V-PAS-2P) ==tienen== [F] - καθίζετε (V-PAI-2P) ==ponen== [F] - ἐξουθενημένους (V-RPP-APM) despreciados [NF]  → μὲν = —  → οὖν = entonces [c]  → ἐὰν = si [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-6-4"
+  },
+  {
+    "title": "1Corintios 6:5",
+    "content": "πρὸς ἐντροπὴν ὑμῖν λέγω. οὕτως οὐκ ἔνι ἐν ὑμῖν ⸂οὐδεὶς σοφὸς⸃ ὃς δυνήσεται διακρῖναι ἀνὰ μέσον τοῦ ⸀ἀδελφοῦ αὐτοῦ,  [Para vergüenza suya lo digo...]  - λέγω (V-PAI-1S) ==digo== [F] - ἔνι (V-PXI-3S) ==hay== [F] - δυνήσεται (V-FNI-3S) ==podrá== [F] - διακρῖναι (V-AAN) juzgar [NF]  → οὕτως = así  → οὐκ = no  → ὃς = el cual [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-6-5"
+  },
+  {
+    "title": "1Corintios 6:6",
+    "content": "ἀλλὰ ἀδελφὸς μετὰ ἀδελφοῦ κρίνεται, καὶ τοῦτο ἐπὶ ἀπίστων;  [sino que hermano contra hermano...]  - κρίνεται (V-PPI-3S) ==litiga== [F]  → ἀλλὰ = sino [c]  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-6-6"
+  },
+  {
+    "title": "1Corintios 6:7",
+    "content": "ἤδη μὲν ⸀οὖν ὅλως ἥττημα ὑμῖν ἐστιν ὅτι κρίματα ἔχετε μεθʼ ἑαυτῶν· διὰ τί οὐχὶ μᾶλλον ἀδικεῖσθε; διὰ τί οὐχὶ μᾶλλον ἀποστερεῖσθε;  [Así que, en efecto...]  - ἐστιν (V-PAI-3S) ==es== [F] - ἔχετε (V-PAI-2P) ==tienen== [F] - ἀδικεῖσθε (V-PPI-2P) ==son injustamente tratados== [F] - ἀποστερεῖσθε (V-PPI-2P) ==son defraudados== [F]  → ἤδη = ya  → μὲν = —  → οὖν = entonces [c]  → ὅτι = que [i]  → διὰ τί = por qué  → οὐχὶ = no  → μᾶλλον = más bien  → διὰ τί = por qué  → οὐχὶ = no  → μᾶλλον = más bien  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-6-7"
+  },
+  {
+    "title": "1Corintios 6:8",
+    "content": "ἀλλὰ ὑμεῖς ἀδικεῖτε καὶ ἀποστερεῖτε, καὶ ⸀τοῦτο ἀδελφούς.  [Por el contrario...]  - ἀδικεῖτε (V-PAI-2P) ==cometen injusticia== [F] - ἀποστερεῖτε (V-PAI-2P) ==defraudan== [F]  → ἀλλὰ = sino [c]  → καὶ = y  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-6-8"
+  },
+  {
+    "title": "1Corintios 6:9",
+    "content": "Ἢ οὐκ οἴδατε ὅτι ἄδικοι ⸂θεοῦ βασιλείαν⸃ οὐ κληρονομήσουσιν; μὴ πλανᾶσθε· οὔτε πόρνοι οὔτε εἰδωλολάτραι οὔτε μοιχοὶ οὔτε μαλακοὶ οὔτε ἀρσενοκοῖται  [¿O no saben que los injustos...]  - οἴδατε (V-RAI-2P) ==saben== [F] - κληρονομήσουσιν (V-FAI-3P) ==heredarán== [F] - πλανᾶσθε (V-PPM-2P) ==se dejen engañar== [F]  → ἢ = o  → οὐκ = no  → ὅτι = que [i]  → οὐ = no  → μὴ = no  → οὔτε = ni  → οὔτε = ni  → οὔτε = ni  → οὔτε = ni  → οὔτε = ni  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-6-9"
+  },
+  {
+    "title": "1Corintios 6:10",
+    "content": "οὔτε ⸂κλέπται οὔτε πλεονέκται⸃, ⸀οὐ μέθυσοι, οὐ λοίδοροι, οὐχ ἅρπαγες βασιλείαν ⸀θεοῦ κληρονομήσουσιν.  [ni los ladrones...]  - κληρονομήσουσιν (V-FAI-3P) ==heredarán== [F]  → οὔτε = ni  → οὔτε = ni  → οὐ = no  → οὐ = no  → οὐχ = no",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-6-10"
+  },
+  {
+    "title": "1Corintios 6:11",
+    "content": "καὶ ταῦτά τινες ἦτε· ἀλλὰ ἀπελούσασθε, ἀλλὰ ἡγιάσθητε, ἀλλὰ ἐδικαιώθητε ἐν τῷ ὀνόματι τοῦ κυρίου ⸀Ἰησοῦ καὶ ἐν τῷ πνεύματι τοῦ θεοῦ ἡμῶν.  [Y esto eran algunos de ustedes; pero fueron lavados, pero fueron santificados, pero fueron justificados en el nombre del Señor Jesucristo y en el Espíritu de nuestro Dios.]  - ἦτε (V-IAI-2P) ==eran== [F] - ἀπελούσασθε (V-AMI-2P) ==fueron lavados== [F] - ἡγιάσθητε (V-API-2P) ==fueron santificados== [F] - ἐδικαιώθητε (V-API-2P) ==fueron justificados== [F]  → καὶ = y  → ἀλλὰ = sino [c]  → ἀλλὰ = sino [c]  → ἀλλὰ = sino [c]  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-6-11"
+  },
+  {
+    "title": "1Corintios 6:12",
+    "content": "Πάντα μοι ἔξεστιν· ἀλλʼ οὐ πάντα συμφέρει. πάντα μοι ἔξεστιν· ἀλλʼ οὐκ ἐγὼ ἐξουσιασθήσομαι ὑπό τινος.  [Todas las cosas me son lícitas...]  - ἔξεστιν (V-PXI-3S) ==me es lícito== [F] - συμφέρει (V-PAI-3S) ==conviene== [F] - ἔξεστιν (V-PXI-3S) ==me es lícito== [F] - ἐξουσιασθήσομαι (V-FPI-1S) ==seré dominado== [F]  → ἀλλʼ = sino [c]  → οὐ = no  → ἀλλʼ = sino [c]  → οὐκ = no  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-6-12"
+  },
+  {
+    "title": "1Corintios 6:13",
+    "content": "τὰ βρώματα τῇ κοιλίᾳ, καὶ ἡ κοιλία τοῖς βρώμασιν· ὁ δὲ θεὸς καὶ ταύτην καὶ ταῦτα καταργήσει. τὸ δὲ σῶμα οὐ τῇ πορνείᾳ ἀλλὰ τῷ κυρίῳ, καὶ ὁ κύριος τῷ σώματι·  [Los alimentos son para el estómago...]  - καταργήσει (V-FAI-3S) ==destruirá== [F]  → καὶ = y  → δὲ = pero [c]  → καὶ = y  → καὶ = y  → δὲ = pero [c]  → οὐ = no  → ἀλλὰ = sino [c]  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-6-13"
+  },
+  {
+    "title": "1Corintios 6:14",
+    "content": "ὁ δὲ θεὸς καὶ τὸν κύριον ἤγειρεν καὶ ἡμᾶς ἐξεγερεῖ διὰ τῆς δυνάμεως αὐτοῦ.  [Y Dios, que resucitó al Señor...]  - ἤγειρεν (V-AAI-3S) ==resucitó== [F] - ἐξεγερεῖ (V-FAI-3S) ==resucitará== [F]  → δὲ = pero [c]  → καὶ = y  → καὶ = y  → διὰ = por medio de  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-6-14"
+  },
+  {
+    "title": "1Corintios 6:15",
+    "content": "οὐκ οἴδατε ὅτι τὰ σώματα ὑμῶν μέλη Χριστοῦ ἐστιν; ἄρας οὖν τὰ μέλη τοῦ Χριστοῦ ποιήσω πόρνης μέλη; μὴ γένοιτο.  [¿No saben que sus cuerpos...]  - οἴδατε (V-RAI-2P) ==saben== [F] - ἐστιν (V-PAI-3S) ==son== [F] - ποιήσω (V-FAI-1S) ==haré== [F] - γένοιτο (V-ADM-3S) ==de ningún modo sea== [F]  → οὐκ = no  → ὅτι = que [i]  → οὖν = entonces [c]  → μὴ = no  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-6-15"
+  },
+  {
+    "title": "1Corintios 6:16",
+    "content": "⸀ἢ οὐκ οἴδατε ὅτι ὁ κολλώμενος τῇ πόρνῃ ἓν σῶμά ἐστιν; Ἔσονται γάρ, φησίν, οἱ δύο εἰς σάρκα μίαν.  [¿O no saben que el que se une...]  - οἴδατε (V-RAI-2P) ==saben== [F] - κολλώμενος (V-PMP-NSM) uniéndose [NF] - ἐστιν (V-PAI-3S) ==es== [F] - Ἔσονται (V-FMI-3P) ==serán== [F] - φησίν (V-PAI-3S) ==dice== [F]  → ἢ = o  → οὐκ = no  → ὅτι = que [i]  → γάρ = porque [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-6-16"
+  },
+  {
+    "title": "1Corintios 6:17",
+    "content": "ὁ δὲ κολλώμενος τῷ κυρίῳ ἓν πνεῦμά ἐστιν.  [Pero el que se une al Señor...]  - κολλώμενος (V-PMP-NSM) uniéndose [NF] - ἐστιν (V-PAI-3S) ==es== [F]  → δὲ = pero [c]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-6-17"
+  },
+  {
+    "title": "1Corintios 6:18",
+    "content": "φεύγετε τὴν πορνείαν· πᾶν ἁμάρτημα ὃ ἐὰν ποιήσῃ ἄνθρωπος ἐκτὸς τοῦ σώματός ἐστιν, ὁ δὲ πορνεύων εἰς τὸ ἴδιον σῶμα ἁμαρτάνει.  [Huyan de la fornicación...]  - φεύγετε (V-PAM-2P) ==huyan== [F] - ποιήσῃ (V-AAS-3S) ==cometa== [F] - ἐστιν (V-PAI-3S) ==es== [F] - πορνεύων (V-PAP-NSM) fornicando [NF] - ἁμαρτάνει (V-PAI-3S) ==peca== [F]  → ἐὰν = si [i]  → δὲ = pero [c]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-6-18"
+  },
+  {
+    "title": "1Corintios 6:19",
+    "content": "ἢ οὐκ οἴδατε ὅτι τὸ σῶμα ὑμῶν ναὸς τοῦ ἐν ὑμῖν ἁγίου πνεύματός ἐστιν, οὗ ἔχετε ἀπὸ θεοῦ; καὶ οὐκ ἐστὲ ἑαυτῶν,  [¿O no saben que su cuerpo...]  - οἴδατε (V-RAI-2P) ==saben== [F] - ἐστιν (V-PAI-3S) ==es== [F] - ἔχετε (V-PAI-2P) ==tienen== [F] - ἐστὲ (V-PAI-2P) ==son== [F]  → ἢ = o  → οὐκ = no  → ὅτι = que [i]  → καὶ = y  → οὐκ = no  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-6-19"
+  },
+  {
+    "title": "1Corintios 6:20",
+    "content": "ἠγοράσθητε γὰρ τιμῆς· δοξάσατε δὴ τὸν θεὸν ἐν τῷ σώματι ⸀ὑμῶν.  [Porque han sido comprados...]  - ἠγοράσθητε (V-API-2P) ==han sido comprados== [F] - δοξάσατε (V-AAM-2P) ==glorifiquen== [F]  → γὰρ = porque [i]  → δὴ = por tanto",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-6-20"
+  },
+  {
+    "title": "1Corintios 7:1",
+    "content": "Περὶ δὲ ὧν ⸀ἐγράψατε, καλὸν ἀνθρώπῳ γυναικὸς μὴ ἅπτεσθαι·  - ἐγράψατε (V-AAI-2P) ==escribieron== [F] - ἅπτεσθαι (V-PMN) tocar [NF]  → δὲ = pero [c]  → ὧν = de las cuales [i]  → μὴ = no  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-1"
+  },
+  {
+    "title": "1Corintios 7:2",
+    "content": "διὰ δὲ τὰς πορνείας ἕκαστος τὴν ἑαυτοῦ γυναῖκα ἐχέτω, καὶ ἑκάστη τὸν ἴδιον ἄνδρα ἐχέτω.  - ἐχέτω (V-PAM-3S) ==tenga== [F] - ἐχέτω (V-PAM-3S) ==tenga== [F]  → διὰ = por causa de  → δὲ = pero [c]  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-2"
+  },
+  {
+    "title": "1Corintios 7:3",
+    "content": "τῇ γυναικὶ ὁ ἀνὴρ τὴν ⸀ὀφειλὴν ἀποδιδότω, ὁμοίως δὲ καὶ ἡ γυνὴ τῷ ἀνδρί.  - ἀποδιδότω (V-PAM-3S) ==cumpla== [F]  → δὲ = pero [c]  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-3"
+  },
+  {
+    "title": "1Corintios 7:4",
+    "content": "ἡ γυνὴ τοῦ ἰδίου σώματος οὐκ ἐξουσιάζει ἀλλὰ ὁ ἀνήρ· ὁμοίως δὲ καὶ ὁ ἀνὴρ τοῦ ἰδίου σώματος οὐκ ἐξουσιάζει ἀλλὰ ἡ γυνή.  - ἐξουσιάζει (V-PAI-3S) ==tiene autoridad== [F] - ἐξουσιάζει (V-PAI-3S) ==tiene autoridad== [F]  → οὐκ = no  → ἀλλὰ = sino [c]  → δὲ = pero [c]  → καὶ = y  → οὐκ = no  → ἀλλὰ = sino [c]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-4"
+  },
+  {
+    "title": "1Corintios 7:5",
+    "content": "μὴ ἀποστερεῖτε ἀλλήλους, εἰ μήτι ἂν ἐκ συμφώνου πρὸς καιρὸν ἵνα ⸀σχολάσητε ⸀τῇ προσευχῇ καὶ πάλιν ἐπὶ τὸ αὐτὸ ⸀ἦτε, ἵνα μὴ πειράζῃ ὑμᾶς ὁ Σατανᾶς διὰ τὴν ἀκρασίαν ὑμῶν.  - ἀποστερεῖτε (V-PAM-2P) ==se priven== [F] - σχολάσητε (V-AAS-2P) ==se dediquen== [F] - ἦτε (V-PAS-2P) ==estén== [F] - πειράζῃ (V-PAS-3S) ==tiente== [F]  → μὴ = no  → εἰ = si [i]  → μήτι = excepto  → ἂν = —  → ἵνα = para que [i]  → καὶ = y  → ἵνα = para que [i]  → μὴ = no  → διὰ = por causa de  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-5"
+  },
+  {
+    "title": "1Corintios 7:6",
+    "content": "τοῦτο δὲ λέγω κατὰ συγγνώμην, οὐ κατʼ ἐπιταγήν.  - λέγω (V-PAI-1S) ==digo== [F]  → δὲ = pero [c]  → οὐ = no  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-6"
+  },
+  {
+    "title": "1Corintios 7:7",
+    "content": "θέλω ⸀δὲ πάντας ἀνθρώπους εἶναι ὡς καὶ ἐμαυτόν· ἀλλὰ ἕκαστος ἴδιον ⸂ἔχει χάρισμα⸃ ἐκ θεοῦ, ⸀ὁ μὲν οὕτως, ⸁ὁ δὲ οὕτως.  - θέλω (V-PAI-1S) ==quiero== [F] - εἶναι (V-PAN) ser [NF] - ἔχει (V-PAI-3S) ==tiene== [F]  → δὲ = pero [c]  → ὡς = como [i]  → καὶ = y  → ἀλλὰ = sino [c]  → μὲν = —  → δὲ = pero [c]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-7"
+  },
+  {
+    "title": "1Corintios 7:8",
+    "content": "Λέγω δὲ τοῖς ἀγάμοις καὶ ταῖς χήραις, καλὸν ⸀αὐτοῖς ἐὰν μείνωσιν ὡς κἀγώ·  - Λέγω (V-PAI-1S) ==digo== [F] - μείνωσιν (V-AAS-3P) ==permanezcan== [F]  → δὲ = pero [c]  → καὶ = y  → ἐὰν = si [i]  → ὡς = como [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-8"
+  },
+  {
+    "title": "1Corintios 7:9",
+    "content": "εἰ δὲ οὐκ ἐγκρατεύονται, γαμησάτωσαν, κρεῖττον γάρ ἐστιν ⸀γαμῆσαι ἢ πυροῦσθαι.  - ἐγκρατεύονται (V-PMI-3P) ==tienen dominio== [F] - γαμησάτωσαν (V-AAM-3P) ==cásense== [F] - ἐστιν (V-PAI-3S) ==es== [F] - γαμῆσαι (V-AAN) casarse [NF] - πυροῦσθαι (V-PPN) quemarse [NF]  → εἰ = si [i]  → δὲ = pero [c]  → οὐκ = no  → γάρ = porque [i]  → ἢ = que  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-9"
+  },
+  {
+    "title": "1Corintios 7:10",
+    "content": "Τοῖς δὲ γεγαμηκόσιν παραγγέλλω, οὐκ ἐγὼ ἀλλὰ ὁ κύριος, γυναῖκα ἀπὸ ἀνδρὸς μὴ χωρισθῆναι—  - γεγαμηκόσιν (V-RAP-DPM) casados [NF] - παραγγέλλω (V-PAI-1S) ==ordeno== [F] - χωρισθῆναι (V-APN) separarse [NF]  → δὲ = pero [c]  → οὐκ = no  → ἀλλὰ = sino [c]  → μὴ = no",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-10"
+  },
+  {
+    "title": "1Corintios 7:11",
+    "content": "ἐὰν δὲ καὶ χωρισθῇ, μενέτω ἄγαμος ἢ τῷ ἀνδρὶ καταλλαγήτω— καὶ ἄνδρα γυναῖκα μὴ ἀφιέναι.  - χωρισθῇ (V-APS-3S) ==se separe== [F] - μενέτω (V-PAM-3S) ==permanezca== [F] - καταλλαγήτω (V-PAM-3S) ==reconcíliese== [F] - ἀφιέναι (V-PAN) abandonar [NF]  → ἐὰν = si [i]  → δὲ = pero [c]  → καὶ = también  → ἢ = o  → καὶ = y  → μὴ = no  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-11"
+  },
+  {
+    "title": "1Corintios 7:12",
+    "content": "Τοῖς δὲ λοιποῖς ⸂λέγω ἐγώ⸃, οὐχ ὁ κύριος· εἴ τις ἀδελφὸς γυναῖκα ἔχει ἄπιστον, καὶ αὕτη συνευδοκεῖ οἰκεῖν μετʼ αὐτοῦ, μὴ ἀφιέτω αὐτήν·  - λέγω (V-PAI-1S) ==digo== [F] - ἔχει (V-PAI-3S) ==tiene== [F] - συνευδοκεῖ (V-PAI-3S) ==consiente== [F] - οἰκεῖν (V-PAN) vivir [NF] - ἀφιέτω (V-PAM-3S) ==abandone== [F]  → δὲ = pero [c]  → οὐχ = no  → εἴ = si [i]  → καὶ = y  → μὴ = no  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-12"
+  },
+  {
+    "title": "1Corintios 7:13",
+    "content": "καὶ γυνὴ ⸂εἴ τις⸃ ἔχει ἄνδρα ἄπιστον, καὶ ⸀οὗτος συνευδοκεῖ οἰκεῖν μετʼ αὐτῆς, μὴ ἀφιέτω ⸂τὸν ἄνδρα⸃.  - ἔχει (V-PAI-3S) ==tiene== [F] - συνευδοκεῖ (V-PAI-3S) ==consiente== [F] - οἰκεῖν (V-PAN) vivir [NF] - ἀφιέτω (V-PAM-3S) ==abandone== [F]  → καὶ = y  → εἴ = si [i]  → καὶ = y  → μὴ = no  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-13"
+  },
+  {
+    "title": "1Corintios 7:14",
+    "content": "ἡγίασται γὰρ ὁ ἀνὴρ ὁ ἄπιστος ἐν τῇ γυναικί, καὶ ἡγίασται ἡ γυνὴ ἡ ἄπιστος ἐν τῷ ⸀ἀδελφῷ· ἐπεὶ ἄρα τὰ τέκνα ὑμῶν ἀκάθαρτά ἐστιν, νῦν δὲ ἅγιά ἐστιν.  - ἡγίασται (V-RPI-3S) ==ha sido santificado== [F] - ἡγίασται (V-RPI-3S) ==ha sido santificada== [F] - ἐστιν (V-PAI-3S) ==son== [F] - ἐστιν (V-PAI-3S) ==son== [F]  → γὰρ = porque [i]  → καὶ = y  → ἐπεὶ = puesto que [i]  → ἄρα = entonces  → νῦν = ahora  → δὲ = pero [c]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-14"
+  },
+  {
+    "title": "1Corintios 7:15",
+    "content": "εἰ δὲ ὁ ἄπιστος χωρίζεται, χωριζέσθω· οὐ δεδούλωται ὁ ἀδελφὸς ἢ ἡ ἀδελφὴ ἐν τοῖς τοιούτοις, ἐν δὲ εἰρήνῃ κέκληκεν ⸀ἡμᾶς ὁ θεός.  - χωρίζεται (V-PPI-3S) ==se separa== [F] - χωριζέσθω (V-PMM-3S) ==sepárese== [F] - δεδούλωται (V-RPI-3S) ==ha sido esclavizado== [F] - κέκληκεν (V-RAI-3S) ==ha llamado== [F]  → εἰ = si [i]  → δὲ = pero [c]  → οὐ = no  → ἢ = o  → δὲ = pero [c]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-15"
+  },
+  {
+    "title": "1Corintios 7:16",
+    "content": "τί γὰρ οἶδας, γύναι, εἰ τὸν ἄνδρα σώσεις; ἢ τί οἶδας, ἄνερ, εἰ τὴν γυναῖκα σώσεις;  - οἶδας (V-RAI-2S) ==sabes== [F] - σώσεις (V-FAI-2S) ==salvarás== [F] - οἶδας (V-RAI-2S) ==sabes== [F] - σώσεις (V-FAI-2S) ==salvarás== [F]  → γὰρ = porque [i]  → εἰ = si [i]  → ἢ = o  → εἰ = si [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-16"
+  },
+  {
+    "title": "1Corintios 7:17",
+    "content": "Εἰ μὴ ἑκάστῳ ὡς ⸀ἐμέρισεν ὁ ⸀κύριος, ἕκαστον ὡς κέκληκεν ὁ ⸀θεός, οὕτως περιπατείτω· καὶ οὕτως ἐν ταῖς ἐκκλησίαις πάσαις διατάσσομαι.  - ἐμέρισεν (V-AAI-3S) ==ha asignado== [F] - κέκληκεν (V-RAI-3S) ==ha llamado== [F] - περιπατείτω (V-PAM-3S) ==ande== [F] - διατάσσομαι (V-PMI-1S) ==ordeno== [F]  → εἰ = si [i]  → μὴ = no  → ὡς = como [i]  → ὡς = como [i]  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-17"
+  },
+  {
+    "title": "1Corintios 7:18",
+    "content": "περιτετμημένος τις ἐκλήθη; μὴ ἐπισπάσθω· ἐν ἀκροβυστίᾳ ⸂κέκληταί τις⸃; μὴ περιτεμνέσθω.  - περιτετμημένος (V-RPP-NSM) circuncidado [NF] - ἐκλήθη (V-API-3S) ==fue llamado== [F] - ἐπισπάσθω (V-PMM-3S) ==no se haga incircunciso== [F] - κέκληται (V-RPI-3S) ==ha sido llamado== [F] - περιτεμνέσθω (V-PPM-3S) ==no se circuncide== [F]  → μὴ = no  → μὴ = no  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-18"
+  },
+  {
+    "title": "1Corintios 7:19",
+    "content": "ἡ περιτομὴ οὐδέν ἐστιν, καὶ ἡ ἀκροβυστία οὐδέν ἐστιν, ἀλλὰ τήρησις ἐντολῶν θεοῦ.  - ἐστιν (V-PAI-3S) ==es== [F] - ἐστιν (V-PAI-3S) ==es== [F]  → οὐδέν = nada  → καὶ = y  → οὐδέν = nada  → ἀλλὰ = sino [c]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-19"
+  },
+  {
+    "title": "1Corintios 7:20",
+    "content": "ἕκαστος ἐν τῇ κλήσει ᾗ ἐκλήθη ἐν ταύτῃ μενέτω.  - ἐκλήθη (V-API-3S) ==fue llamado== [F] - μενέτω (V-PAM-3S) ==permanezca== [F]  → ᾗ = en la cual [i]",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-20"
+  },
+  {
+    "title": "1Corintios 7:21",
+    "content": "δοῦλος ἐκλήθης; μή σοι μελέτω· ἀλλʼ εἰ καὶ δύνασαι ἐλεύθερος γενέσθαι, μᾶλλον χρῆσαι.  - ἐκλήθης (V-API-2S) ==fuiste llamado== [F] - μελέτω (V-PAM-3S) ==te preocupe== [F] - δύνασαι (V-PNI-2S) ==puedes== [F] - γενέσθαι (V-ADN) llegar a ser [NF] - χρῆσαι (V-AMM-2S) ==aprovéchate== [F]  → μή = no  → ἀλλʼ = sino [c]  → εἰ = si [i]  → καὶ = también  → μᾶλλον = más bien  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-21"
+  },
+  {
+    "title": "1Corintios 7:22",
+    "content": "ὁ γὰρ ἐν κυρίῳ κληθεὶς δοῦλος ἀπελεύθερος κυρίου ἐστίν· ὁμοίως ὁ ἐλεύθερος κληθεὶς δοῦλός ἐστιν Χριστοῦ.  - κληθεὶς (V-APP-NSM) habiendo sido llamado [NF] - ἐστίν (V-PAI-3S) ==es== [F] - κληθεὶς (V-APP-NSM) habiendo sido llamado [NF] - ἐστιν (V-PAI-3S) ==es== [F]  → γὰρ = porque [i]  → ὁμοίως = de la misma manera  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-22"
+  },
+  {
+    "title": "1Corintios 7:23",
+    "content": "τιμῆς ἠγοράσθητε· μὴ γίνεσθε δοῦλοι ἀνθρώπων.  - ἠγοράσθητε (V-API-2P) ==fueron comprados== [F] - γίνεσθε (V-PMM-2P) ==se hagan== [F]  → μὴ = no  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-23"
+  },
+  {
+    "title": "1Corintios 7:24",
+    "content": "ἕκαστος ἐν ᾧ ἐκλήθη, ἀδελφοί, ἐν τούτῳ μενέτω παρὰ θεῷ.  - ἐκλήθη (V-API-3S) ==fue llamado== [F] - μενέτω (V-PAM-3S) ==permanezca== [F]  → ᾧ = en lo cual [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-24"
+  },
+  {
+    "title": "1Corintios 7:25",
+    "content": "Περὶ δὲ τῶν παρθένων ἐπιταγὴν κυρίου οὐκ ἔχω, γνώμην δὲ δίδωμι ὡς ἠλεημένος ὑπὸ κυρίου πιστὸς εἶναι.  - ἔχω (V-PAI-1S) ==tengo== [F] - δίδωμι (V-PAI-1S) ==doy== [F] - ἠλεημένος (V-RPP-NSM) habiendo recibido misericordia [NF] - εἶναι (V-PAN) ser [NF]  → δὲ = pero [c]  → οὐκ = no  → δὲ = pero [c]  → ὡς = como [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-25"
+  },
+  {
+    "title": "1Corintios 7:26",
+    "content": "νομίζω οὖν τοῦτο καλὸν ὑπάρχειν διὰ τὴν ἐνεστῶσαν ἀνάγκην, ὅτι καλὸν ἀνθρώπῳ τὸ οὕτως εἶναι.  - νομίζω (V-PAI-1S) ==considero== [F] - ὑπάρχειν (V-PAN) ser [NF] - εἶναι (V-PAN) ser [NF]  → οὖν = entonces [c]  → διὰ = por causa de  → ὅτι = que [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-26"
+  },
+  {
+    "title": "1Corintios 7:27",
+    "content": "δέδεσαι γυναικί; μὴ ζήτει λύσιν· λέλυσαι ἀπὸ γυναικός; μὴ ζήτει γυναῖκα.  - δέδεσαι (V-RPI-2S) ==estás ligado== [F] - ζήτει (V-PAM-2S) ==busques== [F] - λέλυσαι (V-RPI-2S) ==estás libre== [F] - ζήτει (V-PAM-2S) ==busques== [F]  → μὴ = no  → μὴ = no  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-27"
+  },
+  {
+    "title": "1Corintios 7:28",
+    "content": "ἐὰν δὲ καὶ γαμήσῃς, οὐχ ἥμαρτες· καὶ ἐὰν γήμῃ ἡ παρθένος, οὐχ ἥμαρτεν· θλῖψιν δὲ τῇ σαρκὶ ἕξουσιν οἱ τοιοῦτοι, ἐγὼ δὲ ὑμῶν φείδομαι.  - γαμήσῃς (V-AAS-2S) ==te casas== [F] - ἥμαρτες (V-AAI-2S) ==pecaste== [F] - γήμῃ (V-PAS-3S) ==se casa== [F] - ἥμαρτεν (V-AAI-3S) ==pecó== [F] - ἕξουσιν (V-FAI-3P) ==tendrán== [F] - φείδομαι (V-PMI-1S) ==evito== [F]  → ἐὰν = si [i]  → δὲ = pero [c]  → καὶ = también  → οὐχ = no  → καὶ = y  → ἐὰν = si [i]  → οὐχ = no  → δὲ = pero [c]  → δὲ = pero [c]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-28"
+  },
+  {
+    "title": "1Corintios 7:29",
+    "content": "τοῦτο δέ φημι, ἀδελφοί, ὁ καιρὸς συνεσταλμένος ἐστίν· τὸ λοιπόν, ἵνα καὶ οἱ ἔχοντες γυναῖκας ὡς μὴ ἔχοντες ὦσιν  - φημι (V-PAI-1S) ==digo== [F] - συνεσταλμένος (V-RPP-NSM) acortado [NF] - ἐστίν (V-PAI-3S) ==es== [F] - ἔχοντες (V-PAP-NPM) teniendo [NF] - ἔχοντες (V-PAP-NPM) teniendo [NF] - ὦσιν (V-PAS-3P) ==sean== [F]  → δέ = pero [c]  → ἵνα = para que [i]  → καὶ = también  → ὡς = como [i]  → μὴ = no  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-29"
+  },
+  {
+    "title": "1Corintios 7:30",
+    "content": "καὶ οἱ κλαίοντες ὡς μὴ κλαίοντες, καὶ οἱ χαίροντες ὡς μὴ χαίροντες, καὶ οἱ ἀγοράζοντες ὡς μὴ κατέχοντες,  - κλαίοντες (V-PAP-NPM) llorando [NF] - κλαίοντες (V-PAP-NPM) llorando [NF] - χαίροντες (V-PAP-NPM) gozándose [NF] - χαίροντες (V-PAP-NPM) gozándose [NF] - ἀγοράζοντες (V-PAP-NPM) comprando [NF] - κατέχοντες (V-PAP-NPM) poseyendo [NF]  → καὶ = y  → ὡς = como [i]  → μὴ = no  → καὶ = y  → ὡς = como [i]  → μὴ = no  → καὶ = y  → ὡς = como [i]  → μὴ = no",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-30"
+  },
+  {
+    "title": "1Corintios 7:31",
+    "content": "καὶ οἱ χρώμενοι τὸν κόσμον ὡς μὴ καταχρώμενοι· παράγει γὰρ τὸ σχῆμα τοῦ κόσμου τούτου.  - χρώμενοι (V-PMP-NPM) usando [NF] - καταχρώμενοι (V-PMP-NPM) usando plenamente [NF] - παράγει (V-PAI-3S) ==pasa== [F]  → καὶ = y  → ὡς = como [i]  → μὴ = no  → γὰρ = porque [i]  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-31"
+  },
+  {
+    "title": "1Corintios 7:32",
+    "content": "Θέλω δὲ ὑμᾶς ἀμερίμνους εἶναι. ὁ ἄγαμος μεριμνᾷ τὰ τοῦ κυρίου, πῶς ἀρέσῃ τῷ κυρίῳ·  - Θέλω (V-PAI-1S) ==quiero== [F] - εἶναι (V-PAN) ser [NF] - μεριμνᾷ (V-PAI-3S) ==se preocupa== [F] - ἀρέσῃ (V-AAS-3S) ==agrade== [F]  → δὲ = pero [c]  → πῶς = cómo  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-32"
+  },
+  {
+    "title": "1Corintios 7:33",
+    "content": "ὁ δὲ γαμήσας μεριμνᾷ τὰ τοῦ κόσμου, πῶς ἀρέσῃ τῇ γυναικί,  - γαμήσας (V-AAP-NSM) habiéndose casado [NF] - μεριμνᾷ (V-PAI-3S) ==se preocupa== [F] - ἀρέσῃ (V-AAS-3S) ==agrade== [F]  → δὲ = pero [c]  → πῶς = cómo  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-33"
+  },
+  {
+    "title": "1Corintios 7:34",
+    "content": "καὶ ⸀μεμέρισται· καὶ ἡ γυνὴ ἡ ⸀ἄγαμος καὶ ἡ παρθένος μεριμνᾷ τὰ τοῦ κυρίου, ἵνα ᾖ ἁγία καὶ τῷ σώματι καὶ τῷ πνεύματι· ἡ δὲ γαμήσασα μεριμνᾷ τὰ τοῦ κόσμου, πῶς ἀρέσῃ τῷ ἀνδρί.  - μεμέρισται (V-RPI-3S) ==está dividida== [F] - μεριμνᾷ (V-PAI-3S) ==se preocupa== [F] - ᾖ (V-PAS-3S) ==sea== [F] - μεριμνᾷ (V-PAI-3S) ==se preocupa== [F] - ἀρέσῃ (V-AAS-3S) ==agrade== [F] - γαμήσασα (V-AAP-NSF) habiéndose casado [NF]  → καὶ = y  → καὶ = y  → ἵνα = para que [i]  → καὶ = y  → καὶ = y  → δὲ = pero [c]  → πῶς = cómo  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-34"
+  },
+  {
+    "title": "1Corintios 7:35",
+    "content": "τοῦτο δὲ πρὸς τὸ ⸀ὑμῶν αὐτῶν σύμφορον λέγω, οὐχ ἵνα βρόχον ⸀ὑμῖν ἐπιβάλω, ἀλλὰ πρὸς τὸ εὔσχημον καὶ εὐπάρεδρον τῷ κυρίῳ ἀπερισπάστως.  - λέγω (V-PAI-1S) ==digo== [F] - ἐπιβάλω (V-AAS-1S) ==imponga== [F]  → δὲ = pero [c]  → πρὸς = para  → οὐχ = no  → ἵνα = para que [i]  → ἀλλὰ = sino [c]  → πρὸς = para  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-35"
+  },
+  {
+    "title": "1Corintios 7:36",
+    "content": "Εἰ δέ τις ἀσχημονεῖν ἐπὶ τὴν παρθένον αὐτοῦ ⸀νομίζει, ἐὰν ᾖ ὑπέρακμος καὶ οὕτως ⸀ὀφείλει ⸀γίνεσθαι, ὃ θέλει ποιείτω· οὐχ ἁμαρτάνει, γαμείτωσαν.  - ἀσχημονεῖν (V-PAN) comportarse indebidamente [NF] - νομίζει (V-PAI-3S) ==considera== [F] - ᾖ (V-PAS-3S) ==sea== [F] - ὀφείλει (V-PAI-3S) ==debe== [F] - γίνεσθαι (V-PMN) llegar a ser [NF] - θέλει (V-PAI-3S) ==quiere== [F] - ποιείτω (V-PAM-3S) ==haga== [F] - ἁμαρτάνει (V-PAI-3S) ==peca== [F] - γαμείτωσαν (V-PAM-3P) ==cásense== [F]  → Εἰ = si [i]  → δέ = pero [c]  → ἐὰν = si [i]  → καὶ = y  → ὃ = lo que [i]  → οὐχ = no  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-36"
+  },
+  {
+    "title": "1Corintios 7:37",
+    "content": "ὃς δὲ ἕστηκεν ἐν τῇ καρδίᾳ αὐτοῦ ⸀ἑδραῖος, μὴ ἔχων ἀνάγκην, ἐξουσίαν δὲ ἔχει περὶ τοῦ ἰδίου θελήματος, καὶ τοῦτο κέκρικεν ἐν τῇ ⸀ἰδίᾳ καρδίᾳ τηρεῖν τὴν ἑαυτοῦ παρθένον, καλῶς ποιήσει·  - ἕστηκεν (V-RAI-3S) ==está firme== [F] - ἔχων (V-PAP-NSM) teniendo [NF] - ἔχει (V-PAI-3S) ==tiene== [F] - κέκρικεν (V-RAI-3S) ==ha decidido== [F] - τηρεῖν (V-PAN) guardar [NF] - ποιήσει (V-FAI-3S) ==hará== [F]  → ὃς = el que [i]  → δὲ = pero [c]  → μὴ = no  → δὲ = pero [c]  → καὶ = y  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-37"
+  },
+  {
+    "title": "1Corintios 7:38",
+    "content": "ὥστε καὶ ὁ ⸀γαμίζων τὴν ⸀ἑαυτοῦ παρθένον καλῶς ποιεῖ, καὶ ὁ μὴ ⸀γαμίζων κρεῖσσον ποιήσει.  - γαμίζων (V-PAP-NSM) dando en matrimonio [NF] - ποιεῖ (V-PAI-3S) ==hace== [F] - γαμίζων (V-PAP-NSM) dando en matrimonio [NF] - ποιήσει (V-FAI-3S) ==hará== [F]  → ὥστε = de modo que [i]  → καὶ = y  → καὶ = y  → μὴ = no  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-38"
+  },
+  {
+    "title": "1Corintios 7:39",
+    "content": "γυνὴ δέδεται ἐφʼ ὅσον χρόνον ζῇ ὁ ἀνήρ· ἐὰν δὲ ⸀κοιμηθῇ ὁ ἀνήρ, ἐλευθέρα ἐστὶν ᾧ θέλει γαμηθῆναι, μόνον ἐν κυρίῳ.  - δέδεται (V-RPI-3S) ==está ligada== [F] - ζῇ (V-PAI-3S) ==vive== [F] - κοιμηθῇ (V-APS-3S) ==muera== [F] - ἐστὶν (V-PAI-3S) ==es== [F] - θέλει (V-PAI-3S) ==quiera== [F] - γαμηθῆναι (V-APN) casarse [NF]  → ἐφʼ = mientras  → ἐὰν = si [i]  → δὲ = pero [c]  → μόνον = solamente  ------",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-39"
+  },
+  {
+    "title": "1Corintios 7:40",
+    "content": "μακαριωτέρα δέ ἐστιν ἐὰν οὕτως μείνῃ, κατὰ τὴν ἐμὴν γνώμην· δοκῶ δὲ κἀγὼ πνεῦμα θεοῦ ἔχειν.  - ἐστιν (V-PAI-3S) ==es== [F] - μείνῃ (V-AAS-3S) ==permanezca== [F] - δοκῶ (V-PAI-1S) ==pienso== [F] - ἔχειν (V-PAN) tener [NF]  → δέ = pero [c]  → ἐὰν = si [i]  → κατὰ = según  → δὲ = pero [c]",
+    "url": "/roots/roots-dataset/1corintios-data/#1co-7-40"
+  },
+  {
+    "title": "Colosenses 1:1",
+    "content": "Παῦλος ἀπόστολος ⸂Χριστοῦ Ἰησοῦ⸃ διὰ θελήματος θεοῦ καὶ Τιμόθεος ὁ ἀδελφὸς  [Pablo , apóstol de Jesucristo por la voluntad de Dios, y el hermano Timoteo,]  → καὶ = y",
+    "url": "/roots/roots-dataset/colosenses-data/#col-1-1"
+  },
+  {
+    "title": "Colosenses 1:2",
+    "content": "τοῖς ἐν ⸀Κολοσσαῖς ἁγίοις καὶ πιστοῖς ἀδελφοῖς ἐν Χριστῷ· χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ⸀ἡμῶν.  [a los santos y fieles hermanos en Cristo que están en Colosas: Gracia a ustedes y paz de parte de Dios nuestro Padre.]  → καὶ = y → καὶ = y",
+    "url": "/roots/roots-dataset/colosenses-data/#col-1-2"
+  },
+  {
+    "title": "Colosenses 1:3",
+    "content": "Εὐχαριστοῦμεν τῷ ⸀θεῷ πατρὶ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ πάντοτε ⸀περὶ ὑμῶν προσευχόμενοι,  [Damos gracias a Dios, el Padre de nuestro Señor Jesucristo, orando siempre por ustedes,]  - Εὐχαριστοῦμεν (V-PAI-1P) ==damos gracias== [F] - προσευχόμενοι (V-PMP-NPM) orando [NF]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-1-3"
+  },
+  {
+    "title": "Colosenses 1:4",
+    "content": "ἀκούσαντες τὴν πίστιν ὑμῶν ἐν Χριστῷ Ἰησοῦ καὶ τὴν ἀγάπην ⸂ἣν ἔχετε⸃ εἰς πάντας τοὺς ἁγίους  [pues hemos oído de su fe en Cristo Jesús y del amor que tienen por todos los santos,]  - ἀκούσαντες (V-AAP-NPM) habiendo oído [NF] - ἔχετε (V-PAI-2P) ==tienen== [F] → καὶ = y → ἣν = la cual [i]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-1-4"
+  },
+  {
+    "title": "Colosenses 1:5",
+    "content": "διὰ τὴν ἐλπίδα τὴν ἀποκειμένην ὑμῖν ἐν τοῖς οὐρανοῖς, ἣν προηκούσατε ἐν τῷ λόγῳ τῆς ἀληθείας τοῦ εὐαγγελίου  [a causa de la esperanza reservada para ustedes en los cielos. De esta esperanza ustedes oyeron antes en la palabra de verdad, el evangelio]  - ἀποκειμένην (V-PMP-ASF) reservada [NF] - προηκούσατε (V-AAI-2P) ==oyeron antes== [F] → διὰ = a causa de → ἣν = la cual [i]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-1-5"
+  },
+  {
+    "title": "Colosenses 1:6",
+    "content": "τοῦ παρόντος εἰς ὑμᾶς, καθὼς καὶ ἐν παντὶ τῷ ⸀κόσμῳ ἐστὶν καρποφορούμενον καὶ αὐξανόμενον καθὼς καὶ ἐν ὑμῖν, ἀφʼ ἧς ἡμέρας ἠκούσατε καὶ ἐπέγνωτε τὴν χάριν τοῦ θεοῦ ἐν ἀληθείᾳ· [que ha llegado hasta ustedes. Así como en todo el mundo está dando fruto constantemente y creciendo, así lo ha estado haciendo también en ustedes, desde el día que oyeron y comprendieron la gracia de Dios en verdad.]  - παρόντος (V-PAP-GSN) estando presente [NF] - ἐστὶν (V-PAI-3S) ==está== [F] - καρποφορούμενον (V-PPP-NSN) dando fruto [NF] - αὐξανόμενον (V-PMP-NSN) creciendo [NF] - ἠκούσατε (V-AAI-2P) ==oyeron== [F] - ἐπέγνωτε (V-AAI-2P) ==comprendieron== [F]  → καθὼς = así como [i] → καὶ = también → καὶ = y → καθὼς = así como [i] → καὶ = también → ἀφʼ = desde → ἧς = la cual [i] → καὶ = y",
+    "url": "/roots/roots-dataset/colosenses-data/#col-1-6"
+  },
+  {
+    "title": "Colosenses 1:7",
+    "content": "⸀καθὼς ἐμάθετε ἀπὸ Ἐπαφρᾶ τοῦ ἀγαπητοῦ συνδούλου ἡμῶν, ὅς ἐστιν πιστὸς ὑπὲρ ⸀ἡμῶν διάκονος τοῦ Χριστοῦ,  [Así ustedes lo aprendieron de Epafras, nuestro amado consiervo, quien es fiel servidor de Cristo de parte nuestra,]  - ἐμάθετε (V-AAI-2P) ==aprendieron== [F] - ἐστιν (V-PAI-3S) ==es== [F]  → καθὼς = así como [i] → ὅς = quien [i]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-1-7"
+  },
+  {
+    "title": "Colosenses 1:8",
+    "content": "ὁ καὶ δηλώσας ἡμῖν τὴν ὑμῶν ἀγάπην ἐν πνεύματι.  [el cual también nos informó acerca del amor de ustedes en el Espíritu.]  - δηλώσας (V-AAP-NSM) habiendo informado [NF]  → καὶ = también",
+    "url": "/roots/roots-dataset/colosenses-data/#col-1-8"
+  },
+  {
+    "title": "Colosenses 1:9",
+    "content": "Διὰ τοῦτο καὶ ἡμεῖς, ἀφʼ ἧς ἡμέρας ἠκούσαμεν, οὐ παυόμεθα ὑπὲρ ὑμῶν προσευχόμενοι καὶ αἰτούμενοι ἵνα πληρωθῆτε τὴν ἐπίγνωσιν τοῦ θελήματος αὐτοῦ ἐν πάσῃ σοφίᾳ καὶ συνέσει πνευματικῇ,  [Por esta razón, también nosotros, desde el día que lo supimos, no hemos cesado de orar por ustedes, pidiendo que sean llenos del conocimiento de Su voluntad en toda sabiduría y comprensión espiritual,]  - ἠκούσαμεν (V-AAI-1P) ==oímos== [F] - παυόμεθα (V-PMI-1P) ==cesamos== [F] - προσευχόμενοι (V-PMP-NPM) orando [NF] - αἰτούμενοι (V-PMP-NPM) pidiendo [NF] - πληρωθῆτε (V-APS-2P) ==sean llenos== [F]  → Διὰ τοῦτο = por esta razón [c] → καὶ = también → ἀφʼ = desde → ἧς = la cual [i] → οὐ = no → καὶ = y → ἵνα = para que [i] → καὶ = y",
+    "url": "/roots/roots-dataset/colosenses-data/#col-1-9"
+  },
+  {
+    "title": "Colosenses 1:10",
+    "content": "⸀περιπατῆσαι ἀξίως τοῦ κυρίου εἰς πᾶσαν ἀρεσκείαν ἐν παντὶ ἔργῳ ἀγαθῷ καρποφοροῦντες καὶ αὐξανόμενοι ⸂τῇ ἐπιγνώσει⸃ τοῦ θεοῦ,  [para que anden como es digno del Señor, haciendo en todo, lo que le agrada, dando fruto en toda buena obra y creciendo en el conocimiento de Dios.]  - περιπατῆσαι (V-AAN) andar [NF] - καρποφοροῦντες (V-PAP-NPM) dando fruto [NF] - αὐξανόμενοι (V-PMP-NPM) creciendo [NF]  → εἰς = para → καὶ = y",
+    "url": "/roots/roots-dataset/colosenses-data/#col-1-10"
+  },
+  {
+    "title": "Colosenses 1:11",
+    "content": "ἐν πάσῃ δυνάμει δυναμούμενοι κατὰ τὸ κράτος τῆς δόξης αὐτοῦ εἰς πᾶσαν ὑπομονὴν καὶ μακροθυμίαν μετὰ χαρᾶς,  [Rogamos que ustedes sean fortalecidos con todo poder según la potencia de Su gloria, para obtener toda perseverancia y paciencia, con gozo]  - δυναμούμενοι (V-PPP-NPM) siendo fortalecidos [NF]  → καὶ = y",
+    "url": "/roots/roots-dataset/colosenses-data/#col-1-11"
+  },
+  {
+    "title": "Colosenses 1:12",
+    "content": "εὐχαριστοῦντες τῷ πατρὶ τῷ ἱκανώσαντι ⸀ὑμᾶς εἰς τὴν μερίδα τοῦ κλήρου τῶν ἁγίων ἐν τῷ φωτί,  [dando gracias al Padre que nos ha capacitado para compartir la herencia de los santos en la Luz.]  - εὐχαριστοῦντες (V-PAP-NPM) dando gracias [NF] - ἱκανώσαντι (V-AAP-DSM) habiendo capacitado [NF]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-1-12"
+  },
+  {
+    "title": "Colosenses 1:13",
+    "content": "ὃς ἐρρύσατο ἡμᾶς ἐκ τῆς ἐξουσίας τοῦ σκότους καὶ μετέστησεν εἰς τὴν βασιλείαν τοῦ υἱοῦ τῆς ἀγάπης αὐτοῦ,  [Porque Él nos libró del dominio de las tinieblas y nos trasladó al reino de Su Hijo amado,]  - ἐρρύσατο (V-AMI-3S) ==libró== [F] - μετέστησεν (V-AAI-3S) ==trasladó== [F]  → ὃς = el cual [i] → καὶ = y",
+    "url": "/roots/roots-dataset/colosenses-data/#col-1-13"
+  },
+  {
+    "title": "Colosenses 1:14",
+    "content": "ἐν ᾧ ἔχομεν τὴν ἀπολύτρωσιν, τὴν ἄφεσιν τῶν ἁμαρτιῶν·  [en quien tenemos redención: el perdón de los pecados.]  - ἔχομεν (V-PAI-1P) ==tenemos== [F]  → ἐν ᾧ = en quien [i]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-1-14"
+  },
+  {
+    "title": "Colosenses 1:15",
+    "content": "ὅς ἐστιν εἰκὼν τοῦ θεοῦ τοῦ ἀοράτου, πρωτότοκος πάσης κτίσεως,  [Él es la imagen del Dios invisible, el primogénito de toda creación.]  - ἐστιν (V-PAI-3S) ==es== [F]  → ὅς = el cual [i]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-1-15"
+  },
+  {
+    "title": "Colosenses 1:16",
+    "content": "ὅτι ἐν αὐτῷ ἐκτίσθη τὰ ⸀πάντα ἐν τοῖς οὐρανοῖς ⸀καὶ ἐπὶ τῆς γῆς, τὰ ὁρατὰ καὶ τὰ ἀόρατα, εἴτε θρόνοι εἴτε κυριότητες εἴτε ἀρχαὶ εἴτε ἐξουσίαι· τὰ πάντα διʼ αὐτοῦ καὶ εἰς αὐτὸν ἔκτισται·  [Porque en Él fueron creadas todas las cosas, tanto en los cielos como en la tierra, visibles e invisibles; ya sean tronos o dominios o poderes o autoridades; todo ha sido creado por medio de Él y para Él.]  - ἐκτίσθη (V-API-3S) ==fueron creadas== [F] - ἔκτισται (V-RPI-3S) ==han sido creadas== [F]  → ὅτι = porque [i] → καὶ = y → καὶ = y → καὶ = y",
+    "url": "/roots/roots-dataset/colosenses-data/#col-1-16"
+  },
+  {
+    "title": "Colosenses 1:17",
+    "content": "καὶ αὐτός ἐστιν πρὸ πάντων καὶ τὰ πάντα ἐν αὐτῷ συνέστηκεν,  [Y Él es antes de todas las cosas, y en Él todas las cosas permanecen.]  - ἐστιν (V-PAI-3S) ==es== [F] - συνέστηκεν (V-RAI-3S) ==permanecen== [F]  → καὶ = y → καὶ = y",
+    "url": "/roots/roots-dataset/colosenses-data/#col-1-17"
+  },
+  {
+    "title": "Colosenses 1:18",
+    "content": "καὶ αὐτός ἐστιν ἡ κεφαλὴ τοῦ σώματος τῆς ἐκκλησίας· ὅς ⸀ἐστιν ἀρχή, πρωτότοκος ἐκ τῶν νεκρῶν, ἵνα γένηται ἐν πᾶσιν αὐτὸς πρωτεύων,  [Él es también la cabeza del cuerpo que es la iglesia. Él es el principio, el primogénito de entre los muertos, a fin de que Él tenga en todo la primacía.]  - ἐστιν (V-PAI-3S) ==es== [F] - ἐστιν (V-PAI-3S) ==es== [F] - γένηται (V-ADS-3S) ==llegue a ser== [F]  → καὶ = y → ὅς = el cual [i] → ἵνα = para que [i]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-1-18"
+  },
+  {
+    "title": "Colosenses 1:19",
+    "content": "ὅτι ἐν αὐτῷ εὐδόκησεν πᾶν τὸ πλήρωμα κατοικῆσαι  [Porque agradó al Padre que en Él habitara toda la plenitud,]  - εὐδόκησεν (V-AAI-3S) ==agradó== [F] - κατοικῆσαι (V-AAN) habitar [NF]  → ὅτι = porque [i]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-1-19"
+  },
+  {
+    "title": "Colosenses 1:20",
+    "content": "καὶ διʼ αὐτοῦ ἀποκαταλλάξαι τὰ πάντα εἰς αὐτόν, εἰρηνοποιήσας διὰ τοῦ αἵματος τοῦ σταυροῦ αὐτοῦ, ⸂[διʼ αὐτοῦ]⸃ εἴτε τὰ ἐπὶ τῆς γῆς εἴτε τὰ ⸀ἐν τοῖς οὐρανοῖς·  [y por medio de Él reconciliar todas las cosas consigo, habiendo hecho la paz por medio de la sangre de Su cruz, por medio de Él, repito, ya sean las que están en la tierra o las que están en los cielos.]  - ἀποκαταλλάξαι (V-AAN) reconciliar [NF] - εἰρηνοποιήσας (V-AAP-NSM) habiendo hecho paz [NF]  → καὶ = y → διʼ = por medio de → εἴτε = ya sea → εἴτε = ya sea",
+    "url": "/roots/roots-dataset/colosenses-data/#col-1-20"
+  },
+  {
+    "title": "Colosenses 1:21",
+    "content": "Καὶ ὑμᾶς ποτε ὄντας ἀπηλλοτριωμένους καὶ ἐχθροὺς τῇ διανοίᾳ ἐν τοῖς ἔργοις τοῖς πονηροῖς  [Y aunque ustedes antes estaban alejados y eran de ánimo hostil, ocupados en malas obras,]  - ὄντας (V-PAP-APM) siendo [NF] - ἀπηλλοτριωμένους (V-RPP-APM) habiendo sido alejados [NF]  → καὶ = y",
+    "url": "/roots/roots-dataset/colosenses-data/#col-1-21"
+  },
+  {
+    "title": "Colosenses 1:22",
+    "content": "νυνὶ δὲ ἀποκατήλλαξεν ἐν τῷ σώματι τῆς σαρκὸς αὐτοῦ διὰ τοῦ θανάτου παραστῆσαι ὑμᾶς ἁγίους καὶ ἀμώμους καὶ ἀνεγκλήτους κατενώπιον αὐτοῦ,  [sin embargo, ahora Dios los ha reconciliado en Cristo en Su cuerpo de carne, mediante Su muerte, a fin de presentarlos santos, sin mancha e irreprensibles delante de Él.]  - ἀποκατήλλαξεν (V-AAI-3S) ==reconcilió== [F] - παραστῆσαι (V-AAN) presentar [NF]  → νυνὶ = ahora → δὲ = pero [c] → καὶ = y → καὶ = y",
+    "url": "/roots/roots-dataset/colosenses-data/#col-1-22"
+  },
+  {
+    "title": "Colosenses 1:23",
+    "content": "εἴ γε ἐπιμένετε τῇ πίστει τεθεμελιωμένοι καὶ ἑδραῖοι καὶ μὴ μετακινούμενοι ἀπὸ τῆς ἐλπίδος τοῦ εὐαγγελίου οὗ ἠκούσατε τοῦ κηρυχθέντος ἐν πάσῃ κτίσει τῇ ὑπὸ τὸν οὐρανόν, οὗ ἐγενόμην ἐγὼ Παῦλος διάκονος.  [Esto Él hará si en verdad permanecen en la fe bien cimentados y constantes, sin moverse de la esperanza del evangelio que han oído, que fue proclamado a toda la creación debajo del cielo, y del cual yo, Pablo, fui hecho ministro.]  - ἐπιμένετε (V-PAI-2P) ==permanecen== [F] - τεθεμελιωμένοι (V-RPP-NPM) habiendo sido cimentados [NF] - μετακινούμενοι (V-PPP-NPM) siendo movidos [NF] - ἠκούσατε (V-AAI-2P) ==oyeron== [F] - κηρυχθέντος (V-APP-GSN) habiendo sido proclamado [NF] - ἐγενόμην (V-ADI-1S) ==fui hecho== [F]  → εἴ = si [i] → καὶ = y → καὶ = y → καὶ = y → μὴ = no → οὗ = del cual [i] → οὗ = del cual [i]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-1-23"
+  },
+  {
+    "title": "Colosenses 1:24",
+    "content": "Νῦν χαίρω ἐν τοῖς παθήμασιν ὑπὲρ ὑμῶν καὶ ἀνταναπληρῶ τὰ ⸀ὑστερήματα τῶν θλίψεων τοῦ Χριστοῦ ἐν τῇ σαρκί μου ὑπὲρ τοῦ σώματος αὐτοῦ, ὅ ἐστιν ἡ ἐκκλησία,  [Ahora me alegro de mis sufrimientos por ustedes, y en mi carne, completando lo que falta de las aflicciones de Cristo, hago mi parte por Su cuerpo, que es la iglesia.]  - χαίρω (V-PAI-1S) ==me alegro== [F] - ἀνταναπληρῶ (V-PAI-1S) ==completo== [F] - ἐστιν (V-PAI-3S) ==es== [F]  → Νῦν = ahora → καὶ = y → ὅ = el cual [i]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-1-24"
+  },
+  {
+    "title": "Colosenses 1:25",
+    "content": "ἧς ἐγενόμην ἐγὼ διάκονος κατὰ τὴν οἰκονομίαν τοῦ θεοῦ τὴν δοθεῖσάν μοι εἰς ὑμᾶς πληρῶσαι τὸν λόγον τοῦ θεοῦ,  [De esta iglesia fui hecho ministro conforme a la administración de Dios que me fue dada para beneficio de ustedes, a fin de llevar a cabo la predicación de la palabra de Dios,]  - ἐγενόμην (V-ADI-1S) ==fui hecho== [F] - δοθεῖσάν (V-APP-ASF) habiendo sido dada [NF] - πληρῶσαι (V-AAN) cumplir [NF]  → ἧς = de la cual [i]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-1-25"
+  },
+  {
+    "title": "Colosenses 1:26",
+    "content": "τὸ μυστήριον τὸ ἀποκεκρυμμένον ἀπὸ τῶν αἰώνων καὶ ἀπὸ τῶν γενεῶν νῦν δὲ ἐφανερώθη τοῖς ἁγίοις αὐτοῦ,  [es decir, el misterio que ha estado oculto desde los siglos y generaciones, pero que ahora ha sido manifestado a Sus santos,]  - ἀποκεκρυμμένον (V-RPP-ASN) habiendo sido oculto [NF] - ἐφανερώθη (V-API-3S) ==fue manifestado== [F]  → καὶ = y → καὶ = y → νῦν = ahora → δὲ = pero [c]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-1-26"
+  },
+  {
+    "title": "Colosenses 1:27",
+    "content": "οἷς ἠθέλησεν ὁ θεὸς γνωρίσαι τί τὸ πλοῦτος τῆς δόξης τοῦ μυστηρίου τούτου ἐν τοῖς ⸀ἔθνεσιν, ὅ ἐστιν Χριστὸς ἐν ὑμῖν, ἡ ἐλπὶς τῆς δόξης·  [a quienes Dios quiso dar a conocer cuáles son las riquezas de la gloria de este misterio entre los gentiles, que es Cristo en ustedes, la esperanza de la gloria.]  - ἠθέλησεν (V-AAI-3S) ==quiso== [F] - γνωρίσαι (V-AAN) dar a conocer [NF] - ἐστιν (V-PAI-3S) ==es== [F]  → οἷς = a quienes [i] → ὅ = lo cual [i]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-1-27"
+  },
+  {
+    "title": "Colosenses 1:28",
+    "content": "ὃν ἡμεῖς καταγγέλλομεν νουθετοῦντες πάντα ἄνθρωπον καὶ διδάσκοντες πάντα ἄνθρωπον ἐν πάσῃ σοφίᾳ ἵνα παραστήσωμεν πάντα ἄνθρωπον τέλειον ἐν Χριστῷ·  [A Él nosotros proclamamos, amonestando a todos los hombres, y enseñando a todos los hombres con toda sabiduría, a fin de poder presentar a todo hombre perfecto en Cristo.]  - καταγγέλλομεν (V-PAI-1P) ==proclamamos== [F] - νουθετοῦντες (V-PAP-NPM) amonestando [NF] - διδάσκοντες (V-PAP-NPM) enseñando [NF] - παραστήσωμεν (V-AAS-1P) ==presentemos== [F]  → ὃν = a quien [i] → καὶ = y → καὶ = y → ἵνα = para que [i]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-1-28"
+  },
+  {
+    "title": "Colosenses 1:29",
+    "content": "εἰς ὃ καὶ κοπιῶ ἀγωνιζόμενος κατὰ τὴν ἐνέργειαν αὐτοῦ τὴν ἐνεργουμένην ἐν ἐμοὶ ἐν δυνάμει.  [Con este fin también trabajo, esforzándome según Su poder que obra poderosamente en mí.]  - κοπιῶ (V-PAI-1S) ==trabajo== [F] - ἀγωνιζόμενος (V-PMP-NSM) esforzándome [NF] - ἐνεργουμένην (V-PPP-ASF) operando [NF]  → καὶ = también",
+    "url": "/roots/roots-dataset/colosenses-data/#col-1-29"
+  },
+  {
+    "title": "Colosenses 2:1",
+    "content": "Θέλω γὰρ ὑμᾶς εἰδέναι ἡλίκον ἀγῶνα ἔχω ⸀ὑπὲρ ὑμῶν καὶ τῶν ἐν Λαοδικείᾳ καὶ ὅσοι οὐχ ἑόρακαν τὸ πρόσωπόν μου ἐν σαρκί,  [Porque quiero que sepan cuán gran lucha tengo por ustedes, y por los que están en Laodicea, y por todos los que no han visto mi rostro en la carne.]  - Θέλω (V-PAI-1S) ==quiero== [F] - εἰδέναι (V-RAN) saber [NF] - ἔχω (V-PAI-1S) ==tengo== [F] - ἑόρακαν (V-RAI-3P) ==han visto== [F]  → γὰρ = porque [i] → καὶ = y → καὶ = y → ὅσοι = cuantos [i] → οὐχ = no",
+    "url": "/roots/roots-dataset/colosenses-data/#col-2-1"
+  },
+  {
+    "title": "Colosenses 2:2",
+    "content": "ἵνα παρακληθῶσιν αἱ καρδίαι αὐτῶν, ⸀συμβιβασθέντες ἐν ἀγάπῃ καὶ εἰς ⸂πᾶν πλοῦτος⸃ τῆς πληροφορίας τῆς συνέσεως, εἰς ἐπίγνωσιν τοῦ μυστηρίου τοῦ ⸀θεοῦ, Χριστοῦ,  [para que sus corazones sean consolados, habiendo sido unidos en amor y alcanzando todas las riquezas de pleno entendimiento, a fin de conocer el misterio de Dios, es decir, Cristo,]  - παρακληθῶσιν (V-APS-3P) ==sean consolados== [F] - συμβιβασθέντες (V-APP-NPM) habiendo sido unidos [NF]  → ἵνα = para que [i] → καὶ = y",
+    "url": "/roots/roots-dataset/colosenses-data/#col-2-2"
+  },
+  {
+    "title": "Colosenses 2:3",
+    "content": "ἐν ᾧ εἰσιν πάντες οἱ θησαυροὶ τῆς σοφίας ⸀καὶ γνώσεως ἀπόκρυφοι.  [en quien están escondidos todos los tesoros de la sabiduría y del conocimiento.]  - εἰσιν (V-PAI-3P) ==están== [F]  → καὶ = y",
+    "url": "/roots/roots-dataset/colosenses-data/#col-2-3"
+  },
+  {
+    "title": "Colosenses 2:4",
+    "content": "⸀τοῦτο λέγω ἵνα ⸀μηδεὶς ὑμᾶς παραλογίζηται ἐν πιθανολογίᾳ.  [Esto lo digo para que nadie los engañe con argumentos persuasivos.]  - λέγω (V-PAI-1S) ==digo== [F] - παραλογίζηται (V-PMS-3S) ==engañe== [F]  → ἵνα = para que [i]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-2-4"
+  },
+  {
+    "title": "Colosenses 2:5",
+    "content": "εἰ γὰρ καὶ τῇ σαρκὶ ἄπειμι, ἀλλὰ τῷ πνεύματι σὺν ὑμῖν εἰμι, χαίρων καὶ βλέπων ὑμῶν τὴν τάξιν καὶ τὸ στερέωμα τῆς εἰς Χριστὸν πίστεως ὑμῶν.  [Porque aunque estoy ausente en cuerpo, sin embargo estoy con ustedes en espíritu, gozándome y viendo su buena disciplina y la estabilidad de su fe en Cristo.]  - ἄπειμι (V-PAI-1S) ==estoy ausente== [F] - εἰμι (V-PAI-1S) ==estoy== [F] - χαίρων (V-PAP-NSM) gozándome [NF] - βλέπων (V-PAP-NSM) viendo [NF]  → εἰ = si [i] → γὰρ = porque [i] → καὶ = también → ἀλλὰ = sino [c]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-2-5"
+  },
+  {
+    "title": "Colosenses 2:6",
+    "content": "Ὡς οὖν παρελάβετε τὸν Χριστὸν Ἰησοῦν τὸν κύριον, ἐν αὐτῷ περιπατεῖτε,  [Por tanto, de la manera que recibieron a Cristo Jesús el Señor, así anden en Él,]  - παρελάβετε (V-AAI-2P) ==recibieron== [F] - περιπατεῖτε (V-PAM-2P) ==anden== [F]  → Ὡς = como [i] → οὖν = por tanto [c]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-2-6"
+  },
+  {
+    "title": "Colosenses 2:7",
+    "content": "ἐρριζωμένοι καὶ ἐποικοδομούμενοι ἐν αὐτῷ καὶ ⸀βεβαιούμενοι τῇ πίστει καθὼς ἐδιδάχθητε, ⸀περισσεύοντες ἐν εὐχαριστίᾳ.  [arraigados y edificados en Él, y confirmados en la fe, tal como fueron enseñados, abundando en acción de gracias.]  - ἐρριζωμένοι (V-RPP-NPM) arraigados [NF] - ἐποικοδομούμενοι (V-PPP-NPM) siendo edificados [NF] - βεβαιούμενοι (V-PPP-NPM) siendo confirmados [NF] - ἐδιδάχθητε (V-API-2P) ==fueron enseñados== [F] - περισσεύοντες (V-PAP-NPM) abundando [NF]  → καὶ = y → καὶ = y → καθὼς = como [i]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-2-7"
+  },
+  {
+    "title": "Colosenses 2:8",
+    "content": "Βλέπετε μή τις ὑμᾶς ἔσται ὁ συλαγωγῶν διὰ τῆς φιλοσοφίας καὶ κενῆς ἀπάτης κατὰ τὴν παράδοσιν τῶν ἀνθρώπων, κατὰ τὰ στοιχεῖα τοῦ κόσμου καὶ οὐ κατὰ Χριστόν·  [Tengan cuidado de que nadie los haga cautivos por medio de su filosofía y huecas sutilezas, según la tradición de los hombres, conforme a los principios elementales del mundo y no según Cristo.]  - Βλέπετε (V-PAM-2P) ==miren== [F] - ἔσται (V-FMI-3S) ==será== [F] - συλαγωγῶν (V-PAP-NSM) llevando cautivo [NF]  → μή = no → καὶ = y → κατὰ = según → κατὰ = según → καὶ = y → οὐ = no",
+    "url": "/roots/roots-dataset/colosenses-data/#col-2-8"
+  },
+  {
+    "title": "Colosenses 2:9",
+    "content": "ὅτι ἐν αὐτῷ κατοικεῖ πᾶν τὸ πλήρωμα τῆς θεότητος σωματικῶς,  [Porque toda la plenitud de la Deidad reside corporalmente en Él,]  - κατοικεῖ (V-PAI-3S) ==habita== [F]  → ὅτι = porque [i]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-2-9"
+  },
+  {
+    "title": "Colosenses 2:10",
+    "content": "καὶ ἐστὲ ἐν αὐτῷ πεπληρωμένοι, ὅς ἐστιν ἡ κεφαλὴ πάσης ἀρχῆς καὶ ἐξουσίας,  [y ustedes han sido hechos completos en Él, que es la cabeza sobre todo poder y autoridad.]  - ἐστὲ (V-PAI-2P) ==son== [F] - πεπληρωμένοι (V-RPP-NPM) llenos [NF] - ἐστιν (V-PAI-3S) ==es== [F]  → καὶ = y → ὅς = el cual [i] → καὶ = y",
+    "url": "/roots/roots-dataset/colosenses-data/#col-2-10"
+  },
+  {
+    "title": "Colosenses 2:11",
+    "content": "ἐν ᾧ καὶ περιετμήθητε περιτομῇ ἀχειροποιήτῳ ἐν τῇ ἀπεκδύσει τοῦ σώματος τῆς σαρκός, ἐν τῇ περιτομῇ τοῦ Χριστοῦ,  [En Él también fueron circuncidados con una circuncisión no hecha por manos, en la eliminación del cuerpo de la carne, en la circuncisión de Cristo,]  - περιετμήθητε (V-API-2P) ==fueron circuncidados== [F]  → καὶ = y",
+    "url": "/roots/roots-dataset/colosenses-data/#col-2-11"
+  },
+  {
+    "title": "Colosenses 2:12",
+    "content": "συνταφέντες αὐτῷ ἐν τῷ βαπτισμῷ, ἐν ᾧ καὶ συνηγέρθητε διὰ τῆς πίστεως τῆς ἐνεργείας τοῦ θεοῦ τοῦ ἐγείραντος αὐτὸν ἐκ τῶν νεκρῶν·  [habiendo sido sepultados con Él en el bautismo, en el cual también fueron resucitados con Él por la fe en la acción del poder de Dios, que lo resucitó de entre los muertos.]  - συνταφέντες (V-APP-NPM) habiendo sido sepultados [NF] - συνηγέρθητε (V-API-2P) ==fueron resucitados== [F] - ἐγείραντος (V-AAP-GSM) habiendo resucitado [NF]  → καὶ = también → διὰ = por medio de",
+    "url": "/roots/roots-dataset/colosenses-data/#col-2-12"
+  },
+  {
+    "title": "Colosenses 2:13",
+    "content": "καὶ ὑμᾶς ⸀νεκροὺς ὄντας ⸀ἐν τοῖς παραπτώμασιν καὶ τῇ ⸀ἀκροβυστίᾳ τῆς σαρκὸς ὑμῶν, συνεζωοποίησεν ⸀ὑμᾶς σὺν αὐτῷ, χαρισάμενος ⸀ἡμῖν πάντα τὰ παραπτώματα,  [Y cuando ustedes estaban muertos en sus delitos y en la incircuncisión de su carne, Dios los dio vida juntamente con Él, habiéndonos perdonado todos los delitos,]  - ὄντας (V-PAP-APM) siendo [NF] - συνεζωοποίησεν (V-AAI-3S) ==dio vida== [F] - χαρισάμενος (V-AMP-NSM) habiendo perdonado [NF]  → καὶ = y → καὶ = y",
+    "url": "/roots/roots-dataset/colosenses-data/#col-2-13"
+  },
+  {
+    "title": "Colosenses 2:14",
+    "content": "ἐξαλείψας τὸ ⸀καθʼ ἡμῶν χειρόγραφον τοῖς δόγμασιν ὃ ἦν ὑπεναντίον ⸀ἡμῖν, καὶ αὐτὸ ⸀ἦρκεν ἐκ τοῦ μέσου προσηλώσας αὐτὸ τῷ σταυρῷ·  [habiendo cancelado el documento de deuda que consistía en decretos contra nosotros y que nos era adverso, y lo ha quitado de en medio, clavándolo en la cruz.]  - ἐξαλείψας (V-AAP-NSM) habiendo cancelado [NF] - ἦν (V-IAI-3S) ==era== [F] - ἦρκεν (V-RAI-3S) ==ha quitado== [F] - προσηλώσας (V-AAP-NSM) habiendo clavado [NF]  → καὶ = y → ὃ = el cual [i] → καὶ = y",
+    "url": "/roots/roots-dataset/colosenses-data/#col-2-14"
+  },
+  {
+    "title": "Colosenses 2:15",
+    "content": "ἀπεκδυσάμενος τὰς ⸀ἀρχὰς καὶ τὰς ἐξουσίας ἐδειγμάτισεν ⸀ἐν παρρησίᾳ, θριαμβεύσας αὐτοὺς ἐν αὐτῷ.  [Habiendo despojado a los poderes y autoridades, hizo de ellos un espectáculo público, triunfando sobre ellos por medio de Él.]  - ἀπεκδυσάμενος (V-AMP-NSM) habiendo despojado [NF] - ἐδειγμάτισεν (V-AAI-3S) ==exhibió== [F] - θριαμβεύσας (V-AAP-NSM) habiendo triunfado [NF]  → καὶ = y → ἐν = en",
+    "url": "/roots/roots-dataset/colosenses-data/#col-2-15"
+  },
+  {
+    "title": "Colosenses 2:16",
+    "content": "Μὴ οὖν τις ὑμᾶς κρινέτω ἐν βρώσει καὶ ἐν πόσει ἢ ἐν μέρει ⸀ἑορτῆς ἢ ⸀νουμηνίας ἢ σαββάτων,  [Por tanto, que nadie los juzgue en comida o bebida, o en cuanto a día de fiesta, o luna nueva, o día de reposo,]  - κρινέτω (V-PAM-3S) ==juzgue== [F]  → Μὴ = no → οὖν = por tanto [c] → καὶ = y → ἢ = o → ἢ = o → ἢ = o",
+    "url": "/roots/roots-dataset/colosenses-data/#col-2-16"
+  },
+  {
+    "title": "Colosenses 2:17",
+    "content": "ἅ ἐστιν σκιὰ τῶν μελλόντων, τὸ δὲ σῶμα τοῦ Χριστοῦ.  [cosas que solo son sombra de lo que ha de venir, pero el cuerpo pertenece a Cristo.]  - ἐστιν (V-PAI-3S) ==son== [F] - μελλόντων (V-PAP-GPN) habiendo de venir [NF]  → δὲ = pero [c]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-2-17"
+  },
+  {
+    "title": "Colosenses 2:18",
+    "content": "μηδεὶς ὑμᾶς καταβραβευέτω θέλων ἐν ταπεινοφροσύνῃ καὶ θρησκείᾳ τῶν ἀγγέλων ⸀ἃ ⸀ἑόρακεν ἐμβατεύων, εἰκῇ φυσιούμενος ὑπὸ τοῦ νοὸς τῆς σαρκὸς αὐτοῦ,  [Que nadie los descalifique, deleitándose en la humillación y en la adoración de los ángeles, basándose en las visiones que ha visto, inflado sin causa por su mente carnal,]  - καταβραβευέτω (V-PAM-3S) ==descalifique== [F] - θέλων (V-PAP-NSM) queriendo [NF] - ἑόρακεν (V-RAI-3S) ==ha visto== [F] - ἐμβατεύων (V-PAP-NSM) entrando [NF] - φυσιούμενος (V-PPP-NSM) siendo inflado [NF]  → καὶ = y → ἃ = las cuales [i] → ὑπὸ = por",
+    "url": "/roots/roots-dataset/colosenses-data/#col-2-18"
+  },
+  {
+    "title": "Colosenses 2:19",
+    "content": "καὶ οὐ κρατῶν τὴν κεφαλήν, ἐξ οὗ πᾶν τὸ σῶμα διὰ τῶν ⸀ἁφῶν καὶ συνδέσμων ἐπιχορηγούμενον καὶ συμβιβαζόμενον αὔξει τὴν αὔξησιν τοῦ θεοῦ.  [y no asiéndose a la cabeza, de la cual todo el cuerpo, nutrido y unido por las coyunturas y ligamentos, crece con el crecimiento que es de Dios.]  - κρατῶν (V-PAP-NSM) reteniendo [NF] - ἐπιχορηγούμενον (V-PPP-NSN) siendo nutrido [NF] - συμβιβαζόμενον (V-PPP-NSN) siendo unido [NF] - αὔξει (V-PAI-3S) ==crece== [F]  → καὶ = y → οὐ = no → ἐξ οὗ = de quien [i] → διὰ = por medio de → καὶ = y → καὶ = y",
+    "url": "/roots/roots-dataset/colosenses-data/#col-2-19"
+  },
+  {
+    "title": "Colosenses 2:20",
+    "content": "Εἰ ἀπεθάνετε σὺν Χριστῷ ἀπὸ τῶν στοιχείων τοῦ κόσμου, τί ὡς ζῶντες ἐν κόσμῳ δογματίζεσθε,  [Si han muerto con Cristo a los principios elementales del mundo, ¿por qué, como si vivieran en el mundo, se someten a decretos,]  - ἀπεθάνετε (V-AAI-2P) ==murieron== [F] - ζῶντες (V-PAP-NPM) viviendo [NF] - δογματίζεσθε (V-PPI-2P) ==se someten== [F]  → Εἰ = si [i] → σὺν = con → ἀπὸ = de → ὡς = como [i] → ἐν = en",
+    "url": "/roots/roots-dataset/colosenses-data/#col-2-20"
+  },
+  {
+    "title": "Colosenses 2:21",
+    "content": "μὴ ἅψῃ μηδὲ γεύσῃ μηδὲ θίγῃς—  [No manipules, no gustes, no toques]  - ἅψῃ (V-AMS-2S) ==toques== [F] - γεύσῃ (V-AMS-2S) ==gustes== [F] - θίγῃς (V-PAS-2S) ==toques== [F]  → μὴ = no → μηδὲ = ni → μηδὲ = ni",
+    "url": "/roots/roots-dataset/colosenses-data/#col-2-21"
+  },
+  {
+    "title": "Colosenses 2:22",
+    "content": "ἅ ἐστιν πάντα εἰς φθορὰν τῇ ἀποχρήσει, κατὰ τὰ ἐντάλματα καὶ διδασκαλίας τῶν ἀνθρώπων;  [todos los cuales se refieren a cosas destinadas a perecer con el uso, según los preceptos y enseñanzas de los hombres.]  - ἐστιν (V-PAI-3S) ==son== [F]  → ἅ = las cuales [i] → εἰς = para → κατὰ = según → καὶ = y",
+    "url": "/roots/roots-dataset/colosenses-data/#col-2-22"
+  },
+  {
+    "title": "Colosenses 2:23",
+    "content": "ἅτινά ἐστιν λόγον μὲν ἔχοντα σοφίας ἐν ⸀ἐθελοθρησκείᾳ καὶ ταπεινοφροσύνῃ καὶ ἀφειδίᾳ σώματος, οὐκ ἐν τιμῇ τινι πρὸς πλησμονὴν τῆς σαρκός.  [Tales cosas tienen a la verdad la apariencia de sabiduría en una religión hecha por uno mismo, en la humillación y en el trato severo del cuerpo, pero carecen de valor alguno contra los apetitos de la carne.]  - ἐστιν (V-PAI-3S) ==tienen== [F] - ἔχοντα (V-PAP-APN) teniendo [NF]  → ἅτινά = las cuales [i] → μὲν = — → καὶ = y → καὶ = y → οὐκ = no → πρὸς = contra",
+    "url": "/roots/roots-dataset/colosenses-data/#col-2-23"
+  },
+  {
+    "title": "Colosenses 3:1",
+    "content": "Εἰ οὖν συνηγέρθητε τῷ Χριστῷ, τὰ ἄνω ζητεῖτε, οὗ ὁ Χριστός ἐστιν ἐν δεξιᾷ τοῦ θεοῦ καθήμενος·  [Si ustedes, pues, han resucitado con Cristo, busquen las cosas de arriba, donde está Cristo sentado a la diestra de Dios.]  - συνηγέρθητε (V-API-2P) ==han sido resucitados== [F] - ζητεῖτε (V-PAM-2P) ==busquen== [F] - ἐστιν (V-PAI-3S) ==está== [F] - καθήμενος (V-PMP-NSM) sentado [NF]  → Εἰ = si [i] → οὖν = por tanto [c] → οὗ = donde [i]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-3-1"
+  },
+  {
+    "title": "Colosenses 3:2",
+    "content": "τὰ ἄνω φρονεῖτε, μὴ τὰ ἐπὶ τῆς γῆς,  [Pongan la mira en las cosas de arriba, no en las de la tierra.]  - φρονεῖτε (V-PAM-2P) ==pongan la mira== [F]  → μὴ = no",
+    "url": "/roots/roots-dataset/colosenses-data/#col-3-2"
+  },
+  {
+    "title": "Colosenses 3:3",
+    "content": "ἀπεθάνετε γάρ, καὶ ἡ ζωὴ ὑμῶν κέκρυπται σὺν τῷ Χριστῷ ἐν τῷ θεῷ·  [Porque ustedes han muerto, y su vida está escondida con Cristo en Dios.]  - ἀπεθάνετε (V-AAI-2P) ==han muerto== [F] - κέκρυπται (V-RPI-3S) ==está escondida== [F]  → γάρ = porque [i] → καὶ = y",
+    "url": "/roots/roots-dataset/colosenses-data/#col-3-3"
+  },
+  {
+    "title": "Colosenses 3:4",
+    "content": "ὅταν ὁ Χριστὸς φανερωθῇ, ἡ ζωὴ ⸀ὑμῶν, τότε καὶ ὑμεῖς σὺν αὐτῷ φανερωθήσεσθε ἐν δόξῃ.  [Cuando Cristo, nuestra vida, sea manifestado, entonces ustedes también serán manifestados con Él en gloria.]  - φανερωθῇ (V-APS-3S) ==sea manifestado== [F] - φανερωθήσεσθε (V-FPI-2P) ==serán manifestados== [F]  → ὅταν = cuando [i] → τότε = entonces → καὶ = también",
+    "url": "/roots/roots-dataset/colosenses-data/#col-3-4"
+  },
+  {
+    "title": "Colosenses 3:5",
+    "content": "Νεκρώσατε οὖν τὰ ⸀μέλη τὰ ἐπὶ τῆς γῆς, πορνείαν, ἀκαθαρσίαν, πάθος, ἐπιθυμίαν κακήν, καὶ τὴν πλεονεξίαν ἥτις ἐστὶν εἰδωλολατρία,  [Por tanto, consideren los miembros de su cuerpo terrenal como muertos a la fornicación, la impureza, las pasiones, los malos deseos y la avaricia, que es idolatría.]  - Νεκρώσατε (V-AAM-2P) ==consideren muertos== [F] - ἐστὶν (V-PAI-3S) ==es== [F]  → οὖν = por tanto [c] → καὶ = y → ἥτις = la cual [i]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-3-5"
+  },
+  {
+    "title": "Colosenses 3:6",
+    "content": "διʼ ἃ ἔρχεται ἡ ὀργὴ τοῦ θεοῦ ⸂ἐπὶ τοὺς υἱοὺς τῆς ἀπειθείας⸃·  [Pues la ira de Dios vendrá sobre los hijos de desobediencia por causa de estas cosas,]  - ἔρχεται (V-PMI-3S) ==viene== [F]  → διʼ = por causa de → ἃ = las cuales [i]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-3-6"
+  },
+  {
+    "title": "Colosenses 3:7",
+    "content": "ἐν οἷς καὶ ὑμεῖς περιεπατήσατέ ποτε ὅτε ἐζῆτε ἐν ⸀τούτοις·  [en las cuales ustedes también anduvieron en otro tiempo cuando vivían en ellas.]  - περιεπατήσατέ (V-AAI-2P) ==anduvieron== [F] - ἐζῆτε (V-IAI-2P) ==vivían== [F]  → ἐν οἷς = en las cuales [i] → καὶ = también → ὅτε = cuando [i]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-3-7"
+  },
+  {
+    "title": "Colosenses 3:8",
+    "content": "νυνὶ δὲ ἀπόθεσθε καὶ ὑμεῖς τὰ πάντα, ὀργήν, θυμόν, κακίαν, βλασφημίαν, αἰσχρολογίαν ἐκ τοῦ στόματος ὑμῶν·  [Pero ahora desechen también todo esto: ira, enojo, malicia, insultos, lenguaje ofensivo de su boca.]  - ἀπόθεσθε (V-APM-2P) ==desechen== [F]  → νυνὶ = ahora → δὲ = pero [c] → καὶ = también",
+    "url": "/roots/roots-dataset/colosenses-data/#col-3-8"
+  },
+  {
+    "title": "Colosenses 3:9",
+    "content": "μὴ ψεύδεσθε εἰς ἀλλήλους· ἀπεκδυσάμενοι τὸν παλαιὸν ἄνθρωπον σὺν ταῖς πράξεσιν αὐτοῦ,  [Dejen de mentirse los unos a los otros, puesto que han desechado al viejo hombre con sus malos hábitos,]  - ψεύδεσθε (V-PPM-2P) ==mientan== [F] - ἀπεκδυσάμενοι (V-AMP-NPM) habiendo desechado [NF]  → μὴ = no",
+    "url": "/roots/roots-dataset/colosenses-data/#col-3-9"
+  },
+  {
+    "title": "Colosenses 3:10",
+    "content": "καὶ ἐνδυσάμενοι τὸν νέον τὸν ἀνακαινούμενον εἰς ἐπίγνωσιν κατʼ εἰκόνα τοῦ κτίσαντος αὐτόν,  [y se han vestido del nuevo hombre, el cual se va renovando hacia un verdadero conocimiento, conforme a la imagen de Aquel que lo creó.]  - ἐνδυσάμενοι (V-AMP-NPM) habiéndose vestido [NF] - ἀνακαινούμενον (V-PPP-ASM) siendo renovado [NF] - κτίσαντος (V-AAP-GSM) habiendo creado [NF]  → καὶ = y → εἰς = hacia → κατʼ = conforme a",
+    "url": "/roots/roots-dataset/colosenses-data/#col-3-10"
+  },
+  {
+    "title": "Colosenses 3:11",
+    "content": "ὅπου οὐκ ἔνι Ἕλλην καὶ Ἰουδαῖος, περιτομὴ καὶ ἀκροβυστία, βάρβαρος, Σκύθης, δοῦλος, ἐλεύθερος, ἀλλὰ ⸀τὰ πάντα καὶ ἐν πᾶσιν Χριστός.  [En esta renovación no hay distinción entre griego y judío, circunciso e incircunciso, bárbaro, Escita, esclavo o libre, sino que Cristo es todo, y en todos.]  - ἔνι (V-PXI-3S) ==hay== [F]  → ὅπου = donde [i] → οὐκ = no → καὶ = y → καὶ = y → ἀλλὰ = sino [c] → καὶ = y",
+    "url": "/roots/roots-dataset/colosenses-data/#col-3-11"
+  },
+  {
+    "title": "Colosenses 3:12",
+    "content": "Ἐνδύσασθε οὖν ὡς ἐκλεκτοὶ τοῦ θεοῦ, ἅγιοι καὶ ἠγαπημένοι, σπλάγχνα οἰκτιρμοῦ, χρηστότητα, ταπεινοφροσύνην, πραΰτητα, μακροθυμίαν,  [Entonces, ustedes como escogidos de Dios, santos y amados, revístanse de tierna compasión, bondad, humildad, mansedumbre y paciencia;]  - Ἐνδύσασθε (V-AMM-2P) ==revístanse== [F] - ἠγαπημένοι (V-RPP-NPM) habiendo sido amados [NF]  → οὖν = por tanto [c] → ὡς = como [i] → καὶ = y",
+    "url": "/roots/roots-dataset/colosenses-data/#col-3-12"
+  },
+  {
+    "title": "Colosenses 3:13",
+    "content": "ἀνεχόμενοι ἀλλήλων καὶ χαριζόμενοι ἑαυτοῖς ἐάν τις πρός τινα ἔχῃ μομφήν· καθὼς καὶ ὁ ⸀κύριος ἐχαρίσατο ὑμῖν οὕτως καὶ ὑμεῖς·  [soportándose unos a otros y perdonándose unos a otros, si alguien tiene queja contra otro. Como Cristo los perdonó, así también háganlo ustedes.]  - ἀνεχόμενοι (V-PMP-NPM) soportando [NF] - χαριζόμενοι (V-PMP-NPM) perdonando [NF] - ἔχῃ (V-PAS-3S) ==tenga== [F] - ἐχαρίσατο (V-AMI-3S) ==perdonó== [F]  → καὶ = y → καὶ = y → ἐάν = si [i] → πρός = contra → καθὼς = como [i] → καὶ = también → οὕτως = así → καὶ = también",
+    "url": "/roots/roots-dataset/colosenses-data/#col-3-13"
+  },
+  {
+    "title": "Colosenses 3:14",
+    "content": "ἐπὶ πᾶσιν δὲ τούτοις τὴν ἀγάπην, ⸀ὅ ἐστιν σύνδεσμος τῆς τελειότητος.  [Sobre todas estas cosas, vístanse de amor, que es el vínculo de la unidad.]  - ἐστιν (V-PAI-3S) ==es== [F]  → δὲ = pero [c] → ὅ = lo cual [i]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-3-14"
+  },
+  {
+    "title": "Colosenses 3:15",
+    "content": "καὶ ἡ εἰρήνη τοῦ ⸀Χριστοῦ βραβευέτω ἐν ταῖς καρδίαις ὑμῶν, εἰς ἣν καὶ ἐκλήθητε ἐν ἑνὶ σώματι· καὶ εὐχάριστοι γίνεσθε.  [Que la paz de Cristo reine en sus corazones, a la cual en verdad fueron llamados en un solo cuerpo; y sean agradecidos.]  - βραβευέτω (V-PAM-3S) ==reine== [F] - ἐκλήθητε (V-API-2P) ==fueron llamados== [F] - γίνεσθε (V-PMM-2P) ==sean== [F]  → καὶ = y → εἰς = hacia → ἣν = a la cual [i] → καὶ = también → ἐν = en → καὶ = y",
+    "url": "/roots/roots-dataset/colosenses-data/#col-3-15"
+  },
+  {
+    "title": "Colosenses 3:16",
+    "content": "ὁ λόγος τοῦ Χριστοῦ ἐνοικείτω ἐν ὑμῖν πλουσίως ἐν πάσῃ σοφίᾳ· διδάσκοντες καὶ νουθετοῦντες ἑαυτοὺς ⸀ψαλμοῖς, ⸀ὕμνοις, ᾠδαῖς πνευματικαῖς ⸀ἐν χάριτι, ᾄδοντες ἐν ⸂ταῖς καρδίαις⸃ ὑμῶν τῷ ⸀θεῷ·  [Que la palabra de Cristo habite en abundancia en ustedes, con toda sabiduría enseñándose y amonestándose unos a otros con salmos, himnos y canciones espirituales, cantando a Dios con acción de gracias en sus corazones.]  - ἐνοικείτω (V-PAM-3S) ==habite== [F] - διδάσκοντες (V-PAP-NPM) enseñando [NF] - νουθετοῦντες (V-PAP-NPM) amonestando [NF] - ᾄδοντες (V-PAP-NPM) cantando [NF]  → ἐν = en → ἐν = en → καὶ = y → ἐν = en",
+    "url": "/roots/roots-dataset/colosenses-data/#col-3-16"
+  },
+  {
+    "title": "Colosenses 3:17",
+    "content": "καὶ πᾶν ⸂ὅ τι⸃ ⸀ἐὰν ποιῆτε ἐν λόγῳ ἢ ἐν ἔργῳ, πάντα ἐν ὀνόματι κυρίου Ἰησοῦ, εὐχαριστοῦντες τῷ ⸀θεῷ πατρὶ διʼ αὐτοῦ.  [Y todo lo que hagan, de palabra o de hecho, háganlo todo en el nombre del Señor Jesús, dando gracias por medio de Él a Dios el Padre.]  - ποιῆτε (V-PAS-2P) ==hagan== [F] - εὐχαριστοῦντες (V-PAP-NPM) dando gracias [NF]  → καὶ = y → ἐὰν = si [i] → ἢ = o → ἐν = en → διʼ = por medio de",
+    "url": "/roots/roots-dataset/colosenses-data/#col-3-17"
+  },
+  {
+    "title": "Colosenses 3:18",
+    "content": "Αἱ γυναῖκες, ὑποτάσσεσθε ⸀τοῖς ἀνδράσιν, ὡς ἀνῆκεν ἐν κυρίῳ.  [Mujeres, estén sujetas a sus maridos, como conviene en el Señor.]  - ὑποτάσσεσθε (V-PMM-2P) ==estén sujetas== [F] - ἀνῆκεν (V-IAI-3S) ==conviene== [F]  → ὡς = como [i]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-3-18"
+  },
+  {
+    "title": "Colosenses 3:19",
+    "content": "οἱ ἄνδρες, ἀγαπᾶτε τὰς γυναῖκας καὶ μὴ πικραίνεσθε πρὸς αὐτάς.  [Maridos, amen a sus mujeres y no sean ásperos con ellas.]  - ἀγαπᾶτε (V-PAM-2P) ==amen== [F] - πικραίνεσθε (V-PPM-2P) ==sean ásperos== [F]  → καὶ = y → μὴ = no",
+    "url": "/roots/roots-dataset/colosenses-data/#col-3-19"
+  },
+  {
+    "title": "Colosenses 3:20",
+    "content": "Τὰ τέκνα, ὑπακούετε τοῖς γονεῦσιν κατὰ πάντα, τοῦτο γὰρ ⸂εὐάρεστόν ἐστιν⸃ ἐν κυρίῳ.  [Hijos, sean obedientes a sus padres en todo, porque esto es agradable al Señor.]  - ὑπακούετε (V-PAM-2P) ==obedezcan== [F] - ἐστιν (V-PAI-3S) ==es== [F]  → κατὰ = en → γὰρ = porque [i] → ἐν = en",
+    "url": "/roots/roots-dataset/colosenses-data/#col-3-20"
+  },
+  {
+    "title": "Colosenses 3:21",
+    "content": "οἱ πατέρες, μὴ ἐρεθίζετε τὰ τέκνα ὑμῶν, ἵνα μὴ ἀθυμῶσιν.  [Padres, no exasperen a sus hijos, para que no se desalienten.]  - ἐρεθίζετε (V-PAM-2P) ==exasperen== [F] - ἀθυμῶσιν (V-PAS-3P) ==se desalienten== [F]  → μὴ = no → ἵνα = para que [i] → μὴ = no",
+    "url": "/roots/roots-dataset/colosenses-data/#col-3-21"
+  },
+  {
+    "title": "Colosenses 3:22",
+    "content": "οἱ δοῦλοι, ὑπακούετε κατὰ πάντα τοῖς κατὰ σάρκα κυρίοις, μὴ ἐν ⸀ὀφθαλμοδουλίαις, ὡς ἀνθρωπάρεσκοι, ἀλλʼ ἐν ἁπλότητι καρδίας, φοβούμενοι τὸν ⸀κύριον.  [Siervos, obedezcan en todo a sus amos en la tierra, no para ser vistos, como los que quieren agradar a los hombres, sino con sinceridad de corazón, temiendo al Señor.]  - ὑπακούετε (V-PAM-2P) ==obedezcan== [F] - φοβούμενοι (V-PMP-NPM) temiendo [NF]  → κατὰ = en → μὴ = no → ὡς = como [i] → ἀλλʼ = sino [c]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-3-22"
+  },
+  {
+    "title": "Colosenses 3:23",
+    "content": "⸀ὃ ἐὰν ποιῆτε, ἐκ ψυχῆς ἐργάζεσθε, ὡς τῷ κυρίῳ καὶ οὐκ ἀνθρώποις,  [Todo lo que hagan, háganlo de corazón, como para el Señor y no para los hombres,]  - ποιῆτε (V-PAS-2P) ==hagan== [F] - ἐργάζεσθε (V-PMM-2P) ==trabajen== [F]  → ἐὰν = si [i] → ὡς = como [i] → καὶ = y → οὐκ = no",
+    "url": "/roots/roots-dataset/colosenses-data/#col-3-23"
+  },
+  {
+    "title": "Colosenses 3:24",
+    "content": "εἰδότες ὅτι ἀπὸ κυρίου ⸀ἀπολήμψεσθε τὴν ἀνταπόδοσιν τῆς κληρονομίας· ⸀τῷ κυρίῳ Χριστῷ δουλεύετε·  [sabiendo que del Señor recibirán la recompensa de la herencia. Es a Cristo el Señor a quien sirven.]  - εἰδότες (V-RAP-NPM) sabiendo [NF] - ἀπολήμψεσθε (V-FMI-2P) ==recibirán== [F] - δουλεύετε (V-PAI-2P) ==sirven== [F]  → ὅτι = que [i] → ἀπὸ = de",
+    "url": "/roots/roots-dataset/colosenses-data/#col-3-24"
+  },
+  {
+    "title": "Colosenses 3:25",
+    "content": "ὁ ⸀γὰρ ἀδικῶν κομίσεται ὃ ἠδίκησεν, καὶ οὐκ ἔστιν προσωπολημψία.  [Porque el que procede con injusticia sufrirá las consecuencias del mal que ha cometido, y eso, sin acepción de personas.]  - ἀδικῶν (V-PAP-NSM) haciendo injusticia [NF] - κομίσεται (V-FMI-3S) ==recibirá== [F] - ἠδίκησεν (V-AAI-3S) ==hizo injusticia== [F] - ἔστιν (V-PAI-3S) ==hay== [F]  → γὰρ = porque [i] → ὃ = lo que [i] → καὶ = y → οὐκ = no",
+    "url": "/roots/roots-dataset/colosenses-data/#col-3-25"
+  },
+  {
+    "title": "Colosenses 4:1",
+    "content": "οἱ κύριοι, τὸ δίκαιον καὶ τὴν ἰσότητα τοῖς δούλοις παρέχεσθε, εἰδότες ὅτι καὶ ὑμεῖς ἔχετε κύριον ἐν ⸀οὐρανῷ.  [Amos, traten con justicia y equidad a sus siervos, sabiendo que ustedes también tienen un Señor en el cielo.]  - παρέχεσθε (V-PMM-2P) ==traten== [F] - εἰδότες (V-RAP-NPM) sabiendo [NF] - ἔχετε (V-PAI-2P) ==tienen== [F]  → καὶ = y → ὅτι = que [i] → καὶ = también",
+    "url": "/roots/roots-dataset/colosenses-data/#col-4-1"
+  },
+  {
+    "title": "Colosenses 4:2",
+    "content": "Τῇ προσευχῇ προσκαρτερεῖτε, γρηγοροῦντες ἐν αὐτῇ ἐν εὐχαριστίᾳ,  [Perseveren en la oración, velando en ella con acción de gracias.]  - προσκαρτερεῖτε (V-PAM-2P) ==perseveren== [F] - γρηγοροῦντες (V-PAP-NPM) velando [NF]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-4-2"
+  },
+  {
+    "title": "Colosenses 4:3",
+    "content": "προσευχόμενοι ἅμα καὶ περὶ ἡμῶν, ἵνα ὁ θεὸς ἀνοίξῃ ἡμῖν θύραν τοῦ λόγου, λαλῆσαι τὸ μυστήριον τοῦ Χριστοῦ, διʼ ὃ καὶ δέδεμαι,  [Oren al mismo tiempo también por nosotros, para que Dios nos abra una puerta para la palabra, a fin de dar a conocer el misterio de Cristo, por el cual también he sido encarcelado,]  - προσευχόμενοι (V-PMP-NPM) orando [NF] - ἀνοίξῃ (V-AAS-3S) ==abra== [F] - λαλῆσαι (V-AAN) hablar [NF] - δέδεμαι (V-RPI-1S) ==he sido encarcelado== [F]  → καὶ = también → ἵνα = para que [i] → διʼ = por medio de → ὃ = el cual [i] → καὶ = también",
+    "url": "/roots/roots-dataset/colosenses-data/#col-4-3"
+  },
+  {
+    "title": "Colosenses 4:4",
+    "content": "ἵνα φανερώσω αὐτὸ ὡς δεῖ με λαλῆσαι.  [para manifestarlo como debo hacerlo.]  - φανερώσω (V-AAS-1S) ==manifieste== [F] - δεῖ (V-PAI-3S) ==debo== [F] - λαλῆσαι (V-AAN) hablar [NF]  → ἵνα = para que [i] → ὡς = como [i]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-4-4"
+  },
+  {
+    "title": "Colosenses 4:5",
+    "content": "Ἐν σοφίᾳ περιπατεῖτε πρὸς τοὺς ἔξω, τὸν καιρὸν ἐξαγοραζόμενοι.  [Anden sabiamente para con los de afuera, aprovechando bien el tiempo.]  - περιπατεῖτε (V-PAM-2P) ==anden== [F] - ἐξαγοραζόμενοι (V-PMP-NPM) aprovechando [NF]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-4-5"
+  },
+  {
+    "title": "Colosenses 4:6",
+    "content": "ὁ λόγος ὑμῶν πάντοτε ἐν χάριτι, ἅλατι ἠρτυμένος, εἰδέναι πῶς δεῖ ὑμᾶς ἑνὶ ἑκάστῳ ἀποκρίνεσθαι.  [Que su conversación sea siempre con gracia, sazonada como con sal, para que sepan cómo deben responder a cada persona.]  - ἠρτυμένος (V-RPP-NSM) habiendo sido sazonado [NF] - εἰδέναι (V-RAN) saber [NF] - δεῖ (V-PAI-3S) ==deben== [F] - ἀποκρίνεσθαι (V-PMN) responder [NF]  → πῶς = cómo",
+    "url": "/roots/roots-dataset/colosenses-data/#col-4-6"
+  },
+  {
+    "title": "Colosenses 4:7",
+    "content": "Τὰ κατʼ ἐμὲ πάντα γνωρίσει ὑμῖν Τυχικὸς ὁ ἀγαπητὸς ἀδελφὸς καὶ πιστὸς διάκονος καὶ σύνδουλος ἐν κυρίῳ,  [En cuanto a todos mis asuntos, les informará Tíquico, nuestro amado hermano, fiel ministro y consiervo en el Señor.]  - γνωρίσει (V-FAI-3S) ==informará== [F]  → καὶ = y → καὶ = y",
+    "url": "/roots/roots-dataset/colosenses-data/#col-4-7"
+  },
+  {
+    "title": "Colosenses 4:8",
+    "content": "ὃν ἔπεμψα πρὸς ὑμᾶς εἰς αὐτὸ τοῦτο ἵνα ⸀γνῶτε τὰ περὶ ⸀ἡμῶν καὶ παρακαλέσῃ τὰς καρδίας ὑμῶν,  [Porque precisamente para esto lo he enviado a ustedes, para que sepan de nuestras circunstancias y que conforte sus corazones;]  - ἔπεμψα (V-AAI-1S) ==envié== [F] - γνῶτε (V-AAS-2P) ==sepan== [F] - παρακαλέσῃ (V-AAS-3S) ==conforte== [F]  → ὃν = a quien [i] → ἵνα = para que [i] → καὶ = y",
+    "url": "/roots/roots-dataset/colosenses-data/#col-4-8"
+  },
+  {
+    "title": "Colosenses 4:9",
+    "content": "σὺν Ὀνησίμῳ τῷ πιστῷ καὶ ἀγαπητῷ ἀδελφῷ, ὅς ἐστιν ἐξ ὑμῶν· πάντα ὑμῖν γνωρίσουσιν τὰ ὧδε.  [y con él a Onésimo, fiel y amado hermano, que es uno de ustedes. Ellos les informarán acerca de todo lo que aquí pasa.]  - ἐστιν (V-PAI-3S) ==es== [F] - γνωρίσουσιν (V-FAI-3P) ==informarán== [F]  → καὶ = y → ὅς = el cual [i]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-4-9"
+  },
+  {
+    "title": "Colosenses 4:10",
+    "content": "Ἀσπάζεται ὑμᾶς Ἀρίσταρχος ὁ συναιχμάλωτός μου, καὶ Μᾶρκος ὁ ἀνεψιὸς Βαρναβᾶ (περὶ οὗ ἐλάβετε ἐντολάς, ἐὰν ἔλθῃ πρὸς ὑμᾶς δέξασθε αὐτόν),  [Aristarco, mi compañero de prisión, les envía saludos. También Marcos, el primo de Bernabé, (acerca del cual ustedes recibieron instrucciones. Si va a verlos, recíbanlo bien).]  - Ἀσπάζεται (V-PMI-3S) ==saluda== [F] - ἐλάβετε (V-AAI-2P) ==recibieron== [F] - ἔλθῃ (V-AAS-3S) ==venga== [F] - δέξασθε (V-AMM-2P) ==recíbanlo== [F]  → καὶ = y → περὶ οὗ = acerca del cual [i] → ἐὰν = si [i]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-4-10"
+  },
+  {
+    "title": "Colosenses 4:11",
+    "content": "καὶ Ἰησοῦς ὁ λεγόμενος Ἰοῦστος, οἱ ὄντες ἐκ περιτομῆς, οὗτοι μόνοι συνεργοὶ εἰς τὴν βασιλείαν τοῦ θεοῦ, οἵτινες ἐγενήθησάν μοι παρηγορία.  [También Jesús, llamado Justo. Estos son los únicos colaboradores conmigo en el reino de Dios que son de la circuncisión, y ellos han resultado ser un estímulo para mí.]  - λεγόμενος (V-PPP-NSM) siendo llamado [NF] - ὄντες (V-PAP-NPM) siendo [NF] - ἐγενήθησάν (V-ADI-3P) ==han sido== [F]  → καὶ = y → οὗτοι = estos → οἵτινες = quienes [i]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-4-11"
+  },
+  {
+    "title": "Colosenses 4:12",
+    "content": "ἀσπάζεται ὑμᾶς Ἐπαφρᾶς ὁ ἐξ ὑμῶν, δοῦλος ⸀Χριστοῦ, πάντοτε ἀγωνιζόμενος ὑπὲρ ὑμῶν ἐν ταῖς προσευχαῖς, ἵνα ⸀σταθῆτε τέλειοι καὶ ⸀πεπληροφορημένοι ἐν παντὶ θελήματι τοῦ θεοῦ.  [Epafras, que es uno de ustedes, siervo de Jesucristo, les envía saludos, siempre esforzándose intensamente a favor de ustedes en sus oraciones, para que estén firmes, perfectos y completamente seguros en toda la voluntad de Dios.]  - ἀσπάζεται (V-PMI-3S) ==saluda== [F] - ἀγωνιζόμενος (V-PMP-NSM) luchando [NF] - σταθῆτε (V-APS-2P) ==estén firmes== [F] - πεπληροφορημένοι (V-RPP-NPM) completamente convencidos [NF]  → ὑπὲρ = por → ἐν = en → ἵνα = para que [i] → καὶ = y → ἐν = en",
+    "url": "/roots/roots-dataset/colosenses-data/#col-4-12"
+  },
+  {
+    "title": "Colosenses 4:13",
+    "content": "μαρτυρῶ γὰρ αὐτῷ ὅτι ἔχει ⸂πολὺν πόνον⸃ ὑπὲρ ὑμῶν καὶ τῶν ἐν Λαοδικείᾳ καὶ τῶν ἐν Ἱεραπόλει.  [Porque de él soy testigo de que tiene profundo interés por ustedes y por los que están en Laodicea y en Hierápolis.]  - μαρτυρῶ (V-PAI-1S) ==doy testimonio== [F] - ἔχει (V-PAI-3S) ==tiene== [F]  → γὰρ = porque [i] → ὅτι = que [i] → ὑπὲρ = por → καὶ = y → καὶ = y",
+    "url": "/roots/roots-dataset/colosenses-data/#col-4-13"
+  },
+  {
+    "title": "Colosenses 4:14",
+    "content": "ἀσπάζεται ὑμᾶς Λουκᾶς ὁ ἰατρὸς ὁ ἀγαπητὸς καὶ Δημᾶς.  [Lucas, el médico amado, les envía saludos, y también Demas.]  - ἀσπάζεται (V-PMI-3S) ==saluda== [F]  → καὶ = y",
+    "url": "/roots/roots-dataset/colosenses-data/#col-4-14"
+  },
+  {
+    "title": "Colosenses 4:15",
+    "content": "ἀσπάσασθε τοὺς ἐν Λαοδικείᾳ ἀδελφοὺς καὶ ⸂Νύμφαν καὶ τὴν κατʼ οἶκον αὐτῆς⸃ ἐκκλησίαν.  [Saluden a los hermanos que están en Laodicea, también a Ninfas y a la iglesia que está en su casa.]  - ἀσπάσασθε (V-AMM-2P) ==saluden== [F]  → καὶ = y → καὶ = y",
+    "url": "/roots/roots-dataset/colosenses-data/#col-4-15"
+  },
+  {
+    "title": "Colosenses 4:16",
+    "content": "καὶ ὅταν ἀναγνωσθῇ παρʼ ὑμῖν ἡ ἐπιστολή, ποιήσατε ἵνα καὶ ἐν τῇ ⸀Λαοδικέων ἐκκλησίᾳ ἀναγνωσθῇ, καὶ τὴν ἐκ Λαοδικείας ἵνα καὶ ὑμεῖς ἀναγνῶτε.  [Cuando esta carta se haya leído entre ustedes, háganla leer también en la iglesia de los laodicenses. Ustedes, por su parte, lean la carta que viene de Laodicea.]  - ἀναγνωσθῇ (V-APS-3S) ==sea leída== [F] - ποιήσατε (V-AAM-2P) ==hagan== [F] - ἀναγνωσθῇ (V-APS-3S) ==sea leída== [F] - ἀναγνῶτε (V-AAS-2P) ==lean== [F]  → καὶ = y → ὅταν = cuando [i] → ἵνα = para que [i] → καὶ = también → καὶ = y → ἵνα = para que [i] → καὶ = también",
+    "url": "/roots/roots-dataset/colosenses-data/#col-4-16"
+  },
+  {
+    "title": "Colosenses 4:17",
+    "content": "καὶ εἴπατε Ἀρχίππῳ· Βλέπε τὴν διακονίαν ἣν παρέλαβες ἐν κυρίῳ, ἵνα αὐτὴν πληροῖς.  [Díganle a Arquipo: «Cuida el ministerio que has recibido del Señor, para que lo cumplas».]  - εἴπατε (V-AAM-2P) ==digan== [F] - Βλέπε (V-PAM-2S) ==cuida== [F] - παρέλαβες (V-AAI-2S) ==recibiste== [F] - πληροῖς (V-PAS-2S) ==cumplas== [F]  → καὶ = y → ἣν = la cual [i] → ἐν = en → ἵνα = para que [i]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-4-17"
+  },
+  {
+    "title": "Colosenses 4:18",
+    "content": "Ὁ ἀσπασμὸς τῇ ἐμῇ χειρὶ Παύλου. μνημονεύετέ μου τῶν δεσμῶν. ἡ χάρις μεθʼ ⸀ὑμῶν.  [Yo, Pablo, escribo este saludo con mi propia mano. Acuérdense de mis cadenas. La gracia sea con ustedes.]  - μνημονεύετέ (V-PAM-2P) ==acuérdense== [F]",
+    "url": "/roots/roots-dataset/colosenses-data/#col-4-18"
+  },
+  {
     "title": "Tito 1:1",
     "content": "Παῦλος δοῦλος θεοῦ, ἀπόστολος δὲ Ἰησοῦ Χριστοῦ κατὰ πίστιν ἐκλεκτῶν θεοῦ καὶ ἐπίγνωσιν ἀληθείας τῆς κατʼ εὐσέβειαν [Pablo, siervo de Dios y apóstol de Jesucristo, conforme a la fe de los escogidos de Dios y al pleno conocimiento de la verdad que es según la piedad,]  → δὲ = pero → καὶ = y",
-    "url": "/roots/ROOTS-dataset/tito/#tito-1-1"
+    "url": "/roots/roots-dataset/tito-data/#tito-1-1"
   },
   {
     "title": "Tito 1:2",
     "content": "ἐπʼ ἐλπίδι ζωῆς αἰωνίου, ἣν ἐπηγγείλατο ὁ ἀψευδὴς θεὸς πρὸ χρόνων αἰωνίων [con la esperanza de vida eterna, la cual Dios, que no miente, prometió desde los tiempos eternos,]  - ἐπηγγείλατο (V-AMI-3S) ==prometió== [F]",
-    "url": "/roots/ROOTS-dataset/tito/#tito-1-2"
+    "url": "/roots/roots-dataset/tito-data/#tito-1-2"
   },
   {
     "title": "Tito 1:3",
     "content": "ἐφανέρωσεν δὲ καιροῖς ἰδίοις, τὸν λόγον αὐτοῦ ἐν κηρύγματι ὃ ἐπιστεύθην ἐγὼ κατʼ ἐπιταγὴν τοῦ σωτῆρος ἡμῶν θεοῦ, [y a su debido tiempo, manifestó Su palabra por la predicación que me fue confiada, conforme al mandamiento de Dios nuestro Salvador,]  - ἐφανέρωσεν (V-AAI-3S) ==manifestó== [F] - ἐπιστεύθην (V-API-1S) ==fue confiada== [F] → δὲ = y [c]",
-    "url": "/roots/ROOTS-dataset/tito/#tito-1-3"
+    "url": "/roots/roots-dataset/tito-data/#tito-1-3"
   },
   {
     "title": "Tito 1:4",
     "content": "Τίτῳ γνησίῳ τέκνῳ κατὰ κοινὴν πίστιν· χάρις ⸀καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς καὶ ⸂Χριστοῦ Ἰησοῦ⸃ τοῦ σωτῆρος ἡμῶν. [a Tito, verdadero hijo en la común fe: Gracia y paz de parte de Dios el Padre y de Cristo Jesús nuestro Salvador.]  → καὶ = y → καὶ = y",
-    "url": "/roots/ROOTS-dataset/tito/#tito-1-4"
+    "url": "/roots/roots-dataset/tito-data/#tito-1-4"
   },
   {
     "title": "Tito 1:5",
     "content": "Τούτου χάριν ⸀ἀπέλιπόν σε ἐν Κρήτῃ ἵνα τὰ λείποντα ἐπιδιορθώσῃ, καὶ καταστήσῃς κατὰ πόλιν πρεσβυτέρους, ὡς ἐγώ σοι διεταξάμην, [Por esta causa te dejé en Creta, para que pusieras en orden lo que queda, y designaras ancianos en cada ciudad como te mandé.]  - ἀπέλιπόν (V-AAI-1S) ==dejé== [F] - ἐπιδιορθώσῃ (V-AAS-2S) ==pusieras en orden== [F] - καταστήσῃς (V-AAS-2S) ==designaras== [F] - διεταξάμην (V-AMI-1S) ==mandé== [F] → ἵνα = para que [i] → καὶ = y [c] → ὡς = como",
-    "url": "/roots/ROOTS-dataset/tito/#tito-1-5"
+    "url": "/roots/roots-dataset/tito-data/#tito-1-5"
   },
   {
     "title": "Tito 1:6",
     "content": "εἴ τίς ἐστιν ἀνέγκλητος, μιᾶς γυναικὸς ἀνήρ, τέκνα ἔχων πιστά, μὴ ἐν κατηγορίᾳ ἀσωτίας ἢ ἀνυπότακτα. [Lo designarás, si el anciano es irreprensible, marido de una sola mujer, que tenga hijos creyentes, no acusados de disolución ni de rebeldía.]  - ἐστιν (V-PAI-3S) ==es== [F] - ἔχων (V-PAP-NSM) teniendo [NF] → εἴ = si [i] → ἢ = o",
-    "url": "/roots/ROOTS-dataset/tito/#tito-1-6"
+    "url": "/roots/roots-dataset/tito-data/#tito-1-6"
   },
   {
     "title": "Tito 1:7",
     "content": "δεῖ γὰρ τὸν ἐπίσκοπον ἀνέγκλητον εἶναι ὡς θεοῦ οἰκονόμον, μὴ αὐθάδη, μὴ ὀργίλον, μὴ πάροινον, μὴ πλήκτην, μὴ αἰσχροκερδῆ, [Porque el obispo debe ser irreprensible como administrador de Dios, no obstinado, no iracundo, no dado a la bebida, no pendenciero, no amante de ganancias deshonestas.]  - δεῖ (V-PAI-3S) ==debe== [F] - εἶναι (V-PAN) ser [NF] → γὰρ = porque [i]",
-    "url": "/roots/ROOTS-dataset/tito/#tito-1-7"
+    "url": "/roots/roots-dataset/tito-data/#tito-1-7"
   },
   {
     "title": "Tito 1:8",
     "content": "ἀλλὰ φιλόξενον, φιλάγαθον, σώφρονα, δίκαιον, ὅσιον, ἐγκρατῆ, [Antes bien, debe ser hospitalario, amante de lo bueno, prudente, justo, santo, dueño de sí mismo.]  → ἀλλὰ = antes bien",
-    "url": "/roots/ROOTS-dataset/tito/#tito-1-8"
+    "url": "/roots/roots-dataset/tito-data/#tito-1-8"
   },
   {
     "title": "Tito 1:9",
     "content": "ἀντεχόμενον τοῦ κατὰ τὴν διδαχὴν πιστοῦ λόγου, ἵνα δυνατὸς ᾖ καὶ παρακαλεῖν ἐν τῇ διδασκαλίᾳ τῇ ὑγιαινούσῃ καὶ τοὺς ἀντιλέγοντας ἐλέγχειν. [Debe retener la palabra fiel que es conforme a la enseñanza, para que sea capaz también de exhortar con sana doctrina y refutar a los que contradicen.]  - ἀντεχόμενον (V-PMP-ASM) reteniendo [NF] - ᾖ (V-PAS-3S) ==sea== [F] - παρακαλεῖν (V-PAN) exhortar [NF] - ἐλέγχειν (V-PAN) refutar [NF] → ἵνα = para que [i] → καὶ = y → καὶ = y",
-    "url": "/roots/ROOTS-dataset/tito/#tito-1-9"
+    "url": "/roots/roots-dataset/tito-data/#tito-1-9"
   },
   {
     "title": "Tito 1:10",
     "content": "Εἰσὶν γὰρ πολλοὶ ⸀καὶ ἀνυπότακτοι, ματαιολόγοι καὶ φρεναπάται, μάλιστα οἱ ἐκ ⸀τῆς περιτομῆς, [Porque hay muchos rebeldes, habladores vanos y engañadores, especialmente los de la circuncisión,]  - Εἰσὶν (V-PAI-3P) ==hay== [F] → γὰρ = porque [i] → καὶ = y → καὶ = y",
-    "url": "/roots/ROOTS-dataset/tito/#tito-1-10"
+    "url": "/roots/roots-dataset/tito-data/#tito-1-10"
   },
   {
     "title": "Tito 1:11",
     "content": "οὓς δεῖ ἐπιστομίζειν, οἵτινες ὅλους οἴκους ἀνατρέπουσιν διδάσκοντες ἃ μὴ δεῖ αἰσχροῦ κέρδους χάριν. [a quienes es preciso tapar la boca, porque están trastornando familias enteras, enseñando por ganancias deshonestas, cosas que no deben.]  - δεῖ (V-PAI-3S) ==es preciso== [F] - ἐπιστομίζειν (V-PAN) tapar [NF] - ἀνατρέπουσιν (V-PAI-3P) ==trastornan== [F] - διδάσκοντες (V-PAP-NPM) enseñando [NF] → οἵτινες = quienes [i]",
-    "url": "/roots/ROOTS-dataset/tito/#tito-1-11"
+    "url": "/roots/roots-dataset/tito-data/#tito-1-11"
   },
   {
     "title": "Tito 1:12",
     "content": "εἶπέν τις ἐξ αὐτῶν, ἴδιος αὐτῶν προφήτης, Κρῆτες ἀεὶ ψεῦσται, κακὰ θηρία, γαστέρες ἀργαί· [Uno de ellos, su propio profeta, dijo: «Los cretenses son siempre mentirosos, malas bestias, glotones ociosos».]  - εἶπέν (V-AAI-3S) ==dijo== [F]",
-    "url": "/roots/ROOTS-dataset/tito/#tito-1-12"
+    "url": "/roots/roots-dataset/tito-data/#tito-1-12"
   },
   {
     "title": "Tito 1:13",
     "content": "ἡ μαρτυρία αὕτη ἐστὶν ἀληθής. διʼ ἣν αἰτίαν ἔλεγχε αὐτοὺς ἀποτόμως, ἵνα ὑγιαίνωσιν ἐν τῇ πίστει, [Este testimonio es verdadero. Por eso, repréndelos severamente para que sean sanos en la fe,]  - ἐστὶν (V-PAI-3S) ==es== [F] - ἔλεγχε (V-PAM-2S) ==reprende== [F] - ὑγιαίνωσιν (V-PAS-3P) ==sean sanos== [F] → ἵνα = para que [i]",
-    "url": "/roots/ROOTS-dataset/tito/#tito-1-13"
+    "url": "/roots/roots-dataset/tito-data/#tito-1-13"
   },
   {
     "title": "Tito 1:14",
     "content": "μὴ προσέχοντες Ἰουδαϊκοῖς μύθοις καὶ ἐντολαῖς ἀνθρώπων ἀποστρεφομένων τὴν ἀλήθειαν. [y no presten atención a mitos judaicos y a mandamientos de hombres que se apartan de la verdad.]  - προσέχοντες (V-PAP-NPM) prestando atención [NF] - ἀποστρεφομένων (V-PMP-GPM) apartándose [NF] → καὶ = y",
-    "url": "/roots/ROOTS-dataset/tito/#tito-1-14"
+    "url": "/roots/roots-dataset/tito-data/#tito-1-14"
   },
   {
     "title": "Tito 1:15",
     "content": "⸀πάντα καθαρὰ τοῖς καθαροῖς· τοῖς δὲ μεμιαμμένοις καὶ ἀπίστοις οὐδὲν καθαρόν, ἀλλὰ μεμίανται αὐτῶν καὶ ὁ νοῦς καὶ ἡ συνείδησις. [Todas las cosas son puras para los puros, pero para los corrompidos e incrédulos nada es puro, sino que tanto su mente como su conciencia están corrompidas.]  - μεμίανται (V-RPI-3P) ==están corrompidas== [F] → δὲ = pero [c] → καὶ = y → ἀλλὰ = sino [c] → καὶ = y → καὶ = y",
-    "url": "/roots/ROOTS-dataset/tito/#tito-1-15"
+    "url": "/roots/roots-dataset/tito-data/#tito-1-15"
   },
   {
     "title": "Tito 1:16",
     "content": "θεὸν ὁμολογοῦσιν εἰδέναι, τοῖς δὲ ἔργοις ἀρνοῦνται, βδελυκτοὶ ὄντες καὶ ἀπειθεῖς καὶ πρὸς πᾶν ἔργον ἀγαθὸν ἀδόκιμοι. [Profesan conocer a Dios, pero con sus hechos lo niegan, siendo abominables y desobedientes e inútiles para cualquier obra buena.]  - ὁμολογοῦσιν (V-PAI-3P) ==profesan== [F] - εἰδέναι (V-PAN) conocer [NF] - ἀρνοῦνται (V-PMI-3P) ==niegan== [F] - ὄντες (V-PAP-NPM) siendo [NF] → δὲ = pero [c] → καὶ = y → καὶ = y",
-    "url": "/roots/ROOTS-dataset/tito/#tito-1-16"
+    "url": "/roots/roots-dataset/tito-data/#tito-1-16"
   }
 ]

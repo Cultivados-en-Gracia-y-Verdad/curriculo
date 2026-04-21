@@ -2,8 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/roots/</loc>
-  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2026-04-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -130,19 +128,33 @@
   </url><url>
     <loc>http://localhost:1313/roots/step1-output/1corintios.out/</loc>
   </url><url>
+    <loc>http://localhost:1313/roots/step1-output/1juan.out/</loc>
+  </url><url>
+    <loc>http://localhost:1313/roots/step1-output/1pedro.out/</loc>
+  </url><url>
     <loc>http://localhost:1313/roots/step1-output/1tesalonicenses.out/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/step1-output/1timoteo.out/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/step1-output/2corintios.out/</loc>
   </url><url>
+    <loc>http://localhost:1313/roots/step1-output/2juan.out/</loc>
+  </url><url>
+    <loc>http://localhost:1313/roots/step1-output/2pedro.out/</loc>
+  </url><url>
     <loc>http://localhost:1313/roots/step1-output/2tesalonicenses.out/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/step1-output/2timoteo.out/</loc>
   </url><url>
+    <loc>http://localhost:1313/roots/step1-output/3juan.out/</loc>
+  </url><url>
+    <loc>http://localhost:1313/roots/step1-output/apocalipsis.out/</loc>
+  </url><url>
     <loc>http://localhost:1313/roots/step1-output/colosenses.out/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/step1-output/efesios.out/</loc>
+  </url><url>
+    <loc>http://localhost:1313/roots/step1-output/filemon.out/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/step1-output/filipenses.out/</loc>
   </url><url>
@@ -153,6 +165,8 @@
     <loc>http://localhost:1313/roots/step1-output/hechos.out/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/step1-output/juan.out/</loc>
+  </url><url>
+    <loc>http://localhost:1313/roots/step1-output/judas.out/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/step1-output/lucas.out/</loc>
   </url><url>
@@ -168,6 +182,8 @@
   </url><url>
     <loc>http://localhost:1313/roots/sblgnt/1corintios/</loc>
   </url><url>
+    <loc>http://localhost:1313/roots/roots-dataset/1corintios-data/</loc>
+  </url><url>
     <loc>http://localhost:1313/roots/sblgnt/1juan/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/sblgnt/1pedro/</loc>
@@ -182,16 +198,20 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/roots/roots-dataset/colosenses-data/</loc>
+  </url><url>
     <loc>http://localhost:1313/nosotros/</loc>
   </url><url>
     <loc>http://localhost:1313/radio/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/sblgnt/romanos/</loc>
   </url><url>
+    <loc>http://localhost:1313/roots/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/sblgnt/tito/</loc>
   </url><url>
-    <loc>http://localhost:1313/roots/roots-dataset/tito-dataset/</loc>
+    <loc>http://localhost:1313/roots/roots-dataset/tito-data/</loc>
   </url>
 </urlset>

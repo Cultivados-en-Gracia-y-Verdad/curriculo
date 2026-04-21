@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="/css/roots.css">
 <link rel="stylesheet" href="/css/custom.css">
-<h1></h1>
+<h1>{{ .Title }}</h1>
 
-
+<!-- 🔍 SEARCH BAR -->
 <div class="search-bar-fixed">
   <input 
     type="text" 
@@ -13,59 +13,23 @@
 </div>
 
 <div class="roots-page-content">
-  <h1></h1>
+  <h1>{{ .Title }}</h1>
 
   <hr>
 
   <div class="roots-content">
-    <h1 id="file-creation-process">file creation process:</h1>
-<ol>
-<li>Create file from SBLGNT text:</li>
-</ol>
-<pre tabindex="0"><code> ./generate.awk -v book=tito &gt; tito.md
-</code></pre><ol start="2">
-<li>Create a new file from the newly created file in step 1 and add in NBLA Spanish text:</li>
-</ol>
-<pre tabindex="0"><code>gawk -f scripts/add_nbla.awk NBLA/tito.nbla.md SBLGNT/tito.md &gt; roots-output/tito.out.md
-</code></pre><ol start="3">
-<li># edit (add verbs)</li>
-<li>gawk -f verify.awk SBLGNT/text/tito.txt tito-verbos.md</li>
-<li>update the index.json: Run this within curriculo to rebuild the index:</li>
-</ol>
-<pre tabindex="0"><code>node build-index.js
-```
-
-   
-</code></pre>
+    {{ .Content }}
   </div>
 </div>
 
 <hr>
 
-
+<!-- 📖 CONTENT -->
 <div class="roots-content">
-  <h1 id="file-creation-process">file creation process:</h1>
-<ol>
-<li>Create file from SBLGNT text:</li>
-</ol>
-<pre tabindex="0"><code> ./generate.awk -v book=tito &gt; tito.md
-</code></pre><ol start="2">
-<li>Create a new file from the newly created file in step 1 and add in NBLA Spanish text:</li>
-</ol>
-<pre tabindex="0"><code>gawk -f scripts/add_nbla.awk NBLA/tito.nbla.md SBLGNT/tito.md &gt; roots-output/tito.out.md
-</code></pre><ol start="3">
-<li># edit (add verbs)</li>
-<li>gawk -f verify.awk SBLGNT/text/tito.txt tito-verbos.md</li>
-<li>update the index.json: Run this within curriculo to rebuild the index:</li>
-</ol>
-<pre tabindex="0"><code>node build-index.js
-```
-
-   
-</code></pre>
+  {{ .Content }}
 </div>
 
-
+<!-- 🔍 SEARCH SCRIPT -->
 <script>
 let DATA = [];
 
@@ -133,7 +97,7 @@ input.addEventListener('input', () => {
 });
 </script>
 
-
+<!-- ✨ HIGHLIGHT SCRIPT -->
 <script>
 document.addEventListener("DOMContentLoaded", () => {
   const hash = window.location.hash;

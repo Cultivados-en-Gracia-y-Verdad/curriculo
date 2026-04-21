@@ -1,54 +1,96 @@
-<!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
+<link rel="stylesheet" href="/css/roots.css">
+<link rel="stylesheet" href="/css/custom.css">
+<h1>{{ .Title }}</h1>
 
-  <head>
-    {{ partial "headers.html" . }}
-    {{ partial "custom_headers.html" . }}
-  <script src="/js/highlight.js"></script>
-  </head>
+{{ .Content }}
+<div class="search-bar"></div>
+<input 
+  type="text" 
+  id="searchBox" 
+  placeholder="Buscar: col 1:1, romanos, fe..."
+  style="width: 100%; padding: 8px; margin: 10px 0;"
+/>
 
-  <body>
-    <div id="all">
+<ul id="results"></ul>
 
-        {{ partial "top.html" . }}
+<ul class="roots-list">
+  {{ range .Pages }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </li>
+  {{ end }}
+</ul>
 
-        {{ partial "nav.html" . }}
+<script>
+let DATA = [];
 
-        {{ partial "breadcrumbs.html" . }}
+// load dataset
+fetch('/roots/ROOTS-dataset/index.json')
+  .then(res => res.json())
+  .then(json => {
+    DATA = json;
+    console.log("Loaded:", DATA.length);
+  });
 
-        <div id="content">
-            <div class="container">
-                <div class="row">
+const input = document.getElementById('searchBox');
+const results = document.getElementById('results');
 
-                    <section id="main">
-                       
-                        <div>
-                         <h1 id="title">{{ .Title }}</h1>
-                              <ul id="list">
-                                {{ range .Data.Pages.ByLinkTitle }}
-                                <li>
-                                <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
-                                </li>
-                                {{ end }}
-                                
-                              </ul>
-                        </div>
-                      </section>
-                    
+// normalize helper
+function clean(str) {
+  return str.toLowerCase().trim();
+}
 
-                </div>
-                <!-- /.row -->
-            </div>
-            <!-- /.container -->
-        </div>
-        <!-- /#content -->
+input.addEventListener('input', () => {
+  const query = clean(input.value);
+  results.innerHTML = '';
 
-        {{ partial "footer.html" . }}
+  if (!query) return;
 
-    </div>
-    <!-- /#all -->
+  let matches = [];
 
-    {{ partial "scripts.html" . }}
+  // 🔥 STEP 1 — handle references (like "col 1:1")
+  if (query.includes(':')) {
 
-  </body>
-</html>
+    const parts = query.split(' ');
+    let verse = null;
+    let book = null;
+
+    parts.forEach(p => {
+      if (p.includes(':')) verse = p;
+      else book = p;
+    });
+
+    matches = DATA.filter(item => {
+      const title = clean(item.title);
+
+      if (book) {
+        return title.includes(book) && title.includes(verse);
+      }
+
+      return title.includes(verse);
+    });
+  }
+
+  // 🔥 STEP 2 — fallback (VERY IMPORTANT)
+  if (matches.length === 0) {
+    matches = DATA.filter(item =>
+      clean(item.title).includes(query) ||
+      clean(item.content).includes(query)
+    );
+  }
+
+  // 🔥 STEP 3 — render results
+  matches.slice(0, 20).forEach(item => {
+    const li = document.createElement('li');
+
+    li.innerHTML = `
+      <a href="${item.url}">
+        <strong>${item.title}</strong>
+      </a><br>
+      <small>${item.content.substring(0, 120)}...</small>
+    `;
+
+    results.appendChild(li);
+  });
+});
+</script>

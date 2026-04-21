@@ -1,0 +1,38 @@
+.search-bar-fixed {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: white;
+  padding: 10px 20px;
+  z-index: 1000;
+  border-bottom: 1px solid #ddd;
+}
+
+#searchBox {
+  width: 100%;
+  max-width: 900px;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+#results {
+  max-width: 900px;
+  background: white;
+  margin: 8px 0 0 0;
+  padding-left: 20px;
+  max-height: 250px;
+  overflow-y: auto;
+}
+
+.roots-page-content {
+  margin-top: 110px;
+}
+ul li {
+  list-style: none;
+}
+
+ul li::before {
+  content: "→ ";
+  margin-right: 4px;
+}

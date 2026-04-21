@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ROOTS Dataset on CGV</title>
+    <link>http://localhost:54041/roots/roots-dataset/</link>
+    <description>Recent content in ROOTS Dataset on CGV</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <atom:link href="http://localhost:54041/roots/roots-dataset/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:54041/roots/roots-dataset/1corintios-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54041/roots/roots-dataset/1corintios-data/</guid>
+      <description>&lt;h2 id=&#34;1co-1-1&#34;&gt;1Corintios 1:1&lt;/h2&gt;&#xA;&lt;p&gt;Παῦλος κλητὸς ἀπόστολος ⸂Χριστοῦ Ἰησοῦ⸃ διὰ θελήματος θεοῦ καὶ Σωσθένης ὁ ἀδελφὸς&#xA;[Pablo, llamado a ser apóstol de Jesucristo por la voluntad de Dios, y Sóstenes, nuestro hermano,]&lt;/p&gt;&#xA;&lt;p&gt;→ καὶ = y&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1co-1-2&#34;&gt;1Corintios 1:2&lt;/h2&gt;&#xA;&lt;p&gt;τῇ ἐκκλησίᾳ τοῦ θεοῦ, ⸂ἡγιασμένοις ἐν Χριστῷ Ἰησοῦ, τῇ οὔσῃ ἐν Κορίνθῳ,⸃ κλητοῖς ἁγίοις, σὺν πᾶσιν τοῖς ἐπικαλουμένοις τὸ ὄνομα τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ ἐν παντὶ τόπῳ ⸀αὐτῶν καὶ ἡμῶν·&#xA;[a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cristo Jesús, llamados a ser santos, con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo, Señor de ellos y nuestro:]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:54041/roots/roots-dataset/colosenses-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54041/roots/roots-dataset/colosenses-data/</guid>
+      <description>&lt;h2 id=&#34;col-1-1&#34;&gt;Colosenses 1:1&lt;/h2&gt;&#xA;&lt;p&gt;Παῦλος ἀπόστολος ⸂Χριστοῦ Ἰησοῦ⸃ διὰ θελήματος θεοῦ καὶ Τιμόθεος ὁ ἀδελφὸς&#xA;[Pablo , apóstol de Jesucristo por la voluntad de Dios, y el hermano Timoteo,]&lt;/p&gt;&#xA;&lt;p&gt;→ καὶ = y&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;col-1-2&#34;&gt;Colosenses 1:2&lt;/h2&gt;&#xA;&lt;p&gt;τοῖς ἐν ⸀Κολοσσαῖς ἁγίοις καὶ πιστοῖς ἀδελφοῖς ἐν Χριστῷ· χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ⸀ἡμῶν.&#xA;[a los santos y fieles hermanos en Cristo que están en Colosas: Gracia a ustedes y paz de parte de Dios nuestro Padre.]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tito dataset</title>
+      <link>http://localhost:54041/roots/roots-dataset/tito-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54041/roots/roots-dataset/tito-data/</guid>
+      <description>&lt;h3 id=&#34;tito-1-1&#34;&gt;Tito 1:1&lt;/h3&gt;&#xA;&lt;p&gt;Παῦλος δοῦλος θεοῦ, ἀπόστολος δὲ Ἰησοῦ Χριστοῦ κατὰ πίστιν ἐκλεκτῶν θεοῦ καὶ ἐπίγνωσιν ἀληθείας τῆς κατʼ εὐσέβειαν&#xA;[Pablo, siervo de Dios y apóstol de Jesucristo, conforme a la fe de los escogidos de Dios y al pleno conocimiento de la verdad que es según la piedad,]&lt;/p&gt;&#xA;&lt;p&gt;→ δὲ = pero&#xA;→ καὶ = y&lt;/p&gt;&#xA;&lt;h3 id=&#34;tito-1-2&#34;&gt;Tito 1:2&lt;/h3&gt;&#xA;&lt;p&gt;ἐπʼ ἐλπίδι ζωῆς αἰωνίου, ἣν ἐπηγγείλατο ὁ ἀψευδὴς θεὸς πρὸ χρόνων αἰωνίων&#xA;[con la esperanza de vida eterna, la cual Dios, que no miente, prometió desde los tiempos eternos,]&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

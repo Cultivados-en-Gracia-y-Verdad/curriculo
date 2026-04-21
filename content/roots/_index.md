@@ -1,9 +1,5 @@
 ---
-title: ROOTS
-type: docs
-weight: 1
+title: "ROOTS Dataset"
 ---
 
-
-Bienvenido al recurso de SBLGNT Nuevo Testamento en Griego
-
+Buscar y navegar por los textos procesados.

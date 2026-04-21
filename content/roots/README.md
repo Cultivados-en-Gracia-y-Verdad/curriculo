@@ -105,7 +105,7 @@ Two distinct line types must be used:
 ### Connector Lines
 
 ```
-+ Greek (Spanish)
+→ Greek (Spanish)
 ```
 
 ------

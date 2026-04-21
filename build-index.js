@@ -1,8 +1,8 @@
 const fs = require("fs");
 const path = require("path");
 
-const datasetDir = "./content/roots/ROOTS-dataset";
-const outputFile = "./static/roots/ROOTS-dataset/index.json";
+const datasetDir = path.join(__dirname, "content/roots/ROOTS-dataset");
+const outputFile = path.join(__dirname, "static/roots/ROOTS-dataset/index.json");
 
 let results = [];
 
@@ -17,7 +17,7 @@ fs.readdirSync(datasetDir).forEach(file => {
   sections.forEach(section => {
     const lines = section.split("\n");
 
-    const header = lines[0]; // "Tito 1:1 {#tito-1-1}"
+    const header = lines[0];
     const match = header.match(/^(.*?) \{#(.*?)\}/);
 
     if (!match) return;
@@ -30,7 +30,7 @@ fs.readdirSync(datasetDir).forEach(file => {
     results.push({
       title: title,
       content: body.replace(/\n/g, " ").trim(),
-      url: `/roots/ROOTS-dataset/${file.replace("-dataset.md", "")}/#${id}`
+      url: `/roots/roots-dataset/${file.replace(".md", "")}/#${id}`
     });
   });
 });
