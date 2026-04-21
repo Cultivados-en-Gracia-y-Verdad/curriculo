@@ -1940,23 +1940,105 @@ Porque estuvo al borde de la muerte por la obra de Cristo, arriesgando su vida p
 
 # Filipenses 3:1-21 GANAR A Cristo Jesús Y SER HALLADO EN ÉL
 
+##### El capítulo 3 tiene varias posturas y mucha polémica sobre la estructura de la carta, por la razón de los cambios de temas, por lo que dice en el versículo 1. *No me es molesto escribirles lo mismo*
+
+### Postura número 1
+
+##### Por el versículo 1 y 2 del capitulo 3 se cree que Filipenses está compuesta por 3 cartas escritas en diferentes fechas. 
+
+##### Se trata más de una especie de amalgama de varias cartas de Pablo a los Filipenses. La oposición a la unidad de la carta a los Filipenses comenzó en el siglo XIX. [^11]
+
+##### Dividida en tres: 
+
+- carta A Filipenses 4:10-20 Agradecimiento, 
+- Carta B Filipenses 1:1-3:1; 4:2-7 y 4:21-23 extensa doctrinal, 
+- Carta C Filipenses 3:2-4:1; 8-9 Polémica. [^11]
+
+##### Está postura es sostenida por la existencia de una carta de Policarpo de Esmirna discípulo de Juan quien escribió a los filipenses citando a Pablo en el capítulo 11:3 de su carta, donde hace mención de *Pablo se gloria de ustedes en todas sus cartas*
+
+##### Pero esta postura no es sostenible a causa de que desde el año 200 los papiros que circularon de los manuscritos de filipenses nunca se transportaron separados. [^12]
+
+##### Probablemente Pablo si escribió otras cartas a los filipenses, pero la Carta los filipenses que actualmente esta dentro del canon bíblico no circulo separado.
+
+### Postura número 2
+
+##### Se cree que la carta a los filipenses es una sola carta escrita por Pablo de inicio a fin del capítulo 1 al capítulo 4 sin separarse.
+
+##### Pero varía en la división de la estructura, donde el capitulo 3:1 esta poniendo fin a un tema central, y en capitulo 3:2 introduce otro tema central, esto a causa del cambio brusco que se tiene. *regocíjense*  Filipenses 3:1; *Cuídense* Filipenses 3:2
+
+##### Esto se debe a que Pablo dijo *A mí no me es molesto escribirles otra vez lo mismo*, haciendo referencia a que regocíjense KJAIRO se repite 9 veces en toda la carta.
+
+##### Y antes de cambiar de tema, Pablo concluye con la repetición de regocíjense, dando final a un tema central de la carta, para introducir un nuevo tema en el versículo 2.
+
+##### También se tiene esta postura por el verbo, *escribirles otra vez lo mismo*, pero la frase *otra vez* es añadido, lo cual no esta en el texto griego original.
+
+##### Entonces: 
+
+- Debemos recordar que ninguna carta ha sido escrita con capítulos y versículos.
+- También debemos recordar que la división natural de la carta esta en base al contexto.
+- No se debe ignorar las conexiones que autor uso en la carta.
+
+##### Esta postura en base a la gramática es lógica, pero no se ajusta a la estructura del contexto unificado de la carta. 
+
+##### Porque ignora la conexión que tiene *por lo demás hermanos míos*.
+
+##### La explicación de *regocíjense como motivo de seguridad* viene a ser forzada ya que no se ajusta al contexto inmediato.
+
 ## Filipenses 3:1-7 Cuidado, alerta, peligro, confianza en la carne.
+
+##### En este estudio se considero la estructura del libro, la gramática del griego, el contexto inmediato y el contexto general de toda la carta.
+
+##### Tomando en cuenta que la carta a los Filipenses no son varias cartas, sino que es una sola carta escrita por Pablo.
+
+##### También se tomo en cuenta que la carta tiene un solo mensaje, desarrollado por varios argumentos, y esta ilustrado por diferentes ejemplos.
+
+##### La carta esta estructurada en una secuencia desarrollada en cadena, con un patron de: Argumento, ejemplo, argumento, ejemplo, argumento, Conclusión.
+
+##### Es por eso que la carta a los Filipenses da la sensación de ser cartas diferentes, o que esta hablando de temas variados sin llegar a un objetivo especifico. 
+
+##### Esta sección no esta cambiando de tema, sino que esta haciendo un contraste radical en relación a lo que dijo anteriormente, ejemplo de siervos fieles, versus el tener cuidado de los malos obreros.
 
 ### Filipenses 3:1
 
 Por lo demás, hermanos míos, regocíjense en el Señor. A mí no me es molesto escribirles otra vez lo mismo, y para ustedes es motivo de seguridad.
 
-#### Por lo demás, hermanos míos, regocíjense en el Señor. 
+#### Por lo demás, hermanos míos, regocíjense en el Señor.
+
+##### Esta conexión es indispensable, por lo que no debe ser ignorado, le da continuidad y lleva a la comprensión de  una sola carta y un mensaje.
+
+##### Este contraste radical puede llegar a ser abrumador.
+
+##### Por ese motivo que su cercanía es fraternal.
+
+##### Esta conexión significa  que lo que va a decir en adelante debe ser motivo de regocijo en el Señor (imperativo).
 
 #### A mí no me es molesto escribirles otra vez lo mismo,
 
+##### Si bien la palabra KJAIRO *regocíjense* aparece 9 veces en la carta a los Filipenses, debemos tomar encuenta que la frase *otra vez* no se encuentra en el texto griego original.
+
+##### Lo que da una interpretación de que antes ya les escribió, y que otra vez esta repitiendo.
+
+##### También se debe tomar en cuenta que *escribirles* es un Verbo en tiempo presente, infinitivo, activo, lo que significa que Pablo esta en la acción de estar escribiendo lo mismo.
+
+##### Si es que Pablo estaría haciendo referencia a algo que ya les dijo con anterioridad, aquí usaría el tiempo aoristo, donde se entendería, *habiéndoles escrito, les escribo lo mismo*. 
+
+##### En un lenguaje mas sencillo se entendería de la siguiente manera: *En lo siguiente hermanos míos, regocíjense en el Señor, por que voy a repetirles lo mismo y a mi no me causa molestia*.
+
 #### y para ustedes es motivo de seguridad.
+
+##### Si quitáramos el argumento que se encuentra en medio de este versículo, podría entenderse así: *lo siguiente hermanos míos, es para ustedes motivo de seguridad.*
+
+##### Pero Pablo inspirado por el Espíritu Santo se anticipo a darles el imperativo de que se regocijen en el Señor en aquello que podría causarles una carga, ya que en el siguiente versículo que no le es molesto escribir lo mismo, existe 3 advertencias con 3 imperativos.
+
+##### Es por eso que lo que viene a continuación es motivo de seguridad y regocijo en el Señor, porque no se queda en el versículo 2 sino que continua con el versículo 3 y así sucesivamente.
 
 ### Filipenses 3:2
 
 Cuídense de esos perros, cuídense de los malos obreros, cuídense de la falsa circuncisión.
 
-#### Cuídense de esos perros, 
+##### Estos tres sujetos, según el contexto, vienen a ser lo mismo. obreros que buscan perturbar la obra de Dios en los hermanos.
+
+#### Cuídense de esos perros,
 
 #### cuídense de los malos obreros,
 
@@ -2525,6 +2607,10 @@ La gracia del Señor Jesucristo sea con el espíritu de ustedes.
 [^9] El blog de The Master´s Seminary
 
 [^10] Texto de Louis Werner
+
+[^11] https://proyectoevanggelio.org/flp12/
+
+[^12] https://apps.lib.umich.edu/reading/Paul/contents.html
 
 
 
