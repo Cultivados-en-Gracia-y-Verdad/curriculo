@@ -250,12 +250,13 @@ Do NOT:
 ## CONNECTOR LINE FORMAT (LOCKED)
 
 - GreekConnector = SpanishConnector [Tag]
+- add three spaces (   -) are used before connector lines. This helps to distinguish between connector lines and verb lines. 
 
 ---
 
 ## SYMBOL RULES (MANDATORY)
 
-- `→` is used for **all connector lines**
+- `   -` is used for **all connector lines**
 - `-` remains reserved **only for verbs**
 - No mixing allowed
 - No alternative symbols allowed
@@ -356,16 +357,16 @@ Format:
 
 ### Structural
 
-- γάρ = porque [I]
+- γάρ = (porque) [I]
 
-- δέ = pero [c]
+- δέ = (pero) [c]
 
 
 ---
 
 ### Non-Structural
 
-- καί = y
+- καί = (y)
 
 
 ---

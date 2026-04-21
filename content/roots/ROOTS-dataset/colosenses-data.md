@@ -7,15 +7,15 @@ Title:  "Colosenses Data"
 Παῦλος ἀπόστολος ⸂Χριστοῦ Ἰησοῦ⸃ διὰ θελήματος θεοῦ καὶ Τιμόθεος ὁ ἀδελφὸς
  [Pablo , apóstol de Jesucristo por la voluntad de Dios, y el hermano Timoteo,]
 
-→ καὶ = y
+   - καὶ = y
 
 ### Colosenses 1:2 {#col-1-2}
 
 τοῖς ἐν ⸀Κολοσσαῖς ἁγίοις καὶ πιστοῖς ἀδελφοῖς ἐν Χριστῷ· χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ⸀ἡμῶν.
  [a los santos y fieles hermanos en Cristo que están en Colosas: Gracia a ustedes y paz de parte de Dios nuestro Padre.]
 
-→ καὶ = y
-→ καὶ = y
+   - καὶ = y
+   - καὶ = y
 
 ### Colosenses 1:3 {#col-1-3}
 
@@ -32,8 +32,8 @@ Title:  "Colosenses Data"
 
 - ἀκούσαντες (V-AAP-NPM) habiendo oído [NF]
 - ἔχετε (V-PAI-2P) ==tienen== [F]
-→ καὶ = y
-→ ἣν = la cual [i]
+   - καὶ = y
+   - ἣν = la cual [i]
 
 ### Colosenses 1:5 {#col-1-5}
 
@@ -42,8 +42,8 @@ Title:  "Colosenses Data"
 
 - ἀποκειμένην (V-PMP-ASF) reservada [NF]
 - προηκούσατε (V-AAI-2P) ==oyeron antes== [F]
-→ διὰ = a causa de
-→ ἣν = la cual [i]
+   - διὰ = a causa de
+   - ἣν = la cual [i]
 
 ### Colosenses 1:6 {#col-1-6}
 
@@ -57,14 +57,14 @@ Title:  "Colosenses Data"
 - ἠκούσατε (V-AAI-2P) ==oyeron== [F]
 - ἐπέγνωτε (V-AAI-2P) ==comprendieron== [F]
 
-→ καθὼς = así como [i]
-→ καὶ = también
-→ καὶ = y
-→ καθὼς = así como [i]
-→ καὶ = también
-→ ἀφʼ = desde
-→ ἧς = la cual [i]
-→ καὶ = y
+   - καθὼς = así como [i]
+   - καὶ = también
+   - καὶ = y
+   - καθὼς = así como [i]
+   - καὶ = también
+   - ἀφʼ = desde
+   - ἧς = la cual [i]
+   - καὶ = y
 
 ### Colosenses 1:7 {#col-1-7}
 
@@ -74,8 +74,8 @@ Title:  "Colosenses Data"
 - ἐμάθετε (V-AAI-2P) ==aprendieron== [F]
 - ἐστιν (V-PAI-3S) ==es== [F]
 
-→ καθὼς = así como [i]
-→ ὅς = quien [i]
+   - καθὼς = así como [i]
+   - ὅς = quien [i]
 
 ### Colosenses 1:8 {#col-1-8}
 
@@ -84,9 +84,7 @@ Title:  "Colosenses Data"
 
 - δηλώσας (V-AAP-NSM) habiendo informado [NF]
 
-→ καὶ = también
-
-
+   - καὶ = también
 
 ### Colosenses 1:9 {#col-1-9}
 
@@ -99,16 +97,14 @@ Title:  "Colosenses Data"
 - αἰτούμενοι (V-PMP-NPM) pidiendo [NF]
 - πληρωθῆτε (V-APS-2P) ==sean llenos== [F]
 
-→ Διὰ τοῦτο = por esta razón [c]
-→ καὶ = también
-→ ἀφʼ = desde
-→ ἧς = la cual [i]
-→ οὐ = no
-→ καὶ = y
-→ ἵνα = para que [i]
-→ καὶ = y
-
-
+   - Διὰ τοῦτο = por esta razón [c]
+   - καὶ = también
+   - ἀφʼ = desde
+   - ἧς = la cual [i]
+   - οὐ = no
+   - καὶ = y
+   - ἵνα = para que [i]
+   - καὶ = y
 
 ### Colosenses 1:10 {#col-1-10}
 
@@ -119,8 +115,8 @@ Title:  "Colosenses Data"
 - καρποφοροῦντες (V-PAP-NPM) dando fruto [NF]
 - αὐξανόμενοι (V-PMP-NPM) creciendo [NF]
 
-→ εἰς = para
-→ καὶ = y
+   - εἰς = para
+   - καὶ = y
 
 ### Colosenses 1:11 {#col-1-11}
 
@@ -129,9 +125,7 @@ Title:  "Colosenses Data"
 
 - δυναμούμενοι (V-PPP-NPM) siendo fortalecidos [NF]
 
-→ καὶ = y
-
-
+   - καὶ = y
 
 ### Colosenses 1:12 {#col-1-12}
 
@@ -141,8 +135,6 @@ Title:  "Colosenses Data"
 - εὐχαριστοῦντες (V-PAP-NPM) dando gracias [NF]
 - ἱκανώσαντι (V-AAP-DSM) habiendo capacitado [NF]
 
-
-
 ### Colosenses 1:13 {#col-1-13}
 
 ὃς ἐρρύσατο ἡμᾶς ἐκ τῆς ἐξουσίας τοῦ σκότους καὶ μετέστησεν εἰς τὴν βασιλείαν τοῦ υἱοῦ τῆς ἀγάπης αὐτοῦ,
@@ -151,10 +143,8 @@ Title:  "Colosenses Data"
 - ἐρρύσατο (V-AMI-3S) ==libró== [F]
 - μετέστησεν (V-AAI-3S) ==trasladó== [F]
 
-→ ὃς = el cual [i]
-→ καὶ = y
-
-
+   - ὃς = el cual [i]
+   - καὶ = y
 
 ### Colosenses 1:14 {#col-1-14}
 
@@ -163,9 +153,7 @@ Title:  "Colosenses Data"
 
 - ἔχομεν (V-PAI-1P) ==tenemos== [F]
 
-→ ἐν ᾧ = en quien [i]
-
-
+   - ἐν ᾧ = en quien [i]
 
 ### Colosenses 1:15 {#col-1-15}
 
@@ -174,9 +162,7 @@ Title:  "Colosenses Data"
 
 - ἐστιν (V-PAI-3S) ==es== [F]
 
-→ ὅς = el cual [i]
-
-
+   - ὅς = el cual [i]
 
 ### Colosenses 1:16 {#col-1-16}
 
@@ -186,12 +172,10 @@ Title:  "Colosenses Data"
 - ἐκτίσθη (V-API-3S) ==fueron creadas== [F]
 - ἔκτισται (V-RPI-3S) ==han sido creadas== [F]
 
-→ ὅτι = porque [i]
-→ καὶ = y
-→ καὶ = y
-→ καὶ = y
-
-
+   - ὅτι = porque [i]
+   - καὶ = y
+   - καὶ = y
+   - καὶ = y
 
 ### Colosenses 1:17 {#col-1-17}
 
@@ -201,10 +185,8 @@ Title:  "Colosenses Data"
 - ἐστιν (V-PAI-3S) ==es== [F]
 - συνέστηκεν (V-RAI-3S) ==permanecen== [F]
 
-→ καὶ = y
-→ καὶ = y
-
-
+   - καὶ = y
+   - καὶ = y
 
 ### Colosenses 1:18 {#col-1-18}
 
@@ -215,11 +197,9 @@ Title:  "Colosenses Data"
 - ἐστιν (V-PAI-3S) ==es== [F]
 - γένηται (V-ADS-3S) ==llegue a ser== [F]
 
-→ καὶ = y
-→ ὅς = el cual [i]
-→ ἵνα = para que [i]
-
-
+   - καὶ = y
+   - ὅς = el cual [i]
+   - ἵνα = para que [i]
 
 ### Colosenses 1:19 {#col-1-19}
 
@@ -229,9 +209,7 @@ Title:  "Colosenses Data"
 - εὐδόκησεν (V-AAI-3S) ==agradó== [F]
 - κατοικῆσαι (V-AAN) habitar [NF]
 
-→ ὅτι = porque [i]
-
-
+   - ὅτι = porque [i]
 
 ### Colosenses 1:20 {#col-1-20}
 
@@ -241,10 +219,10 @@ Title:  "Colosenses Data"
 - ἀποκαταλλάξαι (V-AAN) reconciliar [NF]
 - εἰρηνοποιήσας (V-AAP-NSM) habiendo hecho paz [NF]
 
-→ καὶ = y
-→ διʼ = por medio de
-→ εἴτε = ya sea
-→ εἴτε = ya sea
+   - καὶ = y
+   - διʼ = por medio de
+   - εἴτε = ya sea
+   - εἴτε = ya sea
 
 ### Colosenses 1:21 {#col-1-21}
 
@@ -254,9 +232,7 @@ Title:  "Colosenses Data"
 - ὄντας (V-PAP-APM) siendo [NF]
 - ἀπηλλοτριωμένους (V-RPP-APM) habiendo sido alejados [NF]
 
-→ καὶ = y
-
-
+   - καὶ = y
 
 ### Colosenses 1:22 {#col-1-22}
 
@@ -266,12 +242,10 @@ Title:  "Colosenses Data"
 - ἀποκατήλλαξεν (V-AAI-3S) ==reconcilió== [F]
 - παραστῆσαι (V-AAN) presentar [NF]
 
-→ νυνὶ = ahora
-→ δὲ = pero [c]
-→ καὶ = y
-→ καὶ = y
-
-
+   - νυνὶ = ahora
+   - δὲ = pero [c]
+   - καὶ = y
+   - καὶ = y
 
 ### Colosenses 1:23 {#col-1-23}
 
@@ -285,15 +259,13 @@ Title:  "Colosenses Data"
 - κηρυχθέντος (V-APP-GSN) habiendo sido proclamado [NF]
 - ἐγενόμην (V-ADI-1S) ==fui hecho== [F]
 
-→ εἴ = si [i]
-→ καὶ = y
-→ καὶ = y
-→ καὶ = y
-→ μὴ = no
-→ οὗ = del cual [i]
-→ οὗ = del cual [i]
-
-
+   - εἴ = si [i]
+   - καὶ = y
+   - καὶ = y
+   - καὶ = y
+   - μὴ = no
+   - οὗ = del cual [i]
+   - οὗ = del cual [i]
 
 ### Colosenses 1:24 {#col-1-24}
 
@@ -304,9 +276,9 @@ Title:  "Colosenses Data"
 - ἀνταναπληρῶ (V-PAI-1S) ==completo== [F]
 - ἐστιν (V-PAI-3S) ==es== [F]
 
-→ Νῦν = ahora
-→ καὶ = y
-→ ὅ = el cual [i]
+   - Νῦν = ahora
+   - καὶ = y
+   - ὅ = el cual [i]
 
 ### Colosenses 1:25 {#col-1-25}
 
@@ -317,7 +289,7 @@ Title:  "Colosenses Data"
 - δοθεῖσάν (V-APP-ASF) habiendo sido dada [NF]
 - πληρῶσαι (V-AAN) cumplir [NF]
 
-→ ἧς = de la cual [i]
+   - ἧς = de la cual [i]
 
 ### Colosenses 1:26 {#col-1-26}
 
@@ -327,10 +299,10 @@ Title:  "Colosenses Data"
 - ἀποκεκρυμμένον (V-RPP-ASN) habiendo sido oculto [NF]
 - ἐφανερώθη (V-API-3S) ==fue manifestado== [F]
 
-→ καὶ = y
-→ καὶ = y
-→ νῦν = ahora
-→ δὲ = pero [c]
+   - καὶ = y
+   - καὶ = y
+   - νῦν = ahora
+   - δὲ = pero [c]
 
 ### Colosenses 1:27 {#col-1-27}
 
@@ -341,8 +313,8 @@ Title:  "Colosenses Data"
 - γνωρίσαι (V-AAN) dar a conocer [NF]
 - ἐστιν (V-PAI-3S) ==es== [F]
 
-→ οἷς = a quienes [i]
-→ ὅ = lo cual [i]
+   - οἷς = a quienes [i]
+   - ὅ = lo cual [i]
 
 ### Colosenses 1:28 {#col-1-28}
 
@@ -354,10 +326,10 @@ Title:  "Colosenses Data"
 - διδάσκοντες (V-PAP-NPM) enseñando [NF]
 - παραστήσωμεν (V-AAS-1P) ==presentemos== [F]
 
-→ ὃν = a quien [i]
-→ καὶ = y
-→ καὶ = y
-→ ἵνα = para que [i]
+   - ὃν = a quien [i]
+   - καὶ = y
+   - καὶ = y
+   - ἵνα = para que [i]
 
 ### Colosenses 1:29 {#col-1-29}
 
@@ -368,7 +340,7 @@ Title:  "Colosenses Data"
 - ἀγωνιζόμενος (V-PMP-NSM) esforzándome [NF]
 - ἐνεργουμένην (V-PPP-ASF) operando [NF]
 
-→ καὶ = también
+   - καὶ = también
 
 ### Colosenses 2:1 {#col-2-1}
 
@@ -380,11 +352,11 @@ Title:  "Colosenses Data"
 - ἔχω (V-PAI-1S) ==tengo== [F]
 - ἑόρακαν (V-RAI-3P) ==han visto== [F]
 
-→ γὰρ = porque [i]
-→ καὶ = y
-→ καὶ = y
-→ ὅσοι = cuantos [i]
-→ οὐχ = no
+   - γὰρ = porque [i]
+   - καὶ = y
+   - καὶ = y
+   - ὅσοι = cuantos [i]
+   - οὐχ = no
 
 ### Colosenses 2:2 {#col-2-2}
 
@@ -394,8 +366,8 @@ Title:  "Colosenses Data"
 - παρακληθῶσιν (V-APS-3P) ==sean consolados== [F]
 - συμβιβασθέντες (V-APP-NPM) habiendo sido unidos [NF]
 
-→ ἵνα = para que [i]
-→ καὶ = y
+   - ἵνα = para que [i]
+   - καὶ = y
 
 ### Colosenses 2:3 {#col-2-3}
 
@@ -404,7 +376,7 @@ Title:  "Colosenses Data"
 
 - εἰσιν (V-PAI-3P) ==están== [F]
 
-→ καὶ = y
+   - καὶ = y
 
 ### Colosenses 2:4 {#col-2-4}
 
@@ -414,7 +386,7 @@ Title:  "Colosenses Data"
 - λέγω (V-PAI-1S) ==digo== [F]
 - παραλογίζηται (V-PMS-3S) ==engañe== [F]
 
-→ ἵνα = para que [i]
+   - ἵνα = para que [i]
 
 ### Colosenses 2:5 {#col-2-5}
 
@@ -426,10 +398,10 @@ Title:  "Colosenses Data"
 - χαίρων (V-PAP-NSM) gozándome [NF]
 - βλέπων (V-PAP-NSM) viendo [NF]
 
-→ εἰ = si [i]
-→ γὰρ = porque [i]
-→ καὶ = también
-→ ἀλλὰ = sino [c]
+   - εἰ = si [i]
+   - γὰρ = porque [i]
+   - καὶ = también
+   - ἀλλὰ = sino [c]
 
 ### Colosenses 2:6 {#col-2-6}
 
@@ -439,8 +411,8 @@ Title:  "Colosenses Data"
 - παρελάβετε (V-AAI-2P) ==recibieron== [F]
 - περιπατεῖτε (V-PAM-2P) ==anden== [F]
 
-→ Ὡς = como [i]
-→ οὖν = por tanto [c]
+   - Ὡς = como [i]
+   - οὖν = por tanto [c]
 
 ### Colosenses 2:7 {#col-2-7}
 
@@ -453,9 +425,9 @@ Title:  "Colosenses Data"
 - ἐδιδάχθητε (V-API-2P) ==fueron enseñados== [F]
 - περισσεύοντες (V-PAP-NPM) abundando [NF]
 
-→ καὶ = y
-→ καὶ = y
-→ καθὼς = como [i]
+   - καὶ = y
+   - καὶ = y
+   - καθὼς = como [i]
 
 ### Colosenses 2:8 {#col-2-8}
 
@@ -466,12 +438,12 @@ Title:  "Colosenses Data"
 - ἔσται (V-FMI-3S) ==será== [F]
 - συλαγωγῶν (V-PAP-NSM) llevando cautivo [NF]
 
-→ μή = no
-→ καὶ = y
-→ κατὰ = según
-→ κατὰ = según
-→ καὶ = y
-→ οὐ = no
+   - μή = no
+   - καὶ = y
+   - κατὰ = según
+   - κατὰ = según
+   - καὶ = y
+   - οὐ = no
 
 ### Colosenses 2:9 {#col-2-9}
 
@@ -480,7 +452,7 @@ Title:  "Colosenses Data"
 
 - κατοικεῖ (V-PAI-3S) ==habita== [F]
 
-→ ὅτι = porque [i]
+   - ὅτι = porque [i]
 
 ### Colosenses 2:10 {#col-2-10}
 
@@ -491,9 +463,9 @@ Title:  "Colosenses Data"
 - πεπληρωμένοι (V-RPP-NPM) llenos [NF]
 - ἐστιν (V-PAI-3S) ==es== [F]
 
-→ καὶ = y
-→ ὅς = el cual [i]
-→ καὶ = y
+   - καὶ = y
+   - ὅς = el cual [i]
+   - καὶ = y
 
 ### Colosenses 2:11 {#col-2-11}
 
@@ -502,7 +474,7 @@ Title:  "Colosenses Data"
 
 - περιετμήθητε (V-API-2P) ==fueron circuncidados== [F]
 
-→ καὶ = y
+   - καὶ = y
 
 ### Colosenses 2:12 {#col-2-12}
 
@@ -513,8 +485,8 @@ Title:  "Colosenses Data"
 - συνηγέρθητε (V-API-2P) ==fueron resucitados== [F]
 - ἐγείραντος (V-AAP-GSM) habiendo resucitado [NF]
 
-→ καὶ = también
-→ διὰ = por medio de
+   - καὶ = también
+   - διὰ = por medio de
 
 ### Colosenses 2:13 {#col-2-13}
 
@@ -525,8 +497,8 @@ Title:  "Colosenses Data"
 - συνεζωοποίησεν (V-AAI-3S) ==dio vida== [F]
 - χαρισάμενος (V-AMP-NSM) habiendo perdonado [NF]
 
-→ καὶ = y
-→ καὶ = y
+   - καὶ = y
+   - καὶ = y
 
 ### Colosenses 2:14 {#col-2-14}
 
@@ -538,9 +510,9 @@ Title:  "Colosenses Data"
 - ἦρκεν (V-RAI-3S) ==ha quitado== [F]
 - προσηλώσας (V-AAP-NSM) habiendo clavado [NF]
 
-→ καὶ = y
-→ ὃ = el cual [i]
-→ καὶ = y
+   - καὶ = y
+   - ὃ = el cual [i]
+   - καὶ = y
 
 ### Colosenses 2:15 {#col-2-15}
 
@@ -551,8 +523,8 @@ Title:  "Colosenses Data"
 - ἐδειγμάτισεν (V-AAI-3S) ==exhibió== [F]
 - θριαμβεύσας (V-AAP-NSM) habiendo triunfado [NF]
 
-→ καὶ = y
-→ ἐν = en
+   - καὶ = y
+   - ἐν = en
 
 ### Colosenses 2:16 {#col-2-16}
 
@@ -561,12 +533,12 @@ Title:  "Colosenses Data"
 
 - κρινέτω (V-PAM-3S) ==juzgue== [F]
 
-→ Μὴ = no
-→ οὖν = por tanto [c]
-→ καὶ = y
-→ ἢ = o
-→ ἢ = o
-→ ἢ = o
+   - Μὴ = no
+   - οὖν = por tanto [c]
+   - καὶ = y
+   - ἢ = o
+   - ἢ = o
+   - ἢ = o
 
 ### Colosenses 2:17 {#col-2-17}
 
@@ -576,7 +548,7 @@ Title:  "Colosenses Data"
 - ἐστιν (V-PAI-3S) ==son== [F]
 - μελλόντων (V-PAP-GPN) habiendo de venir [NF]
 
-→ δὲ = pero [c]
+   - δὲ = pero [c]
 
 ### Colosenses 2:18 {#col-2-18}
 
@@ -589,9 +561,9 @@ Title:  "Colosenses Data"
 - ἐμβατεύων (V-PAP-NSM) entrando [NF]
 - φυσιούμενος (V-PPP-NSM) siendo inflado [NF]
 
-→ καὶ = y
-→ ἃ = las cuales [i]
-→ ὑπὸ = por
+   - καὶ = y
+   - ἃ = las cuales [i]
+   - ὑπὸ = por
 
 ### Colosenses 2:19 {#col-2-19}
 
@@ -603,12 +575,12 @@ Title:  "Colosenses Data"
 - συμβιβαζόμενον (V-PPP-NSN) siendo unido [NF]
 - αὔξει (V-PAI-3S) ==crece== [F]
 
-→ καὶ = y
-→ οὐ = no
-→ ἐξ οὗ = de quien [i]
-→ διὰ = por medio de
-→ καὶ = y
-→ καὶ = y
+   - καὶ = y
+   - οὐ = no
+   - ἐξ οὗ = de quien [i]
+   - διὰ = por medio de
+   - καὶ = y
+   - καὶ = y
 
 ### Colosenses 2:20 {#col-2-20}
 
@@ -619,11 +591,11 @@ Title:  "Colosenses Data"
 - ζῶντες (V-PAP-NPM) viviendo [NF]
 - δογματίζεσθε (V-PPI-2P) ==se someten== [F]
 
-→ Εἰ = si [i]
-→ σὺν = con
-→ ἀπὸ = de
-→ ὡς = como [i]
-→ ἐν = en
+   - Εἰ = si [i]
+   - σὺν = con
+   - ἀπὸ = de
+   - ὡς = como [i]
+   - ἐν = en
 
 ### Colosenses 2:21 {#col-2-21}
 
@@ -634,11 +606,9 @@ Title:  "Colosenses Data"
 - γεύσῃ (V-AMS-2S) ==gustes== [F]
 - θίγῃς (V-PAS-2S) ==toques== [F]
 
-→ μὴ = no
-→ μηδὲ = ni
-→ μηδὲ = ni
-
-
+   - μὴ = no
+   - μηδὲ = ni
+   - μηδὲ = ni
 
 ### Colosenses 2:22 {#col-2-22}
 
@@ -647,12 +617,10 @@ Title:  "Colosenses Data"
 
 - ἐστιν (V-PAI-3S) ==son== [F]
 
-→ ἅ = las cuales [i]
-→ εἰς = para
-→ κατὰ = según
-→ καὶ = y
-
-
+   - ἅ = las cuales [i]
+   - εἰς = para
+   - κατὰ = según
+   - καὶ = y
 
 ### Colosenses 2:23 {#col-2-23}
 
@@ -662,12 +630,12 @@ Title:  "Colosenses Data"
 - ἐστιν (V-PAI-3S) ==tienen== [F]
 - ἔχοντα (V-PAP-APN) teniendo [NF]
 
-→ ἅτινά = las cuales [i]
-→ μὲν = —
-→ καὶ = y
-→ καὶ = y
-→ οὐκ = no
-→ πρὸς = contra
+   - ἅτινά = las cuales [i]
+   - μὲν = —
+   - καὶ = y
+   - καὶ = y
+   - οὐκ = no
+   - πρὸς = contra
 
 ### Colosenses 3:1 {#col-3-1}
 
@@ -679,11 +647,9 @@ Title:  "Colosenses Data"
 - ἐστιν (V-PAI-3S) ==está== [F]
 - καθήμενος (V-PMP-NSM) sentado [NF]
 
-→ Εἰ = si [i]
-→ οὖν = por tanto [c]
-→ οὗ = donde [i]
-
-
+   - Εἰ = si [i]
+   - οὖν = por tanto [c]
+   - οὗ = donde [i]
 
 ### Colosenses 3:2 {#col-3-2}
 
@@ -692,7 +658,7 @@ Title:  "Colosenses Data"
 
 - φρονεῖτε (V-PAM-2P) ==pongan la mira== [F]
 
-→ μὴ = no
+   - μὴ = no
 
 ### Colosenses 3:3 {#col-3-3}
 
@@ -702,8 +668,8 @@ Title:  "Colosenses Data"
 - ἀπεθάνετε (V-AAI-2P) ==han muerto== [F]
 - κέκρυπται (V-RPI-3S) ==está escondida== [F]
 
-→ γάρ = porque [i]
-→ καὶ = y
+   - γάρ = porque [i]
+   - καὶ = y
 
 ### Colosenses 3:4 {#col-3-4}
 
@@ -713,9 +679,9 @@ Title:  "Colosenses Data"
 - φανερωθῇ (V-APS-3S) ==sea manifestado== [F]
 - φανερωθήσεσθε (V-FPI-2P) ==serán manifestados== [F]
 
-→ ὅταν = cuando [i]
-→ τότε = entonces
-→ καὶ = también
+   - ὅταν = cuando [i]
+   - τότε = entonces
+   - καὶ = también
 
 ### Colosenses 3:5 {#col-3-5}
 
@@ -725,9 +691,9 @@ Title:  "Colosenses Data"
 - Νεκρώσατε (V-AAM-2P) ==consideren muertos== [F]
 - ἐστὶν (V-PAI-3S) ==es== [F]
 
-→ οὖν = por tanto [c]
-→ καὶ = y
-→ ἥτις = la cual [i]
+   - οὖν = por tanto [c]
+   - καὶ = y
+   - ἥτις = la cual [i]
 
 ### Colosenses 3:6 {#col-3-6}
 
@@ -736,8 +702,8 @@ Title:  "Colosenses Data"
 
 - ἔρχεται (V-PMI-3S) ==viene== [F]
 
-→ διʼ = por causa de
-→ ἃ = las cuales [i]
+   - διʼ = por causa de
+   - ἃ = las cuales [i]
 
 ### Colosenses 3:7 {#col-3-7}
 
@@ -747,9 +713,9 @@ Title:  "Colosenses Data"
 - περιεπατήσατέ (V-AAI-2P) ==anduvieron== [F]
 - ἐζῆτε (V-IAI-2P) ==vivían== [F]
 
-→ ἐν οἷς = en las cuales [i]
-→ καὶ = también
-→ ὅτε = cuando [i]
+   - ἐν οἷς = en las cuales [i]
+   - καὶ = también
+   - ὅτε = cuando [i]
 
 ### Colosenses 3:8 {#col-3-8}
 
@@ -758,9 +724,9 @@ Title:  "Colosenses Data"
 
 - ἀπόθεσθε (V-APM-2P) ==desechen== [F]
 
-→ νυνὶ = ahora
-→ δὲ = pero [c]
-→ καὶ = también
+   - νυνὶ = ahora
+   - δὲ = pero [c]
+   - καὶ = también
 
 ### Colosenses 3:9 {#col-3-9}
 
@@ -770,7 +736,7 @@ Title:  "Colosenses Data"
 - ψεύδεσθε (V-PPM-2P) ==mientan== [F]
 - ἀπεκδυσάμενοι (V-AMP-NPM) habiendo desechado [NF]
 
-→ μὴ = no
+   - μὴ = no
 
 ### Colosenses 3:10 {#col-3-10}
 
@@ -781,9 +747,9 @@ Title:  "Colosenses Data"
 - ἀνακαινούμενον (V-PPP-ASM) siendo renovado [NF]
 - κτίσαντος (V-AAP-GSM) habiendo creado [NF]
 
-→ καὶ = y
-→ εἰς = hacia
-→ κατʼ = conforme a
+   - καὶ = y
+   - εἰς = hacia
+   - κατʼ = conforme a
 
 ### Colosenses 3:11 {#col-3-11}
 
@@ -792,12 +758,12 @@ Title:  "Colosenses Data"
 
 - ἔνι (V-PXI-3S) ==hay== [F]
 
-→ ὅπου = donde [i]
-→ οὐκ = no
-→ καὶ = y
-→ καὶ = y
-→ ἀλλὰ = sino [c]
-→ καὶ = y
+   - ὅπου = donde [i]
+   - οὐκ = no
+   - καὶ = y
+   - καὶ = y
+   - ἀλλὰ = sino [c]
+   - καὶ = y
 
 ### Colosenses 3:12 {#col-3-12}
 
@@ -807,9 +773,9 @@ Title:  "Colosenses Data"
 - Ἐνδύσασθε (V-AMM-2P) ==revístanse== [F]
 - ἠγαπημένοι (V-RPP-NPM) habiendo sido amados [NF]
 
-→ οὖν = por tanto [c]
-→ ὡς = como [i]
-→ καὶ = y
+   - οὖν = por tanto [c]
+   - ὡς = como [i]
+   - καὶ = y
 
 ### Colosenses 3:13 {#col-3-13}
 
@@ -821,14 +787,14 @@ Title:  "Colosenses Data"
 - ἔχῃ (V-PAS-3S) ==tenga== [F]
 - ἐχαρίσατο (V-AMI-3S) ==perdonó== [F]
 
-→ καὶ = y
-→ καὶ = y
-→ ἐάν = si [i]
-→ πρός = contra
-→ καθὼς = como [i]
-→ καὶ = también
-→ οὕτως = así
-→ καὶ = también
+   - καὶ = y
+   - καὶ = y
+   - ἐάν = si [i]
+   - πρός = contra
+   - καθὼς = como [i]
+   - καὶ = también
+   - οὕτως = así
+   - καὶ = también
 
 ### Colosenses 3:14 {#col-3-14}
 
@@ -837,8 +803,8 @@ Title:  "Colosenses Data"
 
 - ἐστιν (V-PAI-3S) ==es== [F]
 
-→ δὲ = pero [c]
-→ ὅ = lo cual [i]
+   - δὲ = pero [c]
+   - ὅ = lo cual [i]
 
 ### Colosenses 3:15 {#col-3-15}
 
@@ -849,12 +815,12 @@ Title:  "Colosenses Data"
 - ἐκλήθητε (V-API-2P) ==fueron llamados== [F]
 - γίνεσθε (V-PMM-2P) ==sean== [F]
 
-→ καὶ = y
-→ εἰς = hacia
-→ ἣν = a la cual [i]
-→ καὶ = también
-→ ἐν = en
-→ καὶ = y
+   - καὶ = y
+   - εἰς = hacia
+   - ἣν = a la cual [i]
+   - καὶ = también
+   - ἐν = en
+   - καὶ = y
 
 ### Colosenses 3:16 {#col-3-16}
 
@@ -866,10 +832,10 @@ Title:  "Colosenses Data"
 - νουθετοῦντες (V-PAP-NPM) amonestando [NF]
 - ᾄδοντες (V-PAP-NPM) cantando [NF]
 
-→ ἐν = en
-→ ἐν = en
-→ καὶ = y
-→ ἐν = en
+   - ἐν = en
+   - ἐν = en
+   - καὶ = y
+   - ἐν = en
 
 ### Colosenses 3:17 {#col-3-17}
 
@@ -879,11 +845,11 @@ Title:  "Colosenses Data"
 - ποιῆτε (V-PAS-2P) ==hagan== [F]
 - εὐχαριστοῦντες (V-PAP-NPM) dando gracias [NF]
 
-→ καὶ = y
-→ ἐὰν = si [i]
-→ ἢ = o
-→ ἐν = en
-→ διʼ = por medio de
+   - καὶ = y
+   - ἐὰν = si [i]
+   - ἢ = o
+   - ἐν = en
+   - διʼ = por medio de
 
 ### Colosenses 3:18 {#col-3-18}
 
@@ -893,7 +859,7 @@ Title:  "Colosenses Data"
 - ὑποτάσσεσθε (V-PMM-2P) ==estén sujetas== [F]
 - ἀνῆκεν (V-IAI-3S) ==conviene== [F]
 
-→ ὡς = como [i]
+   - ὡς = como [i]
 
 ### Colosenses 3:19 {#col-3-19}
 
@@ -903,8 +869,8 @@ Title:  "Colosenses Data"
 - ἀγαπᾶτε (V-PAM-2P) ==amen== [F]
 - πικραίνεσθε (V-PPM-2P) ==sean ásperos== [F]
 
-→ καὶ = y
-→ μὴ = no
+   - καὶ = y
+   - μὴ = no
 
 ### Colosenses 3:20 {#col-3-20}
 
@@ -914,9 +880,9 @@ Title:  "Colosenses Data"
 - ὑπακούετε (V-PAM-2P) ==obedezcan== [F]
 - ἐστιν (V-PAI-3S) ==es== [F]
 
-→ κατὰ = en
-→ γὰρ = porque [i]
-→ ἐν = en
+   - κατὰ = en
+   - γὰρ = porque [i]
+   - ἐν = en
 
 ### Colosenses 3:21 {#col-3-21}
 
@@ -926,9 +892,9 @@ Title:  "Colosenses Data"
 - ἐρεθίζετε (V-PAM-2P) ==exasperen== [F]
 - ἀθυμῶσιν (V-PAS-3P) ==se desalienten== [F]
 
-→ μὴ = no
-→ ἵνα = para que [i]
-→ μὴ = no
+   - μὴ = no
+   - ἵνα = para que [i]
+   - μὴ = no
 
 ### Colosenses 3:22 {#col-3-22}
 
@@ -938,10 +904,10 @@ Title:  "Colosenses Data"
 - ὑπακούετε (V-PAM-2P) ==obedezcan== [F]
 - φοβούμενοι (V-PMP-NPM) temiendo [NF]
 
-→ κατὰ = en
-→ μὴ = no
-→ ὡς = como [i]
-→ ἀλλʼ = sino [c]
+   - κατὰ = en
+   - μὴ = no
+   - ὡς = como [i]
+   - ἀλλʼ = sino [c]
 
 ### Colosenses 3:23 {#col-3-23}
 
@@ -951,10 +917,10 @@ Title:  "Colosenses Data"
 - ποιῆτε (V-PAS-2P) ==hagan== [F]
 - ἐργάζεσθε (V-PMM-2P) ==trabajen== [F]
 
-→ ἐὰν = si [i]
-→ ὡς = como [i]
-→ καὶ = y
-→ οὐκ = no
+   - ἐὰν = si [i]
+   - ὡς = como [i]
+   - καὶ = y
+   - οὐκ = no
 
 ### Colosenses 3:24 {#col-3-24}
 
@@ -965,8 +931,8 @@ Title:  "Colosenses Data"
 - ἀπολήμψεσθε (V-FMI-2P) ==recibirán== [F]
 - δουλεύετε (V-PAI-2P) ==sirven== [F]
 
-→ ὅτι = que [i]
-→ ἀπὸ = de
+   - ὅτι = que [i]
+   - ἀπὸ = de
 
 ### Colosenses 3:25 {#col-3-25}
 
@@ -978,10 +944,10 @@ Title:  "Colosenses Data"
 - ἠδίκησεν (V-AAI-3S) ==hizo injusticia== [F]
 - ἔστιν (V-PAI-3S) ==hay== [F]
 
-→ γὰρ = porque [i]
-→ ὃ = lo que [i]
-→ καὶ = y
-→ οὐκ = no
+   - γὰρ = porque [i]
+   - ὃ = lo que [i]
+   - καὶ = y
+   - οὐκ = no
 
 ### Colosenses 4:1 {#col-4-1}
 
@@ -992,9 +958,9 @@ Title:  "Colosenses Data"
 - εἰδότες (V-RAP-NPM) sabiendo [NF]
 - ἔχετε (V-PAI-2P) ==tienen== [F]
 
-→ καὶ = y
-→ ὅτι = que [i]
-→ καὶ = también
+   - καὶ = y
+   - ὅτι = que [i]
+   - καὶ = también
 
 ### Colosenses 4:2 {#col-4-2}
 
@@ -1014,11 +980,11 @@ Title:  "Colosenses Data"
 - λαλῆσαι (V-AAN) hablar [NF]
 - δέδεμαι (V-RPI-1S) ==he sido encarcelado== [F]
 
-→ καὶ = también
-→ ἵνα = para que [i]
-→ διʼ = por medio de
-→ ὃ = el cual [i]
-→ καὶ = también
+   - καὶ = también
+   - ἵνα = para que [i]
+   - διʼ = por medio de
+   - ὃ = el cual [i]
+   - καὶ = también
 
 ### Colosenses 4:4 {#col-4-4}
 
@@ -1029,8 +995,8 @@ Title:  "Colosenses Data"
 - δεῖ (V-PAI-3S) ==debo== [F]
 - λαλῆσαι (V-AAN) hablar [NF]
 
-→ ἵνα = para que [i]
-→ ὡς = como [i]
+   - ἵνα = para que [i]
+   - ὡς = como [i]
 
 ### Colosenses 4:5 {#col-4-5}
 
@@ -1050,7 +1016,7 @@ Title:  "Colosenses Data"
 - δεῖ (V-PAI-3S) ==deben== [F]
 - ἀποκρίνεσθαι (V-PMN) responder [NF]
 
-→ πῶς = cómo
+   - πῶς = cómo
 
 ### Colosenses 4:7 {#col-4-7}
 
@@ -1059,8 +1025,8 @@ Title:  "Colosenses Data"
 
 - γνωρίσει (V-FAI-3S) ==informará== [F]
 
-→ καὶ = y
-→ καὶ = y
+   - καὶ = y
+   - καὶ = y
 
 ### Colosenses 4:8 {#col-4-8}
 
@@ -1071,9 +1037,9 @@ Title:  "Colosenses Data"
 - γνῶτε (V-AAS-2P) ==sepan== [F]
 - παρακαλέσῃ (V-AAS-3S) ==conforte== [F]
 
-→ ὃν = a quien [i]
-→ ἵνα = para que [i]
-→ καὶ = y
+   - ὃν = a quien [i]
+   - ἵνα = para que [i]
+   - καὶ = y
 
 ### Colosenses 4:9 {#col-4-9}
 
@@ -1083,8 +1049,8 @@ Title:  "Colosenses Data"
 - ἐστιν (V-PAI-3S) ==es== [F]
 - γνωρίσουσιν (V-FAI-3P) ==informarán== [F]
 
-→ καὶ = y
-→ ὅς = el cual [i]
+   - καὶ = y
+   - ὅς = el cual [i]
 
 ### Colosenses 4:10 {#col-4-10}
 
@@ -1096,9 +1062,9 @@ Title:  "Colosenses Data"
 - ἔλθῃ (V-AAS-3S) ==venga== [F]
 - δέξασθε (V-AMM-2P) ==recíbanlo== [F]
 
-→ καὶ = y
-→ περὶ οὗ = acerca del cual [i]
-→ ἐὰν = si [i]
+   - καὶ = y
+   - περὶ οὗ = acerca del cual [i]
+   - ἐὰν = si [i]
 
 ### Colosenses 4:11 {#col-4-11}
 
@@ -1109,9 +1075,9 @@ Title:  "Colosenses Data"
 - ὄντες (V-PAP-NPM) siendo [NF]
 - ἐγενήθησάν (V-ADI-3P) ==han sido== [F]
 
-→ καὶ = y
-→ οὗτοι = estos
-→ οἵτινες = quienes [i]
+   - καὶ = y
+   - οὗτοι = estos
+   - οἵτινες = quienes [i]
 
 ### Colosenses 4:12 {#col-4-12}
 
@@ -1123,11 +1089,11 @@ Title:  "Colosenses Data"
 - σταθῆτε (V-APS-2P) ==estén firmes== [F]
 - πεπληροφορημένοι (V-RPP-NPM) completamente convencidos [NF]
 
-→ ὑπὲρ = por
-→ ἐν = en
-→ ἵνα = para que [i]
-→ καὶ = y
-→ ἐν = en
+   - ὑπὲρ = por
+   - ἐν = en
+   - ἵνα = para que [i]
+   - καὶ = y
+   - ἐν = en
 
 ### Colosenses 4:13 {#col-4-13}
 
@@ -1137,11 +1103,11 @@ Title:  "Colosenses Data"
 - μαρτυρῶ (V-PAI-1S) ==doy testimonio== [F]
 - ἔχει (V-PAI-3S) ==tiene== [F]
 
-→ γὰρ = porque [i]
-→ ὅτι = que [i]
-→ ὑπὲρ = por
-→ καὶ = y
-→ καὶ = y
+   - γὰρ = porque [i]
+   - ὅτι = que [i]
+   - ὑπὲρ = por
+   - καὶ = y
+   - καὶ = y
 
 ### Colosenses 4:14 {#col-4-14}
 
@@ -1150,7 +1116,7 @@ Title:  "Colosenses Data"
 
 - ἀσπάζεται (V-PMI-3S) ==saluda== [F]
 
-→ καὶ = y
+   - καὶ = y
 
 ### Colosenses 4:15 {#col-4-15}
 
@@ -1159,8 +1125,8 @@ Title:  "Colosenses Data"
 
 - ἀσπάσασθε (V-AMM-2P) ==saluden== [F]
 
-→ καὶ = y
-→ καὶ = y
+   - καὶ = y
+   - καὶ = y
 
 ### Colosenses 4:16 {#col-4-16}
 
@@ -1172,13 +1138,13 @@ Title:  "Colosenses Data"
 - ἀναγνωσθῇ (V-APS-3S) ==sea leída== [F]
 - ἀναγνῶτε (V-AAS-2P) ==lean== [F]
 
-→ καὶ = y
-→ ὅταν = cuando [i]
-→ ἵνα = para que [i]
-→ καὶ = también
-→ καὶ = y
-→ ἵνα = para que [i]
-→ καὶ = también
+   - καὶ = y
+   - ὅταν = cuando [i]
+   - ἵνα = para que [i]
+   - καὶ = también
+   - καὶ = y
+   - ἵνα = para que [i]
+   - καὶ = también
 
 ### Colosenses 4:17 {#col-4-17}
 
@@ -1190,10 +1156,10 @@ Title:  "Colosenses Data"
 - παρέλαβες (V-AAI-2S) ==recibiste== [F]
 - πληροῖς (V-PAS-2S) ==cumplas== [F]
 
-→ καὶ = y
-→ ἣν = la cual [i]
-→ ἐν = en
-→ ἵνα = para que [i]
+   - καὶ = y
+   - ἣν = la cual [i]
+   - ἐν = en
+   - ἵνα = para que [i]
 
 ### Colosenses 4:18 {#col-4-18}
 
