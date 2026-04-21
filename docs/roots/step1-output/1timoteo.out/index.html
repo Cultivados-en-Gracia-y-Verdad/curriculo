@@ -760,27 +760,30 @@ input.addEventListener('input', () => {
     );
   }
 
- matches.slice(0, 20).forEach(item => {
+ results.innerHTML = '';
+
+matches.slice(0, 20).forEach(item => {
   const ref = item.ref || item.title || '';
   const preview = item.content
-    ? item.content.replace(/\s+/g, ' ').slice(0, 60)
+    ? item.content.replace(/\s+/g, ' ').slice(0, 80)
     : '';
 
-  const text = ref
-    ? `${ref} — ${preview}...`
-    : preview;
-
-  if (!text.trim()) return;
+  if (!ref) return;
 
   const li = document.createElement('li');
 
-  if (item.url) {
-    const a = document.createElement('a');
-    a.href = item.url;
-    a.textContent = text;
-    li.appendChild(a);
-  } else {
-    li.textContent = text;
+  
+  const a = document.createElement('a');
+  a.href = item.url || '#';
+  a.textContent = ref;
+  li.appendChild(a);
+
+  
+  if (preview) {
+    const excerpt = document.createElement('div');
+    excerpt.className = 'search-excerpt';
+    excerpt.textContent = preview + '...';
+    li.appendChild(excerpt);
   }
 
   results.appendChild(li);
