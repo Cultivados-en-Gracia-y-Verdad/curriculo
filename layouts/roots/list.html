@@ -26,73 +26,53 @@
 <script>
 let DATA = [];
 
-// load dataset
-fetch('/roots/ROOTS-dataset/index.json')
-  .then(res => res.json())
-  .then(json => {
-    DATA = json;
-    console.log("Loaded:", DATA.length);
-  });
-
 const input = document.getElementById('searchBox');
 const results = document.getElementById('results');
 
-// normalize helper
 function clean(str) {
-  return str.toLowerCase().trim();
+  return (str || '').toLowerCase().trim();
 }
 
-input.addEventListener('input', () => {
+// Load data FIRST
+fetch('/roots/roots-dataset/index.json')
+  .then(res => res.json())
+  .then(json => {
+    DATA = json;
+    console.log('DATA loaded:', DATA.length);
+
+    // ✅ ONLY attach listener AFTER data is ready
+    input.addEventListener('input', handleSearch);
+  })
+  .catch(err => console.error('Fetch error:', err));
+
+function handleSearch() {
   const query = clean(input.value);
   results.innerHTML = '';
 
   if (!query) return;
 
-  let matches = [];
+  const matches = DATA.filter(item =>
+    JSON.stringify(item).toLowerCase().includes(query)
+  );
 
-  // 🔥 STEP 1 — handle references (like "col 1:1")
-  if (query.includes(':')) {
-
-    const parts = query.split(' ');
-    let verse = null;
-    let book = null;
-
-    parts.forEach(p => {
-      if (p.includes(':')) verse = p;
-      else book = p;
-    });
-
-    matches = DATA.filter(item => {
-      const title = clean(item.title);
-
-      if (book) {
-        return title.includes(book) && title.includes(verse);
-      }
-
-      return title.includes(verse);
-    });
-  }
-
-  // 🔥 STEP 2 — fallback (VERY IMPORTANT)
-  if (matches.length === 0) {
-    matches = DATA.filter(item =>
-      clean(item.title).includes(query) ||
-      clean(item.content).includes(query)
-    );
-  }
-
-  // 🔥 STEP 3 — render results
   matches.slice(0, 20).forEach(item => {
+    const text = item.ref || item.content;
+    const url = item.url;
+
+    if (!text) return;
+
     const li = document.createElement('li');
 
-    li.innerHTML = `
-      <a href="${item.url}">
-        <strong>${item.title}</strong>
-      </a><br>
-      <small>${item.content.substring(0, 120)}...</small>
-    `;
+    if (url) {
+      const a = document.createElement('a');
+      a.href = url;
+      a.textContent = text;
+      li.appendChild(a);
+    } else {
+      li.textContent = text;
+    }
 
     results.appendChild(li);
   });
-});
+}
 </script>
