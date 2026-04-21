@@ -580,18 +580,31 @@ input.addEventListener('input', () => {
     );
   }
 
-  matches.slice(0, 20).forEach(item => {
-    const li = document.createElement('li');
+ matches.slice(0, 20).forEach(item => {
+  const ref = item.ref || item.title || '';
+  const preview = item.content
+    ? item.content.replace(/\s+/g, ' ').slice(0, 60)
+    : '';
 
-    li.innerHTML = `
-      <a href="${item.url}">
-        <strong>${item.title}</strong>
-      </a><br>
-      <small>${item.content.substring(0, 120)}...</small>
-    `;
+  const text = ref
+    ? `${ref} — ${preview}...`
+    : preview;
 
-    results.appendChild(li);
-  });
+  if (!text.trim()) return;
+
+  const li = document.createElement('li');
+
+  if (item.url) {
+    const a = document.createElement('a');
+    a.href = item.url;
+    a.textContent = text;
+    li.appendChild(a);
+  } else {
+    li.textContent = text;
+  }
+
+  results.appendChild(li);
+});
 });
 </script>
 

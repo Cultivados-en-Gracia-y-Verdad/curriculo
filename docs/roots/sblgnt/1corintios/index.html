@@ -958,18 +958,34 @@ input.addEventListener('input', () => {
     );
   }
 
-  matches.slice(0, 20).forEach(item => {
-    const li = document.createElement('li');
+ results.innerHTML = '';
 
-    li.innerHTML = `
-      <a href="${item.url}">
-        <strong>${item.title}</strong>
-      </a><br>
-      <small>${item.content.substring(0, 120)}...</small>
-    `;
+matches.slice(0, 20).forEach(item => {
+  const ref = item.ref || item.title || '';
+  const preview = item.content
+    ? item.content.replace(/\s+/g, ' ').slice(0, 80)
+    : '';
 
-    results.appendChild(li);
-  });
+  if (!ref) return;
+
+  const li = document.createElement('li');
+
+  
+  const a = document.createElement('a');
+  a.href = item.url || '#';
+  a.textContent = ref;
+  li.appendChild(a);
+
+  
+  if (preview) {
+    const excerpt = document.createElement('div');
+    excerpt.className = 'search-excerpt';
+    excerpt.textContent = preview + '...';
+    li.appendChild(excerpt);
+  }
+
+  results.appendChild(li);
+});
 });
 </script>
 

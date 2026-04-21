@@ -264,24 +264,35 @@ function handleSearch() {
     JSON.stringify(item).toLowerCase().includes(query)
   );
 
-  matches.slice(0, 20).forEach(item => {
-    const text = item.ref || item.content;
-    const url = item.url;
+  results.innerHTML = '';
 
-    if (!text) return;
+matches.slice(0, 20).forEach(item => {
+  const ref = item.ref || item.title || '';
+  const preview = item.content
+    ? item.content.replace(/\s+/g, ' ').slice(0, 80)
+    : '';
 
-    const li = document.createElement('li');
+  if (!ref) return;
 
-    if (url) {
-      const a = document.createElement('a');
-      a.href = url;
-      a.textContent = text;
-      li.appendChild(a);
-    } else {
-      li.textContent = text;
-    }
+  const li = document.createElement('li');
 
-    results.appendChild(li);
-  });
+  
+  const a = document.createElement('a');
+  a.href = item.url || '#';
+  a.textContent = ref;
+  li.appendChild(a);
+
+  
+  if (preview) {
+    const excerpt = document.createElement('div');
+    excerpt.className = 'search-excerpt';
+    excerpt.textContent = preview + '...';
+    li.appendChild(excerpt);
+  }
+
+  results.appendChild(li);
+});
 }
+const regex = new RegExp(`(${query})`, 'gi');
+excerpt.innerHTML = preview.replace(regex, '<mark>$1</mark>') + '...';
 </script>

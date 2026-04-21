@@ -279,115 +279,159 @@ Connectors are classified using **structure only**, NOT meaning
 
 ---
 
-## CLASSIFICATION TAGS
+# CONNECTOR CLASSIFICATION (FINAL — LOCKED)
 
-### `[i]` — Introduces a Clause
+## CORE PRINCIPLE
 
-Use `[i]` if:
+A connector is identified ONLY by its relationship between finite verbs.
 
-- the connector precedes a clause
-- the clause contains a **finite verb**
+👉 A connector ALWAYS connects a clause to another clause.
 
----
-
-### `[c]` — Connects Clauses
-
-Use `[c]` if:
-
-- the connector links two clause-level units
-- each unit contains (or implies) a finite verb
+There is no distinction between "introduces" and "connects".
 
 ---
 
-### (no tag) — Non-Structural
+## SINGLE CLASSIFICATION
 
-Leave untagged if:
+All structural connectors are labeled:
 
-- it connects words or phrases only
-- it does not operate at clause level
-- it does not introduce a clause with a finite verb
+[c]
 
----
-
-## STRUCTURAL TEST (MANDATORY)
-
-Before assigning `[I]` or `[c]`, ask:
-
-
-Does this connector introduce or connect a unit that contains a finite verb?
-
-
-- ✔ YES → assign `[I]` or `[c]`
-- ❌ NO → leave untagged
+There are no other connector categories.
 
 ---
 
-## POSITIONAL RULE (IMPORTANT)
+## STRUCTURAL REQUIREMENT (MANDATORY)
 
-Classification is based ONLY on:
+Before marking a connector:
 
-- position in the Greek sentence
-- presence of finite verbs
+1. Identify Verb A
+2. Identify Verb B
+3. Confirm the connector relates them
 
-Do NOT use:
+If two finite verbs cannot be identified:
 
-- meaning (reason, contrast, result, etc.)
-- translation nuance
-- theological interpretation
+→ the connector is NOT structural
+→ do NOT assign [c]
 
 ---
 
-## NBLA ALIGNMENT RULE
+## WHAT "CONNECTS" MEANS
 
-The Spanish connector must:
+A connector may:
 
-- reflect NBLA wording exactly
-- appear in the NBLA verse line
-- not be paraphrased
-- not be replaced
+- appear at the beginning of a clause
+- appear between clauses
+
+But in all cases:
+
+👉 it links that clause to another clause
+
+---
+
+## POSITION IS IRRELEVANT
+
+Do NOT classify based on:
+
+- where the word appears
+- whether it “introduces” a clause
+
+Even if it appears at the start:
+
+👉 it still CONNECTS to a previous clause
+
+---
+
+## EXAMPLE
+
+γὰρ = porque [c]  
+ἀλλʼ = pero [c]
+
+Both:
+
+- connect clauses
+- depend on previous verbal units
+- must be treated equally
+
+---
+
+## NBLA ALIGNMENT — EXTENDED RULE (CRITICAL)
+
+The Spanish connector must align to NBLA, but NBLA may not always express it explicitly.
+
+---
+
+### CASE 1 — Explicit in NBLA
+
+If the connector appears in NBLA:
+
+- use the exact word
+
+Example:
+
+γάρ → porque
+
+---
+
+### CASE 2 — NOT explicit in NBLA (MANDATORY HANDLING)
+
+If the connector does NOT appear in NBLA:
+
+- insert the closest natural equivalent in brackets
 
 Format:
 
-- γάρ = porque
-
-
----
-
-## EXAMPLES
-
-### Structural
-
-- γάρ = (porque) [I]
-
-- δέ = (pero) [c]
-
+[pero]
 
 ---
 
-### Non-Structural
+### PLACEMENT RULE (MANDATORY)
 
-- καί = (y)
+The supplied connector must be placed:
 
+- at the closest logical point in the NBLA phrase
+- where the clause transition occurs
 
 ---
 
-## CRITICAL RESTRICTIONS
+### EXAMPLE (1 Corintios 3:2)
+
+Greek:
+ἀλλʼ οὐδὲ ἔτι νῦν δύνασθε
+
+NBLA:
+ni aun ahora pueden
+
+Correct alignment:
+
+ἀλλʼ = [pero] ni aun ahora [c]
+
+---
+
+### PRINCIPLE
+
+Greek controls STRUCTURE  
+NBLA reflects SURFACE
+
+When NBLA does not show the connector:
+
+👉 we preserve structure by supplying it in brackets
+
+---
+
+### ABSOLUTE RULE
 
 Do NOT:
 
-- assign semantic labels (reason, contrast, etc.)
-- infer clause relationships beyond structure
-- override Greek with Spanish
-- skip a Greek connector because it feels “weak”
+- omit the connector
+- force incorrect Spanish
+- distort NBLA wording
 
----
+Always:
 
-## FINAL PRINCIPLE
-
-👉 Connectors are **structural markers**, not meaning carriers
-
-👉 Extraction is complete  
-👉 Classification is minimal and mechanical
+✔ preserve Greek structure  
+✔ preserve NBLA wording  
+✔ add bracketed connector when necessary
 
 # CONNECTOR PRINCIPLE
 

@@ -36,3 +36,8 @@ ul li::before {
   content: "→ ";
   margin-right: 4px;
 }
+.search-excerpt {
+  font-size: 0.85em;
+  color: #555;
+  margin-left: 1.5em; /* aligns under arrow */
+}
