@@ -736,15 +736,24 @@ En verdad, ni aun ahora ==pueden==.
 
 # PASO 4 — IDENTIFICAR CONECTORES QUE UNEN CLÁUSULAS
 
-![tabla-conectores](images/tabla-conectores.png)
+![tabla-conectores](../../../../../../../images/tabla-conectores.png)
 
 ## EJECUTA
 
 ##### ¿Qué haces?
-##### Identificas y marcas los conectores que <u>unen</u> cláusulas con verbo finito.
+##### Identificas y marcas los conectores que <u>conectan</u> cláusulas con verbo finito.
+
 
 ##### Regla
-##### Solo se marcan los conectores que unen dos cláusulas con verbo finito.
+##### Solo se marcan los conectores que conectan dos cláusulas con verbo finito.
+
+###### ❗ Todo conector marcado debe unir dos verbos finitos.
+
+###### ❗ No existe la categoría “introduce”.
+
+Aunque el conector aparezca al inicio de una cláusula:
+
+👉 sigue conectando esa cláusula con otra.
 
 ##### Cómo hacerlo
 
@@ -753,16 +762,42 @@ En verdad, ni aun ahora ==pueden==.
 2. Lee entre las cláusulas
 
 3. Haz esta pregunta:
-- 👉 ¿Este conector une dos verbos finitos?
+- 👉 ¿Este conector conecta dos verbos finitos?
 
-4. Decide:
+4. Verifica:
+- 👉 Identifica el verbo anterior
+- 👉 Identifica el verbo siguiente
+
+5. Decide:
 - Sí → se marca
 - No → se ignora
 
-5. Marca así:
+6. Marca así:
 ```
 (porque)
 ```
+
+##### Regla de alineación (CRÍTICA)
+
+###### El conector debe reflejar el texto, pero no siempre aparece explícito.
+
+###### Hay dos casos:
+
+###### Caso 1 — Aparece en el texto
+###### Se usa tal como está:
+
+```
+(porque)
+```
+
+###### Caso 2 — No aparece explícitamente
+###### Se añade entre corchetes:
+
+```
+([pero])
+```
+
+######  👉 Esto ocurre cuando el griego tiene un conector, pero el español no lo expresa directamente.
 
 ##### Resultado esperado
 
@@ -773,28 +808,34 @@ Les ==di== a beber leche, no alimento sólido,
 
 (porque) todavía no ==podían== recibirlo.
 
-En verdad, ni aun ahora ==pueden==.
+([pero]) ni aun ahora ==pueden==.
 ```
 
 ## ENTIENDE
 
 ##### Qué estás haciendo realmente
-###### Estás identificando la **relación real entre cláusulas**.
+###### Estás identificando cómo una cláusula se relaciona con otra.
 
 ##### Principio clave
-###### Solo los conectores que <u>unen</u> cláusulas afectan la estructura.
+###### El texto avanza por verbos.
+
+###### Los conectores unen esos verbos.
+
+##### Corrección fundamental
+###### Un conector no “introduce” una cláusula.
+
+###### 👉 Siempre la conecta con otra.
 
 ##### Idea clave
 ##### No todo conector en el texto conecta cláusulas.
 
 ##### Pregunta guía
-###### 👉 ¿Este conector une dos <u>verbos</u> finitos?
+###### 👉 ¿Este conector conecta dos <u>verbos</u> finitos?
 
 ##### Definición
-###### Un conector es una palabra que establece una relación entre dos cláusulas.
+###### Un conector es una palabra que relaciona una cláusula con otra cláusula.
 
 ##### Ejemplo guiado
-
 ###### Texto (de paso 3):
 
 ```
@@ -808,7 +849,9 @@ En verdad, ni aun ahora ==pueden==.
 ```
 
 ###### Evaluación:
-- (porque) conecta \==di\== con \==podían\== → ✔ válido
+
+- (porque) conecta ==di== con ==podían== → ✔ válido
+- ([pero]) conecta ==podían== con ==pueden== → ✔ válido
 
 ###### Resultado:
 
@@ -816,34 +859,34 @@ En verdad, ni aun ahora ==pueden==.
 Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
 
 Les ==di== a beber leche, no alimento sólido,
-
-(porque) todavía no ==podían== recibirlo.
-
-En verdad, ni aun ahora ==pueden==.
+    (porque) todavía no ==podían== recibirlo.
+        ([pero]) ni aun ahora ==pueden==.
 ```
 
 ##### Regla importante
-###### Si un conector no une dos verbos finitos, se <u>ignora</u>.
-
-##### Errores comunes
-- Marcar todos los conectores
-- Ignorar los verbos
-- Confiar en intuición
-- Forzar relaciones
+###### Si un conector no conecta dos verbos finitos, se <u>ignora</u>.
 
 ##### Regla de control
 ###### Si no puedes señalar los dos verbos que conecta, no se marca.
 
+##### Error crítico (nuevo)
+
+- Pensar que un conector “introduce” una cláusula
+- Ignorar conectores porque no aparecen en español
+- No marcar conectores implícitos en NBLA
+
 ##### Frase clave
-> “No todo conector conecta cláusulas.”
+> “Todo conector conecta cláusulas, aunque no siempre se vea en español.
 
 ##### Qué debes notar
-###### Cuando los conectores <u>están</u> bien marcados:
-- la estructura comienza a aparecer
-- las relaciones se vuelven visibles
+###### Cuando los conectores están bien marcados:
+
+- la estructura aparece con claridad
+- las dependencias se hacen visibles
+- no se pierde información del texto griego
 
 ##### Transición
-###### En el siguiente paso <u>usarás</u> estos conectores para organizar la estructura.
+###### En el siguiente paso usarás estos conectores para organizar la estructura.
 
 # PASO 5 - IDENTIFICAR LA ESTRUCTURA
 
