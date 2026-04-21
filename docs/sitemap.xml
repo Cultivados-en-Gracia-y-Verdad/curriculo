@@ -86,6 +86,8 @@
   </url><url>
     <loc>http://localhost:1313/roots/readme/</loc>
   </url><url>
+    <loc>http://localhost:1313/roots/roots-dataset/1corintios-data/</loc>
+  </url><url>
     <loc>http://localhost:1313/roots/sblgnt/2corintios/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/sblgnt/2juan/</loc>
@@ -181,8 +183,6 @@
     <loc>http://localhost:1313/roots/step1-output/tito.out/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/sblgnt/1corintios/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/roots-dataset/1corintios-data/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/sblgnt/1juan/</loc>
   </url><url>

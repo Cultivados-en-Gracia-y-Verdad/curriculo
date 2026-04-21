@@ -105,7 +105,7 @@ Two distinct line types must be used:
 ### Connector Lines
 
 ```
-→ Greek (Spanish)
+- Greek (Spanish)
 ```
 
 ------
@@ -249,7 +249,7 @@ Do NOT:
 
 ## CONNECTOR LINE FORMAT (LOCKED)
 
-→ GreekConnector = SpanishConnector [Tag]
+- GreekConnector = SpanishConnector [Tag]
 
 ---
 
@@ -347,8 +347,7 @@ The Spanish connector must:
 
 Format:
 
-
-→ γάρ = porque
+- γάρ = porque
 
 
 ---
@@ -357,17 +356,16 @@ Format:
 
 ### Structural
 
+- γάρ = porque [I]
 
-→ γάρ = porque [I]
-→ δέ = pero [c]
+- δέ = pero [c]
 
 
 ---
 
 ### Non-Structural
 
-
-→ καί = y
+- καί = y
 
 
 ---
