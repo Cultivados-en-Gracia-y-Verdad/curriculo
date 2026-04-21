@@ -330,8 +330,6 @@ title: "1 Corintios Roots-dataset"
 
    - ἵνα → (para que)
 
-## 1 Corintios 2:1–16
-
 ### 1 Corintios 2:1 {#1co-2-1}
 
 Κἀγὼ ἐλθὼν πρὸς ὑμᾶς ἀδελφοί οὐ καθʼ ὑπεροχὴν λόγου ἢ σοφίας ἦλθον καταγγέλλων ὑμῖν τὸ μαρτύριον τοῦ θεοῦ
@@ -554,8 +552,6 @@ title: "1 Corintios Roots-dataset"
 
    - γὰρ → (porque)
    - δὲ → (pero)
-
-## 1 Corintios 3:1–23
 
 ### 1 Corintios 3:1 {#1co-3-1}
 
