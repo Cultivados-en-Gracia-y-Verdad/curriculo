@@ -736,7 +736,7 @@ En verdad, ni aun ahora ==pueden==.
 
 # PASO 4 — IDENTIFICAR CONECTORES QUE UNEN CLÁUSULAS
 
-![tabla-conectores](images/tabla-conectores.png)
+![tabla-conectores](images/conectores.png)
 
 ## EJECUTA
 
