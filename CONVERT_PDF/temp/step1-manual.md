@@ -2,7 +2,7 @@
 title: "Navegando el Texto"
 subtitle:  "Cómo leer, observar y seguir el flujo del texto bíblico"
 author:  "CGV"
-version:  "0.5"
+version:  "0.8"
 date:  "2026-04-14"
 cover: "images/portada.png"
 ---
@@ -741,10 +741,19 @@ En verdad, ni aun ahora ==pueden==.
 ## EJECUTA
 
 ##### ¿Qué haces?
-##### Identificas y marcas los conectores que <u>unen</u> cláusulas con verbo finito.
+##### Identificas y marcas los conectores que <u>conectan</u> cláusulas con verbo finito.
+
 
 ##### Regla
-##### Solo se marcan los conectores que unen dos cláusulas con verbo finito.
+##### Solo se marcan los conectores que conectan dos cláusulas con verbo finito.
+
+###### ❗ Todo conector marcado debe unir dos verbos finitos.
+
+###### ❗ No existe la categoría “introduce”.
+
+Aunque el conector aparezca al inicio de una cláusula:
+
+👉 sigue conectando esa cláusula con otra.
 
 ##### Cómo hacerlo
 
@@ -753,16 +762,42 @@ En verdad, ni aun ahora ==pueden==.
 2. Lee entre las cláusulas
 
 3. Haz esta pregunta:
-- 👉 ¿Este conector une dos verbos finitos?
+- 👉 ¿Este conector conecta dos verbos finitos?
 
-4. Decide:
+4. Verifica:
+- 👉 Identifica el verbo anterior
+- 👉 Identifica el verbo siguiente
+
+5. Decide:
 - Sí → se marca
 - No → se ignora
 
-5. Marca así:
+6. Marca así:
 ```
 (porque)
 ```
+
+##### Regla de alineación (CRÍTICA)
+
+###### El conector debe reflejar el texto, pero no siempre aparece explícito.
+
+###### Hay dos casos:
+
+###### Caso 1 — Aparece en el texto
+###### Se usa tal como está:
+
+```
+(porque)
+```
+
+###### Caso 2 — No aparece explícitamente
+###### Se añade entre corchetes:
+
+```
+([pero])
+```
+
+######  👉 Esto ocurre cuando el griego tiene un conector, pero el español no lo expresa directamente.
 
 ##### Resultado esperado
 
@@ -773,28 +808,34 @@ Les ==di== a beber leche, no alimento sólido,
 
 (porque) todavía no ==podían== recibirlo.
 
-En verdad, ni aun ahora ==pueden==.
+([pero]) ni aun ahora ==pueden==.
 ```
 
 ## ENTIENDE
 
 ##### Qué estás haciendo realmente
-###### Estás identificando la \textbf{relación real entre cláusulas}.
+###### Estás identificando cómo una cláusula se relaciona con otra.
 
 ##### Principio clave
-###### Solo los conectores que <u>unen</u> cláusulas afectan la estructura.
+###### El texto avanza por verbos.
+
+###### Los conectores unen esos verbos.
+
+##### Corrección fundamental
+###### Un conector no “introduce” una cláusula.
+
+###### 👉 Siempre la conecta con otra.
 
 ##### Idea clave
 ##### No todo conector en el texto conecta cláusulas.
 
 ##### Pregunta guía
-###### 👉 ¿Este conector une dos <u>verbos</u> finitos?
+###### 👉 ¿Este conector conecta dos <u>verbos</u> finitos?
 
 ##### Definición
-###### Un conector es una palabra que establece una relación entre dos cláusulas.
+###### Un conector es una palabra que relaciona una cláusula con otra cláusula.
 
 ##### Ejemplo guiado
-
 ###### Texto (de paso 3):
 
 ```
@@ -808,7 +849,9 @@ En verdad, ni aun ahora ==pueden==.
 ```
 
 ###### Evaluación:
-- (porque) conecta \==di\== con \==podían\== → ✔ válido
+
+- (porque) conecta ==di== con ==podían== → ✔ válido
+- ([pero]) conecta ==podían== con ==pueden== → ✔ válido
 
 ###### Resultado:
 
@@ -816,34 +859,34 @@ En verdad, ni aun ahora ==pueden==.
 Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
 
 Les ==di== a beber leche, no alimento sólido,
-
-(porque) todavía no ==podían== recibirlo.
-
-En verdad, ni aun ahora ==pueden==.
+    (porque) todavía no ==podían== recibirlo.
+        ([pero]) ni aun ahora ==pueden==.
 ```
 
 ##### Regla importante
-###### Si un conector no une dos verbos finitos, se <u>ignora</u>.
-
-##### Errores comunes
-- Marcar todos los conectores
-- Ignorar los verbos
-- Confiar en intuición
-- Forzar relaciones
+###### Si un conector no conecta dos verbos finitos, se <u>ignora</u>.
 
 ##### Regla de control
 ###### Si no puedes señalar los dos verbos que conecta, no se marca.
 
+##### Error crítico (nuevo)
+
+- Pensar que un conector “introduce” una cláusula
+- Ignorar conectores porque no aparecen en español
+- No marcar conectores implícitos en NBLA
+
 ##### Frase clave
-> “No todo conector conecta cláusulas.”
+> “Todo conector conecta cláusulas, aunque no siempre se vea en español.
 
 ##### Qué debes notar
-###### Cuando los conectores <u>están</u> bien marcados:
-- la estructura comienza a aparecer
-- las relaciones se vuelven visibles
+###### Cuando los conectores están bien marcados:
+
+- la estructura aparece con claridad
+- las dependencias se hacen visibles
+- no se pierde información del texto griego
 
 ##### Transición
-###### En el siguiente paso <u>usarás</u> estos conectores para organizar la estructura.
+###### En el siguiente paso usarás estos conectores para organizar la estructura.
 
 # PASO 5 - IDENTIFICAR LA ESTRUCTURA
 
@@ -1176,19 +1219,25 @@ ni aun ahora ==pueden==
 ## EJECUTA
 
 ##### ¿Qué haces?
+
 ###### Identificas el tronco del texto eliminando únicamente las cláusulas que están estructuralmente subordinadas.
 
 ###### Mantienes las cláusulas que sostienen el desarrollo principal.
 
-###### Mientras lo haces, observas:
-- quién actúa (O1)
-- cuándo cambia el tipo de acción (O2)
+###### Mientras lo haces, observas dos cosas:
+
+- quién actúa
+- cuándo el flujo se interrumpe
+
 
 ##### Regla
+
 ###### Solo puedes eliminar una cláusula si está introducida por un conector subordinante.
 
 ###### ❗ No decides por sentido
+
 ###### ❗ No decides por importancia
+
 ###### ❗ No decides por “parece secundario”
 
 ###### 👉 Decides únicamente por lo que está visible en la estructura
@@ -1196,16 +1245,15 @@ ni aun ahora ==pueden==
 ##### Regla de decisión (CRÍTICA)
 
 ###### Una cláusula se elimina solo si:
-- está introducida por un conector subordinante  
-- ese conector la une directamente a otra cláusula con verbo finito  
+- está introducida por un conector subordinante
+- ese conector la une directamente a otra cláusula con verbo finito
 
 ###### ❗ Si no puedes señalar el conector exacto, no puedes eliminar la cláusula
 
 ##### Definición operativa
-
 ###### Una cláusula subordinada es aquella que:
-- comienza con un conector subordinante  
-- está unida estructuralmente a otra cláusula  
+- comienza con un conector subordinante
+- está unida estructuralmente a otra cláusula
 
 ###### ❗ La dependencia se determina por el conector, no por interpretación
 
@@ -1219,10 +1267,48 @@ ni aun ahora ==pueden==
 - 👉 ¿Esta cláusula comienza con un conector subordinante?
 
 4. Decide:
-- Sí → elimínala  
-- No → mantenla  
 
-5. Repite hasta revisar todo el texto
+- Sí → elimínala
+- No → mantenla
+
+1. Repite hasta revisar todo el texto
+
+##### Observación integrada
+
+###### Mientras identificas el tronco, marcas:
+
+###### SUJETO
+
+- Marca solo cuando el sujeto cambia
+- No explicas
+- No interpretas
+
+###### MOVIMIENTO
+
+###### Detectas cuándo el flujo del texto se interrumpe entre líneas.
+
+###### Solo haces una pregunta:
+> \textbf{¿Esta línea interrumpe la anterior o sigue igual?}
+
+###### Regla
+- Si fluye → no marcas
+- Si se interrumpe → marcas \textbf{[M]}
+
+###### Qué es una interrupción
+- la línea ya no continúa en la misma dirección
+- te obliga a hacer una pausa mental
+- sientes que la relación cambió
+
+###### Qué NO es una interrupción
+
+```
+yo ==fui==
+yo ==vi==
+yo ==tomé==
+```
+
+✔ fluye
+✔ no marcas
 
 ##### Resultado esperado
 
@@ -1233,7 +1319,7 @@ no ==pude== hablarles
 
 yo ==di==
 (porque) no ==podían==
-
+ 
 ni aun ahora ==pueden==
 ```
 
@@ -1245,259 +1331,222 @@ no ==pude== hablarles
 
 yo ==di==
 
-[S→] ustedes
-ni aun ahora ==pueden==
+no ==podían==   [S][M]
+
+ni aun ahora ==pueden==   [M]
 ```
 
-##### Observación integrada
-###### Mientras identificas el tronco, marcas:
-
-###### O1 — SUJETO
-- 👉 Marca solo cuando el sujeto cambia  
-- 👉 No explicas  
-- 👉 No interpretas  
-
-###### O2 — TIPO DE ACCIÓN
-- 👉 Marca solo cuando hay un cambio claro  
-
-###### Tipos permitidos:
-- acción  
-- habla  
-- afirmación  
-
-###### ❗ Solo marcas cambios evidentes  
-
-##### Regla de control
-
-###### Si dos estudiantes no eliminan la misma cláusula,
-###### la decisión no fue estructural
-
-###### 👉 El paso debe repetirse
-
-##### Indicador de error
-
-###### Si eliminas una cláusula y:
-- la acción deja de tener sentido  
-- la relación se rompe  
-
-- 👉 eliminaste incorrectamente
-
-##### Prueba final
-###### Antes de eliminar una cláusula debes poder señalar:
-- la palabra exacta que la introduce (porque, para que, que, etc.)
-
-###### ❗ Si no puedes señalarla, no puedes eliminarla
-
 ## ENTIENDE
-
 ##### Qué estás haciendo realmente
-###### Estás dejando visible el desarrollo principal del texto eliminando lo que está subordinado.
+###### Estás dejando visible el desarrollo principal del texto y marcando los puntos donde el flujo cambia.
 
 ##### Principio clave
-###### El conector determina la dependencia.
+###### El tronco muestra la línea principal.
+###### El movimiento muestra dónde esa línea cambia.
 
 ##### Idea clave
-###### No decides qué es importante.
+- No explicas el cambio.
+- No lo nombras.
 
-###### 👉 El texto ya muestra qué depende de qué.
-
-##### Frase clave
-> “No elimino por sentido — elimino por estructura.”
+- 👉 Solo lo detectas.
 
 ##### Qué debes notar
 
 ###### Ahora el texto:
-- queda simplificado  
-- mantiene su desarrollo principal  
-- muestra el flujo sin interrupciones  
-- permite ver quién actúa y cómo cambia la acción  
+- queda simplificado
+- mantiene su desarrollo principal
+- muestra claramente dónde cambia el flujo
+- prepara el análisis del siguiente paso
 
 ##### Transición
+
 ###### En el siguiente paso:
-- 👉 observarás qué hace cada cláusula  
-- 👉 sin perder la estructura identificada
+- tomarás cada punto marcado
+- y definirás qué está haciendo la cláusula
+- 👉 Ahora sí con precisión
+
+## Frase clave
+> “No explico el cambio — primero lo detecto.”
 
 # PASO 9 - MARCAR EL COMPORTAMIENTO
 
 ## EJECUTA
 
 ##### ¿Qué haces?
-###### Asignas una etiqueta de comportamiento a cada cláusula del tronco.
+###### Nombras qué hace la cláusula \textbf{solo en los puntos donde el flujo se interrumpe}.
 
-##### Regla
-###### Solo trabajas con las cláusulas del Paso 8.
-- 👉 No agregas <u>frases</u>
-- 👉 No recuperas información eliminada
-- 👉 No vuelves a la estructura anterior
+###### Trabajas únicamente con:
+- el tronco (Paso 8)
+- las marcas \textbf{[M]}
 
-###### La etiqueta debe describir una función observable en la relación entre cláusulas.
+##### Regla principal
+###### ❗ Solo etiquetas donde hay \textbf{[M]}
 
-###### No debe introducir <u>ideas</u> nuevas.
+###### ❗ Si no hay [M], no haces nada
+
+##### Regla de control
+###### Si dos estudiantes no etiquetan las mismas líneas:
+- 👉 No detectaron bien el [M]
+- 👉 Deben volver al Paso 8
+
+##### Qué estás nombrando
+- No explicas ideas.
+
+- 👉 Nombras \textbf{qué hace la línea nueva con respecto a la anterior}
 
 ##### Cómo hacerlo
+1. Busca una marca \textbf{[M]}
 
-1. Toma el texto del Paso 8 (tronco)
+2. Lee:
+- la línea anterior
+- la línea con [M]
 
-2. Lee una cláusula
+3. Haz una sola pregunta:
+> \textbf{¿Qué está haciendo esta línea con la anterior?}
 
-3. Haz esta pregunta:
-- 👉 ¿Qué relación visible en el texto muestra la función de esta cláusula?
+4. Asigna una etiqueta clara
 
-4. <u>Asigna</u> una etiqueta clara y verificable
+## ETIQUETAS PERMITIDAS (FIJAS)
 
-##### Resultado esperado
+###### • EXPONE  • RAZÓN • CONTRASTE • RESULTADO
+
+## DEFINICIONES (SIMPLIFICADAS)
+
+### EXPONE
+-👉 Continúa la misma línea
+-👉 No cambia la dirección
+
+### RAZÓN
+- 👉 Explica por qué
+- 👉 Responde: “¿por qué?”
+
+### CONTRASTE
+- 👉 Cambia la dirección
+- 👉 Se opone o corrige
+
+### RESULTADO
+- 👉 Muestra consecuencia
+- 👉 Responde: “¿qué pasa entonces?”
+
+## RESULTADO ESPERADO
+
+###### Paso 8:
+
+```
+yo ==pude== hablarles
+
+yo ==di== a beber leche
+
+no ==podían== recibirlo   [S][M]
+
+ni aun ahora ==pueden==   [M]
+```
+
+###### Paso 9:
+
+```
+yo ==pude== hablarles
+
+yo ==di== a beber leche
+
+::RAZÓN::
+no ==podían== recibirlo   [S][M]
+
+::EXPONE::
+ni aun ahora ==pueden==   [M]
+```
+
+## EJEMPLOS ADICIONALES
+
+### Ejemplo 1 — Contraste
+
+```
+yo ==quería== ayudar
+
+pero ellos ==rechazaron==   [M]
+::CONTRASTE::
+pero ellos rechazaron
+```
+
+### Ejemplo 2 — Resultado
+
+```
+ellos ==creyeron==
+
+por eso ==fueron salvos==   [M]
+::RESULTADO::
+fueron salvos
+```
+
+### Ejemplo 3 — Sin cambio
+
+```
+yo ==fui==
+yo ==vi==
+yo ==tomé==
+```
+
+- ✔ no hay [M]
+- ✔ no etiquetas nada
+
+## ERRORES COMUNES
+
+### ❌ Etiquetar todo
 
 ```
 ::EXPONE::
-no pude hablarles
+yo pude
 
 ::EXPONE::
 yo di
-
-::RAZÓN::
-ni aun ahora pueden
 ```
+- 👉 incorrecto
+
+### ❌ Pensar en significado
+- “esto enseña…”
+- “esto implica…”
+- 👉 incorrecto
+
+### ❌ Inventar etiquetas
+- “aclara”
+- “amplía”
+- 👉 prohibido
+
+### FRASE CLAVE
+> “No interpreto — nombro lo que el texto hace en el punto donde cambia.”
 
 ## ENTIENDE
 
 ##### Qué estás haciendo realmente
-###### Hasta el Paso 8 dejaste solo el desarrollo principal.
-
-###### Aquí observas cómo ese desarrollo avanza.
+###### Estás nombrando los puntos donde el texto cambia de dirección.
 
 ##### Principio clave
-###### El texto no solo tiene estructura.
-- 👉 El texto se mueve.
+###### El cambio ya fue detectado en Paso 8.
+- 👉 Aquí solo lo defines.
 
 ##### Idea clave
-###### Cada cláusula del tronco <u>cumple</u> una función.
-- 👉 Paso 8 mostró las líneas principales
-- 👉 Paso 9 muestra qué hace cada una
-
-##### Frase clave
-> “Marco lo que hace cada cláusula del tronco.”
-
-##### Pregunta guía
-###### 👉 ¿Qué relación <u>visible</u> muestra esta cláusula?
-
-###### NO preguntes:
-- ¿qué significa?
-- ¿qué idea me parece que comunica?
-- ¿qué tipo de cláusula es?
-
-###### SÍ pregunta:
-- ¿qué función cumple dentro del desarrollo?
-
-##### Distinción importante
-###### O2 y Paso 9 no son lo mismo.
-
-###### O2 observa el tipo de acción:
-- acción
-- habla
-- afirmación
-
-###### Paso 9 observa la función de la cláusula:
-- expone
-- contrasta
-- da razón
-- muestra resultado
-
-###### Una misma cláusula tiene ambos:
-
-```
-==dije==
-O2 → habla
-Paso 9 → EXPONE
-```
-
-###### ❗ No confundas tipo con función.
-- O2 → qué tipo de acción ocurre  
-- Paso 9 → qué función cumple en el desarrollo
-
-##### Definición
-###### Comportamiento = función observable basada en relación visible.
-
-###### Usa etiquetas que puedan justificarse por la relación <u>visible</u> del texto.
-
-##### Etiquetas base:
-###### • EXPONE • CONTRASTA • RAZÓN
-
-##### Etiquetas adicionales (solo si son claramente observables):
-##### • RESULTADO • CONDICIÓN • PROPÓSITO
-
-##### Etiquetas restringidas:
-##### • AMPLÍA • ACLARA
-
-###### ❗ Estas últimas solo se usan si puedes mostrarlo sin introducir ideas nuevas.
-
-##### Ejemplo guiado
-###### Texto (Paso 8):
-
-```
-no pude ==hablarles==
-yo ==di==
-ni aun ahora ==pueden==
-```
-
-##### Aplicación:
-
-```
-::EXPONE::
-no pude hablarles
-
-::EXPONE::
-yo di
-
-::RAZÓN::
-ni aun ahora pueden
-```
-
-##### Regla importante
-###### Solo etiquetas cláusulas del tronco.
-
-###### La etiqueta debe poder defenderse desde el texto,
-
-###### no desde impresión personal.
-
-###### La etiqueta debe estar justificada por:
-- un conector
-- una repetición
-- un contraste visible
-
-###### ❗ Si no puedes señalarlo en el texto, no puedes etiquetar
-
-##### Errores comunes
-- Volver a incluir cláusulas eliminadas
-- Etiquetar frases que no están en el tronco
-- Usar etiquetas demasiado libres
-- Etiquetar por intuición sin responder la pregunta
-
-##### Regla de control
-###### Si la línea no está en el Paso 8, no se etiqueta.
-
-###### Debes poder señalar en el texto lo que justifica la etiqueta:
-
-- el conector que la introduce
-- la repetición que la vincula
-- el contraste que la opone
-
-###### ❗ Si no puedes señalarlo, la etiqueta es incorrecta
+###### No buscas en todo el texto.
+- 👉 Solo trabajas donde hay [M]
 
 ##### Qué debes notar
+###### Ahora el texto muestra:
+- dónde cambia
+- qué tipo de cambio ocurre
 
-###### Ahora comienzas a ver:
+### TRANSICIÓN A PASO 10 (CRUCIAL)
 
-- cómo inicia el texto
-- cómo contrasta
-- cómo da razón
-- cómo avanza el desarrollo
-- 👉 Estás viendo el movimiento real del texto
+###### Ahora puedes ignorar el contenido.
 
-##### Transición
-###### En el siguiente paso:
-- 👉 ignorarás el contenido
-- 👉 leerás solo las etiquetas
-- 👉 detectarás <u>patrones</u>
+###### Solo lees:
+```
+EXPONE
+RAZÓN
+EXPONE
+CONTRASTE
+```
+
+- 👉 Esto empieza a repetirse
+- 👉 Eso es un patrón
 
 # ANTES DE CONTINUAR — LEER EL COMPORTAMIENTO DEL TEXTO
 
@@ -1511,265 +1560,333 @@ ni aun ahora pueden
 - separaste cláusulas
 - organizaste estructura
 - redujiste al tronco (Paso 8)
-- marcaste el comportamiento de cada línea (Paso 9)
+- marcaste los puntos donde el flujo cambia ([M])
+- nombraste esos cambios (Paso 9)
 
-###### Ahora tienes algo muy específico:
+------
+
+###### Ahora tienes algo completo:
+
 - 👉 un conjunto de líneas claras
-- 👉 cada línea con una acción definida
+- 👉 solo las líneas principales
+- 👉 marcas de cambio ([S] y [M])
+- 👉 una etiqueta en cada punto de cambio
+
+------
 
 ##### Esto es \textbf{datos procesados}.
+
+------
 
 ## LO QUE CAMBIA AHORA
 
 ###### Hasta este punto preguntabas:
+
 - 👉 ¿qué hay en el texto?
 
-###### Ahora la pregunta cambia:
-- 👉 ¿cómo se comporta lo que hay?
+###### Ahora haces algo distinto:
 
-## DISTINCIÓN CLAVE
+- 👉 vas a \textbf{agrupar lo que ya ves}
 
-##### MOVIMIENTO (Paso 9)
-##### → qué hace una línea
+------
 
-##### PATRÓN (Paso 10–11)
-##### → qué hacen varias líneas juntas
+## CAMBIO CLAVE
+
+##### Ya no lees el texto como contenido
+
+👉 lees lo que hacen las líneas
+
+------
+
+###### En lugar de:
+
+```
+yo no pude hablar
+yo di leche
+no podían
+```
+
+------
+
+###### Ahora ves:
+
+```
+EXPONE
+EXPONE
+RAZÓN
+```
+
+------
+
+👉 Esto es lo que usarás a partir de ahora
+
+------
 
 ## NO INTERPRETAS SIGNIFICADO
 
-##### No estás explicando el texto.
-###### No estás enseñando doctrina.
-###### No estás aplicando.
+##### No explicas el texto
 
-- 👉 Estás observando comportamiento.
+##### No enseñas doctrina
 
-- 👉 Estás leyendo cómo el texto avanza.
+##### No aplicas
 
-## SEÑALES QUE DEBES DETECTAR
+👉 Solo observas comportamiento visible
 
-##### Antes de buscar patrones, debes aprender a ver señales.
+------
 
-###### Estas señales ya están en el texto.
-###### No las inventas.
+# CÓMO EMPEZAR (MECÁNICO)
 
-##### REPETICIÓN
+##### No buscas tipos de patrón
 
-###### Misma acción, misma estructura o misma idea.
+##### No decides por intuición
 
-- mismo verbo
-- mismo sujeto
-- misma forma
+👉 Solo haces esto:
 
-- 👉 indica unidad
+------
 
-##### PROGRESIÓN
+### Paso 1
 
-###### La idea avanza.
-- desarrollo
-- aumento
-- cambio de nivel
+Mira solo las etiquetas
 
-- 👉 indica movimiento
+------
 
-##### CONTRASTE
-###### Oposición directa.
-- sino
-- pero
-- no / sí
+### Paso 2
 
-- 👉 divide bloques
+Agrupa las que son iguales
 
-##### CAMBIO DE SUJETO
-###### El actor cambia.
-- yo → ellos → Dios
-- 👉 posible cambio de sección
+------
 
-##### CAMBIO DE ACCIÓN
-###### La acción cambia.
-- hablar → dar → crecer
+### Paso 3
 
-- 👉 posible transición o desarrollo
+Separa cuando cambian
 
-##### CONECTORES
-###### Confirman relaciones.
+------
 
-- porque → razón
-- para que → propósito
-- pero → contraste
+### Paso 4
 
-- 👉 no crean el patrón
-- 👉 lo hacen visible
+Observa qué ocurrió
 
-## CÓMO LEER EL TEXTO AHORA
-
-###### No agregas nada nuevo.
-
-###### Solo haces preguntas sobre lo que ya tienes:
-
-###### Para cada línea:
-
-- ¿repite algo anterior?
-- ¿contrasta algo?
-- ¿avanza la idea?
-- ¿cambia el sujeto?
-- ¿cambia la acción?
-
-###### Esto es lo que te permite ver patrones.
+------
 
 ## LECTURA GUIADA
 
-##### Texto (tronco + comportamiento):
+##### Comportamiento:
 
 ```
-yo no pude hablar → EXPONE
- yo di leche → EXPONE
- no podían → RAZÓN
+EXPONE
+EXPONE
+RAZÓN
 ```
 
-#####Ahora observa:
+------
+
+##### Paso 1 — agrupar
 
 ```
-- “yo” se repite → repetición de sujeto
-- acción del autor se mantiene → repetición
-- aparece una razón → soporte
+[EXPONE
+ EXPONE]
+
+[RAZÓN]
 ```
 
-Agrupación visible:
+------
 
-```
-[yo no pude hablar
- yo di leche] → unidad
+##### Paso 2 — observar
 
-[no podían] → razón que sostiene
-```
+- dos líneas iguales → se agrupan
+- una línea distinta → se separa
+- la línea distinta sostiene a las anteriores
 
-###### No interpretaste.
-###### No explicaste.
+------
 
-- 👉 solo viste cómo se relacionan las líneas
+###### No interpretaste
 
-## RESULTADO DE ESTA SECCIÓN
+###### No explicaste
 
-###### Ahora puedes:
+👉 solo agrupaste lo que ya estaba visible
 
-- detectar repetición
-- ver progresión
-- identificar contrastes
-- notar cambios de sujeto
-- seguir cambios de acción
+------
 
-- 👉 ya no estás viendo líneas aisladas
-- 👉 estás viendo comportamiento conjunto
+## QUÉ DEBES NOTAR
+
+###### Ahora comienzas a ver:
+
+- repetición (líneas iguales)
+- cambio (líneas diferentes)
+- soporte (una línea depende de otra)
+
+------
+
+###### Ya no ves líneas aisladas
+
+👉 ves cómo se agrupan
+
+------
+
+## REGLA CLAVE
+
+> No busco patrones — agrupo líneas que hacen lo mismo.
+
+------
+
+## NOTA
+
+###### Existen formas comunes como:
+
+- repetición
+- contraste
+- progresión
+
+👉 pero no las buscas directamente
+
+👉 aparecen cuando agrupas correctamente
+
+------
 
 ## LO QUE VIENE
 
-##### Ahora sí estás listo para continuar.
+##### Ahora sí estás listo
 
 ###### En el siguiente paso:
 
-- 👉 no vas a buscar datos nuevos
-- 👉 vas a confirmar patrones
+- 👉 no buscarás información nueva
+- 👉 extenderás las agrupaciones que ya ves
 
 # PASO 10 — IDENTIFICAR PATRONES
 
 ## EJECUTA
 
 ##### ¿Qué haces?
+
 ###### Identificas patrones en el tronco agrupando líneas que se comportan juntas.
 
 ##### Regla
 ###### Solo trabajas con:
+
 - el texto del Paso 8 (tronco)
 - las etiquetas del Paso 9 (comportamiento)
 
 ###### ❌ No agregas contenido
+
 ###### ❌ No explicas el significado
+
 ###### ❌ No interpretas
 
-###### Solo marcas lo que se repite o se desarrolla.
+###### 👉 Solo agrupas lo que se repite o se mantiene igual
 
-##### Cómo hacerlo
+# CÓMO HACERLO (SIMPLIFICADO)
 
-1. Toma el texto del Paso 8 con las etiquetas del Paso 9
+### 1. Toma el texto del Paso 8 con las etiquetas del Paso 9
 
-2. Lee línea por línea
+### 2. Lee línea por línea
 
-3. Haz estas preguntas:
+### 3. Haz UNA sola pregunta
+> 👉 ¿Esta línea hace lo mismo que la anterior?
 
-- 👉 ¿Qué líneas repiten algo?
-- 👉 ¿Qué líneas avanzan la idea?
-- 👉 ¿Qué líneas contrastan?
-- 👉 ¿Dónde cambia el sujeto?
-- 👉 ¿Dónde cambia la acción?
+### 4. Decide
+- ✔ Sí → agrúpalas
+- ❌ No → comienza un nuevo grupo
 
-4. Agrupa las líneas que se comportan juntas
+### 5. Repite hasta terminar el texto
 
-5. Asigna una etiqueta de patrón al grupo
+### 6. Observa cada grupo
 
-###### Solo puedes formar un patrón si hay:
+👉 recién aquí puedes notar:
+- repetición
+- contraste
+- razón
+- cambio
 
-- repetición visible
-- misma estructura
-- mismo sujeto o acción
-- conector que agrupa
+# REGLA CRÍTICA
+> No buscas el tipo de patrón primero.
+>  👉 Primero formas grupos.
+
+# CUÁNDO PUEDES FORMAR UN GRUPO
+
+Solo si hay:
+
+- misma etiqueta (EXPONE, RAZÓN, etc.)
+- misma acción visible
+- continuidad clara
 
 ###### ❗ No agrupas por tema
+
 ###### ❗ No agrupas por idea
 
-##### Patrones permitidos
+# PATRONES PERMITIDOS
 
-Puedes usar únicamente estos:
+(Solo después de agrupar)
 
 REPETICIÓN • PROGRESIÓN • CONTRASTE • CAUSA–RESULTADO • PARALELISMO • CAMBIO DE SUJETO
 
-![patrones](images/patrones.png)
+# RESULTADO ESPERADO
 
+```
+[EXPONE
+ EXPONE]
 
-##### Resultado esperado
+[RAZÓN]
+```
+
+------
+
+### (Opcional — nombre del patrón)
 
 ```
 ::REPETICIÓN::
-yo no pude hablar
-yo di leche
+EXPONE
+EXPONE
 
 ::RAZÓN::
-no podían
+RAZÓN
 ```
 
-## ENTIENDE
+# ENTIENDE
 
 ##### Qué estás haciendo realmente
+
 ###### Estás dejando de ver líneas individuales.
-###### Ahora ves bloques.
+
+###### 👉 Ahora ves bloques.
 
 ##### Principio clave
+
 ###### Un patrón no está en una línea.
-###### Está en la relación entre líneas.
+
+###### 👉 Está en la relación entre líneas.
 
 ##### Idea clave
+
 ###### El patrón no se inventa.
 
-###### Se reconoce porque:
-- algo se repite
-- algo avanza
-- algo cambia
+###### 👉 Aparece cuando agrupas correctamente.
 
-##### Advertencia
-###### Si necesitas explicar el texto, te saliste del paso.
-###### Si agregas ideas, te saliste del paso.
+# ADVERTENCIA 
 
-###### Si dudas entre dos opciones:
-👉 elige la que sea visible en el texto
+###### Si estás pensando:
 
-##### Resultado mental esperado
+- “esto parece…”
+- “esto significa…”
+
+👉 te saliste del paso
+
+###### Si dudas:
+
+👉 vuelve a la pregunta base
+> ¿Hace lo mismo que la línea anterior?
+
+# RESULTADO MENTAL ESPERADO
+
 ###### Ahora puedes ver:
 - qué líneas pertenecen juntas
-- qué líneas sostienen otras
-- dónde empieza a formarse una unidad
+- dónde se rompe el flujo
+- dónde comienza un nuevo bloque
 
-###### 👉 Esto prepara directamente el siguiente paso:
-- no solo ver el patrón…
-- 👉 sino seguirlo hasta que termine.
+
+###### 👉 Esto prepara el siguiente paso:
+
+👉 no solo ver el patrón…
+👉 sino seguirlo hasta que termine
 
 # PASO 11 — EXTENDER EL PATRÓN
 

@@ -97,7 +97,7 @@ RO₁O₂TS no añade <u>nada</u> al texto. Más bien, nos ayuda a quitarnos del
 
 # R – Revelación
 
-Antes de aprender a observar o <u>seguir</u> el texto, necesitamos establecer algo fundamental: \textbf{¿qué es lo que tenemos delante?}
+Antes de aprender a observar o <u>seguir</u> el texto, necesitamos establecer algo fundamental: **¿qué es lo que tenemos delante?**
 
 No estamos frente a un texto cualquiera.
 
@@ -107,15 +107,15 @@ No dejó ideas <u>sueltas</u>.
  No dejó mensajes ocultos.
  No habló en fragmentos aislados.
 
-Dios \textbf{reveló}.
+Dios **reveló**.
 
 ## ¿Qué significa revelación?
 
-##### Revelación significa que el contenido \textbf{no se originó en el hombre}, <u>sino</u> que fue dado.
+##### Revelación significa que el contenido **no se originó en el hombre**, <u>sino</u> que fue dado.
 
 ##### Esto cambia completamente nuestra postura.
 
-###### No nos acercamos al <u>texto</u> para producir significado, sino para \textbf{reconocer lo que ya ha sido comunicado}.
+###### No nos acercamos al <u>texto</u> para producir significado, sino para **reconocer lo que ya ha sido comunicado**.
 
 ###### Hay una diferencia clara:
 - En el descubrimiento, el hombre busca y llega a conclusiones
@@ -127,9 +127,9 @@ Dios \textbf{reveló}.
 
 Dios no <u>solo</u> reveló.
 
-Lo hizo por medio de \textbf{lenguaje}.
+Lo hizo por medio de **lenguaje**.
 
-Esto significa que lo que tenemos <u>delante</u> no es una colección de pensamientos dispersos, sino \textbf{comunicación intencional}.
+Esto significa que lo que tenemos <u>delante</u> no es una colección de pensamientos dispersos, sino **comunicación intencional**.
 
 Y toda comunicación tiene propósito.
 
@@ -152,14 +152,14 @@ Nada está colocado sin propósito.
 
 La Biblia no fue escrita en versículos.
 
-Los versículos fueron añadidos después para ayudarnos a <u>ubicar</u> el contenido, pero \textbf{no forman parte de la comunicación original}.
+Los versículos fueron añadidos después para ayudarnos a <u>ubicar</u> el contenido, pero **no forman parte de la comunicación original**.
 
 El autor no pensó en:
 - versículo 1
 - versículo 2
 - versículo 3
 
-<u>Pensó</u> en \textbf{una unidad completa de pensamiento}.
+<u>Pensó</u> en **una unidad completa de pensamiento**.
 
 Cuando leemos por versículos aislados, rompemos lo que fue dado como una sola comunicación.
 
@@ -167,7 +167,7 @@ Cuando leemos por versículos aislados, rompemos lo que fue dado como una sola c
 
 El autor no <u>solo</u> dice cosas.
 
-\textbf{Construye}.
+**Construye**.
 
 El texto:
 
@@ -197,7 +197,7 @@ Dios comunicó <u>usando</u> lenguaje real, y el lenguaje funciona de manera nor
 - desarrollo progresivo
 
 El significado no está escondido detrás del <u>texto</u>.
- Está en \textbf{cómo el texto está construido}.
+ Está en **cómo el texto está construido**.
 
 ## Dios busca ser entendido
 
@@ -210,7 +210,7 @@ No necesitamos:
 - conocimiento <u>secreto</u>
 - interpretaciones especiales
 
-Necesitamos \textbf{observar correctamente} lo que está escrito.
+Necesitamos **observar correctamente** lo que está escrito.
 
 ## Fundamento de la revelación
 
@@ -220,7 +220,7 @@ La <u>misma</u> Escritura afirma su origen:
  «…hombres movidos por el Espíritu Santo hablaron de parte de Dios» — 2 Pedro 1:21
  «Dios… nos ha hablado por Su Hijo» — Hebreos 1:1–2
 
-No estamos leyendo <u>ideas</u> humanas aisladas, sino \textbf{lo que Dios ha dado a conocer}.
+No estamos leyendo <u>ideas</u> humanas aisladas, sino **lo que Dios ha dado a conocer**.
 
 ## El peso de la revelación
 
@@ -229,7 +229,7 @@ Si Dios ha hablado, entonces esto no es opcional.
 No estamos tratando con un texto más.
  No estamos evaluando <u>ideas</u>.
 
-Estamos frente a algo que \textbf{nos precede, nos define y nos confronta}.
+Estamos frente a algo que **nos precede, nos define y nos confronta**.
 
 Esto cambia completamente cómo leemos:
 
@@ -241,20 +241,20 @@ Nos detenemos.
  Observamos.
  Seguimos.
 
-Porque lo que <u>está</u> delante \textbf{no se originó en nosotros}.
+Porque lo que <u>está</u> delante **no se originó en nosotros**.
 
 ## El poder de la revelación
 
 La revelación no solo informa.
 
-\textbf{actúa}
+**actúa**
 
 Nos <u>expone</u>.
  Nos corrige.
  Nos <u>establece</u>.
 
 No <u>leemos</u> para dominar el texto.
- Leemos para ser \textbf{afectados por él}.
+ Leemos para ser **afectados por él**.
 
 ## Implicaciones
 
@@ -270,9 +270,9 @@ Si la Escritura es revelación, entonces:
 
 Si Dios ha hablado, entonces:
 
-- no leemos <u>para</u> especular, sino para \textbf{oír}
-- no construimos significado, lo \textbf{recibimos}
-- no estamos <u>sobre</u> el texto, estamos \textbf{bajo él}
+- no leemos <u>para</u> especular, sino para **oír**
+- no construimos significado, lo **recibimos**
+- no estamos <u>sobre</u> el texto, estamos **bajo él**
 - No corregimos el texto. Dejamos que el texto nos corrija a nosotros.
 
 ## Principio clave
@@ -291,13 +291,13 @@ Ni siquiera comenzamos con:
 
 Comenzamos con:
 
-\textbf{¿Cómo está construido?}
+**¿Cómo está construido?**
 
-Porque si Dios comunicó por <u>medio</u> de lenguaje, entonces el significado está en \textbf{cómo lo dijo}.
+Porque si Dios comunicó por <u>medio</u> de lenguaje, entonces el significado está en **cómo lo dijo**.
 
 # O₁ - OBSERVAR LA ESTRUCTURA (PASOS 1-13)
 
-<u>Antes</u> de entender el significado, debemos ver \textbf{cómo el autor organizó lo que dijo}.
+<u>Antes</u> de entender el significado, debemos ver **cómo el autor organizó lo que dijo**.
 
 ## El problema común
 
@@ -312,7 +312,7 @@ Pero no <u>pueden</u> explicar:
 - <u>cómo</u> se conectan
 
 ##### El problema no es falta de interés.
-###### Es <u>falta</u> de \textbf{observación estructural}.
+###### Es <u>falta</u> de **observación estructural**.
 
 ## Principio fundamental
 
@@ -486,10 +486,10 @@ Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo.
 ## EJECUTA
 
 ##### ¿Qué haces?
-###### Identificas y <u>marcas</u> los \textbf{verbos finitos del texto}, confirmados por la morfología griega.
+###### Identificas y <u>marcas</u> los **verbos finitos del texto**, confirmados por la morfología griega.
 
 ##### REGLA
-###### Solo se marcan los \textbf{verbos conjugados en el texto griego}.
+###### Solo se marcan los **verbos conjugados en el texto griego**.
 
 ##### CÓMO HACERLO
 
@@ -559,7 +559,7 @@ he sido ==crucificado==
 
 ## ENTIENDE
 ##### Qué estás haciendo realmente
-###### Estás identificando \textbf{los puntos de acción reales del texto original}.
+###### Estás identificando **los puntos de acción reales del texto original**.
 
 ##### PRINCIPIO CLAVE
 ###### Cada verbo finito griego introduce una <u>unidad de acción explícita</u>.
@@ -665,7 +665,7 @@ En verdad, ni aun ahora ==pueden==.
 ## ENTIENDE
 
 ##### Qué estás haciendo realmente
-###### Estás separando el texto en \textbf{unidades de pensamiento}.
+###### Estás separando el texto en **unidades de pensamiento**.
 - Aquí comienzas a ver dónde el <u>texto</u> afirma cosas.
 
 ##### Principio clave
@@ -893,11 +893,11 @@ Les ==di== a beber leche, no alimento sólido,
 ## EJECUTA
 
 ##### ¿Qué haces?
-###### Organizas las cláusulas para mostrar \textbf{qué depende de qué}.
+###### Organizas las cláusulas para mostrar **qué depende de qué**.
 
 ##### Regla
-- Cláusula \textbf{sin conector} → se <u>queda</u> a la izquierda
-- Cláusula \textbf{con conector} → va debajo de la que depende
+- Cláusula **sin conector** → se <u>queda</u> a la izquierda
+- Cláusula **con conector** → va debajo de la que depende
 
 ##### Cómo hacerlo
 
@@ -927,7 +927,7 @@ En verdad, ni aun ahora ==pueden==.
 ## ENTIENDE
 
 ##### Qué estás haciendo realmente
-###### Estás revelando la \textbf{estructura interna del pensamiento del autor}.
+###### Estás revelando la **estructura interna del pensamiento del autor**.
 
 ##### Principio clave
 ###### La estructura no se <u>decide</u>.
@@ -995,7 +995,7 @@ En verdad, ni aun ahora ==pueden==.
 
 ##### Transición
 ###### En el siguiente paso:
-- 👉 usarás los conectores para \textbf{leer la relación entre cláusulas}
+- 👉 usarás los conectores para **leer la relación entre cláusulas**
 - 👉 no solo <u>verás</u> la estructura — la entenderás
 
 # PASO 6 - USAR EL CONECTOR
@@ -1003,7 +1003,7 @@ En verdad, ni aun ahora ==pueden==.
 ## EJECUTA
 
 ##### ¿Qué haces?
-###### Usas el conector para \textbf{leer la relación entre dos cláusulas}.
+###### Usas el conector para **leer la relación entre dos cláusulas**.
 
 ##### Regla
 ###### El conector <u>hace</u> una pregunta fija.
@@ -1040,7 +1040,7 @@ En verdad, ni aun ahora ==pueden==.
 ## ENTIENDE
 
 ##### Qué estás haciendo realmente
-###### Estás haciendo visible la \textbf{relación ya presente en el texto}.
+###### Estás haciendo visible la **relación ya presente en el texto**.
 
 ##### Principio clave
 ###### La relación <u>entre</u> cláusulas no se interpreta.
@@ -1288,11 +1288,11 @@ ni aun ahora ==pueden==
 ###### Detectas cuándo el flujo del texto se interrumpe entre líneas.
 
 ###### Solo haces una pregunta:
-> \textbf{¿Esta línea interrumpe la anterior o sigue igual?}
+> **¿Esta línea interrumpe la anterior o sigue igual?**
 
 ###### Regla
 - Si fluye → no marcas
-- Si se interrumpe → marcas \textbf{[M]}
+- Si se interrumpe → marcas **[M]**
 
 ###### Qué es una interrupción
 - la línea ya no continúa en la misma dirección
@@ -1373,14 +1373,14 @@ ni aun ahora ==pueden==   [M]
 ## EJECUTA
 
 ##### ¿Qué haces?
-###### Nombras qué hace la cláusula \textbf{solo en los puntos donde el flujo se interrumpe}.
+###### Nombras qué hace la cláusula **solo en los puntos donde el flujo se interrumpe**.
 
 ###### Trabajas únicamente con:
 - el tronco (Paso 8)
-- las marcas \textbf{[M]}
+- las marcas **[M]**
 
 ##### Regla principal
-###### ❗ Solo etiquetas donde hay \textbf{[M]}
+###### ❗ Solo etiquetas donde hay **[M]**
 
 ###### ❗ Si no hay [M], no haces nada
 
@@ -1392,17 +1392,17 @@ ni aun ahora ==pueden==   [M]
 ##### Qué estás nombrando
 - No explicas ideas.
 
-- 👉 Nombras \textbf{qué hace la línea nueva con respecto a la anterior}
+- 👉 Nombras **qué hace la línea nueva con respecto a la anterior**
 
 ##### Cómo hacerlo
-1. Busca una marca \textbf{[M]}
+1. Busca una marca **[M]**
 
 2. Lee:
 - la línea anterior
 - la línea con [M]
 
 3. Haz una sola pregunta:
-> \textbf{¿Qué está haciendo esta línea con la anterior?}
+> **¿Qué está haciendo esta línea con la anterior?**
 
 4. Asigna una etiqueta clara
 
@@ -1574,7 +1574,7 @@ CONTRASTE
 
 ------
 
-##### Esto es \textbf{datos procesados}.
+##### Esto es **datos procesados**.
 
 ------
 
@@ -1586,7 +1586,7 @@ CONTRASTE
 
 ###### Ahora haces algo distinto:
 
-- 👉 vas a \textbf{agrupar lo que ya ves}
+- 👉 vas a **agrupar lo que ya ves**
 
 ------
 
@@ -2090,9 +2090,9 @@ no podían
 ##### Regla
 
 ###### Solo puedes usar:
-- el \textbf{autor}
-- un \textbf{verbo permitido}
-- el \textbf{contenido del tronco}
+- el **autor**
+- un **verbo permitido**
+- el **contenido del tronco**
 - debe ser coherente con el comportamiento observado
 
 ###### ❌ No agregas <u>ideas</u>
@@ -2110,7 +2110,7 @@ no podían
 - 👉  ¿Qué hace el <u>autor</u> según el tronco?
 
 4. Escribe una sola oración con este formato:
-- 👉 \textbf{[Autor] + [verbo permitido] + [contenido del tronco]}
+- 👉 **[Autor] + [verbo permitido] + [contenido del tronco]**
 
 ##### Resultado esperado
 ###### Una sola oración clara que exprese la <u>acción</u> del texto:
@@ -2409,7 +2409,7 @@ Referencia   Título
 ###### Observas el texto con precisión, trabajando frase por frase dentro de la estructura ya definida.
 
 ##### Nivel de trabajo
-###### O₂ trabaja en el nivel de la \textbf{frase ancla (H4)}.
+###### O₂ trabaja en el nivel de la **frase ancla (H4)**.
 
 ###### No observas ideas generales.
 
@@ -2700,13 +2700,13 @@ como a niños en Cristo
 
 ##### RESULTADO CONSOLIDADO
 
-- \scripture{Así que} → consecuencia
-- \scripture{yo} → sujeto
-- \scripture{hermanos} → destinatarios
-- \scripture{no pude hablarles} → acción principal (negada)
-- \scripture{como a espirituales} → forma
-- \scripture{sino como a carnales} → contraste
-- \scripture{como a niños en Cristo} → continuación
+- *Así que* → consecuencia
+- *yo* → sujeto
+- *hermanos* → destinatarios
+- *no pude hablarles* → acción principal (negada)
+- *como a espirituales* → forma
+- *sino como a carnales* → contraste
+- *como a niños en Cristo* → continuación
 
 
 ##### LO QUE ESTE EJEMPLO DEMUESTRA
@@ -2735,7 +2735,7 @@ como a niños en Cristo
 
 ###### Has identificado lo que cada frase dice.
 
-###### Pero eso no garantiza que puedas \textbf{expresarlo correctamente}.
+###### Pero eso no garantiza que puedas **expresarlo correctamente**.
 
 ###### ❗ Muchos ven el texto,
 
@@ -2764,7 +2764,7 @@ como a niños en Cristo
 ###### Tomas cada frase (H4) y la expresas de forma clara y fiel.
 
 ##### Nivel de trabajo
-###### T trabaja en el nivel de la \textbf{frase (H4)}.
+###### T trabaja en el nivel de la **frase (H4)**.
 
 ###### No trabajas secciones completas.
 
@@ -2971,7 +2971,7 @@ Pablo les habló como a carnales.
 1. Si todo se sostiene:
 - 👉 escribe una sola oración usando este formato:
 
-- \textbf{[Autor] + [verbo permitido] + [contenido del tronco]}
+- **[Autor] + [verbo permitido] + [contenido del tronco]**
 
 ##### Resultado esperado
 - 👉 Una sola oración que:

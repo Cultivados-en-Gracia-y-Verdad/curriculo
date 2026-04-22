@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  17 APR 2026 12:44
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  22 APR 2026 10:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1896,6 +1896,12 @@ Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Fo
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 File: images/tabla-conectores.png Graphic file (type bmp)
 <images/tabla-conectores.png>
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [20]
@@ -1905,27 +1911,38 @@ Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Fo
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (12.21573pt too wide) in paragraph at lines 1238--1238
+[]\TU/IBMPlexSerif(0)/m/n/10.95 👉 Esto ocurre cuando el griego tiene un conecto
+r, pero el español no lo expresa directamente.[] 
+ []
+
 
 
 [22]
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
+
+[23]
+Missing character: There is no ✔ (U+2714) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no ✔ (U+2714) in font [/Users/johnwry/Library/Fonts
 /IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
-[23]
-
 [24]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [25]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
@@ -1937,14 +1954,6 @@ Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Fo
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Overfull \hbox (4.60033pt too wide) in paragraph at lines 1563--1563
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Usar el conector = leer la relación entre dos c
-láusulas mediante la pregunta que el conector
- []
-
 
 
 [27]
@@ -1952,21 +1961,19 @@ Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Fo
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (4.60033pt too wide) in paragraph at lines 1615--1615
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Usar el conector = leer la relación entre dos c
+láusulas mediante la pregunta que el conector
+ []
+
 
 
 [28]
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
@@ -1974,14 +1981,33 @@ s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [29]
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
 
 [30]
+
+[31]
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
-Overfull \hbox (28.9677pt too wide) in paragraph at lines 1804--1804
+Overfull \hbox (28.9677pt too wide) in paragraph at lines 1857--1857
 []\TU/IBMPlexSerif(0)/m/n/10.95 Identificas el tronco del texto eliminando únic
 amente las cláusulas que están estructuralmente
  []
@@ -1998,53 +2024,18 @@ Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Font
 /IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
-[31]
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-
 [32]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
 /IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Overfull \hbox (0.8116pt too wide) in paragraph at lines 1993--1993
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Estás dejando visible el desarrollo principal d
-el texto eliminando lo que está subordinado.[] 
- []
-
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [33]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ✔ (U+2714) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ✔ (U+2714) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [34]
@@ -2052,6 +2043,10 @@ Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Fo
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
@@ -2059,124 +2054,126 @@ s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [35]
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-MediumItalic.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-MediumItalic.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-MediumItalic.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-MediumItalic.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-MediumItalic.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-MediumItalic.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-MediumItalic.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-MediumItalic.ttf]/OT:script=latn;language=dflt;!
 
 
 [36]
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+Missing character: There is no ✔ (U+2714) in font [/Users/johnwry/Library/Fonts
 /IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+Missing character: There is no ✔ (U+2714) in font [/Users/johnwry/Library/Fonts
 /IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no ❌ (U+274C) in font [lmmono10-regular]:!
+Missing character: There is no ❌ (U+274C) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no ❌ (U+274C) in font [lmmono10-regular]:!
+Missing character: There is no ❌ (U+274C) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
 
 
 [37]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
 
 [38]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
 
 [39]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
 
 
 [40]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no ❌ (U+274C) in font [lmmono10-regular]:!
+Missing character: There is no ❌ (U+274C) in font [lmmono10-regular]:!
+Missing character: There is no ❌ (U+274C) in font [lmmono10-regular]:!
+Missing character: There is no ❌ (U+274C) in font [lmmono10-regular]:!
+Missing character: There is no ❌ (U+274C) in font [lmmono10-regular]:!
+Missing character: There is no ❌ (U+274C) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no ✔ (U+2714) in font [lmmono10-regular]:!
+Missing character: There is no ❌ (U+274C) in font [lmmono10-regular]:!
+Missing character: There is no ✔ (U+2714) in font [lmmono10-regular]:!
+Missing character: There is no ❌ (U+274C) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no 👉 (U+1F449) in font [lmmono10-regular]:!
+Missing character: There is no ❗ (U+2757) in font [lmmono10-regular]:!
+Missing character: There is no ❗ (U+2757) in font [lmmono10-regular]:!
+Missing character: There is no ❗ (U+2757) in font [lmmono10-regular]:!
+Missing character: There is no ❗ (U+2757) in font [lmmono10-regular]:!
 
 
 [41]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Overfull \hbox (20.94699pt too wide) in paragraph at lines 2666--2667
-[]\TU/IBMPlexSerif(0)/m/n/11 REPETICIÓN • PROGRESIÓN • CONTRASTE • CAUSA–RESULT
-ADO • PARALELISMO • CAMBIO
- []
-
-File: images/patrones.png Graphic file (type bmp)
-<images/patrones.png>
-
 
 [42]
 
 [43]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Overfull \hbox (31.40955pt too wide) in paragraph at lines 2748--2748
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Extiendes el patrón identificado siguiendo las 
-líneas que mantienen el mismo comportamiento.[] 
- []
-
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
 
 [44]
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
@@ -2192,8 +2189,18 @@ Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Fo
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (31.40955pt too wide) in paragraph at lines 2683--2683
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Extiendes el patrón identificado siguiendo las 
+líneas que mantienen el mismo comportamiento.[] 
+ []
+
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [46]
@@ -2203,27 +2210,17 @@ Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Fo
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [47]
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
@@ -2251,9 +2248,13 @@ Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Fo
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [49]
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
@@ -2265,79 +2266,65 @@ s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 [50]
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ✔ (U+2714) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ✔ (U+2714) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ✔ (U+2714) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [51]
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
 
 [52]
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ✔ (U+2714) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ✔ (U+2714) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ✔ (U+2714) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
 
 [53]
 
 [54]
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
 
 [55]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
 
 [56]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
 /IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [57]
@@ -2349,41 +2336,63 @@ Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Fo
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [58]
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
 
 [59]
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
 
 [60]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
 
 [61]
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
 
 [62]
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [63]
@@ -2391,14 +2400,12 @@ Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Fo
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [64]
@@ -2406,21 +2413,19 @@ Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Fo
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [65]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Overfull \hbox (8.65546pt too wide) in paragraph at lines 4435--4435
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Verificas que la unidad se sostiene completamen
-te y expresas su acción en una sola oración
- []
-
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [66]
@@ -2432,30 +2437,51 @@ Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Fo
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [67]
+Overfull \hbox (8.65546pt too wide) in paragraph at lines 4370--4370
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Verificas que la unidad se sostiene completamen
+te y expresas su acción en una sola oración
+ []
+
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-MediumItalic.ttf]/OT:script=latn;language=dflt;!
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-MediumItalic.ttf]/OT:script=latn;language=dflt;!
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-MediumItalic.ttf]/OT:script=latn;language=dflt;!
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [68]
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
+
+[69]
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-MediumItalic.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-MediumItalic.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-MediumItalic.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
+
+[70]
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
@@ -2466,22 +2492,18 @@ Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Fo
 s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
-[69]
-
-[70]
-
 [71]
 
 [72]
 
 [73]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
 
 [74]
 
 [75]
+Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
+s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
 
 [76]
 
@@ -2495,7 +2517,11 @@ s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 [81]
 
-[82] (temp/teacher_manual.aux)
+[82]
+
+[83]
+
+[84] (temp/teacher_manual.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -2505,15 +2531,15 @@ L3 programming layer <2025-01-18>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `teacher_manual.out' has not changed.
-(rerunfilecheck)             Checksum: 02B8975FE40E82467EE4BEB3FE77691A;6677.
+(rerunfilecheck)             Checksum: 10D47365AD2F8B616FF3CB34C6EF4402;6492.
  ) 
 Here is how much of TeX's memory you used:
- 36609 strings out of 473832
- 769276 string characters out of 5729482
- 1308929 words of memory out of 5000000
- 59059 multiletter control sequences out of 15000+600000
- 563423 words of font info for 111 fonts, out of 8000000 for 9000
+ 36619 strings out of 473832
+ 769409 string characters out of 5729482
+ 1320807 words of memory out of 5000000
+ 59069 multiletter control sequences out of 15000+600000
+ 563431 words of font info for 112 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 121i,17n,124p,512b,987s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 121i,17n,124p,512b,989s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on temp/teacher_manual.pdf (82 pages).
+Output written on temp/teacher_manual.pdf (84 pages).

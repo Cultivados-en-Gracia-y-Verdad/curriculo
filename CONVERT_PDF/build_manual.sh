@@ -6,7 +6,7 @@ set -euo pipefail
 # ================================
 MANUAL_NAME="Navegando el Texto"
 FILE_LOCATION="../08.Navegando-el-texto"
-FILENAME="/Navegando-el-Texto.md"
+FILENAME="/Navegando-el-Texto0.8.md"
 # ==================================
 
 FILE="${FILE_LOCATION}${FILENAME}"

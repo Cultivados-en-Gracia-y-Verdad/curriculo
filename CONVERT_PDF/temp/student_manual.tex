@@ -2,7 +2,7 @@
 \usepackage[margin=1in]{geometry}
 \usepackage{fontspec}
 \newcommand{\ManualTitle}{Navegando el Texto}
-\newcommand{\ManualVersion}{0.5}
+\newcommand{\ManualVersion}{0.8}
 \newcommand{\ManualSubtitle}{Cómo leer, observar y seguir el flujo del
 texto bíblico}
 % ============================
@@ -1146,10 +1146,18 @@ CLÁUSULAS}\label{paso-4-identificar-conectores-que-unen-cluxe1usulas}
 \subsection{EJECUTA}\label{ejecuta-3}
 
 \headingfive{¿Qué haces?}
-\headingfive{Identificas y marcas los conectores que \fillin{unen} cláusulas con verbo finito.}
+\headingfive{Identificas y marcas los conectores que \fillin{conectan} cláusulas con verbo finito.}
 
 \headingfive{Regla}
-\headingfive{Solo se marcan los conectores que unen dos cláusulas con verbo finito.}
+\headingfive{Solo se marcan los conectores que conectan dos cláusulas con verbo finito.}
+
+\headingsix{❗ Todo conector marcado debe unir dos verbos finitos.}
+
+\headingsix{❗ No existe la categoría “introduce”.}
+
+\begin{paraHtwo}Aunque el conector aparezca al inicio de una cláusula:\end{paraHtwo}
+
+\begin{paraHtwo}👉 sigue conectando esa cláusula con otra.\end{paraHtwo}
 
 \headingfive{Cómo hacerlo}
 
@@ -1166,12 +1174,28 @@ CLÁUSULAS}\label{paso-4-identificar-conectores-que-unen-cluxe1usulas}
 \begin{itemize}
 \tightlist
 \item
-  👉 ¿Este conector une dos verbos finitos?
+  👉 ¿Este conector conecta dos verbos finitos?
 \end{itemize}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \setcounter{enumi}{3}
+\tightlist
+\item
+  Verifica:
+\end{enumerate}
+
+\begin{itemize}
+\tightlist
+\item
+  👉 Identifica el verbo anterior
+\item
+  👉 Identifica el verbo siguiente
+\end{itemize}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{4}
 \tightlist
 \item
   Decide:
@@ -1187,7 +1211,7 @@ CLÁUSULAS}\label{paso-4-identificar-conectores-que-unen-cluxe1usulas}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{4}
+\setcounter{enumi}{5}
 \tightlist
 \item
   Marca así:
@@ -1196,6 +1220,28 @@ CLÁUSULAS}\label{paso-4-identificar-conectores-que-unen-cluxe1usulas}
 \begin{rootsblock}
 (porque)
 \end{rootsblock}
+
+\headingfive{Regla de alineación (CRÍTICA)}
+
+\headingsix{El conector debe reflejar el texto, pero no siempre aparece explícito.}
+
+\headingsix{Hay dos casos:}
+
+\headingsix{Caso 1 — Aparece en el texto}
+\headingsix{Se usa tal como está:}
+
+\begin{rootsblock}
+(porque)
+\end{rootsblock}
+
+\headingsix{Caso 2 — No aparece explícitamente}
+\headingsix{Se añade entre corchetes:}
+
+\begin{rootsblock}
+([pero])
+\end{rootsblock}
+
+\headingsix{ 👉 Esto ocurre cuando el griego tiene un conector, pero el español no lo expresa directamente.}
 
 \headingfive{Resultado esperado}
 
@@ -1206,28 +1252,34 @@ Les ==di== a beber leche, no alimento sólido,
 
 (porque) todavía no ==podían== recibirlo.
 
-En verdad, ni aun ahora ==pueden==.
+([pero]) ni aun ahora ==pueden==.
 \end{rootsblock}
 
 \subsection{ENTIENDE}\label{entiende-3}
 
 \headingfive{Qué estás haciendo realmente}
-\headingsix{Estás identificando la \textbf{relación real entre cláusulas}.}
+\headingsix{Estás identificando cómo una cláusula se relaciona con otra.}
 
 \headingfive{Principio clave}
-\headingsix{Solo los conectores que \fillin{unen} cláusulas afectan la estructura.}
+\headingsix{El texto avanza por verbos.}
+
+\headingsix{Los conectores unen esos verbos.}
+
+\headingfive{Corrección fundamental}
+\headingsix{Un conector no “introduce” una cláusula.}
+
+\headingsix{👉 Siempre la conecta con otra.}
 
 \headingfive{Idea clave}
 \headingfive{No todo conector en el texto conecta cláusulas.}
 
 \headingfive{Pregunta guía}
-\headingsix{👉 ¿Este conector une dos \fillin{verbos} finitos?}
+\headingsix{👉 ¿Este conector conecta dos \fillin{verbos} finitos?}
 
 \headingfive{Definición}
-\headingsix{Un conector es una palabra que establece una relación entre dos cláusulas.}
+\headingsix{Un conector es una palabra que relaciona una cláusula con otra cláusula.}
 
 \headingfive{Ejemplo guiado}
-
 \headingsix{Texto (de paso 3):}
 
 \begin{rootsblock}
@@ -1246,6 +1298,8 @@ En verdad, ni aun ahora ==pueden==.
 \tightlist
 \item
   (porque) conecta ==di== con ==podían== → ✔ válido
+\item
+  ({[}pero{]}) conecta ==podían== con ==pueden== → ✔ válido
 \end{itemize}
 
 \headingsix{Resultado:}
@@ -1254,51 +1308,49 @@ En verdad, ni aun ahora ==pueden==.
 Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
 
 Les ==di== a beber leche, no alimento sólido,
-
-(porque) todavía no ==podían== recibirlo.
-
-En verdad, ni aun ahora ==pueden==.
+    (porque) todavía no ==podían== recibirlo.
+        ([pero]) ni aun ahora ==pueden==.
 \end{rootsblock}
 
 \headingfive{Regla importante}
-\headingsix{Si un conector no une dos verbos finitos, se \fillin{ignora}.}
-
-\headingfive{Errores comunes}
-
-\begin{itemize}
-\tightlist
-\item
-  Marcar todos los conectores
-\item
-  Ignorar los verbos
-\item
-  Confiar en intuición
-\item
-  Forzar relaciones
-\end{itemize}
+\headingsix{Si un conector no conecta dos verbos finitos, se \fillin{ignora}.}
 
 \headingfive{Regla de control}
 \headingsix{Si no puedes señalar los dos verbos que conecta, no se marca.}
 
-\headingfive{Frase clave}
-
-\begin{quote}
-\begin{paraHtwo}``No todo conector conecta cláusulas.''\end{paraHtwo}
-\end{quote}
-
-\headingfive{Qué debes notar}
-\headingsix{Cuando los conectores \fillin{están} bien marcados:}
+\headingfive{Error crítico (nuevo)}
 
 \begin{itemize}
 \tightlist
 \item
-  la estructura comienza a aparecer
+  Pensar que un conector ``introduce'' una cláusula
 \item
-  las relaciones se vuelven visibles
+  Ignorar conectores porque no aparecen en español
+\item
+  No marcar conectores implícitos en NBLA
+\end{itemize}
+
+\headingfive{Frase clave}
+
+\begin{quote}
+\begin{paraHtwo}``Todo conector conecta cláusulas, aunque no siempre se vea en español.\end{paraHtwo}
+\end{quote}
+
+\headingfive{Qué debes notar}
+\headingsix{Cuando los conectores están bien marcados:}
+
+\begin{itemize}
+\tightlist
+\item
+  la estructura aparece con claridad
+\item
+  las dependencias se hacen visibles
+\item
+  no se pierde información del texto griego
 \end{itemize}
 
 \headingfive{Transición}
-\headingsix{En el siguiente paso \fillin{usarás} estos conectores para organizar la estructura.}
+\headingsix{En el siguiente paso usarás estos conectores para organizar la estructura.}
 
 \section{PASO 5 - IDENTIFICAR LA
 ESTRUCTURA}\label{paso-5---identificar-la-estructura}
@@ -1807,25 +1859,29 @@ TRONCAL}\label{paso-8---identificar-la-estructura-troncal}
 \subsection{EJECUTA}\label{ejecuta-7}
 
 \headingfive{¿Qué haces?}
+
 \headingsix{Identificas el tronco del texto eliminando únicamente las cláusulas que están estructuralmente subordinadas.}
 
 \headingsix{Mantienes las cláusulas que sostienen el desarrollo principal.}
 
-\headingsix{Mientras lo haces, observas:}
+\headingsix{Mientras lo haces, observas dos cosas:}
 
 \begin{itemize}
 \tightlist
 \item
-  quién actúa (O1)
+  quién actúa
 \item
-  cuándo cambia el tipo de acción (O2)
+  cuándo el flujo se interrumpe
 \end{itemize}
 
 \headingfive{Regla}
+
 \headingsix{Solo puedes eliminar una cláusula si está introducida por un conector subordinante.}
 
 \headingsix{❗ No decides por sentido}
+
 \headingsix{❗ No decides por importancia}
+
 \headingsix{❗ No decides por “parece secundario”}
 
 \headingsix{👉 Decides únicamente por lo que está visible en la estructura}
@@ -1845,7 +1901,6 @@ TRONCAL}\label{paso-8---identificar-la-estructura-troncal}
 \headingsix{❗ Si no puedes señalar el conector exacto, no puedes eliminar la cláusula}
 
 \headingfive{Definición operativa}
-
 \headingsix{Una cláusula subordinada es aquella que:}
 
 \begin{itemize}
@@ -1894,11 +1949,69 @@ TRONCAL}\label{paso-8---identificar-la-estructura-troncal}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{4}
 \tightlist
 \item
   Repite hasta revisar todo el texto
 \end{enumerate}
+
+\headingfive{Observación integrada}
+
+\headingsix{Mientras identificas el tronco, marcas:}
+
+\headingsix{SUJETO}
+
+\begin{itemize}
+\tightlist
+\item
+  Marca solo cuando el sujeto cambia
+\item
+  No explicas
+\item
+  No interpretas
+\end{itemize}
+
+\headingsix{MOVIMIENTO}
+
+\headingsix{Detectas cuándo el flujo del texto se interrumpe entre líneas.}
+
+\headingsix{Solo haces una pregunta:}
+
+\begin{quote}
+\begin{paraHtwo}\textbf{¿Esta línea interrumpe la anterior o sigue igual?}\end{paraHtwo}
+\end{quote}
+
+\headingsix{Regla}
+
+\begin{itemize}
+\tightlist
+\item
+  Si fluye → no marcas
+\item
+  Si se interrumpe → marcas \textbf{[M]}
+\end{itemize}
+
+\headingsix{Qué es una interrupción}
+
+\begin{itemize}
+\tightlist
+\item
+  la línea ya no continúa en la misma dirección
+\item
+  te obliga a hacer una pausa mental
+\item
+  sientes que la relación cambió
+\end{itemize}
+
+\headingsix{Qué NO es una interrupción}
+
+\begin{rootsblock}
+yo ==fui==
+yo ==vi==
+yo ==tomé==
+\end{rootsblock}
+
+\begin{paraHtwo}✔ fluye\\
+✔ no marcas\end{paraHtwo}
 
 \headingfive{Resultado esperado}
 
@@ -1921,96 +2034,30 @@ no ==pude== hablarles
 
 yo ==di==
 
-[S→] ustedes
-ni aun ahora ==pueden==
+no ==podían==   [S][M]
+
+ni aun ahora ==pueden==   [M]
 \end{rootsblock}
-
-\headingfive{Observación integrada}
-\headingsix{Mientras identificas el tronco, marcas:}
-
-\headingsix{O1 — SUJETO}
-
-\begin{itemize}
-\tightlist
-\item
-  👉 Marca solo cuando el sujeto cambia
-\item
-  👉 No explicas
-\item
-  👉 No interpretas
-\end{itemize}
-
-\headingsix{O2 — TIPO DE ACCIÓN}
-
-\begin{itemize}
-\tightlist
-\item
-  👉 Marca solo cuando hay un cambio claro
-\end{itemize}
-
-\headingsix{Tipos permitidos:}
-
-\begin{itemize}
-\tightlist
-\item
-  acción
-\item
-  habla
-\item
-  afirmación
-\end{itemize}
-
-\headingsix{❗ Solo marcas cambios evidentes  }
-
-\headingfive{Regla de control}
-
-\headingsix{Si dos estudiantes no eliminan la misma cláusula,}
-\headingsix{la decisión no fue estructural}
-
-\headingsix{👉 El paso debe repetirse}
-
-\headingfive{Indicador de error}
-
-\headingsix{Si eliminas una cláusula y:}
-
-\begin{itemize}
-\item
-  \begin{paraHtwo}la acción deja de tener sentido\end{paraHtwo}
-\item
-  \begin{paraHtwo}la relación se rompe\end{paraHtwo}
-\item
-  \begin{paraHtwo}👉 eliminaste incorrectamente\end{paraHtwo}
-\end{itemize}
-
-\headingfive{Prueba final}
-\headingsix{Antes de eliminar una cláusula debes poder señalar:}
-
-\begin{itemize}
-\tightlist
-\item
-  la palabra exacta que la introduce (porque, para que, que, etc.)
-\end{itemize}
-
-\headingsix{❗ Si no puedes señalarla, no puedes eliminarla}
 
 \subsection{ENTIENDE}\label{entiende-7}
 
 \headingfive{Qué estás haciendo realmente}
-\headingsix{Estás dejando visible el desarrollo principal del texto eliminando lo que está subordinado.}
+\headingsix{Estás dejando visible el desarrollo principal del texto y marcando los puntos donde el flujo cambia.}
 
 \headingfive{Principio clave}
-\headingsix{El conector determina la dependencia.}
+\headingsix{El tronco muestra la línea principal.}
+\headingsix{El movimiento muestra dónde esa línea cambia.}
 
 \headingfive{Idea clave}
-\headingsix{No decides qué es importante.}
 
-\headingsix{👉 El texto ya muestra qué depende de qué.}
-
-\headingfive{Frase clave}
-
-\begin{quote}
-\begin{paraHtwo}``No elimino por sentido --- elimino por estructura.''\end{paraHtwo}
-\end{quote}
+\begin{itemize}
+\item
+  \begin{paraHtwo}No explicas el cambio.\end{paraHtwo}
+\item
+  \begin{paraHtwo}No lo nombras.\end{paraHtwo}
+\item
+  \begin{paraHtwo}👉 Solo lo detectas.\end{paraHtwo}
+\end{itemize}
 
 \headingfive{Qué debes notar}
 
@@ -2023,21 +2070,30 @@ ni aun ahora ==pueden==
 \item
   mantiene su desarrollo principal
 \item
-  muestra el flujo sin interrupciones
+  muestra claramente dónde cambia el flujo
 \item
-  permite ver quién actúa y cómo cambia la acción
+  prepara el análisis del siguiente paso
 \end{itemize}
 
 \headingfive{Transición}
+
 \headingsix{En el siguiente paso:}
 
 \begin{itemize}
 \tightlist
 \item
-  👉 observarás qué hace cada cláusula
+  tomarás cada punto marcado
 \item
-  👉 sin perder la estructura identificada
+  y definirás qué está haciendo la cláusula
+\item
+  👉 Ahora sí con precisión
 \end{itemize}
+
+\subsection{Frase clave}\label{frase-clave}
+
+\begin{quote}
+\begin{paraHtwo}``No explico el cambio --- primero lo detecto.''\end{paraHtwo}
+\end{quote}
 
 \section{PASO 9 - MARCAR EL
 COMPORTAMIENTO}\label{paso-9---marcar-el-comportamiento}
@@ -2045,684 +2101,568 @@ COMPORTAMIENTO}\label{paso-9---marcar-el-comportamiento}
 \subsection{EJECUTA}\label{ejecuta-8}
 
 \headingfive{¿Qué haces?}
-\headingsix{Asignas una etiqueta de comportamiento a cada cláusula del tronco.}
+\headingsix{Nombras qué hace la cláusula \textbf{solo en los puntos donde el flujo se interrumpe}.}
 
-\headingfive{Regla}
-\headingsix{Solo trabajas con las cláusulas del Paso 8.}
+\headingsix{Trabajas únicamente con:}
 
 \begin{itemize}
 \tightlist
 \item
-  👉 No agregas \fillin{frases}
+  el tronco (Paso 8)
 \item
-  👉 No recuperas información eliminada
-\item
-  👉 No vuelves a la estructura anterior
+  las marcas \textbf{[M]}
 \end{itemize}
 
-\headingsix{La etiqueta debe describir una función observable en la relación entre cláusulas.}
+\headingfive{Regla principal}
+\headingsix{❗ Solo etiquetas donde hay \textbf{[M]}}
 
-\headingsix{No debe introducir \fillin{ideas} nuevas.}
+\headingsix{❗ Si no hay [M], no haces nada}
+
+\headingfive{Regla de control}
+\headingsix{Si dos estudiantes no etiquetan las mismas líneas:}
+
+\begin{itemize}
+\tightlist
+\item
+  👉 No detectaron bien el {[}M{]}
+\item
+  👉 Deben volver al Paso 8
+\end{itemize}
+
+\headingfive{Qué estás nombrando}
+
+\begin{itemize}
+\item
+  \begin{paraHtwo}No explicas ideas.\end{paraHtwo}
+\item
+  \begin{paraHtwo}👉 Nombras \textbf{qué hace la línea nueva con respecto a la anterior}\end{paraHtwo}
+\end{itemize}
 
 \headingfive{Cómo hacerlo}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \item
-  \begin{paraHtwo}Toma el texto del Paso 8 (tronco)\end{paraHtwo}
+  \begin{paraHtwo}Busca una marca \textbf{[M]}\end{paraHtwo}
 \item
-  \begin{paraHtwo}Lee una cláusula\end{paraHtwo}
-\item
-  \begin{paraHtwo}Haz esta pregunta:\end{paraHtwo}
+  \begin{paraHtwo}Lee:\end{paraHtwo}
 \end{enumerate}
 
 \begin{itemize}
 \tightlist
 \item
-  👉 ¿Qué relación visible en el texto muestra la función de esta
-  cláusula?
+  la línea anterior
+\item
+  la línea con {[}M{]}
 \end{itemize}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{3}
-\tightlist
+\setcounter{enumi}{2}
 \item
-  \fillin{Asigna} una etiqueta clara y verificable
+  \begin{paraHtwo}Haz una sola pregunta:\\
+  \textgreater{} \textbf{¿Qué está haciendo esta línea con la anterior?}\end{paraHtwo}
+\item
+  \begin{paraHtwo}Asigna una etiqueta clara\end{paraHtwo}
 \end{enumerate}
 
-\headingfive{Resultado esperado}
+\subsection{ETIQUETAS PERMITIDAS
+(FIJAS)}\label{etiquetas-permitidas-fijas}
+
+\headingsix{• EXPONE  • RAZÓN • CONTRASTE • RESULTADO}
+
+\subsection{DEFINICIONES
+(SIMPLIFICADAS)}\label{definiciones-simplificadas}
+
+\subsubsection{EXPONE}\label{expone}
+
+\begin{verseblock}
+-👉 Continúa la misma línea -👉 No cambia la dirección
+\end{verseblock}
+
+\subsubsection{RAZÓN}\label{razuxf3n}
+
+\begin{verseblock}
+- 👉 Explica por qué - 👉 Responde: “¿por qué?”
+\end{verseblock}
+
+\subsubsection{CONTRASTE}\label{contraste}
+
+\begin{verseblock}
+- 👉 Cambia la dirección - 👉 Se opone o corrige
+\end{verseblock}
+
+\subsubsection{RESULTADO}\label{resultado}
+
+\begin{verseblock}
+- 👉 Muestra consecuencia - 👉 Responde: “¿qué pasa entonces?”
+\end{verseblock}
+
+\subsection{RESULTADO ESPERADO}\label{resultado-esperado-1}
+
+\headingsix{Paso 8:}
 
 \begin{rootsblock}
-::EXPONE::
-no pude hablarles
+yo ==pude== hablarles
 
-::EXPONE::
-yo di
+yo ==di== a beber leche
 
-::RAZÓN::
-ni aun ahora pueden
+no ==podían== recibirlo   [S][M]
+
+ni aun ahora ==pueden==   [M]
 \end{rootsblock}
 
-\subsection{ENTIENDE}\label{entiende-8}
+\headingsix{Paso 9:}
+
+\begin{rootsblock}
+yo ==pude== hablarles
+
+yo ==di== a beber leche
+
+::RAZÓN::
+no ==podían== recibirlo   [S][M]
+
+::EXPONE::
+ni aun ahora ==pueden==   [M]
+\end{rootsblock}
+
+\subsection{EJEMPLOS ADICIONALES}\label{ejemplos-adicionales}
+
+\subsubsection{Ejemplo 1 --- Contraste}\label{ejemplo-1-contraste}
+
+\begin{verseblock}
+``` yo ==quería== ayudar
+\end{verseblock}
+
+\begin{paraHthree}pero ellos ==rechazaron== {[}M{]}\\
+::CONTRASTE::\\
+pero ellos rechazaron\end{paraHthree}
+
+\begin{rootsblock}
+
+### Ejemplo 2 — Resultado
+
+\begin{verseblock}
+``` ellos ==creyeron==
+\end{verseblock}
+por eso ==fueron salvos==   [M]
+::RESULTADO::
+fueron salvos
+\end{rootsblock}
+
+\subsubsection{Ejemplo 3 --- Sin cambio}\label{ejemplo-3-sin-cambio}
+
+\begin{verseblock}
+``` yo ==fui== yo ==vi== yo ==tomé== ```
+\end{verseblock}
+
+\begin{itemize}
+\tightlist
+\item
+  ✔ no hay {[}M{]}
+\item
+  ✔ no etiquetas nada
+\end{itemize}
+
+\subsection{ERRORES COMUNES}\label{errores-comunes}
+
+\subsubsection{❌ Etiquetar todo}\label{etiquetar-todo}
+
+\begin{verseblock}
+``` ::EXPONE:: yo pude
+\end{verseblock}
+
+\begin{paraHthree}::EXPONE::\\
+yo di\end{paraHthree}
+
+\begin{rootsblock}
+- 👉 incorrecto
+
+### ❌ Pensar en significado
+\begin{verseblock}
+- “esto enseña…” - “esto implica…” - 👉 incorrecto
+\end{verseblock}
+### ❌ Inventar etiquetas
+\begin{verseblock}
+- “aclara” - “amplía” - 👉 prohibido
+\end{verseblock}
+### FRASE CLAVE
+\begin{verseblock}
+> “No interpreto — nombro lo que el texto hace en el punto donde cambia.”
+\end{verseblock}
+## ENTIENDE
 
 \headingfive{Qué estás haciendo realmente}
-\headingsix{Hasta el Paso 8 dejaste solo el desarrollo principal.}
-
-\headingsix{Aquí observas cómo ese desarrollo avanza.}
+\headingsix{Estás nombrando los puntos donde el texto cambia de dirección.}
 
 \headingfive{Principio clave}
-\headingsix{El texto no solo tiene estructura.}
-
-\begin{itemize}
-\tightlist
-\item
-  👉 El texto se mueve.
-\end{itemize}
+\headingsix{El cambio ya fue detectado en Paso 8.}
+- 👉 Aquí solo lo defines.
 
 \headingfive{Idea clave}
-\headingsix{Cada cláusula del tronco \fillin{cumple} una función.}
-
-\begin{itemize}
-\tightlist
-\item
-  👉 Paso 8 mostró las líneas principales
-\item
-  👉 Paso 9 muestra qué hace cada una
-\end{itemize}
-
-\headingfive{Frase clave}
-
-\begin{quote}
-\begin{paraHtwo}``Marco lo que hace cada cláusula del tronco.''\end{paraHtwo}
-\end{quote}
-
-\headingfive{Pregunta guía}
-\headingsix{👉 ¿Qué relación \fillin{visible} muestra esta cláusula?}
-
-\headingsix{NO preguntes:}
-
-\begin{itemize}
-\tightlist
-\item
-  ¿qué significa?
-\item
-  ¿qué idea me parece que comunica?
-\item
-  ¿qué tipo de cláusula es?
-\end{itemize}
-
-\headingsix{SÍ pregunta:}
-
-\begin{itemize}
-\tightlist
-\item
-  ¿qué función cumple dentro del desarrollo?
-\end{itemize}
-
-\headingfive{Distinción importante}
-\headingsix{O2 y Paso 9 no son lo mismo.}
-
-\headingsix{O2 observa el tipo de acción:}
-
-\begin{itemize}
-\tightlist
-\item
-  acción
-\item
-  habla
-\item
-  afirmación
-\end{itemize}
-
-\headingsix{Paso 9 observa la función de la cláusula:}
-
-\begin{itemize}
-\tightlist
-\item
-  expone
-\item
-  contrasta
-\item
-  da razón
-\item
-  muestra resultado
-\end{itemize}
-
-\headingsix{Una misma cláusula tiene ambos:}
-
-\begin{rootsblock}
-==dije==
-O2 → habla
-Paso 9 → EXPONE
-\end{rootsblock}
-
-\headingsix{❗ No confundas tipo con función.}
-
-\begin{itemize}
-\tightlist
-\item
-  O2 → qué tipo de acción ocurre
-\item
-  Paso 9 → qué función cumple en el desarrollo
-\end{itemize}
-
-\headingfive{Definición}
-\headingsix{Comportamiento = función observable basada en relación visible.}
-
-\headingsix{Usa etiquetas que puedan justificarse por la relación \fillin{visible} del texto.}
-
-\headingfive{Etiquetas base:}
-\headingsix{• EXPONE • CONTRASTA • RAZÓN}
-
-\headingfive{Etiquetas adicionales (solo si son claramente observables):}
-\headingfive{• RESULTADO • CONDICIÓN • PROPÓSITO}
-
-\headingfive{Etiquetas restringidas:}
-\headingfive{• AMPLÍA • ACLARA}
-
-\headingsix{❗ Estas últimas solo se usan si puedes mostrarlo sin introducir ideas nuevas.}
-
-\headingfive{Ejemplo guiado}
-\headingsix{Texto (Paso 8):}
-
-\begin{rootsblock}
-no pude ==hablarles==
-yo ==di==
-ni aun ahora ==pueden==
-\end{rootsblock}
-
-\headingfive{Aplicación:}
-
-\begin{rootsblock}
-::EXPONE::
-no pude hablarles
-
-::EXPONE::
-yo di
-
-::RAZÓN::
-ni aun ahora pueden
-\end{rootsblock}
-
-\headingfive{Regla importante}
-\headingsix{Solo etiquetas cláusulas del tronco.}
-
-\headingsix{La etiqueta debe poder defenderse desde el texto,}
-
-\headingsix{no desde impresión personal.}
-
-\headingsix{La etiqueta debe estar justificada por:}
-
-\begin{itemize}
-\tightlist
-\item
-  un conector
-\item
-  una repetición
-\item
-  un contraste visible
-\end{itemize}
-
-\headingsix{❗ Si no puedes señalarlo en el texto, no puedes etiquetar}
-
-\headingfive{Errores comunes}
-
-\begin{itemize}
-\tightlist
-\item
-  Volver a incluir cláusulas eliminadas
-\item
-  Etiquetar frases que no están en el tronco
-\item
-  Usar etiquetas demasiado libres
-\item
-  Etiquetar por intuición sin responder la pregunta
-\end{itemize}
-
-\headingfive{Regla de control}
-\headingsix{Si la línea no está en el Paso 8, no se etiqueta.}
-
-\headingsix{Debes poder señalar en el texto lo que justifica la etiqueta:}
-
-\begin{itemize}
-\tightlist
-\item
-  el conector que la introduce
-\item
-  la repetición que la vincula
-\item
-  el contraste que la opone
-\end{itemize}
-
-\headingsix{❗ Si no puedes señalarlo, la etiqueta es incorrecta}
+\headingsix{No buscas en todo el texto.}
+- 👉 Solo trabajas donde hay [M]
 
 \headingfive{Qué debes notar}
+\headingsix{Ahora el texto muestra:}
+- dónde cambia
+- qué tipo de cambio ocurre
 
-\headingsix{Ahora comienzas a ver:}
+### TRANSICIÓN A PASO 10 (CRUCIAL)
 
-\begin{itemize}
-\tightlist
-\item
-  cómo inicia el texto
-\item
-  cómo contrasta
-\item
-  cómo da razón
-\item
-  cómo avanza el desarrollo
-\item
-  👉 Estás viendo el movimiento real del texto
-\end{itemize}
+\headingsix{Ahora puedes ignorar el contenido.}
 
-\headingfive{Transición}
-\headingsix{En el siguiente paso:}
+\headingsix{Solo lees:}
+\begin{verseblock}
+``` EXPONE RAZÓN EXPONE CONTRASTE ```
+\end{verseblock}
+- 👉 Esto empieza a repetirse
+- 👉 Eso es un patrón
 
-\begin{itemize}
-\tightlist
-\item
-  👉 ignorarás el contenido
-\item
-  👉 leerás solo las etiquetas
-\item
-  👉 detectarás \fillin{patrones}
-\end{itemize}
+# ANTES DE CONTINUAR — LEER EL COMPORTAMIENTO DEL TEXTO
 
-\section{ANTES DE CONTINUAR --- LEER EL COMPORTAMIENTO DEL
-TEXTO}\label{antes-de-continuar-leer-el-comportamiento-del-texto}
-
-\subsection{LO QUE YA TIENES}\label{lo-que-ya-tienes}
+## LO QUE YA TIENES
 
 \headingfive{Hasta aquí no has interpretado.}
 
 \headingsix{Has trabajado el texto mecánicamente:}
 
-\begin{itemize}
-\tightlist
-\item
-  identificaste verbos
-\item
-  separaste cláusulas
-\item
-  organizaste estructura
-\item
-  redujiste al tronco (Paso 8)
-\item
-  marcaste el comportamiento de cada línea (Paso 9)
-\end{itemize}
+- identificaste verbos
+- separaste cláusulas
+- organizaste estructura
+- redujiste al tronco (Paso 8)
+- marcaste los puntos donde el flujo cambia ([M])
+- nombraste esos cambios (Paso 9)
 
-\headingsix{Ahora tienes algo muy específico:}
+------
 
-\begin{itemize}
-\tightlist
-\item
-  👉 un conjunto de líneas claras
-\item
-  👉 cada línea con una acción definida
-\end{itemize}
+\headingsix{Ahora tienes algo completo:}
+
+- 👉 un conjunto de líneas claras
+- 👉 solo las líneas principales
+- 👉 marcas de cambio ([S] y [M])
+- 👉 una etiqueta en cada punto de cambio
+
+------
 
 \headingfive{Esto es \textbf{datos procesados}.}
 
-\subsection{LO QUE CAMBIA AHORA}\label{lo-que-cambia-ahora}
+------
+
+## LO QUE CAMBIA AHORA
 
 \headingsix{Hasta este punto preguntabas:}
 
-\begin{itemize}
-\tightlist
-\item
-  👉 ¿qué hay en el texto?
-\end{itemize}
+- 👉 ¿qué hay en el texto?
 
-\headingsix{Ahora la pregunta cambia:}
+\headingsix{Ahora haces algo distinto:}
 
-\begin{itemize}
-\tightlist
-\item
-  👉 ¿cómo se comporta lo que hay?
-\end{itemize}
+- 👉 vas a \textbf{agrupar lo que ya ves}
 
-\subsection{DISTINCIÓN CLAVE}\label{distinciuxf3n-clave}
+------
 
-\headingfive{MOVIMIENTO (Paso 9)}
-\headingfive{→ qué hace una línea}
+## CAMBIO CLAVE
 
-\headingfive{PATRÓN (Paso 10–11)}
-\headingfive{→ qué hacen varias líneas juntas}
+\headingfive{Ya no lees el texto como contenido}
 
-\subsection{NO INTERPRETAS
-SIGNIFICADO}\label{no-interpretas-significado}
+👉 lees lo que hacen las líneas
 
-\headingfive{No estás explicando el texto.}
-\headingsix{No estás enseñando doctrina.}
-\headingsix{No estás aplicando.}
+------
 
-\begin{itemize}
-\item
-  \begin{paraHtwo}👉 Estás observando comportamiento.\end{paraHtwo}
-\item
-  \begin{paraHtwo}👉 Estás leyendo cómo el texto avanza.\end{paraHtwo}
-\end{itemize}
+\headingsix{En lugar de:}
 
-\subsection{SEÑALES QUE DEBES
-DETECTAR}\label{seuxf1ales-que-debes-detectar}
-
-\headingfive{Antes de buscar patrones, debes aprender a ver señales.}
-
-\headingsix{Estas señales ya están en el texto.}
-\headingsix{No las inventas.}
-
-\headingfive{REPETICIÓN}
-
-\headingsix{Misma acción, misma estructura o misma idea.}
-
-\begin{itemize}
-\item
-  \begin{paraHtwo}mismo verbo\end{paraHtwo}
-\item
-  \begin{paraHtwo}mismo sujeto\end{paraHtwo}
-\item
-  \begin{paraHtwo}misma forma\end{paraHtwo}
-\item
-  \begin{paraHtwo}👉 indica unidad\end{paraHtwo}
-\end{itemize}
-
-\headingfive{PROGRESIÓN}
-
-\headingsix{La idea avanza.}
-
-\begin{itemize}
-\item
-  \begin{paraHtwo}desarrollo\end{paraHtwo}
-\item
-  \begin{paraHtwo}aumento\end{paraHtwo}
-\item
-  \begin{paraHtwo}cambio de nivel\end{paraHtwo}
-\item
-  \begin{paraHtwo}👉 indica movimiento\end{paraHtwo}
-\end{itemize}
-
-\headingfive{CONTRASTE}
-\headingsix{Oposición directa.}
-
-\begin{itemize}
-\item
-  \begin{paraHtwo}sino\end{paraHtwo}
-\item
-  \begin{paraHtwo}pero\end{paraHtwo}
-\item
-  \begin{paraHtwo}no / sí\end{paraHtwo}
-\item
-  \begin{paraHtwo}👉 divide bloques\end{paraHtwo}
-\end{itemize}
-
-\headingfive{CAMBIO DE SUJETO}
-\headingsix{El actor cambia.}
-
-\begin{itemize}
-\tightlist
-\item
-  yo → ellos → Dios
-\item
-  👉 posible cambio de sección
-\end{itemize}
-
-\headingfive{CAMBIO DE ACCIÓN}
-\headingsix{La acción cambia.}
-
-\begin{itemize}
-\item
-  \begin{paraHtwo}hablar → dar → crecer\end{paraHtwo}
-\item
-  \begin{paraHtwo}👉 posible transición o desarrollo\end{paraHtwo}
-\end{itemize}
-
-\headingfive{CONECTORES}
-\headingsix{Confirman relaciones.}
-
-\begin{itemize}
-\item
-  \begin{paraHtwo}porque → razón\end{paraHtwo}
-\item
-  \begin{paraHtwo}para que → propósito\end{paraHtwo}
-\item
-  \begin{paraHtwo}pero → contraste\end{paraHtwo}
-\item
-  \begin{paraHtwo}👉 no crean el patrón\end{paraHtwo}
-\item
-  \begin{paraHtwo}👉 lo hacen visible\end{paraHtwo}
-\end{itemize}
-
-\subsection{CÓMO LEER EL TEXTO AHORA}\label{cuxf3mo-leer-el-texto-ahora}
-
-\headingsix{No agregas nada nuevo.}
-
-\headingsix{Solo haces preguntas sobre lo que ya tienes:}
-
-\headingsix{Para cada línea:}
-
-\begin{itemize}
-\tightlist
-\item
-  ¿repite algo anterior?
-\item
-  ¿contrasta algo?
-\item
-  ¿avanza la idea?
-\item
-  ¿cambia el sujeto?
-\item
-  ¿cambia la acción?
-\end{itemize}
-
-\headingsix{Esto es lo que te permite ver patrones.}
-
-\subsection{LECTURA GUIADA}\label{lectura-guiada}
-
-\headingfive{Texto (tronco + comportamiento):}
-
-\begin{rootsblock}
-yo no pude hablar → EXPONE
- yo di leche → EXPONE
- no podían → RAZÓN
 \end{rootsblock}
 
-\begin{paraHtwo}\#\#\#\#\#Ahora observa:\end{paraHtwo}
+\begin{paraHthree}yo no pude hablar\\
+yo di leche\\
+no podían\end{paraHthree}
 
 \begin{rootsblock}
-- “yo” se repite → repetición de sujeto
-- acción del autor se mantiene → repetición
-- aparece una razón → soporte
+
+------
+
+\headingsix{Ahora ves:}
+
 \end{rootsblock}
 
-\begin{paraHtwo}Agrupación visible:\end{paraHtwo}
+\begin{paraHthree}EXPONE\\
+EXPONE\\
+RAZÓN\end{paraHthree}
 
 \begin{rootsblock}
-[yo no pude hablar
- yo di leche] → unidad
 
-[no podían] → razón que sostiene
+------
+
+👉 Esto es lo que usarás a partir de ahora
+
+------
+
+## NO INTERPRETAS SIGNIFICADO
+
+\headingfive{No explicas el texto}
+
+\headingfive{No enseñas doctrina}
+
+\headingfive{No aplicas}
+
+👉 Solo observas comportamiento visible
+
+------
+
+# CÓMO EMPEZAR (MECÁNICO)
+
+\headingfive{No buscas tipos de patrón}
+
+\headingfive{No decides por intuición}
+
+👉 Solo haces esto:
+
+------
+
+### Paso 1
+
+\begin{verseblock}
+Mira solo las etiquetas
+\end{verseblock}
+------
+
+### Paso 2
+
+\begin{verseblock}
+Agrupa las que son iguales
+\end{verseblock}
+------
+
+### Paso 3
+
+\begin{verseblock}
+Separa cuando cambian
+\end{verseblock}
+------
+
+### Paso 4
+
+\begin{verseblock}
+Observa qué ocurrió
+\end{verseblock}
+------
+
+## LECTURA GUIADA
+
+\headingfive{Comportamiento:}
+
 \end{rootsblock}
 
-\headingsix{No interpretaste.}
-\headingsix{No explicaste.}
+\begin{paraHthree}EXPONE\\
+EXPONE\\
+RAZÓN\end{paraHthree}
 
-\begin{itemize}
-\tightlist
-\item
-  👉 solo viste cómo se relacionan las líneas
-\end{itemize}
+\begin{rootsblock}
 
-\subsection{RESULTADO DE ESTA
-SECCIÓN}\label{resultado-de-esta-secciuxf3n}
+------
 
-\headingsix{Ahora puedes:}
+\headingfive{Paso 1 — agrupar}
 
-\begin{itemize}
-\item
-  \begin{paraHtwo}detectar repetición\end{paraHtwo}
-\item
-  \begin{paraHtwo}ver progresión\end{paraHtwo}
-\item
-  \begin{paraHtwo}identificar contrastes\end{paraHtwo}
-\item
-  \begin{paraHtwo}notar cambios de sujeto\end{paraHtwo}
-\item
-  \begin{paraHtwo}seguir cambios de acción\end{paraHtwo}
-\item
-  \begin{paraHtwo}👉 ya no estás viendo líneas aisladas\end{paraHtwo}
-\item
-  \begin{paraHtwo}👉 estás viendo comportamiento conjunto\end{paraHtwo}
-\end{itemize}
+\end{rootsblock}
 
-\subsection{LO QUE VIENE}\label{lo-que-viene}
+\begin{paraHthree}{[}EXPONE\\
+EXPONE{]}\end{paraHthree}
 
-\headingfive{Ahora sí estás listo para continuar.}
+\begin{paraHthree}\hyperref[razuxf3n]{RAZÓN}\end{paraHthree}
+
+\begin{rootsblock}
+
+------
+
+\headingfive{Paso 2 — observar}
+
+- dos líneas iguales → se agrupan
+- una línea distinta → se separa
+- la línea distinta sostiene a las anteriores
+
+------
+
+\headingsix{No interpretaste}
+
+\headingsix{No explicaste}
+
+👉 solo agrupaste lo que ya estaba visible
+
+------
+
+## QUÉ DEBES NOTAR
+
+\headingsix{Ahora comienzas a ver:}
+
+- repetición (líneas iguales)
+- cambio (líneas diferentes)
+- soporte (una línea depende de otra)
+
+------
+
+\headingsix{Ya no ves líneas aisladas}
+
+👉 ves cómo se agrupan
+
+------
+
+## REGLA CLAVE
+
+> No busco patrones — agrupo líneas que hacen lo mismo.
+
+------
+
+## NOTA
+
+\headingsix{Existen formas comunes como:}
+
+- repetición
+- contraste
+- progresión
+
+👉 pero no las buscas directamente
+
+👉 aparecen cuando agrupas correctamente
+
+------
+
+## LO QUE VIENE
+
+\headingfive{Ahora sí estás listo}
 
 \headingsix{En el siguiente paso:}
 
-\begin{itemize}
-\tightlist
-\item
-  👉 no vas a buscar datos nuevos
-\item
-  👉 vas a confirmar patrones
-\end{itemize}
+- 👉 no buscarás información nueva
+- 👉 extenderás las agrupaciones que ya ves
 
-\section{PASO 10 --- IDENTIFICAR
-PATRONES}\label{paso-10-identificar-patrones}
+# PASO 10 — IDENTIFICAR PATRONES
 
-\subsection{EJECUTA}\label{ejecuta-9}
+## EJECUTA
 
 \headingfive{¿Qué haces?}
+
 \headingsix{Identificas patrones en el tronco agrupando líneas que se comportan juntas.}
 
 \headingfive{Regla}
 \headingsix{Solo trabajas con:}
 
-\begin{itemize}
-\tightlist
-\item
-  el texto del Paso 8 (tronco)
-\item
-  las etiquetas del Paso 9 (comportamiento)
-\end{itemize}
+- el texto del Paso 8 (tronco)
+- las etiquetas del Paso 9 (comportamiento)
 
 \headingsix{❌ No agregas contenido}
+
 \headingsix{❌ No explicas el significado}
+
 \headingsix{❌ No interpretas}
 
-\headingsix{Solo marcas lo que se repite o se desarrolla.}
+\headingsix{👉 Solo agrupas lo que se repite o se mantiene igual}
 
-\headingfive{Cómo hacerlo}
+# CÓMO HACERLO (SIMPLIFICADO)
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\item
-  \begin{paraHtwo}Toma el texto del Paso 8 con las etiquetas del Paso 9\end{paraHtwo}
-\item
-  \begin{paraHtwo}Lee línea por línea\end{paraHtwo}
-\item
-  \begin{paraHtwo}Haz estas preguntas:\end{paraHtwo}
-\end{enumerate}
+### 1. Toma el texto del Paso 8 con las etiquetas del Paso 9
 
-\begin{itemize}
-\tightlist
-\item
-  👉 ¿Qué líneas repiten algo?
-\item
-  👉 ¿Qué líneas avanzan la idea?
-\item
-  👉 ¿Qué líneas contrastan?
-\item
-  👉 ¿Dónde cambia el sujeto?
-\item
-  👉 ¿Dónde cambia la acción?
-\end{itemize}
+### 2. Lee línea por línea
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{3}
-\item
-  \begin{paraHtwo}Agrupa las líneas que se comportan juntas\end{paraHtwo}
-\item
-  \begin{paraHtwo}Asigna una etiqueta de patrón al grupo\end{paraHtwo}
-\end{enumerate}
+### 3. Haz UNA sola pregunta
+\begin{verseblock}
+> 👉 ¿Esta línea hace lo mismo que la anterior?
+\end{verseblock}
+### 4. Decide
+\begin{verseblock}
+- ✔ Sí → agrúpalas - ❌ No → comienza un nuevo grupo
+\end{verseblock}
+### 5. Repite hasta terminar el texto
 
-\headingsix{Solo puedes formar un patrón si hay:}
+### 6. Observa cada grupo
 
-\begin{itemize}
-\tightlist
-\item
-  repetición visible
-\item
-  misma estructura
-\item
-  mismo sujeto o acción
-\item
-  conector que agrupa
-\end{itemize}
+\begin{verseblock}
+👉 recién aquí puedes notar: - repetición - contraste - razón - cambio
+\end{verseblock}
+# REGLA CRÍTICA
+> No buscas el tipo de patrón primero.
+>  👉 Primero formas grupos.
+
+# CUÁNDO PUEDES FORMAR UN GRUPO
+
+Solo si hay:
+
+- misma etiqueta (EXPONE, RAZÓN, etc.)
+- misma acción visible
+- continuidad clara
 
 \headingsix{❗ No agrupas por tema}
+
 \headingsix{❗ No agrupas por idea}
 
-\headingfive{Patrones permitidos}
+# PATRONES PERMITIDOS
 
-\begin{paraHtwo}Puedes usar únicamente estos:\end{paraHtwo}
+(Solo después de agrupar)
 
-\begin{paraHtwo}REPETICIÓN • PROGRESIÓN • CONTRASTE • CAUSA--RESULTADO • PARALELISMO •
-CAMBIO DE SUJETO\end{paraHtwo}
+REPETICIÓN • PROGRESIÓN • CONTRASTE • CAUSA–RESULTADO • PARALELISMO • CAMBIO DE SUJETO
 
-\begin{figure}
-\centering
-\pandocbounded{\includegraphics[keepaspectratio,alt={patrones}]{images/patrones.png}}
-\caption{patrones}
-\end{figure}
+# RESULTADO ESPERADO
 
-\headingfive{Resultado esperado}
-
-\begin{rootsblock}
-::REPETICIÓN::
-yo no pude hablar
-yo di leche
-
-::RAZÓN::
-no podían
 \end{rootsblock}
 
-\subsection{ENTIENDE}\label{entiende-9}
+\begin{paraHthree}{[}EXPONE\\
+EXPONE{]}\end{paraHthree}
+
+\begin{paraHthree}\hyperref[razuxf3n]{RAZÓN}\end{paraHthree}
+
+\begin{rootsblock}
+
+------
+
+### (Opcional — nombre del patrón)
+
+\begin{verseblock}
+``` ::REPETICIÓN:: EXPONE EXPONE
+\end{verseblock}
+::RAZÓN::
+RAZÓN
+\end{rootsblock}
+
+\section{ENTIENDE}\label{entiende-8}
 
 \headingfive{Qué estás haciendo realmente}
+
 \headingsix{Estás dejando de ver líneas individuales.}
-\headingsix{Ahora ves bloques.}
+
+\headingsix{👉 Ahora ves bloques.}
 
 \headingfive{Principio clave}
+
 \headingsix{Un patrón no está en una línea.}
-\headingsix{Está en la relación entre líneas.}
+
+\headingsix{👉 Está en la relación entre líneas.}
 
 \headingfive{Idea clave}
+
 \headingsix{El patrón no se inventa.}
 
-\headingsix{Se reconoce porque:}
+\headingsix{👉 Aparece cuando agrupas correctamente.}
+
+\section{ADVERTENCIA}\label{advertencia}
+
+\headingsix{Si estás pensando:}
 
 \begin{itemize}
 \tightlist
 \item
-  algo se repite
+  ``esto parece\ldots''
 \item
-  algo avanza
-\item
-  algo cambia
+  ``esto significa\ldots''
 \end{itemize}
 
-\headingfive{Advertencia}
-\headingsix{Si necesitas explicar el texto, te saliste del paso.}
-\headingsix{Si agregas ideas, te saliste del paso.}
+\begin{paraHone}👉 te saliste del paso\end{paraHone}
 
-\headingsix{Si dudas entre dos opciones:}
+\headingsix{Si dudas:}
 
-\begin{paraHtwo}👉 elige la que sea visible en el texto\end{paraHtwo}
+\begin{paraHone}👉 vuelve a la pregunta base\\
+\textgreater{} ¿Hace lo mismo que la línea anterior?\end{paraHone}
 
-\headingfive{Resultado mental esperado}
+\section{RESULTADO MENTAL ESPERADO}\label{resultado-mental-esperado}
+
 \headingsix{Ahora puedes ver:}
 
 \begin{itemize}
@@ -2730,25 +2670,20 @@ no podían
 \item
   qué líneas pertenecen juntas
 \item
-  qué líneas sostienen otras
+  dónde se rompe el flujo
 \item
-  dónde empieza a formarse una unidad
+  dónde comienza un nuevo bloque
 \end{itemize}
 
-\headingsix{👉 Esto prepara directamente el siguiente paso:}
+\headingsix{👉 Esto prepara el siguiente paso:}
 
-\begin{itemize}
-\tightlist
-\item
-  no solo ver el patrón\ldots{}
-\item
-  👉 sino seguirlo hasta que termine.
-\end{itemize}
+\begin{paraHone}👉 no solo ver el patrón\ldots{}\\
+👉 sino seguirlo hasta que termine\end{paraHone}
 
 \section{PASO 11 --- EXTENDER EL
 PATRÓN}\label{paso-11-extender-el-patruxf3n}
 
-\subsection{EJECUTA}\label{ejecuta-10}
+\subsection{EJECUTA}\label{ejecuta-9}
 
 \headingfive{¿Qué haces?}
 \headingsix{Extiendes el patrón identificado siguiendo las líneas que mantienen el mismo comportamiento.}
@@ -2865,7 +2800,7 @@ no podían
   👉 El patrón no se extendió a ``no podían'' porque cambia la función
 \end{itemize}
 
-\subsection{ENTIENDE}\label{entiende-10}
+\subsection{ENTIENDE}\label{entiende-9}
 
 \headingfive{Qué estás haciendo realmente}
 \headingsix{Estás delimitando hasta dónde llega un comportamiento consistente.}
@@ -2924,7 +2859,7 @@ no podían
 \section{PASO 12 --- DELIMITAR LA
 UNIDAD}\label{paso-12-delimitar-la-unidad}
 
-\subsection{EJECUTA}\label{ejecuta-11}
+\subsection{EJECUTA}\label{ejecuta-10}
 
 \headingfive{¿Qué haces?}
 \headingsix{Delimitar la unidad identificando dónde el patrón comienza y dónde se rompe.}
@@ -3049,7 +2984,7 @@ no podían
   👉 Termina donde el patrón se rompe
 \end{itemize}
 
-\subsection{ENTIENDE}\label{entiende-11}
+\subsection{ENTIENDE}\label{entiende-10}
 
 \headingfive{Qué estás haciendo realmente}
 \headingsix{Estás reconociendo los límites naturales del texto.}
@@ -3097,7 +3032,7 @@ no podían
 \section{PASO 13 --- EXPRESAR LA ACCIÓN DEL
 TRONCO}\label{paso-13-expresar-la-acciuxf3n-del-tronco}
 
-\subsection{EJECUTA}\label{ejecuta-12}
+\subsection{EJECUTA}\label{ejecuta-11}
 
 \headingfive{¿Qué haces?}
 \headingsix{Escribes una \fillin{sola} oración que expresa la acción del texto usando el tronco.}
@@ -3162,7 +3097,7 @@ TRONCO}\label{paso-13-expresar-la-acciuxf3n-del-tronco}
 Pablo expone que no pudo hablarles, que les dio, y que no podían.
 \end{rootsblock}
 
-\subsection{ENTIENDE}\label{entiende-12}
+\subsection{ENTIENDE}\label{entiende-11}
 
 \headingfive{Qué estás haciendo realmente}
 \headingsix{Hasta el Paso 12 delimitaste la unidad.}
@@ -3424,7 +3359,7 @@ Pablo expone que no pudo hablarles, que les dio, y que no podían.
   \begin{paraHthree}Toma los movimientos internos del texto\end{paraHthree}
 \end{enumerate}
 
-\subsubsection{Resultado}\label{resultado}
+\subsubsection{Resultado}\label{resultado-1}
 
 \headingsix{Sabes:}
 \begin{verseblock}
@@ -3437,7 +3372,7 @@ Pablo expone que no pudo hablarles, que les dio, y que no podían.
 
 \headingsix{El contexto se establece a partir del texto mismo.}
 
-\subsubsection{Frase clave}\label{frase-clave}
+\subsubsection{Frase clave}\label{frase-clave-1}
 
 \begin{verseblock}
 > “Observo cada parte dentro de la unidad que el texto define.”
@@ -3464,7 +3399,7 @@ Pablo expone que no pudo hablarles, que les dio, y que no podían.
   \begin{paraHthree}Reduce la oración sin añadir ideas\end{paraHthree}
 \end{enumerate}
 
-\subsubsection{Resultado esperado}\label{resultado-esperado-1}
+\subsubsection{Resultado esperado}\label{resultado-esperado-2}
 
 \begin{verseblock}
 ``` Referencia Título ```
@@ -3494,13 +3429,13 @@ Pablo expone que no pudo hablarles, que les dio, y que no podían.
 
 \headingsix{El título resume la acción del texto.}
 
-\subsubsection{Errores comunes}\label{errores-comunes}
+\subsubsection{Errores comunes}\label{errores-comunes-1}
 
 \begin{verseblock}
 - añadir explicación - introducir teología - usar lenguaje no presente
 \end{verseblock}
 
-\subsubsection{Frase clave}\label{frase-clave-1}
+\subsubsection{Frase clave}\label{frase-clave-2}
 
 \begin{verseblock}
 > “Nombró la unidad según lo que el texto hace.”
@@ -3545,7 +3480,7 @@ Pablo expone que no pudo hablarles, que les dio, y que no podían.
   \begin{paraHthree}Nombra cada grupo desde el texto\end{paraHthree}
 \end{enumerate}
 
-\subsubsection{Resultado esperado}\label{resultado-esperado-2}
+\subsubsection{Resultado esperado}\label{resultado-esperado-3}
 
 \begin{verseblock}
 ``` Referencia   Título ```
@@ -3571,13 +3506,13 @@ Pablo expone que no pudo hablarles, que les dio, y que no podían.
 
 \headingsix{H2 muestra cómo se mueve el texto dentro de la unidad.}
 
-\subsubsection{Errores comunes}\label{errores-comunes-1}
+\subsubsection{Errores comunes}\label{errores-comunes-2}
 
 \begin{verseblock}
 - agrupar por tema - dividir demasiado - usar títulos interpretativos
 \end{verseblock}
 
-\subsubsection{Frase clave}\label{frase-clave-2}
+\subsubsection{Frase clave}\label{frase-clave-3}
 
 \begin{verseblock}
 > “Agrupo lo que el texto mantiene unido.”
@@ -4220,7 +4155,7 @@ como a niños en Cristo
 \begin{paraHtwo}``Digo la frase tal como el texto la presenta.''\end{paraHtwo}
 \end{quote}
 
-\subsection{EJECUTA}\label{ejecuta-13}
+\subsection{EJECUTA}\label{ejecuta-12}
 
 \headingfive{¿Qué haces?}
 \headingsix{Expresas cada frase del texto de forma clara,}
@@ -4357,7 +4292,7 @@ como a carnales
 Pablo les habló como a carnales.
 \end{rootsblock}
 
-\subsection{ENTIENDE}\label{entiende-13}
+\subsection{ENTIENDE}\label{entiende-12}
 
 \headingfive{Qué estás haciendo realmente}
 \headingsix{Estás convirtiendo observación en expresión fiel.}
@@ -4435,7 +4370,7 @@ Pablo les habló como a carnales.
 
 \section{S --- SINTETIZAR}\label{s-sintetizar}
 
-\subsection{EJECUTA}\label{ejecuta-14}
+\subsection{EJECUTA}\label{ejecuta-13}
 
 \headingfive{¿Qué haces?}
 \headingsix{Verificas que la unidad se sostiene completamente y expresas su acción en una sola oración clara.}
@@ -4536,7 +4471,7 @@ Pablo les habló como a carnales.
   \begin{paraHtwo}no añade ni omite contenido\end{paraHtwo}
 \end{itemize}
 
-\subsection{ENTIENDE}\label{entiende-14}
+\subsection{ENTIENDE}\label{entiende-13}
 
 \headingfive{Qué estás haciendo realmente}
 \headingsix{Estás cerrando el proceso completo del análisis.}
@@ -5436,7 +5371,7 @@ El hombre no es justificado.
 
 \headingsix{Modo verbal que expresa mandato.}
 
-\subsubsection{CONTRASTE}\label{contraste}
+\subsubsection{CONTRASTE}\label{contraste-1}
 
 \headingsix{Relación donde una idea se opone a otra.}
 

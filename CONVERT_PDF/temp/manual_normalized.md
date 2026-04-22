@@ -2,7 +2,7 @@
 title: "Navegando el Texto"
 subtitle:  "Cómo leer, observar y seguir el flujo del texto bíblico"
 author:  "CGV"
-version:  "0.5"
+version:  "0.8"
 date:  "2026-04-14"
 cover: "images/portada.png"
 ---
@@ -740,10 +740,19 @@ En verdad, ni aun ahora ==pueden==.
 ## EJECUTA
 
 \headingfive{¿Qué haces?}
-\headingfive{Identificas y marcas los conectores que \fillin{unen} cláusulas con verbo finito.}
+\headingfive{Identificas y marcas los conectores que \fillin{conectan} cláusulas con verbo finito.}
+
 
 \headingfive{Regla}
-\headingfive{Solo se marcan los conectores que unen dos cláusulas con verbo finito.}
+\headingfive{Solo se marcan los conectores que conectan dos cláusulas con verbo finito.}
+
+\headingsix{❗ Todo conector marcado debe unir dos verbos finitos.}
+
+\headingsix{❗ No existe la categoría “introduce”.}
+
+Aunque el conector aparezca al inicio de una cláusula:
+
+👉 sigue conectando esa cláusula con otra.
 
 \headingfive{Cómo hacerlo}
 
@@ -752,16 +761,42 @@ En verdad, ni aun ahora ==pueden==.
 2. Lee entre las cláusulas
 
 3. Haz esta pregunta:
-- 👉 ¿Este conector une dos verbos finitos?
+- 👉 ¿Este conector conecta dos verbos finitos?
 
-4. Decide:
+4. Verifica:
+- 👉 Identifica el verbo anterior
+- 👉 Identifica el verbo siguiente
+
+5. Decide:
 - Sí → se marca
 - No → se ignora
 
-5. Marca así:
+6. Marca así:
 ```
 (porque)
 ```
+
+\headingfive{Regla de alineación (CRÍTICA)}
+
+\headingsix{El conector debe reflejar el texto, pero no siempre aparece explícito.}
+
+\headingsix{Hay dos casos:}
+
+\headingsix{Caso 1 — Aparece en el texto}
+\headingsix{Se usa tal como está:}
+
+```
+(porque)
+```
+
+\headingsix{Caso 2 — No aparece explícitamente}
+\headingsix{Se añade entre corchetes:}
+
+```
+([pero])
+```
+
+\headingsix{ 👉 Esto ocurre cuando el griego tiene un conector, pero el español no lo expresa directamente.}
 
 \headingfive{Resultado esperado}
 
@@ -772,28 +807,34 @@ Les ==di== a beber leche, no alimento sólido,
 
 (porque) todavía no ==podían== recibirlo.
 
-En verdad, ni aun ahora ==pueden==.
+([pero]) ni aun ahora ==pueden==.
 ```
 
 ## ENTIENDE
 
 \headingfive{Qué estás haciendo realmente}
-\headingsix{Estás identificando la \textbf{relación real entre cláusulas}.}
+\headingsix{Estás identificando cómo una cláusula se relaciona con otra.}
 
 \headingfive{Principio clave}
-\headingsix{Solo los conectores que \fillin{unen} cláusulas afectan la estructura.}
+\headingsix{El texto avanza por verbos.}
+
+\headingsix{Los conectores unen esos verbos.}
+
+\headingfive{Corrección fundamental}
+\headingsix{Un conector no “introduce” una cláusula.}
+
+\headingsix{👉 Siempre la conecta con otra.}
 
 \headingfive{Idea clave}
 \headingfive{No todo conector en el texto conecta cláusulas.}
 
 \headingfive{Pregunta guía}
-\headingsix{👉 ¿Este conector une dos \fillin{verbos} finitos?}
+\headingsix{👉 ¿Este conector conecta dos \fillin{verbos} finitos?}
 
 \headingfive{Definición}
-\headingsix{Un conector es una palabra que establece una relación entre dos cláusulas.}
+\headingsix{Un conector es una palabra que relaciona una cláusula con otra cláusula.}
 
 \headingfive{Ejemplo guiado}
-
 \headingsix{Texto (de paso 3):}
 
 ```
@@ -807,7 +848,9 @@ En verdad, ni aun ahora ==pueden==.
 ```
 
 \headingsix{Evaluación:}
-- (porque) conecta \==di\== con \==podían\== → ✔ válido
+
+- (porque) conecta ==di== con ==podían== → ✔ válido
+- ([pero]) conecta ==podían== con ==pueden== → ✔ válido
 
 \headingsix{Resultado:}
 
@@ -815,34 +858,34 @@ En verdad, ni aun ahora ==pueden==.
 Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
 
 Les ==di== a beber leche, no alimento sólido,
-
-(porque) todavía no ==podían== recibirlo.
-
-En verdad, ni aun ahora ==pueden==.
+    (porque) todavía no ==podían== recibirlo.
+        ([pero]) ni aun ahora ==pueden==.
 ```
 
 \headingfive{Regla importante}
-\headingsix{Si un conector no une dos verbos finitos, se \fillin{ignora}.}
-
-\headingfive{Errores comunes}
-- Marcar todos los conectores
-- Ignorar los verbos
-- Confiar en intuición
-- Forzar relaciones
+\headingsix{Si un conector no conecta dos verbos finitos, se \fillin{ignora}.}
 
 \headingfive{Regla de control}
 \headingsix{Si no puedes señalar los dos verbos que conecta, no se marca.}
 
+\headingfive{Error crítico (nuevo)}
+
+- Pensar que un conector “introduce” una cláusula
+- Ignorar conectores porque no aparecen en español
+- No marcar conectores implícitos en NBLA
+
 \headingfive{Frase clave}
-> “No todo conector conecta cláusulas.”
+> “Todo conector conecta cláusulas, aunque no siempre se vea en español.
 
 \headingfive{Qué debes notar}
-\headingsix{Cuando los conectores \fillin{están} bien marcados:}
-- la estructura comienza a aparecer
-- las relaciones se vuelven visibles
+\headingsix{Cuando los conectores están bien marcados:}
+
+- la estructura aparece con claridad
+- las dependencias se hacen visibles
+- no se pierde información del texto griego
 
 \headingfive{Transición}
-\headingsix{En el siguiente paso \fillin{usarás} estos conectores para organizar la estructura.}
+\headingsix{En el siguiente paso usarás estos conectores para organizar la estructura.}
 
 # PASO 5 - IDENTIFICAR LA ESTRUCTURA
 
@@ -1175,19 +1218,25 @@ ni aun ahora ==pueden==
 ## EJECUTA
 
 \headingfive{¿Qué haces?}
+
 \headingsix{Identificas el tronco del texto eliminando únicamente las cláusulas que están estructuralmente subordinadas.}
 
 \headingsix{Mantienes las cláusulas que sostienen el desarrollo principal.}
 
-\headingsix{Mientras lo haces, observas:}
-- quién actúa (O1)
-- cuándo cambia el tipo de acción (O2)
+\headingsix{Mientras lo haces, observas dos cosas:}
+
+- quién actúa
+- cuándo el flujo se interrumpe
+
 
 \headingfive{Regla}
+
 \headingsix{Solo puedes eliminar una cláusula si está introducida por un conector subordinante.}
 
 \headingsix{❗ No decides por sentido}
+
 \headingsix{❗ No decides por importancia}
+
 \headingsix{❗ No decides por “parece secundario”}
 
 \headingsix{👉 Decides únicamente por lo que está visible en la estructura}
@@ -1201,7 +1250,6 @@ ni aun ahora ==pueden==
 \headingsix{❗ Si no puedes señalar el conector exacto, no puedes eliminar la cláusula}
 
 \headingfive{Definición operativa}
-
 \headingsix{Una cláusula subordinada es aquella que:}
 - comienza con un conector subordinante
 - está unida estructuralmente a otra cláusula
@@ -1218,10 +1266,48 @@ ni aun ahora ==pueden==
 - 👉 ¿Esta cláusula comienza con un conector subordinante?
 
 4. Decide:
+
 - Sí → elimínala
 - No → mantenla
 
-5. Repite hasta revisar todo el texto
+1. Repite hasta revisar todo el texto
+
+\headingfive{Observación integrada}
+
+\headingsix{Mientras identificas el tronco, marcas:}
+
+\headingsix{SUJETO}
+
+- Marca solo cuando el sujeto cambia
+- No explicas
+- No interpretas
+
+\headingsix{MOVIMIENTO}
+
+\headingsix{Detectas cuándo el flujo del texto se interrumpe entre líneas.}
+
+\headingsix{Solo haces una pregunta:}
+> \textbf{¿Esta línea interrumpe la anterior o sigue igual?}
+
+\headingsix{Regla}
+- Si fluye → no marcas
+- Si se interrumpe → marcas \textbf{[M]}
+
+\headingsix{Qué es una interrupción}
+- la línea ya no continúa en la misma dirección
+- te obliga a hacer una pausa mental
+- sientes que la relación cambió
+
+\headingsix{Qué NO es una interrupción}
+
+```
+yo ==fui==
+yo ==vi==
+yo ==tomé==
+```
+
+✔ fluye
+✔ no marcas
 
 \headingfive{Resultado esperado}
 
@@ -1244,259 +1330,213 @@ no ==pude== hablarles
 
 yo ==di==
 
-[S→] ustedes
-ni aun ahora ==pueden==
+no ==podían==   [S][M]
+
+ni aun ahora ==pueden==   [M]
 ```
 
-\headingfive{Observación integrada}
-\headingsix{Mientras identificas el tronco, marcas:}
-
-\headingsix{O1 — SUJETO}
-- 👉 Marca solo cuando el sujeto cambia
-- 👉 No explicas
-- 👉 No interpretas
-
-\headingsix{O2 — TIPO DE ACCIÓN}
-- 👉 Marca solo cuando hay un cambio claro
-
-\headingsix{Tipos permitidos:}
-- acción
-- habla
-- afirmación
-
-\headingsix{❗ Solo marcas cambios evidentes  }
-
-\headingfive{Regla de control}
-
-\headingsix{Si dos estudiantes no eliminan la misma cláusula,}
-\headingsix{la decisión no fue estructural}
-
-\headingsix{👉 El paso debe repetirse}
-
-\headingfive{Indicador de error}
-
-\headingsix{Si eliminas una cláusula y:}
-- la acción deja de tener sentido
-- la relación se rompe
-
-- 👉 eliminaste incorrectamente
-
-\headingfive{Prueba final}
-\headingsix{Antes de eliminar una cláusula debes poder señalar:}
-- la palabra exacta que la introduce (porque, para que, que, etc.)
-
-\headingsix{❗ Si no puedes señalarla, no puedes eliminarla}
-
 ## ENTIENDE
-
 \headingfive{Qué estás haciendo realmente}
-\headingsix{Estás dejando visible el desarrollo principal del texto eliminando lo que está subordinado.}
+\headingsix{Estás dejando visible el desarrollo principal del texto y marcando los puntos donde el flujo cambia.}
 
 \headingfive{Principio clave}
-\headingsix{El conector determina la dependencia.}
+\headingsix{El tronco muestra la línea principal.}
+\headingsix{El movimiento muestra dónde esa línea cambia.}
 
 \headingfive{Idea clave}
-\headingsix{No decides qué es importante.}
+- No explicas el cambio.
+- No lo nombras.
 
-\headingsix{👉 El texto ya muestra qué depende de qué.}
-
-\headingfive{Frase clave}
-> “No elimino por sentido — elimino por estructura.”
+- 👉 Solo lo detectas.
 
 \headingfive{Qué debes notar}
 
 \headingsix{Ahora el texto:}
 - queda simplificado
 - mantiene su desarrollo principal
-- muestra el flujo sin interrupciones
-- permite ver quién actúa y cómo cambia la acción
+- muestra claramente dónde cambia el flujo
+- prepara el análisis del siguiente paso
 
 \headingfive{Transición}
+
 \headingsix{En el siguiente paso:}
-- 👉 observarás qué hace cada cláusula
-- 👉 sin perder la estructura identificada
+- tomarás cada punto marcado
+- y definirás qué está haciendo la cláusula
+- 👉 Ahora sí con precisión
+
+## Frase clave
+> “No explico el cambio — primero lo detecto.”
 
 # PASO 9 - MARCAR EL COMPORTAMIENTO
 
 ## EJECUTA
 
 \headingfive{¿Qué haces?}
-\headingsix{Asignas una etiqueta de comportamiento a cada cláusula del tronco.}
+\headingsix{Nombras qué hace la cláusula \textbf{solo en los puntos donde el flujo se interrumpe}.}
 
-\headingfive{Regla}
-\headingsix{Solo trabajas con las cláusulas del Paso 8.}
-- 👉 No agregas \fillin{frases}
-- 👉 No recuperas información eliminada
-- 👉 No vuelves a la estructura anterior
+\headingsix{Trabajas únicamente con:}
+- el tronco (Paso 8)
+- las marcas \textbf{[M]}
 
-\headingsix{La etiqueta debe describir una función observable en la relación entre cláusulas.}
+\headingfive{Regla principal}
+\headingsix{❗ Solo etiquetas donde hay \textbf{[M]}}
 
-\headingsix{No debe introducir \fillin{ideas} nuevas.}
+\headingsix{❗ Si no hay [M], no haces nada}
+
+\headingfive{Regla de control}
+\headingsix{Si dos estudiantes no etiquetan las mismas líneas:}
+- 👉 No detectaron bien el [M]
+- 👉 Deben volver al Paso 8
+
+\headingfive{Qué estás nombrando}
+- No explicas ideas.
+
+- 👉 Nombras \textbf{qué hace la línea nueva con respecto a la anterior}
 
 \headingfive{Cómo hacerlo}
+1. Busca una marca \textbf{[M]}
 
-1. Toma el texto del Paso 8 (tronco)
+2. Lee:
+- la línea anterior
+- la línea con [M]
 
-2. Lee una cláusula
+3. Haz una sola pregunta:
+> \textbf{¿Qué está haciendo esta línea con la anterior?}
 
-3. Haz esta pregunta:
-- 👉 ¿Qué relación visible en el texto muestra la función de esta cláusula?
+4. Asigna una etiqueta clara
 
-4. \fillin{Asigna} una etiqueta clara y verificable
+## ETIQUETAS PERMITIDAS (FIJAS)
 
-\headingfive{Resultado esperado}
+\headingsix{• EXPONE  • RAZÓN • CONTRASTE • RESULTADO}
+
+## DEFINICIONES (SIMPLIFICADAS)
+
+### EXPONE
+\begin{verseblock}
+-👉 Continúa la misma línea -👉 No cambia la dirección
+\end{verseblock}
+### RAZÓN
+\begin{verseblock}
+- 👉 Explica por qué - 👉 Responde: “¿por qué?”
+\end{verseblock}
+### CONTRASTE
+\begin{verseblock}
+- 👉 Cambia la dirección - 👉 Se opone o corrige
+\end{verseblock}
+### RESULTADO
+\begin{verseblock}
+- 👉 Muestra consecuencia - 👉 Responde: “¿qué pasa entonces?”
+\end{verseblock}
+## RESULTADO ESPERADO
+
+\headingsix{Paso 8:}
 
 ```
-::EXPONE::
-no pude hablarles
+yo ==pude== hablarles
 
-::EXPONE::
-yo di
+yo ==di== a beber leche
+
+no ==podían== recibirlo   [S][M]
+
+ni aun ahora ==pueden==   [M]
+```
+
+\headingsix{Paso 9:}
+
+```
+yo ==pude== hablarles
+
+yo ==di== a beber leche
 
 ::RAZÓN::
-ni aun ahora pueden
+no ==podían== recibirlo   [S][M]
+
+::EXPONE::
+ni aun ahora ==pueden==   [M]
 ```
 
+## EJEMPLOS ADICIONALES
+
+### Ejemplo 1 — Contraste
+
+\begin{verseblock}
+``` yo ==quería== ayudar
+\end{verseblock}
+pero ellos ==rechazaron==   [M]
+::CONTRASTE::
+pero ellos rechazaron
+```
+
+### Ejemplo 2 — Resultado
+
+\begin{verseblock}
+``` ellos ==creyeron==
+\end{verseblock}
+por eso ==fueron salvos==   [M]
+::RESULTADO::
+fueron salvos
+```
+
+### Ejemplo 3 — Sin cambio
+
+\begin{verseblock}
+``` yo ==fui== yo ==vi== yo ==tomé== ```
+\end{verseblock}
+- ✔ no hay [M]
+- ✔ no etiquetas nada
+
+## ERRORES COMUNES
+
+### ❌ Etiquetar todo
+
+\begin{verseblock}
+``` ::EXPONE:: yo pude
+\end{verseblock}
+::EXPONE::
+yo di
+```
+- 👉 incorrecto
+
+### ❌ Pensar en significado
+\begin{verseblock}
+- “esto enseña…” - “esto implica…” - 👉 incorrecto
+\end{verseblock}
+### ❌ Inventar etiquetas
+\begin{verseblock}
+- “aclara” - “amplía” - 👉 prohibido
+\end{verseblock}
+### FRASE CLAVE
+\begin{verseblock}
+> “No interpreto — nombro lo que el texto hace en el punto donde cambia.”
+\end{verseblock}
 ## ENTIENDE
 
 \headingfive{Qué estás haciendo realmente}
-\headingsix{Hasta el Paso 8 dejaste solo el desarrollo principal.}
-
-\headingsix{Aquí observas cómo ese desarrollo avanza.}
+\headingsix{Estás nombrando los puntos donde el texto cambia de dirección.}
 
 \headingfive{Principio clave}
-\headingsix{El texto no solo tiene estructura.}
-- 👉 El texto se mueve.
+\headingsix{El cambio ya fue detectado en Paso 8.}
+- 👉 Aquí solo lo defines.
 
 \headingfive{Idea clave}
-\headingsix{Cada cláusula del tronco \fillin{cumple} una función.}
-- 👉 Paso 8 mostró las líneas principales
-- 👉 Paso 9 muestra qué hace cada una
-
-\headingfive{Frase clave}
-> “Marco lo que hace cada cláusula del tronco.”
-
-\headingfive{Pregunta guía}
-\headingsix{👉 ¿Qué relación \fillin{visible} muestra esta cláusula?}
-
-\headingsix{NO preguntes:}
-- ¿qué significa?
-- ¿qué idea me parece que comunica?
-- ¿qué tipo de cláusula es?
-
-\headingsix{SÍ pregunta:}
-- ¿qué función cumple dentro del desarrollo?
-
-\headingfive{Distinción importante}
-\headingsix{O2 y Paso 9 no son lo mismo.}
-
-\headingsix{O2 observa el tipo de acción:}
-- acción
-- habla
-- afirmación
-
-\headingsix{Paso 9 observa la función de la cláusula:}
-- expone
-- contrasta
-- da razón
-- muestra resultado
-
-\headingsix{Una misma cláusula tiene ambos:}
-
-```
-==dije==
-O2 → habla
-Paso 9 → EXPONE
-```
-
-\headingsix{❗ No confundas tipo con función.}
-- O2 → qué tipo de acción ocurre
-- Paso 9 → qué función cumple en el desarrollo
-
-\headingfive{Definición}
-\headingsix{Comportamiento = función observable basada en relación visible.}
-
-\headingsix{Usa etiquetas que puedan justificarse por la relación \fillin{visible} del texto.}
-
-\headingfive{Etiquetas base:}
-\headingsix{• EXPONE • CONTRASTA • RAZÓN}
-
-\headingfive{Etiquetas adicionales (solo si son claramente observables):}
-\headingfive{• RESULTADO • CONDICIÓN • PROPÓSITO}
-
-\headingfive{Etiquetas restringidas:}
-\headingfive{• AMPLÍA • ACLARA}
-
-\headingsix{❗ Estas últimas solo se usan si puedes mostrarlo sin introducir ideas nuevas.}
-
-\headingfive{Ejemplo guiado}
-\headingsix{Texto (Paso 8):}
-
-```
-no pude ==hablarles==
-yo ==di==
-ni aun ahora ==pueden==
-```
-
-\headingfive{Aplicación:}
-
-```
-::EXPONE::
-no pude hablarles
-
-::EXPONE::
-yo di
-
-::RAZÓN::
-ni aun ahora pueden
-```
-
-\headingfive{Regla importante}
-\headingsix{Solo etiquetas cláusulas del tronco.}
-
-\headingsix{La etiqueta debe poder defenderse desde el texto,}
-
-\headingsix{no desde impresión personal.}
-
-\headingsix{La etiqueta debe estar justificada por:}
-- un conector
-- una repetición
-- un contraste visible
-
-\headingsix{❗ Si no puedes señalarlo en el texto, no puedes etiquetar}
-
-\headingfive{Errores comunes}
-- Volver a incluir cláusulas eliminadas
-- Etiquetar frases que no están en el tronco
-- Usar etiquetas demasiado libres
-- Etiquetar por intuición sin responder la pregunta
-
-\headingfive{Regla de control}
-\headingsix{Si la línea no está en el Paso 8, no se etiqueta.}
-
-\headingsix{Debes poder señalar en el texto lo que justifica la etiqueta:}
-
-- el conector que la introduce
-- la repetición que la vincula
-- el contraste que la opone
-
-\headingsix{❗ Si no puedes señalarlo, la etiqueta es incorrecta}
+\headingsix{No buscas en todo el texto.}
+- 👉 Solo trabajas donde hay [M]
 
 \headingfive{Qué debes notar}
+\headingsix{Ahora el texto muestra:}
+- dónde cambia
+- qué tipo de cambio ocurre
 
-\headingsix{Ahora comienzas a ver:}
+### TRANSICIÓN A PASO 10 (CRUCIAL)
 
-- cómo inicia el texto
-- cómo contrasta
-- cómo da razón
-- cómo avanza el desarrollo
-- 👉 Estás viendo el movimiento real del texto
+\headingsix{Ahora puedes ignorar el contenido.}
 
-\headingfive{Transición}
-\headingsix{En el siguiente paso:}
-- 👉 ignorarás el contenido
-- 👉 leerás solo las etiquetas
-- 👉 detectarás \fillin{patrones}
+\headingsix{Solo lees:}
+\begin{verseblock}
+``` EXPONE RAZÓN EXPONE CONTRASTE ```
+\end{verseblock}
+- 👉 Esto empieza a repetirse
+- 👉 Eso es un patrón
 
 # ANTES DE CONTINUAR — LEER EL COMPORTAMIENTO DEL TEXTO
 
@@ -1510,265 +1550,333 @@ ni aun ahora pueden
 - separaste cláusulas
 - organizaste estructura
 - redujiste al tronco (Paso 8)
-- marcaste el comportamiento de cada línea (Paso 9)
+- marcaste los puntos donde el flujo cambia ([M])
+- nombraste esos cambios (Paso 9)
 
-\headingsix{Ahora tienes algo muy específico:}
+------
+
+\headingsix{Ahora tienes algo completo:}
+
 - 👉 un conjunto de líneas claras
-- 👉 cada línea con una acción definida
+- 👉 solo las líneas principales
+- 👉 marcas de cambio ([S] y [M])
+- 👉 una etiqueta en cada punto de cambio
+
+------
 
 \headingfive{Esto es \textbf{datos procesados}.}
+
+------
 
 ## LO QUE CAMBIA AHORA
 
 \headingsix{Hasta este punto preguntabas:}
+
 - 👉 ¿qué hay en el texto?
 
-\headingsix{Ahora la pregunta cambia:}
-- 👉 ¿cómo se comporta lo que hay?
+\headingsix{Ahora haces algo distinto:}
 
-## DISTINCIÓN CLAVE
+- 👉 vas a \textbf{agrupar lo que ya ves}
 
-\headingfive{MOVIMIENTO (Paso 9)}
-\headingfive{→ qué hace una línea}
+------
 
-\headingfive{PATRÓN (Paso 10–11)}
-\headingfive{→ qué hacen varias líneas juntas}
+## CAMBIO CLAVE
+
+\headingfive{Ya no lees el texto como contenido}
+
+👉 lees lo que hacen las líneas
+
+------
+
+\headingsix{En lugar de:}
+
+```
+yo no pude hablar
+yo di leche
+no podían
+```
+
+------
+
+\headingsix{Ahora ves:}
+
+```
+EXPONE
+EXPONE
+RAZÓN
+```
+
+------
+
+👉 Esto es lo que usarás a partir de ahora
+
+------
 
 ## NO INTERPRETAS SIGNIFICADO
 
-\headingfive{No estás explicando el texto.}
-\headingsix{No estás enseñando doctrina.}
-\headingsix{No estás aplicando.}
+\headingfive{No explicas el texto}
 
-- 👉 Estás observando comportamiento.
+\headingfive{No enseñas doctrina}
 
-- 👉 Estás leyendo cómo el texto avanza.
+\headingfive{No aplicas}
 
-## SEÑALES QUE DEBES DETECTAR
+👉 Solo observas comportamiento visible
 
-\headingfive{Antes de buscar patrones, debes aprender a ver señales.}
+------
 
-\headingsix{Estas señales ya están en el texto.}
-\headingsix{No las inventas.}
+# CÓMO EMPEZAR (MECÁNICO)
 
-\headingfive{REPETICIÓN}
+\headingfive{No buscas tipos de patrón}
 
-\headingsix{Misma acción, misma estructura o misma idea.}
+\headingfive{No decides por intuición}
 
-- mismo verbo
-- mismo sujeto
-- misma forma
+👉 Solo haces esto:
 
-- 👉 indica unidad
+------
 
-\headingfive{PROGRESIÓN}
+### Paso 1
 
-\headingsix{La idea avanza.}
-- desarrollo
-- aumento
-- cambio de nivel
+\begin{verseblock}
+Mira solo las etiquetas
+\end{verseblock}
+------
 
-- 👉 indica movimiento
+### Paso 2
 
-\headingfive{CONTRASTE}
-\headingsix{Oposición directa.}
-- sino
-- pero
-- no / sí
+\begin{verseblock}
+Agrupa las que son iguales
+\end{verseblock}
+------
 
-- 👉 divide bloques
+### Paso 3
 
-\headingfive{CAMBIO DE SUJETO}
-\headingsix{El actor cambia.}
-- yo → ellos → Dios
-- 👉 posible cambio de sección
+\begin{verseblock}
+Separa cuando cambian
+\end{verseblock}
+------
 
-\headingfive{CAMBIO DE ACCIÓN}
-\headingsix{La acción cambia.}
-- hablar → dar → crecer
+### Paso 4
 
-- 👉 posible transición o desarrollo
-
-\headingfive{CONECTORES}
-\headingsix{Confirman relaciones.}
-
-- porque → razón
-- para que → propósito
-- pero → contraste
-
-- 👉 no crean el patrón
-- 👉 lo hacen visible
-
-## CÓMO LEER EL TEXTO AHORA
-
-\headingsix{No agregas nada nuevo.}
-
-\headingsix{Solo haces preguntas sobre lo que ya tienes:}
-
-\headingsix{Para cada línea:}
-
-- ¿repite algo anterior?
-- ¿contrasta algo?
-- ¿avanza la idea?
-- ¿cambia el sujeto?
-- ¿cambia la acción?
-
-\headingsix{Esto es lo que te permite ver patrones.}
+\begin{verseblock}
+Observa qué ocurrió
+\end{verseblock}
+------
 
 ## LECTURA GUIADA
 
-\headingfive{Texto (tronco + comportamiento):}
+\headingfive{Comportamiento:}
 
 ```
-yo no pude hablar → EXPONE
- yo di leche → EXPONE
- no podían → RAZÓN
+EXPONE
+EXPONE
+RAZÓN
 ```
 
-#####Ahora observa:
+------
+
+\headingfive{Paso 1 — agrupar}
 
 ```
-- “yo” se repite → repetición de sujeto
-- acción del autor se mantiene → repetición
-- aparece una razón → soporte
+[EXPONE
+ EXPONE]
+
+[RAZÓN]
 ```
 
-Agrupación visible:
+------
 
-```
-[yo no pude hablar
- yo di leche] → unidad
+\headingfive{Paso 2 — observar}
 
-[no podían] → razón que sostiene
-```
+- dos líneas iguales → se agrupan
+- una línea distinta → se separa
+- la línea distinta sostiene a las anteriores
 
-\headingsix{No interpretaste.}
-\headingsix{No explicaste.}
+------
 
-- 👉 solo viste cómo se relacionan las líneas
+\headingsix{No interpretaste}
 
-## RESULTADO DE ESTA SECCIÓN
+\headingsix{No explicaste}
 
-\headingsix{Ahora puedes:}
+👉 solo agrupaste lo que ya estaba visible
 
-- detectar repetición
-- ver progresión
-- identificar contrastes
-- notar cambios de sujeto
-- seguir cambios de acción
+------
 
-- 👉 ya no estás viendo líneas aisladas
-- 👉 estás viendo comportamiento conjunto
+## QUÉ DEBES NOTAR
+
+\headingsix{Ahora comienzas a ver:}
+
+- repetición (líneas iguales)
+- cambio (líneas diferentes)
+- soporte (una línea depende de otra)
+
+------
+
+\headingsix{Ya no ves líneas aisladas}
+
+👉 ves cómo se agrupan
+
+------
+
+## REGLA CLAVE
+
+> No busco patrones — agrupo líneas que hacen lo mismo.
+
+------
+
+## NOTA
+
+\headingsix{Existen formas comunes como:}
+
+- repetición
+- contraste
+- progresión
+
+👉 pero no las buscas directamente
+
+👉 aparecen cuando agrupas correctamente
+
+------
 
 ## LO QUE VIENE
 
-\headingfive{Ahora sí estás listo para continuar.}
+\headingfive{Ahora sí estás listo}
 
 \headingsix{En el siguiente paso:}
 
-- 👉 no vas a buscar datos nuevos
-- 👉 vas a confirmar patrones
+- 👉 no buscarás información nueva
+- 👉 extenderás las agrupaciones que ya ves
 
 # PASO 10 — IDENTIFICAR PATRONES
 
 ## EJECUTA
 
 \headingfive{¿Qué haces?}
+
 \headingsix{Identificas patrones en el tronco agrupando líneas que se comportan juntas.}
 
 \headingfive{Regla}
 \headingsix{Solo trabajas con:}
+
 - el texto del Paso 8 (tronco)
 - las etiquetas del Paso 9 (comportamiento)
 
 \headingsix{❌ No agregas contenido}
+
 \headingsix{❌ No explicas el significado}
+
 \headingsix{❌ No interpretas}
 
-\headingsix{Solo marcas lo que se repite o se desarrolla.}
+\headingsix{👉 Solo agrupas lo que se repite o se mantiene igual}
 
-\headingfive{Cómo hacerlo}
+# CÓMO HACERLO (SIMPLIFICADO)
 
-1. Toma el texto del Paso 8 con las etiquetas del Paso 9
+### 1. Toma el texto del Paso 8 con las etiquetas del Paso 9
 
-2. Lee línea por línea
+### 2. Lee línea por línea
 
-3. Haz estas preguntas:
+### 3. Haz UNA sola pregunta
+\begin{verseblock}
+> 👉 ¿Esta línea hace lo mismo que la anterior?
+\end{verseblock}
+### 4. Decide
+\begin{verseblock}
+- ✔ Sí → agrúpalas - ❌ No → comienza un nuevo grupo
+\end{verseblock}
+### 5. Repite hasta terminar el texto
 
-- 👉 ¿Qué líneas repiten algo?
-- 👉 ¿Qué líneas avanzan la idea?
-- 👉 ¿Qué líneas contrastan?
-- 👉 ¿Dónde cambia el sujeto?
-- 👉 ¿Dónde cambia la acción?
+### 6. Observa cada grupo
 
-4. Agrupa las líneas que se comportan juntas
+\begin{verseblock}
+👉 recién aquí puedes notar: - repetición - contraste - razón - cambio
+\end{verseblock}
+# REGLA CRÍTICA
+> No buscas el tipo de patrón primero.
+>  👉 Primero formas grupos.
 
-5. Asigna una etiqueta de patrón al grupo
+# CUÁNDO PUEDES FORMAR UN GRUPO
 
-\headingsix{Solo puedes formar un patrón si hay:}
+Solo si hay:
 
-- repetición visible
-- misma estructura
-- mismo sujeto o acción
-- conector que agrupa
+- misma etiqueta (EXPONE, RAZÓN, etc.)
+- misma acción visible
+- continuidad clara
 
 \headingsix{❗ No agrupas por tema}
+
 \headingsix{❗ No agrupas por idea}
 
-\headingfive{Patrones permitidos}
+# PATRONES PERMITIDOS
 
-Puedes usar únicamente estos:
+(Solo después de agrupar)
 
 REPETICIÓN • PROGRESIÓN • CONTRASTE • CAUSA–RESULTADO • PARALELISMO • CAMBIO DE SUJETO
 
-![patrones](images/patrones.png)
-
-
-\headingfive{Resultado esperado}
+# RESULTADO ESPERADO
 
 ```
-::REPETICIÓN::
-yo no pude hablar
-yo di leche
+[EXPONE
+ EXPONE]
 
+[RAZÓN]
+```
+
+------
+
+### (Opcional — nombre del patrón)
+
+\begin{verseblock}
+``` ::REPETICIÓN:: EXPONE EXPONE
+\end{verseblock}
 ::RAZÓN::
-no podían
+RAZÓN
 ```
 
-## ENTIENDE
+# ENTIENDE
 
 \headingfive{Qué estás haciendo realmente}
+
 \headingsix{Estás dejando de ver líneas individuales.}
-\headingsix{Ahora ves bloques.}
+
+\headingsix{👉 Ahora ves bloques.}
 
 \headingfive{Principio clave}
+
 \headingsix{Un patrón no está en una línea.}
-\headingsix{Está en la relación entre líneas.}
+
+\headingsix{👉 Está en la relación entre líneas.}
 
 \headingfive{Idea clave}
+
 \headingsix{El patrón no se inventa.}
 
-\headingsix{Se reconoce porque:}
-- algo se repite
-- algo avanza
-- algo cambia
+\headingsix{👉 Aparece cuando agrupas correctamente.}
 
-\headingfive{Advertencia}
-\headingsix{Si necesitas explicar el texto, te saliste del paso.}
-\headingsix{Si agregas ideas, te saliste del paso.}
+# ADVERTENCIA
 
-\headingsix{Si dudas entre dos opciones:}
-👉 elige la que sea visible en el texto
+\headingsix{Si estás pensando:}
 
-\headingfive{Resultado mental esperado}
+- “esto parece…”
+- “esto significa…”
+
+👉 te saliste del paso
+
+\headingsix{Si dudas:}
+
+👉 vuelve a la pregunta base
+> ¿Hace lo mismo que la línea anterior?
+
+# RESULTADO MENTAL ESPERADO
+
 \headingsix{Ahora puedes ver:}
 - qué líneas pertenecen juntas
-- qué líneas sostienen otras
-- dónde empieza a formarse una unidad
+- dónde se rompe el flujo
+- dónde comienza un nuevo bloque
 
-\headingsix{👉 Esto prepara directamente el siguiente paso:}
-- no solo ver el patrón…
-- 👉 sino seguirlo hasta que termine.
+
+\headingsix{👉 Esto prepara el siguiente paso:}
+
+👉 no solo ver el patrón…
+👉 sino seguirlo hasta que termine
 
 # PASO 11 — EXTENDER EL PATRÓN
 
