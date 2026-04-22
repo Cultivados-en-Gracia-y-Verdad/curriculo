@@ -8,7 +8,7 @@ date: 2026-02-29
 
 ![100](E:\00 Creciendo en Gracia y Verdad\Colosenses\Carátula Colosenses.jpg)
 
-## Importancia de la epístola de Colosenses. 
+## Importancia de la epístola de Colosenses
 
 ##### Pablo desea que los creyentes Colosenses que sean llenos del conocimiento de su voluntad en toda sabiduría y comprensión espiritual, y por eso ora para que sean fortalecidos con todo el poder según su potencia. Colosenses 1:9-12
 
@@ -22,19 +22,19 @@ date: 2026-02-29
 
 ##### Explicará la realidad de cada creyente como despojado del viejo Hombre y revestidos del nuevo hombre. Colosenses 2:9-10.
 
-## Situación general la iglesia en Colosas.
+## Situación general la iglesia en Colosas
 
 ##### La iglesia en Colosas no fue conocida por Pablo, sin embargo Epafras un colaborador de Pablo predicó el evangelio en Colosas y estaba dando mucho fruto. Colosenses 1:6-7, 4:12-13
 
 ##### El cristianismo estaba en plena expansión, sin embargo las iglesias eran vulnerables a las presiones del judaísmo y la observancia de la ley, las influencias griegas con su sabiduría y filosofías, y las prácticas paganas del entorno romano, Estas ideas humanas ponían en duda la suficiencia y supremacía de Cristo, y Pablo se encarga de responder a los creyentes por que Cristo es único y suficiente.
 
-## La ciudad de Colosas.
+## La ciudad de Colosas
 
 ##### Colosas era una pequeña ciudad ubicada en la región de Frigia, en el valle del río Lico, en Asia Menor (actual Turquía), había sido una ciudad de gran importancia por su ruta comercial, sin embargo la ruta comercial fue desviada y Colosas pasó a ser una ciudad despoblada y olvidada frente a las ciudades de Laodicea y Hierápolis.
 
 ##### La población de Colosas tenía diversidad de culturas como los griegos, judíos y orientales, ocasionando un sincretismo en las ideas filosóficas, religiosas y culturales, que influenciaron a la iglesia local cambiando la pureza del evangelio, por un evangelio sincretizado y carente de poder.
 
-## Autor.
+## Autor
 
 ##### El autor de la carta es el apóstol Pablo, firmando su autoría en los primeros versículos. Colosenses 1:1
 
@@ -50,11 +50,11 @@ date: 2026-02-29
 
 ##### Tiempo después fue acusado por los judíos y entregado a las autoridades romanas apelando hasta Cesar (Hechos 9:17–20), Finalmente fue arrestado nuevamente durante la persecución del emperador Nerón (alrededor del año 64–67 d.C.) y ejecutado en Roma por decapitación, por ser ciudadano romano.
 
-## Fecha de escritura.
+## Fecha de escritura
 
 ##### En el momento que pablo escribía la carta a los Colosenses se encontraba encarcelado posiblemente en Roma (alrededor del año 60–62 d.C.), escribiendo las cartas a los Efesios, Filipenses y Filemón, conocidas  como las “cartas de la prisión”.
 
-## Propósito de la escritura.
+## Propósito de la escritura
 
 ##### El propósito principal de la carta a los Colosenses es afirmar y exaltar la supremacía y suficiencia total de Cristo, mostrando a Cristo como único y suficiente medio para vivir de los creyentes. Colosenses 2:4-10
 
@@ -64,7 +64,7 @@ date: 2026-02-29
 
 ##### Mostrarles su nueva identidad de Nuevo hombre  y como se vería esa realidad práctica en su manera de vivir. Colosenses 3:9–10
 
-## Tema central y división temática la epístola de Colosenses.
+## Tema central y división temática la epístola de Colosenses
 
 ##### El tema central de la Epístola a los Colosenses es: *Porque toda la plenitud de la Deidad reside  corporalmente en Él*. Colosenses 2:9
 
@@ -80,7 +80,7 @@ date: 2026-02-29
 
 ##### Colosenses 4:7-18 Recomendaciones finales.
 
-# Colosenses 1:1-12 Introducción a la Epístola de Pablo a los Colosenses.
+# Colosenses 1:1-12 Introducción a la Epístola de Pablo a los Colosenses
 
 ##### El apóstol Pablo inicia su carta hacia los creyentes Colosenses, agradeciendo a Dios por causa de la esperanza del evangelio, la cual está dando fruto en los creyentes de todo el mundo y tambien en los Colosenses, los creyentes se encuentran abundando en un amor que proviene del Espíritu.
 
