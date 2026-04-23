@@ -13,12 +13,16 @@ cover: "images/Caratula.png"
 ### Colosenses 1:1 
 Pablo, apóstol de Jesucristo por la voluntad de Dios, y el hermano Timoteo,
 
-##### Pablo inicia su carta siguiendo un formato epistolar grecorromano de la época (remitente, destinatario, saludo), en esta presentación Pablo se dirige a los Colosenses mostrándoles quien lo comisionó para ser apóstol.
+#### Pablo, apóstol de Jesucristo
+##### Pablo se presenta como un apóstol. Apostol describe su función.  
+
+Apóstol (APOSTOLOS)
+: 
+
+
+##### Al decir "de Jesucristo",  indica relación con la función de enviado, mensajero o comisionado con un propósito. Hechos 9:15-16, 22:21
 
 ##### Esta comisión de apostolado está de acuerdo con la voluntad de Dios, esta presentación debería haber puesto a los oyentes a prestar plena atención y estar completamente receptivos al mensaje que abarcaría en toda la carta. 2 Pedro 3:2; Efesios 2:19-20; 1 Corintios 12:28; Judas 17
-
-#### Pablo, apóstol de Jesucristo
-##### Pablo se presenta como un apóstol (APÓSTOLOS) de Jesucristo, que significa enviado, mensajero o comisionado con un propósito. Hechos 9:15-16, 22:21
 
 ##### A diferencia de los otros apóstoles que fueron comisionados por Jesucristo durante su ministerio terrenal, Pablo fue llamado como apóstol por medio de una revelación especial en camino a Damasco por Jesucristo resucitado. Hechos 9:3-6
 
@@ -34,19 +38,23 @@ Pablo, apóstol de Jesucristo por la voluntad de Dios, y el hermano Timoteo,
 ##### Es importante esta mención debido a que Dios mismo lo apartó y llamó por su gracia desde el vientre de su madre para un propósito, el anunciarlo entre los gentiles. Gálatas 1:15-16; 1 Corintios 1:1; 2 Corintios 1:1;  2 Timoteo 1:1
 
 #### y el hermano Timoteo
-##### Después de presentar su apostolado, menciona a Timoteo como un hermano en Cristo que se encontraba con Pablo mientras escribía la carta, es mencionado tambien en sus algunas de sus epístolas. 2 Corintios 1:1; Filemón 1; Filipenses 1:1
+##### Timoteo es mencionado como un *hermano en Cristo* que se encontraba con Pablo mientras escribía la carta. Timoteo es mencionado tambien en otras de sus epístolas. 2 Corintios 1:1; Filemón 1; Filipenses 1:1
 
-##### Timoteo era un fiel compañero y colaborador del apóstol Pablo, es mencionado como su hijo en la fe, y dos de sus epístolas están dirigidas a Timoteo. 1 Timoteo 1:2; 2 Timoteo 1:2; Hechos 16:1
+###### Timoteo era un fiel compañero y colaborador del apóstol Pablo, es mencionado como su hijo en la fe, y dos de sus epístolas están dirigidas a Timoteo. 1 Timoteo 1:2; 2 Timoteo 1:2; Hechos 16:1
 
-##### Fue enviado por el apóstol Pablo a Tesalónica con el fin de animar a los Creyentes, es descrito Timoteo como un hermano y colaborador de Dios en el evangelio. 1 Tesalonicenses 3:2; Filipenses 2:19-23
+###### Fue enviado por el apóstol Pablo a Tesalónica con el fin de animar a los Creyentes, es descrito Timoteo como un hermano y colaborador de Dios en el evangelio. 1 Tesalonicenses 3:2; Filipenses 2:19-23
 
 ### Colosenses 1:2 
 a los santos y fieles hermanos en Cristo que están en Colosas: Gracia a ustedes y paz de parte de Dios nuestro Padre.
 
+###### La carta inicia siguiendo un formato epistolar grecorromano de la época.  
+- Remitente: *Pablo*
+- Destinatario: *los santos y fieles hermanos en Cristo que están en Colosas*
+- Saludo: *Gracia a ustedes y paz de parte de Dios nuestro Padre*
+
 ##### Los destinatarios de esta carta eran los creyentes que habitaban en la ciudad de Colosas, sin embargo esta carta inspirada por el espíritu santo a nosotros como creyentes nos es de mucha edificación y crecimiento. 2 Timoteo 3:16; 2 Pedro 1:20-21
 
 #### a los santos y fieles hermanos en Cristo que están en Colosas:
-
 ##### La mención a los creyentes como santos y fieles son adjetivos, quiere decir que Pablo se encuentra describiendo una realidad de los creyentes en Cristo.
 
 ##### Es importante mencionar que cada creyente ha sido hecho santo, JAGIOS significa apartado, los creyentes hemos sido apartados para Dios con un propósito. La santidad es una realidad posicional en la que el creyente es visto por Dios como un santo, sin embargo estos santos son llamados a vivir en una santidad práctica. 1 Corintios 1:2
@@ -1473,7 +1481,6 @@ Nadie los defraude de su premio deleitándose en la humillación de sí mismo y 
 ##### Los creyentes se sentían privados del premio o defraudados, pensando que Dios habría dado una mayor espiritualidad a un grupo selecto de personas, por experiencias o prácticas que realizaban.
 
 #### Nadie los defraude de su premio
-
 ##### El verbo defraudar KATABRABEUO es una palabra compuesta que significa actuar como árbitro en contra, el sentido original es fallar en contra, o descalificar, privando del premio a alguien, actuar como juez en perjuicio de alguien, en un contexto atlético significaría quitar el premio a alguien injustamente, se encuentra en presente activo imperativo, la idea que transmite es que nadie les esté descalificándolos continuamente, es una mandato para el creyente.
 
 ##### Literalmente lo que se encuentra transmitiendo es una prohibición para el que se encuentre privando de su premio a los creyentes.
@@ -1485,7 +1492,6 @@ Nadie los defraude de su premio deleitándose en la humillación de sí mismo y 
 ##### La espiritualidad, no depende de acciones humanas, o experiencias místicas, la espiritualidad depende de Cristo y de su obra completa y en Él se encuentran escondidos todos los tesoros de la sabiduría y el conocimiento, y el creyente ya ha sido hecho completo en Él.
 
 #### deleitándose en la humillación de sí mismo
-
 ##### La palabra de humillación de sí mismo TAPEINOFROSUNE es un sustantivo que describe la humillación de mente, modestia, humildad, esta palabra comúnmente tiene un sentido positivo (Filipenses 2:3), sin embargo en este pasaje vemos una humildad aparente o mal orientada.
 
 ##### Se encuentra directamente relacionada al ascetismo cuando expresa una disciplina corporal estricta orara alcanzar un premio superior, a través de su mente carnal buscan una mayor pureza o mayor espiritualidad. Colosenses 2:21-23
@@ -1501,7 +1507,6 @@ Nadie los defraude de su premio deleitándose en la humillación de sí mismo y 
 ##### El creyente no necesita auto-humillarse a sí mismo como un símbolo de espiritualidad, vida cristiana o método para crecer. lo único que necesita es a Cristo y este crucificado.
 
 #### y en la adoración de los ángeles,
-
 ##### La palabra ángeles ANGELOS significa mensajero, son seres espirituales creados por Dios, son espíritus ministradores que cumplen funciones de comunicar un mensaje, emitir juicios, nunca son presentados como objetos de adoración. Apocalipsis 19:10, 22:8-9
 
 ##### Dentro del contexto cultural podrían haber influenciado estos aspectos hacia la adoración directa de los ángeles. 
@@ -1511,7 +1516,6 @@ Nadie los defraude de su premio deleitándose en la humillación de sí mismo y 
 - **La falsa humildad** .- Podría haber hecho que las personas en una falsa humildad piensen acercarse al trono de la gracia mediante seres angelicales, tratándoles como intercesores entre Dios y los hombres.
 
 #### basándose en las visiones que ha visto,
-
 ##### Dios a través de las escrituras se comunicó con diferentes personas a través de sueños y visiones, mostrándoles acontecimientos futuros que habrían de suceder. Daniel 7-8; Ezequiel 1; Isaías 6; Hechos 10, Apocalipsis 
 
 ##### Sin embargo estas visiones vienen de Dios al hombre, como acontecimientos de revelación profética, sin embargo contrastando con los Colosenses, ellos basaban su espiritualidad en visiones que habían visto.
@@ -1523,7 +1527,6 @@ Nadie los defraude de su premio deleitándose en la humillación de sí mismo y 
 ##### Estos falsas visiones en las que se jactaban estas personas, eran producidas por su propia mente carnal, buscaban tener una experiencia mística con el fin de tener una superioridad espiritual. 
 
 #### envanecido sin causa por su mente carnal,
-
 ##### El verbo envanecidos FUSIOO significa hinchado o llenos de orgullo, hay una ironía fuerte aqui, aparenta humildad pero esta orgullosamente inflado, se encuentra en presente pasivo participio, indicándonos que hay algo que le esta haciendo inflar.
 
 ##### El envanecimiento, la soberbia, el exceso de admiración personal, les llenaba de orgullo ser admirados por un nivel superior de espiritualidad alcanzado, sea por las prácticas como el ascetismo o misticismo, este engaño de la carne de buscar superioridad espiritual los llevó a la ruina, a desviarse del premio que habían obtenido en Cristo a través del favor inmerecido, el evangelio. Romanos 8:5-8; 1 Corintios 4:6
@@ -1534,13 +1537,11 @@ pero no asiéndose a la Cabeza, de la cual todo el cuerpo, nutrido y unido por l
 ##### Estos creyentes no se estaban sujetando a la cabeza del cuerpo, que es Cristo, y por lo tanto no eran nutridos ni estaban creciendo hacia la madurez espiritual, estaban siendo totalmente carnales en su manera de vivir.
 
 #### pero no asiéndose a la Cabeza,
-
 ##### El verbo asirse KRATEO significa agarrarse con fuerza, sujetarse firmemente, se podría decir que no se encentraban aferrado a la cabeza, se encuentra en presente activo participio, indicándonos específicamente que no querían sujetarse.
 
 ##### La cabeza en este contexto es Cristo, por lo tanto estas personas están actuando independientemente de Cristo, el concepto que esta transmitiendo es un actuar independiente de cada cuerpo físico, considerando un cuerpo humano, la cabeza dirige cada parte del cuerpo a lo que ordena, sin embargo vemos a estas partes del cuerpo estar totalmente desconectadas de la cabeza. Colosenses 1:18
 
 #### de la cual todo el cuerpo, nutrido y unido por las coyunturas y ligamentos,
-
 ##### Les explicará una realidad espiritual, como es que los creyentes forman parte de un cuerpo totalmente unido, donde la cabeza es la que nutre a todo el cuerpo para su crecimiento.
 
 ##### La imagen que transmite este concepto es la de un cuerpo nutrido y sano, donde todas sus partes se encuentran creciendo siendo nutridas por la cabeza, sin embargo contrastando la idea de un cuerpo nutrido por la cabeza y no unido entre sí es la imagen que transmite esta auto-humillación, adoración a los ángeles, visiones y una búsqueda de espiritualidad fuera de la cabeza Cristo.
@@ -1548,7 +1549,6 @@ pero no asiéndose a la Cabeza, de la cual todo el cuerpo, nutrido y unido por l
 ##### Las coyunturas y ligamentos nos dan una imagen que un cuerpo no se puede separar de acuerdo a su conveniencia, ya se encuentra completamente unido, nos muestra una imagen a los creyentes que posicionalmente formamos un solo cuerpo.
 
 #### crece con un crecimiento que es de Dios.
-
 ##### Este pasaje nos muestra que el crecimiento viene de parte de Dios mismo, no viene el crecimiento por autodeterminación, experiencias místicas, ascetismo, o métodos humanos, el cuerpo va creciendo conforme es nutrido por la cabeza.
 
 ##### El verbo crece AUXANO significa aumentar, desarrollarse, de quien se encuentra hablando es de todo el cuerpo, se encuentra en presente activo indicativo, expresa una acción continua y un proceso en desarrollo, y el indicativo nos muestra como un hecho real.
@@ -1567,7 +1567,6 @@ Si ustedes han muerto con Cristo a los principios elementales del mundo, ¿por q
 ##### En su muerte juntamente con Cristo, cada creyente tambien murió en cuanto a los principios elementales del mundo.
 
 #### Si ustedes han muerto con Cristo a los principios elementales del mundo,
-
 ##### Si ustedes han muerto, es una afirmación, se podría entender debido a que han muerto con Cristo, el Si condicional que se usa es de primera clase, debido a que el verbo que le sigue se encuentra en modo indicativo, afirmando este condicional.
 
 ##### El creyente murió juntamente con Cristo basado en el bautismo hecho de Cristo. Colosenses 2:12; Romanos 6:3-5
@@ -1577,7 +1576,6 @@ Si ustedes han muerto con Cristo a los principios elementales del mundo, ¿por q
 ##### El creyente ha muerto a los principios elementales del mundo en cuanto a santificación se refiere, la santificación del creyente no depende de principios que son según el mundo, sabiduría humana, métodos humanos, o disciplinas espirituales, debido a que la santificación  depende únicamente de que el creyente este sujeto a la cabeza (Cristo), y Dios es el que da el crecimiento a todo el cuerpo. Colosenses 2:19
 
 #### ¿por qué, como si aún vivieran en el mundo,
-
 ##### Empieza haciendo una pregunta retórica, enfatizando la acción basado en la incoherencia posicional que acaba de explicar, la respuesta implícita es que no deberían hacerlo.
 
 ##### Para el creyente no tiene sentido estar sujetos a los principios elementales del mundo si posicionalmente han muerto juntamente con Cristo a todos esos principios en los cuales el mundo se maneja.
@@ -1585,7 +1583,6 @@ Si ustedes han muerto con Cristo a los principios elementales del mundo, ¿por q
 ##### Entendiendo esto, el creyente tendría algún motivo para someterse a como las personas viven en el mundo, en cuanto a santificación se refiere?, ya no tiene sentido debido a su muerte posicional.
 
 #### se someten a preceptos tales como:
-
 ##### El verbo se someten DOGMATIZO significa el obedecer reglamentos, decretos o normas, implica que ustedes se dejan imponer normas, se encuentra en presente pasivo indicativo, expresando que esto era una acción real que lo hacían a su propio beneficio o favor.
 
 ##### Los creyentes estaban sometidos a preceptos, enseñanzas, mandamientos, dogmas, según hombres y no según Cristo. 1 Timoteo 4:1-3
@@ -1600,7 +1597,6 @@ no manipules, no gustes, no toques,
 ##### Estos preceptos, mandamientos de hombres, en cuanto a santificación se trata, enseñaban de manera práctica basado en un pensamiento humano, como vivir en santificación, mediante no manipular, no gustar o no tocar ciertas cosas.
 
 #### no manipules,
-
 ##### El verbo manipular JAPTOMAI expresa el tocar, manejar con las manos o tener contacto con algo, se encuentra en aoristo medio subjuntivo.
 
 ##### Gramaticalmente un no + aoristo subjuntivo es una prohibición enfática, son prohibiciones de estilo directo citando reglas, es mas fuerte que un presente.
@@ -1608,13 +1604,11 @@ no manipules, no gustes, no toques,
 ##### El manipular o tocar algo, eran reglas en cuanto a santificación, pensando que mediante no tocar ciertas cosas una persona llega a ser más espiritual en su vida diaria.
 
 #### no gustes,
-
 ##### El verbo gustar GEUOMAI nos habla de saborear, probar, por implicación comer o degustar. se encuentra en aoristo media subjuntivo.
 
 ##### De igual manera que el manipular expresa una prohibición enfática, en la que expresa que a través de no ingerir, degustar ciertas cosas en cuanto a comida o bebida el llegar a ser más espiritual.
 
 #### no toques,
-
 ##### El verbo tocar DSINGANO expresa el énfasis en ni siquiera tocar, tener contacto o en un sentido físico, poner la mano sobre algo, se encuentra en aoristo activo subjuntivo, al estar con no, se construye una prohibición enfática.
 
 ##### Esta cadena coordinada de prohibiciones enfáticas, en las cuales expresan lemas ascéticos, o reglamentos rituales, eran basadas en corrientes sincretizadas relacionadas con:
@@ -1633,7 +1627,6 @@ no manipules, no gustes, no toques,
 ##### Estas enseñanzas de hombres van cambiando todo el tiempo, de generación en generación, entre culturas, épocas y religiones.
 
 #### (todos los cuales se refieren a cosas destinadas a perecer con el uso),
-
 ##### En griego no existen el símbolo de paréntesis, el paréntesis indica que es un comentario explicativo del apóstol Pablo, que no forma parte de las prohibiciones.
 
 ##### La palabra destinadas FDSORA es un sustantivo que expresa la perdición, ruina o destrucción.
@@ -1643,7 +1636,6 @@ no manipules, no gustes, no toques,
 ##### El sentido que esta transmitiendo es que estas prohibiciones o mandamientos terminan pereciendo con el uso y el paso del tiempo, carecen de importancia con el tiempo y las generaciones.
 
 #### según los preceptos y enseñanzas de los hombres?
-
 ##### Todas estos mandatos, prohibiciones, reglas humanas en cuanto a la santificación es de acuerdo a como el mundo piensa que debería una persona santificarse, es sabiduría humana, sabiduría terrenal, todos son perecederos, constantemente están inventando nuevas maneras o métodos de en contra de los apetitos de la carne, pero ninguno de estos tiene el poder para vencer a la carne, la naturaleza de pecado.
 
 ##### Estas enseñanzas son conocidas como una tradición aprendida de generaciones, pero lejos de la sabiduría de Dios, los cuales engañan totalmente a los que los practican alejándolos de la verdad. Isaías 29:13; Mateo 15:9; Tito 1:14
@@ -1656,7 +1648,6 @@ Tales cosas tienen a la verdad, la apariencia de sabiduría en una religión hum
 ##### Estas normas humanas en como vivir la santificación para el creyente tienen una apariencia sabia, apariencia de piedad en una buena religión abnegada y humilde. Sin embargo es demostrable que ninguna de estas prácticas son certeras en cuanto a los apetitos de la carne, la naturaleza de pecado, por más intentos o autodeterminación humana no pueden vencer al pecado y terminan auto engañados.
 
 #### Tales cosas tienen a la verdad, la apariencia de sabiduría en una religión humana,
-
 ##### La apariencia de sabiduría expresa que pueden considerarse sabios aquellos que viven tratando de frenar los apetitos de la carne con pensamiento, normas, reglas hechas por el hombre.
 
 ##### La BTX4 lo traduce así: *Tales cosas tienen en verdad cierta reputación de sabiduría en una religión impuesta por uno mismo,...*
@@ -1672,7 +1663,6 @@ Tales cosas tienen a la verdad, la apariencia de sabiduría en una religión hum
 ##### El mundo ve asequible esta manera de conducirse en santificación (según pensamiento humano), como algo que se puede alcanzar o conseguir razonablemente, sin ofender a nadie, en los que todos estén de acuerdo, puede ser una mezcla de religiones como el ecumenismo, o también una religión propia impuesta por uno mismo, ambas son una mentira y un completo engaño para los creyentes que desean vivir una santificación que agrade a Dios.
 
 #### en la humillación de sí mismo
-
 ##### Esta religión humana con apariencia de sabiduría, inste en cuanto a la auto-humillación o humildad forzada, vimos como los creyentes estaban siendo defraudados del premio que obtuvieron en Cristo debido a esta manera humana de vivir la santificación. Colosenses 2:18
 
 ##### La humillación de sí mismo se entiende que a través de hacer ciertas cosas o actividades llegar a una humildad forzada, a través de el método de la auto-humillación forzada los creyentes llegar a la santificación, llegar a una vida piadosa, sin embargo son intentos fallidos del pensamiento humano en cuanto a santificación se refiere, debido a que no son según Cristo.
@@ -1680,7 +1670,6 @@ Tales cosas tienen a la verdad, la apariencia de sabiduría en una religión hum
 ##### La palabra humillación o humildad TAPEINOFROSUNE es una palabra compuesta de bajo, humilde y mente, actitud, expresando una actitud mental de bajeza, o disposición humilde, en este contexto es usada de manera negativa debido a que esto proviene de una aparente religiosa manera de vivir que es según el mundo y no según Cristo, no es una humildad genuina, sino va ligada a una humildad como práctica ascética externa.
 
 #### y en el trato severo del cuerpo
-
 ##### El trato severo del cuerpo es una práctica humana conocida como el ascetismo, que consiste en luchar contra el cuerpo físico, pensando así vencer los apetitos de la carne, muchas religiones en el mundo practican algún tipo de trato severo del cuerpo pensando así vencer la naturaleza pecaminosa.
 
 ##### La palabra AFEIDIA significa duro trato con rigor, severidad o crueldad, expresa una falta de consideración o mortificarlo para que obedezca, esta severidad hacia el cuerpo físico era con el objetivo de que el cuerpo obedezca a la mente tratando de dominar la naturaleza carnal de una persona basada en el ascetismo.
@@ -1698,7 +1687,6 @@ Tales cosas tienen a la verdad, la apariencia de sabiduría en una religión hum
 ##### El problema no es la disciplina, el problema no es el trato del cuerpo, el problema principal es intentar usar esos medios humanos autoimpuestos para producir santidad o piedad en el creyente, y no según Cristo.
 
 #### pero carecen de valor alguno contra los apetitos de la carne.
-
 ##### Ninguna de estas prácticas o métodos humanos de sabiduría humana, en cuanto a santificación se refiere, pueden llegar a controlar, dominar, subyugar a los apetitos de la carne.
 
 ##### El que carecen de valor alguno significa que no ofrecen ninguna ayuda, o hacerle frente a vencer los apetitos de la naturaleza pecaminosa.
@@ -1751,7 +1739,6 @@ Si ustedes, pues, han resucitado con Cristo, busquen las cosas de arriba, donde 
 ##### El argumento de cambio de enfoque que Pablo se encuentra explicando es un hecho consumado para el creyente, considerando su realidad posicional en la que se encuentra, su resurrección juntamente con Cristo, 
 
 #### Si ustedes, pues, han resucitado con Cristo,
-
 ##### Este Si es un condicional de primera clase, debido a que el verbo siguiente se encuentra en modo indicativo afirmando la condición como verdadera, podría traducirse, ya que han resucitado.
 
 ##### La BTX4 lo traduce así: *Puesto que fuisteis resucitados juntamente con CRISTO...*
@@ -1759,7 +1746,6 @@ Si ustedes, pues, han resucitado con Cristo, busquen las cosas de arriba, donde 
 ##### El hecho consumado de nuestra resurrección juntamente con Cristo es completamente real, debido a que fuimos identificados en el bautismo de Cristo en la obra que el hizo. Colosenses 2:12; Romanos 6:1-5
 
 #### busquen las cosas de arriba, donde está Cristo sentado a la diestra de Dios.
-
 ##### El verbo busquen ZETEO expresa el esforzarse por obtener, procurar con un propósito o intención dirigida, se encuentra en presente activo imperativo, expresando un mandato con acción continua.
 
 ##### Las cosas de arriba a las que Pablo se está refiriendo son aquellas donde se encuentra Cristo, este pasaje no nos incentiva a buscar en otro lugar, o intentar descubrir cuales son las cosas de arriba, de hecho es un mandato específico y preciso, nos habla de un cambio de enfoque en la vida del creyente.
@@ -1778,7 +1764,6 @@ Si ustedes, pues, han resucitado con Cristo, busquen las cosas de arriba, donde 
 
 - El estar a la diestra de Dios nos muestra una posición de autoridad basado en los méritos que logró en la Cruz.
 
-
 ##### Como creyentes podemos descansar en la obra terminada de Cristo en la cruz, y nuestro enfoque mantenerlo continuamente buscando las cosas de arriba.
 
 ### Colosenses 3:2
@@ -1791,7 +1776,6 @@ Pongan la mira en las cosas de arriba, no en las de la tierra.
 ##### Es de vital importancia para los creyentes tener la mente en las cosas celestiales, debido a que los creyentes pueden pasar su vida buscando cosas terrenales sabiendo que Cristo no se encuentra ahí.
 
 #### Pongan la mira en las cosas de arriba,
-
 ##### El verbo poner la mira FRONEO significa tener la mentalidad, orientar el entendimiento, fijar la mente, desde una disposición interna hacia algo estable, se encuentra en presente activo imperativo, expresando una actitud continua y constante. 
 
 ##### Este cambio de enfoque en los creyentes les hará colocar la mentalidad en las cosas de arriba, basada en su nueva realidad con Cristo.
@@ -1801,7 +1785,6 @@ Pongan la mira en las cosas de arriba, no en las de la tierra.
 ##### Este pasaje no nos detalla cuales son las cosas de arriba, sencillamente nos muestra el contraste de lo celestial y lo terrenal.
 
 #### no en las de la tierra.
-
 ##### Vimos que el creyente basado en su nueva identidad y bautizo en Cristo, ya no pertenece, ni esta sujeto a todos los principios en los cuales este mundo se maneja.
 
 ##### Es incompatible que un creyente, resucitado, se encuentre buscando las cosas de la tierra, y teniendo la mirada puesta en las cosas de la tierra, como el mundo lo hace. No estaría contando con el hecho que sucedió juntamente con Cristo. 2 Corintios 5:17
@@ -1822,13 +1805,11 @@ Porque ustedes han muerto, y su vida está escondida con Cristo en Dios.
 ##### Nos estaríamos perdiendo de lo que en realidad es vida, si buscamos y tenemos la mirada puesta en las cosas terrenales, por que nuestra vida se encuentra con Cristo, y Él se encuentra en el cielo (las cosas de arriba).
 
 #### Porque ustedes han muerto,
-
 ##### El verbo han muerto APODSNESKO significa una cesación de vida o separación definitiva, expresa una terminación, ruptura o cesación definitiva, se encuentra en aoristo activo indicativo, indicando una acción pasada completa, vista como un hecho consumado.
 
 ##### Como creyentes nuestra realidad es que hemos muerto en cuanto a buscar las cosas terrenales, ya no es esa una realidad para los creyentes. Romanos 6:2; Colosenses 2:20
 
 #### y su vida está escondida con Cristo en Dios.
-
 ##### El concepto de vida que el apóstol Pablo está tratando es la vida que fue unida juntamente con Cristo en el bautismo de identificación, no se encuentra hablando con respecto a nuestra vida de nuestro cuerpo terrenal, o nuestra muerte terrenal.
 
 ##### El verbo está escondida KRUPTO significa encubierta o guardada en secreto, se encuentra en perfecto pasivo indicativo, expresando una acción completada en el pasado con un resultado presente, se podría decir que fue escondida y permanece escondida.
@@ -1855,7 +1836,6 @@ Cuando Cristo, nuestra vida, sea manifestado, entonces ustedes también serán m
 ##### Wow, que tremendo cambio de perspectiva, y lo mejor de todo es que Cristo murió, y esa es la certeza de que un día nosotros estaremos con él en la gloria, nuestra vida. 1 Juan 3:1-3
 
 #### Cuando Cristo, nuestra vida, sea manifestado,
-
 ##### Cristo un día será manifestado en Gloria, ese día será en la revelación de Jesucristo. 1 Pedro 1:13
 
 ##### Cristo, nuestra vida es una declaración fundamental, expresando a que nuestra vida es Él y se encuentra en Él. Gálatas 2:20; Juan 11:25
@@ -1865,7 +1845,6 @@ Cuando Cristo, nuestra vida, sea manifestado, entonces ustedes también serán m
 ##### El verbo sea manifestado FANEROO significa hacer visible, revelar o mostrar públicamente, lo contrario de escondido, se encuentra en aoristo pasivo subjuntivo, la palabra cuando + un subjuntivo expresa un evento futuro real en un tiempo indefinido, el aoristo nos muestra que se trata de un evento puntual, donde alguien lo manifestará (Dios).
 
 #### entonces ustedes también serán manifestados con Él en gloria.
-
 ##### Ustedes hace mención a los creyentes que tambien serán manifestados juntamente con Él en gloria, entonces nuestra vida tambien será manifestada, y la veremos tal como es.
 
 ##### Nuestra vida se manifestará completamente mostrando lo que en realidad somos, nuestra realidad de que somos hijos de Dios, será completamente manifestada en gloria, lo que conocemos como la glorificación se hará completo, y todavía aguardamos esa esperanza de la glorificación de nuestros cuerpos en la gloria. Tito 2:13
@@ -1886,7 +1865,6 @@ Por tanto, consideren los miembros de su cuerpo terrenal como muertos a la forni
 ##### Considerando el hecho del bautismo en el que fuimos identificados con su muerte, sepultura y resurrección, ahora los miembros de su cuerpo físico, tambien se encuentran muertos al pecado debido a esta realidad que ocurrió en nuestro bautismo en Cristo.
 
 #### Por tanto, consideren los miembros de su cuerpo terrenal como muertos a la fornicación,
-
 ##### Este pasaje empieza con el verbo matar NEKROO significa dar muerte, hacer morir o considerar como muerto, se encuentra en aoristo activo imperativo expresando una acción decisiva, un acto puntual o una determinación concreta, la idea central es causar muerte o producir estado de muerte.
 
 ##### La BTX4 lo traduce así: *Haced morir, pues, lo terrenal en vuestros miembros: fornicación, impureza, pasión desordenada, deseo malo, y la avaricia, que es idolatría,*
@@ -1902,23 +1880,19 @@ Por tanto, consideren los miembros de su cuerpo terrenal como muertos a la forni
 ##### ¿Cómo es que el creyente hace morir la fornicación en su vida?, pues es el reflejo de un hecho ya pasado, hubo una muerte espiritual juntamente con Cristo al pecado, ahora podemos reflejar esa muerte en el sentido de separación física del pecado en los miembros de nuestro cuerpo.
 
 #### la impureza,
-
 ##### La palabra impureza AKADSARSIA significa inmundicia, depravación, lo cual expresa una condición de impureza, que puede ser dentro del individuo, expresa un estado de falta de pureza, la impureza es algo que el creyente debe hacer morir en su vida. 
 
 ##### Esta relacionado en cuanto a todo lo que no es puro, es un termino más amplio, podría incluir cualquier tipo de acto impuro, sea interno o externo.
 
 #### las pasiones,
-
 ##### La palabra pasiones PADSOS proviene del verbo sufrir, expresa a alguien que experimenta o sufre de pasión, un afecto intenso de mente, un deseo lleno de pasión, era utilizado por los griegos tanto en deseos buenos como malos, sin embargo en el nuevo testamento se utiliza con un énfasis negativo como un deseo ardiente indebido, enfocando a las pasiones vergonzosas y degradantes. Romanos 1:26
 
 ##### Estos sustantivos que describen acciones se encuentran en acusativo, el cual depende del imperativo, expresando que los creyentes también deben hacer morir las pasiones en su vida.
 
 #### los malos deseos
-
 ##### La palabra deseo EPIDSUMIA es un sustantivo que expresa un anhelo o impulso fuerte, apunta al anhelo continuo hacia lo malo, o prohibido, va acompañada del adjetivo malos KAKOS que expresa algo depravado o maligno, se encuentra expresando a un deseo maligno o corrupto, una orientación contraria a lo bueno, nacido de la naturaleza pecaminosa. Se encuentra en modo acusativo, expresando que el creyente debe hacer morir los malos deseos en su vida.
 
 #### y la avaricia, que es idolatría.
-
 ##### Es interesante que ahora describirá a la avaricia como un pecado de idolatría, entendemos que la idolatría es adorar a algo que no es Dios, generalmente está referido a la adoración de una estatuas o imágenes, sin embargo aqui la avaricia se encuentra ocupando un lugar que no es, el corazón del hombre se enfoca en obtener lo que desea, se convierte en su seguridad, deseo y vive para obtenerlo, hace de un dios algo que no es.
 
 ##### La palabra avaricia PLEONEXIA, codicia o avidez que expresa un deseo insaciable de tener más, no solo es amor hacia el dinero o riquezas, sino una ansia desmedida por poseer algo.
@@ -1933,7 +1907,6 @@ Pues la ira de Dios vendrá sobre los hijos de desobediencia por causa de estas 
 ##### No tiene sentido que el creyente (identificado en el bautismo de Cristo) se encuentre practicando tales cosas de las cuales ya ha sido librado.
 
 #### Pues la ira de Dios vendrá sobre los hijos de desobediencia
-
 ##### La palabra ira ORGE expresa una indignación justa contra el pecado, considerando los atributos justos de Dios, la ira de Dios no es la misma que los humanos, la ira de Dios está basada en su santidad y justicia conta el pecado, sin embargo la ira que es producida por los humanos, es provocada por nuestra naturaleza pecaminosa y es intencionada hacia el mal. 
 
 ##### La ira de Dios no va separado de sus demás atributos, como su santidad, justicia, amor y misericordia.
@@ -1947,7 +1920,6 @@ Pues la ira de Dios vendrá sobre los hijos de desobediencia por causa de estas 
 ##### El verbo vendrá ERJOMAI se encuentra en tiempo presente medio indicativo, expresando un juicio seguro venidero.
 
 #### por causa de estas cosas,
-
 ##### Hace un énfasis en estos tipos de pecados, los cuales el creyente podría estar practicando, que la ira de Dios viene por causa de estas cosas al mundo incrédulo.
 
 ##### De manera similar expresa en la carta a los gálatas hablando a los creyentes, con referencia a los (incrédulos) que practican tales cosas y que no heredarán el reino de Dios. *...que los que practican tales cosas no heredarán el reino de Dios.* Gálatas 5:21
@@ -1960,7 +1932,6 @@ en las cuales ustedes también anduvieron en otro tiempo cuando vivían en ellas
 ##### El apóstol Pablo hace recuerdo a los creyentes que ellos tambien en otro tiempo se encontraban en la misma condición que el mundo incrédulo, sin embargo eso ya no es la realidad actual de los creyentes.
 
 #### en las cuales ustedes también anduvieron en otro tiempo
-
 ##### Los creyentes, en su pasada manera de vivir, como incrédulos, andaban llenos de fornicación, impureza, malos deseos y avaricia, en el cual se encontraban bajo la ira de Dios.
 
 ##### Sin embargo hace énfasis en la mención: "En otro tiempo", actualmente los creyentes no deberían encontrarse practicando estas cosas, las cuales lo hacían cuando eran incrédulos y se encontraban bajo la ira de Dios. Efesios 2:2
@@ -1968,7 +1939,6 @@ en las cuales ustedes también anduvieron en otro tiempo cuando vivían en ellas
 ##### No deberían estar practicando estas cosas, debido a que ahora es otra la realidad del creyente, totalmente contraria a su antigua manera de vivir.
 
 #### cuando vivían en ellas.
-
 ##### En un tiempo pasado los creyentes se encontraban viviendo en estas cosas, sin embargo ahora es otra la realidad del creyente, esta mala manera de vivir, finalizó y ya no debería ser  la realidad de cada creyente en su manera de vivir, volviendo a su identificación en el bautismo de Cristo, ya no es la realidad de cada creyente el estar practicando las cosas que antes hacía cuando se encontraba en una condición separada de Dios.
 
 ##### El verbo vivían ZAO significa la manera en la que alguien se conduce en su vida, hace énfasis en que se encontraban practicando estos tipos de pecados en su manera de vivir, no eran actos ocasionales, sino era su forma de vida, se encuentra en modo imperfecto, expresando una acción continua o habitual en el pasado.
@@ -1985,27 +1955,21 @@ Pero ahora desechen también todo esto: ira, enojo, malicia, insultos, lenguaje 
 ##### Estas acciones internas producidas por el "carácter", "malos hábitos", o "actitud fuerte", pueden ser vistas por los creyentes como pecados no tan graves como los anteriores, sin embargo considerando su nueva identidad en Cristo, Pablo manda a que sean desechados de igual manera.
 
 #### Pero ahora desechen también todo esto:
-
 ##### Que significa desechar? todo eso?, pues tiene el sentido de que tienes algo y lo desechas para siempre, es algo que lo tienes, y quizá sea manifiesto en los creyentes, como así es mi carácter, siempre me enojo, solo respondo cuando es necesario y tengo que defenderme, sin embargo Pablo les mostrará que no son necesarias estas cosas en la vida del creyente, debido a que ahora son un nuevo hombre, debido a que han resucitado, para novedad de vida, estos caracteres de personalidad, deben ser desechados.
 
 #### ira,
-
 ##### Que es la ira? un enojo o furia comúnmente conocido, sin embargo esto no caracteriza a la novedad de vida la cual hemos sido hechos en el momento de haber resucitado.
 
 #### enojo,
-
 ##### El enojo, es comúnmente tolerado en la manera de vivir, ser enojón no es pecado dirían unos, sin embargo esta característica no refleja el carácter nuevo que hemos recibido del nuevo hombre
 
 #### malicia,
-
 ##### Que implica la malicia, entiendo que hacer cosas malas, pensamientos malvados y y una mente enfocada hacia la maldad, aunque sea en bromas muchas veces pasamos de lado la maldad en nuestras vidas, sin embargo este no es un carácter que refleje la nueva vida que hemos recibido.
 
 #### insultos,
-
 ##### Que implican los insultos?, ofender a otras personas, o tener un lenguaje soez, generalmente se utilizan los insultos en este mundo para tratar de defenderse de este mundo malvado con la boca, sin embargo esto no es algo que refleje el carácter santo que hemos recibido por medio de la resurrección.  No debería haber insultos en la vida del creyente.
 
 #### lenguaje ofensivo de su boca.,
-
 ##### Que implica el lenguaje ofensivo de su boca, podríamos pasar de largo este punto, sin embargo se nos muestra que es determinante para la persona que ha resucitado deshacerse de este tipo de lenguaje, ofensivo, un lenguaje agresivo, un lenguaje que ofenda a otros, debe ser desechado, por que? por que hemos sido resucitados para novedad de vida, y esto incluye tambien deshacerse de este tipo de lenguaje.
 
 ### Colosenses 3:9 
@@ -2014,11 +1978,11 @@ Dejen de mentirse los unos a los otros, puesto que han desechado al viejo hombre
 ##### Que estaba pasando con los Colosenses?, estaban mintiéndose entre hermanos?, entendemos que la mentira es un pecado, sin embargo estos creyentes pensaron que pasaron de largo esto y se encontraban mintiendo los unos a los otros, sin embargo les mostrará que ese hombre lleno de vicios y malos hábitos como la mentira, tambien ha sido desechado, cuando? en el momento que han resucitado ha sido desechado este viejo hombre con su perversa manera de vivir.
 
 #### Dejen de mentirse los unos a los otros,
+##### Que implica estar mintiéndose los unos a los otros?, pretender que soy creyente y tengo favoritismo en lugar del pecado?, nos muestra una falta de comprensión en cuanto a lo que ahora somos, La mentira tambien es tener cosas ocultas las cuales no reflejan la verdad en la vida del creyente. 
 
-##### Que implica estar mintiéndose los unos a los otros?, pretender que soy creyente y tengo favoritismo en lugar del pecado?, nos muestra una falta de comprensión en cuanto a lo que ahora somos, La mentira tambien es tener cosas ocultas las cuales no reflejan la verdad en la vida del creyente. Ahora, por que se estaban mintiendo? por que estaban pecando entre hermanos? había algo que ocultar? pues en el mundo es normal mentirse los unos a los otros con el tal de tener una buena apariencia o con el fin de beneficiarnos, o con un fin personal, sin embargo ahora no podríamos reflejar el carácter de Cristo mintiéndonos los unos a los otros sabiendo que la mentira es un pecado ante Dios, y dejarlo pasar por que es menor? no tiene sentido, el pecado es ofensivo a Dios y representa la muerte y la falta de comunión con Dios y con los hermanos debido a que la persona se encuentra en completas tinieblas cuando practica el pecado.
+##### Ahora, por que se estaban mintiendo? por que estaban pecando entre hermanos? había algo que ocultar? pues en el mundo es normal mentirse los unos a los otros con el tal de tener una buena apariencia o con el fin de beneficiarnos, o con un fin personal, sin embargo ahora no podríamos reflejar el carácter de Cristo mintiéndonos los unos a los otros sabiendo que la mentira es un pecado ante Dios, y dejarlo pasar por que es menor? no tiene sentido, el pecado es ofensivo a Dios y representa la muerte y la falta de comunión con Dios y con los hermanos debido a que la persona se encuentra en completas tinieblas cuando practica el pecado.
 
 #### puesto que han desechado al viejo hombre con sus malos hábitos,
-
 ##### Cual es la razón mas clara de que esto ya no caracteriza a un nacido de nuevo a alguien que ha resucitado no de simiente corruptible sino incorruptible?, pues les mostrará que tambien han desechado al viejo hombre, cargado de vicios, este viejo hombre que se deleitaba en el pecado y la inmoralidad, este viejo hombre el cual estaba rumbo a la destrucción, este hombre que andaba en estas cosas en su diario vivir, lo hemos desechado,
 
 ##### El viejo hombre en cada creyente no lo tienen que desechar cada día, o cada día intentar matarlo o desecharlo, sino que les mostrará un acontecimiento pasado, en el momento que han creído sucedió un acontecimiento importante, este viejo hombre ha sido completamente desechado.
@@ -2031,11 +1995,9 @@ y se han vestido del nuevo hombre, el cual se va renovando hacia un verdadero co
 ##### Ese es el propósito por el cual dejaríamos estas conductas de carácter y malos hábitos los cuales practicábamos cuando éramos incrédulos, sin embargo ahora, ya no somos el viejo hombre viciado, ha sido desechado y ahora estamos vestidos de uno nuevo que se va pareciendo mas y mas a la imagen de Cristo. por que? por que hemos resucitado, hemos sido bautizados en su muerte, y tiene un propósito, que andemos en novedad de vida.
 
 #### y se han vestido del nuevo hombre,
-
 ##### Que significa vestirse del nuevo hombre?, Significa estar completamente revestido de Cristo, esta acción la hago yo?, pues nos muestra que esto sucedió en una parte del tiempo, ya es una realidad que estoy revestido del nuevo hombre. 
 
 #### el cual se va renovando hacia un verdadero conocimiento,
-
 ##### Ahora este nuevo hombre se va renovando, cada vez mas, conociendo quien realmente es, y lo que ahora somos, aprendemos a caminar en nuestra nueva identidad, según este nuevo hombre, que ya somos, este es el paso de crecer hacia la madurez espiritual, es una completa realidad, solo que es necesario la renovación, de la mente, es necesario que aprendas a verte mas como lo que realmente eres en Cristo, fuimos hechos una nueva creación, algo completamente nuevo, y sin mancha, solo tenemos ahora que aprender a caminar de acuerdo a lo que somos.
 
 ##### Es interesante que este se va renovando, va transformándose, por medio de un conocimiento verdadero,
@@ -2048,27 +2010,21 @@ En esta renovación no hay distinción entre griego y judío, circunciso e incir
 ##### y ya no existe mas el viejo hombre, debido a que fue crucificado en la cruz.
 
 #### En esta renovación no hay distinción entre griego y judío,
-
 ##### En esta renovación no existe distinción de etnicidad, una distinción entre los judíos que guardaban la ley y guardaban los pactos, y contra el que nunca había guardado la ley y andaba como los gentiles, sin embargo no existe una distinción o un privilegio entre los judíos o griegos.
 
 #### circunciso e incircunciso,
-
 ##### Había diferencia entre circuncidados e incircuncidados en el tiempo de la iglesia en sus primeros siglos, habían diferenciación y se sentían superiores, los judíos, mas dignos y aceptados ante Dios por que eran del pueblo escogido de Dios, sin embargo en esta renovación nos explicará que no hay distinción, si eras del pueblo de escogido de Dios o si eras un gentil y publicano, no hay diferencia, en esta renovación, Dios hizo algo nuevo de ambos.
 
 #### bárbaro,
-
 ##### quienes eran los bárbaros, se dice que eran los que no sabían griego, aquellos que se encontraban en un contexto de guerras y tribus salvajes, nómadas, conquistando otras naciones, ellos tambien entendían y podían creer en el evangelio, por que el evangelio ha sido diseñado para todo el mundo sea capaz de entender, incluso gente sin educación ni estudios, y con un habla simple, y tosco podrían entender el evangelio, sin embargo no hay distinción entre los bárbaros y los judíos que estaban llenando las iglesias de los primeros siglos.
 
 #### Escita,
-
 ##### Se dice que un escita era alguien de una tribu salvaje que arrancaban los cabellos de sus enemigos en las guerras, y tomaban en el craneo de sus enemigos bebidas, eran una tribu totalmente salvaje y asesinas, sin embargo ellos tambien podrían entender el evangelio, y pablo hace la distinción, entre ellos tambien no existe diferencia, aunque no lo crean ellos tambien son hechos un nuevo hombre interior.
 
 #### esclavo o libre,
-
 ##### Los esclavos tenían un lugar debajo del estándar, los esclavos se creían que solo eran considerados herramientas humanas necesarias, sin embargo Pablo les mostrará que esta renovación entre del nuevo hombre interior, los esclavos también podrían ser renovados con la renovación del nuevo hombre sin importar su posición de esclavitud, o libertad.
 
 #### sino que Cristo es todo, y en todos.
-
 ##### Sino, que Cristo es todo, y en todos, nos muestra que Cristo es el mismo en los libres, como en los esclavos, como en los bárbaros y los escitas, todos son renovados sin distinción étnica, visible, inteligencia, habilidad, si se encuentra libre, si han creído en el evangelio, estos son incluidos dentro del cuerpo de Cristo y esta renovación es completamente real para todos sin importar su posición o nivel entre los humanos que tengan.
 
 ## Colosenses 3:12–14 - Incorporación de nuevas características 
@@ -2079,11 +2035,9 @@ Entonces, ustedes como escogidos de Dios, santos y amados, revístanse de tierna
 ##### Considerando la renovación anterior, pues revístanse cono lo que son, en el señor, y pueden verse de manera de reflejar lo que Dios es en medio de ustedes y entre ustedes.
 
 #### Entonces,
-
 ##### Estas pausas nos mostrarán que el mensaje anterior continúa el argumento, del cual está hablando y explicando entonces. por lo cual al considerar todo lo anterior.
 
 #### ustedes como escogidos de Dios,
-
 ##### Quienes son los escogidos de Dios?, son aquellos que han participado en esta renovación el cual hizo Dios a todos los creyentes en el evangelio.
 
 ##### Considerando lo que son, Son escogidos de Dios en Cristo,
@@ -2091,7 +2045,6 @@ Entonces, ustedes como escogidos de Dios, santos y amados, revístanse de tierna
 ##### Dios nos escogió en Cristo desde antes de la fundación del mundo, Dios escogió no para salvación sino nos escogió ya estando en Cristo. Sin embargo como uno puede estar en Cristo?, pues por medio del llamamiento santo que es el evangelio de nuestra salvación el que nos puso en Cristo.
 
 #### santos y amados,
-
 ##### Los creyentes son santos, han sido completamente santificados por medio del lavamiento y la regeneración de nuestro señor Jesucristo, la renovación del nuevo hombre, 
 
 ##### Y también lo somos en nuestra santificación, en el día a día podemos caminar como personas apartadas para Dios, Dios nos apartó para sus propósitos, para ser un pueblo especial, una nación santa, apartada para Dios.
@@ -2099,27 +2052,22 @@ Entonces, ustedes como escogidos de Dios, santos y amados, revístanse de tierna
 ##### Nosotros los creyentes somos completamente amados por el padre por medio de Jesucristo, por lo que hizo Jesucristo en la Cruz nosotros somos completamente amados por el Padre.
 
 #### revístanse de tierna compasión,
-
 ##### Que significa revestirse?, yo me revisto?, yo realizo la acción de vestirme del nuevo hombre?, o elijo vestirme respecto a lo que ya soy?, pues considerando la renovación del nuevo hombre, se nos muestra que hemos sido hechos completamente nuevos. y ahora podemos revestirnos considerando lo que ya somos. 
 
 ##### Podemos estar mostrando compasión, es la bondad hacia las personas, tanto que sufren como los que no, es una característica de actitud de la persona hacia su prójimo, sin embargo el creyente no puede generar ser compasivo, pero si puede considerar lo que ya es, y vestirse de compasión, no lo dice como una manera de hipocresía, sino con un afecto real, y sincero que procede no de nosotros, sino del nuevo hombre que ya somos todos los creyentes.
 
 #### bondad,
-
 ##### Que es el vestirse de bondad?, como una persona puede ser bondadosa con otros?, es el resultado de entender que no somos nosotros sino la nueva creación en nuestro interior
 
 #### humildad,
-
 ##### Como me revisto de humildad?, la humildad es la actitud del creyente la cual no tiene que ver con respecto a la vida económica, sino es respecto a la actitud de ser agradecido con todo lo que tiene y actuar de esa manera ante las diferentes dificultades de la vida.
 
 #### mansedumbre
-
 ##### Que significa ser manso?, pues entendemos que la mansedumbre no es tibieza, sino es una cualidad la cual el creyente tiene un carácter apacible y tierno, y sereno, el cual es producto del nuevo hombre, no tiene nada que ver con lo que somos o pensábamos que somos, sino esto es producto del nuevo hombre el cual fue hecho a la semejanza de Cristo, 
 
 ##### En nuestro mundo es una característica negativa de una persona, ser manso, nos dicen la gente se puede aprovechar, o que todos te pisen, sin embargo nos muestra un aspecto contrario a la corriente del mundo, el cual podemos estar revistiéndonos, no por lo que pensamos como el mundo lo ve, sino por que es real esta realidad para nosotros en la nueva creación.
 
 #### y paciencia;
-
 ##### El estar revestidos de paciencia, es la habilidad de esperar, y estar tranquilo ante las circunstancias inquietantes de la vida, y podemos tener confianza en lo que sucederá, considerando que ya hemos sido un nuevo hombre, completamente nuevo al anterior, el cual se llenaba de ira e inquietud enojo, etc, ya hemos sido hechos nuevos y el creyente puede revestirse de esta cualidad el cual ya es en Cristo. no en sus propias fuerzas, sino considerando lo que ya es.
 
 ### Colosenses 3:13 
@@ -2128,7 +2076,6 @@ soportándose unos a otros y perdonándose unos a otros, si alguien tiene queja 
 ##### Wow, Considerando lo que ya son en Cristo, y la nueva renovación la cual sucedió, pueden estar perdonándose mutuamente, entre todos, si alguien está inconforme con la actitud de otro pues pondrá el ejemplo de Cristo como un ejemplo de Perdón fraternal, como Cristo nos perdonó todos los delitos y quejas nosotros de la misma manera tendríamos que poder hacerlo, debido a que somos una nueva creación.
 
 #### soportándose unos a otros
-
 ##### Que tan importante es soportarse los unos a los otros?, es de vital importancia, por que? por que ya somos un nuevo hombre y podemos estar siendo revestidos de lo que ya somos en Cristo.
 
 ##### Es totalmente importante soportarse los unos a los otros con las diferencias que tengamos, debido a que ya hemos sido completamente revestidos del nuevo hombre, podemos estar soportándonos, nuestras flaquezas los unos a los otros en el vínculo del amor.
@@ -2136,21 +2083,17 @@ soportándose unos a otros y perdonándose unos a otros, si alguien tiene queja 
 ##### No solo es soportarse desde una manera externa, sino es de una manera interna el cual viene el soportarnos mutuamente en el amor de Cristo.
 
 #### y perdonándose unos a otros,
-
 ##### El perdonarse nos muestra que es vital en nuestro relacionar diario, con nuestros hermanos y con nuestro prógimo, estas instrucciones prácticas, van relacionadas con el hecho de que ya son hechos una nueva creación y por lo cual como podríamos, perdonarnos mutuamente? y constantemente a pesar de las dificultades?, es por medio de la renovación que ha sido hecha completa en nosotros.
 
 #### si alguien tiene queja contra otro.
-
 ##### Entonces quizá entre hermanos tengas quejas mutuamente, o dificultades contra otros, y esto es una realidad en la convivencia, no solo en nuestras casas, sino en la iglesia tambien, cuando nos reunimos mutuamente como hermanos en la fe podemos tener quejas, contra los otros.
 
 #### Como Cristo los perdonó,.
-
 ##### Entonces tomará el ejemplo más importante de todos, Cristo, podríamos seguir su ejemplo en nuestro diario vivir, relacionarnos, y soportarnos mutuamente.
 
 ##### El ejemplo que tomará es Cristo, Cristo mismo nos perdonó, no solo pecados leves, sino todos los pecados por el amor que tenía, es un amor ágape, sobre todas las cosas, ese amor que proviene del padre estaba en Cristo, y así Cristo nos amo demostrablemente y visiblemente, aunque nosotros estábamos muertos en nuestros delitos y pecados, en una posición egoísta e insincera, falsa y llena de males, así nos amó y nos perdono Cristo. totalmente, sin murmuraciones, sin quejas, sino sincera y plenamente perdonados.
 
 #### así también háganlo ustedes.
-
 ##### Esa es la manera que podriamos perdonar a nuestros hermanos, si tenemos quejas, un perdón sincero y fiel, como el de Cristo, a pesar de las dificultades, a pesar de las incertidumbres, a pesar de Todo fue el perdón de Cristo por nosotros, así nosotros tenemos que hacerlo tambien para con nuestros hermanos,
 
 ##### Wow, es muy alto el estándar de Perdón, entre hermanos en Cristo, es muy alto el estándar de Perdón humano y soportarnos en el amor de Cristo es vital.
@@ -2163,11 +2106,9 @@ Sobre todas estas cosas, vístanse de amor, que es el vínculo de la unidad.
 ##### Pues nos mostrará cual es el vínculo de la unidad, El amor, y este amor es un amor sobre todas las cosas, es un amor que no puede ser en nuestras fuerzas, ni en nuestra autodeterminación, sino que este amor es el que proviene de Dios en la nueva criatura que hemos sido hechos, y ahora podemos revestirnos de amor mutuo, el cual proviene de Cristo.
 
 #### Sobre todas estas cosas,
-
 ##### El sobre todas estas cosas, nos muestra la prioridad que tiene el amor en nuestro relacionarse mutuamente con nuestros hermanos y nuestro prójimo, tiene una vital importancia debido a que es sobre todo, antes de nada considera el amor, y del amor proveerá el perdón así como lo hizo Cristo, y del perdón resultará en soportarnos mutuamente, y esto será el aceite entre las máquinas que hará que todo fluya, hacia una comunión en amor, en piedad, en bondad, en mansedumbre, los unos a los otros, mostrando el amor de Cristo, como el ejemplo de seguir.
 
 #### vístanse de amor,
-
 ##### Ahora podemos vestirnos de amor, un amor que sobrepasa todo nuestro entendimiento, un amor fraterno, que es sobre todo, el amor que Cristo ha depositado en nuestros corazones, en la nueva creación que hemos sido hechos.
 
 ##### Lo vuelvo a repetir, que significa el vestirse, no significa aparentar de una manera externa, sino resultaría en pura hipocresía dentro de un amor fingido, sin embargo les habla de que considerando  esta nueva renovación, que se hizo somos hechos completamente una nueva criatura, la cual puede vestirse de amor, y de todas las cualidades mencionadas anteriormente.
@@ -2175,7 +2116,6 @@ Sobre todas estas cosas, vístanse de amor, que es el vínculo de la unidad.
 ##### Es una realidad del creyente que puede estar completamente vestido de amor, puede hacerlo siempre, debido a que es una realidad, en la renovación que se hizo en cada creyente.
 
 #### que es el vínculo de la unidad.
-
 ##### Que es un vínculo?, nos muestra que es la unión entre dos cosas, un vínculo, y podríamos ver que todos los creyentes están cada uno por su propio lado, cada uno individualmente, en su vida y sus afanes, egoístamente preocupados por lo que son, sin embargo, como es que tenemos una unidad práctica entre hermanos en Cristo?, por que ya tenemos una unidad posicional en el cuerpo de Cristo, cada creyente ha sido hecho parte del cuerpo de Cristo, sin embargo ahora nos muestra una comunión práctica entre creyentes. Cual es el vínculo, el nexo, lo que nos unirá en la comunión práctica es el amor, el vínculo perfecto entre dos personas ajenas, imperfectas, y con muchos defectos, el amor es el vínculo de la unidad entre todos los creyentes.
 
 ## Colosenses 3:15–17 - Elementos que gobiernan la vida 
@@ -2186,7 +2126,6 @@ Que la paz de Cristo reine en sus corazones, a la cual en verdad fueron llamados
 ##### Es impresionante la manera en la cual vivimos, la paz de Cristo puede estar, y el resultado de esto es ser agradecidos por todo, sin ninguna presión, estar constantemente orando agradeciendo a Dios por cada circunstancia, y todas las peticiones que tengamos Cristo pueda suplir nuestras necesidades y darnos la tranquilidad en cada circunstancia.
 
 #### Que la paz de Cristo reine en sus corazones,
-
 ##### Como puede la paz de Cristo, estar y reinar en nuestros corazones? Es un deseo sincero?, o es algo que puede ser una realidad de cada creyente?
 
 ##### Que es la paz de Cristo?, nos habla de una tranquilidad?, en la cual proviene de Cristo?, esta paz que es de Cristo, reine, gobierne en sus corazones, en lo mas profundo de nuestro interior, se encuentre la paz de Cristo reinando en cada uno de nuestros corazones.
@@ -2194,11 +2133,9 @@ Que la paz de Cristo reine en sus corazones, a la cual en verdad fueron llamados
 ##### Y esta paz sea la que nos ayude a superar las angustias, problemas, dificultades en la vida de cada creyente, esta sea la paz en la que gobierne Cristo en nuestros corazones.
 
 #### a la cual en verdad fueron llamados en un solo cuerpo;
-
 ##### En verdad fuimos llamados a esta paz, en nuestros corazones, cada creyente ha sido llamado a esta paz de Cristo, y esto es debido a que estamos en un solo cuerpo, no es algo de cada persona, sino es por que estamos en un solo cuerpo, y es el cuerpo de Cristo, por lo cual tiene sentido que la paz de Cristo gobierne en los corazones de cada creyente debido a que fueron llamados en un solo cuerpo, y Cristo es el que reina dentro de su cuerpo, de la misma manera sea Cristo reinando en cada creyente, que forma parte del mismo cuerpo de Cristo.
 
 #### y sean agradecidos.
-
 ##### El ser agradecidos, no es parte de una obligación a los creyentes, sino con una actitud buena, podemos acercarnos a Dios y ser agradecidos en todo, por toda su provisión y por todo lo que nos ha provisto en Cristo para vivir la vida nueva, el agradecimiento resulta de entender la paz de Cristo, y no preocuparnos por las circunstancias, entendiendo que la paz de Cristo gobierna en nuestro corazón, por lo cual seremos agradecidos en cualquier lugar y situación en la que nos encontremos, sabiendo que nuestro padre celestial cuida de nosotros. y nos ha provisto todo lo necesario para que podamos estar tranquilos en Cristo.
 
 ### Colosenses 3:16
@@ -2207,19 +2144,16 @@ Que la palabra de Cristo habite en abundancia en ustedes, con toda sabiduría en
 ##### Que la palabra de Cristo es la que en el corazón de los creyentes, abunde, en cada momento, dentro de cada creyente puede estar habitando La palabra de Cristo, como lo vimos en el anterior versículo vimos que la paz de Cristo este en los creyentes, sin embargo ahora vemos su palabra morando en cada creyente, de manera abundante, y es interesante con su palabra sean enseñándose, alabando, cantando, con acción de gracias, en sus corazones. cantando canciones a Dios, en sus corazones.
 
 #### Que la palabra de Cristo habite en abundancia en ustedes,
-
 ##### Como es que la palabra de Cristo puede morar en los creyentes abundantemente?, pues estar completamente empapado de Cristo, del discipulado, enseñando y aprendiendo en todo momento, a cada instante estar edificándonos mediante la palabra de Cristo unos a otros.
 
 ##### Como es que los discipulos pueden estar aprendiendo su palabra y tambien haciendolo en abundancia, pues entiendo que es mediante el discipulado completo y continuo.
 
 #### con toda sabiduría enseñándose y amonestándose unos a otros,
-
 ##### Es interesante que la sabiduría la cual Cristo es, y sus palabras, son de completa sabiduría para los creyentes,
 
 ##### Es interesante que con su palabra podemos enseñarnos mutuamente entre creyentes, y tambien amonestarnos, que significa puede que estemos equivocados en la comprensión que tenemos de Cristo. La palabra de Cristo es útil para enseñarnos y amonestarnos mutuamente, por que son palabras de Dios, y es muy bueno que esto abunde en todos los creyentes en todo momento y en todo tiempo.
 
 #### con salmos, himnos y canciones espirituales,
-
 ##### Podemos estar en todo momento cantando salmos, himnos canciones espirituales, que nos deleiten en Dios, y en lo que Cristo hizo, es el deseo que encontremos tambien el gozo de las canciones y tambien con las canciones que son en verdad y de alabanza.
 
 ##### Los salmos son parte de las alabanzas del rey david, que escribió dirigiendose a Dios mediante su gozo, tristeza, alegría, angustia, son expresiones verbales de alabanza a Dios mediante cánticos dirigidos a Dios.
@@ -2229,7 +2163,6 @@ Que la palabra de Cristo habite en abundancia en ustedes, con toda sabiduría en
 ##### Las canciones espirituales, nos muestran que pueden ser canciones de esperanza, gozo, paz  paciencia, lo que produce el espíritu en el creyente que le lleva a alabar a su creador. o de alguna manera en cualquier situación que se encuentre sabe que tiene un consuelo en Dios.
 
 #### cantando a Dios con acción de gracias en sus corazones.
-
 ##### Es interesante que el canto, es algo muy importante en la vida de los creyentes, debido a que pueden expresar verbalmente, mediante melodías escritas o inspiradas, su cántico a Dios en acción de gracias, agradeciendo a Dios en sus corazones por lo que Dios hizo en la vida de cada creyente dependiendo cual sea su situación.
 
 ### Colosenses 3:17
@@ -2238,23 +2171,19 @@ Y todo lo que hagan, de palabra o de hecho, háganlo todo en el nombre del Seño
 ##### En resumen todo lo que hagan sea hecho en el nombre del señor Jesús, agradeciendo al Padre por medio de Jesucristo.
 
 #### Y todo lo que hagan,
-
 ##### Todo lo que hagamos, todo lo que está en nuestras manos hacer. es muy importante entender que   sea cualquier acción que hagamos sea confiando en el nombre del señor Jesucristo.
 
 #### de palabra o de hecho,
-
 ##### En muchas ocaciones los creyentes harán cosas de Palabra, por lo cual les muestra que su palabra sea confiable, debido a que será hecho en el nombre del señor Jesucristo.
 
 ##### Sea un hecho que hagan sin incluir su palabra como testimonio, pues tambien sea todo en el nombre del señor Jesucristo.
 
 #### háganlo todo en el nombre del Señor Jesús,
-
 ##### Vemos un imperativo en el hacer, que todo lo que hagas, todo sea en el nombre del Señor Jesús, por que? no sería tomar el nombre del señor de manera inadecuada? o falsa? o tomarla en vano?
 
 ##### Vemos aquí el hacerlo todo en su nombre, que conlleva?, Una promesa?, Un Juramento?, no, volviendo al contexto de hacer las cosas con amor, nos muestra que es provisto en Por Jesucristo, y nos muestra que todas nuestras acciones sean hechas en amor en el nombre de nuestro señor Jesucristo, por que el contexto nos habla del amor, la nueva identidad la cual somos en Cristo, y esta nueva identidad sea todo hecho en el nombre de Jesús, debido a que todo lo que hagamos sea hecho por medio de él y el sea dándonos paz, y su palabra morando en la nueva identidad la cual somos.
 
 #### dando gracias por medio de Él a Dios el Padre.
-
 ##### Como es que un creyente puede estar continuamente agradecido?, pues es por medio de lo que Dios ha provisto en Jesús, que nos deleitamos y disfrutamos nuestra nueva identidad, la cual somos, y esto hará que andemos siendo agradecidos en cada circunstancia.
 
 ##### Podemos agradecer, debido a que por medio de Jesucristo tenemos todo esto, no es una formula secreta como agradecer, o estar agradecido, sin embargo nos muestra que por medio de Jesucristo tenemos todo esta nueva identidad, así que hemos sido hechos una nueva creación por el sacrificio de Jesucristo, y agradecemos al padre por medio de Él, debido a que ahora nos podemos acercar al padre en plena confianza, podemos acercarnos por medio de Jesucristo, ósea por lo que el hizo en la cruz ahora podemos acercarnos al Padre.
@@ -2271,17 +2200,14 @@ Mujeres, estén sujetas a sus maridos, como conviene en el Señor.
 ##### Empezará a hablar con respecto a las mujeres y sus relaciones personales, entre creyentes, mas precisamente con sus maridos, es algo involuntario y contracorriente, o contra naturaleza el estar sujetas a sus propios maridos, sin embargo esta ordenanza será posible si una mujer casada entiende que no puede ser en sus fuerzas ser sujeta a su marido, sino en el considerando la nueva identidad que poseen en Cristo.
 
 #### Mujeres,
-
 ##### Es interesante, este tipo no está precisamente refiriéndose a todas las mujeres, sin embargo son a las que tienen maridos.
 
 ##### Muchos podrían pensar como una mujer será sujeta a su marido estando soltera o viuda?
 
 #### estén sujetas a sus maridos,
-
 ##### Que significa estar sujeta?, Hupotasso? estar bajo sujeción voluntaria, considerando que esta sujeción es en el señor, no por determinación humana, y esto va ligado a como Dios ordenó a la familia, empieza este momento mencionando a las mujeres, y la sujeción voluntaria hacia su marido, no dice a otros maridos o varones, esto específicamente habla de una sujeción en el matrimonio a únicamente a su marido.
 
 #### como conviene en el Señor.
-
 ##### Es interesante que esta sujeción es conveniente en el Señor, por que?, si es antinatural, por que estaría una mujer sujeta a su marido?, por que es conveniente en el señor, es como Dios puso a la familia bajo el orden de sujeción, que pasa si su esposo es un incrédulo?, o desobediente a la palabra?, pues se anima sujetarse a Cristo antes que a su marido si su marido no está sujeto o es desobediente a la palabra, por eso es importante mencionar es una sujeción voluntaria de la mujer, no es una sujeción forzada o impetuosa, es libremente y conveniente en el señor.
 
 ## Colosenses 3:19 - Instrucciones para maridos 
@@ -2292,17 +2218,14 @@ Maridos, amen a sus mujeres y no sean ásperos con ellas.
 ##### Empezará hablando a los Varones casados, generalmente una característica de los varones es que son ásperos y rudos, sin embargo el mandato aqui es lo opuesto, a lo que el mundo opina o piensa.
 
 #### Maridos,
-
 ##### Es importante este mandato específico a los varones casados, no es a otra persona que esté soltera, y es precisamente con su esposa el mandato. no con otras mujeres de la iglesia. o familiares.
 
 #### amen a sus mujeres
-
 ##### Este mandato no se refiere a cualquier mujer, específicamente se encuentra hablando a parejas casadas y su mujer representa su esposa.
 
 ##### Este mandato es específico el amar a sus esposas, y ahora con que amor se amará?, un amor agape o fileal?, considerando la nueva identidad, es posible amar revistiendose del amor, sin embargo si no es provisto de esto, será un continuo fracaso y frustación el intentar amar en sus propias fuerzas a su esposa, o su propia determinación.
 
 #### y no sean ásperos con ellas.
-
 ##### El mandato a los varones no es solo amarlas, sino entendiendo que las mujeres son mas delicadas en el aspecto femenino, el varon tiende a tratarlas con aspereza y rudeza, pero vemos que esto es un indicativo al creyente marido que no sea áspero, a veces la aspereza al hablar o al actuar, sin embargo es imposible no ser ásperos con las mujeres desde un punto de vista humano, sin embargo esto solo será posible si el marido se encuentra considerando su nueva identidad y solo así poder no ser ásperos con sus mujeres, y tratarlas como a vaso mas frágil. tratarlas como mujeres, con toda delicadeza y amor.
 
 ## Colosenses 3:20 - Instrucciones para hijos 
@@ -2313,7 +2236,6 @@ Hijos, sean obedientes a sus padres en todo, porque esto es agradable al Señor.
 ##### Con respecto a los hijos se nos muestra la obediencia a los padres, en todo, por que esto es agradable al señor,
 
 #### Hijos,
-
 ##### Quienes son los hijos?, será que se está refiriendo a todos los hijos?, mas precisamente se refiere a los hijos que son creyentes, debido a que todos estos mandatos son posibles en el señor entendiendo su nueva identidad en Cristo, sin embargo esto es aplicable para todos los hijos en un sentido de descendencia. pero esta característica de que es agradable en el señor hace referencia a que los hijos creyentes pueden considerar su nueva identidad en Cristo y realmente ser obedientes en el señor y no en sus propias fuerzas.
 
 ##### Este mandato hasta que edad es posible realizarlo?
@@ -2323,13 +2245,11 @@ Hijos, sean obedientes a sus padres en todo, porque esto es agradable al Señor.
 ##### Sin embargo este mandato es mas precisamente a aquellos que se encuentren en la casa, o el Padre tenga que sustentarlos debido a que se encuentran todavía en su casa,
 
 #### sean obedientes a sus padres en todo,
-
 ##### Que significa ser obedientes a sus Padres en todo, pues sus padres terrenales velan por su vida, salud, educación y disciplina de sus hijos, y esta instrucción corresponde a poder actuar en obediencia a sus padres, mientras se encuentran en su casa o sujetos a sus padres.
 
 ##### Que pasa si los padres no se sujetan a Cristo y enseñan cosas contrarias a Cristo?, pues se anima a sujetarse primeramente a Cristo.
 
 #### porque esto es agradable al Señor.
-
 ##### Mostrará que la obediencia de los hijos es agradable al señor, y esto es muy importante considerar, debido a que a quien le agrada la obediencia es al señor, y esto tienen que entender muy bien los hijos que se encuentran sujetos a sus padres terrenales.
 
 ##### Cada hijo está sujeto a sus padres y puede entender como agradar al señor sencillamente obedeciendo a lo que sus padres le digan. está agradando al señor, por medio de la obediencia a sus padres.
@@ -2342,15 +2262,12 @@ Padres, no exasperen a sus hijos, para que no se desalienten.
 ##### Este mandato es a los padres, que tienen el mejor de los deseos para con sus hijos, sin embargo los padres tienden a exigir demasiado a sus hijos, y terminan desalentados.
 
 #### Padres,
-
 ##### Este mandato está dirigido otra vez a los padres, que tienen un papel muy importante en la crianza de sus hijos, y este mandato es para que lo tomen en cuenta al momento de su crianza, en ningún momento se dice que no tiene que haber disciplina,
 
 #### no exasperen a sus hijos,
-
 ##### Muchas veces el exasperar, conlleva una presión intensa y continua sobre lo que el padre desea lo mejor para los hijos, sin embargo se les anima a no colocar tanta presión a sus hijos por que en lugar de motivarlos a ser mejores y tomar de la mejor manera terminarán desalentados y frustrados.
 
 #### para que no se desalienten.
-
 ##### Que pasa cuando los hijos se desalientan?, pierden el sentido y propósito de la obediencia en el señor, debido a que nunca pueden satisfacer los buenos deseos de sus padres, y terminan completamente desalentados frustrados y haciéndolo todo por obligación, y ya no en el señor, terminando completamente frustrados y con los valores perdidos.
 
 ##### El punto principal por el cual obedecer, pierde sentido debido a que ya no importa agradar al señor, ni a sus padres, y terminan actuando en rebeldía o hipocresía, sin entender el propósito de la obediencia en el señor.
@@ -2363,7 +2280,6 @@ Siervos, obedezcan en todo a sus amos en la tierra, no para ser vistos, como los
 ##### En este punto hablará a los siervos, o a los que sirven a sus amos terrenales, vemos en el contexto que estaba referido a esclavos, sin embargo ahora no tenemos esclavos, tenemos personas trabajadoras, que sirven a sus amos terrenales o jefes. Entonces este pasaje es aplicado al grupo de trabajadores.
 
 #### Siervos,
-
 ##### Quienes son los siervos?, los que sirven?, los que se encuentran en el área de servicio? Anteriormente conocidos como los esclavos,
 
 ##### Un esclavo no tenía ninguna forma de libertad, ni de expresión y además eran tratados duramente, sin derecho alguno, y si un esclavo no obedecía los amos podían torturarlos e incluso matarlos por que eran de su propiedad.
@@ -2375,7 +2291,6 @@ Siervos, obedezcan en todo a sus amos en la tierra, no para ser vistos, como los
 ##### Es interesante estos mandamientos son a creyentes, debido a que tienen que considerar su nueva identidad para poder cumplir estos mandatos, fuera de esto es algo pesado y frustrante hacerlo en sus propias fuerzas.
 
 #### obedezcan en todo a sus amos en la tierra,
-
 ##### Por que un esclavo creyente tendría que obedecer en todo a sus amos en la tierra?, pues es debido a quien son, basados en la nueva identidad que llevan, esto haría que un esclavo pueda obedecer de buena gana a sus amos terrenales sabiendo que el tiene un amo que es sobre todo. 
 
 ##### Que implica la obediencia?, pues implica en lo que es correcto, en ningún momento un amo terrenal está sobre Cristo o sobre la autoridad de la Palabra, sin embargo podrían obedecerles en todo lo que tenga que ver con el trabajo el cual realizan, no ser holgazanes y mostrar el carácter de Cristo tanto en su trabajo como en su vida.
@@ -2383,19 +2298,15 @@ Siervos, obedezcan en todo a sus amos en la tierra, no para ser vistos, como los
 ##### Los amos en la tierra para las personas trabajadoras serían sus jefes o inmediatos superiores, el punto de esto es hacerlo de buena manera, demostrando que están siendo completamente fieles y  dedicados a su trabajo y esto haría que los amos terrenales se pregunten por que?, sin embargo les muestra que esto es crucial para la vida por que puede ser un medio por el cual pueden abrir una puerta para el evangelio. por medio de una actitud de servicio en lo bueno que hacen, y esto es debido a contar con su nueva identidad en Cristo. 
 
 #### no para ser vistos,
-
 ##### Un trabajador, creyente puede trabajar solo para ser vistos, debido a que esto es lo que podría entenderse, de que vean el rendimiento de un trabajador y así agradar al amo terrenal, pero esto va mas allá, habla de estar completamente y honestamente trabajando aunque nadie los vea, por que? si podría descansar mientras nadie lo ve?, pues esto habla de la integridad por la cual estaría trabajando, sabiendo que no es que quiere agradar a los hombres por lo que ven, sino al señor por lo que el ve, en el corazón del trabajador creyente.
 
 #### como los que quieren agradar a los hombres,
-
 ##### Un creyente puede ser un trabajador que desea agradar a los hombres, y solo por eso cuando lo están mirando trabaja, sin embargo siempre que puede saca oportunidad para flojear mientras no lo ven, sin embargo vemos que esto es solo para agradar a los hombres, Este mandato anima a los creyentes a trabajar de una manera honrada y eficiente sin que tengan que estar mirándote por los hombres, sino sabiendo que hay un señor que mira de los cielos y que de el recibiremos la recompensa, por hacer lo que es correcto.
 
 #### sino con sinceridad de corazón,
-
 ##### La sinceridad del corazón nos habla de algo que es genuíno no adulterado o tramposo, sino que es algo que proviene del corazón del creyente obedecer a sus amos aqui en la tierra, no por obligación ni un peso, sino que es algo genuino que proviene de entender las verdades en las que se encuentra, por esto estos mandatos son para los creyentes, debido a que un incredulo no podría entender esta sinceridad de corazón, debido a que esto proviene de un corazón nuevo. una nueva identidad.
 
 #### temiendo al Señor.
-
 ##### Entendemos este pasaje que no es temiendo a sus amos terrenales, sino es con el temor al señor, sabiendo que el es el que recompensa a los que le buscan, esta obediencia solo proviene de un temor al señor, es un temor reverente al señor, no es un temor de miedo, entendiendo este temor del señor un creyente puede obedecer con sinceridad de corazón a su amo o jefe terrenal. 
 
 ### Colosenses 3:23 
@@ -2404,21 +2315,17 @@ Todo lo que hagan, háganlo de corazón, como para el Señor y no para los hombr
 ##### Este pasaje englobará y resumirá todo lo que hagan los creyentes, sea considerando a su señor en los cielos antes que a los hombres de la tierra.
 
 #### Todo lo que hagan,
-
 ##### Toda acción del creyente, todo en cuanto hagan, todas las consideraciones, en  cuanto la vida, el trabajo, la familia, las acciones, toda acción que realicen los creyentes, entiendan su nueva identidad y procedan con un temor reverente al señor.
 
 #### háganlo de corazón,
-
 ##### Una persona podría hacer cosas de mala gana, solo para ser vistos, o ser honrados por los hombres, sin embargo aquí se nos muestra que la acción que realicen sea de corazón, con una sinceridad que procede de lo mas profundo de nuestro interior, no por obligación, ni como una carga o mandato, sino algo completamente genuino, que salga de lo interior nuestro
 
 #### como para el Señor
-
 ##### En las cosas que hagamos nos muestra que podríamos hacerlas como para el señor mismo, que haríamos si el señor nos pediría una cosa en presencia física?, como lo serviríamos? o como trabajaríamos si el señor mismo nos pediría cosa alguna?
 
 ##### Esa es la manera que nos indica que podríamos estar haciendo cualquier cosa, como si fuera para el señor mismo, esta es la actitud que un creyente tendría que estar haciendo considerando su identidad y realidad que ya tiene, sea lo que haga, si trabaja, que lo haga como para el señor, si estudia, de la misma manera, si atiende personas igual, pues todo sea como si estaría sirviendo al señor mismo.
 
 #### y no para los hombres,
-
 ##### Un creyente puede estar trabajando o esforzándose únicamente por agradar a los hombres, sin embargo se nos muestra que el creyente podría estar trabajando y esforzándose como para el señor y no para los hombres, nos muestra que el único objetivo de estar sirviendo o trabajando o realizando cosa alguna no sea con la intención de ser visto únicamente por los hombres, sino que su intención sea sincera, que proceda de un temor reverente al señor, y estar trabajando como si estaría sirviendo al señor mismo en todo lo que haga, y esas son palabras de ánimo, consuelo, en lugares de trabajo donde no se respetan sus derechos, con diferentes problemas e incapacidades, pues se nos anima a no mirar las circunstancias ni a querer agradar a los hombres, sino al señor, y hacerlo de buena gana.
 
 ### Colosenses 3:24 
@@ -2427,7 +2334,6 @@ sabiendo que del Señor recibirán la recompensa de la herencia. Es a Cristo el 
 ##### Es interesante, generalmente los que buscan gloria o alabanza de los hombres están esperando una recompensa de ellos por lo que hacen, sin embargo la recompensa que recibirán los que trabajan como para el señor pues es en herencia.
 
 #### sabiendo que del Señor recibirán la recompensa de la herencia.
-
 ##### Es interesante entender que empezará sabiendo, Quiere que sepas que del señor nosotros los creyentes recibiremos una recompensa, no nos tenemos que preocupar por ser bien recompensados aquí en la tierra, nuestra recompensa viene del señor. 
 
 ##### Algo importante de entender que la recompensa es una herencia, generalmente la herencia no es una recompensa, sino algo que te pertenece por el linaje, pero una recompensa es algo que te ganas, como un salario, y se hace la diferencia entre salario y herencia, ahora vemos una similitud, donde la recompensa por hacer las cosas para el señor será una herencia que ya nos fue dada en Cristo, la herencia es algo que ya se nos ha provisto en Cristo, sin embargo ahora vemos una diferencia una herencia que se gana?, o una recompensa que ya nos ha sido dada por medio de la herencia?, cual es esa herencia?
@@ -2435,7 +2341,6 @@ sabiendo que del Señor recibirán la recompensa de la herencia. Es a Cristo el 
 ##### La herencia que cada creyente tiene es lo que El padre dará a sus hijos, una herencia allá en los cielos, una morada celestial y vida eterna, sin embargo se nos anima que al trabajar en todo lo que hagamos para el señor, o como si sirviéramos al señor, la recompensa de nuestra labor será la herencia de los santos que ya se nos ha sido dada.
 
 #### Es a Cristo el Señor a quien sirven.
-
 ##### A quien sirven en el trabajo en el que realizan, si bien la remuneración terrenal vendrá por manos humanas, sin embargo se anima a los creyentes trabajadores que a Cristo es el señor a quien sirven, por que? por que lo hacen para él, y de él recibirán una recompensa, esto es un hecho real, A Cristo es a quien servimos con todo lo que hagamos, es muy impactante saber que A Cristo es quien se está beneficiando de nuestro servicio. sea el oficio que tengamos pues a Cristo Jesús estamos sirviendo, y de él recibiremos la recompensa de la herencia.
 
 ### Colosenses 3:25
@@ -2444,11 +2349,9 @@ Porque el que procede con injusticia sufrirá las consecuencias del mal que ha c
 ##### entonces nos muestra que habrá muchos que procederán con injusticia, sin embargo nos mostrará que sufrirá las consecuencias de sus actos, sin importar si es creyente o incrédulo, esto es algo importante que conocemos, es importante recalcar debido a que podrían pensar muchos que pasa si un cristiano que sus pecados le son perdonado pues empieza a robar o matar?, pues la consecuencia de sus males, tambien será sin acepción de personas,  sufrirán el castigo justo que se merecen.
 
 #### Porque el que procede con injusticia sufrirá las consecuencias del mal que ha cometido,.
-
 ##### Quien es el que procede con injusticia?, puede ser cualquiera que haya cometido un acto injusto, sea quien sea, recibirá las consecuencias mismas de cada acto que haya cometido.
 
 #### y eso, sin acepción de personas.
-
 ##### En cuanto a la justicia, se nos muestra que no tiene acepción de personas, así que si un trabajador creyente esta holgazaneando en el trabajo, ser creyente no le da ninguna acepción o superioridad en cuanto a la justicia en el trabajo, sin embargo tampoco lo será ante la justicia humana, muchos podrían pensar que tienen un cierto privilegio por ser creyentes o algún favor como hermanos en cristo en cuanto a la justicia, pero se equivocan, sufrirán las consecuencias de cada acto malvado que hayan cometido.
 
 ## Colosenses 4:1 - Instrucciones para amos 
@@ -2459,17 +2362,14 @@ Amos, traten con justicia y equidad a sus siervos, sabiendo que ustedes también
 ##### Empezará hablar al grupo trabajador que tienen esclavos o siervos a su favor o responsabilidad. mostrándoles una perspectiva celestial, a amos que son creyentes les hablará que ellos tambien tienen un señor en el cielo.
 
 #### Amos,
-
 ##### Quienes eran los amos?, eran las personas que tenían bajo su poder a uno o varios esclavos que eran de su propiedad. en ningún momento el deseo del apóstol era cambiar el problema de la esclavitud, por que les diría, amos liberen a los esclavos por que eso no es de Dios, sin embargo les mostrará a estos amos una perspectiva superior a la humana, específicamente amos creyentes, que sepan cual es su realidad, tanto de ellos como los de sus siervos o esclavos.
 
 #### traten con justicia y equidad a sus siervos,
-
 ##### Generalmente el trato era en completa injusticia e inequidad, debido a que los esclavos o siervos no tenían derechos sobre sí, sino sus amos, y podrían hacer lo que ellos vean conveniente sobre sus esclavos, sin embargo aquí la instrucción es el trato a sus esclavos, no dice trátenlos bien o de mejor manera con respecto a lo que son, sino abarcará el trato de la justicia y equidad, la cual no proviene del estado, sino de entender cual es el estándar de Justicia ante Dios y el estándar de equidad delante de él, sabemos que no hay acepción de personas para con Dios, así que les muestra esta perspectiva con el fin de que el trato de los siervos sea en Justicia y equidad que han aprendido de Dios.
 
 ##### El deseo no era cambiar su posición de amos o esclavos, sino era que entendiendo el lugar donde se encontraban podrían reflejar la justicia superior y la equidad ante las personas, el cual viene por una comprensión de que todos ante Dios tienen una justicia y equidad humana.
 
 #### sabiendo que ustedes también tienen un Señor en el cielo.
-
 ##### Es importante que sepan estos amos creyentes que tambien tienen un señor en el cielo, el cual obra con justicia, y también hará justicia para los oprimidos, y su justicia es superior, es por eso muy importante entender cual era su situación delante de ellos.
 
 ##### Cada amo creyente entendía la situación de tener un Señor en el cielo, entendiendo que darían cuentas a uno superior, y este expondría con justicia cada obra cometida, y esto es importante entender debido a que considerando que tienen un amo terrenal, pues puedan actuar de manera con justicia y equidad, sabiendo que uno superior les tratará de la misma manera, con justicia y equidad sobre cada acto cometido.
@@ -2486,7 +2386,6 @@ Perseveren en la oración, velando en ella con acción de gracias.
 ##### Les mostrará como creyentes a mantenerse orando, con una actitud de agradecimiento.
 
 #### Perseveren en la oración,
-
 ##### El perseverar en la oración nos mostrará el enfoque por el cual estarían orando, el perseverar habla de manteniendose orando todo el tiempo, con su enfoque en no dejar de hacerlo
 
 ##### Algo en lo que los creyentes necesitan hacer es perseverar en las oraciones. o en la oración, por los santos.
@@ -2494,7 +2393,6 @@ Perseveren en la oración, velando en ella con acción de gracias.
 ##### Que significa perseverar en la oración?, nos habla de mantenerse haciendo algo, mantenerse orando a pesar de las circunstancias.
 
 #### velando en ella con acción de gracias.
-
 ##### Que significa velar?, habla de estar solícitamente cuidando de algo, en este caso estar solícitos, en guardar la oración.
 
 ##### Que significa con acción de gracias?, se podría decir siendo agradecido, sin embargo esto puede entenderse desde el punto de obligarse a dar gracias por todo, sin embargo el agradecimiento es algo que nace del creyente por todo lo que Dios le brinda en el transcurso de su caminar, uno puede estar orando, manteniendose orando, por los diferentes motivos de oración, sin embargo no estar agradecido por lo que el señor le ha provisto, y nos habla de estar atentos tambien a lo que el señor nos está brindando y estar siendo agradecido tambien por lo que nos dá, agradeciendo todo tambien lo que nos responde y nos muestra.
@@ -2507,23 +2405,19 @@ Oren al mismo tiempo también por nosotros, para que Dios nos abra una puerta pa
 ##### Pablo tambien pidió por Él y por los que con él estaban para que Dios les abra una puerta a la palabra, para mostrar el misterio de Cristo, Es muy importante estar pidiendo oraciones para que el señor sea abriéndonos una puerta al evangelio, para poder compartir esta buena noticia a todos.
 
 #### Oren al mismo tiempo también por nosotros,
-
 ##### Es importante que Pablo pidió oración por él y por los que con el estaban, por que?, acaso no sabía Dios lo que ellos necesitaban?, acaso Dios no oía las peticiones de Pablo?, acaso mientras mas oraciones tienen, mayor probabilidad de que pase?, Dios oye a la cantidad de personas?, acaso necesitamos cantidad de oraciones para que seamos atendidos?
 
 ##### Es importante como es el deseo de Pablo de compartirles a los creyentes su necesidad por la cual quiere que puedan estar orando, y que ellos tambien sean parte de su oración a Dios, sabiendo que Dios les escucha, y que tambien escucha a todos los creyentes. les invita a que sean parte, juntamente con Pablo Orando por Pablo.
 
 #### para que Dios nos abra una puerta para la palabra,
-
 ##### Es importante el orar con un propósito específico, Que sea Dios abriendo una Puerta para el evangelio, no es que Pablo se abriría una puerta, sino pidiendo a Dios, que sea el abriendo las puertas necesarias para compartir la palabra.
 
 ##### Es Dios el que está más interesado en que puedan compartir el evangelio.
 
 #### a fin de dar a conocer el misterio de Cristo,
-
 ##### Uno de los propósitos de abrir la puerta a la palabra es el de dar a conocer el misterio de Cristo, ya sea con creyentes o tambien con incrédulos, el objetivo sigue siendo el mismo, que todos puedan conocer el misterio de Cristo, que es Cristo en ustedes, la esperanza de Gloria, este misterio que estaba oculto ahora se ha dado a conocer, por medio de la predicación y enseñanza del evangelio.
 
 #### por el cual también he sido encarcelado,
-
 ##### El apóstol Pablo estaba encarcelado no por malhechor, sino por un mensaje, por compartir el evangelio de salvación es que se encontraba encarcelado. sufriendo como malhechor, por un mensaje que provenía de Dios, y esto es de mucho ánimo para los creyentes sabiendo que este mensaje es de parte de Dios, revelar a Cristo, puede llegar a causar encarcelamientos en sus hijos y creyentes. y Pablo no quería ocultar estos acontecimientos, por que el evangelio no es causa de vergüenza, sino es motivo de animarnos, sabiendo que el mundo rechazará y rechazó el mensaje del evangelio.
 
 ### Colosenses 4:4
@@ -2541,13 +2435,11 @@ Anden sabiamente para con los de afuera, aprovechando bien el tiempo.
 ##### Es interesante este andar sabio, únicamente proviene de entender la sabiduría que Dios da, esta sabiduría no es conforme al mundo ó mundana, esta sabiduría proviene de lo alto, y la sabiduría consiste en andar, por lo cual el creyente tendría que tomar en cuenta el consejo de Dios para su andar, y esto sería claramente reflejado con los del mundo, el mundo ó los de afuera verían evidentemente el andar en la sabiduría de Dios para el Creyente.
 
 #### Anden sabiamente para con los de afuera,
-
 ##### Primeramente como es un andar sabio?, que significa la sabiduría en el andar de una persona?
 
 ##### Aqui la instrucción es anden, eso significa aplicar la sabiduría que Dios da, a cada decisión que tomemos, solo entonces la sabiduría tomará forma, sin embargo si solo decimos andar sabiamente y no andamos, pues nos engañamos mintiendo o pretendiendo ser sabios, por eso dice aplica a tu corazón mi entendimiento. por que son instrucciones prácticas y sabias, resultando en lo que la sabiduría nos aconseja.
 
 #### aprovechando bien el tiempo.
-
 ##### Como uno puede aprovechar bien el tiempo?, pues hay sabiduría del mundo de como aprovechar el tiempo, sin embargo aquí no se refiere a esa manera como el mundo anda, sino se refiere a la sabiduría que proviene de Dios en el andar sabio y prudente.
 
 ##### Hoy en día este versículo se interpreta de muchas maneras, como si en la biblia no habría suficiente sabiduría inspirada por Dios para vivir, entendiendo de mala manera el creyente puede estar buscando diferentes métodos humanos para vivir sabiamente y así aprovechar bien el tiempo, sin embargo esta es una sabiduría terrenal, diabólica, la cual manifiesta su mala sabiduría, terminando en lo opuesto a la sabiduría, muchos terminan engañándose a ellos mismos.
@@ -2562,17 +2454,14 @@ Que su conversación sea siempre con gracia, sazonada como con sal, para que sep
 ##### Ahora empezará a comentar acerca de la conversación de los creyentes, como es que tiene que ser?, pues el objetivo es que la conversación de los creyentes sea comparada con la sal, El creyente podría tener una manera de conversación insípida, o con un diferente gusto, sin embargo les anima a los creyentes que se como con sal, hablando lo que es correcto a cada persona, y de la mejor manera apropiada.
 
 #### Que su conversación sea siempre con gracia,
-
 ##### La conversación de los creyentes el deseo es que sea siempre con Gracia, unas palabras de gracia reconfortan el corazón de los oyentes, sin embargo unas palabras carentes de gracia y favor llevan a la ruina. el deseo es que cada creyente pueda estar siempre hablando con una rica sazón, y con palabras de gracia para todos sus oyentes,
 
 ##### Cuales son las palabras de gracia?, pues tenemos el ejemplo en las escrituras de como responder debidamente, y con gracia, no existe un método o un protocolo para hablar, sin embargo una de las mejores muestras que nos da la escritura es considerar al otro mayor que a nosotros mismos, y entendiendo eso podríamos estar hablando con palabras sazonadas de gracia.
 
 #### sazonada como con sal,
-
 ##### Que implica una manera de hablar con sazón, habla de algo agradable, degustable, no a la lengua, sino al oír, que las palabras de los creyentes tengan un sabor rico y agradable, después de hablar, que el oyente pueda oír las palabras del creyente y degustar de un sabor especial el cual el mundo no puede dar, unas palabras con sazón a gracia. 
 
 #### para que sepan cómo deben responder a cada persona.
-
 ##### El como responder a cada persona, depende de cada persona, con las palabras podríamos ofender a muchos y animar a otros, sin embargo el como hablar, necesitamos sabiduría como hablar, debidamente, a cada persona, y lo mas importante necesitamos depender del espíritu santo en nuestra manera de hablar, para hablar apropiadamente a cada persona, y no solo hablar sino dar la respuesta adecuada. Necesitamos la sabiduría que proviene de lo alto.
 
 # Colosenses 4:7–18 - SALUDOS FINALES 
@@ -2589,29 +2478,24 @@ En cuanto a todos mis asuntos, les informará Tíquico, nuestro amado hermano, f
 ##### El apóstol Pablo estaba consiente que tenía muchos asuntos personales más que quería comunicarles, sin embargo estos asuntos les informaría Tíquico,  un hermano amado y fiel ministro en el señor.
 
 #### En cuanto a todos mis asuntos,
-
 ##### Cuales asuntos? el apóstol Pablo tenía muchos asuntos que comunicarles, quizá eran de motivos personales, o económicos, o de la vida diaria, que se sho, sin embargo de que tenía mas cosas que decirles, tenía, y no quería que esta carta sea para comunicarles sus asuntos personales, aunque quizá ellos esperaban escucharle todos los asuntos de Pablo. Y Pablo se preocupa y les envía a Tíquico quien se encargo de entender y conocer todos los asuntos personales de Pablo quería comunicar a los Colosenses.
 
 #### les informará Tíquico,
-
 ##### Tíquico, era un hermano el cual se ocuparía de informarles presencialmente todos los asuntos personales de Pablo que no colocó en la carta. 
 
 ##### Que es un informante, alguien que les reportaría cada situación que Pablo estaría atravesando no solo de él, sino del discipulado y de la iglesia en general.
 
 #### nuestro amado hermano,
-
 ##### Es importante conocer que Tíquico era un hermano en el señor, nos quiere decir que era un creyente, el cual los colosenses conocían bien, 
 
 ##### Es interesante el amor que llevaban en común en relación a este hermano, se sentía el amor de Pablo hacia Tíquico, y también era amado por los creyentes Colosenses.
 
 #### fiel ministro
-
 ##### Que significa que era fiel?, nos muestra que era un creyente no solo amado, sino alguien fiel en el servicio en el señor, alguien de mucha confianza en el cual los creyentes habían confiado, y quizá tambien habían sido enseñados por el.
 
 ##### El ministrar de la palabra de Dios, conlleva mucha confianza en el señor, debido a que cada creyente que se dedica a enseñar la escritura, necesita mucha dependencia en el señor y mucha madurez para poder entender la verdad y compartirla entre hermanos en la fe.
 
 #### y consiervo en el Señor.
-
 ##### Quien es un consiervo?, Cual es la diferencia entre un siervo y un consiervo?, es alguien que tiene el mismo señor, un consiervo es aquel que tienen el mismo señor, un colega, un compañero de trabajo, un compañero de servicio.
 
 ##### Este hermano en el señor era alguien que tenía el mismo señor, o estaba sirviendo al mismo amo que Pablo. no era ni pablo superior ni Tíquico, ambos tenían el mismo rango de siervos y eran colegas en la labor de servicio que se encontraban realizando.
@@ -2624,15 +2508,12 @@ Porque precisamente para esto lo he enviado a ustedes, para que sepan de nuestra
 ##### El apóstol Pablo envió con un propósito a Tíquico, y este era el propósito específico por el cual había sido enviado por Pablo, a los creyentes colosenses, para que conozcan las circunstancias en las que se encontraba, y tambien sea un consuelo para los creyentes.
 
 #### Porque precisamente para esto lo he enviado a ustedes,
-
 ##### Es importante el propósito por el cual había enviado a Tíquico, quería informarles sobre muchas cosas a los hermanos creyentes colosenses, y objetivamente fue enviado Tíquico con un propósito para los creyentes colosenses.
 
 #### para que sepan de nuestras circunstancias
-
 ##### Uno de los propósitos por el cual había sido enviado Tíquico era para que sepan en que circunstancias se encuentra Pablo y los que con él están, es importante que ellos conozcan la situación en la que se encuentran debido a que apreciaban y amaban mucho a Pablo en la fe, y viceversa, es muy lindo entender el amor que tenían los creyentes hacia Pablo que Pablo toma la iniciativa de mandarles a Tíquico para informarles acerca de su situación y ministerio.
 
 #### y que conforte sus corazones;
-
 ##### Este fiel hermano también les confortaría sus corazones, podrían estar desconsolados sabiendo que Pablo se encuentra en prisiones y sufriendo por el evangelio, hasta incluso desanimarse en cuanto a la fe, y las circunstancias adversas por las cuales estaban pasando, sin embargo, Pablo se toma el tiempo de encargar a Tíquico que conforte sus corazones, haciéndoles saber que tienen un propósito sus prisiones y les anime en la fe a los creyentes colosenses.
 
 ### Colosenses 4:9 
@@ -2641,25 +2522,20 @@ y con él a Onésimo, fiel y amado hermano, que es uno de ustedes. Ellos les inf
 ##### Tíquico no iría solo a visitarlos, sino con él a otro hermano colaborador, que tambien iría a informarles acerca de la situación que estaban sucediendo.
 
 #### y con él a Onésimo,
-
 ##### Juntamente con Tíquico iría Onésimo, un dato importante que fueron enviados de a 2, nunca solos, es interesante esto por que es un modelo bíblico el ir acompañado de un compañero a la batalla o a la lucha.
 
 ##### Así como el señor los envió de 2 en 2 así tambien fue enviado Tíquico y Onésimo hacia los Colosenses. quizá ellos levarían esta carta.
 
 #### fiel
-
 ##### Un hermano que es fiel en el señor, es importante considerarlo para escucharlo, sabiendo que no adulterará el mensaje, que está llevando, es importante como Pablo consideraba a estos dos hermanos en la fe como fieles en el señor
 
 #### y amado hermano,
-
 ##### Es importante entender que es un hermano al cual se consideraba amado en el señor, era alguien fiel y apreciado en Cristo Jesús, tanto de Pablo, como tambien de los colosenses.
 
 #### que es uno de ustedes.
-
 ##### Onésimo era de Colosas, es importante entender que venía de una de sus iglesias, era alguien que participaba con ellos, y lo conocían bien los creyentes colosenses.
 
 #### Ellos les informarán acerca de todo lo que aquí pasa.
-
 ##### Tanto Onésimo como Tíquico les darían un informe completo y fidedigno de las circunstancias en las que Pablo y los discípulos que con él estaban se encontraban, todos los asuntos en cuanto a sus asuntos personales, les informarían, es interesante que no quiso escribir todos esos asuntos en esta carta, sino mejor que sean informados por dos creyentes fieles en el señor, Podría haber hecho un informe detallado en una carta hablándoles acerca de todo lo que estaba sucediendo, pero decidió que los informantes sean estos dos creyentes fieles en cuanto a la circunstancias que estaban atravesando.
 
 ## Colosenses 4:10–11 - Saludos de colaboradores cercanos 
@@ -2672,7 +2548,6 @@ Aristarco, mi compañero de prisión, les envía saludos. También Marcos, el pr
 ##### Ahora el apóstol Pablo mostrará a un compañero que les envía saludos, y marcos, aquel que conocían y que volvería a verlos.
 
 #### Aristarco,
-
 ##### Quien era aristarco?, por que estaba en prisión? estaba por predicar el evangelio? o por algún delito?
 
 #### mi compañero de prisión, les envía saludos
@@ -2680,15 +2555,12 @@ Aristarco, mi compañero de prisión, les envía saludos. También Marcos, el pr
 ##### Aristarco se encontraba en prisión junto con pablo, ambos estaban en la prisión, y Aristarco le acompañaba, el quiso enviar saludos a los de Colosas desde la cárcel, vemos que deseaba enviarles saludos a los que Pablo estaba escribiendo, posiblemente conversaban con pablo con referencia a esta carta y los planes que tenía.
 
 #### También Marcos,
-
 ##### Tambien vemos que enviaban saludos Marcos, no se sabe si estaba encarcelado o libre, pero podemos ver que estaba tambien deseoso de enviar saludos a la iglesia de los colosenses.
 
 #### el primo de Bernabé,
-
 ##### Pablo describe mejor a Marcos, como el primo de Bernabé, es interesante que Pablo habla de manera específica a las personas con las que el estaba, posiblemente para enfatizar a la persona y no confundirse con otra.
 
 #### (acerca del cual ustedes recibieron instrucciones. Si va a verlos, recíbanlo bien).
-
 ##### Es interesante que recibieron los creyentes colosenses instrucciones de Marcos, quizá hayan sido fuertes o no, pero vemos que probablemente no querían recibirlo de buena manera, sin embargo Pablo se encarga de encargarles que le reciban bien, debido a que posiblemente conocía sus instrucciones que les dio, y estaba en acuerdo con marcos.
 
 ##### Marcos probablemente quería ir a verlos pronto, a verificar si habían cumplido sus instrucciones.
@@ -2699,15 +2571,12 @@ También Jesús, llamado Justo. Estos son los únicos colaboradores conmigo en e
 ##### Vemos que había un hermano que se llamaba Jesús que tambien envía sus saludos, vemos que eran estos 3 colaboradores judíos, y habían apoyado en muchas maneras a Pablo.
 
 #### También Jesús, llamado Justo
-
 ##### Vemos que es de mucha importancia hablar sobre sus colaboradores Pablo, y vemos tambien a Jesús mandando saludos a los creyentes de Colosas, este Jesús era apodado como Justo, es interesante este apodo, podría ser una diferenciación entre diferentes tipos de Jesús,
 
 #### Estos son los únicos colaboradores
-
 ##### Pablo les muestra que estos 3 personas se encontraban colaborando a Pablo en la labor del evangelio, muchos podrían pensar que Pablo tenía muchos colaboradores, pero hace el énfasis, mis únicos, haciendo mención que solo ellos le colaboraban.
 
 #### conmigo en el reino de Dios que son de la circuncisión,
-
 ##### Estos colaboradores estaban trabajando con Pablo a favor y progreso, del reino de Dios, que quiere decir en la obra que el señor esta haciendo, ellos se encontraban anunciando el misterio de Cristo a judíos y a Gentiles, por eso muestra que el reino de Dios era prometido a los judíos, sin embargo ahora los gentiles se beneficiarían del reino de Dios prometido a Israel.
 
 ##### Es interesante entender que estos 3 eran circuncidados, eran parte del Pueblo Israelita, posiblemente cada uno con sus linajes y tradiciones judaicas, sin embargo comprendieron que el mesías prometido a Israel había llegado, y ellos se encontraban anunciando las buenas noticias de que tenían un Mesías vivo.
@@ -2715,7 +2584,6 @@ También Jesús, llamado Justo. Estos son los únicos colaboradores conmigo en e
 ##### Es interesante pensar por que no habían gentiles apoyando a Pablo? no se sabe muy bien.
 
 #### y ellos han resultado ser un estímulo para mí.
-
 ##### Es interesante ver que estos 3 hombres judíos habían animado a Pablo en los momentos difíciles que estaba atravesando, posiblemente pensamos que Pablo era un superhombre, sin embargo vemos la debilidad de Pablo y la fragilidad humana en las circunstancias mas difíciles. sin embargo tenía el apoyo y estímulo de seguir luchando a favor del reino de Dios tanto para los judíos como para los gentiles. y posiblemente le animaban con una comprensión mas amplia de las escrituras desde la perspectiva judía, hacia todo el mundo por medio de la predicación del reino de Dios. primeramente para los judíos y tambien para los gentiles.
 
 ## Colosenses 4:12–13 - Testimonio sobre Epafras 
@@ -2728,37 +2596,29 @@ Epafras, que es uno de ustedes, siervo de Jesucristo, les envía saludos, siempr
 ##### Es interesante que aqui Epafras no es mencionado como un creyente circuncidado, posiblemente era gentil, y fue discipulado por Pablo ú otra persona pero se encargó de llevar el evangelio a los creyentes de Colosas.
 
 #### Epafras,
-
 ##### Volverá a mencionar a un hermano en Cristo que ya conocían, a Epafras. el que les llevó el evangelio y les enseñó a los creyentes colosenses.
 
 ##### Posiblemente un creyente gentil
 
 #### que es uno de ustedes,
-
 ##### Epafras era un creyente que vivía en Colosas, tambien, y posiblemente hacía viajes y les llevó el evangelio en uno de esos viajes.
 
 #### siervo de Jesucristo,
-
 ##### Es interesante que a quien estaba sirviendo Epafras era a Jesucristo, el no estaba sirviendo a Pablo o alguna persona, el estaba sirviendo a Jesucristo en su amor, y predicación del evangelio y enseñanza.
 
 #### les envía saludos,
-
 ##### Epafras estaba con Pablo, al momento de escribir esta carta, sin embargo el desea intensamente mandarles saludos a los creyentes colosenses, haciéndoles saber que estaba con Pablo, quizá pronto volvería a Colosas.
 
 #### siempre esforzándose intensamente a favor de ustedes en sus oraciones,
-
 ##### Es interesante mencionar esto en Pablo de Epafras, que el se esfuerza en sus oraciones de manera intensiva, realmente estaba preocupado por los creyentes colosenses, y oraba intensamente por ellos.
 
 #### para que estén firmes,
-
 ##### Como un creyente podría estar firme?, pues es en base a estar cimentado en la escritura, y esto es lo que Epafras oraba constante e intensamente por los colosenses que puedan seguir creciendo y arraigándose en la fe.
 
 #### perfectos
-
 ##### Como un creyente puede llegar a ser perfecto?, pues habla de llegar a ser perfeccionado, nos muestra un camino de madurez, el objetivo por el que estaba orando intensamente es por que deseaba que todos los creyentes lleguen hacia la madurez espiritual y ser perfectos delante de Cristo.
 
 #### y completamente seguros en toda la voluntad de Dios.
-
 ##### El deseo es que estén completamente seguros en cuanto a la voluntad completa de Dios para la vida de los creyentes, Dios no quiere que los creyentes estén inseguros, tanto de su salvación como de su santificación, el quiere que los creyentes estén completamente seguros, no solo de un poco de la voluntad de Dios, sino de absolutamente toda la voluntad de Dios que nos ha sido revelada en las escrituras, Dios quiere que conozcamos toda su voluntad, el no nos ha retenido nada, sino quiere que sepamos absolutamente todo lo que Dios desea.
 
 ### Colosenses 4:13
@@ -2767,15 +2627,12 @@ Porque de él soy testigo de que tiene profundo interés por ustedes y por los q
 ##### Pablo es testigo del interés de Epafras por sus hermanos de Colosas, y lo escribe enfatizando que el constantemente se encuentra orando por ellos.
 
 #### Porque de él soy testigo de que tiene profundo interés por ustedes
-
 ##### Pablo daba testimonio de que Epafras tenía un interés no ligero por los creyentes en Colosas, se preocupaba en sobremanera y su interés era bueno, en el señor el oraba mucho por los creyentes colosenses.
 
 ####  y por los que están en Laodicea
-
 ##### No solo oraba por los colosenses, sino tambien se preocupaba por los creyentes de Laodicea, creyentes que habían recibido el evangelio y habían creído, y estaban creciendo.
 
 ####  y en Hierápolis.
-
 ##### Los creyentes de Hierápolis tambien estaban en el profundo interés de Epafras, posiblemente el había estado ahí o conocido a los de hierápolis y laodicea para tener un profundo interés por ellos en el señor.
 
 ## Colosenses 4:14–15 - Saludos adicionales 
@@ -2786,21 +2643,17 @@ Lucas, el médico amado, les envía saludos, y también Demas.
 ##### Lucas tambien les mandaba saludos a los creyentes de Colosas, alguien conocido por ellos, y Demas
 
 #### Lucas,
-
 ##### Quien era lucas para los Colosenses,? le conocían? estaba ahí?, por que les enviaría saludos? tenía algún conocido ahí?
 
 ##### Posiblemente un gentil.
 
 #### el médico amado,
-
 ##### Es interesante Lucas es conocido por su oficio, un médico, alguien que sana a los enfermos, posiblemente alguien muy querido entre los creyentes para tener el sobrenombre de médico amado, un creyente que usó su profesión y oficio ofreciendo amor a los creyentes. muy bonito,
 
 #### les envía saludos,
-
 ##### Lucas, alguien que quizá posiblemente conocían les enviaba saludos a los creyentes en Colosas.
 
 #### y también Demas.
-
 ##### Ahora aparece Demas aqui, no se dice mas de él pero creo que lo traiciona o abandona a pablo amando más el mundo. pero en este momento estaba con Pablo y les envía saludos.
 
 ##### Posiblemente un creyente gentil.
@@ -2811,15 +2664,12 @@ Saluden a los hermanos que están en Laodicea, también a Ninfas y a la iglesia 
 ##### Pablo manda saludos a los de laodicea, y a ninfas.
 
 #### Saluden a los hermanos que están en Laodicea,
-
 ##### Una instrucción personal de Pablo para los Colosenses era que saluden a los hermanos creyentes de Laodicea, posiblemente estaba cerquita y se veían seguido. les dice que Pablo tambien les manda saludos a ellos.
 
 #### también a Ninfas
-
 ##### Es interesante que Pablo se tome el tiempo para saludar a un hermano, a ninfas, probablemente le conocía y llegó a su casa cuando pasó por Laodicea.
 
 #### y a la iglesia que está en su casa.
-
 ##### Es importante la aclaración de Pablo que hay una iglesia que se reúne en su casa, generalmente las iglesias antes no tenían locales, y sencillamente se reunían en casas, y por eso es que Pablo les saluda a los que se reúnen en su casa de ninfas, es muy importante esta aclaración que pablo conozca a ninfas y a la iglesia de su casa. Probablemente paso un tiempo con ellos conociendo a la iglesia de cerca.
 
 ## Colosenses 4:16–17 - Instrucciones finales 
@@ -2830,15 +2680,12 @@ Cuando esta carta se haya leído entre ustedes, háganla leer también en la igl
 ##### Es interesante que esta carta pasaría a ser conocida por los de laodicea, y tambien quería Pablo que la carta que fue enviada a los laodicenses fuera leída por los de Colosas, probablemente se verían seguido o era cerquita. para que estén como ciudades hermanas.
 
 #### Cuando esta carta se haya leído entre ustedes,
-
 ##### El deseo de Pablo era que esta carta sea leída en su totalidad en la iglesia de los colosenses, que sea leída y entendida el mensaje de ánimo y esperanza que tiene, es de mucho valor que tenía el propósito no solo de ser para los de Colosas.
 
 #### háganla leer también en la iglesia de los laodicenses.
-
 ##### El propósito no era que esta sea una carta de ánimo solo para los de Colosas, sino tambien sería de ánimo y esperanza para los Colosenses, como lo es para nosotros.
 
 #### Ustedes, por su parte, lean la carta que viene de Laodicea.
-
 ##### Es interesante poder ver en las escrituras que había una carta que venía de Laodicea, es interesante que no se sabe cual es, como nombre en la biblia no lo tenemos, no se sabe si es una carta que fue inspirada por el espíritu santo, ú está en el canon bíblico, investigar.
 
 ##### Probablemente sea la carta de los efesios.
@@ -2849,11 +2696,9 @@ Díganle a Arquipo: Cuida el ministerio que has recibido del Señor, para que lo
 ##### Es interesante que Pablo tambien se preocupa por Arquipo, y lo que había recibido del señor
 
 #### Díganle a Arquipo:
-
 ##### Es interesante Pablo dice a Toda la iglesia, que le digan, que le hagan recuerdo lo que a Arquipo se le había recibido del señor, es interesante que aqui todos los creyentes son animados a participar en este hacerle recuerdo, por que? no se sabe, quizá se estaba olvidando lo que había recibido del señor, o quizá se estaba haciendo al loco.
 
 #### Cuida el ministerio que has recibido del Señor,
-
 ##### Que significa cuidar?, Tiene algún significado cuidar lo que te ha sido encomendado?
 
 ##### Se recibe el ministerio de parte de Dios?, es un ministerio que recibió del señor?
@@ -2861,7 +2706,6 @@ Díganle a Arquipo: Cuida el ministerio que has recibido del Señor, para que lo
 ##### Cómo es que se recibe un ministerio del señor? por que tenía que cuidarlo. no dejarlo pasar.
 
 #### para que lo cumplas.
-
 ##### Es interesante que el objetivo no solo era cuidarlo, sino cumplirlo lo que había recibido del señor, probablemente no estaba cumpliendo lo que había recibido, y tenía que ser recordado por la iglesia de los Colosenses, constantemente, diciendo así dijo pablo, cumple tu ministerio.
 
 ## Colosenses 4:18 - Saludo personal y cierre 
@@ -2872,23 +2716,18 @@ Yo, Pablo, escribo este saludo con mi propia mano. Acuérdense de mis cadenas. L
 ##### Las últimas Palabras de Pablo despidiéndose con la simpatía y el mismo mensaje que estaba con Pablo, la gracia
 
 #### Yo,
-
 ##### Es enfático esta palabra, enfatizando que nadie mas está escribiendo esta carta.
 
 #### Pablo,
-
 ##### Vemos a Pablo hacer esta aclaración con su nombre, por que quizá ya habían muchas falsas cartas de pablo circulando, y ellos se podían dar cuenta por su manera de escribir y de anunciarles a Cristo, y es por eso que como conocían a Pablo, sabían cual era su manera de iniciar la carta y de despedirse.
 
 #### escribo este saludo con mi propia mano.
-
 ##### Es interesante que escribió este saludo, no se si escribió toda la carta con su mano, o fue dictada a un escribano, sin embargo vemos que hace el énfasis en este saludo, con su propia mano, quizá escribía de una manera peculiar el cual los de Colosas podrían decir, este si es pablo, mira como es su escritura de su saludo jaja.
 
 #### Acuérdense de mis cadenas.
-
 ##### Vemos algo importante que los creyentes colosenses podrían estar continuamente acordándose, de sus cadenas, de la prisión, del martirio por causa de la predicación del evangelio, que para él no eran motivo de vergüenza, sino motivo de fortaleza y ánimo para todos los creyentes, ver los padecimientos por causa de Cristo. que quizá muchos creyentes tenían vergüenza acerca del arresto de Pablo pensando que habría hecho alguna cosa como delincuente.
 
 #### La gracia sea con ustedes.
-
 ##### el sombrerazo ó la uñeta
 
 ##### Las últimas palabras de despedida hace un énfasis en la gracia que el proclamaba, por el cual había sido salvo, por el cual era santificado, por el cual tenía la esperanza de la vida eterna, la gracia la cual había recibido por medio de Cristo, la gracia por el cual estaba preso y sufría como malhechos, la gracia que nos acercó al Padre por medio de Creer en un mensaje de salvación, el Evangelio.
