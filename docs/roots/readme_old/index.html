@@ -1,0 +1,785 @@
+<link rel="stylesheet" href="/css/roots.css">
+<link rel="stylesheet" href="/css/custom.css">
+<h1>ROOTS Verb &#43; Connector Alignment Specification</h1>
+
+
+<div class="search-bar-fixed">
+  <input 
+    type="text" 
+    id="searchBox" 
+    placeholder="Buscar: col 1:1, romanos, fe..."
+  />
+  <ul id="results"></ul>
+</div>
+
+<div class="roots-page-content">
+  <h1>ROOTS Verb &#43; Connector Alignment Specification</h1>
+
+  <hr>
+
+  <div class="roots-content">
+    <h1 id="roots-verb--connector-alignment-specification">ROOTS VERB + CONNECTOR ALIGNMENT SPECIFICATION</h1>
+<p>(SBLGNT + RMAC + NBLA)</p>
+<hr>
+<h2 id="purpose">PURPOSE</h2>
+<p>This document defines the rules for creating a <strong>fully consistent, auditable dataset</strong> that maps:</p>
+<ul>
+<li>Greek text (<strong>SBLGNT</strong>)</li>
+<li>Morphology (<strong>RMAC</strong>)</li>
+<li>Spanish text (<strong>NBLA</strong>)</li>
+</ul>
+<p>The dataset must be:</p>
+<ul>
+<li>✔ mechanically reproducible</li>
+<li>✔ text-bound (Greek-driven)</li>
+<li>✔ structurally reliable for ROOTS</li>
+</ul>
+<hr>
+<h2 id="core-principle">CORE PRINCIPLE</h2>
+<p>👉 <strong>The dataset is not created — it is extracted</strong></p>
+<p>👉 <strong>If it is not in the Greek, it does not exist</strong></p>
+<p>👉 <strong>The dataset exposes structure — it does not interpret it</strong></p>
+<hr>
+<h2 id="absolute-prohibitions">ABSOLUTE PROHIBITIONS</h2>
+<ul>
+<li>❌ No implied verbs</li>
+<li>❌ No supplied copulas (e.g., ἐστίν)</li>
+<li>❌ No reconstruction</li>
+<li>❌ No normalization before entry</li>
+<li>❌ No inference from Spanish</li>
+<li>❌ No structural decisions (clauses, connections, roles)</li>
+<li>❌ No connector classification</li>
+</ul>
+<hr>
+<h2 id="source-requirement">SOURCE REQUIREMENT</h2>
+<h3 id="greek-source-mandatory">Greek Source (MANDATORY)</h3>
+<p>SBLGNT/text/{book}.txt</p>
+<p>This is the <strong>only authoritative Greek source</strong></p>
+<hr>
+<h3 id="source-priority">Source Priority</h3>
+<ol>
+<li>Greek (SBLGNT) → absolute authority</li>
+<li>RMAC → classification only</li>
+<li>NBLA → alignment only (never drives decisions)</li>
+</ol>
+<hr>
+<h2 id="extraction-workflow">EXTRACTION WORKFLOW</h2>
+<p>SBLGNT → extract → assign RMAC → align to NBLA → validate</p>
+<p>NOT:</p>
+<p>Spanish → reasoning → generate Greek</p>
+<hr>
+<h2 id="output-format-locked">OUTPUT FORMAT (LOCKED)</h2>
+<p>Each verse must follow this structure:</p>
+<p>Book Chapter:Verse {#id}</p>
+<p>[Greek verse exactly from SBLGNT]
+[NBLA verse in brackets]</p>
+<pre tabindex="0"><code>- Greek (RMAC) ==Spanish== [F]
+- Greek (RMAC) Spanish [NF]
+   - Greek → Spanish
+</code></pre><hr>
+<h2 id="bullet-system-mandatory">BULLET SYSTEM (MANDATORY)</h2>
+<h3 id="verb-lines">Verb Lines</h3>
+<p>Greek (RMAC) ==Spanish== [F]
+Greek (RMAC) Spanish [NF]</p>
+<h3 id="connector-lines">Connector Lines</h3>
+<p>Greek → Spanish</p>
+<hr>
+<h2 id="rules">RULES</h2>
+<ul>
+<li><code>-</code> is used for <strong>all extracted elements</strong></li>
+<li>No alternative symbols allowed</li>
+<li>Connectors must NEVER include RMAC</li>
+<li>Connectors must NEVER include [F] or [NF]</li>
+<li>Connectors must NEVER include [c]</li>
+</ul>
+<hr>
+<h2 id="order-mandatory">ORDER (MANDATORY)</h2>
+<p>Each verse block must appear in this exact order:</p>
+<ol>
+<li>Header</li>
+<li>Greek verse line</li>
+<li>NBLA verse line (in brackets)</li>
+<li>Extracted lines</li>
+</ol>
+<hr>
+<h2 id="greek-verse-line">GREEK VERSE LINE</h2>
+<ul>
+<li>Must be copied exactly from SBLGNT</li>
+<li>No normalization</li>
+<li>No edits</li>
+<li>No reconstruction</li>
+</ul>
+<hr>
+<h2 id="nbla-verse-line">NBLA VERSE LINE</h2>
+<ul>
+<li>Must reflect NBLA wording</li>
+<li>Must appear inside <code>[ ]</code></li>
+<li>Serves as alignment reference only</li>
+</ul>
+<hr>
+<h2 id="greeknbla-alignment-critical">GREEK–NBLA ALIGNMENT (CRITICAL)</h2>
+<h3 id="core-principle-1">CORE PRINCIPLE</h3>
+<p>Greek determines structure.<br>
+NBLA reflects surface wording.</p>
+<p>When NBLA does not explicitly express a Greek element:</p>
+<p>👉 the element must still be represented.</p>
+<hr>
+<h3 id="missing-element-rule">MISSING ELEMENT RULE</h3>
+<p>If a Greek element (verb or connector) is not explicitly visible in NBLA:</p>
+<ul>
+<li>insert a <strong>minimal bracketed Spanish equivalent</strong></li>
+</ul>
+<hr>
+<h3 id="verbs-not-explicit-in-nbla">VERBS NOT EXPLICIT IN NBLA</h3>
+<h4 id="finite">Finite</h4>
+<p>ἐστίν (V-PAI-3S) ==[es]== [F]</p>
+<h4 id="non-finite">Non-finite</h4>
+<p>εἶναι (V-PAN) [ser] [NF]</p>
+<hr>
+<h3 id="connectors-not-explicit-in-nbla">CONNECTORS NOT EXPLICIT IN NBLA</h3>
+<p>ἀλλά → [pero]</p>
+<hr>
+<h3 id="constraints">CONSTRAINTS</h3>
+<ul>
+<li>Must be minimal</li>
+<li>Must not expand meaning</li>
+<li>Must not alter NBLA wording</li>
+<li>Must only reflect the presence of the Greek element</li>
+</ul>
+<hr>
+<h3 id="absolute-rule">ABSOLUTE RULE</h3>
+<p>Do NOT:</p>
+<ul>
+<li>omit the element</li>
+<li>interpret meaning</li>
+<li>restructure the sentence</li>
+</ul>
+<p>Always:</p>
+<p>✔ preserve Greek structure<br>
+✔ preserve NBLA surface<br>
+✔ represent missing elements with brackets</p>
+<hr>
+<h2 id="placement-of-supplied-elements-mandatory">PLACEMENT OF SUPPLIED ELEMENTS (MANDATORY)</h2>
+<h3 id="core-rule">CORE RULE</h3>
+<p>A supplied bracketed element must be placed at the closest point where its Greek counterpart functions structurally.</p>
+<hr>
+<h3 id="connector-placement">CONNECTOR PLACEMENT</h3>
+<ul>
+<li>Place the connector at the beginning of the clause it links</li>
+<li>Position it immediately before the clause’s finite verb</li>
+</ul>
+<hr>
+<h3 id="verb-placement">VERB PLACEMENT</h3>
+<ul>
+<li>Place the verb at the position required for the clause to exist in Spanish</li>
+<li>Typically:
+<ul>
+<li>after the subject</li>
+<li>before the predicate or complement</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 id="consistency-rule">CONSISTENCY RULE</h3>
+<ul>
+<li>The same Greek structure must produce the same placement pattern</li>
+<li>No variation is allowed between entries</li>
+</ul>
+<hr>
+<h3 id="absolute-prohibitions-1">ABSOLUTE PROHIBITIONS</h3>
+<p>Do NOT:</p>
+<ul>
+<li>place based on stylistic preference</li>
+<li>adjust for readability</li>
+<li>move elements freely</li>
+<li>insert more than one option</li>
+</ul>
+<hr>
+<h2 id="verb-identification">VERB IDENTIFICATION</h2>
+<h3 id="finite-verbs-f">Finite Verbs <code>[F]</code></h3>
+<p>A verb is finite if it contains:</p>
+<ul>
+<li>person</li>
+<li>number</li>
+</ul>
+<p>Example:</p>
+<p>εἰσίν (V-PAI-3P) ==son== [F]</p>
+<hr>
+<h3 id="non-finite-verbs-nf">Non-Finite Verbs <code>[NF]</code></h3>
+<p>Includes:</p>
+<ul>
+<li>infinitives</li>
+<li>participles</li>
+<li>verbal adjectives</li>
+</ul>
+<p>Example:</p>
+<p>ὄντες (V-PAP-NPM) siendo [NF]</p>
+<hr>
+<h2 id="verb-rules">VERB RULES</h2>
+<ul>
+<li>Greek must match SBLGNT exactly</li>
+<li>RMAC is required</li>
+<li><code>[F]</code> or <code>[NF]</code> is required</li>
+<li>Only finite verbs use <code>== ==</code></li>
+<li>Non-finite verbs NEVER use <code>== ==</code></li>
+</ul>
+<hr>
+<h2 id="connector-extraction-critical">CONNECTOR EXTRACTION (CRITICAL)</h2>
+<h3 id="core-principle-2">CORE PRINCIPLE</h3>
+<p>👉 Connectors are extracted <strong>only from the Greek text</strong></p>
+<p>👉 Connectors are <strong>not interpreted or classified</strong></p>
+<hr>
+<h3 id="extraction-rule-mandatory">EXTRACTION RULE (MANDATORY)</h3>
+<p>A connector must be extracted if:</p>
+<ul>
+<li>it appears explicitly in the Greek text</li>
+</ul>
+<p>Do NOT:</p>
+<ul>
+<li>filter during extraction</li>
+<li>evaluate function</li>
+<li>classify</li>
+<li>determine clause relationships</li>
+</ul>
+<p>👉 If it is in the Greek → it must be listed</p>
+<hr>
+<h3 id="connector-definition-mandatory">CONNECTOR DEFINITION (MANDATORY)</h3>
+<p>Not every Greek word is a connector.</p>
+<p>Only Greek words that function as <strong>clause-level connective elements</strong> are extracted as connector lines.</p>
+<p>This includes words that operate between clauses (e.g., γάρ, ἀλλά).</p>
+<p>This does NOT include:</p>
+<ul>
+<li>negation particles (οὐ, μή)</li>
+<li>adverbs (e.g., οὔπω)</li>
+<li>modifiers of meaning</li>
+</ul>
+<p>👉 If a word does not function at the clause level, it is NOT listed as a connector.</p>
+<h3 id="καί-clarification-mandatory">καί CLARIFICATION (MANDATORY)</h3>
+<p>καί is not automatically included as a connector.</p>
+<p>It is listed only if it establishes a structural relationship between two clauses defined by finite verbs.</p>
+<p>If καί joins words, phrases, modifiers, participles, or other non-clausal elements, it is excluded.</p>
+<p>Only clause-linking uses of καί are listed.</p>
+<h3 id="structural-connector-test-final">STRUCTURAL CONNECTOR TEST (FINAL)</h3>
+<p>A word is included as a connector only if it can be placed between two clauses, each containing a finite verb, such that the clause structure remains intact.</p>
+<p>Procedure:</p>
+<ol>
+<li>Identify finite verbs</li>
+<li>Identify clause boundaries based on those verbs</li>
+<li>Test whether the word can function between those clauses</li>
+</ol>
+<p>If the structure remains valid → include<br>
+If not → exclude</p>
+<h3 id="connector-line-format-locked">CONNECTOR LINE FORMAT (LOCKED)</h3>
+<p>Greek → Spanish</p>
+<hr>
+<h3 id="connector-display-rule-mandatory">CONNECTOR DISPLAY RULE (MANDATORY)</h3>
+<p>Connectors are displayed differently depending on whether they are explicit in NBLA.</p>
+<p>Each connector line must represent exactly one Greek connector.</p>
+<h4 id="case-1--explicit-in-nbla">Case 1 — Explicit in NBLA</h4>
+<p>If the connector is explicitly present in NBLA:</p>
+<ul>
+<li>display only the connector in parentheses</li>
+</ul>
+<p>Example:</p>
+<p>γάρ → (porque)</p>
+<ul>
+<li>Do not include additional NBLA text</li>
+<li>Do not repeat the clause</li>
+</ul>
+<hr>
+<h4 id="case-2--not-explicit-in-nbla">Case 2 — Not Explicit in NBLA</h4>
+<p>If the connector is not explicitly present in NBLA:</p>
+<ul>
+<li>display the connector in brackets</li>
+<li>include the NBLA clause it introduces</li>
+</ul>
+<p>Example:</p>
+<p>ἀλλʼ → [pero] ni aun ahora pueden</p>
+<ul>
+<li>The connector must be placed immediately before the clause</li>
+<li>The clause must be included to show placement</li>
+</ul>
+<h3 id="language-hierarchy-critical">LANGUAGE HIERARCHY (CRITICAL)</h3>
+<p>Greek → determines existence<br>
+Spanish → reflects alignment only</p>
+<ul>
+<li>Greek controls identification</li>
+<li>Spanish NEVER creates or replaces a connector</li>
+</ul>
+<hr>
+<h2 id="what-the-dataset-does-not-do">WHAT THE DATASET DOES NOT DO</h2>
+<p>The dataset does NOT:</p>
+<ul>
+<li>identify clauses</li>
+<li>determine relationships between clauses</li>
+<li>mark connectors as active</li>
+<li>assign [c]</li>
+<li>distinguish types of connectors</li>
+<li>interpret structure</li>
+</ul>
+<hr>
+<h2 id="how-roots-uses-this-data">HOW ROOTS USES THIS DATA</h2>
+<h3 id="paso-2--verbos-finitos">Paso 2 — Verbos finitos</h3>
+<ul>
+<li>Finite verbs define clauses</li>
+</ul>
+<hr>
+<h3 id="paso-3--cláusulas">Paso 3 — Cláusulas</h3>
+<ul>
+<li>One clause per finite verb</li>
+</ul>
+<hr>
+<h3 id="paso-4--conectores">Paso 4 — Conectores</h3>
+<ul>
+<li>Connectors are tested in the text</li>
+</ul>
+<p>A connector is marked as <strong>[c] only during analysis</strong>, if:</p>
+<ol>
+<li>Two finite verbs are present</li>
+<li>The word establishes a structural relationship between those verbs</li>
+</ol>
+<hr>
+<h2 id="final-principle">FINAL PRINCIPLE</h2>
+<blockquote>
+<p>The dataset contains no decisions.<br>
+All structure must be demonstrated from the text.</p>
+</blockquote>
+
+  </div>
+</div>
+
+<hr>
+
+
+<div class="roots-content">
+  <h1 id="roots-verb--connector-alignment-specification">ROOTS VERB + CONNECTOR ALIGNMENT SPECIFICATION</h1>
+<p>(SBLGNT + RMAC + NBLA)</p>
+<hr>
+<h2 id="purpose">PURPOSE</h2>
+<p>This document defines the rules for creating a <strong>fully consistent, auditable dataset</strong> that maps:</p>
+<ul>
+<li>Greek text (<strong>SBLGNT</strong>)</li>
+<li>Morphology (<strong>RMAC</strong>)</li>
+<li>Spanish text (<strong>NBLA</strong>)</li>
+</ul>
+<p>The dataset must be:</p>
+<ul>
+<li>✔ mechanically reproducible</li>
+<li>✔ text-bound (Greek-driven)</li>
+<li>✔ structurally reliable for ROOTS</li>
+</ul>
+<hr>
+<h2 id="core-principle">CORE PRINCIPLE</h2>
+<p>👉 <strong>The dataset is not created — it is extracted</strong></p>
+<p>👉 <strong>If it is not in the Greek, it does not exist</strong></p>
+<p>👉 <strong>The dataset exposes structure — it does not interpret it</strong></p>
+<hr>
+<h2 id="absolute-prohibitions">ABSOLUTE PROHIBITIONS</h2>
+<ul>
+<li>❌ No implied verbs</li>
+<li>❌ No supplied copulas (e.g., ἐστίν)</li>
+<li>❌ No reconstruction</li>
+<li>❌ No normalization before entry</li>
+<li>❌ No inference from Spanish</li>
+<li>❌ No structural decisions (clauses, connections, roles)</li>
+<li>❌ No connector classification</li>
+</ul>
+<hr>
+<h2 id="source-requirement">SOURCE REQUIREMENT</h2>
+<h3 id="greek-source-mandatory">Greek Source (MANDATORY)</h3>
+<p>SBLGNT/text/{book}.txt</p>
+<p>This is the <strong>only authoritative Greek source</strong></p>
+<hr>
+<h3 id="source-priority">Source Priority</h3>
+<ol>
+<li>Greek (SBLGNT) → absolute authority</li>
+<li>RMAC → classification only</li>
+<li>NBLA → alignment only (never drives decisions)</li>
+</ol>
+<hr>
+<h2 id="extraction-workflow">EXTRACTION WORKFLOW</h2>
+<p>SBLGNT → extract → assign RMAC → align to NBLA → validate</p>
+<p>NOT:</p>
+<p>Spanish → reasoning → generate Greek</p>
+<hr>
+<h2 id="output-format-locked">OUTPUT FORMAT (LOCKED)</h2>
+<p>Each verse must follow this structure:</p>
+<p>Book Chapter:Verse {#id}</p>
+<p>[Greek verse exactly from SBLGNT]
+[NBLA verse in brackets]</p>
+<pre tabindex="0"><code>- Greek (RMAC) ==Spanish== [F]
+- Greek (RMAC) Spanish [NF]
+   - Greek → Spanish
+</code></pre><hr>
+<h2 id="bullet-system-mandatory">BULLET SYSTEM (MANDATORY)</h2>
+<h3 id="verb-lines">Verb Lines</h3>
+<p>Greek (RMAC) ==Spanish== [F]
+Greek (RMAC) Spanish [NF]</p>
+<h3 id="connector-lines">Connector Lines</h3>
+<p>Greek → Spanish</p>
+<hr>
+<h2 id="rules">RULES</h2>
+<ul>
+<li><code>-</code> is used for <strong>all extracted elements</strong></li>
+<li>No alternative symbols allowed</li>
+<li>Connectors must NEVER include RMAC</li>
+<li>Connectors must NEVER include [F] or [NF]</li>
+<li>Connectors must NEVER include [c]</li>
+</ul>
+<hr>
+<h2 id="order-mandatory">ORDER (MANDATORY)</h2>
+<p>Each verse block must appear in this exact order:</p>
+<ol>
+<li>Header</li>
+<li>Greek verse line</li>
+<li>NBLA verse line (in brackets)</li>
+<li>Extracted lines</li>
+</ol>
+<hr>
+<h2 id="greek-verse-line">GREEK VERSE LINE</h2>
+<ul>
+<li>Must be copied exactly from SBLGNT</li>
+<li>No normalization</li>
+<li>No edits</li>
+<li>No reconstruction</li>
+</ul>
+<hr>
+<h2 id="nbla-verse-line">NBLA VERSE LINE</h2>
+<ul>
+<li>Must reflect NBLA wording</li>
+<li>Must appear inside <code>[ ]</code></li>
+<li>Serves as alignment reference only</li>
+</ul>
+<hr>
+<h2 id="greeknbla-alignment-critical">GREEK–NBLA ALIGNMENT (CRITICAL)</h2>
+<h3 id="core-principle-1">CORE PRINCIPLE</h3>
+<p>Greek determines structure.<br>
+NBLA reflects surface wording.</p>
+<p>When NBLA does not explicitly express a Greek element:</p>
+<p>👉 the element must still be represented.</p>
+<hr>
+<h3 id="missing-element-rule">MISSING ELEMENT RULE</h3>
+<p>If a Greek element (verb or connector) is not explicitly visible in NBLA:</p>
+<ul>
+<li>insert a <strong>minimal bracketed Spanish equivalent</strong></li>
+</ul>
+<hr>
+<h3 id="verbs-not-explicit-in-nbla">VERBS NOT EXPLICIT IN NBLA</h3>
+<h4 id="finite">Finite</h4>
+<p>ἐστίν (V-PAI-3S) ==[es]== [F]</p>
+<h4 id="non-finite">Non-finite</h4>
+<p>εἶναι (V-PAN) [ser] [NF]</p>
+<hr>
+<h3 id="connectors-not-explicit-in-nbla">CONNECTORS NOT EXPLICIT IN NBLA</h3>
+<p>ἀλλά → [pero]</p>
+<hr>
+<h3 id="constraints">CONSTRAINTS</h3>
+<ul>
+<li>Must be minimal</li>
+<li>Must not expand meaning</li>
+<li>Must not alter NBLA wording</li>
+<li>Must only reflect the presence of the Greek element</li>
+</ul>
+<hr>
+<h3 id="absolute-rule">ABSOLUTE RULE</h3>
+<p>Do NOT:</p>
+<ul>
+<li>omit the element</li>
+<li>interpret meaning</li>
+<li>restructure the sentence</li>
+</ul>
+<p>Always:</p>
+<p>✔ preserve Greek structure<br>
+✔ preserve NBLA surface<br>
+✔ represent missing elements with brackets</p>
+<hr>
+<h2 id="placement-of-supplied-elements-mandatory">PLACEMENT OF SUPPLIED ELEMENTS (MANDATORY)</h2>
+<h3 id="core-rule">CORE RULE</h3>
+<p>A supplied bracketed element must be placed at the closest point where its Greek counterpart functions structurally.</p>
+<hr>
+<h3 id="connector-placement">CONNECTOR PLACEMENT</h3>
+<ul>
+<li>Place the connector at the beginning of the clause it links</li>
+<li>Position it immediately before the clause’s finite verb</li>
+</ul>
+<hr>
+<h3 id="verb-placement">VERB PLACEMENT</h3>
+<ul>
+<li>Place the verb at the position required for the clause to exist in Spanish</li>
+<li>Typically:
+<ul>
+<li>after the subject</li>
+<li>before the predicate or complement</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 id="consistency-rule">CONSISTENCY RULE</h3>
+<ul>
+<li>The same Greek structure must produce the same placement pattern</li>
+<li>No variation is allowed between entries</li>
+</ul>
+<hr>
+<h3 id="absolute-prohibitions-1">ABSOLUTE PROHIBITIONS</h3>
+<p>Do NOT:</p>
+<ul>
+<li>place based on stylistic preference</li>
+<li>adjust for readability</li>
+<li>move elements freely</li>
+<li>insert more than one option</li>
+</ul>
+<hr>
+<h2 id="verb-identification">VERB IDENTIFICATION</h2>
+<h3 id="finite-verbs-f">Finite Verbs <code>[F]</code></h3>
+<p>A verb is finite if it contains:</p>
+<ul>
+<li>person</li>
+<li>number</li>
+</ul>
+<p>Example:</p>
+<p>εἰσίν (V-PAI-3P) ==son== [F]</p>
+<hr>
+<h3 id="non-finite-verbs-nf">Non-Finite Verbs <code>[NF]</code></h3>
+<p>Includes:</p>
+<ul>
+<li>infinitives</li>
+<li>participles</li>
+<li>verbal adjectives</li>
+</ul>
+<p>Example:</p>
+<p>ὄντες (V-PAP-NPM) siendo [NF]</p>
+<hr>
+<h2 id="verb-rules">VERB RULES</h2>
+<ul>
+<li>Greek must match SBLGNT exactly</li>
+<li>RMAC is required</li>
+<li><code>[F]</code> or <code>[NF]</code> is required</li>
+<li>Only finite verbs use <code>== ==</code></li>
+<li>Non-finite verbs NEVER use <code>== ==</code></li>
+</ul>
+<hr>
+<h2 id="connector-extraction-critical">CONNECTOR EXTRACTION (CRITICAL)</h2>
+<h3 id="core-principle-2">CORE PRINCIPLE</h3>
+<p>👉 Connectors are extracted <strong>only from the Greek text</strong></p>
+<p>👉 Connectors are <strong>not interpreted or classified</strong></p>
+<hr>
+<h3 id="extraction-rule-mandatory">EXTRACTION RULE (MANDATORY)</h3>
+<p>A connector must be extracted if:</p>
+<ul>
+<li>it appears explicitly in the Greek text</li>
+</ul>
+<p>Do NOT:</p>
+<ul>
+<li>filter during extraction</li>
+<li>evaluate function</li>
+<li>classify</li>
+<li>determine clause relationships</li>
+</ul>
+<p>👉 If it is in the Greek → it must be listed</p>
+<hr>
+<h3 id="connector-definition-mandatory">CONNECTOR DEFINITION (MANDATORY)</h3>
+<p>Not every Greek word is a connector.</p>
+<p>Only Greek words that function as <strong>clause-level connective elements</strong> are extracted as connector lines.</p>
+<p>This includes words that operate between clauses (e.g., γάρ, ἀλλά).</p>
+<p>This does NOT include:</p>
+<ul>
+<li>negation particles (οὐ, μή)</li>
+<li>adverbs (e.g., οὔπω)</li>
+<li>modifiers of meaning</li>
+</ul>
+<p>👉 If a word does not function at the clause level, it is NOT listed as a connector.</p>
+<h3 id="καί-clarification-mandatory">καί CLARIFICATION (MANDATORY)</h3>
+<p>καί is not automatically included as a connector.</p>
+<p>It is listed only if it establishes a structural relationship between two clauses defined by finite verbs.</p>
+<p>If καί joins words, phrases, modifiers, participles, or other non-clausal elements, it is excluded.</p>
+<p>Only clause-linking uses of καί are listed.</p>
+<h3 id="structural-connector-test-final">STRUCTURAL CONNECTOR TEST (FINAL)</h3>
+<p>A word is included as a connector only if it can be placed between two clauses, each containing a finite verb, such that the clause structure remains intact.</p>
+<p>Procedure:</p>
+<ol>
+<li>Identify finite verbs</li>
+<li>Identify clause boundaries based on those verbs</li>
+<li>Test whether the word can function between those clauses</li>
+</ol>
+<p>If the structure remains valid → include<br>
+If not → exclude</p>
+<h3 id="connector-line-format-locked">CONNECTOR LINE FORMAT (LOCKED)</h3>
+<p>Greek → Spanish</p>
+<hr>
+<h3 id="connector-display-rule-mandatory">CONNECTOR DISPLAY RULE (MANDATORY)</h3>
+<p>Connectors are displayed differently depending on whether they are explicit in NBLA.</p>
+<p>Each connector line must represent exactly one Greek connector.</p>
+<h4 id="case-1--explicit-in-nbla">Case 1 — Explicit in NBLA</h4>
+<p>If the connector is explicitly present in NBLA:</p>
+<ul>
+<li>display only the connector in parentheses</li>
+</ul>
+<p>Example:</p>
+<p>γάρ → (porque)</p>
+<ul>
+<li>Do not include additional NBLA text</li>
+<li>Do not repeat the clause</li>
+</ul>
+<hr>
+<h4 id="case-2--not-explicit-in-nbla">Case 2 — Not Explicit in NBLA</h4>
+<p>If the connector is not explicitly present in NBLA:</p>
+<ul>
+<li>display the connector in brackets</li>
+<li>include the NBLA clause it introduces</li>
+</ul>
+<p>Example:</p>
+<p>ἀλλʼ → [pero] ni aun ahora pueden</p>
+<ul>
+<li>The connector must be placed immediately before the clause</li>
+<li>The clause must be included to show placement</li>
+</ul>
+<h3 id="language-hierarchy-critical">LANGUAGE HIERARCHY (CRITICAL)</h3>
+<p>Greek → determines existence<br>
+Spanish → reflects alignment only</p>
+<ul>
+<li>Greek controls identification</li>
+<li>Spanish NEVER creates or replaces a connector</li>
+</ul>
+<hr>
+<h2 id="what-the-dataset-does-not-do">WHAT THE DATASET DOES NOT DO</h2>
+<p>The dataset does NOT:</p>
+<ul>
+<li>identify clauses</li>
+<li>determine relationships between clauses</li>
+<li>mark connectors as active</li>
+<li>assign [c]</li>
+<li>distinguish types of connectors</li>
+<li>interpret structure</li>
+</ul>
+<hr>
+<h2 id="how-roots-uses-this-data">HOW ROOTS USES THIS DATA</h2>
+<h3 id="paso-2--verbos-finitos">Paso 2 — Verbos finitos</h3>
+<ul>
+<li>Finite verbs define clauses</li>
+</ul>
+<hr>
+<h3 id="paso-3--cláusulas">Paso 3 — Cláusulas</h3>
+<ul>
+<li>One clause per finite verb</li>
+</ul>
+<hr>
+<h3 id="paso-4--conectores">Paso 4 — Conectores</h3>
+<ul>
+<li>Connectors are tested in the text</li>
+</ul>
+<p>A connector is marked as <strong>[c] only during analysis</strong>, if:</p>
+<ol>
+<li>Two finite verbs are present</li>
+<li>The word establishes a structural relationship between those verbs</li>
+</ol>
+<hr>
+<h2 id="final-principle">FINAL PRINCIPLE</h2>
+<blockquote>
+<p>The dataset contains no decisions.<br>
+All structure must be demonstrated from the text.</p>
+</blockquote>
+
+</div>
+
+
+<script>
+let DATA = [];
+
+fetch('/roots/ROOTS-dataset/index.json')
+  .then(res => res.json())
+  .then(json => {
+    DATA = json;
+  });
+
+const input = document.getElementById('searchBox');
+const results = document.getElementById('results');
+
+function clean(str) {
+  return str.toLowerCase().trim();
+}
+
+input.addEventListener('input', () => {
+  const query = clean(input.value);
+  results.innerHTML = '';
+
+  if (!query) return;
+
+  let matches = [];
+
+  if (query.includes(':')) {
+    const parts = query.split(' ');
+    let verse = null;
+    let book = null;
+
+    parts.forEach(p => {
+      if (p.includes(':')) verse = p;
+      else book = p;
+    });
+
+    matches = DATA.filter(item => {
+      const title = clean(item.title);
+
+      if (book) {
+        return title.includes(book) && title.includes(verse);
+      }
+
+      return title.includes(verse);
+    });
+  }
+
+  if (matches.length === 0) {
+    matches = DATA.filter(item =>
+      clean(item.title).includes(query) ||
+      clean(item.content).includes(query)
+    );
+  }
+
+ results.innerHTML = '';
+
+matches.slice(0, 20).forEach(item => {
+  const ref = item.ref || item.title || '';
+  const preview = item.content
+    ? item.content.replace(/\s+/g, ' ').slice(0, 80)
+    : '';
+
+  if (!ref) return;
+
+  const li = document.createElement('li');
+
+  
+  const a = document.createElement('a');
+  a.href = item.url || '#';
+  a.textContent = ref;
+  li.appendChild(a);
+
+  
+  if (preview) {
+    const excerpt = document.createElement('div');
+    excerpt.className = 'search-excerpt';
+    excerpt.textContent = preview + '...';
+    li.appendChild(excerpt);
+  }
+
+  results.appendChild(li);
+});
+});
+</script>
+
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const hash = window.location.hash;
+
+  if (!hash) return;
+
+  const el = document.querySelector(hash);
+  if (!el) return;
+
+  el.scrollIntoView({ behavior: "smooth", block: "center" });
+  el.classList.add("highlight-verse");
+
+  setTimeout(() => {
+    el.classList.remove("highlight-verse");
+  }, 4000);
+});
+</script>
