@@ -1,0 +1,221 @@
+<link rel="stylesheet" href="/css/roots.css">
+<link rel="stylesheet" href="/css/custom.css">
+<h1></h1>
+
+
+<div class="search-bar-fixed">
+  <input 
+    type="text" 
+    id="searchBox" 
+    placeholder="Buscar: col 1:1, romanos, fe..."
+  />
+  <ul id="results"></ul>
+</div>
+
+<div class="roots-page-content">
+  <h1></h1>
+
+  <hr>
+
+  <div class="roots-content">
+    <h1 id="morphgnt-sblgnt">MorphGNT SBLGNT</h1>
+<p><a href="https://zenodo.org/badge/latestdoi/1039950"><img src="https://zenodo.org/badge/1039950.svg" alt="DOI"></a></p>
+<p>Project to merge the MorphGNT analysis with the SBLGNT text.</p>
+<p>The SBLGNT text itself is subject to the <a href="http://sblgnt.com/license/">SBLGNT EULA</a>
+and the morphological parsing and lemmatization is made available under a
+<a href="http://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA License</a>.</p>
+<h2 id="how-to-cite">How to cite</h2>
+<p>Tauber, J. K., ed. (2017) <em>MorphGNT: SBLGNT Edition</em>. Version 6.12 [Data set]. <a href="https://github.com/morphgnt/sblgnt">https://github.com/morphgnt/sblgnt</a> DOI: 10.5281/zenodo.376200</p>
+<h2 id="columns">Columns</h2>
+<ul>
+<li>book/chapter/verse</li>
+<li>part of speech</li>
+<li>parsing code</li>
+<li>text (including punctuation)</li>
+<li>word (with punctuation stripped)</li>
+<li>normalized word</li>
+<li>lemma</li>
+</ul>
+<h2 id="part-of-speech-code">Part of Speech Code</h2>
+<p>A- adjective<br>
+C- conjunction<br>
+D- adverb<br>
+I- interjection<br>
+N- noun<br>
+P- preposition<br>
+RA definite article<br>
+RD demonstrative pronoun<br>
+RI interrogative/indefinite pronoun<br>
+RP personal pronoun<br>
+RR relative pronoun<br>
+V- verb<br>
+X- particle</p>
+<h2 id="parsing-code">Parsing Code</h2>
+<ul>
+<li>person (1=1st, 2=2nd, 3=3rd)</li>
+<li>tense (P=present, I=imperfect, F=future, A=aorist, X=perfect, Y=pluperfect)</li>
+<li>voice (A=active, M=middle, P=passive)</li>
+<li>mood (I=indicative, D=imperative, S=subjunctive, O=optative, N=infinitive, P=participle)</li>
+<li>case (N=nominative, G=genitive, D=dative, A=accusative)</li>
+<li>number (S=singular, P=plural)</li>
+<li>gender (M=masculine, F=feminine, N=neuter)</li>
+<li>degree (C=comparative, S=superlative)</li>
+</ul>
+<p>NOTE: The part of speech and parsing codes were inherited from the CCAT tagging and will be deprecated in the next major release of MorphGNT.</p>
+
+  </div>
+</div>
+
+<hr>
+
+
+<div class="roots-content">
+  <h1 id="morphgnt-sblgnt">MorphGNT SBLGNT</h1>
+<p><a href="https://zenodo.org/badge/latestdoi/1039950"><img src="https://zenodo.org/badge/1039950.svg" alt="DOI"></a></p>
+<p>Project to merge the MorphGNT analysis with the SBLGNT text.</p>
+<p>The SBLGNT text itself is subject to the <a href="http://sblgnt.com/license/">SBLGNT EULA</a>
+and the morphological parsing and lemmatization is made available under a
+<a href="http://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA License</a>.</p>
+<h2 id="how-to-cite">How to cite</h2>
+<p>Tauber, J. K., ed. (2017) <em>MorphGNT: SBLGNT Edition</em>. Version 6.12 [Data set]. <a href="https://github.com/morphgnt/sblgnt">https://github.com/morphgnt/sblgnt</a> DOI: 10.5281/zenodo.376200</p>
+<h2 id="columns">Columns</h2>
+<ul>
+<li>book/chapter/verse</li>
+<li>part of speech</li>
+<li>parsing code</li>
+<li>text (including punctuation)</li>
+<li>word (with punctuation stripped)</li>
+<li>normalized word</li>
+<li>lemma</li>
+</ul>
+<h2 id="part-of-speech-code">Part of Speech Code</h2>
+<p>A- adjective<br>
+C- conjunction<br>
+D- adverb<br>
+I- interjection<br>
+N- noun<br>
+P- preposition<br>
+RA definite article<br>
+RD demonstrative pronoun<br>
+RI interrogative/indefinite pronoun<br>
+RP personal pronoun<br>
+RR relative pronoun<br>
+V- verb<br>
+X- particle</p>
+<h2 id="parsing-code">Parsing Code</h2>
+<ul>
+<li>person (1=1st, 2=2nd, 3=3rd)</li>
+<li>tense (P=present, I=imperfect, F=future, A=aorist, X=perfect, Y=pluperfect)</li>
+<li>voice (A=active, M=middle, P=passive)</li>
+<li>mood (I=indicative, D=imperative, S=subjunctive, O=optative, N=infinitive, P=participle)</li>
+<li>case (N=nominative, G=genitive, D=dative, A=accusative)</li>
+<li>number (S=singular, P=plural)</li>
+<li>gender (M=masculine, F=feminine, N=neuter)</li>
+<li>degree (C=comparative, S=superlative)</li>
+</ul>
+<p>NOTE: The part of speech and parsing codes were inherited from the CCAT tagging and will be deprecated in the next major release of MorphGNT.</p>
+
+</div>
+
+
+<script>
+let DATA = [];
+
+fetch('/roots/ROOTS-dataset/index.json')
+  .then(res => res.json())
+  .then(json => {
+    DATA = json;
+  });
+
+const input = document.getElementById('searchBox');
+const results = document.getElementById('results');
+
+function clean(str) {
+  return str.toLowerCase().trim();
+}
+
+input.addEventListener('input', () => {
+  const query = clean(input.value);
+  results.innerHTML = '';
+
+  if (!query) return;
+
+  let matches = [];
+
+  if (query.includes(':')) {
+    const parts = query.split(' ');
+    let verse = null;
+    let book = null;
+
+    parts.forEach(p => {
+      if (p.includes(':')) verse = p;
+      else book = p;
+    });
+
+    matches = DATA.filter(item => {
+      const title = clean(item.title);
+
+      if (book) {
+        return title.includes(book) && title.includes(verse);
+      }
+
+      return title.includes(verse);
+    });
+  }
+
+  if (matches.length === 0) {
+    matches = DATA.filter(item =>
+      clean(item.title).includes(query) ||
+      clean(item.content).includes(query)
+    );
+  }
+
+ results.innerHTML = '';
+
+matches.slice(0, 20).forEach(item => {
+  const ref = item.ref || item.title || '';
+  const preview = item.content
+    ? item.content.replace(/\s+/g, ' ').slice(0, 80)
+    : '';
+
+  if (!ref) return;
+
+  const li = document.createElement('li');
+
+  
+  const a = document.createElement('a');
+  a.href = item.url || '#';
+  a.textContent = ref;
+  li.appendChild(a);
+
+  
+  if (preview) {
+    const excerpt = document.createElement('div');
+    excerpt.className = 'search-excerpt';
+    excerpt.textContent = preview + '...';
+    li.appendChild(excerpt);
+  }
+
+  results.appendChild(li);
+});
+});
+</script>
+
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const hash = window.location.hash;
+
+  if (!hash) return;
+
+  const el = document.querySelector(hash);
+  if (!el) return;
+
+  el.scrollIntoView({ behavior: "smooth", block: "center" });
+  el.classList.add("highlight-verse");
+
+  setTimeout(() => {
+    el.classList.remove("highlight-verse");
+  }, 4000);
+});
+</script>
