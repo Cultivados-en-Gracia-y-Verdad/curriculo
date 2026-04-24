@@ -2107,11 +2107,29 @@ Porque nosotros somos la verdadera circuncisión, que adoramos en el Espíritu d
 
 #### somos la verdadera circuncisión,
 
+##### Al decir somos la verdadera circuición hace referencia a que no hemos sido circuncidados por manos de hombre, quien por medio de engaños usando la verdad quieren que alcancemos algo que ya es real en nosotros, pretendiendo que neguemos la obra que Dios ya hizo en nosotros.
+
+##### Colosenses 2:11  *También en Él ustedes fueron circuncidados con una circuncisión no hecha por manos, al quitar el cuerpo de la carne mediante la circuncisión de Cristo;* 
+
+##### Esto era a lo que se referia en Filipenses 3:1 al decir regocijense, ya que Dios ya hizo una verdadera circuncisión en nosotros. 
+
+##### Dios mismo ya nos marco, ya nos identifico, ya nos santifico para Él mismo con una cirugía espiritual.
+
 #### que adoramos en el Espíritu de Dios
+
+##### Y de la misma manera nuestra adoración es en Espiritu Santo que Dios nos dio
+
+##### Y una adoración que no es a través de requisitos que debemos cumplir, sino que Dios ya nos hizo aptos para adorarle. Juan 4:23
 
 #### y nos gloriamos en Cristo Jesús,
 
+##### A diferencia de los de la falsa circuncisión ellos se glorían en la carne, pero nosotros en la obra de Cristo, ya que el fue completamente obediente al Padre hasta la muerte.
+
+##### Nos gloriamos en aquella debilidad en la que fue victorioso.
+
 #### no poniendo la confianza en la carne,
+
+##### No ponemos nuestra confianza en méritos o logros.
 
 ### Filipenses 3:4
 
@@ -2662,5 +2680,4 @@ La gracia del Señor Jesucristo sea con el espíritu de ustedes.
 [^11] https://proyectoevanggelio.org/flp12/
 
 [^12] https://apps.lib.umich.edu/reading/Paul/contents.html
-
 
