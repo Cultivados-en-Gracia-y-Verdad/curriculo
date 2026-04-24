@@ -19,60 +19,213 @@
 
   <div class="roots-content">
     <h1 id="roots-verb--connector-alignment-specification">ROOTS VERB + CONNECTOR ALIGNMENT SPECIFICATION</h1>
-<p>(SBLGNT + RMAC + NBLA)</p>
+<p>(SBLGNT + MorphGNT + NBLA)</p>
 <hr>
-<h2 id="purpose">PURPOSE</h2>
+<h2 id="1-purpose">1. PURPOSE</h2>
 <p>This document defines the rules for creating a <strong>fully consistent, auditable dataset</strong> that maps:</p>
 <ul>
-<li>Greek text (<strong>SBLGNT</strong>)</li>
-<li>Morphology (<strong>RMAC</strong>)</li>
+<li>Greek text (<strong>SBLGNT via MorphGNT</strong>)</li>
+<li>Morphology (<strong>RMAC-style codes embedded in MorphGNT</strong>)</li>
 <li>Spanish text (<strong>NBLA</strong>)</li>
 </ul>
 <p>The dataset must be:</p>
 <ul>
 <li>✔ mechanically reproducible</li>
-<li>✔ text-bound (Greek-driven)</li>
+<li>✔ strictly text-bound (Greek-driven)</li>
 <li>✔ structurally reliable for ROOTS</li>
 </ul>
 <hr>
-<h2 id="core-principle">CORE PRINCIPLE</h2>
-<p>👉 <strong>The dataset is not created — it is extracted</strong></p>
-<p>👉 <strong>If it is not in the Greek, it does not exist</strong></p>
-<p>👉 <strong>The dataset exposes structure — it does not interpret it</strong></p>
+<h2 id="2-core-principle">2. CORE PRINCIPLE</h2>
+<blockquote>
+<p>❗ The dataset is not created — it is extracted
+❗ If it is not in the Greek, it does not exist
+❗ The dataset exposes data — it does not interpret structure</p>
+</blockquote>
 <hr>
-<h2 id="absolute-prohibitions">ABSOLUTE PROHIBITIONS</h2>
-<ul>
-<li>❌ No implied verbs</li>
-<li>❌ No supplied copulas (e.g., ἐστίν)</li>
-<li>❌ No reconstruction</li>
-<li>❌ No normalization before entry</li>
-<li>❌ No inference from Spanish</li>
-<li>❌ No structural decisions (clauses, connections, roles)</li>
-<li>❌ No connector classification</li>
-</ul>
-<hr>
-<h2 id="source-requirement">SOURCE REQUIREMENT</h2>
+<h2 id="3-source-requirement">3. SOURCE REQUIREMENT</h2>
 <h3 id="greek-source-mandatory">Greek Source (MANDATORY)</h3>
-<p>SBLGNT/text/{book}.txt</p>
-<p>This is the <strong>only authoritative Greek source</strong></p>
+<p>MorphGNT / SBLGNT file:</p>
+<pre tabindex="0"><code>content/roots/SBLGTN/MorphGNT/{book}-morphgnt.txt
+</code></pre><p>This provides:</p>
+<ul>
+<li>Greek text</li>
+<li>full morphology (RMAC-style codes)</li>
+</ul>
 <hr>
 <h3 id="source-priority">Source Priority</h3>
 <ol>
-<li>Greek (SBLGNT) → absolute authority</li>
-<li>RMAC → classification only</li>
+<li>Greek (SBLGNT / MorphGNT) → absolute authority</li>
+<li>Morphology (RMAC-style) → grammatical data only</li>
 <li>NBLA → alignment only (never drives decisions)</li>
 </ol>
 <hr>
-<h2 id="extraction-workflow">EXTRACTION WORKFLOW</h2>
-<p>SBLGNT → extract → assign RMAC → align to NBLA → validate</p>
-<p>NOT:</p>
-<p>Spanish → reasoning → generate Greek</p>
+<h2 id="4-extraction-workflow">4. EXTRACTION WORKFLOW</h2>
+<pre tabindex="0"><code>Greek (MorphGNT)
+→ extract verbs and connectors
+→ preserve morphology
+→ align to NBLA
+→ validate
+</code></pre><p>NOT:</p>
+<pre tabindex="0"><code>Spanish → reasoning → generate structure
+</code></pre><hr>
+<h2 id="5-verse-format-locked">5. VERSE FORMAT (LOCKED)</h2>
+<p>Each verse must follow this exact structure:</p>
+<pre tabindex="0"><code>### Book Chapter:Verse {#id}
+
+[Greek text exactly from SBLGNT]
+
+[NBLA text with connectors inserted]
+
+- GreekVerb (Morphology) ==Spanish== [F/NF]
+
+- GreekConnector → (Spanish)
+</code></pre><hr>
+<h2 id="6-nbla-source-rule">6. NBLA SOURCE RULE</h2>
+<p>The NBLA text must be taken exclusively from the local NBLA source files.</p>
+<p>No external reproduction, memory-based rendering, or inferred translation is permitted.</p>
+<p>All alignment must be performed using the exact NBLA text as stored locally.</p>
+<h2 id="7-verb-morphology-rule-mandatory">7. VERB MORPHOLOGY RULE (MANDATORY)</h2>
+<p>All verbs present in the Greek text must be listed.</p>
+<p>Each verb must include:</p>
+<ul>
+<li>Greek form</li>
+<li>full morphology code (unchanged)</li>
+<li>Spanish mapping</li>
+<li>classification tag:
+<ul>
+<li><code>[F]</code> → finite</li>
+<li><code>[NF]</code> → non-finite</li>
+</ul>
+</li>
+</ul>
 <hr>
-<h2 id="output-format-locked">OUTPUT FORMAT (LOCKED)</h2>
-<p>Each verse must follow this structure:</p>
-<p>Book Chapter:Verse {#id}</p>
-<p>[Greek verse exactly from SBLGNT]<br>
-[NBLA verse in brackets]</p>
+<h3 id="finite-identification-rmac-based">Finite Identification (RMAC-based)</h3>
+<p>A verb is <strong>finite</strong> if:</p>
+<ul>
+<li>V-??I- → indicative</li>
+<li>V-??S- → subjunctive</li>
+<li>V-??M- → imperative</li>
+</ul>
+<p>All others:</p>
+<ul>
+<li>participles (V-P…) → <code>[NF]</code></li>
+<li>infinitives (V-N…) → <code>[NF]</code></li>
+</ul>
+<hr>
+<h3 id="format">Format</h3>
+<pre tabindex="0"><code>- ἠδυνήθην (V-ADI-1S) ==pude== [F]
+- λαλῆσαι (V-AAN) hablar [NF]
+</code></pre><hr>
+<h3 id="critical-rule">Critical Rule</h3>
+<blockquote>
+<p>❗ The morphology code must never be altered or removed
+❗ [F]/[NF] does not replace morphology—it supplements it</p>
+</blockquote>
+<hr>
+<h2 id="8-connector-rule-mandatory">8. CONNECTOR RULE (MANDATORY)</h2>
+<p>Only connectors present in the Greek text may be included.</p>
+<p>Each connector must be:</p>
+<ul>
+<li>extracted from Greek</li>
+<li>mapped to Spanish</li>
+<li>inserted into the NBLA line</li>
+</ul>
+<hr>
+<h2 id="9-connector-placement-rule-critical">9. CONNECTOR PLACEMENT RULE (CRITICAL)</h2>
+<p>All connectors must appear <strong>inside the NBLA text</strong> at the position corresponding to their location in the Greek sequence.</p>
+<hr>
+<h3 id="notation">Notation</h3>
+<table>
+  <thead>
+      <tr>
+          <th>Symbol</th>
+          <th>Meaning</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><code>( )</code></td>
+          <td>explicit in NBLA</td>
+      </tr>
+      <tr>
+          <td><code>[ ]</code></td>
+          <td>inserted from Greek</td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h3 id="example">Example</h3>
+<pre tabindex="0"><code>[(y) yo, hermanos, no pude hablarles como a espirituales, [pero] como a carnales...]
+</code></pre><hr>
+<h3 id="critical-constraint">Critical Constraint</h3>
+<blockquote>
+<p>❗ If placement cannot be determined from Greek order, the connector must not be included</p>
+</blockquote>
+<hr>
+<h2 id="10-connector-list-format">10. CONNECTOR LIST FORMAT</h2>
+<pre tabindex="0"><code>- καί → (y)
+- ἀλλʼ → [pero]
+- γάρ → (porque)
+</code></pre><hr>
+<h3 id="important">Important</h3>
+<blockquote>
+<p>❗ All connectors are listed uniformly
+❗ No classification (dependent / independent) is allowed</p>
+</blockquote>
+<hr>
+<h2 id="11-dataset-purity-rule">11. DATASET PURITY RULE</h2>
+<p>The dataset must contain <strong>only observable elements</strong>.</p>
+<p>It must NOT include:</p>
+<ul>
+<li>interpretation</li>
+<li>clause decisions</li>
+<li>structural labeling</li>
+<li>connector classification</li>
+<li>probability markers (*, ^, etc.)</li>
+<li>inferred or reconstructed elements</li>
+</ul>
+<hr>
+<h2 id="12-traceability-test-mandatory">12. TRACEABILITY TEST (MANDATORY)</h2>
+<p>Every element must pass:</p>
+<blockquote>
+<p>“Can this be directly pointed to in the Greek text?”</p>
+</blockquote>
+<p>If <strong>NO</strong> → remove it</p>
+<p>Applies to:</p>
+<ul>
+<li>verbs</li>
+<li>connectors</li>
+<li>inserted elements</li>
+</ul>
+<hr>
+<h2 id="13-validation-rules">13. VALIDATION RULES</h2>
+<p>Before finalizing a verse:</p>
+<ul>
+<li>Every verb exists in the Greek</li>
+<li>Every morphology code matches the source</li>
+<li>Every verb is correctly marked [F] or [NF]</li>
+<li>Every connector exists in the Greek</li>
+<li>Every connector is correctly placed in NBLA</li>
+<li>No additional words have been introduced</li>
+</ul>
+<hr>
+<h2 id="14-roots-execution-note">14. ROOTS EXECUTION NOTE</h2>
+<p>The dataset contains <strong>data only</strong>.</p>
+<p>ROOTS steps operate as follows:</p>
+<ul>
+<li>Paso 2 → uses verbs ([F] only)</li>
+<li>Paso 4 → marks connectors</li>
+<li>Paso 5 → determines connection</li>
+<li>Paso 6 → determines structure</li>
+<li>Paso 8 → uses morphology (person/number) for [S] and [M]</li>
+</ul>
+<hr>
+<h2 id="final-principle">FINAL PRINCIPLE</h2>
+<blockquote>
+<p>❗ The dataset preserves ALL morphology
+❗ The dataset makes NO decisions
+❗ The method (ROOTS) performs all decisions later</p>
+</blockquote>
 
   </div>
 </div>
@@ -82,60 +235,213 @@
 
 <div class="roots-content">
   <h1 id="roots-verb--connector-alignment-specification">ROOTS VERB + CONNECTOR ALIGNMENT SPECIFICATION</h1>
-<p>(SBLGNT + RMAC + NBLA)</p>
+<p>(SBLGNT + MorphGNT + NBLA)</p>
 <hr>
-<h2 id="purpose">PURPOSE</h2>
+<h2 id="1-purpose">1. PURPOSE</h2>
 <p>This document defines the rules for creating a <strong>fully consistent, auditable dataset</strong> that maps:</p>
 <ul>
-<li>Greek text (<strong>SBLGNT</strong>)</li>
-<li>Morphology (<strong>RMAC</strong>)</li>
+<li>Greek text (<strong>SBLGNT via MorphGNT</strong>)</li>
+<li>Morphology (<strong>RMAC-style codes embedded in MorphGNT</strong>)</li>
 <li>Spanish text (<strong>NBLA</strong>)</li>
 </ul>
 <p>The dataset must be:</p>
 <ul>
 <li>✔ mechanically reproducible</li>
-<li>✔ text-bound (Greek-driven)</li>
+<li>✔ strictly text-bound (Greek-driven)</li>
 <li>✔ structurally reliable for ROOTS</li>
 </ul>
 <hr>
-<h2 id="core-principle">CORE PRINCIPLE</h2>
-<p>👉 <strong>The dataset is not created — it is extracted</strong></p>
-<p>👉 <strong>If it is not in the Greek, it does not exist</strong></p>
-<p>👉 <strong>The dataset exposes structure — it does not interpret it</strong></p>
+<h2 id="2-core-principle">2. CORE PRINCIPLE</h2>
+<blockquote>
+<p>❗ The dataset is not created — it is extracted
+❗ If it is not in the Greek, it does not exist
+❗ The dataset exposes data — it does not interpret structure</p>
+</blockquote>
 <hr>
-<h2 id="absolute-prohibitions">ABSOLUTE PROHIBITIONS</h2>
-<ul>
-<li>❌ No implied verbs</li>
-<li>❌ No supplied copulas (e.g., ἐστίν)</li>
-<li>❌ No reconstruction</li>
-<li>❌ No normalization before entry</li>
-<li>❌ No inference from Spanish</li>
-<li>❌ No structural decisions (clauses, connections, roles)</li>
-<li>❌ No connector classification</li>
-</ul>
-<hr>
-<h2 id="source-requirement">SOURCE REQUIREMENT</h2>
+<h2 id="3-source-requirement">3. SOURCE REQUIREMENT</h2>
 <h3 id="greek-source-mandatory">Greek Source (MANDATORY)</h3>
-<p>SBLGNT/text/{book}.txt</p>
-<p>This is the <strong>only authoritative Greek source</strong></p>
+<p>MorphGNT / SBLGNT file:</p>
+<pre tabindex="0"><code>content/roots/SBLGTN/MorphGNT/{book}-morphgnt.txt
+</code></pre><p>This provides:</p>
+<ul>
+<li>Greek text</li>
+<li>full morphology (RMAC-style codes)</li>
+</ul>
 <hr>
 <h3 id="source-priority">Source Priority</h3>
 <ol>
-<li>Greek (SBLGNT) → absolute authority</li>
-<li>RMAC → classification only</li>
+<li>Greek (SBLGNT / MorphGNT) → absolute authority</li>
+<li>Morphology (RMAC-style) → grammatical data only</li>
 <li>NBLA → alignment only (never drives decisions)</li>
 </ol>
 <hr>
-<h2 id="extraction-workflow">EXTRACTION WORKFLOW</h2>
-<p>SBLGNT → extract → assign RMAC → align to NBLA → validate</p>
-<p>NOT:</p>
-<p>Spanish → reasoning → generate Greek</p>
+<h2 id="4-extraction-workflow">4. EXTRACTION WORKFLOW</h2>
+<pre tabindex="0"><code>Greek (MorphGNT)
+→ extract verbs and connectors
+→ preserve morphology
+→ align to NBLA
+→ validate
+</code></pre><p>NOT:</p>
+<pre tabindex="0"><code>Spanish → reasoning → generate structure
+</code></pre><hr>
+<h2 id="5-verse-format-locked">5. VERSE FORMAT (LOCKED)</h2>
+<p>Each verse must follow this exact structure:</p>
+<pre tabindex="0"><code>### Book Chapter:Verse {#id}
+
+[Greek text exactly from SBLGNT]
+
+[NBLA text with connectors inserted]
+
+- GreekVerb (Morphology) ==Spanish== [F/NF]
+
+- GreekConnector → (Spanish)
+</code></pre><hr>
+<h2 id="6-nbla-source-rule">6. NBLA SOURCE RULE</h2>
+<p>The NBLA text must be taken exclusively from the local NBLA source files.</p>
+<p>No external reproduction, memory-based rendering, or inferred translation is permitted.</p>
+<p>All alignment must be performed using the exact NBLA text as stored locally.</p>
+<h2 id="7-verb-morphology-rule-mandatory">7. VERB MORPHOLOGY RULE (MANDATORY)</h2>
+<p>All verbs present in the Greek text must be listed.</p>
+<p>Each verb must include:</p>
+<ul>
+<li>Greek form</li>
+<li>full morphology code (unchanged)</li>
+<li>Spanish mapping</li>
+<li>classification tag:
+<ul>
+<li><code>[F]</code> → finite</li>
+<li><code>[NF]</code> → non-finite</li>
+</ul>
+</li>
+</ul>
 <hr>
-<h2 id="output-format-locked">OUTPUT FORMAT (LOCKED)</h2>
-<p>Each verse must follow this structure:</p>
-<p>Book Chapter:Verse {#id}</p>
-<p>[Greek verse exactly from SBLGNT]<br>
-[NBLA verse in brackets]</p>
+<h3 id="finite-identification-rmac-based">Finite Identification (RMAC-based)</h3>
+<p>A verb is <strong>finite</strong> if:</p>
+<ul>
+<li>V-??I- → indicative</li>
+<li>V-??S- → subjunctive</li>
+<li>V-??M- → imperative</li>
+</ul>
+<p>All others:</p>
+<ul>
+<li>participles (V-P…) → <code>[NF]</code></li>
+<li>infinitives (V-N…) → <code>[NF]</code></li>
+</ul>
+<hr>
+<h3 id="format">Format</h3>
+<pre tabindex="0"><code>- ἠδυνήθην (V-ADI-1S) ==pude== [F]
+- λαλῆσαι (V-AAN) hablar [NF]
+</code></pre><hr>
+<h3 id="critical-rule">Critical Rule</h3>
+<blockquote>
+<p>❗ The morphology code must never be altered or removed
+❗ [F]/[NF] does not replace morphology—it supplements it</p>
+</blockquote>
+<hr>
+<h2 id="8-connector-rule-mandatory">8. CONNECTOR RULE (MANDATORY)</h2>
+<p>Only connectors present in the Greek text may be included.</p>
+<p>Each connector must be:</p>
+<ul>
+<li>extracted from Greek</li>
+<li>mapped to Spanish</li>
+<li>inserted into the NBLA line</li>
+</ul>
+<hr>
+<h2 id="9-connector-placement-rule-critical">9. CONNECTOR PLACEMENT RULE (CRITICAL)</h2>
+<p>All connectors must appear <strong>inside the NBLA text</strong> at the position corresponding to their location in the Greek sequence.</p>
+<hr>
+<h3 id="notation">Notation</h3>
+<table>
+  <thead>
+      <tr>
+          <th>Symbol</th>
+          <th>Meaning</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><code>( )</code></td>
+          <td>explicit in NBLA</td>
+      </tr>
+      <tr>
+          <td><code>[ ]</code></td>
+          <td>inserted from Greek</td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h3 id="example">Example</h3>
+<pre tabindex="0"><code>[(y) yo, hermanos, no pude hablarles como a espirituales, [pero] como a carnales...]
+</code></pre><hr>
+<h3 id="critical-constraint">Critical Constraint</h3>
+<blockquote>
+<p>❗ If placement cannot be determined from Greek order, the connector must not be included</p>
+</blockquote>
+<hr>
+<h2 id="10-connector-list-format">10. CONNECTOR LIST FORMAT</h2>
+<pre tabindex="0"><code>- καί → (y)
+- ἀλλʼ → [pero]
+- γάρ → (porque)
+</code></pre><hr>
+<h3 id="important">Important</h3>
+<blockquote>
+<p>❗ All connectors are listed uniformly
+❗ No classification (dependent / independent) is allowed</p>
+</blockquote>
+<hr>
+<h2 id="11-dataset-purity-rule">11. DATASET PURITY RULE</h2>
+<p>The dataset must contain <strong>only observable elements</strong>.</p>
+<p>It must NOT include:</p>
+<ul>
+<li>interpretation</li>
+<li>clause decisions</li>
+<li>structural labeling</li>
+<li>connector classification</li>
+<li>probability markers (*, ^, etc.)</li>
+<li>inferred or reconstructed elements</li>
+</ul>
+<hr>
+<h2 id="12-traceability-test-mandatory">12. TRACEABILITY TEST (MANDATORY)</h2>
+<p>Every element must pass:</p>
+<blockquote>
+<p>“Can this be directly pointed to in the Greek text?”</p>
+</blockquote>
+<p>If <strong>NO</strong> → remove it</p>
+<p>Applies to:</p>
+<ul>
+<li>verbs</li>
+<li>connectors</li>
+<li>inserted elements</li>
+</ul>
+<hr>
+<h2 id="13-validation-rules">13. VALIDATION RULES</h2>
+<p>Before finalizing a verse:</p>
+<ul>
+<li>Every verb exists in the Greek</li>
+<li>Every morphology code matches the source</li>
+<li>Every verb is correctly marked [F] or [NF]</li>
+<li>Every connector exists in the Greek</li>
+<li>Every connector is correctly placed in NBLA</li>
+<li>No additional words have been introduced</li>
+</ul>
+<hr>
+<h2 id="14-roots-execution-note">14. ROOTS EXECUTION NOTE</h2>
+<p>The dataset contains <strong>data only</strong>.</p>
+<p>ROOTS steps operate as follows:</p>
+<ul>
+<li>Paso 2 → uses verbs ([F] only)</li>
+<li>Paso 4 → marks connectors</li>
+<li>Paso 5 → determines connection</li>
+<li>Paso 6 → determines structure</li>
+<li>Paso 8 → uses morphology (person/number) for [S] and [M]</li>
+</ul>
+<hr>
+<h2 id="final-principle">FINAL PRINCIPLE</h2>
+<blockquote>
+<p>❗ The dataset preserves ALL morphology
+❗ The dataset makes NO decisions
+❗ The method (ROOTS) performs all decisions later</p>
+</blockquote>
 
 </div>
 

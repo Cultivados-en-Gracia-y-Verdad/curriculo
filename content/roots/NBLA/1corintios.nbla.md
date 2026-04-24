@@ -1,3 +1,9 @@
+---
+Title: "1 Corintios - NBLA"
+---
+
+
+
 1Corintios 1:1 Pablo, llamado a ser apóstol de Jesucristo por la voluntad de Dios, y Sóstenes, nuestro hermano,
 1Corintios 1:2 a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cristo Jesús, llamados a ser santos, con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo, Señor de ellos y nuestro:
 1Corintios 1:3 Gracia y paz a ustedes de parte de Dios nuestro Padre y del Señor Jesucristo.

@@ -37,8 +37,6 @@
   </url><url>
     <loc>http://localhost:1313/roots/file-creation-process/</loc>
   </url><url>
-    <loc>http://localhost:1313/roots/nbla/1corintios.nbla/</loc>
-  </url><url>
     <loc>http://localhost:1313/roots/nbla/1juan.nbla/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/nbla/1pedro.nbla/</loc>
@@ -190,6 +188,8 @@
     <loc>http://localhost:1313/roots/step1-output/tito.out/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/sblgnt/1corintios/</loc>
+  </url><url>
+    <loc>http://localhost:1313/roots/nbla/1corintios.nbla/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/roots-dataset/1corintios-data/</loc>
   </url><url>
