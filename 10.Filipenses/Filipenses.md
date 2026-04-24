@@ -2036,13 +2036,64 @@ Por lo demás, hermanos míos, regocíjense en el Señor. A mí no me es molesto
 
 Cuídense de esos perros, cuídense de los malos obreros, cuídense de la falsa circuncisión.
 
-##### Estos tres sujetos, según el contexto, vienen a ser lo mismo. obreros que buscan perturbar la obra de Dios en los hermanos.
+##### Estos tres sujetos, según el contexto, vienen a ser lo mismo. obreros que buscan perturbar la obra de Dios en los hermanos. Gálatas 1:7
+
+##### En este pasaje, Cuídense BLEPO aparece 3 veces como imperativos en tiempo presente y voz activa, su uso esta dirigido a un cuidado de vigilancia, "estar viendo" prestar mucha atención para no ser engañados. Colosenses 2:8
+
+##### En ocasiones Pablo utiliza la repetición para darle importancia a un discurso.
+
+##### En esta oportunidad hace esta repetición intencionalmente de manera obvia, porque esto es una amenaza completamente contraria a lo Pablo ha estado orando, narrando e instruyendo para que puedan estar firmes y unánimes abundando más y más en amor, en todo conocimiento y discernimiento.
 
 #### Cuídense de esos perros,
 
+##### El texto no nos dice específicamente que quiere decir con perros, pero podemos ver el uso de esa palabra en las escrituras.
+
+##### Salmos 22:16  *Porque perros me han rodeado; Me ha cercado cuadrilla de malhechores; Me horadaron las manos y los pies*.
+
+##### Isaías 56:11 *Y los perros son voraces, no se sacian. Ellos son pastores que no saben entender. Todos se han apartado por su propio camino, Cada cual, hasta el último, busca su propia ganancia*.
+
+##### Jeremías 15:3 *...los perros para despedazar,...*
+
+##### Mateo 7:6 *No den lo santo a los perros, ni echen sus perlas delante de los cerdos, no sea que las huellen con sus patas, y volviéndose los despedacen a ustedes*.
+
+##### Apocalipsis 22:15  *Afuera están los perros, los hechiceros, los inmorales, los asesinos, los idólatras, y todo el que ama y practica la mentira*.
+
+##### Su uso siempre esta dirigido de forma despectiva a obreros que no son creyentes, y no tienen ningún aprecio por la palabra de Dios.
+
+##### Están dispuestos a despedazar a cualquiera con tal de que nadie toque sus propias ganancias.
+
+##### Y con lo santo de Dios se van en contra de los creyentes para despedazarlos. Mateo 7:6 *No les den lo que es santo a los perros, pues se irán contra ustedes y los morderán* (PDT).
+
+##### Por eso da el imperativo de tenerlos bajo vigilancia, de prestar mucho cuidado porque son mentirosos y extremadamente peligrosos.
+
 #### cuídense de los malos obreros,
 
+##### Es llamativo que tampoco se da el lujo de explicar quienes son malos obreros.
+
+##### Pero tampoco es ambiguo, sino todo lo contrario.
+
+##### En el capitulo 1 nos mostro dos grupos que eran bastante notables, y con mucho contraste. Filipenses 1:15
+
+##### En el Capitulo 2 nos mostro 3 ejemplos de buenos siervos de Dios.
+
+##### Esta advertencia no es pasiva, sino que es estar vigilando activamente todo tiempo, porque es peligroso y destructor.
+
+##### Es estar en vigilia y no ser engañados, porque según filipenses un mal obrero se evidencia fácilmente, pero eso lo enseñará más adelante.
+
 #### cuídense de la falsa circuncisión.
+
+##### Al igual que perros, malos obreros, no especifica quienes son.
+
+##### Y tampoco queda ambiguo, 
+
+##### Tienen algo que los caracteriza.
+
+- *Mutilan*. modifican lo exterior del cuerpo. 
+- Modifican el evangelio. Gálatas 5:2
+- Perturba el gozo de los hermanos. Gálatas 5:10
+- Mienten usando la verdad. Apocalipsis 3:9 
+
+##### En los siguientes pasajes enseñará un claro contraste con lo que es la verdadera circuncisión.
 
 ### Filipenses 3:3
 
@@ -2611,6 +2662,5 @@ La gracia del Señor Jesucristo sea con el espíritu de ustedes.
 [^11] https://proyectoevanggelio.org/flp12/
 
 [^12] https://apps.lib.umich.edu/reading/Paul/contents.html
-
 
 
