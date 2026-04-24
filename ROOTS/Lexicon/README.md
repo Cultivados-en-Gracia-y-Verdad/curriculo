@@ -265,6 +265,47 @@ The lexicon is designed to function across:
 - no HTML dependency
 - clean rendering in print
 
+
+
+------
+
+## 🔗 ID SYSTEM (REQUIRED)
+
+Every lexicon entry MUST include a unique identifier in the header.
+
+### Format
+
+{#lex-g<STRONGS>-<lemma-transliterated>}
+
+### Examples
+
+### ἐλπίς — G1680 {#lex-g1680-elpis}  
+### ἀπόστολος — G652 {#lex-g652-apostolos}  
+### εἰμί — G1510 {#lex-g1510-eimi}
+
+### Rules
+
+- Must always begin with `lex-`
+- Must always include the Strong’s number
+- Must always include the transliterated lemma
+- All lowercase
+- No accents or diacritics
+- No spaces
+- Use hyphens if needed
+
+### Purpose
+
+- Enable direct linking from the ROOTS dataset
+- Support search and navigation
+- Maintain structural consistency
+- Enable future integration (JavaScript, applications, e-Sword)
+
+### Strict Requirement
+
+❌ No random IDs  
+❌ No entries without IDs  
+✔ Every entry must follow this format
+
 ------
 
 ## 12. FUTURE EXTENSIONS

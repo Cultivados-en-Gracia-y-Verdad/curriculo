@@ -1265,7 +1265,7 @@ Luego:
 ###### ❗ Solo trabajas con conexiones ya confirmadas
 
 👉 No pruebas relaciones  
-👉 No buscas A  
+👉 No vuelves a buscar A  
 👉 No eliminas conectores  
 
 👉 Todo eso ya ocurrió en el Paso 5  
@@ -1284,8 +1284,8 @@ Luego:
 
 1. Toma las cláusulas del Paso 5
 
-2. Identifica cada relación confirmada:
-👉 A → B
+2. Usa las relaciones ya resueltas:
+👉 (conector + B) → A
 
 3. Organiza así:
 - Coloca A en la línea principal  
@@ -1298,7 +1298,7 @@ Luego:
 ```
 A
 
-   (conector) B
+(conector) B
 ```
 
 ## EJEMPLO
@@ -1311,14 +1311,14 @@ Paso 5:
 (porque) ==podían== recibirlo
 
 [pero] ==pueden==
-```
+
 
 Paso 6:
 
-```
+
 ==di== a beber leche
-   (porque) ==podían== recibirlo
-       [pero] ==pueden==
+(porque) ==podían== recibirlo
+[pero] ==pueden==
 ```
 
 ## REGLA OPERATIVA
@@ -1362,6 +1362,7 @@ Paso 6:
 ##### ERROR COMÚN
 
 - Volver a probar conexiones  
+- Buscar nuevas relaciones  
 - Explicar la relación  
 - Reescribir el texto  
 - Cambiar el orden  
@@ -1553,7 +1554,7 @@ no ==pude== hablarles
 - 👉 identificarás la línea principal del desarrollo
 - 👉 comenzarás a ver el tronco del texto 
 
-# PASO 8 — IDENTIFICAR EL TRONCO
+# PASO 8 — IDENTIFICAR EL TRONCO (REVISADO Y OBJETIVO)
 
 ## EJECUTA
 
@@ -1562,53 +1563,49 @@ no ==pude== hablarles
 
 ###### Mantienes las cláusulas que no dependen de ninguna otra.
 
-##### REGLA CLAVE
+# REGLA CLAVE
 
 ###### ❗ Solo puedes eliminar una cláusula si su dependencia es visible en la estructura
 
-👉 No decides por sentido  
-👉 No decides por importancia  
-👉 No decides por “parece secundario”  
+👉 No decides por sentido
+👉 No decides por importancia
+👉 No decides por “parece secundario”
 
-👉 Decides solo por lo que el conector muestra
+👉 Decides solo por lo que el conector griego muestra
 
-##### REGLA CRÍTICA
+# REGLA CRÍTICA
 
 ###### ❗ Una cláusula se elimina solo si:
-
-- está introducida por un conector que causa dependencia  
+- está introducida por un conector subordinante en el griego
 - está estructuralmente debajo de otra cláusula (Paso 6)
 
-###### ❗ Si no puedes señalar el conector exacto, no puedes eliminarla
+###### ❗ Si no puedes señalar el conector griego exacto, no puedes eliminarla
 
-##### DEFINICIÓN OPERATIVA
+# DEFINICIÓN OPERATIVA
 
 ###### Una cláusula dependiente es aquella que:
-
-- comienza con un conector subordinante  
-- fue colocada debajo de otra cláusula en el Paso 6  
+- comienza con un conector subordinante griego (ej. ὅτι, εἰ, ἵνα, γάρ)
+- fue colocada debajo de otra cláusula en el Paso 6
 
 👉 Esa es la única base para eliminar
 
-## CÓMO HACERLO
+# CÓMO HACERLO
 
 1. Toma el texto reducido y estructurado (Paso 7)
 
 2. Revisa cada cláusula
 
 3. Identifica:
-
-👉 ¿Está esta cláusula debajo de otra?  
-👉 ¿Tiene un conector que causa dependencia?
+👉 ¿Está esta cláusula debajo de otra?
+ 👉 ¿Tiene un conector subordinante en el griego?
 
 4. Decide:
-
-- ✔ Sí → elimínala  
-- ❌ No → mantenla  
+- ✔ Sí → elimínala
+- ❌ No → mantenla
 
 5. Repite hasta revisar todo el texto
 
-## RESULTADO
+# RESULTADO
 
 ###### Antes (Paso 7):
 
@@ -1631,269 +1628,302 @@ yo ==di==
 ni aun ahora ==pueden==
 ```
 
-## OBSERVACIÓN INTEGRADA
+# OBSERVACIÓN INTEGRADA
 
-###### Mientras identificas el tronco, marcas:
+## 1. SUJETO
 
-### SUJETO
-
-- Marca solo cuando el sujeto cambia  
-- Debe ser visible en la cláusula  
-- No explicas  
-- No interpretas  
+###### Mientras identificas el tronco, marcas cambios de sujeto
+- Marca solo cuando el sujeto cambia
+- Debe ser visible en la cláusula
+- No explicas
+- No interpretas
 
 Formato:
-```
-[S→] sujeto
-```
-
-### MOVIMIENTO
-
-###### Detectas cambios visibles en la secuencia del texto
-
-##### REGLA DE MOVIMIENTO
-
-###### Marca [M] solo si puedes señalar un cambio visible en:
-
-- sujeto
-- verbo
-- tipo de relación estructural
-
-❗ Si no puedes señalar el cambio en palabras, no marcas [M]
-
-👉 El cambio debe ser visible en las palabras de la cláusula  
-
-##### IMPORTANTE
-
-###### ❗ No marcas por sensación
-
-👉 No usas:
-- “fluye / no fluye”
-- “parece que cambia”
-- impresión personal  
-
-👉 Solo marcas si puedes señalar el cambio en el texto  
-
-##### EJEMPLO
 
 ```
-[S→] yo
-==pude== hablar
-
-yo
-==di==
-
-[S→] ellos
-==pueden==   [M]
+[S: sujeto anterior → sujeto nuevo]
 ```
 
-##### REGLA DE CONTROL
-###### Si no puedes señalar qué cambió, no marques [M]
+## 2. MOVIMIENTO [M] (OBJETIVO — BASADO EN GRIEGO)
 
-## ENTIENDE
+##### DEFINICIÓN
+> **[M] marca un cambio de función estructural observable en la gramática griega.**
+
+# REGLA FUNDAMENTAL DE [M]
+
+###### ❗ Solo marcas [M] cuando puedes demostrar un cambio en la forma gramatical del discurso
+
+👉 No marcas por contenido
+👉 No marcas por sujeto
+👉 No marcas por contraste
+👉 No marcas por “suena diferente”
+
+# CRITERIOS OBJETIVOS PARA [M]
+
+## ✔ 1. CAMBIO DE MODO VERBAL (PRINCIPAL)
+
+Marca [M] si hay un cambio como:
+- Indicativo → Imperativo
+- Indicativo → Exhortación (prohibición, mandato)
+
+Ejemplo:
+
+```
+==es== verdad
+
+==hagan== esto [M]
+```
+
+## ✔ 2. CONECTOR DE CONCLUSIÓN (CUANDO CAMBIA FUNCIÓN)
+
+Ejemplo griego:
+
+```
+- ὥστε (así que)
+```
+
+Marca [M] solo si:
+- introduce una conclusión independiente
+- cambia de explicación a acción o resolución
+
+## ✔ 3. CAMBIO DE FUNCIÓN DEL DISCURSO
+
+Marca [M] si puedes señalar:
+- explicación → mandato
+- desarrollo → conclusión
+
+👉 Este cambio debe ser visible en:
+- el verbo (modo)
+- o el conector griego
+
+# LO QUE NO PRODUCE [M]
+
+###### ❗ Nunca marques [M] por:
+- cambio de sujeto
+- contraste (pero / ἀλλά / δέ)
+- nueva ilustración
+- repetición
+- progreso del argumento
+
+👉 Todo esto ocurre dentro del mismo movimiento
+
+# PRUEBA MECÁNICA (OBLIGATORIA)
+
+Antes de marcar [M], debes poder responder:
+
+```
+1. ¿El verbo cambia de modo? → sí = posible [M]
+
+2. ¿Hay conector de conclusión (ὥστε)? → sí = posible [M]
+
+3. ¿Se puede demostrar cambio en función estructural?
+   → sí = [M]
+
+Si no puedes señalar esto en el griego → NO marcas [M]
+```
+
+# EJEMPLO
+
+```
+yo ==planté==
+Apolos ==regó==
+[pero] Dios ==dio== crecimiento   ← ❌ NO [M]
+
+[Así que] nadie ==se jacte==      ← ✔ [M]
+```
+
+# FORMATO FINAL
+
+```
+[S: yo → Apolos]
+Apolos ==regó==
+
+[S: Apolos → Dios]
+[pero] Dios ==dio== crecimiento
+
+[S: Dios → nadie]
+[Así que] nadie ==se jacte==   [M]
+```
+
+# REGLA DE CONTROL
+
+###### ❗ Si no puedes señalar el cambio en la gramática griega:
+👉 NO puedes marcar [M]
+
+# ENTIENDE
 
 ##### Qué estás haciendo realmente
-###### Estás dejando visible la línea principal del texto.
+###### Estás dejando visible la línea principal del texto y sus cambios estructurales reales.
 
-##### PRINCIPIO CLAVE
+# PRINCIPIO CLAVE
+
 ###### El tronco contiene solo cláusulas independientes.
 
-##### IDEA CLAVE
-###### No decides qué es importante  
-###### 👉 dejas lo que no depende de otra cláusula  
+###### 👉 [M] marca solo cambios estructurales verificables en el griego.
 
-##### ERROR COMÚN
+# IDEA CLAVE
 
-- Eliminar por sentido  
-- Eliminar sin conector  
-- Conservar cláusulas dependientes  
-- Marcar [M] por impresión subjetiva  
+###### No decides qué es importante
+
+###### 👉 solo eliminas dependencia
+
+###### 👉 solo marcas cambios demostrables
+
+# ERROR COMÚN
+- Marcar [M] por impresión
+- Usar sujeto como criterio
+- Usar contraste como criterio
+- Marcar demasiados [M]
 
 👉 ❌ Incorrecto
 
-##### CORRECTO
+# CORRECTO
 
-- Eliminas solo por dependencia estructural  
-- Mantienes cláusulas independientes  
-- Marcas cambios visibles  
+- Eliminas solo por dependencia estructural
+- Mantienes cláusulas independientes
+- Marcas [M] solo con evidencia griega
 
-## FRASE CLAVE
+# FRASE CLAVE
+> “Elimino lo dependiente.
+>  Marco solo lo que el griego demuestra.”
 
-> “Elimino lo dependiente.  
-> Mantengo lo independiente.”
-
-## QUÉ DEBES NOTAR
+# QUÉ DEBES NOTAR
 
 ###### Cuando haces bien este paso:
+- el texto se reduce al desarrollo principal
+- desaparece lo subordinado
+- los cambios reales se vuelven visibles
+- [M] aparece raramente
 
-- el texto se reduce al desarrollo principal  
-- desaparece lo subordinado  
-- los cambios se vuelven visibles  
-
-## TRANSICIÓN
+# TRANSICIÓN
 
 ###### En el siguiente paso:
+- 👉 trabajarás con cada cláusula del tronco
+- 👉 identificarás su comportamiento
+- 👉 verás cómo avanza el texto
 
-- 👉 trabajarás solo con el tronco  
-- 👉 identificarás patrones en el desarrollo  
-- 👉 comenzarás a ver cómo avanza el texto  
+###### Aquí defines el tronco
 
-###### Aquí defines el tronco  
-###### 👉 luego analizas su desarrollo
+###### 👉 luego observas su comportamiento
 
 # PASO 9 — MARCAR EL COMPORTAMIENTO
 
 ## EJECUTA
 
 ##### ¿Qué haces?
-###### Nombras qué hace la cláusula **solo en los puntos marcados con [M]**.
+###### Nombras qué hace **cada cláusula**.
 
-###### Trabajas únicamente con:
+###### Trabajas con:
 - el tronco (Paso 8)
-- las marcas **[M]**
+- las cláusulas ya estructuradas
 
 ##### REGLA CLAVE
-
-###### ❗ Solo etiquetas donde hay [M]
-
-👉 Si no hay [M], no haces nada  
+###### ❗ Toda cláusula recibe una etiqueta
+👉 No depende de [M]
 
 ##### REGLA FUNDAMENTAL
-
 ###### ❗ No detectas el cambio
-
-👉 El cambio ya fue marcado en el Paso 8  
+👉 La estructura ya fue determinada en pasos anteriores  
 👉 Aquí no decides dónde cambia  
 
-👉 Solo nombras ese cambio  
+👉 Solo nombras lo que cada cláusula hace  
 
 ##### REGLA CRÍTICA
 
-###### ❗ [M] y la etiqueta son dos cosas distintas
+###### ❗ El orden es fijo:
 
-👉 [M] = señala que hay un cambio  
-👉 ::ETIQUETA:: = nombra ese cambio  
+```
+[S] (si existe)
+::ETIQUETA::
+cláusula [M] (si existe)
+```
 
-👉 Nunca reemplazas [M]  
-👉 Nunca decides sin [M]  
+##### ❗ ACLARACIÓN
+- [S] va **arriba de la cláusula**  
+- ::ETIQUETA:: va **antes de la cláusula**  
+- [M] va **al final de la cláusula**  
 
 ## CÓMO HACERLO
 
-1. Busca una marca **[M]**
+1. Toma una cláusula  
 
-2. Lee:
-- la cláusula anterior (A)  
-- la cláusula con [M] (B)  
+2. Observa su relación con la anterior  
 
-3. Observa el cambio entre A y B  
-
-4. Nombra ese cambio con una etiqueta  
+3. Nombra qué hace  
 
 ## ETIQUETAS PERMITIDAS (FIJAS)
 
-```
-EXPONE   RAZÓN   CONTRASTE   RESULTADO
-```
+##### EXPONE • RAZÓN • CONTRASTE • RESULTADO
 
 ## DEFINICIÓN OPERATIVA
 
-###### La etiqueta describe qué hace la línea B respecto a A
+###### La etiqueta describe qué hace la cláusula respecto a la anterior
 👉 No explica contenido  
 👉 No añade ideas  
 👉 No interpreta  
 
-## FORMATO
-
-```
-::ETIQUETA::
-cláusula B   [M]
-```
-
 ## RESULTADO ESPERADO
 
-###### Paso 8:
-
 ```
+::EXPONE::
 yo ==pude== hablarles
-
-yo ==di== a beber leche
-
-no ==podían== recibirlo   [S][M]
-
-ni aun ahora ==pueden==   [M]
-```
-
-###### Paso 9:
-
-```
-yo ==pude== hablarles
-
-yo ==di== a beber leche
-
-::RAZÓN::
-no ==podían== recibirlo   [S][M]
 
 ::EXPONE::
-ni aun ahora ==pueden==   [M]
+yo ==di== a beber leche
+
+[S: yo → ellos]
+::RAZÓN::
+no ==podían== recibirlo
+
+::EXPONE::
+ni aun ahora ==pueden==
+
+## EJEMPLO CON [M]
+
+::AFIRMACIÓN::
+no ==hago== nula la gracia [M]
 ```
 
 ## IMPORTANTE
 
-###### ❗ El conector ya determinó la relación en pasos anteriores
-
-👉 Aquí no lo usas para decidir  
-👉 Solo observas el cambio entre líneas ya estructuradas
-
-###### ❗ No haces preguntas
-
-❌ “¿por qué?”  
-❌ “¿qué pasa?”  
-
+###### ❗ El conector ya determinó la relación
+👉 Aquí no decides  
 👉 Solo nombras  
+
+##### ❗ [M] ES RESTRINGIDO
+###### Solo aparece si es seguro
+👉 Si no puedes demostrarlo → no lo marcas  
 
 ## ERRORES COMUNES
 
-##### ❌ Etiquetar sin [M]
-
-##### ❌ Usar conectores para decidir directamente
-
-##### ❌ Interpretar el texto
-
-##### ❌ Inventar etiquetas
-👉 ❌ Incorrecto  
-
-##### ✔ CORRECTO
-
-- Solo etiquetas donde hay [M]  
-- Mantienes [M] visible  
-- Nombras el cambio observado  
-- Usas solo etiquetas permitidas  
+##### ❌ Poner [S] en línea con la cláusula  
+##### ❌ Poner la etiqueta después  
+##### ❌ Poner [M] antes  
+##### ❌ Etiquetar solo donde hay [M]  
+##### ❌ Interpretar el texto  
 
 ## FRASE CLAVE
-> “No marco el cambio.  
-> No lo explico.  
-> Solo lo nombro.”
+> “No explico el texto.  
+> 👉 Nombró lo que hace cada cláusula.”
 
 ## ENTIENDE
 
 ##### Qué estás haciendo realmente
-###### Estás nombrando lo que ocurre en los puntos donde el texto cambia.
+###### Estás haciendo visible el comportamiento de cada cláusula.
 
 ##### PRINCIPIO CLAVE
-###### El cambio ya fue detectado.  
-###### 👉 La etiqueta solo lo define.
+###### Toda cláusula actúa  
 
-##### IDEA CLAVE
-###### No buscas cambios  
-###### 👉 Solo trabajas donde ya existen  
+###### 👉 Tu trabajo es identificar cómo  
 
 ## QUÉ DEBES NOTAR
 
 ###### Ahora el texto muestra:
-- dónde cambia ([M])  
-- qué tipo de cambio ocurre (::ETIQUETA::)  
+- qué hace cada cláusula  
+- dónde cambia el sujeto ([S])  
+- dónde hay cambio estructural ([M], si existe)  
 
-👉 Dos capas distintas  
+👉 Tres capas distintas  
 
 ## TRANSICIÓN
 
@@ -1902,298 +1932,127 @@ ni aun ahora ==pueden==   [M]
 👉 leerás solo las etiquetas  
 👉 observarás repetición  
 
-###### Aquí nombras el cambio  
-###### 👉 luego ves el patrón
+###### Aquí nombras  
+###### 👉 luego agrupas
 
-# ANTES DE CONTINUAR — LEER EL COMPORTAMIENTO DEL TEXTO
-
-## LO QUE YA TIENES
-
-##### Hasta aquí no has interpretado.
-
-###### Has trabajado el texto mecánicamente:
-
-- identificaste verbos
-- separaste cláusulas
-- organizaste estructura
-- redujiste al tronco (Paso 8)
-
-- marcaste los puntos donde el flujo cambia ([M])
-- nombraste esos cambios (Paso 9)
-
-###### Ahora tienes algo completo:
-
-- 👉 un conjunto de líneas claras
-- 👉 solo las líneas principales
-- 👉 marcas de cambio ([S] y [M])
-- 👉 una etiqueta en cada punto de cambio
-
-##### Esto es **datos procesados**.
-
-## LO QUE CAMBIA AHORA
-
-###### Hasta este punto preguntabas:
-- 👉 ¿qué hay en el texto?
-
-###### Ahora haces algo distinto:
-- 👉 vas a **agrupar lo que ya ves**
-
-## CAMBIO CLAVE
-
-##### Ya no lees el texto como contenido
-👉 lees lo que hacen las líneas
-
-###### En lugar de:
-
-```
-yo no pude hablar
-yo di leche
-no podían
-```
-
-###### Ahora ves:
-
-```
-EXPONE
-EXPONE
-RAZÓN
-```
-
-👉 Esto es lo que usarás a partir de ahora
-
-## NO INTERPRETAS SIGNIFICADO
-
-##### No explicas el texto
-
-##### No enseñas doctrina
-
-##### No aplicas
-👉 Solo observas comportamiento visible
-
-# CÓMO EMPEZAR (MECÁNICO)
-
-##### No buscas tipos de patrón
-
-##### No decides por intuición
-
-👉 Solo haces esto:
-
-### Paso 1
-Mira solo las etiquetas
-
-### Paso 2
-Agrupa las que son iguales
-
-### Paso 3
-Separa cuando cambian
-
-### Paso 4
-Observa qué ocurrió
-
-## LECTURA GUIADA
-
-##### Comportamiento:
-
-```
-EXPONE
-EXPONE
-RAZÓN
-```
-
-##### Paso 1 — agrupar
-
-```
-[EXPONE
- EXPONE]
-
-[RAZÓN]
-```
-
-##### Paso 2 — observar
-- dos líneas iguales → se agrupan
-- una línea distinta → se separa
-- la línea distinta sostiene a las anteriores
-
-###### No interpretaste
-
-###### No explicaste
-👉 solo agrupaste lo que ya estaba visible
-
-## QUÉ DEBES NOTAR
-
-###### Ahora comienzas a ver:
-- repetición (líneas iguales)
-- cambio (líneas diferentes)
-- soporte (una línea depende de otra)
-
-###### Ya no ves líneas aisladas
-👉 ves cómo se agrupan
-
-## REGLA CLAVE
-> No busco patrones — agrupo líneas que hacen lo mismo.
-
-## NOTA
-
-###### Existen formas comunes como:
-- repetición
-- contraste
-- progresión
-
-👉 pero no las buscas directamente
-
-👉 aparecen cuando agrupas correctamente
-
-## LO QUE VIENE
-
-##### Ahora sí estás listo
-
-###### En el siguiente paso:
-
-- 👉 no buscarás información nueva
-- 👉 extenderás las agrupaciones que ya ves
-
-# PASO 10 — IDENTIFICAR PATRONES
+# PASO 10 — DELIMITAR SECCIONES CONTINUAS
 
 ## EJECUTA
 
 ##### ¿Qué haces?
-###### Agrupas las cláusulas del tronco según su comportamiento, usando las etiquetas del Paso 9.
+###### Delimitar dónde el texto continúa  
+###### y dónde comienza una nueva sección.
 
-##### REGLA CLAVE
-
-###### ❗ Solo trabajas con:
-
-- el tronco (Paso 8)  
+###### Trabajas con:
+- el texto estructurado (Paso 8)  
 - las etiquetas (Paso 9)  
-
-👉 No usas el contenido  
-👉 No usas el significado  
+- las marcas [M]  
 
 ##### REGLA FUNDAMENTAL
 
-###### ❗ Agrupas por comportamiento repetido
+###### ❗ No buscas “patrones”
 
-👉 No agrupas por tema  
-👉 No agrupas por idea  
-👉 No agrupas por interpretación  
+👉 Solo observas continuidad y ruptura  
+
+##### REGLA CLAVE
+###### ❗ Una nueva sección comienza solo cuando hay ruptura estructural
+👉 Esa ruptura ya fue marcada como [M]  
 
 ## CÓMO HACERLO
 
-1. Toma el texto del Paso 8 con las etiquetas del Paso 9
+### 1. Lee el texto línea por línea
 
-2. Lee línea por línea
+### 2. Identifica [M]
+👉 Cada vez que aparece [M]:
+- ahí comienza una nueva sección  
 
-3. Haz una sola pregunta:
-> 👉 ¿Esta línea tiene la misma etiqueta que la anterior?
+### 3. Agrupa las líneas
+👉 Todas las líneas antes de [M] pertenecen a la misma sección  
+👉 La línea con [M] inicia una nueva sección  
 
-4. Decide:
-- ✔ Sí → pertenece al mismo grupo  
-- ❌ No → comienza un nuevo grupo  
-
-5. Repite hasta terminar el texto
-
-## REGLA CRÍTICA
-> No buscas el patrón primero  
-> 👉 Primero formas grupos  
-
-## CUÁNDO FORMAR UN GRUPO
-
-###### Solo si hay:
-
-- misma etiqueta  
-- secuencia continua  
-
-###### ❗ Si cambia la etiqueta → termina el grupo
+### 4. Continúa hasta el siguiente [M]
 
 ## RESULTADO ESPERADO
 
 ```
-[EXPONE
- EXPONE]
+[ SECCIÓN 1 ]
 
-[RAZÓN]
+::EXPONE::
+yo ==he sido crucificado==
 
-[EXPONE
- EXPONE]
+::CONTRASTE::
+[y] ya no ==vivo==
+
+[S: yo → Cristo]
+::CONTRASTE::
+[sino] Cristo ==vive== en mí
+
+[S: Cristo → yo]
+::EXPONE::
+==vivo== en la fe
+
+[ SECCIÓN 2 ]
+
+::AFIRMACIÓN::
+no ==hago== nula la gracia [M]
+
+[S: yo → Cristo]
+::RESULTADO::
+[entonces] Cristo ==murió== en vano
 ```
 
-## IDENTIFICACIÓN DEL PATRÓN (DESPUÉS)
+## DEFINICIÓN OPERATIVA
 
-###### Solo después de agrupar puedes observar:
+###### Sección continua = conjunto de cláusulas sin ruptura estructural
 
-- REPETICIÓN  
-- PROGRESIÓN  
-- CONTRASTE  
-- CAUSA–RESULTADO  
-- PARALELISMO  
-- CAMBIO DE SUJETO  
+###### Ruptura = presencia de [M]
 
-##### FORMATO (OPCIONAL)
+## REGLA DE CONTROL
 
-```
-::REPETICIÓN::
-EXPONE
-EXPONE
+###### Debes poder señalar:
+- dónde empieza una sección  
+- dónde termina  
+- qué marca el cambio ([M])  
 
-::RAZÓN::
-RAZÓN
-```
+👉 Si no hay [M], no hay nueva sección  
 
-## IMPORTANTE
+## ACLARACIONES IMPORTANTES
 
-###### ❗ No nombras patrones antes de agrupar
+###### ❗ Las etiquetas no determinan la sección
+👉 Solo describen cada cláusula  
 
-###### ❗ No mezclas líneas con etiquetas diferentes
+###### ❗ [S] no determina la sección
+👉 Solo muestra cambios dentro de la sección  
 
-## ENTIENDE
+###### ❗ Solo [M] delimita
+👉 Si no hay [M], el texto continúa  
 
-##### Qué estás haciendo realmente
-###### Estás pasando de líneas individuales a bloques de comportamiento.
+## ERRORES COMUNES
 
-##### PRINCIPIO CLAVE
-###### El patrón está en la repetición de comportamiento,
-###### no en el contenido del texto.
-
-##### IDEA CLAVE
-###### No observas palabras  
-###### 👉 observas etiquetas  
-
-## ERROR COMÚN
-
-- Agrupar por tema  
-- Agrupar por idea  
-- Mezclar etiquetas distintas  
-- Decidir por intuición  
-
-👉 ❌ Incorrecto  
-
-##### CORRECTO
-
-- Lees etiquetas  
-- agrupas por repetición  
-- respetas la secuencia  
+##### ❌ Crear secciones por “sentido”  
+##### ❌ Usar etiquetas para dividir  
+##### ❌ Usar cambios de sujeto para dividir  
+##### ❌ Forzar divisiones donde no hay [M]  
 
 ## FRASE CLAVE
-> “Agrupo por lo que se repite, no por lo que parece.”
+> “No divido el texto.  
+> 👉 Sigo las rupturas que ya están marcadas.”
 
 ## QUÉ DEBES NOTAR
 
-###### Ahora puedes ver:
-
-- bloques de comportamiento  
-- dónde comienza y termina cada grupo  
-- cómo se organiza el desarrollo  
+###### Cuando lo haces bien:
+- las secciones aparecen claramente  
+- no necesitas explicar nada  
+- el texto se organiza por sí mismo  
 
 ## TRANSICIÓN
 
 ###### En el siguiente paso:
+👉 verificarás si la sección se repite o se extiende  
+👉 confirmarás la consistencia del desarrollo  
 
-👉 tomarás cada grupo  
-👉 lo extenderás  
-👉 seguirás el patrón hasta que termine  
-
-###### Aquí agrupas  
-###### 👉 luego extiendes
+👉 Aquí delimitas  
+👉 luego confirmas
 
 # PASO 11 — EXTENDER EL PATRÓN
 
@@ -2306,6 +2165,7 @@ no ==podían==
 
 ###### Aquí confirmas el patrón  
 ###### 👉 luego delimitas la unidad
+
 
 # PASO 12 — DELIMITAR LA UNIDAD
 

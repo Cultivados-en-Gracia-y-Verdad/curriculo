@@ -14,132 +14,135 @@ cover: "images/Caratula.png"
 Pablo, apóstol de Jesucristo por la voluntad de Dios, y el hermano Timoteo,
 
 #### Pablo, apóstol de Jesucristo
-##### Pablo se presenta como un apóstol. Apostol describe su función.  
+##### Pablo se presenta <u>como</u> un apóstol ([APOSTOLOS](https://discipuladocgv.org/roots/lexico/lex/#lex-g4102-pistis)). Apostol describe su función.  
 
-Apóstol (APOSTOLOS)
-: 
+##### Al decir *de Jesucristo*,  indica relación con la <u>función</u> de enviado, mensajero o comisionado con un propósito. Hechos 9:15-16, 22:21
 
+###### La palabra <u>apóstol</u> tambien es traducida como mensajero. 2 Corintios 8:23; Filipenses 2:25; Hechos 14:14 
 
-##### Al decir "de Jesucristo",  indica relación con la función de enviado, mensajero o comisionado con un propósito. Hechos 9:15-16, 22:21
+##### Esta comisión de apostolado está de <u>acuerdo</u> con la voluntad de Dios. Esta presentación debería haber puesto a los oyentes a tomar atención y estar completamente receptivos al mensaje que abarcaría en toda la carta. 2 Pedro 3:2; Efesios 2:19-20; 1 Corintios 12:28; Judas 1:17
 
-##### Esta comisión de apostolado está de acuerdo con la voluntad de Dios, esta presentación debería haber puesto a los oyentes a prestar plena atención y estar completamente receptivos al mensaje que abarcaría en toda la carta. 2 Pedro 3:2; Efesios 2:19-20; 1 Corintios 12:28; Judas 17
+###### A diferencia de los otros apóstoles que <u>fueron</u> comisionados por Jesucristo durante su ministerio terrenal, Pablo fue llamado como apóstol por medio de una revelación especial en camino a Damasco por Jesucristo después de haber resucitado. Hechos 9:3-6
 
-##### A diferencia de los otros apóstoles que fueron comisionados por Jesucristo durante su ministerio terrenal, Pablo fue llamado como apóstol por medio de una revelación especial en camino a Damasco por Jesucristo resucitado. Hechos 9:3-6
+###### Pablo se dirige <u>como</u> apóstol a los gentiles directamente comisionado por Jesucristo. Romanos 11:13; Gálatas 2:8; 1 Timoteo 2:7; 2 Timoteo 1:11; 1 Corintios 1:1; 2 Timoteo 1:1, 5
 
-##### Pablo se dirige como apóstol a los gentiles directamente comisionado por Jesucristo. Romanos 11:13 ; Gálatas 2:8 ; 1 Timoteo 2:7; 2 Timoteo 1:11; 1 Corintios 1:1; 2 Timoteo 1:1, 5
+###### Sin embargo existían creyentes que <u>dudaban</u> del apostolado de Pablo y de sus enseñanzas.  1 Corintios 9:1-2; Gálatas 1:1 
 
-##### Sin embargo muchos creyentes dudaban del apostolado de Pablo y de sus enseñanzas.  1 Corintios 9:1-2; Gálatas 1:1 
-
-##### Pablo es parte de los 12 apóstoles del cordero, Jesús durante su ministerio terrenal directamente comisionó a 11(exceptuando a uno la muerte de Judas iscariote), y resucitado como último comisionó a Pablo.1 Corintios 15:7-9; Apocalipsis 21:14
-
-##### La palabra apóstol tambien es traducida como mensajero. 2 Corintios 8:23; Filipenses 2:25; Hechos 14:14 
+###### Pablo es parte de los 12 apóstoles del cordero, Jesús <u>durante</u> su ministerio terrenal directamente comisionó a 11(exceptuando a uno la muerte de Judas iscariote), y resucitado como último comisionó a Pablo.1 Corintios 15:7-9; Apocalipsis 21:14
 
 #### por la voluntad de Dios
-##### Es importante esta mención debido a que Dios mismo lo apartó y llamó por su gracia desde el vientre de su madre para un propósito, el anunciarlo entre los gentiles. Gálatas 1:15-16; 1 Corintios 1:1; 2 Corintios 1:1;  2 Timoteo 1:1
+##### Es importante esta mención debido a que Dios mismo lo apartó y llamó por su gracia desde el vientre de su <u>madre</u> para un propósito; el anunciarlo entre los gentiles. Gálatas 1:15-16; 1 Corintios 1:1; 2 Corintios 1:1;  2 Timoteo 1:1
 
 #### y el hermano Timoteo
-##### Timoteo es mencionado como un *hermano en Cristo* que se encontraba con Pablo mientras escribía la carta. Timoteo es mencionado tambien en otras de sus epístolas. 2 Corintios 1:1; Filemón 1; Filipenses 1:1
+##### Timoteo es mencionado como un *hermano en Cristo* que se encontraba con Pablo mientras escribía la <u>carta</u>. 
 
-###### Timoteo era un fiel compañero y colaborador del apóstol Pablo, es mencionado como su hijo en la fe, y dos de sus epístolas están dirigidas a Timoteo. 1 Timoteo 1:2; 2 Timoteo 1:2; Hechos 16:1
+###### Timoteo es mencionado tambien en <u>otras</u> de sus epístolas. 2 Corintios 1:1; Filemón 1; Filipenses 1:1
 
-###### Fue enviado por el apóstol Pablo a Tesalónica con el fin de animar a los Creyentes, es descrito Timoteo como un hermano y colaborador de Dios en el evangelio. 1 Tesalonicenses 3:2; Filipenses 2:19-23
+###### Timoteo era un fiel compañero y colaborador del apóstol Pablo, es mencionado como su hijo en la fe, y dos de sus epístolas <u>están</u> dirigidas a Timoteo. 1 Timoteo 1:2; 2 Timoteo 1:2; Hechos 16:1
+
+###### Fue enviado por el apóstol Pablo a Tesalónica con el fin de <u>animar</u> a los Creyentes, es descrito Timoteo como un hermano y colaborador de Dios en el evangelio. 1 Tesalonicenses 3:2; Filipenses 2:19-23
 
 ### Colosenses 1:2 
 a los santos y fieles hermanos en Cristo que están en Colosas: Gracia a ustedes y paz de parte de Dios nuestro Padre.
 
-###### La carta inicia siguiendo un formato epistolar grecorromano de la época.  
+###### La carta <u>inicia</u> siguiendo un formato epistolar grecorromano de la época.  
 - Remitente: *Pablo*
 - Destinatario: *los santos y fieles hermanos en Cristo que están en Colosas*
 - Saludo: *Gracia a ustedes y paz de parte de Dios nuestro Padre*
 
-##### Los destinatarios de esta carta eran los creyentes que habitaban en la ciudad de Colosas, sin embargo esta carta inspirada por el espíritu santo a nosotros como creyentes nos es de mucha edificación y crecimiento. 2 Timoteo 3:16; 2 Pedro 1:20-21
+##### Los destinatarios de esta carta <u>eran</u> los creyentes que habitaban en la ciudad de Colosas. Sin embargo, esta carta inspirada por El Espíritu Santo es también a nosotros como creyentes y nos es de mucha edificación y crecimiento. 2 Timoteo 3:16; 2 Pedro 1:20-21
 
 #### a los santos y fieles hermanos en Cristo que están en Colosas:
-##### La mención a los creyentes como santos y fieles son adjetivos, quiere decir que Pablo se encuentra describiendo una realidad de los creyentes en Cristo.
+##### Es importante notas como se refiere Pablo a <u>estos</u> creyentes. Las palabras *santos* y *fieles* son adjetivos.  Quiere decir que Pablo se encuentra describiendo una realidad de los creyentes en Cristo.
 
-##### Es importante mencionar que cada creyente ha sido hecho santo, JAGIOS significa apartado, los creyentes hemos sido apartados para Dios con un propósito. La santidad es una realidad posicional en la que el creyente es visto por Dios como un santo, sin embargo estos santos son llamados a vivir en una santidad práctica. 1 Corintios 1:2
+Santos [JAGIOS](https://discipuladocgv.org/roots/lexico/lex/#lex-g40-hagios)
+: apartado, 
 
-##### La palabra fiel o tambien fe PISTOS significa alguien digno de confianza, en este pasaje nos muestra como un adjetivo el cual se encuentra describiendo lo que ya son los creyentes, Un creyente no puede producir fidelidad o fe en sus propias fuerzas, es un fruto del espíritu, y esto resultará prácticamente en su andar por fe. Efesios. 1:1; Gálatas 5:22
+###### Los creyentes hemos sido apartados <u>para</u> Dios con un propósito. La santidad es una realidad posicional en la que el creyente es visto por Dios como un santo, sin embargo estos santos son llamados a vivir en una santidad práctica. 1 Corintios 1:2
 
-##### Estos adjetivos mencionados describen a los creyentes, sin embargo los creyentes pueden no estar andando en santidad y fidelidad en su diario vivir, no obstante esto no les quita su realidad posicional en Cristo que fue otorgada por gracia al momento de su salvación. 1 Corintios 1:30
+##### La palabra fiel o tambien fe [PISTOS](https://discipuladocgv.org/roots/lexico/lex/#lex-g4102-pistis) significa alguien digno de confianza, en este pasaje nos muestra como un adjetivo el cual se encuentra describiendo lo que ya son los creyentes, Un creyente no puede producir fidelidad o fe en sus <u>propias</u> fuerzas, es un fruto del espíritu, y esto resultará prácticamente en su andar por fe. Efesios. 1:1; Gálatas 5:22
+
+##### Estos adjetivos mencionados describen a los creyentes, sin embargo los creyentes pueden no estar andando en santidad y fidelidad en su <u>diario</u> vivir, no obstante esto no les quita su realidad posicional en Cristo que fue otorgada por gracia al momento de su salvación. 1 Corintios 1:30
 
 #### Gracia a ustedes y paz de parte de Dios nuestro Padre
-##### El deseo del apóstol Pablo era que la gracia y paz que provienen de Dios estén en los creyentes, es importante recordar la gracia que nos fue dada de parte de Dios por medio de la obra que Cristo realizó a nuestro favor. Romanos 1:7, 8:15 ; Gálatas 4:6
+##### El deseo del apóstol Pablo era que la gracia y paz que provienen de Dios estén en los creyentes, es importante recordar la <u>gracia</u> que nos fue dada de parte de Dios por medio de la obra que Cristo realizó a nuestro favor. Romanos 1:7, 8:15 ; Gálatas 4:6
 
-##### La palabra gracia JARIS significa un favor ú regalo inmerecido, en este caso de Dios a todos los creyentes, la misma gracia por la que habían sido salvados, la misma gracia por la cual tambien serán salvos y santificados. Efesios 2:8; Tito 2:11-13
+##### La palabra gracia [JARIS](https://discipuladocgv.org/roots/lexico/lex/) significa un favor ú regalo inmerecido, en este caso de Dios a todos los creyentes, la misma gracia por la que habían sido salvados, la misma <u>gracia</u> por la cual tambien serán salvos y santificados. Efesios 2:8; Tito 2:11-13
 
-##### La palabra paz EIRENE significa bienestar o tranquilidad mental, esta paz no proviene de nosotros mismos o de las circunstancias en las que nos encontremos, sino que proviene de parte de Dios, a pesar de las circunstancias, y esta es una bendición grande a los creyentes, estar contando con la paz de parte de nuestro Dios y Padre. Filipenses 4:7,9; Juan 14:27
+##### La palabra paz [EIRENE](https://discipuladocgv.org/roots/lexico/lex/) significa bienestar o tranquilidad mental, esta paz no proviene de nosotros mismos o de las circunstancias en las que nos encontremos, sino que proviene de parte de Dios, a pesar de las circunstancias, y esta es una bendición grande a los creyentes, estar contando con la paz de <u>parte</u> de nuestro Dios y Padre. Filipenses 4:7,9; Juan 14:27
 
-##### Es importante la mención que Dios es nuestro Padre, reconociendo que somos hijos de Dios y que se nos ha otorgado a todos sus hijos estas bendiciones. 1 Juan 3:1-3; Juan 1:12
+##### Es importante la mención que Dios es referido como *nuestro Padre*, recordandoles que ambos Pablo, Timoteo y ellos compartían un mismo Padre. Colosenses 1:12, 1:19, 3:17; Juan 1:12
+
+###### Al creer en Jesucristo nosotros también llegamos a compartir el mismo Padre celestial. 1 Juan 3:1-3
 
 ## Colosenses 1:3–5 - Acción de gracias por lo oído 
 
-##### Es impactante observar como los hermanos reunidos continuamente oraban por los creyentes en la ciudad de Colosas, y es de impacto escuchar que el amor entre hermanos en el espíritu, es un fruto del evangelio, el evangelio estaba produciendo frutos de amor sincero nacido por causa de oír la palabra de verdad.
+##### Es impactante observar como los hermanos reunidos continuamente oraban por los creyentes en la ciudad de Colosas, y es de impacto escuchar que el <u>amor</u> entre hermanos en el espíritu, es un fruto del evangelio, el evangelio estaba produciendo frutos de amor sincero nacido por causa de oír la palabra de verdad.
 
 ### Colosenses 1:3 
 Damos gracias a Dios, el Padre de nuestro Señor Jesucristo, orando siempre por ustedes,
 
-##### Pablo se encontraba agradeciendo a Dios y orando continuamente por los hermanos en Colosas. Romanos 1:8; Filipenses 1:3
+##### Pablo se encontraba agradeciendo a Dios y **orando** continuamente por los hermanos en Colosas. Romanos 1:8; Filipenses 1:3
 
 #### Damos gracias a Dios
-##### Es importante la mención en plural, significando que Pablo y los creyentes que estaban con él posiblemente en Roma durante su primer encarcelamiento, el motivo de agradecimiento era el fruto del evangelio entre los creyentes Colosenses. Efesios 1:15-16
+##### Es importante la mención en **plural**, significando que Pablo y los creyentes que estaban con él posiblemente en Roma durante su primer encarcelamiento, el motivo de agradecimiento era el fruto del evangelio entre los creyentes Colosenses. Efesios 1:15-16
 
-##### Es de mucho gozo saber que la obra en el señor no es en vano, y Pablo se estaba enterando por medio de Epafras que el evangelio estaba dando frutos, y esto es causa de mucho agradecimiento a Dios. 1 Corintios 15:58
+##### Es de mucho gozo saber que la obra en el Señor no es en **vano**, y Pablo se estaba enterando por medio de Epafras que el evangelio estaba dando frutos. Esto es causa de mucho agradecimiento a Dios. 1 Corintios 15:58
 
-##### Hay una gran diferencia entre ser agradecido a Dios de corazón sincero por sus provisiones inmerecidas y favor hacia nosotros, a diferencia de que nos enseñaron obligadamente a dar gracias de manera forzada por todo lo que Dios nos da, y en este pasaje el agradecimiento es genuino por lo que él hizo a través de la predicación del evangelio.
+##### Hay una gran diferencia entre ser agradecido a Dios de corazón sincero por sus provisiones inmerecidas y favor <u>hacia</u> nosotros, a diferencia de que nos enseñaron obligadamente a dar gracias de manera forzada por todo lo que Dios nos da, y en este pasaje el agradecimiento es genuino por lo que él hizo a través de la predicación del evangelio.
 
 #### el Padre de nuestro Señor Jesucristo
-##### La mención anterior de Dios nuestro Padre, y ahora afirma como el Padre de nuestro Señor Jesucristo, afirma verdades importantes para el creyente. Romanos 15:6; 2 Corintios 1:3; Apocalipsis 1:5-6
+##### La mención anterior de Dios nuestro Padre, y ahora <u>afirma</u> como el Padre de nuestro Señor Jesucristo, afirma verdades importantes para el creyente. Romanos 15:6; 2 Corintios 1:3; Apocalipsis 1:5-6
 
 #### orando siempre por ustedes
-##### Pablo quería que sepan cuan intensamente oraban por ellos, quería que conozcan que los creyentes se encontraban fervientemente orando por cada uno de ellos para que sigan creciendo en el conocimiento de Dios el Padre y de su hijo Jesucristo, y les anima durante la carta a perseverar en la oración los unos por los otros. Colosenses 4:2
+##### Pablo quería que sepan cuan intensamente oraban por ellos, quería que conozcan que los creyentes se encontraban fervientemente <u>orando</u> por cada uno de ellos para que sigan creciendo en el conocimiento de Dios el Padre y de su hijo Jesucristo, y les anima durante la carta a perseverar en la oración los unos por los otros. Colosenses 4:2
 
 ### Colosenses 1:4
 pues hemos oído de su fe en Cristo Jesús y del amor que tienen por todos los santos,
 
-##### A través de Epafras Pablo y los creyentes que estaban con él oían de la fe y del amor que el evangelio estaba produciendo en los creyentes que probablemente había llegado hasta Colosas por medio de la predicación del evangelio en de Éfeso. Hechos 19:10
+##### A través de Epafras Pablo y los creyentes que estaban con él oían de la fe y del amor que el evangelio estaba produciendo en los creyentes que probablemente <u>había</u> llegado hasta Colosas por medio de la predicación del evangelio en de Éfeso. Hechos 19:10
 
 #### pues hemos oído de su fe en Cristo Jesús
-##### La fe de los creyentes para su salvación  estaba la persona y obra correcta: Jesucristo, fueron salvados por gracia mediante la predicación del evangelio, y ahora el evangelio estaba produciendo frutos en su diario caminar.
+##### La fe de los creyentes para su salvación  estaba la persona y obra correcta: Jesucristo, fueron salvados por gracia mediante la predicación del evangelio, y ahora el evangelio estaba produciendo <u>frutos</u> en su diario caminar.
 
 #### y del amor que tienen por todos los santos
-##### Este amor AGAPE, es producido en el creyente por medio del espíritu, un amor hacia todos los santos, es el resultado del discipulado. Juan 13:35, 15:11-17
+##### Este amor [AGAPE](https://discipuladocgv.org/roots/lexico/lex/#lex-g4102-pistis), es producido en el creyente por <u>medio</u> del espíritu, un amor hacia todos los santos, es el resultado del discipulado. Juan 13:35, 15:11-17
 
-##### El andar en el espíritu de los creyentes de Colosas era visible, debido a que podrían ver el amor genuino manifestado a todos los santos como un fruto que proviene únicamente de parte de Dios. Gálatas 5:22
+##### El andar en el espíritu de los creyentes de Colosas era visible, debido a que podrían ver el amor genuino manifestado a todos los <u>santos</u> como un fruto que proviene únicamente de parte de Dios. Gálatas 5:22
 
 ### Colosenses 1:5 
 a causa de la esperanza reservada para ustedes en los cielos. De esta esperanza ustedes oyeron antes en la palabra de verdad, el evangelio
 
-##### La causa que producía este amor hacia todos los santos era una esperanza que habían escuchado en la palabra del evangelio. Romanos 15:13
+##### La causa que producía este <u>amor</u> hacia todos los santos era una esperanza que habían escuchado en la palabra del evangelio. Romanos 15:13
 
 #### a causa de la esperanza reservada para ustedes en los cielos
-##### La esperanza reservada que tienen los santos son las riquezas de la herencia en los cielos, esta esperanza estaba cambiando su perspectiva de vivir y como consecuencia estaban manifestando un amor genuino por todos los santos. Efesios 1:18
+##### La esperanza reservada que tienen los santos son las riquezas de la herencia en los cielos, esta esperanza estaba cambiando su perspectiva de <u>vivir</u> y como consecuencia estaban manifestando un amor genuino por todos los santos. Efesios 1:18
 
 #### De esta esperanza ustedes oyeron antes en la palabra de verdad, el evangelio 
-##### La esperanza que habían oído era la palabra de verdad, el evangelio de su salvación, y creyendo en esta buena noticia fueron salvos. Efesios 1:13-14; 2 Timoteo 4:8; 1 Pedro 1:4
+##### La esperanza que habían oído era la palabra de verdad, el evangelio de su salvación, y creyendo en esta buena noticia fueron <u>salvos</u>. Efesios 1:13-14; 2 Timoteo 4:8; 1 Pedro 1:4
 
-##### La única palabra de verdad es el Evangelio, fuera de este mensaje no existe verdad para salvación. Efesios 4:21
+##### La única palabra de verdad es el Evangelio, fuera de este mensaje no <u>existe</u> verdad para salvación. Efesios 4:21
 
-##### El evangelio consiste en el anuncio de una buena noticia para salvación, y se trata específicamente de una persona y una obra realizada, La persona Jesucristo, la obra que hizo, morir por nuestros pecados. 1 Corintios 15:3-4; Hechos 16:30-32; Juan 3:16-18; 1 Juan 5:13
+##### El evangelio es la proclamación de una buena noticia para la salvación, centrándose en una persona y una obra específica: Jesucristo y su sacrificio por nuestros pecados.  1 Corintios 15:3-4; Hechos 16:30-32; Juan 3:16-18; 1 Juan 5:13
 
-##### El deseo de Dios es que todos sean salvos y vengan al conocimiento de la verdad .1 Timoteo 2:4; Ezequiel 18:23, 33:11 
+##### El deseo de Dios es que todos <u>sean</u> salvos y vengan al conocimiento de la verdad .1 Timoteo 2:4; Ezequiel 18:23, 33:11 
 
-##### El anunció de la predicación del evangelio es para todo el mundo y a todas las naciones. Mateo 28:18-20; Marcos 16:15; Hechos 1:8, 6:7; Lucas 24:44-49 
+##### El anunció de la predicación del evangelio es para todo el <u>mundo</u> y a todas las naciones. Mateo 28:18-20; Marcos 16:15; Hechos 1:8, 6:7; Lucas 24:44-49 
 
 ## Colosenses 1:6–8 - El evangelio y su efecto 
 
 ### Colosenses 1:6
 que ha llegado hasta ustedes. Así como en todo el mundo está dando fruto constantemente y creciendo, así lo ha estado haciendo también en ustedes, desde el día que oyeron y comprendieron la gracia de Dios en verdad.
 
-##### Este evangelio había llegado a los Colosenses y en todo el mundo estaba dando fruto mediante la comprensión de la gracia de Dios, la comprensión plena de la gracia hará que los creyentes puedan llevar el fruto del evangelio en sus vidas.
+##### Este evangelio había llegado a los Colosenses y en todo el mundo estaba dando <u>fruto</u> mediante la comprensión de la gracia de Dios, la comprensión plena de la gracia hará que los creyentes puedan llevar el fruto del evangelio en sus vidas, *oyeron y comprendieron la gracia de Dios en verdad*. 
 
 #### que ha llegado hasta ustedes
-##### El evangelio se expandía por todas las regiones siendo de bendición a todas las familias de la tierra. Hechos 1:8; Génesis 12:3
+##### El evangelio se expandía por todas las regiones siendo de bendición a <u>todas</u> las familias de la tierra. Hechos 1:8; Génesis 12:3
 
 #### Así como en todo el mundo está dando fruto constantemente y creciendo
-##### Este fruto estaba dando constantemente entre los creyentes de todo el mundo.
+##### Este fruto estaba dando constantemente <u>entre</u> los creyentes de todo el mundo.
 
-##### La palabra creciendo AUXANO se encuentra en voz pasiva, mostrando que no eran los individuos que estaban haciendo crecer el evangelio. Mateo 16:15-18
+##### La palabra creciendo [AUXANO](https://discipuladocgv.org/roots/lexico/lex/#lex-g4102-pistis) se encuentra en <u>voz</u> pasiva, mostrando que no eran los individuos que estaban haciendo crecer el evangelio. Mateo 16:15-18
 
 #### así lo ha estado haciendo también en ustedes
 ##### Los creyentes de Colosas eran testigos directos del fruto del evangelio y este amor que proviene de la palabra de verdad era evidente para todos.
@@ -147,49 +150,45 @@ que ha llegado hasta ustedes. Así como en todo el mundo está dando fruto const
 #### desde el día que oyeron y comprendieron la gracia de Dios en verdad
 ##### El día en que oyeron el evangelio y creyeron fueron salvos, Justificados gratuitamente por la fe en Jesucristo. Romanos 5:1-2 
 
-##### Entendiendo que cada creyente ha obtenido la entrada por la fe a esta gracia, el deseo sincero es que puedan seguir creciendo en el conocimiento de ella. 2 Pedro 3:18; Tito 2:11-13; 2 Timoteo 2:4; 1 Corintios 1:18
+##### Entendiendo que cada creyente ha obtenido la entrada por la fe a esta <u>gracia</u>, el deseo sincero es que puedan seguir creciendo en el conocimiento de ella. 2 Pedro 3:18; Tito 2:11-13; 2 Timoteo 2:4; 1 Corintios 1:18
 
 ## Colosenses 1:7-8 Epafras informó del amor entre los creyentes
 
-##### Es interesante ver que un mensajero del evangelio les comunicó a los Colosenses esta buena noticia acerca de esta gracia de Dios y ahora estaba junto con Pablo contándoles acerca de los hechos impresionantes que el evangelio estaba causando en los creyentes.
+##### Es interesante ver que un mensajero del evangelio les comunicó a los Colosenses esta buena noticia acerca de esta gracia de Dios y ahora <u>estaba</u> junto con Pablo contándoles acerca de los hechos impresionantes que el evangelio estaba causando en los creyentes.
 
 ### Colosenses 1:7
 Así ustedes lo aprendieron de Epafras, nuestro amado consiervo, quien es fiel servidor de Cristo de parte nuestra,
 
-##### Pablo describe a Epafras considerándolo como un siervo fiel de Cristo y compañero de trabajo de Pablo en la predicación del evangelio que mostraba una intensa oración a favor de los Colosenses, demostrando valentía y firmeza en su fe hasta el punto de sufrir prisiones por causa del evangelio.
+##### Pablo describe a Epafras considerándolo como un siervo fiel de Cristo y compañero de trabajo de Pablo en la predicación del evangelio que mostraba una intensa oración a favor de los Colosenses, demostrando valentía y firmeza en su fe hasta el punto de <u>sufrir</u> prisiones por causa de el evangelio.
 
 #### Así ustedes lo aprendieron de Epafras
-##### Epafras posiblemente escuchó el evangelio en uno de los viajes misioneros de Pablo, y fue a compartir esta buena noticia a los de la ciudad de Colosas.
+##### Epafras posiblemente escuchó el evangelio en uno de los <u>viajes</u> misioneros de Pablo, y fue a compartir esta buena noticia a los de la ciudad de Colosas.
 
-##### También es mencionado su nombre en la carta a Filemón, que fue escrita durante el primer encarcelamiento del apóstol Pablo, es descrito como un compañero de prisión en Cristo Jesús, posiblemente llegó a estar encarcelado por la predicación del evangelio junto con Pablo. Filemón 23
+##### También es mencionado su nombre en la carta a Filemón, que fue escrita <u>durante</u> el primer encarcelamiento del apóstol Pablo, es descrito como un compañero de prisión en Cristo Jesús, posiblemente llegó a estar encarcelado por la predicación del evangelio junto con Pablo. Filemón 23
 
 #### nuestro amado consiervo
-##### Pablo y los creyentes que con él estaban mostraban un amor sincero en Cristo Jesús hacia Epafras y otros hermanos en la fe llamándolos amados. Colosenses 4:7-9,14
+##### Pablo y los creyentes que con él estaban mostraban un <u>amor</u> sincero en Cristo Jesús hacia Epafras y otros hermanos en la fe llamándolos amados. Colosenses 4:7-9, 14
 
-##### La palabra consiervo SUNDOULOS significa compañero de esclavitud, un co-servidor o colega que sirven al mismo amo, ambos servían a Cristo de la misma manera.
+##### La palabra consiervo [SUNDOULOS](https://discipuladocgv.org/roots/lexico/lex/#lex-g4102-pistis) significa compañero de esclavitud, un co-servidor o colega que sirven al mismo amo, ambos servían a Cristo de la misma manera.
 
 #### quien es fiel servidor de Cristo de parte nuestra 
-##### Pablo reconoce el fiel servicio de Epafras hacia Cristo, era alguien que compartía el mismo mensaje fiel del evangelio al igual que Pablo en su ministerio a los gentiles.
+##### Pablo reconoce el fiel servicio de Epafras hacia Cristo. Era alguien que compartía el mismo mensaje fiel del evangelio al igual que Pablo en su ministerio a los gentiles.
 
-##### La BTX4 lo traduce así: *quien es fiel servidor de CRISTO para vosotros,*
+###### *quien es fiel servidor de CRISTO para vosotros,*  (BTX4)
 
 ### Colosenses 1:8
 el cual también nos informó acerca del amor de ustedes en el Espíritu
 
-##### Epafras viajó para  visitar a Pablo e informarle sobre el amor que estaba produciendo el evangelio en los Colosenses.
+##### Epafras viajó para  visitar a Pablo e informarle <u>sobre</u> el amor que estaba produciendo el evangelio en los Colosenses.
 
-##### Este amor AGAPE era en el espíritu, un amor que el espíritu estaba produciendo en los creyentes, estaban amando a través del espíritu que tenían en Cristo y no en sus propias fuerzas. Gálatas 5:22; 1 Corintios 13:1-8; Colosenses 3:12-14; 1 Juan 4:11-12; Romanos 15:30 
+##### Este amor [AGAPE](https://discipuladocgv.org/roots/lexico/lex/#lex-g4102-pistis) era *en el Espíritu*, un amor que el Espíritu estaba produciendo en los creyentes. Estaban amando a través del Espíritu que tenían y no en sus propias fuerzas. Gálatas 5:22; 1 Corintios 13:1-8; Colosenses 3:12-14; 1 Juan 4:11-12; Romanos 15:30 
 
-##### Epafras tenía mucho interés por los creyentes Colosenses y se preocupaba profundamente por la madurez espiritual de los creyentes. Colosenses 4:12 
+###### Epafras tenía mucho interés por los creyentes Colosenses y se preocupaba profundamente por su madurez espiritual. Colosenses 4:12 
 
 ## Colosenses 1:9–11 - Oración continua por los creyentes 
 
-##### Desde el día que se enteraron que los Colosenses habían creído en el evangelio, se pusieron a orar fervientemente para que puedan crecer en el conocimiento y comprensión espiritual, para que puedan andar de una manera digna que agrada al Señor, y que puedan vivir siendo fortalecidos con el poder del evangelio en su diario caminar.
-
 ### Colosenses 1:9
 Por esta razón, también nosotros, desde el día que lo supimos, no hemos cesado de orar por ustedes, pidiendo que sean llenos del conocimiento de Su voluntad en toda sabiduría y comprensión espiritual,
-
-##### Los motivos de oración ferviente por los creyentes era para que puedan ser llenos del conocimiento pleno de la voluntad de Dios, en una sabiduría y comprensión que solo el espíritu podría brindarles.
 
 #### Por esta razón, también nosotros, desde el día que lo supimos
 ##### Empieza mostrando el propósito de las oraciones por los Colosenses, desde el día que se enteraron que habían creído en el evangelio. Colosenses 1:4
@@ -200,20 +199,22 @@ Por esta razón, también nosotros, desde el día que lo supimos, no hemos cesad
 #### pidiendo que sean llenos del conocimiento de Su voluntad
 ##### El motivo de la oración era por que conozcan plenamente la voluntad de Dios para sus vidas (o el verdadero conocimiento).  2 Timoteo 2:25; Tito 1:1
 
-##### El ser llenos PLEROO significa hacer repleto u completamente lleno, se encuentra en voz pasiva, indicándonos que el sujeto recibe la acción (no se llena el mismo sino se deja ser llenado), el modo subjuntivo nos explica la posibilidad de que esto suceda (puede dejarse ser completamente llenado).
+##### El ser llenos [PLEROO](https://discipuladocgv.org/roots/lexico/lex/#lex-g4102-pistis) significa hacer repleto u completamente lleno, se encuentra en voz pasiva, indicándonos que el sujeto recibe la acción (no se llena el mismo sino se deja ser llenado), el modo subjuntivo nos explica la posibilidad de que esto suceda (puede dejarse ser completamente llenado).
 
 ##### Es muy importante el conocimiento de la voluntad de Dios. 1 Timoteo 2:4; Romanos 12:2; Oseas 4:6; Efesios 1:17, 5:17; 1 Juan 5:14
 
-##### La palabra conocimiento EPIGNOSIS expresa de manera intensificada un conocimiento pleno, es formado por la preposición EPI que significa acertado, y GNOSIS conocimiento, expresando un conocimiento acertado, esto contrasta con la corriente del gnosticismo que se enfoca en un conocimiento que no es acertado.
+##### La palabra conocimiento [EPIGNOSIS](https://discipuladocgv.org/roots/lexico/lex/#lex-g4102-pistis) expresa de manera intensificada un conocimiento pleno, es formado por la preposición EPI que significa acertado, y GNOSIS conocimiento, expresando un conocimiento acertado, esto contrasta con la corriente del gnosticismo que se enfoca en un conocimiento que no es acertado.
 
 #### en toda sabiduría y comprensión espiritual 
 ##### Es necesario que los creyentes puedan entender la voluntad de Dios en toda sabiduría, la sabiduría que viene de Dios no es terrenal sino que proviene de lo alto. Santiago 1:5, 3:17-18; 1 Corintios 1:18-20
 
 ##### La sabiduría que proviene de Dios viene de ir creciendo hacia la madurez espiritual y llegar a poder discernir las palabras por medio del espíritu. 1 Corintios 2:6-16
 
-##### La palabra comprensión SUNESIS o inteligencia nos habla de la capacidad de discernir plenamente los conceptos y sus relaciones. 
+##### La palabra comprensión [SUNESIS](https://discipuladocgv.org/roots/lexico/lex/#lex-g4102-pistis) o inteligencia nos habla de la capacidad de discernir plenamente los conceptos y sus relaciones. 
 
 ##### Una mala comprensión de las escrituras llevará a torcer la verdad de cada pasaje en su contexto original, es muy importante la precisión en cuanto a la palabra de verdad. 2 Timoteo 2:14-16; 2 Pedro 3:16-18
+
+Desde el día que se enteraron que los Colosenses habían creído en el evangelio, se pusieron a orar fervientemente para que puedan crecer en el conocimiento y comprensión espiritual, para que puedan andar de una manera digna que agrada al Señor, y que puedan vivir siendo fortalecidos con el poder del evangelio en su diario caminar.
 
 ### Colosenses 1:10 
 para que anden como es digno del Señor, haciendo en todo, lo que le agrada, dando fruto en toda buena obra y creciendo en el conocimiento de Dios.
@@ -223,7 +224,7 @@ para que anden como es digno del Señor, haciendo en todo, lo que le agrada, dan
 #### para que anden como es digno del Señor
 ##### La sabiduría y comprensión espiritual en el creyente resultará en entender como Dios quiere que anden los creyentes en su santificación (diario vivir). 
 
-##### La palabra andar PERIPATEO significa de manera figurativa como vivir, comportarse o conducirse, es usada para mostrar como viven las personas. Efesios 4:17
+##### La palabra andar [PERIPATEO](https://discipuladocgv.org/roots/lexico/lex/#lex-g4102-pistis) significa de manera figurativa como vivir, comportarse o conducirse, es usada para mostrar como viven las personas. Efesios 4:17
 
 ##### Dios quiere que el creyente (Justo) viva o ande continuamente confiando en él y sus provisiones (por fe), de la misma manera en que creímos en un mensaje para salvarnos confiando que él lo prometió, así podamos vivir nuestra santificación. Colosenses 2:6; Romanos 1:16-17; Hebreos 10:38; 2 Corintios 5:7
 
@@ -237,7 +238,9 @@ para que anden como es digno del Señor, haciendo en todo, lo que le agrada, dan
 #### dando fruto en toda buena obra
 ##### Uno de los propósitos de conocer plenamente la voluntad de Dios es el que el creyente pueda estar llevando el fruto del evangelio en su vida en tiempo presente.
 
-##### La BTX4 lo traduce: *.llevando fruto en toda buena obra* el creyente no produce el fruto, sino que lleva el fruto que el evangelio está produciendo. Colosenses 1:6
+###### *llevando fruto en toda buena obra* (BTX4) 
+
+##### El creyente no produce el fruto, sino que lleva el fruto que el evangelio está produciendo. Colosenses 1:6
 
 ##### El estar llevando el fruto del evangelio en la vida del creyente, puede manifestarse mediante las buenas obras que el Padre ha preparado para que andemos en ellas. Efesios 2:10; 2 Timoteo 3:17
 
@@ -246,39 +249,39 @@ para que anden como es digno del Señor, haciendo en todo, lo que le agrada, dan
 #### y creciendo en el conocimiento de Dios
 ##### Habla de un crecimiento espiritual, creciendo por el conocimiento de Dios, o aumentando en el verdadero conocimiento.
 
-##### El verbo crecer AUXANO se encuentra en voz pasiva indicándonos que el sujeto recibe la acción, se deja ser aumentado. Este crecimiento tiene el fin de poder llevar a todos los creyentes a una madurez espiritual, 
+##### El verbo crecer [AUXANO](https://discipuladocgv.org/roots/lexico/lex/#lex-g4102-pistis) se encuentra en voz pasiva indicándonos que el sujeto recibe la acción, se deja ser aumentado. Este crecimiento tiene el fin de poder llevar a todos los creyentes a una madurez espiritual, 
 
-##### La palabra conocimiento EPIGNOSIS nos indica un conocimiento acertado u pleno de quien que es Dios, conforme vayamos creciendo en el pleno conocimiento avanzaremos hacia la madurez espiritual, a la estatura de la plenitud de Cristo, no solamente en conocimiento sino en el andar. Efesios 4:11-16
+##### La palabra conocimiento [EPIGNOSIS](https://discipuladocgv.org/roots/lexico/lex/#lex-g4102-pistis) nos indica un conocimiento acertado u pleno de quien que es Dios, conforme vayamos creciendo en el <u>pleno</u> conocimiento avanzaremos hacia la madurez espiritual, a la estatura de la plenitud de Cristo, no solamente en conocimiento sino en el andar. Efesios 4:11-16
 
-##### Un pleno conocimiento de Dios basado en la verdad nos hará descansar en la realidad de quien es él, conocer sus atributos: su amor, paciencia, benignidad, bondad, gracia y misericordia, nos llevará a cada día seguir creciendo en la confianza de sus promesas que son seguras. Hebreos 10:19-25
+##### Un pleno conocimiento de Dios basado en la verdad nos hará descansar en la realidad de quien es él, conocer sus atributos: su amor, paciencia, benignidad, bondad, <u>gracia</u> y misericordia, nos llevará a cada día seguir creciendo en la confianza de sus promesas que son seguras. Hebreos 10:19-25
 
 ### Colosenses 1:11
 Rogamos que ustedes sean fortalecidos con todo poder según la potencia de Su gloria, para obtener toda perseverancia y paciencia, con gozo
 
-##### Un ruego del apóstol Pablo por los creyentes es que no solamente conozcan plenamente todas las verdades acerca de Dios, sino que estén completamente fortalecidos con el poder de Dios en su diario caminar.
-
 #### Rogamos que ustedes sean fortalecidos con todo poder
-##### El poder con el que serían fortalecidos los creyentes proviene de su espíritu. Efesios 3:16
+##### El poder con el que <u>serían</u> fortalecidos los creyentes proviene de su espíritu. Efesios 3:16
 
-##### La palabra fortalecidos DUNAMOO significa sacar fuerzas de la debilidad, se encuentra en voz pasiva, indicando que el sujeto recibe la acción en tiempo presente. 2 Timoteo 2:1
+##### El apóstol Pablo quería que los creyentes no solo entendieran bien todas las verdades sobre Dios, sino que también se sintieran fuertes y apoyados por su <u>poder</u> en su día a día.
 
-##### El deseo de Pablo por los creyentes es que puedan conocer plenamente la esperanza de su llamamiento y la eficacia de la fuerza de su poder que obró en Cristo. Efesios 1:18-20
+##### La palabra fortalecidos [DUNAMOO](https://discipuladocgv.org/roots/lexico/lex/#lex-g4102-pistis) significa sacar fuerzas de la debilidad, se encuentra en voz pasiva, indicando que el sujeto recibe la <u>acción</u> en tiempo presente. 2 Timoteo 2:1
+
+##### El deseo de Pablo por los creyentes es que puedan conocer plenamente la esperanza de su llamamiento y la eficacia de la fuerza de su <u>poder</u> que obró en Cristo. Efesios 1:18-20
 
 #### según la potencia de Su gloria
 ##### El creyente puede andar siendo fortalecido con el poder que resucitó a Cristo de los muertos. Efesios 1:19, 6:10.
 
-##### La palabra poder KRATOS nos habla del poder manifestado, un poder que ya se dio a conocer.
+##### La palabra poder [KRATOS](https://discipuladocgv.org/roots/lexico/lex/#lex-g4102-pistis) nos habla del poder manifestado, un poder que ya se dio a conocer.
 
 ##### El poder de Cristo mora en nosotros cuando entendemos que el es nuestra fortaleza y nuestro poder está en su gracia. 2 Corintios 12:9-10
 
 #### para obtener toda perseverancia y paciencia, con gozo
 ##### Este conocimiento de su voluntad, tiene un beneficio práctico, el creyente puede obtener estos atributos en su diario caminar.
 
-##### *Toda perseverancia* MAKRODSUMIA (constancia o longanimidad), es descrita como el espíritu constante que nunca cederá esa paciencia y fe son descritas en Abraham cuando recibió la promesa. Hebreos 6:15; Santiago 5:7-10
+##### *Toda perseverancia* [MAKRODSUMIA](https://discipuladocgv.org/roots/lexico/lex/#lex-g4102-pistis) (constancia o longanimidad), es descrita como el espíritu constante que nunca cederá esa paciencia y fe son descritas en Abraham cuando recibió la promesa. Hebreos 6:15; Santiago 5:7-10
 
 ##### El creyente puede obtener esta perseverancia que puede soportar cualquier prueba o espera y sobrellevar el sufrimiento sin ceder jamás.
 
-##### *Toda paciencia* JUPOMONE se traduce paciencia o resistencia, esta palabra se usa frecuentemente relacionada con la tribulación, vivir bajo situaciones duras y desfavorables hasta el punto de llegar a morir como mártir. 1 Tesalonicenses 1:3; 2 Tesalonicenses 1:4; Apocalipsis 1:9, 3:10, 13:10
+##### *Toda paciencia* [JUPOMONE](https://discipuladocgv.org/roots/lexico/lex/#lex-g4102-pistis) se traduce paciencia o resistencia, esta palabra se usa frecuentemente relacionada con la tribulación, vivir bajo situaciones duras y desfavorables hasta el punto de llegar a morir como mártir. 1 Tesalonicenses 1:3; 2 Tesalonicenses 1:4; Apocalipsis 1:9, 3:10, 13:10
 
 - Esta palabra es utilizada en conexión con la fe, la prueba de su fe produce paciencia. Santiago 1:3
 
@@ -302,7 +305,7 @@ dando gracias al Padre que nos ha capacitado para compartir la herencia de los s
 
 ##### Damos gracias a Dios por habernos hecho conocer su gracia a través de la salvación, fuimos hechos justos por su gracia, y ahora somos santificados a través de su gracia, y conocemos todas las incomparables riquezas de la herencia de los santos, que se encuentran escritas en la biblia y fiel es el que lo prometió.
 
-##### La palabra capacitado JIKANOO o nos hizo aptos se encuentra en aoristo participio, indicándonos como una acción u hecho completado, este hecho es una realidad establecida por Dios para cada creyente, no basado en nuestros méritos, sino en el propósito suyo. 
+##### La palabra capacitado [JIKANOO](https://discipuladocgv.org/roots/lexico/lex/#lex-g4102-pistis) o nos hizo aptos se encuentra en aoristo participio, indicándonos como una acción u hecho completado, este hecho es una realidad establecida por Dios para cada creyente, no basado en nuestros méritos, sino en el propósito suyo. 
 
 ##### Dios quiere que el creyente este enteramente capacitado en el pleno conocimiento de la verdad y la herencia de los santos. 1 Timoteo 2:4
 
@@ -317,7 +320,9 @@ dando gracias al Padre que nos ha capacitado para compartir la herencia de los s
 
 ##### *para compartir* Algo importante de esta herencia es que tiene el propósito de ser compartida, el deseo es que cada creyente pueda compartir esta herencia entre los santos.
 
-##### La BTX4 lo traduce así: *que os hizo aptos para participar de la herencia de los santos en la luz,* Los creyentes ya somos hechos partícipes de esta herencia.
+###### *que os hizo aptos para participar de la herencia de los santos en la luz,*  (BTX4) 
+
+##### Los creyentes ya somos hechos partícipes de esta herencia.
 
 ##### La garantía de que esta herencia es completamente real para el creyente, es el espíritu santo que recibimos al momento de oír y creer en el evangelio. Efesios 1:13-14; Tito 3:5-7
 
@@ -349,16 +354,16 @@ Porque Él nos libró del dominio de las tinieblas y nos trasladó al reino de S
 #### Porque Él nos libró del dominio de las tinieblas
 ##### El pronombre relativo (Él) en este versículo es referido al Padre, debido a que no existe una ruptura sintáctica entre el versículo anterior, dando continuidad al argumento que está expresando.
 
-##### La BTX4 lo traduce así: *dando gracias al Padre con gozo, que os hizo aptos para participar de la herencia de los santos en la luz, quien nos rescató de la potestad de la tiniebla y nos trasladó al reino del Hijo de su amor,* 
+##### *dando gracias al Padre con gozo, que os hizo aptos para participar de la herencia de los santos en la luz, quien nos rescató de la potestad de la tiniebla y nos trasladó al reino del Hijo de su amor,*  (BTX4)
 
-##### El verbo libró RUOMAI significa rescatar, arrancar de un peligro o sacar de una situación amenazante, se encuentra en tiempo aoristo, voz media, indicándonos como un hecho completo en la que el creyente participa del resultado.
+##### El verbo libró [RUOMAI](https://discipuladocgv.org/roots/lexico/lex/#lex-g4506-ruomai) significa rescatar, arrancar de un peligro o sacar de una situación amenazante, se encuentra en tiempo aoristo, voz media, indicándonos como un hecho completo en la que el creyente participa del resultado.
 
 ##### Los creyentes fuimos completamente liberados del dominio de las tinieblas y del dominio de satanás en el cual estábamos. 1 Juan 5:19; Efesios 2:2, 6:12
 
-##### La palabra dominio EXOUSIA nos habla de una potestad, autoridad que ejerce poder, o derecho de gobernar, cabe aclarar que este dominio de Satanás (príncipe de la potestad del aire), no fue dado por Dios, sino que satanás usurpó esta autoridad al hombre. Génesis 1:26-28; Lucas 4:6
+##### La palabra dominio [EXOUSIA](https://discipuladocgv.org/roots/lexico/lex/#lex-g1849-exousia) nos habla de una potestad, autoridad que ejerce poder, o derecho de gobernar, cabe aclarar que este dominio de Satanás (príncipe de la potestad del aire), no fue dado por Dios, sino que satanás usurpó esta autoridad al hombre. Génesis 1:26-28; Lucas 4:6
 
 #### y nos trasladó al reino de Su Hijo amado
-##### El verbo trasladó METHISTEMI nos habla de quitar, llevar lejos o cambiar de lugar, se encuentra en aoristo indicativo, mostrándonos que esto fue un hecho completo, que puede ser entendido como un traslado colectivo.
+##### El verbo trasladó [METHISTEMI](https://discipuladocgv.org/roots/lexico/lex/) nos habla de quitar, llevar lejos o cambiar de lugar, se encuentra en aoristo indicativo, mostrándonos que esto fue un hecho completo, que puede ser entendido como un traslado colectivo.
 
 ##### Todos los creyentes fuimos trasladados, quitados del reino de las tinieblas y ahora nos encontramos en el reino de su hijo amado, ese es el lugar posicional en el cual cada creyente se encuentra.
 
@@ -392,7 +397,7 @@ en quien tenemos redención: el perdón de los pecados.
 #### en quien tenemos redención:
 ##### Nos explicará que en una persona *en quien* (Jesucristo), obtuvimos la redención. Romanos 3:24; Efesios 1:7
 
-##### La palabra redención ΑPOLUTROSIS expresa un rescate o liberación, originalmente se refería a pagar el precio de rescate por un esclavo o prisionero.
+##### La palabra redención [ΑPOLUTROSIS](https://discipuladocgv.org/roots/lexico/lex/) expresa un rescate o liberación, originalmente se refería a pagar el precio de rescate por un esclavo o prisionero.
 
 ##### Cada persona que se encontraba en el dominio de las tinieblas (en calidad de esclavo), era incapaz de salvarse por sí mismo, necesitábamos ser rescatados. Romanos 3:10-12, 20 ; Tito 3:5
 
@@ -403,7 +408,7 @@ en quien tenemos redención: el perdón de los pecados.
 #### el perdón de los pecados
 ##### El perdón de pecados viene de parte de Dios hacia el hombre, basado en la obra de Jesucristo es que obtenemos este perdón.
 
-##### La palabra perdón AFESIS es traducida en diferentes pasajes como liberación (de cautiverio), perdón y remisión de pecados.
+##### La palabra perdón [AFESIS](https://discipuladocgv.org/roots/lexico/lex/) es traducida en diferentes pasajes como liberación (de cautiverio), perdón y remisión de pecados.
 
 - Juan el bautista anunciaba el arrepentimiento (cambio de mente) para perdón de pecados. Marcos 1:4; Lucas 3:3 
 
@@ -431,7 +436,7 @@ en quien tenemos redención: el perdón de los pecados.
 #### Él es la imagen del Dios invisible
 ##### El pronombre Él en este versículo es referido a Cristo, debido a que empezará a describir los atributos divinos de Cristo-Hombre.
 
-##### La palabra imagen EIKON expresa una representación visible, manifestación en semejanza o apariencia. 
+##### La palabra imagen [EIKON](https://discipuladocgv.org/roots/lexico/lex/) expresa una representación visible, manifestación en semejanza o apariencia. 
 
 ##### Cristo-hombre refleja completamente lo que Dios-Creador es, expresando Cristo mismo que si le vieron a él vieron al padre en su misma naturaleza. Juan 14:8-11
 
@@ -452,9 +457,9 @@ en quien tenemos redención: el perdón de los pecados.
 ####  el primogénito de toda creación
 ##### Cristo es el principal de toda la creación, muestra la preeminencia y autoridad.
 
-##### La NTV lo traduce: *es supremo sobre toda la creación*
+> *es supremo sobre toda la creación* (NTV)
 
-##### La palabra primogénito PROTOTOKOS es un adjetivo sustantivado que significa literalmente primero en rango, estatus y soberanía, no necesariamente el primer nacido cronológicamente.
+##### La palabra primogénito [PROTOTOKOS](https://discipuladocgv.org/roots/lexico/lex/) es un adjetivo sustantivado que significa literalmente primero en rango, estatus y soberanía, no necesariamente el primer nacido cronológicamente.
 
 - David no fue el primer hijo nacido, sin embargo es llamado primogénito por la posición del pacto de Dios con David. Salmos 89:20-21, 27
 
@@ -484,7 +489,7 @@ Porque en Él fueron creadas todas las cosas, tanto en los cielos como en la tie
 
 ##### **En Él:** (ἐν + dativo) La preposición en él nos indica que bajo su autoridad, dominio y poder fueron creadas todas las cosas, responde a la pregunta ¿Donde ocurrió todo?.
 
-##### El verbo *fueron creadas* KTIZO se encuentra en aoristo pasivo indicativo, expresando un hecho real y completo, donde la creación recibe la acción.
+##### El verbo *fueron creadas* [KTIZO](https://discipuladocgv.org/roots/lexico/lex/) se encuentra en aoristo pasivo indicativo, expresando un hecho real y completo, donde la creación recibe la acción.
 
 #### tanto en los cielos como en la tierra, visibles e invisibles;
 ##### En Cristo fue creado todo el universo entero, desde lo que podemos ver, lo perceptible, material, temporal , y lo que no podemos ver, lo imperceptible, espiritual, eterno, ambas realidades existen dentro de lo creado. Romanos 1:20; 2 Corintios 4:18; Hebreos 11:3
@@ -643,7 +648,7 @@ Y aunque ustedes antes estaban alejados y eran de ánimo hostil, ocupados en mal
 
 ##### El ánimo hostil ó literalmente enemigos en mente EJDSROS, nos muestra una condición totalmente separada de Dios, es un adjetivo que esta describiendo como adversarios ó enemigos.
 
-##### La BTX4 lo traduce:*Y a vosotros, que en otro tiempo erais extraños y enemigos, por tener la mente ocupada en las malas obras,*
+##### *Y a vosotros, que en otro tiempo erais extraños y enemigos, por tener la mente ocupada en las malas obras,* (BTX4)
 
 #### ocupados en malas obras
 ##### Cada persona no creyente se encuentra en (dentro de) ó bajo malas obras, debido a este hecho no podíamos producir ninguna buena obra agradable a Dios.
@@ -696,7 +701,7 @@ Esto Él hará si en verdad permanecen en la fe bien cimentados y constantes, si
 
 ##### El verbo permanecen EPIMENO (en la fe)expresa permanecer, perseverar ó persistir en algo, se encuentra en presente indicativo, expresando que es una situación actual observable, no una posibilidad futura incierta.
 
-##### La BTX4 lo traduce así: *ya que en verdad permanecéis sólidamente cimentados y firmes en la fe, y sin moveros de la esperanza del Evangelio que oísteis, el cual fue proclamado en toda la creación que está debajo del cielo, del cual yo, Pablo, llegué a ser servidor*. 
+###### *ya que en verdad permanecéis sólidamente cimentados y firmes en la fe, y sin moveros de la esperanza del Evangelio que oísteis, el cual fue proclamado en toda la creación que está debajo del cielo, del cual yo, Pablo, llegué a ser servidor*. (BTX4)
 
 ##### Ya que los creyentes han sido hechos santos, sin mancha e irreprensibles, como consecuencia ahora están en tiempo presente permaneciendo firmes y bien cimentados en la fe de la esperanza del evangelio.
 
@@ -777,7 +782,7 @@ De esta iglesia fui hecho ministro conforme a la administración de Dios que me 
 #### a fin de llevar a cabo la predicación de la palabra de Dios
 ##### El propósito de su servicio era el anunció, proclamación completa de la palabra de Dios.
 
-##### La BTX4 lo traduce así: *de la cual yo llegué a ser servidor, según la dispensación de DIOS que me fue dada para completar con vosotros la Palabra de DIOS:*
+##### La BTX4 lo traduce así: *de la cual yo llegué a ser servidor, según la dispensación de DIOS que me fue dada para completar con vosotros la Palabra de DIOS:* (BTX4)
 
 ##### La palabra completar PLEROO expresa llenar hasta la plenitud de algo.
 
@@ -890,7 +895,7 @@ Con este fin también trabajo, esforzándome según Su poder que obra poderosame
 
 ##### Este poder ENERGEIA, es un sustantivo que expresa potencia ú obrar.
 
-##### La BTX4 lo traduce así: *en lo cual también me fatigo, luchando conforme a su energía, la cual me energiza con poder.*
+##### La BTX4 lo traduce así: *en lo cual también me fatigo, luchando conforme a su energía, la cual me energiza con poder.*(BTX4)
 
 ##### Pablo explicará el poder que obró en la resurrección de Cristo obra tambien para con nosotros. Efesios 1:19-20; Colosenses 2:12
 
@@ -1650,7 +1655,7 @@ Tales cosas tienen a la verdad, la apariencia de sabiduría en una religión hum
 #### Tales cosas tienen a la verdad, la apariencia de sabiduría en una religión humana,
 ##### La apariencia de sabiduría expresa que pueden considerarse sabios aquellos que viven tratando de frenar los apetitos de la carne con pensamiento, normas, reglas hechas por el hombre.
 
-##### La BTX4 lo traduce así: *Tales cosas tienen en verdad cierta reputación de sabiduría en una religión impuesta por uno mismo,...*
+###### *Tales cosas tienen en verdad cierta reputación de sabiduría en una religión impuesta por uno mismo,...* (BTX4)
 
 ##### La sabiduría que es según el mundo tiene mucha apariencia de sabiduría real en cuanto a santificación, en una religión autoimpuesta, pueden ser dichos sabios, consejos prudentes, maneras prácticas, pero todas son reglas hechas por el hombre, todas estas son falibles, y no llegan a cumplir su propósito, vencer los apetitos de la carne.
 
@@ -1667,7 +1672,7 @@ Tales cosas tienen a la verdad, la apariencia de sabiduría en una religión hum
 
 ##### La humillación de sí mismo se entiende que a través de hacer ciertas cosas o actividades llegar a una humildad forzada, a través de el método de la auto-humillación forzada los creyentes llegar a la santificación, llegar a una vida piadosa, sin embargo son intentos fallidos del pensamiento humano en cuanto a santificación se refiere, debido a que no son según Cristo.
 
-##### La palabra humillación o humildad TAPEINOFROSUNE es una palabra compuesta de bajo, humilde y mente, actitud, expresando una actitud mental de bajeza, o disposición humilde, en este contexto es usada de manera negativa debido a que esto proviene de una aparente religiosa manera de vivir que es según el mundo y no según Cristo, no es una humildad genuina, sino va ligada a una humildad como práctica ascética externa.
+###### La palabra humillación o humildad TAPEINOFROSUNE es una palabra compuesta de bajo, humilde y mente, actitud, expresando una actitud mental de bajeza, o disposición humilde, en este contexto es usada de manera negativa debido a que esto proviene de una aparente religiosa manera de vivir que es según el mundo y no según Cristo, no es una humildad genuina, sino va ligada a una humildad como práctica ascética externa.
 
 #### y en el trato severo del cuerpo
 ##### El trato severo del cuerpo es una práctica humana conocida como el ascetismo, que consiste en luchar contra el cuerpo físico, pensando así vencer los apetitos de la carne, muchas religiones en el mundo practican algún tipo de trato severo del cuerpo pensando así vencer la naturaleza pecaminosa.
