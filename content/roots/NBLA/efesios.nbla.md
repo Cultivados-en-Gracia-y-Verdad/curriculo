@@ -1,3 +1,8 @@
+---
+Title: "1 Juan"
+Author: "Lockman Foundation"
+---
+
 Efesios 1:1 Pablo, apóstol de Cristo Jesús por la voluntad de Dios: A los santos que están en Éfeso y que son fieles en Cristo Jesús:
 Efesios 1:2 Gracia y paz a ustedes de parte de Dios nuestro Padre y del Señor Jesucristo.
 Efesios 1:3 Bendito sea el Dios y Padre de nuestro Señor Jesucristo, que nos ha bendecido con toda bendición espiritual en los lugares celestiales en Cristo.

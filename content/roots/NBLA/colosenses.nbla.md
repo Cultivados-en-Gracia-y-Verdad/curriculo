@@ -1,3 +1,8 @@
+---
+Title: "1 Juan"
+Author: "Lockman Foundation"
+---
+
 Colosenses 1:1 Pablo , apóstol de Jesucristo por la voluntad de Dios, y el hermano Timoteo,
 Colosenses 1:2 a los santos y fieles hermanos en Cristo que están en Colosas: Gracia a ustedes y paz de parte de Dios nuestro Padre.
 Colosenses 1:3 Damos gracias a Dios, el Padre de nuestro Señor Jesucristo, orando siempre por ustedes,

@@ -1,3 +1,8 @@
+---
+Title: "1 Juan"
+Author: "Lockman Foundation"
+---
+
 1Juan 1:1 Lo que existía desde el principio, lo que hemos oído, lo que hemos visto con nuestros propios ojos, lo que hemos contemplado y lo que han tocado nuestras manos, esto escribimos acerca del Verbo de vida.
 1Juan 1:2 Y la vida se manifestó. Nosotros la hemos visto, y damos testimonio y les anunciamos a ustedes la vida eterna que estaba con el Padre y se manifestó a nosotros.
 1Juan 1:3 Lo que hemos visto y oído les proclamamos también a ustedes, para que también ustedes tengan comunión con nosotros. En verdad nuestra comunión es con el Padre y con Su Hijo Jesucristo.

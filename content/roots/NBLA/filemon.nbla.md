@@ -1,3 +1,8 @@
+---
+Title: "1 Juan"
+Author: "Lockman Foundation"
+---
+
 Filemon 1:1 Pablo , prisionero de Cristo Jesús, y el hermano Timoteo: A Filemón nuestro amado hermano y colaborador,
 Filemon 1:2 y a la hermana Apia, y a Arquipo, nuestro compañero de lucha, y a la iglesia que está en tu casa:
 Filemon 1:3 Gracia a ustedes y paz de parte de Dios nuestro Padre y del Señor Jesucristo.

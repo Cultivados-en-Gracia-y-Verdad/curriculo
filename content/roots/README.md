@@ -93,15 +93,23 @@ Each verse must follow this exact structure:
 - GreekConnector → (Spanish)
 ```
 
-------
 
-## 6. NBLA SOURCE RULE
 
-The NBLA text must be taken exclusively from the local NBLA source files.
+# 6. NBLA SOURCE RULE
 
-No external reproduction, memory-based rendering, or inferred translation is permitted.
+The NBLA text must be taken exclusively from the controlled NBLA source:
 
-All alignment must be performed using the exact NBLA text as stored locally.
+Local:
+content/roots/NBLA/{book}.nbla.md
+
+Published:
+https://discipuladocgv.org/roots/nbla/{book}.nbla/
+
+The local file is the authoritative source.
+
+The published version must match the local file exactly.
+
+No external or reconstructed NBLA text may be used.
 
 ## 7. VERB MORPHOLOGY RULE (MANDATORY)
 
