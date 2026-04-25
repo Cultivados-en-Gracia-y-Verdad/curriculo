@@ -1,0 +1,133 @@
+<link rel="stylesheet" href="/css/roots.css">
+<link rel="stylesheet" href="/css/custom.css">
+<h1></h1>
+
+
+<div class="search-bar-fixed">
+  <input 
+    type="text" 
+    id="searchBox" 
+    placeholder="Buscar: col 1:1, romanos, fe..."
+  />
+  <ul id="results"></ul>
+</div>
+
+<div class="roots-page-content">
+  <h1></h1>
+
+  <hr>
+
+  <div class="roots-content">
+    
+  </div>
+</div>
+
+<hr>
+
+
+<div class="roots-content">
+  
+</div>
+
+
+<script>
+let DATA = [];
+
+fetch('/roots/ROOTS-dataset/index.json')
+  .then(res => res.json())
+  .then(json => {
+    DATA = json;
+  });
+
+const input = document.getElementById('searchBox');
+const results = document.getElementById('results');
+
+function clean(str) {
+  return str.toLowerCase().trim();
+}
+
+input.addEventListener('input', () => {
+  const query = clean(input.value);
+  results.innerHTML = '';
+
+  if (!query) return;
+
+  let matches = [];
+
+  if (query.includes(':')) {
+    const parts = query.split(' ');
+    let verse = null;
+    let book = null;
+
+    parts.forEach(p => {
+      if (p.includes(':')) verse = p;
+      else book = p;
+    });
+
+    matches = DATA.filter(item => {
+      const title = clean(item.title);
+
+      if (book) {
+        return title.includes(book) && title.includes(verse);
+      }
+
+      return title.includes(verse);
+    });
+  }
+
+  if (matches.length === 0) {
+    matches = DATA.filter(item =>
+      clean(item.title).includes(query) ||
+      clean(item.content).includes(query)
+    );
+  }
+
+ results.innerHTML = '';
+
+matches.slice(0, 20).forEach(item => {
+  const ref = item.ref || item.title || '';
+  const preview = item.content
+    ? item.content.replace(/\s+/g, ' ').slice(0, 80)
+    : '';
+
+  if (!ref) return;
+
+  const li = document.createElement('li');
+
+  
+  const a = document.createElement('a');
+  a.href = item.url || '#';
+  a.textContent = ref;
+  li.appendChild(a);
+
+  
+  if (preview) {
+    const excerpt = document.createElement('div');
+    excerpt.className = 'search-excerpt';
+    excerpt.textContent = preview + '...';
+    li.appendChild(excerpt);
+  }
+
+  results.appendChild(li);
+});
+});
+</script>
+
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const hash = window.location.hash;
+
+  if (!hash) return;
+
+  const el = document.querySelector(hash);
+  if (!el) return;
+
+  el.scrollIntoView({ behavior: "smooth", block: "center" });
+  el.classList.add("highlight-verse");
+
+  setTimeout(() => {
+    el.classList.remove("highlight-verse");
+  }, 4000);
+});
+</script>

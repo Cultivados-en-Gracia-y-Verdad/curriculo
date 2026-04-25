@@ -1,0 +1,479 @@
+<link rel="stylesheet" href="/css/roots.css">
+<link rel="stylesheet" href="/css/custom.css">
+<h1></h1>
+
+
+<div class="search-bar-fixed">
+  <input 
+    type="text" 
+    id="searchBox" 
+    placeholder="Buscar: col 1:1, romanos, fe..."
+  />
+  <ul id="results"></ul>
+</div>
+
+<div class="roots-page-content">
+  <h1></h1>
+
+  <hr>
+
+  <div class="roots-content">
+    <pre tabindex="0"><code># MORPH-NBLA ALIGNMENT (MNA)
+
+## PURPOSE
+
+This project creates a strict, token-level alignment between:
+
+- MorphGNT (Greek + morphology)
+- NBLA (Spanish translation)
+
+The goal is to produce an objective source layer for:
+
+- ROOTS dataset
+- verb identification
+- connector identification
+- interlinear display
+- lexical extraction
+
+This layer contains **no interpretation**.
+
+---
+
+## CORE PRINCIPLE
+
+Each Greek token must map to:
+
+→ the exact NBLA word(s), OR  
+→ a minimal Spanish equivalent if no NBLA word exists
+
+Every Greek token must be classified as:
+
+1. direct
+2. merged-forward
+3. merged-backward
+4. missing
+5. expanded
+
+No token is left unclassified.
+
+If one Greek token maps to one Spanish token:
+
+→ alignment = direct
+
+Even if:
+- participle → finite verb
+- adjective → clause
+- noun → phrase
+
+Form change ≠ expansion
+
+EXPANDED = ONLY when one Greek token maps to multiple Spanish words
+
+FORM SHIFT ≠ EXPANDED
+PARTICIPLE → finite verb = still DIRECT
+---
+
+## ALIGNMENT RULES
+
+### 1. NBLA PRIORITY
+
+If the NBLA expresses the word:
+
+- Use the NBLA wording exactly
+- Preserve multi-word expressions
+
+Example:
+
+ἡγιασμένοις → han sido santificados
+
+---
+
+### 2. SUPPLIED EQUIVALENTS
+
+If no Spanish word exists in NBLA:
+
+- Provide a minimal equivalent in parentheses
+
+Example:
+
+μέν → (por un lado)  
+δέ → (pero)
+
+---
+
+### 3. NO COMPRESSION
+
+Do not reduce expressions.
+
+❌ Incorrect:
+ἡγιασμένοις → santificados
+
+✔ Correct:
+ἡγιασμένοις → han sido santificados
+
+---
+
+### 4. NO INTERPRETATION
+
+Do not:
+- smooth grammar
+- reorder meaning
+- add theological interpretation
+
+Only align.
+
+---
+
+## DATA FORMAT
+
+Each token is represented as:
+</code></pre><ul>
+<li>greek: ἡγιασμένοις
+lemma: ἁγιάζω
+morph: V-PPP-DPM
+type: NF
+spanish: han sido santificados
+source: NBLA</li>
+</ul>
+<pre tabindex="0"><code>If supplied:
+</code></pre><ul>
+<li>greek: μέν
+lemma: μέν
+morph: CONJ
+type: connector
+spanish: (por un lado)
+source: supplied</li>
+</ul>
+<pre tabindex="0"><code>---
+
+## TYPES
+
+- F → finite verb  
+- NF → non-finite verb  
+- connector → clause-level connector  
+- other → all remaining tokens  
+
+---
+
+## NON-NEGOTIABLES
+
+- Greek determines structure
+- Morph determines verb status
+- Spanish does not define grammar
+- Alignment must be reproducible
+
+---
+
+## OUTPUT USAGE
+
+This dataset feeds:
+
+- ROOTS Step 2 (finite verbs)
+- ROOTS Step 4 (connectors)
+- ROOTS Step 7 (phrases)
+- interlinear tools
+- lexical extraction tools
+
+---
+
+## DIRECTORY STRUCTURE
+</code></pre><p>mna/
+├── README.md
+├── data/
+├── sources/
+└── scripts/</p>
+<pre tabindex="0"><code>---
+
+## PHILOSOPHY
+
+This is not a translation project.
+
+This is a **structural alignment layer**.
+
+Everything downstream depends on its accuracy.
+</code></pre>
+  </div>
+</div>
+
+<hr>
+
+
+<div class="roots-content">
+  <pre tabindex="0"><code># MORPH-NBLA ALIGNMENT (MNA)
+
+## PURPOSE
+
+This project creates a strict, token-level alignment between:
+
+- MorphGNT (Greek + morphology)
+- NBLA (Spanish translation)
+
+The goal is to produce an objective source layer for:
+
+- ROOTS dataset
+- verb identification
+- connector identification
+- interlinear display
+- lexical extraction
+
+This layer contains **no interpretation**.
+
+---
+
+## CORE PRINCIPLE
+
+Each Greek token must map to:
+
+→ the exact NBLA word(s), OR  
+→ a minimal Spanish equivalent if no NBLA word exists
+
+Every Greek token must be classified as:
+
+1. direct
+2. merged-forward
+3. merged-backward
+4. missing
+5. expanded
+
+No token is left unclassified.
+
+If one Greek token maps to one Spanish token:
+
+→ alignment = direct
+
+Even if:
+- participle → finite verb
+- adjective → clause
+- noun → phrase
+
+Form change ≠ expansion
+
+EXPANDED = ONLY when one Greek token maps to multiple Spanish words
+
+FORM SHIFT ≠ EXPANDED
+PARTICIPLE → finite verb = still DIRECT
+---
+
+## ALIGNMENT RULES
+
+### 1. NBLA PRIORITY
+
+If the NBLA expresses the word:
+
+- Use the NBLA wording exactly
+- Preserve multi-word expressions
+
+Example:
+
+ἡγιασμένοις → han sido santificados
+
+---
+
+### 2. SUPPLIED EQUIVALENTS
+
+If no Spanish word exists in NBLA:
+
+- Provide a minimal equivalent in parentheses
+
+Example:
+
+μέν → (por un lado)  
+δέ → (pero)
+
+---
+
+### 3. NO COMPRESSION
+
+Do not reduce expressions.
+
+❌ Incorrect:
+ἡγιασμένοις → santificados
+
+✔ Correct:
+ἡγιασμένοις → han sido santificados
+
+---
+
+### 4. NO INTERPRETATION
+
+Do not:
+- smooth grammar
+- reorder meaning
+- add theological interpretation
+
+Only align.
+
+---
+
+## DATA FORMAT
+
+Each token is represented as:
+</code></pre><ul>
+<li>greek: ἡγιασμένοις
+lemma: ἁγιάζω
+morph: V-PPP-DPM
+type: NF
+spanish: han sido santificados
+source: NBLA</li>
+</ul>
+<pre tabindex="0"><code>If supplied:
+</code></pre><ul>
+<li>greek: μέν
+lemma: μέν
+morph: CONJ
+type: connector
+spanish: (por un lado)
+source: supplied</li>
+</ul>
+<pre tabindex="0"><code>---
+
+## TYPES
+
+- F → finite verb  
+- NF → non-finite verb  
+- connector → clause-level connector  
+- other → all remaining tokens  
+
+---
+
+## NON-NEGOTIABLES
+
+- Greek determines structure
+- Morph determines verb status
+- Spanish does not define grammar
+- Alignment must be reproducible
+
+---
+
+## OUTPUT USAGE
+
+This dataset feeds:
+
+- ROOTS Step 2 (finite verbs)
+- ROOTS Step 4 (connectors)
+- ROOTS Step 7 (phrases)
+- interlinear tools
+- lexical extraction tools
+
+---
+
+## DIRECTORY STRUCTURE
+</code></pre><p>mna/
+├── README.md
+├── data/
+├── sources/
+└── scripts/</p>
+<pre tabindex="0"><code>---
+
+## PHILOSOPHY
+
+This is not a translation project.
+
+This is a **structural alignment layer**.
+
+Everything downstream depends on its accuracy.
+</code></pre>
+</div>
+
+
+<script>
+let DATA = [];
+
+fetch('/roots/ROOTS-dataset/index.json')
+  .then(res => res.json())
+  .then(json => {
+    DATA = json;
+  });
+
+const input = document.getElementById('searchBox');
+const results = document.getElementById('results');
+
+function clean(str) {
+  return str.toLowerCase().trim();
+}
+
+input.addEventListener('input', () => {
+  const query = clean(input.value);
+  results.innerHTML = '';
+
+  if (!query) return;
+
+  let matches = [];
+
+  if (query.includes(':')) {
+    const parts = query.split(' ');
+    let verse = null;
+    let book = null;
+
+    parts.forEach(p => {
+      if (p.includes(':')) verse = p;
+      else book = p;
+    });
+
+    matches = DATA.filter(item => {
+      const title = clean(item.title);
+
+      if (book) {
+        return title.includes(book) && title.includes(verse);
+      }
+
+      return title.includes(verse);
+    });
+  }
+
+  if (matches.length === 0) {
+    matches = DATA.filter(item =>
+      clean(item.title).includes(query) ||
+      clean(item.content).includes(query)
+    );
+  }
+
+ results.innerHTML = '';
+
+matches.slice(0, 20).forEach(item => {
+  const ref = item.ref || item.title || '';
+  const preview = item.content
+    ? item.content.replace(/\s+/g, ' ').slice(0, 80)
+    : '';
+
+  if (!ref) return;
+
+  const li = document.createElement('li');
+
+  
+  const a = document.createElement('a');
+  a.href = item.url || '#';
+  a.textContent = ref;
+  li.appendChild(a);
+
+  
+  if (preview) {
+    const excerpt = document.createElement('div');
+    excerpt.className = 'search-excerpt';
+    excerpt.textContent = preview + '...';
+    li.appendChild(excerpt);
+  }
+
+  results.appendChild(li);
+});
+});
+</script>
+
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const hash = window.location.hash;
+
+  if (!hash) return;
+
+  const el = document.querySelector(hash);
+  if (!el) return;
+
+  el.scrollIntoView({ behavior: "smooth", block: "center" });
+  el.classList.add("highlight-verse");
+
+  setTimeout(() => {
+    el.classList.remove("highlight-verse");
+  }, 4000);
+});
+</script>

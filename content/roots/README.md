@@ -93,7 +93,14 @@ Each verse must follow this exact structure:
 - GreekConnector → (Spanish)
 ```
 
+A Spanish word can only be marked == == [F] if it is a finite verb.
 
+If it cannot:
+- be conjugated
+- carry person/number
+- function as the predicate of a clause
+
+→ it is INVALID
 
 # 6. NBLA SOURCE RULE
 

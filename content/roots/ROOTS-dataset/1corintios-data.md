@@ -1,4683 +1,5850 @@
----
-title: "1 Corintios Roots-dataset"
----
-# 1 Corintios
+### 1Corintios 1:1
 
-### 1 Corintios 1:1 {#1co-1-1}
+Παῦλος κλητὸς ἀπόστολος ⸂Χριστοῦ Ἰησοῦ⸃ διὰ θελήματος θεοῦ καὶ Σωσθένης ὁ ἀδελφὸς
 
-Παῦλος κλητὸς ἀπόστολος Χριστοῦ Ἰησοῦ διὰ θελήματος θεοῦ καὶ Σωσθένης ὁ ἀδελφός
+[Pablo, llamado a ser apóstol de Jesucristo por la voluntad de Dios, y Sóstenes, nuestro hermano,]
 
-[Pablo, llamado a ser apóstol de Jesucristo por la voluntad de Dios, y el hermano Sóstenes.]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-- [εἰμί] (V-PAI-3S) ==[es]== [F]
+### 1Corintios 1:2
 
----
+τῇ ἐκκλησίᾳ τοῦ θεοῦ, ⸂ἡγιασμένοις ἐν Χριστῷ Ἰησοῦ, τῇ οὔσῃ ἐν Κορίνθῳ,⸃ κλητοῖς ἁγίοις, σὺν πᾶσιν τοῖς ἐπικαλουμένοις τὸ ὄνομα τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ ἐν παντὶ τόπῳ ⸀αὐτῶν καὶ ἡμῶν·
 
-### 1 Corintios 1:2 {#1co-1-2}
+[a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cristo Jesús, llamados a ser santos, con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo, Señor de ellos y nuestro:]
 
-τῇ ἐκκλησίᾳ τοῦ θεοῦ τῇ οὔσῃ ἐν Κορίνθῳ...
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-[A la iglesia de Dios que está en Corinto...]
+### 1Corintios 1:3
 
-- οὔσῃ (V-PAP-DSF) estando [NF]
+χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ.
 
----
+[Gracia y paz a ustedes de parte de Dios nuestro Padre y del Señor Jesucristo.]
 
-### 1 Corintios 1:3 {#1co-1-3}
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-χάρις ὑμῖν καὶ εἰρήνη...
+### 1Corintios 1:4
 
-[Gracia a ustedes y paz...]
+Εὐχαριστῶ τῷ θεῷ ⸀μου πάντοτε περὶ ὑμῶν ἐπὶ τῇ χάριτι τοῦ θεοῦ τῇ δοθείσῃ ὑμῖν ἐν Χριστῷ Ἰησοῦ,
 
-- [εἰμί] (V-PAI-3S) ==[sea]== [F]
+[Siempre doy gracias a mi Dios por ustedes, por la gracia de Dios que les fue dada en Cristo Jesús.]
 
----
+- Εὐχαριστῶ (V-PAI-1S) ==fue dada== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 1:4 {#1co-1-4}
+### 1Corintios 1:5
 
-Εὐχαριστῶ τῷ θεῷ μου πάντοτε...
+ὅτι ἐν παντὶ ἐπλουτίσθητε ἐν αὐτῷ, ἐν παντὶ λόγῳ καὶ πάσῃ γνώσει,
 
-[Doy gracias a mi Dios siempre...]
+[Porque en todo ustedes fueron enriquecidos en Él, en toda palabra y en todo conocimiento,]
 
-- εὐχαριστῶ (V-PAI-1S) ==doy gracias== [F]
+- ἐπλουτίσθητε (V-API-2P) ==fueron== [F]
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 1:6
 
-### 1 Corintios 1:5 {#1co-1-5}
+καθὼς τὸ μαρτύριον τοῦ Χριστοῦ ἐβεβαιώθη ἐν ὑμῖν,
 
-ὅτι ἐν παντὶ ἐπλουτίσθητε...
-
-[porque en todo fueron enriquecidos...]
-
-- ἐπλουτίσθητε (V-API-2P) ==fueron enriquecidos== [F]
-
-   - ὅτι → (porque)
-
----
-
-### 1 Corintios 1:6 {#1co-1-6}
-
-καθὼς τὸ μαρτύριον τοῦ Χριστοῦ ἐβεβαιώθη...
-
-[así como el testimonio de Cristo fue confirmado...]
+[así como el testimonio acerca de Cristo fue confirmado en ustedes;]
 
 - ἐβεβαιώθη (V-API-3S) ==fue confirmado== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 1:7
 
-### 1 Corintios 1:7 {#1co-1-7}
+ὥστε ὑμᾶς μὴ ὑστερεῖσθαι ἐν μηδενὶ χαρίσματι, ἀπεκδεχομένους τὴν ἀποκάλυψιν τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ·
 
-ὥστε μὴ ὑστερεῖσθαι...
+[de manera que nada les falta en ningún don, esperando ansiosamente la revelación de nuestro Señor Jesucristo.]
 
-[de tal manera que no les falta...]
+- ὥστε [DEP] → [de manera que]
+  ⚠ no conecta dos cláusulas
 
-- ὑστερεῖσθαι (V-PNN) faltar [NF]
+### 1Corintios 1:8
 
-   - ὥστε → (de tal manera que)
+ὃς καὶ βεβαιώσει ὑμᾶς ἕως τέλους ἀνεγκλήτους ἐν τῇ ἡμέρᾳ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ.
 
----
+[Él también los confirmará hasta el fin, para que sean irreprensibles en el día de nuestro Señor Jesucristo.]
 
-### 1 Corintios 1:8 {#1co-1-8}
+- βεβαιώσει (V-FAI-3S) ==día== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-ὃς καὶ βεβαιώσει ὑμᾶς...
+### 1Corintios 1:9
 
-[el cual también los confirmará...]
+πιστὸς ὁ θεὸς δι’ οὗ ἐκλήθητε εἰς κοινωνίαν τοῦ υἱοῦ αὐτοῦ Ἰησοῦ Χριστοῦ τοῦ κυρίου ἡμῶν.
 
-- βεβαιώσει (V-FAI-3S) ==confirmará== [F]
+[Fiel es Dios, por medio de quien fueron llamados a la comunión con Su Hijo Jesucristo, nuestro Señor.]
 
----
+- ἐκλήθητε (V-API-2P) ==es== [F]
+- δέ [CORD] → [pero]
+  A: "es" → B: "fueron llamados"
 
-### 1 Corintios 1:9 {#1co-1-9}
+### 1Corintios 1:10
 
-πιστὸς ὁ θεός διʼ οὗ ἐκλήθητε...
+Παρακαλῶ δὲ ὑμᾶς, ἀδελφοί, διὰ τοῦ ὀνόματος τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ ἵνα τὸ αὐτὸ λέγητε πάντες, καὶ μὴ ᾖ ἐν ὑμῖν σχίσματα, ἦτε δὲ κατηρτισμένοι ἐν τῷ αὐτῷ νοῒ καὶ ἐν τῇ αὐτῇ γνώμῃ.
 
-[Fiel es Dios, por medio de quien fueron llamados...]
+[Les ruego, hermanos, por el nombre de nuestro Señor Jesucristo, que todos se pongan de acuerdo, y que no haya divisiones entre ustedes, sino que estén enteramente unidos en un mismo sentir y en un mismo parecer.]
 
-- ἐκλήθητε (V-API-2P) ==fueron llamados== [F]
+- Παρακαλῶ (V-PAI-1S) ==??== [F]
+- λέγητε (V-PAS-2P) ==??== [F]
+- ᾖ (V-PAS-3S) ==??== [F]
+- ἦτε (V-PAS-2P) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 1:11
 
-### 1 Corintios 1:10 {#1co-1-10}
+ἐδηλώθη γάρ μοι περὶ ὑμῶν, ἀδελφοί μου, ὑπὸ τῶν Χλόης ὅτι ἔριδες ἐν ὑμῖν εἰσιν.
 
-Παρακαλῶ δὲ ὑμᾶς...
+[Porque he sido informado acerca de ustedes, hermanos míos, por los de Cloé, que hay discusiones entre ustedes.]
 
-[Les ruego, pues, hermanos...]
+- ἐδηλώθη (V-API-3S) ==cloé== [F]
+- εἰσιν. (V-PAI-3P) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
 
-- παρακαλῶ (V-PAI-1S) ==ruego== [F]
-- ἦτε (V-PAS-2P) sean [F]
+### 1Corintios 1:12
 
-   - δὲ → (pues)
-   - ἵνα → (que)
+λέγω δὲ τοῦτο ὅτι ἕκαστος ὑμῶν λέγει· Ἐγὼ μέν εἰμι Παύλου, Ἐγὼ δὲ Ἀπολλῶ, Ἐγὼ δὲ Κηφᾶ, Ἐγὼ δὲ Χριστοῦ.
 
----
+[Me refiero a que cada uno de ustedes dice: «Yo soy de Pablo», otro: «yo de Apolos», otro: «yo de Cefas», y otro: «yo de Cristo».]
 
-### 1 Corintios 1:11 {#1co-1-11}
+- λέγω (V-PAI-1S) ==??== [F]
+- λέγει· (V-PAI-3S) ==??== [F]
+- εἰμι (V-PAI-1S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
 
-ἐδηλώθη γάρ μοι...
+### 1Corintios 1:13
 
-[Porque se me ha informado...]
+μεμέρισται ὁ Χριστός; μὴ Παῦλος ἐσταυρώθη ὑπὲρ ὑμῶν, ἢ εἰς τὸ ὄνομα Παύλου ἐβαπτίσθητε;
 
-- ἐδηλώθη (V-API-3S) ==se me ha informado== [F]
+[¿Está dividido Cristo? ¿Acaso fue Pablo crucificado por ustedes? ¿O fueron bautizados en el nombre de Pablo?]
 
-   - γάρ → (porque)
+- μεμέρισται (V-XPI-3S) ==fue== [F]
+- ἐσταυρώθη (V-API-3S) ==fueron bautizados== [F]
+- ἐβαπτίσθητε; (V-API-2P) ==??== [F]
 
----
+### 1Corintios 1:14
 
-### 1 Corintios 1:12 {#1co-1-12}
+⸀εὐχαριστῶ ὅτι οὐδένα ὑμῶν ἐβάπτισα εἰ μὴ Κρίσπον καὶ Γάϊον,
 
-λέγω δὲ τοῦτο...
+[Doy gracias a Dios que no bauticé a ninguno de ustedes, excepto a Crispo y a Gayo,]
 
-[Digo esto...]
+- ⸀εὐχαριστῶ (V-PAI-1S) ==bauticé== [F]
+- ἐβάπτισα (V-AAI-1S) ==??== [F]
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-- λέγω (V-PAI-1S) ==digo== [F]
-- λέγει (V-PAI-3S) ==dice== [F]
+### 1Corintios 1:15
 
-   - δὲ → (y)
+ἵνα μή τις εἴπῃ ὅτι εἰς τὸ ἐμὸν ὄνομα ⸀ἐβαπτίσθητε·
 
----
+[para que nadie diga que fueron bautizados en mi nombre.]
 
-### 1 Corintios 1:13 {#1co-1-13}
+- εἴπῃ (V-AAS-3S) ==fueron bautizados== [F]
+- ⸀ἐβαπτίσθητε· (V-API-2P) ==??== [F]
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
 
-μεμέρισται ὁ Χριστός;
+### 1Corintios 1:16
 
-[¿Está dividido Cristo?]
+ἐβάπτισα δὲ καὶ τὸν Στεφανᾶ οἶκον· λοιπὸν οὐκ οἶδα εἴ τινα ἄλλον ἐβάπτισα.
 
-- μεμέρισται (V-RPI-3S) ==está dividido== [F]
+[También bauticé a los de la casa de Estéfanas; por lo demás, no sé si bauticé a algún otro.]
 
----
+- ἐβάπτισα (V-AAI-1S) ==bauticé== [F]
+- οἶδα (V-XAI-1S) ==sé== [F]
+- ἐβάπτισα. (V-AAI-1S) ==bauticé== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  A: "bauticé" → B: "sé"
 
-### 1 Corintios 1:18 {#1co-1-18}
+### 1Corintios 1:17
 
-ὁ λόγος γὰρ τοῦ σταυροῦ...
+οὐ γὰρ ἀπέστειλέν με Χριστὸς βαπτίζειν ἀλλὰ εὐαγγελίζεσθαι, οὐκ ἐν σοφίᾳ λόγου, ἵνα μὴ κενωθῇ ὁ σταυρὸς τοῦ Χριστοῦ.
 
-[Porque la palabra de la cruz...]
+[Pues Cristo no me envió a bautizar, sino a predicar el evangelio, no con palabras elocuentes, para que no se haga vana la cruz de Cristo.]
 
-- ἐστίν (V-PAI-3S) ==es== [F]
-- ἐστίν (V-PAI-3S) ==es== [F]
+- ἀπέστειλέν (V-AAI-3S) ==envió== [F]
+- κενωθῇ (V-APS-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
 
-   - γάρ → (porque)
-   - δὲ → (pero)
+### 1Corintios 1:18
 
----
+Ὁ λόγος γὰρ ὁ τοῦ σταυροῦ τοῖς μὲν ἀπολλυμένοις μωρία ἐστίν, τοῖς δὲ σῳζομένοις ἡμῖν δύναμις θεοῦ ἐστιν.
 
-### 1 Corintios 1:19 {#1co-1-19}
+[Porque la palabra de la cruz es necedad para los que se pierden, pero para nosotros los salvos es poder de Dios.]
 
-γέγραπται γάρ...
+- ἐστίν, (V-PAI-3S) ==es== [F]
+- ἐστιν. (V-PAI-3S) ==es== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  A: "es" → B: "es"
 
-[Porque está escrito...]
+### 1Corintios 1:19
 
-- γέγραπται (V-RPI-3S) ==está escrito== [F]
-- ἀπολῶ (V-FAI-1S) ==destruiré== [F]
-- ἀθετήσω (V-FAI-1S) ==desecharé== [F]
+γέγραπται γάρ· Ἀπολῶ τὴν σοφίαν τῶν σοφῶν, καὶ τὴν σύνεσιν τῶν συνετῶν ἀθετήσω.
 
-   - γάρ → (porque)
-   - ὅτι → (que)
+[Porque está escrito: «DESTRUIRÉ LA SABIDURÍA DE LOS SABIOS, Y EL ENTENDIMIENTO DE LOS INTELIGENTES DESECHARÉ».]
 
----
-### 1 Corintios 1:20 {#1co-1-20}
+- γέγραπται (V-XPI-3S) ==«destruiré== [F]
+- Ἀπολῶ (V-FAI-1S) ==sabiduría== [F]
+- ἀθετήσω. (V-FAI-1S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-ποῦ σοφός ποῦ γραμματεύς ποῦ συζητητὴς τοῦ αἰῶνος τούτου οὐχὶ ἐμώρανεν ὁ θεὸς τὴν σοφίαν τοῦ κόσμου
+### 1Corintios 1:20
 
-[¿Dónde está el sabio? ¿Dónde el escriba? ¿Dónde el discutidor de este siglo? ¿No ha hecho Dios necia la sabiduría del mundo?]
+ποῦ σοφός; ποῦ γραμματεύς; ποῦ συζητητὴς τοῦ αἰῶνος τούτου; οὐχὶ ἐμώρανεν ὁ θεὸς τὴν σοφίαν τοῦ ⸀κόσμου;
 
-- ἐμώρανεν (V-AAI-3S) ==ha hecho necia== [F]
+[¿Dónde está el sabio? ¿Dónde está el escriba? ¿Dónde está el que sabe discutir en este siglo? ¿No ha hecho Dios que la sabiduría de este mundo sea necedad?]
 
----
+- ἐμώρανεν (V-AAI-3S) ==sabiduría== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 1:21 {#1co-1-21}
+### 1Corintios 1:21
 
-ἐπειδὴ γὰρ ἐν τῇ σοφίᾳ τοῦ θεοῦ οὐκ ἔγνω ὁ κόσμος διὰ τῆς σοφίας τὸν θεὸν εὐδόκησεν ὁ θεὸς διὰ τῆς μωρίας τοῦ κηρύγματος σῶσαι τοὺς πιστεύοντας
+ἐπειδὴ γὰρ ἐν τῇ σοφίᾳ τοῦ θεοῦ οὐκ ἔγνω ὁ κόσμος διὰ τῆς σοφίας τὸν θεόν, εὐδόκησεν ὁ θεὸς διὰ τῆς μωρίας τοῦ κηρύγματος σῶσαι τοὺς πιστεύοντας.
 
-[Pues ya que en la sabiduría de Dios el mundo no conoció a Dios por medio de la sabiduría, agradó a Dios salvar a los creyentes por la locura de la predicación.]
+[Pues ya que en la sabiduría de Dios, el mundo no conoció a Dios por medio de su propia sabiduría, agradó a Dios mediante la necedad de la predicación salvar a los que creen.]
 
-- ἔγνω (V-AAI-3S) ==conoció== [F]
-- εὐδόκησεν (V-AAI-3S) ==agradó== [F]
-- σῶσαι (V-AAN) salvar [NF]
+- ἔγνω (V-AAI-3S) ==sabiduría== [F]
+- εὐδόκησεν (V-AAI-3S) ==conoció== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  A: "sabiduría" → B: "sabiduría"
 
-   - γάρ → (pues)
+### 1Corintios 1:22
 
----
+ἐπειδὴ καὶ Ἰουδαῖοι ⸀σημεῖα αἰτοῦσιν καὶ Ἕλληνες σοφίαν ζητοῦσιν·
 
-### 1 Corintios 1:22 {#1co-1-22}
+[Porque en verdad los judíos piden señales y los griegos buscan sabiduría;]
 
-ἐπειδὴ καὶ Ἰουδαῖοι σημεῖα αἰτοῦσιν καὶ Ἕλληνες σοφίαν ζητοῦσιν
+- αἰτοῦσιν (V-PAI-3P) ==sabiduría== [F]
+- ζητοῦσιν· (V-PAI-3P) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-[Porque los judíos piden señales y los griegos buscan sabiduría.]
+### 1Corintios 1:23
 
-- αἰτοῦσιν (V-PAI-3P) ==piden== [F]
-- ζητοῦσιν (V-PAI-3P) ==buscan== [F]
+ἡμεῖς δὲ κηρύσσομεν Χριστὸν ἐσταυρωμένον, Ἰουδαίοις μὲν σκάνδαλον ⸀ἔθνεσιν δὲ μωρίαν,
 
-   - καί → (y)
+[pero nosotros predicamos a Cristo crucificado, piedra de tropiezo para los judíos, y necedad para los gentiles.]
 
----
+- κηρύσσομεν (V-PAI-1P) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 1:23 {#1co-1-23}
+### 1Corintios 1:24
 
-ἡμεῖς δὲ κηρύσσομεν Χριστὸν ἐσταυρωμένον Ἰουδαίοις μὲν σκάνδαλον ἔθνεσιν δὲ μωρίαν
+αὐτοῖς δὲ τοῖς κλητοῖς, Ἰουδαίοις τε καὶ Ἕλλησιν, Χριστὸν θεοῦ δύναμιν καὶ θεοῦ σοφίαν.
 
-[Pero nosotros predicamos a Cristo crucificado, para los judíos ciertamente tropezadero, y para los gentiles necedad.]
+[Sin embargo, para los llamados, tanto judíos como griegos, Cristo es poder de Dios y sabiduría de Dios.]
 
-- κηρύσσομεν (V-PAI-1P) ==predicamos== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-   - δὲ → (pero)
+### 1Corintios 1:25
 
----
+ὅτι τὸ μωρὸν τοῦ θεοῦ σοφώτερον τῶν ἀνθρώπων ἐστίν, καὶ τὸ ἀσθενὲς τοῦ θεοῦ ἰσχυρότερον τῶν ⸀ἀνθρώπων.
 
-### 1 Corintios 1:24 {#1co-1-24}
+[Porque la necedad de Dios es más sabia que los hombres, y la debilidad de Dios es más fuerte que los hombres.]
 
-αὐτοῖς δὲ τοῖς κλητοῖς Ἰουδαίοις τε καὶ Ἕλλησιν Χριστὸν θεοῦ δύναμιν καὶ θεοῦ σοφίαν
+- ἐστίν, (V-PAI-3S) ==es== [F]
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  A: "es" → B: "es"
 
-[pero para los llamados, tanto judíos como griegos, Cristo es poder de Dios y sabiduría de Dios.]
+### 1Corintios 1:26
 
-- [ἐστίν] (V-PAI-3S) ==[es]== [F]
+Βλέπετε γὰρ τὴν κλῆσιν ὑμῶν, ἀδελφοί, ὅτι οὐ πολλοὶ σοφοὶ κατὰ σάρκα, οὐ πολλοὶ δυνατοί, οὐ πολλοὶ εὐγενεῖς·
 
-   - δὲ → (pero)
+[Pues consideren, hermanos, su llamamiento. No hubo muchos sabios conforme a la carne, ni muchos poderosos, ni muchos nobles.]
 
----
+- Βλέπετε (V-PAI-2P) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 1:25 {#1co-1-25}
+### 1Corintios 1:27
 
-ὅτι τὸ μωρὸν τοῦ θεοῦ σοφώτερον τῶν ἀνθρώπων ἐστίν καὶ τὸ ἀσθενὲς τοῦ θεοῦ ἰσχυρότερον τῶν ἀνθρώπων
+ἀλλὰ τὰ μωρὰ τοῦ κόσμου ἐξελέξατο ὁ θεός, ἵνα ⸂καταισχύνῃ τοὺς σοφούς⸃, καὶ τὰ ἀσθενῆ τοῦ κόσμου ἐξελέξατο ὁ θεός, ἵνα καταισχύνῃ τὰ ἰσχυρά,
 
-[Porque lo necio de Dios es más sabio que los hombres, y lo débil de Dios es más fuerte que los hombres.]
+[Sino que Dios ha escogido lo necio del mundo para avergonzar a los sabios; y Dios ha escogido lo débil del mundo para avergonzar a lo que es fuerte.]
 
-- ἐστίν (V-PAI-3S) ==es== [F]
-- [ἐστίν] (V-PAI-3S) ==[es]== [F]
+- ἐξελέξατο (V-AMI-3S) ==es== [F]
+- ⸂καταισχύνῃ (V-PAS-3S) ==??== [F]
+- ἐξελέξατο (V-AMI-3S) ==??== [F]
+- καταισχύνῃ (V-PAS-3S) ==??== [F]
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-   - ὅτι → (porque)
-   - καί → (y)
+### 1Corintios 1:28
 
----
+καὶ τὰ ἀγενῆ τοῦ κόσμου καὶ τὰ ἐξουθενημένα ἐξελέξατο ὁ θεός, ⸀τὰ μὴ ὄντα, ἵνα τὰ ὄντα καταργήσῃ,
 
-### 1 Corintios 1:26 {#1co-1-26}
+[También Dios ha escogido lo vil y despreciado del mundo: lo que no es, para anular lo que es,]
 
-βλέπετε γὰρ τὴν κλῆσιν ὑμῶν ἀδελφοί ὅτι οὐ πολλοὶ σοφοὶ κατὰ σάρκα οὐ πολλοὶ δυνατοί οὐ πολλοὶ εὐγενεῖς
+- ἐξελέξατο (V-AMI-3S) ==es== [F]
+- καταργήσῃ, (V-AAS-3S) ==es== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  A: "es" → B: "es"
 
-[Consideren, hermanos, su llamamiento: que no hay muchos sabios según la carne, ni muchos poderosos, ni muchos nobles.]
+### 1Corintios 1:29
 
-- βλέπετε (V-PAM-2P) consideren [F]
-
-   - γάρ → (porque)
-   - ὅτι → (que)
-
----
-
-### 1 Corintios 1:27 {#1co-1-27}
-
-ἀλλὰ τὰ μωρὰ τοῦ κόσμου ἐξελέξατο ὁ θεός ἵνα καταισχύνῃ τοὺς σοφούς καὶ τὰ ἀσθενῆ τοῦ κόσμου ἐξελέξατο ὁ θεός ἵνα καταισχύνῃ τὰ ἰσχυρά
-
-[Pero Dios ha escogido lo necio del mundo para avergonzar a los sabios; y Dios ha escogido lo débil del mundo para avergonzar a lo fuerte.]
-
-- ἐξελέξατο (V-AMI-3S) ==ha escogido== [F]
-- καταισχύνῃ (V-AAS-3S) avergüence [F]
-- ἐξελέξατο (V-AMI-3S) ==ha escogido== [F]
-- καταισχύνῃ (V-AAS-3S) avergüence [F]
-
-   - ἀλλὰ → (pero)
-   - ἵνα → (para que)
-   - καί → (y)
-
-### 1 Corintios 1:28 {#1co-1-28}
-
-καὶ τὰ ἀγενῆ τοῦ κόσμου καὶ τὰ ἐξουθενημένα ἐξελέξατο ὁ θεός καὶ τὰ μὴ ὄντα ἵνα καταργήσῃ τὰ ὄντα
-
-[Lo vil y despreciado del mundo ha escogido Dios; lo que no es, para anular lo que es.]
-
-- ἐξελέξατο (V-AMI-3S) ==ha escogido== [F]
-- ὄντα (V-PAP-APN) siendo [NF]
-- καταργήσῃ (V-AAS-3S) anule [F]
-- ὄντα (V-PAP-APN) siendo [NF]
-
-   - καί → (y)
-   - ἵνα → (para que)
-
----
-
-### 1 Corintios 1:29 {#1co-1-29}
-
-ὅπως μὴ καυχήσηται πᾶσα σὰρξ ἐνώπιον τοῦ θεοῦ
+ὅπως μὴ καυχήσηται πᾶσα σὰρξ ἐνώπιον τοῦ θεοῦ.
 
 [para que nadie se jacte delante de Dios.]
 
-- καυχήσηται (V-AMS-3S) se jacte [F]
+- καυχήσηται (V-AMS-3S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-   - ὅπως → (para que)
+### 1Corintios 1:30
 
----
+ἐξ αὐτοῦ δὲ ὑμεῖς ἐστε ἐν Χριστῷ Ἰησοῦ, ὃς ἐγενήθη ⸂σοφία ἡμῖν⸃ ἀπὸ θεοῦ, δικαιοσύνη τε καὶ ἁγιασμὸς καὶ ἀπολύτρωσις,
 
-### 1 Corintios 1:30 {#1co-1-30}
+[Pero por obra Suya están ustedes en Cristo Jesús, el cual se hizo para nosotros sabiduría de Dios, y justificación, santificación y redención,]
 
-ἐξ αὐτοῦ δὲ ὑμεῖς ἐστε ἐν Χριστῷ Ἰησοῦ ὃς ἐγενήθη σοφία ἡμῖν ἀπὸ θεοῦ δικαιοσύνη τε καὶ ἁγιασμὸς καὶ ἀπολύτρωσις
+- ἐστε (V-PAI-2P) ==sabiduría== [F]
+- ἐγενήθη (V-API-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-[Pero por Él están ustedes en Cristo Jesús, el cual se hizo para nosotros sabiduría de Dios, y justificación, santificación y redención.]
+### 1Corintios 1:31
 
-- ἐστε (V-PAI-2P) ==están== [F]
-- ἐγενήθη (V-ADI-3S) ==se hizo== [F]
+ἵνα καθὼς γέγραπται· Ὁ καυχώμενος ἐν κυρίῳ καυχάσθω.
 
-   - δὲ → (pero)
+[para que, tal como está escrito: «EL QUE SE GLORÍA, QUE SE GLORÍE EN EL SEÑOR».]
 
----
+- γέγραπται· (V-XPI-3S) ==gloría== [F]
+- καυχάσθω. (V-PMD-3S) ==??== [F]
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 1:31 {#1co-1-31}
+### 1Corintios 2:1
 
-ἵνα καθὼς γέγραπται ὁ καυχώμενος ἐν κυρίῳ καυχάσθω
+Κἀγὼ ἐλθὼν πρὸς ὑμᾶς, ἀδελφοί, ἦλθον οὐ καθ’ ὑπεροχὴν λόγου ἢ σοφίας καταγγέλλων ὑμῖν τὸ ⸀μαρτύριον τοῦ θεοῦ.
 
-[para que, tal como está escrito: «El que se gloría, que se gloríe en el Señor».]
+[Por eso, cuando fui a ustedes, hermanos, proclamándoles el testimonio de Dios, no fui con superioridad de palabra o de sabiduría.]
 
-- γέγραπται (V-RPI-3S) ==está escrito== [F]
-- καυχώμενος (V-PPP-NSM) gloriándose [NF]
-- καυχάσθω (V-PMM-3S) gloríe [F]
+- ἦλθον (V-AAI-1S) ==sabiduría== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-   - ἵνα → (para que)
+### 1Corintios 2:2
 
-### 1 Corintios 2:1 {#1co-2-1}
+οὐ γὰρ ἔκρινά ⸂τι εἰδέναι⸃ ἐν ὑμῖν εἰ μὴ Ἰησοῦν Χριστὸν καὶ τοῦτον ἐσταυρωμένον·
 
-Κἀγὼ ἐλθὼν πρὸς ὑμᾶς ἀδελφοί οὐ καθʼ ὑπεροχὴν λόγου ἢ σοφίας ἦλθον καταγγέλλων ὑμῖν τὸ μαρτύριον τοῦ θεοῦ
+[Porque nada me propuse saber entre ustedes excepto a Jesucristo, y Este crucificado.]
 
-[Y cuando fui a ustedes, hermanos, no fui con superioridad de palabra o de sabiduría, anunciándoles el testimonio de Dios.]
+- ἔκρινά (V-AAI-1S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-- ἐλθὼν (V-AAP-NSM) habiendo ido [NF]
-- ἦλθον (V-AAI-1S) ==fui== [F]
-- καταγγέλλων (V-PAP-NSM) anunciando [NF]
+### 1Corintios 2:3
 
----
+κἀγὼ ἐν ἀσθενείᾳ καὶ ἐν φόβῳ καὶ ἐν τρόμῳ πολλῷ ἐγενόμην πρὸς ὑμᾶς,
 
-### 1 Corintios 2:2 {#1co-2-2}
+[Estuve entre ustedes con debilidad y con temor y mucho temblor,]
 
-οὐ γὰρ ἔκρινά τι εἰδέναι ἐν ὑμῖν εἰ μὴ Ἰησοῦν Χριστὸν καὶ τοῦτον ἐσταυρωμένον
+- ἐγενόμην (V-AMI-1S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-[Porque nada me propuse saber entre ustedes, sino a Jesucristo, y a este crucificado.]
+### 1Corintios 2:4
 
-- ἔκρινά (V-AAI-1S) ==me propuse== [F]
-- εἰδέναι (V-RAN) saber [NF]
-- ἐσταυρωμένον (V-RPP-ASM) habiendo sido crucificado [NF]
+καὶ ὁ λόγος μου καὶ τὸ κήρυγμά μου οὐκ ἐν ⸂πειθοῖ σοφίας⸃ ἀλλ’ ἐν ἀποδείξει πνεύματος καὶ δυνάμεως,
 
-   - γάρ → (porque)
+[y mi mensaje y mi predicación no fueron con palabras persuasivas de sabiduría, sino con demostración del Espíritu y de poder,]
 
----
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 2:3 {#1co-2-3}
+### 1Corintios 2:5
 
-κἀγὼ ἐν ἀσθενείᾳ καὶ ἐν φόβῳ καὶ ἐν τρόμῳ πολλῷ ἐγενόμην πρὸς ὑμᾶς
+ἵνα ἡ πίστις ὑμῶν μὴ ᾖ ἐν σοφίᾳ ἀνθρώπων ἀλλ’ ἐν δυνάμει θεοῦ.
 
-[Y estuve entre ustedes con debilidad, y con temor y mucho temblor.]
+[para que la fe de ustedes no descanse en la sabiduría de los hombres, sino en el poder de Dios.]
 
-- ἐγενόμην (V-ADI-1S) ==estuve== [F]
+- ᾖ (V-PAS-3S) ==sabiduría== [F]
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 2:6
 
-### 1 Corintios 2:4 {#1co-2-4}
+Σοφίαν δὲ λαλοῦμεν ἐν τοῖς τελείοις, σοφίαν δὲ οὐ τοῦ αἰῶνος τούτου οὐδὲ τῶν ἀρχόντων τοῦ αἰῶνος τούτου τῶν καταργουμένων·
 
-καὶ ὁ λόγος μου καὶ τὸ κήρυγμά μου οὐκ ἐν πειθοῖς σοφίας λόγοις ἀλλʼ ἐν ἀποδείξει πνεύματος καὶ δυνάμεως
+[Sin embargo, hablamos sabiduría entre los que han alcanzado madurez; pero una sabiduría no de este siglo, ni de los gobernantes de este siglo, que van desapareciendo,]
 
-[Y mi palabra y mi predicación no fue con palabras persuasivas de sabiduría, sino con demostración del Espíritu y de poder.]
+- λαλοῦμεν (V-PAI-1P) ==sabiduría== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-- [ἦν] (V-IAI-3S) ==[fue]== [F]
+### 1Corintios 2:7
 
-   - ἀλλʼ → (sino)
+ἀλλὰ λαλοῦμεν ⸂θεοῦ σοφίαν⸃ ἐν μυστηρίῳ, τὴν ἀποκεκρυμμένην, ἣν προώρισεν ὁ θεὸς πρὸ τῶν αἰώνων εἰς δόξαν ἡμῶν·
 
----
+[sino que hablamos sabiduría de Dios en misterio, la sabiduría oculta que, desde antes de los siglos, Dios predestinó para nuestra gloria.]
 
-### 1 Corintios 2:5 {#1co-2-5}
+- λαλοῦμεν (V-PAI-1P) ==sabiduría== [F]
+- προώρισεν (V-AAI-3S) ==sabiduría== [F]
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  A: "sabiduría" → B: "predestinó"
 
-ἵνα ἡ πίστις ὑμῶν μὴ ᾖ ἐν σοφίᾳ ἀνθρώπων ἀλλʼ ἐν δυνάμει θεοῦ
+### 1Corintios 2:8
 
-[para que su fe no esté fundada en la sabiduría de los hombres, sino en el poder de Dios.]
+ἣν οὐδεὶς τῶν ἀρχόντων τοῦ αἰῶνος τούτου ἔγνωκεν, εἰ γὰρ ἔγνωσαν, οὐκ ἂν τὸν κύριον τῆς δόξης ἐσταύρωσαν·
 
-- ᾖ (V-PAS-3S) esté [F]
+[Esta sabiduría que ninguno de los gobernantes de este siglo ha entendido, porque si la hubieran entendido no habrían crucificado al Señor de gloria;]
 
-   - ἵνα → (para que)
-   - ἀλλʼ → (sino)
+- ἔγνωκεν, (V-XAI-3S) ==sabiduría== [F]
+- ἔγνωσαν, (V-AAI-3P) ==habrían== [F]
+- ἐσταύρωσαν· (V-AAI-3P) ==??== [F]
+- εἰ [DEP] → [si]
+  A: "sabiduría" → B: "habrían"
+- γάρ [DEP] → [porque]
+  A: "sabiduría" → B: "habrían"
+- δέ [CORD] → [pero]
+  A: "sabiduría" → B: "habrían"
 
----
+### 1Corintios 2:9
 
-### 1 Corintios 2:6 {#1co-2-6}
+ἀλλὰ καθὼς γέγραπται· Ἃ ὀφθαλμὸς οὐκ εἶδεν καὶ οὖς οὐκ ἤκουσεν καὶ ἐπὶ καρδίαν ἀνθρώπου οὐκ ἀνέβη, ⸀ὅσα ἡτοίμασεν ὁ θεὸς τοῖς ἀγαπῶσιν αὐτόν.
 
-Σοφίαν δὲ λαλοῦμεν ἐν τοῖς τελείοις σοφίαν δὲ οὐ τοῦ αἰῶνος τούτου οὐδὲ τῶν ἀρχόντων τοῦ αἰῶνος τούτου τῶν καταργουμένων
+[sino como está escrito: «COSAS QUE OJO NO VIO, NI OÍDO OYÓ, NI HAN ENTRADO AL CORAZÓN DEL HOMBRE, Son LAS COSAS QUE DIOS HA PREPARADO PARA LOS QUE LO AMAN».]
 
-[Sin embargo, hablamos sabiduría entre los que han alcanzado madurez; pero una sabiduría no de este siglo, ni de los gobernantes de este siglo, que van desapareciendo.]
+- γέγραπται· (V-XPI-3S) ==oyó== [F]
+- εἶδεν (V-AAI-3S) ==son== [F]
+- ἤκουσεν (V-AAI-3S) ==??== [F]
+- ἀνέβη, (V-AAI-3S) ==??== [F]
+- ἡτοίμασεν (V-AAI-3S) ==??== [F]
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-- λαλοῦμεν (V-PAI-1P) ==hablamos== [F]
-- καταργουμένων (V-PPP-GPM) siendo anulados [NF]
+### 1Corintios 2:10
 
-   - δὲ → (sin embargo)
+ἡμῖν ⸀γὰρ ⸂ἀπεκάλυψεν ὁ θεὸς⸃ διὰ τοῦ ⸀πνεύματος, τὸ γὰρ πνεῦμα πάντα ἐραυνᾷ, καὶ τὰ βάθη τοῦ θεοῦ.
 
----
+[Pero Dios nos las reveló por medio del Espíritu, porque el Espíritu todo lo escudriña, aun las profundidades de Dios.]
 
-### 1 Corintios 2:7 {#1co-2-7}
+- ⸂ἀπεκάλυψεν (V-AAI-3S) ==reveló== [F]
+- ἐραυνᾷ, (V-PAI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-ἀλλὰ λαλοῦμεν θεοῦ σοφίαν ἐν μυστηρίῳ τὴν ἀποκεκρυμμένην ἣν προώρισεν ὁ θεὸς πρὸ τῶν αἰώνων εἰς δόξαν ἡμῶν
+### 1Corintios 2:11
 
-[Pero hablamos sabiduría de Dios en misterio, la sabiduría oculta, que Dios predestinó antes de los siglos para nuestra gloria.]
+τίς γὰρ οἶδεν ἀνθρώπων τὰ τοῦ ἀνθρώπου εἰ μὴ τὸ πνεῦμα τοῦ ἀνθρώπου τὸ ἐν αὐτῷ; οὕτως καὶ τὰ τοῦ θεοῦ οὐδεὶς ⸀ἔγνωκεν εἰ μὴ τὸ πνεῦμα τοῦ θεοῦ.
 
-- λαλοῦμεν (V-PAI-1P) ==hablamos== [F]
-- ἀποκεκρυμμένην (V-RPP-ASF) habiendo sido escondida [NF]
-- προώρισεν (V-AAI-3S) ==predestinó== [F]
+[Porque entre los hombres, ¿quién conoce los pensamientos de un hombre, sino el espíritu del hombre que está en él? Asimismo, nadie conoce los pensamientos de Dios, sino el Espíritu de Dios.]
 
-   - ἀλλὰ → (pero)
+- οἶδεν (V-XAI-3S) ==??== [F]
+- ⸀ἔγνωκεν (V-XAI-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 2:12
 
-### 1 Corintios 2:8 {#1co-2-8}
+ἡμεῖς δὲ οὐ τὸ πνεῦμα τοῦ κόσμου ἐλάβομεν ἀλλὰ τὸ πνεῦμα τὸ ἐκ τοῦ θεοῦ, ἵνα εἰδῶμεν τὰ ὑπὸ τοῦ θεοῦ χαρισθέντα ἡμῖν·
 
-ἣν οὐδεὶς τῶν ἀρχόντων τοῦ αἰῶνος τούτου ἔγνω εἰ γὰρ ἔγνωσαν οὐκ ἂν τὸν κύριον τῆς δόξης ἐσταύρωσαν
+[Y nosotros hemos recibido, no el espíritu del mundo, sino el Espíritu que viene de Dios, para que conozcamos lo que Dios nos ha dado gratuitamente,]
 
-[Sabiduría que ninguno de los gobernantes de este siglo ha entendido; porque si la hubieran entendido, no habrían crucificado al Señor de gloria.]
+- ἐλάβομεν (V-AAI-1P) ==??== [F]
+- εἰδῶμεν (V-XAS-1P) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
 
-- ἔγνω (V-AAI-3S) ==entendió== [F]
-- ἔγνωσαν (V-AAI-3P) ==entendieron== [F]
-- ἐσταύρωσαν (V-AAI-3P) ==crucificaron== [F]
+### 1Corintios 2:13
 
-   - γὰρ → (porque)
+ἃ καὶ λαλοῦμεν οὐκ ἐν διδακτοῖς ἀνθρωπίνης σοφίας λόγοις, ἀλλ’ ἐν διδακτοῖς ⸀πνεύματος, πνευματικοῖς πνευματικὰ συγκρίνοντες.
 
----
+[de lo cual también hablamos, no con palabras enseñadas por sabiduría humana, sino con las enseñadas por el Espíritu, combinando pensamientos espirituales con palabras espirituales.]
 
-### 1 Corintios 2:9 {#1co-2-9}
+- λαλοῦμεν (V-PAI-1P) ==sabiduría== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
 
-ἀλλὰ καθὼς γέγραπται ἃ ὀφθαλμὸς οὐκ εἶδεν καὶ οὖς οὐκ ἤκουσεν καὶ ἐπὶ καρδίαν ἀνθρώπου οὐκ ἀνέβη ἃ ἡτοίμασεν ὁ θεὸς τοῖς ἀγαπῶσιν αὐτόν
+### 1Corintios 2:14
 
-[Sino como está escrito: «Cosas que ojo no vio, ni oído oyó, ni han entrado al corazón del hombre, son las que Dios ha preparado para los que lo aman».]
+Ψυχικὸς δὲ ἄνθρωπος οὐ δέχεται τὰ τοῦ πνεύματος τοῦ θεοῦ, μωρία γὰρ αὐτῷ ἐστίν, καὶ οὐ δύναται γνῶναι, ὅτι πνευματικῶς ἀνακρίνεται·
 
-- γέγραπται (V-RPI-3S) ==está escrito== [F]
-- εἶδεν (V-AAI-3S) ==vio== [F]
-- ἤκουσεν (V-AAI-3S) ==oyó== [F]
-- ἀνέβη (V-AAI-3S) ==han entrado== [F]
-- ἡτοίμασεν (V-AAI-3S) ==ha preparado== [F]
+[Pero el hombre natural no acepta las cosas del Espíritu de Dios, porque para él son necedad; y no las puede entender, porque son cosas que se disciernen espiritualmente.]
 
-   - ἀλλὰ → (sino)
-   - καὶ → (y)
+- δέχεται (V-PMI-3S) ==son== [F]
+- ἐστίν, (V-PAI-3S) ==puede== [F]
+- δύναται (V-PMI-3S) ==son== [F]
+- ἀνακρίνεται· (V-PPI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  A: "son" → B: "puede"
 
----
+### 1Corintios 2:15
 
-### 1 Corintios 2:10 {#1co-2-10}
-
-ἡμῖν δὲ ἀπεκάλυψεν ὁ θεὸς διὰ τοῦ πνεύματος τὸ γὰρ πνεῦμα πάντα ἐραυνᾷ καὶ τὰ βάθη τοῦ θεοῦ
-
-[Pero Dios nos las reveló por medio del Espíritu; porque el Espíritu todo lo escudriña, aun las profundidades de Dios.]
-
-- ἀπεκάλυψεν (V-AAI-3S) ==reveló== [F]
-- ἐραυνᾷ (V-PAI-3S) ==escudriña== [F]
-
-   - δὲ → (pero)
-   - γὰρ → (porque)
-   - καὶ → (y)
-
----
-
-### 1 Corintios 2:11 {#1co-2-11}
-
-τίς γὰρ οἶδεν ἀνθρώπων τὰ τοῦ ἀνθρώπου εἰ μὴ τὸ πνεῦμα τοῦ ἀνθρώπου τὸ ἐν αὐτῷ οὕτως καὶ τὰ τοῦ θεοῦ οὐδεὶς ἔγνω εἰ μὴ τὸ πνεῦμα τοῦ θεοῦ
-
-[Porque ¿quién de los hombres sabe las cosas del hombre, sino el espíritu del hombre que está en él? Así tampoco nadie conoce las cosas de Dios, sino el Espíritu de Dios.]
-
-- οἶδεν (V-RAI-3S) ==sabe== [F]
-- ἔγνω (V-AAI-3S) ==conoce== [F]
-
-   - γὰρ → (porque)
-   - καὶ → (y)
-
----
-
-### 1 Corintios 2:12 {#1co-2-12}
-
-ἡμεῖς δὲ οὐ τὸ πνεῦμα τοῦ κόσμου ἐλάβομεν ἀλλὰ τὸ πνεῦμα τὸ ἐκ τοῦ θεοῦ ἵνα εἰδῶμεν τὰ ὑπὸ τοῦ θεοῦ χαρισθέντα ἡμῖν
-
-[Y nosotros no hemos recibido el espíritu del mundo, sino el Espíritu que viene de Dios, para que conozcamos lo que Dios nos ha dado gratuitamente.]
-
-- ἐλάβομεν (V-AAI-1P) ==hemos recibido== [F]
-- εἰδῶμεν (V-RAS-1P) conozcamos [F]
-- χαρισθέντα (V-APP-APN) habiendo sido dado [NF]
-
-   - δὲ → (y)
-   - ἀλλὰ → (sino)
-   - ἵνα → (para que)
-
----
-
-### 1 Corintios 2:13 {#1co-2-13}
-
-ἃ καὶ λαλοῦμεν οὐκ ἐν διδακτοῖς ἀνθρωπίνης σοφίας λόγοις ἀλλʼ ἐν διδακτοῖς πνεύματος πνευματικοῖς πνευματικὰ συγκρίνοντες
-
-[De lo cual también hablamos, no con palabras enseñadas por sabiduría humana, sino con las enseñadas por el Espíritu, combinando pensamientos espirituales con palabras espirituales.]
-
-- λαλοῦμεν (V-PAI-1P) ==hablamos== [F]
-- συγκρίνοντες (V-PAP-NPM) combinando [NF]
-
-   - καὶ → (también)
-   - ἀλλʼ → (sino)
-
----
-
-### 1 Corintios 2:14 {#1co-2-14}
-
-ψυχικὸς δὲ ἄνθρωπος οὐ δέχεται τὰ τοῦ πνεύματος τοῦ θεοῦ μωρία γὰρ αὐτῷ ἐστίν καὶ οὐ δύναται γνῶναι ὅτι πνευματικῶς ἀνακρίνεται
-
-[Pero el hombre natural no acepta las cosas del Espíritu de Dios, porque para él son necedad; y no las puede entender, porque se disciernen espiritualmente.]
-
-- δέχεται (V-PMI-3S) ==acepta== [F]
-- ἐστίν (V-PAI-3S) ==son== [F]
-- δύναται (V-PMI-3S) ==puede== [F]
-- γνῶναι (V-AAN) entender [NF]
-- ἀνακρίνεται (V-PPI-3S) ==se disciernen== [F]
-
-   - δὲ → (pero)
-   - γὰρ → (porque)
-   - καὶ → (y)
-   - ὅτι → (porque)
-
----
-
-### 1 Corintios 2:15 {#1co-2-15}
-
-ὁ δὲ πνευματικὸς ἀνακρίνει πάντα αὐτὸς δὲ ὑπʼ οὐδενὸς ἀνακρίνεται
+ὁ δὲ πνευματικὸς ἀνακρίνει ⸀τὰ πάντα, αὐτὸς δὲ ὑπ’ οὐδενὸς ἀνακρίνεται.
 
 [En cambio, el que es espiritual juzga todas las cosas; pero él no es juzgado por nadie.]
 
-- ἀνακρίνει (V-PAI-3S) ==juzga== [F]
-- ἀνακρίνεται (V-PPI-3S) ==es juzgado== [F]
+- ἀνακρίνει (V-PAI-3S) ==es== [F]
+- ἀνακρίνεται. (V-PPI-3S) ==es juzgado== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-   - δὲ → (pero)
+### 1Corintios 2:16
 
----
+τίς γὰρ ἔγνω νοῦν κυρίου, ὃς συμβιβάσει αὐτόν; ἡμεῖς δὲ νοῦν Χριστοῦ ἔχομεν.
 
-### 1 Corintios 2:16 {#1co-2-16}
+[Porque ¿QUIÉN HA CONOCIDO LA MENTE DEL SEÑOR, PARA QUE LO INSTRUYA? Pero nosotros tenemos la mente de Cristo.]
 
-τίς γὰρ ἔγνω νοῦν κυρίου ὃς συμβιβάσει αὐτόν ἡμεῖς δὲ νοῦν Χριστοῦ ἔχομεν
+- ἔγνω (V-AAI-3S) ==??== [F]
+- συμβιβάσει (V-FAI-3S) ==??== [F]
+- ἔχομεν. (V-PAI-1P) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-[Porque ¿quién ha conocido la mente del Señor, para que lo instruya? Pero nosotros tenemos la mente de Cristo.]
+### 1Corintios 3:1
 
-- ἔγνω (V-AAI-3S) ==ha conocido== [F]
-- συμβιβάσει (V-FAI-3S) ==instruirá== [F]
-- ἔχομεν (V-PAI-1P) ==tenemos== [F]
+Κἀγώ, ἀδελφοί, οὐκ ἠδυνήθην ⸂λαλῆσαι ὑμῖν⸃ ὡς πνευματικοῖς ἀλλ’ ὡς ⸀σαρκίνοις, ὡς νηπίοις ἐν Χριστῷ.
 
-   - γὰρ → (porque)
-   - δὲ → (pero)
+[Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo.]
 
-### 1 Corintios 3:1 {#1co-3-1}
+- ἠδυνήθην (V-API-1S) ==pude== [F]
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
 
-Κἀγὼ ἀδελφοί οὐκ ἠδυνήθην λαλῆσαι ὑμῖν ὡς πνευματικοῖς ἀλλʼ ὡς σαρκίνοις ὡς νηπίοις ἐν Χριστῷ·
+### 1Corintios 3:2
 
-[Y yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo.]
+γάλα ὑμᾶς ἐπότισα, ⸀οὐ βρῶμα, οὔπω γὰρ ἐδύνασθε. ἀλλ’ ⸀οὐδὲ ἔτι νῦν δύνασθε,
 
-- ἠδυνήθην (V-AOI-1S) ==pude== [F]
-- λαλῆσαι (V-AAN) hablar [NF]
+[Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden,]
 
-   - ἀλλʼ → (sino)
+- ἐπότισα, (V-AAI-1S) ==di== [F]
+- ἐδύνασθε. (V-IMI-2P) ==todavía== [F]
+- δύνασθε, (V-PMI-2P) ==podían== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  A: "di" → B: "todavía"
+- δέ [CORD] → [pero]
+  A: "podían" → B: "pueden"
 
----
+### 1Corintios 3:3
 
-### 1 Corintios 3:2 {#1co-3-2}
+ἔτι γὰρ σαρκικοί ἐστε. ὅπου γὰρ ἐν ὑμῖν ζῆλος καὶ ⸀ἔρις, οὐχὶ σαρκικοί ἐστε καὶ κατὰ ἄνθρωπον περιπατεῖτε;
 
-γάλα ὑμᾶς ἐπότισα οὐ βρῶμα οὔπω γὰρ ἐδύνασθε ἀλλʼ οὐδὲ ἔτι νῦν δύνασθε
+[porque todavía son carnales. Pues habiendo celos y discusiones entre ustedes, ¿no son carnales y andan como hombres del mundo?]
 
-[Les di a beber leche, no alimento sólido, porque todavía no podían, ni aun ahora pueden.]
-
-- ἐπότισα (V-AAI-1S) ==di a beber== [F]
-- ἐδύνασθε (V-IMI-2P) ==podían== [F]
-- δύνασθε (V-PMI-2P) ==pueden== [F]
-
-   - γάρ → (porque)
-   - ἀλλʼ → [pero] ni aun ahora pueden
-
----
-
-### 1 Corintios 3:3 {#1co-3-3}
-
-ἔτι γὰρ σαρκικοί ἐστε ὅπου γὰρ ἐν ὑμῖν ζῆλος καὶ ἔρις οὐχὶ σαρκικοί ἐστε καὶ κατὰ ἄνθρωπον περιπατεῖτε;
-
-[Porque todavía son carnales. Pues habiendo celos y contiendas entre ustedes, ¿no son carnales y andan como hombres?]
-
+- ἐστε. (V-PAI-2P) ==todavía== [F]
 - ἐστε (V-PAI-2P) ==son== [F]
-- ἐστε (V-PAI-2P) ==son== [F]
-- περιπατεῖτε (V-PAI-2P) ==andan== [F]
+- περιπατεῖτε; (V-PAI-2P) ==son== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  A: "son" → B: "son"
 
-   - γάρ → (porque)
-   - γάρ → (pues)
-   - καί → (y)
+### 1Corintios 3:4
 
----
+ὅταν γὰρ λέγῃ τις· Ἐγὼ μέν εἰμι Παύλου, ἕτερος δέ· Ἐγὼ Ἀπολλῶ, ⸂οὐκ ἄνθρωποί⸃ ἐστε;
 
-### 1 Corintios 3:4 {#1co-3-4}
+[Porque cuando uno dice: «Yo soy de Pablo», y otro: «Yo soy de Apolos», ¿no son como hombres del mundo?]
 
-ὅταν γὰρ λέγῃ τις ἐγὼ μέν εἰμι Παύλου ἕτερος δὲ ἐγὼ Ἀπολλῶ οὐκ ἄνθρωποί ἐστε;
+- λέγῃ (V-PAS-3S) ==son== [F]
+- εἰμι (V-PAI-1S) ==??== [F]
+- ἐστε; (V-PAI-2P) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-[Porque cuando uno dice: «Yo soy de Pablo», y otro: «Yo de Apolos», ¿no son hombres?]
+### 1Corintios 3:5
 
-- λέγῃ (V-PAS-3S) diga [F]
-- εἰμι (V-PAI-1S) ==soy== [F]
-- ἐστε (V-PAI-2P) ==son== [F]
+⸀Τί οὖν ἐστιν ⸂Ἀπολλῶς; τί δέ ἐστιν Παῦλος⸃; ⸀διάκονοι δι’ ὧν ἐπιστεύσατε, καὶ ἑκάστῳ ὡς ὁ κύριος ἔδωκεν.
 
-   - γάρ → (porque)
-   - δὲ → (y)
+[¿Qué es, pues, Apolos? ¿Y qué es Pablo? Servidores mediante los cuales ustedes han creído, según el Señor dio oportunidad a cada uno.]
 
----
-
-### 1 Corintios 3:5 {#1co-3-5}
-
-τί οὖν ἐστιν Ἀπολλῶς τί δέ ἐστιν Παῦλος διάκονοι διʼ ὧν ἐπιστεύσατε καὶ ἑκάστῳ ὡς ὁ κύριος ἔδωκεν
-
-[¿Qué es Apolos? ¿Y qué es Pablo? Son servidores por medio de quienes ustedes creyeron, según lo que a cada uno concedió el Señor.]
-
+- ἐστιν (V-PAI-3S) ==¿qué== [F]
 - ἐστιν (V-PAI-3S) ==es== [F]
-- ἐστιν (V-PAI-3S) ==es== [F]
-- ἐπιστεύσατε (V-AAI-2P) ==creyeron== [F]
-- ἔδωκεν (V-AAI-3S) ==concedió== [F]
+- ἐπιστεύσατε, (V-AAI-2P) ==qué== [F]
+- ἔδωκεν. (V-AAI-3S) ==es== [F]
+- δέ [CORD] → [pero]
+  A: "es" → B: "es"
+- καί [CORD] → [y]
+  A: "es" → B: "dio"
 
-   - οὖν → (pues)
-   - δὲ → (y)
+### 1Corintios 3:6
 
----
-
-### 1 Corintios 3:6 {#1co-3-6}
-
-ἐγὼ ἐφύτευσα Ἀπολλῶς ἐπότισεν ἀλλʼ ὁ θεὸς ηὔξανεν
+ἐγὼ ἐφύτευσα, Ἀπολλῶς ἐπότισεν, ἀλλὰ ὁ θεὸς ηὔξανεν·
 
 [Yo planté, Apolos regó, pero Dios ha dado el crecimiento.]
 
-- ἐφύτευσα (V-AAI-1S) ==planté== [F]
-- ἐπότισεν (V-AAI-3S) ==regó== [F]
-- ηὔξανεν (V-IAI-3S) ==ha dado el crecimiento== [F]
+- ἐφύτευσα, (V-AAI-1S) ==planté== [F]
+- ἐπότισεν, (V-AAI-3S) ==regó== [F]
+- ηὔξανεν· (V-IAI-3S) ==??== [F]
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
 
-   - ἀλλʼ → (pero)
+### 1Corintios 3:7
 
----
+ὥστε οὔτε ὁ φυτεύων ἐστίν τι οὔτε ὁ ποτίζων, ἀλλ’ ὁ αὐξάνων θεός.
 
-### 1 Corintios 3:7 {#1co-3-7}
-
-ὥστε οὔτε ὁ φυτεύων ἐστίν τι οὔτε ὁ ποτίζων ἀλλʼ ὁ αὐξάνων θεός
-
-[Así que ni el que planta ni el que riega es algo, sino Dios que da el crecimiento.]
+[Así que ni el que planta ni el que riega es algo, sino Dios, que da el crecimiento.]
 
 - ἐστίν (V-PAI-3S) ==es== [F]
+- ὥστε [DEP] → [de manera que]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
 
-   - ὥστε → (así que)
-   - ἀλλʼ → (sino)
+### 1Corintios 3:8
 
----
+ὁ φυτεύων δὲ καὶ ὁ ποτίζων ἕν εἰσιν, ἕκαστος δὲ τὸν ἴδιον μισθὸν λήμψεται κατὰ τὸν ἴδιον κόπον,
 
-### 1 Corintios 3:8 {#1co-3-8}
+[Ahora bien, el que planta y el que riega son una misma cosa, pero cada uno recibirá su propia recompensa conforme a su propio trabajo.]
 
-ὁ φυτεύων δὲ καὶ ὁ ποτίζων ἕν εἰσιν ἕκαστος δὲ τὸν ἴδιον μισθὸν λήμψεται κατὰ τὸν ἴδιον κόπον
+- εἰσιν, (V-PAI-3P) ==son== [F]
+- λήμψεται (V-FMI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-[El que planta y el que riega son uno; pero cada uno recibirá su recompensa conforme a su propia labor.]
+### 1Corintios 3:9
 
-- εἰσιν (V-PAI-3P) ==son== [F]
-- λήμψεται (V-FMI-3S) ==recibirá== [F]
+θεοῦ γάρ ἐσμεν συνεργοί· θεοῦ γεώργιον, θεοῦ οἰκοδομή ἐστε.
 
-   - δὲ → (pero)
+[Porque nosotros somos colaboradores en la labor de Dios, y ustedes son el campo de cultivo de Dios, el edificio de Dios.]
 
----
+- ἐσμεν (V-PAI-1P) ==son== [F]
+- ἐστε. (V-PAI-2P) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 3:9 {#1co-3-9}
+### 1Corintios 3:10
 
-θεοῦ γάρ ἐσμεν συνεργοί θεοῦ γεώργιον θεοῦ οἰκοδομή ἐστε
+Κατὰ τὴν χάριν τοῦ θεοῦ τὴν δοθεῖσάν μοι ὡς σοφὸς ἀρχιτέκτων θεμέλιον ⸀ἔθηκα, ἄλλος δὲ ἐποικοδομεῖ. ἕκαστος δὲ βλεπέτω πῶς ἐποικοδομεῖ·
 
-[Porque nosotros somos colaboradores de Dios; ustedes son labranza de Dios, edificio de Dios.]
+[Conforme a la gracia de Dios que me fue dada, yo, como sabio arquitecto, puse el fundamento, y otro edifica sobre él. Pero cada uno tenga cuidado cómo edifica encima.]
 
-- ἐσμεν (V-PAI-1P) ==somos== [F]
-- ἐστε (V-PAI-2P) ==son== [F]
+- ⸀ἔθηκα, (V-AAI-1S) ==fue dada== [F]
+- ἐποικοδομεῖ. (V-PAI-3S) ==??== [F]
+- βλεπέτω (V-PAD-3S) ==??== [F]
+- ἐποικοδομεῖ· (V-PAI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-   - γάρ → (porque)
+### 1Corintios 3:11
 
----
+θεμέλιον γὰρ ἄλλον οὐδεὶς δύναται θεῖναι παρὰ τὸν κείμενον, ὅς ἐστιν Ἰησοῦς Χριστός·
 
-### 1 Corintios 3:10 {#1co-3-10}
-
-κατὰ τὴν χάριν τοῦ θεοῦ τὴν δοθεῖσάν μοι ὡς σοφὸς ἀρχιτέκτων θεμέλιον ἔθηκα ἄλλος δὲ ἐποικοδομεῖ ἕκαστος δὲ βλεπέτω πῶς ἐποικοδομεῖ
-
-[Conforme a la gracia de Dios que me fue dada, como sabio arquitecto puse el fundamento, y otro edifica sobre él; pero cada uno tenga cuidado cómo edifica.]
-
-- ἔθηκα (V-AAI-1S) ==puse== [F]
-- ἐποικοδομεῖ (V-PAI-3S) ==edifica== [F]
-- βλεπέτω (V-PAM-3S) tenga cuidado [F]
-- ἐποικοδομεῖ (V-PAI-3S) ==edifica== [F]
-
-   - δὲ → (pero)
-
----
-
-### 1 Corintios 3:11 {#1co-3-11}
-
-θεμέλιον γὰρ ἄλλον οὐδεὶς δύναται θεῖναι παρὰ τὸν κείμενον ὅς ἐστιν Ἰησοῦς Χριστός
-
-[Porque nadie puede poner otro fundamento que el que ya está puesto, el cual es Jesucristo.]
+[Pues nadie puede poner otro fundamento que el que ya está puesto, el cual es Jesucristo.]
 
 - δύναται (V-PMI-3S) ==puede== [F]
-- θεῖναι (V-AAN) poner [NF]
 - ἐστιν (V-PAI-3S) ==es== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  A: "puede" → B: "es"
 
-   - γάρ → (porque)
+### 1Corintios 3:12
 
----
+εἰ δέ τις ἐποικοδομεῖ ἐπὶ τὸν ⸀θεμέλιον ⸂χρυσόν, ἄργυρον⸃, λίθους τιμίους, ξύλα, χόρτον, καλάμην,
 
-### 1 Corintios 3:12 {#1co-3-12}
+[Ahora bien, si sobre este fundamento alguien edifica con oro, plata, piedras preciosas, madera, heno, paja,]
 
-εἰ δέ τις ἐποικοδομεῖ ἐπὶ τὸν θεμέλιον χρυσὸν ἄργυρον λίθους τιμίους ξύλα χόρτον καλάμην
+- ἐποικοδομεῖ (V-PAI-3S) ==??== [F]
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-[Si alguien edifica sobre el fundamento con oro, plata, piedras preciosas, madera, heno o paja.]
+### 1Corintios 3:13
 
-- ἐποικοδομεῖ (V-PAI-3S) ==edifica== [F]
+ἑκάστου τὸ ἔργον φανερὸν γενήσεται, ἡ γὰρ ἡμέρα δηλώσει· ὅτι ἐν πυρὶ ἀποκαλύπτεται, καὶ ἑκάστου τὸ ἔργον ὁποῖόν ἐστιν τὸ πῦρ ⸀αὐτὸ δοκιμάσει.
 
-   - δὲ → (pero)
+[la obra de cada uno se hará evidente; porque el día la dará a conocer, pues con fuego será revelada. El fuego mismo probará la calidad de la obra de cada uno.]
 
----
+- γενήσεται, (V-FMI-3S) ==día== [F]
+- δηλώσει· (V-FAI-3S) ==??== [F]
+- ἀποκαλύπτεται, (V-PPI-3S) ==??== [F]
+- ἐστιν (V-PAI-3S) ==??== [F]
+- δοκιμάσει. (V-FAI-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 3:13 {#1co-3-13}
+### 1Corintios 3:14
 
-ἑκάστου τὸ ἔργον φανερὸν γενήσεται ἡ γὰρ ἡμέρα δηλώσει ὅτι ἐν πυρὶ ἀποκαλύπτεται καὶ ἑκάστου τὸ ἔργον ὁποῖόν ἐστιν τὸ πῦρ δοκιμάσει
+εἴ τινος τὸ ἔργον μενεῖ ὃ ἐποικοδόμησεν, μισθὸν λήμψεται·
 
-[La obra de cada uno se hará evidente; porque el día la dará a conocer, pues con fuego será revelada; y el fuego mismo probará la calidad de la obra de cada uno.]
+[Si permanece la obra de alguien que ha edificado sobre el fundamento, recibirá recompensa.]
 
-- γενήσεται (V-FMI-3S) ==se hará== [F]
-- δηλώσει (V-FAI-3S) ==dará a conocer== [F]
-- ἀποκαλύπτεται (V-PPI-3S) ==será revelada== [F]
-- ἐστιν (V-PAI-3S) ==es== [F]
-- δοκιμάσει (V-FAI-3S) ==probará== [F]
+- μενεῖ (V-FAI-3S) ==??== [F]
+- ἐποικοδόμησεν, (V-AAI-3S) ==??== [F]
+- λήμψεται· (V-FMI-3S) ==??== [F]
 
-   - γάρ → (porque)
-   - ὅτι → (pues)
+### 1Corintios 3:15
 
----
+εἴ τινος τὸ ἔργον κατακαήσεται, ζημιωθήσεται, αὐτὸς δὲ σωθήσεται, οὕτως δὲ ὡς διὰ πυρός.
 
-### 1 Corintios 3:14 {#1co-3-14}
+[Si la obra de alguien es consumida por el fuego, sufrirá pérdida; sin embargo, él será salvo, aunque así como a través del fuego.]
 
-εἴ τινος τὸ ἔργον μενεῖ ὃ ἐποικοδόμησεν μισθὸν λήμψεται
+- κατακαήσεται, (V-FPI-3S) ==es consumida== [F]
+- ζημιωθήσεται, (V-FPI-3S) ==??== [F]
+- σωθήσεται, (V-FPI-3S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-[Si permanece la obra de alguno que sobreedificó, recibirá recompensa.]
+### 1Corintios 3:16
 
-- μενεῖ (V-FAI-3S) ==permanece== [F]
-- ἐποικοδόμησεν (V-AAI-3S) ==sobreedificó== [F]
-- λήμψεται (V-FMI-3S) ==recibirá== [F]
-
----
-
-### 1 Corintios 3:15 {#1co-3-15}
-
-εἴ τινος τὸ ἔργον κατακαήσεται ζημιωθήσεται αὐτὸς δὲ σωθήσεται οὕτως δὲ ὡς διὰ πυρός
-
-[Si la obra de alguno se quema, sufrirá pérdida; sin embargo, él será salvo, aunque así como por fuego.]
-
-- κατακαήσεται (V-FPI-3S) ==se quema== [F]
-- ζημιωθήσεται (V-FPI-3S) ==sufrirá pérdida== [F]
-- σωθήσεται (V-FPI-3S) ==será salvo== [F]
-
-   - δὲ → (sin embargo)
-
----
-
-### 1 Corintios 3:16 {#1co-3-16}
-
-οὐκ οἴδατε ὅτι ναὸς θεοῦ ἐστε καὶ τὸ πνεῦμα τοῦ θεοῦ οἰκεῖ ἐν ὑμῖν;
+Οὐκ οἴδατε ὅτι ναὸς θεοῦ ἐστε καὶ τὸ πνεῦμα τοῦ θεοῦ ⸂οἰκεῖ ἐν ὑμῖν⸃;
 
 [¿No saben que ustedes son templo de Dios y que el Espíritu de Dios habita en ustedes?]
 
-- οἴδατε (V-RAI-2P) ==saben== [F]
-- ἐστε (V-PAI-2P) ==son== [F]
-- οἰκεῖ (V-PAI-3S) ==habita== [F]
+- οἴδατε (V-XAI-2P) ==son== [F]
+- ἐστε (V-PAI-2P) ==??== [F]
+- ⸂οἰκεῖ (V-PAI-3S) ==??== [F]
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-   - ὅτι → (que)
-   - καί → (y)
+### 1Corintios 3:17
 
----
+εἴ τις τὸν ναὸν τοῦ θεοῦ φθείρει, φθερεῖ τοῦτον ὁ θεός· ὁ γὰρ ναὸς τοῦ θεοῦ ἅγιός ἐστιν, οἵτινές ἐστε ὑμεῖς.
 
-### 1 Corintios 3:17 {#1co-3-17}
+[Si alguno destruye el templo de Dios, Dios lo destruirá a él, porque el templo de Dios es santo, y eso es lo que ustedes son.]
 
-εἴ τις τὸν ναὸν τοῦ θεοῦ φθείρει φθερεῖ τοῦτον ὁ θεός ὁ γὰρ ναὸς τοῦ θεοῦ ἅγιός ἐστιν οἵτινές ἐστε ὑμεῖς
+- φθείρει, (V-PAI-3S) ==es== [F]
+- φθερεῖ (V-FAI-3S) ==es== [F]
+- ἐστιν, (V-PAI-3S) ==son== [F]
+- ἐστε (V-PAI-2P) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-[Si alguien destruye el templo de Dios, Dios lo destruirá a él; porque el templo de Dios es santo, y eso es lo que ustedes son.]
+### 1Corintios 3:18
 
-- φθείρει (V-PAI-3S) ==destruye== [F]
-- φθερεῖ (V-FAI-3S) ==destruirá== [F]
-- ἐστιν (V-PAI-3S) ==es== [F]
-- ἐστε (V-PAI-2P) ==son== [F]
+Μηδεὶς ἑαυτὸν ἐξαπατάτω· εἴ τις δοκεῖ σοφὸς εἶναι ἐν ὑμῖν ἐν τῷ αἰῶνι τούτῳ, μωρὸς γενέσθω, ἵνα γένηται σοφός,
 
-   - γάρ → (porque)
+[Nadie se engañe a sí mismo. Si alguien de ustedes se cree sabio según este mundo, hágase necio a fin de llegar a ser sabio.]
 
----
+- ἐξαπατάτω· (V-PAD-3S) ==??== [F]
+- δοκεῖ (V-PAI-3S) ==??== [F]
+- γενέσθω, (V-AMD-3S) ==??== [F]
+- γένηται (V-AMS-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 3:18 {#1co-3-18}
+### 1Corintios 3:19
 
-μηδεὶς ἑαυτὸν ἐξαπατάτω εἴ τις δοκεῖ σοφὸς εἶναι ἐν ὑμῖν ἐν τῷ αἰῶνι τούτῳ μωρὸς γενέσθω ἵνα γένηται σοφός
+ἡ γὰρ σοφία τοῦ κόσμου τούτου μωρία παρὰ τῷ θεῷ ἐστιν· γέγραπται γάρ· Ὁ δρασσόμενος τοὺς σοφοὺς ἐν τῇ πανουργίᾳ αὐτῶν·
 
-[Nadie se engañe a sí mismo. Si alguno entre ustedes cree ser sabio en este siglo, que se haga necio para llegar a ser sabio.]
+[Porque la sabiduría de este mundo es necedad ante Dios. Pues escrito está: «Él es EL QUE PRENDE A LOS SABIOS EN SU propia ASTUCIA».]
 
-- ἐξαπατάτω (V-PAM-3S) engañe [F]
-- δοκεῖ (V-PAI-3S) ==cree== [F]
-- εἶναι (V-PAN) ser [NF]
-- γενέσθω (V-AAM-3S) se haga [F]
-- γένηται (V-AMS-3S) llegue a ser [F]
+- ἐστιν· (V-PAI-3S) ==sabiduría== [F]
+- γέγραπται (V-XPI-3S) ==es== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 3:20
 
-### 1 Corintios 3:19 {#1co-3-19}
+καὶ πάλιν· Κύριος γινώσκει τοὺς διαλογισμοὺς τῶν σοφῶν ὅτι εἰσὶν μάταιοι.
 
-ἡ γὰρ σοφία τοῦ κόσμου τούτου μωρία παρὰ τῷ θεῷ ἐστιν γέγραπται γάρ ὅτι δρασσόμενος τοὺς σοφοὺς ἐν τῇ πανουργίᾳ αὐτῶν
+[Y también: «EL SEÑOR CONOCE LOS RAZONAMIENTOS de los sabios, LOS CUALES SON INÚTILES».]
 
-[Porque la sabiduría de este mundo es necedad ante Dios; pues está escrito: «Él es el que prende a los sabios en su propia astucia».]
+- γινώσκει (V-PAI-3S) ==son== [F]
+- εἰσὶν (V-PAI-3P) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
 
-- ἐστιν (V-PAI-3S) ==es== [F]
-- γέγραπται (V-RPI-3S) ==está escrito== [F]
+### 1Corintios 3:21
 
-   - γάρ → (porque)
-   - γάρ → (pues)
-   - ὅτι → (que)
+ὥστε μηδεὶς καυχάσθω ἐν ἀνθρώποις· πάντα γὰρ ὑμῶν ἐστιν,
 
----
+[Así que nadie se jacte en los hombres, porque todo es de ustedes:]
 
-### 1 Corintios 3:20 {#1co-3-20}
+- καυχάσθω (V-PMD-3S) ==es== [F]
+- ἐστιν, (V-PAI-3S) ==??== [F]
+- ὥστε [DEP] → [de manera que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-καὶ πάλιν κύριος γινώσκει τοὺς διαλογισμοὺς τῶν σοφῶν ὅτι εἰσὶν μάταιοι
+### 1Corintios 3:22
 
-[Y otra vez: «El Señor conoce los razonamientos de los sabios, que son inútiles».]
+εἴτε Παῦλος εἴτε Ἀπολλῶς εἴτε Κηφᾶς εἴτε κόσμος εἴτε ζωὴ εἴτε θάνατος εἴτε ἐνεστῶτα εἴτε μέλλοντα, πάντα ⸀ὑμῶν,
 
-- γινώσκει (V-PAI-3S) ==conoce== [F]
-- εἰσὶν (V-PAI-3P) ==son== [F]
+[ya sea Pablo, o Apolos, o Cefas, o el mundo, o la vida, o la muerte, o lo presente, o lo por venir, todo es suyo,]
 
-   - ὅτι → (que)
 
----
+### 1Corintios 3:23
 
-### 1 Corintios 3:21 {#1co-3-21}
+ὑμεῖς δὲ Χριστοῦ, Χριστὸς δὲ θεοῦ.
 
-ὥστε μηδεὶς καυχάσθω ἐν ἀνθρώποις πάντα γὰρ ὑμῶν ἐστιν
+[y ustedes de Cristo, y Cristo de Dios.]
 
-[Así que nadie se gloríe en los hombres. Porque todo es de ustedes.]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-- καυχάσθω (V-PMM-3S) se gloríe [F]
-- ἐστιν (V-PAI-3S) ==es== [F]
+### 1Corintios 4:1
 
-   - ὥστε → (así que)
-   - γάρ → (porque)
-
----
-
-### 1 Corintios 3:22 {#1co-3-22}
-
-εἴτε Παῦλος εἴτε Ἀπολλῶς εἴτε Κηφᾶς εἴτε κόσμος εἴτε ζωή εἴτε θάνατος εἴτε ἐνεστῶτα εἴτε μέλλοντα πάντα ὑμῶν
-
-[sea Pablo o Apolos o Cefas o el mundo o la vida o la muerte o lo presente o lo por venir, todo es de ustedes.]
-
----
-
-### 1 Corintios 3:23 {#1co-3-23}
-
-ὑμεῖς δὲ Χριστοῦ Χριστὸς δὲ θεοῦ
-
-[y ustedes son de Cristo, y Cristo es de Dios.]
-
-- ἐστε (V-PAI-2P) ==[son]== [F]
-- ἐστιν (V-PAI-3S) ==[es]== [F]
-
-   - δὲ → (y)
-
-### 1 Corintios 3:1 {#1co-3-1}
-
-Κἀγὼ ἀδελφοί οὐκ ἠδυνήθην λαλῆσαι ὑμῖν ὡς πνευματικοῖς ἀλλʼ ὡς σαρκίνοις ὡς νηπίοις ἐν Χριστῷ·
-
-[Y yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo.]
-
-- ἠδυνήθην (V-AOI-1S) ==pude== [F]
-- λαλῆσαι (V-AAN) hablar [NF]
-
-   - ἀλλʼ → (sino)
-
----
-
-### 1 Corintios 3:2 {#1co-3-2}
-
-γάλα ὑμᾶς ἐπότισα οὐ βρῶμα οὔπω γὰρ ἐδύνασθε ἀλλʼ οὐδὲ ἔτι νῦν δύνασθε
-
-[Les di a beber leche, no alimento sólido, porque todavía no podían, ni aun ahora pueden.]
-
-- ἐπότισα (V-AAI-1S) ==di a beber== [F]
-- ἐδύνασθε (V-IMI-2P) ==podían== [F]
-- δύνασθε (V-PMI-2P) ==pueden== [F]
-
-   - γάρ → (porque)
-   - ἀλλʼ → [pero] ni aun ahora pueden
-
----
-
-### 1 Corintios 3:3 {#1co-3-3}
-
-ἔτι γὰρ σαρκικοί ἐστε ὅπου γὰρ ἐν ὑμῖν ζῆλος καὶ ἔρις οὐχὶ σαρκικοί ἐστε καὶ κατὰ ἄνθρωπον περιπατεῖτε;
-
-[Porque todavía son carnales. Pues habiendo celos y contiendas entre ustedes, ¿no son carnales y andan como hombres?]
-
-- ἐστε (V-PAI-2P) ==son== [F]
-- ἐστε (V-PAI-2P) ==son== [F]
-- περιπατεῖτε (V-PAI-2P) ==andan== [F]
-
-   - γάρ → (porque)
-   - γάρ → (pues)
-   - καί → (y)
-
----
-
-### 1 Corintios 3:4 {#1co-3-4}
-
-ὅταν γὰρ λέγῃ τις ἐγὼ μέν εἰμι Παύλου ἕτερος δὲ ἐγὼ Ἀπολλῶ οὐκ ἄνθρωποί ἐστε;
-
-[Porque cuando uno dice: «Yo soy de Pablo», y otro: «Yo de Apolos», ¿no son hombres?]
-
-- λέγῃ (V-PAS-3S) diga [F]
-- εἰμι (V-PAI-1S) ==soy== [F]
-- ἐστε (V-PAI-2P) ==son== [F]
-
-   - γάρ → (porque)
-   - δὲ → (y)
-
----
-
-### 1 Corintios 3:5 {#1co-3-5}
-
-τί οὖν ἐστιν Ἀπολλῶς τί δέ ἐστιν Παῦλος διάκονοι διʼ ὧν ἐπιστεύσατε καὶ ἑκάστῳ ὡς ὁ κύριος ἔδωκεν
-
-[¿Qué es Apolos? ¿Y qué es Pablo? Son servidores por medio de quienes ustedes creyeron, según lo que a cada uno concedió el Señor.]
-
-- ἐστιν (V-PAI-3S) ==es== [F]
-- ἐστιν (V-PAI-3S) ==es== [F]
-- ἐπιστεύσατε (V-AAI-2P) ==creyeron== [F]
-- ἔδωκεν (V-AAI-3S) ==concedió== [F]
-
-   - οὖν → (pues)
-   - δὲ → (y)
-
----
-
-### 1 Corintios 3:6 {#1co-3-6}
-
-ἐγὼ ἐφύτευσα Ἀπολλῶς ἐπότισεν ἀλλʼ ὁ θεὸς ηὔξανεν
-
-[Yo planté, Apolos regó, pero Dios ha dado el crecimiento.]
-
-- ἐφύτευσα (V-AAI-1S) ==planté== [F]
-- ἐπότισεν (V-AAI-3S) ==regó== [F]
-- ηὔξανεν (V-IAI-3S) ==ha dado el crecimiento== [F]
-
-   - ἀλλʼ → (pero)
-
----
-
-### 1 Corintios 3:7 {#1co-3-7}
-
-ὥστε οὔτε ὁ φυτεύων ἐστίν τι οὔτε ὁ ποτίζων ἀλλʼ ὁ αὐξάνων θεός
-
-[Así que ni el que planta ni el que riega es algo, sino Dios que da el crecimiento.]
-
-- ἐστίν (V-PAI-3S) ==es== [F]
-
-   - ὥστε → (así que)
-   - ἀλλʼ → (sino)
-
----
-
-### 1 Corintios 3:8 {#1co-3-8}
-
-ὁ φυτεύων δὲ καὶ ὁ ποτίζων ἕν εἰσιν ἕκαστος δὲ τὸν ἴδιον μισθὸν λήμψεται κατὰ τὸν ἴδιον κόπον
-
-[El que planta y el que riega son uno; pero cada uno recibirá su recompensa conforme a su propia labor.]
-
-- εἰσιν (V-PAI-3P) ==son== [F]
-- λήμψεται (V-FMI-3S) ==recibirá== [F]
-
-   - δὲ → (pero)
-
----
-
-### 1 Corintios 3:9 {#1co-3-9}
-
-θεοῦ γάρ ἐσμεν συνεργοί θεοῦ γεώργιον θεοῦ οἰκοδομή ἐστε
-
-[Porque nosotros somos colaboradores de Dios; ustedes son labranza de Dios, edificio de Dios.]
-
-- ἐσμεν (V-PAI-1P) ==somos== [F]
-- ἐστε (V-PAI-2P) ==son== [F]
-
-   - γάρ → (porque)
-
----
-
-### 1 Corintios 3:10 {#1co-3-10}
-
-κατὰ τὴν χάριν τοῦ θεοῦ τὴν δοθεῖσάν μοι ὡς σοφὸς ἀρχιτέκτων θεμέλιον ἔθηκα ἄλλος δὲ ἐποικοδομεῖ ἕκαστος δὲ βλεπέτω πῶς ἐποικοδομεῖ
-
-[Conforme a la gracia de Dios que me fue dada, como sabio arquitecto puse el fundamento, y otro edifica sobre él; pero cada uno tenga cuidado cómo edifica.]
-
-- ἔθηκα (V-AAI-1S) ==puse== [F]
-- ἐποικοδομεῖ (V-PAI-3S) ==edifica== [F]
-- βλεπέτω (V-PAM-3S) tenga cuidado [F]
-- ἐποικοδομεῖ (V-PAI-3S) ==edifica== [F]
-
-   - δὲ → (pero)
-
----
-
-### 1 Corintios 3:11 {#1co-3-11}
-
-θεμέλιον γὰρ ἄλλον οὐδεὶς δύναται θεῖναι παρὰ τὸν κείμενον ὅς ἐστιν Ἰησοῦς Χριστός
-
-[Porque nadie puede poner otro fundamento que el que ya está puesto, el cual es Jesucristo.]
-
-- δύναται (V-PMI-3S) ==puede== [F]
-- θεῖναι (V-AAN) poner [NF]
-- ἐστιν (V-PAI-3S) ==es== [F]
-
-   - γάρ → (porque)
-
----
-
-### 1 Corintios 3:12 {#1co-3-12}
-
-εἰ δέ τις ἐποικοδομεῖ ἐπὶ τὸν θεμέλιον χρυσὸν ἄργυρον λίθους τιμίους ξύλα χόρτον καλάμην
-
-[Si alguien edifica sobre el fundamento con oro, plata, piedras preciosas, madera, heno o paja.]
-
-- ἐποικοδομεῖ (V-PAI-3S) ==edifica== [F]
-
-   - δὲ → (pero)
-
----
-
-### 1 Corintios 3:13 {#1co-3-13}
-
-ἑκάστου τὸ ἔργον φανερὸν γενήσεται ἡ γὰρ ἡμέρα δηλώσει ὅτι ἐν πυρὶ ἀποκαλύπτεται καὶ ἑκάστου τὸ ἔργον ὁποῖόν ἐστιν τὸ πῦρ δοκιμάσει
-
-[La obra de cada uno se hará evidente; porque el día la dará a conocer, pues con fuego será revelada; y el fuego mismo probará la calidad de la obra de cada uno.]
-
-- γενήσεται (V-FMI-3S) ==se hará== [F]
-- δηλώσει (V-FAI-3S) ==dará a conocer== [F]
-- ἀποκαλύπτεται (V-PPI-3S) ==será revelada== [F]
-- ἐστιν (V-PAI-3S) ==es== [F]
-- δοκιμάσει (V-FAI-3S) ==probará== [F]
-
-   - γάρ → (porque)
-   - ὅτι → (pues)
-
----
-
-### 1 Corintios 3:14 {#1co-3-14}
-
-εἴ τινος τὸ ἔργον μενεῖ ὃ ἐποικοδόμησεν μισθὸν λήμψεται
-
-[Si permanece la obra de alguno que sobreedificó, recibirá recompensa.]
-
-- μενεῖ (V-FAI-3S) ==permanece== [F]
-- ἐποικοδόμησεν (V-AAI-3S) ==sobreedificó== [F]
-- λήμψεται (V-FMI-3S) ==recibirá== [F]
-
----
-
-### 1 Corintios 3:15 {#1co-3-15}
-
-εἴ τινος τὸ ἔργον κατακαήσεται ζημιωθήσεται αὐτὸς δὲ σωθήσεται οὕτως δὲ ὡς διὰ πυρός
-
-[Si la obra de alguno se quema, sufrirá pérdida; sin embargo, él será salvo, aunque así como por fuego.]
-
-- κατακαήσεται (V-FPI-3S) ==se quema== [F]
-- ζημιωθήσεται (V-FPI-3S) ==sufrirá pérdida== [F]
-- σωθήσεται (V-FPI-3S) ==será salvo== [F]
-
-   - δὲ → (sin embargo)
-
----
-
-### 1 Corintios 3:16 {#1co-3-16}
-
-οὐκ οἴδατε ὅτι ναὸς θεοῦ ἐστε καὶ τὸ πνεῦμα τοῦ θεοῦ οἰκεῖ ἐν ὑμῖν;
-
-[¿No saben que ustedes son templo de Dios y que el Espíritu de Dios habita en ustedes?]
-
-- οἴδατε (V-RAI-2P) ==saben== [F]
-- ἐστε (V-PAI-2P) ==son== [F]
-- οἰκεῖ (V-PAI-3S) ==habita== [F]
-
-   - ὅτι → (que)
-   - καί → (y)
-
----
-
-### 1 Corintios 3:17 {#1co-3-17}
-
-εἴ τις τὸν ναὸν τοῦ θεοῦ φθείρει φθερεῖ τοῦτον ὁ θεός ὁ γὰρ ναὸς τοῦ θεοῦ ἅγιός ἐστιν οἵτινές ἐστε ὑμεῖς
-
-[Si alguien destruye el templo de Dios, Dios lo destruirá a él; porque el templo de Dios es santo, y eso es lo que ustedes son.]
-
-- φθείρει (V-PAI-3S) ==destruye== [F]
-- φθερεῖ (V-FAI-3S) ==destruirá== [F]
-- ἐστιν (V-PAI-3S) ==es== [F]
-- ἐστε (V-PAI-2P) ==son== [F]
-
-   - γάρ → (porque)
-
----
-
-### 1 Corintios 3:18 {#1co-3-18}
-
-μηδεὶς ἑαυτὸν ἐξαπατάτω εἴ τις δοκεῖ σοφὸς εἶναι ἐν ὑμῖν ἐν τῷ αἰῶνι τούτῳ μωρὸς γενέσθω ἵνα γένηται σοφός
-
-[Nadie se engañe a sí mismo. Si alguno entre ustedes cree ser sabio en este siglo, que se haga necio para llegar a ser sabio.]
-
-- ἐξαπατάτω (V-PAM-3S) engañe [F]
-- δοκεῖ (V-PAI-3S) ==cree== [F]
-- εἶναι (V-PAN) ser [NF]
-- γενέσθω (V-AAM-3S) se haga [F]
-- γένηται (V-AMS-3S) llegue a ser [F]
-
----
-
-### 1 Corintios 3:19 {#1co-3-19}
-
-ἡ γὰρ σοφία τοῦ κόσμου τούτου μωρία παρὰ τῷ θεῷ ἐστιν γέγραπται γάρ ὅτι δρασσόμενος τοὺς σοφοὺς ἐν τῇ πανουργίᾳ αὐτῶν
-
-[Porque la sabiduría de este mundo es necedad ante Dios; pues está escrito: «Él es el que prende a los sabios en su propia astucia».]
-
-- ἐστιν (V-PAI-3S) ==es== [F]
-- γέγραπται (V-RPI-3S) ==está escrito== [F]
-
-   - γάρ → (porque)
-   - γάρ → (pues)
-   - ὅτι → (que)
-
----
-
-### 1 Corintios 3:20 {#1co-3-20}
-
-καὶ πάλιν κύριος γινώσκει τοὺς διαλογισμοὺς τῶν σοφῶν ὅτι εἰσὶν μάταιοι
-
-[Y otra vez: «El Señor conoce los razonamientos de los sabios, que son inútiles».]
-
-- γινώσκει (V-PAI-3S) ==conoce== [F]
-- εἰσὶν (V-PAI-3P) ==son== [F]
-
-   - ὅτι → (que)
-
----
-
-### 1 Corintios 3:21 {#1co-3-21}
-
-ὥστε μηδεὶς καυχάσθω ἐν ἀνθρώποις πάντα γὰρ ὑμῶν ἐστιν
-
-[Así que nadie se gloríe en los hombres. Porque todo es de ustedes.]
-
-- καυχάσθω (V-PMM-3S) se gloríe [F]
-- ἐστιν (V-PAI-3S) ==es== [F]
-
-   - ὥστε → (así que)
-   - γάρ → (porque)
-
----
-
-### 1 Corintios 3:22 {#1co-3-22}
-
-εἴτε Παῦλος εἴτε Ἀπολλῶς εἴτε Κηφᾶς εἴτε κόσμος εἴτε ζωή εἴτε θάνατος εἴτε ἐνεστῶτα εἴτε μέλλοντα πάντα ὑμῶν
-
-[sea Pablo o Apolos o Cefas o el mundo o la vida o la muerte o lo presente o lo por venir, todo es de ustedes.]
-
----
-
-### 1 Corintios 3:23 {#1co-3-23}
-
-ὑμεῖς δὲ Χριστοῦ Χριστὸς δὲ θεοῦ
-
-[y ustedes son de Cristo, y Cristo es de Dios.]
-
-- ἐστε (V-PAI-2P) ==[son]== [F]
-- ἐστιν (V-PAI-3S) ==[es]== [F]
-
-   - δὲ → (y)
-
----
-
-### 1 Corintios 4:1 {#1co-4-1}
-
-Οὕτως ἡμᾶς λογιζέσθω ἄνθρωπος ὡς ὑπηρέτας Χριστοῦ καὶ οἰκονόμους μυστηρίων θεοῦ·  
+Οὕτως ἡμᾶς λογιζέσθω ἄνθρωπος ὡς ὑπηρέτας Χριστοῦ καὶ οἰκονόμους μυστηρίων θεοῦ.
 
 [Que todo hombre nos considere de esta manera: como servidores de Cristo y administradores de los misterios de Dios.]
 
-- λογιζέσθω (V-PMM-3S) ==considere== [F]
+- λογιζέσθω (V-PMD-3S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 4:2
+
+⸀ὧδε λοιπὸν ζητεῖται ἐν τοῖς οἰκονόμοις ἵνα πιστός τις εὑρεθῇ.
 
----
+[Ahora bien, lo que se requiere además de los administradores es que cada uno sea hallado fiel.]
 
-### 1 Corintios 4:2 {#1co-4-2}
+- ζητεῖται (V-PPI-3S) ==es== [F]
+- εὑρεθῇ. (V-APS-3S) ==??== [F]
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 4:3
+
+ἐμοὶ δὲ εἰς ἐλάχιστόν ἐστιν, ἵνα ὑφ’ ὑμῶν ἀνακριθῶ ἢ ὑπὸ ἀνθρωπίνης ἡμέρας· ἀλλ’ οὐδὲ ἐμαυτὸν ἀνακρίνω·
+
+[En cuanto a mí, es de poca importancia que yo sea juzgado por ustedes o por cualquier tribunal humano. De hecho, ni aun yo me juzgo a mí mismo.]
+
+- ἐστιν, (V-PAI-3S) ==es== [F]
+- ἀνακριθῶ (V-APS-1S) ==??== [F]
+- ἀνακρίνω· (V-PAI-1S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 4:4
+
+οὐδὲν γὰρ ἐμαυτῷ σύνοιδα, ἀλλ’ οὐκ ἐν τούτῳ δεδικαίωμαι, ὁ δὲ ἀνακρίνων με κύριός ἐστιν.
+
+[Porque no estoy consciente de nada en contra mía. Pero no por eso estoy sin culpa, pues el que me juzga es el Señor.]
+
+- σύνοιδα, (V-XAI-1S) ==mía== [F]
+- δεδικαίωμαι, (V-XPI-1S) ==es== [F]
+- ἐστιν. (V-PAI-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-ὧδε λοιπὸν ζητεῖται ἐν τοῖς οἰκονόμοις ἵνα πιστός τις εὑρεθῇ.  
+### 1Corintios 4:5
 
-[Ahora bien, lo que se requiere de los administradores es que cada uno sea hallado fiel.]
+ὥστε μὴ πρὸ καιροῦ τι κρίνετε, ἕως ἂν ἔλθῃ ὁ κύριος, ὃς καὶ φωτίσει τὰ κρυπτὰ τοῦ σκότους καὶ φανερώσει τὰς βουλὰς τῶν καρδιῶν, καὶ τότε ὁ ἔπαινος γενήσεται ἑκάστῳ ἀπὸ τοῦ θεοῦ.
 
-- ζητεῖται (V-PPI-3S) ==se requiere== [F]  
-- εὑρεθῇ (V-APS-3S) ==sea hallado== [F]  
+[Por tanto, no juzguen antes de tiempo, sino esperen hasta que el Señor venga, el cual sacará a la luz las cosas ocultas en las tinieblas y también pondrá de manifiesto los designios de los corazones. Entonces cada uno recibirá de parte de Dios la alabanza que le corresponda.]
 
-   - ἵνα = que [c]
+- κρίνετε, (V-PAD-2P) ==??== [F]
+- ἔλθῃ (V-AAS-3S) ==??== [F]
+- φωτίσει (V-FAI-3S) ==??== [F]
+- φανερώσει (V-FAI-3S) ==??== [F]
+- γενήσεται (V-FMI-3S) ==??== [F]
+- ὥστε [DEP] → [de manera que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 4:6
 
-### 1 Corintios 4:3 {#1co-4-3}
+Ταῦτα δέ, ἀδελφοί, μετεσχημάτισα εἰς ἐμαυτὸν καὶ ⸀Ἀπολλῶν δι’ ὑμᾶς, ἵνα ἐν ἡμῖν μάθητε τό· Μὴ ὑπὲρ ⸀ἃ ⸀γέγραπται, ἵνα μὴ εἷς ὑπὲρ τοῦ ἑνὸς φυσιοῦσθε κατὰ τοῦ ἑτέρου.
 
-ἐμοὶ δὲ εἰς ἐλάχιστόν ἐστιν ἵνα ὑφʼ ὑμῶν ἀνακριθῶ ἢ ὑπὸ ἀνθρωπίνης ἡμέρας· ἀλλʼ οὐδὲ ἐμαυτὸν ἀνακρίνω·  
+[Esto, hermanos, lo he aplicado en sentido figurado a mí mismo y a Apolos por amor a ustedes, para que en nosotros aprendan a no sobrepasar lo que está escrito, para que ninguno de ustedes se vuelva arrogante a favor del uno contra el otro.]
 
-[En cuanto a mí, en muy poco estimo el ser juzgado por ustedes o por tribunal humano; ni aun yo me juzgo.]
+- μετεσχημάτισα (V-AAI-1S) ==??== [F]
+- μάθητε (V-AAS-2P) ==??== [F]
+- ⸀γέγραπται, (V-XPI-3S) ==??== [F]
+- φυσιοῦσθε (V-PPI-2P) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
 
-- ἐστιν (V-PAI-3S) ==es== [F]  
-- ἀνακριθῶ (V-APS-1S) ==sea juzgado== [F]  
-- ἀνακρίνω (V-PAI-1S) ==me juzgo== [F]  
+### 1Corintios 4:7
 
-   - δὲ = pero [c]  
-   - ἵνα = que [c]  
-   - ἀλλʼ = [pero] ni aun [c]
+τίς γάρ σε διακρίνει; τί δὲ ἔχεις ὃ οὐκ ἔλαβες; εἰ δὲ καὶ ἔλαβες, τί καυχᾶσαι ὡς μὴ λαβών;
 
----
+[Porque ¿quién te distingue? ¿Qué tienes que no recibiste? Y si lo recibiste, ¿por qué te jactas como si no lo hubieras recibido?]
 
-### 1 Corintios 4:4 {#1co-4-4}
+- διακρίνει; (V-PAI-3S) ==¿qué== [F]
+- ἔχεις (V-PAI-2S) ==qué== [F]
+- ἔλαβες; (V-AAI-2S) ==??== [F]
+- ἔλαβες, (V-AAI-2S) ==??== [F]
+- καυχᾶσαι (V-PMI-2S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- εἰ [DEP] → [si]
+  A: "¿qué" → B: "qué"
+- καί [CORD] → [y]
+  A: "¿qué" → B: "qué"
 
-οὐδὲν γὰρ ἐμαυτῷ σύνοιδα, ἀλλʼ οὐκ ἐν τούτῳ δεδικαίωμαι· ὁ δὲ ἀνακρίνων με κύριός ἐστιν.  
+### 1Corintios 4:8
 
-[Pues nada tengo contra mí mismo, pero no por eso estoy justificado; el que me juzga es el Señor.]
+Ἤδη κεκορεσμένοι ἐστέ, ἤδη ἐπλουτήσατε, χωρὶς ἡμῶν ἐβασιλεύσατε· καὶ ὄφελόν γε ἐβασιλεύσατε, ἵνα καὶ ἡμεῖς ὑμῖν συμβασιλεύσωμεν.
 
-- σύνοιδα (V-RAI-1S) ==tengo contra== [F]  
-- δεδικαίωμαι (V-RPI-1S) ==estoy justificado== [F]  
-- ἐστιν (V-PAI-3S) ==es== [F]  
-- ἀνακρίνων (V-PAP-NSM) juzgando [NF]
+[Ya están saciados, ya se han hecho ricos, ya han llegado a reinar sin necesidad de nosotros. Ojalá hubieran llegado a reinar, para que nosotros reináramos también con ustedes.]
 
-   - γὰρ = pues [c]  
-   - ἀλλʼ = pero [c]  
-   - δὲ = pero [c]
+- ἐστέ, (V-PAI-2P) ==??== [F]
+- ἐπλουτήσατε, (V-AAI-2P) ==??== [F]
+- ἐβασιλεύσατε· (V-AAI-2P) ==??== [F]
+- ἐβασιλεύσατε, (V-AAI-2P) ==??== [F]
+- συμβασιλεύσωμεν. (V-AAS-1P) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
 
+### 1Corintios 4:9
 
-### 1 Corintios 4:5 {#1co-4-5}
+δοκῶ ⸀γάρ, ὁ θεὸς ἡμᾶς τοὺς ἀποστόλους ἐσχάτους ἀπέδειξεν ὡς ἐπιθανατίους, ὅτι θέατρον ἐγενήθημεν τῷ κόσμῳ καὶ ἀγγέλοις καὶ ἀνθρώποις.
 
-ὥστε μὴ πρὸ καιροῦ τι κρίνετε ἕως ἂν ἔλθῃ ὁ κύριος, ὃς καὶ φωτίσει τὰ κρυπτὰ τοῦ σκότους καὶ φανερώσει τὰς βουλὰς τῶν καρδιῶν· καὶ τότε ὁ ἔπαινος γενήσεται ἑκάστῳ ἀπὸ τοῦ θεοῦ.  
+[Porque pienso que Dios nos ha exhibido a nosotros los apóstoles en último lugar, como a sentenciados a muerte. Porque hemos llegado a ser un espectáculo para el mundo, tanto para los ángeles como para los hombres.]
 
-[Así que no juzguen nada antes de tiempo, hasta que venga el Señor, el cual sacará a la luz lo oculto de las tinieblas y manifestará los designios de los corazones; y entonces cada uno recibirá su alabanza de Dios.]
+- δοκῶ (V-PAI-1S) ==??== [F]
+- ἀπέδειξεν (V-AAI-3S) ==??== [F]
+- ἐγενήθημεν (V-API-1P) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-- κρίνετε (V-PAM-2P) ==juzguen== [F]  
-- ἔλθῃ (V-AAS-3S) ==venga== [F]  
-- φωτίσει (V-FAI-3S) ==sacará a la luz== [F]  
-- φανερώσει (V-FAI-3S) ==manifestará== [F]  
-- γενήσεται (V-FMI-3S) ==recibirá== [F]  
+### 1Corintios 4:10
 
-   - ὥστε = así que [c]  
-   - ἕως = hasta que [c]
+ἡμεῖς μωροὶ διὰ Χριστόν, ὑμεῖς δὲ φρόνιμοι ἐν Χριστῷ· ἡμεῖς ἀσθενεῖς, ὑμεῖς δὲ ἰσχυροί· ὑμεῖς ἔνδοξοι, ἡμεῖς δὲ ἄτιμοι.
 
-### 1 Corintios 4:6 {#1co-4-6}
+[Nosotros somos necios por amor de Cristo, pero ustedes, prudentes en Cristo. Nosotros somos débiles, pero ustedes, fuertes. Ustedes son distinguidos, pero nosotros, sin honra.]
 
-Ταῦτα δέ ἀδελφοί μετεσχημάτισα εἰς ἐμαυτὸν καὶ Ἀπολλῶν διʼ ὑμᾶς ἵνα ἐν ἡμῖν μάθητε τὸ μὴ ὑπὲρ ἃ γέγραπται ἵνα μὴ εἷς ὑπὲρ τοῦ ἑνὸς φυσιοῦσθε κατὰ τοῦ ἑτέρου
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-[Estas cosas, hermanos, las he aplicado figuradamente a mí mismo y a Apolos por amor a ustedes, para que en nosotros aprendan a no exceder lo que está escrito, a fin de que ninguno se envanezca en favor de uno contra otro.]
+### 1Corintios 4:11
 
-- μετεσχημάτισα (V-AAI-1S) ==he aplicado== [F]
-- μάθητε (V-AAS-2P) aprendan [F]
-- γέγραπται (V-RPI-3S) ==está escrito== [F]
-- φυσιοῦσθε (V-PPM-2P) se envanezcan [F]
+ἄχρι τῆς ἄρτι ὥρας καὶ πεινῶμεν καὶ διψῶμεν καὶ γυμνιτεύομεν καὶ κολαφιζόμεθα καὶ ἀστατοῦμεν
 
-   - δέ → (estas)
-   - καί → (y)
-   - ἵνα → (para que)
-   - ἵνα → (a fin de que)
-   - μὴ → (no)
+[Hasta el momento presente pasamos hambre y sed, andamos mal vestidos, somos maltratados y no tenemos dónde vivir.]
 
----
+- πεινῶμεν (V-PAI-1P) ==??== [F]
+- διψῶμεν (V-PAI-1P) ==??== [F]
+- γυμνιτεύομεν (V-PAI-1P) ==??== [F]
+- κολαφιζόμεθα (V-PPI-1P) ==??== [F]
+- ἀστατοῦμεν (V-PAI-1P) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 4:7 {#1co-4-7}
+### 1Corintios 4:12
 
-τίς γάρ σε διακρίνει τί δὲ ἔχεις ὃ οὐκ ἔλαβες εἰ δὲ καὶ ἔλαβες τί καυχᾶσαι ὡς μὴ λαβών
+καὶ κοπιῶμεν ἐργαζόμενοι ταῖς ἰδίαις χερσίν· λοιδορούμενοι εὐλογοῦμεν, διωκόμενοι ἀνεχόμεθα,
 
-[Porque ¿quién te distingue? ¿O qué tienes que no hayas recibido? Y si lo recibiste, ¿por qué te jactas como si no lo hubieras recibido?]
+[Nos agotamos trabajando con nuestras propias manos. Cuando nos ultrajan, bendecimos. Cuando somos perseguidos, lo soportamos.]
 
-- διακρίνει (V-PAI-3S) ==distingue== [F]
-- ἔχεις (V-PAI-2S) ==tienes== [F]
-- ἔλαβες (V-AAI-2S) ==recibiste== [F]
-- ἔλαβες (V-AAI-2S) ==recibiste== [F]
-- καυχᾶσαι (V-PMI-2S) ==te jactas== [F]
+- κοπιῶμεν (V-PAI-1P) ==??== [F]
+- εὐλογοῦμεν, (V-PAI-1P) ==??== [F]
+- ἀνεχόμεθα, (V-PMI-1P) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-   - γάρ → (porque)
-   - δὲ → (o)
-   - εἰ → (si)
-   - δὲ → (y)
+### 1Corintios 4:13
 
----
+⸀δυσφημούμενοι παρακαλοῦμεν· ὡς περικαθάρματα τοῦ κόσμου ἐγενήθημεν, πάντων περίψημα ἕως ἄρτι.
 
-### 1 Corintios 4:8 {#1co-4-8}
+[Cuando hablan mal de nosotros, tratamos de reconciliar. Hemos llegado a ser, hasta ahora, la basura del mundo, el desecho de todo.]
 
-ἤδη κεκορεσμένοι ἐστέ ἤδη ἐπλουτήσατε χωρὶς ἡμῶν ἐβασιλεύσατε καὶ ὄφελον γε ἐβασιλεύσατε ἵνα καὶ ἡμεῖς ὑμῖν συμβασιλεύσωμεν
+- παρακαλοῦμεν· (V-PAI-1P) ==??== [F]
+- ἐγενήθημεν, (V-API-1P) ==??== [F]
 
-[Ya están saciados, ya se han enriquecido, sin nosotros han llegado a reinar; y ojalá en verdad hubieran reinado, para que nosotros también reináramos con ustedes.]
+### 1Corintios 4:14
 
-- ἐστέ (V-PAI-2P) ==están== [F]
-- ἐπλουτήσατε (V-AAI-2P) ==se han enriquecido== [F]
-- ἐβασιλεύσατε (V-AAI-2P) ==han reinado== [F]
-- ἐβασιλεύσατε (V-AAI-2P) ==hubieran reinado== [F]
-- συμβασιλεύσωμεν (V-AAS-1P) reináramos [F]
+Οὐκ ἐντρέπων ὑμᾶς γράφω ταῦτα, ἀλλ’ ὡς τέκνα μου ἀγαπητὰ ⸀νουθετῶν·
 
-   - καί → (y)
-   - ἵνα → (para que)
-   - καί → (también)
+[No les escribo esto para avergonzarlos, sino para amonestarlos como a hijos míos amados.]
 
----
+- γράφω (V-PAI-1S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 4:9 {#1co-4-9}
+### 1Corintios 4:15
 
-δοκῶ γὰρ ὁ θεὸς ἡμᾶς τοὺς ἀποστόλους ἐσχάτους ἀπέδειξεν ὡς ἐπιθανατίους ὅτι θέατρον ἐγενήθημεν τῷ κόσμῳ καὶ ἀγγέλοις καὶ ἀνθρώποις
+ἐὰν γὰρ μυρίους παιδαγωγοὺς ἔχητε ἐν Χριστῷ, ἀλλ’ οὐ πολλοὺς πατέρας, ἐν γὰρ Χριστῷ Ἰησοῦ διὰ τοῦ εὐαγγελίου ἐγὼ ὑμᾶς ἐγέννησα.
 
-[Porque pienso que Dios nos ha exhibido a nosotros los apóstoles como los últimos, como condenados a muerte; pues hemos llegado a ser espectáculo al mundo, tanto a ángeles como a hombres.]
+[Porque aunque ustedes tengan innumerables maestros en Cristo, sin embargo no tienen muchos padres; pues en Cristo Jesús yo los engendré por medio del evangelio.]
 
-- δοκῶ (V-PAI-1S) ==pienso== [F]
-- ἀπέδειξεν (V-AAI-3S) ==ha exhibido== [F]
-- ἐγενήθημεν (V-ADI-1P) ==hemos llegado a ser== [F]
+- ἔχητε (V-PAS-2P) ==engendré== [F]
+- ἐγέννησα. (V-AAI-1S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-   - γὰρ → (porque)
-   - ὅτι → (pues)
-   - καί → (y)
-   - καί → (y)
+### 1Corintios 4:16
 
----
+παρακαλῶ οὖν ὑμᾶς, μιμηταί μου γίνεσθε.
 
-### 1 Corintios 4:10 {#1co-4-10}
+[Por tanto, los exhorto: sean imitadores míos.]
 
-ἡμεῖς μωροὶ διὰ Χριστόν ὑμεῖς δὲ φρόνιμοι ἐν Χριστῷ ἡμεῖς ἀσθενεῖς ὑμεῖς δὲ ἰσχυροί ὑμεῖς ἔνδοξοι ἡμεῖς δὲ ἄτιμοι
+- παρακαλῶ (V-PAI-1S) ==??== [F]
+- γίνεσθε. (V-PMD-2P) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-[Nosotros somos necios por amor de Cristo, pero ustedes prudentes en Cristo; nosotros débiles, pero ustedes fuertes; ustedes distinguidos, pero nosotros sin honra.]
+### 1Corintios 4:17
 
-   - δὲ → (pero)
-   - δὲ → (pero)
-   - δὲ → (pero)
+διὰ τοῦτο ἔπεμψα ὑμῖν Τιμόθεον, ὅς ἐστίν ⸂μου τέκνον⸃ ἀγαπητὸν καὶ πιστὸν ἐν κυρίῳ, ὃς ὑμᾶς ἀναμνήσει τὰς ὁδούς μου τὰς ἐν Χριστῷ ⸀Ἰησοῦ, καθὼς πανταχοῦ ἐν πάσῃ ἐκκλησίᾳ διδάσκω.
 
----
+[Por esta razón les he enviado a Timoteo, que es mi hijo amado y fiel en el Señor. Él les recordará mis caminos, los caminos en Cristo, tal como yo enseño en todas partes, en cada iglesia.]
 
-### 1 Corintios 4:11 {#1co-4-11}
+- ἔπεμψα (V-AAI-1S) ==es== [F]
+- ἐστίν (V-PAI-3S) ==??== [F]
+- ἀναμνήσει (V-FAI-3S) ==??== [F]
+- διδάσκω. (V-PAI-1S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-ἄχρι τῆς ἄρτι ὥρας καὶ πεινῶμεν καὶ διψῶμεν καὶ γυμνητεύομεν καὶ κολαφιζόμεθα καὶ ἀστατοῦμεν
+### 1Corintios 4:18
 
-[Hasta el momento presente padecemos hambre y sed, estamos mal vestidos, somos maltratados y no tenemos morada fija.]
+ὡς μὴ ἐρχομένου δέ μου πρὸς ὑμᾶς ἐφυσιώθησάν τινες·
 
-- πεινῶμεν (V-PAI-1P) ==padecemos hambre== [F]
-- διψῶμεν (V-PAI-1P) ==tenemos sed== [F]
-- γυμνητεύομεν (V-PAI-1P) ==estamos mal vestidos== [F]
-- κολαφιζόμεθα (V-PPI-1P) ==somos maltratados== [F]
-- ἀστατοῦμεν (V-PAI-1P) ==no tenemos estabilidad== [F]
+[Algunos de ustedes se han vuelto arrogantes, como si yo no hubiera de ir a verlos.]
 
-   - καί → (y)
-   - καί → (y)
-   - καί → (y)
-   - καί → (y)
+- ἐφυσιώθησάν (V-API-3P) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 4:19
 
-### 1 Corintios 4:12 {#1co-4-12}
+ἐλεύσομαι δὲ ταχέως πρὸς ὑμᾶς, ἐὰν ὁ κύριος θελήσῃ, καὶ γνώσομαι οὐ τὸν λόγον τῶν πεφυσιωμένων ἀλλὰ τὴν δύναμιν,
 
-καὶ κοπιῶμεν ἐργαζόμενοι ταῖς ἰδίαις χερσίν λοιδορούμενοι εὐλογοῦμεν διωκόμενοι ἀνεχόμεθα
-
-[y trabajamos con nuestras propias manos; cuando somos injuriados, bendecimos; cuando somos perseguidos, soportamos.]
-
-- κοπιῶμεν (V-PAI-1P) ==trabajamos== [F]
-- ἐργαζόμενοι (V-PMP-NPM) trabajando [NF]
-- λοιδορούμενοι (V-PMP-NPM) siendo injuriados [NF]
-- εὐλογοῦμεν (V-PAI-1P) ==bendecimos== [F]
-- διωκόμενοι (V-PMP-NPM) siendo perseguidos [NF]
-- ἀνεχόμεθα (V-PMI-1P) ==soportamos== [F]
-
-   - καί → (y)
-
----
-
-### 1 Corintios 4:13 {#1co-4-13}
-
-δυσφημούμενοι παρακαλοῦμεν ὡς περικαθάρματα τοῦ κόσμου ἐγενήθημεν πάντων περίψημα ἕως ἄρτι
-
-[Cuando somos difamados, tratamos de reconciliar; hemos llegado a ser como la escoria del mundo, el desecho de todos, hasta ahora.]
-
-- δυσφημούμενοι (V-PMP-NPM) siendo difamados [NF]
-- παρακαλοῦμεν (V-PAI-1P) ==exhortamos== [F]
-- ἐγενήθημεν (V-ADI-1P) ==hemos llegado a ser== [F]
-
----
-
-### 1 Corintios 4:14 {#1co-4-14}
-
-οὐκ ἐντρέπων ὑμᾶς γράφω ταῦτα ἀλλʼ ὡς τέκνα μου ἀγαπητὰ νουθετῶ
-
-[No escribo esto para avergonzarlos, sino para amonestarlos como a hijos míos amados.]
-
-- ἐντρέπων (V-PAP-NSM) avergonzando [NF]
-- γράφω (V-PAI-1S) ==escribo== [F]
-- νουθετῶ (V-PAI-1S) ==amonesto== [F]
-
-   - ἀλλʼ → (sino)
-
----
-
-### 1 Corintios 4:15 {#1co-4-15}
-
-ἐὰν γὰρ μυρίους παιδαγωγοὺς ἔχητε ἐν Χριστῷ ἀλλʼ οὐ πολλοὺς πατέρας ἐν γὰρ Χριστῷ Ἰησοῦ διὰ τοῦ εὐαγγελίου ἐγὼ ὑμᾶς ἐγέννησα
-
-[Porque aunque tengan innumerables maestros en Cristo, sin embargo no tienen muchos padres; pues en Cristo Jesús yo los engendré por medio del evangelio.]
-
-- ἔχητε (V-PAS-2P) tengan [F]
-- ἐγέννησα (V-AAI-1S) ==engendré== [F]
-
-   - γὰρ → (porque)
-   - ἐὰν → (aunque)
-   - ἀλλʼ → (sin embargo)
-   - γὰρ → (pues)
-
----
-
-### 1 Corintios 4:16 {#1co-4-16}
-
-παρακαλῶ οὖν ὑμᾶς μιμηταί μου γίνεσθε
-
-[Por tanto, los exhorto: sean imitadores de mí.]
-
-- παρακαλῶ (V-PAI-1S) ==exhorto== [F]
-- γίνεσθε (V-PMM-2P) sean [F]
-
-   - οὖν → (por tanto)
-
----
-
-### 1 Corintios 4:17 {#1co-4-17}
-
-διὰ τοῦτο ἔπεμψα ὑμῖν Τιμόθεον ὃς ἐστίν μου τέκνον ἀγαπητὸν καὶ πιστὸν ἐν κυρίῳ ὃς ὑμᾶς ἀναμνήσει τὰς ὁδούς μου τὰς ἐν Χριστῷ Ἰησοῦ καθὼς πανταχοῦ ἐν πάσῃ ἐκκλησίᾳ διδάσκω
-
-[Por esta razón les envié a Timoteo, que es mi hijo amado y fiel en el Señor, y él les recordará mis caminos en Cristo Jesús, tal como enseño en todas partes en cada iglesia.]
-
-- ἔπεμψα (V-AAI-1S) ==envié== [F]
-- ἐστίν (V-PAI-3S) ==es== [F]
-- ἀναμνήσει (V-FAI-3S) ==recordará== [F]
-- διδάσκω (V-PAI-1S) ==enseño== [F]
-
-   - καί → (y)
-   - καθὼς → (tal como)
-
----
-
-### 1 Corintios 4:18 {#1co-4-18}
-
-ὡς μὴ ἐρχομένου δὲ μου πρὸς ὑμᾶς ἐφυσιώθησάν τινες
-
-[Pero algunos se han vuelto arrogantes, como si yo no fuera a ir a ustedes.]
-
-- ἐρχομένου (V-PMP-GSM) viniendo [NF]
-- ἐφυσιώθησάν (V-API-3P) ==se han vuelto arrogantes== [F]
-
-   - δὲ → (pero)
-   - ὡς → (como si)
-   - μὴ → (no)
-
----
-
-### 1 Corintios 4:19 {#1co-4-19}
-
-ἐλεύσομαι δὲ ταχέως πρὸς ὑμᾶς ἐὰν ὁ κύριος θελήσῃ καὶ γνώσομαι οὐ τὸν λόγον τῶν πεφυσιωμένων ἀλλὰ τὴν δύναμιν
-
-[Pero iré pronto a ustedes, si el Señor quiere, y conoceré, no las palabras de los que son arrogantes, sino su poder.]
+[Pero iré a verlos pronto, si el Señor quiere, y conoceré, no las palabras de los arrogantes sino el poder que tienen.]
 
 - ἐλεύσομαι (V-FMI-1S) ==iré== [F]
-- θελήσῃ (V-AAS-3S) quiera [F]
-- γνώσομαι (V-FMI-1S) ==conoceré== [F]
+- θελήσῃ, (V-AAS-3S) ==conoceré== [F]
+- γνώσομαι (V-FMI-1S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  A: "iré" → B: "conoceré"
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
 
-   - δὲ → (pero)
-   - ἐὰν → (si)
-   - καί → (y)
-   - ἀλλὰ → (sino)
+### 1Corintios 4:20
 
----
-
-### 1 Corintios 4:20 {#1co-4-20}
-
-οὐ γὰρ ἐν λόγῳ ἡ βασιλεία τοῦ θεοῦ ἀλλʼ ἐν δυνάμει
+οὐ γὰρ ἐν λόγῳ ἡ βασιλεία τοῦ θεοῦ ἀλλ’ ἐν δυνάμει.
 
 [Porque el reino de Dios no consiste en palabras, sino en poder.]
 
-   - γὰρ → (porque)
-   - ἀλλʼ → (sino)
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 4:21
 
-### 1 Corintios 4:21 {#1co-4-21}
+τί θέλετε; ἐν ῥάβδῳ ἔλθω πρὸς ὑμᾶς, ἢ ἐν ἀγάπῃ πνεύματί τε πραΰτητος;
 
-τί θέλετε ἐν ῥάβδῳ ἔλθω πρὸς ὑμᾶς ἢ ἐν ἀγάπῃ καὶ πνεύματι πραΰτητος
+[¿Qué quieren? ¿Iré a ustedes con vara, o con amor y espíritu de mansedumbre?]
 
-[¿Qué desean? ¿Que vaya a ustedes con vara, o con amor y espíritu de mansedumbre?]
+- θέλετε; (V-PAI-2P) ==¿qué== [F]
+- ἔλθω (V-AAS-1S) ==¿iré== [F]
 
-- θέλετε (V-PAI-2P) ==desean== [F]
-- ἔλθω (V-AAS-1S) vaya [F]
+### 1Corintios 5:1
 
-   - ἢ → (o)
-   - καί → (y)
+Ὅλως ἀκούεται ἐν ὑμῖν πορνεία, καὶ τοιαύτη πορνεία ἥτις οὐδὲ ἐν τοῖς ⸀ἔθνεσιν, ὥστε γυναῖκά τινα τοῦ πατρὸς ἔχειν.
 
-### 1 Corintios 5:1 {#1co-5-1}
+[En efecto, se oye que entre ustedes hay inmoralidad, y una inmoralidad tal como no existe ni siquiera entre los gentiles, al extremo de que alguien tiene la mujer de su padre.]
 
-Ὅλως ἀκούεται ἐν ὑμῖν πορνεία καὶ τοιαύτη πορνεία ἥτις οὐδὲ ἐν τοῖς ἔθνεσιν ὥστε γυναῖκά τινα τοῦ πατρὸς ἔχειν
+- ἀκούεται (V-PPI-3S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- ὥστε [DEP] → [de manera que]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-[En verdad se oye que hay entre ustedes inmoralidad, y una inmoralidad tal que ni aun entre los gentiles se menciona: que uno tenga la mujer de su padre.]
+### 1Corintios 5:2
 
-- ἀκούεται (V-PPI-3S) ==se oye== [F]
-- ἔχειν (V-PAN) tener [NF]
+καὶ ὑμεῖς πεφυσιωμένοι ἐστέ, καὶ οὐχὶ μᾶλλον ἐπενθήσατε, ἵνα ⸀ἀρθῇ ἐκ μέσου ὑμῶν ὁ τὸ ἔργον τοῦτο ⸀ποιήσας;
 
-   - ὥστε → (que)
+[¡Y ustedes se han vuelto arrogantes en lugar de haberse entristecido, para que el que de entre ustedes ha cometido esta acción fuera expulsado de en medio de ustedes!]
 
----
+- ἐστέ, (V-PAI-2P) ==??== [F]
+- ἐπενθήσατε, (V-AAI-2P) ==??== [F]
+- ⸀ἀρθῇ (V-APS-3S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 5:2 {#1co-5-2}
+### 1Corintios 5:3
 
-καὶ ὑμεῖς πεφυσιωμένοι ἐστε καὶ οὐχὶ μᾶλλον ἐπενθήσατε ἵνα ἀρθῇ ἐκ μέσου ὑμῶν ὁ τὸ ἔργον τοῦτο πράξας
+Ἐγὼ μὲν γάρ, ⸀ἀπὼν τῷ σώματι παρὼν δὲ τῷ πνεύματι, ἤδη κέκρικα ὡς παρὼν τὸν οὕτως τοῦτο κατεργασάμενον
 
-[Y ustedes están arrogantes, y no han llorado más bien, para que el que cometió este hecho sea quitado de en medio de ustedes.]
+[Pues yo, por mi parte, aunque ausente en cuerpo pero presente en espíritu, como si estuviera presente, ya he juzgado al que cometió tal acción.]
 
-- ἐστε (V-PAI-2P) ==están== [F]
-- ἐπενθήσατε (V-AAI-2P) ==han llorado== [F]
-- ἀρθῇ (V-APS-3S) sea quitado [F]
-- πράξας (V-AAP-NSM) habiendo cometido [NF]
+- κέκρικα (V-XAI-1S) ==cometió== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-   - καί → (y)
-   - ἵνα → (para que)
+### 1Corintios 5:4
 
----
+ἐν τῷ ὀνόματι τοῦ κυρίου ἡμῶν ⸀Ἰησοῦ, συναχθέντων ὑμῶν καὶ τοῦ ἐμοῦ πνεύματος σὺν τῇ δυνάμει τοῦ κυρίου ἡμῶν ⸁Ἰησοῦ,
 
-### 1 Corintios 5:3 {#1co-5-3}
+[En el nombre de nuestro Señor Jesús, cuando estén reunidos, y yo con ustedes en espíritu, con el poder de nuestro Señor Jesús,]
 
-ἐγὼ μὲν γὰρ ἀπὼν τῷ σώματι παρὼν δὲ τῷ πνεύματι ἤδη κέκρικα ὡς παρὼν τὸν οὕτως τοῦτο κατεργασάμενον
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-[Porque yo, aunque ausente en cuerpo pero presente en espíritu, ya he juzgado como si estuviera presente al que ha cometido tal acción.]
+### 1Corintios 5:5
 
-- κέκρικα (V-RAI-1S) ==he juzgado== [F]
-- κατεργασάμενον (V-AMP-ASM) habiendo cometido [NF]
+παραδοῦναι τὸν τοιοῦτον τῷ Σατανᾷ εἰς ὄλεθρον τῆς σαρκός, ἵνα τὸ πνεῦμα σωθῇ ἐν τῇ ἡμέρᾳ τοῦ ⸀κυρίου.
 
-   - γὰρ → (porque)
-   - δὲ → (pero)
+[entreguen a ese tal a Satanás para la destrucción de su carne, a fin de que su espíritu sea salvo en el día del Señor Jesús.]
 
----
+- σωθῇ (V-APS-3S) ==día== [F]
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 5:4 {#1co-5-4}
+### 1Corintios 5:6
 
-ἐν τῷ ὀνόματι τοῦ κυρίου ἡμῶν Ἰησοῦ συναχθέντων ὑμῶν καὶ τοῦ ἐμοῦ πνεύματος σὺν τῇ δυνάμει τοῦ κυρίου ἡμῶν Ἰησοῦ
+Οὐ καλὸν τὸ καύχημα ὑμῶν. οὐκ οἴδατε ὅτι μικρὰ ζύμη ὅλον τὸ φύραμα ζυμοῖ;
 
-[En el nombre de nuestro Señor Jesús, reunidos ustedes y mi espíritu, con el poder de nuestro Señor Jesús.]
+[La jactancia de ustedes no es buena. ¿No saben que un poco de levadura fermenta toda la masa?]
 
-- συναχθέντων (V-APP-GPM) habiendo sido reunidos [NF]
+- οἴδατε (V-XAI-2P) ==es== [F]
+- ζυμοῖ; (V-PAI-3S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
 
-   - καί → (y)
+### 1Corintios 5:7
 
----
+ἐκκαθάρατε τὴν παλαιὰν ζύμην, ἵνα ἦτε νέον φύραμα, καθώς ἐστε ἄζυμοι. καὶ γὰρ τὸ πάσχα ⸀ἡμῶν ἐτύθη Χριστός·
 
-### 1 Corintios 5:5 {#1co-5-5}
+[Limpien la levadura vieja para que sean masa nueva, así como lo son en realidad sin levadura. Porque aun Cristo, nuestra Pascua, ha sido sacrificado.]
 
-παραδοῦναι τὸν τοιοῦτον τῷ σατανᾷ εἰς ὄλεθρον τῆς σαρκὸς ἵνα τὸ πνεῦμα σωθῇ ἐν τῇ ἡμέρᾳ τοῦ κυρίου
+- ἐκκαθάρατε (V-AAD-2P) ==son== [F]
+- ἦτε (V-PAS-2P) ==??== [F]
+- ἐστε (V-PAI-2P) ==??== [F]
+- ἐτύθη (V-API-3S) ==??== [F]
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-[entregar a tal hombre a Satanás para la destrucción de la carne, a fin de que su espíritu sea salvo en el día del Señor.]
+### 1Corintios 5:8
 
-- παραδοῦναι (V-AAN) entregar [NF]
-- σωθῇ (V-APS-3S) sea salvo [F]
+ὥστε ἑορτάζωμεν, μὴ ἐν ζύμῃ παλαιᾷ μηδὲ ἐν ζύμῃ κακίας καὶ πονηρίας, ἀλλ’ ἐν ἀζύμοις εἰλικρινείας καὶ ἀληθείας.
 
-   - ἵνα → (a fin de que)
+[Por tanto, celebremos la fiesta no con la levadura vieja, ni con la levadura de malicia y maldad, sino con panes sin levadura de sinceridad y de verdad.]
 
----
+- ἑορτάζωμεν, (V-PAS-1P) ==??== [F]
+- ὥστε [DEP] → [de manera que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 5:6 {#1co-5-6}
+### 1Corintios 5:9
 
-οὐ καλὸν τὸ καύχημα ὑμῶν οὐκ οἴδατε ὅτι μικρὰ ζύμη ὅλον τὸ φύραμα ζυμοῖ
+Ἔγραψα ὑμῖν ἐν τῇ ἐπιστολῇ μὴ συναναμίγνυσθαι πόρνοις,
 
-[No es buena su jactancia. ¿No saben que un poco de levadura leuda toda la masa?]
+[En mi carta les escribí que no anduvieran en compañía de personas inmorales.]
 
-- [ἐστίν] (V-PAI-3S) ==[es]== [F]
-- οἴδατε (V-RAI-2P) ==saben== [F]
-- ζυμοῖ (V-PAI-3S) ==leuda== [F]
+- Ἔγραψα (V-AAI-1S) ==compañía== [F]
 
-   - ὅτι → (que)
+### 1Corintios 5:10
 
----
+⸀οὐ πάντως τοῖς πόρνοις τοῦ κόσμου τούτου ἢ τοῖς πλεονέκταις ⸀καὶ ἅρπαξιν ἢ εἰδωλολάτραις, ἐπεὶ ⸀ὠφείλετε ἄρα ἐκ τοῦ κόσμου ἐξελθεῖν.
 
-### 1 Corintios 5:7 {#1co-5-7}
+[No me refería a la gente inmoral de este mundo, o a los codiciosos y estafadores, o a los idólatras, porque entonces tendrían ustedes que salirse del mundo.]
 
-ἐκκαθάρατε τὴν παλαιὰν ζύμην ἵνα ἦτε νέον φύραμα καθώς ἐστε ἄζυμοι καὶ γὰρ τὸ πάσχα ἡμῶν ἐτύθη Χριστός
+- ⸀ὠφείλετε (V-IAI-2P) ==refería== [F]
 
-[Limpien la levadura vieja para que sean masa nueva, así como lo son sin levadura. Porque también Cristo, nuestra Pascua, ha sido sacrificado.]
+### 1Corintios 5:11
 
-- ἐκκαθάρατε (V-AAM-2P) limpien [F]
-- ἦτε (V-PAS-2P) sean [F]
-- ἐστε (V-PAI-2P) ==son== [F]
-- ἐτύθη (V-API-3S) ==ha sido sacrificado== [F]
+νῦν δὲ ἔγραψα ὑμῖν μὴ συναναμίγνυσθαι ἐάν τις ἀδελφὸς ὀνομαζόμενος ᾖ πόρνος ἢ πλεονέκτης ἢ εἰδωλολάτρης ἢ λοίδορος ἢ μέθυσος ἢ ἅρπαξ, τῷ τοιούτῳ μηδὲ συνεσθίειν.
 
-   - ἵνα → (para que)
-   - καὶ → (también)
-   - γὰρ → (porque)
+[Sino que en efecto les escribí que no anduvieran en compañía de ninguno que, llamándose hermano, es una persona inmoral, o avaro, o idólatra, o difamador, o borracho, o estafador. Con esa persona, ni siquiera coman.]
 
----
+- ἔγραψα (V-AAI-1S) ==compañía== [F]
+- ᾖ (V-PAS-3S) ==es== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 5:8 {#1co-5-8}
+### 1Corintios 5:12
 
-ὥστε ἑορτάζωμεν μὴ ἐν ζύμῃ παλαιᾷ μηδὲ ἐν ζύμῃ κακίας καὶ πονηρίας ἀλλʼ ἐν ἀζύμοις εἰλικρινείας καὶ ἀληθείας
+τί γάρ ⸀μοι τοὺς ἔξω κρίνειν; οὐχὶ τοὺς ἔσω ὑμεῖς κρίνετε,
 
-[Así que celebremos la fiesta, no con levadura vieja, ni con levadura de malicia y de maldad, sino con panes sin levadura de sinceridad y de verdad.]
+[Pues ¿por qué he de juzgar yo a los de afuera? ¿No juzgan ustedes a los que están dentro de la iglesia?]
 
-- ἑορτάζωμεν (V-PAS-1P) celebremos [F]
+- κρίνετε, (V-PAI-2P) ==qué== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-   - ὥστε → (así que)
-   - ἀλλʼ → (sino)
+### 1Corintios 5:13
 
----
+τοὺς δὲ ἔξω ὁ θεὸς ⸀κρίνει; ⸀ἐξάρατε τὸν πονηρὸν ἐξ ὑμῶν αὐτῶν.
 
-### 1 Corintios 5:9 {#1co-5-9}
+[Pero Dios juzga a los que están fuera. EXPULSEN AL MALVADO DE ENTRE USTEDES.]
 
-ἔγραψα ὑμῖν ἐν τῇ ἐπιστολῇ μὴ συναναμίγνυσθαι πόρνοις
+- ⸀κρίνει; (V-PAI-3S) ==??== [F]
+- ⸀ἐξάρατε (V-AAD-2P) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-[Les escribí en mi carta que no se asocien con personas inmorales.]
+### 1Corintios 6:1
 
-- ἔγραψα (V-AAI-1S) ==escribí== [F]
-- συναναμίγνυσθαι (V-PMN) asociarse [NF]
+Τολμᾷ τις ὑμῶν πρᾶγμα ἔχων πρὸς τὸν ἕτερον κρίνεσθαι ἐπὶ τῶν ἀδίκων, καὶ οὐχὶ ἐπὶ τῶν ἁγίων;
 
----
+[¿Se atreve alguno de ustedes, cuando tiene algo contra su prójimo, a ir a juicio ante los incrédulos y no ante los santos?]
 
-### 1 Corintios 5:10 {#1co-5-10}
+- Τολμᾷ (V-PAI-3S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-οὐ πάντως τοῖς πόρνοις τοῦ κόσμου τούτου ἢ τοῖς πλεονέκταις καὶ ἅρπαξιν ἢ εἰδωλολάτραις ἐπεὶ ὤφειλετε ἄρα ἐκ τοῦ κόσμου ἐξελθεῖν
+### 1Corintios 6:2
 
-[no en el sentido de que se asocien con los inmorales de este mundo, o con los avaros y estafadores, o con los idólatras, pues entonces tendrían que salir del mundo.]
+⸀ἢ οὐκ οἴδατε ὅτι οἱ ἅγιοι τὸν κόσμον κρινοῦσιν; καὶ εἰ ἐν ὑμῖν κρίνεται ὁ κόσμος, ἀνάξιοί ἐστε κριτηρίων ἐλαχίστων;
 
-- ὤφειλετε (V-IAI-2P) ==tendrían== [F]
-- ἐξελθεῖν (V-AAN) salir [NF]
+[¿O no saben que los santos han de juzgar al mundo? Y si el mundo es juzgado por ustedes, ¿no son competentes para juzgar los casos más sencillos?]
 
-   - καὶ → (y)
+- οἴδατε (V-XAI-2P) ==es juzgado== [F]
+- κρινοῦσιν; (V-FAI-3P) ==son== [F]
+- κρίνεται (V-PPI-3S) ==??== [F]
+- ἐστε (V-PAI-2P) ==??== [F]
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 6:3
 
-### 1 Corintios 5:11 {#1co-5-11}
+οὐκ οἴδατε ὅτι ἀγγέλους κρινοῦμεν, μήτιγε βιωτικά;
 
-νῦν δὲ ἔγραψα ὑμῖν μὴ συναναμίγνυσθαι ἐάν τις ἀδελφὸς ὀνομαζόμενος ᾖ πόρνος ἢ πλεονέκτης ἢ εἰδωλολάτρης ἢ λοίδορος ἢ μέθυσος ἢ ἅρπαξ τῷ τοιούτῳ μηδὲ συνεσθίειν
+[¿No saben que hemos de juzgar a los ángeles? ¡Cuánto más asuntos de esta vida!]
 
-[Pero en realidad les escribí que no se asocien con ninguno que, llamándose hermano, es inmoral, o avaro, o idólatra, o insultador, o borracho, o estafador; con el tal ni siquiera coman.]
+- οἴδατε (V-XAI-2P) ==??== [F]
+- κρινοῦμεν, (V-FAI-1P) ==??== [F]
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
 
-- ἔγραψα (V-AAI-1S) ==escribí== [F]
-- ᾖ (V-PAS-3S) sea [F]
-- συνεσθίειν (V-PAN) comer [NF]
+### 1Corintios 6:4
 
-   - δὲ → (pero)
-   - ἐάν → (si)
+βιωτικὰ μὲν οὖν κριτήρια ἐὰν ἔχητε, τοὺς ἐξουθενημένους ἐν τῇ ἐκκλησίᾳ, τούτους καθίζετε;
 
----
+[Entonces, si tienen tribunales que juzgan los casos de esta vida, ¿por qué ponen por jueces a los que nada son en la iglesia?]
 
-### 1 Corintios 5:12 {#1co-5-12}
+- ἔχητε, (V-PAS-2P) ==qué== [F]
+- καθίζετε; (V-PAI-2P) ==son== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-τί γάρ μοι τοὺς ἔξω κρίνειν οὐχὶ τοὺς ἔσω ὑμεῖς κρίνετε
+### 1Corintios 6:5
 
-[Porque, ¿qué tengo yo que ver con juzgar a los de afuera? ¿No juzgan ustedes a los de adentro?]
+πρὸς ἐντροπὴν ὑμῖν λέγω. οὕτως οὐκ ἔνι ἐν ὑμῖν ⸂οὐδεὶς σοφὸς⸃ ὃς δυνήσεται διακρῖναι ἀνὰ μέσον τοῦ ⸀ἀδελφοῦ αὐτοῦ,
 
-- κρίνειν (V-PAN) juzgar [NF]
-- κρίνετε (V-PAI-2P) ==juzgan== [F]
+[Para vergüenza suya lo digo. ¿Acaso no hay entre ustedes algún hombre sabio que pueda juzgar entre sus hermanos,]
 
-   - γάρ → (porque)
+- λέγω. (V-PAI-1S) ==??== [F]
+- ἔνι (V-PAI-3S) ==??== [F]
+- δυνήσεται (V-FMI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 6:6
 
-### 1 Corintios 5:13 {#1co-5-13}
+ἀλλὰ ἀδελφὸς μετὰ ἀδελφοῦ κρίνεται, καὶ τοῦτο ἐπὶ ἀπίστων;
 
-τοὺς δὲ ἔξω ὁ θεὸς κρίνει ἐξάρατε τὸν πονηρὸν ἐξ ὑμῶν αὐτῶν
+[sino que hermano contra hermano litiga, y esto ante incrédulos?]
 
-[Pero a los de afuera Dios juzga. Expulsen al malvado de entre ustedes.]
+- κρίνεται, (V-PPI-3S) ==??== [F]
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-- κρίνει (V-PAI-3S) ==juzga== [F]
-- ἐξάρατε (V-AAM-2P) expulsen [F]
+### 1Corintios 6:7
 
-   - δὲ → (pero)
+ἤδη μὲν ⸀οὖν ὅλως ἥττημα ὑμῖν ἐστιν ὅτι κρίματα ἔχετε μεθ’ ἑαυτῶν· διὰ τί οὐχὶ μᾶλλον ἀδικεῖσθε; διὰ τί οὐχὶ μᾶλλον ἀποστερεῖσθε;
 
-### 1 Corintios 6:1 {#1co-6-1}
-
-Τολμᾷ τις ὑμῶν πρᾶγμα ἔχων πρὸς τὸν ἕτερον κρίνεσθαι ἐπὶ τῶν ἀδίκων καὶ οὐχὶ ἐπὶ τῶν ἁγίων
-
-[¿Se atreve alguno de ustedes, cuando tiene algo contra otro, a ir a juicio delante de los injustos y no delante de los santos?]
-
-- Τολμᾷ (V-PAI-3S) ==se atreve== [F]
-- ἔχων (V-PAP-NSM) teniendo [NF]
-- κρίνεσθαι (V-PMN) ir a juicio [NF]
-
----
-
-### 1 Corintios 6:2 {#1co-6-2}
-
-ἢ οὐκ οἴδατε ὅτι οἱ ἅγιοι τὸν κόσμον κρινοῦσιν καὶ εἰ ἐν ὑμῖν κρίνεται ὁ κόσμος ἀνάξιοί ἐστε κριτηρίων ἐλαχίστων
-
-[¿O no saben que los santos juzgarán al mundo? Y si el mundo es juzgado por ustedes, ¿son indignos de juzgar cosas muy pequeñas?]
-
-- οἴδατε (V-RAI-2P) ==saben== [F]
-- κρινοῦσιν (V-FAI-3P) ==juzgarán== [F]
-- κρίνεται (V-PPI-3S) ==es juzgado== [F]
-- ἐστε (V-PAI-2P) ==son== [F]
-
-   - ὅτι → (que)
-   - καί → (y)
-
----
-
-### 1 Corintios 6:3 {#1co-6-3}
-
-οὐκ οἴδατε ὅτι ἀγγέλους κρινοῦμεν μήτιγε βιωτικά
-
-[¿No saben que juzgaremos a los ángeles? ¿Cuánto más las cosas de esta vida?]
-
-- οἴδατε (V-RAI-2P) ==saben== [F]
-- κρινοῦμεν (V-FAI-1P) ==juzgaremos== [F]
-
-   - ὅτι → (que)
-
----
-
-### 1 Corintios 6:4 {#1co-6-4}
-
-βιωτικὰ μὲν οὖν κριτήρια ἐὰν ἔχητε τοὺς ἐξουθενημένους ἐν τῇ ἐκκλησίᾳ τούτους καθίζετε
-
-[Si tienen tribunales que juzgan asuntos de esta vida, ¿ponen como jueces a los que son de menos estima en la iglesia?]
-
-- ἔχητε (V-PAS-2P) tengan [F]
-- καθίζετε (V-PAM-2P) pongan [F]
-
-   - οὖν → (entonces)
-   - ἐὰν → (si)
-
----
-
-### 1 Corintios 6:5 {#1co-6-5}
-
-πρὸς ἐντροπὴν ὑμῖν λέγω οὕτως οὐκ ἔνι ἐν ὑμῖν οὐδεὶς σοφὸς ὃς δυνήσεται διακρῖναι ἀνὰ μέσον τοῦ ἀδελφοῦ αὐτοῦ
-
-[Para vergüenza de ustedes lo digo. ¿No hay entre ustedes ni siquiera un hombre sabio que pueda decidir entre sus hermanos?]
-
-- λέγω (V-PAI-1S) ==digo== [F]
-- ἔνι (V-PXI-3S) ==hay== [F]
-- δυνήσεται (V-FMI-3S) ==podrá== [F]
-- διακρῖναι (V-AAN) decidir [NF]
-
----
-
-### 1 Corintios 6:6 {#1co-6-6}
-
-ἀλλὰ ἀδελφὸς μετὰ ἀδελφοῦ κρίνεται καὶ τοῦτο ἐπὶ ἀπίστων
-
-[Sino que un hermano va a juicio contra otro hermano, y esto ante incrédulos.]
-
-- κρίνεται (V-PPI-3S) ==va a juicio== [F]
-
-   - ἀλλὰ → (sino)
-   - καί → (y)
-
----
-
-### 1 Corintios 6:7 {#1co-6-7}
-
-ἤδη μὲν οὖν ὅλως ἥττημα ὑμῖν ἐστιν ὅτι κρίματα ἔχετε μεθʼ ἑαυτῶν διὰ τί οὐχὶ μᾶλλον ἀδικεῖσθε διὰ τί οὐχὶ μᾶλλον ἀποστερεῖσθε
-
-[Así que, en efecto, ya es una derrota para ustedes que tengan litigios entre ustedes. ¿Por qué no sufren más bien la injusticia? ¿Por qué no son más bien defraudados?]
+[Así que, en efecto, es ya un fallo entre ustedes el hecho de que tengan litigios entre sí. ¿Por qué no sufren mejor la injusticia? ¿Por qué no ser mejor defraudados?]
 
 - ἐστιν (V-PAI-3S) ==es== [F]
-- ἔχετε (V-PAI-2P) ==tienen== [F]
-- ἀδικεῖσθε (V-PPI-2P) ==sufren== [F]
-- ἀποστερεῖσθε (V-PPI-2P) ==son defraudados== [F]
+- ἔχετε (V-PAI-2P) ==qué== [F]
+- ἀδικεῖσθε; (V-PPI-2P) ==qué== [F]
+- ἀποστερεῖσθε; (V-PPI-2P) ==??== [F]
+- ὅτι [DEP] → [que]
+  A: "es" → B: "qué"
+- δέ [CORD] → [pero]
+  A: "es" → B: "qué"
 
-   - οὖν → (así que)
-   - ὅτι → (que)
+### 1Corintios 6:8
 
----
+ἀλλὰ ὑμεῖς ἀδικεῖτε καὶ ἀποστερεῖτε, καὶ ⸀τοῦτο ἀδελφούς.
 
-### 1 Corintios 6:8 {#1co-6-8}
+[Por el contrario, ustedes mismos cometen injusticias y defraudan, y esto aun a sus propios hermanos.]
 
-ἀλλὰ ὑμεῖς ἀδικεῖτε καὶ ἀποστερεῖτε καὶ ταῦτα ἀδελφούς
+- ἀδικεῖτε (V-PAI-2P) ==??== [F]
+- ἀποστερεῖτε, (V-PAI-2P) ==??== [F]
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-[Al contrario, ustedes mismos hacen injusticia y defraudan, y esto a sus hermanos.]
+### 1Corintios 6:9
 
-- ἀδικεῖτε (V-PAI-2P) ==hacen injusticia== [F]
-- ἀποστερεῖτε (V-PAI-2P) ==defraudan== [F]
+Ἢ οὐκ οἴδατε ὅτι ἄδικοι ⸂θεοῦ βασιλείαν⸃ οὐ κληρονομήσουσιν; μὴ πλανᾶσθε· οὔτε πόρνοι οὔτε εἰδωλολάτραι οὔτε μοιχοὶ οὔτε μαλακοὶ οὔτε ἀρσενοκοῖται
 
-   - ἀλλὰ → (al contrario)
-   - καί → (y)
+[¿O no saben que los injustos no heredarán el reino de Dios? No se dejen engañar: ni los inmorales, ni los idólatras, ni los adúlteros, ni los afeminados, ni los homosexuales,]
 
----
+- οἴδατε (V-XAI-2P) ==??== [F]
+- κληρονομήσουσιν; (V-FAI-3P) ==??== [F]
+- πλανᾶσθε· (V-PPD-2P) ==??== [F]
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 6:9 {#1co-6-9}
+### 1Corintios 6:10
 
-ἢ οὐκ οἴδατε ὅτι ἄδικοι θεοῦ βασιλείαν οὐ κληρονομήσουσιν μὴ πλανᾶσθε οὔτε πόρνοι οὔτε εἰδωλολάτραι οὔτε μοιχοὶ οὔτε μαλακοὶ οὔτε ἀρσενοκοῖται
-
-[¿O no saben que los injustos no heredarán el reino de Dios? No se dejen engañar: ni los inmorales, ni los idólatras, ni los adúlteros, ni los afeminados, ni los homosexuales.]
-
-- οἴδατε (V-RAI-2P) ==saben== [F]
-- κληρονομήσουσιν (V-FAI-3P) ==heredarán== [F]
-- πλανᾶσθε (V-PMM-2P) no se dejen engañar [F]
-
-   - ὅτι → (que)
-
----
-
-### 1 Corintios 6:10 {#1co-6-10}
-
-οὔτε κλέπται οὔτε πλεονέκται οὐ μέθυσοι οὐ λοίδοροι οὐχ ἅρπαγες βασιλείαν θεοῦ κληρονομήσουσιν
+οὔτε ⸂κλέπται οὔτε πλεονέκται⸃, ⸀οὐ μέθυσοι, οὐ λοίδοροι, οὐχ ἅρπαγες βασιλείαν ⸀θεοῦ κληρονομήσουσιν.
 
 [ni los ladrones, ni los avaros, ni los borrachos, ni los difamadores, ni los estafadores heredarán el reino de Dios.]
 
-- κληρονομήσουσιν (V-FAI-3P) ==heredarán== [F]
+- κληρονομήσουσιν. (V-FAI-3P) ==??== [F]
 
----
+### 1Corintios 6:11
 
-### 1 Corintios 6:11 {#1co-6-11}
-
-καὶ ταῦτά τινες ἦτε ἀλλὰ ἀπελούσασθε ἀλλὰ ἡγιάσθητε ἀλλὰ ἐδικαιώθητε ἐν τῷ ὀνόματι τοῦ κυρίου Ἰησοῦ καὶ ἐν τῷ πνεύματι τοῦ θεοῦ ἡμῶν
+καὶ ταῦτά τινες ἦτε· ἀλλὰ ἀπελούσασθε, ἀλλὰ ἡγιάσθητε, ἀλλὰ ἐδικαιώθητε ἐν τῷ ὀνόματι τοῦ κυρίου ⸀Ἰησοῦ καὶ ἐν τῷ πνεύματι τοῦ θεοῦ ἡμῶν.
 
 [Y esto eran algunos de ustedes; pero fueron lavados, pero fueron santificados, pero fueron justificados en el nombre del Señor Jesucristo y en el Espíritu de nuestro Dios.]
 
-- ἦτε (V-IAI-2P) ==eran== [F]
-- ἀπελούσασθε (V-AMI-2P) ==fueron lavados== [F]
-- ἡγιάσθητε (V-API-2P) ==fueron santificados== [F]
-- ἐδικαιώθητε (V-API-2P) ==fueron justificados== [F]
+- ἦτε· (V-IAI-2P) ==fueron lavados== [F]
+- ἀπελούσασθε, (V-AMI-2P) ==fueron santificados== [F]
+- ἡγιάσθητε, (V-API-2P) ==fueron justificados== [F]
+- ἐδικαιώθητε (V-API-2P) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
 
-   - καί → (y)
-   - ἀλλὰ → (pero)
+### 1Corintios 6:12
 
----
+Πάντα μοι ἔξεστιν· ἀλλ’ οὐ πάντα συμφέρει. πάντα μοι ἔξεστιν· ἀλλ’ οὐκ ἐγὼ ἐξουσιασθήσομαι ὑπό τινος.
 
-### 1 Corintios 6:12 {#1co-6-12}
+[Todas las cosas me son lícitas, pero no todas son de provecho. Todas las cosas me son lícitas, pero yo no me dejaré dominar por ninguna.]
 
-Πάντα μοι ἔξεστιν ἀλλʼ οὐ πάντα συμφέρει πάντα μοι ἔξεστιν ἀλλʼ οὐκ ἐγὼ ἐξουσιασθήσομαι ὑπό τινος
+- ἔξεστιν· (V-PAI-3S) ==son== [F]
+- συμφέρει. (V-PAI-3S) ==son== [F]
+- ἔξεστιν· (V-PAI-3S) ==son== [F]
+- ἐξουσιασθήσομαι (V-FPI-1S) ==dejaré== [F]
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
 
-[Todo me es lícito, pero no todo conviene. Todo me es lícito, pero yo no me dejaré dominar por nada.]
+### 1Corintios 6:13
 
-- ἔξεστιν (V-PXI-3S) ==es lícito== [F]
-- συμφέρει (V-PAI-3S) ==conviene== [F]
-- ἐξουσιασθήσομαι (V-FPI-1S) ==me dejaré dominar== [F]
+τὰ βρώματα τῇ κοιλίᾳ, καὶ ἡ κοιλία τοῖς βρώμασιν· ὁ δὲ θεὸς καὶ ταύτην καὶ ταῦτα καταργήσει. τὸ δὲ σῶμα οὐ τῇ πορνείᾳ ἀλλὰ τῷ κυρίῳ, καὶ ὁ κύριος τῷ σώματι·
 
-   - ἀλλʼ → (pero)
+[Los alimentos son para el estómago y el estómago para los alimentos, pero Dios destruirá a los dos. Sin embargo, el cuerpo no es para la fornicación, sino para el Señor, y el Señor es para el cuerpo.]
 
----
+- καταργήσει. (V-FAI-3S) ==son== [F]
+- καί [CORD] → [y]
+  A: "son" → B: "es"
+- δέ [CORD] → [pero]
+  A: "son" → B: "es"
+- ἀλλά [CORD] → [sino]
+  A: "son" → B: "es"
 
-### 1 Corintios 6:13 {#1co-6-13}
+### 1Corintios 6:14
 
-τὰ βρώματα τῇ κοιλίᾳ καὶ ἡ κοιλία τοῖς βρώμασιν ὁ δὲ θεὸς καὶ ταύτην καὶ ταῦτα καταργήσει τὸ δὲ σῶμα οὐ τῇ πορνείᾳ ἀλλὰ τῷ κυρίῳ καὶ ὁ κύριος τῷ σώματι
+ὁ δὲ θεὸς καὶ τὸν κύριον ἤγειρεν καὶ ἡμᾶς ἐξεγερεῖ διὰ τῆς δυνάμεως αὐτοῦ.
 
-[Los alimentos para el estómago y el estómago para los alimentos; pero Dios destruirá tanto a uno como a los otros. Sin embargo, el cuerpo no es para la inmoralidad, sino para el Señor, y el Señor para el cuerpo.]
-
-- καταργήσει (V-FAI-3S) ==destruirá== [F]
-
-   - δὲ → (pero)
-   - καί → (y)
-   - ἀλλὰ → (sino)
-
----
-
-### 1 Corintios 6:14 {#1co-6-14}
-
-ὁ δὲ θεὸς καὶ τὸν κύριον ἤγειρεν καὶ ἡμᾶς ἐξεγερεῖ διὰ τῆς δυνάμεως αὐτοῦ
-
-[Y Dios que resucitó al Señor, también nos resucitará a nosotros por su poder.]
+[Y Dios, que resucitó al Señor, también nos resucitará a nosotros mediante Su poder.]
 
 - ἤγειρεν (V-AAI-3S) ==resucitó== [F]
-- ἐξεγερεῖ (V-FAI-3S) ==resucitará== [F]
+- ἐξεγερεῖ (V-FAI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-   - δὲ → (y)
-   - καί → (también)
+### 1Corintios 6:15
 
----
+οὐκ οἴδατε ὅτι τὰ σώματα ὑμῶν μέλη Χριστοῦ ἐστιν; ἄρας οὖν τὰ μέλη τοῦ Χριστοῦ ποιήσω πόρνης μέλη; μὴ γένοιτο.
 
-### 1 Corintios 6:15 {#1co-6-15}
+[¿No saben que sus cuerpos son miembros de Cristo? ¿Tomaré, acaso, los miembros de Cristo y los haré miembros de una ramera? ¡De ningún modo!]
 
-οὐκ οἴδατε ὅτι τὰ σώματα ὑμῶν μέλη Χριστοῦ ἐστιν ἄρας οὖν τὰ μέλη τοῦ Χριστοῦ ποιήσω πόρνης μέλη μὴ γένοιτο
+- οἴδατε (V-XAI-2P) ==son== [F]
+- ἐστιν; (V-PAI-3S) ==¿tomaré== [F]
+- ποιήσω (V-AAS-1S) ==haré== [F]
+- γένοιτο. (V-AMO-3S) ==??== [F]
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-[¿No saben que sus cuerpos son miembros de Cristo? ¿Tomaré entonces los miembros de Cristo y los haré miembros de una ramera? ¡De ningún modo!]
+### 1Corintios 6:16
 
-- οἴδατε (V-RAI-2P) ==saben== [F]
-- ἐστιν (V-PAI-3S) ==son== [F]
-- ποιήσω (V-AAS-1S) haré [F]
-- γένοιτο (V-AMO-3S) ¡de ningún modo! [F]
+⸀ἢ οὐκ οἴδατε ὅτι ὁ κολλώμενος τῇ πόρνῃ ἓν σῶμά ἐστιν; Ἔσονται γάρ, φησίν, οἱ δύο εἰς σάρκα μίαν.
 
-   - ὅτι → (que)
-   - οὖν → (entonces)
+[¿O no saben que el que se une a una ramera es un cuerpo con ella? Porque Él dice: «LOS DOS VENDRÁN A SER UNA SOLA CARNE».]
 
----
+- οἴδατε (V-XAI-2P) ==es== [F]
+- ἐστιν; (V-PAI-3S) ==??== [F]
+- Ἔσονται (V-FMI-3P) ==??== [F]
+- φησίν, (V-PAI-3S) ==??== [F]
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 6:16 {#1co-6-16}
+### 1Corintios 6:17
 
-ἢ οὐκ οἴδατε ὅτι ὁ κολλώμενος τῇ πόρνῃ ἓν σῶμά ἐστιν ἔσονται γάρ φησίν οἱ δύο εἰς σάρκα μίαν
+ὁ δὲ κολλώμενος τῷ κυρίῳ ἓν πνεῦμά ἐστιν.
 
-[¿O no saben que el que se une a una ramera es un solo cuerpo con ella? Porque dice: “Los dos vendrán a ser una sola carne”.]
+[Pero el que se une al Señor, es un espíritu con Él.]
 
-- οἴδατε (V-RAI-2P) ==saben== [F]
-- ἐστιν (V-PAI-3S) ==es== [F]
-- ἔσονται (V-FMI-3P) ==serán== [F]
-- φησίν (V-PAI-3S) ==dice== [F]
+- ἐστιν. (V-PAI-3S) ==es== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-   - ὅτι → (que)
-   - γάρ → (porque)
+### 1Corintios 6:18
 
----
+φεύγετε τὴν πορνείαν· πᾶν ἁμάρτημα ὃ ἐὰν ποιήσῃ ἄνθρωπος ἐκτὸς τοῦ σώματός ἐστιν, ὁ δὲ πορνεύων εἰς τὸ ἴδιον σῶμα ἁμαρτάνει.
 
-### 1 Corintios 6:17 {#1co-6-17}
+[Huyan de la fornicación. Todos los demás pecados que un hombre comete están fuera del cuerpo, pero el fornicario peca contra su propio cuerpo.]
 
-ὁ δὲ κολλώμενος τῷ κυρίῳ ἓν πνεῦμά ἐστιν
+- φεύγετε (V-PAD-2P) ==??== [F]
+- ποιήσῃ (V-AAS-3S) ==??== [F]
+- ἐστιν, (V-PAI-3S) ==??== [F]
+- ἁμαρτάνει. (V-PAI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-[Pero el que se une al Señor es un solo espíritu.]
+### 1Corintios 6:19
 
-- ἐστιν (V-PAI-3S) ==es== [F]
+ἢ οὐκ οἴδατε ὅτι τὸ σῶμα ὑμῶν ναὸς τοῦ ἐν ὑμῖν ἁγίου πνεύματός ἐστιν, οὗ ἔχετε ἀπὸ θεοῦ; καὶ οὐκ ἐστὲ ἑαυτῶν,
 
-   - δὲ → (pero)
+[¿O no saben que su cuerpo es templo del Espíritu Santo que está en ustedes, el cual tienen de Dios, y que ustedes no se pertenecen a sí mismos?]
 
----
+- οἴδατε (V-XAI-2P) ==es== [F]
+- ἐστιν, (V-PAI-3S) ==??== [F]
+- ἔχετε (V-PAI-2P) ==??== [F]
+- ἐστὲ (V-PAI-2P) ==??== [F]
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 6:18 {#1co-6-18}
+### 1Corintios 6:20
 
-φεύγετε τὴν πορνείαν πᾶν ἁμάρτημα ὃ ἐὰν ποιήσῃ ἄνθρωπος ἐκτὸς τοῦ σώματός ἐστιν ὁ δὲ πορνεύων εἰς τὸ ἴδιον σῶμα ἁμαρτάνει
+ἠγοράσθητε γὰρ τιμῆς· δοξάσατε δὴ τὸν θεὸν ἐν τῷ σώματι ⸀ὑμῶν.
 
-[Huyan de la inmoralidad. Cualquier otro pecado que el hombre comete está fuera del cuerpo, pero el inmoral peca contra su propio cuerpo.]
+[Porque han sido comprados por un precio. Por tanto, glorifiquen a Dios en su cuerpo y en su espíritu, los cuales son de Dios.]
 
-- φεύγετε (V-PAM-2P) huyan [F]
-- ποιήσῃ (V-AAS-3S) cometa [F]
-- ἐστιν (V-PAI-3S) ==está== [F]
-- ἁμαρτάνει (V-PAI-3S) ==peca== [F]
+- ἠγοράσθητε (V-API-2P) ==son== [F]
+- δοξάσατε (V-AAD-2P) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-   - δὲ → (pero)
+### 1Corintios 7:1
 
----
-
-### 1 Corintios 6:19 {#1co-6-19}
-
-ἢ οὐκ οἴδατε ὅτι τὸ σῶμα ὑμῶν ναὸς τοῦ ἐν ὑμῖν ἁγίου πνεύματός ἐστιν οὗ ἔχετε ἀπὸ θεοῦ καὶ οὐκ ἐστὲ ἑαυτῶν
-
-[¿O no saben que su cuerpo es templo del Espíritu Santo que está en ustedes, el cual tienen de Dios, y que no son de ustedes mismos?]
-
-- οἴδατε (V-RAI-2P) ==saben== [F]
-- ἐστιν (V-PAI-3S) ==es== [F]
-- ἔχετε (V-PAI-2P) ==tienen== [F]
-- ἐστὲ (V-PAI-2P) ==son== [F]
-
-   - ὅτι → (que)
-   - καί → (y)
-
----
-
-### 1 Corintios 6:20 {#1co-6-20}
-
-ἠγοράσθητε γὰρ τιμῆς δοξάσατε δὴ τὸν θεὸν ἐν τῷ σώματι ὑμῶν
-
-[Porque han sido comprados por precio; por tanto, glorifiquen a Dios en su cuerpo.]
-
-- ἠγοράσθητε (V-API-2P) ==han sido comprados== [F]
-- δοξάσατε (V-AAM-2P) glorifiquen [F]
-
-   - γὰρ → (porque)
-
-### 1 Corintios 7:1 {#1co-7-1}
-
-Περὶ δὲ ὧν ἐγράψατε καλὸν ἀνθρώπῳ γυναικὸς μὴ ἅπτεσθαι
+Περὶ δὲ ὧν ⸀ἐγράψατε, καλὸν ἀνθρώπῳ γυναικὸς μὴ ἅπτεσθαι·
 
 [En cuanto a las cosas de que me escribieron, bueno es para el hombre no tocar mujer.]
 
-- ἐγράψατε (V-AAI-2P) ==escribieron== [F]
-- ἅπτεσθαι (V-PMN) tocar [NF]
+- ⸀ἐγράψατε, (V-AAI-2P) ==escribieron== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-   - δὲ → (en cuanto a)
+### 1Corintios 7:2
 
----
+διὰ δὲ τὰς πορνείας ἕκαστος τὴν ἑαυτοῦ γυναῖκα ἐχέτω, καὶ ἑκάστη τὸν ἴδιον ἄνδρα ἐχέτω.
 
-### 1 Corintios 7:2 {#1co-7-2}
+[No obstante, por razón de las inmoralidades, que cada uno tenga su propia mujer, y cada una tenga su propio marido.]
+
+- ἐχέτω, (V-PAD-3S) ==??== [F]
+- ἐχέτω. (V-PAD-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-διὰ δὲ τὰς πορνείας ἕκαστος τὴν ἑαυτοῦ γυναῖκα ἐχέτω καὶ ἑκάστη τὸν ἴδιον ἄνδρα ἐχέτω
+### 1Corintios 7:3
 
-[Pero por causa de las inmoralidades, cada uno tenga su propia mujer, y cada una tenga su propio marido.]
+τῇ γυναικὶ ὁ ἀνὴρ τὴν ⸀ὀφειλὴν ἀποδιδότω, ὁμοίως δὲ καὶ ἡ γυνὴ τῷ ἀνδρί.
 
-- ἐχέτω (V-PAM-3S) tenga [F]
-- ἐχέτω (V-PAM-3S) tenga [F]
+[Que el marido cumpla su deber para con su mujer, e igualmente la mujer lo cumpla con el marido.]
 
-   - δὲ → (pero)
-   - καί → (y)
+- ἀποδιδότω, (V-PAD-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 7:4
 
-### 1 Corintios 7:3 {#1co-7-3}
+ἡ γυνὴ τοῦ ἰδίου σώματος οὐκ ἐξουσιάζει ἀλλὰ ὁ ἀνήρ· ὁμοίως δὲ καὶ ὁ ἀνὴρ τοῦ ἰδίου σώματος οὐκ ἐξουσιάζει ἀλλὰ ἡ γυνή.
 
-τῇ γυναικὶ ὁ ἀνὴρ τὴν ὀφειλὴν ἀποδιδότω ὁμοίως δὲ καὶ ἡ γυνὴ τῷ ἀνδρί
+[La mujer no tiene autoridad sobre su propio cuerpo, sino el marido. Y asimismo el marido no tiene autoridad sobre su propio cuerpo, sino la mujer.]
 
-[Que el marido cumpla con la mujer su deber, y asimismo la mujer con el marido.]
+- ἐξουσιάζει (V-PAI-3S) ==??== [F]
+- ἐξουσιάζει (V-PAI-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-- ἀποδιδότω (V-PAM-3S) cumpla [F]
+### 1Corintios 7:5
 
-   - δὲ → (asimismo)
-   - καί → (y)
+μὴ ἀποστερεῖτε ἀλλήλους, εἰ μήτι ἂν ἐκ συμφώνου πρὸς καιρὸν ἵνα ⸀σχολάσητε ⸀τῇ προσευχῇ καὶ πάλιν ἐπὶ τὸ αὐτὸ ⸀ἦτε, ἵνα μὴ πειράζῃ ὑμᾶς ὁ Σατανᾶς διὰ τὴν ἀκρασίαν ὑμῶν.
 
----
+[No se priven el uno del otro, excepto de común acuerdo y por cierto tiempo, para dedicarse a la oración. Vuelvan después a juntarse, a fin de que Satanás no los tiente por causa de falta de dominio propio.]
 
-### 1 Corintios 7:4 {#1co-7-4}
+- ἀποστερεῖτε (V-PAD-2P) ==??== [F]
+- ⸀σχολάσητε (V-AAS-2P) ==??== [F]
+- ⸀ἦτε, (V-PAS-2P) ==??== [F]
+- πειράζῃ (V-PAS-3S) ==??== [F]
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-ἡ γυνὴ τοῦ ἰδίου σώματος οὐκ ἐξουσιάζει ἀλλʼ ὁ ἀνήρ ὁμοίως δὲ καὶ ὁ ἀνὴρ τοῦ ἰδίου σώματος οὐκ ἐξουσιάζει ἀλλʼ ἡ γυνή
+### 1Corintios 7:6
 
-[La mujer no tiene autoridad sobre su propio cuerpo, sino el marido; y asimismo el marido no tiene autoridad sobre su propio cuerpo, sino la mujer.]
+τοῦτο δὲ λέγω κατὰ συγγνώμην, οὐ κατ’ ἐπιταγήν.
 
-- ἐξουσιάζει (V-PAI-3S) ==tiene autoridad== [F]
-- ἐξουσιάζει (V-PAI-3S) ==tiene autoridad== [F]
+[Pero esto lo digo por vía de concesión, no como una orden.]
 
-   - ἀλλʼ → (sino)
-   - δὲ → (asimismo)
-   - καί → (y)
+- λέγω (V-PAI-1S) ==vía== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 7:7
 
-### 1 Corintios 7:5 {#1co-7-5}
+θέλω ⸀δὲ πάντας ἀνθρώπους εἶναι ὡς καὶ ἐμαυτόν· ἀλλὰ ἕκαστος ἴδιον ⸂ἔχει χάρισμα⸃ ἐκ θεοῦ, ⸀ὁ μὲν οὕτως, ⸁ὁ δὲ οὕτως.
 
-μὴ ἀποστερεῖτε ἀλλήλους εἰ μήτι ἂν ἐκ συμφώνου πρὸς καιρὸν ἵνα σχολάσητε τῇ προσευχῇ καὶ πάλιν ἐπὶ τὸ αὐτὸ ἦτε ἵνα μὴ πειράζῃ ὑμᾶς ὁ σατανᾶς διὰ τὴν ἀκρασίαν ὑμῶν
+[Sin embargo, yo desearía que todos los hombres fueran como yo. No obstante, cada cual ha recibido de Dios su propio don, unos de una manera y otros de otra.]
 
-[No se priven el uno al otro, a no ser de común acuerdo por cierto tiempo, para dedicarse a la oración; y vuelvan a juntarse para que Satanás no los tiente a causa de su falta de dominio propio.]
+- θέλω (V-PAI-1S) ==desearía== [F]
+- ⸂ἔχει (V-PAI-3S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-- ἀποστερεῖτε (V-PAM-2P) priven [F]
-- σχολάσητε (V-AAS-2P) se dediquen [F]
-- ἦτε (V-PAS-2P) estén [F]
-- πειράζῃ (V-PAS-3S) tiente [F]
+### 1Corintios 7:8
 
-   - ἀλλʼ → (sino)
-   - ἵνα → (para que)
-   - καί → (y)
+Λέγω δὲ τοῖς ἀγάμοις καὶ ταῖς χήραις, καλὸν ⸀αὐτοῖς ἐὰν μείνωσιν ὡς κἀγώ·
 
----
+[A los solteros y a las viudas digo que es bueno para ellos si se quedan como yo.]
 
-### 1 Corintios 7:6 {#1co-7-6}
+- Λέγω (V-PAI-1S) ==es== [F]
+- μείνωσιν (V-AAS-3P) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-τοῦτο δὲ λέγω κατὰ συγγνώμην οὐ κατʼ ἐπιταγήν
+### 1Corintios 7:9
 
-[Pero esto digo a manera de concesión, no como mandato.]
+εἰ δὲ οὐκ ἐγκρατεύονται, γαμησάτωσαν, κρεῖττον γάρ ἐστιν ⸀γαμῆσαι ἢ πυροῦσθαι.
 
-- λέγω (V-PAI-1S) ==digo== [F]
+[Pero si carecen de dominio propio, cásense. Que mejor es casarse que quemarse.]
 
-   - δὲ → (pero)
+- ἐγκρατεύονται, (V-PMI-3P) ==es== [F]
+- γαμησάτωσαν, (V-AAD-3P) ==??== [F]
+- ἐστιν (V-PAI-3S) ==??== [F]
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 7:10
 
-### 1 Corintios 7:7 {#1co-7-7}
+Τοῖς δὲ γεγαμηκόσιν παραγγέλλω, οὐκ ἐγὼ ἀλλὰ ὁ κύριος, γυναῖκα ἀπὸ ἀνδρὸς μὴ χωρισθῆναι—
 
-θέλω δὲ πάντας ἀνθρώπους εἶναι ὡς καὶ ἐμαυτόν ἀλλʼ ἕκαστος ἴδιον ἔχει χάρισμα ἐκ θεοῦ ὁ μὲν οὕτως ὁ δὲ οὕτως
+[A los casados instruyo, no yo, sino el Señor: que la mujer no debe dejar al marido.]
 
-[Sin embargo, quisiera que todos los hombres fueran como yo mismo; pero cada uno tiene su propio don de Dios, uno de una manera, y otro de otra.]
+- παραγγέλλω, (V-PAI-1S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
 
-- θέλω (V-PAI-1S) ==quiero== [F]
-- εἶναι (V-PAN) ser [NF]
-- ἔχει (V-PAI-3S) ==tiene== [F]
+### 1Corintios 7:11
 
-   - δὲ → (sin embargo)
-   - καί → (también)
-   - ἀλλʼ → (pero)
+ἐὰν δὲ καὶ χωρισθῇ, μενέτω ἄγαμος ἢ τῷ ἀνδρὶ καταλλαγήτω— καὶ ἄνδρα γυναῖκα μὴ ἀφιέναι.
 
----
+[Pero si lo deja, quédese sin casar, o de lo contrario que se reconcilie con su marido, y que el marido no abandone a su mujer.]
 
-### 1 Corintios 7:8 {#1co-7-8}
+- χωρισθῇ, (V-APS-3S) ==??== [F]
+- μενέτω (V-PAD-3S) ==??== [F]
+- καταλλαγήτω— (V-APD-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-λέγω δὲ τοῖς ἀγάμοις καὶ ταῖς χήραις καλὸν αὐτοῖς ἐὰν μείνωσιν ὡς κἀγώ
+### 1Corintios 7:12
 
-[Digo, pues, a los solteros y a las viudas que es bueno para ellos si permanecen como yo.]
+Τοῖς δὲ λοιποῖς ⸂λέγω ἐγώ⸃, οὐχ ὁ κύριος· εἴ τις ἀδελφὸς γυναῖκα ἔχει ἄπιστον, καὶ αὕτη συνευδοκεῖ οἰκεῖν μετ’ αὐτοῦ, μὴ ἀφιέτω αὐτήν·
 
-- λέγω (V-PAI-1S) ==digo== [F]
-- μείνωσιν (V-AAS-3P) permanezcan [F]
+[Pero a los demás digo yo, no el Señor, que si un hermano tiene una mujer que no es creyente, y ella consiente en vivir con él, no la abandone.]
 
-   - δὲ → (pues)
-   - καί → (y)
-   - ἐὰν → (si)
+- ⸂λέγω (V-PAI-1S) ==es== [F]
+- ἔχει (V-PAI-3S) ==??== [F]
+- συνευδοκεῖ (V-PAI-3S) ==??== [F]
+- ἀφιέτω (V-PAD-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 7:13
 
-### 1 Corintios 7:9 {#1co-7-9}
+καὶ γυνὴ ⸂εἴ τις⸃ ἔχει ἄνδρα ἄπιστον, καὶ ⸀οὗτος συνευδοκεῖ οἰκεῖν μετ’ αὐτῆς, μὴ ἀφιέτω ⸂τὸν ἄνδρα⸃.
 
-εἰ δὲ οὐκ ἐγκρατεύονται γαμησάτωσαν κρεῖττον γάρ ἐστιν γαμεῖν ἢ πυροῦσθαι
+[Y la mujer cuyo marido no es creyente, y él consiente en vivir con ella, no abandone a su marido.]
 
-[Pero si no tienen dominio propio, cásense; pues mejor es casarse que quemarse.]
+- ἔχει (V-PAI-3S) ==es== [F]
+- συνευδοκεῖ (V-PAI-3S) ==??== [F]
+- ἀφιέτω (V-PAD-3S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-- ἐγκρατεύονται (V-PMI-3P) ==tienen dominio== [F]
-- γαμησάτωσαν (V-AAM-3P) cásense [F]
-- ἐστιν (V-PAI-3S) ==es== [F]
-- γαμεῖν (V-PAN) casarse [NF]
-- πυροῦσθαι (V-PMN) quemarse [NF]
+### 1Corintios 7:14
 
-   - δὲ → (pero)
-   - γάρ → (pues)
+ἡγίασται γὰρ ὁ ἀνὴρ ὁ ἄπιστος ἐν τῇ γυναικί, καὶ ἡγίασται ἡ γυνὴ ἡ ἄπιστος ἐν τῷ ⸀ἀδελφῷ· ἐπεὶ ἄρα τὰ τέκνα ὑμῶν ἀκάθαρτά ἐστιν, νῦν δὲ ἅγιά ἐστιν.
 
----
+[Porque el marido que no es creyente es santificado por medio de su mujer; y la mujer que no es creyente es santificada por medio de su marido creyente. De otra manera sus hijos serían inmundos, pero ahora son santos.]
 
-### 1 Corintios 7:10 {#1co-7-10}
+- ἡγίασται (V-XPI-3S) ==es== [F]
+- ἡγίασται (V-XPI-3S) ==es santificado== [F]
+- ἐστιν, (V-PAI-3S) ==es== [F]
+- ἐστιν. (V-PAI-3S) ==es santificada== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  A: "es santificado" → B: "es"
+- δέ [CORD] → [pero]
+  A: "es santificada" → B: "serían"
 
-τοῖς δὲ γεγαμηκόσιν παραγγέλλω οὐκ ἐγὼ ἀλλʼ ὁ κύριος γυναῖκα ἀπὸ ἀνδρὸς μὴ χωρισθῆναι
+### 1Corintios 7:15
 
-[Pero a los casados mando, no yo, sino el Señor: que la mujer no se separe del marido.]
+εἰ δὲ ὁ ἄπιστος χωρίζεται, χωριζέσθω· οὐ δεδούλωται ὁ ἀδελφὸς ἢ ἡ ἀδελφὴ ἐν τοῖς τοιούτοις, ἐν δὲ εἰρήνῃ κέκληκεν ⸀ἡμᾶς ὁ θεός.
 
-- παραγγέλλω (V-PAI-1S) ==mando== [F]
-- χωρισθῆναι (V-APN) separarse [NF]
+[Sin embargo, si el que no es creyente se separa, que se separe. En tales casos el hermano o la hermana no están obligados, sino que Dios nos ha llamado para vivir en paz.]
 
-   - δὲ → (pero)
-   - ἀλλʼ → (sino)
+- χωρίζεται, (V-PPI-3S) ==es== [F]
+- χωριζέσθω· (V-PPD-3S) ==??== [F]
+- δεδούλωται (V-XPI-3S) ==??== [F]
+- κέκληκεν (V-XAI-3S) ==??== [F]
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 7:16
 
-### 1 Corintios 7:11 {#1co-7-11}
+τί γὰρ οἶδας, γύναι, εἰ τὸν ἄνδρα σώσεις; ἢ τί οἶδας, ἄνερ, εἰ τὴν γυναῖκα σώσεις;
 
-ἐὰν δὲ καὶ χωρισθῇ μενέτω ἄγαμος ἢ τῷ ἀνδρὶ καταλλαγήτω καὶ ἄνδρα γυναῖκα μὴ ἀφιέναι
+[Pues ¿cómo sabes tú, mujer, si salvarás a tu marido? ¿O cómo sabes tú, marido, si salvarás a tu mujer?]
 
-[Pero si se separa, quédese sin casar o reconcíliese con su marido; y que el marido no abandone a su mujer.]
+- οἶδας, (V-XAI-2S) ==??== [F]
+- σώσεις; (V-FAI-2S) ==??== [F]
+- οἶδας, (V-XAI-2S) ==??== [F]
+- σώσεις; (V-FAI-2S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
 
-- χωρισθῇ (V-APS-3S) se separe [F]
-- μενέτω (V-PAM-3S) quédese [F]
-- καταλλαγήτω (V-APM-3S) reconcíliese [F]
-- ἀφιέναι (V-PAN) abandonar [NF]
+### 1Corintios 7:17
 
-   - δὲ → (pero)
-   - καί → (y)
+Εἰ μὴ ἑκάστῳ ὡς ⸀ἐμέρισεν ὁ ⸀κύριος, ἕκαστον ὡς κέκληκεν ὁ ⸀θεός, οὕτως περιπατείτω· καὶ οὕτως ἐν ταῖς ἐκκλησίαις πάσαις διατάσσομαι.
 
----
+[Fuera de esto, según el Señor ha asignado a cada uno, según Dios llamó a cada cual, así ande. Esto ordeno en todas las iglesias.]
 
-### 1 Corintios 7:12 {#1co-7-12}
+- ⸀ἐμέρισεν (V-AAI-3S) ==llamó== [F]
+- κέκληκεν (V-XAI-3S) ==??== [F]
+- περιπατείτω· (V-PAD-3S) ==??== [F]
+- διατάσσομαι. (V-PMI-1S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-τοῖς δὲ λοιποῖς λέγω ἐγώ οὐχ ὁ κύριος εἴ τις ἀδελφὸς γυναῖκα ἔχει ἄπιστον καὶ αὕτη συνευδοκεῖ οἰκεῖν μετʼ αὐτοῦ μὴ ἀφιέτω αὐτήν
+### 1Corintios 7:18
 
-[A los demás digo yo, no el Señor: si algún hermano tiene mujer incrédula, y ella consiente en vivir con él, no la abandone.]
+περιτετμημένος τις ἐκλήθη; μὴ ἐπισπάσθω· ἐν ἀκροβυστίᾳ ⸂κέκληταί τις⸃; μὴ περιτεμνέσθω.
 
-- λέγω (V-PAI-1S) ==digo== [F]
-- ἔχει (V-PAI-3S) ==tiene== [F]
-- συνευδοκεῖ (V-PAI-3S) ==consiente== [F]
-- ἀφιέτω (V-PAM-3S) abandone [F]
+[¿Fue llamado alguno ya circuncidado? Quédese circuncidado. ¿Fue llamado alguien estando incircuncidado? No se circuncide.]
 
-   - δὲ → (a los demás)
-   - καί → (y)
-   - εἴ → (si)
+- ἐκλήθη; (V-API-3S) ==??== [F]
+- ἐπισπάσθω· (V-PMD-3S) ==??== [F]
+- ⸂κέκληταί (V-XPI-3S) ==??== [F]
+- περιτεμνέσθω. (V-PPD-3S) ==??== [F]
 
-### 1 Corintios 7:13 {#1co-7-13}
+### 1Corintios 7:19
 
-καὶ γυνὴ εἴ τις ἔχει ἄνδρα ἄπιστον καὶ οὗτος συνευδοκεῖ οἰκεῖν μετʼ αὐτῆς μὴ ἀφιέτω τὸν ἄνδρα
+ἡ περιτομὴ οὐδέν ἐστιν, καὶ ἡ ἀκροβυστία οὐδέν ἐστιν, ἀλλὰ τήρησις ἐντολῶν θεοῦ.
 
-[Y si una mujer tiene marido incrédulo, y él consiente en vivir con ella, no abandone al marido.]
+[La circuncisión nada es, y nada es la incircuncisión, sino el guardar los mandamientos de Dios.]
 
-- ἔχει (V-PAI-3S) ==tiene== [F]
-- συνευδοκεῖ (V-PAI-3S) ==consiente== [F]
-- ἀφιέτω (V-PAM-3S) abandone [F]
+- ἐστιν, (V-PAI-3S) ==es== [F]
+- ἐστιν, (V-PAI-3S) ==es== [F]
+- καί [CORD] → [y]
+  A: "es" → B: "es"
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
 
-   - καί → (y)
-   - εἴ → (si)
+### 1Corintios 7:20
 
----
-
-### 1 Corintios 7:14 {#1co-7-14}
-
-ἡγίασται γὰρ ὁ ἀνὴρ ὁ ἄπιστος ἐν τῇ γυναικὶ καὶ ἡγίασται ἡ γυνὴ ἡ ἄπιστος ἐν τῷ ἀδελφῷ ἐπεὶ ἄρα τὰ τέκνα ὑμῶν ἀκάθαρτά ἐστιν νῦν δὲ ἅγιά ἐστιν
-
-[Porque el marido incrédulo es santificado en la mujer, y la mujer incrédula es santificada en el hermano; de otra manera sus hijos serían impuros, pero ahora son santos.]
-
-- ἡγίασται (V-RPI-3S) ==es santificado== [F]
-- ἡγίασται (V-RPI-3S) ==es santificada== [F]
-- ἐστιν (V-PAI-3S) ==serían== [F]
-- ἐστιν (V-PAI-3S) ==son== [F]
-
-   - γὰρ → (porque)
-   - καί → (y)
-   - δὲ → (pero)
-
----
-
-### 1 Corintios 7:15 {#1co-7-15}
-
-εἰ δὲ ὁ ἄπιστος χωρίζεται χωριζέσθω οὐ δεδούλωται ὁ ἀδελφὸς ἢ ἡ ἀδελφὴ ἐν τοῖς τοιούτοις ἐν δὲ εἰρήνῃ κέκληκεν ὑμᾶς ὁ θεός
-
-[Pero si el incrédulo se separa, que se separe; en tales casos el hermano o la hermana no están obligados; pues Dios nos ha llamado a vivir en paz.]
-
-- χωρίζεται (V-PPI-3S) ==se separa== [F]
-- χωριζέσθω (V-PMM-3S) sepárese [F]
-- δεδούλωται (V-RPI-3S) ==está sujeto== [F]
-- κέκληκεν (V-RAI-3S) ==ha llamado== [F]
-
-   - δὲ → (pero)
-
----
-
-### 1 Corintios 7:16 {#1co-7-16}
-
-τί γὰρ οἶδας γύναι εἰ τὸν ἄνδρα σώσεις ἢ τί οἶδας ἄνερ εἰ τὴν γυναῖκα σώσεις
-
-[Porque ¿qué sabes tú, mujer, si salvarás a tu marido? ¿O qué sabes tú, marido, si salvarás a tu mujer?]
-
-- οἶδας (V-RAI-2S) ==sabes== [F]
-- σώσεις (V-FAI-2S) ==salvarás== [F]
-- οἶδας (V-RAI-2S) ==sabes== [F]
-- σώσεις (V-FAI-2S) ==salvarás== [F]
-
-   - γὰρ → (porque)
-   - ἢ → (o)
-
----
-
-### 1 Corintios 7:17 {#1co-7-17}
-
-εἰ μὴ ἑκάστῳ ὡς ἐμέρισεν ὁ κύριος ἕκαστον ὡς κέκληκεν ὁ θεός οὕτως περιπατείτω καὶ οὕτως ἐν ταῖς ἐκκλησίαις πάσαις διατάσσομαι
-
-[Pero cada uno viva conforme a lo que el Señor le ha asignado, conforme a lo que Dios lo ha llamado; así ordeno en todas las iglesias.]
-
-- ἐμέρισεν (V-AAI-3S) ==ha asignado== [F]
-- κέκληκεν (V-RAI-3S) ==ha llamado== [F]
-- περιπατείτω (V-PAM-3S) viva [F]
-- διατάσσομαι (V-PMI-1S) ==ordeno== [F]
-
-   - καί → (y)
-
----
-
-### 1 Corintios 7:18 {#1co-7-18}
-
-περιτετμημένος τις ἐκλήθη μὴ ἐπισπάσθω ἐν ἀκροβυστίᾳ κέκληταί τις μὴ περιτεμνέσθω
-
-[¿Fue llamado alguno ya circuncidado? No se haga incircunciso. ¿Ha sido llamado alguno incircunciso? No se circuncide.]
-
-- ἐκλήθη (V-API-3S) ==fue llamado== [F]
-- ἐπισπάσθω (V-PMM-3S) se haga [F]
-- κέκληταί (V-RPI-3S) ==ha sido llamado== [F]
-- περιτεμνέσθω (V-PMM-3S) se circuncide [F]
-
----
-
-### 1 Corintios 7:19 {#1co-7-19}
-
-ἡ περιτομὴ οὐδέν ἐστιν καὶ ἡ ἀκροβυστία οὐδέν ἐστιν ἀλλὰ τήρησις ἐντολῶν θεοῦ
-
-[La circuncisión nada es, y la incircuncisión nada es, sino el guardar los mandamientos de Dios.]
-
-- ἐστιν (V-PAI-3S) ==es== [F]
-- ἐστιν (V-PAI-3S) ==es== [F]
-
-   - καί → (y)
-   - ἀλλὰ → (sino)
-
----
-
-### 1 Corintios 7:20 {#1co-7-20}
-
-ἕκαστος ἐν τῇ κλήσει ᾗ ἐκλήθη ἐν ταύτῃ μενέτω
+ἕκαστος ἐν τῇ κλήσει ᾗ ἐκλήθη ἐν ταύτῃ μενέτω.
 
 [Cada uno permanezca en la condición en que fue llamado.]
 
 - ἐκλήθη (V-API-3S) ==fue llamado== [F]
-- μενέτω (V-PAM-3S) permanezca [F]
+- μενέτω. (V-PAD-3S) ==??== [F]
 
----
+### 1Corintios 7:21
 
-### 1 Corintios 7:21 {#1co-7-21}
+Δοῦλος ἐκλήθης; μή σοι μελέτω· ἀλλ’ εἰ καὶ δύνασαι ἐλεύθερος γενέσθαι, μᾶλλον χρῆσαι.
 
-δοῦλος ἐκλήθης μὴ σοι μελέτω ἀλλʼ εἰ καὶ δύνασαι ἐλεύθερος γενέσθαι μᾶλλον χρῆσαι
+[¿Fuiste llamado siendo esclavo? No te preocupes. Aunque si puedes obtener tu libertad, prefiérelo.]
 
-[¿Fuiste llamado siendo esclavo? No te preocupes; pero si puedes hacerte libre, aprovéchalo más bien.]
+- ἐκλήθης; (V-API-2S) ==??== [F]
+- μελέτω· (V-PAD-3S) ==??== [F]
+- δύνασαι (V-PMI-2S) ==??== [F]
+- χρῆσαι. (V-AMD-2S) ==??== [F]
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-- ἐκλήθης (V-API-2S) ==fuiste llamado== [F]
-- μελέτω (V-PAM-3S) preocupe [F]
-- δύνασαι (V-PMI-2S) ==puedes== [F]
-- γενέσθαι (V-AMN) hacerse [NF]
-- χρῆσαι (V-AMD-2S) aprovéchalo [F]
+### 1Corintios 7:22
 
-   - ἀλλʼ → (pero)
-   - καί → (también)
+ὁ γὰρ ἐν κυρίῳ κληθεὶς δοῦλος ἀπελεύθερος κυρίου ἐστίν· ⸀ὁμοίως ὁ ἐλεύθερος κληθεὶς δοῦλός ἐστιν Χριστοῦ.
 
----
+[Porque el que fue llamado por el Señor siendo esclavo, hombre libre es del Señor. De la misma manera, el que fue llamado siendo libre, esclavo es de Cristo.]
 
-### 1 Corintios 7:22 {#1co-7-22}
-
-ὁ γὰρ ἐν κυρίῳ κληθεὶς δοῦλος ἀπελεύθερος κυρίου ἐστίν ὁμοίως ὁ ἐλεύθερος κληθεὶς δοῦλός ἐστιν Χριστοῦ
-
-[Porque el que fue llamado en el Señor siendo esclavo, liberto es del Señor; de igual manera, el que fue llamado siendo libre, esclavo es de Cristo.]
-
-- ἐστίν (V-PAI-3S) ==es== [F]
+- ἐστίν· (V-PAI-3S) ==fue llamado== [F]
 - ἐστιν (V-PAI-3S) ==es== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  A: "fue llamado" → B: "es"
 
-   - γὰρ → (porque)
+### 1Corintios 7:23
 
----
+τιμῆς ἠγοράσθητε· μὴ γίνεσθε δοῦλοι ἀνθρώπων.
 
-### 1 Corintios 7:23 {#1co-7-23}
+[Ustedes fueron comprados por precio. No se hagan esclavos de los hombres.]
 
-τιμῆς ἠγοράσθητε μὴ γίνεσθε δοῦλοι ἀνθρώπων
+- ἠγοράσθητε· (V-API-2P) ==fueron comprados== [F]
+- γίνεσθε (V-PMD-2P) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-[Por precio fueron comprados; no se hagan esclavos de los hombres.]
+### 1Corintios 7:24
 
-- ἠγοράσθητε (V-API-2P) ==fueron comprados== [F]
-- γίνεσθε (V-PMM-2P) se hagan [F]
+ἕκαστος ἐν ᾧ ἐκλήθη, ἀδελφοί, ἐν τούτῳ μενέτω παρὰ θεῷ.
 
----
+[Hermanos, cada uno permanezca con Dios en la condición en que fue llamado.]
 
-### 1 Corintios 7:24 {#1co-7-24}
+- ἐκλήθη, (V-API-3S) ==fue llamado== [F]
+- μενέτω (V-PAD-3S) ==??== [F]
 
-ἕκαστος ἐν ᾧ ἐκλήθη ἀδελφοί ἐν τούτῳ μενέτω παρὰ θεῷ
+### 1Corintios 7:25
 
-[Hermanos, cada uno permanezca delante de Dios en la condición en que fue llamado.]
+Περὶ δὲ τῶν παρθένων ἐπιταγὴν κυρίου οὐκ ἔχω, γνώμην δὲ δίδωμι ὡς ἠλεημένος ὑπὸ κυρίου πιστὸς εἶναι.
 
-- ἐκλήθη (V-API-3S) ==fue llamado== [F]
-- μενέτω (V-PAM-3S) permanezca [F]
+[En cuanto a las vírgenes no tengo mandamiento del Señor, pero doy mi opinión como el que habiendo recibido la misericordia del Señor es digno de confianza.]
 
----
+- ἔχω, (V-PAI-1S) ==es== [F]
+- δίδωμι (V-PAI-1S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 7:25 {#1co-7-25}
+### 1Corintios 7:26
 
-Περὶ δὲ τῶν παρθένων ἐπιταγὴν κυρίου οὐκ ἔχω γνώμην δὲ δίδωμι ὡς ἠλεημένος ὑπὸ κυρίου πιστὸς εἶναι
+νομίζω οὖν τοῦτο καλὸν ὑπάρχειν διὰ τὴν ἐνεστῶσαν ἀνάγκην, ὅτι καλὸν ἀνθρώπῳ τὸ οὕτως εἶναι.
 
-[En cuanto a las vírgenes, no tengo mandamiento del Señor, pero doy mi opinión como uno que ha alcanzado misericordia del Señor para ser fiel.]
+[Creo, pues, que esto es bueno en vista de la presente aflicción; es decir, que es bueno que el hombre se quede como está.]
 
-- ἔχω (V-PAI-1S) ==tengo== [F]
-- δίδωμι (V-PAI-1S) ==doy== [F]
-- εἶναι (V-PAN) ser [NF]
+- νομίζω (V-PAI-1S) ==es== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  A: "es" → B: "es"
+- ὅτι [DEP] → [que]
+  A: "es" → B: "es"
 
-   - δὲ → (pero)
+### 1Corintios 7:27
 
----
+δέδεσαι γυναικί; μὴ ζήτει λύσιν· λέλυσαι ἀπὸ γυναικός; μὴ ζήτει γυναῖκα·
 
-### 1 Corintios 7:26 {#1co-7-26}
+[¿Estás unido a mujer? No procures separarte. ¿Estás libre de mujer? No busques mujer.]
 
-νομίζω οὖν τοῦτο καλὸν ὑπάρχειν διὰ τὴν ἐνεστῶσαν ἀνάγκην ὅτι καλὸν ἀνθρώπῳ τὸ οὕτως εἶναι
+- δέδεσαι (V-XPI-2S) ==??== [F]
+- ζήτει (V-PAD-2S) ==??== [F]
+- λέλυσαι (V-XPI-2S) ==??== [F]
+- ζήτει (V-PAD-2S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-[Pienso, pues, que esto es bueno a causa de la necesidad presente, que bueno es para el hombre quedarse así.]
+### 1Corintios 7:28
 
-- νομίζω (V-PAI-1S) ==pienso== [F]
-- ὑπάρχειν (V-PAN) ser [NF]
-- εἶναι (V-PAN) ser [NF]
+ἐὰν δὲ καὶ ⸀γαμήσῃς, οὐχ ἥμαρτες. καὶ ἐὰν γήμῃ ἡ παρθένος, οὐχ ἥμαρτεν. θλῖψιν δὲ τῇ σαρκὶ ἕξουσιν οἱ τοιοῦτοι, ἐγὼ δὲ ὑμῶν φείδομαι.
 
-   - οὖν → (pues)
-   - ὅτι → (que)
+[Y si te casas, no has pecado; y si una virgen se casa, no ha pecado. Sin embargo, ellos tendrán problemas en esta vida, y yo quiero evitárselos.]
 
----
+- ⸀γαμήσῃς, (V-AAS-2S) ==??== [F]
+- ἥμαρτες. (V-AAI-2S) ==??== [F]
+- γήμῃ (V-AAS-3S) ==??== [F]
+- ἥμαρτεν. (V-AAI-3S) ==??== [F]
+- ἕξουσιν (V-FAI-3P) ==??== [F]
+- φείδομαι. (V-PMI-1S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 7:27 {#1co-7-27}
+### 1Corintios 7:29
 
-δέδεσαι γυναικί μὴ ζήτει λύσιν λέλυσαι ἀπὸ γυναικός μὴ ζήτει γυναῖκα
+τοῦτο δέ φημι, ἀδελφοί, ὁ καιρὸς συνεσταλμένος ⸂ἐστίν· τὸ λοιπὸν⸃ ἵνα καὶ οἱ ἔχοντες γυναῖκας ὡς μὴ ἔχοντες ὦσιν,
 
-[¿Estás ligado a mujer? No busques soltarte. ¿Estás libre de mujer? No busques mujer.]
+[Pero esto digo, hermanos: el tiempo ha sido acortado; de modo que de ahora en adelante los que tienen mujer sean como si no la tuvieran;]
 
-- δέδεσαι (V-RPI-2S) ==estás ligado== [F]
-- ζήτει (V-PAM-2S) busques [F]
-- λέλυσαι (V-RPI-2S) ==estás libre== [F]
-- ζήτει (V-PAM-2S) busques [F]
+- φημι, (V-PAI-1S) ==??== [F]
+- ⸂ἐστίν· (V-PAI-3S) ==??== [F]
+- ὦσιν, (V-PAS-3P) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 7:30
 
-### 1 Corintios 7:28 {#1co-7-28}
+καὶ οἱ κλαίοντες ὡς μὴ κλαίοντες, καὶ οἱ χαίροντες ὡς μὴ χαίροντες, καὶ οἱ ἀγοράζοντες ὡς μὴ κατέχοντες,
 
-ἐὰν δὲ καὶ γαμήσῃς οὐχ ἥμαρτες καὶ ἐὰν γήμῃ ἡ παρθένος οὐχ ἥμαρτεν θλῖψιν δὲ τῇ σαρκὶ ἕξουσιν οἱ τοιοῦτοι ἐγὼ δὲ ὑμῶν φείδομαι
+[los que lloran, como si no lloraran; los que se regocijan, como si no se regocijaran; los que compran, como si no tuvieran nada;]
 
-[Pero si te casas, no pecas; y si la virgen se casa, no peca; pero tales tendrán aflicción en la carne, y yo quisiera evitársela.]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-- γαμήσῃς (V-AAS-2S) te cases [F]
-- ἥμαρτες (V-AAI-2S) ==pecas== [F]
-- γήμῃ (V-PAS-3S) se case [F]
-- ἥμαρτεν (V-AAI-3S) ==peca== [F]
-- ἕξουσιν (V-FAI-3P) ==tendrán== [F]
-- φείδομαι (V-PMI-1S) ==quiero evitar== [F]
+### 1Corintios 7:31
 
-   - δὲ → (pero)
-   - καί → (y)
+καὶ οἱ χρώμενοι ⸂τὸν κόσμον⸃ ὡς μὴ καταχρώμενοι· παράγει γὰρ τὸ σχῆμα τοῦ κόσμου τούτου.
 
----
+[los que aprovechan el mundo, como si no lo aprovecharan plenamente; porque la apariencia de este mundo es pasajera.]
 
-### 1 Corintios 7:29 {#1co-7-29}
+- παράγει (V-PAI-3S) ==es== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-τοῦτο δέ φημι ἀδελφοί ὁ καιρὸς συνεσταλμένος ἐστίν τὸ λοιπὸν ἵνα καὶ οἱ ἔχοντες γυναῖκας ὡς μὴ ἔχοντες ὦσιν
+### 1Corintios 7:32
 
-[Pero esto digo, hermanos: el tiempo se ha acortado; de ahora en adelante, los que tienen mujer sean como si no la tuvieran.]
+Θέλω δὲ ὑμᾶς ἀμερίμνους εἶναι. ὁ ἄγαμος μεριμνᾷ τὰ τοῦ κυρίου, πῶς ⸀ἀρέσῃ τῷ κυρίῳ·
 
-- φημι (V-PAI-1S) ==digo== [F]
-- ἐστίν (V-PAI-3S) ==es== [F]
-- ἔχοντες (V-PAP-NPM) teniendo [NF]
-- ὦσιν (V-PAS-3P) sean [F]
+[Sin embargo, quiero que estén libres de preocupación. El soltero se preocupa por las cosas del Señor, cómo puede agradar al Señor.]
 
-   - δέ → (pero)
-   - ἵνα → (para que)
-   - καί → (también)
+- Θέλω (V-PAI-1S) ==puede== [F]
+- μεριμνᾷ (V-PAI-3S) ==??== [F]
+- ⸀ἀρέσῃ (V-AAS-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 7:33
 
-### 1 Corintios 7:30 {#1co-7-30}
+ὁ δὲ γαμήσας μεριμνᾷ τὰ τοῦ κόσμου, πῶς ⸀ἀρέσῃ τῇ γυναικί,
 
-καὶ οἱ κλαίοντες ὡς μὴ κλαίοντες καὶ οἱ χαίροντες ὡς μὴ χαίροντες καὶ οἱ ἀγοράζοντες ὡς μὴ κατέχοντες
+[Pero el casado se preocupa por las cosas del mundo, de cómo agradar a su mujer,]
 
-[y los que lloran, como si no lloraran; los que se alegran, como si no se alegraran; los que compran, como si no poseyeran.]
+- μεριμνᾷ (V-PAI-3S) ==??== [F]
+- ⸀ἀρέσῃ (V-AAS-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-- κλαίοντες (V-PAP-NPM) llorando [NF]
-- χαίροντες (V-PAP-NPM) alegrándose [NF]
-- ἀγοράζοντες (V-PAP-NPM) comprando [NF]
-- κατέχοντες (V-PAP-NPM) poseyendo [NF]
+### 1Corintios 7:34
 
-   - καί → (y)
+⸀καὶ μεμέρισται. καὶ ἡ γυνὴ ⸂ἡ ἄγαμος⸃ καὶ ἡ ⸀παρθένος μεριμνᾷ τὰ τοῦ κυρίου, ἵνα ᾖ ἁγία καὶ ⸀τῷ σώματι καὶ ⸁τῷ πνεύματι· ἡ δὲ γαμήσασα μεριμνᾷ τὰ τοῦ κόσμου, πῶς ⸀ἀρέσῃ τῷ ἀνδρί.
 
----
+[y sus intereses están divididos. La mujer que no está casada y la virgen se preocupan por las cosas del Señor, para ser santas tanto en cuerpo como en espíritu; pero la casada se preocupa por las cosas del mundo, de cómo agradar a su marido.]
 
-### 1 Corintios 7:31 {#1co-7-31}
+- μεμέρισται. (V-XPI-3S) ==??== [F]
+- μεριμνᾷ (V-PAI-3S) ==??== [F]
+- ᾖ (V-PAS-3S) ==??== [F]
+- μεριμνᾷ (V-PAI-3S) ==??== [F]
+- ⸀ἀρέσῃ (V-AAS-3S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-καὶ οἱ χρώμενοι τὸν κόσμον ὡς μὴ καταχρώμενοι παράγει γὰρ τὸ σχῆμα τοῦ κόσμου τούτου
+### 1Corintios 7:35
 
-[y los que usan de este mundo, como si no lo usaran plenamente; porque la apariencia de este mundo pasa.]
+τοῦτο δὲ πρὸς τὸ ὑμῶν αὐτῶν ⸀σύμφορον λέγω, οὐχ ἵνα βρόχον ὑμῖν ἐπιβάλω, ἀλλὰ πρὸς τὸ εὔσχημον καὶ ⸀εὐπάρεδρον τῷ κυρίῳ ἀπερισπάστως.
 
-- χρώμενοι (V-PMP-NPM) usando [NF]
-- καταχρώμενοι (V-PMP-NPM) usando plenamente [NF]
-- παράγει (V-PAI-3S) ==pasa== [F]
+[Esto digo para su propio beneficio; no para ponerles restricción, sino para promover lo que es honesto y para asegurar su constante devoción al Señor.]
 
-   - καί → (y)
-   - γὰρ → (porque)
+- λέγω, (V-PAI-1S) ==es== [F]
+- ἐπιβάλω, (V-AAS-1S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 7:36
 
-### 1 Corintios 7:32 {#1co-7-32}
+Εἰ δέ τις ἀσχημονεῖν ἐπὶ τὴν παρθένον αὐτοῦ νομίζει ἐὰν ᾖ ὑπέρακμος, καὶ οὕτως ὀφείλει γίνεσθαι, ὃ θέλει ποιείτω· οὐχ ἁμαρτάνει· γαμείτωσαν.
 
-θέλω δὲ ὑμᾶς ἀμερίμνους εἶναι ὁ ἄγαμος μεριμνᾷ τὰ τοῦ κυρίου πῶς ἀρέσῃ τῷ κυρίῳ
+[Y si alguien cree que no está obrando correctamente con respecto a su hija virgen, si ella es de edad madura, y si es necesario que así se haga, que haga lo que quiera, no peca; que se case.]
 
-[Quiero que estén libres de preocupación. El soltero se preocupa por las cosas del Señor, cómo agradar al Señor.]
+- νομίζει (V-PAI-3S) ==es== [F]
+- ᾖ (V-PAS-3S) ==es== [F]
+- ὀφείλει (V-PAI-3S) ==??== [F]
+- θέλει (V-PAI-3S) ==??== [F]
+- ποιείτω· (V-PAD-3S) ==??== [F]
+- ἁμαρτάνει· (V-PAI-3S) ==??== [F]
+- γαμείτωσαν. (V-PAD-3P) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-- θέλω (V-PAI-1S) ==quiero== [F]
-- εἶναι (V-PAN) ser [NF]
-- μεριμνᾷ (V-PAI-3S) ==se preocupa== [F]
-- ἀρέσῃ (V-AAS-3S) agradar [F]
+### 1Corintios 7:37
 
-   - δὲ → (y)
+ὃς δὲ ἕστηκεν ⸂ἐν τῇ καρδίᾳ αὐτοῦ ἑδραῖος⸃ μὴ ἔχων ἀνάγκην, ἐξουσίαν δὲ ἔχει περὶ τοῦ ἰδίου θελήματος, καὶ τοῦτο κέκρικεν ἐν τῇ ⸂ἰδίᾳ καρδίᾳ⸃, ⸀τηρεῖν τὴν ἑαυτοῦ παρθένον, καλῶς ⸀ποιήσει·
 
----
+[Pero el que está firme en su corazón, y sin presión alguna, y tiene control sobre su propia voluntad, y ha decidido en su corazón conservar virgen a su hija, bien hará.]
 
-### 1 Corintios 7:33 {#1co-7-33}
+- ἕστηκεν (V-XAI-3S) ==??== [F]
+- ἔχει (V-PAI-3S) ==??== [F]
+- κέκρικεν (V-XAI-3S) ==??== [F]
+- ⸀ποιήσει· (V-FAI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-ὁ δὲ γαμήσας μεριμνᾷ τὰ τοῦ κόσμου πῶς ἀρέσῃ τῇ γυναικί
+### 1Corintios 7:38
 
-[Pero el casado se preocupa por las cosas del mundo, cómo agradar a su mujer.]
+ὥστε καὶ ὁ ⸀γαμίζων ⸂τὴν παρθένον ἑαυτοῦ⸃ καλῶς ποιεῖ, ⸂καὶ ὁ⸃ μὴ ⸁γαμίζων κρεῖσσον ⸀ποιήσει.
 
-- μεριμνᾷ (V-PAI-3S) ==se preocupa== [F]
-- ἀρέσῃ (V-AAS-3S) agradar [F]
+[Así los dos, el que da en matrimonio a su hija virgen, hace bien; y el que no la da en matrimonio, hace mejor.]
 
-   - δὲ → (pero)
+- ποιεῖ, (V-PAI-3S) ==??== [F]
+- ⸀ποιήσει. (V-FAI-3S) ==??== [F]
+- ὥστε [DEP] → [de manera que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 7:39
 
-### 1 Corintios 7:34 {#1co-7-34}
+Γυνὴ ⸀δέδεται ἐφ’ ὅσον χρόνον ζῇ ὁ ἀνὴρ αὐτῆς· ἐὰν ⸀δὲ κοιμηθῇ ὁ ἀνήρ, ἐλευθέρα ἐστὶν ᾧ θέλει γαμηθῆναι, μόνον ἐν κυρίῳ·
 
-καὶ μεμέρισται καὶ ἡ γυνὴ ἡ ἄγαμος καὶ ἡ παρθένος μεριμνᾷ τὰ τοῦ κυρίου ἵνα ᾖ ἁγία καὶ τῷ σώματι καὶ τῷ πνεύματι ἡ δὲ γαμήσασα μεριμνᾷ τὰ τοῦ κόσμου πῶς ἀρέσῃ τῷ ἀνδρί
+[La mujer está ligada mientras el marido vive; pero si el marido muere, está en libertad de casarse con quien desee, solo que sea en el Señor.]
 
-[y la mujer soltera, lo mismo que la virgen, se preocupa por las cosas del Señor, para ser santa tanto en cuerpo como en espíritu; pero la casada se preocupa por las cosas del mundo, cómo agradar a su marido.]
+- ⸀δέδεται (V-XPI-3S) ==??== [F]
+- ζῇ (V-PAI-3S) ==??== [F]
+- κοιμηθῇ (V-APS-3S) ==??== [F]
+- ἐστὶν (V-PAI-3S) ==??== [F]
+- θέλει (V-PAI-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-- μεμέρισται (V-RPI-3S) ==está dividida== [F]
-- μεριμνᾷ (V-PAI-3S) ==se preocupa== [F]
-- ᾖ (V-PAS-3S) sea [F]
-- μεριμνᾷ (V-PAI-3S) ==se preocupa== [F]
-- ἀρέσῃ (V-AAS-3S) agradar [F]
+### 1Corintios 7:40
 
-   - καί → (y)
-   - ἵνα → (para que)
-   - δὲ → (pero)
+μακαριωτέρα δέ ἐστιν ἐὰν οὕτως μείνῃ, κατὰ τὴν ἐμὴν γνώμην, δοκῶ ⸀δὲ κἀγὼ πνεῦμα θεοῦ ἔχειν.
 
----
+[Pero en mi opinión, será más feliz si se queda como está. Y creo que yo también tengo el Espíritu de Dios.]
 
-### 1 Corintios 7:35 {#1co-7-35}
+- ἐστιν (V-PAI-3S) ==??== [F]
+- μείνῃ, (V-AAS-3S) ==??== [F]
+- δοκῶ (V-PAI-1S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-τοῦτο δὲ πρὸς τὸ ὑμῶν αὐτῶν σύμφορον λέγω οὐχ ἵνα βρόχον ὑμῖν ἐπιβάλω ἀλλὰ πρὸς τὸ εὔσχημον καὶ εὐπάρεδρον τῷ κυρίῳ ἀπερισπάστως
+### 1Corintios 8:1
 
-[Esto lo digo para su propio beneficio; no para ponerles restricción, sino para lo que es decoroso y para que se dediquen al Señor sin distracción.]
-
-- λέγω (V-PAI-1S) ==digo== [F]
-- ἐπιβάλω (V-AAS-1S) ponga [F]
-
-   - δὲ → (esto)
-   - ἵνα → (para que)
-   - ἀλλὰ → (sino)
-   - καί → (y)
-
----
-
-### 1 Corintios 7:36 {#1co-7-36}
-
-εἰ δέ τις ἀσχημονεῖν ἐπὶ τὴν παρθένον αὐτοῦ νομίζει ἐὰν ᾖ ὑπέρακμος καὶ οὕτως ὀφείλει γίνεσθαι ὃ θέλει ποιείτω οὐχ ἁμαρτάνει γαμείτωσαν
-
-[Pero si alguno cree que no procede correctamente con su hija virgen, si ella está en edad madura, y así debe hacerse, haga lo que quiera; no peca; que se casen.]
-
-- νομίζει (V-PAI-3S) ==cree== [F]
-- ᾖ (V-PAS-3S) esté [F]
-- ὀφείλει (V-PAI-3S) ==debe== [F]
-- γίνεσθαι (V-PMN) hacerse [NF]
-- θέλει (V-PAI-3S) ==quiera== [F]
-- ποιείτω (V-PAM-3S) haga [F]
-- ἁμαρτάνει (V-PAI-3S) ==peca== [F]
-- γαμείτωσαν (V-PAM-3P) cásense [F]
-
-   - δέ → (pero)
-   - εἰ → (si)
-   - ἐὰν → (si)
-
----
-
-### 1 Corintios 7:37 {#1co-7-37}
-
-ὃς δὲ ἕστηκεν ἐν τῇ καρδίᾳ αὐτοῦ μὴ ἔχων ἀνάγκην ἐξουσίαν δὲ ἔχει περὶ τοῦ ἰδίου θελήματος καὶ τοῦτο κέκρικεν ἐν τῇ ἰδίᾳ καρδίᾳ τηρεῖν τὴν ἑαυτοῦ παρθένον καλῶς ποιήσει
-
-[Pero el que está firme en su corazón, sin tener necesidad, sino con dominio sobre su propia voluntad, y ha decidido en su corazón guardar a su hija virgen, hará bien.]
-
-- ἕστηκεν (V-RAI-3S) ==está firme== [F]
-- ἔχων (V-PAP-NSM) teniendo [NF]
-- ἔχει (V-PAI-3S) ==tiene== [F]
-- κέκρικεν (V-RAI-3S) ==ha decidido== [F]
-- ποιήσει (V-FAI-3S) ==hará== [F]
-
-   - δὲ → (pero)
-   - καί → (y)
-
----
-
-### 1 Corintios 7:38 {#1co-7-38}
-
-ὥστε καὶ ὁ γαμίζων τὴν ἑαυτοῦ παρθένον καλῶς ποιεῖ καὶ ὁ μὴ γαμίζων κρεῖσσον ποιήσει
-
-[Así que el que da en matrimonio a su hija virgen hace bien; y el que no la da en matrimonio hará mejor.]
-
-- ποιεῖ (V-PAI-3S) ==hace== [F]
-- ποιήσει (V-FAI-3S) ==hará== [F]
-
-   - ὥστε → (así que)
-   - καί → (y)
-
----
-
-### 1 Corintios 7:39 {#1co-7-39}
-
-γυνὴ δέδεται ἐφʼ ὅσον χρόνον ζῇ ὁ ἀνήρ ἐὰν δὲ κοιμηθῇ ὁ ἀνήρ ἐλευθέρα ἐστὶν ᾧ θέλει γαμηθῆναι μόνον ἐν κυρίῳ
-
-[La mujer está ligada mientras vive su marido; pero si el marido muere, es libre para casarse con quien quiera, solo en el Señor.]
-
-- δέδεται (V-RPI-3S) ==está ligada== [F]
-- ζῇ (V-PAI-3S) ==vive== [F]
-- κοιμηθῇ (V-APS-3S) muera [F]
-- ἐστὶν (V-PAI-3S) ==es== [F]
-- θέλει (V-PAI-3S) ==quiera== [F]
-- γαμηθῆναι (V-APN) casarse [NF]
-
-   - δὲ → (pero)
-   - ἐὰν → (si)
-
----
-
-### 1 Corintios 7:40 {#1co-7-40}
-
-μακαριωτέρα δέ ἐστιν ἐὰν οὕτως μείνῃ κατὰ τὴν ἐμὴν γνώμην δοκῶ δὲ κἀγὼ πνεῦμα θεοῦ ἔχειν
-
-[Pero en mi opinión, más feliz será si se queda así; y creo que yo también tengo el Espíritu de Dios.]
-
-- ἐστιν (V-PAI-3S) ==es== [F]
-- μείνῃ (V-AAS-3S) se quede [F]
-- δοκῶ (V-PAI-1S) ==creo== [F]
-- ἔχειν (V-PAN) tener [NF]
-
-   - δέ → (pero)
-   - ἐὰν → (si)
-   - δὲ → (y)
-
-### 1 Corintios 8:1 {#1co-8-1}
-
-Περὶ δὲ τῶν εἰδωλοθύτων οἴδαμεν ὅτι πάντες γνῶσιν ἔχομεν ἡ γνῶσις φυσιοῖ ἡ δὲ ἀγάπη οἰκοδομεῖ
+Περὶ δὲ τῶν εἰδωλοθύτων, οἴδαμεν ὅτι πάντες γνῶσιν ἔχομεν. ἡ γνῶσις φυσιοῖ, ἡ δὲ ἀγάπη οἰκοδομεῖ.
 
 [En cuanto a lo sacrificado a los ídolos, sabemos que todos tenemos conocimiento. El conocimiento envanece, pero el amor edifica.]
 
-- οἴδαμεν (V-RAI-1P) ==sabemos== [F]
-- ἔχομεν (V-PAI-1P) ==tenemos== [F]
-- φυσιοῖ (V-PAI-3S) ==envanece== [F]
-- οἰκοδομεῖ (V-PAI-3S) ==edifica== [F]
+- οἴδαμεν (V-XAI-1P) ==??== [F]
+- ἔχομεν. (V-PAI-1P) ==??== [F]
+- φυσιοῖ, (V-PAI-3S) ==??== [F]
+- οἰκοδομεῖ. (V-PAI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-   - δὲ → (pero)
-   - ὅτι → (que)
+### 1Corintios 8:2
 
----
+⸀εἴ τις δοκεῖ ⸀ἐγνωκέναι τι, ⸀οὔπω ⸀ἔγνω καθὼς δεῖ γνῶναι·
 
-### 1 Corintios 8:2 {#1co-8-2}
+[Si alguien cree que sabe algo, no ha aprendido todavía como debe saber;]
 
-εἴ τις δοκεῖ ἐγνωκέναι τι οὔπω ἔγνω καθὼς δεῖ γνῶναι
+- δοκεῖ (V-PAI-3S) ==todavía== [F]
+- ⸀ἔγνω (V-AAI-3S) ==??== [F]
+- δεῖ (V-PAI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-[Si alguien cree que sabe algo, todavía no lo ha conocido como debe conocerlo.]
+### 1Corintios 8:3
 
-- δοκεῖ (V-PAI-3S) ==cree== [F]
-- ἐγνωκέναι (V-RAN) haber conocido [NF]
-- ἔγνω (V-AAI-3S) ==ha conocido== [F]
-- δεῖ (V-PQI-3S) ==debe== [F]
-- γνῶναι (V-AAN) conocer [NF]
+εἰ δέ τις ἀγαπᾷ τὸν θεόν, οὗτος ἔγνωσται ὑπ’ αὐτοῦ.
 
-   - εἴ → (si)
-   - καθὼς → (como)
+[pero si alguien ama a Dios, ese es conocido por Él.]
 
----
+- ἀγαπᾷ (V-PAI-3S) ==es conocido== [F]
+- ἔγνωσται (V-XPI-3S) ==??== [F]
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 8:3 {#1co-8-3}
+### 1Corintios 8:4
 
-εἰ δέ τις ἀγαπᾷ τὸν θεόν οὗτος ἔγνωσται ὑπʼ αὐτοῦ
+Περὶ τῆς βρώσεως οὖν τῶν εἰδωλοθύτων οἴδαμεν ὅτι οὐδὲν εἴδωλον ἐν κόσμῳ, καὶ ὅτι οὐδεὶς ⸀θεὸς εἰ μὴ εἷς.
 
-[Pero si alguien ama a Dios, ese es conocido por Él.]
+[Por tanto, en cuanto a comer de lo sacrificado a los ídolos, sabemos que un ídolo no es nada en el mundo, y que no hay sino un solo Dios.]
 
-- ἀγαπᾷ (V-PAI-3S) ==ama== [F]
-- ἔγνωσται (V-RPI-3S) ==es conocido== [F]
+- οἴδαμεν (V-XAI-1P) ==es nada== [F]
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
 
-   - δέ → (pero)
-   - εἰ → (si)
+### 1Corintios 8:5
 
----
+καὶ γὰρ εἴπερ εἰσὶν λεγόμενοι θεοὶ εἴτε ἐν οὐρανῷ εἴτε ἐπὶ γῆς, ὥσπερ εἰσὶν θεοὶ πολλοὶ καὶ κύριοι πολλοί,
 
-### 1 Corintios 8:4 {#1co-8-4}
+[Porque aunque haya algunos llamados dioses, ya sea en el cielo o en la tierra, como por cierto hay muchos dioses y muchos señores,]
 
-Περὶ τῆς βρώσεως οὖν τῶν εἰδωλοθύτων οἴδαμεν ὅτι οὐδὲν εἴδωλον ἐν κόσμῳ καὶ ὅτι οὐδεὶς θεὸς εἰ μὴ εἷς
+- εἰσὶν (V-PAI-3P) ==??== [F]
+- εἰσὶν (V-PAI-3P) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-[En cuanto a comer lo sacrificado a los ídolos, sabemos que un ídolo nada es en el mundo, y que no hay sino un solo Dios.]
+### 1Corintios 8:6
 
-- οἴδαμεν (V-RAI-1P) ==sabemos== [F]
+ἀλλ’ ἡμῖν εἷς θεὸς ὁ πατήρ, ἐξ οὗ τὰ πάντα καὶ ἡμεῖς εἰς αὐτόν, καὶ εἷς κύριος Ἰησοῦς Χριστός, δι’ οὗ τὰ πάντα καὶ ἡμεῖς δι’ αὐτοῦ.
 
-   - οὖν → (entonces)
-   - ὅτι → (que)
-   - καί → (y)
+[pero para nosotros hay un solo Dios, el Padre, de quien proceden todas las cosas y nosotros somos para Él; y un solo Señor, Jesucristo, por quien son todas las cosas y por medio de Él existimos nosotros.]
 
----
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 8:5 {#1co-8-5}
+### 1Corintios 8:7
 
-καὶ γὰρ εἴπερ εἰσὶν λεγόμενοι θεοὶ εἴτε ἐν οὐρανῷ εἴτε ἐπὶ γῆς ὥσπερ εἰσὶν θεοὶ πολλοὶ καὶ κύριοι πολλοί
+Ἀλλ’ οὐκ ἐν πᾶσιν ἡ γνῶσις· τινὲς δὲ τῇ ⸀συνηθείᾳ ⸂ἕως ἄρτι τοῦ εἰδώλου⸃ ὡς εἰδωλόθυτον ἐσθίουσιν, καὶ ἡ συνείδησις αὐτῶν ἀσθενὴς οὖσα μολύνεται.
 
-[Porque aunque haya algunos llamados dioses, ya sea en el cielo o en la tierra, como de hecho hay muchos dioses y muchos señores.]
+[Sin embargo, no todos tienen este conocimiento. Porque algunos, estando acostumbrados al ídolo hasta ahora, comen alimento como si este fuera sacrificado a un ídolo, y su conciencia, siendo débil, se mancha.]
 
-- εἰσὶν (V-PAI-3P) ==hay== [F]
-- εἰσὶν (V-PAI-3P) ==hay== [F]
+- ἐσθίουσιν, (V-PAI-3P) ==??== [F]
+- μολύνεται. (V-PPI-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-   - γὰρ → (porque)
-   - καί → (y)
+### 1Corintios 8:8
 
----
+βρῶμα δὲ ἡμᾶς οὐ ⸀παραστήσει τῷ θεῷ· οὔτε ⸂γὰρ ἐὰν φάγωμεν, περισσεύομεν, οὔτε ἐὰν μὴ φάγωμεν, ὑστερούμεθα⸃.
 
-### 1 Corintios 8:6 {#1co-8-6}
+[Pero la comida no nos recomendará a Dios, pues ni somos menos si no comemos, ni somos más si comemos.]
 
-ἀλλʼ ἡμῖν εἷς θεὸς ὁ πατήρ ἐξ οὗ τὰ πάντα καὶ ἡμεῖς εἰς αὐτόν καὶ εἷς κύριος Ἰησοῦς Χριστὸς διʼ οὗ τὰ πάντα καὶ ἡμεῖς διʼ αὐτοῦ
+- ⸀παραστήσει (V-FAI-3S) ==??== [F]
+- φάγωμεν, (V-AAS-1P) ==??== [F]
+- περισσεύομεν, (V-PAI-1P) ==??== [F]
+- φάγωμεν, (V-AAS-1P) ==??== [F]
+- ὑστερούμεθα⸃. (V-PPI-1P) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-[sin embargo, para nosotros hay un solo Dios, el Padre, de quien proceden todas las cosas y para quien nosotros existimos; y un solo Señor, Jesucristo, por medio de quien son todas las cosas y por medio de quien existimos.]
+### 1Corintios 8:9
 
-- [ἐστιν] (V-PAI-3S) ==[hay]== [F]
+βλέπετε δὲ μή πως ἡ ἐξουσία ὑμῶν αὕτη πρόσκομμα γένηται τοῖς ⸀ἀσθενέσιν.
 
-   - ἀλλʼ → (sin embargo)
-   - καί → (y)
+[Pero tengan cuidado, no sea que esta libertad de ustedes de alguna manera se convierta en piedra de tropiezo para el débil.]
 
----
+- βλέπετε (V-PAD-2P) ==??== [F]
+- γένηται (V-AMS-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 8:7 {#1co-8-7}
+### 1Corintios 8:10
 
-ἀλλʼ οὐκ ἐν πᾶσιν ἡ γνῶσις τινὲς δὲ τῇ συνειδήσει τοῦ εἰδώλου ἕως ἄρτι ὡς εἰδωλόθυτον ἐσθίουσιν καὶ ἡ συνείδησις αὐτῶν ἀσθενὴς οὖσα μολύνεται
+ἐὰν γάρ τις ἴδῃ σὲ τὸν ἔχοντα γνῶσιν ἐν εἰδωλείῳ κατακείμενον, οὐχὶ ἡ συνείδησις αὐτοῦ ἀσθενοῦς ὄντος οἰκοδομηθήσεται εἰς τὸ τὰ εἰδωλόθυτα ἐσθίειν;
 
-[Pero no en todos hay este conocimiento; sino que algunos, por estar acostumbrados al ídolo hasta ahora, comen como si fuera sacrificado a un ídolo, y su conciencia, siendo débil, se contamina.]
+[Porque si alguien te ve a ti, que tienes conocimiento, sentado a la mesa en un templo de ídolos, ¿no será estimulada su conciencia, si él es débil, a comer lo sacrificado a los ídolos?]
 
-- ἐσθίουσιν (V-PAI-3P) ==comen== [F]
-- οὖσα (V-PAP-NSF) siendo [NF]
-- μολύνεται (V-PPI-3S) ==se contamina== [F]
+- ἴδῃ (V-AAS-3S) ==es== [F]
+- οἰκοδομηθήσεται (V-FPI-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-   - ἀλλʼ → (pero)
-   - δὲ → (sino)
-   - καί → (y)
+### 1Corintios 8:11
 
----
+⸂ἀπόλλυται γὰρ⸃ ὁ ἀσθενῶν ⸀ἐν τῇ σῇ γνώσει, ⸂ὁ ἀδελφὸς⸃ δι’ ὃν Χριστὸς ἀπέθανεν.
 
-### 1 Corintios 8:8 {#1co-8-8}
+[Por tu conocimiento se perderá el que es débil, el hermano por quien Cristo murió.]
 
-βρῶμα δὲ ἡμᾶς οὐ παραστήσει τῷ θεῷ οὔτε ἐὰν μὴ φάγωμεν ὑστερούμεθα οὔτε ἐὰν φάγωμεν περισσεύομεν
+- ⸂ἀπόλλυται (V-PPI-3S) ==es== [F]
+- ἀπέθανεν. (V-AAI-3S) ==murió== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  A: "es" → B: "murió"
 
-[Pero la comida no nos recomendará ante Dios; ni somos menos si no comemos, ni somos más si comemos.]
+### 1Corintios 8:12
 
-- παραστήσει (V-FAI-3S) ==recomendará== [F]
-- φάγωμεν (V-AAS-1P) comamos [F]
-- ὑστερούμεθα (V-PPI-1P) ==somos menos== [F]
-- φάγωμεν (V-AAS-1P) comamos [F]
-- περισσεύομεν (V-PAI-1P) ==somos más== [F]
+οὕτως δὲ ἁμαρτάνοντες εἰς τοὺς ἀδελφοὺς καὶ τύπτοντες αὐτῶν τὴν συνείδησιν ἀσθενοῦσαν εἰς Χριστὸν ἁμαρτάνετε.
 
-   - δὲ → (pero)
+[Y así, al pecar contra los hermanos y herir su conciencia cuando esta es débil, pecan contra Cristo.]
 
----
+- ἁμαρτάνετε. (V-PAI-2P) ==es== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 8:9 {#1co-8-9}
+### 1Corintios 8:13
 
-βλέπετε δὲ μή πως ἡ ἐξουσία ὑμῶν αὕτη πρόσκομμα γένηται τοῖς ἀσθενέσιν
+διόπερ εἰ βρῶμα σκανδαλίζει τὸν ἀδελφόν μου, οὐ μὴ φάγω κρέα εἰς τὸν αἰῶνα, ἵνα μὴ τὸν ἀδελφόν μου σκανδαλίσω.
 
-[Pero tengan cuidado, no sea que esta libertad de ustedes se convierta en tropiezo para los débiles.]
+[Por tanto, si la comida hace que mi hermano caiga en pecado, no comeré carne jamás, para no hacer pecar a mi hermano.]
 
-- βλέπετε (V-PAM-2P) tengan cuidado [F]
-- γένηται (V-AMS-3S) se convierta [F]
+- σκανδαλίζει (V-PAI-3S) ==comeré== [F]
+- φάγω (V-AAS-1S) ==??== [F]
+- σκανδαλίσω. (V-AAS-1S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
 
-   - δὲ → (pero)
+### 1Corintios 9:1
 
----
-
-### 1 Corintios 8:10 {#1co-8-10}
-
-ἐὰν γάρ τις ἴδῃ σε τὸν ἔχοντα γνῶσιν ἐν εἰδωλείῳ κατακείμενον οὐχὶ ἡ συνείδησις αὐτοῦ ἀσθενοῦς ὄντος οἰκοδομηθήσεται εἰς τὸ τὰ εἰδωλόθυτα ἐσθίειν
-
-[Porque si alguien te ve a ti, que tienes conocimiento, sentado a la mesa en un templo de ídolos, ¿no será estimulada su conciencia, si es débil, a comer de lo sacrificado a los ídolos?]
-
-- ἴδῃ (V-AAS-3S) vea [F]
-- ἔχοντα (V-PAP-ASM) teniendo [NF]
-- κατακείμενον (V-PMP-ASM) sentado [NF]
-- οἰκοδομηθήσεται (V-FPI-3S) ==será edificada== [F]
-- ἐσθίειν (V-PAN) comer [NF]
-
-   - γάρ → (porque)
-   - ἐὰν → (si)
-
----
-
-### 1 Corintios 8:11 {#1co-8-11}
-
-ἀπόλλυται γὰρ ὁ ἀσθενῶν ἐν τῇ σῇ γνώσει ὁ ἀδελφὸς διʼ ὃν Χριστὸς ἀπέθανεν
-
-[Porque por tu conocimiento se pierde el débil, el hermano por quien Cristo murió.]
-
-- ἀπόλλυται (V-PMI-3S) ==se pierde== [F]
-- ἀπέθανεν (V-AAI-3S) ==murió== [F]
-
-   - γὰρ → (porque)
-
----
-
-### 1 Corintios 8:12 {#1co-8-12}
-
-οὕτως δὲ ἁμαρτάνοντες εἰς τοὺς ἀδελφοὺς καὶ τύπτοντες αὐτῶν τὴν συνείδησιν ἀσθενῆ εἰς Χριστὸν ἁμαρτάνετε
-
-[De esta manera, pecando contra los hermanos e hiriendo su conciencia débil, pecan contra Cristo.]
-
-- ἁμαρτάνοντες (V-PAP-NPM) pecando [NF]
-- τύπτοντες (V-PAP-NPM) hiriendo [NF]
-- ἁμαρτάνετε (V-PAI-2P) ==pecan== [F]
-
-   - δὲ → (de esta manera)
-   - καί → (y)
-
----
-
-### 1 Corintios 8:13 {#1co-8-13}
-
-διόπερ εἰ βρῶμα σκανδαλίζει τὸν ἀδελφόν μου οὐ μὴ φάγω κρέα εἰς τὸν αἰῶνα ἵνα μὴ τὸν ἀδελφόν μου σκανδαλίσω
-
-[Por tanto, si la comida hace pecar a mi hermano, nunca comeré carne, para no hacer pecar a mi hermano.]
-
-- σκανδαλίζει (V-PAI-3S) ==hace pecar== [F]
-- φάγω (V-AAS-1S) comeré [F]
-- σκανδαλίσω (V-AAS-1S) haga pecar [F]
-
-   - εἰ → (si)
-   - ἵνα → (para que)
-
-### 1 Corintios 9:1 {#1co-9-1}
-
-Οὐκ εἰμὶ ἐλεύθερος οὐκ εἰμὶ ἀπόστολος οὐχὶ Ἰησοῦν τὸν κύριον ἡμῶν ἑώρακα οὐ τὸ ἔργον μου ὑμεῖς ἐστε ἐν κυρίῳ
+Οὐκ εἰμὶ ⸂ἐλεύθερος; οὐκ εἰμὶ ἀπόστολος⸃; οὐχὶ ⸀Ἰησοῦν τὸν κύριον ἡμῶν ἑόρακα; οὐ τὸ ἔργον μου ὑμεῖς ἐστε ἐν κυρίῳ;
 
 [¿No soy libre? ¿No soy apóstol? ¿No he visto a Jesús nuestro Señor? ¿No son ustedes mi obra en el Señor?]
 
-- εἰμὶ (V-PAI-1S) ==soy== [F]
-- εἰμὶ (V-PAI-1S) ==soy== [F]
-- ἑώρακα (V-RAI-1S) ==he visto== [F]
-- ἐστε (V-PAI-2P) ==son== [F]
+- εἰμὶ (V-PAI-1S) ==son== [F]
+- εἰμὶ (V-PAI-1S) ==??== [F]
+- ἑόρακα; (V-XAI-1S) ==??== [F]
+- ἐστε (V-PAI-2P) ==??== [F]
 
----
+### 1Corintios 9:2
 
-### 1 Corintios 9:2 {#1co-9-2}
+εἰ ἄλλοις οὐκ εἰμὶ ἀπόστολος, ἀλλά γε ὑμῖν εἰμι, ἡ γὰρ σφραγίς ⸂μου τῆς⸃ ἀποστολῆς ὑμεῖς ἐστε ἐν κυρίῳ.
 
-εἰ ἄλλοις οὐκ εἰμὶ ἀπόστολος ἀλλά γε ὑμῖν εἰμι ἡ γὰρ σφραγίς μου τῆς ἀποστολῆς ὑμεῖς ἐστε ἐν κυρίῳ
+[Si para otros no soy apóstol, por lo menos para ustedes sí lo soy; pues ustedes son el sello de mi apostolado en el Señor.]
 
-[Si para otros no soy apóstol, al menos para ustedes sí lo soy; porque ustedes son el sello de mi apostolado en el Señor.]
+- εἰμὶ (V-PAI-1S) ==son== [F]
+- εἰμι, (V-PAI-1S) ==??== [F]
+- ἐστε (V-PAI-2P) ==??== [F]
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-- εἰμὶ (V-PAI-1S) ==soy== [F]
-- εἰμι (V-PAI-1S) ==soy== [F]
-- ἐστε (V-PAI-2P) ==son== [F]
+### 1Corintios 9:3
 
-   - γὰρ → (porque)
-   - ἀλλά → (pero)
+Ἡ ἐμὴ ἀπολογία τοῖς ἐμὲ ἀνακρίνουσίν ⸂ἐστιν αὕτη⸃.
 
----
+[Mi defensa contra los que me examinan es esta:]
 
-### 1 Corintios 9:3 {#1co-9-3}
+- ⸂ἐστιν (V-PAI-3S) ==es== [F]
 
-Ἡ ἐμὴ ἀπολογία τοῖς ἐμὲ ἀνακρίνουσιν αὕτη ἐστίν
+### 1Corintios 9:4
 
-[Esta es mi defensa contra los que me examinan.]
+μὴ οὐκ ἔχομεν ἐξουσίαν φαγεῖν καὶ ⸀πεῖν;
 
-- ἐστίν (V-PAI-3S) ==es== [F]
+[¿Acaso no tenemos derecho a comer y beber?]
 
----
+- ἔχομεν (V-PAI-1P) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 9:4 {#1co-9-4}
+### 1Corintios 9:5
 
-μὴ οὐκ ἔχομεν ἐξουσίαν φαγεῖν καὶ πεῖν
+μὴ οὐκ ἔχομεν ἐξουσίαν ἀδελφὴν γυναῖκα περιάγειν, ὡς καὶ οἱ λοιποὶ ἀπόστολοι καὶ οἱ ἀδελφοὶ τοῦ κυρίου καὶ Κηφᾶς;
 
-[¿Acaso no tenemos derecho de comer y beber?]
+[¿No tenemos derecho a llevar con nosotros una esposa creyente, así como los demás apóstoles y los hermanos del Señor y Cefas?]
 
-- ἔχομεν (V-PAI-1P) ==tenemos== [F]
-- φαγεῖν (V-AAN) comer [NF]
-- πεῖν (V-AAN) beber [NF]
+- ἔχομεν (V-PAI-1P) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-   - καί → (y)
+### 1Corintios 9:6
 
----
+ἢ μόνος ἐγὼ καὶ Βαρναβᾶς οὐκ ἔχομεν ἐξουσίαν ⸀μὴ ἐργάζεσθαι;
 
-### 1 Corintios 9:5 {#1co-9-5}
+[¿O acaso solo Bernabé y yo no tenemos el derecho a no trabajar?]
 
-μὴ οὐκ ἔχομεν ἐξουσίαν ἀδελφὴν γυναῖκα περιάγειν ὡς καὶ οἱ λοιποὶ ἀπόστολοι καὶ οἱ ἀδελφοὶ τοῦ κυρίου καὶ Κηφᾶς
+- ἔχομεν (V-PAI-1P) ==bernabé== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-[¿No tenemos derecho de llevar con nosotros una esposa creyente, como también los demás apóstoles, y los hermanos del Señor y Cefas?]
+### 1Corintios 9:7
 
-- ἔχομεν (V-PAI-1P) ==tenemos== [F]
-- περιάγειν (V-PAN) llevar [NF]
+τίς στρατεύεται ἰδίοις ὀψωνίοις ποτέ; τίς φυτεύει ἀμπελῶνα καὶ ⸂τὸν καρπὸν⸃ αὐτοῦ οὐκ ἐσθίει; ⸀τίς ποιμαίνει ποίμνην καὶ ἐκ τοῦ γάλακτος τῆς ποίμνης οὐκ ἐσθίει;
 
-   - καί → (también)
+[¿Quién ha servido alguna vez como soldado a sus propias expensas? ¿Quién planta una viña y no come de su fruto? ¿O quién cuida un rebaño y no bebe de la leche del rebaño?]
 
----
+- στρατεύεται (V-PMI-3S) ==??== [F]
+- φυτεύει (V-PAI-3S) ==??== [F]
+- ἐσθίει; (V-PAI-3S) ==??== [F]
+- ποιμαίνει (V-PAI-3S) ==??== [F]
+- ἐσθίει; (V-PAI-3S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 9:6 {#1co-9-6}
+### 1Corintios 9:8
 
-ἢ μόνος ἐγὼ καὶ Βαρναβᾶς οὐκ ἔχομεν ἐξουσίαν μὴ ἐργάζεσθαι
+Μὴ κατὰ ἄνθρωπον ταῦτα λαλῶ ἢ ⸂καὶ ὁ νόμος ταῦτα οὐ⸃ λέγει;
 
-[¿O solo yo y Bernabé no tenemos derecho a no trabajar?]
+[¿Acaso digo esto según el juicio humano? ¿No dice también la ley esto mismo?]
 
-- ἔχομεν (V-PAI-1P) ==tenemos== [F]
-- ἐργάζεσθαι (V-PMN) trabajar [NF]
+- λαλῶ (V-PAI-1S) ==??== [F]
+- λέγει; (V-PAI-3S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 9:9
 
-### 1 Corintios 9:7 {#1co-9-7}
+ἐν γὰρ τῷ Μωϋσέως νόμῳ γέγραπται· Οὐ ⸀κημώσεις βοῦν ἀλοῶντα. μὴ τῶν βοῶν μέλει τῷ θεῷ,
 
-τίς στρατεύεται ἰδίοις ὀψωνίοις ποτέ τίς φυτεύει ἀμπελῶνα καὶ τὸν καρπὸν αὐτοῦ οὐκ ἐσθίει ἢ τίς ποιμαίνει ποίμνην καὶ ἐκ τοῦ γάλακτος τῆς ποίμνης οὐκ ἐσθίει
+[Pues en la ley de Moisés está escrito: «NO PONDRÁS BOZAL AL BUEY CUANDO TRILLA». ¿Acaso le preocupan a Dios los bueyes?]
 
-[¿Quién va a la guerra a sus propias expensas? ¿Quién planta una viña y no come de su fruto? ¿O quién apacienta un rebaño y no come de la leche del rebaño?]
+- γέγραπται· (V-XPI-3S) ==??== [F]
+- ⸀κημώσεις (V-FAI-2S) ==??== [F]
+- μέλει (V-PAI-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-- στρατεύεται (V-PMI-3S) ==va a la guerra== [F]
-- φυτεύει (V-PAI-3S) ==planta== [F]
-- ἐσθίει (V-PAI-3S) ==come== [F]
-- ποιμαίνει (V-PAI-3S) ==apacienta== [F]
-- ἐσθίει (V-PAI-3S) ==come== [F]
+### 1Corintios 9:10
 
-   - καί → (y)
-   - ἢ → (o)
+ἢ δι’ ἡμᾶς πάντως λέγει; δι’ ἡμᾶς γὰρ ἐγράφη, ὅτι ⸂ὀφείλει ἐπ’ ἐλπίδι⸃ ὁ ἀροτριῶν ἀροτριᾶν, καὶ ὁ ἀλοῶν ⸂ἐπ’ ἐλπίδι τοῦ μετέχειν⸃.
 
----
+[¿O lo dice especialmente por nosotros? Sí, se escribió por nosotros, porque el que ara debe arar con esperanza, y el que trilla debe trillar con la esperanza de recibir de la cosecha.]
 
-### 1 Corintios 9:8 {#1co-9-8}
+- λέγει; (V-PAI-3S) ==escribió== [F]
+- ἐγράφη, (V-API-3S) ==??== [F]
+- ⸂ὀφείλει (V-PAI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-μὴ κατὰ ἄνθρωπον ταῦτα λαλῶ ἢ καὶ ὁ νόμος ταῦτα οὐ λέγει
+### 1Corintios 9:11
 
-[¿Acaso digo esto según el juicio humano, o no dice esto también la ley?]
+εἰ ἡμεῖς ὑμῖν τὰ πνευματικὰ ἐσπείραμεν, μέγα εἰ ἡμεῖς ὑμῶν τὰ σαρκικὰ θερίσομεν;
 
-- λαλῶ (V-PAI-1S) ==digo== [F]
-- λέγει (V-PAI-3S) ==dice== [F]
+[Si en ustedes sembramos lo espiritual, ¿será demasiado que de ustedes cosechemos lo material?]
 
-   - ἢ → (o)
-   - καί → (también)
+- ἐσπείραμεν, (V-AAI-1P) ==??== [F]
+- θερίσομεν; (V-FAI-1P) ==??== [F]
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 9:12
 
-### 1 Corintios 9:9 {#1co-9-9}
+εἰ ἄλλοι τῆς ⸂ὑμῶν ἐξουσίας⸃ μετέχουσιν, οὐ μᾶλλον ἡμεῖς; Ἀλλ’ οὐκ ἐχρησάμεθα τῇ ἐξουσίᾳ ταύτῃ, ἀλλὰ πάντα στέγομεν ἵνα μή ⸂τινα ἐγκοπὴν⸃ δῶμεν τῷ εὐαγγελίῳ τοῦ Χριστοῦ.
 
-ἐν γὰρ τῷ Μωϋσέως νόμῳ γέγραπται οὐ φιμώσεις βοῦν ἀλοῶντα μὴ τῶν βοῶν μέλει τῷ θεῷ
+[Si otros tienen este derecho sobre ustedes, ¿no lo tenemos aún más nosotros? Sin embargo, no hemos usado este derecho, sino que sufrimos todo para no causar estorbo al evangelio de Cristo.]
 
-[Porque en la ley de Moisés está escrito: “No pondrás bozal al buey cuando trilla”. ¿Acaso se preocupa Dios por los bueyes?]
+- μετέχουσιν, (V-PAI-3P) ==??== [F]
+- ἐχρησάμεθα (V-AMI-1P) ==??== [F]
+- στέγομεν (V-PAI-1P) ==??== [F]
+- δῶμεν (V-AAS-1P) ==??== [F]
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-- γέγραπται (V-RPI-3S) ==está escrito== [F]
-- φιμώσεις (V-FAI-2S) pondrás [F]
-- μέλει (V-PQI-3S) ==se preocupa== [F]
+### 1Corintios 9:13
 
-   - γὰρ → (porque)
+οὐκ οἴδατε ὅτι οἱ τὰ ἱερὰ ἐργαζόμενοι ⸀τὰ ἐκ τοῦ ἱεροῦ ἐσθίουσιν, οἱ τῷ θυσιαστηρίῳ ⸀παρεδρεύοντες τῷ θυσιαστηρίῳ συμμερίζονται;
 
----
+[¿No saben que los que desempeñan los servicios sagrados comen la comida del templo, y los que regularmente sirven al altar, del altar reciben su parte?]
 
-### 1 Corintios 9:10 {#1co-9-10}
+- οἴδατε (V-XAI-2P) ==??== [F]
+- ἐσθίουσιν, (V-PAI-3P) ==??== [F]
+- συμμερίζονται; (V-PMI-3P) ==??== [F]
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
 
-ἢ διʼ ἡμᾶς πάντως λέγει διʼ ἡμᾶς γὰρ ἐγράφη ὅτι ὀφείλει ἐπʼ ἐλπίδι ὁ ἀροτριῶν ἀροτριᾶν καὶ ὁ ἀλοῶν ἐπʼ ἐλπίδι τοῦ μετέχειν
+### 1Corintios 9:14
 
-[¿O lo dice en realidad por nosotros? Sí, por nosotros se escribió; porque el que ara debe arar con esperanza, y el que trilla, con esperanza de participar.]
+οὕτως καὶ ὁ κύριος διέταξεν τοῖς τὸ εὐαγγέλιον καταγγέλλουσιν ἐκ τοῦ εὐαγγελίου ζῆν.
 
-- λέγει (V-PAI-3S) ==dice== [F]
-- ἐγράφη (V-API-3S) ==se escribió== [F]
-- ὀφείλει (V-PAI-3S) ==debe== [F]
-- ἀροτριᾶν (V-PAN) arar [NF]
-- μετέχειν (V-PAN) participar [NF]
-
-   - γὰρ → (porque)
-   - ὅτι → (que)
-   - καί → (y)
-
----
-
-### 1 Corintios 9:11 {#1co-9-11}
-
-εἰ ἡμεῖς ὑμῖν τὰ πνευματικὰ ἐσπείραμεν μέγα εἰ ἡμεῖς ὑμῶν τὰ σαρκικὰ θερίσομεν
-
-[Si nosotros sembramos en ustedes lo espiritual, ¿será demasiado que cosechemos de ustedes lo material?]
-
-- ἐσπείραμεν (V-AAI-1P) ==sembramos== [F]
-- θερίσομεν (V-FAI-1P) ==cosecharemos== [F]
-
-   - εἰ → (si)
-
----
-
-### 1 Corintios 9:12 {#1co-9-12}
-
-εἰ ἄλλοι τῆς ἐξουσίας ὑμῶν μετέχουσιν οὐ μᾶλλον ἡμεῖς ἀλλʼ οὐκ ἐχρησάμεθα τῇ ἐξουσίᾳ ταύτῃ ἀλλὰ πάντα στέγομεν ἵνα μὴ ἐγκοπήν τινα δῶμεν τῷ εὐαγγελίῳ τοῦ Χριστοῦ
-
-[Si otros participan de este derecho sobre ustedes, ¿no más nosotros? Sin embargo, no hemos hecho uso de este derecho, sino que lo soportamos todo, para no poner obstáculo al evangelio de Cristo.]
-
-- μετέχουσιν (V-PAI-3P) ==participan== [F]
-- ἐχρησάμεθα (V-AMI-1P) ==hemos hecho uso== [F]
-- στέγομεν (V-PAI-1P) ==soportamos== [F]
-- δῶμεν (V-AAS-1P) pongamos [F]
-
-   - εἰ → (si)
-   - ἀλλʼ → (sin embargo)
-   - ἀλλὰ → (sino)
-   - ἵνα → (para que)
-
----
-
-### 1 Corintios 9:13 {#1co-9-13}
-
-οὐκ οἴδατε ὅτι οἱ τὰ ἱερὰ ἐργαζόμενοι ἐκ τοῦ ἱεροῦ ἐσθίουσιν οἱ τῷ θυσιαστηρίῳ παρεδρεύοντες τῷ θυσιαστηρίῳ συμμερίζονται
-
-[¿No saben que los que desempeñan los servicios sagrados comen del templo, y los que regularmente sirven al altar participan del altar?]
-
-- οἴδατε (V-RAI-2P) ==saben== [F]
-- ἐσθίουσιν (V-PAI-3P) ==comen== [F]
-- συμμερίζονται (V-PMI-3P) ==participan== [F]
-
-   - ὅτι → (que)
-
----
-
-### 1 Corintios 9:14 {#1co-9-14}
-
-οὕτως καὶ ὁ κύριος διέταξεν τοῖς τὸ εὐαγγέλιον καταγγέλλουσιν ἐκ τοῦ εὐαγγελίου ζῆν
-
-[Así también el Señor ordenó que los que proclaman el evangelio vivan del evangelio.]
+[Así también ordenó el Señor que los que proclaman el evangelio, vivan del evangelio.]
 
 - διέταξεν (V-AAI-3S) ==ordenó== [F]
-- ζῆν (V-PAN) vivir [NF]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-   - καί → (también)
+### 1Corintios 9:15
 
-### 1 Corintios 9:15 {#1co-9-15}
+Ἐγὼ δὲ ⸂οὐ κέχρημαι οὐδενὶ⸃ τούτων. οὐκ ἔγραψα δὲ ταῦτα ἵνα οὕτως γένηται ἐν ἐμοί, καλὸν γάρ μοι μᾶλλον ἀποθανεῖν ἤ— τὸ καύχημά μου ⸂οὐδεὶς κενώσει⸃.
 
-ἐγὼ δὲ οὐ κέχρημαι οὐδενὶ τούτων οὐκ ἔγραψα δὲ ταῦτα ἵνα οὕτως γένηται ἐν ἐμοί καλὸν γάρ μοι μᾶλλον ἀποθανεῖν ἢ τὸ καύχημά μου οὐδεὶς κενώσει
+[Pero yo de nada de esto me he aprovechado. Y no escribo esto para que así se haga conmigo. Porque mejor me fuera morir, que permitir que alguien me prive de esta gloria.]
 
-[Pero yo no he hecho uso de ninguno de estos derechos, ni he escrito esto para que se haga así conmigo; porque mejor me es morir que nadie haga vana mi gloria.]
+- κέχρημαι (V-XMI-1S) ==??== [F]
+- ἔγραψα (V-AAI-1S) ==??== [F]
+- γένηται (V-AMS-3S) ==??== [F]
+- κενώσει⸃. (V-FAI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-- κέχρημαι (V-RMI-1S) ==he hecho uso== [F]
-- ἔγραψα (V-AAI-1S) ==escribí== [F]
-- γένηται (V-AMS-3S) se haga [F]
-- ἀποθανεῖν (V-AAN) morir [NF]
-- κενώσει (V-FAI-3S) ==hará vana== [F]
+### 1Corintios 9:16
 
-   - δὲ → (pero)
-   - ἵνα → (para que)
-   - γάρ → (porque)
-   - ἢ → (que)
+ἐὰν γὰρ εὐαγγελίζωμαι, οὐκ ἔστιν μοι καύχημα, ἀνάγκη γάρ μοι ἐπίκειται· οὐαὶ ⸀γάρ μοί ἐστιν ἐὰν μὴ ⸀εὐαγγελίσωμαι.
 
----
+[Porque si predico el evangelio, no tengo nada de qué gloriarme, pues estoy bajo el deber de hacerlo. Pues ¡ay de mí si no predico el evangelio!]
 
-### 1 Corintios 9:16 {#1co-9-16}
+- εὐαγγελίζωμαι, (V-PMS-1S) ==qué== [F]
+- ἔστιν (V-PAI-3S) ==??== [F]
+- ἐπίκειται· (V-PMI-3S) ==??== [F]
+- ἐστιν (V-PAI-3S) ==??== [F]
+- ⸀εὐαγγελίσωμαι. (V-AMS-1S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-ἐὰν γὰρ εὐαγγελίζωμαι οὐκ ἔστιν μοι καύχημα ἀνάγκη γάρ μοι ἐπίκειται οὐαὶ γάρ μοι ἐστίν ἐὰν μὴ εὐαγγελίσωμαι
+### 1Corintios 9:17
 
-[Porque si predico el evangelio, no tengo motivo de gloriarme; pues me es impuesta necesidad; y ¡ay de mí si no predico el evangelio!]
+εἰ γὰρ ἑκὼν τοῦτο πράσσω, μισθὸν ἔχω· εἰ δὲ ἄκων, οἰκονομίαν πεπίστευμαι.
 
-- εὐαγγελίζωμαι (V-PMS-1S) predique [F]
-- ἔστιν (V-PAI-3S) ==es== [F]
-- ἐπίκειται (V-PMI-3S) ==me es impuesta== [F]
-- ἐστίν (V-PAI-3S) ==es== [F]
-- εὐαγγελίσωμαι (V-AMS-1S) predique [F]
+[Porque si hago esto voluntariamente, tengo recompensa; pero si lo hago en contra de mi voluntad, un encargo se me ha confiado.]
 
-   - γάρ → (porque)
-   - ἐὰν → (si)
+- πράσσω, (V-PAI-1S) ==??== [F]
+- ἔχω· (V-PAI-1S) ==??== [F]
+- πεπίστευμαι. (V-XPI-1S) ==??== [F]
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 9:18
 
-### 1 Corintios 9:17 {#1co-9-17}
+τίς οὖν ⸀μού ἐστιν ὁ μισθός; ἵνα εὐαγγελιζόμενος ἀδάπανον θήσω τὸ ⸀εὐαγγέλιον, εἰς τὸ μὴ καταχρήσασθαι τῇ ἐξουσίᾳ μου ἐν τῷ εὐαγγελίῳ.
 
-εἰ γὰρ ἑκών τοῦτο πράσσω μισθὸν ἔχω εἰ δὲ ἄκων οἰκονομίαν πεπίστευμαι
-
-[Porque si lo hago voluntariamente, tengo recompensa; pero si contra mi voluntad, tengo una comisión que se me ha confiado.]
-
-- πράσσω (V-PAI-1S) ==hago== [F]
-- ἔχω (V-PAI-1S) ==tengo== [F]
-- πεπίστευμαι (V-RPI-1S) ==se me ha confiado== [F]
-
-   - γάρ → (porque)
-   - εἰ → (si)
-   - δὲ → (pero)
-
----
-
-### 1 Corintios 9:18 {#1co-9-18}
-
-τίς οὖν μού ἐστιν ὁ μισθός ἵνα εὐαγγελιζόμενος ἀδάπανον θήσω τὸ εὐαγγέλιον εἰς τὸ μὴ καταχρήσασθαι τῇ ἐξουσίᾳ μου ἐν τῷ εὐαγγελίῳ
-
-[¿Cuál es entonces mi recompensa? Que al predicar el evangelio, lo haga gratuitamente, para no hacer pleno uso de mi derecho en el evangelio.]
+[¿Cuál es, entonces, mi recompensa? Que al predicar el evangelio, pueda ofrecerlo gratuitamente sin hacer pleno uso de mi derecho como predicador del evangelio.]
 
 - ἐστιν (V-PAI-3S) ==es== [F]
-- εὐαγγελιζόμενος (V-PMP-NSM) predicando [NF]
-- θήσω (V-FAI-1S) ==haré== [F]
-- καταχρήσασθαι (V-AMN) usar plenamente [NF]
+- θήσω (V-AAS-1S) ==??== [F]
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-   - οὖν → (entonces)
-   - ἵνα → (que)
+### 1Corintios 9:19
 
----
+Ἐλεύθερος γὰρ ὢν ἐκ πάντων πᾶσιν ἐμαυτὸν ἐδούλωσα, ἵνα τοὺς πλείονας κερδήσω·
 
-### 1 Corintios 9:19 {#1co-9-19}
+[Porque aunque soy libre de todos, de todos me he hecho esclavo para ganar al mayor número posible.]
 
-ἐλεύθερος γὰρ ὢν ἐκ πάντων πᾶσιν ἐμαυτὸν ἐδούλωσα ἵνα τοὺς πλείονας κερδήσω
+- ἐδούλωσα, (V-AAI-1S) ==??== [F]
+- κερδήσω· (V-AAS-1S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
 
-[Porque siendo libre de todos, me he hecho esclavo de todos, para ganar al mayor número.]
+### 1Corintios 9:20
 
-- ὢν (V-PAP-NSM) siendo [NF]
-- ἐδούλωσα (V-AAI-1S) ==me hice esclavo== [F]
-- κερδήσω (V-AAS-1S) gane [F]
+καὶ ἐγενόμην τοῖς Ἰουδαίοις ὡς Ἰουδαῖος, ἵνα Ἰουδαίους κερδήσω· τοῖς ὑπὸ νόμον ὡς ὑπὸ νόμον, ⸂μὴ ὢν αὐτὸς ὑπὸ νόμον⸃, ἵνα τοὺς ὑπὸ νόμον κερδήσω·
 
-   - γὰρ → (porque)
-   - ἵνα → (para que)
+[A los judíos me hice como judío, para poder ganar a los judíos. A los que están bajo la ley, como bajo la ley, aunque yo no estoy bajo la ley, para poder ganar a los que están bajo la ley.]
 
----
+- ἐγενόμην (V-AMI-1S) ==??== [F]
+- κερδήσω· (V-AAS-1S) ==??== [F]
+- κερδήσω· (V-AAS-1S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 9:20 {#1co-9-20}
+### 1Corintios 9:21
 
-καὶ ἐγενόμην τοῖς Ἰουδαίοις ὡς Ἰουδαῖος ἵνα Ἰουδαίους κερδήσω τοῖς ὑπὸ νόμον ὡς ὑπὸ νόμον μὴ ὢν αὐτὸς ὑπὸ νόμον ἵνα τοὺς ὑπὸ νόμον κερδήσω
+τοῖς ἀνόμοις ὡς ἄνομος, μὴ ὢν ἄνομος ⸀θεοῦ ἀλλ’ ἔννομος ⸀Χριστοῦ, ἵνα ⸀κερδάνω ⸀τοὺς ἀνόμους·
 
-[Y me hice a los judíos como judío, para ganar a los judíos; a los que están bajo la ley, como bajo la ley, aunque yo no estoy bajo la ley, para ganar a los que están bajo la ley.]
+[A los que están sin ley, como sin ley, aunque no estoy sin la ley de Dios, sino bajo la ley de Cristo, para poder ganar a los que están sin ley.]
 
-- ἐγενόμην (V-ADI-1S) ==me hice== [F]
-- ὢν (V-PAP-NSM) siendo [NF]
-- κερδήσω (V-AAS-1S) gane [F]
-- κερδήσω (V-AAS-1S) gane [F]
+- ⸀κερδάνω (V-AAS-1S) ==??== [F]
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
 
-   - καί → (y)
-   - ἵνα → (para que)
+### 1Corintios 9:22
 
----
+ἐγενόμην τοῖς ⸀ἀσθενέσιν ἀσθενής, ἵνα τοὺς ἀσθενεῖς κερδήσω· τοῖς πᾶσιν ⸀γέγονα πάντα, ἵνα πάντως τινὰς σώσω.
 
-### 1 Corintios 9:21 {#1co-9-21}
+[A los débiles me hice débil, para ganar a los débiles. A todos me he hecho todo, para que por todos los medios salve a algunos.]
 
-τοῖς ἀνόμοις ὡς ἄνομος μὴ ὢν ἄνομος θεοῦ ἀλλʼ ἔννομος Χριστοῦ ἵνα κερδήσω τοὺς ἀνόμους
+- ἐγενόμην (V-AMI-1S) ==??== [F]
+- κερδήσω· (V-AAS-1S) ==??== [F]
+- ⸀γέγονα (V-XAI-1S) ==??== [F]
+- σώσω. (V-AAS-1S) ==??== [F]
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
 
-[a los que están sin ley, como si yo estuviera sin ley, aunque no estoy sin ley de Dios, sino bajo la ley de Cristo, para ganar a los que están sin ley.]
+### 1Corintios 9:23
 
-- ὢν (V-PAP-NSM) siendo [NF]
-- κερδήσω (V-AAS-1S) gane [F]
+⸀πάντα δὲ ποιῶ διὰ τὸ εὐαγγέλιον, ἵνα συγκοινωνὸς αὐτοῦ γένωμαι.
 
-   - ἀλλʼ → (sino)
-   - ἵνα → (para que)
+[Y todo lo hago por amor del evangelio, para ser partícipe de él.]
 
----
+- ποιῶ (V-PAI-1S) ==??== [F]
+- γένωμαι. (V-AMS-1S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 9:22 {#1co-9-22}
+### 1Corintios 9:24
 
-ἐγενόμην τοῖς ἀσθενέσιν ἀσθενής ἵνα τοὺς ἀσθενεῖς κερδήσω τοῖς πᾶσιν γέγονα πάντα ἵνα πάντως τινὰς σώσω
+Οὐκ οἴδατε ὅτι οἱ ἐν σταδίῳ τρέχοντες πάντες μὲν τρέχουσιν, εἷς δὲ λαμβάνει τὸ βραβεῖον; οὕτως τρέχετε ἵνα καταλάβητε.
 
-[A los débiles me hice débil, para ganar a los débiles; a todos me he hecho todo, para que de todos modos salve a algunos.]
+[¿No saben que los que corren en el estadio, todos en verdad corren, pero solo uno obtiene el premio? Corran de tal modo que ganen.]
 
-- ἐγενόμην (V-ADI-1S) ==me hice== [F]
-- κερδήσω (V-AAS-1S) gane [F]
-- γέγονα (V-RAI-1S) ==me he hecho== [F]
-- σώσω (V-AAS-1S) salve [F]
+- οἴδατε (V-XAI-2P) ==??== [F]
+- τρέχουσιν, (V-PAI-3P) ==??== [F]
+- λαμβάνει (V-PAI-3S) ==??== [F]
+- τρέχετε (V-PAD-2P) ==??== [F]
+- καταλάβητε. (V-AAS-2P) ==??== [F]
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-   - ἵνα → (para que)
+### 1Corintios 9:25
 
----
+πᾶς δὲ ὁ ἀγωνιζόμενος πάντα ἐγκρατεύεται, ἐκεῖνοι μὲν οὖν ἵνα φθαρτὸν στέφανον λάβωσιν, ἡμεῖς δὲ ἄφθαρτον.
 
-### 1 Corintios 9:23 {#1co-9-23}
+[Y todo el que compite en los juegos se abstiene de todo. Ellos lo hacen para recibir una corona corruptible, pero nosotros, una incorruptible.]
 
-πάντα δὲ ποιῶ διὰ τὸ εὐαγγέλιον ἵνα συγκοινωνὸς αὐτοῦ γένωμαι
+- ἐγκρατεύεται, (V-PMI-3S) ==??== [F]
+- λάβωσιν, (V-AAS-3P) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
 
-[Y todo lo hago por causa del evangelio, para llegar a ser copartícipe de él.]
+### 1Corintios 9:26
 
-- ποιῶ (V-PAI-1S) ==hago== [F]
-- γένωμαι (V-AMS-1S) llegue a ser [F]
+ἐγὼ τοίνυν οὕτως τρέχω ὡς οὐκ ἀδήλως, οὕτως πυκτεύω ὡς οὐκ ἀέρα δέρων·
 
-   - δὲ → (y)
-   - ἵνα → (para que)
+[Por tanto, yo de esta manera corro, no como sin tener meta; de esta manera peleo, no como dando golpes al aire,]
 
----
+- τρέχω (V-PAI-1S) ==??== [F]
+- πυκτεύω (V-PAI-1S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 9:24 {#1co-9-24}
+### 1Corintios 9:27
 
-οὐκ οἴδατε ὅτι οἱ ἐν σταδίῳ τρέχοντες πάντες μὲν τρέχουσιν εἷς δὲ λαμβάνει τὸ βραβεῖον οὕτως τρέχετε ἵνα καταλάβητε
+ἀλλὰ ὑπωπιάζω μου τὸ σῶμα καὶ δουλαγωγῶ, μή πως ἄλλοις κηρύξας αὐτὸς ἀδόκιμος γένωμαι.
 
-[¿No saben que los que corren en el estadio, todos corren, pero uno solo recibe el premio? Corran de tal modo que ganen.]
+[sino que golpeo mi cuerpo y lo hago mi esclavo, no sea que habiendo predicado a otros, yo mismo sea descalificado.]
 
-- οἴδατε (V-RAI-2P) ==saben== [F]
-- τρέχουσιν (V-PAI-3P) ==corren== [F]
-- λαμβάνει (V-PAI-3S) ==recibe== [F]
-- τρέχετε (V-PAM-2P) corran [F]
-- καταλάβητε (V-AAS-2P) ganen [F]
+- ὑπωπιάζω (V-PAI-1S) ==??== [F]
+- δουλαγωγῶ, (V-PAI-1S) ==??== [F]
+- γένωμαι. (V-AMS-1S) ==??== [F]
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-   - ὅτι → (que)
-   - δὲ → (pero)
-   - ἵνα → (para que)
+### 1Corintios 10:1
 
----
-
-### 1 Corintios 9:25 {#1co-9-25}
-
-πᾶς δὲ ὁ ἀγωνιζόμενος πάντα ἐγκρατεύεται ἐκεῖνοι μὲν οὖν ἵνα φθαρτὸν στέφανον λάβωσιν ἡμεῖς δὲ ἄφθαρτον
-
-[Y todo el que compite en los juegos se domina en todo. Ellos, pues, lo hacen para recibir una corona corruptible, pero nosotros, una incorruptible.]
-
-- ἀγωνιζόμενος (V-PMP-NSM) compitiendo [NF]
-- ἐγκρατεύεται (V-PMI-3S) ==se domina== [F]
-- λάβωσιν (V-AAS-3P) reciban [F]
-
-   - δὲ → (y)
-   - οὖν → (pues)
-   - ἵνα → (para que)
-
----
-
-### 1 Corintios 9:26 {#1co-9-26}
-
-ἐγὼ τοίνυν οὕτως τρέχω ὡς οὐκ ἀδήλως οὕτως πυκτεύω ὡς οὐκ ἀέρα δέρων
-
-[Así que yo de esta manera corro, no como sin rumbo; de esta manera peleo, no como dando golpes al aire.]
-
-- τρέχω (V-PAI-1S) ==corro== [F]
-- πυκτεύω (V-PAI-1S) ==peleo== [F]
-- δέρων (V-PAP-NSM) golpeando [NF]
-
-   - τοίνυν → (así que)
-
----
-
-### 1 Corintios 9:27 {#1co-9-27}
-
-ἀλλʼ ὑπωπιάζω μου τὸ σῶμα καὶ δουλαγωγῶ μή πως ἄλλοις κηρύξας αὐτὸς ἀδόκιμος γένωμαι
-
-[Al contrario, golpeo mi cuerpo y lo hago mi esclavo, no sea que habiendo predicado a otros, yo mismo sea descalificado.]
-
-- ὑπωπιάζω (V-PAI-1S) ==golpeo== [F]
-- δουλαγωγῶ (V-PAI-1S) ==hago esclavo== [F]
-- κηρύξας (V-AAP-NSM) habiendo predicado [NF]
-- γένωμαι (V-AMS-1S) sea [F]
-
-   - ἀλλʼ → (al contrario)
-
-### 1 Corintios 10:1 {#1co-10-1}
-
-Οὐ θέλω γὰρ ὑμᾶς ἀγνοεῖν ἀδελφοί ὅτι οἱ πατέρες ἡμῶν πάντες ὑπὸ τὴν νεφέλην ἦσαν καὶ πάντες διὰ τῆς θαλάσσης διῆλθον
+Οὐ θέλω ⸀γὰρ ὑμᾶς ἀγνοεῖν, ἀδελφοί, ὅτι οἱ πατέρες ἡμῶν πάντες ὑπὸ τὴν νεφέλην ἦσαν καὶ πάντες διὰ τῆς θαλάσσης διῆλθον,
 
 [Porque no quiero que ignoren, hermanos, que todos nuestros padres estuvieron bajo la nube y todos pasaron por el mar.]
 
-- θέλω (V-PAI-1S) ==quiero== [F]
-- ἀγνοεῖν (V-PAN) ignorar [NF]
-- ἦσαν (V-IAI-3P) ==estuvieron== [F]
-- διῆλθον (V-AAI-3P) ==pasaron== [F]
+- θέλω (V-PAI-1S) ==estuvieron== [F]
+- ἦσαν (V-IAI-3P) ==pasaron== [F]
+- διῆλθον, (V-AAI-3P) ==??== [F]
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  A: "estuvieron" → B: "pasaron"
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-   - γὰρ → (porque)
-   - ὅτι → (que)
-   - καί → (y)
+### 1Corintios 10:2
 
----
+καὶ πάντες εἰς τὸν Μωϋσῆν ⸀ἐβαπτίσαντο ἐν τῇ νεφέλῃ καὶ ἐν τῇ θαλάσσῃ,
 
-### 1 Corintios 10:2 {#1co-10-2}
+[En Moisés todos fueron bautizados en la nube y en el mar.]
 
-καὶ πάντες εἰς τὸν Μωϋσῆν ἐβαπτίσθησαν ἐν τῇ νεφέλῃ καὶ ἐν τῇ θαλάσσῃ
+- ⸀ἐβαπτίσαντο (V-AMI-3P) ==fueron bautizados== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-[y todos en Moisés fueron bautizados en la nube y en el mar.]
+### 1Corintios 10:3
 
-- ἐβαπτίσθησαν (V-API-3P) ==fueron bautizados== [F]
+καὶ πάντες τὸ αὐτὸ ⸂πνευματικὸν βρῶμα⸃ ἔφαγον
 
-   - καί → (y)
-
----
-
-### 1 Corintios 10:3 {#1co-10-3}
-
-καὶ πάντες τὸ αὐτὸ πνευματικὸν βρῶμα ἔφαγον
-
-[y todos comieron el mismo alimento espiritual.]
+[Todos comieron el mismo alimento espiritual,]
 
 - ἔφαγον (V-AAI-3P) ==comieron== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-   - καί → (y)
+### 1Corintios 10:4
 
----
+καὶ πάντες τὸ αὐτὸ ⸂πνευματικὸν ἔπιον πόμα⸃, ἔπινον γὰρ ἐκ πνευματικῆς ἀκολουθούσης πέτρας, ἡ ⸂πέτρα δὲ⸃ ἦν ὁ Χριστός·
 
-### 1 Corintios 10:4 {#1co-10-4}
-
-καὶ πάντες τὸ αὐτὸ πνευματικὸν πόμα ἔπιον ἔπινον γὰρ ἐκ πνευματικῆς ἀκολουθούσης πέτρας ἡ πέτρα δὲ ἦν ὁ Χριστός
-
-[y todos bebieron la misma bebida espiritual; porque bebían de una roca espiritual que los seguía; y la roca era Cristo.]
+[y todos bebieron la misma bebida espiritual, porque bebían de una roca espiritual que los seguía. La roca era Cristo.]
 
 - ἔπιον (V-AAI-3P) ==bebieron== [F]
 - ἔπινον (V-IAI-3P) ==bebían== [F]
-- ἦν (V-IAI-3S) ==era== [F]
+- ἦν (V-IAI-3S) ==seguía== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  A: "bebieron" → B: "seguía"
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-   - καί → (y)
-   - γὰρ → (porque)
-   - δὲ → (y)
+### 1Corintios 10:5
 
----
+ἀλλ’ οὐκ ἐν τοῖς πλείοσιν αὐτῶν ηὐδόκησεν ὁ θεός, κατεστρώθησαν γὰρ ἐν τῇ ἐρήμῳ.
 
-### 1 Corintios 10:5 {#1co-10-5}
+[Sin embargo, Dios no se agradó de la mayor parte de ellos, y por eso quedaron tendidos en el desierto.]
 
-ἀλλʼ οὐκ ἐν τοῖς πλείοσιν αὐτῶν εὐδόκησεν ὁ θεός κατεστρώθησαν γὰρ ἐν τῇ ἐρήμῳ
+- ηὐδόκησεν (V-AAI-3S) ==agradó== [F]
+- κατεστρώθησαν (V-API-3P) ==quedaron== [F]
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  A: "agradó" → B: "quedaron"
+- γάρ [DEP] → [porque]
+  A: "agradó" → B: "quedaron"
 
-[Sin embargo, Dios no se agradó de la mayoría de ellos; pues quedaron tendidos en el desierto.]
+### 1Corintios 10:6
 
-- εὐδόκησεν (V-AAI-3S) ==se agradó== [F]
-- κατεστρώθησαν (V-API-3P) ==quedaron tendidos== [F]
+Ταῦτα δὲ τύποι ἡμῶν ἐγενήθησαν, εἰς τὸ μὴ εἶναι ἡμᾶς ἐπιθυμητὰς κακῶν, καθὼς κἀκεῖνοι ἐπεθύμησαν.
 
-   - ἀλλʼ → (sin embargo)
-   - γὰρ → (pues)
+[Estas cosas sucedieron como ejemplo para nosotros, a fin de que no codiciemos lo malo, como ellos lo codiciaron.]
 
----
+- ἐγενήθησαν, (V-API-3P) ==sucedieron== [F]
+- ἐπεθύμησαν. (V-AAI-3P) ==codiciaron== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  A: "sucedieron" → B: "codiciaron"
 
-### 1 Corintios 10:6 {#1co-10-6}
+### 1Corintios 10:7
 
-Ταῦτα δὲ τύποι ἡμῶν ἐγενήθησαν εἰς τὸ μὴ εἶναι ἡμᾶς ἐπιθυμητὰς κακῶν καθὼς κἀκεῖνοι ἐπεθύμησαν
+μηδὲ εἰδωλολάτραι γίνεσθε, καθώς τινες αὐτῶν· ὥσπερ γέγραπται· Ἐκάθισεν ὁ λαὸς φαγεῖν καὶ πεῖν, καὶ ἀνέστησαν παίζειν.
 
-[Estas cosas sucedieron como ejemplos para nosotros, para que no codiciemos cosas malas, como ellos también codiciaron.]
+[No sean, pues, idólatras, como fueron algunos de ellos, según está escrito: «EL PUEBLO SE SENTÓ A COMER Y A BEBER, Y SE LEVANTÓ A JUGAR».]
 
-- ἐγενήθησαν (V-ADI-3P) ==sucedieron== [F]
-- εἶναι (V-PAN) ser [NF]
-- ἐπεθύμησαν (V-AAI-3P) ==codiciaron== [F]
+- γίνεσθε, (V-PMD-2P) ==fueron== [F]
+- γέγραπται· (V-XPI-3S) ==sentó== [F]
+- Ἐκάθισεν (V-AAI-3S) ==levantó== [F]
+- ἀνέστησαν (V-AAI-3P) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-   - δὲ → (estas)
-   - εἰς → (para)
-   - καθὼς → (como)
+### 1Corintios 10:8
 
----
+μηδὲ πορνεύωμεν, καθώς τινες αὐτῶν ἐπόρνευσαν, καὶ ἔπεσαν μιᾷ ἡμέρᾳ εἴκοσι τρεῖς χιλιάδες.
 
-### 1 Corintios 10:7 {#1co-10-7}
+[Ni forniquemos, como algunos de ellos fornicaron, y en un día cayeron veintitrés mil.]
 
-μηδὲ εἰδωλολάτραι γίνεσθε καθώς τινες αὐτῶν ὡς γέγραπται ἐκάθισεν ὁ λαὸς φαγεῖν καὶ πεῖν καὶ ἀνέστησαν παίζειν
+- πορνεύωμεν, (V-PAS-1P) ==fornicaron== [F]
+- ἐπόρνευσαν, (V-AAI-3P) ==día== [F]
+- ἔπεσαν (V-AAI-3P) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-[Ni sean idólatras, como algunos de ellos, según está escrito: “El pueblo se sentó a comer y a beber, y se levantaron a divertirse”.]
+### 1Corintios 10:9
 
-- γίνεσθε (V-PMM-2P) sean [F]
-- γέγραπται (V-RPI-3S) ==está escrito== [F]
-- ἐκάθισεν (V-AAI-3S) ==se sentó== [F]
-- ἀνέστησαν (V-AAI-3P) ==se levantaron== [F]
-- φαγεῖν (V-AAN) comer [NF]
-- πεῖν (V-AAN) beber [NF]
-- παίζειν (V-PAN) divertirse [NF]
+μηδὲ ἐκπειράζωμεν τὸν ⸀Χριστόν, ⸀καθώς τινες αὐτῶν ἐπείρασαν, καὶ ὑπὸ τῶν ὄφεων ⸀ἀπώλλυντο.
 
-   - καθώς → (como)
-   - καί → (y)
+[Ni provoquemos al Señor, como algunos de ellos lo provocaron, y fueron destruidos por las serpientes.]
 
----
+- ἐκπειράζωμεν (V-PAS-1P) ==provocaron== [F]
+- ἐπείρασαν, (V-AAI-3P) ==fueron== [F]
+- ⸀ἀπώλλυντο. (V-IPI-3P) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 10:8 {#1co-10-8}
+### 1Corintios 10:10
 
-μηδὲ πορνεύωμεν καθώς τινες αὐτῶν ἐπόρνευσαν καὶ ἔπεσαν μιᾷ ἡμέρᾳ εἴκοσι τρεῖς χιλιάδες
-
-[Ni practiquemos inmoralidad, como algunos de ellos la practicaron, y cayeron en un día veintitrés mil.]
-
-- πορνεύωμεν (V-PAS-1P) practiquemos [F]
-- ἐπόρνευσαν (V-AAI-3P) ==practicaron== [F]
-- ἔπεσαν (V-AAI-3P) ==cayeron== [F]
-
-   - καθώς → (como)
-   - καί → (y)
-
----
-
-### 1 Corintios 10:9 {#1co-10-9}
-
-μηδὲ ἐκπειράζωμεν τὸν κύριον καθώς τινες αὐτῶν ἐπείρασαν καὶ ὑπὸ τῶν ὄφεων ἀπώλλυντο
-
-[Ni pongamos a prueba al Señor, como algunos de ellos lo pusieron a prueba, y perecían por las serpientes.]
-
-- ἐκπειράζωμεν (V-PAS-1P) pongamos a prueba [F]
-- ἐπείρασαν (V-AAI-3P) ==pusieron a prueba== [F]
-- ἀπώλλυντο (V-IMI-3P) ==perecían== [F]
-
-   - καθώς → (como)
-   - καί → (y)
-
----
-
-### 1 Corintios 10:10 {#1co-10-10}
-
-μηδὲ γογγύζετε καθώς τινες αὐτῶν ἐγόγγυσαν καὶ ἀπώλοντο ὑπὸ τοῦ ὀλοθρευτοῦ
+μηδὲ γογγύζετε, ⸀καθάπερ τινὲς αὐτῶν ἐγόγγυσαν, καὶ ἀπώλοντο ὑπὸ τοῦ ὀλοθρευτοῦ.
 
 [Ni murmuren, como algunos de ellos murmuraron, y fueron destruidos por el destructor.]
 
-- γογγύζετε (V-PAM-2P) murmuren [F]
-- ἐγόγγυσαν (V-AAI-3P) ==murmuraron== [F]
-- ἀπώλοντο (V-AMI-3P) ==fueron destruidos== [F]
+- γογγύζετε, (V-PAD-2P) ==murmuraron== [F]
+- ἐγόγγυσαν, (V-AAI-3P) ==fueron== [F]
+- ἀπώλοντο (V-AMI-3P) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-   - καθώς → (como)
-   - καί → (y)
+### 1Corintios 10:11
 
----
+ταῦτα ⸀δὲ ⸂τυπικῶς συνέβαινεν⸃ ἐκείνοις, ἐγράφη δὲ πρὸς νουθεσίαν ἡμῶν, εἰς οὓς τὰ τέλη τῶν αἰώνων ⸀κατήντηκεν.
 
-### 1 Corintios 10:11 {#1co-10-11}
+[Estas cosas les sucedieron como ejemplo, y fueron escritas como enseñanza para nosotros, para quienes ha llegado el fin de los siglos.]
 
-ταῦτα δὲ τυπικῶς συνέβαινεν ἐκείνοις ἐγράφη δὲ πρὸς νουθεσίαν ἡμῶν εἰς οὓς τὰ τέλη τῶν αἰώνων κατήντηκεν
+- συνέβαινεν⸃ (V-IAI-3S) ==sucedieron== [F]
+- ἐγράφη (V-API-3S) ==fueron== [F]
+- ⸀κατήντηκεν. (V-XAI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  A: "sucedieron" → B: "fueron"
 
-[Estas cosas les sucedían como ejemplo, y fueron escritas para amonestarnos a nosotros, sobre quienes han llegado los fines de los siglos.]
+### 1Corintios 10:12
 
-- συνέβαινεν (V-IAI-3S) ==sucedían== [F]
-- ἐγράφη (V-API-3S) ==fueron escritas== [F]
-- κατήντηκεν (V-RAI-3S) ==han llegado== [F]
+ὥστε ὁ δοκῶν ἑστάναι βλεπέτω μὴ πέσῃ,
 
-   - δὲ → (y)
+[Por tanto, el que cree que está firme, tenga cuidado, no sea que caiga.]
 
----
+- βλεπέτω (V-PAD-3S) ==??== [F]
+- πέσῃ, (V-AAS-3S) ==??== [F]
+- ὥστε [DEP] → [de manera que]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 10:12 {#1co-10-12}
+### 1Corintios 10:13
 
-ὥστε ὁ δοκῶν ἑστάναι βλεπέτω μὴ πέσῃ
+πειρασμὸς ὑμᾶς οὐκ εἴληφεν εἰ μὴ ἀνθρώπινος· πιστὸς δὲ ὁ θεός, ὃς οὐκ ἐάσει ὑμᾶς πειρασθῆναι ὑπὲρ ὃ δύνασθε, ἀλλὰ ποιήσει σὺν τῷ πειρασμῷ καὶ τὴν ἔκβασιν τοῦ ⸀δύνασθαι ὑπενεγκεῖν.
 
-[Así que, el que piensa estar firme, mire que no caiga.]
+[No les ha sobrevenido ninguna tentación que no sea común a los hombres. Fiel es Dios, que no permitirá que ustedes sean tentados más allá de lo que pueden soportar, sino que con la tentación proveerá también la vía de escape, a fin de que puedan resistirla.]
 
-- δοκῶν (V-PAP-NSM) pensando [NF]
-- ἑστάναι (V-RAN) estar firme [NF]
-- βλεπέτω (V-PAM-3S) mire [F]
-- πέσῃ (V-AAS-3S) caiga [F]
+- εἴληφεν (V-XAI-3S) ==es== [F]
+- ἐάσει (V-FAI-3S) ==pueden== [F]
+- δύνασθε, (V-PMI-2P) ==vía== [F]
+- ποιήσει (V-FAI-3S) ==??== [F]
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  A: "es" → B: "pueden"
+- καί [CORD] → [y]
+  A: "es" → B: "pueden"
 
-   - ὥστε → (así que)
+### 1Corintios 10:14
 
----
+Διόπερ, ἀγαπητοί μου, φεύγετε ἀπὸ τῆς εἰδωλολατρίας.
 
-### 1 Corintios 10:13 {#1co-10-13}
+[Por tanto, amados míos, huyan de la idolatría.]
 
-πειρασμὸς ὑμᾶς οὐκ εἴληφεν εἰ μὴ ἀνθρώπινος πιστὸς δὲ ὁ θεὸς ὃς οὐκ ἐάσει ὑμᾶς πειρασθῆναι ὑπὲρ ὃ δύνασθε ἀλλὰ ποιήσει σὺν τῷ πειρασμῷ καὶ τὴν ἔκβασιν τοῦ δύνασθαι ὑμᾶς ὑπενεγκεῖν
+- φεύγετε (V-PAD-2P) ==idolatría== [F]
 
-[No les ha sobrevenido ninguna tentación que no sea común a los hombres; y fiel es Dios, que no permitirá que ustedes sean tentados más allá de lo que pueden soportar, sino que con la tentación proveerá también la salida, para que puedan soportarla.]
+### 1Corintios 10:15
 
-- εἴληφεν (V-RAI-3S) ==ha sobrevenido== [F]
-- ἐάσει (V-FAI-3S) ==permitirá== [F]
-- πειρασθῆναι (V-APN) ser tentados [NF]
+ὡς φρονίμοις λέγω· κρίνατε ὑμεῖς ὅ φημι.
+
+[Les hablo como a sabios; juzguen ustedes lo que digo.]
+
+- λέγω· (V-PAI-1S) ==??== [F]
+- κρίνατε (V-AAD-2P) ==??== [F]
+- φημι. (V-PAI-1S) ==??== [F]
+
+### 1Corintios 10:16
+
+τὸ ποτήριον τῆς εὐλογίας ὃ εὐλογοῦμεν, οὐχὶ κοινωνία ⸂ἐστὶν τοῦ αἵματος τοῦ Χριστοῦ⸃; τὸν ἄρτον ὃν κλῶμεν, οὐχὶ κοινωνία τοῦ σώματος τοῦ Χριστοῦ ἐστιν;
+
+[La copa de bendición que bendecimos, ¿no es la participación en la sangre de Cristo? El pan que partimos, ¿no es la participación en el cuerpo de Cristo?]
+
+- εὐλογοῦμεν, (V-PAI-1P) ==es== [F]
+- ⸂ἐστὶν (V-PAI-3S) ==es== [F]
+- κλῶμεν, (V-PAI-1P) ==??== [F]
+- ἐστιν; (V-PAI-3S) ==??== [F]
+
+### 1Corintios 10:17
+
+ὅτι εἷς ἄρτος, ἓν σῶμα οἱ πολλοί ἐσμεν, οἱ γὰρ πάντες ἐκ τοῦ ἑνὸς ἄρτου μετέχομεν.
+
+[Puesto que el pan es uno, nosotros, que somos muchos, somos un cuerpo; porque todos participamos de aquel mismo pan.]
+
+- ἐσμεν, (V-PAI-1P) ==es== [F]
+- μετέχομεν. (V-PAI-1P) ==??== [F]
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 10:18
+
+βλέπετε τὸν Ἰσραὴλ κατὰ σάρκα· ⸀οὐχ οἱ ἐσθίοντες τὰς θυσίας κοινωνοὶ τοῦ θυσιαστηρίου εἰσίν;
+
+[Consideren al pueblo de Israel: los que comen los sacrificios, ¿no participan del altar?]
+
+- βλέπετε (V-PAD-2P) ==??== [F]
+- εἰσίν; (V-PAI-3P) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 10:19
+
+τί οὖν φημι; ὅτι ⸂εἰδωλόθυτόν τί ἐστιν, ἢ ὅτι εἴδωλόν⸃ τί ἐστιν;
+
+[¿Qué quiero decir, entonces? ¿Que lo sacrificado a los ídolos es algo, o que un ídolo es algo?]
+
+- φημι; (V-PAI-1S) ==¿qué== [F]
+- ἐστιν, (V-PAI-3S) ==es== [F]
+- ἐστιν; (V-PAI-3S) ==es== [F]
+- ὅτι [DEP] → [que]
+  A: "¿qué" → B: "es"
+
+### 1Corintios 10:20
+
+ἀλλ’ ὅτι ἃ ⸀θύουσιν, δαιμονίοις ⸂καὶ οὐ θεῷ θύουσιν⸃, οὐ θέλω δὲ ὑμᾶς κοινωνοὺς τῶν δαιμονίων γίνεσθαι.
+
+[No, sino que digo que lo que los gentiles sacrifican, lo sacrifican a los demonios y no a Dios; no quiero que ustedes sean partícipes con los demonios.]
+
+- ⸀θύουσιν, (V-PAI-3P) ==??== [F]
+- θύουσιν⸃, (V-PAI-3P) ==??== [F]
+- θέλω (V-PAI-1S) ==??== [F]
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 10:21
+
+οὐ δύνασθε ποτήριον κυρίου πίνειν καὶ ποτήριον δαιμονίων· οὐ δύνασθε τραπέζης κυρίου μετέχειν καὶ τραπέζης δαιμονίων.
+
+[Ustedes no pueden beber la copa del Señor y la copa de los demonios; no pueden participar de la mesa del Señor y de la mesa de los demonios.]
+
 - δύνασθε (V-PMI-2P) ==pueden== [F]
-- ποιήσει (V-FAI-3S) ==proveerá== [F]
-- δύνασθαι (V-PMN) poder [NF]
-- ὑπενεγκεῖν (V-AAN) soportar [NF]
+- δύνασθε (V-PMI-2P) ==pueden== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  A: "pueden" → B: "pueden"
 
-   - εἰ → (si)
-   - δὲ → (y)
-   - ἀλλὰ → (sino)
-   - καί → (también)
+### 1Corintios 10:22
 
-### 1 Corintios 11:1 {#1co-11-1}
+ἢ παραζηλοῦμεν τὸν κύριον; μὴ ἰσχυρότεροι αὐτοῦ ἐσμεν;
 
-Μιμηταί μου γίνεσθε καθώς κἀγὼ Χριστοῦ
+[¿O provocaremos a celos al Señor? ¿Somos, acaso, más fuertes que Él?]
 
-[Sean imitadores de mí, así como yo lo soy de Cristo.]
+- παραζηλοῦμεν (V-PAI-1P) ==??== [F]
+- ἐσμεν; (V-PAI-1P) ==??== [F]
 
-- γίνεσθε (V-PMM-2P) sean [F]
+### 1Corintios 10:23
 
-   - καθώς → (así como)
+⸀Πάντα ἔξεστιν· ἀλλ’ οὐ πάντα συμφέρει. ⸁πάντα ἔξεστιν· ἀλλ’ οὐ πάντα οἰκοδομεῖ.
 
----
+[Todo es lícito, pero no todo es de provecho. Todo es lícito, pero no todo edifica.]
 
-### 1 Corintios 11:2 {#1co-11-2}
+- ἔξεστιν· (V-PAI-3S) ==es== [F]
+- συμφέρει. (V-PAI-3S) ==es== [F]
+- ἔξεστιν· (V-PAI-3S) ==es== [F]
+- οἰκοδομεῖ. (V-PAI-3S) ==??== [F]
+- ἀλλά [CORD] → [sino]
+  A: "es" → B: "es"
 
-Ἐπαινῶ δὲ ὑμᾶς ὅτι πάντα μου μέμνησθε καὶ καθὼς παρέδωκα ὑμῖν τὰς παραδόσεις κατέχετε
+### 1Corintios 10:24
 
-[Los alabo porque en todo se acuerdan de mí y retienen las tradiciones tal como se las entregué.]
+μηδεὶς τὸ ἑαυτοῦ ζητείτω ἀλλὰ τὸ τοῦ ⸀ἑτέρου.
 
-- ἐπαινῶ (V-PAI-1S) ==alabo== [F]
-- μέμνησθε (V-RMI-2P) ==se acuerdan== [F]
-- παρέδωκα (V-AAI-1S) ==entregué== [F]
-- κατέχετε (V-PAI-2P) ==retienen== [F]
+[Nadie busque su propio bien, sino el de su prójimo.]
 
-   - δὲ → (y)
-   - ὅτι → (porque)
-   - καί → (y)
-   - καθώς → (tal como)
+- ζητείτω (V-PAD-3S) ==??== [F]
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 10:25
 
-### 1 Corintios 11:3 {#1co-11-3}
+πᾶν τὸ ἐν μακέλλῳ πωλούμενον ἐσθίετε μηδὲν ἀνακρίνοντες διὰ τὴν συνείδησιν,
 
-θέλω δὲ ὑμᾶς εἰδέναι ὅτι παντὸς ἀνδρὸς ἡ κεφαλὴ ὁ Χριστός ἐστιν κεφαλὴ δὲ γυναικὸς ὁ ἀνήρ κεφαλὴ δὲ τοῦ Χριστοῦ ὁ θεός
+[Coman de todo lo que se vende en la carnicería sin preguntar nada por motivos de conciencia,]
+
+- ἐσθίετε (V-PAD-2P) ==carnicería== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 10:26
+
+τοῦ ⸂κυρίου γὰρ⸃ ἡ γῆ καὶ τὸ πλήρωμα αὐτῆς.
+
+[PORQUE DEL SEÑOR ES LA TIERRA Y TODO LO QUE EN ELLA HAY.]
+
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 10:27
+
+⸀εἴ τις καλεῖ ὑμᾶς τῶν ἀπίστων καὶ θέλετε πορεύεσθαι, πᾶν τὸ παρατιθέμενον ὑμῖν ἐσθίετε μηδὲν ἀνακρίνοντες διὰ τὴν συνείδησιν·
+
+[Si algún incrédulo los invita y quieren ir, coman de todo lo que se les ponga delante sin preguntar nada por motivos de conciencia.]
+
+- καλεῖ (V-PAI-3S) ==??== [F]
+- θέλετε (V-PAI-2P) ==??== [F]
+- ἐσθίετε (V-PAD-2P) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 10:28
+
+ἐὰν δέ τις ὑμῖν εἴπῃ· Τοῦτο ⸀ἱερόθυτόν ἐστιν, μὴ ἐσθίετε δι’ ἐκεῖνον τὸν μηνύσαντα καὶ τὴν ⸀συνείδησιν·
+
+[Pero si alguien les dice: «Esto ha sido sacrificado a los ídolos», no lo coman, por causa del que se lo dijo, y por motivos de conciencia, PORQUE DEL SEÑOR ES LA TIERRA Y TODO LO QUE EN ELLA HAY.]
+
+- εἴπῃ· (V-AAS-3S) ==es== [F]
+- ἐστιν, (V-PAI-3S) ==??== [F]
+- ἐσθίετε (V-PAD-2P) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 10:29
+
+συνείδησιν δὲ λέγω οὐχὶ τὴν ἑαυτοῦ ἀλλὰ τὴν τοῦ ἑτέρου· ἱνατί γὰρ ἡ ἐλευθερία μου κρίνεται ὑπὸ ἄλλης συνειδήσεως;
+
+[Quiero decir, no la conciencia de ustedes, sino la del otro. Pues ¿por qué ha de ser juzgada mi libertad por la conciencia ajena?]
+
+- λέγω (V-PAI-1S) ==qué== [F]
+- κρίνεται (V-PPI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 10:30
+
+εἰ ἐγὼ χάριτι μετέχω, τί βλασφημοῦμαι ὑπὲρ οὗ ἐγὼ εὐχαριστῶ;
+
+[Si participo con agradecimiento, ¿por qué he de ser censurado a causa de aquello por lo cual doy gracias?]
+
+- μετέχω, (V-PAI-1S) ==qué== [F]
+- βλασφημοῦμαι (V-PPI-1S) ==??== [F]
+- εὐχαριστῶ; (V-PAI-1S) ==??== [F]
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 10:31
+
+Εἴτε οὖν ἐσθίετε εἴτε πίνετε εἴτε τι ποιεῖτε, πάντα εἰς δόξαν θεοῦ ποιεῖτε.
+
+[Entonces, ya sea que coman, que beban, o que hagan cualquier otra cosa, háganlo todo para la gloria de Dios.]
+
+- ἐσθίετε (V-PAI-2P) ==??== [F]
+- πίνετε (V-PAI-2P) ==??== [F]
+- ποιεῖτε, (V-PAI-2P) ==??== [F]
+- ποιεῖτε. (V-PAD-2P) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 10:32
+
+ἀπρόσκοποι ⸂καὶ Ἰουδαίοις γίνεσθε⸃ καὶ Ἕλλησιν καὶ τῇ ἐκκλησίᾳ τοῦ θεοῦ,
+
+[No sean motivo de tropiezo ni a judíos, ni a griegos, ni a la iglesia de Dios;]
+
+- γίνεσθε⸃ (V-PMD-2P) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 10:33
+
+καθὼς κἀγὼ πάντα πᾶσιν ἀρέσκω, μὴ ζητῶν τὸ ἐμαυτοῦ ⸀σύμφορον ἀλλὰ τὸ τῶν πολλῶν, ἵνα σωθῶσιν.
+
+[así como también yo procuro agradar a todos en todo, no buscando mi propio beneficio, sino el de muchos, para que sean salvos.]
+
+- ἀρέσκω, (V-PAI-1S) ==??== [F]
+- σωθῶσιν. (V-APS-3P) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 11:1
+
+μιμηταί μου γίνεσθε, καθὼς κἀγὼ Χριστοῦ.
+
+[Sean imitadores de mí, como también yo lo soy de Cristo.]
+
+- γίνεσθε, (V-PMD-2P) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 11:2
+
+Ἐπαινῶ δὲ ⸀ὑμᾶς ὅτι πάντα μου μέμνησθε καὶ καθὼς παρέδωκα ὑμῖν τὰς παραδόσεις κατέχετε.
+
+[Los alabo porque en todo se acuerdan de mí y guardan las tradiciones con firmeza, tal como yo se las entregué.]
+
+- Ἐπαινῶ (V-PAI-1S) ==entregué== [F]
+- μέμνησθε (V-XMI-2P) ==??== [F]
+- παρέδωκα (V-AAI-1S) ==??== [F]
+- κατέχετε. (V-PAI-2P) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 11:3
+
+θέλω δὲ ὑμᾶς εἰδέναι ὅτι παντὸς ἀνδρὸς ἡ κεφαλὴ ὁ Χριστός ἐστιν, κεφαλὴ δὲ γυναικὸς ὁ ἀνήρ, κεφαλὴ δὲ ⸀τοῦ Χριστοῦ ὁ θεός.
 
 [Pero quiero que sepan que la cabeza de todo hombre es Cristo, y la cabeza de la mujer es el hombre, y la cabeza de Cristo es Dios.]
 
-- θέλω (V-PAI-1S) ==quiero== [F]
-- εἰδέναι (V-RAN) saber [NF]
-- ἐστιν (V-PAI-3S) ==es== [F]
+- θέλω (V-PAI-1S) ==es== [F]
+- ἐστιν, (V-PAI-3S) ==es== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  A: "es" → B: "es"
 
-   - δὲ → (pero)
-   - ὅτι → (que)
-   - δὲ → (y)
+### 1Corintios 11:4
 
----
+πᾶς ἀνὴρ προσευχόμενος ἢ προφητεύων κατὰ κεφαλῆς ἔχων καταισχύνει τὴν κεφαλὴν αὐτοῦ·
 
-### 1 Corintios 11:4 {#1co-11-4}
+[Todo hombre que cubre su cabeza mientras ora o profetiza, deshonra su cabeza.]
 
-πᾶς ἀνὴρ προσευχόμενος ἢ προφητεύων κατὰ κεφαλῆς ἔχων καταισχύνει τὴν κεφαλὴν αὐτοῦ
+- καταισχύνει (V-PAI-3S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-[Todo hombre que ora o profetiza con la cabeza cubierta, deshonra su cabeza.]
+### 1Corintios 11:5
 
-- προσευχόμενος (V-PMP-NSM) orando [NF]
-- προφητεύων (V-PAP-NSM) profetizando [NF]
-- ἔχων (V-PAP-NSM) teniendo [NF]
-- καταισχύνει (V-PAI-3S) ==deshonra== [F]
+πᾶσα δὲ γυνὴ προσευχομένη ἢ προφητεύουσα ἀκατακαλύπτῳ τῇ κεφαλῇ καταισχύνει τὴν κεφαλὴν ⸀αὐτῆς, ἓν γάρ ἐστιν καὶ τὸ αὐτὸ τῇ ἐξυρημένῃ.
 
-   - ἢ → (o)
+[Pero toda mujer que tiene la cabeza descubierta mientras ora o profetiza, deshonra su cabeza, porque se hace una con la que está rapada.]
 
----
+- καταισχύνει (V-PAI-3S) ==??== [F]
+- ἐστιν (V-PAI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 11:5 {#1co-11-5}
+### 1Corintios 11:6
 
-πᾶσα δὲ γυνὴ προσευχομένη ἢ προφητεύουσα ἀκατακαλύπτῳ τῇ κεφαλῇ καταισχύνει τὴν κεφαλὴν αὐτῆς ἓν γάρ ἐστιν καὶ τὸ αὐτὸ τῇ ἐξυρημένῃ
+εἰ γὰρ οὐ κατακαλύπτεται γυνή, καὶ κειράσθω· εἰ δὲ αἰσχρὸν γυναικὶ τὸ κείρασθαι ἢ ξυρᾶσθαι, κατακαλυπτέσθω.
 
-[Pero toda mujer que ora o profetiza con la cabeza descubierta, deshonra su cabeza, pues es lo mismo que si estuviera rapada.]
+[Porque si la mujer no se cubre la cabeza, que también se corte el cabello; pero si es deshonroso para la mujer cortarse el cabello, o raparse, que se cubra.]
 
-- προσευχομένη (V-PMP-NSF) orando [NF]
-- προφητεύουσα (V-PAP-NSF) profetizando [NF]
-- καταισχύνει (V-PAI-3S) ==deshonra== [F]
-- ἐστιν (V-PAI-3S) ==es== [F]
+- κατακαλύπτεται (V-PMI-3S) ==es== [F]
+- κειράσθω· (V-AMD-3S) ==??== [F]
+- κατακαλυπτέσθω. (V-PMD-3S) ==??== [F]
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-   - δὲ → (pero)
-   - ἢ → (o)
-   - γάρ → (pues)
-   - καί → (y)
+### 1Corintios 11:7
 
----
+ἀνὴρ μὲν γὰρ οὐκ ὀφείλει κατακαλύπτεσθαι τὴν κεφαλήν, εἰκὼν καὶ δόξα θεοῦ ὑπάρχων· ⸀ἡ γυνὴ δὲ δόξα ἀνδρός ἐστιν.
 
-### 1 Corintios 11:6 {#1co-11-6}
+[Pues el hombre no debe cubrirse la cabeza, ya que él es la imagen y gloria de Dios, pero la mujer es la gloria del hombre.]
 
-εἰ γὰρ οὐ κατακαλύπτεται γυνὴ καὶ κειράσθω εἰ δὲ αἰσχρὸν γυναικὶ τὸ κείρασθαι ἢ ξυρᾶσθαι κατακαλυπτέσθω
+- ὀφείλει (V-PAI-3S) ==es== [F]
+- ἐστιν. (V-PAI-3S) ==es== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-[Porque si la mujer no se cubre, que también se corte el cabello; pero si es vergonzoso para la mujer cortarse el cabello o raparse, que se cubra.]
+### 1Corintios 11:8
 
-- κατακαλύπτεται (V-PPI-3S) ==se cubre== [F]
-- κειράσθω (V-APM-3S) córtese [F]
-- κατακαλυπτέσθω (V-PMM-3S) cúbrase [F]
-
-   - γὰρ → (porque)
-   - καί → (también)
-   - δὲ → (pero)
-   - ἢ → (o)
-
----
-
-### 1 Corintios 11:7 {#1co-11-7}
-
-ἀνὴρ μὲν γὰρ οὐκ ὀφείλει κατακαλύπτεσθαι τὴν κεφαλήν εἰκὼν καὶ δόξα θεοῦ ὑπάρχων ἡ γυνὴ δὲ δόξα ἀνδρός ἐστιν
-
-[Porque el hombre no debe cubrirse la cabeza, pues él es imagen y gloria de Dios; pero la mujer es gloria del hombre.]
-
-- ὀφείλει (V-PAI-3S) ==debe== [F]
-- κατακαλύπτεσθαι (V-PMN) cubrirse [NF]
-- ὑπάρχων (V-PAP-NSM) siendo [NF]
-- ἐστιν (V-PAI-3S) ==es== [F]
-
-   - μὲν → (por un lado)
-   - γὰρ → (porque)
-   - καί → (y)
-   - δὲ → (pero)
-
----
-
-### 1 Corintios 11:8 {#1co-11-8}
-
-οὐ γάρ ἐστιν ἀνὴρ ἐκ γυναικός ἀλλὰ γυνὴ ἐξ ἀνδρός
+οὐ γάρ ἐστιν ἀνὴρ ἐκ γυναικός, ἀλλὰ γυνὴ ἐξ ἀνδρός·
 
 [Porque el hombre no procede de la mujer, sino la mujer del hombre.]
 
-- ἐστιν (V-PAI-3S) ==procede== [F]
+- ἐστιν (V-PAI-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
 
-   - γάρ → (porque)
-   - ἀλλὰ → (sino)
+### 1Corintios 11:9
 
----
+καὶ γὰρ οὐκ ἐκτίσθη ἀνὴρ διὰ τὴν γυναῖκα, ἀλλὰ γυνὴ διὰ τὸν ἄνδρα.
 
-### 1 Corintios 11:9 {#1co-11-9}
-
-καὶ γὰρ οὐκ ἐκτίσθη ἀνὴρ διὰ τὴν γυναῖκα ἀλλὰ γυνὴ διὰ τὸν ἄνδρα
-
-[Porque tampoco el hombre fue creado por causa de la mujer, sino la mujer por causa del hombre.]
+[En verdad el hombre no fue creado a causa de la mujer, sino la mujer a causa del hombre.]
 
 - ἐκτίσθη (V-API-3S) ==fue creado== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
 
-   - καί → (también)
-   - γὰρ → (porque)
-   - ἀλλὰ → (sino)
+### 1Corintios 11:10
 
----
+διὰ τοῦτο ὀφείλει ἡ γυνὴ ἐξουσίαν ἔχειν ἐπὶ τῆς κεφαλῆς διὰ τοὺς ἀγγέλους.
 
-### 1 Corintios 11:10 {#1co-11-10}
+[Por tanto, la mujer debe tener un símbolo de autoridad sobre la cabeza, por causa de los ángeles.]
 
-διὰ τοῦτο ὀφείλει ἡ γυνὴ ἐξουσίαν ἔχειν ἐπὶ τῆς κεφαλῆς διὰ τοὺς ἀγγέλους
+- ὀφείλει (V-PAI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-[Por esta razón la mujer debe tener autoridad sobre su cabeza, por causa de los ángeles.]
+### 1Corintios 11:11
 
-- ὀφείλει (V-PAI-3S) ==debe== [F]
-- ἔχειν (V-PAN) tener [NF]
+πλὴν οὔτε ⸂γυνὴ χωρὶς ἀνδρὸς οὔτε ἀνὴρ χωρὶς γυναικὸς⸃ ἐν κυρίῳ·
 
----
+[Sin embargo, en el Señor, ni la mujer es independiente del hombre, ni el hombre independiente de la mujer.]
 
-### 1 Corintios 11:11 {#1co-11-11}
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-πλὴν οὔτε γυνὴ χωρὶς ἀνδρός οὔτε ἀνὴρ χωρὶς γυναικὸς ἐν κυρίῳ
+### 1Corintios 11:12
 
-[Sin embargo, ni la mujer es independiente del hombre, ni el hombre independiente de la mujer en el Señor.]
+ὥσπερ γὰρ ἡ γυνὴ ἐκ τοῦ ἀνδρός, οὕτως καὶ ὁ ἀνὴρ διὰ τῆς γυναικός· τὰ δὲ πάντα ἐκ τοῦ θεοῦ.
 
----
+[Porque así como la mujer procede del hombre, también el hombre nace de la mujer; y todas las cosas proceden de Dios.]
 
-### 1 Corintios 11:12 {#1co-11-12}
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-ὥσπερ γὰρ ἡ γυνὴ ἐκ τοῦ ἀνδρός οὕτως καὶ ὁ ἀνὴρ διὰ τῆς γυναικός τὰ δὲ πάντα ἐκ τοῦ θεοῦ
+### 1Corintios 11:13
 
-[Porque así como la mujer procede del hombre, así también el hombre nace de la mujer; pero todo procede de Dios.]
+ἐν ὑμῖν αὐτοῖς κρίνατε· πρέπον ἐστὶν γυναῖκα ἀκατακάλυπτον τῷ θεῷ προσεύχεσθαι;
 
-- [ἐστιν] (V-PAI-3S) ==[procede]== [F]
+[Juzguen ustedes mismos: ¿es propio que la mujer ore a Dios con la cabeza descubierta?]
 
-   - γὰρ → (porque)
-   - καί → (también)
-   - δὲ → (pero)
+- κρίνατε· (V-AAD-2P) ==??== [F]
+- ἐστὶν (V-PAI-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 11:14
 
-### 1 Corintios 11:13 {#1co-11-13}
+⸀οὐδὲ ⸂ἡ φύσις αὐτὴ⸃ διδάσκει ὑμᾶς ὅτι ἀνὴρ μὲν ἐὰν κομᾷ, ἀτιμία αὐτῷ ἐστιν,
 
-ἐν ὑμῖν αὐτοῖς κρίνατε πρέπον ἐστὶν γυναῖκα ἀκατακάλυπτον τῷ θεῷ προσεύχεσθαι
+[¿No les enseña la misma naturaleza que si el hombre tiene el cabello largo le es deshonra,]
 
-[Juzguen ustedes mismos: ¿es apropiado que la mujer ore a Dios sin cubrirse la cabeza?]
+- διδάσκει (V-PAI-3S) ==es== [F]
+- κομᾷ, (V-PAS-3S) ==??== [F]
+- ἐστιν, (V-PAI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
 
-- κρίνατε (V-AAM-2P) juzguen [F]
-- ἐστὶν (V-PAI-3S) ==es== [F]
-- προσεύχεσθαι (V-PMN) orar [NF]
+### 1Corintios 11:15
 
----
+γυνὴ δὲ ἐὰν κομᾷ, δόξα αὐτῇ ἐστιν; ὅτι ἡ κόμη ἀντὶ περιβολαίου ⸀δέδοται.
 
-### 1 Corintios 11:14 {#1co-11-14}
+[pero que si la mujer tiene el cabello largo le es una gloria? Pues a ella el cabello le es dado por velo.]
 
-οὐδὲ ἡ φύσις αὐτὴ διδάσκει ὑμᾶς ὅτι ἀνὴρ ἐὰν κομᾷ ἀτιμία αὐτῷ ἐστιν
+- κομᾷ, (V-PAS-3S) ==es== [F]
+- ἐστιν; (V-PAI-3S) ==es dado== [F]
+- ⸀δέδοται. (V-XPI-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
 
-[¿No les enseña la misma naturaleza que si el hombre tiene cabello largo le es deshonra?]
+### 1Corintios 11:16
 
-- διδάσκει (V-PAI-3S) ==enseña== [F]
-- κομᾷ (V-PAS-3S) tenga cabello largo [F]
+εἰ δέ τις δοκεῖ φιλόνεικος εἶναι, ἡμεῖς τοιαύτην συνήθειαν οὐκ ἔχομεν, οὐδὲ αἱ ἐκκλησίαι τοῦ θεοῦ.
+
+[Pero si alguien parece ser contencioso, nosotros no tenemos tal costumbre, ni la tienen las iglesias de Dios.]
+
+- δοκεῖ (V-PAI-3S) ==??== [F]
+- ἔχομεν, (V-PAI-1P) ==??== [F]
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 11:17
+
+Τοῦτο δὲ ⸂παραγγέλλων οὐκ ἐπαινῶ⸃ ὅτι οὐκ εἰς τὸ κρεῖσσον ἀλλὰ εἰς τὸ ἧσσον συνέρχεσθε.
+
+[Pero al darles estas instrucciones, no los alabo, porque no se congregan para lo bueno, sino para lo malo.]
+
+- ἐπαινῶ⸃ (V-PAI-1S) ==??== [F]
+- συνέρχεσθε. (V-PMI-2P) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 11:18
+
+πρῶτον μὲν γὰρ συνερχομένων ὑμῶν ἐν ἐκκλησίᾳ ἀκούω σχίσματα ἐν ὑμῖν ὑπάρχειν, καὶ μέρος τι πιστεύω.
+
+[Pues, en primer lugar, oigo que cuando se reúnen como iglesia hay divisiones entre ustedes, y en parte lo creo.]
+
+- ἀκούω (V-PAI-1S) ==??== [F]
+- πιστεύω. (V-PAI-1S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 11:19
+
+δεῖ γὰρ καὶ αἱρέσεις ἐν ὑμῖν εἶναι, ἵνα ⸀καὶ οἱ δόκιμοι φανεροὶ γένωνται ἐν ὑμῖν.
+
+[Porque es necesario que entre ustedes haya bandos, a fin de que se manifiesten entre ustedes los que son aprobados.]
+
+- δεῖ (V-PAI-3S) ==es== [F]
+- γένωνται (V-AMS-3P) ==son aprobados== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  A: "es" → B: "son aprobados"
+- ἵνα [DEP] → [para que]
+  A: "es" → B: "son aprobados"
+
+### 1Corintios 11:20
+
+συνερχομένων οὖν ὑμῶν ἐπὶ τὸ αὐτὸ οὐκ ἔστιν κυριακὸν δεῖπνον φαγεῖν,
+
+[Por tanto, cuando se reúnen, esto ya no es comer la Cena del Señor.]
+
+- ἔστιν (V-PAI-3S) ==es== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 11:21
+
+ἕκαστος γὰρ τὸ ἴδιον δεῖπνον προλαμβάνει ἐν τῷ φαγεῖν, καὶ ὃς μὲν πεινᾷ, ὃς δὲ μεθύει.
+
+[Porque al comer, cada uno toma primero su propia cena, y uno pasa hambre y otro se embriaga.]
+
+- προλαμβάνει (V-PAI-3S) ==??== [F]
+- πεινᾷ, (V-PAI-3S) ==??== [F]
+- μεθύει. (V-PAI-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 11:22
+
+μὴ γὰρ οἰκίας οὐκ ἔχετε εἰς τὸ ἐσθίειν καὶ πίνειν; ἢ τῆς ἐκκλησίας τοῦ θεοῦ καταφρονεῖτε, καὶ καταισχύνετε τοὺς μὴ ἔχοντας; τί ⸂εἴπω ὑμῖν⸃; ἐπαινέσω ὑμᾶς; ἐν τούτῳ οὐκ ἐπαινῶ.
+
+[¿Qué? ¿No tienen casas para comer y beber? ¿O desprecian la iglesia de Dios y avergüenzan a los que nada tienen? ¿Qué les diré? ¿Los alabaré? En esto no los alabaré.]
+
+- ἔχετε (V-PAI-2P) ==¿qué== [F]
+- καταφρονεῖτε, (V-PAI-2P) ==alabaré== [F]
+- καταισχύνετε (V-PAI-2P) ==??== [F]
+- ⸂εἴπω (V-AAS-1S) ==??== [F]
+- ἐπαινέσω (V-AAS-1S) ==??== [F]
+- ἐπαινῶ. (V-PAI-1S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 11:23
+
+Ἐγὼ γὰρ παρέλαβον ἀπὸ τοῦ κυρίου, ὃ καὶ παρέδωκα ὑμῖν, ὅτι ὁ κύριος Ἰησοῦς ἐν τῇ νυκτὶ ᾗ ⸀παρεδίδετο ἔλαβεν ἄρτον
+
+[Porque yo recibí del Señor lo mismo que les he enseñado: que el Señor Jesús, la noche en que fue entregado, tomó pan,]
+
+- παρέλαβον (V-AAI-1S) ==fue entregado== [F]
+- παρέδωκα (V-AAI-1S) ==tomó== [F]
+- ⸀παρεδίδετο (V-IPI-3S) ==??== [F]
+- ἔλαβεν (V-AAI-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 11:24
+
+καὶ εὐχαριστήσας ἔκλασεν καὶ ⸀εἶπεν· Τοῦτό μού ἐστιν τὸ σῶμα τὸ ὑπὲρ ⸀ὑμῶν· τοῦτο ποιεῖτε εἰς τὴν ἐμὴν ἀνάμνησιν.
+
+[y después de dar gracias, lo partió y dijo: «Esto es Mi cuerpo que es para ustedes; hagan esto en memoria de Mí».]
+
+- ἔκλασεν (V-AAI-3S) ==partió== [F]
+- ⸀εἶπεν· (V-AAI-3S) ==es== [F]
 - ἐστιν (V-PAI-3S) ==es== [F]
+- ποιεῖτε (V-PAD-2P) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-   - ὅτι → (que)
-   - ἐὰν → (si)
+### 1Corintios 11:25
 
----
+ὡσαύτως καὶ τὸ ποτήριον μετὰ τὸ δειπνῆσαι, λέγων· Τοῦτο τὸ ποτήριον ἡ καινὴ διαθήκη ἐστὶν ἐν τῷ ἐμῷ αἵματι· τοῦτο ποιεῖτε, ὁσάκις ⸀ἐὰν πίνητε, εἰς τὴν ἐμὴν ἀνάμνησιν.
 
-### 1 Corintios 11:15 {#1co-11-15}
+[De la misma manera tomó también la copa después de haber cenado, diciendo: «Esta copa es el nuevo pacto en Mi sangre; hagan esto cuantas veces la beban en memoria de Mí».]
 
-γυνὴ δὲ ἐὰν κομᾷ δόξα αὐτῇ ἐστιν ὅτι ἡ κόμη ἀντὶ περιβολαίου δέδοται
+- ἐστὶν (V-PAI-3S) ==tomó== [F]
+- ποιεῖτε, (V-PAD-2P) ==es== [F]
+- πίνητε, (V-PAS-2P) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  A: "tomó" → B: "es"
 
-[Pero si la mujer tiene el cabello largo, es su gloria; porque el cabello le es dado por velo.]
+### 1Corintios 11:26
 
-- κομᾷ (V-PAS-3S) tenga cabello largo [F]
-- ἐστιν (V-PAI-3S) ==es== [F]
-- δέδοται (V-RPI-3S) ==le es dado== [F]
+ὁσάκις γὰρ ⸀ἐὰν ἐσθίητε τὸν ἄρτον τοῦτον καὶ τὸ ⸀ποτήριον πίνητε, τὸν θάνατον τοῦ κυρίου καταγγέλλετε, ἄχρι ⸀οὗ ἔλθῃ.
 
-   - δὲ → (pero)
-   - ἐὰν → (si)
-   - ὅτι → (porque)
+[Porque todas las veces que coman este pan y beban esta copa, proclaman la muerte del Señor hasta que Él venga.]
 
----
+- ἐσθίητε (V-PAS-2P) ==??== [F]
+- πίνητε, (V-PAS-2P) ==??== [F]
+- καταγγέλλετε, (V-PAI-2P) ==??== [F]
+- ἔλθῃ. (V-AAS-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 11:16 {#1co-11-16}
+### 1Corintios 11:27
 
-εἰ δέ τις δοκεῖ φιλόνεικος εἶναι ἡμεῖς τοιαύτην συνήθειαν οὐκ ἔχομεν οὐδὲ αἱ ἐκκλησίαι τοῦ θεοῦ
+Ὥστε ὃς ἂν ἐσθίῃ τὸν ⸀ἄρτον ἢ πίνῃ τὸ ποτήριον τοῦ κυρίου ⸀ἀναξίως, ἔνοχος ἔσται τοῦ σώματος καὶ τοῦ αἵματος τοῦ κυρίου.
 
-[Pero si alguien parece ser contencioso, nosotros no tenemos tal costumbre, ni las iglesias de Dios.]
+[De manera que el que coma el pan o beba la copa del Señor indignamente, será culpable del cuerpo y de la sangre del Señor.]
 
-- δοκεῖ (V-PAI-3S) ==parece== [F]
-- εἶναι (V-PAN) ser [NF]
-- ἔχομεν (V-PAI-1P) ==tenemos== [F]
+- ἐσθίῃ (V-PAS-3S) ==??== [F]
+- πίνῃ (V-PAS-3S) ==??== [F]
+- ἔσται (V-FMI-3S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-   - δέ → (pero)
-   - εἰ → (si)
+### 1Corintios 11:28
 
-### 1 Corintios 12:1 {#1co-12-1}
+δοκιμαζέτω δὲ ἄνθρωπος ἑαυτόν, καὶ οὕτως ἐκ τοῦ ἄρτου ἐσθιέτω καὶ ἐκ τοῦ ποτηρίου πινέτω·
 
-Περὶ δὲ τῶν πνευματικῶν ἀδελφοί οὐ θέλω ὑμᾶς ἀγνοεῖν
+[Por tanto, examínese cada uno a sí mismo, y entonces coma del pan y beba de la copa.]
 
-[En cuanto a los dones espirituales, hermanos, no quiero que ignoren.]
+- δοκιμαζέτω (V-PAD-3S) ==??== [F]
+- ἐσθιέτω (V-PAD-3S) ==??== [F]
+- πινέτω· (V-PAD-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-- θέλω (V-PAI-1S) ==quiero== [F]
-- ἀγνοεῖν (V-PAN) ignorar [NF]
+### 1Corintios 11:29
 
-   - δὲ → (en cuanto a)
+ὁ γὰρ ἐσθίων καὶ ⸀πίνων κρίμα ἑαυτῷ ἐσθίει καὶ πίνει μὴ διακρίνων τὸ ⸀σῶμα.
 
----
+[Porque el que come y bebe sin discernir correctamente el cuerpo del Señor, come y bebe juicio para sí.]
 
-### 1 Corintios 12:2 {#1co-12-2}
+- ἐσθίει (V-PAI-3S) ==??== [F]
+- πίνει (V-PAI-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-οἴδατε ὅτι ὅτε ἔθνη ἦτε πρὸς τὰ εἴδωλα τὰ ἄφωνα ὡς ἂν ἤγεσθε ἀπαγόμενοι
+### 1Corintios 11:30
 
-[Saben que cuando eran gentiles, eran llevados a los ídolos mudos, como fueran guiados.]
+διὰ τοῦτο ἐν ὑμῖν πολλοὶ ἀσθενεῖς καὶ ἄρρωστοι καὶ κοιμῶνται ἱκανοί.
 
-- οἴδατε (V-RAI-2P) ==saben== [F]
-- ἦτε (V-IAI-2P) ==eran== [F]
-- ἤγεσθε (V-IPI-2P) ==eran llevados== [F]
-- ἀπαγόμενοι (V-PMP-NPM) siendo llevados [NF]
+[Por esta razón hay muchos débiles y enfermos entre ustedes, y muchos duermen.]
 
-   - ὅτι → (que)
+- κοιμῶνται (V-PMI-3P) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 11:31
 
-### 1 Corintios 12:3 {#1co-12-3}
+εἰ ⸀δὲ ἑαυτοὺς διεκρίνομεν, οὐκ ἂν ἐκρινόμεθα·
 
-διὸ γνωρίζω ὑμῖν ὅτι οὐδεὶς ἐν πνεύματι θεοῦ λαλῶν λέγει ἀνάθεμα Ἰησοῦς καὶ οὐδεὶς δύναται εἰπεῖν κύριος Ἰησοῦς εἰ μὴ ἐν πνεύματι ἁγίῳ
+[Pero si nos juzgáramos a nosotros mismos, no seríamos juzgados.]
 
-[Por tanto, les hago saber que nadie hablando por el Espíritu de Dios dice: “Jesús es anatema”; y nadie puede decir: “Jesús es Señor”, sino por el Espíritu Santo.]
+- διεκρίνομεν, (V-IAI-1P) ==??== [F]
+- ἐκρινόμεθα· (V-IPI-1P) ==??== [F]
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-- γνωρίζω (V-PAI-1S) ==hago saber== [F]
-- λαλῶν (V-PAP-NSM) hablando [NF]
-- λέγει (V-PAI-3S) ==dice== [F]
-- δύναται (V-PMI-3S) ==puede== [F]
-- εἰπεῖν (V-AAN) decir [NF]
+### 1Corintios 11:32
 
-   - διὸ → (por tanto)
-   - ὅτι → (que)
-   - καί → (y)
-   - εἰ → (si)
-   - μὴ → (sino)
+κρινόμενοι δὲ ⸀ὑπὸ κυρίου παιδευόμεθα, ἵνα μὴ σὺν τῷ κόσμῳ κατακριθῶμεν.
 
----
+[Pero cuando somos juzgados, el Señor nos disciplina para que no seamos condenados con el mundo.]
 
-### 1 Corintios 12:4 {#1co-12-4}
+- παιδευόμεθα, (V-PPI-1P) ==??== [F]
+- κατακριθῶμεν. (V-APS-1P) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-διαιρέσεις δὲ χαρισμάτων εἰσίν τὸ δὲ αὐτὸ πνεῦμα
+### 1Corintios 11:33
 
-[Ahora bien, hay diversidad de dones, pero el mismo Espíritu.]
+Ὥστε, ἀδελφοί μου, συνερχόμενοι εἰς τὸ φαγεῖν ἀλλήλους ἐκδέχεσθε.
 
-- εἰσίν (V-PAI-3P) ==hay== [F]
+[Así que, hermanos míos, cuando se reúnan para comer, espérense unos a otros.]
 
-   - δὲ → (pero)
+- ἐκδέχεσθε. (V-PMD-2P) ==??== [F]
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 11:34
 
-### 1 Corintios 12:5 {#1co-12-5}
+⸀εἴ τις πεινᾷ, ἐν οἴκῳ ἐσθιέτω, ἵνα μὴ εἰς κρίμα συνέρχησθε. Τὰ δὲ λοιπὰ ὡς ἂν ἔλθω διατάξομαι.
 
-καὶ διαιρέσεις διακονιῶν εἰσίν καὶ ὁ αὐτὸς κύριος
+[Si alguien tiene hambre, coma en su casa, para que no se reúnan para juicio. Los demás asuntos los arreglaré cuando vaya.]
 
-[Y hay diversidad de ministerios, pero el mismo Señor.]
+- πεινᾷ, (V-PAI-3S) ==arreglaré== [F]
+- ἐσθιέτω, (V-PAD-3S) ==??== [F]
+- συνέρχησθε. (V-PMS-2P) ==??== [F]
+- ἔλθω (V-AAS-1S) ==??== [F]
+- διατάξομαι. (V-FMI-1S) ==??== [F]
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-- εἰσίν (V-PAI-3P) ==hay== [F]
+### 1Corintios 12:1
 
-   - καί → (y)
+Περὶ δὲ τῶν πνευματικῶν, ἀδελφοί, οὐ θέλω ὑμᾶς ἀγνοεῖν.
 
----
+[En cuanto a los dones espirituales, no quiero, hermanos, que sean ignorantes.]
 
-### 1 Corintios 12:6 {#1co-12-6}
+- θέλω (V-PAI-1S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-καὶ διαιρέσεις ἐνεργημάτων εἰσίν ὁ δὲ αὐτὸς θεὸς ὁ ἐνεργῶν τὰ πάντα ἐν πᾶσιν
+### 1Corintios 12:2
 
-[Y hay diversidad de operaciones, pero el mismo Dios que obra todo en todos.]
+οἴδατε ὅτι ὅτε ἔθνη ἦτε πρὸς τὰ εἴδωλα τὰ ἄφωνα ὡς ἂν ἤγεσθε ἀπαγόμενοι.
 
-- εἰσίν (V-PAI-3P) ==hay== [F]
-- ἐνεργῶν (V-PAP-NSM) obrando [NF]
+[Ustedes saben que cuando eran paganos, de una manera u otra eran arrastrados hacia los ídolos mudos.]
 
-   - καί → (y)
-   - δὲ → (pero)
+- οἴδατε (V-XAI-2P) ==??== [F]
+- ἦτε (V-IAI-2P) ==??== [F]
+- ἤγεσθε (V-IPI-2P) ==??== [F]
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 12:3
 
-### 1 Corintios 12:7 {#1co-12-7}
+διὸ γνωρίζω ὑμῖν ὅτι οὐδεὶς ἐν πνεύματι θεοῦ λαλῶν λέγει· Ἀνάθεμα ⸀Ἰησοῦς, καὶ οὐδεὶς δύναται εἰπεῖν· ⸂Κύριος Ἰησοῦς⸃ εἰ μὴ ἐν πνεύματι ἁγίῳ.
 
-ἑκάστῳ δὲ δίδοται ἡ φανέρωσις τοῦ πνεύματος πρὸς τὸ συμφέρον
+[Por tanto, les hago saber que nadie hablando por el Espíritu de Dios, dice: «Jesús es anatema»; y nadie puede decir: «Jesús es el Señor», excepto por el Espíritu Santo.]
+
+- γνωρίζω (V-PAI-1S) ==es== [F]
+- λέγει· (V-PAI-3S) ==puede== [F]
+- δύναται (V-PMI-3S) ==es== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- εἰ [DEP] → [si]
+  A: "es" → B: "puede"
+
+### 1Corintios 12:4
+
+Διαιρέσεις δὲ χαρισμάτων εἰσίν, τὸ δὲ αὐτὸ πνεῦμα·
+
+[Ahora bien, hay diversidad de dones, pero el Espíritu es el mismo.]
+
+- εἰσίν, (V-PAI-3P) ==es== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 12:5
+
+καὶ διαιρέσεις διακονιῶν εἰσιν, καὶ ὁ αὐτὸς κύριος·
+
+[Hay diversidad de ministerios, pero el Señor es el mismo.]
+
+- εἰσιν, (V-PAI-3P) ==es== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 12:6
+
+καὶ διαιρέσεις ἐνεργημάτων εἰσίν, ⸂ὁ δὲ⸃ ⸀αὐτὸς θεός, ὁ ἐνεργῶν τὰ πάντα ἐν πᾶσιν.
+
+[Y hay diversidad de operaciones, pero es el mismo Dios el que hace todas las cosas en todos.]
+
+- εἰσίν, (V-PAI-3P) ==es== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 12:7
+
+ἑκάστῳ δὲ δίδοται ἡ φανέρωσις τοῦ πνεύματος πρὸς τὸ συμφέρον.
 
 [Pero a cada uno se le da la manifestación del Espíritu para el bien común.]
 
-- δίδοται (V-PPI-3S) ==se le da== [F]
+- δίδοται (V-PPI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-   - δὲ → (pero)
+### 1Corintios 12:8
 
----
+ᾧ μὲν γὰρ διὰ τοῦ πνεύματος δίδοται λόγος σοφίας, ἄλλῳ δὲ λόγος γνώσεως κατὰ τὸ αὐτὸ πνεῦμα,
 
-### 1 Corintios 12:8 {#1co-12-8}
+[Pues a uno le es dada palabra de sabiduría por el Espíritu; a otro, palabra de conocimiento según el mismo Espíritu;]
 
-ᾧ μὲν γὰρ διὰ τοῦ πνεύματος δίδοται λόγος σοφίας ἄλλῳ δὲ λόγος γνώσεως κατὰ τὸ αὐτὸ πνεῦμα
+- δίδοται (V-PPI-3S) ==es dada== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-[Porque a uno se le da palabra de sabiduría por medio del Espíritu, y a otro palabra de conocimiento según el mismo Espíritu.]
+### 1Corintios 12:9
 
-- δίδοται (V-PPI-3S) ==se le da== [F]
+⸀ἑτέρῳ πίστις ἐν τῷ αὐτῷ πνεύματι, ⸀ἄλλῳ χαρίσματα ἰαμάτων ἐν τῷ ⸀ἑνὶ πνεύματι,
 
-   - μὲν → (a uno)
-   - γὰρ → (porque)
-   - δὲ → (y a otro)
+[a otro, fe por el mismo Espíritu; a otro, dones de sanidad por el único Espíritu;]
 
----
 
-### 1 Corintios 12:9 {#1co-12-9}
+### 1Corintios 12:10
 
-ἑτέρῳ πίστις ἐν τῷ αὐτῷ πνεύματι ἄλλῳ δὲ χαρίσματα ἰαμάτων ἐν τῷ ἑνὶ πνεύματι
+⸀ἄλλῳ ἐνεργήματα δυνάμεων, ⸁ἄλλῳ προφητεία, ⸀1ἄλλῳ διακρίσεις πνευμάτων, ⸀ἑτέρῳ γένη γλωσσῶν, ⸀2ἄλλῳ ἑρμηνεία γλωσσῶν·
 
-[a otro fe por el mismo Espíritu, y a otro dones de sanidades por el único Espíritu.]
+[a otro, poder de milagros; a otro, profecía; a otro, discernimiento de espíritus; a otro, diversas clases de lenguas, y a otro, interpretación de lenguas.]
 
-   - δὲ → (y a otro)
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 12:11
 
-### 1 Corintios 12:10 {#1co-12-10}
+πάντα δὲ ταῦτα ἐνεργεῖ τὸ ἓν καὶ τὸ αὐτὸ πνεῦμα, διαιροῦν ἰδίᾳ ἑκάστῳ καθὼς βούλεται.
 
-ἄλλῳ ἐνεργήματα δυνάμεων ἄλλῳ προφητεία ἄλλῳ διακρίσεις πνευμάτων ἑτέρῳ γένη γλωσσῶν ἄλλῳ ἑρμηνεία γλωσσῶν
+[Pero todas estas cosas las hace uno y el mismo Espíritu, distribuyendo individualmente a cada uno según Su voluntad.]
 
-[a otro operaciones de milagros, a otro profecía, a otro discernimiento de espíritus, a otro diversos géneros de lenguas, y a otro interpretación de lenguas.]
+- ἐνεργεῖ (V-PAI-3S) ==??== [F]
+- βούλεται. (V-PMI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 12:12
 
-### 1 Corintios 12:11 {#1co-12-11}
+Καθάπερ γὰρ τὸ σῶμα ἕν ἐστιν καὶ μέλη ⸂πολλὰ ἔχει⸃, πάντα δὲ τὰ μέλη τοῦ ⸀σώματος πολλὰ ὄντα ἕν ἐστιν σῶμα, οὕτως καὶ ὁ Χριστός·
 
-πάντα δὲ ταῦτα ἐνεργεῖ τὸ ἓν καὶ τὸ αὐτὸ πνεῦμα διαιροῦν ἰδίᾳ ἑκάστῳ καθὼς βούλεται
-
-[Pero todas estas cosas las hace uno y el mismo Espíritu, distribuyendo a cada uno individualmente como Él quiere.]
-
-- ἐνεργεῖ (V-PAI-3S) ==hace== [F]
-- διαιροῦν (V-PAP-NSN) distribuyendo [NF]
-- βούλεται (V-PMI-3S) ==quiere== [F]
-
-   - δὲ → (pero)
-   - καί → (y)
-   - καθὼς → (como)
-
----
-
-### 1 Corintios 12:12 {#1co-12-12}
-
-καθάπερ γὰρ τὸ σῶμα ἓν ἐστιν καὶ μέλη πολλὰ ἔχει πάντα δὲ τὰ μέλη τοῦ σώματος πολλὰ ὄντα ἕν ἐστιν σῶμα οὕτως καὶ ὁ Χριστός
-
-[Porque así como el cuerpo es uno y tiene muchos miembros, pero todos los miembros del cuerpo, aunque son muchos, constituyen un solo cuerpo, así también Cristo.]
+[Porque así como el cuerpo es uno, y tiene muchos miembros, pero, todos los miembros del cuerpo, aunque son muchos, constituyen un solo cuerpo, así también es Cristo.]
 
 - ἐστιν (V-PAI-3S) ==es== [F]
-- ἔχει (V-PAI-3S) ==tiene== [F]
-- ὄντα (V-PAP-NPN) siendo [NF]
+- ἔχει⸃, (V-PAI-3S) ==son== [F]
 - ἐστιν (V-PAI-3S) ==es== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  A: "es" → B: "son"
+- δέ [CORD] → [pero]
+  A: "es" → B: "son"
 
-   - γὰρ → (porque)
-   - καί → (y)
-   - δὲ → (pero)
+### 1Corintios 12:13
 
----
+καὶ γὰρ ἐν ἑνὶ πνεύματι ἡμεῖς πάντες εἰς ἓν σῶμα ἐβαπτίσθημεν, εἴτε Ἰουδαῖοι εἴτε Ἕλληνες, εἴτε δοῦλοι εἴτε ἐλεύθεροι, καὶ ⸀πάντες ἓν πνεῦμα ἐποτίσθημεν.
 
-### 1 Corintios 12:13 {#1co-12-13}
+[Pues por un mismo Espíritu todos fuimos bautizados en un solo cuerpo, ya judíos o griegos, ya esclavos o libres. A todos se nos dio a beber del mismo Espíritu.]
 
-καὶ γὰρ ἐν ἑνὶ πνεύματι ἡμεῖς πάντες εἰς ἓν σῶμα ἐβαπτίσθημεν εἴτε Ἰουδαῖοι εἴτε Ἕλληνες εἴτε δοῦλοι εἴτε ἐλεύθεροι καὶ πάντες ἓν πνεῦμα ἐποτίσθημεν
+- ἐβαπτίσθημεν, (V-API-1P) ==dio== [F]
+- ἐποτίσθημεν. (V-API-1P) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-[Porque por un solo Espíritu todos fuimos bautizados en un solo cuerpo, ya sean judíos o griegos, ya sean esclavos o libres, y a todos se nos dio a beber de un mismo Espíritu.]
+### 1Corintios 12:14
 
-- ἐβαπτίσθημεν (V-API-1P) ==fuimos bautizados== [F]
-- ἐποτίσθημεν (V-API-1P) ==se nos dio a beber== [F]
-
-   - καί → (y)
-   - γὰρ → (porque)
-
----
-
-### 1 Corintios 12:14 {#1co-12-14}
-
-καὶ γὰρ τὸ σῶμα οὐκ ἔστιν ἓν μέλος ἀλλὰ πολλά
+Καὶ γὰρ τὸ σῶμα οὐκ ἔστιν ἓν μέλος ἀλλὰ πολλά.
 
 [Porque el cuerpo no es un solo miembro, sino muchos.]
 
 - ἔστιν (V-PAI-3S) ==es== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
 
-   - καί → (y)
-   - γὰρ → (porque)
-   - ἀλλὰ → (sino)
+### 1Corintios 12:15
 
----
+ἐὰν εἴπῃ ὁ πούς· Ὅτι οὐκ εἰμὶ χείρ, οὐκ εἰμὶ ἐκ τοῦ σώματος, οὐ παρὰ τοῦτο οὐκ ἔστιν ἐκ τοῦ σώματος;
 
-### 1 Corintios 12:15 {#1co-12-15}
+[Si el pie dijera: «Porque no soy mano, no soy parte del cuerpo», no por eso deja de ser parte del cuerpo.]
 
-ἐὰν εἴπῃ ὁ πούς ὅτι οὐκ εἰμὶ χείρ οὐκ εἰμὶ ἐκ τοῦ σώματος οὐ παρὰ τοῦτο οὐκ ἔστιν ἐκ τοῦ σώματος
+- εἴπῃ (V-AAS-3S) ==??== [F]
+- εἰμὶ (V-PAI-1S) ==??== [F]
+- εἰμὶ (V-PAI-1S) ==??== [F]
+- ἔστιν (V-PAI-3S) ==??== [F]
 
-[Si el pie dijera: “Porque no soy mano, no soy del cuerpo”, no por eso deja de ser del cuerpo.]
+### 1Corintios 12:16
 
-- εἴπῃ (V-AAS-3S) diga [F]
-- εἰμὶ (V-PAI-1S) ==soy== [F]
-- εἰμὶ (V-PAI-1S) ==soy== [F]
-- ἔστιν (V-PAI-3S) ==es== [F]
+καὶ ἐὰν εἴπῃ τὸ οὖς· Ὅτι οὐκ εἰμὶ ὀφθαλμός, οὐκ εἰμὶ ἐκ τοῦ σώματος, οὐ παρὰ τοῦτο οὐκ ἔστιν ἐκ τοῦ σώματος·
 
-   - ἐὰν → (si)
-   - ὅτι → (que)
+[Y si el oído dijera: «Porque no soy ojo, no soy parte del cuerpo», no por eso deja de ser parte del cuerpo.]
 
-### 1 Corintios 13:1 {#1co-13-1}
+- εἴπῃ (V-AAS-3S) ==??== [F]
+- εἰμὶ (V-PAI-1S) ==??== [F]
+- εἰμὶ (V-PAI-1S) ==??== [F]
+- ἔστιν (V-PAI-3S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-Ἐὰν ταῖς γλώσσαις τῶν ἀνθρώπων λαλῶ καὶ τῶν ἀγγέλων ἀγάπην δὲ μὴ ἔχω γέγονα χαλκὸς ἠχῶν ἢ κύμβαλον ἀλαλάζον
+### 1Corintios 12:17
+
+εἰ ὅλον τὸ σῶμα ὀφθαλμός, ποῦ ἡ ἀκοή; εἰ ὅλον ἀκοή, ποῦ ἡ ὄσφρησις;
+
+[Si todo el cuerpo fuera ojo, ¿qué sería del oído? Si todo fuera oído, ¿qué sería del olfato?]
+
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 12:18
+
+⸀νυνὶ δὲ ὁ θεὸς ἔθετο τὰ μέλη, ἓν ἕκαστον αὐτῶν, ἐν τῷ σώματι καθὼς ἠθέλησεν.
+
+[Ahora bien, Dios ha colocado a cada uno de los miembros en el cuerpo según le agradó.]
+
+- ἔθετο (V-AMI-3S) ==agradó== [F]
+- ἠθέλησεν. (V-AAI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 12:19
+
+εἰ δὲ ἦν τὰ πάντα ἓν μέλος, ποῦ τὸ σῶμα;
+
+[Y si todos fueran un solo miembro, ¿qué sería del cuerpo?]
+
+- ἦν (V-IAI-3S) ==¿qué== [F]
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 12:20
+
+νῦν δὲ πολλὰ ⸀μὲν μέλη, ἓν δὲ σῶμα.
+
+[Sin embargo, hay muchos miembros, pero un solo cuerpo.]
+
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 12:21
+
+οὐ δύναται δὲ ὁ ὀφθαλμὸς εἰπεῖν τῇ χειρί· Χρείαν σου οὐκ ἔχω, ἢ πάλιν ἡ κεφαλὴ τοῖς ποσίν· Χρείαν ὑμῶν οὐκ ἔχω·
+
+[Y el ojo no puede decirle a la mano: «No te necesito»; ni tampoco la cabeza a los pies: «No los necesito».]
+
+- δύναται (V-PMI-3S) ==puede== [F]
+- ἔχω, (V-PAI-1S) ==??== [F]
+- ἔχω· (V-PAI-1S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 12:22
+
+ἀλλὰ πολλῷ μᾶλλον τὰ δοκοῦντα μέλη τοῦ σώματος ἀσθενέστερα ὑπάρχειν ἀναγκαῖά ἐστιν,
+
+[Por el contrario, la verdad es que los miembros del cuerpo que parecen ser los más débiles, son los más necesarios;]
+
+- ἐστιν, (V-PAI-3S) ==es== [F]
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 12:23
+
+καὶ ἃ δοκοῦμεν ἀτιμότερα εἶναι τοῦ σώματος, τούτοις τιμὴν περισσοτέραν περιτίθεμεν, καὶ τὰ ἀσχήμονα ἡμῶν εὐσχημοσύνην περισσοτέραν ἔχει,
+
+[y las partes del cuerpo que estimamos menos honrosas, a estas las vestimos con más honra. Así que las partes que consideramos más íntimas, reciben un trato más honroso,]
+
+- δοκοῦμεν (V-PAI-1P) ==??== [F]
+- περιτίθεμεν, (V-PAI-1P) ==??== [F]
+- ἔχει, (V-PAI-3S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 12:24
+
+τὰ δὲ εὐσχήμονα ἡμῶν οὐ χρείαν ⸀ἔχει. ἀλλὰ ὁ θεὸς συνεκέρασεν τὸ σῶμα, τῷ ⸀ὑστεροῦντι περισσοτέραν δοὺς τιμήν,
+
+[ya que nuestras partes presentables no lo necesitan. Pero así formó Dios el cuerpo, dando mayor honra a la parte que carecía de ella,]
+
+- ⸀ἔχει. (V-PAI-3S) ==formó== [F]
+- συνεκέρασεν (V-AAI-3S) ==carecía== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 12:25
+
+ἵνα μὴ ᾖ ⸀σχίσμα ἐν τῷ σώματι, ἀλλὰ τὸ αὐτὸ ὑπὲρ ἀλλήλων μεριμνῶσι τὰ μέλη.
+
+[a fin de que en el cuerpo no haya división, sino que los miembros tengan el mismo cuidado unos por otros.]
+
+- ᾖ (V-PAS-3S) ==??== [F]
+- μεριμνῶσι (V-PAS-3P) ==??== [F]
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 12:26
+
+καὶ ⸀εἴτε πάσχει ἓν μέλος, συμπάσχει πάντα τὰ μέλη· εἴτε δοξάζεται ⸀μέλος, συγχαίρει πάντα τὰ μέλη.
+
+[Si un miembro sufre, todos los miembros sufren con él; y si un miembro es honrado, todos los miembros se regocijan con él.]
+
+- πάσχει (V-PAI-3S) ==es honrado== [F]
+- συμπάσχει (V-PAI-3S) ==??== [F]
+- δοξάζεται (V-PPI-3S) ==??== [F]
+- συγχαίρει (V-PAI-3S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 12:27
+
+Ὑμεῖς δέ ἐστε σῶμα Χριστοῦ καὶ μέλη ἐκ μέρους.
+
+[Ahora bien, ustedes son el cuerpo de Cristo, y cada uno individualmente un miembro de él.]
+
+- ἐστε (V-PAI-2P) ==son== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 12:28
+
+καὶ οὓς μὲν ἔθετο ὁ θεὸς ἐν τῇ ἐκκλησίᾳ πρῶτον ἀποστόλους, δεύτερον προφήτας, τρίτον διδασκάλους, ἔπειτα δυνάμεις, ⸀ἔπειτα χαρίσματα ἰαμάτων, ἀντιλήμψεις, κυβερνήσεις, γένη γλωσσῶν.
+
+[Y en la iglesia, Dios ha designado primeramente, apóstoles; en segundo lugar, profetas; en tercer lugar, maestros; luego, milagros; después, dones de sanidad, ayudas, administraciones, diversas clases de lenguas.]
+
+- ἔθετο (V-AMI-3S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 12:29
+
+μὴ πάντες ἀπόστολοι; μὴ πάντες προφῆται; μὴ πάντες διδάσκαλοι; μὴ πάντες δυνάμεις;
+
+[¿Acaso son todos apóstoles? ¿Acaso son todos profetas? ¿Acaso son todos maestros? ¿Acaso son todos obradores de milagros?]
+
+- δέ [CORD] → [pero]
+  A: "son" → B: "son"
+
+### 1Corintios 12:30
+
+μὴ πάντες χαρίσματα ἔχουσιν ἰαμάτων; μὴ πάντες γλώσσαις λαλοῦσιν; μὴ πάντες διερμηνεύουσιν;
+
+[¿Acaso tienen todos dones de sanidad? ¿Acaso hablan todos en lenguas? ¿Acaso interpretan todos?]
+
+- ἔχουσιν (V-PAI-3P) ==??== [F]
+- λαλοῦσιν; (V-PAI-3P) ==??== [F]
+- διερμηνεύουσιν; (V-PAI-3P) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 12:31
+
+ζηλοῦτε δὲ τὰ χαρίσματα τὰ ⸀μείζονα. καὶ ἔτι καθ’ ὑπερβολὴν ὁδὸν ὑμῖν δείκνυμι.
+
+[Pero deseen ardientemente los mejores dones. Y aun yo les muestro un camino más excelente.]
+
+- ζηλοῦτε (V-PAD-2P) ==??== [F]
+- δείκνυμι. (V-PAI-1S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 13:1
+
+Ἐὰν ταῖς γλώσσαις τῶν ἀνθρώπων λαλῶ καὶ τῶν ἀγγέλων, ἀγάπην δὲ μὴ ἔχω, γέγονα χαλκὸς ἠχῶν ἢ κύμβαλον ἀλαλάζον.
 
 [Si yo hablara lenguas humanas y angélicas, pero no tengo amor, he llegado a ser como metal que resuena o címbalo que retiñe.]
 
-- λαλῶ (V-PAS-1S) hable [F]
-- ἔχω (V-PAI-1S) ==tengo== [F]
-- γέγονα (V-RAI-1S) ==he llegado a ser== [F]
-- ἠχῶν (V-PAP-NSM) resonando [NF]
-- ἀλαλάζον (V-PAP-NSN) retiñendo [NF]
+- λαλῶ (V-PAS-1S) ==??== [F]
+- ἔχω, (V-PAS-1S) ==??== [F]
+- γέγονα (V-XAI-1S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-   - ἐὰν → (si)
-   - καί → (y)
-   - δὲ → (pero)
-   - ἢ → (o)
+### 1Corintios 13:2
 
----
+⸂καὶ ἐὰν⸃ ἔχω προφητείαν καὶ εἰδῶ τὰ μυστήρια πάντα καὶ πᾶσαν τὴν γνῶσιν, ⸄καὶ ἐὰν⸅ ἔχω πᾶσαν τὴν πίστιν ὥστε ὄρη ⸀μεθιστάναι, ἀγάπην δὲ μὴ ἔχω, οὐθέν εἰμι.
 
-### 1 Corintios 13:2 {#1co-13-2}
+[Y si tuviera el don de profecía, y entendiera todos los misterios y todo conocimiento, y si tuviera toda la fe como para trasladar montañas, pero no tengo amor, nada soy.]
 
-καὶ ἐὰν ἔχω προφητείαν καὶ εἰδῶ τὰ μυστήρια πάντα καὶ πᾶσαν τὴν γνῶσιν καὶ ἐὰν ἔχω πᾶσαν τὴν πίστιν ὥστε ὄρη μεθιστάναι ἀγάπην δὲ μὴ ἔχω οὐθέν εἰμι
+- ἔχω (V-PAS-1S) ==profecía== [F]
+- εἰδῶ (V-XAS-1S) ==??== [F]
+- ἔχω (V-PAS-1S) ==??== [F]
+- ἔχω, (V-PAS-1S) ==??== [F]
+- εἰμι. (V-PAI-1S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- ὥστε [DEP] → [de manera que]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-[Y si tuviera el don de profecía y entendiera todos los misterios y todo conocimiento, y si tuviera toda la fe como para trasladar montañas, pero no tengo amor, nada soy.]
+### 1Corintios 13:3
 
-- ἔχω (V-PAS-1S) tenga [F]
-- εἰδῶ (V-RAS-1S) entienda [F]
-- ἔχω (V-PAS-1S) tenga [F]
-- μεθιστάναι (V-PAN) trasladar [NF]
-- ἔχω (V-PAI-1S) ==tengo== [F]
-- εἰμι (V-PAI-1S) ==soy== [F]
+⸂καὶ ἐὰν⸃ ψωμίσω πάντα τὰ ὑπάρχοντά μου, ⸄καὶ ἐὰν⸃ παραδῶ τὸ σῶμά μου, ἵνα ⸀καυθήσομαι, ἀγάπην δὲ μὴ ἔχω, οὐδὲν ὠφελοῦμαι.
 
-   - καί → (y)
-   - ἐὰν → (si)
-   - ὥστε → (como para)
-   - δὲ → (pero)
+[Y si diera todos mis bienes para dar de comer a los pobres, y si entregara mi cuerpo para ser quemado, pero no tengo amor, de nada me aprovecha.]
 
----
+- ψωμίσω (V-AAS-1S) ==??== [F]
+- παραδῶ (V-AAS-1S) ==??== [F]
+- ⸀καυθήσομαι, (V-FPI-1S) ==??== [F]
+- ἔχω, (V-PAS-1S) ==??== [F]
+- ὠφελοῦμαι. (V-PPI-1S) ==??== [F]
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 13:3 {#1co-13-3}
+### 1Corintios 13:4
 
-καὶ ἐὰν ψωμίσω πάντα τὰ ὑπάρχοντά μου καὶ ἐὰν παραδῶ τὸ σῶμά μου ἵνα καυθήσωμαι ἀγάπην δὲ μὴ ἔχω οὐδὲν ὠφελοῦμαι
+Ἡ ἀγάπη μακροθυμεῖ, χρηστεύεται ἡ ἀγάπη, οὐ ζηλοῖ ⸂ἡ ἀγάπη⸃, οὐ περπερεύεται, οὐ φυσιοῦται,
 
-[Y si diera todos mis bienes para dar de comer, y si entregara mi cuerpo para ser quemado, pero no tengo amor, de nada me aprovecha.]
+[El amor es paciente, es bondadoso. El amor no tiene envidia; el amor no es jactancioso, no es arrogante.]
 
-- ψωμίσω (V-AAS-1S) diera [F]
-- παραδῶ (V-AAS-1S) entregue [F]
-- καυθήσωμαι (V-FPS-1S) sea quemado [F]
-- ἔχω (V-PAI-1S) ==tengo== [F]
-- ὠφελοῦμαι (V-PPI-1S) ==me aprovecha== [F]
+- μακροθυμεῖ, (V-PAI-3S) ==es== [F]
+- χρηστεύεται (V-PMI-3S) ==es== [F]
+- ζηλοῖ (V-PAI-3S) ==es== [F]
+- περπερεύεται, (V-PMI-3S) ==es== [F]
+- φυσιοῦται, (V-PPI-3S) ==??== [F]
 
-   - καί → (y)
-   - ἐὰν → (si)
-   - ἵνα → (para que)
-   - δὲ → (pero)
+### 1Corintios 13:5
 
----
+οὐκ ἀσχημονεῖ, οὐ ζητεῖ τὰ ἑαυτῆς, οὐ παροξύνεται, οὐ λογίζεται τὸ κακόν,
 
-### 1 Corintios 13:4 {#1co-13-4}
+[No se porta indecorosamente; no busca lo suyo, no se irrita, no toma en cuenta el mal recibido.]
 
-Ἡ ἀγάπη μακροθυμεῖ χρηστεύεται ἡ ἀγάπη οὐ ζηλοῖ οὐ περπερεύεται οὐ φυσιοῦται
+- ἀσχημονεῖ, (V-PAI-3S) ==??== [F]
+- ζητεῖ (V-PAI-3S) ==??== [F]
+- παροξύνεται, (V-PPI-3S) ==??== [F]
+- λογίζεται (V-PMI-3S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-[El amor es paciente, es bondadoso; el amor no tiene envidia, no es jactancioso, no se envanece.]
+### 1Corintios 13:6
 
-- μακροθυμεῖ (V-PAI-3S) ==es paciente== [F]
-- χρηστεύεται (V-PMI-3S) ==es bondadoso== [F]
-- ζηλοῖ (V-PAI-3S) ==tiene envidia== [F]
-- περπερεύεται (V-PMI-3S) ==es jactancioso== [F]
-- φυσιοῦται (V-PPI-3S) ==se envanece== [F]
+οὐ χαίρει ἐπὶ τῇ ἀδικίᾳ, συγχαίρει δὲ τῇ ἀληθείᾳ·
 
----
+[El amor no se regocija de la injusticia, sino que se alegra con la verdad.]
 
-### 1 Corintios 13:5 {#1co-13-5}
+- χαίρει (V-PAI-3S) ==??== [F]
+- συγχαίρει (V-PAI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-οὐκ ἀσχημονεῖ οὐ ζητεῖ τὰ ἑαυτῆς οὐ παροξύνεται οὐ λογίζεται τὸ κακόν
+### 1Corintios 13:7
 
-[No se porta indecorosamente, no busca lo suyo, no se irrita, no toma en cuenta el mal.]
-
-- ἀσχημονεῖ (V-PAI-3S) ==se porta indecorosamente== [F]
-- ζητεῖ (V-PAI-3S) ==busca== [F]
-- παροξύνεται (V-PPI-3S) ==se irrita== [F]
-- λογίζεται (V-PMI-3S) ==toma en cuenta== [F]
-
----
-
-### 1 Corintios 13:6 {#1co-13-6}
-
-οὐ χαίρει ἐπὶ τῇ ἀδικίᾳ συγχαίρει δὲ τῇ ἀληθείᾳ
-
-[No se regocija en la injusticia, sino que se regocija con la verdad.]
-
-- χαίρει (V-PAI-3S) ==se regocija== [F]
-- συγχαίρει (V-PAI-3S) ==se regocija con== [F]
-
-   - δὲ → (sino)
-
----
-
-### 1 Corintios 13:7 {#1co-13-7}
-
-πάντα στέγει πάντα πιστεύει πάντα ἐλπίζει πάντα ὑπομένει
+πάντα στέγει, πάντα πιστεύει, πάντα ἐλπίζει, πάντα ὑπομένει.
 
 [Todo lo sufre, todo lo cree, todo lo espera, todo lo soporta.]
 
-- στέγει (V-PAI-3S) ==sufre== [F]
-- πιστεύει (V-PAI-3S) ==cree== [F]
-- ἐλπίζει (V-PAI-3S) ==espera== [F]
-- ὑπομένει (V-PAI-3S) ==soporta== [F]
+- στέγει, (V-PAI-3S) ==??== [F]
+- πιστεύει, (V-PAI-3S) ==??== [F]
+- ἐλπίζει, (V-PAI-3S) ==??== [F]
+- ὑπομένει. (V-PAI-3S) ==??== [F]
 
----
+### 1Corintios 13:8
 
-### 1 Corintios 13:8 {#1co-13-8}
+Ἡ ἀγάπη οὐδέποτε ⸀πίπτει. εἴτε δὲ προφητεῖαι, καταργηθήσονται· εἴτε γλῶσσαι, παύσονται· εἴτε γνῶσις, καταργηθήσεται.
 
-Ἡ ἀγάπη οὐδέποτε πίπτει εἴτε δὲ προφητεῖαι καταργηθήσονται εἴτε γλῶσσαι παύσονται εἴτε γνῶσις καταργηθήσεται
+[El amor nunca deja de ser. Pero si hay dones de profecía, se acabarán; si hay lenguas, cesarán; si hay conocimiento, se acabará.]
 
-[El amor nunca deja de ser; pero si hay profecías, se acabarán; si hay lenguas, cesarán; si hay conocimiento, se acabará.]
+- ⸀πίπτει. (V-PAI-3S) ==profecía== [F]
+- καταργηθήσονται· (V-FPI-3P) ==??== [F]
+- παύσονται· (V-FMI-3P) ==??== [F]
+- καταργηθήσεται. (V-FPI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-- πίπτει (V-PAI-3S) ==deja de ser== [F]
-- καταργηθήσονται (V-FPI-3P) ==se acabarán== [F]
-- παύσονται (V-FMI-3P) ==cesarán== [F]
-- καταργηθήσεται (V-FPI-3S) ==se acabará== [F]
+### 1Corintios 13:9
 
-   - εἴτε → (si)
-   - δὲ → (pero)
+ἐκ μέρους ⸀γὰρ γινώσκομεν καὶ ἐκ μέρους προφητεύομεν·
 
----
+[Porque en parte conocemos, y en parte profetizamos;]
 
-### 1 Corintios 13:9 {#1co-13-9}
+- γινώσκομεν (V-PAI-1P) ==??== [F]
+- προφητεύομεν· (V-PAI-1P) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-ἐκ μέρους γὰρ γινώσκομεν καὶ ἐκ μέρους προφητεύομεν
+### 1Corintios 13:10
 
-[Porque en parte conocemos, y en parte profetizamos.]
+ὅταν δὲ ἔλθῃ τὸ τέλειον, ⸀τὸ ἐκ μέρους καταργηθήσεται.
 
-- γινώσκομεν (V-PAI-1P) ==conocemos== [F]
-- προφητεύομεν (V-PAI-1P) ==profetizamos== [F]
+[pero cuando venga lo perfecto, lo incompleto se acabará.]
 
-   - γὰρ → (porque)
-   - καί → (y)
+- ἔλθῃ (V-AAS-3S) ==??== [F]
+- καταργηθήσεται. (V-FPI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 13:11
 
-### 1 Corintios 13:10 {#1co-13-10}
+ὅτε ἤμην νήπιος, ⸂ἐλάλουν ὡς νήπιος, ἐφρόνουν ὡς νήπιος, ἐλογιζόμην ὡς νήπιος⸃· ⸀ὅτε γέγονα ἀνήρ, κατήργηκα τὰ τοῦ νηπίου.
 
-ὅταν δὲ ἔλθῃ τὸ τέλειον τὸ ἐκ μέρους καταργηθήσεται
+[Cuando yo era niño, hablaba como niño, pensaba como niño, razonaba como niño; pero cuando llegué a ser hombre, dejé las cosas de niño.]
 
-[Pero cuando venga lo perfecto, lo parcial se acabará.]
+- ἤμην (V-IMI-1S) ==llegué== [F]
+- ⸂ἐλάλουν (V-IAI-1S) ==dejé== [F]
+- ἐφρόνουν (V-IAI-1S) ==??== [F]
+- ἐλογιζόμην (V-IMI-1S) ==??== [F]
+- γέγονα (V-XAI-1S) ==??== [F]
+- κατήργηκα (V-XAI-1S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-- ἔλθῃ (V-AAS-3S) venga [F]
-- καταργηθήσεται (V-FPI-3S) ==se acabará== [F]
+### 1Corintios 13:12
 
-   - δὲ → (pero)
-   - ὅταν → (cuando)
+βλέπομεν γὰρ ἄρτι δι’ ἐσόπτρου ἐν αἰνίγματι, τότε δὲ πρόσωπον πρὸς πρόσωπον· ἄρτι γινώσκω ἐκ μέρους, τότε δὲ ἐπιγνώσομαι καθὼς καὶ ἐπεγνώσθην.
 
----
+[Porque ahora vemos por un espejo, veladamente, pero entonces veremos cara a cara. Ahora conozco en parte, pero entonces conoceré plenamente, como he sido conocido.]
 
-### 1 Corintios 13:11 {#1co-13-11}
+- βλέπομεν (V-PAI-1P) ==conoceré== [F]
+- γινώσκω (V-PAI-1S) ==??== [F]
+- ἐπιγνώσομαι (V-FMI-1S) ==??== [F]
+- ἐπεγνώσθην. (V-API-1S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-ὅτε ἤμην νήπιος ἐλάλουν ὡς νήπιος ἐφρόνουν ὡς νήπιος ἐλογιζόμην ὡς νήπιος ὅτε γέγονα ἀνήρ κατήργηκα τὰ τοῦ νηπίου
+### 1Corintios 13:13
 
-[Cuando yo era niño, hablaba como niño, pensaba como niño, razonaba como niño; cuando llegué a ser hombre, dejé las cosas de niño.]
+νυνὶ δὲ μένει πίστις, ἐλπίς, ἀγάπη· τὰ τρία ταῦτα, μείζων δὲ τούτων ἡ ἀγάπη.
 
-- ἤμην (V-IMI-1S) ==era== [F]
-- ἐλάλουν (V-IAI-1S) ==hablaba== [F]
-- ἐφρόνουν (V-IAI-1S) ==pensaba== [F]
-- ἐλογιζόμην (V-IMI-1S) ==razonaba== [F]
-- γέγονα (V-RAI-1S) ==llegué a ser== [F]
-- κατήργηκα (V-RAI-1S) ==dejé== [F]
+[Y ahora permanecen la fe, la esperanza, el amor: estos tres; pero el mayor de ellos es el amor.]
 
-   - ὅτε → (cuando)
+- μένει (V-PAI-3S) ==es== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 14:1
 
-### 1 Corintios 13:12 {#1co-13-12}
-
-βλέπομεν γὰρ ἄρτι διʼ ἐσόπτρου ἐν αἰνίγματι τότε δὲ πρόσωπον πρὸς πρόσωπον ἄρτι γινώσκω ἐκ μέρους τότε δὲ ἐπιγνώσομαι καθὼς καὶ ἐπεγνώσθην
-
-[Porque ahora vemos por medio de un espejo, oscuramente, pero entonces veremos cara a cara; ahora conozco en parte, pero entonces conoceré plenamente, como he sido conocido.]
-
-- βλέπομεν (V-PAI-1P) ==vemos== [F]
-- γινώσκω (V-PAI-1S) ==conozco== [F]
-- ἐπιγνώσομαι (V-FMI-1S) ==conoceré plenamente== [F]
-- ἐπεγνώσθην (V-API-1S) ==he sido conocido== [F]
-
-   - γὰρ → (porque)
-   - δὲ → (pero)
-   - καθώς → (como)
-   - καί → (también)
-
----
-
-### 1 Corintios 13:13 {#1co-13-13}
-
-νυνὶ δὲ μένει πίστις ἐλπίς ἀγάπη τὰ τρία ταῦτα μείζων δὲ τούτων ἡ ἀγάπη
-
-[Y ahora permanecen la fe, la esperanza y el amor, estos tres; pero el mayor de ellos es el amor.]
-
-- μένει (V-PAI-3S) ==permanece== [F]
-
-   - δὲ → (y)
-
-### 1 Corintios 14:1 {#1co-14-1}
-
-Διώκετε τὴν ἀγάπην ζηλοῦτε δὲ τὰ πνευματικά μᾶλλον δὲ ἵνα προφητεύητε
+Διώκετε τὴν ἀγάπην, ζηλοῦτε δὲ τὰ πνευματικά, μᾶλλον δὲ ἵνα προφητεύητε.
 
 [Procuren alcanzar el amor; pero también deseen ardientemente los dones espirituales, sobre todo que profeticen.]
 
-- διώκετε (V-PAM-2P) procuren [F]
-- ζηλοῦτε (V-PAM-2P) deseen [F]
-- προφητεύητε (V-PAS-2P) profeticen [F]
+- Διώκετε (V-PAD-2P) ==??== [F]
+- ζηλοῦτε (V-PAD-2P) ==??== [F]
+- προφητεύητε. (V-PAS-2P) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
 
-   - δὲ → (pero)
-   - δὲ → (sobre todo)
-   - ἵνα → (que)
+### 1Corintios 14:2
 
----
+ὁ γὰρ λαλῶν γλώσσῃ οὐκ ἀνθρώποις λαλεῖ ⸀ἀλλὰ θεῷ, οὐδεὶς γὰρ ἀκούει, πνεύματι δὲ λαλεῖ μυστήρια·
 
-### 1 Corintios 14:2 {#1co-14-2}
+[Porque el que habla en lenguas no habla a los hombres, sino a Dios, pues nadie lo entiende, sino que en su espíritu habla misterios.]
 
-ὁ γὰρ λαλῶν γλώσσῃ οὐκ ἀνθρώποις λαλεῖ ἀλλὰ θεῷ οὐδεὶς γὰρ ἀκούει πνεύματι δὲ λαλεῖ μυστήρια
+- λαλεῖ (V-PAI-3S) ==??== [F]
+- ἀκούει, (V-PAI-3S) ==??== [F]
+- λαλεῖ (V-PAI-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-[Porque el que habla en lengua no habla a los hombres, sino a Dios; pues nadie lo entiende, sino que en su espíritu habla misterios.]
+### 1Corintios 14:3
 
-- λαλῶν (V-PAP-NSM) hablando [NF]
-- λαλεῖ (V-PAI-3S) ==habla== [F]
-- ἀκούει (V-PAI-3S) ==entiende== [F]
-- λαλεῖ (V-PAI-3S) ==habla== [F]
-
-   - γὰρ → (porque)
-   - ἀλλὰ → (sino)
-   - γὰρ → (pues)
-   - δὲ → (sino)
-
----
-
-### 1 Corintios 14:3 {#1co-14-3}
-
-ὁ δὲ προφητεύων ἀνθρώποις λαλεῖ οἰκοδομὴν καὶ παράκλησιν καὶ παραμυθίαν
+ὁ δὲ προφητεύων ἀνθρώποις λαλεῖ οἰκοδομὴν καὶ παράκλησιν καὶ παραμυθίαν.
 
 [Pero el que profetiza habla a los hombres para edificación, exhortación y consolación.]
 
-- προφητεύων (V-PAP-NSM) profetizando [NF]
-- λαλεῖ (V-PAI-3S) ==habla== [F]
+- λαλεῖ (V-PAI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-   - δὲ → (pero)
-   - καί → (y)
+### 1Corintios 14:4
 
----
+ὁ λαλῶν γλώσσῃ ἑαυτὸν οἰκοδομεῖ· ὁ δὲ προφητεύων ἐκκλησίαν οἰκοδομεῖ.
 
-### 1 Corintios 14:4 {#1co-14-4}
+[El que habla en lenguas, a sí mismo se edifica, pero el que profetiza edifica a la iglesia.]
 
-ὁ λαλῶν γλώσσῃ ἑαυτὸν οἰκοδομεῖ ὁ δὲ προφητεύων ἐκκλησίαν οἰκοδομεῖ
+- οἰκοδομεῖ· (V-PAI-3S) ==??== [F]
+- οἰκοδομεῖ. (V-PAI-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-[El que habla en lengua a sí mismo se edifica, pero el que profetiza edifica a la iglesia.]
+### 1Corintios 14:5
 
-- λαλῶν (V-PAP-NSM) hablando [NF]
-- οἰκοδομεῖ (V-PAI-3S) ==edifica== [F]
-- προφητεύων (V-PAP-NSM) profetizando [NF]
-- οἰκοδομεῖ (V-PAI-3S) ==edifica== [F]
+θέλω δὲ πάντας ὑμᾶς λαλεῖν γλώσσαις, μᾶλλον δὲ ἵνα προφητεύητε· μείζων ⸀δὲ ὁ προφητεύων ἢ ὁ λαλῶν γλώσσαις, ἐκτὸς εἰ μὴ ⸀διερμηνεύῃ, ἵνα ἡ ἐκκλησία οἰκοδομὴν λάβῃ.
 
-   - δὲ → (pero)
+[Yo quisiera que todos hablaran en lenguas, pero aún más, que profetizaran. Porque el que profetiza es superior al que habla en lenguas, a menos de que las interprete para que la iglesia reciba edificación.]
 
----
+- θέλω (V-PAI-1S) ==es== [F]
+- προφητεύητε· (V-PAS-2P) ==??== [F]
+- ⸀διερμηνεύῃ, (V-PAS-3S) ==??== [F]
+- λάβῃ. (V-AAS-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 14:5 {#1co-14-5}
+### 1Corintios 14:6
 
-θέλω δὲ πάντας ὑμᾶς λαλεῖν γλώσσαις μᾶλλον δὲ ἵνα προφητεύητε μείζων δὲ ὁ προφητεύων ἢ ὁ λαλῶν γλώσσαις ἐκτὸς εἰ μὴ διερμηνεύῃ ἵνα ἡ ἐκκλησία οἰκοδομὴν λάβῃ
+⸀Νῦν δέ, ἀδελφοί, ἐὰν ἔλθω πρὸς ὑμᾶς γλώσσαις λαλῶν, τί ὑμᾶς ὠφελήσω, ἐὰν μὴ ὑμῖν λαλήσω ἢ ἐν ἀποκαλύψει ἢ ἐν γνώσει ἢ ἐν προφητείᾳ ἢ ἐν διδαχῇ;
 
-[Yo quisiera que todos ustedes hablaran en lenguas, pero aún más que profetizaran; el que profetiza es mayor que el que habla en lenguas, a menos que las interprete para que la iglesia reciba edificación.]
+[Ahora bien, hermanos, si yo voy a ustedes hablando en lenguas, ¿de qué provecho les seré a menos de que les hable por medio de revelación, o de conocimiento, o de profecía, o de enseñanza?]
 
-- θέλω (V-PAI-1S) ==quiero== [F]
-- λαλεῖν (V-PAN) hablar [NF]
-- προφητεύητε (V-PAS-2P) profeticen [F]
-- διερμηνεύῃ (V-PAS-3S) interprete [F]
-- λάβῃ (V-AAS-3S) reciba [F]
+- ἔλθω (V-AAS-1S) ==qué== [F]
+- ὠφελήσω, (V-FAI-1S) ==seré== [F]
+- λαλήσω (V-AAS-1S) ==profecía== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-   - δὲ → (pero)
-   - δὲ → (aún más)
-   - ἵνα → (que)
-   - δὲ → (y)
-   - ἢ → (que)
-   - εἰ → (si)
-   - μὴ → (no)
-   - ἵνα → (para que)
+### 1Corintios 14:7
 
----
+ὅμως τὰ ἄψυχα φωνὴν διδόντα, εἴτε αὐλὸς εἴτε κιθάρα, ἐὰν διαστολὴν τοῖς φθόγγοις μὴ ⸀δῷ, πῶς γνωσθήσεται τὸ αὐλούμενον ἢ τὸ κιθαριζόμενον;
 
-### 1 Corintios 14:6 {#1co-14-6}
+[Aun las cosas inanimadas, como la flauta o el arpa, al producir un sonido, si no dan con distinción los sonidos, ¿cómo se sabrá lo que se toca en la flauta o en el arpa?]
 
-νυνὶ δέ ἀδελφοί ἐὰν ἔλθω πρὸς ὑμᾶς γλώσσαις λαλῶν τί ὑμᾶς ὠφελήσω ἐὰν μὴ ὑμῖν λαλήσω ἢ ἐν ἀποκαλύψει ἢ ἐν γνώσει ἢ ἐν προφητείᾳ ἢ ἐν διδαχῇ
+- ⸀δῷ, (V-AAS-3S) ==??== [F]
+- γνωσθήσεται (V-FPI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-[Ahora bien, hermanos, si voy a ustedes hablando en lenguas, ¿de qué les aprovecharé si no les hablo con revelación, o con conocimiento, o con profecía, o con enseñanza?]
+### 1Corintios 14:8
 
-- ἔλθω (V-AAS-1S) vaya [F]
-- λαλῶν (V-PAP-NSM) hablando [NF]
-- ὠφελήσω (V-FAI-1S) ==aprovecharé== [F]
-- λαλήσω (V-AAS-1S) hable [F]
+καὶ γὰρ ἐὰν ἄδηλον ⸂φωνὴν σάλπιγξ⸃ δῷ, τίς παρασκευάσεται εἰς πόλεμον;
 
-   - δέ → (ahora bien)
-   - ἐὰν → (si)
-   - ἐὰν → (si)
-   - μὴ → (no)
-   - ἢ → (o)
+[Porque si la trompeta da un sonido incierto, ¿quién se preparará para la batalla?]
 
----
+- δῷ, (V-AAS-3S) ==??== [F]
+- παρασκευάσεται (V-FMI-3S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 14:7 {#1co-14-7}
+### 1Corintios 14:9
 
-ὅμως τὰ ἄψυχα φωνὴν διδόντα εἴτε αὐλὸς εἴτε κιθάρα ἐὰν διαστολὴν τοῖς φθόγγοις μὴ δῷ πῶς γνωσθήσεται τὸ αὐλούμενον ἢ τὸ κιθαριζόμενον
+οὕτως καὶ ὑμεῖς διὰ τῆς γλώσσης ἐὰν μὴ εὔσημον λόγον δῶτε, πῶς γνωσθήσεται τὸ λαλούμενον; ἔσεσθε γὰρ εἰς ἀέρα λαλοῦντες.
 
-[Sin embargo, aun las cosas inanimadas que producen sonido, ya sea flauta o arpa, si no dan distinción en los tonos, ¿cómo se sabrá lo que se toca en la flauta o en el arpa?]
+[Así también ustedes, a menos de que con la boca pronuncien palabras inteligibles, ¿cómo se sabrá lo que dicen? Pues hablarán al aire.]
 
-- διδόντα (V-PAP-NPN) dando [NF]
-- δῷ (V-AAS-3S) dé [F]
-- γνωσθήσεται (V-FPI-3S) ==se sabrá== [F]
+- δῶτε, (V-AAS-2P) ==??== [F]
+- γνωσθήσεται (V-FPI-3S) ==??== [F]
+- ἔσεσθε (V-FMI-2P) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-   - ἐὰν → (si)
-   - μὴ → (no)
-   - ἢ → (o)
+### 1Corintios 14:10
 
----
+τοσαῦτα εἰ τύχοι γένη φωνῶν ⸀εἰσιν ἐν κόσμῳ, καὶ ⸀οὐδὲν ἄφωνον·
 
-### 1 Corintios 14:8 {#1co-14-8}
+[Hay, quizás, muchas variedades de idiomas en el mundo, y ninguno carece de significado.]
 
-καὶ γὰρ ἐὰν ἄδηλον σάλπιγξ φωνὴν δῷ τίς παρασκευάσεται εἰς πόλεμον
+- τύχοι (V-AAO-3S) ==??== [F]
+- ⸀εἰσιν (V-PAI-3P) ==??== [F]
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-[Y si la trompeta da un sonido incierto, ¿quién se preparará para la batalla?]
+### 1Corintios 14:11
 
-- δῷ (V-AAS-3S) dé [F]
-- παρασκευάσεται (V-FMI-3S) ==se preparará== [F]
+ἐὰν οὖν μὴ εἰδῶ τὴν δύναμιν τῆς φωνῆς, ἔσομαι τῷ λαλοῦντι βάρβαρος καὶ ὁ λαλῶν ἐν ἐμοὶ βάρβαρος.
 
-   - καί → (y)
-   - γὰρ → (porque)
-   - ἐὰν → (si)
+[Pues si yo no sé el significado de las palabras, seré para el que habla un extranjero, y el que habla será un extranjero para mí.]
 
----
-
-### 1 Corintios 14:9 {#1co-14-9}
-
-οὕτως καὶ ὑμεῖς διὰ τῆς γλώσσης ἐὰν μὴ εὔσημον λόγον δῶτε πῶς γνωσθήσεται τὸ λαλούμενον ἔσεσθε γὰρ εἰς ἀέρα λαλοῦντες
-
-[Así también ustedes, si con la lengua no pronuncian palabra inteligible, ¿cómo se entenderá lo que se habla? Porque estarán hablando al aire.]
-
-- δῶτε (V-AAS-2P) pronuncien [F]
-- γνωσθήσεται (V-FPI-3S) ==se entenderá== [F]
-- ἔσεσθε (V-FMI-2P) ==estarán== [F]
-- λαλοῦντες (V-PAP-NPM) hablando [NF]
-
-   - καί → (también)
-   - ἐὰν → (si)
-   - μὴ → (no)
-   - γὰρ → (porque)
-
----
-
-### 1 Corintios 14:10 {#1co-14-10}
-
-τοσαῦτα εἰ τύχοι γένη φωνῶν εἰσὶν ἐν κόσμῳ καὶ οὐδὲν ἄφωνον
-
-[Hay, quizás, muchas clases de idiomas en el mundo, y ninguno carece de significado.]
-
-- εἰσὶν (V-PAI-3P) ==hay== [F]
-
-   - καί → (y)
-
----
-
-### 1 Corintios 14:11 {#1co-14-11}
-
-ἐὰν οὖν μὴ εἰδῶ τὴν δύναμιν τῆς φωνῆς ἔσομαι τῷ λαλοῦντι βάρβαρος καὶ ὁ λαλῶν ἐν ἐμοὶ βάρβαρος
-
-[Por tanto, si no conozco el significado del idioma, seré extranjero para el que habla, y el que habla será extranjero para mí.]
-
-- εἰδῶ (V-RAS-1S) conozca [F]
+- εἰδῶ (V-XAS-1S) ==sé== [F]
 - ἔσομαι (V-FMI-1S) ==seré== [F]
-- λαλῶν (V-PAP-NSM) hablando [NF]
+- δέ [CORD] → [pero]
+  A: "sé" → B: "seré"
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-   - οὖν → (por tanto)
-   - ἐὰν → (si)
-   - μὴ → (no)
-   - καί → (y)
+### 1Corintios 14:12
 
----
+οὕτως καὶ ὑμεῖς, ἐπεὶ ζηλωταί ἐστε πνευμάτων, πρὸς τὴν οἰκοδομὴν τῆς ἐκκλησίας ζητεῖτε ἵνα περισσεύητε.
 
-### 1 Corintios 14:12 {#1co-14-12}
+[Así también ustedes, puesto que anhelan dones espirituales, procuren abundar en ellos para la edificación de la iglesia.]
 
-οὕτως καὶ ὑμεῖς ἐπεὶ ζηλωταί ἐστε πνευμάτων πρὸς τὴν οἰκοδομὴν τῆς ἐκκλησίας ζητεῖτε ἵνα περισσεύητε
+- ἐστε (V-PAI-2P) ==??== [F]
+- ζητεῖτε (V-PAD-2P) ==??== [F]
+- περισσεύητε. (V-PAS-2P) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
 
-[Así también ustedes, puesto que son celosos de dones espirituales, procuren abundar en ellos para edificación de la iglesia.]
+### 1Corintios 14:13
 
-- ἐστε (V-PAI-2P) ==son== [F]
-- ζητεῖτε (V-PAM-2P) procuren [F]
-- περισσεύητε (V-PAS-2P) abunden [F]
+⸀Διὸ ὁ λαλῶν γλώσσῃ προσευχέσθω ἵνα διερμηνεύῃ.
 
-   - καί → (también)
-   - ἐπεὶ → (puesto que)
-   - ἵνα → (para que)
+[Por tanto, el que habla en lenguas, pida en oración para que pueda interpretar.]
 
-### 1 Corintios 15:1 {#1co-15-1}
+- προσευχέσθω (V-PMD-3S) ==??== [F]
+- διερμηνεύῃ. (V-PAS-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-Γνωρίζω δὲ ὑμῖν ἀδελφοί τὸ εὐαγγέλιον ὃ εὐηγγελισάμην ὑμῖν ὃ καὶ παρελάβετε ἐν ᾧ καὶ ἑστήκατε
+### 1Corintios 14:14
 
-[Ahora les hago saber, hermanos, el evangelio que les prediqué, el cual también recibieron, en el cual también están firmes.]
+ἐὰν γὰρ προσεύχωμαι γλώσσῃ, τὸ πνεῦμά μου προσεύχεται, ὁ δὲ νοῦς μου ἄκαρπός ἐστιν.
 
-- γνωρίζω (V-PAI-1S) ==hago saber== [F]
+[Porque si yo oro en lenguas, mi espíritu ora, pero mi entendimiento queda sin fruto.]
+
+- προσεύχωμαι (V-PMS-1S) ==??== [F]
+- προσεύχεται, (V-PMI-3S) ==??== [F]
+- ἐστιν. (V-PAI-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 14:15
+
+τί οὖν ἐστιν; προσεύξομαι τῷ πνεύματι, προσεύξομαι δὲ καὶ τῷ νοΐ· ψαλῶ τῷ πνεύματι, ψαλῶ δὲ καὶ τῷ νοΐ·
+
+[Entonces ¿qué? Oraré con el espíritu, pero también oraré con el entendimiento. Cantaré con el espíritu, pero también cantaré con el entendimiento.]
+
+- ἐστιν; (V-PAI-3S) ==oraré== [F]
+- προσεύξομαι (V-FMI-1S) ==oraré== [F]
+- προσεύξομαι (V-FMI-1S) ==cantaré== [F]
+- ψαλῶ (V-FAI-1S) ==cantaré== [F]
+- ψαλῶ (V-FAI-1S) ==??== [F]
+- δέ [CORD] → [pero]
+  A: "oraré" → B: "oraré"
+- καί [CORD] → [y]
+  A: "oraré" → B: "cantaré"
+
+### 1Corintios 14:16
+
+ἐπεὶ ἐὰν ⸀εὐλογῇς ⸀πνεύματι, ὁ ἀναπληρῶν τὸν τόπον τοῦ ἰδιώτου πῶς ἐρεῖ τὸ Ἀμήν ἐπὶ τῇ σῇ εὐχαριστίᾳ; ἐπειδὴ τί λέγεις οὐκ οἶδεν·
+
+[De otra manera, si bendices solo en el espíritu, ¿cómo dirá el «Amén» a tu acción de gracias el que ocupa el lugar del que no tiene ese don, puesto que no sabe lo que dices?]
+
+- ⸀εὐλογῇς (V-PAS-2S) ==??== [F]
+- ἐρεῖ (V-FAI-3S) ==??== [F]
+- λέγεις (V-PAI-2S) ==??== [F]
+- οἶδεν· (V-XAI-3S) ==??== [F]
+
+### 1Corintios 14:17
+
+σὺ μὲν γὰρ καλῶς εὐχαριστεῖς, ἀλλ’ ὁ ἕτερος οὐκ οἰκοδομεῖται.
+
+[Porque tú, bien das gracias, pero el otro no es edificado.]
+
+- εὐχαριστεῖς, (V-PAI-2S) ==es edificado== [F]
+- οἰκοδομεῖται. (V-PPI-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 14:18
+
+εὐχαριστῶ τῷ ⸀θεῷ, πάντων ὑμῶν μᾶλλον ⸀γλώσσαις ⸀λαλῶ·
+
+[Doy gracias a Dios porque hablo en lenguas más que todos ustedes.]
+
+- εὐχαριστῶ (V-PAI-1S) ==??== [F]
+- ⸀λαλῶ· (V-PAI-1S) ==??== [F]
+
+### 1Corintios 14:19
+
+ἀλλὰ ἐν ἐκκλησίᾳ θέλω πέντε λόγους ⸂τῷ νοΐ⸃ μου λαλῆσαι, ἵνα καὶ ἄλλους κατηχήσω, ἢ μυρίους λόγους ἐν γλώσσῃ.
+
+[Sin embargo, en la iglesia prefiero hablar cinco palabras con mi entendimiento, para instruir también a otros, antes que diez mil palabras en lenguas.]
+
+- θέλω (V-PAI-1S) ==??== [F]
+- κατηχήσω, (V-AAS-1S) ==??== [F]
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 14:20
+
+Ἀδελφοί, μὴ παιδία γίνεσθε ταῖς φρεσίν, ἀλλὰ τῇ κακίᾳ νηπιάζετε, ταῖς δὲ φρεσὶν τέλειοι γίνεσθε.
+
+[Hermanos, no sean niños en la manera de pensar. Más bien, sean niños en la malicia, pero en la manera de pensar sean maduros.]
+
+- γίνεσθε (V-PMD-2P) ==??== [F]
+- νηπιάζετε, (V-PAD-2P) ==??== [F]
+- γίνεσθε. (V-PMD-2P) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 14:21
+
+ἐν τῷ νόμῳ γέγραπται ὅτι Ἐν ἑτερογλώσσοις καὶ ἐν χείλεσιν ⸀ἑτέρων λαλήσω τῷ λαῷ τούτῳ, καὶ οὐδ’ οὕτως εἰσακούσονταί μου, λέγει κύριος.
+
+[En la ley está escrito: «POR HOMBRES DE LENGUAS EXTRAÑAS Y POR BOCA DE EXTRAÑOS HABLARÉ A ESTE PUEBLO, Y NI AUN ASÍ ME ESCUCHARÁN», dice el Señor.]
+
+- γέγραπται (V-XPI-3S) ==hablaré== [F]
+- λαλήσω (V-FAI-1S) ==??== [F]
+- εἰσακούσονταί (V-FMI-3P) ==??== [F]
+- λέγει (V-PAI-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 14:22
+
+ὥστε αἱ γλῶσσαι εἰς σημεῖόν εἰσιν οὐ τοῖς πιστεύουσιν ἀλλὰ τοῖς ἀπίστοις, ἡ δὲ προφητεία οὐ τοῖς ἀπίστοις ἀλλὰ τοῖς πιστεύουσιν.
+
+[Así que las lenguas son una señal, no para los que creen, sino para los incrédulos; pero la profecía es una señal, no para los incrédulos, sino para los creyentes.]
+
+- εἰσιν (V-PAI-3P) ==son== [F]
+- ὥστε [DEP] → [de manera que]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  A: "son" → B: "profecía"
+- δέ [CORD] → [pero]
+  A: "son" → B: "profecía"
+
+### 1Corintios 14:23
+
+ἐὰν οὖν συνέλθῃ ἡ ἐκκλησία ὅλη ἐπὶ τὸ αὐτὸ καὶ πάντες ⸂λαλῶσιν γλώσσαις⸃, εἰσέλθωσιν δὲ ἰδιῶται ἢ ἄπιστοι, οὐκ ἐροῦσιν ὅτι μαίνεσθε;
+
+[Por tanto, si toda la iglesia se reúne y todos hablan en lenguas, y entran algunos sin ese don o que son incrédulos, ¿no dirán que ustedes están locos?]
+
+- συνέλθῃ (V-AAS-3S) ==son== [F]
+- ⸂λαλῶσιν (V-PAS-3P) ==??== [F]
+- εἰσέλθωσιν (V-AAS-3P) ==??== [F]
+- ἐροῦσιν (V-FAI-3P) ==??== [F]
+- μαίνεσθε; (V-PMI-2P) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 14:24
+
+ἐὰν δὲ πάντες προφητεύωσιν, εἰσέλθῃ δέ τις ἄπιστος ἢ ἰδιώτης, ἐλέγχεται ὑπὸ πάντων, ἀνακρίνεται ὑπὸ πάντων,
+
+[Pero si todos profetizan, y entra un incrédulo, o uno sin ese don, por todos será convencido, por todos será juzgado.]
+
+- προφητεύωσιν, (V-PAS-3P) ==??== [F]
+- εἰσέλθῃ (V-AAS-3S) ==??== [F]
+- ἐλέγχεται (V-PPI-3S) ==??== [F]
+- ἀνακρίνεται (V-PPI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 14:25
+
+⸀τὰ κρυπτὰ τῆς καρδίας αὐτοῦ φανερὰ γίνεται, καὶ οὕτως πεσὼν ἐπὶ πρόσωπον προσκυνήσει τῷ θεῷ, ἀπαγγέλλων ὅτι ⸂Ὄντως ὁ θεὸς⸃ ἐν ὑμῖν ἐστιν.
+
+[Los secretos de su corazón quedarán al descubierto, y él se postrará y adorará a Dios, declarando que en verdad Dios está entre ustedes.]
+
+- γίνεται, (V-PMI-3S) ==??== [F]
+- προσκυνήσει (V-FAI-3S) ==??== [F]
+- ἐστιν. (V-PAI-3S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 14:26
+
+Τί οὖν ἐστιν, ἀδελφοί; ὅταν συνέρχησθε, ⸀ἕκαστος ψαλμὸν ἔχει, διδαχὴν ἔχει, ⸂ἀποκάλυψιν ἔχει, γλῶσσαν⸃ ἔχει, ἑρμηνείαν ἔχει· πάντα πρὸς οἰκοδομὴν γινέσθω.
+
+[¿Qué hay que hacer, pues, hermanos? Cuando se reúnan, cada cual aporte salmo, enseñanza, revelación, lenguas o interpretación. Que todo se haga para edificación.]
+
+- ἐστιν, (V-PAI-3S) ==¿qué== [F]
+- συνέρχησθε, (V-PMS-2P) ==??== [F]
+- ἔχει, (V-PAI-3S) ==??== [F]
+- ἔχει, (V-PAI-3S) ==??== [F]
+- ἔχει, (V-PAI-3S) ==??== [F]
+- ἔχει, (V-PAI-3S) ==??== [F]
+- ἔχει· (V-PAI-3S) ==??== [F]
+- γινέσθω. (V-PMD-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 14:27
+
+εἴτε γλώσσῃ τις λαλεῖ, κατὰ δύο ἢ τὸ πλεῖστον τρεῖς, καὶ ἀνὰ μέρος, καὶ εἷς διερμηνευέτω·
+
+[Si alguien habla en lenguas, que hablen dos, o a lo más tres, y por turno, y que uno interprete.]
+
+- λαλεῖ, (V-PAI-3S) ==??== [F]
+- διερμηνευέτω· (V-PAD-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 14:28
+
+ἐὰν δὲ μὴ ᾖ ⸀διερμηνευτής, σιγάτω ἐν ἐκκλησίᾳ, ἑαυτῷ δὲ λαλείτω καὶ τῷ θεῷ.
+
+[Pero si no hay intérprete, que guarde silencio en la iglesia y que hable para sí y para Dios.]
+
+- ᾖ (V-PAS-3S) ==??== [F]
+- σιγάτω (V-PAD-3S) ==??== [F]
+- λαλείτω (V-PAD-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 14:29
+
+προφῆται δὲ δύο ἢ τρεῖς λαλείτωσαν, καὶ οἱ ἄλλοι διακρινέτωσαν·
+
+[Y que dos o tres profetas hablen, y los demás juzguen.]
+
+- λαλείτωσαν, (V-PAD-3P) ==??== [F]
+- διακρινέτωσαν· (V-PAD-3P) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 14:30
+
+ἐὰν δὲ ἄλλῳ ἀποκαλυφθῇ καθημένῳ, ὁ πρῶτος σιγάτω.
+
+[Pero si a otro que está sentado le es revelado algo, que calle el primero.]
+
+- ἀποκαλυφθῇ (V-APS-3S) ==es revelado== [F]
+- σιγάτω. (V-PAD-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 14:31
+
+δύνασθε γὰρ καθ’ ἕνα πάντες προφητεύειν, ἵνα πάντες μανθάνωσιν καὶ πάντες παρακαλῶνται
+
+[Porque todos pueden profetizar uno por uno, para que todos aprendan y todos sean exhortados.]
+
+- δύνασθε (V-PMI-2P) ==pueden== [F]
+- μανθάνωσιν (V-PAS-3P) ==??== [F]
+- παρακαλῶνται (V-PPS-3P) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 14:32
+
+(καὶ πνεύματα προφητῶν προφήταις ὑποτάσσεται,
+
+[Los espíritus de los profetas están sujetos a los profetas.]
+
+- ὑποτάσσεται, (V-PPI-3S) ==??== [F]
+
+### 1Corintios 14:33
+
+οὐ γάρ ἐστιν ἀκαταστασίας ὁ θεὸς ἀλλὰ εἰρήνης), ὡς ἐν πάσαις ταῖς ἐκκλησίαις τῶν ἁγίων.
+
+[Porque Dios no es Dios de confusión, sino de paz, como en todas las iglesias de los santos.]
+
+- ἐστιν (V-PAI-3S) ==es== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 14:34
+
+Αἱ ⸀γυναῖκες ἐν ταῖς ἐκκλησίαις σιγάτωσαν, οὐ γὰρ ⸀ἐπιτρέπεται αὐταῖς λαλεῖν· ἀλλὰ ⸀ὑποτασσέσθωσαν, καθὼς καὶ ὁ νόμος λέγει.
+
+[Las mujeres guarden silencio en las iglesias, porque no les es permitido hablar, antes bien, que se sujeten como dice también la ley.]
+
+- σιγάτωσαν, (V-PAD-3P) ==es permitido== [F]
+- ⸀ἐπιτρέπεται (V-PPI-3S) ==??== [F]
+- ⸀ὑποτασσέσθωσαν, (V-PPD-3P) ==??== [F]
+- λέγει. (V-PAI-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 14:35
+
+εἰ δέ τι ⸀μαθεῖν θέλουσιν, ἐν οἴκῳ τοὺς ἰδίους ἄνδρας ἐπερωτάτωσαν, αἰσχρὸν γάρ ἐστιν γυναικὶ ⸂λαλεῖν ἐν ἐκκλησίᾳ⸃.
+
+[Y si quieren aprender algo, que pregunten a sus propios maridos en casa, porque no es correcto que la mujer hable en la iglesia.]
+
+- θέλουσιν, (V-PAI-3P) ==es== [F]
+- ἐπερωτάτωσαν, (V-PAD-3P) ==??== [F]
+- ἐστιν (V-PAI-3S) ==??== [F]
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 14:36
+
+ἢ ἀφ’ ὑμῶν ὁ λόγος τοῦ θεοῦ ἐξῆλθεν, ἢ εἰς ὑμᾶς μόνους κατήντησεν;
+
+[¿Acaso la palabra de Dios salió de ustedes, o solo a ustedes ha llegado?]
+
+- ἐξῆλθεν, (V-AAI-3S) ==salió== [F]
+- κατήντησεν; (V-AAI-3S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 14:37
+
+Εἴ τις δοκεῖ προφήτης εἶναι ἢ πνευματικός, ἐπιγινωσκέτω ἃ γράφω ὑμῖν ὅτι κυρίου ⸀ἐστίν·
+
+[Si alguien piensa que es profeta o espiritual, reconozca que lo que les escribo es mandamiento del Señor.]
+
+- δοκεῖ (V-PAI-3S) ==es== [F]
+- ἐπιγινωσκέτω (V-PAD-3S) ==es== [F]
+- γράφω (V-PAI-1S) ==??== [F]
+- ⸀ἐστίν· (V-PAI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  A: "es" → B: "es"
+- ὅτι [DEP] → [que]
+  A: "es" → B: "es"
+
+### 1Corintios 14:38
+
+εἰ δέ τις ἀγνοεῖ, ⸀ἀγνοεῖται.
+
+[Pero si alguien no reconoce esto, él no es reconocido.]
+
+- ἀγνοεῖ, (V-PAI-3S) ==es reconocido== [F]
+- ⸀ἀγνοεῖται. (V-PPI-3S) ==??== [F]
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 14:39
+
+ὥστε, ἀδελφοί ⸀μου, ζηλοῦτε τὸ προφητεύειν, καὶ τὸ λαλεῖν ⸂μὴ κωλύετε γλώσσαις⸃·
+
+[Por tanto, hermanos míos, anhelen el profetizar, y no prohíban hablar en lenguas.]
+
+- ζηλοῦτε (V-PAD-2P) ==??== [F]
+- κωλύετε (V-PAD-2P) ==??== [F]
+- ὥστε [DEP] → [de manera que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 14:40
+
+πάντα ⸀δὲ εὐσχημόνως καὶ κατὰ τάξιν γινέσθω.
+
+[Pero que todo se haga decentemente y con orden.]
+
+- γινέσθω. (V-PMD-3S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 15:1
+
+Γνωρίζω δὲ ὑμῖν, ἀδελφοί, τὸ εὐαγγέλιον ὃ εὐηγγελισάμην ὑμῖν, ὃ καὶ παρελάβετε, ἐν ᾧ καὶ ἑστήκατε,
+
+[Ahora les hago saber, hermanos, el evangelio que les prediqué, el cual también ustedes recibieron, en el cual también están firmes,]
+
+- Γνωρίζω (V-PAI-1S) ==prediqué== [F]
+- εὐηγγελισάμην (V-AMI-1S) ==recibieron== [F]
+- παρελάβετε, (V-AAI-2P) ==??== [F]
+- ἑστήκατε, (V-XAI-2P) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  A: "prediqué" → B: "recibieron"
+
+### 1Corintios 15:2
+
+δι’ οὗ καὶ σῴζεσθε, τίνι λόγῳ εὐηγγελισάμην ὑμῖν, εἰ κατέχετε, ἐκτὸς εἰ μὴ εἰκῇ ἐπιστεύσατε.
+
+[por el cual también son salvos, si retienen la palabra que les prediqué, a no ser que hayan creído en vano.]
+
+- σῴζεσθε, (V-PPI-2P) ==son== [F]
 - εὐηγγελισάμην (V-AMI-1S) ==prediqué== [F]
-- παρελάβετε (V-AAI-2P) ==recibieron== [F]
-- ἑστήκατε (V-RAI-2P) ==están firmes== [F]
+- κατέχετε, (V-PAI-2P) ==??== [F]
+- ἐπιστεύσατε. (V-AAI-2P) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- εἰ [DEP] → [si]
+  A: "son" → B: "prediqué"
 
-   - δὲ → (ahora)
-   - καί → (también)
+### 1Corintios 15:3
 
----
+Παρέδωκα γὰρ ὑμῖν ἐν πρώτοις, ὃ καὶ παρέλαβον, ὅτι Χριστὸς ἀπέθανεν ὑπὲρ τῶν ἁμαρτιῶν ἡμῶν κατὰ τὰς γραφάς,
 
-### 1 Corintios 15:2 {#1co-15-2}
+[Porque yo les entregué en primer lugar lo mismo que recibí: que Cristo murió por nuestros pecados, conforme a las Escrituras;]
 
-διʼ οὗ καὶ σῴζεσθε τίνι λόγῳ εὐηγγελισάμην ὑμῖν εἰ κατέχετε ἐκτὸς εἰ μὴ εἰκῇ ἐπιστεύσατε
+- Παρέδωκα (V-AAI-1S) ==entregué== [F]
+- παρέλαβον, (V-AAI-1S) ==murió== [F]
+- ἀπέθανεν (V-AAI-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  A: "entregué" → B: "murió"
+- ὅτι [DEP] → [que]
+  A: "entregué" → B: "murió"
 
-[por el cual también son salvos, si retienen la palabra que les prediqué, a menos que hayan creído en vano.]
+### 1Corintios 15:4
 
-- σῴζεσθε (V-PPI-2P) ==son salvos== [F]
-- εὐηγγελισάμην (V-AMI-1S) ==prediqué== [F]
-- κατέχετε (V-PAI-2P) ==retienen== [F]
-- ἐπιστεύσατε (V-AAI-2P) ==han creído== [F]
+καὶ ὅτι ἐτάφη, καὶ ὅτι ἐγήγερται τῇ ⸂ἡμέρᾳ τῇ τρίτῃ⸃ κατὰ τὰς γραφάς,
 
-   - καί → (también)
-   - εἰ → (si)
-   - εἰ → (si)
-   - μὴ → (no)
+[que fue sepultado y que resucitó al tercer día, conforme a las Escrituras;]
 
----
+- ἐτάφη, (V-API-3S) ==fue sepultado== [F]
+- ἐγήγερται (V-XPI-3S) ==resucitó== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 15:3 {#1co-15-3}
+### 1Corintios 15:5
 
-παρέδωκα γὰρ ὑμῖν ἐν πρώτοις ὃ καὶ παρέλαβον ὅτι Χριστὸς ἀπέθανεν ὑπὲρ τῶν ἁμαρτιῶν ἡμῶν κατὰ τὰς γραφάς
+καὶ ὅτι ὤφθη Κηφᾷ, εἶτα τοῖς δώδεκα·
 
-[Porque les entregué en primer lugar lo mismo que recibí: que Cristo murió por nuestros pecados, conforme a las Escrituras.]
+[que se apareció a Cefas y después a los doce.]
 
-- παρέδωκα (V-AAI-1S) ==entregué== [F]
-- παρέλαβον (V-AAI-1S) ==recibí== [F]
-- ἀπέθανεν (V-AAI-3S) ==murió== [F]
+- ὤφθη (V-API-3S) ==apareció== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-   - γὰρ → (porque)
-   - καί → (también)
-   - ὅτι → (que)
+### 1Corintios 15:6
 
----
+ἔπειτα ὤφθη ἐπάνω πεντακοσίοις ἀδελφοῖς ἐφάπαξ, ἐξ ὧν οἱ ⸀πλείονες μένουσιν ἕως ἄρτι, τινὲς ⸀δὲ ἐκοιμήθησαν·
 
-### 1 Corintios 15:4 {#1co-15-4}
+[Luego se apareció a más de 500 hermanos a la vez, la mayoría de los cuales viven aún, pero algunos ya duermen.]
 
-καὶ ὅτι ἐτάφη καὶ ὅτι ἐγήγερται τῇ τρίτῃ ἡμέρᾳ κατὰ τὰς γραφάς
+- ὤφθη (V-API-3S) ==apareció== [F]
+- μένουσιν (V-PAI-3P) ==mayoría== [F]
+- ἐκοιμήθησαν· (V-API-3P) ==??== [F]
 
-[y que fue sepultado, y que resucitó al tercer día, conforme a las Escrituras.]
+### 1Corintios 15:7
 
-- ἐτάφη (V-API-3S) ==fue sepultado== [F]
-- ἐγήγερται (V-RPI-3S) ==ha resucitado== [F]
+ἔπειτα ὤφθη Ἰακώβῳ, εἶτα τοῖς ἀποστόλοις πᾶσιν·
 
-   - καί → (y)
-   - ὅτι → (que)
+[Después se apareció a Jacobo, luego a todos los apóstoles.]
 
----
+- ὤφθη (V-API-3S) ==apareció== [F]
 
-### 1 Corintios 15:5 {#1co-15-5}
+### 1Corintios 15:8
 
-καὶ ὅτι ὤφθη Κηφᾷ εἶτα τοῖς δώδεκα
+ἔσχατον δὲ πάντων ὡσπερεὶ τῷ ἐκτρώματι ὤφθη κἀμοί.
 
-[y que se apareció a Cefas, y después a los doce.]
+[Y al último de todos, como a uno nacido fuera de tiempo, se me apareció también a mí.]
 
-- ὤφθη (V-API-3S) ==se apareció== [F]
+- ὤφθη (V-API-3S) ==apareció== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-   - καί → (y)
+### 1Corintios 15:9
 
----
+ἐγὼ γάρ εἰμι ὁ ἐλάχιστος τῶν ἀποστόλων, ὃς οὐκ εἰμὶ ἱκανὸς καλεῖσθαι ἀπόστολος, διότι ἐδίωξα τὴν ἐκκλησίαν τοῦ θεοῦ·
 
-### 1 Corintios 15:6 {#1co-15-6}
+[Porque yo soy el más insignificante de los apóstoles, que no soy digno de ser llamado apóstol, pues perseguí a la iglesia de Dios.]
 
-ἔπειτα ὤφθη ἐπάνω πεντακοσίοις ἀδελφοῖς ἐφάπαξ ἐξ ὧν οἱ πλείονες μένουσιν ἕως ἄρτι τινὲς δὲ ἐκοιμήθησαν
+- εἰμι (V-PAI-1S) ==??== [F]
+- εἰμὶ (V-PAI-1S) ==??== [F]
+- ἐδίωξα (V-AAI-1S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-[Después se apareció a más de quinientos hermanos a la vez, de los cuales la mayoría permanece hasta ahora, pero algunos ya durmieron.]
+### 1Corintios 15:10
 
-- ὤφθη (V-API-3S) ==se apareció== [F]
-- μένουσιν (V-PAI-3P) ==permanecen== [F]
-- ἐκοιμήθησαν (V-API-3P) ==durmieron== [F]
+χάριτι δὲ θεοῦ εἰμι ὅ εἰμι, καὶ ἡ χάρις αὐτοῦ ἡ εἰς ἐμὲ οὐ κενὴ ἐγενήθη, ἀλλὰ περισσότερον αὐτῶν πάντων ἐκοπίασα, οὐκ ἐγὼ δὲ ἀλλὰ ἡ χάρις τοῦ θεοῦ ⸀ἡ σὺν ἐμοί.
 
-   - δὲ → (pero)
+[Pero por la gracia de Dios soy lo que soy, y Su gracia para conmigo no resultó vana. Antes bien he trabajado mucho más que todos ellos, aunque no yo, sino la gracia de Dios en mí.]
 
----
+- εἰμι (V-PAI-1S) ==resultó== [F]
+- εἰμι, (V-PAI-1S) ==??== [F]
+- ἐγενήθη, (V-API-3S) ==??== [F]
+- ἐκοπίασα, (V-AAI-1S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 15:7 {#1co-15-7}
+### 1Corintios 15:11
 
-ἔπειτα ὤφθη Ἰακώβῳ εἶτα τοῖς ἀποστόλοις πᾶσιν
+εἴτε οὖν ἐγὼ εἴτε ἐκεῖνοι, οὕτως κηρύσσομεν καὶ οὕτως ἐπιστεύσατε.
 
-[Después se apareció a Jacobo; luego a todos los apóstoles.]
+[Sin embargo, haya sido yo o ellos, así predicamos y así creyeron ustedes.]
 
-- ὤφθη (V-API-3S) ==se apareció== [F]
+- κηρύσσομεν (V-PAI-1P) ==??== [F]
+- ἐπιστεύσατε. (V-AAI-2P) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 15:12
 
-### 1 Corintios 15:8 {#1co-15-8}
+Εἰ δὲ Χριστὸς κηρύσσεται ὅτι ἐκ νεκρῶν ἐγήγερται, πῶς λέγουσιν ⸂ἐν ὑμῖν τινες⸃ ὅτι ἀνάστασις νεκρῶν οὐκ ἔστιν;
 
-ἔσχατον δὲ πάντων ὡσπερεὶ τῷ ἐκτρώματι ὤφθη κἀμοί
+[Ahora bien, si se predica que Cristo ha resucitado de entre los muertos, ¿cómo dicen algunos entre ustedes que no hay resurrección de muertos?]
 
-[Y al último de todos, como a un abortivo, se me apareció también a mí.]
+- κηρύσσεται (V-PPI-3S) ==??== [F]
+- ἐγήγερται, (V-XPI-3S) ==??== [F]
+- λέγουσιν (V-PAI-3P) ==??== [F]
+- ἔστιν; (V-PAI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
 
-- ὤφθη (V-API-3S) ==se apareció== [F]
+### 1Corintios 15:13
 
-   - δὲ → (y)
+εἰ δὲ ἀνάστασις νεκρῶν οὐκ ἔστιν, οὐδὲ Χριστὸς ἐγήγερται·
 
----
+[Y si no hay resurrección de muertos, entonces ni siquiera Cristo ha resucitado;]
 
-### 1 Corintios 15:9 {#1co-15-9}
+- ἔστιν, (V-PAI-3S) ==??== [F]
+- ἐγήγερται· (V-XPI-3S) ==??== [F]
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-ἐγὼ γάρ εἰμι ὁ ἐλάχιστος τῶν ἀποστόλων ὃς οὐκ εἰμὶ ἱκανὸς καλεῖσθαι ἀπόστολος διότι ἐδίωξα τὴν ἐκκλησίαν τοῦ θεοῦ
+### 1Corintios 15:14
 
-[Porque yo soy el más pequeño de los apóstoles, que no soy digno de ser llamado apóstol, porque perseguí la iglesia de Dios.]
+εἰ δὲ Χριστὸς οὐκ ἐγήγερται, κενὸν ⸀ἄρα τὸ κήρυγμα ἡμῶν, ⸀κενὴ καὶ ἡ πίστις ⸀ὑμῶν,
 
-- εἰμι (V-PAI-1S) ==soy== [F]
-- εἰμὶ (V-PAI-1S) ==soy== [F]
-- καλεῖσθαι (V-PMN) ser llamado [NF]
-- ἐδίωξα (V-AAI-1S) ==perseguí== [F]
+[y si Cristo no ha resucitado, vana es entonces nuestra predicación, y vana también la fe de ustedes.]
 
-   - γάρ → (porque)
-   - διότι → (porque)
+- ἐγήγερται, (V-XPI-3S) ==es== [F]
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 15:15
 
-### 1 Corintios 15:10 {#1co-15-10}
+εὑρισκόμεθα δὲ καὶ ψευδομάρτυρες τοῦ θεοῦ, ὅτι ἐμαρτυρήσαμεν κατὰ τοῦ θεοῦ ὅτι ἤγειρεν τὸν Χριστόν, ὃν οὐκ ἤγειρεν εἴπερ ἄρα νεκροὶ οὐκ ἐγείρονται.
 
-χάριτι δὲ θεοῦ εἰμι ὃ εἰμι καὶ ἡ χάρις αὐτοῦ ἡ εἰς ἐμὲ οὐ κενὴ ἐγενήθη ἀλλὰ περισσότερον αὐτῶν πάντων ἐκοπίασα οὐκ ἐγὼ δὲ ἀλλὰ ἡ χάρις τοῦ θεοῦ σὺν ἐμοί
+[Aún más, somos hallados testigos falsos de Dios, porque hemos testificado contra Dios que Él resucitó a Cristo, a quien no resucitó, si en verdad los muertos no resucitan.]
 
-[Pero por la gracia de Dios soy lo que soy; y su gracia para conmigo no resultó vana, sino que he trabajado mucho más que todos ellos, aunque no yo, sino la gracia de Dios conmigo.]
+- εὑρισκόμεθα (V-PPI-1P) ==resucitó== [F]
+- ἐμαρτυρήσαμεν (V-AAI-1P) ==resucitó== [F]
+- ἤγειρεν (V-AAI-3S) ==??== [F]
+- ἤγειρεν (V-AAI-3S) ==??== [F]
+- ἐγείρονται. (V-PPI-3P) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
 
-- εἰμι (V-PAI-1S) ==soy== [F]
-- εἰμι (V-PAI-1S) ==soy== [F]
-- ἐγενήθη (V-ADI-3S) ==resultó== [F]
-- ἐκοπίασα (V-AAI-1S) ==he trabajado== [F]
+### 1Corintios 15:16
 
-   - δὲ → (pero)
-   - καί → (y)
-   - ἀλλὰ → (sino)
-   - δὲ → (aunque)
-   - ἀλλὰ → (sino)
+εἰ γὰρ νεκροὶ οὐκ ἐγείρονται, οὐδὲ Χριστὸς ἐγήγερται·
 
----
+[Porque si los muertos no resucitan, entonces ni siquiera Cristo ha resucitado;]
 
-### 1 Corintios 15:11 {#1co-15-11}
+- ἐγείρονται, (V-PPI-3P) ==??== [F]
+- ἐγήγερται· (V-XPI-3S) ==??== [F]
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-εἴτε οὖν ἐγὼ εἴτε ἐκεῖνοι οὕτως κηρύσσομεν καὶ οὕτως ἐπιστεύσατε
+### 1Corintios 15:17
 
-[Así que, ya sea yo o ellos, así predicamos, y así ustedes creyeron.]
+εἰ δὲ Χριστὸς οὐκ ἐγήγερται, ματαία ἡ πίστις ⸀ὑμῶν, ἔτι ἐστὲ ἐν ταῖς ἁμαρτίαις ὑμῶν.
 
-- κηρύσσομεν (V-PAI-1P) ==predicamos== [F]
-- ἐπιστεύσατε (V-AAI-2P) ==creyeron== [F]
+[y si Cristo no ha resucitado, la fe de ustedes es falsa; todavía están en sus pecados.]
 
-   - οὖν → (así que)
-   - καί → (y)
+- ἐγήγερται, (V-XPI-3S) ==es== [F]
+- ἐστὲ (V-PAI-2P) ==todavía== [F]
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 16:1 {#1co-16-1}
+### 1Corintios 15:18
 
-Περὶ δὲ τῆς λογίας τῆς εἰς τοὺς ἁγίους ὥσπερ διέταξα ταῖς ἐκκλησίαις τῆς Γαλατίας οὕτως καὶ ὑμεῖς ποιήσατε
+ἄρα καὶ οἱ κοιμηθέντες ἐν Χριστῷ ἀπώλοντο.
 
-[En cuanto a la colecta para los santos, hagan también ustedes tal como ordené a las iglesias de Galacia.]
+[Entonces también los que han dormido en Cristo están perdidos.]
 
-- διέταξα (V-AAI-1S) ==ordené== [F]
-- ποιήσατε (V-AAM-2P) hagan [F]
+- ἀπώλοντο. (V-AMI-3P) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-   - δὲ → (en cuanto a)
-   - καί → (también)
+### 1Corintios 15:19
 
----
+εἰ ἐν τῇ ζωῇ ταύτῃ ⸂ἐν Χριστῷ ἠλπικότες ἐσμὲν⸃ μόνον, ἐλεεινότεροι πάντων ἀνθρώπων ἐσμέν.
 
-### 1 Corintios 16:2 {#1co-16-2}
+[Si hemos esperado en Cristo para esta vida solamente, somos, de todos los hombres, los más dignos de lástima.]
 
-κατὰ μίαν σαββάτου ἕκαστος ὑμῶν παρʼ ἑαυτῷ τιθέτω θησαυρίζων ὅ τι ἐὰν εὐοδῶται ἵνα μὴ ὅταν ἔλθω τότε λογίαι γίνωνται
+- ἐσμὲν⸃ (V-PAI-1P) ==??== [F]
+- ἐσμέν. (V-PAI-1P) ==??== [F]
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
 
-[El primer día de la semana, cada uno de ustedes ponga aparte y guarde según haya prosperado, para que cuando yo llegue no se recojan entonces ofrendas.]
+### 1Corintios 15:20
 
-- τιθέτω (V-PAM-3S) ponga [F]
-- θησαυρίζων (V-PAP-NSM) guardando [NF]
-- εὐοδῶται (V-PPS-3S) prospere [F]
-- ἔλθω (V-AAS-1S) llegue [F]
-- γίνωνται (V-PPS-3P) se recojan [F]
+Νυνὶ δὲ Χριστὸς ἐγήγερται ἐκ νεκρῶν, ἀπαρχὴ τῶν ⸀κεκοιμημένων.
 
-   - ὅ → (lo que)
-   - ἐὰν → (si)
-   - ἵνα → (para que)
-   - ὅταν → (cuando)
-   - μὴ → (no)
+[Pero ahora Cristo ha resucitado de entre los muertos, primicias de los que durmieron.]
 
----
+- ἐγήγερται (V-XPI-3S) ==durmieron== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 16:3 {#1co-16-3}
+### 1Corintios 15:21
 
-ὅταν δὲ παραγένωμαι οὓς ἐὰν δοκιμάσητε διʼ ἐπιστολῶν τούτους πέμψω ἀπενεγκεῖν τὴν χάριν ὑμῶν εἰς Ἰερουσαλήμ
+ἐπειδὴ γὰρ δι’ ἀνθρώπου ⸀θάνατος, καὶ δι’ ἀνθρώπου ἀνάστασις νεκρῶν·
 
-[Y cuando llegue, enviaré con cartas a quienes ustedes aprueben, para llevar su ofrenda a Jerusalén.]
+[Porque ya que la muerte entró por un hombre, también por un hombre vino la resurrección de los muertos.]
 
-- παραγένωμαι (V-AMS-1S) llegue [F]
-- δοκιμάσητε (V-AAS-2P) aprueben [F]
-- πέμψω (V-FAI-1S) ==enviaré== [F]
-- ἀπενεγκεῖν (V-AAN) llevar [NF]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-   - ὅταν → (cuando)
-   - δὲ → (y)
-   - ἐὰν → (si)
+### 1Corintios 15:22
 
----
+ὥσπερ γὰρ ἐν τῷ Ἀδὰμ πάντες ἀποθνῄσκουσιν, οὕτως καὶ ἐν τῷ Χριστῷ πάντες ζῳοποιηθήσονται.
 
-### 1 Corintios 16:4 {#1co-16-4}
+[Porque así como en Adán todos mueren, también en Cristo todos serán vivificados.]
 
-ἐὰν δὲ ᾖ ἄξιον τοῦ κἀμὲ πορεύεσθαι σὺν ἐμοὶ πορεύσονται
+- ἀποθνῄσκουσιν, (V-PAI-3P) ==??== [F]
+- ζῳοποιηθήσονται. (V-FPI-3P) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-[Y si conviene que yo también vaya, irán conmigo.]
+### 1Corintios 15:23
 
-- ᾖ (V-PAS-3S) convenga [F]
-- πορεύεσθαι (V-PMN) ir [NF]
-- πορεύσονται (V-FMI-3P) ==irán== [F]
+ἕκαστος δὲ ἐν τῷ ἰδίῳ τάγματι· ἀπαρχὴ Χριστός, ἔπειτα οἱ τοῦ Χριστοῦ ἐν τῇ παρουσίᾳ αὐτοῦ·
 
-   - δὲ → (y)
-   - ἐὰν → (si)
+[Pero cada uno en su debido orden: Cristo, las primicias; luego los que son de Cristo en Su venida.]
 
----
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 16:5 {#1co-16-5}
+### 1Corintios 15:24
 
-ἐλεύσομαι δὲ πρὸς ὑμᾶς ὅταν Μακεδονίαν διέλθω Μακεδονίαν γὰρ διέρχομαι
+εἶτα τὸ τέλος, ὅταν ⸀παραδιδῷ τὴν βασιλείαν τῷ θεῷ καὶ πατρί, ὅταν καταργήσῃ πᾶσαν ἀρχὴν καὶ πᾶσαν ἐξουσίαν καὶ δύναμιν,
 
-[Pero iré a ustedes cuando haya pasado por Macedonia, pues por Macedonia pasaré.]
+[Entonces vendrá el fin, cuando Él entregue el reino al Dios y Padre, después que haya terminado con todo dominio y toda autoridad y poder.]
 
-- ἐλεύσομαι (V-FMI-1S) ==iré== [F]
-- διέλθω (V-AAS-1S) pase [F]
-- διέρχομαι (V-PMI-1S) ==paso== [F]
+- ⸀παραδιδῷ (V-PAS-3S) ==??== [F]
+- καταργήσῃ (V-AAS-3S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-   - δὲ → (pero)
-   - ὅταν → (cuando)
-   - γὰρ → (pues)
+### 1Corintios 15:25
 
----
+δεῖ γὰρ αὐτὸν βασιλεύειν ἄχρι ⸀οὗ θῇ πάντας τοὺς ἐχθροὺς ὑπὸ τοὺς πόδας αὐτοῦ.
 
-### 1 Corintios 16:6 {#1co-16-6}
+[Pues Cristo debe reinar hasta que haya puesto a todos Sus enemigos debajo de Sus pies.]
 
-πρὸς ὑμᾶς δὲ τυχὸν παραμενῶ ἢ καὶ παραχειμάσω ἵνα ὑμεῖς με προπέμψητε οὗ ἐὰν πορεύωμαι
+- δεῖ (V-PAI-3S) ==??== [F]
+- θῇ (V-AAS-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-[y quizá me quede con ustedes, o aun pase el invierno, para que ustedes me encaminen adonde haya de ir.]
+### 1Corintios 15:26
 
-- παραμενῶ (V-FAI-1S) ==me quedaré== [F]
-- παραχειμάσω (V-FAI-1S) ==pase el invierno== [F]
-- προπέμψητε (V-AAS-2P) encaminen [F]
-- πορεύωμαι (V-PMS-1S) vaya [F]
+ἔσχατος ἐχθρὸς καταργεῖται ὁ θάνατος,
 
-   - δὲ → (y)
-   - ἢ → (o)
-   - καί → (aun)
-   - ἵνα → (para que)
-   - ἐὰν → (si)
+[Y el último enemigo que será eliminado es la muerte.]
 
----
+- καταργεῖται (V-PPI-3S) ==es== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 16:7 {#1co-16-7}
+### 1Corintios 15:27
 
-οὐ θέλω γὰρ ὑμᾶς ἄρτι ἐν παρόδῳ ἰδεῖν ἐλπίζω γὰρ χρόνον τινὰ ἐπιμεῖναι πρὸς ὑμᾶς ἐὰν ὁ κύριος ἐπιτρέψῃ
+πάντα γὰρ ὑπέταξεν ὑπὸ τοὺς πόδας αὐτοῦ. ὅταν δὲ εἴπῃ ὅτι πάντα ὑποτέτακται, δῆλον ὅτι ἐκτὸς τοῦ ὑποτάξαντος αὐτῷ τὰ πάντα.
 
-[Porque no quiero verlos ahora de paso, pues espero quedarme algún tiempo con ustedes, si el Señor lo permite.]
+[Porque DIOS HA PUESTO TODO EN SUJECIÓN BAJO SUS PIES. Pero cuando dice que todas las cosas están sujetas a Él, es evidente que se exceptúa a Aquel que ha sometido a Él todas las cosas.]
 
-- θέλω (V-PAI-1S) ==quiero== [F]
-- ἰδεῖν (V-AAN) ver [NF]
-- ἐλπίζω (V-PAI-1S) ==espero== [F]
-- ἐπιμεῖναι (V-AAN) quedarme [NF]
-- ἐπιτρέψῃ (V-AAS-3S) permita [F]
+- ὑπέταξεν (V-AAI-3S) ==es== [F]
+- εἴπῃ (V-AAS-3S) ==??== [F]
+- ὑποτέτακται, (V-XPI-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
 
-   - γὰρ → (porque)
-   - γὰρ → (pues)
-   - ἐὰν → (si)
+### 1Corintios 15:28
 
----
+ὅταν δὲ ὑποταγῇ αὐτῷ τὰ πάντα, ⸀τότε αὐτὸς ὁ υἱὸς ὑποταγήσεται τῷ ὑποτάξαντι αὐτῷ τὰ πάντα, ἵνα ᾖ ὁ θεὸς ⸀πάντα ἐν πᾶσιν.
 
-### 1 Corintios 16:8 {#1co-16-8}
+[Y cuando todo haya sido sometido a Él, entonces también el Hijo mismo se sujetará a Aquel que sujetó a Él todas las cosas, para que Dios sea todo en todos.]
 
-ἐπιμενῶ δὲ ἐν Ἐφέσῳ ἕως τῆς πεντηκοστῆς
+- ὑποταγῇ (V-APS-3S) ==sujetó== [F]
+- ὑποταγήσεται (V-FPI-3S) ==??== [F]
+- ᾖ (V-PAS-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
 
-[Pero me quedaré en Éfeso hasta Pentecostés.]
+### 1Corintios 15:29
 
-- ἐπιμενῶ (V-FAI-1S) ==me quedaré== [F]
+Ἐπεὶ τί ποιήσουσιν οἱ βαπτιζόμενοι ὑπὲρ τῶν νεκρῶν; εἰ ὅλως νεκροὶ οὐκ ἐγείρονται, τί καὶ βαπτίζονται ὑπὲρ ⸀αὐτῶν;
 
-   - δὲ → (pero)
+[De no ser así, ¿qué harán los que se bautizan por los muertos? Si de ninguna manera los muertos resucitan, ¿por qué, entonces, se bautizan por ellos?]
 
----
+- ποιήσουσιν (V-FAI-3P) ==¿qué== [F]
+- ἐγείρονται, (V-PPI-3P) ==qué== [F]
+- βαπτίζονται (V-PPI-3P) ==??== [F]
+- εἰ [DEP] → [si]
+  A: "¿qué" → B: "qué"
+- καί [CORD] → [y]
+  A: "¿qué" → B: "qué"
 
-### 1 Corintios 16:9 {#1co-16-9}
+### 1Corintios 15:30
 
-θύρα γάρ μοι ἀνέῳγεν μεγάλη καὶ ἐνεργής καὶ ἀντικείμενοι πολλοί
+τί καὶ ἡμεῖς κινδυνεύομεν πᾶσαν ὥραν;
 
-[Porque se me ha abierto una puerta grande y eficaz, y hay muchos adversarios.]
+[Y también, ¿por qué estamos en peligro a toda hora?]
 
-- ἀνέῳγεν (V-RAI-3S) ==se ha abierto== [F]
+- κινδυνεύομεν (V-PAI-1P) ==qué== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-   - γάρ → (porque)
-   - καί → (y)
+### 1Corintios 15:31
 
----
+καθ’ ἡμέραν ἀποθνῄσκω, νὴ τὴν ὑμετέραν ⸀καύχησιν, ἣν ἔχω ἐν Χριστῷ Ἰησοῦ τῷ κυρίῳ ἡμῶν.
 
-### 1 Corintios 16:10 {#1co-16-10}
+[Les aseguro, hermanos, por la satisfacción que siento por ustedes en Cristo Jesús nuestro Señor, que cada día estoy en peligro de muerte.]
 
-ἐὰν δὲ ἔλθῃ Τιμόθεος βλέπετε ἵνα ἀφόβως γένηται πρὸς ὑμᾶς τὸ γὰρ ἔργον κυρίου ἐργάζεται ὡς κἀγώ
+- ἀποθνῄσκω, (V-PAI-1S) ==día== [F]
+- ἔχω (V-PAI-1S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-[Si llega Timoteo, miren que esté con ustedes sin temor, porque él hace la obra del Señor como yo también.]
+### 1Corintios 15:32
 
-- ἔλθῃ (V-AAS-3S) llegue [F]
-- βλέπετε (V-PAM-2P) miren [F]
-- γένηται (V-AMS-3S) esté [F]
-- ἐργάζεται (V-PMI-3S) ==hace== [F]
+εἰ κατὰ ἄνθρωπον ἐθηριομάχησα ἐν Ἐφέσῳ, τί μοι τὸ ὄφελος; εἰ νεκροὶ οὐκ ἐγείρονται, Φάγωμεν καὶ πίωμεν, αὔριον γὰρ ἀποθνῄσκομεν.
 
-   - δὲ → (si)
-   - ἐὰν → (si)
-   - ἵνα → (que)
-   - γὰρ → (porque)
+[Si por motivos humanos luché contra fieras en Éfeso, ¿de qué me aprovecha? Si los muertos no resucitan, COMAMOS Y BEBAMOS, QUE MAÑANA MORIREMOS.]
 
----
+- ἐθηριομάχησα (V-AAI-1S) ==luché== [F]
+- ἐγείρονται, (V-PPI-3P) ==qué== [F]
+- Φάγωμεν (V-AAS-1P) ==??== [F]
+- πίωμεν, (V-AAS-1P) ==??== [F]
+- ἀποθνῄσκομεν. (V-PAI-1P) ==??== [F]
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 16:11 {#1co-16-11}
+### 1Corintios 15:33
 
-μή τις οὖν αὐτὸν ἐξουθενήσῃ προπέμψατε δὲ αὐτὸν ἐν εἰρήνῃ ἵνα ἔλθῃ πρὸς με ἐκδέχομαι γὰρ αὐτὸν μετὰ τῶν ἀδελφῶν
+μὴ πλανᾶσθε· φθείρουσιν ἤθη χρηστὰ ὁμιλίαι κακαί.
 
-[Por tanto, que nadie lo menosprecie; envíenlo en paz, para que venga a mí, porque lo espero con los hermanos.]
+[No se dejen engañar: «Las malas compañías corrompen las buenas costumbres».]
 
-- ἐξουθενήσῃ (V-AAS-3S) menosprecie [F]
-- προπέμψατε (V-AAM-2P) envíen [F]
-- ἔλθῃ (V-AAS-3S) venga [F]
-- ἐκδέχομαι (V-PMI-1S) ==espero== [F]
+- πλανᾶσθε· (V-PPD-2P) ==??== [F]
+- φθείρουσιν (V-PAI-3P) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-   - οὖν → (por tanto)
-   - δὲ → (y)
-   - ἵνα → (para que)
-   - γὰρ → (porque)
+### 1Corintios 15:34
 
----
+ἐκνήψατε δικαίως καὶ μὴ ἁμαρτάνετε, ἀγνωσίαν γὰρ θεοῦ τινες ἔχουσιν· πρὸς ἐντροπὴν ὑμῖν ⸀λαλῶ.
 
-### 1 Corintios 16:12 {#1co-16-12}
+[Sean sobrios, como conviene, y dejen de pecar; porque algunos no tienen conocimiento de Dios. Para vergüenza de ustedes lo digo.]
 
-Περὶ δὲ Ἀπολλῶ τοῦ ἀδελφοῦ πολλὰ παρεκάλεσα αὐτὸν ἵνα ἔλθῃ πρὸς ὑμᾶς μετὰ τῶν ἀδελφῶν καὶ πάντως οὐκ ἦν θέλημα ἵνα νῦν ἔλθῃ ἐλεύσεται δὲ ὅταν εὐκαιρήσῃ
+- ἐκνήψατε (V-AAD-2P) ==??== [F]
+- ἁμαρτάνετε, (V-PAD-2P) ==??== [F]
+- ἔχουσιν· (V-PAI-3P) ==??== [F]
+- ⸀λαλῶ. (V-PAI-1S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-[En cuanto a Apolos el hermano, mucho le rogué que fuera a ustedes con los hermanos; pero de ninguna manera tuvo voluntad de ir ahora, sino que irá cuando tenga oportunidad.]
+### 1Corintios 15:35
 
-- παρεκάλεσα (V-AAI-1S) ==rogué== [F]
-- ἔλθῃ (V-AAS-3S) fuera [F]
-- ἦν (V-IAI-3S) ==tuvo== [F]
-- ἔλθῃ (V-AAS-3S) ir [F]
-- ἐλεύσεται (V-FMI-3S) ==irá== [F]
-- εὐκαιρήσῃ (V-AAS-3S) tenga oportunidad [F]
+Ἀλλὰ ἐρεῖ τις· Πῶς ἐγείρονται οἱ νεκροί, ποίῳ δὲ σώματι ἔρχονται;
 
-   - δὲ → (pero)
-   - ἵνα → (que)
-   - καί → (y)
-   - ὅταν → (cuando)
+[Pero alguien dirá: «¿Cómo resucitan los muertos? ¿Y con qué clase de cuerpo vienen?».]
 
----
+- ἐρεῖ (V-FAI-3S) ==qué== [F]
+- ἐγείρονται (V-PPI-3P) ==??== [F]
+- ἔρχονται; (V-PMI-3P) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 16:13 {#1co-16-13}
+### 1Corintios 15:36
 
-γρηγορεῖτε στήκετε ἐν τῇ πίστει ἀνδρίζεσθε κραταιοῦσθε
+⸀ἄφρων, σὺ ὃ σπείρεις, οὐ ζῳοποιεῖται ἐὰν μὴ ἀποθάνῃ·
 
-[Estén alerta, permanezcan firmes en la fe, compórtense varonilmente, sean fuertes.]
+[¡Necio! Lo que tú siembras no llega a tener vida si antes no muere.]
 
-- γρηγορεῖτε (V-PAM-2P) estén alerta [F]
-- στήκετε (V-PAM-2P) permanezcan firmes [F]
-- ἀνδρίζεσθε (V-PMM-2P) compórtense [F]
-- κραταιοῦσθε (V-PPM-2P) sean fuertes [F]
+- σπείρεις, (V-PAI-2S) ==??== [F]
+- ζῳοποιεῖται (V-PPI-3S) ==??== [F]
+- ἀποθάνῃ· (V-AAS-3S) ==??== [F]
 
----
+### 1Corintios 15:37
 
-### 1 Corintios 16:14 {#1co-16-14}
+καὶ ὃ σπείρεις, οὐ τὸ σῶμα τὸ γενησόμενον σπείρεις ἀλλὰ γυμνὸν κόκκον εἰ τύχοι σίτου ἤ τινος τῶν λοιπῶν·
 
-πάντα ὑμῶν ἐν ἀγάπῃ γινέσθω
+[Y lo que siembras, no siembras el cuerpo que nacerá, sino el grano desnudo, quizás de trigo o de alguna otra especie.]
 
-[Que todo lo que hagan sea hecho con amor.]
+- σπείρεις, (V-PAI-2S) ==??== [F]
+- σπείρεις (V-PAI-2S) ==??== [F]
+- τύχοι (V-AAO-3S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- εἰ [DEP] → [si]
+  ⚠ no conecta dos cláusulas
 
-- γινέσθω (V-PMM-3S) sea hecho [F]
+### 1Corintios 15:38
 
----
+ὁ δὲ θεὸς ⸂δίδωσιν αὐτῷ⸃ σῶμα καθὼς ἠθέλησεν, καὶ ἑκάστῳ τῶν σπερμάτων ⸀ἴδιον σῶμα.
 
-### 1 Corintios 16:15 {#1co-16-15}
+[Pero Dios le da un cuerpo como Él quiso, y a cada semilla su propio cuerpo.]
 
-Παρακαλῶ δὲ ὑμᾶς ἀδελφοί οἴδατε τὴν οἰκίαν Στεφανᾶ ὅτι ἐστὶν ἀπαρχὴ τῆς Ἀχαΐας καὶ εἰς διακονίαν τοῖς ἁγίοις ἔταξαν ἑαυτούς
+- ⸂δίδωσιν (V-PAI-3S) ==??== [F]
+- ἠθέλησεν, (V-AAI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-[Les ruego, hermanos (ustedes conocen a la familia de Estéfanas, que son las primicias de Acaya y que se han dedicado al servicio de los santos).]
+### 1Corintios 15:39
 
-- παρακαλῶ (V-PAI-1S) ==ruego== [F]
-- οἴδατε (V-RAI-2P) ==conocen== [F]
-- ἐστὶν (V-PAI-3S) ==es== [F]
-- ἔταξαν (V-AAI-3P) ==se han dedicado== [F]
+οὐ πᾶσα σὰρξ ἡ αὐτὴ σάρξ, ἀλλὰ ἄλλη μὲν ἀνθρώπων, ἄλλη δὲ σὰρξ κτηνῶν, ἄλλη δὲ ⸂σὰρξ πτηνῶν⸃, ἄλλη δὲ ⸀ἰχθύων.
 
-   - δὲ → (y)
-   - ὅτι → (que)
-   - καί → (y)
+[No toda carne es la misma carne, sino que una es la de los hombres, otra la de las bestias, otra la de las aves y otra la de los peces.]
 
----
+- ἀλλά [CORD] → [sino]
+  A: "es" → B: "es"
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 16:16 {#1co-16-16}
+### 1Corintios 15:40
 
-ἵνα καὶ ὑμεῖς ὑποτάσσησθε τοῖς τοιούτοις καὶ παντὶ τῷ συνεργοῦντι καὶ κοπιῶντι
+καὶ σώματα ἐπουράνια, καὶ σώματα ἐπίγεια· ἀλλὰ ἑτέρα μὲν ἡ τῶν ἐπουρανίων δόξα, ἑτέρα δὲ ἡ τῶν ἐπιγείων.
 
-[que también ustedes se sometan a tales personas, y a todo el que ayuda en la obra y trabaja.]
+[Hay, asimismo, cuerpos celestiales y cuerpos terrestres, pero la gloria del celestial es una, y la del terrestre es otra.]
 
-- ὑποτάσσησθε (V-PPS-2P) se sometan [F]
-- συνεργοῦντι (V-PAP-DSM) ayudando [NF]
-- κοπιῶντι (V-PAP-DSM) trabajando [NF]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-   - ἵνα → (que)
-   - καί → (también)
+### 1Corintios 15:41
 
----
+ἄλλη δόξα ἡλίου, καὶ ἄλλη δόξα σελήνης, καὶ ἄλλη δόξα ἀστέρων, ἀστὴρ γὰρ ἀστέρος διαφέρει ἐν δόξῃ.
 
-### 1 Corintios 16:17 {#1co-16-17}
+[Hay una gloria del sol, y otra gloria de la luna, y otra gloria de las estrellas; pues una estrella es distinta de otra estrella en gloria.]
 
-χαίρω δὲ ἐπὶ τῇ παρουσίᾳ Στεφανᾶ καὶ Φορτουνάτου καὶ Ἀχαϊκοῦ ὅτι τὸ ὑμέτερον ὑστέρημα οὗτοι ἀνεπλήρωσαν
+- διαφέρει (V-PAI-3S) ==es== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-[Me regocijo por la venida de Estéfanas, Fortunato y Acaico, porque ellos han suplido lo que faltaba de parte de ustedes.]
+### 1Corintios 15:42
 
-- χαίρω (V-PAI-1S) ==me regocijo== [F]
-- ἀνεπλήρωσαν (V-AAI-3P) ==han suplido== [F]
+Οὕτως καὶ ἡ ἀνάστασις τῶν νεκρῶν. σπείρεται ἐν φθορᾷ, ἐγείρεται ἐν ἀφθαρσίᾳ·
 
-   - δὲ → (y)
-   - καί → (y)
-   - ὅτι → (porque)
+[Así es también la resurrección de los muertos. Se siembra un cuerpo corruptible, se resucita un cuerpo incorruptible;]
 
----
+- σπείρεται (V-PPI-3S) ==es== [F]
+- ἐγείρεται (V-PPI-3S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 16:18 {#1co-16-18}
+### 1Corintios 15:43
 
-ἀνέπαυσαν γὰρ τὸ ἐμὸν πνεῦμα καὶ τὸ ὑμῶν ἐπιγινώσκετε οὖν τοὺς τοιούτους
+σπείρεται ἐν ἀτιμίᾳ, ἐγείρεται ἐν δόξῃ· σπείρεται ἐν ἀσθενείᾳ, ἐγείρεται ἐν δυνάμει·
 
-[Porque ellos han confortado mi espíritu y el de ustedes; reconozcan, pues, a tales hombres.]
+[se siembra en deshonra, se resucita en gloria; se siembra en debilidad, se resucita en poder;]
 
-- ἀνέπαυσαν (V-AAI-3P) ==han confortado== [F]
-- ἐπιγινώσκετε (V-PAM-2P) reconozcan [F]
+- σπείρεται (V-PPI-3S) ==??== [F]
+- ἐγείρεται (V-PPI-3S) ==??== [F]
+- σπείρεται (V-PPI-3S) ==??== [F]
+- ἐγείρεται (V-PPI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
 
-   - γὰρ → (porque)
-   - καί → (y)
-   - οὖν → (pues)
+### 1Corintios 15:44
 
----
+σπείρεται σῶμα ψυχικόν, ἐγείρεται σῶμα πνευματικόν. ⸀Εἰ ἔστιν σῶμα ψυχικόν, ⸂ἔστιν καὶ⸃ πνευματικόν.
 
-### 1 Corintios 16:19 {#1co-16-19}
+[se siembra un cuerpo natural, se resucita un cuerpo espiritual. Si hay un cuerpo natural, hay también un cuerpo espiritual.]
 
-ἀσπάζονται ὑμᾶς αἱ ἐκκλησίαι τῆς Ἀσίας ἀσπάζεται ὑμᾶς ἐν κυρίῳ πολλὰ Ἀκύλας καὶ Πρίσκα σὺν τῇ κατʼ οἶκον αὐτῶν ἐκκλησίᾳ
+- σπείρεται (V-PPI-3S) ==??== [F]
+- ἐγείρεται (V-PPI-3S) ==??== [F]
+- ἔστιν (V-PAI-3S) ==??== [F]
+- ⸂ἔστιν (V-PAI-3S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-[Las iglesias de Asia los saludan. Aquila y Priscila, con la iglesia que está en su casa, los saludan mucho en el Señor.]
+### 1Corintios 15:45
 
-- ἀσπάζονται (V-PMI-3P) ==saludan== [F]
-- ἀσπάζεται (V-PMI-3S) ==saluda== [F]
+οὕτως καὶ γέγραπται· Ἐγένετο ὁ πρῶτος ἄνθρωπος Ἀδὰμ εἰς ψυχὴν ζῶσαν· ὁ ἔσχατος Ἀδὰμ εἰς πνεῦμα ζῳοποιοῦν.
 
-   - καί → (y)
+[Así también está escrito: «El primer HOMBRE, Adán, FUE HECHO ALMA VIVIENTE». El último Adán, espíritu que da vida.]
 
----
+- γέγραπται· (V-XPI-3S) ==fue== [F]
+- Ἐγένετο (V-AMI-3S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
 
-### 1 Corintios 16:20 {#1co-16-20}
+### 1Corintios 15:46
 
-ἀσπάζονται ὑμᾶς οἱ ἀδελφοὶ πάντες ἀσπάσασθε ἀλλήλους ἐν φιλήματι ἁγίῳ
+ἀλλ’ οὐ πρῶτον τὸ πνευματικὸν ἀλλὰ τὸ ψυχικόν, ἔπειτα τὸ πνευματικόν.
 
-[Todos los hermanos los saludan. Salúdense unos a otros con beso santo.]
+[Sin embargo, el espiritual no es primero, sino el natural; luego el espiritual.]
 
-- ἀσπάζονται (V-PMI-3P) ==saludan== [F]
-- ἀσπάσασθε (V-AMD-2P) salúdense [F]
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
 
----
+### 1Corintios 15:47
 
-### 1 Corintios 16:21 {#1co-16-21}
+ὁ πρῶτος ἄνθρωπος ἐκ γῆς χοϊκός, ὁ δεύτερος ⸀ἄνθρωπος ἐξ οὐρανοῦ.
 
-ὁ ἀσπασμὸς τῇ ἐμῇ χειρὶ Παύλου
+[El primer hombre es de la tierra, terrenal; el segundo hombre es del cielo.]
 
-[El saludo es de mi propia mano, de Pablo.]
+- γάρ [DEP] → [porque]
+  A: "es" → B: "es"
+- δέ [CORD] → [pero]
+  A: "es" → B: "es"
 
----
+### 1Corintios 15:48
 
-### 1 Corintios 16:22 {#1co-16-22}
+οἷος ὁ χοϊκός, τοιοῦτοι καὶ οἱ χοϊκοί, καὶ οἷος ὁ ἐπουράνιος, τοιοῦτοι καὶ οἱ ἐπουράνιοι·
 
-εἴ τις οὐ φιλεῖ τὸν κύριον ἤτω ἀνάθεμα μαράνα θά
+[Como es el terrenal, así son también los que son terrenales; y como es el celestial, así son también los que son celestiales.]
 
-[Si alguno no ama al Señor, sea anatema. ¡Maranata!]
+- καί [CORD] → [y]
+  A: "es" → B: "son"
 
-- φιλεῖ (V-PAI-3S) ==ama== [F]
-- ἤτω (V-PAM-3S) sea [F]
+### 1Corintios 15:49
 
-   - εἰ → (si)
+καὶ καθὼς ἐφορέσαμεν τὴν εἰκόνα τοῦ χοϊκοῦ, ⸀φορέσομεν καὶ τὴν εἰκόνα τοῦ ἐπουρανίου.
 
----
+[Y tal como hemos traído la imagen del terrenal, traeremos también la imagen del celestial.]
 
-### 1 Corintios 16:23 {#1co-16-23}
+- ἐφορέσαμεν (V-AAI-1P) ==??== [F]
+- ⸀φορέσομεν (V-FAI-1P) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
 
-ἡ χάρις τοῦ κυρίου Ἰησοῦ μεθʼ ὑμῶν
+### 1Corintios 15:50
+
+Τοῦτο δέ φημι, ἀδελφοί, ὅτι σὰρξ καὶ αἷμα βασιλείαν θεοῦ κληρονομῆσαι οὐ ⸀δύναται, οὐδὲ ἡ φθορὰ τὴν ἀφθαρσίαν κληρονομεῖ.
+
+[Esto digo, hermanos: que la carne y la sangre no pueden heredar el reino de Dios; ni lo que se corrompe hereda lo incorruptible.]
+
+- φημι, (V-PAI-1S) ==pueden== [F]
+- ⸀δύναται, (V-PMI-3S) ==??== [F]
+- κληρονομεῖ. (V-PAI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 15:51
+
+ἰδοὺ μυστήριον ὑμῖν λέγω· ⸀πάντες οὐ κοιμηθησόμεθα πάντες δὲ ἀλλαγησόμεθα,
+
+[Así que les digo un misterio: no todos dormiremos, pero todos seremos transformados]
+
+- λέγω· (V-PAI-1S) ==??== [F]
+- κοιμηθησόμεθα (V-FPI-1P) ==??== [F]
+- ἀλλαγησόμεθα, (V-FPI-1P) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 15:52
+
+ἐν ἀτόμῳ, ἐν ῥιπῇ ὀφθαλμοῦ, ἐν τῇ ἐσχάτῃ σάλπιγγι· σαλπίσει γάρ, καὶ οἱ νεκροὶ ἐγερθήσονται ἄφθαρτοι, καὶ ἡμεῖς ἀλλαγησόμεθα.
+
+[en un momento, en un abrir y cerrar de ojos, a la trompeta final. Pues la trompeta sonará y los muertos resucitarán incorruptibles, y nosotros seremos transformados.]
+
+- σαλπίσει (V-FAI-3S) ==??== [F]
+- ἐγερθήσονται (V-FPI-3P) ==??== [F]
+- ἀλλαγησόμεθα. (V-FPI-1P) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 15:53
+
+δεῖ γὰρ τὸ φθαρτὸν τοῦτο ἐνδύσασθαι ἀφθαρσίαν καὶ τὸ θνητὸν τοῦτο ἐνδύσασθαι ἀθανασίαν.
+
+[Porque es necesario que esto corruptible se vista de incorrupción, y esto mortal se vista de inmortalidad.]
+
+- δεῖ (V-PAI-3S) ==es== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 15:54
+
+ὅταν δὲ τὸ ⸂φθαρτὸν τοῦτο ἐνδύσηται ἀφθαρσίαν καὶ τὸ⸃ θνητὸν τοῦτο ἐνδύσηται ⸀ἀθανασίαν, τότε γενήσεται ὁ λόγος ὁ γεγραμμένος· Κατεπόθη ὁ θάνατος εἰς νῖκος.
+
+[Pero cuando esto corruptible se haya vestido de incorrupción, y esto mortal se haya vestido de inmortalidad, entonces se cumplirá la palabra que está escrita: «DEVORADA HA SIDO LA MUERTE en victoria.]
+
+- ἐνδύσηται (V-AMS-3S) ==??== [F]
+- ἐνδύσηται (V-AMS-3S) ==??== [F]
+- γενήσεται (V-FMI-3S) ==??== [F]
+- Κατεπόθη (V-API-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 15:55
+
+ποῦ σου, θάνατε, τὸ ⸂νῖκος; ποῦ σου, θάνατε, τὸ κέντρον⸃;
+
+[¿DÓNDE ESTÁ, OH MUERTE, TU VICTORIA? ¿DÓNDE, OH SEPULCRO, TU AGUIJÓN?».]
+
+
+### 1Corintios 15:56
+
+τὸ δὲ κέντρον τοῦ θανάτου ἡ ἁμαρτία, ἡ δὲ δύναμις τῆς ἁμαρτίας ὁ νόμος·
+
+[El aguijón de la muerte es el pecado, y el poder del pecado es la ley;]
+
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 15:57
+
+τῷ δὲ θεῷ χάρις τῷ διδόντι ἡμῖν τὸ νῖκος διὰ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ.
+
+[pero a Dios gracias, que nos da la victoria por medio de nuestro Señor Jesucristo.]
+
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 15:58
+
+Ὥστε, ἀδελφοί μου ἀγαπητοί, ἑδραῖοι γίνεσθε, ἀμετακίνητοι, περισσεύοντες ἐν τῷ ἔργῳ τοῦ κυρίου πάντοτε, εἰδότες ὅτι ὁ κόπος ὑμῶν οὐκ ἔστιν κενὸς ἐν κυρίῳ.
+
+[Por tanto, mis amados hermanos, estén firmes, constantes, abundando siempre en la obra del Señor, sabiendo que su trabajo en el Señor no es en vano.]
+
+- γίνεσθε, (V-PMD-2P) ==es== [F]
+- ἔστιν (V-PAI-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 16:1
+
+Περὶ δὲ τῆς λογείας τῆς εἰς τοὺς ἁγίους, ὥσπερ διέταξα ταῖς ἐκκλησίαις τῆς Γαλατίας, οὕτως καὶ ὑμεῖς ποιήσατε.
+
+[Ahora bien, en cuanto a la ofrenda para los santos, hagan ustedes también como instruí a las iglesias de Galacia.]
+
+- διέταξα (V-AAI-1S) ==??== [F]
+- ποιήσατε. (V-AAD-2P) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 16:2
+
+κατὰ μίαν ⸀σαββάτου ἕκαστος ὑμῶν παρ’ ἑαυτῷ τιθέτω θησαυρίζων ὅ τι ⸀ἐὰν εὐοδῶται, ἵνα μὴ ὅταν ἔλθω τότε λογεῖαι γίνωνται.
+
+[Que el primer día de la semana, cada uno de ustedes aparte y guarde según haya prosperado, para que cuando yo vaya no se recojan entonces ofrendas.]
+
+- τιθέτω (V-PAD-3S) ==día== [F]
+- εὐοδῶται, (V-PPS-3S) ==??== [F]
+- ἔλθω (V-AAS-1S) ==??== [F]
+- γίνωνται. (V-PMS-3P) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 16:3
+
+ὅταν δὲ παραγένωμαι, οὓς ⸀ἐὰν δοκιμάσητε δι’ ἐπιστολῶν, τούτους πέμψω ἀπενεγκεῖν τὴν χάριν ὑμῶν εἰς Ἰερουσαλήμ·
+
+[Cuando yo llegue, enviaré con cartas a quienes ustedes hayan designado, para que lleven su contribución a Jerusalén.]
+
+- παραγένωμαι, (V-AMS-1S) ==enviaré== [F]
+- δοκιμάσητε (V-AAS-2P) ==??== [F]
+- πέμψω (V-FAI-1S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 16:4
+
+ἐὰν δὲ ⸂ἄξιον ᾖ⸃ τοῦ κἀμὲ πορεύεσθαι, σὺν ἐμοὶ πορεύσονται.
+
+[Y si es conveniente que yo también vaya, ellos irán conmigo.]
+
+- ᾖ⸃ (V-PAS-3S) ==es== [F]
+- πορεύσονται. (V-FMI-3P) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 16:5
+
+Ἐλεύσομαι δὲ πρὸς ὑμᾶς ὅταν Μακεδονίαν διέλθω, Μακεδονίαν γὰρ διέρχομαι,
+
+[Iré a ustedes cuando haya pasado por Macedonia, pues voy a pasar por Macedonia.]
+
+- Ἐλεύσομαι (V-FMI-1S) ==iré== [F]
+- διέλθω, (V-AAS-1S) ==??== [F]
+- διέρχομαι, (V-PMI-1S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 16:6
+
+πρὸς ὑμᾶς δὲ τυχὸν ⸀παραμενῶ ἢ ⸀καὶ παραχειμάσω, ἵνα ὑμεῖς με προπέμψητε οὗ ἐὰν πορεύωμαι.
+
+[Y tal vez me quede con ustedes, o aun pase allí el invierno, para que me encaminen adonde haya de ir.]
+
+- ⸀παραμενῶ (V-FAI-1S) ==??== [F]
+- παραχειμάσω, (V-FAI-1S) ==??== [F]
+- προπέμψητε (V-AAS-2P) ==??== [F]
+- πορεύωμαι. (V-PMS-1S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 16:7
+
+οὐ θέλω γὰρ ὑμᾶς ἄρτι ἐν παρόδῳ ἰδεῖν, ἐλπίζω ⸀γὰρ χρόνον τινὰ ἐπιμεῖναι πρὸς ὑμᾶς, ἐὰν ὁ κύριος ⸀ἐπιτρέψῃ.
+
+[Pues no deseo verlos ahora solo de paso, porque espero permanecer con ustedes por algún tiempo, si el Señor me lo permite.]
+
+- θέλω (V-PAI-1S) ==??== [F]
+- ἐλπίζω (V-PAI-1S) ==??== [F]
+- ⸀ἐπιτρέψῃ. (V-AAS-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 16:8
+
+⸀ἐπιμενῶ δὲ ἐν Ἐφέσῳ ἕως τῆς πεντηκοστῆς·
+
+[Pero me quedaré en Éfeso hasta Pentecostés,]
+
+- ⸀ἐπιμενῶ (V-FAI-1S) ==quedaré== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 16:9
+
+θύρα γάρ μοι ἀνέῳγεν μεγάλη καὶ ἐνεργής, καὶ ἀντικείμενοι πολλοί.
+
+[porque se me ha abierto una puerta grande para el servicio eficaz, aunque también hay muchos adversarios.]
+
+- ἀνέῳγεν (V-XAI-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 16:10
+
+Ἐὰν δὲ ἔλθῃ Τιμόθεος, βλέπετε ἵνα ἀφόβως γένηται πρὸς ὑμᾶς, τὸ γὰρ ἔργον κυρίου ἐργάζεται ὡς ⸀κἀγώ·
+
+[Si llega Timoteo, vean que esté entre ustedes sin temor, pues él hace la obra del Señor lo mismo que yo.]
+
+- ἔλθῃ (V-AAS-3S) ==esté== [F]
+- βλέπετε (V-PAD-2P) ==??== [F]
+- γένηται (V-AMS-3S) ==??== [F]
+- ἐργάζεται (V-PMI-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 16:11
+
+μή τις οὖν αὐτὸν ἐξουθενήσῃ. προπέμψατε δὲ αὐτὸν ἐν εἰρήνῃ, ἵνα ἔλθῃ πρός ⸀με, ἐκδέχομαι γὰρ αὐτὸν μετὰ τῶν ἀδελφῶν.
+
+[Por tanto, nadie lo menosprecie. Más bien, envíenlo en paz para que venga a mí, porque lo espero con los hermanos.]
+
+- ἐξουθενήσῃ. (V-AAS-3S) ==??== [F]
+- προπέμψατε (V-AAD-2P) ==??== [F]
+- ἔλθῃ (V-AAS-3S) ==??== [F]
+- ἐκδέχομαι (V-PMI-1S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 16:12
+
+Περὶ δὲ Ἀπολλῶ τοῦ ἀδελφοῦ, πολλὰ παρεκάλεσα αὐτὸν ἵνα ἔλθῃ πρὸς ὑμᾶς μετὰ τῶν ἀδελφῶν· καὶ πάντως οὐκ ἦν θέλημα ἵνα νῦν ἔλθῃ, ἐλεύσεται δὲ ὅταν εὐκαιρήσῃ.
+
+[En cuanto a nuestro hermano Apolos, mucho lo animé a que fuera a ustedes con los hermanos, pero de ninguna manera tuvo ahora el deseo de ir. Sin embargo, irá cuando tenga oportunidad.]
+
+- παρεκάλεσα (V-AAI-1S) ==animé== [F]
+- ἔλθῃ (V-AAS-3S) ==??== [F]
+- ἦν (V-IAI-3S) ==??== [F]
+- ἔλθῃ, (V-AAS-3S) ==??== [F]
+- ἐλεύσεται (V-FMI-3S) ==??== [F]
+- εὐκαιρήσῃ. (V-AAS-3S) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 16:13
+
+Γρηγορεῖτε, στήκετε ἐν τῇ πίστει, ἀνδρίζεσθε, κραταιοῦσθε.
+
+[Estén alerta, permanezcan firmes en la fe, pórtense varonilmente, sean fuertes.]
+
+- Γρηγορεῖτε, (V-PAD-2P) ==??== [F]
+- στήκετε (V-PAD-2P) ==??== [F]
+- ἀνδρίζεσθε, (V-PMD-2P) ==??== [F]
+- κραταιοῦσθε. (V-PPD-2P) ==??== [F]
+
+### 1Corintios 16:14
+
+πάντα ὑμῶν ἐν ἀγάπῃ γινέσθω.
+
+[Todas sus cosas sean hechas con amor.]
+
+- γινέσθω. (V-PMD-3S) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 16:15
+
+Παρακαλῶ δὲ ὑμᾶς, ἀδελφοί· οἴδατε τὴν οἰκίαν Στεφανᾶ, ὅτι ἐστὶν ἀπαρχὴ τῆς Ἀχαΐας καὶ εἰς διακονίαν τοῖς ἁγίοις ἔταξαν ἑαυτούς·
+
+[Los exhorto, hermanos (ya conocen a los de la casa de Estéfanas, que fueron los primeros convertidos de Acaya, y que se han dedicado al servicio de los santos),]
+
+- Παρακαλῶ (V-PAI-1S) ==fueron== [F]
+- οἴδατε (V-XAI-2P) ==??== [F]
+- ἐστὶν (V-PAI-3S) ==??== [F]
+- ἔταξαν (V-AAI-3P) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 16:16
+
+ἵνα καὶ ὑμεῖς ὑποτάσσησθε τοῖς τοιούτοις καὶ παντὶ τῷ συνεργοῦντι καὶ κοπιῶντι.
+
+[que también ustedes estén en sujeción a los que son como ellos, y a todo el que ayuda y trabaja en la obra.]
+
+- ὑποτάσσησθε (V-PPS-2P) ==son== [F]
+- ἵνα [DEP] → [para que]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 16:17
+
+χαίρω δὲ ἐπὶ τῇ παρουσίᾳ Στεφανᾶ καὶ Φορτουνάτου καὶ Ἀχαϊκοῦ, ὅτι τὸ ⸀ὑμέτερον ὑστέρημα οὗτοι ἀνεπλήρωσαν,
+
+[Y me regocijo por la venida de Estéfanas, de Fortunato y de Acaico, pues ellos han suplido lo que faltaba de parte de ustedes.]
+
+- χαίρω (V-PAI-1S) ==??== [F]
+- ἀνεπλήρωσαν, (V-AAI-3P) ==??== [F]
+- δέ [CORD] → [pero]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+- ὅτι [DEP] → [que]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 16:18
+
+ἀνέπαυσαν γὰρ τὸ ἐμὸν πνεῦμα καὶ τὸ ὑμῶν. ἐπιγινώσκετε οὖν τοὺς τοιούτους.
+
+[Porque ellos han recreado mi espíritu y el de ustedes. Por tanto, reconozcan a tales personas.]
+
+- ἀνέπαυσαν (V-AAI-3P) ==??== [F]
+- ἐπιγινώσκετε (V-PAD-2P) ==??== [F]
+- γάρ [DEP] → [porque]
+  ⚠ no conecta dos cláusulas
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 16:19
+
+Ἀσπάζονται ὑμᾶς αἱ ἐκκλησίαι τῆς Ἀσίας. ⸀ἀσπάζεται ὑμᾶς ἐν κυρίῳ πολλὰ Ἀκύλας καὶ ⸀Πρίσκα σὺν τῇ κατ’ οἶκον αὐτῶν ἐκκλησίᾳ.
+
+[Las iglesias de Asia los saludan. Aquila y Priscila, con la iglesia que está en su casa, los saludan muy afectuosamente en el Señor.]
+
+- Ἀσπάζονται (V-PMI-3P) ==??== [F]
+- ⸀ἀσπάζεται (V-PMI-3S) ==??== [F]
+- καί [CORD] → [y]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 16:20
+
+ἀσπάζονται ὑμᾶς οἱ ἀδελφοὶ πάντες. ἀσπάσασθε ἀλλήλους ἐν φιλήματι ἁγίῳ.
+
+[Todos los hermanos los saludan. Salúdense los unos a los otros con un beso santo.]
+
+- ἀσπάζονται (V-PMI-3P) ==??== [F]
+- ἀσπάσασθε (V-AMD-2P) ==??== [F]
+- ἀλλά [CORD] → [sino]
+  ⚠ no conecta dos cláusulas
+
+### 1Corintios 16:21
+
+Ὁ ἀσπασμὸς τῇ ἐμῇ χειρὶ Παύλου.
+
+[Este saludo es de mi puño y letra. Pablo.]
+
+
+### 1Corintios 16:22
+
+εἴ τις οὐ φιλεῖ τὸν ⸀κύριον, ἤτω ἀνάθεμα. ⸂Μαράνα θά⸃.
+
+[Si alguien no ama al Señor, que sea anatema. ¡Maranata!]
+
+- φιλεῖ (V-PAI-3S) ==??== [F]
+- ἤτω (V-PAD-3S) ==??== [F]
+- θά⸃. (V-AAD-2S) ==??== [F]
+
+### 1Corintios 16:23
+
+ἡ χάρις τοῦ κυρίου ⸀Ἰησοῦ μεθ’ ὑμῶν.
 
 [La gracia del Señor Jesús sea con ustedes.]
 
----
 
-### 1 Corintios 16:24 {#1co-16-24}
+### 1Corintios 16:24
 
-ἡ ἀγάπη μου μετὰ πάντων ὑμῶν ἐν Χριστῷ Ἰησοῦ
+ἡ ἀγάπη μου μετὰ πάντων ὑμῶν ἐν Χριστῷ ⸀Ἰησοῦ.
 
-[Mi amor sea con todos ustedes en Cristo Jesús.]
+[Mi amor sea con todos ustedes en Cristo Jesús. Amén.]
+
+

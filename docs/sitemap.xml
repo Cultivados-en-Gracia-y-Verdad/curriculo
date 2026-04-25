@@ -37,7 +37,19 @@
   </url><url>
     <loc>http://localhost:1313/roots/file-creation-process/</loc>
   </url><url>
-    <loc>http://localhost:1313/roots/nbla/1juan.nbla/</loc>
+    <loc>http://localhost:1313/roots/mna/data/1corintios/</loc>
+  </url><url>
+    <loc>http://localhost:1313/roots/mna/data/1corintios.p2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/roots/mna/passes/1corintios.p1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/roots/mna/passes/1corintios.p2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/roots/mna/passes/1corintios.p3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/roots/mna/passes/1corintios.p4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/roots/mna/readme/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/nbla/1pedro.nbla/</loc>
   </url><url>
@@ -58,12 +70,6 @@
     <loc>http://localhost:1313/roots/nbla/3juan.nbla/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/nbla/apocalipsis.nbla/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/nbla/colosenses.nbla/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/nbla/efesios.nbla/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/nbla/filemon.nbla/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/nbla/filipenses.nbla/</loc>
   </url><url>
@@ -90,6 +96,8 @@
     <loc>http://localhost:1313/roots/nbla/tito.nbla/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/oshb/morphhb/</loc>
+  </url><url>
+    <loc>http://localhost:1313/roots/roots-dataset/1corintios-data/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/sblgnt/2corintios/</loc>
   </url><url>
@@ -132,6 +140,8 @@
     <loc>http://localhost:1313/roots/sblgnt/morphgnt/readme/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/sblgnt/santiago/</loc>
+  </url><url>
+    <loc>http://localhost:1313/roots/scripts/readme/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/step1-output/1corintios.out/</loc>
   </url><url>
@@ -191,7 +201,13 @@
   </url><url>
     <loc>http://localhost:1313/roots/nbla/1corintios.nbla/</loc>
   </url><url>
-    <loc>http://localhost:1313/roots/roots-dataset/1corintios-data/</loc>
+    <loc>http://localhost:1313/roots/nbla/1juan.nbla/</loc>
+  </url><url>
+    <loc>http://localhost:1313/roots/nbla/colosenses.nbla/</loc>
+  </url><url>
+    <loc>http://localhost:1313/roots/nbla/efesios.nbla/</loc>
+  </url><url>
+    <loc>http://localhost:1313/roots/nbla/filemon.nbla/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/sblgnt/1juan/</loc>
   </url><url>
