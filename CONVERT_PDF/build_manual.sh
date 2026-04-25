@@ -4,9 +4,9 @@ set -euo pipefail
 # ================================
 # configure these:
 # ================================
-MANUAL_NAME="Colosenses"
-FILE_LOCATION="../09.Colosenses"
-FILENAME="/colosenses0.7.md"
+MANUAL_NAME="Navegando el Texto"
+FILE_LOCATION="../08.Navegando-el-texto"
+FILENAME="/Navegando-el-Texto0.9.md"
 # ==================================
 
 FILE="${FILE_LOCATION}${FILENAME}"

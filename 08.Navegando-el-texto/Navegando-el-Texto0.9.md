@@ -2,7 +2,7 @@
 title: "Navegando el Texto"
 subtitle:  "Cómo leer, observar y seguir el flujo del texto bíblico"
 author:  "CGV"
-version:  "0.8"
+version:  "0.9"
 date:  "2026-04-25"
 cover: "images/portada.png"
 ---
@@ -941,7 +941,7 @@ Cada línea debe contener:
 
 ###### Usa:
 - ( ) → cuando el conector está explícito en español  
-- [ ] → cuando está implícito pero existe en el griego  
+- [] → cuando está implícito pero existe en el griego  
 
 ## CONFIRMACIÓN EN EL GRIEGO
 
