@@ -3,7 +3,7 @@ title: "Navegando el Texto"
 subtitle:  "Cómo leer, observar y seguir el flujo del texto bíblico"
 author:  "CGV"
 version:  "0.8"
-date:  "2026-04-14"
+date:  "2026-04-25"
 cover: "images/portada.png"
 ---
 
@@ -1079,7 +1079,6 @@ Resultado:
 2. Toma los conectores del Paso 4
 
 3. Para cada conector:
-
    a) Identifica la cláusula B (la que introduce)  
    b) Insértalo al inicio de esa cláusula  
    c) Prueba:
@@ -1254,328 +1253,359 @@ Luego:
 ###### Aquí conectas  
 ###### 👉 luego estructuras
 
-# PASO 6 — LEER LA RELACIÓN (USAR EL CONECTOR)
+# PASO 6 — MOSTRAR LA ESTRUCTURA
 
 ## EJECUTA
 
 ##### ¿Qué haces?
-###### Lees la relación entre dos cláusulas usando la **función del conector**.
+###### Organizas las cláusulas según las relaciones A–B confirmadas en el Paso 5.
+
+##### REGLA CLAVE
+
+###### ❗ Solo trabajas con conexiones ya confirmadas
+
+👉 No pruebas relaciones  
+👉 No vuelves a buscar A  
+👉 No eliminas conectores  
+
+👉 Todo eso ya ocurrió en el Paso 5  
 
 ##### REGLA FUNDAMENTAL
-###### No haces preguntas.
 
-###### 👉 Declaras la relación que el conector establece.
+###### ❗ No explicas la relación
 
-##### REGLAS
+👉 No nombras funciones  
+👉 No interpretas  
+👉 No reescribes el texto  
 
-- Solo trabajas con conectores que **causan dependencia**  
-- Usas las **dos cláusulas** (A y B)  
-- Mantienes las palabras del texto  
-- Incluyes los **verbos finitos**
+👉 Solo haces visible la estructura  
 
-##### CÓMO HACERLO
+## CÓMO HACERLO
 
-1. Toma una cláusula con conector de dependencia (B)
+1. Toma las cláusulas del Paso 5
 
-2. Identifica su cláusula base (A)
+2. Usa las relaciones ya resueltas:
+👉 (conector + B) → A
 
-3. Identifica la **función del conector**:
-- causa  
-- propósito  
-- condición  
-- resultado  
+3. Organiza así:
+- Coloca A en la línea principal  
+- Coloca B debajo de A  
+- Indenta B  
+- Mantén el conector en B  
 
-4. Escribe la relación así:
-(función) → A + conector + B
-
-##### RESULTADO ESPERADO
+## FORMATO
 
 ```
-Les ==di== a beber leche,
+A
 
-(porque) todavía no ==podían== recibirlo
-
-causa → Les ==di== porque no ==podían== recibirlo
+(conector) B
 ```
+
+## EJEMPLO
+
+Paso 5:
+
+```
+==di== a beber leche
+
+(porque) ==podían== recibirlo
+
+[pero] ==pueden==
+
+
+Paso 6:
+
+
+==di== a beber leche
+(porque) ==podían== recibirlo
+[pero] ==pueden==
+```
+
+## REGLA OPERATIVA
+
+###### ❗ La cláusula B siempre se coloca debajo de su A
+👉 Porque depende de ella  
+👉 Por eso se indenta  
+
+###### ❗ Cada cláusula aparece una sola vez
+👉 Si una cláusula es A de otra relación,
+👉 se usa en su misma posición (no se repite)
+
+## IMPORTANTE
+
+###### ❗ No reorganizas por intuición
+
+👉 Solo reflejas las conexiones ya confirmadas  
+
+###### ❗ No agregas información
+
+👉 No añades palabras  
+👉 No completas ideas  
+👉 No corriges el texto  
 
 ## ENTIENDE
 
 ##### Qué estás haciendo realmente
-###### Estás haciendo visible la **relación objetiva entre las cláusulas**.
+###### Estás mostrando la **estructura real del texto**.
 
 ##### PRINCIPIO CLAVE
-###### La relación no se interpreta.
-
-###### 👉 Está definida por el conector.
+###### La estructura no se crea  
+###### 👉 se revela al ordenar A–B  
 
 ##### IDEA CLAVE
-###### El conector no se pregunta.
+###### No preguntas:
+👉 “¿Qué significa?”
 
-###### 👉 Se traduce en función.
+###### Muestras:
+👉 “¿Qué depende de qué?”
 
-##### DEFINICIÓN
-###### Usar el conector = expresar la relación entre A y B según su función.
+##### ERROR COMÚN
 
-##### EJEMPLO GUIADO
+- Volver a probar conexiones  
+- Buscar nuevas relaciones  
+- Explicar la relación  
+- Reescribir el texto  
+- Cambiar el orden  
 
-###### Texto (Paso 5):
+👉 ❌ Incorrecto
 
-```
-Les ==di== a beber leche
+##### CORRECTO
 
-(porque) todavía no ==podían== recibirlo
-```
+- Tomas las conexiones del Paso 5  
+- Colocas B debajo de A  
+- Indentas  
+- Mantienes el conector  
 
-##### Aplicación:
+## FRASE CLAVE
+> “No construyo la estructura.  
+> La muestro.”
 
-```
-(porque) todavía no ==podían== recibirlo  
-
-causa → Les ==di== porque no ==podían== recibirlo
-```
-
-##### REGLA IMPORTANTE
-
-###### No conviertes el texto en explicación.
-
-###### 👉 Solo conectas A y B usando su relación.
-
-##### ERRORES COMUNES
-
-- Hacer preguntas (“¿por qué?”)  
-- Parafrasear el texto  
-- Agregar ideas externas  
-- No incluir ambos verbos  
-
-##### REGLA DE CONTROL
-
-###### La línea debe contener:
-- A (cláusula base)  
-- el conector  
-- B (cláusula dependiente)  
-- ambos verbos finitos  
-
-##### FRASE CLAVE
-> “No pregunto la relación.  
-> La declaro.”
-
-##### QUÉ DEBES NOTAR
+## QUÉ DEBES NOTAR
 
 ###### Cuando lo haces bien:
-- la relación es directa  
-- no hay interpretación  
-- el texto se conecta solo  
 
-##### TRANSICIÓN
+- las dependencias se ven claramente  
+- el texto se organiza sin esfuerzo  
+- la jerarquía aparece  
+
+## TRANSICIÓN
 
 ###### En el siguiente paso:
-- 👉 reducirás cada cláusula
-- 👉 prepararás el texto para identificar el tronco
 
-# PASO 7 - REDUCIR A LA CLÁUSULA BASE
+- 👉 trabajarás dentro de cada cláusula  
+- 👉 reducirás su contenido  
+- 👉 prepararás el texto para identificar el tronco  
+
+###### Aquí haces visible la estructura  
+###### 👉 luego trabajas dentro de ella
+
+# PASO 7 — REDUCIR A LA CLÁUSULA BASE
 
 ## EJECUTA
 
 ##### ¿Qué haces?
-###### Reduces cada cláusula a su forma mínima,
-###### conservando la <u>acción</u> completa del verbo.
-- ❗ No dividas acciones que funcionan como una sola unidad.
+###### Reduces cada cláusula a su forma base,
+###### conservando la acción completa del verbo dentro de la estructura mostrada en el Paso 6.
 
-##### Regla
-###### Mantienes:
-- el verbo
+##### REGLA CLAVE
+###### Reduces el contenido de cada cláusula,
+###### pero no alteras la estructura.
+
+👉 No eliminas cláusulas  
+👉 No eliminas conectores  
+👉 No cambias la relación visual del Paso 6  
+
+##### REGLA
+###### Mantienes en cada cláusula:
+
+- el verbo finito
 - el sujeto (si es necesario)
 - los elementos que completan la acción del verbo
 
-###### ❗ No reduces estrictamente a sujeto–verbo–objeto
+###### ❗ No reduces mecánicamente a sujeto–verbo–objeto
 
-###### Elimina solo los elementos que no afectan la acción del verbo,
-###### pero conserva todo lo necesario para que la acción sea completa.
+###### Conservas todo lo necesario para que la acción quede completa.
+###### Eliminas solo lo que no afecta directamente esa acción.
 
-###### ❗ No eliminas cláusulas  
-###### ❗ Mantienes los conectores  
-###### ❗ Mantienes la estructura del Paso 6  
+##### ACLARACIÓN IMPORTANTE
+###### La reducción ocurre dentro de cada cláusula,
+###### no entre cláusulas.
 
-##### Cómo hacerlo
+👉 No estás tocando la estructura  
+👉 Solo estás limpiando cada línea  
 
-1. Toma el texto trabajado en el Paso 6  
+## CÓMO HACERLO
 
-2. Lee una cláusula  
+1. Toma el texto estructurado del Paso 6
 
-3. Identifica el <u>verbo</u>  
+2. Lee una cláusula
 
-4. Pregunta:
-   - 👉 ¿Quién hace la acción? → sujeto  
-   - 👉 ¿Qué hace? → verbo  
-   - 👉 ¿A quién / qué? → objeto (si existe)  
+3. Identifica su verbo finito
 
-5. Elimina todo lo demás dentro de la cláusula  
+4. Conserva:
+- quién hace la acción, si es necesario
+- qué acción ocurre
+- qué completa esa acción
 
-6. Repite con cada cláusula  
+5. Elimina dentro de la cláusula:
+- elementos secundarios
+- detalles que no cambian la acción
+- expansiones que no son necesarias para que la acción quede completa
 
-##### Resultado esperado
+6. Repite con cada cláusula
+
+##### RESULTADO ESPERADO
 
 ###### Antes (Paso 6):
 
-```
-Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
+```text
+no ==pude== hablarles como a espirituales
 
-Les ==di== a beber leche, no alimento sólido,
-     (porque) todavía no ==podían== recibirlo.
-     `¿por qué? → porque no podían recibirlo`
+==di== a beber leche
+    (porque) no ==podían== recibirlo
 
-En verdad, ni aun ahora ==pueden==.
+[pero] ni aun ahora ==pueden==
 ```
 
 ###### Después (Paso 7):
 
-```
+```text
 no ==pude== hablarles
 
-yo ==di== leche
+==di== a beber leche
     (porque) no ==podían== recibirlo
 
-ni aun ahora ==pueden==
+[pero] ==pueden==
 ```
 
 ## ENTIENDE
 
 ##### Qué estás haciendo realmente
+###### Estás dejando visible el núcleo verbal de cada cláusula,
+###### sin tocar la estructura que ya fue mostrada.
 
-###### Estás dejando visible la estructura <u>mínima</u> de cada cláusula.
+##### PRINCIPIO CLAVE
+###### Cada cláusula tiene una base.
+###### Esa base conserva la acción completa del verbo.
 
-##### Principio clave
-###### Cada cláusula tiene un núcleo.
+##### IDEA CLAVE
+###### No reduces la estructura.
+###### Reduces el contenido de cada cláusula.
 
-##### Idea clave
-###### Todo lo que no es núcleo puede quitarse sin perder la acción.
+##### ACLARACIÓN
+###### Este paso no decide qué cláusulas permanecen y cuáles no.
 
-##### Frase clave
-> “Reduzco cada cláusula sin eliminar la estructura.”
+👉 Todas permanecen  
+👉 Solo quedan más limpias  
 
-##### Qué debes notar
+##### EJEMPLO CLAVE
+
+```text
+==di== a beber leche
+```
+
+- ==di== → verbo finito
+- “a beber leche” → completa la acción
+
+👉 No se reduce a:
+```text
+==di==
+```
+
+👉 Porque la acción quedaría incompleta
+
+##### ERROR COMÚN
+
+- Reducir demasiado
+- quitar partes que completan la acción
+- eliminar conectores
+- alterar la indentación o la relación visual del Paso 6
+
+👉 ❌ Incorrecto
+
+##### CORRECTO
+
+- conservar la acción completa
+- mantener todas las cláusulas
+- mantener los conectores
+- mantener la estructura
+
+## FRASE CLAVE
+> “Reduzco cada cláusula, pero no toco la estructura.”
+
+## QUÉ DEBES NOTAR
 
 ###### Cuando reduces bien:
-- cada línea <u>queda</u> clara  
-- desaparecen las palabras innecesarias  
-- la relación entre cláusulas sigue visible  
 
-##### Regla importante
-###### Todas las cláusulas permanecen, incluso las dependientes.
+- cada línea se vuelve más clara
+- la acción queda visible
+- la estructura sigue intacta
 
-##### Errores comunes
+##### REGLA DE CONTROL
+###### Si una acción queda incompleta, redujiste mal.
+###### Si desaparece una cláusula, redujiste mal.
+###### Si cambias la estructura, redujiste mal.
 
-- Eliminar cláusulas completas  
-- Quitar el verbo  
-- Eliminar el conector  
-- Cambiar la estructura del Paso 6  
-
-##### Regla de control
-###### Si desaparece una cláusula o su conector, redujiste mal.
-
-##### Transición
+## TRANSICIÓN
 
 ###### En el siguiente paso:
-- 👉 identificarás cuáles cláusulas <u>sostienen</u> el desarrollo  
-- 👉 eliminarás las que dependen de otras  
 
-# PASO 8 - IDENTIFICAR LA ESTRUCTURA TRONCAL
+- 👉 trabajarás con esta versión reducida
+- 👉 identificarás la línea principal del desarrollo
+- 👉 comenzarás a ver el tronco del texto 
+
+# PASO 8 — IDENTIFICAR EL TRONCO (REVISADO Y OBJETIVO)
 
 ## EJECUTA
 
 ##### ¿Qué haces?
+###### Identificas el tronco del texto eliminando únicamente las cláusulas que dependen estructuralmente de otras.
 
-###### Identificas el tronco del texto eliminando únicamente las cláusulas que están estructuralmente subordinadas.
+###### Mantienes las cláusulas que no dependen de ninguna otra.
 
-###### Mantienes las cláusulas que sostienen el desarrollo principal.
+# REGLA CLAVE
 
-###### Mientras lo haces, observas dos cosas:
+###### ❗ Solo puedes eliminar una cláusula si su dependencia es visible en la estructura
 
-- quién actúa
-- cuándo el flujo se interrumpe
+👉 No decides por sentido
+👉 No decides por importancia
+👉 No decides por “parece secundario”
 
+👉 Decides solo por lo que el conector griego muestra
 
-##### Regla
+# REGLA CRÍTICA
 
-###### Solo puedes eliminar una cláusula si está introducida por un conector subordinante.
+###### ❗ Una cláusula se elimina solo si:
+- está introducida por un conector subordinante en el griego
+- está estructuralmente debajo de otra cláusula (Paso 6)
 
-###### ❗ No decides por sentido
+###### ❗ Si no puedes señalar el conector griego exacto, no puedes eliminarla
 
-###### ❗ No decides por importancia
+# DEFINICIÓN OPERATIVA
 
-###### ❗ No decides por “parece secundario”
+###### Una cláusula dependiente es aquella que:
+- comienza con un conector subordinante griego (ej. ὅτι, εἰ, ἵνα, γάρ)
+- fue colocada debajo de otra cláusula en el Paso 6
 
-###### 👉 Decides únicamente por lo que está visible en la estructura
+👉 Esa es la única base para eliminar
 
-##### Regla de decisión (CRÍTICA)
+# CÓMO HACERLO
 
-###### Una cláusula se elimina solo si:
-- está introducida por un conector subordinante
-- ese conector la une directamente a otra cláusula con verbo finito
+1. Toma el texto reducido y estructurado (Paso 7)
 
-###### ❗ Si no puedes señalar el conector exacto, no puedes eliminar la cláusula
+2. Revisa cada cláusula
 
-##### Definición operativa
-###### Una cláusula subordinada es aquella que:
-- comienza con un conector subordinante
-- está unida estructuralmente a otra cláusula
-
-###### ❗ La dependencia se determina por el conector, no por interpretación
-
-##### Cómo hacerlo
-
-1. Toma el texto reducido (Paso 7)
-
-2. Lee cada cláusula
-
-3. Pregunta:
-- 👉 ¿Esta cláusula comienza con un conector subordinante?
+3. Identifica:
+👉 ¿Está esta cláusula debajo de otra?
+ 👉 ¿Tiene un conector subordinante en el griego?
 
 4. Decide:
+- ✔ Sí → elimínala
+- ❌ No → mantenla
 
-- Sí → elimínala
-- No → mantenla
+5. Repite hasta revisar todo el texto
 
-1. Repite hasta revisar todo el texto
-
-##### Observación integrada
-
-###### Mientras identificas el tronco, marcas:
-
-###### SUJETO
-
-- Marca solo cuando el sujeto cambia
-- No explicas
-- No interpretas
-
-###### MOVIMIENTO
-
-###### Detectas cuándo el flujo del texto se interrumpe entre líneas.
-
-###### Solo haces una pregunta:
-> **¿Esta línea interrumpe la anterior o sigue igual?**
-
-###### Regla
-- Si fluye → no marcas
-- Si se interrumpe → marcas **[M]**
-
-###### Qué es una interrupción
-- la línea ya no continúa en la misma dirección
-- te obliga a hacer una pausa mental
-- sientes que la relación cambió
-
-###### Qué NO es una interrupción
-
-```
-yo ==fui==
-yo ==vi==
-yo ==tomé==
-```
-
-✔ fluye
-✔ no marcas
-
-##### Resultado esperado
+# RESULTADO
 
 ###### Antes (Paso 7):
 
@@ -1583,943 +1613,844 @@ yo ==tomé==
 no ==pude== hablarles
 
 yo ==di==
-(porque) no ==podían==
- 
+    (porque) no ==podían==
+
 ni aun ahora ==pueden==
 ```
 
 ###### Después (Paso 8):
 
 ```
-[S→] yo
 no ==pude== hablarles
 
 yo ==di==
 
-no ==podían==   [S][M]
-
-ni aun ahora ==pueden==   [M]
+ni aun ahora ==pueden==
 ```
 
-## ENTIENDE
-##### Qué estás haciendo realmente
-###### Estás dejando visible el desarrollo principal del texto y marcando los puntos donde el flujo cambia.
+# OBSERVACIÓN INTEGRADA
 
-##### Principio clave
-###### El tronco muestra la línea principal.
-###### El movimiento muestra dónde esa línea cambia.
+## 1. SUJETO
 
-##### Idea clave
-- No explicas el cambio.
-- No lo nombras.
+###### Mientras identificas el tronco, marcas cambios de sujeto
+- Marca solo cuando el sujeto cambia
+- Debe ser visible en la cláusula
+- No explicas
+- No interpretas
 
-- 👉 Solo lo detectas.
-
-##### Qué debes notar
-
-###### Ahora el texto:
-- queda simplificado
-- mantiene su desarrollo principal
-- muestra claramente dónde cambia el flujo
-- prepara el análisis del siguiente paso
-
-##### Transición
-
-###### En el siguiente paso:
-- tomarás cada punto marcado
-- y definirás qué está haciendo la cláusula
-- 👉 Ahora sí con precisión
-
-## Frase clave
-> “No explico el cambio — primero lo detecto.”
-
-# PASO 9 - MARCAR EL COMPORTAMIENTO
-
-## EJECUTA
-
-##### ¿Qué haces?
-###### Nombras qué hace la cláusula **solo en los puntos donde el flujo se interrumpe**.
-
-###### Trabajas únicamente con:
-- el tronco (Paso 8)
-- las marcas **[M]**
-
-##### Regla principal
-###### ❗ Solo etiquetas donde hay **[M]**
-
-###### ❗ Si no hay [M], no haces nada
-
-##### Regla de control
-###### Si dos estudiantes no etiquetan las mismas líneas:
-- 👉 No detectaron bien el [M]
-- 👉 Deben volver al Paso 8
-
-##### Qué estás nombrando
-- No explicas ideas.
-
-- 👉 Nombras **qué hace la línea nueva con respecto a la anterior**
-
-##### Cómo hacerlo
-1. Busca una marca **[M]**
-
-2. Lee:
-- la línea anterior
-- la línea con [M]
-
-3. Haz una sola pregunta:
-> **¿Qué está haciendo esta línea con la anterior?**
-
-4. Asigna una etiqueta clara
-
-## ETIQUETAS PERMITIDAS (FIJAS)
-
-###### • EXPONE  • RAZÓN • CONTRASTE • RESULTADO
-
-## DEFINICIONES (SIMPLIFICADAS)
-
-### EXPONE
--👉 Continúa la misma línea
--👉 No cambia la dirección
-
-### RAZÓN
-- 👉 Explica por qué
-- 👉 Responde: “¿por qué?”
-
-### CONTRASTE
-- 👉 Cambia la dirección
-- 👉 Se opone o corrige
-
-### RESULTADO
-- 👉 Muestra consecuencia
-- 👉 Responde: “¿qué pasa entonces?”
-
-## RESULTADO ESPERADO
-
-###### Paso 8:
+Formato:
 
 ```
-yo ==pude== hablarles
-
-yo ==di== a beber leche
-
-no ==podían== recibirlo   [S][M]
-
-ni aun ahora ==pueden==   [M]
+[S: sujeto anterior → sujeto nuevo]
 ```
 
-###### Paso 9:
+## 2. MOVIMIENTO [M] (OBJETIVO — BASADO EN GRIEGO)
+
+##### DEFINICIÓN
+> **[M] marca un cambio de función estructural observable en la gramática griega.**
+
+# REGLA FUNDAMENTAL DE [M]
+
+###### ❗ Solo marcas [M] cuando puedes demostrar un cambio en la forma gramatical del discurso
+
+👉 No marcas por contenido
+👉 No marcas por sujeto
+👉 No marcas por contraste
+👉 No marcas por “suena diferente”
+
+# CRITERIOS OBJETIVOS PARA [M]
+
+## ✔ 1. CAMBIO DE MODO VERBAL (PRINCIPAL)
+
+Marca [M] si hay un cambio como:
+- Indicativo → Imperativo
+- Indicativo → Exhortación (prohibición, mandato)
+
+Ejemplo:
 
 ```
-yo ==pude== hablarles
+==es== verdad
 
-yo ==di== a beber leche
-
-::RAZÓN::
-no ==podían== recibirlo   [S][M]
-
-::EXPONE::
-ni aun ahora ==pueden==   [M]
+==hagan== esto [M]
 ```
 
-## EJEMPLOS ADICIONALES
+## ✔ 2. CONECTOR DE CONCLUSIÓN (CUANDO CAMBIA FUNCIÓN)
 
-### Ejemplo 1 — Contraste
-
-```
-yo ==quería== ayudar
-
-pero ellos ==rechazaron==   [M]
-::CONTRASTE::
-pero ellos rechazaron
-```
-
-### Ejemplo 2 — Resultado
+Ejemplo griego:
 
 ```
-ellos ==creyeron==
-
-por eso ==fueron salvos==   [M]
-::RESULTADO::
-fueron salvos
+- ὥστε (así que)
 ```
 
-### Ejemplo 3 — Sin cambio
+Marca [M] solo si:
+- introduce una conclusión independiente
+- cambia de explicación a acción o resolución
 
-```
-yo ==fui==
-yo ==vi==
-yo ==tomé==
-```
+## ✔ 3. CAMBIO DE FUNCIÓN DEL DISCURSO
 
-- ✔ no hay [M]
-- ✔ no etiquetas nada
+Marca [M] si puedes señalar:
+- explicación → mandato
+- desarrollo → conclusión
 
-## ERRORES COMUNES
+👉 Este cambio debe ser visible en:
+- el verbo (modo)
+- o el conector griego
 
-### ❌ Etiquetar todo
+# LO QUE NO PRODUCE [M]
 
-```
-::EXPONE::
-yo pude
-
-::EXPONE::
-yo di
-```
-- 👉 incorrecto
-
-### ❌ Pensar en significado
-- “esto enseña…”
-- “esto implica…”
-- 👉 incorrecto
-
-### ❌ Inventar etiquetas
-- “aclara”
-- “amplía”
-- 👉 prohibido
-
-### FRASE CLAVE
-> “No interpreto — nombro lo que el texto hace en el punto donde cambia.”
-
-## ENTIENDE
-
-##### Qué estás haciendo realmente
-###### Estás nombrando los puntos donde el texto cambia de dirección.
-
-##### Principio clave
-###### El cambio ya fue detectado en Paso 8.
-- 👉 Aquí solo lo defines.
-
-##### Idea clave
-###### No buscas en todo el texto.
-- 👉 Solo trabajas donde hay [M]
-
-##### Qué debes notar
-###### Ahora el texto muestra:
-- dónde cambia
-- qué tipo de cambio ocurre
-
-### TRANSICIÓN A PASO 10 (CRUCIAL)
-
-###### Ahora puedes ignorar el contenido.
-
-###### Solo lees:
-```
-EXPONE
-RAZÓN
-EXPONE
-CONTRASTE
-```
-
-- 👉 Esto empieza a repetirse
-- 👉 Eso es un patrón
-
-# ANTES DE CONTINUAR — LEER EL COMPORTAMIENTO DEL TEXTO
-
-## LO QUE YA TIENES
-
-##### Hasta aquí no has interpretado.
-
-###### Has trabajado el texto mecánicamente:
-
-- identificaste verbos
-- separaste cláusulas
-- organizaste estructura
-- redujiste al tronco (Paso 8)
-- marcaste los puntos donde el flujo cambia ([M])
-- nombraste esos cambios (Paso 9)
-
-------
-
-###### Ahora tienes algo completo:
-
-- 👉 un conjunto de líneas claras
-- 👉 solo las líneas principales
-- 👉 marcas de cambio ([S] y [M])
-- 👉 una etiqueta en cada punto de cambio
-
-------
-
-##### Esto es **datos procesados**.
-
-------
-
-## LO QUE CAMBIA AHORA
-
-###### Hasta este punto preguntabas:
-
-- 👉 ¿qué hay en el texto?
-
-###### Ahora haces algo distinto:
-
-- 👉 vas a **agrupar lo que ya ves**
-
-------
-
-## CAMBIO CLAVE
-
-##### Ya no lees el texto como contenido
-
-👉 lees lo que hacen las líneas
-
-------
-
-###### En lugar de:
-
-```
-yo no pude hablar
-yo di leche
-no podían
-```
-
-------
-
-###### Ahora ves:
-
-```
-EXPONE
-EXPONE
-RAZÓN
-```
-
-------
-
-👉 Esto es lo que usarás a partir de ahora
-
-------
-
-## NO INTERPRETAS SIGNIFICADO
-
-##### No explicas el texto
-
-##### No enseñas doctrina
-
-##### No aplicas
-
-👉 Solo observas comportamiento visible
-
-------
-
-# CÓMO EMPEZAR (MECÁNICO)
-
-##### No buscas tipos de patrón
-
-##### No decides por intuición
-
-👉 Solo haces esto:
-
-------
-
-### Paso 1
-
-Mira solo las etiquetas
-
-------
-
-### Paso 2
-
-Agrupa las que son iguales
-
-------
-
-### Paso 3
-
-Separa cuando cambian
-
-------
-
-### Paso 4
-
-Observa qué ocurrió
-
-------
-
-## LECTURA GUIADA
-
-##### Comportamiento:
-
-```
-EXPONE
-EXPONE
-RAZÓN
-```
-
-------
-
-##### Paso 1 — agrupar
-
-```
-[EXPONE
- EXPONE]
-
-[RAZÓN]
-```
-
-------
-
-##### Paso 2 — observar
-
-- dos líneas iguales → se agrupan
-- una línea distinta → se separa
-- la línea distinta sostiene a las anteriores
-
-------
-
-###### No interpretaste
-
-###### No explicaste
-
-👉 solo agrupaste lo que ya estaba visible
-
-------
-
-## QUÉ DEBES NOTAR
-
-###### Ahora comienzas a ver:
-
-- repetición (líneas iguales)
-- cambio (líneas diferentes)
-- soporte (una línea depende de otra)
-
-------
-
-###### Ya no ves líneas aisladas
-
-👉 ves cómo se agrupan
-
-------
-
-## REGLA CLAVE
-
-> No busco patrones — agrupo líneas que hacen lo mismo.
-
-------
-
-## NOTA
-
-###### Existen formas comunes como:
-
+###### ❗ Nunca marques [M] por:
+- cambio de sujeto
+- contraste (pero / ἀλλά / δέ)
+- nueva ilustración
 - repetición
-- contraste
-- progresión
+- progreso del argumento
 
-👉 pero no las buscas directamente
+👉 Todo esto ocurre dentro del mismo movimiento
 
-👉 aparecen cuando agrupas correctamente
+# PRUEBA MECÁNICA (OBLIGATORIA)
 
-------
-
-## LO QUE VIENE
-
-##### Ahora sí estás listo
-
-###### En el siguiente paso:
-
-- 👉 no buscarás información nueva
-- 👉 extenderás las agrupaciones que ya ves
-
-# PASO 10 — IDENTIFICAR PATRONES
-
-## EJECUTA
-
-##### ¿Qué haces?
-
-###### Identificas patrones en el tronco agrupando líneas que se comportan juntas.
-
-##### Regla
-###### Solo trabajas con:
-
-- el texto del Paso 8 (tronco)
-- las etiquetas del Paso 9 (comportamiento)
-
-###### ❌ No agregas contenido
-
-###### ❌ No explicas el significado
-
-###### ❌ No interpretas
-
-###### 👉 Solo agrupas lo que se repite o se mantiene igual
-
-# CÓMO HACERLO (SIMPLIFICADO)
-
-### 1. Toma el texto del Paso 8 con las etiquetas del Paso 9
-
-### 2. Lee línea por línea
-
-### 3. Haz UNA sola pregunta
-> 👉 ¿Esta línea hace lo mismo que la anterior?
-
-### 4. Decide
-- ✔ Sí → agrúpalas
-- ❌ No → comienza un nuevo grupo
-
-### 5. Repite hasta terminar el texto
-
-### 6. Observa cada grupo
-
-👉 recién aquí puedes notar:
-- repetición
-- contraste
-- razón
-- cambio
-
-# REGLA CRÍTICA
-> No buscas el tipo de patrón primero.
->  👉 Primero formas grupos.
-
-# CUÁNDO PUEDES FORMAR UN GRUPO
-
-Solo si hay:
-
-- misma etiqueta (EXPONE, RAZÓN, etc.)
-- misma acción visible
-- continuidad clara
-
-###### ❗ No agrupas por tema
-
-###### ❗ No agrupas por idea
-
-# PATRONES PERMITIDOS
-
-(Solo después de agrupar)
-
-REPETICIÓN • PROGRESIÓN • CONTRASTE • CAUSA–RESULTADO • PARALELISMO • CAMBIO DE SUJETO
-
-![patrones](images/patrones.png)
-
-# RESULTADO ESPERADO
+Antes de marcar [M], debes poder responder:
 
 ```
-[EXPONE
- EXPONE]
+1. ¿El verbo cambia de modo? → sí = posible [M]
 
-[RAZÓN]
+2. ¿Hay conector de conclusión (ὥστε)? → sí = posible [M]
+
+3. ¿Se puede demostrar cambio en función estructural?
+   → sí = [M]
+
+Si no puedes señalar esto en el griego → NO marcas [M]
 ```
 
-------
-
-### (Opcional — nombre del patrón)
+# EJEMPLO
 
 ```
-::REPETICIÓN::
-EXPONE
-EXPONE
+yo ==planté==
+Apolos ==regó==
+[pero] Dios ==dio== crecimiento   ← ❌ NO [M]
 
-::RAZÓN::
-RAZÓN
+[Así que] nadie ==se jacte==      ← ✔ [M]
 ```
+
+# FORMATO FINAL
+
+```
+[S: yo → Apolos]
+Apolos ==regó==
+
+[S: Apolos → Dios]
+[pero] Dios ==dio== crecimiento
+
+[S: Dios → nadie]
+[Así que] nadie ==se jacte==   [M]
+```
+
+# REGLA DE CONTROL
+
+###### ❗ Si no puedes señalar el cambio en la gramática griega:
+👉 NO puedes marcar [M]
 
 # ENTIENDE
 
 ##### Qué estás haciendo realmente
+###### Estás dejando visible la línea principal del texto y sus cambios estructurales reales.
 
-###### Estás dejando de ver líneas individuales.
+# PRINCIPIO CLAVE
 
-###### 👉 Ahora ves bloques.
+###### El tronco contiene solo cláusulas independientes.
 
-##### Principio clave
+###### 👉 [M] marca solo cambios estructurales verificables en el griego.
 
-###### Un patrón no está en una línea.
+# IDEA CLAVE
 
-###### 👉 Está en la relación entre líneas.
+###### No decides qué es importante
 
-##### Idea clave
+###### 👉 solo eliminas dependencia
 
-###### El patrón no se inventa.
+###### 👉 solo marcas cambios demostrables
 
-###### 👉 Aparece cuando agrupas correctamente.
+# ERROR COMÚN
+- Marcar [M] por impresión
+- Usar sujeto como criterio
+- Usar contraste como criterio
+- Marcar demasiados [M]
 
-# ADVERTENCIA 
+👉 ❌ Incorrecto
 
-###### Si estás pensando:
+# CORRECTO
 
-- “esto parece…”
-- “esto significa…”
+- Eliminas solo por dependencia estructural
+- Mantienes cláusulas independientes
+- Marcas [M] solo con evidencia griega
 
-👉 te saliste del paso
+# FRASE CLAVE
+> “Elimino lo dependiente.
+>  Marco solo lo que el griego demuestra.”
 
-###### Si dudas:
+# QUÉ DEBES NOTAR
 
-👉 vuelve a la pregunta base
-> ¿Hace lo mismo que la línea anterior?
+###### Cuando haces bien este paso:
+- el texto se reduce al desarrollo principal
+- desaparece lo subordinado
+- los cambios reales se vuelven visibles
+- [M] aparece raramente
 
-# RESULTADO MENTAL ESPERADO
+# TRANSICIÓN
 
-###### Ahora puedes ver:
-- qué líneas pertenecen juntas
-- dónde se rompe el flujo
-- dónde comienza un nuevo bloque
+###### En el siguiente paso:
+- 👉 trabajarás con cada cláusula del tronco
+- 👉 identificarás su comportamiento
+- 👉 verás cómo avanza el texto
 
+###### Aquí defines el tronco
 
-###### 👉 Esto prepara el siguiente paso:
+###### 👉 luego observas su comportamiento
 
-👉 no solo ver el patrón…
-👉 sino seguirlo hasta que termine
-
-# PASO 11 — EXTENDER EL PATRÓN
+# PASO 9 — MARCAR EL COMPORTAMIENTO
 
 ## EJECUTA
 
 ##### ¿Qué haces?
-###### Extiendes el patrón identificado siguiendo las líneas que mantienen el mismo comportamiento.
+###### Nombras qué hace **cada cláusula**.
 
-##### Regla
-###### Solo trabajas con:
-- los patrones marcados en Paso 10
-- el texto del tronco (Paso 8)
-- las etiquetas del Paso 9
+###### Trabajas con:
+- el tronco (Paso 8)
+- las cláusulas ya estructuradas
 
-###### ❌ No creas patrones nuevos
-###### ❌ No cambias etiquetas
-###### ❌ No reorganizas el texto
+##### REGLA CLAVE
+###### ❗ Toda cláusula recibe una etiqueta
+👉 No depende de [M]
 
-- 👉 Solo sigues el patrón existente
+##### REGLA FUNDAMENTAL
+###### ❗ No detectas el cambio
+👉 La estructura ya fue determinada en pasos anteriores  
+👉 Aquí no decides dónde cambia  
 
-##### Cómo hacerlo
+👉 Solo nombras lo que cada cláusula hace  
 
-1. Toma un patrón identificado en Paso 10
+##### REGLA CRÍTICA
 
-2. Comienza desde su primera línea
-
-3. Avanza línea por línea
-
-4. En cada línea pregunta:
-- 👉 ¿Mantiene exactamente el mismo patrón observable?
-- misma estructura
-- misma relación
-- misma función
-
-###### ❗ Si uno cambia → el patrón se detiene
-
-5. Mientras la respuesta sea “sí”:
-- 👉 la línea pertenece al patrón
-
-6. Cuando la respuesta sea “no”:
-- 👉 el patrón se detiene
-
-##### Qué detiene un patrón
-
-###### El patrón termina cuando aparece:
-- cambio de comportamiento (EXPONE → RAZÓN, etc.)
-- cambio de relación (repetición → contraste, etc.)
-- cambio claro de dirección
-- cambio significativo de sujeto (cuando rompe la continuidad)
-
-##### Resultado esperado
+###### ❗ El orden es fijo:
 
 ```
-::REPETICIÓN::
-yo no pude hablar
-yo di leche
+[S] (si existe)
+::ETIQUETA::
+cláusula [M] (si existe)
+```
 
+##### ❗ ACLARACIÓN
+- [S] va **arriba de la cláusula**  
+- ::ETIQUETA:: va **antes de la cláusula**  
+- [M] va **al final de la cláusula**  
+
+## CÓMO HACERLO
+
+1. Toma una cláusula  
+
+2. Observa su relación con la anterior  
+
+3. Nombra qué hace  
+
+## ETIQUETAS PERMITIDAS (FIJAS)
+
+##### EXPONE • RAZÓN • CONTRASTE • RESULTADO
+
+## DEFINICIÓN OPERATIVA
+
+###### La etiqueta describe qué hace la cláusula respecto a la anterior
+👉 No explica contenido  
+👉 No añade ideas  
+👉 No interpreta  
+
+## RESULTADO ESPERADO
+
+```
+::EXPONE::
+yo ==pude== hablarles
+
+::EXPONE::
+yo ==di== a beber leche
+
+[S: yo → ellos]
 ::RAZÓN::
-no podían
+no ==podían== recibirlo
+
+::EXPONE::
+ni aun ahora ==pueden==
+
+## EJEMPLO CON [M]
+
+::AFIRMACIÓN::
+no ==hago== nula la gracia [M]
 ```
 
-- 👉 El patrón no se extendió a “no podían” porque cambia la función
+## IMPORTANTE
+
+###### ❗ El conector ya determinó la relación
+👉 Aquí no decides  
+👉 Solo nombras  
+
+##### ❗ [M] ES RESTRINGIDO
+###### Solo aparece si es seguro
+👉 Si no puedes demostrarlo → no lo marcas  
+
+## ERRORES COMUNES
+
+##### ❌ Poner [S] en línea con la cláusula  
+##### ❌ Poner la etiqueta después  
+##### ❌ Poner [M] antes  
+##### ❌ Etiquetar solo donde hay [M]  
+##### ❌ Interpretar el texto  
+
+## FRASE CLAVE
+> “No explico el texto.  
+> 👉 Nombró lo que hace cada cláusula.”
 
 ## ENTIENDE
 
 ##### Qué estás haciendo realmente
-###### Estás delimitando hasta dónde llega un comportamiento consistente.
+###### Estás haciendo visible el comportamiento de cada cláusula.
 
-##### Principio clave
-###### Un patrón no termina porque tú decides.
+##### PRINCIPIO CLAVE
+###### Toda cláusula actúa  
 
-###### Termina cuando deja de sostenerse.
+###### 👉 Tu trabajo es identificar cómo  
 
-##### Idea clave
-###### El límite del patrón es observable.
+## QUÉ DEBES NOTAR
 
-###### Se detecta cuando:
-- algo deja de repetirse
-- algo cambia de función
-- algo rompe el flujo
+###### Ahora el texto muestra:
+- qué hace cada cláusula  
+- dónde cambia el sujeto ([S])  
+- dónde hay cambio estructural ([M], si existe)  
 
-##### Advertencia
-###### Si dudas, sigue avanzando.
+👉 Tres capas distintas  
 
-###### El patrón no se corta temprano.
+## TRANSICIÓN
 
-###### Se corta cuando se rompe claramente.
+###### En el siguiente paso:
+👉 ignorarás el contenido  
+👉 leerás solo las etiquetas  
+👉 observarás repetición  
 
-##### Resultado mental esperado
+###### Aquí nombras  
+###### 👉 luego agrupas
+
+# PASO 10 — DELIMITAR SECCIONES CONTINUAS
+
+## EJECUTA
+
+##### ¿Qué haces?
+###### Delimitar dónde el texto continúa  
+
+###### y dónde comienza una nueva sección.
+
+###### Trabajas con:
+- el texto estructurado (Paso 8)  
+- las marcas [M]  
+
+##### REGLA FUNDAMENTAL
+
+###### ❗ No buscas patrones
+
+👉 No agrupas por ideas  
+👉 No divides por sentido  
+👉 No usas etiquetas  
+👉 No usas sujeto  
+
+👉 Solo observas continuidad y ruptura  
+
+##### REGLA CLAVE
+###### ❗ Una nueva sección comienza solo cuando hay ruptura estructural
+
+👉 Y la única ruptura válida es [M]  
+
+## CÓMO HACERLO
+
+### 1. Lee el texto línea por línea
+👉 Trabajas sobre el tronco (Paso 8)
+
+
+### 2. Identifica [M]
+👉 Cada vez que aparece [M]:
+- ahí ocurre una ruptura  
+- ahí comienza una nueva sección  
+
+### 3. Agrupa las líneas
+👉 Todas las líneas sin [M] pertenecen a la misma sección  
+
+👉 La línea con [M]:
+- marca el cambio  
+- inicia una nueva sección  
+
+### 4. Continúa hasta el siguiente [M]
+👉 Repite el mismo proceso  
+
+## RESULTADO ESPERADO
+
+```
+[ SECCIÓN 1 ]
+
+::EXPONE::
+yo ==he sido crucificado==
+
+::CONTRASTE::
+[y] ya no ==vivo==
+
+[S: yo → Cristo]
+::CONTRASTE::
+[sino] Cristo ==vive== en mí
+
+[S: Cristo → yo]
+::EXPONE::
+==vivo== en la fe
+
+[ SECCIÓN 2 ]
+
+::EXPONE::
+no ==hago== nula la gracia [M]
+
+[S: yo → Cristo]
+::RESULTADO::
+[entonces] Cristo ==murió== en vano
+```
+
+## DEFINICIÓN OPERATIVA
+
+###### Sección continua = conjunto de cláusulas sin ruptura estructural  
+
+###### Ruptura = presencia de [M]  
+
+## REGLA DE CONTROL
+
+###### Debes poder señalar:
+- dónde empieza una sección  
+- dónde termina  
+- qué marca el cambio ([M])  
+
+👉 Si no hay [M], no hay nueva sección  
+
+👉 Aunque el sujeto cambie  
+👉 Aunque haya contraste  
+👉 Aunque el contenido avance  
+
+❗ Sin [M], no divides  
+
+## ACLARACIONES IMPORTANTES
+
+###### ❗ Las etiquetas no determinan la sección  
+👉 Solo describen cada cláusula  
+
+###### ❗ [S] no determina la sección  
+👉 Solo muestra cambios dentro de la sección  
+
+###### ❗ Solo [M] delimita  
+👉 Es el único criterio válido  
+
+## ERRORES COMUNES
+
+##### ❌ Crear secciones por “sentido”  
+
+##### ❌ Usar etiquetas para dividir  
+
+##### ❌ Usar cambios de sujeto para dividir  
+
+##### ❌ Forzar divisiones donde no hay [M]  
+
+##### ❌ Suponer ruptura sin evidencia en el griego  
+
+## FRASE CLAVE
+> “No divido el texto.  
+> 👉 Sigo las rupturas que el griego muestra.”
+
+## QUÉ DEBES NOTAR
+
+###### Cuando lo haces bien:
+
+- el texto permanece continuo la mayor parte del tiempo  
+- las divisiones son pocas y claras  
+- no necesitas explicar nada  
+- la estructura se mantiene estable  
+
+## TRANSICIÓN
+
+###### En el siguiente paso:
+
+👉 verificarás si el texto continúa en los siguientes versículos  
+👉 sin reiniciar el proceso  
+
+👉 Aquí delimitas  
+👉 luego extiendes
+
+# PASO 11 — EXTENDER LA CONTINUIDAD
+
+## EJECUTA
+
+##### ¿Qué haces?
+###### Verificas hasta dónde el texto puede continuar sin cambiar lo que está haciendo.
+
+##### REGLA CLAVE
+###### ❗ No inicias algo nuevo
+👉 Solo verificas si el desarrollo continúa  
+
+##### REGLA FUNDAMENTAL
+
+###### ❗ El texto continúa mientras no cambie su desarrollo
+👉 No usas contenido  
+👉 No usas intuición  
+👉 Trabajas con lo ya observado (estructura + etiquetas)  
+
+## CÓMO HACERLO
+
+1. Comienza desde el bloque identificado (Paso 10)
+
+2. Avanza línea por línea
+
+3. En cada línea verifica:
+
+### 1. ¿La etiqueta sigue en el mismo tipo de desarrollo?
+- ✔ Sí → continúa  
+- ❌ No → posible cierre  
+
+### 2. ¿El texto sigue haciendo lo mismo?
+- ✔ Sí → continúa  
+- ❌ No → detente  
+
+### 3. ¿Se puede leer junto sin forzar?
+- ✔ Sí → continúa  
+- ❌ No → detente  
+
+## REGLA CRÍTICA
+
+###### ❗ La extensión termina cuando el desarrollo cambia
+👉 No necesitas otra razón  
+👉 No necesitas interpretar  
+
+## RESULTADO ESPERADO
+
+```
+::EXPONE::
+yo ==pude== hablar
+yo ==di== leche
+
+::RAZÓN::
+no ==podían==
+```
+
+👉 La extensión se detiene cuando el desarrollo cambia  
+
+## IMPORTANTE
+
+###### ❗ No extiendes más allá de lo natural
+👉 No fuerzas continuidad  
+👉 No unes desarrollos distintos  
+
+###### ❗ No cortas antes de tiempo
+👉 Continúas mientras el desarrollo se mantenga  
+
+## ENTIENDE
+
+##### Qué estás haciendo realmente
+###### Estás verificando hasta dónde el texto sigue en el mismo desarrollo.
+
+##### PRINCIPIO CLAVE
+###### La extensión dura mientras el texto continúa haciendo lo mismo.
+
+##### IDEA CLAVE
+###### No decides el límite  
+###### 👉 lo muestra el cambio de desarrollo  
+
+## ERROR COMÚN
+
+- Extender por parecido superficial  
+- Cortar por intuición  
+- Forzar continuidad  
+- Ignorar cambios reales  
+
+👉 ❌ Incorrecto  
+
+##### CORRECTO
+- Verificas continuidad  
+- Te detienes cuando cambia  
+- Respetas el desarrollo  
+
+## FRASE CLAVE
+> “La extensión dura mientras el desarrollo no cambia.”
+
+## QUÉ DEBES NOTAR
 
 ###### Ahora puedes ver:
-- hasta dónde llega cada patrón
-- dónde empieza a cambiar el texto
-- dónde se preparan los límites de la unidad
+- hasta dónde el texto continúa  
+- dónde el desarrollo cambia  
+- el punto donde debes detenerte  
 
-##### 👉 Esto prepara directamente el siguiente paso:
-- no solo seguir el patrón…
-- 👉 sino usar su ruptura para delimitar la unidad.
+## TRANSICIÓN
+
+###### En el siguiente paso:
+👉 reconocerás dónde la extensión se detiene  
+👉 delimitarás la unidad  
+
+###### Aquí verificas continuidad  
+###### 👉 luego identificas el cierre
+
 
 # PASO 12 — DELIMITAR LA UNIDAD
 
 ## EJECUTA
 
 ##### ¿Qué haces?
-###### Delimitar la unidad identificando dónde el patrón comienza y dónde se rompe.
+###### Delimitar la unidad identificando hasta dónde el texto desarrolla lo mismo.
 
-##### Regla
-###### Trabajas únicamente con:
-- los patrones extendidos (Paso 11)
-- el texto del tronco (Paso 8)
-- las etiquetas de comportamiento (Paso 9)
+##### REGLA CLAVE
 
-###### ❌ No decides el límite
-###### ❌ No cortas por preferencia
-###### ❌ No usas capítulos o versículos
+###### ❗ Trabajas únicamente con:
+- la extensión verificada (Paso 11)  
+- el tronco (Paso 8)  
+- las etiquetas (Paso 9)  
 
-- 👉 El límite lo marca el texto
+👉 No usas contenido  
+👉 No usas interpretación temprana  
 
-##### Cómo hacerlo
+##### REGLA FUNDAMENTAL
 
-1. Toma un patrón extendido (Paso 11)
+###### ❗ La unidad se define donde la extensión deja de ser natural
 
-2. Identifica su primera línea
-- 👉 ahí comienza la unidad
+👉 Comienza donde inicia el desarrollo  
+👉 Termina donde ese desarrollo cambia  
 
-3. Sigue el patrón hasta donde se sostiene
+## CÓMO HACERLO
 
-4. Observa dónde se rompe:
-- 👉 cambio de patrón
-- 👉 cambio claro de comportamiento
-- 👉 cambio de dirección
-- 👉 cambio significativo de sujeto
+1. Toma el texto extendido (Paso 11)
+
+2. Identifica su inicio
+👉 Ahí comienza la unidad  
+
+3. Sigue línea por línea
+
+4. Detente cuando ocurra:
+👉 cambio en lo que el texto está haciendo  
 
 5. Marca ese punto
-- 👉 ahí termina la unidad
+👉 Ahí termina la unidad  
 
-##### Cómo confirmar el límite
+## REGLA CRÍTICA
 
-###### Lee la unidad completa:
-- 👉 ¿todas las líneas pertenecen al mismo desarrollo?
-- 👉 ¿el patrón se mantiene hasta el final?
+###### ❗ La unidad termina cuando el desarrollo cambia
+👉 No necesitas otra razón  
+👉 No necesitas evaluar contenido en profundidad  
 
-###### Si sí:
-- 👉 el límite es correcto
-
-###### Si no:
-- 👉 vuelve a Paso 11
-
-##### Resultado esperado
+## RESULTADO ESPERADO
 
 ```
 [INICIO]
-yo no pude hablar
-yo di leche
-no podían
+::EXPONE::
+yo ==pude== hablar
+yo ==di== leche
+
+::RAZÓN::
+no ==podían==
 [FIN]
 ```
 
-- 👉 La unidad comienza donde inicia el patrón
-- 👉 Termina donde el patrón se rompe
+👉 La unidad se mantiene mientras el desarrollo continúa  
+
+## IMPORTANTE
+
+###### ❗ No fuerzas extensión
+👉 Si no continúa naturalmente, te detienes  
+
+###### ❗ No cortas antes de tiempo
+👉 Continúas mientras el desarrollo se mantenga  
 
 ## ENTIENDE
 
 ##### Qué estás haciendo realmente
-###### Estás reconociendo los límites naturales del texto.
+###### Estás reconociendo dónde el texto completa un desarrollo.
 
-##### Principio clave
-###### La unidad no se crea.
+##### PRINCIPIO CLAVE
 
-###### 👉 Se descubre cuando el patrón se detiene.
+###### La unidad no se define por contenido  
+###### 👉 se define por continuidad de desarrollo  
 
-##### Idea clave
-###### El inicio está donde comienza el comportamiento consistente.
+##### IDEA CLAVE
+###### No decides el límite  
+###### 👉 lo muestra el cambio en el desarrollo  
 
-###### El final está donde deja de sostenerse.
+## ERROR COMÚN
 
-##### Advertencia
-###### No cortes antes de tiempo.
+- Cortar por sentido superficial  
+- Extender por intuición  
+- Ignorar cambio real de desarrollo  
+- Usar contenido como criterio principal  
 
-###### No extiendas más allá del patrón.
+👉 ❌ Incorrecto  
 
-###### 👉 El límite no es progresivo, es observable.
+##### CORRECTO
+- Verificas continuidad  
+- Te detienes cuando cambia  
+- Respetas el desarrollo completo  
 
-##### Resultado mental esperado
+## FRASE CLAVE
+> “La unidad dura mientras el desarrollo no cambia.”
+
+## QUÉ DEBES NOTAR
+
 ###### Ahora puedes ver:
-- dónde inicia una unidad real
-- dónde termina sin forzarla
-- cómo el texto se organiza naturalmente
+- dónde comienza el desarrollo  
+- dónde termina naturalmente  
+- cómo el texto se organiza en unidades completas  
 
-###### 👉 Esto prepara el paso final:
-- no decidir la unidad…
-- 👉 sino verificarla y expresarla correctamente.
+## TRANSICIÓN
+
+###### En el siguiente paso:
+👉 expresarás la acción del tronco  
+👉 usando la unidad delimitada  
+
+###### Aquí reconoces el cierre  
+###### 👉 luego expresas
 
 # PASO 13 — EXPRESAR LA ACCIÓN DEL TRONCO
 
 ## EJECUTA
 
 ##### ¿Qué haces?
-###### Escribes una <u>sola</u> oración que expresa la acción del texto usando el tronco.
+###### Escribes una sola oración que expresa la acción del tronco dentro de la unidad delimitada.
 
-##### Regla
+##### REGLA CLAVE
 
-###### Solo puedes usar:
-- el **autor**
-- un **verbo permitido**
-- el **contenido del tronco**
-- debe ser coherente con el comportamiento observado
+###### ❗ Trabajas únicamente con:
+- el tronco (Paso 8)  
+- la unidad delimitada (Paso 12)  
 
-###### ❌ No agregas <u>ideas</u>
-###### ❌ No explicas
-###### ❌ No interpretas
+👉 No usas contenido externo  
+👉 No usas interpretación  
 
-##### Cómo hacerlo
-###### Trabajas únicamente con el tronco (Paso 8).
+##### REGLA FUNDAMENTAL
 
-1. Toma el tronco completo
+###### ❗ La oración debe salir directamente del tronco
+👉 Cada elemento debe poder señalarse en las cláusulas  
+👉 No añades contenido  
+👉 No completas ideas  
+
+##### ESTRUCTURA DE LA ORACIÓN
+```
+[Autor] + [verbo permitido] + [contenido del tronco]
+```
+
+##### VERBOS PERMITIDOS
+```
+expone   afirma   declara   muestra   contrasta
+```
+
+## CÓMO HACERLO
+
+1. Toma el tronco dentro de la unidad (Paso 12)
 
 2. Léelo de principio a fin
 
-3. Haz esta pregunta:
-- 👉  ¿Qué hace el <u>autor</u> según el tronco?
+3. Recorre todas las cláusulas del tronco
+👉 No seleccionas  
+👉 Incluyes todas las acciones presentes
 
-4. Escribe una sola oración con este formato:
-- 👉 **[Autor] + [verbo permitido] + [contenido del tronco]**
+4. Construye una sola oración:
+- usando un verbo permitido  
+- manteniendo el contenido del tronco  
+- respetando la secuencia del texto  
 
-##### Resultado esperado
-###### Una sola oración clara que exprese la <u>acción</u> del texto:
-
-```
-Pablo expone que no pudo hablarles, que les dio, y que no podían.
-```
-
-## ENTIENDE
-
-##### Qué estás haciendo realmente
-###### Hasta el Paso 12 delimitaste la unidad.
-
-###### Aquí defines qué hace esa unidad completa.
-
-###### Ya no miras líneas individuales.
-- 👉 Ahora miras el movimiento total
-
-##### Principio clave
-###### El tronco contiene la acción principal del texto.
-- 👉 Todo lo demás lo <u>apoya</u>
-- 👉 Aquí lo expresas directamente
-
-##### Idea clave
-###### Estructura → cómo está construido
-
-###### Movimiento → cómo avanza
-
-###### Acción del tronco → qué hace el texto completo
-- 👉 Paso 8 te dio el tronco
-- 👉 Paso 9 te mostró comportamiento
-- 👉 Paso 13 expresa la acción final
-
-##### Pregunta guía
-###### 👉 ¿Qué hace el autor según el tronco?
-
-###### NO preguntes:
-- ¿qué significa?
-
-###### SÍ pregunta:
-- ¿qué hace?
-
-##### Definición
-###### Acción del tronco = lo que el autor hace con el contenido del tronco.
-- La acción del tronco <u>debe</u> ser coherente con el comportamiento observado (Paso 9)
-
-###### Verbos permitidos:
-• expone • afirma • contrasta • declara • muestra
-
-##### Ejemplo guiado
+## RESULTADO ESPERADO
 
 ###### Tronco:
 
 ```
-no pude ==hablarles==  
-les ==di==  
+no ==pude== hablarles
+
+les ==di==
+
 no ==podían==
 ```
 
-##### Aplicación:
+###### Resultado:
 
 ```
 Pablo expone que no pudo hablarles, que les dio, y que no podían.
 ```
 
-##### Regla importante
-###### La oración debe salir del tronco, no de ideas externas.
-- 👉 Si no está en el tronco, no <u>entra</u> en la oración
+## REGLA CRÍTICA
 
-##### Errores comunes
-- Explicar el texto
-- Agregar interpretación
-- Usar palabras que no vienen del tronco
-- Hacer más de una oración
+###### ❗ No introduces información nueva
+👉 Si no está en el tronco, no entra  
 
-- Usar frases como:
-  - “parece que”
-  - “da la idea de”
-  - “probablemente”
+###### ❗ No cambias la acción
+👉 Mantienes los verbos  
+👉 Mantienes el orden  
 
-- 👉 Esto indica interpretación, no observación
+## IMPORTANTE
 
-##### Regla de control
-###### Cada elemento de la oración debe poder señalarse en el tronco
+###### ❗ Es una sola oración
 
-###### Si explica en lugar de declarar acción:
-- 👉 Está incorrecta
+👉 No divides  
+👉 No agregas explicaciones  
 
-##### Frase clave
-###### “No expliques — declara lo que el texto hace.”
+###### ❗ No usas lenguaje interpretativo
 
-##### Qué debes notar
+❌ “esto enseña…”  
+❌ “esto significa…”  
+❌ “parece que…”  
+
+## ENTIENDE
+
+##### Qué estás haciendo realmente
+###### Estás expresando la acción completa del texto en una sola línea.
+
+##### PRINCIPIO CLAVE
+###### El tronco ya contiene la acción  
+###### 👉 aquí solo la haces explícita  
+
+##### IDEA CLAVE
+###### No creas la acción  
+###### 👉 la reproduces de forma controlada  
+
+## ERROR COMÚN
+- Agregar ideas externas  
+- Cambiar los verbos  
+- Alterar el orden  
+- Explicar en lugar de declarar  
+
+👉 ❌ Incorrecto  
+
+##### CORRECTO
+- Usas solo el tronco  
+- mantienes las acciones  
+- produces una sola oración  
+
+## FRASE CLAVE
+> “No agrego nada.  
+> Solo expreso lo que el tronco ya hace.”
+
+## REGLA DE CONTROL
+
+###### Cada parte de la oración debe poder señalarse en el tronco
+👉 Si no puedes señalarla → está incorrecta  
+
+## QUÉ DEBES NOTAR
+
 ###### Ahora puedes ver:
-- la acción principal del autor
-- el propósito del desarrollo
-- la dirección del <u>texto</u> completo
+- la acción completa del texto  
+- el desarrollo como una unidad  
+- la dirección final del pasaje  
 
-- 👉 Estás viendo el texto como una unidad completa en acción
+## TRANSICIÓN
 
-##### Qué debes entender
-###### Paso 13 no es una explicación del texto.
-###### Es una reformulación controlada del tronco.
+###### Aquí termina el proceso ROOTS
 
-##### Paso 13 ES:
-- ✔ Una reformulación controlada  
-- ✔ Una compresión trazable  
-- ✔ Un paso de verificación  
+👉 Ya tienes:
 
-##### Paso 13 NO ES:
-- ❌ Un resumen  
-- ❌ Una interpretación  
-- ❌ Una conclusión  
-- ❌ Un punto de enseñanza  
+- estructura  
+- comportamiento  
+- patrones  
+- unidad  
+- acción  
 
-##### Regla de control
-###### Si agregas algo que no puedes señalar en el tronco,
-###### ya saliste del paso.
-
-##### Transición
-###### Aquí termina la fase estructural.
-
-###### 👉 Ya tienes:
-  - estructura
-  - movimiento
-  - <u>patrones</u>
-  - unidad
-  - acción
-
-##### CONTROL FINAL
-
-##### ¿Qué haces?
-###### Verificas que la estructura identificada (H1 y H2) sea correcta.
-
-##### Regla
-###### La oración del Paso 13 debe:
-- incluir todo el desarrollo
-- no requerir añadir ideas externas
-- reflejar los movimientos observados
-
-##### Resultado
-###### Si fluye naturalmente → estructura correcta
-###### Si no fluye → revisa H2 o límites de unidad
+👉 El texto quedó completamente observado
 
 # CONCLUSIONES DE LOS PASOS 1–13
 
@@ -3322,529 +3253,340 @@ Me someto al texto.”
 ###### RO₁O₂TS no es un método para enseñar el texto.
 ###### 👉 Es un proceso para dejar que el texto hable.
 
-# EJERCICIOS — PRÁCTICA PROGRESIVA DE RO₁O₂TS
+# EJERCICIOS — PRÁCTICA REAL
 
-## INTRODUCCIÓN
+## PROPÓSITO
 
-##### Naturaleza de los ejercicios
-###### Estos ejercicios no presentan métodos diferentes.
+##### Qué vas a hacer
 
-###### 👉 Son el mismo proceso (RO₁O₂TS), aplicado en distintos niveles de práctica.
+###### Vas a ejecutar RO₁O₂TS en textos completos.
 
-##### Principio clave
-###### No aprendes partes del método.
-###### 👉 Aprendes a ejecutarlo progresivamente.
+###### 👉 No fragmentos
 
-##### Cómo avanzar
-###### Comienzas con textos simples, y avanzas hacia mayor independencia.
-###### ❗ No necesitas perfección para avanzar.
-###### 👉 Necesitas claridad y fidelidad al texto.
+###### 👉 No niveles
 
-## NIVEL 1 — MICRO RO₁O₂TS (FUNDAMENTO)
+###### 👉 No partes aisladas
 
-##### Objetivo
-###### Familiarizarte con el proceso en textos muy breves.
+👉 Texto completo → proceso completo
 
-##### Texto
+------
+
+##### Regla clave
+
+###### ❗ Solo necesitas ver una cosa:
+
+👉 **Qué pasa en Paso 10**
+
+- ¿hay patrón?
+- ¿se repite?
+- ¿se rompe?
+
+------
+
+##### Límite
+
+###### Máximo 2 ejercicios.
+
+###### 👉 Bien hechos
+
+###### 👉 No muchos
+
+------
+
+# EJERCICIO 1 — REPETICIÓN CLARA
+
+##### TEXTO — 1 Corintios 3:6–8
+
 ```
-yo planté, Apolos regó
-```
+Yo planté, Apolos regó, pero Dios daba el crecimiento.
 
-##### Ejercicio
+Así que ni el que planta ni el que riega son algo,
+sino Dios que da el crecimiento.
 
-1. Identifica los verbos
-
-2. Divide en cláusulas
-
-3. Observa cada frase (O₂)
-
-4. Traza cada frase (T)
-
-##### Formato
-
-```
-Frase:
-__________
-
-Observación:
-- sujeto:
-- verbo:
-
-Trazado:
-__________
-```
-
-##### Enfoque
-- reconocer acciones
-- identificar sujetos
-- expresar con claridad
-
-## NIVEL 2 — RO₁O₂TS PARCIAL (CONTROL)
-
-##### Objetivo
-###### Seguir el proceso con textos breves.
-
-##### Texto
-```
-yo planté, Apolos regó, pero Dios daba el crecimiento.
+El que planta y el que riega son una misma cosa,
+pero cada uno recibirá su propia recompensa conforme a su labor.
 ```
 
-##### Ejercicio
+------
 
-1. Pasos 1–5 (estructura básica)
+## EJECUTA
 
+1. Pasos 1–7 normalmente
 2. Identifica el tronco (Paso 8)
+3. Marca:
+   - [S]
+   - [M]
+   - etiquetas (Paso 9)
+4. Llega a Paso 10
 
-3. Observa cada frase (O₂)
+------
 
-4. Traza cada frase (T)
+## ENFOQUE
 
-##### Formato
+##### Qué debes ver
 
-```
-Frase:
-__________
- 
-Observación:
-__________
- 
-Trazado:
-__________
-```
-
-##### Enfoque
-- contraste (“pero”)
-- continuidad
-- orden del texto
-
-## NIVEL 3 — RO₁O₂TS CON RELACIÓN
-
-##### Objetivo
-###### Reconocer relaciones dentro del texto.
-
-##### Texto
-```
-ni el que planta es algo, ni el que riega, sino Dios que da el crecimiento.
-```
-
-##### Ejercicio
-
-1. Pasos 1–8
-
-2. Identifica relaciones (contraste, repetición)
-
-3. Observa (O₂)
-
-4. Traza (T)
-
-##### Enfoque
-- contraste
-- repetición
-- dependencia
-
-## NIVEL 4 — RO₁O₂TS COMPLETO (GUIADO)
-
-##### Objetivo
-###### Ejecutar el proceso completo con apoyo.
-
-##### Texto
-```
-Así que ni el que planta ni el que riega son algo, sino Dios que da el crecimiento.
-```
-
-##### Ejercicio
-
-1. Pasos 1–13
-
-2. Se te proporciona:
-
-```
-H1: ________
-H2: ________
-```
-
-3. Observa cada frase (O₂)
-
-4. Traza cada frase (T)
-
-5. Sométete al texto (S)
-
-##### Formato
-
-```
-Frase:
-__________
- 
-Observación:
-__________
-
-Trazado:
-__________
-
-Afirmación mantenida:
-__________
-```
-
-##### Enfoque
-- flujo completo
-- fidelidad
-- control del proceso
-
-## NIVEL 5 — RO₁O₂TS COMPLETO (INDEPENDIENTE)
-
-##### Objetivo
-###### Ejecutar todo el proceso sin ayuda.
-
-##### Texto
-```
-Porque somos colaboradores de Dios, y ustedes son labranza de Dios, edificio de Dios.
-```
-
-##### Ejercicio
-
-1. Ejecuta Pasos 1–13
-
-2. Establece:
-- H1
-- H2
-- contexto
-
-3. Observa cada frase (O₂)
-
-4. Traza cada frase (T)
-
-5. Sométete al texto (S)
-
-##### Resultado esperado
-
-###### Un trabajo completo:
-- estructurado
-- observado
-- expresado
-- mantenido
-
-## NIVEL 6 — CONTROL DE FIDELIDAD (S)
-
-##### Objetivo
-###### Detectar alteraciones del texto.
-
-##### Texto
-```
-ni el que planta es algo, ni el que riega, sino Dios que da el crecimiento.
-```
-
-##### Ejercicio
-###### Indica cuál es fiel al texto:
-
-##### Opción A
-```
-Los que trabajan no son importantes, solo Dios.
-```
-
-##### Opción B
-```
-Ni el que planta es algo, ni el que riega, sino Dios que da el crecimiento.
-```
-
-##### Opción C
-```
-Dios es más importante que los que trabajan.
-```
-
-##### Enfoque
-- detectar reducción
-- detectar interpretación
-- mantener afirmación
-
-## NIVEL 7 — PRODUCCIÓN COMPLETA
-
-##### Objetivo
-###### Ejecutar el proceso completo con claridad y precisión.
-
-##### Texto
-```
-Porque nadie puede poner otro fundamento que el que está puesto, el cual es Jesucristo.
-```
-
-##### Ejercicio
-
-1. Ejecuta RO₁O₂TS completo
-
-2. Presenta:
-- estructura
-- observación
-- trazado
-- sometimiento
-
-##### Resultado esperado
-###### Un trabajo listo para ser enseñado.
-
-# CIERRE DE LOS EJERCICIOS
-
-##### Qué estás desarrollando
-###### A través de estos ejercicios estás formando la capacidad de:
-
-- ver el texto con precisión
-- seguir su desarrollo
-- expresarlo correctamente
-- mantenerlo sin alterarlo
-
-##### Principio final
-###### La meta no es completar ejercicios.
-
-###### 👉 Es poder trabajar cualquier texto correctamente.
-
-##### Frase clave final
-> “Veo el texto, lo digo correctamente y no lo cambio.”
-
-# EJEMPLOS COMPLETADOS 
-## 1 CORINTIOS 3:6
-
-##### TEXTO
-```
-Yo planté, Apolos regó, pero Dios daba el crecimiento.
-```
-
-##### PASO 1 — TEXTO
-```
-Yo planté, Apolos regó, pero Dios daba el crecimiento.
-```
-
-##### PASO 2 — VERBOS FINITOS
-```
-Yo ==planté==, Apolos ==regó==, pero Dios ==daba== el crecimiento.
-```
-
-##### PASO 3 — CLÁUSULAS
-```
-Yo ==planté==
-
-Apolos ==regó==
-
-pero Dios ==daba== el crecimiento
-```
-
-##### PASO 4 — CONECTORES
-```
-Yo ==planté==
-
-Apolos ==regó==
-
-(pero) Dios ==daba== el crecimiento
-```
-
-##### PASO 5 — ESTRUCTURA
-```
-Yo ==planté==
-
-Apolos ==regó==
-
-(pero) Dios ==daba== el crecimiento
-```
-
-##### PASO 6 — USAR EL CONECTOR
-```
-(pero) Dios ==daba== el crecimiento
-`¿qué contrasta? → planté/regó pero Dios daba`
-```
-
-##### PASO 7 — REDUCCIÓN
-```
-yo ==planté==
-
-Apolos ==regó==
-
-(pero) Dios ==daba==
-```
-
-##### PASO 8 — TRONCO + O1
-```
-[S→] yo
-yo ==planté==
-
-[S→] Apolos
-Apolos ==regó==
-
-[S→] Dios
-Dios ==daba==
-```
-
-###### PASO 9 — COMPORTAMIENTO
-```
-::EXPONE::
-yo planté
-
-::EXPONE::
-Apolos regó
-
-::CONTRASTE::
-Dios daba
-```
-
-##### PASO 10 — PATRÓN
-```
-EXPONE
-EXPONE
-CONTRASTE
-```
-No hay patrón repetido claro.
+- repetición de ideas
+- contraste con Dios
+- continuidad del tema
 
-##### PASO 11 — SEGUIR O DETENERSE
-No aplica (no hay patrón).
-
-##### PASO 12 — UNIDAD
-Unidad:
-```
-1 Corintios 3:6
-```
+👉 Este texto **sí tiene patrón claro**
 
-##### PASO 13 — ACCIÓN DEL TRONCO
-```
-Pablo contrasta que él plantó, Apolos regó, y Dios daba.
-```
+------
 
-### CONCLUSIONES
+# EJERCICIO 2 — PROGRESIÓN CLARA
 
-##### H1
-```
-1 Corintios 3:6  
-Pablo contrasta las acciones humanas con la acción de Dios.
-```
+##### TEXTO — Colosenses 1:9–12
 
-##### H2
 ```
-3:6a   Acción de Pablo  
-3:6b   Acción de Apolos  
-3:6c   Acción de Dios
-```
+Por esta razón también nosotros, desde el día que lo supimos,
+no hemos cesado de orar por ustedes
 
-##### O₂ — OBSERVACIÓN
+y de pedir que sean llenos del conocimiento de su voluntad
 
-##### FRASE
-```
-pero Dios daba el crecimiento
-```
+en toda sabiduría y comprensión espiritual,
 
-- afirma: Dios daba el crecimiento
-- sujeto: Dios
-- verbo: daba
-- contraste: pero
-- relación: oposición con acciones anteriores
+para que anden como es digno del Señor,
 
-##### T — TRAZAR
-```
-Dios daba el crecimiento en contraste con las acciones anteriores.
-```
+agradándole en todo,
 
-##### S — SOMETERSE
-```
-Dios daba el crecimiento.
-```
+dando fruto en toda buena obra
 
-## EJEMPLO 2 — GÁLATAS 2:16 (PARTE SIMPLE)
+y creciendo en el conocimiento de Dios;
 
-##### TEXTO
-```
-sabiendo que el hombre no es justificado por las obras de la ley, sino por la fe en Cristo Jesús
-```
+fortalecidos con todo poder
 
-###### PASO 1 — TEXTO
-```
-sabiendo que el hombre no es justificado por las obras de la ley, sino por la fe en Cristo Jesús
-```
+según la potencia de su gloria,
 
-##### PASO 2 — VERBOS FINITOS
-```
-el hombre no ==es justificado== por las obras de la ley, sino por la fe en Cristo Jesús
-```
+para obtener toda perseverancia y paciencia,
 
-##### PASO 3 — CLÁUSULAS
+con gozo dando gracias al Padre.
 ```
-el hombre no ==es justificado== por las obras de la ley, sino por la fe en Cristo Jesús
-```
 
-##### PASO 4 — CONECTORES
-(no hay conector entre cláusulas con verbo finito)
-
-##### PASO 5 — ESTRUCTURA
-```
-el hombre no ==es justificado== por las obras de la ley, sino por la fe en Cristo Jesús
-```
+------
 
-##### PASO 6 — USAR EL CONECTOR
-(no aplica)
+## EJECUTA
 
-##### PASO 7 — REDUCCIÓN
-```
-el hombre no ==es justificado==
-```
+1. Pasos 1–7
+2. Paso 8 → tronco
+3. Paso 9 → etiquetas
+4. Paso 10 → patrón
 
-##### PASO 8 — TRONCO + O1
-```
-[S→] el hombre
-el hombre no ==es justificado==
-```
+------
 
-##### PASO 9 — COMPORTAMIENTO
-```
-::EXPONE::
-el hombre no es justificado
-```
+## ENFOQUE
 
-##### PASO 10 — PATRÓN
-No hay patrón.
+##### Qué debes ver
 
-##### PASO 11 — SEGUIR O DETENERSE
-No aplica.
+- desarrollo progresivo
+- encadenamiento
+- avance continuo
 
-##### PASO 12 — UNIDAD
+👉 Este texto **no repite → avanza**
 
-Unidad:
-```
-Gálatas 2:16 (segmento)
-```
+------
 
-##### PASO 13 — ACCIÓN DEL TRONCO
-```
-Pablo afirma que el hombre no es justificado.
-```
+# ⚠️ REGLA FINAL
 
-### CONCLUSIONES
+##### Si no ves Paso 10
 
-##### H1
-```
-Gálatas 2:16  
-Pablo afirma la no justificación del hombre por obras.
-```
+###### 👉 no hiciste bien Paso 8–9
 
-##### H2
-```
-2:16a   Negación  
-2:16b   Contraste (implícito en “sino”)
-```
+------
 
-##### O₂ — OBSERVACIÓN
+- # RESPUESTAS — CORREGIDO
 
-##### FRASE
-```
-no es justificado
-```
+  ------
 
-- afirma: no es justificado
-- sujeto: el hombre
-- verbo: es justificado
-- negación: no
-- énfasis: negación directa
+  # RESPUESTA 1 — 1 Corintios 3:6–8
 
-##### T — TRAZAR
-```
-El hombre no es justificado.
-```
+  ## PASO 8 — TRONCO
 
-##### S — SOMETERSE
-```
-El hombre no es justificado.
-```
+  ```
+  [S: yo → Apolos]
+  Apolos ==regó==
+  
+  [S: Apolos → Dios]
+  (pero) Dios ==daba==
+  
+  [S: Dios → ellos]
+  no ==son== algo
+  
+  [S: ellos → Dios]
+  (sino) Dios ==da==
+  
+  [S: Dios → ellos]
+  ==son== una misma cosa
+  
+  [S: ellos → cada uno]
+  (pero) cada uno ==recibirá==
+  ```
+
+  👉 No [M] (no cambio estructural verificable en griego)
+
+  ------
+
+  ## PASO 9 — COMPORTAMIENTO
+
+  ```
+  ::EXPONE::
+  Apolos ==regó==
+  
+  ::CONTRASTE::
+  Dios ==daba==
+  
+  ::RAZÓN::
+  no ==son== algo
+  
+  ::CONTRASTE::
+  Dios ==da==
+  
+  ::EXPONE::
+  ==son== una misma cosa
+  
+  ::CONTRASTE::
+  cada uno ==recibirá==
+  ```
+
+  ------
+
+  ## PASO 10 — SECCIONES
+
+  ```
+  [ SECCIÓN 1 ]
+  
+  ::EXPONE::
+  Apolos ==regó==
+  
+  ::CONTRASTE::
+  Dios ==daba==
+  
+  ::RAZÓN::
+  no ==son== algo
+  
+  ::CONTRASTE::
+  Dios ==da==
+  
+  ::EXPONE::
+  ==son== una misma cosa
+  
+  ::CONTRASTE::
+  cada uno ==recibirá==
+  ```
+
+  👉 ❗ No hay [M]
+   👉 ❗ Todo es UNA sola sección
+
+  ------
+
+  ## RESULTADO CLAVE
+
+  👉 El estudiante debe ver:
+
+  - continuidad (no ruptura)
+  - contraste repetido
+  - pero SIN división estructural
+
+  ------
+
+  # RESPUESTA 2 — Colosenses 1:9–12
+
+  ## PASO 8 — TRONCO
+
+  ```
+  [S: nosotros]
+  no ==hemos cesado==
+  
+  [S: nosotros → ustedes]
+  ==sean llenos==
+  
+  ==anden==
+  
+  ==agraden==
+  
+  ==den fruto==
+  
+  ==crezcan==
+  
+  ==sean fortalecidos==
+  
+  ==obtengan==
+  
+  ==den gracias==
+  ```
+
+  👉 No [M]
+   👉 Todo depende de estructura continua
+
+  ------
+
+  ## PASO 9 — COMPORTAMIENTO
+
+  ```
+  ::EXPONE::
+  no ==hemos cesado==
+  
+  ::RAZÓN::
+  ==sean llenos==
+  
+  ::RESULTADO::
+  ==anden==
+  
+  ::RESULTADO::
+  ==agraden==
+  
+  ::RESULTADO::
+  ==den fruto==
+  
+  ::RESULTADO::
+  ==crezcan==
+  
+  ::RESULTADO::
+  ==sean fortalecidos==
+  
+  ::RESULTADO::
+  ==obtengan==
+  
+  ::RESULTADO::
+  ==den gracias==
+  ```
+
+  ------
+
+  ## PASO 10 — SECCIONES
+
+  ```
+  [ SECCIÓN 1 ]
+  
+  ::EXPONE::
+  no ==hemos cesado==
+  
+  ::RAZÓN::
+  ==sean llenos==
+  
+  ::RESULTADO::
+  ==anden==
+  
+  ::RESULTADO::
+  ==agraden==
+  
+  ::RESULTADO::
+  ==den fruto==
+  
+  ::RESULTADO::
+  ==crezcan==
+  
+  ::RESULTADO::
+  ==sean fortalecidos==
+  
+  ::RESULTADO::
+  ==obtengan==
+  
+  ::RESULTADO::
+  ==den gracias==
+  ```
+
+  👉 ❗ No hay [M]
+   👉 ❗ Una sola sección continua
 
 # GLOSARIO BÁSICO
 
