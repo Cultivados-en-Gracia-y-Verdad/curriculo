@@ -37,6 +37,8 @@
   </url><url>
     <loc>http://localhost:1313/roots/file-creation-process/</loc>
   </url><url>
+    <loc>http://localhost:1313/roots/mna/current-state/</loc>
+  </url><url>
     <loc>http://localhost:1313/roots/mna/data/1corintios/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/mna/data/1corintios.p2/</loc>
@@ -140,8 +142,6 @@
     <loc>http://localhost:1313/roots/sblgnt/morphgnt/readme/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/sblgnt/santiago/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/scripts/readme/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/step1-output/1corintios.out/</loc>
   </url><url>
