@@ -583,13 +583,14 @@ V-XXXXX
 ###### Ejemplo:
 
 ####### Griego:
+
 ```
 ἀντέστην
 ```
 
 ###### Español:
 ```
-me ==opuse==
+==me opuse==
 ```
 
 ###### Griego:
@@ -599,15 +600,13 @@ me ==opuse==
 
 ###### Español:
 ```
-he sido ==crucificado==
+==he sido crucificado==
 ```
 
 ##### RESULTADO ESPERADO
 
 ```
-  Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.  
-  Les ==di== a beber leche, no alimento sólido, porque todavía no ==podían== recibirlo.  
-  En verdad, ni aun ahora ==pueden==.
+  Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo. Les ==di a beber== leche, no alimento sólido, porque todavía no ==podían== recibirlo. En verdad, ni aun ahora ==pueden==.
 ```
 
 ## ENTIENDE
@@ -645,14 +644,14 @@ he sido ==crucificado==
 
 ```
 Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.  
-Les ==di== a beber leche, no alimento sólido, porque todavía no ==podían== recibirlo.  
+Les ==di a beber== leche, no alimento sólido, porque todavía no ==podían== recibirlo.  
 En verdad, ni aun ahora ==pueden==.
 ```
 
 ##### Observación:
 - “hablar” → ❌ no es finito en griego
 - “recibir” → ❌ no es finito en griego
-- ==pude==, ==di==, ==podían==, ==pueden== → ✔ corresponden a verbos finitos griegos
+- ==pude==, ==di a beber==, ==podían==, ==pueden== → ✔ corresponden a verbos finitos griegos
 
 ##### REGLA IMPORTANTE
 ###### Las formas que no tienen persona en el griego:
@@ -788,9 +787,9 @@ Cada línea debe contener:
 ## EJEMPLO
 
 ```
-==pude== hablarles como a espirituales
+==pude== hablarles como a espirituales sino como a carnales, como a niños en Cristo
 
-==di== a beber leche
+==di a beber== leche
 
 ==podían== recibirlo
 
@@ -843,10 +842,10 @@ Cada línea debe contener:
 
 ##### EJEMPLO CLAVE
 ```
-==di== a beber leche
+==di a beber== leche
 ```
 
-- ==di== → verbo finito ✔  
+- ==di a beber== → verbo finito ✔  
 - “a beber” → infinitivo ❌  
 
 👉 Sigue siendo **una sola cláusula**
@@ -992,6 +991,8 @@ ni aun ahora pueden
 Resultado:
 
 ```
+==pude=
+
 [sino] como a carnales
 
 (porque) todavía no podían recibirlo
@@ -1079,7 +1080,7 @@ Resultado:
 2. Toma los conectores del Paso 4
 
 3. Para cada conector:
-   a) Identifica la cláusula B (la que introduce)  
+   a) Identifica la cláusula B (la que introduce el conector)  
    b) Insértalo al inicio de esa cláusula  
    c) Prueba:
 
@@ -1103,7 +1104,9 @@ Luego:
 
 Cláusulas (Paso 3):
 ```
-==di== a beber leche
+==pude==
+
+==di a beber== leche
 
 ==podían== recibirlo
 
@@ -1118,7 +1121,7 @@ Conectores (Paso 4):
 
 Paso 5:
 ```
-==di== a beber leche
+==di a beber== leche
 
 (porque) ==podían== recibirlo
 
@@ -1127,8 +1130,9 @@ Paso 5:
 
 Prueba:
 ```
+A <- (conector) -> B 
 (porque) + ==podían== recibirlo → ¿hay A?
-✔ Sí → ==di== a beber leche
+✔ Sí → ==di a beber== leche
 
 [pero] + ==pueden== → ¿hay A?
 ✔ Sí → ==podían== recibirlo
@@ -1136,7 +1140,7 @@ Prueba:
 
 Resultado:
 ```
-==di== a beber leche
+==di a beber== leche
 
 (porque) ==podían== recibirlo
 
@@ -1228,7 +1232,7 @@ Luego:
 
 - Partes de las cláusulas  
 - Insertas conectores en B  
-- Pruebas A–B  
+- Pruebas B - A
 - Conservas o eliminas  
 
 ## FRASE CLAVE
@@ -1306,7 +1310,7 @@ A
 Paso 5:
 
 ```
-==di== a beber leche
+==di a beber== leche
 
 (porque) ==podían== recibirlo
 
@@ -1317,8 +1321,8 @@ Paso 6:
 
 
 ==di== a beber leche
-(porque) ==podían== recibirlo
-[pero] ==pueden==
+		(porque) ==podían== recibirlo
+		[pero] ==pueden==
 ```
 
 ## REGLA OPERATIVA
@@ -1464,18 +1468,18 @@ no ==pude== hablarles como a espirituales
 ==di== a beber leche
     (porque) no ==podían== recibirlo
 
-[pero] ni aun ahora ==pueden==
+		[pero] ni aun ahora ==pueden==
 ```
 
 ###### Después (Paso 7):
 
 ```text
-no ==pude== hablarles
+no ==pude== hablarles como a espirituales
 
 ==di== a beber leche
     (porque) no ==podían== recibirlo
 
-[pero] ==pueden==
+		[pero] ==pueden==
 ```
 
 ## ENTIENDE
@@ -1501,10 +1505,10 @@ no ==pude== hablarles
 ##### EJEMPLO CLAVE
 
 ```text
-==di== a beber leche
+==di a beber== leche
 ```
 
-- ==di== → verbo finito
+- ==di a beber== → verbo finito
 - “a beber leche” → completa la acción
 
 👉 No se reduce a:
@@ -1612,7 +1616,7 @@ no ==pude== hablarles
 ```
 no ==pude== hablarles
 
-yo ==di==
+yo ==di a beber==
     (porque) no ==podían==
 
 ni aun ahora ==pueden==
@@ -1623,9 +1627,8 @@ ni aun ahora ==pueden==
 ```
 no ==pude== hablarles
 
-yo ==di==
+yo ==di a beber==
 
-ni aun ahora ==pueden==
 ```
 
 # OBSERVACIÓN INTEGRADA
