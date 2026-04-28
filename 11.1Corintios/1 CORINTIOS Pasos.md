@@ -49,11 +49,11 @@ Pero por obra Suya ==están== ustedes en Cristo Jesús,
 el cual ==se hizo== para nosotros sabiduría de Dios, y justificación, santificación y redención, 
 para que, tal como ==está escrito==: 
 «El que se gloría, que ==se gloríe== en el Señor». 
-Por eso, cuando fui a ustedes, hermanos, proclamándoles el testimonio de Dios, 
-no fui con superioridad de palabra o de sabiduría. 
-Porque nada me propuse saber entre ustedes excepto a Jesucristo, y Este crucificado. 
-Estuve entre ustedes con debilidad y con temor y mucho temblor, y mi mensaje y mi predicación no fueron con palabras persuasivas de sabiduría, sino con demostración del Espíritu y de poder, 
-para que la fe de ustedes no descanse en la sabiduría de los hombres, sino en el poder de Dios. 
+Por eso, cuando ==fui== a ustedes, hermanos, proclamándoles el testimonio de Dios, 
+no ==fui== con superioridad de palabra o de sabiduría. 
+Porque nada me ==propuse== saber entre ustedes excepto a Jesucristo, y Este crucificado. 
+==Estuve== entre ustedes con debilidad y con temor y mucho temblor, y mi mensaje y mi predicación no fueron con palabras persuasivas de sabiduría, sino con demostración del Espíritu y de poder, 
+para que la fe de ustedes no ==descanse== en la sabiduría de los hombres, sino en el poder de Dios. 
 Sin embargo, hablamos sabiduría entre los que han alcanzado madurez; pero una sabiduría no de este siglo, ni de los gobernantes de este siglo, que van desapareciendo, 
 sino que hablamos sabiduría de Dios en misterio, 
 la *sabiduría* oculta que, desde antes de los siglos, Dios predestinó para nuestra gloria. 
