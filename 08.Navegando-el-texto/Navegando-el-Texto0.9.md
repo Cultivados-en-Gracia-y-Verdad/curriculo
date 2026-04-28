@@ -1052,206 +1052,99 @@ Resultado:
 ###### Aquí no decides  
 ###### 👉 solo identificas
 
-# PASO 5 — CONECTOR + "B" → BUSCAR "A"
+# PASO 5 — CONECTOR + B → DEFINIR A
 
 ## EJECUTA
 
 ##### ¿Qué haces?
-###### Tomas las cláusulas del Paso 3, insertas en ellas los conectores del Paso 4 que introducen B, y verificas si cada conector realmente une esa cláusula con una A.
 
-##### REGLA CLAVE
+###### Tomas cada conector y verificas si realmente conecta dos cláusulas.
 
-###### ❗ Todo comienza con las cláusulas del Paso 3
+## REGLA CLAVE
 
-👉 Solo trabajas con cláusulas reales (verbos finitos griegos)  
-👉 No creas cláusulas nuevas  
-👉 No usas verbos añadidos por el español  
+> ❗ Un conector solo se usa si tiene un verbo finito a la derecha
 
-##### ESENCIA DEL PASO
+👉 Si no hay verbo a la derecha → el conector se elimina
+ 👉 No intentas forzar una conexión
 
-###### 1) Insertas el conector en su cláusula B  
-###### 2) Pruebas: conector + B → ¿hay A?
+## DEFINICIÓN OPERATIVA
+
+Para cada conector:
+
+### 1. Identifica B
+
+> ❗ B = el primer verbo finito a la derecha
+
+- Si existe → continúa
+- Si no existe → ❌ elimina el conector
+
+### 2. Define A
+
+> ❗ Si hay B, entonces A queda definido automáticamente
+
+👉 **A = el verbo finito inmediatamente anterior**
+
+- No se salta verbos
+- No se decide
+- No se interpreta
+
+## FORMATO
+
+```
+A ← conector → B
+```
 
 ## CÓMO HACERLO
 
-1. Toma las cláusulas del Paso 3
+1. Marca todos los conectores (Paso 4)
+2. Toma uno a la vez
+3. Mira a la derecha:
+   - ¿hay verbo finito?
+     - ❌ no → elimina el conector
+     - ✔ sí → ese es B
+4. Marca A:
+   - verbo finito inmediatamente anterior
 
-2. Toma los conectores del Paso 4
+## EJEMPLOS
 
-3. Para cada conector:
-   a) Identifica la cláusula B (la que introduce)  
-   b) Insértalo al inicio de esa cláusula  
-   c) Prueba:
+### ✔ Válido
 
-   👉 **conector + B → ¿hay A?**
-
-4. Decide:
-- ✔ Sí hay A → el conector se conserva  
-- ❌ No hay A → el conector se elimina  
-
-## FORMATO
 ```
-(conector) cláusula B
+di ← porque → podían
 ```
 
-Luego:
+- B existe ✔
+- A es el verbo anterior ✔
+
+### ❌ Eliminado
+
 ```
-(conector) + B → ¿A?
-```
-
-## EJEMPLO
-
-Cláusulas (Paso 3):
-```
-==di== a beber leche
-
-==podían== recibirlo
-
-==pueden==
+pude ← sino → —
 ```
 
-Conectores (Paso 4):
-```
-(porque)
-[pero]
-```
+- no hay verbo a la derecha
+   → ❌ se elimina
 
-Paso 5:
-```
-==di== a beber leche
+## RESULTADO ESPERADO
 
-(porque) ==podían== recibirlo
+###### Solo permanecen conectores que unen dos verbos finitos
 
-[pero] ==pueden==
-```
+👉 Todos los demás se eliminan
+ 👉 No hay ambigüedad
 
-Prueba:
-```
-(porque) + ==podían== recibirlo → ¿hay A?
-✔ Sí → ==di== a beber leche
+## REGLAS CRÍTICAS
 
-[pero] + ==pueden== → ¿hay A?
-✔ Sí → ==podían== recibirlo
-```
+- ❗ No usas significado
+- ❗ No usas “suena bien”
+- ❗ No decides entre opciones
+- ❗ No interpretas
 
-Resultado:
-```
-==di== a beber leche
-
-(porque) ==podían== recibirlo
-
-[pero] ==pueden==
-```
-
-## EJEMPLO CLAVE (SIN B REAL)
-
-Texto NBLA:
-```
-porque la justicia viene por medio de la ley
-```
-
-Griego:
-```
-εἰ γὰρ διὰ νόμου δικαιοσύνη
-```
-
-👉 No hay verbo finito griego  
-👉 No hay cláusula en Paso 3  
-
-Resultado:
-```
-❌ (porque) → no se inserta (no hay B)
-```
-
-👉 No hay B → no se busca A → no entra en la estructura  
-
-## REGLA OPERATIVA
-
-###### ❗ El conector siempre entra por la cláusula B
-
-👉 Nunca se coloca en A  
-👉 Nunca queda suelto  
-👉 Nunca se evalúa sin B  
-
-## CASOS DIFÍCILES
-
-##### Cuando el conector no está cerca
-
-👉 No importa la distancia  
-👉 No importa la puntuación  
-
-###### Pregunta única:
-👉 ¿Qué cláusula del Paso 3 es B?
-
-Luego:
-👉 conector + B → ¿hay A?
-
-##### Cuando no es claro
-
-👉 Igual haces la prueba  
-
-❗ No decides por sentido  
-❗ No completas mentalmente  
-
-## IMPORTANTE
-
-###### ❗ Este paso filtra los conectores reales
-
-👉 Solo permanecen los que unen A–B  
-👉 Los demás se eliminan  
-
-## ENTIENDE
-
-##### Qué estás haciendo realmente
-###### Estás conectando cláusulas reales y eliminando relaciones falsas.
-
-##### PRINCIPIO CLAVE
-###### Un conector solo entra en la estructura si une B con una A real.
-
-##### IDEA CLAVE
-###### No preguntas:
-👉 “¿Qué significa?”
-
-###### Preguntas:
-👉 “¿Conector + B encuentra A?”
-
-##### ERROR COMÚN
-
-- No partir de las cláusulas del Paso 3  
-- Asignar conectores sin B  
-- No hacer la prueba A–B  
-- Conservar conectores por intuición  
-
-👉 ❌ Incorrecto
-
-##### CORRECTO
-
-- Partes de las cláusulas  
-- Insertas conectores en B  
-- Pruebas A–B  
-- Conservas o eliminas  
+👉 Solo verificas si hay B
 
 ## FRASE CLAVE
-> “Inserto el conector en B, y pregunto: ¿hay A?”
 
-## QUÉ DEBES NOTAR
-
-###### Cuando haces bien este paso:
-
-- solo quedan relaciones reales  
-- desaparecen conexiones falsas  
-- el texto queda listo para estructura  
-
-## TRANSICIÓN
-
-###### En el siguiente paso:
-
-- 👉 usarás las conexiones A–B confirmadas  
-- 👉 organizarás las cláusulas  
-- 👉 verás la estructura del texto  
-
-###### Aquí conectas  
-###### 👉 luego estructuras
+> ❗ “Si hay B, hay conexión.
+>  Si no hay B, no hay conector.”
 
 # PASO 6 — MOSTRAR LA ESTRUCTURA
 
@@ -1290,7 +1183,7 @@ Luego:
 3. Organiza así:
 - Coloca A en la línea principal  
 - Coloca B debajo de A  
-- Indenta B  
+- Tabula B  
 - Mantén el conector en B  
 
 ## FORMATO
@@ -1325,7 +1218,7 @@ Paso 6:
 
 ###### ❗ La cláusula B siempre se coloca debajo de su A
 👉 Porque depende de ella  
-👉 Por eso se indenta  
+👉 Por eso se Tabula  
 
 ###### ❗ Cada cláusula aparece una sola vez
 👉 Si una cláusula es A de otra relación,
@@ -1373,7 +1266,7 @@ Paso 6:
 
 - Tomas las conexiones del Paso 5  
 - Colocas B debajo de A  
-- Indentas  
+- Tabulas  
 - Mantienes el conector  
 
 ## FRASE CLAVE
@@ -1519,7 +1412,7 @@ no ==pude== hablarles
 - Reducir demasiado
 - quitar partes que completan la acción
 - eliminar conectores
-- alterar la indentación o la relación visual del Paso 6
+- alterar la tabulación o la relación visual del Paso 6
 
 👉 ❌ Incorrecto
 
@@ -1633,16 +1526,117 @@ ni aun ahora ==pueden==
 ## 1. SUJETO
 
 ###### Mientras identificas el tronco, marcas cambios de sujeto
-- Marca solo cuando el sujeto cambia
-- Debe ser visible en la cláusula
-- No explicas
-- No interpretas
 
-Formato:
+## 🔒 PRINCIPIO CLAVE
+
+> ❗ El sujeto se identifica a partir de la morfología del verbo griego
+>  ❗ No se deduce del español
+>  ❗ No se interpreta
+
+## 🔍 ¿QUÉ BUSCAS?
+
+👉 Cambios visibles en el **sujeto gramatical** de cada cláusula
+
+## 🧠 CÓMO IDENTIFICAR EL SUJETO
+
+### 1. El verbo finito define el sujeto
+
+> ❗ El verbo contiene:
+
+- persona
+- número
+
+Esto determina el sujeto básico.
+
+### Ejemplo:
+
+```
+λέγομεν → 1P → nosotros
+λέγεις → 2S → tú
+λέγει → 3S → él / ella / eso
+```
+
+## 2. Si hay sujeto explícito
+
+👉 El sustantivo/pronombre confirma o reemplaza la forma del verbo
+
+```
+ὁ θεός λέγει
+```
+
+→ sujeto = ὁ θεός (no solo “3S”)
+
+## 3. Si NO hay sujeto explícito
+
+👉 El sujeto es el que indica el verbo
+
+```
+λέγει
+```
+
+→ sujeto = “él / ella / eso” (3S)
+
+## 🔁 DETECTAR CAMBIO DE SUJETO
+
+Comparas cláusula por cláusula:
+
+### ✔ Hay cambio cuando:
+
+- cambia la persona (1 → 2 → 3)
+- cambia el número (singular ↔ plural)
+- aparece un nuevo sujeto explícito
+- desaparece el sujeto explícito y cambia la referencia
+
+### ❌ No hay cambio cuando:
+
+- el verbo mantiene misma persona y número
+- el sujeto implícito sigue siendo el mismo
+- el sujeto explícito es el mismo
+
+## 📌 FORMATO
 
 ```
 [S: sujeto anterior → sujeto nuevo]
 ```
+
+## 🧩 EJEMPLO
+
+```
+λέγομεν ... καὶ λέγετε ...
+```
+
+→ 1P → 2P
+
+```
+[S: nosotros → ustedes]
+```
+
+## 🧩 OTRO EJEMPLO
+
+```
+ὁ θεὸς λέγει ... καὶ ἐνεργεῖ ...
+```
+
+→ ambos 3S
+ → mismo sujeto (ὁ θεός)
+
+❌ no marcas cambio
+
+## ⚠️ REGLAS CRÍTICAS
+
+- ❗ No decides por contexto
+- ❗ No decides por significado
+- ❗ No decides por “parece que”
+
+👉 Solo marcas lo que el verbo y el texto muestran
+
+## 🔒 RESUMEN OPERATIVO
+
+1. Identifica el verbo finito
+2. Extrae persona y número
+3. Identifica sujeto (explícito o implícito)
+4. Compara con la cláusula anterior
+5. Marca solo si hay cambio visible
 
 ## 2. MOVIMIENTO [M] (OBJETIVO — BASADO EN GRIEGO)
 
@@ -1698,14 +1692,11 @@ Marca [M] si puedes señalar:
 
 # LO QUE NO PRODUCE [M]
 
-###### ❗ Nunca marques [M] por:
 - cambio de sujeto
 - contraste (pero / ἀλλά / δέ)
 - nueva ilustración
 - repetición
 - progreso del argumento
-
-👉 Todo esto ocurre dentro del mismo movimiento
 
 # PRUEBA MECÁNICA (OBLIGATORIA)
 
@@ -1865,14 +1856,14 @@ cláusula [M] (si existe)
 ## RESULTADO ESPERADO
 
 ```
-::EXPONE::
+::EXPONE:: 
 yo ==pude== hablarles
 
 ::EXPONE::
 yo ==di== a beber leche
 
 [S: yo → ellos]
-::RAZÓN::
+RAZÓN
 no ==podían== recibirlo
 
 ::EXPONE::
@@ -1880,7 +1871,7 @@ ni aun ahora ==pueden==
 
 ## EJEMPLO CON [M]
 
-::AFIRMACIÓN::
+::EXPONE::
 no ==hago== nula la gracia [M]
 ```
 
@@ -2699,7 +2690,7 @@ Referencia   Título
 
 ```
 Frase:
-yo ==di== leche
+yo di leche
 
 Observación:
 - sujeto: yo

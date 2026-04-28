@@ -1,22 +1,39 @@
 ```
-# MORPH-NBLA ALIGNMENT (MNA)
+# MNA — Morph-NBLA Alignment
+
+MNA is a reference project that creates a strict, token-level alignment between:
+
+- SBLGNT (Greek text)
+- MorphGNT (morphology)
+- NBLA (Spanish translation)
+- OSHB (Hebrew, future phase)
+
+This is the **base layer** for all downstream systems.
+
+It is:
+
+- not a commentary tool  
+- not a ROOTS dataset  
+- not interpretive  
+
+It is a **structural alignment system**.
+
+---
 
 ## PURPOSE
 
-This project creates a strict, token-level alignment between:
+The goal is to align **every Greek token** to its corresponding expression in NBLA.
 
-- MorphGNT (Greek + morphology)
-- NBLA (Spanish translation)
+This produces a dataset that enables:
 
-The goal is to produce an objective source layer for:
-
-- ROOTS dataset
+- morphology tagging
 - verb identification
 - connector identification
 - interlinear display
 - lexical extraction
+- ROOTS-based analysis
 
-This layer contains **no interpretation**.
+This layer contains **zero interpretation**.
 
 ---
 
@@ -25,89 +42,66 @@ This layer contains **no interpretation**.
 Each Greek token must map to:
 
 → the exact NBLA word(s), OR  
-→ a minimal Spanish equivalent if no NBLA word exists
+→ a minimal supplied Spanish equivalent
 
-Every Greek token must be classified as:
+Every token must be classified.
 
-1. direct
-2. merged-forward
-3. merged-backward
-4. missing
-5. expanded
+No exceptions.
 
-No token is left unclassified.
+---
 
-If one Greek token maps to one Spanish token:
+## ALIGNMENT TYPES
 
-→ alignment = direct
+Each Greek token must be assigned one of the following:
 
-Even if:
-- participle → finite verb
-- adjective → clause
-- noun → phrase
+1. direct  
+2. merged-forward  
+3. merged-backward  
+4. missing  
+5. expanded  
 
-Form change ≠ expansion
+### Definitions
 
-EXPANDED = ONLY when one Greek token maps to multiple Spanish words
+- **direct**  
+  One Greek token → one Spanish unit (even if form changes)
 
-FORM SHIFT ≠ EXPANDED
-PARTICIPLE → finite verb = still DIRECT
+- **expanded**  
+  One Greek token → multiple Spanish words
+
+- **merged-forward / merged-backward**  
+  Multiple Greek tokens → one Spanish expression
+
+- **missing**  
+  No NBLA equivalent → must be supplied
+
+---
+
+## CRITICAL DISTINCTION
+
+Form change does NOT equal expansion.
+
+Examples:
+
+- participle → finite verb = **direct**
+- adjective → clause = **direct**
+- noun → phrase = **direct**
+
+Expansion ONLY occurs when:
+
+→ one Greek token maps to multiple Spanish words
+
 ---
 
 ## ALIGNMENT RULES
 
 ### 1. NBLA PRIORITY
 
-If the NBLA expresses the word:
+If NBLA expresses the word:
 
-- Use the NBLA wording exactly
-- Preserve multi-word expressions
-
-Example:
-
-ἡγιασμένοις → han sido santificados
-
----
-
-### 2. SUPPLIED EQUIVALENTS
-
-If no Spanish word exists in NBLA:
-
-- Provide a minimal equivalent in parentheses
-
-Example:
-
-μέν → (por un lado)  
-δέ → (pero)
-
----
-
-### 3. NO COMPRESSION
-
-Do not reduce expressions.
-
-❌ Incorrect:
-ἡγιασμένοις → santificados
+- use it exactly  
+- preserve full expression  
 
 ✔ Correct:
-ἡγιασμένοις → han sido santificados
-
----
-
-### 4. NO INTERPRETATION
-
-Do not:
-- smooth grammar
-- reorder meaning
-- add theological interpretation
-
-Only align.
-
----
-
-## DATA FORMAT
-
-Each token is represented as:
 ```
 
 - greek: ἡγιασμένοις

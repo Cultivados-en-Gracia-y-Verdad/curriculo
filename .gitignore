@@ -4,3 +4,5 @@
 OSHB/
 scripts/
 /content/roots/SBLGNT/MorphGNT
+/content/roots-presenter/node_modules/@electron
+/content/roots-presenter/node_modules
