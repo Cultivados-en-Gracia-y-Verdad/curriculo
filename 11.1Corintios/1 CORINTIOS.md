@@ -8,7 +8,9 @@ Pablo, llamado a ser apóstol de Jesucristo, por la voluntad de Dios, y Sóstene
 
 #### Pablo
 
-#### llamado *a ser* apóstol de Jesucristo por la voluntad de Dios
+#### llamado *a ser* apóstol de Jesucristo 
+
+#### por la voluntad de Dios
 
 #### y Sóstenes, nuestro hermano
 
