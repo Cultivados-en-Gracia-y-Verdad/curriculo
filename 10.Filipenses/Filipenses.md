@@ -2137,9 +2137,30 @@ aunque yo mismo podría confiar también en la carne. Si algún otro cree tener 
 
 #### aunque yo mismo podría confiar también en la carne.
 
+##### aunque, KAIPER, se define como, algo que es real en lo que tendría motivo para poner su confianza.
+
+##### El término Carne no es la naturaleza de pecado y tampoco en referencia a la naturaleza carnal.
+
 #### Si algún otro cree tener motivo para confiar en la carne,
 
+##### Poner su confianza en la carne, hace referencia a identidad étnica, ancestros, origen étnico, estatus social, logros, motivaciones, apariencia.
+
+### Paréntesis
+
+- Un judío celoso de las tradiciones no aceptaba que un gentil Adore a Dios.
+- Un judaizante no acepta que un gentil sea aceptado por Dios como alguien incluido en su familia o como un siervo.
+- No aceptan que sea receptor de la salvación si no modifica su apariencia externa (circuncisión).
+- Tampoco aceptan que sea acepto por Dios sino guardan las tradiciones ignorando el uso legítimo de la ley.
+- Si su linaje es pagano no merecen formar parte del pueblo de Dios.
+- Y una vida justa debe ser un tratar de cumplir estrictamente la ley, aunque no cumplas toda la ley debes tratar y entrenarte día a día para cumplirlo, argumentando que la mejor manera de cumplir la ley es siguiendo otras reglas y cumpliendo tradiciones, ignorando que la gracia otorga una justicia mayor.
+
+##### Aunque todo lo mencionado tiene buena apariencia y buenas intenciones no están establecidas para dar gloria a Dios, aunque tiene esa apariencia están solo para gloriarse en los esfuerzos de uno mismo y no en el mérito de Cristo.
+
+##### Entonces Pablo se incluye.
+
 #### yo mucho más: 
+
+##### Entonces si se trata de poner la confianza en la carne, como una competencia para tener de que gloriarse, Pablo se incluye ahí en un grado mayor al de los falsos obreros, con el objetivo de ilustrar el peligro que los falsos obreros enseñan para llegar a demostrar lo insuficiente e inútil que es poner la confianza en la carne.
 
 ### Filipenses 3:5
 
@@ -2147,13 +2168,50 @@ circuncidado a los ocho días de nacer, del linaje de Israel, de la tribu de Ben
 
 #### circuncidado a los ocho días de nacer,
 
+##### la circuncisión fue dada a Abraham como una señal del Pacto perpetuo de Dios, una señal que los identificaría como un pueblo que guarda el pacto de Dios. Genesis 19:9-11
+
+- Nunca la circuncisión fue dada como un requisito para la salvación ya que Abraham fue circuncidado como 17 años después de ser declarado justo delante de Dios. Genesis 15:6
+
 #### del linaje de Israel,
+
+##### La circuncisión de Pablo demostraba que era de la nación de Israel.
+
+- A los 8 días de nacer era lo establecido por Dios en la ley, esto significaba ser perteneciente a la nación de Israel. Levítico 12:3; Génesis 34:22
+
+##### A diferencia de un circuncidado prosélito, que es convertido al judaísmo y no de nacimiento.
+
+##### Alguien nacido como judío, del linaje de Israel se consideraba como un no pecador comparado con los gentiles Gálatas 2:15; Romanos 3:9
 
 #### de la tribu de Benjamín,
 
+##### La tribu a la que pertenecía era motivo de Jactancia, ya que la tribu de Judá y Benjamín se mantuvieron a diferencia de las otras tribus de Israel.
+
 #### hebreo de hebreos;
 
+##### Un prosélito podía tener hijos y pertenecer a una tribu, en incluirse al linaje de Israel, pero ser Hebreo tenía un gran privilegio y mayor reconocimiento que tenga Padres hebreos. 
+
 #### en cuanto a la ley,  fariseo;
+
+##### Y formar parte de la orden de los fariseos era bastante exclusivo ya que debía cumplir bastantes requisitos
+
+Era la élite religiosa más estricta que se diferenciaba de todo la nación, considerados como los más santos de la nación.
+
+Para ser fariseo debías cumplir con requisitos estrictos.
+
+- Debías aprender de memoria la Torá
+- seguir de memoria la ley oral (las tradiciones)
+- No contaminarte con nada inmundo. (Comer en la casa de un pecador era inmundo para ellos).
+- Diezmar todo lo que poseían.
+- Debías ser recomendado por 3 fariseos.
+- Y cumplir con un periodo riguroso de prueba por 12 meses. [^13]
+
+##### Y recién eras aceptado para ser fariseo
+
+##### Pablo cumplía con estos requisitos.
+
+##### Para poder llegar a cumplir con éstos requisitos debías tener instrucción en una sinagoga o algún maestro en particular y para alcanzar mayor prestigio, algunos optaban por la instrucción de los más reconocidos maestros fariseos. Hechos 22:3
+
+##### Pablo al ser hijo de un fariseo tuvo una instrucción estricta desde su niñez y tenía la instrucción del maestro más reconocido de aquel tiempo. Hechos 23:6
 
 ### Filipenses 3:6
 
@@ -2161,7 +2219,19 @@ en cuanto al celo, perseguidor de la iglesia; en cuanto a la justicia de la ley,
 
 #### en cuanto al celo, perseguidor de la iglesia;
 
+##### y en cuanto a los celos de las tradiciones, perseguidor de la iglesia.
+
+##### La iglesia rompió con todas las tradiciones que no están escritas en la biblia.
+
+##### Lo cual genera sentimientos de envidia y celos por que Dios esta usando siervos que no tienen aquella rigurosa selección. Gálatas 1:14
+
 #### en cuanto a la justicia de la ley, hallado irreprensible.
+
+##### Y en relación a ser visto de manera exterior sobre la base de la ley. Pablo era tan riguroso y celoso que era visto como alguien irreprensible, alguien muy reconocido y respetado en la élite de los fariseos.
+
+##### Pablo tuvo la iniciativa de sacar cartas de permiso para perseguir a la iglesia y desolarla porque pensaba que la iglesia iba en contra de Moisés y contra Dios. Hechos 6:11
+
+##### Entonces todos éstos argumentos tenían mayor prestigio que de los falsos obreros, la falsa circuncisión, y nadie podía negar tal prestigio de Pablo.
 
 ### Filipenses 3:7
 
@@ -2169,11 +2239,34 @@ Pero todo lo que para mí era ganancia, lo he estimado como pérdida por amor de
 
 #### Pero todo lo que para mí era ganancia,
 
-#### lo he estimado como pérdida
+##### Este estatus religioso era el más ambicionado era una élite privilegiada y muy reconocida y vista como lo mejor de lo mejor de un elevado nivel espiritual y considerándolo como ganancia.
 
-#### por amor de Cristo.
+#### lo he estimado como pérdida por amor de Cristo.
+
+##### Haciendo una estimación de valor, todo aquello es considerado por Pablo cómo pérdida.
+
+##### No solo es insuficiente, y no solamente no alcanza el nivel de justicia.
+
+##### Y en ves de sumar o ahorrar o acumular justicia delante de Dios, termina siendo pérdida.
 
 ##### Al final la confianza en la carne termina como pérdida.
+
+##### En Filipenses 1:9 Pablo pedía que ellos puedan crecer en amor en conocimiento verdadero, y en todo discernimiento. Y sepan elegir lo mejor.
+
+##### Ahora Pablo pone una comparativa y trae a la vista algo con lo que nada puede compararse.
+
+- Y no es un mérito 
+- No es un logro 
+- No es un título 
+- No es algo con lo que naciste 
+- No es una modificación exterior 
+- No es tú propio esfuerzo 
+
+##### Entonces Pablo hizo un cálculo, una estimación de valores, todo lo mencionado anteriormente involucra mucha inversión de tu tiempo, una inversión de sacrificio y mucho esfuerzo para obtener una gran ganancia, una ganancia con la cual obtienes un estatua de reconocimiento en este mundo para tu propia gloria.
+
+##### En Filipenses 1:11, en su oración al pedir por el crecimiento más y más de su abundante amor tenga el propósito de que ellos sean completamente llenos del fruto de Justicia para el día de Cristo y no para su propia gloria sino para la gloria de Dios.
+
+##### Entonces al hacer aquella estimación todo lo anterior resulta como perdida por Cristo. Mateo 13:44-46
 
 ## Filipenses 3:8-11 La vista al incomparable valor de conocer a Cristo Jesús
 
@@ -2183,13 +2276,49 @@ Y aún más, yo estimo como pérdida todas las cosas en vista del incomparable v
 
 #### Y aún más,
 
+Ósea que no solo es perdida lo que pablo consideraba ganancia
+
 #### yo estimo como pérdida todas las cosas
+
+##### Y no solamente lo que era ganancia para Pablo sino que todas las cosas, todo era valorado como pérdida.
+
+##### Entonces pablo estimaba como estar en banca rota, no solo lo que el consideraba ganancia, sino todas las cosas de las cuales uno podría considerar ganancia.
+
+##### Perdida ZEMIA , en términos comerciales se usa como perdida de mercancía, en términos judiciales es como entrar en una multa, y en el termino personal es como entrar en ruina.
+
+##### Entonces todas las cosas para pablo haciendo una comparación de valor, resultaba todas las cosas como perdida total 
 
 #### en vista del incomparable valor de conocer a Cristo Jesús, mi Señor.
 
+##### *en vista del incomparable valor...* según la (BTX4) es traducido por *la superioridad* ambas traducciones son muy buenas y dan a entender que conocer a cristo es superior a todas las cosas y además que se puede comprobar  porque es visiblemente incomparable.
+
+##### note que pablo no usa EPICGNOSIS para referirse al *conocimiento* sino que mas bien hace el uso de la palabra GNOSIS.
+
+##### Esto era lo que a Pablo le traía regocijo, que cristo sea predicado aunque no con pleno conocimiento. Filipenses 1:17-18
+
+##### En la parábola de Mateo 13:44-46 los personajes vendieron sus pertenencias solamente con haber conocido que existía algo mas valioso, no tenían el conocimiento experiencial (EPICGNOSIS), solamente con saber fue que tomaron sus pertenecías y lo vendieron todo.
+
+##### Cuando Pablo esta usando GNOSIS lo esta haciendo en ese sentido, y especifica que es su Señor.
+
 #### Por Él lo he perdido todo,
 
+##### Es en este punto donde los falsos maestros chocan.
+
+##### Perderlo todo no es una opción, erradamente creen que pueden obtener ambos, popularidad predicando a Cristo.
+
+##### Pero Pablo lo perdió todo, encontrándose actualmente en prisión, sin ninguno de sus títulos o logros puedan liberarlo, aunque podría hacerlo pero eso significaría estar en banca rota.
+
 #### y lo considero como basura a fin de ganar a Cristo,
+
+##### Y en plena convicción todo aquello lo considera como lo peor. como basura. como estiércol.
+
+##### No queda en que es estimado como basura, y otro como incomparable, superior o excelente,  
+
+##### Tiene un propósito. 
+
+##### Al no ser considerado de esa manera Pablo no podría haber ganado a Cristo, al igual que el hombre y el mercader, si nunca vendían sus pertenencias nunca habrían podido obtener aquello que era tan valioso.
+
+##### No puedes conservar ambos. ya que lo primero te hace entrar en banca rota. sin permitirte conocer quién es Cristo Jesús.
 
 ### Filipenses 3:9
 
@@ -2680,4 +2809,6 @@ La gracia del Señor Jesucristo sea con el espíritu de ustedes.
 [^11] https://proyectoevanggelio.org/flp12/
 
 [^12] https://apps.lib.umich.edu/reading/Paul/contents.html
+
+[^13] Josefo Antigüedades 18.1.3
 
