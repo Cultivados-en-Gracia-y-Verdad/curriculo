@@ -7,13 +7,6 @@ version: "1.0"
 date: "2026-04-09"
 ---
 
-:::title
-ROMANOS
-:::
-
-:::subtitle
-El Evangelio de Poder
-:::
 # INTRODUCCIÓN
 
 ## Preámbulo
