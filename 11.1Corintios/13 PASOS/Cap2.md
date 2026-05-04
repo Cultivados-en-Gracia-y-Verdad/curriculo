@@ -610,14 +610,12 @@ S: [3S-1P - Espíritu - nosotros]
 S: [1P-3S - nosotros - quien]
 (Porque) ¿QUIÉN ==HA CONOCIDO== LA MENTE DEL SEÑOR, 
 
-[FIN]
-
-[INICIO]
-
 ​	::CONTRASTE:: 
 
 S: [3S-1P - quien - nosotros]
 (Pero) nosotros ==tenemos== la mente de Cristo.
+
+[FIN]
 
 --------
 
