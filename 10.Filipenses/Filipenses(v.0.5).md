@@ -97,9 +97,9 @@ Viviendo lo que ya es verdadero
 
 ##### La carta fue entregada a los filipenses por medio de Epafrodito, quien había visitado a Pablo en su prisión y le llevó noticias de ellos, junto con una ofrenda para sus necesidades (Filipenses 4:18). Esto muestra que existía una relación activa entre Pablo y los creyentes en Filipos, marcada por comunicación y cuidado mutuo.
 
-##### Los destinatarios conocían a Pablo de manera personal. El texto de Book of Acts muestra que su tiempo con ellos fue limitado, ya que en su primera visita tuvo que salir de la ciudad después de la presión de las autoridades (Hechos 16:39). Aun así, ese tiempo fue suficiente para establecer una relación directa que se mantiene visible en toda la carta.
+##### Los destinatarios conocían a Pablo de manera personal. El texto de Hechos muestra que su tiempo con ellos fue limitado, ya que en su primera visita tuvo que salir de la ciudad después de la presión de las autoridades (Hechos 16:39). Aun así, ese tiempo fue suficiente para establecer una relación directa que se mantiene visible en toda la carta.
 
-##### El desarrollo de la iglesia continuó después de la salida de Pablo. Según el relato de Book of Acts, Lucas permaneció en Filipos mientras Pablo, Timoteo y Silas continuaron su recorrido (Hechos 16:40; 17:1). Más adelante, Lucas vuelve a aparecer acompañando a Pablo (Hechos 20:5–6), lo que muestra continuidad en el contacto con esa iglesia.
+##### El desarrollo de la iglesia continuó después de la salida de Pablo. Según el relato de Hechos, Lucas permaneció en Filipos mientras Pablo, Timoteo y Silas continuaron su recorrido (Hechos 16:40; 17:1). Más adelante, Lucas vuelve a aparecer acompañando a Pablo (Hechos 20:5–6), lo que muestra continuidad en el contacto con esa iglesia.
 
 ##### El texto de la carta indica características del grupo. Pablo se dirige a “todos los santos en Cristo Jesús… incluyendo a los obispos y diáconos” (Filipenses 1:1), lo cual muestra una comunidad organizada. También menciona advertencias específicas (Filipenses 3:2), lo que indica que enfrentaban influencias externas que afectaban su entorno.
 
@@ -180,7 +180,7 @@ Doy gracias a mi Dios siempre que me acuerdo de ustedes.
 
 ##### Ese recuerdo no termina en nostalgia; termina en acción delante de Dios.
 
-##### La acción de dar gracias está vinculada a un <u>recue</u> constante de ellos.
+##### La acción de dar gracias está vinculada a un <u>recuerdo</u> constante de ellos.
 
 ##### El recuerdo no es ocasional, sino repetido en el <u>tiempo</u>.
 
@@ -307,7 +307,7 @@ Estoy convencido precisamente de esto: que el que comenzó en ustedes la buena o
 
 ##### *"Así que, saliendo de Troas, navegamos* (Plural, primera persona) *con rumbo directo a Samotracia, y al día siguiente a Neápolis. De allí fuimos a Filipos,*(Plural, primera persona) *que es una ciudad principal de la provincia de Macedonia, una colonia romana; en esta ciudad nos quedamos por varios días."* Hechos 16:11-12  
 
-##### Pablo tuvo la visión en Troas Hechos 16:8-9
+##### Pablo tuvo la visión en Troas. Hechos 16:8-9
 
 ##### Por lo que fue Dios el que comenzó la buena obra. Juan 6:44
 
@@ -465,13 +465,13 @@ a fin de que escojan lo mejor, para que sean puros e irreprensibles para el día
 llenos del fruto de justicia que es por medio de Jesucristo, para la gloria y alabanza de Dios.
 
 #### llenos del fruto de justicia
-##### Se describe una <u>condición</u> dentro del mismo flujo del pasaje. La expresión “llenos” indica un estado completo, y lo que llena es “el fruto de justicia”. Este elemento no aparece aislado, sino como continuación directa de 1:9–10: el amor que abunda, junto con conocimiento y discernimiento, conduce a escoger lo mejor; esto a su vez resulta en ser puros e irreprensibles, y ahora se expresa como estar llenos de fruto. El texto mantiene una sola línea: desarrollo → elección → resultado → plenitud.
+##### Se describe una <u>condición</u> dentro del mismo flujo del pasaje. La expresión *llenos* indica un estado completo, y lo que llena es “el fruto de justicia”. Este elemento no aparece aislado, sino como continuación directa de 1:9–10: el amor que abunda, junto con conocimiento y discernimiento, conduce a escoger lo mejor; esto a su vez resulta en ser puros e irreprensibles, y ahora se expresa como estar llenos de fruto. El texto mantiene una sola línea: desarrollo → elección → resultado → plenitud.
 
 #### que es por medio de Jesucristo,
-##### Se identifica el <u>origen</u> del fruto. El texto especifica que este fruto de justicia es “por medio de Jesucristo”, manteniendo el mismo centro del pasaje. No se atribuye a otra fuente ni se presenta como algo que se origina en ellos; se afirma que ocurre a través de Él. Esta expresión continúa la coherencia del desarrollo anterior, donde lo que sucede no se presenta como independiente, sino vinculado a Cristo.
+##### Se identifica el <u>origen</u> del fruto. El texto especifica que este fruto de justicia es *por medio de Jesucristo*, manteniendo el mismo centro del pasaje. No se atribuye a otra fuente ni se presenta como algo que se origina en ellos; se afirma que ocurre a través de Él. Esta expresión continúa la coherencia del desarrollo anterior, donde lo que sucede no se presenta como independiente, sino vinculado a Cristo.
 
 #### para la gloria y alabanza de Dios.
-##### Se muestra el <u>propósito</u> final. La secuencia que comenzó con la acción de Dios y la oración de Pablo (1:3–11) se cierra dirigiendo todo hacia Él. “Para la gloria y alabanza de Dios” establece el destino de todo el proceso descrito en estos versículos. El texto no introduce otro fin ni cambia el enfoque, sino que concluye llevando todo nuevamente hacia Dios, manteniendo una sola dirección desde el inicio hasta el cierre de la oración.
+##### Se muestra el <u>propósito</u> final. La secuencia que comenzó con la acción de Dios y la oración de Pablo (1:3–11) se cierra dirigiendo todo hacia Él. *Para la gloria y alabanza de Dios* establece el destino de todo el proceso descrito en estos versículos. El texto no introduce otro fin ni cambia el enfoque, sino que concluye llevando todo nuevamente hacia Dios, manteniendo una sola dirección desde el inicio hasta el cierre de la oración.
 
 # FILIPENSES 1:12–26 Pablo interpreta sus circunstancias en relación al evangelio
 
@@ -487,7 +487,7 @@ Quiero que sepan, hermanos, que las circunstancias en que me he visto, han redun
 ##### Pablo menciona sus <u>circunstancias</u> como punto de enfoque. El texto no entra en detalles todavía, sino que presenta el marco general. El énfasis no está en describir cada evento, sino en cómo deben ser entendidas. Estas circunstancias ya eran conocidas por los filipenses, pero Pablo busca aclarar su significado. Así, no se centra en las situaciones en sí, sino en la forma correcta de verlas dentro del mismo flujo del evangelio que ha venido desarrollando.
 
 #### han redundado en un mayor progreso del evangelio
-##### Pablo afirma un <u>resultado</u> que redefine esas circunstancias. El texto no deja las circunstancias como el punto final, sino que dirige la atención a su efecto: “el progreso del evangelio”. Aquello que podría parecer limitante es presentado como contribuyendo al avance. De esta manera, la línea del pasaje se mantiene clara: circunstancia → resultado. No se introduce una explicación externa, sino que el mismo texto muestra cómo deben ser entendidas, manteniendo el enfoque en el evangelio como centro.
+##### Pablo afirma un <u>resultado</u> que redefine esas circunstancias. El texto no deja las circunstancias como el punto final, sino que dirige la atención a su efecto: *el progreso del evangelio*. Aquello que podría parecer limitante es presentado como contribuyendo al avance. De esta manera, la línea del pasaje se mantiene clara: circunstancia → resultado. No se introduce una explicación externa, sino que el mismo texto muestra cómo deben ser entendidas, manteniendo el enfoque en el evangelio como centro.
 
 ### Filipenses 1:13
 de tal manera que mis prisiones por la causa de Cristo se han hecho notorias en toda la guardia pretoriana y a todos los demás.
