@@ -19,7 +19,7 @@ Viviendo lo que ya es verdadero
 
 ## Importancia del libro
 
-##### La carta a los Filipenses presenta un <u>contenido</u> dirigido a creyentes. Desde el inicio, el texto se dirige a personas que ya están \scripture{en Cristo Jesús} (Filipenses 1:1), identificadas como \scripture{santos en Cristo Jesús}. Este grupo no cambia a lo largo de la carta; el destinatario permanece constante en todo momento.
+##### La carta a los Filipenses presenta un <u>contenido</u> dirigido a creyentes. Desde el inicio, el texto se dirige a personas que ya están *en Cristo Jesús* (Filipenses 1:1), identificadas como *santos en Cristo Jesús*. Este grupo no cambia a lo largo de la carta; el destinatario permanece constante en todo momento.
 
 ##### A lo largo del desarrollo se repiten temas que mantienen la coherencia del mensaje: el evangelio (Filipenses 1:5, 1:12, 1:27), el <u>gozo</u> (Filipenses 1:4, 2:2, 4:4), la participación (Filipenses 1:7, 4:14–16) y la actitud junto con el andar (Filipenses 2:2–5, 3:17). Estos no aparecen de forma aislada, sino dentro de un flujo continuo.
 
@@ -27,15 +27,15 @@ Viviendo lo que ya es verdadero
 
 ##### El enfoque se mantiene en una sola dirección: estar firmes (Filipenses 1:27; 4:1), tener un mismo sentir (Filipenses 2:2; 3:15), no poner confianza en la <u>carne</u> (Filipenses 3:3), seguir adelante hacia la meta (Filipenses 3:12–14) y vivir conforme a lo alcanzado (Filipenses 3:16). No se introducen múltiples objetivos, sino una misma línea sostenida.
 
-##### Todo el contenido permanece centrado en <u>Cristo</u>. Expresiones como \scripture{en Cristo Jesús} (Filipenses 1:1; 4:23), \scripture{ganar a Cristo} (Filipenses 3:8), \scripture{ser hallado en Él} (Filipenses 3:9) y \scripture{conocerlo a Él} (Filipenses 3:10) se repiten a lo largo de la carta, mostrando que el centro no cambia en ningún momento.
+##### Todo el contenido permanece centrado en <u>Cristo</u>. Expresiones como *en Cristo Jesús* (Filipenses 1:1; 4:23), *ganar a Cristo* (Filipenses 3:8), *ser hallado en Él* (Filipenses 3:9) y *conocerlo a Él* (Filipenses 3:10) se repiten a lo largo de la carta, mostrando que el centro no cambia en ningún momento.
 
-##### Dentro de este desarrollo surge una <u>pregunta</u> natural del mismo texto. Por un lado, la carta afirma realidades claras en los creyentes: \scripture{santos en Cristo Jesús} (Filipenses 1:1), \scripture{Dios… perfeccionará la buena obra} (Filipenses 1:6), \scripture{a ustedes se les ha concedido creer} (Filipenses 1:29). Por otro lado, presenta llamados directos a actuar: \scripture{compórtense dignamente} (Filipenses 1:27), \scripture{tengan esta actitud} (Filipenses 2:5), \scripture{ocúpense en su salvación} (Filipenses 2:12). Ambas líneas aparecen dentro de la misma carta.
+##### Dentro de este desarrollo surge una <u>pregunta</u> natural del mismo texto. Por un lado, la carta afirma realidades claras en los creyentes: *santos en Cristo Jesús* (Filipenses 1:1), *Dios… perfeccionará la buena obra* (Filipenses 1:6), *a ustedes se les ha concedido creer* (Filipenses 1:29). Por otro lado, presenta llamados directos a actuar: *compórtense dignamente* (Filipenses 1:27), *tengan esta actitud* (Filipenses 2:5), *ocúpense en su salvación* (Filipenses 2:12). Ambas líneas aparecen dentro de la misma carta.
 
-##### El texto no elimina la <u>acción</u>, sino que la mantiene. Filipenses 2:12 introduce un mandato directo (\scripture{ocúpense}), dirigido a los mismos creyentes, sin cambiar el grupo. Inmediatamente, Filipenses 2:13 añade que \scripture{Dios es quien obra en ustedes tanto el querer como el hacer}. Ambos versículos permanecen unidos dentro del mismo flujo.
+##### El texto no elimina la <u>acción</u>, sino que la mantiene. Filipenses 2:12 introduce un mandato directo (*ocúpense*), dirigido a los mismos creyentes, sin cambiar el grupo. Inmediatamente, Filipenses 2:13 añade que *Dios es quien obra en ustedes tanto el querer como el hacer*. Ambos versículos permanecen unidos dentro del mismo flujo.
 
 ##### De esta manera, la carta mantiene ambas <u>líneas</u> sin separarlas: la acción del creyente y la acción de Dios. No se presentan como opuestas, ni como alternativas, sino dentro de una misma secuencia continua.
 
-##### El desarrollo apunta a un <u>andar</u> constante. El lenguaje muestra movimiento: \scripture{luchando unánimes} (Filipenses 1:27), \scripture{sigo adelante} (Filipenses 3:12), \scripture{prosigo hacia la meta} (Filipenses 3:14), \scripture{continuemos viviendo} (Filipenses 3:16). A la vez, incluye un enfoque interno: \scripture{misma actitud} (Filipenses 2:2; 3:15), \scripture{mediten en esto} (Filipenses 4:8), \scripture{esto practiquen} (Filipenses 4:9). Todo permanece dentro de una misma línea sin romperse.
+##### El desarrollo apunta a un <u>andar</u> constante. El lenguaje muestra movimiento: *luchando unánimes* (Filipenses 1:27), *sigo adelante* (Filipenses 3:12), *prosigo hacia la meta* (Filipenses 3:14), *continuemos viviendo* (Filipenses 3:16). A la vez, incluye un enfoque interno: *misma actitud* (Filipenses 2:2; 3:15), *mediten en esto* (Filipenses 4:8), *esto practiquen* (Filipenses 4:9). Todo permanece dentro de una misma línea sin romperse.
 
 ##### Finalmente, el centro se mantiene en <u>Cristo</u>. Toda acción se ubica en Él, todo desarrollo regresa a Él, y no se introduce otro eje. La carta avanza en una sola dirección, sin cambiar su enfoque en ningún momento.
 
@@ -43,15 +43,15 @@ Viviendo lo que ya es verdadero
 
 ##### La ciudad de Filipos tiene una particularidad que el autor del libro de los hechos hizo notar. 
 
-###### \scripture{...fuimos a Filipos, que es una ciudad principal de la provincia de Macedonia, una colonia romana; en esta ciudad nos quedamos por varios días.} Hechos 16:12
+###### *...fuimos a Filipos, que es una ciudad principal de la provincia de Macedonia, una colonia romana; en esta ciudad nos quedamos por varios días.* Hechos 16:12
 
-###### \scripture{...es una ciudad principal de la provincia de Macedonia;} 
+###### *...es una ciudad principal de la provincia de Macedonia;* 
 
 ##### La ciudad fue fundada originalmente en el 360 a. C. con el nombre de Krenides (que significa manantiales), por colonos procedentes de la isla de Tasos.  
 
 ##### Sin embargo, tan solo cuatro años después, fue conquistada por el rey Filipo II de Macedonia , padre de Alejandro Magno, quien la rebautizó en su honor.  
 
-###### \scripture{una colonia romana;}
+###### *una colonia romana;*
 
 ##### Las colonias eran ciudades fundadas según el modelo romano, con calles, mercados, foros, templos y teatros, y gozaban de un estatus legal especial que concedía ciertos privilegios a sus habitantes.  
 
@@ -59,7 +59,7 @@ Viviendo lo que ya es verdadero
 
 ##### De esta manera, la cultura romana se expandía por el territorio y, con el tiempo, sus habitantes solían adoptar el modo de vida de los colonos. 
 
-##### Filipenses 3:20 menciona, \scripture{...nuestra ciudadanía está en los cielos...,} los Filipenses no eran de esa ciudad sino del cielo, donde tenemos vida eterna y una morada eterna que no perece y nunca se destruye.
+##### Filipenses 3:20 menciona, *...nuestra ciudadanía está en los cielos...,* los Filipenses no eran de esa ciudad sino del cielo, donde tenemos vida eterna y una morada eterna que no perece y nunca se destruye.
 
 ##### Filipos albergaba una famosa escuela romana de medicina, y la tradición sostiene que el evangelista Lucas estudió allí e inició su ministerio con la congregación de los filipenses. Esto probablemente significaba que la iglesia contaba con muchos miembros instruidos, con formación en ciencias, filosofía y religión, algo común en las ciudades romanas de la época. 
 
@@ -142,22 +142,22 @@ Pablo y Timoteo, siervos de Cristo Jesús: A todos los santos en Cristo Jesús q
 ##### Ambos son descritos como <u>siervos</u> de Cristo Jesús, lo cual introduce una misma identificación para los dos. Este término se aplica de manera conjunta, sin diferenciar entre Pablo y Timoteo, y señala una relación directa con Cristo Jesús. No se añade otra categoría ni descripción en este punto, sino que ambos quedan bajo la misma forma de presentación desde el inicio.
 
 #### A todos los santos en Cristo Jesús que están en Filipos
-##### El texto identifica a los <u>destinatarios</u> como \scripture{todos los santos en Cristo Jesús}. La expresión incluye al grupo completo sin excepción y los ubica dentro de una relación definida por \scripture{en Cristo Jesús}. A esto se añade la referencia local \scripture{que están en Filipos}, la cual no cambia su identidad, sino que simplemente indica su ubicación geográfica dentro del desarrollo de la carta.
+##### El texto identifica a los <u>destinatarios</u> como *todos los santos en Cristo Jesús*. La expresión incluye al grupo completo sin excepción y los ubica dentro de una relación definida por *en Cristo Jesús*. A esto se añade la referencia local *que están en Filipos*, la cual no cambia su identidad, sino que simplemente indica su ubicación geográfica dentro del desarrollo de la carta.
 
 #### incluyendo a los obispos y diáconos:
-##### Finalmente, el texto añade a los <u>obispos</u> y diáconos dentro del mismo grupo, sin separarlos como una categoría distinta. La expresión \scripture{incluyendo} los mantiene dentro de \scripture{todos los santos}, y no se explica su función ni se desarrolla su rol en este punto. Su mención se mantiene dentro del saludo mismo, sin cambiar el enfoque ni introducir un nuevo tema.
+##### Finalmente, el texto añade a los <u>obispos</u> y diáconos dentro del mismo grupo, sin separarlos como una categoría distinta. La expresión *incluyendo* los mantiene dentro de *todos los santos*, y no se explica su función ni se desarrolla su rol en este punto. Su mención se mantiene dentro del saludo mismo, sin cambiar el enfoque ni introducir un nuevo tema.
 
 ### Filipenses 1:2
 Gracia a ustedes y paz de parte de Dios nuestro Padre y del Señor Jesucristo.
 
 #### Gracia a ustedes
-##### Se introduce el primer elemento del saludo: <u>gracia</u>. El texto lo dirige directamente a los destinatarios (\scripture{a ustedes}), manteniendo el mismo grupo mencionado en el versículo anterior. No se desarrolla su contenido aquí, sino que aparece como parte del saludo inicial dentro del flujo de la carta.
+##### Se introduce el primer elemento del saludo: <u>gracia</u>. El texto lo dirige directamente a los destinatarios (*a ustedes*), manteniendo el mismo grupo mencionado en el versículo anterior. No se desarrolla su contenido aquí, sino que aparece como parte del saludo inicial dentro del flujo de la carta.
 
 #### y paz
-##### Se añade el segundo elemento: <u>paz</u>. El texto mantiene ambos elementos juntos mediante \scripture{y}, sin separarlos ni explicarlos. Así, “gracia y paz” funcionan como una unidad dentro del saludo, sin introducir una nueva línea.
+##### Se añade el segundo elemento: <u>paz</u>. El texto mantiene ambos elementos juntos mediante *y*, sin separarlos ni explicarlos. Así, “gracia y paz” funcionan como una unidad dentro del saludo, sin introducir una nueva línea.
 
 #### de parte de Dios nuestro Padre y del Señor Jesucristo.
-##### Se identifica la <u>fuente</u> del saludo. \scripture{De parte de} señala su procedencia, y el texto menciona a “Dios nuestro Padre” y “el Señor Jesucristo” juntos como origen. No se añade otro agente ni se desarrolla más detalle, sino que se cierra el saludo manteniendo una sola línea: \textbf{saludo → elementos → procedencia}.
+##### Se identifica la <u>fuente</u> del saludo. *De parte de* señala su procedencia, y el texto menciona a “Dios nuestro Padre” y “el Señor Jesucristo” juntos como origen. No se añade otro agente ni se desarrolla más detalle, sino que se cierra el saludo manteniendo una sola línea: **saludo → elementos → procedencia**.
 
 ## Filipenses 1:3–8 Da gracias a Dios por los filipenses
 
@@ -303,9 +303,9 @@ Estoy convencido precisamente de esto: que el que comenzó en ustedes la buena o
 
 ##### La Biblia no menciona que el Varon macedonio pueda ser Lucas, aunque no lo menciona, tampoco puede ser atribuido a Lucas.
 
-##### Lucas conoció a Pablo en Troas, esto lo vemos a través de la narración que dice: Hechos 16:8 \scripture{"...descendieron a Troas."} (plurar, segunda persona).
+##### Lucas conoció a Pablo en Troas, esto lo vemos a través de la narración que dice: Hechos 16:8 *"...descendieron a Troas."* (plurar, segunda persona).
 
-##### \scripture{"Así que, saliendo de Troas, navegamos} (Plural, primera persona) \scripture{con rumbo directo a Samotracia, y al día siguiente a Neápolis. De allí fuimos a Filipos,}(Plural, primera persona) \scripture{que es una ciudad principal de la provincia de Macedonia, una colonia romana; en esta ciudad nos quedamos por varios días."} Hechos 16:11-12  
+##### *"Así que, saliendo de Troas, navegamos* (Plural, primera persona) *con rumbo directo a Samotracia, y al día siguiente a Neápolis. De allí fuimos a Filipos,*(Plural, primera persona) *que es una ciudad principal de la provincia de Macedonia, una colonia romana; en esta ciudad nos quedamos por varios días."* Hechos 16:11-12  
 
 ##### Pablo tuvo la visión en Troas Hechos 16:8-9
 
@@ -409,7 +409,7 @@ Es justo que yo sienta esto acerca de todos ustedes, porque los llevo en el cora
 
 ##### Esto conecta directamente con Filipenses 1:5: su participación en el evangelio no es solo pasada, sino continua junto con Pablo.
 
-##### Efesios 3:8 dice, \scripture{A mí, que soy menos que el más pequeño de todos los santos, se me concedió esta gracia: anunciar a los gentiles las inescrutables riquezas de Cristo}
+##### Efesios 3:8 dice, *A mí, que soy menos que el más pequeño de todos los santos, se me concedió esta gracia: anunciar a los gentiles las inescrutables riquezas de Cristo*
 
 ##### Esta participación habla en el sentido práctico, mientras Pablo anunciaba inmerecidamente el evangelio ,ellos eran parte de este privilegio inmerecido al enviar y orar por sus necesidades.
 
@@ -417,18 +417,18 @@ Es justo que yo sienta esto acerca de todos ustedes, porque los llevo en el cora
 Porque Dios me es testigo de cuánto los añoro a todos con el entrañable amor de Cristo Jesús.
 
 #### Porque Dios me es testigo de cuánto los añoro a todos
-##### Pablo apela a Dios como <u>testigo</u> de lo que afirma, dando peso directo a su expresión. \scripture{Dios me es testigo} no introduce otro respaldo, sino una apelación directa que refuerza la veracidad de lo que está diciendo. El énfasis no está en argumentar, sino en afirmar con claridad la realidad de su anhelo.
+##### Pablo apela a Dios como <u>testigo</u> de lo que afirma, dando peso directo a su expresión. *Dios me es testigo* no introduce otro respaldo, sino una apelación directa que refuerza la veracidad de lo que está diciendo. El énfasis no está en argumentar, sino en afirmar con claridad la realidad de su anhelo.
 
-##### El alcance de ese anhelo es completo: \scripture{a todos}. El texto no limita ni selecciona, sino que incluye al grupo entero, manteniendo coherencia con lo que ya ha expresado anteriormente (Filipenses 1:7). Así, la relación no aparece fragmentada, sino consistente en todo el desarrollo.
+##### El alcance de ese anhelo es completo: *a todos*. El texto no limita ni selecciona, sino que incluye al grupo entero, manteniendo coherencia con lo que ya ha expresado anteriormente (Filipenses 1:7). Así, la relación no aparece fragmentada, sino consistente en todo el desarrollo.
 
-##### \scripture{Los añoro} describe ese vínculo como un deseo continuo hacia ellos. No introduce una idea nueva, sino que continúa lo ya mencionado: recuerdo, participación y cercanía. El texto no presenta esto como una reacción momentánea, sino como algo sostenido dentro de la relación, reforzado precisamente por el testimonio de Dios.
+##### *Los añoro* describe ese vínculo como un deseo continuo hacia ellos. No introduce una idea nueva, sino que continúa lo ya mencionado: recuerdo, participación y cercanía. El texto no presenta esto como una reacción momentánea, sino como algo sostenido dentro de la relación, reforzado precisamente por el testimonio de Dios.
 
 #### con el entrañable amor de Cristo Jesús.
-##### El anhelo se describe en términos de <u>amor</u>, pero el texto especifica su origen: \scripture{de Cristo Jesús}. No se presenta como algo generado en Pablo, sino relacionado directamente con Él, manteniendo el mismo centro del pasaje.
+##### El anhelo se describe en términos de <u>amor</u>, pero el texto especifica su origen: *de Cristo Jesús*. No se presenta como algo generado en Pablo, sino relacionado directamente con Él, manteniendo el mismo centro del pasaje.
 
-##### De esta manera, lo que Pablo expresa no lo atribuye a sí mismo, sino que lo conecta con Cristo, sin introducir otra fuente. La expresión \scripture{entrañable} intensifica el contenido, añadiendo profundidad al modo en que ese amor se describe, sin desarrollar el concepto en detalle.
+##### De esta manera, lo que Pablo expresa no lo atribuye a sí mismo, sino que lo conecta con Cristo, sin introducir otra fuente. La expresión *entrañable* intensifica el contenido, añadiendo profundidad al modo en que ese amor se describe, sin desarrollar el concepto en detalle.
 
-##### El versículo mantiene una sola línea continua: \textbf{testimonio → anhelo → origen en Cristo}, sin desviarse hacia otro enfoque.
+##### El versículo mantiene una sola línea continua: **testimonio → anhelo → origen en Cristo**, sin desviarse hacia otro enfoque.
 
 ## Filipenses 1:9–11 Pide por los filipenses
 
@@ -588,9 +588,9 @@ Porque sé que esto resultará en mi liberación mediante las oraciones de usted
 
 ##### El regocijo lo lleva a tener certeza sobre un resultado que será un hecho.
 
-##### \scripture{Porque sé} OIGA esta en tiempo perfecto, activo, indicativo, que puede traducirse como \scripture{He sabido} que será un hecho
+##### *Porque sé* OIGA esta en tiempo perfecto, activo, indicativo, que puede traducirse como *He sabido* que será un hecho
 
-##### Y la palabra \scripture{resultará} APOBAINO esta en tiempo futuro, voz media, indicativa, lo cual se puede entender como un resultado de parte de 2 acciones involucradas, Dios haciendo participar a la iglesia.
+##### Y la palabra *resultará* APOBAINO esta en tiempo futuro, voz media, indicativa, lo cual se puede entender como un resultado de parte de 2 acciones involucradas, Dios haciendo participar a la iglesia.
 
 #### mediante las oraciones de ustedes y la provisión del Espíritu de Jesucristo,
 ##### Pablo menciona dos elementos: las <u>oraciones</u> de ellos y la provisión del Espíritu.
@@ -730,7 +730,7 @@ para que su profunda satisfacción por mí abunde en Cristo Jesús a causa de mi
 
 ##### Parte de una <u>certeza de resultado</u>, que no se presenta de manera independiente, sino conectada con la participación: oración y la acción del Espíritu. A partir de ahí, se establece una <u>esperanza</u> clara: no ser avergonzado, lo cual mantiene coherencia con lo que ha venido afirmando.
 
-##### Esta línea conduce a un punto central: <u>Cristo será exaltado</u>. Desde ahí, Pablo define su propia perspectiva: \scripture{la vida es Cristo y la muerte es ganancia}, sin separar ambas realidades, sino manteniéndolas dentro de la misma relación.
+##### Esta línea conduce a un punto central: <u>Cristo será exaltado</u>. Desde ahí, Pablo define su propia perspectiva: *la vida es Cristo y la muerte es ganancia*, sin separar ambas realidades, sino manteniéndolas dentro de la misma relación.
 
 ##### El texto no evita la <u>tensión real</u> entre ambas, sino que la presenta abiertamente. Sin embargo, esta tensión no queda sin dirección, sino que lleva a una <u>decisión</u> orientada hacia los demás, específicamente hacia los filipenses.
 
@@ -805,7 +805,7 @@ Solamente compórtense de una manera digna del evangelio de Cristo, de modo que 
 
 ##### Solamente, hace referencia a que, únicamente, no dos, no tres, no muchos, sino que hay un solo comportamiento digno del evangelio de Cristo.
 
-##### \scripture{compórtense} POLITEUOMAI es una palabra derivada de POLITES, que significa ciudadano o poblador, compuesto por comportamiento, que puede traducirse como: \scripture{compórtense o vivan como ciudadanos.}
+##### *compórtense* POLITEUOMAI es una palabra derivada de POLITES, que significa ciudadano o poblador, compuesto por comportamiento, que puede traducirse como: *compórtense o vivan como ciudadanos.*
 
 ##### Esta palabra se un verbo en tiempo presente, imperativo, voz media pasiva, 
 
@@ -887,7 +887,7 @@ De ninguna manera estén atemorizados por sus adversarios, lo cual es señal de 
 
 ##### Pablo se regocijaba con el deseo de continuar viviendo para un mayor progreso del evangelio y sea motivo de gozo para todos los hermanos. 
 
-##### La Biblia (RVR60) traduce, \scripture{y en nada intimidados por los que se oponen} los que se oponen tiene la habilidad de intimidar, pero tenemos un Dios y mensaje poderoso. Hechos 4:17-21
+##### La Biblia (RVR60) traduce, *y en nada intimidados por los que se oponen* los que se oponen tiene la habilidad de intimidar, pero tenemos un Dios y mensaje poderoso. Hechos 4:17-21
 
 #### lo cual es señal de perdición para ellos,
 ##### Se presenta una <u>señal</u>.
@@ -927,7 +927,7 @@ Porque a ustedes se les ha concedido por amor de Cristo, no solo creer en Él, s
 
 ##### Para entender ese pasaje y no alejarnos de su significado debemos volver un poco a los orígenes de la iglesia.
 
-##### Para entender \scripture{que a ellos les fue concedido por amor de Cristo el creer en Él,} debemos apoyarnos en la escritura.
+##### Para entender *que a ellos les fue concedido por amor de Cristo el creer en Él,* debemos apoyarnos en la escritura.
 
 ##### A inicios del libro de hechos podemos ver que no existía gentiles formando la iglesia. Hechos 2:22, 36, 39
 
@@ -1016,7 +1016,7 @@ Por tanto, si hay algún estímulo en Cristo, si hay algún consuelo de amor, si
 
 ##### Pablo mostrará lo que tienen ellos para dar (si, de primera condición).
 
-##### En griego, cuando se utiliza EI \scripture{si} con un sustantivo o un adjetivo, se suele asumir que la condición es real o probable, a menos que haya algún indicio en contrario.
+##### En griego, cuando se utiliza EI *si* con un sustantivo o un adjetivo, se suele asumir que la condición es real o probable, a menos que haya algún indicio en contrario.
 
 #### si hay algún estímulo en Cristo,
 ##### Pablo introduce una condición con “si”, apelando a algo que está presente en <u>Cristo</u>.
@@ -1027,7 +1027,7 @@ Por tanto, si hay algún estímulo en Cristo, si hay algún consuelo de amor, si
 
 ##### Estimulo, consolación o animar, es lo que les ha sido dado, para compartirlo.
 
-##### \scripture{Cristo les ha dado el poder de animar,} biblia Dios habla hoy (DHH-D).
+##### *Cristo les ha dado el poder de animar,* biblia Dios habla hoy (DHH-D).
 
 #### si hay algún consuelo de amor,
 ##### Se añade otro elemento: <u>consuelo</u>.
@@ -1058,7 +1058,7 @@ Por tanto, si hay algún estímulo en Cristo, si hay algún consuelo de amor, si
 
 ##### Afecto y Compasión, en el sentido de actuar, en el beneficio de otro.
 
-##### \scripture{si tienen un corazón compasivo} biblia Dios habla hoy (DHH-D).
+##### *si tienen un corazón compasivo* biblia Dios habla hoy (DHH-D).
 
 ## Filipenses 2:2–4 Exhorta a una unidad visible en actitud y acción 
 
@@ -1093,7 +1093,7 @@ no buscando cada uno sus propios intereses, sino más bien los intereses de los 
 
 ##### El texto no funciona como una lista aislada, sino como un <u>desarrollo continuo</u>:
 
-- \textbf{unidad → actitud → acción}
+- **unidad → actitud → acción**
 
 ##### Cada elemento se conecta directamente con el anterior, manteniendo coherencia con el flujo de la carta sin introducir un nuevo tema.
 
@@ -1125,7 +1125,7 @@ Haya, pues, en ustedes esta actitud que hubo también en Cristo Jesús,
 
 ##### El texto no comienza con acciones externas, sino con lo interno.
 
-##### Esta actitud FRONEO \scripture{pensar} es un verbo presente, imperativo, voz activa; que significa tener una manera de pensar. Romanos 8:5
+##### Esta actitud FRONEO *pensar* es un verbo presente, imperativo, voz activa; que significa tener una manera de pensar. Romanos 8:5
 
 ##### Este imperativo esta dirigido a una forma de pensar que resulta en una actitud.
 
@@ -1142,7 +1142,7 @@ Haya, pues, en ustedes esta actitud que hubo también en Cristo Jesús,
 
 ##### El Señor Jesucristo tenia una actitud basado en su modo de pensar.
 
-##### Hebreos 12:2b \scripture{...quien por el gozo puesto delante de Él soportó la cruz, despreciando la vergüenza, y se ha sentado a la diestra del trono de Dios.}
+##### Hebreos 12:2b *...quien por el gozo puesto delante de Él soportó la cruz, despreciando la vergüenza, y se ha sentado a la diestra del trono de Dios.*
 
 - Quien no obro en ningún caso por egoísmo o por vanagloria.
 - Considero a los demás como más importantes que el.
@@ -1197,7 +1197,7 @@ Y hallándose en forma de hombre, se humilló Él mismo, haciéndose obediente h
 
 ##### El texto mantiene una sola <u>línea continua</u>:
 
-- \textbf{condición → decisión → acción → resultado}
+- **condición → decisión → acción → resultado**
 
 ##### Cada elemento no está aislado, sino conectado directamente con el anterior, desarrollando una secuencia coherente sin cambio de tema.
 
@@ -1241,7 +1241,7 @@ y toda lengua confiese que Jesucristo es Señor, para gloria de Dios Padre.
 
 ##### El desarrollo mantiene una sola <u>línea</u> continua:
 
-- \textbf{actitud → acción → resultado → propósito}
+- **actitud → acción → resultado → propósito**
 
 ##### No se presenta como elementos separados, sino como una secuencia coherente que conecta directamente con lo anterior (Filipenses 2:1–4), sin introducir un nuevo tema.
 
@@ -1290,13 +1290,13 @@ Porque Dios es quien obra en ustedes tanto el querer como el hacer, para Su buen
 
 ## Pregunta sincera 
 
-##### A partir de lo que la carta afirma, surge una <u>pregunta</u> natural. El texto presenta a creyentes como “santos en Cristo Jesús” (Filipenses 1:1), afirma que Dios perfecciona la obra en ellos (Filipenses 1:6), y declara que les ha sido concedido creer (Filipenses 1:29). Estas afirmaciones establecen una realidad clara dentro del desarrollo. Al mismo tiempo, la carta incluye llamados directos a actuar: \scripture{compórtense dignamente} (Filipenses 1:27), \scripture{tengan esta actitud} (Filipenses 2:5), \scripture{hagan todo sin murmuraciones} (Filipenses 2:14), \scripture{prosigo hacia la meta} (Filipenses 3:14), \scripture{practiquen esto} (Filipenses 4:9). Ambas líneas aparecen juntas, sin que una elimine a la otra.
+##### A partir de lo que la carta afirma, surge una <u>pregunta</u> natural. El texto presenta a creyentes como “santos en Cristo Jesús” (Filipenses 1:1), afirma que Dios perfecciona la obra en ellos (Filipenses 1:6), y declara que les ha sido concedido creer (Filipenses 1:29). Estas afirmaciones establecen una realidad clara dentro del desarrollo. Al mismo tiempo, la carta incluye llamados directos a actuar: *compórtense dignamente* (Filipenses 1:27), *tengan esta actitud* (Filipenses 2:5), *hagan todo sin murmuraciones* (Filipenses 2:14), *prosigo hacia la meta* (Filipenses 3:14), *practiquen esto* (Filipenses 4:9). Ambas líneas aparecen juntas, sin que una elimine a la otra.
 
-##### En ese mismo flujo, Filipenses 2:12 introduce un <u>mandato</u> claro: \scripture{ocúpense en su salvación con temor y temblor}. El texto no cambia de audiencia ni introduce otro grupo; continúa dirigiéndose a los mismos creyentes. Inmediatamente después, añade: \scripture{porque Dios es quien obra en ustedes tanto el querer como el hacer} (Filipenses 2:13). Ambos versículos permanecen unidos, mostrando en una sola línea la acción del creyente y la acción de Dios, sin separarlas ni presentarlas como opuestas.
+##### En ese mismo flujo, Filipenses 2:12 introduce un <u>mandato</u> claro: *ocúpense en su salvación con temor y temblor*. El texto no cambia de audiencia ni introduce otro grupo; continúa dirigiéndose a los mismos creyentes. Inmediatamente después, añade: *porque Dios es quien obra en ustedes tanto el querer como el hacer* (Filipenses 2:13). Ambos versículos permanecen unidos, mostrando en una sola línea la acción del creyente y la acción de Dios, sin separarlas ni presentarlas como opuestas.
 
-##### A lo largo de la carta, el lenguaje describe un <u>andar</u> continuo. Pablo habla de su propio avance: \scripture{sigo adelante} (Filipenses 3:12), \scripture{prosigo hacia la meta} (Filipenses 3:14), y luego incluye a los creyentes: \scripture{continuemos viviendo según la misma norma} (Filipenses 3:16). El desarrollo no se presenta como algo terminado, sino como un movimiento que continúa.
+##### A lo largo de la carta, el lenguaje describe un <u>andar</u> continuo. Pablo habla de su propio avance: *sigo adelante* (Filipenses 3:12), *prosigo hacia la meta* (Filipenses 3:14), y luego incluye a los creyentes: *continuemos viviendo según la misma norma* (Filipenses 3:16). El desarrollo no se presenta como algo terminado, sino como un movimiento que continúa.
 
-##### Todo este flujo permanece centrado en <u>Cristo</u>. Expresiones como \scripture{en Cristo Jesús} (Filipenses 1:1; 4:23), \scripture{para mí el vivir es Cristo} (Filipenses 1:21), \scripture{ganar a Cristo} (Filipenses 3:8) y \scripture{ser hallado en Él} (Filipenses 3:9) mantienen un mismo punto de referencia. El texto no introduce otro centro; todo lo que afirma y exhorta se desarrolla dentro de esa misma línea.
+##### Todo este flujo permanece centrado en <u>Cristo</u>. Expresiones como *en Cristo Jesús* (Filipenses 1:1; 4:23), *para mí el vivir es Cristo* (Filipenses 1:21), *ganar a Cristo* (Filipenses 3:8) y *ser hallado en Él* (Filipenses 3:9) mantienen un mismo punto de referencia. El texto no introduce otro centro; todo lo que afirma y exhorta se desarrolla dentro de esa misma línea.
 
 ### Filipenses 2:14
 Hagan todas las cosas sin murmuraciones ni discusiones,
@@ -1356,7 +1356,7 @@ Y también ustedes, les ruego, regocíjense de la misma manera, y compartan su g
 
 ##### El desarrollo se mantiene en una sola <u>línea</u> continua. No se separan los elementos, sino que aparecen juntos dentro del flujo del texto:
 
-- \textbf{mandato → acción → propósito → resultado → gozo}
+- **mandato → acción → propósito → resultado → gozo**
 
 ##### No introduce caminos paralelos ni ideas independientes, sino una secuencia coherente donde cada elemento se conecta directamente con el anterior.
 
@@ -1522,11 +1522,11 @@ Porque estuvo al borde de la muerte por la obra de Cristo, arriesgando su vida p
 
 ## Filipenses 3:1 Exhorta a regocijarse en el Señor
 
-##### El capítulo 3 presenta diferentes propuestas sobre su <u>estructura</u>, principalmente por el cambio que se percibe entre los versículos 1 y 2. La frase \scripture{No me es molesto escribirles lo mismo} ha llevado a algunos a pensar en una posible interrupción o combinación de materiales. Sin embargo, estas propuestas deben evaluarse a la luz del texto mismo, su gramática y su continuidad.
+##### El capítulo 3 presenta diferentes propuestas sobre su <u>estructura</u>, principalmente por el cambio que se percibe entre los versículos 1 y 2. La frase *No me es molesto escribirles lo mismo* ha llevado a algunos a pensar en una posible interrupción o combinación de materiales. Sin embargo, estas propuestas deben evaluarse a la luz del texto mismo, su gramática y su continuidad.
 
 ##### Una primera postura sostiene que Filipenses es una composición de varias <u>cartas</u> unidas posteriormente. Esta idea propone una división en tres secciones: un agradecimiento (4:10–20), una carta más extensa (1:1–3:1; 4:2–7; 4:21–23), y una sección polémica (3:2–4:1; 4:8–9). Esta postura se apoya en referencias externas, como la mención de múltiples cartas en Policarpo. Sin embargo, no se sostiene a nivel textual, ya que los manuscritos antiguos no muestran circulación separada de estas secciones.
 
-##### Una segunda postura afirma que Filipenses es una sola <u>carta</u>, pero propone que 3:1 marca el cierre de una sección y 3:2 el inicio de otra, debido al cambio entre \scripture{regocíjense} y \scripture{cuídense}. Aunque esta lectura intenta apoyarse en el uso repetido de KJAIRO (\scripture{regocijarse}), no toma plenamente en cuenta las conexiones internas del texto, especialmente la expresión \scripture{por lo demás, hermanos míos}, que mantiene la continuidad.
+##### Una segunda postura afirma que Filipenses es una sola <u>carta</u>, pero propone que 3:1 marca el cierre de una sección y 3:2 el inicio de otra, debido al cambio entre *regocíjense* y *cuídense*. Aunque esta lectura intenta apoyarse en el uso repetido de KJAIRO (*regocijarse*), no toma plenamente en cuenta las conexiones internas del texto, especialmente la expresión *por lo demás, hermanos míos*, que mantiene la continuidad.
 
 ##### Al considerar el desarrollo completo, la gramática y las conexiones del texto, la carta muestra una <u>unidad</u> continua. No se trata de fragmentos independientes, sino de un solo mensaje que avanza en cadena, con una secuencia de argumento → ejemplo → argumento → ejemplo → desarrollo → conclusión. Por esta razón, lo que puede parecer un cambio brusco es en realidad un contraste intencional dentro del mismo flujo.
 
@@ -1582,7 +1582,7 @@ Porque nosotros somos la verdadera circuncisión, que adoramos en el Espíritu d
 aunque yo mismo podría confiar también en la carne. Si algún otro cree tener motivo para confiar en la carne, yo mucho más:
 
 #### aunque yo mismo podría confiar también en la carne.
-##### Pablo afirma una <u>posibilidad</u>. El texto dice que él \scripture{podría} confiar en la carne, no que lo hace. La base sigue siendo la misma: la carne. No la rechaza en este punto, sino que reconoce que existe como opción dentro del argumento.
+##### Pablo afirma una <u>posibilidad</u>. El texto dice que él *podría* confiar en la carne, no que lo hace. La base sigue siendo la misma: la carne. No la rechaza en este punto, sino que reconoce que existe como opción dentro del argumento.
 
 #### Si algún otro cree tener motivo para confiar en la carne,
 ##### El texto se abre hacia <u>otros</u>. Incluye a cualquiera que piense que tiene motivo para confiar en la carne. “Cree” muestra lo que alguien considera como válido, y “motivo” señala la razón de esa confianza. La base no cambia, sigue siendo la misma: la carne.
@@ -1623,10 +1623,10 @@ en cuanto al celo, perseguidor de la iglesia; en cuanto a la justicia de la ley,
 Pero todo lo que para mí era ganancia, lo he estimado como pérdida por amor de Cristo.
 
 #### Pero todo lo que para mí era ganancia,
-##### Se introduce un <u>contraste</u> con lo anterior. El texto agrupa toda la lista previa (3:5–6) bajo una sola categoría: \scripture{ganancia}. No se añade contenido nuevo, sino que se reúne todo lo anterior dentro de una misma evaluación.
+##### Se introduce un <u>contraste</u> con lo anterior. El texto agrupa toda la lista previa (3:5–6) bajo una sola categoría: *ganancia*. No se añade contenido nuevo, sino que se reúne todo lo anterior dentro de una misma evaluación.
 
 #### lo he estimado como pérdida
-##### Se presenta una nueva <u>evaluación</u>. El verbo indica un cambio de valor: lo que antes era considerado \scripture{ganancia}, ahora es estimado como \scripture{pérdida}. El sujeto sigue siendo Pablo y el objeto continúa siendo todo lo anterior, pero el valor asignado ha cambiado completamente.
+##### Se presenta una nueva <u>evaluación</u>. El verbo indica un cambio de valor: lo que antes era considerado *ganancia*, ahora es estimado como *pérdida*. El sujeto sigue siendo Pablo y el objeto continúa siendo todo lo anterior, pero el valor asignado ha cambiado completamente.
 
 #### por amor de Cristo.
 ##### Se introduce la <u>causa</u> de ese cambio. El texto no elimina la lista previa, sino que redefine su valor en relación con Cristo. Él se convierte en el punto de referencia, marcando una ruptura total en la evaluación: lo anterior pierde su valor frente a Él, estableciendo el contraste que se desarrollará en los versículos siguientes.
@@ -1648,13 +1648,13 @@ Y aún más, yo estimo como pérdida todas las cosas en vista del incomparable v
 ##### Se introduce el nuevo <u>valor</u> que explica la evaluación. La expresión conecta directamente la causa con la decisión: conocer a Cristo se presenta como el punto de referencia que establece la comparación. Lo anterior queda como pérdida frente a este valor superior.
 
 #### Por Él lo he perdido todo,
-##### La pérdida se conecta directamente con <u>Cristo</u>. El texto afirma una acción ya realizada (\scripture{he perdido}), mostrando que no es solo una idea, sino una realidad experimentada. La relación no es abstracta, sino personal.
+##### La pérdida se conecta directamente con <u>Cristo</u>. El texto afirma una acción ya realizada (*he perdido*), mostrando que no es solo una idea, sino una realidad experimentada. La relación no es abstracta, sino personal.
 
 #### y lo considero como basura,
 ##### Se intensifica la <u>evaluación</u>. El término eleva el grado de rechazo: no solo es pérdida, sino algo sin valor alguno. No se introduce una nueva categoría, sino que se refuerza la anterior eliminando cualquier posibilidad de valor residual.
 
 #### a fin de ganar a Cristo
-##### Se introduce el <u>propósito</u>. Toda la pérdida apunta hacia un objetivo: \scripture{ganar a Cristo}. El flujo del versículo se mantiene claro: evaluación → causa → intensificación → propósito, todo dentro de una misma línea sin interrupción.
+##### Se introduce el <u>propósito</u>. Toda la pérdida apunta hacia un objetivo: *ganar a Cristo*. El flujo del versículo se mantiene claro: evaluación → causa → intensificación → propósito, todo dentro de una misma línea sin interrupción.
 
 ### Filipenses 3:9
 y ser hallado en Él, no teniendo mi propia justicia derivada de la ley, sino la que es por la fe en Cristo, la justicia que procede de Dios sobre la base de la fe,
@@ -1707,7 +1707,7 @@ a fin de llegar a la resurrección de entre los muertos.
 
 ##### El cambio tiene una <u>causa</u>. La expresión “en vista de” (3:8) introduce el nuevo valor: conocer a Cristo. Este valor se convierte en el punto de referencia que determina toda la nueva evaluación.
 
-##### El texto establece un nuevo <u>centro</u>. Todo el desarrollo se organiza en relación con Cristo: \scripture{ganar a Cristo} (3:8), \scripture{ser hallado en Él} (3:9), \scripture{conocerlo a Él} (3:10). La línea se mantiene coherente desde inicio a fin, sin desviarse.
+##### El texto establece un nuevo <u>centro</u>. Todo el desarrollo se organiza en relación con Cristo: *ganar a Cristo* (3:8), *ser hallado en Él* (3:9), *conocerlo a Él* (3:10). La línea se mantiene coherente desde inicio a fin, sin desviarse.
 
 ##### El desarrollo sigue una sola <u>estructura</u>. Evaluación → causa → propósito → proceso → meta. Cada elemento se conecta con el anterior, formando una secuencia continua que no introduce temas nuevos, sino que profundiza el mismo argumento hasta su conclusión.
 

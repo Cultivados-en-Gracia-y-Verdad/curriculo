@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  25 APR 2026 15:26
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  3 MAY 2026 20:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1522,26 +1522,26 @@ Package footmisc Info: Declaring symbol style lamport*-robust on input line 768
 (temp/student_manual.aux)
 \openout1 = `student_manual.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1584,68 +1584,68 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 28.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 28.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 28.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 28.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 28.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 28.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 28.
-LaTeX Font Info:    Redeclaring math accent \check on input line 28.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 28.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 28.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 28.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 27.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 27.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 27.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 27.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 27.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 27.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 27.
+LaTeX Font Info:    Redeclaring math accent \check on input line 27.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 27.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 27.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 27.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 27.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 28.
+(Font)              `operators' in the math version `normal' on input line 27.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/IBMPlexSerif(0)/m/n on input line 28
+(Font)                  OT1/cmr/m/n --> TU/IBMPlexSerif(0)/m/n on input line 27
 .
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 28.
+(Font)              `operators' in the math version `bold' on input line 27.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/IBMPlexSerif(0)/m/n on input line 2
-8.
+7.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/IBMPlexSerif(0)/m/n --> TU/IBMPlexSerif(0)/m/n on in
-put line 28.
+put line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/IBMPlexSerif(0)/m/it on input line 
-28.
+27.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/IBMPlexSerif(0)/b/n on input line 2
-8.
+7.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 28.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 28.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 27.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/IBMPlexSerif(0)/m/n --> TU/IBMPlexSerif(0)/b/n on in
-put line 28.
+put line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/IBMPlexSerif(0)/b/it on input line
- 28.
+ 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 28.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 28.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 27.
 \c@lstlisting=\count393
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 28.
+Package hyperref Info: Link coloring ON on input line 27.
 (temp/student_manual.out) (temp/student_manual.out)
 \@outlinefile=\write5
 \openout5 = `student_manual.out'.
@@ -1691,7 +1691,7 @@ File: images/cgv.png Graphic file (type bmp)
 
 
 ]
-Overfull \hbox (1.60722pt too wide) in paragraph at lines 67--68
+Overfull \hbox (1.60722pt too wide) in paragraph at lines 66--67
 []\TU/TeXGyreTermes(0)/m/n/10 Este manual ha sido desarrollado para enseñar la 
 Escritura de manera textual, progresiva y consciente del lenguaje.
  []
@@ -1700,134 +1700,194 @@ Escritura de manera textual, progresiva y consciente del lenguaje.
 
 [2
 
-] (temp/student_manual.toc
-
-[3
-
-]
-Missing character: There is no ⚠ (U+26A0) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ️ (U+FE0F) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-)
+] (temp/student_manual.toc)
 \tf@toc=\write6
 \openout6 = `student_manual.toc'.
 
 
 
-[4]
-Overfull \hbox (31.04997pt too wide) in paragraph at lines 108--112
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Cuando un barco zarpa, no lo hace a la deriva. 
-|   [] con dirección, equipado con el conocimiento
- []
-
-
-Overfull \hbox (19.36966pt too wide) in paragraph at lines 108--112
-\TU/IBMPlexSerif(0)/m/n/10.95 aguas que prometen descubrimiento pueden llevar r
-ápidamente a la confusión, la desorientación
- []
-
-
-Overfull \hbox (33.9843pt too wide) in paragraph at lines 114--121
-[]\TU/IBMPlexSerif(0)/m/n/10.95 De la misma manera, acercarse al |   [] bíblico
- sin una guía clara puede llevar a interpretaciones
- []
-
-
-Overfull \hbox (5.84863pt too wide) in paragraph at lines 114--121
-\TU/IBMPlexSerif(0)/m/n/10.95 equiparte con las herramientas esenciales para na
-vegar las Escrituras con cuidado y precisión.
- []
-
-
-Overfull \hbox (5.07628pt too wide) in paragraph at lines 114--121
-\TU/IBMPlexSerif(0)/m/n/10.95 texto tal como está escrito, de modo que nuestra 
-comprensión esté anclada en lo que realmente
- []
-
-
-Overfull \hbox (10.8917pt too wide) in paragraph at lines 140--145
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Es importante también aclarar de dónde proviene
- esta |   [] de acercarse al texto. RO₁O₂TS
- []
-
-
-Overfull \hbox (0.11145pt too wide) in paragraph at lines 154--158
-[]\TU/IBMPlexSerif(0)/m/n/10.95 RO₁O₂TS simplemente toma esos principios y los 
-presenta de forma accesible, con un lenguaje
- []
-
-
-
-[5
+[3
 
 ]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-MediumItalic.ttf]/OT:script=latn;language=dflt;!
-
-LaTeX Font Warning: Font shape `TU/IBMPlexSerif(2)/b/it' undefined
-(Font)              using `TU/IBMPlexSerif(2)/m/n' instead on input line 184.
-
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-MediumItalic.ttf]/OT:script=latn;language=dflt;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-MediumItalic.ttf]/OT:script=latn;language=dflt;!
-
-Overfull \hbox (21.9pt too wide) in paragraph at lines 183--186
-$[]$
+Overfull \hbox (9.68027pt too wide) in paragraph at lines 121--121
+[]\TU/IBMPlexSerif(0)/m/n/10.95 A lo largo del desarrollo se repiten temas que 
+mantienen la coherencia del mensaje: el evangelio
  []
 
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (2.41446pt too wide) in paragraph at lines 125--125
+\TU/IBMPlexSerif(0)/m/n/10.95 mismo sentir (Filipenses 2:2; 3:15), no poner con
+fianza en la |   [] (Filipenses 3:3), seguir
+ []
+
+
+Overfull \hbox (5.02036pt too wide) in paragraph at lines 129--129
+\TU/IBMPlexSerif(0)/m/n/10.95 1:29). Por otro lado, presenta llamados directos 
+a actuar: \TU/IBMPlexSerif(2)/m/it/10.95 «compórtense dignamente» \TU/IBMPlexSe
+rif(0)/m/n/10.95 (Filipenses
+ []
+
+
+Overfull \hbox (0.80241pt too wide) in paragraph at lines 129--129
+\TU/IBMPlexSerif(0)/m/n/10.95 1:27), \TU/IBMPlexSerif(2)/m/it/10.95 «tengan est
+a actitud» \TU/IBMPlexSerif(0)/m/n/10.95 (Filipenses 2:5), \TU/IBMPlexSerif(2)/
+m/it/10.95 «ocúpense en su salvación» \TU/IBMPlexSerif(0)/m/n/10.95 (Filipenses
+ 2:12). Ambas
+ []
+
+
+
+[4
+
+]
+Overfull \hbox (7.03049pt too wide) in paragraph at lines 135--135
+\TU/IBMPlexSerif(2)/m/it/10.95 unánimes» \TU/IBMPlexSerif(0)/m/n/10.95 (Filipen
+ses 1:27), \TU/IBMPlexSerif(2)/m/it/10.95 «sigo adelante» \TU/IBMPlexSerif(0)/m
+/n/10.95 (Filipenses 3:12), \TU/IBMPlexSerif(2)/m/it/10.95 «prosigo hacia la me
+ta» \TU/IBMPlexSerif(0)/m/n/10.95 (Filipenses
+ []
+
+
+Overfull \hbox (0.71384pt too wide) in paragraph at lines 157--157
+[]\TU/IBMPlexSerif(0)/m/n/10.95 De esta manera, la cultura romana se expandía p
+or el territorio y, con el tiempo, sus habitantes
+ []
+
+
+
+[5]
+Overfull \hbox (15.7474pt too wide) in paragraph at lines 165--165
+[]\TU/IBMPlexSerif(0)/m/n/10.95 La ciudad de Filipos fue casi completamente aba
+ndonada tras un catastrófico terremoto ocurrido
+ []
+
+
+Overfull \hbox (21.5633pt too wide) in paragraph at lines 174--174
+\TU/IBMPlexSerif(0)/m/n/10.95 aclarar su apostolado, ellos conocían a Pablo ya 
+que fue castigado públicamente y encarcelado
+ []
+
+
+Overfull \hbox (6.21144pt too wide) in paragraph at lines 176--176
+\TU/IBMPlexSerif(0)/m/n/10.95 que tuvo mientras eran dirigidos a Macedonia por 
+el Espíritu Santo, quien también impidió
+ []
+
+
+Overfull \hbox (14.0845pt too wide) in paragraph at lines 186--186
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Se encuentra escribiendo la carta ubicado en Ro
+ma, junto con Timoteo y Epafrodito pasando
+ []
+
+
+Overfull \hbox (12.75438pt too wide) in paragraph at lines 188--188
+[]\TU/IBMPlexSerif(0)/m/n/10.95 También se encuentra rodeado de hermanos de la 
+ciudad de Roma como también hermanos
+ []
+
+
+Overfull \hbox (3.75865pt too wide) in paragraph at lines 196--196
+\TU/IBMPlexSerif(0)/m/n/10.95 en su prisión y le llevó noticias de ellos, junto
+ con una ofrenda para sus necesidades (Filipenses
+ []
+
 
 
 [6]
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (26.74998pt too wide) in paragraph at lines 202--202
+\TU/IBMPlexSerif(0)/m/n/10.95 Cristo Jesús… incluyendo a los obispos y diáconos
+” (Filipenses 1:1), lo cual muestra una comunidad
+ []
+
+
+Overfull \hbox (5.76857pt too wide) in paragraph at lines 204--204
+\TU/IBMPlexSerif(0)/m/n/10.95 Pablo. Él habla de ellos como su gozo y corona (F
+ilipenses 4:1), lo cual refleja cómo los identifica
+ []
+
+
+Overfull \hbox (15.12354pt too wide) in paragraph at lines 212--212
+\TU/IBMPlexSerif(0)/m/n/10.95 aprendido (Filipenses 4:9). Este llamado no apare
+ce como algo aislado, sino que se mantiene
+ []
+
+
+Overfull \hbox (7.60571pt too wide) in paragraph at lines 214--214
+\TU/IBMPlexSerif(0)/m/n/10.95 propio ejemplo (Filipenses 3:4–8), y luego descri
+be a otros cuyo enfoque es completamente
+ []
+
+
+Overfull \hbox (3.24278pt too wide) in paragraph at lines 214--214
+\TU/IBMPlexSerif(0)/m/n/10.95 distinto (Filipenses 3:18–19). Este contraste no 
+desvía el tema, sino que refuerza la misma
+ []
+
 
 
 [7]
-Overfull \hbox (37.98433pt too wide) in paragraph at lines 356--357
-[]\TU/IBMPlexSerif(0)/m/n/11 Cuando leemos por versículos aislados, rompemos lo
- que fue dado como una sola comunicación. 
+Overfull \hbox (14.32414pt too wide) in paragraph at lines 216--216
+\TU/IBMPlexSerif(0)/m/n/10.95 hacia la meta” (Filipenses 3:14), “continuemos vi
+viendo” (Filipenses 3:16). Este movimiento
+ []
+
+
+Overfull \hbox (32.90022pt too wide) in paragraph at lines 216--216
+\TU/IBMPlexSerif(0)/m/n/10.95 no cambia de dirección, sino que se mantiene alin
+eado con lo que Pablo ha venido desarrollando
+ []
+
+
+Overfull \hbox (18.0827pt too wide) in paragraph at lines 252--252
+ \TU/IBMPlexSerif(0)/m/n/10.95 Ambos son presentados juntos, sin separación ni 
+explicación adicional, lo cual mantiene
  []
 
 
 
 [8]
+Overfull \hbox (4.29764pt too wide) in paragraph at lines 258--258
+ \TU/IBMPlexSerif(0)/m/n/10.95 identificación para los dos. Este término se apl
+ica de manera conjunta, sin diferenciar
+ []
+
+
+Overfull \hbox (7.30377pt too wide) in paragraph at lines 282--282
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se introduce el primer elemento del saludo: | 
+  []. El texto lo dirige directamente
+ []
+
+
+Overfull \hbox (21.47574pt too wide) in paragraph at lines 282--282
+ \TU/IBMPlexSerif(0)/m/n/10.95 a los destinatarios (\TU/IBMPlexSerif(2)/m/it/10
+.95 «a ustedes»\TU/IBMPlexSerif(0)/m/n/10.95 ), manteniendo el mismo grupo menc
+ionado en el versículo
+ []
+
+
+Overfull \hbox (11.51857pt too wide) in paragraph at lines 294--294
+ \TU/IBMPlexSerif(0)/m/n/10.95 añade otro agente ni se desarrolla más detalle, 
+sino que se cierra el saludo manteniendo
+ []
+
+
 
 [9]
-Overfull \hbox (2.1563pt too wide) in paragraph at lines 505--507
-[]\TU/IBMPlexSerif(0)/m/n/10.95 No estamos construyendo sobre interpretaciones 
-cambiantes, sino sobre algo
+Overfull \hbox (12.89827pt too wide) in paragraph at lines 321--321
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El texto no presenta un recuerdo frío ni dista
+nte, sino un recuerdo que produce gratitud. 
+ []
+
+
+Overfull \hbox (9.56436pt too wide) in paragraph at lines 338--341
+[]\TU/IBMPlexSerif(0)/m/n/10.95 El motivo por el cual fueron encarcelados y que
+ gozo tenían de estar en cadenas.
+ []
+
+
+Overfull \hbox (7.84033pt too wide) in paragraph at lines 344--346
+[]\TU/IBMPlexSerif(0)/m/n/10.95 La predicación del evangelio después de su enca
+rcelamiento. 1 Tesalonicenses
  []
 
 
@@ -1835,1567 +1895,1648 @@ cambiantes, sino sobre algo
 [10]
 
 [11]
-File: images/13-pasos.png Graphic file (type bmp)
-<images/13-pasos.png>
+Overfull \hbox (8.533pt too wide) in paragraph at lines 428--428
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La Versión RVR 60 y la versión BTX4 traducen..
+. ”por vuestra comunión en el evangelio,
+ []
+
+
+Overfull \hbox (34.39674pt too wide) in paragraph at lines 436--436
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La participación de los filipenses no aparece 
+como algo reciente, sino como una continuidad
+ []
+
+
+Overfull \hbox (1.7913pt too wide) in paragraph at lines 446--446
+ \TU/IBMPlexSerif(0)/m/n/10.95 confianza en la carne y no el evangelio, y lo qu
+e ellos están viviendo es completamente
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 452--454
+[]\TU/IBMPlexSerif(2)/m/it/10.95 « Estoy convencido precisamente de esto: que e
+l que comenzó en ustedes la buena obra, la
+ []
+
 
 
 [12]
+Overfull \hbox (4.58719pt too wide) in paragraph at lines 468--468
+ \TU/IBMPlexSerif(0)/m/n/10.95 solo es para los ancianos y diáconos (”lideres”)
+, sino para todos los santos que llegaron
+ []
+
+
+Overfull \hbox (7.32686pt too wide) in paragraph at lines 476--476
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo no atribuye ese comienzo a su propia cap
+acidad ni a la iniciativa de los filipenses. 
+ []
+
+
+Overfull \hbox (0.14758pt too wide) in paragraph at lines 480--480
+ \TU/IBMPlexSerif(0)/m/n/10.95 como un plan meramente humano, sino como una dir
+ección de Dios. Hechos 16:6-10 
+ []
+
+
+Overfull \hbox (2.22571pt too wide) in paragraph at lines 508--510
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Obra de Dios el Padre, quien a través de una vi
+sión fue llamado de ir a anunciar
+ []
+
+
+Overfull \hbox (16.2161pt too wide) in paragraph at lines 512--512
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La Biblia no menciona que el Varon macedonio p
+ueda ser Lucas, aunque no lo menciona,
+ []
+
+
 
 [13]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (19.40036pt too wide) in paragraph at lines 549--549
+ \TU/IBMPlexSerif(0)/m/n/10.95 modo indicativo, lo que significa, que en un fut
+uro de hecho que Dios lo hará y completará
+ []
 
-Overfull \hbox (4.46956pt too wide) in paragraph at lines 718--721
-\TU/IBMPlexSerif(0)/m/n/11 Les di a beber leche, no alimento sólido, porque tod
-avía no podían recibirlo. En verdad,
+
+Overfull \hbox (27.00182pt too wide) in paragraph at lines 551--551
+ \TU/IBMPlexSerif(0)/m/n/10.95 Pablo el que va a completar la obra (1ra persona
+), no es cada creyente independientemente
  []
 
 
 
 [14]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (0.71817pt too wide) in paragraph at lines 621--621
+ \TU/IBMPlexSerif(0)/m/n/10.95 Pablo, ellos eran motivó de gozo porque al estar
+ en prisión ellos estaban en su corazón
+ []
+
 
 
 [15]
-Overfull \hbox (5.7771pt too wide) in paragraph at lines 775--775
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Identificas y |   [] los \TU/IBMPlexSerif(0)/b/
-n/10.95 verbos finitos del texto\TU/IBMPlexSerif(0)/m/n/10.95 , confirmados por
- la morfología griega.[] 
+Overfull \hbox (1.5635pt too wide) in paragraph at lines 627--627
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo añade dos acciones relacionadas con el |
+   []: defensa y confirmación. 
  []
 
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ✔ (U+2714) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ✔ (U+2714) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 🔒 (U+1F512) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (16.08566pt too wide) in paragraph at lines 633--633
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La carta misma mostrará que su situación contr
+ibuye al avance del evangelio. Filipenses
+ []
+
+
+Overfull \hbox (21.091pt too wide) in paragraph at lines 635--635
+ \TU/IBMPlexSerif(0)/m/n/10.95 los hermanos Filipenses estaban participando en 
+dar para el sustento de Pablo Filipenses
+ []
+
+
+Overfull \hbox (18.71484pt too wide) in paragraph at lines 641--641
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Al tiempo que Pablo escribió esta carta contin
+uaba presentando defensa por el evangelio.
+ []
+
+
+Overfull \hbox (1.24162pt too wide) in paragraph at lines 651--651
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Esta participación no es individual ni aislada
+, sino “conmigo”, indicando una relación
+ []
+
+
+Overfull \hbox (35.91876pt too wide) in paragraph at lines 659--659
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Esta participación habla en el sentido práctic
+o, mientras Pablo anunciaba inmerecidamente
+ []
+
 
 
 [16]
-Missing character: There is no ✔ (U+2714) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-MediumItalic.ttf]/OT:script=latn;language=dflt;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❌ (U+274C) in font Gentium Plus/OT:script=latn;l
-anguage=dflt;!
-Missing character: There is no ❌ (U+274C) in font Gentium Plus/OT:script=latn;l
-anguage=dflt;!
-Missing character: There is no ❌ (U+274C) in font Gentium Plus/OT:script=latn;l
-anguage=dflt;!
-Missing character: There is no ❌ (U+274C) in font Gentium Plus/OT:script=latn;l
-anguage=dflt;!
-Missing character: There is no ✔ (U+2714) in font Gentium Plus/OT:script=latn;l
-anguage=dflt;!
-Missing character: There is no ✔ (U+2714) in font Gentium Plus/OT:script=latn;l
-anguage=dflt;!
+Overfull \hbox (12.2266pt too wide) in paragraph at lines 671--671
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo apela a Dios como |   [] de lo que afirm
+a, dando peso directo a su expresión.
+ []
+
+
+Overfull \hbox (3.67102pt too wide) in paragraph at lines 671--671
+ \TU/IBMPlexSerif(2)/m/it/10.95 «Dios me es testigo» \TU/IBMPlexSerif(0)/m/n/10
+.95 no introduce otro respaldo, sino una apelación directa que refuerza
+ []
+
+
+Overfull \hbox (20.31895pt too wide) in paragraph at lines 673--673
+ \TU/IBMPlexSerif(0)/m/n/10.95 anteriormente (Filipenses 1:7). Así, la relación
+ no aparece fragmentada, sino consistente
+ []
+
+
+Overfull \hbox (17.02783pt too wide) in paragraph at lines 675--675
+ \TU/IBMPlexSerif(0)/m/n/10.95 una idea nueva, sino que continúa lo ya menciona
+do: recuerdo, participación y cercanía.
+ []
+
+
+Overfull \hbox (14.99944pt too wide) in paragraph at lines 683--683
+ \TU/IBMPlexSerif(0)/m/n/10.95 con Cristo, sin introducir otra fuente. La expre
+sión \TU/IBMPlexSerif(2)/m/it/10.95 «entrañable» \TU/IBMPlexSerif(0)/m/n/10.95 
+intensifica el contenido,
+ []
+
+
+Overfull \hbox (15.93504pt too wide) in paragraph at lines 683--683
+ \TU/IBMPlexSerif(0)/m/n/10.95 añadiendo profundidad al modo en que ese amor se
+ describe, sin desarrollar el concepto
+ []
+
+
+Overfull \hbox (3.18922pt too wide) in paragraph at lines 697--697
+[]\TU/IBMPlexSerif(0)/m/n/10.95 El texto ha venido presentando una línea contin
+ua: participación en el evangelio, obra iniciada
+ []
+
+
+Overfull \hbox (33.88205pt too wide) in paragraph at lines 701--701
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo introduce claramente su |   [], después 
+de haber establecido ese fundamento.
+ []
+
 
 
 [17]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (31.24683pt too wide) in paragraph at lines 731--731
+ \TU/IBMPlexSerif(0)/m/n/10.95 flujo del pasaje es claro: el amor que abunda, j
+unto con el conocimiento y el discernimiento,
+ []
+
+
+Overfull \hbox (0.83133pt too wide) in paragraph at lines 737--737
+ \TU/IBMPlexSerif(0)/m/n/10.95 iniciada en la frase anterior, mostrando que el 
+escoger lo mejor conduce a este estado:
+ []
+
+
+Overfull \hbox (44.48773pt too wide) in paragraph at lines 737--737
+ \TU/IBMPlexSerif(0)/m/n/10.95 como consecuencia de lo anterior. La secuencia s
+e mantiene: desarrollo (amor, conocimiento,
+ []
+
+
+Overfull \hbox (28.57376pt too wide) in paragraph at lines 737--737
+ \TU/IBMPlexSerif(0)/m/n/10.95 discernimiento) → elección → resultado. No hay r
+uptura en el argumento, sino continuidad
+ []
+
 
 
 [18]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ✔ (U+2714) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Overfull \hbox (11.2733pt too wide) in paragraph at lines 1006--1008
-[]\TU/IBMPlexSerif(0)/m/n/10.95 ==pude==, ==di==, ==podían==, ==pueden== → ✔ co
-rresponden a verbos finitos
+Overfull \hbox (10.23837pt too wide) in paragraph at lines 755--755
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se describe una |   [] dentro del mismo flujo 
+del pasaje. La expresión “llenos”
  []
 
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [19]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 1100--1102
-
+Overfull \hbox (17.53615pt too wide) in paragraph at lines 793--793
+ \TU/IBMPlexSerif(0)/m/n/10.95 cada evento, sino en cómo deben ser entendidas. 
+Estas circunstancias ya eran conocidas
  []
 
 
 
 [20]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❌ (U+274C) in font [lmmono10-regular]:!
-Missing character: There is no ❌ (U+274C) in font [lmmono10-regular]:!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 1140--1142
-
+Overfull \hbox (13.99568pt too wide) in paragraph at lines 817--817
+ \TU/IBMPlexSerif(0)/m/n/10.95 sino que conecta directamente esta situación con
+ Cristo. De esta manera, no se presenta
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1142--1144
-
- []
-
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 1201--1203
-
+Overfull \hbox (17.96176pt too wide) in paragraph at lines 823--823
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se describe el |   [] de esas prisiones. El te
+xto afirma que se han hecho “notorias”,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1203--1205
+Overfull \hbox (20.66422pt too wide) in paragraph at lines 829--829
+ \TU/IBMPlexSerif(0)/m/n/10.95 otros fuera de ese entorno inmediato. De esta ma
+nera, el flujo se mantiene: circunstancia
+ []
 
+
+Overfull \hbox (9.58282pt too wide) in paragraph at lines 829--829
+ \TU/IBMPlexSerif(0)/m/n/10.95 → causa → visibilidad → expansión. El resultado 
+no queda contenido, sino que continúa
+ []
+
+
+Overfull \hbox (11.23264pt too wide) in paragraph at lines 847--847
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se identifica nuevamente la |   []. Las prisio
+nes, que ya habían sido mencionadas,
+ []
+
+
+Overfull \hbox (6.75626pt too wide) in paragraph at lines 847--847
+ \TU/IBMPlexSerif(0)/m/n/10.95 generan este efecto. Lo que podría producir temo
+r se presenta aquí como produciendo
  []
 
 
 
 [21]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (13.39926pt too wide) in paragraph at lines 862--862
+\TU/IBMPlexSerif(0)/m/n/10.95 cómo ese mismo avance genera respuestas distintas
+ en quienes predican. No cambia el mensaje
+ []
+
+
+Overfull \hbox (31.23677pt too wide) in paragraph at lines 866--866
+ \TU/IBMPlexSerif(0)/m/n/10.95 discernimiento conduce a escoger lo mejor. Aquí 
+se empieza a ver cómo ese discernimiento
+ []
+
+
+Overfull \hbox (6.48033pt too wide) in paragraph at lines 878--878
+ \TU/IBMPlexSerif(0)/m/n/10.95 en la intención con la que se realiza. De esta m
+anera, el desarrollo continúa mostrando
+ []
+
 
 
 [22]
-Underfull \hbox (badness 10000) in paragraph at lines 1268--1270
-
+Overfull \hbox (3.36804pt too wide) in paragraph at lines 890--890
+ \TU/IBMPlexSerif(0)/m/n/10.95 amor”, manteniendo la misma línea que Pablo ha v
+enido desarrollando desde el inicio
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1270--1272
-
- []
-
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ✔ (U+2714) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 1302--1304
-
+Overfull \hbox (25.31284pt too wide) in paragraph at lines 896--896
+ \TU/IBMPlexSerif(0)/m/n/10.95 comprensión de lo que está ocurriendo. Este cono
+cimiento está directamente relacionado
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1304--1306
-
- []
-
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 1316--1318
-
+Overfull \hbox (4.74925pt too wide) in paragraph at lines 896--896
+ \TU/IBMPlexSerif(0)/m/n/10.95 manera, el amor no aparece aislado, sino unido a
+ una comprensión clara del propósito
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1318--1320
+Overfull \hbox (28.49928pt too wide) in paragraph at lines 896--896
+ \TU/IBMPlexSerif(0)/m/n/10.95 de sus circunstancias. Esto mantiene la misma se
+cuencia presentada antes: conocimiento
+ []
 
+
+Overfull \hbox (15.85353pt too wide) in paragraph at lines 896--896
+ \TU/IBMPlexSerif(0)/m/n/10.95 y discernimiento conducen a una respuesta adecua
+da. Así, el pasaje conecta motivación
+ []
+
+
+Overfull \hbox (13.29608pt too wide) in paragraph at lines 896--896
+ \TU/IBMPlexSerif(0)/m/n/10.95 (amor) con comprensión (saber), mostrando una lí
+nea consistente dentro del desarrollo
+ []
+
+
+Overfull \hbox (11.27861pt too wide) in paragraph at lines 908--908
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se identifica la |   []. El texto mantiene el 
+mismo acto —proclamar a Cristo—,
+ []
+
+
+Overfull \hbox (26.30103pt too wide) in paragraph at lines 910--910
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Esto continúa el contraste iniciado en 1:15–16
+, donde se presentan distintas motivaciones
  []
 
 
 
 [23]
-Underfull \hbox (badness 10000) in paragraph at lines 1342--1344
-
+Overfull \hbox (11.39076pt too wide) in paragraph at lines 926--926
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Esto conecta nuevamente con sus prisiones (1:1
+3–14), manteniendo el mismo contexto
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1344--1346
-
+Overfull \hbox (0.44716pt too wide) in paragraph at lines 938--938
+[]| \TU/IBMPlexSerif(2)/m/it/10.95 «¿Entonces qué? Que de todas maneras, ya sea
+ fingidamente o en verdad, Cristo es proclamado;» 
  []
 
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 1356--1358
-
+Overfull \hbox (14.64172pt too wide) in paragraph at lines 952--952
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se refuerza la |   []. El texto no introduce u
+na idea nueva, sino que intensifica
  []
 
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 1358--1360
-
+Overfull \hbox (22.10234pt too wide) in paragraph at lines 952--952
+ \TU/IBMPlexSerif(0)/m/n/10.95 lo que ya ha sido dicho. Este “sí” confirma la c
+onclusión y el gozo expresado, manteniendo
  []
 
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 1408--1410
+Overfull \hbox (18.99982pt too wide) in paragraph at lines 958--958
+ \TU/IBMPlexSerif(0)/m/n/10.95 momentánea, sino como una continuidad en el tiem
+po. El texto muestra que la respuesta
+ []
 
+
+Overfull \hbox (43.02164pt too wide) in paragraph at lines 958--958
+ \TU/IBMPlexSerif(0)/m/n/10.95 de Pablo permanece estable, independientemente d
+e las circunstancias o de las motivaciones
  []
 
 
 
 [24]
-Underfull \hbox (badness 10000) in paragraph at lines 1410--1412
-
+Overfull \hbox (6.50317pt too wide) in paragraph at lines 993--993
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Los filipenses no |   [] fuera de lo que ocurr
+e; aparecen participando por medio
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1412--1414
-
+Overfull \hbox (14.64293pt too wide) in paragraph at lines 1001--1001
+ \TU/IBMPlexSerif(0)/m/n/10.95 participar en |   [], acompañando a los creyente
+s que están pasando tribulación.
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1414--1416
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1416--1418
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1442--1444
-
- []
-
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [25]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 1538--1540
-
+Overfull \hbox (2.50883pt too wide) in paragraph at lines 1047--1047
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Es aquí |   [] termina su narración y su plena
+ confianza de que Dios lo ha llevado
  []
 
 
 
 [26]
-Underfull \hbox (badness 10000) in paragraph at lines 1540--1542
-
- []
-
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 1552--1554
-
+Overfull \hbox (14.38257pt too wide) in paragraph at lines 1066--1066
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se introduce la |   [] de Pablo. El texto habl
+a en primera persona, mostrando
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1554--1556
-
+Overfull \hbox (3.62338pt too wide) in paragraph at lines 1072--1072
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se define el |   []. El texto es directo: “el 
+vivir es Cristo”. No añade otros elementos
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1573--1575
-
+Overfull \hbox (27.30356pt too wide) in paragraph at lines 1078--1078
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se presenta el |   [] como resultado. El texto
+ lo define como “ganancia”, manteniendo
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1575--1577
-
+Overfull \hbox (7.2286pt too wide) in paragraph at lines 1098--1098
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se expresa una |   []. El texto no da una resp
+uesta inmediata, sino que presenta
  []
 
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 1587--1589
-
+Overfull \hbox (5.56537pt too wide) in paragraph at lines 1100--1100
+ \TU/IBMPlexSerif(0)/m/n/10.95 nueva, sino que muestra cómo ambas opciones (viv
+ir con fruto / morir como ganancia)
  []
 
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 1589--1591
-
- []
-
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [27]
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 1638--1640
-
+Overfull \hbox (11.45381pt too wide) in paragraph at lines 1112--1112
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se describe la |   [] interna. La expresión “d
+e ambos lados” conecta con 1:21–22
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1640--1642
-
+Overfull \hbox (5.64055pt too wide) in paragraph at lines 1112--1112
+ \TU/IBMPlexSerif(0)/m/n/10.95 (vivir / morir) y muestra que ambas opciones per
+manecen presentes al mismo tiempo.
  []
 
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ✔ (U+2714) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 1653--1655
+Overfull \hbox (11.62901pt too wide) in paragraph at lines 1114--1114
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se afirma una |   [] real. “Me siento apremiad
+o” indica que las dos posibilidades
+ []
 
+
+Overfull \hbox (2.7814pt too wide) in paragraph at lines 1120--1120
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se identifica un |   []: “partir y estar con C
+risto”. El texto nombra explícitamente
+ []
+
+
+Overfull \hbox (20.13351pt too wide) in paragraph at lines 1144--1144
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El enfoque se dirige hacia |   []. “Por causa 
+de ustedes” conecta con los destinatarios,
  []
 
 
 
 [28]
-Missing character: There is no ✔ (U+2714) in font [lmmono10-regular]:!
-Missing character: There is no ✔ (U+2714) in font [lmmono10-regular]:!
-Missing character: There is no ✔ (U+2714) in font [lmmono10-regular]:!
-Missing character: There is no ✔ (U+2714) in font [lmmono10-regular]:!
+Overfull \hbox (15.81557pt too wide) in paragraph at lines 1156--1156
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se expresa una |   []. “Convencido de esto” re
+toma la evaluación del versículo
+ []
+
+
+Overfull \hbox (1.93611pt too wide) in paragraph at lines 1188--1188
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El texto no desarrolla el detalle histórico, s
+ino el |   []. La mención
+ []
+
 
 
 [29]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❌ (U+274C) in font [lmmono10-regular]:!
-Missing character: There is no ❌ (U+274C) in font [lmmono10-regular]:!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
 
 [30]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 1807--1809
-
+Overfull \hbox (19.89746pt too wide) in paragraph at lines 1268--1268
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Después de haber narrado como las circunstancia
+s por las que Pablo esta pasando y los resultados
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1809--1811
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1811--1813
-
- []
-
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 1823--1825
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1825--1827
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1827--1829
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1845--1847
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1847--1849
-
- []
-
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 1859--1861
-
- []
-
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 1861--1863
-
- []
-
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [31]
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 1916--1918
-
+Overfull \hbox (30.36115pt too wide) in paragraph at lines 1298--1298
+ []\TU/IBMPlexSerif(2)/m/it/10.95 «compórtense» \TU/IBMPlexSerif(0)/m/n/10.95 P
+OLITEUOMAI es una palabra derivada de POLITES, que significa ciudadano
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1918--1920
-
+Overfull \hbox (9.74608pt too wide) in paragraph at lines 1298--1298
+ \TU/IBMPlexSerif(0)/m/n/10.95 o poblador, compuesto por comportamiento, que pu
+ede traducirse como: \TU/IBMPlexSerif(2)/m/it/10.95 «compórtense
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1920--1922
-
+Overfull \hbox (0.73497pt too wide) in paragraph at lines 1304--1304
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Por lo que podemos llegar a entender que al mo
+mento de haber creído en el evangelio,
  []
 
 
 
 [32]
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 2005--2007
-
+Overfull \hbox (29.11736pt too wide) in paragraph at lines 1344--1344
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Note que Dios nos puso en una ciudadanía digna
+ del evangelio a pesar de las circunstancias
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2007--2009
-
+Overfull \hbox (9.19347pt too wide) in paragraph at lines 1364--1364
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Esto es algo que ellos debían prestar atención
+, ya que para un andar digno del evangelio
  []
 
 
 
 [33]
-Underfull \hbox (badness 10000) in paragraph at lines 2009--2011
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2011--2013
-
- []
-
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 2023--2025
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2025--2027
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2027--2029
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2046--2048
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2048--2050
-
- []
-
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 2060--2062
-
- []
-
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 2062--2064
-
- []
-
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
 
 [34]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (6.43628pt too wide) in paragraph at lines 1446--1446
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Para entender ese pasaje y no alejarnos de su s
+ignificado debemos volver un poco a los orígenes
+ []
+
+
+Overfull \hbox (9.91267pt too wide) in paragraph at lines 1462--1462
+ []\TU/IBMPlexSerif(0)/m/n/10.95 A través de la fe en el evangelio todo creyent
+e se beneficio de la gracia de Dios. Romanos
+ []
+
 
 
 [35]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (3.22574pt too wide) in paragraph at lines 1526--1526
+\TU/IBMPlexSerif(0)/m/n/10.95 El llamado no aparece como algo |   [], sino comp
+letamente conectado con el desarrollo
+ []
+
+
+Overfull \hbox (5.99307pt too wide) in paragraph at lines 1530--1530
+[]\TU/IBMPlexSerif(0)/m/n/10.95 A su vez, este desarrollo no ignora las |   [] 
+(Filipenses 1:12), sino que las incluye
+ []
+
+
+Overfull \hbox (10.48438pt too wide) in paragraph at lines 1530--1530
+\TU/IBMPlexSerif(0)/m/n/10.95 dentro del mismo flujo, mostrando cómo estas cont
+ribuyen al avance del evangelio. Finalmente,
+ []
+
+
+Overfull \hbox (1.87521pt too wide) in paragraph at lines 1530--1530
+\TU/IBMPlexSerif(0)/m/n/10.95 se mantiene coherente con la |   [] (Filipenses 1
+:21), que interpreta tanto
+ []
+
 
 
 [36]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (16.13577pt too wide) in paragraph at lines 1547--1547
+ []\TU/IBMPlexSerif(0)/m/n/10.95 No introduce una idea nueva independiente, sin
+o que continúa el mismo flujo (1:27–30). 
+ []
+
+
+Overfull \hbox (13.1537pt too wide) in paragraph at lines 1565--1565
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo introduce una condición con “si”, apelan
+do a algo que está presente en |   []. 
+ []
+
 
 
 [37]
-Overfull \hbox (14.10855pt too wide) in paragraph at lines 2325--2327
-[] [] \TU/IBMPlexSerif(0)/b/n/10.95 ¿Qué haces?[] \TU/IBMPlexSerif(0)/m/n/10.95
- Identificas el tronco del texto eliminando únicamente las cláusulas que depend
-en
+Overfull \hbox (7.33418pt too wide) in paragraph at lines 1597--1597
+ []\TU/IBMPlexSerif(0)/m/n/10.95 De igual manera es de primera condición: Claro
+ que hay alguna comunión del Espíritu,
  []
 
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (8.9964pt too wide) in paragraph at lines 1607--1607
+ []\TU/IBMPlexSerif(0)/m/n/10.95 No los explica en detalle, sino que los presen
+ta como realidad sobre la cual se construye
+ []
+
+
+Overfull \hbox (6.49712pt too wide) in paragraph at lines 1634--1634
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se describe la |   [] en que ese mandato se ex
+presa. El texto no presenta acciones
+ []
+
+
+Overfull \hbox (18.00821pt too wide) in paragraph at lines 1646--1646
+ \TU/IBMPlexSerif(0)/m/n/10.95 a toda acción, mientras que “egoísmo” y “vanaglo
+ria” definen aquello que debe excluirse.
+ []
+
 
 
 [38]
-Missing character: There is no ✔ (U+2714) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (20.12769pt too wide) in paragraph at lines 1652--1652
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se presenta el |   []. “Sino” conecta directam
+ente con lo anterior, introduciendo
+ []
 
-Overfull \hbox (13.51286pt too wide) in paragraph at lines 2454--2454
-[]\TU/IBMPlexSerif(0)/b/n/12 [M] marca un cambio de función estructural observa
-ble en la gramática griega. 
+
+Overfull \hbox (3.21213pt too wide) in paragraph at lines 1670--1670
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se presenta el |   []. El enfoque se desplaza 
+completamente hacia los demás,
  []
 
 
 
 [39]
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ✔ (U+2714) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ✔ (U+2714) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ✔ (U+2714) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (15.04076pt too wide) in paragraph at lines 1700--1700
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Es verdad que en los siguientes pasajes vemos l
+a humildad de Cristo, como un ejemplo ilustrativo
+ []
+
+
+Overfull \hbox (1.78181pt too wide) in paragraph at lines 1700--1700
+\TU/IBMPlexSerif(0)/m/n/10.95 para cada creyente, y es lo que Pablo esperaba oí
+r de los creyentes, pero no debemos confundir
+ []
+
+
+Overfull \hbox (15.76535pt too wide) in paragraph at lines 1721--1721
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Esta actitud FRONEO \TU/IBMPlexSerif(2)/m/it/1
+0.95 «pensar» \TU/IBMPlexSerif(0)/m/n/10.95 es un verbo presente, imperativo, v
+oz activa; que significa
+ []
+
+
+Overfull \hbox (16.10446pt too wide) in paragraph at lines 1760--1763
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Para nosotros es imposible, es verdad, pero Dio
+s lo hizo posible en cada creyente.
+ []
+
 
 
 [40]
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❌ (U+274C) in font [lmmono10-regular]:!
-Missing character: There is no ❌ (U+274C) in font [lmmono10-regular]:!
-Missing character: There is no ✔ (U+2714) in font [lmmono10-regular]:!
-Missing character: There is no ✔ (U+2714) in font [lmmono10-regular]:!
+Overfull \hbox (21.67525pt too wide) in paragraph at lines 1776--1776
+ \TU/IBMPlexSerif(0)/m/n/10.95 presentando esta realidad como parte del desarro
+llo, no como una idea aislada. “Aunque”
+ []
+
+
+Overfull \hbox (8.55353pt too wide) in paragraph at lines 1784--1784
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se presenta una |   []. El texto no niega la c
+ondición anterior, sino que muestra
+ []
+
 
 
 [41]
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Overfull \hbox (6.83043pt too wide) in paragraph at lines 2579--2581
-[] [] \TU/IBMPlexSerif(0)/b/n/10.95 Qué estás haciendo realmente[] \TU/IBMPlexS
-erif(0)/m/n/10.95 Estás dejando visible la línea principal del texto y sus camb
-ios
+Overfull \hbox (17.88144pt too wide) in paragraph at lines 1830--1830
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La progresión es clara y continua: humillación
+ → obediencia → muerte. Todo permanece
  []
 
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (6.62752pt too wide) in paragraph at lines 1866--1866
+ \TU/IBMPlexSerif(0)/m/n/10.95 mantiene la misma línea: acción de Dios → result
+ado otorgado, sin cambiar el enfoque. 
+ []
+
 
 
 [42]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (13.95918pt too wide) in paragraph at lines 1878--1878
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se introduce el |   []. “Para que” conecta con
+ la exaltación anterior, mostrando
+ []
+
 
 
 [43]
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 2714--2716
-
+Overfull \hbox (4.67842pt too wide) in paragraph at lines 1934--1934
+\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa con un |   [] que no es independie
+nte, sino que se basa directamente
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2716--2718
-
+Overfull \hbox (33.77867pt too wide) in paragraph at lines 1934--1934
+\TU/IBMPlexSerif(0)/m/n/10.95 en lo anterior (Filipenses 2:5–11). El enfoque si
+gue conectado con el ejemplo de Cristo, manteniendo
  []
 
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (15.19287pt too wide) in paragraph at lines 1956--1956
+ \TU/IBMPlexSerif(0)/m/n/10.95 que continúa aun en su ausencia. El énfasis está
+ en la continuidad, no en la dependencia
+ []
+
+
+Overfull \hbox (10.92967pt too wide) in paragraph at lines 1962--1962
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se introduce el |   []. “Ocúpense” llama a una
+ acción activa, y “en su salvación”
+ []
+
 
 
 [44]
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (4.29982pt too wide) in paragraph at lines 1986--1986
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se describen dos |   [] de esa acción. “El que
+rer” y “el hacer” aparecen juntos,
+ []
+
+
+Overfull \hbox (11.95386pt too wide) in paragraph at lines 1992--1992
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se define el |   []. La acción de Dios tiene u
+na dirección: “Su buena intención”.
+ []
+
+
+Overfull \hbox (1.19696pt too wide) in paragraph at lines 1999--1999
+\TU/IBMPlexSerif(0)/m/n/10.95 A partir de esta base, el texto continúa desarrol
+lando la misma línea: mandato (v14), resultado
+ []
+
+
+Overfull \hbox (28.9947pt too wide) in paragraph at lines 2009--2009
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Todo permanece dentro del mismo desarrollo sin 
+separarse en ideas independientes, manteniendo
+ []
+
+
+Overfull \hbox (5.34439pt too wide) in paragraph at lines 2013--2013
+\TU/IBMPlexSerif(0)/m/n/10.95 A partir de lo que la carta afirma, surge una |  
+ [] natural. El texto presenta a creyentes
+ []
+
+
+Overfull \hbox (4.61153pt too wide) in paragraph at lines 2013--2013
+\TU/IBMPlexSerif(0)/m/n/10.95 (Filipenses 1:6), y declara que les ha sido conce
+dido creer (Filipenses 1:29). Estas afirmaciones
+ []
+
+
+Overfull \hbox (6.50589pt too wide) in paragraph at lines 2013--2013
+\TU/IBMPlexSerif(0)/m/n/10.95 establecen una realidad clara dentro del desarrol
+lo. Al mismo tiempo, la carta incluye llamados
+ []
+
+
+Overfull \hbox (0.82404pt too wide) in paragraph at lines 2013--2013
+\TU/IBMPlexSerif(0)/m/n/10.95 directos a actuar: \TU/IBMPlexSerif(2)/m/it/10.95
+ «compórtense dignamente» \TU/IBMPlexSerif(0)/m/n/10.95 (Filipenses 1:27), \TU/
+IBMPlexSerif(2)/m/it/10.95 «tengan esta actitud» \TU/IBMPlexSerif(0)/m/n/10.95 
+(Filipenses
+ []
+
+
+Overfull \hbox (3.94261pt too wide) in paragraph at lines 2013--2013
+\TU/IBMPlexSerif(0)/m/n/10.95 2:5), \TU/IBMPlexSerif(2)/m/it/10.95 «hagan todo 
+sin murmuraciones» \TU/IBMPlexSerif(0)/m/n/10.95 (Filipenses 2:14), \TU/IBMPlex
+Serif(2)/m/it/10.95 «prosigo hacia la meta» \TU/IBMPlexSerif(0)/m/n/10.95 (Fili
+penses 3:14),
+ []
+
+
+Overfull \hbox (29.37656pt too wide) in paragraph at lines 2015--2015
+\TU/IBMPlexSerif(2)/m/it/10.95 con temor y temblor»\TU/IBMPlexSerif(0)/m/n/10.9
+5 . El texto no cambia de audiencia ni introduce otro grupo; continúa dirigiénd
+ose
+ []
+
+
+Overfull \hbox (16.83904pt too wide) in paragraph at lines 2015--2015
+\TU/IBMPlexSerif(2)/m/it/10.95 tanto el querer como el hacer» \TU/IBMPlexSerif(
+0)/m/n/10.95 (Filipenses 2:13). Ambos versículos permanecen unidos, mostrando
+ []
+
 
 
 [45]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 2824--2826
-
+Overfull \hbox (17.469pt too wide) in paragraph at lines 2019--2019
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Todo este flujo permanece centrado en |   []. E
+xpresiones como \TU/IBMPlexSerif(2)/m/it/10.95 «en Cristo Jesús» \TU/IBMPlexSer
+if(0)/m/n/10.95 (Filipenses
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2826--2828
-
+Overfull \hbox (2.24998pt too wide) in paragraph at lines 2029--2029
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se introduce un |   [] amplio. “Hagan” estable
+ce la acción, y “todas las cosas”
  []
 
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 2861--2863
-
+Overfull \hbox (23.45134pt too wide) in paragraph at lines 2035--2035
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se añaden elementos a |   []. “Murmuraciones” 
+y “discusiones” marcan el contraste
  []
 
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (1.59514pt too wide) in paragraph at lines 2035--2035
+ \TU/IBMPlexSerif(0)/m/n/10.95 con lo que se ha venido desarrollando (Filipense
+s 2:3). El texto no desarrolla ejemplos
+ []
+
 
 
 [46]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (12.913pt too wide) in paragraph at lines 2077--2077
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se presenta un |   []. “A fin de que” conecta 
+la acción anterior con un resultado
+ []
+
+
+Overfull \hbox (29.31471pt too wide) in paragraph at lines 2077--2077
+ \TU/IBMPlexSerif(0)/m/n/10.95 en Pablo: tener motivo. Este motivo está ligado 
+al “día de Cristo”, manteniendo continuidad
+ []
+
+
+Overfull \hbox (0.42136pt too wide) in paragraph at lines 2077--2077
+ \TU/IBMPlexSerif(0)/m/n/10.95 con Filipenses 1:6 y 1:10. El texto no cambia de
+ enfoque, sino que proyecta lo anterior
+ []
+
+
+Overfull \hbox (4.99333pt too wide) in paragraph at lines 2095--2095
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se introduce una |   []. “Pero” conecta con lo
+ anterior y añade un escenario
+ []
+
+
+Overfull \hbox (0.81186pt too wide) in paragraph at lines 2107--2107
+ \TU/IBMPlexSerif(0)/m/n/10.95 dirige “con todos ustedes”, manteniendo el énfas
+is en la relación. El texto no depende
+ []
+
 
 
 [47]
-Underfull \hbox (badness 10000) in paragraph at lines 2951--2953
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2953--2955
-
- []
-
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 3011--3013
-
+Overfull \hbox (2.1015pt too wide) in paragraph at lines 2139--2139
+[]\TU/IBMPlexSerif(0)/m/n/10.95 No introduce caminos paralelos ni ideas indepen
+dientes, sino una secuencia coherente donde
  []
 
 
 
 [48]
-Underfull \hbox (badness 10000) in paragraph at lines 3013--3015
-
+Overfull \hbox (0.2498pt too wide) in paragraph at lines 2165--2165
+\TU/IBMPlexSerif(0)/m/n/10.95 manifestó su deseo de estar con ellos. Sin embarg
+o, lo que sigue no se separa de la exhortación
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3015--3017
-
+Overfull \hbox (4.31854pt too wide) in paragraph at lines 2167--2167
+\TU/IBMPlexSerif(0)/m/n/10.95 hermanos, que corresponde a los intereses de Cris
+to Jesús (Filipenses 2:21), frente a un interés
  []
 
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
-Overfull \hbox (4.64046pt too wide) in paragraph at lines 3037--3039
-[] [] \TU/IBMPlexSerif(0)/b/n/10.95 ¿Qué haces?[] \TU/IBMPlexSerif(0)/m/n/10.95
- Verificas hasta dónde el texto puede continuar sin cambiar lo que está haciend
-o. 
+Overfull \hbox (0.5357pt too wide) in paragraph at lines 2169--2169
+[]\TU/IBMPlexSerif(0)/m/n/10.95 La mención de Timoteo cumple ese propósito: mos
+trar un servicio fiel y probado, en contraste
  []
 
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ✔ (U+2714) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 3072--3074
-
- []
-
-Missing character: There is no ✔ (U+2714) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 3083--3085
-
- []
-
-Missing character: There is no ✔ (U+2714) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 3094--3096
-
+Overfull \hbox (21.18251pt too wide) in paragraph at lines 2188--2188
+ \TU/IBMPlexSerif(0)/m/n/10.95 ellos, lo cual mantiene la línea relacional cons
+tante en la carta. No se trata de información
  []
 
 
 
 [49]
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 3152--3154
-
+Overfull \hbox (10.65593pt too wide) in paragraph at lines 2206--2206
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se añade el |   [] por ellos. Este interés es 
+presentado como sincero, en contraste
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3154--3156
-
+Overfull \hbox (24.62082pt too wide) in paragraph at lines 2218--2218
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se introduce un |   [] en el enfoque. “Porque”
+ conecta con lo anterior, explicando
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3156--3158
-
+Overfull \hbox (5.54443pt too wide) in paragraph at lines 2218--2218
+ \TU/IBMPlexSerif(0)/m/n/10.95 la diferencia que Pablo está señalando. “Todos b
+uscan sus propios intereses” describe
  []
 
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (2.761pt too wide) in paragraph at lines 2224--2224
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se completa el |   []. El texto no introduce u
+n nuevo tema, sino que establece
+ []
+
+
+Overfull \hbox (22.86005pt too wide) in paragraph at lines 2236--2236
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se introduce una |   [] basada en conocimiento
+ previo. “Pero” marca contraste
+ []
+
 
 
 [50]
-Underfull \hbox (badness 10000) in paragraph at lines 3168--3170
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3170--3172
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3188--3190
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3190--3192
-
- []
-
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 3223--3225
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3225--3227
-
- []
-
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
 
 [51]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (7.35121pt too wide) in paragraph at lines 2301--2301
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo expresa una |   [] dentro del desarrollo
+. “Pero” conecta con lo anterior,
+ []
+
+
+Overfull \hbox (29.89262pt too wide) in paragraph at lines 2307--2307
+ \TU/IBMPlexSerif(0)/m/n/10.95 Los términos no introducen categorías distintas,
+ sino que amplían una misma descripción. 
+ []
+
+
+Overfull \hbox (1.99568pt too wide) in paragraph at lines 2313--2313
+ \TU/IBMPlexSerif(0)/m/n/10.95 filipenses (“su mensajero”) y con Pablo (“servid
+or para mis necesidades”), mostrando
+ []
+
+
+Overfull \hbox (14.0918pt too wide) in paragraph at lines 2331--2331
+ \TU/IBMPlexSerif(0)/m/n/10.95 El texto mantiene una línea relacional: lo que e
+llos saben afecta su estado, sin introducir
+ []
+
 
 
 [52]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 3315--3317
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3317--3319
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3319--3321
-
- []
-
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 3331--3333
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3333--3335
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3351--3353
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3353--3355
-
- []
-
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
 
 [53]
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 3386--3388
-
- []
-
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 3434--3436
-
+Overfull \hbox (14.73299pt too wide) in paragraph at lines 2391--2391
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se introduce un |   []. “Recíbanlo” establece 
+la acción, y “en el Señor” mantiene
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3436--3438
+Overfull \hbox (14.45921pt too wide) in paragraph at lines 2391--2391
+ \TU/IBMPlexSerif(0)/m/n/10.95 el mismo ámbito del pasaje. “Con todo gozo” defi
+ne la manera, manteniendo coherencia
+ []
 
+
+Overfull \hbox (20.9392pt too wide) in paragraph at lines 2397--2397
+ \TU/IBMPlexSerif(0)/m/n/10.95 El texto no introduce una categoría distinta, si
+no que mantiene la misma línea: reconocer
+ []
+
+
+Overfull \hbox (4.03485pt too wide) in paragraph at lines 2421--2421
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se presenta el |   []. “Para completar” muestr
+a la finalidad, y “lo que faltaba”
+ []
+
+
+Overfull \hbox (9.01563pt too wide) in paragraph at lines 2421--2421
+ \TU/IBMPlexSerif(0)/m/n/10.95 conecta la acción de Epafrodito con la de los fi
+lipenses. El servicio no es independiente,
+ []
+
+
+Overfull \hbox (23.96066pt too wide) in paragraph at lines 2421--2421
+ \TU/IBMPlexSerif(0)/m/n/10.95 sino que forma una sola línea: ellos envían, Epa
+frodito actúa, y Pablo recibe, manteniendo
  []
 
 
 
 [54]
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 3507--3509
-
+Overfull \hbox (26.37915pt too wide) in paragraph at lines 2451--2451
+\TU/IBMPlexSerif(0)/m/n/10.95 embargo, estas propuestas deben evaluarse a la lu
+z del texto mismo, su gramática y su continuidad. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3509--3511
-
+Overfull \hbox (14.93954pt too wide) in paragraph at lines 2453--2453
+\TU/IBMPlexSerif(0)/m/n/10.95 posteriormente. Esta idea propone una división en
+ tres secciones: un agradecimiento (4:10–20),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3511--3513
+Overfull \hbox (15.2415pt too wide) in paragraph at lines 2453--2453
+\TU/IBMPlexSerif(0)/m/n/10.95 Esta postura se apoya en referencias externas, co
+mo la mención de múltiples cartas en Policarpo.
+ []
 
+
+Overfull \hbox (2.18915pt too wide) in paragraph at lines 2455--2455
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Una segunda postura afirma que Filipenses es un
+a sola |   [], pero propone que 3:1 marca
+ []
+
+
+Overfull \hbox (0.10867pt too wide) in paragraph at lines 2455--2455
+\TU/IBMPlexSerif(0)/m/n/10.95 el cierre de una sección y 3:2 el inicio de otra,
+ debido al cambio entre \TU/IBMPlexSerif(2)/m/it/10.95 «regocíjense» \TU/IBMPle
+xSerif(0)/m/n/10.95 y \TU/IBMPlexSerif(2)/m/it/10.95 «cuídense»\TU/IBMPlexSerif
+(0)/m/n/10.95 .
+ []
+
+
+Overfull \hbox (4.52391pt too wide) in paragraph at lines 2472--2472
+ \TU/IBMPlexSerif(0)/m/n/10.95 “regocíjense” ya ha sido mencionado anteriorment
+e (1:4; 1:18; 2:2), y aquí se reafirma
  []
 
 
 
 [55]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 3523--3525
-
+Overfull \hbox (13.65111pt too wide) in paragraph at lines 2478--2478
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se presenta una |   [] sobre la repetición. El
+ énfasis no está en una referencia
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3525--3527
-
- []
-
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 3550--3552
-
+Overfull \hbox (13.41142pt too wide) in paragraph at lines 2484--2484
+ \TU/IBMPlexSerif(0)/m/n/10.95 versículo prepara lo que sigue: las advertencias
+ del versículo 2 no son una interrupción,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3552--3554
-
- []
-
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 3566--3568
-
+Overfull \hbox (9.73746pt too wide) in paragraph at lines 2493--2493
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Se presentan tres |   [] en forma repetida. El 
+mandato “cuídense” (BLEPO) aparece
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3568--3570
-
+Overfull \hbox (8.73239pt too wide) in paragraph at lines 2493--2493
+\TU/IBMPlexSerif(0)/m/n/10.95 constante. La repetición no añade nuevos mandatos
+, sino que intensifica la misma advertencia,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3570--3572
-
+Overfull \hbox (11.82974pt too wide) in paragraph at lines 2497--2497
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se introduce una |   [] fuerte. El término “pe
+rros” se usa como advertencia,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3572--3574
-
+Overfull \hbox (21.72858pt too wide) in paragraph at lines 2503--2503
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se repite el |   [] con otra descripción. “Mal
+os obreros” amplía la caracterización
  []
 
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [56]
+Overfull \hbox (29.9243pt too wide) in paragraph at lines 2509--2509
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se repite el |   [] por tercera vez, completan
+do la advertencia. “Falsa circuncisión”
+ []
+
+
+Overfull \hbox (22.3189pt too wide) in paragraph at lines 2509--2509
+ \TU/IBMPlexSerif(0)/m/n/10.95 dentro de los creyentes (Gálatas 5:2, 10; Apocal
+ipsis 3:9). La repetición marca intensidad,
+ []
+
+
+Overfull \hbox (19.34293pt too wide) in paragraph at lines 2521--2521
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se introduce un |   []. El texto cambia de “el
+los” (v2) a “nosotros”, estableciendo
+ []
+
+
+Overfull \hbox (13.34085pt too wide) in paragraph at lines 2521--2521
+ \TU/IBMPlexSerif(0)/m/n/10.95 una distinción directa sin cambiar de tema. “Nos
+otros” incluye a Pablo y a los creyentes,
+ []
+
+
+Overfull \hbox (0.91994pt too wide) in paragraph at lines 2527--2527
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se afirma una |   []. El texto establece la di
+ferencia con lo anterior mediante
+ []
+
+
+Overfull \hbox (23.1854pt too wide) in paragraph at lines 2527--2527
+ \TU/IBMPlexSerif(0)/m/n/10.95 el término “verdadera”, sin desarrollar aquí tod
+os los detalles, pero marcando claramente
+ []
+
+
+Overfull \hbox (20.45108pt too wide) in paragraph at lines 2545--2545
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se presenta una |   [] que completa el contras
+te. El texto cierra la idea indicando
+ []
+
+
 
 [57]
 
 [58]
+Overfull \hbox (14.97606pt too wide) in paragraph at lines 2605--2605
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se introduce una nueva categoría: la |   []. E
+l texto cambia de origen a conducta,
+ []
+
+
+Overfull \hbox (4.51881pt too wide) in paragraph at lines 2623--2623
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se añade la |   [] dentro del mismo marco. El 
+texto da una evaluación mediante
+ []
+
+
 
 [59]
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (19.26262pt too wide) in paragraph at lines 2666--2666
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo amplía el |   [] del argumento. No corri
+ge lo anterior, sino que lo intensifica,
+ []
+
+
+Overfull \hbox (43.23488pt too wide) in paragraph at lines 2684--2684
+ \TU/IBMPlexSerif(0)/m/n/10.95 realizada (\TU/IBMPlexSerif(2)/m/it/10.95 «he pe
+rdido»\TU/IBMPlexSerif(0)/m/n/10.95 ), mostrando que no es solo una idea, sino 
+una realidad experimentada.
+ []
+
 
 
 [60]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (0.5683pt too wide) in paragraph at lines 2744--2744
+ \TU/IBMPlexSerif(0)/m/n/10.95 nuevo valor. Ahora el texto comienza a desarroll
+ar su contenido. El objeto permanece
+ []
+
+
+Overfull \hbox (4.87335pt too wide) in paragraph at lines 2744--2744
+ \TU/IBMPlexSerif(0)/m/n/10.95 claro: “a Él”, manteniendo el enfoque exclusivam
+ente en Cristo, sin añadir otro centro. 
+ []
+
 
 
 [61]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (27.76468pt too wide) in paragraph at lines 2762--2762
+ \TU/IBMPlexSerif(0)/m/n/10.95 resultado de lo anterior: conocer, experimentar 
+el poder y participar en los padecimientos.
+ []
+
+
+Overfull \hbox (13.04817pt too wide) in paragraph at lines 2768--2768
+ \TU/IBMPlexSerif(0)/m/n/10.95 dónde llega este desarrollo, sin introducir una 
+nueva categoría. Así, el flujo del versículo
+ []
+
+
+Overfull \hbox (11.26181pt too wide) in paragraph at lines 2780--2780
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se introduce la |   []. La expresión señala pr
+opósito, conectando directamente
+ []
+
+
+Overfull \hbox (16.14919pt too wide) in paragraph at lines 2786--2786
+ \TU/IBMPlexSerif(0)/m/n/10.95 de la resurrección en 3:10. No introduce un conc
+epto nuevo, sino que cierra la secuencia
+ []
+
 
 
 [62]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (6.23067pt too wide) in paragraph at lines 2808--2808
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo introduce una |   [] respecto a haber al
+canzado la meta. El texto corrige
+ []
 
-Overfull \hbox (5.23364pt too wide) in paragraph at lines 4182--4183
-[]\TU/IBMPlexSerif(0)/m/n/12 Así que yo, hermanos, no pude hablarles como a esp
-irituales, sino como a carnales,
+
+Overfull \hbox (13.22554pt too wide) in paragraph at lines 2808--2808
+ \TU/IBMPlexSerif(0)/m/n/10.95 una posible idea de logro completo, indicando qu
+e eso aún no ha sucedido. La expresión
+ []
+
+
+Overfull \hbox (8.49149pt too wide) in paragraph at lines 2808--2808
+ \TU/IBMPlexSerif(0)/m/n/10.95 mencionada en 3:11. Así, se establece claramente
+ el estado actual: el proceso continúa
+ []
+
+
+Overfull \hbox (3.53334pt too wide) in paragraph at lines 2826--2826
+ \TU/IBMPlexSerif(0)/m/n/10.95 conectando con la meta anterior sin cambiar el o
+bjetivo. La acción tiene una dirección
  []
 
 
 
 [63]
+Overfull \hbox (13.51509pt too wide) in paragraph at lines 2856--2856
+ \TU/IBMPlexSerif(0)/m/n/10.95 expresión “lo que queda atrás” marca dirección s
+in enumerar elementos, estableciendo
+ []
+
+
+Overfull \hbox (19.01297pt too wide) in paragraph at lines 2874--2874
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo expresa un |   [] continuo. El verbo ret
+oma lo desarrollado en 3:12–13,
+ []
+
+
 
 [64]
+Overfull \hbox (4.70132pt too wide) in paragraph at lines 2880--2880
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se introduce el |   [] del movimiento. La expr
+esión conecta acción y propósito,
+ []
+
+
+Overfull \hbox (6.44748pt too wide) in paragraph at lines 2898--2898
+ \TU/IBMPlexSerif(0)/m/n/10.95 (“nosotros”). “Todos” amplía el alcance, y “somo
+s perfectos” identifica al grupo dentro
+ []
+
+
 
 [65]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (9.34193pt too wide) in paragraph at lines 2940--2940
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se define la |   [] de ese vivir. “La misma no
+rma” indica continuidad, sin introducir
+ []
+
+
+Overfull \hbox (3.38512pt too wide) in paragraph at lines 2940--2940
+ \TU/IBMPlexSerif(0)/m/n/10.95 otra referencia. La expresión “hemos alcanzado” 
+reconoce progreso real, sin implicar
+ []
+
+
+Overfull \hbox (8.67766pt too wide) in paragraph at lines 2940--2940
+ \TU/IBMPlexSerif(0)/m/n/10.95 finalización. Así, el texto mantiene un equilibr
+io dentro del pasaje: no haber alcanzado
+ []
+
+
+Overfull \hbox (8.41702pt too wide) in paragraph at lines 2947--2947
+\TU/IBMPlexSerif(0)/m/n/10.95 y finalmente se muestra una identidad y destino d
+istintos (v20–21). El movimiento se mantiene
+ []
+
+
+Overfull \hbox (23.80591pt too wide) in paragraph at lines 2947--2947
+\TU/IBMPlexSerif(0)/m/n/10.95 en una sola línea: ejemplo → contraste → destino,
+ sin introducir un tema nuevo, sino desarrollando
+ []
+
+
+Overfull \hbox (6.0822pt too wide) in paragraph at lines 2963--2963
+ \TU/IBMPlexSerif(0)/m/n/10.95 implicando una mirada cuidadosa que está conecta
+da con el mismo ejemplo señalado. 
+ []
+
 
 
 [66]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (27.57585pt too wide) in paragraph at lines 2981--2981
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se introduce la |   [] que explica el mandato 
+anterior. “Porque” conecta directamente
+ []
+
+
+Overfull \hbox (8.55937pt too wide) in paragraph at lines 2987--2987
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se añade una |   [] a la misma acción de comun
+icar. El contenido no cambia,
+ []
+
+
+Overfull \hbox (14.71107pt too wide) in paragraph at lines 3005--3005
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se describe el |   []. El texto señala el resu
+ltado final mediante “fin”, definiéndolo
+ []
+
+
+Overfull \hbox (7.76297pt too wide) in paragraph at lines 3011--3011
+ \TU/IBMPlexSerif(0)/m/n/10.95 señala el centro, y “apetito” define ese enfoque
+. El paralelismo se mantiene, añadiendo
+ []
+
+
+Overfull \hbox (9.93541pt too wide) in paragraph at lines 3017--3017
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se describe una |   []. El texto muestra una i
+nversión: “gloria” y “vergüenza”
+ []
+
 
 
 [67]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (3.32555pt too wide) in paragraph at lines 3035--3035
+ \TU/IBMPlexSerif(0)/m/n/10.95 cuya ciudadanía está en los cielos. No se cambia
+ de tema, sino de grupo. “Ciudadanía”
+ []
+
+
+Overfull \hbox (1.90688pt too wide) in paragraph at lines 3041--3041
+ \TU/IBMPlexSerif(0)/m/n/10.95 consecuencia de esa identidad. “Esperamos” indic
+a una acción continua, no puntual,
+ []
+
+
+Overfull \hbox (16.35208pt too wide) in paragraph at lines 3059--3059
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se introduce una |   [] futura que continúa la
+ expectativa de 3:20. “Transformará”
+ []
+
 
 
 [68]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (7.7381pt too wide) in paragraph at lines 3065--3065
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se describe el |   [] de esa acción. “En confo
+rmidad” indica correspondencia,
+ []
+
+
+Overfull \hbox (1.75334pt too wide) in paragraph at lines 3065--3065
+ \TU/IBMPlexSerif(0)/m/n/10.95 y “el cuerpo de Su gloria” establece el modelo h
+acia el cual se dirige la transformación.
+ []
+
+
+Overfull \hbox (9.37083pt too wide) in paragraph at lines 3104--3104
+\TU/IBMPlexSerif(0)/m/n/10.95 secuencia se mantiene en una sola línea: exhortac
+ión general → caso específico → intervención,
+ []
+
 
 
 [69]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (22.98564pt too wide) in paragraph at lines 3123--3123
+ \TU/IBMPlexSerif(0)/m/n/10.95 los ve: “amados” muestra afecto, y “añorados” añ
+ade un sentido de anhelo. No introducen
+ []
+
+
+Overfull \hbox (5.82182pt too wide) in paragraph at lines 3129--3129
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se añade una |   []. Estas expresiones identif
+ican cómo Pablo los considera,
+ []
+
+
+Overfull \hbox (26.73053pt too wide) in paragraph at lines 3135--3135
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se establece el |   []. “Estén firmes” indica 
+permanecer, aplicando lo desarrollado
+ []
+
 
 
 [70]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (12.90921pt too wide) in paragraph at lines 3171--3171
+ \TU/IBMPlexSerif(0)/m/n/10.95 “mis luchas” conecta con la experiencia de Pablo
+, y “en la causa del evangelio” mantiene
+ []
+
+
+Overfull \hbox (16.14772pt too wide) in paragraph at lines 3177--3177
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se amplía el |   []. La expresión añade más pe
+rsonas dentro de la misma categoría:
+ []
+
+
+Overfull \hbox (16.59665pt too wide) in paragraph at lines 3177--3177
+ \TU/IBMPlexSerif(0)/m/n/10.95 “colaboradores” indica participación sin introdu
+cir un grupo distinto. Todo se mantiene
+ []
+
+
+Overfull \hbox (24.2665pt too wide) in paragraph at lines 3183--3183
+ \TU/IBMPlexSerif(0)/m/n/10.95 se cierra en una secuencia coherente: personas →
+ participación → grupo → identificación,
+ []
+
+
+Overfull \hbox (31.1492pt too wide) in paragraph at lines 3190--3190
+\TU/IBMPlexSerif(0)/m/n/10.95 Este bloque mantiene una |   [] clara dentro del 
+desarrollo. Se inicia con una exhortación
+ []
+
+
+Overfull \hbox (9.87817pt too wide) in paragraph at lines 3190--3190
+\TU/IBMPlexSerif(0)/m/n/10.95 La secuencia se mantiene en una sola línea: regoc
+ijo → disposición visible → acción → resultado,
+ []
+
+
+Overfull \hbox (19.96463pt too wide) in paragraph at lines 3200--3200
+ \TU/IBMPlexSerif(0)/m/n/10.95 “regocíjense” indica lo que deben hacer, y “siem
+pre” extiende esa acción a todo momento
+ []
+
 
 
 [71]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (9.59863pt too wide) in paragraph at lines 3218--3218
+ \TU/IBMPlexSerif(0)/m/n/10.95 “De todos los hombres” amplía el alcance sin lim
+itar el grupo, manteniendo coherencia
+ []
+
+
+Overfull \hbox (10.7608pt too wide) in paragraph at lines 3242--3242
+ \TU/IBMPlexSerif(0)/m/n/10.95 negación a la acción, y “en todo” corresponde a 
+“por nada”, manteniendo el paralelismo
+ []
+
 
 
 [72]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (5.77344pt too wide) in paragraph at lines 3266--3266
+ \TU/IBMPlexSerif(0)/m/n/10.95 no inicia una idea aislada, sino que responde a 
+la acción anterior (presentar peticiones
+ []
+
+
+Overfull \hbox (22.90385pt too wide) in paragraph at lines 3278--3278
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se presenta la |   [] y su alcance. “Guardará”
+ indica una acción futura de protección
+ []
+
+
+Overfull \hbox (4.82324pt too wide) in paragraph at lines 3278--3278
+ \TU/IBMPlexSerif(0)/m/n/10.95 mismo centro del pasaje. Así, la secuencia se ma
+ntiene clara: resultado → descripción
+ []
+
 
 
 [73]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ⚠ (U+26A0) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ️ (U+FE0F) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-SemiBold.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (6.44649pt too wide) in paragraph at lines 3325--3325
+ \TU/IBMPlexSerif(0)/m/n/10.95 presentan contenido nuevo, sino que retoman lo y
+a dado anteriormente, manteniendo
+ []
+
+
+Overfull \hbox (22.6827pt too wide) in paragraph at lines 3331--3331
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se establece la |   []. “Esto” recoge todo lo 
+anterior, y “practiquen” indica ejecución.
+ []
+
+
+Overfull \hbox (18.28642pt too wide) in paragraph at lines 3331--3331
+ \TU/IBMPlexSerif(0)/m/n/10.95 El texto pasa de recibir (aprender, oír, ver) a 
+hacer, sin romper la línea, sino respondiendo
+ []
+
 
 
 [74]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (5.0364pt too wide) in paragraph at lines 3366--3366
+ \TU/IBMPlexSerif(0)/m/n/10.95 introduce la limitación. Así, la idea queda comp
+leta: había intención, pero no ocasión,
+ []
+
+
+Overfull \hbox (17.89288pt too wide) in paragraph at lines 3384--3384
+ \TU/IBMPlexSerif(0)/m/n/10.95 alcance, incluyendo todo tipo de contextos, cerr
+ando la idea en una secuencia coherente:
+ []
+
 
 
 [75]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (20.43327pt too wide) in paragraph at lines 3396--3396
+ \TU/IBMPlexSerif(0)/m/n/10.95 práctico adquirido, repetido para ambas condicio
+nes, manteniendo la misma estructura.
+ []
+
+
+Overfull \hbox (8.00722pt too wide) in paragraph at lines 3396--3396
+ \TU/IBMPlexSerif(0)/m/n/10.95 “Pobreza” y “prosperidad” marcan extremos dentro
+ de un mismo rango, estableciendo
+ []
+
+
+Overfull \hbox (2.99457pt too wide) in paragraph at lines 3402--3402
+ \TU/IBMPlexSerif(0)/m/n/10.95 fuera, y “he aprendido” refuerza el proceso cont
+inuo. “El secreto” define lo aprendido,
+ []
+
+
+Overfull \hbox (9.19446pt too wide) in paragraph at lines 3408--3408
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se desarrollan |   [] en paralelismo. El texto
+ presenta pares opuestos: saciado
+ []
+
+
+Overfull \hbox (0.10277pt too wide) in paragraph at lines 3408--3408
+ \TU/IBMPlexSerif(0)/m/n/10.95 ↔ hambre, abundancia ↔ necesidad, manteniendo la
+ misma estructura en cada caso.
+ []
+
+
+Overfull \hbox (31.42197pt too wide) in paragraph at lines 3408--3408
+ \TU/IBMPlexSerif(0)/m/n/10.95 Estos ejemplos no introducen nuevas categorías, 
+sino que amplían el rango ya mencionado,
+ []
+
+
+Overfull \hbox (24.66364pt too wide) in paragraph at lines 3438--3438
+ \TU/IBMPlexSerif(0)/m/n/10.95 depende de la ayuda, pero al mismo tiempo recono
+ce lo que ellos han hecho, manteniendo
+ []
+
 
 
 [76]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (9.88431pt too wide) in paragraph at lines 3457--3457
+\TU/IBMPlexSerif(0)/m/n/10.95 Este bloque mantiene una |   [] clara dentro del 
+desarrollo. Se inicia con un recuerdo
+ []
+
+
+Overfull \hbox (0.91774pt too wide) in paragraph at lines 3467--3467
+ \TU/IBMPlexSerif(0)/m/n/10.95 no es información nueva, y “filipenses” identifi
+ca claramente al grupo. Esto establece
+ []
+
+
+Overfull \hbox (18.83195pt too wide) in paragraph at lines 3473--3473
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se ubica el |   [] y el contexto. “Al comienzo
+” señala el punto inicial, y “predicación
+ []
+
+
+Overfull \hbox (8.96814pt too wide) in paragraph at lines 3473--3473
+ \TU/IBMPlexSerif(0)/m/n/10.95 del evangelio” define el marco. “Después que par
+tí de Macedonia” delimita el momento
+ []
+
+
+Overfull \hbox (4.36452pt too wide) in paragraph at lines 3473--3473
+ \TU/IBMPlexSerif(0)/m/n/10.95 dentro de la secuencia, manteniendo continuidad 
+sin desarrollar detalles adicionales. 
+ []
+
+
+Overfull \hbox (9.86388pt too wide) in paragraph at lines 3479--3479
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se introduce un |   [] general. “Ninguna igles
+ia” excluye a todos, y “compartió
+ []
+
 
 
 [77]
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no 👉 (U+1F449) in font [/Users/johnwry/Library/Font
-s/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ❗ (U+2757) in font [/Users/johnwry/Library/Fonts
-/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Overfull \hbox (8.82945pt too wide) in paragraph at lines 3503--3503
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se describe la |   [] con su frecuencia y prop
+ósito. “Enviaron” muestra iniciativa,
+ []
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 3527--3529
+[]\TU/IBMPlexSerif(2)/m/it/10.95 « Pero lo he recibido todo y tengo abundancia.
+ Estoy bien abastecido, habiendo recibido de
+ []
+
 
 
 [78]
+Overfull \hbox (14.65121pt too wide) in paragraph at lines 3533--3533
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se describe el |   [] actual de Pablo. El text
+o afirma suficiencia completa mediante
+ []
+
+
+Overfull \hbox (15.19409pt too wide) in paragraph at lines 3533--3533
+ \TU/IBMPlexSerif(0)/m/n/10.95 tres expresiones que refuerzan la misma idea: “l
+o he recibido todo”, “tengo abundancia”
+ []
+
+
+Overfull \hbox (12.77657pt too wide) in paragraph at lines 3533--3533
+ \TU/IBMPlexSerif(0)/m/n/10.95 y “estoy bien abastecido”. Pablo habla en primer
+a persona, manteniendo la continuidad
+ []
+
+
+Overfull \hbox (7.97173pt too wide) in paragraph at lines 3539--3539
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se identifica el |   [] por el cual llega esa 
+suficiencia. “Habiendo recibido” explica
+ []
+
+
+Overfull \hbox (0.28995pt too wide) in paragraph at lines 3545--3545
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se presenta una |   [] del envío. El texto no 
+describe cantidad, sino calidad,
+ []
+
+
+Overfull \hbox (30.75914pt too wide) in paragraph at lines 3557--3557
+ \TU/IBMPlexSerif(0)/m/n/10.95 identifica al agente, “proveerá” señala una acci
+ón hacia adelante, y “todas sus necesidades”
+ []
+
+
+Overfull \hbox (12.74374pt too wide) in paragraph at lines 3557--3557
+ \TU/IBMPlexSerif(0)/m/n/10.95 define el alcance sin limitación. La provisión n
+o es general, sino dirigida a los filipenses,
+ []
+
+
+Overfull \hbox (17.28288pt too wide) in paragraph at lines 3563--3563
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se define la |   [] y el |   []. “Conforme a” 
+indica el estándar de la provisión,
+ []
+
+
+Overfull \hbox (1.87888pt too wide) in paragraph at lines 3563--3563
+ \TU/IBMPlexSerif(0)/m/n/10.95 “sus riquezas” señala abundancia que no depende 
+de recursos humanos, y “en gloria”
+ []
+
+
 
 [79]
+Overfull \hbox (19.60422pt too wide) in paragraph at lines 3581--3581
+ \TU/IBMPlexSerif(0)/m/n/10.95 reconoce lo que corresponde a Dios. “Sea” introd
+uce una declaración de reconocimiento,
+ []
 
-[80] (temp/student_manual.aux)
+
+Overfull \hbox (5.39168pt too wide) in paragraph at lines 3626--3626
+ \TU/IBMPlexSerif(0)/m/n/10.95 general, y “los de la casa de César” identifica 
+ese grupo sin desarrollarlo más, cerrando
+ []
+
+
+
+[80]
+Overfull \hbox (17.74423pt too wide) in paragraph at lines 3638--3638
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se introduce una |   []. “La gracia” define el
+ contenido, y “del Señor Jesucristo”
+ []
+
+
+Overfull \hbox (5.51309pt too wide) in paragraph at lines 3644--3644
+ \TU/IBMPlexSerif(0)/m/n/10.95 de ustedes” identifica a los destinatarios. Así,
+ el texto concluye manteniendo la misma
+ []
+
+
+Overfull \hbox (1.36617pt too wide) in paragraph at lines 3670--3670
+[][][]$[][][][][] [] [] [] [][][][][][][][] [] [][][][][][][][][][][][][][][][]
+[][] [] [][][] [] [][] [] [] [] [][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][] []
+ []
+
+
+
+[81] (temp/student_manual.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `student_manual.out' has not changed.
-(rerunfilecheck)             Checksum: 0EA1B0D33E76B2B2C3890A4F910E5F1A;9805.
+(rerunfilecheck)             Checksum: A7EAE99933D1E281A0967D47DACEC96C;4527.
  ) 
 Here is how much of TeX's memory you used:
- 36887 strings out of 473832
- 774717 string characters out of 5729482
- 1326530 words of memory out of 5000000
- 59340 multiletter control sequences out of 15000+600000
- 563423 words of font info for 111 fonts, out of 8000000 for 9000
+ 36345 strings out of 473832
+ 764737 string characters out of 5729482
+ 1308725 words of memory out of 5000000
+ 58801 multiletter control sequences out of 15000+600000
+ 563188 words of font info for 109 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 121i,17n,124p,512b,1185s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 121i,17n,124p,802b,576s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on temp/student_manual.pdf (80 pages).
+Output written on temp/student_manual.pdf (81 pages).
